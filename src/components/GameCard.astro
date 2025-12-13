@@ -1,5 +1,6 @@
 ---
 import { Image } from 'astro:assets';
+import { getLocaleFromLangAttr, getLocalizedPath } from '../i18n/utils';
 
 interface Props {
   title: string;
@@ -11,19 +12,8 @@ interface Props {
 }
 
 const { title, thumbnail, slug, description, loading = 'lazy', lang = 'en' } = Astro.props;
-
-const LANGUAGE_PREFIXES: Record<string, string> = {
-  'en': '',
-  'zh-CN': '/zh',
-  'es': '/es',
-  'fr': '/fr',
-  'de': '/de',
-  'ja': '/ja',
-  'ko': '/ko'
-};
-
-const prefix = LANGUAGE_PREFIXES[lang] ?? '';
-const href = `${prefix}/${slug}/`;
+const locale = getLocaleFromLangAttr(lang);
+const href = getLocalizedPath(`${slug}/`, locale);
 
 // Determine if thumbnail is a local or remote image
 const isRemote = thumbnail.startsWith('http://') || thumbnail.startsWith('https://');

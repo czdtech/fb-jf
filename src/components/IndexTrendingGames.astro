@@ -1,7 +1,6 @@
 ---
-// 1. 从我们的"数据库"中导入所有游戏
-import { allGames } from '../data/games.js';
 import { useTranslations, getLocaleFromLangAttr, getLocalizedPath } from '../i18n/utils';
+import { getCanonicalGames, toGameCardData, type GameEntry } from '../lib/canonical-games';
 import { seededShuffle, getTrendingSeed } from '../lib/seeded-shuffle';
 
 interface Props {
@@ -12,81 +11,44 @@ const { lang = 'en' } = Astro.props as Props;
 const locale = getLocaleFromLangAttr(lang);
 const t = useTranslations(locale);
 
-// 2. 定义要随机显示的游戏数量
-const numberOfGamesToShow = 12; // 例如，随机显示12个
-
-// 3. 随机化并挑选游戏的核心逻辑
-//    这段代码会在网站构建时运行
-// NOTE: 不能对 allGames 原地 sort()（会污染全局数组、导致构建不可复现）。
-// Seed 策略：按 UTC 日期每日轮换（同一天内重复构建顺序一致）。
+const numberOfGamesToShow = 12;
 const seed = getTrendingSeed('daily');
-const shuffledGames = seededShuffle(allGames, seed);
-const randomGames = shuffledGames.slice(0, numberOfGamesToShow);
+
+const canonicalGames = await getCanonicalGames();
+const getSlug = (entry: GameEntry): string =>
+  String(entry.data.urlstr || entry.slug).replace(/^\/+/, '').replace(/\/+$/, '');
+
+const featuredSlugs = ['steal-a-brainrot', '99-nights-in-the-forest', 'grow-a-garden'] as const;
+const featuredSet = new Set<string>(featuredSlugs);
+const isEntry = (e: GameEntry | undefined): e is GameEntry => Boolean(e);
+
+const featuredGames = featuredSlugs
+  .map((slug) => canonicalGames.find((g) => getSlug(g) === slug))
+  .filter(isEntry);
+
+const pool = canonicalGames.filter((g) => !featuredSet.has(getSlug(g)));
+const randomGames = seededShuffle(pool, seed).slice(0, numberOfGamesToShow);
+
+const cards = [...featuredGames, ...randomGames].map((entry) => toGameCardData(entry, locale));
 ---
 
 <section class="games">
      <div class="container">
        <h2>{t('game.trendingGames', 'Trending Games')}</h2>
        <div class="game-grid">
-
+         {cards.map((card) => (
             <div class="game game--compact">
-              <a href={getLocalizedPath('steal-a-brainrot/', locale)} title="Steal a Brainrot">
+              <a href={card.href} title={card.title}>
                  <div class="game-logo game-l-2">
                      <img
-                       src="/new-images/steal-a-brainrot.webp"
-                       alt="Steal a Brainrot"
+                       src={card.thumbnail}
+                       alt={card.title}
                        loading="lazy"
                        width="300"
                        height="300"
                      />
                  </div>
-                 <p class="game__title--ellipsis">Steal a Brainrot</p>
-              </a>
-            </div>
-
-            <div class="game game--compact">
-              <a href={getLocalizedPath('99-nights-in-the-forest/', locale)} title="99 Nights in the Forest">
-                 <div class="game-logo game-l-2">
-                     <img
-                       src="/new-images/99-nights-in-the-forest.webp"
-                       alt="99 Nights in the Forest"
-                       loading="lazy"
-                       width="300"
-                       height="300"
-                     />
-                 </div>
-                 <p class="game__title--ellipsis">99 Nights in the Forest</p>
-              </a>
-            </div>
-
-            <div class="game game--compact">
-              <a href={getLocalizedPath('grow-a-garden/', locale)} title="Grow a Garden">
-                 <div class="game-logo game-l-2">
-                     <img
-                       src="/growagarden-min.jpeg"
-                       alt="Grow a Garden"
-                       loading="lazy"
-                       width="300"
-                       height="300"
-                     />
-                 </div>
-                 <p class="game__title--ellipsis">Grow a Garden</p>
-              </a>
-            </div>
-
-         {randomGames.map(({ astronaut }) => (
-            <div class="game game--compact">
-              <a href={getLocalizedPath(astronaut[0].replace(/^\/+/, '').replace(/\/+$/, '') + '/', locale)} title={astronaut[2]}>
-                 <div class="game-logo game-l-2">
-                     <img
-                       src={astronaut[1]}
-                       alt={astronaut[2]}
-                       loading="lazy"
-                       width="300"
-                       height="300"
-                     />
-                 </div>
-                 <p class="game__title--ellipsis">{astronaut[2]}</p>
+                 <p class="game__title--ellipsis">{card.title}</p>
               </a>
             </div>
          ))}

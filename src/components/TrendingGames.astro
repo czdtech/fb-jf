@@ -1,84 +1,61 @@
 ---
-// 1. 从我们的"数据库"中导入所有游戏
-import { allGames } from '../data/games.js';
 import GameCard from './GameCard.astro';
-import { seededShuffle, getTrendingSeed } from '../lib/seeded-shuffle';
-
-// 2. 定义要随机显示的游戏数量
-const numberOfGamesToShow = 47; // 例如，随机显示12个
-
-// 3. 随机化并挑选游戏的核心逻辑
-//    这段代码会在网站构建时运行
-// NOTE: 不能对 allGames 原地 sort()（会污染全局数组、导致构建不可复现）。
-// Seed 策略：按 UTC 日期每日轮换（同一天内重复构建顺序一致）。
-const seed = getTrendingSeed('daily');
-const shuffledGames = seededShuffle(allGames, seed);
-const randomGames = shuffledGames.slice(0, numberOfGamesToShow);
 import CATEGORIES from './Categories.astro';
-import { useTranslations, getLocaleFromLangAttr } from '../i18n/utils';
+import { getCanonicalGames, type GameEntry } from '../lib/canonical-games';
+import { seededShuffle, getTrendingSeed } from '../lib/seeded-shuffle';
+import { useTranslations, getLocaleFromLangAttr, getLocalizedPath } from '../i18n/utils';
 
 interface Props {
   lang?: string;
 }
 
 const { lang = 'en' } = Astro.props as Props;
-
-const LANGUAGE_PREFIXES: Record<string, string> = {
-  'en': '',
-  'zh-CN': '/zh',
-  'es': '/es',
-  'fr': '/fr',
-  'de': '/de',
-  'ja': '/ja',
-  'ko': '/ko'
-};
-
-const prefix = LANGUAGE_PREFIXES[lang] ?? '';
-
 const locale = getLocaleFromLangAttr(lang);
 const t = useTranslations(locale);
+
+const numberOfGamesToShow = 47;
+
+// Seed 策略：按 UTC 日期每日轮换（同一天内重复构建顺序一致）。
+const seed = getTrendingSeed('daily');
+const canonicalGames = await getCanonicalGames();
+
+const getSlug = (entry: GameEntry): string =>
+  String(entry.data.urlstr || entry.slug).replace(/^\/+/, '').replace(/\/+$/, '');
+
+const getTitle = (entry: GameEntry): string => {
+  const title = entry.data.title || 'Untitled';
+  return title.split(' - ')[0] || title;
+};
+
+const featuredSlugs = ['steal-a-brainrot', '99-nights-in-the-forest', 'grow-a-garden'] as const;
+const featuredSet = new Set<string>(featuredSlugs);
+const isEntry = (e: GameEntry | undefined): e is GameEntry => Boolean(e);
+
+const featuredGames = featuredSlugs
+  .map((slug) => canonicalGames.find((g) => getSlug(g) === slug))
+  .filter(isEntry);
+
+const pool = canonicalGames.filter((g) => !featuredSet.has(getSlug(g)));
+const randomGames = seededShuffle(pool, seed).slice(0, numberOfGamesToShow);
 ---
 
-
 <section class="games">
-     <div class="container">
-       <h2>{t('game.trendingGames', 'Trending Games')}</h2>
-       <div class="game-grid">
+  <div class="container">
+    <h2>{t('game.trendingGames', 'Trending Games')}</h2>
+    <div class="game-grid">
+      {featuredGames.map((game) => (
+        <GameCard title={getTitle(game)} thumbnail={game.data.thumbnail} slug={getSlug(game)} lang={lang} />
+      ))}
 
-            <GameCard 
-              title="Steal a Brainrot"
-              thumbnail="/new-images/steal-a-brainrot.webp"
-              slug="steal-a-brainrot"
-              lang={lang}
-            />
-
-            <GameCard 
-              title="99 Nights in the Forest"
-              thumbnail="/new-images/99-nights-in-the-forest.webp"
-              slug="99-nights-in-the-forest"
-              lang={lang}
-            />
-
-            <GameCard 
-              title="Grow a Garden"
-              thumbnail="/growagarden-min.jpeg"
-              slug="grow-a-garden"
-              lang={lang}
-            />
-
-         {randomGames.map(({ astronaut }) => (
-            <GameCard 
-              title={astronaut[2]}
-              thumbnail={astronaut[1]}
-              slug={astronaut[0]
-                .replace(/^\/+/, '')   // 去掉所有前导 /
-                .replace(/\/+$/, '')}  // 去掉所有尾部 /
-              lang={lang}
-            />
-         ))}
-       </div>
-       <div class="more"><a href={`${prefix}/update-games/`}>{t('game.exploreGames', 'More Games')}</a></div>
+      {randomGames.map((game) => (
+        <GameCard title={getTitle(game)} thumbnail={game.data.thumbnail} slug={getSlug(game)} lang={lang} />
+      ))}
     </div>
+
+    <div class="more">
+      <a href={getLocalizedPath('update-games/', locale)}>{t('game.exploreGames', 'More Games')}</a>
+    </div>
+  </div>
 </section>
 
 <CATEGORIES lang={lang} />
