@@ -6,7 +6,7 @@ iframeSrc: "https://ams.cdn.arkadiumhosted.com/assets/global/game/block-champ/"
 thumbnail: "/new-images/block-champ.jpg"
 urlstr: "block-champ"
 score: "4.6/5  (926 votes)"
-tags: ["puzzle", "board Game"]
+tags: ["puzzle", "board game"]
 developer: ""
 releaseDate: 2025-08-16
 ---
@@ -56,4 +56,3 @@ The game features very simple drag-and-drop controls, suitable for both mouse an
 
 **4. Why did the game end even though I have space on the board?**
 > The game ends when there is no valid position on the board for ANY of the three pieces you are currently holding. Even if the board looks mostly empty, if none of your specific shapes can fit into the available gaps, the game is over.
-

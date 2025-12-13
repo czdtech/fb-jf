@@ -6,7 +6,7 @@ iframeSrc: "https://g.igroutka.ru/games/164/lt2ARJHFBxPb4spD/4/war_of_sticks/"
 thumbnail: "/new-images/war-of-sticks.jpg"
 urlstr: "war-of-sticks"
 score: "4.4/5  (816 votes)"
-tags: ["strategy", "rTS", "stickman"]
+tags: ["strategy", "rts", "stickman"]
 developer: ""
 releaseDate: 2025-08-16
 ---
@@ -42,4 +42,3 @@ Train more miners to gather gold. You can also convert collected stone into gold
 **What are the best units to use?**
 
 A diverse army is generally most effective. Shielders provide a strong front line, archers offer ranged support, and barbarians are good for close combat. Wizards can provide valuable crowd control.
-

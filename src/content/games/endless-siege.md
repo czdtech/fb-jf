@@ -5,7 +5,7 @@ iframeSrc: "https://endlessseige.h5games.usercontent.goog/v/35nvlvatb9t8g/"
 thumbnail: "/new-images/endless-siege.jpg"
 urlstr: "endless-siege"
 score: "4.6/5  (3100 votes)"
-tags: ["tower Defense", "strategy", "action"]
+tags: ["tower defense", "strategy", "action"]
 developer: ""
 releaseDate: 2025-10-17
 ---
@@ -43,4 +43,3 @@ Endless Siege is a highly engaging tower defense game that challenges you to def
 
 *   **Q: Why is the map different from yesterday?**
     *   **A:** A unique feature of Endless Siege is that a new map is generated every day, offering a fresh strategic challenge for all players.
-

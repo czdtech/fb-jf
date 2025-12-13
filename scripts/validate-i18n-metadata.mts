@@ -25,6 +25,7 @@ interface GameMetadata {
   title: string;
   filePath: string;
   fileName: string;
+  tags?: unknown;
 }
 
 // Validation result interface
@@ -38,7 +39,14 @@ interface ValidationResult {
 }
 
 interface ValidationError {
-  type: 'missing_locale' | 'invalid_locale' | 'missing_urlstr' | 'missing_canonical' | 'duplicate_canonical' | 'parse_error';
+  type:
+    | 'missing_locale'
+    | 'invalid_locale'
+    | 'missing_urlstr'
+    | 'missing_canonical'
+    | 'duplicate_canonical'
+    | 'invalid_tag'
+    | 'parse_error';
   filePath: string;
   message: string;
 }
@@ -105,7 +113,8 @@ async function parseGameFile(filePath: string): Promise<GameMetadata | Validatio
       urlstr: data.urlstr,
       title: data.title || 'Untitled',
       filePath,
-      fileName
+      fileName,
+      tags: data.tags
     };
   } catch (error) {
     return {
@@ -113,6 +122,40 @@ async function parseGameFile(filePath: string): Promise<GameMetadata | Validatio
       filePath,
       message: `Failed to parse file: ${error instanceof Error ? error.message : String(error)}`
     };
+  }
+}
+
+function validateCanonicalTags(game: GameMetadata, errors: ValidationError[]): void {
+  const tags = game.tags;
+  if (tags == null) return;
+
+  if (!Array.isArray(tags)) {
+    errors.push({
+      type: 'invalid_tag',
+      filePath: game.filePath,
+      message: `Canonical tags must be a string[] (YAML list). Received: ${typeof tags}`
+    });
+    return;
+  }
+
+  for (const rawTag of tags) {
+    if (typeof rawTag !== 'string') {
+      errors.push({
+        type: 'invalid_tag',
+        filePath: game.filePath,
+        message: `Canonical tag must be a string. Received: ${String(rawTag)}`
+      });
+      continue;
+    }
+
+    const expected = rawTag.trim().toLowerCase();
+    if (rawTag !== expected) {
+      errors.push({
+        type: 'invalid_tag',
+        filePath: game.filePath,
+        message: `Canonical tag must be lowercase and trimmed. Found '${rawTag}', expected '${expected}'`
+      });
+    }
   }
 }
 
@@ -139,6 +182,9 @@ async function validateGameFiles(gamesDir: string): Promise<ValidationResult> {
 
     // Categorize by locale
     if (result.locale === 'en') {
+      // Validate canonical tags formatting to prevent category slug collisions.
+      validateCanonicalTags(result, errors);
+
       // Check for duplicate canonical games
       if (canonicalGames.has(result.urlstr)) {
         errors.push({

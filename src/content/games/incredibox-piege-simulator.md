@@ -5,7 +5,7 @@ iframeSrc: "https://turbowarp.org/887559994/embed"
 thumbnail: "/new-images/incredibox-piege-simulator.png"
 urlstr: "incredibox-piege-simulator"
 score: "4.5/5 (889 votes)"
-tags: ["music", "fan-Made", "simulator"]
+tags: ["music", "fan-made", "simulator"]
 developer: ""
 releaseDate: 2025-10-10
 ---
@@ -52,4 +52,3 @@ The "Simulator" style is a creative choice by the modding community. Its grid-ba
 **3. Where can I play this mod?**
 
 You will not find it on official platforms. These mods are typically shared on gaming sites like **Newgrounds**, modding communities like **playfiddlebops.com**, or showcased on YouTube with links to play them in a web browser.
-

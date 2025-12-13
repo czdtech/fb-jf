@@ -6,7 +6,7 @@ iframeSrc: "https://webglmath.github.io/basketball-legends/"
 thumbnail: "/new-images/basketball-legends.jpg"
 urlstr: "basketball-legends"
 score: "4.5/5  (832 votes)"
-tags: ["2-Player", "sports"]
+tags: ["2-player", "sports"]
 developer: ""
 releaseDate: 2025-08-16
 ---
@@ -74,4 +74,3 @@ While the game features many different characters, their core abilities are gene
 
 **5. Can I pass the ball in a 2-on-2 match?**
 In most versions of the game, the "shoot" button (`B` or `L`) acts as a "pass" button when your teammate does not have the ball.
-

@@ -6,7 +6,7 @@ iframeSrc: "https://flash-cdn.blogspot.com/2021/06/the-binding-of-isaac.html"
 thumbnail: "/new-images/the-binding-of-isaac.jpg"
 urlstr: "the-binding-of-isaac"
 score: "4.1/5  (186 votes)"
-tags: ["roguelike", "action-RPG", "indie"]
+tags: ["roguelike", "action-rpg", "indie"]
 developer: ""
 releaseDate: 2025-08-16
 ---
@@ -44,4 +44,3 @@ New characters, items, and challenges are unlocked by completing specific achiev
 **Is the game difficult?**
 
 Yes, The Binding of Isaac is known for its high difficulty and steep learning curve. Success often depends on understanding item synergies and enemy patterns, as well as a bit of luck with item drops.
-

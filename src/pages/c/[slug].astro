@@ -7,15 +7,28 @@ export async function getStaticPaths() {
   const allGames = await getCollection('games');
   // 只使用英文 canonical 游戏作为分类基准，避免各语言版本重复出现在分类列表中
   const canonicalGames = allGames.filter((game) => game.data.locale === 'en');
-  // Minimal slugify: convert spaces to hyphens and lowercase
-  const slugify = (s) => s.trim().toLowerCase().replace(/\s+/g, '-');
-  
-  // Since tags will be consistently lowercase, we can use a simple Set.
-  const uniqueTags = [...new Set(canonicalGames.flatMap((game) => game.data.tags || []).filter(Boolean))];
+  const normalizeTag = (tag: string): string => tag.trim().toLowerCase();
+  // Minimal slugify: convert spaces to hyphens (tags already normalized)
+  const slugify = (normalizedTag: string): string => normalizedTag.replace(/\s+/g, '-');
+  const toTagSlug = (rawTag: string): string => slugify(normalizeTag(rawTag));
 
-  return uniqueTags.map(tag => {
+  // Use slug as the route key to avoid collisions like "2 player" vs "2-player".
+  const uniqueSlugs = [
+    ...new Set(
+      canonicalGames
+        .flatMap((game) => game.data.tags || [])
+        .filter((tag): tag is string => typeof tag === 'string' && tag.trim() !== '')
+        .map((tag) => toTagSlug(tag))
+    ),
+  ].sort();
+
+  return uniqueSlugs.map((slug) => {
     // Filter games that include the current tag.
-    const filteredGames = canonicalGames.filter((game) => game.data.tags?.includes(tag));
+    const filteredGames = canonicalGames.filter((game) =>
+      (game.data.tags || []).some(
+        (rawTag) => typeof rawTag === 'string' && toTagSlug(rawTag) === slug
+      )
+    );
 
     // Sort games by release date, newest first
     // Handle missing releaseDate by defaulting to 0 (oldest)
@@ -25,11 +38,9 @@ export async function getStaticPaths() {
       return dateB - dateA; // Newest first
     });
 
-    const slug = slugify(tag);
-    
     return {
       params: { slug }, // Use slugified tag in URL
-      props: { games: filteredGames, tagName: tag }, // Keep original tag for display
+      props: { games: filteredGames, tagName: slug.replace(/-/g, ' ') }, // Normalized tag for display
     };
   });
 }

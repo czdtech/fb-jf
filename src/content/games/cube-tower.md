@@ -5,7 +5,7 @@ iframeSrc: "https://cubetower.h5games.usercontent.goog/v/6k8tnoea28210/"
 thumbnail: "/new-images/cube-tower.png"
 urlstr: "cube-tower"
 score: "4.4/5 (1987 votes)"
-tags: ["tower Defense", "action", "thinky"]
+tags: ["tower defense", "action", "thinky"]
 developer: ""
 releaseDate: 2025-10-18
 ---
@@ -32,4 +32,3 @@ Cube Tower is a tower defense game where your main objective is to protect a cen
     *   **A:** Different towers are effective against different types of enemies. A good strategy is to use a mix of towers to cover all weaknesses. For example, Cannon Towers are good against groups of enemies, while Laser Towers can be effective against fast enemies.
 *   **Q: How do I get a 3-star rating?**
     *   **A:** You earn stars based on how many lives you have remaining at the end of each level. To get 3 stars, you need to prevent as many enemies as possible from reaching your Cube Tower.
-

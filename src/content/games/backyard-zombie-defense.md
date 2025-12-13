@@ -5,7 +5,7 @@ iframeSrc: "https://18ivvthj417fo.h5games.usercontent.goog/v/27786m6fltuso/"
 thumbnail: "/new-images/backyard-zombie-defense.png"
 urlstr: "backyard-zombie-defense"
 score: "4.1/5  (1994 votes)"
-tags: ["tower Defense", "thinky"]
+tags: ["tower defense", "thinky"]
 developer: ""
 releaseDate: 2025-10-18
 ---
@@ -32,4 +32,3 @@ Backyard Zombie Defense is a lightweight TD: build and upgrade a mix of single�
 - Keep leaking—what to do? Add slows and aoe at choke/exits; upgrade key towers.
 - Best openers? One strong early tower covering long lanes.
 - Speed toggle? Many versions include fast‑forward.
-

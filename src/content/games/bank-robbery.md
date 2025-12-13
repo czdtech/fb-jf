@@ -6,7 +6,7 @@ iframeSrc: "https://app-183971.games.s3.yandex.net/183971/l0eme2yqkthl0y8stmfuz0
 thumbnail: "/new-images/bank-robbery.jpg"
 urlstr: "bank-robbery"
 score: "4.2/5  (1331 votes)"
-tags: ["fPS", "action"]
+tags: ["fps", "action"]
 developer: ""
 releaseDate: 2025-08-16
 ---
@@ -74,4 +74,3 @@ There is no single "best" way, as it depends on how the Cops set up their defens
 
 **5. Can I switch teams during a game?**
 Typically, team selection happens before the round begins, and you are locked into that team until the next game to maintain balance.
-

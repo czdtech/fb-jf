@@ -6,7 +6,7 @@ iframeSrc: "https://www.gamenora.com/upload/games/swf/stick_war/"
 thumbnail: "/new-images/stick-war.jpg"
 urlstr: "stick-war"
 score: "3.6/5  (1080 votes)"
-tags: ["strategy", "rTS", "war"]
+tags: ["strategy", "rts", "war"]
 developer: ""
 releaseDate: 2025-08-16
 ---
@@ -41,4 +41,3 @@ A balanced army is key. Speartons are excellent for defense and absorbing arrow 
 **What should I upgrade first?**
 
 It is highly recommended to spend your first upgrade points on your Miners' bags and your statue's income to accelerate your economy. After that, focus on upgrading the units you use most often.
-

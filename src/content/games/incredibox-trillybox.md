@@ -5,7 +5,7 @@ iframeSrc: "https://turbowarp.org/907049948/embed"
 thumbnail: "/new-images/incredibox-trillybox.png"
 urlstr: "incredibox-trillybox"
 score: "4.5/5 (999 votes)"
-tags: ["music", "hip-Hop", "rhythm"]
+tags: ["music", "hip-hop", "rhythm"]
 developer: ""
 releaseDate: 2025-10-10
 ---
@@ -64,4 +64,3 @@ Its appeal comes from its authentic and high-quality take on the massively popul
 **4. Are the bonus solutions for "Trillybox" available online?**
 
 Yes. If you're having trouble finding the combinations for the animations, a quick search for "*Incredibox Trillybox combos*" on YouTube will show you the solutions.
-
