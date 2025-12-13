@@ -1,13 +1,15 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import { GAMES_HREFLANG } from '../../data/hreflang';
-import { allGames } from '../../data/games.js';
-export function getStaticPaths({ paginate }) {
-  // 使用统一的 allGames 数据源生成分页
-  return paginate(allGames, { pageSize: 30 });
+import { getCanonicalGames, toGameCardData } from '../../lib/canonical-games';
+export async function getStaticPaths({ paginate }) {
+  // Single Source of Truth: use canonical (en) games from astro:content
+  const games = await getCanonicalGames();
+  return paginate(games, { pageSize: 30 });
 }
 // 所有分页数据都在 "page" 参数中传递
 const { page } = Astro.props;
+const locale = 'en';
 const title = 'ALL Games - FiddleBops Game World';
 const description =
   'Create your unique music with FiddleBops! This fan-made project, inspired by Incredibox, lets you mix and match various sounds to compose personalized tracks.';
@@ -37,16 +39,15 @@ const jsonLd = {
     <div class="container">
       <h1>All Games</h1>
       <div class="game-grid">
-        {page.data.map(({ astronaut }) => {
-          const [href, thumbnail, gameTitle] = astronaut;
-
+        {page.data.map((entry) => {
+          const card = toGameCardData(entry, locale);
           return (
             <article class="game">
-              <a href={href} title={gameTitle}>
+              <a href={card.href} title={card.title}>
                 <div class="game-logo game-l-2">
-                  <img src={thumbnail} alt={gameTitle} loading="lazy" width="300" height="300" />
+                  <img src={card.thumbnail} alt={card.title} loading="lazy" width="300" height="300" />
                   <div class="game-overlay">
-                    <p>{gameTitle}</p>
+                    <p>{card.title}</p>
                   </div>
                 </div>
               </a>
