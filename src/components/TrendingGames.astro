@@ -2,13 +2,17 @@
 // 1. 从我们的"数据库"中导入所有游戏
 import { allGames } from '../data/games.js';
 import GameCard from './GameCard.astro';
+import { seededShuffle, getTrendingSeed } from '../lib/seeded-shuffle';
 
 // 2. 定义要随机显示的游戏数量
 const numberOfGamesToShow = 47; // 例如，随机显示12个
 
 // 3. 随机化并挑选游戏的核心逻辑
 //    这段代码会在网站构建时运行
-const shuffledGames = allGames.sort(() => 0.5 - Math.random());
+// NOTE: 不能对 allGames 原地 sort()（会污染全局数组、导致构建不可复现）。
+// Seed 策略：按 UTC 日期每日轮换（同一天内重复构建顺序一致）。
+const seed = getTrendingSeed('daily');
+const shuffledGames = seededShuffle(allGames, seed);
 const randomGames = shuffledGames.slice(0, numberOfGamesToShow);
 import CATEGORIES from './Categories.astro';
 import { useTranslations, getLocaleFromLangAttr } from '../i18n/utils';
