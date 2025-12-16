@@ -207,7 +207,9 @@
   - **倒序审校批次（滚动）**
     - [x] 2.3.fr.B34 倒序审校（19）：`word-detector` → `zumba-ocean`（完成：2025-12-16，完全重写翻译）
     - [x] 2.3.fr.B33 倒序审校（20）：`tripeaks-solitaire` → `word-connect`（完成：2025-12-16，完全重写翻译）
-    - [ ] 2.3.fr.B32 倒序审校（20）：下一批
+    - [x] 2.3.fr.B32 倒序审校（20）：`tile-journey` → `tricky-puzzles`（完成：2025-12-16，完全重写翻译）
+    - [x] 2.3.fr.B31 倒序审校（20）：`tank-trouble` → `tiger-run`（完成：2025-12-16，完全重写翻译）
+    - [ ] 2.3.fr.B30 倒序审校（20）：下一批
   - _Requirements: R1–R4, R8_
 
 - [ ] 2.4 德语（de）全量审校
