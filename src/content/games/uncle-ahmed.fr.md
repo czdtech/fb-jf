@@ -3,72 +3,43 @@ locale: fr
 urlstr: uncle-ahmed
 title: Uncle Ahmed
 description: >-
-  Uncle Ahmed est un jeu de plateforme rétro : cours, saute, évite les ennemis
-  et sauve ta famille dans des niveaux colorés.
-iframeSrc: 'https://uncleahmed.h5games.usercontent.goog/v/xyz/'
+  Uncle Ahmed est un platformer 2D classique : saute sur les ennemis, collecte
+  les pièces et utilise les bonus pour sauver ton neveu d'un sorcier maléfique.
+iframeSrc: 'https://uncleahmed.h5games.usercontent.goog/v/31ca380f-5493-4371-b5ac-5c3c2da67626/'
 thumbnail: /new-images/uncle-ahmed.jpg
 tags:
-  - platformer
+  - action
   - adventure
-score: 4.0/5  (1500 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+  - casual
+score: 4.2/5  (1950 votes)
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
-    - **A:** Boss battles usually require you to learn their attack patterns. Dodge their attacks and look for a moment of vulnerability when you can jump on their head or hit them with a projectile.
-
-- **Q: How do I beat the final boss?**
-
-    - **A:** If you run out of lives, the game is over, and you will have to start the level from the beginning (or from the last checkpoint).
-
-- **Q: What happens if I lose all my lives?**
-
-    - **A:** The most common way is to jump directly on top of their heads. If you have an offensive power-up, you can also use that to attack them from a distance.
-
-- **Q: How do I defeat the enemies?**
-
-### Foire aux questions (FAQ)
-
-
-Uncle Ahmed is a classic 2D side-scrolling platformer that will evoke nostalgia for games like Super Mario Bros. Players take on the role of the heroic Uncle Ahmed on a quest to rescue his nephew, who has been kidnapped by an evil sorcerer. You will journey through dozens of levels filled with various enemies, tricky obstacles, and helpful power-ups. The goal is to reach the end of each stage, defeat the sorcerer, and save the day.
-- **Shoot:** If you have a projectile power-up (like the watermelon), a separate button will typically appear to allow you to shoot.
-
-- **Jump:** Press the **Up Arrow Key** or the dedicated jump button.
-
-- **Move:** Use the **Left and Right Arrow Keys** or on-screen buttons to move Uncle Ahmed.
-
-### Commandes
-
-- **Explore for Secrets:** Don't just run straight to the finish line. Some levels contain hidden areas or secret blocks that hold extra lives or valuable power-ups. Exploration is often rewarded.
-
-- **Know Your Power-ups:** Power-ups are essential for survival. A watermelon might allow you to throw projectiles, while a hot pepper could grant you a temporary speed boost. Use them wisely to clear out difficult sections.
-
-- **Collect Everything:** Grab all the coins you see. These can often be used to purchase extra lives, allowing you to continue if you make a mistake. Also, be sure to grab any power-ups you find.
-
-- **Master the Jump:** Your most important skill is jumping. Use it to stomp on enemies to defeat them, break blocks to find coins and power-ups, and navigate over dangerous pits and spikes.
+Uncle Ahmed est un platformer 2D classique à défilement latéral qui évoquera la nostalgie de jeux comme Super Mario Bros. Tu incarnes l'héroïque Oncle Ahmed dans une quête pour sauver son neveu, kidnappé par un sorcier maléfique. Tu traverseras des dizaines de niveaux remplis d'ennemis variés, d'obstacles retors et de bonus utiles. L'objectif est d'atteindre la fin de chaque niveau, vaincre le sorcier et sauver la situation.
 
 ### Guide de jeu
 
+1.  **Maîtrise le saut :** Ta compétence la plus importante est le saut. Utilise-le pour écraser les ennemis, casser des blocs pour trouver pièces et bonus, et naviguer au-dessus des pièges et des piques.
+2.  **Collecte tout :** Ramasse toutes les pièces que tu vois. Elles peuvent souvent servir à acheter des vies supplémentaires. N'oublie pas de récupérer les bonus.
+3.  **Connais tes bonus :** Les bonus sont essentiels pour survivre. Une pastèque te permet de lancer des projectiles, un piment te donne un boost de vitesse temporaire. Utilise-les judicieusement dans les passages difficiles.
+4.  **Explore les secrets :** Ne cours pas droit vers la fin. Certains niveaux contiennent des zones cachées ou des blocs secrets avec des vies ou des bonus précieux. L'exploration est récompensée.
 
-- **Shoot:** If you have a projectile power-up (like the watermelon), a separate button will typically appear to allow you to shoot.
+### Commandes
 
-- **Jump:** Press the **Up Arrow Key** or the dedicated jump button.
+*   **Se déplacer :** Utilise les **flèches gauche et droite** ou les boutons à l'écran pour déplacer Uncle Ahmed.
+*   **Sauter :** Appuie sur la **flèche haut** ou le bouton de saut dédié.
+*   **Tirer :** Si tu as un bonus de projectile (comme la pastèque), un bouton séparé apparaîtra pour tirer.
 
-- **Move:** Use the **Left and Right Arrow Keys** or on-screen buttons to move Uncle Ahmed.
-Uncle Ahmed is a classic 2D side-scrolling platformer that will evoke nostalgia for games like Super Mario Bros. Players take on the role of the heroic Uncle Ahmed on a quest to rescue his nephew, who has been kidnapped by an evil sorcerer. You will journey through dozens of levels filled with various enemies, tricky obstacles, and helpful power-ups. The goal is to reach the end of each stage, defeat the sorcerer, and save the day.
+### Foire aux questions (FAQ)
 
-### Présentation du jeu
+*   **Q : Comment vaincre les ennemis ?**
+    *   **R :** Le plus courant est de sauter directement sur leur tête. Si tu as un bonus offensif, tu peux aussi les attaquer à distance.
 
+*   **Q : Que se passe-t-il si je perds toutes mes vies ?**
+    *   **R :** Si tu n'as plus de vies, la partie est terminée et tu dois recommencer le niveau depuis le début (ou le dernier checkpoint).
 
-- **A:** Boss battles usually require you to learn their attack patterns. Dodge their attacks and look for a moment of vulnerability when you can jump on their head or hit them with a projectile.
-
-    - **Q: How do I beat the final boss?**
-
-- **A:** If you run out of lives, the game is over, and you will have to start the level from the beginning (or from the last checkpoint).
-
-    - **Q: What happens if I lose all my lives?**
-
-- **A:** The most common way is to jump directly on top of their heads. If you have an offensive power-up, you can also use that to attack them from a distance.
-
-    - **Q: How do I defeat the enemies?**
+*   **Q : Comment battre le boss final ?**
+    *   **R :** Les combats de boss nécessitent généralement d'apprendre leurs patterns d'attaque. Esquive leurs attaques et cherche un moment de vulnérabilité pour sauter sur leur tête ou les toucher avec un projectile.

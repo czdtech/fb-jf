@@ -2,7 +2,9 @@
 locale: fr
 urlstr: tropical-merge
 title: Tropical Merge
-description: "Tropical Merge est une aventure de fusion ensoleillée\_: combine des objets, complète des quêtes et agrandis tes îles en gérant énergie et espace."
+description: >-
+  Tropical Merge est une aventure de fusion tropicale : fusionne des objets,
+  complète des quêtes et développe tes îles avec une gestion stratégique.
 iframeSrc: 'https://7jdqir15djng0.h5games.usercontent.goog/v/3nm4cvs4b09jo/'
 thumbnail: /new-images/tropical-merge.png
 tags:
@@ -14,49 +16,26 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
-A: Time bursts with regeneration and rewards.
-
-- Q: Energy too slow.
-
-A: Consolidate to 5‑merges, sell clutter, and expand land.
-
-- Q: No space left.
-
-### Foire aux questions (FAQ)
-
-
-Merge items in sets of 3/5 to upgrade resources, clear fog, and unlock islands. Quests guide progression; energy and limited space reward planning over spam‑merging.
-- Drag to merge; tap buildings to collect; navigate via map.
-
-### Commandes
-
-- Pre‑stock before events.
-
-- Spend energy in planned bursts; collect dailies.
-
-- Align merges with current quests to accelerate unlocks.
-
-- Keep staging zones for near‑complete sets.
-
-- Favor 5‑merges for extra yield when possible.
+Fusionne des objets par groupes de 3 ou 5 pour améliorer les ressources, dissiper le brouillard et débloquer des îles. Les quêtes guident ta progression ; l'énergie et l'espace limité récompensent la planification plutôt que les fusions à l'aveugle.
 
 ### Guide de jeu
 
+1.  Privilégie les fusions de 5 pour un meilleur rendement quand c'est possible.
+2.  Garde des zones de préparation pour les ensembles presque complets.
+3.  Aligne tes fusions avec les quêtes en cours pour accélérer les déblocages.
+4.  Dépense l'énergie en rafales planifiées ; collecte les récompenses quotidiennes.
+5.  Fais des stocks avant les événements.
 
-- Drag to merge; tap buildings to collect; navigate via map.
-Merge items in sets of 3/5 to upgrade resources, clear fog, and unlock islands. Quests guide progression; energy and limited space reward planning over spam‑merging.
+### Commandes
 
-### Présentation du jeu
+-   Glisse pour fusionner ; tape sur les bâtiments pour collecter ; navigue via la carte.
 
+### Foire aux questions (FAQ)
 
-A: Time bursts with regeneration and rewards.
+-   **Q : Plus de place.**
+    **R :** Consolide en fusions de 5, vends le bazar et agrandis ton terrain.
 
-- Q: Energy too slow.
-
-A: Consolidate to 5‑merges, sell clutter, and expand land.
-
-- Q: No space left.
-
-
-A: Time bursts with regeneration and rewards.
+-   **Q : L'énergie se régénère trop lentement.**
+    **R :** Planifie tes sessions avec la régénération et les récompenses.

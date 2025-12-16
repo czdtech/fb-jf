@@ -3,8 +3,9 @@ locale: fr
 urlstr: we-become-what-we-behold
 title: We Become What We Behold
 description: >-
-  We Become What We Behold est une courte expérience satirique : prends des
-  photos d’événements et observe comment les médias transforment la société.
+  We Become What We Behold est un jeu satirique sur l'impact des médias et du
+  sensationnalisme. Capture des événements avec ta caméra et observe les
+  conséquences sur la société.
 iframeSrc: 'https://html5.iclouds.io/we-become-behold/index.html'
 thumbnail: /new-images/we-become-what-we-behold.jpg
 tags:
@@ -16,58 +17,28 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
-The game doesn't have a traditional win condition. Its purpose is to make you reflect on media consumption and its societal impact, rather than to achieve a high score or specific ending.
+We Become What We Behold est un court jeu satirique point-and-click de Nicky Case qui offre un commentaire incisif sur les médias, le sensationnalisme et comment notre focus sur la négativité peut amplifier les divisions sociales. Le jeu te défie d'observer un petit monde de personnages et de décider quelles « nouvelles » capturer avec ta caméra, influençant directement le récit et le comportement des personnages.
 
-**Is there a "right" way to play or win?**
+### Guide de jeu
 
-It's a very short experience, typically lasting around five minutes, designed to deliver its message concisely and powerfully.
-
-**How long is the game?**
-
-The game is a critique of media sensationalism and how it shapes our perceptions and society. It highlights how focusing on negativity and conflict can lead to a cycle of division, echoing Marshall McLuhan's quote, "We become what we behold."
-
-**What is the meaning behind the game?**
-
-### Foire aux questions (FAQ)
-
-
-"We Become What We Behold" is a short, satirical point-and-click game by Nicky Case that offers a sharp commentary on media, sensationalism, and how our focus on negativity can amplify societal divisions. The game challenges players to observe a small world of characters and decide what "news" to capture with their camera, directly influencing the narrative and the characters' behavior.
-- **Mouse:** Use your mouse to aim the camera and click to take a photograph.
+Le gameplay principal consiste à observer l'écran et utiliser ta caméra pour photographier des événements.
+-   **Observer :** Regarde les personnages (carrés et cercles) interagir.
+-   **Capturer :** Clique pour prendre une photo d'un événement « d'actualité ». Ton choix de ce que tu photographies impacte directement ce qui apparaît à l'écran de la télé du jeu, ce qui influence à son tour les réactions des personnages.
+-   **Conséquences :** Le jeu démontre subtilement comment se concentrer sur le contenu controversé ou choquant peut mener à un cycle de colère, peur et division. Il n'y a pas de condition de victoire explicite ; le jeu se termine typiquement par un climax dramatique reflétant les conséquences du sensationnalisme médiatique.
 
 ### Commandes
 
-- **Consequences:** The game subtly demonstrates how focusing on controversial or shocking content can lead to a cycle of anger, fear, and division. There's no explicit win condition; the game typically ends with a dramatic climax reflecting the consequences of media sensationalism.
+-   **Souris :** Utilise ta souris pour viser la caméra et clique pour prendre une photo.
 
-- **Capture:** Click to take a photo of a "news" event. Your choice of what to photograph directly impacts what appears on the in-game TV screen, which in turn influences the characters' reactions.
+### Foire aux questions (FAQ)
 
-- **Observe:** Watch the characters (squares and circles) interact.
+**Quel est le sens du jeu ?**
+Le jeu est une critique du sensationnalisme médiatique et de la façon dont il façonne nos perceptions et la société. Il met en lumière comment se concentrer sur la négativité et les conflits peut mener à un cycle de division, faisant écho à la citation de Marshall McLuhan, « We become what we behold. »
 
-The core gameplay involves observing the screen and using your camera to photograph events.
+**Combien de temps dure le jeu ?**
+C'est une expérience très courte, durant environ cinq minutes, conçue pour délivrer son message de façon concise et puissante.
 
-
-- **Consequences:** The game subtly demonstrates how focusing on controversial or shocking content can lead to a cycle of anger, fear, and division. There's no explicit win condition; the game typically ends with a dramatic climax reflecting the consequences of media sensationalism.
-
-- **Capture:** Click to take a photo of a "news" event. Your choice of what to photograph directly impacts what appears on the in-game TV screen, which in turn influences the characters' reactions.
-
-- **Observe:** Watch the characters (squares and circles) interact.
-### Gameplay Guide
-
-
-- **Mouse:** Use your mouse to aim the camera and click to take a photograph.
-"We Become What We Behold" is a short, satirical point-and-click game by Nicky Case that offers a sharp commentary on media, sensationalism, and how our focus on negativity can amplify societal divisions. The game challenges players to observe a small world of characters and decide what "news" to capture with their camera, directly influencing the narrative and the characters' behavior.
-
-### Présentation du jeu
-
-
-The game doesn't have a traditional win condition. Its purpose is to make you reflect on media consumption and its societal impact, rather than to achieve a high score or specific ending.
-
-**Is there a "right" way to play or win?**
-
-It's a very short experience, typically lasting around five minutes, designed to deliver its message concisely and powerfully.
-
-**How long is the game?**
-
-The game is a critique of media sensationalism and how it shapes our perceptions and society. It highlights how focusing on negativity and conflict can lead to a cycle of division, echoing Marshall McLuhan's quote, "We become what we behold."
-
-**What is the meaning behind the game?**
+**Y a-t-il une « bonne » façon de jouer ou de gagner ?**
+Le jeu n'a pas de condition de victoire traditionnelle. Son but est de te faire réfléchir sur la consommation médiatique et son impact sociétal, plutôt que d'atteindre un score élevé ou une fin spécifique.

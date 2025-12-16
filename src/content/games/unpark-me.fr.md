@@ -3,64 +3,44 @@ locale: fr
 urlstr: unpark-me
 title: Unpark Me
 description: >-
-  Unpark Me est un puzzle de parking : déplace les voitures pour libérer la
-  sortie et faire sortir ton véhicule.
-iframeSrc: 'https://unparkme.h5games.usercontent.goog/v/xyz/'
-thumbnail: /new-images/unpark-me.jpg
+  Un puzzle de blocs coulissants avec un thème de parking : déplace les autres
+  voitures pour libérer le passage à la voiture rouge coincée.
+iframeSrc: 'https://unparkme.h5games.usercontent.goog/v/59baoe1o8mbe0/'
+thumbnail: /new-images/unpark-me.png
 tags:
   - puzzle
-  - car
-score: 4.1/5  (1800 votes)
+  - thinky
+  - casual
+  - driving
+score: 4.4/5  (2500 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
-    - **A:** Most versions of the game include a hint button that will show you the next correct move. If you're out of hints, you may need to use the reset button to start the level over with a fresh perspective.
-
-- **Q: I'm completely stuck. What can I do?**
-
-    - **A:** The core rule of the puzzle is that cars can only move in the direction they are facing (forwards and backwards). They cannot be turned or moved sideways.
-
-- **Q: Why can't I move a car sideways?**
-
-    - **A:** To slide the red car out through the exit on the side of the grid.
-
-- **Q: What is the objective?**
-
-### Foire aux questions (FAQ)
-
-- **Move a Vehicle:** Click and hold on any car or truck. You can only slide it forwards and backwards along its current orientation (either horizontally or vertically). Drag it into an empty space to move it.
-
-The game is played with simple drag-and-drop controls.
-
-### Commandes
-
-- **Aim for Fewest Moves:** While just solving the puzzle is the main goal, a secondary challenge is to do it in the minimum number of moves. This requires thinking several steps ahead and not making any unnecessary shifts.
-
-- **Use Empty Space:** Efficiently using the empty spaces on the board is crucial. You will need to shuffle cars into temporary empty spots to make room to move the ones you really need to clear.
-
-- **Work Backwards:** To move the primary blocking car, you often need to move another car that is blocking *it*. Work backwards from the exit, clearing a path piece by piece.
-
-- **Identify the Blocker:** First, identify the cars that are directly blocking the red car's path to the exit.
+Unpark Me est un puzzle de blocs coulissants classique, aussi connu sous le nom de « parking jam ». Tu fais face à une grille de parking bondée remplie de voitures et de camions. Ton objectif est de faire glisser stratégiquement les autres véhicules pour dégager un passage permettant à la voiture cible (généralement la rouge) de sortir. Le jeu est un vrai test de logique et de pensée séquentielle, te défiant de résoudre le puzzle en un minimum de coups.
 
 ### Guide de jeu
 
-Unpark Me is a classic sliding block puzzle game, also known as a "parking jam" puzzle. You are presented with a crowded parking lot grid filled with cars and trucks. Your goal is to strategically slide the other vehicles out of the way to clear a path for the target car (usually the red one) to drive out of the exit. The game is a true test of logic and sequential thinking, challenging you to solve the puzzle in the fewest moves possible.
+1.  **Identifie le bloqueur :** D'abord, identifie les voitures qui bloquent directement le chemin de la voiture rouge vers la sortie.
+2.  **Travaille à rebours :** Pour déplacer la voiture qui bloque, tu dois souvent déplacer une autre voiture qui la bloque *elle*. Travaille à rebours depuis la sortie, dégageant le chemin pièce par pièce.
+3.  **Utilise l'espace vide :** Utiliser efficacement les espaces vides du plateau est crucial. Tu devras déplacer des voitures dans des espaces temporaires pour faire de la place.
+4.  **Vise le minimum de coups :** Bien que résoudre le puzzle soit l'objectif principal, un défi secondaire est de le faire en un minimum de coups. Cela nécessite d'anticiper plusieurs étapes et de ne faire aucun mouvement inutile.
 
+### Commandes
 
-- **Move a Vehicle:** Click and hold on any car or truck. You can only slide it forwards and backwards along its current orientation (either horizontally or vertically). Drag it into an empty space to move it.
-### Présentation du jeu
+Le jeu se joue avec un simple glisser-déposer.
 
+*   **Déplacer un véhicule :** Clique et maintiens sur n'importe quelle voiture ou camion. Tu ne peux le faire glisser qu'avant et arrière selon son orientation actuelle (horizontale ou verticale). Glisse-le vers un espace vide pour le déplacer.
 
-- **A:** Most versions of the game include a hint button that will show you the next correct move. If you're out of hints, you may need to use the reset button to start the level over with a fresh perspective.
+### Foire aux questions (FAQ)
 
-    - **Q: I'm completely stuck. What can I do?**
+*   **Q : Quel est l'objectif ?**
+    *   **R :** Faire glisser la voiture rouge vers la sortie sur le côté de la grille.
 
-- **A:** The core rule of the puzzle is that cars can only move in the direction they are facing (forwards and backwards). They cannot be turned or moved sideways.
+*   **Q : Pourquoi je ne peux pas déplacer une voiture latéralement ?**
+    *   **R :** La règle centrale du puzzle est que les voitures ne peuvent se déplacer que dans la direction où elles font face (avant et arrière). Elles ne peuvent pas tourner ou se déplacer latéralement.
 
-    - **Q: Why can't I move a car sideways?**
-
-- **A:** To slide the red car out through the exit on the side of the grid.
-
-    - **Q: What is the objective?**
+*   **Q : Je suis complètement bloqué. Que faire ?**
+    *   **R :** La plupart des versions incluent un bouton d'indice qui te montre le prochain coup correct. Si tu n'as plus d'indices, tu peux utiliser le bouton de réinitialisation pour recommencer le niveau avec une nouvelle perspective.

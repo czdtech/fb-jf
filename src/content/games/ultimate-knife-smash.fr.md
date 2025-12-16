@@ -3,8 +3,8 @@ locale: fr
 urlstr: ultimate-knife-smash
 title: Ultimate Knife Smash
 description: >-
-  Ultimate Knife Smash est un jeu d’adresse : lance des couteaux sur une cible
-  en rotation sans toucher les lames déjà plantées.
+  Ultimate Knife Smash est un jeu de réflexes : chronomètre tes lancers, évite
+  de toucher les autres couteaux et brise les cibles proprement.
 iframeSrc: 'https://ultimateknifesmash.h5games.usercontent.goog/v/5ifrmqkiihdj0/'
 thumbnail: /new-images/ultimate-knife-smash.png
 tags:
@@ -15,46 +15,25 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
-- Are there power‑ups? Some versions grant multi‑knives or slows—use them on dense waves.
-
-- Does rotation change? Often yes; be ready for speed spikes and direction flips.
-
-- Why do I keep hitting knives? You’re desyncing—re‑establish rhythm and throw only when clear gaps return.
-
-### Foire aux questions (FAQ)
-
-
-Ultimate Knife Smash is a timing‑based arcade game. Throw knives into a spinning target without striking existing blades. The rotation speed and direction often change, demanding clean timing, rhythm, and risk control for combo stages.
-- Pause/Retry: Use UI controls to restart.
-
-- Throw: Click/tap to launch a knife when the gap aligns.
-
-### Commandes
-
-- Boss targets: Later stages may require extra hits—pace your throws.
-
-- Don’t rush: Missing a cycle is better than forcing a risky throw.
-
-- Aim gaps: Target wide openings first; save tight gaps for slow rotations.
-
-- Count beats: Use a consistent cadence; throw on the same slice of the rotation.
-
-- Watch rotations: Note speed shifts and direction flips before committing throws.
+Ultimate Knife Smash est un jeu d'arcade basé sur le timing. Lance des couteaux dans une cible tournante sans toucher les lames déjà plantées. La vitesse de rotation et la direction changent souvent, exigeant un timing précis, du rythme et un bon contrôle du risque pour les étapes combo.
 
 ### Guide de jeu
 
+1.  **Observe les rotations :** Note les changements de vitesse et les inversions de direction avant de lancer.
+2.  **Compte les temps :** Utilise une cadence constante ; lance sur la même portion de rotation.
+3.  **Vise les écarts :** Cible d'abord les larges ouvertures ; garde les écarts serrés pour les rotations lentes.
+4.  **Ne te précipite pas :** Manquer un cycle vaut mieux que forcer un lancer risqué.
+5.  **Cibles boss :** Les étapes avancées peuvent nécessiter plus de coups — rythme tes lancers.
 
-- Pause/Retry: Use UI controls to restart.
+### Commandes
 
-- Throw: Click/tap to launch a knife when the gap aligns.
-Ultimate Knife Smash is a timing‑based arcade game. Throw knives into a spinning target without striking existing blades. The rotation speed and direction often change, demanding clean timing, rhythm, and risk control for combo stages.
+-   **Lancer :** Clique/tape pour lancer un couteau quand l'écart s'aligne.
+-   **Pause/Réessayer :** Utilise les contrôles de l'interface pour redémarrer.
 
-### Présentation du jeu
+### Foire aux questions (FAQ)
 
-
-- Are there power‑ups? Some versions grant multi‑knives or slows—use them on dense waves.
-
-- Does rotation change? Often yes; be ready for speed spikes and direction flips.
-
-- Why do I keep hitting knives? You’re desyncing—re‑establish rhythm and throw only when clear gaps return.
+-   **Pourquoi je touche toujours les couteaux ?** Tu te désynchronises — retrouve le rythme et lance seulement quand les écarts sont clairs.
+-   **La rotation change-t-elle ?** Souvent oui ; sois prêt pour les accélérations et inversions de direction.
+-   **Y a-t-il des bonus ?** Certaines versions donnent des multi-couteaux ou des ralentis — utilise-les sur les vagues denses.

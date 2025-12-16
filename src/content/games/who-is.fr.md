@@ -1,84 +1,47 @@
 ---
 locale: fr
 urlstr: who-is
-title: Who Is?
+title: Who Is? Game
 description: >-
-  Who Is? est un jeu d’énigmes et de déductions : observe la scène, lis les
-  indices et trouve la bonne réponse (qui ment, qui vole, etc.).
-iframeSrc: 'https://whoisgame.h5games.usercontent.goog/v/xyz/'
+  Who Is? est un jeu d'énigmes et de détective : résous des devinettes,
+  identifie les imposteurs et trouve les indices cachés dans des scénarios
+  uniques.
+iframeSrc: 'https://rebemanae.github.io/who-is/'
 thumbnail: /new-images/who-is.jpg
 tags:
   - puzzle
-  - detective
-score: 4.2/5  (1800 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
+  - riddle
+  - brain-teaser
+score: 4.1/5  (907 votes)
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
-While the puzzles can be challenging, the content is generally family-friendly, making it suitable for a wide range of players who enjoy brain teasers.
+Who Is? Game est un jeu d'énigmes populaire et captivant qui défie les joueurs avec une série de devinettes et scénarios stimulants. Développé par Unico Studio, il demande de penser de façon critique, d'observer les détails et souvent d'utiliser une logique non conventionnelle pour résoudre chaque niveau. Le jeu est connu pour ses puzzles variés, allant de l'identification d'imposteurs à la recherche d'objets cachés.
 
-**Is the game suitable for all ages?**
+### Guide de jeu
 
-Yes, if you get stuck on a level, hints are usually available. These often come in the form of short clues that guide you towards the solution without giving it away entirely.
-
-**Is there a hint system?**
-
-The game features a wide variety of puzzles, including logic puzzles, visual riddles, hidden object challenges, and scenarios where you need to make deductions based on character interactions.
-
-**What kind of puzzles are in the game?**
-
-### Foire aux questions (FAQ)
-
-
-"Who Is? Game" is a popular and engaging puzzle game that challenges players with a series of brain-teasing riddles and scenarios. Developed by Unico Studio, it requires players to think critically, observe details, and often employ unconventional logic to solve each level. The game is known for its diverse puzzles, ranging from identifying imposters to finding hidden objects.
-- **Multi-touch:** Some puzzles may require using two fingers simultaneously.
-
-- **Drag:** Tap and hold, then drag to move objects or reveal hidden areas.
-
-- **Tap/Click:** Use your finger (on mobile) or mouse (on PC) to tap or click on elements on the screen.
+Chaque niveau présente une situation ou question unique, et ton objectif est de trouver la bonne réponse ou solution.
+-   **Observer :** Examine attentivement la scène pour des indices, objets cachés ou détails subtils.
+-   **Interagir :** Tape ou clique sur les objets pour interagir. Tu devras peut-être glisser des éléments, les combiner, ou même utiliser des gestes multi-touch.
+-   **Penser différemment :** Beaucoup de puzzles sont conçus pour te piéger. La réponse la plus évidente n'est souvent pas la bonne. Sois prêt à expérimenter et essayer des solutions non conventionnelles.
+-   **Résoudre des énigmes :** Certains niveaux sont des devinettes directes, d'autres impliquent des scénarios plus complexes où tu dois déduire des informations.
 
 ### Commandes
 
-- **Solve Riddles:** Some levels are straightforward riddles, while others involve more complex scenarios where you need to deduce information.
+-   **Tap/Clic :** Utilise ton doigt (mobile) ou ta souris (PC) pour taper ou cliquer sur les éléments à l'écran.
+-   **Glisser :** Tape et maintiens, puis glisse pour déplacer des objets ou révéler des zones cachées.
+-   **Multi-touch :** Certains puzzles peuvent nécessiter l'utilisation de deux doigts simultanément.
 
-- **Think Outside the Box:** Many puzzles are designed to trick you. The most obvious answer is often not the correct one. Be prepared to experiment and try unconventional solutions.
+### Foire aux questions (FAQ)
 
-- **Interact:** Tap or click on objects to interact with them. You might need to drag items, combine them, or even use multi-touch gestures.
+**Quels types de puzzles sont dans le jeu ?**
+Le jeu propose une grande variété de puzzles, incluant des puzzles logiques, des énigmes visuelles, des défis d'objets cachés et des scénarios où tu dois faire des déductions basées sur les interactions des personnages.
 
-- **Observe:** Carefully examine the scene for clues, hidden objects, or subtle details.
+**Y a-t-il un système d'indices ?**
+Oui, si tu bloques sur un niveau, des indices sont généralement disponibles. Ils prennent souvent la forme de courtes pistes qui te guident vers la solution sans la révéler entièrement.
 
-Each level presents a unique situation or question, and your goal is to figure out the correct answer or solution.
-
-
-- **Solve Riddles:** Some levels are straightforward riddles, while others involve more complex scenarios where you need to deduce information.
-
-- **Think Outside the Box:** Many puzzles are designed to trick you. The most obvious answer is often not the correct one. Be prepared to experiment and try unconventional solutions.
-
-- **Interact:** Tap or click on objects to interact with them. You might need to drag items, combine them, or even use multi-touch gestures.
-
-- **Observe:** Carefully examine the scene for clues, hidden objects, or subtle details.
-### Gameplay Guide
-
-
-- **Multi-touch:** Some puzzles may require using two fingers simultaneously.
-
-- **Drag:** Tap and hold, then drag to move objects or reveal hidden areas.
-
-- **Tap/Click:** Use your finger (on mobile) or mouse (on PC) to tap or click on elements on the screen.
-"Who Is? Game" is a popular and engaging puzzle game that challenges players with a series of brain-teasing riddles and scenarios. Developed by Unico Studio, it requires players to think critically, observe details, and often employ unconventional logic to solve each level. The game is known for its diverse puzzles, ranging from identifying imposters to finding hidden objects.
-
-### Présentation du jeu
-
-
-While the puzzles can be challenging, the content is generally family-friendly, making it suitable for a wide range of players who enjoy brain teasers.
-
-**Is the game suitable for all ages?**
-
-Yes, if you get stuck on a level, hints are usually available. These often come in the form of short clues that guide you towards the solution without giving it away entirely.
-
-**Is there a hint system?**
-
-The game features a wide variety of puzzles, including logic puzzles, visual riddles, hidden object challenges, and scenarios where you need to make deductions based on character interactions.
-
-**What kind of puzzles are in the game?**
+**Le jeu est-il adapté à tous les âges ?**
+Bien que les puzzles puissent être stimulants, le contenu est généralement familial, le rendant adapté à un large éventail de joueurs qui apprécient les casse-tête.

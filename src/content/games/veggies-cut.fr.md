@@ -3,61 +3,38 @@ locale: fr
 urlstr: veggies-cut
 title: Veggies Cut
 description: >-
-  Veggies Cut est un jeu de découpe façon fruit‑ninja : tranche les légumes qui
-  volent à l’écran en évitant les bombes.
-iframeSrc: 'https://veggiescut.h5games.usercontent.goog/v/xyz/'
-thumbnail: /new-images/veggies-cut.png
+  Veggies Cut est un jeu de découpe : enchaîne de longues coupes nettes, évite
+  les dangers et gère ton rythme pour des scores élevés.
+iframeSrc: 'https://01pgt4aflffvo.h5games.usercontent.goog/v/2kpv41q3jen50/'
+thumbnail: /new-images/veggies-cut.jpg
 tags:
-  - arcade
-  - reflex
-score: 4.0/5  (1600 votes)
+  - action
+  - casual
+score: 4.0/5  (1867 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
-A: Focus on long multi‑cuts and consistent cadence.
-
-- Q: How to score high?
-
-A: Choose clean angles; never finish a line through a hazard.
-
-- Q: I hit hazards.
-
-### Foire aux questions (FAQ)
-
-
-Slice veggies with sweeping lines, build combo chains, and avoid kitchen hazards (knives/bombs). Long straight cuts and calm rhythm top the scoreboards.
-- Swipe/click‑drag to cut; pause/retry in UI.
-
-### Commandes
-
-- Reset posture after misses.
-
-- Use slow‑mo (if any) on dense volleys.
-
-- Abort swipes that cross hazards.
-
-- Don’t chase low arcs; let items rise into safe lanes.
-
-- Long strokes through multiple veggies for combo value.
+Tranche des légumes avec des mouvements amples, construis des chaînes de combo et évite les dangers de cuisine (couteaux/bombes). Les longues coupes droites et un rythme calme dominent les tableaux de scores.
 
 ### Guide de jeu
 
+1.  Longs traits à travers plusieurs légumes pour la valeur combo.
+2.  Ne pourchasse pas les arcs bas ; laisse les objets monter dans des zones sûres.
+3.  Annule les glissements qui traversent des dangers.
+4.  Utilise le ralenti (si disponible) sur les vagues denses.
+5.  Repositionne-toi après les ratés.
 
-- Swipe/click‑drag to cut; pause/retry in UI.
-Slice veggies with sweeping lines, build combo chains, and avoid kitchen hazards (knives/bombs). Long straight cuts and calm rhythm top the scoreboards.
+### Commandes
 
-### Présentation du jeu
+-   Glisse/clique-glisse pour couper ; pause/réessayer via l'interface.
 
+### Foire aux questions (FAQ)
 
-A: Focus on long multi‑cuts and consistent cadence.
+-   **Q : Je touche les dangers.**
+    **R :** Choisis des angles propres ; ne termine jamais une ligne à travers un danger.
 
-- Q: How to score high?
-
-A: Choose clean angles; never finish a line through a hazard.
-
-- Q: I hit hazards.
-
-
-A: Focus on long multi‑cuts and consistent cadence.
+-   **Q : Comment scorer haut ?**
+    **R :** Concentre-toi sur les longues multi-coupes et une cadence constante.

@@ -3,9 +3,8 @@ locale: fr
 urlstr: wheely
 title: Wheely
 description: >-
-  Wheely est une aventure point‑and‑click mignonne : aide la petite voiture
-  rouge à résoudre des énigmes environnementales pour avancer niveau après
-  niveau.
+  Wheely est un puzzle point-and-click charmant : résous des énigmes
+  environnementales et guide la petite voiture rouge vers sa destination.
 iframeSrc: 'https://www.friv.com/z/games/wheely/index-x.html'
 thumbnail: /new-images/wheely.jpg
 tags:
@@ -17,74 +16,32 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
-The Wheely series has many installments, each offering new adventures and puzzles for players to enjoy.
+Wheely est une série adorée de jeux d'aventure puzzle point-and-click mettant en vedette une attachante petite voiture rouge nommée Wheely. Chaque jeu de la série présente un nouveau voyage pour Wheely, rempli d'énigmes environnementales que les joueurs doivent résoudre en interagissant avec divers objets et mécanismes de la scène. Les jeux sont connus pour leurs visuels charmants, leurs contrôles intuitifs et leurs défis malins.
 
-**How many Wheely games are there?**
+### Guide de jeu
 
-Yes, the Wheely series is generally considered family-friendly and suitable for children due to its gentle nature, charming characters, and focus on logical problem-solving.
-
-**Are the games suitable for children?**
-
-The main objective is to guide Wheely through each level, overcoming obstacles and solving puzzles, to reach the red flag at the end.
-
-**What is the main objective of Wheely games?**
-
-### Foire aux questions (FAQ)
-
-
-Wheely is a beloved series of point-and-click puzzle adventure games starring an endearing red car named Wheely. Each game in the series presents a new journey for Wheely, filled with environmental puzzles that players must solve by interacting with various objects and mechanisms in the scene. The games are known for their charming visuals, intuitive controls, and clever challenges.
-    - **Drag/Rotate:** Some puzzles may require clicking and dragging or rotating certain elements.
-
-    - **Click on Wheely:** Click Wheely to start or stop his movement.
-
-    - **Click:** Click on objects to activate them.
-
-- **Mouse:** All interactions are done with the mouse.
+Le gameplay principal consiste à observer la scène et trouver la bonne séquence d'interactions pour aider Wheely à progresser.
+-   **Interagir :** Clique sur des objets comme des leviers, boutons, interrupteurs et rampes pour les activer.
+-   **Guider Wheely :** Clique sur Wheely pour le faire démarrer ou s'arrêter. Synchronise ses mouvements avec les mécanismes activés pour naviguer les obstacles.
+-   **Résoudre les puzzles :** Chaque niveau est un puzzle autonome. Tu devras peut-être ouvrir des portes, construire des ponts ou dégager des chemins en manipulant l'environnement.
+-   **Collecter les étoiles :** Beaucoup de niveaux incluent des étoiles optionnelles à collecter, ajoutant une couche de défi supplémentaire.
 
 ### Commandes
 
-- **Collect Stars:** Many levels include optional stars to collect, adding an extra layer of challenge.
+-   **Souris :** Toutes les interactions se font à la souris.
+    -   **Clic :** Clique sur les objets pour les activer.
+    -   **Clic sur Wheely :** Clique sur Wheely pour démarrer ou arrêter son mouvement.
+    -   **Glisser/Tourner :** Certains puzzles peuvent nécessiter de cliquer-glisser ou de tourner certains éléments.
 
-- **Solve Puzzles:** Each level is a self-contained puzzle. You might need to open gates, build bridges, or clear paths by manipulating the environment.
+### Foire aux questions (FAQ)
 
-- **Guide Wheely:** Click on Wheely to make him start or stop moving. Time his movements with the activated mechanisms to navigate obstacles.
+**Quel est l'objectif principal des jeux Wheely ?**
+L'objectif principal est de guider Wheely à travers chaque niveau, surmontant les obstacles et résolvant les puzzles, pour atteindre le drapeau rouge à la fin.
 
-- **Interact:** Click on objects like levers, buttons, switches, and ramps to activate them.
+**Les jeux sont-ils adaptés aux enfants ?**
+Oui, la série Wheely est généralement considérée comme familiale et adaptée aux enfants grâce à sa nature douce, ses personnages charmants et son focus sur la résolution logique de problèmes.
 
-The core gameplay involves observing the scene and figuring out the correct sequence of interactions to help Wheely progress.
-
-
-- **Collect Stars:** Many levels include optional stars to collect, adding an extra layer of challenge.
-
-- **Solve Puzzles:** Each level is a self-contained puzzle. You might need to open gates, build bridges, or clear paths by manipulating the environment.
-
-- **Guide Wheely:** Click on Wheely to make him start or stop moving. Time his movements with the activated mechanisms to navigate obstacles.
-
-- **Interact:** Click on objects like levers, buttons, switches, and ramps to activate them.
-### Gameplay Guide
-
-
-- **Drag/Rotate:** Some puzzles may require clicking and dragging or rotating certain elements.
-
-    - **Click on Wheely:** Click Wheely to start or stop his movement.
-
-    - **Click:** Click on objects to activate them.
-
-    - **Mouse:** All interactions are done with the mouse.
-Wheely is a beloved series of point-and-click puzzle adventure games starring an endearing red car named Wheely. Each game in the series presents a new journey for Wheely, filled with environmental puzzles that players must solve by interacting with various objects and mechanisms in the scene. The games are known for their charming visuals, intuitive controls, and clever challenges.
-
-### Présentation du jeu
-
-
-The Wheely series has many installments, each offering new adventures and puzzles for players to enjoy.
-
-**How many Wheely games are there?**
-
-Yes, the Wheely series is generally considered family-friendly and suitable for children due to its gentle nature, charming characters, and focus on logical problem-solving.
-
-**Are the games suitable for children?**
-
-The main objective is to guide Wheely through each level, overcoming obstacles and solving puzzles, to reach the red flag at the end.
-
-**What is the main objective of Wheely games?**
+**Combien de jeux Wheely existe-t-il ?**
+La série Wheely compte de nombreux épisodes, chacun offrant de nouvelles aventures et puzzles pour les joueurs.
