@@ -56,7 +56,7 @@
 
 - **ES**：679/679（100%）✅
 - **JA**：679/679（100%）✅
-- **FR**：230/679（33.87%）🚧（正序：`2-tricky-stories` → `golf-and-friends`；倒序：`tripeaks-solitaire` → `zumba-ocean`）
+- **FR**：240/679（35.35%）🚧（正序：`2-tricky-stories` → `grow-a-garden`；倒序：`tripeaks-solitaire` → `zumba-ocean`）
 - **DE**：0/679（0%）
 - **KO**：679/679（100%）✅（修复残留英文：`sprunki-retake`、`zumba-ocean`）
 - **ZH**：679/679（100%）✅（修复英文标题：`cookie-clicker`、`slope`、`incredibox`、`friday-night-funkin`、`geometry-dash`）
@@ -70,9 +70,9 @@
 - B33：`tripeaks-solitaire` → `word-connect`（20个，已完成）
 - 下一批：B32
 
-### 法语 FR：正序下一批（B20，10 篇，字典序）
+### 法语 FR：正序下一批（B21，10 篇，字典序）
 
-`golf-fling`, `golf-orbit`, `google-doodle-baseball`, `google-feud`, `google-minesweeper`, `google-snake`, `google-solitaire`, `granny-hero`, `grass-cutter`, `grow-a-garden`
+`guess-the-kitty`, `guess-the-word`, `guess-their-answer`, `guns-n-bottles`, `gunspin`, `gym-stack`, `hangman`, `happy-wheels`, `haru-pandas-slide`, `he-likes-the-darkness`
 
 对应文件路径：`src/content/games/<slug>.fr.md`
 

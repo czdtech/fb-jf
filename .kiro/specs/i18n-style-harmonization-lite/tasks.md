@@ -176,10 +176,10 @@
 
 - [ ] 2.3 法语（fr）全量审校
   - **进度记录（滚动更新，最后更新：2025-12-16）**
-    - 已完成：179 / 679（26.36%）
-    - 剩余：500 / 679（73.64%）
-    - 正序已审校范围：`2-tricky-stories` → `five-nights-at-freddy-4`（含）
-    - 倒序已审校范围：`tripeaks-solitaire` → `zumba-ocean`（含）
+    - 已完成：269 / 679（39.62%）
+    - 剩余：410 / 679（60.38%）
+    - 正序已审校范围：`2-tricky-stories` → `grow-a-garden`（含）
+    - 倒序已审校范围：`tank-trouble` → `zumba-ocean`（含）
     - 执行节奏：倒序审校，发现内容颠倒+英文残留问题后完全重写翻译；每批结束后运行 `npm run validate:i18n`
     - 已修复问题：约130个文件存在内容顺序颠倒+全英文内容，需完全重写
   - **已完成批次（滚动）**
@@ -202,7 +202,8 @@
     - [x] 2.3.fr.B17 审校+回归（10）：`funny-shooter` → `gangsters`（完成：2025-12-16，无需修复）
     - [x] 2.3.fr.B18 审校+回归（10）：`garden-bloom` → `getting-over-it`（完成：2025-12-16）
     - [x] 2.3.fr.B19 审校+回归（10）：`ghost-pro-racing` → `golf-and-friends`（完成：2025-12-16）
-    - [ ] 2.3.fr.B20 审校+回归（10）：`golf-fling` → `grow-a-garden`
+    - [x] 2.3.fr.B20 审校+回归（10）：`golf-fling` → `grow-a-garden`（完成：2025-12-16）
+    - [ ] 2.3.fr.B21 审校+回归（10）：`guess-the-kitty` → `he-likes-the-darkness`
   - **倒序审校批次（滚动）**
     - [x] 2.3.fr.B34 倒序审校（19）：`word-detector` → `zumba-ocean`（完成：2025-12-16，完全重写翻译）
     - [x] 2.3.fr.B33 倒序审校（20）：`tripeaks-solitaire` → `word-connect`（完成：2025-12-16，完全重写翻译）
