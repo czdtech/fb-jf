@@ -66,9 +66,7 @@ Sprunki Retake는 알록달록하지만 위험한 세계 속으로 플레이어�
   퍼즐 해결과 진행 과정 전체가 음악과 맞물려, 리듬을 통해 몰입감을
   극대화합니다.
 - **멀티플레이:**
-
-- **Multiplayer Mode:** Team up with your friends online to jointly deal with challenges and double the fun!
-  친구와 함께 도전을 공략하며, 협력 또는 경쟁을 통해 두 배의 재미를
+  친구와 함께 온라인으로 도전을 공략하며, 협력 또는 경쟁을 통해 두 배의 재미를
   느낄 수 있습니다.
 
 ### 한 줄 요약

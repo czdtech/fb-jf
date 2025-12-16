@@ -52,12 +52,6 @@ Zumba Ocean은 Zuma와 유사한 스타일의 바다 테마 구슬 슈팅 퍼즐
     - **Q. 한 개라도 조가비에 닿으면 어떻게 되나요?**  
     **A:** 조가비에 구슬이 닿는 순간 해당 스테이지는 실패 처리되고, 처음부터 다시 도전해야 합니다.
 
-*   **Q. 높은 점수를 얻으려면 어떻게 해야 하나요?**  
-
-    - **A:** By creating long combos and clearing the level quickly. The faster you finish, and the more chain reactions you cause, the higher your score will be.
-
-- **Q: How do I get a high score?**
-
-    - **A:** You lose the level and must start over.
+*   **Q. 높은 점수를 얻으려면 어떻게 해야 하나요?**
     **A:** 최대한 많은 콤보와 연쇄 반응을 만들어 한 번에 큰 구간을 정리하고, 스테이지를 빠르게
         클리어하는 것이 핵심입니다. 특수 구슬을 적절히 활용해 위기 상황을 기회로 바꿔 보세요.
