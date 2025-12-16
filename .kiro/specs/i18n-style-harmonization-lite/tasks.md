@@ -200,7 +200,9 @@
     - [x] 2.3.fr.B15 审校+回归（10）：`five-nights-at-freddy-sl` → `football-penalty`（完成：2025-12-16，无需修复）
     - [x] 2.3.fr.B16 审校+回归（10）：`football-stars` → `fullspeed-racing`（完成：2025-12-16）
     - [x] 2.3.fr.B17 审校+回归（10）：`funny-shooter` → `gangsters`（完成：2025-12-16，无需修复）
-    - [ ] 2.3.fr.B18 审校+回归（10）：`garden-bloom` → `getting-over-it`
+    - [x] 2.3.fr.B18 审校+回归（10）：`garden-bloom` → `getting-over-it`（完成：2025-12-16）
+    - [x] 2.3.fr.B19 审校+回归（10）：`ghost-pro-racing` → `golf-and-friends`（完成：2025-12-16）
+    - [ ] 2.3.fr.B20 审校+回归（10）：`golf-fling` → `grow-a-garden`
   - **倒序审校批次（滚动）**
     - [x] 2.3.fr.B34 倒序审校（19）：`word-detector` → `zumba-ocean`（完成：2025-12-16，完全重写翻译）
     - [x] 2.3.fr.B33 倒序审校（20）：`tripeaks-solitaire` → `word-connect`（完成：2025-12-16，完全重写翻译）
