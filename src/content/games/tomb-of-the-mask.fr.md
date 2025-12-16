@@ -2,65 +2,43 @@
 locale: fr
 urlstr: tomb-of-the-mask
 title: Tomb of the Mask
-description: "Tomb of the Mask est un jeu d’arcade vertical rapide\_: glisse de mur en mur dans un labyrinthe piégé et ramasse les points sans te faire toucher."
-iframeSrc: 'https://tombmask.h5games.usercontent.goog/v/abc/'
+description: >-
+  Tomb of the Mask est un jeu arcade rapide : glisse de mur en mur, collecte des
+  pieces et bonus tout en fuyant une maree montante.
+iframeSrc: 'https://w8.snokido.com/games/unity-webgl/tomb-run/index.html'
 thumbnail: /new-images/tomb-of-the-mask.jpg
 tags:
   - arcade
+  - maze
   - action
-score: 4.4/5  (2100 votes)
+score: 3.7/5  (843 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Presentation du jeu
 
-Yes, as you progress and collect coins, you can unlock various masks. Each mask might offer a unique ability or bonus, adding a strategic layer to your runs.
+Tomb of the Mask est un jeu arcade hautement addictif et rapide qui combine navigation de labyrinthe et runner infini. Tu controles un personnage qui se deplace en balayant, glissant de mur en mur dans un labyrinthe pixel-art. L'objectif principal est de collecter des pieces et des bonus tout en fuyant une maree montante d'encre ou de lave qui monte par le bas.
 
-**Are there different masks?**
+### Guide de jeu
 
-Hitting an obstacle will usually result in instant death, ending your run. Some power-ups might offer temporary protection.
-
-**What happens if I hit an obstacle?**
-
-A high score is achieved by surviving longer, collecting more coins, and utilizing power-ups effectively. Focus on efficient pathfinding and quick reflexes.
-
-**How do I get a high score?**
-
-### Foire aux questions (FAQ)
-
-
-Tomb of the Mask is a highly addictive, fast-paced arcade game that combines elements of maze navigation and endless runner. Players control a character who moves by swiping, sliding from wall to wall in a pixel-art maze. The primary goal is to collect coins and power-ups while outrunning a constantly rising flood of ink or lava from below.
-- **Swipe:** Swipe your finger across the screen (on mobile) or use `Arrow Keys` / `WASD` (on PC) to control your character's movement.
+-   **Deplacement :** Balaie dans l'une des quatre directions cardinales (haut, bas, gauche, droite). Ton personnage glissera dans cette direction jusqu'a toucher un obstacle.
+-   **Collecter :** Ramasse les pieces et les points disperses dans le labyrinthe.
+-   **Bonus :** Prends divers bonus comme des boucliers, des boosts de vitesse ou des capacites de gel pour t'aider a survivre.
+-   **Eviter les obstacles :** Esquive les piques, les pieges et les ennemis.
+-   **Fuir la maree :** Une maree coloree monte du bas de l'ecran, te forcant a monter rapidement.
 
 ### Commandes
 
-- **Outrun the Flood:** A colored flood rises from the bottom of the screen, forcing you to move quickly upwards.
+-   **Balayer :** Balaie ton doigt sur l'ecran (mobile) ou utilise les `Fleches` / `WASD` (PC) pour controler le mouvement de ton personnage.
 
-- **Avoid Obstacles:** Dodge spikes, traps, and enemies.
+### Foire aux questions (FAQ)
 
-- **Power-ups:** Pick up various power-ups like shields, speed boosts, or freeze abilities to help you survive.
+**Comment obtenir un bon score ?**
+Un bon score s'obtient en survivant plus longtemps, collectant plus de pieces et utilisant efficacement les bonus. Concentre-toi sur un cheminement efficace et des reflexes rapides.
 
-- **Collect:** Gather coins and dots scattered throughout the maze.
+**Que se passe-t-il si je touche un obstacle ?**
+Toucher un obstacle resulte generalement en une mort instantanee, terminant ta course. Certains bonus peuvent offrir une protection temporaire.
 
-- **Movement:** Swipe in any of the four cardinal directions (up, down, left, right). Your character will slide in that direction until they hit an obstacle.
-
-### Gameplay Guide
-
-
-- **Swipe:** Swipe your finger across the screen (on mobile) or use `Arrow Keys` / `WASD` (on PC) to control your character's movement.
-Tomb of the Mask is a highly addictive, fast-paced arcade game that combines elements of maze navigation and endless runner. Players control a character who moves by swiping, sliding from wall to wall in a pixel-art maze. The primary goal is to collect coins and power-ups while outrunning a constantly rising flood of ink or lava from below.
-
-### Présentation du jeu
-
-
-Yes, as you progress and collect coins, you can unlock various masks. Each mask might offer a unique ability or bonus, adding a strategic layer to your runs.
-
-**Are there different masks?**
-
-Hitting an obstacle will usually result in instant death, ending your run. Some power-ups might offer temporary protection.
-
-**What happens if I hit an obstacle?**
-
-A high score is achieved by surviving longer, collecting more coins, and utilizing power-ups effectively. Focus on efficient pathfinding and quick reflexes.
-
-**How do I get a high score?**
+**Y a-t-il differents masques ?**
+Oui, en progressant et collectant des pieces, tu peux debloquer differents masques. Chaque masque peut offrir une capacite unique ou un bonus, ajoutant une couche strategique a tes courses.

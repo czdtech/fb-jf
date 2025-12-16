@@ -2,57 +2,38 @@
 locale: fr
 urlstr: timber-guy
 title: Timber Guy
-description: "Timber Guy est un jeu d’arcade réflexe\_: abats l’arbre en coupant à gauche ou à droite sans te faire écraser par les branches."
-iframeSrc: 'https://timberguy.h5games.usercontent.goog/v/1a2b3c4d/'
+description: >-
+  Timber Guy est un jeu arcade de timing : abats l'arbre, esquive les branches
+  et accumule les coupes.
+iframeSrc: 'https://timberguy.h5games.usercontent.goog/v/2ke6osh59ras0/'
 thumbnail: /new-images/timber-guy.png
 tags:
-  - arcade
-  - reflex
-score: 3.9/5  (1500 votes)
+  - action
+  - casual
+score: 3.8/5  (1659 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
 ### Présentation du jeu
-*(Remplace avec le contenu EN réel si nécessaire, ici juste localisation du titre/desc.)*
 
-
-
-- Any power‑ups? Some versions include boosters; focus on consistency.
-
-- Does speed ramp? Yes; rhythm helps adaptation.
-
-- Why do I get hit? Late swaps—change sides earlier.
-
-### Foire aux questions (FAQ)
-
-- Pause/Retry via UI.
-
-- Chop/Swap: Tap left/right to chop from that side.
-
-
-- High score: Small errors compound—reset after bad starts.
-
-- Don’t panic: Miss one beat if unsure; safety beats a hit.
-
-- Early swaps: Switch sides slightly before the branch passes you.
-### Commandes
-
-- High score: Small errors compound—reset after bad starts.
-
-- Don’t panic: Miss one beat if unsure; safety beats a hit.
-
-- Early swaps: Switch sides slightly before the branch passes you.
-
-- Keep rhythm: Maintain a steady chop tempo for better reactions.
-
-- Read ahead: Watch the next few branches and pre‑plan swaps.
+Timber Guy est un jeu de timing à un seul bouton. Coupe le tronc tout en changeant de côté pour éviter les branches qui arrivent. Le rythme s'accélère, exigeant des changements de côté propres et un rythme régulier.
 
 ### Guide de jeu
 
+1.  **Lis à l'avance :** Regarde les prochaines branches et planifie tes changements à l'avance.
+2.  **Garde le rythme :** Maintiens un tempo de coupe régulier pour de meilleures réactions.
+3.  **Change tôt :** Change de côté légèrement avant que la branche ne te passe.
+4.  **Ne panique pas :** Manque un temps si tu n'es pas sûr ; la sécurité vaut mieux qu'un coup.
+5.  **Score élevé :** Les petites erreurs s'accumulent — recommence après un mauvais départ.
 
-- Any power‑ups? Some versions include boosters; focus on consistency.
+### Commandes
 
-- Does speed ramp? Yes; rhythm helps adaptation.
+-   **Couper/Changer :** Tape à gauche/droite pour couper de ce côté.
+-   **Pause/Réessayer via l'interface.**
 
-- Why do I get hit? Late swaps—change sides earlier.
+### Foire aux questions (FAQ)
+
+-   **Pourquoi je me fais toucher ?** Changements tardifs — change de côté plus tôt.
+-   **La vitesse augmente-t-elle ?** Oui ; le rythme aide à l'adaptation.
+-   **Des bonus ?** Certaines versions incluent des boosters ; concentre-toi sur la constance.

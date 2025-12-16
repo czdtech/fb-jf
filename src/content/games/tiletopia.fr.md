@@ -2,7 +2,10 @@
 locale: fr
 urlstr: tiletopia
 title: Tiletopia
-description: "Tiletopia est un puzzle de construction paisible\_: place des tuiles hexagonales, fais correspondre les bords et complète des petites quêtes pour bâtir ton monde miniature."
+description: >-
+  Tiletopia est un puzzle de construction de ville relaxant : place des tuiles
+  pour connecter des routes, construire des maisons et créer ton propre monde
+  miniature.
 iframeSrc: 'https://6nilllqpgkm6o.h5games.usercontent.goog/v/7d3689i7s5gfo/'
 thumbnail: /new-images/tiletopia.png
 tags:
@@ -14,55 +17,30 @@ score: 4.5/5  (2800 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
-### Présentation
 
-Tu pioches des tuiles hexagonales (forêt, champ, village, rails…) et les
+### Présentation du jeu
 
-    - **A:** This usually doesn't happen, as there will almost always be a valid spot. However, a poorly placed tile might prevent you from completing a quest, so think carefully before you place!
-
-- **Q: What happens if I can't place a tile anywhere?**
-
-    - **A:** By making perfect edge matches, completing quests, and closing off large areas of a single type (like a big forest or field).
-
-- **Q: How do I get more points?**
-
-    - **A:** To get the highest score possible by placing tiles from your stack. The game ends when the stack is empty.
-
-- **Q: What is the main objective?**
-
-### Foire aux questions (FAQ)
-
-- **Rotate Tile:** In most versions, you can click on the tile in the stack to rotate it before placing it on the board.
-
-- **Place Tile:** Click and drag a tile from your stack and drop it onto a valid empty space adjacent to an existing tile.
-
-
-- **Plan Your Placements:** You can see the next few tiles in your stack. Use this information to plan ahead. If you know a specific type of tile is coming up, you can prepare a perfect spot for it.
-
-- **Closing Off Areas:** When you completely enclose an area (for example, a field surrounded by roads and houses with no gaps), you often receive bonus points. Look for opportunities to close off these areas.
-### Commandes
-
-- **Plan Your Placements:** You can see the next few tiles in your stack. Use this information to plan ahead. If you know a specific type of tile is coming up, you can prepare a perfect spot for it.
-
-- **Closing Off Areas:** When you completely enclose an area (for example, a field surrounded by roads and houses with no gaps), you often receive bonus points. Look for opportunities to close off these areas.
-
-- **Complete Quests:** Pay attention to the quests that appear. These might ask you to create a forest of a certain size, build a village with a specific number of houses, or create a closed loop with a road or railway. Completing these quests is key to a high score.
-
-- **Match the Edges:** The fundamental rule is to match the edges of the tiles you place. Connect a forest edge to another forest edge, a field to a field, and so on. Every correct match earns you points.
+Tiletopia est un jeu de puzzle de construction de ville paisible et créatif où tu crées de beaux paysages en expansion en plaçant des tuiles hexagonales. Tu commences avec une seule tuile et pioches dans une pile de tuiles générées procéduralement. L'objectif est de placer ces tuiles stratégiquement pour créer un monde cohérent et pittoresque, en faisant correspondre les bords comme les forêts, les champs et les villages. Le jeu inclut souvent de petites quêtes pour guider ta création et maximiser ton score.
 
 ### Guide de jeu
 
-- **A:** This usually doesn't happen, as there will almost always be a valid spot. However, a poorly placed tile might prevent you from completing a quest, so think carefully before you place!
+1.  **Fais correspondre les bords :** La règle fondamentale est de faire correspondre les bords des tuiles que tu places. Connecte un bord de forêt à un autre bord de forêt, un champ à un champ, etc. Chaque correspondance correcte te rapporte des points.
+2.  **Complète les quêtes :** Fais attention aux quêtes qui apparaissent. Elles peuvent te demander de créer une forêt d'une certaine taille, construire un village avec un nombre spécifique de maisons, ou créer une boucle fermée avec une route. Compléter ces quêtes est la clé d'un bon score.
+3.  **Fermer les zones :** Quand tu entoures complètement une zone (par exemple, un champ entouré de routes et maisons sans espace), tu reçois souvent des points bonus. Cherche les opportunités de fermer ces zones.
+4.  **Planifie tes placements :** Tu peux voir les prochaines tuiles de ta pile. Utilise cette information pour planifier. Si tu sais qu'un type spécifique de tuile arrive, tu peux préparer un emplacement parfait.
 
-    - **Q: What happens if I can't place a tile anywhere?**
+### Commandes
 
-- **A:** By making perfect edge matches, completing quests, and closing off large areas of a single type (like a big forest or field).
+*   **Placer une tuile :** Clique et fais glisser une tuile de ta pile et dépose-la sur un espace vide valide adjacent à une tuile existante.
+*   **Tourner une tuile :** Dans la plupart des versions, tu peux cliquer sur la tuile dans la pile pour la tourner avant de la placer.
 
-    - **Q: How do I get more points?**
+### Foire aux questions (FAQ)
 
-- **A:** To get the highest score possible by placing tiles from your stack. The game ends when the stack is empty.
+*   **Q : Quel est l'objectif principal ?**
+    *   **R :** Obtenir le score le plus élevé possible en plaçant les tuiles de ta pile. Le jeu se termine quand la pile est vide.
 
-    - **Q: What is the main objective?**
-poses sur la carte en alignant les bords similaires. Des objectifs te demandent
-par exemple de créer une grande forêt ou de fermer une boucle de route.
+*   **Q : Comment obtenir plus de points ?**
+    *   **R :** En faisant des correspondances de bords parfaites, complétant des quêtes et fermant de grandes zones d'un seul type (comme une grande forêt ou un champ).
 
+*   **Q : Que se passe-t-il si je ne peux placer une tuile nulle part ?**
+    *   **R :** Cela n'arrive généralement pas, car il y aura presque toujours un emplacement valide. Cependant, une tuile mal placée peut t'empêcher de compléter une quête, alors réfléchis bien avant de placer !

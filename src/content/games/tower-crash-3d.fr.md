@@ -2,67 +2,45 @@
 locale: fr
 urlstr: tower-crash-3d
 title: Tower Crash 3D
-description: "Tower Crash 3D est un jeu de démolition coloré\_: tire des balles de la bonne couleur pour faire s’effondrer la tour en dessous de la ligne."
-iframeSrc: 'https://towercrash3d.h5games.usercontent.goog/v/xyz/'
-thumbnail: /new-images/tower-crash-3d.png
+description: >-
+  Tower Crash 3D est un jeu de physique satisfaisant : tire des balles de la
+  meme couleur que les blocs pour provoquer des effondrements epiques.
+iframeSrc: 'https://towercrash3d.h5games.usercontent.goog/v/7c54afc1-3ca4-4121-a52a-9ea74e30f0d7/'
+thumbnail: /new-images/tower-crash-3d.jpg
 tags:
-  - arcade
-  - physics
-score: 4.0/5  (1800 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
+  - action
+  - shooting
+  - puzzle
+score: 4.3/5  (2100 votes)
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Presentation du jeu
 
-    - **A:** Wait for your cannon to load the color you need. The color of the ball in your cannon changes, so be patient and wait for the right color to target the tower's weakest point.
-
-- **Q: What is the best strategy if the tower is multi-colored?**
-
-    - **A:** You win the level when the highest point of the remaining structure falls below the goal line indicated on the screen. You must do this before running out of cannonballs.
-
-- **Q: How do I complete a level?**
-
-    - **A:** You must hit a block with a ball of the exact same color. If your ball is blue, it will only destroy blue blocks.
-
-- **Q: Why didn't the block break when I shot it?**
-
-### Foire aux questions (FAQ)
-
-- **Fire:** Click the left mouse button or tap the screen to shoot a ball.
-
-- **Aim:** Move your mouse or swipe your finger left and right to aim your cannon.
-
-The controls are simple and intuitive.
-
-### Commandes
-
-- **Conserve Your Shots:** You have a limited number of balls for each level. Don't fire randomly. Take a moment to aim each shot for maximum impact.
-
-- **Look for Chain Reactions:** Sometimes, a single block might be supporting several others. Identify these critical blocks and target them to get the most destruction out of a single shot.
-
-- **Aim for the Base:** Like in any demolition game, the foundation is key. Prioritize shooting the lowest blocks of the correct color. Removing the base supports will destabilize the tower and cause a much larger collapse than shooting at the top.
-
-- **Match the Colors:** This is the most important rule. Look at the color of the ball loaded in your cannon and aim only for blocks of that same color. Hitting a different colored block will do nothing and waste a precious shot.
+Tower Crash 3D est un jeu de puzzle physique satisfaisant et addictif ou ton objectif est de demolir des tours faites de blocs colores. L'astuce est que tu dois tirer des balles d'une couleur specifique, et elles ne detruiront que les blocs de la meme couleur. Avec des munitions limitees pour chaque niveau, tu dois viser strategiquement pour toucher les blocs de support critiques et faire s'effondrer toute la structure.
 
 ### Guide de jeu
 
-Tower Crash 3D is a satisfying and addictive physics-based puzzle game where your goal is to demolish towers made of colorful blocks. The catch is that you must shoot balls of a specific color, and they will only destroy blocks of the same color. With limited ammunition for each level, you must aim strategically to hit critical support blocks and cause the entire structure to come crashing down below the goal line.
+1.  **Fais correspondre les couleurs :** C'est la regle la plus importante. Regarde la couleur de la balle chargee dans ton canon et vise seulement les blocs de cette meme couleur. Toucher un bloc de couleur differente ne fera rien et gaspillera un tir precieux.
+2.  **Vise la base :** Comme dans tout jeu de demolition, les fondations sont cles. Priorise les blocs les plus bas de la bonne couleur. Retirer les supports de base destabilisera la tour et causera un effondrement bien plus grand que de tirer en haut.
+3.  **Cherche les reactions en chaine :** Parfois, un seul bloc peut en supporter plusieurs autres. Identifie ces blocs critiques et cible-les pour un maximum de destruction en un seul tir.
+4.  **Economise tes tirs :** Tu as un nombre limite de balles par niveau. Ne tire pas au hasard. Prends le temps de viser chaque tir pour un impact maximum.
 
+### Commandes
 
-- **Fire:** Click the left mouse button or tap the screen to shoot a ball.
+Les controles sont simples et intuitifs.
 
-- **Aim:** Move your mouse or swipe your finger left and right to aim your cannon.
-### Présentation du jeu
+*   **Viser :** Deplace ta souris ou balaie ton doigt gauche et droite pour viser ton canon.
+*   **Tirer :** Clique sur le bouton gauche de la souris ou tape sur l'ecran pour tirer une balle.
 
+### Foire aux questions (FAQ)
 
-- **A:** Wait for your cannon to load the color you need. The color of the ball in your cannon changes, so be patient and wait for the right color to target the tower's weakest point.
+*   **Q : Pourquoi le bloc ne s'est pas casse quand j'ai tire ?**
+    *   **R :** Tu dois toucher un bloc avec une balle de la meme couleur exacte. Si ta balle est bleue, elle ne detruira que les blocs bleus.
 
-    - **Q: What is the best strategy if the tower is multi-colored?**
+*   **Q : Comment terminer un niveau ?**
+    *   **R :** Tu gagnes le niveau quand le point le plus haut de la structure restante tombe sous la ligne d'objectif indiquee a l'ecran. Tu dois faire cela avant d'epuiser tes boulets.
 
-- **A:** You win the level when the highest point of the remaining structure falls below the goal line indicated on the screen. You must do this before running out of cannonballs.
-
-    - **Q: How do I complete a level?**
-
-- **A:** You must hit a block with a ball of the exact same color. If your ball is blue, it will only destroy blue blocks.
-
-    - **Q: Why didn't the block break when I shot it?**
+*   **Q : Quelle est la meilleure strategie si la tour est multicolore ?**
+    *   **R :** Attends que ton canon charge la couleur dont tu as besoin. La couleur de la balle change, alors sois patient et attends la bonne couleur pour cibler le point faible de la tour.

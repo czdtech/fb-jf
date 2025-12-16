@@ -2,7 +2,9 @@
 locale: fr
 urlstr: tower-mania
 title: Tower Mania
-description: "Tower Mania est un jeu de pile de blocs\_: lâche les étages au bon timing pour construire la tour la plus haute possible."
+description: >-
+  Tower Mania : construis la tour la plus haute en empilant soigneusement les
+  blocs, mais attention aux oscillations et aux effondrements !
 iframeSrc: 'https://49pvu1mm0ofc0.h5games.usercontent.goog/v/4apam1d97c7mo/'
 thumbnail: /new-images/tower-mania.png
 tags:
@@ -14,54 +16,29 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
-    - **A:** If a block is not perfectly aligned, any part of it that extends beyond the block below will be cut off. This makes the next block you drop have a smaller surface area to land on, increasing the difficulty.
-
-- **Q: What happens if a block isn't perfectly aligned?**
-
-    - **A:** Your score is determined by the height of your tower. The more blocks you stack successfully, the higher your score will be.
-
-- **Q: How do I get a higher score?**
-
-    - **A:** The main goal is to build the tallest possible tower by stacking blocks accurately. The game ends when a block falls off the tower.
-
-- **Q: What is the goal of Tower Mania?**
-
-### Foire aux questions (FAQ)
-
-
-Tower Mania is an engaging and addictive arcade game that challenges your precision and timing. The objective is simple: build the tallest possible tower by carefully stacking blocks one on top of another. Blocks swing back and forth, and you must tap or click at the precise moment to drop them perfectly aligned. Any part of a block that hangs off will be cut away, making the next level smaller and increasing the difficulty. Test your steady hand and keen eye to reach new heights and achieve the ultimate high score!
-- **Drop Block:** Click the left mouse button or tap the screen to release the swinging block.
-
-### Commandes
-
-- **Use Power-ups (if available):** Some versions of Tower Mania might offer power-ups that can help stabilize your tower or give you a perfect drop. Use them strategically when the tower gets very high and unstable.
-
-- **Adapt to Smaller Blocks:** As you make imperfect drops, the base of your tower will shrink. You'll need to adapt your timing and precision to these smaller targets.
-
-- **Focus on the Center:** Always aim for the center. Even if you miss slightly, try to keep the main mass of the tower as central as possible to maintain stability.
-
-- **Start Slow and Steady:** Don't rush in the beginning. Take your time to get a feel for the block's swing speed and the rhythm of the game. A solid foundation is key to a tall tower.
-
-- **Timing is Crucial:** The core of the game is timing your tap perfectly. Watch the swinging block and try to release it when it's directly over the center of the block below. Precision is rewarded.
+Tower Mania est un jeu d'arcade captivant et addictif qui défie ta précision et ton timing. L'objectif est simple : construire la tour la plus haute possible en empilant soigneusement des blocs les uns sur les autres. Les blocs oscillent d'avant en arrière, et tu dois taper ou cliquer au moment précis pour les lâcher parfaitement alignés. Toute partie d'un bloc qui dépasse sera coupée, rendant le niveau suivant plus petit et augmentant la difficulté.
 
 ### Guide de jeu
 
+1.  **Le timing est crucial :** Le cœur du jeu est de chronométrer parfaitement ton tap. Regarde le bloc oscillant et essaie de le lâcher quand il est directement au-dessus du centre du bloc en dessous.
+2.  **Commence lentement et régulièrement :** Ne te précipite pas au début. Prends le temps de sentir la vitesse d'oscillation et le rythme du jeu. Des fondations solides sont la clé d'une tour haute.
+3.  **Concentre-toi sur le centre :** Vise toujours le centre. Même si tu rates légèrement, essaie de garder la masse principale de la tour aussi centrale que possible.
+4.  **Adapte-toi aux blocs plus petits :** Quand tu fais des poses imparfaites, la base de ta tour rétrécit. Tu devras adapter ton timing et ta précision à ces cibles plus petites.
+5.  **Utilise les bonus (si disponibles) :** Certaines versions proposent des bonus qui peuvent aider à stabiliser ta tour ou te donner une pose parfaite. Utilise-les stratégiquement quand la tour devient très haute et instable.
 
-- **Drop Block:** Click the left mouse button or tap the screen to release the swinging block.
-Tower Mania is an engaging and addictive arcade game that challenges your precision and timing. The objective is simple: build the tallest possible tower by carefully stacking blocks one on top of another. Blocks swing back and forth, and you must tap or click at the precise moment to drop them perfectly aligned. Any part of a block that hangs off will be cut away, making the next level smaller and increasing the difficulty. Test your steady hand and keen eye to reach new heights and achieve the ultimate high score!
+### Commandes
 
-### Présentation du jeu
+*   **Lâcher le bloc :** Clique avec le bouton gauche de la souris ou tape sur l'écran pour lâcher le bloc oscillant.
 
+### Foire aux questions (FAQ)
 
-- **A:** If a block is not perfectly aligned, any part of it that extends beyond the block below will be cut off. This makes the next block you drop have a smaller surface area to land on, increasing the difficulty.
+*   **Q : Quel est l'objectif de Tower Mania ?**
+    *   **R :** L'objectif principal est de construire la tour la plus haute possible en empilant les blocs avec précision. Le jeu se termine quand un bloc tombe de la tour.
 
-    - **Q: What happens if a block isn't perfectly aligned?**
+*   **Q : Comment obtenir un meilleur score ?**
+    *   **R :** Ton score est déterminé par la hauteur de ta tour. Plus tu empiles de blocs avec succès, plus ton score sera élevé.
 
-- **A:** Your score is determined by the height of your tower. The more blocks you stack successfully, the higher your score will be.
-
-    - **Q: How do I get a higher score?**
-
-- **A:** The main goal is to build the tallest possible tower by stacking blocks accurately. The game ends when a block falls off the tower.
-
-    - **Q: What is the goal of Tower Mania?**
+*   **Q : Que se passe-t-il si un bloc n'est pas parfaitement aligné ?**
+    *   **R :** Si un bloc n'est pas parfaitement aligné, toute partie qui dépasse du bloc en dessous sera coupée. Cela réduit la surface pour le bloc suivant, augmentant la difficulté.

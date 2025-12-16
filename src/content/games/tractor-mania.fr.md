@@ -2,7 +2,9 @@
 locale: fr
 urlstr: tractor-mania
 title: Tractor Mania
-description: "Tractor Mania est un jeu de transport agricole\_: garde l’équilibre de ta remorque et livre la cargaison à bon port sur des chemins accidentés."
+description: >-
+  Tractor Mania est un jeu de transport agricole : equilibre les charges, gere
+  le couple et livre la cargaison en securite sur terrain accidente.
 iframeSrc: 'https://4agtsfcp8ur38.h5games.usercontent.goog/v/35kskpc4lmtig/'
 thumbnail: /new-images/tractor-mania.png
 tags:
@@ -14,49 +16,26 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Presentation du jeu
 
-A: Approach slower, keep traction, and lean forward gently.
-
-- Q: Stuck on hills.
-
-A: You’re over‑throttling; slow and stabilize before bumps.
-
-- Q: Cargo keeps spilling.
-
-### Foire aux questions (FAQ)
-
-
-Tractor Mania is a physics hauler: throttle control and balance keep trailers steady over bumps. Spilled cargo costs rewards; smooth driving beats speed.
-- Throttle/Brake: W/S or Up/Down; Lean: A/D or Left/Right.
-
-### Commandes
-
-- Upgrade tires/suspension before engines if available.
-
-- Secure partial loads first on tough routes.
-
-- Brake before descents; coast down.
-
-- Lean to counter pitch; keep trailer level.
-
-- Gentle throttle on inclines; avoid wheel‑spin.
+Tractor Mania est un jeu de transport physique : le controle de l'accelerateur et l'equilibre maintiennent les remorques stables sur les bosses. La cargaison renversee coute des recompenses ; une conduite douce bat la vitesse.
 
 ### Guide de jeu
 
+1.  Accelerateur doux dans les montees ; evite le patinage des roues.
+2.  Penche pour contrer l'inclinaison ; garde la remorque a niveau.
+3.  Freine avant les descentes ; laisse glisser.
+4.  Securise d'abord les charges partielles sur les routes difficiles.
+5.  Ameliore les pneus/suspension avant les moteurs si possible.
 
-- Throttle/Brake: W/S or Up/Down; Lean: A/D or Left/Right.
-Tractor Mania is a physics hauler: throttle control and balance keep trailers steady over bumps. Spilled cargo costs rewards; smooth driving beats speed.
+### Commandes
 
-### Présentation du jeu
+-   Accelerateur/Frein : W/S ou Haut/Bas ; Inclinaison : A/D ou Gauche/Droite.
 
+### Foire aux questions (FAQ)
 
-A: Approach slower, keep traction, and lean forward gently.
+-   **Q : La cargaison renverse sans cesse.**
+    **R :** Tu acceleres trop ; ralentis et stabilise avant les bosses.
 
-- Q: Stuck on hills.
-
-A: You’re over‑throttling; slow and stabilize before bumps.
-
-- Q: Cargo keeps spilling.
-
-
-A: Approach slower, keep traction, and lean forward gently.
+-   **Q : Bloque dans les cotes.**
+    **R :** Approche plus lentement, garde la traction et penche doucement vers l'avant.

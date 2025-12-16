@@ -2,60 +2,39 @@
 locale: fr
 urlstr: train-miner
 title: Train Miner
-description: "Train Miner est un jeu de collecte sur rails\_: conduis ton train dans la mine, récupère des ressources et évite les collisions."
-iframeSrc: 'https://trainminer.h5games.usercontent.goog/v/xyz/'
-thumbnail: /new-images/train-miner.jpg
+description: >-
+  Train Miner est un puzzle de pose de rails : place des voies, collecte du
+  minerai et atteins les sorties en optimisant les virages et le carburant.
+iframeSrc: 'https://7r2vmm5fqv830.h5games.usercontent.goog/v/3ubj960lc0t4o/'
+thumbnail: /new-images/train-miner.png
 tags:
-  - casual
-  - train
-score: 4.0/5  (1700 votes)
+  - puzzle
+  - thinky
+score: 4.1/5  (1970 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Presentation du jeu
 
-A: Often yes with smart spurs; prioritize safety first.
-
-- Q: Can I collect everything?
-
-A: You spent turns earlier; reroute straighter segments.
-
-- Q: I dead‑end near the exit.
-
-### Foire aux questions (FAQ)
-
-
-Train Miner asks you to place track pieces so a mine‑train collects resources and exits safely. Turns cost momentum/fuel; mis‑routes cause dead‑ends. Smart layouts collect extras without trapping the train.
-- Place/rotate track pieces; launch train; pause/retry via UI.
-
-### Commandes
-
-- Undo quickly after dead‑end sightings.
-
-- Test rides: Simulate routes mentally before launching.
-
-- Branch spurs: Add short spurs to grab side ore and rejoin main line.
-
-- Turn economy: Prefer straights; reserve turns for mandatory bends.
-
-- Exit first: Ensure a viable exit path before optional ore.
+Train Miner te demande de placer des pieces de voie pour qu'un train minier collecte des ressources et sorte en securite. Les virages coutent de l'elan/carburant ; les mauvais trajets creent des impasses. Des traces intelligentes collectent les extras sans pieger le train.
 
 ### Guide de jeu
 
+1.  **Sortie d'abord :** Assure un chemin de sortie viable avant le minerai optionnel.
+2.  **Economie de virages :** Prefere les lignes droites ; reserve les virages pour les courbes obligatoires.
+3.  **Embranchements :** Ajoute des embranchements courts pour attraper le minerai lateral et rejoindre la ligne principale.
+4.  **Trajets tests :** Simule les routes mentalement avant de lancer.
+5.  **Annule rapidement apres avoir repere une impasse.**
 
-- Place/rotate track pieces; launch train; pause/retry via UI.
-Train Miner asks you to place track pieces so a mine‑train collects resources and exits safely. Turns cost momentum/fuel; mis‑routes cause dead‑ends. Smart layouts collect extras without trapping the train.
+### Commandes
 
-### Présentation du jeu
+-   Place/tourne les pieces de voie ; lance le train ; pause/recommence via l'interface.
 
+### Foire aux questions (FAQ)
 
-A: Often yes with smart spurs; prioritize safety first.
+-   **Q : Je finis en impasse pres de la sortie.**
+    **R :** Tu as depense des virages plus tot ; reroutage des segments plus droits.
 
-- Q: Can I collect everything?
-
-A: You spent turns earlier; reroute straighter segments.
-
-- Q: I dead‑end near the exit.
-
-
-A: Often yes with smart spurs; prioritize safety first.
+-   **Q : Puis-je tout collecter ?**
+    **R :** Souvent oui avec des embranchements intelligents ; priorise la securite d'abord.

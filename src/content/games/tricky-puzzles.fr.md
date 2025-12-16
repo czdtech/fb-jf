@@ -1,82 +1,47 @@
 ---
 locale: fr
 urlstr: tricky-puzzles
-title: Tricky Puzzles
-description: "Tricky Puzzles rassemble des casse‑têtes malins et parfois trompeurs\_: observe bien la scène et trouve la solution la moins évidente."
-iframeSrc: 'https://trickypuzzles.h5games.usercontent.goog/v/xyz/'
+title: Brain Test Tricky Puzzles
+description: >-
+  Brain Test Tricky Puzzles est un jeu de reflexion qui defie la logique
+  conventionnelle : resous des enigmes en tapant, glissant et meme en tournant
+  ton appareil.
+iframeSrc: 'https://rebemanae.github.io/brain-test-tricky-puzzles/'
 thumbnail: /new-images/tricky-puzzles.jpg
 tags:
   - puzzle
-  - funny
-score: 4.1/5  (1900 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
+  - brain-teaser
+  - logic
+score: 4.1/5  (713 votes)
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Presentation du jeu
 
-Hints are typically available after watching an ad or using in-game currency. They provide clues to help you solve the puzzle without giving away the full answer immediately.
+Brain Test: Tricky Puzzles est un jeu de puzzle populaire et innovant qui te defie de penser de maniere non conventionnelle. Contrairement aux puzzles traditionnels, ce jeu requiert souvent des solutions peu orthodoxes, t'encourageant a interagir avec les elements a l'ecran de manieres inattendues, y compris taper, glisser et meme tourner ton appareil. Il est concu pour tester ta creativite et ta pensee laterale.
 
-**How do I get hints?**
+### Guide de jeu
 
-Generally, there is no time limit for solving puzzles, allowing you to take your time and experiment.
-
-**Is there a time limit for puzzles?**
-
-The puzzles are tricky because they often play on common assumptions or use wordplay and visual gags to mislead you. The solutions are usually simple once you figure out the "trick."
-
-**Why are the puzzles so "tricky"?**
-
-### Foire aux questions (FAQ)
-
-
-Brain Test: Tricky Puzzles is a popular and innovative puzzle game that challenges players to think outside the box. Unlike traditional puzzles, this game often requires unconventional solutions, encouraging players to interact with elements on the screen in unexpected ways, including tapping, dragging, and even rotating their device. It's designed to test your creativity and lateral thinking.
-- **Multi-touch/Device Rotation:** Some puzzles may require using two fingers or physically rotating your device.
-
-- **Drag:** Tap and hold, then move your finger/mouse to drag objects.
-
-- **Tap:** Use your finger (on mobile) or mouse (on PC) to tap on objects.
+Chaque niveau presente une enigme ou un puzzle unique. La solution est rarement directe et implique souvent de la misdirection ou de l'humour.
+-   **Interaction :** Tape sur les objets, fais-les glisser, ou utilise des gestes multi-touch.
+-   **Observation :** Fais tres attention a chaque detail a l'ecran, car meme des elements apparemment sans importance peuvent faire partie de la solution.
+-   **Experimentation :** N'aie pas peur d'essayer n'importe quoi. Si une solution semble trop evidente, c'est probablement un piege !
+-   **Indices :** Si tu es bloque, des indices sont generalement disponibles, mais essaie de resoudre par toi-meme d'abord pour plus de satisfaction.
 
 ### Commandes
 
-- **Hints:** If you get stuck, hints are usually available, but try to solve it yourself first for the most satisfaction.
+-   **Taper :** Utilise ton doigt (mobile) ou la souris (PC) pour taper sur les objets.
+-   **Glisser :** Tape et maintiens, puis deplace ton doigt/souris pour faire glisser les objets.
+-   **Multi-touch/Rotation :** Certains puzzles peuvent necessiter deux doigts ou la rotation physique de ton appareil.
 
-- **Experimentation:** Don't be afraid to try anything. If a solution seems too obvious, it's probably a trick!
+### Foire aux questions (FAQ)
 
-- **Observation:** Pay close attention to every detail on the screen, as even seemingly irrelevant elements might be part of the solution.
+**Pourquoi les puzzles sont-ils si « tricky » ?**
+Les puzzles sont pieges car ils jouent souvent sur des suppositions communes ou utilisent des jeux de mots et des gags visuels pour te tromper. Les solutions sont generalement simples une fois que tu as compris le « truc ».
 
-- **Interaction:** Tap on objects, drag them around, or use multi-touch gestures.
+**Y a-t-il une limite de temps pour les puzzles ?**
+Generalement, il n'y a pas de limite de temps pour resoudre les puzzles, te permettant de prendre ton temps et d'experimenter.
 
-Each level presents a unique riddle or puzzle. The solution is rarely straightforward and often involves misdirection or humor.
-
-
-- **Hints:** If you get stuck, hints are usually available, but try to solve it yourself first for the most satisfaction.
-
-- **Experimentation:** Don't be afraid to try anything. If a solution seems too obvious, it's probably a trick!
-
-- **Observation:** Pay close attention to every detail on the screen, as even seemingly irrelevant elements might be part of the solution.
-
-- **Interaction:** Tap on objects, drag them around, or use multi-touch gestures.
-### Gameplay Guide
-
-
-- **Multi-touch/Device Rotation:** Some puzzles may require using two fingers or physically rotating your device.
-
-- **Drag:** Tap and hold, then move your finger/mouse to drag objects.
-
-- **Tap:** Use your finger (on mobile) or mouse (on PC) to tap on objects.
-Brain Test: Tricky Puzzles is a popular and innovative puzzle game that challenges players to think outside the box. Unlike traditional puzzles, this game often requires unconventional solutions, encouraging players to interact with elements on the screen in unexpected ways, including tapping, dragging, and even rotating their device. It's designed to test your creativity and lateral thinking.
-
-### Présentation du jeu
-
-
-Hints are typically available after watching an ad or using in-game currency. They provide clues to help you solve the puzzle without giving away the full answer immediately.
-
-**How do I get hints?**
-
-Generally, there is no time limit for solving puzzles, allowing you to take your time and experiment.
-
-**Is there a time limit for puzzles?**
-
-The puzzles are tricky because they often play on common assumptions or use wordplay and visual gags to mislead you. The solutions are usually simple once you figure out the "trick."
-
-**Why are the puzzles so "tricky"?**
+**Comment obtenir des indices ?**
+Les indices sont generalement disponibles apres avoir regarde une pub ou en utilisant de la monnaie du jeu. Ils fournissent des pistes pour t'aider a resoudre le puzzle sans donner la reponse complete immediatement.

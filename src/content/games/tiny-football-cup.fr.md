@@ -2,64 +2,39 @@
 locale: fr
 urlstr: tiny-football-cup
 title: Tiny Football Cup
-description: "Tiny Football Cup est un jeu de football arcade vu de dessus\_: dribble, passe et frappe pour mener ta petite équipe au trophée."
-iframeSrc: 'https://tinyfootball.h5games.usercontent.goog/v/cup123/'
-thumbnail: /new-images/tiny-football-cup.jpg
+description: >-
+  Tiny Football Cup est du foot en version mini : passes rapides, tirs bien
+  times et victoires avec un bon placement.
+iframeSrc: 'https://67buf3k7fmhlg.h5games.usercontent.goog/v/4r92r0smsurf0/'
+thumbnail: /new-images/tiny-football-cup.png
 tags:
   - sports
-  - football
-score: 4.0/5  (1900 votes)
+  - soccer
+score: 3.9/5  (1761 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Présentation du jeu
-*(Idem : localisation courte alignée sur le EN.)*
+### Presentation du jeu
 
-
-
-A: Hold shape; switch defenders; avoid chasing.
-
-- Q: Defense leaks.
-
-A: Pass earlier and shoot first time.
-
-- Q: I can’t get shots off.
-
-### Foire aux questions (FAQ)
-
-- Move/Pass/Shoot per UI; some builds separate lob/ground.
-
-
-- GK: Move late; attackers telegraph last‑second angles.
-
-- Corners: Mix short corners with box shots.
-
-- Press triggers: Pounce after bad touches; don’t over‑commit.
-
-- Far‑post shots: Across‑goal strikes are forgiving.
-### Commandes
-
-- GK: Move late; attackers telegraph last‑second angles.
-
-- Corners: Mix short corners with box shots.
-
-- Press triggers: Pounce after bad touches; don’t over‑commit.
-
-- Far‑post shots: Across‑goal strikes are forgiving.
-
-- Two‑touch play: Pass‑shoot beats dribbling into traffic.
+Tiny Football Cup condense le football en matchs rapides avec des dribbles vifs et des coups de pied arretes simples. L'attaque favorise les passes en profondeur et les tirs croises ; la defense recompense le placement et les pressings opportuns.
 
 ### Guide de jeu
 
+1.  **Jeu a deux touches :** Passe-tire bat le dribble dans le trafic.
+2.  **Tirs au second poteau :** Les frappes croisees sont plus tolerantes.
+3.  **Declencheurs de pressing :** Bondis apres les mauvais controles ; ne surcommets pas.
+4.  **Corners :** Alterne corners courts et tirs dans la surface.
+5.  **Gardien :** Bouge tard ; les attaquants telegraphient les angles de derniere seconde.
 
-A: Hold shape; switch defenders; avoid chasing.
+### Commandes
 
-- Q: Defense leaks.
+-   Deplacement/Passe/Tir selon l'interface ; certaines versions separent lob/sol.
 
-A: Pass earlier and shoot first time.
+### Foire aux questions (FAQ)
 
-- Q: I can’t get shots off.
+-   **Q : Je n'arrive pas a tirer.**
+    **R :** Passe plus tot et tire du premier touche.
 
-
-A: Hold shape; switch defenders; avoid chasing.
+-   **Q : La defense prend l'eau.**
+    **R :** Garde la formation ; change de defenseur ; evite de poursuivre.

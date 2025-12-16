@@ -1,72 +1,46 @@
 ---
 locale: fr
 urlstr: totemia-cursed-marbles
-title: 'Totemia: Cursed Marbles'
-description: "Totemia: Cursed Marbles est un Zuma‑like tribal\_: tire des billes colorées pour aligner des trios et empêcher la chaîne d’atteindre le totem."
-iframeSrc: 'https://totemia.h5games.usercontent.goog/v/xyz/'
-thumbnail: /new-images/totemia-cursed-marbles.jpg
+title: Totemia Cursed Marbles
+description: >-
+  Totemia Cursed Marbles est un puzzle de tir de billes classique : tire pour
+  créer des matchs de trois ou plus et détruis la chaîne avant qu'elle
+  n'atteigne la fin du chemin.
+iframeSrc: 'https://totemiacursed.h5games.usercontent.goog/v/2hs7lfvsisr48/'
+thumbnail: /new-images/totemia-cursed-marbles.png
 tags:
+  - shooting
   - puzzle
-  - marble
-score: 4.2/5  (2300 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
+  - action
+score: 4.5/5  (2750 votes)
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
-    - **A:** By creating long chain reactions and combos. The more marbles you can pop in quick succession, the higher your score multiplier will be. Also, finishing the level quickly often provides a time bonus.
-
-- **Q: How do I get the highest score?**
-
-    - **A:** You will lose the level and have to start again.
-
-- **Q: What happens if a marble reaches the end?**
-
-    - **A:** To destroy all the marbles in the moving chain before any single marble reaches the hole at the end of the path.
-
-- **Q: What is the goal of the game?**
-
-### Foire aux questions (FAQ)
-
-
-Totemia: Cursed Marbles is a thrilling action-puzzle game in the style of classic marble shooters like Zuma or Luxor. A chain of cursed, colored marbles is rolling along a path towards a secret chamber. You control a powerful tiki stone that shoots marbles. Your objective is to destroy the entire chain by shooting marbles to create matches of three or more of the same color before the first marble reaches the end of the line.
-- **Swap Marbles:** You can typically right-click or press the spacebar to swap between the two marbles in your shooter.
-
-- **Shoot:** Click the left mouse button to fire the marble.
-
-- **Aim:** Move your mouse to aim the tiki stone shooter.
-
-### Commandes
-
-- **Swap Marbles:** Your tiki shooter often holds two marbles. If the current color isn't useful, you can swap it with the next one to make a better strategic shot.
-
-- **Use Power-ups:** Look for special marbles that appear in the chain. Shooting these can grant you powerful abilities, like a Fireball that can destroy any marbles it hits, or a Lightning bolt that zaps a section of the chain.
-
-- **Shoot Through Gaps:** Don't be afraid to shoot through small gaps in the chain to reach marbles further back. A well-aimed shot can set up a much more valuable match.
-
-- **Aim for Combos:** The key to a high score and clearing levels efficiently is to create combos. When you pop a group of marbles, the chain will temporarily stop. If the two new ends of the chain are the same color, they will attract each other, pull back, and merge, often creating an automatic new match. This is a combo!
+Totemia: Cursed Marbles est un jeu action-puzzle palpitant dans le style des tireurs de billes classiques comme Zuma ou Luxor. Une chaîne de billes colorées maudites roule le long d'un chemin vers une chambre secrète. Tu contrôles une puissante pierre tiki qui tire des billes. Ton objectif est de détruire toute la chaîne en tirant des billes pour créer des matchs de trois ou plus de la même couleur avant que la première bille n'atteigne la fin de la ligne.
 
 ### Guide de jeu
 
+1.  **Vise les combos :** La clé d'un bon score et d'un nettoyage efficace des niveaux est de créer des combos. Quand tu fais exploser un groupe de billes, la chaîne s'arrête temporairement. Si les deux nouvelles extrémités de la chaîne sont de la même couleur, elles s'attireront, se rétractera et fusionneront, créant souvent un nouveau match automatique. C'est un combo !
+2.  **Tire à travers les espaces :** N'hésite pas à tirer à travers les petits espaces de la chaîne pour atteindre les billes plus loin. Un tir bien visé peut préparer un match beaucoup plus précieux.
+3.  **Utilise les bonus :** Cherche les billes spéciales qui apparaissent dans la chaîne. Les toucher peut t'accorder des capacités puissantes, comme une Boule de feu qui détruit les billes qu'elle touche, ou un Éclair qui zap une section de la chaîne.
+4.  **Échange de billes :** Ton tireur tiki contient souvent deux billes. Si la couleur actuelle n'est pas utile, tu peux l'échanger avec la suivante pour un meilleur tir stratégique.
 
-- **Swap Marbles:** You can typically right-click or press the spacebar to swap between the two marbles in your shooter.
+### Commandes
 
-- **Shoot:** Click the left mouse button to fire the marble.
+*   **Viser :** Déplace ta souris pour viser le tireur en pierre tiki.
+*   **Tirer :** Clique sur le bouton gauche de la souris pour tirer la bille.
+*   **Échanger les billes :** Tu peux généralement faire un clic droit ou appuyer sur la barre d'espace pour échanger entre les deux billes de ton tireur.
 
-- **Aim:** Move your mouse to aim the tiki stone shooter.
-Totemia: Cursed Marbles is a thrilling action-puzzle game in the style of classic marble shooters like Zuma or Luxor. A chain of cursed, colored marbles is rolling along a path towards a secret chamber. You control a powerful tiki stone that shoots marbles. Your objective is to destroy the entire chain by shooting marbles to create matches of three or more of the same color before the first marble reaches the end of the line.
+### Foire aux questions (FAQ)
 
-### Présentation du jeu
+*   **Q : Quel est l'objectif du jeu ?**
+    *   **R :** Détruire toutes les billes de la chaîne en mouvement avant qu'une seule bille n'atteigne le trou à la fin du chemin.
 
+*   **Q : Que se passe-t-il si une bille atteint la fin ?**
+    *   **R :** Tu perds le niveau et dois recommencer.
 
-- **A:** By creating long chain reactions and combos. The more marbles you can pop in quick succession, the higher your score multiplier will be. Also, finishing the level quickly often provides a time bonus.
-
-    - **Q: How do I get the highest score?**
-
-- **A:** You will lose the level and have to start again.
-
-    - **Q: What happens if a marble reaches the end?**
-
-- **A:** To destroy all the marbles in the moving chain before any single marble reaches the hole at the end of the path.
-
-    - **Q: What is the goal of the game?**
+*   **Q : Comment obtenir le meilleur score ?**
+    *   **R :** En créant de longues réactions en chaîne et des combos. Plus tu fais exploser de billes rapidement, plus ton multiplicateur de score sera élevé. Terminer le niveau rapidement donne souvent un bonus de temps.

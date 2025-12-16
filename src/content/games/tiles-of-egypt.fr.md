@@ -3,10 +3,9 @@ locale: fr
 urlstr: tiles-of-egypt
 title: Tiles of Egypt
 description: >-
-  Pars en Égypte ancienne dans Tiles of Egypt, un puzzle de triple‑tuiles où tu
-  dois faire disparaître le plateau sans remplir ton casier.
-iframeSrc: >-
-  https://tilesofegypt.h5games.usercontent.goog/v/dd964fa3-8999-4546-a4a0-d55a0cc72248/
+  Tiles of Egypt est un puzzle triple-tuiles theme Egypte antique : selectionne
+  trois tuiles identiques non bloquees pour les effacer du plateau.
+iframeSrc: 'https://tilesofegypt.h5games.usercontent.goog/v/dd964fa3-8999-4546-a4a0-d55a0cc72248/'
 thumbnail: /new-images/tiles-of-egypt.jpg
 tags:
   - puzzle
@@ -16,47 +15,31 @@ score: 4.4/5  (2350 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
-### Présentation
 
-Tiles of Egypt reprend le principe des jeux de triple‑tuiles : sélectionne des
+### Presentation du jeu
+
+Tiles of Egypt est un puzzle strategique de match de tuiles par trois avec un theme captivant d'Egypte ancienne. Le jeu te defie de vider un plateau empile de tuiles finement dessinees. Pour ce faire, tu dois selectionner trois tuiles identiques et les placer dans un plateau de collection en bas. Une fois trois tuiles correspondantes dans le plateau, elles disparaissent. L'objectif est de vider tout le plateau, mais tu dois planifier soigneusement car le plateau a un espace limite.
+
+### Guide de jeu
+
+1.  **La regle des trois :** Tout le jeu tourne autour du match de tuiles par sets de trois. Tu dois selectionner trois tuiles identiques pour les retirer.
+2.  **Espace de plateau limite :** Ton plateau de collection en bas ne peut contenir qu'un certain nombre de tuiles (generalement sept). Si tu le remplis sans faire de match, tu perds. C'est le defi central.
+3.  **Anticipe :** Ne clique pas sur le premier match disponible. Regarde les tuiles en dessous et priorise les matchs qui decouvriront le plus de nouvelles tuiles. Cela te donnera plus d'options.
+4.  **Utilise le plateau comme tampon :** Tu peux placer des tuiles qui ne forment pas immediatement un match. Utilise ca pour stocker temporairement une tuile pendant que tu cherches les deux autres dont tu as besoin. Mais attention a ne pas remplir le plateau avec trop de types differents.
 
 ### Commandes
 
-- **Use the Tray as a Buffer:** You can place tiles in the tray that don't immediately form a match. Use this to your advantage to temporarily store a tile while you dig for the other two you need. But be careful not to fill the tray with too many different types of tiles.
+Le jeu se joue avec de simples clics ou taps.
 
-- **Think Ahead:** Don't just click on the first available match. Look at the tiles underneath and try to prioritize matches that will uncover the most new tiles. This will give you more options and prevent you from getting stuck.
-
-- **Limited Tray Space:** Your collection tray at the bottom can only hold a certain number of tiles (usually seven). If you fill it up without making a match, you lose the game. This is the central challenge.
-
-- **The Rule of Three:** The entire game is about matching tiles in sets of three. You must select three identical tiles to remove them.
-
-### Guide de jeu
-symboles égyptiens et envoie‑les dans ton casier. Trois identiques s’effacent,
-
-- **A:** If all the slots in your tray are filled and you cannot make a match of three, you are blocked and will lose the game. You must then restart the level.
-
-- **Q: What happens if my collection tray is full?**
-
-    - **A:** You can only select tiles that are on the top-most layer and are not covered by any other tile. You must clear the tiles above to access the ones below.
-
-- **Q: Why can't I click on a tile?**
-
-    - **A:** To clear all the tiles from the board by collecting them in sets of three in your tray.
-
-- **Q: What is the goal of the game?**
+*   **Selectionner une tuile :** Clique sur n'importe quelle tuile non couverte du plateau pour la deplacer vers le plateau de collection en bas.
 
 ### Foire aux questions (FAQ)
 
-- **Select a Tile:** Click on any uncovered tile on the board to move it to the collection tray below.
+*   **Q : Quel est l'objectif du jeu ?**
+    *   **R :** Vider toutes les tuiles du plateau en les collectant par sets de trois dans ton plateau.
 
-    - **A:** If all the slots in your tray are filled and you cannot make a match of three, you are blocked and will lose the game. You must then restart the level.
+*   **Q : Pourquoi je ne peux pas cliquer sur une tuile ?**
+    *   **R :** Tu ne peux selectionner que les tuiles de la couche superieure qui ne sont couvertes par aucune autre tuile. Tu dois d'abord effacer celles du dessus.
 
-- **Q: What happens if my collection tray is full?**
-
-    - **A:** You can only select tiles that are on the top-most layer and are not covered by any other tile. You must clear the tiles above to access the ones below.
-
-- **Q: Why can't I click on a tile?**
-
-    - **A:** To clear all the tiles from the board by collecting them in sets of three in your tray.
-mais si tu remplis la jauge sans former de triple, c’est perdu.
-
+*   **Q : Que se passe-t-il si mon plateau de collection est plein ?**
+    *   **R :** Si tous les emplacements sont remplis et que tu ne peux pas faire de match de trois, tu es bloque et tu perds. Tu dois alors recommencer le niveau.

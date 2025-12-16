@@ -2,65 +2,47 @@
 locale: fr
 urlstr: tiny-fishing
 title: Tiny Fishing
-description: "Tiny Fishing est un jeu de pêche simple et addictif\_: lance ta ligne en profondeur, remonte un maximum de poissons et améliore ton matériel."
-iframeSrc: 'https://ubg77.github.io/game131022/tiny-fishing/'
+description: >-
+  Tiny Fishing est un jeu de pêche relaxant : lance ta ligne dans les
+  profondeurs, attrape différentes espèces de poissons et améliore ton
+  équipement pour découvrir des créatures rares.
+iframeSrc: 'https://webglmath.github.io/tiny-fishing/'
 thumbnail: /new-images/tiny-fishing.jpg
 tags:
-  - casual
   - fishing
-score: 4.3/5  (3200 votes)
+  - casual
+  - upgrade
+score: 4.7/5  (322 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
-### Principe
 
-Tu contrôles uniquement la descente et la remontée de la ligne : évite les
+### Présentation du jeu
 
-- **Q: How can I get more coins?**
+Tiny Fishing est un jeu de pêche casual relaxant où tu lances ta ligne dans les profondeurs, attrapes différentes espèces de poissons et améliores ton équipement pour atteindre des eaux plus profondes et découvrir des créatures rares. Le jeu est adoré des joueurs pour ses contrôles simples et son expérience de jeu relaxante.
+
+### Guide de jeu
+
+1.  **Améliore la ligne de pêche :** Priorise l'amélioration de la longueur de la ligne pour atteindre des eaux plus profondes et attraper des poissons rares.
+2.  **Augmente la valeur de l'hameçon :** Améliore les hameçons pour augmenter les gains par prise, aidant à accumuler des pièces plus vite.
+3.  **Gains hors ligne :** Le jeu offre des gains hors ligne, générant des pièces même quand tu ne joues pas.
+4.  **Poissons rares :** Les eaux profondes contiennent des poissons plus rares et précieux, rendant les améliorations d'équipement rentables.
+5.  **Sois patient :** La pêche demande de la patience ; attends que le poisson morde, puis remonte au bon moment.
+
+### Commandes
+
+*   **Lancer la ligne :** Clique pour lancer la ligne de pêche dans l'eau.
+*   **Attendre :** Attends patiemment que le poisson morde, en observant les mouvements de la ligne.
+*   **Remonter :** Quand un poisson est accroché, clique pour le remonter.
+*   **Améliorer :** Utilise les pièces gagnées pour améliorer l'équipement dans la boutique.
 
 ### Foire aux questions
 
-- **Upgrade**: Use earned coins to upgrade equipment in the shop.
-
-- **Reel In**: When fish are hooked, click to reel them in.
-
-- **Wait**: Patiently wait for fish to bite, observing the fishing line dynamics.
-
-- **Cast Line**: Click to start casting the fishing line into water.
-
-
-- **Be Patient**: Fishing requires patience; wait for fish to bite, then reel in at the right time.
-### How to Play
-
-- **Be Patient**: Fishing requires patience; wait for fish to bite, then reel in at the right time.
-
-- **Rare Fish**: Deep water areas contain more rare and valuable fish, making equipment upgrades worthwhile.
-
-- **Offline Earnings**: The game provides offline earning features, generating some coin income even when not playing.
-
-- **Increase Hook Value**: Upgrade hooks to increase earnings per catch, helping accumulate coins faster.
-
-- **Upgrade Fishing Line**: Prioritize upgrading line length to reach deeper waters and catch rare fish.
-
-### Guide de jeu
-zones vides, vise les poissons les plus rares, puis investis dans la longueur
-
-- **Q: Why don't I catch fish sometimes?**
-de ligne et le nombre de prises.
-
-
-
-**A**: This is an endless casual game where you can continuously upgrade equipment to explore deeper waters.
-
-- **Q: Does the game have an ending?**
-
-**A**: Based on your current equipment level and fishing efficiency; longer offline time means more earnings (with limits).
-
-- **Q: How are offline earnings calculated?**
-
-
-**A**: This is an endless casual game where you can continuously upgrade equipment to explore deeper waters.
-
-- **Q: Does the game have an ending?**
-
-**A**: Based on your current equipment level and fishing efficiency; longer offline time means more earnings (with limits).
+1.  **Q : Comment obtenir plus de pièces ?**
+    **R :** Attrape plus de poissons, surtout les rares, et améliore la valeur de l'hameçon pour augmenter les gains.
+2.  **Q : Pourquoi je n'attrape pas de poisson parfois ?**
+    **R :** C'est normal ; la pêche demande patience et chance, chaque lancer ne donne pas de résultat.
+3.  **Q : Comment les gains hors ligne sont-ils calculés ?**
+    **R :** Selon ton niveau d'équipement actuel et ton efficacité de pêche ; plus de temps hors ligne = plus de gains (avec des limites).
+4.  **Q : Le jeu a-t-il une fin ?**
+    **R :** C'est un jeu casual sans fin où tu peux continuellement améliorer l'équipement pour explorer des eaux plus profondes.

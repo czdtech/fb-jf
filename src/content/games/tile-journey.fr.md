@@ -2,7 +2,9 @@
 locale: fr
 urlstr: tile-journey
 title: Tile Journey
-description: "Pars pour une Tile Journey relaxante\_: sélectionne des groupes de trois tuiles identiques tout en surveillant la place dans ton plateau."
+description: >-
+  Tile Journey est un puzzle relaxant : sélectionne trois tuiles identiques pour
+  les effacer, mais planifie tes coups pour ne pas remplir ton plateau !
 iframeSrc: 'https://0i1jh8boqif48.h5games.usercontent.goog/v/1643ot8on0v9g/'
 thumbnail: /new-images/tile-journey.png
 tags:
@@ -13,56 +15,34 @@ score: 4.5/5  (2650 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
-### Rappel de gameplay
 
-Fonctionnement proche de Tile Guru : choisis des tuiles accessibles, envoie‑les
+### Présentation du jeu
+
+Tile Journey est un jeu de puzzle moderne et relaxant qui met à l'épreuve ta réflexion stratégique. L'objectif est de vider un plateau empilé de tuiles variées en sélectionnant trois tuiles identiques. Contrairement aux jeux match-3 traditionnels, tu ne permutes pas les tuiles. Tu les sélectionnes et les déplaces vers un plateau de collection à capacité limitée en bas de l'écran. Quand trois tuiles identiques sont dans le plateau, elles sont effacées. Tu dois planifier tes coups pour vider le plateau sans remplir le plateau de collection.
+
+### Guide de jeu
+
+1.  **La règle d'or :** Le plateau de collection est limité (généralement à sept emplacements). Si tu le remplis complètement sans faire de match, tu perds. Chaque coup doit être fait avec ça en tête.
+2.  **Planifie à l'avance :** Ne clique pas sur les trois premières tuiles correspondantes que tu vois. Regarde les tuiles en dessous. Priorise les tuiles qui découvriront le plus de nouvelles tuiles, te donnant plus d'options pour la suite.
+3.  **Utilise le plateau comme zone de stockage :** Tu n'as pas à compléter un set de trois immédiatement. Tu peux utiliser le plateau pour stocker temporairement des tuiles pendant que tu cherches la troisième.
+4.  **Réfléchis avant d'agir :** Avant de placer une tuile dans le plateau, assure-toi d'avoir un plan. Si tu mets une tuile que tu ne peux pas matcher bientôt, elle prendra de l'espace précieux.
 
 ### Commandes
 
-- **Look Before You Leap:** Before placing a tile in the tray, make sure you have a plan for it. If you put a tile in the tray that you can't match soon, it will just take up valuable space.
+Le jeu se joue avec de simples clics ou taps.
 
-- **Use the Tray as a Holding Area:** You don't have to complete a set of three immediately. You can use the tray to temporarily hold tiles while you work to uncover the third one you need. For example, if you have two identical tiles in the tray, you can pick up other tiles while you search for the third matching one.
-
-- **Plan Ahead:** Don't just click on the first three matching tiles you see. Look at the tiles underneath. Prioritize clicking tiles that will uncover the most new tiles, giving you more options for future moves.
-
-- **The Golden Rule:** The collection tray is limited (usually to seven slots). If you fill it completely without making a match, you lose. Every move must be made with this in mind.
-
-### Guide de jeu
-dans ton casier et vise les triples sans saturer ta capacité.
-
-
-
-- **A:** Many versions of this game include helpful power-ups like an "Undo" button to reverse your last move, a "Hint" to show a possible match, or a "Shuffle" to rearrange the tiles on the board.
-
-- **Q: Are there power-ups?**
-
-    - **A:** If all the slots in your tray are filled and you cannot form a set of three with the tiles you have, the game is over and you must restart the level.
-
-- **Q: What happens if my collection tray gets full?**
-
-    - **A:** You can only select tiles that are on the top layer and are not covered by any other tile. You must clear the tiles on top to access the ones underneath.
-
-- **Q: Why can't I select a certain tile?**
-
-    - **A:** To clear all tiles from the board by collecting them in sets of three in your collection tray.
-
-- **Q: What is the objective of the game?**
+*   **Sélectionner une tuile :** Clique sur n'importe quelle tuile non couverte sur le plateau principal pour la déplacer vers le plateau de collection en bas.
 
 ### Foire aux questions (FAQ)
 
-- **Select a Tile:** Click on any uncovered tile on the main board to move it to the collection tray at the bottom.
+*   **Q : Quel est l'objectif du jeu ?**
+    *   **R :** Vider toutes les tuiles du plateau en les collectant par sets de trois dans ton plateau de collection.
 
+*   **Q : Pourquoi je ne peux pas sélectionner une certaine tuile ?**
+    *   **R :** Tu ne peux sélectionner que les tuiles de la couche supérieure qui ne sont couvertes par aucune autre tuile. Tu dois d'abord effacer les tuiles au-dessus.
 
-    - **A:** Many versions of this game include helpful power-ups like an "Undo" button to reverse your last move, a "Hint" to show a possible match, or a "Shuffle" to rearrange the tiles on the board.
+*   **Q : Que se passe-t-il si mon plateau de collection est plein ?**
+    *   **R :** Si tous les emplacements sont remplis et que tu ne peux pas former un set de trois, la partie est terminée et tu dois recommencer le niveau.
 
-- **Q: Are there power-ups?**
-
-    - **A:** If all the slots in your tray are filled and you cannot form a set of three with the tiles you have, the game is over and you must restart the level.
-
-- **Q: What happens if my collection tray gets full?**
-
-    - **A:** You can only select tiles that are on the top layer and are not covered by any other tile. You must clear the tiles on top to access the ones underneath.
-
-- **Q: Why can't I select a certain tile?**
-
-    - **A:** To clear all tiles from the board by collecting them in sets of three in your collection tray.
+*   **Q : Y a-t-il des bonus ?**
+    *   **R :** Beaucoup de versions incluent des bonus utiles comme un « Annuler » pour revenir en arrière, un « Indice » pour montrer un match possible, ou un « Mélanger » pour réarranger les tuiles.

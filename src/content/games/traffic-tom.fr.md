@@ -2,9 +2,10 @@
 locale: fr
 urlstr: traffic-tom
 title: Traffic Tom
-description: "Rejoins Tom dans Traffic Tom, un jeu de moto nerveux\_: faufile‑toi dans la circulation, accomplis des missions et améliore ta bécane."
-iframeSrc: >-
-  https://traffictom.h5games.usercontent.goog/v/7c1a9fb2-2097-4c14-b7b1-052d80d41adb/
+description: >-
+  Traffic Tom est une aventure moto palpitante : zigzague dans le trafic dense,
+  esquive les voitures, complete des missions et ameliore ta moto.
+iframeSrc: 'https://traffictom.h5games.usercontent.goog/v/7c1a9fb2-2097-4c14-b7b1-052d80d41adb/'
 thumbnail: /new-images/traffic-tom.jpg
 tags:
   - driving
@@ -15,56 +16,29 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Presentation du jeu
 
-    - **A:** Besides upgrading your bike's top speed, some levels may feature boost pads on the road that give you a temporary burst of speed when you drive over them.
-
-- **Q: Is there a way to go faster?**
-
-    - **A:** You can purchase new bikes from the in-game garage using the coins you collect during your runs and for completing missions.
-
-- **Q: How do I get a new motorcycle?**
-
-    - **A:** Your run will end, and you will have to restart the level from the beginning.
-
-- **Q: What happens if I crash into another vehicle?**
-
-### Foire aux questions (FAQ)
-
-
-Traffic Tom is a fast-paced, third-person motorbike racing game that puts you in the middle of a bustling highway. As the adventurous cat, Tom, your goal is to skillfully weave through dense traffic, dodge cars and buses, and complete challenging missions to earn coins. Use your earnings to upgrade your current bike or save up to buy new, more powerful motorcycles on your quest to become the king of the road.
-- **Steer Right:** Press the **D** key or the **Right Arrow** key.
-
-- **Steer Left:** Press the **A** key or the **Left Arrow** key.
-
-### Commandes
-
-- **Upgrade Your Ride:** Don't hesitate to spend your coins in the garage. Upgrading your bike's speed, handling, and braking will make it much easier to navigate the increasingly heavy traffic in later levels.
-
-- **Close Calls for More Points:** Many driving games reward you for near misses. Safely overtaking a car very closely might give you bonus points or charge up a nitro boost.
-
-- **Focus on Missions:** While surviving is important, completing the missions for each level is how you progress. Pay attention to whether your goal is to overtake a certain number of cars, travel a specific distance, or collect items.
-
-- **Look Ahead:** The key to survival is anticipation. Don't just look at the car directly in front of you; scan far down the road to see traffic patterns forming. This will give you plenty of time to switch lanes safely.
+Traffic Tom est un jeu de course moto rapide a la troisieme personne qui te place au milieu d'une autoroute animee. En tant que chat aventurier Tom, ton objectif est de zigzaguer habilement a travers le trafic dense, esquiver les voitures et bus, et completer des missions stimulantes pour gagner des pieces. Utilise tes gains pour ameliorer ta moto actuelle ou economise pour acheter de nouvelles motos plus puissantes dans ta quete pour devenir le roi de la route.
 
 ### Guide de jeu
 
+1.  **Regarde loin devant :** La cle de la survie est l'anticipation. Ne regarde pas seulement la voiture juste devant toi ; scrute loin sur la route pour voir les schemas de trafic se former. Cela te donnera plein de temps pour changer de voie en securite.
+2.  **Concentre-toi sur les missions :** Bien que survivre soit important, completer les missions de chaque niveau est la facon de progresser. Fais attention si ton objectif est de depasser un certain nombre de voitures, parcourir une distance specifique, ou collecter des objets.
+3.  **Depassements risques pour plus de points :** Beaucoup de jeux de conduite te recompensent pour les quasi-accidents. Depasser une voiture de tres pres en securite peut te donner des points bonus ou charger un boost nitro.
+4.  **Ameliore ta monture :** N'hesite pas a depenser tes pieces au garage. Ameliorer la vitesse, la maniabilite et le freinage de ta moto facilitera grandement la navigation dans le trafic de plus en plus dense des niveaux ulterieurs.
 
-- **Steer Right:** Press the **D** key or the **Right Arrow** key.
+### Commandes
 
-- **Steer Left:** Press the **A** key or the **Left Arrow** key.
-Traffic Tom is a fast-paced, third-person motorbike racing game that puts you in the middle of a bustling highway. As the adventurous cat, Tom, your goal is to skillfully weave through dense traffic, dodge cars and buses, and complete challenging missions to earn coins. Use your earnings to upgrade your current bike or save up to buy new, more powerful motorcycles on your quest to become the king of the road.
+*   **Tourner a gauche :** Appuie sur la touche **A** ou la **Fleche Gauche**.
+*   **Tourner a droite :** Appuie sur la touche **D** ou la **Fleche Droite**.
 
-### Présentation du jeu
+### Foire aux questions (FAQ)
 
+*   **Q : Que se passe-t-il si je percute un autre vehicule ?**
+    *   **R :** Ta course se termine et tu dois recommencer le niveau depuis le debut.
 
-- **A:** Besides upgrading your bike's top speed, some levels may feature boost pads on the road that give you a temporary burst of speed when you drive over them.
+*   **Q : Comment obtenir une nouvelle moto ?**
+    *   **R :** Tu peux acheter de nouvelles motos dans le garage du jeu en utilisant les pieces collectees pendant tes courses et pour avoir complete des missions.
 
-    - **Q: Is there a way to go faster?**
-
-- **A:** You can purchase new bikes from the in-game garage using the coins you collect during your runs and for completing missions.
-
-    - **Q: How do I get a new motorcycle?**
-
-- **A:** Your run will end, and you will have to restart the level from the beginning.
-
-    - **Q: What happens if I crash into another vehicle?**
+*   **Q : Y a-t-il un moyen d'aller plus vite ?**
+    *   **R :** En plus d'ameliorer la vitesse maximale de ta moto, certains niveaux peuvent avoir des zones de boost sur la route qui te donnent une acceleration temporaire quand tu roules dessus.

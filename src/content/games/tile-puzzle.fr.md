@@ -2,7 +2,10 @@
 locale: fr
 urlstr: tile-puzzle
 title: Tile Puzzle
-description: "Tile Puzzle est un jeu de tuiles moderne\_: vide le plateau en formant des triples, mais fais attention à ne pas remplir ton casier."
+description: >-
+  Tile Puzzle est un jeu de puzzle stratégique relaxant : trouve et sélectionne
+  trois tuiles identiques pour les effacer. Planifie tes coups pour ne pas
+  remplir ton plateau.
 iframeSrc: 'https://5u9qhnk84v07g.h5games.usercontent.goog/v/2h3elehja73a8/'
 thumbnail: /new-images/tile-puzzle.jpg
 tags:
@@ -13,47 +16,31 @@ score: 4.4/5  (2300 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
-### Présentation
 
-Identique dans l’idée à Tile Journey : clique sur des tuiles non couvertes
+### Présentation du jeu
+
+Tile Puzzle est un jeu de tuiles moderne et captivant qui défie ta planification et ta stratégie. L'objectif est de vider un plateau empilé de tuiles variées. Tu fais ça en sélectionnant une tuile et en l'envoyant vers un plateau de collection en bas. Quand tu as trois tuiles identiques dans le plateau, elles matchent et disparaissent, libérant de l'espace. Tu dois vider tout le plateau pour gagner, mais attention—si tu remplis le plateau complètement, tu perds !
+
+### Guide de jeu
+
+1.  **Réfléchis avant de taper :** Le plateau de collection a une capacité très limitée (généralement sept emplacements). Avant de taper sur une tuile, aie un plan. Ne tape pas au hasard en espérant le meilleur.
+2.  **Découvre de nouvelles tuiles :** Ton objectif principal devrait être de faire des matchs qui découvrent le maximum de nouvelles tuiles. Parfois il vaut mieux attendre un match facile s'il ne révèle rien d'utile en dessous.
+3.  **Utilise le plateau comme stockage temporaire :** Tu peux placer des tuiles qui ne forment pas encore de match. Utilise ça à ton avantage. Si tu as besoin d'une tuile spécifique qui est bloquée, tu peux déplacer d'autres tuiles dans le plateau pour les garder pendant que tu libères celle dont tu as besoin.
+4.  **Identifie les tuiles piégées :** Cherche les situations où un type de tuile est empilé directement sur un autre du même type. Tu devras effacer celle du dessus d'abord, ce qui signifie trouver ses deux partenaires pendant que celle du dessous reste bloquée.
 
 ### Commandes
 
-- **Identify Trapped Tiles:** Look for situations where one tile type is stacked directly on top of another of the same type. You will need to clear the top one first, which means you'll need to find its two other partners while the one below remains blocked.
+Le jeu se joue avec de simples clics ou taps.
 
-- **Use the Tray as a Temporary Hold:** You can place tiles in the tray that don't yet form a match. Use this to your advantage. If you need a specific tile that is currently blocked, you can move other tiles into the tray to hold them while you work on freeing up the one you need.
-
-- **Uncover New Tiles:** Your primary goal should be to make matches that uncover the most new tiles. Sometimes it's better to hold off on an easy match if it doesn't reveal any new, useful tiles underneath.
-
-- **Think Before You Tap:** The collection tray has a very limited capacity (usually seven slots). Before you tap a tile, have a plan for it. Don't just tap random tiles hoping for the best.
-
-### Guide de jeu
-pour les ajouter à ton casier, forme des groupes de trois pour les effacer,
-
-- **A:** If all seven slots in your collection tray are filled and you haven't made a match of three, you cannot make any more moves, and the game is over.
-
-- **Q: What happens if the tray fills up?**
-
-    - **A:** A tile only becomes available to select when there are no other tiles overlapping it from a higher layer. You must clear the tiles on top first.
-
-- **Q: Why are some tiles gray and unclickable?**
-
-    - **A:** To clear 100% of the tiles from the board by collecting them in sets of three in your tray.
-
-- **Q: What is the main objective?**
+*   **Sélectionner une tuile :** Clique sur n'importe quelle tuile qui n'est pas grisée (c'est-à-dire pas couverte par une autre) pour la déplacer vers le plateau de collection en bas.
 
 ### Foire aux questions (FAQ)
 
-- **Select a Tile:** Click on any tile that is not grayed out (i.e., not covered by another tile) to move it to the collection tray at the bottom of the screen.
+*   **Q : Quel est l'objectif principal ?**
+    *   **R :** Vider 100% des tuiles du plateau en les collectant par sets de trois dans ton plateau.
 
-    - **A:** If all seven slots in your collection tray are filled and you haven't made a match of three, you cannot make any more moves, and the game is over.
+*   **Q : Pourquoi certaines tuiles sont grises et non cliquables ?**
+    *   **R :** Une tuile ne devient disponible que quand aucune autre tuile ne la chevauche d'une couche supérieure. Tu dois d'abord effacer celles du dessus.
 
-- **Q: What happens if the tray fills up?**
-
-    - **A:** A tile only becomes available to select when there are no other tiles overlapping it from a higher layer. You must clear the tiles on top first.
-
-- **Q: Why are some tiles gray and unclickable?**
-
-    - **A:** To clear 100% of the tiles from the board by collecting them in sets of three in your tray.
-et nettoie complètement le plateau pour gagner.
-
+*   **Q : Que se passe-t-il si le plateau est plein ?**
+    *   **R :** Si les sept emplacements sont remplis et que tu n'as pas fait de match de trois, tu ne peux plus jouer et la partie est terminée.

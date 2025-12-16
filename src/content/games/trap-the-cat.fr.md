@@ -2,84 +2,45 @@
 locale: fr
 urlstr: trap-the-cat
 title: Trap the Cat
-description: "Trap the Cat est un petit puzzle de stratégie\_: place des cases sombres pour empêcher le chat de s’échapper du plateau hexagonal."
-iframeSrc: 'https://0tr41p7h3c4t.h5games.usercontent.goog/v/abc/'
+description: >-
+  Trap the Cat est un puzzle stratégique : bloque les voies d'évasion du chat
+  en plaçant des barrières sur une grille hexagonale.
+iframeSrc: 'https://freeonlinegames.github.io/cat-trap.html'
 thumbnail: /new-images/trap-the-cat.jpg
 tags:
-  - puzzle
   - strategy
-score: 4.2/5  (2000 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
+  - puzzle
+  - logic
+score: 4.0/5  (972 votes)
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
-**A**: Practice observing the cat's behavior patterns and learn to predict the most effective blocking positions.
-
-- **Q: How can I improve success rate?**
-
-**A**: Yes, you need to successfully trap the cat within a limited number of moves, adding strategic difficulty.
-
-- **Q: Is there a limit to the number of obstacles?**
-
-**A**: Usually no time limit; you can carefully consider each placement.
-
-- **Q: Is there a time limit?**
-
-**A**: The cat intelligently chooses the shortest path to the edge, moving one step per turn.
-
-- **Q: How does the cat move?**
-
-### Foire aux questions
-
-
-"Trap the Cat" is a strategic puzzle game where players must block a clever cat's escape routes by placing barriers on a hexagonal grid, using logic and planning to prevent the cat from reaching the edge. This game tests players' prediction abilities and strategic thinking.
-- **Restart**: If you fail, you can restart the challenge.
-
-- **Observe Cat**: Watch the cat's current position and possible movement directions.
-
-- **Place Barriers**: Click on hexagonal cells to place obstacles.
-
-### How to Play
-
-- **Encirclement Strategy**: Form a complete encirclement without leaving any escape gaps.
-
-- **Predict Movement**: The cat will choose optimal paths; predict its next movement direction.
-
-- **Edge Defense**: Pay attention to protecting the grid edges to prevent the cat from finding breakthrough points.
-
-- **Path Analysis**: Observe the cat's possible escape routes and prioritize blocking the shortest paths.
-
-- **Center Control**: Try to place barriers around the cat first, gradually shrinking its movement area.
+Trap the Cat est un jeu de puzzle stratégique où tu dois bloquer les voies d'évasion d'un chat rusé en plaçant des barrières sur une grille hexagonale, utilisant logique et planification pour empêcher le chat d'atteindre le bord. Ce jeu teste tes capacités de prédiction et ta réflexion stratégique.
 
 ### Guide de jeu
 
+1.  **Contrôle du centre :** Essaie de placer les barrières autour du chat d'abord, réduisant progressivement sa zone de mouvement.
+2.  **Analyse des chemins :** Observe les voies d'évasion possibles du chat et priorise le blocage des chemins les plus courts.
+3.  **Défense des bords :** Fais attention à protéger les bords de la grille pour empêcher le chat de trouver des points de percée.
+4.  **Anticipe les mouvements :** Le chat choisira les chemins optimaux ; prédit sa prochaine direction de mouvement.
+5.  **Stratégie d'encerclement :** Forme un encerclement complet sans laisser de brèches.
 
-- **Restart**: If you fail, you can restart the challenge.
+### Commandes
 
-- **Observe Cat**: Watch the cat's current position and possible movement directions.
+*   **Placer des barrières :** Clique sur les cellules hexagonales pour placer des obstacles.
+*   **Observer le chat :** Regarde la position actuelle du chat et ses directions de mouvement possibles.
+*   **Recommencer :** Si tu échoues, tu peux recommencer le défi.
 
-- **Place Barriers**: Click on hexagonal cells to place obstacles.
-"Trap the Cat" is a strategic puzzle game where players must block a clever cat's escape routes by placing barriers on a hexagonal grid, using logic and planning to prevent the cat from reaching the edge. This game tests players' prediction abilities and strategic thinking.
+### Foire aux questions
 
-### Présentation du jeu
-
-
-**A**: Practice observing the cat's behavior patterns and learn to predict the most effective blocking positions.
-
-- **Q: How can I improve success rate?**
-
-**A**: Yes, you need to successfully trap the cat within a limited number of moves, adding strategic difficulty.
-
-- **Q: Is there a limit to the number of obstacles?**
-
-**A**: Usually no time limit; you can carefully consider each placement.
-
-- **Q: Is there a time limit?**
-
-**A**: The cat intelligently chooses the shortest path to the edge, moving one step per turn.
-
-- **Q: How does the cat move?**
-
-
-**A**: Practice observing the cat's behavior patterns and learn to predict the most effective blocking positions.
+1.  **Q : Comment le chat se déplace-t-il ?**
+    **R :** Le chat choisit intelligemment le chemin le plus court vers le bord, se déplaçant d'une case par tour.
+2.  **Q : Y a-t-il une limite de temps ?**
+    **R :** Généralement non ; tu peux réfléchir soigneusement à chaque placement.
+3.  **Q : Le nombre d'obstacles est-il limité ?**
+    **R :** Oui, tu dois réussir à piéger le chat en un nombre limité de coups, ajoutant de la difficulté stratégique.
+4.  **Q : Comment améliorer mon taux de réussite ?**
+    **R :** Pratique l'observation des comportements du chat et apprends à prédire les positions de blocage les plus efficaces.
