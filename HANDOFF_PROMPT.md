@@ -56,16 +56,16 @@
 
 - **ES**：679/679（100%）✅
 - **JA**：679/679（100%）✅
-- **FR**：130/679（19.15%）🚧（已审校 slug：`2-tricky-stories` → `fiddlebops-sprunkbop`）
+- **FR**：140/679（20.62%）🚧（已审校 slug：`2-tricky-stories` → `five-nights-at-freddy-4`）
 - **DE**：0/679（0%）
 - **KO**：679/679（100%）✅（修复残留英文：`sprunki-retake`、`zumba-ocean`）
 - **ZH**：679/679（100%）✅（修复英文标题：`cookie-clicker`、`slope`、`incredibox`、`friday-night-funkin`、`geometry-dash`）
 
 按"需要审校的总页面数"（6*679=4074）计：已完成 2846/4074（≈69.86%）。
 
-### 法语 FR：下一批（B14，10 篇，字典序）
+### 法语 FR：下一批（B15，10 篇，字典序）
 
-`fiddlebops-sprunki`, `fiddlebops-sprunksters-remix`, `find-500-differences`, `find-the-difference`, `finger-slayer`, `fireboy-and-watergirl-4`, `five-nights-at-freddy-1`, `five-nights-at-freddy-2`, `five-nights-at-freddy-3`, `five-nights-at-freddy-4`
+`five-nights-at-freddy-sl`, `flames-fortune`, `flappy-bird`, `fleeing-the-complex`, `fluffy-mania`, `fly-or-die`, `foosball-cup-world`, `football-kickoff`, `football-legends`, `football-penalty`
 
 对应文件路径：`src/content/games/<slug>.fr.md`
 

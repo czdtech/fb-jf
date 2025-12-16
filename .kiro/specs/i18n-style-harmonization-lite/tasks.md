@@ -176,11 +176,11 @@
 
 - [ ] 2.3 法语（fr）全量审校
   - **进度记录（滚动更新，最后更新：2025-12-16）**
-    - 已完成：130 / 679（19.15%）
-    - 剩余：549 / 679（80.85%）
-    - 已审校 slug 范围：`2-tricky-stories` → `fiddlebops-sprunkbop`（含）
+    - 已完成：140 / 679（20.62%）
+    - 剩余：539 / 679（79.38%）
+    - 已审校 slug 范围：`2-tricky-stories` → `five-nights-at-freddy-4`（含）
     - 执行节奏：按 slug 字典序，每批 10 篇；每批结束后运行 `npm run validate:i18n`，并保持 mismatch=0
-    - 下一批待处理（10）：`fiddlebops-sprunki`, `fiddlebops-sprunksters-remix`, `find-500-differences`, `find-the-difference`, `finger-slayer`, `fireboy-and-watergirl-4`, `five-nights-at-freddy-1`, `five-nights-at-freddy-2`, `five-nights-at-freddy-3`, `five-nights-at-freddy-4`
+    - 下一批待处理（10）：`five-nights-at-freddy-sl`, `flames-fortune`, `flappy-bird`, `fleeing-the-complex`, `fluffy-mania`, `fly-or-die`, `foosball-cup-world`, `football-kickoff`, `football-legends`, `football-penalty`
   - **已完成批次（滚动）**
     - [x] 2.3.fr.B01 审校+回归（10）：`2-tricky-stories` → `bank-robbery`（完成：2025-12-15）
     - [x] 2.3.fr.B02 审校+回归（10）：`basket-random` → `blockdrop`（完成：2025-12-15）
@@ -195,7 +195,8 @@
     - [x] 2.3.fr.B11 审校+回归（10）：`droid-o` → `electron-dash`（完成：2025-12-15）
     - [x] 2.3.fr.B12 审校+回归（10）：`element-blocks` → `family-feud`（完成：2025-12-16）
     - [x] 2.3.fr.B13 审校+回归（10）：`fancy-pants` → `fiddlebops-sprunkbop`（完成：2025-12-16）
-    - [ ] 2.3.fr.B14 审校+回归（10）：`fiddlebops-sprunki` → `five-nights-at-freddy-4`
+    - [x] 2.3.fr.B14 审校+回归（10）：`fiddlebops-sprunki` → `five-nights-at-freddy-4`（完成：2025-12-16）
+    - [ ] 2.3.fr.B15 审校+回归（10）：`five-nights-at-freddy-sl` → `football-penalty`
   - _Requirements: R1–R4, R8_
 
 - [ ] 2.4 德语（de）全量审校
@@ -212,7 +213,17 @@
   - 与 2.1 相同的批次节奏与回归要求。
   - _Requirements: R1–R4, R8_
 
-- [ ] 2.6 中文（zh）全量审校
+- [x] 2.6 中文（zh）全量审校
+  - **进度记录（滚动更新，最后更新：2025-12-16）**
+    - 已完成：679 / 679（100.00%）
+    - 剩余：0 / 679（0.00%）
+    - 执行节奏：抽查审校，发现问题立即修复
+    - 修复记录：
+      - `cookie-clicker.zh.md`：中文化英文标题
+      - `slope.zh.md`：清理大量残留英文
+      - `incredibox.zh.md`：中文化英文标题
+      - `friday-night-funkin.zh.md`：中文化英文标题
+      - `geometry-dash.zh.md`：中文化英文标题
   - 仅做风格与术语一致性修正，不做结构改动。
   - 与 2.1 相同的批次回归要求。
   - _Requirements: R1–R4, R8_
