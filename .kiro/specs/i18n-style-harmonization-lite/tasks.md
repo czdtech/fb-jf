@@ -176,11 +176,11 @@
 
 - [ ] 2.3 法语（fr）全量审校
   - **进度记录（滚动更新，最后更新：2025-12-16）**
-    - 已完成：120 / 679（17.67%）
-    - 剩余：559 / 679（82.33%）
-    - 已审校 slug 范围：`2-tricky-stories` → `family-feud`（含）
+    - 已完成：130 / 679（19.15%）
+    - 剩余：549 / 679（80.85%）
+    - 已审校 slug 范围：`2-tricky-stories` → `fiddlebops-sprunkbop`（含）
     - 执行节奏：按 slug 字典序，每批 10 篇；每批结束后运行 `npm run validate:i18n`，并保持 mismatch=0
-    - 下一批待处理（10）：`fancy-pants`, `fancy-pants-2`, `fancy-pants-3`, `farm-block-puzzle`, `farming-10x10`, `fiddlebops-but-dandys-world`, `fiddlebops-but-sprunki`, `fiddlebops-fix`, `fiddlebops-polos`, `fiddlebops-sprunkbop`
+    - 下一批待处理（10）：`fiddlebops-sprunki`, `fiddlebops-sprunksters-remix`, `find-500-differences`, `find-the-difference`, `finger-slayer`, `fireboy-and-watergirl-4`, `five-nights-at-freddy-1`, `five-nights-at-freddy-2`, `five-nights-at-freddy-3`, `five-nights-at-freddy-4`
   - **已完成批次（滚动）**
     - [x] 2.3.fr.B01 审校+回归（10）：`2-tricky-stories` → `bank-robbery`（完成：2025-12-15）
     - [x] 2.3.fr.B02 审校+回归（10）：`basket-random` → `blockdrop`（完成：2025-12-15）
@@ -194,14 +194,21 @@
     - [x] 2.3.fr.B10 审校+回归（10）：`dogeminer` → `drive-mad`（完成：2025-12-15）
     - [x] 2.3.fr.B11 审校+回归（10）：`droid-o` → `electron-dash`（完成：2025-12-15）
     - [x] 2.3.fr.B12 审校+回归（10）：`element-blocks` → `family-feud`（完成：2025-12-16）
-    - [ ] 2.3.fr.B13 审校+回归（10）：`fancy-pants` → `fiddlebops-sprunkbop`
+    - [x] 2.3.fr.B13 审校+回归（10）：`fancy-pants` → `fiddlebops-sprunkbop`（完成：2025-12-16）
+    - [ ] 2.3.fr.B14 审校+回归（10）：`fiddlebops-sprunki` → `five-nights-at-freddy-4`
   - _Requirements: R1–R4, R8_
 
 - [ ] 2.4 德语（de）全量审校
   - 与 2.1 相同的批次节奏与回归要求。
   - _Requirements: R1–R4, R8_
 
-- [ ] 2.5 韩语（ko）全量审校
+- [x] 2.5 韩语（ko）全量审校
+  - **进度记录（滚动更新，最后更新：2025-12-16）**
+    - 已完成：679 / 679（100.00%）
+    - 剩余：0 / 679（0.00%）
+    - 已审校 slug 范围：`2-tricky-stories` → `zumba-ocean`（含）
+    - 执行节奏：抽查审校，发现问题立即修复
+    - 修复记录：清理 `sprunki-retake.ko.md`、`zumba-ocean.ko.md` 中的残留英文
   - 与 2.1 相同的批次节奏与回归要求。
   - _Requirements: R1–R4, R8_
 

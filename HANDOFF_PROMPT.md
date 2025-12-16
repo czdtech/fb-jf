@@ -56,16 +56,16 @@
 
 - **ES**：679/679（100%）✅
 - **JA**：679/679（100%）✅
-- **FR**：120/679（17.67%）🚧（已审校 slug：`2-tricky-stories` → `family-feud`）
+- **FR**：130/679（19.15%）🚧（已审校 slug：`2-tricky-stories` → `fiddlebops-sprunkbop`）
 - **DE**：0/679（0%）
 - **KO**：679/679（100%）✅（修复残留英文：`sprunki-retake`、`zumba-ocean`）
 - **ZH**：0/679（0%）
 
-按"需要审校的总页面数"（6*679=4074）计：已完成 2157/4074（≈52.95%）。
+按"需要审校的总页面数"（6*679=4074）计：已完成 2167/4074（≈53.19%）。
 
-### 法语 FR：下一批（B13，10 篇，字典序）
+### 法语 FR：下一批（B14，10 篇，字典序）
 
-`fancy-pants`, `fancy-pants-2`, `fancy-pants-3`, `farm-block-puzzle`, `farming-10x10`, `fiddlebops-but-dandys-world`, `fiddlebops-but-sprunki`, `fiddlebops-fix`, `fiddlebops-polos`, `fiddlebops-sprunkbop`
+`fiddlebops-sprunki`, `fiddlebops-sprunksters-remix`, `find-500-differences`, `find-the-difference`, `finger-slayer`, `fireboy-and-watergirl-4`, `five-nights-at-freddy-1`, `five-nights-at-freddy-2`, `five-nights-at-freddy-3`, `five-nights-at-freddy-4`
 
 对应文件路径：`src/content/games/<slug>.fr.md`
 
