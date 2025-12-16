@@ -1,6 +1,6 @@
 ---
 title: "Solitaire Classic"
-description: "時代を超えた一人用カードゲーム、Klondikeとしても知られる。エースからキングまで、すべてのカードをファウンデーションパイルに移動して勝利しよう。"
+description: "Solitaire ClassicはKlondike（クロンダイク）としても知られる定番ソリティアです。52枚をスートごとにA〜Kでファウンデーションにそろえます。"
 iframeSrc: "https://solitaireclassic.h5games.usercontent.goog/v/7sbt28mppqim8/"
 thumbnail: "/new-images/solitaire-classic.png"
 urlstr: "solitaire-classic"

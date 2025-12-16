@@ -1,6 +1,6 @@
 ---
 title: Panda Pizza Parlor
-description: Panda Pizza Parlorは楽しいレストラン管理ゲームです。ピザを作り、顧客にサービスを提供し、ストアを拡大し、パンダビジネスを運営します。
+description: Panda Pizza Parlorはレストラン管理ゲームです。注文に合わせてピザを作り、素早く提供して店を拡大します。
 iframeSrc: 'https://pandapizzaparlor.h5games.usercontent.goog/v/2j9k5m8h7p3n8/'
 thumbnail: /new-images/panda-pizza-parlor.png
 urlstr: panda-pizza-parlor
@@ -15,7 +15,7 @@ locale: ja
 
 ### ゲーム紹介
 
-Panda Pizza Parlorは、あなたがパンダとしてピザレストランを運営するチャーミングな管理ゲームです。注文を受け、ピザを作り、顧客にサービスを提供し、お金を集め、ビジネスを拡大します。
+Panda Pizza Parlorは、パンダがピザレストランを運営する管理ゲームです。注文を受けてピザを作り、素早く提供してお金を集め、店を拡大していきます。
 
 ### ゲームプレイ戦略と攻略法
 
@@ -32,7 +32,7 @@ Panda Pizza Parlorは、あなたがパンダとしてピザレストランを�
 - お金を集めてアップグレードします。
 
 
-- **Serve Customer:** Click on the finished pizza and then on the customer to serve them.
+- **提供**: 完成したピザを選び、顧客に渡して提供します。
 ### よくある質問 (FAQ)
 
 - **Q: 最初に何をアップグレードすべきですか？**  
@@ -41,9 +41,9 @@ Panda Pizza Parlorは、あなたがパンダとしてピザレストランを�
   A: 彼らは去ります。速いサービスが重要です。
 - **Q: レベルに制限はありますか？**  
 
-    - **A:** As you progress through the levels, you will unlock new toppings and menu items, which adds more complexity and challenge to the game.
+    - **A:** レベルが進むと新しいトッピングやメニューが解放され、やることが増えていきます。
 
-- **Q: Are there upgrades in the game?**
+- **Q: 効率よく注文をさばくコツはありますか？**
 
-    - **A:** Try to anticipate orders and prepare common pizza bases in advance during slower moments. As you get more comfortable, you can start making multiple pizzas at the same time.
+    - **A:** 混む前に定番の土台を準備しておき、慣れてきたら同時進行で複数のピザを作ると安定します。
   A: バージョンによって異なります。一部は何十ものレベルを持っています。

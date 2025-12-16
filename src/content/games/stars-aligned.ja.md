@@ -24,21 +24,21 @@ Stars Alignedは、美しくリラックスできる星座パズルゲームで�
  - **リラックス：** 落ち着いた音楽とビジュアルを楽しみましょう
 
 
-- Zoom for precision: Use any zoom to verify nearly‑aligned joints.
+- 精密に合わせる：拡大して、線がわずかにずれていないか確認します。
 ### 操作ガイド
 
  - **マウス/タッチ：** フラグメントをクリックまたはタップして回転させます
 
 
-- Undo/Reset as needed to test patterns.
+- 必要に応じて戻す/リセットして、パターンを試します。
 ### よくある質問（FAQ）
 
 
-- Hints? Some modes include hints; use sparingly.
+- ヒントはありますか？ モードによってはヒントがあります。使いすぎないのがコツです。
 
-- Timers? Often relaxed; enjoy the ambient pace.
+- 時間制限はありますか？ 多くの場合はゆったりした作りなので、落ち着いて進められます。
 
-- A line won’t connect—bug? Usually a tiny rotation difference; nudge or rotate one step more.
+- 線がつながらない（バグ？）：ほとんどは回転がわずかに足りません。もう1段階回してみてください。
 **ゲームの目標は何ですか？**
 
 フラグメントを回転させて線をつなぎ、完全な星座パターンを形成することです。

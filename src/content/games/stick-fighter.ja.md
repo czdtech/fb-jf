@@ -19,7 +19,7 @@ Stick Fighterは、スティックマンキャラクターを使ったアーケ�
 ### ゲームプレイガイド
 
 
-The objective in each round is to eliminate your opponents by knocking them out of the arena or depleting their health.
+各ラウンドの目的は、相手を場外に落とすか体力を削り切って倒すことです。
  - **戦闘技術：** さまざまな技とコンボをマスターします
  - **相手を倒す：** スキルを使って相手を倒します
  - **進行：** レベルを進めてより強い相手と戦います
@@ -28,15 +28,15 @@ The objective in each round is to eliminate your opponents by knocking them out 
 ### 操作ガイド
 
 
-Controls are typically based on a standard 2D platformer layout:
+操作は一般的に2Dアクションの基本配置に近いです：
  - **矢印キー：** 移動
  - **A/S/D：** 攻撃技
  - **スペースバー：** ジャンプ/特別な技
 
 
-- **Block:** `Right Mouse Button` or `G`
+- **ガード：** `右クリック` または `G`
 
-- **Attack:** `Left Mouse Button` or `F`
+- **攻撃：** `左クリック` または `F`
 ### よくある質問（FAQ）
 
 **ゲームの目標は何ですか？**

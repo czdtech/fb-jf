@@ -17,11 +17,11 @@ locale: ja
 Steal a Brainrotは、戦略的思考とステルスメカニクスを組み合わせたエキサイティングなゲームです。さまざまなレベルを通じて目標を達成し、検出されないようにする必要があります。
 
 
-The fun of the game largely derives from its chaotic, unpredictable multiplayer interactions and the comedic effect of combining serious stealth gameplay with ridiculous internet memes.
+このゲームの面白さは、（マルチ要素がある場合の）予測しにくい展開と、ステルス要素にミーム的な題材を重ねたギャップにあります。
 
-The game map is typically designed as a complex area filled with obstacles, traps, and patrolling guards. Players must utilize the terrain, various gadgets, and teamwork to evade the guards' line of sight, disable security systems, and finally reach the target "Brainrot." Once they "capture" it, they must carry it back along what is often a more perilous escape route to score points or secure a win.
+マップは障害物、トラップ、巡回するガードなどで構成されることが多く、地形やアイテム、（チーム要素がある場合は）連携を使って視線を避けながら目標の「Brainrot」に到達します。入手後は、追跡や警戒が強まる中で持ち帰る展開になる場合があります。
 
-The game blends the classic "capture the flag" or "heist" genre with the most current internet meme culture. Instead of stealing treasure or documents, players are tasked with snatching iconic "Brainrot" characters like **Skibidi Toilet, Sigma Face, The Rizzler**, and others.
+このゲームは「旗取り」や「強奪」系の構造に、ネットミーム文化の題材を混ぜた内容です。宝物ではなく、**Skibidi Toilet、Sigma Face、The Rizzler** などの「Brainrot」キャラクターを狙う形になっています。
 ### ゲームプレイガイド
 
  - **計画を立てる：** 各レベルで慎重に戦略を立てます
@@ -30,30 +30,30 @@ The game blends the classic "capture the flag" or "heist" genre with the most cu
     - **障害物を避ける：** ガードやトラップを避けます
 
 
-    - **Know Your "Brainrot"**: In some versions of the game, different "Brainrots" might have unique properties. For example, stealing a larger "Brainrot" might make you move slower, while stealing one that makes noise will constantly give away your position.
+    - **「Brainrot」を把握：** バージョンによっては「Brainrot」ごとに特性が違う場合があります。大きいほど移動が遅くなったり、音が出て位置がバレやすくなったりします。
 
-- **Plan a Different Escape Route**: After you steal the objective, you might move slower, or an alarm might trigger, alerting all guards to your position. Plan an escape route that is different from your entry path—perhaps one that is more direct or offers more cover.
+- **別ルートで脱出を計画：** 目標入手後は移動が遅くなったり、アラームで警戒が強まったりする場合があります。侵入時と違うルートも含めて、脱出経路を考えます。
 
-- **Maintain a Low Profile**: In most stealth games, crouching or moving slowly reduces the noise you make, making you harder for guards to detect. Avoid sprinting when guards are nearby.
+- **目立たない動き：** しゃがみ移動や低速移動で音を抑えられる場合があります。ガードの近くでは走りすぎないのが安全です。
 
-- **Use Your Gadgets Wisely**: The game usually provides various items to aid your stealth, such as a flashbang to temporarily blind guards or a potion for brief invisibility. Using these items at the right moment can be a game-changer.
+- **アイテムを使い分ける：** フラッシュで視界を奪ったり、短時間の透明化などのアイテムがある場合は、使うタイミングが重要です。
 
-- **Runner**: The fastest or most agile player on the team, responsible for executing the final "steal" once the path is clear.
+- **Runner**：最速の役割として、道が開けたタイミングで回収を担当します（チーム要素がある場合）。
 ### 操作ガイド
 
 
-As a Roblox game, the controls follow the platform's standard format.
+（Roblox系の作品である場合）操作はプラットフォーム標準の形式に近いことが多いです。
  - **矢印キー/WASD：** 移動
  - **マウス：** 相互作用とアクション
 
 
-- **Use Item**: Number keys `1`, `2`, `3`... or `Q` key
+- **アイテム使用**：数字キー `1`, `2`, `3`... または `Q`
 
-- **Interact / Steal**: `E` or `F` key
+- **相互作用 / 回収**：`E` または `F`
 
-- **Crouch / Sneak**: `Ctrl` or `C` key
+- **しゃがむ / 忍び足**：`Ctrl` または `C`
 
-- **Sprint**: Hold `Shift` key
+- **ダッシュ**：`Shift` を押し続ける
 ### よくある質問（FAQ）
 
 **ゲームの目標は何ですか？**
@@ -69,6 +69,6 @@ As a Roblox game, the controls follow the platform's standard format.
 慎重な計画、タイミング、ステルスの組み合わせが成功の鍵です。
 
 
-Typically, the goal is for a team to successfully steal and return the "Brainrot" to their base the most times within a time limit. Other game modes might exist, such as completing the heist without being detected at all.
+一般的には、制限時間内に「Brainrot」を回収して拠点へ持ち帰る回数を競う形式が多いです。ほかにも、完全ステルスでの達成を目的とするモードがある場合があります。
 
-**4. What is the objective to win the game?**
+**4. 勝利条件は何ですか？**

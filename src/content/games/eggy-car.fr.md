@@ -51,25 +51,26 @@ accélération et frein pour garder l’équilibre.
 ### Foire aux questions (FAQ)
 
 
-- Q: What ends a run?
+- Q: Qu’est‑ce qui met fin à une run ?
 
 
-- Upgrades that improve suspension help the most early on.
+- Les améliorations de suspension aident beaucoup au début.
 
-- If the egg wobbles, briefly brake to settle it.
+- Si l’œuf vacille, freine brièvement pour le stabiliser.
 ### Foire aux questions (FAQ)
 
-- Upgrades that improve suspension help the most early on.
+- Les améliorations de suspension aident beaucoup au début.
 
-- If the egg wobbles, briefly brake to settle it.
+- Si l’œuf vacille, freine brièvement pour le stabiliser.
 
-- Treat crests like jumps—lift before the peak, reapply after landing.
+- Traite les crêtes comme des sauts : relâche avant le sommet, ré‑accélère après
+  l’atterrissage.
 **Q : Pourquoi mon œuf tombe‑t‑il toujours en arrière ?**  
 
-- Q: Is there a finish line?
+- Q: Y a‑t‑il une ligne d’arrivée ?
 R : Tu accélères probablement trop fort en côte. Relâche un peu avant le sommet
 
-- Q: Best early strategy?
+- Q: Meilleure stratégie au début ?
 et évite les changements de vitesse brusques.
 
 **Q : Puis‑je débloquer d’autres voitures ?**  

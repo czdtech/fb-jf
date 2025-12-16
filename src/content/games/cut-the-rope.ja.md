@@ -39,12 +39,10 @@ locale: ja
 
 ### よくある質問 (FAQ)
 
-*   **Q: 星は全部集めないといけませんか？**
+- Q: 星は全部集めないといけませんか？
+  
+  A: 必須ではありません。新しいレベルパック（ステージ群）の解放に一定数の星が必要になることはありますが、毎回すべて集める必要はありません。
 
-A: You typically need a certain number of stars to unlock new level packs, not every single one.
-- **A:** 必須ではありませんが、新しいレベルパック（ステージ群）をアンロックするために一定数の星が必要になります。
-
-
-A: Some versions include optional helpers/hints; availability varies by host.
-*   **Q: パワーアップアイテムはありますか？**
-    *   **A:** バージョンによってはヒント機能や、お助けアイテムが使える場合があります。
+- Q: パワーアップアイテムはありますか？
+  
+  A: バージョンによってはヒント機能や、お助けアイテムが使える場合があります（配信サイトや実装により異なります）。

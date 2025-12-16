@@ -66,15 +66,14 @@ des **side bets** aux règles spécifiques.
 ### Foire aux questions (FAQ)
 
 
-- Q: When should I split pairs?
+- Q : Quand faut‑il séparer (split) une paire ?
 **Q : Quand est‑ce une bonne idée de séparer (split) une paire ?**  
 
-- Q: Do aces count as 1 or 11?
-R : On recommande souvent de séparer les paires d’as et de 8, car elles
+- Q : Les as valent‑ils 1 ou 11 ?
+R : On recommande souvent de séparer les paires d’as et de 8, car elles s’améliorent beaucoup quand elles sont divisées. À l’inverse, il vaut mieux ne pas séparer les 10 ou les 5, qui sont déjà de bonnes bases.
 
-- Q: Is this beatable long‑term?
-améliorent beaucoup quand elles sont divisées. À l’inverse, il vaut mieux ne
-pas séparer les 10 ou les 5, qui sont déjà de bonnes bases.
+- Q : Peut‑on être gagnant à long terme ?
+R : Une stratégie correcte réduit fortement l’avantage de la maison, mais celui‑ci reste positif sur la durée. Prends donc le jeu comme une gestion de risque, pas comme une source de gains.
 
 **Q : Les as valent‑ils 1 ou 11 ?**  
 R : Les as sont "flexibles". Le jeu les compte automatiquement comme 11 tant que

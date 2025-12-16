@@ -1,6 +1,6 @@
 ---
 title: Mahjong Titans
-description: 麻雀タイタンズで象徴的なタイルマッチングパズルをマスターしましょう。フリーペアをマッチし、レイアウトをクリアし、さまざまな難易度をお楽しみください。
+description: 麻雀タイルのペアを消してレイアウトをクリアする、定番のタイルマッチパズルです。複数の難易度で遊べます。
 iframeSrc: 'https://mahjongtitans.h5games.usercontent.goog/v/5vg84jk4dcir8/'
 thumbnail: /new-images/mahjong-titans.png
 urlstr: mahjong-titans
@@ -16,14 +16,14 @@ locale: ja
 
 ### ゲーム紹介
 
-麻雀タイタンズは、クラシックな麻雀ソリティアの洗練されたバージョンです。複数のレイアウトと難易度レベルを特徴とし、初心者から専門家まで、すべてのプレイヤーに完璧な挑戦を提供します。
+麻雀タイタンズは、麻雀タイルを使ったクラシックな麻雀ソリティアです。複数のレイアウトと難易度があり、ペアを消しながら盤面をクリアしていきます。
 
 ### ゲームプレイ戦略と攻略法
 
 1.  **レイアウトを学ぶ:** 各レイアウトには独自のトリックがあります。一般的なパターンを認識するために複数回プレイします。
-2.  **優先順位付け:** 最も積み重ねられた領域をアンブロックするタイルから始めます。
-3.  **先を見る:** ペアをマッチする前に、それが他のペアをブロックしないことを確認します。
-4.  **リソースを賢く使用:** ヒントとシャッフルを保存し、本当に行き詰まった場合にのみ使用します。
+2.  **優先順位付け:** 下のタイルが開く位置のペアから消して、選択肢を増やします。
+3.  **先を見る:** ペアを消す前に、次の手が減らないか確認します。
+4.  **リソースを節約:** ヒントとシャッフルは温存し、本当に行き詰まった場合にだけ使います。
 
 ### 操作ガイド
 
@@ -38,23 +38,23 @@ locale: ja
   A: タワーとピラミッドのレイアウトは、より深い戦略を必要とする傾向があります。
 - **Q: 進行状況を保存できますか？**  
 
-- Q: Which tiles count as free in Mahjong Titans?
+- Q: Mahjong Titansで「フリー」とみなされるタイルは？
 
 ### よくある質問
   A: ほとんどのバージョンは、自動保存または手動保存オプションを提供します。
 
 
-A: Keep multiple options open and avoid isolating unique tiles early.
+A: 選択肢を複数残し、早い段階で孤立したタイルを作らないようにします。
 
-- Q: How do I avoid unwinnable states?
+- Q: 手詰まりを避けるにはどうすればいいですか？
 
-A: Yes, any season matches any season; any flower matches any flower.
+A: はい。シーズンはシーズン同士、フラワーはフラワー同士でどれでもマッチできます。
 
-- Q: Can seasons and flowers match with any of their kind?
+- Q: シーズン/フラワーは同じ種類同士ならマッチできますか？
 
 
-A: Keep multiple options open and avoid isolating unique tiles early.
+A: 選択肢を複数残し、早い段階で孤立したタイルを作らないようにします。
 
-- Q: How do I avoid unwinnable states?
+- Q: 手詰まりを避けるにはどうすればいいですか？
 
-A: Yes, any season matches any season; any flower matches any flower.
+A: はい。シーズンはシーズン同士、フラワーはフラワー同士でどれでもマッチできます。

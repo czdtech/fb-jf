@@ -39,29 +39,14 @@ locale: ja
 ### よくある質問 (FAQ)
 
 
-It was originally a free game on PETA's website. As it was built on Adobe Flash, which is now discontinued, it may be difficult to play on modern browsers. It might be accessible through Flash preservation projects or archives like the Internet Archive's Software Library.
+**1. これは公式シリーズのゲームですか？**
+いいえ。動物愛護団体PETAが制作した無許可のパロディ作品で、公式シリーズや開発元とは一切関係ありません。
 
-**4. Where can I play this game?**
+**2. なぜこんなに暴力的でグロテスクなのですか？**
+意図的です。本家の「明るく楽しい料理」の表現と、PETAが主張する「肉食の裏側にある残酷さ」を対比させ、ショックを通じて食の選択を考えさせる狙いがあります。
 
-Yes. Partly in response to this parody and general feedback, the official developers later released titles like *Gardening Mama* and *Cooking Mama: World Kitchen*, which included more vegetarian recipes or modes.
+**3. 菜食主義のクッキングママは存在しますか？**
+はい。公式側もその後、*Gardening Mama* や *Cooking Mama: World Kitchen* などで、ベジタリアン向けのレシピやモードをより多く扱うタイトルを出しています。
 
-**3. Is there an official vegetarian Cooking Mama game?**
-
-The graphic nature is intentional. PETA used shock value to contrast the sanitized, happy portrayal of cooking in the official games with what they present as the violent reality of meat preparation. The goal is to make the player feel uncomfortable and question the source of their food.
-
-**2. Why is this game so violent and graphic?**
-
-No, absolutely not. It is a parody created by the animal rights organization PETA to protest the use of meat in the official games. It is not affiliated in any way with the official franchise or its developers.
-
-**1. Is this a real, official Cooking Mama game?**
-*   **Q: これは任天堂やオフィスの公式ゲームですか？**
-    *   **A:** いいえ、全く関係ありません。PETAが勝手に作った無許可のパロディ作品です。
-
-*   **Q: なぜこんなに暴力的でグロテスクなのですか？**
-    *   **A:** 「肉を食べるまでの過程には残酷な現実がある」という主張を、本家の幸せな雰囲気と対比させることで強調するためです。ショック療法的な手法が使われています。
-
-*   **Q: 菜食主義のクッキングママは存在しますか？**
-    *   **A:** このパロディの影響もあってか、公式シリーズ（『ガーデニングママ』など）でも野菜中心のレシピやモードが増える傾向が見られました。
-
-*   **Q: どこで遊べますか？**
-    *   **A:** 元々はPETAのサイトにありましたが、現在はFlashが廃止されたため、アーカイブサイトや保存プロジェクトなどを通じてプレイできる場合があります。
+**4. どこで遊べますか？**
+元々はPETAのサイトで公開されていました。Flash製のため現行ブラウザでは遊びにくいことがありますが、Flash保存プロジェクトやアーカイブ（Internet ArchiveのSoftware Libraryなど）で見つかる場合があります。

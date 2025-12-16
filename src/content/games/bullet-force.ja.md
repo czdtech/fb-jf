@@ -42,8 +42,7 @@ locale: ja
     *   **スナイパーライフル:** 当てれば一撃必殺ですが、外すと隙だらけになります。上級者向け。
 *   **ミニマップを見る:** 画面上のミニマップには味方の位置が表示され、発砲した敵（サプレッサー無し）やUAVで探知された敵が赤点で表示されます。常にチェックしましょう。
 
-
-- **Practice Offline:** The offline mode with bots is an excellent training ground. Use it to practice your aim, learn new maps, and test out different weapon builds without the pressure of a live multiplayer match.
+*   **オフラインで練習する:** ボットと戦えるオフラインモードは絶好の練習場です。エイム練習、マップ把握、武器ビルドの試し撃ちに活用しましょう。
 ### 操作ガイド
 
 #### PC (キーボード & マウス)
@@ -58,50 +57,21 @@ locale: ja
 *   **インタラクト（拾う/設置）:** `E` （または `G` の場合もあり）
 *   **スコアボード:** `Tab`
 
-#### よくある質問 (FAQ)
+#### Mobile (タッチスクリーン)
+*   **移動：** 画面左側の仮想スティック
+*   **視点/エイム：** 画面右側をスワイプ
+*   **射撃/ADS/リロード/ジャンプ/しゃがみ：** 画面上のボタン（設定でカスタマイズできる場合があります）
 
-*   **Q: 新しい武器やアタッチメントはどうやって手に入れますか？**
-- **A:** 試合をしてクレジットを稼ぎます。キル数や勝利数に応じて貰えるクレジットを貯めて、「Loadout（ロードアウト）」や「Store」画面で購入・アンロックします。
+### よくある質問 (FAQ)
 
-*   **Q: キルストリークとは何ですか？**
+**1. 新しい武器やアタッチメントはどうやって手に入れますか？**
+> 試合でクレジットを稼ぎ、「Loadout（ロードアウト）」や「Armory（武器庫）」で武器・アタッチメントを購入してアンロックします。
 
-> Yes. You can create a custom match by going to the multiplayer menu and selecting "Create Room." You can set a password for the room and share the room name and password with your friends so they can join.
+**2. キルストリークとは何ですか？**
+> 死なずに一定数のキルを重ねると使える特殊能力です。UAV（ミニマップに敵位置表示）などがあり、獲得後は画面上のボタンで発動します。
 
-**4. Can I play with my friends?**
+**3. 最強の武器はどれですか？**
+> マップや距離、プレイスタイル次第で変わるため「万能の1本」はありません。定番としてはFAMAS（バースト精度）、M4A1（扱いやすさ）、Vector（近距離火力）などが人気です。
 
-> There is no definitive "best" weapon as it largely depends on your playstyle and the map. However, some popular and highly effective choices include the FAMAS for its burst-fire accuracy, the M4A1 for its versatility, and the Vector for its incredibly high rate of fire in close combat.
-
-**3. What is the "best" weapon in the game?**
-
-> Killstreaks are special abilities you earn by getting a certain number of kills in a row without dying. Once earned, an on-screen button will appear, allowing you to activate abilities like a **UAV** (reveals enemies on the minimap), **Haste** (increased movement speed), or an **Advanced UAV**.
-
-**2. What are killstreaks and how do I use them?**
-
-> You earn credits by playing matches (based on your performance, kills, and objectives). These credits can then be spent in the "Loadout" or "Armory" section of the game to purchase new primary weapons, secondary weapons, and a wide variety of attachments for them.
-
-**1. How do I unlock new weapons and attachments?**
-
-### よくある質問（FAQ）
-
-> Yes. You can create a custom match by going to the multiplayer menu and selecting "Create Room." You can set a password for the room and share the room name and password with your friends so they can join.
-
-**4. Can I play with my friends?**
-
-> There is no definitive "best" weapon as it largely depends on your playstyle and the map. However, some popular and highly effective choices include the FAMAS for its burst-fire accuracy, the M4A1 for its versatility, and the Vector for its incredibly high rate of fire in close combat.
-
-**3. What is the "best" weapon in the game?**
-
-> Killstreaks are special abilities you earn by getting a certain number of kills in a row without dying. Once earned, an on-screen button will appear, allowing you to activate abilities like a **UAV** (reveals enemies on the minimap), **Haste** (increased movement speed), or an **Advanced UAV**.
-
-**2. What are killstreaks and how do I use them?**
-
-> You earn credits by playing matches (based on your performance, kills, and objectives). These credits can then be spent in the "Loadout" or "Armory" section of the game to purchase new primary weapons, secondary weapons, and a wide variety of attachments for them.
-
-**1. How do I unlock new weapons and attachments?**
-    *   **A:** 死なずに連続で敵を倒すと使える特殊能力です。UAV（敵の位置を表示）、Haste（移動速度アップ）、Advanced UAV（高度な探知）などがあり、画面上のボタンを押すと発動します。
-
-*   **Q: 最強の武器はどれですか？**
-    *   **A:** プレイスタイルによりますが、**FAMAS**（バースト精度の高さ）、**M4A1**（安定性）、**Vector**（近距離火力）などが人気で強力です。
-
-*   **Q: 友達と遊べますか？**
-    *   **A:** はい。マルチプレイヤーメニューから「Create Room」で部屋を作り、部屋名とパスワードを共有すれば、プライベートマッチを開催できます。
+**4. 友達と遊べますか？**
+> はい。マルチプレイヤーメニューから部屋を作成（Create Room）し、部屋名とパスワードを共有すればプライベートマッチができます。

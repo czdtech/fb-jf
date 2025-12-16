@@ -26,23 +26,23 @@ Unpark Meは、混雑した駐車場から赤い車を脱出させるロジッ�
 ### 操作ガイド
 
 
-The game is played with simple drag-and-drop controls.
+操作はドラッグ＆ドロップ中心です。
  - **マウス：** 車をドラッグして動かす
 
 ### よくある質問（FAQ）
 
 
-- **A:** Most versions of the game include a hint button that will show you the next correct move. If you're out of hints, you may need to use the reset button to start the level over with a fresh perspective.
+- **A:** 多くの場合、次の一手を示すヒント機能があります。ヒントが使えないときは、リセットして最初から考え直すのも手です。
 
-    - **Q: I'm completely stuck. What can I do?**
+    - **Q: 完全に詰まったらどうすればいいですか？**
 
-- **A:** The core rule of the puzzle is that cars can only move in the direction they are facing (forwards and backwards). They cannot be turned or moved sideways.
+- **A:** 車は向いている方向にだけ動きます（前後のみ）。回転させたり横移動させたりはできません。
 
-    - **Q: Why can't I move a car sideways?**
+    - **Q: なぜ車を横に動かせませんか？**
 
-- **A:** To slide the red car out through the exit on the side of the grid.
+- **A:** 赤い車を出口までスライドさせて脱出させることです。
 
-    - **Q: What is the objective?**
+    - **Q: ゲームの目的は何ですか？**
 **ゲームの目標は何ですか？**
 
 赤い車を駐車場の出口まで動かすことです。

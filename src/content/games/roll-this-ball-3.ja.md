@@ -1,6 +1,6 @@
 ---
 title: Roll This Ball 3
-description: Roll This Ball 3はスライディングパズルです。タイルをスライドさせ、パスを作成し、ボールをゴールに導き、論理パズルをマスターします。
+description: Roll This Ball 3はスライド式のパズルです。タイルを動かして通路をつなぎ、ボールをゴールまで導きます。
 iframeSrc: 'https://rollthisball3.h5games.usercontent.goog/v/3k9j5m8h7p2n8/'
 thumbnail: /new-images/roll-this-ball-3.png
 urlstr: roll-this-ball-3
@@ -20,16 +20,16 @@ Roll This Ball 3は、タイルをスライドさせてボールのためのパ�
 
 ### ゲームプレイ戦略と攻略法
 
-1.  **目標から作業:" ゴールから逆にパスを視覚化します。
-2.  **移動を最小限に抑える:" より少ない移��= より高いスコア。
-3.  **固定タイルを識別:" どのタイルが移動できないかを見ます。
-4.  **先を計画:" パス全体を精神的にトレースします。
-5.  **星を収集:" 完全なスコアのためにすべての星を通過します。
+1.  **ゴールから考える:** ゴール側から逆に通路をイメージします。
+2.  **移動を減らす:** 動かす回数が少ないほど良い評価になる場合があります。
+3.  **固定タイルを確認:** 動かせないタイルを先に把握します。
+4.  **先を計画:** 通路全体がつながるように順序を考えます。
+5.  **星を回収（ある場合）:** 余裕があれば回収ルートも組み込みます。
 
 ### 操作ガイド
 
 
-The game is played with simple drag-and-drop or sliding controls.
+操作はドラッグ＆ドロップ（またはスライド）中心です。
 - タイルをクリック/タップしてドラッグしてスライドさせます。
 - スタートからゴールまでパスを作成します。
 - より少ない移動でより良いスコア。
@@ -42,9 +42,9 @@ The game is played with simple drag-and-drop or sliding controls.
   A: 一部のバージョンには、行き詰まったときのヒントがあります。
 - **Q: タイムリミットはありますか？**  
 
-    - **A:** Make sure the path is truly continuous. It's easy to miss a small gap or have a piece facing the wrong direction. Double-check every connection from start to finish.
+    - **A:** 通常はありません。自分のペースで通路を組み立てられます。
 
-- **Q: I've made a path, but the ball isn't rolling. Why?**
+- **Q: 道を作ったのにボールが転がりません。なぜですか？**
 
-    - **A:** Blocks with iron rivets on them are fixed in place and cannot be moved. You must build your path around these immovable obstacles.
-  A: 通常いいえ。自分のペースで。
+    - **A:** 通路が本当に連続しているか確認してください。小さな隙間があったり、向きが逆のパーツが混ざっていたりすると転がりません。
+  A: リベット（鋲）の付いたブロックは固定で動かせない場合があります。動かせない障害物を避ける形で通路を作りましょう。

@@ -1,6 +1,6 @@
 ---
 title: Puzzle Pieces Merge
-description: Puzzle Pieces Mergeはパズルマージゲームです。ピースをマージし、画像を完成させ、論理的に考え、マージパズルをマスターします。
+description: Puzzle Pieces Mergeはパズルのマージゲームです。同じピースを組み合わせて画像を完成させます。
 iframeSrc: 'https://puzzlepiecesmerge.h5games.usercontent.goog/v/2j9k5m8h7p3n8/'
 thumbnail: /new-images/puzzle-pieces-merge.png
 urlstr: puzzle-pieces-merge
@@ -38,11 +38,11 @@ Puzzle Pieces Mergeは、パズルピースをマージして完全な画像を�
   A: より小さなピースをマージしてスペースを解放します。
     - **Q: レベルはいくつありますか？**  
   A: バージョンによって異なります。多くは数十。
-- **Q: ヒントはありますか？**  
+- **Q: ゲームの目的は何ですか？**  
 
-    - **A:** The goal is to use all the provided puzzle pieces to successfully complete the entire image.
+    - **A:** 用意されたピースをすべて使って、画像全体を完成させることが目的です。
 
-- **Q: What is the goal of the game?**
+- **Q: 行き詰まったときはどうすればいいですか？**
 
-    - **A:** First, try rotating it. If you're still stuck, set it aside and focus on another section of the puzzle. Often, filling in the surrounding areas will reveal exactly where the difficult piece needs to go. If all else fails, use a hint if one is available.
+    - **A:** まずは向き（回転）がある場合は試してみましょう。それでも難しければ別の部分から埋め、周囲が揃ってから戻ると当てはめやすくなります。最後はヒントがあれば活用します。
   A: 一部のバージョンには、行き詰まったときのヒントがあります。

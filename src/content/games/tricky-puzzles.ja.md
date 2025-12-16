@@ -19,7 +19,7 @@ Tricky Puzzlesは、常識を覆すトリッキーなパズルゲームです。
 ### ゲームプレイガイド
 
 
-Each level presents a unique riddle or puzzle. The solution is rarely straightforward and often involves misdirection or humor.
+各レベルで別のなぞなぞ/パズルが出題されます。解き方は素直ではないことが多く、引っかけやユーモア要素が含まれる場合があります。
  - **パズルを観察：** 各パズルを注意深く見ます
  - **創造的に考える：** 明白でない解決策を探します
  - **相互作用：** 画面上のあらゆるものを試します
@@ -30,9 +30,9 @@ Each level presents a unique riddle or puzzle. The solution is rarely straightfo
  - **マウス：** クリックして相互作用
 
 
-- **Multi-touch/Device Rotation:** Some puzzles may require using two fingers or physically rotating your device.
+- **マルチタッチ/端末回転：** パズルによっては、2本指操作や端末の回転が必要になる場合があります。
 
-- **Drag:** Tap and hold, then move your finger/mouse to drag objects.
+- **ドラッグ：** 押したまま動かして、オブジェクトを移動します。
 ### よくある質問（FAQ）
 
 **ゲームの目標は何ですか？**

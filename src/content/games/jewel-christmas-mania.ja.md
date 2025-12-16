@@ -1,6 +1,6 @@
 ---
 title: "Jewel Christmas Mania"
-description: "Jewel Christmas Maniaでホリデー気分に浸りましょう！このお祝いのマッチ3パズルゲームできらめく宝石をマッチさせ、挑戦的なレベルを完了しましょう。"
+description: "クリスマス風のマッチ3パズルです。宝石を入れ替えてそろえ、各レベルの目標を達成します。"
 iframeSrc: "https://jewelchristmasmania.h5games.usercontent.goog/v/3vom8bn0qgmto/"
 thumbnail: "/new-images/jewel-christmas-mania.png"
 urlstr: "jewel-christmas-mania"
@@ -13,7 +13,7 @@ locale: ja
 
 ### ゲーム紹介
 
-Jewel Christmas Maniaは、ホリデーシーズンの喜びをスクリーンにもたらす、まばゆいマッチ3パズルゲームです。お祝いの宝石を交換して3つ以上をマッチさせ、ボードからクリアし、ポイントを獲得し、様々なレベル目標を完了します。きらめく宝石、挑戦的な障害物、強力なブースターでいっぱいの何百ものレベルで、このゲームは無限の脳トレーニングの楽しさを提供します。美しいグラフィックと陽気な音楽で、魅惑的なクリスマスの雰囲気に浸ってください。
+Jewel Christmas Maniaは、クリスマス風の演出が入ったマッチ3パズルです。宝石を入れ替えて3つ以上をそろえ、盤面から消して得点しながら、各レベルの目標を達成します。特殊宝石やブースターを活用すると、障害物の除去や一気消しがしやすくなります。
 
 ### ゲームプレイ戦略と攻略法
 

@@ -24,33 +24,33 @@ Wordleは、世界中で大人気の単語推測パズルゲームです。6回�
  - **6回以内：** 6回以内に正しい単語を見つけます
 
 
-- **Vocabulary Building**: Expand vocabulary and familiarize yourself with more five-letter words.
+- **語彙を増やす：** 5文字単語のパターンに慣れるほど、推測が安定します。
 ### 操作ガイド
 
  - **キーボード：** 文字をタイプして単語を入力
 
 
-- **Delete Letters**: Use backspace key to delete input letters.
+- **文字を消す：** `Backspace` で入力した文字を削除します。
 
-- **View Feedback**: Observe color hints: Green (correct position), Yellow (exists but wrong position), Gray (doesn't exist).
+- **フィードバックを見る：** 色のヒントを確認します。緑（位置も正しい）、黄（単語に含まれるが位置が違う）、灰（含まれない）。
 
-- **Submit Guess**: Press Enter key to submit the current word guess.
+- **送信：** `Enter` で現在の推測を送信します。
 ### よくある質問（FAQ）
 
 
-- **Q: Can I only play once per day?**
+- **Q: 1日1回しか遊べませんか？**
 **ゲームの目標は何ですか？**
 
 
-- **Q: What are good starting words?**
+- **Q: 良い初手の単語は？**
 6回の試行で正しい5文字の単語を推測することです。
 
 
-- **Q: Can I use proper nouns?**
+- **Q: 固有名詞は使えますか？**
 **色の意味は何ですか？**
 
 
-- **Q: How can I improve my word-guessing skills?**
+- **Q: 推測を上達させるには？**
 緑＝正しい位置、黄＝単語に含まれるが位置が違う、灰＝含まれない
 
 **毎日新しい単語ですか？**

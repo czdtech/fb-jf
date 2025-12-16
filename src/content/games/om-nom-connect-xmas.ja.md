@@ -18,7 +18,7 @@ locale: ja
 
 ### ゲーム紹介
 
-Om Nom Connect Xmasは、クラシックなOm Nom Connectゲームプレイにフェスティブなクリスマステーマを追加します。同じクリスマステーマのタイルを接続し、すべてをクリアし、ホリデースピリットを楽しみます。
+Om Nom Connect Xmasは、Om Nom Connectのルールで遊べるクリスマステーマのマッチングパズルです。同じタイルをルール内のパスでつなぎ、ボード上のタイルをすべて消していきます。
 
 ### ゲームプレイ戦略と攻略法
 
@@ -30,7 +30,7 @@ Om Nom Connect Xmasは、クラシックなOm Nom Connectゲームプレイに�
 
 ### 操作ガイド
 
-- 同じクリスマスタイルをクリック/タップします。
+- 同じクリスマステーマのタイルをクリック/タップします。
 - 有効なパス（≤2ターン）で接続します。
 - ボードをクリアします。
 
@@ -42,9 +42,9 @@ Om Nom Connect Xmasは、クラシックなOm Nom Connectゲームプレイに�
   A: いいえ、年中プレイできます。
 - **Q: レベルはいくつありますか？**  
 
-    - **A:** Yes, there is a timer for each level. You must clear the entire board before the time runs out to win.
+    - **A:** バージョンによって異なりますが、通常は数十レベル程度です。
 
-- **Q: Is there a time limit?**
+- **Q: 時間制限はありますか？**
 
-    - **A:** First, take a moment to carefully scan the entire board. If you are still stuck, use the magnifying glass hint tool to reveal a match. If you feel completely blocked, use the shuffle power-up.
-  A: バージョンによって異なりますが、通常数十。
+    - **A:** まず盤面全体をざっと確認し、それでも詰まったらヒント（虫眼鏡）を使って1組分の手掛かりを出します。手詰まりならシャッフルを使うのも有効です。
+  A: はい。レベルごとにタイマーがあり、時間内にボードをすべて消す必要がある場合があります。

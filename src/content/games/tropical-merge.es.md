@@ -16,27 +16,27 @@ score: 4.2/5  (2068 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
-### Detailed Game Introduction
+### Introducción detallada del juego
 
 Fusiona objetos en grupos de 3 o 5 para mejorar recursos, despejar la niebla y desbloquear nuevas islas. Las misiones marcan tu progreso, mientras que la energía limitada y el poco espacio premian a quienes planifican en lugar de fusionar sin pensar.
 
-### Gameplay Strategy & Walkthrough
+### Estrategia y guía de juego
 
 1.  Prioriza las fusiones de 5 cuando puedas para obtener más recompensas por el mismo coste.
 2.  Reserva zonas de espera donde acumular objetos casi listos para ser fusionados.
 3.  Alinea las fusiones con las misiones activas para acelerar desbloqueos y progresión.
 4.  Gasta energía en tandas planificadas; no olvides reclamar recompensas diarias.
-5.  Llena el almacén antes de eventos especiales para aprovechar al máximo los bonus.
+5.  Llena el almacén antes de eventos especiales para aprovechar al máximo las bonificaciones.
 
-### Controls Guide
+### Controles
 
 - Arrastra para combinar objetos; toca los edificios para recoger producción y muévete entre islas usando el mapa.
 
-### Frequently Asked Questions (FAQ)
+### Preguntas frecuentes (FAQ)
 
-- **Q: Me he quedado sin espacio.**  
+- **Q: ¿No me queda espacio, qué hago?**  
   **A:** Agrupa objetos en fusiones de 5 siempre que sea posible, vende lo que no necesites y prioriza ampliar terreno.
 
-- **Q: La energía se regenera muy despacio.**  
+- **Q: ¿La energía se regenera muy despacio?**  
   **A:** Intenta coordinar tus sesiones de juego con los tiempos de regeneración y las recompensas de misiones y cofres.
 

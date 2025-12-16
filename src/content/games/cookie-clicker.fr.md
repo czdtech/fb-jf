@@ -43,21 +43,42 @@ succès, ainsi que des mécaniques avancées comme les parties ascendées.
 5.  **Découvre l’Ascension**  
     Plus tard, tu pourras "reset" ta partie via l’ascension, en échange de
 
-- **Spending Heavenly Chips**: After ascending, you enter a new screen where you can spend your Heavenly Chips on powerful, permanent celestial upgrades. For your first ascension, focus on upgrades like "Persistent memory," "How to bake your dragon," and the "Cookie box" upgrades.
+- **Dépenser les Heavenly Chips** : après une ascension, tu arrives sur un écran
+  où tu peux dépenser tes Heavenly Chips dans des améliorations célestes
+  permanentes. Pour une première ascension, privilégie des upgrades utiles tout
+  de suite (par ex. "Persistent memory", "How to bake your dragon", "Cookie box",
+  selon la version).
 
-- **When to Ascend First**: The most common advice is to ascend for the first time when you have accumulated **200-440** Prestige Levels. Ascending too early is inefficient. You can see your potential prestige level in the "Stats" menu under "Legacy."
+- **Quand faire la première ascension** : un conseil courant est d’attendre
+  d’avoir environ **200–440** niveaux de prestige. Monter trop tôt est souvent
+  peu rentable. Tu peux voir ton prestige potentiel dans le menu "Stats", rubrique
+  "Legacy".
 
-- **What is Ascension?**: Ascension is the game's prestige mechanic. You can choose to reset your game (losing your cookies, buildings, and upgrades) in exchange for Heavenly Chips and Prestige Levels. Each Prestige Level gives a permanent +1% boost to your CpS for all future playthroughs.
-    bonus permanents. Cela permet de recommencer une run beaucoup plus
+- **Qu’est‑ce que l’Ascension ?** : l’Ascension est la mécanique de prestige du
+  jeu. Tu réinitialises ta partie (cookies, bâtiments, améliorations), et tu
+  gagnes des Heavenly Chips et des niveaux de prestige. Chaque niveau de prestige
+  donne en général **+1 %** permanent à ton CpS pour les runs suivantes.
+    Ces bonus permanents rendent les runs suivantes beaucoup plus rapides.
 
-- **Sugar Lumps**: You get one Sugar Lump about every 24 hours. These can be used to level up your buildings, with each level granting a permanent +1% CpS bonus to that building type. Use them wisely.
+- **Sugar Lumps** : tu obtiens environ un Sugar Lump toutes les 24 h. Ils servent
+  à monter le niveau de certains bâtiments ; chaque niveau donne souvent
+  **+1 %** permanent de CpS pour ce bâtiment. Utilise‑les avec soin.
 
-- **Minigames**: As you level up certain buildings with Sugar Lumps, you unlock complex minigames (the Garden, the Pantheon, the Grimoire). Mastering these provides huge long-term bonuses but requires active management.
+- **Mini‑jeux** : en améliorant certains bâtiments avec des Sugar Lumps, tu
+  débloques des mini‑jeux (Garden, Pantheon, Grimoire). Ils peuvent offrir de
+  gros bonus, mais demandent une gestion plus active.
 
-- **The Grandmapocalypse**: Researching specific "Bingo center" upgrades will trigger the Grandmapocalypse. This changes the game's appearance and replaces Golden Cookies with "Wrath Cookies," which have a chance of giving negative effects. It's a strategic choice: you can either embrace it for its unique rewards or pay to appease the grandmas and end it.
+- **Grandmapocalypse** : certaines recherches (ex. "Bingo center") déclenchent la
+  Grandmapocalypse. L’apparence du jeu change et les Golden Cookies peuvent être
+  remplacés par des "Wrath Cookies", avec un risque d’effets négatifs. C’est un
+  choix stratégique : tu peux l’accepter pour ses récompenses spécifiques ou payer
+  pour calmer les grand‑mères et l’arrêter.
 
-- **The Loop**: The late game consists of repeating the cycle: start a new run, buy buildings and upgrades quickly, leverage Golden Cookie combos (e.g., getting a "Frenzy" and a "Click Frenzy" at the same time for a massive boost), push as far as you can, and ascend again for more Prestige.
-    rapidement et d’atteindre des niveaux de production encore plus élevés.
+- **La boucle** : en fin de partie, tu répètes le cycle : relancer une run,
+  acheter vite bâtiments et améliorations, profiter des combos de Golden Cookies
+  (par ex. "Frenzy" + "Click Frenzy"), pousser le plus loin possible, puis
+  ré‑ascendre pour gagner encore du prestige.
+    À force, tu accumules du prestige et tu atteins des niveaux de production encore plus élevés.
 
 ### Commandes
 
@@ -65,17 +86,20 @@ succès, ainsi que des mécaniques avancées comme les parties ascendées.
 - **Acheter des bâtiments / upgrades** : clique sur les icônes et boutons à
   droite ou en bas de l’interface.  
 - **Interface avancée** : utilise les onglets pour consulter tes statistiques,
+  succès ou options.  
 
-- **SHIFT + Click**: Buys 1000 of a building/upgrade.
+- **SHIFT + clic** : achète 1000 exemplaires d’un bâtiment/une amélioration.
 
-- **CTRL + Click**: Buys 100 of a building/upgrade.
+- **CTRL + clic** : achète 100 exemplaires d’un bâtiment/une amélioration.
 
-    - **CTRL + SHIFT + Click**: Buys 10 of a building/upgrade.
+    - **CTRL + SHIFT + clic** : achète 10 exemplaires d’un bâtiment/une amélioration.
 
-    - **Keyboard Shortcuts**:
+    - **Raccourcis clavier** :
 
-    - **Buy/Sell Toggles**: At the top of the store, you can toggle between buying **1, 10, or 100** of a building at a time. Using the "Buy 100" toggle is essential for efficiency in the late game.
-  succès ou options.
+    - **Choix de quantité (Buy/Sell)** : en haut de la boutique, tu peux choisir
+      d’acheter par lots de **1, 10 ou 100**. Le mode "Buy 100" est très utile
+      pour accélérer les achats en fin de partie.
+  (les libellés exacts varient selon la version).
 
 ### Foire aux questions (FAQ)
 

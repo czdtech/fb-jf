@@ -4,7 +4,7 @@ urlstr: word-scramble
 title: "Word Scramble - Desordena y descubre la palabra"
 description: >-
   Ordena letras descolocadas y pon a prueba tu mente en Word Scramble, un
-  clásico rompecabezas de palabras. Recoloca las letras para formar la palabra
+  clásico puzle de palabras. Recoloca las letras para formar la palabra
   correcta antes de que se acabe el tiempo y demuestra tu vocabulario y rapidez
   mental.
 iframeSrc: "https://ams.cdn.arkadiumhosted.com/assets/global/game/word-scramble/"
@@ -17,11 +17,11 @@ score: 3.5/5  (764 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
-### Game Introduction
+### Introducción del juego
 
-Word Scramble es un rompecabezas de palabras clásico y muy entretenido en el que debes reordenar un conjunto de letras desordenadas para formar una palabra con sentido. Es una prueba de vocabulario, reconocimiento de patrones y rapidez mental, con distintos niveles de dificultad y categorías temáticas.
+Word Scramble es un puzle de palabras clásico y muy entretenido en el que debes reordenar un conjunto de letras desordenadas para formar una palabra con sentido. Es una prueba de vocabulario, reconocimiento de patrones y rapidez mental, con distintos niveles de dificultad y categorías temáticas.
 
-### Gameplay Guide
+### Guía de juego
 
 - **Objetivo:** identificar la palabra original a partir de las letras mezcladas.
 - **Letras:** se te muestran letras que forman un anagrama de una única palabra.
@@ -29,13 +29,13 @@ Word Scramble es un rompecabezas de palabras clásico y muy entretenido en el qu
 - **Pistas:** si te bloqueas, suele haber pistas que revelan letras o dan una definición.
 - **Puntuación:** obtienes puntos por cada respuesta correcta, con bonificaciones si contestas rápido.
 
-### Controls Guide
+### Controles
 
 - **Escritura:** usa el teclado para escribir la palabra que creas correcta.
 - **Reordenar letras:** algunas versiones permiten arrastrar letras con el ratón o usar un botón de “barajar” para ver el anagrama de otra forma.
 - **Enviar:** pulsa `Enter` para confirmar tu respuesta.
 
-### Frequently Asked Questions (FAQ)
+### Preguntas frecuentes (FAQ)
 
 **¿Cómo se juega a Word Scramble?**
 
@@ -45,7 +45,7 @@ Te dan un conjunto de letras mezcladas y tu tarea es ordenarlas mentalmente hast
 
 Suele haber pistas o una opción de pasar al siguiente anagrama. También puedes barajar las letras varias veces para ver patrones nuevos.
 
-**Hay distintos tipos de Word Scramble?**
+**¿Hay distintos tipos de Word Scramble?**
 
 Sí: hay variantes por categorías (animales, países, etc.), por longitudes de palabra o incluso modos competitivos en los que varios jugadores compiten por resolver primero.
 

@@ -24,31 +24,31 @@ Tunnel Rushは、カラフルなトンネルを高速で駆け抜ける息をの
  - **スコア獲得：** できるだけ遠くまで進みます
 
 
-- **Muscle Memory**: Build muscle memory through repeated practice to improve reaction accuracy.
+- **反復で慣れる：** 繰り返し練習して、反応の精度を上げます。
 ### 操作ガイド
 
  - **左/右矢印または A/D：** 左右に移動
 
 
-- **Stay Centered**: Try to stay in the center of the tunnel when there are no obstacles.
+- **中央を意識：** 障害物がないときは、中央寄りに戻しておくと対応しやすいです。
 
-- **Avoid Obstacles**: Move left or right in time to avoid obstacles in the tunnel.
+- **障害物を回避：** タイミングよく左右に動いて避けます。
 ### よくある質問（FAQ）
 
 
-- **Q: Will the speed keep increasing?**
+- **Q: スピードは上がり続けますか？**
 **ゲームの目標は何ですか？**
 
 
-- **Q: How can I improve survival time?**
+- **Q: 生存時間を伸ばすには？**
 障害物を避けてできるだけ遠くまで進むことです。
 
 
-- **Q: What happens if I hit an obstacle?**
+- **Q: 障害物に当たるとどうなりますか？**
 **難易度は上がりますか？**
 
 
-- **Q: Does the game have an ending?**
+- **Q: ゲームに終わりはありますか？**
 はい、スピードが上がり、障害物が増えます。
 
 **ゲームは終わりがありますか？**

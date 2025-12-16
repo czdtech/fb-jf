@@ -1,6 +1,6 @@
 ---
 title: Ovo Dimensions
-description: Ovo Dimensionsは次元ジャンプ���ラットフォーマーです。次元を切り替え、障害物を避け、パズルを解決し、挑戦的なレベルをマスターします。
+description: Ovo Dimensionsは次元切り替え要素のあるプラットフォーマーです。次元を切り替えて障害物を越え、パズルを解きながら進みます。
 iframeSrc: 'https://ovodimensions.h5games.usercontent.goog/v/4j9k5m8h7p3n8/'
 thumbnail: /new-images/ovo-dimensions.png
 urlstr: ovo-dimensions
@@ -33,7 +33,7 @@ Ovo Dimensionsは、次元切り替えメカニクスを追加したプラット
 - 両方の次元を使用してレベルを完了します。
 
 
-- **Wall Jump**: When the character touches a wall, pressing the jump key allows for a wall jump; continuous wall jumps can be used to climb upwards.
+- **壁ジャンプ**: 壁に触れているときにジャンプすると壁ジャンプでき、連続で上に登れます。
 ### よくある質問 (FAQ)
 
 - **Q: 次元をいつ切り替えるべきですか？**  
@@ -44,9 +44,9 @@ Ovo Dimensionsは、次元切り替えメカニクスを追加したプラット
   A: バージョンによって異なります。多くは数十。
 
 
-**A**: Many high-difficulty platformers have active player communities and online leaderboards where players can share experiences and compete for rankings.
+**A**: バージョンによっては、コミュニティやオンラインのランキングが用意されている場合があります。
 
-- **Q: Does the game have a community or leaderboards?**
+- **Q: コミュニティやランキングはありますか？**
 
 
-**A**: Many high-difficulty platformers have active player communities and online leaderboards where players can share experiences and compete for rankings.
+**A**: バージョンによっては、コミュニティやオンラインのランキングが用意されている場合があります。

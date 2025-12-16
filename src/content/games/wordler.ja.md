@@ -24,7 +24,7 @@ Wordlerは、人気のWordleにインスパイアされた単語推測ゲーム�
  - **正解を見つける：** 制限回数内に正しい単語を見つけます
 
 
-- Endgame pruning: Before final guesses, shortlist all valid permutations to avoid whiffs.
+- 終盤の絞り込み：最後の数手は候補を整理して、無駄な推測を減らします。
 ### 操作ガイド
 
  - **キーボード：** 文字をタイプ
@@ -32,11 +32,11 @@ Wordlerは、人気のWordleにインスパイアされた単語推測ゲーム�
 ### よくある質問（FAQ）
 
 
-- Q: I get multiple possibles late — how to pick?
+- Q: 終盤で候補が複数残ります。どう選べばいいですか？
 **Wordleとの違いは何ですか？**
 
 
-- Q: Are plurals allowed?
+- Q: 複数形は使えますか？
 似たゲームプレイですが、独自の単語セットと機能があります。
 
 **何回試行できますか？**

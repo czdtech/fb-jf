@@ -19,7 +19,7 @@ We Become What We Beholdは、メディアと社会行動の関係を探るユ�
 ### ゲームプレイガイド
 
 
-The core gameplay involves observing the screen and using your camera to photograph events.
+基本は画面の出来事を観察し、カメラで出来事を撮影していきます。
  - **写真を撮る：** カメラで興味深い瞬間を撮影します
  - **影響を観察：** あなたの写真が人々に与える影響を見ます
  - **連鎖反応：** メディアがどう社会を変えるかを体験します

@@ -18,7 +18,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### Introducción detallada al juego
 
-Tile Journey es un rompecabezas moderno y relajante de combinación de fichas que pone a prueba tu capacidad de planificación. El objetivo es despejar un tablero lleno de fichas seleccionándolas de tres en tres. A diferencia de los match‑3 clásicos, aquí no intercambias posiciones: eliges fichas que se envían a una bandeja limitada en la parte inferior. Cuando se juntan tres iguales, desaparecen. Debes pensar cada movimiento para vaciar el tablero sin que la bandeja se llene.
+Tile Journey es un puzle moderno y relajante de combinación de fichas que pone a prueba tu capacidad de planificación. El objetivo es despejar un tablero lleno de fichas seleccionándolas de tres en tres. A diferencia de los match‑3 clásicos, aquí no intercambias posiciones: eliges fichas que se envían a una bandeja limitada en la parte inferior. Cuando se juntan tres iguales, desaparecen. Debes pensar cada movimiento para vaciar el tablero sin que la bandeja se llene.
 
 ### Estrategia y recorrido de juego
 

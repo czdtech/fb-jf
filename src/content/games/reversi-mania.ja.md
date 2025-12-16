@@ -1,6 +1,6 @@
 ---
 title: Reversi Mania
-description: Reversi Maniaはクラシックな戦略ボードゲームです。ピースをひっくり返し、ボードを支配し、オセロをマスターします。
+description: Reversi Maniaは定番の戦略ボードゲーム（オセロ）です。相手の石を挟んで裏返し、終局時に多い方が勝ちです。
 iframeSrc: 'https://reversimania.h5games.usercontent.goog/v/5k9j2m8h7p3n8/'
 thumbnail: /new-images/reversi-mania.png
 urlstr: reversi-mania
@@ -21,10 +21,10 @@ Reversi Maniaは、Reversi（Othelloとしても知られる）のクラシッ�
 ### ゲームプレイ戦略と攻略法
 
 1.  **コーナーを制御:** コーナーはひっくり返せません。
-2.  **エッジを避ける:" 早すぎるエッジプレイは弱い位置を作成します。
-3.  **移動を制限:" 対戦相手のオプションを減らします。
-4.  **先を考える:" 数手先を計画します。
-5.  **忍耐強く:" 終盤まで移動を保存します。
+2.  **エッジを急がない:** 序盤のエッジ取りは不利になることがあります。
+3.  **手数を管理:** 相手の選択肢（可動性）を減らします。
+4.  **先を考える:** 数手先を見て打ちます。
+5.  **終盤を意識:** 終盤に向けて角や確定石を作ります。
 
 ### 操作ガイド
 
@@ -38,7 +38,7 @@ Reversi Maniaは、Reversi（Othelloとしても知られる）のクラシッ�
   A: はい、Reversiとオセロは同じゲームです。
 - **Q: 難易度レベルはありますか？**  
   A: 多くのバージョンには簡単、中級、難しいAIがあります。
-- **Q: マルチプレイヤーですか？**  
-
-- Any quick tip for beginners? Don’t over‑flip early; fight for mobility and avoid X‑squares until you can secure corners.
+- **Q: 初心者向けのコツはありますか？**  
+  A: 序盤は裏返しすぎず、手数（可動性）を意識します。角を確保できるまでXマスは避けると安定します。
+- **Q: マルチプレイヤーはありますか？**
   A: 一部のバージョンはローカルまたはオンライン対戦を提供します。

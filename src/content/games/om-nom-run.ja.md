@@ -1,6 +1,6 @@
 ---
 title: Om Nom Run
-description: Om Nom Runは楽しいエンドレスランナーです。Om Nomと走り、キャンディを収集し、障害物を避け、できるだけ遠くへ行きます。
+description: Om Nom Runはエンドレスランナーです。走ってキャンディやコインを集め、障害物を避けながら距離とスコアを伸ばします。
 iframeSrc: 'https://omnomrun.h5games.usercontent.goog/v/5h9k2m7j8p3n8/'
 thumbnail: /new-images/om-nom-run.png
 urlstr: om-nom-run
@@ -15,7 +15,7 @@ locale: ja
 
 ### ゲーム紹介
 
-Om Nom Runは、Cut the Ropeシリーズの愛らしいOm Nomをフィーチャーしたエンドレスランナーです。走り、ジャンプし、スライドし、障害物を避けながらキャンディを収集します。パワーアップを使用して距離を延ばし、ハイスコアを獲得します。
+Om Nom Runは、Cut the RopeシリーズのOm Nomが登場するエンドレスランナーです。走り、ジャンプやスライドで障害物を避けながらキャンディを集めます。パワーアップを活用して距離やスコアを伸ばします。
 
 ### ゲームプレイ戦略と攻略法
 
@@ -26,13 +26,13 @@ Om Nom Runは、Cut the Ropeシリーズの愛らしいOm Nomをフィーチャ�
     - **アップグレード:** コインを費やしてパワーアップを改善します。
 
 
-- **Upgrade Your Boosters:** Use the coins you collect to upgrade the duration and effectiveness of your power-ups in the main menu. A longer-lasting magnet or rocket can dramatically improve your scores.
+- **ブースターを強化:** 集めたコインでパワーアップの効果時間や性能を強化できる場合があります。マグネットやロケットの持続が伸びるとスコアが安定します。
 
-- **Focus on Missions:** The game will give you missions to complete during your run (e.g., "Jump 10 times," "Collect 200 coins"). Completing these missions is the fastest way to increase your score multiplier and earn bonus rewards.
+- **ミッションを意識:** 走行中に提示されるミッション（例：「10回ジャンプ」「コインを200枚集める」）を達成すると、スコア倍率や報酬が伸びやすくなります。
 ### 操作ガイド
 
 
-The game uses simple and intuitive swipe gestures.
+操作はスワイプ中心で、直感的に遊べます。
 - スワイプアップ/スペース：ジャンプします。
 - スワイプダウン：スライドします。
 - スワイプ左/右：レーンを変更します。
@@ -45,9 +45,10 @@ The game uses simple and intuitive swipe gestures.
   A: はい、できるだけ遠くへ走ります。
 - **Q: より多くのキャンディを獲得するにはどうすればよいですか？**  
 
-    - **A:** New characters can usually be unlocked by collecting a large number of coins or by gathering special character tokens that appear randomly during runs.
+    - **A:** ミッション達成やパワーアップの活用で走行距離を伸ばし、取り逃しを減らすのが近道です。
 
-- **Q: How do I unlock other characters like Om Nelle?**
+- **Q: 他のキャラクターの解放や、失敗したときの続行はできますか？**
 
-    - **A:** Your run ends. However, you often have the option to spend a special currency (like keys) to get a second chance and continue your run from where you crashed.
+    - **A:** 新しいキャラクターは、コインを一定数集めたり、走行中に出現するトークンを集めたりして解放することが多いです。
+    - **A:** 障害物に当たると走行が終了しますが、キーなどの特殊通貨を使ってその場から続行できる場合があります。
   A: マグネットパワーアップをアップグレードし、慎重に収集します。

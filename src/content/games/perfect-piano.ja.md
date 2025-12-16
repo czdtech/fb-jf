@@ -27,7 +27,7 @@ Perfect Pianoは、画面を降りてくるノートをタップして曲を演�
 ### 操作ガイド
 
 
-The game is played with simple taps or clicks.
+タップまたはクリックのシンプルな操作で遊べます。
 - 降りてくるノートをタップ/クリックします。
 - 正しいタイミングでキーをタップします。
 - より高いスコアのために精度を目指します。
@@ -35,14 +35,14 @@ The game is played with simple taps or clicks.
 ### よくある質問 (FAQ)
 
 - **Q: 音楽知識が必要ですか？**  
-  A: いいえ！タイミングに従うだけです。
+  A: いいえ。タイミングに従うだけです。
     - **Q: どれくらいの曲がありますか？**  
   A: バージョンによって異なります。多くは数十。
 - **Q: より良くなるにはどうすればよいですか？**  
 
-    - **A:** Yes, the game features a library of songs to choose from, often categorized by difficulty. You may need to unlock more difficult songs by successfully completing the easier ones first.
+    - **A:** 多くの場合、難易度別の曲リストがあります。簡単な曲をクリアすると、より難しい曲が解放されることがあります。
 
-- **Q: Can I play different songs?**
+- **Q: 高得点を出すコツはありますか？**
 
-    - **A:** By hitting every single note perfectly. The game tracks your combo, and your score multiplier increases as you hit more notes consecutively without a miss. A perfect run will yield the highest possible score.
+    - **A:** できるだけミスを減らし、コンボを途切れさせないのが重要です。連続で成功するとスコア倍率が上がり、精度が高いほど得点が伸びます。
   A: より簡単な曲を練習し、徐々に難易度を上げます。

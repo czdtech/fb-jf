@@ -30,9 +30,10 @@ parfois à l’envers.
     Parcours ligne par ligne puis colonne par colonne pour ne rien manquer.
 3.  **Cherche des paires de lettres caractéristiques**  
 
-- In timed mode, take short breaks between clusters to avoid tunnel vision.
+- En mode chronométré, fais de courtes pauses entre deux zones pour éviter la
+  vision tunnel.
 
-- Use hints only after a full grid sweep.
+- N’utilise un indice qu’après avoir balayé toute la grille.
     Certaines combinaisons (TH, QU, OU…) sautent plus facilement aux yeux.
 
 ### Commandes
@@ -44,13 +45,13 @@ parfois à l’envers.
 ### Foire aux questions (FAQ)
 
 
-- Q: Do diagonals count?
+- Q: Les diagonales comptent‑elles ?
 **Q : Puis‑je rejouer la grille du jour ?**  
 
-- Q: Can words overlap?
+- Q: Les mots peuvent‑ils se chevaucher ?
 R : Oui, mais les mots seront déjà connus ; c’est surtout utile pour t’entraîner
 
-- Q: Timed vs relaxed — which to pick?
+- Q: Chronométré ou relax — lequel choisir ?
 au repérage rapide.
 
 **Q : Les mots sont‑ils en anglais ?**  

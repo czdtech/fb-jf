@@ -16,7 +16,7 @@ locale: ja
 
 ### ゲーム紹介
 
-Red Ballは、愛らしい赤いボールをフィーチャーしたクラシックなプラットフォームシリーズです。レベルを通してボールを転がしてジャンプし、障害物をナビゲートし、敵を倒し、目標に到達します。シンプルで中毒性のあるゲームプレイ。
+Red Ballは、赤いボールを操作して進むクラシックなプラットフォームゲームです。転がりとジャンプで障害物を越え、敵を避けたり倒したりしながらゴールを目指します。
 
 ### ゲームプレイ戦略と攻略法
 
@@ -42,9 +42,9 @@ Red Ballは、愛らしい赤いボールをフィーチャーしたクラシッ
   A: はい、ほとんどのバージョンはタッチコントロールを持っています。
 
 
-**A**: Most levels don't have strict time limits, but completing them quickly can result in better ratings.
+**A**: 多くのレベルには厳密な時間制限はありません。ただし早くクリアすると評価が上がる場合があります。
 
-- **Q: Is there a time limit?**
+- **Q: 時間制限はありますか？**
 
 
-**A**: Most levels don't have strict time limits, but completing them quickly can result in better ratings.
+**A**: 多くのレベルには厳密な時間制限はありません。ただし早くクリアすると評価が上がる場合があります。

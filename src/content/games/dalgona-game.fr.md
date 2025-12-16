@@ -31,9 +31,9 @@ Le défi réside dans la précision de tes gestes et parfois dans un temps limit
     Ralentis encore davantage dans les virages ou les pointes.
 3.  **Garde un œil sur le chrono**  
 
-- Manage the timer by alternating quick/slow sections.
+- Gère le chrono en alternant sections rapides et sections lentes.
 
-- Save tight angles for last after stabilizing long edges.
+- Garde les angles serrés pour la fin, après avoir sécurisé les longs segments.
     Si un temps limite est imposé, trouve un équilibre entre vitesse et
     précision.
 
@@ -46,14 +46,14 @@ Le défi réside dans la précision de tes gestes et parfois dans un temps limit
 ### Foire aux questions (FAQ)
 
 
-- Q: I keep cracking near corners — how to fix?
+- Q: Je casse toujours près des angles — comment faire ?
 **Q : Que se passe‑t‑il si le biscuit se casse ?**  
 
-- Q: Is pressure modeled?
+- Q: La pression est‑elle prise en compte ?
 R : La partie est perdue pour ce niveau, mais tu peux le relancer.
 
 
-- Q: Any tips for stars/umbrellas?
+- Q: Une astuce pour les étoiles/parapluies ?
 **Q : Les formes changent‑elles ?**  
 R : Oui, chaque niveau peut proposer un motif différent, avec une difficulté
 croissante.

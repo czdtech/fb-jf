@@ -7,6 +7,8 @@ export async function getStaticPaths() {
   const allGames = await getCollection('games');
   // 只使用英文 canonical 游戏作为分类基准，避免各语言版本重复出现在分类列表中
   const canonicalGames = allGames.filter((game) => game.data.locale === 'en');
+  const getCanonicalSlug = (entry: CollectionEntry<'games'>): string =>
+    String(entry.data.urlstr || entry.slug).replace(/^\/+/, '').replace(/\/+$/, '');
   const normalizeTag = (tag: string): string => tag.trim().toLowerCase();
   // Minimal slugify: convert spaces to hyphens (tags already normalized)
   const slugify = (normalizedTag: string): string => normalizedTag.replace(/\s+/g, '-');
@@ -30,12 +32,13 @@ export async function getStaticPaths() {
       )
     );
 
-    // Sort games by release date, newest first
-    // Handle missing releaseDate by defaulting to 0 (oldest)
+    // Deterministic sort: releaseDate desc, then slug asc (avoid unstable ordering on ties).
     filteredGames.sort((a, b) => {
-      const dateA = a.data.releaseDate ? new Date(a.data.releaseDate).getTime() : 0;
-      const dateB = b.data.releaseDate ? new Date(b.data.releaseDate).getTime() : 0;
-      return dateB - dateA; // Newest first
+      const dateA = a.data.releaseDate ? a.data.releaseDate.getTime() : 0;
+      const dateB = b.data.releaseDate ? b.data.releaseDate.getTime() : 0;
+      const byDate = dateB - dateA;
+      if (byDate !== 0) return byDate;
+      return getCanonicalSlug(a).localeCompare(getCanonicalSlug(b));
     });
 
     return {

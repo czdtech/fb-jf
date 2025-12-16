@@ -21,8 +21,13 @@ façon cartoon des années 30 et des combats de boss très difficiles. Cuphead e
 Mugman affrontent une galerie d’ennemis hauts en couleur dans des niveaux mêlant
 
 - **Run & Gun Levels**: More traditional side-scrolling platforming stages where players must navigate through hordes of smaller enemies to reach the end. These levels are the primary source of coins, which are used to purchase new weapons and charms.
+- **Niveaux Run & Gun** : des niveaux de plateforme plus classiques où tu dois
+  traverser des hordes d’ennemis jusqu’à la fin. Ils sont souvent la principale
+  source de pièces, utilisées pour acheter de nouvelles armes et des charmes.
 
-- **Boss Battles**: The core of the game. These are multi-phase encounters against large, creative enemies, each with a unique set of attack patterns that must be memorized and overcome.
+- **Combats de boss** : le cœur du jeu. Ce sont des affrontements en plusieurs
+  phases contre de gros ennemis créatifs, chacun avec des patterns d’attaque à
+  mémoriser et surmonter.
 run & gun et affrontements de boss.
 
 Le gameplay repose sur la mémorisation des patterns d’attaque et un timing
@@ -45,13 +50,22 @@ parfait pour esquiver, tirer et utiliser tes capacités spéciales.
     et où tu es en sécurité.
     - **Accepte les défaites comme apprentissage**  
 
-    - **Co-op Can Be a Blessing and a Curse**: In two-player mode, you can revive your partner with a parry slap on their ghost. However, bosses have increased health, and the screen becomes much more chaotic. Communication is essential for success.
+    - **Le coop peut aider… ou compliquer** : à deux, tu peux ranimer ton
+      partenaire en parant (parry) son fantôme. En contrepartie, les boss ont plus
+      de vie et l’écran devient plus chaotique. La coordination fait la différence.
 
-- **Use the Lock Button**: The "Lock" button allows you to stand in place and aim in 8 directions. This is crucial for hitting bosses or weak points that are not directly in front of you, all while you focus on dodging projectiles.
+- **Utilise le bouton “Lock”** : il te permet de rester en place et de viser en
+  8 directions. C’est utile pour toucher un boss (ou un point faible) sans être
+  obligé d’avancer, tout en te concentrant sur l’esquive.
 
-- **Don't Get Greedy**: A common mistake is trying to squeeze in one extra shot when you should be dodging. It is always better to avoid taking damage than to deal a little bit more. Stay patient and wait for safe openings to attack.
+- **Ne sois pas gourmand** : vouloir placer “un tir de plus” au lieu d’esquiver
+  est une erreur classique. Mieux vaut éviter les dégâts que gratter un peu de
+  DPS. Reste patient et attends des ouvertures sûres.
 
-- **Weapons and Charms**: Don't stick with the default weapon. Use the coins from Run & Gun levels to buy new ones. The **Spread** shot is excellent for close-range damage, while the **Chaser** is great for when you need to focus entirely on dodging. For charms, the **Smoke Bomb** (which makes your dash invincible) is widely considered the best for beginners.
+- **Armes et charmes** : ne reste pas sur l’arme de base. Utilise les pièces des
+  niveaux Run & Gun pour en acheter d’autres. Le tir **Spread** est excellent à
+  courte portée, tandis que **Chaser** est pratique quand tu dois surtout esquiver.
+  Côté charmes, **Smoke Bomb** (dash invincible) est souvent conseillé aux débutants.
     Cuphead est fait pour être dur : chaque échec t’apprend un peu mieux le
     combat.
 
@@ -63,17 +77,17 @@ parfait pour esquiver, tirer et utiliser tes capacités spéciales.
 - **Pause / Options** : via le menu du jeu.
 
 
-- **EX Move / Super Art (when meter is full)**: `E` or `Q`
+- **EX Move / Super (jauge pleine)** : `E` ou `Q`
 
-- **Switch Weapon**: `C` or `Tab`
+- **Changer d’arme** : `C` ou `Tab`
 
-- **Lock (Hold to stay in place)**: `V` or `Right Ctrl`
+- **Lock (maintenir pour rester en place)** : `V` ou `Ctrl` droite
 
-- **Dash / Dodge**: `Left Shift`
+- **Dash / esquive** : `Shift` gauche
 
-- **Shoot**: `X` or `Left Ctrl`
+- **Tirer** : `X` ou `Ctrl` gauche
 
-- **Jump**: `Z` or `Space Bar`
+- **Sauter** : `Z` ou `Espace`
 ### Foire aux questions (FAQ)
 
 **Q : Cette version contient‑elle le jeu complet ?**  
@@ -84,10 +98,15 @@ niveaux inspirés de l’original.
 R : Certaines versions web ne gèrent pas bien le coop, contrairement au jeu
 original sur PC/console.
 
-It depends on the players. The ability to revive a fallen partner is a huge advantage. However, bosses have more health, and with two characters and double the projectiles on screen, it can become visually overwhelming. It can be easier if you have good coordination with your partner.
+Ça dépend des joueurs. Pouvoir ranimer un partenaire est un gros avantage. En
+revanche, les boss ont plus de vie et, avec deux personnages et plus de
+projectiles à l’écran, ça peut devenir difficile à lire. Avec une bonne
+coordination, ça peut être plus simple.
 
-**5. Is two-player co-op easier?**
+**5. Le coop à deux joueurs est‑il plus facile ?**
 
-Their primary purpose is to provide you with **coins**. You need these coins to buy essential weapons and charms from the shop (Porkrind's Emporium), which are critical for defeating the bosses.
+Leur rôle principal est de te fournir des **pièces**. Tu en as besoin pour
+acheter des armes et des charmes importants dans la boutique (Porkrind’s
+Emporium), qui peuvent être décisifs pour battre les boss.
 
-**4. What is the point of the Run & Gun levels?**
+**4. À quoi servent les niveaux Run & Gun ?**

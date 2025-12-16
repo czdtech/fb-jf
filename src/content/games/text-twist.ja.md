@@ -24,7 +24,7 @@ Text Twistは、与えられた文字セットから単語を作るクラシッ�
  - **時間管理：** 制限時間内にクリアします
 
 
-- **"Twist" Button:** Use the "Twist" button (or spacebar) to shuffle the letters, which can help you spot new words.
+- **「Twist」ボタン：** 「Twist」ボタン（またはスペースバー）で文字をシャッフルすると、新しい単語に気づきやすくなります。
 ### 操作ガイド
 
  - **キーボード：** 文字をタイプして単語を入力
@@ -32,7 +32,7 @@ Text Twistは、与えられた文字セットから単語を作るクラシッ�
  - **Twist：** 文字を再配置
 
 
-- **Clear Word:** Click the "Clear" button or press `Backspace`.
+- **単語を消す：** 「Clear」ボタン、または `Backspace` で消せます。
 ### よくある質問（FAQ）
 
 **ゲームの目標は何ですか？**

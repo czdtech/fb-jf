@@ -39,9 +39,9 @@ Nature Strikes Backは、自然が反撃するユニークな戦略ゲームで�
   A: 時間とともに再生するのを待つか、より効率的に管理します。
 - **Q: すべてのレベルは勝てますか？**  
 
-    - **A:** Not necessarily. It's often better to focus on merging to create one or two very powerful Guardians first, rather than deploying many weak ones. A single high-level Guardian can often do more damage than several low-level ones combined.
+    - **A:** レベルによって難易度は変わります。弱いユニットを数で並べるより、合成や強化で少数の強い守護者を作ってから展開した方が安定することが多いです。
 
-- **Q: Should I fill all my deployment slots quickly?**
+- **Q: 配置スロットは早めに埋めるべきですか？**
 
-    - **A:** If an enemy reaches the Heart of Nature at the end of the path, you will lose one life or health point. If your health reaches zero, you lose the level.
-  A: はい、適切な戦略で。
+    - **A:** 必ずしも急ぐ必要はありません。敵が終点（Heart of Nature）に到達するとライフが減り、0になると敗北です。まずは要所に確実な防衛を置き、余裕が出てから増やしましょう。
+  A: 多くの場合、戦略次第でクリアできます。

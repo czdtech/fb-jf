@@ -1,6 +1,6 @@
 ---
 title: Raft Wars
-description: Raft Wars��シューティング戦略ゲームです。角度を狙い、敵を撃ち、宝物を守り、いかだ戦争をマスターします。
+description: Raft Warsは物理ベースのシューティングゲームです。角度とパワーを調整して敵を狙い、いかだの上で戦います。
 iframeSrc: 'https://raftwars.h5games.usercontent.goog/v/2j9k5m8h7p3n8/'
 thumbnail: /new-images/raft-wars.png
 urlstr: raft-wars
@@ -33,7 +33,7 @@ Raft Warsは、2人の兄弟が自分たちのいかだから埋蔵された宝�
 - ターンベースの戦闘。
 
 
-- **Move**: In some levels, you may be able to move your raft position to get better shooting angles.
+- **移動**: レベルによっては、いかだの位置を動かして撃ちやすい角度を作れる場合があります。
 ### よくある質問 (FAQ)
 
 - **Q: 最高のアップグレードは何ですか？**  
@@ -44,9 +44,9 @@ Raft Warsは、2人の兄弟が自分たちのいかだから埋蔵された宝�
   A: いいえ、シングルプレイヤーキャンペーンです。
 
 
-**A**: If your character gets knocked into the water, you typically lose health or need to restart the level.
+**A**: 水に落とされると、体力が減ったりレベルをやり直したりすることが多いです。
 
-- **Q: What happens if I get knocked off?**
+- **Q: 水に落とされるとどうなりますか？**
 
 
-**A**: If your character gets knocked into the water, you typically lose health or need to restart the level.
+**A**: 水に落とされると、体力が減ったりレベルをやり直したりすることが多いです。

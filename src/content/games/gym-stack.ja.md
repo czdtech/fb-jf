@@ -1,6 +1,6 @@
 ---
 title: "Gym Stack"
-description: "Gym Stackでウェイトを積み重ねて障害物を打ち砕こう！ウェイトを集めて強くなる、楽しくてやりがいのあるランナーゲーム。"
+description: "Gym Stackはウェイトを積み重ねてマージする3Dパズルです。同じ色とサイズを揃えて合体させ、バーが埋まる前にスペースを確保しましょう。"
 iframeSrc: "https://gymstack.h5games.usercontent.goog/v/3js1l1d7rdkfg/"
 thumbnail: "/new-images/gym-stack.jpeg"
 urlstr: "gym-stack"

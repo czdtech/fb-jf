@@ -14,46 +14,46 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### Présentation du jeu
 
-*Block Breaker King* est un puzzle de placement : tu choisis des blocs façon Tetris et tu les poses sur une grille fixe. Chaque ligne horizontale ou verticale complétée est détruite, ce qui libère de l’espace pour les pièces suivantes. La partie se termine dès qu’aucune pièce ne peut être posée, donc la planification de l’espace est primordiale.
+*Block Breaker King* est un casse‑briques arcade : tu déplaces une raquette pour renvoyer la balle et casser toutes les briques à l’écran. L’objectif est de nettoyer le niveau sans laisser passer la balle.
 
-Les pièces à jouer apparaissent en bas de l’écran et certains modes révèlent aussi les pièces à venir. Tu dois donc anticiper l’arrivée des pièces volumineuses et conserver des zones de secours.
+Au fil des niveaux, la disposition des briques change et des bonus peuvent apparaître (multi‑balles, raquette élargie, tirs, etc.). L’angle de rebond dépend de l’endroit où la balle touche la raquette, ce qui te permet de viser certaines zones.
 
-Le mode « Mission » ajoute des objectifs concrets (lignes à effacer, score à atteindre, survie) qui débloquent des niveaux successifs en plus du mode infini classique.
+Selon la version, le mode « Mission » ajoute des objectifs (briques à détruire, score à atteindre, niveau à terminer rapidement) qui débloquent des niveaux successifs, en plus d’un mode plus libre orienté score.
 
 ### Guide de jeu
 
-1.  **Priorise les lignes :** cherche en priorité à compléter des lignes ou à préparer une ligne facile à fermer dans les deux prochains coups.
-2.  **Bannir les trous uniques :** une case isolée au centre devient vite un piège. Reviens rapidement à une surface plane.
-3.  **Planifie avec les aperçus :** quand tu vois les prochaines pièces, pense en séquences plutôt qu’en placements isolés.
-4.  **Travaille les coins et les bords :** construis à partir des extrémités pour laisser le centre libre aux pièces volumineuses.
-5.  **Ne force pas les combos :** mieux vaut effacer une seule ligne proprement que tenter un combo qui créerait une cavité.
-6.  **Réserve de l’espace aux gros blocs :** garde toujours un carré de 3×3 ou une bande de 5 cases libre pour les pièces les plus encombrantes.
+1.  **Contrôle l’angle :** dévie la balle en la prenant sur le bord de la raquette pour atteindre les briques difficiles.
+2.  **Joue la sécurité :** quand la balle descend vite, privilégie un renvoi simple plutôt qu’un tir risqué.
+3.  **Ouvre des couloirs :** casse quelques briques pour créer des trajectoires qui permettent à la balle de remonter longtemps.
+4.  **Gère les bonus :** récupère les améliorations utiles (multi‑balles, raquette plus large) et évite celles qui te pénalisent si elles existent.
+5.  **Nettoie les zones bloquantes :** si une rangée protège tout un bloc de briques, vise-la en priorité pour accélérer la progression.
+6.  **Reste attentif à la vitesse :** certains niveaux accélèrent la balle. Anticipe en gardant la raquette bien placée sous l’axe de descente.
 
 ### Commandes
 
 Le gameplay est pensé pour un contrôle tactile ou à la souris.
 
-*   **Sélectionner/placer :** fais glisser la pièce choisie depuis le bas de l’écran, positionne‑la sur la grille et relâche pour la déposer.
-*   **Rotation :** selon le mode, un tap/clic supplémentaire permet de faire pivoter la pièce avant de la poser.
+*   **Déplacer la raquette :** déplace la souris (ou glisse au doigt) pour positionner la raquette.
+*   **Lancer / tirer (si disponible) :** clique/tape pour lancer la balle ou activer un tir, selon le mode.
 
 ### Foire aux questions (FAQ)
 
 **1. Y a‑t‑il une limite de temps ?**
 
-Non, la pression ne vient que de la place restante sur la grille.
+Souvent non, mais certains modes ou niveaux peuvent être chronométrés selon la version.
 
-**2. Peut‑on tourner les pièces ?**
+**2. Peut‑on contrôler l’angle de la balle ?**
 
-Cela dépend du mode. Le mode classique supprime souvent la rotation, ce qui rend l’anticipation encore plus importante.
+Oui. L’endroit où la balle touche la raquette influence sa direction : plus tu la prends sur un bord, plus tu obtiens un angle marqué.
 
 **3. Que propose le mode Mission ?**
 
-Chaque mission impose un objectif (effacer X lignes, marquer Y points, survivre Z pièces). Les terminer débloque la mission suivante.
+Des objectifs de niveau (détruire certaines briques, atteindre un score, terminer une configuration) qui débloquent des missions successives, selon la version.
 
 **4. Comment améliorer mon score ?**
 
 Les scores montent plus vite en :
 
-*   enchaînant des effacements multiples
-*   restant en vie longtemps pour poser davantage de pièces
-*   exploitant les blocs spéciaux (bombes, etc.) disponibles dans certains niveaux
+*   enchaînant les briques sans perdre la balle
+*   récupérant les bonus utiles (multi‑balles, puissance, etc.) quand ils apparaissent
+*   terminant rapidement les niveaux si un bonus de temps existe

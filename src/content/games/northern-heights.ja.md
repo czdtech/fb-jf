@@ -1,6 +1,6 @@
 ---
 title: Northern Heights
-description: Northern Heightsは登山サバイバルゲームです。山を登り、リソースを管理し、天候を乗り越え、頂上に到達します。
+description: Northern Heightsは登山サバイバルゲームです。エネルギーや防寒などのリソースを管理しながらルートを選び、頂上を目指します。
 iframeSrc: 'https://northernheights.h5games.usercontent.goog/v/2h8k5m9j7p3n8/'
 thumbnail: /new-images/northern-heights.png
 urlstr: northern-heights
@@ -15,11 +15,11 @@ locale: ja
 
 ### ゲーム紹介
 
-Northern Heightsは、挑戦的な山を登ることに挑戦します。リソース（エネルギー、ウォームス、サプライ）を管理し、天候と戦い、危険なルートをナビゲートし、頂上に到達します。戦略的な計画と賢いリソース管理が重要です。
+Northern Heightsは、険しい山の登頂を目指すサバイバルゲームです。リソース（エネルギー、防寒、サプライ）を管理し、天候を見ながらルートを選んで頂上を目指します。計画性とリソース管理が重要になります。
 
 ### ゲームプレイ戦略と攻略法
 
-1.  **リソースを管理:** エネルギーとウォームスを注意深く監視します。
+1.  **リソースを管理:** エネルギーと防寒を注意深く監視します。
 2.  **天候を計画:** 嵐の間は避難所を探します。
 3.  **ルートを選択:** より安全なパスはより遅いかもしれませんが、より安全です。
 4.  **休息ポイント:** 定期的に休んでリソースを回復します。
@@ -39,5 +39,5 @@ Northern Heightsは、挑戦的な山を登ることに挑戦します。リソ�
   A: リスクと速度のバランス。あなたのリソースに依存します。
 - **Q: 複数回プレイできますか？**  
 
-    - **A:** Coins can be used to purchase customization options for your character, including new boards and clothing.
-  A: はい、異なるルートと戦略を試してください。
+    - **A:** はい。選ぶルートや判断によって展開が変わるため、何度でも遊べます。
+  A: はい。異なるルートや戦略を試してみてください。

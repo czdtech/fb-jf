@@ -23,82 +23,49 @@ locale: ja
 
 ### ゲーム攻略と戦略
 
-基本は「2」と同じですが、初代ならではのポイントもあります。
+効率よく伸ばすには、「いつ何を買うか」「いつ転生するか」を決めるのが重要です。
 
+**1. 序盤（最初のラン）：**
+*   **初期クリック:** まずは大クッキーをクリックして、最初の施設（カーソル）を買えるまで稼ぎます。
+*   **施設を購入:** 基本は「今買える中で一番効率の良い施設」をこまめに増やします。新しい施設が解放されたら一度は買って、アップグレード解放条件を満たすのも有効です。
+*   **ゴールデンクッキーは必ずクリック:** 数分おきにランダム出現します。Frenzy（生産7倍）やClick Frenzy（クリック777倍）などの強力な一時ボーナスが進行の鍵です。
+*   **アップグレードを買う:** ストアにアップグレードが出たら優先して購入しましょう。多くがCpS（秒間生産量）を大きく底上げします。
 
-**1. Early Game (Your First Run):**
-1.  **ゴールデンクッキー:** 最重要要素です。画面のどこかに現れる小さな金色のクッキーをクリックすると、「生産量7倍」や「クリック威力777倍」などの爆発的なボーナスが得られます。これをいかに活用するかが攻略の鍵です。
-2.  **実績とミルク:** 実績（Achievement）を解除すればするほど、画面左下のミルクの色が濃くなり、猫（Kitten）のアップグレード効果が高まります。猫のアップグレードはゲーム内で最も強力な効果の一つです。
-3.  **転生（Ascension）:** ある程度進めて進捗が遅くなったら、「Legacy」ボタンから転生しましょう。「ヘブンリーチップス（Heavenly Chips）」を獲得し、次回プレイ時から恒久的なボーナスを得て強くてニューゲームができます。
-4.  **グランマポカリプス:** 研究施設を購入していくと、「Bingo center」などのアップグレードが出現し、おばあちゃんが異変を起こし始めます。背景が変わり、クッキーが赤くなりますが、勇気を出して進めることで強力な（しかしリスクもある）恩恵を受けられます。
+**2. 中盤（転生準備）：**
+*   **転生（Ascension）とは？:** クッキーや施設などの進行をリセットする代わりに、Heavenly Chips と Prestige Levels を獲得し、以降の周回に恒久ボーナスを付ける仕組みです。Prestigeは将来のCpSに+1%/レベルの永久補正になります。
+*   **初回転生の目安:** 一般的にはPrestige Levelが200〜440程度貯まってからが効率的です。Legacy の Stats で目安を確認できます。
+*   **Heavenly Chips の使い道:** 転生後の画面で永続アップグレードを購入できます。初回は「Persistent memory」「How to bake your dragon」「Cookie box」系など、基礎的な強化から取ると楽になります。
 
+**3. 終盤（効率化とミニゲーム）：**
+*   **周回ループ:** 短時間で施設とアップグレードを揃え、ゴールデンクッキーコンボを狙い、行けるところまで進めて転生…を繰り返して伸ばします。
+*   **グランマポカリプス:** 「Bingo center」など特定研究で発生し、見た目やクッキー出現が変化します（Wrath Cookiesが混ざるなど）。リスクとリターンを踏まえて方針を決めましょう。
+*   **ミニゲーム:** 角砂糖で施設を強化すると、Garden/Pantheon/Grimoireなどが解放されます。管理は増えますが、長期的なブーストが大きいです。
+*   **角砂糖（Sugar Lumps）：** 約24時間に1個入手できます。施設レベルを上げてその施設のCpSに永久+1%を付けるなど、貴重なリソースなので計画的に使いましょう。
 
-- **Sugar Lumps**: You get one Sugar Lump about every 24 hours. These can be used to level up your buildings, with each level granting a permanent +1% CpS bonus to that building type. Use them wisely.
-
-- **Minigames**: As you level up certain buildings with Sugar Lumps, you unlock complex minigames (the Garden, the Pantheon, the Grimoire). Mastering these provides huge long-term bonuses but requires active management.
-
-- **The Grandmapocalypse**: Researching specific "Bingo center" upgrades will trigger the Grandmapocalypse. This changes the game's appearance and replaces Golden Cookies with "Wrath Cookies," which have a chance of giving negative effects. It's a strategic choice: you can either embrace it for its unique rewards or pay to appease the grandmas and end it.
-
-- **The Loop**: The late game consists of repeating the cycle: start a new run, buy buildings and upgrades quickly, leverage Golden Cookie combos (e.g., getting a "Frenzy" and a "Click Frenzy" at the same time for a massive boost), push as far as you can, and ascend again for more Prestige.
-
-**3. Late Game (Efficient Runs & Minigames):**
-
-- **Spending Heavenly Chips**: After ascending, you enter a new screen where you can spend your Heavenly Chips on powerful, permanent celestial upgrades. For your first ascension, focus on upgrades like "Persistent memory," "How to bake your dragon," and the "Cookie box" upgrades.
-
-- **When to Ascend First**: The most common advice is to ascend for the first time when you have accumulated **200-440** Prestige Levels. Ascending too early is inefficient. You can see your potential prestige level in the "Stats" menu under "Legacy."
-
-- **What is Ascension?**: Ascension is the game's prestige mechanic. You can choose to reset your game (losing your cookies, buildings, and upgrades) in exchange for Heavenly Chips and Prestige Levels. Each Prestige Level gives a permanent +1% boost to your CpS for all future playthroughs.
-
-**2. Mid Game (Preparing for Ascension):**
-
-- **Sugar Lumps**: You get one Sugar Lump about every 24 hours. These can be used to level up your buildings, with each level granting a permanent +1% CpS bonus to that building type. Use them wisely.
-
-- **Minigames**: As you level up certain buildings with Sugar Lumps, you unlock complex minigames (the Garden, the Pantheon, the Grimoire). Mastering these provides huge long-term bonuses but requires active management.
-
-- **The Grandmapocalypse**: Researching specific "Bingo center" upgrades will trigger the Grandmapocalypse. This changes the game's appearance and replaces Golden Cookies with "Wrath Cookies," which have a chance of giving negative effects. It's a strategic choice: you can either embrace it for its unique rewards or pay to appease the grandmas and end it.
-
-- **The Loop**: The late game consists of repeating the cycle: start a new run, buy buildings and upgrades quickly, leverage Golden Cookie combos (e.g., getting a "Frenzy" and a "Click Frenzy" at the same time for a massive boost), push as far as you can, and ascend again for more Prestige.
 ### 操作ガイド
 
+ほとんどはマウス操作ですが、いくつかのUIとショートカットを覚えると効率が上がります。
 
-The game is controlled almost entirely with the mouse, but a few key interface elements are important.
-*   **クリック:** 大クッキーをクリックして生産。
-*   **長押し:** CtrlキーやShiftキーを押しながら購入ボタンを押すと、10個、100個単位でまとめ買いできます。
-*   **セーブ:** 基本的に自動セーブですが、「Options」から手動セーブや、セーブデータの「エクスポート（書き出し）」が可能です。大切なデータは定期的にエクスポートしてテキストとして保存しておきましょう。
+*   **クリック:** 大クッキー、ゴールデンクッキー、アップグレード、施設をクリックします。
+*   **まとめ買い切り替え:** ストア上部で、施設を1/10/100単位で購入する切り替えができます。終盤は「100購入」が効率的です。
+*   **キーボードショートカット:**
+    *   **Ctrl + Shift + クリック:** 10個購入
+    *   **Ctrl + クリック:** 100個購入
+    *   **Shift + クリック:** 1000個購入
 
-
-    - **SHIFT + Click**: Buys 1000 of a building/upgrade.
-
-    - **CTRL + Click**: Buys 100 of a building/upgrade.
-
-    - **CTRL + SHIFT + Click**: Buys 10 of a building/upgrade.
 ### よくある質問 (FAQ)
 
+**1. 転生（Ascension）のベストタイミングは？**
+初回はPrestige Levelが200〜440程度貯まってからが目安です。それ以降は進行が明確に鈍ったら転生し、効率の良い周回を重ねましょう。
 
-No. The game is designed to be effectively endless. The goal is to see the numbers go up and to unlock all achievements and upgrades, which is a monumental task.
+**2. グランマポカリプスの目的は？発動すべき？**
+強力なアップグレードや実績を解放できますが、Wrath Cookiesによるデメリットもあります。序盤は避け、中盤以降で戦略として受け入れるのも、抑制するのもどちらも有効です。
 
-**5. Is there an end to Cookie Clicker?**
+**3. 角砂糖（Sugar Lumps）は最初に何に使うべき？**
+最初の1個はFarmをレベル1にしてGardenを開放するのが定番です。その後はWizard Towers（Grimoire）やTemples（Pantheon）など、ミニゲーム解放を優先すると伸びが良いです。
 
-It's mostly based on luck. The spell "Force the Hand of Fate" from the Grimoire (Wizard Tower minigame) allows you to spawn an extra Golden Cookie, which is the primary method for intentionally creating powerful combos.
+**4. ゴールデンクッキーのコンボはどう作る？**
+基本は運ですが、Grimoire（魔法の塔ミニゲーム）の「Force the Hand of Fate」で追加のゴールデンクッキーを出せます。FrenzyとClick Frenzyを重ねるなど、強い組み合わせを狙いましょう。
 
-**4. How do I get Golden Cookie combos?**
-
-A good strategy is to use your first Sugar Lump to upgrade your Farms to level 1 to unlock the Garden minigame. After that, upgrading Wizard Towers to unlock the Grimoire and Temples to unlock the Pantheon are high priorities.
-
-**3. What should I spend my Sugar Lumps on first?**
-
-The Grandmapocalypse unlocks powerful upgrades and achievements. However, Wrath Cookies can be detrimental. Many players choose to stay in the first stage of it, which gives a mix of Golden and Wrath cookies, or they avoid it entirely until they are powerful enough to not care about the negative effects. It's a valid strategic choice either way.
-
-**2. What is the point of the Grandmapocalypse? Should I activate it?**
-
-For your first ascension, wait until you have at least 200-440 Prestige Levels. After that, ascend whenever your progress slows down significantly. An efficient run in the mid-to-late game might last a few hours or a day.
-
-**1. When is the best time to ascend?**
-*   **Q: 放置しているだけでいいですか？**
-    *   **A:** 自動で増えますが、張り付いて「ゴールデンクッキー」をクリックする方が圧倒的に早く増えます。本気で攻略するなら「アクティブプレイ」が推奨されます。
-
-*   **Q: データの引き継ぎはできますか？**
-    *   **A:** ブラウザのキャッシュをクリアすると消えてしまうことがあります。必ず「Options」から「Export save」を選んで、長い文字列をコピーし、メモ帳などに保存しておいてください。復元時は「Import save」に貼り付けます。
-
-*   **Q: グランマポカリプスを止める方法は？**
-    *   **A:** 異変が進行すると、「Elder Pledge（誓約）」や「Elder Covenant（契約）」というアイテムが購入できるようになります。これらを購入することで一時的、あるいは永続的にポカリプスを鎮めることができます。
+**5. Cookie Clicker に終わりはありますか？**
+ありません。数字を伸ばし続け、実績やアップグレードを集めていく「終わりのない」放置ゲームです。

@@ -1,6 +1,6 @@
 ---
 title: Shootz
-description: Shootzは高速シューティングゲームです。ターゲットを撃ち、反射神経をテストし、精度をマスターし、射撃チャンピオンになります。
+description: Shootzはターゲットを素早く撃つシューティングです。反射神経と正確さでスコアを伸ばします。
 iframeSrc: 'https://shootz.h5games.usercontent.goog/v/2j9k5m8h7p3n8/'
 thumbnail: /new-images/shootz.png
 urlstr: shootz
@@ -19,22 +19,22 @@ Shootzは、ターゲットを素早く正確に撃つことに挑戦します�
 
 ### ゲームプレイ戦略と攻略法
 
-1.  **素早く反応:" ターゲットは速く消えます。
-2.  **正確に狙う:" ミスショットはポイントを失います。
-3.  **パターンを学ぶ:" ターゲットのスポーンパターンを記憶します。
-4.  **冷静を保つ:" パニックは精度を低下させます。
-5.  **練習:" 繰り返しで反射神経が改善します。
+1.  **素早く反応:** ターゲットはすぐ消えます。
+2.  **正確に狙う:** ミスが多いと得点が伸びません。
+3.  **パターンを覚える:** 出現位置の傾向がある場合は利用します。
+4.  **落ち着く:** 焦るほど精度が落ちます。
+5.  **練習:** 繰り返しで反応が安定します。
 
 ### 操作ガイド
 
 - マウス/タッチ：狙い、射撃します。
 - ターゲットが消える前にクリック/タップします。
-- 高得点のために速く、正確です。
+- 高得点のために素早く、正確に撃ちます。
 
 
-- **Special Skills**: Some versions may include special skills or item usage.
+- **特殊スキル**: バージョンによってはスキルやアイテムが使える場合があります。
 
-- **Weapon Switch**: Use number keys to switch between different weapons.
+- **武器切り替え**: 数字キーで武器を切り替えられる場合があります。
 ### よくある質問 (FAQ)
 
 - **Q: タイムリミットはありますか？**  
@@ -45,9 +45,9 @@ Shootzは、ターゲットを素早く正確に撃つことに挑戦します�
   A: はい、ターゲットは徐々に速くなります。
 
 
-**A**: Practice aiming more, learn to predict moving enemy positions, and adjust mouse sensitivity settings.
+**A**: 狙いの練習を重ね、動くターゲットは少し先を撃つ意識を持つと当てやすくなります。可能ならマウス感度も調整します。
 
-- **Q: How can I improve shooting accuracy?**
+- **Q: 射撃精度を上げるにはどうすればいいですか？**
 
 
-**A**: Practice aiming more, learn to predict moving enemy positions, and adjust mouse sensitivity settings.
+**A**: 狙いの練習を重ね、動くターゲットは少し先を撃つ意識を持つと当てやすくなります。可能ならマウス感度も調整します。

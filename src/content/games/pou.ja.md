@@ -1,6 +1,6 @@
 ---
 title: Pou
-description: Pouはバーチャルペット育成ゲームです。Pouを世話し、餌を与え、遊び、成長させ、楽しいペット体験を楽しみます。
+description: Pouはバーチャルペット育成ゲームです。Pouの世話をし、ミニゲームでコインを集めてカスタマイズします。
 iframeSrc: 'https://pou.h5games.usercontent.goog/v/2j9k5m8h7p3n8/'
 thumbnail: /new-images/pou.png
 urlstr: pou
@@ -31,7 +31,7 @@ Pouは、あなた自身のエイリアンペットPouを育てる愛らしい�
 - ミニゲームでコインを獲得します。
 
 
-- **Customize**: Tap the wardrobe or room icon to enter the customization interface, select and apply decorations.
+- **カスタマイズ**: クローゼットや部屋のアイコンからカスタマイズ画面を開き、装飾や見た目を設定します。
 ### よくある質問 (FAQ)
 
 - **Q: Pouは死にますか？**  
@@ -42,9 +42,9 @@ Pouは、あなた自身のエイリアンペットPouを育てる愛らしい�
   A: バージョンによって異なります。ほとんどは一度に1つ。
 
 
-**A**: The core gameplay of most Pou games can be played offline, but purchasing certain items, participating in online leaderboards, or updating the game may require an internet connection.
+**A**: 多くの場合、基本プレイはオフラインでも可能です。ただしアイテム購入やランキング、更新などでネット接続が必要になることがあります。
 
-- **Q: Does the game require an internet connection?**
+- **Q: インターネット接続は必要ですか？**
 
 
-**A**: The core gameplay of most Pou games can be played offline, but purchasing certain items, participating in online leaderboards, or updating the game may require an internet connection.
+**A**: 多くの場合、基本プレイはオフラインでも可能です。ただしアイテム購入やランキング、更新などでネット接続が必要になることがあります。

@@ -24,31 +24,31 @@ Trap the Catは、猫が六角形のグリッドから逃げないように囲�
  - **勝利：** 猫が動けなくなったら勝ちです
 
 
-- **Encirclement Strategy**: Form a complete encirclement without leaving any escape gaps.
+- **囲い込み：** 逃げ道の隙間を残さず、全周をふさぐ形を作ります。
 ### 操作ガイド
 
  - **マウス：** タイルをクリックしてブロック
 
 
-- **Restart**: If you fail, you can restart the challenge.
+- **リスタート：** 失敗したらやり直せます。
 
-- **Observe Cat**: Watch the cat's current position and possible movement directions.
+- **猫の動きを観察：** 現在位置と、次に動ける方向を見ます。
 ### よくある質問（FAQ）
 
 
-- **Q: How does the cat move?**
+- **Q: 猫はどう動きますか？**
 **ゲームの目標は何ですか？**
 
 
-- **Q: Is there a time limit?**
+- **Q: 時間制限はありますか？**
 猫がグリッドの端に到達する前に完全に囲むことです。
 
 
-- **Q: Is there a limit to the number of obstacles?**
+- **Q: 障害物の数に制限はありますか？**
 **猫はどう動きますか？**
 
 
-- **Q: How can I improve success rate?**
+- **Q: 成功率を上げるには？**
 猫は賢く、最短の逃げ道を見つけようとします。
 
 **戦略はありますか？**

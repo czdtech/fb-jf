@@ -45,11 +45,12 @@ limites de la physique.
 ### Foire aux questions (FAQ)
 
 
-- Shorter, repeated pulls keep the jello‑like jiggle going.
+- Des tirages courts et répétés maintiennent l’effet “gélatine” en mouvement.
 
-- Lower resolution on slower devices for smoother motion.
+- Sur un appareil lent, baisse la résolution pour un mouvement plus fluide.
 
-- Pull from cheeks/forehead for broad wobbles; small pinches create fast ripples.
+- Tire les joues/le front pour de grands rebonds ; de petites pincées créent des
+  ondulations rapides.
 **Q : Y a‑t‑il un but ou un score ?**  
 R : Non, Elastic Man est purement un jouet interactif pour le fun.
 

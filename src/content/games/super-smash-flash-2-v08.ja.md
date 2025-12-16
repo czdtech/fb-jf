@@ -1,8 +1,7 @@
 ---
 title: Super Smash Flash 2 v0.8
 description: >-
-  Super Smash Flash 2 v0.8は、任天堂のSuper Smash
-  Bros.にインスパイアされた人気のファン製格闘ゲームです。さまざまなキャラクターで戦いましょう。
+  Super Smash Flash 2 v0.8は、Super Smash Bros.にインスパイアされた人気のファン製格闘ゲームです。さまざまなキャラクターで対戦できます。
 iframeSrc: 'https://ubg98.github.io/SuperSmashFlash2v08/'
 thumbnail: /new-images/super-smash-flash-2-v08.jpg
 urlstr: super-smash-flash-2-v08
@@ -21,7 +20,7 @@ Super Smash Flash 2 v0.8は、任天堂のSuper Smash Bros.シリーズにイン
 ### ゲームプレイガイド
 
 
-Like its inspiration, the goal is to launch opponents off the screen by increasing their damage percentage.
+元ネタと同様に、相手のダメージ％を上げて画面外へ吹き飛ばすのが目的です。
  - **キャラクターを選択：** 多様なキャラクターロスターから選びます
  - **戦闘：** 相手を攻撃してステージから落とします
  - **特別な技：** 各キャラクターのユニークな技を使用します
@@ -30,23 +29,23 @@ Like its inspiration, the goal is to launch opponents off the screen by increasi
 ### 操作ガイド
 
 
-Controls are fully customizable. A common default layout for Player 1 is:
+操作はカスタマイズ可能で、プレイヤー1の一般的な初期配置は次のとおりです：
  - **矢印キー：** 移動
  - **ASDF キー：** 攻撃と特別な技
  - **スペースバー：** ジャンプ
 
 
-- **Pause:** `Enter`
+- **一時停止：** `Enter`
 
-- **Grab:** `U`
+- **つかみ：** `U`
 
-- **Shield:** `L`
+- **シールド：** `L`
 
-- **Special Attack:** `K`
+- **必殺技：** `K`
 
-- **Standard Attack:** `J`
+- **通常攻撃：** `J`
 
-- **Jump:** `Spacebar`
+- **ジャンプ：** `Spacebar`
 ### よくある質問（FAQ）
 
 **どのキャラクターが使えますか？**

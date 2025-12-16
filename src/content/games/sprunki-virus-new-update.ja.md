@@ -1,8 +1,7 @@
 ---
 title: Sprunki Virus New Update - Play Sprunki Virus New Update Online
 description: >-
-  感覚の限界に挑戦する音楽の旅を渇望していますか？Sprunki
-  Virusは、ウイルスに感染したSprunki世界にあなたを連れて行き、不気味なサウンドスケープ、グリッチしたグラフィックス、激しいゲームプレイメカニクスを使って、前例のないスリリングな体験をもたらします！
+  Sprunki Virusはウイルスに感染した世界観を取り入れたSprunki系Modです。グリッチ風の演出や不穏なサウンドでトラックを作れます。
 iframeSrc: 'https://turbowarp.org/1140189366/embed'
 thumbnail: /sprunki-virus-new-update.png
 urlstr: sprunki-virus-new-update
@@ -13,10 +12,10 @@ locale: ja
 ---
 
 
-Are you craving a musical journey that challenges the limits of your senses? Sprunki Virus will take you into a virus-infested Sprunki world, using eerie soundscapes, glitchy graphics, and intense gameplay mechanics to bring you an unprecedented thrilling experience!
+Sprunki Virusは、ウイルスに感染したような演出とサウンドで雰囲気を作るSprunki系Modです。
 ### Sprunki Virus New Updateの紹介
 
-感覚の限界に挑戦する音楽の旅を渇望していますか？Sprunki Virusは、ウイルスに感染したSprunki世界にあなたを連れて行きます。不気味なサウンドスケープ、グリッチしたグラフィックス、激しいゲームプレイメカニクスを使って、前例のないスリリングな体験をもたらします！
+Sprunki Virusは、ウイルスに感染したSprunki世界をテーマにしたModです。不穏なサウンドスケープやグリッチ調の演出を使って、暗めのトラックを作れます。
 
 ### 主な特徴
 
@@ -32,4 +31,4 @@ Are you craving a musical journey that challenges the limits of your senses? Spr
  - 不気味な音楽トラックを作成
  - 新しいアップデートの機能を探索
 
-Sprunki Virus New Updateで、ウイルスに感染した音楽世界を体験しましょう！
+Sprunki Virus New Updateでは、グリッチ調の演出とサウンドで雰囲気を作りながら曲作りを楽しめます。

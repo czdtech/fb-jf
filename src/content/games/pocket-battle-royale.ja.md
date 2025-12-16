@@ -38,11 +38,11 @@ Pocket Battle Royaleは、バトルロイヤルフォーマットをコンパク
   A: 通常5〜10分。コンパクトなバトルロイヤル。
     - **Q: チームモードはありますか？**  
   A: 一部のバージョンにはデュオまたはスクワッドがあります。
-- **Q: 最高の着陸スポットは何ですか？**  
+- **Q: 目的や着陸スポットの選び方は？**  
 
-    - **A:** To be the last player alive. Eliminate all other opponents to win the match.
+    - **A:** 目的は最後の1人（または最後まで残るチーム）になることです。相手を倒して勝利を目指します。
 
-- **Q: What is the objective of the game?**
+- **Q: 武器やアイテムはどこで手に入りますか？**
 
-    - **A:** All items must be found on the map. Explore the area to find weapons, ammunition, and health packs randomly scattered on the ground.
+    - **A:** 武器や弾薬、回復アイテムなどはマップ上で拾います。周辺を探索して装備を整えましょう。
   A: 良い戦利品を持つエリアですが、混雑しすぎません。

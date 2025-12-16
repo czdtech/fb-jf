@@ -2,6 +2,7 @@
 import { useTranslations, getLocaleFromLangAttr, getLocalizedPath } from '../i18n/utils';
 import { getCanonicalGames, toGameCardData, type GameEntry } from '../lib/canonical-games';
 import { seededShuffle, getTrendingSeed } from '../lib/seeded-shuffle';
+import { loadTrendingItems } from '../lib/trending';
 
 interface Props {
   lang?: string;
@@ -26,8 +27,33 @@ const featuredGames = featuredSlugs
   .map((slug) => canonicalGames.find((g) => getSlug(g) === slug))
   .filter(isEntry);
 
+const bySlug = new Map<string, GameEntry>();
+for (const game of canonicalGames) {
+  bySlug.set(getSlug(game), game);
+}
+
 const pool = canonicalGames.filter((g) => !featuredSet.has(getSlug(g)));
-const randomGames = seededShuffle(pool, seed).slice(0, numberOfGamesToShow);
+
+const trendingItems = loadTrendingItems();
+const pickedSlugs = new Set<string>();
+const pickedGames: GameEntry[] = [];
+
+for (const item of trendingItems) {
+  const slug = item.slug;
+  if (featuredSet.has(slug)) continue;
+  if (pickedSlugs.has(slug)) continue;
+
+  const entry = bySlug.get(slug);
+  if (!entry) continue;
+
+  pickedSlugs.add(slug);
+  pickedGames.push(entry);
+  if (pickedGames.length >= numberOfGamesToShow) break;
+}
+
+const fallbackPool = pool.filter((g) => !pickedSlugs.has(getSlug(g)));
+const fallbackGames = seededShuffle(fallbackPool, seed).slice(0, Math.max(0, numberOfGamesToShow - pickedGames.length));
+const randomGames = [...pickedGames, ...fallbackGames];
 
 const cards = [...featuredGames, ...randomGames].map((entry) => toGameCardData(entry, locale));
 ---

@@ -66,14 +66,14 @@ les prochains runs.
 ### Foire aux questions (FAQ)
 
 
-- Q: I keep coming up short on cash — any tips?
+- Q : Je n’atteins jamais le quota d’argent — des conseils ?
 **Q : Je n’atteins jamais le quota d’or, des conseils ?**  
 
-- Q: Is dynamite worth it?
-R : Concentre‑toi sur les plus grosses pépites et sacs de valeur, surtout au
+- Q : La dynamite vaut‑elle le coup ?
+R : Concentre‑toi sur les plus grosses pépites et sacs de valeur, surtout au milieu du niveau.
 
-- Q: Can I control hook angle precisely?
-milieu du niveau. Évite les rochers, investis tôt dans la puissance de
+- Q : Puis‑je contrôler précisément l’angle du grappin ?
+Évite les rochers, investis tôt dans la puissance de
 remontée, et n’hésite pas à sacrifier un objet grâce à la dynamite si cela te
 fait gagner beaucoup de temps.
 

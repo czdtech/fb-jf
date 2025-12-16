@@ -46,28 +46,31 @@ changeant de côté de tunnel au bon moment.
   mur).  
 - **Pause / Rejouer** : via les boutons d’interface.
 
+### Conseils et stratégies
+
+
+- Q: Niveaux aléatoires ou fixes ?
+
+
+- Traite les courbes comme des “voies” : change tôt, pas au dernier bord.
+
+- Enchaîne dash→saut pour franchir de longs trous ; ne spamme pas le dash sur des
+  plateformes instables.
 ### Foire aux questions (FAQ)
 
+- Traite les courbes comme des “voies” : change tôt, pas au dernier bord.
 
-- Q: Random or fixed levels?
+- Enchaîne dash→saut pour franchir de longs trous ; ne spamme pas le dash sur des
+  plateformes instables.
 
-
-- Treat curves like lanes—switch early, not on the lip.
-
-- Chain dash→jump to cross long gaps; don’t spam dash on unstable tiles.
-### Foire aux questions (FAQ)
-
-- Treat curves like lanes—switch early, not on the lip.
-
-- Chain dash→jump to cross long gaps; don’t spam dash on unstable tiles.
-
-- Center your lane before blind rises; camera shifts can mislead footing.
+- Recentre‑toi avant une montée “aveugle” : les changements de caméra peuvent
+  tromper sur le placement.
 **Q : Le jeu est‑il infini ?**  
 
-- Q: What counts as failure?
+- Q: Qu’est‑ce qui compte comme un échec ?
 R : Oui, la plupart des versions sont endless ; le but est d’aller le plus loin
 
-- Q: Any upgrades?
+- Q: Y a‑t‑il des améliorations ?
 possible.
 
 **Q : Y a‑t‑il des power‑ups ?**  

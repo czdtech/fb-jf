@@ -24,7 +24,7 @@ Tomb of the Maskは、古代の墓の迷路を探索する速いペースのア�
  - **迷路を脱出：** できるだけ高く登ります
 
 
-- **Outrun the Flood:** A colored flood rises from the bottom of the screen, forcing you to move quickly upwards.
+- **洪水から逃げる：** 画面下から色のついた波が迫ることがあり、素早く上へ進む必要があります。
 ### 操作ガイド
 
  - **矢印キー/WASD：** 移動方向

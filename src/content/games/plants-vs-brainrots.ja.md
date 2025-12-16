@@ -1,6 +1,6 @@
 ---
 title: Plants vs Brainrots
-description: Plants vs Brainrotsはタワーディフェンスゲームです。植物を配置し、ブレインロットの波を守り、防御をアップグレードし、庭を守ります。
+description: Plants vs Brainrotsはタワーディフェンスゲームです。植物を配置してブレインロットの波から庭を守り、防御をアップグレードします。
 iframeSrc: 'https://plantsvsbrainrots.h5games.usercontent.goog/v/5k9j2m8h7p3n8/'
 thumbnail: /new-images/plants-vs-brainrots.png
 urlstr: plants-vs-brainrots
@@ -19,9 +19,9 @@ locale: ja
 Plants vs Brainrotsは、クラシックなタワーディフェンスゲームプレイにユーモラスなツイストを追加します。防御植物を配置してブレインロットの侵入から庭を守ります。各植物には独自の能力があります。戦略的に配置してすべての波を生き残ります。
 
 
-The game's immense popularity comes from its witty and constantly updated roster of characters, which directly reflects the ever-changing landscape of internet culture, creating a humorous and engaging experience for a new generation of players.
+本作はインターネット文化をモチーフにしたキャラクターが登場し、独特の雰囲気でタワーディフェンスを遊べます。
 
-The core gameplay remains faithful to the beloved tower defense formula. You plant a variety of "Brainy" plants in your yard, each with unique abilities, to fight off waves of incoming "Brainrots." These enemies are direct representations of the most pervasive internet memes, from the relentless charge of the **Skibidi Toilets** to the formidable defense of the **Sigmas**.
+基本ルールは王道のタワーディフェンスで、能力の違う植物を植えて敵の「Brainrots」の波を迎え撃ちます。敵はインターネットミームを元にした存在として描かれている場合があります。
 ### ゲームプレイ戦略と攻略法
 
 1.  **植物タイプをミックス:** 攻撃、防御、リソース生産をバランスさせます。
@@ -31,45 +31,45 @@ The core gameplay remains faithful to the beloved tower defense formula. You pla
     - **配置が重要:** 攻撃植物を前に、サポートを後ろに。
 
 
-- **Use Your Ultimate Weapon - The "Touch Grass" Lawn Mower**: Just like the original, each lane is protected by a last-resort lawn mower, thematically redesigned as the "Touch Grass" mower. If a Brainrot gets past all your defenses, this will clear the entire lane once, but don't rely on it.
+- **最終手段（芝刈り機）**: レーンごとに最終手段が用意されている場合があります。敵が防衛線を突破すると一度だけレーンを一掃できますが、頼り切らない方が安全です。
 
-    - **Front Row**: Place your defensive Fact-Checker Walls here to act as a barrier, especially against tough Sigmas.
+    - **前列**: 防御役を置いて壁にし、強敵の進行を止めます。
 
-    - **Middle Rows**: Your primary damage dealers, like the Common Sense Shooters or explosive **Meme-Eraser Cherries**.
+    - **中列**: 主力の攻撃役を置き、火力を確保します。
 
-    - **Back Rows**: Reserved for your Focus Flowers.
+    - **後列**: 資源生産や支援役を配置します。
 
-- **The Art of Planting**: A classic layout is key.
+- **基本の配置**: 王道のレイアウトを作るのが安定します。
 ### 操作ガイド
 
 
-As a Roblox game, the controls are simple and mouse-driven.
+操作はシンプルで、マウス（またはタップ）中心です。
 - 植物をクリック/タップして選択します。
 - グリッドに配置します。
 - リソースを管理し、防御をアップグレードします。
 
 
-- **Camera Movement**: Use `W, A, S, D` keys or your mouse to adjust your view of the lawn.
+- **視点移動**: `W, A, S, D`キーやマウスで視点を調整できる場合があります。
 ### よくある質問 (FAQ)
 
 - **Q: 最高の植物の組み合わせは何ですか？**  
   A: サンフラワー（リソース）、シューター（攻撃）、ウォールナット（防御）。
 - **Q: すべての波を生き残るにはどうすればよいですか？**  
-  A: 早期にアップグレードし、レーンを優先��、植物をミックスします。
+  A: 早期にアップグレードし、レーンを優先し、植物をミックスします。
 - **Q: これはPlants vs Zombiesですか？**  
   A: いいえ、同様のゲームプレイですが、異なるテーマです。
 
 
-The website recommends joining the game's official **Discord server**. This is where the developers announce updates, release codes for free items, and interact with the player community.
+案内がある場合は、公式の **Discord** などで更新情報やコード配布が告知されることがあります。
 
-**5. How do I stay updated on new memes and plants added to the game?**
+**5. 新しい要素の追加情報を追うには？**
 
-"Brain Rot" is internet slang for the feeling of one's mind turning to mush after consuming too much low-quality, viral online content. The game cleverly turns the characters from this content into its enemies.
+「Brain Rot」は、質の低いバズコンテンツを見続けた結果、頭がぼんやりする感覚を指すネットスラングです。本作ではこの言葉をモチーフにした敵が登場します。
 
-**4. What is "Brain Rot"?**
+**4. 「Brain Rot」とは何ですか？**
 
-Yes, the game is free-to-play. However, like many Roblox games, it may offer optional in-game purchases (using Robux) for cosmetic items, special plants, or other advantages.
+多くの場合、基本プレイは無料です。ただしRoblox系の作品と同様に、見た目要素などの課金要素が用意されている場合があります。
 
-**3. Is the game free?**
+**3. 無料で遊べますか？**
 
-No. The website and the game itself clarify that it is a **fan-made parody** and is not affiliated with PopCap or Electronic Arts (EA), the creators of the original *PvZ*.
+いいえ。本作は **ファンメイドのパロディ** とされており、原作 *PvZ* の開発元（PopCap / EA）とは無関係である旨が示される場合があります。

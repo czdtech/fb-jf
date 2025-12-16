@@ -16,11 +16,11 @@ score: "4.0/5  (1500 votes)"
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
-### Detailed Game Introduction
+### Introducción detallada del juego
 
-Tumble Towers es un rompecabezas basado en físicas en el que debes hacer que las torres se tambaleen y caigan de forma controlada. Cada nivel presenta estructuras de bloques con personajes colocados encima; tu misión es eliminar bloques en el orden adecuado para derribar la torre manteniendo a salvo a los personajes y evitando que terminen en el agua.
+Tumble Towers es un puzle basado en físicas en el que debes hacer que las torres se tambaleen y caigan de forma controlada. Cada nivel presenta estructuras de bloques con personajes colocados encima; tu misión es eliminar bloques en el orden adecuado para derribar la torre manteniendo a salvo a los personajes y evitando que terminen en el agua.
 
-### Gameplay Strategy & Walkthrough
+### Estrategia y guía de juego
 
 1.  Estudia la estructura: antes de tocar nada, observa qué bloques sostienen el peso y qué piezas puedes eliminar sin provocar un colapso descontrolado.
 2.  Quita bloques bajos con cuidado: eliminar soportes estratégicos en la base puede hacer que la torre se incline justo como necesitas.
@@ -28,11 +28,11 @@ Tumble Towers es un rompecabezas basado en físicas en el que debes hacer que la
 4.  Evita golpes bruscos: tocar demasiados bloques seguidos puede romper el equilibrio y lanzar a los personajes al agua.
 5.  Reintenta sin miedo: cada nivel es un pequeño experimento; si algo sale mal, reinicia y prueba un orden distinto.
 
-### Controls Guide
+### Controles
 
 - Haz clic o toca sobre los bloques que quieras eliminar y observa cómo responde la estructura.
 
-### Frequently Asked Questions (FAQ)
+### Preguntas frecuentes (FAQ)
 
 - **Q: ¿Qué pasa si un personaje cae al agua?**  
   **A:** El nivel se considera fallido y tendrás que volver a empezar.

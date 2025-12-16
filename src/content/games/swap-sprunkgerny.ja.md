@@ -19,7 +19,7 @@ Swap Sprunkgernyは、キャラクタースワップメカニクスを導入し�
 ### 主な特徴
 
 
-Imagine a group of alien creatures standing in front of you, with exaggerated eyes and quirky personalities, waiting for you to bring them to life. And you are the conductor of this orchestra, using your fingers to make them play unique music!
+キャラクターを配置すると音が鳴り、組み合わせで雰囲気が変わります。プレイヤーは配置と入れ替えで全体のまとまりを作っていきます。
  - **キャラクタースワップ：** 動的なキャラクター入れ替えシステム
  - **新しいサウンド：** スワップされたキャラクターによる新しいサウンドの組み合わせ
  - **予測不可能性：** 毎回異なる音楽体験
@@ -32,37 +32,37 @@ Imagine a group of alien creatures standing in front of you, with exaggerated ey
  - ユニークな音楽を作成
  - 予測不可能な結果を楽しむ
 
-Swap Sprunkgernyで、キャラクタースワップの音楽的魔法を体験しましょう！
+Swap Sprunkgernyでは、キャラクターの入れ替えでサウンドの組み合わせを試せます。
 
 
 
-- **Create Exclusive Music:** Different character combinations will produce different musical effects. Feel free to try different combinations and create your own unique melodies!
+- **曲を作る：** 組み合わせ次第で音の印象が変わります。いくつかパターンを作って聞き比べます。
 
-- **Activate Music and Dance:** When you put the character in the empty space, they will "come alive", playing their own music and dancing their own dance!
+- **音と演出：** 空き枠に配置すると音が鳴り、演出が動く場合があります。
 
-- **Drag Characters:** The game has 20 distinctive characters, each with their own unique sound effects. Select a character you like from the buttons at the bottom of the screen, and then drag it to one of the 7 empty spaces at the top of the screen.
-The world of SWAP SPRUNKGERNY is far more than that, it also hides more unexpected surprises... Ready to explore this fun and mysterious musical world?
+- **キャラクターをドラッグ：** 画面下のボタンからキャラクターを選び、上部の空き枠にドラッグして配置します。
+SWAP SPRUNKGERNYには、組み合わせによって変化する演出や要素が含まれる場合があります。
 
-In the world of SWAP SPRUNKGERNY, every action you take directly affects the music and atmosphere. As you place characters in their designated spots, a new, harmonious beat is born. These sounds are full of energy and fun, perfect for a relaxing and enjoyable gaming experience.
+SWAP SPRUNKGERNYでは、配置や入れ替えで音と雰囲気が変わります。ビートから組み立て、次にメロディや効果音を足すとまとまりやすくなります。
 
-### The Unique Charm of SWAP SPRUNKGERNY:
+### SWAP SPRUNKGERNYの特徴：
 
-- **Endless Surprises:** Each time you play the game, the combination of characters and sounds will be different, always bringing you new surprises.
+- **ランダム性：** 毎回違う組み合わせになりやすく、試行錯誤の幅があります。
 
-- **Dynamic Audio-Visual Experience:** As the characters interact, the music will continue to change and the characters' dances will continue to evolve, giving you an immersive audio-visual experience.
+- **音と演出の変化：** キャラクターの相互作用で音や演出が変わる場合があります。
 
-- **Free Creation:** Each character has its own unique sound effects and dance moves, you can freely combine them to create a unique musical world.
+- **自由な組み立て：** キャラクターごとの音を自由に組み合わせて、好みの雰囲気に整えられます。
 
-- **Intuitive Operation:** The simple drag and drop operation allows you to easily get started and quickly create your own music works.
+- **直感的な操作：** ドラッグ＆ドロップ中心で始めやすいです。
 
-### What Are the Highlights of SWAP SPRUNKGERNY?
+### SWAP SPRUNKGERNYのポイントは？
 
 
-The world of SWAP SPRUNKGERNY is far more than that, it also hides more unexpected surprises... Ready to explore this fun and mysterious musical world?
+SWAP SPRUNKGERNYには、組み合わせによって変化する演出や要素が含まれる場合があります。
 
-In the world of SWAP SPRUNKGERNY, every action you take directly affects the music and atmosphere. As you place characters in their designated spots, a new, harmonious beat is born. These sounds are full of energy and fun, perfect for a relaxing and enjoyable gaming experience.
-- **Create Exclusive Music:** Different character combinations will produce different musical effects. Feel free to try different combinations and create your own unique melodies!
+SWAP SPRUNKGERNYでは、配置や入れ替えで音と雰囲気が変わります。ビートから組み立て、次にメロディや効果音を足すとまとまりやすくなります。
+- **曲を作る：** 組み合わせ次第で音の印象が変わります。いくつかパターンを作って聞き比べます。
 
-- **Activate Music and Dance:** When you put the character in the empty space, they will "come alive", playing their own music and dancing their own dance!
+- **音と演出：** 空き枠に配置すると音が鳴り、演出が動く場合があります。
 
-- **Drag Characters:** The game has 20 distinctive characters, each with their own unique sound effects. Select a character you like from the buttons at the bottom of the screen, and then drag it to one of the 7 empty spaces at the top of the screen.
+- **キャラクターをドラッグ：** 画面下のボタンからキャラクターを選び、上部の空き枠にドラッグして配置します。

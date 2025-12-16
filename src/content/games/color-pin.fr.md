@@ -14,60 +14,33 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
-### Présentation du jeu
+### Detailed Game Introduction
 
-Dans Color Pin, un disque tourne en continu au centre de l’écran et tu dois
-lui envoyer des aiguilles une par une. Chaque nouvelle aiguille doit se
-planter dans une zone libre : si elle touche une aiguille déjà présente, c’est
-la collision et la partie est perdue.
+Color Pin te demande de lancer des aiguilles sur un disque en rotation. Évite de toucher celles déjà plantées, et dans les modes colorés, vise le segment correspondant à la couleur demandée. Les variations de vitesse et de sens de rotation récompensent le rythme et la patience.
 
-Dans certains modes, le disque est divisé en segments colorés et tu dois viser
-uniquement les zones correspondant à la couleur de ton aiguille. La vitesse et
-le sens de rotation peuvent changer en cours de niveau, ce qui met ton sens du
-rythme et ta patience à l’épreuve.
+### Gameplay Strategy & Walkthrough
 
-### Guide de jeu
+1.  Observe le cycle de rotation et tire toujours sur une phase régulière.
+2.  Vise d’abord les grands espaces ; garde les ouvertures serrées pour les rotations plus lentes.
+3.  Ne poursuis pas une fenêtre ratée : attends le prochain passage propre.
+4.  En mode couleur, prépare ton tir à l’avance et ne clique qu’à l’alignement.
+5.  Après une erreur, reprends un tour pour retrouver ton tempo avant de continuer.
 
-1.  **Observe un tour complet avant de tirer**  
-    Au début d’un niveau, laisse le disque faire une rotation complète pour
-    repérer les espaces les plus larges et le rythme général.
-2.  **Vise d’abord les grandes ouvertures**  
-    Commence par remplir les zones où il y a beaucoup de place, et garde les
-    espaces serrés pour les moments où la rotation ralentit.
-3.  **Ne poursuis pas une fenêtre ratée**  
-    Si tu as manqué un bon timing, ne spamme pas. Attends que le disque refasse
-    un tour et tire sur une nouvelle fenêtre propre.
-4.  **En mode couleur, pré‑vise ton segment**  
-    Repère à l’avance la portion de la bonne couleur et prépare‑toi à tirer
-    dès qu’elle passe devant la zone idéale.
-5.  **Retrouve ton rythme après une erreur**  
-    Si tu t’es laissé surprendre par un changement de vitesse, prends un tour
-    de rotation pour resynchroniser ton regard et ton doigt.
+### Controls Guide
 
-### Commandes
+- Tape/Clique pour lancer une aiguille (certaines variantes permettent de maintenir pour ajuster).
+- Pause/Restart via l’interface.
 
-- **Tirer une aiguille** : clique ou tape sur l’écran pour envoyer une aiguille
-  vers le disque.  
-- **Pause / Rejouer** : utilise les boutons de l’interface pour mettre le jeu
-  en pause ou recommencer un niveau.
+### Frequently Asked Questions (FAQ)
 
-### Foire aux questions (FAQ)
+- Q: Je percute toujours une aiguille — pourquoi ?
+  
+  A: Tu es désynchronisé. Observe une rotation complète, puis reprends en tirant sur un rythme constant.
 
+- Q: La vitesse change‑t‑elle en cours de niveau ?
+  
+  A: Souvent oui ; attends‑toi à des accélérations et des inversions de rotation.
 
-- Q: I keep colliding with pins — why?
-**Q : Pourquoi mes aiguilles se percutent‑elles tout le temps ?**  
-
-- Q: Does speed change mid‑level?
-R : Tu tires probablement hors rythme. Regarde un tour complet sans tirer pour
-
-- Q: Any trick for color segments?
-reprendre un tempo régulier, puis cale tes tirs sur la même phase du mouvement.
-
-**Q : La vitesse change‑t‑elle au milieu du niveau ?**  
-R : Souvent, oui. Le jeu peut accélérer, ralentir ou inverser la rotation pour
-te surprendre. Reste attentif aux changements de cadence.
-
-**Q : Une astuce pour les segments colorés ?**  
-R : Garde les yeux sur le segment de ta couleur et n’appuie que lorsqu’il
-arrive face à la zone ouverte. Tenter de forcer un tir trop tôt finit presque
-toujours en collision.
+- Q: Une astuce pour les segments colorés ?
+  
+  A: Tire uniquement quand la bonne couleur est parfaitement alignée ; forcer un tir crée des collisions évitables.

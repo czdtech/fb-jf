@@ -1,6 +1,6 @@
 ---
 title: Scooter Xtreme
-description: Scooter Xtremeは極限スタントゲームです。トリックを実行し、ジャンプし、スタントをマスターし、スクーターチャンピオンになります。
+description: Scooter Xtremeはスクーターのスタントゲームです。ジャンプやトリックで得点し、バランスよく着地して進みます。
 iframeSrc: 'https://scooterxtreme.h5games.usercontent.goog/v/2j9k5m8h7p3n8/'
 thumbnail: /new-images/scooter-xtreme.png
 urlstr: scooter-xtreme
@@ -20,11 +20,11 @@ Scooter Xtremeは、スクーターでスタントを実行することに挑戦
 
 ### ゲームプレイ戦略と攻略法
 
-1.  **バランスに焦点を当てる:" 着地時のチルトを制御します。
-2.  **トリックをマスター:" フリップとグラブでポイントを獲得します。
-3.  **スピードを管理:" より速い = より高いジャンプですが、コントロールが難しい。
-4.  **完璧な着地:" クリーンな着地がボーナスを獲得します。
-5.  **練習:" 繰り返しでトリックが改善します。
+1.  **バランスを意識:** 着地時の傾きを制御します。
+2.  **トリックを覚える:** フリップやグラブで得点します。
+3.  **スピード管理:** 速いほど飛べますが、制御が難しくなります。
+4.  **きれいに着地:** 安定した着地が重要です。
+5.  **練習:** 繰り返しで操作が安定します。
 
 ### 操作ガイド
 
@@ -33,9 +33,9 @@ Scooter Xtremeは、スクーターでスタントを実行することに挑戦
 - バランスを保ち、着地します。
 
 
-- **Perform Tricks:** Use other designated keys (often shown on-screen) while in the air or on a rail to perform various stunts.
+- **トリック**: 空中（またはレール上）で表示されるキー/ボタンを使い、さまざまなスタントを行います。
 
-- **Jump:** Press the **Spacebar** to jump.
+- **ジャンプ**: **スペース**でジャンプします。
 ### よくある質問 (FAQ)
 
 - **Q: 継続的にクラッシュします。ヒントは？**  
@@ -44,9 +44,9 @@ Scooter Xtremeは、スクーターでスタントを実行することに挑戦
   A: トリックを組み合わせてより多くのポイントを獲得します。
 - **Q: 新しいスクーターをアンロックできますか？**  
 
-    - **A:** By collecting coins scattered throughout the levels. Once you have enough, you can visit the in-game shop to purchase new gear and riders.
+    - **A:** レベル内でコインを集め、一定数たまったらショップで新しいギアやライダーを購入できる場合があります。
 
-- **Q: How do I unlock new characters and scooters?**
+- **Q: 転倒するとどうなりますか？**
 
-    - **A:** You will usually be reset to the last checkpoint you passed, but you will lose valuable time and your current combo streak.
-  A: はい、ポイントを獲得してアンロックします。
+    - **A:** 多くの場合、最後に通過したチェックポイントから再開になります。ただし時間やコンボ（連続成功）が途切れることがあります。
+  A: 失敗しても再挑戦できますが、スコアやコンボを維持するには安定して着地することが大切です。

@@ -51,22 +51,11 @@ locale: ja
 
 ### よくある質問 (FAQ)
 
-*   **Q: いつも角に追い詰められてしまいます。**
-
-A: Stop circling tightly near walls. Commit to wide arcs that cross the arena center, dash early through thinnest gaps, and use pillars to reset lines of sight.
-- **A:** 壁際で小さく回るのをやめましょう。アリーナの中央を横切るような大きな動きを意識し、敵の隙間が一番薄いところを早めにダッシュで抜けましょう。
-
-
-A: Fast chargers and ranged units. Slow melee can be kited safely while you thin priority targets.
-*   **Q: どの敵から倒すべきですか？**
-
-A: Fire in short bursts, reposition during cooldown, and stack efficiency upgrades if the mode supports them.
-- **A:** 高速な突撃タイプと遠距離タイプです。遅い近接タイプは、優先ターゲットを処理している間、引き連れて歩いても比較的安全です。
-
-
-A: Yes — pre‑place them along your kite path so they fire as enemies chase, multiplying damage without extra risk.
-*   **Q: すぐにオーバーヒートしてしまいます。**
-    *   **A:** 指切り（バースト）射撃を徹底してください。また、効率化のアップグレードがあれば取得しましょう。
-
-*   **Q: 設置スキルは強いですか？**
-    *   **A:** はい。自分の逃走ルート上に置いておけば、リスクを負わずに敵にダメージを与え続けられるため非常に強力です。
+- Q: いつも角に追い詰められてしまいます。どうすればいいですか？  
+  A: 壁際で小さく回るのではなく、アリーナ中央を横切る大きな弧で動きましょう。隙間が薄いところを早めにダッシュで抜け、柱で射線を切って立て直します。
+- Q: どの敵から倒すべきですか？  
+  A: 高速な突撃タイプと遠距離タイプを最優先に。遅い近接タイプは引き連れておき、危険な敵を間引いてから処理します。
+- Q: すぐにオーバーヒートしてしまいます。  
+  A: 撃ちっぱなしにせず短いバースト射撃を意識しましょう。冷却中は位置取りを変え、可能なら効率系アップグレードも取ると安定します。
+- Q: 設置スキルは強いですか？  
+  A: はい。逃走ルートの曲がり角などに先置きしておけば、追ってくる敵にノーリスクで火力を足せます。

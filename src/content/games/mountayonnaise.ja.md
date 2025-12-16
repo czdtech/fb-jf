@@ -1,6 +1,6 @@
 ---
 title: Mountayonnaise
-description: Mountayonnaiseは奇妙な登山ゲームです。マヨネーズの山を登り、障害物を避け、頂上に到達します。
+description: Mountayonnaiseは物理挙動のある登山ゲームです。マヨネーズの山を登り、滑りやすい足場と障害物を越えて頂上を目指します。
 iframeSrc: 'https://mountayonnaise.h5games.usercontent.goog/v/1ks8r51g6qsqg/'
 thumbnail: /new-images/mountayonnaise.png
 urlstr: mountayonnaise
@@ -14,26 +14,26 @@ locale: ja
 ---
 
 
-Sprunki Mountayonnaise is a surprisingly delightful Sprunki mod game where different animal figures appear based on the sound effects added. It boasts high replayability! Here, you will create your own music works with a group of unique animated characters.
+Mountayonnaiseは、マヨネーズでできた山を登って頂上を目指す、少し変わった物理アクションゲームです。滑りやすい斜面や障害物に引っかからないように、慎重に位置取りをしながら進みます。
 ### ゲーム紹介
 
-Mountayonnaiseは、マヨネーズでできた山を登る奇妙で楽しいゲームです。滑りやすい表面をナビゲートし、障害物を避け、頂上に到達します。物理ベースの挑戦で、ユーモラスなコンセプトと挑戦的なゲームプレイを組み合わせます。
+Mountayonnaiseは、マヨネーズでできた山を登る物理ベースのアクションゲームです。滑りやすい表面を進み、障害物を避けながら頂上を目指します。操作はシンプルですが、勢いと位置取りが大切になります。
 
 
-- **Real-Time Mixing:** Adjust your work at any time, mute, remove, or rearrange sounds to make your music more perfect.
+- **リアルタイム調整:** 移動中に小さく入力して、姿勢や位置取りを整えます。
 
-- **Unlock Bonuses:** Try specific sound combinations to discover hidden animations and special effects!
+- **隠し要素:** ルート次第で小さな仕掛けや演出が見つかる場合があります。
 
-- **Overlay Sounds:** Build a complete music track by strategically placing beats, vocals, and sound effects.
+- **ルート選択:** 安全な足場をつなぐように、登りやすいルートを組み立てます。
 
-- **Drag and Drop Sound Effects:** Drag different sound effect icons onto the characters to assign them different sounds.
+- **操作の基本:** 無理に急がず、滑りやすい場所は細かく調整して進みます。
 ### ゲームプレイ戦略と攻略法
 
 1.  **勢いを制御:** 滑りやすい表面では注意深く移動します。
 2.  **障害物を予測:** 先を見て、落下を避けます。
 3.  **忍耐強く:** 急ぐと滑ります。
 4.  **物理を学ぶ:** ゲームの物理がどのように機能するかを理解します。
-5.  **楽しむ:** これは面白いコンセプトです！
+5.  **コンセプトを楽しむ:** 変わった世界観も含めて、気楽に遊びましょう。
 
 ### 操作ガイド
 
@@ -42,12 +42,12 @@ Mountayonnaiseは、マヨネーズでできた山を登る奇妙で楽しいゲ
 - 滑りやすい物理に注意してください。
 
 
-- **Explore Fun:** Discover hidden animations and special effects, making your creation process full of surprises.
+- **小ネタ探索**: ルートによっては演出や隠し要素が見つかることがあります。
 ### よくある質問 (FAQ)
 
 - **Q: なぜマヨネーズ？**  
-  A: なぜダメなのですか？クリエイティブなコンセプトです！
+  A: ネタとしてのコンセプトです。深く考えず、雰囲気として楽しみましょう。
 - **Q: 滑りを制御するにはどうすればよいですか？**  
   A: 小さな調整と忍耐。過度に修正しないでください。
 - **Q: 本当にマヨネーズでできていますか？**  
-  A: ゲームではそうです！
+  A: 世界観上はそういう設定です。

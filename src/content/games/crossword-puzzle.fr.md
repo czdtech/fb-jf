@@ -58,13 +58,13 @@ cryptiques utilisent d’autres conventions de définitions et de motifs.
 ### FAQ
 
 
-- Q: What’s the difference between American and British crosswords?
+- Q: Quelle est la différence entre mots croisés américains et britanniques ?
 **Q : Différence entre mots croisés américains et britanniques ?**  
 
-- Q: What size is a typical daily puzzle?
+- Q: Quelle taille fait une grille quotidienne typique ?
 R : Les grilles américaines ont généralement toutes les lettres croisées et une
 
-- Q: Are diacritics or punctuation required?
+- Q: Faut‑il mettre les accents ou la ponctuation ?
 symétrie stricte, alors que les grilles britanniques, surtout cryptiques,
 reposent sur des jeux de mots complexes et des motifs plus libres.
 

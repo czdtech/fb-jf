@@ -1,6 +1,6 @@
 ---
 title: Pokemon Emerald
-description: Pokemon Emeraldはクラシックなポケモンアドベンチャーです。ポケモンを捕獲し、訓練し、戦い、チャンピオンになります。
+description: Pokemon Emeraldはポケモンのアドベンチャーゲームです。ホウエン地方を冒険し、ポケモンを捕獲・育成してチャンピオンを目指します。
 iframeSrc: 'https://pokemonemerald.h5games.usercontent.goog/v/5k9j2m8h7p3n8/'
 thumbnail: /new-images/pokemon-emerald.png
 urlstr: pokemon-emerald
@@ -33,7 +33,7 @@ Pokemon Emeraldは、愛されているポケモンシリーズのクラシッ�
 - Start/Enter：メニュー。
 
 
-- **Select Button (Register Item)**: Register frequently used items in the bag for quick access.
+- **Select（アイテム登録）**: よく使う道具をバッグで登録し、すぐ使えるようにします。
 ### よくある質問 (FAQ)
 
 - **Q: これは完全なゲームですか？**  
@@ -44,9 +44,9 @@ Pokemon Emeraldは、愛されているポケモンシリーズのクラシッ�
   A: ほとんどのバージョンにはセーブ機能があります。
 
 
-**A**: "Emerald" introduced the "Battle Frontier," a large endgame challenge area with multiple facilities offering diverse battle experiences.
+**A**: 『エメラルド』では「バトルフロンティア」が追加され、複数の施設でさまざまなルールの対戦に挑戦できます。
 
-- **Q: What are the special battle facilities in the game?**
+- **Q: 特別なバトル施設はありますか？**
 
 
-**A**: "Emerald" introduced the "Battle Frontier," a large endgame challenge area with multiple facilities offering diverse battle experiences.
+**A**: 『エメラルド』では「バトルフロンティア」が追加され、複数の施設でさまざまなルールの対戦に挑戦できます。

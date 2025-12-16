@@ -14,10 +14,10 @@ locale: ja
 ---
 
 
-Ever wondered what happens when the quirky world of Pikmin crashes into the musical magic of Sprunki? Pikmin No Sprunki makes that thought a reality! This captivating Scratch game cleverly blends the familiar Incredibox creation fun with fresh gameplay mechanics, inviting you on a unique audio-visual adventure.
+Pikmin no Sprunkiは、Pikmin風のキャラクターで音を重ねて遊ぶ音楽作成ゲームです。キャラクターの組み合わせを変えながら、ビートやメロディを作っていきます。
 ### ゲーム紹介
 
-Pikmin no Sprunkiは、Pikminをテーマにした音楽作成ゲームです。キャラクターを選択し、それぞれが独自のサウンドを持ち、ユニークなビートとメロディを作成するためにそれらをミックスします。創造的で楽しい音楽体験。
+Pikmin no Sprunkiは、Pikminをテーマにした音楽作成ゲームです。キャラクターを選択し、それぞれのサウンドを重ねてビートやメロディを作ります。組み合わせを試しながら音作りを進めます。
 
 ### ゲームプレイ戦略と攻略法
 
@@ -31,6 +31,7 @@ Pikmin no Sprunkiは、Pikminをテーマにした音楽作成ゲームです。
 
 
 Pikmin No Sprunki is more than just a simple game; it's a creative platform that encourages exploration. It perfectly combines engaging gameplay, diverse mods, and an active community, standing out among many free games. Whether you're a seasoned Sprunki veteran or a player looking for a fresh experience, Pikmin No Sprunki is definitely worth a try! Come join this wonderful world, and use rhythm and creativity to compose your very own Pikmin No Sprunki symphony!
+操作はシンプルで、キャラクターを配置して音を重ねるだけです。気に入った組み合わせを入れ替えながら、自分のリズムを作っていきます。
 - キャラクターをクリック/タップして選択および配置します。
 - サウンドをミックスして音楽を作成します。
 - 削除または変更するためにクリックします。
@@ -38,7 +39,7 @@ Pikmin No Sprunki is more than just a simple game; it's a creative platform that
 ### よくある質問 (FAQ)
 
 - **Q: 音楽知識が必要ですか？**  
-  A: いいえ！誰でも楽しい音楽を作成できます。
+  A: いいえ。試しながら音を重ねていけば大丈夫です。
 - **Q: 作成を共有できますか？**  
   A: バージョンによって異なります。一部は共有オプションを持っています。
 - **Q: これはPikminの公式ゲームですか？**  

@@ -24,33 +24,33 @@ Sudokuは、世界中で愛されているクラシックな論理パズルゲ�
  - **パズルを完成：** すべてのマスを正しく埋めます
 
 
-- **Progressive Advancement**: After filling in each number, re-analyze the entire board to find new breakthrough points.
+- 段階的に進める：1つ埋めたら盤面全体を見直し、新しい確定ポイントを探します。
 ### 操作ガイド
 
  - **マウス：** マスをクリックして数字を入力
 
 
-- **Mark Candidates**: Some versions allow marking multiple possible candidate numbers in cells.
+- **候補をメモ**：バージョンによっては、候補数字を小さくメモできます。
 
-- **Delete Numbers**: Press delete key or click on filled numbers again to clear them.
+- **数字を消す**：Deleteキーや再クリックで消せる場合があります。
 
-- **Input Numbers**: Use keyboard number keys 1-9 or click on-screen number buttons to input.
+- **数字を入力**：キーボードの1〜9、または画面の数字ボタンで入力します。
 ### よくある質問（FAQ）
 
 
-- **Q: How do I know if a Sudoku has a solution?**
+- **Q: 数独に解があるかどうかは分かりますか？**
 **数独のルールは何ですか？**
 
 
-- **Q: What if I get stuck?**
+- **Q: 行き詰まったらどうすればいいですか？**
 各行、列、3×3ブロックに1から9までの数字が1回ずつ入るようにグリッドを埋めます。
 
 
-- **Q: Are there different difficulty levels?**
+- **Q: 難易度はありますか？**
 **どうやって始めればよいですか？**
 
 
-- **Q: Do I need to guess?**
+- **Q: 勘で当てる必要はありますか？**
 すでに埋められている数字から始めて、論理的に推理して空のマスを埋めます。
 
 **難しい場合はどうすればよいですか？**

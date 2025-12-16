@@ -11,7 +11,7 @@ locale: ja
 ---
 
 
-Feeling like regular music games are a bit too predictable? Craving something unexpected and maybe a little wild? Then Sprunki Phase 2.5 (JOKE MOD) is guaranteed to grab your attention (or maybe give you a jump scare)! This isn't your average rhythm game; it's a fantastic adventure blending creativity, surprise, and even a dash of dark humor, designed to make you laugh and maybe even get your pulse racing!
+普通の音楽ゲームが予測できてしまい、少し意外性が欲しい人向けのJOKE MODです。音作りの途中で雰囲気が切り替わる仕掛けがあり、驚きやブラックユーモア要素が含まれる場合があります。
 ### Sprunki Phase 2.5の紹介
 
 Sprunki Phase 2.5は、音楽制作に予測不可能なホラー変換を加えた革新的なゲームです。このModの最大の特徴は「JOKE MOD」メカニクスで、20番目の最後のキャラクターをスロットに配置すると、すべてが反転します！
@@ -27,11 +27,11 @@ Sprunki Phase 2.5の本当の決め手は、その「JOKE MOD」メカニクス�
  - **ホラー変換を体験**：音楽と視覚が完全に変わります。
 
 
-- **Save & Share:** Love your "masterpiece"? You can save it to enjoy later, or share it with friends and see if you can give *them* a little scare!
+- **保存と共有：** 作品を保存・共有できるかどうかは、配信元やバージョンによって異なります。
 
-- **Embrace the Chaos:** No rules, no pressure. Just have a blast creating music that blends humor and horror!
+- **気楽に試す：** ルールに縛られすぎず、ホラー演出と音作りの組み合わせを試します。
 
-- **Trigger the "Surprise":** Ready for it? Drop that 20th character and see the true face of Sprunki Phase 2.5!
+- **「サプライズ」を起動：** 20番目のキャラクターを配置すると、演出が切り替わる場合があります。
 ### 特徴
 
  - ユニークな「JOKE MOD」メカニクス
@@ -40,9 +40,9 @@ Sprunki Phase 2.5の本当の決め手は、その「JOKE MOD」メカニクス�
  - 驚きに満ちた体験
 
 
-Sprunki Phase 2.5 (JOKE MOD) isn't just a game; it's a musical adventure packed with surprises and twists. It perfectly balances lighthearted fun with unexpected dark humor, giving you a uniquely thrilling experience while you compose. Get ready to dive into the world of Sprunki Phase 2.5 – drag, drop, mix, match, create awesome music, and always be prepared for that heart-pounding "surprise"!
+Sprunki Phase 2.5 (JOKE MOD)は、音作りに「サプライズ演出」を加えた作品です。ドラッグ＆ドロップでミックスを作りつつ、切り替わりのタイミングや雰囲気の変化も含めて調整していきます。
 
-### Wrapping Up:
+### まとめ：
 
 
-Sprunki Phase 2.5 (JOKE MOD) isn't just a game; it's a musical adventure packed with surprises and twists. It perfectly balances lighthearted fun with unexpected dark humor, giving you a uniquely thrilling experience while you compose. Get ready to dive into the world of Sprunki Phase 2.5 – drag, drop, mix, match, create awesome music, and always be prepared for that heart-pounding "surprise"!
+Sprunki Phase 2.5 (JOKE MOD)は、音作りに「サプライズ演出」を加えた作品です。ドラッグ＆ドロップでミックスを作りつつ、切り替わりのタイミングや雰囲気の変化も含めて調整していきます。

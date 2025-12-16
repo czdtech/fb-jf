@@ -24,7 +24,7 @@ The Hidden Antique Shopは、美しく詳細なアンティークショップを
  - **レベル進行：** より難しいレベルに進みます
 
 
-- Contrast tricks: Squint/zoom to spot small contrast differences.
+- コントラストの見分け：目を細めたり拡大したりして、わずかな差を探します。
 ### 操作ガイド
 
  - **マウス：** クリックして隠されたオブジェクトを選択
@@ -32,11 +32,11 @@ The Hidden Antique Shopは、美しく詳細なアンティークショップを
 ### よくある質問（FAQ）
 
 
-- Q: I’m missing one last item.
+- Q: 最後の1つが見つかりません。
 **ゲームの目標は何ですか？**
 
 
-- Q: Do mistakes penalize?
+- Q: 間違えるとペナルティはありますか？
 各レベルでリストされたすべての隠しオブジェクトを見つけることです。
 
 **ヒントはありますか？**

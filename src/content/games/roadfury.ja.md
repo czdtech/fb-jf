@@ -1,6 +1,6 @@
 ---
 title: RoadFury
-description: RoadFuryは激しいカーチェイスゲームです。運転し、射撃し、敵を避け、道路の狂乱をマスターします。
+description: RoadFuryはカーアクションのチェイスゲームです。走りながら射撃し、敵車両や障害物を避けて生き残ります。
 iframeSrc: 'https://roadfury.h5games.usercontent.goog/v/3k9j5m8h7p2n8/'
 thumbnail: /new-images/roadfury.png
 urlstr: roadfury
@@ -20,16 +20,16 @@ RoadFuryは、レーシングとシューティングを激しいカーチェイ
 
 ### ゲームプレイ戦略と攻略法
 
-1.  **射撃し続ける:" 敵を破壊してポイントを獲得します。
-2.  **障害物を避ける:" クラッシュは損傷を引き起こします。
-3.  **パワーアップを収集:" ヘルス、弾薬、シールド。
-4.  **賢くアップグレード:" より良い武器と車両性能。
-5.  **レーンを切り替える:" 機動性が重要です。
+1.  **射撃を止めない:** 敵を破壊してポイントを稼ぎます。
+2.  **障害物を避ける:** クラッシュはダメージにつながります。
+3.  **パワーアップを拾う:** ヘルス、弾薬、シールドなどを活用します。
+4.  **賢くアップグレード:** 武器と車体性能を強化します。
+5.  **レーンを切り替える:** 機動力で被弾を減らします。
 
 ### 操作ガイド
 
 
-The game is played with simple drag controls.
+操作はシンプルです（バージョンによって入力方法が異なる場合があります）。
 - 矢印キー/WASD：ドライブ、レーンを切り替えます。
 - スペース/マウス：射撃します。
 - パワーアップを収集します。
@@ -39,12 +39,12 @@ The game is played with simple drag controls.
 - **Q: エンドレスですか？**  
   A: はい、できるだけ長く生き残ります。
     - **Q: 車と武器をアップグレードできますか？**  
-  A: はい、獲得したポイントでアップグレードします。
+  A: はい、獲得したポイントでアップグレードできます。序盤は主武器の火力を上げると敵を倒しやすくなり、コインも稼ぎやすいです。次に装甲を上げて被弾に耐えると安定します。
 - **Q: マルチプレイヤーですか？**  
 
-    - **A:** In the beginning, upgrading your main weapon's damage is a great investment as it helps you destroy enemies faster and earn coins more quickly. After that, increasing your armor to survive more hits is also very important.
+    - **A:** 多くはシングルプレイヤーです。対戦要素があるかどうかはバージョンによって異なります。
 
-- **Q: What is the best upgrade?**
+- **Q: パワーアップとは何ですか？**
 
-    - **A:** These are temporary power-ups. Drive over them to collect shields, powerful special weapons like rockets, health repairs, and magnets that attract coins.
-  A: ほとんどのバージョンはシングルプレイヤーです。
+    - **A:** 一時的な効果が得られるアイテムです。道路上で拾うと、シールド、ロケットなどの強力な武器、回復、コインを引き寄せるマグネットなどが発動します。
+  A: 出現したら通過して回収し、状況に合わせて使い分けます。

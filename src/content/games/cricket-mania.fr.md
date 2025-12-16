@@ -50,11 +50,11 @@ frappes puissantes pour rattraper un retard au score.
 ### Foire aux questions (FAQ)
 
 
-- Can I bowl? Most versions focus on batting only.
+- Puis‑je jouer en bowling ? La plupart des versions se concentrent sur la frappe (batting).
 
-- Miss timing? Watch bowler’s release, not just ball flight.
+- Timing raté ? Observe le relâchement du bowler, pas seulement la trajectoire.
 
-- Keep getting caught? You’re lofting into deep field—favor ground shots.
+- Trop de catches ? Tu joues trop de balles levées en profondeur : privilégie les coups au sol.
 **Q : Je n’atteins jamais l’objectif, que faire ?**  
 R : Essaie d’alterner coups sûrs et attaques plus risquées au lieu de viser le
 6 à chaque balle.

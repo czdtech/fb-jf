@@ -1,6 +1,6 @@
 ---
 title: Pocket Champions
-description: Pocket Championsはコンパクトな格闘ゲームです。チャンピオンを選択し、戦い、コンボをマスターし、対戦相手を打ち負かします。
+description: Pocket Championsは格闘ゲームです。キャラクターを選び、攻防の読み合いとコンボで相手に勝ちます。
 iframeSrc: 'https://pocketchampions.h5games.usercontent.goog/v/2j9k5m8h7p3n8/'
 thumbnail: /new-images/pocket-champions.png
 urlstr: pocket-champions
@@ -16,7 +16,7 @@ locale: ja
 
 ### ゲーム紹介
 
-Pocket Championsは、さまざまなファイタ��をフィーチャーした高速格闘ゲームです。チャンピオンを選択し、それぞれが独自の移動セットを持ち、対戦相手と戦います。コンボ、スペシャル移動、戦略的戦闘。
+Pocket Championsは、さまざまなファイターで戦う格闘ゲームです。キャラクターごとに技や動きが異なり、コンボや必殺技を使い分けて相手を倒します。操作はシンプルですが、距離感とタイミングが重要です。
 
 ### ゲームプレイ戦略と攻略法
 
@@ -29,7 +29,7 @@ Pocket Championsは、さまざまなファイタ��をフィーチャーし�
 ### 操作ガイド
 
 
-The game is played through a series of menus.
+メニューからキャラクターやモードを選んで試合を開始します。
 - WASD/矢印：移動します。
 - 特定のキー：攻撃、ブロック、スペシャル（バージョンによる）。
 - コンボのために攻撃を連鎖させます。
@@ -42,9 +42,9 @@ The game is played through a series of menus.
   A: 一部のバージョンはローカルまたはオンライン対戦を提供します。
 - **Q: コンボをどのように実行しますか？**  
 
-    - **A:** There is no single "best" gadget. The best one is always the one that matches the next major obstacle on the track. A speedboat is useless on a running track, but essential on a water track.
+    - **A:** 万能な手はありません。相手の動きや距離に合わせて、当てやすい技やつなぎやすい連係を選びます。
 
-- **Q: What is the best gadget?**
+- **Q: 勝つためのコツはありますか？**
 
-    - **A:** By having better stats and strategy than your opponents. Make sure your Champ's training levels are high and that you are choosing the correct gadgets that counter the obstacles in the upcoming race.
+    - **A:** 距離を管理しつつ、無理に攻めすぎないことが大切です。相手の癖を見て、ガードや回避を混ぜながら確実に当てられる場面で攻めましょう。
   A: タイミングで攻撃を連鎖させます。チュートリアルを確認してください。

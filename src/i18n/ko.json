@@ -1,4 +1,25 @@
 {
+  "categories": {
+    "title": "게임 카테고리",
+    "puzzle": "퍼즐",
+    "casual": "캐주얼",
+    "thinky": "두뇌",
+    "action": "액션",
+    "sports": "스포츠",
+    "strategy": "전략",
+    "platformer": "플랫폼",
+    "arcade": "아케이드",
+    "shooting": "슈팅",
+    "card": "카드",
+    "rhythm": "리듬",
+    "adventure": "어드벤처",
+    "music": "음악",
+    "clicker": "클리커",
+    "driving": "드라이브",
+    "physics": "물리",
+    "multiplayer": "멀티플레이어",
+    "2-player": "2인용"
+  },
   "nav": {
     "home": "홈",
     "newGames": "새 게임",

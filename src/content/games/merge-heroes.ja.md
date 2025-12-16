@@ -1,6 +1,6 @@
 ---
 title: Merge Heroes
-description: Merge Heroesは戦略的RPGマージゲームです。ヒーローをマージし、軍隊を構築し、敵と戦い、王国を守ります。
+description: Merge Heroesはヒーローをマージして強化するRPG系マージゲームです。編成を整え、敵と戦います。
 iframeSrc: 'https://1jbrmb0iocnh0.h5games.usercontent.goog/v/5i9k4ocr75fn8/'
 thumbnail: /new-images/merge-heroes.png
 urlstr: merge-heroes
@@ -16,7 +16,7 @@ locale: ja
 
 ### ゲーム紹介
 
-Merge Heroesは、マージメカニクスとRPG戦闘を組み合わせます。同じヒーローをマージしてより強力な戦士を作成し、戦略的に配置して敵を打ち負かし、王国を敵の軍隊から守ります。
+Merge Heroesは、ヒーローをマージして強化しながら戦うRPG系のマージゲームです。同じヒーローを合体させて戦力を上げ、配置を工夫して敵を倒していきます。
 
 ### ゲームプレイ戦略と攻略法
 
@@ -29,7 +29,7 @@ Merge Heroesは、マージメカニクスとRPG戦闘を組み合わせます�
 ### 操作ガイド
 
 
-The game is played with simple drag-and-drop controls.
+ドラッグ＆ドロップの簡単な操作で遊べます。
 - ヒーローをドラッグ＆ドロップしてマージおよび配置します。
 - ヒーローをクリック/タップして統計とアビリティを表示します。
 - ストアで新しいヒーローを購入します。
@@ -42,9 +42,9 @@ The game is played with simple drag-and-drop controls.
   A: ヒーローをアップグレードしてマージし、戦略を調整します。
 - **Q: レアヒーローを獲得するにはどうすればよいですか？**  
 
-    - **A:** This usually happens between waves. Once the next wave of enemies appears, your heroes will automatically resume their attack.
+    - **A:** 入手方法はモードによって異なりますが、報酬やステージ進行、ショップなどから獲得できる場合があります。
 
-- **Q: Why did my heroes stop attacking?**
+- **Q: 敵に押し切られてしまいます。どうすればいいですか？**
 
-    - **A:** A few strong, high-level heroes are almost always more effective than a board full of weak, low-level ones. Focus on merging up to the highest level you can achieve.
-  A: より低いレベルのヒーローをマージするか、特別なイベントで獲得します。
+    - **A:** 低レベルを並べるより、少数でも高レベルまでマージした方が安定しやすいです。可能な限り上位まで強化していきましょう。
+  A: ヒーローをマージして強化し、編成と配置を見直しましょう。

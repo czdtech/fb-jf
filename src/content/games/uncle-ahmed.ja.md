@@ -29,21 +29,21 @@ Uncle Ahmedは、ストーリー駆動のアドベンチャーパズルゲーム
  - **キーボード：** メニューとアクション
 
 
-- **Shoot:** If you have a projectile power-up (like the watermelon), a separate button will typically appear to allow you to shoot.
+- **発射：** スイカなどの投射物パワーアップがある場合、発射用のボタンが表示されることがあります。
 ### よくある質問（FAQ）
 
 
-- **A:** Boss battles usually require you to learn their attack patterns. Dodge their attacks and look for a moment of vulnerability when you can jump on their head or hit them with a projectile.
+- **A:** ボス戦は攻撃パターンを覚えるのが基本です。攻撃を避けつつ、頭上に乗れる瞬間や投射物が当てられる隙を狙います。
 
-    - **Q: How do I beat the final boss?**
+    - **Q: 最後のボスはどう倒しますか？**
 
-- **A:** If you run out of lives, the game is over, and you will have to start the level from the beginning (or from the last checkpoint).
+- **A:** ライフが0になるとゲームオーバーになり、最初（またはチェックポイント）からやり直します。
 
-    - **Q: What happens if I lose all my lives?**
+    - **Q: ライフがなくなるとどうなりますか？**
 
-- **A:** The most common way is to jump directly on top of their heads. If you have an offensive power-up, you can also use that to attack them from a distance.
+- **A:** 多くの場合、頭上にジャンプして踏むのが基本です。攻撃系パワーアップがあるなら、遠距離から攻撃できる場合もあります。
 
-    - **Q: How do I defeat the enemies?**
+    - **Q: 敵はどう倒しますか？**
 **ゲームの目標は何ですか？**
 
 アンクルアーメッドを助けて、ストーリーを完了することです。

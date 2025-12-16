@@ -1,6 +1,6 @@
 ---
 title: Smarty Bubbles 2
-description: Smarty Bubbles 2はバブルシューターパズルです。バブルをマッチし、より多くのレベルをクリアし、改良された続編を楽しみます。
+description: Smarty Bubbles 2はバブルシューターのパズルです。同じ色をそろえて消し、ボードをクリアします。
 iframeSrc: 'https://smartybubbles2.h5games.usercontent.goog/v/2j9k5m8h7p3n8/'
 thumbnail: /new-images/smarty-bubbles-2.png
 urlstr: smarty-bubbles-2
@@ -19,11 +19,11 @@ Smarty Bubbles 2は、クラシックなバブルシューターゲームプレ�
 
 ### ゲームプレイ戦略と攻略法
 
-1.  **狙いを計画:" 壁からのバウンスを使用します。
-2.  **大きなグループ:" より多いバブル = より多いポイント。
-3.  **トップダウン:" 上部のバブルを落とします。
-4.  **色を見る:" 次のバブルの色を確認します。
-5.  **移動を節約:" 効率的にクリアします。
+1.  **狙いを計画:** 壁の反射も利用します。
+2.  **大きな塊を狙う:** まとめて落とすと得点が伸びやすいです。
+3.  **上から落とす:** 上部を消して塊ごと落とします。
+4.  **次の色を見る:** 次に出る色を確認します。
+5.  **手数を意識:** 無駄打ちを減らして盤面を整えます。
 
 ### 操作ガイド
 
@@ -37,11 +37,11 @@ Smarty Bubbles 2は、クラシックなバブルシューターゲームプレ�
   A: より多くのレベル、新しいチャレンジ、改良されたグラフィック。
     - **Q: どれくらいのレベルがありますか？**  
   A: Smarty Bubbles 2には数百のレベルがあります。
-- **Q: パワーアップはありますか？**  
+- **Q: ハイスコアを狙うコツはありますか？**  
 
-    - **A:** By clearing levels efficiently and by causing large clusters of bubbles to drop at once. The more bubbles you clear in a single shot, the higher your score.
+    - **A:** 1回で多くのバブルを落とすのが有効です。大きな塊をまとめて落とせるように、支えている部分を狙います。
 
-- **Q: How do I get a high score?**
+- **Q: レベルの目的とパワーアップは？**
 
-    - **A:** To clear all the bubbles from the board to complete the level and move on to the next one.
-  A: はい、爆弾、カラーチェンジャーなどの特別なバブル。
+    - **A:** 盤面のバブルを消してレベルをクリアし、次へ進みます。
+  A: はい。爆弾やカラーチェンジャーなどの特別なバブルが用意されている場合があります。

@@ -64,23 +64,23 @@ ressources, d’obstacles et parfois de petites surprises.
   niveau.  
 - **Récolter les ressources produites** : touche ou clique les ressources qui
 
-- **Collect Resources:** Click on resources that spawn automatically (like wheat from a field) to collect them.
+- **Collecter des ressources :** clique sur les ressources qui apparaissent automatiquement (par exemple du blé d’un champ) pour les récupérer.
   apparaissent automatiquement pour les ajouter à ton stock.
 
 ### Foire aux questions (FAQ)
 
 
-- **A:** Merging 3 items gives you one higher-level item. Merging 5 items gives you two higher-level items, effectively giving you one for free. It is always more efficient to wait until you have five items to merge.
+- **A:** Fusionner 3 objets donne 1 objet de niveau supérieur. Fusionner 5 objets en donne 2 (tu en gagnes donc un « gratuit »). C’est toujours plus efficace d’attendre d’en avoir cinq quand c’est possible.
 
-    - **Q: What's the difference between merging 3 and merging 5?**
+    - **Q: Quelle est la différence entre fusionner 3 et fusionner 5 ?**
 
-- **A:** Keys are primarily earned by completing specific quests and fulfilling trade orders from the marketplace or villagers. Focus on these tasks to gather the keys you need.
+- **A:** Les clés se gagnent surtout en terminant des quêtes et en remplissant des commandes (marché / villageois). Concentre‑toi sur ces tâches pour obtenir ce qu’il te faut.
 
-    - **Q: How do I get more keys to unlock land?**
+    - **Q: Comment obtenir plus de clés pour débloquer du terrain ?**
 
-- **A:** The main goal is to restore and build your kingdom by merging items, completing quests for your villagers, and clearing the fog to expand your territory.
+- **A:** Le but est de restaurer et développer ton royaume en fusionnant des objets, en accomplissant les quêtes des villageois et en dissipant la brume pour agrandir ton territoire.
 
-    - **Q: What is the main goal of Castle Craft?**
+    - **Q: Quel est l’objectif principal de Castle Craft ?**
 **Q : Quel est l’objectif principal dans Castle Craft ?**  
 R : Ton but est de restaurer et d’agrandir ton royaume en fusionnant des
 ressources, en construisant des bâtiments et en complétant les quêtes des

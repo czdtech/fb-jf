@@ -1,6 +1,6 @@
 ---
 title: "Mini Golf World"
-description: "Mini Golf Worldは楽しいミニゴルフゲームです。クリエイティブなコースをプレイし、障害物をナビゲートし、パーを狙い、完璧なショットをマスターします。"
+description: "Mini Golf Worldはミニゴルフゲームです。コースの障害物を読み、少ないストロークでカップインを目指します。"
 iframeSrc: "https://minigolfworld.h5games.usercontent.goog/v/16n1ahfc60jgg/"
 thumbnail: "/new-images/mini-golf-world.png"
 urlstr: "mini-golf-world"
@@ -20,7 +20,7 @@ Mini Golf Worldは、さまざまなクリエイティブなコースを通し�
 1.  **パワーを調整:** ソフトショットは多くの場合、ハードヒットよりも良いです。
 2.  **角度を計画:** バウンスとリバウンドを予測します。
 3.  **障害物を学ぶ:** 各障害物がボールにどのように影響するかを理解します。
-4.  **忍耐強く:** パーよりも完璧なショットを目指します。
+4.  **焦らない:** 無理な一発狙いより、安定して寄せる方が結果につながります。
 5.  **練習:** 繰り返しがショットを改善します。
 
 ### 操作ガイド

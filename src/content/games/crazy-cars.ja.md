@@ -46,17 +46,14 @@ locale: ja
 
 ### よくある質問 (FAQ)
 
-*   **Q: 新しい車はどうやって手に入れますか？**
+- Q: 新しい車はどうやって手に入れますか？
+  
+  A: レースやタイムトライアルのクリア、スター/レンチの収集でお金を稼ぎ、ガレージで購入してアンロックします。
 
-A: Complete races and collect items to earn currency; spend it in the garage.
-- **A:** レースに勝ったりアイテムを集めてお金（カレンシー）を貯め、ガレージで購入します。
+- Q: オンライン対戦はできますか？
+  
+  A: 多くのブラウザ版はオンライン対戦に対応していません。ホスト（配信サイト）によってはローカルの画面分割（スプリットスクリーン）がある場合があります。
 
-
-A: Some browser versions offer local split‑screen; online multiplayer is typically not included.
-*   **Q: オンライン対戦はできますか？**
-
-A: Press R to reset near your last position.
-    *   **A:** 基本的には一人用、もしくは一台のPCでのローカル対戦（画面分割）のみです。
-
-*   **Q: 車がひっくり返って動けません。**
-    *   **A:** `R`キーを押すと、近くの安全な場所にリスポーン（復活）できます。
+- Q: 車がひっくり返って動けません。
+  
+  A: `R`キーで車をリセットし、近くの安全な場所に復帰できます。

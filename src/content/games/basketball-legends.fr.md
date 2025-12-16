@@ -20,7 +20,7 @@ Tu peux jouer en **1 contre 1** ou **2 contre 2**, contre l’IA ou un ami sur l
 
 ### Guide de jeu
 
-Pour gagner, il faut maitriser vos déplacements, le timing des tirs et exploiter le Super Shoot.
+Pour gagner, il faut maîtriser tes déplacements, le timing des tirs et exploiter le Super Shoot.
 
 #### En attaque
 

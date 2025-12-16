@@ -26,23 +26,23 @@ Tile Puzzleは、クラシックなスライディングタイルパズルゲー
 ### 操作ガイド
 
 
-The game is played with simple clicks or taps.
+操作はクリック/タップ中心で進められます。
  - **マウス/タッチ：** タイルをクリックまたはタップしてスライド
 
 ### よくある質問（FAQ）
 
 
-- **A:** If all seven slots in your collection tray are filled and you haven't made a match of three, you cannot make any more moves, and the game is over.
+- **A:** 行き詰まった場合は、リセットして最初からやり直すのが基本です（機能の有無はバージョンによって異なります）。
 
-    - **Q: What happens if the tray fills up?**
+    - **Q: 行き詰まったらどうなりますか？**
 
-- **A:** A tile only becomes available to select when there are no other tiles overlapping it from a higher layer. You must clear the tiles on top first.
+- **A:** 多くのスライドパズルでは、空きマスに隣接しているタイルだけが動かせます。
 
-    - **Q: Why are some tiles gray and unclickable?**
+    - **Q: なぜ一部のタイルが動かせませんか？**
 
-- **A:** To clear 100% of the tiles from the board by collecting them in sets of three in your tray.
+- **A:** タイルをスライドさせて正しい順序に並べ、画像を完成させることです。
 
-    - **Q: What is the main objective?**
+    - **Q: ゲームの目的は何ですか？**
 **ゲームの目標は何ですか？**
 
 タイルをスライドさせて、正しい順序に並べて画像を完成させることです。

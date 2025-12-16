@@ -1,6 +1,6 @@
 ---
 title: Ragdoll Archers
-description: Ragdoll Archersは物理ベースのアーチェリーゲームです。狙い、ショット、ラグドール物理をマスターし、対戦相手を打ち負かします。
+description: Ragdoll Archersは物理ベースのアーチェリーゲームです。角度とパワーを調整して矢を放ち、相手を倒します。
 iframeSrc: 'https://ragdollarchers.h5games.usercontent.goog/v/5k9j2m8h7p3n8/'
 thumbnail: /new-images/ragdoll-archers.png
 urlstr: ragdoll-archers
@@ -16,11 +16,11 @@ locale: ja
 
 ### ゲーム紹介
 
-Ragdoll Archersは、ラグドール物理をアーチェリー戦闘と組み合わせます。狙い、ショットし、対戦相手を物理ベースのアローで倒します。陽気なラグドール死と中毒性のあるゲームプレイ。シングルプレイヤーまたはマルチプレイヤー。
+Ragdoll Archersは、ラグドール物理を取り入れたアーチェリー対戦ゲームです。角度とパワーを調整して矢を放ち、相手を倒します。シングルプレイや対戦モードが用意されている場合があります。
 
 ### ゲームプレイ戦略と攻略法
 
-1.  **狙いを練習:" 角度と距離を学びます。
+1.  **狙いを練習:** 角度と距離を学びます。
 2.  **ヘッドショットを狙う:** より速い殺害。
 3.  **移動し続ける:** 簡単なターゲットにならないでください。
 4.  **風を使用:** 風の方向と速度を考慮します。
@@ -33,7 +33,7 @@ Ragdoll Archersは、ラグドール物理をアーチェリー戦闘と組み�
 - 移動キー（該当する場合）：動き回ります。
 
 
-- **Reload**: Some versions may require manual arrow reloading.
+- **リロード**: バージョンによっては、矢の装填を手動で行う必要があります。
 ### よくある質問 (FAQ)
 
 - **Q: マルチプレイヤーモードはありますか？**  
@@ -41,12 +41,12 @@ Ragdoll Archersは、ラグドール物理をアーチェリー戦闘と組み�
 - **Q: パワーアップはありますか？**  
   A: 一部のバージョンには特別なアローと能力があります。
 - **Q: 物理はどれくらいリアルですか？**  
-  A: これはラグドール物理です。陽気で予測不可能です！
+  A: これはラグドール物理です。コミカルで予測しにくい動きになります。
 
 
-**A**: This depends on the specific game mode; some modes have limited arrows while others allow unlimited use.
+**A**: モードによって異なります。矢に上限があるモードもあれば、無制限のモードもあります。
 
-- **Q: Is there a limit to the number of arrows?**
+- **Q: 矢の本数に制限はありますか？**
 
 
-**A**: This depends on the specific game mode; some modes have limited arrows while others allow unlimited use.
+**A**: モードによって異なります。矢に上限があるモードもあれば、無制限のモードもあります。

@@ -1,6 +1,6 @@
 ---
 title: "Mergest Kingdom"
-description: "Mergest Kingdomは王国構築マージゲームです。アイテムをマージし、建物を建設し、王国を拡大し、壮大な帝国を作成します。"
+description: "Mergest Kingdomは王国構築系のマージゲームです。アイテムをマージして建物を建て、土地を広げながら王国を発展させます。"
 iframeSrc: "https://mergestkingdom.h5games.usercontent.goog/v/25s7sil9mjn60/"
 thumbnail: "/new-images/mergest-kingdom.png"
 urlstr: "mergest-kingdom"
@@ -13,7 +13,7 @@ locale: ja
 
 ### ゲーム紹介
 
-Mergest Kingdomは、豊かなマージメカニクスと王国構築を組み合わせます。リソース、建物、ユニットをマージして繁栄する王国を作成します。土地を探索し、クエストを完了し、帝国を拡大します。
+Mergest Kingdomは、マージ要素と王国づくりを組み合わせたゲームです。資源や建物、ユニットをマージして強化し、土地を探索しながら王国を広げていきます。
 
 ### ゲームプレイ戦略と攻略法
 
@@ -32,7 +32,7 @@ Mergest Kingdomは、豊かなマージメカニクスと王国構築を組み�
 ### よくある質問 (FAQ)
 
 - **Q: 5つのマージが常に良いですか？**  
-  A: はい、ボーナスアイテムを提供します。可能な限り。
+  A: 多くの場合はボーナスが付くので有利です。可能なら5つマージを狙いましょう。
 - **Q: 新しい土地をアンロックするにはどうすればよいですか？**  
   A: 霧をクリアするために特定のアイテムをマージします。
 - **Q: 最高の建設戦略は何ですか？**  

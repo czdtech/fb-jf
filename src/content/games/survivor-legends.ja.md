@@ -24,7 +24,7 @@ Survivor Legendsは、過酷な環境で生き残るサバイバル戦略ゲー�
  - **探索：** 新しいエリアと資源を発見します
 
 
-- Ult windows: Save actives for wave spikes and elite packs.
+- 必殺技の使い所：危険な波（ウェーブ）や強敵が来る場面に合わせて温存します。
 ### 操作ガイド
 
  - **WASD：** 移動
@@ -34,11 +34,11 @@ Survivor Legendsは、過酷な環境で生き残るサバイバル戦略ゲー�
 ### よくある質問（FAQ）
 
 
-- Q: I get cornered.
+- Q: 追い詰められて動けなくなります。
 **ゲームの目標は何ですか？**
 
 
-- Q: Which upgrades first?
+- Q: 何を優先して強化すべきですか？
 できるだけ長く生き残り、避難所を発展させることです。
 
 **資源は重要ですか？**

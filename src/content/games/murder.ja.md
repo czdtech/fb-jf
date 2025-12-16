@@ -27,17 +27,17 @@ Murderは、王を暗殺しようとする緊張感のある戦略ゲームで�
 5.  **パターンを学ぶ:** 王の動きのパターンを観察します。
 
 
-    - **Utilize Environment**: Familiarity with the game map and mechanics can help the murderer hide better or civilians find clues faster.
+    - **周囲を利用**: 王の動きや演出を覚えて、安全なタイミングを作ります。
 
-    - **Maintain Communication**: Civilians need to communicate effectively and share information.
+    - **注意を切らさない**: 王になった後は、後ろを確認する癖を付けて暗殺を防ぎます。
 
-    - **General Strategies**:
+    - **基本**:
 
-- **Reason Logically**: Through discussion and analysis, gradually narrow down the list of suspects.
+- **タイミングで判断**: 残り距離と王の動きから、今行くか待つかを決めます。
 
-    - **Gather Clues**: Look for in-game hints or events that might point to the murderer.
+    - **視線を確認**: 王がこちらを見ていないときだけ攻撃を狙います。
 
-    - **Observe Behavior**: Pay attention to unusual actions from other players, such as acting alone or frequently approaching targets.
+    - **動きを読む**: 振り向きの間隔に慣れて、無理な突っ込みを減らします。
 ### 操作ガイド
 
 - スペース/クリック/タップを押し続けて攻撃します。
@@ -45,7 +45,7 @@ Murderは、王を暗殺しようとする緊張感のある戦略ゲームで�
 - 王として：マウス/タッチで後ろを確認します。
 
 
-- **Civilian Self-defense**: In some game versions, civilians can defend themselves or fight back under certain conditions.
+- **王としての防衛**: 背後に近づかれないように、こまめに確認して暗殺者を止めます。
 ### よくある質問 (FAQ)
 
 - **Q: 継続的に捕まります。ヒントは？**  
@@ -53,12 +53,12 @@ Murderは、王を暗殺しようとする緊張感のある戦略ゲームで�
 - **Q: 王としてどのくらい生き残るべきですか？**  
   A: できるだけ長く！頻繁に後ろを確認します。
 - **Q: マルチプレイヤーモードはありますか？**  
-  A: 一部のバージョンは友達とのローカルマルチプレイヤーを提供します。
+  A: 多くは1人用ですが、バージョンによってはローカル対戦が用意されている場合もあります。
 
 
-**A**: Such games usually require at least 4-6 players for a good experience, depending on the game version and rule settings.
+**A**: このゲームは基本的に1人用です。人数の条件はありません。
 
-- **Q: How many players are typically needed to start a game?**
+- **Q: 開始に必要な人数はありますか？**
 
 
-**A**: Such games usually require at least 4-6 players for a good experience, depending on the game version and rule settings.
+**A**: このゲームは基本的に1人用です。人数の条件はありません。

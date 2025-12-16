@@ -1,6 +1,6 @@
 ---
 title: Powerwall
-description: Powerwallはブロック破壊ゲームです。ボールを発射し、ブロックを破壊し、パワーアップを収集し、壁を突破します。
+description: Powerwallはブロック破壊ゲームです。パドルでボールを跳ね返し、ブロックを壊して進みます。
 iframeSrc: 'https://powerwall.h5games.usercontent.goog/v/5k9j2m8h7p3n8/'
 thumbnail: /new-images/powerwall.png
 urlstr: powerwall
@@ -37,11 +37,11 @@ Powerwallは、クラシックなブロック破壊ゲームプレイにパワ�
   A: マルチボール（より多くのチャンス）とレーザー（直接破壊）。
     - **Q: すべてのボールを失った場合はどうなりますか？**  
   A: レベルを再起動します。
-- **Q: レベルはいくつありますか？**  
+- **Q: レベル数や目標は？**  
 
-    - **A:** The goal is to survive for as long as possible and achieve the highest score you can by successfully blocking the ball.
+    - **A:** 目的はボールを落とさずにブロックを壊し続け、できるだけ高いスコアを目指すことです。
 
-- **Q: What is the goal of the game?**
+- **Q: ボールの速度を遅くできますか？**
 
-    - **A:** In the standard game mode, the ball's speed only increases. There are no power-ups to slow it down; the challenge comes from adapting to the increasing speed.
+    - **A:** 標準モードではボール速度が上がっていく場合があります。速度を下げるパワーアップがないバージョンでは、速さに慣れて対応することがポイントです。
   A: バージョンによって異なります。多くは数十。

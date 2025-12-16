@@ -53,17 +53,21 @@ blocs, faire descendre des objets, etc.
 ### Foire aux questions (FAQ)
 
 
-- **A:** Many levels in Diamond Rush are timed, requiring you to complete the objectives before the clock runs out. Some levels might be move-limited instead.
+- **R :** Beaucoup de niveaux sont chronométrés : tu dois remplir l’objectif avant
+  la fin du temps. D’autres niveaux sont plutôt limités en nombre de coups.
 
-    - **Q: Is there a time limit in the game?**
+    - **Q : Y a‑t‑il une limite de temps ?**
 
-- **A:** Power-ups are created by matching more than three diamonds in a single move. For example, matching four diamonds might create a line-clearing gem, and five might create a bomb or a color-clearing gem.
+- **R :** Les bonus se créent en alignant plus de trois gemmes en un seul coup.
+  Par exemple, un alignement de 4 peut créer une gemme “ligne”, et 5 peut créer
+  une bombe ou un bonus qui nettoie une couleur.
 
-    - **Q: How do I get power-ups or special diamonds?**
+    - **Q : Comment obtenir des bonus ou des gemmes spéciales ?**
 
-- **A:** The goal is to complete the specific objectives of each level, which typically involve matching diamonds to clear them from the board, achieve a target score, or break obstacles.
+- **R :** Le but est de remplir les objectifs de chaque niveau : faire des matchs
+  pour nettoyer la grille, atteindre un score cible, casser des obstacles, etc.
 
-    - **Q: What is the goal of Diamond Rush?**
+    - **Q : Quel est l’objectif de Diamond Rush ?**
 **Q : Les diagonales comptent‑elles ?**  
 R : En général, seules les lignes horizontales et verticales sont valides, sauf
 indication contraire.

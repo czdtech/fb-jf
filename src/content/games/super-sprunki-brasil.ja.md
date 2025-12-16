@@ -21,7 +21,7 @@ Super Sprunki Brasilは、ブラジルの音楽と文化にインスパイアさ
 ### 主な特徴
 
 
-Simply put, Super Sprunki Brasil is a music game that allows you to experience Brazilian flair. The game's bright colors, enthusiastic characters, and rich Brazilian musical elements will immerse you in a vibrant and culturally rich musical world.
+簡単に言えば、Super Sprunki Brasilはブラジル風の雰囲気で音作りを楽しめるModです。明るい色合いのビジュアルや、ブラジルのリズムを意識したサウンド要素でトラックを作れます。
  - **ブラジルテーマ：** ブラジルの音楽と文化にインスパイアされたキャラクターとサウンド
  - **熱帯リズム：** サンバ、ボサノバ、その他のブラジルリズム
  - **カラフルなビジュアル：** 活気のあるブラジルテーマのグラフィックス
@@ -34,51 +34,51 @@ Simply put, Super Sprunki Brasil is a music game that allows you to experience B
  - サンバリズムを作成
  - ブラジルスタイルの音楽を楽しむ
 
-Super Sprunki Brasilで、ブラジルの音楽的魔法を体験しましょう！
+Super Sprunki Brasilでは、ブラジル風のリズムを使って雰囲気のあるトラックを作れます。
 
 
 
-- **Share Your Mix:** Once you've created your music, share it online or with friends to spread the festive spirit.
+- **作品を共有：** 保存・共有機能の有無は、配信元やバージョンによって異なります。
 
-- **Unlock Bonuses:** Achieve specific sound combinations to unlock bonus animations or special musical sequences, adding depth to the gameplay.
+- **ボーナスを解放：** 特定の組み合わせで、アニメーションや特別な演出が解放される場合があります。
 
-- **Combine Sounds:** Mix and match different sound elements to create a unique Brazilian-themed music track. Try experimenting with layering beats and vocals for more dynamic compositions.
+- **サウンドを組み合わせる：** さまざまな要素をミックスして、ブラジルテーマのトラックに整えます。ビートやボーカル（ある場合）を重ねると厚みが出ます。
 
-- **Drag and Drop Sounds:** Players can choose from various sound icons that represent beats, melodies, and vocals inspired by Brazilian music. Drag these icons onto the character avatars to activate the sounds.
-Super Sprunki Brasil is an Incredibox Mod that allows you to ignite your musical creativity with the passionate Brazilian flair. Come and join Super Sprunki Brasil, and use your music to convey the passion and vitality of Brazil to the world!
+- **ドラッグ＆ドロップ：** ビート、メロディ、ボーカルなどのアイコンをキャラクターにドラッグして音を鳴らします。
+Super Sprunki Brasilは、ブラジル風のサウンドで音作りを楽しめるIncredibox系Modです。組み合わせを変えて、好みの雰囲気に整えていきましょう。
 
-### Conclusion:
-
----
-
-- **Surprise-Filled Bonus Mechanism:** Unlock bonus animations or special musical sequences with specific sound combinations, making your creation process more interesting.
-
-- **Rich Musical Elements:** The game provides a variety of Brazilian music beats, melodies, and vocals, allowing you to unleash your creativity.
-
-- **Simple and Easy-to-Use Operation:** You can create unique Brazilian-themed music with simple drag-and-drop operations.
-
-- **Unique Brazilian Flair:** The game incorporates Brazilian culture and musical elements, allowing you to feel the exotic flair while creating music.
-
-### Highlights of Super Sprunki Brasil:
-
-- **Use the Visuals for Inspiration:** The colorful and culturally themed visuals can guide your musical choices to better reflect the theme.
-
-- **Aim for Bonus Combinations:** Certain sound sequences may unlock bonus content, which can make your track more engaging.
-
-- **Layer Melodies and Vocals:** For a richer sound, try layering different melodies and vocals to complement the rhythms.
-
-- **Explore Brazilian Rhythms:** Focus on incorporating traditional Brazilian rhythms and instruments for an authentic feel.
-
-
----
-### Tips and Tricks for Super Sprunki Brasil:
+### 結論：
 
 ---
 
-- **Share Your Mix:** Once you've created your music, share it online or with friends to spread the festive spirit.
+- **ボーナス要素：** 特定の組み合わせで、アニメーションや特別な演出が出る場合があります。
 
-- **Unlock Bonuses:** Achieve specific sound combinations to unlock bonus animations or special musical sequences, adding depth to the gameplay.
+- **豊富な音素材：** ブラジル風のビートやメロディ、ボーカル（ある場合）を使って試行錯誤できます。
 
-- **Combine Sounds:** Mix and match different sound elements to create a unique Brazilian-themed music track. Try experimenting with layering beats and vocals for more dynamic compositions.
+- **シンプルな操作：** ドラッグ＆ドロップで手早くトラックを組み立てられます。
 
-- **Drag and Drop Sounds:** Players can choose from various sound icons that represent beats, melodies, and vocals inspired by Brazilian music. Drag these icons onto the character avatars to activate the sounds.
+- **ブラジルの雰囲気：** ブラジル風の要素を取り入れたサウンドと見た目で雰囲気を作れます。
+
+### Super Sprunki Brasilのヒント：
+
+- **見た目を参考にする：** 色合いやテーマに合わせて音の役割を決めるとまとまりやすいです。
+
+- **ボーナス組み合わせを狙う：** 組み合わせ次第で追加要素が出る場合があります。
+
+- **メロディとボーカルを重ねる：** リズムに対してメロディやボーカル（ある場合）を足すと厚みが出ます。
+
+- **ブラジルのリズムを意識：** リズムのパターンを揃えると、テーマの雰囲気が出やすいです。
+
+
+---
+### Super Sprunki Brasilのコツ：
+
+---
+
+- **作品を共有：** 保存・共有機能の有無は、配信元やバージョンによって異なります。
+
+- **ボーナスを解放：** 特定の組み合わせで、アニメーションや特別な演出が解放される場合があります。
+
+- **サウンドを組み合わせる：** さまざまな要素をミックスして、ブラジルテーマのトラックに整えます。
+
+- **ドラッグ＆ドロップ：** 音アイコンをキャラクターにドラッグして音を鳴らします。

@@ -1,6 +1,6 @@
 ---
 title: Pixel Shooter
-description: Pixel Shooterはレトロシューターです。敵を撃ち、武器をアップグレードし、波を生き残り、ピクセルアート戦闘をマスターします。
+description: Pixel Shooterはレトロ風のアクションシューターです。敵の波をしのぎ、武器を強化しながら生き残りを目指します。
 iframeSrc: 'https://pixelshooter.h5games.usercontent.goog/v/2j9k5m8h7p3n8/'
 thumbnail: /new-images/pixel-shooter.png
 urlstr: pixel-shooter
@@ -32,7 +32,7 @@ Pixel Shooterは、レトロなピクセルアートスタイルのアクショ�
 - R：リロード（該当する場合）。
 
 
-- **Switch Weapons**: Some game versions may offer a weapon switching function, usually via number keys or mouse scroll wheel.
+- **武器切り替え**: バージョンによっては、数字キーやマウスホイールで武器を切り替えられます。
 ### よくある質問 (FAQ)
 
 - **Q: 継続的に殺される。ヒントは？**  
@@ -43,9 +43,9 @@ Pixel Shooterは、レトロなピクセルアートスタイルのアクショ�
   A: 多くのバージョンにはエンドレス生存モードがあります。
 
 
-**A**: Health packs restore your character's health, helping you survive during intense battles.
+**A**: 回復アイテム（ヘルスパック）は体力を回復し、戦闘を継続しやすくします。
 
-- **Q: What are "health packs" for in the game?**
+- **Q: 「ヘルスパック」は何に使いますか？**
 
 
-**A**: Health packs restore your character's health, helping you survive during intense battles.
+**A**: 回復アイテム（ヘルスパック）は体力を回復し、戦闘を継続しやすくします。

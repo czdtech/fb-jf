@@ -40,29 +40,29 @@ Dans *Bubble Woods Ultimate*, tu n’as que 60 secondes pour faire un maximum d
 
 
 
-- **A:** That is your Fireball meter. It fills up with each successful shot. When you make 10 consecutive hits, it will be full, and your next shot will be a powerful Fireball.
+- **R :** C’est ta jauge Fireball. Elle se remplit à chaque tir réussi. Après 10 touches consécutives, elle est pleine et ton prochain tir devient une Fireball très puissante.
 
-- **Q: What is the bar at the bottom next to the cannon?**
+- **Q : À quoi sert la barre en bas, près du canon ?**
 
-    - **A:** The only way to get more time is by hitting the special Hourglass bubbles that appear on the board.
+    - **R :** La seule façon de gagner du temps est de toucher les bulles « sablier » qui apparaissent sur le plateau.
 
-- **Q: How do I get more time?**
+- **Q : Comment obtenir plus de temps ?**
 
-    - **A:** To score as many points as you can within the 60-second time limit.
+    - **R :** Le but est de marquer un maximum de points dans la limite de 60 secondes.
 
-- **Q: What is the main objective?**
+- **Q : Quel est l’objectif principal ?**
 
 ### Foire aux questions (FAQ)
 
-- **Swap:** You can often click on the cannon or the next bubble in the queue to swap between your current and next projectile.
+- **Échanger (swap) :** tu peux souvent cliquer sur le canon ou sur la prochaine bulle pour échanger le projectile actuel avec le suivant.
 
 
-    - **A:** That is your Fireball meter. It fills up with each successful shot. When you make 10 consecutive hits, it will be full, and your next shot will be a powerful Fireball.
+    - **R :** C’est ta jauge Fireball. Elle se remplit à chaque tir réussi. Après 10 touches consécutives, elle est pleine et ton prochain tir devient une Fireball très puissante.
 
-- **Q: What is the bar at the bottom next to the cannon?**
+- **Q : À quoi sert la barre en bas, près du canon ?**
 
-    - **A:** The only way to get more time is by hitting the special Hourglass bubbles that appear on the board.
+    - **R :** La seule façon de gagner du temps est de toucher les bulles « sablier » qui apparaissent sur le plateau.
 
-- **Q: How do I get more time?**
+- **Q : Comment obtenir plus de temps ?**
 
-    - **A:** To score as many points as you can within the 60-second time limit.
+    - **R :** Le but est de marquer un maximum de points dans la limite de 60 secondes.

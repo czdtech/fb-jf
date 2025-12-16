@@ -56,22 +56,25 @@ avancer progressivement même si certaines définitions sont difficiles.
 ### Foire aux questions (FAQ)
 
 
-- Q: Are the puzzles timed?
+- Q: Les grilles sont‑elles chronométrées ?
 
 
-- Use Check/Reveal sparingly if the site tracks time.
+- Utilise Check/Reveal avec parcimonie si le site tient compte du temps.
 
-- Leverage the theme: once you see the pattern, other themers fall faster.
+- Appuie‑toi sur le thème : une fois le pattern compris, les autres entrées
+  thématiques viennent plus vite.
 ### Foire aux questions (FAQ)
 
-- Use Check/Reveal sparingly if the site tracks time.
+- Utilise Check/Reveal avec parcimonie si le site tient compte du temps.
 
-- Leverage the theme: once you see the pattern, other themers fall faster.
+- Appuie‑toi sur le thème : une fois le pattern compris, les autres entrées
+  thématiques viennent plus vite.
 
-- Scan for easy fill‑in‑the‑blank clues, plurals, and common abbreviations.
+- Commence par les indices faciles (phrases à trous, pluriels) et les
+  abréviations courantes.
 **Q : Puis‑je vérifier une seule lettre sans tout révéler ?**  
 
-- Q: Can I play past themes?
+- Q: Puis‑je rejouer les thèmes passés ?
 R : La plupart des versions proposent un bouton de vérification par lettre ou
 par mot pour garder le défi tout en ayant un peu d’aide.
 

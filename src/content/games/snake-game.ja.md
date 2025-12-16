@@ -1,6 +1,6 @@
 ---
 title: Snake Game
-description: Snake Gameはクラシックなヘビゲームです。食べ物を食べ、成長し、自分自身を避け、クラシックアーケードをマスターします。
+description: Snake Gameはクラシックなヘビゲームです。食べ物を食べて成長し、壁や自分の体に当たらないように進みます。
 iframeSrc: 'https://snakegame.h5games.usercontent.goog/v/2j9k5m8h7p3n8/'
 thumbnail: /new-images/snake-game.png
 urlstr: snake-game
@@ -16,15 +16,15 @@ locale: ja
 
 ### ゲーム紹介
 
-Snake Gameは、すべての時代のクラシックなアーケードゲームです。画面を移動してヘビを導き、食べ物を食べて成長し、壁や自分自身の尾に当たらないようにします。シンプルなゲームプレイ、エンドレスな挑戦。
+Snake Gameは、ヘビを操作して食べ物を食べ、体を伸ばしていくクラシックなアーケードゲームです。壁や自分の体に当たらないように進み、できるだけ長く続けます。
 
 ### ゲームプレイ戦略と攻略法
 
-1.  **先を計画:" 数手先を考えます。
-2.  **スペースを使用:" 中央に固執しないでください。
-3.  **エッジを避ける:" 壁に近づきすぎないようにします。
-4.  **パターンを作成:" 安全なルートを確立します。
-5.  **忍耐強く:" 急ぐと間違いが起こります。
+1.  **先を計画:** 数手先を考えます。
+2.  **スペースを使う:** 盤面の空きを意識します。
+3.  **壁に寄りすぎない:** 逃げ道がなくなります。
+4.  **安全な形を作る:** 自分の体が邪魔にならないルートを保ちます。
+5.  **焦らない:** 急ぐほど事故が増えます。
 
 ### 操作ガイド
 
@@ -33,7 +33,7 @@ Snake Gameは、すべての時代のクラシックなアーケードゲーム�
 - 自分自身と壁を避けます。
 
 
-- **Move Right**: Press right arrow key or D key to move right.
+- **右移動**: 右矢印キー、またはDキーで右へ進みます。
 ### よくある質問 (FAQ)
 
 - **Q: 最大の長さは何ですか？**  
@@ -44,9 +44,9 @@ Snake Gameは、すべての時代のクラシックなアーケードゲーム�
   A: クラシックモードはエンドレスです。一部のバージョンにはレベルがあります。
 
 
-**A**: Classic versions usually have only one mode, but modern versions may include different challenges and variations.
+**A**: クラシック版はモードが1つだけのことが多いですが、最近の版ではチャレンジやバリエーションが用意されている場合があります。
 
-- **Q: Are there different game modes?**
+- **Q: ゲームモードは複数ありますか？**
 
 
-**A**: Classic versions usually have only one mode, but modern versions may include different challenges and variations.
+**A**: クラシック版はモードが1つだけのことが多いですが、最近の版ではチャレンジやバリエーションが用意されている場合があります。

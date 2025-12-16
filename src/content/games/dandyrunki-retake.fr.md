@@ -44,9 +44,11 @@ tu vas souvent recommencer, mais chaque tentative te fait progresser.
 - **Pause** : touche ou bouton de menu.
 
 
-- **Smoother Operation Experience:** The carefully tuned drag-and-drop mechanism allows players of all ages to easily get started and enjoy the fun of music creation.
+- **Expérience plus fluide** : des contrôles bien réglés rendent les déplacements
+  et les sauts plus précis, ce qui aide dans un platformer exigeant.
 
-- **Better Sound Effects:** Brand new beats and melodies bring you a vibrant listening experience while maintaining the playful style of the original Mod.
+- **Meilleurs effets sonores** : sons retravaillés pour une ambiance plus nette,
+  tout en restant dans un style rétro.
 ### Foire aux questions (FAQ)
 
 **Q : Le jeu est‑il très punitif ?**  

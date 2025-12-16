@@ -42,9 +42,9 @@ Pacman 30th Anniversaryは、象徴的なPac-Manの30周年を祝います。オ
   A: 技術的には、しかし難易度が上がります。
 
 
-**A**: Many versions of "Pacman 30th Anniversary" feature local or online scoreboards, allowing players to compete for high scores.
+**A**: バージョンによってはローカルまたはオンラインのスコアボードがあり、ハイスコアを競えます。
 
-- **Q: Does the game have a leaderboard?**
+- **Q: ランキング（リーダーボード）はありますか？**
 
 
-**A**: Many versions of "Pacman 30th Anniversary" feature local or online scoreboards, allowing players to compete for high scores.
+**A**: バージョンによってはローカルまたはオンラインのスコアボードがあり、ハイスコアを競えます。

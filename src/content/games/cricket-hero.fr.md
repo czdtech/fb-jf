@@ -50,17 +50,20 @@ L’objectif est de réaliser le plus de points possible avant de te faire
 ### Foire aux questions (FAQ)
 
 
-- **A:** Yes, as you score more runs, you will likely face different bowlers who may bowl at different speeds or with different styles, adding to the challenge.
+- **R :** Oui. En marquant plus de runs, tu rencontres souvent des bowlers
+  différents, avec des vitesses et styles variés, ce qui augmente la difficulté.
 
-    - **Q: Are there different types of bowlers?**
+    - **Q : Y a‑t‑il différents types de bowlers ?**
 
-- **A:** The game ends when you are bowled out, meaning the ball hits your wickets. You have a limited number of wickets (or lives) per game.
+- **R :** La partie se termine quand tu es éliminé (par ex. “bowled”, la balle
+  touche les wickets). Tu as un nombre limité de wickets (ou de vies) par partie.
 
-    - **Q: How does the game end?**
+    - **Q : Comment la partie se termine‑t‑elle ?**
 
-- **A:** You score runs by successfully hitting the ball with your bat. The better your timing, the more runs you will score on a single hit (e.g., 4s and 6s).
+- **R :** Tu marques des runs en frappant la balle. Plus ton timing est bon,
+  plus tu as de chances de faire un gros coup (par ex. un 4 ou un 6).
 
-    - **Q: How do I score runs?**
+    - **Q : Comment marquer des runs ?**
 **Q : Pourquoi suis‑je souvent bowled ou LBW ?**  
 R : Tu joues probablement trop tôt ou trop tard. Essaie de frapper la balle
 plus près de toi, après le rebond.

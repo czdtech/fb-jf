@@ -19,7 +19,7 @@ Stick Warは、戦略とアクションを完璧にブレンドしたスティ�
 ### ゲームプレイガイド
 
 
-The core of the game revolves around managing resources and commanding your army.
+このゲームの中心は、リソース管理と軍隊の指揮です。
  - **リソース管理：** 金を集めて軍隊を構築します
  - **ユニット作成：** さまざまなタイプのユニットを訓練します
  - **戦闘：** 軍隊を指揮して敵と戦います
@@ -31,7 +31,7 @@ The core of the game revolves around managing resources and commanding your army
  - **キーボード：** ユニットの作成と特別なアクション
 
 
-- **Attack (when controlling a unit):** `Spacebar`.
+- **攻撃（ユニット操作時）：** `スペースバー`
 ### よくある質問（FAQ）
 
 **ゲームの目標は何ですか？**

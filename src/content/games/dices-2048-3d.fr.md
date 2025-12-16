@@ -3,8 +3,8 @@ locale: fr
 urlstr: dices-2048-3d
 title: 'Dices 2048 3D'
 description: >-
-  Dices 2048 3D fuses 2048 with dice physics — merge same‑value dice to
-  climb toward 2048 in three dimensions.
+  Dices 2048 3D mélange 2048 et la physique des dés : fusionne des dés de même
+  valeur pour viser 2048 en trois dimensions.
 iframeSrc: 'https://dices20483d.h5games.usercontent.goog/v/4fsrag1lb33t8/'
 thumbnail: /new-images/dices-2048-3d.png
 tags:
@@ -20,25 +20,40 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### Detailed Game Introduction
 
-Dices 2048 3D is a physics‑infused take on the classic 2048 merging puzzle. Drop or slide dice so that identical face values collide and merge into the next value (e.g., 2→4→8). Gravity, bounce, and 3D placement create fresh tactics around stacking, spacing, and controlling accidental merges.
+Dices 2048 3D est une variante de 2048 avec de la physique. Fais tomber ou
+glisser des dés pour que des valeurs identiques se percutent et fusionnent en
+la valeur suivante (par ex. 2→4→8). La gravité, les rebonds et le placement en
+3D créent de nouvelles tactiques autour de l’empilement, de l’espace et du
+contrôle des fusions accidentelles.
 
 ### Gameplay Strategy & Walkthrough
 
-1.  Keep lanes clean: Reserve a column for combining and another for staging; avoid cluttered piles that block merges.
-2.  Chain reactions: Set up multiple adjacent pairs so one merge cascades into the next for big score swings.
-3.  Value management: Don’t spawn a higher value in a corner with no neighbors; keep equal values within one move of contact.
-4.  Tame physics: Soft drops and short nudges reduce unwanted bounces; let dice settle before committing the next piece.
-5.  Bail‑out moves: When the board rises, clear space with safe merges rather than fishing for perfect chains.
+1.  Garde des couloirs propres : réserve une colonne pour fusionner et une autre
+    pour “stocker” temporairement ; évite les piles confuses qui bloquent les
+    fusions.
+2.  Réactions en chaîne : place plusieurs paires proches pour qu’une fusion en
+    déclenche une autre, et fais grimper le score.
+3.  Gestion des valeurs : évite de créer une valeur élevée dans un coin sans
+    voisins ; garde les mêmes valeurs à une fusion de distance.
+4.  Dompte la physique : petites chutes et petits ajustements réduisent les
+    rebonds non voulus ; laisse les dés se stabiliser avant le suivant.
+5.  Coups de secours : quand le plateau monte, libère de l’espace avec des
+    fusions sûres plutôt que de chercher le combo parfait.
 
 ### Controls Guide
 
-- Aim/Place: Move cursor or drag to choose drop position; some versions allow rotation.
-- Drop/Confirm: Click/tap to release the die.
-- Undo/Retry (if available): Limited undos may exist; use them to rescue misdrops.
+- Viser/placer : déplace le curseur ou fais glisser pour choisir la position ;
+  certaines versions permettent la rotation.
+- Lâcher/valider : clique/tape pour libérer le dé.
+- Annuler/Rejouer (si disponible) : des annulations limitées peuvent exister ;
+  utilise‑les pour sauver une mauvaise chute.
 
 ### Frequently Asked Questions (FAQ)
 
-- How do dice merge? Identical values touching merge into the next value (e.g., two 8s become a 16).
-- I keep causing accidental merges—how to stop? Reduce drop height, wait for full settle, and avoid diagonal ricochets.
-- Is there an end? The game ends when no legal placements remain or the container overflows; aim to reach 2048 or beyond.
+- Comment les dés fusionnent‑ils ? Deux valeurs identiques qui se touchent
+  fusionnent en la valeur suivante (par ex. deux 8 deviennent 16).
+- Je provoque des fusions accidentelles — comment éviter ? Réduis la hauteur de
+  chute, attends la stabilisation complète, et évite les ricochets diagonaux.
+- Y a‑t‑il une fin ? La partie se termine quand aucun placement légal ne reste
+  ou quand le conteneur déborde ; vise 2048 (ou plus).
 

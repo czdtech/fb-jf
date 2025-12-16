@@ -65,15 +65,15 @@ la précision de ton tir, de l’angle choisi et de la gestion des rebonds.
 ### Foire aux questions (FAQ)
 
 
-- Q: What is “covering the queen”?
+- Q : Que veut dire « couvrir la dame » ?
 **Q : Que veut dire "couvrir la dame" ?**  
 
-- Q: How to avoid scratches?
-R : Quand tu empoches la dame, tu dois impérativement rentrer l’un de tes pions
+- Q : Comment « couvrir » la dame ?
+R : Quand tu empoches la dame, tu dois impérativement rentrer l’un de tes pions au coup suivant pour la valider. Si tu échoues, la dame est remise sur le plateau.
 
-- Q: Are board speeds adjustable?
-au coup suivant pour la valider. Si tu échoues, la dame est remise sur le
-plateau.
+- Q : Peut‑on modifier la vitesse du plateau ?
+R : Certaines versions permettent d’ajuster la friction ou la sensibilité. Si ce
+n’est pas possible, adapte simplement la force de tes tirs en conséquence.
 
 **Q : Comment éviter que le striker tombe dans un trou ?**  
 R : Contrôle mieux la puissance et l’angle. Évite les tirs trop droits vers les

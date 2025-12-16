@@ -16,7 +16,7 @@ locale: ja
 
 ### ゲーム紹介
 
-Paper.ioは、プレイヤーがボードのできるだけ多くの領土を征服することを競う中毒性のあるマルチプレイヤーゲームです。安全なエリアから外に移動し、パスをトレースし、安全なゾーンに戻って領土を主張します。しかし注意してください：トレール上であなたに当たると死にます！
+Paper.ioは、ボード上の領土を広げて競うマルチプレイヤーゲームです。自分の領土から外に出て線を引き、領土内に戻ると囲んだ範囲が自分のものになります。ただし、線を引いている最中に攻撃されると倒されます。
 
 ### ゲームプレイ戦略と攻略法
 
@@ -42,9 +42,9 @@ Paper.ioは、プレイヤーがボードのできるだけ多くの領土を征
   A: はい！彼らのトレールを横切って排除します。
 
 
-**A**: Avoid staying outside your territory for too long, especially while drawing lines, and always be aware of nearby enemies. When enemies approach, quickly return to your own territory.
+**A**: 自分の領土の外に長く留まらないようにし、周囲の敵の位置を常に意識しましょう。敵が近づいたら、素早く自分の領土に戻るのが安全です。
 
-- **Q: How do I avoid being eliminated by other players?**
+- **Q: 他のプレイヤーに倒されないコツはありますか？**
 
 
-**A**: Avoid staying outside your territory for too long, especially while drawing lines, and always be aware of nearby enemies. When enemies approach, quickly return to your own territory.
+**A**: 自分の領土の外に長く留まらないようにし、周囲の敵の位置を常に意識しましょう。敵が近づいたら、素早く自分の領土に戻るのが安全です。

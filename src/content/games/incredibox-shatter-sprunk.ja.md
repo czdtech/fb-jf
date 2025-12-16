@@ -1,6 +1,6 @@
 ---
 title: "Incredibox Shatter Sprunk - Play Incredibox Shatter Sprunk Online"
-description: "Incredibox Shatter Sprunkはファン作成のIncredib​​oxモッド音楽ゲームです。このバージョンでは、すべてのキャラクターが印象的な黄色で表示され、各キャラクターがユニークで反復不可能なサウンドエフェクトを持っています。"
+description: "Incredibox Shatter Sprunkはファン作成のIncrediboxモッド音楽ゲームです。このバージョンでは、すべてのキャラクターが印象的な黄色で表示され、各キャラクターがユニークなサウンドエフェクトを持っています。"
 iframeSrc: "https://turbowarp.org/1144858827/embed"
 thumbnail: "/incredibox-shatter-sprunk.png"
 urlstr: "incredibox-shatter-sprunk"
@@ -11,7 +11,7 @@ locale: ja
 
 ### Incredibox Shatter Sprunkの面白さとは？
  
-Incredibox Shatter Sprunk、ファンモッドは、Incredib​​oxのクラシックゲームプレイとSprunkiの風変わりなスタイルを組み合わせた音楽世界にあなたを連れて行きます！ここでは、ユニークなアニメーションキャラクターのグループと一緒に独自の音楽作品を作成します。
+Incredibox Shatter Sprunkは、Incrediboxのクラシックなドラッグ＆ドロップ操作に、Sprunki由来のスタイルを組み合わせたファンモッドです。キャラクターとサウンドを組み合わせて、ループ音楽を作っていきます。
  
 ### Incredibox Shatter Sprunkの遊び方は？
  
@@ -41,5 +41,5 @@ Incredibox Shatter Sprunkの操作は非常にシンプルで、マウスで簡�
 ### Incredibox Shatter Sprunkのハイライト：
  
  - **シンプルで使いやすい操作:** マウス操作はシンプルで直感的で、すべての年齢とスキルレベルのプレイヤーが簡単に始めることができます。
- - **ユニークなSprunkiスタイル:** Sprunkiの奇妙で革新的なスタイルを組み合わせ、異なるIncredib​​oxを体験できます。
+ - **ユニークなSprunkiスタイル:** Sprunkiのスタイル要素を取り入れ、通常のIncrediboxとは違う雰囲気で遊べます。
  - **楽しみの探索:** 隠されたアニメーションと特殊効果を発見し、作成プロセスを驚きでいっぱいにします。

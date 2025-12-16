@@ -51,25 +51,30 @@ quotidiens peuvent influencer quelques réponses clés.
 - **Outils** : boutons de vérification, d’effacement ou de révélation selon la
   version.
 
+### Conseils et stratégies
+
+
+- Q: Quelles tailles de grilles sont courantes ?
+
+
+- Apprends les abréviations et conventions de définitions courantes dans les
+  grilles de style américain.
+
+- Remplis les longues entrées thématiques après avoir récupéré des lettres via
+  les réponses proches.
 ### Foire aux questions (FAQ)
 
+- Apprends les abréviations et conventions de définitions courantes dans les
+  grilles de style américain.
 
-- Q: What sizes are typical?
+- Remplis les longues entrées thématiques après avoir récupéré des lettres via
+  les réponses proches.
 
-
-- Learn common abbreviations and clue conventions used by American‑style grids.
-
-- Fill long theme entries after gaining letters from nearby answers.
-### Foire aux questions (FAQ)
-
-- Learn common abbreviations and clue conventions used by American‑style grids.
-
-- Fill long theme entries after gaining letters from nearby answers.
-
-- Start with easy clues (fill‑in‑the‑blank, plural/tense markers) to get crossings.
+- Commence par les indices faciles (phrases à trous, marqueurs de pluriel/temps)
+  pour obtenir des croisements.
 **Q : Les grilles sont‑elles uniquement en anglais ?**  
 
-- Q: Do all letters cross?
+- Q: Toutes les lettres se croisent‑elles ?
 R : Ce jeu spécifique est basé sur des mots croisés anglophones, il faudra donc
 un minimum de vocabulaire en anglais.
 

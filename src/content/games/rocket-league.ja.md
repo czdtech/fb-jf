@@ -1,6 +1,6 @@
 ---
 title: Rocket League
-description: Rocket Leagueはカーサッカーゲームです。車を運転し、ボールを打ち、ゴールを決め、ロケットパワードサッカーをマスターします。
+description: Rocket Leagueはカーサッカーゲームです。車を運転してボールを打ち、ゴールを決めて勝利を目指します。
 iframeSrc: 'https://rocketleague.h5games.usercontent.goog/v/5k9j2m8h7p3n8/'
 thumbnail: /new-images/rocket-league.png
 urlstr: rocket-league
@@ -20,11 +20,11 @@ Rocket Leagueは、サッカーとロケットパワード車を組み合わせ�
 
 ### ゲームプレイ戦略と攻略法
 
-1.  **位置決め:" 常に適切な場所にいます。
-2.  **ブーストを管理:" ブーストパッドを収集し、賢く使用します。
-3.  **空中をマスター:" 空中ヒットと保存を練習します。
-4.  **チームプレイ:" チームメイトと通信します。
-5.  **回転:" 攻撃と守備の位置を回転します。
+1.  **位置取り:** 常に役割に合った場所にいます。
+2.  **ブースト管理:** ブーストパッドを拾い、無駄撃ちしないようにします。
+3.  **空中プレイ:** 空中ヒットやセーブを練習します。
+4.  **連携:** 味方と役割分担します。
+5.  **ローテーション:** 攻撃と守備の位置を交代しながら崩れない形を保ちます。
 
 ### 操作ガイド
 
@@ -33,7 +33,7 @@ Rocket Leagueは、サッカーとロケットパワード車を組み合わせ�
 - Shift：ブースト。
 
 
-- **Steering**: Use steering controls in the air to adjust vehicle attitude and direction.
+- **空中操作**: 空中でも操作して車体の向きや進行方向を調整します。
 ### よくある質問 (FAQ)
 
 - **Q: これは完全なRocket Leagueですか？**  
@@ -41,12 +41,12 @@ Rocket Leagueは、サッカーとロケットパワード車を組み合わせ�
 - **Q: オンラインマルチプレイヤーですか？**  
   A: バージョンによって異なります。一部はローカル、他はオンライン。
 - **Q: 空中をどのように実行しますか？**  
-  A: ジャンプ、ブースト、車を傾けます。練習が必要です！
+  A: ジャンプ、ブースト、車体の傾き調整を組み合わせます。練習が必要です。
 
 
-**A**: Practice basic operations more, watch high-level player match recordings, and gradually learn advanced techniques.
+**A**: 基本操作を繰り返し練習し、上手い人のプレイを見ながら、少しずつ応用テクニックを覚えるのが近道です。
 
-- **Q: How can I improve my skill level?**
+- **Q: うまくなるにはどうすればいいですか？**
 
 
-**A**: Practice basic operations more, watch high-level player match recordings, and gradually learn advanced techniques.
+**A**: 基本操作を繰り返し練習し、上手い人のプレイを見ながら、少しずつ応用テクニックを覚えるのが近道です。

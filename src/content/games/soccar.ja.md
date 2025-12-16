@@ -1,7 +1,7 @@
 ---
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
+# Frontmatter: config.ts の schema に従う
 title: "SocCar"
-description: "SocCarでハンドルを握ろう。サッカーのスリルと車のパワーを組み合わせたアクション満載のゲーム。フィールドを走り、巨大なサッカーボールにブーストして、対戦相手に対してゴールを決めよう。運転と狙撃のスキルをマスターして試合に勝利しよう。"
+description: "SocCarは車でサッカーをするゲームです。フィールドを走ってボールを押し込み、相手より多く得点することを目指します。"
 iframeSrc: "https://ubg77.github.io/edit/soccar/"
 thumbnail: "/new-images/soccar.jpg"
 urlstr: "soccar"

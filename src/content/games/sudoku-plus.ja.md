@@ -28,27 +28,27 @@ Sudoku Plusは、クラシックな数独パズルゲームに追加機能と複
  - **マウス：** マスをクリックして数字を選択
 
 
-- **Hint:** Click the hint button to reveal the correct number for a single cell.
+- **ヒント：** ヒントボタンで、1マスの正解数字を表示できる場合があります。
 
-- **Erase:** Use the eraser tool to clear a cell.
+- **消しゴム：** 消しゴムツールでマスをクリアします。
 
-- **Toggle Notes Mode:** Use the dedicated "Notes" or "Pencil" button to switch between entering final answers and entering small candidate numbers.
+- **メモ（ノート）切替：** 「Notes」「Pencil」などのボタンで、確定入力と候補メモの入力を切り替えます。
 
-- **Enter a Number:** After selecting a cell, click a number on the on-screen keypad to place it.
+- **数字を入力：** マスを選び、画面の数字キーで入力します。
 ### よくある質問（FAQ）
 
 
-- **A:** Yes, most modern Sudoku games, including this one, have an error-checking feature that will highlight any duplicate numbers in a row, column, or box, allowing you to correct your mistake.
+- **A:** はい。多くの数独では、行・列・ブロック内の重複をハイライトする誤りチェック機能があり、ミスを修正できます。
 
-    - **Q: Will the game tell me if I make a mistake?**
+    - **Q: 間違えたら教えてくれますか？**
 
-- **A:** It allows you to pencil in small numbers as potential candidates for a cell, which is a key strategy for solving harder puzzles without having to rely on memory alone.
+- **A:** マスに候補数字を小さくメモできる機能です。難しい問題を解くときの基本戦略になります。
 
-    - **Q: What does the "Notes" feature do?**
+    - **Q: 「Notes」機能は何をしますか？**
 
-- **A:** No. Sudoku is a game of logic and pattern recognition, not arithmetic.
+- **A:** いいえ。数独は計算ではなく、論理とパターン認識のゲームです。
 
-    - **Q: Do I need to be good at math?**
+    - **Q: 数学が得意でないと難しいですか？**
 **ゲームの目標は何ですか？**
 
 ルールに従ってグリッドのすべての空のマスを埋めることです。

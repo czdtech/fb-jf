@@ -56,17 +56,22 @@ partie se termine lorsque plus aucune case n’est disponible pour poser un dé.
 ### Foire aux questions (FAQ)
 
 
-- **A:** Merging three 6-dot dice creates a special jewel cube. On your next merge involving this jewel, it will trigger a small explosion, clearing the 3x3 area around it and giving you a large point bonus.
+- **R :** Fusionner trois dés “6” crée un cube‑bijou spécial. Lors de la fusion
+  suivante impliquant ce cube, il déclenche une petite explosion qui nettoie la
+  zone 3×3 autour et donne un gros bonus de points.
 
-    - **Q: What happens when I merge three '6' dice?**
+    - **Q : Que se passe‑t‑il si je fusionne trois dés “6” ?**
 
-- **A:** The goal is to get the highest score possible by surviving as long as you can. You do this by continuously merging dice and clearing space to prevent the board from filling up.
+- **R :** Le but est de faire le meilleur score en survivant le plus longtemps
+  possible. Pour ça, enchaîne les fusions et libère de l’espace pour éviter que
+  la grille se remplisse.
 
-    - **Q: What is the goal of the game?**
+    - **Q : Quel est l’objectif du jeu ?**
 
-- **A:** Place at least three dice with the same number so that they are touching each other horizontally or vertically. They will merge automatically.
+- **R :** Place au moins trois dés de même valeur qui se touchent horizontalement
+  ou verticalement ; ils fusionneront automatiquement.
 
-    - **Q: How do I merge dice?**
+    - **Q : Comment fusionner des dés ?**
 **Q : Comment fusionner les dés ?**  
 R : Place au moins trois dés de même valeur de manière adjacente (horizontalement
 ou verticalement). Ils fusionnent alors en un dé de valeur supérieure.

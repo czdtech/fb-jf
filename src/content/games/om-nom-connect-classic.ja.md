@@ -29,7 +29,7 @@ Om Nom Connect Classicは、愛らしいOm Nomキャラクターをフィーチ�
 ### 操作ガイド
 
 
-The game is played with simple clicks or taps.
+クリック/タップのシンプルな操作で遊べます。
 - 同じタイルをクリック/タップして接続します。
 - パスは最大2ターンまで。
 - すべてのタイルをクリアします。
@@ -42,9 +42,9 @@ The game is played with simple clicks or taps.
   A: 一部のレベルにはタイマーがあります。
 - **Q: ヒントは無制限ですか？**  
 
-    - **A:** Don't fixate on one tile for too long. Keep your eyes moving and scan the entire board. Sometimes the most obvious pairs are the ones you overlook when you're too focused on a specific area.
+    - **A:** 多くは無制限ではありません。1か所に固執せず、盤面全体を見渡してペアを探すと見落としが減ります。
 
-- **Q: What's the best strategy for finding matches quickly?**
+- **Q: 素早くペアを見つけるコツは？**
 
-    - **A:** You will fail the level and have to start over. Speed and quick recognition are key!
+    - **A:** 外側のタイルから優先して消してスペースを作り、2ターン制限に収まるルートを意識して探すと安定します。
   A: 通常制限されています。控えめに使用します。

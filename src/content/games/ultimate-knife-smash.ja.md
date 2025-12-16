@@ -24,21 +24,21 @@ Ultimate Knife Smashは、タイミングが重要なナイフ投げアーケー
  - **すべて刺す：** すべてのナイフを的に刺します
 
 
-- Boss targets: Later stages may require extra hits—pace your throws.
+- ボス的：後半は追加のヒットが必要になる場合があります。投げる間隔を整えます。
 ### 操作ガイド
 
  - **マウス/タッチ：** タップまたはクリックでナイフを投げる
 
 
-- Pause/Retry: Use UI controls to restart.
+- 一時停止/リトライ：画面のUIからやり直せます。
 ### よくある質問（FAQ）
 
 
-- Are there power‑ups? Some versions grant multi‑knives or slows—use them on dense waves.
+- パワーアップはありますか？ 複数投げやスローなどがある場合は、密な場面で使うと効果的です。
 
-- Does rotation change? Often yes; be ready for speed spikes and direction flips.
+- 回転は変わりますか？ 多くの場合変化します。急加速や逆回転に備えます。
 
-- Why do I keep hitting knives? You’re desyncing—re‑establish rhythm and throw only when clear gaps return.
+- ナイフに当たってしまう：リズムが崩れていることが多いです。いったん間を取り、空きが見えたタイミングだけ投げます。
 **ゲームの目標は何ですか？**
 
 すべてのナイフを的に刺し、他のナイフに当てないことです。

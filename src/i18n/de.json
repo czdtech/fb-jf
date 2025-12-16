@@ -1,4 +1,25 @@
 {
+  "categories": {
+    "title": "Spielkategorien",
+    "puzzle": "Puzzle",
+    "casual": "Casual",
+    "thinky": "Denkspiel",
+    "action": "Action",
+    "sports": "Sport",
+    "strategy": "Strategie",
+    "platformer": "Plattform",
+    "arcade": "Arcade",
+    "shooting": "Shooter",
+    "card": "Karten",
+    "rhythm": "Rhythmus",
+    "adventure": "Abenteuer",
+    "music": "Musik",
+    "clicker": "Clicker",
+    "driving": "Fahren",
+    "physics": "Physik",
+    "multiplayer": "Mehrspieler",
+    "2-player": "2 Spieler"
+  },
   "nav": {
     "home": "Startseite",
     "newGames": "Neue Spiele",

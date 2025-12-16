@@ -16,10 +16,10 @@ locale: ja
 ---
 
 
-Ready to dive into a vibrant, colorful world of music? Mundo Torajo Sprunki will take you on an unprecedented audio-visual feast! This unique Mod cleverly blends the whimsical universe of Mundo Torajo with the rhythmic creative fun of the Sprunki platform, letting you unleash endless creativity while you play.
+Mundo Torajo Sprunkiは、カラフルな世界観で音を重ねて遊ぶ音楽作成ゲームです。キャラクターやサウンドを組み合わせて、リズムやメロディを作っていきます。
 ### ゲーム紹介
 
-Mundo Torajo Sprunkiは、プレイヤーが音楽を作成できるインタラクティブな音楽作成ゲームです。キャラクターを選択し、それぞれが独自のサウンドを持ち、ユニークなビートとメロディを作成するためにそれらをミックスします。音楽の才能は必要ありません。純粋な創造性と楽しみです！
+Mundo Torajo Sprunkiは、プレイヤーが音楽を作成できるインタラクティブな音楽作成ゲームです。キャラクターを選択し、それぞれのサウンドを重ねてビートやメロディを作ります。音楽の知識がなくても試行錯誤で形にできます。
 
 ### ゲームプレイ戦略と攻略法
 
@@ -27,7 +27,7 @@ Mundo Torajo Sprunkiは、プレイヤーが音楽を作成できるインタラ
 2.  **レイヤーサウンド:** より豊かな音楽のために複数のキャラクターを組み合わせます。
 3.  **リズムを見つける:** よく融合するビートを聞いてください。
 4.  **作成を保存:** 気に入った組み合わせを記録または覚えます。
-5.  **楽しむ:** 完璧を心配しないでください。遊んでください！
+5.  **楽しむ:** 完璧を気にしすぎず、いろいろ試してみましょう。
 
 ### 操作ガイド
 
@@ -36,9 +36,9 @@ Mundo Torajo Sprunkiは、プレイヤーが音楽を作成できるインタラ
 - 削除または変更するためにキャラクターをクリックします。
 
 
-- **Challenge and Progression:** As you dive deeper, Mundo Torajo Sprunki presents more complex levels and puzzles, unlocking new sound elements and characters, keeping your creative journey challenging and rewarding.
+- **チャレンジ要素:** 進めるほど新しいサウンド要素やキャラクターが増え、組み合わせの幅が広がります。
 
-- **Beginner-Friendly:** Its simple drag-and-drop interface makes it accessible and enjoyable for players of all ages and skill levels.
+- **遊びやすさ:** ドラッグ＆ドロップ中心のシンプルな操作で、気軽に試せます。
 ### よくある質問 (FAQ)
 
 - **Q: 音楽知識が必要ですか？**  

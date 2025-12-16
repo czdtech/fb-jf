@@ -38,11 +38,11 @@ Polymatchは、同じポリゴン形状をマッチすることに挑戦しま�
   A: 目標を完了しない場合、レベルを再試行します。
     - **Q: パワーアップはありますか？**  
   A: 一部のバージョンには特別なアイテムがあります。
-- **Q: どれくらいのレベルがありますか？**  
+- **Q: レベル数や、ヒント/パワーアップはありますか？**  
 
-    - **A:** Some versions of PolyMatch may offer power-ups or hints to help you when you're stuck. These might include a shuffle option or a hint to reveal a match.
+    - **A:** バージョンによっては、行き詰まったときのためのヒントやパワーアップ（シャッフルやマッチの表示など）が用意されています。
 
-- **Q: Are there power-ups or hints?**
+- **Q: 手持ちがいっぱいになったらどうなりますか？**
 
-    - **A:** If the holding area at the bottom of the screen becomes full (typically 6 tiles) and you cannot make any more matches, the game will end.
+    - **A:** 画面下の保留枠（例：6枚）がいっぱいになり、これ以上マッチできない状態になるとゲーム終了になります。
   A: バージョンによって異なります。多くは数十。

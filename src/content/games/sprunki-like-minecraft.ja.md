@@ -1,6 +1,6 @@
 ---
 title: "Sprunki Like Minecraft - Play Sprunki Like Minecraft Online"
-description: "Incredibox Sprunkiの忠実なファンであり、Minecraftのピクセル世界の情熱的な愛好家でもありますか？それならSprunki Like Minecraft Modは間違いなくあなたの目を輝かせるでしょう！"
+description: "Sprunki Like Minecraft ModはMinecraft風の見た目で遊べるSprunki系の音楽作成Modです。キャラクターを組み合わせて音を重ね、トラックを作ります。"
 iframeSrc: "https://turbowarp.org/1095572358/embed"
 thumbnail: "/sprunki-like-minecraft.png"
 urlstr: "sprunki-like-minecraft"
@@ -9,7 +9,7 @@ tags: ["sprunki like minecraft"]
 locale: ja
 ---
 
-Incredibox Sprunkiの忠実なファンであり、Minecraftのピクセル世界の情熱的な愛好家でもありますか？それならSprunki Like Minecraft Modは間違いなくあなたの目を輝かせるでしょう！このユニークなModは、Minecraftの象徴的なブロック要素でSprunkiキャラクターを再想像し、Sprunkiのクラシックなゲームプレイを保持しながら、新鮮なビジュアル体験をもたらします。
+Sprunki Like Minecraft Modは、Minecraftのブロック要素でSprunkiキャラクターを再解釈した音楽作成Modです。Sprunki系の基本的な遊び方はそのままに、見た目をMinecraft風にしたのが特徴です。
  
 ### Sprunki Like Minecraft Modとは何ですか？
 
@@ -24,6 +24,6 @@ Sprunki Like Minecraft Modは、Incredibox SprunkiとMinecraftの象徴的なブ
  
 ### Sprunki Like Minecraft Modで音楽をプレイする方法は？
 
-このIncredixbox Sprunki Like Minecraft Modは、MinecraftとSprunkiファンのニーズを完璧に満たし、楽しくて創造的なクロスボーダー体験を提供します。このブロックの世界に飛び込んで、今すぐ音楽制作の旅を始めましょう！
+このIncredibox Sprunki Like Minecraft Modでは、キャラクターをドラッグ＆ドロップして音を重ね、Minecraft風の雰囲気でトラックを作れます。
  
-何を待っていますか？Sprunki Like Minecraftの世界に来て、音符とピクセルを衝突させ、指先でMinecraftメロディーをプレイしましょう！Sprunki Interactive 1.0、Sprunki Kiss Edition、Sprunki Melodiesなど、他のSprunkiシリーズModsも試したい場合は、すぐに行動しましょう！
+組み合わせを変えて、ビートやメロディのまとまりを調整していくのがコツです。いくつかパターンを作り、聞き比べながら整えてみてください。

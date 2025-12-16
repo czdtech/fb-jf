@@ -15,27 +15,27 @@ score: 3.7/5  (568 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
-### Detailed Game Introduction
+### Introducción detallada del juego
 
 Woodcraft te pone al mando de un pequeño taller de carpintería. Con golpes rítmicos y movimientos precisos, irás tallando, lijando y dando forma a distintos encargos de madera. A medida que completas pedidos, desbloqueas nuevos diseños, herramientas y patrones decorativos, convirtiendo cada sesión en una mezcla de zen y productividad.
 
-### Gameplay Strategy & Walkthrough
+### Estrategia y guía de juego
 
-- **Sigue el ritmo:** muchos minijuegos internos se basan en pulsar en el momento adecuado. Ajusta tu timing para no dañar la pieza.
+- **Sigue el ritmo:** muchos minijuegos internos se basan en pulsar en el momento adecuado. Ajusta la sincronización para no dañar la pieza.
 - **No te saltes los pasos:** lijar, cortar y barnizar en el orden correcto suele mejorar el resultado final y las recompensas.
 - **Atiende a los pedidos:** prioriza encargos que te den acceso a nuevas herramientas o patrones; abren más posibilidades de personalización.
 
-### Controls Guide
+### Controles
 
 - Usa el ratón o los controles táctiles para pulsar, arrastrar o mantener según lo que requiera cada herramienta (martillo, lijadora, cincel, etc.).
 
-### Frequently Asked Questions (FAQ)
+### Preguntas frecuentes (FAQ)
 
 **¿El juego es competitivo o más bien relajado?**
 
 Woodcraft está pensado sobre todo como experiencia relajante, aunque puedes intentar completar pedidos de forma más eficiente para conseguir mejores recompensas.
 
-**Puedo personalizar mis creaciones?**
+**¿Puedo personalizar mis creaciones?**
 
 En muchas versiones puedes elegir acabados, colores y patrones, y poco a poco ir ampliando el catálogo de diseños disponibles.
 

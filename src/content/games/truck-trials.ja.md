@@ -32,13 +32,13 @@ Truck Trialsは、トラックを操作して挑戦的なオフロードコー�
 ### よくある質問（FAQ）
 
 
-- **A:** The differential lock provides better traction on difficult terrains, helping you to get through muddy or slippery areas.
+- **A:** デフロックは悪路でのトラクションを高め、ぬかるみや滑りやすい場所を進みやすくします。
 
-    - **Q: What is the differential lock for?**
+    - **Q: デフロックは何のためにありますか？**
 
-- **A:** Drive slowly and be mindful of your truck's balance, especially when going over large obstacles or on steep inclines.
+- **A:** 大きな段差や急な坂では、スピードを落として車体のバランスを意識すると転倒しにくいです。
 
-    - **Q: How do I avoid tipping over?**
+    - **Q: 転倒を避けるコツは？**
 **ゲームの目標は何ですか？**
 
 転倒せずにトラックでコースを完走することです。

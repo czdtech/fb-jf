@@ -15,91 +15,38 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
-### Présentation du jeu
+### Detailed Game Introduction
 
-Classic Solitaire, aussi appelé Klondike, est l’un des jeux de cartes
-solo les plus connus. Le but est de ranger un jeu de 52 cartes dans quatre
-piles de **fondation**, une par couleur, en ordre croissant de l’As au Roi.
+Classic Solitaire, aussi appelé Klondike, est l’un des jeux de cartes solo les plus connus. L’objectif est d’organiser un paquet mélangé de 52 cartes en quatre piles de fondation, une par couleur, dans l’ordre croissant de l’As au Roi. Le jeu demande stratégie, patience et un peu de chance : tu manipules les cartes sur le tableau pour révéler celles qui sont cachées et construire progressivement tes fondations.
 
-Tu manipules les cartes sur le **tableau** (les sept colonnes de cartes
-étalées), la **pioche** et le **tas de défausse** afin de retourner les cartes
-face cachée et libérer les As, puis de construire progressivement les
-fondations.
+### Gameplay Strategy & Walkthrough
 
-### Éléments du jeu
+1.  **Game Components:**
+    *   **The Tableau:** la zone principale de jeu, composée de sept colonnes de cartes. La première colonne a une carte, la deuxième en a deux, et ainsi de suite jusqu’à sept. La carte du dessus de chaque colonne est face visible.
+    *   **The Foundation:** les quatre piles vides, généralement en haut à droite. C’est là que tu construis chaque couleur, en commençant par l’As.
+    *   **The Stock Pile:** le reste du paquet, face cachée.
+    *   **The Waste Pile:** les cartes piochées depuis la pioche sont placées ici face visible.
 
-- **Tableau** : sept colonnes, de une à sept cartes, seule la carte du haut de
-  chaque colonne étant face visible.  
-    - **Fondations** : quatre piles vides au départ, une pour chaque couleur (♠, ♥,
-  ♦, ♣), à remplir de l’As au Roi.  
-    - **Pioche (stock)** : les cartes restantes, face cachée.  
-    - **Défausse (waste)** : les cartes révélées depuis la pioche qui ne peuvent
+2.  **Core Rules & Strategy:**
+    *   **Expose Hidden Cards:** ta priorité est de retourner les cartes face cachée du tableau. Plus tu en révèles, plus tu as d’options.
+    *   **Building on the Tableau:** tu peux déplacer des cartes entre colonnes. Une carte doit être posée sur une carte d’un rang immédiatement supérieur et de couleur opposée (par ex. un 7 noir sur un 8 rouge).
+    *   **Moving to Foundations:** dès qu’un As est disponible, place‑le en fondation. Continue ensuite avec les cartes de la même couleur en ordre croissant (As, 2, 3, 4...) dès que possible.
+    *   **Using the Stock Pile:** quand tu n’as plus de coups sur le tableau, pioche. Utilise les cartes révélées pour créer de nouveaux coups sur le tableau ou pour alimenter les fondations.
+    *   **Empty Tableau Columns:** seule un Roi (ou une séquence commençant par un Roi) peut être déplacé dans une colonne vide du tableau.
 
-    - **Empty Tableau Columns:** Only a King (or a sequence starting with a King) can be moved into an empty column on the tableau.
+### Controls Guide
 
-- **Using the Stock Pile:** When you have no more moves on the tableau, draw from the Stock Pile. Use the revealed cards to make new moves on the tableau or to build on your foundations.
+*   **Move Cards:** clique et fais glisser une carte (ou une séquence valide) d’une pile à une autre.
+*   **Draw from Stock:** clique sur la pioche face cachée pour tirer une carte (ou trois, selon la variante) vers la défausse.
+*   **Auto-Move to Foundation:** dans beaucoup de versions numériques, un double‑clic sur une carte la place automatiquement sur la bonne fondation si le coup est valide.
 
-    - **Moving to Foundations:** As soon as an Ace becomes available, move it to a foundation pile. Continue to move cards of the same suit in ascending order (Ace, 2, 3, 4...) onto the foundation piles whenever possible.
+### Frequently Asked Questions (FAQ)
 
-    - **Building on the Tableau:** You can move cards between columns in the tableau. Cards must be placed on a card of the next-highest rank and of the opposite color (e.g., a black 7 can be placed on a red 8).
+*   **Q: Quel est le but du jeu ?**
+    *   **A:** le but est de déplacer les 52 cartes dans les quatre fondations, triées par couleur et dans l’ordre de l’As au Roi.
 
-    - **Expose Hidden Cards:** Your first priority should always be to expose the face-down cards in the tableau. Uncovering these cards gives you more options.
+*   **Q: Que se passe‑t‑il quand je n’ai plus de coups ?**
+    *   **A:** si tu ne peux plus jouer sur le tableau ni vers les fondations, tu dois piocher. Si la pioche est vide et qu’aucun coup n’est possible, la partie est perdue.
 
-    - **Core Rules & Strategy:**
-
-    - **The Waste Pile:** Cards drawn from the Stock Pile are placed face-up here.
-  pas encore être jouées.
-
-### Guide de jeu
-
-1.  **Retourne les cartes cachées en priorité**  
-    Ton objectif principal est de retourner un maximum de cartes sur le table
-    au pour découvrir de nouveaux coups. Déplace donc les cartes de manière à
-    libérer des colonnes bloquées.
-2.  **Construis en alternant les couleurs**  
-    Sur le tableau, tu peux poser une carte sur une autre de **valeur
-    immédiatement supérieure** et de **couleur opposée** (par exemple un 7♣ sur
-    un 8♥). Les séquences ainsi formées peuvent être déplacées ensemble.
-3.  **Utilise les cases vides intelligemment**  
-    Une colonne vide ne peut généralement être remplie qu’avec un **Roi** (ou
-    une séquence commençant par un Roi). Garde ces emplacements pour libérer de
-    longues séquences de cartes.
-4.  **Envoie les cartes en fondation au bon moment**  
-    Monte les cartes vers les fondations dès que c’est sûr, mais évite de
-    vider complètement tes options sur le tableau si tu en as encore besoin
-    pour réorganiser des colonnes.
-5.  **Gère bien la pioche**  
-    Selon les règles (1 ou 3 cartes retournées à la fois), apprends le cycle de
-    ta pioche. Parfois, il vaut mieux attendre un peu avant de piocher de
-    nouveau pour ne pas "louper" une carte clé.
-
-### Commandes
-
-- **Déplacer une carte** : clique‑glisse une carte (ou une séquence valide) vers
-  une autre colonne ou vers une fondation.  
-    - **Piocher** : clique sur le paquet de pioche pour révéler une ou plusieurs
-  cartes dans la défausse.  
-- **Annuler / Recommencer** : utilise les boutons prévus pour revenir en arrière
-
-    - **A:** Yes, in most versions of the game, you can move the top card of a foundation pile back onto the tableau if it helps you uncover other cards. This is often a key strategic move.
-
-- **Q: Can I move cards back from the foundation to the tableau?**
-
-    - **A:** If you cannot make any more moves on the tableau or to the foundations, you must draw from the stock pile. If the stock pile is also empty and no moves are possible, the game is lost.
-  ou lancer une nouvelle partie.
-
-### Foire aux questions (FAQ)
-
-**Q : Toutes les parties de solitaire sont‑elles gagnables ?**  
-R : Non, certaines distributions ne peuvent pas être résolues, même avec un jeu
-parfait. Le défi est de maximiser ton taux de réussite.
-
-**Q : Vaut‑il mieux envoyer les cartes en fondation dès que possible ?**  
-R : Généralement oui, mais garde à l’esprit que certaines cartes peuvent être
-plus utiles sur le tableau pour déplacer des séquences. Ne monte pas
-systématiquement chaque carte sans réfléchir.
-
-**Q : Que faire si je suis bloqué ?**  
-R : Vérifie s’il te reste des mouvements sur le tableau avant de repiocher.
-Si aucune combinaison n’est possible et que la pioche ne t’apporte rien, la
-partie est probablement perdue.
+*   **Q: Puis‑je redescendre des cartes des fondations vers le tableau ?**
+    *   **A:** oui, dans la plupart des versions, tu peux déplacer la carte du dessus d’une fondation vers le tableau si cela t’aide à révéler d’autres cartes. C’est souvent un coup stratégique important.

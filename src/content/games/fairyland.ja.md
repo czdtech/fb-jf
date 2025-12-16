@@ -34,17 +34,9 @@ locale: ja
 
 ### よくある質問 (FAQ)
 
-*   **Q: 行き詰まりました。どうすればいいですか？**
-
-A: Revisit prior scenes for missed interactables, review notebooks, and try interacting with environmental decorations.
-- **A:** 前のシーンに戻って見逃したインタラクティブ要素を探し、ノートを見直し、環境の装飾と相互作用してみましょう。
-
-
-A: Rarely; most puzzles allow infinite retries and gentle hints.
-*   **Q: 失敗状態はありますか？**
-
-A: Short — built for quick sessions; multiple chapters add up to a relaxing journey.
-    *   **A:** ほとんどありません。ほとんどのパズルは無限にリトライでき、優しいヒントがあります。
-
-*   **Q: チャプターはどのくらいの長さですか？**
-    *   **A:** 短めです。短時間セッション向けに作られており、複数のチャプターを合わせてリラックスした旅になります。
+- Q: 行き詰まりました。どうすればいいですか？  
+  A: 前のシーンに戻って見逃したポイントがないか探し、ノート（手がかり）を見直しましょう。装飾に見えるものがギミックになっていることもあります。
+- Q: 失敗状態はありますか？  
+  A: ほとんどありません。多くのパズルは何度でもやり直せて、ヒントも用意されています。
+- Q: チャプターはどのくらいの長さですか？  
+  A: 短めです。短時間でも遊べますし、複数のチャプターを通すと落ち着いた旅になります。

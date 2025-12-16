@@ -1,6 +1,6 @@
 ---
 title: Mahjongg Candy
-description: Mahjongg Candyは甘いマッチ3ひねりです。キャンディタイルをマッチし、ボーナスをアンロックし、カラフルなレベルでボードをクリアします。
+description: Mahjongg Candyはキャンディテーマの麻雀ソリティアです。タイルをペアで消し、ボーナスを狙いながら盤面をクリアします。
 iframeSrc: 'https://mahjonggcandy.h5games.usercontent.goog/v/5n1hfvph2fdug/'
 thumbnail: /new-images/mahjongg-candy.png
 urlstr: mahjongg-candy
@@ -15,17 +15,17 @@ locale: ja
 
 ### ゲーム紹介
 
-Mahjongg Candyは、クラシックな麻雀ソリティアに甘くカラフルなキャンディテーマを追加します。同一のフリーキャンディタイルをマッチし��、ボーナスポイントをアンロックし、何百ものおいしいレベルをクリアします。
+Mahjongg Candyは、麻雀ソリティアをキャンディ風のタイルで遊べるパズルです。同じ絵柄のフリータイルをペアで消し、ボーナスやスコアを狙いながらレベルを進めます。
 
 ### ゲームプレイ戦略と攻略法
 
-1.  **キャンディタイプを学ぶ:** 異なるキャンディはタイルデザインを表します。それらを素早く認識することを学びます。
-2.  **戦略的にマッチ:** 最も多くの新しいタイルを公開するペアを優先します。
-3.  **特別なボーナス:** 特定のマッチまたはクリアスピードは、パワーアップまたはボーナスポイントをアンロックする可能性があります。
-4.  **時間を効率的に使用:** 一部のレベルには time limits があります。効率的に計画します。
+1.  **絵柄を覚える:** タイルの見分けが早いほど、迷う時間が減ります。
+2.  **開きやすいペアを優先:** 下のタイルが開く位置から消して、選択肢を増やします。
+3.  **ボーナスを狙う:** 連続マッチや素早いクリアで、ボーナスが出ることがあります。
+4.  **時間制限に注意:** ステージによっては時間制限があります。詰まりを作らない動きを優先します。
 
 
-- **Scoring:** Longer chains of matches or faster completion often lead to higher scores. Some tiles might offer score multipliers.
+- **スコア:** 連続マッチや素早いクリアは高得点につながりやすいです。タイルによってはスコア倍率が付く場合があります。
 ### 操作ガイド
 
 - フリーキャンディタイルをクリック/タップして選択およびマッチします。
@@ -41,8 +41,8 @@ Mahjongg Candyは、クラシックな麻雀ソリティアに甘くカラフル
   A: レベルまたはバージョンによって異なります。控えめに使用します。
 
 
-Practice recognizing patterns and planning your moves several steps ahead. Prioritize clearing tiles that are blocking many other tiles. Try to create cascades of matches.
+パターンを見分ける練習をして、数手先まで考えて動くと安定します。多くのタイルを塞いでいる場所から優先して崩し、連続マッチ（カスケード）が起きる形を狙いましょう。
 
-**How can I improve my game?**
+**Q: うまくなるにはどうすればいいですか？**
 
-Many Mahjongg games offer hints that can reveal a possible match, or a shuffle option to rearrange the remaining tiles if no moves are available. Using these might incur a score penalty.
+多くのMahjonggゲームには、可能なペアを示すヒントや、手がないときに残りタイルを並べ替えるシャッフルがあります。バージョンによっては、使用するとスコアに影響する場合があります。

@@ -1,6 +1,6 @@
 ---
 title: "Incredibox Piege Simulator"
-description: "Incredibox Piège Simulatorこのガイドでは、グリッドベースのゲームプレイ、ダークで雰囲気のあるサウンドパレットを詳しく説明し、激しいトラップループを作成するためのヒントを提供します。"
+description: "Incredibox Piège Simulatorのガイドです。グリッドベースのゲームプレイや、ダークで雰囲気のあるサウンドパレット、トラップ系ループを作るコツを紹介します。"
 iframeSrc: "https://turbowarp.org/887559994/embed"
 thumbnail: "/new-images/incredibox-piege-simulator.png"
 urlstr: "incredibox-piege-simulator"
@@ -13,7 +13,7 @@ locale: ja
 
 ### **Incredibox Piège Simulatorゲーム紹介**
 
-*Incredibox Piège Simulator*は、Incredib​​​oxモッドの「シミュレーター」シリーズからのスタイリッシュで雰囲気のあるファン作成ゲームです。タイトル「Piège」はフランス語で**「トラップ」**を意味し、モダンな**トラップミュージック**ジャンルへのモッドの音楽的焦点を完璧に表現しています。
+*Incredibox Piège Simulator*は、Incrediboxモッドの「シミュレーター」シリーズからのスタイリッシュで雰囲気のあるファン作成ゲームです。タイトル「Piège」はフランス語で**「トラップ」**を意味し、モダンな**トラップミュージック**ジャンルへのモッドの音楽的焦点を完璧に表現しています。
 
 ゲームは、シミュレーターモッドの特徴的な**グリッドベースのインターフェース**を利用します。キャラクターにアイコンをドラッグする代わりに、プレイヤーには緑と青の色でコード化された20個のサウンドアイコンのグリッドが提示されます。目的は、これらのアイコンをクリックして有効化または無効化することで、ダークで雰囲気のあるトラップループを作成することです。
 
@@ -40,9 +40,9 @@ locale: ja
 
 ### **よくある質問 (FAQ)**
 
-**1. これは公式のIncredib​​oxゲームですか？**
+**1. これは公式のIncrediboxゲームですか？**
 
-いいえ。*Piège*を含む「シミュレーター」シリーズは**ファン作成モッド**であり、公式のIncredib​​ox制作者So Far So Goodとは提携していません。
+いいえ。*Piège*を含む「シミュレーター」シリーズは**ファン作成モッド**であり、公式のIncredibox制作者So Far So Goodとは提携していません。
 
 **2. なぜゲームプレイが元のものと異なるのですか？**
 

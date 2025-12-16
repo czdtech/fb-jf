@@ -1,7 +1,7 @@
 ---
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
+# Frontmatter: config.ts の schema に従う
 title: "Splatoon 3"
-description: "Splatoon 3のカラフルな世界に飛び込もう！このアクション満載のシューターで、チームのインクで領域をカバーして勝利を掴もう。イカに変身してインクの中を泳ぎ、相手を待ち伏せし、武器を再装填しよう。移動とチームワークをマスターして、陣地を支配しよう。"
+description: "Splatoon 3はインクで塗って戦う対戦シューターです。チームで陣地を塗り広げ、ルールに沿って勝利を目指します。"
 iframeSrc: "https://bitlifeonline.github.io/splatoon-3/"
 thumbnail: "/new-images/splatoon-3.jpg"
 urlstr: "splatoon-3"

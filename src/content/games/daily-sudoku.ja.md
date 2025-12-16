@@ -39,12 +39,10 @@ locale: ja
 
 ### よくある質問 (FAQ)
 
-*   **Q: 難易度は選べますか？**
+- Q: 難易度は選べますか？
+  
+  A: 初級（Easy）/中級（Medium）/上級（Hard）など複数が用意されていることが多く、日替わりで難易度がローテーションする場合もあります。
 
-A: Commonly Easy/Medium/Hard; daily sets may rotate difficulties.
-- **A:** 一般的に、初級（Easy）、中級（Medium）、上級（Hard）などが用意されているか、曜日によって難易度が変わる場合があります。
-
-
-A: Most implementations support notes and candidate marking.
-*   **Q: メモ機能はありますか？**
-    *   **A:** ほとんどのデジタル版数独にはメモ機能（Pencil marks / Notes）が搭載されています。
+- Q: メモ機能はありますか？
+  
+  A: はい。多くのデジタル版数独には、候補数字を記録できるメモ（Pencil marks / Notes）機能が搭載されています。

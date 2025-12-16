@@ -24,7 +24,7 @@ Tank Troubleは、迷路内で戦車を操作し、跳ね返る弾丸で相手�
  - **勝利：** 相手を倒してラウンドに勝ちます
 
 
-- **Collect Power-ups**: Gather special power-ups in the arena to gain advantages.
+- **パワーアップ収集：** 競技場内のパワーアップを拾うと有利になります。
 ### 操作ガイド
 
  - **矢印キー：** プレイヤー1の移動と射撃
@@ -34,19 +34,19 @@ Tank Troubleは、迷路内で戦車を操作し、跳ね返る弾丸で相手�
 ### よくある質問（FAQ）
 
 
-- **Q: How do bullets ricochet?**
+- **Q: 弾はどう跳ね返りますか？**
 **ゲームの目標は何ですか？**
 
 
-- **Q: How can I avoid getting hit?**
+- **Q: 被弾を避けるコツは？**
 迷路内で相手の戦車を倒すことです。
 
 
-- **Q: How many players can play simultaneously?**
+- **Q: 同時に何人で遊べますか？**
 **何人でプレイできますか？**
 
 
-- **Q: Is there a time limit?**
+- **Q: 時間制限はありますか？**
 2人または3人のプレイヤー、もしくはAIと対戦できます。
 
 **弾丸はどう動きますか？**

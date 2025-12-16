@@ -1,6 +1,6 @@
 ---
 title: Moto X3M
-description: Moto X3Mはスリリングなバイクレーシングゲームです。障害物コースを乗り、スタントを実行し、クラッシュを避け、時間と競争します。
+description: Moto X3Mはバイクの障害物コースを走るレースゲームです。スタントでタイム短縮を狙い、クラッシュせずにゴールします。
 iframeSrc: 'https://motox3m.h5games.usercontent.goog/v/3c65jjpbnq1q0/'
 thumbnail: /new-images/moto-x3m.png
 urlstr: moto-x3m
@@ -38,13 +38,13 @@ Moto X3Mは、極端な障害物コースを通してバイクを乗る高速レ
   A: チルトを使用してバランスを維持し、減速を恐れないでください。
 - **Q: スタントはどのように実行しますか？**  
   A: 空中でチルトキーを使用してフリップします。
-- **Q: より速い時間ための秘訣は？**  
+- **Q: より速いタイムのための秘訣は？**  
   A: スタント、クリーンラン、ショートカットを習得します。
 
 
-**A**: Try different stunt combinations and routes, or watch playthrough videos from other players, which might reveal new strategies.
+**A**: スタントの組み合わせやルートを変えて試してみましょう。攻略動画を見ると新しい動き方が見つかることもあります。
 
-- **Q: What if I get stuck on a level?**
+- **Q: ステージで詰まったときはどうすればいいですか？**
 
 
-**A**: Try different stunt combinations and routes, or watch playthrough videos from other players, which might reveal new strategies.
+**A**: スタントの組み合わせやルートを変えて試してみましょう。攻略動画を見ると新しい動き方が見つかることもあります。

@@ -1,6 +1,6 @@
 ---
 title: Smarty Bubbles
-description: Smarty Bubblesはクラシックなバブルシューターです。色をマッチし、バブルをポップし、ボードをクリアし、パズルレベルをマスターします。
+description: Smarty Bubblesはバブルシューターのパズルです。同じ色をそろえて消し、盤面をクリアします。
 iframeSrc: 'https://smartybubbles.h5games.usercontent.goog/v/5k9j2m8h7p3n8/'
 thumbnail: /new-images/smarty-bubbles.png
 urlstr: smarty-bubbles
@@ -19,11 +19,11 @@ Smarty Bubblesは、クラシックなバブルシューターパズルゲーム
 
 ### ゲームプレイ戦略と攻略法
 
-1.  **狙いを計画:" 壁からのバウンスショットを使用します。
-2.  **大きなグループ:" より多いバブル = より多いポイント。
-3.  **トップダウン:" 上部のバブルを落としてより多くをクリアします。
-4.  **次の色:" 次のバブルの色を常に確認します。
-5.  **移動を節約:" 効率的にプレイしてより良いスコア。
+1.  **狙いを計画:** 壁の反射も利用します。
+2.  **大きな塊を狙う:** まとめて落とすと得点が伸びやすいです。
+3.  **上から落とす:** 上部を消して塊ごと落とします。
+4.  **次の色を見る:** 次に出る色を確認します。
+5.  **手数を意識:** 無駄打ちを減らして盤面を整えます。
 
 ### 操作ガイド
 
@@ -37,11 +37,11 @@ Smarty Bubblesは、クラシックなバブルシューターパズルゲーム
   A: レベルによって異なります。一部には移動制限があります。
     - **Q: パワーアップはありますか？**  
   A: はい、爆弾、レインボーバブルなどの特別なバブル。
-- **Q: どれくらいのレベルがありますか？**  
+- **Q: ハイスコアのコツはありますか？**  
 
-    - **A:** High scores are achieved by creating large chain reactions. Dropping big clusters of bubbles by popping the ones holding them up will award you a large number of bonus points.
+    - **A:** 大きな連鎖を作るのが近道です。支えているバブルを消して塊ごと落とすと、ボーナスが入りやすくなります。
 
-- **Q: How do I get a high score?**
+- **Q: ゲームの目的は何ですか？**
 
-    - **A:** To clear all the bubbles from the board. The game is endless, so the ultimate goal is to achieve the highest possible score by surviving as long as you can.
-  A: オリジナルのSmarty Bubblesには多くのレベルがあります。
+    - **A:** 盤面のバブルをすべて消すことが目的です。バージョンによってはレベル制やエンドレス形式があります。
+  A: どの形式でも、できるだけ効率よく消してスコアを伸ばします。

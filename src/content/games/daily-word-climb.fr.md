@@ -32,13 +32,18 @@ un jeu de lettres à relier.
     Mélange mentalement l’ordre des lettres pour trouver des anagrammes.
     - **Ne néglige pas les flexions**  
 
-    - **Conserve Your Moves:** You only have a limited number of swaps for each puzzle. Try to make each move count. Avoid random swaps and think about which swap will give you the most information.
+    - **Économise tes coups** : tu as un nombre limité d’échanges par puzzle. Fais
+      en sorte que chaque coup apporte quelque chose ; évite les swaps au hasard et
+      privilégie ceux qui donnent le plus d’informations.
 
-- **Use Yellow Letters to Deduce:** If you have a yellow letter, you know it belongs in that same row, just in a different position. Look for other yellow or white tiles in that row to swap it with.
+- **Utilise les lettres jaunes pour déduire** : une lettre jaune appartient au
+  mot de la ligne, mais pas à la bonne position. Échange‑la avec une autre case
+  jaune ou blanche de la même ligne pour tester.
 
-- **Focus on Green Letters:** Once a letter turns green, you know it's locked in place. Don't move it again! Use the green letters as anchors to help you figure out the rest of the word.
+- **Appuie‑toi sur les lettres vertes** : une lettre verte est à la bonne place.
+  Ne la bouge plus ; utilise‑la comme ancre pour déduire le reste du mot.
 
-- **White/Grey:** The letter does not belong in that row's word at all.
+- **Blanc/Gris** : la lettre n’appartient pas du tout au mot de cette ligne.
     Pluriels, temps verbaux, dérivés peuvent aussi être acceptés selon le
     dictionnaire du jeu.
 
@@ -52,17 +57,20 @@ un jeu de lettres à relier.
 ### Foire aux questions (FAQ)
 
 
-- **A:** Yes, as the name suggests, you get a fresh and unique word puzzle to solve every day.
+- **R :** Oui. Comme son nom l’indique, tu as un nouveau puzzle de mots à résoudre
+  chaque jour.
 
-    - **Q: Is there a new puzzle every day?**
+    - **Q : Y a‑t‑il un nouveau puzzle chaque jour ?**
 
-- **A:** If you can't solve the puzzle within the given number of swaps, you will fail the level and have to try again.
+- **R :** Si tu n’arrives pas à résoudre le puzzle dans le nombre d’échanges
+  autorisé, tu rates le niveau et dois recommencer.
 
-    - **Q: What happens if I run out of moves?**
+    - **Q : Que se passe‑t‑il si je n’ai plus de coups ?**
 
-- **A:** Green means the right letter is in the right spot. Yellow means the right letter is in the wrong spot. White or Grey means it's the wrong letter for that row.
+- **R :** Vert = bonne lettre, bonne position. Jaune = bonne lettre, mauvaise
+  position. Blanc/Gris = mauvaise lettre pour ce mot.
 
-    - **Q: What do the colors on the tiles mean?**
+    - **Q : Que signifient les couleurs des tuiles ?**
 **Q : Les mots sont‑ils en anglais ou en français ?**  
 R : Ce jeu spécifique utilise généralement un dictionnaire anglais.
 

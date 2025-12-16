@@ -1,7 +1,7 @@
 ---
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
+# Frontmatter: config.ts の schema に従う
 title: "Soccer Random"
-description: "Soccer Randomで、これまでにないサッカーを体験しよう！この爽快な物理ベースのゲームは、シンプルなワンボタン操作でプレイヤーをジャンプさせキックさせる。常に変化するフィールド、ボール、プレイヤーに適応し、友達やCPUと対戦して最初に5ゴールを決めよう。"
+description: "Soccer Randomは物理ベースのサッカーゲームです。ワンボタンでジャンプ/キックし、先に5ゴール決めた方が勝ちになります。"
 iframeSrc: "https://app-197306.games.s3.yandex.net/197306/b1dbvmcde0oog4ebj00rinxr3e367fl4/index.html"
 thumbnail: "/new-images/soccer-random.jpg"
 urlstr: "soccer-random"

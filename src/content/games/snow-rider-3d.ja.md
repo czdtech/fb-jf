@@ -1,7 +1,7 @@
 ---
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
+# Frontmatter: config.ts の schema に従う
 title: "Snow Rider 3D"
-description: "Snow Rider 3Dでそりに飛び乗ろう。スピード感あふれる冬をテーマにしたアクションゲーム。雪の丘を滑り降り、木や雪だるまなどの障害物を避け、ジャンプ台を使って空中技を披露しよう。ギフトを集めて新しいそりをアンロックし、反射神経に挑戦して最高スコアを目指そう。"
+description: "Snow Rider 3Dは冬をテーマにしたアクションゲームです。そりで雪山を滑り降り、障害物を避けながらできるだけ遠くへ進みます。"
 iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp45/chenling/20231130/2/index.html"
 thumbnail: "/new-images/snow-rider-3d.jpg"
 urlstr: "snow-rider-3d"

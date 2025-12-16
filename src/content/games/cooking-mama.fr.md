@@ -23,7 +23,7 @@ découpée en mini‑jeux : couper des légumes, mélanger une pâte, faire rev
 ingrédients, surveiller une cuisson, etc.
 
 Ton objectif est de suivre les instructions à l’écran, réaliser les gestes
-corrects dans le bon timing et obtenir la meilleure note possible de Mama.
+corrects au bon moment et obtenir la meilleure note possible de Mama.
 
 ### Guide de jeu
 

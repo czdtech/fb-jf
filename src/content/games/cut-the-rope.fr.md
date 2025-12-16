@@ -49,25 +49,30 @@ pour un score parfait.
 - **Interagir avec les gadgets** : touche/clique sur bulles, ventilateurs ou
   autres éléments selon les indications du niveau.
 
+### Conseils et stratégies
+
+
+- Q: Dois‑je récupérer toutes les étoiles pour progresser ?
+
+
+- Commence par viser au moins deux étoiles ; cherche les trois étoiles une fois
+  le timing compris.
+
+- Fais éclater les bulles près de la bonne hauteur pour qu’Om Nom puisse attraper
+  le bonbon.
 ### Foire aux questions (FAQ)
 
+- Commence par viser au moins deux étoiles ; cherche les trois étoiles une fois
+  le timing compris.
 
-- Q: Do I need all stars to progress?
+- Fais éclater les bulles près de la bonne hauteur pour qu’Om Nom puisse attraper
+  le bonbon.
 
-
-- Grab at least two stars first; optimize for three once you understand the timing.
-
-- Pop bubbles near target height so Om Nom can grab the candy.
-### Foire aux questions (FAQ)
-
-- Grab at least two stars first; optimize for three once you understand the timing.
-
-- Pop bubbles near target height so Om Nom can grab the candy.
-
-- Visualize the candy’s swing arc before cutting; chain two quick cuts to redirect motion.
+- Visualise l’arc de balancement du bonbon avant de couper ; enchaîne parfois deux
+  coupes rapides pour rediriger le mouvement.
 **Q : Dois‑je forcément prendre les trois étoiles ?**  
 
-- Q: Are there power‑ups?
+- Q: Y a‑t‑il des bonus (power‑ups) ?
 R : Non, une seule réussite du niveau suffit pour progresser, mais les étoiles
 servent souvent à débloquer de nouveaux chapitres.
 

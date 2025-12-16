@@ -30,25 +30,25 @@ Stack Bounceは、タイミングと精度をテストするエキサイティ�
  - **マウス/タッチ：** 画面を長押しして離す
 
 
-- **Mobile/Tablet:** Press and hold your **finger on the screen** to smash. Lift your finger to stop.
+- **モバイル/タブレット：** 画面を指で長押しすると粉砕し、指を離すと止まります。
 ### よくある質問（FAQ）
 
 
-- **A:** The game is level-based. Your goal is to reach the bottom of the helix tower to complete the current level and move on to the next, which will often be longer or more complex.
+- **A:** このゲームはレベル制です。塔の最下部まで到達するとクリアとなり、次のレベルに進みます。進むほど長く、複雑になることがあります。
 
-    - **Q: Is there an end to the game?**
+    - **Q: ゲームに終わりはありますか？**
 
-- **A:** Yes. During Fever Mode, the ball is invincible and can destroy any platform, including the black ones, without penalty.
+- **A:** はい。フィーバーモード中はボールが無敵になり、黒い床を含むどの床でもペナルティなしで破壊できます。
 
-    - **Q: Can I break black platforms in Fever Mode?**
+    - **Q: フィーバーモード中に黒い床も壊せますか？**
 
-- **A:** You activate it automatically by creating a long, uninterrupted combo of smashing through colored platforms. A circular meter will show your progress. Once it's full, Fever Mode begins.
+- **A:** 色付きの床を連続で壊してコンボをつなぐと自動で発動します。円形メーターが進捗を示し、満タンになるとフィーバーモードが始まります。
 
-    - **Q: How do I activate Fever Mode?**
+    - **Q: フィーバーモードはどうやって発動しますか？**
 
-- **A:** Your ball shatters, and the game is over. You will have to restart the level.
+- **A:** ボールが壊れてゲームオーバーになり、レベルをやり直します。
 
-    - **Q: What happens if I hit a black platform?**
+    - **Q: 黒い床に当たるとどうなりますか？**
 **ゲームの目標は何ですか？**
 
 できるだけ多くのカラフルなプラットフォームを粉砕し、黒い障害物を避けることです。

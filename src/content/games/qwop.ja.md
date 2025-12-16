@@ -1,6 +1,6 @@
 ---
 title: QWOP
-description: QWOPは挑戦的なランニングゲームです。個々の筋肉を制御し、走り、物理学をマスターし、悪名高いゲームを征服します。
+description: QWOPはランニングゲームです。太ももやふくらはぎを個別に操作して走らせる、独特の操作感が特徴です。
 iframeSrc: 'https://qwop.h5games.usercontent.goog/v/3k9j5m8h7p2n8/'
 thumbnail: /new-images/qwop.png
 urlstr: qwop
@@ -36,16 +36,16 @@ QWOPは、個々の太ももとふくらはぎの筋肉を制御してランナ�
 ### よくある質問 (FAQ)
 
 - **Q: なぜこんなに難しいのですか？**  
-  A: 個々の筋肉を制御することは直感的ではありません。それが挑戦です！
+  A: 個々の筋肉を別々に動かす必要があり、直感的に走れないためです。
 - **Q: コツはありますか？**  
   A: 練習、忍耐、安定したリズム。
 - **Q: 誰かが実際にフィニッシュしましたか？**  
-  A: はい、しかし非常に少数です！
+  A: はい。ただし達成できる人は多くありません。
 
 
-**A**: Yes, QWOP was designed to demonstrate the complexity of human movement and how seemingly simple running actually requires incredibly precise coordination.
+**A**: はい。見た目は単純な「走る」動作でも、実際は精密な協調が必要であることを体感させる意図で作られています。
 
-- **Q: Is this game intentionally designed to be this difficult?**
+- **Q: これは意図的に難しく作られているのですか？**
 
 
-**A**: Yes, QWOP was designed to demonstrate the complexity of human movement and how seemingly simple running actually requires incredibly precise coordination.
+**A**: はい。見た目は単純な「走る」動作でも、実際は精密な協調が必要であることを体感させる意図で作られています。

@@ -1,6 +1,6 @@
 ---
 title: "Parking Jam"
-description: "Parking Jamは駐車パズルゲームです。車を移動し、渋滞をクリアし、論理的に考え、駐��場の混沌を解決します。"
+description: "Parking Jamは駐車パズルゲームです。車を前後に動かして渋滞を解消し、出口までの道を作ります。"
 iframeSrc: "https://parkingjam.h5games.usercontent.goog/v/3k9j5m8h7p2n8/"
 thumbnail: "/new-images/parking-jam.png"
 urlstr: "parking-jam"
@@ -25,7 +25,7 @@ Parking Jamは、混雑した駐車場から車を脱出させることに挑戦
 
 ### 操作ガイド
 
-- 車をドラッグ��前後に移動します。
+- 車をドラッグして前後に移動します。
 - 目標車両のためのパスをクリアします。
 - より少ない移動でレベルを完了します。
 

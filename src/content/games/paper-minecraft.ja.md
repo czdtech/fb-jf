@@ -1,6 +1,6 @@
 ---
 title: Paper Minecraft
-description: Paper Minecraftは2Dマインクラフトです。採掘し、クラフトし、構築し、紙のスタイルでサバイバルし、ブロックの冒険を楽しみます。
+description: Paper MinecraftはMinecraftを2D風にしたサンドボックスゲームです。採掘やクラフト、建築をしながら探索します。
 iframeSrc: 'https://paperminecraft.h5games.usercontent.goog/v/6j9k5m8h7p3n8/'
 thumbnail: /new-images/paper-minecraft.png
 urlstr: paper-minecraft
@@ -16,7 +16,7 @@ locale: ja
 
 ### ゲーム紹介
 
-Paper Minecraftは、Minecraftのゲームプレイを2Dの紙のようなアートスタイルで再現します。ブロックを採掘し、ツールをクラフトし、構造を構築し、敵から生き残ります。探索し、収集し、創造性を解き放ちます。
+Paper Minecraftは、Minecraftのゲームプレイを2Dの紙風アートスタイルで再現したゲームです。ブロックを採掘し、ツールをクラフトし、拠点を作って敵から生き残ります。探索と収集を進めながら遊び方を広げていきます。
 
 ### ゲームプレイ戦略と攻略法
 
@@ -28,14 +28,14 @@ Paper Minecraftは、Minecraftのゲームプレイを2Dの紙のようなアー
 
 ### 操作ガイド
 
-- WASD/矢印��移動します。
+- WASD/矢印：移動します。
 - マウスでブロックを破壊/配置します。
 - E：インベントリ/クラフトを開きます。
 
 
-- **Open Inventory/Crafting**: Use the E key to open your inventory, manage items, and craft.
+- **インベントリ/クラフト**: Eキーでインベントリを開き、アイテム管理やクラフトを行います。
 
-- **Place Blocks**: Select a block from your inventory, then click the right mouse button to place it.
+- **ブロック設置**: インベントリからブロックを選び、右クリックで設置します。
 ### よくある質問 (FAQ)
 
 - **Q: これは3D Minecraftと同じですか？**  
@@ -46,9 +46,9 @@ Paper Minecraftは、Minecraftのゲームプレイを2Dの紙のようなアー
   A: 通常いいえ。シングルプレイヤーゲームです。
 
 
-**A**: As a 2D re-imagining, it usually does not include all the dimensions of the original, but there might be simplified or adapted versions.
+**A**: 2D版のため、原作のすべての次元（ネザーやエンドなど）がそのまま入っているとは限りませんが、簡略化された形で用意されている場合があります。
 
-- **Q: Does the game have dimensions like "The Nether" or "The End"?**
+- **Q: ネザーやエンドのような次元はありますか？**
 
 
-**A**: As a 2D re-imagining, it usually does not include all the dimensions of the original, but there might be simplified or adapted versions.
+**A**: 2D版のため、原作のすべての次元（ネザーやエンドなど）がそのまま入っているとは限りませんが、簡略化された形で用意されている場合があります。

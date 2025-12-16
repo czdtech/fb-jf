@@ -1,6 +1,6 @@
 ---
 title: Medieval Solitaire
-description: 中世紀ソリティアで騎士道の時代に旅立ちましょう。クラシックなカードゲームをプレイし、中世のテーマを楽しみ、数百のレベルをマスターします。
+description: 中世風テーマのソリティア（クロンダイク）です。カードを並べ替えながら基礎を完成させ、盤面をクリアします。
 iframeSrc: 'https://medievalsolitaire.h5games.usercontent.goog/v/5e4lf77omm180/'
 thumbnail: /new-images/medieval-solitaire.png
 urlstr: medieval-solitaire
@@ -16,7 +16,7 @@ locale: ja
 
 ### ゲーム紹介
 
-Medieval Solitaireは、クラシックなソリティアゲームプレイに中世のテーマを組み合わせます。カードスタックを構築し、タブローをクリアし、騎士、城、ドラゴンで飾られた中世の世界で基礎を完成させます。
+Medieval Solitaireは、クラシックなソリティア（クロンダイク）に中世テーマを組み合わせたカードゲームです。カードを並べ替えてタブローを整理し、騎士や城、ドラゴンのアートで彩られた世界観の中で基礎を完成させます。
 
 ### ゲームプレイ戦略と攻略法
 
@@ -38,11 +38,11 @@ Medieval Solitaireは、クラシックなソリティアゲームプレイに�
   A: 同じゲームプレイですが、中世のテーマのビジュアルとサウンドがあります。
     - **Q: すべてのゲームは勝てますか？**  
   A: すべてのゲームが勝てるわけではありません。運と戦略が重要です。
-- **Q: ヒントはありますか？**  
+- **Q: もう手がありません。どうすればいいですか？**  
 
-    - **A:** Most digital solitaire games, including this one, feature an "Undo" button that allows you to take back one or more previous moves. This can be very helpful for correcting a mistake or exploring a different strategy.
+    - **A:** まずタブローに動ける手がないか確認します。なければストックから引きます。ストックも空で手がない場合はゲームオーバーです。
 
-- **Q: Can I undo a move?**
+- **Q: 1手戻す（Undo）はできますか？**
 
-    - **A:** First, double-check the tableau for any available moves. If there are none, you must draw from the stock pile. If the stock pile is also empty, the game is lost.
-  A: 多くのバージョンは、行き詰まったときにヒントボタンを提供します。
+    - **A:** 多くのデジタル版ソリティアには「Undo」ボタンがあり、直前の手を戻せます。ミスの修正や別の手順を試すときに便利です。
+  A: 環境によっては、ヒントや自動移動が用意されていることもあります。

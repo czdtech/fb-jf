@@ -1,7 +1,7 @@
 ---
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
+# Frontmatter: config.ts の schema に従う
 title: "Spider Solitaire"
-description: "Spider Solitaireをプレイしよう。チャレンジングでやりがいのあるカードゲーム。目標は、キングからエースまでスートごとに8つの降順シーケンスを構築すること。計画と先見の明をテストするこの戦略的パズルでタブローをクリアして勝利しよう。"
+description: "Spider Solitaireは104枚で遊ぶソリティアです。キングからエースまでの同一スートの並びを作り、タブローをすべてクリアします。"
 iframeSrc: "https://www.squidbyte.com/games_third/spider/en/spider-solitaire-halloween/"
 thumbnail: "/new-images/spider-solitaire.jpg"
 urlstr: "spider-solitaire"

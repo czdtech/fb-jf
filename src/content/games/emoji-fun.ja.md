@@ -29,7 +29,7 @@ locale: ja
 ### 操作ガイド
 
 
-The game is played with a simple drag-and-drop mechanic.
+操作はシンプルで、ドラッグ＆ドロップだけで遊べます。
 *   **絵文字を繋ぐ:** 片方の列の絵文字をクリック（長押し）し、もう片方の列の関連する絵文字までドラッグして線を引きます。
 
 ### よくある質問 (FAQ)

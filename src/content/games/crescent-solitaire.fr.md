@@ -52,33 +52,40 @@ mouvements ou remélanges autorisés.
 - **Annuler / Recommencer** : certaines versions proposent un bouton d’annulation
   ou un redémarrage rapide.
 
+### Conseils et stratégies
+
+
+- Q: Combien de remélanges (redeals) sont autorisés ?
+
+
+- Après un remélange, re‑scanne toutes les piles : des cartes utiles reviennent
+  souvent en jeu.
+
+- Privilégie les mouvements qui libèrent des petites cartes pour les piles d’As
+  et des grosses cartes pour les piles de Rois.
+
+- Avant un remélange, essaie de dévoiler un maximum de cartes utiles en haut des
+  piles.
 ### Foire aux questions (FAQ)
 
+- Après un remélange, re‑scanne toutes les piles : des cartes utiles reviennent
+  souvent en jeu.
 
-- Q: How many redeals are allowed?
+- Privilégie les mouvements qui libèrent des petites cartes pour les piles d’As
+  et des grosses cartes pour les piles de Rois.
 
+- Avant un remélange, essaie de dévoiler un maximum de cartes utiles en haut des
+  piles.
 
-- After a redeal, re‑scan all piles; valuable cards often rotate into play.
-
-- Prefer moves that release buried low cards for Ace stacks and high cards for King stacks.
-
-- Before using a redeal, expose as many helpful top cards as possible.
-### Foire aux questions (FAQ)
-
-- After a redeal, re‑scan all piles; valuable cards often rotate into play.
-
-- Prefer moves that release buried low cards for Ace stacks and high cards for King stacks.
-
-- Before using a redeal, expose as many helpful top cards as possible.
-
-- Build evenly across suits so no single suit stalls both of its foundations.
+- Construis les couleurs de façon équilibrée pour qu’une seule couleur ne bloque
+  pas ses deux fondations.
 **Q : Toutes les parties sont‑elles gagnables ?**  
 
-- Q: Can empty spaces be filled?
+- Q: Peut‑on remplir les emplacements vides ?
 R : Comme pour beaucoup de solitaires, certaines dispositions sont très
 
-- Q: What is “foundation transfer”?
-compliquées voire impossibles. Le challenge consiste à maximiser ton taux de
+- Q: Qu’est‑ce que le “transfert de fondation” ?
+compliquées voire impossibles. Le défi consiste à maximiser ton taux de
 victoire.
 
 **Q : Puis‑je repasser d’un As à un Roi (ou l’inverse) ?**  
@@ -86,5 +93,5 @@ R : Cela dépend des règles de la version. Vérifie l’aide en jeu : certain
 acceptent le "bouclage", d’autres non.
 
 **Q : Le temps est‑il limité ?**  
-R : Parfois, un chrono ou un score basé sur la vitesse ajoutent un challenge
+R : Parfois, un chrono ou un score basé sur la vitesse ajoutent un défi
 supplémentaire, mais tu peux généralement jouer à ton rythme.

@@ -1,8 +1,7 @@
 ---
 title: Stealing the Diamond
 description: >-
-  Stealing the
-  Diamondは、選択があなたの運命を決定するインタラクティブアドベンチャーゲームです。ダイヤモンドを盗むためのあなたの道を選びましょう。
+  Stealing the Diamondは、選択によって展開が分岐するインタラクティブアドベンチャーゲームです。ダイヤモンドを盗むための手段を選び、結果の違いを楽しみます。
 iframeSrc: 'https://ubg98.github.io/StealingTheDiamond/'
 thumbnail: /new-images/stealing-the-diamond.jpg
 urlstr: stealing-the-diamond
@@ -21,7 +20,7 @@ Stealing the Diamondは、人気のあるHenry Stickminシリーズの一部で�
 ### ゲームプレイガイド
 
 
-The gameplay is simple: at various points in the story, you will be presented with a choice of two or more options (tools or actions) to proceed. Your selection determines what happens next. Most choices lead to a unique "Fail" screen with a funny description, while specific combinations of choices will lead you to one of the three successful endings. The fun lies in exploring the different paths and discovering all the possible outcomes.
+ゲームプレイはシンプルです。物語の途中で道具や行動など複数の選択肢が出てくるので、クリックして選びます。選択によって次の展開が変わり、多くの場合は面白い説明つきの「Fail（失敗）」画面になります。特定の選択の組み合わせで成功エンディングに到達します。いろいろなルートを試して、結果を集めるのが醍醐味です。
  - **選択を行う：** さまざまなシーンで選択肢をクリックします
  - **結果を見る：** あなたの選択がストーリーにどのように影響するかを見ます
  - **複数のエンディング：** さまざまな選択がさまざまな結果につながります
@@ -38,11 +37,11 @@ The gameplay is simple: at various points in the story, you will be presented wi
 ゲームには、あなたの選択に基づいて複数のエンディングがあります。
 
 
-- The "Epic" ending.
+- 「Epic」エンディング
 
-- The "Undetected" ending.
+- 「Undetected」エンディング
 
-- The "Aggressive" ending.
+- 「Aggressive」エンディング
 **間違った選択をしたらどうなりますか？**
 
 間違った選択は面白い失敗シーンにつながりますが、再試行できます。

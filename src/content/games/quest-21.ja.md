@@ -20,26 +20,26 @@ Quest 21は、ブラックジャックスタイルのゲームプレイと戦略
 
 ### ゲームプレイ戦略と攻略法
 
-1.  **バスト��避ける:** 21を超えないでください。
+1.  **バストを避ける:** 21を超えないようにします。
 2.  **対戦相手を読む:** 彼らのカードと戦略を観察します。
     - **賢く賭ける:** 手の強さに基づいてベットサイズを調整します。
     - **リスクを計算:** いつヒットまたはスタンドするかを知ります。
     - **リソースを管理:** 長期的にチップを保存します。
 
 
-- **Blackjack:** If your first two cards are an Ace and a 10-value card, you have a "Blackjack" and typically win the hand instantly.
+- **ブラックジャック**: 最初の2枚がAと10点札の組み合わせなら「ブラックジャック」となり、多くの場合その手は勝ちになります。
 
-    - **Basic Strategy:** A simple rule of thumb is to always "Hit" if your hand total is 11 or less. If your hand is 17 or more, it is usually wise to "Stand," as the risk of busting is high.
+    - **基本戦略**: 目安として合計11以下なら「ヒット」、17以上なら「スタンド」を選ぶと安全寄りです（バストのリスクを考えます）。
 
-    - **Stand:** Keep your current hand and end your turn.
+    - **スタンド**: 現在の手札で止め、ターンを終了します。
 
-- **Hit:** Take another card to try and get closer to 21.
+- **ヒット**: もう1枚引いて21に近づけます。
 
-- **Hit or Stand?** On your turn, you have two main choices:
+- **ヒットかスタンドか**: 自分のターンは主にこの2択です。
 ### 操作ガイド
 
 
-The game is played with on-screen buttons.
+画面上のボタンで操作します。
 - クリック/タップしてヒット、スタンド、または賭けます。
 - カードを管理し、決定を下します。
 - 対戦相手を打ち負かします。
@@ -50,11 +50,11 @@ The game is played with on-screen buttons.
   A: 似ていますが、追加の戦略要素があります。
     - **Q: マルチプレイヤーですか？**  
   A: 一部のバージョンは対戦を提供します。
-- **Q: 最高の戦略は何ですか？**  
+- **Q: 引き分け（tie）や基本戦略は？**  
 
-    - **A:** A tie is called a "push." In most casual versions of the game, this simply means no one wins or loses the hand, and you move on to the next round.
+    - **A:** 引き分けは「プッシュ（push）」と呼ばれることがあります。多くの場合、勝ち負けは発生せず次のラウンドへ進みます。
 
-- **Q: What happens if there is a tie?**
+- **Q: ヒット／スタンドの判断はどうすればいいですか？**
 
-    - **A:** A safe strategy is to stand on any hand worth 17 or more (a "hard 17"). For hands with an Ace that counts as 11 (a "soft 17"), it is often safe to hit.
+    - **A:** 目安として合計17以上（ハード17以上）はスタンドが安全寄りです。Aを11として数える「ソフト17」のような手では、ヒットが有効になる場合もあります。
   A: バストを避け、賢く賭け、対戦相手を読みます。

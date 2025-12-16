@@ -3,7 +3,7 @@ locale: es
 urlstr: tiletopia
 title: Tiletopia - Construye tu mundo de losetas
 description: >-
-  Construye una ciudad próspera loseta a loseta en Tiletopia. Un rompecabezas
+  Construye una ciudad próspera loseta a loseta en Tiletopia. Un puzle
   estratégico y relajante donde colocas fichas hexagonales para conectar
   caminos, crecer bosques y completar misiones en tu propio mundo en miniatura.
 iframeSrc: 'https://6nilllqpgkm6o.h5games.usercontent.goog/v/7d3689i7s5gfo/'

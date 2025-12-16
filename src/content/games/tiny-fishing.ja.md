@@ -24,32 +24,32 @@ Tiny Fishingは、シンプルで楽しい釣りゲームです。釣り竿を�
  - **アップグレード：** 稼いだお金でロッドや針をアップグレードします
 
 
-- **Be Patient**: Fishing requires patience; wait for fish to bite, then reel in at the right time.
+- **焦らない：** 魚がかかるのを待ち、タイミングよく巻き上げます。
 ### 操作ガイド
 
  - **マウス：** 釣り竿を操作
  - **クリック：** 投げる/巻き上げる
 
 
-- **Upgrade**: Use earned coins to upgrade equipment in the shop.
+- **アップグレード：** 稼いだコインで装備を強化できます。
 
-- **Reel In**: When fish are hooked, click to reel them in.
+- **巻き上げ：** 魚がかかったらクリックして引き上げます。
 ### よくある質問（FAQ）
 
 
-- **Q: How can I get more coins?**
+- **Q: コインを増やすには？**
 **ゲームの目標は何ですか？**
 
 
-- **Q: Why don't I catch fish sometimes?**
+- **Q: 魚が釣れないことがあるのはなぜ？**
 魚を釣ってお金を稼ぎ、装備をアップグレードすることです。
 
 
-- **Q: How are offline earnings calculated?**
+- **Q: オフライン収益はどう計算されますか？**
 **どんな魚が釣れますか？**
 
 
-- **Q: Does the game have an ending?**
+- **Q: ゲームに終わりはありますか？**
 様々なサイズと価値の魚が深さによって異なります。
 
 **アップグレードは何がありますか？**

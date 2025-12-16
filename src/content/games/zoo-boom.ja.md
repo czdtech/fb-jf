@@ -24,7 +24,7 @@ Zoo Boomは、可愛い動物をテーマにしたマッチ3パズルゲーム�
  - **動物園を救う：** ストーリーを進めます
 
 
-- **Plan Your Moves:** Don't just tap randomly. Think a few moves ahead to see how your current tap will affect the board and set up future matches or booster creations.
+- **手順を考える：** ただ適当にタップするのではなく、数手先を見て盤面がどう動くかを意識します。次のマッチやブースター作成につながる形を作るのがコツです。
 ### 操作ガイド
 
  - **マウス：** 動物をスワップ
@@ -32,17 +32,17 @@ Zoo Boomは、可愛い動物をテーマにしたマッチ3パズルゲーム�
 ### よくある質問（FAQ）
 
 
-- **A:** If you run out of moves before completing the level's objectives, you will fail the level and may lose a life. You can then choose to retry the level.
+- **A:** 目標を達成する前に手数が尽きると失敗になり、ライフを失う場合があります。その場合はリトライできます。
 
-    - **Q: What happens if I run out of moves?**
+    - **Q: 手数が尽きるとどうなりますか？**
 
-- **A:** Special boosters are created by matching a larger number of identical animal blocks in a single tap. The more blocks you match, the more powerful the booster.
+- **A:** 1回で多くの同じ動物ブロックをまとめて消すと、特別なブースターが作られます。まとめる数が多いほど強力になる傾向があります。
 
-    - **Q: How do I get special boosters?**
+    - **Q: 特別なブースターはどう作れますか？**
 
-- **A:** The goal is to complete the specific objectives of each level, which usually involve clearing certain types or numbers of animal blocks, or reaching a target score.
+- **A:** 各レベルの目標を達成することです。特定の動物ブロックを一定数消す、または目標スコアに到達するなどが一般的です。
 
-    - **Q: What is the goal of Zoo Boom?**
+    - **Q: Zoo Boomの目的は何ですか？**
 **ゲームの目標は何ですか？**
 
 動物を揃えてレベルの目標を達成し、動物園を救うことです。

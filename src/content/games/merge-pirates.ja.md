@@ -1,6 +1,6 @@
 ---
 title: Merge Pirates
-description: Merge Piratesは海洋冒険マージゲームです。海賊をマージし、船を構築し、宝物を発見し、海を航海します。
+description: Merge Piratesは海賊テーマのマージゲームです。海賊や船をマージして強化し、島を探索してアイテムを集めます。
 iframeSrc: 'https://5q8b0jkp2dtf8.h5games.usercontent.goog/v/62plg0rb93ob8/'
 thumbnail: /new-images/merge-pirates.png
 urlstr: merge-pirates
@@ -16,7 +16,7 @@ locale: ja
 
 ### ゲーム紹介
 
-Merge Piratesは、海賊の冒険を持つマージゲームです。海賊、船、アイテムをマージして海洋帝国を構築します。島を探索し、宝物を発見し、他の海賊と戦い、海を支配します。
+Merge Piratesは、海賊や船、アイテムをマージして強化していくマージゲームです。島を探索して宝物を集め、クエストを進めながらエリアを広げていきます。
 
 ### ゲームプレイ戦略と攻略法
 
@@ -29,7 +29,7 @@ Merge Piratesは、海賊の冒険を持つマージゲームです。海賊、�
 ### 操作ガイド
 
 
-The game is played with simple drag-and-drop controls.
+ドラッグ＆ドロップの簡単な操作で遊べます。
 - アイテムをドラッグ＆ドロップしてマージおよび配置します。
 - 島をクリック/タップして探索します。
 - ストアでアイテムを購入およびアップグレードします。
@@ -42,9 +42,9 @@ The game is played with simple drag-and-drop controls.
   A: 船をアップグレードして遠くへ航海します。
 - **Q: 宝物を使用して何をすべきですか？**  
 
-    - **A:** You need to create space. Look carefully for any possible merges you might have missed. If there are none, you may have to use the trash can icon to sell a low-level item to free up a space.
+    - **A:** 船や海賊のアップグレード、島の拡張などに使います。まずは進行に直結する強化から回すのが無難です。
 
-- **Q: My board is full and I can't make any moves. What do I do?**
+- **Q: ボードがいっぱいで動けません。どうすればいいですか？**
 
-    - **A:** To earn gold by fulfilling orders and to discover all the different pirate items in the game.
-  A: 船と海賊のアップグレードのために費やします。
+    - **A:** 見落としたマージがないか確認し、なければ低レベルのアイテムを売ってスペースを空けます。
+  A: スペースが空いたら、優先度の高いアイテムからマージして整理しましょう。

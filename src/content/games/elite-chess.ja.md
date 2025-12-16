@@ -1,6 +1,6 @@
 ---
 title: Elite Chess エリート・チェス
-description: 「Elite Chess」で基礎を磨こう。正しいオープニング、鋭いタクティクス、エンドゲームのテクニックを習得し、優位を勝利に変えろ。
+description: 「Elite Chess」は基礎を磨けるチェスゲーム。オープニングの原則、タクティクス、エンドゲームを学び、優位を勝利につなげましょう。
 iframeSrc: 'https://6kf8oom91mt10.h5games.usercontent.goog/v/01dag2rajhv1g/'
 thumbnail: /new-images/elite-chess.png
 urlstr: elite-chess
@@ -39,17 +39,9 @@ locale: ja
 
 ### よくある質問 (FAQ)
 
-*   **Q: 駒をタダで取られるのを防ぐには？**
-
-A: Before every move, blunder‑check your king and loose pieces; run CCT for both sides to catch tactics.
-- **A:** 毎手、自分のキングと浮いている駒をチェックしましょう。自分と相手の両方でCCTを実行してタクティクスを見逃さないように。
-
-
-A: For White try Italian (1.e4 e5 2.Nf3 Nc6 3.Bc4) or Queen’s Gambit (1.d4 d5 2.c4). For Black use Caro‑Kann/Sicilian vs 1.e4 and Slav/Queen’s Gambit Declined vs 1.d4.
-*   **Q: どのオープニングから始めるべき？**
-
-A: King‑pawn fundamentals and rook endings; they occur most frequently and convert advantages reliably.
-    *   **A:** 白番ならイタリアン（1.e4 e5 2.Nf3 Nc6 3.Bc4）またはクイーンズ・ギャンビット（1.d4 d5 2.c4）。黒番なら1.e4に対してカロ・カンまたはシシリアン、1.d4に対してスラヴまたはクイーンズ・ギャンビット・ディクラインドがおすすめです。
-
-*   **Q: レーティングを上げるのに最も効果的なエンドゲームは？**
-    *   **A:** キング・ポーンの基礎とルークエンディングです。最も頻繁に出現し、優位を確実に勝利に変換できます。
+- Q: 駒をタダで取られるのを防ぐには？  
+  A: 毎手、自分のキングと浮いている駒をチェックし、CCT（チェック／キャプチャ／脅威）を両方の視点で確認しましょう。
+- Q: どのオープニングから始めるべき？  
+  A: 白番ならイタリアン（1.e4 e5 2.Nf3 Nc6 3.Bc4）やクイーンズ・ギャンビット（1.d4 d5 2.c4）。黒番なら1.e4に対してカロ・カン/シシリアン、1.d4に対してスラヴ/クイーンズ・ギャンビット・ディクラインドが無難です。
+- Q: レーティングを上げるのに効果的なエンドゲームは？  
+  A: キング＆ポーンの基礎とルークエンディングです。出現頻度が高く、優位を勝ちに変えやすい分野です。

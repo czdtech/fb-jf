@@ -34,17 +34,14 @@ locale: ja
 
 ### よくある質問 (FAQ)
 
-*   **Q: ノルマに届かずゲームオーバーになります。コツは？**
+- Q: ノルマに届かずゲームオーバーになります。コツは？
+  
+  A: 見えている中で高額な金塊や袋を優先し、岩は基本避けましょう。序盤から巻き上げ速度アップを買っておくと安定します。
 
-A: Target the largest visible nuggets first and ignore rocks. Invest in reel speed upgrades early.
-- **A:** とにかく「価値のあるもの」だけを狙うことです。岩や小さなゴミを掴んでいる時間は命取りです。また、巻き上げ速度強化も必須です。
+- Q: ダイナマイトは買うべきですか？
+  
+  A: 岩が多いレイアウトでは特に有効です。安い岩を引いてしまった時のタイムロスを減らせるので、結果的に元が取れます。
 
-
-A: Yes when layouts are rock‑heavy — it saves time otherwise lost on low‑value pulls.
-*   **Q: ダイナマイトは買うべきですか？**
-
-A: Learn the swing rhythm; release a fraction early to account for motion.
-    *   **A:** 岩が多いステージでは必須です。安い岩を引いてしまった時のタイムロスを防げるので、結果的に元が取れます。
-
-*   **Q: フックの角度を微調整できませんか？**
-    *   **A:** できません。揺れるリズムを体で覚え、予測して発射する技術が求められます。
+- Q: フックの角度を微調整できませんか？
+  
+  A: 基本的にできません。揺れのリズムを覚え、狙いより少し早めに放って慣性で合わせるのがコツです。

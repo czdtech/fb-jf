@@ -16,11 +16,11 @@ score: 4.1/5 (1123 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
-### Detailed Game Introduction
+### Introducción detallada del juego
 
 Truck Trials es un juego de conducción todoterreno en el que recorres circuitos complicados con diferentes camiones, priorizando la técnica y la precisión por encima de la velocidad pura. Tu objetivo es llegar a la meta sin volcar ni destrozar el vehículo, y en muchos niveles también sin perder la carga.
 
-### Gameplay Strategy & Walkthrough
+### Estrategia y guía de juego
 
 1.  **La paciencia es clave:** aquí gana quien controla bien el acelerador. Avanza despacio, mide las rampas y evita saltos innecesarios.
 2.  **Equilibrio del camión:** usa el peso del vehículo para amortiguar aterrizajes. Inclinarte hacia delante o atrás en el aire puede marcar la diferencia entre caer de pie o rodar.
@@ -28,20 +28,19 @@ Truck Trials es un juego de conducción todoterreno en el que recorres circuitos
 4.  **Cuida la carga:** si llevas mercancía, ajusta aún más la velocidad en las zonas complicadas para que no salga volando del remolque.
 5.  **Mejoras inteligentes:** si existe sistema de upgrades, invierte primero en estabilidad (suspensión, neumáticos) y después en potencia.
 
-### Controls Guide
+### Guía de controles
 
 - Acelerar / frenar: teclas `Arriba` / `Abajo` o `W` / `S`.
 - Inclinar el camión: `Izquierda` / `Derecha` o `A` / `D` para controlar el balance en saltos y pendientes.
 
-### Frequently Asked Questions (FAQ)
+### Preguntas frecuentes (FAQ)
 
-- **Q: Mi camión vuelca todo el rato.**  
-  **A:** Baja el ritmo, aterriza con las cuatro ruedas a la vez siempre que puedas y utiliza la inclinación para corregir la postura en el aire.
+*   **Q: ¿Cómo evito volcar?**
+    *   **A:** Conduce despacio y cuida el equilibrio del camión, sobre todo al pasar obstáculos grandes o subir pendientes fuertes.
 
-    - **Q: No consigo superar ciertas cuestas.**  
+*   **Q: ¿Para qué sirve el bloqueo del diferencial?**
+    *   **A:** El bloqueo del diferencial mejora la tracción en terrenos difíciles (barro, zonas resbaladizas), ayudándote a avanzar cuando una rueda pierde agarre.
 
-- **A:** The differential lock provides better traction on difficult terrains, helping you to get through muddy or slippery areas.
-
-    - **Q: What is the differential lock for?**
-  **A:** Acércate con un poco de inercia, mantén gas constante sin patinar y, si el juego lo permite, mejora la potencia o el agarre antes de reintentarlo.
+*   **Q: No consigo superar ciertas cuestas, ¿qué hago?**
+    *   **A:** Acércate con un poco de inercia, mantén gas constante sin patinar y, si el juego lo permite, mejora la potencia o el agarre antes de reintentarlo.
 

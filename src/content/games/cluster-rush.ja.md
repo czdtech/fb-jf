@@ -22,16 +22,14 @@ locale: ja
 ### ゲーム攻略と戦略
 
 
-Success in Cluster Rush is about mastering movement and learning the levels.
+Cluster Rushの攻略は、移動の基本を身につけ、各ステージのパターンを覚えることに尽きます。
 1.  **先を見る:** 足元ばかり見ていてはいけません。常に2〜3台先のトラックを見て、着地点を予測しましょう。
 2.  **勢い（モメンタム）が命:** ジャンプの距離は助走スピードに比例します。常にスプリント（Shiftキー）を使い、勢いをつけてから飛びましょう。ただし、制御のためにあえてスピードを落とす場面もあります。
 3.  **ダブルジャンプを駆使する:** 空中でもう一度ジャンプできます。これは飛距離を伸ばすだけでなく、着地点の微調整や、空中でトラックが来るのを待つ時間稼ぎにも使えます。
 4.  **側面にしがみつく:** トラックの上面だけでなく、**側面**にも張り付いてよじ登ることができます。ジャンプが届かなそうな時は、側面を狙ってリカバリーしましょう。
 5.  **パターンを覚える:** 一見ランダムに見えますが、トラックの動きや事故り方は決まっています。「ここで右のトラックが横転する」といったパターンを死んで覚えましょう。
-6.  **失敗を受け入れる:** 何百回も落ちることになりますが、イライラしてはいけません。即座にリトライできるので、失敗から学んで次に活かしましょう。
-
-
-- **Embrace Failure**: You will fail hundreds, if not thousands, of times. Each failure is a learning opportunity. Don't get frustrated; instead, analyze why you failed (e.g., jumped too early, not enough speed) and adjust on your next attempt.
+6.  **高低差を意識する:** 同じ高さのトラックだけを渡る必要はありません。低いトラックから高いトラックへ飛び移ることで、安全なルートや近道が見つかることもあります。
+7.  **失敗を受け入れる:** 何百回も落ちることになりますが、イライラしてはいけません。即座にリトライできるので、失敗から学んで次に活かしましょう。
 ### 操作ガイド
 
 一般的なFPSゲームと同じ操作感です。
@@ -44,34 +42,21 @@ Success in Cluster Rush is about mastering movement and learning the levels.
 *   **リトライ/一時停止:** `R` キー / `Esc` キー
 
 
-**Note:** Grabbing or sliding along the side of a truck is a contextual action. You do not need to press a specific key; simply make contact with the side of a truck while in the air.
+**注:** トラックの側面にしがみついたり滑ったりする動作は状況に応じて自動で発生します。特別なキーを押す必要はなく、空中で側面に接触すればOKです。
 ### よくある質問 (FAQ)
 
 
-Patience is key. If you are truly stuck, take a break to clear your head. You can also try watching a video playthrough of that specific level online to see the intended or an alternative route you may not have considered. Often, there's a specific trick or path that makes it much easier.
+**1. トラックの動きはランダムですか？**
+いいえ。各レベルごとに動きはパターン化されており、何度やり直しても同じ挙動になります。ルートを覚えれば安定してクリアできます。
 
-**5. Some levels seem impossible. Any advice?**
+**2. ジャンプが届きません。何が原因ですか？**
+ほとんどの場合はスピード不足です。長いジャンプの前は`Shift`キーでスプリントし、踏み切り前に十分な「助走距離」を確保しましょう。
 
-You unlock new levels and worlds by successfully completing the previous ones in sequential order.
+**3. 途中セーブ（チェックポイント）はありますか？**
+基本的にありません。各レベルはスタートからゴールまで1回のランで通し切る必要があります。
 
-**4. How do I unlock new worlds or levels?**
+**4. 新しいワールドやレベルはどうやって解放しますか？**
+前のレベルを順番にクリアしていくことで解放されます。
 
-No, there are no checkpoints. Each level must be completed from start to finish in a single run. This is a core part of the game's design and challenge.
-
-**3. Is there a way to save my progress in the middle of a level?**
-
-This is almost always a momentum issue. Make sure you are holding down the `Shift` key to sprint before you make a long jump. For very long jumps, ensure you have a decent "runway" on the truck before you leap.
-
-**2. I keep falling short on my jumps. What am I doing wrong?**
-
-No, the patterns are pre-determined for each level. While it may look chaotic, the trucks' paths are the same every time you play a specific level, making it possible to learn and master the routes.
-
-**1. Are the truck movements random in each level?**
-*   **Q: トラックの動きはランダムですか？**
-    *   **A:** いいえ、完全にパターン化されています。何度やり直しても同じ動きをするので、ルートを暗記すればクリア可能です。
-
-*   **Q: ジャンプが届きません。**
-    *   **A:** スピード不足です。ジャンプする前に確実に`Shift`キーでダッシュしてください。
-
-*   **Q: 途中セーブはありますか？**
-    *   **A:** 各ステージごとのセーブ（アンロック）はありますが、ステージ内での中間ポイント（チェックポイント）はありません。落ちたらスタート地点からです。
+**5. 難しすぎるレベルがあります。コツは？**
+焦らず、一度休憩して頭を切り替えるのも手です。詰まったらプレイ動画でルートやコツを確認すると、簡単になる「抜け道」や手順が見つかることもあります。

@@ -24,15 +24,15 @@ Tap Tap Shotsは、シンプルだが中毒性のあるバスケットボール�
  - **高得点：** できるだけ多くのバスケットを決めます
 
 
-- **Timer:** After each successful shot, the timer resets, but if you miss, the game is over.
+- **タイマー：** シュート成功ごとにタイマーがリセットされますが、外すとゲームオーバーです。
 ### 操作ガイド
 
 
-The controls are extremely simple:
+操作はとてもシンプルです：
  - **マウス/タッチ：** タップまたはクリックしてシュート
 
 
-- **Mobile:** Tap the screen.
+- **モバイル：** 画面をタップします。
 ### よくある質問（FAQ）
 
 **ゲームの目標は何ですか？**

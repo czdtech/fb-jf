@@ -14,7 +14,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 ### Présentation du jeu
 
-*Basket Random* est un jeu de basket 2D ultra‑débile où tu contrôles deux joueurs « poupées de chiffon » avec un seul bouton. Ton objectif : inscrire 5 points avant l’adversaire dans un face-à-face survitaminé.
+*Basket Random* est un jeu de basket 2D très déjanté où tu contrôles deux joueurs « poupées de chiffon » avec un seul bouton. Ton objectif : inscrire 5 points avant l’adversaire dans un duel rapide.
 
 Après chaque panier, presque tout change : longueur du terrain, gravité, taille des bras, type de ballon, sol glacé, etc. Aucun round ne se ressemble vraiment.
 

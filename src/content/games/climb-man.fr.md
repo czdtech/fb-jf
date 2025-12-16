@@ -14,58 +14,40 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
-### Présentation du jeu
+### **Game Introduction**
 
-Climb Man est un jeu d’arcade vertical dans lequel ton personnage escalade un
-mur ou une tour sans fin. Des plateformes, piques, pièges mobiles et autres
-obstacles se présentent au fur et à mesure de la montée.
+*Climb Man: Walk to the Sky* est un jeu d’arcade d’escalade rapide qui teste ton timing et tes réflexes. L’objectif est de **monter le plus haut possible sur un escalier en zigzag sans tomber et sans toucher les obstacles.**
 
-Le but est de grimper le plus haut possible sans tomber ni te faire toucher par
-les dangers. Le rythme s’accélère petit à petit, ce qui demande de meilleurs
-réflexes et un timing précis.
+Tu contrôles un personnage en bas d’un escalier. En appuyant sur les boutons "Left Climb!" ou "Right Climb!", il saute sur la marche suivante dans la direction correspondante. Il faut donc appuyer sur le bon bouton selon l’emplacement de la prochaine marche.
 
-### Guide de jeu
+La difficulté vient de la vitesse qui augmente et des obstacles (cordes, dangers divers) qu’il faut éviter. Un seul mauvais timing ou une mauvaise direction te fait tomber et termine la run. Le but est de grimper un maximum de marches pour faire un gros score, accomplir des missions et débloquer des personnages.
 
-1.  **Observe avant de sauter**  
-    Prends une fraction de seconde pour repérer la prochaine plateforme sûre
-    plutôt que de sauter aussitôt. Beaucoup de pièges sont placés juste après
-    les points de repos évidents.
-2.  **Anticipe le mouvement des obstacles**  
-    Si des pics ou plateformes bougent, regarde leur cycle complet avant de te
-    lancer. Cherche la fenêtre de passage la plus large.
-3.  **Reste au milieu quand tu hésites**  
-    Quand tu n’es pas sûr de la suite, rester approximativement au centre de
-    l’écran t’offre plus de marge pour réagir à gauche ou à droite.
-4.  **Apprends le rythme**  
-    Beaucoup de sections se jouent sur un tempo régulier. Caler tes actions sur
-    ce rythme aide à réduire les erreurs de timing.
-5.  **Ne sacrifie pas ta sécurité pour une pièce**  
+### **Gameplay Strategy & Tips**
 
-- **Use Two Thumbs**: For maximum speed and control, play with both thumbs, hovering over the left and right buttons, respectively. This is much faster and more accurate than using a single finger.
-    Si le jeu propose des pièces ou bonus à ramasser, ne prends les plus
-    risqués que lorsque tu maîtrises bien le passage.
+1.  **Trouve ton rythme**: c’est un jeu très « rythme ». Essaie d’entrer dans un tempo régulier plutôt que de réagir au dernier moment.
+2.  **Regarde devant, pas ton perso**: vise deux ou trois marches en avance pour préparer ta séquence de taps.
+3.  **Ne panique pas devant les obstacles**: garde ton calme, repère le passage sûr, et continue sans casser ton rythme.
+4.  **Maîtrise le double tap**: les doubles marches du même côté reviennent souvent ; sois prêt à appuyer deux fois de suite très vite.
+5.  **Fais les missions et récupère les récompenses**: les missions/connexions quotidiennes donnent de la monnaie pour débloquer des personnages et parfois des bonus.
+6.  **Utilise deux pouces**: pour gagner en vitesse et en précision, garde un pouce sur chaque bouton (gauche/droite).
 
-### Commandes
+### **Controls Guide**
 
-- **Déplacements / Sauts** : selon la version, tapote à gauche ou à droite de
-  l’écran, ou utilise les touches directionnelles / la souris pour diriger ton
-  personnage vers la prochaine prise ou plateforme.  
-- **Pause / Recommencer** : utilise les boutons de l’interface pour mettre le
+Les contrôles sont très simples, pensés pour un gameplay rapide.
 
-- **Climb Right**: Tap the **"Right Climb!"** button on the bottom right of the screen.
-  jeu en pause ou relancer une partie.
+*   **Climb Left**: appuie sur le bouton **"Left Climb!"** en bas à gauche.
+*   **Climb Right**: appuie sur le bouton **"Right Climb!"** en bas à droite.
 
-### Foire aux questions (FAQ)
+### **Frequently Asked questions (FAQ)**
 
-**Q : Le jeu a‑t‑il une fin ?**  
-R : La plupart des versions de Climb Man sont infinies. L’objectif est de
-battre ton record de hauteur et de score.
+**1. Que se passe‑t‑il si j’appuie sur le mauvais bouton ?**
+Si tu appuies sur "Left Climb!" alors que la marche suivante est à droite (ou l’inverse), ton personnage saute dans le vide et tombe, ce qui termine la partie.
 
-**Q : Pourquoi je meurs toujours au même endroit ?**  
-R : C’est souvent un problème de timing. Observe bien le cycle des obstacles et
-change légèrement le moment où tu sautes ou la position d’où tu pars.
+**2. Comment obtenir de nouveaux personnages ?**
+Tu peux en débloquer via des connexions quotidiennes (attendance), ou via la boutique/menu des personnages avec l’or et les diamants gagnés en jouant et en finissant des missions.
 
-**Q : Y a‑t‑il des power‑ups ?**  
-R : Certaines variantes proposent des bonus (bouclier, double saut, etc.).
-Apprends à les utiliser dans les sections difficiles pour progresser plus
-loin.
+**3. Quel est l’objectif du jeu ?**
+Faire le meilleur score en montant un maximum de marches sur une seule run. Un objectif secondaire est de compléter les missions et de débloquer les personnages.
+
+**4. Le jeu est‑il infini ?**
+Oui, le mode principal est généralement infini : l’escalier est généré et tu grimpes jusqu’à l’erreur.

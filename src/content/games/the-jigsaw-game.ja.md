@@ -24,22 +24,22 @@ The Jigsaw Gameは、伝統的なジグソーパズルをデジタル化した�
  - **完成：** すべてのピースを組み合わせて画像を完成させます
 
 
-- Zoom/pan: Use tools to increase accuracy on dense areas.
+- 拡大/移動：密集した部分は拡大して合わせると正確です。
 ### 操作ガイド
 
  - **マウス：** ピースをドラッグして配置
  - **右クリック：** ピースを回転
 
 
-- Snap: Pieces usually auto‑snap when correctly placed.
+- スナップ：正しい位置に近いと自動で吸い付く（スナップする）場合があります。
 ### よくある質問（FAQ）
 
 
-- Any photo variety? Usually landscapes, animals, and seasonal themes.
+- 画像の種類は？ 風景、動物、季節テーマなどが用意されていることが多いです。
 
-- Can I change piece count? Typically yes; pick a difficulty that fits your session length.
+- ピース数は変えられますか？ 多くの場合は変更できます。遊ぶ時間に合わせて難易度を選びましょう。
 
-- Are there timers? Modes vary; many offer relaxed, untimed sessions.
+- 時間制限はありますか？ モードによって異なりますが、時間制限なしで遊べることも多いです。
 **ゲームの目標は何ですか？**
 
 すべてのジグソーピースを正しい位置に配置して画像を完成させることです。

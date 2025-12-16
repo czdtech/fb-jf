@@ -1,7 +1,7 @@
 ---
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
+# Frontmatter: config.ts の schema に従う
 title: "Spacebar Clicker"
-description: "Spacebar Clickerでクリック速度をテストしよう。中毒性のあるインクリメンタルゲーム。スペースバーを押してポイントを獲得し、強力なアップグレードを購入しよう。クリックを自動化して収益を増やし、このシンプルながら魅力的なクリッカーゲームでどこまで高いスコアを出せるか挑戦しよう。"
+description: "Spacebar Clickerはスペースバー連打でポイントを稼ぐクリッカーです。アップグレードで自動化し、獲得効率を上げていきます。"
 iframeSrc: "https://spacebarclicker.co/game/spacebar-counter/"
 thumbnail: "/new-images/spacebar-clicker.jpg"
 urlstr: "spacebar-clicker"
@@ -14,7 +14,7 @@ locale: ja
 
 ### ゲーム紹介
 
-Spacebar Clickerは、1つのアクション、つまりスペースバーを押すことを中心とした、シンプルながら非常に中毒性のあるインクリメンタルゲームです。主な目標は、クリックしてポイントを蓄積し、そのポイントを使ってアップグレードを購入することです。これらのアップグレードは、クリック力を強化したり、プロセスを自動化したりして、数字が指数関数的に増加する満足のいく進行ループを作り出します。
+Spacebar Clickerは、スペースバーを押してポイントを増やすシンプルなインクリメンタルゲームです。ポイントを貯めてアップグレードを購入し、1回あたりの獲得量を増やしたり、生成を自動化したりします。
 
 ### ゲームプレイガイド
 

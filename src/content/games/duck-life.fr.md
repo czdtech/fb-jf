@@ -3,8 +3,8 @@ locale: fr
 urlstr: duck-life
 title: 'Duck Life'
 description: >-
-  Duck Life is a training and racing sim: level up your duck through
-  mini‑games and win races.
+  Duck Life est un jeu d’entraînement et de course : améliore ton canard via des
+  mini‑jeux et gagne des courses.
 iframeSrc: 'https://games.wixgames.co.uk/games/ducklife1/webgl/'
 thumbnail: /new-images/duck-life.jpg
 tags:
@@ -19,26 +19,30 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 ### Overview
-The original training‑and‑racing sim: raise a duck’s running, swimming, and flying stats via mini‑games, then win races to progress through areas.
+Le jeu original d’entraînement et de course : augmente les stats de course,
+natation et vol de ton canard via des mini‑jeux, puis gagne des courses pour
+débloquer de nouvelles zones.
 
 ### How to Play
-- Train each skill to meet race demands; feed seeds to boost energy.
-- Replay training stages to raise caps; races require balanced stats.
-- Earn coins to buy seeds and cosmetics.
+- Entraîne chaque compétence selon les besoins des courses ; nourris‑le avec des
+  graines pour augmenter l’énergie.
+- Rejoue les entraînements pour monter les caps ; les courses demandent des stats
+  équilibrées.
+- Gagne des pièces pour acheter des graines et des cosmétiques.
 
 ### Controls
-- Arrows/Space or mouse depending on mini‑game.
+- Flèches/Espace ou souris selon le mini‑jeu.
 
 ### Tips
-- Balance stats rather than grinding only one.
-- Watch race previews to see which skills matter most.
-- Keep energy high; it’s effectively endurance.
+- Équilibre les stats au lieu de “grinder” une seule.
+- Regarde les aperçus de course pour voir quelles compétences comptent le plus.
+- Garde l’énergie haute : c’est ton endurance.
 
 ### FAQ
-- Q: Can I skip races?
-A: Progression typically requires winning set races per area.
-- Q: Do cosmetics help?
-A: Purely visual; training and energy drive results.
-- Q: Are there level caps?
-A: Early areas cap stats until later unlocks.
+- Q: Peut‑on passer des courses ?
+A: La progression demande généralement de gagner certaines courses par zone.
+- Q: Les cosmétiques aident‑ils ?
+A: Non, c’est visuel ; ce sont l’entraînement et l’énergie qui font la différence.
+- Q: Y a‑t‑il des caps de niveau ?
+A: Les premières zones limitent les stats jusqu’aux déblocages suivants.
 

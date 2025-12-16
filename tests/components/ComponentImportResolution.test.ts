@@ -15,9 +15,9 @@ import * as fs from 'fs';
 import * as path from 'path';
 
 // List of migrated components that should exist in src/components/
+// Note: Nav.astro was removed as dead code (never imported anywhere)
 const MIGRATED_COMPONENTS = [
   'Header.astro',
-  'Nav.astro',
   'Common.astro',
   'PopularGames.astro',
   'NewGames.astro',

@@ -57,24 +57,28 @@ et éviter de brûler les plats.
 
 
 - Q: I keep burning items — how to fix?
+- Q: Je brûle tout le temps — comment corriger ?
 
 
-- Combo routing: Serve 2–3 dishes back‑to‑back for a tip multiplier.
+- Route combo : sers 2–3 plats d’affilée pour un multiplicateur de pourboire.
 
-- Early cancel: If an item overcooks, toss quickly to keep flow rather than serve a penalty.
+- Annulation rapide : si un plat sur‑cuit, jette‑le vite pour garder le flow plutôt
+  que de servir une pénalité.
 ### Foire aux questions (FAQ)
 
-- Combo routing: Serve 2–3 dishes back‑to‑back for a tip multiplier.
+- Route combo : sers 2–3 plats d’affilée pour un multiplicateur de pourboire.
 
-- Early cancel: If an item overcooks, toss quickly to keep flow rather than serve a penalty.
+- Annulation rapide : si un plat sur‑cuit, jette‑le vite pour garder le flow plutôt
+  que de servir une pénalité.
 
-- Buffer trays: Stage plates near the pass so you spend less movement when orders spike.
+- Tampon d’assiettes : prépare des assiettes près du passe‑plat pour réduire les
+  déplacements quand les commandes explosent.
 **Q : Je brûle tout le temps mes œufs, que faire ?**  
 
-- Q: Which upgrade first?
+- Q: Quelle amélioration choisir en premier ?
 R : Espace légèrement tes cuissons (2–3 secondes entre chaque poêle) et garde
 
-- Q: Any trick for omelets with fillings?
+- Q: Une astuce pour les omelettes avec garniture ?
 un œil sur les assiettes prêtes plutôt que de lancer trop de préparations en
 même temps.
 

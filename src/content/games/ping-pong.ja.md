@@ -1,6 +1,6 @@
 ---
 title: Ping Pong
-description: Ping Pongはクラシックな卓球ゲームです。ボールを打ち、対戦相手と競い、反射神経をマスターし、卓球チャンピオンになります。
+description: Ping Pongは卓球ゲームです。パドルを動かしてボールを打ち返し、相手より多く得点します。
 iframeSrc: 'https://pingpong.h5games.usercontent.goog/v/3k9j5m8h7p2n8/'
 thumbnail: /new-images/ping-pong.png
 urlstr: ping-pong
@@ -42,9 +42,9 @@ Ping Pongは、クラシックな卓球をデジタル形式で再現します�
   A: 一部のバージョンはローカルまたはオンライン対戦を提供します。
 
 
-**A**: Yes, classic "Ping Pong" games typically support local multiplayer for two players on the same device.
+**A**: 多くの卓球ゲームは、同じ端末で2人対戦できるローカル対戦に対応しています。
 
-- **Q: Can this game be played in two-player mode?**
+- **Q: 2人プレイはできますか？**
 
 
-**A**: Yes, classic "Ping Pong" games typically support local multiplayer for two players on the same device.
+**A**: 多くの卓球ゲームは、同じ端末で2人対戦できるローカル対戦に対応しています。

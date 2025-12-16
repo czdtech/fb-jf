@@ -1,6 +1,6 @@
 ---
 title: Slime.io
-description: Slime.ioはスライム成長ゲームです。スライムを食べ、成長し、対戦相手を避け、最大のスライムになります。
+description: Slime.ioはスライムの成長ゲームです。小さい相手やアイテムを吸収して成長し、大きい相手を避けます。
 iframeSrc: 'https://slimeio.h5games.usercontent.goog/v/2j9k5m8h7p3n8/'
 thumbnail: /new-images/slime-io.png
 urlstr: slime-io
@@ -16,20 +16,20 @@ locale: ja
 
 ### ゲーム紹介
 
-Slime.ioは、より小さなスライムを食べて成長するマルチプレイヤー成長ゲームです。より大きなスライムを避け、より小さなものを消費し、リーダーボードを登ります。シンプルなゲームプレイ、中毒性のある競争。
+Slime.ioは、より小さなスライムやアイテムを吸収して成長する成長ゲームです。大きい相手を避けつつ小さい相手を狙い、ランキング上位を目指します。
 
 ### ゲームプレイ戦略と攻略法
 
 1.  **小さく始める:** 最初に小さなスライムを食べます。
 2.  **大きいものを避ける:** より大きなスライムから離れます。
-3.  **賢く分割:" 敵を捕まえるために戦略的に分割します。
-4.  **エッジを使用:" 壁が閉じ込めを助けます。
-5.  **忍耐強く:" 急速な成長はリスクを伴います。
+3.  **賢く分割:** 逃げ道を確保しつつ、捕まえられる場面で使います。
+4.  **端を利用:** 壁際は追い込みやすい反面、逃げにくくもなります。
+5.  **焦らない:** 無理な突っ込みは狙われやすくなります。
 
 ### 操作ガイド
 
 
-The game is controlled with a simple drag mechanic.
+操作はドラッグ中心でシンプルです。
 - マウス/タッチ：スライムを移動します。
 - スペース/ボタン：より速いスライムに分割します。
 - より小さなスライムを食べます。
@@ -42,9 +42,9 @@ The game is controlled with a simple drag mechanic.
   A: いいえ、成長し続けることができます。
 - **Q: マルチプレイヤーですか？**  
 
-    - **A:** The player with the highest score at the end of the round is declared the winner. Your score is based on how many objects and players you have absorbed.
+    - **A:** はい。リアルタイムで他のプレイヤーと同じフィールドで競います（バージョンによって仕様が異なる場合があります）。
 
-- **Q: How do I win?**
+- **Q: 勝つにはどうすればいいですか？**
 
-    - **A:** Yes, you can absorb any other player's slime that is smaller than you. This is a great way to get a lot of points quickly. But be careful, as bigger players can do the same to you.
-  A: はい、リアルタイムオンラインマルチプレイヤー。
+    - **A:** 自分より小さい相手は吸収できます。大量に吸収すると一気に伸びますが、さらに大きい相手に狙われるので注意が必要です。
+  A: ラウンド制の場合は、終了時にスコアが高いプレイヤーが勝者になります。スコアは吸収した量（アイテムや相手）に応じて増えます。

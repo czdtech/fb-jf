@@ -17,36 +17,30 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### Introducción detallada del juego
 
-Zoo Boom es un vibrante y adictivo rompecabezas de match‑2 que te lleva de aventura por un zoo lleno de color. Tu misión es tocar grupos de dos o más bloques de animales idénticos para eliminarlos del tablero. Cada nivel propone objetivos distintos: recolectar cierto número de animales, despejar obstáculos o alcanzar una puntuación mínima con un número limitado de movimientos. Al combinar grupos grandes puedes crear potenciadores que desencadenan reacciones en cadena espectaculares.
+Zoo Boom es un vibrante y adictivo puzle match‑2 que te lleva de aventura por un zoo lleno de color. Tu misión es tocar grupos de dos o más bloques de animales idénticos para eliminarlos del tablero. Cada nivel propone objetivos distintos: recolectar cierto número de animales, despejar obstáculos o alcanzar una puntuación mínima con un número limitado de movimientos. Al combinar grupos grandes puedes crear potenciadores que desencadenan reacciones en cadena espectaculares.
 
-### Gameplay Strategy & Walkthrough
+### Estrategia y guía de juego
 
-1.  **Busca grupos grandes:** aunque puedas eliminar solo dos bloques, intenta agrupar tres o más. Cuantos más animales limpies de una vez, más puntos obtendrás y más fácil será generar boosters.
+1.  **Busca grupos grandes:** aunque puedas eliminar solo dos bloques, intenta agrupar tres o más. Cuantos más animales limpies de una vez, más puntos obtendrás y más fácil será generar potenciadores.
 2.  **Crea potenciadores:** al juntar cinco o más bloques normalmente se genera un potenciador especial (cohetes, bombas, limpiadores de color…). Son esenciales para superar zonas difíciles y escalar puntuaciones.
-3.  **Combina boosters:** la verdadera magia ocurre cuando haces que dos potenciadores se toquen. Dos cohetes juntos limpian un área enorme; una bomba combinada con un limpiador de color puede arrasar medio tablero.
+3.  **Combina potenciadores:** la verdadera magia ocurre cuando haces que dos potenciadores se toquen. Dos cohetes juntos limpian un área enorme; una bomba combinada con un limpiador de color puede arrasar medio tablero.
 4.  **Prioriza objetivos:** mantén siempre a la vista el objetivo del nivel. A veces compensa más un grupo pequeño que acerca al objetivo que un gran combo que no ayuda a avanzar.
-5.  **Piensa tus movimientos:** evita tocar al azar. Intenta prever cómo quedará el tablero tras cada explosión para preparar futuros grupos y creaciones de boosters.
+5.  **Piensa tus movimientos:** evita tocar al azar. Intenta prever cómo quedará el tablero tras cada explosión para preparar futuros grupos y creaciones de potenciadores.
 
-### Controls Guide
+### Controles
 
 *   **Toca para hacer explotar:** haz clic o toca sobre grupos de dos o más bloques de animales idénticos para eliminarlos.
 
-### Frequently Asked Questions (FAQ)
+### Preguntas frecuentes (FAQ)
 
-*   **Q: ¿Cuál es la meta en Zoo Boom?**  
-    **A:** Completar los objetivos específicos de cada nivel, ya sea limpiar cierto tipo de bloques, alcanzar una puntuación o eliminar obstáculos concretos.
+*   **Q: ¿Cuál es la meta en Zoo Boom?**
+    *   **A:** Completar los objetivos específicos de cada nivel, ya sea limpiar cierto tipo de bloques, alcanzar una puntuación o eliminar obstáculos concretos.
 
-    - **Q: Cómo consigo potenciadores especiales?**  
-    **A:** Creándolos al eliminar grupos grandes de animales de una sola vez; cuantos más bloques incluyas, más potente será el booster resultante.
+*   **Q: ¿Cómo consigo potenciadores especiales?**
+    *   **A:** Creándolos al eliminar grupos grandes de animales de una sola vez; cuantos más bloques incluyas, más potente será el potenciador resultante.
 
-*   **Q: Qué pasa si me quedo sin movimientos?**  
-
-    - **A:** If you run out of moves before completing the level's objectives, you will fail the level and may lose a life. You can then choose to retry the level.
-
-- **Q: What happens if I run out of moves?**
-
-    - **A:** Special boosters are created by matching a larger number of identical animal blocks in a single tap. The more blocks you match, the more powerful the booster.
-    **A:** Si agotas todos los movimientos sin cumplir los objetivos, fallarás el nivel y consumirás una vida; luego podrás reintentarlo.
+*   **Q: ¿Qué pasa si me quedo sin movimientos?**
+    *   **A:** Si agotas todos los movimientos sin cumplir los objetivos, fallarás el nivel y consumirás una vida; luego podrás reintentarlo.
 

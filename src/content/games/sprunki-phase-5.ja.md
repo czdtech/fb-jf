@@ -29,15 +29,15 @@ Sprunki Phase 5の強化されたサウンドライブラリーは、トラッ�
 
 ---
 
-- Save and Share: Save your tracks and share them with the Sprunki Phase 5 community.
+- 保存と共有：トラックを保存し、共有できる場合があります（機能の有無はバージョンによって異なります）。
 
-- Explore Narratives: Unlock stories and character interactions as you hit milestones in your compositions.
+- 演出の解放：到達状況に応じて、ストーリーやキャラクター演出が解放される場合があります。
 
 ---
 ### 主な特徴
 
 
-Progressing in the Sprunki Phase 5 allows you to unlock more haunting sounds and expand your creative possibilities. Each new character brings a unique audio element, from deep, distorted bass to ghostly hums and eerie synths. These additions enable players to experiment with different styles, from suspenseful horror themes to hypnotic, atmospheric beats.
+Sprunki Phase 5では、進行に応じて新しいサウンドが解放される場合があります。キャラクターごとに担当する音が違い、低音、ハム音、シンセ、効果音などを組み合わせて雰囲気を作れます。暗めのテーマからアンビエント寄りまで、組み合わせを変えて試行錯誤できます。
  - 暗く雰囲気のあるビジュアル
  - 不気味なサウンドエフェクト
  - 強化されたサウンドライブラリー

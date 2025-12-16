@@ -33,14 +33,14 @@ HexaMindは、隣り合うものに関するルール（色、数字、記号な
 
 *   **Q: 行き詰まりました。どこを見ればいいですか？**
 
-A: Revisit high‑degree nodes and ring totals; combine ring and ray constraints.
+A: 接続の多いマスやリングの合計を見直し、リングと放射線（レイ）の制約を組み合わせましょう。
 - **A:** 次数の高い（接続の多い）ノードやリングの合計を再確認してください。リングとレイ（放射線）の制約を組み合わせましょう。
 
 
-A: Good sets allow logical solves; when needed, make shallow, reversible assumptions.
+A: 良い問題セットなら論理だけで解けます。必要な場合でも、すぐ戻せる小さな仮定に留めましょう。
 *   **Q: 当てずっぽう（推測）は必要ですか？**
 
-A: Six neighbors create stronger ring/ray reasoning that square grids lack.
+A: 隣接が6方向あるため、正方形グリッドにはないリング/放射状の推論が効きます。
     *   **A:** 良い問題セットなら論理的に解けます。必要な場合でも、浅く、すぐに戻れる仮定に留めましょう。
 
 *   **Q: 正方形グリッドのパズルとどう違いますか？**

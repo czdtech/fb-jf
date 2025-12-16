@@ -57,13 +57,13 @@ Il n’y a pas vraiment de "stratégie avancée" : Cat Mario est avant tout un t
 
     - **Ne touche pas au drapeau.**  
 
-    - **Do not hit the flagpole.** You must jump *over* the flagpole to land on a hidden block and then walk to the end castle to complete the level. Hitting the pole itself is a trap.
+    - **Ne touche pas au drapeau.** Tu dois sauter *par‑dessus* le drapeau, atterrir sur un bloc caché puis marcher jusqu’au château de fin pour valider le niveau. Toucher le drapeau est un piège.
 
-    - When you reach the final staircase, an enemy will spawn at the top. Be prepared.
+    - Quand tu atteins l’escalier final, un ennemi apparaît en haut. Prépare‑toi.
 
-    - Some clouds in the sky are actually enemies and will kill you if you touch them.
+    - Certains nuages dans le ciel sont en fait des ennemis et te tuent au contact.
 
-    - The ground right after the first pipe will collapse. You must jump over the gap.
+    - Le sol juste après le premier tuyau s’effondre. Tu dois sauter par‑dessus le trou.
   Pour finir vraiment le niveau, tu dois sauter **par‑dessus** le drapeau,
   atterrir sur un bloc caché et marcher jusqu’au château. Toucher le drapeau
   déclenche un dernier troll.

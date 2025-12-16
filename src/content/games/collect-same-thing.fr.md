@@ -15,61 +15,33 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
-### Présentation du jeu
+### Detailed Game Introduction
 
-Collect Same Thing est un jeu de réflexion où tu dois associer des objets
-identiques pour les retirer du plateau. Selon le mode, tu peux cliquer sur des
-paires voisines, relier des tuiles identiques ou ramasser des éléments dans un
-ordre précis.
+Collect Same Thing te met au défi d’associer des tuiles/objets identiques sous des contraintes d’espace ou de temps. Retirer des paires révèle souvent des couches plus profondes ; la réussite dépend de l’ouverture des « couloirs », de la priorité aux objets rares et de la gestion des singles isolés.
 
-L’objectif est de débarrasser la grille de tous les objets sans te retrouver
-bloqué, avec parfois un temps limité ou un nombre de coups maximum.
+### Gameplay Strategy & Walkthrough
 
-### Guide de jeu
+1.  Ouvre d’abord les lignes pour révéler les tuiles cachées.
+2.  Associe tôt les objets rares avant qu’ils n’encombrent le plateau.
+3.  Travaille de bas en haut pour provoquer des cascades (quand il y a des couches).
+4.  Évite de coincer des tuiles « seules » dans un coin avec peu de partenaires.
+5.  Garde les mélanges/indices pour les urgences.
 
-1.  **Commence par les paires évidentes**  
-    Associe d’abord les objets parfaitement accessibles pour dégager de
-    l’espace. Cela te donnera plus d’options pour les paires plus difficiles.
-2.  **Pense à l’espace restant**  
-    Évite de remplir les rares emplacements libres avec des objets rares dont tu
-    n’as pas encore la paire. Tu risques de te bloquer.
-3.  **Privilégie les associations qui ouvrent le plateau**  
-    Si plusieurs paires sont possibles, choisis celles qui débloquent le plus
-    de nouvelles tuiles visibles ou de chemins.
-4.  **Utilise les annulations/hints avec parcimonie**  
-    S’il existe des boutons d’indice ou d’annulation, garde‑les pour les
-    situations vraiment critiques.
-5.  **Observe les motifs récurrents**  
-    Au fil des niveaux, certains motifs de blocage reviennent. Apprends à les
-    reconnaître pour ne plus y retomber.
+### Controls Guide
 
-### Commandes
+- Clique/tape pour sélectionner des paires selon les règles du mode.
+- Utilise indice/mélange (si disponible) avec parcimonie.
 
-- **Sélectionner des objets** : clique ou touche deux tuiles identiques selon
-  les règles d’appariement (adjacence, ligne de vue, etc.).  
-- **Zoom/Déplacement** : si le jeu le permet, déplace la vue ou zoome pour
-  mieux voir l’ensemble de la grille.  
-- **Outils spéciaux** : certains niveaux offrent des bonus (mélange, suppression
-  d’une paire aléatoire, etc.). Utilise‑les via les icônes correspondantes.
+### Frequently Asked Questions (FAQ)
 
-### Foire aux questions (FAQ)
+- Q: Je suis bloqué sans paire — que faire ?
+  
+  A: Mélange si c’est autorisé, ou recommence avec une ouverture différente qui préserve des couloirs.
 
+- Q: Temps limité ou nombre de coups ?
+  
+  A: Ça dépend du mode ; joue plus vite pour les chronos et planifie plus profondément quand les coups sont limités.
 
-- Q: I get stuck with no pairs — what now?
-**Q : Je n’ai plus de paire visible, que faire ?**  
-
-- Q: Timed or move limits?
-R : Vérifie si un bouton de mélange, d’indice ou d’annulation est disponible.
-
-- Q: Any scoring tips?
-Sans aide, il est parfois nécessaire de recommencer le niveau et de changer ta
-priorité d’associations.
-
-**Q : Le jeu est‑il chronométré ?**  
-R : Certains modes imposent un temps limite ou un nombre de coups maximum.
-Lis toujours les conditions du niveau avant de commencer.
-
-**Q : Y a‑t‑il une solution unique ?**  
-R : Pas toujours. Plusieurs cheminements peuvent mener à la victoire, mais
-certains ordres d’association rendent le plateau impossible à finir, d’où
-l’importance de planifier.
+- Q: Des astuces pour le score ?
+  
+  A: Enchaîne des paires rapidement pour maintenir des bonus de combo quand le mode en propose.

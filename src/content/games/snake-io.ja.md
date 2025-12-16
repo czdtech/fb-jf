@@ -1,7 +1,7 @@
 ---
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
+# Frontmatter: config.ts の schema に従う
 title: "Snake.io"
-description: "Snake.ioをプレイしよう。クラシックなスネークゲームを現代風にアレンジした人気のマルチプレイヤーアクションゲーム。ペレットを食べて対戦相手を倒し、最長のスネークを目指そう。スピードブーストを戦略的に使ってアリーナを制覇する中毒性のあるカジュアルゲーム。"
+description: "Snake.ioはオンラインのヘビ成長ゲームです。ペレットを食べて成長し、相手を避けたり巻き込んだりしながら上位を目指します。"
 iframeSrc: "https://snake.io/crazygames/"
 thumbnail: "/new-images/snake-io.jpg"
 urlstr: "snake-io"

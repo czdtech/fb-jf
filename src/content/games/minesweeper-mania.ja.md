@@ -1,6 +1,6 @@
 ---
 title: Minesweeper Mania
-description: Minesweeper Maniaは地雷の狂乱です。地雷をマークし、タイルをクリアし、時間と競争し、クラシック論理パズルをマスターします。
+description: Minesweeper Maniaはタイムアタック要素のあるMinesweeperです。地雷を推理し、時間内に盤面をクリアします。
 iframeSrc: 'https://minesweepermania.h5games.usercontent.goog/v/3vf4ml3r9g1b8/'
 thumbnail: /new-images/minesweeper-mania.png
 urlstr: minesweeper-mania
@@ -15,7 +15,7 @@ locale: ja
 
 ### ゲーム紹介
 
-Minesweeper Maniaは、クラシックな地雷ゲームプレイに速度チャレンジを追加します。数字の手がかりを使用してすべての地雷を見つけ、タイムリミットを打ち負かし、リーダーボードでスコアを競います。スピードと論理を組み合わせます。
+Minesweeper Maniaは、クラシックな地雷ゲームにスピードチャレンジを加えたバージョンです。数字の手がかりから地雷を推理し、制限時間内に盤面をクリアしてタイムを競います。
 
 ### ゲームプレイ戦略と攻略法
 
@@ -39,9 +39,9 @@ Minesweeper Maniaは、クラシックな地雷ゲームプレイに速度チャ
   A: パターンを学び、不必要なフラグを避け、練習します。
 - **Q: 間違いは時間ペナルティですか？**  
 
-    - **A:** No, flags are not required to win. They are simply a tool to help you remember where you think the mines are. You win by revealing all the safe squares, not by flagging all the mines.
+    - **A:** 多くの場合、地雷を踏むと即ゲームオーバーです。スピードよりもまず正確さを優先しましょう。
 
-- **Q: Do I have to use flags?**
+- **Q: フラグは必須ですか？**
 
-    - **A:** The game ends immediately in a loss.
-  A: 多くの場合はい、正確さが重要です。
+    - **A:** 必須ではありません。フラグは推理の補助で、安全なマスをすべて開けば勝ちになります。
+  A: 必須ではありませんが、覚え違いを減らすのに役立ちます。

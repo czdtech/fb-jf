@@ -26,25 +26,25 @@ Train 2048は、クラシックな2048パズルゲームに列車のテーマを
 ### 操作ガイド
 
 
-The controls are simple and intuitive:
+操作はシンプルで分かりやすいです：
  - **矢印キー：** 列車を上下左右に移動
 
 
-- **Swiping (Mobile):** **Swipe** in any of the four cardinal directions to move the cars.
+- **スワイプ（モバイル）：** 上下左右に **スワイプ** して列車（タイル）を動かします。
 ### よくある質問（FAQ）
 
 
-- **A:** Any corner works, but consistency is key. Once you choose a corner (e.g., top-right), stick with it. Most players find a bottom corner slightly easier as it feels more natural to avoid swiping down.
+- **A:** どの角でも構いませんが、一貫性が大事です。1つ角を決めたら、基本はそこに最大値を固定する意識で進めます。下側の角を使うと操作しやすいと感じる人もいます。
 
-    - **Q: Which corner is best for the highest car?**
+    - **Q: 最大値はどの角に置くのが良いですか？**
 
-- **A:** You lose when the entire grid is filled with train cars, and there are no possible moves or merges left.
+- **A:** 盤面が埋まり、動かせる手や合体がなくなるとゲームオーバーです。
 
-    - **Q: How do you lose the game?**
+    - **Q: どうなると負けになりますか？**
 
-- **A:** The primary goal is to successfully merge cars until you create the "2048" train car. Continuing to play after that to achieve an even higher score is also possible.
+- **A:** 目的は「2048」の列車（タイル）を作ることです。達成後も続けて、さらに高い数やハイスコアを狙えます。
 
-    - **Q: How do you win the game?**
+    - **Q: 勝利条件は何ですか？**
 **ゲームの目標は何ですか？**
 
 同じ数字の列車を合体させて2048列車を作ることです。

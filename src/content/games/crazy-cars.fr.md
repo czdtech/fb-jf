@@ -45,42 +45,44 @@ ta vitesse ou ton score.
 - **Diriger la voiture** : utilise les touches fléchées, A/D ou le gyroscope
   (mobile) pour changer de voie.  
 - **Freiner / Booster** : selon la version, une touche ou icône permet de
+  ralentir, de déraper ou d’activer un turbo.
 
-- Split‑screen: second player uses the other key set
+- Mode écran partagé : le deuxième joueur utilise l’autre jeu de touches.
 
-- Esc/P: Pause/menu
+- `Esc`/`P` : pause/menu
 
-- R: Reset vehicle
-  ralentir ou d’activer un turbo.
+- `R` : réinitialiser le véhicule
+  (selon la version).
 
+### Conseils et stratégies
+
+
+- Q: Comment débloquer plus de voitures ?
+
+
+- Récupère des clés à molette proches pour réparer après de gros atterrissages.
+
+- Utilise le frein à main pour initier des drifts contrôlés dans les virages serrés.
+
+- Aborde les gros tremplins bien droit et avec de la vitesse ; évite de corriger la direction en l’air.
 ### Foire aux questions (FAQ)
 
+- Récupère des clés à molette proches pour réparer après de gros atterrissages.
 
-- Q: How do I unlock more cars?
+- Utilise le frein à main pour initier des drifts contrôlés dans les virages serrés.
 
+- Aborde les gros tremplins bien droit et avec de la vitesse ; évite de corriger la direction en l’air.
 
-- Grab nearby wrenches early to repair after heavy landings.
-
-- Use the handbrake to initiate controlled drifts for tight corners.
-
-- Approach big ramps straight and at speed; avoid mid‑air steering corrections.
-### Foire aux questions (FAQ)
-
-- Grab nearby wrenches early to repair after heavy landings.
-
-- Use the handbrake to initiate controlled drifts for tight corners.
-
-- Approach big ramps straight and at speed; avoid mid‑air steering corrections.
-
-- Feather the throttle during sharp turns to reduce understeer.
+- Dose l’accélérateur dans les virages serrés pour réduire le sous‑virage.
 **Q : Le jeu propose‑t‑il des niveaux ou seulement un mode infini ?**  
 
-- Q: Is there multiplayer?
-R : La plupart des versions misent sur un mode infini, mais certaines ajoutent
+- Q: Y a‑t‑il du multijoueur ?
+R : Certaines versions proposent un écran partagé local (split‑screen) ; le
+multijoueur en ligne est généralement absent.
 
-- Q: My car flipped over—what now?
-  des défis ou missions spécifiques.
+- Q: Ma voiture s’est retournée — je fais quoi ?
+R : Appuie sur `R` pour réinitialiser le véhicule près de ta dernière position.
 
 **Q : Puis‑je améliorer ma voiture ?**  
-R : Selon le port, tu peux débloquer de nouveaux véhicules ou upgrades
+R : Selon le port, tu peux débloquer de nouveaux véhicules ou améliorations
   esthétiques/performances en accumulant des pièces.

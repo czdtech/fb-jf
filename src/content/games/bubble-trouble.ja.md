@@ -31,10 +31,9 @@ locale: ja
     *   **スティッキー（粘着）ワイヤー:** 天井に張り付き、そこに触れたバブルを割る非常に強力な武器です。
     *   **シールド:** 一定時間無敵になります。絶対に取りましょう。
     *   **タイムストップ:** バブルの動きを遅くしたり止めたりします。一掃するチャンスです。
-    - **2人プレイのコツ:** 「右半分はお前、左半分は俺」と担当エリアを決めるのが鉄則です。動き回って交差しようとすると事故の元になります。
+    *   **ダイナマイト:** 画面内の特定サイズのバブルをまとめて破壊します。
+*   **2人プレイのコツ:** 「右半分はお前、左半分は俺」と担当エリアを決めるのが鉄則です。動き回って交差しようとすると事故の元になります。
 
-
-- **Two-Player Coordination:** In 2-player mode, communication is key. The best strategy is often to "divide and conquer." Each player takes one half of the screen. This prevents you from running into each other and provides much better screen coverage.
 ### 操作ガイド
 
 シンプルですが、素早い反応が求められます。
@@ -48,30 +47,17 @@ locale: ja
     *   **W キー:** 射撃（バージョンによりQキーの場合もあり）
 
 
-*(Note: Player 2 controls can sometimes vary slightly, e.g., using X and C for movement and W to shoot, depending on the version of the game.)*
+*(注：プレイヤー2の操作はバージョンによって多少異なることがあります（例：移動が X / C、射撃が W など）。)*
 ### よくある質問 (FAQ)
 
+**1. 斜めに撃つことはできますか？**
+> いいえ、ハープーンは真上にしか撃てません。だからこそ位置取りが重要になります。
 
-> If the timer reaches zero before you have cleared all the bubbles, you lose a life and must restart the level. If you have no lives left, the game is over.
+**2. パワーアップはどうやって使いますか？**
+> バブルを割るとランダムでアイテムが落ちます。落下アイコンの下に移動して拾うと発動し、多くは一定時間の効果です。
 
-**4. What happens when the timer runs out?**
+**3. どのパワーアップが強いですか？**
+> 安定して強いのは「シールド」です。複数を一気に処理したいなら「スティッキーワイヤー」や「ダブルハープーン」も有効です。
 
-> This is subjective, but the **Shield** is arguably the most valuable as it prevents you from losing a life. The **Sticky Harpoon** is incredibly effective for clearing multiple bubbles at once.
-
-**3. What is the best power-up?**
-
-> Power-ups are randomly dropped when you pop a bubble. You must physically move your character over the falling icon to collect it. Most power-ups are temporary.
-
-**2. How do power-ups work?**
-
-> No, you can only shoot your harpoon straight up. The challenge comes from positioning your character correctly underneath the moving bubbles.
-
-**1. Is it possible to shoot diagonally?**
-*   **Q: 斜めに撃つことはできますか？**
-    *   **A:** いいえ、真上にしか撃てません。だからこそ位置取りが重要なゲームなのです。
-
-*   **Q: 時間切れになるとどうなりますか？**
-    *   **A:** タイムオーバーは即ミスとなり、ライフを1つ失ってステージの最初からやり直しになります。
-
-*   **Q: どのパワーアップが最強ですか？**
-    *   **A:** 初心者には死ななくなる「シールド」、慣れてきたら効率よくバブルを消せる「スティッキーワイヤー」が最強候補です。
+**4. 時間切れになるとどうなりますか？**
+> 時間切れ前にバブルをすべて消せないとライフを1つ失い、ステージをやり直します。ライフが残っていなければゲームオーバーです。

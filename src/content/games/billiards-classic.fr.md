@@ -22,14 +22,14 @@ releaseDate: 2025-10-17T00:00:00.000Z
 1.  **Soigner la casse :** vise la bille de tête pour ouvrir le triangle et, idéalement, rentrer déjà une bille.
 2.  **Choisir ton camp :** après la casse, la table reste ouverte. La première bille légale que tu poches détermine si tu joues les pleines (1‑7) ou les rayées (9‑15) pour tout le reste de la partie.
 3.  **Penser plusieurs coups à l’avance :** ne te contente pas du tir le plus simple. Enchaîne tes billes dans un ordre qui laisse la blanche bien placée.
-4.  **Utiliser l’english intelligemment :** un léger rétro stoppe ou ramène la blanche, un topspin la fait suivre et un effet latéral ajuste l’angle après la bande. Dose-les finement pour contrôler la position.
+4.  **Utiliser l’effet intelligemment :** un léger rétro stoppe ou ramène la blanche, un topspin la fait suivre et un effet latéral ajuste l’angle après la bande. Dose-les finement pour contrôler la position.
 5.  **Terminer avec la boule 8 :** une fois tes sept billes rentrées, annonce une poche pour la 8 et rentre‑la proprement. La pocher trop tôt ou faire scratch sur la 8 te fait perdre.
 
 ### Commandes
 
 *   **Viser :** déplace la souris pour orienter la queue.
 *   **Puissance :** clique et fais glisser la jauge de force pour régler l’intensité.
-*   **Effet :** utilise le contrôleur d’english pour choisir le point d’impact sur la blanche.
+*   **Effet :** utilise le contrôleur d’effet pour choisir le point d’impact sur la blanche.
 *   **Tirer :** relâche la souris pour frapper.
 
 ### Foire aux questions (FAQ)

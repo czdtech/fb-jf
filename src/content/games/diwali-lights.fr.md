@@ -3,8 +3,8 @@ locale: fr
 urlstr: diwali-lights
 title: 'Diwali Lights'
 description: >-
-  Diwali Lights is a festive tap‑puzzle — light diyas in patterns, avoid
-  overlaps, and complete glowing designs.
+  Diwali Lights est un puzzle festif au tap : allume des diyas selon des motifs,
+  évite les chevauchements, et complète des dessins lumineux.
 iframeSrc: 'https://diwalilights.h5games.usercontent.goog/v/5cddqg9lrn3kg/'
 thumbnail: /new-images/diwali-lights.jpg
 tags:
@@ -20,24 +20,32 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### Detailed Game Introduction
 
-Diwali Lights is a holiday‑themed light‑up puzzle. Activate lamps (diyas) in the correct order or pattern to illuminate designs without crossing rules. Later stages add limited moves, switches, and timing.
+Diwali Lights est un puzzle « light‑up » sur le thème de Diwali. Active des lampes
+(diyas) dans le bon ordre ou selon un motif pour illuminer des dessins en
+respectant les règles (chevauchements interdits, séquences, etc.). Plus loin,
+des niveaux ajoutent des coups limités, des interrupteurs et parfois du timing.
 
 ### Gameplay Strategy & Walkthrough
 
-1.  Understand rules: Some boards restrict overlaps or require sequences—read objectives first.
-2.  Plan routes: Map a path that minimizes backtracking and respects move limits.
-3.  Save toggles: Use switches to open multiple goals at once.
-4.  Visual groups: Solve one motif at a time to simplify the board.
-5.  Retry optimization: Short puzzles reward fast restarts after missteps.
+1.  Comprends les règles : certains plateaux interdisent les chevauchements ou
+    imposent des séquences — lis d’abord l’objectif.
+2.  Planifie le trajet : trace un chemin qui limite les allers‑retours et respecte
+    les coups limités.
+3.  Garde les interrupteurs : utilise les switches pour ouvrir plusieurs objectifs
+    d’un coup.
+4.  Travaille par motifs : résous un motif à la fois pour simplifier le plateau.
+5.  Optimise en recommençant : sur les puzzles courts, relancer vite après une
+    erreur est souvent plus efficace.
 
 ### Controls Guide
 
-- Tap/Click lamps, switches, or tiles per puzzle rules.
-- Undo/Reset if the mode allows.
+- Tape/clique sur les lampes, interrupteurs ou cases selon les règles du puzzle.
+- Annule/Réinitialise si le mode le permet.
 
 ### Frequently Asked Questions (FAQ)
 
-- I keep failing on move limits—why? Your path wastes steps; redraw a shorter route.
-- Timed boards? Complete motifs near timers first.
-- Are hints available? Often yes; use them sparingly.
+- Je rate à cause des coups limités — pourquoi ? Ton trajet gaspille des coups ;
+  trace un chemin plus court.
+- Niveaux chronométrés ? Commence par les motifs proches des timers.
+- Y a‑t‑il des indices ? Souvent oui ; utilise‑les avec parcimonie.
 

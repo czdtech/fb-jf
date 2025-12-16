@@ -1,6 +1,6 @@
 ---
 title: "Om Nom Bubbles"
-description: "Om Nom Bubblesはカラフルなバブルシューターです。泡をマッチし、Om Nomを助け、レベルをクリアし、楽しいパズルをマスターします。"
+description: "Om Nom Bubblesはバブルシューターです。同じ色の泡をそろえて消し、レベル目標の達成を目指します。"
 iframeSrc: "https://omnombubbles.h5games.usercontent.goog/v/5j8k9m2h7p3n8/"
 thumbnail: "/new-images/om-nom-bubbles.png"
 urlstr: "om-nom-bubbles"
@@ -13,7 +13,7 @@ locale: ja
 
 ### ゲーム紹介
 
-Om Nom Bubblesは、Cut the Ropeシリーズの愛らしいOm Nomをフィーチャーしたバブルシューターです。同じ色の泡を3つ以上マッチしてポップし、ボードをクリアし、レベル目標を完了します。簡単に学べ、マスターするのは挑戦的です。
+Om Nom Bubblesは、Cut the RopeシリーズのOm Nomが登場するバブルシューターです。同じ色の泡を3つ以上そろえて消し、ボードを整理しながらレベル目標を達成します。ルールはシンプルで、狙い方で差が出ます。
 
 ### ゲームプレイ戦略と攻略法
 

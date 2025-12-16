@@ -54,14 +54,14 @@ des couleurs dans l’image finale.
 ### Foire aux questions (FAQ)
 
 
-- Q: I always end with one tile uncovered — what’s wrong?
+- Q : Il me reste toujours une case non couverte — qu’est‑ce qui cloche ?
 **Q : Je suis bloqué, comment trouver l’ordre ?**  
 
-- Q: Are multiple orders valid?
-R : Analyse quelles couleurs doivent se retrouver visibles en surface et où.
+- Q : Y a‑t‑il plusieurs ordres valides ?
+R : Analyse quelles couleurs doivent se retrouver visibles en surface et où. Les couches inférieures doivent être posées en premier, les détails par‑dessus.
 
-- Q: Is there a hint system?
-Les couches inférieures doivent être posées en premier, les détails par‑dessus.
+- Q : Y a‑t‑il un système d’indices ?
+R : Selon la version, il peut y avoir des indices ou des boutons d’annulation. Sinon, l’essai‑erreur (et le reset du niveau) reste la méthode.
 
 **Q : Le temps est‑il limité ?**  
 R : En général non. Color Roll 3D se joue sans chrono, l’accent étant mis sur

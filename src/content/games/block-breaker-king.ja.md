@@ -1,6 +1,6 @@
 ---
 title: "Block Breaker King ブロック崩しキング"
-description: "「Block Breaker King」で究極のブロック崩し体験を！無数のボールを発射し、スワイプで狙いを定め、迫りくるブロックを粉砕してハイスコアを目指す爽快アーケードゲーム。"
+description: "「Block Breaker King」はブロックを配置して縦横のラインを消すパズルゲームです。ピースをはめ込んで盤面を整理し、手詰まりになる前にハイスコアを狙いましょう。"
 iframeSrc: "https://blockbreakerking.h5games.usercontent.goog/v/9b83b167-93e1-482a-874f-c4e9702209d8/"
 thumbnail: "/new-images/block-breaker-king.jpg"
 urlstr: "block-breaker-king"

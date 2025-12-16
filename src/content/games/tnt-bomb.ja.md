@@ -29,21 +29,21 @@ TNT Bombは、物理エンジンを使った爆破パズルゲームです。TNT
  - **クリック：** 起爆
 
 
-- **Detonate:** Once you have placed all your available bombs, click the "Boom" or "Detonate" button to watch the fireworks.
+- **起爆：** 使える爆弾をすべて配置したら、「Boom」や「Detonate」ボタンで起爆します。
 ### よくある質問（FAQ）
 
 
-- **A:** Yes, you must place all the bombs provided in your inventory for that level before you can detonate them.
+- **A:** はい。多くの場合、そのレベルで支給された爆弾をすべて置いてから起爆します。
 
-    - **Q: Can I place more than one bomb?**
+    - **Q: 爆弾は複数置けますか？**
 
-- **A:** You likely placed your bombs in an ineffective location. Try placing them lower down on the main support blocks instead of on the outer walls or at the top.
+- **A:** 配置場所が効いていない可能性があります。外壁や上部ではなく、支えになっているブロックの近く（低い位置）を狙うと崩れやすいです。
 
-    - **Q: Why didn't the building fall down?**
+    - **Q: なぜ建物が倒れませんでしたか？**
 
-- **A:** The goal is to cause enough destruction to meet the level's requirement, which is usually to destroy a certain percentage of the blocks (often 100%).
+- **A:** 目標はレベル条件を満たすだけ破壊することです。多くの場合、一定割合（しばしば100%）のブロックを壊す必要があります。
 
-    - **Q: What is the goal of each level?**
+    - **Q: 各レベルの目標は何ですか？**
 **ゲームの目標は何ですか？**
 
 TNTを使って建物を破壊し、各レベルの目標を達成することです。

@@ -35,18 +35,12 @@ Traffic Tom es un juego de motos en tercera persona y ritmo frenético que te si
 
 ### Preguntas frecuentes (FAQ)
 
-*   **Q: ¿Qué pasa si choco con otro vehículo?**  
-    **A:** La carrera termina y tendrás que reiniciar el nivel desde el principio.
+*   **Q: ¿Qué pasa si choco con otro vehículo?**
+    *   **A:** La carrera termina y tendrás que reiniciar el nivel desde el principio.
 
-    - **Q: Cómo consigo nuevas motos?**  
-    **A:** Puedes comprar modelos adicionales en el garaje usando las monedas que obtienes durante las carreras y al completar misiones.
+*   **Q: ¿Cómo consigo una moto nueva?**
+    *   **A:** Puedes comprar modelos adicionales en el garaje usando las monedas que obtienes durante las carreras y al completar misiones.
 
-*   **Q: ¿Hay forma de ir más rápido?**  
-
-    - **A:** Besides upgrading your bike's top speed, some levels may feature boost pads on the road that give you a temporary burst of speed when you drive over them.
-
-- **Q: Is there a way to go faster?**
-
-    - **A:** You can purchase new bikes from the in-game garage using the coins you collect during your runs and for completing missions.
-    **A:** Además de subir la velocidad máxima de la moto, algunos niveles incluyen zonas de aceleración en la calzada que te dan un impulso extra al pasar por encima.
+*   **Q: ¿Hay forma de ir más rápido?**
+    *   **A:** Además de subir la velocidad máxima de la moto, algunos niveles incluyen zonas de aceleración en la calzada que te dan un impulso temporal al pasar por encima.
 

@@ -1,6 +1,6 @@
 ---
 title: Puppet Master
-description: Puppet Masterは物理パズルゲームです。パペットをコントロールし、レベルをナビゲートし、物理学をマスターし、挑戦的な障害物を克服します。
+description: Puppet Masterは物理パズルゲームです。ラグドールの動きを制御し、障害物を越えてゴールを目指します。
 iframeSrc: 'https://puppetmaster.h5games.usercontent.goog/v/3k9j5m8h7p2n8/'
 thumbnail: /new-images/puppet-master.png
 urlstr: puppet-master
@@ -33,7 +33,7 @@ Puppet Masterは、ぎこちないラグドール物理を持つパペットを�
 - ゴールに到達してレベルをクリアします。
 
 
-- **Jumping**: Use coordination between legs and arms to achieve jumping actions.
+- **ジャンプ**: 足と腕の動きをうまく合わせてジャンプします。
 ### よくある質問 (FAQ)
 
 - **Q: 継続的に転倒します。ヒントは？**  
@@ -44,9 +44,9 @@ Puppet Masterは、ぎこちないラグドール物理を持つパペットを�
   A: バージョンによって異なります。多くは数十。
 
 
-**A**: The game usually starts with simple tutorial levels and gradually increases in difficulty, allowing players to progressively adapt to the control scheme.
+**A**: 多くの場合、最初はチュートリアル的な簡単なレベルから始まり、徐々に難しくなって操作に慣れられるようになっています。
 
-- **Q: Are there different difficulty levels in the game?**
+- **Q: 難易度は段階的に上がりますか？**
 
 
-**A**: The game usually starts with simple tutorial levels and gradually increases in difficulty, allowing players to progressively adapt to the control scheme.
+**A**: 多くの場合、最初はチュートリアル的な簡単なレベルから始まり、徐々に難しくなって操作に慣れられるようになっています。

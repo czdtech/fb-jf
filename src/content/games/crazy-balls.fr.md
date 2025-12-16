@@ -52,14 +52,14 @@ les cibles avant d’être submergé ou à court de tirs.
 ### Foire aux questions (FAQ)
 
 
-- Q: Shots feel random — how to control?
-**Q : Le jeu est‑il infini ?**  
+- Q: Les tirs semblent aléatoires — comment garder le contrôle ?
+  A: Baisse la puissance, vise des angles simples et repère des points de rebond réguliers sur les murs.
 
-- Q: Are there power‑ups?
-R : Certaines versions enchaînent les niveaux sans fin, d’autres ont un nombre
+- Q: Y a‑t‑il des bonus ?
+  A: Certaines versions proposent des bonus (multiplicateur, ralenti, etc.) ; garde‑les pour les sections délicates.
 
-- Q: Timed levels?
-fixe d’étapes.
+- Q: Niveaux chronométrés ?
+  A: S’il y a un chrono, privilégie une progression sûre plutôt que des tirs risqués.
 
 **Q : Comment gérer les niveaux avec très peu d’espace ?**  
 R : Vise des angles très serrés le long des murs pour faire remonter les balles

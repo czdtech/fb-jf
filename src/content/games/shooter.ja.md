@@ -1,6 +1,6 @@
 ---
 title: Shooter
-description: Shooterはクラシックなアクションシューターです。敵を撃ち、武器をアップグレードし、波を生き残り、射撃をマスターします。
+description: Shooterはアクションシューターです。敵の波をしのぎ、武器を強化しながら生き残りを目指します。
 iframeSrc: 'https://shooter.h5games.usercontent.goog/v/3k9j5m8h7p2n8/'
 thumbnail: /new-images/shooter.png
 urlstr: shooter
@@ -15,15 +15,15 @@ locale: ja
 
 ### ゲーム紹介
 
-Shooterは、敵の波と戦う直接的なアクションシューターです。武器をアップグレードし、弾薬を管理し、正確に撃ち、できるだけ長く生き残ります。シンプルなゲームプレイ、激しいアクション。
+Shooterは、敵の波と戦うアクションシューターです。武器をアップグレードし、弾薬を管理しながら正確に撃って生き残ります。操作はシンプルですが、立ち回りが重要です。
 
 ### ゲームプレイ戦略と攻略法
 
-1.  **移動し続ける:" 簡単なターゲットにならないでください。
-2.  **ヘッドショットを狙う:" より多くのダメージ。
-3.  **武器をアップグレード:" ダメージと発射速度に投資します。
-4.  **弾薬を管理:" リロードタイミングを見てください。
-5.  **カバーを使用:" 利用可能な場合。
+1.  **動き続ける:** 簡単な的にならないようにします。
+2.  **ヘッドショットを狙う:** 可能ならダメージを稼ぎます。
+3.  **武器を強化:** ダメージや連射性能を伸ばします。
+4.  **弾薬を管理:** リロードのタイミングを見極めます。
+5.  **カバーを使う（ある場合）:** 被弾を減らします。
 
 ### 操作ガイド
 
@@ -32,9 +32,9 @@ Shooterは、敵の波と戦う直接的なアクションシューターです�
 - R：リロード（該当する場合）。
 
 
-- **Weapon Switch**: Use number keys or scroll wheel to switch between different weapons.
+- **武器切り替え**: 数字キーやマウスホイールで武器を切り替えます（対応している場合）。
 
-- **Reload**: Use R key to reload.
+- **リロード**: Rキーでリロードします（対応している場合）。
 ### よくある質問 (FAQ)
 
 - **Q: エンドレスですか？**  
@@ -45,9 +45,9 @@ Shooterは、敵の波と戦う直接的なアクションシューターです�
   A: ほとんどのバージョンはシングルプレイヤーです。
 
 
-**A**: Stay calm, prioritize defeating the closest threats, and use terrain advantages to separate enemies.
+**A**: 落ち着いて、まず近い脅威から処理します。地形や遮蔽物を使って敵の集団を分断すると戦いやすくなります。
 
-- **Q: How do I handle multiple enemies attacking simultaneously?**
+- **Q: 複数の敵に同時に襲われたらどう対処しますか？**
 
 
-**A**: Stay calm, prioritize defeating the closest threats, and use terrain advantages to separate enemies.
+**A**: 落ち着いて、まず近い脅威から処理します。地形や遮蔽物を使って敵の集団を分断すると戦いやすくなります。

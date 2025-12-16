@@ -19,7 +19,7 @@ The Pillarは、美しいビジュアルと挑戦的なパズルを特徴とす�
 ### ゲームプレイガイド
 
 
-The core gameplay involves solving puzzles to progress. Each area presents new challenges that require you to manipulate objects, decipher codes, and understand the environment's logic.
+進行はパズルを解いて進めます。エリアごとに新しい仕掛けがあり、オブジェクト操作、コード解読、環境のルール理解が必要になります。
  - **探索：** 環境を探索します
  - **パズル解決：** 様々なパズルを解きます
  - **手がかり収集：** 重要な手がかりを見つけます

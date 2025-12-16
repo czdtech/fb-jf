@@ -3,9 +3,8 @@ locale: fr
 urlstr: domino-battle
 title: 'Domino Battle'
 description: >-
-  Challenge an opponent in a classic game of Dominoes. Strategically place
-  your tiles, block your opponent, and be the first to empty your hand to win
-  the battle.
+  Affronte un adversaire dans une partie de dominos classique. Pose tes tuiles
+  intelligemment, bloque l’autre joueur et vide ta main en premier pour gagner.
 iframeSrc: 'https://dominobattle.h5games.usercontent.goog/v/45fvkhcnai3s0/'
 thumbnail: /new-images/domino-battle.png
 tags:
@@ -21,29 +20,48 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### Detailed Game Introduction
 
-Domino Battle is a digital adaptation of the classic tile-based game, Dominoes. This version pits you against a computer opponent in a strategic battle of wits. The objective is to be the first player to get rid of all your domino tiles by matching them end-to-end with the layout on the board. It requires careful planning, as you must not only play your own tiles but also anticipate and potentially block your opponent's moves.
+Domino Battle est une adaptation numérique du jeu de dominos. Ici, tu affrontes
+un adversaire contrôlé par l’ordinateur dans un duel stratégique. L’objectif est
+d’être le premier à te débarrasser de toutes tes tuiles en les reliant aux
+extrémités compatibles de la chaîne sur le plateau. Il faut planifier : tu dois
+optimiser tes propres coups et anticiper ceux de l’adversaire (voire le bloquer).
 
 ### Gameplay Strategy & Walkthrough
 
-1.  **The Basics:** Each player starts with a hand of dominoes. The player with the highest double-tile typically goes first. On your turn, you must place a tile from your hand so that one of its ends matches the number of pips on an open end of the domino chain.
-2.  **Playing Doubles:** Double-tiles (e.g., a 6-6) are often played perpendicularly to the main line, creating a "spinner" with multiple open ends to play off of, which can open up the game significantly.
-3.  **Drawing from the Boneyard:** If you do not have a playable tile in your hand, you must draw from the stock pile (the "boneyard") until you pick one that you can play. If the boneyard is empty and you still cannot play, you must pass your turn.
-4.  **Winning a Round:** The round ends when one player plays their last domino. That player then scores points equal to the total number of pips on all the dominoes remaining in the opponent's hand.
-5.  **Blocking the Game:** If neither player can make a move and the boneyard is empty, the game is "blocked." In this case, the player with the lowest total pip count in their hand wins the round and scores points based on the opponent's hand.
+1.  **Les bases** : chaque joueur commence avec une main de dominos. Le joueur qui
+    a le plus gros double commence souvent. À ton tour, tu poses une tuile dont
+    un côté correspond au nombre de points d’une extrémité ouverte de la chaîne.
+2.  **Jouer les doubles** : les doubles (ex. 6‑6) peuvent être posés
+    perpendiculairement, créant un “spinner” avec plusieurs extrémités ouvertes,
+    ce qui ouvre le jeu.
+3.  **Piocher dans la réserve** : si tu n’as pas de tuile jouable, tu pioches dans
+    la réserve (“boneyard”) jusqu’à en obtenir une. Si la réserve est vide et que
+    tu ne peux toujours pas jouer, tu passes.
+4.  **Gagner une manche** : la manche se termine quand un joueur pose son dernier
+    domino. Il marque alors des points égaux au total de points restant dans la
+    main adverse.
+5.  **Partie bloquée** : si personne ne peut jouer et que la réserve est vide, la
+    partie est “bloquée”. Le joueur avec le plus petit total en main gagne la
+    manche et marque selon les dominos restants chez l’adversaire.
 
 ### Controls Guide
 
-*   **Play a Tile:** Click and drag a domino from your hand to a valid open end on the board.
-*   **Draw a Tile:** If you have no valid moves, click on the face-down boneyard pile to draw a new domino.
+*   **Poser une tuile** : clique et fais glisser un domino depuis ta main vers une
+    extrémité valide.
+*   **Piocher** : si tu n’as pas de coup, clique sur la réserve face cachée pour
+    tirer un nouveau domino.
 
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: What is the main goal of the game?**
-    *   **A:** To be the first player to play all of your dominoes and empty your hand. The overall game is usually won by being the first to reach a target score over several rounds.
+*   **Q: Quel est l’objectif principal ?**
+    *   **A:** Être le premier à poser tous ses dominos et vider sa main. La partie
+        complète se gagne souvent en atteignant un score cible sur plusieurs manches.
 
-*   **Q: What happens if I can't make a move?**
-    *   **A:** You must draw from the boneyard. If the boneyard is empty, you pass your turn.
+*   **Q: Que se passe‑t‑il si je ne peux pas jouer ?**
+    *   **A:** Tu dois piocher dans la réserve. Si elle est vide, tu passes ton tour.
 
-*   **Q: How can I block my opponent?**
-    *   **A:** Pay attention to the numbers on the open ends of the chain. If you know your opponent has a lot of a certain number (because you have most of the others), you can try to play tiles that avoid leaving that number open, potentially forcing them to draw from the boneyard.
+*   **Q: Comment bloquer l’adversaire ?**
+    *   **A:** Surveille les nombres aux extrémités ouvertes. Si tu penses que ton
+        adversaire manque d’un nombre, essaie de laisser ce nombre ouvert pour le
+        forcer à piocher, ou au contraire évite d’ouvrir le nombre qu’il semble avoir.
 

@@ -39,9 +39,9 @@ Minesweeper 2は、クラシックな地雷ゲームプレイに改善と新機�
   A: はい、学ぶためのより小さなグリッドから始めます。
 - **Q: フラグは必須ですか？**  
 
-    - **A:** No, flagging is just a tool to help you remember. The game is won by revealing all the squares that do *not* contain mines, regardless of whether you have flagged the mines or not.
+    - **A:** いいえ。フラグは推理の補助です。地雷をフラグできているかに関係なく、安全なマスをすべて開けば勝ちになります。
 
-- **Q: Do I have to place flags to win?**
+- **Q: 地雷を踏むとどうなりますか？**
 
-    - **A:** The game ends instantly, and all the mine locations are revealed.
+    - **A:** その時点でゲームオーバーになり、地雷の位置が表示されます。
   A: いいえ、しかし地雷を追跡するのに大いに役立ちます。

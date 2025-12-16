@@ -1,4 +1,25 @@
 {
+  "categories": {
+    "title": "游戏分类",
+    "puzzle": "益智",
+    "casual": "休闲",
+    "thinky": "动脑",
+    "action": "动作",
+    "sports": "体育",
+    "strategy": "策略",
+    "platformer": "平台",
+    "arcade": "街机",
+    "shooting": "射击",
+    "card": "卡牌",
+    "rhythm": "节奏",
+    "adventure": "冒险",
+    "music": "音乐",
+    "clicker": "点击",
+    "driving": "驾驶",
+    "physics": "物理",
+    "multiplayer": "多人",
+    "2-player": "双人"
+  },
   "nav": {
     "home": "首页",
     "newGames": "新游戏",

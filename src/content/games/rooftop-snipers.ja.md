@@ -1,6 +1,6 @@
 ---
 title: Rooftop Snipers
-description: Rooftop Snipersは物理ベースのスナイパー対決です。狙い、射撃し、屋上から対戦相手をノックし、混沌とした楽しみを楽しみます。
+description: Rooftop Snipersは物理挙動のある対戦シューティングです。屋上で撃ち合い、相手を落とした方が勝ちになります。
 iframeSrc: 'https://rooftopsnipers.h5games.usercontent.goog/v/5k9j2m8h7p3n8/'
 thumbnail: /new-images/rooftop-snipers.png
 urlstr: rooftop-snipers
@@ -20,11 +20,11 @@ Rooftop Snipersは、屋上で行われるシンプルですが陽気な物理�
 
 ### ゲームプレイ戦略と攻略法
 
-1.  **狙いを練習:" 物理ベースの射撃は挑戦的です。
-2.  **ジャンプを使用:" ショットを避け、位置を調整します。
-3.  **タイミングが鍵:" 対戦相手のパターンを読みます。
-4.  **バランスを保つ:" 屋根から落ちないでください。
-5.  **忍耐強く:" 完璧なショットを待ちます。
+1.  **狙いを練習:** 物理のクセをつかみます。
+2.  **ジャンプを使う:** 弾を避けたり位置を調整したりします。
+3.  **タイミングを見る:** 相手の動きを読んで撃ちます。
+4.  **バランスを保つ:** 自分が落ちないように立ち位置を意識します。
+5.  **焦らない:** 無理撃ちせず、当てやすい瞬間を待ちます。
 
 ### 操作ガイド
 
@@ -33,7 +33,7 @@ Rooftop Snipersは、屋上で行われるシンプルですが陽気な物理�
 - プレイヤー1対プレイヤー2またはAI。
 
 
-- **Combination Actions**: Can simultaneously perform combinations of movement, jumping, and shooting.
+- **同時操作**: 移動・ジャンプ・射撃を同時に使うと有利な場面があります。
 ### よくある質問 (FAQ)
 
 - **Q: 2ボタンだけですか？**  
@@ -44,9 +44,9 @@ Rooftop Snipersは、屋上で行われるシンプルですが陽気な物理�
   A: 物理ベースのゲームプレイが予測不可能で陽気な瞬間を作成します。
 
 
-**A**: The game mainly focuses on two-player battles, but some versions may provide single-player mode against AI.
+**A**: 多くは2人対戦が中心ですが、AIと戦えるシングルプレイが用意されている場合もあります。
 
-- **Q: Is there a single-player mode?**
+- **Q: シングルプレイヤーモードはありますか？**
 
 
-**A**: The game mainly focuses on two-player battles, but some versions may provide single-player mode against AI.
+**A**: 多くは2人対戦が中心ですが、AIと戦えるシングルプレイが用意されている場合もあります。

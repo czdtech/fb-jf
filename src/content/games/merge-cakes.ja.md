@@ -1,6 +1,6 @@
 ---
 title: Merge Cakes
-description: Merge Cakesは甘いマージパズルです。ケーキをマージし、より大きなデザートを作成し、ベーカリー帝国を構築し、おいしいレベルを完了します。
+description: Merge Cakesはデザートを作っていくマージパズルです。ケーキをマージして新しいレシピを開放し、目標を達成します。
 iframeSrc: 'https://64im4ubfqfqe8.h5games.usercontent.goog/v/5b1gg4a2h50o0/'
 thumbnail: /new-images/merge-cakes.png
 urlstr: merge-cakes
@@ -15,7 +15,7 @@ locale: ja
 
 ### ゲーム紹介
 
-Merge Cakesは、ケーキとデザートのマージに関するものです。同じケーキをマージしてより大きく、より価値のあるデザートを作成します。レベル目標を完了し、新しいレシピをアンロックし、甘いベーカリー帝国を構築します。
+Merge Cakesは、ケーキやデザートをマージして育てていくパズルです。同じケーキを重ねて上位のデザートを作り、レベル目標を達成しながら新しいレシピをアンロックしていきます。
 
 ### ゲームプレイ戦略と攻略法
 
@@ -23,15 +23,15 @@ Merge Cakesは、ケーキとデザートのマージに関するものです。
 2.  **目標に焦点を当てる:** 各レベルには、最高のケーキを作成するなどの特定の目標があります。
 3.  **ボードスペースを管理:** アイテムで混雑しないでください。定期的にマージします。
 4.  **レシピをアンロック:** より多くのオプションのために新しいケーキタイプを進めます。
-5.  **ブースターを使用:** 困難なレベルに固執します。
+5.  **ブースターを使用:** 詰まったときに使って突破口を作ります。
 
 ### 操作ガイド
 
 
-The game is played with simple drag-and-drop controls.
+ドラッグ＆ドロップの簡単な操作で遊べます。
 - ケーキをドラッグ＆ドロップして移動およびマージします。
 - 同じケーキをタップして自動マージします（一部のバージョンで）。
-- ストアでブ��スターを購入します。
+- ストアでブースターを購入します。
 
 ### よくある質問 (FAQ)
 
@@ -41,9 +41,9 @@ The game is played with simple drag-and-drop controls.
   A: より低いレベルのケーキをマージするか、不要なアイテムを販売します。
 - **Q: レベルをスキップできますか？**  
 
-    - **A:** You need to create space. Look carefully for any possible merges you might have missed. If there are none, you may have to use the trash can icon to sell a low-level cake to free up a plate.
+    - **A:** 通常はスキップできません。順にレベルをクリアして進めます。
 
-- **Q: My board is full and I can't make any moves. What do I do?**
+- **Q: ボードがいっぱいで動けません。どうすればいいですか？**
 
-    - **A:** To earn coins by fulfilling customer orders and to discover all the different cake recipes in the game.
-  A: 通常いいえ。順番にすべてのレベルを完了する必要があります。
+    - **A:** 見落としたマージがないか確認し、なければ低レベルのケーキを売ってスペースを空けます。
+  A: まずはマージできる組み合わせがないか探し、必要なら不要なアイテムを整理しましょう。

@@ -3,8 +3,8 @@ locale: fr
 urlstr: drive-mad
 title: 'Drive Mad'
 description: >-
-  Drive Mad is a physics driving challenge: balance your vehicle, clear
-  obstacles, and reach the finish without flipping.
+  Drive Mad est un défi de conduite à base de physique : équilibre ton véhicule,
+  franchis les obstacles et atteins l’arrivée sans te retourner.
 iframeSrc: 'https://ubg98.github.io/DriveMad/'
 thumbnail: /new-images/drive-mad.jpg
 tags:
@@ -19,26 +19,31 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 ### Overview
-Physics obstacle driving: keep your truck upright across seesaws, bridges, and traps. Levels escalate with moving parts and brittle platforms.
+Conduite avec obstacles et physique : garde ton camion sur ses roues sur des
+balanciers, ponts et pièges. Les niveaux montent en difficulté avec des éléments
+mobiles et des plateformes fragiles.
 
 ### How to Play
-- Control speed and weight shift to keep traction over gaps and ramps.
-- Reverse to steady the chassis before big drops or steep climbs.
-- Some stages require controlled flips to land wheels‑down.
+- Gère la vitesse et le transfert de masse pour garder l’adhérence sur les rampes
+  et les trous.
+- Recule pour stabiliser le châssis avant une grosse chute ou une montée raide.
+- Certains stages demandent des flips contrôlés pour retomber roues en bas.
 
 ### Controls
-- Arrow/WASD: drive/reverse/tilt; R: restart; Esc/P: pause (host dependent).
+- Flèches/WASD : avancer/reculer/basculer ; R : recommencer ; Esc/P : pause (selon
+  l’hébergeur).
 
 ### Tips
-- Feather throttle; full‑gas often flips the truck.
-- Use reverse mid‑air to tip the nose up or down.
-- Memorize trap timing; patience beats brute speed.
+- Dose l’accélérateur : plein gaz retourne souvent le camion.
+- Utilise la marche arrière en l’air pour lever/abaisser le nez.
+- Mémorise le timing des pièges : la patience bat la vitesse brute.
 
 ### FAQ
-- Q: Are cars different?
-A: Some packs change vehicle weight/length, altering balance.
-- Q: Can I skip hard levels?
-A: Certain hosts allow level select; otherwise master timing and tilt control.
-- Q: Why break on bridges?
-A: Excess speed compresses suspension and bounces you off.
+- Q: Les véhicules sont‑ils différents ?
+A: Certaines versions changent poids/longueur, ce qui modifie l’équilibre.
+- Q: Peut‑on passer les niveaux difficiles ?
+A: Certains sites permettent un choix de niveau ; sinon, il faut maîtriser timing
+et bascule.
+- Q: Pourquoi je “casse” sur les ponts ?
+A: Trop de vitesse comprime la suspension et te fait rebondir hors du pont.
 

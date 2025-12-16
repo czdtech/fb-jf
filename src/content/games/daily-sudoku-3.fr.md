@@ -29,9 +29,12 @@ niveau expert.
     (pour le challenge).
 3.  **Étudie tes erreurs**  
 
-- **Look for "Hidden Singles":** This is when a candidate number appears only once within the notes of a specific row, column, or 3x3 box. Even if the cell itself has other candidates, that number must go in that cell for that specific row/column/box.
+- **Cherche les “Hidden Singles”** : c’est quand un candidat n’apparaît qu’une
+  seule fois dans les notes d’une ligne, d’une colonne ou d’un bloc 3×3. Même si
+  la case a d’autres candidats, ce chiffre doit aller là pour cette zone.
 
-- **Look for "Naked Singles":** This is when a cell has only one possible candidate number left in its notes. Fill that number in immediately.
+- **Cherche les “Naked Singles”** : c’est quand une case n’a plus qu’un seul
+  candidat possible dans ses notes. Place‑le immédiatement.
     Si tu bloques ou si une vérification signale une erreur, remonte à l’étape
     où tu t’es trompé et comprends pourquoi.
 
@@ -40,25 +43,33 @@ niveau expert.
 - **Saisie de chiffres** : clique/tape sur une case puis sur le chiffre voulu.  
 - **Outils** : notes, gomme, vérification, aide, selon ce que propose la
 
-- **Eraser:** Use the eraser tool to clear a number or notes from a cell.
+- **Gomme (Eraser)** : utilise l’outil gomme pour effacer un chiffre ou des notes
+  d’une case.
 
-- **Notes/Pencil Mode:** Look for a button (often with a pencil icon) to toggle between "Answer" mode and "Notes" mode. In Notes mode, the numbers you enter will be small candidates.
+- **Mode Notes (Pencil)** : cherche un bouton (souvent une icône de crayon) pour
+  basculer entre “Réponse” et “Notes”. En mode Notes, les chiffres saisis sont des
+  candidats.
   version.
 
 ### Foire aux questions (FAQ)
 
 
-- **A:** For easy puzzles, you might not need it. But for medium to hard puzzles, it's almost impossible to keep all the possibilities in your head. Making notes is a fundamental technique for systematically solving complex Sudoku puzzles.
+- **R :** Sur les grilles faciles, ce n’est pas indispensable. Mais sur du moyen
+  à difficile, c’est presque impossible de garder toutes les possibilités en tête.
+  Noter les candidats est une technique de base pour résoudre méthodiquement.
 
-    - **Q: Why should I use the "Notes" feature?**
+    - **Q : Pourquoi utiliser la fonction “Notes” ?**
 
-- **A:** Most digital versions, including this one, will immediately highlight the mistake by showing you the conflicting numbers in red, allowing you to correct it right away.
+- **R :** La plupart des versions numériques signalent l’erreur immédiatement en
+  affichant les conflits en rouge, ce qui te permet de corriger tout de suite.
 
-    - **Q: What happens if I enter a wrong number?**
+    - **Q : Que se passe‑t‑il si j’entre un mauvais chiffre ?**
 
-- **A:** Not at all. Sudoku is a logic puzzle, not a math puzzle. It uses numbers, but you could just as easily use nine different symbols or colors. It's all about pattern recognition and deduction.
+- **R :** Pas du tout. Le sudoku est un puzzle de logique, pas de maths. Les
+  chiffres sont des symboles : on pourrait utiliser neuf symboles ou couleurs. Il
+  s’agit surtout de déduction et de reconnaissance de motifs.
 
-    - **Q: Do I need to be good at math to play Sudoku?**
+    - **Q : Faut‑il être bon en maths pour jouer au sudoku ?**
 **Q : Combien de grilles par jour ?**  
 R : En général une principale, mais certaines versions proposent aussi un
 calendrier pour d’anciennes grilles.

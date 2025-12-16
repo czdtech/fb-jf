@@ -5,6 +5,14 @@
  * Requirements: 4.1
  */
 
+import {
+  defaultLocale,
+  getLocaleFromLangAttr,
+  getLocalizedPath,
+  isValidLocale,
+  locales,
+} from '../i18n/routing';
+
 export interface LanguageSwitcherConfig {
   selectSelector: string;
   currentLang?: string;
@@ -19,17 +27,7 @@ const defaultConfig: LanguageSwitcherConfig = {
  * Handle language selection change event
  * Navigates to the URL specified in the selected option's data-url attribute
  */
-const LANGUAGE_PREFIXES: Record<string, string> = {
-  'en': '',
-  'zh-CN': '/zh',
-  'es': '/es',
-  'fr': '/fr',
-  'de': '/de',
-  'ja': '/ja',
-  'ko': '/ko'
-};
-
-const PATH_LANG_SEGMENTS = new Set(['zh', 'es', 'fr', 'de', 'ja', 'ko']);
+const PATH_LANG_SEGMENTS = new Set(locales.filter((locale) => locale !== defaultLocale));
 // Slugs that should stay on the same route when switching languages
 // Includes list pages, category pages (`/c/[slug]/`), and legal pages (privacy, terms).
 const LIST_SLUGS = new Set([
@@ -43,10 +41,20 @@ const LIST_SLUGS = new Set([
   'terms-of-service'
 ]);
 
-function getLocalizedListPath(selectedLang: string | undefined, currentPath: string): string | null {
+function getSelectedLocale(selectedLang: string | undefined) {
   if (!selectedLang) return null;
-  const langPrefix = LANGUAGE_PREFIXES[selectedLang];
-  if (langPrefix === undefined) return null;
+
+  // Validate base language so unknown values don't silently become defaultLocale.
+  const normalized = selectedLang.trim().replace(/_/g, '-');
+  const base = normalized.split('-')[0].toLowerCase();
+
+  if (!isValidLocale(base)) return null;
+  return getLocaleFromLangAttr(normalized);
+}
+
+function getLocalizedListPath(selectedLang: string | undefined, currentPath: string): string | null {
+  const locale = getSelectedLocale(selectedLang);
+  if (!locale) return null;
 
   const hasTrailingSlash = currentPath.endsWith('/') && currentPath !== '/';
   const normalizedPath = hasTrailingSlash ? currentPath.slice(0, -1) : currentPath;
@@ -62,9 +70,8 @@ function getLocalizedListPath(selectedLang: string | undefined, currentPath: str
   if (!LIST_SLUGS.has(baseSlug)) return null;
 
   const pageSegments = segments.slice(baseIndex + 1);
-  const prefix = langPrefix;
-  const base = '/' + baseSlug;
-  let newPath = prefix + base + (pageSegments.length ? '/' + pageSegments.join('/') : '');
+  const basePath = '/' + [baseSlug, ...pageSegments].join('/');
+  let newPath = getLocalizedPath(basePath, locale);
 
   if (hasTrailingSlash && newPath !== '/' && !newPath.endsWith('/')) {
     newPath += '/';
@@ -82,9 +89,8 @@ function getLocalizedListPath(selectedLang: string | undefined, currentPath: str
  * so it won't affect other single-slug routes.
  */
 function getLocalizedGamePath(selectedLang: string | undefined, currentPath: string): string | null {
-  if (!selectedLang) return null;
-  const langPrefix = LANGUAGE_PREFIXES[selectedLang];
-  if (langPrefix === undefined) return null;
+  const locale = getSelectedLocale(selectedLang);
+  if (!locale) return null;
 
   // Detect if current page is a game detail page via DOM marker.
   // This makes the behaviour explicit and avoids guessing from the URL structure.
@@ -103,11 +109,21 @@ function getLocalizedGamePath(selectedLang: string | undefined, currentPath: str
     const normalizedPath = hasTrailingSlash ? currentPath.slice(0, -1) : currentPath;
     const segments = normalizedPath.split('/').filter(Boolean);
 
+    // Guardrail: do NOT treat locale homepages like `/fr/` or `/zh/` as game pages.
+    // Without this, switching languages from `/zh/` would infer gameSlug="zh" and build `/fr/zh/`.
+    if (segments.length === 1 && isValidLocale(segments[0])) {
+      return null;
+    }
+
     if (segments.length === 1) {
       // `/slug/`
       gameSlug = segments[0];
     } else if (segments.length === 2 && PATH_LANG_SEGMENTS.has(segments[0])) {
       // `/lang/slug/`
+      // Guardrail: avoid nested locale paths like `/fr/zh/`.
+      if (isValidLocale(segments[1])) {
+        return null;
+      }
       gameSlug = segments[1];
     } else {
       return null;
@@ -117,7 +133,7 @@ function getLocalizedGamePath(selectedLang: string | undefined, currentPath: str
   if (!gameSlug) return null;
 
   const hasTrailingSlash = currentPath.endsWith('/') && currentPath !== '/';
-  let newPath = `${langPrefix}/${gameSlug}/`;
+  let newPath = getLocalizedPath(`${gameSlug}/`, locale);
 
   // Normalise trailing slash behaviour to match current path style
   if (!hasTrailingSlash && newPath.endsWith('/') && newPath !== '/') {
@@ -138,6 +154,7 @@ function handleLanguageChange(event: Event): void {
   const selectedLang = selectedOption.getAttribute('data-lang') || undefined;
 
   const currentPath = window.location.pathname;
+  const dataUrl = selectedOption.getAttribute('data-url');
   const localizedPath = getLocalizedListPath(selectedLang, currentPath);
 
   if (localizedPath) {
@@ -151,11 +168,15 @@ function handleLanguageChange(event: Event): void {
     return;
   }
 
-  const url = selectedOption.getAttribute('data-url');
-  
-  if (url) {
-    window.location.href = url;
+  if (dataUrl) {
+    window.location.href = dataUrl;
+    return;
   }
+
+  // Last-resort fallback: never leave the user with a dead switcher.
+  // If the option is misconfigured (missing data-url) or has an unknown lang,
+  // sending users to the default locale homepage is better than doing nothing.
+  window.location.href = '/';
 }
 
 /**

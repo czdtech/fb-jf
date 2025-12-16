@@ -1,8 +1,7 @@
 ---
 title: Sprunki Play Random - Play Sprunki Play Random Online
 description: >-
-  Sprunki Play Randomは、サプライズと楽しさに満ちた音楽制作ゲームです。チャレンジと探索が好きなら、Sprunki Play
-  Randomは間違いなくあなたのためです！
+  Sprunki Play Randomはランダム性のある音楽制作ゲームです。出てくるサウンドを使い、組み合わせを試しながらトラックを作ります。
 iframeSrc: 'https://turbowarp.org/1148555262/embed'
 thumbnail: /sprunki-play-random.png
 urlstr: sprunki-play-random
@@ -15,18 +14,18 @@ locale: ja
 
 ### Sprunki Play Randomの紹介
  
-Sprunki Play Randomは、サプライズと楽しさに満ちた音楽制作ゲームです。チャレンジと探索が好きなら、Sprunki Play Randomは間違いなくあなたのためです！Sprunki Play Randomに参加して、ランダムなサウンドにあなたの音楽インスピレーションを点火させ、ユニークな音楽作品を作成しましょう！
+Sprunki Play Randomは、ランダムに出るサウンドを使って曲作りをする作品です。予測しにくい組み合わせを前提に、試行錯誤しながら全体のまとまりを作っていきます。
  
 ### Sprunki Play Randomの魔法のようなところは何ですか？
  
-簡単に言えば、Sprunki Play Randomは音楽制作を未知に満ちたアドベンチャーに変えます。次のキャラクターがどんなサウンドを出すかわからず、あなたがする必要があるのは、これらのランダムなサウンドを使ってユニークな音楽作品を作成することだけです！
+簡単に言えば、次にどんなサウンドが出るか分からない状態で組み立てるのが特徴です。ランダムな要素を活かしつつ、ビート・メロディ・効果音の役割を意識して整えます。
 
 
 ---
 ### ゲームプレイ
 
 
-The operation is very simple, you can easily do it with a mouse or finger:
+操作はシンプルで、マウスやタッチで進められます：
  - **ランダムキャラクターを選択**：各キャラクターは予測不可能なサウンドを提供します。
  - **サウンドを組み合わせる**：ランダムなサウンド要素を創造的に組み合わせます。
  - **実験と発見**：さまざまな組み合わせを試して、ユニークな音楽を作成します。
@@ -45,25 +44,25 @@ The operation is very simple, you can easily do it with a mouse or finger:
 ### まとめ
 
 
-- **Full of Exploration Fun:** Discover hidden sound combinations, unlock special animations and bonus tracks, making your creation process full of surprises.
+- **探索の楽しさ：** 隠し組み合わせや演出がある場合は、試して解放します。
 
-- **Simple and Easy-to-Use Operation:** Continues the classic gameplay of Incredibox, allowing you to easily get started.
+- **シンプルな操作：** Incredibox系のドラッグ＆ドロップで始められます。
 
-- **Unique Randomness:** Each creation is a brand new experience, making you always full of expectations.
+- **ランダム性：** 毎回違う展開になりやすく、作り方の幅が出ます。
 
 
-- **Replay to Discover Secrets:** Random sounds make each game full of surprises, keep replaying to discover hidden Easter eggs!
+- **繰り返し試す：** ランダム性があるので、何度か試して隠し要素があれば探します。
 
-- **Start with Fewer Characters:** Build your music with fewer characters first, so you can better control the overall effect.
-### Highlights of Sprunki Play Random:
+- **少ない音から始める：** まず少数のキャラクターで土台を作ると整えやすいです。
+### Sprunki Play Randomのヒント：
 
-- **Replay to Discover Secrets:** Random sounds make each game full of surprises, keep replaying to discover hidden Easter eggs!
+- **繰り返し試す：** ランダム性があるので、何度か試して隠し要素があれば探します。
 
-- **Start with Fewer Characters:** Build your music with fewer characters first, so you can better control the overall effect.
+- **少ない音から始める：** まず少数のキャラクターで土台を作ると整えやすいです。
 
-- **Listen Carefully:** Pay attention to the subtle differences between different sounds, some sound combinations can unlock hidden rewards!
+- **注意して聞く：** 音の違いを聞き分けると、狙った役割に当てはめやすくなります。
 
-- **Focus on Balance:** Combine beats, melodies, and vocals to create a richer musical work.
+- **バランスを重視：** ビート、メロディ、ボーカル（ある場合）の役割を分けて重ねます。
 
-- **Try Different Arrangements:** The position of the characters affects the final sound effect, be bold and try to find the most suitable arrangement!
-Sprunki Play Randomに参加して、ランダムなサウンドに音楽インスピレーションを点火させ、ユニークな音楽作品を作成しましょう！
+- **並べ方を試す：** キャラクターの配置で印象が変わる場合があります。いくつか並べ替えて聞き比べます。
+Sprunki Play Randomは、ランダムなサウンドを使って組み合わせを試すのがポイントです。

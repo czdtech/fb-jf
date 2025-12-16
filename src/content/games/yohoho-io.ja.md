@@ -29,9 +29,9 @@ Yohoho.ioは、海賊をテーマにしたバトルロイヤルIOゲームです
  - **左クリック：** ダッシュ/攻撃
 
 
-- **Dash:** `Right Click` (Mouse) / Dedicated dash button (Mobile)
+- **ダッシュ：** `右クリック`（マウス）/ ダッシュボタン（モバイル）
 
-- **Charge Attack:** Hold `Left Click` or `Spacebar` to charge a more powerful attack.
+- **溜め攻撃：** `左クリック` または `スペースバー` を押し続けて、強力な攻撃を溜めます。
 ### よくある質問（FAQ）
 
 **ゲームの目標は何ですか？**
@@ -44,4 +44,4 @@ Yohoho.ioは、海賊をテーマにしたバトルロイヤルIOゲームです
 
 **チーム戦はありますか？**
 
-いいえ、全員が敵の バトルロイヤルです。
+いいえ、全員が敵のバトルロイヤルです。

@@ -66,15 +66,14 @@ planification.
 ### Foire aux questions (FAQ)
 
 
-- Q: I’m out of moves — what now?
+- Q : Je n’ai plus de coup possible — que faire ?
 **Q : Je n’ai plus de coup possible, que faire ?**  
 
-- Q: Is there an optimal order to complete colors?
-R : Utilise la fonction d’annulation si elle existe, puis reviens quelques
+- Q : Y a‑t‑il un ordre optimal pour terminer les couleurs ?
+R : Utilise la fonction d’annulation si elle existe, puis reviens quelques mouvements en arrière pour libérer à nouveau un perchoir vide.
 
-- Q: Do I need every move perfect?
-mouvements en arrière pour libérer à nouveau un perchoir vide. Quand tu es
-bloqué, c’est souvent parce qu’un chat unique a été enterré trop tôt.
+- Q : Dois‑je viser le coup parfait à chaque mouvement ?
+R : Pas forcément. L’important est de garder un ou deux perchoirs "buffer" libres et d’éviter d’enterrer une couleur rare trop tôt.
 
 **Q : Y a‑t‑il un ordre optimal pour terminer les couleurs ?**  
 R : Priorise les couleurs qui, une fois complétées, libèrent un perchoir entier

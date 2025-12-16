@@ -18,11 +18,11 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### Guide de jeu
 
-1. **Kite les élites :** reste en mouvement autour des ennemis puissants, tire en reculant et casse la ligne de vue dès que la pression devient trop forte.  
+1. **Fais tourner les élites :** reste en mouvement autour des ennemis puissants, tire en reculant et casse la ligne de vue dès que la pression devient trop forte.  
 2. **Gère la chaleur et les temps de recharge :** au lieu de tirer sans arrêt, utilise des rafales pour éviter la surchauffe et garder tes compétences pour les moments critiques.  
 3. **Priorise les cibles dangereuses :** élimine d’abord les ennemis à roquettes, à dégâts de zone ou ceux qui ralentissent ton véhicule.  
 4. **Planifie les ramassages :** ramasse les bonus de vie/munitions quand le champ est relativement sûr, pas en plein milieu d’une grosse vague.  
-5. **Garde un échappatoire :** conserve une compétence d’esquive (dash, bouclier, etc.) pour t’en sortir quand tu es coincé.
+5. **Garde une échappatoire :** conserve une compétence d’esquive (dash, bouclier, etc.) pour t’en sortir quand tu es coincé.
 
 ### Commandes
 

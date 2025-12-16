@@ -14,27 +14,27 @@ score: 4.5/5  (322 votes)
 ---
 
 
-¿Preparado para un extraño bautismo de color y sonido? Yojou Sprunki Mustard es un mod parodia que deform… y llena de amarillo el universo Sprunki: todos los personajes son corrompidos por una misteriosa “salsa de mostaza”, dando lugar a una experiencia musical tan caótica como hipnótica.
+¿Preparado para un extraño bautismo de color y sonido? Yojou Sprunki Mustard es un mod parodia que deforma y llena de amarillo el universo Sprunki: todos los personajes son corrompidos por una misteriosa “salsa de mostaza”, dando lugar a una experiencia musical tan caótica como hipnótica.
 
-### What Exactly Happened to Yojou Sprunki Mustard?
+### ¿Qué pasó exactamente con Yojou Sprunki Mustard?
 
 Desde que Brud descubrió esa extraña “salsa de mostaza”, todo cambió. Los personajes se han convertido en versiones bañadas en amarillo, con efectos de sonido propios y voces frenéticas inspiradas en FNF, y las melodías familiares ahora suenan extrañamente cómicas.
 
-### The Core Gameplay of Yojou Sprunki Mustard:
+### La jugabilidad principal de Yojou Sprunki Mustard:
 
 - **Elige tu avatar mostaza:** selecciona entre los personajes transformados, cada uno con timbres y efectos únicos.
 - **Mezcla música maníaca:** combina distintos personajes amarillos para crear composiciones sonoras irrepetibles. ¿Listo para un buen lavado de cerebro auditivo?
 - **Explora secretos ocultos:** descubre efectos especiales e interacciones entre personajes en modos normal y de terror para desbloquear más sorpresas.
 
 
-### What are the Highlights of the Yojou Sprunki Mustard Mod?
+### Lo más destacado del mod Yojou Sprunki Mustard
 
 - **Personajes a la mostaza:** todos los personajes han sido rediseñados con una paleta monocromática amarillo‑mostaza, creando una estética inquietante pero coherente.
 - **Interfaz retorcida:** la propia UI está empapada de tonos mostaza, generando una atmósfera surrealista e intensa, a medio camino entre lo cómico y lo perturbador.
 - **Nuevos elementos de terror:** el mod introduce un ambiente más siniestro que anima a experimentar con sonidos raros y a abrazar una vibra inquietante.
 
 
-### How to Play Yojou Sprunki Mustard (Sprunkstard):
+### Cómo jugar a Yojou Sprunki Mustard (Sprunkstard)
 
 **Elige personajes a la mostaza:**  
 - Cada personaje representa un elemento sonoro distinto: bases rítmicas, melodías, voces o efectos especiales.
@@ -53,7 +53,7 @@ Desde que Brud descubrió esa extraña “salsa de mostaza”, todo cambió. Los
 - Explora las creaciones de otros jugadores para inspirarte.
 
 
-### Why Play Yojou Sprunki Mustard Mod?
+### ¿Por qué jugar al mod Yojou Sprunki Mustard?
 
 - **Un Incredibox retorcido:** ofrece una perspectiva fresca sobre el formato y anima a explorar caminos creativos distintos.
 - **Apto para todo tipo de jugadores:** tanto si eres fan veterano de Sprunki como si llegas de nuevas, este mod ofrece una experiencia de creación musical muy accesible y envolvente.

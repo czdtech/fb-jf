@@ -41,9 +41,9 @@ Moving Truckは、トラックを狭いスペースに駐車することに挑�
   A: はい、一部のバージョンは異なるトラックサイズを特徴とします。
 
 
-**A**: Practice spatial planning and item stacking, observe successful examples, and try different loading strategies.
+**A**: 空間を意識して配置する練習をし、うまくいった例を観察しながら、いろいろな置き方を試してみてください。
 
-- **Q: How can I improve my loading skills?**
+- **Q: 積み込み（配置）がうまくなるコツはありますか？**
 
 
-**A**: Practice spatial planning and item stacking, observe successful examples, and try different loading strategies.
+**A**: 空間を意識して配置する練習をし、うまくいった例を観察しながら、いろいろな置き方を試してみてください。

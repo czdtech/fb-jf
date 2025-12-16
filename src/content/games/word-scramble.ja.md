@@ -24,14 +24,14 @@ Word Scrambleは、シャッフルされた文字を並べ替えて単語を作�
  - **高得点：** より多くの単語を解きます
 
 
-- **Scoring:** Points are typically awarded for correct answers, with bonuses for faster solutions.
+- **スコア：** 正解すると得点になり、早く解くほどボーナスが付く場合があります。
 ### 操作ガイド
 
  - **キーボード：** 文字をタイプ
  - **マウス：** 文字をクリックして並べ替え
 
 
-- **Submit:** Press `Enter` to submit your answer.
+- **送信：** `Enter` で回答を送信します。
 ### よくある質問（FAQ）
 
 **ゲームの目標は何ですか？**

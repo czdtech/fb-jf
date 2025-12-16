@@ -37,15 +37,14 @@ locale: ja
 
 ### よくある質問 (FAQ)
 
-*   **Q: 放置中に進みますか？**
+- Q: 放置中（オフライン）でも進みますか？
+  
+  A: ホスト（配信サイト）によって異なります。タブを開いている間は自動で稼ぐことが多く、ローカル保存で再開できる場合もありますが、完全なオフライン進行の有無は実装次第です。
 
-A: Some hosts save progress locally and generate coins while the tab is open; full offline progress varies by host.
-- **A:** 多くのバージョンでは、ブラウザのタブを開いている間は自動で稼ぎ続けます。完全に閉じた場合の挙動はホストサイトによりますが、ローカルセーブが機能していれば再開時に続きから遊べます。
+- Q: 長期目標は何ですか？
+  
+  A: 生産量を伸ばしてロケットを建造し、月（Moon）へ行き、さらに先のエリアへ進むことです。
 
-
-A: Build enough production to launch rockets to the Moon and progress to later areas.
-*   **Q: どこまで行けますか？**
-    *   **A:** 月から始まり、アップデートにより火星、木星、そしてタイムトラベルまで、Dogeの冒険は果てしなく続きます。
-
-*   **Q: 英語（Doge語）が変です。**
-    *   **A:** それが仕様です。"Much coin" "So rich" "Wow" といった独特の文法（Doge speak）を楽しむゲームです。
+- Q: 英語（Doge語）が変です。
+  
+  A: 仕様です。「Much coin」「So rich」「Wow」などの独特の文法（Doge speak）を楽しむゲームです。

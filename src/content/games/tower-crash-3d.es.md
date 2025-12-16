@@ -19,7 +19,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### Introducción detallada al juego
 
-Tower Crash 3D es un adictivo rompecabezas basado en físicas en el que tu misión es derribar torres formadas por bloques de colores. La condición es clara: solo puedes destruir bloques que coincidan con el color de la bola que tienes cargada. Con munición limitada en cada nivel, tendrás que apuntar con precisión a los bloques clave que sostienen la estructura para hacer que toda la torre se desplome por debajo de la línea objetivo.
+Tower Crash 3D es un adictivo puzle basado en físicas en el que tu misión es derribar torres formadas por bloques de colores. La condición es clara: solo puedes destruir bloques que coincidan con el color de la bola que tienes cargada. Con munición limitada en cada nivel, tendrás que apuntar con precisión a los bloques clave que sostienen la estructura para hacer que toda la torre se desplome por debajo de la línea objetivo.
 
 ### Estrategia y recorrido de juego
 
@@ -37,18 +37,12 @@ Los controles son muy sencillos:
 
 ### Preguntas frecuentes (FAQ)
 
-*   **Q: ¿Por qué no se rompe un bloque cuando lo golpeo?**  
-    **A:** Porque el color de la bola no coincide con el del bloque. Una bola azul solo destruye bloques azules, por ejemplo.
+*   **Q: ¿Por qué no se rompe un bloque cuando lo golpeo?**
+    *   **A:** Porque el color de la bola no coincide con el del bloque. Una bola azul solo destruye bloques azules, por ejemplo.
 
-    - **Q: ¿Cómo completo un nivel?**  
-    **A:** El nivel se supera cuando el punto más alto de la estructura cae por debajo de la línea objetivo marcada en pantalla, antes de quedarte sin bolas.
+*   **Q: ¿Cómo completo un nivel?**
+    *   **A:** El nivel se supera cuando el punto más alto de la estructura cae por debajo de la línea objetivo marcada en pantalla, antes de quedarte sin bolas.
 
-*   **Q: Qué hago si la torre tiene muchos colores mezclados?**  
-
-    - **A:** Wait for your cannon to load the color you need. The color of the ball in your cannon changes, so be patient and wait for the right color to target the tower's weakest point.
-
-- **Q: What is the best strategy if the tower is multi-colored?**
-
-    - **A:** You win the level when the highest point of the remaining structure falls below the goal line indicated on the screen. You must do this before running out of cannonballs.
-    **A:** Espera a que el cañón cargue el color que necesitas. El color de la bola va rotando, así que ten paciencia y dispara solo cuando puedas atacar un punto débil importante.
+*   **Q: ¿Qué hago si la torre tiene muchos colores mezclados?**
+    *   **A:** Espera a que el cañón cargue el color que necesitas. El color de la bola va rotando, así que ten paciencia y dispara solo cuando puedas atacar un punto débil importante.
 

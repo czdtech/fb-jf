@@ -3,8 +3,8 @@ locale: fr
 urlstr: drift-boss
 title: 'Drift Boss'
 description: >-
-  Drift Boss is a one‑button drifting game: time your turns to stay on the
-  track and earn coins for upgrades.
+  Drift Boss est un jeu de drift à un seul bouton : synchronise tes virages pour
+  rester sur la piste et gagne des pièces pour des améliorations.
 iframeSrc: 'https://ubg98.github.io/DriftBoss/'
 thumbnail: /new-images/drift-boss.jpg
 tags:
@@ -18,26 +18,34 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 ### Overview
-One‑button drifting on a floating track: tap/hold to drift at corners, release to straighten, and stay on the platform to bank coins for vehicle upgrades.
+Drift à un seul bouton sur une piste suspendue : maintiens pour drifter dans les
+virages, relâche pour te remettre droit, et reste sur la plateforme pour
+accumuler des pièces et améliorer ton véhicule.
 
 ### How to Play
-- Anticipate corner entry; press to start a drift, release to exit.
-- Narrow platforms and bumps require shorter, snappier holds.
-- Coins unlock cars with better traction or stability.
+- Anticipe l’entrée de virage ; appuie pour lancer le drift, relâche pour en
+  sortir.
+- Les plateformes étroites et les bosses demandent des appuis plus courts et plus
+  secs.
+- Les pièces débloquent des voitures avec plus d’adhérence ou de stabilité.
 
 ### Controls
-- Mouse/Space/Touch: hold to drift; release to go straight.
+- Souris/Espace/Tactile : maintiens pour drifter ; relâche pour aller tout droit.
 
 ### Tips
-- Look ahead for S‑bends; use micro‑taps instead of long holds.
-- Don’t over‑correct—falling usually comes from late releases.
-- Spend early on stability to survive longer tracks.
+- Regarde loin pour les enchaînements en S ; utilise des micro‑taps plutôt que de
+  longs appuis.
+- Ne sur‑corrige pas : on tombe souvent à cause d’un relâchement trop tardif.
+- Investis tôt dans la stabilité pour survivre sur des pistes plus longues.
 
 ### FAQ
-- Q: Is there braking?
-A: No manual brake—timed holds manage angle and speed through corners.
-- Q: Do cars handle differently?
-A: Yes—higher tiers offer grippier or more forgiving drift windows.
-- Q: How to farm coins faster?
-A: Chain long runs and complete daily/track challenges when present.
+- Q: Y a‑t‑il un freinage ?
+A: Pas de frein manuel : ce sont tes appuis (timing) qui gèrent l’angle et la
+vitesse dans les virages.
+- Q: Les voitures se conduisent‑elles différemment ?
+A: Oui : les modèles supérieurs ont une fenêtre de drift plus stable ou plus
+tolérante.
+- Q: Comment farmer des pièces plus vite ?
+A: Enchaîne de longues runs et fais les défis quotidiens/de piste quand ils
+existent.
 

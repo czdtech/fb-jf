@@ -24,9 +24,9 @@ Word Wipeは、隣接する文字をつないで単語を作り、グリッド�
  - **戦略的にプレイ：** 効率的に列をクリアします
 
 
-- **Bonus Bombs:** Earn special "bombs" that can clear multiple tiles at once, helping you out of tight spots.
+- **ボーナス爆弾：** 複数のタイルをまとめて消せる「爆弾」を獲得できる場合があります。行き詰まりの立て直しに役立ちます。
 
-- **Scoring:** Longer and more complex words yield higher scores. Speed also contributes to your score.
+- **スコア：** 長く複雑な単語ほど高得点になりやすいです。スピードが評価に影響する場合もあります。
 ### 操作ガイド
 
  - **マウス：** 文字をドラッグしてつなぐ

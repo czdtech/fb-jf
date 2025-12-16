@@ -24,7 +24,7 @@ Timber Guyは、木こりを操作して木を切るシンプルだが中毒性�
  - **高得点：** できるだけ長く続けて高得点を目指します
 
 
-- High score: Small errors compound—reset after bad starts.
+- ハイスコア狙い：序盤のミスは響きやすいので、悪いスタートなら切り替えてやり直すのも手です。
 ### 操作ガイド
 
  - **左/右矢印または A/D：** 左右に移動して木を切る
@@ -33,11 +33,11 @@ Timber Guyは、木こりを操作して木を切るシンプルだが中毒性�
 ### よくある質問（FAQ）
 
 
-- Any power‑ups? Some versions include boosters; focus on consistency.
+- パワーアップはありますか？ ある場合もありますが、安定して避けるのが基本です。
 
-- Does speed ramp? Yes; rhythm helps adaptation.
+- スピードは上がりますか？ はい。一定のリズムを作ると対応しやすいです。
 
-- Why do I get hit? Late swaps—change sides earlier.
+- 当たってしまう理由：移動が遅いことが多いです。早めに左右を切り替えます。
 **ゲームの目標は何ですか？**
 
 枝に当たらずに、できるだけ多く木を切ることです。

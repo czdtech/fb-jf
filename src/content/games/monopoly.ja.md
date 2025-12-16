@@ -22,7 +22,7 @@ Monopolyは、不動産取引と戦略のクラシックなボードゲームで
 
 1.  **早期に購入:** プロパティを取得するほど、より良いです。
 2.  **セットを完成:** モノポリーは家を建設することを可能にします。
-3.  **戦略的に構築:** オレンジとレッドプロパティは最高のROIを持つ傾向があります。
+3.  **戦略的に構築:** オレンジとレッドの物件は費用対効果が高い傾向があります。
 4.  **お金を管理:** 常に緊急のために現金を保持します。
 5.  **取引賢く:** 公正な取引で対戦相手を助けないでください。
 
@@ -33,7 +33,7 @@ Monopolyは、不動産取引と戦略のクラシックなボードゲームで
 - 他のプレイヤーと取引をネゴシエートします。
 
 
-- **Pay**: When landing on a space that requires rent or tax payment, you will be prompted to pay automatically.
+- **支払い**: 家賃や税金のマスに止まると、支払いが求められます（多くの場合は自動処理）。
 ### よくある質問 (FAQ)
 
 - **Q: 最高のプロパティは何ですか？**  
@@ -44,9 +44,9 @@ Monopolyは、不動産取引と戦略のクラシックなボードゲームで
   A: 早期にはい、後期には実際には良いことができます（レントを避けるため）。
 
 
-**A**: Special squares include "Chance," "Community Chest," "Go to Jail," and "Free Parking," which trigger various events and rules.
+**A**: 「Chance」「Community Chest」「Go to Jail」「Free Parking」などがあり、止まるとイベントやルールが発動します。
 
-- **Q: What are the special squares on the board?**
+- **Q: ボード上の特殊マスには何がありますか？**
 
 
-**A**: Special squares include "Chance," "Community Chest," "Go to Jail," and "Free Parking," which trigger various events and rules.
+**A**: 「Chance」「Community Chest」「Go to Jail」「Free Parking」などがあり、止まるとイベントやルールが発動します。

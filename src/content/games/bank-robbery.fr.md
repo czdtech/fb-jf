@@ -24,12 +24,12 @@ La carte prend place dans un quartier urbain : hall principal, salle des coffres
 
 ### Guide de jeu
 
-Votre plan dépend fortement du camp choisi : les braqueurs doivent pénétrer, tenir la perceuse puis exfiltrer l’argent, tandis que les policiers doivent surveiller tous les accès, casser les offensives coordonnées et couper la fuite.
+Le plan dépend fortement du camp choisi : les braqueurs doivent pénétrer, tenir la perceuse puis exfiltrer l’argent, tandis que les policiers doivent surveiller tous les accès, casser les offensives coordonnées et couper la fuite.
 
 #### Côté braqueurs
 
 1. **Préparer l’entrée**  
-   Ne fonce pas tous par la grande porte. Utilise les ruelles, entrées latérales ou accès au toit pour surprendre les flics et les forcer à se disperser.
+   Ne fonce pas par la grande porte. Utilise les ruelles, entrées latérales ou accès au toit pour surprendre les flics et les forcer à se disperser.
 
 2. **Répartir les rôles**  
    Désigne quelqu’un pour poser et surveiller la perceuse, d’autres pour tenir les accès, et éventuellement un joueur en éclaireur pour prévenir des renforts.
@@ -38,7 +38,7 @@ Votre plan dépend fortement du camp choisi : les braqueurs doivent pénétrer, 
    La perceuse fait du bruit et attire les policiers. Installe des positions défensives autour de la salle des coffres et garde toujours un œil sur l’appareil pour éviter qu’il soit désamorcé.
 
 4. **Prévoir la fuite**  
-   Une fois l’argent en poche, vous devenez la cible principale. Planifiez à l’avance l’itinéraire vers le point d’extraction et, si possible, prépare un conducteur pour un départ rapide.
+   Une fois l’argent en poche, tu deviens la cible principale. Planifie à l’avance l’itinéraire vers le point d’extraction et, si possible, prépare un chauffeur pour un départ rapide.
 
 5. **Améliorer l’équipement**  
    Utilise tes gains pour acheter armes, armures et explosifs (C4, etc.) qui permettront des percées plus rapides lors des braquages suivants.
@@ -52,13 +52,13 @@ Votre plan dépend fortement du camp choisi : les braqueurs doivent pénétrer, 
    Utilise le chat d’équipe pour annoncer où tu vois des braqueurs et où une perceuse a été posée. Un bon call‑out permet à toute l’équipe de réagir.
 
 3. **Reprise coordonnée**  
-   Si les braqueurs contrôlent la salle des coffres, n’y retourne pas un par un. Attendez‑vous à plusieurs et entrez par plusieurs portes en même temps.
+   Si les braqueurs contrôlent la salle des coffres, n’y retourne pas un par un. Attends d’être plusieurs et entre par plusieurs portes en même temps.
 
 4. **Priorité à la perceuse**  
    Quand une perceuse est active, la désamorcer est la priorité. Protège le coéquipier qui interagit avec l’appareil, car il est totalement vulnérable.
 
 5. **Couper la fuite**  
-   Si les braqueurs s’enfuient avec l’argent, pensez à tendre des embuscades sur le chemin de l’extraction ou à utiliser les véhicules de police pour les rattraper.
+   Si les braqueurs s’enfuient avec l’argent, pense à tendre des embuscades sur le chemin de l’extraction ou à utiliser les véhicules de police pour les rattraper.
 
 ### Commandes
 
@@ -87,7 +87,7 @@ Installe une garde permanente : au moins deux joueurs doivent couvrir la perceus
 
 **3. Côté policiers, nous sommes systématiquement débordés. Des astuces ?**
 
-Évite de camper en bloc. Répartissez-vous dans la banque pour repérer tôt les intrusions, puis reprenez chaque zone à plusieurs entrées en couvrant le coéquipier qui désamorce.
+Évite de camper en bloc. Répartis ton équipe dans la banque pour repérer tôt les intrusions, puis reprends chaque zone à plusieurs entrées en couvrant le coéquipier qui désamorce.
 
 **4. Quelle est la meilleure manière d’entrer dans la banque en tant que braqueur ?**
 

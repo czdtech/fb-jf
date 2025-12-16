@@ -24,21 +24,21 @@ Sushi Grabは、回転寿司ベルトから寿司を掴むシンプルだが中�
  - **コンボ：** 連続して成功すると高得点になります
 
 
-- Time boxes: When the timer dips, take only guaranteed picks.
+- タイム管理：残り時間が少ないときは、確実に取れる寿司だけ狙います。
 ### 操作ガイド
 
  - **マウス/タッチ：** クリックまたはタップして寿司を掴む
 
 
-- Pause/Retry: Use UI buttons.
+- 一時停止/リトライ：画面のボタンを使います。
 ### よくある質問（FAQ）
 
 
-- Fixed patterns? Belts often loop patterns—learn and exploit them.
+- パターンは固定？ ベルトは同じ流れを繰り返すことが多いので、覚えると有利です。
 
-- Can I queue picks? Most versions require individual clicks; rapid but accurate taps work best.
+- 連続入力はできますか？ 多くの場合は1回ずつクリックが必要です。素早く正確に押すのがコツです。
 
-- Do wrong picks penalize? Usually yes—score loss or streak breaks.
+- 間違えるとペナルティはありますか？ ある場合が多く、スコア減少や連続成功の途切れにつながります。
 **ゲームの目標は何ですか？**
 
 できるだけ多くの寿司を完璧なタイミングで掴むことです。

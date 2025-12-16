@@ -24,7 +24,7 @@ Wood Block Matchは、木製ブロックを配置して列や行をクリアす�
  - **高得点：** できるだけ多くの列をクリアします
 
 
-- Undo discipline: If available, undo immediately after a placement that seals pockets.
+- 取り消しの使い所：機能がある場合、袋小路を作る配置をしてしまったら早めに戻します。
 ### 操作ガイド
 
  - **マウス：** ブロックをドラッグして配置
@@ -32,15 +32,15 @@ Wood Block Matchは、木製ブロックを配置して列や行をクリアす�
 ### よくある質問（FAQ）
 
 
-- Q: I run out of space very quickly — what should I change?
+- Q: すぐスペースがなくなります。何を変えるべきですか？
 **ゲームの目標は何ですか？**
 
 
-- Q: Can I rotate pieces?
+- Q: ピースは回転できますか？
 ブロックを配置して列や行をクリアし、高得点を獲得することです。
 
 
-- Q: Any tip for high scores?
+- Q: ハイスコアのコツはありますか？
 **ブロックを回転できますか？**
 
 いいえ、ブロックは固定された形です。

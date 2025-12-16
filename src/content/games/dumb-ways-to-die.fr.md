@@ -3,8 +3,8 @@ locale: fr
 urlstr: dumb-ways-to-die
 title: 'Dumb Ways to Die'
 description: >-
-  Dumb Ways to Die is a fast‑reaction mini‑game collection: complete
-  micro‑challenges quickly to keep characters alive.
+  Dumb Ways to Die est une collection de mini‑jeux de réflexe : réussis des
+  micro‑défis très vite pour garder les personnages en vie.
 iframeSrc: 'https://html5.iclouds.io/dumb-ways-die/'
 thumbnail: /new-images/dumb-ways-to-die.jpg
 tags:
@@ -19,26 +19,32 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 ### Overview
-Fast‑reaction micro‑games: complete short safety‑themed challenges under a rising speed curve. Fail three times and the run ends.
+Micro‑jeux de réflexe : réussis de petits défis (souvent sur le thème de la
+sécurité) avec une vitesse qui augmente. Trois erreurs et la run se termine.
 
 ### How to Play
-- Each round presents a different micro‑game with a brief prompt.
-- Succeed quickly to keep lives and push the speed higher; mistakes cost hearts.
-- Later rounds shuffle faster and add trick prompts.
+- Chaque manche propose un micro‑jeu différent avec une consigne courte.
+- Réussis vite pour conserver tes vies et faire monter la vitesse ; les erreurs
+  coûtent des cœurs.
+- Plus loin, ça enchaîne plus vite et les consignes deviennent plus piégeuses.
 
 ### Controls
-- Mouse/Touch swipes, taps, and holds; some hosts use arrow keys/space for specific games.
+- Souris/tactile : glissements, taps, appuis ; certains sites utilisent aussi
+  flèches/espace selon le mini‑jeu.
 
 ### Tips
-- Read the prompt first—many losses come from instinctive wrong inputs.
-- Expect repetition; memorize tricky games to react faster.
-- Don’t over‑drag/over‑swipe; precision beats speed.
+- Lis la consigne d’abord : beaucoup de fails viennent d’un réflexe “automatique”
+  qui tombe à côté.
+- Attends‑toi à des répétitions ; mémorise les mini‑jeux difficiles pour réagir
+  plus vite.
+- Ne sur‑glisse pas : la précision bat la vitesse brute.
 
 ### FAQ
-- Q: How many lives do I have?
-A: Usually three strikes per run.
-- Q: Can I practice a single game?
-A: Some hosts offer practice lists; otherwise learn during runs.
-- Q: Is there progression?
-A: High‑score chase; some versions unlock characters or cosmetics.
+- Q: Combien de vies ai‑je ?
+A: Souvent trois erreurs par run.
+- Q: Peut‑on s’entraîner sur un mini‑jeu ?
+A: Certains sites proposent un mode entraînement ; sinon, tu apprends en run.
+- Q: Y a‑t‑il de la progression ?
+A: Surtout une chasse au score ; certaines versions débloquent des persos ou des
+cosmétiques.
 

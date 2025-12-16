@@ -1,6 +1,6 @@
 ---
 title: "Spider Solitaire"
-description: "Spider Solitaireの挑戦を受けて立とう。スートごとに降順でカードを配置してタブローからクリアしよう。戦略と計画の真のテスト。"
+description: "Spider Solitaireは104枚で遊ぶソリティアです。スートごとに降順の並びを作ってタブローをクリアします。"
 iframeSrc: "https://spidersolitaire.h5games.usercontent.goog/v/42fd7cuq80rao/"
 thumbnail: "/new-images/spider-solitaire-2.png"
 urlstr: "spider-solitaire-2"

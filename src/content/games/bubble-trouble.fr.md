@@ -20,7 +20,7 @@ Dans *Bubble Trouble*, tu contrôles un petit personnage en bas de l’écran qu
 Le but : nettoyer l’écran de toutes les bulles avant la fin du temps sans te faire toucher, en solo ou en coop local à deux joueurs.
 
 
-The main challenge is to avoid being touched by any of the bouncing bubbles. If a bubble hits the player's character, they lose a life. The game is lost if the player runs out of lives or if the timer reaches zero. As players progress, levels become more difficult with more bubbles, complex starting layouts, and shorter time limits. The game also features a popular two-player cooperative mode.
+Le principal défi est d’éviter tout contact avec les bulles rebondissantes. Si une bulle touche ton personnage, tu perds une vie. La partie est perdue si tu n’as plus de vies ou si le chrono atteint zéro. En avançant, les niveaux deviennent plus difficiles (plus de bulles, dispositions plus complexes, temps plus court). Le mode coop local à deux joueurs est aussi très populaire.
 ### Guide de jeu
 
 - **Priorité aux bulles géantes**  
@@ -41,22 +41,22 @@ The main challenge is to avoid being touched by any of the bouncing bubbles. If 
 ### Commandes
 
 
-The controls are simple and designed for quick arcade action.
+Les commandes sont simples, pensées pour une action arcade rapide.
 - Joueur 1 : flèches gauche/droite pour se déplacer, `Espace` pour tirer.  
     - Joueur 2 : touches `A/D` pour se déplacer, `Q` (ou `W` selon version) pour tirer.
 
 
-*(Note: Player 2 controls can sometimes vary slightly, e.g., using X and C for movement and W to shoot, depending on the version of the game.)*
+*(Note : selon la version, les touches du Joueur 2 peuvent varier légèrement, par exemple `X/C` pour se déplacer et `W` pour tirer.)*
 
-    - **Q Key:** Shoot harpoon.
+    - **Touche `Q` :** tirer le harpon.
 
-- **A and D Keys:** Move the character left and right.
+- **Touches `A` et `D` :** déplacer le personnage à gauche/droite.
 
-    - **Player 2:**
+    - **Joueur 2 :**
 
-    - **Spacebar:** Shoot harpoon.
+    - **Espace :** tirer le harpon.
 
-*(Note: Player 2 controls can sometimes vary slightly, e.g., using X and C for movement and W to shoot, depending on the version of the game.)*
+*(Note : selon la version, les touches du Joueur 2 peuvent varier légèrement, par exemple `X/C` pour se déplacer et `W` pour tirer.)*
 ### Foire aux questions (FAQ)
 
 - **Q : Peut-on tirer en diagonale ?**  
@@ -72,10 +72,10 @@ The controls are simple and designed for quick arcade action.
   R : Tu perds une vie et dois recommencer le niveau. Sans vie restante, c’est le game over.
 
 
-> If the timer reaches zero before you have cleared all the bubbles, you lose a life and must restart the level. If you have no lives left, the game is over.
+> Si le chrono atteint zéro avant que tu aies nettoyé toutes les bulles, tu perds une vie et tu dois recommencer le niveau. Sans vie restante, c’est le game over.
 
-**4. What happens when the timer runs out?**
+**4. Que se passe‑t‑il quand le chrono expire ?**
 
-> This is subjective, but the **Shield** is arguably the most valuable as it prevents you from losing a life. The **Sticky Harpoon** is incredibly effective for clearing multiple bubbles at once.
+> C’est subjectif, mais le **Bouclier** est souvent le plus précieux car il empêche de perdre une vie. Le **harpon collant** est aussi très efficace pour éclater plusieurs bulles d’un coup.
 
-**3. What is the best power-up?**
+**3. Quel est le meilleur power-up ?**

@@ -16,11 +16,11 @@ score: 4.6/5  (919 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
-### Game Introduction
+### Introducción del juego
 
 Tunnel Rush es un juego de carrera infinita rápido y muy intenso en el que te deslizas por un túnel 3D repleto de colores, giros y obstáculos. A medida que la velocidad aumenta, tus reflejos y capacidad de concentración se ponen al límite.
 
-### Gameplay Strategy
+### Estrategia de juego
 
 1.  Entrena la reacción: practica respuestas rápidas para lidiar con obstáculos que aparecen de repente.
 2.  Anticipa el camino: mira siempre varios metros por delante para leer la disposición de las barreras y planear por dónde pasar.
@@ -28,13 +28,13 @@ Tunnel Rush es un juego de carrera infinita rápido y muy intenso en el que te d
 4.  Sigue el ritmo: acostúmbrate a cómo aumenta gradualmente la velocidad y a los cambios de ritmo.
 5.  Memoria muscular: jugar repetidamente te ayudará a automatizar movimientos y mejorar tu precisión.
 
-### How to Play
+### Cómo jugar
 
-*   **Mover a izquierda/derecha:** usa las teclas `A` / `D` o las flechas izquierda/derecha.
+*   **Mover a la izquierda/derecha:** usa las teclas `A` / `D` o las flechas izquierda/derecha.
 *   **Esquivar obstáculos:** muévete a tiempo para evitar las barreras del túnel.
 *   **Mantente centrado:** cuando no haya obstáculos, es más seguro permanecer cerca del centro.
 
-### Frequently Asked Questions
+### Preguntas frecuentes
 
 1.  **Q: ¿La velocidad aumenta sin parar?**  
     **A:** Sí. El juego incrementa la velocidad con el tiempo para subir la dificultad.

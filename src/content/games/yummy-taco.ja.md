@@ -13,20 +13,20 @@ locale: ja
 ---
 
 
-Yummy Taco is a delightful and fast-paced cooking simulation game where you step into the role of a taco chef. Your mission is to prepare delicious tacos for a stream of hungry customers, managing ingredients, assembly, and serving with speed and accuracy. The game challenges your time management skills and ability to keep up with demand.
+Yummy Tacoは、タコスを作って提供する料理シミュレーションゲームです。材料の管理、組み立て、提供を素早く行い、時間内に注文をさばいてスコアを伸ばします。
 ### ゲーム紹介
 
 
-- **Manage Ingredients:** Keep an eye on your ingredient supplies and restock as needed.
+- **材料を管理：** 材料の在庫を確認し、必要に応じて補充します。
 
-- **Earn Money:** Successful and quick service earns you money, which can be used to purchase new ingredients, upgrade your kitchen, or unlock new recipes.
+- **お金を稼ぐ：** 早く正確に提供するとお金を稼げます。新しい材料の購入、設備の強化、レシピ解放などに使える場合があります。
 
-- **Serve:** Once the taco is complete, serve it to the customer. Speed is key to earning higher tips and keeping customers happy.
+- **提供：** タコスが完成したら提供します。素早く出すほど評価が上がる場合があります。
 
-- **Assemble Tacos:** Click or drag ingredients (tortillas, meats, vegetables, sauces) onto the preparation area to build the taco according to the order.
+- **タコスを組み立てる：** トルティーヤ、肉、野菜、ソースなどの材料をクリック/ドラッグして、注文通りに組み立てます。
 
-- **Take Orders:** Customers will appear with speech bubbles indicating their desired taco ingredients.
-Yummy Tacoは、タコススタンドを経営する楽しい料理ゲームです。お客様の注文通りにタコスを作り、満足させて高得点を目指しましょう。
+- **注文を受ける：** お客さんが吹き出しで希望する材料を示します。
+Yummy Tacoは、タコススタンドで注文をさばく料理ゲームです。注文通りに作って提供し、スコアを伸ばしていきます。
 
 ### ゲームプレイガイド
 
@@ -38,17 +38,17 @@ Yummy Tacoは、タコススタンドを経営する楽しい料理ゲームで�
 ### 操作ガイド
 
 
-Yes, in many cooking simulation games like Yummy Taco, you can use the money you earn to upgrade your kitchen equipment, unlock new ingredients, or learn new, more complex recipes to attract more customers.
+はい。多くの場合、稼いだお金で設備をアップグレードしたり、新しい材料やレシピを解放したりできます（仕様はバージョンによって異なります）。
 
-**Can I upgrade my kitchen or recipes?**
+**キッチンやレシピはアップグレードできますか？**
 
-Serve customers quickly and accurately. Avoid mistakes in orders. Longer streaks of perfect service often lead to bonus points.
+素早く正確に提供し、注文ミスを減らします。ミスなしの連続提供が続くとボーナスになる場合があります。
 
-**How do I get a higher score?**
+**スコアを上げるには？**
 
-The main goal is to serve as many customers as possible, earn money, and achieve a high score by efficiently preparing and serving tacos.
+できるだけ多くのお客さんに提供し、お金を稼ぎながら効率よく回してハイスコアを目指します。
 
-**What is the main goal of Yummy Taco?**
+**Yummy Tacoの主な目的は何ですか？**
  - **マウス：** 材料をクリックして選択
 
 ### よくある質問（FAQ）

@@ -24,7 +24,7 @@ Tic Tac Toe Maniaは、クラシックな三目並べゲームに新しいモー
  - **勝利：** 先に3つ揃えた方が勝ちです
 
 
-- Variants: On larger boards, prioritize flexible lines over early corners.
+- 変則ルール：盤面が大きい場合は、角の先取りよりも伸びやすいラインを意識します。
 ### 操作ガイド
 
  - **マウス：** マスをクリックして配置
@@ -32,11 +32,11 @@ Tic Tac Toe Maniaは、クラシックな三目並べゲームに新しいモー
 ### よくある質問（FAQ）
 
 
-- Q: Is 3×3 always a draw?
+- Q: 3×3は必ず引き分けになりますか？
 **ゲームの目標は何ですか？**
 
 
-- Q: Best first move?
+- Q: 最善の初手は？
 縦、横、または斜めに3つのマークを揃えることです。
 
 **誰と対戦できますか？**

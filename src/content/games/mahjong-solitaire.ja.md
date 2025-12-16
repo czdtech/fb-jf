@@ -1,6 +1,6 @@
 ---
 title: Mahjong Solitaire
-description: クラシックな麻雀ソリティアをお楽しみください。同一のフリータイルをマッチしてボードをクリアし、観察と戦略のリラックスしたゲームです。
+description: クラシックな麻雀ソリティアです。同じ絵柄のフリータイルをペアで消し、観察と順番選びで盤面をクリアします。
 iframeSrc: 'https://mahjongsoliatire.h5games.usercontent.goog/v/5ad8cln5mkk60/'
 thumbnail: /new-images/mahjong-solitaire.png
 urlstr: mahjong-solitaire
@@ -16,39 +16,39 @@ locale: ja
 
 ### ゲーム紹介
 
-麻雀ソリティアは、積み重ねられたタイルのレイアウトから同一のフリーペアを見つけてマッチする時代を超越したパズルゲームです。目標は、戦略的思考と鋭い観察を使用してボードを完全にクリアすることです。
+麻雀ソリティアは、積み重ねられたタイルからフリーなペアを見つけて消していく定番パズルです。どのペアを先に取るかで次の手が変わるため、観察と順番選びが重要になります。
 
 ### ゲームプレイ戦略と攻略法
 
-1.  **フリータイルルール:** 左右両側がブロックされておらず、その上にタイルがないタイルのみをマッチできます。
-    - **戦略的マッチング:** 最も多くの新しいタイルを公開するペアを優先します。
-    - **複数を慎重に処理:** 3つ以上の同一タイルがある場合、最良の長期オプションのためにどのペアをマッチするかを選択します。
-4.  **フラワー/シーズンタイル:** これらは柔軟です。任意のフラワーは任意のフラワーとマッチでき、任意のシーズンは任意のシーズンとマッチできます。
+1.  **フリータイルルール:** マッチできるのは「フリー（オープン）」なタイルだけです。タイルは次の条件を満たすとフリーになります。
+    - 上に他のタイルが載っていない。
+    - 左右どちらかにスライドできる（横にタイルが接していない）。
+4.  **フラワー/シーズンタイル:** フラワー同士、シーズン同士は絵柄が同じでなくてもマッチできます。
 
 
-- **Use Hints and Shuffles Wisely:** If you are stuck, use the "Hint" button to reveal an available pair. If there are no more possible matches on the board, the game may offer a "Shuffle" option, which rearranges all remaining tiles to create new matching opportunities.
+- **ヒント/シャッフルの使い方:** 行き詰まったら「Hint」でペア候補を確認します。盤面にペアがない場合は「Shuffle」で残りタイルを並べ替えられることがあります。
 
-- **Special Tiles (Seasons and Flowers):** In most versions, the Season and Flower tiles are exceptions to the identical match rule. Any Season tile can be matched with any other Season tile. The same applies to Flower tiles. These can be very useful for unblocking the board when no other matches are available.
+- **特殊タイル（シーズン/フラワー）:** 多くのバージョンでは例外扱いで、同じグループ同士ならどれでもマッチできます。手が少ないときの助けになります。
 
-- **Handle Triplets and Quads Carefully:** If you see three or four identical free tiles, be strategic about which pair you match. Choose the pair that will open up the most advantageous section of the board for future moves.
+- **3枚以上あるとき:** 同じ絵柄が3〜4枚ある場合は、どの2枚を消すかで次の手が変わります。将来有利になる場所が開くペアを選びましょう。
 ### 操作ガイド
 
 
-The game is controlled with a mouse or via touch screen.
+マウスまたはタッチで操作します。
 - フリータイルをクリック/タップして選択し、その同一のフリーパートナーをクリック/タップしてマッチを作成します。
 - ヒント/シャッフルボタンが行き詰まったときに利用可能です。
 
 ### よくある質問 (FAQ)
 
 - **Q: なぜタイルをクリックできないのですか？**  
-  A: 他のタイルによってブロックされているか、その上にタイルが横たわっています。
+  A: 左右が両方塞がっているか、上に別のタイルが載っています。
     - **Q: ゲームの目標は何ですか？**  
-  A: ペアでマッチすることで、ボードからすべてのタイルをクリアします。
-- **Q: もう移動がありません。終わりですか？**  
+  A: ペアでマッチさせて、盤面のタイルをすべて取り除くことです。
+- **Q: シーズン/フラワータイルは全部絵柄が違うのですか？**  
 
-    - **A:** Yes, the images on them are different, but they belong to the same group. You can match any tile from the "Seasons" group with any other tile from that same group, and likewise for the "Flowers" group.
+    - **A:** はい、絵柄は違いますが同じグループです。「Seasons」同士はどれでもマッチでき、「Flowers」も同様です。
 
-- **Q: Are the Season/Flower tiles all different?**
+- **Q: もうマッチできるペアがありません。どうすればいいですか？**
 
-    - **A:** If you are certain no matches are left, look for a "Shuffle" or "Reshuffle" button. If the game has no shuffle option and no moves are left, the game is lost.
-  A: シャッフルを使用するか（利用可能な場合）、レベルを再起動します。
+    - **A:** ペアがないと確信できるなら「Shuffle」や「Reshuffle」を探してください。シャッフルがなく手がない場合はゲームオーバーです。
+  A: （利用できる場合は）シャッフルで並べ替えます。ない場合はやり直しになります。

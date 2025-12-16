@@ -38,7 +38,7 @@ l’arène pour éliminer l’équipe adverse ou remplir un objectif.
     les couverts et change régulièrement de position après un duel.
 3.  **Joue ton rôle de classe**  
     Les personnages orientés dégâts de loin ne devraient pas rester seuls en
-    première ligne, tandis que les classes plus tanky peuvent ouvrir le chemin
+    première ligne, tandis que les classes plus résistantes peuvent ouvrir le chemin
     pour l’équipe.
 4.  **Communique avec ton équipe**  
     Si un chat ou des pings sont disponibles, signale les ennemis, les zones

@@ -1,6 +1,6 @@
 ---
 title: Merge Melons
-description: Merge Melonsはジューシーなマージパズルです。メロンをマージし、より大きなフルーツを作成し、ボードをクリアし、カラフルなレベルをマスターします。
+description: Merge Melonsはメロンをマージして大きくするパズルです。ボードが埋まらないように整理しながら、上位のフルーツを作ります。
 iframeSrc: 'https://6r0dkkqj85ht0.h5games.usercontent.goog/v/13onlef6et2sg/'
 thumbnail: /new-images/merge-melons.png
 urlstr: merge-melons
@@ -15,7 +15,7 @@ locale: ja
 
 ### ゲーム紹介
 
-Merge Melonsは、シンプルで中毒性のあるメロンマージパズルです。同じメロンをマージしてより大きく、より価値のあるフルーツを作成します。ボードがいっぱいにならないようにし、高得点を獲得し、究極のメロンマスターになります。
+Merge Melonsは、同じメロンをマージして上位のフルーツを作るシンプルなパズルです。ボードがいっぱいにならないように整理しながらマージを重ね、スコアを伸ばしていきます。
 
 ### ゲームプレイ戦略と攻略法
 
@@ -28,7 +28,7 @@ Merge Melonsは、シンプルで中毒性のあるメロンマージパズル�
 ### 操作ガイド
 
 
-The controls are very straightforward.
+操作はとてもシンプルです。
 - メロンをドラッグ＆ドロップして移動およびマージします。
 - 同じタイプをタップして自動マージします。
 - ボードをクリアしてゲームオーバーを避けます。
@@ -41,9 +41,9 @@ The controls are very straightforward.
   A: 通常いいえ。慎重にマージしてください。
 - **Q: 高得点のヒントは？**  
 
-    - **A:** Not directly, as the game is physics-based. However, by carefully considering where you drop your fruit, you can influence the direction it will roll and where the newly merged, larger fruit will settle.
+    - **A:** 物理挙動があるため完全に狙い通りにはできませんが、落とす位置を工夫すると転がる方向や合体後の位置に影響します。
 
-- **Q: Is there a way to control where the fruits go after they merge?**
+- **Q: ゲームオーバーの条件は何ですか？**
 
-    - **A:** You lose when the pile of fruit inside the container touches or crosses the line at the very top.
+    - **A:** 容器内のフルーツの山が上部のラインに触れる、または超えると負けになります。
   A: 大きなマージを作成し、コンボを構築します。

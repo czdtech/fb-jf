@@ -58,15 +58,15 @@ positions de mat fondamentales).
 ### Foire aux questions (FAQ)
 
 
-- Q: How do I improve quickly?
+- Q : Comment progresser rapidement ?
 **Q : Comment progresser rapidement aux échecs ?**  
 
-- Q: Any beginner opening tips?
-R : Joue régulièrement, résous des exercices tactiques et analyse tes parties
+- Q : Des conseils d’ouverture pour débuter ?
+R : Joue régulièrement, résous des exercices tactiques et analyse tes parties perdues pour comprendre tes erreurs. Construis un petit répertoire d’ouvertures simples pour arriver en milieu de jeu dans des positions que tu connais.
 
-- Q: What endgames should I learn first?
-perdues pour comprendre tes erreurs. Construis un petit répertoire d’ouvertures
-simples pour arriver en milieu de jeu dans des positions que tu connais.
+- Q : Quelles finales dois‑je apprendre en premier ?
+R : Commence par les mats de base (Dame+Roi vs Roi, Tour+Roi vs Roi) et les finales de pions
+avec opposition du roi.
 
 **Q : Des conseils d’ouverture pour débuter ?**  
 R : Commence par des ouvertures classiques et simples, comme 1.e4 ou 1.d4 côté

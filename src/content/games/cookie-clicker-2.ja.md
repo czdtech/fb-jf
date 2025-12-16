@@ -34,19 +34,15 @@ locale: ja
 *   **ゴールデンクッキー:** 画面にランダムに出現する金色のクッキーを見逃さないでください。クリックすると「生産量7倍（777倍）」などの莫大なボーナスが得られます。
 
 **2. 中盤（転生と名声）:**
+*   **転生（Ascension）とは？:** クッキーや施設などの進行をリセットする代わりに、ヘブンリーチップス（Heavenly Chips）や名声レベル（Prestige Level）を獲得し、次回以降の周回を恒久的に強化する仕組みです。
 *   **いつ転生（Ascend）すべきか:** 最初の転生は、**プラス200〜440の名声レベル（Prestige Level）**が貯まった時が推奨されています。早すぎると効率が悪いです。「遺産（Legacy）」メニューの「統計（Stats）」で確認できます。
 *   **ヘブンリーチップス（Heavenly Chips）:** 転生後に手に入るチップを使って、永続的なアップグレードを購入できます。「Persistent memory（執拗な記憶）」「How to bake your dragon（ドラゴンの焼き方）」などを優先しましょう。
 
 **3. 終盤（効率化とミニゲーム）:**
 *   **ループ:** 転生して強くなり、高速で施設を建て直し、ゴールデンクッキーのコンボ（「Frenzy」と「Click Frenzy」の重ね掛けなど）を狙って限界まで稼ぎ、また転生する…このサイクルを繰り返します。
-
-**3. Late Game (Efficient Runs & Minigames):**
 *   **グランマポカリプス:** 特定の研究を進めると、おばあちゃんが激怒し、ゲームの見た目とシステムが変貌します。リスクはありますが、強大なリターンも得られます。
-*   **角砂糖（Sugar Lumps）:** 約24時間に1個手に入ります。施設をレベルアップさせ、CpSを永続的に1%上げる貴重なアイテムです。
 *   **ミニゲーム:** 施設をレベルアップさせると、畑（Garden）、神殿（Pantheon）、魔法（Grimoire）などの複雑なミニゲームが解放され、さらなるブーストが可能になります。
-
-
-- **Sugar Lumps**: You get one Sugar Lump about every 24 hours. These can be used to level up your buildings, with each level granting a permanent +1% CpS bonus to that building type. Use them wisely.
+*   **角砂糖（Sugar Lumps）:** 約24時間に1個手に入ります。施設をレベルアップさせ、CpSを永続的に1%上げる貴重なアイテムです。
 ### 操作ガイド
 
 基本的にマウスのみですが、効率化のためのショートカットがあります。
@@ -60,34 +56,17 @@ locale: ja
 
 ### よくある質問 (FAQ)
 
+**1. 最初の転生はいつが良いですか？**
+初回は名声レベル（Prestige Levels）が200〜440程度貯まってからが目安です。その後は進行が明確に鈍ったら転生し、効率の良い周回を重ねましょう。
 
-No. The game is designed to be effectively endless. The goal is to see the numbers go up and to unlock all achievements and upgrades, which is a monumental task.
+**2. グランマポカリプスの目的は？発動すべき？**
+強力なアップグレードや実績が解放されますが、デメリットのある「Wrath Cookies」が混ざるなどリスクもあります。中盤以降に戦略として受け入れるのも、抑制するのもどちらも有効です。
 
-**5. Is there an end to Cookie Clicker?**
+**3. 角砂糖は最初に何に使うべき？**
+最初は「農場（Farms）」をレベル1にしてミニゲーム「畑（Garden）」を解放するのが定番です。その後は「魔法の塔（Wizard Towers）」で「魔法書（Grimoire）」を、「神殿（Temples）」で「パンテオン（Pantheon）」を解放するのが優先候補になります。
 
-It's mostly based on luck. The spell "Force the Hand of Fate" from the Grimoire (Wizard Tower minigame) allows you to spawn an extra Golden Cookie, which is the primary method for intentionally creating powerful combos.
+**4. ゴールデンクッキーのコンボはどう作る？**
+基本は運ですが、Grimoire（魔法の塔ミニゲーム）の「Force the Hand of Fate」で追加のゴールデンクッキーを出せます。FrenzyとClick Frenzyを重ねるなど、強い組み合わせを狙いましょう。
 
-**4. How do I get Golden Cookie combos?**
-
-A good strategy is to use your first Sugar Lump to upgrade your Farms to level 1 to unlock the Garden minigame. After that, upgrading Wizard Towers to unlock the Grimoire and Temples to unlock the Pantheon are high priorities.
-
-**3. What should I spend my Sugar Lumps on first?**
-
-The Grandmapocalypse unlocks powerful upgrades and achievements. However, Wrath Cookies can be detrimental. Many players choose to stay in the first stage of it, which gives a mix of Golden and Wrath cookies, or they avoid it entirely until they are powerful enough to not care about the negative effects. It's a valid strategic choice either way.
-
-**2. What is the point of the Grandmapocalypse? Should I activate it?**
-
-For your first ascension, wait until you have at least 200-440 Prestige Levels. After that, ascend whenever your progress slows down significantly. An efficient run in the mid-to-late game might last a few hours or a day.
-
-**1. When is the best time to ascend?**
-*   **Q: 最初の転生はいつが良いですか？**
-    *   **A:** 名声レベル（Prestige Levels）が最低でも200、できれば440貯まってからがベストです。それまでは我慢してクッキーを焼き続けましょう。
-
-*   **Q: グランマポカリプスは発動すべきですか？**
-    *   **A:** はい、強力なアップグレードと実績のために一度は通るべき道です。しかし、デメリットのある「ラス・クッキー（Wrath Cookie）」が出るようになるので、制御できる自信がつくまで止めておくのも戦略です。
-
-*   **Q: 角砂糖は何に使うべきですか？**
-    *   **A:** 最初は「農場（Farms）」をレベル1にしてミニゲーム「畑」を解放し、次に「魔法の塔（Wizard Towers）」で「魔法書」を、「神殿（Temples）」で「パンテオン」を解放するのが鉄板ルートです。
-
-*   **Q: ゲームに終わりはありますか？**
-    *   **A:** 実質的にありません。すべての実績とアップグレードをコンプリートするのは果てしない道のりです。
+**5. ゲームに終わりはありますか？**
+ありません。数字を伸ばし続け、実績やアップグレードを集めていく「終わりのない」放置ゲームです。

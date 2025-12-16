@@ -1,6 +1,6 @@
 ---
 title: "Minigolf Clash"
-description: "Minigolf Clashは競争的なミニゴルフです。プレイヤーと対戦し、トリックショットをマスターし、リーダーボードを登ります。"
+description: "Minigolf Clashは対戦要素のあるミニゴルフです。相手と競いながら、正確なショットでスコアを伸ばします。"
 iframeSrc: "https://minigolfclash.h5games.usercontent.goog/v/2po3oe70glkng/"
 thumbnail: "/new-images/minigolf-clash.png"
 urlstr: "minigolf-clash"
@@ -13,7 +13,7 @@ locale: ja
 
 ### ゲーム紹介
 
-Minigolf Clashは、競争をミニゴルフに追加します。他のプレイヤーと対戦し、トリックショットをマスターし、ランクを登り、報酬をアンロックします。各コースは、スキルと精度をテストするユニークな挑戦を提示します。
+Minigolf Clashは、ミニゴルフに対戦要素を加えたゲームです。他のプレイヤーと競い、コースの癖を読んでスコアを伸ばします。各コースには独自のギミックがあり、精度と判断が問われます。
 
 ### ゲームプレイ戦略と攻略法
 

@@ -24,33 +24,33 @@ Word Searchは、時代を超えて愛されるクラシックな単語検索パ
  - **すべてクリア：** すべての単語を見つけます
 
 
-- **Theme Association**: Use theme hints to predict what types of words might appear.
+- **テーマを手がかりにする：** テーマがある場合は、出てきそうな単語の種類を予想できます。
 ### 操作ガイド
 
  - **マウス：** 単語をドラッグして選択
 
 
-- **Hint Feature**: Some versions provide hint features to help find difficult words.
+- **ヒント機能：** 見つけにくい単語を探すためのヒントが用意されている場合があります。
 
-- **View List**: Check the word list to see which words still need to be found.
+- **リスト確認：** 単語リストを見て、未発見の単語を確認します。
 
-- **Multi-directional Selection**: Can select words from any direction (forward/backward, up/down, diagonal).
+- **多方向に選択：** 前後・上下・斜めなど、さまざまな方向の単語を選べます。
 ### よくある質問（FAQ）
 
 
-- **Q: What directions can words be in?**
+- **Q: 単語はどの方向にありますか？**
 **ゲームの目標は何ですか？**
 
 
-- **Q: How can I improve search efficiency?**
+- **Q: 探索効率を上げるには？**
 グリッド内のすべての隠された単語を見つけることです。
 
 
-- **Q: What if I can't find the last few words?**
+- **Q: 最後の数個が見つからないときは？**
 **単語はどの方向にありますか？**
 
 
-- **Q: Is there a time limit?**
+- **Q: 時間制限はありますか？**
 水平、垂直、斜めの方向にあります。
 
 **難易度は様々ですか？**

@@ -44,13 +44,13 @@ locale: ja
     *   **ブレーキ**: `S` キー、または `下矢印` キー。
 
 
-- **Braking**: `S` key or `Down Arrow` key.
+- **ブレーキ**: `S` キー、または `下矢印` キー。
 
-    - **Acceleration**: `W` key or `Up Arrow` key.
+    - **加速**: `W` キー、または `上矢印` キー。
 
-    - **Steering**: `A` and `D` keys or `Left/Right Arrow` keys.
+    - **ステアリング**: `A` と `D` キー、または `左/右矢印` キー。
 
-    - **PC/Web:**
+    - **PC/ウェブ:**
 ### **よくある質問 (FAQ)**
 
 **1. なぜ最高速度が出ないのですか？**

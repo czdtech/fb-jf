@@ -24,13 +24,13 @@ Word Connectは、文字をつないで単語を作る楽しい単語パズル�
  - **レベルクリア：** すべての空欄を埋めます
 
 
-- **Hints:** Use coins to get hints that reveal a letter in a word if you get stuck.
+- **ヒント：** 行き詰まったら、コインでヒントを使って単語の文字を1つ表示できます。
 ### 操作ガイド
 
  - **マウス/タッチ：** 文字をドラッグしてつなぐ
 
 
-- **Click:** Click on the shuffle or hint buttons.
+- **クリック：** シャッフルやヒントのボタンをクリックします。
 ### よくある質問（FAQ）
 
 **ゲームの目標は何ですか？**

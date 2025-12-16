@@ -16,30 +16,26 @@ score: 4.5/5  (2100 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
-### Game Introduction
+### Introducción del juego
 
 Wheely es una serie de juegos de puzles y aventuras protagonizada por un pequeño coche rojo. En cada nivel, debes ayudarlo a avanzar interactuando con el escenario: pulsando botones, moviendo plataformas, accionando ascensores y evitando peligros como pinchos o vehículos enemigos.
 
-### Gameplay Guide
+### Guía de juego
 
 
-The core gameplay involves observing the scene and figuring out the correct sequence of interactions to help Wheely progress.
+La mecánica principal consiste en observar la escena y descubrir la secuencia correcta de interacciones para que Wheely avance.
 - **Observa la escena:** antes de hacer clic, fíjate en todos los elementos interactivos del nivel: palancas, engranajes, botones, puentes, etc.
 - **Resuelve el orden correcto:** muchas veces tendrás que activar mecanismos en una secuencia determinada para limpiar el camino o crear una ruta segura.
 - **Busca coleccionables:** algunas entregas incluyen objetos ocultos o estrellas opcionales que puedes recoger por un reto extra.
 - **Ensayo y error:** si algo sale mal y Wheely queda atrapado o destruido, reinicia el nivel y prueba otra secuencia de acciones.
 
-### Controls Guide
+### Controles
 
-- Todo se controla con el ratón o con toques: haz clic para mover a Wheely o activar elementos del entorno.
-
-
-    - **Drag/Rotate:** Some puzzles may require clicking and dragging or rotating certain elements.
-
-    - **Click on Wheely:** Click Wheely to start or stop his movement.
-
-    - **Click:** Click on objects to activate them.
-### Frequently Asked Questions (FAQ)
+- **Ratón / táctil:** todas las interacciones se hacen con clics o toques.
+    - **Clic:** haz clic en objetos para activarlos.
+    - **Clic en Wheely:** haz clic en Wheely para que empiece o deje de moverse.
+    - **Arrastrar/rotar:** algunos niveles requieren arrastrar o girar ciertos elementos.
+### Preguntas frecuentes (FAQ)
 
 **¿Cuál es el objetivo de los juegos de Wheely?**
 
@@ -51,6 +47,6 @@ Sí, la serie Wheely es conocida por ser familiar, con retos de lógica suaves, 
 
 
 
-The Wheely series has many installments, each offering new adventures and puzzles for players to enjoy.
+**¿Cuántos juegos de Wheely hay?**
 
-**How many Wheely games are there?**
+La serie tiene muchas entregas, y cada una ofrece nuevas aventuras y puzles para disfrutar.

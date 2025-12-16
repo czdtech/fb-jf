@@ -28,21 +28,21 @@ Tiletopiaは、タイルを戦略的に配置して美しい街を構築する�
  - **マウス：** タイルをドラッグして配置
 
 
-- **Rotate Tile:** In most versions, you can click on the tile in the stack to rotate it before placing it on the board.
+- **タイルを回転：** バージョンによっては、置く前にタイルをクリックして回転できます。
 ### よくある質問（FAQ）
 
 
-- **A:** This usually doesn't happen, as there will almost always be a valid spot. However, a poorly placed tile might prevent you from completing a quest, so think carefully before you place!
+- **A:** 多くの場合はどこかに置ける場所があります。ただし配置が悪いとクエスト達成が難しくなることがあるので、置く前に少し考えるのがコツです。
 
-    - **Q: What happens if I can't place a tile anywhere?**
+    - **Q: どこにもタイルを置けない場合は？**
 
-- **A:** By making perfect edge matches, completing quests, and closing off large areas of a single type (like a big forest or field).
+- **A:** 端のつながりを揃えたり、クエストを進めたり、同じ種類のエリアを大きくまとめたりすることで得点が伸びる場合があります。
 
-    - **Q: How do I get more points?**
+    - **Q: どうすれば得点を増やせますか？**
 
-- **A:** To get the highest score possible by placing tiles from your stack. The game ends when the stack is empty.
+- **A:** 手元のタイルを配置して、できるだけ高得点を目指します。タイルがなくなると終了する形式が多いです。
 
-    - **Q: What is the main objective?**
+    - **Q: ゲームの目的は何ですか？**
 **ゲームの目標は何ですか？**
 
 タイルを配置して、機能的で美しい都市を構築することです。

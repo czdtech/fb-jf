@@ -19,7 +19,7 @@ Super Smash Flash 2 v0.9は、人気のファン製格闘ゲームの最新版�
 ### ゲームプレイガイド
 
 
-Like its inspiration, the goal is to launch opponents off the screen by increasing their damage percentage.
+元ネタと同様に、相手のダメージ％を上げて画面外へ吹き飛ばすのが目的です。
  - **拡張されたロスター：** さらに多くのキャラクターから選択できます
  - **新しいステージ：** 様々な新しいバトルステージ
  - **改善された戦闘：** よりバランスの取れた戦闘メカニクス
@@ -28,23 +28,23 @@ Like its inspiration, the goal is to launch opponents off the screen by increasi
 ### 操作ガイド
 
 
-Controls are fully customizable. A common default layout for Player 1 is:
+操作はカスタマイズ可能で、プレイヤー1の一般的な初期配置は次のとおりです：
  - **矢印キー：** 移動とダッシュ
  - **ASDF キー：** 通常攻撃と特別な技
  - **スペースバー：** ジャンプとダブルジャンプ
 
 
-- **Pause:** `Enter`
+- **一時停止：** `Enter`
 
-- **Grab:** `U`
+- **つかみ：** `U`
 
-- **Shield:** `L`
+- **シールド：** `L`
 
-- **Special Attack:** `K`
+- **必殺技：** `K`
 
-- **Standard Attack:** `J`
+- **通常攻撃：** `J`
 
-- **Jump:** `Spacebar`
+- **ジャンプ：** `Spacebar`
 ### よくある質問（FAQ）
 
 **v0.9の新機能は何ですか？**

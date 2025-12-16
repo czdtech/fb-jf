@@ -1,6 +1,6 @@
 ---
 title: Onet Connect Classic
-description: Onet Connect Classicはマッチングパズルです。同じタイルのペアを接続し、パスをクリアし、クラシックなパズルをマスターします。
+description: Onet Connect Classicはマッチングパズルです。同じタイルのペアを接続し、ルール内のパスでボードを消していきます。
 iframeSrc: 'https://onetconnectclassic.h5games.usercontent.goog/v/5k8j9m2h7p3n8/'
 thumbnail: /new-images/onet-connect-classic.png
 urlstr: onet-connect-classic
@@ -27,19 +27,19 @@ Onet Connect Classicは、同じタイルのペアを接続するマッチング
 5.  **ヒントを賢く:** 本当に行き詰まった場合にのみ。
 
 
-- **Race the Clock:** Each level is timed. Keep an eye on the timer and try to maintain a steady pace of matching to avoid running out of time.
+- **時間を意識**: レベルにタイマーがある場合は、残り時間を見ながら一定のペースで消していくと時間切れを防げます。
 
-- **Shuffles:** If you run out of possible moves, the shuffle button will rearrange all the remaining tiles on the board, creating new opportunities.
+- **シャッフル**: 動かせる手がなくなった場合、シャッフルで残りタイルが並び替えられ、新しい組み合わせが生まれます。
 
-    - **Hints:** The hint button will show you one possible valid match.
+    - **ヒント**: ヒントボタンで、有効な組み合わせを1組だけ表示できます。
 
-    - **Use Your Tools:** Don't be afraid to use hints and shuffles when you get stuck.
+    - **ツールを使う**: 詰まったときは、ヒントやシャッフルを使うのも手です。
 
-- **Think Ahead:** When you clear a pair, it opens up new paths for other tiles. Try to make matches that will free up the most critical areas of the board, rather than just the first pair you see.
+- **先を読む**: ペアを消すと他のタイルの道が開きます。目先の1組だけでなく、重要な場所が空く消し方を意識すると安定します。
 ### 操作ガイド
 
 
-The game is played entirely with the mouse or by tapping.
+マウス操作、またはタップだけで遊べます。
 - 同じタイルをクリック/タップして接続します。
 - パスは最大3ターンまで。
 - すべてのタイルをクリアしてレベルを完了します。
@@ -52,9 +52,9 @@ The game is played entirely with the mouse or by tapping.
   A: 一部のレベルにはタイマーがあります。
 - **Q: 行き詰まることはありますか？**  
 
-    - **A:** Usually, no, but you have a limited number of them. Use them when you are truly stuck to save valuable time.
+    - **A:** 通常は解けるように作られていますが、ヒントやシャッフルの回数が限られる場合があります。本当に詰まったときに使うのが安全です。
 
-- **Q: Is there a penalty for using hints?**
+- **Q: ヒントを使うとペナルティはありますか？**
 
-    - **A:** If the timer reaches zero before you have cleared all the tiles, you lose the level and will have to start over.
-  A: はい、シャッフルまたは再起動します。
+    - **A:** 多くの場合、明確なペナルティはありません。ただし回数制限があったり、スコアに影響したりする場合があります。
+  A: はい。シャッフルを使うか、最初からやり直します。

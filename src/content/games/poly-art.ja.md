@@ -29,7 +29,7 @@ Poly Artは、3Dポリゴンクラウドを回転させて隠れた画像を見�
 ### 操作ガイド
 
 
-The controls are minimalistic and intuitive.
+操作はシンプルで直感的です。
 - ドラッグ/スワイプ：3Dオブジェクトを回転させます。
 - 適切な角度を見つけて画像を明らかにします。
 - 次のレベルに進みます。
@@ -42,9 +42,9 @@ The controls are minimalistic and intuitive.
   A: バージョンによって異なります。多くは数百。
 - **Q: タイムリミットはありますか？**  
 
-    - **A:** No. Poly Art games are designed to be stress-free. There are no time limits, scores, or penalties, allowing you to solve the puzzles at your own pace.
+    - **A:** 通常ありません。多くのPoly Art系は焦らず解けるように作られており、時間制限やスコア、ミスのペナルティがない場合があります。
 
-- **Q: Is there a time limit or a penalty for wrong moves?**
+- **Q: ヒントはありますか？**
 
-    - **A:** Many versions of Poly Art games include a hint system. If available, using a hint might slowly rotate the puzzle closer to the correct orientation or flash the final image for a second.
+    - **A:** バージョンによってはヒント機能があります。正しい向きに近づくように回転させたり、完成図を一瞬表示したりすることがあります。
   A: 通常いいえ。リラックスした自分のペースのゲームです。

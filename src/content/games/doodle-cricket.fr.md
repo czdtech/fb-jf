@@ -3,8 +3,8 @@ locale: fr
 urlstr: doodle-cricket
 title: 'Doodle Cricket'
 description: >-
-  Doodle Cricket is a casual cricket mini‑game: time your swings to score
-  runs while avoiding outs.
+  Doodle Cricket est un mini‑jeu de cricket casual : synchronise tes frappes pour
+  marquer des runs sans te faire éliminer.
 iframeSrc: 'https://f3.silvergames.com/m/doodle-cricket/'
 thumbnail: /new-images/doodle-cricket.jpg
 tags:
@@ -19,26 +19,31 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 ### Overview
-Google’s playable cricket doodle: batters time swings to send the ball past fielders while the bowler varies speed and type. Runs accumulate until you’re out.
+Le doodle cricket jouable de Google : tu joues le frappeur, tu synchronises tes
+swings pour envoyer la balle au‑delà des fielders, tandis que le bowler varie la
+vitesse et le type de lancer. Les runs s’accumulent jusqu’à ton élimination.
 
 ### How to Play
-- Tap/Click to swing as the ball arrives; aim for gaps to score 1–6 runs.
-- Watch bowler tells (slow/fast) and bounce; late swings tend to slice to off‑side.
-- Your innings ends on a catch or a bowled/lbw; chase a new high score.
+- Tape/clique pour frapper quand la balle arrive ; vise les gaps pour marquer
+  1–6 runs.
+- Observe les indices du bowler (lent/rapide) et le rebond ; une frappe tardive
+  part souvent côté off‑side.
+- Ton innings se termine sur un catch ou un bowled/LBW ; vise un nouveau record.
 
 ### Controls
-- Mouse/Touch: single tap/click to bat. Timing determines placement and power.
+- Souris/tactile : un tap/clic pour frapper. Le timing détermine le placement et
+  la puissance.
 
 ### Tips
-- Don’t pre‑swing—react to release and bounce.
-- Favor ground strokes early; go aerial only when gaps are clear.
-- Adjust to slower deliveries; wait a fraction longer.
+- Ne frappe pas trop tôt : réagis au relâchement et au rebond.
+- Privilégie les coups au sol ; ne lève la balle que si l’espace est clair.
+- Ajuste‑toi aux lancers lents : attends une fraction de seconde de plus.
 
 ### FAQ
-- Q: Can I hit 6s consistently?
-A: Yes, with late‑but‑clean contact when field is spread.
-- Q: Does difficulty ramp?
-A: Bowling speed/patterns vary as score increases.
-- Q: How is score saved?
-A: Typically local/session only.
+- Q: Peut‑on faire des 6 régulièrement ?
+A: Oui, avec un contact tardif mais propre, surtout quand le champ est étiré.
+- Q: Est‑ce que la difficulté augmente ?
+A: La vitesse et les patterns de lancers varient quand ton score monte.
+- Q: Comment le score est‑il sauvegardé ?
+A: En général, seulement en local/dans la session.
 

@@ -1,6 +1,6 @@
 ---
 title: Slope
-description: Slopeはエンドレス3Dランナーです。ボールを転がし、障害物を避け、できるだけ遠くに行き、反射神経の究極のテストをマスターします。
+description: Slopeはエンドレスの3Dランナーです。ボールを転がして障害物を避け、できるだけ長く生き残ります。
 iframeSrc: 'https://slope.h5games.usercontent.goog/v/3k9j5m8h7p2n8/'
 thumbnail: /new-images/slope.png
 urlstr: slope
@@ -15,15 +15,15 @@ locale: ja
 
 ### ゲーム紹介
 
-Slopeは、エンドレスの下り坂の3Dコースを通してボールを転がす中毒性のあるエンドレスランナーです。レッドブロックを避け、エッジから落ちないようにし、スピードが上がるにつれて生き残ります。シンプルなゲームプレイ、極端な挑戦。
+Slopeは、下り坂の3Dコースをボールで進むエンドレスランナーです。赤いブロックを避け、コースから落ちないようにしながら、加速するスピードに対応して進みます。操作はシンプルですが反応が問われます。
 
 ### ゲームプレイ戦略と攻略法
 
-1.  **先を見る:" 常に次の障害物をスキャンします。
-2.  **小さな調整:" 大きな移動は危険です。
-3.  **中央を保つ:" エッジに近すぎないようにします。
-4.  **リズムを見つける:" 安定した移動パターンを確立します。
-5.  **冷静を保つ:" パニックがクラッシュを引き起こします。
+1.  **先を見る:** 次の障害物を常に意識します。
+2.  **小さく調整:** 大きく振るほど事故につながります。
+3.  **中央を保つ:** 端に寄りすぎないようにします。
+4.  **リズムをつかむ:** 安定した左右移動で避けます。
+5.  **落ち着く:** 焦るほどクラッシュしやすくなります。
 
 ### 操作ガイド
 
@@ -41,9 +41,9 @@ Slopeは、エンドレスの下り坂の3Dコースを通してボールを転�
   A: 加速するスピードと障害物の配置が挑戦を作成します。
 
 
-**A**: "Slope" is an endless game that can theoretically continue indefinitely; the challenge is seeing how long you can survive.
+**A**: Slopeはエンドレス形式で、理論上はどこまでも続きます。どれだけ長く生き残れるかが挑戦になります。
 
-- **Q: Does the game have an ending?**
+- **Q: ゲームにエンディングはありますか？**
 
 
-**A**: "Slope" is an endless game that can theoretically continue indefinitely; the challenge is seeing how long you can survive.
+**A**: Slopeはエンドレス形式で、理論上はどこまでも続きます。どれだけ長く生き残れるかが挑戦になります。

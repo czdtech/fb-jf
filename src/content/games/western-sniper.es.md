@@ -16,11 +16,11 @@ score: 3.9/5  (1021 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
-### Game Introduction
+### Introducción del juego
 
 Western Sniper es un juego de disparos sencillo y directo ambientado en el lejano oeste. Desde posiciones seguras, apuntas y disparas a forajidos que se esconden detrás de barriles, ventanas y estructuras, aprovechando rebotes y explosiones para completar cada misión con el menor número de balas posible.
 
-### Gameplay Guide
+### Guía de juego
 
 - **Apunta con calma:** tómate un segundo para alinear bien la mira antes de disparar; un tiro certero suele valer más que varios fallidos.
 - **Utiliza el entorno:** dispara a barriles explosivos, cajas y superficies que permitan rebotes para alcanzar enemigos a cubierto.
@@ -28,22 +28,19 @@ Western Sniper es un juego de disparos sencillo y directo ambientado en el lejan
 - **Prioriza amenazas:** acaba primero con los enemigos que estén más cerca o que puedan dañarte antes.
 
 
-- Optional goals: Attempt only when the field is safe.
-### Controls Guide
+- **Objetivos opcionales:** inténtalos solo cuando el escenario esté bajo control.
+### Controles
 
 - Apunta moviendo el ratón o el dedo sobre la pantalla y toca/clic para disparar.
 
-### Frequently Asked Questions (FAQ)
+### Preguntas frecuentes (FAQ)
 
 
-- Q: I miss moving targets.
-**¿Hay mejoras de armas?**
+- **Q: Fallo los objetivos en movimiento.**
+  
+  **A:** Anticípate un poco y dispara cuando el balanceo sea mínimo; practica el ritmo entre disparos.
 
-
-- Q: Ammo runs out.
-En algunas versiones puedes desbloquear nuevas armas o mejorar estadísticas como daño o precisión, lo que facilita superar niveles avanzados.
-
-**¿Qué pasa si me quedo sin balas?**
-
-Si agotas la munición disponible y aún quedan enemigos, tendrás que reiniciar la misión y probar una estrategia distinta.
+- **Q: Me quedo sin munición.**
+  
+  **A:** No dispares a lo loco: apunta con calma y ahorra balas aprovechando explosivos y el entorno cuando puedas.
 

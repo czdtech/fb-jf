@@ -19,7 +19,7 @@ Stick Fightは、スティックマンキャラクターを使った激しい戦
 ### ゲームプレイガイド
 
 
-The objective in each round is to eliminate your opponents by knocking them out of the arena or depleting their health.
+各ラウンドの目的は、相手を場外に落とすか体力を削り切って倒すことです。
  - **戦闘：** 相手と戦ってステージをクリアします
  - **武器を使用：** さまざまな武器を拾って使用します
  - **生き残る：** 最後のスティックマンが立っているまで生き残ります
@@ -28,15 +28,15 @@ The objective in each round is to eliminate your opponents by knocking them out 
 ### 操作ガイド
 
 
-Controls are typically based on a standard 2D platformer layout:
+操作は一般的に2Dアクションの基本配置に近いです：
  - **矢印キー/WASD：** 移動とジャンプ
  - **マウス：** 狙いと攻撃
  - **キーボード：** 武器の選択と特別なアクション
 
 
-- **Block:** `Right Mouse Button` or `G`
+- **ガード：** `右クリック` または `G`
 
-- **Attack:** `Left Mouse Button` or `F`
+- **攻撃：** `左クリック` または `F`
 ### よくある質問（FAQ）
 
 **ゲームの目標は何ですか？**

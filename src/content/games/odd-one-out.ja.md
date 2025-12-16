@@ -1,6 +1,6 @@
 ---
 title: Odd One Out
-description: Odd One Outは観察パズルゲームです。異なるアイテムを見つけ、パターンを識別し、素早く考え、鋭い目をテストします。
+description: Odd One Outは観察パズルゲームです。並んだアイテムの中から異なるものを見つけ、違いを見抜きます。
 iframeSrc: 'https://oddoneout.h5games.usercontent.goog/v/3m5k7j9h2p8n8/'
 thumbnail: /new-images/odd-one-out.png
 urlstr: odd-one-out
@@ -40,5 +40,5 @@ Odd One Outは、アイテムのグループから異なるものを見つける
   A: 多くのレベルには時間制限があります。
 - **Q: 間違えた場合はどうなりますか？**  
 
-    - **A:** This can vary, but often these games are more about thinking and observation than speed.
+    - **A:** バージョンによって異なりますが、スピードよりも観察と見落としを減らすことが重要になることが多いです。
   A: 通常、時間ペナルティまたは即座の失敗。

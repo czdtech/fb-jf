@@ -26,25 +26,25 @@ Tower Crash 3Dは、ボールを落として回転する塔を破壊するシン
 ### 操作ガイド
 
 
-The controls are simple and intuitive.
+操作はシンプルで分かりやすいです。
  - **マウス/タッチ：** タップまたはクリックしてボールを落とす
 
 
-- **Fire:** Click the left mouse button or tap the screen to shoot a ball.
+- **発射：** 左クリック、または画面タップでボールを発射します。
 ### よくある質問（FAQ）
 
 
-- **A:** Wait for your cannon to load the color you need. The color of the ball in your cannon changes, so be patient and wait for the right color to target the tower's weakest point.
+- **A:** 砲台の弾の色が変わるタイプの場合は、狙いたい色になるまで待ちます。弱い部分や狙いたい色に合わせて撃つのがコツです。
 
-    - **Q: What is the best strategy if the tower is multi-colored?**
+    - **Q: タワーが多色のときのコツは？**
 
-- **A:** You win the level when the highest point of the remaining structure falls below the goal line indicated on the screen. You must do this before running out of cannonballs.
+- **A:** 残った構造物の最高地点が目標ラインより下に落ちるとクリアになります。弾が尽きる前に達成する必要があります。
 
-    - **Q: How do I complete a level?**
+    - **Q: レベルのクリア条件は？**
 
-- **A:** You must hit a block with a ball of the exact same color. If your ball is blue, it will only destroy blue blocks.
+- **A:** ブロックと同じ色の弾で当てる必要がある場合があります（例：青い弾は青いブロックだけ壊せます）。
 
-    - **Q: Why didn't the block break when I shot it?**
+    - **Q: 撃ったのに壊れないのはなぜ？**
 **ゲームの目標は何ですか？**
 
 黒い部分を避けながら、塔を完全に破壊することです。

@@ -37,18 +37,12 @@ Los controles son sencillos e intuitivos:
 
 ### Preguntas frecuentes (FAQ)
 
-*   **Q: ¿Cómo se gana la partida?**  
-    **A:** El objetivo principal es fusionar vagones hasta conseguir el coche "2048". Después, puedes seguir jugando para batir tu propia marca.
+*   **Q: ¿Cómo se gana la partida?**
+    *   **A:** El objetivo principal es fusionar vagones hasta conseguir el coche "2048". Después, puedes seguir jugando para batir tu propia marca.
 
-    - **Q: ¿Cómo se pierde?**  
-    **A:** Pierdes cuando la cuadrícula se llena por completo de vagones y ya no quedan movimientos ni fusiones posibles.
+*   **Q: ¿Cómo se pierde?**
+    *   **A:** Pierdes cuando la cuadrícula se llena por completo de vagones y ya no quedan movimientos ni fusiones posibles.
 
-*   **Q: Qué esquina es mejor para el vagón más alto?**  
-
-    - **A:** Any corner works, but consistency is key. Once you choose a corner (e.g., top-right), stick with it. Most players find a bottom corner slightly easier as it feels more natural to avoid swiping down.
-
-- **Q: Which corner is best for the highest car?**
-
-    - **A:** You lose when the entire grid is filled with train cars, and there are no possible moves or merges left.
-    **A:** Cualquier esquina sirve, siempre que seas constante. Una vez elijas una (por ejemplo, arriba a la derecha), mantente fiel a ella. Muchos jugadores prefieren una esquina inferior porque resulta más natural evitar deslizar hacia abajo.
+*   **Q: ¿Qué esquina es mejor para el vagón más alto?**
+    *   **A:** Cualquier esquina sirve, siempre que seas constante. Una vez elijas una (por ejemplo, arriba a la derecha), mantente fiel a ella. Muchos jugadores prefieren una esquina inferior porque resulta más natural evitar deslizar hacia abajo.
 

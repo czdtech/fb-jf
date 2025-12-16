@@ -24,31 +24,31 @@ Tic Tac Toeは、シンプルだが戦略的なクラシックボードゲーム
  - **戦略：** 先を読んで有利な位置を取ります
 
 
-- **First-Move Advantage**: As the first player, be aggressive; as the second player, focus on defense.
+- 先手有利：先手は攻めを意識し、後手は守りとブロックを重視します。
 ### 操作ガイド
 
  - **マウス：** マスをクリックして配置
 
 
-- **Observe Situation**: Carefully observe the current board state, looking for winning or blocking opportunities.
+- 状況確認：盤面を見て、勝ち筋やブロックすべき場所を探します。
 
-- **Take Turns**: Alternate moves with AI or other players.
+- 交互に手番：AIや他プレイヤーと交互に手を打ちます。
 ### よくある質問（FAQ）
 
 
-- **Q: Does the first player have an advantage?**
+- **Q: 先手は有利ですか？**
 **ゲームの目標は何ですか？**
 
 
-- **Q: Is there a guaranteed winning strategy?**
+- **Q: 必勝法はありますか？**
 縦、横、または斜めに3つのマークを先に揃えることです。
 
 
-- **Q: How can I improve my win rate?**
+- **Q: 勝率を上げるには？**
 **引き分けはありますか？**
 
 
-- **Q: Are there variant rules?**
+- **Q: ルールのバリエーションはありますか？**
 はい、すべてのマスが埋まって誰も勝てない場合は引き分けです。
 
 **戦略はありますか？**

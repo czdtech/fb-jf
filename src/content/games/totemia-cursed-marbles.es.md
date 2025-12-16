@@ -3,7 +3,7 @@ locale: es
 urlstr: totemia-cursed-marbles
 title: 'Totemia: Cursed Marbles - Dispara y rompe la cadena'
 description: >-
-  Un clásico rompecabezas de disparar canicas. Lanza bolas desde tu tótem tiki,
+  Un puzle clásico de disparar canicas. Lanza bolas desde tu tótem tiki,
   forma grupos de tres o más del mismo color y destruye toda la cadena antes de
   que llegue al final del recorrido.
 iframeSrc: 'https://totemiacursed.h5games.usercontent.goog/v/2hs7lfvsisr48/'
@@ -35,18 +35,12 @@ Totemia: Cursed Marbles es un trepidante juego de acción y puzles al estilo de 
 
 ### Preguntas frecuentes (FAQ)
 
-*   **Q: ¿Cuál es el objetivo del juego?**  
-    **A:** Destruir todas las canicas de la cadena antes de que cualquiera de ellas llegue al agujero al final del camino.
+*   **Q: ¿Cuál es el objetivo del juego?**
+    *   **A:** Destruir todas las canicas de la cadena antes de que cualquiera de ellas llegue al agujero al final del camino.
 
-    - **Q: ¿Qué pasa si una canica alcanza el final?**  
-    **A:** Pierdes el nivel y tendrás que intentarlo de nuevo.
+*   **Q: ¿Qué pasa si una canica alcanza el final?**
+    *   **A:** Pierdes el nivel y tendrás que intentarlo de nuevo.
 
-*   **Q: Cómo consigo la máxima puntuación?**  
-
-    - **A:** By creating long chain reactions and combos. The more marbles you can pop in quick succession, the higher your score multiplier will be. Also, finishing the level quickly often provides a time bonus.
-
-- **Q: How do I get the highest score?**
-
-    - **A:** You will lose the level and have to start again.
-    **A:** Encadenando reacciones y combos. Cuantas más explosiones provoques seguidas, mayor será el multiplicador de puntos. Terminar rápido también suele otorgar bonificaciones de tiempo.
+*   **Q: ¿Cómo consigo la máxima puntuación?**
+    *   **A:** Encadenando reacciones y combos. Cuantas más canicas hagas estallar seguidas, mayor será el multiplicador de puntos. Terminar rápido también suele otorgar bonificaciones de tiempo.
 

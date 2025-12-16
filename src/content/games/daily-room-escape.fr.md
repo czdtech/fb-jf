@@ -50,14 +50,14 @@ quotidienne.
 ### Foire aux questions (FAQ)
 
 
-- Q: A code won’t work — bug?
+- Q: Un code ne marche pas — bug ?
 **Q : Puis‑je rejouer une ancienne salle ?**  
 
-- Q: Items don’t combine?
+- Q: Les objets ne se combinent pas ?
 R : Selon le site, un menu peut permettre de rejouer les niveaux précédents.
 
 
-- Q: Too dark to see?
+- Q: Trop sombre pour voir ?
 **Q : Les énigmes sont‑elles très difficiles ?**  
 R : Elles sont en général de difficulté moyenne, conçues pour être résolues en
 quelques minutes.

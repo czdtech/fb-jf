@@ -26,7 +26,7 @@ Tennisは、クラシックなテニスをデジタル化したアーケード�
 ### 操作ガイド
 
 
-Controls are designed to be simple and intuitive:
+操作はシンプルで分かりやすい設計です：
  - **矢印キー/WASD：** 移動
  - **スペースバー：** ボールを打つ
 

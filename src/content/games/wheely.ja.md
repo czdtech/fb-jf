@@ -19,7 +19,7 @@ Wheelyは、可愛い赤い車が主人公のパズルアドベンチャーゲ�
 ### ゲームプレイガイド
 
 
-The core gameplay involves observing the scene and figuring out the correct sequence of interactions to help Wheely progress.
+基本は場面を観察し、正しい手順で仕掛けを動かしてWheelyを先に進めます。
  - **パズルを解く：** 環境と相互作用してパズルを解きます
  - **障害物を取り除く：** Wheelyの道をクリアします
  - **ゴールに到達：** 各レベルのゴールまで導きます
@@ -30,16 +30,16 @@ The core gameplay involves observing the scene and figuring out the correct sequ
  - **マウス：** オブジェクトをクリックして相互作用
 
 
-    - **Drag/Rotate:** Some puzzles may require clicking and dragging or rotating certain elements.
+    - **ドラッグ/回転：** パズルによっては、要素をドラッグしたり回転させたりする必要があります。
 
-    - **Click on Wheely:** Click Wheely to start or stop his movement.
+    - **Wheelyをクリック：** Wheelyをクリックして、動きの開始/停止を切り替えます。
 
-    - **Click:** Click on objects to activate them.
+    - **クリック：** オブジェクトをクリックして作動させます。
 ### よくある質問（FAQ）
 
 **ゲームの目標は何ですか？**
 
-パズルを解いてWhe elyをゴールまで導くことです。
+パズルを解いてWheelyをゴールまで導くことです。
 
 **難易度は高いですか？**
 

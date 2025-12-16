@@ -14,63 +14,39 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
-### Présentation du jeu
+### **Game Introduction**
 
-Dans Color Burst 3D, tu contrôles une petite balle qui avance au centre de
-l’écran et traverse des anneaux ou obstacles colorés. La règle est simple :
-**tu ne peux passer que par la partie de l’anneau qui correspond à la couleur
-actuelle de ta balle**.
+*Color Burst 3D* est un jeu d’arcade rapide qui met tes réflexes et ton timing à l’épreuve. L’objectif est de **guider une balle colorée qui avance en continu à travers des anneaux rotatifs multicolores.**
 
-Après chaque passage réussi, la couleur de la balle peut changer, ce qui
-oblige à t’adapter en permanence. Plus tu restes en vie, plus la vitesse
-augmente et plus les patterns deviennent complexes.
+Pour réussir à traverser chaque anneau, tu dois manœuvrer la balle afin qu’elle **ne touche que le segment dont la couleur correspond à sa couleur actuelle**. Toucher une autre couleur provoque un game over immédiat.
 
-### Guide de jeu
+Au fil de la partie, la vitesse augmente, les anneaux tournent plus vite et les motifs deviennent plus complexes. La balle change souvent de couleur après un passage, ce qui t’oblige à t’adapter instantanément. Le but est de survivre le plus longtemps possible et de franchir un maximum d’anneaux.
 
-1.  **Lis l’obstacle à l’avance**  
-    Regarde la position des segments de couleur et la direction de rotation de
-    l’anneau avant que ta balle n’arrive dessus. Ne te focalise pas uniquement
-    sur la zone proche.
-2.  **Fais de petits ajustements**  
-    La balle réagit vite : privilégie des mouvements courts et précis plutôt que
-    de grands balayages qui risquent de t’envoyer sur la mauvaise couleur.
-3.  **Anticipe la rotation**  
-    Ne vise pas où se trouve le bon segment **maintenant**, mais là où il sera
-    quand ta balle atteindra l’anneau. Observe la vitesse de rotation pour
-    caler ton mouvement.
-4.  **Reviens au centre entre deux anneaux**  
-    Quand c’est possible, recentre ta balle entre deux obstacles. Tu auras plus
-    de marge pour corriger ta trajectoire au prochain anneau.
-5.  **Adapte‑toi aux changements de couleur**  
+### **Gameplay Strategy & Tips**
 
-- **Focus on the Gap**: Sometimes it's easier to focus on the "gap" you're aiming for rather than the entire rotating object. Keep your eyes on the prize—the single colored segment you need to hit.
-    Dès que ta balle change de couleur, actualise immédiatement ta cible pour
-    le prochain obstacle. C’est ce changement permanent qui fait le cœur du
-    challenge.
+1.  **Le timing est essentiel** : anticipe la rotation et synchronise l’entrée de la balle sur le bon segment.
+2.  **Petits mouvements précis** : évite les grands balayages, privilégie des ajustements courts et contrôlés.
+3.  **Anticipe la rotation** : vise l’endroit où sera le segment quand la balle arrive, pas où il est maintenant.
+4.  **Reste centré si possible** : entre deux anneaux, reviens vers le centre pour garder de la marge.
+5.  **Réagis immédiatement au changement de couleur** : dès que la balle change, change aussi ta cible.
+6.  **Vise l’ouverture** : concentre‑toi sur le « passage » à atteindre (le segment de la bonne couleur) plutôt que sur tout l’anneau.
 
-### Commandes
+### **Controls Guide**
 
-- **Déplacer la balle** : fais glisser ton doigt ou ta souris horizontalement
-  pour faire bouger la balle de gauche à droite.  
-- **Pause / Rejouer** : utilise les boutons de l’interface pour interrompre la
-  partie ou la relancer.
+Comme indiqué dans le tutoriel, les contrôles sont très simples et pensés pour du one‑touch.
 
-### Foire aux questions (FAQ)
+*   **Déplacer la balle** : **touche et glisse** ton doigt (ou la souris) de gauche à droite sur le curseur en bas pour ajuster la position horizontale de la balle.
 
-**1. Que se passe‑t‑il si je touche la mauvaise couleur ?**  
-R : La partie se termine immédiatement et tu dois recommencer depuis le début
-ou la dernière zone de checkpoint si le jeu en propose.
+### **Frequently Asked questions (FAQ)**
 
-**2. La balle change‑t‑elle toujours de couleur ?**  
-R : Dans la plupart des variantes, oui : après avoir traversé un anneau ou un
-bonus de changement de couleur, la teinte de la balle se met à jour. Il faut
-rester en alerte.
+**1. Que se passe‑t‑il si je touche la mauvaise couleur ?**
+La partie se termine immédiatement et tu dois recommencer. La règle de base est de ne toucher que la couleur qui correspond à ta balle.
 
-**3. Comment faire un gros score ?**  
-R : Plus tu passes d’anneaux sans te tromper, plus ton score monte. Rester
-concentré sur le long terme et éviter les erreurs bêtes vaut mieux que tenter
-des mouvements spectaculaires.
+**2. La balle change‑t‑elle toujours de couleur ?**
+Oui, dans la plupart des variantes, la balle change de couleur après un passage réussi ou via une icône de changement. Il faut toujours rester prêt à t’adapter.
 
-**4. Le jeu est‑il infini ?**  
-R : Color Burst 3D est généralement conçu comme un runner sans fin. Le but est
-surtout de battre ton meilleur score ou celui de tes amis.
+**3. Comment obtenir un gros score ?**
+Le score dépend du nombre d’anneaux franchis. Plus tu survis longtemps, plus tu marques.
+
+**4. Le jeu est‑il infini ?**
+Oui, *Color Burst 3D* est conçu comme un jeu d’arcade sans fin. L’objectif est de battre ton meilleur score, pas d’atteindre une fin.

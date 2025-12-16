@@ -28,23 +28,23 @@ Super Bowling Maniaは、リアルなボウリング体験を提供するアー�
  - **マウス：** 狙いと力の調整、投げる
 
 
-- **Spin/Curve:** While the ball is rolling, you may be able to move the mouse to influence its curve.
+- **スピン/カーブ：** ボールが転がっている間にマウスを動かすと、曲がり具合を調整できる場合があります。
 
-- **Power and Release:** Click and hold the mouse button to start the power meter. Release the button at the desired power level to throw the ball.
+- **パワーとリリース：** マウスボタンを押し続けてパワーメーターを開始し、狙った強さで離して投げます。
 ### よくある質問（FAQ）
 
 
-- **A:** The key to getting strikes is consistency. Find a starting position, power level, and spin that works for you and try to replicate it. Aiming for the "pocket" just to the side of the head pin is generally the most effective strategy.
+- **A:** ストライクのコツは再現性です。立ち位置、パワー、スピンを固定し、毎回同じように投げられるようにします。先頭ピンの少し横（ポケット）を狙うのが一般的に有効です。
 
-    - **Q: How do I get more strikes?**
+    - **Q: ストライクを増やすには？**
 
-- **A:** A perfect game is a score of 300, which is achieved by bowling 12 strikes in a row in a single game.
+- **A:** パーフェクトゲームはスコア300で、1ゲーム内で12回連続ストライクを達成すると到達します。
 
-    - **Q: What is a perfect game?**
+    - **Q: パーフェクトゲームとは？**
 
-- **A:** A game consists of 10 frames. A strike (all 10 pins on the first ball) gives you 10 points plus a bonus of the pins knocked down on your next two balls. A spare (all 10 pins in two balls) gives you 10 points plus a bonus of the pins from your next one ball.
+- **A:** 1ゲームは10フレームです。ストライク（1投で10本すべて）なら10点＋次の2投の倒したピン数がボーナスになります。スペア（2投で10本）なら10点＋次の1投の倒したピン数がボーナスになります。
 
-    - **Q: How is bowling scored?**
+    - **Q: ボウリングの採点方法は？**
 **ゲームの目標は何ですか？**
 
 できるだけ多くのピンを倒してハイスコアを獲得することです。

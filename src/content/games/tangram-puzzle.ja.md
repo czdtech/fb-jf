@@ -24,7 +24,7 @@ Tangram Puzzleは、7つの幾何学的ピース（タングラム）を使っ�
  - **完成：** すべてのピースを使って完璧な形を作ります
 
 
-- Reflection rules: If reflections are banned, rotate alternatives to simulate flips.
+- 反転の扱い：反転が禁止されている場合は、回転で近い形を作れるか試します。
 ### 操作ガイド
 
  - **マウス：** ピースをドラッグして移動と回転
@@ -32,11 +32,11 @@ Tangram Puzzleは、7つの幾何学的ピース（タングラム）を使っ�
 ### よくある質問（FAQ）
 
 
-- Q: One gap remains no matter what.
+- Q: どうしても隙間が残ります。
 **ゲームの目標は何ですか？**
 
 
-- Q: Are flips legal?
+- Q: 反転（裏返し）はOKですか？
 7つのタングラムピースを使って指定された形を作ることです。
 
 **すべてのピースを使う必要がありますか？**

@@ -26,23 +26,23 @@ Tiles of Egyptは、古代エジプトをテーマにした美しいタイルマ
 ### 操作ガイド
 
 
-The game is played with simple clicks or taps.
+操作はクリック/タップ中心で進められます。
  - **マウス：** タイルをクリックして選択
 
 ### よくある質問（FAQ）
 
 
-- **A:** If all the slots in your tray are filled and you cannot make a match of three, you are blocked and will lose the game. You must then restart the level.
+- **A:** 手詰まりになった場合は、レベルをやり直すことになります（ルールはバージョンによって異なります）。
 
-    - **Q: What happens if my collection tray is full?**
+    - **Q: 手詰まりになったらどうなりますか？**
 
-- **A:** You can only select tiles that are on the top-most layer and are not covered by any other tile. You must clear the tiles above to access the ones below.
+- **A:** タイルが選べない場合は、他のタイルに覆われている、またはパス条件を満たしていない可能性があります。
 
-    - **Q: Why can't I click on a tile?**
+    - **Q: なぜタイルをクリックできませんか？**
 
-- **A:** To clear all the tiles from the board by collecting them in sets of three in your tray.
+- **A:** 同じタイルをペアで消して、ボード上のタイルをすべて消すことです。
 
-    - **Q: What is the goal of the game?**
+    - **Q: ゲームの目的は何ですか？**
 **ゲームの目標は何ですか？**
 
 同じタイルのペアを見つけて、すべてのタイルを消すことです。

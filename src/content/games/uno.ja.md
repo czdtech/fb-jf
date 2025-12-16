@@ -24,33 +24,33 @@ UNOは、世界中で愛されているクラシックなカードゲームで�
  - **勝利：** 先に手札をなくした人が勝ちです
 
 
-- **UNO Declaration**: Remember to shout "UNO" when you have one card left, or face penalty cards.
+- **UNO宣言：** 残り1枚になったら「UNO」を宣言しないと、ペナルティになる場合があります。
 ### 操作ガイド
 
  - **マウス：** カードをクリックして出す
 
 
-- **UNO Button**: Click the UNO button to declare when you have one card remaining.
+- **UNOボタン：** 残り1枚になったら、UNOボタンで宣言します。
 
-- **Choose Color**: Select the next color after playing a wild card.
+- **色を選ぶ：** ワイルドカードの後、次の色を選びます。
 
-- **Draw Cards**: Click the deck to draw when you can't play any cards.
+- **ドロー：** 出せるカードがないときは、山札をクリックして引きます。
 ### よくある質問（FAQ）
 
 
-- **Q: When do I need to shout UNO?**
+- **Q: いつUNOを宣言しますか？**
 **ゲームの目標は何ですか？**
 
 
-- **Q: When is the best time to use wild cards?**
+- **Q: ワイルドカードはいつ使うべきですか？**
 先に手札をすべてなくすことです。
 
 
-- **Q: What happens if I forget to shout UNO?**
+- **Q: UNOを言い忘れるとどうなりますか？**
 **特殊カードは何がありますか？**
 
 
-- **Q: Can I play multiple identical cards in succession?**
+- **Q: 同じカードを連続で出せますか？**
 スキップ、リバース、ドロー2、ドロー4、ワイルドカードがあります。
 
 **UNOを言い忘れたらどうなりますか？**

@@ -3,8 +3,8 @@ locale: fr
 urlstr: duck-life-4
 title: 'Duck Life 4'
 description: >-
-  Duck Life 4 is a training and racing sim: build your duck’s stats in
-  mini‑games and win tournaments.
+  Duck Life 4 est un jeu d’entraînement et de course : développe les stats de ton
+  canard via des mini‑jeux et gagne des tournois.
 iframeSrc: 'https://webglmath.github.io/ducklife-4/'
 thumbnail: /new-images/duck-life-4.jpg
 tags:
@@ -19,26 +19,31 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 ### Overview
-Train a racing duck across mini‑games (running, swimming, flying, climbing), then enter regional tournaments. Energy controls stamina; hats and evolutions change looks.
+Entraîne un canard de course via des mini‑jeux (course, natation, vol, escalade),
+puis participe à des tournois régionaux. L’énergie sert d’endurance ; chapeaux et
+évolutions changent surtout l’apparence.
 
 ### How to Play
-- Improve each stat via its training mini‑game; avoid obstacles to gain XP quickly.
-- Feed seeds to raise energy; low energy reduces race endurance.
-- Win qualifying heats to unlock new areas and tournaments.
+- Améliore chaque stat via son mini‑jeu d’entraînement ; évite les obstacles pour
+  gagner de l’XP plus vite.
+- Nourris‑le avec des graines pour augmenter l’énergie ; une énergie basse réduit
+  l’endurance en course.
+- Gagne les courses qualificatives pour débloquer de nouvelles zones et tournois.
 
 ### Controls
-- Arrows/Mouse depending on mini‑game; Space to jump in runners (host dependent).
+- Flèches/souris selon le mini‑jeu ; Espace pour sauter dans les runners (selon
+  l’hébergeur).
 
 ### Tips
-- Rotate training so no single stat bottlenecks a race.
-- Keep energy topped off before tournaments.
-- Re‑run earlier tracks to grind safe XP if stuck.
+- Alterne les entraînements pour éviter qu’une stat ne bloque une course.
+- Remplis l’énergie avant les tournois.
+- Rejoue les entraînements précédents pour gagner de l’XP “sûre” si tu bloques.
 
 ### FAQ
-- Q: Do cosmetics affect speed?
-A: Hats are cosmetic; progression comes from stats and energy.
-- Q: Can I respec?
-A: No—just keep training the needed stat.
-- Q: Why am I losing photo‑finish races?
-A: Usually low energy or one stat (e.g., climbing) is behind.
+- Q: Les cosmétiques influencent‑ils la vitesse ?
+A: Les chapeaux sont cosmétiques ; la progression vient des stats et de l’énergie.
+- Q: Peut‑on “respec” ?
+A: Non : il faut simplement entraîner la stat dont tu as besoin.
+- Q: Pourquoi je perds au photo‑finish ?
+A: Souvent à cause d’une énergie trop basse ou d’une stat en retard (ex. escalade).
 

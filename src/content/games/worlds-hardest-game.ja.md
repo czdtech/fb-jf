@@ -24,32 +24,32 @@ World's Hardest Gameは、その名の通り非常に難しいスキルベース
  - **ゴールに到達：** 緑のゾーンに到達します
 
 
-- **Stay Calm**: Failure is normal; stay calm and learn from mistakes.
+- **落ち着く：** 失敗は普通なので、落ち着いてミスから学びます。
 ### 操作ガイド
 
  - **矢印キー：** 上下左右に移動
 
 
-- **Pause and Think**: Stop in safe areas to plan the next move.
+- **立ち止まって考える：** 安全地帯でいったん止まり、次の一手を考えます。
 
-- **Precise Positioning**: Can make pixel-perfect precise movements to avoid obstacles.
+- **正確に動かす：** 小さな動きで隙間を抜けるなど、細かい操作が必要になります。
 ### よくある質問（FAQ）
 
 
-- **Q: Why is it called the World's Hardest Game?**
+- **Q: なぜ「World's Hardest Game」と呼ばれるのですか？**
 **なぜこんなに難しいのですか？**
 
 
-- **Q: How many levels are there?**
+- **Q: 何レベルありますか？**
 完璧なタイミングと精密な操作が必要だからです。
 
 
-- **Q: Can I save progress?**
+- **Q: 進行状況は保存できますか？**
 **チェックポイントはありますか？**
 
 
-- **Q: Are there any tips for completion?**
-いい え、ミスすると最初からやり直しです。
+- **Q: クリアのコツはありますか？**
+いいえ、ミスすると最初からやり直しです。
 
 **何レベルありますか？**
 

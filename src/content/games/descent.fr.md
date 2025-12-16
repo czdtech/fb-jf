@@ -43,25 +43,30 @@ Plus tu descends, plus la vitesse augmente et plus les obstacles se compliquent.
   gauche/droite.  
 - **Pause / Rejouer** : via les boutons d’interface.
 
+### Conseils et stratégies
+
+
+- Q: Mode infini ou niveaux — comment ça marche ?
+
+
+- Profite des moments où tu t’accroches au mur pour repérer les deux écrans
+  suivants.
+
+- Saute plus tôt pour un déplacement latéral plus long ; plus tard pour un saut
+  court et plus vertical.
 ### Foire aux questions (FAQ)
 
+- Profite des moments où tu t’accroches au mur pour repérer les deux écrans
+  suivants.
 
-- Q: Is progress endless or level‑based?
+- Saute plus tôt pour un déplacement latéral plus long ; plus tard pour un saut
+  court et plus vertical.
 
-
-- Use wall‑cling moments to scout the next two screens ahead.
-
-- Jump earlier for longer lateral travel; later for short, steep hops.
-### Foire aux questions (FAQ)
-
-- Use wall‑cling moments to scout the next two screens ahead.
-
-- Jump earlier for longer lateral travel; later for short, steep hops.
-
-- Don’t rush: small delays often desync hazards and create openings.
+- Ne te précipite pas : de petits délais désynchronisent souvent les pièges et
+  créent des ouvertures.
 **Q : Le jeu a‑t‑il des niveaux ou est‑il infini ?**  
 
-- Q: Are there power‑ups?
+- Q: Y a‑t‑il des bonus (power‑ups) ?
 R : La plupart des versions sont de type endless, avec une difficulté croissante
 et un score basé sur la profondeur atteinte.
 

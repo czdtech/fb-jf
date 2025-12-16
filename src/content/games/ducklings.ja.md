@@ -36,14 +36,9 @@ locale: ja
 
 ### よくある質問 (FAQ)
 
-*   **Q: 時間制限はありますか？**
-
-A: Typically no—play at your pace.
-- **A:** 基本的にはありません。自分のペースでゆったり楽しめます。
-
-
-A: Losing followers to collisions reduces haul; the nest is safe.
-*   **Q: ゲームオーバーはありますか？**
-
-A: Some hosts add boosts or cosmetics; core loop is rescuing and banking.
-    *   **A:** 自分がボートに轢かれるとゲームオーバーになる場合がありますが、基本的にはペナルティは子アヒルを失うことだけです。
+- Q: 時間制限はありますか？  
+  A: 基本的にはありません。自分のペースでゆったり楽しめます。
+- Q: 何が起きると失敗になりますか？  
+  A: ボートに当たると連れている子アヒルが散ってしまい、回収効率が落ちます。巣に戻れば安全にカウントできます。
+- Q: パワーアップはありますか？  
+  A: ホストによってはブーストやコスメが追加されることがありますが、基本は「救出して巣に預ける」ループです。

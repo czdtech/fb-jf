@@ -1,6 +1,6 @@
 ---
 title: Pirates Match 3
-description: Pirates Match 3は海賊マッチ3ゲームです。宝石をマッチし、パワーアップを作成し、レベルをクリアし、海賊の宝を獲得します。
+description: Pirates Match 3は海賊テーマのマッチ3パズルです。宝石をそろえて消し、パワーアップを作りながら目標達成を目指します。
 iframeSrc: 'https://piratesmatch3.h5games.usercontent.goog/v/3k9j5m8h7p2n8/'
 thumbnail: /new-images/pirates-match-3.png
 urlstr: pirates-match-3
@@ -26,13 +26,13 @@ Pirates Match 3は、海賊の冒険をテーマにしたマッチ3パズルで�
 5.  **下から作業:** カスケード効果を作成します。
 
 
-- **Plan Your Moves:** With a limited number of moves per level, every swap counts. Look for moves that will create a cascade or set up a future power-up combination.
+- **手数を意識**: 手数制限があるため、1回の入れ替えが重要です。連鎖が起きる手や、次のパワーアップにつながる手を探します。
 
-- **Focus on the Objective:** Always be aware of the level's goal. If you need to break all the wooden planks in the background, focus your matches on those specific tiles. If you need to drop an item to the bottom, clear the path beneath it.
+- **目標に集中**: レベルの目標を常に意識します。背景の板を壊す必要があるなら該当マスでマッチを作り、アイテムを下に落とす必要があるなら下の道を先に開けます。
 ### 操作ガイド
 
 
-The game is played with simple mouse or touch controls.
+マウス操作、またはタップのシンプルな操作で遊べます。
 - 宝石をドラッグまたはクリック/タップしてスワップします。
 - 3つ以上をマッチしてポップします。
 - レベル目標を完了します。
@@ -45,9 +45,9 @@ The game is played with simple mouse or touch controls.
   A: 2つのカラーボムを一緒に = 巨大クリア。
 - **Q: どれくらいのレベルがありますか？**  
 
-    - **A:** If you fail to complete the level's objective before running out of moves, you will have to restart the level.
+    - **A:** バージョンによっては数百のレベルがあり、進むほど目標や配置が複雑になります。
 
-- **Q: What happens if I run out of moves?**
+- **Q: 移動回数がなくなるとどうなりますか？**
 
-    - **A:** Swapping two "Match 5 in a line" power-ups is usually the most powerful, as it clears the entire board. A bomb combined with a line-clearer is also extremely effective.
+    - **A:** 移動回数が尽きる前に目標を達成できない場合、そのレベルは最初からやり直しになります。
   A: バージョンによって異なります。多くは数百。

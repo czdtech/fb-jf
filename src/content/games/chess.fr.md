@@ -21,17 +21,17 @@ Les échecs sont un jeu de stratégie à deux joueurs joué sur un échiquier de
 8×8 cases alternant clair et foncé. Chaque camp dispose de 16 pièces : un roi,
 une dame, deux tours, deux fous, deux cavaliers et huit pions. Le but est de
 
-- **The Pawn:** Moves forward one square, but captures diagonally one square forward. On its first move, a pawn has the option to move two squares forward. Pawns cannot move or capture backward. Pawns also have special moves: *En Passant* and *Promotion*.
+- **Le pion :** avance d’une case vers l’avant, mais capture d’une case en diagonale vers l’avant. Au premier coup, il peut avancer de deux cases. Il ne recule jamais. Règles spéciales : *prise en passant* et *promotion*.
 
-- **The Knight:** Moves in an 'L' shape: two squares in a horizontal or vertical direction, then one square perpendicular to that. The knight is the only piece that can jump over other pieces.
+- **Le cavalier :** se déplace en « L » (deux cases dans une direction, puis une case perpendiculaire). C’est la seule pièce qui peut sauter par‑dessus les autres.
 
-- **The Bishop:** Moves any number of vacant squares diagonally. Each bishop starts on a single color (light or dark) and remains on that color for the entire game.
+- **Le fou :** se déplace d’un nombre quelconque de cases en diagonale. Il reste toute la partie sur la même couleur de cases.
 
-- **The Rook:** Moves any number of vacant squares horizontally or vertically.
+- **La tour :** se déplace d’un nombre quelconque de cases horizontalement ou verticalement.
 
-- **The Queen:** The most powerful piece. It can move any number of vacant squares in any direction (horizontally, vertically, or diagonally).
+- **La dame :** la pièce la plus puissante. Elle se déplace d’un nombre quelconque de cases dans n’importe quelle direction (horizontale, verticale ou diagonale).
 
-- **The King:** Moves one square in any direction (horizontally, vertically, or diagonally). The king is the most important piece but also one of the weakest.
+- **Le roi :** se déplace d’une case dans n’importe quelle direction. C’est la pièce la plus importante, mais aussi l’une des plus fragiles.
 mettre le roi adverse en **échec et mat**.
 
 Un mat survient lorsque le roi est attaqué (en échec) et qu’aucun coup légal ne
@@ -63,11 +63,11 @@ les plus connus au monde.
 #### Stratégie de base
 
 
-- **Castle Early:** Castling is a special move that gets your king to safety and develops one of your rooks. It's a crucial part of the opening.
+- **Roque tôt :** le roque met ton roi à l’abri et développe une tour. C’est souvent une priorité dans l’ouverture.
 
-- **Develop Your Pieces:** Move your knights and bishops out from their starting squares to active positions. A good rule of thumb is to move knights before bishops.
+- **Développe tes pièces :** sors tes cavaliers et tes fous de leurs cases de départ vers des cases actives. Une règle simple : développe souvent les cavaliers avant les fous.
 
-- **Control the Center:** The central squares (d4, e4, d5, e5) are the most important. Pieces in the center control more of the board and have greater mobility.
+- **Contrôle le centre :** les cases centrales (d4, e4, d5, e5) sont clés. Une pièce au centre contrôle plus de cases et a plus de mobilité.
 #### Principes d’ouverture
 
 1.  **Contrôle du centre**  
@@ -79,11 +79,11 @@ les plus connus au monde.
     raison.
     - **Roque tôt**  
 
-    - **Always Think About Your Opponent's Move:** After your opponent moves, ask yourself: "What is their plan? What are they threatening?"
+    - **Pense au coup adverse :** après chaque coup de l’adversaire, demande‑toi : « Quel est son plan ? Qu’est‑ce qu’il menace ? »
 
-    - **Skewer:** An attack on a valuable piece that, when it moves, exposes a less valuable piece behind it to capture.
+    - **Enfilade :** tu attaques d’abord une pièce de grande valeur qui, en bougeant, laisse une pièce moins importante en prise derrière.
 
-- **Pin:** An attack on a piece that cannot move without exposing a more valuable piece behind it.
+- **Clouage :** tu attaques une pièce qui ne peut pas bouger sans exposer une pièce plus importante derrière elle.
     Le roque met ton roi à l’abri derrière un mur de pions et active une tour.
     C’est souvent une priorité dans les premiers coups.
 
@@ -113,11 +113,11 @@ les plus connus au monde.
     repousser ceux de l’adversaire.
 2.  **Promotion des pions**  
 
-    - **Castling:** To castle, you simply move your king two squares towards the rook you are castling with. The rook will automatically move to its correct position.
+    - **Roque :** pour roquer, déplace simplement ton roi de deux cases vers la tour. La tour se placera automatiquement au bon endroit.
 
-    - **Click and Click:** Click a piece to select it (legal moves are often highlighted), then click the destination square to move it.
+    - **Cliquer puis cliquer :** clique sur une pièce pour la sélectionner (les coups légaux sont souvent surlignés), puis clique sur la case de destination.
 
-- **Click and Drag:** Click and hold a piece, drag it to the desired legal square, and release.
+- **Cliquer‑glisser :** clique et maintiens une pièce, fais‑la glisser vers une case légale, puis relâche.
     L’un des objectifs majeurs en finale est de faire avancer un pion jusqu’à
     la dernière rangée pour le promouvoir en dame. Un **pion passé** (sans pion
     adverse devant lui sur la même colonne ou les colonnes voisines) est une
@@ -133,27 +133,27 @@ Dans une version en ligne ou sur mobile, les contrôles restent très simples :
   automatiquement de l’autre côté du roi.
 
 
-> Yes, the king can capture an opponent's piece by moving onto its square, just like any other piece. However, a king can never move into a square that is attacked by an opponent's piece (moving into check).
+> Oui. Le roi peut capturer une pièce adverse en se déplaçant sur sa case, comme les autres pièces. En revanche, il ne peut jamais aller sur une case contrôlée par une pièce adverse (se mettre en échec).
 
-**4. Can the King capture pieces?**
+**4. Le roi peut‑il capturer des pièces ?**
 
-> *En Passant* ("in passing" in French) is a special pawn capture. It can only occur immediately after an opponent's pawn moves two squares forward from its starting position, landing right beside your pawn. You can then capture that pawn as if it had only moved one square. This special capture must be done on the very next turn.
+> La *prise en passant* est une capture spéciale du pion. Elle ne peut avoir lieu qu’immédiatement après qu’un pion adverse a avancé de deux cases depuis sa case de départ et s’est retrouvé à côté de ton pion. Tu peux alors le capturer comme s’il n’avait avancé que d’une case, et uniquement au coup suivant.
 
-**3. What is "En Passant"?**
+**3. Qu’est‑ce que la prise en passant ?**
 
-> 4.  The king is not currently in check, does not pass through a square that is under attack, and does not land on a square that is under attack.
+> 4.  Le roi n’est pas en échec, ne traverse pas et n’atterrit pas sur une case attaquée.
 
-> 3.  There are no pieces between the king and the rook.
+> 3.  Aucune pièce ne se trouve entre le roi et la tour.
 
-> 2.  It is that rook's very first move.
+> 2.  C’est le tout premier coup de cette tour.
 
-> 1.  It is that king's very first move.
+> 1.  C’est le tout premier coup de ce roi.
 
-> You can only castle if all of the following conditions are met:
+> Tu peux roquer uniquement si toutes les conditions suivantes sont réunies :
 
-**2. What are the rules for Castling?**
+**2. Quelles sont les règles du roque ?**
 
-> - **Stalemate** is a draw. It occurs when a player is *not* in check, but has no legal moves to make. The game ends in a tie.
+> - Le **pat** est une nulle. Il survient quand le joueur n’est *pas* en échec mais n’a aucun coup légal ; la partie se termine sur une égalité.
 ### Foire aux questions (FAQ)
 
 **1. Quelle différence entre échec et mat, et pat ?**  

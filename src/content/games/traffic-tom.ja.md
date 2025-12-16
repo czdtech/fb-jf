@@ -32,17 +32,17 @@ Traffic Tomは、忙しい道路を横断するタイミングゲームです。
 ### よくある質問（FAQ）
 
 
-- **A:** Besides upgrading your bike's top speed, some levels may feature boost pads on the road that give you a temporary burst of speed when you drive over them.
+- **A:** 多くの場合、移動速度自体は固定です。焦らず車の流れを見て、安全に渡れる隙を作るのがコツです。
 
-    - **Q: Is there a way to go faster?**
+    - **Q: もっと速く進む方法はありますか？**
 
-- **A:** You can purchase new bikes from the in-game garage using the coins you collect during your runs and for completing missions.
+- **A:** バージョンによっては、集めたコインで見た目の変更や要素の解放ができる場合があります。
 
-    - **Q: How do I get a new motorcycle?**
+    - **Q: コインは何に使えますか？**
 
-- **A:** Your run will end, and you will have to restart the level from the beginning.
+- **A:** その場でゲームオーバーになり、最初からやり直しになります。
 
-    - **Q: What happens if I crash into another vehicle?**
+    - **Q: 車にぶつかるとどうなりますか？**
 **ゲームの目標は何ですか？**
 
 車にぶつからずにできるだけ多くの道路を横断することです。

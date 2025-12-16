@@ -23,12 +23,12 @@ Quest Bingoは、クラシックなビンゴゲームプレイにクエストと
 2.  **パターンに注意:** どのビンゴパターンが必要かを知ります。
 3.  **素早くマーク:** 番号を見逃さないでください。
 4.  **クエストに焦点を当てる:** 追加の報酬のためにクエストを完了します。
-5.  **楽しむ:** これは運のゲームです！
+5.  **楽しむ:** 基本は運の要素が大きいゲームです。
 
 ### 操作ガイド
 
 
-The game is played with simple clicks or taps.
+クリック/タップのシンプルな操作で遊べます。
 - 番号をクリック/タップしてマークします。
 - ビンゴを獲得するためにパターンを完成させます。
 - クエストを完了します。
@@ -39,11 +39,11 @@ The game is played with simple clicks or taps.
   A: 主に運ですが、カード選択とクエスト管理には戦略があります。
     - **Q: 同時に複数のカードをプレイできますか？**  
   A: はい、多くのバージョンは複数のカードを許可します。
-- **Q: クエストとは何ですか？**  
+- **Q: ブースターやクエストとは何ですか？**  
 
-    - **A:** Boosters are usually earned by daubing special numbers, completing levels, or through daily login rewards and bonus wheels.
+    - **A:** ブースターは、特別な番号をマークしたり、レベル達成やデイリーボーナスなどで入手できることが多いです。
 
-- **Q: How do I get more boosters?**
+- **Q: パズルピースとは何ですか？**
 
-    - **A:** Puzzle pieces are collectibles. When you collect all the pieces of a specific puzzle, you will typically unlock a beautiful picture and receive a bonus reward.
+    - **A:** パズルピースは収集要素です。一定数そろえると画像が解放されたり、ボーナス報酬がもらえたりすることがあります。
   A: 追加の報酬とアンロックのための特別な目標。

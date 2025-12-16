@@ -26,7 +26,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### Commandes
 
-- **Déplacement des tuiles :** flèches du clavier ou gestes de swipe sur mobile.
+- **Déplacement des tuiles :** flèches du clavier ou gestes de balayage sur mobile.
 - **Annuler (si disponible) :** certaines versions permettent d’annuler le dernier coup pour corriger une erreur.
 
 ### Foire aux questions (FAQ)

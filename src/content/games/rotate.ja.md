@@ -22,9 +22,9 @@ Rotateは、世界全体を回転させて障害物をナビゲートするユ�
 
 1.  **先を計画:** 回転する前に結果を視覚化します。
 2.  **重力を使用:** 世界を回転させてキャラクターを落とします。
-3.  **タイミングが重要:" ジャンプと回転を調整します。
-4.  **パターンを学ぶ:" 障害物の配置を記憶します。
-5.  **忍耐強く:" 一部のレベルには完璧なタイミングが必要です。
+3.  **タイミングが重要:** ジャンプと回転を合わせます。
+4.  **パターンを学ぶ:** 障害物の配置を覚えます。
+5.  **焦らない:** 一部のレベルは細かいタイミングが必要です。
 
 ### 操作ガイド
 
@@ -42,9 +42,9 @@ Rotateは、世界全体を回転させて障害物をナビゲートするユ�
   A: 通常いいえ。パズルに焦点を当てます。
 
 
-**A**: "Rotate" typically contains multiple worlds and dozens of levels with gradually increasing difficulty.
+**A**: Rotateは複数のワールドや多数のレベルで構成されることが多く、進むほど難しくなっていきます。
 
-- **Q: How many levels are in the game?**
+- **Q: レベルはいくつありますか？**
 
 
-**A**: "Rotate" typically contains multiple worlds and dozens of levels with gradually increasing difficulty.
+**A**: Rotateは複数のワールドや多数のレベルで構成されることが多く、進むほど難しくなっていきます。

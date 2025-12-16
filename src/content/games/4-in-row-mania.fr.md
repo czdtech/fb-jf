@@ -14,7 +14,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### Présentation du jeu
 
-4 In Row MANIA reprend le principe du Puissance 4 dans une version dynamique. À tour de rôle, vous faites tomber des jetons dans une grille verticale. Le but : être le premier à aligner quatre jetons de ta couleur à l’horizontale, verticale ou en diagonale, tout en bloquant les tentatives de ton adversaire.
+4 In Row MANIA reprend le principe du Puissance 4 dans une version dynamique. À tour de rôle, tu fais tomber des jetons dans une grille verticale. Le but : être le premier à aligner quatre jetons de ta couleur à l’horizontale, verticale ou en diagonale, tout en bloquant les tentatives de ton adversaire.
 
 ### Guide de jeu
 

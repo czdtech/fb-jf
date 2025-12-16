@@ -3,7 +3,7 @@ locale: es
 urlstr: train-miner
 title: "Train Miner - Puzle de vías mineras"
 description: >-
-  Train Miner es un rompecabezas de tendido de vías: coloca railes, recoge
+  Train Miner es un puzle de tendido de vías: coloca railes, recoge
   mineral y llega a la salida optimizando giros y consumo de combustible.
 iframeSrc: "https://7r2vmm5fqv830.h5games.usercontent.goog/v/3ubj960lc0t4o/"
 thumbnail: "/new-images/train-miner.png"

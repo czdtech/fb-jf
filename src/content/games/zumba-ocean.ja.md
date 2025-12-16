@@ -28,23 +28,23 @@ Zumba Oceanは、美しい海をテーマにしたマーブルシューターパ
  - **マウス：** 狙いと発射
 
 
-- **Swap:** You can often click on the shooter itself or press a key (like the spacebar) to swap the current pearl with the next one.
+- **入れ替え：** 発射口をクリックしたり、スペースキーなどで次の弾と入れ替えられる場合があります。
 
-- **Shoot:** Click the left mouse button to fire the pearl.
+- **発射：** 左クリックでボールを撃ちます。
 ### よくある質問（FAQ）
 
 
-- **A:** By creating long combos and clearing the level quickly. The faster you finish, and the more chain reactions you cause, the higher your score will be.
+- **A:** 長いコンボをつなぎ、素早くクリアすると高得点になりやすいです。連鎖反応が多いほど伸びます。
 
-    - **Q: How do I get a high score?**
+    - **Q: ハイスコアのコツはありますか？**
 
-- **A:** You lose the level and must start over.
+- **A:** そのレベルは失敗となり、最初からやり直します。
 
-    - **Q: What happens if a pearl reaches the end?**
+    - **Q: ボールが終点に到達するとどうなりますか？**
 
-- **A:** To completely destroy the chain of pearls before any of them reach the shell at the end of the path.
+- **A:** 進んでくるチェーンのボールを、終点の貝（ゴール）に到達する前にすべて消すことです。
 
-    - **Q: What is the goal of the game?**
+    - **Q: ゲームの目的は何ですか？**
 **ゲームの目標は何ですか？**
 
 ボールが穴に到達する前に、すべてのボールを消すことです。

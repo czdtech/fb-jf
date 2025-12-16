@@ -24,7 +24,7 @@ Tower Maniaは、ブロックを正確に積み上げて高いタワーを建設
  - **ミスを避ける：** はみ出た部分は切り落とされます
 
 
-- **Use Power-ups (if available):** Some versions of Tower Mania might offer power-ups that can help stabilize your tower or give you a perfect drop. Use them strategically when the tower gets very high and unstable.
+- **パワーアップ（ある場合）：** タワーを安定させたり、パーフェクト配置を助けたりする機能がある場合があります。高くなって不安定なときに使うと効果的です。
 ### 操作ガイド
 
  - **マウス/タッチ：** タップまたはクリックでブロックを配置
@@ -32,17 +32,17 @@ Tower Maniaは、ブロックを正確に積み上げて高いタワーを建設
 ### よくある質問（FAQ）
 
 
-- **A:** If a block is not perfectly aligned, any part of it that extends beyond the block below will be cut off. This makes the next block you drop have a smaller surface area to land on, increasing the difficulty.
+- **A:** ブロックがずれると、下のブロックからはみ出した部分が切り落とされます。次に置く面積が小さくなるため、難易度が上がります。
 
-    - **Q: What happens if a block isn't perfectly aligned?**
+    - **Q: ずれて置くとどうなりますか？**
 
-- **A:** Your score is determined by the height of your tower. The more blocks you stack successfully, the higher your score will be.
+- **A:** スコアはタワーの高さで決まります。成功して積み上げるほどスコアが上がります。
 
-    - **Q: How do I get a higher score?**
+    - **Q: どうすればスコアを伸ばせますか？**
 
-- **A:** The main goal is to build the tallest possible tower by stacking blocks accurately. The game ends when a block falls off the tower.
+- **A:** ブロックを正確に積んで、できるだけ高いタワーを作ることです。ブロックが落ちると終了する形式が多いです。
 
-    - **Q: What is the goal of Tower Mania?**
+    - **Q: Tower Maniaの目的は何ですか？**
 **ゲームの目標は何ですか？**
 
 できるだけ多くのブロックを正確に積み上げることです。

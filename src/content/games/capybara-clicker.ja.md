@@ -42,29 +42,14 @@ locale: ja
 ### よくある質問 (FAQ)
 
 
-> You unlock new cosmetic items by reaching specific population milestones (e.g., 1 billion capybaras, 1 trillion, etc.). The game will notify you when a new item is available.
+**1. このゲームの目的は何ですか？**
+> 数字が増えていくのを眺めて楽しむ放置系（クリッカー）です。カピバラを増やし、帽子やスキンなどの着せ替え要素をアンロックするのが目標になります。
 
-**4. How do I unlock the new hats and skins?**
+**2. クリックし続けるべきですか？それとも自動生産を優先？**
+> 序盤はクリックで資金を作り、まずは安い自動生産施設でCPS（秒間生産量）を伸ばしましょう。CPSが育ったら、放置して戻ってアップグレードを買うサイクルが基本です。
 
-> Changing the weather is the game's "prestige" or "ascension" mechanic. It resets your progress (capybaras, upgrades) but gives you a permanent percentage-based boost to all future capybara generation. This is essential for long-term progress.
+**3. 天気を変えると何が起きますか？**
+> いわゆる転生（プレステージ）で、カピバラ数やアップグレードがリセットされる代わりに、生産に恒久的な倍率ボーナスが付きます。長期的な伸びに必須です。
 
-**3. What does changing the weather do?**
-
-> In the beginning, click a lot to afford your first few auto-generating upgrades. Once you have a decent CPS, you can let the game idle and check back in to buy more upgrades. The focus should shift from clicking to managing your passive income.
-
-**2. Should I keep clicking or save up for auto-generators?**
-
-> The goal is simply to see the numbers go up! It's a relaxing, low-stress game about achieving ridiculously large numbers and unlocking fun cosmetic items. It's a classic example of an incremental or idle game.
-
-**1. What is the point of the game?**
-*   **Q: このゲームの目的は何ですか？**
-    *   **A:** 数字が増えていくのを見て楽しむことです！馬鹿げた桁数までカピバラを増やし、可愛いスキンを集める、ストレスフリーな癒やしゲームです。
-
-*   **Q: クリックし続けるべきですか？それとも放置？**
-    *   **A:** 最初はクリック連打で資金を稼ぎましょう。ある程度自動収入（CPS）が増えたら、放置してたまにアップグレードを買いに戻ってくるスタイルに切り替えるのが王道です。
-
-*   **Q: 天気を変えると何が起きますか？**
-    *   **A:** ゲームのリセットと引き換えに、生産倍率に恒久的なブーストがかかります。長期的に数を増やすためには必須の機能です。
-
-*   **Q: 新しい帽子はどうやって手に入れますか？**
-    *   **A:** カピバラの総生産数が特定のマイルストーンに達すると自動的にアンロックされます。
+**4. 新しい帽子やスキンはどうやってアンロックしますか？**
+> 総生産数（例：10億、1兆など）のマイルストーン到達で自動アンロックされます。新しいアイテムが開放されると通知されます。

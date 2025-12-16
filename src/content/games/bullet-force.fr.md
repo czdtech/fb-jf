@@ -19,23 +19,23 @@ releaseDate: 2025-08-16T00:00:00.000Z
 Tu peux jouer en ligne dans des salons publics ou privés, ou t’entraîner hors ligne contre des bots configurables.
 
 
-- **Gun Game:** Players start with a basic pistol and are given a new weapon for every kill they get, progressing through a set list of firearms.
+- **Gun Game :** les joueurs commencent avec un pistolet basique et obtiennent une nouvelle arme à chaque élimination, en progressant dans une liste fixe.
 
-- **Conquest:** Teams fight to capture and hold specific points on the map to accumulate score.
+- **Conquête :** les équipes capturent et tiennent des points sur la carte pour marquer.
 
-- **Free For All (FFA):** Every player for themselves. The player with the most kills at the end of the match wins.
+- **Free For All (FFA) :** chacun pour soi. Le joueur avec le plus d’éliminations à la fin gagne.
 
-- **Team Deathmatch (TDM):** Two teams compete to achieve the highest number of kills before the time limit expires.
+- **Team Deathmatch (TDM) :** deux équipes s’affrontent pour obtenir le plus d’éliminations avant la fin du temps.
 
-**Key Game Modes:**
+**Modes de jeu principaux :**
 
-- **Gun Game:** Players start with a basic pistol and are given a new weapon for every kill they get, progressing through a set list of firearms.
+- **Gun Game :** les joueurs commencent avec un pistolet basique et obtiennent une nouvelle arme à chaque élimination, en progressant dans une liste fixe.
 
-- **Conquest:** Teams fight to capture and hold specific points on the map to accumulate score.
+- **Conquête :** les équipes capturent et tiennent des points sur la carte pour marquer.
 
-- **Free For All (FFA):** Every player for themselves. The player with the most kills at the end of the match wins.
+- **Free For All (FFA) :** chacun pour soi. Le joueur avec le plus d’éliminations à la fin gagne.
 
-- **Team Deathmatch (TDM):** Two teams compete to achieve the highest number of kills before the time limit expires.
+- **Team Deathmatch (TDM) :** deux équipes s’affrontent pour obtenir le plus d’éliminations avant la fin du temps.
 ### Guide de jeu
 
 - **Toujours en mouvement**  
@@ -55,7 +55,7 @@ Tu peux jouer en ligne dans des salons publics ou privés, ou t’entraîner hor
 
 - **Minimap et killstreaks**  
 
-- **Practice Offline:** The offline mode with bots is an excellent training ground. Use it to practice your aim, learn new maps, and test out different weapon builds without the pressure of a live multiplayer match.
+- **S’entraîner hors ligne :** le mode bots est un bon terrain d’entraînement. Utilise‑le pour travailler ta visée, apprendre les cartes et tester des configurations d’armes sans la pression du multijoueur en live.
   Garde un œil sur la minimap pour repérer tirs non silencieux et positions alliées. Utilise tes killstreaks (UAV, etc.) dès que disponibles pour l’info ou le tempo.
 
 ### Commandes (PC)
@@ -72,59 +72,59 @@ Tu peux jouer en ligne dans des salons publics ou privés, ou t’entraîner hor
 
 
 
-- **Show Scoreboard:** `Tab`
+- **Afficher le tableau des scores :** `Tab`
 
-- **Interact:** `E`
+- **Interagir :** `E`
 
-- **Switch Weapon:** `1`, `2`, `3` or Mouse Wheel
+- **Changer d’arme :** `1`, `2`, `3` ou molette
 
-- **Reload:** `R`
-> Yes. You can create a custom match by going to the multiplayer menu and selecting "Create Room." You can set a password for the room and share the room name and password with your friends so they can join.
+- **Recharger :** `R`
+> Oui. Tu peux créer une partie personnalisée depuis le menu multijoueur en sélectionnant « Create Room ». Tu peux définir un mot de passe, puis partager le nom de la salle et le mot de passe avec tes amis.
 
-**4. Can I play with my friends?**
+**4. Puis‑je jouer avec mes amis ?**
 
-> There is no definitive "best" weapon as it largely depends on your playstyle and the map. However, some popular and highly effective choices include the FAMAS for its burst-fire accuracy, the M4A1 for its versatility, and the Vector for its incredibly high rate of fire in close combat.
+> Il n’existe pas d’arme « meilleure » dans l’absolu : tout dépend de ton style de jeu et de la carte. Parmi les choix populaires et efficaces, on cite souvent la FAMAS (précision en rafales), la M4A1 (polyvalence) et la Vector (cadence très élevée en combat rapproché).
 
-**3. What is the "best" weapon in the game?**
+**3. Quelle est la « meilleure » arme du jeu ?**
 
-> Killstreaks are special abilities you earn by getting a certain number of kills in a row without dying. Once earned, an on-screen button will appear, allowing you to activate abilities like a **UAV** (reveals enemies on the minimap), **Haste** (increased movement speed), or an **Advanced UAV**.
+> Les killstreaks sont des capacités obtenues en réalisant un certain nombre d’éliminations d’affilée sans mourir. Une fois gagnées, un bouton apparaît à l’écran pour activer des effets comme un **UAV** (révèle les ennemis sur la minimap), **Haste** (augmente la vitesse de déplacement) ou un **Advanced UAV**.
 
-**2. What are killstreaks and how do I use them?**
+**2. Que sont les killstreaks et comment les utiliser ?**
 
-> You earn credits by playing matches (based on your performance, kills, and objectives). These credits can then be spent in the "Loadout" or "Armory" section of the game to purchase new primary weapons, secondary weapons, and a wide variety of attachments for them.
+> Tu gagnes des crédits en jouant (selon tes performances, éliminations et objectifs). Tu peux ensuite les dépenser dans les sections « Loadout » ou « Armory » pour acheter de nouvelles armes principales, secondaires et des accessoires.
 
-**1. How do I unlock new weapons and attachments?**
+**1. Comment débloquer de nouvelles armes et accessoires ?**
 
 #### Foire aux questions (FAQ)
 
-- **Shoot, ADS, Reload, Jump, Crouch:** Dedicated on-screen buttons, which can often be customized in the settings.
+- **Tirer, viser (ADS), recharger, sauter, s’accroupir :** boutons dédiés à l’écran, souvent personnalisables dans les réglages.
 
-- **Aim/Look:** Swipe on the right side of the screen.
+- **Visée / caméra :** glisse sur la partie droite de l’écran.
 
-- **Movement:** Virtual joystick on the left side of the screen.
+- **Déplacement :** joystick virtuel sur la gauche.
 
 ### Mobile (Touchscreen)
 
 
-> Yes. You can create a custom match by going to the multiplayer menu and selecting "Create Room." You can set a password for the room and share the room name and password with your friends so they can join.
+> Oui. Tu peux créer une partie personnalisée depuis le menu multijoueur en sélectionnant « Create Room ». Tu peux définir un mot de passe, puis partager le nom de la salle et le mot de passe avec tes amis.
 
-**4. Can I play with my friends?**
+**4. Puis‑je jouer avec mes amis ?**
 
-> There is no definitive "best" weapon as it largely depends on your playstyle and the map. However, some popular and highly effective choices include the FAMAS for its burst-fire accuracy, the M4A1 for its versatility, and the Vector for its incredibly high rate of fire in close combat.
+> Il n’existe pas d’arme « meilleure » dans l’absolu : tout dépend de ton style de jeu et de la carte. Parmi les choix populaires et efficaces, on cite souvent la FAMAS (précision en rafales), la M4A1 (polyvalence) et la Vector (cadence très élevée en combat rapproché).
 
-**3. What is the "best" weapon in the game?**
+**3. Quelle est la « meilleure » arme du jeu ?**
 
-> Killstreaks are special abilities you earn by getting a certain number of kills in a row without dying. Once earned, an on-screen button will appear, allowing you to activate abilities like a **UAV** (reveals enemies on the minimap), **Haste** (increased movement speed), or an **Advanced UAV**.
+> Les killstreaks sont des capacités obtenues en réalisant un certain nombre d’éliminations d’affilée sans mourir. Une fois gagnées, un bouton apparaît à l’écran pour activer des effets comme un **UAV** (révèle les ennemis sur la minimap), **Haste** (augmente la vitesse de déplacement) ou un **Advanced UAV**.
 
-**2. What are killstreaks and how do I use them?**
+**2. Que sont les killstreaks et comment les utiliser ?**
 
-> You earn credits by playing matches (based on your performance, kills, and objectives). These credits can then be spent in the "Loadout" or "Armory" section of the game to purchase new primary weapons, secondary weapons, and a wide variety of attachments for them.
+> Tu gagnes des crédits en jouant (selon tes performances, éliminations et objectifs). Tu peux ensuite les dépenser dans les sections « Loadout » ou « Armory » pour acheter de nouvelles armes principales, secondaires et des accessoires.
 
-**1. How do I unlock new weapons and attachments?**
-- **Show Scoreboard:** `Tab`
+**1. Comment débloquer de nouvelles armes et accessoires ?**
+- **Afficher le tableau des scores :** `Tab`
 
-- **Interact:** `E`
+- **Interagir :** `E`
 
-- **Switch Weapon:** `1`, `2`, `3` or Mouse Wheel
+- **Changer d’arme :** `1`, `2`, `3` ou molette
 
-- **Reload:** `R`
+- **Recharger :** `R`

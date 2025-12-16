@@ -56,18 +56,19 @@ priorités.
 
 
 - Q: I burn items — how to avoid?
-**Q : Que se passe‑t‑il si un client part en colère ?**  
+- Q: Je brûle des plats — comment l’éviter ?
+  A: Décale tes lancements, surveille les cuissons et récupère les éléments dès qu’ils atteignent le bon timing (souvent “perfect”).
 
 - Q: Which upgrades are best early?
-R : Tu perds la vente correspondante (et parfois un peu de réputation ou de
+- Q: Quelles améliorations prioriser au début ?
+  A: Prends d’abord ce qui débloque le rythme (grills/poêles en plus, vitesse de préparation). La déco peut attendre.
 
 - Q: Can I pause?
-bonus). Trop de clients mécontents peuvent compromettre certains objectifs de
-niveau.
+- Q: Puis‑je mettre pause ?
+  A: Souvent non en plein rush ; si une pause existe, utilise‑la pour planifier avant d’enchaîner les commandes.
 
-**Q : Puis‑je faire une pause pendant un niveau ?**  
-R : En général oui, via un bouton de pause, mais le temps et la patience des
-clients restent figés pendant la pause.
+**Q : Que se passe‑t‑il si un client part en colère ?**  
+R : Tu perds la vente correspondante (et parfois un peu de bonus). Trop de clients mécontents peuvent faire rater certains objectifs de niveau.
 
 **Q : Y a‑t‑il plusieurs restaurants / mondes ?**  
 R : La plupart des jeux de ce type proposent plusieurs environnements avec

@@ -1,6 +1,6 @@
 ---
 title: "Sprunki Retake \U0001F525 Play Sprunki Retake Online"
-description: リズムゲームが好きでホラー要素に傾倒しているなら、Sprunki Retakeは間違いなくあなたを夢中にさせます！
+description: Sprunki Retakeは音作りにホラー演出を加えたSprunki系Modです。キャラクターを組み合わせて不穏な雰囲気のトラックを作れます。
 iframeSrc: 'https://turbowarp.org/1116819798/embed'
 thumbnail: /sprunki-retake.png
 urlstr: sprunki-retake
@@ -13,7 +13,7 @@ locale: ja
 
 ### Sprunki Retakeの紹介
 
-リズムゲームが好きでホラー要素に傾倒しているなら、Sprunki Retakeは間違いなくあなたを夢中にさせます！このModは、音楽制作とホラー美学を組み合わせて、ユニークでスリリングな体験を作り出します。
+Sprunki Retakeは、音楽制作にホラー系の雰囲気を加えたModです。キャラクターのサウンドを重ね、暗めのトーンに整えていきます。
 
 
 ---
@@ -40,45 +40,45 @@ Sprunki Retakeで、音楽とホラーの完璧なブレンドを体験しまし
 
 
 
-- **Customize Characters:** You can customize the appearance and abilities of your character to create an exclusive hero that perfectly fits your gaming style!
+- **キャラクターの調整：** 見た目や演出を切り替えられる場合があります（仕様はバージョンによって異なります）。
 
-- **Challenge:** Each level has unique challenges that require you to think quickly and plan strategically. Solve puzzles, fight monsters, complete tasks, you can't miss any!
+- **試行錯誤：** 組み合わせを変えて、サウンドのまとまりや隠し演出を探します。
 
-- **Explore:** Freely explore the vast levels, dig up hidden paths and secret areas, which contain various treasures and collectibles!
-Sprunki Retake successfully inherits the essence of the previous work, while bringing more fresh and exciting elements. Whether you are a long-time fan of Sprunki or a new player, you can find your own fun in the world of Sprunki Retake! Ready to scream? Let's go!
+- **探索：** いろいろなサウンドの並べ方を試して、雰囲気の違いを聞き比べます。
+Sprunki Retakeはシリーズの遊び方を踏襲しつつ、ホラー寄りのサウンドや演出を追加したModです。少ない音から始め、役割（ビート/メロディ/効果音）を分けて整えると作りやすくなります。
 
-### A Summary in One Sentence:
-
----
-
-- **Multiplayer Mode:** Team up with your friends online to jointly deal with challenges and double the fun!
-
-- **Musical Integration:** Like its predecessors, integrate music into the gameplay, enhancing your immersion in solving puzzles and traversing levels!
-
-- **New Characters:** Meet a variety of new characters with unique abilities and personalities to enrich your gaming experience!
-
-- **Graphics Upgrade:** The graphics are colorful and the animations are smooth, bringing the world of Sprunki to life!
-
-- **Immersive Experience:** Immerse yourself in a weird atmosphere full of darkness and mystery, guaranteeing your adrenaline soars!
-
-- **Let Yourself Go:** Feel free to experiment with various sounds and create your own original horror works!
-
-- **Easter Egg Surprise:** Find hidden sound combinations to unlock interesting animations and extra content, guaranteeing you will be pleasantly surprised!
-
-- **Remix Master:** Move and mix characters to create unique rhythms, challenging your musical creativity!
-
-- **Personalized Characters:** Unlock various cool characters, each with their own exclusive horror sounds, perfectly integrated into your musical creations!
-
-- **Spooky Sound Effects:** Use those creepy sound effects to create your unique horror music, it's just too cool!
-
-
----
-### What Are the Highlights of Sprunki Retake?
+### 一文でまとめると：
 
 ---
 
-- **Customize Characters:** You can customize the appearance and abilities of your character to create an exclusive hero that perfectly fits your gaming style!
+- **マルチプレイヤー：** 対応の有無はバージョンによって異なります。
 
-- **Challenge:** Each level has unique challenges that require you to think quickly and plan strategically. Solve puzzles, fight monsters, complete tasks, you can't miss any!
+- **音楽制作：** ドラッグ＆ドロップで音を重ねて作ります。
 
-- **Explore:** Freely explore the vast levels, dig up hidden paths and secret areas, which contain various treasures and collectibles!
+- **新キャラクター：** 新しいキャラクターやサウンドが追加される場合があります。
+
+- **演出：** 見た目やアニメーションが用意されている場合があります。
+
+- **雰囲気：** 暗めの演出でホラー寄りの空気感を作れます。
+
+- **自由に試す：** いろいろ試して自分の形に整えていきます。
+
+- **隠し要素：** 隠し組み合わせでアニメーションや追加要素が出る場合があります。
+
+- **リミックス：** 入れ替えながらリズムを調整し、まとまりを作ります。
+
+- **キャラクター差：** キャラクターごとに担当する音が異なります。
+
+- **ホラー効果音：** 不気味な効果音で雰囲気を作れます。
+
+
+---
+### Sprunki Retakeの見どころは？
+
+---
+
+- **キャラクターの調整：** 見た目や演出を切り替えられる場合があります（仕様はバージョンによって異なります）。
+
+- **試行錯誤：** 組み合わせを変えて、サウンドのまとまりや隠し演出を探します。
+
+- **探索：** いろいろなサウンドの並べ方を試して、雰囲気の違いを聞き比べます。

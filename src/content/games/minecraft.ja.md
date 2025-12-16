@@ -1,6 +1,6 @@
 ---
 title: Minecraft
-description: Minecraftはサンドボックス冒険ゲームです。構築し、探索し、生き残り、ブロックの世界で無限の創造性を楽しみます。
+description: Minecraftはサンドボックス型の冒険ゲームです。ブロックの世界で建築や探索を行い、素材を集めて生き延びます。
 iframeSrc: 'https://minecraft.h5games.usercontent.goog/v/5h14j8ljr0lk0/'
 thumbnail: /new-images/minecraft.png
 urlstr: minecraft
@@ -16,7 +16,7 @@ locale: ja
 
 ### ゲーム紹介
 
-Minecraftは、構築、探索、生存を組み合わせた象徴的なサンドボックスゲームです。ブロックの世界を探索し、リソースを収集し、構造を構築し、敵から生き残ります。創造性は無限です。あなた自身の道を作成します。
+Minecraftは、建築・探索・サバイバルを組み合わせたサンドボックスゲームです。ブロックの世界を探索して資源を集め、拠点を作り、状況に合わせて生き延びます。何を目指すかはプレイスタイル次第です。
 
 ### ゲームプレイ戦略と攻略法
 
@@ -34,9 +34,9 @@ Minecraftは、構築、探索、生存を組み合わせた象徴的なサン�
 - スペースでジャンプします。
 
 
-- **Sneak**: Shift key to sneak, preventing falls from high places.
+- **スニーク**: Shiftキーでスニークし、高所からの落下を防ぎます。
 
-- **Open Inventory**: E key to open the player's inventory for item management and crafting.
+- **インベントリを開く**: Eキーでインベントリを開き、アイテム管理やクラフトを行います。
 ### よくある質問 (FAQ)
 
 - **Q: これは完全なMinecraftですか？**  
@@ -47,9 +47,9 @@ Minecraftは、構築、探索、生存を組み合わせた象徴的なサン�
   A: バージョンによって異なります。一部は協力モードを提供します。
 
 
-**A**: Automated farms usually involve Redstone circuits, pistons, water flows, and other mechanisms to achieve automatic planting and harvesting of crops.
+**A**: 自動農場は、レッドストーン回路やピストン、水流などを組み合わせて、作物の植え付けや収穫を自動化する仕組みで作るのが一般的です。
 
-- **Q: How do I build an automated farm?**
+- **Q: 自動農場はどうやって作りますか？**
 
 
-**A**: Automated farms usually involve Redstone circuits, pistons, water flows, and other mechanisms to achieve automatic planting and harvesting of crops.
+**A**: 自動農場は、レッドストーン回路やピストン、水流などを組み合わせて、作物の植え付けや収穫を自動化する仕組みで作るのが一般的です。

@@ -28,23 +28,23 @@ Totemia Cursed Marblesは、古代トーテムをテーマにしたマーブル�
  - **マウス：** 狙いと発射
 
 
-- **Swap Marbles:** You can typically right-click or press the spacebar to swap between the two marbles in your shooter.
+- **弾を入れ替え：** 右クリックやスペースキーで、発射口の2つの弾を入れ替えられる場合があります。
 
-- **Shoot:** Click the left mouse button to fire the marble.
+- **発射：** 左クリックでボールを撃ちます。
 ### よくある質問（FAQ）
 
 
-- **A:** By creating long chain reactions and combos. The more marbles you can pop in quick succession, the higher your score multiplier will be. Also, finishing the level quickly often provides a time bonus.
+- **A:** 連鎖やコンボを長くつなぐと高得点になりやすいです。短時間でクリアできるとタイムボーナスが付く場合もあります。
 
-    - **Q: How do I get the highest score?**
+    - **Q: ハイスコアを出すコツは？**
 
-- **A:** You will lose the level and have to start again.
+- **A:** そのレベルは失敗となり、最初からやり直します。
 
-    - **Q: What happens if a marble reaches the end?**
+    - **Q: ボールが終点に到達するとどうなりますか？**
 
-- **A:** To destroy all the marbles in the moving chain before any single marble reaches the hole at the end of the path.
+- **A:** 進んでくるチェーンのボールを、終点の穴に到達する前にすべて消すことです。
 
-    - **Q: What is the goal of the game?**
+    - **Q: ゲームの目的は何ですか？**
 **ゲームの目標は何ですか？**
 
 ボールが穴に到達する前に、すべてのボールを消すことです。

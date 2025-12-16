@@ -1,6 +1,6 @@
 ---
 title: Slippery Slope
-description: Slippery Slopeは反射神経を試すスキーゲームです。スロープを下り、障害物を避け、スピードをマスターします。
+description: Slippery Slopeはスキーで滑り降りるアクションです。障害物を避けながらスピードに対応し、できるだけ先へ進みます。
 iframeSrc: 'https://slipperyslope.h5games.usercontent.goog/v/5k9j2m8h7p3n8/'
 thumbnail: /new-images/slippery-slope.png
 urlstr: slippery-slope
@@ -15,15 +15,15 @@ locale: ja
 
 ### ゲーム紹介
 
-Slippery Slopeは、滑りやすいスロープをスキーで下り、障害物を避け、できるだけ遠くに行くことに挑戦します。スピードが上がり、反射神経がテストされます。シンプルなコントロール、挑戦的なゲームプレイ。
+Slippery Slopeは、滑りやすいスロープをスキーで下りながら障害物を避け、できるだけ遠くまで進むゲームです。スピードが上がるほど反応が求められます。操作はシンプルですが、判断が重要です。
 
 ### ゲームプレイ戦略と攻略法
 
-1.  **先を見る:" 次の障害物を予測します。
-2.  **小さな調整:" 過度に修正しないでください。
-3.  **リズムを見つける:" 安定した移動パターンを確立します。
-4.  **冷静を保つ:" パニックは間違いにつながります。
-5.  **練習:" 繰り返しで反射神経が改善します。
+1.  **先を見る:** 次の障害物を予測します。
+2.  **小さく調整:** いきなり大きく切り返さないようにします。
+3.  **リズムをつかむ:** 安定した左右移動で避けます。
+4.  **落ち着く:** 焦るほどミスが増えます。
+5.  **練習:** 繰り返しで反応が安定します。
 
 ### 操作ガイド
 
@@ -32,7 +32,7 @@ Slippery Slopeは、滑りやすいスロープをスキーで下り、障害物
 - できるだけ遠くに行きます。
 
 
-- **Balance**: Maintain character balance, avoiding falls or loss of control.
+- **バランス**: 体勢を崩さないようにし、転倒や操作不能を避けます。
 ### よくある質問 (FAQ)
 
 - **Q: ブレーキできますか？**  
@@ -43,9 +43,9 @@ Slippery Slopeは、滑りやすいスロープをスキーで下り、障害物
   A: 一部のバージョンにはシールドとブーストがあります。
 
 
-**A**: By completing quickly, avoiding collisions, collecting reward items, and performing special trick moves to improve scores.
+**A**: 速度を落とさず走りつつ衝突を減らし、アイテムがある場合は回収します。余裕があればトリックなども得点につながります。
 
-- **Q: How can I achieve higher scores?**
+- **Q: 高得点を出すコツはありますか？**
 
 
-**A**: By completing quickly, avoiding collisions, collecting reward items, and performing special trick moves to improve scores.
+**A**: 速度を落とさず走りつつ衝突を減らし、アイテムがある場合は回収します。余裕があればトリックなども得点につながります。

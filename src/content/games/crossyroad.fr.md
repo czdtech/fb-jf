@@ -18,19 +18,19 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-Crossy Road is an incredibly popular and addictive endless arcade-style video game developed and published by Hipster Whale. The objective of the game is simple: to cross a series of busy roads, rivers, and train tracks for as long as possible without dying. Its charming voxel art style (similar to 3D pixels) and a vast collection of unlockable characters have made it a global hit on mobile devices and other platforms. The name and concept of the game are a playful reference to the classic joke, "Why did the chicken cross the road?".
+Crossy Road est un jeu d’arcade infini très populaire, développé par Hipster Whale. L’objectif est simple : traverser routes, rivières et voies ferrées le plus longtemps possible sans mourir. Son style « voxel » (des pixels en 3D) et sa grande collection de personnages à débloquer en ont fait un hit sur mobile et ailleurs. Le nom fait référence à la blague classique : « Pourquoi le poulet a‑t‑il traversé la route ? ».
 ### Présentation du jeu
 
 
-- **Coins and Characters:** While playing, you can collect coins scattered on the ground. These coins are used in a prize machine (gacha) to unlock a wide variety of new characters, each with its own unique appearance and environment theme (e.g., the Penguin character makes the world snowy).
+- **Pièces et personnages :** pendant la partie, tu peux ramasser des pièces au sol. Elles servent dans une machine à prix (type gacha) pour débloquer de nombreux personnages, chacun avec son apparence et parfois un thème d’environnement (ex. le pingouin rend le monde enneigé).
 
-- **Scoring:** Your score is based on the number of forward hops you make. Each forward move adds one point to your score. Moving sideways or backward does not increase your score.
+- **Score :** ton score dépend du nombre de sauts vers l’avant. Chaque mouvement en avant ajoute un point. Les déplacements latéraux ou en arrière n’augmentent pas le score.
 
-- **The Eagle:** You cannot stay still for too long! If you wait in one spot or move backward too much, a large eagle will swoop in and carry your character away, ending the game. This forces you to constantly assess risks and move forward.
+- **L’aigle :** tu ne peux pas rester immobile trop longtemps ! Si tu attends au même endroit ou recules trop, un grand aigle arrive et emporte ton personnage, ce qui met fin à la partie. Ça t’oblige à évaluer les risques et à avancer.
 
-- **Obstacles:** The world is filled with hazards. You must avoid being hit by cars, trucks, and trains. You also need to cross rivers by hopping on moving logs and lily pads. If you fall into the water, you lose.
+- **Obstacles :** le monde est rempli de dangers. Évite voitures, camions et trains. Pour les rivières, saute sur des troncs et nénuphars en mouvement ; si tu tombes à l’eau, c’est perdu.
 
-- **Movement:** Players control their character by tapping the screen to hop forward one lane at a time, or swiping left, right, and down to move in those directions. The goal is to keep moving forward.
+- **Déplacements :** tu contrôles ton personnage en tapotant pour avancer d’une case et en glissant à gauche/droite/bas pour bouger dans ces directions. Le but est de continuer à avancer.
 Crossy Road est un endless runner où tu dois faire traverser des routes,
 voies ferrées et rivières à un petit personnage (souvent un poulet !) sans te
 faire percuter par les voitures, trains ou tomber dans l’eau.
@@ -53,18 +53,18 @@ véhicules s’accélère, et plus il devient difficile de trouver le bon timing
     Avance avec le mouvement des troncs et reviens vers le centre si tu te
     retrouves trop près du bord.
 5.  **Ne prends les pièces que si c’est sûr**  
-    Les pièces servent à débloquer des personnages, mais ne vaut pas une vie
+    Les pièces servent à débloquer des personnages, mais ça ne vaut pas une vie
     perdue sur une route surchargée.
 
 ### Commandes
 
-- **Déplacements** : touches fléchées, swipes ou taps (avant, gauche, droite,
+- **Déplacements** : touches fléchées, glissements ou tapotements (avant, gauche, droite,
   arrière) selon la plateforme.  
 - **Pause / Menu** : boutons d’interface pour mettre en pause ou changer de
   personnage.
 
 
-**Q: Why did an eagle take me away?**  **A:** This happens when you stay in one place for too long or move too many steps backward. The game is designed to keep you moving forward.
+**Q : Pourquoi un aigle m’a emporté ?**  **R :** Cela arrive si tu restes immobile trop longtemps ou si tu recules trop. Le jeu est conçu pour te pousser à avancer.
 ### Foire aux questions (FAQ)
 
 **Q : Le jeu a‑t‑il une fin ?**  

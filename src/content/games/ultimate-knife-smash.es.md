@@ -15,11 +15,11 @@ score: 4.0/5  (1749 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
-### Detailed Game Introduction
+### Introducción detallada del juego
 
-Ultimate Knife Smash es un juego arcade basado en el timing. Tienes que lanzar cuchillos contra una diana giratoria sin golpear las hojas que ya están clavadas. La velocidad y el sentido de giro cambian a menudo, de modo que necesitarás buen ritmo, precisión y gestión del riesgo para superar las fases de combo.
+Ultimate Knife Smash es un juego arcade basado en la sincronización. Tienes que lanzar cuchillos contra una diana giratoria sin golpear las hojas que ya están clavadas. La velocidad y el sentido de giro cambian a menudo, de modo que necesitarás buen ritmo, precisión y gestión del riesgo para superar las fases de combo.
 
-### Gameplay Strategy & Walkthrough
+### Estrategia y guía de juego
 
 1.  Observa la rotación: presta atención a los cambios de velocidad y de sentido antes de comprometer un lanzamiento.
 2.  Cuenta el ritmo: usa un tempo constante; lanza siempre en el mismo “trozo” de giro para mantener la sincronización.
@@ -27,12 +27,12 @@ Ultimate Knife Smash es un juego arcade basado en el timing. Tienes que lanzar c
 4.  No te precipites: es mejor dejar pasar una vuelta que arriesgar un tiro dudoso y perder la partida.
 5.  Jefes y dianas especiales: en niveles avanzados algunas dianas requieren más golpes; dosifica tus lanzamientos.
 
-### Controls Guide
+### Controles
 
 - Lanzar: haz clic o toca la pantalla para lanzar un cuchillo cuando el hueco esté alineado.
 - Pausa / reinicio: utiliza los botones de la interfaz para parar o reiniciar la partida.
 
-### Frequently Asked Questions (FAQ)
+### Preguntas frecuentes (FAQ)
 
 - **Q: ¿Por qué siempre choco con otros cuchillos?**  
   **A:** Probablemente has perdido el ritmo. Vuelve a establecer un patrón de lanzamiento fijo y espera a que se abran huecos claros.
@@ -40,6 +40,6 @@ Ultimate Knife Smash es un juego arcade basado en el timing. Tienes que lanzar c
 - **Q: ¿La rotación cambia durante la partida?**  
   **A:** A menudo sí; prepárate para subidas de velocidad y cambios de sentido.
 
-- **Q: Hay potenciadores?**  
-  **A:** Algunas versiones ofrecen multicu chillos o efectos de ralentización; guárdalos para oleadas especialmente densas.
+- **Q: ¿Hay potenciadores?**  
+  **A:** Algunas versiones ofrecen multicuchillos o efectos de ralentización; guárdalos para oleadas especialmente densas.
 

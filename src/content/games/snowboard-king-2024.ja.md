@@ -1,6 +1,6 @@
 ---
 title: "Snowboard King 2024"
-description: "山を滑り降り、致命的な雪崩から逃げ切ろう！木や岩の間を縫い、コインを集め、スキルをアップグレードしてSnowboard Kingになろう。"
+description: "Snowboard King 2024は雪山を滑り降りるアーケードゲームです。雪崩に追われながら障害物を避け、コインで能力を強化します。"
 iframeSrc: "https://61nls5ipnd8o8.h5games.usercontent.goog/v/6mdu5qlsugsl0/"
 thumbnail: "/new-images/snowboard-king-2024.png"
 urlstr: "snowboard-king-2024"

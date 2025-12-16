@@ -1,6 +1,6 @@
 ---
 title: Only Up
-description: Only Upは垂直登りチャレンジです。ジャンプし、登り、落下を避け、できるだけ高く到達します。
+description: Only Upは垂直方向に登るアクションです。ジャンプで足場を渡り、落下を避けながら上を目指します。
 iframeSrc: 'https://onlyup.h5games.usercontent.goog/v/2k7j9m5h8p3n8/'
 thumbnail: /new-images/only-up.png
 urlstr: only-up
@@ -19,7 +19,7 @@ Only Upは、プラットフォームとオブジェクトを登ることに挑�
 
 ### ゲームプレイ戦略と攻略法
 
-1.  **忍��強く:** 急がないでください。各ジャンプを計画します。
+1.  **忍耐強く:** 急がないでください。各ジャンプを計画します。
 2.  **安全なルートを探す:** リスクを最小限に抑えるパスを選択します。
 3.  **カメラを制御:** 良い視野を維持します。
 4.  **休息ポイント:** 安全なプラットフォームで一息つきます。
@@ -32,7 +32,7 @@ Only Upは、プラットフォームとオブジェクトを登ることに挑�
 - マウス：カメラを見回します。
 
 
-- **Camera Control**: Use the mouse to control the camera, allowing for better observation of the surroundings and route planning.
+- **カメラ操作**: マウスでカメラを動かし、周囲の確認やルート選びに役立てます。
 ### よくある質問 (FAQ)
 
 - **Q: 落下した場合はどうなりますか？**  
@@ -43,9 +43,9 @@ Only Upは、プラットフォームとオブジェクトを登ることに挑�
   A: バージョンによって異なりますが、多くは非常に長いです。
 
 
-**A**: This game is known for its high difficulty and might not be very beginner-friendly. However, with patience and perseverance, beginners can gradually master it through practice.
+**A**: 難易度は高めで、最初は難しく感じることがあります。ただし焦らず練習すれば、少しずつ慣れていけます。
 
-- **Q: Is the game beginner-friendly?**
+- **Q: 初心者でも遊べますか？**
 
 
-**A**: This game is known for its high difficulty and might not be very beginner-friendly. However, with patience and perseverance, beginners can gradually master it through practice.
+**A**: 難易度は高めで、最初は難しく感じることがあります。ただし焦らず練習すれば、少しずつ慣れていけます。

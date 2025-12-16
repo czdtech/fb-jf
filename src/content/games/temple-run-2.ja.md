@@ -24,7 +24,7 @@ Temple Run 2は、世界的に人気のエンドレスランナーゲームの�
  - **スライド：** 低い障害物の下をスライドします
 
 
-- **Mission Completion**: Complete daily missions to earn extra rewards and experience.
+- **ミッション達成：** デイリーミッションなどを達成すると報酬が得られる場合があります。
 ### 操作ガイド
 
  - **矢印キー/WASD：** 移動とアクション
@@ -35,19 +35,19 @@ Temple Run 2は、世界的に人気のエンドレスランナーゲームの�
 ### よくある質問（FAQ）
 
 
-- **Q: How can I get more coins?**
+- **Q: コインを増やすには？**
 **ゲームの目標は何ですか？**
 
 
-- **Q: What are the differences between characters?**
+- **Q: キャラクターの違いは何ですか？**
 できるだけ長く走り続け、コインを集めて高得点を獲得することです。
 
 
-- **Q: How do I get power-ups?**
+- **Q: パワーアップはどうやって入手しますか？**
 **パワーアップはありますか？**
 
 
-- **Q: Does the game have an ending?**
+- **Q: ゲームに終わりはありますか？**
 はい、コインを使ってパワーアップやキャラクターをアンロックできます。
 
 **オリジナルとの違いは何ですか？**

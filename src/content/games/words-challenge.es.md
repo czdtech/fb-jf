@@ -15,11 +15,11 @@ score: 4.1/5  (1982 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
-### Detailed Game Introduction
+### Introducción detallada del juego
 
 Words Challenge mezcla resolución de anagramas, pequeños crucigramas y preguntas rápidas. El éxito depende del reconocimiento de patrones (prefijos/sufijos), la intuición sobre frecuencia de letras y la eliminación tranquila de opciones bajo temporizadores ligeros.
 
-### Gameplay Strategy & Walkthrough
+### Estrategia y guía de juego
 
 1.  Morfología: ataca primero prefijos (RE-, UN-) y sufijos (-ING, -ED, -ER) para sacar palabras rápidamente.
 2.  Frecuencia: apóyate en el orden de letras más comunes para tus intentos.
@@ -27,15 +27,15 @@ Words Challenge mezcla resolución de anagramas, pequeños crucigramas y pregunt
 4.  No te obceques: si te bloqueas en un modo, cambia a otro para mantener el ritmo.
 5.  Rachas: conserva un ritmo constante para mantener multiplicadores y bonificaciones.
 
-### Controls Guide
+### Controles
 
 - Arrastra letras para anagramas, escribe en los crucigramas y haz clic en opciones cuando se trate de preguntas tipo test.
 
-### Frequently Asked Questions (FAQ)
+### Preguntas frecuentes (FAQ)
 
-- **Q: Me atasco mucho en los anagramas.**  
+- **Q: ¿Qué hago si me atasco con los anagramas?**  
   **A:** Agrupa vocales y consonantes, prueba combinaciones típicas y baraja las letras para ver patrones nuevos.
 
-- **Q: Acepta nombres propios?**  
+- **Q: ¿Acepta nombres propios?**  
   **A:** Normalmente no; consulta las reglas de diccionario del modo que estés jugando.
 

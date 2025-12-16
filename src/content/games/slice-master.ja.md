@@ -1,6 +1,6 @@
 ---
 title: Slice Master
-description: Slice Masterはスライシングアクションゲームです。果物をスライスし、障害物を避け、コンボをマスターし、スライシングチャンピオンになります。
+description: Slice Masterはスライシングアクションゲームです。果物を切って得点し、爆弾を避けながらコンボをつなぎます。
 iframeSrc: 'https://slicemaster.h5games.usercontent.goog/v/3k9j5m8h7p2n8/'
 thumbnail: /new-images/slice-master.png
 urlstr: slice-master
@@ -19,11 +19,11 @@ Slice Masterは、画面を横切って飛んでくる果物をスライスす�
 
 ### ゲームプレイ戦略と攻略法
 
-1.  **爆弾を避ける:" 爆弾を切るとゲームオーバーです。
-2.  **コンボを構築:" 複数の果物を1回のスライスで。
-3.  **パワーアップを使用:" フレンジー、スローモーションなど。
-4.  **すべてをスライス:" 果物を見逃さないでください。
-5.  **冷静を保つ:" パニックは間違いにつながります。
+1.  **爆弾を避ける:** 爆弾を切るとゲームオーバーになります。
+2.  **コンボをつなぐ:** 複数の果物を1回のスライスで切ります。
+3.  **パワーアップを使う（ある場合）:** フレンジー、スローモーションなど。
+4.  **取り逃しを減らす:** 果物を見逃さないようにします。
+5.  **落ち着く:** 焦るほどミスが増えます。
 
 ### 操作ガイド
 
@@ -41,9 +41,9 @@ Slice Masterは、画面を横切って飛んでくる果物をスライスす�
   A: 通常、クラシック、アーケード、禅などのモード。
 
 
-**A**: Through consecutive successful cuts, collecting reward items, and avoiding collisions to achieve higher scores.
+**A**: 連続で成功させてコンボを伸ばし、報酬アイテムがある場合は回収しつつ、爆弾などの危険物を避けるのが基本です。
 
-- **Q: How can I improve my score?**
+- **Q: スコアを伸ばすにはどうすればいいですか？**
 
 
-**A**: Through consecutive successful cuts, collecting reward items, and avoiding collisions to achieve higher scores.
+**A**: 連続で成功させてコンボを伸ばし、報酬アイテムがある場合は回収しつつ、爆弾などの危険物を避けるのが基本です。

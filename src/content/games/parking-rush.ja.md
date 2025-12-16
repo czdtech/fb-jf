@@ -1,6 +1,6 @@
 ---
 title: Parking Rush
-description: Parking Rushは素早い駐車ゲームです。車を駐車し、障害物を避け、時間と競争し、駐車スキルをマスターします。
+description: Parking Rushは駐車パズルゲームです。車がぶつからないように誘導し、時間内に正しい駐車スペースへ入れます。
 iframeSrc: 'https://parkingrush.h5games.usercontent.goog/v/2j8k5m9h7p3n8/'
 thumbnail: /new-images/parking-rush.png
 urlstr: parking-rush
@@ -28,10 +28,10 @@ Parking Rushは、タイムプレッシャー下で車を駐車することに�
 ### 操作ガイド
 
 
-The game is played with a simple line-drawing mechanic.
-- 矢印キー/WASD：ドライブ、リバース、ステア。
-- 駐車スポットに到達します。
-- 時間制限内にクラッシュを避けます。
+線を描いて車を誘導するシンプルな仕組みです。
+- ドラッグ/スワイプで車の進むルートを描きます。
+- すべての車が正しい駐車スポットに到達するようにします。
+- 時間内に衝突を避けて駐車させます。
 
 ### よくある質問 (FAQ)
 
@@ -39,11 +39,11 @@ The game is played with a simple line-drawing mechanic.
   A: ゆっくり運転し、角度を計画し、ミラーを使用します。
     - **Q: タイムリミットは厳しいですか？**  
   A: はい、速度と精度のバランスが必要です。
-- **Q: レベルはいくつありますか？**  
+- **Q: レベルの進行とクリア条件はどうなりますか？**  
 
-    - **A:** Yes, the level is only complete when every car has been safely guided to its correct parking space.
+    - **A:** クリア条件は「すべての車を安全に正しい駐車スペースへ誘導すること」です。
 
-- **Q: Do I have to park all the cars?**
+- **Q: すべての車を駐車させる必要がありますか？**
 
-    - **A:** You must manage the timing. Make one car's path much longer than the other's so that they arrive at the intersection at different times. You can also wait for one car to park completely before you even start drawing the path for the second car.
+    - **A:** タイミングの調整が重要です。交差点で同時に到着しないように、片方のルートを長めにしたり、1台が駐車してから次のルートを描いたりします。
   A: バージョンによって異なります。多くは数十。

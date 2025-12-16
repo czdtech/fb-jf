@@ -1,6 +1,6 @@
 ---
 title: Monkey Mart
-description: Monkey Martは忙しいストア管理ゲームです。商品を補充し、顧客にサービスを提供し、ストアを拡大し、楽しい小売帝国を構築します。
+description: Monkey Martはストア管理ゲームです。商品を補充して販売し、設備をアップグレードしながら店を拡大します。
 iframeSrc: 'https://monkeymart.h5games.usercontent.goog/v/23sjt6hqspr00/'
 thumbnail: /new-images/monkey-mart.png
 urlstr: monkey-mart
@@ -16,7 +16,7 @@ locale: ja
 
 ### ゲーム紹介
 
-Monkey Martは、あなたが猿としてストアを運営するチャーミングな管理ゲームです。商品を補充し、顧客にサービスを提供し、お金を集め、ストアを拡大します。新しいアイテムをアンロックし、設備をアップグレードし、究極のマートを構築します。
+Monkey Martは、サルがストアを運営する管理ゲームです。商品を補充して販売し、収益で設備をアップグレードしながら店を広げていきます。新しい商品や設備をアンロックして、運営を効率化します。
 
 ### ゲームプレイ戦略と攻略法
 
@@ -42,9 +42,9 @@ Monkey Martは、あなたが猿としてストアを運営するチャーミン
   A: 一部のバージョンには最大サイズがありますが、ほとんどは拡大を続けることができます。
 
 
-**A**: The game usually does not have a strict time limit, allowing players to manage at their own pace, but some tasks or challenges might have time requirements.
+**A**: 多くの場合、厳密な時間制限はありません。ただしタスクやチャレンジによっては時間条件があることがあります。
 
-- **Q: Is there a time limit in the game?**
+- **Q: ゲームに時間制限はありますか？**
 
 
-**A**: The game usually does not have a strict time limit, allowing players to manage at their own pace, but some tasks or challenges might have time requirements.
+**A**: 多くの場合、厳密な時間制限はありません。ただしタスクやチャレンジによっては時間条件があることがあります。

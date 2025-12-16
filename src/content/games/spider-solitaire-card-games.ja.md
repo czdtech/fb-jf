@@ -1,7 +1,7 @@
 ---
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
+# Frontmatter: config.ts の schema に従う
 title: "Spider Solitaire: Card Games"
-description: "Spider Solitaireで自分自身に挑戦しよう。クラシックカードゲームの人気バリアント。目標は、キングからエースまでの8つの完全なカードシーケンスを構築してタブローをクリアすること。調整可能な難易度レベル（1、2、または4スート）で、すべてのプレイヤーのための戦略的パズル。"
+description: "Spider Solitaireは104枚で遊ぶソリティアです。キングからエースまでの同一スートの並びを作り、タブローのクリアを目指します。"
 iframeSrc: "https://ubg98.github.io/SpiderSolitaire/"
 thumbnail: "/new-images/spider-solitaire-card-games.jpg"
 urlstr: "spider-solitaire-card-games"

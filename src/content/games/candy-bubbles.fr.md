@@ -3,7 +3,7 @@ locale: fr
 urlstr: candy-bubbles
 title: Candy Bubbles
 description: >-
-  Plonge dans un monde de bonbons colorés et fais éclater des bulles sucrées !
+  Plonge dans un monde de bonbons colorés et fais éclater des bulles sucrées.
   Vise avec ton canon, aligne au moins trois bulles de la même couleur et
   nettoie le tableau dans ce jeu de tir de bulles aussi relaxant que malin.
 iframeSrc: 'https://candybubbles.h5games.usercontent.goog/v/370v1t5h5266g/'
@@ -63,17 +63,17 @@ une petite pause, tout en gardant un minimum de stratégie en tête.
 ### Foire aux questions (FAQ)
 
 
-- **A:** Try to shoot it into a spot where it will be out of the way, or where it might be useful later. If the swap feature is available, check if your next bubble is a better option.
+- **A:** Essaie de la tirer dans un endroit qui ne gêne pas, ou qui pourra servir plus tard. Si l’option d’échange existe, regarde si la prochaine bulle est plus utile.
 
-    - **Q: I have a bubble color I can't use. What should I do?**
+    - **Q: J’ai une couleur dont je n’ai pas besoin. Que faire ?**
 
-- **A:** By causing large clusters of bubbles to fall. Popping just three bubbles gives you a base score, but dropping a dozen bubbles in one shot will give you a huge combo bonus.
+- **A:** En faisant tomber de gros amas. Éclater seulement trois bulles donne un score de base, mais faire tomber une douzaine de bulles d’un seul coup rapporte un énorme bonus de combo.
 
-    - **Q: How do I get the highest score?**
+    - **Q: Comment faire le meilleur score ?**
 
-- **A:** The primary goal is usually to clear all the bubbles from the screen. Some levels may have special objectives, like freeing items trapped inside bubbles.
+- **A:** Le but principal est généralement de vider l’écran de toutes les bulles. Certains niveaux ajoutent des objectifs spéciaux, comme libérer des objets coincés dans des bulles.
 
-    - **Q: What is the goal of each level?**
+    - **Q: Quel est l’objectif d’un niveau ?**
 **Q : Quel est l’objectif principal d’un niveau ?**  
 R : La plupart du temps, tu dois simplement éliminer toutes les bulles de
 l’écran. Certains niveaux ajoutent des objectifs spéciaux, comme libérer des

@@ -24,7 +24,7 @@ Tiny Football Cupは、シンプルで楽しいミニサッカーゲームです
  - **試合に勝つ：** より多くのゴールを決めて勝利します
 
 
-- GK: Move late; attackers telegraph last‑second angles.
+- GKのコツ：相手の角度を見てから遅めに動くと対応しやすいです。
 ### 操作ガイド
 
  - **矢印キー/WASD：** プレイヤー移動
@@ -33,11 +33,11 @@ Tiny Football Cupは、シンプルで楽しいミニサッカーゲームです
 ### よくある質問（FAQ）
 
 
-- Q: I can’t get shots off.
+- Q: シュートが打てません。
 **ゲームの目標は何ですか？**
 
 
-- Q: Defense leaks.
+- Q: 守備が崩れます。
 試合に勝ち、トーナメントで優勝することです。
 
 **何人でプレイできますか？**

@@ -28,23 +28,23 @@ Table Tennisは、クラシックな卓球（ピンポン）をデジタル化�
  - **マウス/矢印キー：** パドルを上下に移動
 
 
-- **Hit the Ball:** There is no need to click. Position your paddle in the ball's path, and it will automatically hit it on contact. The angle and speed of the return are influenced by where and how fast you move your paddle into the ball.
+- **ボールを打つ：** クリックは不要です。ボールの軌道にパドルを合わせると、接触時に自動で打ち返します。返球の角度や速さは、当てる位置やパドルの動かし方で変わります。
 
-- **Move Paddle:** Simply move your mouse left and right across your side of the table to position the paddle.
+- **パドル移動：** 自分側のテーブル上でマウスを動かしてパドル位置を調整します。
 ### よくある質問（FAQ）
 
 
-- **A:** Typically, a game is won by the first player to reach a set number of points (e.g., 11 or 21), but you must win by at least two points.
+- **A:** 一般的には、規定ポイント（例：11点や21点）に先に到達した側が勝ちです。ただし2点差以上が必要です。
 
-    - **Q: What is the winning score?**
+    - **Q: 勝利に必要な点数は？**
 
-- **A:** While the game may not have an explicit "spin" button, moving your paddle quickly as you strike the ball can influence its speed and angle, creating a similar effect and making it harder for the opponent to return.
+- **A:** 明確なスピンボタンがなくても、当てる瞬間にパドルを速く動かすと速度や角度が変わり、相手が返しにくくなります。
 
-    - **Q: Can I put a spin on the ball?**
+    - **Q: ボールに回転をかけられますか？**
 
-- **A:** You score a point when your opponent fails to return your shot, meaning the ball bounces twice on their side, they hit it into the net, or they hit it off the table.
+- **A:** 相手が返球できなかったときに得点です。相手側で2回バウンドした、ネットに当たった、台から外れた、などが該当します。
 
-    - **Q: How do I score a point?**
+    - **Q: どうやって得点しますか？**
 **ゲームの目標は何ですか？**
 
 相手よりも先に規定ポイントに到達して試合に勝つことです。

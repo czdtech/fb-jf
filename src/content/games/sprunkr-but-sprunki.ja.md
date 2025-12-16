@@ -1,8 +1,7 @@
 ---
 title: Sprunkr But Sprunki - Play Sprunkr But Sprunki Online
 description: >-
-  Sprunkr But Sprunki Modは、元のSprunkr
-  Modの創造的なひねりで、既存のキャラクターを愛されているSprunki人物に置き換えます。Sprunkrのクラシックなゲームプレイを体験するだけでなく、Sprunkiスタイルの視覚的および聴覚的饗宴に没頭できます。
+  Sprunkr But Sprunki Modは、SprunkrのキャラクターをSprunki風に置き換えた派生Modです。Sprunkr系の遊び方を、Sprunki風の見た目とサウンドで楽しめます。
 iframeSrc: 'https://turbowarp.org/1149659346/embed'
 thumbnail: /sprunkr-but-sprunki.png
 urlstr: sprunkr-but-sprunki
@@ -13,10 +12,10 @@ locale: ja
 ---
 
 
-Are you fond of Sprunkr's unique gameplay, and also have a soft spot for Sprunki's cute characters? Then Sprunkr But Sprunki Mod will definitely satisfy all your fantasies! This creative Mod cleverly combines Sprunkr's game mechanics with Sprunki's inspired designs, bringing a refreshing experience to fans of both universes.
+Sprunkr系の遊び方が好きで、Sprunki風のキャラクターも気になる人向けの内容です。Sprunkrの仕組みを保ちながら、見た目や雰囲気をSprunki寄りにした構成になっています。
 ### Sprunkr But Sprunki Modの紹介
 
-Sprunkr But Sprunki Modは、元のSprunkr Modの創造的なひねりで、既存のキャラクターを愛されているSprunki人物に置き換えます。Sprunkrのクラシックなゲームプレイを体験するだけでなく、Sprunkiスタイルの視覚的および聴覚的饗宴に没頭できます。
+Sprunkr But Sprunki Modは、元のSprunkr Modをベースに、キャラクターをSprunki風に置き換えた派生Modです。Sprunkrの基本的な遊び方はそのままに、雰囲気の違いを楽しめます。
 
 ### 主な特徴
 
@@ -33,5 +32,5 @@ Sprunkr But Sprunki Modは、元のSprunkr Modの創造的なひねりで、既�
  - 新しいサウンドの組み合わせを発見
 
 
-### Conclusion:
-Sprunkr But Sprunkiで、2つの愛されているModの融合を体験しましょう！
+### 結論：
+Sprunkr But Sprunkiは、Sprunkr系の遊び方をSprunki風の見た目で楽しめるModです。組み合わせを変えて、音のまとまりを調整してみてください。

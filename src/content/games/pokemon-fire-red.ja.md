@@ -1,6 +1,6 @@
 ---
 title: Pokemon Fire Red
-description: Pokemon Fire Redはクラシックなポケモンアドベンチャーです。カントー地方を探索し、ポケモンを捕獲し、ジムバッジを獲得します。
+description: Pokemon Fire Redはポケモンのアドベンチャーゲームです。カントー地方を冒険し、ポケモンを捕獲してジムバッジを集めます。
 iframeSrc: 'https://pokemonfirered.h5games.usercontent.goog/v/3k9j5m8h7p2n8/'
 thumbnail: /new-images/pokemon-fire-red.png
 urlstr: pokemon-fire-red
@@ -33,7 +33,7 @@ Pokemon Fire Redは、オリジナルのポケモンレッド/グリーンのリ
 - Start/Enter：メニュー。
 
 
-- **Select Button (Register Item)**: Register frequently used items in the bag for quick access.
+- **Select（アイテム登録）**: よく使う道具をバッグで登録し、すぐ使えるようにします。
 ### よくある質問 (FAQ)
 
 - **Q: これはオリジナルとどう違いますか？**  
@@ -44,9 +44,9 @@ Pokemon Fire Redは、オリジナルのポケモンレッド/グリーンのリ
   A: ほとんどのWebバージョンにはセーブがあります。
 
 
-**A**: "Fire Red" and "Leaf Green" are two versions of the same generation of games, with the main differences being the types and encounter rates of some wild Pokémon, as well as dialogue for some NPCs.
+**A**: 『ファイアレッド』と『リーフグリーン』は同世代の別バージョンで、一部の野生ポケモンの出現や、NPCの台詞などに違いがあります。
 
-- **Q: What are the differences between "Fire Red" and "Leaf Green"?**
+- **Q: 『ファイアレッド』と『リーフグリーン』の違いは？**
 
 
-**A**: "Fire Red" and "Leaf Green" are two versions of the same generation of games, with the main differences being the types and encounter rates of some wild Pokémon, as well as dialogue for some NPCs.
+**A**: 『ファイアレッド』と『リーフグリーン』は同世代の別バージョンで、一部の野生ポケモンの出現や、NPCの台詞などに違いがあります。

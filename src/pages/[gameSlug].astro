@@ -16,6 +16,20 @@ type Props = {
 export async function getStaticPaths() {
   const allGames = await getCollection('games');
 
+  // Build a lookup map: slug -> { en: game, fr: game, ... }
+  // This avoids O(N) scans in each localized page.
+  const slugToLocaleMap = new Map<string, Record<string, CollectionEntry<'games'>>>();
+
+  for (const game of allGames) {
+    const slug = game.data.urlstr ?? game.slug;
+    const locale = game.data.locale ?? 'en';
+
+    if (!slugToLocaleMap.has(slug)) {
+      slugToLocaleMap.set(slug, {});
+    }
+    slugToLocaleMap.get(slug)![locale] = game;
+  }
+
   // 仅使用英文内容作为 canonical 路由的数据源。
   // 其它语言版本通过 locale 字段区分，不单独生成新的 slug。
   const paths = allGames
@@ -29,6 +43,8 @@ export async function getStaticPaths() {
         },
         props: {
           game,
+          // Pre-computed locale map for this slug, used by localized pages
+          localeMap: slugToLocaleMap.get(legacySlug) ?? { en: game },
         },
       };
     });

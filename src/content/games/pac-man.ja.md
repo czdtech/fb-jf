@@ -1,6 +1,6 @@
 ---
 title: Pac-Man
-description: クラシックなPac-Manをプレイします。ドットを食べ、ゴーストを避け、パワーペレットを獲得し、象徴的なアーケードゲームをマスターします。
+description: クラシックなPac-Manをプレイします。ドットを食べて迷路を進み、ゴーストを避けながら次の面を目指します。
 iframeSrc: 'https://pacman.h5games.usercontent.goog/v/6k9j2m8h7p4n8/'
 thumbnail: /new-images/pac-man.png
 urlstr: pac-man
@@ -42,9 +42,9 @@ Pac-Manは、ビデオゲーム史上最も象徴的なアーケードゲーム�
   A: 技術的には、しかし極めて難しくなります。レベル256はクラッシュします。
 
 
-**A**: Yes, the goal of each level is to eat all the small pellets and power pellets in the maze to advance to the next level.
+**A**: はい。迷路内の小さなドットとパワーペレットをすべて食べると次の面に進みます。
 
-- **Q: Is the objective of the game to eat all the pellets?**
+- **Q: 目的はすべてのドットを食べることですか？**
 
 
-**A**: Yes, the goal of each level is to eat all the small pellets and power pellets in the maze to advance to the next level.
+**A**: はい。迷路内の小さなドットとパワーペレットをすべて食べると次の面に進みます。

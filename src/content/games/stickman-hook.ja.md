@@ -1,8 +1,7 @@
 ---
 title: Stickman Hook
 description: >-
-  Stickman
-  Hookは、スティックマンがフックを使ってスイングするエキサイティングなアーケードゲームです。タイミングと物理学をマスターしてゴールに到達しましょう。
+  Stickman Hookは、スティックマンがフックでスイングして進むアーケードゲームです。タイミングと勢いを使ってゴールを目指します。
 iframeSrc: 'https://ubg98.github.io/StickmanHook/'
 thumbnail: /new-images/stickman-hook.jpg
 urlstr: stickman-hook
@@ -26,31 +25,31 @@ Stickman Hookは、スティックマンキャラクターがフックを使っ�
  - **ゴールに到達：** 障害物を避けてゴールに到達します
 
 
-- **Acrobatic Performance**: Try performing flips and spins for added fun.
+- アクロバット：フリップや回転を狙うと動きの幅が広がります。
 ### 操作ガイド
 
  - **マウス/タッチ：** タップまたはクリックしてフック
 
 
-- **Swing**: Use physics swinging mechanics to gain momentum and direction.
+- **スイング：** 物理的な振り子の勢いを使って、スピードと方向を作ります。
 
-- **Release**: Release the button to let go of the hook and use inertia to continue forward.
+- **リリース：** ボタンを離してフックを放し、慣性で前進します。
 ### よくある質問（FAQ）
 
 
-- **Q: How do I get more swinging power?**
+- **Q: もっと勢いを出すには？**
 **ゲームの目標は何ですか？**
 
 
-- **Q: Why do I often hit obstacles?**
+- **Q: 障害物に当たりやすいのはなぜ？**
 フックを使ってスイングし、障害物を避けてゴールに到達することです。
 
 
-- **Q: How do I perform continuous swinging?**
+- **Q: 連続でスイングするコツは？**
 **タイミングは重要ですか？**
 
 
-- **Q: How many levels are in the game?**
+- **Q: レベルはいくつありますか？**
 はい、完璧なタイミングでフックを離すことが成功の鍵です。
 
 **ゲームは難しいですか？**

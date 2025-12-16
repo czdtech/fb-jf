@@ -1,6 +1,6 @@
 ---
 title: Pirate Pop
-description: Pirate Popは海賊バブルシューターです。バブルをマッチし、宝物をアンロックし、海賊をテーマにしたレベルをクリアし、海の冒険を楽しみます。
+description: Pirate Popは海賊テーマのバブルシューターです。バブルをそろえて消し、レベル目標の達成を目指します。
 iframeSrc: 'https://piratepop.h5games.usercontent.goog/v/5k9j2m8h7p3n8/'
 thumbnail: /new-images/pirate-pop.png
 urlstr: pirate-pop
@@ -15,7 +15,7 @@ locale: ja
 
 ### ゲーム紹介
 
-Pirate Popは、海賊の冒険をテーマにしたバブルシューターです。同じ色のバブルを3つ以上マッチしてポップし、宝物をアンロックし、レベル目標を完了します。カラフルなグラフィックと中毒性のあるゲームプレイ。
+Pirate Popは、海賊をテーマにしたバブルシューターです。同じ色のバブルを3つ以上そろえて消し、ボードを整理しながらレベル目標を達成します。
 
 ### ゲームプレイ戦略と攻略法
 
@@ -37,11 +37,11 @@ Pirate Popは、海賊の冒険をテーマにしたバブルシューターで�
   A: 目標を完了しない場合、レベルを再試行します。
     - **Q: パワーアップはありますか？**  
   A: はい、爆弾、カラーチェンジャーなどの特別なバブル。
-- **Q: どれくらいのレベルがありますか？**  
+- **Q: レベル数や、マッチできないときの対処は？**  
 
-    - **A:** You'll have to make a tactical shot. Try to place the bubble in a spot where it won't get in the way, or where it can be easily cleared later on with another match.
+    - **A:** マッチが作れないときは、次の手を作る「つなぎの一手」が重要です。後で消しやすい場所や、邪魔になりにくい場所へ打って盤面を整えます。
 
-- **Q: What if I can't make a match?**
+- **Q: コンボボーナスを増やすコツはありますか？**
 
-    - **A:** By causing large clusters of bubbles to fall at once. The more bubbles you drop in a single shot, the higher your combo bonus will be.
+    - **A:** 大きな塊をまとめて落とすのが有効です。1ショットで落とす数が多いほど、コンボボーナスが伸びやすくなります。
   A: バージョンによって異なります。多くは数百。

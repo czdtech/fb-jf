@@ -3,8 +3,8 @@ locale: fr
 urlstr: drifting-mania
 title: 'Drifting mania'
 description: >-
-  Drifting mania tests top‑down drift control — feather throttle, link
-  slides, and master corner rhythm.
+  Drifting Mania teste un drift en vue du dessus : dose l’accélérateur, enchaîne
+  les glisses et maîtrise le rythme des virages.
 iframeSrc: 'https://6r2lv8eg0tif8.h5games.usercontent.goog/v/56d4ef8srjpfg/'
 thumbnail: /new-images/drifting-mania.png
 tags:
@@ -19,24 +19,27 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### Detailed Game Introduction
 
-Drifting mania is a lightweight top‑down drifter. Manage slip angle, throttle pulses, and tidy exits to chain corners and set clean lap times.
+Drifting Mania est un jeu de drift léger en vue du dessus. Gère l’angle de glisse,
+le dosage de l’accélérateur et les sorties propres pour enchaîner les virages et
+réaliser des temps réguliers.
 
 ### Gameplay Strategy & Walkthrough
 
-1.  Enter slow, exit fast to keep momentum.
-2.  Feather throttle for controlled slides.
-3.  Link corners by planning exit lines.
-4.  Recover early if over‑rotated.
-5.  Drill layouts for consistent braking points.
+1.  Entre doucement, sors vite pour garder l’élan.
+2.  Dose l’accélérateur pour des glisses contrôlées.
+3.  Enchaîne les virages en préparant ta ligne de sortie.
+4.  Récupère tôt si tu as trop pivoté.
+5.  Entraîne‑toi sur un circuit pour des points de freinage constants.
 
 ### Controls Guide
 
-- Steer: A/D or Left/Right; Throttle/Brake: W/S or Up/Down.
-- Handbrake (if any): Space for rotation.
+- Direction : A/D ou Gauche/Droite ; Accélérer/Freiner : W/S ou Haut/Bas.
+- Frein à main (si présent) : Espace pour faire pivoter.
 
 ### Frequently Asked Questions (FAQ)
 
-- Spinning out? Reduce throttle and counter‑steer sooner.
-- Can I upgrade cars? Some versions allow unlocks; focus on consistency first.
-- Best times? Clean lines beat reckless speed.
+- Tête‑à‑queue ? Réduis l’accélérateur et contre‑braque plus tôt.
+- Peut‑on améliorer les voitures ? Certaines versions le permettent ; vise d’abord
+  la régularité.
+- Meilleurs temps ? Une ligne propre bat une vitesse “sale”.
 

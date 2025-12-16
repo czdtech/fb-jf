@@ -26,23 +26,23 @@ Unblock Thatは、クラシックなブロック解除パズルゲームです�
 ### 操作ガイド
 
 
-The game is played with simple drag-and-drop controls.
+操作はドラッグ＆ドロップ中心です。
  - **マウス：** ブロックをドラッグして動かす
 
 ### よくある質問（FAQ）
 
 
-- **A:** Your performance is usually rated by the number of moves you take to solve the puzzle. The fewer moves you use, the better your score or star rating will be.
+- **A:** 多くの場合、手数が少ないほど高評価（スコアや星）になります。
 
-    - **Q: How is the score determined?**
+    - **Q: スコア（評価）はどう決まりますか？**
 
-- **A:** Blocks can only move along their long axis (a vertical block moves up/down, a horizontal block moves left/right). Make sure there are no other blocks in its path.
+- **A:** ブロックは長い方向にしか動きません（縦なら上下、横なら左右）。進行方向に他のブロックがあると動かせません。
 
-    - **Q: Why can't I move a block?**
+    - **Q: ブロックが動かせないのはなぜ？**
 
-- **A:** To slide the red block all the way to the right so it can exit the board.
+- **A:** 赤いブロックを出口までスライドさせて脱出させることです。
 
-    - **Q: What is the goal of the game?**
+    - **Q: ゲームの目的は何ですか？**
 **ゲームの目標は何ですか？**
 
 赤いブロックを出口まで導くことです。

@@ -3,9 +3,9 @@ locale: fr
 urlstr: domino-adventure
 title: 'Domino Adventure'
 description: >-
-  Master the classic board game, Domino Adventure. This guide provides
-  expert strategies for Block and Draw modes, tips for managing your tiles, and
-  how to win rounds by being the first to play all your dominoes.
+  Domino Adventure reprend le jeu de dominos classique. Ce guide donne des
+  stratégies pour les modes Block et Draw, des conseils pour gérer tes tuiles,
+  et explique comment gagner une manche en posant tous tes dominos.
 iframeSrc: 'https://28vlnkkhq8gjg.h5games.usercontent.goog/v/4mi9k9oin4dn8/'
 thumbnail: /new-images/domino-adventure.png
 tags:
@@ -22,40 +22,65 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### **Game Introduction**
 
-*Domino Adventure* is a beautifully presented digital version of the classic dominoes board game. The objective is to be the first player to **play all of your domino tiles** by strategically matching them to the ends of the domino chain on the table.
+*Domino Adventure* est une version numérique soignée du jeu de dominos classique.
+L’objectif est d’être le premier joueur à **poser toutes ses tuiles de domino**
+en les reliant intelligemment aux extrémités de la chaîne sur la table.
 
-Each player starts with a hand of domino tiles. On your turn, you must place a tile from your hand that has a number of pips (dots) matching one of the open ends of the chain on the board. The game ends when one player runs out of tiles, or when all players are "blocked" and can no longer make a legal move.
+Chaque joueur commence avec une main de tuiles. À ton tour, tu dois poser une
+tuile dont l’un des côtés (les points) correspond à l’une des extrémités libres
+de la chaîne. La manche se termine quand un joueur n’a plus de tuiles, ou quand
+tout le monde est “bloqué” et ne peut plus jouer de coup légal.
 
-The winner of a round scores points equal to the total number of pips left in their opponents' hands. The game is played over several rounds until one player reaches a pre-set score target (e.g., 15 points as shown in the screenshot).
+Le gagnant d’une manche marque des points égaux au total de points restant dans
+les mains adverses. La partie se joue en plusieurs manches jusqu’à atteindre un
+score cible (par ex. 15 points, selon la version).
 
 ### **Gameplay Strategy & Tips**
 
-1.  **Play Your Doubles Early**: Double-sided tiles (like double-fives or double-threes) are less versatile because they only have one number to match. Playing them early prevents them from getting stuck in your hand later when you have fewer options.
-2.  **Keep a Variety of Numbers**: Try to keep a diverse range of numbers in your hand. If you only have tiles with high numbers (fives and sixes), and the ends of the chain are all low numbers, you'll be blocked.
-3.  **Block Your Opponent**: Pay attention to the numbers your opponent is playing. If you notice they are avoiding a certain number, it's likely they don't have it. If you have the opportunity, try to leave that number exposed on both ends of the chain to block them and force them to pass their turn (in Block mode) or draw a new tile (in Draw mode).
-4.  **Play Your Heaviest Tiles First**: If you anticipate that you might not win the round, it's a good strategy to play your tiles with the highest total number of pips first. This minimizes the number of points your opponent will score off you if they win.
-5.  **Know the Game Modes**:
-    *   **Block Mode**: If you cannot play a tile, you must pass your turn. This mode is more about strategically blocking your opponent.
-    *   **Draw Mode**: If you cannot play a tile, you must draw a new tile from the boneyard until you get one you can play. This mode involves more luck.
+1.  **Joue tes doubles tôt** : les doubles (comme 5‑5 ou 3‑3) sont moins flexibles,
+    car ils n’offrent qu’un seul nombre possible. Les poser tôt évite de les garder
+    coincés quand tu as moins d’options.
+2.  **Garde une variété de nombres** : essaie d’avoir des valeurs diverses en main.
+    Si tu n’as que des gros nombres et que les extrémités restent basses, tu vas
+    te faire bloquer.
+3.  **Bloque ton adversaire** : observe les nombres qu’il joue. S’il évite une
+    valeur, c’est souvent qu’il ne l’a pas. Quand tu peux, laisse cette valeur aux
+    deux extrémités pour le forcer à passer (mode Block) ou à piocher (mode Draw).
+4.  **Joue tes tuiles les plus “lourdes”** : si tu sens que tu risques de perdre la
+    manche, pose d’abord les tuiles avec le plus de points. Ça réduit les points
+    que l’adversaire marquera s’il gagne.
+5.  **Comprends les modes** :
+    *   **Block Mode** : si tu ne peux pas jouer, tu passes ton tour. Le cœur du mode
+        est le blocage stratégique.
+    *   **Draw Mode** : si tu ne peux pas jouer, tu pioches dans la réserve
+        (“boneyard”) jusqu’à obtenir une tuile jouable. Il y a plus d’aléatoire.
 
 ### **Controls Guide**
 
-The game is designed for simple, intuitive drag-and-drop or click-based gameplay.
+Le jeu est pensé pour un gameplay simple au clic ou au glisser‑déposer.
 
-*   **Play a Tile**: **Click and drag** a domino from your rack to a valid matching end on the board. Alternatively, you can often just **click** the tile you want to play, and it will automatically move to a valid spot if one exists.
+*   **Poser une tuile** : **clique et fais glisser** un domino depuis ton support
+    vers une extrémité valide. Souvent, tu peux aussi **cliquer** sur la tuile et
+    elle se place automatiquement si un coup existe.
 
 ### **Frequently Asked Questions (FAQ)**
 
-**1. How do I win a round?**
-You win a round by being the first player to get rid of all the dominoes in your hand. You can also win if all players are blocked, and you have the lowest total number of pips remaining in your hand.
+**1. Comment gagner une manche ?**
+Tu gagnes en étant le premier à te débarrasser de tous tes dominos. Tu peux aussi
+gagner si tout le monde est bloqué et que tu as le total de points le plus faible
+en main.
 
-**2. How is scoring calculated?**
-After a round ends, the winner receives points equal to the **sum of all the pips on the dominoes left in the loser's hand**. For example, if your opponent has a [6-5] and a [2-1] tile left, you score (6+5+2+1) = 14 points.
+**2. Comment le score est‑il calculé ?**
+À la fin d’une manche, le gagnant reçoit des points égaux à la **somme des points
+sur les dominos restants dans la main du perdant**. Par exemple, s’il lui reste
+[6‑5] et [2‑1], tu marques (6+5+2+1) = 14 points.
 
-**3. What's the difference between "Block" and "Draw" mode?**
-*   In **Block Mode**, if you don't have a playable tile, you do nothing and simply skip your turn.
-*   In **Draw Mode**, if you don't have a playable tile, you must keep drawing new tiles from the reserve pile (the "boneyard") until you get a tile that can be played.
+**3. Différence entre les modes “Block” et “Draw” ?**
+*   En **Block Mode**, si tu n’as pas de tuile jouable, tu passes ton tour.
+*   En **Draw Mode**, si tu n’as pas de tuile jouable, tu pioches dans la réserve
+    (“boneyard”) jusqu’à obtenir une tuile jouable.
 
-**4. What is the "Trophy Road"?**
-The Trophy Road is a progression system where you earn exclusive rewards by playing the game. This likely includes new, collectible tile sets and other cosmetic items.
+**4. Qu’est‑ce que la “Trophy Road” ?**
+La Trophy Road est un système de progression où tu gagnes des récompenses en
+jouant (souvent des sets de tuiles à collectionner et d’autres éléments cosmétiques).
 

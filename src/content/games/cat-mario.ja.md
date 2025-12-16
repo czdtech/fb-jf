@@ -51,26 +51,14 @@ locale: ja
 ### よくある質問 (FAQ)
 
 
-> The game is most commonly called "Cat Mario" by English-speaking players. Its original Japanese name is "Syobon Action" (しょぼんのアクション). It is also sometimes referred to as "Neko Mario."
+**1. 理由もなく死に続けるのですが、バグですか？**
+> いいえ、それがこのゲームの狙いです。Cat Mario（しょぼんのアクション）は「理不尽／トロール系」のパロディとして設計されており、常識を裏切る罠が配置されています。クリアするには、何度も死んで罠を覚えるしかありません。
 
-**4. What's the real name of this game?**
+**2. ライフカウンターがマイナスになりました。**
+> ライフは実質無限です。死ぬたびにカウンターが1減っていくだけで、ゲームオーバーにはなりません（開発者のジョークです）。
 
-> No, not on your first try. The only way to learn the location of the traps is by triggering them and dying.
+**3. 罠の場所を知る方法はありますか？**
+> 初見で見抜く決定的な方法はありません。実際に踏んで学び、次の挑戦で回避するのが基本です。
 
-**3. Is there a way to know where the traps are?**
-
-> You have infinite lives. The life counter going into negative numbers is a joke from the game developers. Each time you die, the counter decreases by one, but it will never cause a "Game Over."
-
-**2. How many lives do I have? My life counter is negative.**
-
-> That is the entire point of the game. It is designed to be an "unfair" or "troll" game. Every trap is placed where a player would least expect it, breaking the conventional rules of platforming games. It is beatable, but only through memorization.
-
-**1. Why do I keep dying for no reason? This game is impossible!**
-*   **Q: 理由もなく死に続けるのですが、バグですか？**
-    *   **A:** いいえ、それが正常です。このゲームは「不公平」かつ「理不尽」に作られたネタゲーです。常識を覆す罠を楽しむのが正解です。
-
-*   **Q: ライフカウンターがマイナスになりました。**
-    *   **A:** 無限にコンティニューできます。マイナスのライフカウンターは「何回死んだか」の記録のようなもので、ゲームオーバーになることはありません。
-
-*   **Q: 罠の場所を知る方法は？**
-    *   **A:** 初見で見抜くのは不可能です。引っかかって死んで覚えてください。
+**4. このゲームの正式名称は？**
+> 英語圏では「Cat Mario」と呼ばれることが多いですが、元の日本語名は「しょぼんのアクション（Syobon Action）」です。「Neko Mario」と呼ばれることもあります。

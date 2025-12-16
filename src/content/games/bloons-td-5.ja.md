@@ -34,7 +34,7 @@ BTD5 では以下の要素が追加・強化されています。
     -   **Camo：** 2/2 の **Monkey Village**（`Radar Scanner`）で周囲のタワーに迷彩感知を付与。4/2 **Ninja Monkey**（`Bloonjitsu`）は迷彩処理の主力。
     -   **Lead：** 2/3 **Bomb Tower**（`Cluster Bombs`）や x/3 **Monkey Village**（`Monkey Intelligence Bureau`）で全タワーに鉛破壊能力を与えます。
     -   **Regrow：** 高 DPS のタワーで再生を許さないことが重要。2/3 **Tack Shooter**（`Blade Maelstrom`）や 4/x **Cannon Ship**（Monkey Buccaneer）が有効です。
--   **猴神神殿（Temple of the Monkey God）の建設：** Super Monkey の 4/x アップグレードは最強の後半タワーです。アップグレード前に射程内へ様々なカテゴリのタワーを配置して「献祭」すると、投入コストに応じて Temple の火力が大幅に上昇します。
+-   **Temple of the Monkey God（モンキーゴッド・テンプル）の建設：** Super Monkey の 4/x アップグレードは最強の後半タワーです。アップグレード前に射程内へ様々なカテゴリのタワーを配置して「献祭」すると、投入コストに応じて Temple の火力が大幅に上昇します。
 -   **終盤の主力候補：**
     -   **Technological Terror（Super Monkey x/4）：** アクティブスキルで画面全体を一掃。
     -   **Supa-Vac（Bloonchipper 2/4）：** ZOMG クラスを吸い込み足止めできる究極のクラウドコントロール。

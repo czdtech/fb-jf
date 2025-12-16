@@ -38,26 +38,14 @@ locale: ja
 ### よくある質問 (FAQ)
 
 
-Yes, *Color Burst 3D* is designed as an endless arcade-style game. The goal is not to reach an end, but to challenge yourself and others to get the highest score possible.
+**1. 違う色に当たるとどうなりますか？**
+違う色に触れた時点でゲームオーバーになり、最初からやり直しです。基本ルールは「ボールと同じ色だけに当てる」ことです。
 
-**4. Is this game endless?**
+**2. ボールの色は必ず変わりますか？**
+多くのバージョンでは、リング通過後（または色替えアイコンに触れた時）に色が変わります。常に次のターゲット色へ切り替える意識が必要です。
 
-Your score is directly tied to the number of rings you successfully pass through. The longer you survive, the higher your score will be.
+**3. 高得点を取るには？**
+通過したリング数がそのままスコアになります。長く生き残るほど得点が伸びるので、無理な突っ込みを減らして確実に通過を重ねましょう。
 
-**3. How do I get a high score?**
-
-Yes, in most games of this type, the ball will change color after successfully passing through a ring or by hitting a special color-changing icon. You must always be prepared to adapt.
-
-**2. Does the ball always change color?**
-
-The game ends immediately, and you will have to restart. The core rule is to only touch the color that matches your ball.
-
-**1. What happens if I hit the wrong color?**
-*   **Q: 違う色に当たるとどうなりますか？**
-    *   **A:** ボールが砕け散り、即座にゲームオーバーとなります。
-
-*   **Q: ボールの色はいつ変わりますか？**
-    *   **A:** リングを通過した直後や、特定のカラーチェンジアイテムを取得した際に変わります。
-
-*   **Q: 終わりはありますか？**
-    *   **A:** いいえ、エンドレスラン形式のゲームなので終わりはありません。自分や友達のハイスコアを更新し続けることが目的です。
+**4. 終わりはありますか？**
+基本的にエンドレスです。ゴールに到達するゲームではなく、ハイスコア更新を競います。

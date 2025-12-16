@@ -14,59 +14,33 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
-### Présentation du jeu
+### Detailed Game Introduction
 
-Color Jump est un jeu de réflexes minimaliste où ton personnage ne peut passer
-qu’à travers des portails ou plateformes de la **même couleur**. À chaque
-saut réussi, la vitesse augmente ou le pattern change, ce qui demande une
-lecture de plus en plus rapide de l’écran.
+Color Jump est un jeu de réflexes minimaliste : ton personnage ne peut traverser que des portails/plateformes de la **même couleur**. Il faut synchroniser tes sauts, éviter les barrières non correspondantes et garder le rythme quand la vitesse augmente.
 
-Ton objectif est de survivre le plus longtemps possible, de franchir un maximum
-de portails et de battre ton meilleur score.
+### Gameplay Strategy & Walkthrough
 
-### Guide de jeu
+1.  Lis deux obstacles à l’avance ; ne fixe pas uniquement le portail le plus proche.
+2.  Garde une cadence de taps régulière ; des sauts légèrement tardifs évitent souvent mieux les obstacles bas.
+3.  Ignore les pièces risquées quand l’alignement est mauvais.
+4.  Entraîne‑toi à reconnaître les motifs d’ordre des couleurs s’ils se répètent.
+5.  Utilise les sons comme repère pour stabiliser le timing dans les passages denses.
 
-1.  **Lis deux obstacles à l’avance**  
-    Ne fixe pas seulement le portail juste devant toi ; regarde également le
-    suivant pour anticiper le rythme et la position des sauts.
-2.  **Garde un tempo régulier**  
-    Sur beaucoup de séquences, des tapotements réguliers fonctionnent mieux que
-    de gros ajustements au dernier moment. Un saut légèrement tardif aide
-    parfois à éviter les obstacles bas.
-3.  **Ne prends pas tous les bonus**  
-    Si des pièces ou bonus sont mal alignés, n’hésite pas à les ignorer : mieux
-    vaut rester en vie que de mourir pour quelques points.
-4.  **Mémorise les motifs de couleurs**  
-    Certaines sections réutilisent les mêmes enchaînements de couleurs. Les
-    connaître à l’avance rend ces passages beaucoup plus faciles.
-5.  **Utilise le son si possible**  
-    Dans certaines versions, les effets sonores donnent un rythme utile pour
-    caler tes sauts sur les séquences les plus denses.
+### Controls Guide
 
-### Commandes
+- Tape/Clique pour sauter ; certaines variantes autorisent le double saut.
+- Pause/Restart via l’interface.
 
-- **Sauter** : tape ou clique pour faire sauter ton personnage ; certaines
-  variantes autorisent le double saut en tapant deux fois rapidement.  
-- **Pause / Rejouer** : utilise les boutons de l’interface pour mettre le jeu
-  en pause ou relancer une partie.
+### Frequently Asked Questions (FAQ)
 
-### Foire aux questions (FAQ)
+- Q: Je touche toujours la mauvaise couleur — une astuce ?
+  
+  A: Concentre‑toi sur les deux prochains portails et déclenche tes sauts un peu plus tard pour mieux t’aligner.
 
+- Q: Y a‑t‑il une fin ?
+  
+  A: Souvent non ; le jeu est infini et l’objectif est de battre tes records.
 
-- Q: I always hit the wrong color — any fix?
-**Q : Je me trompe toujours de couleur, une astuce ?**  
-
-- Q: Is there an end?
-R : Essaie de regarder le prochain obstacle plutôt que celui juste devant toi
-
-- Q: Double jump?
-et décale légèrement tes sauts vers la fin de la fenêtre disponible.
-
-**Q : Y a‑t‑il une fin au jeu ?**  
-R : En général, non : Color Jump est souvent conçu comme un runner infini. Le
-but est de battre tes records.
-
-**Q : Le double saut est‑il toujours disponible ?**  
-R : Pas forcément. Certaines versions l’intègrent, d’autres non. Regarde les
-indications du tutoriel ou du menu d’aide pour connaître les commandes
-précises.
+- Q: Double saut ?
+  
+  A: Certaines versions l’incluent ; vérifie l’indication du tutoriel.

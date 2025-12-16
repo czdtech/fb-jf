@@ -49,33 +49,41 @@ sans perdre toutes tes vies.
   et te déplacer.  
 - **Pause** : bouton ou touche pour interrompre la partie.
 
+### Conseils et stratégies
+
+
+- Q: Combien y a‑t‑il de niveaux ?
+
+
+- Les boss demandent surtout de reconnaître les patterns : attends une ouverture,
+  puis attaque au spin.
+
+- Ramasse un maximum de fruits Wumpa pour gagner des vies supplémentaires (selon
+  la version).
+
+- Brise les caisses au spin depuis une distance sûre ; ne reste jamais près d’une
+  caisse TNT une fois activée.
 ### Foire aux questions (FAQ)
 
+- Les boss demandent surtout de reconnaître les patterns : attends une ouverture,
+  puis attaque au spin.
 
-- Q: How many levels are there?
+- Ramasse un maximum de fruits Wumpa pour gagner des vies supplémentaires (selon
+  la version).
 
+- Brise les caisses au spin depuis une distance sûre ; ne reste jamais près d’une
+  caisse TNT une fois activée.
 
-- Boss levels emphasize pattern recognition—wait for openings, then spin.
-
-- Grab as many Wumpa fruit as possible for extra lives in some versions.
-
-- Spin into crates from a safe distance; never linger near TNT after activation.
-### Foire aux questions (FAQ)
-
-- Boss levels emphasize pattern recognition—wait for openings, then spin.
-
-- Grab as many Wumpa fruit as possible for extra lives in some versions.
-
-- Spin into crates from a safe distance; never linger near TNT after activation.
-
-- Time jumps to clear moving platforms and gaps.
+- Calibre tes sauts pour franchir plateformes mobiles et fossés.
 **Q : Le gameplay est‑il identique aux jeux console ?**  
 
-- Q: Why doesn’t the jump or spin work?
-R : Cette adaptation reprend l’esprit et certains mouvements, mais reste plus
+- Q: Pourquoi le saut ou le spin ne marche pas ?
+R : Assure‑toi que la fenêtre du jeu est bien active (clique dans le jeu). Selon
+le site/hébergeur, certaines touches peuvent varier.
 
-- Q: Is progress saved?
-simple et orientée runner.
+- Q: La progression est‑elle sauvegardée ?
+R : La plupart des versions web ne sauvegardent pas une progression durable au‑delà
+de la session.
 
 **Q : Que se passe‑t‑il si je tombe ou me fais toucher sans masque ?**  
 R : Tu perds une vie et recommences depuis le dernier point de contrôle ou le

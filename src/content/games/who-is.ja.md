@@ -19,7 +19,7 @@ Who Is?は、観察力と推理力をテストするパズルゲームです。�
 ### ゲームプレイガイド
 
 
-Each level presents a unique situation or question, and your goal is to figure out the correct answer or solution.
+各レベルで状況や問いが提示されるので、正しい答えや解決策を見つけます。
  - **観察する：** シーンを注意深く観察します
  - **手がかりを探す：** 重要な手がかりを見つけます
  - **推理する：** 論理的に考えて答えを導きます
@@ -30,9 +30,9 @@ Each level presents a unique situation or question, and your goal is to figure o
  - **マウス：** クリックして選択と相互作用
 
 
-- **Multi-touch:** Some puzzles may require using two fingers simultaneously.
+- **マルチタッチ：** パズルによっては、2本指操作が必要になる場合があります。
 
-- **Drag:** Tap and hold, then drag to move objects or reveal hidden areas.
+- **ドラッグ：** 押したまま動かして、オブジェクトを動かしたり隠れた場所を見つけたりします。
 ### よくある質問（FAQ）
 
 **ゲームの目標は何ですか？**

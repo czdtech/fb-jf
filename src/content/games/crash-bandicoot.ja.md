@@ -40,17 +40,14 @@ locale: ja
 
 ### よくある質問 (FAQ)
 
-*   **Q: ステージはいくつありますか？**
+- Q: ステージはいくつありますか？
+  
+  A: 基本的に5つのメインステージがあり、クリスタルを5つ集めるとボス戦（リッパー・ルー）になります。
 
-A: Five main stages; after collecting five crystals you fight Ripper Roo, then the game ends.
-- **A:** 基本的に5つのメインステージがあり、クリスタルを5つ集めるとボス戦（リッパー・ルー）になります。
+- Q: ジャンプやスピンが反応しません。
+  
+  A: 一度ゲーム画面の中をクリックしてフォーカスを合わせてください。配信サイトによってキー割り当てが少し違う場合もあります。
 
-
-A: Make sure the game canvas is focused; keys may vary slightly between hosts.
-*   **Q: ジャンプやスピンが反応しません。**
-
-A: Most Flash/browser versions do not save long‑term progress beyond the session.
-    *   **A:** 一度ゲーム画面の中をクリックして、フォーカスを合わせてから操作してみてください。
-
-*   **Q: セーブできますか？**
-    *   **A:** 残念ながら、このバージョンの多くはセーブ機能がなく、ブラウザを閉じると最初からになります。短いゲームなので一気にクリアを目指しましょう。
+- Q: セーブできますか？
+  
+  A: 多くのブラウザ版/Flash版は長期的なセーブに対応していません。ブラウザを閉じると最初からになることが多いです。

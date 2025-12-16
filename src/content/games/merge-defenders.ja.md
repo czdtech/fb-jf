@@ -1,6 +1,6 @@
 ---
 title: Merge Defenders
-description: Merge Defendersは戦略的タワーディフェンスマージゲームです。ユニットをマージし、防御を構築し、敵の波から王国を守ります。
+description: Merge Defendersはマージ要素のあるタワーディフェンスです。ユニットを合体させて強化し、敵のウェーブをしのぎます。
 iframeSrc: 'https://6n6cqbgf7r3a8.h5games.usercontent.goog/v/39pqfpce8gbjo/'
 thumbnail: /new-images/merge-defenders.png
 urlstr: merge-defenders
@@ -16,7 +16,7 @@ locale: ja
 
 ### ゲーム紹介
 
-Merge Defendersは、マージメカニクスとタワーディフェンスを組み合わせます。同じユニットをマージしてより強力な防御者を作成し、戦略的に配置して敵の波から王国を守ります。より強力な軍隊のためにアップグレードしてマージします。
+Merge Defendersは、ユニットをマージして強化しながら戦うタワーディフェンスです。同じユニットを合体させてより強い防衛役を作り、配置を工夫して敵のウェーブをしのぎます。
 
 ### ゲームプレイ戦略と攻略法
 
@@ -29,7 +29,7 @@ Merge Defendersは、マージメカニクスとタワーディフェンスを�
 ### 操作ガイド
 
 
-The game is controlled entirely with your mouse or finger.
+マウスまたはタッチだけで操作できます。
 - ユニットをドラッグ＆ドロップしてマージおよび配置します。
 - ユニットをクリック/タップして情報とアップグレードを表示します。
 - ストアで新しいユニットを購入します。
@@ -42,9 +42,9 @@ The game is controlled entirely with your mouse or finger.
   A: ユニットをアップグレードしてマージし、配置を調整します。
 - **Q: スペシャルアビリティはありますか？**  
 
-    - **A:** Focus on merging your units to the highest possible level. A single high-level unit is often much more powerful than several low-level ones. Make sure all your available defensive slots are filled, and continuously buy and merge new units as you earn coins.
+    - **A:** はい。ユニットによってはアクティブ化できるスキルがある場合があります（使い方は画面表示を確認してください）。
 
-- **Q: I'm being overwhelmed by enemies. What should I do?**
+- **Q: 防衛ユニットはどこに配置できますか？**
 
-    - **A:** You can only place your defensive units in the designated square slots along the path, not on the path itself where the enemies walk.
-  A: はい、一部のユニットには、アクティブ化できるスペシャルアビリティがあります。
+    - **A:** 通路そのものではなく、通路沿いの指定スロットにのみ配置できます。
+  A: 配置できる場所はステージごとに決まっています。空きスロットを埋めてからマージで強化すると安定します。

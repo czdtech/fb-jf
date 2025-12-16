@@ -1,0 +1,299 @@
+---
+/**
+ * HomePage Template Component
+ *
+ * Goal: unify all locale homepages to the same layout + script initialization.
+ * - Uses BaseLayout (which injects Header/Footer/SEO/Analytics)
+ * - Uses i18n JSON for UI strings (same approach as ui-i18n-cards)
+ *
+ * Requirements: R3, R4
+ */
+import BaseLayout from '../layouts/BaseLayout.astro';
+import PopularGames from './PopularGames.astro';
+import NewGames from './NewGames.astro';
+import IndexTrendingGames from './IndexTrendingGames.astro';
+import Common from './Common.astro';
+import Categories from './Categories.astro';
+import LongContentDe from './homepage/HomePageLongContent.de.astro';
+import LongContentEs from './homepage/HomePageLongContent.es.astro';
+import LongContentFr from './homepage/HomePageLongContent.fr.astro';
+import LongContentJa from './homepage/HomePageLongContent.ja.astro';
+import LongContentKo from './homepage/HomePageLongContent.ko.astro';
+import { getLocaleFromLangAttr, useTranslations, type Locale } from '../i18n/utils';
+
+interface Props {
+  /**
+   * HTML lang attribute value for this page.
+   * Examples: "en", "zh-CN", "de", "fr", "es", "ja", "ko"
+   */
+  lang?: string;
+}
+
+const { lang = 'en' } = Astro.props as Props;
+const locale = getLocaleFromLangAttr(lang);
+const t = useTranslations(locale);
+
+const SEO_COPY: Record<Locale, { title: string; description: string }> = {
+  en: {
+    title: 'FiddleBops - Play FiddleBops Incredibox Game',
+    description:
+      'Create your unique music with Fiddlebops! This fan-made project, inspired by Incredibox, lets you mix and match various sounds to compose personalized tracks.',
+  },
+  zh: {
+    title: 'Fiddlebops - 免费在线Fiddlebops Incredibox游戏',
+    description:
+      '用 Fiddlebops 创建你独一无二的音乐！这是一个受 Incredibox 启发的粉丝自制项目，允许你混合搭配各种声音，创作个性化音乐。在 Fiddlebops 中，探索你的音乐天赋，分享你的独特音乐。',
+  },
+  de: {
+    title: 'Fiddlebops - Kostenloses Online Fiddlebops Incredibox Spiel',
+    description:
+      'Erstelle deine einzigartige Musik mit Fiddlebops! Dieses Fanprojekt, inspiriert von Incredibox, ermöglicht es dir, verschiedene Sounds zu mischen und zu kombinieren, um personalisierte Musikstücke zu erstellen.',
+  },
+  fr: {
+    title: 'Fiddlebops - Jeu Fiddlebops Incredibox en ligne gratuit',
+    description:
+      "Créez votre musique unique avec Fiddlebops ! Ce projet de fans inspiré d'Incredibox vous permet de mélanger et d'associer différents sons pour composer des morceaux personnalisés.",
+  },
+  es: {
+    title: 'Fiddlebops - Juego Gratuito en Línea Fiddlebops Incredibox',
+    description:
+      '¡Crea tu música única con Fiddlebops! Este proyecto hecho por fans, inspirado en Incredibox, te permite mezclar y combinar varios sonidos para componer pistas personalizadas.',
+  },
+  ja: {
+    title: 'Fiddlebops - 無料オンラインFiddlebops Incrediboxゲーム',
+    description:
+      'Fiddlebopsであなただけの音楽を創りましょう！Incrediboxにインスパイアされたファン制作のプロジェクトで、様々なサウンドをミックスしてパーソナライズされた音楽を作成できます。',
+  },
+  ko: {
+    title: 'Fiddlebops - 무료 온라인 Fiddlebops Incredibox 게임',
+    description:
+      '피들봅스로 나만의 독특한 음악을 만들어 보세요! 인크레디박스에서 영감을 받은 팬 제작 프로젝트로, 다양한 사운드를 믹스 매치하여 개성 있는 음악을 작곡할 수 있습니다.',
+  },
+};
+
+const title = SEO_COPY[locale].title;
+const description = SEO_COPY[locale].description;
+const canonicalUrl = locale === 'en' ? 'https://www.playfiddlebops.com/' : `https://www.playfiddlebops.com/${locale}/`;
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Game',
+  name: title,
+  alternateName: 'playfiddlebops.com',
+  url: canonicalUrl,
+  description,
+};
+
+// Keep hreflang tags consistent across all homepage versions.
+const hreflangLinks = [
+  { lang: 'x-default', url: 'https://www.playfiddlebops.com/' },
+  { lang: 'en', url: 'https://www.playfiddlebops.com/' },
+  { lang: 'zh-CN', url: 'https://www.playfiddlebops.com/zh/' },
+  { lang: 'de', url: 'https://www.playfiddlebops.com/de/' },
+  { lang: 'fr', url: 'https://www.playfiddlebops.com/fr/' },
+  { lang: 'es', url: 'https://www.playfiddlebops.com/es/' },
+  { lang: 'ja', url: 'https://www.playfiddlebops.com/ja/' },
+  { lang: 'ko', url: 'https://www.playfiddlebops.com/ko/' },
+];
+
+const showEmail = locale === 'en';
+
+// Legacy long-form homepage sections (about/games/video/faq) preserved per locale.
+// Only enabled for locales that were migrated to thin `src/pages/{locale}/index.astro` wrappers.
+const LONG_CONTENT_BY_LOCALE: Partial<Record<Locale, any>> = {
+  de: LongContentDe,
+  es: LongContentEs,
+  fr: LongContentFr,
+  ja: LongContentJa,
+  ko: LongContentKo,
+};
+
+const LongContent = LONG_CONTENT_BY_LOCALE[locale];
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalUrl={canonicalUrl}
+  ogImage="https://www.playfiddlebops.com/tw.jpg"
+  ogType="website"
+  twitterCard="summary_large_image"
+  jsonLd={jsonLd}
+  hreflangLinks={hreflangLinks}
+  lang={lang}
+  additionalStyles={['/styles/homepage.css']}
+  showHeader={true}
+  showFooter={true}
+  showEmail={showEmail}
+>
+  <section class="hero">
+    <div class="container">
+      <div class="game-card">
+        <div class="game-info" id="paly">
+          <h2>{t('common.welcomeTitle', 'Welcome to Fiddlebops Incredibox!')}</h2>
+          <p>{t('common.welcomeDescription', 'Start your musical journey!')}</p>
+        </div>
+
+        <PopularGames lang={lang} />
+        <div class="game-iframe-sprunki">
+          <iframe id="fiddlebops-iframe" src="" allowtransparency="true" allowfullscreen width="100%" height="100%"></iframe>
+          <button id="playButton">{t('game.play', 'Play')}</button>
+        </div>
+        <NewGames lang={lang} />
+      </div>
+    </div>
+  </section>
+
+  <IndexTrendingGames lang={lang} />
+  <Common lang={lang} />
+  <Categories lang={lang} />
+
+  {LongContent ? (
+    <LongContent />
+  ) : (
+    <Fragment>
+      <section class="about" id="about">
+        <div class="container">
+          <h2>{t('homepage.aboutTitle', 'About Fiddlebops Incredibox')}</h2>
+          <div class="about-content">
+            <p>{description}</p>
+          </div>
+        </div>
+      </section>
+
+      <section class="games">
+        <div class="container">
+          <h2>{t('homepage.exploreSoundsTitle', 'Explore the Different Sounds in Fiddlebops Incredibox')}</h2>
+          <div class="game-grid">
+            <div class="game">
+              <div class="game-logo">
+                <img src="/img-1.png" alt="Beat 1" loading="lazy" width="150" height="150">
+              </div>
+              <p>Beat 1</p>
+              <audio controls preload="metadata" class="w-[100px] max-w-full" crossorigin="anonymous">
+                <source src="https://www.playfiddlebops.com/beat1.wav" type="audio/wav">
+              </audio>
+            </div>
+            <div class="game">
+              <div class="game-logo">
+                <img src="/img-2.png" alt="Beat 3" loading="lazy" width="150" height="150">
+              </div>
+              <p>Beat 3</p>
+              <audio controls preload="metadata" class="w-[100px] max-w-full" crossorigin="anonymous">
+                <source src="https://www.playfiddlebops.com/beat3.wav" type="audio/wav">
+              </audio>
+            </div>
+            <div class="game">
+              <div class="game-logo">
+                <img src="/img-3.png" alt="Beat 5" loading="lazy" width="150" height="150">
+              </div>
+              <p>Beat 5</p>
+              <audio controls preload="metadata" class="w-[100px] max-w-full" crossorigin="anonymous">
+                <source src="https://www.playfiddlebops.com/beat5.wav" type="audio/wav">
+              </audio>
+            </div>
+            <div class="game">
+              <div class="game-logo">
+                <img src="/img-4.png" alt="Effect 3" loading="lazy" width="150" height="150">
+              </div>
+              <p>Effect 3</p>
+              <audio controls preload="metadata" class="w-[100px] max-w-full" crossorigin="anonymous">
+                <source src="https://www.playfiddlebops.com/effect3.wav" type="audio/wav">
+              </audio>
+            </div>
+            <div class="game">
+              <div class="game-logo">
+                <img src="/img-5.png" alt="Effect 4" loading="lazy" width="150" height="150">
+              </div>
+              <p>Effect 4</p>
+              <audio controls preload="metadata" class="w-[100px] max-w-full" crossorigin="anonymous">
+                <source src="https://www.playfiddlebops.com/effect4.wav" type="audio/wav">
+              </audio>
+            </div>
+            <div class="game">
+              <div class="game-logo">
+                <img src="/img-6.png" alt="Effect 5" loading="lazy" width="150" height="150">
+              </div>
+              <p>Effect 5</p>
+              <audio controls preload="metadata" class="w-[100px] max-w-full" crossorigin="anonymous">
+                <source src="https://www.playfiddlebops.com/effect5.wav" type="audio/wav">
+              </audio>
+            </div>
+            <div class="game">
+              <div class="game-logo">
+                <img src="/img-7.png" alt="Voice 2" loading="lazy" width="150" height="150">
+              </div>
+              <p>Voice 2</p>
+              <audio controls preload="metadata" class="w-[100px] max-w-full" crossorigin="anonymous">
+                <source src="https://www.playfiddlebops.com/voice2.wav" type="audio/wav">
+              </audio>
+            </div>
+            <div class="game">
+              <div class="game-logo">
+                <img src="/img-8.png" alt="Voice 3" loading="lazy" width="150" height="150">
+              </div>
+              <p>Voice 3</p>
+              <audio controls preload="metadata" class="w-[100px] max-w-full" crossorigin="anonymous">
+                <source src="https://www.playfiddlebops.com/voice3.wav" type="audio/wav">
+              </audio>
+            </div>
+            <div class="game">
+              <div class="game-logo">
+                <img src="/img-9.png" alt="Voice 5" loading="lazy" width="150" height="150">
+              </div>
+              <p>Voice 5</p>
+              <audio controls preload="metadata" class="w-[100px] max-w-full" crossorigin="anonymous">
+                <source src="https://www.playfiddlebops.com/voice5.wav" type="audio/wav">
+              </audio>
+            </div>
+            <div class="game">
+              <div class="game-logo">
+                <img src="/img-10.png" alt="Bonus 1" loading="lazy" width="150" height="150">
+              </div>
+              <p>Bonus 1</p>
+              <audio controls preload="metadata" class="w-[100px] max-w-full" crossorigin="anonymous">
+                <source src="https://www.playfiddlebops.com/bonus1.wav" type="audio/wav">
+              </audio>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="game-video about">
+        <div class="container">
+          <h2>{t('homepage.videoTitle', 'Fiddlebops Incredibox Game Video')}</h2>
+          <div class="video-container">
+            <iframe
+              src="https://www.youtube.com/embed/4Oj-dVLSA70"
+              title="Fiddlebops ALL POLOS 4K (WITH SUBTITLES)"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              allowfullscreen
+            ></iframe>
+            <iframe
+              src="https://www.youtube.com/embed/JlMa-fRBOwE"
+              title="Every Incredibox Fiddlebops in 8 Minutes"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;"
+              allowfullscreen
+            ></iframe>
+            <div class="clear-both"></div>
+          </div>
+        </div>
+        <div class="clear-both"></div>
+      </section>
+    </Fragment>
+  )}
+
+  <!-- Iframe loader script for homepage game -->
+  <script>
+    import { initIframeLoader } from '../scripts/iframe-loader.ts';
+
+    initIframeLoader({
+      iframeId: 'fiddlebops-iframe',
+      playButtonId: 'playButton',
+      containerSelector: '.game-iframe-sprunki',
+      iframeSrc: 'https://fiddlebops-49o.pages.dev/'
+    });
+  </script>
+</BaseLayout>
+
+

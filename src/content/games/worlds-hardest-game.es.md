@@ -18,11 +18,11 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
-### Game Introduction
+### Introducción del juego
 
-"World's Hardest Game" es un arcade famoso por su dificultad extrema. Controlas un pequeño cuadrado rojo que debe atravesar niveles plagados de círculos azules en movimiento. Cada error se castiga al instante, así que necesitas un timing milimétrico y una paciencia enorme para esquivar los obstáculos y alcanzar la meta. Su estética simple esconde una experiencia tan frustrante como adictiva.
+"World's Hardest Game" es un arcade famoso por su dificultad extrema. Controlas un pequeño cuadrado rojo que debe atravesar niveles plagados de círculos azules en movimiento. Cada error se castiga al instante, así que necesitas una sincronización milimétrica y una paciencia enorme para esquivar los obstáculos y alcanzar la meta. Su estética simple esconde una experiencia tan frustrante como adictiva.
 
-### Gameplay Strategy
+### Estrategia de juego
 
 1.  **Observa los patrones:** antes de moverte, estudia con calma las trayectorias y el ritmo de los círculos azules.
 2.  **Espera el momento justo:** no te precipites; muchas veces es mejor aguardar un ciclo completo antes de avanzar.
@@ -30,23 +30,23 @@ releaseDate: 2025-08-16T00:00:00.000Z
 4.  **Divide el camino:** trocea las rutas largas en pequeños tramos seguros y completa el nivel paso a paso.
 5.  **Mantén la calma:** fallar es parte del juego. Mantén la cabeza fría y aprende de cada intento.
 
-### How to Play
+### Cómo jugar
 
 *   **Movimiento:** usa las teclas `WASD` o las flechas para mover el cuadrado rojo.
 *   **Ajustes finos:** puedes hacer movimientos pixel a pixel para esquivar por muy poco los obstáculos.
 *   **Pausa y planificación:** detente en zonas seguras para estudiar el siguiente tramo.
 
-### Frequently Asked Questions
+### Preguntas frecuentes
 
 1.  **Q: ¿Por qué se llama “el juego más difícil del mundo”?**  
     **A:** Porque exige un control de precisión extrema y cualquier error mínimo implica volver a intentarlo desde el principio del nivel.
 
-2.  **Q: Cuántos niveles tiene?**  
+2.  **Q: ¿Cuántos niveles tiene?**  
     **A:** Suele incluir unas 30 fases, cada una más complicada que la anterior.
 
-3.  **Q: Se guarda el progreso?**  
+3.  **Q: ¿Se guarda el progreso?**  
     **A:** La mayoría de versiones guardan automáticamente tu avance, permitiéndote continuar desde el último nivel completado.
 
-4.  **Q: Algún consejo para pasárselo?**  
+4.  **Q: ¿Algún consejo para pasárselo?**  
     **A:** Practica, observa y no corras. Memoriza patrones de movimiento y avanza solo cuando veas un hueco claro.
 

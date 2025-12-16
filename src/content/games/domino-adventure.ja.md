@@ -20,7 +20,7 @@ locale: ja
 各プレイヤーは手配（手持ちのドミノ）を持ってスタートします。自分のターンに、場に出ているドミノの端の目（ピップ）と一致する牌を出して繋げていきます。先に手配を無くしたプレイヤー、または全員がブロックされて動けなくなった時点で、最も手配の合計点が少ないプレイヤーがラウンドの勝者となります。
 
 
-The winner of a round scores points equal to the total number of pips left in their opponents' hands. The game is played over several rounds until one player reaches a pre-set score target (e.g., 15 points as shown in the screenshot).
+ラウンドの勝者は、相手の手元に残った牌のピップ（目）の合計を得点として獲得します。これを複数ラウンド繰り返し、先に目標スコア（例：画面に表示される15点など）に到達したプレイヤーが勝利です。
 ### ゲーム攻略と戦略
 
 1.  **ダブル牌は早めに:** 左右同じ目の牌（ダブル・ファイブなど）は、繋げる場所が1つしかないため使いにくいです。手元に残ると不利になるので、早めに処理しましょう。
@@ -34,30 +34,21 @@ The winner of a round scores points equal to the total number of pips left in th
 ### 操作ガイド
 
 
-The game is designed for simple, intuitive drag-and-drop or click-based gameplay.
+このゲームは、ドラッグ＆ドロップまたはクリックだけで直感的にプレイできるように設計されています。
 *   **牌を出す:** 自分のラックから出したい牌をクリックまたはドラッグして、場の繋がる場所に置きます。有効な場所があれば自動的に吸着します。
 
 ### よくある質問 (FAQ)
 
 
-**3. What's the difference between "Block" and "Draw" mode?**
+**1. ラウンドの勝利条件は？**
+手配を最初にすべて出し切ったプレイヤーが勝ちです。また、全員がブロック（出せる牌がない状態）になった場合は、手元に残ったピップ（目）の合計が最も少ないプレイヤーが勝利になります。
 
-After a round ends, the winner receives points equal to the **sum of all the pips on the dominoes left in the loser's hand**. For example, if your opponent has a [6-5] and a [2-1] tile left, you score (6+5+2+1) = 14 points.
+**2. 得点はどう計算されますか？**
+ラウンド終了時、勝者は敗者（相手）の手元に残った牌のピップ（目）の合計を得点として獲得します。例えば相手に[6-5]と[2-1]が残っていれば、(6+5+2+1)=14点になります。
 
-**2. How is scoring calculated?**
+**3. 「ブロックモード」と「ドローモード」の違いは？**
+*   **ブロックモード:** 出せる牌がない時は何もせず、そのままターンをパスします。
+*   **ドローモード:** 出せる牌がない時は、出せる牌が引けるまで山（ボーンヤード）から牌を引き続けます。
 
-You win a round by being the first player to get rid of all the dominoes in your hand. You can also win if all players are blocked, and you have the lowest total number of pips remaining in your hand.
-
-**1. How do I win a round?**
-*   **Q: ラウンドの勝利条件は？**
-- **A:** 手配を最初に全て出し切ることです。または全員パスの状態になった時に、手配の数字の合計が最も少ない人が勝ちです。
-
-
-The Trophy Road is a progression system where you earn exclusive rewards by playing the game. This likely includes new, collectible tile sets and other cosmetic items.
-
-**4. What is the "Trophy Road"?**
-*   **Q: 得点はどう計算されますか？**
-    *   **A:** 勝者は、敗者の手元に残っている牌の数字の合計を得点として獲得します。
-
-*   **Q: トロフィーロードとは何ですか？**
-    *   **A:** ゲームをプレイして勝利を重ねることで報酬が得られる進行システムです。新しい牌のデザイン（スキン）や装飾アイテムなどが手に入ります。
+**4. トロフィーロードとは何ですか？**
+プレイや勝利で報酬を獲得できる進行システムです。新しい牌セットなどのコレクション要素やコスメティック報酬が含まれることがあります。

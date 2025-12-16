@@ -41,17 +41,9 @@ locale: ja
 
 ### よくある質問 (FAQ)
 
-*   **Q: いつも着地で転倒してしまいます。**
-
-A: Reduce flips, land with wheels level, and ease throttle until suspension settles.
-- **A:** 宙返りを減らし、タイヤを水平にして着地し、サスペンションが落ち着くまでアクセルを緩めましょう。
-
-
-A: Suspension/tires for handling; speed after stability.
-*   **Q: 最初のアップグレードは何がいい？**
-
-A: On flat ground after clean landings to extend speed without losing control.
-    *   **A:** サスペンション/タイヤでハンドリングを改善。安定性の後にスピードです。
-
-*   **Q: ブーストはいつ使うべき？**
-    *   **A:** クリーンな着地後の平地で使うと、制御を失わずにスピードを延長できます。
+- Q: いつも着地で転倒してしまいます。  
+  A: 宙返りを減らし、タイヤを水平にして着地しましょう。サスペンションが落ち着くまでアクセルを控えると安定します。
+- Q: 最初のアップグレードは何がいい？  
+  A: まずはサスペンション/タイヤで操作性と安定性を上げ、慣れてからエンジンやブーストを伸ばすのがおすすめです。
+- Q: ブーストはいつ使うべき？  
+  A: 空中ではなく、クリーンに着地した後の平地で使いましょう。制御を失わずに速度を伸ばせます。

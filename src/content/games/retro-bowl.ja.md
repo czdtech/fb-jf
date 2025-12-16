@@ -1,6 +1,6 @@
 ---
 title: Retro Bowl
-description: Retro Bowlはレトロフットボール管理ゲームです。チームを管理し、プレイを呼び出し、ゲームに勝ち、チャンピオンシップを目指します。
+description: Retro Bowlはアメフトのチーム運営ゲームです。編成や戦術を決め、試合に勝って優勝を目指します。
 iframeSrc: 'https://retrobowl.h5games.usercontent.goog/v/3k9j5m8h7p2n8/'
 thumbnail: /new-images/retro-bowl.png
 urlstr: retro-bowl
@@ -16,24 +16,24 @@ locale: ja
 
 ### ゲーム紹介
 
-Retro Bowlは、レトロなピクセルアートスタイルでアメリカンフットボール管理と試合プレイを組み合わせます。チームを構築し、プレイヤーを署名し、試合中にプレイを呼び出し、チームをチャンピオンシップに導きます。
+Retro Bowlは、レトロなピクセルアートでアメリカンフットボールの運営と試合を楽しめるゲームです。チームを編成し、選手を獲得し、試合中はプレイを選んでチームを優勝へ導きます。
 
 ### ゲームプレイ戦略と攻略法
 
-1.  **チームを構築:** 賢くドラフトおよび署名します。
-2.  **プレイを呼び出す:** 守備に基づいて攻撃を選択します。
-3.  **投げるタイミング:** QBとして正確に投げます。
-4.  **予算を管理:** サラリーキャップに固執します。
-5.  **モラル:** プレイヤーを幸せに保ちます。
+1.  **チームを構築:** ドラフトや獲得を計画的に行います。
+2.  **プレイを選ぶ:** 相手守備を見て攻撃を組み立てます。
+3.  **投げるタイミング:** QBは余裕を持って正確に投げます。
+4.  **予算を管理:** サラリーキャップを意識して編成します。
+5.  **士気:** 選手のコンディションや満足度も見ます。
 
 ### 操作ガイド
 
 - タッチ/マウス：パスを狙い、投げます。
-- スワイプ：ランプレイを制御します。
+- スワイプ：ランの方向を制御します。
 - 管理メニューでチームを管理します。
 
 
-- **Tactical Selection**: Choose different offensive and defensive tactics during games.
+- **戦術選択**: 試合中に攻守の戦術を切り替えられる場合があります。
 ### よくある質問 (FAQ)
 
 - **Q: これは完全なフットボールシミュレーションですか？**  
@@ -44,9 +44,9 @@ Retro Bowlは、レトロなピクセルアートスタイルでアメリカン�
   A: 基本ゲームは無料ですが、一部の機能にはプレミアムが必要な場合があります。
 
 
-**A**: Players may get injured during games, affecting their performance, requiring proper rotation and player management.
+**A**: 試合中にケガをして能力が下がることがあります。その場合はローテーションや選手管理が重要です。
 
-- **Q: Can players get injured?**
+- **Q: 選手はケガをしますか？**
 
 
-**A**: Players may get injured during games, affecting their performance, requiring proper rotation and player management.
+**A**: 試合中にケガをして能力が下がることがあります。その場合はローテーションや選手管理が重要です。

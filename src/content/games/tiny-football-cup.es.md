@@ -31,9 +31,9 @@ Tiny Football Cup reduce el fútbol a partidos muy ágiles, con conducción senc
 
 ### Preguntas frecuentes (FAQ)
 
-- **Q: No consigo encontrar hueco para disparar.**  
+- **Q: ¿No consigo encontrar hueco para disparar?**  
   **A:** Intenta soltar el balón antes, buscando paredes y tiros de primera en lugar de conducir demasiado.
 
-- **Q: Mi defensa hace agua.**  
+- **Q: ¿Mi defensa hace agua?**  
   **A:** Mantén la línea, cambia de defensor para cerrar espacios y evita perseguir la pelota sin plan.
 

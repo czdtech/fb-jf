@@ -25,7 +25,7 @@ locale: ja
 *   **クロスチェック:** 分からない単語があっても、交差する別の単語を埋めることで文字が判明し、ヒントになります。
 
 
-- Many online versions provide Check/Reveal/Undo tools and timers.
+- 多くのウェブ版には、Check/Reveal/Undo（確認/答え表示/一手戻る）やタイマーなどの便利機能が用意されています。
 ### 操作ガイド
 
 *   **文字入力:** キーボードのA〜Z
@@ -33,7 +33,7 @@ locale: ja
 *   **削除:** BackSpace
 
 
-- Mouse/touch: tap a clue list item to focus its entry.
+- マウス/タッチ: ヒント列表の項目をタップすると、その単語入力にフォーカスできます。
 ### 攻略のコツ
 
 *   **埋めやすいところから:** 知識が確実な答えや、空欄補充（Fill-in-the-blank）形式のヒント、複数形（-S）や過去形（-ED）など推測しやすい語尾から埋めていきましょう。
@@ -41,17 +41,17 @@ locale: ja
 *   **略語に注意:** ヒントに「abbr.」や「init.」とある場合は、答えも略語（例: ST for Street）になります。
 
 
-- For cryptic/British styles, parse definition + wordplay components and indicator words.
+- クリプティック（英式）では、「定義 + 言葉遊び」の要素と、指示語（indicator）を分解して読み解くのが基本です。
 ### よくある質問 (FAQ)
 
-*   **Q: アメリカ式とイギリス式の違いは？**
+- Q: アメリカ式とイギリス式の違いは？
+  
+  A: 一般にアメリカ式は全ての文字がクロスチェックされ、黒マスが点対称に配置されることが多いです。イギリス式（特にクリプティック）は言葉遊びの要素が強く、交差していない文字が含まれる場合もあります。
 
-A: American grids usually have all letters cross‑checked and rotational symmetry; British cryptics use wordplay‑based clues and often allow unchecked letters.
-- **A:** 一般的にアメリカ式は全ての文字が交差しており、黒マスが点対称に配置されることが多いです。イギリス式（特にクリプティック）は言葉遊びや謎解きの要素が強く、交差していない文字が含まれることもあります。
+- Q: 典型的な日刊パズルのサイズは？
+  
+  A: 日刊は15×15、日曜版など大型は21×21がよく見られます（出題元により異なります）。
 
-
-A: Common sizes are 15×15 daily and 21×21 on Sundays (varies by publisher).
-*   **Q: 記号やアクセント記号は必要ですか？**
-
-A: Most crosswords ignore punctuation and accents; fill letters only unless specified.
-    *   **A:** ほとんどのクロスワードでは、ハイフンやスペース、アクセント記号は無視し、アルファベットのみを入力します。
+- Q: 記号やアクセント記号は必要ですか？
+  
+  A: 多くのクロスワードでは句読点やアクセント記号は無視し、指定がない限りアルファベットのみを入力します。

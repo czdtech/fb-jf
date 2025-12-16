@@ -30,17 +30,17 @@ Words of Magicは、単語パズルとRPG要素を組み合わせたユニーク
 ### よくある質問（FAQ）
 
 
-- **A:** You can typically earn more hints by completing levels, finding bonus words, or through daily login rewards.
+- **A:** レベルクリア、ボーナスワードの発見、デイリーログイン報酬などでヒントを増やせる場合があります。
 
-    - **Q: How do I get more hints?**
+    - **Q: ヒントはどうやって増やせますか？**
 
-- **A:** That was likely a "Bonus Word." You still get credit and points for finding it, but it's not part of the main puzzle for that level.
+- **A:** それは「ボーナスワード」だった可能性があります。見つけたこと自体は得点になりますが、そのレベルのメインのパズルには含まれない場合があります。
 
-    - **Q: I found a real word, but it didn't appear on the board. Why?**
+    - **Q: 本物の単語なのに盤面に出ません。なぜですか？**
 
-- **A:** To find all the hidden words using the given letters and use them to completely fill the crossword puzzle grid.
+- **A:** 与えられた文字で隠れた単語を見つけ、パズルのマスを埋めていくことです（ルールはバージョンによって異なります）。
 
-    - **Q: What is the goal of the game?**
+    - **Q: ゲームの目的は何ですか？**
 **ゲームの目標は何ですか？**
 
 単語を作って魔法を唱え、敵を倒してストーリーを進めることです。

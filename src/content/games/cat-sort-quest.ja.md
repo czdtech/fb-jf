@@ -33,17 +33,14 @@ locale: ja
 
 ### よくある質問 (FAQ)
 
-*   **Q: 動かせる猫がいなくなりました。**
+- Q: 動かせる猫がいなくなりました。どうすればいいですか？
+  
+  A: 数手戻して（アンドゥ）空の止まり木（バッファ）を作り直しましょう。埋もれている単独の色を表に出しつつ、同色の途中スタックを早めにまとめると手詰まりを解消しやすくなります。
 
-A: Undo a few steps to reopen a buffer. Focus on surfacing buried singles and merging partial stacks.
-- **A:** 手詰まりです。数手戻して（アンドゥ）、空きスペースを埋めてしまわない別の手順を試してください。
+- Q: 色を揃える順番はありますか？
+  
+  A: 「完成すると止まり木が空く色」を優先し、次に一番高い混在スタックを崩すのが定石です。
 
-
-A: Prioritize colors that immediately free a perch, then target the tallest mixed stacks.
-*   **Q: 色を揃える順番はありますか？**
-
-A: No — quick backtracks and flexible buffers are more important than perfection.
-    *   **A:** 「すぐに完成してスペースを空けられる色」を最優先にし、次に「一番高く積まれている色」を整理するのが定石です。
-
-*   **Q: 最短手数でクリアする必要がありますか？**
-    *   **A:** いいえ、手数は評価に関係ないことが多いです。試行錯誤して、柔軟に解くことが大切です。
+- Q: 最短手数でクリアする必要がありますか？
+  
+  A: いいえ。完璧な手順よりも、行き詰まったら素早く戻して組み替える柔軟さのほうが重要です。

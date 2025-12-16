@@ -37,12 +37,10 @@ locale: ja
 
 ### よくある質問 (FAQ)
 
-*   **Q: ゴールはありますか？**
+- Q: ゴールはありますか？
+  
+  A: バージョンによります。エンドレスでスコアを競うものもあれば、チェックポイント付きのステージ制のものもあります。
 
-A: Hosts vary; some are endless score chases, others have stage checkpoints.
-- **A:** エンドレスでスコアを競うものと、チェックポイントがあるステージ制のものがあります。
-
-
-A: Some versions add shields or slow‑mo; availability depends on the host.
-*   **Q: アイテムはありますか？**
-    *   **A:** バージョンによっては、シールド（無敵）やスローモーションなどのパワーアップが登場します。
+- Q: アイテムはありますか？
+  
+  A: バージョンによっては、シールド（無敵）やスローモーションなどのパワーアップが登場します。

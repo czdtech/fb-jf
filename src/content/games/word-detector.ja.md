@@ -26,23 +26,23 @@ Word Detectorは、グリッド内の隠された単語を見つける単語検�
 ### 操作ガイド
 
 
-The game is played with a simple click-and-drag motion.
+操作はクリックしてドラッグするだけです。
  - **マウス：** 単語をドラッグして選択
 
 ### よくある質問（FAQ）
 
 
-- **A:** If you don't reach the level's objective (like a target score) before the timer runs out, you will have to restart the level.
+- **A:** タイマーがあるモードでは、時間切れになるとレベルをやり直します。
 
-    - **Q: What happens if time runs out?**
+    - **Q: 時間切れになるとどうなりますか？**
 
-- **A:** No. Once you use a letter tile for a word, you cannot loop back and use it again in the same word.
+- **A:** いいえ。1つの単語の中で、同じ文字タイルを繰り返し使うことはできません。
 
-    - **Q: Can I reuse a letter tile in the same word?**
+    - **Q: 同じ単語内で文字タイルを再利用できますか？**
 
-- **A:** In most word search games of this type, words must be at least three letters long to be considered valid.
+- **A:** このタイプの単語検索では、通常3文字以上が有効です（ルールはバージョンによって異なります）。
 
-    - **Q: What is the minimum word length?**
+    - **Q: 最短何文字から有効ですか？**
 **ゲームの目標は何ですか？**
 
 グリッド内のすべての隠された単語を見つけることです。
@@ -53,4 +53,4 @@ The game is played with a simple click-and-drag motion.
 
 **時間制限はありますか？**
 
-通常はなく、自分のペースで楽しめます。
+モードによっては時間制限があります（ない場合もあります）。

@@ -2,7 +2,7 @@
 locale: fr
 urlstr: 2-tricky-stories
 title: "Brain Test 2: Tricky Stories"
-description: "Brain Test 2: Tricky Stories reprend les énigmes déjantées de Brain Test et les transforme en histoires complètes – réfléchis autrement, joue avec l’écran et résous des casse‑têtes qui bousculent la logique." 
+description: "Brain Test 2: Tricky Stories reprend les énigmes déjantées de Brain Test et les transforme en histoires complètes – réfléchis autrement, joue avec l’écran et résous des casse‑têtes qui bousculent la logique."
 iframeSrc: 'https://bitlifeonline.github.io/brain-test-2-tricky-stories/'
 thumbnail: /new-images/2-tricky-stories.jpg
 tags:
@@ -69,7 +69,7 @@ Les contrôles sont simples, mais font partie des énigmes :
 **R :** Reprends calmement : essaye de toucher et de faire glisser tous les éléments, relis la question et pense à utiliser les fonctions physiques de ton téléphone (secouer, incliner, retourner). Si vraiment rien ne marche, utilise une ampoule pour obtenir un indice, ou en dernier recours la fonction de saut de niveau.
 
 **Q : Le jeu est‑il gratuit ?**  
-**R :** Oui, *Brain Test 2* est free‑to‑play avec des publicités. Tu peux regarder des pubs pour obtenir des indices ou passer un niveau, et éventuellement acheter la suppression de certains affichages pour jouer plus confortablement.
+**R :** Oui, *Brain Test 2* est gratuit et financé par des publicités. Tu peux regarder des pubs pour obtenir des indices ou passer un niveau, et éventuellement acheter la suppression de certains affichages pour jouer plus confortablement.
 
 **Q : Comment obtenir plus d’indices ?**  
 **R :** Voici les sources les plus courantes :

@@ -14,70 +14,50 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
-### Présentation du jeu
+### **Game Introduction**
 
-Dans Cluster Rush, tu te tiens debout sur un camion lancé à pleine vitesse
-au milieu d’un convoi chaotique. Les véhicules changent de trajectoire,
-se percutent, explosent ou tombent dans le vide.
+Cluster Rush est un platformer 3D en vue à la première personne, rapide et exigeant, au principe simple : sauter de camion en camion dans un convoi chaotique jusqu’à l’arrivée. Le sol n’existe pratiquement pas ; la moindre chute relance instantanément le niveau.
 
-Ton seul moyen de survie : sauter d’un camion à l’autre sans jamais toucher le
-sol ou les obstacles. Chaque niveau propose un parcours différent avec des
-pièges de plus en plus absurdes.
+Le gameplay est très basé sur la physique : timing, gestion de l’élan et réflexes. Les camions zigzaguent, se percutent et explosent parfois, et constituent tes seules plateformes. Le jeu est découpé en niveaux regroupés en mondes, chaque niveau ajoutant des obstacles et des schémas plus complexes. C’est un pur jeu d’adresse, d’essai‑erreur et de maîtrise du mouvement.
 
-### Guide de jeu
+### **Gameplay Strategy & Tips**
 
-1.  **Regarde loin devant**  
-    Ne fixe pas le camion sur lequel tu te trouves, mais la route plusieurs
-    camions plus loin. Cela t’aide à prévoir les collisions et à choisir ton
-    prochain saut.
-2.  **Utilise l’élan des camions**  
-    Certains véhicules freinent ou accélèrent brusquement. Profite de ces
-    changements pour atteindre des plateformes autrement inaccessibles.
-3.  **Ne panique pas sur les sauts courts**  
-    Un petit pas vers le camion voisin suffit souvent. Sauter trop tôt ou trop
-    loin peut t’envoyer directement dans un obstacle.
-4.  **Repère les camions "sûrs"**  
-    Dans chaque section, certains camions restent stables plus longtemps que
-    les autres. Identifie‑les vite et utilise‑les comme points d’étape.
-5.  **Accepte l’essai‑erreur**  
+Réussir dans Cluster Rush, c’est maîtriser les mouvements et apprendre les niveaux.
 
-- **Embrace Failure**: You will fail hundreds, if not thousands, of times. Each failure is a learning opportunity. Don't get frustrated; instead, analyze why you failed (e.g., jumped too early, not enough speed) and adjust on your next attempt.
+1.  **Regarde devant, pas en bas**: garde ton regard deux ou trois camions en avance. Planifier tes sauts est indispensable pour conserver le flow.
+2.  **L’élan est essentiel**: la distance de saut dépend de ta vitesse. Utilise le sprint pour les grands sauts, mais lâche‑le parfois pour des bonds plus courts et contrôlés.
+3.  **Maîtrise le double saut**: outil clé pour gagner de la hauteur, prolonger l’air‑time ou corriger une trajectoire ratée.
+4.  **Utilise les côtés des camions**: tu peux t’accrocher et glisser le long des flancs. Si tu vas rater l’atterrissage, vise le côté pour récupérer et repartir.
+5.  **Apprends les patterns**: les mouvements ne sont pas aléatoires ; chaque niveau suit un schéma. Observe et mémorise l’itinéraire.
+6.  **Pense en vertical**: saute d’un camion bas vers le toit d’un camion plus haut pour trouver un chemin plus sûr ou plus rapide.
+7.  **Accepte l’échec**: tu vas tomber souvent. Chaque raté est une info ; analyse la cause (timing, vitesse) et ajuste au prochain essai.
 
-- **Think Vertically**: Don't just jump between trucks at the same height. Look for opportunities to jump from a low truck onto the roof of a much taller one to find a safer or faster path.
+### **Controls Guide**
 
-- **Learn the Level Patterns**: The truck movements in each level are not random; they follow a set pattern. The game is about trial and error. Pay attention to how the trucks move on each attempt. Memorizing the route is key to completing difficult levels.
-    Comme beaucoup de runners, Cluster Rush demande de répéter le même niveau
-    plusieurs fois pour mémoriser les passages les plus difficiles.
+Les contrôles sont proches de ceux des FPS sur PC.
 
-### Commandes
+*   **Move**: touches `W`, `A`, `S`, `D` keys
+*   **Look**: souris
+*   **Jump**: `Espace`
+*   **Double Jump**: appuie de nouveau sur `Espace` en l’air
+*   **Sprint**: touche `Shift` (maintenir pour courir plus vite)
+*   **Pause/Menu**: touche `Échap`
 
-- **Sauter / se déplacer** : selon la version, utilise les touches fléchées,
-  la barre d’espace ou les clics/taps pour sauter de camion en camion et te
-  déplacer en l’air.  
-- **Pause / Rejouer** : emploie les boutons de l’interface pour mettre en pause
+**Note:** s’accrocher ou glisser le long d’un camion est contextuel : pas besoin de touche spéciale, il suffit de toucher le flanc en l’air.
 
-- **Pause/Menu**: `Esc` key
+### **Frequently Asked Questions (FAQ)**
 
-- **Sprint**: `Shift` key (hold down to run faster)
+**1. Les mouvements des camions sont‑ils aléatoires dans chaque niveau ?**
+Non, les schémas sont prédéfinis pour chaque niveau. Même si ça paraît chaotique, les trajectoires sont les mêmes à chaque tentative, ce qui permet d’apprendre les routes.
 
-- **Double Jump**: Press `Space Bar` again while in the air
+**2. Je tombe toujours juste avant d’atterrir. Qu’est‑ce que je fais de travers ?**
+C’est presque toujours un problème d’élan. Sprint (`Shift`) avant un long saut et assure‑toi d’avoir un peu de « piste » sur le camion.
 
-- **Jump**: `Space Bar`
+**3. Peut‑on sauvegarder au milieu d’un niveau ?**
+Non, il n’y a pas de checkpoints. Chaque niveau doit être terminé du début à la fin en une seule tentative.
 
-- **Look**: Mouse
-  ou relancer le niveau.
+**4. Comment débloquer de nouveaux mondes ou niveaux ?**
+Tu débloques les niveaux/mondes en terminant les précédents dans l’ordre.
 
-### Foire aux questions (FAQ)
-
-**Q : Le jeu est‑il infini ?**  
-R : La plupart des versions proposent des niveaux distincts à difficulté
-croissante. Certains modes peuvent toutefois générer des parcours infinis.
-
-**Q : Comment passer les niveaux les plus durs ?**  
-R : Concentre‑toi sur quelques repères visuels et répète le niveau jusqu’à
-savoir à quel moment sauter. Parfois, un saut plus tardif (ou plus tôt) change
-complètement l’issue.
-
-**Q : Peut‑on contrôler les camions ?**  
-R : Non, tu ne contrôles que ton personnage. Il faut donc composer avec le
-chaos et trouver le bon chemin à travers le convoi.
+**5. Certains niveaux semblent impossibles. Un conseil ?**
+La patience est la clé. Fais une pause si tu bloques. Regarder un playthrough peut aussi révéler un chemin plus simple ou un « truc » de route.

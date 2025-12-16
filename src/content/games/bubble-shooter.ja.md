@@ -40,31 +40,17 @@ locale: ja
 *   **狙う:** マウスカーソルを動かして、矢印の方向（発射角度）を調整します。
 *   **撃つ:** 左クリックでバブルを発射します。
 
-
-- **Swap Bubbles (in some versions):** Some modern versions allow you to press a key (like the **Spacebar**) or click an icon to swap the current bubble with the next one in the queue.
+*   **色を交換する（対応している場合）：** 一部のバージョンでは、スペースキーを押すか交換アイコンをクリックして、現在のバブルと次のバブルを入れ替えられます。
 ### よくある質問 (FAQ)
 
-- **Q: どうすれば高得点を取れますか？**
-  
-  > 上部の支点を先に崩し、大量のバブルを一気に落とすこと。連鎖落下でボーナスが伸びます。
+**1. ゲームの目標は何ですか？**
+> クラシック版では、画面上のバブルをすべて消してクリアすることが目標です。エンドレスモードがある場合は、できるだけ長く生き残ってハイスコアを狙います。
 
-- **Q: 天井が下がるタイミングは？**
-  
-  > バブルを消せなかったショットが一定回数に達すると天井が 1 段下がります。画面下のカウンターを確認しましょう。
+**2. ミスショットするとどうなりますか？**
+> 「消せないショット」が一定回数たまると上部に新しい列が追加され、盤面が下へ押し下げられます。バブルが一番下のラインに到達するとゲームオーバーです。
 
-- **Q: 色を交換する機能はある？**
-  
-  > クラシック版にはありませんが、派生作によっては交換ボタンが付いている場合があります。
+**3. 特殊バブルやパワーアップはありますか？**
+> クラシック版ではありません。ただし派生作では、周囲を消す「ボムバブル」やどの色にもつなげられる「レインボーバブル」、貫通する「ファイアボール」などが追加されていることがあります。
 
-- **Q: 進行中に詰まりやすい状況をどう防ぐ？**
-  
-  > 孤立したバブルを残さず、必要のない色は端に寄せて管理することで行き詰まりを防げます。
-
-
-> The best way to get a high score is to drop large clusters of bubbles at once. The more bubbles you drop that were not part of the direct match, the more bonus points you receive. Focus on making high-up bank shots to achieve this.
-
-**4. What is the best strategy for getting a high score?**
-
-> In the classic, original version of Bubble Shooter, there are no special bubbles. However, many modern variations have introduced power-ups like **Bomb Bubbles** (clear an area), **Rainbow Bubbles** (match any color), and **Fireball Bubbles** (destroy everything in their path).
-
-**3. Are there special bubbles or power-ups?**
+**4. 高得点を取るコツは？**
+> 根元の支点を狙って大きな塊をまとめて落とすのが近道です。特に上部でのバンクショットを使い、連鎖落下を起こしましょう。

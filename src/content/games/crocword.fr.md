@@ -53,13 +53,13 @@ complexes.
 ### Foire aux questions (FAQ)
 
 
-- Q: A slot seems impossible — help?
+- Q: Un emplacement semble impossible — aide ?
 **Q : Un mot semble impossible à trouver, que faire ?**  
 
-- Q: Are proper nouns allowed?
+- Q: Les noms propres sont‑ils acceptés ?
 R : Vérifie les lettres déjà placées dans la grille : une erreur précédente peut
 
-- Q: Can I replay for bonus words?
+- Q: Puis‑je rejouer pour trouver des mots bonus ?
 bloquer plusieurs mots à la fois.
 
 **Q : Les noms propres sont‑ils acceptés ?**  

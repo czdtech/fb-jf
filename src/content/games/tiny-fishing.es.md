@@ -18,7 +18,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 ### Introducción al juego
 
-"Tiny Fishing" es un juego de pesca casual y relajante en el que lanzas tu sedal al fondo del mar, capturas peces de todo tipo y mejoras tu equipo para alcanzar aguas más profundas y encontrar especies cada vez más valiosas. Es muy querido por su control sencillo y su experiencia tranquila y adictiva.
+Tiny Fishing es un juego de pesca casual y relajante en el que lanzas tu sedal al fondo del mar, capturas peces de todo tipo y mejoras tu equipo para alcanzar aguas más profundas y encontrar especies cada vez más valiosas. Es muy querido por su control sencillo y su experiencia tranquila y adictiva.
 
 ### Estrategia de juego
 

@@ -1,6 +1,6 @@
 ---
 title: Minesweeper
-description: クラシックなMinesweeperをプレイします。地雷をマークし、数字の手がかりを使用し、すべての安全なタイルを明らかにし、論理パズルをマスターします。
+description: クラシックなMinesweeperです。数字の手がかりから地雷を推理し、安全なマスをすべて開けます。
 iframeSrc: 'https://minesweeper.h5games.usercontent.goog/v/33ufbh64kv9s8/'
 thumbnail: /new-images/minesweeper.png
 urlstr: minesweeper
@@ -16,7 +16,7 @@ locale: ja
 
 ### ゲーム紹介
 
-Minesweeperは、論理推論と演繹のクラシックなパズルゲームです。地雷で満たされたグリッドが与えられます。数字の手がかりを使用してすべての地雷をマークし、地雷を踏むことなくすべての安全なタイルを明らかにします。単純なルール、深い戦略。
+Minesweeperは、数字の手がかりから地雷の位置を推理するクラシックなパズルゲームです。地雷を踏まないように注意しながら安全なタイルを開き、地雷はフラグでマークして盤面をクリアします。
 
 ### ゲームプレイ戦略と攻略法
 
@@ -42,9 +42,9 @@ Minesweeperは、論理推論と演繹のクラシックなパズルゲームで
   A: 角またはエッジをクリックしてより多くの情報を明らかにします。
 
 
-**A**: The timer records the time taken by the player to complete the game, allowing you to challenge your fastest record at different difficulty levels.
+**A**: タイマーはクリアまでの時間を記録するためのものです。難易度ごとに自己ベスト更新を狙えます。
 
-- **Q: What is the purpose of the timer in the game?**
+- **Q: ゲーム内のタイマーは何のためにありますか？**
 
 
-**A**: The timer records the time taken by the player to complete the game, allowing you to challenge your fastest record at different difficulty levels.
+**A**: タイマーはクリアまでの時間を記録するためのものです。難易度ごとに自己ベスト更新を狙えます。

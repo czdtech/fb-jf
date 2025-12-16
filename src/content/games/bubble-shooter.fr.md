@@ -34,12 +34,12 @@ Si les bulles descendent jusqu’à la ligne du bas, la partie est finie.
 ### Commandes
 
 
-The controls are extremely simple and intuitive, designed for mouse or touch.
+Les contrôles sont très simples et intuitifs, conçus pour la souris ou le tactile.
 - Déplace la souris pour orienter le canon, clique pour tirer.  
 - Sur certaines versions, tu peux échanger la bulle actuelle avec la suivante via une touche ou une icône.
 
 
-- **Swap Bubbles (in some versions):** Some modern versions allow you to press a key (like the **Spacebar**) or click an icon to swap the current bubble with the next one in the queue.
+- **Échanger les bulles (selon version) :** certaines variantes permettent d’appuyer sur une touche (comme **Espace**) ou de cliquer sur une icône pour échanger la bulle actuelle avec la suivante dans la file.
 ### Foire aux questions (FAQ)
 
 - **Q : Quel est l’objectif exact ?**  
@@ -55,10 +55,10 @@ The controls are extremely simple and intuitive, designed for mouse or touch.
   R : Priorise les chutes massives : retire un petit groupe au sommet pour décrocher les bulles suspendues en dessous et engranger des bonus.
 
 
-> The best way to get a high score is to drop large clusters of bubbles at once. The more bubbles you drop that were not part of the direct match, the more bonus points you receive. Focus on making high-up bank shots to achieve this.
+> Le meilleur moyen de faire un gros score est de faire tomber de gros amas de bulles d’un seul tir. Plus tu fais tomber de bulles qui n’étaient pas dans le match direct, plus le bonus est élevé. Vise donc haut et utilise les tirs en bande pour décrocher de gros paquets.
 
-**4. What is the best strategy for getting a high score?**
+**4. Quelle est la meilleure stratégie pour faire un gros score ?**
 
-> In the classic, original version of Bubble Shooter, there are no special bubbles. However, many modern variations have introduced power-ups like **Bomb Bubbles** (clear an area), **Rainbow Bubbles** (match any color), and **Fireball Bubbles** (destroy everything in their path).
+> Dans la version classique, il n’y a pas de bulles spéciales. En revanche, beaucoup de variantes modernes ajoutent des bonus comme des **bulles bombe** (explosent une zone), des **bulles arc‑en‑ciel** (matchent n’importe quelle couleur) ou des **bulles boule de feu** (détruisent tout sur leur trajectoire).
 
-**3. Are there special bubbles or power-ups?**
+**3. Y a‑t‑il des bulles spéciales ou des bonus ?**

@@ -1,6 +1,6 @@
 ---
 title: Mini Crossword
-description: Mini Crosswordはコンパクトなクロスワードパズルです。手がかりを解決し、単語を埋め、素早いワードパズルの挑戦を楽しみます。
+description: Mini Crosswordはコンパクトなクロスワードパズルです。手がかりを解き、短時間でグリッドを埋めます。
 iframeSrc: 'https://minicrossword.h5games.usercontent.goog/v/04sf2s4bnkkk0/'
 thumbnail: /new-images/mini-crossword.png
 urlstr: mini-crossword
@@ -16,7 +16,7 @@ locale: ja
 
 ### ゲーム紹介
 
-Mini Crosswordは、短時間で完了できるコンパクトなクロスワードパズルを提供します。与えられた手がかりから単語を推測し、グリッドを埋めます。完璧な素早い脳のトレーニングで、語彙と一般知識をテストします。
+Mini Crosswordは、短時間で解けるコンパクトなクロスワードパズルです。手がかりから単語を推測し、グリッドを埋めていきます。語彙や知識を使って解くタイプのワードパズルです。
 
 ### ゲームプレイ戦略と攻略法
 
@@ -33,9 +33,9 @@ Mini Crosswordは、短時間で完了できるコンパクトなクロスワー
 - 方向を切り替えるためにマスをもう一度クリックします。
 
 
-- **Check Answer**: Some games provide a "Check" function to verify if the entered words are correct.
+- **答え合わせ**: 一部のゲームでは、入力した単語が正しいか確認できる「Check」機能があります。
 
-- **View Clues**: The game interface usually displays clue information for the currently selected word.
+- **手がかり表示**: 画面には、選択中の単語に対応する手がかりが表示されます。
 ### よくある質問 (FAQ)
 
 - **Q: 毎日新しいパズルがありますか？**  
@@ -46,9 +46,9 @@ Mini Crosswordは、短時間で完了できるコンパクトなクロスワー
   A: 通常5x5または7x7グリッドです。
 
 
-**A**: Daily puzzles usually require an internet connection to download and update, but once downloaded, some games may support offline play.
+**A**: デイリーパズルはダウンロードや更新のためにインターネット接続が必要なことが多いです。ただし一度取得すれば、オフラインでも遊べる場合があります。
 
-- **Q: Does the game require an internet connection?**
+- **Q: インターネット接続は必要ですか？**
 
 
-**A**: Daily puzzles usually require an internet connection to download and update, but once downloaded, some games may support offline play.
+**A**: デイリーパズルはダウンロードや更新のためにインターネット接続が必要なことが多いです。ただし一度取得すれば、オフラインでも遊べる場合があります。

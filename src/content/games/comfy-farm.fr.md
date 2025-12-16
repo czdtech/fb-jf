@@ -49,27 +49,36 @@ simplement de regarder ta ferme grandir.
 
 - **Planter / Arroser / Récolter** : touche ou clique sur une parcelle pour
   interagir (choisir une graine, arroser, ramasser la récolte).  
-- **Interface de marché** : utilise les menus pour vendre tes produits ou
+- **Interface de marché** : utilise les menus pour vendre tes produits, accepter
+  des commandes et gérer la boutique.  
 
-- **Buy Upgrades:** Click on the upgrade icons (like the sprinkler or scarecrow) to purchase them.
+- **Acheter des améliorations :** clique sur les icônes d’amélioration (par ex.
+  arrosoir, épouvantail) pour les acheter.
 
-- **Scare Pests:** Click directly on any pest that appears on your farm to get rid of it.
-  accepter des commandes.
+- **Chasser les nuisibles :** clique directement sur un nuisible (corbeau,
+  mouche, etc.) quand il apparaît sur ta ferme pour l’éloigner.
+Selon la version, ces améliorations peuvent automatiser une partie des actions.
 
 ### Foire aux questions (FAQ)
 
 
-- **A:** A pest probably got to it! You need to be quick to click on any crows or flies that appear over your crops to prevent them from being eaten.
+- **R :** Un nuisible s’en est probablement pris à ta culture. Clique rapidement
+  sur les corbeaux/mouches qui apparaissent au‑dessus des plantes pour éviter
+  qu’elles soient mangées.
 
-    - **Q: Why did one of my plants disappear?**
+    - **Q : Pourquoi une de mes plantes a‑t‑elle disparu ?**
 
-- **A:** The sprinkler is an excellent first upgrade. It automates the watering process, saving you a lot of time and clicks, and allowing you to manage more plots эффекტიvely.
+- **R :** L’arrosoir automatique est souvent la meilleure première amélioration :
+  il automatise l’arrosage, te fait gagner du temps et te permet de gérer plus
+  de parcelles efficacement.
 
-    - **Q: What is the best upgrade to get first?**
+    - **Q : Quelle amélioration acheter en premier ?**
 
-- **A:** Plant as many crops as you can and harvest them as soon as they are ready. As you unlock more expensive seeds, plant those, as they typically yield a higher profit, even if they take longer to grow.
+- **R :** Plante autant que possible et récolte dès que c’est prêt. Une fois que tu
+  débloques des graines plus chères, privilégie‑les : elles rapportent
+  généralement plus, même si elles poussent plus lentement.
 
-    - **Q: How do I make money faster?**
+    - **Q : Comment gagner de l’argent plus vite ?**
 **Q : Le jeu est‑il chronométré ?**  
 R : En général non, tu peux jouer à ton rythme, même si certaines commandes
 peuvent être limitées dans le temps.

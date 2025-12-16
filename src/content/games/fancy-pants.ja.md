@@ -1,6 +1,6 @@
 ---
 title: Fancy Pants ファンシーパンツ
-description: 「Fancy Pants」はスタイリッシュな棒人間プラットフォーマー。高速の勢い、壁ジャンプ、流れるようなパルクールで手描きレベルと秘密の部屋を駆け抜けろ。
+description: 「Fancy Pants」はスタイリッシュな棒人間プラットフォーマー。勢い、壁ジャンプ、流れるような動きで手描きレベルと隠し部屋を駆け抜けます。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210305/jj8/index.html
 thumbnail: /new-images/fancy-pants.jpg
@@ -39,17 +39,9 @@ locale: ja
 
 ### よくある質問 (FAQ)
 
-*   **Q: 戦闘はありますか？**
-
-A: Light—mainly stomps or simple swipes in some versions.
-- **A:** 軽いものです。主に踏みつけや、一部バージョンではシンプルなスワイプがあります。
-
-
-A: Many releases feature speed‑run or challenge rooms.
-*   **Q: タイムトライアルはありますか？**
-
-A: Some versions unlock cosmetics.
-    *   **A:** 多くのリリースにスピードランやチャレンジルームがあります。
-
-*   **Q: パンツの色を変えられますか？**
-    *   **A:** 一部バージョンではコスメティックをアンロックできます。
+- Q: 戦闘はありますか？  
+  A: 軽いものです。主に踏みつけで倒し、一部バージョンではシンプルなスワイプ操作があります。
+- Q: タイムトライアルはありますか？  
+  A: 多くのリリースにスピードランやチャレンジルームがあります。
+- Q: パンツの色を変えられますか？  
+  A: 一部バージョンでは見た目（コスメ）をアンロックできます。

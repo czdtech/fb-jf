@@ -24,31 +24,31 @@ TriPeaks Solitaireは、3つのピラミッド型に配置されたカードを�
  - **戦略的にプレイ：** カードの順序を考えます
 
 
-- **Creating Long Runs:** The key to a high score is to create the longest possible sequence of moves without drawing from the stock pile. Each card cleared in a single run increases the combo bonus.
+- **連鎖を伸ばす：** ハイスコアの鍵は、山札（ストック）を引かずにできるだけ長い連鎖を作ることです。1連鎖で消した枚数が多いほどコンボボーナスが伸びます。
 
-- **Drawing from Stock:** If you can no longer make any matches from the tableau, click on the stock pile to deal a new card onto the waste pile, giving you a new base card to play on.
+- **山札から引く：** 場（タブロー）から出せるカードがなくなったら、山札をクリックして捨て札に新しいベースカードを出します。
 ### 操作ガイド
 
 
-The game is played entirely with the mouse or by tapping.
+操作はマウス（またはタップ）だけで進められます。
  - **マウス：** カードをクリックして選択
 
 
-- **Draw a Card:** Click on the face-down stock pile when you have no other moves.
+- **カードを引く：** 手がなくなったら、裏向きの山札をクリックします。
 ### よくある質問（FAQ）
 
 
-- **A:** If your stock pile is empty and you have no more legal moves to make from the tableau, the game is over and you have lost that round.
+- **A:** 山札がなくなり、場から出せるカードもなくなると、そのラウンドは失敗（ゲームオーバー）になります。
 
-    - **Q: What happens if I run out of cards in the stock pile but there are still cards on the tableau?**
+    - **Q: 山札が尽きたのに場にカードが残っていると？**
 
-- **A:** No. You can only place a card that is one rank away. On a King, you can only place a Queen or an Ace (because the ranks wrap).
+- **A:** いいえ。基本は前後1段だけです。キングの上にはクイーンかエース（A）だけ置けます（段が循環します）。
 
-    - **Q: Can I place a 2 on a King?**
+    - **Q: キングの上に2は置けますか？**
 
-- **A:** To clear all three peaks of cards from the tableau before you exhaust your stock pile.
+- **A:** 山札が尽きる前に、3つのピーク（山）からカードをすべて消すことです。
 
-    - **Q: What is the main objective?**
+    - **Q: ゲームの目的は何ですか？**
 **ゲームの目標は何ですか？**
 
 3つのピラミッドからすべてのカードを消すことです。

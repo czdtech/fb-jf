@@ -2,6 +2,9 @@
   "name": "1-23",
   "type": "module",
   "version": "0.0.1",
+  "engines": {
+    "node": ">=24.3.0 <25"
+  },
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
@@ -17,14 +20,15 @@
     "snapshot:urls:after": "node scripts/url-snapshot.mjs --after",
     "compare:seo": "node scripts/seo-compare.mjs",
     "compare:sitemap": "node scripts/sitemap-compare.mjs",
-    "baseline:i18n": "node --experimental-strip-types scripts/baseline-i18n-analysis.mts",
-    "validate:i18n": "node --experimental-strip-types scripts/validate-i18n-metadata.mts && node --experimental-strip-types scripts/validate-i18n-structure.mts",
-    "validate:i18n:json": "node --experimental-strip-types scripts/validate-i18n-json-keys.mts",
-    "validate:pages": "node --experimental-strip-types scripts/validate-page-structure.mts",
-    "validate:batch": "node --experimental-strip-types scripts/validate-batch.mts",
-    "generate:stubs": "node --experimental-strip-types scripts/generate-i18n-stubs.mts",
-    "coverage:report": "node --experimental-strip-types scripts/generate-coverage-report.mts",
-    "cleanup:markers": "node --experimental-strip-types scripts/cleanup-i18n-markers.mts",
+    "baseline:i18n": "tsx scripts/baseline-i18n-analysis.mts",
+    "validate:i18n": "tsx scripts/validate-i18n-metadata.mts && tsx scripts/validate-i18n-structure.mts",
+    "validate:i18n:json": "tsx scripts/validate-i18n-json-keys.mts",
+    "validate:pages": "tsx scripts/validate-page-structure.mts",
+    "validate:batch": "tsx scripts/validate-batch.mts",
+    "generate:stubs": "tsx scripts/generate-i18n-stubs.mts",
+    "generate:trending": "tsx scripts/generate-trending-json.mts",
+    "coverage:report": "tsx scripts/generate-coverage-report.mts",
+    "cleanup:markers": "tsx scripts/cleanup-i18n-markers.mts",
     "test": "npm run build && npm run validate:i18n && vitest --run",
     "test:unit": "npm run build && npm run validate:i18n && vitest --run",
     "test:watch": "vitest",
@@ -39,6 +43,7 @@
     "cheerio": "^1.1.2",
     "fast-check": "^4.3.0",
     "gray-matter": "^4.0.3",
+    "tsx": "^4.21.0",
     "vitest": "^4.0.15"
   }
 }

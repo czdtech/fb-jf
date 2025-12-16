@@ -1,6 +1,6 @@
 ---
 title: My Space Pet
-description: My Space Petはかわいい宇宙ペット育成ゲームです。エイリアンペットを育て、世話をし、遊び、絆を深め、宇宙の冒険を楽しみます。
+description: My Space Petは宇宙ペットの育成ゲームです。エイリアンペットの世話をし、ミニゲームでコインを集めながら成長を見守ります。
 iframeSrc: 'https://myspacepet.h5games.usercontent.goog/v/3s7c0c5h0evj8/'
 thumbnail: /new-images/my-space-pet.png
 urlstr: my-space-pet
@@ -22,7 +22,7 @@ My Space Petは、あなた自身の宇宙エイリアンペットを育てる�
 2.  **ニーズのバランス:** 空腹、幸福、清潔を管理します。
 3.  **コインを獲得:** ミニゲームをプレイして報酬を獲得します。
 4.  **賢く費やす:** 必需品に優先順位を付けます。
-5.  **絆を深める:** より多くのインタラクションがより幸せなペットを意味します。
+5.  **絆を深める:** 触れ合うほど、ペットは機嫌よく過ごしやすくなります。
 
 ### 操作ガイド
 
@@ -33,14 +33,14 @@ My Space Petは、あなた自身の宇宙エイリアンペットを育てる�
 ### よくある質問 (FAQ)
 
 - **Q: ペットは死にますか？**  
-  A: ゲームによって異なります。一部はペット管理に重点を置いています。
+  A: ゲームによって異なります。世話が不足すると元気がなくなるなどのペナルティになる場合があります。
     - **Q: 最も重要なニーズは何ですか？**  
-  A: すべて重要ですが、空腹に注意してください。
+  A: どれも大切ですが、まず空腹を放置しないようにしましょう。
 - **Q: 複数のペットを持つことができますか？**  
 
-    - **A:** Typically, virtual pet games focus on one main pet. Check the game's specific features, but usually, the focus is on developing a strong bond with your single space companion.
+    - **A:** 多くのバーチャルペットゲームは「1匹を育てる」ことに焦点を当てています。対応状況はバージョンによって異なりますが、基本は1匹とじっくり関係を深める設計です。
 
-- **Q: Can I have more than one space pet?**
+- **Q: コインはどうやって獲得しますか？**
 
-    - **A:** Coins are primarily earned by playing and succeeding in the various mini-games available within My Space Pet.
+    - **A:** コインは主に、用意されているミニゲームをプレイしてクリアすることで獲得できます。
   A: バージョンによって異なります。一部は複数のペットを許可します。

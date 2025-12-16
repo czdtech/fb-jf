@@ -44,9 +44,10 @@ sens de la déduction.
 ### Foire aux questions (FAQ)
 
 
-- Use Check tools sparingly to avoid time penalties if a host tracks time.
+- Utilise les outils de vérification avec parcimonie pour éviter des pénalités de
+  temps (si l’hébergeur en applique).
 
-- Start with short/easy clues, then expand using crossings.
+- Commence par des indices courts/faciles, puis élargis grâce aux lettres croisées.
 **Q : Puis‑je jouer aux grilles des jours précédents ?**  
 R : Selon le site, un calendrier permet parfois de revenir sur les anciens
 puzzles.

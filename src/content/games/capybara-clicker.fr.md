@@ -3,7 +3,7 @@ locale: fr
 urlstr: capybara-clicker
 title: Capybara Clicker
 description: >-
-  Fais exploser la population de capybaras dans Capybara Clicker ! Clique pour
+  Fais grandir la population de capybaras dans Capybara Clicker. Clique pour
   en créer, achète des améliorations automatiques, change la météo pour
   "prestiger" et habille ton capybara avec des chapeaux trop mignons dans ce jeu
   idle relaxant.
@@ -52,9 +52,9 @@ de système de prestige pour booster définitivement ta production.
     racheter rapidement la génération automatique.
     - **Fixe‑toi des objectifs cosmétiques**  
 
-- **Unlock Everything:** Reaching population milestones will unlock new skins and hats for your capybara. These are cosmetic but are fun goals to aim for.
+- **Tout débloquer :** atteindre certains paliers de population débloque de nouveaux skins et chapeaux. C’est cosmétique, mais ça fait de bons objectifs.
 
-- **Don't Forget Click Upgrades:** While passive income is key, don't completely ignore the "per click" upgrades. After you ascend, your powerful manual clicks can help you quickly buy back your first few auto-generating buildings.
+- **Ne néglige pas les upgrades de clic :** même si le revenu passif est clé, garde un œil sur le gain par clic. Après un prestige, des clics puissants t’aident à racheter vite tes premiers générateurs.
     Les chapeaux et skins se débloquent à certains paliers de population. Même
     si ces objets sont purement décoratifs, ils donnent des mini‑objectifs
     motivants entre deux gros sauts de progression.
@@ -69,7 +69,7 @@ de système de prestige pour booster définitivement ta production.
   chapeaux et skins différents à ton capybara.  
 - **Prestige / Changer la météo** : clique sur l’icône météo en haut de l’écran
 
-- **Ascend:** Click the weather icon at the top of the screen.
+- **Prestige :** clique sur l’icône météo en haut de l’écran.
   pour lancer une nouvelle ère avec un multiplicateur de production.
 
 ### Foire aux questions (FAQ)

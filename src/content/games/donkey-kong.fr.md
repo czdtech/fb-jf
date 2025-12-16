@@ -3,8 +3,8 @@ locale: fr
 urlstr: donkey-kong
 title: 'Donkey Kong'
 description: >-
-  Donkey Kong is a classic arcade platformer: climb ladders, avoid hazards,
-  and reach the top to clear stages.
+  Donkey Kong est un platformer arcade classique : grimpe, évite les dangers et
+  atteins le sommet pour finir les stages.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/donkey-kong.html'
 thumbnail: /new-images/donkey-kong.jpg
 tags:
@@ -19,28 +19,36 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 ### Overview
-Arcade classic (1981): climb girders and ladders as Mario, dodge barrels and fireballs, and use the hammer to smash hazards while you work through the four stage types (25m–100m) to rescue Pauline. Stages repeat with faster patterns after each level. 
+Classique d’arcade (1981) : incarne Mario, grimpe sur les poutres et les
+échelles, évite les tonneaux et boules de feu, et utilise le marteau pour
+détruire les dangers en traversant les quatre types de stages (25m–100m) afin de
+sauver Pauline. Les stages bouclent avec des patterns plus rapides après chaque
+niveau.
 
 ### How to Play
-- Clear the stage by reaching the top or removing rivets in the 100m stage.
-- Score by jumping barrels, smashing with the hammer, and collecting items.
-- Learn barrel patterns (straight vs. diagonal), conveyor timing, and elevator springs.
+- Termine le stage en atteignant le sommet ou en retirant les rivets (stage 100m).
+- Marque des points en sautant par‑dessus des tonneaux, en détruisant au marteau
+  et en ramassant des objets.
+- Apprends les patterns des tonneaux (droit/diagonal), le timing des tapis
+  roulants et les ressorts des ascenseurs.
 
 ### Controls
-- Arrow keys: Move/Climb.
-- Up: Climb ladders; Jump: usually with a mapped key (host dependent).
-- Action: Hammer is automatic once picked up, lasts for a short time.
+- Flèches : se déplacer / grimper.
+- Haut : monter aux échelles ; Saut : touche dédiée selon l’hébergeur.
+- Action : le marteau est automatique une fois ramassé et dure un court instant.
 
 ### Tips
-- Wait for safe ladder windows; don’t climb when a barrel is directly above.
-- On 25m, steer barrels by briefly facing a ladder to influence spawns.
-- Grab the hammer when traffic is dense, but don’t get trapped near ladders.
+- Attends une fenêtre sûre ; ne grimpe pas si un tonneau est juste au‑dessus.
+- Sur le 25m, tu peux influencer certains tonneaux en te tournant brièvement vers
+  une échelle.
+- Prends le marteau quand le “trafic” est dense, mais évite de te faire coincer
+  près des échelles.
 
 ### FAQ
-- Q: How many distinct stages are there?
-A: Four: Girders (25m), Conveyors (50m), Elevators (75m), and Rivets (100m).
-- Q: Does the game loop?
-A: Yes, stages repeat at higher difficulty after each level.
-- Q: What ends a run?
-A: Collisions, falling too far, or the bonus timer reaching zero.
+- Q: Combien y a‑t‑il de stages différents ?
+A: Quatre : Poutres (25m), Tapis roulants (50m), Ascenseurs (75m) et Rivets (100m).
+- Q: Est‑ce que le jeu boucle ?
+A: Oui, les stages se répètent à difficulté plus élevée après chaque niveau.
+- Q: Qu’est‑ce qui met fin à une run ?
+A: Une collision, une chute trop longue, ou le timer de bonus qui tombe à zéro.
 

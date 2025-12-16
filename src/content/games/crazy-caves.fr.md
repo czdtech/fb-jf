@@ -46,23 +46,28 @@ acheter des améliorations.
 
 - **Viser / Tirer** : déplace la souris ou ton doigt pour viser, clique/tape
   pour lancer le projectile.  
-- **Acheter des upgrades** : utilise les menus entre les manches pour améliorer
+- **Acheter des améliorations** : utilise les menus entre les manches pour améliorer
   ton équipement.
 
 ### Foire aux questions (FAQ)
 
 
-- **A:** Large boulders require multiple hits to break. You need to quickly throw several pickaxes at them while continuously dodging other falling rocks. Try to start hitting them early before they get too close.
+- **R :** Les gros rochers demandent plusieurs impacts. Commence à les frapper tôt
+  et enchaîne les tirs tout en gérant les autres chutes. Ne les laisse pas
+  descendre trop près.
 
-    - **Q: How do I deal with the really big boulders?**
+    - **Q : Comment gérer les très gros rochers ?**
 
-- **A:** A good starting strategy is to upgrade your pickaxe damage. This helps you clear dangerous rocks more quickly, which directly contributes to longer survival times. After that, upgrading your earnings is also a great choice.
+- **R :** Commence souvent par augmenter les dégâts : tu détruis les rochers
+  dangereux plus vite, ce qui augmente directement ta survie. Ensuite, améliorer
+  tes gains est un bon choix.
 
-    - **Q: What should I focus on upgrading first?**
+    - **Q : Quelles améliorations prioriser au début ?**
 
-- **A:** The game is over instantly. You will need to start a new run from the beginning.
+- **R :** La partie se termine immédiatement ; tu dois relancer une nouvelle run
+  depuis le début.
 
-    - **Q: What happens if a rock hits me?**
+    - **Q : Que se passe‑t‑il si un rocher me touche ?**
 **Q : Le jeu devient très vite difficile, une astuce ?**  
 R : Investis tôt dans les améliorations les plus rentables (nombre de tirs ou
 puissance) et apprends à utiliser les rebonds pour toucher plusieurs blocs à

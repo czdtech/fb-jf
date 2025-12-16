@@ -1,7 +1,7 @@
 ---
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
+# Frontmatter: config.ts の schema に従う
 title: "Snakes And Ladders"
-description: "運と偶然のクラシックボードゲーム、Snakes and Laddersをプレイしよう。サイコロを振り、はしごを登って前進し、あなたを後退させるヘビに注意しよう。最終マスに最初に到達して、この不朽のファミリーゲームで勝利を掴もう。"
+description: "Snakes and Laddersはクラシックなボードゲームです。サイコロを振って進み、はしごで進み、ヘビで戻されながら最終マスを目指します。"
 iframeSrc: "https://cdn.gamesnacks.com/snakesandladders/gameCode/index.html"
 thumbnail: "/new-images/snakes-and-ladders.jpg"
 urlstr: "snakes-and-ladders"

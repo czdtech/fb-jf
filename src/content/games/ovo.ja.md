@@ -1,6 +1,6 @@
 ---
 title: Ovo
-description: Ovoはミニマリストプラットフォーマーです。ジャンプし、スライドし、障���物を避け、精密な移動をマスターします。
+description: Ovoはミニマリストなプラットフォーマーです。ジャンプやスライドで障害物を避け、正確な移動でステージを進みます。
 iframeSrc: 'https://ovo.h5games.usercontent.goog/v/5k9j2m8h7p3n8/'
 thumbnail: /new-images/ovo.png
 urlstr: ovo
@@ -33,7 +33,7 @@ Ovoは、精密な移動と正確なタイミングに焦点を当てたミニ�
 - シンプルですが、精密なコントロールが必要です。
 
 
-- **Wall Jump**: When the character is near a wall, pressing the jump key allows for a wall jump; continuous wall jumps can be used to climb upwards.
+- **壁ジャンプ**: 壁際でジャンプすると壁ジャンプでき、連続で上に登れます。
 ### よくある質問 (FAQ)
 
 - **Q: 継続的に死にます。ヒントは？**  
@@ -41,12 +41,12 @@ Ovoは、精密な移動と正確なタイミングに焦点を当てたミニ�
 - **Q: レベルはいくつありますか？**  
   A: バージョンによって異なります。多くは40以上。
 - **Q: スピードランに適していますか？**  
-  A: はい！正確な移動は素早い時間を許可します。
+  A: はい。正確な移動ができるほどタイムを縮めやすいです。
 
 
-**A**: "OvO Game" can typically be played directly in web browsers, and some versions may also support mobile devices.
+**A**: 多くの場合、ブラウザでそのまま遊べます。バージョンによってはモバイルに対応していることもあります。
 
-- **Q: On which platforms can the game be played?**
+- **Q: どのプラットフォームで遊べますか？**
 
 
-**A**: "OvO Game" can typically be played directly in web browsers, and some versions may also support mobile devices.
+**A**: 多くの場合、ブラウザでそのまま遊べます。バージョンによってはモバイルに対応していることもあります。

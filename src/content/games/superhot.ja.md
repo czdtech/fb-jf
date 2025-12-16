@@ -24,7 +24,7 @@ SUPERHOTは、「時間があなたが動くときだけ動く」という革新
  - **計画と実行：** 各動きを戦略的に計画します
 
 
-- **Environmental Usage**: Use cover and environmental objects for protection.
+- **環境を利用：** 遮蔽物や周囲の物を使って身を守ります。
 ### 操作ガイド
 
  - **WASD：** 移動
@@ -35,19 +35,19 @@ SUPERHOTは、「時間があなたが動くときだけ動く」という革新
 ### よくある質問（FAQ）
 
 
-- **Q: How does the time mechanism work?**
+- **Q: 時間メカニクスはどう動きますか？**
 **ゲームの基本メカニクスは何ですか？**
 
 
-- **Q: How do I get weapons?**
+- **Q: 武器はどうやって入手しますか？**
 あなたが動くときだけ時間が動きます。静止すると時間がスローモーションになります。
 
 
-- **Q: How can I effectively avoid attacks?**
+- **Q: 攻撃を避けるコツは？**
 **どうやって敵を倒しますか？**
 
 
-- **Q: How many levels are in the game?**
+- **Q: レベルはいくつありますか？**
 戦略的に動いて位置取りし、武器を使って敵を倒します。
 
 **難易度は高いですか？**

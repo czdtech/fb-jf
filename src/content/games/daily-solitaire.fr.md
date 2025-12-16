@@ -53,17 +53,22 @@ exercice pour affiner ta stratégie et suivre ta progression au fil du temps.
 ### Foire aux questions (FAQ)
 
 
-- **A:** Many daily puzzle games feature a calendar, allowing you to go back and play puzzles from previous dates that you may have missed.
+- **R :** Beaucoup de jeux de puzzle quotidiens proposent un calendrier qui permet
+  de rejouer les puzzles des jours précédents que tu as manqués.
 
-    - **Q: Can I play previous days' puzzles?**
+    - **Q : Puis‑je jouer aux puzzles des jours précédents ?**
 
-- **A:** In "Draw 1" mode, you turn over one card at a time from the stock, which is generally easier. In "Draw 3" mode, you turn over three cards at a time, but you can only play the top card of the three, making the game significantly more challenging.
+- **R :** En mode "piocher 1", tu retournes une carte à la fois, ce qui est
+  généralement plus simple. En mode "piocher 3", tu retournes trois cartes, mais
+  tu ne peux jouer que celle du dessus, ce qui rend la partie nettement plus
+  difficile.
 
-    - **Q: What is the difference between "Draw 1" and "Draw 3" mode?**
+    - **Q : Différence entre "piocher 1" et "piocher 3" ?**
 
-- **A:** Yes, most "Daily Solitaire" games feature deals that are guaranteed to have at least one winning path, though it may be very tricky to find.
+- **R :** Oui. La plupart des Daily Solitaire proposent une donne construite pour
+  avoir au moins un chemin gagnant, même s’il peut être difficile à trouver.
 
-    - **Q: Is the daily puzzle always winnable?**
+    - **Q : Le puzzle quotidien est‑il toujours gagnable ?**
 **Q : Les grilles quotidiennes sont‑elles toujours gagnables ?**  
 R : En général, oui : chaque donne quotidienne est construite pour avoir au
 moins une solution, même si elle peut être difficile à trouver.

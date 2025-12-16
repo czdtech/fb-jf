@@ -50,31 +50,35 @@ rapides et résistants.
   pour tirer.  
 - **Recharger / Changer d’arme** : utilise les touches ou icônes dédiées selon
   la version.  
-- **Interaction** : dans certains niveaux, tu peux activer des pièges ou
-
-- **Know Your Arsenal**: Understand the strengths and weaknesses of each weapon. A shotgun is great for close-quarters crowd control, while a rifle is better for picking off distant foes. Switch weapons according to the situation.
+- **Interaction** : dans certains niveaux, tu peux activer des pièges ou des
   éléments du décor.
+
+- **Connais ton arsenal** : comprends les forces/faiblesses de chaque arme. Un
+  shotgun est efficace de près pour gérer un groupe, tandis qu’un fusil sert
+  plutôt à éliminer des cibles à distance. Change selon la situation.
+  (selon la version).
 
 ### Foire aux questions (FAQ)
 
 
-- **Aim/Shoot**: Buttons on the right side of the screen. Often, a dedicated button for shooting, jumping, and special abilities.
+- **Viser / Tirer** : boutons à droite de l’écran. Souvent, un bouton dédié pour
+  tirer, sauter et activer des capacités.
 
-    - **Movement**: Virtual joystick on the left side of the screen.
+    - **Déplacement** : joystick virtuel à gauche de l’écran.
 
-    - **Mobile:**
+    - **Mobile :**
 
-    - **Switch Weapon**: Number keys (`1`, `2`, `3...`) or Mouse Wheel.
+    - **Changer d’arme** : touches (`1`, `2`, `3...`) ou molette.
 
-    - **Jump**: `Space Bar`.
+    - **Sauter** : `Espace`.
 
-    - **Shoot**: `Left Mouse Button`.
+    - **Tirer** : clic gauche.
 
-- **Aim**: Mouse.
+- **Viser** : souris.
 
-    - **Movement**: `W`, `A`, `S`, `D` or Arrow Keys.
+    - **Déplacement** : `W`, `A`, `S`, `D` ou flèches.
 
-    - **PC/Web:**
+    - **PC/Web :**
 **Q : Le jeu est‑il uniquement en solo ?**  
 R : La plupart des versions sont solo, mais certains ports peuvent proposer des
 modes de score en ligne.

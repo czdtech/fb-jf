@@ -1,7 +1,7 @@
 ---
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
+# Frontmatter: config.ts の schema に従う
 title: "Solitaire Klondike"
-description: "最も人気のあるソリティアのバージョン、クラシックなKlondike Solitaireをプレイしよう。目標は52枚すべてのカードをスートごとに4つのファウンデーションパイルに、エースからキングまで昇順で移動すること。タブローでカードを戦略的に移動して新しい可能性を明らかにし、ゲームを完成させよう。"
+description: "Solitaire KlondikeはKlondike（クロンダイク）形式のソリティアです。52枚をスートごとにA〜Kでファウンデーションにそろえることを目指します。"
 iframeSrc: "https://games.cdn.famobi.com/html5games/s/solitaire-klondike/v480/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=5b597140-77c2-4f7c-9abf-4f149d6dcbac&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=465&original_ref="
 thumbnail: "/new-images/solitaire-klondike.jpg"
 urlstr: "solitaire-klondike"

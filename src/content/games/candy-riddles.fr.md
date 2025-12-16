@@ -66,15 +66,14 @@ remplis les objectifs rapidement et plus ton score explose.
 ### Foire aux questions (FAQ)
 
 
-- Q: I always fail move‑limit levels — what am I doing wrong?
+- Q : Je rate toujours les niveaux à coups limités — qu’est‑ce que je fais de travers ?
 **Q : Je rate toujours les niveaux à coups limités, que faire ?**  
 
-- Q: Do diagonals count?
-R : Tu te concentres sans doute trop sur le score pur. Vise en priorité les
+- Q : Les diagonales comptent‑elles ?
+R : Tu te concentres sans doute trop sur le score pur. Vise en priorité les objectifs de mission (casser des blocs, libérer des cases, récupérer des objets) et combine plusieurs bonus pour rentabiliser chaque coup.
 
-- Q: Any tip for stubborn blockers?
-objectifs de mission (casser des blocs, libérer des cases, récupérer des
-objets) et combine plusieurs bonus pour rentabiliser chaque coup.
+- Q : Des conseils pour les bloqueurs difficiles ?
+R : Pour les bloqueurs tenaces, essaie de faire exploser des bombes ou des bonus de ligne au contact des blocs à casser, plutôt que de perdre des coups en matches simples.
 
 **Q : Les diagonales comptent‑elles comme des lignes ?**  
 R : En général non. La plupart des jeux match‑3 ne comptent que les lignes

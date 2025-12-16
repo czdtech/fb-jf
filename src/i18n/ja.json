@@ -1,4 +1,25 @@
 {
+  "categories": {
+    "title": "ゲームカテゴリー",
+    "puzzle": "パズル",
+    "casual": "カジュアル",
+    "thinky": "思考系",
+    "action": "アクション",
+    "sports": "スポーツ",
+    "strategy": "戦略",
+    "platformer": "プラットフォーム",
+    "arcade": "アーケード",
+    "shooting": "シューティング",
+    "card": "カード",
+    "rhythm": "リズム",
+    "adventure": "アドベンチャー",
+    "music": "音楽",
+    "clicker": "クリッカー",
+    "driving": "ドライブ",
+    "physics": "物理",
+    "multiplayer": "マルチプレイヤー",
+    "2-player": "2人プレイ"
+  },
   "nav": {
     "home": "ホーム",
     "newGames": "新しいゲーム",

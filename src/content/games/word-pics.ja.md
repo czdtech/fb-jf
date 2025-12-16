@@ -28,17 +28,17 @@ Word Picsは、画像のヒントから単語を推測する楽しいパズル�
  - **マウス：** 文字をクリックして単語を作成
 
 
-- **Mouse/Touch:** Use the mouse or touch screen to interact with the game's menus and hints.
+- **マウス/タッチ：** メニュー操作やヒント表示などは、マウス/タッチで行います。
 ### よくある質問（FAQ）
 
 
-- **A:** The game has different modes, including an expert mode for a greater challenge. The puzzles also get progressively more difficult as you advance.
+- **A:** バージョンによっては複数のモードがあり、上級者向けモードが用意されている場合もあります。進むほど問題は難しくなるのが一般的です。
 
-    - **Q: Are there different difficulty levels?**
+    - **Q: 難易度はありますか？**
 
-- **A:** You can use the in-game hints to help you. You can also earn coins by passing levels to buy more hints.
+- **A:** ヒント機能がある場合は活用できます。レベルを進めてコインを集め、追加ヒントに使えることもあります。
 
-    - **Q: What if I can't guess the word?**
+    - **Q: 単語が分からないときはどうすればいいですか？**
 **ゲームの目標は何ですか？**
 
 4つの画像から共通する単語を推測することです。

@@ -19,7 +19,7 @@ import Header from '../components/Header.astro';
 import PopularGames from '../components/PopularGames.astro';
 import NewGames from '../components/NewGames.astro';
 import TrendingGames from '../components/TrendingGames.astro';
-import { useTranslations, getLocaleFromLangAttr } from '../i18n/utils';
+import { useTranslations, getLocaleFromLangAttr, getLocalizedPath } from '../i18n/utils';
 
 interface Props {
   // Game meta
@@ -57,6 +57,7 @@ const {
 
 const locale = getLocaleFromLangAttr(lang);
 const t = useTranslations(locale);
+const homeHref = getLocalizedPath('/', locale);
 
 // Use the title as-is from content (already includes "Play X Online" format)
 const pageTitle = title;
@@ -75,18 +76,6 @@ const jsonLd = {
   "description": description
 };
 
-const LANGUAGE_PREFIXES: Record<string, string> = {
-  'en': '',
-  'zh-CN': '/zh',
-  'es': '/es',
-  'fr': '/fr',
-  'de': '/de',
-  'ja': '/ja',
-  'ko': '/ko'
-};
-
-const prefix = LANGUAGE_PREFIXES[lang] ?? '';
-const homeHref = prefix === '' ? '/' : `${prefix}/`;
 ---
 
 <!DOCTYPE html>

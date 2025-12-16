@@ -26,23 +26,23 @@ Word Search 2は、クラシックな単語検索ゲームの改良版です。�
 ### 操作ガイド
 
 
-The game is played with a simple click-and-drag motion.
+操作はクリックしてドラッグするだけです。
  - **マウス：** 単語をドラッグして選択
 
 ### よくある質問（FAQ）
 
 
-- **A:** No. If you highlight a selection of letters that is not a word on the list, it will simply un-highlight, and you can try again without penalty.
+- **A:** いいえ。リストにない文字列を選んでも、ハイライトが解除されるだけで、ペナルティなしでやり直せます。
 
-    - **Q: Is there a penalty for guessing wrong?**
+    - **Q: 間違えた場合のペナルティはありますか？**
 
-- **A:** You win by finding and highlighting every single word from the provided list.
+- **A:** リストの単語をすべて見つけてハイライトすると勝利です。
 
-    - **Q: How do I win the game?**
+    - **Q: どうすれば勝てますか？**
 
-- **A:** Yes. Words can be spelled forwards, backwards, up, down, and in all four diagonal directions.
+- **A:** はい。前後、上下、斜めなど、さまざまな方向に単語があります。
 
-    - **Q: Can words be spelled backwards?**
+    - **Q: 単語は逆向きにもありますか？**
 **オリジナルとの違いは何ですか？**
 
 より多くのレベル、テーマ、改善されたグラフィックスがあります。

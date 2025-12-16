@@ -14,18 +14,31 @@ import de from './de.json';
 import ja from './ja.json';
 import ko from './ko.json';
 
+import {
+  defaultLocale,
+  getLocaleFromLangAttr,
+  getLocaleFromPath,
+  getLocalizedPath,
+  isValidLocale,
+  locales,
+  type Locale,
+} from './routing';
+
+export {
+  defaultLocale,
+  getLocaleFromLangAttr,
+  getLocaleFromPath,
+  getLocalizedPath,
+  isValidLocale,
+  locales,
+};
+export type { Locale };
+
 // Type for translation keys (nested object paths)
 type TranslationKey = string;
 
 // Type for translations object
 type Translations = typeof en;
-
-// Supported locales
-export const locales = ['en', 'zh', 'es', 'fr', 'de', 'ja', 'ko'] as const;
-export type Locale = typeof locales[number];
-
-// Default locale
-export const defaultLocale: Locale = 'en';
 
 // Translation dictionary
 const translations: Record<Locale, Translations> = {
@@ -77,43 +90,6 @@ export function useTranslations(locale: Locale) {
 }
 
 /**
- * Get locale from URL path
- * @param pathname - URL pathname (e.g., "/zh/game-name")
- * @returns Detected locale or default locale
- */
-export function getLocaleFromPath(pathname: string): Locale {
-  // Remove leading slash and get first segment
-  const segments = pathname.replace(/^\//, '').split('/');
-  const firstSegment = segments[0];
-  
-  // Check if first segment is a valid locale
-  if (locales.includes(firstSegment as Locale)) {
-    return firstSegment as Locale;
-  }
-  
-  return defaultLocale;
-}
-
-/**
- * Get localized path for a URL
- * @param path - Base path (e.g., "/game-name")
- * @param locale - Target locale
- * @returns Localized path (e.g., "/zh/game-name" or "/game-name" for default locale)
- */
-export function getLocalizedPath(path: string, locale: Locale): string {
-  // Remove leading slash
-  const cleanPath = path.replace(/^\//, '');
-  
-  // For default locale, return path as-is
-  if (locale === defaultLocale) {
-    return `/${cleanPath}`;
-  }
-  
-  // For other locales, prefix with locale
-  return `/${locale}/${cleanPath}`;
-}
-
-/**
  * Get all available locales with their native names
  * @returns Array of locale objects with code and native name
  */
@@ -122,54 +98,4 @@ export function getAvailableLocales() {
     code: locale,
     name: t(locale, 'languages.' + locale)
   }));
-}
-
-/**
- * Check if a locale is valid
- * @param locale - Locale code to check
- * @returns True if locale is supported
- */
-export function isValidLocale(locale: string): locale is Locale {
-  return locales.includes(locale as Locale);
-}
-
-/**
- * Map HTML lang attribute (e.g. "zh-CN") or component-level lang props
- * to our internal Locale codes (e.g. "zh").
- *
- * Components like Header, Footer, and GameLayout use values such as
- * "zh-CN" for the <html lang> attribute, while the i18n system expects
- * shorter locale codes defined in `locales`.
- */
-export function getLocaleFromLangAttr(langAttr: string | undefined): Locale {
-  if (!langAttr) return defaultLocale;
-
-  switch (langAttr) {
-    case 'en':
-    case 'en-US':
-    case 'en-GB':
-      return 'en';
-    case 'zh':
-    case 'zh-CN':
-    case 'zh-Hans':
-      return 'zh';
-    case 'es':
-    case 'es-ES':
-    case 'es-MX':
-      return 'es';
-    case 'fr':
-    case 'fr-FR':
-      return 'fr';
-    case 'de':
-    case 'de-DE':
-      return 'de';
-    case 'ja':
-    case 'ja-JP':
-      return 'ja';
-    case 'ko':
-    case 'ko-KR':
-      return 'ko';
-    default:
-      return defaultLocale;
-  }
 }

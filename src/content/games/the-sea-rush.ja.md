@@ -19,7 +19,7 @@ The Sea Rushは、美しい海をテーマにしたエンドレスランナー�
 ### ゲームプレイガイド
 
 
-Use a mouse click or touchscreen swipe to swap adjacent sea animals. Aligning three or more similar animals clears them. Clearing multiple blocks simultaneously yields more points. As you accrue points, you proceed to the next difficulty level, with the game becoming increasingly challenging. Strategic thinking is required. Plan moves ahead and aim for alignments of more than three blocks for bonus points. Keep an eye on time limits and make swift moves to maximize your score.
+操作はシンプルで、走りながら障害物を避けて進みます。ジャンプやスライド、左右移動でコースを切り替え、コインやアイテムを集めてスコアを伸ばします。進むほどスピードが上がったり、障害物が増えたりして難しくなる場合があります。
  - **走る：** 海を通って前進します
  - **ジャンプ：** 波と障害物を飛び越えます
  - **スライド：** 低い障害物をスライドで通過します
@@ -34,13 +34,13 @@ Use a mouse click or touchscreen swipe to swap adjacent sea animals. Aligning th
 ### よくある質問（FAQ）
 
 
-- **A:** Clearing more than three animals at once or creating combos will award you with more points.
+- **A:** コインやアイテムを集めたり、連続で回避してコンボをつなぐとスコアが伸びます。
 
-    - **Q: How do I get more points?**
+    - **Q: どうすれば高得点を出せますか？**
 
-- **A:** The main goal is to align three or more similar sea animals to score points and advance to the next level.
+- **A:** 主な目標は障害物を避けながら進み、スコアを伸ばしていくことです。
 
-    - **Q: What is the goal of the game?**
+    - **Q: ゲームの目的は何ですか？**
 **ゲームの目標は何ですか？**
 
 できるだけ遠くまで走り、障害物を避けて高得点を獲得することです。

@@ -1,5 +1,5 @@
 ---
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
+# Frontmatter: config.ts の schema に従う
 title: "Solitaire"
 description: "Solitaireは、プレイヤーが特定のシーケンスとスートでカードを配置するクラシックな一人用カードゲーム。すべてのカードをファウンデーションパイルに移動してタブローをクリアすることを目指す、この不朽のパズルゲーム。"
 iframeSrc: "https://www.edogan.us/solitaire-js/"

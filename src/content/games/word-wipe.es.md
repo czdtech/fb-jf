@@ -3,7 +3,7 @@ locale: es
 urlstr: word-wipe
 title: "Word Wipe - Limpia el tablero con palabras"
 description: >-
-  Limpia el tablero usando tu vocabulario en Word Wipe, un rompecabezas de
+  Limpia el tablero usando tu vocabulario en Word Wipe, un puzle de
   palabras rápido y adictivo. Conecta letras en cualquier dirección para formar
   términos, haz que desaparezcan y deja caer nuevas letras mientras luchas
   contra el reloj para despejar filas y lograr una gran puntuación.
@@ -17,11 +17,11 @@ score: 4.8/5  (1384 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
-### Game Introduction
+### Introducción del juego
 
-Word Wipe es un dinámico rompecabezas de palabras que combina la búsqueda de términos con una mecánica de caída de fichas. Te enfrentas a una cuadrícula de letras y debes encontrar rápidamente palabras conectando letras adyacentes. Al formar un término, esas letras desaparecen y las de arriba caen, manteniendo el desafío en movimiento constante.
+Word Wipe es un dinámico puzle de palabras que combina la búsqueda de términos con una mecánica de caída de fichas. Te enfrentas a una cuadrícula de letras y debes encontrar rápidamente palabras conectando letras adyacentes. Al formar un término, esas letras desaparecen y las de arriba caen, manteniendo el desafío en movimiento constante.
 
-### Gameplay Guide
+### Guía de juego
 
 - **Objetivo:** formar palabras para limpiar líneas y superar niveles. Normalmente debes eliminar un número concreto de filas dentro de un límite de tiempo.
 - **Formación de palabras:** conecta letras en horizontal, vertical o diagonal para crear palabras de tres letras o más.
@@ -30,11 +30,11 @@ Word Wipe es un dinámico rompecabezas de palabras que combina la búsqueda de t
 - **Puntuación:** las palabras largas y complejas valen más puntos; la velocidad también suma.
 - **Bombas de bonus:** puedes conseguir “bombas” especiales que limpian varias casillas a la vez y te ayudan en situaciones complicadas.
 
-### Controls Guide
+### Controles
 
 - **Ratón / táctil:** haz clic y arrastra (o desliza) sobre letras adyacentes para formar palabras.
 
-### Frequently Asked Questions (FAQ)
+### Preguntas frecuentes (FAQ)
 
 **¿Cómo se gana en Word Wipe?**
 
@@ -44,7 +44,7 @@ Debes limpiar el número de filas requerido antes de que se agote el tiempo en c
 
 Si no has eliminado las filas necesarias antes de que el temporizador llegue a cero, la partida termina.
 
-**Hay estrategias para puntuaciones altas?**
+**¿Hay estrategias para puntuaciones altas?**
 
 Busca palabras largas que limpien varias filas, intenta crear reacciones en cadena y usa las bombas con cabeza para liberar grandes áreas cuando te quedes sin opciones claras.
 

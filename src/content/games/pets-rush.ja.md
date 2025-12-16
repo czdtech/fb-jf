@@ -1,6 +1,6 @@
 ---
 title: Pets Rush
-description: Pets Rushはかわいいマッチ3ゲームです。ペットをマッチし、パズルを解決し、レベルをクリアし、愛らしい動物の冒険を楽しみます。
+description: Pets Rushはマッチ3パズルです。同じペットをそろえて消し、レベル目標の達成を目指します。
 iframeSrc: 'https://petsrush.h5games.usercontent.goog/v/2j9k5m8h7p3n8/'
 thumbnail: /new-images/pets-rush.png
 urlstr: pets-rush
@@ -15,7 +15,7 @@ locale: ja
 
 ### ゲーム紹介
 
-Pets Rushは、かわいいペットをフィーチャーしたカラフルなマッチ3パズルです。3つ以上の同じペットをマッチしてポップし、ボードをクリアし、レベル目標を完了します。チャーミングなグラフィックと中毒性のあるゲームプレイ。
+Pets Rushは、ペットが並ぶボードで3つ以上をそろえて消していくマッチ3パズルです。ボードを整理しながら、レベルごとの目標を達成します。
 
 ### ゲームプレイ戦略と攻略法
 
@@ -28,7 +28,7 @@ Pets Rushは、かわいいペットをフィーチャーしたカラフルな�
 ### 操作ガイド
 
 
-The game is played with simple swap controls.
+スワップ（入れ替え）のシンプルな操作で遊べます。
 - ペットをドラッグまたはクリック/タップしてスワップします。
 - 3つ以上をマッチしてポップします。
 - レベル目標を完了します。
@@ -39,11 +39,11 @@ The game is played with simple swap controls.
   A: 目標を完了しない場合、再試行します。
     - **Q: 最高のパワーアップコンボは何ですか？**  
   A: 2つのカラーボムを一緒に = 巨大クリア。
-- **Q: どれくらいのレベルがありますか？**  
+- **Q: レベル数や、ブロックがせり上がる場合の対処は？**  
 
-    - **A:** The only way to stop them is to continuously make matches. Every time you make a successful match, the rising wall will pause for a moment.
+    - **A:** 完全に止めるというより、マッチを作り続けることで進行を遅らせたり、一時的に止めたりできる場合があります。
 
-- **Q: Is there a way to stop the blocks from rising?**
+- **Q: スコアを伸ばすコツはありますか？**
 
-    - **A:** Survival and combos. The longer you last, the more points you'll get. Creating chain reactions where multiple matches happen in one move will give you a score multiplier and significantly boost your final score.
+    - **A:** 長く生き残ることとコンボが重要です。1手で複数のマッチが起きる連鎖を作るとスコア倍率が上がり、得点が伸びやすくなります。
   A: バージョンによって異なります。多くは数百。

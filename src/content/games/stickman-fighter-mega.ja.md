@@ -24,7 +24,7 @@ Stickman Fighter Megaは、強化されたスティックマン戦闘ゲーム�
  - **スキルアップ：** キャラクターを強化してより強力にします
 
 
-- Combo routes: Light→Heavy→Launcher→Air juggles are high value.
+- コンボ例：ライト→ヘビー→打ち上げ→空中追撃（エアジャグル）は狙いやすく高効率です。
 ### 操作ガイド
 
  - **矢印キー：** 移動
@@ -34,15 +34,15 @@ Stickman Fighter Megaは、強化されたスティックマン戦闘ゲーム�
 ### よくある質問（FAQ）
 
 
-- Q: I get stun‑locked.
+- Q: スタン状態が続いて動けません。
 **ゲームの目標は何ですか？**
 
 
-- Q: Specials feel weak.
+- Q: 必殺技が弱く感じます。
 すべての相手を倒してレベルをクリアすることです。
 
 
-- Q: Best starter combo?
+- Q: 最初に覚えるべきコンボは？
 **どうやってより強力になりますか？**
 
 新しい技を学び、武器を使用し、戦闘経験を積むことで強くなります。

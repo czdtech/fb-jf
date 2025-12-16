@@ -38,25 +38,27 @@ niveaux de difficulté. Le but est de remplir la grille avec des chiffres de 1 �
   panneau ou via ton clavier.  
 - **Outils** : gomme, notes, vérification d’erreur, aide, selon la version.
 
+### Conseils et stratégies
+
+
+- Q: Quels niveaux de difficulté sont disponibles ?
+
+
+- Évite de deviner au hasard ; si c’est disponible, utilise la mise en évidence
+  des erreurs avec parcimonie.
+
+- Utilise les notes de façon régulière et efface‑les après avoir placé un chiffre.
 ### Foire aux questions (FAQ)
 
+- Évite de deviner au hasard ; si c’est disponible, utilise la mise en évidence
+  des erreurs avec parcimonie.
 
-- Q: What difficulties are available?
+- Utilise les notes de façon régulière et efface‑les après avoir placé un chiffre.
 
-
-- Avoid guesswork; if the host allows, use error‑highlighting conservatively.
-
-- Use notes consistently and clear them after placing a number.
-### Foire aux questions (FAQ)
-
-- Avoid guesswork; if the host allows, use error‑highlighting conservatively.
-
-- Use notes consistently and clear them after placing a number.
-
-- Start with singles found by scanning each row/column/box.
+- Commence par les “singles” trouvés en scannant chaque ligne/colonne/bloc.
 **Q : Les grilles sont‑elles uniques ?**  
 
-- Q: Do online versions support pencil marks?
+- Q: Les versions en ligne gèrent‑elles les notes (pencil marks) ?
 R : Les grilles quotidiennes sont en général générées pour n’avoir qu’une seule
 solution.
 

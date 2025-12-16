@@ -19,7 +19,7 @@ The Impossible Quizは、常識を覆すトリッキーで面白いクイズゲ�
 ### ゲームプレイガイド
 
 
-The game presents a series of multiple-choice questions. Your goal is to answer all 110 questions.
+複数選択式の質問が次々に出題されます。目標は110問すべてに答えることです。
  - **質問に答える：** 各質問に答えます
  - **創造的に考える：** 明白な答えは間違っていることが多いです
  - **ライフ管理：** 限られたライフで慎重にプレイします

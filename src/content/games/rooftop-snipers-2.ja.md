@@ -1,6 +1,6 @@
 ---
 title: Rooftop Snipers 2
-description: Rooftop Snipers 2は物理ベースのスナイパー対決です。狙い、射撃し、屋上から対戦相手をノックし、スナイパーチャンピオンになります。
+description: Rooftop Snipers 2は物理挙動のある対戦シューティングです。屋上で撃ち合い、相手を落とした方が勝ちになります。
 iframeSrc: 'https://rooftopsnipers2.h5games.usercontent.goog/v/2j9k5m8h7p3n8/'
 thumbnail: /new-images/rooftop-snipers-2.png
 urlstr: rooftop-snipers-2
@@ -16,15 +16,15 @@ locale: ja
 
 ### ゲーム紹介
 
-Rooftop Snipers 2は、屋上での陽気な物理ベースのスナイパー対決を続けます。狙い、射撃し、ジャンプし、バランスを維持しながら対戦相手を屋根からノックします。シンプルなコントロール、混沌とした楽しみ。
+Rooftop Snipers 2は、屋上での物理ベース対戦を楽しめる続編です。狙い、射撃し、ジャンプしながらバランスを取り、相手を屋根から落とします。操作はシンプルですが、物理のクセで展開が変わります。
 
 ### ゲームプレイ戦略と攻略法
 
-1.  **狙いを練習:" 物理が予測不可能です。
-2.  **ジャンプ��使用:" ショットを避け、バランスを調整します。
-3.  **タイミング:" 対戦相手の移動を予測します。
-4.  **カバーを使用:" 屋根の後ろに隠れます。
-5.  **冷静を保つ:" パニックは間違いにつながります。
+1.  **狙いを練習:** 物理のブレを含めて当て方に慣れます。
+2.  **ジャンプを使う:** 弾を避けたり、姿勢を立て直したりします。
+3.  **タイミング:** 相手の動きを予測して撃ちます。
+4.  **カバーを使う:** 屋根の段差などを盾にします。
+5.  **落ち着く:** 焦ると足元が崩れます。
 
 ### 操作ガイド
 
@@ -33,7 +33,7 @@ Rooftop Snipers 2は、屋上での陽気な物理ベースのスナイパー対
 - バランスを維持し、対戦相手をノックします。
 
 
-- **Weapon Switch**: In some modes, you can switch between different weapons.
+- **武器切り替え**: モードによっては、複数の武器を切り替えられます。
 ### よくある質問 (FAQ)
 
 - **Q: これはオリジナルとどう違いますか？**  
@@ -44,9 +44,9 @@ Rooftop Snipers 2は、屋上での陽気な物理ベースのスナイパー対
   A: 狙いを練習し、忍耐強く、カバーを使用します。
 
 
-**A**: The game typically provides multiple different rooftop scenarios, each with unique layouts and challenges.
+**A**: バージョンによっては、複数の屋上マップが用意され、それぞれ配置や難しさが異なります。
 
-- **Q: Are there different maps in the game?**
+- **Q: マップは複数ありますか？**
 
 
-**A**: The game typically provides multiple different rooftop scenarios, each with unique layouts and challenges.
+**A**: バージョンによっては、複数の屋上マップが用意され、それぞれ配置や難しさが異なります。

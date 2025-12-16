@@ -3,8 +3,8 @@ locale: fr
 urlstr: drift-hunters
 title: 'Drift Hunters'
 description: >-
-  Drift Hunters is a 3D drifting racer: tune cars, chain drifts, and rack
-  up points across tracks.
+  Drift Hunters est un jeu de drift 3D : règle tes voitures, enchaîne les drifts
+  et accumule des points sur plusieurs circuits.
 iframeSrc: 'https://webglmath.github.io/drift-hunters/'
 thumbnail: /new-images/drift-hunters.jpg
 tags:
@@ -19,26 +19,31 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 ### Overview
-3D drift racer: earn points by maintaining controlled slides, invest earnings into car upgrades and tuning (suspension, camber, turbo), and unlock new tracks and cars.
+Jeu de drift 3D : gagne des points en maintenant des glisses contrôlées, investis
+tes gains dans des améliorations et du tuning (suspension, carrossage, turbo),
+et débloque de nouvelles voitures et de nouveaux circuits.
 
 ### How to Play
-- Chain drifts without hitting obstacles; multipliers build with clean, long slides.
-- Tune gear ratios and suspension to match track layout and style.
-- Spend credits on better tires, turbo, and weight reduction.
+- Enchaîne les drifts sans toucher d’obstacles ; les multiplicateurs montent avec
+  des glisses longues et propres.
+- Ajuste les rapports et la suspension selon le circuit et ton style.
+- Dépense tes crédits en pneus, turbo et réduction de poids.
 
 ### Controls
-- WASD/Arrows steer/throttle; Space: handbrake; C: camera; R: reset (host may vary).
+- WASD/Flèches : diriger/accélérer/freiner ; Espace : frein à main ; C : caméra ;
+  R : reset (selon l’hébergeur).
 
 ### Tips
-- Feather throttle mid‑drift to avoid spinning out.
-- Use handbrake taps to initiate on low‑speed corners.
-- Practice donut control to learn throttle/steering balance.
+- Dose l’accélérateur au milieu du drift pour éviter de partir en tête‑à‑queue.
+- Utilise de petits taps de frein à main pour initier dans les virages lents.
+- Entraîne‑toi aux donuts pour apprendre l’équilibre accélération/direction.
 
 ### FAQ
-- Q: Is there damage?
-A: Visual only on many hosts; collisions break combos.
-- Q: Best starter upgrades?
-A: Tires first, then power and weight.
-- Q: Can I tune per track?
-A: Yes; save presets for technical vs. high‑speed maps when supported.
+- Q: Y a‑t‑il des dégâts ?
+A: Souvent uniquement visuels ; les collisions cassent surtout les combos.
+- Q: Quelles améliorations prendre en premier ?
+A: Les pneus d’abord, puis la puissance et la réduction de poids.
+- Q: Peut‑on régler la voiture selon le circuit ?
+A: Oui ; si la version le permet, sauvegarde des presets pour circuits techniques
+et circuits rapides.
 

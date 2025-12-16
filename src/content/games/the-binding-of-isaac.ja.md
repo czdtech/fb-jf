@@ -19,7 +19,7 @@ The Binding of Isaacは、ランダムに生成されるダンジョンを探索
 ### ゲームプレイガイド
 
 
-Each run through the basement is unique. You navigate room by room, battling enemies by shooting tears, collecting items, and defeating bosses.
+各ランは毎回違います。部屋ごとに進みながら涙で攻撃して敵を倒し、アイテムを集め、ボスを撃破します。
  - **探索：** ランダムに生成される部屋を探索します
  - **戦闘：** 様々なモンスターと戦います
  - **アイテム収集：** パワーアップとアイテムを集めます
@@ -33,7 +33,7 @@ Each run through the basement is unique. You navigate room by room, battling ene
  - **E：** ボム設置
 
 
-- **Use Card/Pill:** `Q`
+- **カード/ピル使用：** `Q`
 ### よくある質問（FAQ）
 
 **ゲームの目標は何ですか？**

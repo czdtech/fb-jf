@@ -1,9 +1,9 @@
 ---
 locale: es
 urlstr: tnt-bomb
-title: TNT Bomb - Rompecabezas de demolición
+title: TNT Bomb - Puzle de demolición
 description: >-
-  Un rompecabezas de demolición basado en físicas. Coloca de forma estratégica
+  Un puzle de demolición basado en físicas. Coloca de forma estratégica
   tu limitado arsenal de explosivos, desde dinamita hasta bombas potentes, para
   derribar por completo las estructuras de cada nivel.
 iframeSrc: >-
@@ -19,7 +19,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### Introducción detallada al juego
 
-TNT Bomb es un rompecabezas estratégico basado en físicas en el que tu objetivo es la demolición total. En cada nivel te enfrentas a una estructura y a un inventario limitado de explosivos. Debes colocar las cargas en los puntos clave para causar el máximo daño posible. Identificando soportes, puntos débiles y el tipo de bomba adecuado, intentarás reducir la construcción a escombros para pasar al siguiente desafío.
+TNT Bomb es un puzle estratégico basado en físicas en el que tu objetivo es la demolición total. En cada nivel te enfrentas a una estructura y a un inventario limitado de explosivos. Debes colocar las cargas en los puntos clave para causar el máximo daño posible. Identificando soportes, puntos débiles y el tipo de bomba adecuado, intentarás reducir la construcción a escombros para pasar al siguiente desafío.
 
 ### Estrategia y recorrido de juego
 

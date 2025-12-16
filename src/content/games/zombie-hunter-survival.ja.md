@@ -24,7 +24,7 @@ Zombie Hunter Survivalは、ゾンビが蔓延する世界で生き残るサバ�
  - **レベルアップ：** スキルと武器を強化します
 
 
-- Resource grabs: Take ammo/health only when routes are clear.
+- 資源回収：弾薬や回復は、周囲が安全なタイミングで拾います。
 ### 操作ガイド
 
  - **WASD：** 移動
@@ -34,11 +34,11 @@ Zombie Hunter Survivalは、ゾンビが蔓延する世界で生き残るサバ�
 ### よくある質問（FAQ）
 
 
-- Bosses? Some waves add elites—kite wider and clear minions first.
+- ボスはいますか？ ウェーブによっては強敵が出ます。距離を取り、まず雑魚を減らすと安定します。
 
-- Ammo scarce—tips? Aim for clusters, use single shots, and pick up only when safe.
+- 弾が足りません：固まった敵を狙い、単発で節約し、安全なときにだけ回収します。
 
-- I get cornered—fix? Avoid dead‑ends; always leave an exit lane.
+- 追い詰められます：行き止まりを避け、逃げ道を1本確保します。
 **ゲームの目標は何ですか？**
 
 ゾンビの世界でできるだけ長く生き残ることです。

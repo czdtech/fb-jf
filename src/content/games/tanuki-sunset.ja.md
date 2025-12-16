@@ -19,7 +19,7 @@ Tanuki Sunsetは、レトロな80年代のビジュアルスタイルを持つ�
 ### ゲームプレイガイド
 
 
-The main goal is to score as many points as possible before you reach the end of the track or crash.
+主な目的は、コースの終点に到達する前、またはクラッシュする前にできるだけ多くのポイントを稼ぐことです。
  - **スケート：** 美しい夕日の道を滑り降ります
  - **ドリフト：** カーブでドリフトしてスピードを維持します
  - **トリック：** ジャンプやドリフトでトリックを実行します
@@ -31,11 +31,11 @@ The main goal is to score as many points as possible before you reach the end of
  - **スペースバー：** ドリフト
 
 
-- **Pause:** `Esc`
+- **一時停止：** `Esc`
 
-- **Speed Stance:** `W` or `Up Arrow Key` (Hold to break through certain obstacles)
+- **スピード姿勢：** `W` または `↑`（押し続けると一部の障害物を突破できる場合があります）
 
-- **180 Slide / Slow Down:** `S` or `Down Arrow Key`
+- **180スライド / 減速：** `S` または `↓`
 ### よくある質問（FAQ）
 
 **ゲームの目標は何ですか？**

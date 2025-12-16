@@ -58,47 +58,20 @@ locale: ja
 ### よくある質問 (FAQ)
 
 
-> Yes, the king can capture an opponent's piece by moving onto its square, just like any other piece. However, a king can never move into a square that is attacked by an opponent's piece (moving into check).
+**1. チェックメイトとステイルメイトの違いは？**
+> 非常に重要な違いです。
+> - **チェックメイト**は勝ちです。キングが攻撃されており、そこから逃れる合法手がありません。
+> - **ステイルメイト**は引き分けです。キングは攻撃されていませんが、合法手が1つもありません。
 
-**4. Can the King capture pieces?**
+**2. キャスリングの条件は？**
+> キャスリングは、次の条件をすべて満たす場合にのみ行えます。
+> 1. キングが一度も動いていない。
+> 2. 対象のルークが一度も動いていない。
+> 3. キングとルークの間に駒がない。
+> 4. キングがチェックされておらず、通過するマスも移動先のマスも敵の利きに入っていない。
 
-> *En Passant* ("in passing" in French) is a special pawn capture. It can only occur immediately after an opponent's pawn moves two squares forward from its starting position, landing right beside your pawn. You can then capture that pawn as if it had only moved one square. This special capture must be done on the very next turn.
+**3. 「アンパッサン（En Passant）」とは？**
+> ポーンの特殊な捕獲です。相手のポーンが初期位置から2マス進んで自分のポーンの真横に並んだ直後の1手に限り、そのポーンを「1マスだけ進んだ」とみなして斜めに取ることができます。
 
-**3. What is "En Passant"?**
-
-> 4.  The king is not currently in check, does not pass through a square that is under attack, and does not land on a square that is under attack.
-
-> 3.  There are no pieces between the king and the rook.
-
-> 2.  It is that rook's very first move.
-
-> 1.  It is that king's very first move.
-
-> You can only castle if all of the following conditions are met:
-
-**2. What are the rules for Castling?**
-
-> - **Stalemate** is a draw. It occurs when a player is *not* in check, but has no legal moves to make. The game ends in a tie.
-
-> - **Checkmate** is a win. It occurs when a king is in check (under attack) and there is no legal move to get out of check.
-
-> This is a crucial distinction.
-
-**1. What is the difference between Checkmate and Stalemate?**
-*   **Q: チェックメイトとステイルメイトの違いは？**
-    *   **A:** 非常に重要です。
-        *   **チェックメイト:** あなたの勝ちです。相手のキングが攻撃されており、逃げ場がない状態です。
-        *   **ステイルメイト:** 引き分け（ドロー）です。相手のキングは攻撃されて*いない*が、合法的に動かせる駒が一つもない状態です。
-
-*   **Q: キャスリングの条件は？**
-    *   **A:** 以下の全てを満たす必要があります。
-        1. キングが一度も動いていない。
-        2. パートナーとなるルークが一度も動いていない。
-        3. キングとルークの間に駒がない。
-        4. 現在チェックされておらず、通過するマスも移動先のマスも敵に攻撃されていない。
-
-*   **Q: 「アンパッサン（En Passant）」とは？**
-    *   **A:** ポーンの特殊な捕獲方法です。敵のポーンが初期位置から2マス進んで、自分のポーンの真横に来た直後のターンに限り、そのポーンをあたかも「1マスしか進まなかった」かのように斜めに取ることができます。
-
-*   **Q: キングも敵の駒を取れますか？**
-    *   **A:** はい、他の駒と同様に移動先にいる敵を取れます。ただし、敵の攻撃が及んでいる（取った後にチェックされる）場所には移動できません。
+**4. キングも敵の駒を取れますか？**
+> はい、他の駒と同様に取れます。ただし、敵の利きに入っているマスには移動できません（自分からチェックに入る手は不可です）。

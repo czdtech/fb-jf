@@ -21,17 +21,17 @@ Le jeu de dames (ou *checkers* en anglais) est un classique du jeu de
 stratégie à deux joueurs, joué sur un damier 8×8. Chaque joueur dispose de
 12 pions placés sur les cases sombres des trois rangées les plus proches de
 
-- A **King** can move diagonally both forwards and backwards, and can capture in both directions.
+- Une **dame** peut se déplacer en diagonale vers l’avant et vers l’arrière, et capturer dans les deux sens.
 
-- When a standard piece reaches the farthest row from its starting position (the opponent's back row), it is "crowned" and becomes a **King**.
+- Quand un pion atteint la rangée la plus éloignée (la rangée de départ de l’adversaire), il est promu et devient une **dame**.
 
-- If a capture is available, it is **mandatory** to make that capture. If multiple captures are possible in a single turn (a chain jump), the player must complete the entire chain.
+- Si une capture est possible, elle est **obligatoire**. Si plusieurs captures sont possibles (prise en chaîne), le joueur doit terminer toute la séquence.
 
-- A piece captures an opponent's piece by jumping over it diagonally to an empty square immediately beyond it.
+- Une pièce capture en sautant en diagonale par‑dessus une pièce adverse vers une case vide juste derrière.
 
-- Standard pieces (men) can only move one square diagonally forward.
+- Les pions simples ne se déplacent que d’une case en diagonale vers l’avant.
 
-- Pieces are always placed and moved on the dark squares only.
+- On joue uniquement sur les cases sombres.
 lui.
 
 Le but est de **capturer toutes les pièces adverses** ou de les empêcher de
@@ -52,7 +52,7 @@ les capturer et, une fois la dernière rangée adverse atteinte, un pion devient
   séquence de prises multiples, tu dois la jouer en entier.  
 - Quand un pion atteint la dernière rangée du camp adverse, il est promu en
 
-- **The Power of Kings:** Getting the first King can be a game-changing advantage. A King is the most powerful piece on the board. Use it to hunt down your opponent's remaining pieces and control large areas of the board.
+- **Le pouvoir des dames :** obtenir la première dame peut changer la partie. Utilise‑la pour chasser les pièces restantes et contrôler de longues diagonales.
   **dame** : il peut alors se déplacer et capturer en diagonale vers l’avant
   **et** vers l’arrière.
 
@@ -93,13 +93,13 @@ Dans cette version numérique, tout se joue au clic ou au toucher :
   séquence.
 
 
-> A piece becomes a King when it reaches the last row on the opponent's side of the board (the row where their pieces started). In a physical game, this is usually marked by placing a second checker of the same color on top of it.
+> Un pion devient une dame quand il atteint la dernière rangée du camp adverse (la rangée de départ de l’adversaire). Dans un jeu physique, on marque souvent cela en empilant un second pion de la même couleur dessus.
 
-**4. How does a piece become a King?**
+**4. Comment un pion devient‑il dame ?**
 
-> No, standard pieces can only move diagonally *forward* towards the opponent's side of the board. Only a King can move both forwards and backwards.
+> Non. Un pion simple ne se déplace qu’en diagonale vers l’avant, vers le camp adverse. Seule une dame peut se déplacer vers l’avant et vers l’arrière.
 
-**3. Can a regular piece (a "man") move backwards?**
+**3. Un pion peut‑il reculer ?**
 ### Foire aux questions (FAQ)
 
 **1. La prise est‑elle vraiment obligatoire ?**  

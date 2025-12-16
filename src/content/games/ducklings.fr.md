@@ -3,8 +3,8 @@ locale: fr
 urlstr: ducklings
 title: 'Ducklings'
 description: >-
-  Ducklings is a relaxing collect‑’em‑up: rescue ducklings on the water and
-  bring them safely back to your nest.
+  Ducklings est un jeu relax de collecte : sauve des canetons sur l’eau et
+  ramène‑les en sécurité au nid.
 iframeSrc: 'https://g2.igroutka.ru/games/164/BkDlKfiWjEoZ2rcG/ducklings_io/'
 thumbnail: /new-images/ducklings.jpg
 tags:
@@ -19,26 +19,29 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 ### Overview
-Relaxed collect‑’em‑up on the water: rescue ducklings scattered around a pond and escort them safely back to your nest while avoiding boats and hazards.
+Jeu de collecte relax sur l’eau : récupère des canetons dispersés sur un étang et
+ramène‑les au nid en évitant les bateaux et autres dangers.
 
 ### How to Play
-- Swim near ducklings to have them follow; return to the nest to bank them.
-- Larger trains are riskier—boats can scatter your line; take safe routes.
-- Upgrade your nest between trips when offered.
+- Nage près des canetons pour les faire suivre ; retourne au nid pour les “banquer”.
+- Les longues files sont plus risquées : les bateaux peuvent disperser ta ligne ;
+  prends des routes sûres.
+- Améliore ton nid entre deux trajets si le jeu le propose.
 
 ### Controls
-- Mouse/Touch or Arrows to steer.
+- Souris/tactile ou flèches pour diriger.
 
 ### Tips
-- Don’t over‑extend; bank small batches when traffic is heavy.
-- Cut diagonals behind slow boats; never cross a bow head‑on.
-- Keep your chain compact to avoid stragglers getting clipped.
+- Ne t’étends pas trop : quand le trafic est dense, sécurise de petits groupes.
+- Coupe en diagonale derrière les bateaux lents ; ne traverse jamais l’étrave de face.
+- Garde ta chaîne compacte pour éviter qu’un caneton ne se fasse accrocher.
 
 ### FAQ
-- Q: Is there a time limit?
-A: Typically no—play at your pace.
-- Q: What ends a run?
-A: Losing followers to collisions reduces haul; the nest is safe.
-- Q: Are there power‑ups?
-A: Some hosts add boosts or cosmetics; core loop is rescuing and banking.
+- Q: Y a‑t‑il une limite de temps ?
+A: En général non : tu joues à ton rythme.
+- Q: Qu’est‑ce qui met fin à une run ?
+A: Les collisions te font perdre des canetons (donc ton butin) ; le nid reste sûr.
+- Q: Y a‑t‑il des bonus ?
+A: Certaines versions ajoutent des boosts ou des cosmétiques ; le cœur du jeu est
+le sauvetage et le retour au nid.
 

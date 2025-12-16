@@ -24,7 +24,7 @@ Tiger Runは、タイガーを操作して森を駆け抜けるエンドレス�
  - **コインを集める：** 走りながらコインを集めます
 
 
-- Power‑ups: Save shields/magnets for dense sections.
+- パワーアップ：シールドやマグネットは障害物が密な区間で使うと効果的です。
 ### 操作ガイド
 
  - **上矢印/W：** ジャンプ
@@ -34,11 +34,11 @@ Tiger Runは、タイガーを操作して森を駆け抜けるエンドレス�
 ### よくある質問（FAQ）
 
 
-- Is there a finish? Usually endless—aim for new personal bests.
+- ゴールはありますか？ 多くの場合はエンドレスなので、自己ベスト更新を目指します。
 
-- Any way to slow down? Some modes offer slow‑mo or temporary speed drops via power‑ups.
+- スピードを落とせますか？ モードによってはスローや一時減速のパワーアップがある場合があります。
 
-- I always clip hurdles—why? Time jumps slightly later and keep momentum steady.
+- 障害物に当たりやすい：ジャンプが早すぎることがあります。少し遅らせ、一定のリズムで操作します。
 **ゲームの目標は何ですか？**
 
 できるだけ長く走り続け、障害物を避けて高得点を獲得することです。

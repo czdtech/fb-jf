@@ -54,14 +54,14 @@ pour viser les limites.
 ### Foire aux questions (FAQ)
 
 
-- Q: Keep getting caught?
-**Q : Je me fais attraper trop souvent en profondeur, que faire ?**  
+- Q: Je me fais attraper trop souvent en profondeur — que faire ?
+  A: Privilégie les coups au sol quand le champ est profond et vise les gaps plutôt que de lever la balle.
 
-- Q: Timing misses?
-R : Varie davantage tes coups au sol, surtout quand le champ est bien couvert.
+- Q: Je rate mon timing — un conseil ?
+  A: Calibre ton swing sur le relâchement du bowler (et la longueur) plutôt que seulement sur le vol de la balle.
 
 
-- Q: Bowling available?
+- Q: Le jeu gère‑t‑il les différents formats (T20, ODI…) ?
 **Q : Le jeu gère‑t‑il les différents formats (T20, ODI…) ?**  
 R : Cela dépend de la version, mais la plupart des scénarios s’inspirent de
 situations de limited overs.

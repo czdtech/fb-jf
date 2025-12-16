@@ -1,6 +1,6 @@
 ---
 title: Pics Word Game
-description: Pics Word Gameは写真ワードパズルです。写真を見て、単語を推測し、脳を鋭くし、ビジュアルワードチャレンジを解決します。
+description: Pics Word Gameは写真ワードパズルです。写真の共通点から単語を推測して答えを導きます。
 iframeSrc: 'https://picswordgame.h5games.usercontent.goog/v/3j9k5m8h7p2n8/'
 thumbnail: /new-images/pics-word-game.png
 urlstr: pics-word-game
@@ -38,7 +38,7 @@ Pics Word Gameは、4つの写真を見てそれらをリンクする単語を�
   A: いいえ、一部のパズルはトリッキーです。異なる角度を考えます。
     - **Q: ヒントを使い果たした場合はどうなりますか？**  
   A: スキップするか、後で戻ってきます。
-- **Q: どれくらいのレベルがありますか？**  
+- **Q: レベル数やコインの集め方は？**  
 
-    - **A:** You can usually earn coins by successfully completing levels. Some games also offer coins for watching ads.
+    - **A:** 多くの場合、レベルをクリアするとコインを獲得できます。広告視聴でコインを得られることもあります。
   A: バージョンによって異なります。多くは数百。

@@ -26,27 +26,27 @@ Tile Journeyは、タイルを配置してパスを作成し、キャラクタ�
 ### 操作ガイド
 
 
-The game is played with simple clicks or taps.
+操作はクリック/タップ中心で進められます。
  - **マウス：** タイルをドラッグして配置
 
 ### よくある質問（FAQ）
 
 
-- **A:** Many versions of this game include helpful power-ups like an "Undo" button to reverse your last move, a "Hint" to show a possible match, or a "Shuffle" to rearrange the tiles on the board.
+- **A:** バージョンによっては、Undo（戻す）やHint（ヒント）などの補助機能が用意されている場合があります。
 
-    - **Q: Are there power-ups?**
+    - **Q: パワーアップはありますか？**
 
-- **A:** If all the slots in your tray are filled and you cannot form a set of three with the tiles you have, the game is over and you must restart the level.
+- **A:** 手数やタイルが尽きる、または行き詰まるとレベルをやり直すことがあります（ルールはバージョンによって異なります）。
 
-    - **Q: What happens if my collection tray gets full?**
+    - **Q: 行き詰まったらどうなりますか？**
 
-- **A:** You can only select tiles that are on the top layer and are not covered by any other tile. You must clear the tiles on top to access the ones underneath.
+- **A:** 置けない/選べない場合は、他のタイルや障害物でスペースが塞がれている、または条件が合っていない可能性があります。
 
-    - **Q: Why can't I select a certain tile?**
+    - **Q: なぜ特定のタイルが選べませんか？**
 
-- **A:** To clear all tiles from the board by collecting them in sets of three in your collection tray.
+- **A:** タイルを配置してルートを作り、キャラクターをゴールまで導くことです。
 
-    - **Q: What is the objective of the game?**
+    - **Q: ゲームの目的は何ですか？**
 **ゲームの目標は何ですか？**
 
 タイルを配置してパスを作り、キャラクターをゴールまで導くことです。

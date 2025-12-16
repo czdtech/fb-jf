@@ -53,15 +53,15 @@ l’appliquer sur l’objet.
 ### Foire aux questions (FAQ)
 
 
-- Q: Hue matches but still fails — why?
+- Q : La teinte est bonne mais j’échoue quand même — pourquoi ?
 **Q : Dois‑je atteindre 100 % de correspondance ?**  
 
-- Q: Any shortcut for brown/gray?
-R : Pas forcément. La plupart des niveaux se valident à partir d’un certain
+- Q : Un raccourci pour les bruns/gris ?
+R : Pas forcément. La plupart des niveaux se valident à partir d’un certain seuil de similarité (par exemple 80–90 %). Les 100 % sont surtout là pour les perfectionnistes.
 
-- Q: Do tiny tweaks matter?
-seuil de similarité (par exemple 80–90 %). Les 100 % sont surtout là pour les
-perfectionnistes.
+- Q : Les micro‑ajustements comptent‑ils ?
+R : Pour les bruns, pars d’une teinte chaude puis baisse la luminosité et la saturation ; pour les gris, baisse surtout la saturation.
+R : Oui. De minuscules ajustements (saturation/luminosité) peuvent faire grimper le pourcentage de similarité.
 
 **Q : Comment gérer les couleurs très sombres ou très claires ?**  
 R : Commence par régler la luminosité, puis affine la teinte et la saturation.

@@ -31,7 +31,7 @@ locale: ja
 ### 操作ガイド
 
 
-The game is played with a simple drag-and-drop mechanic.
+操作はシンプルで、ドラッグ＆ドロップだけで遊べます。
 *   **ブロック配置:** マウスまたは指で下部エリアから形状をドラッグし、10x10グリッド上の空きスペースにドロップします。
 
 ### よくある質問 (FAQ)

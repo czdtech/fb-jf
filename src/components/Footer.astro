@@ -9,7 +9,7 @@
  * @prop {boolean} showEmail - Whether to show email address
  * @prop {string} lang - Current language (for localized links)
  */
-import { useTranslations, getLocaleFromLangAttr } from '../i18n/utils';
+import { useTranslations, getLocaleFromLangAttr, getLocalizedPath } from '../i18n/utils';
 
 interface Props {
   year?: number;
@@ -20,7 +20,7 @@ interface Props {
 }
 
 const { 
-  year = 2025, 
+  year = new Date().getFullYear(), 
   siteName = 'FiddleBops',
   email = 'chongzhidatech@gmail.com',
   showEmail = false,
@@ -29,20 +29,8 @@ const {
 
 const locale = getLocaleFromLangAttr(lang);
 const t = useTranslations(locale);
-
-const LANGUAGE_PREFIXES: Record<string, string> = {
-  'en': '',
-  'zh-CN': '/zh',
-  'es': '/es',
-  'fr': '/fr',
-  'de': '/de',
-  'ja': '/ja',
-  'ko': '/ko'
-};
-
-const prefix = LANGUAGE_PREFIXES[lang] ?? '';
-const privacyHref = `${prefix}/privacy/`;
-const termsHref = `${prefix}/terms-of-service/`;
+const privacyHref = getLocalizedPath('/privacy/', locale);
+const termsHref = getLocalizedPath('/terms-of-service/', locale);
 ---
 
 <footer>

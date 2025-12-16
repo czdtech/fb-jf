@@ -1,6 +1,6 @@
 ---
 title: "Incredibox Yellow Colorbox - Play Incredibox Yellow Colorbox Online"
-description: "Incredibox Yellow Colorboxはファン作成のIncredib​​oxモッド音楽ゲームです。このバージョンでは、すべてのキャラクターが印象的な黄色で表示され、各キャラクターがユニークで反復不可能なサウンドエフェクトを持っています。"
+description: "Incredibox Yellow Colorboxはファン作成のIncrediboxモッド音楽ゲームです。このバージョンでは、すべてのキャラクターが印象的な黄色で表示され、各キャラクターがユニークなサウンドエフェクトを持っています。"
 iframeSrc: "https://www.minijuegos.com/embed/incredibox-yellow-colorbox"
 thumbnail: "/incredibox-yellow-colorbox.png"
 urlstr: "incredibox-yellow-colorbox"
@@ -11,7 +11,7 @@ locale: ja
 
 ### Incredibox Yellow Colorboxとは？
  
-Incredibox Yellow Colorboxはファン作成のIncredib​​oxモッド音楽ゲームです。このバージョンでは、すべてのキャラクターが印象的な黄色で表示され、各キャラクターがユニークで反復不可能なサウンドエフ��クトを持っています。シンプルなドラッグ＆ドロップ操作で、さまざまな音楽要素を組み合わせて独自の専用メロディを作成できます。
+Incredibox Yellow Colorboxはファン作成のIncrediboxモッド音楽ゲームです。このバージョンでは、すべてのキャラクターが印象的な黄色で表示され、各キャラクターがユニークなサウンドエフェクトを持っています。シンプルなドラッグ＆ドロップ操作で、さまざまな音楽要素を組み合わせて独自のメロディを作成できます。
  
 ---
  
@@ -39,4 +39,4 @@ Incredibox Yellow Colorboxの各キャラクターには特別な外観と色が
  
 ---
  
-シンプルなビートを作成したいか、複雑な曲を作りたいかにかかわらず、Incredibox Yellow Colorboxは、ユニークで楽しい方法で創造性を表現できるようにします。今すぐIncredib​​oxの世界に参加して、音楽のインスピレーションを自由に駆け巡らせましょう！
+シンプルなビートを作成したいか、複雑な曲を作りたいかにかかわらず、Incredibox Yellow Colorboxはドラッグ＆ドロップで気軽にミックスを試せます。

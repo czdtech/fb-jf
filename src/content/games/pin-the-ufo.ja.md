@@ -1,6 +1,6 @@
 ---
 title: Pin the UFO
-description: Pin the UFOは物理パズルです。ピンを引き、UFOを着陸させ、重力と物理をマスターし、挑戦的なレベルを解決します。
+description: Pin the UFOは物理パズルです。ピンを抜く順番を考え、重力の動きを利用してUFOまで導きます。
 iframeSrc: 'https://pintheufo.h5games.usercontent.goog/v/5k9j2m8h7p3n8/'
 thumbnail: /new-images/pin-the-ufo.png
 urlstr: pin-the-ufo
@@ -19,23 +19,23 @@ locale: ja
 Pin the UFOは、ピンを引いてUFOを着陸パッドに導く物理ベースのパズルです。重力、障害物、タイミングが重要な役割を果たします。各レベルは、ますます複雑な配置を提示します。
 
 
-The challenge lies in figuring out the precise sequence of pin-pulls to ensure all colorless aliens are colored, all hazards are avoided, and all aliens successfully reach the UFO.
+重要なのは、どのピンをどの順で抜くかです。危険を避け、（必要なら）色のないエイリアンを色付きにして、全員をUFOまで安全に導きます。
 
-- **Physics**: The game is based on simple physics. You must understand how the balls will fall, mix, and flow once a pin is removed.
+- **物理**: ピンを抜いた後に、エイリアン（ボール）がどう落ちて混ざり、流れるかを読む必要があります。
 
-- **Obstacles**: Levels often contain hazards like bombs or explosives. The aliens must be kept away from these dangers.
+- **障害物**: 爆弾などの危険物が配置されていることがあります。触れないようにルートを作ります。
 
-- **Color Spreading**: Some aliens start off colorless (white or grey). They must come into contact with the colored aliens to gain color before they can be collected.
+- **色の伝播**: 白/灰色のエイリアンは、色付きのエイリアンに触れることで色が付き、回収可能になる場合があります。
 
-The game introduces several key mechanics:
+ゲームにはいくつかの基本要素があります。
 
 
-- **Physics**: The game is based on simple physics. You must understand how the balls will fall, mix, and flow once a pin is removed.
+- **物理**: 落下の順序と混ざり方を読み、無駄な衝突を減らします。
 
-- **Obstacles**: Levels often contain hazards like bombs or explosives. The aliens must be kept away from these dangers.
+- **障害物**: 危険物は先に隔離するか、別ルートへ流す必要があります。
 
-- **Color Spreading**: Some aliens start off colorless (white or grey). They must come into contact with the colored aliens to gain color before they can be collected.
-Each level consists of a container holding the aliens, sectioned off by a series of movable pins. The player must analyze the puzzle and pull the pins out in the correct order to release the aliens and let gravity do the rest.
+- **色の伝播**: まず色を付けてからUFOへ流す順序を意識します。
+各レベルは、ピンで区切られた容器の中にエイリアンが入った構造です。ピンを抜く順序を分析し、重力で流れるようにしてUFOへ導きます。
 ### ゲームプレイ戦略と攻略法
 
 1.  **先を計画:** ピンを引く前に物理を視覚化します。
@@ -47,7 +47,7 @@ Each level consists of a container holding the aliens, sectioned off by a series
 ### 操作ガイド
 
 
-The controls are extremely simple and designed for one-touch mobile gameplay.
+操作はシンプルで、ワンタップで遊べるようになっています。
 - ピンをクリック/タップして引きます。
 - 物理がUFOを導きます。
 - 着陸パッドに到達してレベルをクリアします。
@@ -62,12 +62,12 @@ The controls are extremely simple and designed for one-touch mobile gameplay.
   A: バージョンによって異なります。多くは数十。
 
 
-The goal is to successfully solve each puzzle level by getting all the colored aliens into the UFO, progressing through as many levels as possible.
+目的は、色付きのエイリアンをすべてUFOに入れて各レベルを解くことです。クリアしながら先のレベルへ進みます。
 
-**4. What is the goal of the game?**
+**4. ゲームの目的は何ですか？**
 
-Every level has a specific solution. If you are stuck, try to rethink the order of your pin-pulls. The solution is often counter-intuitive. Consider pulling a pin that doesn't seem to lead directly to the exit, but instead sets up a better flow for the aliens.
+どのレベルにも解法があります。詰まったらピンを抜く順序を見直してみてください。いきなり出口に向かうのではなく、流れを作るためのピンから抜くのが有効な場合もあります。
 
-**3. The level seems impossible. What should I do?**
+**3. 不可能に見えるレベルはどうすればいいですか？**
 
-You allowed the aliens to come into contact with a bomb. The solution to these levels involves finding a way to get rid of the bombs first, or guiding the aliens along a path that safely avoids them.
+エイリアンが爆弾に触れてしまった状態です。まず爆弾を処理する手順を探すか、爆弾を避ける流れになるようにピンの順序を組み立てましょう。

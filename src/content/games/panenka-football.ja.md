@@ -1,6 +1,6 @@
 ---
 title: "Panenka Football"
-description: "Panenka Footballはペナルティキックゲームです。Panenkaスタイルショットをマスターし、ゴールキーパーを騙し、ペナルティキックチャレンジで勝ちます。"
+description: "Panenka Footballはペナルティキックゲームです。Panenka（チップキック）のタイミングをつかみ、キーパーの動きを見て決めます。"
 iframeSrc: "https://panenkafootball.h5games.usercontent.goog/v/5j8k9m2h7p3n8/"
 thumbnail: "/new-images/panenka-football.png"
 urlstr: "panenka-football"

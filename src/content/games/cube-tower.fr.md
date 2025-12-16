@@ -54,13 +54,17 @@ Chaque type de cube a ses propres caractéristiques (portée, dégâts, vitesse 
 ### Foire aux questions (FAQ)
 
 
-- **A:** You earn stars based on how many lives you have remaining at the end of each level. To get 3 stars, you need to prevent as many enemies as possible from reaching your Cube Tower.
+- **R :** Tu gagnes des étoiles selon le nombre de vies restantes en fin de niveau.
+  Pour obtenir 3 étoiles, empêche un maximum d’ennemis d’atteindre ta tour.
 
-    - **Q: How do I get a 3-star rating?**
+    - **Q : Comment obtenir 3 étoiles ?**
 
-- **A:** Different towers are effective against different types of enemies. A good strategy is to use a mix of towers to cover all weaknesses. For example, Cannon Towers are good against groups of enemies, while Laser Towers can be effective against fast enemies.
+- **R :** Certaines tours sont meilleures contre certains ennemis. La bonne
+  approche est de mélanger les types de tours pour couvrir les faiblesses. Par
+  exemple, les canons gèrent bien les groupes, tandis que les lasers peuvent être
+  efficaces contre des ennemis rapides.
 
-    - **Q: What's the best tower to use?**
+    - **Q : Quelle est la meilleure tour ?**
 **Q : Puis‑je repositionner un cube ?**  
 R : Selon la version, tu dois souvent vendre un cube pour en reposer un ailleurs.
 

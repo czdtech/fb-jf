@@ -19,7 +19,7 @@ There Is No Gameは、ユニークなメタゲームパズルです。タイト�
 ### ゲームプレイガイド
 
 
-The core gameplay involves point-and-click interactions. You'll need to click, drag, and manipulate elements on the screen in unexpected ways to solve puzzles and advance. The game frequently breaks the fourth wall, and success often requires thinking outside the box and ignoring the narrator's direct instructions. Each "level" presents a new scenario where you must figure out how to bypass the narrator's attempts to stop you from playing.
+基本はポイント＆クリックの操作です。クリックやドラッグで画面上の要素を意外な方法で動かし、パズルを解いて進めます。第四の壁を破る演出が多く、ナレーターの指示をあえて無視して進む必要がある場面もあります。各「レベル」で状況が変わるので、止めようとするナレーターをどう出し抜くか考えます。
  - **探索：** 画面上のすべてをクリックします
  - **ナレーターと対話：** ナレーターの指示を無視します
  - **パズルを解く：** 隠されたパズルを見つけて解きます

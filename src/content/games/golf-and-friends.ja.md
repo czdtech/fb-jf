@@ -21,7 +21,7 @@ Golf and Friendsは、遊び心のある障害物、スロープ、バンクウ�
 ### ゲームプレイ戦略と攻略法
 
 
-Golf and Friends is a casual mini‑golf experience with playful obstacles, ramps, and bank walls. Mastery revolves around pace control and angle selection — soft touches near cups prevent lip‑outs, and 45° bank lines make tight corners consistent. Multiplayer turns the course into a light party game.
+Golf and Friendsは、遊び心のある障害物やスロープ、壁（バンク）を使って遊ぶミニゴルフです。強さと角度の選び方がスコアを左右し、複数人で遊ぶとパーティー感が増します。
 1.  **カップ近くのペース:** リップアウトを避けるため、縁（リム）付近ではわずかに弱めに打ちましょう。
 2.  **バンクの幾何学:** 壁からの45度のラインを利用して、狭いレーンにボールを誘導しましょう。
 3.  **ハザードのタイミング:** 風車やゲートは、完全に一巡する動きを観察する必要があります。
@@ -33,18 +33,18 @@ Golf and Friends is a casual mini‑golf experience with playful obstacles, ramp
 - マウスで狙いを定め、引っ張ってパワーを設定し、離してパットします。動けなくなった場合はリセット/降参（ギブアップ）できます。
 
 
-- Camera work: Pan/zoom to preview hidden slopes.
+- カメラ操作: パン/ズームで隠れた傾斜を確認しましょう。
 
-- Two‑putt planning: Don’t force hero shots; set up a gimme second.
+- ツーパット計画: 無理な一発狙いより、確実に2打目を入れられる形を作りましょう。
 
-- Hazard timing: Windmills/gates need a full cycle watch.
+- ハザードのタイミング: 風車やゲートは一周の動きを見てから狙いましょう。
 
-- Bank geometry: Use 45° lines off walls to redirect into narrow lanes.
+- バンクの幾何学: 壁への45度ラインを使い、狭いレーンへとコースを変えましょう。
 ### よくある質問 (FAQ)
 
-- **Q: なぜパットが縁で弾かれるのですか？**
+- **Q: なぜパットが縁で弾かれるのですか？**  A: スピードが速すぎるか、進入角度が悪いです。カップの近くでは減速させましょう。
 
-### よくある質問（FAQ）
+### よくある質問（続き）
   A: スピードが速すぎるか、進入角度が悪いです。カップの近くでは減速させましょう。
 - **Q: バンクショットのコツは？**
   A: 速度のロスを考慮して、45度より少し内側を狙いましょう。
@@ -52,9 +52,9 @@ Golf and Friends is a casual mini‑golf experience with playful obstacles, ramp
   A: 多くの場合ホットシート方式です。ターンの間にデバイスを回してプレイします。
 
 
-A: Often hot‑seat style; pass the device between turns.
+A: 多くの場合ホットシート方式で、ターンごとにデバイスを回してプレイします。
 
-- Q: Multiplayer local?
+- Q: ローカルのマルチプレイはできますか？
 
 
-A: Often hot‑seat style; pass the device between turns.
+A: 多くの場合ホットシート方式で、ターンの間にデバイスを回します。

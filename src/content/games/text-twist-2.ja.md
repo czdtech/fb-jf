@@ -19,29 +19,29 @@ Text Twist 2は、与えられた文字から単語を作る人気の単語パ�
 ### ゲームプレイガイド
 
 
-The core gameplay remains the same: form words from a given set of letters.
+基本ルールは同じで、与えられた文字セットから単語を作ります。
  - **文字を並べ替える：** 与えられた文字を使います
  - **単語を作る：** 有効な単語を形成します
     - **すべての単語を見つける：** できるだけ多くの単語を発見します
     - **時間制限：** 制限時間内にクリアします
 
 
-    - **"Twist" Feature:** The classic "Twist" button is still available to shuffle letters and spark new ideas.
+    - **「Twist」機能：** 文字をシャッフルして、新しい発想を得られます。
 
-    - **Broader Dictionary:** The game features an expanded dictionary, allowing for more word discoveries.
+    - **辞書の拡張：** 収録語が増えている場合があります。
 
-- **Daily Word:** A new challenge each day.
+- **デイリーワード：** 毎日のチャレンジが用意されている場合があります。
 
-- **Crossword Mode:** Fill in a crossword puzzle using the given letters.
+- **クロスワードモード：** 与えられた文字でクロスワードを埋めるモードがある場合があります。
 ### 操作ガイド
 
  - **キーボード：** 文字を入力して単語を作成
  - **マウス：** 文字をクリックして選択
 
 
-- **Clear Word:** Click the "Clear" button or press `Backspace`.
+- **単語を消す：** 「Clear」ボタン、または `Backspace` で消せます。
 
-- **Shuffle Letters:** Click the "Twist" button or press `Spacebar`.
+- **文字をシャッフル：** 「Twist」ボタン、または `Spacebar` でシャッフルします。
 ### よくある質問（FAQ）
 
 **ゲームの目標は何ですか？**
