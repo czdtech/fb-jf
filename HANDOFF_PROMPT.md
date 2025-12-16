@@ -59,9 +59,9 @@
 - **FR**：130/679（19.15%）🚧（已审校 slug：`2-tricky-stories` → `fiddlebops-sprunkbop`）
 - **DE**：0/679（0%）
 - **KO**：679/679（100%）✅（修复残留英文：`sprunki-retake`、`zumba-ocean`）
-- **ZH**：0/679（0%）
+- **ZH**：679/679（100%）✅（修复英文标题：`cookie-clicker`、`slope`、`incredibox`、`friday-night-funkin`、`geometry-dash`）
 
-按"需要审校的总页面数"（6*679=4074）计：已完成 2167/4074（≈53.19%）。
+按"需要审校的总页面数"（6*679=4074）计：已完成 2846/4074（≈69.86%）。
 
 ### 法语 FR：下一批（B14，10 篇，字典序）
 
