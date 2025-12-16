@@ -4,7 +4,7 @@ urlstr: zumba-ocean
 title: Zumba Ocean
 description: >-
   Zumba Ocean est un shooter de billes façon Zuma : tire des perles colorées
-  pour former des trios et arrêter la chaîne avant qu’elle n’atteigne la
+  pour former des trios et arrêter la chaîne avant qu'elle n'atteigne la
   coquille.
 iframeSrc: 'https://zumbaocean.h5games.usercontent.goog/v/1gb65icesunig/'
 thumbnail: /new-images/zumba-ocean.png
@@ -17,60 +17,30 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
-    - **A:** By creating long combos and clearing the level quickly. The faster you finish, and the more chain reactions you cause, the higher your score will be.
-
-- **Q: How do I get a high score?**
-
-    - **A:** You lose the level and must start over.
-
-- **Q: What happens if a pearl reaches the end?**
-
-    - **A:** To completely destroy the chain of pearls before any of them reach the shell at the end of the path.
-
-- **Q: What is the goal of the game?**
-
-### Foire aux questions (FAQ)
-
-
-Zumba Ocean is a vibrant and addictive marble shooter puzzle game, in the style of classics like Zuma. Set in a beautiful ocean world, a chain of colorful pearls slowly moves along a path. You control a shooter that fires pearls. Your mission is to eliminate the entire chain by shooting pearls to create matches of three or more of the same color before the chain reaches the final shell.
-- **Swap:** You can often click on the shooter itself or press a key (like the spacebar) to swap the current pearl with the next one.
-
-- **Shoot:** Click the left mouse button to fire the pearl.
-
-- **Aim:** Move your mouse to aim the pearl shooter.
-
-### Commandes
-
-- **Prioritize:** If the chain is getting dangerously close to the end, focus all your shots on the front part of the chain to push it back.
-
-- **Use Power-ups:** Be on the lookout for special pearls that appear in the chain. Shooting these can activate powerful boosters, such as a bomb that destroys a group of pearls or a reverse power-up that makes the chain move backward for a short time.
-
-- **Aim Through Gaps:** As the chain twists and turns, gaps will appear. Use these gaps to your advantage to make matches in the parts of the chain that are further behind. This can help set up bigger combos.
-
-- **Create Combos:** The most effective way to clear the chain is by triggering combos. When you make a match, if the two new ends of the chain are the same color, they will attract each other and merge, often causing a new match automatically. This chain reaction is a combo and awards bonus points.
+Zumba Ocean est un jeu de tir de billes coloré et addictif, dans la lignée des classiques comme Zuma. Dans un décor océanique, une chaîne de perles colorées avance lentement le long d'un chemin. Tu contrôles un lanceur qui projette des perles. Ta mission : éliminer toute la chaîne en formant des groupes de trois perles ou plus de la même couleur avant qu'elle n'atteigne le coquillage final.
 
 ### Guide de jeu
 
+1.  **Crée des combos :** Le meilleur moyen de dégager la chaîne est de déclencher des réactions en chaîne. Quand tu fais un trio, si les deux nouvelles extrémités sont de la même couleur, elles fusionnent et peuvent provoquer un nouveau match automatique. Ce combo rapporte des points bonus.
+2.  **Vise à travers les espaces :** Quand la chaîne serpente, des brèches apparaissent. Profite de ces ouvertures pour atteindre les sections plus éloignées et préparer de plus gros combos.
+3.  **Utilise les bonus :** Repère les perles spéciales dans la chaîne. Les toucher peut activer des effets puissants, comme une bombe qui détruit un groupe ou un pouvoir de recul qui fait reculer la chaîne.
+4.  **Priorise le danger :** Si la chaîne approche dangereusement de la fin, concentre tous tes tirs sur l'avant pour la repousser.
 
-- **Swap:** You can often click on the shooter itself or press a key (like the spacebar) to swap the current pearl with the next one.
+### Commandes
 
-- **Shoot:** Click the left mouse button to fire the pearl.
+*   **Viser :** Déplace la souris pour orienter le lanceur.
+*   **Tirer :** Clique sur le bouton gauche de la souris pour lancer la perle.
+*   **Échanger :** Clique sur le lanceur ou appuie sur la barre d'espace pour intervertir la perle actuelle avec la suivante.
 
-- **Aim:** Move your mouse to aim the pearl shooter.
-Zumba Ocean is a vibrant and addictive marble shooter puzzle game, in the style of classics like Zuma. Set in a beautiful ocean world, a chain of colorful pearls slowly moves along a path. You control a shooter that fires pearls. Your mission is to eliminate the entire chain by shooting pearls to create matches of three or more of the same color before the chain reaches the final shell.
+### Foire aux questions (FAQ)
 
-### Présentation du jeu
+*   **Q : Quel est l'objectif du jeu ?**
+    *   **R :** Détruire entièrement la chaîne de perles avant qu'aucune n'atteigne le coquillage au bout du chemin.
 
+*   **Q : Que se passe-t-il si une perle atteint la fin ?**
+    *   **R :** Tu perds le niveau et dois recommencer.
 
-- **A:** By creating long combos and clearing the level quickly. The faster you finish, and the more chain reactions you cause, the higher your score will be.
-
-    - **Q: How do I get a high score?**
-
-- **A:** You lose the level and must start over.
-
-    - **Q: What happens if a pearl reaches the end?**
-
-- **A:** To completely destroy the chain of pearls before any of them reach the shell at the end of the path.
-
-    - **Q: What is the goal of the game?**
+*   **Q : Comment obtenir un meilleur score ?**
+    *   **R :** En enchaînant les combos et en terminant le niveau rapidement. Plus tu crées de réactions en chaîne et plus tu finis vite, plus ton score grimpe.

@@ -3,76 +3,44 @@ locale: fr
 urlstr: yohoho-io
 title: YoHoHo.io
 description: >-
-  YoHoHo.io est un battle royale de pirates : collecte de l’or, grossis et
-  élimine les autres joueurs pour dominer l’île.
-iframeSrc: 'https://yohoho.io/'
+  YoHoHo.io est un battle royale de pirates : collecte de l'or, grossis et
+  élimine les autres joueurs pour dominer l'île.
+iframeSrc: 'https://bitlifeonline.github.io/class16523/yohoho-io/'
 thumbnail: /new-images/yohoho-io.jpg
 tags:
-  - action
-  - multiplayer
-score: 4.4/5  (4000 votes)
+  - io-game
+  - battle-royale
+  - pirate
+score: 5.0/5  (316 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
-Yes, you can unlock different pirate characters, each with unique appearances and sometimes different starting stats or abilities, as you progress and earn more gold.
+YoHoHo.io est un jeu .io de type battle royale sur le thème des pirates, rapide et intense. Les joueurs s'affrontent pour être le dernier pirate debout sur une île dont la zone sûre rétrécit. Tu commences petit et dois collecter de l'or, grossir en taille et en force, et éliminer les autres joueurs pour dominer le classement. Le jeu combine des contrôles simples avec un gameplay compétitif et addictif.
 
-**Are there different pirate characters?**
+### Guide de jeu
 
-If you go outside the safe zone (indicated by the red area), your pirate will start taking continuous damage, eventually leading to defeat.
-
-**What happens if I go outside the safe zone?**
-
-By collecting gold. The more gold you collect, the larger your pirate becomes, which increases your attack range and damage output.
-
-**How do I get bigger and stronger?**
-
-### Foire aux questions (FAQ)
-
-
-YoHoHo.io is a fast-paced, pirate-themed battle royale .io game where players compete to be the last pirate standing on a shrinking island. Starting as a small pirate, you must collect gold, grow in size and strength, and eliminate other players to dominate the leaderboard. The game combines simple controls with addictive, competitive gameplay.
-- **Dash:** `Right Click` (Mouse) / Dedicated dash button (Mobile)
-
-- **Charge Attack:** Hold `Left Click` or `Spacebar` to charge a more powerful attack.
-
-- **Attack:** `Left Click` or `Spacebar` (Keyboard) / Tap (Touch)
-
-- **Movement:** `WASD` or `Arrow Keys` (Keyboard) / Drag mouse or finger (Mouse/Touch)
+-   **Collecte de l'or :** Ton objectif principal est de ramasser l'or dispersé sur l'île. L'or augmente la taille de ton pirate, sa portée d'attaque et ses dégâts.
+-   **Élimine tes adversaires :** Attaque les pirates plus petits pour les vaincre et récupérer leur or. Évite les plus gros jusqu'à ce que tu sois assez fort.
+-   **Carte qui rétrécit :** La zone sûre de l'île se réduit continuellement, forçant les joueurs à se rapprocher et intensifiant les combats. Reste dans la zone sûre pour éviter de subir des dégâts.
+-   **Capacité de dash :** Utilise ton dash stratégiquement pour te rapprocher rapidement, fuir le danger ou esquiver les attaques.
 
 ### Commandes
 
-- **Dash Ability:** Use your dash ability strategically to quickly close distances, escape danger, or dodge attacks.
+-   **Déplacement :** `WASD` ou `Flèches directionnelles` (Clavier) / Glisser la souris ou le doigt (Souris/Tactile)
+-   **Attaque :** `Clic gauche` ou `Barre d'espace` (Clavier) / Tap (Tactile)
+-   **Attaque chargée :** Maintiens `Clic gauche` ou `Barre d'espace` pour charger une attaque plus puissante.
+-   **Dash :** `Clic droit` (Souris) / Bouton de dash dédié (Mobile)
 
-- **Shrinking Map:** The safe zone on the island continuously shrinks, forcing players closer together and increasing the intensity of battles. Stay within the safe zone to avoid taking damage.
+### Foire aux questions (FAQ)
 
-- **Eliminate Opponents:** Attack smaller pirates to defeat them and collect their dropped gold. Avoid larger pirates until you're strong enough.
+**Comment devenir plus gros et plus fort ?**
+En collectant de l'or. Plus tu en ramasses, plus ton pirate grandit, ce qui augmente ta portée d'attaque et tes dégâts.
 
-- **Collect Gold:** Your primary objective is to collect gold scattered around the island. Gold increases your pirate's size, attack range, and damage.
+**Que se passe-t-il si je sors de la zone sûre ?**
+Si tu sors de la zone sûre (indiquée en rouge), ton pirate commence à subir des dégâts continus, menant éventuellement à la défaite.
 
-### Gameplay Guide
-
-
-- **Dash:** `Right Click` (Mouse) / Dedicated dash button (Mobile)
-
-- **Charge Attack:** Hold `Left Click` or `Spacebar` to charge a more powerful attack.
-
-- **Attack:** `Left Click` or `Spacebar` (Keyboard) / Tap (Touch)
-
-- **Movement:** `WASD` or `Arrow Keys` (Keyboard) / Drag mouse or finger (Mouse/Touch)
-YoHoHo.io is a fast-paced, pirate-themed battle royale .io game where players compete to be the last pirate standing on a shrinking island. Starting as a small pirate, you must collect gold, grow in size and strength, and eliminate other players to dominate the leaderboard. The game combines simple controls with addictive, competitive gameplay.
-
-### Présentation du jeu
-
-
-Yes, you can unlock different pirate characters, each with unique appearances and sometimes different starting stats or abilities, as you progress and earn more gold.
-
-**Are there different pirate characters?**
-
-If you go outside the safe zone (indicated by the red area), your pirate will start taking continuous damage, eventually leading to defeat.
-
-**What happens if I go outside the safe zone?**
-
-By collecting gold. The more gold you collect, the larger your pirate becomes, which increases your attack range and damage output.
-
-**How do I get bigger and stronger?**
+**Y a-t-il différents personnages pirates ?**
+Oui, tu peux débloquer différents personnages pirates, chacun avec une apparence unique et parfois des stats ou capacités de départ différentes, en progressant et en gagnant plus d'or.

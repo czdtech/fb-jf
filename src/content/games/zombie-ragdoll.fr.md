@@ -3,61 +3,39 @@ locale: fr
 urlstr: zombie-ragdoll
 title: Zombie Ragdoll
 description: >-
-  Zombie Ragdoll mélange physique et zombies : projette des morts‑vivants sur
+  Zombie Ragdoll mélange physique et zombies : projette des morts-vivants sur
   des pièges pour les éliminer avec style.
-iframeSrc: 'https://zombieragdoll.h5games.usercontent.goog/v/xyz/'
-thumbnail: /new-images/zombie-ragdoll.png
+iframeSrc: 'https://04qb5fhi49qmg.h5games.usercontent.goog/v/64br0v92f7928/'
+thumbnail: /new-images/zombie-ragdoll.jpg
 tags:
-  - physics
+  - shooting
   - puzzle
-score: 3.9/5  (1500 votes)
+  - casual
+score: 3.9/5  (1753 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
-A: Make a scouting shot, then iterate with small angle/power tweaks.
-
-- Q: Shots feel random.
-
-A: Target supports or use explosives for leverage.
-
-- Q: I barely move structures.
-
-### Foire aux questions (FAQ)
-
-
-Zombie Ragdoll is a puzzle shooter where you fling ragdolls to trigger levers, hit explosives, and topple structures. Mastering launch angles and sequencing traps yields satisfying chain clears.
-- Drag to set angle/power and release to launch; restart via UI.
-
-### Commandes
-
-- Minimal shots win bonuses — plan before firing.
-
-- Save straight power shots for anchors.
-
-- Use bouncers/walls to redirect ragdolls.
-
-- Hit triggers first to open kill paths.
-
-- First shot scouts physics; adjust angle/power after observing.
+Zombie Ragdoll est un puzzle shooter où tu lances des ragdolls pour déclencher des leviers, toucher des explosifs et faire s'effondrer des structures. Maîtriser les angles de tir et l'enchaînement des pièges offre des éliminations en chaîne très satisfaisantes.
 
 ### Guide de jeu
 
+1.  Le premier tir sert à repérer la physique ; ajuste l'angle et la puissance après observation.
+2.  Touche d'abord les déclencheurs pour ouvrir des chemins d'élimination.
+3.  Utilise les rebondisseurs et les murs pour rediriger les ragdolls.
+4.  Garde les tirs directs et puissants pour les points d'ancrage.
+5.  Moins de tirs = plus de bonus — planifie avant de tirer.
 
-- Drag to set angle/power and release to launch; restart via UI.
-Zombie Ragdoll is a puzzle shooter where you fling ragdolls to trigger levers, hit explosives, and topple structures. Mastering launch angles and sequencing traps yields satisfying chain clears.
+### Commandes
 
-### Présentation du jeu
+-   Glisse pour définir l'angle et la puissance, puis relâche pour lancer ; redémarre via l'interface.
 
+### Foire aux questions (FAQ)
 
-A: Make a scouting shot, then iterate with small angle/power tweaks.
+-   **Q : Je n'arrive pas à bouger les structures.**
+    **R :** Vise les supports ou utilise les explosifs pour créer un effet de levier.
 
-- Q: Shots feel random.
-
-A: Target supports or use explosives for leverage.
-
-- Q: I barely move structures.
-
-
-A: Make a scouting shot, then iterate with small angle/power tweaks.
+-   **Q : Mes tirs semblent aléatoires.**
+    **R :** Fais un tir de repérage, puis affine avec de petits ajustements d'angle et de puissance.
