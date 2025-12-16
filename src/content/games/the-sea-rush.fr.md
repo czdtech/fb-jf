@@ -2,7 +2,9 @@
 locale: fr
 urlstr: the-sea-rush
 title: The Sea Rush
-description: "Plonge dans The Sea Rush, un match‑3 sous‑marin\_: aligne des animaux marins, déclenche des combos et collecte des trésors."
+description: >-
+  The Sea Rush est un puzzle match-3 sous-marin : aligne trois animaux marins
+  ou plus pour marquer des points et progresser dans l aventure.
 iframeSrc: 'https://thesearush.h5games.usercontent.goog/v/5ie3e5aghbr18/'
 thumbnail: /new-images/the-sea-rush.png
 tags:
@@ -12,36 +14,23 @@ score: 4.1/5 (1234 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
-### Présentation
 
-Échange deux créatures adjacentes pour aligner au moins trois animaux
+### Presentation du jeu
+
+The Sea Rush est un jeu de puzzle match-3 ou les joueurs embarquent pour une aventure sous-marine. L objectif est d aligner trois animaux marins similaires ou plus en ligne ou en colonne en echangeant les animaux adjacents.
 
 ### Guide de jeu
-identiques. Plus tu fais de grosses combinaisons, plus ton score monte.
 
-
-
-    - **A:** Clearing more than three animals at once or creating combos will award you with more points.
-
-- **Q: How do I get more points?**
-
-    - **A:** The main goal is to align three or more similar sea animals to score points and advance to the next level.
-
-- **Q: What is the goal of the game?**
-
-### Foire aux questions (FAQ)
-
-- **Touchscreen:** Swipe to swap adjacent sea animals.
-
-- **Mouse:** Click to swap adjacent sea animals.
+Utilise un clic de souris ou un balayage tactile pour echanger les animaux marins adjacents. Aligner trois animaux similaires ou plus les efface. Effacer plusieurs blocs simultanement rapporte plus de points. En accumulant des points, tu passes au niveau de difficulte suivant, le jeu devenant de plus en plus difficile. Une reflexion strategique est necessaire. Planifie tes coups a l avance et vise des alignements de plus de trois blocs pour des points bonus. Garde un oeil sur les limites de temps et fais des mouvements rapides pour maximiser ton score.
 
 ### Commandes
 
+*   **Souris :** Clique pour echanger les animaux marins adjacents.
+*   **Ecran tactile :** Balaie pour echanger les animaux marins adjacents.
 
-- **A:** Clearing more than three animals at once or creating combos will award you with more points.
+### Foire aux questions (FAQ)
 
-    - **Q: How do I get more points?**
-
-- **A:** The main goal is to align three or more similar sea animals to score points and advance to the next level.
-
-    - **Q: What is the goal of the game?**
+*   **Q : Quel est l objectif du jeu ?**
+    *   **R :** L objectif principal est d aligner trois animaux marins similaires ou plus pour marquer des points et avancer au niveau suivant.
+*   **Q : Comment obtenir plus de points ?**
+    *   **R :** Effacer plus de trois animaux a la fois ou creer des combos t accordera plus de points.

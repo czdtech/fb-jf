@@ -2,7 +2,9 @@
 locale: fr
 urlstr: tennis
 title: Tennis
-description: "Monte sur le court dans ce jeu d’arcade Tennis\_: sers, renvoie et marque des points pour remporter le match."
+description: >-
+  Tennis est un jeu arcade classique : attrape ta raquette et affronte un
+  adversaire. Sers, echange et marque des points pour gagner le match.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/tennis.html'
 thumbnail: /new-images/tennis.jpg
 tags:
@@ -13,53 +15,31 @@ score: 4.7/5  (793 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
-### Présentation
 
-Ce jeu de tennis arcade simple te met face à un adversaire contrôlé par l’IA.
-But : marquer plus de points que lui en l’obligeant à rater ses retours.
+### Presentation du jeu
 
-### Guide rapide
+C'est un jeu de tennis arcade classique qui capture le fun simple et addictif de ce sport. Tu controles un joueur de tennis sur le court, affrontant un adversaire controle par l'ordinateur dans un match rapide. L'objectif est de renvoyer la balle et de marquer des points quand ton adversaire ne reussit pas a la retourner.
 
-- **Service :** envoie la balle dans le carré de service adverse pour lancer
-  l’échange.
-- **Échanges :** renvoie la balle avant qu’elle ne rebondisse deux fois.
-- **Points :** tu marques si l’adversaire tape dans le filet, dehors ou laisse
+### Guide de jeu
 
-- **Scoring:** You score a point if your opponent hits the ball out of bounds, into the net, or fails to return it before it bounces twice.
-  rebondir deux fois.
+-   **Objectif :** Sois le premier joueur a gagner le nombre de points ou sets requis pour remporter le match.
+-   **Service :** Commence chaque point en servant la balle par-dessus le filet dans le carre de service adverse.
+-   **Echange :** Apres le service, renvoie la balle avec ton adversaire. Tu dois retourner la balle avant qu'elle ne rebondisse deux fois de ton cote.
+-   **Score :** Tu marques un point si ton adversaire envoie la balle hors limites, dans le filet ou ne reussit pas a la retourner avant deux rebonds.
 
 ### Commandes
 
-
-Controls are designed to be simple and intuitive:
-- déplacement : flèches ou WASD  
-- frappe : barre d’espace ou `X` (timing = direction/puissance)
-
-
-
-Many classic tennis games feature a 2-player mode where you can compete against a friend on the same keyboard.
-
-**Can I play against another person?**
-
-In most classic tennis games, your shot direction is determined by when you hit the ball relative to your player's body. Hitting it early sends it cross-court, while hitting it late sends it down the line.
-
-**How can I aim my shots?**
-
-In a standard game, points are scored as 15, 30, 40, and then game point. You need to win by at least two points. Many arcade versions simplify this to just winning a set number of points (e.g., first to 7).
-
-**How do I score points in tennis?**
+Les controles sont concus pour etre simples et intuitifs :
+-   **Deplacement :** `Fleches` ou `WASD` pour deplacer ton joueur sur ton cote du court.
+-   **Frapper :** `Espace` ou touche `X` pour frapper la balle. Le timing de ta frappe peut affecter la puissance et la direction du tir.
 
 ### Foire aux questions (FAQ)
 
+**Comment marque-t-on des points au tennis ?**
+Dans un jeu standard, les points sont comptes 15, 30, 40, puis balle de jeu. Tu dois gagner par au moins deux points. Beaucoup de versions arcade simplifient cela a simplement gagner un nombre fixe de points (ex. premier a 7).
 
-Many classic tennis games feature a 2-player mode where you can compete against a friend on the same keyboard.
+**Comment viser mes tirs ?**
+Dans la plupart des jeux de tennis classiques, la direction de ton tir est determinee par le moment ou tu frappes la balle par rapport au corps de ton joueur. Frapper tot l'envoie en diagonale, tandis que frapper tard l'envoie le long de la ligne.
 
-**Can I play against another person?**
-
-In most classic tennis games, your shot direction is determined by when you hit the ball relative to your player's body. Hitting it early sends it cross-court, while hitting it late sends it down the line.
-
-**How can I aim my shots?**
-
-In a standard game, points are scored as 15, 30, 40, and then game point. You need to win by at least two points. Many arcade versions simplify this to just winning a set number of points (e.g., first to 7).
-
-**How do I score points in tennis?**
+**Puis-je jouer contre une autre personne ?**
+Beaucoup de jeux de tennis classiques proposent un mode 2 joueurs ou tu peux affronter un ami sur le meme clavier.

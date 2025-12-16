@@ -3,91 +3,49 @@ locale: fr
 urlstr: text-twist-2
 title: Text Twist 2
 description: >-
-  Text Twist 2 est un jeu de lettres où tu dois former un maximum de mots à
-  partir d’un ensemble de lettres mélangées, avant la fin du temps imparti.
-iframeSrc: 'https://ubg77.github.io/game131022/text-twist-2/'
+  Text Twist 2 est la suite du puzzle de mots populaire : nouveaux modes,
+  dictionnaire elargi et graphismes ameliores pour tester ton vocabulaire.
+iframeSrc: 'https://games.cdn.famobi.com/html5games/t/text-twist-2/v110/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=40935b5f-cfef-4ac2-9179-549869282f4b&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=693&original_ref='
 thumbnail: /new-images/text-twist-2.jpg
 tags:
+  - word-game
   - puzzle
-  - words
-  - thinky
-score: 4.6/5  (2100 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
+  - brain-teaser
+score: 4.5/5  (761 votes)
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
-### Principe
 
-On te donne plusieurs lettres et un temps limité. Ton objectif : trouver
+### Presentation du jeu
 
-### Gameplay Guide
-le mot le plus long possible et un maximum de mots valides.
+Text Twist 2 est la suite tres attendue du populaire jeu de puzzle de mots, offrant une experience amelioree avec de nouvelles fonctionnalites et modes de jeu. Les joueurs sont toujours defies de demeler un ensemble de lettres pour former autant de mots que possible, mais avec plus de flexibilite et de variete. C'est un jeu parfait pour les passionnes de vocabulaire et ceux cherchant un exercice mental.
 
+### Guide de jeu
 
-
-
-- **"Twist" Feature:** The classic "Twist" button is still available to shuffle letters and spark new ideas.
-
-- **Broader Dictionary:** The game features an expanded dictionary, allowing for more word discoveries.
-
-    - **Daily Word:** A new challenge each day.
-
-    - **Crossword Mode:** Fill in a crossword puzzle using the given letters.
-
-    - **Lightning Mode:** Find the Bingo word as fast as possible.
-
-    - **Untimed Mode:** Play at your own pace without a clock.
-
-- **New Modes:** Text Twist 2 introduces several new modes, including:
-
-- **Objective:** Find words of three letters or more, and crucially, find the "Bingo word" (a word using all letters) to advance.
-Many versions of Text Twist 2 are downloadable and can be played offline, offering entertainment without an internet connection.
-
-**Can I play this game offline?**
-
-Yes, in most standard modes, finding the "Bingo word" (a word using all the letters) is still required to advance to the next round.
-
-**Do I still need to find the "Bingo word"?**
-
-Text Twist 2 offers an untimed mode, a larger dictionary, improved graphics, new game modes like Crossword and Lightning, and enhanced statistics tracking.
-
-**What are the main improvements in Text Twist 2?**
-
-### Foire aux questions (FAQ)
-
-- **Clear Word:** Click the "Clear" button or press `Backspace`.
-
-- **Shuffle Letters:** Click the "Twist" button or press `Spacebar`.
-
-- **Submit Word:** Press `Enter`.
-
-- **Typing:** Use your keyboard to type out words.
+Le gameplay de base reste le meme : forme des mots a partir d'un ensemble de lettres.
+-   **Objectif :** Trouve des mots de trois lettres ou plus, et surtout, trouve le « mot Bingo » (utilisant toutes les lettres) pour avancer.
+-   **Nouveaux modes :** Text Twist 2 introduit plusieurs nouveaux modes, dont :
+    -   **Mode Illimite :** Joue a ton rythme sans chronometre.
+    -   **Mode Eclair :** Trouve le mot Bingo le plus vite possible.
+    -   **Mode Mots Croises :** Remplis un puzzle de mots croises avec les lettres donnees.
+    -   **Mot du jour :** Un nouveau defi chaque jour.
+-   **Dictionnaire elargi :** Le jeu propose un dictionnaire etendu permettant plus de decouvertes de mots.
+-   **Fonction « Twist » :** Le bouton classique « Twist » est toujours disponible pour melanger les lettres et inspirer de nouvelles idees.
 
 ### Commandes
 
+-   **Taper :** Utilise ton clavier pour taper les mots.
+-   **Soumettre le mot :** Appuie sur `Entree`.
+-   **Melanger les lettres :** Clique sur le bouton « Twist » ou appuie sur `Espace`.
+-   **Effacer le mot :** Clique sur le bouton « Clear » ou appuie sur `Retour arriere`.
 
-Many versions of Text Twist 2 are downloadable and can be played offline, offering entertainment without an internet connection.
+### Foire aux questions (FAQ)
 
-**Can I play this game offline?**
+**Quelles sont les principales ameliorations de Text Twist 2 ?**
+Text Twist 2 offre un mode sans chronometre, un dictionnaire plus large, des graphismes ameliores, de nouveaux modes de jeu comme Mots Croises et Eclair, et un suivi de statistiques ameliore.
 
-Yes, in most standard modes, finding the "Bingo word" (a word using all the letters) is still required to advance to the next round.
+**Dois-je toujours trouver le « mot Bingo » ?**
+Oui, dans la plupart des modes standard, trouver le « mot Bingo » (un mot utilisant toutes les lettres) est toujours requis pour passer au tour suivant.
 
-**Do I still need to find the "Bingo word"?**
-
-Text Twist 2 offers an untimed mode, a larger dictionary, improved graphics, new game modes like Crossword and Lightning, and enhanced statistics tracking.
-
-**What are the main improvements in Text Twist 2?**
-- **"Twist" Feature:** The classic "Twist" button is still available to shuffle letters and spark new ideas.
-
-- **Broader Dictionary:** The game features an expanded dictionary, allowing for more word discoveries.
-
-    - **Daily Word:** A new challenge each day.
-
-    - **Crossword Mode:** Fill in a crossword puzzle using the given letters.
-
-    - **Lightning Mode:** Find the Bingo word as fast as possible.
-
-    - **Untimed Mode:** Play at your own pace without a clock.
-
-- **New Modes:** Text Twist 2 introduces several new modes, including:
-
-- **Objective:** Find words of three letters or more, and crucially, find the "Bingo word" (a word using all letters) to advance.
+**Puis-je jouer hors ligne ?**
+Beaucoup de versions de Text Twist 2 sont telechargeables et peuvent etre jouees hors ligne, offrant du divertissement sans connexion internet.

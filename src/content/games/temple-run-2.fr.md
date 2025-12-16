@@ -3,11 +3,10 @@ locale: fr
 urlstr: temple-run-2
 title: Temple Run 2
 description: >-
-  Temple Run 2 est un endless runner d’aventure où tu fuis des singes
-  démoniaques sur des chemins de temple piégés, tout en récoltant des pièces et
-  des bonus.
-iframeSrc: >-
-  https://sxiao.4399.com/4399swf//upload_swf/ftp35/gamehwq/20210119/11/index.html
+  Temple Run 2 est un runner infini d'aventure : navigue sur des chemins de
+  temple perilleux, collecte des pieces et bonus en evitant les obstacles et
+  les singes demons.
+iframeSrc: 'https://sxiao.4399.com/4399swf//upload_swf/ftp35/gamehwq/20210119/11/index.html'
 thumbnail: /new-images/temple-run-2.jpg
 tags:
   - endless runner
@@ -17,67 +16,33 @@ score: 4.0/5  (277 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
-### Présentation
 
-Temple Run 2 reprend le principe du premier épisode : tu cours sans fin dans
-un temple en ruine, poursuivi par des singes monstrueux. À toi d’esquiver
-les pièges, de tourner au bon moment et de ramasser un maximum de pièces.
+### Presentation du jeu
 
-### Stratégie
+Temple Run 2 est un jeu d'aventure de course infinie ou tu navigues sur des chemins de temple perilleux, collectant des pieces et bonus tout en evitant les obstacles et les singes demons qui te poursuivent. Le jeu se deroule dans des environnements magnifiques, offrant une experience de jeu et des effets visuels plus riches que son predecesseur.
 
-1. **Collecte de pièces :** elles servent à améliorer pouvoirs et personnages.
-2. **Gestion des power‑ups :** boucliers, aimants et boosts doivent être
-   utilisés aux endroits les plus dangereux.
-3. **Anticipation des obstacles :** garde les yeux loin devant pour préparer
-   tes sauts, glissades et virages.
-4. **Gemmes :** elles permettent souvent de ressusciter ou de débloquer des
-   héros et capacités.
-5. **Missions quotidiennes :** complètes‑les pour obtenir des bonus
-   supplémentaires.
+### Guide de jeu
 
-### Commandes (version mobile typique)
+1.  **Collecte les pieces :** Priorise la collecte des pieces sur le chemin pour ameliorer les personnages et acheter des bonus.
+2.  **Utilisation des bonus :** Utilise judicieusement les boucliers, aimants, boosts de vitesse et autres bonus pour ameliorer ta survie.
+3.  **Prediction des obstacles :** Observe les obstacles devant et reagis a temps avec des sauts, glissades ou virages.
+4.  **Collecte de gemmes :** Collecte les gemmes speciales pour debloquer de nouveaux personnages et ameliorer les capacites.
+5.  **Completion de missions :** Complete les missions quotidiennes pour gagner des recompenses et de l'experience supplementaires.
 
-- glisser à gauche/droite pour tourner ;  
-- glisser vers le haut pour sauter ;  
-- glisser vers le bas pour glisser ;  
-- incliner l’appareil pour ajuster la trajectoire et collecter plus de pièces.
+### Commandes
 
-
-
-**A**: This is an endless runner game that can theoretically continue indefinitely; the challenge is to run as far as possible.
-
-- **Q: Does the game have an ending?**
-
-**A**: By collecting them in-game, purchasing with coins, or completing specific missions.
-
-- **Q: How do I get power-ups?**
-
-**A**: Each character typically has unique appearance and starting abilities, unlockable through game progression.
-
-- **Q: What are the differences between characters?**
-
-**A**: By completing missions, using magnet power-ups, unlocking achievements, and watching ads (if available).
-
-- **Q: How can I get more coins?**
+*   **Balayer Gauche/Droite :** Balaie a gauche ou droite sur l'ecran pour tourner.
+*   **Balayer Haut pour sauter :** Balaie vers le haut pour sauter par-dessus les obstacles.
+*   **Balayer Bas pour glisser :** Balaie vers le bas pour glisser sous les obstacles bas.
+*   **Controle d'inclinaison :** Incline l'appareil pour collecter plus de pieces (dans certaines versions).
 
 ### Foire aux questions
 
-
-**A**: This is an endless runner game that can theoretically continue indefinitely; the challenge is to run as far as possible.
-
-- **Q: Does the game have an ending?**
-
-**A**: By collecting them in-game, purchasing with coins, or completing specific missions.
-
-- **Q: How do I get power-ups?**
-
-**A**: Each character typically has unique appearance and starting abilities, unlockable through game progression.
-
-- **Q: What are the differences between characters?**
-
-**A**: By completing missions, using magnet power-ups, unlocking achievements, and watching ads (if available).
-
-- **Q: How can I get more coins?**
-
-
-**A**: This is an endless runner game that can theoretically continue indefinitely; the challenge is to run as far as possible.
+1.  **Q : Comment obtenir plus de pieces ?**
+    **R :** En completant des missions, utilisant des bonus aimant, debloquant des succes et regardant des pubs (si disponible).
+2.  **Q : Quelles sont les differences entre les personnages ?**
+    **R :** Chaque personnage a generalement une apparence unique et des capacites de depart, deblocables via la progression du jeu.
+3.  **Q : Comment obtenir des bonus ?**
+    **R :** En les collectant en jeu, les achetant avec des pieces ou completant des missions specifiques.
+4.  **Q : Le jeu a-t-il une fin ?**
+    **R :** C'est un jeu de course infinie qui peut theoriquement continuer indefiniment ; le defi est de courir le plus loin possible.

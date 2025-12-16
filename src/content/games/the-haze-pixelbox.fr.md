@@ -1,39 +1,35 @@
 ---
 locale: fr
 urlstr: the-haze-pixelbox
-title: The Haze Pixelbox - Jouer à The Haze Pixelbox en ligne
-description: "The Haze Pixelbox est un Mod musical aux influences tribales\_: dirige une troupe de beatboxers et crée des rythmes inspirés de musiques aborigènes."
+title: The Haze Pixelbox
+description: >-
+  The Haze Pixelbox est un jeu de creation musicale unique : dirige ta tribu de
+  beatboxers et explore des sons primitifs inspires de la culture aborigene.
 iframeSrc: 'https://turbowarp.org/1020955547/embed'
 thumbnail: /the-haze-pixelbox.png
 tags:
   - the haze pixelbox
 score: 3.9/5  (132 votes)
+releaseDate: 2025-01-01T00:00:00.000Z
 ---
 
-### Particularités de The Haze Pixelbox
 
-The Haze Pixelbox mise sur les sonorités tribales : didgeridoos, percussions
+### Presentation du jeu
 
-- You can share your works with friends and family to jointly feel the charm of music.
+Que tu sois un musicien experimente ou un debutant curieux, The Haze Pixelbox offre un plaisir infini, stimulant la creativite avec sa touche ethnique unique.
 
-- You will have endless combinations to create your own musical masterpiece.
+### Le gameplay de The Haze Pixelbox
 
-- The design and sound of each character is deeply influenced by the essence of Australian Aboriginal culture, making you feel like you are in an ancient tribe.
+-   **Deviens un chef de tribu :** Dirige ta tribu de beatboxers et utilise ton talent musical pour leur faire jouer des melodies impressionnantes.
+-   **Explore des sons primitifs :** Le jeu est rempli de rythmes tribaux, didgeridoos et chants spirituels, te permettant de vivre pleinement le charme de la musique aborigene australienne.
+-   **Montre ta creativite :** Libere ta creativite avec une variete d effets sonores uniques et d elements percussifs, creant des oeuvres musicales uniques.
 
-### In the world of The Haze Pixelbox:
+### Dans le monde de The Haze Pixelbox
 
-- **Showcase Your Creativity:** Unleash your creativity with a variety of unique sound effects and percussive elements, creating unique musical works.
+-   Le design et le son de chaque personnage sont profondement influences par l essence de la culture aborigene australienne, te donnant l impression d etre dans une tribu ancienne.
+-   Tu auras des combinaisons infinies pour creer ton propre chef-d oeuvre musical.
+-   Tu peux partager tes oeuvres avec amis et famille pour ressentir ensemble le charme de la musique.
 
-- **Explore Primal Sounds:** The game is full of tribal rhythms, didgeridoos, and soulful chants, allowing you to fully experience the charm of Australian Aboriginal music.
+### Conclusion
 
-- **Become a Tribal Leader:** Lead your tribe of beatboxers and use your musical talent to make them play awe-inspiring melodies.
-
-### The Core Gameplay of The Haze Pixelbox:
-
-- You can share your works with friends and family to jointly feel the charm of music.
-
-- You will have endless combinations to create your own musical masterpiece.
-
-- The design and sound of each character is deeply influenced by the essence of Australian Aboriginal culture, making you feel like you are in an ancient tribe.
-profondes, chants et motifs rythmiques inspirés des cultures aborigènes.
-
+Que tu sois un musicien experimente ou un debutant curieux, The Haze Pixelbox offre un plaisir infini, stimulant la creativite avec sa touche ethnique unique. Viens rejoindre The Haze Pixelbox et reveille l ame musicale primitive avec des rythmes anciens !

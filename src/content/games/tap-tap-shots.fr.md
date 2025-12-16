@@ -2,7 +2,9 @@
 locale: fr
 urlstr: tap-tap-shots
 title: Tap Tap Shots
-description: "Tap Tap Shots est un jeu de basket à un seul bouton\_: trouve le bon rythme pour faire rebondir la balle dans le panier et enchaîner les tirs."
+description: >-
+  Tap Tap Shots est un jeu de basket arcade addictif : tape pour faire rebondir
+  le ballon et marque autant de paniers consecutifs que possible.
 iframeSrc: 'https://ubg77.github.io/game131022/tap-tap-shots/'
 thumbnail: /new-images/tap-tap-shots.jpg
 tags:
@@ -13,61 +15,32 @@ score: 4.9/5  (415 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
-### Présentation
 
-Tap Tap Shots est un jeu d’arcade minimaliste : chaque pression fait rebondir
-la balle, à toi de caler le timing pour qu’elle tombe dans le panier.
+### Presentation du jeu
 
-### Conseils
+Tap-Tap Shots est un jeu de basket arcade simple, minimaliste et hautement addictif. L'objectif est de marquer autant de points que possible en tapant sur l'ecran pour faire rebondir le ballon dans le panier. Le defi vient du panier en mouvement et de la pression du chronometre, necessitant un timing parfait et un rythme regulier pour reussir.
 
-- enchaîne les paniers pour activer la balle « en feu » et augmenter le score ;
-- vise les tirs propres (sans toucher l’arceau) pour des points bonus ;
-- garde un rythme régulier plutôt que de spammer.
+### Guide de jeu
 
+-   **Objectif :** Marque autant de paniers consecutifs que possible.
+-   **Taper :** Chaque tap fait sauter le ballon. Tu peux taper plusieurs fois en l'air pour gagner plus de hauteur.
+-   **Timing :** La cle pour marquer est de taper au bon moment pour guider le ballon dans le panier.
+-   **Combos :** Marquer des paniers consecutifs enflammera le ballon, ce qui active un multiplicateur de score pour des points bonus. Les tirs propres qui ne touchent pas l'anneau rapportent aussi des points supplementaires.
+-   **Chronometre :** Apres chaque tir reussi, le chronometre se reinitialise, mais si tu rates, la partie est terminee.
 
+### Commandes
 
-
-- **Timer:** After each successful shot, the timer resets, but if you miss, the game is over.
-
-- **Combos:** Scoring consecutive baskets will set the ball on fire, which activates a score multiplier for bonus points. Clean shots that don't touch the rim also award extra points.
-It's all about timing. Try to tap just as the ball reaches the peak of its bounce or starts to descend. This often gives you the most control for aiming at the hoop.
-
-**Is there a trick to aiming?**
-
-When the ball is on fire, you are in a combo streak. Every basket you score while the ball is on fire will be worth more points.
-
-**What happens when the ball is on fire?**
-
-Focus on finding a consistent rhythm. Don't rush your shots. Aim for "clean" shots (not touching the rim) to get bonus points and try to build up a combo to set the ball on fire for a score multiplier.
-
-**How do I get a high score?**
+Les controles sont extremement simples :
+-   **PC :** `Bouton gauche de la souris` ou `Espace` pour taper.
+-   **Mobile :** Tape sur l'ecran.
 
 ### Foire aux questions (FAQ)
 
-- **Mobile:** Tap the screen.
+**Comment obtenir un bon score ?**
+Concentre-toi sur trouver un rythme regulier. Ne precipite pas tes tirs. Vise des tirs « propres » (sans toucher l'anneau) pour des points bonus et essaie de construire un combo pour enflammer le ballon et obtenir un multiplicateur.
 
-- **PC:** `Left Mouse Button` or `Spacebar` to tap.
+**Que se passe-t-il quand le ballon est en feu ?**
+Quand le ballon est en feu, tu es en serie de combo. Chaque panier que tu marques pendant que le ballon est en feu vaudra plus de points.
 
-The controls are extremely simple:
-
-
-- **Mobile:** Tap the screen.
-
-- **PC:** `Left Mouse Button` or `Spacebar` to tap.
-### Commandes
-
-
-It's all about timing. Try to tap just as the ball reaches the peak of its bounce or starts to descend. This often gives you the most control for aiming at the hoop.
-
-**Is there a trick to aiming?**
-
-When the ball is on fire, you are in a combo streak. Every basket you score while the ball is on fire will be worth more points.
-
-**What happens when the ball is on fire?**
-
-Focus on finding a consistent rhythm. Don't rush your shots. Aim for "clean" shots (not touching the rim) to get bonus points and try to build up a combo to set the ball on fire for a score multiplier.
-
-**How do I get a high score?**
-- **Timer:** After each successful shot, the timer resets, but if you miss, the game is over.
-
-- **Combos:** Scoring consecutive baskets will set the ball on fire, which activates a score multiplier for bonus points. Clean shots that don't touch the rim also award extra points.
+**Y a-t-il une astuce pour viser ?**
+Tout est question de timing. Essaie de taper juste quand le ballon atteint le sommet de son rebond ou commence a descendre. Cela te donne souvent le meilleur controle pour viser le panier.

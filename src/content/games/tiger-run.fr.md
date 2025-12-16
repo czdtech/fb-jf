@@ -2,57 +2,39 @@
 locale: fr
 urlstr: tiger-run
 title: Tiger Run
-description: "Tiger Run est un runner animalier\_: esquive les obstacles, récupère des bonus et cours le plus loin possible avec ton tigre."
-iframeSrc: 'https://0d341qo0ia2d8.h5games.usercontent.goog/v/29j92o1mjna5g/'
-thumbnail: /new-images/tiger-run.png
+description: >-
+  Tiger Run est un runner de jungle : fonce, saute et glisse pour esquiver les
+  obstacles et collecter des pieces.
+iframeSrc: 'https://tigerrun.h5games.usercontent.goog/v/1cl0c4rtsjsqo/'
+thumbnail: /new-images/tiger-run.jpeg
 tags:
-  - endless runner
-  - animal
-score: 3.9/5  (1500 votes)
+  - action
+  - casual
+score: 3.8/5  (1627 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
-### Principe
 
-Change de voie, saute et glisse pour éviter les obstacles, tout en ramassant
+### Presentation du jeu
 
-- Is there a finish? Usually endless—aim for new personal bests.
-
-- Any way to slow down? Some modes offer slow‑mo or temporary speed drops via power‑ups.
-
-- I always clip hurdles—why? Time jumps slightly later and keep momentum steady.
-
-### Foire aux questions (FAQ)
-
-- Pause/Retry: On‑screen UI.
-
-- Jump/Slide: Space/Up to jump; Down to slide (or swipe on mobile).
-
-- Move: A/D or Left/Right to change lanes.
-
-
-- Power‑ups: Save shields/magnets for dense sections.
-
-- Smooth inputs: Quick, small moves reduce overcorrection at high speed.
-### Commandes
-
-- Power‑ups: Save shields/magnets for dense sections.
-
-- Smooth inputs: Quick, small moves reduce overcorrection at high speed.
-
-- Memorize sets: Common obstacle patterns repeat—use them to pre‑position.
-
-- Priority safety: Skip side coins when gaps are tight.
-
-- Eyes up: Look ahead to prepare lane swaps early.
+Tiger Run est un runner infini simple situe dans la jungle. Lis les dangers a venir, change de voie ou saute/glisse pour eviter les obstacles, et enchaine les collectes de pieces tout en maintenant un rythme stable alors que la vitesse augmente.
 
 ### Guide de jeu
 
-- Is there a finish? Usually endless—aim for new personal bests.
+1.  **Regarde devant :** Anticipe pour preparer les changements de voie tot.
+2.  **Priorite securite :** Ignore les pieces sur les cotes quand les espaces sont serres.
+3.  **Memorise les schemas :** Les patterns d obstacles communs se repetent, utilise-les pour te pre-positionner.
+4.  **Entrees douces :** Des mouvements rapides et petits reduisent la sur-correction a haute vitesse.
+5.  **Bonus :** Garde les boucliers/aimants pour les sections denses.
 
-- Any way to slow down? Some modes offer slow‑mo or temporary speed drops via power‑ups.
+### Commandes
 
-- I always clip hurdles—why? Time jumps slightly later and keep momentum steady.
-pièces et power‑ups. Certains bonus ralentissent le temps ou protègent des
-chocs temporaires.
+-   Deplacement : A/D ou Gauche/Droite pour changer de voie.
+-   Sauter/Glisser : Espace/Haut pour sauter ; Bas pour glisser (ou balaie sur mobile).
+-   Pause/Recommencer : Interface a l ecran.
 
+### Foire aux questions (FAQ)
+
+-   **Je touche toujours les obstacles, pourquoi ?** Time les sauts legerement plus tard et garde un elan stable.
+-   **Peut-on ralentir ?** Certains modes offrent des ralentis ou baisses de vitesse temporaires via des bonus.
+-   **Y a-t-il une fin ?** Generalement infini, vise de nouveaux records personnels.

@@ -2,63 +2,48 @@
 locale: fr
 urlstr: the-binding-of-isaac
 title: The Binding of Isaac
-description: "The Binding of Isaac est un roguelike action‑RPG culte\_: explore des donjons générés procéduralement, collecte des objets bizarres et affronte des boss dans une ambiance sombre."
+description: >-
+  The Binding of Isaac est un roguelike action-RPG sombre : combats des
+  creatures grotesques, collecte des bonus bizarres et explore des donjons
+  generes proceduralement.
 iframeSrc: 'https://flash-cdn.blogspot.com/2021/06/the-binding-of-isaac.html'
 thumbnail: /new-images/the-binding-of-isaac.jpg
 tags:
   - roguelike
-  - action-RPG
+  - action-rpg
   - indie
 score: 4.1/5  (186 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
-### Présentation
 
-Tu incarnes Isaac, un enfant qui s’enfuit dans son sous‑sol infesté de
+### Presentation du jeu
 
-### Gameplay Guide
-monstres. Chaque run est différent grâce aux salles générées aléatoirement
+The Binding of Isaac est un roguelike action-RPG acclame par la critique avec des elements de twin-stick shooter. Tu controles Isaac, un jeune garcon qui fuit dans son sous-sol rempli de monstres pour echapper a sa mere religieusement fanatique. Le jeu propose des donjons generes proceduralement, une vaste gamme d'objets et bonus bizarres, et une atmosphere sombre et inquietante.
 
+### Guide de jeu
 
-- **Death is Permanent:** If you die, you start over from the beginning, but with knowledge gained and new items potentially unlocked for future runs.
-
-- **Boss Fights:** Each floor culminates in a boss fight, testing your combat skills and item synergies.
-
-- **Item Synergy:** Discover and combine hundreds of passive and active items that drastically alter your abilities and appearance, leading to wildly different runs.
-
-- **Exploration:** Clear rooms of enemies to unlock doors and progress deeper into the basement.
-### Foire aux questions (FAQ)
-
-- **Use Card/Pill:** `Q`
-
-- **Place Bomb:** `Shift` or `E`
-
-- **Use Activated Item:** `Spacebar`
-
-- **Shoot Tears:** `Arrow Keys` (or mouse for aiming in some versions)
-
-- **Movement:** `WASD` keys
+Chaque course dans le sous-sol est unique. Tu navigues de salle en salle, combattant les ennemis en tirant des larmes, collectant des objets et vainquant des boss.
+-   **Exploration :** Nettoie les salles d'ennemis pour debloquer les portes et progresser plus profondement dans le sous-sol.
+-   **Synergie d'objets :** Decouvre et combine des centaines d'objets passifs et actifs qui alterent drastiquement tes capacites et apparence, menant a des courses radicalement differentes.
+-   **Combats de boss :** Chaque etage culmine avec un combat de boss, testant tes competences de combat et synergies d'objets.
+-   **Mort permanente :** Si tu meurs, tu recommences depuis le debut, mais avec les connaissances acquises et de nouveaux objets potentiellement debloques pour les futures courses.
 
 ### Commandes
 
-- **Death is Permanent:** If you die, you start over from the beginning, but with knowledge gained and new items potentially unlocked for future runs.
+-   **Deplacement :** Touches `WASD`
+-   **Tirer des larmes :** `Fleches` (ou souris pour viser dans certaines versions)
+-   **Utiliser objet actif :** `Espace`
+-   **Placer une bombe :** `Shift` ou `E`
+-   **Utiliser carte/pilule :** `Q`
 
-- **Boss Fights:** Each floor culminates in a boss fight, testing your combat skills and item synergies.
+### Foire aux questions (FAQ)
 
-- **Item Synergy:** Discover and combine hundreds of passive and active items that drastically alter your abilities and appearance, leading to wildly different runs.
+**Qu'est-ce qu'un jeu roguelike ?**
+Un roguelike est un sous-genre de RPG caracterise par des niveaux generes proceduralement, un gameplay au tour par tour (bien qu'Isaac soit en temps reel), des graphismes en tuiles (Isaac est en 2D vue de dessus), et une mort permanente, signifiant que quand ton personnage meurt, tu perds toute progression et commences une nouvelle partie.
 
-- **Exploration:** Clear rooms of enemies to unlock doors and progress deeper into the basement.
-et aux centaines d’objets qui modifient tes stats, tes tirs et ton apparence.
+**Comment debloquer de nouveaux personnages et objets ?**
+De nouveaux personnages, objets et defis sont debloques en completant des succes specifiques, vainquant des boss ou atteignant certains jalons dans le jeu.
 
-
-
-Yes, The Binding of Isaac is known for its high difficulty and steep learning curve. Success often depends on understanding item synergies and enemy patterns, as well as a bit of luck with item drops.
-
-**Is the game difficult?**
-
-New characters, items, and challenges are unlocked by completing specific achievements, defeating bosses, or reaching certain milestones within the game.
-
-**How do I unlock new characters and items?**
-
-A roguelike is a subgenre of RPGs characterized by procedurally generated levels, turn-based gameplay (though Isaac is real-time), tile-based graphics (Isaac is top-down 2D), and permanent death, meaning when your character dies, you lose all progress and start a new game.
+**Le jeu est-il difficile ?**
+Oui, The Binding of Isaac est connu pour sa haute difficulte et sa courbe d'apprentissage abrupte. Le succes depend souvent de la comprehension des synergies d'objets et des schemas ennemis, ainsi qu'un peu de chance avec les drops d'objets.
