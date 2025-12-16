@@ -3,64 +3,41 @@ locale: fr
 urlstr: words-of-magic
 title: Words of Magic
 description: >-
-  Words of Magic mélange jeu de mots et fantasy : relie des lettres pour lancer
-  des sorts et progresser dans une aventure magique.
-iframeSrc: 'https://wordsofmagic.h5games.usercontent.goog/v/xyz/'
-thumbnail: /new-images/words-of-magic.jpg
+  Words of Magic est un puzzle de mots relaxant : relie les lettres pour former
+  des mots et remplir la grille de mots croisés.
+iframeSrc: 'https://5a5rs5ng5rvro.h5games.usercontent.goog/v/4grqmc17b1kc0/'
+thumbnail: /new-images/words-of-magic.png
 tags:
-  - word-game
-  - adventure
-score: 4.1/5  (1600 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
+  - puzzle
+  - thinky
+  - casual
+score: 4.4/5  (2200 votes)
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
-    - **A:** You can typically earn more hints by completing levels, finding bonus words, or through daily login rewards.
-
-- **Q: How do I get more hints?**
-
-    - **A:** That was likely a "Bonus Word." You still get credit and points for finding it, but it's not part of the main puzzle for that level.
-
-- **Q: I found a real word, but it didn't appear on the board. Why?**
-
-    - **A:** To find all the hidden words using the given letters and use them to completely fill the crossword puzzle grid.
-
-- **Q: What is the goal of the game?**
-
-### Foire aux questions (FAQ)
-
-
-Words of Magic is a relaxing and enchanting word puzzle game designed to test your vocabulary and anagram skills. In each level, you are given a circle of letters and a crossword-style puzzle board. Your goal is to find all of the hidden words that can be formed from the given letters and completely fill out the crossword grid. It's a perfect game to unwind with while giving your brain a gentle workout.
-- **Form a Word:** Click and drag your mouse (or swipe your finger) across the letters in the circle in the correct order to spell a word. Release the mouse button or your finger to submit the word.
-
-### Commandes
-
-- **Find Bonus Words:** Don't stop once the crossword is full! Most levels have extra "Bonus Words." These are valid words made from the letters that don't fit into the main puzzle. Finding them will award you extra coins or points.
-
-- **Use Hints Sparingly:** The "Hint" button will reveal a random letter in the puzzle for you, which can be a great help. However, you usually have a limited number of hints, so save them for when you are truly stuck.
-
-- **Shuffle the Letters:** If you get stuck and can't see any more words, use the "Shuffle" button. Rearranging the letters in the circle can often spark new ideas and help you see combinations you missed before.
-
-- **Start with the Obvious:** Look for the shortest and most obvious words first (usually three-letter words). Filling these in can give you clues and letters for the longer, more complex words.
+Words of Magic est un jeu de puzzle de mots relaxant et enchanteur conçu pour tester ton vocabulaire et tes compétences en anagrammes. À chaque niveau, tu disposes d'un cercle de lettres et d'une grille de mots croisés. Ton objectif est de trouver tous les mots cachés formables avec les lettres données et de remplir entièrement la grille. C'est le jeu parfait pour se détendre tout en faisant travailler doucement ton cerveau.
 
 ### Guide de jeu
 
+1.  **Commence par l'évident :** Cherche d'abord les mots les plus courts et les plus évidents (généralement trois lettres). Les placer peut te donner des indices pour les mots plus longs et complexes.
+2.  **Mélange les lettres :** Si tu bloques, utilise le bouton « Mélanger ». Réarranger les lettres peut souvent déclencher de nouvelles idées et révéler des combinaisons manquées.
+3.  **Utilise les indices avec parcimonie :** Le bouton « Indice » révèle une lettre aléatoire dans la grille, ce qui peut être très utile. Cependant, les indices sont limités, garde-les pour les moments de vrai blocage.
+4.  **Trouve les mots bonus :** Ne t'arrête pas une fois la grille remplie ! La plupart des niveaux ont des « Mots Bonus » : des mots valides avec les lettres qui ne rentrent pas dans le puzzle principal. Les trouver t'accorde des pièces ou points supplémentaires.
 
-- **Form a Word:** Click and drag your mouse (or swipe your finger) across the letters in the circle in the correct order to spell a word. Release the mouse button or your finger to submit the word.
-Words of Magic is a relaxing and enchanting word puzzle game designed to test your vocabulary and anagram skills. In each level, you are given a circle of letters and a crossword-style puzzle board. Your goal is to find all of the hidden words that can be formed from the given letters and completely fill out the crossword grid. It's a perfect game to unwind with while giving your brain a gentle workout.
+### Commandes
 
-### Présentation du jeu
+*   **Former un mot :** Clique et glisse ta souris (ou balaie avec ton doigt) sur les lettres du cercle dans le bon ordre pour épeler un mot. Relâche pour valider.
 
+### Foire aux questions (FAQ)
 
-- **A:** You can typically earn more hints by completing levels, finding bonus words, or through daily login rewards.
+*   **Q : Quel est l'objectif du jeu ?**
+    *   **R :** Trouver tous les mots cachés avec les lettres données et les utiliser pour remplir complètement la grille de mots croisés.
 
-    - **Q: How do I get more hints?**
+*   **Q : J'ai trouvé un vrai mot, mais il n'est pas apparu sur la grille. Pourquoi ?**
+    *   **R :** C'était probablement un « Mot Bonus ». Tu gagnes quand même des points, mais il ne fait pas partie du puzzle principal de ce niveau.
 
-- **A:** That was likely a "Bonus Word." You still get credit and points for finding it, but it's not part of the main puzzle for that level.
-
-    - **Q: I found a real word, but it didn't appear on the board. Why?**
-
-- **A:** To find all the hidden words using the given letters and use them to completely fill the crossword puzzle grid.
-
-    - **Q: What is the goal of the game?**
+*   **Q : Comment obtenir plus d'indices ?**
+    *   **R :** Tu peux généralement gagner des indices en terminant des niveaux, en trouvant des mots bonus, ou via les récompenses de connexion quotidienne.

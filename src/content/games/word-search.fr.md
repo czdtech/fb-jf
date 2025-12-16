@@ -3,8 +3,8 @@ locale: fr
 urlstr: word-search
 title: Word Search
 description: >-
-  Word Search est un jeu de mots mêlés où tu dois retrouver une liste de mots
-  cachés dans une grille de lettres, dans toutes les directions.
+  Word Search est un classique du jeu de lettres : trouve les mots cachés dans
+  une grille, à l'horizontale, verticale ou en diagonale.
 iframeSrc: 'https://cdn.gamesnacks.com/wordsearch1/gameCode/index.html'
 thumbnail: /new-images/word-search.jpg
 tags:
@@ -16,77 +16,32 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
-**A**: Most versions have no time limit; you can search at your own pace.
-
-- **Q: Is there a time limit?**
-
-**A**: Carefully check if you've missed certain directions, especially diagonals and backward words.
-
-- **Q: What if I can't find the last few words?**
-
-**A**: Use systematic scanning, find long words first, utilize theme clues, and maintain patience and focus.
-
-- **Q: How can I improve search efficiency?**
-
-**A**: Words can appear horizontally (left/right), vertically (up/down), or diagonally, and can be forward or backward.
-
-- **Q: What directions can words be in?**
-
-### Foire aux questions
-
-
-"Word Search" is a classic puzzle game where players find hidden words in a grid of letters, searching horizontally, vertically, and diagonally to complete themed word lists. This is a relaxing brain exercise game that helps improve vocabulary and observation skills.
-- **Hint Feature**: Some versions provide hint features to help find difficult words.
-
-- **View List**: Check the word list to see which words still need to be found.
-
-- **Multi-directional Selection**: Can select words from any direction (forward/backward, up/down, diagonal).
-
-- **Select Words**: Use mouse drag or click to select found words.
-
-### How to Play
-
-- **Theme Association**: Use theme hints to predict what types of words might appear.
-
-- **Marking Strategy**: Mark words immediately after finding them to avoid repeated searches.
-
-- **Find Long Words First**: Long words are usually easier to spot; finding them first can narrow the search area.
-
-- **Multi-directional Thinking**: Remember words can appear in 8 different directions (horizontal, vertical, diagonal).
-
-- **Systematic Scanning**: Scan the grid systematically by rows or columns, don't jump around randomly.
+Word Search est un jeu de puzzle classique où tu dois repérer des mots cachés dans une grille de lettres, en cherchant à l'horizontale, à la verticale et en diagonale pour compléter des listes de mots thématiques. C'est un exercice cérébral relaxant qui aide à améliorer le vocabulaire et le sens de l'observation.
 
 ### Guide de jeu
 
+1.  **Balayage systématique :** Parcours la grille méthodiquement, ligne par ligne ou colonne par colonne, plutôt que de chercher au hasard.
+2.  **Penser multidirectionnel :** N'oublie pas que les mots peuvent apparaître dans 8 directions différentes (horizontale, verticale, diagonale).
+3.  **Trouve d'abord les mots longs :** Les mots longs sont souvent plus faciles à repérer ; les trouver en premier réduit la zone de recherche.
+4.  **Marque au fur et à mesure :** Marque immédiatement les mots trouvés pour éviter de les chercher à nouveau.
+5.  **Association thématique :** Utilise les indices de thème pour anticiper les types de mots à trouver.
 
-- **Hint Feature**: Some versions provide hint features to help find difficult words.
+### Commandes
 
-- **View List**: Check the word list to see which words still need to be found.
+*   **Sélectionner un mot :** Utilise la souris pour cliquer-glisser ou cliquer pour sélectionner le mot trouvé.
+*   **Sélection multidirectionnelle :** Tu peux sélectionner des mots dans n'importe quelle direction (avant/arrière, haut/bas, diagonale).
+*   **Consulter la liste :** Vérifie la liste pour voir quels mots restent à trouver.
+*   **Fonction indice :** Certaines versions proposent des indices pour aider à trouver les mots difficiles.
 
-- **Multi-directional Selection**: Can select words from any direction (forward/backward, up/down, diagonal).
+### Foire aux questions
 
-- **Select Words**: Use mouse drag or click to select found words.
-"Word Search" is a classic puzzle game where players find hidden words in a grid of letters, searching horizontally, vertically, and diagonally to complete themed word lists. This is a relaxing brain exercise game that helps improve vocabulary and observation skills.
-
-### Présentation du jeu
-
-
-**A**: Most versions have no time limit; you can search at your own pace.
-
-- **Q: Is there a time limit?**
-
-**A**: Carefully check if you've missed certain directions, especially diagonals and backward words.
-
-- **Q: What if I can't find the last few words?**
-
-**A**: Use systematic scanning, find long words first, utilize theme clues, and maintain patience and focus.
-
-- **Q: How can I improve search efficiency?**
-
-**A**: Words can appear horizontally (left/right), vertically (up/down), or diagonally, and can be forward or backward.
-
-- **Q: What directions can words be in?**
-
-
-**A**: Most versions have no time limit; you can search at your own pace.
+1.  **Q : Dans quelles directions les mots peuvent-ils être ?**
+    **R :** Les mots peuvent apparaître horizontalement (gauche/droite), verticalement (haut/bas), ou en diagonale, et peuvent être écrits à l'endroit ou à l'envers.
+2.  **Q : Comment améliorer mon efficacité de recherche ?**
+    **R :** Utilise un balayage systématique, trouve d'abord les mots longs, exploite les indices de thème, et garde patience et concentration.
+3.  **Q : Et si je ne trouve pas les derniers mots ?**
+    **R :** Vérifie attentivement si tu n'as pas manqué certaines directions, notamment les diagonales et les mots inversés.
+4.  **Q : Y a-t-il une limite de temps ?**
+    **R :** La plupart des versions n'ont pas de limite ; tu peux chercher à ton propre rythme.

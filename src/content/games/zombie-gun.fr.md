@@ -3,8 +3,8 @@ locale: fr
 urlstr: zombie-gun
 title: Zombie Gun
 description: >-
-  Zombie Gun est un shooter‑puzzle : fais ricocher les balles, déclenche des
-  barils et élimine tous les zombies avec un minimum de tirs.
+  Zombie Gun est un shooter à physique : fais ricocher les balles, déclenche des
+  barils et nettoie les salles avec des angles malins et des munitions limitées.
 iframeSrc: 'https://5bcvrmoqria48.h5games.usercontent.goog/v/7cfakbl479q6o/'
 thumbnail: /new-images/zombie-gun.png
 tags:
@@ -15,49 +15,26 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
-A: Drop props or explode barrels near them.
-
-- Q: Armored ones don’t die.
-
-A: Plan a bank/explosion route before the first shot.
-
-- Q: I run out of ammo.
-
-### Foire aux questions (FAQ)
-
-
-Zombie Gun emphasizes angle shooting: ricochet bullets off walls, hit explosive barrels, and collapse props to eliminate zombies with few shots. Later rooms add armored foes that require environmental kills.
-- Aim and click to fire; restart via UI; some builds limit ammo per room.
-
-### Commandes
-
-- Armor rule: Use environment against armored zombies.
-
-- Ammo discipline: Plan routes before firing.
-
-- Prop falls: Shoot supports to drop objects on enemies.
-
-- Red barrels: Chain explosions to clear clusters.
-
-- Bank shots: Use walls to hit tucked targets.
+Zombie Gun met l'accent sur les tirs d'angle : fais ricocher les balles sur les murs, touche des barils explosifs et fais tomber des objets pour éliminer les zombies avec peu de tirs. Les salles avancées ajoutent des ennemis blindés qui nécessitent des éliminations environnementales.
 
 ### Guide de jeu
 
+1.  **Tirs en rebond :** Utilise les murs pour atteindre les cibles cachées.
+2.  **Barils rouges :** Enchaîne les explosions pour éliminer des groupes.
+3.  **Chutes d'objets :** Tire sur les supports pour faire tomber des objets sur les ennemis.
+4.  **Discipline des munitions :** Planifie tes trajectoires avant de tirer.
+5.  **Règle des blindés :** Utilise l'environnement contre les zombies blindés.
 
-- Aim and click to fire; restart via UI; some builds limit ammo per room.
-Zombie Gun emphasizes angle shooting: ricochet bullets off walls, hit explosive barrels, and collapse props to eliminate zombies with few shots. Later rooms add armored foes that require environmental kills.
+### Commandes
 
-### Présentation du jeu
+-   Vise et clique pour tirer ; redémarre via l'interface ; certaines versions limitent les munitions par salle.
 
+### Foire aux questions (FAQ)
 
-A: Drop props or explode barrels near them.
+-   **Q : Je tombe à court de munitions.**
+    **R :** Planifie une trajectoire de rebond/explosion avant le premier tir.
 
-- Q: Armored ones don’t die.
-
-A: Plan a bank/explosion route before the first shot.
-
-- Q: I run out of ammo.
-
-
-A: Drop props or explode barrels near them.
+-   **Q : Les blindés ne meurent pas.**
+    **R :** Fais tomber des objets ou explose des barils près d'eux.

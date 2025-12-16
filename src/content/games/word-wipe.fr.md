@@ -3,68 +3,43 @@ locale: fr
 urlstr: word-wipe
 title: Word Wipe
 description: >-
-  Word Wipe te demande de relier des lettres adjacentes pour former des mots et
-  effacer des lignes avant que le temps ne s’écoule.
-iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/word-wipe/'
+  Word Wipe est un jeu de mots dynamique : relie les lettres pour former des
+  mots, fais-les disparaître et efface des lignes contre la montre.
+iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-word-wipe/'
 thumbnail: /new-images/word-wipe.jpg
 tags:
   - word-game
   - puzzle
-score: 4.2/5  (2000 votes)
+  - timed
+score: 4.8/5  (1384 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
-Focus on finding longer words and clearing full rows. Try to create chain reactions where clearing one word leads to new opportunities. Use bonus bombs strategically when you're stuck or need to clear a large area.
+Word Wipe est un jeu de puzzle de mots dynamique qui combine la recherche de mots avec une mécanique de chute de blocs. Tu fais face à une grille de lettres et dois rapidement trouver et relier des lettres pour former des mots. Une fois un mot formé, les lettres disparaissent et de nouvelles lettres tombent d'en haut, créant un défi continu et rapide.
 
-**Are there any strategies for high scores?**
+### Guide de jeu
 
-If you fail to clear the required number of rows before the timer runs out, the game ends.
-
-**What happens if I run out of time?**
-
-To win a level, you typically need to clear a specific number of rows by forming words within the given time limit. The overall goal is to achieve the highest score.
-
-**How do I win in Word Wipe?**
-
-### Foire aux questions (FAQ)
-
-
-Word Wipe is a dynamic and engaging word puzzle game that combines elements of word-finding with a falling-block mechanic. Players are presented with a grid of letters and must quickly find and connect letters to form words. Once a word is formed, the letters disappear, and new letters fall from above, creating a continuous and fast-paced challenge.
-- **Mouse/Touch:** Click and drag (or swipe) across adjacent letters to form words.
+-   **Objectif :** Forme des mots pour effacer des lignes et progresser dans les niveaux. Le but est d'effacer un certain nombre de lignes dans le temps imparti.
+-   **Formation des mots :** Relie les lettres horizontalement, verticalement ou en diagonale pour épeler des mots de trois lettres ou plus.
+-   **Effacement des lignes :** Quand un mot est formé, les lettres sont supprimées et les tuiles au-dessus descendent. Effacer des lignes entières est souvent un objectif clé.
+-   **Limite de temps :** Le jeu se joue contre la montre, ajoutant une dose d'urgence.
+-   **Score :** Les mots plus longs et plus complexes rapportent plus de points. La vitesse compte aussi.
+-   **Bombes bonus :** Gagne des « bombes » spéciales qui peuvent effacer plusieurs tuiles d'un coup et te sortir de situations difficiles.
 
 ### Commandes
 
-- **Bonus Bombs:** Earn special "bombs" that can clear multiple tiles at once, helping you out of tight spots.
+-   **Souris/Tactile :** Clique et fais glisser (ou balaie) sur les lettres adjacentes pour former des mots.
 
-- **Scoring:** Longer and more complex words yield higher scores. Speed also contributes to your score.
+### Foire aux questions (FAQ)
 
-- **Time Limit:** The game is played against a clock, adding an element of urgency.
+**Comment gagner dans Word Wipe ?**
+Pour terminer un niveau, tu dois généralement effacer un nombre précis de lignes en formant des mots avant la fin du chrono. L'objectif global est d'atteindre le meilleur score.
 
-- **Clearing Lines:** When a word is formed, the letters are removed, and the tiles above them drop down. Clearing entire rows is often a key objective.
+**Que se passe-t-il si le temps est écoulé ?**
+Si tu n'as pas effacé le nombre de lignes requis avant la fin du chrono, la partie est terminée.
 
-- **Word Formation:** Connect letters horizontally, vertically, or diagonally to spell words of three letters or more.
-
-- **Objective:** Form words to clear lines and progress through levels. The goal is to clear a certain number of rows within a time limit.
-
-### Gameplay Guide
-
-
-- **Mouse/Touch:** Click and drag (or swipe) across adjacent letters to form words.
-Word Wipe is a dynamic and engaging word puzzle game that combines elements of word-finding with a falling-block mechanic. Players are presented with a grid of letters and must quickly find and connect letters to form words. Once a word is formed, the letters disappear, and new letters fall from above, creating a continuous and fast-paced challenge.
-
-### Présentation du jeu
-
-
-Focus on finding longer words and clearing full rows. Try to create chain reactions where clearing one word leads to new opportunities. Use bonus bombs strategically when you're stuck or need to clear a large area.
-
-**Are there any strategies for high scores?**
-
-If you fail to clear the required number of rows before the timer runs out, the game ends.
-
-**What happens if I run out of time?**
-
-To win a level, you typically need to clear a specific number of rows by forming words within the given time limit. The overall goal is to achieve the highest score.
-
-**How do I win in Word Wipe?**
+**Des conseils pour un score élevé ?**
+Concentre-toi sur les mots longs et l'effacement de lignes complètes. Essaie de créer des réactions en chaîne où un mot en révèle d'autres. Utilise les bombes bonus stratégiquement quand tu es bloqué ou que tu dois dégager une grande zone.

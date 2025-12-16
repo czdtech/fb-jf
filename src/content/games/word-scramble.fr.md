@@ -3,8 +3,8 @@ locale: fr
 urlstr: word-scramble
 title: Word Scramble
 description: >-
-  Word Scramble est un jeu d’anagrammes : réorganise des lettres mélangées pour
-  retrouver le mot correct avant la fin du temps.
+  Word Scramble est un classique du casse-tête : réarrange les lettres mélangées
+  pour former le mot correct avant la fin du temps.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/word-scramble/'
 thumbnail: /new-images/word-scramble.jpg
 tags:
@@ -16,62 +16,31 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
-Yes, variations include games with different word lengths, categories (e.g., animals, countries), or competitive multiplayer modes where players race to solve the scramble first.
+Word Scramble est un jeu de puzzle de mots classique et captivant qui te défie de réarranger un ensemble de lettres mélangées pour former un mot cohérent. C'est un test de vocabulaire, de reconnaissance de motifs et de réflexion rapide. Le jeu propose souvent différents niveaux de difficulté et catégories, gardant le gameplay frais et stimulant.
 
-**Are there different types of Word Scramble games?**
+### Guide de jeu
 
-Most games offer hints or a "pass" option. You can also try shuffling the letters to get a new perspective.
-
-**What if I can't find the word?**
-
-You are given a set of jumbled letters. Your task is to rearrange these letters to form a valid English word.
-
-**How do I play Word Scramble?**
-
-### Foire aux questions (FAQ)
-
-
-Word Scramble is a classic and engaging word puzzle game that challenges players to rearrange a set of jumbled letters to form a meaningful word. It's a test of vocabulary, pattern recognition, and quick thinking. The game often features various difficulty levels and categories, keeping the gameplay fresh and challenging.
-- **Submit:** Press `Enter` to submit your answer.
-
-- **Rearrange Letters:** Some versions allow you to click and drag letters to rearrange them visually, or have a "shuffle" button.
-
-- **Typing:** Use your keyboard to type the word you believe is correct.
+-   **Objectif :** Le but principal est d'identifier le mot original à partir d'un ensemble de lettres mélangées.
+-   **Lettres :** Tu recevras un ensemble de lettres qui forment l'anagramme d'un seul mot.
+-   **Limite de temps :** De nombreuses versions incluent une limite de temps, ajoutant de la pression et testant ta rapidité.
+-   **Indices :** Si tu bloques, des indices peuvent être disponibles, comme révéler une lettre ou fournir une définition.
+-   **Score :** Les points sont généralement attribués pour les bonnes réponses, avec des bonus pour les solutions rapides.
 
 ### Commandes
 
-- **Scoring:** Points are typically awarded for correct answers, with bonuses for faster solutions.
+-   **Saisie :** Utilise ton clavier pour taper le mot que tu penses être correct.
+-   **Réarranger les lettres :** Certaines versions te permettent de cliquer-glisser les lettres pour les réarranger visuellement, ou proposent un bouton « mélanger ».
+-   **Valider :** Appuie sur `Entrée` pour soumettre ta réponse.
 
-- **Hints:** If you get stuck, hints might be available, such as revealing a letter or providing a definition.
+### Foire aux questions (FAQ)
 
-- **Time Limit:** Many versions include a time limit, adding pressure and testing your speed.
+**Comment jouer à Word Scramble ?**
+Tu reçois un ensemble de lettres mélangées. Ta tâche est de réarranger ces lettres pour former un mot anglais valide.
 
-- **Letters:** You will be presented with a set of letters that are an anagram of a single word.
+**Et si je ne trouve pas le mot ?**
+La plupart des jeux proposent des indices ou une option « passer ». Tu peux aussi essayer de mélanger les lettres pour avoir une nouvelle perspective.
 
-- **Objective:** The main goal is to correctly identify the original word from a given set of scrambled letters.
-
-### Gameplay Guide
-
-
-- **Submit:** Press `Enter` to submit your answer.
-
-- **Rearrange Letters:** Some versions allow you to click and drag letters to rearrange them visually, or have a "shuffle" button.
-
-- **Typing:** Use your keyboard to type the word you believe is correct.
-Word Scramble is a classic and engaging word puzzle game that challenges players to rearrange a set of jumbled letters to form a meaningful word. It's a test of vocabulary, pattern recognition, and quick thinking. The game often features various difficulty levels and categories, keeping the gameplay fresh and challenging.
-
-### Présentation du jeu
-
-
-Yes, variations include games with different word lengths, categories (e.g., animals, countries), or competitive multiplayer modes where players race to solve the scramble first.
-
-**Are there different types of Word Scramble games?**
-
-Most games offer hints or a "pass" option. You can also try shuffling the letters to get a new perspective.
-
-**What if I can't find the word?**
-
-You are given a set of jumbled letters. Your task is to rearrange these letters to form a valid English word.
-
-**How do I play Word Scramble?**
+**Existe-t-il différents types de Word Scramble ?**
+Oui, les variantes incluent des jeux avec différentes longueurs de mots, catégories (ex. : animaux, pays), ou des modes multijoueurs compétitifs où les joueurs s'affrontent pour résoudre l'anagramme en premier.

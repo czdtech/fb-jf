@@ -1,10 +1,10 @@
 ---
 locale: fr
 urlstr: zombie-hunter-survival
-title: 'Zombie Hunter: Survival'
+title: Zombie Hunter Survival
 description: >-
-  Zombie Hunter: Survival est un shooter de survie en vue du dessus : kite les
-  hordes, économise tes munitions et tiens le plus longtemps possible.
+  Zombie Hunter: Survival est un shooter tendu en vue du dessus : attire les
+  hordes, économise les munitions et survis aux vagues.
 iframeSrc: 'https://6ctmcm40nbff0.h5games.usercontent.goog/v/2a81mr3h8ut10/'
 thumbnail: /new-images/zombie-hunter-survival.png
 tags:
@@ -15,46 +15,25 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
-- Bosses? Some waves add elites—kite wider and clear minions first.
-
-- Ammo scarce—tips? Aim for clusters, use single shots, and pick up only when safe.
-
-- I get cornered—fix? Avoid dead‑ends; always leave an exit lane.
-
-### Foire aux questions (FAQ)
-
-
-Zombie Hunter: Survival is a survival‑style shooter. Move through cramped arenas, manage ammo and reload windows, and cut safe kiting paths while escalating waves pressure positioning and crowd control.
-- Swap weapons if available.
-
-- Move with WASD/Arrows; aim with mouse or keys; fire/Reload per UI.
-
-### Commandes
-
-- Resource grabs: Take ammo/health only when routes are clear.
-
-- Target priority: Eliminate fast/ranged threats first.
-
-- Funnel use: Fight in chokepoints for cleaner head‑on shots.
-
-- Reload discipline: Reload between waves or during long kites—not face‑to‑face.
-
-- Circle kite: Run wide circles to group zombies and fire into clumps.
+Zombie Hunter: Survival est un shooter de survie. Déplace-toi dans des arènes exiguës, gère les munitions et les temps de rechargement, et trace des chemins de kiting sûrs pendant que les vagues croissantes mettent à l'épreuve ton positionnement et ta gestion des foules.
 
 ### Guide de jeu
 
+1.  **Kite en cercle :** Cours en larges cercles pour regrouper les zombies et tire dans les tas.
+2.  **Discipline de rechargement :** Recharge entre les vagues ou pendant les longs kites — pas en face à face.
+3.  **Utilise les goulets :** Combats dans les points d'étranglement pour des tirs frontaux plus propres.
+4.  **Priorité des cibles :** Élimine d'abord les menaces rapides/à distance.
+5.  **Ramassage de ressources :** Prends munitions/santé seulement quand les chemins sont dégagés.
 
-- Swap weapons if available.
+### Commandes
 
-- Move with WASD/Arrows; aim with mouse or keys; fire/Reload per UI.
-Zombie Hunter: Survival is a survival‑style shooter. Move through cramped arenas, manage ammo and reload windows, and cut safe kiting paths while escalating waves pressure positioning and crowd control.
+-   Déplace-toi avec WASD/Flèches ; vise avec la souris ou les touches ; tire/recharge selon l'interface.
+-   Change d'arme si disponible.
 
-### Présentation du jeu
+### Foire aux questions (FAQ)
 
-
-- Bosses? Some waves add elites—kite wider and clear minions first.
-
-- Ammo scarce—tips? Aim for clusters, use single shots, and pick up only when safe.
-
-- I get cornered—fix? Avoid dead‑ends; always leave an exit lane.
+-   **Je me fais coincer — que faire ?** Évite les impasses ; garde toujours une sortie.
+-   **Les munitions sont rares — conseils ?** Vise les groupes, utilise des tirs uniques, et ramasse seulement quand c'est sûr.
+-   **Des boss ?** Certaines vagues ajoutent des élites — kite plus large et élimine d'abord les sbires.

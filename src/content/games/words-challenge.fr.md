@@ -3,61 +3,38 @@ locale: fr
 urlstr: words-challenge
 title: Words Challenge
 description: >-
-  Words Challenge est un ensemble de mini‑jeux de lettres : trouve des mots,
-  complète des grilles et relève différents défis de vocabulaire.
-iframeSrc: 'https://wordschallenge.h5games.usercontent.goog/v/xyz/'
+  Words Challenge mélange anagrammes, mots croisés et quiz rapides pour tester
+  ta culture générale et ta déduction.
+iframeSrc: 'https://60p1t41kumli8.h5games.usercontent.goog/v/7pss7j2tdq7io/'
 thumbnail: /new-images/words-challenge.jpg
 tags:
-  - word-game
   - puzzle
-score: 4.0/5  (1500 votes)
+  - thinky
+score: 4.1/5  (1982 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
-A: Usually not; read dictionary rules.
-
-- Q: Are proper nouns allowed?
-
-A: Reorder by vowel/consonant blocks and try common patterns.
-
-- Q: I stall on anagrams.
-
-### Foire aux questions (FAQ)
-
-
-Words Challenge mixes anagram solving, mini crosswords, and quick prompts. Success favors pattern recognition (prefix/suffix), letter frequency intuition, and calm elimination under light timers.
-- Drag letters for anagrams; type for crosswords; click options for prompts.
-
-### Commandes
-
-- Streaks: Maintain steady pace to keep multipliers.
-
-- Don’t tunnel: Switch modes when stuck; momentum matters.
-
-- Cross logic: In crosswords, fill easy crossings to unlock tough slots.
-
-- Frequency: Lean on ETAOIN SHRDLU letter order for guesses.
-
-- Morphology: Mine prefixes (RE/UN) and suffixes (‑ING/‑ED/‑ER) first.
+Words Challenge mêle résolution d'anagrammes, mini mots croisés et questions rapides. Le succès repose sur la reconnaissance de motifs (préfixes/suffixes), l'intuition de fréquence des lettres et une élimination calme sous légère pression du chrono.
 
 ### Guide de jeu
 
+1.  **Morphologie :** Exploite d'abord les préfixes (RE/UN) et suffixes (-ING/-ED/-ER).
+2.  **Fréquence :** Appuie-toi sur l'ordre ETAOIN SHRDLU pour tes suppositions.
+3.  **Logique croisée :** Dans les mots croisés, remplis les croisements faciles pour débloquer les cases difficiles.
+4.  **Ne reste pas bloqué :** Change de mode si tu stagnes ; le momentum compte.
+5.  **Séries :** Maintiens un rythme régulier pour conserver les multiplicateurs.
 
-- Drag letters for anagrams; type for crosswords; click options for prompts.
-Words Challenge mixes anagram solving, mini crosswords, and quick prompts. Success favors pattern recognition (prefix/suffix), letter frequency intuition, and calm elimination under light timers.
+### Commandes
 
-### Présentation du jeu
+-   Glisse les lettres pour les anagrammes ; tape pour les mots croisés ; clique sur les options pour les questions.
 
+### Foire aux questions (FAQ)
 
-A: Usually not; read dictionary rules.
+-   **Q : Je bloque sur les anagrammes.**
+    **R :** Réorganise par blocs voyelles/consonnes et essaie les motifs courants.
 
-- Q: Are proper nouns allowed?
-
-A: Reorder by vowel/consonant blocks and try common patterns.
-
-- Q: I stall on anagrams.
-
-
-A: Usually not; read dictionary rules.
+-   **Q : Les noms propres sont-ils autorisés ?**
+    **R :** En général non ; consulte les règles du dictionnaire.

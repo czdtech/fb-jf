@@ -3,61 +3,38 @@ locale: fr
 urlstr: wordler
 title: Wordler
 description: >-
-  Wordler est une variante de Wordle jouable en boucle : enchaîne les grilles et
-  teste ton vocabulaire sur des séries de mots.
-iframeSrc: 'https://wordler.h5games.usercontent.goog/v/xyz/'
-thumbnail: /new-images/wordler.jpg
+  Wordler est un jeu de déduction quotidien : devine des mots de cinq lettres en
+  utilisant les indices de couleur pour affiner tes hypothèses.
+iframeSrc: 'https://30mv2rsaljhjo.h5games.usercontent.goog/v/0hb0g2c5b4m9o/'
+thumbnail: /new-images/wordler.png
 tags:
-  - word-game
   - puzzle
-score: 4.3/5  (1200 votes)
-releaseDate: 2025-03-01T00:00:00.000Z
+  - thinky
+score: 4.2/5  (2054 votes)
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
-A: Depends on dictionary; many allow plurals sparingly.
-
-- Q: Are plurals allowed?
-
-A: Choose a diagnostic word that tests the most uncertain letters/positions.
-
-- Q: I get multiple possibles late — how to pick?
-
-### Foire aux questions (FAQ)
-
-
-Wordler follows the modern five‑letter deduction format: each guess yields color feedback (correct letter/place, correct letter/wrong place, absent). Optimal play prunes the search space with informed guesses instead of random stabs.
-- Type and submit guesses; review color feedback; limited attempts per puzzle.
-
-### Commandes
-
-- Endgame pruning: Before final guesses, shortlist all valid permutations to avoid whiffs.
-
-- Frequency bias: Favor common digrams (TH, CH, SH, ST) and endings (‑ER, ‑ED, ‑ING).
-
-- Position logic: Fix green letters, permute yellows across remaining slots.
-
-- Letter accounting: Track confirmed/excluded letters explicitly; avoid re‑testing dead letters.
-
-- Strong opener: Use a high‑coverage starter with common vowels/consonants (e.g., SLATE/CRANE/ROAST).
+Wordler suit le format moderne de déduction sur cinq lettres : chaque essai donne un retour coloré (bonne lettre et bonne place, bonne lettre mais mauvaise place, lettre absente). Un jeu optimal consiste à élaguer l'espace de recherche avec des suppositions éclairées plutôt que des coups au hasard.
 
 ### Guide de jeu
 
+1.  **Mot d'ouverture solide :** Utilise un mot de départ à forte couverture avec voyelles et consonnes communes (ex. : SLATE, CRANE, ROAST).
+2.  **Comptabilité des lettres :** Suis explicitement les lettres confirmées et exclues ; évite de retester les lettres éliminées.
+3.  **Logique de position :** Fixe les lettres vertes, permute les jaunes dans les emplacements restants.
+4.  **Biais de fréquence :** Privilégie les digrammes courants (TH, CH, SH, ST) et les terminaisons (-ER, -ED, -ING).
+5.  **Élagage final :** Avant les derniers essais, liste toutes les permutations valides pour éviter les ratés.
 
-- Type and submit guesses; review color feedback; limited attempts per puzzle.
-Wordler follows the modern five‑letter deduction format: each guess yields color feedback (correct letter/place, correct letter/wrong place, absent). Optimal play prunes the search space with informed guesses instead of random stabs.
+### Commandes
 
-### Présentation du jeu
+-   Tape et valide tes essais ; observe le retour coloré ; nombre de tentatives limité par puzzle.
 
+### Foire aux questions (FAQ)
 
-A: Depends on dictionary; many allow plurals sparingly.
+-   **Q : Plusieurs possibilités en fin de partie — comment choisir ?**
+    **R :** Choisis un mot diagnostique qui teste le maximum de lettres/positions incertaines.
 
-- Q: Are plurals allowed?
-
-A: Choose a diagnostic word that tests the most uncertain letters/positions.
-
-- Q: I get multiple possibles late — how to pick?
-
-
-A: Depends on dictionary; many allow plurals sparingly.
+-   **Q : Les pluriels sont-ils autorisés ?**
+    **R :** Cela dépend du dictionnaire ; beaucoup les acceptent avec parcimonie.

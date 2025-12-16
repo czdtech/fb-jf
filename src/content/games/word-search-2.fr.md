@@ -2,7 +2,9 @@
 locale: fr
 urlstr: word-search-2
 title: Word Search 2
-description: "Word Search 2 est un jeu de mots mêlés classique\_: trouve tous les mots cachés dans la grille, horizontaux, verticaux ou diagonaux, à l’endroit comme à l’envers."
+description: >-
+  Le classique puzzle de recherche de mots. Trouve tous les mots cachés dans la
+  grille de lettres, à l'horizontale, verticale, diagonale ou même à l'envers !
 iframeSrc: 'https://wordsearch.h5games.usercontent.goog/v/6abe3eefqt368/'
 thumbnail: /new-images/word-search-2.jpg
 tags:
@@ -14,52 +16,30 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
-    - **A:** No. If you highlight a selection of letters that is not a word on the list, it will simply un-highlight, and you can try again without penalty.
-
-- **Q: Is there a penalty for guessing wrong?**
-
-    - **A:** You win by finding and highlighting every single word from the provided list.
-
-- **Q: How do I win the game?**
-
-    - **A:** Yes. Words can be spelled forwards, backwards, up, down, and in all four diagonal directions.
-
-- **Q: Can words be spelled backwards?**
-
-### Foire aux questions (FAQ)
-
-- **Highlight a Word:** When you find a word, click on the first letter, hold the mouse button down, and drag your cursor to the last letter of the word. Release the button to confirm the word.
-
-The game is played with a simple click-and-drag motion.
-
-### Commandes
-
-- **Use Hints When Needed:** If you're truly stuck on a word, don't be afraid to use a hint if the game provides one. It will usually reveal the location of the word you're looking for.
-
-- **Check All Directions:** Remember that words can be hidden in any of the eight directions. Once you find the first letter of a word, check all adjacent letters to see if they continue the word in any direction.
-
-- **Look for Uncommon Letters:** If a word has an uncommon letter like J, Q, X, or Z, scan the entire grid for that letter first. Since it appears less frequently, it will significantly narrow down the possible locations for that word.
-
-- **Scan Systematically:** Don't just look randomly. Scan the grid row by row, both forwards and backwards, for the first letter of a word on your list. Then do the same for each column.
+Word Search est un jeu de puzzle de mots classique et adoré. L'objectif est de trouver et marquer tous les mots cachés dans une grille de lettres. Une liste de mots est fournie, et tu dois scanner la grille pour les localiser. Les mots peuvent être placés horizontalement, verticalement ou en diagonale, et peuvent être épelés à l'endroit ou à l'envers, créant un défi amusant pour tes capacités d'observation.
 
 ### Guide de jeu
 
-Word Search is a classic and beloved word puzzle game. The objective is to find and mark all the words hidden inside a grid of letters. A list of words is provided, and players must scan the grid to locate them. The words can be placed horizontally, vertically, or diagonally, and can be spelled forwards or backwards, making it a fun challenge for your observation skills.
+1.  **Balaye systématiquement :** Ne regarde pas au hasard. Parcours la grille ligne par ligne, à l'endroit et à l'envers, pour repérer la première lettre d'un mot de ta liste. Fais de même pour chaque colonne.
+2.  **Cherche les lettres rares :** Si un mot contient une lettre rare comme J, Q, X ou Z, cherche d'abord cette lettre dans toute la grille. Comme elle apparaît moins souvent, cela réduira considérablement les emplacements possibles pour ce mot.
+3.  **Vérifie toutes les directions :** N'oublie pas que les mots peuvent être cachés dans huit directions. Une fois que tu as trouvé la première lettre d'un mot, vérifie toutes les lettres adjacentes pour voir si elles continuent le mot dans n'importe quelle direction.
+4.  **Utilise les indices si nécessaire :** Si tu bloques vraiment sur un mot, n'hésite pas à utiliser un indice si le jeu en propose. Il révélera généralement l'emplacement du mot recherché.
 
+### Commandes
 
-- **Highlight a Word:** When you find a word, click on the first letter, hold the mouse button down, and drag your cursor to the last letter of the word. Release the button to confirm the word.
-### Présentation du jeu
+Le jeu se joue avec un simple cliquer-glisser.
 
+*   **Surligner un mot :** Quand tu trouves un mot, clique sur la première lettre, maintiens le bouton de la souris enfoncé, et fais glisser le curseur jusqu'à la dernière lettre du mot. Relâche pour confirmer.
 
-- **A:** No. If you highlight a selection of letters that is not a word on the list, it will simply un-highlight, and you can try again without penalty.
+### Foire aux questions (FAQ)
 
-    - **Q: Is there a penalty for guessing wrong?**
+*   **Q : Les mots peuvent-ils être épelés à l'envers ?**
+    *   **R :** Oui. Les mots peuvent être épelés à l'endroit, à l'envers, vers le haut, vers le bas et dans les quatre directions diagonales.
 
-- **A:** You win by finding and highlighting every single word from the provided list.
+*   **Q : Comment gagner la partie ?**
+    *   **R :** Tu gagnes en trouvant et surlignant chaque mot de la liste fournie.
 
-    - **Q: How do I win the game?**
-
-- **A:** Yes. Words can be spelled forwards, backwards, up, down, and in all four diagonal directions.
-
-    - **Q: Can words be spelled backwards?**
+*   **Q : Y a-t-il une pénalité pour une mauvaise réponse ?**
+    *   **R :** Non. Si tu surligne une sélection de lettres qui n'est pas un mot de la liste, elle se dé-surlignera simplement, et tu peux réessayer sans pénalité.

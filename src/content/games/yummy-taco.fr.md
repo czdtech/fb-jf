@@ -3,10 +3,9 @@ locale: fr
 urlstr: yummy-taco
 title: Yummy Taco
 description: >-
-  Yummy Taco est un jeu de cuisine rapide : prends les commandes, assemble les
-  tacos avec les bons ingrédients et sers les clients sans les faire attendre.
-iframeSrc: >-
-  https://g2.igroutka.ru/games/7/K6bHUF2pdiz30Aam/4399swf/upload_swf/ftp40/chenling/20220916/6/
+  Yummy Taco est un jeu de cuisine rapide : prends les commandes, assemble des
+  tacos délicieux et sers vite pour gagner de l'argent.
+iframeSrc: 'https://g2.igroutka.ru/games/7/K6bHUF2pdiz30Aam/4399swf/upload_swf/ftp40/chenling/20220916/6/'
 thumbnail: /new-images/yummy-taco.jpg
 tags:
   - cooking
@@ -17,54 +16,31 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+### Présentation du jeu
 
-Yes, in many cooking simulation games like Yummy Taco, you can use the money you earn to upgrade your kitchen equipment, unlock new ingredients, or learn new, more complex recipes to attract more customers.
+Yummy Taco est un jeu de simulation de cuisine fun et rythmé où tu deviens chef de tacos. Ta mission : préparer de délicieux tacos pour un flot de clients affamés, gérant les ingrédients, l'assemblage et le service avec rapidité et précision. Le jeu met à l'épreuve tes compétences en gestion du temps et ta capacité à suivre la demande.
 
-**Can I upgrade my kitchen or recipes?**
+### Guide de jeu
 
-Serve customers quickly and accurately. Avoid mistakes in orders. Longer streaks of perfect service often lead to bonus points.
+-   **Prends les commandes :** Les clients apparaissent avec des bulles indiquant les ingrédients souhaités pour leur taco.
+-   **Assemble les tacos :** Clique ou glisse les ingrédients (tortillas, viandes, légumes, sauces) sur la zone de préparation pour construire le taco selon la commande.
+-   **Sers :** Une fois le taco terminé, sers-le au client. La vitesse est clé pour gagner de meilleurs pourboires et garder les clients contents.
+-   **Gagne de l'argent :** Un service rapide et réussi te fait gagner de l'argent, utilisable pour acheter de nouveaux ingrédients, améliorer ta cuisine ou débloquer de nouvelles recettes.
+-   **Gère les stocks :** Surveille tes réserves d'ingrédients et réapprovisionne au besoin.
 
-**How do I get a higher score?**
+### Commandes
 
-The main goal is to serve as many customers as possible, earn money, and achieve a high score by efficiently preparing and serving tacos.
-
-**What is the main goal of Yummy Taco?**
+-   **Souris/Tactile :** Toutes les interactions se font avec des clics de souris ou des gestes tactiles.
+    -   **Clic :** Sélectionne les ingrédients, clique sur les clients ou interagis avec les menus.
+    -   **Glisser-déposer :** Glisse les ingrédients pour assembler les tacos ou glisse les tacos terminés vers les clients.
 
 ### Foire aux questions (FAQ)
 
-- **Drag and Drop:** Drag ingredients to assemble tacos or drag completed tacos to customers.
+**Quel est l'objectif principal de Yummy Taco ?**
+L'objectif est de servir le plus de clients possible, gagner de l'argent et atteindre un score élevé en préparant et servant efficacement les tacos.
 
-- **Click:** Select ingredients, click on customers, or interact with menu items.
+**Comment obtenir un meilleur score ?**
+Sers les clients rapidement et avec précision. Évite les erreurs de commande. Les séries de service parfait donnent souvent des points bonus.
 
-- **Mouse/Touch:** All interactions are typically done with mouse clicks or touch gestures.
-
-
-- **Manage Ingredients:** Keep an eye on your ingredient supplies and restock as needed.
-
-- **Earn Money:** Successful and quick service earns you money, which can be used to purchase new ingredients, upgrade your kitchen, or unlock new recipes.
-### Commandes
-
-- **Manage Ingredients:** Keep an eye on your ingredient supplies and restock as needed.
-
-    - **Earn Money:** Successful and quick service earns you money, which can be used to purchase new ingredients, upgrade your kitchen, or unlock new recipes.
-
-    - **Serve:** Once the taco is complete, serve it to the customer. Speed is key to earning higher tips and keeping customers happy.
-
-- **Assemble Tacos:** Click or drag ingredients (tortillas, meats, vegetables, sauces) onto the preparation area to build the taco according to the order.
-
-- **Take Orders:** Customers will appear with speech bubbles indicating their desired taco ingredients.
-
-### Gameplay Guide
-
-Yummy Taco is a delightful and fast-paced cooking simulation game where you step into the role of a taco chef. Your mission is to prepare delicious tacos for a stream of hungry customers, managing ingredients, assembly, and serving with speed and accuracy. The game challenges your time management skills and ability to keep up with demand.
-
-
-Yes, in many cooking simulation games like Yummy Taco, you can use the money you earn to upgrade your kitchen equipment, unlock new ingredients, or learn new, more complex recipes to attract more customers.
-
-**Can I upgrade my kitchen or recipes?**
-
-Serve customers quickly and accurately. Avoid mistakes in orders. Longer streaks of perfect service often lead to bonus points.
-
-**How do I get a higher score?**
-
-The main goal is to serve as many customers as possible, earn money, and achieve a high score by efficiently preparing and serving tacos.
+**Puis-je améliorer ma cuisine ou mes recettes ?**
+Oui, comme dans beaucoup de jeux de simulation de cuisine, tu peux utiliser l'argent gagné pour améliorer ton équipement, débloquer de nouveaux ingrédients ou apprendre des recettes plus complexes pour attirer plus de clients.
