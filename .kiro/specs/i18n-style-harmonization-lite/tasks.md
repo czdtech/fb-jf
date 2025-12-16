@@ -199,7 +199,8 @@
     - [x] 2.3.fr.B15 审校+回归（10）：`five-nights-at-freddy-sl` → `football-penalty`（完成：2025-12-16，无需修复）
     - [x] 2.3.fr.B16 审校+回归（10）：`football-stars` → `fullspeed-racing`（完成：2025-12-16）
     - [x] 2.3.fr.B17 审校+回归（10）：`funny-shooter` → `gangsters`（完成：2025-12-16，无需修复）
-    - [ ] 2.3.fr.B18 审校+回归（10）：`garden-bloom` → `getting-over-it`
+    - [x] 2.3.fr.B18 审校+回归（10）：`garden-bloom` → `getting-over-it`（完成：2025-12-16）
+    - [ ] 2.3.fr.B19 审校+回归（10）：`ghost-pro-racing` → `golf-and-friends`
   - _Requirements: R1–R4, R8_
 
 - [ ] 2.4 德语（de）全量审校

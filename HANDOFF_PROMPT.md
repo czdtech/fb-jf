@@ -56,16 +56,16 @@
 
 - **ES**：679/679（100%）✅
 - **JA**：679/679（100%）✅
-- **FR**：170/679（25.04%）🚧（已审校 slug：`2-tricky-stories` → `gangsters`）
+- **FR**：180/679（26.51%）🚧（已审校 slug：`2-tricky-stories` → `getting-over-it`）
 - **DE**：0/679（0%）
 - **KO**：679/679（100%）✅（修复残留英文：`sprunki-retake`、`zumba-ocean`）
 - **ZH**：679/679（100%）✅（修复英文标题：`cookie-clicker`、`slope`、`incredibox`、`friday-night-funkin`、`geometry-dash`）
 
 按"需要审校的总页面数"（6*679=4074）计：已完成 2846/4074（≈69.86%）。
 
-### 法语 FR：下一批（B18，10 篇，字典序）
+### 法语 FR：下一批（B19，10 篇，字典序）
 
-`garden-bloom`, `geometry-dash`, `geometry-dash-lite`, `geometry-dash-meltdown`, `geometry-dash-subzero`, `geometry-dash-wave`, `geometry-dash-world`, `get-10-ultimate`, `getaway-shootout`, `getting-over-it`
+`ghost-pro-racing`, `giant-attack`, `gin-rummy`, `gladihoppers`, `go-escape`, `going-balls`, `gold-miner`, `gold-miner-tom`, `golf-adventures`, `golf-and-friends`
 
 对应文件路径：`src/content/games/<slug>.fr.md`
 
