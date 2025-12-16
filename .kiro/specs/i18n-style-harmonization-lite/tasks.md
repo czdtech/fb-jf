@@ -175,12 +175,12 @@
   - _Requirements: R1–R4, R8_
 
 - [ ] 2.3 法语（fr）全量审校
-  - **进度记录（滚动更新，最后更新：2025-12-15）**
-    - 已完成：110 / 679（16.20%）
-    - 剩余：569 / 679（83.80%）
-    - 已审校 slug 范围：`2-tricky-stories` → `electron-dash`（含）
+  - **进度记录（滚动更新，最后更新：2025-12-16）**
+    - 已完成：120 / 679（17.67%）
+    - 剩余：559 / 679（82.33%）
+    - 已审校 slug 范围：`2-tricky-stories` → `family-feud`（含）
     - 执行节奏：按 slug 字典序，每批 10 篇；每批结束后运行 `npm run validate:i18n`，并保持 mismatch=0
-    - 下一批待处理（10）：`element-blocks`, `elite-chess`, `emoji-fun`, `emoji-with-friends`, `endless-lake`, `endless-siege`, `endless-truck`, `escaping-the-prison`, `fairyland`, `family-feud`
+    - 下一批待处理（10）：`fancy-pants`, `fancy-pants-2`, `fancy-pants-3`, `farm-block-puzzle`, `farming-10x10`, `fiddlebops-but-dandys-world`, `fiddlebops-but-sprunki`, `fiddlebops-fix`, `fiddlebops-polos`, `fiddlebops-sprunkbop`
   - **已完成批次（滚动）**
     - [x] 2.3.fr.B01 审校+回归（10）：`2-tricky-stories` → `bank-robbery`（完成：2025-12-15）
     - [x] 2.3.fr.B02 审校+回归（10）：`basket-random` → `blockdrop`（完成：2025-12-15）
@@ -193,7 +193,8 @@
     - [x] 2.3.fr.B09 审校+回归（10）：`daily-word-search` → `diwali-lights`（完成：2025-12-15）
     - [x] 2.3.fr.B10 审校+回归（10）：`dogeminer` → `drive-mad`（完成：2025-12-15）
     - [x] 2.3.fr.B11 审校+回归（10）：`droid-o` → `electron-dash`（完成：2025-12-15）
-    - [ ] 2.3.fr.B12 审校+回归（10）：`element-blocks` → `family-feud`
+    - [x] 2.3.fr.B12 审校+回归（10）：`element-blocks` → `family-feud`（完成：2025-12-16）
+    - [ ] 2.3.fr.B13 审校+回归（10）：`fancy-pants` → `fiddlebops-sprunkbop`
   - _Requirements: R1–R4, R8_
 
 - [ ] 2.4 德语（de）全量审校

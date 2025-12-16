@@ -1,7 +1,5 @@
 ## 继任者提示词（Project Handoff Prompt）
 
-你是一个 **Cursor AI coding agent**，在仓库根目录工作。你的任务不是写“漂亮文案”，而是把 679 个游戏详情页的多语言版本做 **风格统一 + 术语标准化 + 机翻质量审校**，并且 **严格通过 i18n 校验**。
-
 ---
 
 ## 任务背景 / 总目标
@@ -12,7 +10,7 @@
   - 修正生硬机翻、语病、错字/乱码
   - 术语统一（按 glossary）
   - 语气统一（按 style guide）
-  - 允许改标题/描述的翻译质量，但不要做 SEO/结构层面的“发明”
+  - 允许改标题/描述的翻译质量，但不要做 SEO/结构层面的"发明"
 
 ---
 
@@ -33,7 +31,7 @@
 - 命令：`npm run validate:i18n`
   - `scripts/validate-i18n-metadata.mts`：检查 frontmatter 结构、字段、locale 等
   - `scripts/validate-i18n-structure.mts`：把 markdown body 解析成节点序列（heading/list-item/paragraph），要求 localized **按顺序包含** canonical 节点
-    - localized 允许有“额外节点”，但 canonical 节点不能缺、顺序不能乱
+    - localized 允许有"额外节点"，但 canonical 节点不能缺、顺序不能乱
 
 当结构校验失败时：看根目录生成的 `i18n-structure-report.json`，按报告提示补齐缺失节点（通常是缺标题/缺 FAQ 项/缺段落）。必要时对照英文 canonical：`src/content/games/<slug>.md`。
 
@@ -47,27 +45,27 @@
 - **Glossary**：`GLOSSARY.<lang>.md`
 
 法语额外约定：
-- 默认用 **tu**（除非该文件明显全篇稳定使用 vous 面向“受众群体”）
+- 默认用 **tu**（除非该文件明显全篇稳定使用 vous 面向"受众群体"）
 - 语气专业、清晰，少用夸张营销词
 
 ---
 
-## 当前进度（截至 2025-12-15）
+## 当前进度（截至 2025-12-16）
 
 ### 6 个 locale 总体完成度（每个 locale 679 篇）
 
 - **ES**：679/679（100%）✅
 - **JA**：679/679（100%）✅
-- **FR**：110/679（16.20%）🚧（已审校 slug：`2-tricky-stories` → `electron-dash`）
+- **FR**：120/679（17.67%）🚧（已审校 slug：`2-tricky-stories` → `family-feud`）
 - **DE**：0/679（0%）
 - **KO**：0/679（0%）
 - **ZH**：0/679（0%）
 
-按“需要审校的总页面数”（6*679=4074）计：已完成 1468/4074（≈36.05%）。
+按"需要审校的总页面数"（6*679=4074）计：已完成 1478/4074（≈36.28%）。
 
-### 法语 FR：下一批（B12，10 篇，字典序）
+### 法语 FR：下一批（B13，10 篇，字典序）
 
-`element-blocks`, `elite-chess`, `emoji-fun`, `emoji-with-friends`, `endless-lake`, `endless-siege`, `endless-truck`, `escaping-the-prison`, `fairyland`, `family-feud`
+`fancy-pants`, `fancy-pants-2`, `fancy-pants-3`, `farm-block-puzzle`, `farming-10x10`, `fiddlebops-but-dandys-world`, `fiddlebops-but-sprunki`, `fiddlebops-fix`, `fiddlebops-polos`, `fiddlebops-sprunkbop`
 
 对应文件路径：`src/content/games/<slug>.fr.md`
 
@@ -84,12 +82,12 @@
    - `rm -f i18n-metadata-report.json i18n-structure-report.json`
 4. **提交并推送**：把这 10 篇的改动 commit + push（避免一次提交混太多批次，后期 review/回滚会救你命）。
 
-### 如何快速算“下一批 10 个 slug”
+### 如何快速算"下一批 10 个 slug"
 
 （字典序基于 `src/content/games/*.fr.md` 的文件名）
 
 ```bash
-node -e "const fs=require('fs');const p='src/content/games';const files=fs.readdirSync(p).filter(f=>f.endsWith('.fr.md')).map(f=>f.replace(/\\.fr\\.md$/,''));files.sort();const start='electron-dash';const i=files.indexOf(start);console.log(files.slice(i+1,i+11).join(', '));"
+node -e "const fs=require('fs');const p='src/content/games';const files=fs.readdirSync(p).filter(f=>f.endsWith('.fr.md')).map(f=>f.replace(/\\.fr\\.md$/,''));files.sort();const start='family-feud';const i=files.indexOf(start);console.log(files.slice(i+1,i+11).join(', '));"
 ```
 
 ---
@@ -98,8 +96,8 @@ node -e "const fs=require('fs');const p='src/content/games';const files=fs.readd
 
 正确（Q 是 list-item，A 是缩进段落）：
 
-- **Q : Question ici ?**
-    **R :** Réponse ici, en paragraphe indenté.
+- **Q : Question ici ?**
+    **R :** Réponse ici, en paragraphe indenté.
 
 错误（A 又加了 bullet / 结构变了）：
 
@@ -118,7 +116,7 @@ node -e "const fs=require('fs');const p='src/content/games';const files=fs.readd
 
 ## 你应该避免的坑（别把项目拖进坟墓）
 
-- 不要“优化结构”/“重写排版”来追求好看：结构校验会直接打爆你。
+- 不要"优化结构"/"重写排版"来追求好看：结构校验会直接打爆你。
 - 不要提交 report JSON。
-- 不要在没跑 `npm run validate:i18n` 前就自信地说“搞定了”。
+- 不要在没跑 `npm run validate:i18n` 前就自信地说"搞定了"。
 - 任何看起来像模板残留/英文段落：翻成目标语言，但保持原本段落/列表形态。
