@@ -23,46 +23,31 @@ Google Snake modernise le classique Snake avec des visuels propres et plusieurs 
 
 ### Comment jouer
 
-- Planifie des trajectoires qui laissent toujours une voie de sortie ; ne t’enferme jamais toi‑même.
-- Utilise l’anneau extérieur pour les longues lignes droites, puis replonge vers le centre pour récupérer les fruits.
-- Adapte‑toi aux objets spéciaux et aux règles de mode activées par l’hébergeur.
+- Planifie des trajectoires qui laissent toujours une voie de sortie ; ne t'enferme jamais toi‑même.
+- Utilise l'anneau extérieur pour les longues lignes droites, puis replonge vers le centre pour récupérer les fruits.
+- Adapte‑toi aux objets spéciaux et aux règles de mode activées par l'hébergeur.
 
 ### Commandes
 
-- Flèches directionnelles ou `WASD` pour diriger le serpent.  
-- Pause / restart via l’interface.
+- Flèches directionnelles ou `WASD` pour diriger le serpent.
+- Pause / restart via l'interface.
+
+### Astuces
+
+- Ne fais pas de demi‑tour brutal à 180° sur ton propre corps — préfère les grands virages.
+- Garde ta queue droite autant que possible pour maximiser les options.
+- Quand la vitesse est élevée, anticipe tes virages une case à l'avance.
 
 ### Foire aux questions (FAQ)
 
 - Q : Comment éviter de foncer dans ma propre queue ?
-  
-  R : Garde une queue compacte avec des segments droits et évite les spirales trop serrées. Privilégie les grands arcs plutôt que les demi‑tours brutaux.
+
+  R : Garde une queue compacte avec des segments droits et évite les spirales trop serrées.
 
 - Q : Le jeu va‑t‑il plus vite avec le temps ?
-  
+
   R : Oui, la plupart des versions augmentent la vitesse à mesure que ton score monte.
 
 - Q : Y a‑t‑il plusieurs types de plateaux ?
-  
 
-- Q: How can I avoid running into my own tail?
-
-### Foire aux questions (FAQ)
-  R : Beaucoup d’hôtes proposent différentes tailles de grille, des obstacles et divers objets de bonus/malus.
-
-
-
-A: Many hosts offer sizes, obstacles, and item variants.
-
-- Q: Are there different board setups?
-
-A: Yes, most versions increase speed with score.
-
-- Q: Does the game get faster over time?
-
-
-A: Many hosts offer sizes, obstacles, and item variants.
-
-- Q: Are there different board setups?
-
-A: Yes, most versions increase speed with score.
+  R : Beaucoup d'hôtes proposent différentes tailles de grille, des obstacles et divers objets de bonus/malus.

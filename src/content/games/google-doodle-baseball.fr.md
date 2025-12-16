@@ -21,45 +21,30 @@ Google Doodle Baseball est un mini‑jeu de baseball où tu joues uniquement le 
 
 ### Comment jouer
 
-- Observe l’animation du lanceur et la vitesse de la balle ; déclenche ton swing lorsqu’elle arrive au marbre.
-- En avance ou en retard : un swing un peu en retard enverra la balle dans l’autre champ, alors qu’un swing légèrement en avance la « tire » de ton côté.
+- Observe l'animation du lanceur et la vitesse de la balle ; déclenche ton swing lorsqu'elle arrive au marbre.
+- En avance ou en retard : un swing un peu en retard enverra la balle dans l'autre champ, alors qu'un swing légèrement en avance la « tire » de ton côté.
 - Évite les balles trop hautes (pop‑ups) : privilégie les frappes tendues (line drives) qui trouvent plus facilement les espaces.
 
 ### Commandes
 
-- Clic / tap / barre d’espace pour frapper.
+- Clic / tap / barre d'espace pour frapper.
+
+### Astuces
+
+- Ne swings pas par anticipation : réagis au lancé et au placement de la balle.
+- Un contact légèrement en retard produit souvent des hits en opposite field qui passent les infielders.
+- Après un raté, recale ton rythme ; presser la cadence ne fait qu'enchaîner les erreurs.
 
 ### Foire aux questions (FAQ)
 
-- Q : Pourquoi mes frappes finissent‑elles souvent en fly attrapé ?
-  
-  R : Tu swings probablement trop tôt ou trop fort. Essaie de viser des frappes plus rasantes et d’ajuster ton timing.
+- Q : Comment frapper des home runs réguliers ?
 
-- Q : Puis‑je contrôler la direction de la balle ?
-  
-  R : Principalement via le timing : un peu en retard pour l’opposite field, un peu en avance pour tirer la balle.
+  R : Rencontre la balle légèrement devant, à hauteur de ceinture ; trop haut se transforme en fly facile à attraper.
 
-- Q : Y a‑t‑il différents types de lancers ?
-  
+- Q : La vitesse des lancers évolue‑t‑elle en cours de partie ?
 
-- Q: How do I hit consistent home runs?
+  R : Oui, les vitesses varient ; ajuste ton point de déclenchement en conséquence.
 
-### Foire aux questions (FAQ)
-  R : Oui, la vitesse et la trajectoire peuvent varier. Regarde bien la préparation du lanceur pour anticiper.
+- Q : Ma progression est‑elle sauvegardée ?
 
-
-
-A: Scores are typically local to the session.
-
-- Q: Is progress saved?
-
-A: Yes, speeds vary; adjust your trigger point.
-
-- Q: Does pitch speed change during play?
-
-
-A: Scores are typically local to the session.
-
-- Q: Is progress saved?
-
-A: Yes, speeds vary; adjust your trigger point.
+  R : En général, les scores sont locaux à la session.
