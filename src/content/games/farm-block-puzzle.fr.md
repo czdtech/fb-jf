@@ -23,33 +23,24 @@ Farm Block Puzzle est un jeu de réflexion relaxant et addictif basé sur la for
 
 ### Guide de jeu et stratégies
 
-1.  Planifie avec les pièces disponibles : le jeu te propose trois formes de blocs à la fois. Avant d’en poser une, vérifie toujours si tu as une place viable pour les deux autres, afin d’éviter de te retrouver bloqué avec une pièce impossible à caser.
-2.  Vise les combos : effacer une ligne, c’est bien ; en effacer plusieurs à la fois avec une seule pièce, c’est encore mieux. Ces « combos » rapportent beaucoup plus de points. Cherche toujours les situations où tu peux compléter deux lignes ou plus en même temps.
-3.  Garde le plateau propre : évite de laisser des trous isolés d’une seule case. Un plateau ouvert et dégagé te donne plus de flexibilité pour placer plus tard de grandes pièces ou des formes compliquées.
-4.  Pas de rotation : souviens‑toi que les blocs ne peuvent pas être tournés. Tu dois les utiliser dans l’orientation donnée, et c’est là que se trouve la vraie difficulté du puzzle.
+1.  Planifie avec les pièces disponibles : le jeu te propose trois formes de blocs à la fois. Avant d'en poser une, vérifie toujours si tu as une place viable pour les deux autres, afin d'éviter de te retrouver bloqué avec une pièce impossible à caser.
+2.  Vise les combos : effacer une ligne, c'est bien ; en effacer plusieurs à la fois avec une seule pièce, c'est encore mieux. Ces « combos » rapportent beaucoup plus de points. Cherche toujours les situations où tu peux compléter deux lignes ou plus en même temps.
+3.  Garde le plateau propre : évite de laisser des trous isolés d'une seule case. Un plateau ouvert et dégagé te donne plus de flexibilité pour placer plus tard de grandes pièces ou des formes compliquées.
+4.  Pas de rotation : souviens‑toi que les blocs ne peuvent pas être tournés. Tu dois les utiliser dans l'orientation donnée, et c'est là que se trouve la vraie difficulté du puzzle.
 
 ### Commandes
 
 Le jeu se joue entièrement au glisser‑déposer.
 
-- Placer des blocs : utilise ta souris ou ton doigt pour faire glisser une forme depuis la zone du bas, puis dépose‑la sur un emplacement libre de la grille 10x10.
+*   **Placer des blocs** : utilise ta souris ou ton doigt pour faire glisser une forme depuis la zone du bas, puis dépose‑la sur un emplacement libre de la grille 10x10.
 
 ### Foire aux questions (FAQ)
 
-- Q : Quel est l’objectif du jeu ?
-  
-  R : Marquer un maximum de points en plaçant des blocs pour compléter et effacer des lignes. La partie se termine lorsque tu ne peux plus placer aucune des trois formes proposées sur le plateau.
+*   **Q : Quel est l'objectif du jeu ?**
+    *   **R :** Marquer un maximum de points en plaçant des blocs pour compléter et effacer des lignes. La partie se termine lorsque tu ne peux plus placer aucune des trois formes proposées sur le plateau.
 
-    - Q : Puis‑je faire pivoter les blocs ?
-  
-  R : Non. Le défi vient justement du fait de devoir faire rentrer les pièces exactement dans l’orientation où elles apparaissent.
+*   **Q : Puis-je faire pivoter les blocs ?**
+    *   **R :** Non. Le défi vient justement du fait de devoir faire rentrer les pièces exactement dans l'orientation où elles apparaissent.
 
-- Q : Comment obtenir le meilleur score ?
-  
-
-    - **A:** By surviving as long as possible and by creating combos. Clearing multiple lines with a single piece gives a significant score bonus.
-
-- **Q: How do I get the highest score?**
-
-    - **A:** No. The challenge comes from fitting the pieces exactly as they are presented to you.
-  R : En survivant le plus longtemps possible et en enchaînant les combos. Effacer plusieurs lignes avec une seule pièce donne un gros bonus de points.
+*   **Q : Comment obtenir le meilleur score ?**
+    *   **R :** En survivant le plus longtemps possible et en enchaînant les combos. Effacer plusieurs lignes avec une seule pièce donne un gros bonus de points.
