@@ -16,62 +16,29 @@ score: 4.4/5  (2100 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
-### Ausführliche Spielbeschreibung
+### Detaillierte Spieleinführung
 
-Dice Puzzle ist ein cleveres, strategisches Puzzlespiel, das Logik mit einer
-Prise Glück verbindet. Dein Ziel ist es, Würfel auf einem 5x5-Gitter zu
-platzieren und sie so zu positionieren, dass gleiche Werte miteinander
-verschmelzen. Liegen mindestens drei benachbarte Würfel mit derselben Augenzahl
-nebeneinander, verbinden sie sich zu einem einzelnen Würfel mit der nächsthöheren
-Zahl. Das ultimative Ziel ist es, durch das Kombinieren von 6er-Würfeln
-spezielle Juwelenwürfel zu erzeugen, die das Spielfeld aufräumen und dir viele
-Punkte bringen. Die Partie endet, wenn kein Feld mehr frei ist und du keinen
-Würfel mehr setzen kannst.
+Dice Puzzle ist ein cleveres und strategisches Puzzle-Spiel, das Logik mit einem Hauch von Glück verbindet. Das Ziel ist es, Würfel auf einem 5×5-Gitter zu platzieren und sie zu verschmelzen, um höherwertige Würfel zu erstellen. Indem du drei oder mehr benachbarte Würfel mit derselben Zahl zusammenbringst, kombinierst du sie zu einem einzelnen Würfel mit der nächsthöheren Zahl. Das ultimative Ziel ist es, spezielle Juwelenwürfel zu erstellen, indem du Würfel mit der Zahl 6 verschmelzt, was hilft, das Brett zu räumen und einen hohen Punktestand zu erreichen. Das Spiel endet, wenn das Brett voll ist und du keinen Würfel mehr platzieren kannst.
 
-### Strategie & Tipps
+### Spielstrategie & Walkthrough
 
-1. **Die Merge-Regel verstehen:** Der Kern des Spiels ist das Kombinieren von
-   mindestens drei gleichen Würfeln, die horizontal oder vertikal
-   nebeneinanderliegen (Reihe oder Cluster). Sie werden automatisch zu einem
-   Würfel mit der nächsthöheren Zahl zusammengeführt (z.B. werden drei 4er zu
-   einem 5er).
-2. **Platzierungen planen:** Setze Würfel nicht einfach aufs erste freie Feld.
-   Schau dir das gesamte Brett an und platziere neue Würfel so, dass sie direkt
-   eine Dreierkombination bilden oder eine spätere Fusion vorbereiten.
-3. **Drehen für den perfekten Sitz:** Du kannst den Würfel vor dem Platzieren
-   drehen. Nutze das, um ihn ideal in eine Reihe oder Gruppe einzufügen und
-   eine Kombination auszulösen.
-4. **Auf den Juwelenwürfel hinarbeiten:** Das stärkste Manöver ist das
-   Verschmelzen von drei Würfeln mit der Augenzahl 6. Dadurch entsteht ein
-   spezieller Juwelenwürfel, der explodiert und ein 3x3-Feld um ihn herum
-   aufräumt – perfekt, um wieder Platz für neue Züge zu schaffen.
+1.  **Die Verschmelzungsregel:** Der Kern des Spiels ist das Zusammenbringen von drei oder mehr identischen Würfeln, die nebeneinander liegen (in einer Linie oder einem Cluster). Sie werden dann zu einem einzelnen Würfel mit der nächsten Zahl verschmelzen (z.B. werden drei '4er' zu einer '5').
+2.  **Platzierungen planen:** Platziere einen Würfel nicht einfach auf dem ersten verfügbaren Platz. Schau dir die vorhandenen Würfel auf dem Brett an und versuche, deinen neuen Würfel dort zu platzieren, wo er entweder ein Dreier-Set vervollständigen oder eine zukünftige Verschmelzung vorbereiten kann.
+3.  **Drehen für bessere Passform:** Du kannst den Würfel drehen, bevor du ihn platzierst. Nutze dies zu deinem Vorteil, um ihn perfekt für eine Verschmelzung zu positionieren.
+4.  **Auf den Juwelenwürfel zielen:** Der mächtigste Zug ist, drei Würfel mit der Zahl 6 zu verschmelzen. Dies erstellt einen speziellen Juwelenwürfel, der explodiert und einen 3×3-Bereich um ihn herum räumt. Dies ist entscheidend, um Platz auf dem Brett freizumachen und dein Spiel zu verlängern.
 
 ### Steuerung
 
-- **Würfel drehen:** Klicke auf den Würfel im Haltebereich, um ihn vor dem
-  Platzieren zu drehen.
-- **Würfel setzen:** Klicke auf ein freies Feld im 5x5-Gitter, um den aktuellen
-  Würfel dort abzulegen.
+*   **Würfel drehen:** Klicke auf den Würfel im Haltebereich, um ihn vor dem Platzieren zu drehen.
+*   **Würfel platzieren:** Klicke auf ein leeres Feld auf dem 5×5-Gitter, um den aktuellen Würfel zu platzieren.
 
-### Häufige Fragen (FAQ)
+### Häufig gestellte Fragen (FAQ)
 
-- **F: Wie verschmelzen Würfel?**  
-  **A:** Platziere mindestens drei Würfel mit derselben Augenzahl so, dass sie
-  sich horizontal oder vertikal berühren. Sie fusionieren automatisch zu einem
-  einzelnen Würfel mit einem höheren Wert.
+*   **F: Wie verschmelze ich Würfel?**
+    *   **A:** Platziere mindestens drei Würfel mit derselben Zahl so, dass sie sich horizontal oder vertikal berühren. Sie werden automatisch verschmelzen.
 
-    - **F: Was ist das Ziel des Spiels?**  
-  **A:** Du versuchst, so viele Punkte wie möglich zu erreichen, indem du
-  Würfel immer wieder kombinierst und Platz auf dem Brett freihältst. Das Spiel
-  endet, wenn kein Feld mehr frei ist.
+*   **F: Was ist das Ziel des Spiels?**
+    *   **A:** Das Ziel ist, den höchstmöglichen Punktestand zu erreichen, indem du so lange wie möglich überlebst. Du tust dies, indem du kontinuierlich Würfel verschmelzt und Platz räumst, um zu verhindern, dass das Brett sich füllt.
 
-- **F: Was passiert, wenn ich drei 6er-Würfel verschmelze?**  
-
-    - **A:** Merging three 6-dot dice creates a special jewel cube. On your next merge involving this jewel, it will trigger a small explosion, clearing the 3x3 area around it and giving you a large point bonus.
-
-- **Q: What happens when I merge three '6' dice?**
-
-    - **A:** The goal is to get the highest score possible by surviving as long as you can. You do this by continuously merging dice and clearing space to prevent the board from filling up.
-  **A:** Aus drei 6er-Würfeln entsteht ein spezieller Juwelenwürfel. Wird er in
-  eine weitere Kombination einbezogen, löst er eine Explosion aus, die ein
-  3x3-Gebiet um ihn herum leert und dir einen dicken Punktebonus beschert.
+*   **F: Was passiert, wenn ich drei '6er'-Würfel verschmelze?**
+    *   **A:** Das Verschmelzen von drei 6-Punkte-Würfeln erstellt einen speziellen Juwelenwürfel. Bei deiner nächsten Verschmelzung, die dieses Juwel einbezieht, wird es eine kleine Explosion auslösen, die den 3×3-Bereich um es herum räumt und dir einen großen Punktebonus gibt.

@@ -39,5 +39,6 @@ Sprunki Halloween ist ein Mod, in dem du deine musikalische Kreativität komplet
 - **Hoher Wiederspielwert:** Immer neue Figuren- und Soundkombinationen sorgen dafür, dass kaum zwei Tracks gleich klingen.
 
 
-- **Celebrate in Style:** A musical celebration of Halloween like no other.
+- **Stil feiern:** Ein musikalisches Halloween-Fest wie kein anderes.
+
 Sprunki Halloween ist damit ein musikalisches Halloween-Special, mit dem du dein eigenes Gruselsound-Set bauen kannst – egal, ob für ein Event, einen Stream oder einfach für deinen persönlichen Spook-Moment.

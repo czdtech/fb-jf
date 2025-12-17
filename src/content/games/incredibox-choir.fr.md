@@ -49,8 +49,8 @@ L’idée est de travailler les harmonies et les textures vocales plutôt que la
 
 ### Commandes
 
+Les commandes sont identiques au jeu Incredibox officiel.
 
-The controls are identical to the official Incredibox game, relying on simple mouse actions.
 - **Ajouter un son** : fais glisser une icône depuis la barre inférieure sur un chanteur.  
 - **Retirer / remplacer un son** : clique sur le « X » de l’icône ou dépose une autre icône sur le même personnage.  
 - **Mute / Unmute** : clique sur un personnage actif pour le couper, clique de nouveau pour le réactiver.  

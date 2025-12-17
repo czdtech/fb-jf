@@ -31,8 +31,7 @@ Wie im Vorbild geht es nicht darum, eine Lebensleiste auf null zu bringen, sonde
 
 ### Steuerung (Standardbelegung, frei anpassbar)
 
-
-Controls are fully customizable. A common default layout for Player 1 is:
+Die Steuerung ist vollständig anpassbar. Eine gängige Standardbelegung für Spieler 1 ist:
 - **Bewegen:** `A` / `D`
 - **Nach oben zielen:** `W`
 - **Ducken/Nach unten zielen:** `S`
@@ -51,7 +50,5 @@ Neuer Engine‑Unterbau, flüssigere Animationen, größerer und besser ausbalan
 **Kann ich mit Controller spielen?**  
 Ja, viele Controller werden unterstützt und können im Optionsmenü belegt werden.
 
-
-Yes, the development team at McLeodGaming continues to release updates, adding new characters, stages, and features to the game.
-
-**Is this game still being updated?**
+**Wird dieses Spiel noch aktualisiert?**  
+Ja, das Entwicklerteam bei McLeodGaming veröffentlicht weiterhin Updates, die neue Charaktere, Stages und Features zum Spiel hinzufügen.

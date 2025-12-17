@@ -17,28 +17,28 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### Présentation détaillée
 
-Jurassic Run est un runner infini rapide dans un décor de jungle et de dinosaures. Lis la piste à l’avance, change de voie ou saute/glisse pour éviter les pièges et récupère des pièces au fur et à mesure que la vitesse augmente.
+Jurassic Run est un runner infini rapide situé parmi les dinosaures et les obstacles de jungle. Lis la piste à l'avance, change de voie ou saute/glisse pour éviter les dangers, et enchaîne les collectes de pièces à mesure que la vitesse augmente.
 
 ### Stratégies de jeu
 
-1.  Regarde loin devant pour préparer tes changements de voie.  
-2.  Ignore les pièces risquées quand les passages sont trop serrés : mieux vaut une run plus longue qu’un crash pour une pièce.  
-3.  Mémorise les sets d’obstacles qui se répètent pour te placer à l’avance.  
-4.  À haute vitesse, privilégie de petits ajustements nets plutôt que de grands mouvements brusques.  
-5.  Garde boucliers / aimants pour les sections très chargées, si le jeu en propose.
+1.  Regarde loin devant pour planifier les changements de voie anticipés.
+2.  Saute les pièces risquées quand les passages sont serrés ; la sécurité garde les runs en vie.
+3.  Mémorise les sets d'obstacles qui se répètent pour te pré‑positionner.
+4.  Fais de petits mouvements précis aux vitesses élevées.
+5.  Garde les boucliers/aimants pour les sections denses si disponibles.
 
 ### Commandes
 
-- **Déplacement** : `A` / `D` ou flèches gauche/droite ; saut/glissade avec `Espace` / flèche haut et flèche bas.  
-- Pause / Retry via les boutons à l’écran.
+- Déplacement : A/D ou Gauche/Droite ; saut/glissade avec Espace/Haut et Bas.
+- Pause/Réessayer via l'interface à l'écran.
 
 ### FAQ
 
-- **Q : Je me fais toujours accrocher par les obstacles, pourquoi ?**  
-  R : Tu sautes généralement trop tôt ; décale légèrement ton timing et évite de trop sur‑corriger ta trajectoire.
+- **Q : Je me fais toujours accrocher — pourquoi ?**
+  R : Saute légèrement plus tard et évite de trop corriger ta trajectoire.
 
-- **Q : Le jeu a‑t‑il une fin ?**  
+- **Q : Y a‑t‑il une fin ?**
+  R : Généralement infini — chasse tes records personnels.
 
-- Power‑ups? Many versions include shields, magnets, or slow‑mo.
-  R : La plupart des versions sont infinies : tu joues pour battre ton record de distance/score.
-
+- **Q : Des power‑ups ?**
+  R : Beaucoup de versions incluent des boucliers, aimants ou ralentis.

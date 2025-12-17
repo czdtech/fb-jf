@@ -21,44 +21,32 @@ Onet Connect Classic reprend les principes des jeux Onet et des mahjongs de conn
 
 ### Stratégies de jeu et progression
 
-1.  **Commencer par l’extérieur :** les tuiles situées sur les bords ou près des coins sont souvent les plus faciles à connecter.  
-    - **Ne pas bloquer le centre :** essaye de dégager des couloirs qui traversent le plateau, pour que les chemins restent possibles jusque tard dans la partie.  
-    - **Utiliser les indices avec mesure :** un indice peut débloquer une situation, mais leur nombre est limité dans beaucoup de modes.  
-    - **Repérer les tuiles rares :** si un motif n’apparaît que deux fois, essaie de les connecter dès que possible pour éviter de te retrouver sans chemin.
+1.  **La règle de connexion :** tu ne peux supprimer une paire de tuiles identiques que si le chemin entre elles est libre et peut être tracé avec une ligne comportant **au maximum deux virages à 90 degrés**. Le chemin peut donc être :
+    *   Une ligne droite (zéro virage).
+    *   Une forme en « L » (un virage).
+    *   Une forme en « Z » ou « U » (deux virages).
 
+2.  **Commencer par l'extérieur :** les tuiles situées sur les bords ou près des coins sont souvent les plus faciles à connecter car elles ont plus d'espace libre autour d'elles.
+3.  **Anticiper :** quand tu élimines une paire, de nouveaux chemins s'ouvrent pour d'autres tuiles. Essaie de faire des correspondances qui libèrent les zones les plus critiques du plateau.
+4.  **Utiliser tes outils :** n'hésite pas à utiliser les indices et le mélange quand tu es bloqué.
+    *   **Indices :** le bouton d'indice te montre une correspondance valide possible.
+    *   **Mélange :** si tu n'as plus de coups possibles, le bouton de mélange réorganise les tuiles restantes et crée de nouvelles opportunités.
+5.  **Surveiller le chrono :** chaque niveau est limité en temps ; garde un rythme constant de paires pour éviter de manquer de temps.
 
-- **Race the Clock:** Each level is timed. Keep an eye on the timer and try to maintain a steady pace of matching to avoid running out of time.
-
-- **Shuffles:** If you run out of possible moves, the shuffle button will rearrange all the remaining tiles on the board, creating new opportunities.
-
-- **Hints:** The hint button will show you one possible valid match.
-
-    - **Use Your Tools:** Don't be afraid to use hints and shuffles when you get stuck.
-
-    - **Think Ahead:** When you clear a pair, it opens up new paths for other tiles. Try to make matches that will free up the most critical areas of the board, rather than just the first pair you see.
-
-- **Scan the Edges First:** The easiest matches to spot are usually around the perimeter of the board, as they have more open space around them. Start by scanning the edges for adjacent pairs or pairs that can be connected with a simple straight line.
 ### Commandes
 
+Le jeu se joue entièrement à la souris ou au toucher.
 
-The game is played entirely with the mouse or by tapping.
-- Clique ou touche deux tuiles identiques pour tenter de les relier. Si la connexion est valide, elles disparaissent et tu marques des points.
+*   **Sélectionner une tuile :** clique sur une tuile pour la sélectionner.
+*   **Connecter une paire :** clique sur une seconde tuile identique. Si le chemin entre elles est valide, les deux tuiles seront retirées du plateau.
 
-
-- **Connect Pair:** Click on a second, identical tile. If the path between them is valid, both tiles will be removed from the board.
 ### Foire aux questions (FAQ)
 
-- **Q : Pourquoi certaines paires évidentes ne fonctionnent‑elles pas ?**  
-  **R :** Il y a sûrement une autre tuile sur le chemin ou il faudrait plus de deux virages pour relier les deux tuiles.
+*   **Q : Pourquoi ne puis‑je pas connecter deux tuiles identiques ?**
+    *   **R :** Deux raisons possibles : 1) Le chemin entre elles est bloqué par une autre tuile, ou 2) Le chemin requis pour les connecter nécessiterait plus de deux virages à 90 degrés.
 
-    - **Q : Que faire si je n’ai plus de coup disponible ?**  
+*   **Q : Que se passe‑t‑il quand le temps est écoulé ?**
+    *   **R :** Si le chrono atteint zéro avant que tu aies vidé toutes les tuiles, tu perds le niveau et dois recommencer.
 
-- **A:** Usually, no, but you have a limited number of them. Use them when you are truly stuck to save valuable time.
-
-    - **Q: Is there a penalty for using hints?**
-
-- **A:** If the timer reaches zero before you have cleared all the tiles, you lose the level and will have to start over.
-
-    - **Q: What happens when I run out of time?**
-  **R :** Utilise le mélanger si la version en propose, ou recommence le niveau en faisant plus attention aux tuiles rares.
-
+*   **Q : Y a‑t‑il une pénalité pour utiliser les indices ?**
+    *   **R :** En général non, mais leur nombre est limité. Utilise‑les quand tu es vraiment bloqué pour gagner du temps précieux.

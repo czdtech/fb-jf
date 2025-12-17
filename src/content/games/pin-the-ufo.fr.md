@@ -2,7 +2,7 @@
 locale: fr
 urlstr: pin-the-ufo
 title: Pin the UFO
-description: "Pin the UFO est un puzzle «\_pull the pin\_»\_: retire les broches dans le bon ordre pour guider les petits aliens colorés jusqu’à leur vaisseau en évitant les bombes."
+description: "Pin the UFO est un puzzle «\_pull the pin\_»\_: retire les broches dans le bon ordre pour guider les petits aliens colorés jusqu'à leur vaisseau en évitant les bombes."
 iframeSrc: 'https://pintheufo.h5games.usercontent.goog/v/08ukqv01ac45o/'
 thumbnail: /new-images/pin-the-ufo.jpeg
 tags:
@@ -16,59 +16,41 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### Présentation du jeu
 
-Pin the UFO est un jeu de type « pull the pin » se déroulant dans l’espace. Chaque niveau contient des petits aliens enfermés derrière des broches, des bombes et des compartiments. Tu dois retirer les pins dans le bon ordre pour que les aliens se colorent, évitent les dangers et tombent en sécurité dans leur soucoupe en bas de l’écran.
+*Pin the UFO* est un jeu de puzzle « pull the pin » charmant et stratégique dans l'espace. L'objectif principal est de **guider en toute sécurité un groupe d'adorables « bébés » aliens colorés dans leur vaisseau UFO en bas de l'écran.**
 
+Chaque niveau consiste en un conteneur contenant les aliens, divisé par une série de broches amovibles. Le joueur doit analyser le puzzle et retirer les broches dans le bon ordre pour libérer les aliens et laisser la gravité faire le reste.
 
-The challenge lies in figuring out the precise sequence of pin-pulls to ensure all colorless aliens are colored, all hazards are avoided, and all aliens successfully reach the UFO.
+Le jeu introduit plusieurs mécaniques clés :
+*   **Propagation des couleurs :** certains aliens commencent incolores (blancs ou gris). Ils doivent entrer en contact avec les aliens colorés pour gagner leur couleur avant de pouvoir être collectés.
+*   **Obstacles :** les niveaux contiennent souvent des dangers comme des bombes ou des explosifs. Les aliens doivent être tenus à l'écart de ces dangers.
+*   **Physique :** le jeu est basé sur une physique simple. Tu dois comprendre comment les boules vont tomber, se mélanger et s'écouler une fois une broche retirée.
 
-- **Physics**: The game is based on simple physics. You must understand how the balls will fall, mix, and flow once a pin is removed.
+Le défi consiste à trouver la séquence précise de retraits de broches pour s'assurer que tous les aliens incolores sont colorés, tous les dangers sont évités, et tous les aliens atteignent avec succès l'UFO.
 
-- **Obstacles**: Levels often contain hazards like bombs or explosives. The aliens must be kept away from these dangers.
+### Stratégies de jeu et conseils
 
-- **Color Spreading**: Some aliens start off colorless (white or grey). They must come into contact with the colored aliens to gain color before they can be collected.
+1.  **Planifier avant de tirer :** c'est la règle la plus importante. Ne retire pas les broches au hasard. Prends un moment pour regarder toute la configuration et trace mentalement le chemin que les aliens vont prendre pour chaque retrait de broche possible.
+2.  **Colorer d'abord les aliens gris :** ta priorité principale dans la plupart des niveaux est de t'assurer que les aliens incolores se mélangent avec les colorés. Souvent, tu devras retirer une broche qui permet aux aliens colorés de tomber sur les incolores *avant* de tous les libérer vers la sortie.
+3.  **Isoler et neutraliser les bombes :** s'il y a des bombes, le puzzle consiste généralement à trouver un moyen soit de faire tomber les bombes dans une zone séparée et inoffensive, soit de libérer les aliens de manière à ce qu'ils contournent les bombes. Ne fais jamais tomber les aliens directement sur les bombes.
+4.  **L'ordre compte :** la séquence dans laquelle tu retires les broches est tout. Retirer la broche A avant la broche B peut mener au succès, tandis que retirer B avant A mène à l'échec. Pense à cela comme un cadenas à combinaison.
+5.  **Chercher les séparateurs :** certaines broches sont là juste pour garder les choses séparées (ex. bombes des aliens, aliens colorés des incolores). Comprends la fonction de chaque broche avant de la retirer.
 
-The game introduces several key mechanics:
-
-
-- **Physics**: The game is based on simple physics. You must understand how the balls will fall, mix, and flow once a pin is removed.
-
-- **Obstacles**: Levels often contain hazards like bombs or explosives. The aliens must be kept away from these dangers.
-
-- **Color Spreading**: Some aliens start off colorless (white or grey). They must come into contact with the colored aliens to gain color before they can be collected.
-Each level consists of a container holding the aliens, sectioned off by a series of movable pins. The player must analyze the puzzle and pull the pins out in the correct order to release the aliens and let gravity do the rest.
-### Stratégies de jeu et progression
-
-1.  **Analyser avant d’agir :** avant de retirer la moindre broche, visualise ce qui va tomber où et dans quel ordre.  
-2.  **Colorer d’abord :** laisse les aliens incolores rencontrer les aliens colorés avant de les envoyer vers le vaisseau.  
-3.  **Gérer les bombes :** décharge d’abord les explosifs dans une zone vide ou sur des obstacles, loin des aliens.  
-4.  **Exploiter la physique :** profite de la gravité et des pentes pour regrouper les aliens au bon endroit avant le dernier pin.
-
-
-- **Look for Separators**: Some pins are there just to keep things separate (e.g., bombs from aliens, colored aliens from colorless ones). Understand the function of each pin before you remove it.
 ### Commandes
 
+Les contrôles sont extrêmement simples et conçus pour le gameplay mobile à une touche.
 
-The controls are extremely simple and designed for one-touch mobile gameplay.
-- Clique sur les broches pour les retirer dans l’ordre souhaité.
+*   **Retirer une broche :** **clique et fais glisser** la broche que tu veux retirer hors de son emplacement. Alternativement, un simple **tap** sur l'extrémité de la broche fonctionne souvent aussi.
 
 ### Foire aux questions (FAQ)
 
-- **Q : Que se passe‑t‑il si une bombe touche les aliens ?**  
-  **R :** Le niveau est raté et tu dois recommencer.
+**1. Pourquoi ai‑je perdu le niveau ? Tous les aliens sont arrivés dans l'UFO !**
+Tu as probablement échoué à colorer tous les aliens incolores (gris/blancs). Seuls les aliens colorés comptent comme étant « sauvés » avec succès. Assure‑toi que chaque alien a été coloré avant d'entrer dans le vaisseau.
 
-- **Q : Y a‑t‑il une limite de temps ?**  
-  **R :** La plupart des niveaux ne sont pas chronométrés ; la difficulté vient surtout de la séquence des pins.
+**2. J'ai retiré une broche, et tout a explosé. Qu'ai‑je fait de mal ?**
+Tu as laissé les aliens entrer en contact avec une bombe. La solution à ces niveaux implique de trouver un moyen de se débarrasser des bombes d'abord, ou de guider les aliens sur un chemin qui les évite en toute sécurité.
 
+**3. Le niveau semble impossible. Que dois‑je faire ?**
+Chaque niveau a une solution spécifique. Si tu es bloqué, essaie de repenser l'ordre de tes retraits de broches. La solution est souvent contre‑intuitive. Envisage de retirer une broche qui ne semble pas mener directement à la sortie, mais qui prépare plutôt un meilleur flux pour les aliens.
 
-
-The goal is to successfully solve each puzzle level by getting all the colored aliens into the UFO, progressing through as many levels as possible.
-
-**4. What is the goal of the game?**
-
-Every level has a specific solution. If you are stuck, try to rethink the order of your pin-pulls. The solution is often counter-intuitive. Consider pulling a pin that doesn't seem to lead directly to the exit, but instead sets up a better flow for the aliens.
-
-**3. The level seems impossible. What should I do?**
-
-You allowed the aliens to come into contact with a bomb. The solution to these levels involves finding a way to get rid of the bombs first, or guiding the aliens along a path that safely avoids them.
-
-**2. I pulled a pin, and everything exploded. What did I do wrong?**
+**4. Quel est l'objectif du jeu ?**
+L'objectif est de résoudre avec succès chaque niveau de puzzle en faisant entrer tous les aliens colorés dans l'UFO, progressant à travers autant de niveaux que possible.

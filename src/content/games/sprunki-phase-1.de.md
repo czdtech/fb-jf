@@ -23,8 +23,8 @@ Die kräftigen Hintergründe und die detaillierten Figuren verleihen dem Ganzen 
 
 ### Wie spielst du Sprunki Phase 1?
 
+Einfacher geht es wirklich nicht:
 
-It seriously couldn't be easier!
 - **Crew auf die Bühne ziehen:** Wähle Figuren aus der Leiste und ziehe sie auf freie Slots.
 - **Sounds kombinieren:** Jede Figur steuert einen eigenen Loop bei. Probier Kombinationen durch, bis Beat, Melodie und Effekte für dich passen.
 - **Looks anpassen:** In Varianten mit Zubehör kannst du deinen Figuren verschiedene Accessoires geben.
@@ -36,11 +36,8 @@ It seriously couldn't be easier!
 - **Einfach & zugänglich:** Ideal, wenn du Sprunki gerade erst entdeckst oder etwas Leichtes zwischendurch möchtest.
 - **Kreativitäts-Booster:** Jede Session lädt dazu ein, neue Konstellationen zu testen und andere Klangbilder zu erschaffen.
 - **Audio-visuelles Paket:** Sound, Animation und Farbe greifen gut ineinander und machen das Basteln an Tracks sehr kurzweilig.
+- **Versteckte Goodies:** Probiere verschiedene Sound-Kombos aus! Vielleicht schaltest du geheime Bonustracks und exklusive Animationen frei!
 
+### Fazit
 
-
-- **Hidden Goodies:** Play around with different sound combos! You might just unlock secret bonus tracks and exclusive animations!
-### Let's Wrap It Up:
-
-- **Hidden Goodies:** Play around with different sound combos! You might just unlock secret bonus tracks and exclusive animations!
 Sprunki Phase 1 ist damit ein idealer Startpunkt ins Sprunki-Universum – sowohl für neue Spieler als auch für Fans, die die Wurzeln der Reihe fühlen wollen.

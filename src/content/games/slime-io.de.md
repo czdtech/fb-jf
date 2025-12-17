@@ -42,28 +42,20 @@ Slime.io ist ein 3D-Arcadespiel aus der beliebten .io-Reihe. Du startest als
 
 ### Steuerung
 
+Die Steuerung erfolgt per einfacher Ziehbewegung.
+
 *   **Bewegung:** Halte die linke Maustaste gedrückt (oder den Finger auf dem
     Touchscreen) und ziehe in die Richtung, in die sich dein Slime bewegen
-
-- **Move Slime:** Click and hold the left mouse button (or use your finger on a touch screen) and drag in the direction you want your slime to go.
     soll.
 
 ### Häufige Fragen (FAQ)
 
 *   **F: Wie werde ich schnell groß?**
-    **A:** Suche nach Objektansammlungen oder den Resten gerade gestorbener
-    Großschleime – dort liegen viele Punkte auf engem Raum.
-
-    - **F: Kann ich andere Spieler fressen?**
-    **A:** Ja, solange sie deutlich kleiner sind als du. Umgekehrt können dich
-    größere Slimes genauso verschlingen.
-
+    *   **A:** Suche nach Objektansammlungen oder den Resten gerade gestorbener
+        Großschleime – dort liegen viele Punkte auf engem Raum.
+*   **F: Kann ich andere Spieler fressen?**
+    *   **A:** Ja, solange sie deutlich kleiner sind als du. Umgekehrt können
+        dich größere Slimes genauso verschlingen.
 *   **F: Wie gewinne ich eine Runde?**
-
-    - **A:** The player with the highest score at the end of the round is declared the winner. Your score is based on how many objects and players you have absorbed.
-
-- **Q: How do I win?**
-
-    - **A:** Yes, you can absorb any other player's slime that is smaller than you. This is a great way to get a lot of points quickly. But be careful, as bigger players can do the same to you.
-    **A:** Indem du am Ende der Zeit den höchsten Punktestand hast – also mehr
-    Objekte und Spieler verschlungen hast als deine Konkurrenz.
+    *   **A:** Indem du am Ende der Zeit den höchsten Punktestand hast – also
+        mehr Objekte und Spieler verschlungen hast als deine Konkurrenz.

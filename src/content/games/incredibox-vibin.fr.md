@@ -15,94 +15,54 @@ releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 
-### Présentation du jeu
+### **Présentation du jeu Incredibox Vibin**
 
-*Incredibox Vibin* mise sur les ambiances cool : couleurs douces, personnages détendus et sons lo‑fi / chillhop. Le mod reprend le drag‑and‑drop classique d’Incredibox, mais oriente sa palette vers les **beats relax, les basses chaudes et les petites mélodies jazzy**.
+*Incredibox Vibin'* est un mod fan‑made populaire pour le jeu de création musicale Incredibox. Cette version se distingue par son esthétique **chill, détendue et cosy de lo‑fi hip‑hop**. Les personnages sont stylisés comme des figures cool et décontractées, capturant parfaitement l'ambiance « vibin' » suggérée par le titre.
 
+Le jeu utilise le gameplay classique de glisser‑déposer d'Incredibox. Les joueurs disposent de 20 icônes sonores uniques à assigner à une équipe de sept interprètes. La bibliothèque sonore est une collection soigneusement sélectionnée de sons conçus pour créer une atmosphère douce et nostalgique, avec **des beats de boîte à rythmes doux, des pads de synthé chauds, des mélodies douces et des samples vocaux smooth**.
 
-The objective is to provide a relaxing creative outlet while also offering a puzzle to solve. Players can mix and match sounds to create their perfect study/relaxing track. The puzzle element involves discovering the three specific combinations that unlock the secret animated bonuses, which are thematically designed to fit the cozy and introspective vibe of the mod.
+L'objectif est de fournir un exutoire créatif relaxant tout en offrant un puzzle à résoudre. Les joueurs peuvent mixer et assortir les sons pour créer leur piste d'étude/relaxation parfaite. L'élément puzzle consiste à découvrir les trois combinaisons spécifiques qui débloquent les bonus animés secrets, thématiquement conçus pour correspondre à l'ambiance cosy et introspective du mod.
 
-The game uses the classic Incredibox drag-and-drop gameplay. Players are given 20 unique sound icons to assign to a crew of seven performers. The sound library is a carefully curated collection of sounds designed to create a mellow and nostalgic atmosphere, featuring **soft drum machine beats, warm synth pads, gentle melodies, and smooth vocal samples**.
-### Stratégies de jeu et conseils
+### **Stratégies de jeu et conseils**
 
-1.  **Commence par un beat posé**  
-    Choisis un kick/snare simple avec un hi‑hat discret pour installer un groove tranquille.
+La stratégie dans *Incredibox Vibin'* consiste à superposer des textures et créer un groove smooth et non intrusif.
 
-2.  **Ajoute une basse ronde**  
-    Une basse douce et bien présente donne immédiatement le côté « vibin » au morceau.
+1.  **Comprends les catégories sonores Lo‑fi** :
+    *   **Beats** : Les rythmes sont le cœur du feeling lo‑fi. Attends‑toi à des **boucles de batterie** douces, des kicks souples, et souvent le son de **crépitement de vinyle** ou de souffle de bande pour donner une chaleur analogique.
+    *   **Effets** : Cette catégorie fournit l'atmosphère de base. Elle inclut des **pads de synthé chauds**, des accords de clavier doux, des sons ambiants de nature (comme la pluie), et d'autres samples nostalgiques qui créent un sentiment de calme.
+    *   **Mélodies** : Les mélodies sont généralement simples et émotionnelles. Cherche des sons comme des **boucles de piano électrique** jazzy (comme un Rhodes), des licks de guitare simples, ou des leads de synthé doux et mélancoliques.
+    *   **Voix** : Les voix en lo‑fi sont souvent utilisées comme un instrument. Cette catégorie présente des **chops vocaux**, des harmonies a cappella smooth, et des fredonnements mélodiques discrets.
 
-    - **Saupoudre de mélodies**  
-    Ajoute quelques accords de piano, guitares ou synthés doux, sans surcharger : laisse de l’air dans le mix.
+2.  **Crée la « vibe » d'abord** : Un excellent moyen de commencer est d'établir l'atmosphère. Combine un « Beat » doux avec un « Effet » chaud et soutenu (comme un pad de synthé). Cela crée le canvas parfait pour tes mélodies et voix.
 
-    - **Utilise les voix comme texture**  
+3.  **Embrasse la simplicité (moins c'est plus)** : Le lo‑fi hip‑hop est souvent caractérisé par ses arrangements minimalistes. Ne te sens pas obligé de remplir les sept emplacements. Parfois un simple beat, une ligne de basse, une boucle de piano et un sample vocal sont tout ce dont tu as besoin pour créer une piste relaxante parfaite.
 
-    - **Systematic Bonus Hunting**: To find the three secret bonuses, a methodical approach is best. Once you have a core groove you enjoy, try swapping out the remaining icons one by one until you trigger one of the cozy animated bonuses.
+4.  **Chasse aux bonus systématique** : Pour trouver les trois bonus secrets, une approche méthodique est la meilleure. Une fois que tu as un groove de base que tu apprécies, essaie de changer les icônes restantes une par une jusqu'à déclencher un des bonus animés cosy.
 
-    - **Embrace Simplicity (Less is More)**: Lo-fi hip-hop is often characterized by its minimalist arrangements. Don't feel the need to fill all seven slots. Sometimes a simple beat, a bassline, a piano loop, and a vocal sample are all you need to create a perfect, relaxing track.
+### **Guide des commandes**
 
-- **Create the "Vibe" First**: A great way to start is by establishing the atmosphere. Combine a soft "Beat" with a warm, sustained "Effect" (like a synth pad). This creates the perfect canvas for your melodies and vocals.
+Les commandes suivent l'interface intuitive de glisser‑déposer standard des jeux Incredibox officiels.
 
-- **Voices**: Vocals in lo-fi are often used as an instrument. This category features **chopped vocal samples**, smooth acapella harmonies, and quiet, melodic humming.
-
-- **Melodies**: The melodies are typically simple and emotional. Look for sounds like jazzy **electric piano loops** (like a Rhodes piano), simple guitar licks, or soft, melancholic synth leads.
-    Les voix, souvent murmurées ou chantées doucement, servent autant de texture que de mélodie principale.
-
-### Commandes
-
-Interface identique aux autres mods : glisser les icônes sur les personnages, mute/solo, enregistrement, etc.
-
-
-
-
-- **Record**: Click the **record button** to start and stop recording your chill creation.
-
-- **Solo**: Click the **small button** next to an active character to mute all other performers.
-
-- **Mute / Unmute**: **Click** on a performing character to mute them; click again to unmute.
-
-- **Remove a Sound**: Click the "X" on an active sound icon at the bottom, or drag a new sound onto an existing character to replace it.
-
-- **Add a Sound**: **Drag** a sound icon from the bottom and **drop** it onto one of the characters.
-Yes. If you're having trouble finding the combinations for the animations, a quick search for "*Incredibox Vibin' combos*" on YouTube will show you the solutions.
-
-**4. Are the bonus solutions for "Vibin'" available online?**
-
-Its popularity comes from its perfect execution of the lo-fi hip-hop theme, a massively popular music genre. It provides a uniquely relaxing and modern experience that resonates with many players looking for a chill creative outlet.
-
-**3. What makes the "Vibin'" mod so popular?**
-
-You will not find it on official platforms. Mods like *Vibin'* are typically hosted on game modding websites like **playfiddlebops.com** or showcased on YouTube, often with a link provided to play the mod directly in a web browser.
-
-**2. Where can I play this mod?**
-
-No. It is a **fan-made mod** created by MI. It is not affiliated with the official Incredibox team, So Far So Good.
-
-**1. Is *Incredibox Vibin'* an official version?**
+*   **Ajouter un son** : **Fais glisser** une icône sonore depuis le bas et **dépose‑la** sur un des personnages.
+*   **Retirer un son** : Clique sur le « X » d'une icône sonore active en bas, ou fais glisser un nouveau son sur un personnage existant pour le remplacer.
+*   **Mute / Unmute** : **Clique** sur un personnage qui joue pour le couper ; clique à nouveau pour le réactiver.
+*   **Solo** : Clique sur le **petit bouton** à côté d'un personnage actif pour couper tous les autres interprètes.
+*   **Enregistrer** : Clique sur le **bouton d'enregistrement** pour démarrer et arrêter l'enregistrement de ta création chill.
 
 ### **Foire aux questions (FAQ)**
 
+**1. *Incredibox Vibin'* est‑il une version officielle ?**
 
-Yes. If you're having trouble finding the combinations for the animations, a quick search for "*Incredibox Vibin' combos*" on YouTube will show you the solutions.
+Non. C'est un **mod fan‑made** créé par MI. Il n'est pas affilié à l'équipe officielle d'Incredibox, So Far So Good.
 
-**4. Are the bonus solutions for "Vibin'" available online?**
+**2. Où puis‑je jouer à ce mod ?**
 
-Its popularity comes from its perfect execution of the lo-fi hip-hop theme, a massively popular music genre. It provides a uniquely relaxing and modern experience that resonates with many players looking for a chill creative outlet.
+Tu ne le trouveras pas sur les plateformes officielles. Les mods comme *Vibin'* sont généralement hébergés sur des sites de modding comme **playfiddlebops.com** ou présentés sur YouTube, souvent avec un lien fourni pour jouer au mod directement dans un navigateur web.
 
-**3. What makes the "Vibin'" mod so popular?**
+**3. Qu'est‑ce qui rend le mod « Vibin' » si populaire ?**
 
-You will not find it on official platforms. Mods like *Vibin'* are typically hosted on game modding websites like **playfiddlebops.com** or showcased on YouTube, often with a link provided to play the mod directly in a web browser.
+Sa popularité vient de son exécution parfaite du thème lo‑fi hip‑hop, un genre musical massivement populaire. Il fournit une expérience uniquement relaxante et moderne qui résonne avec de nombreux joueurs cherchant un exutoire créatif chill.
 
-**2. Where can I play this mod?**
+**4. Les solutions des bonus pour « Vibin' » sont‑elles disponibles en ligne ?**
 
-No. It is a **fan-made mod** created by MI. It is not affiliated with the official Incredibox team, So Far So Good.
-
-**1. Is *Incredibox Vibin'* an official version?**
-- **Record**: Click the **record button** to start and stop recording your chill creation.
-
-- **Solo**: Click the **small button** next to an active character to mute all other performers.
-
-- **Mute / Unmute**: **Click** on a performing character to mute them; click again to unmute.
-
-- **Remove a Sound**: Click the "X" on an active sound icon at the bottom, or drag a new sound onto an existing character to replace it.
-
-- **Add a Sound**: **Drag** a sound icon from the bottom and **drop** it onto one of the characters.
+Oui. Si tu as du mal à trouver les combinaisons pour les animations, une recherche rapide de « *Incredibox Vibin' combos* » sur YouTube te montrera les solutions.

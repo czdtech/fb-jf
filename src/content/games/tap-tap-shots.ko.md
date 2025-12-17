@@ -36,14 +36,14 @@ Tap Tap Shots는 단순하고 미니멀한 룰이지만 중독성은 강한 아�
   만드는 것이 핵심입니다.
 - **콤보:**
 
-- **Timer:** After each successful shot, the timer resets, but if you miss, the game is over.
+- **타이머:** 슛에 성공할 때마다 타이머가 리셋되지만, 놓치면 게임이 종료됩니다.
   연속으로 골을 성공시키면 공이 불타오르는 연출과 함께 추가 점수를 얻을 수
   있습니다.
 
 ### 조작 방법 안내
 
 
-The controls are extremely simple:
+조작은 매우 간단합니다:
 - **PC:** 마우스 왼쪽 버튼 또는 스페이스바를 탭해 공을 튀깁니다.
 - **모바일:** 화면을 터치해 같은 방식으로 조작합니다.
 

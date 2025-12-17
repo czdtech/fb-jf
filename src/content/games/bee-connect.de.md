@@ -18,7 +18,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### Spielübersicht
 
-*Bee Connect* ist ein strategisches Zahlenspi el auf einem hexagonalen
+*Bee Connect* ist ein strategisches Zahlenspiel auf einem hexagonalen
 Bienenwaben‑Raster. Dein Ziel ist es, durch geschicktes Verschieben
 nummerierter Plättchen immer größere Zahlen zu erzeugen und dabei so lange wie
 möglich Platz auf dem Spielfeld zu behalten.

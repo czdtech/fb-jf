@@ -22,6 +22,8 @@ immer neue Kombinationen.
 
 ### So spielst du Sprunki Mountayonnaise
 
+Das Spielprinzip ist simpel und in wenigen Schritten erklärt:
+
 - **Soundeffekte ziehen & ablegen:** Ziehe Klang-Icons auf die einzelnen
   Charaktere, um ihnen jeweils einen eigenen Sound zuzuweisen.
 - **Sounds schichten:** Baue einen kompletten Track, indem du Beats, Vocals und
@@ -29,8 +31,6 @@ immer neue Kombinationen.
 - **Bonusse freischalten:** Bestimmte Kombinationen lösen versteckte
   Animationen oder Spezialeffekte aus.
 - **Live-Mixing:** Passe dein Stück jederzeit an – Sounds stummschalten,
-
-- **Real-Time Mixing:** Adjust your work at any time, mute, remove, or rearrange sounds to make your music more perfect.
   entfernen oder neu anordnen, bis der Mix für dich perfekt klingt.
 
 ### Tipps für bessere Mixes

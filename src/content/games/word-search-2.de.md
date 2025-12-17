@@ -17,40 +17,28 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### Detaillierte Spieleinführung
 
-Word Search ist ein klassisches Wortsuch‑Puzzle. Du bekommst eine Liste von Wörtern und ein Gitter voller Buchstaben. Jedes Wort ist irgendwo im Gitter versteckt – mal von links nach rechts, mal von oben nach unten, diagonal oder rückwärts. Deine Aufgabe ist es, alle Wörter zu finden und zu markieren.
+Word Search ist ein klassisches und beliebtes Worträtsel-Spiel. Das Ziel ist es, alle versteckten Wörter in einem Buchstabengitter zu finden und zu markieren. Eine Liste von Wörtern wird bereitgestellt, und Spieler müssen das Gitter durchsuchen, um sie zu finden. Die Wörter können horizontal, vertikal oder diagonal platziert sein und vorwärts oder rückwärts geschrieben sein, was es zu einer unterhaltsamen Herausforderung für deine Beobachtungsfähigkeiten macht.
 
 ### Spielstrategie & Walkthrough
 
-1. **Systematisch scannen:** Durchforste das Gitter Zeile für Zeile oder Spalte für Spalte, statt wahllos hin‑ und herzuschauen.
-2. **Auffällige Buchstaben nutzen:** Enthält ein gesuchtes Wort seltene Buchstaben wie J, Q, X oder Z, such zuerst gezielt nach diesen Buchstaben.
-3. **Alle Richtungen checken:** Sobald du den Anfangsbuchstaben gefunden hast, prüfe alle angrenzenden Felder in den acht möglichen Richtungen.
-4. **Hinweise nutzen:** Falls verfügbar, setze Hinweise nur bei den letzten, schwer auffindbaren Wörtern ein.
+1.  **Systematisch scannen:** Schau nicht einfach zufällig. Scanne das Gitter Zeile für Zeile, sowohl vorwärts als auch rückwärts, nach dem ersten Buchstaben eines Wortes auf deiner Liste. Dann mach dasselbe für jede Spalte.
+2.  **Auf ungewöhnliche Buchstaben achten:** Wenn ein Wort einen ungewöhnlichen Buchstaben wie J, Q, X oder Z hat, scanne das gesamte Gitter zuerst nach diesem Buchstaben. Da er seltener vorkommt, wird es die möglichen Orte für dieses Wort erheblich einschränken.
+3.  **Alle Richtungen prüfen:** Denk daran, dass Wörter in jeder der acht Richtungen versteckt sein können. Sobald du den ersten Buchstaben eines Wortes findest, prüfe alle angrenzenden Buchstaben, um zu sehen, ob sie das Wort in irgendeiner Richtung fortsetzen.
+4.  **Hinweise nutzen, wenn nötig:** Wenn du wirklich bei einem Wort feststeckst, scheue dich nicht, einen Hinweis zu nutzen, wenn das Spiel einen anbietet. Er wird normalerweise den Ort des gesuchten Wortes enthüllen.
 
 ### Steuerung
 
+Das Spiel wird mit einer einfachen Klick-und-Zieh-Bewegung gespielt.
 
-The game is played with a simple click-and-drag motion.
-- **Wort markieren:** Klicke auf den ersten Buchstaben, halte die Maustaste und ziehe bis zum letzten Buchstaben des Wortes; lass dann los, um die Markierung zu setzen.
+*   **Wort markieren:** Wenn du ein Wort findest, klicke auf den ersten Buchstaben, halte die Maustaste gedrückt und ziehe den Cursor zum letzten Buchstaben des Wortes. Lass die Taste los, um das Wort zu bestätigen.
 
-### Häufige Fragen (FAQ)
+### Häufig gestellte Fragen (FAQ)
 
+*   **F: Können Wörter rückwärts geschrieben sein?**
+    *   **A:** Ja. Wörter können vorwärts, rückwärts, nach oben, nach unten und in allen vier diagonalen Richtungen geschrieben sein.
 
-- **A:** No. If you highlight a selection of letters that is not a word on the list, it will simply un-highlight, and you can try again without penalty.
+*   **F: Wie gewinne ich das Spiel?**
+    *   **A:** Du gewinnst, indem du jedes einzelne Wort aus der bereitgestellten Liste findest und markierst.
 
-    - **Q: Is there a penalty for guessing wrong?**
-
-- **A:** You win by finding and highlighting every single word from the provided list.
-
-    - **Q: How do I win the game?**
-
-- **A:** Yes. Words can be spelled forwards, backwards, up, down, and in all four diagonal directions.
-
-    - **Q: Can words be spelled backwards?**
-**Können Wörter rückwärts geschrieben sein?**  
-Ja – sie können vorwärts, rückwärts, nach oben, nach unten oder diagonal verlaufen.
-
-**Wie gewinne ich?**  
-Indem du alle Wörter aus der Liste im Gitter findest und korrekt markierst.
-
-**Gibt es Strafen für falsche Markierungen?**  
-In den meisten Varianten nicht – eine falsche Auswahl wird einfach wieder aufgehoben und du versuchst es erneut.
+*   **F: Gibt es eine Strafe für falsches Raten?**
+    *   **A:** Nein. Wenn du eine Buchstabenauswahl markierst, die kein Wort auf der Liste ist, wird sie einfach wieder demarkiert, und du kannst es ohne Strafe erneut versuchen.

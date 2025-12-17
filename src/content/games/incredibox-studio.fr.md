@@ -3,7 +3,7 @@ locale: fr
 urlstr: incredibox-studio
 title: Incredibox Studio
 description: >-
-  Incredibox Studio est un jeu fan‑made inspiré d’Incredibox : un véritable
+  Incredibox Studio est un jeu fan‑made inspiré d'Incredibox : un véritable
   studio bac à sable, créé sous Scratch/TurboWarp, où tu composes librement tes
   propres mixes.
 iframeSrc: 'https://turbowarp.org/1013575298/embed'
@@ -15,45 +15,32 @@ score: 4.8/5 (1842 votes)
 releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
+### Présentation d'Incredibox Studio
 
-### Présentation du jeu
-
-Incredibox Studio est un projet fan‑made. Contrairement aux versions officielles, basées sur des sets de sons prédéfinis, cette version « Studio » offre une expérience de **bac à sable** : tu disposes d’un large éventail de sons et d’effets à faire glisser, déposer et mixer pour créer tes propres compositions à partir de zéro. C’est un terrain de jeu créatif pour les fans qui veulent explorer leurs idées musicales sans contrainte.
-
-### Conseils de création
-
-1.  **Construis une base solide**  
-    Commence par un beat et une ligne de basse pour servir d’ossature à ton morceau.
-
-    - **Superpose les sons**  
-    Ajoute petit à petit mélodies, harmonies et effets vocaux. Évite d’empiler trop de pistes d’un coup pour ne pas saturer le mix.
-
-    - **Expérimente**  
-    Le cœur du jeu, c’est l’essai‑erreur : teste différentes combinaisons, certains ensembles déclenchent même des animations ou effets spéciaux.
-
-    - **Utilise mute/solo**  
-
-    - **Use Mute/Solo**: Isolate specific tracks using the mute or solo buttons to fine-tune each part of your composition.
-    Isole certaines pistes pour les régler plus finement, puis réintègre‑les dans le mix global.
-
-### Commandes
-
-- **Ajouter un son** : fais glisser une icône depuis le panneau du bas sur un personnage.  
-    - **Retirer un son** : glisse l’icône en dehors du personnage ou utilise le bouton prévu.  
-    - **Mute / Solo** : clique sur les icônes de casque/haut‑parleur à côté d’un personnage pour le mettre en solo ou le couper.  
-    - **Enregistrer** : clique sur le bouton d’enregistrement (souvent un cercle rouge) en haut de l’écran pour démarrer ou arrêter la capture de ton mix.
+Incredibox Studio est un projet fan‑made. Contrairement aux versions officielles d'Incredibox, basées sur des sets de sons prédéfinis, cette version « Studio » offre une expérience de bac à sable. Les joueurs disposent d'un large éventail de sons et d'effets à faire glisser, déposer et mixer, leur permettant de créer leurs propres beats et compositions musicales uniques à partir de zéro. C'est un terrain de jeu créatif pour les fans du jeu original qui veulent explorer leurs propres idées musicales.
 
 
-    - **Record**: Click the record button (usually a red circle) at the top to start and stop recording your mix.
+### Stratégie de jeu / Conseils créatifs
+
+*   Comme c'est un bac à sable, la « stratégie » concerne la créativité.
+    1.  **Construis une fondation** : Commence par un beat solide et une ligne de basse. Cela fournit l'ossature de ta piste.
+    2.  **Superpose les sons** : Ajoute progressivement mélodies, harmonies et effets vocaux. N'ajoute pas trop de sons d'un coup, car ça peut devenir chaotique.
+    3.  **Expérimente** : La clé est d'expérimenter. Fais glisser différents sons pour voir ce qui fonctionne bien ensemble. Certaines combinaisons peuvent débloquer des animations spéciales ou des effets de chœur.
+    4.  **Utilise Mute/Solo** : Isole des pistes spécifiques en utilisant les boutons mute ou solo pour affiner chaque partie de ta composition.
+
+
+### Guide des commandes
+
+*   Le jeu se contrôle entièrement à la souris.
+    *   **Ajouter un son** : Fais glisser une icône depuis le panneau du bas et dépose‑la sur un des personnages.
+    *   **Retirer un son** : Fais glisser l'icône d'un personnage hors de lui.
+    *   **Mute/Solo** : Clique sur l'icône de casque ou haut‑parleur à côté d'un personnage pour le mettre en solo ou le couper.
+    *   **Enregistrer** : Clique sur le bouton d'enregistrement (généralement un cercle rouge) en haut pour démarrer et arrêter l'enregistrement de ton mix.
+
+
 ### Foire aux questions (FAQ)
 
-- **Q : Puis‑je sauvegarder les morceaux que je crée ?**  
-  R : Oui, la plupart des versions proposent un système d’enregistrement qui génère un fichier ou un lien partageable, à usage personnel et non commercial.
-
-    - **Q : Où jouer à Incredibox Studio ?**  
-
-- **A**: It is playable directly in a web browser via the provided playfiddlebops.com link.
-
-    - **Q: Where can I play it?**
-  R : Directement dans le navigateur via les liens fournis (par exemple via des pages Scratch/TurboWarp ou des sites comme playfiddlebops.com).
-
+*   **Q : Puis‑je sauvegarder la musique que je crée ?**
+    *   **R** : Oui, la plupart des versions ont une fonction d'enregistrement qui te permet de sauvegarder ton mix et fournit souvent un lien partageable. Cependant, la musique est uniquement pour un usage personnel et non commercial.
+*   **Q : Où puis‑je y jouer ?**
+    *   **R** : Il est jouable directement dans un navigateur web via le lien playfiddlebops.com fourni.

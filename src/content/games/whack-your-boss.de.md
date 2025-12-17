@@ -23,7 +23,7 @@ Whack Your Boss ist ein schwarzhumoriges, interaktives „Stressventil“. Du si
 ### Spielanleitung
 
 
-The gameplay is simple:
+Das Gameplay ist simpel:
 - **Umsehen:** Fahre mit der Maus über die Szene und suche nach Objekten, die sich als Waffe eignen könnten.
 - **Klicken:** Klickst du ein gültiges Objekt an, startet eine einzigartige Whack‑Animation.
 - **Alle Varianten finden:** Der Reiz des Spiels liegt darin, alle versteckten Methoden zu entdecken. Nach jeder Szene kehrst du in das Büro zurück.

@@ -19,9 +19,9 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ### Ausführliche Spielbeschreibung
 
 Pics Word Game ist ein Worträtsel, bei dem dir mehrere Bilder gezeigt werden
- und du ein einziges Wort finden musst, das sie alle miteinander verbindet. Es
- ist eine entspannte, aber knifflige Art, dein Vokabular und dein
- Kombinationsvermögen zu trainieren.
+und du ein einziges Wort finden musst, das sie alle miteinander verbindet. Es
+ist eine entspannte, aber knifflige Art, dein Vokabular und dein
+Kombinationsvermögen zu trainieren.
 
 ### Strategien & Spieltipps
 
@@ -42,14 +42,9 @@ Pics Word Game ist ein Worträtsel, bei dem dir mehrere Bilder gezeigt werden
 ### Häufige Fragen (FAQ)
 
 *   **F: Ich komme einfach nicht auf das Wort – was tun?**
-    **A:** Nutze Hinweise oder mach eine kurze Pause und schau später noch
-    einmal auf die Bilder. Ein frischer Blick hilft oft.
-
-    - **F: Wie bekomme ich mehr Münzen für Hinweise?**
-
-- **A:** You can usually earn coins by successfully completing levels. Some games also offer coins for watching ads.
-
-    - **Q: How can I get more coins for hints?**
-    **A:** In der Regel erhältst du Münzen, indem du Level erfolgreich
-    abschließt; manchmal kannst du sie auch durch das Ansehen von Werbeclips
-    verdienen.
+    *   **A:** Nutze Hinweise oder mach eine kurze Pause und schau später noch
+        einmal auf die Bilder. Ein frischer Blick hilft oft.
+*   **F: Wie bekomme ich mehr Münzen für Hinweise?**
+    *   **A:** Münzen erhältst du normalerweise, wenn du Level erfolgreich
+        abschließt. Manche Spiele bieten zusätzlich Münzen für das Ansehen von
+        Werbung.

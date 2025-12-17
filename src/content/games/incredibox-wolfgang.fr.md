@@ -15,95 +15,57 @@ releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 
-### Présentation du jeu
 
-*Incredibox Wolfgang* rend hommage à Mozart et aux grands compositeurs classiques. Les personnages deviennent des musiciens d’orchestre, et chaque icône déclenche des **cordes, bois, cuivres, percussions ou chœurs** inspirés de la musique symphonique.
+### **Présentation du jeu Incredibox « Wolfgang »**
 
+*Incredibox Wolfgang* est un mod fan‑made élégant et magistralement conçu pour le jeu de création musicale Incredibox. Cette version est un hommage à l'ère de la **musique classique**, fortement inspiré par les œuvres du légendaire compositeur, **Wolfgang Amadeus Mozart**.
 
-The objective is to allow players to create their own sophisticated classical pieces while also engaging in the puzzle of finding the three secret animated bonuses. These bonuses are beautifully animated vignettes that perfectly capture the grace and drama of the classical era.
+Le jeu transforme les beatboxers habituels en une troupe d'interprètes du 18e siècle, avec perruques poudrées et tenues formelles. Les joueurs utilisent l'interface classique de glisser‑déposer d'Incredibox pour composer avec une palette de 20 icônes sonores. La bibliothèque sonore est une expérience orchestrale et chorale complète, avec des sons de **clavecins, violons, violoncelles, percussions orchestrales et voix lyriques puissantes**.
 
-The game transforms the usual beatboxers into a troupe of 18th-century performers, complete with powdered wigs and formal attire. Players use the classic Incredibox drag-and-drop interface to compose with a palette of 20 sound icons. The sound library is a complete orchestral and choral experience, featuring sounds from **harpsichords, violins, cellos, orchestral percussion, and powerful operatic vocals**.
-### Stratégies de jeu et conseils
+L'objectif est de permettre aux joueurs de créer leurs propres pièces classiques sophistiquées tout en s'engageant dans le puzzle de trouver les trois bonus animés secrets. Ces bonus sont de magnifiques vignettes animées qui capturent parfaitement la grâce et le drame de l'ère classique.
 
-1.  **Pose la section rythmique légère**  
-    Même en classique, quelques timbales ou percussions discrètes peuvent structurer le tempo.
+### **Stratégies de jeu et conseils**
 
-2.  **Construis l’orchestre par familles**  
-    Ajoute d’abord les cordes (violons/altos/violoncelles), puis les bois, puis les cuivres pour les accents héroïques.
+La stratégie dans *Incredibox Wolfgang* consiste à comprendre l'arrangement classique et superposer les parties orchestrales pour créer une composition riche et harmonieuse.
 
-    - **Utilise les chœurs pour les moments forts**  
+1.  **Comprends les catégories sonores orchestrales** :
+    *   **Beats** : La section rythmique ici est la fondation de l'orchestre. Attends‑toi à trouver le pizzicato profond et rythmique d'un **violoncelle**, le boom puissant des **timbales**, et d'autres éléments percussifs fondamentaux.
+    *   **Effets** : Cette catégorie fournit le fond harmonique et textural. Elle inclut des sons comme les **arpèges de clavecin** fluides, les notes tenues des sections de cordes, et d'autres couleurs orchestrales ambiantes.
+    *   **Mélodies** : Ce sont les lignes mélodiques principales qui portent la mélodie. Cette catégorie présente les sons planants des **violons**, des passages de flûte élégants, et d'autres hooks instrumentaux lead.
+    *   **Voix** : Les voix sont purement lyriques. Cela inclut de puissants **arrangements choraux**, des voix solistes soprano et ténor, et des harmonies dramatiques qui donnent à la pièce son cœur humain et émotionnel.
 
-    - **Use Solo to Appreciate Each Part**: The instrumentation in this mod is very detailed. Use the "solo" function to isolate the violin or a solo singer to fully appreciate their individual performance and understand their role in the full ensemble.
+2.  **Construis ton orchestre depuis le sol** : Un bon moyen de composer est d'imiter la façon dont un orchestre est construit. Commence par la catégorie « Beats » pour poser une fondation rythmique et harmonique avec les violoncelles et les timbales.
 
-    - **Systematic Search for Bonuses**: The bonus combinations can be tricky to find. Lock in a core arrangement that sounds good, then methodically cycle through the remaining icons one by one. This is the most efficient way to unlock the elegant animations.
+3.  **Maîtrise le contrepoint et l'harmonie** : La musique classique est entièrement basée sur l'interaction des différentes mélodies et harmonies. Expérimente en superposant différentes icônes « Mélodie » et « Voix ». Certaines créeront de belles harmonies, d'autres peuvent se heurter. La découverte fait partie du plaisir.
 
-    - **Master Counterpoint and Harmony**: Classical music is all about how different melodies and harmonies interact. Experiment with layering different "Melody" and "Voice" icons on top of each other. Some will create beautiful harmonies, while others might clash. The discovery is part of the fun.
+4.  **Recherche systématique des bonus** : Les combinaisons de bonus peuvent être difficiles à trouver. Verrouille un arrangement de base qui sonne bien, puis parcours méthodiquement les icônes restantes une par une. C'est la façon la plus efficace de débloquer les élégantes animations.
 
-- **Build Your Orchestra from the Ground Up**: A good way to compose is to mimic how an orchestra is built. Start with the "Beats" category to lay down a rhythmic and harmonic foundation with the cellos and timpani.
+5.  **Utilise Solo pour apprécier chaque partie** : L'instrumentation dans ce mod est très détaillée. Utilise la fonction « solo » pour isoler le violon ou un chanteur soliste afin d'apprécier pleinement leur performance individuelle et comprendre leur rôle dans l'ensemble complet.
 
-- **Voices**: The vocals are purely operatic. This includes powerful **choral arrangements**, solo soprano and tenor voices, and dramatic harmonies that give the piece its human, emotional core.
+### **Guide des commandes**
 
-- **Melodies**: These are the main melodic lines that carry the tune. This category features the soaring sounds of **violins**, elegant flute passages, and other lead instrumental hooks.
+Les commandes suivent l'interface intuitive de glisser‑déposer standard des jeux Incredibox officiels.
 
-- **Effects**: This category provides the harmonic and textural background. It includes sounds like flowing **harpsichord arpeggios**, sustained notes from string sections, and other ambient orchestral colors.
-    Les voix chorales donnent un effet « final de symphonie ». Garde‑les pour les passages importants.
-
-### Commandes
-
-Même principe que les autres mods : fais glisser les icônes sur les musiciens, joue avec mute/solo, enregistre ta « symphonie » avec le bouton record.
-
-
-
-
-- **Record**: Click the **record button** to start and stop recording your classical masterpiece.
-
-- **Solo**: Click the **small button** next to an active character to mute all other performers.
-
-- **Mute / Unmute**: **Click** on a performing character to mute them; click again to unmute.
-
-- **Remove a Sound**: Click the "X" on an active sound icon at the bottom, or drag a new sound onto an existing character to replace it.
-
-- **Add a Sound**: **Drag** a sound icon from the bottom and **drop** it onto one of the performers.
-A: Yes. If you get stuck or simply want to see the animations, a quick search for "*Incredibox Wolfgang combos*" on YouTube will provide you with the exact combinations needed.
-
-**Q: Are the bonus solutions for "Wolfgang" available online?**
-
-A: Its popularity comes from its unique and flawlessly executed classical theme. It offers a completely different musical palette from any official version, providing a sophisticated and beautiful experience. The sheer quality of the music and art makes it a standout creation in the fan community.
-
-**Q: What makes the "Wolfgang" mod so special?**
-
-A: You will not find it on official platforms. Mods like *Wolfgang* are typically hosted on game modding websites like **playfiddlebops.com** or showcased on YouTube, often with a link provided to play the mod directly in a web browser.
-
-**Q: Where can I play this mod?**
-
-A: No. It is a very high-quality **fan-made mod** created by Gabsoares04. It is not affiliated with the official Incredibox team, So Far So Good.
-
-**Q: Is *Incredibox Wolfgang* an official version?**
+*   **Ajouter un son** : **Fais glisser** une icône sonore depuis le bas et **dépose‑la** sur un des interprètes.
+*   **Retirer un son** : Clique sur le « X » d'une icône sonore active en bas, ou fais glisser un nouveau son sur un personnage existant pour le remplacer.
+*   **Mute / Unmute** : **Clique** sur un personnage qui joue pour le couper ; clique à nouveau pour le réactiver.
+*   **Solo** : Clique sur le **petit bouton** à côté d'un personnage actif pour couper tous les autres interprètes.
+*   **Enregistrer** : Clique sur le **bouton d'enregistrement** pour démarrer et arrêter l'enregistrement de ton chef‑d'œuvre classique.
 
 ### **Foire aux questions (FAQ)**
 
+**Q : *Incredibox Wolfgang* est‑il une version officielle ?**
 
-A: Yes. If you get stuck or simply want to see the animations, a quick search for "*Incredibox Wolfgang combos*" on YouTube will provide you with the exact combinations needed.
+R : Non. C'est un **mod fan‑made** de très haute qualité créé par Gabsoares04. Il n'est pas affilié à l'équipe officielle d'Incredibox, So Far So Good.
 
-**Q: Are the bonus solutions for "Wolfgang" available online?**
+**Q : Où puis‑je jouer à ce mod ?**
 
-A: Its popularity comes from its unique and flawlessly executed classical theme. It offers a completely different musical palette from any official version, providing a sophisticated and beautiful experience. The sheer quality of the music and art makes it a standout creation in the fan community.
+R : Tu ne le trouveras pas sur les plateformes officielles. Les mods comme *Wolfgang* sont généralement hébergés sur des sites de modding comme **playfiddlebops.com** ou présentés sur YouTube, souvent avec un lien fourni pour jouer au mod directement dans un navigateur web.
 
-**Q: What makes the "Wolfgang" mod so special?**
+**Q : Qu'est‑ce qui rend le mod « Wolfgang » si spécial ?**
 
-A: You will not find it on official platforms. Mods like *Wolfgang* are typically hosted on game modding websites like **playfiddlebops.com** or showcased on YouTube, often with a link provided to play the mod directly in a web browser.
+R : Sa popularité vient de son thème classique unique et parfaitement exécuté. Il offre une palette musicale complètement différente de toute version officielle, fournissant une expérience sophistiquée et belle. La qualité pure de la musique et de l'art en fait une création remarquable dans la communauté de fans.
 
-**Q: Where can I play this mod?**
+**Q : Les solutions des bonus pour « Wolfgang » sont‑elles disponibles en ligne ?**
 
-A: No. It is a very high-quality **fan-made mod** created by Gabsoares04. It is not affiliated with the official Incredibox team, So Far So Good.
-
-**Q: Is *Incredibox Wolfgang* an official version?**
-- **Record**: Click the **record button** to start and stop recording your classical masterpiece.
-
-- **Solo**: Click the **small button** next to an active character to mute all other performers.
-
-- **Mute / Unmute**: **Click** on a performing character to mute them; click again to unmute.
-
-- **Remove a Sound**: Click the "X" on an active sound icon at the bottom, or drag a new sound onto an existing character to replace it.
-
-- **Add a Sound**: **Drag** a sound icon from the bottom and **drop** it onto one of the performers.
+R : Oui. Si tu es bloqué ou veux simplement voir les animations, une recherche rapide de « *Incredibox Wolfgang combos* » sur YouTube te fournira les combinaisons exactes nécessaires.

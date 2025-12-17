@@ -12,59 +12,32 @@ tags:
 score: 4.0/5  (212 votes)
 ---
 
-
-Envie de faire de la musique ultra mignonne tout en stimulant ta créativité ?
-Bienvenue dans Sprunki Babies ! Ce bac à sable musical te confie une bande
-de bébés Sprunki, chacun prêt à apporter sa petite touche sonore unique à
-tes morceaux. Pas besoin de connaître le solfège : juste de l’imagination et
-l’envie de t’amuser.
-
-### Sprunki Babies, c’est quoi au juste ?
-
-Imagine un terrain de jeu musical où les héros sont les versions bébé des
-personnages Sprunki qu’on connaît déjà. On retrouve le cœur de la série
-Sprunki, mais emballé dans un univers pastel et ultra cute. Et le mieux :
-tu peux y jouer gratuitement, sans achats in‑app, avec toutes les fonctions
-déjà disponibles.
-
-### Comment s’y mettre ?
-
-C’est très simple :
-
-- **Choisis tes bébés :** sélectionne tes préférés parmi une rangée de
-  personnages Sprunki version bébé.  
-- **Glisse‑les sur la scène :** dépose‑les sur les emplacements prévus, ils
-  se mettent aussitôt à chanter ou à jouer leur son.  
-- **Empile les sons :** ajoute autant de bébés que tu veux pour construire
-  des couches sonores. Teste différentes combinaisons pour obtenir des
-  berceuses chill ou des morceaux complètement déjantés.  
-- **Regarde‑les danser :** observe ces petits personnages remuer sur le
-
-- **Watch 'Em Dance:** See the little ones bob and weave to the beats you create – it's seriously therapeutic!
-  rythme que tu crées – c’est étonnamment relaxant.
-
+Envie de faire de la musique ultra mignonne tout en stimulant ta créativité ? Bienvenue dans Sprunki Babies ! Ce bac à sable musical te confie une bande de bébés Sprunki, chacun prêt à apporter sa petite touche sonore unique à tes morceaux. Pas besoin de connaître le solfège : juste de l'imagination et l'envie de t'amuser.
+ 
+### Sprunki Babies, c'est quoi au juste ?
+ 
+Imagine un terrain de jeu musical où les héros sont les versions bébé des personnages Sprunki qu'on connaît déjà. On retrouve le cœur de la série Sprunki, mais emballé dans un univers pastel et ultra cute. Et le mieux : tu peux y jouer gratuitement, sans achats in‑app, avec toutes les fonctions déjà disponibles.
+ 
+### Comment s'y mettre ?
+ 
+C'est très simple !
+ 
+ - **Choisis tes bébés :** sélectionne tes préférés parmi une rangée de personnages Sprunki version bébé.
+ - **Glisse‑les sur la scène :** dépose‑les sur les emplacements prévus à l'écran.
+ - **Laisse la musique jouer :** les bébés se mettent automatiquement à chanter ou à jouer leur son.
+ - **Empile les sons :** continue à ajouter des bébés pour créer des couches sonores riches.
+ - **Regarde‑les danser :** observe ces petits personnages remuer sur le rythme que tu crées – c'est étonnamment relaxant.
+ 
+ 
 ### Pourquoi Sprunki Babies est si attachant
-
-- **Cuteness max :** tous les Sprunki Babies sont pensés pour faire fondre
-  le cœur, avec des animations adorables et des looks de bébés.  
-- **Simplicité totale :** le drag‑and‑drop est ultra intuitif, parfait pour
-  les tout‑petits comme pour les adultes en quête de pause détente.  
-- **Parfait pour débuter :** aucun besoin de théorie musicale, tu crées des
-  sons sympas en expérimentant et en suivant ton instinct.  
-- **Anti‑stress :** voir ces bébés chanter et danser sur TA musique, c’est
-  une excellente façon de se détendre.  
-- **Créativité surprenante :** derrière la simplicité se cachent énormément
-  de combinaisons sonores et de possibilités de mix.
-
-### Quelques conseils
-
-- Commence par un **bébé rythmique** pour poser la base, puis ajoute des
-  **bébés mélodie** par‑dessus.  
-- Dose les **bébés effets** pour ne pas surcharger le morceau.  
-- Si le mix devient trop chaotique, vide la scène et reconstruis petit à
-  petit.
-
-Que tu veuilles te détendre après une longue journée ou juste profiter d’un
-moment de fun mignon et décalé, Sprunki Babies est une manière délicieuse
-de faire de la musique sans pression. À toi de voir quels morceaux adorables
-tu peux inventer !
+ 
+ - **Cuteness max :** tous les Sprunki Babies sont pensés pour faire fondre le cœur, avec des animations adorables et des looks de bébés. Rencontre des personnages comme Boom Box Billy qui balance des basses, Melody Mae qui atteint les notes aiguës parfaites, et Rhythm Ralph qui garde le tempo !
+ - **Simplicité totale :** le drag‑and‑drop est ultra intuitif, parfait pour les tout‑petits comme pour les adultes en quête de pause détente.
+ - **Parfait pour débuter :** aucun besoin de théorie musicale, tu crées des sons sympas en expérimentant et en suivant ton instinct. Ça ramène la joie pure de faire de la musique.
+ - **Anti‑stress :** voir ces bébés chanter et danser sur TA musique, c'est la façon parfaite de se relaxer et décompresser.
+ - **Créativité surprenante :** derrière la simplicité se cachent plus de 100 sons uniques de bébés et la possibilité de superposer jusqu'à 8 sons. De quoi créer des morceaux étonnamment complexes ! Tu peux même sauvegarder jusqu'à 10 de tes mixes préférés.
+ 
+ 
+### En résumé
+ 
+Sprunki Babies est un terrain de jeu musical délicieux et incroyablement créatif. Il brise les barrières traditionnelles de la création musicale, remplaçant la complexité par du fun intuitif et de l'interaction ludique. Que tu sois un enfant découvrant le rythme ou un adulte en quête d'évasion créative, Sprunki Babies a quelque chose de spécial à offrir. Prêt à composer ton prochain chef‑d'œuvre avec ces adorables Sprunki Babies ?

@@ -2,7 +2,7 @@
 locale: fr
 urlstr: poly-art
 title: Poly Art
-description: "Poly Art est un puzzle 3D relaxant\_: fais tourner un nuage de polygones colorés jusqu’à ce qu’il s’aligne et révèle une image complète."
+description: "Poly Art est un puzzle 3D relaxant\_: fais tourner un nuage de polygones colorés jusqu'à ce qu'il s'aligne et révèle une image complète."
 iframeSrc: 'https://polyart.h5games.usercontent.goog/v/47aiosp2dbqgg/'
 thumbnail: /new-images/poly-art.png
 tags:
@@ -16,35 +16,29 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### Présentation détaillée
 
-Poly Art (ou Poly Puzzle) est un jeu de puzzle 3D visuellement très apaisant. Chaque niveau commence par un amas de fragments colorés en apparence chaotique. En faisant tourner cet amas dans l’espace, tu dois trouver l’angle précis où tous les morceaux s’alignent pour former une illustration nette : animal, objet, personnage, etc.
+Poly Art (ou Poly Puzzle) est un jeu de puzzle 3D visuellement époustouflant et mentalement relaxant. Chaque niveau commence par ce qui semble être un amas chaotique de fragments colorés low‑poly. Le défi est de faire tourner ce groupe de polygones dans l'espace 3D pour trouver l'angle précis où les morceaux éparpillés s'alignent parfaitement, révélant une belle œuvre d'art reconnaissable, comme un animal, un objet ou un personnage. C'est un jeu de perception, de patience et de découverte.
 
 ### Stratégies de jeu et progression
 
-1.  **Tourner lentement :** évite de faire tourner la forme au hasard ; déplace‑la lentement dans une seule direction pour repérer l’ébauche d’une silhouette.  
-2.  **Chercher les contours :** à l’approche de la bonne orientation, tu verras apparaître des lignes cohérentes ; ajuste la rotation par petits à‑coups.  
-3.  **Changer d’axe :** si rien n’apparaît sur un axe, essaie un autre angle de vue ; l’image peut se révéler depuis une perspective inattendue.
+1.  **Tourner lentement et régulièrement :** ne fais pas de balayages sauvages. Fais tourner le puzzle lentement dans une direction (par ex. horizontalement) pour voir si des formes reconnaissables commencent à apparaître. Si tu vois l'ébauche d'une forme, continue à tourner prudemment autour de cet axe.
+2.  **Chercher les contours :** à l'approche de la solution, tu commenceras à voir le contour de l'image finale. Concentre‑toi sur ces lignes émergentes et ajuste légèrement la rotation pour les rendre nettes.
+3.  **Utiliser tous les axes :** rappelle‑toi que tu peux faire tourner le puzzle horizontalement et verticalement. Si tu bloques sur un axe, essaie une direction complètement différente. Parfois la solution est à un angle inattendu.
+4.  **Se détendre et profiter :** Poly Art n'est pas un jeu de vitesse. Il est conçu pour être une expérience apaisante et satisfaisante. Prends ton temps, profite des couleurs et des formes, et savoure le moment de découverte quand l'image se révèle enfin.
 
-
-- **Relax and Enjoy:** Poly Art is not a game about speed. It is designed to be a calming and satisfying experience. Take your time, enjoy the colors and shapes, and savor the moment of discovery when the image finally clicks into place.
 ### Commandes
 
+Les contrôles sont minimalistes et intuitifs.
 
-The controls are minimalistic and intuitive.
-- **PC :** clique‑glisse avec la souris pour faire tourner le nuage de polygones.  
-- **Mobile :** fais glisser ton doigt dans la direction souhaitée pour orienter la figure.
+*   **Faire tourner le puzzle (Bureau) :** clique et maintiens le bouton gauche de la souris, puis fais glisser vers la gauche, droite, haut ou bas pour faire tourner le groupe de polygones.
+*   **Faire tourner le puzzle (Mobile) :** balaye ton doigt sur l'écran dans n'importe quelle direction pour faire tourner le puzzle.
 
 ### Foire aux questions (FAQ)
 
-- **Q : Y a‑t‑il une limite de temps ?**  
+*   **Q : Quel est l'objectif du jeu ?**
+    *   **R :** L'objectif est de faire tourner la collection de fragments 3D jusqu'à ce qu'ils s'alignent pour former une image complète et reconnaissable.
 
-    - **A:** No. Poly Art games are designed to be stress-free. There are no time limits, scores, or penalties, allowing you to solve the puzzles at your own pace.
+*   **Q : Je suis bloqué et je ne vois pas l'image. Y a‑t‑il des indices ?**
+    *   **R :** De nombreuses versions de jeux Poly Art incluent un système d'indices. Si disponible, utiliser un indice peut faire tourner lentement le puzzle vers l'orientation correcte ou afficher brièvement l'image finale.
 
-- **Q: Is there a time limit or a penalty for wrong moves?**
-
-    - **A:** Many versions of Poly Art games include a hint system. If available, using a hint might slowly rotate the puzzle closer to the correct orientation or flash the final image for a second.
-
-- **Q: I'm stuck and can't see the image. Are there hints?**
-
-    - **A:** The objective is to rotate the collection of 3D shards until they align to form a complete and recognizable picture.
-  **R :** Non, Poly Art est pensé comme une expérience sans pression ; tu peux prendre tout ton temps.
-
+*   **Q : Y a‑t‑il une limite de temps ou une pénalité pour les mauvais mouvements ?**
+    *   **R :** Non. Les jeux Poly Art sont conçus pour être sans stress. Il n'y a pas de limites de temps, de scores ou de pénalités, te permettant de résoudre les puzzles à ton propre rythme.

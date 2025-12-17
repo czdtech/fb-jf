@@ -3,7 +3,7 @@ locale: fr
 urlstr: jewel-halloween
 title: Jewel Halloween
 description: >-
-  Jewel Halloween est un match‑3 sur le thème d’Halloween : citrouilles,
+  Jewel Halloween est un match‑3 sur le thème d'Halloween : citrouilles,
   fantômes et potions à aligner pour purifier le plateau avant la fin des coups.
 iframeSrc: 'https://jewelhalloween.h5games.usercontent.goog/v/0ir77cot09cog/'
 thumbnail: /new-images/jewel-halloween.png
@@ -15,35 +15,26 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-### Présentation
 
-Reprenant les mécaniques classiques de match‑3, Jewel Halloween y ajoute une ambiance citrouilles et fantômes. Chaque niveau propose des objectifs (casser des cases, faire tomber des objets, atteindre un score…) dans un nombre de coups limité.
+### Présentation détaillée
 
-### Stratégies
+Jewel Halloween est un match‑3 saisonnier. Échange des gemmes adjacentes pour faire des lignes de trois ou plus, génère des gemmes de pouvoir, et complète des objectifs comme les seuils de score, les coups limités, ou l'effacement d'obstacles.
 
-- Vise les alignements de 4 et 5 pour créer des bonus (bombes, lignes, etc.).  
-- Combine plusieurs bonus pour nettoyer de grandes zones.  
-- Concentre‑toi sur les cases maudites / bloquées en priorité.
+### Stratégies de jeu
 
-
-
-- Hints available? Often yes; use sparingly.
-
-- Are diagonals allowed? Usually no—follow mode rules.
-
-- Stuck on move limits? Focus on blockers and cascades rather than small matches.
-
-### Foire aux questions (FAQ)
-
-- Power‑ups: Activate by matching or tapping per rules.
-
-- Swap: Drag adjacent gems to swap.
+1.  Travaille depuis le bas pour déclencher des cascades.
+2.  Priorise les objectifs (ex : bloqueurs) plutôt que le score brut.
+3.  Combine les gemmes de pouvoir pour des effacements à l'échelle du plateau.
+4.  Planifie deux coups à l'avance pour éviter d'isoler des couleurs.
+5.  Garde les combos forts pour les objectifs serrés.
 
 ### Commandes
 
-- Save strong combos for tight goals.
+- Échange : Fais glisser des gemmes adjacentes pour les échanger.
+- Power‑ups : Active en alignant ou en tapant selon les règles.
 
-- Plan two moves ahead to avoid isolating colors.
+### Foire aux questions (FAQ)
 
-
-- Hints available? Often yes; use sparingly.
+- Bloqué sur les limites de coups ? Concentre‑toi sur les bloqueurs et les cascades plutôt que les petits alignements.
+- Les diagonales sont‑elles permises ? Généralement non — suis les règles du mode.
+- Des indices disponibles ? Souvent oui ; utilise‑les avec parcimonie.

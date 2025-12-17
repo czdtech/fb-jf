@@ -19,43 +19,29 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### Présentation détaillée
 
-Jewel Blocks est un puzzle simple en apparence mais très addictif qui met à l’épreuve ta vision spatiale. Le but est de marquer un maximum de points en plaçant des blocs en forme de joyaux sur une grille 10x10. Chaque ligne complète, horizontale ou verticale, est supprimée. La difficulté vient du fait que les blocs **ne peuvent pas être pivotés**, tu dois donc anticiper leurs placements pour éviter que la grille ne se bloque.
+Jewel Blocks est un jeu de puzzle trompeusement simple mais hautement addictif qui met au défi tes compétences de planification spatiale. L'objectif est de marquer autant de points que possible en plaçant diverses formes de blocs à thème joyaux sur une grille 10x10. Quand tu formes une ligne complète de blocs, horizontalement ou verticalement, la ligne est supprimée du plateau. Le principal défi réside dans le fait que les blocs ne peuvent pas être pivotés, donc tu dois réfléchir soigneusement au placement pour éviter que le plateau ne se remplisse.
 
 ### Stratégies de jeu
 
-1.  **Planifie plusieurs coups à l’avance**  
-    Tu vois toujours trois blocs à la fois. Avant d’en poser un, réfléchis à la manière dont les trois pourraient s’intégrer, et pas seulement au coup immédiat.
-
-2.  **Vise les combos**  
-    Effacer une seule ligne est bien, mais en effacer deux ou plus en un seul placement rapporte beaucoup plus de points. Cherche les opportunités de compléter plusieurs lignes croisées.
-
-3.  **Garde la grille ouverte**  
-    Évite de créer des cases isolées difficiles à remplir. Essaie de conserver de grandes zones libres pour accueillir des formes volumineuses.
-
-4.  **Prends ton temps**  
-    Il n’y a pas de limite de temps. Analyse calmement la grille et les pièces pour choisir le placement le plus rentable.
+1.  **Planifie à l'avance :** Tu reçois trois formes de blocs à la fois. Avant de placer le premier, considère comment les trois pourraient tenir sur le plateau. Ne te concentre pas seulement sur le placement immédiat ; pense à l'espace que tu laisses pour les pièces futures.
+2.  **Vise les combos :** Effacer une seule ligne c'est bien, mais effacer plusieurs lignes avec une seule pièce (un « combo ») rapporte significativement plus de points. Cherche toujours les opportunités de compléter deux lignes ou plus d'un coup.
+3.  **Garde le plateau ouvert :** Évite de créer des cases vides isolées, car elles peuvent être très difficiles à remplir. Essaie de garder ton plateau aussi ouvert et flexible que possible pour accueillir une grande variété de formes.
+4.  **Ne te précipite pas :** Il n'y a pas de limite de temps. Prends ton temps pour analyser les pièces et le plateau afin de trouver le placement optimal pour chaque bloc.
 
 ### Commandes
 
-Le jeu se joue entièrement en glisser‑déposer.
+Le jeu se joue avec une simple mécanique de glisser‑déposer.
 
-- **Sélectionner et placer** : utilise la souris ou ton doigt pour faire glisser un des trois blocs disponibles depuis le bas de l’écran vers la grille 10x10.  
-- **Poser** : relâche le clic ou ton doigt pour déposer le bloc à l’endroit surligné.
+*   **Sélectionner et placer :** Utilise ta souris ou ton doigt pour cliquer et faire glisser une des trois formes de blocs disponibles depuis le bas de l'écran vers la grille 10x10.
+*   **Relâcher :** Relâche le bouton de la souris ou ton doigt pour déposer le bloc dans l'espace surligné.
 
 ### Foire aux questions (FAQ)
 
-- **Q : Comment faire tourner les blocs ?**  
-  R : Impossible : l’absence de rotation fait partie du défi. Tu dois utiliser les formes telles qu’elles sont proposées.
+*   **Q : Comment faire pivoter les blocs ?**
+    *   **R :** Tu ne peux pas faire pivoter les blocs. C'est une règle fondamentale et le principal défi du jeu. Tu dois utiliser les formes exactement telles qu'elles te sont données.
 
-    - **Q : Quand la partie se termine‑t‑elle ?**  
-  R : Quand un nouveau trio de blocs est proposé et qu’aucun d’eux ne peut être placé légalement sur la grille.
+*   **Q : Comment la partie se termine‑t‑elle ?**
+    *   **R :** La partie se termine quand tu reçois un ensemble de trois blocs et qu'il n'y a pas d'espace légal sur la grille pour placer aucun d'entre eux.
 
-- **Q : Quelle est la meilleure stratégie pour scorer ?**  
-
-    - **A:** The key to a high score is longevity and combos. Survive as long as possible by keeping your board clean and open. Prioritize moves that clear multiple lines at once to get combo bonuses. For example, clearing two lines at once is worth more than clearing two separate lines in different moves.
-
-- **Q: What is the best strategy for a high score?**
-
-    - **A:** The game ends when you are given a set of three blocks and there is no legal space on the grid to place any of them.
-  R : Rester en vie le plus longtemps possible et viser les combos. Maintiens la grille propre, évite les trous isolés et privilégie les coups qui effacent plusieurs lignes à la fois.
-
+*   **Q : Quelle est la meilleure stratégie pour un score élevé ?**
+    *   **R :** La clé d'un score élevé est la longévité et les combos. Survis aussi longtemps que possible en gardant ton plateau propre et ouvert. Priorise les coups qui effacent plusieurs lignes d'un coup pour obtenir des bonus de combo. Par exemple, effacer deux lignes d'un coup vaut plus qu'effacer deux lignes séparées en différents coups.

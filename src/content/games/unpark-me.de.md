@@ -31,7 +31,7 @@ Unpark Me ist ein Schiebeblock‑Puzzle im „Parking Jam“-Stil. Auf einem vol
 ### Steuerung
 
 
-The game is played with simple drag-and-drop controls.
+Das Spiel wird mit einfacher Drag-and-Drop-Steuerung gespielt.
 - **Fahrzeug bewegen:** Klicke oder tippe ein Auto an und ziehe es entlang seiner Fahrtrichtung nach vorn oder hinten. Drehen oder seitlich schieben ist nicht möglich.
 
 ### Häufige Fragen (FAQ)

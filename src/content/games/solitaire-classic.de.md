@@ -43,20 +43,11 @@ Solitaire Classic, auch als Klondike bekannt, ist eines der bekanntesten und bel
 
 ### Häufig gestellte Fragen (FAQ)
 
-- **F: Was ist das Ziel des Spiels?**
-  
-  **A:** Du musst alle 52 Karten auf die vier Ablagestapel legen, nach Farbe sortiert und in Reihenfolge von Ass bis König.
+*   **F: Was ist das Ziel des Spiels?**
+    *   **A:** Du musst alle 52 Karten auf die vier Ablagestapel legen, nach Farbe sortiert und in Reihenfolge von Ass bis König.
 
-    - **F: Was passiert, wenn ich keine Züge mehr habe?**
-  
-  **A:** Wenn du weder auf dem Tableau noch auf den Ablagen weitere Züge machen kannst, musst du Karten vom Nachziehstapel ziehen. Sind auch dort alle Karten aufgedeckt und es gibt trotzdem keine möglichen Züge mehr, ist die Runde verloren.
+*   **F: Was passiert, wenn ich keine Züge mehr habe?**
+    *   **A:** Wenn du weder auf dem Tableau noch auf den Ablagen weitere Züge machen kannst, musst du Karten vom Nachziehstapel ziehen. Sind auch dort alle Karten aufgedeckt und es gibt trotzdem keine möglichen Züge mehr, ist die Runde verloren.
 
-- **F: Kann ich Karten von den Ablagestapeln zurück auf das Tableau legen?**
-  
-
-    - **A:** Yes, in most versions of the game, you can move the top card of a foundation pile back onto the tableau if it helps you uncover other cards. This is often a key strategic move.
-
-- **Q: Can I move cards back from the foundation to the tableau?**
-
-    - **A:** If you cannot make any more moves on the tableau or to the foundations, you must draw from the stock pile. If the stock pile is also empty and no moves are possible, the game is lost.
-  **A:** Ja, in den meisten Versionen kannst du die oberste Karte eines Ablagestapels zurück auf das Tableau legen, wenn dir das hilft, verdeckte Karten freizulegen. Das ist oft ein wichtiger strategischer Kniff.
+*   **F: Kann ich Karten von den Ablagestapeln zurück auf das Tableau legen?**
+    *   **A:** Ja, in den meisten Versionen kannst du die oberste Karte eines Ablagestapels zurück auf das Tableau legen, wenn dir das hilft, verdeckte Karten freizulegen. Das ist oft ein wichtiger strategischer Kniff.

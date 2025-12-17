@@ -29,7 +29,7 @@ Torschuss‑Timing zu üben.
 1.  **Steilpässe in den Lauf:** Spiele den Ball lieber in den freien Raum vor
 deinen Mitspieler als direkt auf den Fuß. So nimmst du Gegner aus dem Spiel und
 schaffst bessere Abschlusspositionen.
-2.  **Nah‑Pfosten vs. Fern‑Pfosten:** Varriere deine Abschlüsse. Schüsse auf den
+2.  **Nah‑Pfosten vs. Fern‑Pfosten:** Variiere deine Abschlüsse. Schüsse auf den
 fernen Pfosten, leicht angeschnitten, sind oft sicherer; wuchtige Nah‑Pfosten‑
 Schüsse können den Keeper bei spitzen Winkeln überraschen.
 3.  **Direkt abschließen:** Wenn Verteidiger schnell heranrücken, lohnt sich der

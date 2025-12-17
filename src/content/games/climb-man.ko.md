@@ -60,7 +60,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ### 조작 방법
 
 
-The controls are extremely simple, designed for fast-paced mobile gameplay.
+조작은 매우 간단하며 빠른 템포의 모바일 플레이에 맞게 설계되어 있습니다.
 -   **왼쪽 계단 오르기:** 화면 왼쪽 하단의 "Left Climb!" 버튼을 탭합니다.
 -   **오른쪽 계단 오르기:** 화면 오른쪽 하단의 "Right Climb!" 버튼을 탭합니다.
 

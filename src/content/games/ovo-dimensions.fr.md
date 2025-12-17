@@ -17,45 +17,32 @@ developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
-### Présentation détaillée
+### Présentation du jeu
 
-OvO Dimensions est un jeu de plateforme de précision basé sur l’élan et les mécaniques avancées : sauts muraux, glissades, rebonds et dashs te permettent de traverser les niveaux en un flow quasi continu. Chaque monde introduit de nouveaux types de plateformes (rebondissantes, glissantes, dangereuses) et des raccourcis pour les joueurs cherchant à faire du speedrun.
+OvO Dimensions est une extension de la série OvO, un platformer 2D extrêmement exigeant. Il introduit de nouvelles mécaniques et obstacles, nécessitant que les joueurs maîtrisent les sauts précis, les glissades murales et le contrôle de l'élan pour naviguer dans des niveaux complexes et atteindre les temps de passage les plus rapides. Le jeu maintient la haute difficulté de la série tout en offrant un design de niveaux plus riche et des expériences visuelles améliorées.
 
-### Stratégies de jeu et progression
+### Stratégies de jeu
 
-1.  **Maîtriser les bases :** entraîne‑toi à enchaîner sauts, glissades et rebonds sans t’arrêter ; le jeu récompense la fluidité.  
-2.  **Observer avant de foncer :** lors de ta première tentative, prends le temps de voir où sont les pièges et les plateformes clés.  
-3.  **Chercher les raccourcis :** en rejouant les niveaux, teste des lignes plus directes ou des enchaînements de sauts plus risqués pour gagner des secondes.  
-4.  **Utiliser l’inertie :** beaucoup de sauts reposent sur l’élan horizontal ; garde ta vitesse plutôt que de t’arrêter avant chaque obstacle.
+1.  **Se familiariser avec les nouvelles mécaniques :** comprends et adapte‑toi aux nouvelles mécaniques de saut, glissade ou interaction introduites dans le jeu.
+2.  **Contrôle précis :** chaque saut et action demande une précision extrême ; un léger faux pas peut mener à l'échec. Pratique fréquemment pour améliorer ta précision de mouvement.
+3.  **Utiliser l'élan :** lors des déplacements et sauts rapides, utilise intelligemment l'élan du personnage pour atteindre des plateformes plus éloignées ou traverser des espaces étroits.
+4.  **Mémoriser les plans des niveaux :** à travers de multiples tentatives, familiarise‑toi avec la disposition de chaque niveau et les caractéristiques des obstacles pour planifier l'itinéraire optimal.
+5.  **Viser la vitesse :** une fois les méthodes de base maîtrisées pour compléter les niveaux, optimise tes mouvements pour réaliser des temps de passage plus rapides.
 
+### Comment jouer
 
-- **Challenge Speed**: After mastering the basic methods of completing levels, try to optimize your operations to achieve faster clear times.
-### Commandes
+*   **Déplacement :** utilise les touches fléchées gauche/droite ou A/D pour contrôler le déplacement horizontal du personnage.
+*   **Saut :** utilise la touche flèche haut ou W pour sauter ; certains niveaux peuvent supporter le double saut ou les sauts multiples.
+*   **Glissade/Accroupissement :** utilise la touche flèche bas ou S pour glisser ou t'accroupir, passant à travers des passages bas ou esquivant des obstacles.
+*   **Saut mural :** quand le personnage touche un mur, appuyer sur la touche de saut permet un rebond mural ; des sauts muraux continus peuvent être utilisés pour grimper.
 
-- Déplacement : touches fléchées ou WASD.  
-- Saut, glissade et actions spéciales : touches expliquées dans l’écran d’aide (souvent barre d’espace et S/Flèche bas).
+### Foire aux questions
 
-
-- **Wall Jump**: When the character touches a wall, pressing the jump key allows for a wall jump; continuous wall jumps can be used to climb upwards.
-
-- **Slide/Crouch**: Use the down arrow key or S key to slide or crouch, passing through low passages or dodging obstacles.
-### Foire aux questions (FAQ)
-
-- **Q : Le jeu est‑il difficile pour un débutant ?**  
-  **R :** Les premiers niveaux restent abordables, mais la difficulté monte vite si tu vises les meilleurs temps.
-
-- **Q : Y a‑t‑il un système de chronos ou de médailles ?**  
-  **R :** Oui, la plupart des niveaux disposent de temps cibles à battre pour décrocher des récompenses.
-
-
-
-**A**: Many high-difficulty platformers have active player communities and online leaderboards where players can share experiences and compete for rankings.
-
-- **Q: Does the game have a community or leaderboards?**
-
-**A**: High-difficulty levels require more practice and patience. Try breaking down levels into smaller parts to practice, and watch playthrough videos from other players for inspiration.
-
-- **Q: How do I handle high-difficulty levels?**
-
-
-**A**: Many high-difficulty platformers have active player communities and online leaderboards where players can share experiences and compete for rankings.
+1.  **Q : Quelles sont les différences entre OvO Dimensions et OvO Game ?**
+    **R :** OvO Dimensions est une suite de la série, introduisant généralement de nouveaux designs de niveaux, mécaniques de jeu et obstacles plus difficiles, tout en améliorant potentiellement les effets visuels.
+2.  **Q : L'objectif du jeu est‑il de finir les niveaux rapidement ou de collecter des objets ?**
+    **R :** L'objectif principal du jeu est généralement de compléter les niveaux le plus vite possible, défiant les temps les plus rapides. Certains niveaux peuvent aussi inclure des collectibles optionnels.
+3.  **Q : Comment gérer les niveaux de haute difficulté ?**
+    **R :** Les niveaux difficiles demandent plus de pratique et de patience. Essaie de décomposer les niveaux en petites sections pour t'entraîner, et regarde des vidéos de gameplay d'autres joueurs pour t'inspirer.
+4.  **Q : Le jeu a‑t‑il une communauté ou des classements ?**
+    **R :** De nombreux platformers de haute difficulté ont des communautés actives et des classements en ligne où les joueurs partagent leurs expériences et se disputent les meilleures places.

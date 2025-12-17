@@ -15,55 +15,34 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+
 ### Présentation
 
-Kingdom Rush Frontiers reprend la formule du premier Kingdom Rush en l’étendant à des déserts, jungles et mondes extra‑terrestres. Tu y utilises toujours quatre familles de tours, des renforts à invoquer et des héros à contrôler pour arrêter les vagues ennemies.
+Frontiers affine la formule Kingdom Rush avec de nouveaux biomes, capacités ennemies et spécialisations de tours. Place des tours d'archers, casernes, mages et artillerie, puis oriente‑les vers des spécialités uniques. Appelle des renforts, lance des frappes spéciales de type météore, et micro ton héros pour boucher les fuites tout en gérant les compteurs armure/résistance magique.
 
-### Stratégies de base
+### Comment jouer
 
-1.  **Contrôle de chemin** : place des tours sur les carrefours pour frapper plusieurs routes.  
-2.  **Spécialisations** : adapte les branches de tours (anti‑air, anti‑armure, magie) aux types d’ennemis de la carte.  
-3.  **Héros mobile** : déplace ton héros pour boucher les trous dans ta défense ou retenir les boss.  
+- Identifie les types d'armure ; utilise les mages contre les ennemis blindés, archers/artillerie contre les essaims.
+- Positionne les casernes pour bloquer aux points d'étranglement ; soutiens avec splash ou magie.
+- Garde les compétences du héros et les frappes pour les vagues d'élite ou les rushes volants.
 
 ### Commandes
-4.  **Powers globaux** : garde les sorts de zone pour les situations de saturation.
 
+- Souris/tactile pour construire, améliorer et lancer ; les raccourcis varient selon l'hôte.
 
+### Astuces
 
-A: Not required but very helpful for stalling and finishing elites.
+- Ne surconstruis pas tôt — améliore les tours clés pour des dégâts efficaces.
+- Sépare splash et monocible pour gérer les vagues mixtes.
+- Repère les chemins de vol ; ajoute de l'anti‑aérien où nécessaire.
 
-- Q: Are heroes necessary to win?
+### FAQ
 
-A: Invest in mage lines and armor‑shredding skills.
+- **Q : Quelles améliorations de tours dois‑je prioriser ?**
+  R : Une ou deux tours principales au tier‑3/4 près du point d'étranglement principal battent beaucoup de petites tours.
 
-- Q: How do I counter heavy armor waves?
+- **Q : Comment contrer les vagues à armure lourde ?**
+  R : Investis dans les lignes de mages et les compétences de perforation d'armure.
 
-A: One or two core towers to tier‑3/4 near the main choke beat many small towers.
-
-- Q: Which tower upgrades should I prioritize?
-
-### Foire aux questions (FAQ)
-
-- Scout flying paths; add anti‑air where needed.
-
-- Split splash and single‑target to handle mixed waves.
-
-- Don’t overbuild early—upgrade key towers for efficient damage.
-
-### Tips
-
-
-A: Not required but very helpful for stalling and finishing elites.
-
-- Q: Are heroes necessary to win?
-
-A: Invest in mage lines and armor‑shredding skills.
-
-- Q: How do I counter heavy armor waves?
-
-A: One or two core towers to tier‑3/4 near the main choke beat many small towers.
-
-- Q: Which tower upgrades should I prioritize?
-
-
-A: Not required but very helpful for stalling and finishing elites.
+- **Q : Les héros sont‑ils nécessaires pour gagner ?**
+  R : Pas obligatoires mais très utiles pour bloquer et finir les élites.

@@ -24,13 +24,13 @@ Beatbox-Studio** – eine einfache Oberfläche, viele kreative Möglichkeiten.
 
 ### Wie spielt man Incredibox?
 
+Das Kernprinzip ist erfreulich einfach:
+
 - **Charaktere wählen:** Auf dem Bildschirm stehen mehrere Beatboxer, jeder
   steht für ein anderes Sound- oder Musikelement.
 - **Icons ziehen:** Ziehe die Symbole aus der Leiste auf die Figuren, um ihnen
   Loops zuzuweisen – Beats, Effekte, Melodien oder Vocals.
 - **Mix erstellen:** Probiere unterschiedliche Kombinationen aus, entdecke
-
-- **Create:** Feel free to try different combinations, discover unique beats, and create your own musical masterpiece!
   eigene Grooves und erzeuge deinen persönlichen Song.
 
 ---
@@ -65,6 +65,8 @@ Themen mit:
 
 ### Tipps für deinen Mix
 
+Mit ein paar Kniffen holst du mehr aus deinen Tracks heraus:
+
 - **Mut zur Kombination:** Teste wilde Mischungen – viele der besten Grooves
   entstehen zufällig.
 - **Auf Zusammenspiel achten:** Hör darauf, wie sich Beats, Melodien und Vocals
@@ -73,9 +75,9 @@ Themen mit:
   Schritt für Schritt.
 - **Repetition nutzen:** Wiederholte Muster erzeugen eingängige Hooks.
 - **Teilen:** Gefällt dir dein Track, nutze die Sharing-Funktionen (je nach
-
-### Conclusion:
   Version), um ihn mit anderen zu teilen.
+
+### Fazit
 
 Mit der leicht verständlichen Bedienung, dem starken Artstyle und den vielen
 Klangvarianten ist Incredibox ein idealer Einstieg ins Musizieren – egal, ob du

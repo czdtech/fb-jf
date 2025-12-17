@@ -13,68 +13,37 @@ score: 4.5/5  (2700 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
-
-
-
-
 ### Présentation du jeu
 
-Quest 21 est une aventure de cartes inspirée des règles classiques du
-Blackjack. Plutôt que de rester à une simple table de casino, tu parcours
-une carte remplie d’adversaires à affronter. Pour avancer, tu dois gagner
-des manches de 21 : ton total doit être plus proche de 21 que celui de ton
-adversaire sans jamais le dépasser. Le jeu mélange la part de chance de la
-pioche à des décisions simples mais stratégiques.
+Quest 21 est une aventure de cartes amusante et stratégique basée sur les règles du Blackjack classique. Au lieu de jouer simplement à une table de casino, tu te lances dans une quête, affrontant une série d'adversaires. Pour les vaincre et avancer, tu dois gagner des mains de 21. L'objectif dans chaque main est d'obtenir un total de cartes plus proche de 21 que ton adversaire sans le dépasser. Cela combine la chance du tirage avec des décisions simples mais stratégiques.
 
-### Stratégies de jeu
+### Stratégies de jeu et progression
 
-1.  **L’objectif :** obtenir une main dont le total est le plus près
-    possible de 21, sans le dépasser. Au‑delà de 21, c’est le « bust » et
-    tu perds automatiquement la manche.
-2.  **Valeur des cartes :**  
-    *   Les cartes de 2 à 10 valent leur valeur faciale.  
-    *   Les figures (Valet, Dame, Roi) valent 10.  
-    *   L’As est spécial : il peut valoir 1 ou 11 selon ce qui est le
-        plus avantageux pour ta main.
-3.  **Tirer ou rester ?** À ton tour, tu as deux choix principaux :  
-    *   **Tirer (Hit)** : prendre une carte supplémentaire pour te
-        rapprocher de 21.  
-    *   **Rester (Stand)** : conserver ta main actuelle et laisser la
-        main à l’adversaire.
-4.  **Stratégie de base :** une règle simple consiste à toujours tirer si
-    ta main vaut 11 ou moins. À partir de 17, il est généralement plus
-    prudent de rester, car le risque de dépasser 21 est élevé.
-5.  **Blackjack :** si tes deux premières cartes sont un As et une carte
-    valant 10, tu as un « Blackjack » et gagnes souvent la manche
-    immédiatement.
+1.  **L'objectif :** obtenir un total de main aussi proche de 21 que possible, sans le dépasser. Une main au‑dessus de 21 est un « bust » et une perte automatique.
+2.  **Valeur des cartes :**
+    *   Les cartes de 2 à 10 valent leur valeur faciale.
+    *   Les figures (Valet, Dame, Roi) valent chacune 10.
+    *   Les As sont spéciaux : ils peuvent valoir soit 1 soit 11, selon ce qui est le plus bénéfique pour ta main.
+3.  **Tirer ou rester ?** À ton tour, tu as deux choix principaux :
+    *   **Tirer (Hit) :** prendre une autre carte pour essayer de te rapprocher de 21.
+    *   **Rester (Stand) :** garder ta main actuelle et terminer ton tour.
+4.  **Stratégie de base :** une règle simple est de toujours « Tirer » si le total de ta main est de 11 ou moins. Si ta main est de 17 ou plus, il est généralement sage de « Rester », car le risque de bust est élevé.
+5.  **Blackjack :** si tes deux premières cartes sont un As et une carte valant 10, tu as un « Blackjack » et tu gagnes généralement la main instantanément.
 
 ### Commandes
 
-Le jeu se joue avec des boutons à l’écran.
+Le jeu se joue avec des boutons à l'écran.
 
-*   **Tirer (Hit) :** clique sur le bouton « Hit » pour recevoir une
-    nouvelle carte.  
-*   **Rester (Stand) :** clique sur « Stand » pour terminer ton tour et
-    laisser l’adversaire jouer.
+*   **Tirer (Hit) :** clique sur le bouton « Hit » pour recevoir une autre carte.
+*   **Rester (Stand) :** clique sur le bouton « Stand » pour terminer ton tour et voir ce que l'adversaire a.
 
 ### Foire aux questions (FAQ)
 
-*   **Q : Que signifie “bust” ?**  
-    R : Si tu prends une carte et que le total de ta main dépasse 21, tu
-    « bustes » et perds la manche immédiatement.
+*   **Q : Que signifie « bust » ?**
+    *   **R :** Si tu prends une carte et que le total de ta main dépasse 21, tu as « busté » et tu perds immédiatement la manche.
 
-    - **Q : Quand devrais‑je rester ?**  
-    R : Une stratégie prudente consiste à rester sur toute main de 17 ou
-    plus (un « 17 dur »). Pour les mains avec un As compté comme 11 (un
-    « 17 soft »), il est souvent acceptable de tirer.
+*   **Q : Quand devrais‑je rester ?**
+    *   **R :** Une stratégie sûre est de rester sur toute main valant 17 ou plus (un « 17 dur »). Pour les mains avec un As qui compte comme 11 (un « 17 soft »), il est souvent sûr de tirer.
 
-*   **Q : Que se passe‑t‑il en cas d’égalité ?**  
-
-    - **A:** A tie is called a "push." In most casual versions of the game, this simply means no one wins or loses the hand, and you move on to the next round.
-
-- **Q: What happens if there is a tie?**
-
-    - **A:** A safe strategy is to stand on any hand worth 17 or more (a "hard 17"). For hands with an Ace that counts as 11 (a "soft 17"), it is often safe to hit.
-    R : On parle alors de « push ». Dans la plupart des versions
-    décontractées, personne ne gagne ni ne perd, et vous passez simplement
-    à la manche suivante.
+*   **Q : Que se passe‑t‑il en cas d'égalité ?**
+    *   **R :** Une égalité s'appelle un « push ». Dans la plupart des versions décontractées du jeu, cela signifie simplement que personne ne gagne ni ne perd la main, et vous passez à la manche suivante.

@@ -26,15 +26,15 @@ releaseDate: 2025-10-17T00:00:00.000Z
 4.  **别让计时见底：** 在时间条即将耗尽时，优先求“先投进再说”，可以容忍命中不够好看，保证刷新时间更重要。
 
 
-- **Timer:** After each successful shot, the timer resets, but if you miss, the game is over.
+- **计时：** 每次投进后计时条会重置，但如果投丢，本局就结束。
 ### 操作说明
 
 
-The controls are extremely simple:
+操作非常简单：
 *   **点击 / 轻触：** 反复点击鼠标或轻触屏幕，使篮球不断向上弹起，点击频率决定球的上升高度。
 
 
-- **Mobile:** Tap the screen.
+- **移动端：** 轻触屏幕。
 ### 常见问题解答（FAQ）
 
 **问：必须连点才能投得更高吗？****
@@ -45,6 +45,6 @@ The controls are extremely simple:
 
 
 
-It's all about timing. Try to tap just as the ball reaches the peak of its bounce or starts to descend. This often gives you the most control for aiming at the hoop.
+关键全在时机。尽量在球弹到最高点或刚开始下落时点击，这通常能让你更好地控制出手并瞄准篮筐。
 
-**Is there a trick to aiming?**
+**瞄准有什么小技巧吗？**

@@ -17,55 +17,44 @@ releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 
-### Présentation du jeu
+### **Présentation du jeu Incredibox Piège Simulator**
 
-*Incredibox Piège Simulator* est un mod de la série « Simulator » consacré à la **trap moderne**. « Piège » signifie « trap » en français : tout est donc axé sur les kicks lourds, snares claquantes, hi‑hats mitraillettes et mélodies sombres.
+*Incredibox Piège Simulator* est un jeu fan‑made stylé et atmosphérique de la série « Simulator » des mods Incredibox. Le titre « Piège » est français pour **« Trap »**, ce qui décrit parfaitement l'orientation musicale du mod vers le genre moderne de la **musique Trap**.
 
-Tu joues sur une **grille de 20 icônes** colorées, que tu actives ou désactives pour construire ta boucle trap.
-
-### Stratégies de jeu et conseils
-
-1.  **Commence par la batterie**  
-    Active d’abord un kick lourd, une snare et une ligne de hi‑hat rapide pour poser le groove caractéristique de la trap.
-
-2.  **Ajoute une mélodie simple et sombre**  
-    Sur la base rythmique, choisis une mélodie répétitive aux notes graves ou mineures ; elle sert surtout à installer une ambiance.
-
-3.  **Gère la barre de boucle**  
-    La barre « LOOP » se remplit à mesure que tu actives des sons. Certaines combinaisons la remplissent plus vite : n’hésite pas à expérimenter.
-
-4.  **Crée des variations**  
-    En jouant avec l’activation / désactivation des icônes, tu peux simuler des couplets, refrains et breaks, comme dans un vrai morceau de trap.
-
-### Commandes
+Le jeu utilise l'**interface en grille** caractéristique des mods Simulator. Au lieu de faire glisser des icônes sur des personnages, les joueurs découvrent une grille de 20 icônes sonores, codées en couleurs dans des nuances de vert et bleu. L'objectif est de créer une boucle trap sombre et atmosphérique en cliquant sur ces icônes pour les activer ou désactiver.
 
 
-This mod uses the simple, click-based interface of the Simulator series.
-- **Activer / désactiver un son** : clique sur une icône de la grille pour l’allumer ou l’éteindre.  
-- **Contrôles principaux** : boutons Lecture, Enregistrement et Reset en haut à gauche.
+### **Stratégies de jeu et conseils**
 
+1.  **Commence par le rythme** : Pour créer un beat trap authentique, commence par les icônes bleues. Active un kick lourd, une snare et un pattern de hi‑hat rapide pour établir le groove de base.
 
-- **Reset Button**: Clears all active sounds from the grid, allowing you to start fresh.
+2.  **Superpose la mélodie** : Une fois ton beat établi, passe aux icônes vertes. Ajoute une mélodie simple, répétitive et souvent au son sombre. Dans la musique trap, la mélodie est souvent moins complexe que le rythme, servant à créer une ambiance.
 
-    - **Record Button**: Starts and stops the recording of your mix.
+3.  **Remplis la barre de boucle** : Ton objectif est de remplir la barre de progression « LOOP ». Cela s'accomplit en activant plus de sons. Expérimente différentes combinaisons pour voir comment elles affectent la progression et le ressenti global de la piste.
 
-    - **Play Button**: Toggles the entire loop on or off.
+4.  **Crée de la dynamique** : Utilise la nature clic‑on/clic‑off du simulator pour créer de la dynamique. Tu peux construire un beat, ajouter une mélodie pour créer un hook, puis désactiver des éléments pour créer un breakdown, imitant la structure d'une vraie chanson trap.
 
-    - **Main Controls (Top Left)**:
-### Foire aux questions (FAQ)
+### **Guide des commandes**
 
-- **Q : Pourquoi ce mod n’utilise‑t‑il pas le drag‑and‑drop classique ?**  
-  R : Les mods « Simulator » privilégient l’interface en grille, particulièrement adaptée aux genres électroniques comme la trap.
+Ce mod utilise l'interface simple basée sur les clics de la série Simulator.
 
-- **Q : Où jouer à Piège Simulator ?**  
-  R : Sur des sites de jeux, communautés de mods ou via des projets TurboWarp/Scratch partagés en ligne.
+*   **Activer / Désactiver un son** : **Clique** sur n'importe laquelle des 20 icônes sonores de la grille. Une icône activée sera mise en surbrillance, ajoutant son son à la boucle. Cliquer dessus à nouveau l'éteindra.
+*   **Combiner les sons** : Tu peux avoir plusieurs sons activés en même temps pour construire ta piste.
+*   **Commandes principales (en haut à gauche)** :
+    *   **Bouton Lecture** : Active ou désactive toute la boucle.
+    *   **Bouton Enregistrement** : Démarre et arrête l'enregistrement de ton mix.
+    *   **Bouton Reset** : Efface tous les sons actifs de la grille, te permettant de repartir de zéro.
 
+### **Foire aux questions (FAQ)**
 
+**1. Est‑ce un jeu Incredibox officiel ?**
 
-You will not find it on official platforms. These mods are typically shared on gaming sites like **Newgrounds**, modding communities like **playfiddlebops.com**, or showcased on YouTube with links to play them in a web browser.
+Non. La série « Simulator », y compris *Piège*, sont des **mods fan‑made** et ne sont pas affiliés aux créateurs officiels d'Incredibox, So Far So Good.
 
-**3. Where can I play this mod?**
+**2. Pourquoi le gameplay est‑il différent de l'original ?**
 
-The "Simulator" style is a creative choice by the modding community. Its grid-based interface is particularly well-suited for electronic genres like Trap, as it allows for the precise and complex layering of rhythmic elements.
+Le style « Simulator » est un choix créatif de la communauté de modding. Son interface en grille est particulièrement bien adaptée aux genres électroniques comme la Trap, car elle permet une superposition précise et complexe d'éléments rythmiques.
 
-**2. Why is the gameplay different from the original?**
+**3. Où puis‑je jouer à ce mod ?**
+
+Tu ne le trouveras pas sur les plateformes officielles. Ces mods sont généralement partagés sur des sites de jeux comme **Newgrounds**, des communautés de modding comme **playfiddlebops.com**, ou présentés sur YouTube avec des liens pour y jouer dans un navigateur web.

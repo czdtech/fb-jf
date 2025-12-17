@@ -15,71 +15,35 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Présentation
 
-Sur le même principe que Jewel Magic, cette version spécial Noël mise sur une ambiance hivernale : flocons, guirlandes et cadeaux à combiner pour remplir des objectifs.
+### Présentation détaillée
 
+Jewel Magic Xmas est un jeu de puzzle match‑3 festif et joyeux qui enveloppe l'expérience classique d'alignement de joyaux dans un thème de Noël ravissant. Les joueurs se retrouveront dans un pays des merveilles hivernal, échangeant des ornements colorés, des cannes à sucre et des clochettes. L'objectif est d'aligner trois objets festifs identiques ou plus pour compléter les objectifs de niveau, créer des combos puissants et répandre la joie des fêtes.
 
+### Stratégies de jeu
 
-    - **A:** If you don't complete the level's objective within the move limit, you will have to restart the level.
+1.  **Power‑ups festifs :** La clé pour nettoyer le plateau est de créer des objets spéciaux en alignant plus de trois ornements.
+    *   **Aligne 4 :** Crée un ornement qui nettoie une ligne ou colonne entière.
+    *   **Aligne 5 (en forme de L ou T) :** Crée un ornement Bombe qui explose dans une gerbe festive, nettoyant les objets environnants.
+    *   **Aligne 5 (en ligne) :** Crée un ornement multicolore spécial qui peut nettoyer tous les objets d'une seule couleur du plateau.
 
-- **Q: What happens if I run out of moves?**
-
-    - **A:** Swapping two of the "Match 5 in a line" special items together is the most powerful move, as it will clear every single item from the board.
-
-- **Q: What is the best combo?**
-
-    - **A:** You must make a match adjacent to an ice block to break it. Some may require multiple matches.
-
-- **Q: How do I break the frozen ice blocks?**
-
-### Foire aux questions (FAQ)
-
-- **Swap Ornaments:** Click and drag an ornament to swap it with an adjacent one. The swap will only work if it creates a valid match.
-
-
-    - **Work from the Bottom:** Making matches near the bottom of the board can create cascades, where new items fall and create automatic matches, helping you clear the level more efficiently.
-
-    - **Focus on the Level Goal:** Each level has a unique objective, like clearing all the snowy blocks or dropping presents to the bottom of the board. Concentrate your moves on achieving these goals before you run out of turns.
-
-    - **Combine for Holiday Magic:** For the biggest effects, swap two special power-ups with each other. This will trigger a powerful board-clearing combination, perfect for solving the toughest puzzles.
-
-- **Match 5 (in a line):** Creates a special multi-color ornament that can clear all items of a single color from the board.
-
-- **Match 5 (L or T shape):** Creates a Bomb ornament that explodes in a festive burst, clearing surrounding items.
-
-- **Match 4:** Creates a line-clearing ornament that zaps an entire row or column.
-The game is played with simple mouse or touch controls.
+2.  **Combine pour la magie des fêtes :** Pour les plus grands effets, échange deux power‑ups spéciaux l'un avec l'autre. Cela déclenchera une puissante combinaison de nettoyage du plateau, parfaite pour résoudre les puzzles les plus difficiles.
+3.  **Concentre‑toi sur l'objectif du niveau :** Chaque niveau a un objectif unique, comme nettoyer tous les blocs enneigés ou faire descendre des cadeaux vers le bas du plateau. Concentre tes coups sur l'atteinte de ces objectifs avant d'épuiser tes tours.
+4.  **Travaille par le bas :** Faire des alignements près du bas du plateau peut créer des cascades, où de nouveaux objets tombent et créent des alignements automatiques, t'aidant à nettoyer le niveau plus efficacement.
 
 ### Commandes
 
+Le jeu se joue avec de simples contrôles souris ou tactiles.
 
-The game is played with simple mouse or touch controls.
-- **Work from the Bottom:** Making matches near the bottom of the board can create cascades, where new items fall and create automatic matches, helping you clear the level more efficiently.
+*   **Échanger des ornements :** Clique et fais glisser un ornement pour l'échanger avec un adjacent. L'échange ne fonctionnera que s'il crée un alignement valide.
 
-- **Focus on the Level Goal:** Each level has a unique objective, like clearing all the snowy blocks or dropping presents to the bottom of the board. Concentrate your moves on achieving these goals before you run out of turns.
+### Foire aux questions (FAQ)
 
-- **Combine for Holiday Magic:** For the biggest effects, swap two special power-ups with each other. This will trigger a powerful board-clearing combination, perfect for solving the toughest puzzles.
+*   **Q : Comment casser les blocs de glace gelés ?**
+    *   **R :** Tu dois faire un alignement adjacent à un bloc de glace pour le casser. Certains peuvent nécessiter plusieurs alignements.
 
-    - **Match 5 (in a line):** Creates a special multi-color ornament that can clear all items of a single color from the board.
+*   **Q : Quel est le meilleur combo ?**
+    *   **R :** Échanger deux objets spéciaux « Aligne 5 en ligne » ensemble est le coup le plus puissant, car il nettoiera tous les objets du plateau.
 
-    - **Match 5 (L or T shape):** Creates a Bomb ornament that explodes in a festive burst, clearing surrounding items.
-
-    - **Match 4:** Creates a line-clearing ornament that zaps an entire row or column.
-
-- **Festive Power-ups:** The key to clearing the board is creating special items by matching more than three ornaments.
-
-### Guide de jeu
-
-
-- **A:** If you don't complete the level's objective within the move limit, you will have to restart the level.
-
-    - **Q: What happens if I run out of moves?**
-
-- **A:** Swapping two of the "Match 5 in a line" special items together is the most powerful move, as it will clear every single item from the board.
-
-    - **Q: What is the best combo?**
-
-- **A:** You must make a match adjacent to an ice block to break it. Some may require multiple matches.
-
-    - **Q: How do I break the frozen ice blocks?**
+*   **Q : Que se passe‑t‑il si je n'ai plus de coups ?**
+    *   **R :** Si tu ne complètes pas l'objectif du niveau dans la limite de coups, tu devras recommencer le niveau.

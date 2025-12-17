@@ -21,7 +21,9 @@ Sprunki Meets The Cat Spell basiert auf dem Mod "Sprunki Cats Game" und denkt di
 
 ### So spielst du Sprunki Meets The Cat Spell
 
-Der Mod funktioniert wie ein klassischer Sprunki-/Incredibox-Baukasten – nur eben im Cat-Theme:
+Der Sprunki Cats Mod übernimmt das beliebte Incredibox-Sprunki-Gameplay und verleiht ihm einen charmanten Twist, indem alle Charaktere mit Katzenohren und einem felinen Design neu interpretiert werden. Dieser Mod bietet 20 katzenthematische Sprunki-Charaktere, von denen jeder eigene Sounds, Vocals, Effekte und Beats zu deinen Musikkreationen beiträgt. 🐾🎨🎶
+
+Das Gameplay ist ganz einfach – in wenigen Schritten legst du los:
 
 - **Figuren auswählen:** Auf dem Bildschirm siehst du eine Reihe animierter Sprunki-Cat-Charaktere, die jeweils eine bestimmte Sound-Kategorie repräsentieren.
 - **Sounds per Drag & Drop zuweisen:** Ziehe Sound-Icons per Maus auf die Figuren. Jeder Slot aktiviert eine Loop – egal ob Beat, Melodie, Vocal oder Effekt.
@@ -33,14 +35,3 @@ Der Mod funktioniert wie ein klassischer Sprunki-/Incredibox-Baukasten – nur e
 Sprunki Meets The Cat Spell ist damit ein besonders verspielter Mod für alle, die Katzen, Musik und das typische Sprunki-Feeling verbinden möchten.
 
 
-- **Save and Share:** Once satisfied with your mix, use the game’s save or share feature to record your creation or share it with others.
-
-- **Unlock Bonuses (Optional):** Certain sound combinations may trigger special animations or bonus tracks—experiment to discover these hidden features.
-
-- **Experiment and Adjust:** Remove or swap sounds by dragging icons off characters or replacing them with new ones. Listen to how the layers interact and tweak them to create a cohesive mix.
-
-- **Layer Your Mix:** Add multiple characters to the stage, combining their sounds to build a layered musical track. You can have up to several characters active at once, depending on the mod’s design.
-
-- **Drag and Drop Sounds:** Using your mouse, drag sound icons from the bottom or side of the screen and drop them onto the characters. Each icon activates a sound loop that the character will perform.
-
-- **Select Characters:** You’ll see a lineup of unique, animated characters inspired by the Sprunki theme. Each character represents a specific sound category.

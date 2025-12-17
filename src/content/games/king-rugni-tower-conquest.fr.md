@@ -15,37 +15,30 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Présentation
+### Présentation détaillée
 
-King Rugni Tower Conquest est un tower defense plus compact que les grands classiques, mais qui reprend les mêmes principes : tu dois empêcher les ennemis d’atteindre la sortie en plaçant et améliorant des tours le long du chemin.
+King Rugni Tower Conquest est un tower defense épuré. Place et améliore des tours pour contrer des types d'ennemis variés, gère un or limité, et façonne les chemins (si possible) pour maximiser les zones de mort.
 
 ### Stratégies de jeu
 
-1.  **Couverture avant tout** : place tes tours de façon à couvrir de longs segments de route ou des points d’étranglement partagés.  
-2.  **Dégâts mixtes** : mélange tours monocible et tours à dégâts de zone pour gérer à la fois les hordes et les élites.  
-3.  **Améliorations précoces** : quelques tours bien améliorées valent souvent mieux qu’un grand nombre de tours de base.  
-4.  **Façonnage du chemin** : si le jeu le permet, allonge la route des ennemis en les forçant à traverser plusieurs zones de tir.  
-5.  **Économie** : évite de stocker trop d’or inutilement ; investis tôt pour profiter de la valeur cumulée.
-
-
-
-- Fast‑forward? Many versions include a speed toggle.
-
-- Best first tower? One that covers the longest segment; upgrade it early.
-
-- Leaks keep happening—fix? Add slow/aoe near exits and balance your damage types.
-
-### Foire aux questions (FAQ)
-
-- Start waves when ready; pause to plan.
-
-- Place/Upgrade/Sell towers via the UI.
+1.  Couverture d'abord : Place les tours pour couvrir les longs chemins et les points d'étranglement partagés.
+2.  Dégâts mixtes : Combine monocible et splash pour gérer les vagues et les élites.
+3.  Améliorations précoces : Quelques tours bien améliorées battent souvent beaucoup de tours faibles.
+4.  Façonnage du chemin : Si le routage existe, force des chemins plus longs à travers les zones de mort.
+5.  Économie : Ne stocke pas trop d'or — investis tôt pour une valeur composée.
 
 ### Commandes
 
+- Place/Améliore/Vends les tours via l'interface.
+- Lance les vagues quand tu es prêt ; mets en pause pour planifier.
 
-- Fast‑forward? Many versions include a speed toggle.
+### Foire aux questions (FAQ)
 
-- Best first tower? One that covers the longest segment; upgrade it early.
+- **Q : Des fuites n'arrêtent pas de se produire — comment corriger ?**
+  R : Ajoute du ralentissement/zone près des sorties et équilibre tes types de dégâts.
 
-- Leaks keep happening—fix? Add slow/aoe near exits and balance your damage types.
+- **Q : Meilleure première tour ?**
+  R : Celle qui couvre le plus long segment ; améliore‑la tôt.
+
+- **Q : Avance rapide ?**
+  R : Beaucoup de versions incluent un bouton de vitesse.

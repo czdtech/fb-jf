@@ -2,7 +2,7 @@
 locale: fr
 urlstr: only-up
 title: Only Up
-description: "Only Up est un jeu de parkour vertical exigeant\_: grimpe toujours plus haut en enchaînant sauts précis et plateforme instables, en sachant qu’une erreur peut te renvoyer très bas."
+description: "Only Up est un jeu de parkour vertical exigeant\_: grimpe toujours plus haut en enchaînant sauts précis et plateforme instables, en sachant qu'une erreur peut te renvoyer très bas."
 iframeSrc: 'https://1vl2u3h6ryctp.h5games.usercontent.goog/v/5qv76mlq1noto/'
 thumbnail: /new-images/only-up.jpg
 tags:
@@ -14,44 +14,32 @@ developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
-### Présentation détaillée
+### Présentation du jeu
 
-Only Up te met au défi de grimper aussi haut que possible dans une structure tridimensionnelle pleine d’objets flottants, de plateformes étroites et de passages risqués. Le principe est simple : il n’y a pas de checkpoints classiques, et une chute peut te faire perdre plusieurs minutes de progression. Le jeu met l’accent sur la précision des sauts, le contrôle de la caméra et la gestion du stress.
+Only Up est un platformer 3D extrêmement exigeant. L'objectif est de grimper continuellement dans un monde massif composé d'objets flottants, de bâtiments abandonnés et de structures étranges. Le jeu n'a pas de points de sauvegarde ; chaque erreur peut te faire chuter de grandes hauteurs et te forcer à repartir du début, ce qui met à l'épreuve ta précision et ta force mentale.
 
-### Stratégies de jeu et progression
+### Stratégies de jeu
 
-1.  **Ne pas se précipiter :** privilégie des sauts sûrs et contrôlés à des tentatives trop ambitieuses qui finissent en chute.  
-2.  **Maîtriser la caméra :** ajuste l’angle de vue avant chaque section difficile afin de bien voir la plateforme d’arrivée.  
-3.  **Mémoriser les routes :** après une chute, rappelle‑toi des trajectoires qui fonctionnaient et répète‑les calmement pour remonter plus vite.  
-4.  **Garder son sang‑froid :** plus tu montes, plus la peur de tomber devient forte ; respire et continue à appliquer les mêmes gestes précis qu’au début.
+1.  **Observation méticuleuse :** avant chaque saut, observe attentivement la position, la distance et le matériau de la prochaine plateforme, et planifie le meilleur itinéraire.
+2.  **Maîtriser le rythme des sauts :** différents objets peuvent nécessiter différentes forces et timings de saut ; familiarise‑toi avec la sensation de saut du personnage.
+3.  **Utiliser l'environnement :** certains sauts apparemment impossibles peuvent nécessiter d'utiliser de petits objets dans l'environnement pour s'aider, ou de trouver des chemins cachés.
+4.  **Garder son calme :** ne te décourage pas après plusieurs échecs ; rester calme aide à améliorer la stabilité et la précision de tes mouvements.
+5.  **Apprendre de l'expérience :** chaque chute est une occasion d'apprentissage ; retiens où tu as échoué pour éviter de répéter les mêmes erreurs.
 
+### Comment jouer
 
-- **Learn from Experience**: Every fall is an opportunity to learn; remember where you failed to avoid repeating mistakes.
-### Commandes
+*   **Déplacement :** utilise ZQSD ou les touches fléchées pour contrôler les déplacements du personnage.
+*   **Saut :** barre d'espace pour sauter.
+*   **Sprint :** certaines versions proposent une fonction de sprint, souvent combinée avec le saut pour des bonds plus longs (ex. Maj + Espace).
+*   **Contrôle de la caméra :** utilise la souris pour contrôler la caméra, permettant une meilleure observation des alentours et la planification de l'itinéraire.
 
-- Déplacement : ZQSD ou flèches.  
-- Saut et actions : touches dédiées selon la version (indiquées à l’écran).  
-- Caméra : souris ou joystick droit.
+### Foire aux questions
 
-
-- **Camera Control**: Use the mouse to control the camera, allowing for better observation of the surroundings and route planning.
-### Foire aux questions (FAQ)
-
-- **Q : Y a‑t‑il des sauvegardes de progression ?**  
-  **R :** Dans la plupart des versions, non ; le défi vient justement du fait que chaque chute a un vrai coût.
-
-- **Q : Le jeu est‑il purement skill‑based ?**  
-  **R :** Oui, il s’agit surtout de maîtrise des déplacements, même si connaître le chemin optimal aide beaucoup.
-
-
-
-**A**: This game is known for its high difficulty and might not be very beginner-friendly. However, with patience and perseverance, beginners can gradually master it through practice.
-
-- **Q: Is the game beginner-friendly?**
-
-**A**: The key lies in precise execution, careful observation, and patience. Don't rush; take each step steadily.
-
-- **Q: How can I avoid frequent falls?**
-
-
-**A**: This game is known for its high difficulty and might not be very beginner-friendly. However, with patience and perseverance, beginners can gradually master it through practice.
+1.  **Q : Le jeu a‑t‑il des points de sauvegarde ?**
+    **R :** L'un des défis fondamentaux de Only Up est l'absence de points de sauvegarde. Tu peux retomber au point de départ après chaque chute, ce qui t'oblige à relever le défi depuis le début.
+2.  **Q : Quel est l'objectif du jeu ?**
+    **R :** L'objectif est de surmonter tous les obstacles et de grimper continuellement pour atteindre le point le plus haut du monde.
+3.  **Q : Comment éviter les chutes fréquentes ?**
+    **R :** La clé réside dans l'exécution précise, l'observation attentive et la patience. Ne te précipite pas ; avance pas à pas de manière régulière.
+4.  **Q : Le jeu est‑il accessible aux débutants ?**
+    **R :** Ce jeu est réputé pour sa difficulté élevée et n'est pas très adapté aux débutants. Cependant, avec patience et persévérance, les novices peuvent progressivement le maîtriser grâce à la pratique.

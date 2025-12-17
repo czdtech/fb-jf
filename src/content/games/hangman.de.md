@@ -72,27 +72,17 @@ In der digitalen Version ist die Bedienung sehr einfach:
 Statistisch ist **E** einer der häufigsten Buchstaben. Danach bieten sich andere
 Vokale (A, O, I, U) und häufige Konsonanten (R, N, S, T) an.
 
-**2. Was macht ein Wort besonders schwer?**  
-
-- **Fjord, Gnat, Wry**: These words use uncommon letter combinations that are hard to deduce.
-
-- **Rhythm, Synth, Psych**: These words are difficult because they do not contain any of the standard A, E, I, O, U vowels, forcing players to guess 'Y'.
-
-- **Jazz**: It's short, which gives you fewer initial blanks, and uses two of the rarest letters, 'J' and 'Z'.
+**2. Was macht ein Wort besonders schwer?**
 Kurze Wörter mit seltenen Buchstaben oder ohne klassische Vokale sind schwierig.
-Beispiele sind Wörter mit viel "Y" oder ungewöhnlichen Kombinationen, bei denen
+*   **Jazz:** Sehr kurz und nutzt zwei der seltensten Buchstaben, J und Z.
+*   **Rhythm, Synth:** Enthalten keine klassischen Vokale (A, E, I, O, U) und zwingen dich, Y zu raten.
+*   **Fjord, Gnat:** Ungewöhnliche Buchstabenkombinationen, bei denen Muster schwer zu erkennen sind.
 
-- **Deductive Reasoning**: You use logic to deduce the next best guess based on the available information.
-
-- **Spelling**: You learn and reinforce correct spelling patterns.
-
-- **Vocabulary**: You are exposed to new words.
-Muster schwer zu erkennen sind.
-
-**3. Was lerne ich durch Hangman?**  
-Hangman trainiert deinen **Wortschatz**, deine **Rechtschreibung** und deine
-**logische Kombinationsfähigkeit**, weil du aus teilweisen Informationen
-schließen musst, welche Buchstaben noch sinnvoll sind.
+**3. Was lerne ich durch Hangman?**
+Hangman ist ein hervorragendes Lernwerkzeug:
+*   **Wortschatz:** Du wirst mit neuen Wörtern konfrontiert.
+*   **Rechtschreibung:** Du lernst und festigst korrekte Schreibmuster.
+*   **Logisches Denken:** Du nutzt Schlussfolgerungen, um den nächsten besten Tipp abzuleiten.
 
 **4. Was passiert bei einem falschen Buchstaben?**  
 Für jeden falschen Versuch wird ein weiterer Teil der Strichfigur gezeichnet –

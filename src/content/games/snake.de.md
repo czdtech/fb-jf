@@ -34,17 +34,12 @@ Die Mechanik ist simpel: Lenke die Schlange zum Futter, ohne dich selbst
 
 ### Steuerung
 
+Die Steuerung ist einfach und intuitiv:
 - **Pfeiltasten:** Steuere die Schlange mit Oben, Unten, Links, Rechts.
 - **WASD:** In vielen Versionen kannst du alternativ `W`, `A`, `S`, `D` nutzen.
 - **Pause:** Häufig pausierst du das Spiel mit der Leertaste (abhängig von der
   konkreten Variante).
 
-
-- **Pause:** The `Spacebar` can often be used to pause and resume the game.
-
-- **WASD Keys:** Many versions also support `W`, `A`, `S`, and `D` as an alternative for movement.
-
-- **Arrow Keys:** Use the Up, Down,Left, and Right arrow keys to direct the snake.
 ### Häufige Fragen (FAQ)
 
 **Was ist das Hauptziel von Snake?**

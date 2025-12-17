@@ -35,5 +35,6 @@ Sprunki Mustard ist mehr als ein einfacher Farbfilter. In diesem Mod sind alle F
 Fans der Incredibox-/Sprunki-Reihe finden sich sofort zurecht: Figuren auswählen, auf die Bühne ziehen, zuhören, mischen, entfernen – fertig. So entsteht ohne komplizierte Steuerung ein ungewöhnlich düsterer Sprunki-Mix.
 
 
-### Why Play Sprunki Mustard?
+### Warum Sprunki Mustard spielen?
+
 Sprunki Mustard richtet sich an Spieler, die den gewohnten Sprunki-Stil mögen, aber Lust auf eine deutlich schrägere, „verdorbene“ Version der bekannten Formel haben.

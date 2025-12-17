@@ -16,97 +16,54 @@ releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 
-### Présentation du jeu
+### **Présentation du jeu Incredibox Rave**
 
-*Incredibox Rave* est un mod fan‑made très visuel qui t’embarque en pleine boîte de nuit : gros haut‑parleurs, boule disco, spots colorés et silhouettes en néon façon DJs et clubbers.
+*Incredibox Rave* est un mod fan‑made visuellement frappant pour le jeu de création musicale Incredibox. Cette version transporte les joueurs directement dans l'atmosphère énergique d'une **rave ou d'une boîte de nuit**, complète avec de grandes enceintes, une boule disco et des spots dynamiques. Les personnages sont stylisés comme des silhouettes ou des figures aux contours néon, ressemblant à des DJs et des clubbers.
 
-Tu disposes de 20 icônes abstraites (carrés, cercles, triangles, lèvres) à assigner aux sept personnages pour composer des tracks d’**electronic dance music** : techno, house, disco, etc.
+Le jeu utilise le gameplay classique de glisser‑déposer d'Incredibox. Les joueurs disposent d'une palette de 20 icônes sonores, représentées par des formes géométriques abstraites et des lèvres stylisées. En assignant ces icônes aux sept interprètes, les joueurs peuvent composer leurs propres pistes haute énergie inspirées de divers genres de **musique électronique dance (EDM), comme la techno, la house et le disco**.
 
-### Stratégies de jeu et conseils
+### **Stratégies de jeu et conseils**
 
-1.  **Comprends la palette électronique**  
-    - **Carrés (Beats)** : boîtes à rythmes, kicks, snares et hi‑hats qui forment la base rythmique.  
-    - **Cercles (Effets/Basses)** : basses synthé, pads et textures de fond.  
-    - **Triangles (Mélodies)** : leads, arpèges, riffs accrocheurs.  
-    - **Lèvres (Voix)** : samples vocaux traités, ad‑libs, chops mélodiques.
+La stratégie dans *Incredibox Rave* consiste à superposer les différents éléments électroniques pour construire une piste qui pourrait être jouée dans un vrai club.
 
-2.  **Pose un « four‑on‑the‑floor »**  
-    Commence par un kick régulier (4 temps) et un pattern de hi‑hat pour obtenir un rythme dansant.
+1.  **Comprends la palette sonore électronique** : Les icônes abstraites peuvent être groupées en quatre catégories standard selon leur fonction.
+    *   **Beats (Carrés)** : Les icônes en forme de carrés sont ta fondation rythmique. Attends‑toi à des **patterns de boîte à rythmes** entraînants, kicks électroniques, snares et hi‑hats.
+    *   **Effets (Cercles)** : Les icônes circulaires fournissent les éléments atmosphériques et de basse. Cela inclut des **lignes de basse synthé** profondes, des pads ambiants et d'autres textures qui remplissent le paysage sonore.
+    *   **Mélodies (Triangles)** : Les icônes triangulaires sont tes hooks et riffs principaux. Elles représentent des **mélodies de synthé lead**, des arpèges accrocheurs et d'autres motifs mélodiques qui définissent la mélodie de la piste.
+    *   **Voix (Lèvres)** : Les icônes en forme de lèvres sont les éléments vocaux. Cherche des **samples vocaux traités**, des ad‑libs et des chops vocaux mélodiques courants dans la musique électronique.
 
-3.  **Construis le groove**  
-    Ajoute une basse qui colle au kick, puis une nappe pour remplir l’espace, avant de placer un lead ou une voix.
+2.  **Fondation « four‑on‑the‑floor »** : Un excellent moyen de démarrer une piste de club est de trouver un pattern de kick « four‑on‑the‑floor » solide dans la catégorie « Beats » (carrés). Cela fournit le pouls classique et dansant.
 
-    - **Chasse les bonus néon**  
+3.  **Construis le groove** : Une fois le beat établi, ajoute une ligne de basse de la catégorie « Effets » (cercles). Une bonne synergie entre la grosse caisse et la basse est la clé pour que la piste sonne puissante et groovy.
 
-    - **Systematic Bonus Hunting**: To find the secret bonuses, be methodical. Establish a solid beat and bassline, then systematically swap out the melody and voice icons one by one until you trigger one of the rave-themed animations.
+4.  **Superpose pour l'énergie** : Construis l'énergie en ajoutant des éléments mélodiques. Commence par un simple pad de synthé (« Effets ») pour créer de l'espace, puis ajoute une mélodie lead accrocheuse (« Mélodies »). Enfin, pose un chop vocal (« Voix ») pour compléter le mix.
 
-    - **Layer for Energy**: Build energy by adding melodic elements. Start with a simple synth pad ("Effects") to create space, then add a catchy lead melody ("Melodies"). Finally, drop in a vocal chop ("Voices") to complete the mix.
+5.  **Chasse aux bonus systématique** : Pour trouver les bonus secrets, sois méthodique. Établis un beat et une basse solides, puis change systématiquement les icônes de mélodie et de voix une par une jusqu'à déclencher une des animations à thème rave.
 
-    - **Build the Groove**: Once the beat is established, add a bassline from the "Effects" (circles) category. A good synergy between the kick drum and the bass is key to making the track feel powerful and groovy.
+### **Guide des commandes**
 
-- **Four-on-the-Floor Foundation**: A great way to start a club track is to find a solid "four-on-the-floor" kick drum pattern from the "Beats" (squares) category. This provides the classic, danceable pulse.
+Les commandes suivent l'interface intuitive de glisser‑déposer standard des jeux Incredibox officiels.
 
-- **Voices (Lips)**: The icons shaped like lips are the vocal elements. Look for **processed vocal samples**, ad-libs, and melodic vocal chops that are common in electronic music.
-
-- **Melodies (Triangles)**: The triangular icons are your main hooks and riffs. These represent **lead synth melodies**, catchy arpeggios, and other melodic patterns that define the track's tune.
-
-- **Effects (Circles)**: The circular icons provide the atmospheric and bass elements. This includes deep **synth basslines**, ambient pads, and other textures that fill out the soundscape.
-    Fixe un beat/basse solide, puis teste systématiquement mélodies et voix pour déclencher les trois animations à thème rave.
-
-### Commandes
-
-
-The controls follow the standard, intuitive drag-and-drop interface of the official Incredibox games.
-- Drag‑and‑drop d’icônes sur les personnages, boutons mute / solo et enregistrement identiques aux autres versions d’Incredibox.
-
-
-
-
-- **Record**: Click the **record button** to start and stop recording your rave anthem.
-
-- **Solo**: Click the **small button** next to an active character to mute all other performers.
-
-- **Mute / Unmute**: **Click** on a performing character to mute them; click again to unmute.
-
-- **Remove a Sound**: Click the "X" on an active sound icon at the bottom, or drag a new sound onto an existing character to replace it.
-Yes. If you're having trouble finding the combinations for the animations, a quick search for "*Incredibox Rave combos*" on YouTube will likely provide you with the solutions.
-
-**4. Are the bonus solutions for "Rave" available online?**
-
-Its main appeal is its high-energy, immersive nightclub theme. The combination of the neon visuals, DJ-like characters, and a well-produced electronic music palette creates a modern and exciting experience for fans of dance music.
-
-**3. What makes the "Rave" mod special?**
-
-You will not find it on official platforms. Mods like *Rave* are typically hosted on game modding websites like **playfiddlebops.com** or showcased on YouTube, often with a link provided to play the mod directly in a web browser.
-
-**2. Where can I play this mod?**
-
-No. Based on its unique style and distribution, it is a **fan-made mod**. It is not affiliated with the official Incredibox team, So Far So Good.
-
-**1. Is this an official Incredibox version?**
+*   **Ajouter un son** : **Fais glisser** une icône sonore depuis le bas et **dépose‑la** sur un des personnages.
+*   **Retirer un son** : Clique sur le « X » d'une icône sonore active en bas, ou fais glisser un nouveau son sur un personnage existant pour le remplacer.
+*   **Mute / Unmute** : **Clique** sur un personnage qui joue pour le couper ; clique à nouveau pour le réactiver.
+*   **Solo** : Clique sur le **petit bouton** à côté d'un personnage actif pour couper tous les autres interprètes.
+*   **Enregistrer** : Clique sur le **bouton d'enregistrement** pour démarrer et arrêter l'enregistrement de ton hymne rave.
 
 ### **Foire aux questions (FAQ)**
 
+**1. Est‑ce une version officielle d'Incredibox ?**
 
-Yes. If you're having trouble finding the combinations for the animations, a quick search for "*Incredibox Rave combos*" on YouTube will likely provide you with the solutions.
+Non. D'après son style unique et sa distribution, c'est un **mod fan‑made**. Il n'est pas affilié à l'équipe officielle d'Incredibox, So Far So Good.
 
-**4. Are the bonus solutions for "Rave" available online?**
+**2. Où puis‑je jouer à ce mod ?**
 
-Its main appeal is its high-energy, immersive nightclub theme. The combination of the neon visuals, DJ-like characters, and a well-produced electronic music palette creates a modern and exciting experience for fans of dance music.
+Tu ne le trouveras pas sur les plateformes officielles. Les mods comme *Rave* sont généralement hébergés sur des sites de modding comme **playfiddlebops.com** ou présentés sur YouTube, souvent avec un lien fourni pour jouer au mod directement dans un navigateur web.
 
-**3. What makes the "Rave" mod special?**
+**3. Qu'est‑ce qui rend le mod « Rave » spécial ?**
 
-You will not find it on official platforms. Mods like *Rave* are typically hosted on game modding websites like **playfiddlebops.com** or showcased on YouTube, often with a link provided to play the mod directly in a web browser.
+Son attrait principal est son thème de boîte de nuit immersif et haute énergie. La combinaison des visuels néon, des personnages style DJ et d'une palette de musique électronique bien produite crée une expérience moderne et excitante pour les fans de musique dance.
 
-**2. Where can I play this mod?**
+**4. Les solutions des bonus pour « Rave » sont‑elles disponibles en ligne ?**
 
-No. Based on its unique style and distribution, it is a **fan-made mod**. It is not affiliated with the official Incredibox team, So Far So Good.
-
-**1. Is this an official Incredibox version?**
-- **Record**: Click the **record button** to start and stop recording your rave anthem.
-
-- **Solo**: Click the **small button** next to an active character to mute all other performers.
-
-- **Mute / Unmute**: **Click** on a performing character to mute them; click again to unmute.
-
-- **Remove a Sound**: Click the "X" on an active sound icon at the bottom, or drag a new sound onto an existing character to replace it.
+Oui. Si tu as du mal à trouver les combinaisons pour les animations, une recherche rapide de « *Incredibox Rave combos* » sur YouTube te fournira probablement les solutions.

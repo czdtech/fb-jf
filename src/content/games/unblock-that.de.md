@@ -30,7 +30,7 @@ Unblock That ist ein forderndes Schiebepuzzle mit Holzblöcken unterschiedlicher
 ### Steuerung
 
 
-The game is played with simple drag-and-drop controls.
+Das Spiel wird mit einfacher Drag-and-Drop-Steuerung gespielt.
 - **Block bewegen:** Klicke einen Holzblock an und ziehe ihn entlang seiner Ausrichtung (horizontale Blöcke nach links/rechts, vertikale nach oben/unten) in freie Felder.
 
 ### Häufige Fragen (FAQ)

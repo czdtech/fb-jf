@@ -35,12 +35,12 @@ Sprunkgerny Pyramixed 0.9 ist ein innovativer Musikbaukasten, der traditionelle 
 - **Track teilen:** Gefällt dir das Ergebnis, kannst du es – je nach Plattform – speichern oder mit der Community teilen.
 
 
-### The Origin of Sprunkgerny Pyramixed 0.9:
-Sprunkgerny Pyramixed 0.9 ist aus dem Wunsch entstanden, ein zugängliches, aber ausdrucksstarkes Musikspiel zu schaffen. Heute steht es als Plattform, auf der Charakter-Customizing und Rhythmus-Gameplay zu einem eigenen, interaktiven Musikerlebnis verschmelzen.
+### Der Ursprung von Sprunkgerny Pyramixed 0.9
 
+Sprunkgerny Pyramixed 0.9 ist aus dem Wunsch entstanden, ein zugängliches, aber ausdrucksstarkes Musikspiel zu schaffen. Diese innovative Plattform führt Charakter-Customizing ein, ohne dabei die Spannung des rhythmusbasierten Gameplays zu verlieren.
 
-Join the vibrant Sprunkgerny Pyramixed 0.9 community and share your musical masterpieces. Whether you're a rhythm game enthusiast or a budding musician, this innovative platform offers endless possibilities for creative expression!
+Die Entwicklung von Sprunkgerny Pyramixed 0.9 konzentrierte sich darauf, eine perfekte Mischung aus visuellen und Audio-Elementen zu schaffen – mit einem immersiven Erlebnis, das Kreativität und Experimentierfreude belohnt.
 
-Today, Sprunkgerny Pyramixed 0.9 stands as a unique musical creation platform where character customization and rhythm-based gameplay combine to create an unforgettable interactive music experience.
+Heute steht Sprunkgerny Pyramixed 0.9 als einzigartige Musikkreationsplattform, in der Charakter-Customizing und rhythmusbasiertes Gameplay zu einem unvergesslichen interaktiven Musikerlebnis verschmelzen.
 
-The development of Sprunkgerny Pyramixed 0.9 focused on creating a perfect blend of visual and audio elements, resulting in an immersive experience that rewards creativity and experimentation.
+Werde Teil der lebendigen Sprunkgerny Pyramixed 0.9 Community und teile deine musikalischen Meisterwerke. Ob Rhythmusspiel-Enthusiast oder angehender Musiker – diese innovative Plattform bietet endlose Möglichkeiten für kreativen Ausdruck!

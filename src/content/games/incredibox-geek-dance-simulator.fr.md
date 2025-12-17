@@ -17,68 +17,52 @@ releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 
-### Présentation du jeu
 
-*Incredibox Geek Dance Simulator* fait partie de la série de mods « Simulator ». C’est un hommage direct à la **culture geek et nerd**, avec une esthétique inspirée par les jeux rétro, les vieux ordinateurs et le son des puces audio 8‑bit.
+### **Présentation du jeu Incredibox Geek Dance Simulator**
 
-Contrairement à Incredibox classique, tu ne fais pas glisser d’icônes sur des personnages : tu interagis avec une **grille de 20 icônes pixelisées**. Chaque icône correspond à une piste chiptune ; en cliquant dessus, tu actives ou désactives son son dans la boucle.
+*Incredibox Geek Dance Simulator* est un jeu fan‑made appartenant à la série populaire des mods « Simulator » d'Incredibox. En hommage à la **culture « geek » et « nerd »**, son thème s'inspire fortement des jeux vidéo rétro, des premiers ordinateurs et des sons iconiques de l'ère 8‑bit.
 
-À mesure que tu empiles les sons, une barre de progression « LOOP » se remplit en haut de l’écran, te guidant vers le déblocage de bonus audio‑visuels secrets. L’expérience ressemble à un mini séquenceur de musique de jeu rétro.
+Le gameplay diffère fondamentalement de la série officielle Incredibox. Il utilise l'**interface en grille** caractéristique des mods Simulator, où les joueurs découvrent une grille de 20 icônes sonores pixelisées. L'objectif est de créer une piste chiptune authentique en cliquant sur ces icônes pour activer ou désactiver leurs sons correspondants.
 
-### Stratégies de jeu et conseils
+À mesure que les joueurs superposent des sons et expérimentent des combinaisons, une barre de progression en haut de l'écran (« LOOP ») se remplit, les guidant vers le déblocage des bonus audio‑visuels secrets du mod. L'expérience est une approche directe et pratique de la composition de musique de jeu rétro.
 
-1.  **Comprends la grille chiptune**  
-    - **Batterie / percussions** : kicks digitaux, snares bruités, hi‑hats simples — c’est la base rythmique.  
-    - **Basse** : lignes graves en onde carrée ou triangle qui portent l’harmonie.  
-    - **Leads (ondes carrées / dent de scie)** : mélodies aiguës typiques des OST 8‑bit.  
-    - **Effets / bruit** : sons de sauts, tirs, arpeggios rapides, canal de bruit pour des impacts ou ambiances.
+### **Stratégies de jeu et conseils**
 
-2.  **Construis par couches, comme dans un tracker**  
-    Commence par un beat simple, ajoute une basse qui « colle » à la grosse caisse, puis une ou deux mélodies. La magie du chiptune vient de la façon dont ces éléments simples s’emboîtent.
+1.  **Comprends la grille chiptune** : Les 20 icônes représentent les canaux principaux d'une puce sonore rétro.
+    *   **Batterie/Percussions** : Cherche les icônes qui fournissent les sons de batterie numériques — kicks nets, snares bruités et hi‑hats simples. Ils forment la base rythmique.
+    *   **Basse** : Ces icônes fournissent les lignes mélodiques graves, souvent en ondes carrées ou triangulaires simples.
+    *   **Mélodies lead (ondes carrées/dent de scie)** : C'est le cœur du chiptune. Attends‑toi à des leads synthé monophoniques accrocheurs, caractéristiques des bandes‑son de jeux vidéo classiques.
+    *   **Effets/Canal de bruit** : Cette section inclut les effets sonores classiques de jeux, les arpèges et les sons statiques du « canal de bruit », utilisés pour créer des percussions complexes ou des effets atmosphériques.
 
-3.  **Remplis la barre LOOP intelligemment**  
-    Certains sons font progresser la barre plus que d’autres. Expérimente différentes combinaisons ; tu seras récompensé lorsque le mod estime que ton mix correspond à une configuration clé.
+2.  **Construis tes couches comme dans un tracker** : Pense comme un compositeur old‑school. Commence par un simple pattern de batterie. Ajoute une ligne de basse qui se cale sur la grosse caisse. Puis tisse une ou deux mélodies lead par‑dessus. La magie du chiptune vient de l'interaction de ces couches simples.
 
-4.  **Crée des variations en togglant**  
-    Profite du clic ON/OFF pour structurer ton morceau : commence par une intro minimaliste (juste la batterie), ajoute progressivement basse et leads, puis retire des éléments pour créer des breaks.
+3.  **Remplis la barre de boucle** : Ton objectif est de remplir la barre de progression « LOOP » en activant des sons. Expérimente différentes combinaisons, car certaines peuvent contribuer plus que d'autres à la progression, te récompensant pour avoir trouvé des combinaisons harmonieuses ou prévues.
 
-### Commandes
+4.  **Crée de la dynamique en toggleant** : Utilise le mécanisme clic‑on/clic‑off à ton avantage. Tu peux construire une intro avec juste un beat, amener une mélodie pour un « couplet », puis ajouter plus de couches pour un « refrain », créant une structure de chanson complète dans la boucle.
 
+### **Guide des commandes**
 
-This mod uses the simple, click-based interface of the Simulator series.
-- **Activer / désactiver un son** : clique sur une icône de la grille ; allumée = active, éteinte = coupée.  
-- **Commandes principales** (en haut) : boutons Lecture / Pause, Enregistrer, Réinitialiser, selon l’hébergeur.
+Ce mod utilise l'interface simple basée sur les clics de la série Simulator.
 
+*   **Activer / Désactiver un son** : **Clique** sur n'importe laquelle des 20 icônes sonores de la grille. Une icône activée s'allumera, ajoutant son son à la boucle. Cliquer dessus à nouveau l'éteindra.
+*   **Combiner les sons** : Tu peux avoir plusieurs sons activés en même temps pour construire ta piste.
+*   **Commandes principales (haut de l'écran)** :
+    *   **Bouton Lecture/Pause** : Active ou désactive toute la boucle.
+    *   **Bouton Enregistrement** : Démarre et arrête l'enregistrement de ton mix.
+    *   **Bouton Reset** : Efface tous les sons actifs de la grille, te permettant de repartir de zéro.
 
-- **Reset Button**: Clears all active sounds from the grid, allowing you to start fresh.
+### **Foire aux questions (FAQ)**
 
-    - **Record Button**: Starts and stops the recording of your mix.
+**1. Est‑ce un jeu Incredibox officiel ?**
 
-    - **Play/Pause Button**: Toggles the entire loop on or off.
+Non. La série « Simulator », y compris *Geek Dance Simulator*, sont des **mods fan‑made** et ne sont pas affiliés aux créateurs officiels d'Incredibox, So Far So Good.
 
-    - **Main Controls (Top of Screen)**:
-### Foire aux questions (FAQ)
+**2. Pourquoi est‑ce différent de l'autre mod « Geek Dance » ?**
 
-- **Q : Est‑ce un jeu Incredibox officiel ?**  
-  R : Non, c’est un mod créé par la communauté et non par les développeurs de la série.
+C'est une distinction cruciale. La communauté de modding Incredibox a créé au moins deux mods populaires avec ce thème.
+*   **Geek Dance (Drag‑and‑Drop)** : Présente des personnages à l'écran sur lesquels tu fais glisser des icônes.
+*   **Geek Dance Simulator (basé sur grille)** : Cette version utilise une grille d'icônes sur lesquelles tu cliques pour les activer, offrant une expérience de jeu différente.
 
-- **Q : En quoi diffère‑t‑il de l’autre mod « Geek Dance » ?**  
-  R : *Geek Dance* classique utilise des personnages et du drag‑and‑drop, tandis que *Geek Dance Simulator* propose une interface en grille cliquable façon séquenceur.
+**3. Où puis‑je jouer à ce mod ?**
 
-- **Q : Où puis‑je y jouer ?**  
-  R : Principalement sur des sites de jeux ou via des projets hébergés sur Scratch / TurboWarp, souvent partagés dans la communauté de modding Incredibox.
-
-
-
-You will not find it on official platforms. These mods are typically shared on gaming sites like **playfiddlebops.com**, modding communities like **scratch**, or showcased on YouTube with links to play them in a web browser.
-
-**3. Where can I play this mod?**
-
-- **Geek Dance Simulator (Grid-Based)**: This version, which uses a grid of icons you click to activate, offering a different gameplay experience.
-
-- **Geek Dance (Drag-and-Drop)**: Features characters on screen that you drag icons onto.
-
-This is a crucial distinction. The Incredibox modding community has created at least two popular mods with this theme.
-
-
-You will not find it on official platforms. These mods are typically shared on gaming sites like **playfiddlebops.com**, modding communities like **scratch**, or showcased on YouTube with links to play them in a web browser.
+Tu ne le trouveras pas sur les plateformes officielles. Ces mods sont généralement partagés sur des sites de jeux comme **playfiddlebops.com**, des communautés de modding comme **scratch**, ou présentés sur YouTube avec des liens pour y jouer dans un navigateur web.

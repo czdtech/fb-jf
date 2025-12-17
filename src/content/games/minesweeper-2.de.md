@@ -15,63 +15,30 @@ score: 4.7/5  (3500 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### Detaillierte Spieleinführung
 
-### Ausführliche Spielbeschreibung
+Minesweeper ist ein klassisches Einzelspieler-Logikpuzzle, das seit Jahrzehnten ein fester Bestandteil der PC-Unterhaltung ist. Das Ziel ist es, ein rechteckiges Gitter mit versteckten "Minen" oder Bomben zu räumen, ohne eine davon zur Explosion zu bringen. Dazu verwendest du Hinweise von aufgedeckten Feldern, die dir sagen, wie viele Minen sich in den angrenzenden acht Feldern befinden. Es ist ein Spiel der reinen Deduktion und sorgfältigen Risikoabschätzung.
 
-Minesweeper ist ein klassisches Einzelspieler-Logikspiel, das seit Jahrzehnten
-zu den PC-Klassikern zählt. Dein Ziel ist es, ein rechteckiges Feld zu räumen,
-in dem unsichtbar Minen versteckt sind – ohne eine davon zu treffen. Dabei
-helfen dir Zahlen auf aufgedeckten Feldern, die verraten, wie viele Minen in den
-acht angrenzenden Feldern liegen.
+### Spielstrategie & Walkthrough
 
-### Strategie & Tipps
-
-1.  **Erster Klick**  
-    Der erste Klick ist normalerweise sicher. Landest du auf einem Feld ohne
-    benachbarte Minen, öffnet sich oft ein großer Bereich – ein idealer Start.
-
-2.  **Zahlen richtig deuten**  
-    Die Zahl auf einem Feld zeigt exakt an, wie viele Minen in den acht
-    angrenzenden Feldern (horizontal, vertikal und diagonal) liegen. Diese
-    Hinweise sind deine einzige Informationsquelle.
-
-3.  **1–2–1-Muster**  
-    Ein häufiges, leicht zu erkennendes Muster: Steht eine Reihe „1-2-1“, sind
-    die Felder direkt neben den 1ern Minen und das äußere Feld neben der 2 ist
-    sicher.
-
-4.  **Minen markieren**  
-    Wenn du dir absolut sicher bist, dass ein Feld eine Mine enthält,
-    markierst du es mit einer Flagge. So klickst du später nicht aus Versehen
-    darauf und behältst den Überblick.
-
-5.  **Chord-Klicks**  
-    Hat eine Zahl bereits die korrekte Anzahl markierter Minen um sich herum,
-    kannst du sie (je nach Version mit Mittel- oder Links+Rechtsklick) anklicken,
-    um alle übrigen Nachbarfelder automatisch aufzudecken. Achtung: Nur sicher
-    verwenden, wenn deine Flaggen stimmen.
+1.  **Der erste Klick:** Dein erster Klick ist immer sicher. Wenn du auf ein Feld klickst, das keine angrenzenden Minen hat, öffnet sich ein großer Bereich, was ein toller Start ist.
+2.  **Die Zahlen verstehen:** Die Zahl auf einem aufgedeckten Feld sagt dir genau, wie viele Minen sich in den acht Feldern befinden, die es berühren (horizontal, vertikal und diagonal). Das ist die einzige Information, mit der du arbeiten kannst.
+3.  **Das 1-2-1-Muster:** Ein häufiges und leicht zu erkennendes Muster. Wenn du eine "1-2-1" in einer Linie siehst, weißt du sicher, dass die Felder neben den '1'en Minen sind, und das Feld neben der '2' (auf der anderen Seite) ist sicher.
+4.  **Minen markieren:** Wenn du dir 100% sicher bist, dass ein Feld eine Mine enthält, rechtsklicke, um es zu "markieren". Das verhindert, dass du später versehentlich darauf klickst, und hilft dir, den Überblick zu behalten, wo die Gefahren sind.
+5.  **Chord-Klicken:** Wenn ein nummeriertes Feld bereits die richtige Anzahl an Flaggen hat, die es berühren, kannst du auf die Zahl selbst klicken (oder oft mit Mittelklick/Links+Rechtsklick), um automatisch alle anderen angrenzenden, nicht markierten Felder aufzudecken. Das ist ein schneller Weg, das Brett zu räumen, aber sei vorsichtig – wenn deine Flaggen falsch sind, wirst du eine Mine zünden!
 
 ### Steuerung
 
-*   **Feld aufdecken:** Linksklick auf ein verdecktes Feld.  
-*   **Mine markieren:** Rechtsklick zum Setzen oder Entfernen einer Flagge.
+*   **Ein Feld aufdecken:** Linksklick auf ein verdecktes Feld.
+*   **Ein Feld markieren:** Rechtsklick auf ein verdecktes Feld, um eine Flagge zu setzen. Erneut rechtsklicken, um sie zu entfernen.
 
-### FAQ
+### Häufig gestellte Fragen (FAQ)
 
-*   **F: Was bedeuten die Zahlen genau?**  
-    **A:** Die Zahl gibt an, wie viele Minen sich in den acht angrenzenden
-    Feldern befinden.
+*   **F: Was bedeuten die Zahlen auf den Feldern?**
+    *   **A:** Eine Zahl gibt die genaue Anzahl der Minen in den acht Feldern an, die sie unmittelbar umgeben.
 
-    - **F: Was passiert, wenn ich auf eine Mine klicke?**  
-    **A:** Das Spiel ist sofort verloren und alle Minen werden sichtbar.
+*   **F: Was passiert, wenn ich auf eine Mine klicke?**
+    *   **A:** Das Spiel endet sofort, und alle Minenpositionen werden enthüllt.
 
-*   **F: Muss ich Minen markieren, um zu gewinnen?**  
-
-    - **A:** No, flagging is just a tool to help you remember. The game is won by revealing all the squares that do *not* contain mines, regardless of whether you have flagged the mines or not.
-
-- **Q: Do I have to place flags to win?**
-
-    - **A:** The game ends instantly, and all the mine locations are revealed.
-    **A:** Nein. Die Flags dienen nur dir zur Orientierung. Gewonnen hast du,
-    sobald alle Felder ohne Mine aufgedeckt sind – unabhängig davon, ob du die
-    Minen markiert hast.
+*   **F: Muss ich Flaggen setzen, um zu gewinnen?**
+    *   **A:** Nein, das Markieren ist nur ein Werkzeug, das dir beim Erinnern hilft. Das Spiel wird gewonnen, indem du alle Felder aufdeckst, die *keine* Minen enthalten, unabhängig davon, ob du die Minen markiert hast oder nicht.

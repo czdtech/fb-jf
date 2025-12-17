@@ -15,49 +15,37 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-### Présentation
 
-Jewel Legend propose une longue série de niveaux où tu dois aligner des gemmes pour atteindre différents objectifs (score, blocages à briser, objets à faire descendre, etc.).
+### Présentation détaillée
 
-### Conseils
+Jewel Legend est un jeu de puzzle match‑3 vibrant et hautement addictif situé dans un monde rempli de gemmes précieuses. Les joueurs se lancent dans une aventure épique à travers des centaines de niveaux, résolvant des puzzles en échangeant et alignant trois joyaux ou plus de la même couleur. Le jeu est connu pour ses graphismes colorés, ses réactions en chaîne satisfaisantes, et une grande variété d'objectifs de niveau qui gardent le gameplay frais et engageant. Créer des gemmes spéciales par des alignements intelligents est crucial pour surmonter les défis les plus difficiles du jeu.
 
-- Travaille depuis le bas pour créer des cascades.  
-    - Garde quelques bonus pour les derniers coups sur les niveaux difficiles.  
-    - Regarde le plateau au global avant de jouer pour trouver les meilleurs alignements.
+### Stratégies de jeu
 
+1.  **Crée des gemmes spéciales :** La clé du succès est de penser au‑delà des simples match‑3. Sois toujours à l'affût des opportunités de créer de puissantes gemmes spéciales :
+    *   **Aligne 4 gemmes :** Crée un Joyau Éclair qui efface une ligne ou colonne entière.
+    *   **Aligne 5 gemmes (en forme de L ou T) :** Crée un Joyau Bombe qui explose, détruisant toutes les gemmes environnantes.
+    *   **Aligne 5 gemmes (en ligne) :** Crée un puissant Joyau de Couleur qui peut effacer toutes les gemmes d'une seule couleur du plateau.
 
+2.  **Combine les boosters pour un impact maximum :** N'utilise pas juste tes gemmes spéciales ; combine‑les ! Échanger deux gemmes spéciales adjacentes l'une avec l'autre résulte en un effet d'effacement massif du plateau. Par exemple, échanger une Bombe avec un Joyau Éclair efface trois lignes/colonnes, et échanger deux Joyaux de Couleur efface toutes les gemmes du plateau.
 
-    - **A:** If you fail to meet the level objective within the given number of moves, you will lose a life and have to try the level again. You can wait for lives to regenerate over time or sometimes acquire more through in-game means.
+3.  **Planifie tes coups :** Tu n'as qu'un nombre limité de coups pour chaque niveau. Avant de faire un échange, regarde tout le plateau et l'objectif du niveau. Priorise les alignements qui t'aideront à atteindre l'objectif, comme casser les cases gelées ou faire descendre des objets spéciaux.
 
-- **Q: I'm out of moves, what now?**
+4.  **Anticipe les cascades :** Faire des alignements en bas du plateau est souvent une bonne stratégie. Cela permet à un grand nombre de nouvelles gemmes de tomber à leur place, augmentant les chances de déclencher une réaction en chaîne (cascade) d'alignements automatiques, qui peut nettoyer une grande partie du plateau sans utiliser de coups supplémentaires.
 
-- **A:** The most powerful combo is swapping two Color Jewels together. This will destroy every single jewel on the screen, which is extremely useful for very difficult levels.
+### Commandes
 
-- **Q: What is the most powerful combination in the game?**
+Le jeu se contrôle avec de simples gestes tactiles ou souris.
 
-    - **A:** To break ice or chains, you must make a match that includes the frozen or chained jewel. Sometimes it takes more than one match to fully release a jewel.
-
-- **Q: How do I break the ice or chains on the jewels?**
+*   **Échanger des joyaux :** Clique et fais glisser un joyau vers une place adjacente pour l'échanger avec le joyau qui s'y trouve. Tu peux aussi cliquer sur le premier joyau puis cliquer sur celui adjacent avec lequel tu veux l'échanger. L'échange ne sera réussi que s'il crée un alignement.
 
 ### Foire aux questions (FAQ)
 
-- **Swap Jewels:** Click and drag a jewel to an adjacent spot to swap it with the jewel there. You can also click the first jewel and then click the adjacent one you want to swap with. The swap will only be successful if it creates a match.
+*   **Q : Comment casser la glace ou les chaînes sur les joyaux ?**
+    *   **R :** Pour casser la glace ou les chaînes, tu dois faire un alignement qui inclut le joyau gelé ou enchaîné. Parfois il faut plus d'un alignement pour libérer complètement un joyau.
 
-The game is controlled with simple touch or mouse gestures.
+*   **Q : Quelle est la combinaison la plus puissante du jeu ?**
+    *   **R :** Le combo le plus puissant est d'échanger deux Joyaux de Couleur ensemble. Cela détruira tous les joyaux à l'écran, ce qui est extrêmement utile pour les niveaux très difficiles.
 
-
-- **Swap Jewels:** Click and drag a jewel to an adjacent spot to swap it with the jewel there. You can also click the first jewel and then click the adjacent one you want to swap with. The swap will only be successful if it creates a match.
-### Commandes
-
-- **Anticipate Cascades:** Making matches at the bottom of the board is often a good strategy. This allows a large number of new gems to fall into place, increasing the chance of setting off a chain reaction (cascade) of automatic matches, which can clear a large portion of the board without using any extra moves.
-
-    - **Plan Your Moves:** You only have a limited number of moves for each level. Before making a swap, look at the entire board and the level objective. Prioritize matches that will help you achieve the goal, such as breaking frozen tiles or dropping special items.
-
-- **Combine Boosters for Maximum Impact:** Don't just use your special gems; combine them! Swapping two special gems next to each other results in a massive board-clearing effect. For example, swapping a Bomb with a Lightning Jewel clears three rows/columns, and swapping two Color Jewels clears every single gem on the board.
-
-    - **Match 5 Gems (in a line):** Creates a powerful Color Jewel that can clear all gems of a single color from the board.
-
-
-- **A:** If you fail to meet the level objective within the given number of moves, you will lose a life and have to try the level again. You can wait for lives to regenerate over time or sometimes acquire more through in-game means.
-
-    - **Q: I'm out of moves, what now?**
+*   **Q : Je n'ai plus de coups, que faire ?**
+    *   **R :** Si tu n'arrives pas à remplir l'objectif du niveau dans le nombre de coups donné, tu perdras une vie et devras réessayer le niveau. Tu peux attendre que les vies se régénèrent au fil du temps ou parfois en acquérir plus par des moyens en jeu.

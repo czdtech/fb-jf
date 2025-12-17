@@ -4,7 +4,7 @@ urlstr: sudoku-plus
 title: Sudoku Plus
 description: >-
   Sudoku Plus est une version complète du sudoku classique, avec notes, aides et
-  vérification d’erreurs pour entraîner ta logique dans un cadre confortable.
+  vérification d'erreurs pour entraîner ta logique dans un cadre confortable.
 iframeSrc: 'https://sudokuplus.h5games.usercontent.goog/v/3q827iuj6msno/'
 thumbnail: /new-images/sudoku-plus.jpg
 tags:
@@ -15,64 +15,32 @@ score: 4.7/5  (3100 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
-### Présentation détaillée
+### Présentation détaillée du jeu
 
-Sudoku Plus reprend le puzzle de logique intemporel du sudoku (grille 9x9 à
-remplir avec les chiffres 1 à 9, sans répétition par ligne, colonne ni région
-3x3), mais avec une interface moderne et des outils utiles : mode notes,
-indices, surlignage d’erreurs, etc.
+Sudoku Plus offre une expérience premium pour le puzzle de logique intemporel basé sur le placement de chiffres. L'objectif est de remplir une grille 9×9 de sorte que chaque colonne, chaque ligne et chacune des neuf sous-grilles 3×3 contiennent tous les chiffres de 1 à 9. Cette version est remplie de fonctionnalités utiles comme les indices, un mode notes et la vérification d'erreurs, la rendant parfaite pour les débutants qui apprennent les bases et les joueurs avancés cherchant une interface fluide et polie.
 
-### Stratégies de jeu
+### Stratégies de jeu et progression
 
-1. **Règle d’or :** chaque ligne, colonne et carré 3x3 doit contenir une fois
-   chaque chiffre de 1 à 9.
-2. **Croisement (cross‑hatching) :** pour une case vide, regarde les chiffres
-   déjà présents sur sa ligne, sa colonne et son carré pour éliminer les
-   impossibles et trouver les candidats.
-3. **Utilise le mode Notes :** pour les grilles difficiles, note les candidats
-   dans les cases, puis efface‑les au fur et à mesure que la grille se
-   précise.
-4. **Singles nus et cachés :** repère les cases où un seul chiffre reste
-   possible, ou les chiffres qui n’ont qu’une seule position possible dans une
-   ligne/colonne/boîte.
+1.  **La règle d'or :** le cœur du Sudoku est simple : 1 à 9, une fois par ligne, une fois par colonne et une fois par carré 3×3. Aucune répétition n'est permise dans ces zones.
+2.  **Croisement (cross-hatching) :** la technique de résolution fondamentale. Pour une case vide, scanne la ligne, la colonne et le carré 3×3 correspondants pour voir quels chiffres sont déjà présents. En les éliminant, tu peux déduire quels chiffres sont des candidats possibles pour la case.
+3.  **Utilise la fonction Notes :** pour les puzzles plus complexes, le mode "Notes" ou "Crayon" est essentiel. Utilise-le pour noter tous les candidats possibles pour une case vide. En résolvant d'autres cases, tu peux mettre à jour tes notes, réduisant finalement les possibilités à un seul chiffre correct.
+4.  **Trouve les singles :** cherche les cases où un seul chiffre est possible (un "Single Nu"). Cherche aussi les instances où un chiffre spécifique ne peut aller que dans une seule case possible dans une ligne, colonne ou carré (un "Single Caché").
 
 ### Commandes
 
-- **Sélectionner une case :** clique sur une case vide.  
-- **Saisir un chiffre :** clique sur le pavé numérique à l’écran ou utilise
-  le clavier.  
-- **Basculer en mode notes :** active le bouton Notes / Crayon pour inscrire
-  de petits candidats.  
-- **Effacer :** utilise la gomme.  
-- **Indice :** le bouton d’aide peut, selon la configuration, remplir une
-
-    - **A:** Yes, most modern Sudoku games, including this one, have an error-checking feature that will highlight any duplicate numbers in a row, column, or box, allowing you to correct your mistake.
-
-- **Q: Will the game tell me if I make a mistake?**
-
-    - **A:** It allows you to pencil in small numbers as potential candidates for a cell, which is a key strategy for solving harder puzzles without having to rely on memory alone.
-
-- **Q: What does the "Notes" feature do?**
-
-    - **A:** No. Sudoku is a game of logic and pattern recognition, not arithmetic.
-
-- **Q: Do I need to be good at math?**
+*   **Sélectionner une case :** clique sur n'importe quelle case vide dans la grille.
+*   **Entrer un chiffre :** après avoir sélectionné une case, clique sur un chiffre du pavé numérique à l'écran pour le placer.
+*   **Basculer le mode Notes :** utilise le bouton dédié "Notes" ou "Crayon" pour alterner entre entrer les réponses finales et entrer les petits chiffres candidats.
+*   **Effacer :** utilise l'outil gomme pour vider une case.
+*   **Indice :** clique sur le bouton d'indice pour révéler le chiffre correct pour une seule case.
 
 ### Foire aux questions (FAQ)
 
-- **A:** Yes, most modern Sudoku games, including this one, have an error-checking feature that will highlight any duplicate numbers in a row, column, or box, allowing you to correct your mistake.
+*   **Q : Dois-je être bon en maths ?**
+    *   **R :** Non. Le Sudoku est un jeu de logique et de reconnaissance de patterns, pas d'arithmétique.
 
-    - **Q: Will the game tell me if I make a mistake?**
+*   **Q : À quoi sert la fonction "Notes" ?**
+    *   **R :** Elle te permet de noter au crayon de petits chiffres comme candidats potentiels pour une case, ce qui est une stratégie clé pour résoudre les puzzles plus difficiles sans devoir compter sur la mémoire seule.
 
-- **A:** It allows you to pencil in small numbers as potential candidates for a cell, which is a key strategy for solving harder puzzles without having to rely on memory alone.
-
-    - **Q: What does the "Notes" feature do?**
-
-- **A:** No. Sudoku is a game of logic and pattern recognition, not arithmetic.
-
-    - **Q: Do I need to be good at math?**
-  case correcte.
-
-Sudoku Plus convient autant aux débutants qu’aux joueurs avancés qui veulent
-une expérience fluide et agréable.
-
+*   **Q : Le jeu me dira-t-il si je fais une erreur ?**
+    *   **R :** Oui, la plupart des jeux de Sudoku modernes, y compris celui-ci, ont une fonction de vérification d'erreurs qui surlignera les chiffres en double dans une ligne, colonne ou carré, te permettant de corriger ton erreur.

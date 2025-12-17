@@ -18,52 +18,51 @@ releaseDate: 2025-10-10T00:00:00.000Z
 
 ### Présentation du jeu
 
-*Incredibox Creatophobos* est un mod fan‑made sombre et expérimental. Son nom vient de « Creator » et de **Phobos**, la personnification grecque de la peur : tout tourne autour de la crainte, des créatures monstrueuses et d’une horreur oppressante.
+*Incredibox Creatophobos* est un mod fan‑made sombre et expérimental. Son nom vient de « Creator » et de **Phobos**, la personnification grecque de la peur : tout tourne autour de la crainte, des créatures monstrueuses et d'une horreur oppressante.
 
-Les beatboxers stylés sont remplacés par des figures mutantes et inquiétantes. En utilisant l’interface drag‑and‑drop classique, tu actives 20 sons très éloignés des mélodies habituelles : **bruits industriels, grognements de monstres, beats distordus et drones inquiétants**.
+Les beatboxers stylés sont remplacés par des figures mutantes et inquiétantes. En utilisant l'interface drag‑and‑drop classique, tu actives 20 sons très éloignés des mélodies habituelles : **bruits industriels, grognements de monstres, beats distordus et drones inquiétants**.
 
-Le but n’est plus de créer un tube catchy, mais un **paysage sonore terrifiant**. Les trois bonus cachés prolongent cette esthétique grotesque via des animations cauchemardesques.
+Le but n'est plus de créer un tube catchy, mais un **paysage sonore terrifiant**. Les trois bonus cachés prolongent cette esthétique grotesque via des animations cauchemardesques.
 
 ### Stratégies de jeu et conseils
 
-Ici, il s’agit moins de chercher l’harmonie que de construire la tension.
+Ici, il s'agit moins de chercher l'harmonie que de construire la tension.
 
-1.  **Comprends les catégories monstrueuses**  
-    - **Beats** : rythmes mécaniques et lourds, coups métalliques, pulsations rappelant un cœur affolé.  
-    - **Effets** : drones sombres, gémissements, grincements de métal, bruits sortis d’un film d’horreur.  
-    - **Mélodies** : lignes dissonantes, sirènes, synthés atonaux qui ajoutent à l’angoisse.  
+1.  **Comprends les catégories monstrueuses**
+    - **Beats** : rythmes mécaniques et lourds, coups métalliques, pulsations rappelant un cœur affolé.
+    - **Effets** : drones sombres, gémissements, grincements de métal, bruits sortis d'un film d'horreur.
+    - **Mélodies** : lignes dissonantes, sirènes, synthés atonaux qui ajoutent à l'angoisse.
     - **Voices** : rugissements, hurlements déformés, psalmodies robotiques ou démoniaques.
 
-2.  **Installe une ambiance de peur**  
-    Commence souvent par un effet d’ambiance, puis ajoute un beat lent et pesant. Construis progressivement le mix pour faire monter la tension, plutôt que tout lancer d’un coup.
+2.  **Installe une ambiance de peur**
+    Commence souvent par un effet d'ambiance, puis ajoute un beat lent et pesant. Construis progressivement le mix pour faire monter la tension, plutôt que tout lancer d'un coup.
 
-3.  **Accepte la dissonance**  
-    Beaucoup de sons sont faits pour se heurter. Un résultat bruyant et chaotique n’est pas un échec : c’est précisément ce qui donne son identité horrifique au mod.
+3.  **Accepte la dissonance**
+    Beaucoup de sons sont faits pour se heurter. Un résultat bruyant et chaotique n'est pas un échec : c'est précisément ce qui donne son identité horrifique au mod.
 
-4.  **Cherche les bonus avec méthode**  
-    Comme les sons se distinguent moins par la mélodie, il vaut mieux adopter une approche systématique : fixe une base qui fonctionne et fais tourner les autres icônes une par une jusqu’à déclencher les animations secrètes.
+4.  **Cherche les bonus avec méthode**
+    Comme les sons se distinguent moins par la mélodie, il vaut mieux adopter une approche systématique : fixe une base qui fonctionne et fais tourner les autres icônes une par une jusqu'à déclencher les animations secrètes.
 
-5.  **Utilise le solo pour décortiquer le bruit**  
-    Quand le mix devient trop dense, isole un personnage pour comprendre ce qu’il apporte. Cela t’aide à épurer ou renforcer certaines couches.
+5.  **Utilise le solo pour décortiquer le bruit**
+    Quand le mix devient trop dense, isole un personnage pour comprendre ce qu'il apporte. Cela t'aide à épurer ou renforcer certaines couches.
 
 ### Commandes
 
+Les commandes reprennent l'interface glisser‑déposer classique d'Incredibox.
 
-The controls are the standard, intuitive drag-and-drop interface of the official Incredibox games.
-- **Ajouter un son** : glisse une icône de la barre inférieure sur un personnage.  
-- **Retirer / remplacer un son** : clique sur le « X » de son icône ou dépose un autre son sur ce personnage.  
-- **Mute / Unmute** : clique sur le personnage pour le couper / le réactiver.  
-- **Solo** : clique sur le bouton de solo pour n’entendre que lui.  
-- **Enregistrer** : clique sur le bouton d’enregistrement pour garder ta composition monstrueuse.
+- **Ajouter un son** : glisse une icône de la barre inférieure sur un personnage.
+- **Retirer / remplacer un son** : clique sur le « X » de son icône ou dépose un autre son sur ce personnage.
+- **Mute / Unmute** : clique sur le personnage pour le couper / le réactiver.
+- **Solo** : clique sur le bouton de solo pour n'entendre que lui.
+- **Enregistrer** : clique sur le bouton d'enregistrement pour garder ta composition monstrueuse.
 
 ### Foire aux questions (FAQ)
 
-- **Q : Ce mod est‑il adapté à tous les âges ?**  
-  R : L’esthétique est volontairement inquiétante ; il peut être impressionnant pour les joueurs les plus jeunes.
+- **Q : Ce mod est‑il adapté à tous les âges ?**
+  R : L'esthétique est volontairement inquiétante ; il peut être impressionnant pour les joueurs les plus jeunes.
 
-- **Q : Peut‑on quand même faire des morceaux « musicaux » ?**  
+- **Q : Peut‑on quand même faire des morceaux « musicaux » ?**
   R : Oui, en sélectionnant soigneusement les quelques sons les plus mélodiques, mais le mod est surtout pensé pour des ambiances bruitistes.
 
-- **Q : Les bonus sont‑ils difficiles à trouver ?**  
+- **Q : Les bonus sont‑ils difficiles à trouver ?**
   R : Ils demandent un peu de patience, mais une fois que tu as identifié quelques bonnes bases, tu pourras les déclencher en testant calmement différentes combinaisons.
-

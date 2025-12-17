@@ -18,41 +18,39 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 ### Spieleinführung
 
-Super Smash Flash ist ein legendärer Fan‑Fighter, inspiriert von der Super‑Smash‑Bros.‑Reihe. Verschiedene Charaktere aus Videospielen und Anime treffen in einer 2D‑Plattformarena aufeinander, und du versuchst, sie statt über Lebensleisten per Knockback aus dem Bild zu befördern.
+Super Smash Flash ist ein legendäres, von Fans erstelltes Kampfspiel, inspiriert von der offiziellen Super Smash Bros.-Serie. Es bringt eine vielfältige Auswahl an Charakteren aus verschiedenen Videospiel- und Anime-Franchises in eine 2D-Plattform-Kampfarena zusammen. Das Spiel wird für seine schnelle Action und dafür gefeiert, den Geist der originalen Konsolenspiele in einem kostenlosen Flash-Format einzufangen.
 
 ### Spielanleitung
 
+Das Ziel ist nicht, eine Lebensleiste zu leeren, sondern den Schadensprozentsatz deines Gegners zu erhöhen und ihn vom Bildschirm zu schleudern. Je höher der Prozentsatz eines Charakters, desto weiter fliegt er, wenn er getroffen wird.
+- **Schaden:** Greife Gegner an, um ihren Schadensprozentsatz (%) zu erhöhen.
+- **Smash-Angriffe:** Nutze mächtige "Smash"-Angriffe, um Gegner mit hohem Schaden von der Bühne zu schleudern.
+- **Rettung:** Wenn du von der Bühne geschlagen wirst, nutze die Sprünge und Spezialmoves deines Charakters, um zurück auf die Plattform zu gelangen.
+- **Items:** Items erscheinen periodisch auf der Bühne, die du nutzen kannst, um einen Vorteil zu erlangen.
 
-The objective is not to deplete a health bar, but to increase your opponent's damage percentage and launch them off the screen. The higher a character's percentage, the farther they will fly when hit.
-- **Ziel:** Du erhöhst die Schadens‑Prozente deiner Gegner, bis ein Treffer sie weit genug wegschleudert, um die Arena zu verlassen.
-- **Schaden:** Normale Angriffe steigern den Prozentwert.
-- **Smash‑Angriffe:** Starke, richtungsabhängige Moves schicken Gegner mit hoher Prozentzahl am besten von der Bühne.
-- **Rettung:** Wirst du selbst getroffen, nutzt du Sprünge und Spezialmoves, um dich wieder auf die Plattform zu retten.
-- **Items:** Von Zeit zu Zeit erscheinen Items, die dir im Kampf Vorteile bringen können.
+### Steuerung
 
-### Steuerung (Standard, 2 Spieler an einer Tastatur)
-
-
-The game can be played by two players on the same keyboard.
-- **Spieler 1:**  
-    - Bewegen: Pfeiltasten  
-    - Springen: `O`  
-    - Angriff: `P`
-
-- **Spieler 2:**  
-    - Bewegen: `A`, `S`, `D`, `W` (W zum Springen)  
-    - Angriff: `F`  
-    - Spezialmove: `G`
-
+Das Spiel kann von zwei Spielern auf derselben Tastatur gespielt werden.
+- **Spieler 1:**
+    - **Bewegen:** Pfeiltasten
+    - **Springen:** `O`
+    - **Angriff:** `P`
+- **Spieler 2:**
+    - **Bewegen:** `A`, `S`, `D`, `W` (W zum Springen)
+    - **Angriff:** `F`
+    - **Spezialmove:** `G`
 - **Pause:** `Backspace`
 
-### FAQ
+### Häufig gestellte Fragen (FAQ)
 
-**Wie gewinne ich ein Match?**  
-Je nach Modus gewinnst du mit den meisten KOs oder den letzten verbleibenden Leben. Entscheidend ist, andere von der Plattform zu werfen und selbst nicht zu oft zu fallen.
+**Wie gewinne ich ein Match?**
 
-**Wie mache ich unterschiedliche Angriffe?**  
-Kombiniere Angriffstaste (`P` oder `F`) mit Richtungen. Beispiel: `Pfeil hoch + P` für einen Up‑Attack. Teste Boden‑ und Luftangriffe, um das Moveset deines Charakters kennenzulernen.
+Du gewinnst, indem du die meisten KOs hast (oder die letzten verbleibenden Leben, je nach Spielmodus), wenn das Match endet. Der Schlüssel ist, andere Spieler vom Bildschirm zu werfen.
 
-**Ist das ein offizielles Nintendo‑Spiel?**  
-Nein. Super Smash Flash ist ein nicht-kommerzielles Fanprojekt von McLeodGaming als Hommage an Super Smash Bros.
+**Wie führe ich verschiedene Angriffe aus?**
+
+Kombiniere die Angriffstaste (`P` oder `F`) mit Richtungstasten. Zum Beispiel führt das Drücken von `Pfeil hoch` + `P` einen Aufwärtsangriff aus. Experimentiere mit verschiedenen Kombinationen am Boden und in der Luft, um alle Moves deines Charakters zu entdecken.
+
+**Ist das ein offizielles Nintendo-Spiel?**
+
+Nein, Super Smash Flash ist ein nicht-kommerzielles Fanprojekt, erstellt von McLeodGaming. Es ist eine Hommage an die Super Smash Bros.-Serie.

@@ -35,37 +35,9 @@ Optimierungspuzzle.
 
 ### **Strategie & Tipps**
 
+Die Strategie bei Cookie Clicker dreht sich um Effizienz und das Wissen, wann wichtige Entscheidungen zu treffen sind.
 
-- **Sugar Lumps**: You get one Sugar Lump about every 24 hours. These can be used to level up your buildings, with each level granting a permanent +1% CpS bonus to that building type. Use them wisely.
-
-- **Minigames**: As you level up certain buildings with Sugar Lumps, you unlock complex minigames (the Garden, the Pantheon, the Grimoire). Mastering these provides huge long-term bonuses but requires active management.
-
-- **The Grandmapocalypse**: Researching specific "Bingo center" upgrades will trigger the Grandmapocalypse. This changes the game's appearance and replaces Golden Cookies with "Wrath Cookies," which have a chance of giving negative effects. It's a strategic choice: you can either embrace it for its unique rewards or pay to appease the grandmas and end it.
-
-- **The Loop**: The late game consists of repeating the cycle: start a new run, buy buildings and upgrades quickly, leverage Golden Cookie combos (e.g., getting a "Frenzy" and a "Click Frenzy" at the same time for a massive boost), push as far as you can, and ascend again for more Prestige.
-
-**3. Late Game (Efficient Runs & Minigames):**
-
-- **Spending Heavenly Chips**: After ascending, you enter a new screen where you can spend your Heavenly Chips on powerful, permanent celestial upgrades. For your first ascension, focus on upgrades like "Persistent memory," "How to bake your dragon," and the "Cookie box" upgrades.
-
-- **When to Ascend First**: The most common advice is to ascend for the first time when you have accumulated **200-440** Prestige Levels. Ascending too early is inefficient. You can see your potential prestige level in the "Stats" menu under "Legacy."
-
-- **What is Ascension?**: Ascension is the game's prestige mechanic. You can choose to reset your game (losing your cookies, buildings, and upgrades) in exchange for Heavenly Chips and Prestige Levels. Each Prestige Level gives a permanent +1% boost to your CpS for all future playthroughs.
-
-**2. Mid Game (Preparing for Ascension):**
-
-- **Buy Upgrades**: As soon as an upgrade appears in the store, try to buy it. They provide significant percentage-based boosts to your CpS.
-
-- **CLICK THE GOLDEN COOKIES**: This is the most important tip. A golden cookie will randomly appear on screen every few minutes. Clicking it grants a powerful, temporary bonus (like "Frenzy," which multiplies your CpS by 7, or "Click Frenzy," which multiplies your click power by 777). These are essential for rapid progress.
-
-- **Buy Buildings**: Continuously buy the cheapest, most effective building available. A good strategy is to buy one of each building type as you unlock them to see what upgrades become available.
-
-- **Initial Clicks**: Start by manually clicking the cookie until you can afford your first Cursor.
-
-**1. Early Game (Your First Run):**
-
-Strategy in Cookie Clicker is about efficiency and knowing when to make key decisions.
-### 1. Frühes Spiel (erste Runde)
+**1. Frühes Spiel (erste Runde):**
 
 *   **Erste Klicks:** Klicke manuell, bis du dir deinen ersten Cursor leisten
     kannst.
@@ -77,15 +49,9 @@ Strategy in Cookie Clicker is about efficiency and knowing when to make key deci
     mächtige, temporäre Boni (z. B. "Frenzy" mit ×7 CpS oder "Click Frenzy" mit
     ×777 Klickstärke). Diese sind entscheidend für schnellen Fortschritt.
 *   **Upgrades priorisieren:** Kaufe auftauchende Upgrades möglichst früh – sie
-
-    - **SHIFT + Click**: Buys 1000 of a building/upgrade.
-
-    - **CTRL + Click**: Buys 100 of a building/upgrade.
-
-    - **CTRL + SHIFT + Click**: Buys 10 of a building/upgrade.
     bieten starke prozentuale CpS-Boni.
 
-### 2. Mittleres Spiel (Vorbereitung auf Ascension)
+**2. Mittleres Spiel (Vorbereitung auf Ascension):**
 
 *   **Was ist Ascension?** Beim Aufstieg setzt du deinen Spielstand zurück
     (Kekse, Gebäude, Upgrades), erhältst aber Heavenly Chips und
@@ -99,12 +65,7 @@ Strategy in Cookie Clicker is about efficiency and knowing when to make key deci
     "Persistent Memory", "How to bake your dragon" und die Cookie-Box-Upgrades.
 
 
-No. The game is designed to be effectively endless. The goal is to see the numbers go up and to unlock all achievements and upgrades, which is a monumental task.
-
-**5. Is there an end to Cookie Clicker?**
-
-It's mostly based on luck. The spell "Force the Hand of Fate" from the Grimoire (Wizard Tower minigame) allows you to spawn an extra Golden Cookie, which is the primary method for intentionally creating powerful combos.
-#### 3. Spätes Spiel (effiziente Runs & Minigames)
+**3. Spätes Spiel (effiziente Runs & Minigames):**
 
 *   **Der Loop:** Später besteht das Spiel darin, immer wieder schnelle Runs zu
     spielen: neu starten, Gebäude/Upgrades zügig kaufen, Golden-Cookie-Kombos

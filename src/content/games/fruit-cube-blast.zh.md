@@ -39,7 +39,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ### Controls Guide
 
 
-The controls are extremely simple.
+操作方式非常簡單。
 - **爆破方塊：** 使用滑鼠或手指點擊任意相鄰、同色且至少 2 個以上的方塊群即可消除。
 - **啟動道具：** 直接點擊火箭、炸彈等道具方塊即可觸發其效果。
 

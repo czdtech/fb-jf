@@ -18,42 +18,33 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### Présentation détaillée
 
-Om Nom Run est un jeu de course infinie où tu incarnes Om Nom et ses amis dans des rues pleines d’obstacles, de voitures et de bonus. Tu dois changer de voie, sauter par‑dessus les barrières, glisser sous les obstacles et utiliser des power‑ups pour aller toujours plus loin. Certaines versions proposent aussi des missions et objectifs spécifiques à accomplir.
+Om Nom Run est un jeu de course infinie où tu incarnes Om Nom et ses amis dans des rues pleines d'obstacles, de voitures et de bonus. Tu dois changer de voie, sauter par‑dessus les barrières, glisser sous les obstacles et utiliser des power‑ups pour aller toujours plus loin. Certaines versions proposent aussi des missions et objectifs spécifiques à accomplir.
 
 ### Stratégies de jeu et progression
 
-1.  **Lire loin devant :** regarde toujours plusieurs cases devant Om Nom pour anticiper les obstacles plutôt que de réagir au dernier moment.  
-2.  **Utiliser les power‑ups :** aimanteurs de pièces, multiplicateurs de score et boucliers sont précieux ; privilégie leur collecte, surtout en début de run.  
-    - **Compléter les missions :** suis les objectifs (distance, pièces, cascades) pour débloquer des récompenses et de nouveaux personnages.  
-    - **Mémoriser les patterns :** certains enchaînements d’obstacles reviennent souvent ; les reconnaître te permettra d’y réagir automatiquement.
+1.  **Lire loin devant :** regarde toujours plusieurs cases devant Om Nom pour anticiper les obstacles plutôt que de réagir au dernier moment.
+2.  **Utiliser les power‑ups :** aimanteurs de pièces, multiplicateurs de score et boucliers sont précieux ; privilégie leur collecte, surtout en début de run.
+    *   **Aimant :** collecte automatiquement toutes les pièces à proximité pendant un court instant.
+    *   **Fusée / Jetpack :** te propulse dans les airs, te permettant de voler au‑dessus des obstacles tout en récoltant des pièces.
+    *   **Pièces doublées :** double la valeur de chaque pièce collectée pendant un temps limité.
+3.  **Compléter les missions :** le jeu te donne des missions à accomplir pendant ta course (ex : « Sauter 10 fois », « Collecter 200 pièces »). Les terminer est le meilleur moyen d'augmenter ton multiplicateur de score et de gagner des bonus.
+4.  **Améliorer tes boosters :** utilise tes pièces pour améliorer la durée et l'efficacité de tes power‑ups dans le menu principal. Un aimant ou une fusée qui dure plus longtemps peut grandement améliorer tes scores.
 
-
-    - **Upgrade Your Boosters:** Use the coins you collect to upgrade the duration and effectiveness of your power-ups in the main menu. A longer-lasting magnet or rocket can dramatically improve your scores.
-
-- **Focus on Missions:** The game will give you missions to complete during your run (e.g., "Jump 10 times," "Collect 200 coins"). Completing these missions is the fastest way to increase your score multiplier and earn bonus rewards.
-
-- **Double Coins:** Doubles the value of every coin you collect for a limited time.
 ### Commandes
 
+Le jeu utilise des gestes de glissement simples et intuitifs.
 
-The game uses simple and intuitive swipe gestures.
-- Déplacement gauche/droite : balayage latéral ou touches fléchées.  
-- Sauter : glisser vers le haut ou touche dédiée.  
-- Glisser : glisser vers le bas pour passer sous les obstacles.
+*   **Balayage gauche/droite :** pour changer de voie.
+*   **Balayage vers le haut :** pour sauter par‑dessus les obstacles.
+*   **Balayage vers le bas :** pour glisser sous les obstacles.
 
 ### Foire aux questions (FAQ)
 
-- **Q : Comment gagner plus de pièces ?**  
-  **R :** Vise les lignes avec le plus de pièces, utilise l’aimant lorsque disponible et tente des runs plus longs pour profiter des multiplicateurs.
+*   **Q : Quel est l'objectif principal du jeu ?**
+    *   **R :** L'objectif principal est de courir le plus loin possible pour obtenir le meilleur score. Compléter les missions pendant ta course est la clé pour augmenter ton multiplicateur de score.
 
-    - **Q : Puis‑je jouer avec d’autres personnages que Om Nom ?**  
+*   **Q : Que se passe‑t‑il si je heurte un obstacle ?**
+    *   **R :** Ta course se termine. Cependant, tu as souvent la possibilité de dépenser une monnaie spéciale (comme des clés) pour avoir une seconde chance et continuer ta course là où tu t'es écrasé.
 
-- **A:** New characters can usually be unlocked by collecting a large number of coins or by gathering special character tokens that appear randomly during runs.
-
-    - **Q: How do I unlock other characters like Om Nelle?**
-
-- **A:** Your run ends. However, you often have the option to spend a special currency (like keys) to get a second chance and continue your run from where you crashed.
-
-    - **Q: What happens when I hit an obstacle?**
-  **R :** Oui, de nombreux skins ou personnages se débloquent via les missions ou la boutique du jeu.
-
+*   **Q : Comment débloquer d'autres personnages comme Om Nelle ?**
+    *   **R :** Les nouveaux personnages peuvent généralement être débloqués en collectant un grand nombre de pièces ou en rassemblant des jetons de personnage spéciaux qui apparaissent aléatoirement pendant les courses.

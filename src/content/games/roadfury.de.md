@@ -43,30 +43,22 @@ Road Fury ist ein rasanter Top-Down-Vertical-Shooter, in dem du ein schwer
 
 ### Steuerung
 
+Die Steuerung erfolgt per einfacher Ziehbewegung.
+
 *   **Fahrzeug bewegen:** Halte die linke Maustaste gedrückt (oder den Finger
     auf dem Screen) und ziehe nach links/rechts, um dein Auto zu steuern.
 *   **Schießen:** Deine Standardwaffe feuert automatisch, damit du dich ganz auf
-
-- **Shooting:** Your primary weapon fires automatically.
     Ausweichen und Sammeln konzentrieren kannst.
 
 ### Häufige Fragen (FAQ)
 
 *   **F: Wie feuere ich meine Waffe?**
-    **A:** Gar nicht – dein Auto schießt automatisch. Du kümmerst dich nur um
-    Positionierung.
-
-    - **F: Was sind die schwebenden Symbole auf der Straße?**
-    **A:** Das sind Power-ups. Fahre darüber, um Schilde, Raketen,
-    Reparatur-Kits oder Münzmagnete zu erhalten.
-
+    *   **A:** Gar nicht – dein Auto schießt automatisch. Du kümmerst dich nur
+        um Positionierung.
+*   **F: Was sind die schwebenden Symbole auf der Straße?**
+    *   **A:** Das sind Power-ups. Fahre darüber, um Schilde, Raketen,
+        Reparatur-Kits oder Münzmagnete zu erhalten.
 *   **F: Was ist das wichtigste Upgrade?**
-
-    - **A:** In the beginning, upgrading your main weapon's damage is a great investment as it helps you destroy enemies faster and earn coins more quickly. After that, increasing your armor to survive more hits is also very important.
-
-- **Q: What is the best upgrade?**
-
-    - **A:** These are temporary power-ups. Drive over them to collect shields, powerful special weapons like rockets, health repairs, and magnets that attract coins.
-    **A:** Zu Beginn lohnt es sich, den Schaden deiner Hauptwaffe zu erhöhen,
-    damit du Gegner schneller zerstörst und mehr Münzen bekommst. Danach ist
-    zusätzliche Panzerung entscheidend, um länger durchzuhalten.
+    *   **A:** Zu Beginn lohnt es sich, den Schaden deiner Hauptwaffe zu
+        erhöhen, damit du Gegner schneller zerstörst und mehr Münzen bekommst.
+        Danach ist zusätzliche Panzerung entscheidend, um länger durchzuhalten.

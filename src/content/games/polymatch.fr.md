@@ -16,34 +16,27 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### Présentation détaillée
 
-PolyMatch est un jeu de puzzle d’observation et de gestion d’espace. Le plateau est rempli de tuiles portant des motifs variés. Ton objectif est de les éliminer en formant des paires, mais tu ne peux stocker qu’un petit nombre de tuiles dans une zone de réserve en bas de l’écran. Si la réserve se remplit sans qu’aucun match ne soit possible, c’est le game over.
+PolyMatch est un jeu de puzzle d'association de tuiles engageant qui met à l'épreuve ton observation et ta réflexion stratégique. Le jeu te présente un plateau rempli de diverses tuiles, chacune avec une image ou un motif unique. Ton objectif est de vider le plateau en trouvant et associant des paires de tuiles identiques. La difficulté réside dans la zone de réserve limitée en bas de l'écran, qui ne peut contenir que quelques tuiles. Tu dois sélectionner soigneusement les tuiles pour t'assurer de pouvoir faire des associations et empêcher la zone de réserve de se remplir, ce qui mènerait à un game over.
 
 ### Stratégies de jeu et progression
 
-1.  **Faire les matches visibles d’abord :** commence par les paires évidentes et facilement accessibles pour dégager de l’espace.  
-2.  **Protéger la réserve :** ne clique jamais sur une tuile sans savoir comment la jumeler ; la réserve est ta ressource la plus précieuse.  
-3.  **Anticiper les révélations :** chaque élimination fait apparaître de nouvelles tuiles ; essaie d’imaginer quels motifs pourraient sortir et comment ils compléteront ta réserve.  
-4.  **Ne pas se précipiter :** la plupart des versions ne sont pas chronométrées ; prends le temps d’analyser le plateau, une seule mauvaise sélection peut te bloquer.
+1.  **Prioriser les associations visibles :** cherche toujours et fais les associations qui sont immédiatement visibles et accessibles. Cela aide à libérer de l'espace et révéler plus de tuiles.
+2.  **Gérer la zone de réserve :** la zone de réserve est ta ressource la plus critique. Ne tape jamais sur une tuile sans avoir un plan clair pour comment elle sera associée. Évite de la remplir avec des tuiles non associées.
+3.  **Chercher les tuiles cachées :** au fur et à mesure que tu élimines des tuiles, de nouvelles seront révélées. Essaie d'anticiper quelles tuiles deviendront disponibles et comment elles pourraient contribuer aux futures associations.
+4.  **Taper stratégiquement :** si tu as plusieurs options pour une association, considère laquelle ouvrira le plus de possibilités ou éliminera les sections les plus difficiles du plateau.
+5.  **Ne pas se précipiter :** il n'y a pas de limite de temps dans beaucoup de versions de PolyMatch, donc prends ton temps pour analyser le plateau et planifier tes coups soigneusement. Un seul mauvais tap peut mener au game over.
 
-
-- **Don't Rush:** There's no time limit in many versions of PolyMatch, so take your time to analyze the board and plan your moves carefully. A single wrong tap can lead to a game over.
 ### Commandes
 
-- Clique ou touche une tuile pour l’envoyer dans la zone de réserve ; lorsqu’une paire complète est présente, elle est retirée automatiquement.
+*   **Sélectionner une tuile :** clique ou tape sur une tuile du plateau de jeu principal pour la déplacer vers la zone de réserve en bas.
 
 ### Foire aux questions (FAQ)
 
-- **Q : Comment gagner un niveau ?**  
-  **R :** En éliminant toutes les tuiles du plateau avant que la réserve n’atteigne sa capacité maximale.
+*   **Q : Comment gagner un niveau ?**
+    *   **R :** Tu gagnes un niveau en éliminant avec succès toutes les tuiles du plateau de jeu principal.
 
-    - **Q : Que se passe‑t‑il si la réserve est pleine ?**  
+*   **Q : Que se passe‑t‑il si la zone de réserve se remplit ?**
+    *   **R :** Si la zone de réserve en bas de l'écran devient pleine (généralement 6 tuiles) et que tu ne peux plus faire d'associations, la partie se termine.
 
-- **A:** Some versions of PolyMatch may offer power-ups or hints to help you when you're stuck. These might include a shuffle option or a hint to reveal a match.
-
-    - **Q: Are there power-ups or hints?**
-
-- **A:** If the holding area at the bottom of the screen becomes full (typically 6 tiles) and you cannot make any more matches, the game will end.
-
-    - **Q: What happens if the holding area fills up?**
-  **R :** Si tu ne peux plus faire de match et que la réserve est saturée, la partie est perdue.
-
+*   **Q : Y a‑t‑il des power‑ups ou des indices ?**
+    *   **R :** Certaines versions de PolyMatch peuvent offrir des power‑ups ou des indices pour t'aider quand tu es bloqué. Ceux‑ci peuvent inclure une option de mélange ou un indice pour révéler une association.

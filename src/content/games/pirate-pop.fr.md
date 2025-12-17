@@ -15,44 +15,27 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### Présentation détaillée
 
-Pirate Pop est un bubble shooter classique dans un décor de pirates. À bord de ton navire, tu tires des bulles colorées sur un plafond de bulles déjà en place. En alignant des groupes de trois bulles de même couleur (ou plus), tu les fais éclater et peux parfois faire tomber des grappes entières.
+Pirate Pop est un jeu de bubble shooter amusant et addictif avec un thème pirate flamboyant. Ton objectif est de nettoyer l'écran des bulles colorées en tirant avec ton canon et en alignant trois bulles ou plus de la même couleur. Vise soigneusement, utilise les murs pour faire des tirs rebondis difficiles, et crée de grandes réactions en chaîne pour faire tomber de gros amas de bulles et réclamer le trésor pirate !
 
 ### Stratégies de jeu et progression
 
-1.  **Prioriser les suspensions :** cible les bulles qui tiennent de gros amas ; faire tomber une masse entière est plus efficace que casser de petits groupes.  
-2.  **Utiliser les rebonds :** vise les parois latérales pour atteindre les bulles cachées derrière d’autres.  
-3.  **Gérer les couleurs rares :** si une couleur apparaît peu, essaie de la consommer rapidement pour faire tourner la pioche.  
-4.  **Anticiper la prochaine bulle :** certaines versions affichent la prochaine couleur ; prévois ton tir actuel et le suivant.
+1.  **Viser haut pour de grosses chutes :** la façon la plus efficace de marquer gros est de faire éclater un groupe de bulles qui supporte d'autres bulles en dessous. Cela provoquera une énorme avalanche, nettoyant une grande partie du plateau d'un coup et te rapportant des points de combo massifs.
+2.  **Utiliser les murs :** maîtrise le tir rebondi. Faire rebondir ta bulle sur les parois latérales est une compétence cruciale pour atteindre les endroits serrés et frapper des bulles autrement bloquées.
+3.  **Planifier à l'avance :** le jeu te montre généralement la prochaine bulle dans ton canon. Utilise cela à ton avantage. Si ta bulle actuelle n'est pas un bon match, vois si tu peux l'utiliser pour préparer un meilleur tir pour la suivante.
+4.  **Ne les laisse pas t'atteindre :** une ligne de bulles descendra lentement. Si une bulle franchit la ligne en bas de l'écran, ton voyage est terminé !
 
 ### Commandes
 
-- Déplace le viseur avec la souris ou le doigt, puis tape/clique pour tirer une bulle dans la direction choisie.
-
-
-
-- **A:** You'll have to make a tactical shot. Try to place the bubble in a spot where it won't get in the way, or where it can be easily cleared later on with another match.
-
-- **Q: What if I can't make a match?**
-
-    - **A:** By causing large clusters of bubbles to fall at once. The more bubbles you drop in a single shot, the higher your combo bonus will be.
-
-- **Q: How do I get the highest score?**
-
-    - **A:** To clear all the bubbles from the board and achieve the highest score possible.
-
-- **Q: What is the goal of the game?**
+*   **Viser :** déplace ta souris pour viser le canon. Une ligne directrice utile te montrera où ta bulle ira.
+*   **Tirer :** clique sur le bouton gauche de la souris pour tirer la bulle.
 
 ### Foire aux questions (FAQ)
 
-- **Shoot:** Click the left mouse button to fire the bubble.
+*   **Q : Quel est l'objectif du jeu ?**
+    *   **R :** Éliminer toutes les bulles du plateau et atteindre le score le plus élevé possible.
 
+*   **Q : Comment obtenir le score le plus élevé ?**
+    *   **R :** En faisant tomber de gros amas de bulles d'un coup. Plus tu fais tomber de bulles en un seul tir, plus ton bonus de combo sera élevé.
 
-    - **A:** You'll have to make a tactical shot. Try to place the bubble in a spot where it won't get in the way, or where it can be easily cleared later on with another match.
-
-- **Q: What if I can't make a match?**
-
-    - **A:** By causing large clusters of bubbles to fall at once. The more bubbles you drop in a single shot, the higher your combo bonus will be.
-
-- **Q: How do I get the highest score?**
-
-    - **A:** To clear all the bubbles from the board and achieve the highest score possible.
+*   **Q : Et si je ne peux pas faire de match ?**
+    *   **R :** Tu devras faire un tir tactique. Essaie de placer la bulle à un endroit où elle ne gênera pas, ou où elle pourra être facilement éliminée plus tard avec un autre match.

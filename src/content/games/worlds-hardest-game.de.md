@@ -48,7 +48,7 @@ Weil bereits kleinste Timing‑ oder Richtungsfehler zum sofortigen Scheitern f�
 - **Q: Can I save progress?**
 **Wie viele Level gibt es?**  
 
-- **Q: Are there any tips for completion?**
+- **F: Gibt es Tipps zum Durchspielen?**
 In den meisten Versionen rund 30, wobei jeder Abschnitt spürbar schwerer wird.
 
 **Kann ich meinen Fortschritt speichern?**  

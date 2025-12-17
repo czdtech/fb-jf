@@ -3,57 +3,43 @@ locale: zh
 urlstr: tile-journey
 title: 《Tile Journey》方块旅程
 description: 《Tile Journey》是一款 3D 方块配对消除游戏。通过从堆叠结构中依次取出方块，在托盘中凑齐三张相同图案进行消除，清空所有方块即算通关。
-iframeSrc: 'https://tilejourney.h5games.usercontent.goog/v/4n2c7b1k9d5p0/'
+iframeSrc: 'https://0i1jh8boqif48.h5games.usercontent.goog/v/1643ot8on0v9g/'
 thumbnail: /new-images/tile-journey.png
 tags:
   - puzzle
-  - match 3
   - casual
-score: 4.0/5  (1800 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
+  - thinky
+score: 4.5/5  (2650 votes)
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
-
 
 ### 详细游戏介绍
 
-《Tile Journey》与“Tile Guru”等 3 消方块游戏类似，但在关卡设计与图案风格上更丰富。你面对的是一堆立体叠放的图案方块，每次可以点击一个未被遮挡的方块，将其放入下方托盘。当托盘中某种图案累积到三张时，这三张会自动消失；若托盘被填满且无法形成新的三消，则关卡失败。
+《Tile Journey》是一款现代轻松的方块配对解谜游戏，挑战你的战略思维。目标是通过选择三个相同的方块来清空堆叠着各种方块的棋盘。与传统的三消游戏不同，你不需要交换方块。相反，你选择方块并将它们移动到屏幕底部容量有限的收集托盘中。当托盘中有三个相同的方块时，它们就会被清除。你必须仔细规划你的每一步，在不让托盘填满的情况下清空整个棋盘。
 
 ### 游玩策略与通关指引
 
-1.  **优先拆“锁死”结构：** 从上层或边缘着手，优先拿走会解锁更多方块的那几块，避免过早造成大面积遮挡。
-2.  **控制托盘多样性：** 同一时刻尽量不要在托盘中堆太多不同图案，优先把已接近三张的图案凑齐消除，保持槽位充裕。
-3.  **留意剩余数量：** 观察场上某种图案还剩多少块，判断是否有机会组成完整三消，以免占着槽位却最终凑不齐。
-4.  **善用道具：** 如果关卡提供提示、撤销或洗牌等道具，在确实接近卡死时再使用，最大化利用它们的价值。
+1.  **黄金法则：** 收集托盘是有限的（通常只有七个槽位）。如果你在没有完成匹配的情况下完全填满它，你就输了。每一步都必须牢记这一点。
+2.  **提前规划：** 不要只点击你看到的前三个匹配方块。看看下面的方块。优先点击能揭示最多新方块的方块，为未来的移动提供更多选择。
+3.  **将托盘用作暂存区：** 你不必立即完成三个一组。你可以使用托盘临时存放方块，同时你正在努力发现你需要的第三块。例如，如果托盘中有两个相同的方块，你可以在寻找第三个匹配方块时拾取其他方块。
+4.  **三思而后行：** 在将方块放入托盘之前，确保你有计划。如果你把一个无法很快匹配的方块放入托盘，它只会占用宝贵的空间。
 
 ### 操作说明
 
+游戏使用简单的点击或触摸操作。
 
-The game is played with simple clicks or taps.
-*   **选牌：** 点击可见且未被覆盖的方块，将其移入托盘；
-*   **三消：** 当托盘中同一图案达到三张时自动消除；
-*   **道具：** 通过界面按钮使用提示、撤销或洗牌等功能（若有）。
+*   **选择方块：** 点击主棋盘上任何未被覆盖的方块，将其移动到底部的收集托盘。
 
-### 常见问题解答（FAQ）
+### 常见问题（FAQ）
 
+*   **问：游戏的目标是什么？**
+    *   **答：** 通过在收集托盘中以三个一组的方式收集方块，清空棋盘上的所有方块。
 
-- **A:** Many versions of this game include helpful power-ups like an "Undo" button to reverse your last move, a "Hint" to show a possible match, or a "Shuffle" to rearrange the tiles on the board.
+*   **问：为什么我无法选择某个方块？**
+    *   **答：** 你只能选择位于顶层且未被任何其他方块覆盖的方块。你必须清除顶部的方块才能访问下面的方块。
 
-    - **Q: Are there power-ups?**
+*   **问：如果我的收集托盘满了会怎样？**
+    *   **答：** 如果托盘中的所有槽位都被填满，而你无法用现有的方块组成三个一组，游戏就结束了，你必须重新开始该关卡。
 
-- **A:** If all the slots in your tray are filled and you cannot form a set of three with the tiles you have, the game is over and you must restart the level.
-
-    - **Q: What happens if my collection tray gets full?**
-
-- **A:** You can only select tiles that are on the top layer and are not covered by any other tile. You must clear the tiles on top to access the ones underneath.
-
-    - **Q: Why can't I select a certain tile?**
-
-- **A:** To clear all tiles from the board by collecting them in sets of three in your collection tray.
-
-    - **Q: What is the objective of the game?**
-**问：为什么感觉到后面经常卡死？****
-答：** 大多是前期把过多不同图案随意塞入托盘，导致后半段没有足够槽位来拆解堆叠。可以尝试更克制地取牌，并优先完成已有两张的图案。
-
-**问：关卡后期会很难吗？****
-答：** 随着层数和图案种类增加，确实需要更多规划，但核心规则始终简单，很适合边放松边慢慢思考。
-
+*   **问：有增强道具吗？**
+    *   **答：** 这款游戏的许多版本都包含有用的增强道具，如"撤销"按钮可以撤销你的上一步操作，"提示"可以显示可能的匹配，或"洗牌"可以重新排列棋盘上的方块。

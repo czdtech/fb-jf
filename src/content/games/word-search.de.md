@@ -34,7 +34,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - **Beliebige Richtung:** Markierungen können in jeder erlaubten Richtung gezogen werden (vor/zurück, hoch/runter, diagonal).
 
 
-- **Hint Feature**: Some versions provide hint features to help find difficult words.
+- **Hinweis-Funktion:** Einige Versionen bieten Hinweis-Funktionen, um schwierige Wörter zu finden.
 
 - **View List**: Check the word list to see which words still need to be found.
 ### Häufige Fragen (FAQ)

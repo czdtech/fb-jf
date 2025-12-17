@@ -50,18 +50,12 @@ Snowboard King 2024 ist ein rasanter Arcade-Ride den Berg hinunter. Du fährst
 ### Häufige Fragen (FAQ)
 
 *   **F: Was ist das Hauptziel?**
-    **A:** So weit wie möglich den Berg hinabzufahren, ohne zu stürzen oder von
+    *   **A:** So weit wie möglich den Berg hinabzufahren, ohne zu stürzen oder von
     der Lawine eingeholt zu werden.
 
-    - **F: Was passiert bei einem Crash?**
-    **A:** Du prallst gegen das Hindernis und dein Lauf ist beendet.
+*   **F: Was passiert bei einem Crash?**
+    *   **A:** Du prallst gegen das Hindernis und dein Lauf ist beendet.
 
 *   **F: Wie steigere ich meinen Score?**
-
-    - **A:** Your score is based on the distance you travel. The farther you go, the higher your score. Upgrading your skills is the best way to improve your potential distance.
-
-- **Q: How do I get a higher score?**
-
-    - **A:** You will crash, and your run will be over.
-    **A:** Dein Punktestand richtet sich nach der Distanz. Upgrades, gutes
+    *   **A:** Dein Punktestand richtet sich nach der Distanz. Upgrades, gutes
     Ausweichen und klug eingesetzter Boost helfen, weiter zu kommen.

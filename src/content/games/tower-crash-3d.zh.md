@@ -28,7 +28,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ### 操作说明
 
 
-The controls are simple and intuitive.
+操作简单直观。
 *   **瞄准射击：** 拖动或移动瞄准准星对准目标塔块，点击即可发射球体；
 *   **切换球体颜色（若有）：** 某些版本允许切换即将发射的球体颜色，以应对不同塔块布局；
 *   **重试关卡：** 如射击失误导致剩余子弹不足以清塔，可选择重开再来一遍。
@@ -36,17 +36,17 @@ The controls are simple and intuitive.
 ### 常见问题解答（FAQ）
 
 
-- **A:** Wait for your cannon to load the color you need. The color of the ball in your cannon changes, so be patient and wait for the right color to target the tower's weakest point.
+- **答：** 等大炮装填出你需要的颜色。炮膛里球的颜色会变化，所以要耐心等待合适的颜色，再去瞄准塔的薄弱点。
 
-    - **Q: What is the best strategy if the tower is multi-colored?**
+    - **问：塔是多种颜色时最好的策略是什么？**
 
-- **A:** You win the level when the highest point of the remaining structure falls below the goal line indicated on the screen. You must do this before running out of cannonballs.
+- **答：** 当剩余结构的最高点落到屏幕上标示的目标线以下时，你就过关了。你必须在炮弹用完之前做到这一点。
 
-    - **Q: How do I complete a level?**
+    - **问：如何完成一关？**
 
-- **A:** You must hit a block with a ball of the exact same color. If your ball is blue, it will only destroy blue blocks.
+- **答：** 你必须用与方块颜色完全一致的球击中它。如果你的球是蓝色，它只会摧毁蓝色方块。
 
-    - **Q: Why didn't the block break when I shot it?**
+    - **问：为什么我射中了方块却没碎？**
 **问：击中不同颜色会怎样？****
 答：** 通常不会造成有效破坏，相当于浪费了一发子弹，因此务必看清颜色再开火。
 

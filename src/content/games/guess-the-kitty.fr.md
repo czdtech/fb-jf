@@ -30,6 +30,12 @@ Guess the Kitty est un petit quiz dans lequel tu dois identifier des races de ch
 - Souris / tactile pour sélectionner les réponses.  
 - Clavier lorsque tu dois saisir une réponse texte.
 
+### Astuces
+
+- Apprends les motifs distinctifs (le M du tabby, les taches de l'écaille de tortue, les masques colourpoint).
+- Compare la silhouette de la tête et des oreilles pour cerner la famille féline.
+- En mode chronométré, ne te précipite pas : les bonus de série dépassent souvent le gain d'une réponse rapide mais risquée.
+
 ### Foire aux questions (FAQ)
 
 - Q : Comment mieux différencier les races qui se ressemblent ?
@@ -42,25 +48,4 @@ Guess the Kitty est un petit quiz dans lequel tu dois identifier des races de ch
 
 - Q : Le jeu propose‑t‑il un mode entraînement ?
   
-
-- Q: How can I improve accuracy on similar breeds?
-
-### Foire aux questions (FAQ)
   R : Certains hôtes offrent des manches casual/pratique sans limite de temps.
-
-
-
-A: Some hosts include casual/practice rounds without timers.
-
-- Q: Does the game include a practice mode?
-
-A: Only when you’ve narrowed to two choices; otherwise they waste points.
-
-- Q: Are hints worth using in the game?
-
-
-A: Some hosts include casual/practice rounds without timers.
-
-- Q: Does the game include a practice mode?
-
-A: Only when you’ve narrowed to two choices; otherwise they waste points.

@@ -18,57 +18,30 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### Présentation détaillée
 
-Jungle Match Puzzle est un match‑3 coloré rempli de lianes, caisses et cases collantes. À chaque niveau, tu dois remplir des objectifs (score, idoles à collecter, animaux à libérer…) avec un nombre de coups limité. Les power‑ups combinés (bombe + ligne, double ligne…) permettent de raser la végétation dense et d’ouvrir le plateau à de grandes cascades.
+Jungle Match Puzzle est un match‑3 coloré avec des lianes, caisses et tuiles collantes comme bloqueurs. Tu dois compléter les objectifs de scène (score, collecter des idoles, libérer des animaux) dans un nombre de coups limité. Combiner des power‑ups (bombe + ligne, double ligne) balaye la végétation dense et ouvre le plateau pour des cascades de nettoyage.
 
 ### Stratégies de jeu
 
-1.  **Objectif d’abord**  
-    Attaque en priorité les bloqueurs et les éléments liés à l’objectif (idoles, animaux, etc.), avant de chercher le gros score.
-
-2.  **Travaille par le bas**  
-    Faire des matches en bas génère des cascades qui retirent souvent des bloqueurs plus haut gratuitement.
-
-3.  **Combine les power‑ups**  
-    Fusionne des bonus pour des effets à grande échelle ; garde tes meilleures combinaisons pour les zones très encombrées.
-
-4.  **Économie de coups**  
-    Essaie de planifier 2–3 mouvements à l’avance et évite d’isoler des couleurs contre les murs.
-
-5.  **Attention aux cases collantes**  
-    Les tuiles collantes nécessitent des matches adjacents pour être dégagées ; prévois des détours au lieu de les ignorer.
+1.  Objectif d'abord : Priorise le nettoyage des bloqueurs et les objectifs de collection avant le score pur.
+2.  Nettoyage par le bas : Travaille depuis le bas pour générer des cascades qui suppriment les bloqueurs au‑dessus.
+3.  Combos de power‑ups : Fusionne pour des effets à l'échelle du plateau ; garde les combos forts pour les bloqueurs groupés.
+4.  Économie de coups : Planifie 2–3 coups à l'avance ; évite d'isoler les couleurs près des murs.
+5.  Conscience des dangers : Les tuiles collantes nécessitent des alignements adjacents ; planifie des détours.
 
 ### Commandes
 
-- Fais glisser pour échanger deux pièces adjacentes, active les power‑ups en les faisant correspondre ou en les tapant, mets en pause ou relance via l’interface.
-
-
-
-A: Usually no; read the mode rules.
-
-- Q: Are diagonals allowed?
-
-A: Bomb + line for maximum coverage; double line for sweeping rows/cols.
-
-- Q: Best power‑up combo?
-
-A: Stop chasing points; clear blockers and chain combos to progress objectives per move.
-
-- Q: I fail on move limits — what should I change?
+- Fais glisser pour échanger ; active les power‑ups en alignant/tapant ; pause/réessayer via l'interface.
 
 ### Foire aux questions (FAQ)
 
+- **Q : J'échoue sur les limites de coups — que dois‑je changer ?**
+  
+  R : Arrête de chercher les points ; nettoie les bloqueurs et enchaîne les combos pour progresser sur les objectifs à chaque coup.
 
-A: Usually no; read the mode rules.
+- **Q : Meilleur combo de power‑up ?**
+  
+  R : Bombe + ligne pour une couverture maximale ; double ligne pour balayer les lignes/colonnes.
 
-- Q: Are diagonals allowed?
-
-A: Bomb + line for maximum coverage; double line for sweeping rows/cols.
-
-- Q: Best power‑up combo?
-
-A: Stop chasing points; clear blockers and chain combos to progress objectives per move.
-
-- Q: I fail on move limits — what should I change?
-
-
-A: Usually no; read the mode rules.
+- **Q : Les diagonales sont‑elles permises ?**
+  
+  R : Généralement non ; lis les règles du mode.

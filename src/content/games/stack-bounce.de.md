@@ -18,38 +18,30 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### Detaillierte Spieleinführung
 
-Stack Bounce ist ein farbenfrohes, süchtig machendes 3D‑Arcadespiel, in dem dein Timing alles entscheidet. Eine Kugel springt auf einer Helix aus Plattformen nach unten, und dein Ziel ist es, bis zum Fuß des Turms durchzubrechen. Bunte Segmente kannst du zerschmettern – die schwarzen Abschnitte sind jedoch tabu: Triffst du sie im Smash‑Modus, ist die Runde sofort vorbei. Dank One‑Touch‑Steuerung ist der Einstieg leicht, doch präzises Timing macht das Spiel anspruchsvoll.
+Stack Bounce ist ein lebhaftes und süchtig machendes 3D-Arcade-Spiel, das das Timing und die Reflexe der Spieler testet. Das Spiel zeigt einen springenden Ball, der durch einen Helix-Turm aus farbigen, zerstörbaren Plattformen absteigen muss. Das Ziel ist es, den Boden des Turms zu erreichen, indem du durch die Stapel zerschmetterst. Allerdings müssen Spieler strategisch die schwarzen, unzerstörbaren Abschnitte der Plattformen vermeiden, da das Auftreffen auf sie zu einem sofortigen Game Over führt. Mit seiner einfachen Ein-Touch-Steuerung und befriedigenden Zerstörungsphysik ist Stack Bounce leicht zu erlernen, aber schwer zu meistern.
 
 ### Spielstrategie & Walkthrough
 
-1.  **Gedrückt halten zum Zerschmettern:** Hältst du Maus oder Finger gedrückt, durchschlägt der Ball die farbigen Plattformen und fällt schneller. Lässt du los, prallt er nur ab.
-2.  **Loslassen im richtigen Moment:** Beobachte die Rotation des Turms und löse rechtzeitig, bevor der Ball einen schwarzen Abschnitt trifft – sonst ist das Spiel vorbei.
-3.  **Fever‑Modus aufbauen:** Zertrümmerst du mehrere Ebenen hintereinander ohne Pause, füllt sich eine Leiste. Ist sie voll, tritt der Ball in einen Feuer‑ bzw. Fever‑Modus ein und kann für kurze Zeit auch schwarze Segmente zerstören. Nutze diese Phase, um knifflige Stellen zu überspringen.
-4.  **Nicht gierig werden:** Oft ist es besser, kurz zu warten, bis eine längere Reihe farbiger Plattformen unter dir liegt, statt ungeduldig in ein schwarzes Segment zu rasen.
+1.  **Halten zum Zerschmettern:** Die Kernmechanik ist einfach: Drücke und halte den Bildschirm oder die Maustaste, um den Ball durch die farbigen Plattformen zerschmettern zu lassen. Je länger du hältst, desto schneller steigst du ab.
+2.  **Timing deines Loslassens:** Die wichtigste Fähigkeit ist zu wissen, wann du loslassen musst. Während sich der Turm dreht, musst du loslassen, kurz bevor der Ball einen schwarzen Abschnitt trifft. Der Ball wird dann harmlos auf der Plattform springen, bis du dich entscheidest, wieder zu zerschmettern.
+3.  **Fever-Modus aufbauen:** Wenn du erfolgreich mehrere Plattformen hintereinander zerschmetterst, ohne anzuhalten, baust du einen Power-Meter auf. Einmal voll, tritt der Ball in den "Fever-Modus" ein. In diesem Zustand wird er zu einem feurigen Projektil, das für eine kurze Zeit *jede* Plattform zerschmettern kann, einschließlich der schwarzen. Nutze dies zu deinem Vorteil, um schwierige Abschnitte zu überwinden.
+4.  **Geduld ist eine Tugend:** Werde nicht gierig. Es ist oft besser, zu pausieren und auf die richtige Öffnung zu warten, als das Risiko einzugehen, eine schwarze Plattform zu treffen, indem du hetzt. Warte auf eine lange Strecke farbiger Plattformen, bevor du gedrückt hältst, um Geschwindigkeit aufzubauen.
 
 ### Steuerung
 
-- **Desktop/Laptop:** Linke Maustaste gedrückt halten, um Plattformen zu zerschlagen, loslassen zum normalen Hüpfen.
-- **Mobil/Tablet:** Finger auf dem Bildschirm halten, um zu smashen, Finger anheben zum Stoppen.
+*   **Desktop/Laptop:** Drücke und halte die **linke Maustaste**, um durch Plattformen zu zerschmettern. Lass die Taste los, um aufzuhören zu zerschmettern und den Ball springen zu lassen.
+*   **Mobil/Tablet:** Drücke und halte deinen **Finger auf dem Bildschirm**, um zu zerschmettern. Heb deinen Finger, um aufzuhören.
 
-### Häufige Fragen (FAQ)
+### Häufig gestellte Fragen (FAQ)
 
-- **F: Was passiert, wenn ich ein schwarzes Segment treffe?**  
-  **A:** Der Ball zerbricht, die Runde endet und du musst das Level neu starten.
+*   **F: Was passiert, wenn ich eine schwarze Plattform treffe?**
+    *   **A:** Dein Ball zerbricht und das Spiel ist vorbei. Du musst das Level neu starten.
 
-    - **F: Wie aktiviere ich den Fever‑Modus?**  
-  **A:** Zerschmettere ohne Unterbrechung mehrere farbige Ebenen. Ist der Kreis/ die Leiste voll, startet der Fever‑Modus automatisch.
+*   **F: Wie aktiviere ich den Fever-Modus?**
+    *   **A:** Du aktivierst ihn automatisch, indem du eine lange, ununterbrochene Combo durch Zerschmettern farbiger Plattformen erstellst. Ein kreisförmiger Meter zeigt deinen Fortschritt. Sobald er voll ist, beginnt der Fever-Modus.
 
-- **F: Kann ich schwarze Plattformen im Fever‑Modus zerstören?**  
-  **A:** Ja, solange der Modus aktiv ist, kannst du alle Segmente durchbrechen, ohne zu scheitern.
+*   **F: Kann ich schwarze Plattformen im Fever-Modus zerstören?**
+    *   **A:** Ja. Während des Fever-Modus ist der Ball unbesiegbar und kann jede Plattform zerstören, einschließlich der schwarzen, ohne Strafe.
 
-    - **F: Hat das Spiel ein Ende?**  
-
-- **A:** The game is level-based. Your goal is to reach the bottom of the helix tower to complete the current level and move on to the next, which will often be longer or more complex.
-
-    - **Q: Is there an end to the game?**
-
-- **A:** Yes. During Fever Mode, the ball is invincible and can destroy any platform, including the black ones, without penalty.
-
-    - **Q: Can I break black platforms in Fever Mode?**
-  **A:** Stack Bounce ist levelbasiert. Du erreichst das Levelziel, wenn du den Boden des Turms erreichst; danach geht es mit schwierigeren Türmen weiter.
+*   **F: Gibt es ein Ende des Spiels?**
+    *   **A:** Das Spiel ist levelbasiert. Dein Ziel ist es, den Boden des Helix-Turms zu erreichen, um das aktuelle Level abzuschließen und zum nächsten zu gelangen, das oft länger oder komplexer sein wird.

@@ -33,6 +33,8 @@ Meistern der Bewegung, um scheinbar unmögliche Passagen zu knacken.
 
 ### **Strategie & Tipps**
 
+Erfolg in Cluster Rush basiert auf der Beherrschung der Bewegung und dem Erlernen der Level.
+
 1.  Nach vorn schauen, nicht nach unten: Richte deinen Blick immer auf die
     nächsten zwei bis drei Trucks, nicht auf den, auf dem du gerade stehst.
     Nur so kannst du Sprünge rechtzeitig planen und im Flow bleiben.
@@ -56,8 +58,6 @@ Meistern der Bewegung, um scheinbar unmögliche Passagen zu knacken.
     sicherer oder schneller, von einem niedrigen Truck auf einen deutlich
     höheren zu springen und dort eine bessere Übersicht zu haben.
 7.  Scheitern akzeptieren: Du wirst sehr oft scheitern – das ist Teil des
-
-- **Embrace Failure**: You will fail hundreds, if not thousands, of times. Each failure is a learning opportunity. Don't get frustrated; instead, analyze why you failed (e.g., jumped too early, not enough speed) and adjust on your next attempt.
     Designs. Analysiere jeden Fehlversuch (zu früh gesprungen, zu langsam,
     falscher Winkel) und passe deinen Ablauf an, statt dich zu ärgern.
 

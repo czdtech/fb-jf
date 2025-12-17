@@ -15,34 +15,28 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### Présentation détaillée
 
-Perfect Piano est un jeu de rythme nerveux qui simule un clavier de piano, dans l’esprit de « Piano Tiles ». Des tuiles‑notes tombent depuis le haut de l’écran et tu dois les toucher exactement lorsqu’elles atteignent la ligne du bas. Le jeu met à l’épreuve tes réflexes, ton sens du rythme et ta capacité à enchaîner les notes sans faute sur une sélection de morceaux de difficulté croissante.
+Perfect Piano est un jeu de rythme rapide et engageant qui simule le piano, similaire au genre populaire « Piano Tiles ». Des notes sous forme de tuiles tombent du haut de l'écran, et tu dois les toucher au moment précis où elles atteignent la ligne du clavier en bas. Le jeu teste tes réflexes, ton timing et ton sens du rythme pendant que tu joues sur une variété de belles chansons stimulantes.
 
 ### Stratégies de jeu et progression
 
-1.  **Regarder la ligne cible :** concentre ton regard sur le bas de l’écran, là où les notes doivent être jouées, plutôt que de les suivre pendant toute leur chute.  
-2.  **Écouter la musique :** les tuiles sont synchronisées avec la mélodie ; laisse‑toi guider par le tempo pour anticiper les frappes.  
-3.  **Utiliser plusieurs doigts :** sur les passages rapides, joue à deux mains comme sur un vrai piano pour couvrir toutes les colonnes.  
-4.  **Gérer les notes longues :** maintiens la pression sur les tuiles allongées jusqu’à la fin de leur barre ; lâcher trop tôt est compté comme une erreur.
+1.  **Se concentrer sur la ligne du bas :** ne regarde pas les tuiles tomber du haut. Garde tes yeux concentrés sur la ligne cible en bas de l'écran. C'est là que tu dois réagir.
+2.  **Anticiper le rythme :** écoute la musique ! Les tuiles qui tombent sont parfaitement synchronisées avec la mélodie et le rythme de la chanson. Anticiper le tempo t'aidera à mieux chronométrer tes frappes.
+3.  **Utiliser plusieurs doigts :** pour les sections rapides, ne compte pas sur un seul doigt. Positionne tes mains comme si tu jouais d'un vrai piano et utilise plusieurs doigts pour couvrir les différentes colonnes.
+4.  **Gérer les notes longues :** quand tu vois une longue tuile, tu dois appuyer et maintenir pendant toute sa durée. Lever le doigt trop tôt compte comme une erreur.
 
 ### Commandes
 
+Le jeu se joue avec de simples touches ou clics.
 
-The game is played with simple taps or clicks.
-- Clique ou touche les tuiles lorsqu’elles atteignent la ligne du bas. Sur mobile, joue directement du bout des doigts sur les colonnes.
+*   **Toucher les notes :** utilise ta souris ou tes doigts pour cliquer sur les colonnes lorsque les tuiles qui tombent franchissent la ligne cible en bas.
 
 ### Foire aux questions (FAQ)
 
-- **Q : Que se passe‑t‑il si je manque une note ?**  
-  **R :** Selon le mode, la partie s’arrête ou tu perds ta série parfaite et une partie de ton score.
+*   **Q : Que se passe‑t‑il si je manque une tuile ou touche le mauvais endroit ?**
+    *   **R :** Dans la plupart des cas, la partie s'arrêtera immédiatement et tu devras recommencer la chanson depuis le début.
 
-    - **Q : Puis‑je rejouer un morceau plus lentement ?**  
+*   **Q : Comment obtenir un score élevé ?**
+    *   **R :** En touchant chaque note parfaitement. Le jeu suit ton combo, et ton multiplicateur de score augmente à mesure que tu enchaînes plus de notes consécutives sans erreur. Un run parfait donnera le score le plus élevé possible.
 
-- **A:** Yes, the game features a library of songs to choose from, often categorized by difficulty. You may need to unlock more difficult songs by successfully completing the easier ones first.
-
-    - **Q: Can I play different songs?**
-
-- **A:** By hitting every single note perfectly. The game tracks your combo, and your score multiplier increases as you hit more notes consecutively without a miss. A perfect run will yield the highest possible score.
-
-    - **Q: How do I get a high score?**
-  **R :** Certaines versions proposent des modes d’entraînement ou des vitesses réduites pour t’aider à apprendre les patterns.
-
+*   **Q : Puis‑je jouer différentes chansons ?**
+    *   **R :** Oui, le jeu propose une bibliothèque de chansons à choisir, souvent classées par difficulté. Tu devras peut‑être débloquer les chansons plus difficiles en réussissant d'abord les plus faciles.

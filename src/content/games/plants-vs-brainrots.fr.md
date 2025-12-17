@@ -2,7 +2,7 @@
 locale: fr
 urlstr: plants-vs-brainrots
 title: Plants vs Brainrots
-description: "Plants vs Brainrots est un tower defense inspiré de Plants vs Zombies\_: place des plantes de combat pour arrêter des vagues de Brainrots avant qu’ils n’atteignent ta maison."
+description: "Plants vs Brainrots est un tower defense inspiré de Plants vs Zombies\_: place des plantes de combat pour arrêter des vagues de Brainrots avant qu'ils n'atteignent ta maison."
 iframeSrc: 'https://plantsvsbrainrots.h5games.usercontent.goog/v/5gl0o5tpst4e0/'
 thumbnail: /new-images/plants-vs-brainrots.png
 tags:
@@ -13,66 +13,49 @@ developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
-### Présentation détaillée
+### Présentation du jeu Plants vs Brainrots
 
-Plants vs Brainrots reprend la formule de Plants vs Zombies : sur des lignes horizontales, tu dois planter des défenses végétales pour stopper des vagues de créatures Brainrots. Chaque plante a son rôle (tir, ralentissement, production de ressources, mur de protection) et chaque Brainrot possède une vitesse et des capacités propres.
+*Plants vs Brainrots* est un jeu de tower defense viral développé sur la plateforme Roblox, servant de parodie moderne du classique *Plants vs. Zombies*. Le jeu oppose les joueurs à la vague écrasante du « Brain Rot » internet moderne — un phénomène culturel de contenu en ligne absurde, peu élaboré et addictif. Au lieu de repousser des zombies, ta mission est de protéger ta maison (et ta santé mentale) contre des mèmes internet personnifiés.
 
+Le gameplay de base reste fidèle à la formule de tower defense bien‑aimée. Tu plantes une variété de plantes « Brainy » dans ton jardin, chacune avec des capacités uniques, pour repousser les vagues de « Brainrots » entrants. Ces ennemis sont des représentations directes des mèmes internet les plus omniprésents, de la charge incessante des **Skibidi Toilets** à la défense formidable des **Sigmas**.
 
-The game's immense popularity comes from its witty and constantly updated roster of characters, which directly reflects the ever-changing landscape of internet culture, creating a humorous and engaging experience for a new generation of players.
+L'immense popularité du jeu vient de sa liste de personnages spirituelle et constamment mise à jour, qui reflète directement le paysage en constante évolution de la culture internet, créant une expérience humoristique et engageante pour une nouvelle génération de joueurs.
 
-The core gameplay remains faithful to the beloved tower defense formula. You plant a variety of "Brainy" plants in your yard, each with unique abilities, to fight off waves of incoming "Brainrots." These enemies are direct representations of the most pervasive internet memes, from the relentless charge of the **Skibidi Toilets** to the formidable defense of the **Sigmas**.
-### Stratégies de jeu et progression
+### Stratégies de jeu et conseils
 
-1.  **Produire des ressources tôt :** plante rapidement des unités productrices (type tournesol) pour financer tes défenses.  
-2.  **Construire une première ligne :** place des plantes de tir à intervalle régulier sur chaque ligne avant que les vagues ne deviennent trop denses.  
-    - **Ralentir les couloirs clés :** utilise des plantes de contrôle (ralentissement, gel, repousse) sur les lignes où les Brainrots sont les plus nombreux.  
-    - **Adapter ton deck :** en fonction du niveau, sélectionne les plantes les plus efficaces contre les nouveaux types d’ennemis.
+1.  **Construire ton économie de « Focus » :** ta ressource principale n'est pas le Soleil, mais le « Focus » (ou Points de Santé Mentale), généré par les **Focus Flowers** (la version du jeu des Tournesols). Ta première priorité dans n'importe quel niveau est de planter au moins deux rangées de Focus Flowers pour assurer un revenu stable pour te permettre d'acheter d'autres plantes.
+2.  **Connaître ton ennemi, connaître tes mèmes :** chaque Brainrot a une faiblesse et un comportement spécifiques.
+    *   **Skibidi Toilets :** ce sont tes fantassins de base. Ils sont rapides mais faibles. Une seule ligne de **Common Sense Shooters** (Tire‑pois) peut les gérer.
+    *   **Sigmas :** ils agissent comme des tanks, équivalents aux Zombies Cône ou Seau. Ils peuvent absorber beaucoup de dégâts. Tu auras besoin de puissance de feu concentrée ou de plantes défensives comme le **Fact‑Checker Wall** (Noix‑mur) pour les ralentir.
+    *   **The Rizzler/Gyatt :** ce sont des unités spéciales. Ils peuvent avoir des capacités qui désactivent temporairement tes plantes ou contournent certaines défenses. Priorise leur élimination avec des plantes à hauts dégâts.
+3.  **L'art de planter :** une disposition classique est la clé.
+    *   **Rangées arrière :** réservées à tes Focus Flowers.
+    *   **Rangées du milieu :** tes dealers de dégâts principaux, comme les Common Sense Shooters ou les **Meme‑Eraser Cherries** explosives.
+    *   **Rangée avant :** place tes Fact‑Checker Walls défensifs ici pour agir comme une barrière, surtout contre les Sigmas coriaces.
+4.  **Utiliser ton arme ultime — La tondeuse « Touch Grass » :** comme dans l'original, chaque couloir est protégé par une tondeuse de dernier recours, thématiquement redessinée en tondeuse « Touch Grass ». Si un Brainrot passe toutes tes défenses, cela nettoiera tout le couloir une fois, mais ne compte pas dessus.
 
-
-    - **Use Your Ultimate Weapon - The "Touch Grass" Lawn Mower**: Just like the original, each lane is protected by a last-resort lawn mower, thematically redesigned as the "Touch Grass" mower. If a Brainrot gets past all your defenses, this will clear the entire lane once, but don't rely on it.
-
-- **Front Row**: Place your defensive Fact-Checker Walls here to act as a barrier, especially against tough Sigmas.
-
-    - **Middle Rows**: Your primary damage dealers, like the Common Sense Shooters or explosive **Meme-Eraser Cherries**.
-
-    - **Back Rows**: Reserved for your Focus Flowers.
-
-    - **The Art of Planting**: A classic layout is key.
-
-- **The Rizzler/Gyatt**: These are special units. They might have abilities that temporarily disable your plants (by "rizzing" them) or bypass certain defenses. Prioritize eliminating them with high-damage plants.
 ### Commandes
 
+En tant que jeu Roblox, les contrôles sont simples et à la souris.
 
-As a Roblox game, the controls are simple and mouse-driven.
-- Sélectionne une plante dans ta barre d’outils, puis clique sur une case de la pelouse pour la planter, à condition d’avoir assez de ressources.
+*   **Sélectionner les plantes :** utilise ta **souris** pour cliquer sur les cartes de plantes en haut ou sur le côté de l'écran.
+*   **Planter :** après avoir sélectionné une carte, clique sur une case valide de ta pelouse pour planter.
+*   **Collecter le Focus :** clique sur les icônes de Focus que tes Focus Flowers produisent.
+*   **Mouvement de caméra :** utilise les touches `Z, Q, S, D` ou ta souris pour ajuster ta vue de la pelouse.
 
-
-- **Camera Movement**: Use `W, A, S, D` keys or your mouse to adjust your view of the lawn.
-
-- **Collecting Focus**: Click on the Focus icons that your Focus Flowers produce.
-
-- **Planting**: After selecting a card, click on a valid square on your lawn to plant.
 ### Foire aux questions (FAQ)
 
-- **Q : Que se passe‑t‑il si un Brainrot atteint la maison ?**  
-  **R :** Tu perds généralement la ligne, voire la partie selon le mode de jeu.
+**1. Où puis‑je jouer à *Plants vs Brainrots* ?**
+Le jeu est exclusivement disponible sur la plateforme **Roblox**. Tu peux y jouer gratuitement en cherchant « Plants vs Brainrots » sur le site Roblox ou dans l'app Roblox.
 
+**2. Est‑ce un jeu *Plants vs. Zombies* officiel ?**
+Non. Le site web et le jeu lui‑même clarifient que c'est une **parodie fan‑made** et n'est pas affilié avec PopCap ou Electronic Arts (EA), les créateurs du *PvZ* original.
 
+**3. Le jeu est‑il gratuit ?**
+Oui, le jeu est free‑to‑play. Cependant, comme de nombreux jeux Roblox, il peut offrir des achats optionnels en jeu (utilisant des Robux) pour des objets cosmétiques, des plantes spéciales ou d'autres avantages.
 
-The website recommends joining the game's official **Discord server**. This is where the developers announce updates, release codes for free items, and interact with the player community.
+**4. Qu'est‑ce que le « Brain Rot » ?**
+« Brain Rot » est un argot internet pour le sentiment que ton cerveau se transforme en bouillie après avoir consommé trop de contenu en ligne de basse qualité et viral. Le jeu transforme intelligemment les personnages de ce contenu en ses ennemis.
 
-**5. How do I stay updated on new memes and plants added to the game?**
-
-"Brain Rot" is internet slang for the feeling of one's mind turning to mush after consuming too much low-quality, viral online content. The game cleverly turns the characters from this content into its enemies.
-
-**4. What is "Brain Rot"?**
-
-Yes, the game is free-to-play. However, like many Roblox games, it may offer optional in-game purchases (using Robux) for cosmetic items, special plants, or other advantages.
-
-**3. Is the game free?**
-
-No. The website and the game itself clarify that it is a **fan-made parody** and is not affiliated with PopCap or Electronic Arts (EA), the creators of the original *PvZ*.
-
-**2. Is this an official *Plants vs. Zombies* game?**
-
-The game is exclusively available on the **Roblox** platform. You can play it for free by searching for "Plants vs Brainrots" on the Roblox website or in the Roblox app.
+**5. Comment rester informé des nouveaux mèmes et plantes ajoutés au jeu ?**
+Le site recommande de rejoindre le serveur **Discord** officiel du jeu. C'est là que les développeurs annoncent les mises à jour, publient des codes pour des objets gratuits et interagissent avec la communauté des joueurs.

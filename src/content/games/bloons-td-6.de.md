@@ -4,7 +4,7 @@ urlstr: bloons-td-6
 title: "Bloons TD 6"
 description: >-
   Meistere Bloons TD 6 – mit 3D‑Grafik, Helden, drei Upgrade‑Pfaden pro Turm
-  und mächtigen Paragon‑Aff en. Finde die perfekte Strategie, um jede Bloon‑Welle
+  und mächtigen Paragon‑Affen. Finde die perfekte Strategie, um jede Bloon‑Welle
   zu stoppen.
 iframeSrc: 'https://html5.gamenora.com/Bloons%20TD%206/'
 thumbnail: /new-images/bloons-td-6.jpg

@@ -4,7 +4,7 @@ urlstr: island-of-treasures
 title: Island Of Treasures
 description: >-
   Pars pour une aventure pirate dans ce runner 3D infini : collecte des joyaux,
-  évite les pièges mortels et deviens le plus riche flibustier de l’île maudite.
+  évite les pièges mortels et deviens le plus riche flibustier de l'île maudite.
 iframeSrc: 'https://5kvkrsasec6l8.h5games.usercontent.goog/v/7kfn10n6josho/'
 thumbnail: /new-images/island-of-treasures.png
 tags:
@@ -18,45 +18,28 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### Présentation détaillée
 
-Island Of Treasures est un runner infini en 3D qui te plonge dans une aventure de pirates. Tu incarnes un boucanier intrépide qui traverse en permanence une île remplie de dangers. Ta mission : ramasser un maximum de trésors étincelants, éviter les pièges mortels et semer les autres pirates à la poursuite du butin. Le jeu met tes réflexes à l’épreuve : plus tu survivras longtemps, plus ton score grimpera, jusqu’à devenir la légende de l’île.
+Island Of Treasures est un runner infini en 3D bourré d'action qui te plonge dans une aventure de pirates palpitante. Tu incarnes un boucanier intrépide, courant sans cesse à travers un environnement d'île dynamique et dangereux. Ta mission est de collecter autant de trésors étincelants que possible, d'esquiver les pièges mortels et de semer les pirates rivaux qui convoitent aussi les richesses. Le jeu met tes réflexes et ton agilité à l'épreuve tandis que tu t'efforces d'atteindre le meilleur score et de devenir le pirate légendaire de l'île maudite.
 
 ### Stratégies de jeu
 
-1.  **Ramasse tout ce que tu peux**  
-    Pièces, bijoux et coffres augmentent ton score et servent souvent à débloquer des améliorations ou de nouveaux personnages.
-
-2.  **Maîtrise les mouvements**  
-    Apprends rapidement à changer de voie, sauter et glisser :  
-- change de voie pour éviter les obstacles statiques,  
-- saute par‑dessus les trous et les obstacles bas,  
-    - glisse pour passer sous les pièges plus hauts.
-
-3.  **Profite des power‑ups**  
-    Reste attentif aux bonus temporaires (boost de vitesse, bouclier, aimant à pièces…). Bien utilisés, ils t’aident à survivre plus longtemps et à ramasser bien plus de trésors.
-
-4.  **Évite les collisions à tout prix**  
-    Entrer en contact avec un piège ou un pirate met fin à ta course. En cas de doute, privilégie la survie plutôt qu’une pièce difficile à récupérer.
+1.  **Ramasse tout :** Ton objectif principal est de collecter pièces, joyaux et autres trésors éparpillés sur ton chemin. Ils contribuent à ton score et peuvent servir à débloquer des améliorations ou de nouveaux personnages.
+2.  **Maîtrise les mouvements :** Tu devras réagir rapidement aux obstacles. Glisse à gauche/droite pour changer de voie, glisse vers le haut pour sauter par‑dessus les trous et obstacles bas, et glisse vers le bas pour te glisser sous les obstacles hauts. Entraîne‑toi pour que ces mouvements deviennent une seconde nature.
+3.  **Utilise les power‑ups :** Reste attentif aux power‑ups comme les boosts de vitesse, les boucliers ou les aimants. Ces avantages temporaires peuvent t'aider à survivre plus longtemps et à collecter plus de trésors. Utilise‑les stratégiquement, surtout dans les sections difficiles.
+4.  **Évite les collisions :** Percuter n'importe quel obstacle ou pirate rival mettra fin à ta course. Privilégie toujours l'esquive plutôt que la collecte si une collision est imminente.
 
 ### Commandes
 
-- **Aller à gauche / droite** : touches `A` / `D` ou flèches gauche / droite.  
-- **Sauter** : `Espace` ou flèche haut.  
-- **Glisser** : touche `S` ou flèche bas.
+*   **Se déplacer à gauche/droite :** Utilise les touches **A/D** ou les **flèches gauche/droite** pour changer de voie.
+*   **Sauter :** Appuie sur la **barre d'espace** ou la **flèche haut** pour sauter.
+*   **Glisser :** Appuie sur la touche **S** ou la **flèche bas** pour te glisser sous les obstacles.
 
 ### Foire aux questions (FAQ)
 
-- **Q : Quel est l’objectif principal ?**  
-  R : Courir le plus loin possible tout en amassant un maximum de trésors pour faire exploser ton score.
+*   **Q : Quel est l'objectif principal du jeu ?**
+    *   **R :** Courir le plus loin possible et collecter un maximum de trésors pour atteindre le meilleur score.
 
-    - **Q : Puis‑je attaquer les autres pirates ?**  
-  R : Dans la plupart des runners, les pirates agissent comme des obstacles à éviter. Certaines variantes ajoutent des power‑ups pour les étourdir, mais l’esquive reste la règle.
+*   **Q : Comment attaquer les pirates rivaux ?**
+    *   **R :** Dans la plupart des runners infinis, le combat direct n'est pas l'objectif. Tu évites généralement les pirates rivaux car ce sont des obstacles. Certaines versions peuvent avoir un power‑up ou une action spécifique pour les étourdir temporairement.
 
-- **Q : Que se passe‑t‑il si je tombe à l’eau ou percute un piège ?**  
-
-    - **A:** Your run ends immediately, and you will have to start over from the beginning.
-
-- **Q: What happens if I fall into the water or hit an obstacle?**
-
-    - **A:** In most endless runners, direct combat is not the focus. You typically avoid rival pirates as they are obstacles. Some versions might have a specific power-up or action to temporarily stun them.
-  R : La course se termine instantanément et tu dois recommencer depuis le début.
-
+*   **Q : Que se passe‑t‑il si je tombe à l'eau ou percute un obstacle ?**
+    *   **R :** Ta course se termine immédiatement, et tu devras recommencer depuis le début.

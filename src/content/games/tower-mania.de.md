@@ -17,39 +17,27 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### Detaillierte Spieleinführung
 
-Tower Mania ist ein einfaches, aber süchtig machendes Arcade‑Spiel, das deine Präzision und dein Timing testet. Deine Aufgabe: Einen möglichst hohen Turm bauen, indem du Blöcke exakt übereinander stapelst. Die Blöcke schwingen hin und her, und du musst im richtigen Moment tippen, damit sie mittig landen. Überstehende Kanten werden abgeschnitten – dadurch wird die Auflagefläche kleiner, und das Bauen immer schwieriger.
+Tower Mania ist ein fesselndes und süchtig machendes Arcade-Spiel, das deine Präzision und dein Timing auf die Probe stellt. Das Ziel ist einfach: Baue den höchstmöglichen Turm, indem du Blöcke sorgfältig übereinander stapelst. Blöcke schwingen hin und her, und du musst im genauen Moment tippen oder klicken, um sie perfekt ausgerichtet fallen zu lassen. Jeder Teil eines Blocks, der übersteht, wird abgeschnitten, was das nächste Level kleiner und die Schwierigkeit höher macht. Teste deine ruhige Hand und dein scharfes Auge, um neue Höhen zu erreichen und den ultimativen Highscore zu erzielen!
 
 ### Spielstrategie & Walkthrough
 
-1. **Timing ist alles:** Beobachte die Schwingbewegung des Blocks und lass ihn los, wenn er genau über der Mitte des Turms steht. Je genauer du bist, desto stabiler bleibt die Konstruktion.
-2. **Ruhiger Start:** Hektik am Anfang rächt sich später. Nimm dir in den ersten Reihen Zeit, um eine breite, solide Basis aufzubauen.
-3. **Mitte halten:** Versuche, den Turm so zentral wie möglich zu halten. Kleinere Fehler sind okay, solange der Schwerpunkt nicht zu weit nach außen wandert.
-4. **Auf kleinere Flächen einstellen:** Wenn Blöcke abgeschnitten werden, schrumpft dein Fundament. Passe dein Timing an die schmaleren Plattformen an und achte noch stärker auf Präzision.
-5. **Power‑ups nutzen (falls vorhanden):** Manche Versionen bieten Hilfen wie perfekte Auto‑Drops oder Stabilitätsbooster. Heb sie dir für sehr hohe und wacklige Turmspitzen auf.
+1.  **Timing ist entscheidend:** Der Kern des Spiels ist, deinen Tap perfekt zu timen. Beobachte den schwingenden Block und versuche, ihn loszulassen, wenn er direkt über der Mitte des Blocks darunter ist. Präzision wird belohnt.
+2.  **Starte langsam und stetig:** Überstürze nichts am Anfang. Nimm dir Zeit, um ein Gefühl für die Schwinggeschwindigkeit des Blocks und den Rhythmus des Spiels zu bekommen. Ein solides Fundament ist der Schlüssel zu einem hohen Turm.
+3.  **Fokussiere dich auf die Mitte:** Ziele immer auf die Mitte. Selbst wenn du leicht daneben liegst, versuche, die Hauptmasse des Turms so zentral wie möglich zu halten, um die Stabilität zu bewahren.
+4.  **Passe dich an kleinere Blöcke an:** Wenn du ungenaue Drops machst, wird die Basis deines Turms schrumpfen. Du musst dein Timing und deine Präzision an diese kleineren Ziele anpassen.
+5.  **Nutze Power-ups (falls verfügbar):** Einige Versionen von Tower Mania bieten möglicherweise Power-ups, die helfen können, deinen Turm zu stabilisieren oder dir einen perfekten Drop zu geben. Nutze sie strategisch, wenn der Turm sehr hoch und instabil wird.
 
 ### Steuerung
 
-- **Block fallen lassen:** Klick mit der linken Maustaste oder tippe auf den Bildschirm, um den aktuell schwingenden Block fallen zu lassen.
+*   **Block fallen lassen:** Klicke die linke Maustaste oder tippe auf den Bildschirm, um den schwingenden Block loszulassen.
 
-### Häufige Fragen (FAQ)
+### Häufig gestellte Fragen (FAQ)
 
+*   **F: Was ist das Ziel von Tower Mania?**
+    *   **A:** Das Hauptziel ist, den höchstmöglichen Turm zu bauen, indem du Blöcke präzise stapelst. Das Spiel endet, wenn ein Block vom Turm fällt.
 
-- **A:** If a block is not perfectly aligned, any part of it that extends beyond the block below will be cut off. This makes the next block you drop have a smaller surface area to land on, increasing the difficulty.
+*   **F: Wie bekomme ich einen höheren Punktestand?**
+    *   **A:** Dein Punktestand wird durch die Höhe deines Turms bestimmt. Je mehr Blöcke du erfolgreich stapelst, desto höher wird dein Punktestand sein.
 
-    - **Q: What happens if a block isn't perfectly aligned?**
-
-- **A:** Your score is determined by the height of your tower. The more blocks you stack successfully, the higher your score will be.
-
-    - **Q: How do I get a higher score?**
-
-- **A:** The main goal is to build the tallest possible tower by stacking blocks accurately. The game ends when a block falls off the tower.
-
-    - **Q: What is the goal of Tower Mania?**
-**Was ist das Ziel von Tower Mania?**  
-Du willst einen möglichst hohen Turm bauen. Die Partie endet, wenn ein Block komplett daneben fällt und der Turm einstürzt.
-
-**Wie erziele ich mehr Punkte?**  
-Deine Punktzahl hängt direkt von der Turmhöhe ab. Je mehr Blöcke du erfolgreich stapelst – am besten möglichst präzise – desto höher dein Score.
-
-**Was passiert bei schief gesetzten Blöcken?**  
-Alle Teile, die über den unteren Block hinausragen, werden abgeschnitten. Dadurch wird der nächste Block kleiner und das Spiel anspruchsvoller.
+*   **F: Was passiert, wenn ein Block nicht perfekt ausgerichtet ist?**
+    *   **A:** Wenn ein Block nicht perfekt ausgerichtet ist, wird jeder Teil davon, der über den Block darunter hinausragt, abgeschnitten. Das macht den nächsten Block, den du fallen lässt, kleiner und erhöht die Schwierigkeit.

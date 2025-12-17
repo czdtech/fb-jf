@@ -2,7 +2,7 @@
 locale: fr
 urlstr: table-tennis
 title: Table Tennis
-description: "Maîtrise ta raquette dans Table Tennis\_: affronte l’IA, marque des points et deviens champion de ping‑pong grâce à ton timing et tes réflexes."
+description: "Maîtrise ta raquette dans Table Tennis\_: affronte l'IA, marque des points et deviens champion de ping‑pong grâce à ton timing et tes réflexes."
 iframeSrc: 'https://tabletennis.h5games.usercontent.goog/v/4eeofbe4nfj1g/'
 thumbnail: /new-images/table-tennis.png
 tags:
@@ -13,53 +13,28 @@ score: 4.2/5  (1873 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
-### Présentation détaillée
+### Présentation détaillée du jeu
 
-Table Tennis transpose le ping‑pong sur ton écran. Tu affrontes une IA dans
-des échanges rapides où placement, anticipation et précision font la
-différence.
+Table Tennis est un jeu de simulation sportive rapide et engageant qui apporte l'expérience classique du ping-pong sur ton écran. Les joueurs affrontent un adversaire contrôlé par l'ordinateur dans un match où réflexes, timing et stratégie sont essentiels. L'objectif est de surpasser ton adversaire en frappant la balle au-delà de lui, en respectant les règles de base du tennis de table. Avec des contrôles intuitifs et une physique réaliste, le jeu offre une expérience accessible mais stimulante pour les joueurs de tous niveaux.
 
-### Stratégie
+### Stratégies de jeu et progression
 
-1. sers et renvoie en te plaçant bien derrière la balle ;
-2. garde ta raquette centrée après chaque échange pour pouvoir réagir à gauche
-   comme à droite ;
-3. varie les trajectoires et vise les coins pour faire bouger l’adversaire ;
-4. profite de la vitesse de ta raquette pour donner des angles plus difficiles.
-
-
-
-    - **A:** Typically, a game is won by the first player to reach a set number of points (e.g., 11 or 21), but you must win by at least two points.
-
-- **Q: What is the winning score?**
-
-    - **A:** While the game may not have an explicit "spin" button, moving your paddle quickly as you strike the ball can influence its speed and angle, creating a similar effect and making it harder for the opponent to return.
-
-- **Q: Can I put a spin on the ball?**
-
-    - **A:** You score a point when your opponent fails to return your shot, meaning the ball bounces twice on their side, they hit it into the net, or they hit it off the table.
-
-- **Q: How do I score a point?**
-
-### Foire aux questions (FAQ)
-
-- **Hit the Ball:** There is no need to click. Position your paddle in the ball's path, and it will automatically hit it on contact. The angle and speed of the return are influenced by where and how fast you move your paddle into the ball.
-
-- **Move Paddle:** Simply move your mouse left and right across your side of the table to position the paddle.
-
-- **Mouse Movement:** The paddle's movement is directly tied to your mouse cursor.
+1.  **Service et retour :** chaque point commence par un service. La clé est de frapper la balle après qu'elle a rebondi une fois de ton côté. En retournant un coup, concentre-toi sur la trajectoire de la balle et positionne ta raquette en conséquence.
+2.  **Le positionnement est clé :** essaie de garder ta raquette centrée après chaque coup. Cette position de "réinitialisation" te permet de réagir plus efficacement aux retours de ton adversaire, qu'ils soient à gauche ou à droite.
+3.  **Varie tes coups :** ne frappe pas la balle au même endroit à chaque fois. Vise les coins de la table pour forcer ton adversaire à bouger, augmentant les chances qu'il fasse une erreur. Mélange les coups rapides avec des placements plus lents et stratégiques.
+4.  **Observe l'adversaire :** fais attention au positionnement et aux schémas de tirs de l'IA. Parfois tu peux anticiper où ils vont frapper la balle ensuite, te donnant un avantage crucial pour positionner ta raquette pour le retour.
 
 ### Commandes
 
+*   **Mouvement de la souris :** le mouvement de la raquette est directement lié au curseur de ta souris.
+*   **Déplacer la raquette :** déplace simplement ta souris à gauche et à droite de ton côté de la table pour positionner la raquette.
+*   **Frapper la balle :** pas besoin de cliquer. Positionne ta raquette sur le chemin de la balle, et elle la frappera automatiquement au contact. L'angle et la vitesse du retour sont influencés par où et à quelle vitesse tu déplaces ta raquette vers la balle.
 
-- **A:** Typically, a game is won by the first player to reach a set number of points (e.g., 11 or 21), but you must win by at least two points.
+### Foire aux questions (FAQ)
 
-    - **Q: What is the winning score?**
-
-- **A:** While the game may not have an explicit "spin" button, moving your paddle quickly as you strike the ball can influence its speed and angle, creating a similar effect and making it harder for the opponent to return.
-
-    - **Q: Can I put a spin on the ball?**
-
-- **A:** You score a point when your opponent fails to return your shot, meaning the ball bounces twice on their side, they hit it into the net, or they hit it off the table.
-
-    - **Q: How do I score a point?**
+*   **Q : Comment marquer un point ?**
+    *   **R :** Tu marques un point quand ton adversaire échoue à retourner ton coup, ce qui signifie que la balle rebondit deux fois de son côté, qu'il la frappe dans le filet, ou qu'il la frappe hors de la table.
+*   **Q : Puis-je mettre de l'effet sur la balle ?**
+    *   **R :** Bien que le jeu n'ait pas de bouton "effet" explicite, déplacer ta raquette rapidement quand tu frappes la balle peut influencer sa vitesse et son angle, créant un effet similaire et rendant le retour plus difficile pour l'adversaire.
+*   **Q : Quel est le score gagnant ?**
+    *   **R :** Typiquement, une partie est gagnée par le premier joueur à atteindre un nombre défini de points (par ex. 11 ou 21), mais tu dois gagner avec au moins deux points d'avance.

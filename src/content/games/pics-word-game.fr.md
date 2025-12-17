@@ -4,7 +4,7 @@ urlstr: pics-word-game
 title: Pics Word Game
 description: >-
   Pics Word Game est un jeu de mots où tu dois trouver le mot qui relie
-  plusieurs images, en faisant appel à ton sens de l’observation et à ton
+  plusieurs images, en faisant appel à ton sens de l'observation et à ton
   vocabulaire.
 iframeSrc: 'https://picswordgame.h5games.usercontent.goog/v/40jujb4uelhb0/'
 thumbnail: /new-images/pics-word-game.jpg
@@ -19,27 +19,23 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### Présentation détaillée
 
-Pics Word Game est un jeu de devinettes visuelles : plusieurs images te sont montrées, et tu dois deviner le mot unique qui les relie. C’est une manière ludique de tester ton vocabulaire, ta logique et ta capacité à repérer des thèmes communs.
+Pics Word Game est un jeu de puzzle de mots où on te présente des images et tu dois déduire un seul mot qui les relie. C'est une manière ludique de tester ton vocabulaire et tes compétences de réflexion critique.
 
 ### Stratégies de jeu et progression
 
-1.  **Étudier toutes les images :** observe attentivement chaque photo ; le lien peut être un objet, une action, une couleur ou une idée abstraite.  
-2.  **Utiliser la longueur du mot :** le nombre de cases affiché t’indique la longueur de la réponse et permet déjà d’écarter certaines hypothèses.  
-3.  **Filtrer avec les lettres proposées :** compose le mot à partir de l’alphabet qui t’est donné ; élimine mentalement les lettres inutiles.  
-4.  **Recourir aux indices :** si tu bloques vraiment, utilise les indices pour révéler une lettre ou supprimer des lettres parasites.
+1.  **Étudier les images :** examine attentivement toutes les images fournies pour le puzzle. Cherche des thèmes communs, objets, actions ou concepts.
+2.  **Déterminer la longueur du mot :** sous les images, tu verras généralement une série de cases vides, indiquant le nombre de lettres dans la réponse.
+3.  **Sélectionner les lettres :** une sélection de lettres sera fournie, parmi lesquelles tu dois choisir pour épeler le mot correct.
+4.  **Utiliser les indices :** si tu bloques, la plupart des jeux de ce type offrent des indices, comme révéler une lettre ou supprimer les lettres inutilisées.
 
 ### Commandes
 
-- Sélectionne les lettres en cliquant ou en touchant l’écran pour composer ton mot dans les cases, puis valide.
+*   **Souris/Tactile :** utilise la souris ou l'écran tactile pour sélectionner les lettres et interagir avec les menus du jeu.
 
 ### Foire aux questions (FAQ)
 
-- **Q : Que faire si je ne trouve vraiment pas le mot ?**  
+*   **Q : Que faire si je ne trouve pas le mot ?**
+    *   **R :** Utilise les indices intégrés pour t'aider. Parfois, il est aussi utile de faire une pause et de revenir au puzzle avec un regard neuf.
 
-    - **A:** You can usually earn coins by successfully completing levels. Some games also offer coins for watching ads.
-
-- **Q: How can I get more coins for hints?**
-
-    - **A:** Use the in-game hints to help you. Sometimes it also helps to take a break and come back to the puzzle with a fresh perspective.
-  **R :** Utilise un indice, ou fais une pause avant de revenir avec un regard neuf ; souvent la réponse devient évidente après un break.
-
+*   **Q : Comment obtenir plus de pièces pour les indices ?**
+    *   **R :** Tu peux généralement gagner des pièces en complétant des niveaux avec succès. Certains jeux offrent aussi des pièces pour regarder des publicités.

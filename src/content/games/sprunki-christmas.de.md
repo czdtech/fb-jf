@@ -38,5 +38,6 @@ Mach dich bereit für ein musikalisches Weihnachtsabenteuer: Sprunki Christmas e
 - **Personalisierung:** Schalte Deko frei und gestalte deine eigene weihnachtliche Umgebung im Spiel.
 
 
-- **Community Challenges:** Team up with friends or compete on leaderboards during holiday events.
+- **Community-Challenges:** Schließ dich mit Freunden zusammen oder tritt bei Weihnachtsevents auf den Bestenlisten gegeneinander an.
+
 Sprunki Christmas ist ideal, um nach einem langen Tag in eine gemütliche Winterwelt abzutauchen – allein oder gemeinsam mit Freunden und Familie. Komm in die Sprunki-Christmas-Welt und lass deinen Weihnachtsabend von deinen eigenen Beats erleuchten.

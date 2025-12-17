@@ -34,20 +34,17 @@ Genau dieses Umschalten macht jeden Durchlauf unvorhersehbar.
 - **Sounds kombinieren:** Jede Figur steuert einen eigenen Loop bei. Experimentiere mit verschiedenen Kombinationen – von locker bis bewusst chaotisch.
 - **Animationen genießen:** Die Figuren tanzen, wackeln und reagieren auf den Mix.
 - **JOKE-Moment auslösen:** Wenn du alle 20 eingesetzt hast, zeigt der Mod seine Horror-Seite.
+- **Das Chaos umarmen:** Keine Regeln, kein Druck. Hab einfach Spaß beim Kreieren von Musik, die Humor und Horror vereint!
 - **Tracks speichern & teilen (wenn verfügbar):** Gefällt dir dein Mix, kannst du ihn in passenden Versionen sichern oder Freunden zeigen.
 
 
-- **Save & Share:** Love your "masterpiece"? You can save it to enjoy later, or share it with friends and see if you can give *them* a little scare!
 ### Warum Sprunki Phase 2.5 spielen?
 
 - **Humor + Horror:** Der Wechsel von süß zu creepy sorgt für Überraschungen und viele Reaktionen.
 - **Einfache Steuerung:** Klassisches Drag-and-drop, das jeder sofort versteht.
-- **Kreativer Spielplatz:** Es gibt kein „richtig“ oder „falsch“ – du probierst einfach aus, bis dir das Ergebnis gefällt.
+- **Kreativer Spielplatz:** Es gibt kein „richtig" oder „falsch" – du probierst einfach aus, bis dir das Ergebnis gefällt.
+- **Speichern & Teilen:** Gefällt dir dein „Meisterwerk"? Speichere es und teile es mit Freunden – vielleicht erschreckst du sie auch ein bisschen!
 
+### Fazit
 
-
-- **Total Creative Freedom:** There's no right or wrong way to play. Just let your creativity run wild and mix up something unique.
-### Wrapping Up:
-
-- **Total Creative Freedom:** There's no right or wrong way to play. Just let your creativity run wild and mix up something unique.
 Sprunki Phase 2.5 (JOKE MOD) ist ideal, wenn du Musik machen willst, dabei aber auch auf einen kleinen Schreckmoment und dunkleren Humor stehst. Baue deinen Track – und sei vorbereitet, wenn das Spiel plötzlich die Maske fallen lässt.

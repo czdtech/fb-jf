@@ -18,54 +18,30 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### Présentation détaillée du jeu
 
-Stack Bounce est un jeu d’arcade 3D nerveux où tu contrôles une balle qui
-descend le long d’une tour en spirale composée de plateformes colorées.
-L’objectif : atteindre le bas de la tour en détruisant un maximum d’étages
-sans percuter les segments noirs, impossibles à briser.
+Stack Bounce est un jeu d'arcade 3D dynamique et addictif qui teste le timing et les réflexes des joueurs. Le jeu met en scène une balle rebondissante qui doit descendre à travers une tour hélicoïdale composée de plateformes colorées destructibles. L'objectif est d'atteindre le bas de la tour en fracassant les étages. Cependant, les joueurs doivent éviter stratégiquement les sections noires indestructibles des plateformes, car les toucher entraîne un game over instantané. Avec ses contrôles simples à une touche et sa physique de destruction satisfaisante, Stack Bounce est facile à prendre en main mais difficile à maîtriser.
 
-Le principe est simple : une commande, mais beaucoup de maîtrise. Plus tu
-gardes le bouton appuyé longtemps, plus la balle accélère et traverse de
-niveaux de plateformes d’un coup, ce qui est grisant… mais risqué.
+### Stratégies de jeu et progression
 
-### Stratégie et astuces de gameplay
-
-1. **Maintenir pour briser :** garde le clic ou ton doigt appuyé pour faire
-   traverser les plateformes colorées à la balle et descendre plus vite.
-2. **Relâcher au bon moment :** observe la rotation de la tour et relâche
-   juste avant d’atteindre une zone noire pour éviter le game over.
-3. **Construire le mode « Fever » :** en détruisant plusieurs plateformes
-   d’affilée sans t’arrêter, tu remplis une jauge spéciale. Une fois pleine,
-   la balle entre en mode Fever : elle devient incassable et peut traverser
-   même les parties noires pendant quelques instants.
-4. **Rester patient :** ne fonce pas tête baissée. Attends un bon alignement
-   de plateformes colorées avant de maintenir longtemps, surtout dans les
-   niveaux avancés.
+1.  **Maintenir pour briser :** la mécanique de base est simple : maintiens le clic ou ton doigt sur l'écran pour faire traverser les plateformes colorées à la balle. Plus tu maintiens longtemps, plus tu descends vite.
+2.  **Bien gérer le timing du relâchement :** la compétence la plus cruciale est de savoir quand relâcher. Comme la tour tourne, tu dois relâcher juste avant que la balle ne touche une section noire. La balle rebondira alors sans danger sur la plateforme jusqu'à ce que tu décides de fracasser à nouveau.
+3.  **Construire le mode Fever :** si tu réussis à fracasser plusieurs plateformes d'affilée sans t'arrêter, tu remplis une jauge de puissance. Une fois pleine, la balle entre en « mode Fever ». Dans cet état, elle devient un projectile enflammé qui peut traverser *n'importe quelle* plateforme, y compris les noires, pendant une courte période. Utilise ça à ton avantage pour passer les sections difficiles.
+4.  **La patience est une vertu :** ne sois pas trop gourmand. Il vaut souvent mieux faire une pause et attendre la bonne ouverture que de risquer de toucher une plateforme noire en se précipitant. Attends qu'une longue série de plateformes colorées apparaisse avant de maintenir pour prendre de la vitesse.
 
 ### Commandes
 
-- **PC :** clique et maintiens le bouton gauche pour fracasser les plateformes,
-  relâche pour laisser la balle rebondir.
-- **Mobile / tablette :** maintiens ton doigt sur l’écran pour casser, relève‑le
-  pour arrêter.
+*   **Bureau/Laptop :** maintiens le **bouton gauche de la souris** pour fracasser les plateformes. Relâche le bouton pour arrêter de fracasser et laisser la balle rebondir.
+*   **Mobile/Tablette :** maintiens ton **doigt sur l'écran** pour fracasser. Lève ton doigt pour arrêter.
 
-### FAQ rapide
+### Foire aux questions (FAQ)
 
-- **Que se passe‑t‑il si je touche une zone noire ?**  
-  La balle se brise et la partie est terminée, tu dois recommencer le niveau.
-    - **Comment activer le mode Fever ?**  
-  En enchaînant les plateformes détruites sans pause jusqu’à remplir la jauge
-  circulaire. Dès qu’elle est pleine, le mode s’active automatiquement.
-- **Peut‑on casser les zones noires en mode Fever ?**  
-  Oui, pendant le mode Fever la balle peut tout traverser sans risque.
-    - **Le jeu a‑t‑il une fin ?**  
+*   **Q : Que se passe‑t‑il si je touche une plateforme noire ?**
+    *   **R :** Ta balle se brise et la partie est terminée. Tu devras recommencer le niveau.
 
-- **A:** The game is level-based. Your goal is to reach the bottom of the helix tower to complete the current level and move on to the next, which will often be longer or more complex.
+*   **Q : Comment activer le mode Fever ?**
+    *   **R :** Tu l'actives automatiquement en créant un long combo ininterrompu de fracassage de plateformes colorées. Une jauge circulaire montre ta progression. Une fois pleine, le mode Fever commence.
 
-    - **Q: Is there an end to the game?**
+*   **Q : Puis‑je briser les plateformes noires en mode Fever ?**
+    *   **R :** Oui. Pendant le mode Fever, la balle est invincible et peut détruire n'importe quelle plateforme, y compris les noires, sans pénalité.
 
-- **A:** Yes. During Fever Mode, the ball is invincible and can destroy any platform, including the black ones, without penalty.
-
-    - **Q: Can I break black platforms in Fever Mode?**
-  Le jeu est organisé en niveaux. Ton objectif est d’atteindre le bas de la
-  tour à chaque niveau, les suivants étant de plus en plus longs ou complexes.
-
+*   **Q : Y a‑t‑il une fin au jeu ?**
+    *   **R :** Le jeu est basé sur des niveaux. Ton objectif est d'atteindre le bas de la tour hélicoïdale pour compléter le niveau actuel et passer au suivant, qui sera souvent plus long ou plus complexe.

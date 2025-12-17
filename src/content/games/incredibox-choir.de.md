@@ -32,23 +32,25 @@ entdecken, die atmosphärisch an sakrale oder epische Szenen angelehnt sind.
 
 ### Strategie & Tipps
 
+Der Fokus bei *Incredibox Choir* liegt auf dem Schichten von Harmonien und dem Erkunden der einzigartigen vokalen Texturen.
+
 1.  **Chor-Kategorien kennen**  
     *   **Beats (Rot):** Statt klassischer Drums bekommst du hier tiefe
         Vocal-Percussion, rhythmische Bass-Chants und Summen, die das
         Fundament bilden.  
-- **Effekte (Blau):** Luftige Pads, Hallfahnen, Echos und atmosphärische
+    *   **Effekte (Blau):** Luftige Pads, Hallfahnen, Echos und atmosphärische
         Chorflächen, die Raum und Größe erzeugen.  
     *   **Melodien (Grün):** Klare Tenor- oder Altstimmen, die eingängige
         Tonfolgen tragen und als musikalischer Hook dienen.  
     *   **Stimmen (Gelb):** Komplexe Soli, mehrstimmige Harmonien und
         Ensemble-Passagen, die deiner Komposition Charakter geben.
 
-    - **Von unten nach oben aufbauen**  
+2.  **Von unten nach oben aufbauen**  
     Starte mit ein bis zwei Beat-Icons, um den Puls festzulegen. Füge dann ein
     Effekt-Icon für Raum hinzu und schichte anschließend Melodien und Stimmen,
     bis der Chor „voll" klingt.
 
-    - **Auf Harmonie achten**  
+3.  **Auf Harmonie achten**  
     Nicht alle Sounds harmonieren miteinander. Wenn ein Mix dissonant oder
     chaotisch klingt, tausche gezielt einzelne Stimmen aus. Ziel ist ein
     kraftvoller, geschlossener Chorklang.
@@ -58,10 +60,6 @@ entdecken, die atmosphärisch an sakrale oder epische Szenen angelehnt sind.
     nacheinander durch, um die drei Bonus-Animationen aufzudecken.
 
 5.  **Solo-Funktion nutzen**  
-
-- **Use Solo to Appreciate the Detail**: The vocal work in this mod is often very detailed. Use the "solo" function to isolate individual voices and appreciate the nuances of each performance. This can also help you understand how each part contributes to the whole.
-
-- **Systematic Search for Bonuses**: To find the three hidden bonuses, a methodical approach is best. Try locking in a few sounds that you think work well together and then systematically cycle through the remaining icons one by one until you trigger the animation.
     Isoliere einzelne Stimmen per Solo, um die Details zu hören und besser zu
     verstehen, wie jede Spur in das Gesamtstück einzahlt.
 

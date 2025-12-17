@@ -19,43 +19,29 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### Présentation détaillée
 
-Jewel Academy est un match‑3 riche et soigné qui t’invite dans un monde de gemmes colorées et de défis magiques. En tant qu’élève de l’académie, tu avances sur une grande carte remplie de niveaux, chacun avec son objectif propre. Le principe : échanger deux gemmes adjacentes pour créer des lignes d’au moins trois pierres de même couleur. En jouant de façon stratégique, tu crées des joyaux spéciaux, détruis des obstacles et viens à bout de centaines de puzzles.
+Jewel Academy est un jeu de puzzle match‑3 riche et soigné qui invite les joueurs dans un monde de gemmes colorées et de défis magiques. En tant qu'élève de l'académie, tu progresseras à travers une vaste carte de niveaux, chacun avec un objectif unique. Le gameplay de base consiste à échanger des joyaux adjacents pour créer des lignes de trois ou plus de la même couleur. En faisant des alignements stratégiques, tu peux créer des gemmes spéciales puissantes, surmonter des obstacles délicats et résoudre des centaines de puzzles captivants.
 
 ### Stratégies de jeu
 
-1.  **Cherche les combos spéciaux**  
-    Ne te contente pas d’aligner trois gemmes. Essaie de former des lignes de 4 ou 5, ou des formes en L/T, afin de générer des bonus puissants qui nettoient de grandes zones.
-
-2.  **Combine les power‑ups**  
-    Les niveaux difficiles se gagnent grâce aux combinaisons de joyaux spéciaux. Par exemple, échanger une flèche avec une bombe nettoie trois lignes horizontales et verticales à la fois ; deux bombes de couleur ensemble effacent quasiment tout le plateau.
-
-3.  **Garde l’objectif en tête**  
-    Chaque niveau a un but : casser des cases spéciales, faire tomber des objets, etc. Concentre tes coups là où ils comptent, plutôt que de faire des matches « gratuits » loin de la zone utile.
-
-4.  **Travaille depuis le bas**  
-    Quand c’est possible, fais des matches près du bas du tableau. Cela provoque des chutes de gemmes et des cascades automatiques, qui peuvent accomplir beaucoup de travail sans consommer de coups supplémentaires.
+1.  **Cherche les combos spéciaux :** Ne te contente pas d'aligner trois. Cherche activement les opportunités d'aligner quatre ou cinq joyaux, car c'est la clé pour créer des power‑ups puissants qui peuvent nettoyer de grandes sections du plateau.
+2.  **Combine les power‑ups :** La façon la plus efficace de passer les niveaux difficiles est de combiner les joyaux spéciaux. Par exemple, échanger un joyau Flèche avec un joyau Bombe nettoiera trois lignes et trois colonnes simultanément. Échanger deux Bombes de Couleur ensemble nettoiera tout le plateau !
+3.  **Concentre‑toi sur l'objectif :** Garde toujours l'objectif du niveau en tête. Si tu dois nettoyer certaines cases bloquées, concentre tes alignements dans ces zones. Si tu dois faire descendre des objets spéciaux, nettoie les joyaux en dessous d'eux. Ne gaspille pas de coups sur des alignements qui ne contribuent pas à ton objectif.
+4.  **Travaille depuis le bas :** Quand c'est possible, fais des alignements près du bas du plateau. Cela fait tomber plus de joyaux du haut, augmentant les chances de créer des réactions en chaîne ou cascades automatiques, qui peuvent t'aider à compléter les objectifs sans utiliser de coups supplémentaires.
 
 ### Commandes
 
-Le jeu se joue à la souris ou au tactile.
+Le jeu se joue à la souris ou à l'écran tactile.
 
-- **Échanger des gemmes** : clique sur une gemme puis sur une adjacente pour les échanger, ou fais glisser l’une vers l’autre. L’échange n’est validé que s’il forme au moins une ligne de trois.  
-- **Activer les bonus** : échange un joyau spécial comme n’importe quelle gemme pour déclencher son effet, ou combine deux bonus côte à côte pour des résultats encore plus puissants.
+*   **Échanger des joyaux :** Clique sur un joyau, puis clique sur un joyau adjacent pour échanger leurs positions. Alternativement, tu peux cliquer et faire glisser un joyau vers une place adjacente. Un échange n'est valide que s'il résulte en un alignement de trois ou plus.
+*   **Activer les power‑ups :** Échange un joyau spécial comme n'importe quel autre joyau pour activer son effet. Pour combiner des power‑ups, échange deux joyaux spéciaux adjacents l'un avec l'autre.
 
 ### Foire aux questions (FAQ)
 
-- **Q : Comment créer une bombe ?**  
-  R : En alignant cinq gemmes en forme de « L » ou de « T ». La bombe explose et nettoie un carré de 3x3 autour d’elle.
+*   **Q : Comment créer une Bombe ?**
+    *   **R :** Tu crées une Bombe en alignant cinq joyaux en forme de « L » ou de « T ». Les Bombes explosent et nettoient une zone de 3x3 joyaux autour d'elles.
 
-    - **Q : À quoi sert le joyau arc‑en‑ciel ?**  
-  R : C’est une bombe de couleur, créée en alignant cinq gemmes en ligne droite. Échange‑la avec une gemme adjacente pour supprimer toutes les gemmes de cette couleur sur tout le plateau.
+*   **Q : Que fait le joyau arc‑en‑ciel ?**
+    *   **R :** C'est une Bombe de Couleur, créée en alignant cinq joyaux en ligne droite (horizontale ou verticale). Échange‑la avec n'importe quel joyau adjacent, et elle supprimera tous les joyaux de cette couleur de tout le plateau.
 
-- **Q : Pourquoi n’ai‑je plus de coups ?**  
-
-    - **A:** Many levels in Jewel Academy are move-limited. You must complete the specific level objective before you use up all your allotted moves. If you fail to do so, you will have to use a life to try again.
-
-- **Q: Why did I run out of moves?**
-
-    - **A:** That is a Color Bomb, created by matching five jewels in a straight line (horizontal or vertical). Swap it with any adjacent jewel, and it will remove all jewels of that color from the entire board.
-  R : Beaucoup de niveaux sont limités en nombre de mouvements. Tu dois remplir l’objectif avant d’épuiser ces coups ; sinon, tu perds une vie et dois rejouer le niveau.
-
+*   **Q : Pourquoi n'ai‑je plus de coups ?**
+    *   **R :** Beaucoup de niveaux dans Jewel Academy sont limités en coups. Tu dois compléter l'objectif spécifique du niveau avant d'épuiser tous tes coups alloués. Si tu échoues, tu devras utiliser une vie pour réessayer.

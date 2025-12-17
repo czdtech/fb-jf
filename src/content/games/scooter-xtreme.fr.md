@@ -14,59 +14,32 @@ score: 4.3/5  (2200 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### Présentation détaillée
 
+Scooter Xtreme 3D est un jeu de stunts et de course plein d'action qui te met sur une trottinette dans un monde 3D vibrant. Ton objectif est de naviguer à travers des parcours difficiles remplis de rampes, rails et obstacles. Réalise des figures incroyables comme des flips et des grinds pour accumuler des points, collecte des pièces et fonce vers la ligne d'arrivée. Utilise tes gains pour débloquer de nouvelles trottinettes et personnages pour devenir le champion ultime de la trottinette.
 
+### Stratégies de jeu et progression
 
-### Présentation du jeu
-
-Scooter Xtreme 3D est un jeu de course et de figures plein d’action qui te
-met au guidon d’une trottinette dans un skatepark 3D coloré. Ton objectif :
-terminer des parcours truffés de rampes, rails et obstacles, réaliser des
-figures spectaculaires (flips, grinds, etc.), engranger des points et
-collecter des pièces. Tu pourras ensuite les dépenser pour débloquer de
-nouvelles trottinettes et de nouveaux personnages et devenir la star du
-park.
-
-### Stratégies de jeu
-
-1.  **Maîtriser les bases :** avant de tenter des combos de folie,
-    apprends à bien accélérer, tourner et sauter pour sentir la physique de
-    la trottinette.
-2.  **Enchaîner les tricks :** la clé d’un gros score, ce sont les combos.
-    Ne fais pas qu’une figure isolée : par exemple, saute d’une rampe,
-    réalise un flip puis enchaîne sur un grind parfaitement posé.
-3.  **Explorer le park :** les niveaux regorgent de lignes alternatives et
-    de zones cachées. Cherche les meilleurs trajets pour maximiser les
-    points et ramasser toutes les pièces.
-4.  **Choisir la bonne trottinette :** chaque modèle débloqué a ses stats
-    (vitesse, maniabilité, aptitudes aux figures…). Sélectionne celui qui
-    correspond à ton style et aux objectifs du niveau.
+1.  **Maîtriser les bases :** avant d'essayer des tricks complexes, habitue‑toi aux contrôles. Entraîne‑toi à accélérer, tourner et sauter pour sentir la physique de la trottinette.
+2.  **Enchaîner tes tricks :** la clé d'un score élevé, ce sont les combos. Ne fais pas qu'un seul trick ; essaie de les enchaîner. Par exemple, saute d'une rampe, fais un flip en l'air et atterris parfaitement en grind sur un rail.
+3.  **Explorer le park :** les niveaux sont remplis de différents chemins et zones cachées. Explore l'environnement pour trouver les meilleures lignes pour marquer des points et collecter toutes les pièces.
+4.  **Choisir la bonne trottinette :** au fur et à mesure que tu débloques de nouvelles trottinettes, fais attention à leurs stats. Certaines peuvent être plus rapides, tandis que d'autres sont meilleures pour réaliser des tricks. Choisis celle qui correspond le mieux à ton style de jeu et à l'objectif du niveau.
 
 ### Commandes
 
-*   **Accélérer :** touche **W** ou flèche **Haut**.  
-*   **Diriger :** touches **A/D** ou flèches **Gauche/Droite**.  
-*   **Freiner / Reculer :** touche **S** ou flèche **Bas**.  
-*   **Sauter :** barre d’espace.  
-*   **Effectuer des figures :** utilise les touches indiquées à l’écran
-    pendant que tu es en l’air ou en grind pour lancer des tricks.
+*   **Accélérer :** appuie sur la touche **W** ou **Flèche Haut**.
+*   **Diriger :** utilise les touches **A/D** ou **Flèches Gauche/Droite** pour diriger.
+*   **Freiner/Reculer :** appuie sur la touche **S** ou **Flèche Bas**.
+*   **Sauter :** appuie sur la **Barre d'espace** pour sauter.
+*   **Réaliser des tricks :** utilise d'autres touches désignées (souvent affichées à l'écran) en l'air ou sur un rail pour réaliser divers stunts.
 
 ### Foire aux questions (FAQ)
 
-*   **Q : Comment obtenir un meilleur score ?**  
-    R : En réalisant des combos longs et variés. Plus tu enchaînes de
-    figures sans te rater, plus ton multiplicateur de score augmente.
+*   **Q : Comment obtenir un score plus élevé ?**
+    *   **R :** En réalisant des combos longs et variés. Plus tu enchaînes de tricks sans te rater, plus ton multiplicateur de score sera élevé.
 
-    - **Q : Que se passe‑t‑il si je tombe ou me crashe ?**  
-    R : Tu es généralement replacé au dernier checkpoint, mais tu perds du
-    temps et ta série de combos en cours.
+*   **Q : Que se passe‑t‑il si je tombe ou me crashe ?**
+    *   **R :** Tu seras généralement remis au dernier checkpoint que tu as passé, mais tu perdras du temps précieux et ta série de combos actuelle.
 
-*   **Q : Comment débloquer de nouveaux riders et trottinettes ?**  
-
-    - **A:** By collecting coins scattered throughout the levels. Once you have enough, you can visit the in-game shop to purchase new gear and riders.
-
-- **Q: How do I unlock new characters and scooters?**
-
-    - **A:** You will usually be reset to the last checkpoint you passed, but you will lose valuable time and your current combo streak.
-    R : Ramasse les pièces dispersées dans les niveaux, puis rends‑toi dans
-    la boutique pour acheter du nouvel équipement et des personnages.
+*   **Q : Comment débloquer de nouveaux personnages et trottinettes ?**
+    *   **R :** En collectant des pièces dispersées dans les niveaux. Une fois que tu en as assez, tu peux visiter la boutique en jeu pour acheter du nouvel équipement et des riders.

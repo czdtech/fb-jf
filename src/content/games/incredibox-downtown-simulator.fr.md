@@ -16,56 +16,32 @@ releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 
-### Présentation du jeu
+### **Introduction au jeu Incredibox « Downtown » (Mod Simulator)**
 
-*Incredibox Downtown Simulator* appartient à la série de mods « Simulator » d’Incredibox. Au lieu des beatboxers alignés, tu contrôles une **grille de 20 icônes sonores** inspirées de l’univers urbain : beats hip‑hop, basses lourdes, bruits de rue et voix de rap ou de chant.
+*Incredibox Downtown* est un jeu fan‑made populaire et de haute qualité appartenant à la **série de mods « Simulator »**. Cette version se distingue par une interface utilisateur et un mécanisme de gameplay uniques, différents de la série officielle Incredibox. Au lieu de faire glisser des icônes sur une équipe de personnages, les joueurs interagissent avec une **grille de 20 icônes sonores**.
 
-Le but est de créer une boucle qui capture l’ambiance d’un centre‑ville animé : circulation, tags, soirées, métro… Tu cliques sur les icônes de la grille pour activer ou couper chaque piste et fais monter progressivement ton groove.
+Le jeu est thématisé autour d'un cadre urbain moderne de **centre‑ville**, avec une palette sonore inspirée du hip‑hop, de la culture de rue et de la musique électronique. L'objectif est de créer une boucle musicale en cliquant sur les différentes icônes pour les activer ou les désactiver.
 
+Ce format « Simulator » offre une expérience créative différente, se concentrant sur la combinaison directe de sons dans une interface basée sur une grille, plutôt que d'assigner des sons à des interprètes individuels.
 
-This "Simulator" format offers a different creative experience, focusing on the direct combination of sounds in a grid-based interface, rather than assigning sounds to individual performers.
-### Stratégies de jeu et conseils
+### **Stratégies de jeu et astuces**
 
-1.  **Commence par la rythmique de base**  
-    Active une ou deux pistes de batterie (kick, snare, hi‑hat) pour poser un tempo clair. Sans fond rythmique lisible, tout le reste sonnera brouillon.
+1.  **Comprends la grille** : Les 20 sons sont présentés dans une seule grille. Bien qu'ils ne soient pas codés par couleur en catégories distinctes dans l'interface, ils fonctionnent toujours comme **Beats, Effets, Mélodies et Voix**. Expérimente en cliquant sur différentes icônes pour comprendre leurs rôles. Les rangées du haut contiennent souvent les beats et effets fondamentaux, tandis que les rangées du bas présentent des mélodies et voix plus complexes.
+2.  **Superpose les sons méthodiquement** : Le cœur du gameplay est la superposition. Commence par cliquer sur une ou deux icônes de beat pour établir un rythme. Ensuite, ajoute une ligne de basse ou un effet atmosphérique. Construis ta piste couche par couche jusqu'à obtenir une boucle complète et cohérente.
+3.  **Remplis la barre de boucle** : Ton objectif principal est de remplir la barre de progression « LOOP » en haut de l'écran. Cette barre se remplit généralement au fur et à mesure que tu actives plus de sons. Dans certains mods simulator, trouver des combinaisons spécifiques de sons peut faire remplir la barre plus rapidement, récompensant l'expérimentation.
+4.  **Écoute l'harmonie** : Les 20 sons ne sont pas tous conçus pour être joués en même temps. Clique sur les icônes pour les activer et désactiver afin de trouver des combinaisons qui sonnent bien ensemble. Le plaisir vient de créer ton propre mix unique, qu'il s'agisse d'un beat simple et épuré ou d'une piste multicouche complexe.
+5.  **Utilise les commandes** :
+    *   **Lecture/Pause** : Le bouton lecture te permet de démarrer et stopper toute la composition.
+    *   **Réinitialisation** : Le bouton de réinitialisation/mélange est parfait pour effacer le plateau et commencer un nouveau mix.
+    *   **Enregistrement** : Utilise la fonction d'enregistrement pour sauvegarder et partager les boucles dont tu es fier.
 
-2.  **Pose une basse solide**  
-    Ajoute ensuite une ligne de basse simple qui suit le rythme. C’est elle qui donnera la lourdeur typique des beats de rue.
+### **Guide des commandes**
 
-3.  **Ajoute des textures urbaines**  
-    Active quelques bruitages de ville (sirènes, voix lointaines, rames de métro) ou des FX pour remplir l’espace, mais sans saturer la boucle.
+C'est la différence clé avec Incredibox standard. Le jeu est entièrement contrôlé par des clics de souris.
 
-4.  **Insère des voix et hooks**  
-    Garde une ou deux pistes vocales marquantes (rap, chant, slogans) pour servir de thème. Évite d’activer toutes les voix en même temps.
-
-5.  **Fais évoluer la boucle en temps réel**  
-
-    - **Record**: Use the record function to save and share the loops you are proud of.
-
-    - **Reset**: The reset/shuffle button is perfect for clearing the board and starting a fresh mix.
-
-    - **Play/Pause**: The play button allows you to start and stop the entire composition.
-    Coupe / relance des pistes régulièrement pour créer des « drops », des breaks et des reprises, comme dans un live DJ.
-
-### Commandes
-
-
-This is the key difference from standard Incredibox. The game is controlled entirely by mouse clicks.
-- **Activer / désactiver un son** : clique sur une icône de la grille ; allumée = piste active, éteinte = piste coupée.  
-- **Contrôles globaux** : boutons Lecture / Pause, Enregistrement et Réinitialisation en haut de l’écran, selon la version de l’hébergeur.
-
-
-- **Reset Button**: Clears all active sounds from the grid.
-
-    - **Record Button**: Starts and stops the recording of your mix.
-
-    - **Play Button**: Toggles the entire loop on or off.
-
-    - **Main Controls (Top Left)**:
-### Foire aux questions (FAQ)
-
-- **Q : En quoi ce mod diffère‑t‑il d’Incredibox classique ?**  
-  R : Tu ne glisses plus des icônes sur des personnages ; tu actives une grille de sons comme dans un séquenceur, ce qui donne un feeling plus « DJ / beatmaker ».
-
-- **Q : Puis‑je enregistrer mon mix ?**  
-  R : La plupart des hébergeurs offrent un bouton d’enregistrement pour exporter ou partager ta boucle.
+*   **Activer / Désactiver un son** : **Clique** sur l'une des 20 icônes sonores de la grille. Une icône activée sera mise en surbrillance ou changera de couleur, et son son sera ajouté à la boucle. Cliquer à nouveau la désactivera.
+*   **Combiner les sons** : Tu peux cliquer et activer autant de sons que tu le souhaites simultanément pour créer ton mix.
+*   **Commandes principales (en haut à gauche)** :
+    *   **Bouton Lecture** : Active ou désactive la boucle entière.
+    *   **Bouton Enregistrement** : Démarre et arrête l'enregistrement de ton mix.
+    *   **Bouton Réinitialisation** : Efface tous les sons actifs de la grille.

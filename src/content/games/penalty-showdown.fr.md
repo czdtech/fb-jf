@@ -15,35 +15,30 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### Présentation détaillée
 
-Penalty Showdown alterne entre phases de tir et phases de gardien. En tant que tireur, tu dois varier placement et hauteur de tes frappes. En tant que gardien, tu dois lire la course d’élan de l’adversaire et plonger au bon moment. La victoire repose davantage sur le changement de rythme et la variété des profils de tirs que sur la puissance brute.
+Penalty Showdown alterne entre phases de tir et phases de gardien. En tant que tireur, masque le placement et la hauteur de tes frappes ; en tant que gardien, lis les courses d'élan et plonge tard. Gagner repose sur les changements de rythme et les profils de tirs variés plutôt que sur la puissance seule.
 
 ### Stratégies de jeu et progression
 
-1.  **Mélanger les profils de tir :** alterne frappes ras de terre, lucarnes et balles piquées au centre pour éviter que le gardien ne te lise.  
-2.  **Plonger tard côté gardien :** fais un léger pas d’attente puis engage‑toi au dernier moment, souvent du côté ouvert du tireur.  
-3.  **Gérer la puissance :** une puissance moyenne à haute donne un bon compromis entre vitesse et précision ; les barres trop pleines entraînent souvent des frappes hors cadre.  
-4.  **Jouer le mind‑game :** marque parfois une petite pause dans ta course pour forcer un plongeon anticipé, puis ajuste ta frappe en conséquence.
+1.  Mélanger les profils : alterne entre coins bas, coins hauts et chips au centre pour éviter les schémas prévisibles.
+2.  Plongeon tardif du gardien : bouge brièvement puis engage‑toi au dernier moment du côté ouvert du tireur.
+3.  Fenêtres de puissance : une puissance moyenne à haute donne de la vitesse sans déviations folles.
+4.  Vent : compense ta visée et réduis la hauteur par vent fort (si modélisé).
+5.  Mind games : marque une pause avant les tirs pour provoquer des plongeons anticipés.
 
-
-- Mind games: Pause a beat before shots to bait early dives.
 ### Commandes
 
-- **Tireur :** déplace le viseur, règle la puissance (et parfois l’effet), puis valide pour frapper.  
-- **Gardien :** choisis la direction et le timing de ton plongeon via la souris ou les touches.
+- Tirer : visée + puissance + (optionnel) effet. Garder : choisis le côté/timing ; certaines versions permettent des plongeons manuels.
 
 ### Foire aux questions (FAQ)
 
-- **Q : Mes tirs sont souvent arrêtés, que faire ?**  
-  **R :** Ne répète pas toujours la même zone ; varie hauteur et timing, et évite les frappes trop centrées.
+- Q : Mes tirs sont toujours arrêtés.
+  
+  R : Varie la hauteur et retarde ta visée ; évite les frappes prévisibles au milieu du but.
 
-- **Q : Je devine rarement le bon côté en tant que gardien.**  
-  **R :** Observe les deux derniers appuis du tireur ; la position des hanches et des épaules trahit souvent la direction.
+- Q : Le gardien me devine à chaque fois.
+  
+  R : Change tes angles de course d'élan et ajoute une brève pause avant le contact.
 
-
-
-A: Watch the last two steps — hips often telegraph shot side.
-
-- Q: Best keeper tip?
-
-
-A: Watch the last two steps — hips often telegraph shot side.
+- Q : Meilleur conseil pour le gardien ?
+  
+  R : Observe les deux derniers pas — les hanches trahissent souvent le côté du tir.

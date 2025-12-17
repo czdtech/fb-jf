@@ -31,7 +31,7 @@ Tower Crash 3D ist ein befriedigendes Physik‑Puzzle, in dem du Türme aus farb
 ### Steuerung
 
 
-The controls are simple and intuitive.
+Die Steuerung ist einfach und intuitiv.
 - **Zielen:** Bewege Maus oder Finger, um das Geschütz nach links und rechts zu schwenken.
 - **Feuern:** Linksklick oder Tipp auf den Bildschirm, um eine Kugel abzufeuern.
 

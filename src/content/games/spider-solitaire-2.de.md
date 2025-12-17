@@ -36,20 +36,11 @@ Spider Solitaire gehört zu den bekanntesten und zugleich anspruchsvollsten Soli
 
 ### Häufig gestellte Fragen (FAQ)
 
-- **F: Was ist der Unterschied zwischen 1-, 2- und 4-Farben-Spider-Solitaire?**
-  
-  **A:** Der Schwierigkeitsgrad. Im 1-Farben-Modus sind alle Karten gleichfarbig, sodass sich Folgen leicht bilden lassen. Bei 2 oder 4 Farben musst du deutlich genauer planen, da du nur einfarbige Sequenzen vollständig verschieben und entfernen kannst.
+*   **F: Was ist der Unterschied zwischen 1-, 2- und 4-Farben-Spider-Solitaire?**
+    *   **A:** Der Schwierigkeitsgrad. Im 1-Farben-Modus sind alle Karten gleichfarbig, sodass sich Folgen leicht bilden lassen. Bei 2 oder 4 Farben musst du deutlich genauer planen, da du nur einfarbige Sequenzen vollständig verschieben und entfernen kannst.
 
-    - **F: Warum kann ich keine neuen Karten aus dem Stock austeilen?**
-  
-  **A:** Auf jeder der zehn Tableau-Spalten muss mindestens eine Karte liegen. Ist eine Spalte komplett leer, musst du sie erst wieder mit einer Karte oder Sequenz füllen, bevor du eine neue Reihe austeilen darfst.
+*   **F: Warum kann ich keine neuen Karten aus dem Stock austeilen?**
+    *   **A:** Auf jeder der zehn Tableau-Spalten muss mindestens eine Karte liegen. Ist eine Spalte komplett leer, musst du sie erst wieder mit einer Karte oder Sequenz füllen, bevor du eine neue Reihe austeilen darfst.
 
-- **F: Welche Strategie ist für Einsteiger am besten?**
-  
-
-    - **A:** Start with 1-suit mode to learn the mechanics. Focus on uncovering new cards and creating empty columns. Try to build sequences on cards that don't have many face-down cards underneath them.
-
-- **Q: What is the best strategy for beginners?**
-
-    - **A:** You must have at least one card in every single one of the ten tableau columns. If you have an empty column, you must place a card in it before you can deal a new row.
-  **A:** Starte am besten im 1-Farben-Modus, um die Grundlagen zu lernen. Konzentriere dich darauf, verdeckte Karten aufzudecken und leere Spalten zu erzeugen. Baue bevorzugt Sequenzen auf Spalten, unter denen nur wenige verdeckte Karten liegen.
+*   **F: Welche Strategie ist für Einsteiger am besten?**
+    *   **A:** Starte am besten im 1-Farben-Modus, um die Grundlagen zu lernen. Konzentriere dich darauf, verdeckte Karten aufzudecken und leere Spalten zu erzeugen. Baue bevorzugt Sequenzen auf Spalten, unter denen nur wenige verdeckte Karten liegen.

@@ -39,7 +39,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ### 操作指南
 
 
-The controls are simple and direct.
+操作简单直接。
 -   **瞄准与射击：** 使用鼠标拖动以调整炮口方向，确认角度后点击发射炮弹。  
 -   **旋转视角（如支持）：** 部分版本允许拖动或使用按钮切换观察角度，以更清晰地看到塔的结构弱点。  
 -   **重置关卡：** 通过 Restart 按钮可以在任何时刻重新开始本关。  
@@ -47,17 +47,17 @@ The controls are simple and direct.
 ### 常见问题解答（FAQ）
 
 
-- **A:** Aiming carefully is always better. Since ammunition is limited, a single well-placed shot that causes a major collapse is far more valuable than several random, ineffective shots.
+- **答：** 仔细瞄准总是更好。由于弹药有限，一发落点精准、能引发大规模坍塌的炮弹，比几发随意乱打更有价值。
 
-    - **Q: Is it better to shoot fast or aim carefully?**
+    - **问：是快速连发好还是仔细瞄准好？**
 
-- **A:** If you run out of ammunition before meeting the level's objective, you have to restart the level and try a different strategy.
+- **答：** 如果在达成关卡目标前就把炮弹用完了，你只能重开本关并换个策略。
 
-    - **Q: I ran out of cannonballs but the structure is still too high. What do I do?**
+    - **问：炮弹用完了但结构还太高怎么办？**
 
-- **A:** Each level has a goal, often indicated by a horizontal line. You must cause the structure to collapse until all remaining parts are below this line. Once you do, you automatically pass the level.
+- **答：** 每关都有一个目标，通常用一条水平线表示。你必须让结构坍塌到所有残余部分都在这条线以下，达成后会自动过关。
 
-    - **Q: How do I know if I've passed the level?**
+    - **问：我怎么判断自己过关了？**
 **问：炮弹总打得“碎碎的”，塔却不倒怎么办？****
 答：** 很可能是你总打在塔身中部或非关键支撑点。尝试从底座柱子或连接处打起，利用重力让重心失衡。
 

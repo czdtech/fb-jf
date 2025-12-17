@@ -29,5 +29,6 @@ Sprunki Phase 8 nimmt das bekannte Sprunki-Musikprinzip und hüllt es in eine un
 Wenn dir klassische Musikspiele zu lieb und brav sind, ist Phase 8 eine spannende Abwechslung. Der Mod richtet sich an alle, die sowohl kreative Musikexperimente als auch Horror-Themen mögen. Du kannst mit Sounds spielen, Grenzen ausloten und dir deine eigene, dunkle Klangwelt komponieren – von subtil unheimlich bis richtig bedrohlich.
 
 
-### Wrapping Up:
+### Fazit
+
 Sprunki Phase 8 ist damit ein mutiger Mix aus Musikbaukasten und Horror-Erlebnis und ein spannender Schritt in der Entwicklung des Sprunki-Universums.

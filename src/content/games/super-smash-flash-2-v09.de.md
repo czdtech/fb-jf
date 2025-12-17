@@ -22,8 +22,7 @@ Die v0.9‑Demo von Super Smash Flash 2 führt das Konzept des Fan‑Prüglers w
 
 ### Spielanleitung
 
-
-Like its inspiration, the goal is to launch opponents off the screen by increasing their damage percentage.
+Wie beim großen Vorbild ist das Ziel, Gegner vom Bildschirm zu schleudern, indem man ihren Schadensprozentsatz erhöht.
 - **Schaden erhöhen:** Mit Angriffen treibst du den Schadens‑Prozentsatz deines Gegners in die Höhe.
 - **Smash‑Moves nutzen:** Bei hoher Prozentzahl genügt oft ein gut gesetzter Smash‑Angriff, um den Gegner aus dem Bild zu befördern.
 - **Zurückkämpfen:** Nach einem starken Treffer musst du mit Sprüngen und Specials den Rückweg zur Plattform schaffen.
@@ -31,8 +30,7 @@ Like its inspiration, the goal is to launch opponents off the screen by increasi
 
 ### Steuerung (Standard, anpassbar)
 
-
-Controls are fully customizable. A common default layout for Player 1 is:
+Die Steuerung ist vollständig anpassbar. Eine gängige Standardbelegung für Spieler 1 ist:
 - **Bewegen:** `A` / `D`
 - **Nach oben zielen:** `W`
 - **Ducken/Nach unten zielen:** `S`
@@ -51,7 +49,5 @@ Neue Engine, flüssigere Animationen, größerer Cast, mehr Tiefgang im Kampfsys
 **Unterstützt das Spiel Controller?**  
 Ja, Controller lassen sich im Optionsmenü konfigurieren.
 
-
-Yes, the development team at McLeodGaming continues to release updates, adding new characters, stages, and features to the game.
-
-**Is this game still being updated?**
+**Wird dieses Spiel noch aktualisiert?**  
+Ja, das Entwicklerteam bei McLeodGaming veröffentlicht weiterhin Updates, die neue Charaktere, Stages und Features zum Spiel hinzufügen.

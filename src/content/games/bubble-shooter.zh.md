@@ -39,12 +39,12 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ### 操作指南
 
 
-The controls are extremely simple and intuitive, designed for mouse or touch.
+操作非常简单直观，适用于鼠标或触屏。
 *   **瞄准：** 移动鼠标调整发射方向，部分版本会显示辅助瞄准线。  
 *   **发射：** 点击鼠标左键从发射器射出当前泡泡。  
 
 
-- **Swap Bubbles (in some versions):** Some modern versions allow you to press a key (like the **Spacebar**) or click an icon to swap the current bubble with the next one in the queue.
+- **交换泡泡（部分版本）：** 某些新版允许你按键（如 **空格键**）或点击界面图标，将当前泡泡与队列中的下一颗交换。
 ### 常见问题解答（FAQ）
 
 - **问：游戏的最终目标是什么？**
@@ -64,10 +64,10 @@ The controls are extremely simple and intuitive, designed for mouse or touch.
   > 部分版本提供交换按钮或按键（如空格键）；若界面上没有相关图标，则说明该版本不支持交换，需根据当前颜色即时应变。
 
 
-> The best way to get a high score is to drop large clusters of bubbles at once. The more bubbles you drop that were not part of the direct match, the more bonus points you receive. Focus on making high-up bank shots to achieve this.
+> 获取高分的最佳方式是一次性让大团泡泡坠落。你让那些并非直接三连匹配的泡泡一起掉落得越多，获得的额外加成分就越高。尽量用高位的反弹球击中关键连接点来做到这一点。
 
-**4. What is the best strategy for getting a high score?**
+**4. 想拿高分的最佳策略是什么？**
 
-> In the classic, original version of Bubble Shooter, there are no special bubbles. However, many modern variations have introduced power-ups like **Bomb Bubbles** (clear an area), **Rainbow Bubbles** (match any color), and **Fireball Bubbles** (destroy everything in their path).
+> 在经典的原版 Bubble Shooter 中并没有特殊泡泡。不过许多现代变体加入了诸如 **炸弹泡泡**（清除一片区域）、**彩虹泡泡**（可匹配任意颜色）以及 **火球泡泡**（摧毁路径上的一切）等道具。
 
-**3. Are there special bubbles or power-ups?**
+**3. 游戏里有没有特殊泡泡或道具？**

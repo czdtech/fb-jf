@@ -16,52 +16,32 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### Présentation détaillée
 
-Pirates Match 3 est un jeu de match‑3 dans l’univers des pirates : ancres, pièces d’or, sabres et cartes au trésor remplissent la grille. Tu dois échanger des symboles pour former des lignes d’au moins trois éléments identiques, charger des bonus et accomplir les objectifs de chaque niveau (score, blocs à casser, objets à collecter, etc.).
+Pirates Match 3 est un jeu de puzzle match‑3 classique avec un thème pirate flamboyant. Les joueurs plongent dans un monde de cartes au trésor et de butin pirate, échangeant des icônes colorées sur le thème pirate comme des têtes de mort, ancres, roues de navire et pièces. L'objectif est de créer des lignes de trois éléments identiques ou plus pour compléter des objectifs spécifiques à chaque niveau, comme atteindre un score cible ou nettoyer des tuiles spéciales, le tout avec un nombre de coups limité.
 
 ### Stratégies de jeu et progression
 
-1.  **Jouer en bas de la grille :** les matches bas déclenchent souvent des cascades qui nettoient la grille gratuitement.  
-    - **Charger les bonus :** crée des lignes de 4 ou 5 symboles pour obtenir des bombes, lignes horizontales/verticales ou effaceurs de couleur.  
-    - **Suivre les objectifs :** concentre‑toi sur la mission (par ex. faire tomber des coffres) plutôt que sur le simple score.  
-    - **Gérer les bloqueurs :** casse les chaînes, coffres verrouillés ou rochers dès que possible pour garder la grille respirable.
+1.  **Créer des power‑ups :** la clé pour réussir les niveaux difficiles est de créer des objets spéciaux en alignant plus de trois pièces.
+    *   **Match 4 :** crée un objet qui efface une ligne ou une colonne entière.
+    *   **Match 5 (forme L ou T) :** crée une bombe qui explose et efface une grande zone d'objets environnants.
+    *   **Match 5 (en ligne) :** crée un objet spécial (comme un coffre au trésor) qui peut effacer tous les objets d'une seule couleur du plateau.
 
+2.  **Combiner les power‑ups :** pour un effet maximum, essaie d'échanger deux power‑ups entre eux. Cela déclenchera un combo massif de nettoyage du plateau qui peut t'aider à compléter les objectifs beaucoup plus vite.
+3.  **Se concentrer sur l'objectif :** sois toujours conscient de l'objectif du niveau. Si tu dois casser toutes les planches de bois en arrière‑plan, concentre tes matches sur ces tuiles spécifiques. Si tu dois faire descendre un objet en bas, dégage le chemin en dessous.
+4.  **Planifier tes coups :** avec un nombre limité de coups par niveau, chaque échange compte. Cherche des coups qui créeront une cascade ou prépareront une future combinaison de power‑ups.
 
-- **Plan Your Moves:** With a limited number of moves per level, every swap counts. Look for moves that will create a cascade or set up a future power-up combination.
-
-- **Focus on the Objective:** Always be aware of the level's goal. If you need to break all the wooden planks in the background, focus your matches on those specific tiles. If you need to drop an item to the bottom, clear the path beneath it.
-
-- **Combine Power-ups:** For maximum effect, try to swap two power-ups with each other. This will trigger a massive board-clearing combo that can help you complete objectives much faster.
 ### Commandes
 
+Le jeu se joue avec de simples contrôles souris ou tactiles.
 
-The game is played with simple mouse or touch controls.
-- Glisse un symbole vers une case voisine pour l’échanger ; l’échange ne se fait que s’il crée un match valide.
-
-
-
-    - **A:** If you fail to complete the level's objective before running out of moves, you will have to restart the level.
-
-- **Q: What happens if I run out of moves?**
-
-    - **A:** Swapping two "Match 5 in a line" power-ups is usually the most powerful, as it clears the entire board. A bomb combined with a line-clearer is also extremely effective.
-
-- **Q: What is the best power-up combination?**
-
-    - **A:** You must make a match on top of the plank or include the chained item in a match. It may take more than one match to fully clear some obstacles.
-
-- **Q: How do I break the wooden planks or chains?**
+*   **Échanger des objets :** clique et fais glisser un objet pour l'échanger avec un adjacent. Un échange n'est valide que s'il crée un match de trois ou plus.
 
 ### Foire aux questions (FAQ)
 
+*   **Q : Comment casser les planches de bois ou les chaînes ?**
+    *   **R :** Tu dois faire un match sur la planche ou inclure l'objet enchaîné dans un match. Il peut falloir plus d'un match pour nettoyer complètement certains obstacles.
 
-- **A:** If you fail to complete the level's objective before running out of moves, you will have to restart the level.
+*   **Q : Quelle est la meilleure combinaison de power‑ups ?**
+    *   **R :** Échanger deux power‑ups « Match 5 en ligne » est généralement le plus puissant, car cela efface tout le plateau. Une bombe combinée avec un effaceur de ligne est aussi extrêmement efficace.
 
-    - **Q: What happens if I run out of moves?**
-
-- **A:** Swapping two "Match 5 in a line" power-ups is usually the most powerful, as it clears the entire board. A bomb combined with a line-clearer is also extremely effective.
-
-    - **Q: What is the best power-up combination?**
-
-- **A:** You must make a match on top of the plank or include the chained item in a match. It may take more than one match to fully clear some obstacles.
-
-    - **Q: How do I break the wooden planks or chains?**
+*   **Q : Que se passe‑t‑il si je n'ai plus de coups ?**
+    *   **R :** Si tu échoues à compléter l'objectif du niveau avant de manquer de coups, tu devras recommencer le niveau.

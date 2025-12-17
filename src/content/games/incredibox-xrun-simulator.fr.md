@@ -15,74 +15,45 @@ releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 
-### Présentation du jeu
+### **Présentation du jeu Incredibox Xrun Simulator**
 
-*Incredibox XRun Simulator* combine esthétique futuriste et gameplay en grille de la série Simulator. Tu cliques sur des icônes pour activer des **beats rapides, basses électroniques et FX de course futuriste**, comme si tu composais la bande‑son d’un jeu runner.
+*Incredibox Xrun Simulator* est un jeu fan‑made dynamique et haute énergie appartenant à la série « Simulator » des mods Incredibox. Cette version se distingue par son esthétique futuriste et une palette sonore fortement inspirée de la **musique électronique dance (EDM), dubstep et trap** modernes.
 
+Le gameplay s'écarte de la série officielle Incredibox, utilisant l'**interface en grille** caractéristique des mods Simulator. Au lieu de faire glisser des icônes sur des personnages, les joueurs découvrent une grille de 20 icônes sonores. L'objectif est de créer une boucle musicale intense en cliquant sur ces icônes pour les activer ou désactiver.
 
-As players layer more sounds, a progress bar at the top of the screen fills up, guiding them towards discovering the mod's hidden audio-visual bonuses. The experience is less about individual performers and more about the direct, hands-on creation of a complex electronic beat.
+À mesure que les joueurs superposent des sons, une barre de progression en haut de l'écran se remplit, les guidant vers la découverte des bonus audio‑visuels cachés du mod. L'expérience est moins centrée sur les interprètes individuels et plus sur la création directe et pratique d'un beat électronique complexe.
 
-The gameplay departs from the official Incredibox series, utilizing the signature **grid-based interface** of the Simulator mods. Instead of dragging icons onto characters, players are presented with a grid of 20 sound icons. The objective is to create an intense musical loop by clicking these icons to activate or deactivate them.
-### Stratégies de jeu et conseils
+### **Stratégies de jeu et conseils**
 
-1.  **Prépare un rythme rapide**  
-    Active plusieurs pistes de drums pour un tempo nerveux qui rappelle une course.
+1.  **Comprends la grille sonore EDM** : Les 20 icônes représentent tous les éléments essentiels d'une piste électronique.
+    *   **Batterie/Percussions** : Cherche les icônes qui fournissent le beat entraînant — kicks, snares et hi‑hats. Ce sont les fondations.
+    *   **Basse** : Trouve les lignes de basse profondes et lourdes. En EDM, la relation entre le kick et la basse est cruciale.
+    *   **Effets/Risers** : Ces icônes fournissent les sons atmosphériques, les risers (sons qui montent en hauteur et intensité), et d'autres effets qui créent tension et relâchement.
+    *   **Synthés/Leads** : Ce sont les hooks mélodiques principaux. Ils peuvent être des basses « wobble » agressives du dubstep, des mélodies de synthé accrocheuses, ou des chops vocaux.
 
-    - **Ajoute des basses et FX de mouvement**  
-    Sons de boost, whooshes, montées synthé… ils donnent la sensation de vitesse.
+2.  **Construis le beat, puis la basse** : Une technique de production classique est de commencer par la batterie. Active d'abord un pattern de kick et snare. Puis, ajoute une ligne de basse puissante qui complète le rythme.
 
-    - **Crée des sections**  
+3.  **Crée une montée et un drop** : L'essence de l'EDM est le changement d'énergie. Utilise les effets riser et les balayages de filtre pour construire la tension. Puis, lâche ton lead synthé principal ou une ligne de basse lourde pour créer un « drop » satisfaisant. Tu peux simuler cela en activant et désactivant différentes icônes en séquence.
 
-    - **Experiment with Layers**: Don't be afraid to click many icons at once. The beauty of the simulator format is the ability to create dense, complex soundscapes. However, also learn which sounds are best used sparingly to punctuate the track.
+4.  **Expérimente avec les couches** : N'aie pas peur de cliquer sur beaucoup d'icônes à la fois. La beauté du format simulator est la capacité de créer des paysages sonores denses et complexes. Cependant, apprends aussi quels sons sont mieux utilisés avec parcimonie pour ponctuer la piste.
 
-    - **Create a Build-Up and Drop**: The essence of EDM is the energy shift. Use riser effects and filter sweeps to build tension. Then, unleash your main synth lead or a heavy bassline to create a satisfying "drop." You can simulate this by activating and deactivating different icons in sequence.
+### **Guide des commandes**
 
-- **Build the Beat, Then the Bass**: A classic production technique is to start with your drums. Activate a kick and snare pattern first. Then, add a powerful bassline that complements the rhythm.
+Ce mod utilise l'interface simple basée sur les clics de la série Simulator.
 
-- **Synths/Leads**: These are the main melodic hooks. They can be aggressive "wobble" basses from dubstep, catchy synth melodies, or vocal chops.
-
-- **Effects/Risers**: These icons provide atmospheric sounds, risers (sounds that build in pitch and intensity), and other effects that create tension and release.
-    Joue avec les activations/désactivations pour simuler départ, montée en vitesse, puis sprint final.
-
-### Commandes
-
-
-This mod uses the simple, click-based interface of the Simulator series.
-- Clique sur les icônes de la grille pour allumer/éteindre les sons.  
-- Utilise les boutons Lecture / Enregistrement / Reset en haut de l’interface (selon la version).
-
-
-
-
-- **Reset Button**: Clears all active sounds from the grid, allowing you to start fresh.
-
-    - **Record Button**: Starts and stops the recording of your mix.
-
-    - **Play/Pause Button**: Toggles the entire loop on or off.
-
-    - **Main Controls (Top of Screen)**:
-You will not find it on official platforms. These mods are typically shared on gaming sites like **Newgrounds**, modding communities like **playfiddlebops.com**, or showcased on YouTube with links to play them in a web browser.
-
-**2. Where can I play this mod?**
-
-This is the signature style of the "Simulator" mods. The grid-based interface is a creative choice by modders to offer a more direct and layered approach to music creation, which is particularly well-suited for electronic music genres.**
-
-**1. Why does this look and play differently from the main games?**
+*   **Activer / Désactiver un son** : **Clique** sur n'importe laquelle des 20 icônes sonores de la grille. Une icône activée s'allumera, ajoutant son son à la boucle. Cliquer dessus à nouveau l'éteindra.
+*   **Combiner les sons** : Tu peux avoir plusieurs sons activés en même temps pour construire ta piste.
+*   **Commandes principales (haut de l'écran)** :
+    *   **Bouton Lecture/Pause** : Active ou désactive toute la boucle.
+    *   **Bouton Enregistrement** : Démarre et arrête l'enregistrement de ton mix.
+    *   **Bouton Reset** : Efface tous les sons actifs de la grille, te permettant de repartir de zéro.
 
 ### **Foire aux questions (FAQ)**
 
+**1. Pourquoi ça ressemble et joue différemment des jeux principaux ?**
 
-You will not find it on official platforms. These mods are typically shared on gaming sites like **Newgrounds**, modding communities like **playfiddlebops.com**, or showcased on YouTube with links to play them in a web browser.
+C'est le style caractéristique des mods « Simulator ». L'interface en grille est un choix créatif des moddeurs pour offrir une approche plus directe et en couches de la création musicale, particulièrement bien adaptée aux genres de musique électronique.
 
-**2. Where can I play this mod?**
+**2. Où puis‑je jouer à ce mod ?**
 
-This is the signature style of the "Simulator" mods. The grid-based interface is a creative choice by modders to offer a more direct and layered approach to music creation, which is particularly well-suited for electronic music genres.**
-
-**1. Why does this look and play differently from the main games?**
-    - **Reset Button**: Clears all active sounds from the grid, allowing you to start fresh.
-
-    - **Record Button**: Starts and stops the recording of your mix.
-
-    - **Play/Pause Button**: Toggles the entire loop on or off.
-
-- **Main Controls (Top of Screen)**:
+Tu ne le trouveras pas sur les plateformes officielles. Ces mods sont généralement partagés sur des sites de jeux comme **Newgrounds**, des communautés de modding comme **playfiddlebops.com**, ou présentés sur YouTube avec des liens pour y jouer dans un navigateur web.

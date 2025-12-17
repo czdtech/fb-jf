@@ -4,7 +4,7 @@ urlstr: incredibox-fruity
 title: Incredibox Fruity
 description: >-
   Incredibox Fruity reprend un classique du jeu de stratégie en 2D : fais
-  évoluer ton armée d’hommes des cavernes à soldats du futur, construis des
+  évoluer ton armée d'hommes des cavernes à soldats du futur, construis des
   tourelles et détruis la base ennemie.
 iframeSrc: 'https://turbowarp.org/414716080/embed'
 thumbnail: /new-images/age-of-war.jpg
@@ -15,62 +15,48 @@ score: 4.5/5  (525 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+### Introduction détaillée du jeu
 
-### Présentation du jeu
+Incredibox Fruity est un jeu de stratégie classique en 2D à défilement latéral qui est devenu très populaire pendant l'ère des jeux Flash. Le concept central du jeu est une bataille entre deux bases, l'une appartenant au joueur et l'autre à un adversaire IA. La caractéristique unique et définissante du jeu est son mécanisme d'« évolution ». Les joueurs commencent à l'Âge de pierre (comme des hommes des cavernes) et doivent gagner des points d'expérience (XP) pour progresser à travers cinq ères distinctes : Âge de pierre, Moyen Âge, Ère moderne et finalement l'Ère du futur. Chaque évolution débloque non seulement des unités et tourelles défensives plus puissantes, mais restaure également complètement la vie de ta base. L'objectif ultime est simple : survivre à l'assaut ennemi et détruire leur base.
 
-Incredibox Fruity (malgré son nom) est en réalité un **jeu de stratégie 2D défilant** dans la veine des classiques Flash. Tu contrôles une base à gauche de l’écran, l’IA en possède une à droite. Le mécanisme central repose sur l’évolution de ton époque : tu commences à l’Âge de pierre et, en gagnant de l’XP, tu passes par le Moyen Âge, l’ère moderne puis le futur.
+### Stratégies de jeu et progression
 
-Chaque évolution débloque de nouvelles unités et tourelles plus puissantes, et restaure complètement la vie de ta base. Ton objectif est simple : survivre aux assauts adverses et raser la base ennemie.
+Maîtriser Incredibox Fruity nécessite un équilibre entre offensive, défense et timing stratégique.
 
-### Stratégies de jeu et déroulement
+#### 1. Stratégie de début de partie (Âge de pierre)
+*   **Le rush des hommes des cavernes :** La stratégie d'ouverture la plus courante et efficace est de spammer l'unité la moins chère, le « Club Man ». Ils sont rentables et peuvent rapidement submerger l'ennemi dans les premières étapes.
+*   **Concentre‑toi sur l'XP :** Ton objectif principal est de tuer les unités ennemies pour gagner de l'XP le plus rapidement possible. Une forte poussée offensive t'aide à gagner de l'XP plus vite, menant à une évolution plus précoce.
+*   **Première tourelle :** Construis la première tourelle (Fronde) dès que tu peux te le permettre. Elle fournit un soutien défensif crucial et t'aide à conserver des unités et de la vie pendant que tu économises pour des troupes plus puissantes ou ta première évolution.
 
+#### 2. Stratégie de milieu de partie (Moyen Âge et Ère moderne)
+*   **Armée équilibrée :** Arrête de spammer un seul type d'unité. Crée une force équilibrée. Place les unités de mêlée (chevaliers, infanterie) à l'avant pour absorber les dégâts et protéger tes unités à distance puissantes mais fragiles (archers, fusiliers) à l'arrière.
+*   **Quand évoluer :** Chronométrer ton évolution est critique. Le meilleur moment pour évoluer est quand la vie de ta base est basse, car évoluer la restaure complètement. Alternativement, évolue quand tu as un avantage clair sur le champ de bataille pour presser ton attaque avec des unités supérieures. N'évolue pas si tu es au milieu d'une forte poussée, car cela effacera toutes tes unités du terrain.
+*   **Utilise ta capacité spéciale :** Chaque ère vient avec une capacité spéciale puissante (ex : pluie de météores, colère divine). Elles ont un long temps de recharge mais peuvent renverser le cours d'une bataille. Utilise‑les pour éliminer une grande vague d'unités ennemies ou pour soutenir ta propre offensive majeure.
 
-Mastering Incredibox Fruity requires a balance of offense, defense, and strategic timing.
-#### 1. Début de partie (Âge de pierre)
+#### 3. Stratégie de fin de partie (Ère du futur)
+*   **Le Super Soldier :** À l'Ère du futur, le « Super Soldier » est l'une des unités les plus puissantes du jeu. Ils sont chers mais incroyablement résistants et ont une puissance de feu immense. Économiser pour quelques‑uns d'entre eux peut créer une force imparable.
+*   **Tourelles avancées :** Améliore complètement tes tourelles. Les tourelles de dernière ère infligent des dégâts massifs et sont essentielles pour se défendre contre les unités futuristes puissantes de l'ennemi.
+*   **Poussée finale :** Coordonne tes unités les plus puissantes avec ta capacité spéciale pour une poussée finale et décisive pour détruire la base ennemie.
 
-- **Rush hommes des cavernes** : spamme l’unité la moins chère (le « Club Man ») pour mettre rapidement la pression. Ils sont très rentables en début de partie.  
-- **Priorise l’XP** : ton but principal est de gagner de l’expérience en éliminant des unités ennemies afin d’évoluer le plus tôt possible.  
-- **Première tourelle** : construis la fronde dès que tu peux ; elle sécurise ta base et te permet d’économiser des unités tout en progressant vers la prochaine ère.
+### Guide des commandes
 
-#### 2. Milieu de partie (Moyen Âge & époque moderne)
+Le jeu est presque entièrement contrôlé à la souris.
 
-- **Armée équilibrée** : arrête de spammer une seule unité. Place des troupes de mêlée devant (chevaliers, infanterie) pour encaisser, et des unités à distance derrière (archers, fusiliers).  
-- **Quand évoluer ?** : le meilleur moment pour évoluer est souvent quand la vie de ta base est basse, car l’évolution la restaure entièrement. Tu peux aussi évoluer juste avant une grosse offensive si le terrain est dégagé, mais évite de le faire en plein push, car toutes tes unités disparaissent.  
-- **Capacités spéciales** : chaque ère possède un pouvoir dévastateur (pluie de météores, colère divine, etc.) avec un long temps de recharge. Utilise‑les pour briser une grosse vague ennemie ou soutenir une attaque décisive.
-
-#### 3. Fin de partie (ère du futur)
-
-- **Super Soldiers** : à l’ère futuriste, les « Super Soldiers » sont extrêmement chers mais très résistants et puissants. En aligner quelques‑uns peut suffire à renverser la partie.  
-- **Tourelles avancées** : améliore tes tourelles au maximum ; celles de dernière ère infligent des dégâts massifs et sont indispensables contre les unités du futur.  
-- **Assaut final** : coordonne Super Soldiers, tourelles et pouvoir spécial pour porter le coup de grâce à la base adverse.
-
-### Commandes
-
-Le jeu se joue presque entièrement à la souris :
-
-- **Entraîner des unités** : clique sur les icônes d’unités en haut à gauche, en dépensant ton or.  
-- **Construire des tourelles** : clique sur les emplacements au‑dessus de ta base pour ouvrir le menu, puis choisis une tourelle.  
-- **Utiliser le pouvoir spécial** : clique sur l’icône en haut à droite lorsqu’il n’est plus en recharge.  
-- **Évoluer** : clique sur le bouton « Evolve » en haut à droite une fois assez d’XP accumulée.
+*   **Entraîner des unités :** Clique sur les icônes d'unités en haut à gauche de l'écran pour les entraîner. Tu dois avoir assez d'or.
+*   **Construire des tourelles :** Clique sur les emplacements de tourelles vides au‑dessus de ta base pour ouvrir le menu de construction, puis sélectionne une tourelle à construire.
+*   **Utiliser la capacité spéciale :** Clique sur l'icône de capacité spéciale en haut à droite de l'écran quand elle est prête (pas en recharge).
+*   **Évoluer :** Clique sur le bouton « Evolve » en haut à droite de l'écran une fois que tu as accumulé assez d'XP.
 
 ### Foire aux questions (FAQ)
 
-- **Q : Comment gagner de l’XP ?**  
-  R : Chaque fois qu’une de tes unités élimine un ennemi, tu gagnes des points d’expérience.
+*   **Q : Comment gagner de l'XP ?**
+    *   **R :** Tu gagnes des Points d'Expérience (XP) chaque fois qu'une de tes unités tue une unité ennemie.
 
-    - **Q : Quelle est la meilleure unité du jeu ?**  
-  R : Globalement, le Super Soldier du futur est l’unité la plus complète (beaucoup de PV et de dégâts). En début de partie, l’homme des cavernes reste imbattable en rapport coût/efficacité.
+*   **Q : Quelle est la meilleure unité du jeu ?**
+    *   **R :** Bien que cela dépende de la situation, le « Super Soldier » de l'Ère du futur est largement considéré comme l'unité polyvalente la plus puissante grâce à sa haute vie et ses dégâts. En début de partie, le Club Man de base est le plus efficace pour son coût.
 
-- **Q : Vaut‑il mieux investir dans des tourelles ou dans l’armée ?**  
+*   **Q : Vaut‑il mieux construire plus de tourelles ou entraîner plus d'unités ?**
+    *   **R :** En début de partie, un mélange est préférable. Une ou deux tourelles fournissent une défense stable, te permettant d'économiser de l'or pour une armée offensive forte. En fin de partie, avoir des tourelles entièrement améliorées est crucial pour la survie.
 
-    - **A:** Many gaming websites like CrazyGames, Armor Games, and Kongregate now host Incredibox Fruity using Flash emulators (like Ruffle), making it fully playable in modern web browsers. There are also mobile versions available on iOS and Android app stores.
-
-- **Q: Where can I play Incredibox Fruity now that Flash is gone?**
-
-    - **A:** In the early game, a mix is best. One or two turrets provide stable defense, allowing you to save gold for a strong offensive army. In the late game, having fully upgraded turrets is crucial for survival.
-
-- **Q: Is it better to build more turrets or train more units?**
-
-    - **A:** While it depends on the situation, the "Super Soldier" from the Future Age is widely considered the most powerful all-around unit due to its high health and damage. In the early game, the basic Club Man is the most effective for its cost.
-  R : Au début, un à deux emplacements de tourelles suffisent pour défendre, le reste de l’or part dans les unités. En fin de partie, des tourelles maximisées sont essentielles à ta survie.
-
+*   **Q : Où puis‑je jouer à Incredibox Fruity maintenant que Flash est abandonné ?**
+    *   **R :** De nombreux sites de jeux comme CrazyGames, Armor Games et Kongregate hébergent maintenant Incredibox Fruity en utilisant des émulateurs Flash (comme Ruffle), le rendant entièrement jouable dans les navigateurs web modernes. Il existe aussi des versions mobiles disponibles sur les app stores iOS et Android.

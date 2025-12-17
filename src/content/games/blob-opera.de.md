@@ -32,7 +32,7 @@ Mini‑Chor bis zur komplett albernen Blob‑Kakofonie.
 
 ### Kreativ‑Tipps & Strategien
 
-Ohne Score dreht sich alles darum, interessante Klangfarben zu basteln. Diese Hinweise bieten eine gute Ausgangsbasis :
+Ohne Score dreht sich alles darum, interessante Klangfarben zu basteln. Diese Hinweise bieten eine gute Ausgangsbasis:
 
 -   **Mit einer Melodie beginnen:** Nimm dir einen Blob als „Leader“ und ziehe ihn langsam auf und ab, um eine einfache Melodie zu skizzieren.
 -   **Harmonie hinzufügen:** Sobald du loslässt, stimmen die anderen mit ein und passen sich automatisch an – du kannst jederzeit den führenden Blob wechseln.

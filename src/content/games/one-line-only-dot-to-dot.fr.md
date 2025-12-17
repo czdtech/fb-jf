@@ -18,34 +18,27 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### Présentation détaillée
 
-One Line Only: Dot to Dot est un jeu de réflexion minimaliste basé sur le tracé d’un seul trait. Sur chaque grille, des points sont reliés par des segments possibles ; ton objectif est de dessiner un chemin qui passe une fois et une seule sur chaque segment sans lever le doigt ou la souris. Plus les niveaux avancent, plus les formes deviennent complexes.
+One Line Only: Dot to Dot est un jeu de réflexion minimaliste basé sur le tracé d'un seul trait. Sur chaque grille, des points sont reliés par des segments possibles ; ton objectif est de dessiner un chemin qui passe une fois et une seule sur chaque segment sans lever le doigt ou la souris. Plus les niveaux avancent, plus les formes deviennent complexes.
 
 ### Stratégies de jeu et progression
 
-1.  **Observer avant de tracer :** prends quelques secondes pour repérer les nœuds clés (points avec beaucoup de segments) avant de dessiner.  
-2.  **Commencer par les extrémités :** les points avec un nombre de connexions impair sont souvent de bons candidats de départ ou d’arrivée.  
-3.  **Éviter les impasses :** ne ferme pas trop tôt des boucles qui te laisseraient des segments isolés.  
-4.  **Utiliser l’essai‑erreur :** n’hésite pas à réinitialiser un tracé ; chaque tentative t’apprend un peu plus sur la structure du niveau.
+1.  **Observer avant de tracer :** prends quelques secondes pour repérer les nœuds clés (points avec beaucoup de segments) avant de dessiner.
+2.  **Commencer par les extrémités :** les points avec un nombre de connexions impair sont souvent de bons candidats de départ ou d'arrivée.
+3.  **Éviter les impasses :** ne ferme pas trop tôt des boucles qui te laisseraient des segments isolés.
+4.  **Utiliser l'essai‑erreur :** n'hésite pas à réinitialiser un tracé ; chaque tentative t'apprend un peu plus sur la structure du niveau.
+5.  **Exploiter la symétrie :** sur les puzzles symétriques, reproduis la route d'une moitié sur l'autre pour gagner du temps.
 
-
-- Symmetry: Use symmetrical halves to mirror partial routes.
 ### Commandes
 
-- Clique ou touche un point pour commencer le trait, puis fais glisser pour suivre les segments jusqu’à relier tous les points. Relâche pour terminer ; un bouton permet de recommencer si nécessaire.
+- Clique ou touche un point pour commencer le trait, puis fais glisser pour suivre les segments jusqu'à relier tous les points. Relâche pour terminer ; un bouton permet de recommencer si nécessaire.
 
 ### Foire aux questions (FAQ)
 
-- **Q : Dois‑je passer sur tous les points ou tous les segments ?**  
-  **R :** Selon la version, l’objectif peut être de couvrir tous les segments ou seulement de visiter tous les points ; vérifie l’indication au début du niveau.
+- **Q : Dois‑je passer sur tous les points ou tous les segments ?**
+  **R :** Selon la version, l'objectif peut être de couvrir tous les segments ou seulement de visiter tous les points ; vérifie l'indication au début du niveau.
 
-- **Q : Y a‑t‑il un système d’indices ?**  
-  **R :** Oui, certains modes proposent des indices limités pour révéler une partie du chemin.
+- **Q : Y a‑t‑il un système d'indices ?**
+  **R :** Oui, certains modes proposent des indices limités pour révéler une partie du chemin ou mettre en surbrillance les segments obligatoires.
 
-
-
-A: Many builds provide hints or highlight bridges.
-
-- Q: Any hint system?
-
-
-A: Many builds provide hints or highlight bridges.
+- **Q : Je termine à un segment du but, pourquoi ?**
+  **R :** Tu as probablement commencé au mauvais point ; essaie un autre nœud à degré impair comme point de départ.

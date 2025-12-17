@@ -17,83 +17,30 @@ score: 4.3/5  (2250 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### Présentation détaillée du jeu
 
+Cards of the Undead est un jeu de puzzle roguelike au tour par tour situé dans une apocalypse zombie. Le monde est représenté par une grille de cartes face cachée, et tu contrôles un héros qui peut se déplacer d'une case à la fois. Chaque mouvement révèle une nouvelle carte, qui peut être un zombie à combattre, des pièces précieuses ou des objets utiles comme des potions de vie et des armures. L'objectif est de naviguer stratégiquement sur le plateau, gérer ta santé, vaincre tous les zombies et survivre aussi longtemps que possible.
 
-### Présentation du jeu
+### Stratégies de jeu et progression
 
-Cards of the Undead est un roguelike de survie présenté sous forme de grille de
-cartes. Chaque case face cachée peut dissimuler un zombie, une potion de soin,
-de l’armure, des pièces d’or ou d’autres surprises. Tu contrôles un héros qui
-se déplace de case en case, révèle les cartes et doit survivre assez longtemps
-pour nettoyer le plateau.
-
-Chaque fois que tu te déplaces sur une carte ennemie, un combat automatique se
-lance : tu perds de la vie (et éventuellement de l’armure), mais tu gagnes de
-l’expérience et des pièces si tu t’en sors vivant. Les potions restaurent ta
-santé, les équipements améliorent tes statistiques, et les pièces servent à
-acheter des améliorations entre les parties ou à débloquer de nouveaux héros.
-
-### Guide de jeu
-
-1.  **Vérifie toujours tes points de vie avant d’attaquer**  
-    Compare tes statistiques (PV, armure, dégâts) avec celles du zombie avant
-    de te jeter sur une carte ennemie. Si le combat risque de te tuer, cherche
-    d’abord une potion ou un meilleur équipement.
-2.  **Planifie ton chemin sur la grille**  
-    Évite de te déplacer au hasard. Essaie d’ouvrir un chemin qui te permet de
-    récupérer des soins ou des bonus avant de te confronter aux ennemis les
-    plus dangereux. Laisser quelques cases inconnues pour la fin peut parfois
-    être risqué.
-3.  **Exploite les forces de ton héros**  
-    Selon le personnage choisi, tu auras peut‑être plus d’attaque, plus de
-    défense ou des compétences spéciales. Joue en fonction de ces atouts : un
-    héros fragile mais puissant doit éviter les combats inutiles, tandis qu’un
-    tank peut encaisser plus de risques.
-4.  **Montez de niveau intelligemment**  
-    L’expérience obtenue en éliminant des zombies te permet de monter de
-    niveau. Choisis les améliorations qui sécurisent ta survie (PV max, défense
-    supplémentaire) avant les bonus plus offensifs si tu as tendance à mourir
-    trop tôt.
-5.  **Sache quand battre en retraite**  
-    Parfois, la meilleure décision est de contourner un groupe d’ennemis trop
-    fort et de revenir plus tard avec de meilleures stats, plutôt que de tout
-    affronter de front.
+1.  **Vérifie avant de bouger :** avant de te déplacer sur une carte zombie, compare toujours les stats de ton héros (santé et armure) avec celles du zombie. Assure-toi de pouvoir survivre à la rencontre. Il vaut souvent mieux trouver une potion ou une armure d'abord avant d'affronter un ennemi puissant.
+2.  **Planifie ton chemin :** ne te déplace pas au hasard. Essaie de planifier un chemin qui te permet de ramasser des objets utiles avant d'être forcé de combattre un zombie puissant. Dégager un chemin vers une potion de vie peut te sauver la vie.
+3.  **Connais ton héros :** différents héros ont différentes compétences. Utilise les capacités uniques de ton héros à ton avantage. Certains peuvent être meilleurs au combat, tandis que d'autres peuvent être meilleurs pour trouver des trésors.
+4.  **Monte de niveau :** vaincre des zombies te donne des points d'expérience (XP). Monter de niveau restaurera ta santé et améliorera tes stats, te rendant plus fort pour les défis à venir.
 
 ### Commandes
 
-Le jeu se joue entièrement à la souris ou au tactile.
+Le jeu se joue avec de simples clics de souris ou touches.
 
-- **Se déplacer** : clique ou touche une carte adjacente (horizontalement,
-  verticalement ou en diagonale) pour y déplacer ton héros et la révéler.  
-- **Valider / continuer** : utilise les boutons à l’écran pour passer les
-  dialogues, ouvrir les menus d’améliorations ou lancer une nouvelle partie.
+*   **Se déplacer :** clique sur n'importe quelle carte adjacente (horizontale, verticale ou diagonale) pour déplacer ton héros vers cet espace. Cela révélera la carte.
 
 ### Foire aux questions (FAQ)
 
+*   **Q : Comment fonctionne le combat ?**
+    *   **R :** Le combat est automatique. Quand tu te déplaces sur une carte zombie, tu le combats. Tu subiras des dégâts, mais si tu survis, le zombie est retiré du plateau.
 
-- **A:** If your hero's HP drops to zero, your run is over, and you must start again.
+*   **Q : Quel est l'objectif d'un niveau ?**
+    *   **R :** L'objectif principal est de vaincre toutes les cartes zombie du plateau. Collecter toutes les pièces est un objectif secondaire qui t'aide à débloquer de nouveaux héros pour les futures parties.
 
-    - **Q: What happens if I run out of health?**
-
-- **A:** The main goal is to defeat all the zombie cards on the board. Collecting all the coins is a secondary objective that helps you unlock new heroes for future runs.
-
-    - **Q: What is the goal of a level?**
-
-- **A:** Combat is automatic. When you move onto a zombie card, you will fight it. You will take damage, but if you survive, the zombie is removed from the board.
-
-    - **Q: How does combat work?**
-**Q : Comment fonctionne exactement le combat ?**  
-R : Le combat se résout automatiquement quand tu entres sur une carte zombie.
-Tu subis des dégâts en fonction des stats de l’ennemi et de ton armure. Si tes
-PV tombent à zéro, la partie est terminée. Si tu survis, le zombie disparaît et
-tu peux continuer.
-
-**Q : Quel est l’objectif d’un niveau ?**  
-R : L’objectif principal est de survivre et de nettoyer la grille de ses
-zombies. En parallèle, tu peux ramasser un maximum de pièces pour débloquer de
-nouveaux héros ou améliorations pour ta prochaine run.
-
-**Q : Que se passe‑t‑il quand je meurs ?**  
-R : La partie actuelle se termine, mais tu conserveras souvent une partie de
-l’expérience ou des pièces accumulées pour améliorer ton prochain essai. C’est
-un roguelike : chaque run te rend un peu plus fort pour la suivante.
+*   **Q : Que se passe-t-il si je n'ai plus de santé ?**
+    *   **R :** Si les PV de ton héros tombent à zéro, ta partie est terminée et tu dois recommencer.

@@ -40,27 +40,17 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ### 조작 방법
 
 
-The controls are simple and direct.
+조작은 간단하고 직관적입니다.
 - **조준:** 마우스를 움직여 대포의 방향과 각도를 조절합니다.
 - **발사:** 마우스 왼쪽 버튼을 클릭해 포탄을 발사합니다.
 
 ### 자주 묻는 질문(FAQ)
 
-- **Q: 레벨을 클리어했는지 어떻게 알 수 있나요?**  
-  **A:** 대부분의 스테이지에는 목표 높이가 표시되어 있으며, 구조물의 남은 부분이 그
-  선 아래로 완전히 내려가면 자동으로 클리어됩니다.
+*   **Q: 레벨을 클리어했는지 어떻게 알 수 있나요?**
+    *   **A:** 대부분의 스테이지에는 목표 높이가 표시되어 있으며, 남은 구조물의 최고점이 그 선 아래로 완전히 내려가면 자동으로 클리어됩니다.
 
-    - **Q: 탄환이 다 떨어졌는데도 구조물이 너무 높아요.**  
-  **A:** 그 경우에는 레벨을 재시작하고 다른 약점을 노리는 전략을 시도해야 합니다.
-  첫 몇 발의 위치를 바꾸는 것만으로도 결과가 크게 달라질 수 있습니다.
+*   **Q: 탄환이 다 떨어졌는데도 구조물이 너무 높아요.**
+    *   **A:** 목표를 달성하기 전에 포탄을 모두 소진했다면 레벨을 재시작하고 다른 약점을 노리는 전략을 시도해야 합니다.
 
-- **Q: 빠르게 쏘는 게 좋나요, 천천히 조준하는 게 좋나요?**  
-
-    - **A:** Aiming carefully is always better. Since ammunition is limited, a single well-placed shot that causes a major collapse is far more valuable than several random, ineffective shots.
-
-- **Q: Is it better to shoot fast or aim carefully?**
-
-    - **A:** If you run out of ammunition before meeting the level's objective, you have to restart the level and try a different strategy.
-  **A:** 제한 탄환 구조에서는 조준을 신중히 해서 한 발 한 발의 효율을 최대화하는 것이
-  훨씬 중요합니다. 잘 맞춘 한 발이 엉성한 여러 발보다 훨씬 큰 붕괴를 일으킬 수
-  있습니다.
+*   **Q: 빠르게 쏘는 게 좋나요, 천천히 조준하는 게 좋나요?**
+    *   **A:** 탄약이 제한되어 있으므로 신중하게 조준하는 편이 더 좋습니다. 큰 붕괴를 일으키는 정확한 한 발이 무작위로 엉성하게 여러 발을 쏘는 것보다 훨씬 가치가 큽니다.

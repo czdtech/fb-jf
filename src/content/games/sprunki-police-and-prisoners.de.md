@@ -31,8 +31,8 @@ Sprunki Police and Prisoners ist ein Mod für die Incredibox-/Sprunki-Reihe, der
 - **Musikalische Reise:** Du baust nicht nur Tunes, sondern eine kleine, farbenfrohe Klangwelt, in der jeder Schlag und jede Figur eine Rolle im Gesamtbild spielt.
 
 
-### Conclusion:
+### Fazit
+
 Sprunki Police and Prisoners eignet sich für alle, die das Sprunki-Prinzip mögen, aber Lust auf einen anderen, künstlerischeren Stil haben – irgendwo zwischen Musikbaukasten, abstrakter Kunst und Mini-Hörspiel.
 
-
-Immerse yourself into the whimsical journey, Sprunki Police and Prisoners infuses music creation with a vibrant cast of visually enchanting characters and rich, immersive soundscapes. Join this carnival of music and color, and let your creativity flow freely!
+Tauche ein in diese skurrile Reise – Sprunki Police and Prisoners verbindet Musikkreation mit einer lebhaften Besetzung visuell bezaubernder Charaktere und reichhaltigen, immersiven Klanglandschaften. Lass deiner Kreativität freien Lauf!

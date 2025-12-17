@@ -16,72 +16,54 @@ releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 
-### Présentation du jeu
+### **Présentation du jeu Incredibox Hijinks**
 
-*Incredibox Hijinks* est un mod fan‑made énergique pour Incredibox, créé par le moddeur Bongo Cat. Son nom résume bien l’ambiance : **farces, chaos et délire cartoon**. Les personnages sont des petites figures expressives prêtes à semer le désordre musical.
+*Incredibox Hijinks* est un mod fan‑made populaire et énergique pour le jeu de création musicale Incredibox, créé par le moddeur Bongo Cat. Le nom « Hijinks » capture parfaitement le thème du mod : **des farces espiègles, chaotiques et des pitreries de cartoon**. Les personnages sont stylisés comme des figures simples et expressives prêtes à semer le trouble musical.
 
-Tu retrouves le drag‑and‑drop classique : 20 icônes sonores à assigner à ton équipe de sept interprètes. La banque de sons mélange **beats électroniques, effets sonores loufoques et voix amusantes**, pour des morceaux qui rappellent une BO de dessin animé moderne.
+Le jeu utilise le gameplay classique de glisser‑déposer d'Incredibox. Les joueurs disposent d'une palette de 20 icônes sonores uniques à assigner à leur équipe de sept interprètes. La bibliothèque sonore est une collection amusante et entraînante de **beats électroniques, effets sonores loufoques et voix joueuses**, conçue pour créer une piste légère et énergique rappelant une bande‑son de dessin animé moderne.
 
-Ton but est de t’amuser, de créer des tracks à la fois chaotiques et accrocheuses, et de trouver les trois bonus animés secrets, remplis de gags cartoon.
+L'objectif est de permettre aux joueurs de s'amuser et de créer des morceaux chaotiques mais accrocheurs, tout en résolvant le puzzle de trouver les trois bonus animés secrets, certainement thématisés autour de farces cartoonesques et de fun.
 
-### Stratégies de jeu et conseils
+### **Stratégies de jeu et conseils**
 
-1.  **Comprends la palette sonore déjantée**  
-    - **Beats** : boîtes à rythmes rebondissantes, percussions ludiques et lignes de basse simples qui donnent envie de bouger.  
-    - **Effets** : cœur de l’esprit « hijinks » : bruitages cartoon (boings, zips), petits synthés bizarres et sons comiques.  
-    - **Mélodies** : hooks simples et mémorables, souvent façon chiptune ou petits claviers.  
-    - **Voix** : exclamations, onomatopées, voix découpées et vocalises qui renforcent le côté cartoon.
+La stratégie dans *Incredibox Hijinks* consiste à embrasser le fun et superposer les sons énergiques pour créer un groove rebondissant et contagieux.
 
-2.  **Commence par un beat sautillant**  
-    Pose d’abord un rythme énergique en combinant une boîte à rythmes et une basse. C’est la base de ton morceau.
+1.  **Comprends la palette sonore déjantée** :
+    *   **Beats** : Les rythmes sont le moteur du fun. Attends‑toi à des **patterns de batterie électronique** rebondissants, des percussions ludiques et des lignes de basse simples et efficaces qui donnent envie de bouger.
+    *   **Effets** : Cette catégorie est le cœur des « hijinks ». Elle inclut probablement des **effets sonores cartoon** classiques (boings, zips), des textures de synthé simples et d'autres bruits loufoques qui ajoutent une couche de bêtise.
+    *   **Mélodies** : Les mélodies sont conçues pour être simples et accrocheuses. Cherche des **leads synthé style chiptune** entraînants, des boucles de clavier simples et d'autres hooks fun et mémorables.
+    *   **Voix** : Les voix sont joueuses et souvent absurdes. Cette catégorie présente des **chops vocaux traités**, des exclamations amusantes et des vocalisations mélodiques simples qui ajoutent au caractère cartoonesque du mix.
 
-3.  **Empile la folie par‑dessus**  
-    Ajoute ensuite effets et mélodies ; ne crains pas un peu de chaos, c’est l’ADN du mod. Cherche juste à garder un minimum de groove.
+2.  **Commence par un beat rebondissant** : La meilleure façon de commencer est d'établir un rythme énergique. Combine un pattern de batterie solide avec une ligne de basse simple de la catégorie « Beats » pour lancer la piste.
 
-    - **Cherche les bonus méthodiquement**  
+3.  **Superpose le fun** : Une fois le beat établi, commence à ajouter les « Effets » et « Mélodies ». N'aie pas peur que le mix sonne un peu chaotique ou bête — c'est le but du mod !
 
-    - **Systematic Bonus Hunting**: To find the three secret bonuses, be methodical. Establish a core groove that you like, and then systematically swap out the other icons one by one until you trigger one of the mischievous animations.
+4.  **Chasse aux bonus systématique** : Pour trouver les trois bonus secrets, sois méthodique. Établis un groove de base que tu aimes, puis change systématiquement les autres icônes une par une jusqu'à déclencher une des animations espiègles.
 
-    - **Layer on the Fun**: Once the beat is set, start adding the "Effects" and "Melodies." Don't be afraid to make the mix sound a little chaotic or silly—that's the point of the mod!
+### **Guide des commandes**
 
-    - **Start with a Bouncy Beat**: The best way to begin is by establishing an energetic rhythm. Combine a solid drum pattern with a simple bassline from the "Beats" category to get the track started.
+Les commandes suivent l'interface intuitive de glisser‑déposer standard des jeux Incredibox officiels.
 
-- **Voices**: Vocals are playful and often nonsensical. This category features **processed vocal chops**, fun exclamations, and simple, melodic vocalizations that add to the cartoonish character of the mix.
+*   **Ajouter un son** : **Fais glisser** une icône sonore depuis le bas et **dépose‑la** sur un des personnages.
+*   **Retirer un son** : Clique sur le « X » d'une icône sonore active en bas, ou fais glisser un nouveau son sur un personnage existant pour le remplacer.
+*   **Mute / Unmute** : **Clique** sur un personnage qui joue pour le couper ; clique à nouveau pour le réactiver.
+*   **Solo** : Clique sur le **petit bouton** à côté d'un personnage actif pour couper tous les autres interprètes.
+*   **Enregistrer** : Clique sur le **bouton d'enregistrement** pour démarrer et arrêter l'enregistrement de ta création fun.
 
-- **Melodies**: The melodies are designed to be simple and catchy. Look for upbeat **chiptune-style synth leads**, simple keyboard loops, and other fun, memorable hooks.
+### **Foire aux questions (FAQ)**
 
-- **Effects**: This category is the heart of the "hijinks." It likely includes classic **cartoon sound effects** (boings, zips), simple synth textures, and other quirky noises that add a layer of silliness.
-    Une fois que tu as un groove que tu aimes, garde‑le et fais tourner les autres icônes une par une jusqu’à déclencher les trois animations cachées.
+**1. Est‑ce une version officielle d'Incredibox ?**
 
-### Commandes
+Non. C'est un **mod fan‑made** créé par Bongo Cat. Il n'est pas affilié à l'équipe officielle d'Incredibox, So Far So Good.
 
+**2. Où puis‑je jouer à ce mod ?**
 
-The controls follow the standard, intuitive drag-and-drop interface of the official Incredibox games.
-- **Ajouter un son** : fais glisser une icône depuis le bas sur un personnage.  
-- **Retirer / remplacer** : clique sur le « X » d’une icône active ou pose un nouveau son sur le même personnage.  
-- **Mute / Solo** : clique pour couper un chanteur, utilise le bouton de solo pour n’écouter que lui.  
-- **Enregistrer** : lance l’enregistrement pour garder ta composition cartoon.
+Tu ne le trouveras pas sur les plateformes officielles. Les mods comme *Hijinks* sont généralement hébergés sur des sites de modding comme **playfiddlebops.com** ou présentés sur YouTube, souvent avec un lien fourni pour jouer au mod directement dans un navigateur web.
 
+**3. Qu'est‑ce qui rend ce mod spécial ?**
 
-- **Record**: Click the **record button** to start and stop recording your fun-loving creation.
-### Foire aux questions (FAQ)
+Son charme vient de son fun pur et sans prétention. Le thème cartoon léger et la musique énergique et entraînante offrent une expérience simple et joyeuse qui vise uniquement à faire sourire.
 
-- **Q : C’est une version officielle d’Incredibox ?**  
-  R : Non, c’est un mod créé par un fan, sans lien officiel avec l’équipe de So Far So Good.
+**4. Les solutions des bonus pour « Hijinks » sont‑elles disponibles en ligne ?**
 
-- **Q : Où jouer à Hijinks ?**  
-  R : Sur des sites de mods comme playfiddlebops.com ou via des projets partagés sur le Web ; les vidéos YouTube listent souvent un lien de jeu dans la description.
-
-
-
-Yes. If you're having trouble finding the combinations for the animations, a quick search for "*Incredibox Hijinks combos*" on YouTube will show you the solutions.
-
-**4. Are the bonus solutions for "Hijinks" available online?**
-
-Its charm comes from its pure, unadulterated fun. The lighthearted cartoon theme and energetic, upbeat music provide a simple and joyful experience that is all about creating a smile.
-
-**3. What makes this mod special?**
-
-You will not find it on official platforms. Mods like *Hijinks* are typically hosted on game modding websites like **playfiddlebops.com** or showcased on YouTube, often with a link provided to play the mod directly in a web browser.
-
-**2. Where can I play this mod?**
+Oui. Si tu as du mal à trouver les combinaisons pour les animations, une recherche rapide de « *Incredibox Hijinks combos* » sur YouTube te montrera les solutions.

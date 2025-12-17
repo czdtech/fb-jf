@@ -39,23 +39,11 @@ Sudoku Plus bietet eine moderne Umsetzung des klassischen Logikrätsels. Ziel is
 
 ### Häufige Fragen (FAQ)
 
+*   **F: Muss ich gut in Mathe sein?**
+    *   **A:** Nein. Sudoku basiert auf Logik und Mustererkennung, nicht auf Rechnen.
 
-- **A:** Yes, most modern Sudoku games, including this one, have an error-checking feature that will highlight any duplicate numbers in a row, column, or box, allowing you to correct your mistake.
+*   **F: Wozu dient der Notizenmodus?**
+    *   **A:** Damit kannst du alle möglichen Zahlen in einem Feld vormerken, ohne dich sofort endgültig festzulegen – essenziell für schwerere Rätsel.
 
-    - **Q: Will the game tell me if I make a mistake?**
-
-- **A:** It allows you to pencil in small numbers as potential candidates for a cell, which is a key strategy for solving harder puzzles without having to rely on memory alone.
-
-    - **Q: What does the "Notes" feature do?**
-
-- **A:** No. Sudoku is a game of logic and pattern recognition, not arithmetic.
-
-    - **Q: Do I need to be good at math?**
-**Muss ich gut in Mathe sein?**  
-Nein. Sudoku basiert auf Logik und Mustererkennung, nicht auf Rechnen.
-
-**Wozu dient der Notizenmodus?**  
-Damit kannst du alle möglichen Zahlen in einem Feld vormerken, ohne dich sofort endgültig festzulegen – essenziell für schwerere Rätsel.
-
-**Zeigt das Spiel Fehler an?**  
-In vielen Modi markiert das Spiel doppelte Zahlen in Zeilen, Spalten oder Blöcken. So kannst du Tippfehler schneller finden und korrigieren.
+*   **F: Zeigt das Spiel Fehler an?**
+    *   **A:** In vielen Modi markiert das Spiel doppelte Zahlen in Zeilen, Spalten oder Blöcken. So kannst du Tippfehler schneller finden und korrigieren.

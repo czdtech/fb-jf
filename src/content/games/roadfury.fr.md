@@ -2,7 +2,7 @@
 locale: fr
 urlstr: roadfury
 title: Road Fury
-description: "Un shoot’em up vertical survitaminé sur l’autoroute\_! Contrôle une voiture blindée, détruis les véhicules ennemis et collecte des pièces pour améliorer tes armes et ton armure afin de survivre à la fureur de la route."
+description: "Un shoot'em up vertical survitaminé sur l'autoroute\_! Contrôle une voiture blindée, détruis les véhicules ennemis et collecte des pièces pour améliorer tes armes et ton armure afin de survivre à la fureur de la route."
 iframeSrc: 'https://roadfury.h5games.usercontent.goog/v/6u0uos6j6vvl0/'
 thumbnail: /new-images/roadfury.png
 tags:
@@ -13,61 +13,31 @@ score: 4.3/5  (2450 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+### Présentation détaillée
 
+Road Fury est un shooter vertical en vue de dessus à haute intensité qui te met au volant d'un véhicule lourdement armé sur une autoroute chaotique. Ta mission est de survivre le plus longtemps possible contre des vagues de voitures, camions et boss ennemis. Faufile‑toi entre le trafic, collecte des boosters puissants et utilise les pièces gagnées en détruisant tes ennemis pour améliorer les armes et l'armure de ta voiture et déchaîner la fureur maximale.
 
+### Stratégies de jeu et progression
 
-### Présentation du jeu
-
-Road Fury est un shooter vertical en vue de dessus qui te met au volant
-d’un véhicule lourdement armé sur une autoroute en plein chaos. Ta mission
-est de survivre le plus longtemps possible face à des vagues de voitures,
-camions et boss ennemis. Faufile‑toi entre les véhicules, ramasse des
-bonus puissants et utilise les pièces gagnées en détruisant tes adversaires
-pour améliorer ton arsenal et ta protection.
-
-### Stratégies de jeu
-
-1.  **Bouger en permanence :** ne reste jamais immobile. Zigzague à gauche
-    et à droite pour éviter les tirs ennemis et les collisions ; rester
-    sur place est le meilleur moyen d’exploser vite.
-2.  **Prioriser les power‑ups :** dès que des bonus apparaissent, essaie de
-    les récupérer en priorité. Un bouclier temporaire, un lance‑roquettes
-    puissant ou un aimant à pièces peuvent complètement changer ta partie.
-3.  **Investir dans les améliorations :** les pièces collectées sont
-    essentielles. Entre deux runs, rends‑toi au garage pour améliorer
-    durablement ton véhicule. Augmenter les dégâts de ton arme principale
-    et la résistance de ta carrosserie est un excellent début.
-4.  **Apprendre les comportements ennemis :** certains véhicules vont
-    tenter de te percuter, d’autres tirent à distance. Observe leurs
-    patterns pour anticiper leurs attaques et les esquiver.
+1.  **Mouvement constant :** la clé de la survie est de ne jamais s'arrêter de bouger. Zigzague à gauche et à droite pour esquiver les tirs ennemis et les collisions. Rester sur place est le moyen le plus rapide de se faire détruire.
+2.  **Attraper les power‑ups :** priorise la collecte des power‑ups qui apparaissent sur la route. Un bouclier temporaire, un lance‑roquettes puissant ou un aimant à pièces peuvent changer dramatiquement le cours de ta partie.
+3.  **Se concentrer sur les améliorations :** les pièces que tu collectes sont cruciales. Entre les parties, visite le garage pour améliorer définitivement ton véhicule. Améliorer les dégâts de ton canon principal et l'armure de ta voiture sont d'excellents premiers choix.
+4.  **Apprendre les patterns ennemis :** différents véhicules ennemis ont différents comportements. Certains vont essayer de te percuter, tandis que d'autres tireront à distance. Apprends leurs patterns pour anticiper leurs attaques et les esquiver efficacement.
 
 ### Commandes
 
-Le jeu se joue avec des commandes de glissement simples.
+Le jeu se joue avec de simples commandes de glissement.
 
-*   **Déplacer le véhicule :** maintiens le clic gauche (ou ton doigt) et
-    fais glisser horizontalement pour diriger ta voiture.  
-*   **Tir :** ton arme principale tire automatiquement.
+*   **Déplacer le véhicule :** clique et maintiens le bouton gauche de la souris (ou utilise ton doigt) et fais glisser à gauche et à droite sur l'écran pour diriger ta voiture.
+*   **Tir :** ton arme principale tire automatiquement.
 
 ### Foire aux questions (FAQ)
 
-*   **Q : Comment tirer avec mon arme ?**  
-    R : Tu n’as rien à faire ! Le canon principal tire en continu, ce qui
-    te permet de te concentrer sur la conduite et les esquives.
+*   **Q : Comment tirer avec mon arme ?**
+    *   **R :** Tu n'as rien à faire ! Ton canon principal tire automatiquement, te permettant de te concentrer complètement sur la conduite habile et l'esquive.
 
-    - **Q : Que représentent les icônes flottantes sur la route ?**  
-    R : Ce sont des bonus temporaires. Roule dessus pour obtenir des
-    boucliers, des armes spéciales comme des roquettes, des réparations de
-    vie ou des aimants à pièces.
+*   **Q : Que sont les icônes flottantes sur la route ?**
+    *   **R :** Ce sont des power‑ups temporaires. Roule dessus pour collecter des boucliers, des armes spéciales puissantes comme des roquettes, des réparations de vie et des aimants qui attirent les pièces.
 
-*   **Q : Quelle est la meilleure amélioration ?**  
-
-    - **A:** In the beginning, upgrading your main weapon's damage is a great investment as it helps you destroy enemies faster and earn coins more quickly. After that, increasing your armor to survive more hits is also very important.
-
-- **Q: What is the best upgrade?**
-
-    - **A:** These are temporary power-ups. Drive over them to collect shields, powerful special weapons like rockets, health repairs, and magnets that attract coins.
-    R : Au début, renforcer les dégâts de ton arme principale est
-    généralement le plus rentable, car tu détruis les ennemis plus vite et
-    gagnes plus de pièces. Ensuite, augmente ton armure pour encaisser
-    davantage de coups.
+*   **Q : Quelle est la meilleure amélioration ?**
+    *   **R :** Au début, améliorer les dégâts de ton arme principale est un excellent investissement car cela t'aide à détruire les ennemis plus vite et à gagner des pièces plus rapidement. Après cela, augmenter ton armure pour survivre à plus de coups est aussi très important.

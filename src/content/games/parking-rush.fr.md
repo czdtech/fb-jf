@@ -2,7 +2,7 @@
 locale: fr
 urlstr: parking-rush
 title: Parking Rush
-description: "Parking Rush est un jeu de puzzle de circulation amusant et exigeant\_: dessine un trajet pour chaque voiture jusqu’à sa place de parking de même couleur sans provoquer de collision."
+description: "Parking Rush est un jeu de puzzle de circulation amusant et exigeant\_: dessine un trajet pour chaque voiture jusqu'à sa place de parking de même couleur sans provoquer de collision."
 iframeSrc: 'https://7nq79vktk8fho.h5games.usercontent.goog/v/4u3a6m3hm9lj8/'
 thumbnail: /new-images/parking-rush.png
 tags:
@@ -17,34 +17,28 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### Présentation détaillée
 
-Parking Rush est un jeu de dessin de trajectoires où tu joues le rôle de gardien de parking dans un chaos total. Chaque voiture doit rejoindre sa place de parking de la même couleur. Tu dois tracer des chemins pour tous les véhicules sans qu’ils ne se rentrent dedans. À mesure que les niveaux avancent, le nombre de voitures et d’obstacles augmente, ce qui demande une vraie planification et un bon sens du timing.
+Parking Rush est un jeu de puzzle de dessin de lignes intelligent et addictif qui te met aux commandes d'un parking chaotique. Ton travail est de jouer le rôle d'un gardien de parking et de guider chaque voiture vers sa place de parking désignée, de même couleur. Le défi est de tracer des chemins pour toutes les voitures sans qu'elles ne se percutent. Au fur et à mesure que les niveaux progressent, le nombre de voitures et d'obstacles augmente, nécessitant une planification minutieuse et un bon timing pour réussir.
 
 ### Stratégies de jeu et progression
 
-1.  **Analyser le plan :** avant de tracer la moindre ligne, observe l’ensemble du parking et repère les voitures qui ont un trajet simple et celles qui devront faire un détour.  
-2.  **Gérer le timing :** tu n’es pas obligé d’envoyer toutes les voitures en même temps. Un chemin plus long peut servir à retarder volontairement une voiture pour laisser passer les autres.  
-3.  **Gérer la complexité :** sur les niveaux difficiles, commence par faire rouler une voiture à la fois ; une fois garée, passe à la suivante pour réduire le nombre de véhicules en mouvement.  
-4.  **Utiliser les zones vides :** n’hésite pas à faire un grand détour par les bords ou les zones libres plutôt que de risquer une collision au milieu.
+1.  **Planifier tes itinéraires :** avant de tracer la moindre ligne, jette un œil à l'ensemble du plan. Identifie quelles voitures ont les chemins les plus courts ou les plus directs et lesquelles pourraient avoir besoin d'un itinéraire plus long pour éviter une collision.
+2.  **Contrôler le timing :** la clé de ce jeu est le timing. Tu n'es pas obligé d'envoyer toutes les voitures en même temps. Tu peux tracer un chemin long et sinueux pour une voiture afin de la retarder délibérément, donnant à une autre voiture le temps de passer d'abord par une intersection chargée.
+3.  **Une voiture à la fois :** pour les niveaux complexes, il est souvent préférable de tracer un chemin pour une voiture, de la laisser se garer, puis de passer à la suivante. Cela réduit le nombre de véhicules en mouvement dont tu dois te soucier à tout moment.
+4.  **Utiliser l'espace ouvert :** n'hésite pas à tracer des chemins qui font le tour des bords ou passent par des parties vides du parking. Un chemin plus long vaut mieux qu'une collision !
 
 ### Commandes
 
+Le jeu se joue avec un simple mécanisme de dessin de lignes.
 
-The game is played with a simple line-drawing mechanic.
-- Clique ou touche une voiture, puis trace une ligne jusqu’à sa place de parking. Lorsque tu relâches, elle suit le trajet dessiné.
+*   **Tracer un chemin :** clique et maintiens sur une voiture, puis fais glisser ta souris ou ton doigt pour tracer une ligne jusqu'à sa place de parking correspondante. La voiture commencera à se déplacer dès que tu relâcheras.
 
 ### Foire aux questions (FAQ)
 
-- **Q : Que se passe‑t‑il si deux voitures se percutent ?**  
-  **R :** Le niveau est immédiatement perdu et tu dois recommencer.
+*   **Q : Que se passe‑t‑il si deux voitures se percutent ?**
+    *   **R :** Tu échoueras le niveau et devras le recommencer depuis le début.
 
-    - **Q : Comment éviter les collisions quand les chemins se croisent ?**  
+*   **Q : Comment empêcher les voitures de se percuter quand leurs chemins se croisent ?**
+    *   **R :** Tu dois gérer le timing. Allonge beaucoup le chemin d'une voiture par rapport à l'autre pour qu'elles arrivent à l'intersection à des moments différents. Tu peux aussi attendre qu'une voiture soit complètement garée avant même de commencer à tracer le chemin de la seconde.
 
-- **A:** Yes, the level is only complete when every car has been safely guided to its correct parking space.
-
-    - **Q: Do I have to park all the cars?**
-
-- **A:** You must manage the timing. Make one car's path much longer than the other's so that they arrive at the intersection at different times. You can also wait for one car to park completely before you even start drawing the path for the second car.
-
-    - **Q: How do I stop cars from crashing when their paths cross?**
-  **R :** Allonge le trajet d’une des voitures pour décaler son passage, ou attends qu’une voiture soit garée avant de lancer la suivante.
-
+*   **Q : Dois‑je garer toutes les voitures ?**
+    *   **R :** Oui, le niveau n'est terminé que lorsque chaque voiture a été guidée en toute sécurité vers sa place de parking correspondante.

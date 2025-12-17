@@ -2,7 +2,7 @@
 locale: fr
 urlstr: pets-rush
 title: Pets Rush
-description: "Pets Rush est un match‑3 nerveux\_: échange des animaux trop mignons pour former des lignes, déclencher des combos et empêcher le mur de blocs d’atteindre le haut de l’écran."
+description: "Pets Rush est un match‑3 nerveux\_: échange des animaux trop mignons pour former des lignes, déclencher des combos et empêcher le mur de blocs d'atteindre le haut de l'écran."
 iframeSrc: >-
   https://petsrush2.h5games.usercontent.goog/v/e566fdbf-c420-4ec6-af2a-7e9a6edab856/
 thumbnail: /new-images/pets-rush.jpg
@@ -17,34 +17,28 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### Présentation détaillée
 
-Pets Rush est un jeu de match‑3 survie sur le thème des animaux. Au lieu de niveaux fixes, un mur de blocs « pet » colorés monte en continu depuis le bas de l’écran. Tu dois enchaîner les échanges pour créer des lignes d’au moins trois animaux identiques, déclencher des réactions en chaîne et maintenir la pile sous contrôle le plus longtemps possible.
+Pets Rush est un jeu de match‑3 survie rapide et excitant avec un adorable thème animalier. Contrairement aux jeux de match‑3 traditionnels basés sur des niveaux, c'est un jeu de survie. Un mur de blocs d'animaux colorés monte continuellement depuis le bas de l'écran, et tu dois frénétiquement créer des matches pour l'empêcher d'atteindre le haut. Échange des animaux adjacents pour créer des lignes de trois ou plus, déclenche des combos et nettoie le plateau aussi longtemps que possible pour obtenir un score élevé.
 
 ### Stratégies de jeu et progression
 
-1.  **Garder la hauteur sous contrôle :** ta priorité est d’empêcher une colonne de toucher le haut ; cible en priorité les colonnes les plus hautes.  
-2.  **Chercher les combos :** prépare des alignements qui provoqueront des matches supplémentaires lorsqu’un groupe disparaît. Les combos libèrent plus d’espace et rapportent plus de points.  
-3.  **Réagir vite :** la vitesse de montée augmente avec le temps ; entraîne‑toi à repérer les matches possibles d’un simple coup d’œil.  
-4.  **Profiter des blocs spéciaux :** dès que des blocs bonus apparaissent (lignes, bombes, couleurs spéciales), utilise‑les pour nettoyer de larges zones en urgence.
+1.  **Garder la hauteur sous contrôle :** ton objectif principal est d'empêcher n'importe quelle colonne d'atteindre le haut de l'écran. Privilégie toujours les matches dans tes colonnes les plus hautes pour les faire redescendre.
+2.  **Chercher les combos :** la façon la plus efficace de nettoyer le plateau est de préparer des réactions en chaîne. Quand tu fais un match, de nouveaux animaux tombent en place. Cherche les opportunités où éliminer une ligne provoquera automatiquement un autre match. Ces combos libèrent plus d'espace et rapportent plus de points.
+3.  **Penser vite, agir vite :** le mur d'animaux monte plus vite au fur et à mesure que le jeu progresse. Tu dois rapidement identifier et exécuter des matches pour suivre la vitesse croissante.
+4.  **Blocs spéciaux :** guette les blocs spéciaux ou power‑ups qui peuvent apparaître. Ils peuvent t'aider à nettoyer de larges sections du plateau dans l'urgence.
 
 ### Commandes
 
+Le jeu se joue avec de simples contrôles d'échange.
 
-The game is played with simple swap controls.
-- Clique sur un animal puis sur un voisin pour les échanger, ou glisse directement un bloc vers une case adjacente. L’échange ne se fait que s’il crée un match valide.
+*   **Échanger des animaux :** clique sur un animal puis sur un animal adjacent pour échanger leurs positions. Tu peux aussi cliquer‑glisser un animal sur un voisin. Un échange n'est possible que s'il résulte en un match de trois ou plus.
 
 ### Foire aux questions (FAQ)
 
-- **Q : Comment se termine la partie ?**  
-  **R :** Lorsque l’une des colonnes atteint le haut de l’écran.
+*   **Q : Comment je perds la partie ?**
+    *   **R :** La partie se termine immédiatement si n'importe quelle colonne de blocs d'animaux atteint le tout haut de l'écran.
 
-    - **Q : Comment maximiser mon score ?**  
+*   **Q : Quelle est la meilleure façon d'obtenir un score élevé ?**
+    *   **R :** Survie et combos. Plus tu survies longtemps, plus tu gagnes de points. Créer des réactions en chaîne où plusieurs matches se produisent en un seul coup te donnera un multiplicateur de score et augmentera significativement ton score final.
 
-- **A:** The only way to stop them is to continuously make matches. Every time you make a successful match, the rising wall will pause for a moment.
-
-    - **Q: Is there a way to stop the blocks from rising?**
-
-- **A:** Survival and combos. The longer you last, the more points you'll get. Creating chain reactions where multiple matches happen in one move will give you a score multiplier and significantly boost your final score.
-
-    - **Q: What is the best way to get a high score?**
-  **R :** Survis le plus longtemps possible et privilégie les chaînes de matches multiples plutôt que les simples lignes.
-
+*   **Q : Y a‑t‑il un moyen d'arrêter la montée des blocs ?**
+    *   **R :** Le seul moyen de les arrêter est de faire continuellement des matches. Chaque fois que tu fais un match réussi, le mur qui monte fait une pause momentanée.

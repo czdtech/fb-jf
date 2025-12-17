@@ -23,7 +23,7 @@ Who Is? Game ist ein abwechslungsreiches Rätselspiel, in dem du dir Szene für 
 ### Spielanleitung
 
 
-Each level presents a unique situation or question, and your goal is to figure out the correct answer or solution.
+Jedes Level präsentiert eine einzigartige Situation oder Frage, und dein Ziel ist es, die richtige Antwort oder Lösung herauszufinden.
 - **Szene beobachten:** Sieh dir die Umgebung genau an – Mimik, kleine Symbole oder Gegenstände im Hintergrund verraten oft mehr, als man auf den ersten Blick denkt.
 - **Interagieren:** Tippe oder klicke auf Objekte und Figuren, um Hinweise aufzudecken. Manchmal musst du Dinge ziehen, kombinieren oder versteckte Bereiche freilegen.
 - **Um die Ecke denken:** Viele Level sind bewusst irreführend. Die offensichtlichste Antwort ist selten die richtige – probiere ungewöhnliche Aktionen aus.

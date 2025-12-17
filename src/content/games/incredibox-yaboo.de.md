@@ -36,7 +36,7 @@ Sagenwelt freischalten.
 1.  **Kategorien im Überblick**  
     *   **Beats (Rot):** Mischung aus modernen, basslastigen Drums und
         traditionellen Percussion-Sounds wie **Taiko-Trommeln**.  
-- **Effekte (Blau):** Atmosphärische Synths mit fernöstlichem Charakter,
+*   **Effekte (Blau):** Atmosphärische Synths mit fernöstlichem Charakter,
         Umgebungsgeräusche und rhythmische Chants.  
     *   **Melodien (Grün):** Loops von **Shamisen**, **Koto** oder anderen
         Saiteninstrumenten, kombiniert mit modernen Synth-Lines.  

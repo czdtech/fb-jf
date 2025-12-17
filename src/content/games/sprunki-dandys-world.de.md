@@ -23,8 +23,8 @@ Sprunki Dandy's World ist weniger ein reiner Noten-Klicker, sondern eher ein Mus
 
 ### So spielst du Sprunki Dandy's World
 
+Sprunki Dandy's World ist kinderleicht zu spielen – wenn du einmal angefangen hast, wirst du nicht mehr aufhören wollen:
 
-Sprunki Dandy's World is super easy to play, guaranteeing you won't be able to stop once you get started:
 - **Charakter wählen:** Such dir eine der schrägen Figuren aus – jede bringt einen eigenen Stil und eine eigene Ausstrahlung mit.
 - **Rhythmus gestalten:** Wähle Instrumente und Effekte, klicke sie in deinen Mix und kombiniere nach Lust und Laune, bis ein eigener Groove entsteht.
 - **Performance anschauen:** Während du Sounds hinzufügst, beginnt deine Figur zu tanzen, zu reagieren und die Musik visuell zu interpretieren.

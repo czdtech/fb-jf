@@ -24,8 +24,8 @@ Im Kern geht es darum, mit Musik eine Nachtkulisse aufzubauen. Grollende Bässe,
 
 ### So spielst du Sprunki Night Time
 
+Die Bedienung ist wirklich einfach – hier die wichtigsten Punkte:
 
-It's actually very simple, just master these points:
 - **Night-Time-Figuren wählen:** Nutze die Night-Time-Charaktere (z. B. Phase-3-Varianten), die jeweils eigene Nacht-Sounds mitbringen.
 - **Klangschichten stapeln:** Kombiniere tiefe Bässe, Ambient-Synths und Effekte zu einem dichten, dunklen Groove.
 - **Versteckte Übergänge finden:** Bestimmte Anordnungen können spezielle Übergänge, Filterfahrten oder Licht-Effekte triggern.
@@ -45,5 +45,6 @@ It's actually very simple, just master these points:
 - **Verborgene Effekte:** Durch Experimentieren mit Layern kannst du zusätzliche Klang- und Lichteffekte freilegen.
 
 
-### Conclusion:
+### Fazit
+
 Sprunki Night Time eignet sich perfekt für alle, die abends einen speziellen, leicht dunklen Musikmix gestalten wollen – ob zum Zuhören, Entspannen oder als kreativen Spielplatz für nächtliche Soundexperimente.

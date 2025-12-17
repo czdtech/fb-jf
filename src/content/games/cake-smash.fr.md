@@ -13,46 +13,24 @@ score: 4.3/5 (1543 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
-### Présentation du jeu
+### Présentation détaillée du jeu
 
-*Cake Smash* est un jeu de match‑3 coloré : échange deux gâteaux voisins pour former des lignes d’au moins trois gâteaux identiques, qui explosent en laissant place à de nouveaux. Chaque niveau impose un objectif : score à atteindre, types de gâteaux à collecter, obstacles à casser, etc.
+Cake Smash est un jeu de puzzle match-3 vibrant et engageant. L'objectif est d'échanger des gâteaux adjacents pour créer des lignes de trois gâteaux identiques ou plus, qui sont ensuite "écrasés" et retirés du plateau, avec de nouveaux gâteaux qui tombent pour les remplacer. Chaque niveau a un objectif spécifique, comme atteindre un certain score ou éliminer un certain nombre d'un type spécifique de gâteau.
 
-### Guide de jeu
+### Stratégies de jeu et progression
 
-1. **Repère rapidement les matches simples**  
-   Commence par les alignements évidents pour dégager le plateau.
-
-2. **Crée des gâteaux spéciaux**  
-- 4 en ligne : gâteau rayé qui nettoie une ligne ou colonne.  
-- 5 ou formes spéciales : gâteaux plus puissants qui peuvent effacer une couleur entière ou de grandes zones.
-
-3. **Combine les spéciaux**  
-   Échanger deux gâteaux spéciaux entre eux déclenche souvent un effet massif, utile pour les niveaux difficiles.
-
-4. **Joue pour l’objectif, pas pour le style**  
-   Si le niveau te demande un type de gâteau ou une zone spécifique, concentre tes coups dans ces secteurs.
+1.  **Identifie les matches :** cherche les opportunités de faire correspondre trois gâteaux identiques ou plus en échangeant deux gâteaux adjacents.
+2.  **Crée des gâteaux spéciaux :** faire correspondre quatre ou cinq gâteaux à la fois créera souvent un gâteau spécial avec de puissantes capacités de nettoyage. Par exemple, un gâteau rayé peut effacer une ligne ou une colonne entière.
+3.  **Combine les gâteaux spéciaux :** pour des effets encore plus grands, essaie d'échanger deux gâteaux spéciaux entre eux.
+4.  **Concentre-toi sur l'objectif :** fais attention à l'objectif du niveau. Parfois tu dois te concentrer sur l'élimination de tuiles spécifiques ou atteindre un objectif de score avec un nombre limité de coups.
 
 ### Commandes
 
-- Souris / tactile : clique ou tape sur un gâteau, puis sur un voisin pour les échanger (si l’échange crée un match).
-
-
-
-    - **A:** Try to create as many special cakes as possible and combine them for maximum effect. Plan your moves ahead and focus on the level objective.
-
-- **Q: How do I beat difficult levels?**
-
-    - **A:** Special cakes, created by matching more than three regular cakes, have various effects like clearing entire rows, columns, or all cakes of a certain color.
-
-- **Q: What do the special cakes do?**
+*   **Souris/Tactile :** utilise la souris ou l'écran tactile pour cliquer et glisser ou taper sur des gâteaux adjacents pour les échanger.
 
 ### Foire aux questions (FAQ)
 
-
-- **A:** Try to create as many special cakes as possible and combine them for maximum effect. Plan your moves ahead and focus on the level objective.
-
-    - **Q: How do I beat difficult levels?**
-
-- **A:** Special cakes, created by matching more than three regular cakes, have various effects like clearing entire rows, columns, or all cakes of a certain color.
-
-    - **Q: What do the special cakes do?**
+*   **Q : Que font les gâteaux spéciaux ?**
+    *   **R :** Les gâteaux spéciaux, créés en faisant correspondre plus de trois gâteaux normaux, ont divers effets comme effacer des lignes entières, des colonnes, ou tous les gâteaux d'une certaine couleur.
+*   **Q : Comment battre les niveaux difficiles ?**
+    *   **R :** Essaie de créer autant de gâteaux spéciaux que possible et combine-les pour un effet maximum. Planifie tes coups à l'avance et concentre-toi sur l'objectif du niveau.

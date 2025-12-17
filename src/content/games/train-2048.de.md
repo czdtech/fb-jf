@@ -31,7 +31,7 @@ Train 2048 ist ein Puzzlespiel, das die bekannte 2048‑Mechanik in ein Zug‑Se
 ### Steuerung
 
 
-The controls are simple and intuitive:
+Die Steuerung ist einfach und intuitiv:
 - **Pfeiltasten (Desktop):** Nutze `↑`, `↓`, `←` und `→`, um alle Waggons auf dem Board in die jeweilige Richtung zu schieben.
 - **Wischen (Mobil):** Wische in eine der vier Richtungen, um die Wagen zu bewegen.
 

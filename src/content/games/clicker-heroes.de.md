@@ -32,65 +32,9 @@ zukünftigen Durchläufe massiv beschleunigen.
 
 ### **Strategie & Tipps**
 
+Die Strategie bei Clicker Heroes entwickelt sich im Spielverlauf.
 
-- **Efficient Ascensions**: The core of the game is to perform many relatively quick ascensions. Do a run, push as far as you can quickly, ascend to collect Hero Souls, reinvest in Ancients, and repeat. Don't spend days on a single run if progress has stalled.
-
-- **Gilds**: After level 100, you will start receiving Gilds, which are damage multipliers assigned to random heroes. Early on, it's best to consolidate all your Gilds onto one powerful and efficient hero (like The Masked Samurai, Atlas, or Terra as you progress). This focuses your power dramatically.
-
-- **The Golden Rule of Ancients**: Use an "Ancients Calculator" (you can find them online). These tools will tell you the most efficient way to spend your Hero Souls to level up your Ancients for maximum progress.
-
-    - **Active**: This build focuses on active clicking and skill usage. The key starting Ancients are **Fragsworth** (Bonus Click Damage) and **Bhaal** (Bonus Critical Click Damage).
-
-    - **Idle**: This build focuses on letting the game run in the background. Your heroes do all the work. The key starting Ancients are **Siyalatas** (Bonus Idle DPS) and **Libertas** (Bonus Idle Gold). This is highly recommended for beginners.
-
-- **Choose a Playstyle - Idle vs. Active**:
-
-- **Ancients**: These are powerful beings that provide permanent, game-changing bonuses. You purchase and level them up using Hero Souls. Your choice of Ancients defines your playstyle.
-
-- **Understand Hero Souls (HS)**: This is the most important currency. Each Hero Soul you possess provides a +10% bonus to your total DPS. **Do not spend them all immediately.**
-
-**2. Post-Ascension Strategy (The Real Game Begins):**
-
-- **When to Ascend First**: A common recommendation is to ascend for the first time after beating level 139 and leveling your hero Amenhotep to 150 to unlock the "Ascension" skill. This should grant you around 7-10 Hero Souls.
-
-- **Pushing Your Limit**: Keep progressing until defeating a boss (every 5th level) becomes very slow or impossible within the 30-second timer. Use your player skills (like Clickstorm, Powersurge) to help push past difficult bosses.
-
-- **Unlock Hero Skills**: Leveling heroes to levels 10, 25, 50, 75, etc., unlocks crucial skills that often boost their own damage or the damage of all your heroes. Aim to unlock all skills for each hero before moving to the next.
-
-- **Focus on DPS**: Continuously level up the most cost-effective hero. A good rule of thumb is to upgrade the cheapest hero that gives you the biggest DPS boost.
-
-- **Initial Phase**: Click the monster to earn your first bits of gold. Hire your first few heroes as soon as you can afford them.
-
-**1. The First Run (Before Ascending):**
-
-
-- **When to Ascend First**: A common recommendation is to ascend for the first time after beating level 139 and leveling your hero Amenhotep to 150 to unlock the "Ascension" skill. This should grant you around 7-10 Hero Souls.
-
-- **Pushing Your Limit**: Keep progressing until defeating a boss (every 5th level) becomes very slow or impossible within the 30-second timer. Use your player skills (like Clickstorm, Powersurge) to help push past difficult bosses.
-
-- **Unlock Hero Skills**: Leveling heroes to levels 10, 25, 50, 75, etc., unlocks crucial skills that often boost their own damage or the damage of all your heroes. Aim to unlock all skills for each hero before moving to the next.
-
-- **Focus on DPS**: Continuously level up the most cost-effective hero. A good rule of thumb is to upgrade the cheapest hero that gives you the biggest DPS boost.
-
-- **Initial Phase**: Click the monster to earn your first bits of gold. Hire your first few heroes as soon as you can afford them.
-The strategy for Clicker Heroes evolves as you play.
-
-- **Efficient Ascensions**: The core of the game is to perform many relatively quick ascensions. Do a run, push as far as you can quickly, ascend to collect Hero Souls, reinvest in Ancients, and repeat. Don't spend days on a single run if progress has stalled.
-
-- **Gilds**: After level 100, you will start receiving Gilds, which are damage multipliers assigned to random heroes. Early on, it's best to consolidate all your Gilds onto one powerful and efficient hero (like The Masked Samurai, Atlas, or Terra as you progress). This focuses your power dramatically.
-
-- **The Golden Rule of Ancients**: Use an "Ancients Calculator" (you can find them online). These tools will tell you the most efficient way to spend your Hero Souls to level up your Ancients for maximum progress.
-
-    - **Active**: This build focuses on active clicking and skill usage. The key starting Ancients are **Fragsworth** (Bonus Click Damage) and **Bhaal** (Bonus Critical Click Damage).
-
-    - **Idle**: This build focuses on letting the game run in the background. Your heroes do all the work. The key starting Ancients are **Siyalatas** (Bonus Idle DPS) and **Libertas** (Bonus Idle Gold). This is highly recommended for beginners.
-
-- **Choose a Playstyle - Idle vs. Active**:
-
-- **Ancients**: These are powerful beings that provide permanent, game-changing bonuses. You purchase and level them up using Hero Souls. Your choice of Ancients defines your playstyle.
-
-- **Understand Hero Souls (HS)**: This is the most important currency. Each Hero Soul you possess provides a +10% bonus to your total DPS. **Do not spend them all immediately.**
-### 1. Erste Runde (vor der ersten Ascension)
+**1. Erste Runde (vor der ersten Ascension):**
 
 *   **Startphase:** Klicke das Monster, sammle Gold und kaufe so früh wie
     möglich deine ersten Helden.
@@ -103,19 +47,11 @@ The strategy for Clicker Heroes evolves as you play.
     weiterziehst.
 *   **Bis zum Limit pushen:** Spiele weiter, bis Bosse (jede 5. Stage) selbst
     mit Skills nur noch schwer in der 30-Sekunden-Frist fallen.
-    - **Erste Ascension:** Eine Standardempfehlung ist, bis etwa Level 139 zu
-
-    - **A**: Progress to the next level (or toggle auto-progression).
-
-    - **Q + Click**: Level up a hero to the maximum affordable amount.
-
-    - **CTRL + Click**: Level up a hero 100 times.
-
-    - **Z + Click**: Level up a hero 25 times.
+*   **Erste Ascension:** Eine Standardempfehlung ist, bis etwa Level 139 zu
     kommen und Amenhotep auf 150 zu bringen, um den Ascend-Skill freizuschalten.
     Das bringt dir typischerweise 7–10 Hero Souls.
 
-### 2. Nach der Ascension – das eigentliche Spiel
+**2. Nach der Ascension (das eigentliche Spiel):**
 
 *   **Hero Souls verstehen:** Hero Souls (HS) sind die wichtigste Ressource.
     Jede HS bringt passiv +10 % DPS. Gib sie nicht kopflos aus.

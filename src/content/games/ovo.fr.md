@@ -14,45 +14,32 @@ developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
-### Présentation détaillée
+### Présentation du jeu
 
-OvO est un jeu de plateforme rapide où tu contrôles un petit personnage stylisé qui doit franchir des niveaux remplis de pics, de plateformes mobiles et de murs à escalader. Le gameplay repose sur la maîtrise des glissades, des sauts muraux et des rebonds pour conserver ton élan et terminer chaque niveau en un minimum de temps.
+OvO Game est un platformer rapide et extrêmement exigeant. Les joueurs contrôlent un personnage en forme de bonhomme allumette, utilisant des sauts précis, des glissades et des rebonds muraux pour naviguer dans des niveaux complexes, visant à atteindre la ligne d'arrivée le plus vite possible. Le jeu est réputé pour sa haute difficulté et ses contrôles fluides, testant la vitesse de réaction et la précision de mouvement des joueurs.
 
-### Stratégies de jeu et progression
+### Stratégies de jeu
 
-1.  **Rester en mouvement :** plus tu gardes de vitesse, plus certains sauts deviennent faciles ; s’arrêter fréquemment rend certains obstacles plus difficiles.  
-2.  **Apprendre les enchaînements :** certains niveaux se traversent via une séquence presque chorégraphiée de glissades et de sauts ; mémorise‑la pour améliorer tes temps.  
-3.  **Rejouer les niveaux :** le jeu est conçu pour le retry ; chaque essai te rapproche du run parfait.  
-4.  **Limiter les inputs inutiles :** appuie brièvement et précisément ; les pressions trop longues peuvent t’envoyer trop loin.
+1.  **Maîtriser les mouvements de base :** maîtriser parfaitement les mouvements de base comme le saut, la glissade, le double saut et le rebond mural est essentiel pour réussir les niveaux.
+2.  **Observer la disposition du niveau :** avant de tenter, scanne rapidement le niveau pour planifier l'itinéraire général et les techniques à utiliser.
+3.  **Utiliser l'élan :** lors des sauts et glissades, exploiter l'élan du personnage peut t'aider à sauter plus loin ou glisser plus facilement.
+4.  **Pratiquer répétitivement :** en raison de la haute difficulté, de nombreux niveaux nécessitent des tentatives répétées pour trouver la meilleure façon de passer.
+5.  **Chercher les raccourcis :** certains niveaux peuvent avoir des raccourcis cachés ou des moyens plus efficaces de les compléter ; l'exploration peut les révéler.
 
+### Comment jouer
 
-- **Find Shortcuts**: Some levels might have hidden shortcuts or more efficient ways to complete them; exploration can reveal these.
-### Commandes
+*   **Déplacement :** utilise les touches fléchées gauche/droite ou A/D pour contrôler le déplacement du personnage.
+*   **Saut :** utilise la touche flèche haut ou W pour sauter. Appuyer à nouveau en l'air permet un double saut.
+*   **Glissade :** utilise la touche flèche bas ou S pour glisser, ce qui peut être utilisé pour passer à travers des passages étroits.
+*   **Saut mural :** quand le personnage est près d'un mur, appuyer sur la touche de saut permet un rebond mural ; des sauts muraux continus peuvent être utilisés pour grimper.
 
-- Déplacement : touches fléchées ou WASD.  
-- Saut et glissade : généralement barre d’espace et S / Flèche bas (cf. tutoriel ingame).
+### Foire aux questions
 
-
-- **Wall Jump**: When the character is near a wall, pressing the jump key allows for a wall jump; continuous wall jumps can be used to climb upwards.
-
-- **Slide**: Use the down arrow key or S key to slide, which can be used to pass through narrow passages.
-### Foire aux questions (FAQ)
-
-- **Q : Le jeu a‑t‑il une fin ?**  
-  **R :** Oui, il existe un nombre fixe de zones et de niveaux, mais beaucoup de joueurs continuent pour améliorer leurs chronos.
-
-- **Q : OvO est‑il jouable au clavier uniquement ?**  
-  **R :** Oui, le jeu est entièrement jouable au clavier, mais certaines versions supportent aussi les manettes.
-
-
-
-**A**: "OvO Game" can typically be played directly in web browsers, and some versions may also support mobile devices.
-
-- **Q: On which platforms can the game be played?**
-
-**A**: New characters or skins are usually unlocked by completing specific levels, achieving certain scores, or collecting hidden items.
-
-- **Q: How do I unlock new characters or skins?**
-
-
-**A**: "OvO Game" can typically be played directly in web browsers, and some versions may also support mobile devices.
+1.  **Q : Quel est le niveau de difficulté de OvO Game ?**
+    **R :** Ce jeu est réputé pour sa haute difficulté, nécessitant une grande précision et vitesse de réaction de la part des joueurs, ce qui le rend d'autant plus stimulant.
+2.  **Q : Y a‑t‑il une limite de temps dans le jeu ?**
+    **R :** L'objectif du jeu est de compléter les niveaux le plus vite possible, donc un chronomètre est un élément central, permettant aux joueurs de défier leurs meilleurs records.
+3.  **Q : Comment débloquer de nouveaux personnages ou skins ?**
+    **R :** Les nouveaux personnages ou skins sont généralement débloqués en complétant des niveaux spécifiques, en atteignant certains scores ou en collectant des objets cachés.
+4.  **Q : Sur quelles plateformes peut‑on jouer ?**
+    **R :** OvO Game peut généralement être joué directement dans les navigateurs web, et certaines versions supportent aussi les appareils mobiles.

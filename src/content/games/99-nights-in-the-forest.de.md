@@ -85,21 +85,21 @@ Das Spiel nutzt typische Ego‑Shooter‑Steuerung.
 ### Häufige Fragen (FAQ)
 
 **F: Kann man die Gegner töten?**  
-Ja. Dringen Gegner in die Hütte ein, kannst du sie mit Axt oder anderen Waffen
+**A:** Ja. Dringen Gegner in die Hütte ein, kannst du sie mit Axt oder anderen Waffen
 niederstrecken. Trotzdem gilt: Sobald es soweit ist, ist deine Verteidigung
 bereits gescheitert – daher sollte Kampf nur Plan B sein.
 
 **F: Was passiert, wenn ich sterbe?**  
-Das Spiel verwendet Permadeath. Stirbst du, wird dein Speicherstand gelöscht und
+**A:** Das Spiel verwendet Permadeath. Stirbst du, wird dein Speicherstand gelöscht und
 du beginnst wieder bei Nacht 1 – sämtliche Fortschritte sind verloren.
 
 **F: Wie überlebe ich die erste Nacht?**  
-Fälle am ersten Tag mindestens 2–3 Bäume für ausreichend Holz und suche im
+**A:** Fälle am ersten Tag mindestens 2–3 Bäume für ausreichend Holz und suche im
 Umfeld nach Schrott. Verarbeite die Stämme zu Brettern und den Schrott zu
 Nägeln und verbarrikadiere vor Sonnenuntergang alle Fenster. Bleib in der Nacht
 im Haus, schließe die Tür und lausche aufmerksam den Geräuschen draußen.
 
 **F: Wo finde ich Schrottmetall?**  
-Schrott liegt meist zufällig im Wald oder an markanten Punkten herum. Du musst
+**A:** Schrott liegt meist zufällig im Wald oder an markanten Punkten herum. Du musst
 am Tag genau hinschauen und die Umgebung gründlich absuchen. Da er die einzige
 Quelle für Nägel ist, zählt jedes Stück.

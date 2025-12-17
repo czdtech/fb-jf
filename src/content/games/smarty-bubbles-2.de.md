@@ -51,19 +51,13 @@ Smarty Bubbles 2 knüpft an den Klassiker an und erweitert ihn um ein
 ### Häufige Fragen (FAQ)
 
 *   **F: Warum erscheinen neue Reihen am oberen Rand?**
-    **A:** Du hast zu viele Schüsse ohne Treffer abgegeben. Nach einer festen
+    *   **A:** Du hast zu viele Schüsse ohne Treffer abgegeben. Nach einer festen
     Anzahl von Fehlschüssen fügt das Spiel eine neue Reihe hinzu.
 
-    - **F: Was ist das Ziel des Spiels?**
-    **A:** Alle Blasen auf dem Spielfeld zu entfernen, um das Level
+*   **F: Was ist das Ziel des Spiels?**
+    *   **A:** Alle Blasen auf dem Spielfeld zu entfernen, um das Level
     abzuschließen und zum nächsten zu gelangen.
 
 *   **F: Wie erreiche ich hohe Punktzahlen?**
-
-    - **A:** By clearing levels efficiently and by causing large clusters of bubbles to drop at once. The more bubbles you clear in a single shot, the higher your score.
-
-- **Q: How do I get a high score?**
-
-    - **A:** To clear all the bubbles from the board to complete the level and move on to the next one.
-    **A:** Indem du in wenigen Schüssen große Cluster zum Einsturz bringst.
+    *   **A:** Indem du in wenigen Schüssen große Cluster zum Einsturz bringst.
     Je mehr Blasen gleichzeitig fallen, desto höher dein Score.

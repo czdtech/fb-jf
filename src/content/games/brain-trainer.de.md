@@ -44,7 +44,7 @@ Brain Trainer bietet mehrere Kategorien von Mini-Spielen; typische Beispiele:
 
 Die Bedienung bleibt in allen Mini‑Games simpel und erfolgt per Maus oder Touch.
 
-- **Auswahl / Antwort:** Klicke oder tippe auf Zahl, Feld, Karte oder Objekt, das der gefragten Lösung entspricht；die meisten Aufgaben werten sofort aus, andernfalls erscheint ein „OK“-Knopf und das Resultat zeigt Score, Genauigkeit sowie Bestwerte.  
+- **Auswahl / Antwort:** Klicke oder tippe auf Zahl, Feld, Karte oder Objekt, das der gefragten Lösung entspricht; die meisten Aufgaben werten sofort aus, andernfalls erscheint ein „OK“-Knopf und das Resultat zeigt Score, Genauigkeit sowie Bestwerte.  
 
 ### Häufige Fragen (FAQ)
 

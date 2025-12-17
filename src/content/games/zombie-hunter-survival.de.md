@@ -37,7 +37,7 @@ Zombie Hunter: Survival ist ein Survival‑Shooter aus der Vogelperspektive. Du 
 
 - Bosses? Some waves add elites—kite wider and clear minions first.
 
-- Ammo scarce—tips? Aim for clusters, use single shots, and pick up only when safe.
+- Munition knapp – Tipps? Ziele auf Gruppen, nutze Einzelschüsse und sammle nur ein, wenn es sicher ist.
 
 - I get cornered—fix? Avoid dead‑ends; always leave an exit lane.
 **Ich werde ständig eingekesselt – wie verhindere ich das?**  

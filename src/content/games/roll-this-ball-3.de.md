@@ -42,28 +42,20 @@ Roll This Ball ist ein klassisches Schiebeblock-Puzzle, das dein
 
 ### Steuerung
 
+Die Steuerung erfolgt per Drag-and-Drop oder einfacher Ziehbewegung.
+
 *   **Block bewegen:** Klicke einen verschiebbaren Block an und ziehe ihn in ein
     benachbartes freies Feld.
 
-
-- **Move a Block:** Click and drag a movable block to slide it into an adjacent empty space.
 ### Häufige Fragen (FAQ)
 
 *   **F: Was ist das Ziel des Spiels?**
-    **A:** Eine ununterbrochene Bahn aufzubauen, auf der die Kugel vom Start-
-    zum Zielfeld rollen kann.
-
-    - **F: Warum lässt sich ein bestimmter Block nicht verschieben?**
-    **A:** Teile mit sichtbaren Nieten sind fest verankert und können nicht
-    bewegt werden. Plane deine Lösung um diese Fixpunkte herum.
-
+    *   **A:** Eine ununterbrochene Bahn aufzubauen, auf der die Kugel vom
+        Start- zum Zielfeld rollen kann.
+*   **F: Warum lässt sich ein bestimmter Block nicht verschieben?**
+    *   **A:** Teile mit sichtbaren Nieten sind fest verankert und können nicht
+        bewegt werden. Plane deine Lösung um diese Fixpunkte herum.
 *   **F: Die Kugel rollt nicht, obwohl der Weg fast fertig aussieht.**
-
-    - **A:** Make sure the path is truly continuous. It's easy to miss a small gap or have a piece facing the wrong direction. Double-check every connection from start to finish.
-
-- **Q: I've made a path, but the ball isn't rolling. Why?**
-
-    - **A:** Blocks with iron rivets on them are fixed in place and cannot be moved. You must build your path around these immovable obstacles.
-    **A:** Prüfe, ob wirklich alle Segmente korrekt verbunden und ausgerichtet
-    sind. Schon ein falscher Winkel oder eine kleine Lücke verhindert, dass die
-    Bahn als durchgehend erkannt wird.
+    *   **A:** Prüfe, ob wirklich alle Segmente korrekt verbunden und
+        ausgerichtet sind. Schon ein falscher Winkel oder eine kleine Lücke
+        verhindert, dass die Bahn als durchgehend erkannt wird.

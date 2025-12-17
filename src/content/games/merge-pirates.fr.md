@@ -3,8 +3,8 @@ locale: fr
 urlstr: merge-pirates
 title: Merge Pirates
 description: >-
-  À l’abordage, capitaine ! Fusionne des canons, des navires et de l’équipement
-  pirate pour bâtir une flotte redoutable. Remplis les commandes, gagne de l’or
+  À l'abordage, capitaine ! Fusionne des canons, des navires et de l'équipement
+  pirate pour bâtir une flotte redoutable. Remplis les commandes, gagne de l'or
   et deviens la légende des sept mers dans ce puzzle de fusion addictif.
 iframeSrc: 'https://mergepirates.h5games.usercontent.goog/v/2rugbh8p4845g/'
 thumbnail: /new-images/merge-pirates.png
@@ -19,34 +19,29 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### Présentation détaillée
 
-Merge Pirates est un puzzle de fusion relaxant où tu incarnes un capitaine pirate qui construit sa flotte. Le gameplay repose sur la fusion d’objets thématiques — canons, roues de navire, cartes au trésor et autres équipements — pour obtenir des versions de niveau supérieur. Ton but est de remplir les commandes de ton équipage, de gagner des pièces d’or et de collectionner tout l’équipement légendaire pour devenir le capitaine le plus redouté des sept mers.
+Merge Pirates est un puzzle de fusion relaxant où tu incarnes un capitaine pirate qui construit sa flotte. Le gameplay repose sur la fusion d'objets thématiques — canons, roues de navire, cartes au trésor et autres équipements — pour obtenir des versions de niveau supérieur. Ton but est de remplir les commandes de ton équipage, de gagner des pièces d'or et de collectionner tout l'équipement légendaire pour devenir le capitaine le plus redouté des sept mers.
 
 ### Stratégies de jeu et progression
 
 1.  **La chaîne de fusion :** le cœur du jeu est la fusion. Fais glisser un objet sur un autre identique pour créer un nouvel objet amélioré. Par exemple, deux petits canons peuvent devenir un canon plus gros et plus puissant.
-2.  **Remplir les commandes :** en haut de l’écran, tu vois les demandes de ton équipage. Fabrique en priorité les objets requis, car c’est ta principale source de pièces d’or.
+2.  **Remplir les commandes :** en haut de l'écran, tu vois les demandes de ton équipage. Fabrique en priorité les objets requis, car c'est ta principale source de pièces d'or.
 3.  **Gérer ton plateau :** les emplacements sont limités. Si ton plateau est plein, tu ne recevras plus de nouvelles caisses. Fusionne régulièrement pour garder de la place pour les livraisons.
-4.  **Dépenser ton or :** utilise l’or gagné pour acheter des objets dans la boutique. C’est bien plus rapide que d’attendre les caisses gratuites et indispensable pour produire des objets de haut niveau pour les commandes difficiles.
+4.  **Dépenser ton or :** utilise l'or gagné pour acheter des objets dans la boutique. C'est bien plus rapide que d'attendre les caisses gratuites et indispensable pour produire des objets de haut niveau pour les commandes difficiles.
 
 ### Commandes
 
 Le jeu se joue au glisser‑déposer.
 
-- **Fusionner des objets :** clique et fais glisser un objet sur un autre identique pour les fusionner.
-- **Acheter des objets :** ouvre la boutique puis clique sur l’objet que tu souhaites acheter.
+*   **Fusionner des objets :** clique et fais glisser un objet sur un autre identique pour les fusionner.
+*   **Acheter des objets :** ouvre la boutique puis clique sur l'objet que tu souhaites acheter.
 
 ### Foire aux questions (FAQ)
 
-- **Q : Comment obtenir de nouveaux objets ?**  
-  **R :** Une caisse gratuite dépose régulièrement un objet de base sur un emplacement libre. Tu peux aussi utiliser ton or pour acheter directement tout objet déjà découvert.
-    - **Q : Quel est l’objectif principal ?**  
-  **R :** Gagner de l’or en remplissant les commandes et débloquer l’ensemble des objets pirates disponibles dans le jeu.
-- **Q : Mon plateau est plein et je n’ai plus de coups, que faire ?**  
+*   **Q : Comment obtenir de nouveaux objets ?**
+    *   **R :** Une caisse gratuite dépose régulièrement un objet de base sur un emplacement libre. Tu peux aussi utiliser ton or pour acheter directement tout objet déjà découvert.
 
-    - **A:** You need to create space. Look carefully for any possible merges you might have missed. If there are none, you may have to use the trash can icon to sell a low-level item to free up a space.
+*   **Q : Quel est l'objectif principal ?**
+    *   **R :** Gagner de l'or en remplissant les commandes et débloquer l'ensemble des objets pirates disponibles dans le jeu.
 
-- **Q: My board is full and I can't make any moves. What do I do?**
-
-    - **A:** To earn gold by fulfilling orders and to discover all the different pirate items in the game.
-  **R :** Cherche toutes les fusions possibles. S’il n’y en a vraiment plus, utilise la corbeille pour vendre un objet de bas niveau et libérer un emplacement.
-
+*   **Q : Mon plateau est plein et je n'ai plus de coups, que faire ?**
+    *   **R :** Cherche toutes les fusions possibles. S'il n'y en a vraiment plus, utilise la corbeille pour vendre un objet de bas niveau et libérer un emplacement.

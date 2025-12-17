@@ -3,7 +3,7 @@ locale: fr
 urlstr: pac-man
 title: PAC-MAN
 description: >-
-  PAC-MAN est un jeu d’arcade de labyrinthe classique où tu guides Pac‑Man pour
+  PAC-MAN est un jeu d'arcade de labyrinthe classique où tu guides Pac‑Man pour
   manger toutes les pastilles tout en fuyant quatre fantômes colorés. Les super
   pastilles te permettent temporairement de les dévorer.
 iframeSrc: 'https://bward2.github.io/pacman-js/'
@@ -19,38 +19,27 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 ### Présentation du jeu
 
-PAC‑MAN est l’un des jeux d’arcade les plus emblématiques. Tu contrôles Pac‑Man, le personnage jaune, dans un labyrinthe rempli de petites pastilles à manger. Pendant ce temps, quatre fantômes — Blinky, Pinky, Inky et Clyde — te poursuivent. En mangeant une super pastille, tu inverses temporairement les rôles : les fantômes deviennent bleus et tu peux les dévorer pour marquer un maximum de points.
+PAC‑MAN est un jeu d'arcade de labyrinthe classique. Les joueurs contrôlent le Pac‑Man jaune, se déplaçant dans un labyrinthe complexe avec l'objectif de manger toutes les pastilles. En même temps, tu dois éviter quatre fantômes colorés — Blinky, Pinky, Inky et Clyde. Quand Pac‑Man mange une super pastille, il peut temporairement inverser les rôles et poursuivre les fantômes pour les dévorer et marquer des points bonus.
 
 ### Stratégies de jeu
 
-1.  **Comprendre les fantômes :** chaque fantôme possède un comportement différent ; Blinky (rouge) chasse directement, Pinky (rose) essaie d’anticiper, Inky (bleu) combine plusieurs facteurs et Clyde (orange) se comporte de manière plus erratique.  
-2.  **Bien utiliser les super pastilles :** mange une super pastille quand plusieurs fantômes sont proches pour les enchaîner et maximiser les points.  
-3.  **Planifier tes routes :** apprends la structure du labyrinthe pour éviter d’être coincé dans les impasses.  
-4.  **Exploiter les tunnels :** les tunnels latéraux permettent de passer rapidement d’un côté à l’autre de la carte et d’échapper aux fantômes trop collants.
+1.  **Comprendre le comportement des fantômes :** chaque fantôme a son propre modèle d'IA. Blinky (rouge) est un chasseur, Pinky (rose) essaie d'embusquer, Inky (bleu clair) a des mouvements plus complexes, et Clyde (orange) tend à errer de manière aléatoire.
+2.  **Utiliser les super pastilles :** après avoir mangé une super pastille, pourchasse immédiatement les fantômes pour des scores élevés. Plus tu manges de fantômes, plus le score est élevé.
+3.  **Planifier tes routes :** en te déplaçant dans le labyrinthe, planifie ton itinéraire à l'avance pour éviter d'être coincé par les fantômes.
+4.  **Utiliser les tunnels :** les tunnels aux deux extrémités du labyrinthe permettent à Pac‑Man de passer rapidement d'un côté à l'autre, utile pour fuir ou contre‑attaquer les fantômes.
+5.  **Priorité aux grosses pastilles :** les super pastilles sont cruciales pour renverser la situation et doivent être utilisées stratégiquement.
 
-
-- **Prioritize Large Pellets**: Power pellets (large pellets) are crucial for turning the tide and should be prioritized.
 ### Comment jouer
 
-- Déplacement : flèches directionnelles (haut, bas, gauche, droite) pour orienter Pac‑Man dans le labyrinthe.
+*   **Déplacement :** généralement, utilise les touches fléchées du clavier (haut, bas, gauche, droite) pour contrôler la direction de déplacement de Pac‑Man dans le labyrinthe.
 
-### Foire aux questions (FAQ)
+### Foire aux questions
 
-1.  **Q : Combien y a‑t‑il de niveaux dans PAC‑MAN ?**  
-   **R :** La version originale comporte 256 niveaux, mais un bug historique rend le niveau 256 injouable (écran « kill screen »).
-
-2.  **Q : Que deviennent les fantômes après une super pastille ?**  
-   **R :** Ils deviennent bleus, s’enfuient et peuvent être mangés. Une fois mangés, leurs yeux retournent à la base avant de redevenir dangereux.
-
-
-
-**A**: Yes, the goal of each level is to eat all the small pellets and power pellets in the maze to advance to the next level.
-
-- **Q: Is the objective of the game to eat all the pellets?**
-
-**A**: After eating a power pellet, the ghosts turn dark blue and can be eaten by Pac-Man. They will flee and return to their normal state after a period.
-
-- **Q: What happens to the ghosts after eating a power pellet?**
-
-
-**A**: Yes, the goal of each level is to eat all the small pellets and power pellets in the maze to advance to the next level.
+1.  **Q : Combien y a‑t‑il de niveaux dans PAC‑MAN ?**
+    **R :** Le PAC‑MAN original compte 256 niveaux, mais en raison d'une erreur de programmation au niveau 256, cela résulte souvent en un « écran de mort » ou « écran divisé », empêchant le jeu de progresser normalement.
+2.  **Q : Quels sont les noms et couleurs des fantômes ?**
+    **R :** Les quatre fantômes sont : Blinky (rouge), Pinky (rose), Inky (bleu clair) et Clyde (orange).
+3.  **Q : Que se passe‑t‑il avec les fantômes après avoir mangé une super pastille ?**
+    **R :** Après avoir mangé une super pastille, les fantômes deviennent bleu foncé et peuvent être mangés par Pac‑Man. Ils fuiront et reviendront à leur état normal après une période.
+4.  **Q : L'objectif du jeu est‑il de manger toutes les pastilles ?**
+    **R :** Oui, le but de chaque niveau est de manger toutes les petites pastilles et super pastilles du labyrinthe pour passer au niveau suivant.

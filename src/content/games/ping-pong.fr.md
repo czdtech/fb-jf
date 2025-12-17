@@ -16,38 +16,26 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### Présentation du jeu
 
-Ping Pong reprend le concept de Pong : deux raquettes se renvoient une balle sur un terrain horizontal. Ton objectif est de renvoyer chaque tir, de surprendre l’adversaire avec des trajectoires difficiles et de marquer suffisamment de points pour gagner la manche.
+Ping Pong est un jeu d'arcade sportif classique. Deux joueurs (ou un joueur contre l'IA) contrôlent chacun une raquette pour renvoyer une balle de part et d'autre de l'écran, avec l'objectif de marquer des points en faisant rater la balle à l'adversaire. Le jeu est connu pour son gameplay simple et intuitif et son rythme rapide, ce qui en fait un excellent choix pour le divertissement décontracté et les matchs compétitifs.
 
-### Stratégies de jeu et progression
+### Stratégies de jeu
 
-1.  **Garder la raquette centrée :** reste proche du milieu de ta zone pour pouvoir réagir aux tirs vers le haut comme vers le bas.  
-2.  **Jouer les angles :** vise les bords de la raquette pour envoyer la balle sur des trajectoires plus imprévisibles.  
-3.  **Lire la vitesse :** plus les échanges durent, plus la balle accélère ; adapte ton positionnement en conséquence.
+1.  **Contrôler la raquette :** déplace ta raquette de manière flexible pour t'assurer de pouvoir frapper la balle entrante.
+2.  **Ajuster l'angle :** en changeant la position et la direction de mouvement de la raquette au moment de frapper la balle, tu peux modifier l'angle et la vitesse de vol de la balle.
+3.  **Anticiper l'adversaire :** observe les habitudes de frappe et les schémas de mouvement de ton adversaire pour prédire où la balle va atterrir.
+4.  **Équilibrer attaque et défense :** en défendant, cherche les opportunités de frapper des coups difficiles à renvoyer pour ton adversaire.
 
+### Comment jouer
 
-- **Balance Offense and Defense**: While defending, look for opportunities to hit tricky shots that are difficult for your opponent to return.
-### Commandes
+*   **Déplacer la raquette :** généralement, utilise les touches fléchées du clavier (haut/bas) ou la souris pour contrôler le mouvement vertical de la raquette sur l'écran.
 
-- Déplace ta raquette avec la souris, les flèches ou le doigt selon la version pour renvoyer la balle.
+### Foire aux questions
 
-### Foire aux questions (FAQ)
-
-- **Q : Le jeu devient très rapide, comment suivre ?**  
-  **R :** Anticipe les rebonds plutôt que de réagir au dernier moment et garde ta raquette en mouvement constant.
-
-
-
-**A**: Yes, classic "Ping Pong" games typically support local multiplayer for two players on the same device.
-
-- **Q: Can this game be played in two-player mode?**
-
-**A**: The hitting power of the paddle is usually fixed, but you can influence the ball's speed and angle by changing the point of contact.
-
-- **Q: How can I hit the ball more powerfully with the paddle?**
-
-**A**: Many versions of Ping Pong games offer different difficulty levels, mainly reflected in the AI opponent's reaction speed and hitting skills.
-
-- **Q: Are there different difficulty levels in the game?**
-
-
-**A**: Yes, classic "Ping Pong" games typically support local multiplayer for two players on the same device.
+1.  **Q : Quel est l'objectif du jeu Ping Pong ?**
+    **R :** L'objectif est de marquer des points en faisant passer la balle au‑delà de la zone de raquette de ton adversaire. Le premier joueur à atteindre un score prédéterminé gagne généralement.
+2.  **Q : Y a‑t‑il différents niveaux de difficulté dans le jeu ?**
+    **R :** De nombreuses versions de jeux de Ping Pong offrent différents niveaux de difficulté, principalement reflétés dans la vitesse de réaction de l'adversaire IA et ses compétences de frappe.
+3.  **Q : Comment puis‑je frapper la balle plus fort avec la raquette ?**
+    **R :** La puissance de frappe de la raquette est généralement fixe, mais tu peux influencer la vitesse et l'angle de la balle en changeant le point de contact.
+4.  **Q : Ce jeu peut‑il être joué en mode deux joueurs ?**
+    **R :** Oui, les jeux de Ping Pong classiques supportent généralement le multijoueur local pour deux joueurs sur le même appareil.

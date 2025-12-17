@@ -50,20 +50,14 @@ Smarty Bubbles ist ein sauber gestalteter, sehr süchtig machender
 ### Häufige Fragen (FAQ)
 
 *   **F: Warum erscheint plötzlich eine neue Blasenreihe?**
-    **A:** Du hast zu viele Schüsse ohne Treffer abgegeben. Nach einer gewissen
+    *   **A:** Du hast zu viele Schüsse ohne Treffer abgegeben. Nach einer gewissen
     Anzahl an Misses schiebt das Spiel eine neue Reihe von oben nach.
 
-    - **F: Was ist das Ziel des Spiels?**
-    **A:** Alle Blasen vom Spielfeld zu entfernen. Das Spiel ist endlos – dein
+*   **F: Was ist das Ziel des Spiels?**
+    *   **A:** Alle Blasen vom Spielfeld zu entfernen. Das Spiel ist endlos – dein
     eigentliches Ziel ist es, so lange wie möglich durchzuhalten und dabei
     einen hohen Score zu erreichen.
 
 *   **F: Wie bekomme ich viele Punkte?**
-
-    - **A:** High scores are achieved by creating large chain reactions. Dropping big clusters of bubbles by popping the ones holding them up will award you a large number of bonus points.
-
-- **Q: How do I get a high score?**
-
-    - **A:** To clear all the bubbles from the board. The game is endless, so the ultimate goal is to achieve the highest possible score by surviving as long as you can.
-    **A:** Versuche, mit einem Schuss große Bereiche zum Einsturz zu bringen.
+    *   **A:** Versuche, mit einem Schuss große Bereiche zum Einsturz zu bringen.
     Je mehr Blasen in einer Kettenreaktion fallen, desto höher dein Bonus.

@@ -38,20 +38,11 @@ Das Spiel hat einfache Bewegungssteuerung.
 
 ### Häufig gestellte Fragen (FAQ)
 
-- **F: Wie schieße ich?**
-  
-  **A:** Gar nicht – zumindest nicht manuell. In diesem "Survivor"-Stil feuern deine Waffen automatisch, und du konzentrierst dich komplett auf Bewegung und Ausweichen.
+*   **F: Wie schieße ich?**
+    *   **A:** Gar nicht – zumindest nicht manuell. In diesem "Survivor"-Stil feuern deine Waffen automatisch, und du konzentrierst dich komplett auf Bewegung und Ausweichen.
 
-    - **F: Wie bekomme ich neue Waffen und Fähigkeiten?**
-  
-  **A:** Indem du die blauen Erfahrungskristalle einsammelst, die Gegner fallen lassen. Sobald deine Erfahrungsleiste voll ist, steigst du im Level auf und kannst zufällig angebotene Waffen oder Upgrades auswählen.
+*   **F: Wie bekomme ich neue Waffen und Fähigkeiten?**
+    *   **A:** Indem du die blauen Erfahrungskristalle einsammelst, die Gegner fallen lassen. Sobald deine Erfahrungsleiste voll ist, steigst du im Level auf und kannst zufällig angebotene Waffen oder Upgrades auswählen.
 
-- **F: Was ist das eigentliche Ziel des Spiels?**
-  
-
-    - **A:** To survive for a specific amount of time (e.g., 15 or 30 minutes) or, in endless mode, to survive for as long as you possibly can against infinite waves of enemies.
-
-- **Q: What is the goal of the game?**
-
-    - **A:** By collecting the blue experience gems dropped by enemies. When your XP bar at the top is full, you will level up and be presented with a random selection of new weapons or upgrades to choose from.
-  **A:** Je nach Modus musst du eine bestimmte Zeit (z. B. 15 oder 30 Minuten) überleben – oder im Endlosmodus einfach so lange wie möglich gegen unendliche Gegnerwellen standhalten.
+*   **F: Was ist das eigentliche Ziel des Spiels?**
+    *   **A:** Je nach Modus musst du eine bestimmte Zeit (z. B. 15 oder 30 Minuten) überleben – oder im Endlosmodus einfach so lange wie möglich gegen unendliche Gegnerwellen standhalten.

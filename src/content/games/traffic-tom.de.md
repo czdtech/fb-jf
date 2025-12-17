@@ -37,9 +37,8 @@ Traffic Tom ist ein schnelles Motorrad‑Rennspiel aus der Third‑Person‑Pers
 ### Häufige Fragen (FAQ)
 
 
-- **A:** Besides upgrading your bike's top speed, some levels may feature boost pads on the road that give you a temporary burst of speed when you drive over them.
-
-    - **Q: Is there a way to go faster?**
+*   **F: Gibt es eine Möglichkeit, schneller zu fahren?**
+    *   **A:** Neben dem Aufrüsten der Höchstgeschwindigkeit deines Motorrads können einige Level Boost-Felder auf der Straße haben, die dir einen temporären Geschwindigkeitsschub geben, wenn du darüber fährst.
 
 - **A:** You can purchase new bikes from the in-game garage using the coins you collect during your runs and for completing missions.
 

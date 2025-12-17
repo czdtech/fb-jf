@@ -45,9 +45,9 @@ releaseDate: 2025-08-16T00:00:00.000Z
 *   **Beschleunigen/Bremsen (falls vorhanden):** Je nach Version stehen separate
     Tasten zum Antreten oder Bremsen zur Verfügung.
 *   **Sprung (optional):** Mit Leertaste oder Pfeil nach oben kannst du über
-
-- **Balance**: Maintain character balance, avoiding falls or loss of control.
     kleine Hindernisse springen, sofern der Modus das unterstützt.
+*   **Balance halten:** Achte auf die Balance deiner Figur, um Stürze oder
+    Kontrollverlust zu vermeiden.
 
 ### Häufige Fragen (FAQ)
 

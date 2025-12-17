@@ -28,8 +28,8 @@ Sprunki: Cool As Ice ist weit mehr als ein simples Skin-Pack. Die Figuren, Anima
 
 ### So spielst du Sprunki: Cool As Ice
 
+Die Bedienung ist wirklich einfach – hier die wichtigsten Punkte:
 
-It's actually very simple, just master these points:
 - **Schneefiguren auswählen:** Suche dir aus den vielen aufwendig gestalteten Eis- und Schneefiguren deine Favoriten aus. Jede Figur bringt eigene winterliche Sounds mit.
 - **Eigene Tracks bauen:** Wie bei Incredibox ziehst du die Charaktere auf die Slots und aktivierst damit Beats, Melodien und Effekte – hier alles im coolen Eis-Stil.
 - **Versteckte Specials entdecken:** Bestimmte Kombinationen schalten geheime Animationen oder Soundsequenzen frei.
@@ -50,12 +50,8 @@ It's actually very simple, just master these points:
 - **Einfache Bedienung:** Dank des gewohnten Sprunki-/Incredibox-Prinzips finden sowohl Neulinge als auch Profis schnell rein.
 - **Aktive Szene:** Viele Spieler teilen ihre Kreationen online, wodurch ständig neue Ideen und Kombinationen entstehen.
 
+---
+
+### Fazit
+
 Sprunki: Cool As Ice ist damit ein Muss für alle, die Musikspiele mögen und ihren Mix gern in eine coole Winterwelt verlegen wollen – mit optionalem Gruselfaktor.
-
-
-Sprunki: Cool As Ice is a major innovation in the Incredibox family, and it brings a new perspective to music creation through its unique winter theme. The engaging gameplay, unique sound library, and strong community interaction make Sprunki: Cool As Ice an essential experience for both Incredibox enthusiasts and newcomers! Come and join Sprunki: Cool As Ice, use your music to light up this cold winter!
-
-### Conclusion:
-
-
-Sprunki: Cool As Ice is a major innovation in the Incredibox family, and it brings a new perspective to music creation through its unique winter theme. The engaging gameplay, unique sound library, and strong community interaction make Sprunki: Cool As Ice an essential experience for both Incredibox enthusiasts and newcomers! Come and join Sprunki: Cool As Ice, use your music to light up this cold winter!

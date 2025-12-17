@@ -16,39 +16,30 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### Présentation détaillée
 
-Panda Pizza Parlor est un jeu de cuisine rapide dans lequel tu diriges ta propre pizzeria tenue par un panda. Tu prends les commandes, prépares les pizzas avec les bons ingrédients, les cuis à la bonne durée puis les sers à une clientèle animale impatiente. Plus tu progresses, plus les commandes s’enchaînent vite, et plus tu dois gérer en parallèle plusieurs pizzas au four.
+Bienvenue chez Panda Pizza Parlor, un jeu de cuisine charmant et rapide où tu gères ta propre pizzeria ! En tant que chef panda en chef, ton travail est de prendre les commandes, préparer de délicieuses pizzas avec les bonnes garnitures, les cuire à la perfection et les servir à une variété de clients animaux affamés. Gère efficacement ton temps pour garder tes clients satisfaits, gagner de l'argent et faire grandir ton commerce de pizza d'une humble pizzeria à un restaurant de renommée mondiale.
 
 ### Stratégies de jeu et progression
 
-1.  **Lire la commande :** dès qu’un client arrive, vérifie la bulle au‑dessus de sa tête pour voir la base et les garnitures souhaitées.  
-2.  **Préparer efficacement :** commence par la pâte, la sauce, puis ajoute les ingrédients demandés dans le bon ordre pour éviter les erreurs.  
-3.  **Surveiller la cuisson :** garde un œil sur le temps passé au four ; une pizza trop cuite ou insuffisamment cuite rendra le client mécontent.  
-4.  **Servir rapidement :** plus tu sers vite, meilleurs sont les pourboires et plus tu gagnes d’argent.  
-5.  **Gérer plusieurs commandes :** apprends à lancer plusieurs pizzas en parallèle et à les sortir dans le bon ordre.
+1.  **Vérifier la commande :** dès qu'un client arrive, regarde la bulle au‑dessus de sa tête pour voir quel type de pizza il veut. Fais bien attention aux garnitures.
+2.  **Préparer la pizza :** commence par attraper une boule de pâte. Ajoute la sauce tomate, puis applique les garnitures spécifiques demandées par le client.
+3.  **Cuire à la perfection :** place la pizza dans le four. Garde un œil sur le minuteur ! Une pizza pas assez cuite ou brûlée rendra tes clients mécontents.
+4.  **Servir rapidement :** une fois la pizza parfaitement cuite, sors‑la et sers‑la au client qui attend. Plus tu sers vite, meilleur est ton pourboire et plus le client est satisfait.
+5.  **Gérer plusieurs commandes :** au fur et à mesure que tu progresses, tu devras jongler avec plusieurs commandes en même temps. Crée un workflow qui te permet de préparer plusieurs pizzas simultanément pour répondre à la demande.
 
 ### Commandes
 
-- Le jeu se joue à la souris : clique pour sélectionner la pâte, la sauce, les toppings, mettre au four, sortir la pizza et la servir au client.
+*   **Pointer et cliquer :** le jeu se joue entièrement à la souris.
+*   **Sélectionner les ingrédients :** clique sur la pâte, la sauce et les garnitures pour les ajouter à la pizza.
+*   **Utiliser le four :** clique sur le four pour y placer la pizza et clique à nouveau pour la sortir.
+*   **Servir le client :** clique sur la pizza terminée puis sur le client pour le servir.
 
-
-- **Serve Customer:** Click on the finished pizza and then on the customer to serve them.
-
-- **Use Oven:** Click on the oven to place the pizza inside and click again to take it out.
-
-- **Select Ingredients:** Click on the dough, sauce, and toppings to add them to the pizza.
 ### Foire aux questions (FAQ)
 
-- **Q : Que se passe‑t‑il si je me trompe d’ingrédients ?**  
-  **R :** Le client sera insatisfait et partira sans payer, ce qui fait baisser ton revenu et parfois ta note.
+*   **Q : Que se passe‑t‑il si je me trompe de commande ?**
+    *   **R :** Si tu utilises les mauvaises garnitures ou brûles la pizza, le client se fâchera et partira. Tu ne seras pas payé pour cette commande.
 
-    - **Q : Y a‑t‑il des améliorations ?**  
+*   **Q : Comment servir les clients plus vite ?**
+    *   **R :** Essaie d'anticiper les commandes et de préparer les bases de pizza courantes à l'avance pendant les moments calmes. Une fois à l'aise, tu peux commencer à faire plusieurs pizzas en même temps.
 
-- **A:** As you progress through the levels, you will unlock new toppings and menu items, which adds more complexity and challenge to the game.
-
-    - **Q: Are there upgrades in the game?**
-
-- **A:** Try to anticipate orders and prepare common pizza bases in advance during slower moments. As you get more comfortable, you can start making multiple pizzas at the same time.
-
-    - **Q: How can I serve customers faster?**
-  **R :** Au fil des niveaux, tu débloques de nouveaux ingrédients et options ; certaines versions permettent aussi d’accélérer les fours ou d’augmenter la capacité.
-
+*   **Q : Y a‑t‑il des améliorations dans le jeu ?**
+    *   **R :** Au fur et à mesure que tu progresses dans les niveaux, tu débloqueras de nouvelles garnitures et éléments de menu, ce qui ajoute plus de complexité et de défi au jeu.

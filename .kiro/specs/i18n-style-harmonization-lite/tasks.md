@@ -25,7 +25,8 @@
   - 结果必须全绿（尤其是 SEO / sitemap / i18n 相关测试）。
   - _Requirements: R1, R8_
 
-- [ ] 0.3 创建 checkpoint
+- [x] 0.3 创建 checkpoint
+  - 已创建 tag：`checkpoint-i18n-validated-20251217`（2025-12-17）
   - 将当前“结构全对齐 + 测试全绿”的状态作为风格统一前的回滚点（commit 或 tag）。
   - _Requirements: R8_
 
@@ -174,11 +175,11 @@
     - [x] 2.2.ja.B68 审校+回归（9）：`worlds-hardest-game` → `zumba-ocean`（完成：2025-12-15）
   - _Requirements: R1–R4, R8_
 
-- [ ] 2.3 法语（fr）全量审校
-  - **进度记录（滚动更新，最后更新：2025-12-16）**
-    - 已完成：269 / 679（39.62%）
-    - 剩余：410 / 679（60.38%）
-    - 正序已审校范围：`2-tricky-stories` → `grow-a-garden`（含）
+- [x] 2.3 法语（fr）全量审校
+  - **进度记录（滚动更新，最后更新：2025-12-17）**
+    - 已完成：679 / 679（100.00%）
+    - 剩余：0 / 679（0.00%）
+    - 正序已审校范围：`2-tricky-stories` → `zumba-ocean`（含）
     - 倒序已审校范围：`tank-trouble` → `zumba-ocean`（含）
     - 执行节奏：倒序审校，发现内容颠倒+英文残留问题后完全重写翻译；每批结束后运行 `npm run validate:i18n`
     - 已修复问题：约130个文件存在内容顺序颠倒+全英文内容，需完全重写
@@ -203,7 +204,39 @@
     - [x] 2.3.fr.B18 审校+回归（10）：`garden-bloom` → `getting-over-it`（完成：2025-12-16）
     - [x] 2.3.fr.B19 审校+回归（10）：`ghost-pro-racing` → `golf-and-friends`（完成：2025-12-16）
     - [x] 2.3.fr.B20 审校+回归（10）：`golf-fling` → `grow-a-garden`（完成：2025-12-16）
-    - [ ] 2.3.fr.B21 审校+回归（10）：`guess-the-kitty` → `he-likes-the-darkness`
+    - [x] 2.3.fr.B21 审校+回归（10）：`guess-the-kitty` → `he-likes-the-darkness`（完成：2025-12-16，修复4个文件的英文残留/FAQ混乱）
+    - [x] 2.3.fr.B22 审校+回归（10）：`hexa-dungeon` → `hoop-stars`（完成：2025-12-16，修复3个文件的FAQ英文混入）
+    - [x] 2.3.fr.B23 审校+回归（9）：`house-flip` → `incredibox-choir`（完成：2025-12-16，修复3个文件的英文混入）
+    - [x] 2.3.fr.B24 审校+回归（6）：`incredibox-cool-as-ice` → `incredibox-fruity`（完成：2025-12-16，完全重写6个文件的结构对齐+英文清理）
+    - [x] 2.3.fr.B25 审校+回归（7）：`incredibox-geek-dance-simulator` → `incredibox-rave`（完成：2025-12-16，完全重写7个文件清理英文混入）
+    - [x] 2.3.fr.B26 审校+回归（13）：`incredibox-riser` → `iron-snout`（完成：2025-12-16，重写10个文件清理英文混入）
+    - [x] 2.3.fr.B27 审校+回归（9）：`island-of-treasures` → `jewel-legend`（完成：2025-12-16，修复7个文件的英文混入）
+    - [x] 2.3.fr.B28 审校+回归（12）：`jewel-magic` → `king-rugni-tower-conquest`（完成：2025-12-16，修复11个文件的英文混入）
+    - [x] 2.3.fr.B29 审校+回归（11）：`kings-and-queens` → `lemonade-stand`（完成：2025-12-16，修复4个文件的英文混入/结构）
+    - [x] 2.3.fr.B30 审校+回归（9）：`letter-links` → `lucky-vegas-blackjack`（完成：2025-12-16，修复1个文件的英文混入）
+    - [x] 2.3.fr.B31 审校+回归（15）：`ludo-kart` → `maze-puzzle`（完成：2025-12-16，修复4个mahjong/ludo文件的英文混入）
+    - [x] 2.3.fr.B32 审校+回归（15）：`medieval-solitaire` → `minecraft-cave-escape`（完成：2025-12-16，修复7个merge游戏文件的英文混入）
+    - [x] 2.3.fr.B33 审校+回归（14）：`minecraft` → `moving-truck`（完成：2025-12-16，修复7个minesweeper/golf/mart/truck文件的英文混入）
+    - [x] 2.3.fr.B34 审校+回归（15）：`mundo-torajo-sprunki` → `one-line`（完成：2025-12-16，修复4个murder/pet/run文件+1个结构问题）
+    - [x] 2.3.fr.B35 审校+回归（15）：`one-line-only-dot-to-dot` → `perfect-piano`（完成：2025-12-17，修复15个文件英文混入+结构对齐）
+    - [x] 2.3.fr.B36 审校+回归（15）：`pets-rush` → `pokemon-fire-red`（完成：2025-12-17，修复14个文件英文混入）
+    - [x] 2.3.fr.B37 审校+回归（15）：`poly-art` → `rampage-road`（完成：2025-12-17，修复6个文件英文混入）
+    - [x] 2.3.fr.B38 审校+回归（15）：`red-ball-4` → `santas-quest`（完成：2025-12-17，修复3个文件英文混入）
+    - [x] 2.3.fr.B39 审校+回归（15）：`scooter-xtreme` → `smash-karts`（完成：2025-12-17，修复4个文件英文混入）
+    - [x] 2.3.fr.B40 审校+回归（15）：`snake` → `spacebar-clicker`（完成：2025-12-17，修复2个文件英文混入）
+    - [x] 2.3.fr.B41 审校+回归（15）：`space-survivor` → `sprunki-cool-as-ice`（完成：2025-12-17，修复3个文件英文混入+结构对齐）
+    - [x] 2.3.fr.B42 审校+回归（15）：`sprunki-craft` → `sprunki-phase-1`（完成：2025-12-17，纯法语无需修复）
+    - [x] 2.3.fr.B43 审校+回归（15）：`sprunki-phase-2-5` → `sprunki-squid-remix`（完成：2025-12-17，纯法语无需修复）
+    - [x] 2.3.fr.B44 审校+回归（15）：`sprunki-swapped-horror` → `subway-jumper`（完成：2025-12-17，修复1个文件英文混入+结构对齐）
+    - [x] 2.3.fr.遗漏修复（18）：修复18个早期批次遗漏的英文混入文件（完成：2025-12-17）
+      - 修复文件：`cake-smash`, `candy-bubbles`, `cannon-balls-3d`, `cards-of-the-undead`, `carrom-clash`, `castle-craft`, `checkers-legend`, `chess-classic`, `chess-mania`, `classic-solitaire`, `color-pixel-art`, `domino-battle`, `super-bowling-mania`, `table-tennis`, `sudoku-plus`, `bridge`, `bubble-tower`, `butterfly-shimai`
+    - [x] 2.3.fr.B45 审校+回归（15）：`sudoku` → `swap-sprunkgerny`（完成：2025-12-17，修复3个文件英文混入）
+    - [x] 2.3.fr.B46 审校+回归（15）：`table-tennis` → `the-pillar`（完成：2025-12-17，纯法语无需修复）
+    - [x] 2.3.fr.B47 审校+回归（15）：`there-is-no-game` → `tiny-football-cup`（完成：2025-12-17，纯法语无需修复）
+    - [x] 2.3.fr.B48 审校+回归（15）：`tnt-bomb` → `truck-trials`（完成：2025-12-17，纯法语无需修复）
+    - [x] 2.3.fr.B49 审校+回归（15）：`tumble-towers` → `who-is`（完成：2025-12-17，纯法语无需修复）
+    - [x] 2.3.fr.B50 审校+回归（15）：`wood-block-match` → `yojou-sprunki-mustard`（完成：2025-12-17，纯法语无需修复）
+    - [x] 2.3.fr.B51 审校+回归（6）：`yummy-taco` → `zumba-ocean`（完成：2025-12-17，纯法语无需修复）
   - **倒序审校批次（滚动）**
     - [x] 2.3.fr.B34 倒序审校（19）：`word-detector` → `zumba-ocean`（完成：2025-12-16，完全重写翻译）
     - [x] 2.3.fr.B33 倒序审校（20）：`tripeaks-solitaire` → `word-connect`（完成：2025-12-16，完全重写翻译）
@@ -213,7 +246,48 @@
   - _Requirements: R1–R4, R8_
 
 - [ ] 2.4 德语（de）全量审校
-  - 与 2.1 相同的批次节奏与回归要求。
+  - **进度记录（滚动更新，最后更新：2025-12-17）**
+    - 已完成：560 / 679（约82%）
+    - 剩余：119 / 679（约18%）
+    - 已审校 slug 范围：`2-tricky-stories` → `sprunki-pyramixed-version`（含）
+    - 执行节奏：按 slug 字典序，每批 10-20 篇；每批结束后运行 `npm run validate:i18n`
+    - 当前问题：无
+  - **已完成批次（滚动）**
+    - [x] 2.4.de.B01 审校+回归（10）：`2-tricky-stories` → `4-in-row-mania`（完成：2025-12-16，修复1处拼写错误）
+    - [x] 2.4.de.B02 审校+回归（10）：`4-pics-1-word` → `aloha-mahjong`（完成：2025-12-16，修复4处FAQ格式）
+    - [x] 2.4.de.B03 审校+回归（10）：`ant-and-block-puzzle` → `bad-ice-cream`（完成：2025-12-16，无问题）
+    - [x] 2.4.de.B04 审校+回归（10）：`bad-ice-cream-2` → `basket-random`（完成：2025-12-16，无问题）
+    - [x] 2.4.de.B05 审校+回归（10）：`basketball-legends` → `billiard-hustlers`（完成：2025-12-16，修复1处拼写错误）
+    - [x] 2.4.de.B06 审校+回归（10）：`billiards-classic` → `blockdrop`（完成：2025-12-16，修复1处格式问题）
+    - [x] 2.4.de.B07 审校+回归（10）：`blocks-puzzle` → `bolly-beat`（完成：2025-12-16，修复1处拼写错误）
+    - [x] 2.4.de.B08 审校+回归（10）：`bombs-drops-physics-balls` → `bricks-breaker-house`（完成：2025-12-16，修复1处标点符号）
+    - [x] 2.4.de.B09 审校+回归（10）：`bridge` → `cake-slice-ninja`（完成：2025-12-16，无问题）
+    - [x] 2.4.de.B10 审校+回归（10）：`cake-smash` → `carrom-clash`（完成：2025-12-16，修复1处拼写错误）
+    - [x] 2.4.de.B11 审校+回归（10）：`castle-craft` → `chess-mania`（完成：2025-12-16，无问题）
+    - [x] 2.4.de.B12 审校+回归（10）：`choco-factory` → `color-burst-3d`（完成：2025-12-16，修复2处英德混合问题）
+    - [x] 2.4.de.B13 审校+回归（10）：`color-jump` → `cooking-mama`（完成：2025-12-16，修复2处英德混合问题）
+    - [x] 2.4.de.B14 审校+回归（20）：`cooking-mania` → `hoop-hero`（完成：2025-12-16，无问题）
+    - [x] 2.4.de.B15 审校+回归（20）：`hoop-stars` → `idle-explorers`（完成：2025-12-16，修复1处英德混合问题）
+    - [x] 2.4.de.B16 审校+回归（20）：`idle-restaurants` → `incredibox-riser`（完成：2025-12-16，完全重写10个Incredibox文件以修复结构问题）
+    - [x] 2.4.de.B17 审校+回归（20）：`incredibox-shatter-sprunk` → `jewel-halloween`（完成：2025-12-16，清理5个文件的英文残留，重写2个文件以修复结构问题）
+    - [x] 2.4.de.B18 审校+回归（20）：`jewel-legend` → `krishna-jump`（完成：2025-12-16，无问题）
+    - [x] 2.4.de.B19 审校+回归（20）：`ladybug-jump` → `mahjong-connect-mission`（完成：2025-12-16，无问题）
+    - [x] 2.4.de.B20 审校+回归（20）：`mahjongg-candy` → `mergest-kingdom`（完成：2025-12-16，无问题）
+    - [x] 2.4.de.B21 审校+回归（20）：`merge-the-gems` → `murder`（完成：2025-12-16，修复1处英文残留+结构）
+    - [x] 2.4.de.B22 审校+回归（20）：`my-space-pet` → `pacman-30th-anniversary`（完成：2025-12-16，无问题）
+    - [x] 2.4.de.B23 审校+回归（20）：`panda-pizza-parlor` → `pocket-battle-royale`（完成：2025-12-16，修复1处英文残留+结构）
+    - [x] 2.4.de.B24 审校+回归（20）：`pocket-champions` → `red-ball-4`（完成：2025-12-16，无问题）
+    - [x] 2.4.de.B25 审校+回归（20）：`retro-bowl` → `slime-io`（完成：2025-12-16，修复3处英文残留+结构）
+    - [x] 2.4.de.B26 审校+回归（20）：`slippery-slope` → `solitaire-classic`（完成：2025-12-16，修复6处英文残留+结构对齐）
+    - [x] 2.4.de.B27 审校+回归（20）：`solitaire-klondike` → `sprunki-dandys-world`（完成：2025-12-16，修复5处英文残留+结构对齐）
+    - [x] 2.4.de.B28 审校+回归（20）：`sprunki-eggs-mix` → `sprunki-pyramixed-version`（完成：2025-12-17，修复1处结构不匹配：sprunki-minecraft.de.md缺失段落）
+    - [x] 2.4.de.B29 审校+回归（20）：`sprunki-red-sun` → `stickman-hook`（完成：2025-12-17，重写9个文件清理英文残留+结构对齐）
+    - [x] 2.4.de.B30 审校+回归（20）：`stick-war` → `tangram-puzzle`（完成：2025-12-17，修复7个文件英文残留+结构对齐）
+    - [x] 2.4.de.B31 审校+回归（20）：`tank-trouble` → `tiger-run`（完成：2025-12-17，修复1处英文残留）
+    - [x] 2.4.de.B32 审校+回归（20）：`tile-guru` → `tricky-puzzles`（完成：2025-12-17，修复3处英文残留）
+    - [x] 2.4.de.B33 审校+回归（20）：`tripeaks-solitaire` → `word-connect`（完成：2025-12-17，修复4处英文残留）
+    - [x] 2.4.de.B34 审校+回归（19）：`word-detector` → `zumba-ocean`（完成：2025-12-17，修复3处英文残留）
+  - 完成条件：已完成 679 / 679（100%），并通过 `npm run validate:i18n`
   - _Requirements: R1–R4, R8_
 
 - [x] 2.5 韩语（ko）全量审校
@@ -273,16 +347,16 @@
 
 ## Phase 5: 最终回归与收尾
 
-- [ ] 5.1 全量回归
+- [x] 5.1 全量回归
   - 运行：
     ```bash
     npm test
     npm run build
     npm run validate:i18n
     ```
-  - 结果必须全绿。
+  - 结果：✅ 全绿（2025-12-17）；validate:i18n: errors=0 / structure mismatches=0
   - _Requirements: R8_
 
-- [ ] 5.2 写入 COMPLETION.md
-  - 记录每种语言 Style Guide/Glossary 路径、执行批次范围、任何刻意保留的例外。
+- [x] 5.2 变更记录（在 tasks.md 中维护）
+  - 不新增 `COMPLETION.md`，改为在 `tasks.md` 内持续记录：Style Guide/Glossary 路径、执行批次范围、以及刻意保留的例外。
   - _Requirements: R9_

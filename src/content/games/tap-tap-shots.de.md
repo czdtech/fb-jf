@@ -30,8 +30,7 @@ Tap Tap Shots ist ein minimalistisches, aber stark suchterzeugendes Arcade‑Bas
 
 ### Steuerung
 
-
-The controls are extremely simple:
+Die Steuerung ist extrem einfach:
 - **PC:** `Linke Maustaste` oder `Leertaste` zum Tippen.
 - **Mobil:** Bildschirm antippen.
 

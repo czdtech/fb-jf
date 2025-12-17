@@ -19,40 +19,28 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### Detaillierte Spieleinführung
 
-TNT Bomb ist ein taktisches Abriss‑Spiel mit realistischer Physik. In jedem Level bekommst du ein Gebäude und eine begrenzte Anzahl an Sprengsätzen. Deine Aufgabe ist es, die Bomben so zu platzieren, dass möglichst viel der Konstruktion einstürzt. Indem du tragende Elemente identifizierst und den passenden Sprengstoff nutzt, versuchst du, die Struktur komplett zu zerstören und das Level‑Ziel zu erreichen.
+TNT Bomb ist ein strategisches, physikbasiertes Puzzle-Spiel, bei dem dein Ziel der Abriss ist. In jedem Level bekommst du eine Struktur und ein begrenztes Inventar an Sprengstoff präsentiert. Deine Aufgabe ist es, deine Bomben sorgfältig an der Struktur zu platzieren, um den meisten Schaden anzurichten. Indem du wichtige Stützpunkte identifizierst und die richtige Bombe für die Aufgabe verwendest, musst du versuchen, die gesamte Struktur zu zerstören, um zur nächsten Herausforderung zu gelangen.
 
 ### Spielstrategie & Walkthrough
 
-1. **Gebäude analysieren:** Schau dir vor dem Platzieren der Bomben die Statik an. Suche nach Schwachstellen, tragenden Balken und wichtigen Stützen im Fundament.
-2. **Fundament angreifen:** Am effektivsten ist fast immer, die Basis zu zerstören. Lege deine stärksten Ladungen an die unteren Stützblöcke – bricht das Fundament weg, fällt der Rest oft von allein.
-3. **Sprengstoff kennen:** Du hast unterschiedliche Bombentypen. Klassisches TNT eignet sich für einzelne Blöcke, während größere Ladungen einen deutlich größeren Explosionsradius haben. Setze jede Art gezielt ein.
-4. **Kettenreaktionen planen:** Überlege dir, wie Trümmer nach der Explosion fallen werden. Eine gut platzierte Bombe kann Teile des Gebäudes auf andere stürzen lassen und so mehr Schaden anrichten, als die Explosion allein schaffen würde.
+1.  **Struktur analysieren:** Bevor du irgendwelche Bomben platzierst, untersuche das Design der Struktur. Suche nach Schwachstellen, wichtigen Stützbalken und tragenden Blöcken an der Basis.
+2.  **Fundament anvisieren:** Die effektivste Strategie ist fast immer, das Fundament zu zerstören. Das Platzieren deiner stärksten Sprengladungen an den untersten Stützblöcken wird die gesamte Struktur destabilisieren und sie unter ihrem eigenen Gewicht einstürzen lassen.
+3.  **Kenne deine Sprengladungen:** Du wirst verschiedene Bombentypen haben. Ein Standard-TNT-Stab könnte gut für einen einzelnen Block sein, während eine größere C4-Bombe einen viel größeren Explosionsradius hat. Nutze das richtige Werkzeug für die richtige Aufgabe.
+4.  **Kettenreaktionen:** Denk darüber nach, wie sich die Explosion ausbreiten wird. Das Platzieren einer Bombe, die einen Teil der Struktur auf einen anderen fallen lässt, kann eine Kettenreaktion auslösen, die zu mehr Zerstörung führt, als die Bombe allein erreichen könnte.
 
 ### Steuerung
 
-- **Bombe wählen:** Klicke auf den gewünschten Sprengstoff in deinem Inventar.
-- **Bombe platzieren:** Klicke auf einen Block oder Abschnitt des Gebäudes, um dort die Ladung zu befestigen.
-- **Zünden:** Wenn alle Bomben gesetzt sind, klickst du auf den „Boom“‑ oder „Detonate“‑Button und schaust dem Einsturz zu.
+*   **Bombe auswählen:** Klicke auf den Typ von Sprengstoff, den du aus deinem Inventar verwenden möchtest.
+*   **Bombe platzieren:** Klicke auf einen Block innerhalb der Struktur, um die ausgewählte Bombe zu platzieren.
+*   **Zünden:** Sobald du alle verfügbaren Bomben platziert hast, klicke auf den "Boom"- oder "Zünden"-Knopf, um das Feuerwerk zu beobachten.
 
-### Häufige Fragen (FAQ)
+### Häufig gestellte Fragen (FAQ)
 
+*   **F: Was ist das Ziel jedes Levels?**
+    *   **A:** Das Ziel ist, genug Zerstörung anzurichten, um die Anforderung des Levels zu erfüllen, was normalerweise bedeutet, einen bestimmten Prozentsatz der Blöcke zu zerstören (oft 100%).
 
-- **A:** Yes, you must place all the bombs provided in your inventory for that level before you can detonate them.
+*   **F: Warum ist das Gebäude nicht eingestürzt?**
+    *   **A:** Du hast deine Bomben wahrscheinlich an einer ineffektiven Stelle platziert. Versuche, sie weiter unten an den Hauptstützblöcken zu platzieren, anstatt an den Außenwänden oder oben.
 
-    - **Q: Can I place more than one bomb?**
-
-- **A:** You likely placed your bombs in an ineffective location. Try placing them lower down on the main support blocks instead of on the outer walls or at the top.
-
-    - **Q: Why didn't the building fall down?**
-
-- **A:** The goal is to cause enough destruction to meet the level's requirement, which is usually to destroy a certain percentage of the blocks (often 100%).
-
-    - **Q: What is the goal of each level?**
-**Was ist das Ziel eines Levels?**  
-In der Regel musst du einen bestimmten Zerstörungsgrad erreichen – oft 100 % oder einen Mindestprozentsatz der Struktur.
-
-**Warum fällt das Gebäude nicht um, obwohl ich gesprengt habe?**  
-Wahrscheinlich lagen die Ladungen an ungünstigen Stellen. Versuch, tiefer am Fundament oder direkt an tragenden Kernblöcken zu sprengen, statt nur Außenwände zu beschädigen.
-
-**Kann ich mehrere Bomben setzen?**  
-Ja, du musst in der Regel alle dir zugewiesenen Sprengsätze platzieren, bevor du zündest. Nutze sie koordiniert, statt sie zufällig zu verteilen.
+*   **F: Kann ich mehr als eine Bombe platzieren?**
+    *   **A:** Ja, du musst alle Bomben, die dir im Inventar für dieses Level zur Verfügung stehen, platzieren, bevor du sie zünden kannst.

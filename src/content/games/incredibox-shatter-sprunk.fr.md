@@ -14,41 +14,37 @@ tags:
 score: 4.5/5  (614 votes)
 ---
 
-
-### Pourquoi Incredibox Shatter Sprunk est fun ?
-
-Incredibox Shatter Sprunk est un mod qui mixe le gameplay classique d’Incredibox avec l’esthétique décalée **Sprunki**. Tu crées tes propres morceaux avec une galerie de personnages jaunes très marqués, chacun portant un son bien distinct.
-
-### Comment jouer à Shatter Sprunk ?
-
-Le fonctionnement reste très simple :
-
-- **Choisir des personnages** : une rangée de personnages animés t’attend, chacun lié à un type de son (rythme, effet, mélodie, voix).  
-- **Drag & drop des sons** : fais glisser les icônes sonores sur les personnages pour activer leurs boucles ; enlève une icône pour couper le son.  
-- **Empiler les couches** : ajoute plusieurs personnages sur scène pour construire un morceau riche ; joue sur les entrées/sorties pour trouver le meilleur équilibre.  
-- **Expérimenter** : n’hésite pas à remplacer des sons, tester d’autres combinaisons et écouter comment les couches interagissent.  
-- **Bonus cachés** : certaines combinaisons déclenchent des animations ou sections spéciales ; à toi de les découvrir.  
-
-
-- **Save and Share:** Once satisfied with your mix, use the game’s save or share feature to record your creation or share it with others.
-Ton but n’est pas de « gagner », mais de créer un morceau qui te plaît.
-
-### Contrôles souris
-
-
-The operation of Incredibox Shatter Sprunk is very simple, you can easily complete it with the mouse:
-- Clic gauche + glisser pour placer ou retirer une icône sur un personnage.  
-- Selon le mod, tu peux aussi ajuster le tempo, mettre en pause ou réarranger les sons à l’aide de boutons dédiés.
-
-
-- **Pause/Play:** If the Mod includes a pause feature, click a designated button (often a play/pause icon) to stop and rearrange sounds without losing your progress.
-
-- **Adjust Tempo:** Some Mods include a tempo slider or buttons - click and drag or click to adjust the speed of your mix.
-
-- **Hover Feedback:** Hovering over icons or characters may reveal tooltips or previews of the sound, helping you choose without committing.
-### Points forts
-
-- **Prise en main immédiate** : parfait pour tous les âges.  
-- **Style Sprunki unique** : univers visuel marqué qui renouvelle la formule Incredibox.  
-- **Exploration** : plusieurs animations cachées et surprises à dénicher au fil de tes essais.
-
+### Qu'est‑ce qui rend Incredibox Shatter Sprunk si fun ?
+ 
+Incredibox Shatter Sprunk, un mod fan‑made, te plonge dans un monde musical qui combine le gameplay classique d'Incredibox avec le style décalé de Sprunki ! Ici, tu créeras tes propres œuvres musicales avec un groupe de personnages animés uniques.
+ 
+### Comment jouer à Incredibox Shatter Sprunk ?
+ 
+Le gameplay est très simple, tu peux te lancer en quelques étapes :
+ 
+ - **Sélectionne les personnages :** Tu verras une rangée de personnages uniques et animés inspirés du thème Sprunki. Chaque personnage représente une catégorie de son spécifique.
+ - **Glisse et dépose les sons :** Avec ta souris, fais glisser les icônes sonores depuis le bas ou le côté de l'écran et dépose‑les sur les personnages. Chaque icône active une boucle sonore que le personnage jouera.
+ - **Superpose ton mix :** Ajoute plusieurs personnages sur scène, combinant leurs sons pour construire une piste musicale en couches. Tu peux avoir plusieurs personnages actifs en même temps, selon le design du mod.
+ - **Expérimente et ajuste :** Retire ou échange des sons en faisant glisser les icônes hors des personnages ou en les remplaçant par de nouvelles. Écoute comment les couches interagissent et ajuste‑les pour créer un mix cohérent.
+ - **Débloque des bonus (optionnel) :** Certaines combinaisons de sons peuvent déclencher des animations spéciales ou des pistes bonus — expérimente pour découvrir ces fonctionnalités cachées.
+ - **Sauvegarde et partage :** Une fois satisfait de ton mix, utilise la fonction de sauvegarde ou de partage du jeu pour enregistrer ta création ou la partager avec d'autres.
+ 
+ 
+**Dans Incredibox Shatter Sprunk, ton objectif n'est pas de « gagner », mais de créer des œuvres musicales que tu aimes.**
+ 
+### Commandes à la souris :
+ 
+L'utilisation d'Incredibox Shatter Sprunk est très simple, tu peux tout faire facilement avec la souris :
+ 
+ - **Clic gauche et glisser :** Clique sur une icône sonore, maintiens le bouton de la souris et fais‑la glisser vers un personnage. Relâche pour assigner le son. Le personnage commencera immédiatement à jouer la boucle.
+ - **Retirer des sons :** Pour arrêter un son, clique et fais glisser l'icône hors du personnage, ou dans certaines versions, fais un clic droit sur le personnage pour le couper ou le retirer (la fonctionnalité peut varier selon la version du mod).
+ - **Retour au survol :** Survoler les icônes ou les personnages peut révéler des infobulles ou des aperçus du son, t'aidant à choisir sans t'engager.
+ - **Ajuster le tempo :** Certains mods incluent un curseur ou des boutons de tempo — clique et fais glisser ou clique pour ajuster la vitesse de ton mix.
+ - **Pause/Lecture :** Si le mod inclut une fonction pause, clique sur un bouton dédié (souvent une icône lecture/pause) pour arrêter et réarranger les sons sans perdre ta progression.
+ 
+ 
+### Points forts d'Incredibox Shatter Sprunk :
+ 
+ - **Utilisation simple et facile :** L'opération à la souris est simple et intuitive, permettant aux joueurs de tous âges et niveaux de compétence de se lancer facilement.
+ - **Style Sprunki unique :** Combine le style bizarre et innovant de Sprunki, te permettant de vivre un Incredibox différent.
+ - **Plaisir de l'exploration :** Découvre des animations cachées et des effets spéciaux, rendant ton processus de création plein de surprises.
