@@ -319,10 +319,18 @@
 
 ## Phase 3: 全局术语与句式轻量统一（可选但推荐）
 
-- [ ] 3.1 术语安全替换（脚本驱动）
+- [x] 3.1 术语安全替换（脚本驱动）
   - 基于各 `GLOSSARY.<lang>.md`，列出“可安全替换”的术语对照表。
   - 每种语言先在 3–5 个 slug 小样本上试跑替换，再全量跑。
   - 每次脚本后运行 `npm run validate:i18n` 保持 mismatch=0。
+  - 执行记录（2025-12-17）：
+    - zh：`计时器` → `倒计时`
+    - ko：`리더보드` → `랭킹`
+    - ja：`残機` → `ライフ`
+    - fr：`power-up(s)` → `bonus`
+    - de：`Plattformer` → `Plattformspiel`；`Schießspiel/Schiessspiel` → `Shooter`
+    - es：`rompecabezas` → `puzle`
+    - 回归：✅ validate:i18n errors=0 / structure mismatches=0
   - _Requirements: R2, R6, R8_
 
 - [ ] 3.2 高频句式/标点统一

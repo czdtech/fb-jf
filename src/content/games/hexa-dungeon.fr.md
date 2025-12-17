@@ -26,7 +26,7 @@ Hexa Dungeon est un puzzle‑RPG innovant qui combine mécaniques de match‑3 e
 1.  **Chaînes longues = gros dégâts :** essaie de créer les plus longues chaînes possibles. Une chaîne de 5 tuiles inflige bien plus de dégâts qu'une chaîne de 3. Avant de valider un coup, regarde s'il existe un chemin qui relie davantage de tuiles de la même couleur.
 2.  **Planifie plusieurs tours à l'avance :** parfois, réaliser d'abord un petit match de 3 permet de repositionner des tuiles pour un énorme combo au tour suivant. Ne cherche pas systématiquement le plus gros coup immédiat si un meilleur alignement se prépare.
 3.  **Focalise tes attaques :** quand plusieurs ennemis sont présents, choisis souvent une cible prioritaire et concentre‑toi dessus. Éliminer rapidement un monstre réduit le nombre d'attaques que tu subis à chaque tour.
-4.  **Exploite les tuiles spéciales :** surveille les tuiles spéciales : bombes, power‑ups ou autres symboles. Les inclure dans une chaîne déclenche des effets supplémentaires (dégâts de zone, bonus, etc.) qui peuvent retourner une situation difficile.
+4.  **Exploite les tuiles spéciales :** surveille les tuiles spéciales : bombes, bonus ou autres symboles. Les inclure dans une chaîne déclenche des effets supplémentaires (dégâts de zone, bonus, etc.) qui peuvent retourner une situation difficile.
 
 ### Commandes
 

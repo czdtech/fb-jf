@@ -38,5 +38,5 @@ PolyMatch est un jeu de puzzle d'association de tuiles engageant qui met à l'é
 *   **Q : Que se passe‑t‑il si la zone de réserve se remplit ?**
     *   **R :** Si la zone de réserve en bas de l'écran devient pleine (généralement 6 tuiles) et que tu ne peux plus faire d'associations, la partie se termine.
 
-*   **Q : Y a‑t‑il des power‑ups ou des indices ?**
-    *   **R :** Certaines versions de PolyMatch peuvent offrir des power‑ups ou des indices pour t'aider quand tu es bloqué. Ceux‑ci peuvent inclure une option de mélange ou un indice pour révéler une association.
+*   **Q : Y a‑t‑il des bonus ou des indices ?**
+    *   **R :** Certaines versions de PolyMatch peuvent offrir des bonus ou des indices pour t'aider quand tu es bloqué. Ceux‑ci peuvent inclure une option de mélange ou un indice pour révéler une association.

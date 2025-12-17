@@ -18,7 +18,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### Ausführliche Spielbeschreibung
 
-Neon Rider ist ein seitlich dargestellter Bike-Physik-Plattformer, bei dem
+Neon Rider ist ein seitlich dargestellter Bike-Physik-Plattformspiel, bei dem
 alles auf saubere Landungen und Schwung ankommt. Du kontrollierst die Neigung
 deines Bikes in der Luft, dosierst Gas auf unebenem Terrain und verkettst
 Sprünge, ohne zu stark zu rotieren, um dein Tempo zu halten.

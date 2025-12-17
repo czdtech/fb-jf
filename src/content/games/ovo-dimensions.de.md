@@ -3,7 +3,7 @@ locale: de
 urlstr: ovo-dimensions
 title: "OvO Dimensions"
 description: >-
-  OvO Dimensions ist ein anspruchsvoller 2D-Plattformer und erweitert die OvO-
+  OvO Dimensions ist ein anspruchsvoller 2D-Plattformspiel und erweitert die OvO-
   Reihe um neue Mechaniken und Hindernisse. Mit präzisen Sprüngen,
   Wandsprüngen und gut genutztem Schwung arbeitest du dich durch komplexe
   Level und jagst Bestzeiten.
@@ -22,7 +22,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ### Spieleinführung
 
 "OvO Dimensions" führt die bekannte "OvO"-Serie fort und ist ein besonders
- herausfordernder 2D-Plattformer. Neue Mechaniken und Hindernisse zwingen dich
+ herausfordernder 2D-Plattformspiel. Neue Mechaniken und Hindernisse zwingen dich
  dazu, extrem präzise zu springen, an Wänden entlangzugleiten und deinen
  Bewegungs-Schwung optimal zu nutzen, um durch verwinkelte Level zu kommen und
  möglichst schnelle Zeiten aufzustellen. Der hohe Schwierigkeitsgrad der Reihe
@@ -75,6 +75,6 @@ releaseDate: 2025-08-16T00:00:00.000Z
     Stellen gezielt. Es hilft auch, Runs oder Videos anderer Spieler anzuschauen
     und sich dort Tricks abzuschauen.
 4.  **F: Gibt es Ranglisten oder eine Community?**
-    **A:** Viele Hardcore-Plattformer haben aktive Communities und Online-
+    **A:** Viele Hardcore-Plattformspiel haben aktive Communities und Online-
     Ranglisten, in denen Zeiten geteilt und verglichen werden. Schau nach
     Leaderboards oder Foren rund um die OvO-Reihe.

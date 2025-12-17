@@ -32,7 +32,7 @@ herramientas completa para cualquier productor de trap: **bombos 808 pesados,
 hi‑hats frenéticos, sintes oscuros y voces con autotune**.
 
 El objetivo es que crees tus propios temazos de trap, a la vez que resuelves el
-rompecabezas de encontrar los tres bonus animados, todos inspirados en la
+puzle de encontrar los tres bonus animados, todos inspirados en la
 cultura hip‑hop y trap actual.
 
 ### **Estrategia de juego y consejos**

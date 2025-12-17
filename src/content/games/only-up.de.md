@@ -21,7 +21,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 ### Spieleinführung
 
-"Only Up" ist ein extrem anspruchsvoller 3D-Plattformer. Dein Ziel ist es,
+"Only Up" ist ein extrem anspruchsvoller 3D-Plattformspiel. Dein Ziel ist es,
  eine riesige Welt aus schwebenden Objekten, verlassenen Gebäuden und
  seltsamen Konstruktionen immer weiter hinaufzuklettern. Es gibt keinerlei
  Checkpoints – jeder Fehler kann dich aus großer Höhe abstürzen lassen, sodass

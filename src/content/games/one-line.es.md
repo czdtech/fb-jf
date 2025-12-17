@@ -3,7 +3,7 @@ locale: es
 urlstr: one-line
 title: "One Line - Un trazo para conectar todos los puntos"
 description: >-
-  One Line es un rompecabezas minimalista en el que dibujas una única línea
+  One Line es un puzle minimalista en el que dibujas una única línea
   continua para conectar todos los puntos del tablero sin levantar el dedo ni
   repetir ningún camino.
 iframeSrc: 'https://g2.igroutka.ru/games/3/JLgd70b3BNafhVq5/10/igra-odna-liniya/game.html'
@@ -20,7 +20,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 ### Introducción al juego
 
-"One Line" es un rompecabezas minimalista. Tu tarea es dibujar una sola línea
+"One Line" es un puzle minimalista. Tu tarea es dibujar una sola línea
 continua que conecte todos los puntos del tablero sin levantar el dedo ni pasar
  dos veces por el mismo tramo. El juego sirve para entrenar el pensamiento
 lógico y la percepción espacial, con niveles que se vuelven más complejos a

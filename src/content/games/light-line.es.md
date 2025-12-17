@@ -3,7 +3,7 @@ locale: es
 urlstr: light-line
 title: 'Light Line'
 description: >-
-  Light Line es un rompecabezas de trazado de rutas luminosas: conecta nodos
+  Light Line es un puzle de trazado de rutas luminosas: conecta nodos
   sin cruces, gestiona la energía y resuelve niveles con rutas elegantes.
 iframeSrc: 'https://4es9bmcl5tp2o.h5games.usercontent.goog/v/5uo8nsnhp1vjo/'
 thumbnail: /new-images/light-line.png

@@ -25,7 +25,7 @@ d’ingrédients, avec des niveaux de plus en plus denses en blocs et obstacles.
    collecte d’objets plutôt que le simple score.
 2. **Travaille le bas de la grille :** les matches en bas déclenchent plus de
    cascades gratuites.
-3. **Garde les gros power‑ups :** fusionne les bonus (ligne+bombe, etc.) dans
+3. **Garde les gros bonus :** fusionne les bonus (ligne+bombe, etc.) dans
    les zones les plus bouchées.
 4. **Contrôle les bords :** évite de laisser des couleurs inutiles coincées sur
    les côtés.
@@ -39,7 +39,7 @@ d’ingrédients, avec des niveaux de plus en plus denses en blocs et obstacles.
 ### Foire aux questions (FAQ)
 - touche / clique les bonus pour les activer ;
 
-A: Chain power‑ups and prioritize clears that unlock space.
+A: Chain bonus and prioritize clears that unlock space.
 - utilise la pause ou le redémarrage via l’interface.
 
 

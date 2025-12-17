@@ -34,7 +34,7 @@ rapides et résistants.
     Ne vide pas ton chargeur inutilement : recharge quand la vague ralentit pour
     ne pas être à sec en plein rush.
 3.  **Utilise les bonus intelligemment**  
-    Certains niveaux proposent des power‑ups (tir rapide, dégâts accrus,
+    Certains niveaux proposent des bonus (tir rapide, dégâts accrus,
     ralentissement du temps, etc.). Garde‑les pour les vagues les plus
     dangereuses.
 4.  **Priorise les ennemis les plus proches**  

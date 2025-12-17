@@ -19,7 +19,7 @@ Santa Magic Xmas est un jeu de puzzle match‑3 joyeux et festif qui t'immerge d
 
 ### Stratégies de jeu et progression
 
-1.  **Créer des power‑ups festifs :** la meilleure façon de nettoyer le plateau est de fabriquer des objets spéciaux à partir de matches plus grands.
+1.  **Créer des bonus festifs :** la meilleure façon de nettoyer le plateau est de fabriquer des objets spéciaux à partir de matches plus grands.
     *   **Match 4 :** crée un objet spécial qui peut effacer une ligne ou une colonne entière.
     *   **Match 5 (forme L ou T) :** crée une bombe emballée qui explose et nettoie une grande zone.
     *   **Match 5 (en ligne) :** crée une puissante bombe de couleur qui peut effacer tous les objets d'une seule couleur du plateau.

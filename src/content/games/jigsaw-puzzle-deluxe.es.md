@@ -3,7 +3,7 @@ locale: es
 urlstr: jigsaw-puzzle-deluxe
 title: Jigsaw Puzzle Deluxe
 description: >-
-  La experiencia clásica del rompecabezas. Elige entre una enorme biblioteca de
+  La experiencia clásica del puzle. Elige entre una enorme biblioteca de
   imágenes preciosas y complétalas pieza a pieza. Con varios niveles de
   dificultad, es perfecto tanto para principiantes como para expertos.
 iframeSrc: 'https://jigsawpuzzledeluxe.h5games.usercontent.goog/v/5jfat3ipu2790/'
@@ -21,7 +21,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ### Introducción detallada
 
 Jigsaw Puzzle Deluxe lleva a la pantalla la clásica y relajante actividad de
-hacer rompecabezas. Incluye una amplia colección de imágenes de alta calidad en
+hacer puzle. Incluye una amplia colección de imágenes de alta calidad en
 múltiples categorías. Eliges la ilustración que más te guste y el nivel de
  dificultad, que determina el número de piezas. El objetivo es reunir todas las
 piezas dispersas para reconstruir la imagen original.

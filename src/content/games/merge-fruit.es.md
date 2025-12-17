@@ -3,7 +3,7 @@ locale: es
 urlstr: merge-fruit
 title: "Merge Fruit - Fusión jugosa con físicas"
 description: >-
-  Merge Fruit es un rompecabezas de soltar y fusionar: combina frutas idénticas,
+  Merge Fruit es un puzle de soltar y fusionar: combina frutas idénticas,
   controla la altura de la pila y prepara cascadas para lograr puntuaciones
   gigantes.
 iframeSrc: 'https://3eltb7i874s60.h5games.usercontent.goog/v/28f34ighqoh10/'

@@ -29,7 +29,7 @@ Le principal défi est d’éviter tout contact avec les bulles rebondissantes. 
   Place-toi sous la bulle avant de tirer pour gagner du temps de réaction lorsque les deux bulles plus petites partiront sur les côtés.
 - **Pièges de coin**  
   Coince une bulle entre un mur et ta ligne de tir afin de la frapper en boucle depuis un point sûr.
-- **Maîtrise les power-ups**  
+- **Maîtrise les bonus**  
     - Double harpon  
     - Harpon collant  
     - Bouclier  
@@ -62,10 +62,10 @@ Les commandes sont simples, pensées pour une action arcade rapide.
 - **Q : Peut-on tirer en diagonale ?**  
   R : Non, le harpon part uniquement vers le haut. Toute la difficulté est de bien se positionner sous la bulle.
 
-- **Q : Comment fonctionnent les power-ups ?**  
+- **Q : Comment fonctionnent les bonus ?**  
   R : Ils tombent au hasard quand une bulle éclate. Passe dessus pour l’activer ; la plupart ont une durée limitée.
 
-- **Q : Quel est le meilleur power-up ?**  
+- **Q : Quel est le meilleur bonus ?**  
   R : Le bouclier est souvent considéré comme vital. Le harpon collant et les ralentissements sont aussi très puissants dans les niveaux bondés.
 
 - **Q : Que se passe-t-il si le chronomètre atteint zéro ?**  
@@ -78,4 +78,4 @@ Les commandes sont simples, pensées pour une action arcade rapide.
 
 > C’est subjectif, mais le **Bouclier** est souvent le plus précieux car il empêche de perdre une vie. Le **harpon collant** est aussi très efficace pour éclater plusieurs bulles d’un coup.
 
-**3. Quel est le meilleur power-up ?**
+**3. Quel est le meilleur bonus ?**

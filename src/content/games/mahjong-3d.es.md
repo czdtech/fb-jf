@@ -1,9 +1,9 @@
 ---
 locale: es
 urlstr: mahjong-3d
-title: "Mahjong 3D - Rompecabezas mahjong en tres dimensiones"
+title: "Mahjong 3D - Puzle mahjong en tres dimensiones"
 description: >-
-  Disfruta Mahjong Solitaire en una nueva dimensión: gira el rompecabezas 3D,
+  Disfruta Mahjong Solitaire en una nueva dimensión: gira el puzle 3D,
   encuentra parejas de fichas libres iguales y vacía el tablero en una
   experiencia inmersiva y estratégica.
 iframeSrc: >-
@@ -28,11 +28,11 @@ un espacio tridimensional. En lugar de un tablero plano, las fichas se apilan
 en complejas estructuras 3D que puedes girar. El objetivo sigue siendo el
 mismo: encontrar y emparejar parejas de fichas idénticas y libres para limpiar
 el tablero. Este giro tridimensional añade un nuevo nivel de desafío y exige
-usar la visión espacial para observar el rompecabezas desde todos los ángulos.
+usar la visión espacial para observar el puzle desde todos los ángulos.
 
 ### Estrategia y recorrido de juego
 
-1.  **Gira, gira, gira:** la habilidad más importante es rotar el rompecabezas
+1.  **Gira, gira, gira:** la habilidad más importante es rotar el puzle
     constantemente. Una pareja de fichas puede estar escondida en lados
     opuestos de la estructura. Acostúmbrate a hacer una rotación completa de
     360 grados antes de mover para tener una visión global del tablero.
@@ -53,14 +53,14 @@ usar la visión espacial para observar el rompecabezas desde todos los ángulos.
 
 *   **Seleccionar fichas:** haz clic en una ficha libre para seleccionarla y
     luego en su pareja idéntica y libre para formar el emparejamiento.
-*   **Rotar el rompecabezas:** usa las flechas de la pantalla o haz clic y
+*   **Rotar el puzle:** usa las flechas de la pantalla o haz clic y
     arrastra el fondo para girar toda la estructura 3D a izquierda o derecha.
 
 ### Preguntas frecuentes (FAQ)
 
 *   **P: ¿En qué se diferencia de un Mahjong Solitaire normal?**
     *   **R:** La diferencia principal es la presentación en 3D. Poder girar el
-        rompecabezas para encontrar parejas en todos los lados añade un
+        puzle para encontrar parejas en todos los lados añade un
         desafío importante frente al diseño 2D tradicional.
 
 *   **P: Veo dos fichas iguales, pero no puedo unirlas. ¿Por qué?**

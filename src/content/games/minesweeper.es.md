@@ -1,9 +1,9 @@
 ---
 locale: es
 urlstr: minesweeper
-title: "Minesweeper - Rompecabezas clásico de un solo jugador"
+title: "Minesweeper - Puzle clásico de un solo jugador"
 description: >-
-  Minesweeper es un rompecabezas para un jugador en el que debes limpiar un
+  Minesweeper es un puzle para un jugador en el que debes limpiar un
   tablero rectangular que oculta minas sin detonar ninguna, ayudándote de las
   pistas numéricas que indican cuántas minas hay en las casillas vecinas.
 iframeSrc: 'https://freeonlinegames.github.io/games/minesweeper/'
@@ -20,7 +20,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 ### Introducción al juego
 
-Minesweeper es un rompecabezas clásico para un solo jugador. El objetivo es ir
+Minesweeper es un puzle clásico para un solo jugador. El objetivo es ir
 abriendo casillas de una cuadrícula y encontrar todas las minas ocultas sin
 hacerlas explotar. A través de las pistas numéricas, puedes inferir cuántas
 minas hay alrededor de cada casilla y, poco a poco, despejar las zonas seguras y

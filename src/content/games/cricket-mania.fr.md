@@ -34,7 +34,7 @@ frappes puissantes pour rattraper un retard au score.
 3.  **Reconnais les lancers piégeux**  
     Les balles très courtes, très longues ou avec effet demandent un timing
     différent. Observe‑les une première fois si nécessaire.
-4.  **Gère les power‑ups**  
+4.  **Gère les bonus**  
     Certains niveaux offrent des boosts (multiplicateurs de score, coups
     garantis, etc.). Utilise‑les lors des moments clés.
 5.  **Reste adaptable**  

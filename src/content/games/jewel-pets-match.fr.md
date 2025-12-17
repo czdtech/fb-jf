@@ -22,7 +22,7 @@ Jewel Pets Match est un jeu de puzzle match‑3 lumineux et joyeux rempli d'ador
 
 ### Stratégies de jeu
 
-1.  **Crée des power‑ups :** Pour maîtriser le jeu, tu dois faire des alignements de plus de trois animaux.
+1.  **Crée des bonus :** Pour maîtriser le jeu, tu dois faire des alignements de plus de trois animaux.
     *   **Aligne 4 :** Crée un animal spécial qui peut nettoyer une ligne ou colonne entière.
     *   **Aligne 5 (en forme de L ou T) :** Crée un animal bombe qui explose et nettoie un bloc d'animaux environnants.
     *   **Aligne 5 (en ligne) :** Crée un animal arc‑en‑ciel qui peut nettoyer tous les animaux d'un seul type du plateau.
@@ -42,8 +42,8 @@ Le jeu se joue avec de simples mécaniques d'échange.
 *   **Q : Comment passer les animaux verrouillés ou en cage ?**
     *   **R :** Tu dois faire un alignement qui inclut l'animal en cage. Cela cassera la cage et libérera l'animal.
 
-*   **Q : Quel est le meilleur power‑up à créer ?**
-    *   **R :** L'animal arc‑en‑ciel (d'un alignement de 5 en ligne) est extrêmement utile pour nettoyer beaucoup d'animaux d'un type. Cependant, le meilleur coup est souvent de combiner deux power‑ups pour un effet majeur de nettoyage du plateau.
+*   **Q : Quel est le meilleur bonus à créer ?**
+    *   **R :** L'animal arc‑en‑ciel (d'un alignement de 5 en ligne) est extrêmement utile pour nettoyer beaucoup d'animaux d'un type. Cependant, le meilleur coup est souvent de combiner deux bonus pour un effet majeur de nettoyage du plateau.
 
 *   **Q : Que se passe‑t‑il si je n'ai plus de coups ?**
     *   **R :** Si tu ne complètes pas l'objectif du niveau avant d'épuiser tes coups, tu perdras une vie et devras recommencer le niveau.

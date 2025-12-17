@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: mahjongg-candy
-title: "Mahjongg Candy - Rompecabezas dulce de emparejar fichas"
+title: "Mahjongg Candy - Puzle dulce de emparejar fichas"
 description: >-
   Sacia tu lado goloso y afina la mente con Mahjongg Candy. Este delicioso
-  rompecabezas de emparejar fichas te reta a limpiar el tablero encontrando
+  puzle de emparejar fichas te reta a limpiar el tablero encontrando
   parejas idénticas de caramelos. Planifica tus jugadas, libera fichas y corre
   contra el tiempo para lograr la máxima puntuación.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-candy-mahjongg/'
@@ -21,7 +21,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 ### Introducción al juego
 
-Mahjongg Candy es un rompecabezas de emparejar fichas dulce y adictivo que pone
+Mahjongg Candy es un puzle de emparejar fichas dulce y adictivo que pone
 un giro de caramelos de colores sobre el clásico Mahjongg Solitaire. Tu objetivo
 es limpiar el tablero encontrando y emparejando parejas idénticas de fichas de
 caramelos. Es un juego que pone a prueba tu capacidad de observación, tu

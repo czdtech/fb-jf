@@ -22,9 +22,9 @@ Kitty Match est un jeu de match‑3 plein de chats et de niveaux colorés. Le bu
 
 ### Stratégies de jeu
 
-1.  **Cherche les gros matches** : aligner 4 ou 5 tuiles crée des power‑ups qui nettoient lignes, colonnes ou zones complètes.
+1.  **Cherche les gros matches** : aligner 4 ou 5 tuiles crée des bonus qui nettoient lignes, colonnes ou zones complètes.
 2.  **Planifie tes coups** : les niveaux sont limités en mouvements, anticipe quelques échanges et vise d'abord les actions qui aident l'objectif.
-3.  **Combine les bonus** : la vraie puissance vient des combinaisons de power‑ups (bombe + roquette, etc.).
+3.  **Combine les bonus** : la vraie puissance vient des combinaisons de bonus (bombe + roquette, etc.).
 4.  **Travaille depuis le bas** : les matches en bas génèrent des cascades qui peuvent nettoyer beaucoup de tuiles sans coût supplémentaire.
 
 ### Commandes
@@ -40,4 +40,4 @@ Kitty Match est un jeu de match‑3 plein de chats et de niveaux colorés. Le bu
     *   **R :** Si l'objectif n'est pas atteint, tu perds une vie et dois recommencer le niveau.
 
 *   **Q : Comment créer une bombe ?**
-    *   **R :** En alignant cinq tuiles en forme de « L » ou de « T », ce qui génère un power‑up qui explose autour de lui.
+    *   **R :** En alignant cinq tuiles en forme de « L » ou de « T », ce qui génère un bonus qui explose autour de lui.

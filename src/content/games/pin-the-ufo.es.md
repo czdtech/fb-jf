@@ -3,7 +3,7 @@ locale: es
 urlstr: pin-the-ufo
 title: "Pin the UFO - Tira del pin y salva a los alienígenas"
 description: >-
-  Domina el rompecabezas de "pull the pin" en Pin the UFO. Resuelve niveles
+  Domina el puzle de "pull the pin" en Pin the UFO. Resuelve niveles
   tirando de los pines en el orden correcto para guiar con seguridad a los
   alienígenas de colores hasta su nave espacial.
 iframeSrc: 'https://pintheufo.h5games.usercontent.goog/v/08ukqv01ac45o/'
@@ -20,7 +20,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### Introducción al juego
 
-*Pin the UFO* es un simpático y estratégico rompecabezas de "tirar del pin"
+*Pin the UFO* es un simpático y estratégico puzle de "tirar del pin"
 ambientado en el espacio. El objetivo principal es **guiar con seguridad a un
 grupo de pequeños alienígenas de colores hasta su nave espacial situada al
 fondo de la pantalla**.

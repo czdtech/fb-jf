@@ -18,7 +18,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### Introducción detallada al juego
 
-Minesweeper 1000 es una versión moderna del clásico rompecabezas lógico.
+Minesweeper 1000 es una versión moderna del clásico puzle lógico.
 Debes descubrir todas las casillas seguras sin detonar ninguna mina: cada
 número revelado indica cuántas bombas tocan esa casilla (incluyendo diagonales).
 En los tableros grandes, la clave está en reconocer patrones, usar el "chord" 

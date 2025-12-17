@@ -27,7 +27,7 @@ la subcultura **Beatnik**, un movimiento conocido por celebrar el jazz, la
 poesía y el inconformismo.
 
 El objetivo es expresarte de forma creativa mientras resuelves pequeños
-rompecabezas sonoros. Arrastrando y soltando iconos sobre los personajes
+puzle sonoros. Arrastrando y soltando iconos sobre los personajes
 superpones distintos sonidos y construyes tu propia pista de jazz relajado. El
 reto consiste en descubrir las tres combinaciones concretas de sonidos que
 desbloquean los bonus animados secretos, cada uno un guiño elegante a la época

@@ -3,7 +3,7 @@ locale: de
 urlstr: level-devil
 title: "Level Devil"
 description: >-
-  Level Devil ist ein Troll-Plattformer: Level verändern sich plötzlich mit
+  Level Devil ist ein Troll-Plattformspiel: Level verändern sich plötzlich mit
   aufpoppenden Stacheln, einstürzenden Böden und falschen Ausgängen – lerne die
   Fallen kennen und bewahre die Ruhe.
 iframeSrc: 'https://szhong.4399.com/4399swf//upload_swf/ftp45/gamehwq/20231215/10/index.html'
@@ -18,7 +18,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 ### Übersicht
 
-Level Devil ist ein hinterhältiger Plattformer, in dem dir die Bühne selbst in
+Level Devil ist ein hinterhältiger Plattformspiel, in dem dir die Bühne selbst in
 den Rücken fällt – Bodenplatten brechen weg, Stacheln schießen mitten im Sprung
 aus dem Boden und Ausgänge verschwinden oder wandern. Erfolg bekommst du nur
 mit vorsichtigem Vortasten, dem Lesen kleiner visueller Hinweise und dem

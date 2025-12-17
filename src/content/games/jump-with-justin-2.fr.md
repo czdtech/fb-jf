@@ -36,7 +36,7 @@ Jump With Justin 2 est un platformer léger centré sur les sauts à ressort, le
   R : Tu sautes probablement trop tôt. Décale légèrement ton timing et garde des arcs fluides.  
 
 - **Q : Y a‑t‑il un double saut ?**  
-  R : Certains niveaux incluent des trampolines ou power‑ups qui en donnent l’impression, mais pas de double saut classique partout.  
+  R : Certains niveaux incluent des trampolines ou bonus qui en donnent l’impression, mais pas de double saut classique partout.  
 
 - **Q : Des conseils pour le 100 % ?**  
   R : Apprends d’abord un chemin sûr jusqu’à la sortie, puis refais les niveaux en planifiant des détours pour attraper les étoiles.

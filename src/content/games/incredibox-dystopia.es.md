@@ -33,7 +33,7 @@ intérpretes. La biblioteca sonora mezcla con maestría **synthwave, darkwave e
 industrial**, creando un paisaje sonoro futurista potente y muy atmosférico.
 
 El objetivo es fomentar la creatividad al mismo tiempo que se plantea un pequeño
-rompecabezas. Puedes superponer sonidos libremente para producir tu propia pista
+puzle. Puedes superponer sonidos libremente para producir tu propia pista
 cinematográfica de temática ciberpunk. El reto está en descubrir las tres
 combinaciones específicas que desbloquean los bonus animados secretos, cada uno
 representando visualmente un aspecto clave del mundo distópico del mod.

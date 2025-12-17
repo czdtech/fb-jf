@@ -3,7 +3,7 @@ locale: es
 urlstr: thruline
 title: "Thruline - Traza la línea perfecta"
 description: >-
-  Thruline es un elegante rompecabezas de conectar nodos: dibuja una única línea
+  Thruline es un elegante puzle de conectar nodos: dibuja una única línea
   continua que recorra la red cumpliendo las restricciones de giros y
   cobertura.
 iframeSrc: 'https://4bl9sdeaqndto.h5games.usercontent.goog/v/4qierjmnf0kng/'

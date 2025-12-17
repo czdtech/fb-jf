@@ -14,7 +14,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### Présentation du jeu
 
-*Bricks Breaker House* reprend le principe du casse‑briques avec des plateaux variés et des bonus. Ta mission reste simple : faire rebondir la balle sur ta raquette pour casser toutes les briques, en profitant des power‑ups sans perdre le contrôle.
+*Bricks Breaker House* reprend le principe du casse‑briques avec des plateaux variés et des bonus. Ta mission reste simple : faire rebondir la balle sur ta raquette pour casser toutes les briques, en profitant des bonus sans perdre le contrôle.
 
 ### Guide de jeu
 
@@ -28,7 +28,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
    Ouvre des couloirs sur les côtés pour piéger la balle près du plafond et augmenter les dégâts.
 
 4. **Ne sacrifie pas la balle pour un bonus**  
-   Mieux vaut garder ta vie que rater la raquette en voulant absolument attraper un power‑up.
+   Mieux vaut garder ta vie que rater la raquette en voulant absolument attraper un bonus.
 
 5. **Libérer de nouveaux angles**  
    Sur les plateaux étroits, détruis d’abord les briques qui bloquent des trajectoires potentielles afin d’ouvrir des lignes de tir supplémentaires.

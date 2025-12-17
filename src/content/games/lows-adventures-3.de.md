@@ -3,7 +3,7 @@ locale: de
 urlstr: lows-adventures-3
 title: "Low's Adventures 3"
 description: >-
-  Dritter Teil der Retro-Plattformer-Reihe: engere Sprünge, neue Spezialblöcke
+  Dritter Teil der Retro-Plattformspiel-Reihe: engere Sprünge, neue Spezialblöcke
   und mehr Geheimnisse in kompakten Leveln.
 iframeSrc: 'https://previews.customer.envatousercontent.com/files/480663659/index.html'
 thumbnail: /new-images/lows-adventures-3.jpg

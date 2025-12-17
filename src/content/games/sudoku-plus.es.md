@@ -4,7 +4,7 @@ urlstr: sudoku-plus
 title: Sudoku Plus
 description: >-
   Sudoku Plus es una versión ampliada del clásico Sudoku. Disfruta del
-  rompecabezas numérico de siempre con ayudas como pistas, notas y revisión de
+  puzle numérico de siempre con ayudas como pistas, notas y revisión de
   errores para poner a prueba tu mente.
 iframeSrc: 'https://sudokuplus.h5games.usercontent.goog/v/3q827iuj6msno/'
 thumbnail: /new-images/sudoku-plus.jpg
@@ -19,7 +19,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### Introducción detallada al juego
 
-Sudoku Plus ofrece una experiencia «premium» del clásico rompecabezas lógico de
+Sudoku Plus ofrece una experiencia «premium» del clásico puzle lógico de
 colocación numérica. El objetivo es rellenar una cuadrícula de 9x9 casillas de
 forma que cada fila, cada columna y cada uno de los nueve subcuadros 3x3
 contengan todos los dígitos del 1 al 9. Esta versión añade funciones útiles

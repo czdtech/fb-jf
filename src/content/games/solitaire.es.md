@@ -5,7 +5,7 @@ title: "Solitaire"
 description: >-
   Solitaire es el clásico juego de cartas para un solo jugador en el que
   ordenas cartas en secuencias y palos concretos, intentando moverlas todas a
-  las pilas de fundación y limpiar el tablero en este rompecabezas atemporal.
+  las pilas de fundación y limpiar el tablero en este puzle atemporal.
 iframeSrc: "https://www.edogan.us/solitaire-js/"
 thumbnail: "/new-images/solitaire.jpg"
 tags:
@@ -21,7 +21,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 "Solitaire" es el juego de cartas clásico para un solo jugador en el que debes
 ordenar la baraja en secuencias y palos, con la meta de llevar todas las cartas
-a las pilas de fundación y dejar el tablero vacío. Es un rompecabezas muy
+a las pilas de fundación y dejar el tablero vacío. Es un puzle muy
 popular porque se aprende rápido pero requiere estrategia.
 
 ### Estrategias de juego

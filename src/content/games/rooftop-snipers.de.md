@@ -20,7 +20,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ### Spieleinführung
 
 "Rooftop Snipers" ist der erste Teil der Reihe und ein einfaches, aber
- kniffliges Physik-Schießspiel. Zwei kleine Figuren stehen auf Dächern und
+ kniffliges Physik-Shooter. Zwei kleine Figuren stehen auf Dächern und
  versuchen, sich mit gezielten Schüssen und Sprüngen von der Plattform zu
  befördern. Die Ragdoll-Physik sorgt dafür, dass Bewegungen und Schüsse oft
  unberechenbar wirken – perfekt für chaotische Duelle.

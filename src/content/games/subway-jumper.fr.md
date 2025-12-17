@@ -16,7 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 Subway Jumper reprend la formule classique du runner à trois couloirs : tu
 cours entre les trains, évites les plots et les barrières, ramasses des pièces
-et gères des power‑ups, le tout dans un métro bondé.
+et gères des bonus, le tout dans un métro bondé.
 
 ### Stratégie et astuces
 

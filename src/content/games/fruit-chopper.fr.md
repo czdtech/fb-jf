@@ -41,4 +41,4 @@ Fruit Chopper est un jeu d'arcade nerveux et juteux qui teste tes réflexes et t
     *   **R :** En tranchant trois fruits ou plus avec un seul swipe. Plus tu coupes de fruits d'un coup, plus le bonus de score est important.
 
 *   **Q : Y a‑t‑il plusieurs modes de jeu ?**
-    *   **R :** De nombreux jeux de découpe proposent plusieurs modes comme Classic (éviter les bombes et ne pas rater de fruits), Arcade (60 secondes chronométrées avec des power‑ups) ou Zen (sans bombes, plus relax). Vérifie le menu principal pour voir ce qui est disponible dans ta version.
+    *   **R :** De nombreux jeux de découpe proposent plusieurs modes comme Classic (éviter les bombes et ne pas rater de fruits), Arcade (60 secondes chronométrées avec des bonus) ou Zen (sans bombes, plus relax). Vérifie le menu principal pour voir ce qui est disponible dans ta version.

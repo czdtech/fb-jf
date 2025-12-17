@@ -5,7 +5,7 @@ title: "Puzzle Pieces Merge"
 description: >-
   Un juego de puzles relajante e ingenioso. Arrastra, suelta y combina piezas
   para completar preciosos paisajes, gira las fichas y usa potenciadores para
-  resolver cada rompecabezas único.
+  resolver cada puzle único.
 iframeSrc: "https://5burcumauc5p0.h5games.usercontent.goog/v/4k8cb35sbe9fo/"
 thumbnail: "/new-images/puzzle-pieces-merge.jpg"
 tags:
@@ -19,7 +19,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### Introducción detallada al juego
 
-Puzzle Pieces Merge ofrece un giro sereno e innovador al clásico rompecabezas de
+Puzzle Pieces Merge ofrece un giro sereno e innovador al clásico puzle de
 piezas. En lugar de un tablero fijo, el juego te invita a arrastrar, soltar y
 fusionar piezas para ir revelando paisajes hermosos y muy detallados. La
 mecánica central consiste en colocar correctamente las fichas unas junto a otras
@@ -35,7 +35,7 @@ experiencia tan relajante como adictiva para amantes de los puzles.
 2.  **Agrupa por color:** Observa las piezas que tienes y agrúpalas mentalmente
     por colores o patrones. Si ves muchas tonalidades azules, probablemente
     pertenezcan al cielo, por ejemplo. Trabajar por secciones hace que el
-    rompecabezas sea más manejable.
+    puzle sea más manejable.
 3.  **Rota hasta que encaje:** No olvides que puedes girar las piezas. Si una
     parece encajar pero no termina de hacerlo, prueba a rotarla hasta que se
     alinee a la perfección con sus vecinas.

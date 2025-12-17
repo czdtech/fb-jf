@@ -1,8 +1,8 @@
 ---
 locale: es
 urlstr: text-twist
-title: "Text Twist - Rompecabezas clásico de letras"
-description: "Pon a prueba tu vocabulario y tu rapidez mental en Text Twist, un clásico rompecabezas de palabras. Reordena letras desordenadas para formar tantas palabras válidas como puedas dentro del tiempo límite. Encuentra la palabra Bingo que usa todas las letras y avanza mientras buscas la máxima puntuación."
+title: "Text Twist - Puzle clásico de letras"
+description: "Pon a prueba tu vocabulario y tu rapidez mental en Text Twist, un clásico puzle de palabras. Reordena letras desordenadas para formar tantas palabras válidas como puedas dentro del tiempo límite. Encuentra la palabra Bingo que usa todas las letras y avanza mientras buscas la máxima puntuación."
 iframeSrc: "https://games.cdn.famobi.com/html5games/t/text-twist/v010/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=5b597140-77c2-4f7c-9abf-4f149d6dcbac&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=465&original_ref="
 thumbnail: "/new-images/text-twist.jpg"
 tags:
@@ -15,7 +15,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 ### Introducción al juego
 
-Text Twist es un juego de rompecabezas de palabras muy popular que pone a prueba tu vocabulario y tu velocidad. Se te presenta un conjunto de letras mezcladas y debes formar tantas palabras válidas como sea posible antes de que se acabe el tiempo. Las palabras largas dan más puntos y encontrar la "palabra Bingo" (la que usa todas las letras) es obligatorio para pasar de ronda.
+Text Twist es un juego de puzle de palabras muy popular que pone a prueba tu vocabulario y tu velocidad. Se te presenta un conjunto de letras mezcladas y debes formar tantas palabras válidas como sea posible antes de que se acabe el tiempo. Las palabras largas dan más puntos y encontrar la "palabra Bingo" (la que usa todas las letras) es obligatorio para pasar de ronda.
 
 ### Guía de juego
 

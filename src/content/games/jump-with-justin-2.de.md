@@ -3,7 +3,7 @@ locale: de
 urlstr: jump-with-justin-2
 title: "Jump With Justin 2"
 description: >-
-  Jump With Justin 2 ist ein sprunghafter Plattformer: Time deine Sprünge,
+  Jump With Justin 2 ist ein sprunghafter Plattformspiel: Time deine Sprünge,
   pralle von Hindernissen ab, nutze Federn und Plattformen und hüpfe dich zum
   Ziel.
 iframeSrc: 'https://jumpwithjustin2.h5games.usercontent.goog/v/54vavt12q94n8/'
@@ -18,7 +18,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### Ausführliche Spielbeschreibung
 
-Jump With Justin 2 ist ein leichtfüßiger Plattformer, in dem sich alles um
+Jump With Justin 2 ist ein leichtfüßiger Plattformspiel, in dem sich alles um
 federnde Sprünge, bewegliche Plattformen und gutes Timing dreht. Du planst
 Sprungbögen, prallst von Trampolinen oder Hindernissen ab und versuchst, deinen
 Schwung beizubehalten, um mit möglichst wenigen Fehlern den Ausgang jedes

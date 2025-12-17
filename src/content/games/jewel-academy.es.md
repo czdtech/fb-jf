@@ -25,7 +25,7 @@ lleno de gemas de colores y desafíos mágicos. Como alumno de la academia
 recorres un gran mapa de niveles, cada uno con un objetivo diferente. La
 mecánica principal consiste en intercambiar gemas adyacentes para formar líneas
  de tres o más del mismo color. Con decisiones estratégicas puedes crear joyas
-especiales, superar obstáculos complicados y resolver cientos de rompecabezas.
+especiales, superar obstáculos complicados y resolver cientos de puzle.
 
 ### Estrategia y recorrido de juego
 

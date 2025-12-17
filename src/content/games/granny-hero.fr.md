@@ -2,7 +2,7 @@
 locale: fr
 urlstr: granny-hero
 title: "Granny Hero"
-description: "Granny Hero est un runner d’action comique : évite les dangers, utilise des power‑ups délirants et sauve tes voisins avec une agilité surprenante."
+description: "Granny Hero est un runner d’action comique : évite les dangers, utilise des bonus délirants et sauve tes voisins avec une agilité surprenante."
 iframeSrc: 'https://0nd9712ar55uo.h5games.usercontent.goog/v/3qru4tsu7d5v0/'
 thumbnail: /new-images/granny-hero.png
 tags:
@@ -21,7 +21,7 @@ Granny Hero est un runner léger et humoristique où une grand‑mère ultra dyn
 
 1.  Vision des voies : garde les yeux deux obstacles en avance pour anticiper les changements de ligne.
 2.  Rythme saut/glissade : des sauts un peu tardifs passent mieux les barrières ; les glissades sont la réponse aux barres basses et obstacles au sol.
-3.  Gestion des power‑ups : garde boucliers et boosts de vitesse pour les sections où les obstacles s’enchaînent.
+3.  Gestion des bonus : garde boucliers et boosts de vitesse pour les sections où les obstacles s’enchaînent.
 4.  Priorité aux missions : si la route des pièces et celle d’un voisin à sauver divergent, choisis d’abord l’objectif de mission.
 5.  Reprise après erreur : après un choc, retrouve ton tempo avant de te reconcentrer sur le score.
 

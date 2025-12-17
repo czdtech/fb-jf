@@ -5,7 +5,7 @@ title: "Bob the Robber"
 description: >-
   Werde zum Meisterdieb in Bob the Robber. Schleiche an Wachen vorbei, schalte
   Kameras aus, knacke Tresore und klaue die Beute in diesem fordernden
-  Schleich‑Puzzle‑Plattformer.
+  Schleich‑Puzzle‑Plattformspiel.
 iframeSrc: >-
   https://app-190385.games.s3.yandex.net/190385/i7ty94goiswe8ohxdysos1uzmur0yfwk/index.html
 thumbnail: /new-images/bob-the-robber.jpg
@@ -19,7 +19,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 ### Spieleinführung
 
-Bob the Robber ist eine 2D‑Reihe aus Stealth‑ und Puzzle‑Plattformern. Du
+Bob the Robber ist eine 2D‑Reihe aus Stealth‑ und Puzzle‑Plattformspieln. Du
 spielst Bob, einen talentierten Dieb mit einem gewissen Gerechtigkeitssinn –
 so etwas wie ein moderner Robin Hood. Deine Missionen führen dich in Häuser,
 Banken, Museen und andere gut gesicherte Gebäude. In jedem Level musst du dich

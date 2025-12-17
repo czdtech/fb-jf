@@ -7,7 +7,7 @@ description: >-
   famosamente difícil y desternillante. Responde preguntas trampa, resuelve
   acertijos ilógicos y sobrevive a bombas y saltos de nivel para llegar al
   final. Piensa fuera de lo convencional y abraza el absurdo para conquistar
-  este rompecabezas mental único.
+  este puzle mental único.
 iframeSrc: 'https://flash-cdn.blogspot.com/2021/06/the-impossible-quiz.html'
 thumbnail: /new-images/the-impossible-quiz.jpg
 tags:

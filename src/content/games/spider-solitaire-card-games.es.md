@@ -6,7 +6,7 @@ description: >-
   Ponte a prueba con Spider Solitaire, una popular variante del solitario
   clásico. El objetivo es limpiar el tablero construyendo ocho secuencias
   completas de cartas, de Rey a As. Con niveles de dificultad ajustables (1, 2 o
-  4 palos), es un rompecabezas estratégico para todo tipo de jugadores.
+  4 palos), es un puzle estratégico para todo tipo de jugadores.
 iframeSrc: "https://ubg98.github.io/SpiderSolitaire/"
 thumbnail: "/new-images/spider-solitaire-card-games.jpg"
 tags:

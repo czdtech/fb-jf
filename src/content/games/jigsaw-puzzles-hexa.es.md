@@ -3,7 +3,7 @@ locale: es
 urlstr: jigsaw-puzzles-hexa
 title: Jigsaw Puzzles Hexa
 description: >-
-  Un giro moderno al rompecabezas clásico. Arrastra piezas hexagonales para
+  Un giro moderno al puzle clásico. Arrastra piezas hexagonales para
   completar imágenes en alta definición. Un puzle relajante pero estimulante
   para todas las edades.
 iframeSrc: 'https://jigsawpuzzleshexa.h5games.usercontent.goog/v/5e9bm1tuf1me0/'
@@ -20,7 +20,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### Introducción detallada
 
-Jigsaw Puzzles Hexa ofrece una versión fresca y moderna del rompecabezas de
+Jigsaw Puzzles Hexa ofrece una versión fresca y moderna del puzle de
 siempre. En lugar de piezas clásicas con encajes únicos, aquí trabajas con
 bloques formados por hexágonos. Tu misión es arrastrar estas formas desde el
 inventario y colocarlas en el tablero principal para completar una imagen en

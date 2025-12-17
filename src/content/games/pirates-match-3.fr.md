@@ -20,14 +20,14 @@ Pirates Match 3 est un jeu de puzzle match‑3 classique avec un thème pirate f
 
 ### Stratégies de jeu et progression
 
-1.  **Créer des power‑ups :** la clé pour réussir les niveaux difficiles est de créer des objets spéciaux en alignant plus de trois pièces.
+1.  **Créer des bonus :** la clé pour réussir les niveaux difficiles est de créer des objets spéciaux en alignant plus de trois pièces.
     *   **Match 4 :** crée un objet qui efface une ligne ou une colonne entière.
     *   **Match 5 (forme L ou T) :** crée une bombe qui explose et efface une grande zone d'objets environnants.
     *   **Match 5 (en ligne) :** crée un objet spécial (comme un coffre au trésor) qui peut effacer tous les objets d'une seule couleur du plateau.
 
-2.  **Combiner les power‑ups :** pour un effet maximum, essaie d'échanger deux power‑ups entre eux. Cela déclenchera un combo massif de nettoyage du plateau qui peut t'aider à compléter les objectifs beaucoup plus vite.
+2.  **Combiner les bonus :** pour un effet maximum, essaie d'échanger deux bonus entre eux. Cela déclenchera un combo massif de nettoyage du plateau qui peut t'aider à compléter les objectifs beaucoup plus vite.
 3.  **Se concentrer sur l'objectif :** sois toujours conscient de l'objectif du niveau. Si tu dois casser toutes les planches de bois en arrière‑plan, concentre tes matches sur ces tuiles spécifiques. Si tu dois faire descendre un objet en bas, dégage le chemin en dessous.
-4.  **Planifier tes coups :** avec un nombre limité de coups par niveau, chaque échange compte. Cherche des coups qui créeront une cascade ou prépareront une future combinaison de power‑ups.
+4.  **Planifier tes coups :** avec un nombre limité de coups par niveau, chaque échange compte. Cherche des coups qui créeront une cascade ou prépareront une future combinaison de bonus.
 
 ### Commandes
 
@@ -40,8 +40,8 @@ Le jeu se joue avec de simples contrôles souris ou tactiles.
 *   **Q : Comment casser les planches de bois ou les chaînes ?**
     *   **R :** Tu dois faire un match sur la planche ou inclure l'objet enchaîné dans un match. Il peut falloir plus d'un match pour nettoyer complètement certains obstacles.
 
-*   **Q : Quelle est la meilleure combinaison de power‑ups ?**
-    *   **R :** Échanger deux power‑ups « Match 5 en ligne » est généralement le plus puissant, car cela efface tout le plateau. Une bombe combinée avec un effaceur de ligne est aussi extrêmement efficace.
+*   **Q : Quelle est la meilleure combinaison de bonus ?**
+    *   **R :** Échanger deux bonus « Match 5 en ligne » est généralement le plus puissant, car cela efface tout le plateau. Une bombe combinée avec un effaceur de ligne est aussi extrêmement efficace.
 
 *   **Q : Que se passe‑t‑il si je n'ai plus de coups ?**
     *   **R :** Si tu échoues à compléter l'objectif du niveau avant de manquer de coups, tu devras recommencer le niveau.

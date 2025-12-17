@@ -45,7 +45,7 @@ Il n’y a pas vraiment de "stratégie avancée" : Cat Mario est avant tout un t
 - **Attends toujours le pire.**  
   Les blocs "?" peuvent s’envoler pour t’écraser, le sol peut s’effondrer juste
   après un tuyau, un ennemi peut soudain accélérer ou tomber du ciel, et même
-  un power‑up peut te tuer.
+  un bonus peut te tuer.
     - **Exemples de pièges du premier niveau (spoilers) :**  
     - Le tout premier bloc "?" que tu vois est un piège : si tu le frappes par
     dessous, il part vers le haut et t’écrase. Saute simplement par‑dessus.  

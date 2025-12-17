@@ -3,7 +3,7 @@ locale: es
 urlstr: moving-truck
 title: "Moving Truck - Carga el camión sin perder el equilibrio"
 description: >-
-  Moving Truck es un rompecabezas basado en físicas en el que debes cargar
+  Moving Truck es un puzle basado en físicas en el que debes cargar
   muebles y objetos en un camión de mudanzas de forma estratégica para que el
   viaje sea seguro y equilibrado.
 iframeSrc: 'https://g.igroutka.ru/games/164/JgHSvhdBMa5pf4WZ/moving_truck/'
@@ -20,7 +20,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 ### Introducción al juego
 
-"Moving Truck" es un rompecabezas de físicas en el que tu tarea consiste en
+"Moving Truck" es un puzle de físicas en el que tu tarea consiste en
 cargar muebles y objetos de distintas formas y tamaños en un camión de
 mudanzas. Debes apilarlos de tal manera que se mantengan estables y equilibrados
 durante el trayecto, para que lleguen sanos y salvos al destino. El juego pone

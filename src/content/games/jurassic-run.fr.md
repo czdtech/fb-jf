@@ -40,5 +40,5 @@ Jurassic Run est un runner infini rapide situé parmi les dinosaures et les obst
 - **Q : Y a‑t‑il une fin ?**
   R : Généralement infini — chasse tes records personnels.
 
-- **Q : Des power‑ups ?**
+- **Q : Des bonus ?**
   R : Beaucoup de versions incluent des boucliers, aimants ou ralentis.

@@ -60,5 +60,5 @@ Breakout se contrôle presque uniquement via un mouvement latéral de la raquett
 **3. Quelle est la meilleure méthode pour finir un niveau rapidement ?**  
 > La technique du « tunnel ». Ouvre un passage sur un côté pour que la balle rebondisse au‑dessus des briques et rase tout en quelques secondes.
 
-**4. Y a‑t‑il des power‑ups dans Breakout ?**  
-> Dans le Breakout d’origine, non. Les power‑ups (multi‑ball, laser, raquette plus longue, etc.) sont apparus plus tard dans Arkanoid et les autres casse‑briques inspirés de ce classique.  
+**4. Y a‑t‑il des bonus dans Breakout ?**  
+> Dans le Breakout d’origine, non. Les bonus (multi‑ball, laser, raquette plus longue, etc.) sont apparus plus tard dans Arkanoid et les autres casse‑briques inspirés de ce classique.  

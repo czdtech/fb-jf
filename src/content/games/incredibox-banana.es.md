@@ -32,7 +32,7 @@ musicales. La paleta sonora mezcla de forma creativa **ambiente de jungla,
 sonidos meme del juego, beatbox y bases electrónicas**.
 
 El objetivo es que los fans de Incredibox y de Incredibox Banana puedan dar
-rienda suelta a la creatividad mientras resuelven el pequeño rompecabezas de
+rienda suelta a la creatividad mientras resuelven el pequeño puzle de
 hallar los bonus animados secretos, claramente inspirados en la cultura única
 del universo Banana.
 

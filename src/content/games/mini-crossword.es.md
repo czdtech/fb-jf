@@ -53,7 +53,7 @@ resolución de puzles.
 
 1.  **P: ¿Para quién es adecuado Mini Crossword?**  
     **R:** Para cualquiera que disfrute de los crucigramas y los retos de
-    vocabulario, especialmente si busca un rompecabezas rápido para el día a
+    vocabulario, especialmente si busca un puzle rápido para el día a
     día.
 2.  **P: Cuándo se actualizan los crucigramas diarios?**  
     **R:** Normalmente se publican nuevos puzles a una hora fija cada día (por

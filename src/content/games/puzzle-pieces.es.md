@@ -3,7 +3,7 @@ locale: es
 urlstr: puzzle-pieces
 title: "Puzzle Pieces"
 description: >-
-  Puzzle Pieces ofrece rompecabezas limpios y directos: rota las piezas,
+  Puzzle Pieces ofrece puzle limpios y directos: rota las piezas,
   encájalas en el tablero y complétalo sin dejar huecos.
 iframeSrc: "https://05c9vfh919cbg.h5games.usercontent.goog/v/0ki2bua5asq00/"
 thumbnail: "/new-images/puzzle-pieces.png"

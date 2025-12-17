@@ -15,14 +15,14 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### Présentation du jeu
 
-Puzzle Pieces Merge propose une variante sereine et innovante du puzzle classique. Plutôt qu'un plateau statique, ce jeu t'invite à faire glisser, déposer et fusionner des pièces de puzzle pour révéler de beaux paysages captivants. La mécanique centrale implique de placer correctement les pièces les unes à côté des autres, moment où elles fusionneront en un segment plus grand de l'image finale. Avec la possibilité de faire pivoter les pièces et d'utiliser des power‑ups stratégiques, c'est une expérience relaxante mais engageante pour les amateurs de puzzles.
+Puzzle Pieces Merge propose une variante sereine et innovante du puzzle classique. Plutôt qu'un plateau statique, ce jeu t'invite à faire glisser, déposer et fusionner des pièces de puzzle pour révéler de beaux paysages captivants. La mécanique centrale implique de placer correctement les pièces les unes à côté des autres, moment où elles fusionneront en un segment plus grand de l'image finale. Avec la possibilité de faire pivoter les pièces et d'utiliser des bonus stratégiques, c'est une expérience relaxante mais engageante pour les amateurs de puzzles.
 
 ### Stratégies de jeu et progression
 
 1.  **Commencer par les bords :** comme pour un puzzle du monde réel, une bonne stratégie est d'identifier et placer d'abord les pièces de bord et de coin. Cela t'aide à construire un cadre pour le reste de l'image.
 2.  **Regrouper par couleur :** regarde les pièces que tu as et essaie de les regrouper par couleur ou motif. Si tu vois beaucoup de pièces bleues, elles appartiennent probablement au ciel. Les regrouper mentalement t'aidera à aborder une section du puzzle à la fois.
 3.  **Faire pivoter pour l'ajustement parfait :** n'oublie pas que tu peux faire pivoter les pièces. Si une pièce semble devoir s'adapter mais ne le fait pas, essaie de la faire pivoter jusqu'à ce qu'elle s'aligne parfaitement avec ses voisines.
-4.  **Utiliser les boosters quand tu es bloqué :** si tu te retrouves vraiment coincé, utilise l'un des boosters disponibles. Ces power‑ups peuvent t'aider en nettoyant une section, en te montrant où va une pièce, ou en fournissant une autre assistance pour passer un moment difficile.
+4.  **Utiliser les boosters quand tu es bloqué :** si tu te retrouves vraiment coincé, utilise l'un des boosters disponibles. Ces bonus peuvent t'aider en nettoyant une section, en te montrant où va une pièce, ou en fournissant une autre assistance pour passer un moment difficile.
 
 ### Commandes
 

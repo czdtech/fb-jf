@@ -3,7 +3,7 @@ locale: es
 urlstr: minesweeper-mania
 title: "Minesweeper Mania - Buscaminas con varios desafíos"
 description: >-
-  El clásico rompecabezas lógico, reimaginado. Usa las pistas numéricas para
+  El clásico puzle lógico, reimaginado. Usa las pistas numéricas para
   localizar todas las minas ocultas del tablero. Con varios niveles de
   dificultad, es una auténtica prueba de deducción.
 iframeSrc: 'https://minesweepermania.h5games.usercontent.goog/v/6cje7ufl50e4g/'
@@ -20,7 +20,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### Introducción detallada al juego
 
-Minesweeper Mania es una versión pulida del clásico rompecabezas para un
+Minesweeper Mania es una versión pulida del clásico puzle para un
 jugador, Buscaminas. El objetivo es limpiar una cuadrícula que esconde minas
 sin detonar ninguna. Para lograrlo, debes usar las pistas numéricas reveladas en
 el tablero y deducir dónde se esconden las bombas: cada número indica cuántas

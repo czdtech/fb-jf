@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: mahjong-solitaire
-title: "Mahjong Solitaire - Rompecabezas clásico para un jugador"
+title: "Mahjong Solitaire - Puzle clásico para un jugador"
 description: >-
   Pon a prueba tu mente con Mahjong Solitaire. Encuentra y empareja fichas
-  idénticas y libres para despejar el tablero en este rompecabezas clásico y
+  idénticas y libres para despejar el tablero en este puzle clásico y
   relajante.
 iframeSrc: 'https://4erks8385j9eo.h5games.usercontent.goog/v/1ff4p4m8ilme8/'
 thumbnail: /new-images/mahjong-solitaire.png
@@ -27,7 +27,7 @@ se trata de formar manos, sino de despejar el tablero encontrando y emparejando
 parejas de fichas idénticas. Las fichas se disponen en distintos diseños, a
 menudo en varias capas. El juego exige buena observación, estrategia y
 planificación: un mal movimiento puede bloquear futuras parejas. Es un
-rompecabezas relajante pero exigente a nivel mental, disfrutado por millones de
+puzle relajante pero exigente a nivel mental, disfrutado por millones de
 personas.
 
 ### Estrategia y recorrido de juego

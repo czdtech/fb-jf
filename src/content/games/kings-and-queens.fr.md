@@ -23,7 +23,7 @@ Kings and Queens reprend les bases du match‑3 et les associe à une progressio
 
 1.  **Contrôle du plateau** : nettoie d'abord les bloqueurs au centre pour créer de l'espace et faciliter les combos.
 2.  **Timing des boosters** : garde marteaux / fusées pour les zones clef en fin de niveau.  
-3.  **Planification des combos** : fusionne les power‑ups (bombe + ligne, bombes de couleur…) juste avant les objectifs difficiles.  
+3.  **Planification des combos** : fusionne les bonus (bombe + ligne, bombes de couleur…) juste avant les objectifs difficiles.  
 4.  **Gestion des étoiles** : dépense‑les dans les boosters qui t'aident vraiment sur les niveaux où tu bloques.
 5.  **Compter les coups** : garde en tête le nombre de bloqueurs restants vs les coups disponibles, et joue pour l'objectif plutôt que pour le score brut.
 

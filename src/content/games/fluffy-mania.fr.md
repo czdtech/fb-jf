@@ -23,7 +23,7 @@ Fluffy Mania est un puzzle de connexion coloré et relaxant. Tu dois relier des 
 2.  Garde les longues chaînes pour les moments clés : ne gaspille pas les gros groupes dès le début ; utilise‑les pour terminer des objectifs difficiles ou des niveaux à coups limités.
 3.  Travaille par le bas : en effaçant des groupes en bas de la grille, tu crées des cascades naturelles au‑dessus qui peuvent résoudre plusieurs objectifs d’un coup.
 4.  Pense à deux coups d’avance : évite de laisser des cases isolées qui ne pourront plus être connectées à d’autres éléments.
-5.  Utilise les bonus intelligemment : déclenche les power‑ups quand ils permettent de viser plusieurs objectifs à la fois (par exemple libérer une zone + compléter un score).
+5.  Utilise les bonus intelligemment : déclenche les bonus quand ils permettent de viser plusieurs objectifs à la fois (par exemple libérer une zone + compléter un score).
 
 ### Commandes
 

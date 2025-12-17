@@ -5,7 +5,7 @@ title: "Medieval Solitaire - Klondike clásico con temática medieval"
 description: >-
   Viaja al pasado con Medieval Solitaire, un solitario Klondike clásico con
   estética medieval. Levanta las pilas de base de As a Rey y limpia el tapete en
-  este rompecabezas estratégico.
+  este puzle estratégico.
 iframeSrc: 'https://7se96a0j4qu80.h5games.usercontent.goog/v/1iv1d4soimc78/'
 thumbnail: /new-images/medieval-solitaire.png
 tags:

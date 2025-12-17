@@ -3,7 +3,7 @@ locale: de
 urlstr: cat-mario
 title: "Cat Mario"
 description: >-
-  Stell dich dem ultimativen unfairen Plattformer in Cat Mario (Syobon
+  Stell dich dem ultimativen unfairen Plattformspiel in Cat Mario (Syobon
   Action). Navigiere durch eine Welt voller versteckter Fallen, absurder Feinde
   und fieser Leveltricks in diesem berüchtigt schweren, aber urkomischen
   Parodiespiel.
@@ -23,7 +23,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ein japanisches Freeware-Spiel und eine Parodie auf das klassische *Super
 Mario Bros.*. Auf den ersten Blick wirkt es wie ein simpel gezeichneter Klon
 mit einer weißen Katzenfigur in einer vertraut aussehenden Welt. Doch das Spiel
-ist berüchtigt als "unfairer Plattformer" bzw. Troll-Game.
+ist berüchtigt als "unfairer Plattformspiel" bzw. Troll-Game.
 
 Das gesamte Leveldesign ist darauf ausgelegt, deine Erwartungen zu brechen und
  dich an jeder erdenklichen Stelle hereinzulegen. Die Stages sind gespickt mit
@@ -68,7 +68,7 @@ Gedächtnis.
 
 ### Steuerung
 
-Die Steuerung ist sehr schlicht und ähnelt klassischen 2D-Plattformern.
+Die Steuerung ist sehr schlicht und ähnelt klassischen 2D-Plattformspieln.
 
 -   Pfeiltasten Links/Rechts: Bewege die Katze nach links bzw. rechts.
 -   Pfeiltaste Oben: Springen.

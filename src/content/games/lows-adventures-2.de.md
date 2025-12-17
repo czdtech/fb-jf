@@ -3,7 +3,7 @@ locale: de
 urlstr: lows-adventures-2
 title: "Low's Adventures 2"
 description: >-
-  Retro-Plattformer-Fortsetzung: Laufe und springe durch kompakte Level,
+  Retro-Plattformspiel-Fortsetzung: Laufe und springe durch kompakte Level,
   finde Schlüssel und Geheimnisse und stelle dich Zeit-Herausforderungen.
 iframeSrc: 'https://previews.customer.envatousercontent.com/files/489323722/index.html'
 thumbnail: /new-images/lows-adventures-2.jpg

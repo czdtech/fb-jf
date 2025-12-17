@@ -23,7 +23,7 @@ Fruit Chef reprend le concept classique du découpage de fruits : trace des lign
 2.  Ne poursuis pas les fruits trop bas : laisse‑les remonter dans une zone plus sûre avant de trancher pour éviter de rater ou de toucher une bombe.
 3.  Discipline avec les bombes : interromps immédiatement un geste si tu vois qu’il va croiser une bombe. Mieux vaut perdre un fruit qu’une partie.
 4.  Garde le rythme : adopte une cadence confortable ; les mouvements paniqués et tremblés font perdre en précision.
-5.  Power‑ups : garde les ralentis ou bonus similaires pour les vagues les plus denses de fruits.
+5.  Bonus : garde les ralentis ou bonus similaires pour les vagues les plus denses de fruits.
 
 ### Commandes
 

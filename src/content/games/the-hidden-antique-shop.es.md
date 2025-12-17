@@ -5,7 +5,7 @@ title: "The Hidden Antique Shop - Objetos ocultos en la tienda"
 description: >-
   Adéntrate en The Hidden Antique Shop, una acogedora tienda de antigüedades
   llena de objetos ocultos. Recorre cada rincón, detecta las diferencias más
-  sutiles y resuelve pequeños rompecabezas para abrir nuevas vitrinas y
+  sutiles y resuelve pequeños puzle para abrir nuevas vitrinas y
   estanterías.
 iframeSrc: 'https://7nh0dnmovl0g0.h5games.usercontent.goog/v/01busogksrcm0/'
 thumbnail: /new-images/the-hidden-antique-shop.png

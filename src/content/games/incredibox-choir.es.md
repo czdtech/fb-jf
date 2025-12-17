@@ -30,7 +30,7 @@ sonido. Estos se reparten en las cuatro categorías clásicas (Beats, Effects,
 Melodies, Voices), pero llenas de sonidos inspirados en cantos gregorianos,
 armonías clásicas, solos operísticos y profundos bajos vocales.
 
-El objetivo jugable sigue siendo la mezcla de creatividad y rompecabezas típica
+El objetivo jugable sigue siendo la mezcla de creatividad y puzle típica
 de Incredibox. Puedes combinar libremente sonidos arrastrando iconos sobre los
 personajes para componer piezas corales majestuosas. El reto está en descubrir
 las tres combinaciones de sonidos que desbloquean los bonus animados secretos,

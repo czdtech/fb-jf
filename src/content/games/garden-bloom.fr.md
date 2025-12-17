@@ -28,7 +28,7 @@ Garden Bloom est un jeu relaxant et créatif qui mélange des puzzles match‑3 
 
 2.  Stratégie match‑3 :
     *   **Reste focalisé sur l'objectif** : ne fais pas de matches au hasard. Privilégie toujours les échanges qui font avancer directement la mission du niveau.
-    *   **Crée des power‑ups** : aligner plus de trois éléments génère des boosters puissants. Une ligne de 4 peut créer une pièce spéciale qui nettoie une rangée, tandis qu'un motif en L ou en T peut produire une bombe. Combiner ces boosters nettoie de grosses portions de plateau.
+    *   **Crée des bonus** : aligner plus de trois éléments génère des boosters puissants. Une ligne de 4 peut créer une pièce spéciale qui nettoie une rangée, tandis qu'un motif en L ou en T peut produire une bombe. Combiner ces boosters nettoie de grosses portions de plateau.
     *   **Planifie tes coups** : réfléchis un ou deux mouvements à l'avance. Cherche les occasions de déclencher des cascades ou des combinaisons spéciales. Comme les coups sont limités, chaque échange doit compter.
 
 3.  Design du jardin :

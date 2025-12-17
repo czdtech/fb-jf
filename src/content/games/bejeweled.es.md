@@ -3,7 +3,7 @@ locale: es
 urlstr: bejeweled
 title: "Bejeweled juego clásico de combinar gemas"
 description: >-
-  Bejeweled es el legendario rompecabezas de combinar gemas que popularizó el
+  Bejeweled es el legendario puzle de combinar gemas que popularizó el
   género "match‑3". Intercambia gemas adyacentes, encadena cascadas y utiliza
   gemas especiales para lograr puntuaciones enormes.
 iframeSrc: 'https://files.acticdn.com/278374/30464/index.html'

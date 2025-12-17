@@ -73,6 +73,6 @@ R : Oui, la plupart des versions sont endless ; le but est d’aller le plus l
 - Q: Y a‑t‑il des améliorations ?
 possible.
 
-**Q : Y a‑t‑il des power‑ups ?**  
+**Q : Y a‑t‑il des bonus ?**  
 R : Certaines variantes ajoutent des bonus de vitesse, de score ou des shields
  ; consulte les icônes à l’écran.

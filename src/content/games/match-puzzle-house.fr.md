@@ -13,7 +13,7 @@ releaseDate: 2025-10-18
 
 ### Présentation détaillée
 
-Match Puzzle House combine des niveaux de match‑3 avec la rénovation d’intérieur. Sur le plateau, tu dois éliminer des bloqueurs, collecter des objets précis et atteindre les objectifs imposés avec un nombre de coups limité. Les étoiles gagnées servent ensuite à acheter des meubles, repeindre les murs et débloquer de nouvelles pièces de la maison. Les boosters et les combinaisons de power‑ups sont indispensables pour venir à bout des grilles les plus chargées.
+Match Puzzle House combine des niveaux de match‑3 avec la rénovation d’intérieur. Sur le plateau, tu dois éliminer des bloqueurs, collecter des objets précis et atteindre les objectifs imposés avec un nombre de coups limité. Les étoiles gagnées servent ensuite à acheter des meubles, repeindre les murs et débloquer de nouvelles pièces de la maison. Les boosters et les combinaisons de bonus sont indispensables pour venir à bout des grilles les plus chargées.
 
 ### Stratégies de jeu et progression
 

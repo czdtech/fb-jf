@@ -32,7 +32,7 @@ villancico: la icónica melodía de cuatro notas, armonías por capas, ritmos de
 campanas y secciones corales listas para mezclar.
 
 El objetivo es que puedas reconstruir tu propia versión de "Carol of the
-Bells" mientras resuelves el rompecabezas de encontrar los tres bonus animados
+Bells" mientras resuelves el puzle de encontrar los tres bonus animados
 secretos. Estos bonus, por supuesto, están tematizados alrededor de la Navidad
 y ofrecen recompensas visuales encantadoras para quienes experimentan con la
 música.

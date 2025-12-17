@@ -24,12 +24,12 @@ Emoji With Friends mélange enchaînements rapides et petite déduction à parti
 2.  Priorise les objectifs : si la manche impose des buts spécifiques, termine‑les avant de chercher des matches « pour le style ».
 3.  Gêne ton adversaire (mode versus) : prends rapidement les tuiles convoitées pour casser ses chaînes potentielles.
 4.  Garde le plateau respirable : évite de tout bloquer au centre ; laisse de l’espace pour de futures connexions.
-5.  Garde tes bonus pour les bons moments : utilise les power‑ups dans les fins de course serrées ou pour débloquer un plateau figé.
+5.  Garde tes bonus pour les bons moments : utilise les bonus dans les fins de course serrées ou pour débloquer un plateau figé.
 
 ### Commandes
 
 - Sélection/association : clique ou touche les emojis pour réaliser des connexions valides selon les règles du mode.
-- Power‑ups : active les bonus via les boutons affichés à l’écran (si le mode en propose).
+- Bonus : active les bonus via les boutons affichés à l’écran (si le mode en propose).
 - En ligne/local : les modes varient, mais beaucoup se jouent en sessions locales rapides à deux joueurs.
 
 ### Foire aux questions (FAQ)

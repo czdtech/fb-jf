@@ -33,7 +33,7 @@ sonido. La biblioteca ofrece una experiencia orquestal y coral completa, con
 operísticas**.
 
 El objetivo es que crees tus propias piezas clásicas sofisticadas mientras
-resuelves el rompecabezas de los tres bonus secretos. Cada bonus es una
+resuelves el puzle de los tres bonus secretos. Cada bonus es una
 pequeña escena animada que captura a la perfección la elegancia y el dramatismo
 de la era clásica.
 

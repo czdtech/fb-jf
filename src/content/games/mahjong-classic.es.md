@@ -1,9 +1,9 @@
 ---
 locale: es
 urlstr: mahjong-classic
-title: "Mahjong Classic - Rompecabezas atemporal"
+title: "Mahjong Classic - Puzle atemporal"
 description: >-
-  Disfruta del rompecabezas atemporal Mahjong Classic. Empareja parejas de
+  Disfruta del puzle atemporal Mahjong Classic. Empareja parejas de
   fichas idénticas y libres para limpiar el tablero en este juego relajante de
   estrategia y observación.
 iframeSrc: 'https://mahjongclassic.h5games.usercontent.goog/v/6tue6un26r7v0/'
@@ -21,7 +21,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### Introducción detallada al juego
 
-Mahjong Classic es el rompecabezas para un solo jugador de toda la vida, basado
+Mahjong Classic es el puzle para un solo jugador de toda la vida, basado
 en un conjunto de fichas de Mahjong. El objetivo no es formar manos ganadoras
 como en el Mahjong tradicional, sino despejar paso a paso una disposición de
 fichas apiladas encontrando y emparejando parejas idénticas. Es un juego que

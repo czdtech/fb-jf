@@ -34,7 +34,7 @@ crear pistas con energía y buen humor que recuerdan a una banda sonora de
 dibujos animados modernos.
 
 El objetivo es que los jugadores se diviertan creando mezclas caóticas pero
-pegadizas, mientras resuelven el rompecabezas de encontrar los tres bonus
+pegadizas, mientras resuelven el puzle de encontrar los tres bonus
 animados secretos, claramente inspirados en bromas y travesuras de caricatura.
 
 ### **Estrategia de juego y consejos**

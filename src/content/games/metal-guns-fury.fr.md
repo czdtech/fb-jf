@@ -13,14 +13,14 @@ releaseDate: 2025-10-18
 
 ### Présentation détaillée
 
-Metal Guns Fury est un run‑and‑gun en défilement horizontal inspiré des grands classiques d’arcade. Tu alternes entre fusils, fusils à pompe et lance‑roquettes, sauves des otages pour obtenir des power‑ups et traverses des zones remplies de soldats, tourelles et véhicules légers. Des sauts propres, des glissades bien timées et une bonne gestion des munitions font la différence entre une mission maîtrisée et une défaite rapide.
+Metal Guns Fury est un run‑and‑gun en défilement horizontal inspiré des grands classiques d’arcade. Tu alternes entre fusils, fusils à pompe et lance‑roquettes, sauves des otages pour obtenir des bonus et traverses des zones remplies de soldats, tourelles et véhicules légers. Des sauts propres, des glissades bien timées et une bonne gestion des munitions font la différence entre une mission maîtrisée et une défaite rapide.
 
 ### Stratégies de jeu et progression
 
 1.  **Prioriser les cibles :** élimine en premier les tourelles fixes et les ennemis à roquettes, puis occupe‑toi de l’infanterie basique.
 2.  **Superposer les mouvements :** saute par‑dessus les tirs bas, glisse sous les projectiles en cloche, puis riposte pendant les fenêtres de sécurité.
 3.  **Économie de munitions :** tire en rafales courtes et garde tes roquettes pour les groupes d’ennemis ou les ennemis blindés/boss.
-4.  **Gérer les power‑ups :** planifie le sauvetage des otages et la récupération des bonus juste avant les sections difficiles ou les portes de boss pour partir avec la barre de vie et les munitions au maximum.
+4.  **Gérer les bonus :** planifie le sauvetage des otages et la récupération des bonus juste avant les sections difficiles ou les portes de boss pour partir avec la barre de vie et les munitions au maximum.
 5.  **Lire les patterns des boss :** observe les phases, repère les moments où tu peux attaquer sans risque plutôt que de tirer en permanence en prenant tous les dégâts.
 
 ### Commandes

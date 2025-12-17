@@ -24,7 +24,7 @@ Island Of Treasures est un runner infini en 3D bourré d'action qui te plonge da
 
 1.  **Ramasse tout :** Ton objectif principal est de collecter pièces, joyaux et autres trésors éparpillés sur ton chemin. Ils contribuent à ton score et peuvent servir à débloquer des améliorations ou de nouveaux personnages.
 2.  **Maîtrise les mouvements :** Tu devras réagir rapidement aux obstacles. Glisse à gauche/droite pour changer de voie, glisse vers le haut pour sauter par‑dessus les trous et obstacles bas, et glisse vers le bas pour te glisser sous les obstacles hauts. Entraîne‑toi pour que ces mouvements deviennent une seconde nature.
-3.  **Utilise les power‑ups :** Reste attentif aux power‑ups comme les boosts de vitesse, les boucliers ou les aimants. Ces avantages temporaires peuvent t'aider à survivre plus longtemps et à collecter plus de trésors. Utilise‑les stratégiquement, surtout dans les sections difficiles.
+3.  **Utilise les bonus :** Reste attentif aux bonus comme les boosts de vitesse, les boucliers ou les aimants. Ces avantages temporaires peuvent t'aider à survivre plus longtemps et à collecter plus de trésors. Utilise‑les stratégiquement, surtout dans les sections difficiles.
 4.  **Évite les collisions :** Percuter n'importe quel obstacle ou pirate rival mettra fin à ta course. Privilégie toujours l'esquive plutôt que la collecte si une collision est imminente.
 
 ### Commandes
@@ -39,7 +39,7 @@ Island Of Treasures est un runner infini en 3D bourré d'action qui te plonge da
     *   **R :** Courir le plus loin possible et collecter un maximum de trésors pour atteindre le meilleur score.
 
 *   **Q : Comment attaquer les pirates rivaux ?**
-    *   **R :** Dans la plupart des runners infinis, le combat direct n'est pas l'objectif. Tu évites généralement les pirates rivaux car ce sont des obstacles. Certaines versions peuvent avoir un power‑up ou une action spécifique pour les étourdir temporairement.
+    *   **R :** Dans la plupart des runners infinis, le combat direct n'est pas l'objectif. Tu évites généralement les pirates rivaux car ce sont des obstacles. Certaines versions peuvent avoir un bonus ou une action spécifique pour les étourdir temporairement.
 
 *   **Q : Que se passe‑t‑il si je tombe à l'eau ou percute un obstacle ?**
     *   **R :** Ta course se termine immédiatement, et tu devras recommencer depuis le début.

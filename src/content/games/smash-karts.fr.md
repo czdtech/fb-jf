@@ -4,7 +4,7 @@ urlstr: smash-karts
 title: 'Smash Karts'
 description: >-
   Smash Karts est un jeu de course‑combat de karts en ligne : participe à des
-  courses survoltées, ramasse des power‑ups et affronte les autres joueurs sur
+  courses survoltées, ramasse des bonus et affronte les autres joueurs sur
   des circuits 3D colorés.
 iframeSrc: 'https://webgltest-17af1.firebaseapp.com/'
 thumbnail: /new-images/smash-karts.jpg
@@ -20,14 +20,14 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ### Présentation du jeu
 
 Smash Karts est un jeu de kart en ligne multijoueur où tu t’affrontes dans
-des courses rapides, ramasses des power‑ups et bombardes tes adversaires
+des courses rapides, ramasses des bonus et bombardes tes adversaires
 sur différents circuits en 3D. Le jeu mélange les sensations de la course
 classique avec des éléments de combat pour des parties aussi chaotiques que
 fun.
 
 ### Stratégies de jeu
 
-1.  **Gestion des power‑ups :** apprends à utiliser chaque objet au bon
+1.  **Gestion des bonus :** apprends à utiliser chaque objet au bon
     moment, pour attaquer ou te défendre.
 2.  **Connaître les circuits :** familiarise‑toi avec les tracés pour
     découvrir les meilleurs trajets et raccourcis.
@@ -43,16 +43,16 @@ fun.
 *   **Déplacement :** touches WASD ou flèches pour diriger ton kart.  
 *   **Accélération :** certaines versions proposent une touche de boost
     supplémentaire.  
-*   **Utiliser les power‑ups :** barre d’espace ou clic pour déclencher
+*   **Utiliser les bonus :** barre d’espace ou clic pour déclencher
     l’objet ramassé.  
 *   **Drift :** apprends à déraper pour conserver de la vitesse dans les
     courbes.
 
 ### Foire aux questions
 
-1.  **Q : Comment obtenir des power‑ups ?**  
+1.  **Q : Comment obtenir des bonus ?**  
    R : Passe sur les caisses d’objets disposées sur la piste pour récupérer
-   un power‑up aléatoire.
+   un bonus aléatoire.
 
 2.  **Q : Combien de joueurs peuvent jouer en même temps ?**  
    R : Le jeu supporte généralement de nombreux joueurs en simultané en

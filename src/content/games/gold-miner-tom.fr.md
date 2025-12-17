@@ -28,7 +28,7 @@ Gold Miner Tom est un jeu d'arcade classique qui teste ton timing et ta précisi
     *   Grosses pépites d'or & diamants : tes cibles principales, ce sont les objets les plus rentables.
     *   Petites pépites d'or : plus faciles à attraper et remontées plus rapidement, mais moins lucratives.
     *   Rochers : à éviter ! Ils valent très peu et sont très lourds, donc très longs à remonter.
-    *   Sacs mystère : contiennent une somme d'argent aléatoire ou un power‑up.
+    *   Sacs mystère : contiennent une somme d'argent aléatoire ou un bonus.
 3.  Boutique entre les niveaux : dépense l'argent gagné pour acheter des objets utiles. La dynamite est cruciale pour faire exploser les rochers que tu attrapes par erreur. Les potions de force te permettent de remonter plus vite les objets lourds.
 
 ### Commandes

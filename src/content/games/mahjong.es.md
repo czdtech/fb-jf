@@ -1,9 +1,9 @@
 ---
 locale: es
 urlstr: mahjong
-title: "Mahjongg Solitaire - Clásico rompecabezas de fichas"
+title: "Mahjongg Solitaire - Clásico puzle de fichas"
 description: >-
-  Mahjongg Solitaire es un rompecabezas clásico para un jugador basado en
+  Mahjongg Solitaire es un puzle clásico para un jugador basado en
   fichas de Mahjong tradicionales chinas, donde debes emparejar fichas abiertas
   e idénticas para limpiar el tablero.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-mahjong/'

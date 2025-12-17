@@ -66,10 +66,10 @@ Plus tu descends, plus la vitesse augmente et plus les obstacles se compliquent.
   créent des ouvertures.
 **Q : Le jeu a‑t‑il des niveaux ou est‑il infini ?**  
 
-- Q: Y a‑t‑il des bonus (power‑ups) ?
+- Q: Y a‑t‑il des bonus (bonus) ?
 R : La plupart des versions sont de type endless, avec une difficulté croissante
 et un score basé sur la profondeur atteinte.
 
-**Q : Y a‑t‑il des power‑ups ?**  
+**Q : Y a‑t‑il des bonus ?**  
 R : Certaines variantes ajoutent des bonus (invincibilité temporaire, ralentis,
  etc.).

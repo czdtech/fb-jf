@@ -26,7 +26,7 @@ Pour progresser longtemps, anticipe plusieurs tirs à l’avance et exploite au 
 2.  **Supprime les blocs dangereux en priorité :** tout bloc proche du bas est une menace, surtout avec une valeur élevée. Même si tu dois sacrifier quelques opportunités ailleurs, garde la dernière ligne respirable.
 3.  **Récupère autant de balles que possible :** chaque icône « + » ajoute définitivement une balle à ta rafale. Ajuste ta trajectoire pour les ramasser, car le nombre de balles détermine ta force de frappe en fin de partie.
 4.  **Creuse des tunnels verticaux :** ouvrir une colonne permet aux balles d’osciller longtemps entre deux parois et de marteler les blocs voisins. Nettoyer un couloir tôt rend les vagues suivantes beaucoup plus gérables.
-5.  **Active les power‑ups au bon moment :** certains blocs déclenchent des effets puissants (ligne détruite, tir spécial, etc.). Vise‑les quand plusieurs blocs menacent d’atteindre le bas pour inverser la situation.
+5.  **Active les bonus au bon moment :** certains blocs déclenchent des effets puissants (ligne détruite, tir spécial, etc.). Vise‑les quand plusieurs blocs menacent d’atteindre le bas pour inverser la situation.
 6.  **Prépare des réactions en chaîne :** pense au rebond suivant plutôt qu’au premier impact. En alignant plusieurs murs, tu crées des cascades de dégâts qui vident une grande partie de la grille en un seul tir.
 
 ### Commandes

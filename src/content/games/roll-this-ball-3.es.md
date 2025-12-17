@@ -3,7 +3,7 @@ locale: es
 urlstr: roll-this-ball-3
 title: "Roll This Ball"
 description: >-
-  Un clásico rompecabezas de deslizamiento que pondrá a prueba tu lógica. Mueve
+  Un clásico puzle de deslizamiento que pondrá a prueba tu lógica. Mueve
   los bloques de madera para crear un camino limpio por el que la bola pueda
   rodar desde el inicio hasta la meta.
 iframeSrc: "https://rollthisball3.h5games.usercontent.goog/v/65vs8rm7dfjno/"
@@ -19,7 +19,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### Introducción detallada al juego
 
-Roll This Ball es un rompecabezas clásico y desafiante de bloques deslizantes
+Roll This Ball es un puzle clásico y desafiante de bloques deslizantes
 pensado para poner a prueba tu lógica y tu capacidad de planificación. El juego
 te presenta una cuadrícula de casillas, algunas fijas y otras que se pueden
 mover. Tu objetivo es deslizar los bloques móviles para formar un camino

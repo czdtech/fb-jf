@@ -31,7 +31,7 @@ Jewel Halloween est un match‑3 saisonnier. Échange des gemmes adjacentes pour
 ### Commandes
 
 - Échange : Fais glisser des gemmes adjacentes pour les échanger.
-- Power‑ups : Active en alignant ou en tapant selon les règles.
+- Bonus : Active en alignant ou en tapant selon les règles.
 
 ### Foire aux questions (FAQ)
 

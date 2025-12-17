@@ -43,6 +43,6 @@ Hide And Seek! adapte le cache‑cache de cour de récré en jeu d’arcade vue 
 - **Q : Quelle est la meilleure stratégie de chasseur sur une nouvelle carte ?**  
   R : Commence par patrouiller les zones d’objectifs et les goulots d’étranglement. Une fois que tu connais le flux des PNJ, tout comportement « cassé » ressort beaucoup plus.
 
-- **Q : Les power‑ups réapparaissent‑ils pendant la partie ?**  
+- **Q : Les bonus réapparaissent‑ils pendant la partie ?**  
   R : Dans beaucoup de modes, les objets de pouvoir réapparaissent sur des timers fixes. Apprends leurs emplacements et reviens régulièrement les récupérer.
 

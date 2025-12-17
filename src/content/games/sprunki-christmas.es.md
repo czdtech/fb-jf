@@ -27,7 +27,7 @@ experiencia ideal para todas las edades.
   completando niveles, recogiendo regalos y superando desafíos invernales.
 - **Mecánicas de juego:**
 - **Colección de regalos:** Recorre paisajes nevados para recoger presentes.
-- **Resolución de puzles:** Supera rompecabezas temáticos de Navidad para
+- **Resolución de puzles:** Supera puzle temáticos de Navidad para
     desbloquear nuevos niveles.
 - **Potenciadores festivos:** Usa bastones de caramelo, bolas y otros
     adornos como power‑ups para limpiar fases complicadas.

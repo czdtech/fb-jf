@@ -3,7 +3,7 @@ locale: es
 urlstr: mess-on-the-ranch
 title: "Mess on the Ranch - Ordena el rancho paso a paso"
 description: >-
-  Mess on the Ranch es un rompecabezas de ordenar: lleva a los animales a sus
+  Mess on the Ranch es un puzle de ordenar: lleva a los animales a sus
   corrales, guarda las herramientas, repara vallas y devuelve la calma al
   rancho con rutas bien planificadas.
 iframeSrc: 'https://0b9371ju6aitg.h5games.usercontent.goog/v/0f8khbpbtdrg8/'
@@ -20,7 +20,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### Introducción detallada al juego
 
-Mess on the Ranch es un encantador rompecabezas de organización. Debes reunir
+Mess on the Ranch es un encantador puzle de organización. Debes reunir
 animales sueltos y llevarlos de vuelta a sus corrales, colocar herramientas en
 los cobertizos correctos, arreglar tramos rotos de valla y limpiar escombros,
 normalmente con un número limitado de movimientos o de tiempo. Cada nivel gira

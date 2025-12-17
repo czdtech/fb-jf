@@ -5,7 +5,7 @@ title: "Merge the Gems - Funde gemas y descubre joyas únicas"
 description: >-
   Fusiona gemas idénticas para forjar joyas nuevas y más valiosas. Llena el
   tablero, completa desafíos y descubre todas las piedras preciosas en este
-  brillante y adictivo rompecabezas de merges.
+  brillante y adictivo puzle de merges.
 iframeSrc: 'https://mergethegems.h5games.usercontent.goog/v/5rut2fhhuqb1g/'
 thumbnail: /new-images/merge-the-gems.jpg
 tags:
@@ -20,7 +20,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### Introducción detallada al juego
 
-Merge the Gems es un rompecabezas sencillo, relajante y altamente adictivo
+Merge the Gems es un puzle sencillo, relajante y altamente adictivo
 centrado en fusionar gemas idénticas para crear versiones nuevas y más valiosas.
 Empiezas con piedras sin pulir y, a base de merges, vas obteniendo joyas cada
 vez más brillantes y elaboradas. El objetivo es gestionar el tablero, fusionar

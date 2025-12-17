@@ -72,7 +72,7 @@ pour un score parfait.
   coupes rapides pour rediriger le mouvement.
 **Q : Dois‑je forcément prendre les trois étoiles ?**  
 
-- Q: Y a‑t‑il des bonus (power‑ups) ?
+- Q: Y a‑t‑il des bonus (bonus) ?
 R : Non, une seule réussite du niveau suffit pour progresser, mais les étoiles
 servent souvent à débloquer de nouveaux chapitres.
 

@@ -3,7 +3,7 @@ locale: es
 urlstr: super-brick-builder
 title: 'Super Brick Builder'
 description: >-
-  Super Brick Builder es un rompecabezas de apilar bloques con físicas: coloca
+  Super Brick Builder es un puzle de apilar bloques con físicas: coloca
   ladrillos con precisión, planifica apoyos y completa estructuras con el mínimo
   desperdicio.
 iframeSrc: 'https://0hlb6nt2jsom8.h5games.usercontent.goog/v/4jac78qnv0nr8/'
@@ -19,7 +19,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### Introducción detallada al juego
 
-Super Brick Builder se juega como un rompecabezas de construcción con físicas:
+Super Brick Builder se juega como un puzle de construcción con físicas:
 debes colocar ladrillos para completar siluetas sin que la estructura se venga
 abajo. Un buen apoyo y colocaciones limpias pesan más que rellenar huecos a lo
 loco.

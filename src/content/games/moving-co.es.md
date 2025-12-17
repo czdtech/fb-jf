@@ -3,7 +3,7 @@ locale: es
 urlstr: moving-co
 title: "Moving Co - Día de mudanza convertido en puzle"
 description: >-
-  Moving Co. convierte una mudanza en un rompecabezas ligero: planifica rutas,
+  Moving Co. convierte una mudanza en un puzle ligero: planifica rutas,
   transporta los objetos con cuidado y vence al reloj con una logística
   ordenada.
 iframeSrc: 'https://movingco.h5games.usercontent.goog/v/3crgi5efdnml0/'
@@ -22,7 +22,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Moving Co. es un pequeño reto de logística y colocación. Recorre las estancias,
 recoge muebles y cajas y llévalos hasta el camión o las zonas objetivo evitando
 choques y reduciendo al mínimo el número de viajes. Puertas estrechas, objetos
-frágiles y formas incómodas convierten cada nivel en un rompecabezas espacial
+frágiles y formas incómodas convierten cada nivel en un puzle espacial
 bajo presión de tiempo.
 
 ### Estrategia y recorrido de juego

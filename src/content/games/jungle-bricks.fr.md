@@ -24,7 +24,7 @@ Jungle Bricks est une version captivante et moderne du genre classique casse‑b
 
 1.  **Vise les angles :** La clé d'un score élevé est de maximiser le nombre de coups par tir. Évite de tirer tout droit vers le haut. Au lieu de cela, vise les côtés de l'écran ou les espaces entre les briques pour créer des ricochets complexes. Un tir bien visé peut faire rebondir tes balles autour de l'écran pendant longtemps, nettoyant plusieurs briques à la fois.
 2.  **Priorise les briques à haute menace :** Concentre‑toi toujours sur les briques les plus proches du bas de l'écran. Une seule brique touchant la ligne du bas terminera ta partie, donc les nettoyer devrait être ta priorité absolue.
-3.  **Cherche les power‑ups :** Certaines briques peuvent contenir des power‑ups, comme des balles supplémentaires. Cibler celles‑ci peut augmenter dramatiquement ta puissance de nettoyage pour les tours suivants.
+3.  **Cherche les bonus :** Certaines briques peuvent contenir des bonus, comme des balles supplémentaires. Cibler celles‑ci peut augmenter dramatiquement ta puissance de nettoyage pour les tours suivants.
 4.  **Planifie pour la descente :** Après chaque tir, toutes les briques à l'écran descendent d'un cran. Garde cela en tête quand tu planifies tes tirs. Un plateau qui semble sûr peut devenir dangereux en quelques tours si tu ne nettoies pas les briques efficacement.
 
 ### Commandes

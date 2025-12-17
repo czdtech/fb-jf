@@ -3,7 +3,7 @@ locale: de
 urlstr: krampus
 title: "Krampus"
 description: >-
-  Krampus ist ein weihnachtlicher Horror-Plattformer: Erkunde dunkle Level,
+  Krampus ist ein weihnachtlicher Horror-Plattformspiel: Erkunde dunkle Level,
   weiche Fallen und Kreaturen aus und finde Schlüssel und Items, um aus der
   Höhle des Krampus zu entkommen.
 iframeSrc: 'https://g2.igroutka.ru/lib/crazy/games/krampus1/'
@@ -18,7 +18,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 ### Übersicht
 
-Krampus ist ein saisonaler Horror-Plattformer mit spärlich beleuchteten
+Krampus ist ein saisonaler Horror-Plattformspiel mit spärlich beleuchteten
 Abschnitten, Umweltfallen und Verfolgungssequenzen. Du erkundest die Level, um
 Schlüssel, Schalter und sichere Wege zu finden, während du unheimlichen Wesen
 entgehst. Begrenzte Sichtweite und Soundeffekte sorgen für eine dichte

@@ -3,7 +3,7 @@ locale: es
 urlstr: stars-aligned
 title: 'Stars Aligned'
 description: >-
-  Stars Aligned es un relajante rompecabezas de constelaciones: rota fragmentos,
+  Stars Aligned es un relajante puzle de constelaciones: rota fragmentos,
   conecta líneas y forma patrones de estrellas completos.
 iframeSrc: 'https://starsaligned.h5games.usercontent.goog/v/3i88p78sohtig/'
 thumbnail: /new-images/stars-aligned.jpg
@@ -18,7 +18,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### Introducción detallada al juego
 
-Stars Aligned es un rompecabezas espacial suave sobre encajar fragmentos de
+Stars Aligned es un puzle espacial suave sobre encajar fragmentos de
 estrellas para formar constelaciones. Debes rotar piezas para alinear líneas y
 nodos; en fases avanzadas aparecen más fragmentos y ángulos muy sutiles que
 exigen revisar cada detalle con calma.

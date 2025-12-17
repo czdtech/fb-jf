@@ -34,13 +34,13 @@ releaseDate: 2025-10-18T00:00:00.000Z
 5. **Tirs d’urgence**  
    Quand une rangée est sur le point de toucher la ligne critique, abandonne les setups et vise directement les briques les plus menaçantes.
 
-6. **Power‑ups en réserve**  
+6. **Bonus en réserve**  
    Conserve les nettoyages de ligne ou autres bonus offensifs pour les situations critiques, puis combine-les avec une grosse salve pour vider une zone entière.
 
 ### Commandes
 
 - Glisse pour viser, relâche pour lancer la salve.  
-- Les power‑ups se déclenchent en les touchant ou via clic, selon la version.
+- Les bonus se déclenchent en les touchant ou via clic, selon la version.
 
 ### Foire aux questions (FAQ)
 

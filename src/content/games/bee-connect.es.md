@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: bee-connect
-title: "Bee Connect rompecabezas numérico en panal"
+title: "Bee Connect puzle numérico en panal"
 description: >-
   En Bee Connect debes organizar los números de un panal hexagonal formando
   grupos de cuatro o más celdas iguales para fusionarlas en valores superiores.

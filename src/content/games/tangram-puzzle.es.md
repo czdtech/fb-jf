@@ -1,8 +1,8 @@
 ---
 locale: es
 urlstr: tangram-puzzle
-title: "Tangram Puzzle - Rompecabezas clásico de siluetas"
-description: "Tangram Puzzle es un rompecabezas clásico de disección: coloca siete piezas (tans) para rellenar siluetas sin huecos ni solapamientos, usando solo rotaciones y mucha visión espacial."
+title: "Tangram Puzzle - Puzle clásico de siluetas"
+description: "Tangram Puzzle es un puzle clásico de disección: coloca siete piezas (tans) para rellenar siluetas sin huecos ni solapamientos, usando solo rotaciones y mucha visión espacial."
 iframeSrc: "https://38lbr23ak5hn8.h5games.usercontent.goog/v/3v2lg4sb2v3ug/"
 thumbnail: "/new-images/tangram-puzzle.jpg"
 tags:

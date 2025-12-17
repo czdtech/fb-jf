@@ -16,12 +16,12 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### Présentation du jeu
 
-Pixel Shooter est un jeu de tir au style pixel art rétro où les joueurs contrôlent un personnage pour combattre des hordes d'ennemis à travers différents niveaux, collectant des power‑ups et améliorant leurs armes pour survivre. Le jeu attire les joueurs avec ses graphismes pixel classiques et son expérience de tir rapide.
+Pixel Shooter est un jeu de tir au style pixel art rétro où les joueurs contrôlent un personnage pour combattre des hordes d'ennemis à travers différents niveaux, collectant des bonus et améliorant leurs armes pour survivre. Le jeu attire les joueurs avec ses graphismes pixel classiques et son expérience de tir rapide.
 
 ### Stratégies de jeu
 
 1.  **Bouger et tirer :** déplace ton personnage de manière flexible pour esquiver les attaques ennemies et tire avec précision pour les éliminer.
-2.  **Collecter les power‑ups :** les ennemis vaincus peuvent lâcher des pièces, des packs de vie ou des objets d'amélioration d'armes ; collecte‑les rapidement pour augmenter ta force.
+2.  **Collecter les bonus :** les ennemis vaincus peuvent lâcher des pièces, des packs de vie ou des objets d'amélioration d'armes ; collecte‑les rapidement pour augmenter ta force.
 3.  **Améliorer les armes :** utilise les pièces ou objets spécifiques pour améliorer tes armes, améliorant la cadence de tir, les dégâts ou la portée.
 4.  **Utiliser l'environnement :** certains niveaux peuvent offrir des couvertures ou d'autres éléments environnementaux ; utilise‑les intelligemment pour éviter les dégâts ou tendre des embuscades aux ennemis.
 5.  **Maîtriser les patterns ennemis :** différents ennemis ont différents patterns d'attaque et vitesses de mouvement ; te familiariser avec eux peut t'aider à mieux t'en sortir.

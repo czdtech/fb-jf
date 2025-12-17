@@ -23,8 +23,8 @@ Jewel Academy est un jeu de puzzle match‑3 riche et soigné qui invite les jou
 
 ### Stratégies de jeu
 
-1.  **Cherche les combos spéciaux :** Ne te contente pas d'aligner trois. Cherche activement les opportunités d'aligner quatre ou cinq joyaux, car c'est la clé pour créer des power‑ups puissants qui peuvent nettoyer de grandes sections du plateau.
-2.  **Combine les power‑ups :** La façon la plus efficace de passer les niveaux difficiles est de combiner les joyaux spéciaux. Par exemple, échanger un joyau Flèche avec un joyau Bombe nettoiera trois lignes et trois colonnes simultanément. Échanger deux Bombes de Couleur ensemble nettoiera tout le plateau !
+1.  **Cherche les combos spéciaux :** Ne te contente pas d'aligner trois. Cherche activement les opportunités d'aligner quatre ou cinq joyaux, car c'est la clé pour créer des bonus puissants qui peuvent nettoyer de grandes sections du plateau.
+2.  **Combine les bonus :** La façon la plus efficace de passer les niveaux difficiles est de combiner les joyaux spéciaux. Par exemple, échanger un joyau Flèche avec un joyau Bombe nettoiera trois lignes et trois colonnes simultanément. Échanger deux Bombes de Couleur ensemble nettoiera tout le plateau !
 3.  **Concentre‑toi sur l'objectif :** Garde toujours l'objectif du niveau en tête. Si tu dois nettoyer certaines cases bloquées, concentre tes alignements dans ces zones. Si tu dois faire descendre des objets spéciaux, nettoie les joyaux en dessous d'eux. Ne gaspille pas de coups sur des alignements qui ne contribuent pas à ton objectif.
 4.  **Travaille depuis le bas :** Quand c'est possible, fais des alignements près du bas du plateau. Cela fait tomber plus de joyaux du haut, augmentant les chances de créer des réactions en chaîne ou cascades automatiques, qui peuvent t'aider à compléter les objectifs sans utiliser de coups supplémentaires.
 
@@ -33,7 +33,7 @@ Jewel Academy est un jeu de puzzle match‑3 riche et soigné qui invite les jou
 Le jeu se joue à la souris ou à l'écran tactile.
 
 *   **Échanger des joyaux :** Clique sur un joyau, puis clique sur un joyau adjacent pour échanger leurs positions. Alternativement, tu peux cliquer et faire glisser un joyau vers une place adjacente. Un échange n'est valide que s'il résulte en un alignement de trois ou plus.
-*   **Activer les power‑ups :** Échange un joyau spécial comme n'importe quel autre joyau pour activer son effet. Pour combiner des power‑ups, échange deux joyaux spéciaux adjacents l'un avec l'autre.
+*   **Activer les bonus :** Échange un joyau spécial comme n'importe quel autre joyau pour activer son effet. Pour combiner des bonus, échange deux joyaux spéciaux adjacents l'un avec l'autre.
 
 ### Foire aux questions (FAQ)
 

@@ -28,7 +28,7 @@ mais enveloppé d’une bande‑son chaleureuse et de visuels enneigés.
     maximum de présents.
 - **Résolution d’énigmes :** résous des puzzles sur le thème de Noël pour
     débloquer de nouveaux niveaux ou animations.
-- **Bonus et power‑ups :** utilise des cannes en sucre, guirlandes et autres
+- **Bonus et bonus :** utilise des cannes en sucre, guirlandes et autres
     objets festifs pour t’aider dans les passages difficiles.
   - **Décorer le sapin :** récolte des décorations tout au long de ta partie
     pour illuminer le grand sapin de Noël.

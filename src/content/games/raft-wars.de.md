@@ -3,7 +3,7 @@ locale: de
 urlstr: raft-wars
 title: Raft Wars
 description: >-
-  Raft Wars ist ein rundenbasiertes Taktik-Schießspiel, in dem du zwei Brüdern
+  Raft Wars ist ein rundenbasiertes Taktik-Shooter, in dem du zwei Brüdern
   hilfst, ihren Schatz gegen Piraten und Wikinger zu verteidigen – mit
   Tennisbällen und anderen Projektilen in chaotischen Schlachten auf dem Wasser.
 iframeSrc: >-
@@ -20,7 +20,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 ### Spieleinführung
 
-"Raft Wars" ist ein rundenbasiertes Physik-Schießspiel. Zwei Brüder finden
+"Raft Wars" ist ein rundenbasiertes Physik-Shooter. Zwei Brüder finden
  einen Schatz und müssen ihn fortan gegen Piraten, Wikinger und andere
  Schatzjäger verteidigen. Ausgerüstet mit Tennisbällen und später stärkeren
  Waffen schießt du von deinem Floß aus auf gegnerische Boote und versuchst, sie

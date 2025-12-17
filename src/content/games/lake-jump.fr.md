@@ -36,5 +36,5 @@ Lake Jump est un défi minimaliste basé sur le timing : tu dois déclencher tes
 ### Foire aux questions (FAQ)
 
 - Je dépasse toujours les plateformes, pourquoi ? Tu sautes probablement trop tôt ; décale légèrement ton timing et garde une cadence stable.
-- Y a‑t‑il des power‑ups ? Certaines variantes offrent du slow‑mo ou des plateformes agrandies temporairement.
+- Y a‑t‑il des bonus ? Certaines variantes offrent du slow‑mo ou des plateformes agrandies temporairement.
 - Le jeu est‑il infini ? Le plus souvent oui : le but est de battre ton propre record.

@@ -3,7 +3,7 @@ locale: es
 urlstr: sudoku
 title: 'Sudoku'
 description: >-
-  Sudoku es el rompecabezas numérico clásico en el que debes rellenar una
+  Sudoku es el puzle numérico clásico en el que debes rellenar una
   cuadrícula de 9x9 con los dígitos del 1 al 9, asegurándote de que cada fila,
   columna y subcuadro 3x3 contenga todos los números exactamente una vez.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/html5-sudoku/'
@@ -19,7 +19,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 ### Introducción al juego
 
-«Sudoku» es un rompecabezas numérico de lógica pura. El objetivo es rellenar una
+«Sudoku» es un puzle numérico de lógica pura. El objetivo es rellenar una
 cuadrícula de 9x9 casillas con dígitos del 1 al 9, de manera que cada fila,
 columna y región 3x3 contenga todos los números exactamente una vez. Es una
 prueba de razonamiento, paciencia y atención al detalle.

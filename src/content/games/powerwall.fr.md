@@ -34,7 +34,7 @@ Powerwall est un jeu d'arcade minimaliste et haute énergie qui teste tes réfle
     *   **R :** Tu marques des points pour chaque blocage réussi avec ton Powerwall. Le score augmente avec chaque défense réussie.
 
 *   **Q : Y a‑t‑il un moyen de ralentir la balle ?**
-    *   **R :** Dans le mode de jeu standard, la vitesse de la balle ne fait qu'augmenter. Il n'y a pas de power‑ups pour la ralentir ; le défi vient de l'adaptation à la vitesse croissante.
+    *   **R :** Dans le mode de jeu standard, la vitesse de la balle ne fait qu'augmenter. Il n'y a pas de bonus pour la ralentir ; le défi vient de l'adaptation à la vitesse croissante.
 
 *   **Q : Quel est l'objectif du jeu ?**
     *   **R :** L'objectif est de survivre le plus longtemps possible et d'atteindre le score le plus élevé en bloquant la balle avec succès.

@@ -34,7 +34,7 @@ perturbadoras**.
 
 El objetivo, aunque sigue ligado a la creación musical, deja de ser componer una
 melodía pegadiza para convertirse en construir un **paisaje sonoro terrorífico e
- inmersivo**. El componente de rompecabezas de encontrar los tres bonus
+ inmersivo**. El componente de puzle de encontrar los tres bonus
 secretos se mantiene, con animaciones que encajan a la perfección con la
 estética grotesca y de pesadilla del mod.
 

@@ -24,7 +24,7 @@ Pets Rush est un jeu de match‑3 survie rapide et excitant avec un adorable th�
 1.  **Garder la hauteur sous contrôle :** ton objectif principal est d'empêcher n'importe quelle colonne d'atteindre le haut de l'écran. Privilégie toujours les matches dans tes colonnes les plus hautes pour les faire redescendre.
 2.  **Chercher les combos :** la façon la plus efficace de nettoyer le plateau est de préparer des réactions en chaîne. Quand tu fais un match, de nouveaux animaux tombent en place. Cherche les opportunités où éliminer une ligne provoquera automatiquement un autre match. Ces combos libèrent plus d'espace et rapportent plus de points.
 3.  **Penser vite, agir vite :** le mur d'animaux monte plus vite au fur et à mesure que le jeu progresse. Tu dois rapidement identifier et exécuter des matches pour suivre la vitesse croissante.
-4.  **Blocs spéciaux :** guette les blocs spéciaux ou power‑ups qui peuvent apparaître. Ils peuvent t'aider à nettoyer de larges sections du plateau dans l'urgence.
+4.  **Blocs spéciaux :** guette les blocs spéciaux ou bonus qui peuvent apparaître. Ils peuvent t'aider à nettoyer de larges sections du plateau dans l'urgence.
 
 ### Commandes
 

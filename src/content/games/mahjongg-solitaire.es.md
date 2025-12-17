@@ -3,7 +3,7 @@ locale: es
 urlstr: mahjongg-solitaire
 title: "Mahjongg Solitaire - Despeja el tablero ficha a ficha"
 description: >-
-  Limpia el tablero en Mahjongg Solitaire, el clásico rompecabezas de fichas
+  Limpia el tablero en Mahjongg Solitaire, el clásico puzle de fichas
   para un solo jugador. Encuentra y empareja fichas idénticas y libres, planea
   tus movimientos y despeja todos los niveles en este desafío atemporal.
 iframeSrc: >-
@@ -22,7 +22,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ### Introducción al juego
 
 Mahjongg Solitaire, también conocido como Mahjong Solitaire o Shanghai
-Solitaire, es un popular rompecabezas de emparejar fichas para un solo jugador.
+Solitaire, es un popular puzle de emparejar fichas para un solo jugador.
 El juego utiliza un conjunto de fichas de Mahjong dispuestas en diferentes
 estructuras de varias capas. El objetivo principal es limpiar el tablero
 completo encontrando y emparejando parejas de fichas idénticas que estén

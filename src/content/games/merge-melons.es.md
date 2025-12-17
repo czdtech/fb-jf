@@ -3,7 +3,7 @@ locale: es
 urlstr: merge-melons
 title: "Merge Melons - Suika Game de frutas y sandías gigantes"
 description: >-
-  Suelta y fusiona frutas en este adictivo rompecabezas inspirado en Suika
+  Suelta y fusiona frutas en este adictivo puzle inspirado en Suika
   Game. Combina frutas idénticas para crear versiones más grandes, apunta a la
   sandía gigante y evita que el contenedor se desborde.
 iframeSrc: 'https://mergemelons.h5games.usercontent.goog/v/7526h5to2d1v0/'
@@ -20,7 +20,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### Introducción detallada al juego
 
-Merge Melons es un rompecabezas de físicas delicioso y muy adictivo, conocido
+Merge Melons es un puzle de físicas delicioso y muy adictivo, conocido
 popularmente como "Suika Game" o "Watermelon Game". La premisa es sencilla pero
 hipnótica: vas soltando distintos tipos de frutas dentro de un contenedor. Cuando
 dos frutas idénticas se tocan, se fusionan y dan lugar a una fruta más grande

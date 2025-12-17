@@ -1,9 +1,9 @@
 ---
 locale: es
 urlstr: minesweeper-2
-title: "Minesweeper - Clásico rompecabezas de minas"
+title: "Minesweeper - Clásico puzle de minas"
 description: >-
-  El rompecabezas lógico atemporal. Usa las pistas numéricas para deducir la
+  El puzle lógico atemporal. Usa las pistas numéricas para deducir la
   posición de todas las minas ocultas y limpia el tablero sin hacer explotar
   ninguna.
 iframeSrc: 'https://minesweeper.h5games.usercontent.goog/v/6uo6tf2lnil3o/'
@@ -20,7 +20,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### Introducción detallada al juego
 
-Minesweeper es un rompecabezas lógico para un jugador que lleva décadas siendo
+Minesweeper es un puzle lógico para un jugador que lleva décadas siendo
 un clásico del PC. El objetivo es limpiar una cuadrícula llena de minas ocultas
 sin detonar ninguna. Para lograrlo, te basas en los números que aparecen en las
 casillas abiertas, que indican cuántas minas hay en las ocho casillas adyacentes.

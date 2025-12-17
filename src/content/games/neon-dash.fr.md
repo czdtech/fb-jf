@@ -34,7 +34,7 @@ Neon Dash est un runner basé sur les réflexes, rempli de pics, de plateformes 
   **R :** Tu sautes généralement trop tôt. Décale légèrement ton timing et garde une vitesse de déplacement fluide.
 
 - **Q : Y a‑t‑il un double saut ?**  
-  **R :** Certains niveaux introduisent des plateformes spéciales ou des power‑ups ; suis les indications affichées à l’écran.
+  **R :** Certains niveaux introduisent des plateformes spéciales ou des bonus ; suis les indications affichées à l’écran.
 
 - **Q : Un conseil pour les derniers niveaux ?**  
   **R :** Ralentis mentalement, compte les temps et reste fidèle au rythme que tu as appris lors de tes tentatives précédentes.

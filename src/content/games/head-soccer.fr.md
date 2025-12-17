@@ -15,7 +15,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 ### Présentation du jeu
 
-Head Soccer condense le football en duels 1 contre 1 nerveux avec de grosses têtes et une physique simplifiée. Les matchs durent de quelques secondes à quelques minutes, et les power‑ups ou tirs spéciaux peuvent complètement renverser la situation. Tu gagnes en marquant plus de buts que ton adversaire avant la fin du temps ou selon les règles de but en or.
+Head Soccer condense le football en duels 1 contre 1 nerveux avec de grosses têtes et une physique simplifiée. Les matchs durent de quelques secondes à quelques minutes, et les bonus ou tirs spéciaux peuvent complètement renverser la situation. Tu gagnes en marquant plus de buts que ton adversaire avant la fin du temps ou selon les règles de but en or.
 
 ### Comment jouer
 
