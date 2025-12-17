@@ -333,9 +333,12 @@
     - 回归：✅ validate:i18n errors=0 / structure mismatches=0
   - _Requirements: R2, R6, R8_
 
-- [ ] 3.2 高频句式/标点统一
+- [x] 3.2 高频句式/标点统一
   - 只对明显模式化、低风险的句式做统一（例如介绍段开头、FAQ 问句标点）。
   - 仍需保持结构节点不变。
+  - 执行记录（2025-12-17）：
+    - es：补齐 FAQ 问句西语倒问号 `¿`（15 处 / 6 个文件）
+    - 回归：✅ validate:i18n errors=0 / structure mismatches=0
   - _Requirements: R2, R5, R8_
 
 ---

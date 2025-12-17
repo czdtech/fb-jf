@@ -45,14 +45,14 @@ alterar el ritmo y leer al portero que de la potencia bruta.
 
 ### Preguntas frecuentes (FAQ)
 
-- **P: Me paran casi todas las Panenkas, qué hago mal?**  
+- **P: ¿Me paran casi todas las Panenkas, qué hago mal?**  
   **R:** Úsalas solo cuando el portero se lanza muy pronto; si espera hasta el
   final, es mejor buscar una esquina.
 
-- **P: Cuál es el disparo "seguro"?**  
+- **P: ¿Cuál es el disparo "seguro"?**  
   **R:** Los tiros bajos y firmes a las esquinas son difíciles de atajar y
   exigen un timing perfecto del guardameta.
 
-- **P: Cómo oculto mejor hacia dónde voy a tirar?**  
+- **P: ¿Cómo oculto mejor hacia dónde voy a tirar?**  
   **R:** Cambia el ángulo de carrera, decide tarde y juega con pequeñas pausas
   antes de chutar para forzar al portero a adivinar.

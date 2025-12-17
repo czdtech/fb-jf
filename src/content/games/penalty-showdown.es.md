@@ -46,7 +46,7 @@ pegarle fuerte, sino en cambiar el ritmo y mezclar perfiles de disparo.
 
 ### Preguntas frecuentes (FAQ)
 
-- **P: Me paran demasiados penaltis, qué estoy haciendo mal?**  
+- **P: ¿Me paran demasiados penaltis, qué estoy haciendo mal?**  
   **R:** Evita repetir siempre la misma zona y altura; retrasa la decisión de
   tiro y no chutes siempre al centro.
 
@@ -54,6 +54,6 @@ pegarle fuerte, sino en cambiar el ritmo y mezclar perfiles de disparo.
   **R:** Cambia el ángulo de carrera y añade pequeñas pausas antes del golpeo
   para romper sus lecturas.
 
-- **P: Algún consejo clave para parar más balones?**  
+- **P: ¿Algún consejo clave para parar más balones?**  
   **R:** Observa los dos últimos pasos del lanzador: la posición de las caderas
   suele delatar el lado del disparo.

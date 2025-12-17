@@ -70,21 +70,21 @@ Los controles son muy simples y pensados para pantallas táctiles.
 
 ### Preguntas frecuentes (FAQ)
 
-**1. He perdido aunque todos los aliens han llegado a la nave, por qué?**  
+**1. ¿He perdido aunque todos los aliens han llegado a la nave, por qué?**  
 Es probable que algunos aliens llegaran sin haberse teñido de color; solo los
 que están coloreados cuentan como "salvados". Asegúrate de que todos se tiñen
 antes de entrar en la nave.
 
-**2. Tiro de un pin y todo explota. Qué hago mal?**  
+**2. ¿Tiro de un pin y todo explota. Qué hago mal?**  
 Has permitido que los aliens entren en contacto con una bomba. Busca una forma
 alternativa de soltar primero los explosivos en una zona segura o de trazar un
 camino que los evite.
 
-**3. El nivel parece imposible. Algún consejo?**  
+**3. ¿El nivel parece imposible. Algún consejo?**  
 Cada nivel tiene una solución concreta. Si te bloqueas, replantea el orden de
 los pines. Muchas veces la respuesta pasa por tirar primero de un pin que no
 parece acercarte a la salida, pero que prepara mejor el flujo posterior.
 
-**4. Cuál es el objetivo final del juego?**  
+**4. ¿Cuál es el objetivo final del juego?**  
 Superar cada puzle llevando a todos los aliens coloreados hasta el UFO y avanzar
 por el mayor número de niveles posible.

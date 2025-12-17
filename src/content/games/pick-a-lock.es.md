@@ -46,7 +46,7 @@ la calma y el enfoque son fundamentales.
 
 ### Preguntas frecuentes (FAQ)
 
-- **P: Siempre pulso demasiado pronto, cómo lo corrijo?**  
+- **P: ¿Siempre pulso demasiado pronto, cómo lo corrijo?**  
   **R:** Añade una micro pausa a tu conteo interno; piensa "uno‑y‑pulso" en vez
   de "uno‑pulso".
 
@@ -54,6 +54,6 @@ la calma y el enfoque son fundamentales.
   **R:** Concéntrate solo en el siguiente marcador; no intentes memorizar varios
   por adelantado.
 
-- **P: Importa la tasa de FPS?**  
+- **P: ¿Importa la tasa de FPS?**  
   **R:** Un framerate estable ayuda; cierra otras aplicaciones si notas que el
   ritmo se vuelve irregular.

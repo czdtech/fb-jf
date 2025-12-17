@@ -47,13 +47,13 @@ concreto.
 
 ### Preguntas frecuentes (FAQ)
 
-- **P: Muevo coches y coches pero no avanzo, algún consejo?**  
+- **P: ¿Muevo coches y coches pero no avanzo, algún consejo?**  
   **R:** Replantea qué vehículo está bloqueando de verdad la salida y busca un
   movimiento que libere a varios coches, no solo uno.
 
-- **P: Se pueden mover los coches en diagonal?**  
+- **P: ¿Se pueden mover los coches en diagonal?**  
   **R:** No, solo pueden deslizarse a lo largo de su propia longitud.
 
-- **P: Hay sistema de pistas?**  
+- **P: ¿Hay sistema de pistas?**  
   **R:** Muchas versiones incluyen pistas paso a paso; úsalas con moderación si
   quieres mantener el reto.

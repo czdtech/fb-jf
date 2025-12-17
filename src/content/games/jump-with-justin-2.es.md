@@ -53,6 +53,6 @@ cometiendo el mínimo de errores posible.
   R: Algunas fases incluyen muelles o power‑ups que simulan ese efecto, pero no
   siempre está disponible.
 
-- **Consejos para conseguir el 100 % de coleccionables?**  
+- **¿Consejos para conseguir el 100 % de coleccionables?**  
   R: Primero limpia el nivel completando la ruta básica y luego vuelve para
   trazar una ruta específica que incluya todas las estrellas.
