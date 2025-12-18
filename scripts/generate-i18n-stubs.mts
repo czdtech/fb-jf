@@ -126,10 +126,8 @@ Examples:
 async function readCanonicalGames(filterPattern?: string): Promise<CanonicalGame[]> {
   const files = await fs.readdir(GAMES_DIR);
   
-  // Filter for canonical game files (slug.md pattern, not slug.lang.md)
-  const canonicalFiles = files.filter(f => {
-    return f.endsWith('.md') && !f.match(/\.(zh|ja|es|fr|de|ko)\.md$/);
-  });
+  // Canonical games are stored as `<urlstr>.en.md`.
+  const canonicalFiles = files.filter((f) => f.endsWith('.en.md'));
 
   const canonicalGames: CanonicalGame[] = [];
 
@@ -144,7 +142,9 @@ async function readCanonicalGames(filterPattern?: string): Promise<CanonicalGame
       continue;
     }
 
-    const urlstr = frontmatter.urlstr || filename.replace('.md', '');
+    const urlstr =
+      frontmatter.urlstr ||
+      filename.replace(/\.en\.md$/, '').replace(/\.md$/, '');
 
     // Apply filter if provided
     if (filterPattern && !urlstr.includes(filterPattern)) {
@@ -173,7 +173,7 @@ async function findExistingVariants(
 
   for (const game of canonicalGames) {
     for (const locale of targetLocales) {
-      const variantFile = game.filename.replace('.md', `.${locale}.md`);
+      const variantFile = `${game.urlstr}.${locale}.md`;
       const variantPath = path.join(GAMES_DIR, variantFile);
 
       try {
@@ -203,7 +203,7 @@ function generateTasks(
       const key = `${game.urlstr}:${locale}`;
       
       if (!existingVariants.has(key)) {
-        const targetFile = game.filename.replace('.md', `.${locale}.md`);
+        const targetFile = `${game.urlstr}.${locale}.md`;
         
         tasks.push({
           urlstr: game.urlstr,

@@ -5,7 +5,17 @@ import sitemap from '@astrojs/sitemap';
 export default defineConfig({
   site: 'https://www.playfiddlebops.com',
 
-  integrations: [sitemap()],
+  integrations: [
+    sitemap({
+      filter: (page) => {
+        try {
+          return !new URL(page).pathname.startsWith('/admin');
+        } catch {
+          return !page.includes('/admin');
+        }
+      },
+    }),
+  ],
 
   build: {
     // 保持原站的目录型 URL（/slug/）

@@ -30,7 +30,7 @@ let errors = 0;
 
 for (const game of batch2Games) {
   const jaFile = path.join(GAMES_DIR, `${game}.ja.md`);
-  const enFile = path.join(GAMES_DIR, `${game}.md`);
+  const enFile = path.join(GAMES_DIR, `${game}.en.md`);
   const zhFile = path.join(GAMES_DIR, `${game}.zh.md`);
   
   try {

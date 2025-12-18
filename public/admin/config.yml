@@ -1,0 +1,62 @@
+# Decap CMS Configuration
+# 文档: https://decapcms.org/docs/
+
+backend:
+  name: github
+  repo: czdtech/fb-jf
+  branch: main
+  # GitHub OAuth scope：public repo 写入权限（比 repo 更小更安全）
+  auth_scope: public_repo
+  # 这里不是你的网站域名，而是 OAuth 代理服务（Worker）的域名
+  # 先用 workers.dev 跑通；后续绑定自定义域名后再改成 https://auth.playfiddlebops.com
+  base_url: https://wispy-queen-45cf.chongzhidatech.workers.dev
+  auth_endpoint: auth
+
+# 媒体文件存储位置
+media_folder: "public/new-images"
+public_folder: "/new-images"
+
+# 本地开发时使用（需要运行：npx decap-server）
+# local_backend: true
+
+# 集合定义
+collections:
+  - name: "games"
+    label: "游戏"
+    folder: "src/content/games"
+    create: true
+    slug: "{{slug}}"
+    # 性能优化：仓库里总共有 7 语言版本（约 679*7=4753 个文件）。
+    # Decap 的 GitHub backend 会为列表视图拉取并解析大量文件，导致后台“加载不出来”。
+    # 这里将 canonical 英文文件统一命名为 `*.en.md`，并让 CMS 只索引该扩展名。
+    extension: "en.md"
+    format: "frontmatter"
+    fields:
+      - { label: "标题", name: "title", widget: "string", required: true }
+      - { label: "描述", name: "description", widget: "text", required: true }
+      - { label: "游戏链接", name: "iframeSrc", widget: "string", required: true }
+      - { label: "缩略图", name: "thumbnail", widget: "image", required: true }
+      - { label: "URL 路径", name: "urlstr", widget: "string", required: true }
+      - { label: "标签", name: "tags", widget: "list", required: true }
+      - { label: "语言", name: "locale", widget: "hidden", default: "en" }
+      - { label: "发布日期", name: "releaseDate", widget: "datetime", required: false }
+      - { label: "评分", name: "score", widget: "string", required: false }
+      - { label: "开发者", name: "developer", widget: "string", required: false }
+
+  - name: "trending"
+    label: "Trending 配置"
+    files:
+      - name: "trending"
+        label: "Trending Games"
+        file: "src/data/trending.json"
+        format: "json"
+        fields:
+          - { label: "generatedAt", name: "generatedAt", widget: "datetime", required: false }
+          - { label: "window", name: "window", widget: "string", required: false }
+          - { label: "source", name: "source", widget: "string", required: false }
+          - label: "Trending 游戏列表"
+            name: "items"
+            widget: "list"
+            fields:
+              - { label: "Slug", name: "slug", widget: "string" }
+              - { label: "Score（热度/浏览量）", name: "score", widget: "number", required: true }

@@ -3,7 +3,7 @@
  * Baseline I18n Analysis Script
  * 
  * This script performs three key tasks:
- * 1. Enumerate all Canonical Games (locale=en, filename pattern: slug.md)
+ * 1. Enumerate all Canonical Games (locale=en, filename pattern: slug.en.md)
  * 2. Calculate localization coverage for each target language (zh, ja, es, fr, de, ko)
  * 3. Validate frontmatter completeness for all game content files
  * 
@@ -140,7 +140,7 @@ async function parseGameFile(filename: string): Promise<GameMetadata | null> {
     const frontmatter = parseFrontmatter(content);
 
     // Extract slug from filename
-    const slug = filename.replace(/\.(md|zh\.md|ja\.md|es\.md|fr\.md|de\.md|ko\.md)$/, '');
+    const slug = filename.replace(/\.(en|zh|ja|es|fr|de|ko)\.md$/, '');
     
     // Check required fields
     const missingFields: string[] = [];
@@ -180,11 +180,8 @@ async function enumerateCanonicalGames(): Promise<CanonicalGame[]> {
 
   const files = await fs.readdir(GAMES_DIR);
   
-  // Filter for canonical game files (slug.md pattern, not slug.lang.md)
-  const canonicalFiles = files.filter(f => {
-    return f.endsWith('.md') && 
-           !f.match(/\.(zh|ja|es|fr|de|ko)\.md$/);
-  });
+  // Filter for canonical game files (slug.en.md)
+  const canonicalFiles = files.filter((f) => f.endsWith('.en.md'));
 
   console.log(`Found ${canonicalFiles.length} potential canonical game files\n`);
 

@@ -50,6 +50,7 @@ audio {
   padding: 0;
   height: 600px;
   background-color: var(--color-bg-white, #fff);
+  background-image: var(--bg-image, none);
   position: relative;
   background-repeat: no-repeat;
   background-position: center center;

@@ -35,7 +35,7 @@ async function translateContent(englishContent) {
 
 // Process a single game file
 async function processGame(slug) {
-  const enPath = path.join(projectRoot, 'src/content/games', `${slug}.md`);
+  const enPath = path.join(projectRoot, 'src/content/games', `${slug}.en.md`);
   const jaPath = path.join(projectRoot, 'src/content/games', `${slug}.ja.md`);
   
   try {

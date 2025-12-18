@@ -30,9 +30,8 @@ interface CanonicalGame {
 async function readCanonicalGames(gamesDir: string): Promise<CanonicalGame[]> {
   try {
     const files = await fs.readdir(gamesDir);
-    const canonicalFiles = files.filter(f => {
-      return f.endsWith('.md') && !f.match(/\.(zh|ja|es|fr|de|ko)\.md$/);
-    });
+    // Canonical games are stored as `<urlstr>.en.md`.
+    const canonicalFiles = files.filter((f) => f.endsWith('.en.md'));
 
     const canonicalGames: CanonicalGame[] = [];
 
@@ -46,7 +45,9 @@ async function readCanonicalGames(gamesDir: string): Promise<CanonicalGame[]> {
         continue;
       }
 
-      const urlstr = frontmatter.urlstr || filename.replace('.md', '');
+      const urlstr =
+        frontmatter.urlstr ||
+        filename.replace(/\.en\.md$/, '').replace(/\.md$/, '');
 
       canonicalGames.push({
         urlstr,
@@ -74,7 +75,8 @@ async function findExistingVariants(
 
   for (const game of canonicalGames) {
     for (const locale of targetLocales) {
-      const variantFile = game.filename.replace('.md', `.${locale}.md`);
+      // Variants follow `<urlstr>.<locale>.md` naming (e.g. `soccar.zh.md`).
+      const variantFile = `${game.urlstr}.${locale}.md`;
       const variantPath = path.join(gamesDir, variantFile);
 
       try {
@@ -192,7 +194,7 @@ describe('I18n Stub Generation', () => {
 
       // Check that no filenames match localized pattern
       for (const game of canonicalGames) {
-        expect(game.filename).not.toMatch(/\.(zh|ja|es|fr|de|ko)\.md$/);
+        expect(game.filename).toMatch(/\.en\.md$/);
       }
     });
   });
@@ -251,7 +253,7 @@ describe('I18n Stub Generation', () => {
     it('should generate valid frontmatter with locale and urlstr', () => {
       const mockCanonical: CanonicalGame = {
         urlstr: 'test-game',
-        filename: 'test-game.md',
+        filename: 'test-game.en.md',
         frontmatter: {
           title: 'Test Game',
           description: 'A test game description',
@@ -278,7 +280,7 @@ describe('I18n Stub Generation', () => {
     it('should preserve markdown structure in stub body', () => {
       const mockCanonical: CanonicalGame = {
         urlstr: 'test-game',
-        filename: 'test-game.md',
+        filename: 'test-game.en.md',
         frontmatter: {
           title: 'Test Game',
           description: 'Test',
@@ -317,7 +319,7 @@ This is a paragraph.
     it('should handle empty content gracefully', () => {
       const mockCanonical: CanonicalGame = {
         urlstr: 'empty-game',
-        filename: 'empty-game.md',
+        filename: 'empty-game.en.md',
         frontmatter: {
           title: 'Empty Game',
           description: 'Empty',
@@ -338,7 +340,7 @@ This is a paragraph.
     it('should include optional fields when present', () => {
       const mockCanonical: CanonicalGame = {
         urlstr: 'game-with-extras',
-        filename: 'game-with-extras.md',
+        filename: 'game-with-extras.en.md',
         frontmatter: {
           title: 'Game',
           description: 'Description',

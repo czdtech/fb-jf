@@ -53,7 +53,7 @@ function nodesMatch(a, b) {
 }
 
 function compare(name) {
-  const c = parseStructure(bodyOf(`${name}.md`));
+  const c = parseStructure(bodyOf(`${name}.en.md`));
   const l = parseStructure(bodyOf(`${name}.zh.md`));
 
   let i = 0;

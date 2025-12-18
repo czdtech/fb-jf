@@ -180,8 +180,10 @@ function getContentCollectionSlugs(): string[] {
   if (fs.existsSync(contentDir)) {
     const files = fs.readdirSync(contentDir);
     for (const file of files) {
-      if (file.endsWith('.md')) {
-        slugs.push(file.replace('.md', ''));
+      // Only use canonical English entries.
+      // Content is stored as `<urlstr>.<locale>.md` (e.g. `soccar.en.md`).
+      if (file.endsWith('.en.md')) {
+        slugs.push(file.replace('.en.md', ''));
       }
     }
   }

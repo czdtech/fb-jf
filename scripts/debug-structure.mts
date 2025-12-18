@@ -2,7 +2,7 @@
 import fs from 'fs';
 import matter from 'gray-matter';
 
-const canonicalFile = fs.readFileSync('src/content/games/2048-fusion.md', 'utf-8');
+const canonicalFile = fs.readFileSync('src/content/games/2048-fusion.en.md', 'utf-8');
 const jaFile = fs.readFileSync('src/content/games/2048-fusion.ja.md', 'utf-8');
 
 const { content: canonicalContent } = matter(canonicalFile);

@@ -1,0 +1,23 @@
+---
+/**
+ * Decap CMS entry page
+ *
+ * 说明：
+ * - 这个页面放在 Astro 路由里，确保 dev/build 都能访问 /admin/
+ * - 配置文件使用 public/admin/config.yml -> /admin/config.yml
+ */
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="robots" content="noindex" />
+    <title>Content Manager | Fiddlebops</title>
+  </head>
+  <body>
+    <div id="nc-root"></div>
+    <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
+  </body>
+</html>

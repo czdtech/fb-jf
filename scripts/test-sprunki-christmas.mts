@@ -37,7 +37,7 @@ function parseMarkdownStructure(body: string) {
   return nodes;
 }
 
-const canonicalRaw = fs.readFileSync('src/content/games/sprunki-christmas.md', 'utf-8');
+const canonicalRaw = fs.readFileSync('src/content/games/sprunki-christmas.en.md', 'utf-8');
 const localizedRaw = fs.readFileSync('src/content/games/sprunki-christmas.es.md', 'utf-8');
 
 const { content: canonicalContent } = matter(canonicalRaw);

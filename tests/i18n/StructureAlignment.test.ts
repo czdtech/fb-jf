@@ -52,7 +52,7 @@ async function loadGameFiles(): Promise<GameFile[]> {
     const urlstr: string =
       typeof data.urlstr === 'string' && data.urlstr.trim() !== ''
         ? data.urlstr
-        : filename.replace(/\.(md|zh\.md|ja\.md|es\.md|fr\.md|de\.md|ko\.md)$/, '');
+        : filename.replace(/\.(en|zh|ja|es|fr|de|ko)\.md$/, '');
 
     results.push({
       filename,
