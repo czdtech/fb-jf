@@ -12,6 +12,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import PopularGames from './PopularGames.astro';
 import NewGames from './NewGames.astro';
 import IndexTrendingGames from './IndexTrendingGames.astro';
+import RecentlyPlayed from './RecentlyPlayed.astro';
 import Common from './Common.astro';
 import Categories from './Categories.astro';
 import LongContentDe from './homepage/HomePageLongContent.de.astro';
@@ -144,6 +145,7 @@ const LongContent = LONG_CONTENT_BY_LOCALE[locale];
     </div>
   </section>
 
+  <RecentlyPlayed lang={lang} />
   <IndexTrendingGames lang={lang} />
   <Common lang={lang} />
   <Categories lang={lang} />
@@ -295,5 +297,4 @@ const LongContent = LONG_CONTENT_BY_LOCALE[locale];
     });
   </script>
 </BaseLayout>
-
 

@@ -61,6 +61,7 @@ const homeHref = getLocalizedPath('/', locale);
 
 // Use the title as-is from content (already includes "Play X Online" format)
 const pageTitle = title;
+const cardTitle = (pageTitle || '').split(' - ')[0] || pageTitle;
 
 // Build keywords from tags (SEO best practice) or fallback to title
 // Legacy pages used curated keywords like "Sprunki Retake, Sprunki Retake online"
@@ -151,7 +152,9 @@ const jsonLd = {
 <div id="game-config" 
      data-iframe-src={iframeSrc} 
      data-has-fullscreen={hasFullscreen.toString()}
-     data-game-slug={slug}>
+     data-game-slug={slug}
+     data-game-title={cardTitle}
+     data-game-thumbnail={thumbnail}>
 </div>
 
 <script>
@@ -165,6 +168,34 @@ const jsonLd = {
     const iframeSrc = configEl.dataset.iframeSrc || '';
     const hasFullscreen = configEl.dataset.hasFullscreen === 'true';
     const gameSlug = configEl.dataset.gameSlug || '';
+    const gameTitle = configEl.dataset.gameTitle || '';
+    const gameThumbnail = configEl.dataset.gameThumbnail || '';
+
+    const RECENT_KEY = 'fb_recent_games_v1';
+    function recordRecentGame() {
+      try {
+        if (!gameSlug || !gameThumbnail) return;
+
+        const raw = localStorage.getItem(RECENT_KEY);
+        const parsed = raw ? JSON.parse(raw) : [];
+        const list = Array.isArray(parsed) ? parsed : [];
+
+        const next = list
+          .filter((it) => it && typeof it === 'object' && String(it.slug || '') !== String(gameSlug))
+          .slice(0, 50);
+
+        next.unshift({
+          slug: String(gameSlug),
+          title: String(gameTitle || ''),
+          thumbnail: String(gameThumbnail),
+          playedAt: Date.now(),
+        });
+
+        localStorage.setItem(RECENT_KEY, JSON.stringify(next.slice(0, 20)));
+      } catch {
+        // ignore storage errors
+      }
+    }
     
     // Initialize iframe loader with fullscreen support
     const iframe = document.getElementById('fiddlebops-iframe');
@@ -180,6 +211,9 @@ const jsonLd = {
             game_slug: gameSlug,
           });
         }
+
+        // Local: 记录“最近玩”（不登录、无后端）
+        recordRecentGame();
 
         iframe.src = iframeSrc;
         playButton.style.display = 'none';

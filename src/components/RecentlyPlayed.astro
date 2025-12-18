@@ -1,0 +1,111 @@
+---
+import { getLocaleFromLangAttr, useTranslations } from '../i18n/utils';
+
+interface Props {
+  lang?: string;
+  maxItems?: number;
+}
+
+const { lang = 'en', maxItems = 12 } = Astro.props as Props;
+const locale = getLocaleFromLangAttr(lang);
+const t = useTranslations(locale);
+---
+
+<section class="games" id="recently-played" hidden>
+  <div class="container">
+    <h2>{t('game.recentlyPlayed', 'Recently Played')}</h2>
+    <div class="game-grid" id="recently-played-grid"></div>
+  </div>
+</section>
+
+<script is:inline type="module" define:vars={{ locale, maxItems }}>
+  const STORAGE_KEY = 'fb_recent_games_v1';
+
+  function safeParseJson(text) {
+    try {
+      return JSON.parse(text);
+    } catch {
+      return null;
+    }
+  }
+
+  function buildHref(slug) {
+    if (!slug) return '#';
+    return locale === 'en' ? `/${slug}/` : `/${locale}/${slug}/`;
+  }
+
+  function normalizeTitle(title) {
+    const t = (title || '').trim();
+    if (!t) return '';
+    return t.split(' - ')[0] || t;
+  }
+
+  function loadRecentGames() {
+    try {
+      const raw = localStorage.getItem(STORAGE_KEY);
+      if (!raw) return [];
+      const parsed = safeParseJson(raw);
+      if (!Array.isArray(parsed)) return [];
+
+      const items = parsed
+        .filter((it) => it && typeof it === 'object')
+        .map((it) => ({
+          slug: String(it.slug || '').trim(),
+          title: normalizeTitle(it.title),
+          thumbnail: String(it.thumbnail || '').trim(),
+          playedAt: Number(it.playedAt || 0),
+        }))
+        .filter((it) => it.slug && it.thumbnail)
+        .sort((a, b) => (b.playedAt - a.playedAt) || a.slug.localeCompare(b.slug))
+        .slice(0, Math.max(1, Number(maxItems) || 12));
+
+      return items;
+    } catch {
+      return [];
+    }
+  }
+
+  function escapeHtml(s) {
+    return String(s)
+      .replaceAll('&', '&amp;')
+      .replaceAll('<', '&lt;')
+      .replaceAll('>', '&gt;')
+      .replaceAll('"', '&quot;')
+      .replaceAll("'", '&#039;');
+  }
+
+  function render() {
+    const section = document.getElementById('recently-played');
+    const grid = document.getElementById('recently-played-grid');
+    if (!section || !grid) return;
+
+    const items = loadRecentGames();
+    if (!items.length) return;
+
+    grid.innerHTML = items
+      .map((it) => {
+        const href = buildHref(it.slug);
+        const title = it.title || it.slug;
+        return `
+          <div class="game game--compact">
+            <a href="${escapeHtml(href)}" title="${escapeHtml(title)}">
+              <div class="game-logo game-l-2">
+                <img src="${escapeHtml(it.thumbnail)}" alt="${escapeHtml(title)}" loading="lazy" width="300" height="300" />
+              </div>
+              <p class="game__title--ellipsis">${escapeHtml(title)}</p>
+            </a>
+          </div>
+        `;
+      })
+      .join('');
+
+    section.hidden = false;
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', render);
+  } else {
+    render();
+  }
+</script>
+

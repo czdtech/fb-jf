@@ -23,6 +23,7 @@
   "nav": {
     "home": "Home",
     "newGames": "New Games",
+    "search": "Search",
     "fiddlebopsMod": "Fiddlebops Mod",
     "incrediboxMod": "Incredibox Mod",
     "sprunkiMod": "Sprunki Mod"
@@ -35,6 +36,7 @@
     "popularGames": "Popular Games",
     "newGames": "New Games",
     "trendingGames": "Trending Games",
+    "recentlyPlayed": "Recently Played",
     "exploreGames": "Explore Games"
   },
   "common": {
