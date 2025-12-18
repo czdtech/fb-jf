@@ -94,6 +94,7 @@ const jsonLd = {
       hreflangLinks={hreflangLinks}
       jsonLd={jsonLd}
     />
+    {thumbnail && <link rel="preload" as="image" href={thumbnail} />}
     <link rel="stylesheet" href="/styles/components.css">
     <Analytics />
 </head>
