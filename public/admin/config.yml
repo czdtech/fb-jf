@@ -25,7 +25,8 @@ collections:
     label: "游戏"
     folder: "src/content/games"
     create: true
-    slug: "{{slug}}"
+    # 强绑定：文件名使用 urlstr（会生成 `<urlstr>.en.md`）
+    slug: "{{fields.urlstr}}"
     # 性能优化：仓库里总共有 7 语言版本（约 679*7=4753 个文件）。
     # Decap 的 GitHub backend 会为列表视图拉取并解析大量文件，导致后台“加载不出来”。
     # 这里将 canonical 英文文件统一命名为 `*.en.md`，并让 CMS 只索引该扩展名。
@@ -36,10 +37,23 @@ collections:
       - { label: "描述", name: "description", widget: "text", required: true }
       - { label: "游戏链接", name: "iframeSrc", widget: "string", required: true }
       - { label: "缩略图", name: "thumbnail", widget: "image", required: true }
-      - { label: "URL 路径", name: "urlstr", widget: "string", required: true }
+      - label: "URL 路径（唯一）"
+        name: "urlstr"
+        widget: "string"
+        required: true
+        hint: "创建后尽量不要修改（与文件名、页面路径强绑定）"
+        pattern: ["^[a-z0-9]+(?:-[a-z0-9]+)*$", "只能使用小写字母、数字和连字符（-），例如：sprunki-phase-8"]
       - { label: "标签", name: "tags", widget: "list", required: true }
       - { label: "语言", name: "locale", widget: "hidden", default: "en" }
-      - { label: "发布日期", name: "releaseDate", widget: "datetime", required: false }
+      - label: "Mod 类型"
+        name: "modType"
+        widget: "select"
+        required: false
+        options: ["sprunki", "incredibox", "fiddlebops"]
+      - { label: "精选（Featured）", name: "featured", widget: "boolean", required: false, default: false }
+      - { label: "侧栏 - New 位（1-4）", name: "sidebarNew", widget: "number", required: false, min: 1, max: 4, step: 1 }
+      - { label: "侧栏 - Popular 位（1-4）", name: "sidebarPopular", widget: "number", required: false, min: 1, max: 4, step: 1 }
+      - { label: "发布日期", name: "releaseDate", widget: "datetime", required: false, format: "YYYY-MM-DD", time_format: false, picker_utc: true }
       - { label: "评分", name: "score", widget: "string", required: false }
       - { label: "开发者", name: "developer", widget: "string", required: false }
 

@@ -99,7 +99,7 @@ const jsonLd = {
 <body>
 <Header lang={lang}/>
 
-    <main>
+    <main data-pagefind-body>
         <section class="hero">
             <div class="container">
                 <div class="game-card">
@@ -164,6 +164,7 @@ const jsonLd = {
     
     const iframeSrc = configEl.dataset.iframeSrc || '';
     const hasFullscreen = configEl.dataset.hasFullscreen === 'true';
+    const gameSlug = configEl.dataset.gameSlug || '';
     
     // Initialize iframe loader with fullscreen support
     const iframe = document.getElementById('fiddlebops-iframe');
@@ -172,6 +173,14 @@ const jsonLd = {
     
     if (playButton && iframe && gameContainer && iframeSrc) {
       playButton.addEventListener('click', () => {
+        // GA4: 记录 “Play” 点击（用于 Trending / 转化口径）
+        const gtag = globalThis.gtag;
+        if (typeof gtag === 'function') {
+          gtag('event', 'play_click', {
+            game_slug: gameSlug,
+          });
+        }
+
         iframe.src = iframeSrc;
         playButton.style.display = 'none';
         iframe.focus();

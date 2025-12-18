@@ -1,0 +1,13 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import SearchSection from '../components/SearchSection.astro';
+
+const title = 'Search - FiddleBops Game World';
+const description = 'Search games and pages on FiddleBops Game World.';
+const canonicalUrl = 'https://www.playfiddlebops.com/search/';
+---
+
+<BaseLayout title={title} description={description} canonicalUrl={canonicalUrl} lang="en" noindex={true}>
+  <SearchSection lang="en" />
+</BaseLayout>
+

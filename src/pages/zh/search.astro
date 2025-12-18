@@ -1,0 +1,13 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import SearchSection from '../../components/SearchSection.astro';
+
+const title = '搜索 - FiddleBops 游戏世界';
+const description = '搜索本站的游戏与页面内容。';
+const canonicalUrl = 'https://www.playfiddlebops.com/zh/search/';
+---
+
+<BaseLayout title={title} description={description} canonicalUrl={canonicalUrl} lang="zh-CN" noindex={true}>
+  <SearchSection lang="zh-CN" />
+</BaseLayout>
+

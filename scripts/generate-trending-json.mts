@@ -13,10 +13,11 @@
  *
  * Env vars (optional):
  * - TRENDING_OUT             (default: src/data/trending.json)
- * - TRENDING_WINDOW_DAYS     (default: 1; uses yesterday..yesterday for 1, otherwise <N>daysAgo..yesterday)
+ * - TRENDING_WINDOW_DAYS     (default: 7; uses yesterday..yesterday for 1, otherwise <N>daysAgo..yesterday)
  * - GA4_LIMIT                (default: 500)
  * - GA4_METRIC               (default: screenPageViews)
  * - GA4_DIMENSION            (default: pagePath)
+ * - GA4_EVENT_NAME           (optional; when set, uses eventCount and filters by eventName==GA4_EVENT_NAME)
  */
 
 import crypto from 'node:crypto';
@@ -150,6 +151,7 @@ async function runGa4Report(options: {
   limit: number;
   metric: string;
   dimension: string;
+  eventName?: string | null;
 }): Promise<Array<{ pagePath: string; score: number }>> {
   const url = `https://analyticsdata.googleapis.com/v1beta/properties/${options.propertyId}:runReport`;
   const body = {
@@ -158,6 +160,16 @@ async function runGa4Report(options: {
     metrics: [{ name: options.metric }],
     orderBys: [{ metric: { metricName: options.metric }, desc: true }],
     limit: String(options.limit),
+    ...(options.eventName
+      ? {
+          dimensionFilter: {
+            filter: {
+              fieldName: 'eventName',
+              stringFilter: { matchType: 'EXACT', value: options.eventName },
+            },
+          },
+        }
+      : {}),
   };
 
   const res = await fetch(url, {
@@ -205,9 +217,10 @@ async function main(): Promise<void> {
     ? path.resolve(process.env.TRENDING_OUT)
     : path.join(process.cwd(), 'src', 'data', 'trending.json');
 
-  const windowDays = Math.max(1, Number.parseInt(process.env.TRENDING_WINDOW_DAYS || '1', 10) || 1);
+  const windowDays = Math.max(1, Number.parseInt(process.env.TRENDING_WINDOW_DAYS || '7', 10) || 7);
   const limit = Math.max(1, Number.parseInt(process.env.GA4_LIMIT || '500', 10) || 500);
-  const metric = (process.env.GA4_METRIC || 'screenPageViews').trim();
+  const eventName = (process.env.GA4_EVENT_NAME || '').trim() || null;
+  const metric = (process.env.GA4_METRIC || (eventName ? 'eventCount' : 'screenPageViews')).trim();
   const dimension = (process.env.GA4_DIMENSION || 'pagePath').trim();
 
   const gamesDir = path.join(process.cwd(), 'src', 'content', 'games');
@@ -217,7 +230,7 @@ async function main(): Promise<void> {
 
   const startDate = windowDays === 1 ? 'yesterday' : `${windowDays}daysAgo`;
   const endDate = 'yesterday';
-  const rows = await runGa4Report({ propertyId, accessToken, startDate, endDate, limit, metric, dimension });
+  const rows = await runGa4Report({ propertyId, accessToken, startDate, endDate, limit, metric, dimension, eventName });
 
   const scores = new Map<string, number>();
   for (const row of rows) {
@@ -247,5 +260,4 @@ main().catch((err) => {
   console.error(err instanceof Error ? err.message : String(err));
   process.exit(1);
 });
-
 

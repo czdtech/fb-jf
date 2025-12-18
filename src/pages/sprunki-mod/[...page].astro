@@ -1,56 +1,26 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import { SPRUNKI_MOD_HREFLANG } from '../../data/hreflang';
+import { getCanonicalGames, type GameEntry } from '../../lib/canonical-games';
 
-export function getStaticPaths({ paginate }) {
-  const astronautPages = [
-    { astronaut: ["/sprunki-craft/","/sprunki-craft.jpg","Sprunki Craft"]},
-    { astronaut: ["/sprunki-good-night/","/sprunki-good-night.png","Sprunki Good Night"]},
-    { astronaut: ["/sprunki-dandys-world/","/sprunki-dandys-world.png","Sprunki Dandys World"]},
-    { astronaut: ["/ayocs-sprunkr/","/ayocs-sprunkr.png","AYOCS Sprunkr"]},
-    { astronaut: ["/sprunki-pyramixed-version/","/sprunki-pyramixed-version.png","Sprunki Pyramixed"]},
-    { astronaut: ["/sprunki-phase-1/","/sprunki-phase-1.png","Sprunki Phase 1"]},
-    { astronaut: ["/sprunki-phase-2-5/","/sprunki-phase-2-5.png","Sprunki Phase 2.5"]},
-    { astronaut: ["/sprunki-phase-5/","/sprunki-phase-5.png","Sprunki Phase 5"]},
-    { astronaut: ["/sprunki-phase-8/","/sprunki-phase-8.png","Sprunki Phase 8"]},
-    { astronaut: ["/sprunki-squid-remix/","/sprunki-squid-remix.png","Sprunki Squid Remix"]},
-    { astronaut: ["/sprunki-1996/","/sprunki-1996.png","Sprunki 1996"]},
-    { astronaut: ["/sprunki-babies/","/sprunki-babies.png","Sprunki Babies"]},
-    { astronaut: ["/mundo-torajo-sprunki/","/mundo-torajo-sprunki.png","Mundo Torajo Sprunki"]},
-    { astronaut: ["/sprunki-minecraft/","/sprunki-minecraft.png","Sprunki Minecraft"]},
-    { astronaut: ["/pikmin-no-sprunki/","/pikmin-no-sprunki.png","Pikmin No Sprunki"]},
-    { astronaut: ["/incredibox-sprunksters/","/incredibox-sprunksters.png","Incredibox Sprunksters"]},
-    { astronaut: ["/the-haze-pixelbox/","/the-haze-pixelbox.png","The Haze Pixelbox"]},
-    { astronaut: ["/sprunki-red-sun/","/sprunki-red-sun.png","Sprunki Red Sun"]},
-    { astronaut: ["/sprunki-halloween/","/sprunki-halloween.png","Sprunki Halloween"]},
-    { astronaut: ["/sprunki-swapped-horror/","/sprunki-swapped-horror.png","Sprunki Swapped Horror"]},
-    { astronaut: ["/sprunki-virus-new-update/","/sprunki-virus-new-update.png","Sprunki Virus New Update"]},
-    { astronaut: ["/sprunki-rotrizi-5/","/sprunki-rotrizi-5.png","Sprunki rotrizi 5.0"]},
-    { astronaut: ["/sprunki-parasite-parasprunki-15/","/sprunki-parasite-parasprunki-15.png","Sprunki Parasite ParaSprunki 15"]},
-    { astronaut: ["/yojou-sprunki-mustard/","/yojou-sprunki-mustard.png","Yojou Sprunki Mustard"]},
-    { astronaut: ["/sprunki-retake-bonus-characters/","/sprunki-retake-bonus-characters.png","Sprunki Retake Bonus Characters"]},
-    { astronaut: ["/sprunki-abgerny/","/sprunki-abgerny.png","Sprunki Abgerny"]},
-    { astronaut: ["/sprunki-christmas/","/sprunki-christmas.png","Sprunki Christmas"]},
-    { astronaut: ["/sprunki-police-and-prisoners/","/sprunki-police-and-prisoners.png","Sprunki Police And Prisoners"]},
-    { astronaut: ["/sprunki-sepbox-steel-factory/","/sprunki-sepbox-steel-factory.png","Sprunki x Sepbox Steel Factory"]},
-    { astronaut: ["/sprunki-like-minecraft/","/sprunki-like-minecraft.png","Sprunki Like Minecraft"]},
-    { astronaut: ["/sprunki-but-with-memes/","/sprunki-but-with-memes.png","Sprunki But With Memes"]},
-    { astronaut: ["/sprunkr-but-sprunki/","/sprunkr-but-sprunki.png","Sprunkr But Sprunki"]},
-    { astronaut: ["/sprunki-mustard/","/sprunki-mustard.png","Sprunki Mustard"]}, 
-    { astronaut: ["/sprunki-mod-BFDI/","/sprunki-mod-bfdi.png","Sprunki Mod BFDI"]},
-    { astronaut: ["/sprunki-interactive-beta/","/sprunki-interactive-beta.png","Sprunki Interactive BETA"]},
-    { astronaut: ["/sprunki-eggs-mix/","/sprunki-eggs-mix.png","Sprunki Egg's Mix"]},
-    { astronaut: ["/sprunki-pyramixed/","/sprunki-pyramixed-0.9.png","Sprunki Pyramixed 0.9"]},
-    { astronaut: ["/sprunki-retake-new-human/","/sprunki-retake-new-human.png","Sprunki Retake New Human"]},
-    { astronaut: ["/dandyrunki-retake/","/dandyrunki-retake.png","Dandyrunki Retake"]},
-    { astronaut: ["/mountayonnaise/","/sprunki-mountayonnaise.png","Sprunki Mountayonnaise"]},
-    { astronaut: ["/sprunki-meets-the-cat-spell/","/sprunki-meets-the-cat-spell.png","Sprunki Meets The Cat Spell"]},
-    { astronaut: ["/sprunki-play-random/","/sprunki-play-random.png","Sprunki Play Random"]},
-    { astronaut: ["/sprunki-basical/","/sprunki-basical.png","Sprunki Basical"]},
-    { astronaut: ["/super-sprunki-brasil/","/super-sprunki-brasil.png","Super Sprunki Brasil"]},
-  ];
+export async function getStaticPaths({ paginate }) {
+  const canonicalGames = await getCanonicalGames();
 
-  // 根据宇航员数组生成页面，每页 100 项
+  const getSlug = (entry: GameEntry): string =>
+    String(entry.data.urlstr || entry.slug).replace(/^\/+/, '').replace(/\/+$/, '');
+
+  const getTitle = (entry: GameEntry): string => {
+    const title = entry.data.title || 'Untitled';
+    return title.split(' - ')[0] || title;
+  };
+
+  const modGames = canonicalGames.filter((game) => game.data.modType === 'sprunki');
+
+  const astronautPages = modGames.map((game) => ({
+    astronaut: [`/${getSlug(game)}/`, game.data.thumbnail, getTitle(game)],
+  }));
+
+  // 根据数据动态分页（保持原先 pageSize=100）
   return paginate(astronautPages, { pageSize: 100 });
 }
 

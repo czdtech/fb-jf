@@ -26,22 +26,45 @@ function getReleaseDateMs(entry: GameEntry): number {
   return entry.data.releaseDate ? entry.data.releaseDate.getTime() : 0;
 }
 
+let canonicalGamesCache: Promise<GameEntry[]> | null = null;
+
 /**
  * Canonical games are the single source of truth for lists/trending/categories.
  * - Only `locale === 'en'` entries are considered canonical.
  * - Sorted deterministically (releaseDate desc, then slug asc).
  */
 export async function getCanonicalGames(): Promise<GameEntry[]> {
-  const all = await getCollection('games');
-  const canonical = all.filter((entry) => entry.data.locale === 'en');
+  if (!canonicalGamesCache) {
+    canonicalGamesCache = (async () => {
+      const all = await getCollection('games');
+      const canonical = all.filter((entry) => entry.data.locale === 'en');
 
-  canonical.sort((a, b) => {
-    const byDate = getReleaseDateMs(b) - getReleaseDateMs(a);
-    if (byDate !== 0) return byDate;
-    return getCanonicalSlug(a).localeCompare(getCanonicalSlug(b));
-  });
+      // Hard constraint: urlstr must be unique for canonical entries.
+      // This prevents duplicate routes and SEO issues.
+      const seen = new Map<string, string>();
+      for (const entry of canonical) {
+        const slug = getCanonicalSlug(entry);
+        const ref = String((entry as unknown as { id?: string }).id ?? entry.slug);
+        const prev = seen.get(slug);
+        if (prev) {
+          throw new Error(
+            `Duplicate canonical urlstr detected: "${slug}" (${prev} vs ${ref}). Ensure urlstr is unique.`
+          );
+        }
+        seen.set(slug, ref);
+      }
 
-  return canonical;
+      canonical.sort((a, b) => {
+        const byDate = getReleaseDateMs(b) - getReleaseDateMs(a);
+        if (byDate !== 0) return byDate;
+        return getCanonicalSlug(a).localeCompare(getCanonicalSlug(b));
+      });
+
+      return canonical;
+    })();
+  }
+
+  return canonicalGamesCache;
 }
 
 /**
@@ -58,4 +81,3 @@ export function toGameCardData(entry: GameEntry, locale: Locale): GameCardData {
     title: getCardTitle(entry),
   };
 }
-

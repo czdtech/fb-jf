@@ -1,5 +1,6 @@
 ---
-import { useTranslations, getLocaleFromLangAttr, getLocalizedPath } from '../i18n/utils';
+import { getCanonicalGames, type GameEntry, toGameCardData } from '../lib/canonical-games';
+import { useTranslations, getLocaleFromLangAttr } from '../i18n/utils';
 
 interface Props {
   lang?: string;
@@ -8,34 +9,36 @@ interface Props {
 const { lang = 'en' } = Astro.props as Props;
 const locale = getLocaleFromLangAttr(lang);
 const t = useTranslations(locale);
+
+const canonicalGames = await getCanonicalGames();
+const getSlug = (entry: GameEntry): string =>
+  String(entry.data.urlstr || entry.slug).replace(/^\/+/, '').replace(/\/+$/, '');
+
+const targetCount = 4;
+const picked = canonicalGames
+  .filter((g) => typeof g.data.sidebarNew === 'number' && Number.isFinite(g.data.sidebarNew))
+  .sort((a, b) => (a.data.sidebarNew! - b.data.sidebarNew!) || getSlug(a).localeCompare(getSlug(b)))
+  .slice(0, targetCount);
+
+if (picked.length < targetCount) {
+  const pickedSlugs = new Set(picked.map(getSlug));
+  const fallback = canonicalGames.filter((g) => !pickedSlugs.has(getSlug(g))).slice(0, targetCount - picked.length);
+  picked.push(...fallback);
+}
+
+const cards = picked.map((g) => toGameCardData(g, locale));
 ---
 
 <div class="game-iframe-new">
   <h3>&#9658; {t('game.newGames', 'New Games')}</h3>
   <ul>
-    <li>
-      <a href={getLocalizedPath('steal-a-brainrot/', locale)} title="Steal a Brainrot">
-        <img src="/new-images/steal-a-brainrot.webp" alt="Steal a Brainrot" loading="lazy" width="150" height="150">
-        <div class="title">Steal a Brainrot</div>
-      </a>
-    </li>
-    <li>
-      <a href={getLocalizedPath('99-nights-in-the-forest/', locale)} title="99 Nights in the Forest">
-        <img src="/new-images/99-nights-in-the-forest.webp" alt="99 Nights in the Forest" loading="lazy" width="150" height="150">
-        <div class="title">99 Nights in the Forest</div>
-      </a>
-    </li>
-    <li>
-      <a href={getLocalizedPath('grow-a-garden/', locale)} title="Grow a Garden">
-        <img src="/growagarden-min.jpeg" alt="Grow a Garden" loading="lazy" width="150" height="150">
-        <div class="title">Grow a Garden</div>
-      </a>
-    </li>
-    <li>
-      <a href={getLocalizedPath('incredibox/', locale)} title="Incredibox">
-        <img src="/Incredibox.png" alt="Incredibox" loading="lazy" width="150" height="150">
-        <div class="title">Incredibox v1 - v9</div>
-      </a>
-    </li>
+    {cards.map((game) => (
+      <li>
+        <a href={game.href} title={game.title}>
+          <img src={game.thumbnail} alt={game.title} loading="lazy" width="150" height="150" />
+          <div class="title">{game.title}</div>
+        </a>
+      </li>
+    ))}
   </ul>
 </div>

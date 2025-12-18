@@ -1,0 +1,181 @@
+---
+import { getLocaleFromLangAttr, useTranslations } from '../i18n/utils';
+
+interface Props {
+  lang?: string;
+}
+
+const { lang = 'en' } = Astro.props as Props;
+const locale = getLocaleFromLangAttr(lang);
+const t = useTranslations(locale);
+
+const localePrefixes = ['zh', 'es', 'fr', 'de', 'ja', 'ko'] as const;
+---
+
+<section class="games">
+  <div class="container">
+    <h1>{t('search.title', 'Search')}</h1>
+    <p>{t('search.subtitle', 'Search games and pages on this site.')}</p>
+
+    <div class="site-search">
+      <input
+        id="site-search-input"
+        type="search"
+        placeholder={t('search.placeholder', 'Search…')}
+        autocomplete="off"
+      />
+    </div>
+
+    <div id="site-search-status" class="site-search-status" aria-live="polite"></div>
+    <div id="site-search-results" class="site-search-results"></div>
+  </div>
+</section>
+
+<style>
+  .site-search {
+    margin: 16px 0;
+  }
+  .site-search input {
+    width: 100%;
+    max-width: 720px;
+    padding: 12px 14px;
+    border-radius: 10px;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    font-size: 16px;
+    outline: none;
+  }
+  .site-search input:focus {
+    border-color: rgba(0, 0, 0, 0.35);
+  }
+  .site-search-status {
+    margin: 10px 0 6px;
+    color: rgba(0, 0, 0, 0.7);
+    font-size: 14px;
+  }
+  .site-search-results {
+    display: grid;
+    gap: 10px;
+    max-width: 900px;
+  }
+  .site-search-result {
+    border: 1px solid rgba(0, 0, 0, 0.08);
+    border-radius: 12px;
+    padding: 12px 14px;
+    background: #fff;
+  }
+  .site-search-result a {
+    font-weight: 700;
+    text-decoration: none;
+  }
+  .site-search-result .excerpt {
+    margin-top: 6px;
+    color: rgba(0, 0, 0, 0.75);
+    font-size: 14px;
+    line-height: 1.45;
+  }
+  .site-search-result mark {
+    background: rgba(255, 215, 0, 0.35);
+    padding: 0 2px;
+    border-radius: 4px;
+  }
+</style>
+
+<script is:inline type="module" define:vars={{ locale, localePrefixes }}>
+
+  const input = document.getElementById('site-search-input');
+  const status = document.getElementById('site-search-status');
+  const resultsEl = document.getElementById('site-search-results');
+
+  function isAllowedUrl(url) {
+    if (!url || typeof url !== 'string') return false;
+    if (url.startsWith('/admin')) return false;
+    if (url.startsWith('/embed/')) return false;
+    if (url.endsWith('/search/')) return false;
+    if (locale === 'en') {
+      return !localePrefixes.some((p) => url.startsWith(`/${p}/`));
+    }
+    return url.startsWith(`/${locale}/`);
+  }
+
+  function setStatus(text) {
+    if (status) status.textContent = text || '';
+  }
+
+  function renderResults(items) {
+    if (!resultsEl) return;
+    if (!items.length) {
+      resultsEl.innerHTML = '';
+      return;
+    }
+    resultsEl.innerHTML = items
+      .map((item) => {
+        const href = item.url || '#';
+        const title = item.meta?.title || href;
+        const excerpt = item.excerpt || '';
+        return `
+          <div class="site-search-result">
+            <a href="${href}">${title}</a>
+            ${excerpt ? `<div class="excerpt">${excerpt}</div>` : ''}
+          </div>
+        `;
+      })
+      .join('');
+  }
+
+  async function loadPagefind() {
+    if (location.protocol === 'file:') {
+      return null;
+    }
+    try {
+      const mod = await import('/pagefind/pagefind.js');
+      await mod.init();
+      return mod;
+    } catch (err) {
+      console.error('[search] Failed to load Pagefind:', err);
+      return null;
+    }
+  }
+
+  let pagefind = null;
+  let timer = null;
+
+  async function doSearch(query) {
+    const q = (query || '').trim();
+    if (!q) {
+      setStatus('');
+      renderResults([]);
+      return;
+    }
+
+    if (!pagefind) {
+      setStatus('Loading search index…');
+      pagefind = await loadPagefind();
+      if (!pagefind) {
+        if (location.protocol === 'file:') {
+          setStatus('搜索需要通过本地服务器访问：请运行 `npm run preview`（或部署到线上）再打开 /search/');
+        } else {
+          setStatus('Search index not found. Run `npm run build` then `npm run preview`.');
+        }
+        return;
+      }
+    }
+
+    setStatus('Searching…');
+    const search = await pagefind.search(q);
+    const rawResults = search?.results || [];
+
+    const data = await Promise.all(rawResults.slice(0, 50).map((r) => r.data()));
+    const filtered = data.filter((d) => isAllowedUrl(d.url)).slice(0, 20);
+
+    setStatus(filtered.length ? `Found ${filtered.length} result(s)` : 'No results');
+    renderResults(filtered);
+  }
+
+  if (input) {
+    input.addEventListener('input', (e) => {
+      const q = e.target?.value || '';
+      if (timer) clearTimeout(timer);
+      timer = setTimeout(() => doSearch(q), 150);
+    });
+  }
+</script>

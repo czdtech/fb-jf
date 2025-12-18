@@ -7,7 +7,7 @@
   },
   "scripts": {
     "dev": "astro dev",
-    "build": "astro build",
+    "build": "astro build && pagefind --site dist",
     "preview": "astro preview",
     "astro": "astro",
     "baseline": "node scripts/create-baseline.mjs",
@@ -27,6 +27,8 @@
     "validate:batch": "tsx scripts/validate-batch.mts",
     "generate:stubs": "tsx scripts/generate-i18n-stubs.mts",
     "generate:trending": "tsx scripts/generate-trending-json.mts",
+    "backfill:releaseDate": "tsx scripts/backfill-release-date.mts",
+    "backfill:modType": "tsx scripts/backfill-mod-type.mts",
     "coverage:report": "tsx scripts/generate-coverage-report.mts",
     "cleanup:markers": "tsx scripts/cleanup-i18n-markers.mts",
     "test": "npm run build && npm run validate:i18n && vitest --run",
@@ -43,6 +45,7 @@
     "cheerio": "^1.1.2",
     "fast-check": "^4.3.0",
     "gray-matter": "^4.0.3",
+    "pagefind": "^1.4.0",
     "tsx": "^4.21.0",
     "vitest": "^4.0.15"
   }

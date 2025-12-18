@@ -12,6 +12,12 @@ const gamesCollection = defineCollection({
     urlstr: z.string(),
     // 内容语言，用于多语言详情页选择（默认英文）
     locale: z.enum(['en', 'zh', 'ja', 'es', 'fr', 'de', 'ko']).default('en'),
+    // Mod 类型（用于 Mod 列表页筛选）
+    modType: z.enum(['sprunki', 'incredibox', 'fiddlebops']).optional(),
+    // 运营/展示字段：用于侧栏与精选
+    featured: z.boolean().optional(),
+    sidebarNew: z.number().int().min(1).max(4).optional(),
+    sidebarPopular: z.number().int().min(1).max(4).optional(),
     // 使用 .optional() 来定义可选字段
     developer: z.string().optional(), // 开发者名称，可选的字符串
     releaseDate: z.date().optional(), // 发布日期，可选的日期对象

@@ -1,21 +1,26 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import { FIDDLEBOPS_MOD_HREFLANG } from '../../data/hreflang';
+import { getCanonicalGames, type GameEntry } from '../../lib/canonical-games';
 
-export function getStaticPaths({ paginate }) {
-  const astronautPages = [
+export async function getStaticPaths({ paginate }) {
+  const canonicalGames = await getCanonicalGames();
 
-    { astronaut: ["/","/tw.jpg","Fiddlebops"]},
-    { astronaut: ["/fiddlebops-fix/","/fiddlebops-fix.png","FiddleBops Fix"]},
-    { astronaut: ["/fiddlebops-polos/","/fiddlebops-polos.png","FiddleBops Polos"]},
-    { astronaut: ["/fiddlebops-but-dandys-world/","/fiddlebops-but-dandys-world.png","Fiddlebops But Dandy's World"]},
-    { astronaut: ["/fiddlebops-sprunksters-remix/","/fiddlebops-sprunksters-remix.png","Fiddlebops Sprunksters remix"]},
-    { astronaut: ["/fiddlebops-sprunkbop/","/fiddlebops-sprunkbop.png","Fiddlebops Sprunkbop"]},
-    { astronaut: ["/fiddlebops-but-sprunki/","/fiddlebops-but-sprunki.png","FiddleBops but Sprunki"]},
-    { astronaut: ["/fiddlebops-sprunki/","/fiddlebops-sprunki-bg-1.png","Fiddlebops Sprunki"]},
-  ];
+  const getSlug = (entry: GameEntry): string =>
+    String(entry.data.urlstr || entry.slug).replace(/^\/+/, '').replace(/\/+$/, '');
 
-  // 根据宇航员数组生成页面，每页 30 项
+  const getTitle = (entry: GameEntry): string => {
+    const title = entry.data.title || 'Untitled';
+    return title.split(' - ')[0] || title;
+  };
+
+  const modGames = canonicalGames.filter((game) => game.data.modType === 'fiddlebops');
+
+  const astronautPages = modGames.map((game) => ({
+    astronaut: [`/${getSlug(game)}/`, game.data.thumbnail, getTitle(game)],
+  }));
+
+  // 根据数据动态分页（保持原先 pageSize=30）
   return paginate(astronautPages, { pageSize: 30 });
 }
 

@@ -14,22 +14,33 @@ export async function getStaticPaths() {
   const slugify = (normalizedTag: string): string => normalizedTag.replace(/\s+/g, '-');
   const toTagSlug = (rawTag: string): string => slugify(normalizeTag(rawTag));
 
-  // Use slug as the route key to avoid collisions like "2 player" vs "2-player".
-  const uniqueSlugs = [
-    ...new Set(
-      canonicalGames
-        .flatMap((game) => game.data.tags || [])
-        .filter((tag): tag is string => typeof tag === 'string' && tag.trim() !== '')
-        .map((tag) => toTagSlug(tag))
-    ),
-  ].sort();
+  // ✅ Taxonomy 策略（B）：只为“核心分类”生成 /c/<slug>/ 页面，避免 200+ tag 产生大量薄内容页。
+  // 其它 tags 仅用于关键词/推荐/搜索，不生成分类页（访问会 404）。
+  const CORE_CATEGORY_SLUGS = [
+    'puzzle',
+    'casual',
+    'thinky',
+    'action',
+    'sports',
+    'strategy',
+    'platformer',
+    'arcade',
+    'shooting',
+    'card',
+    'rhythm',
+    'adventure',
+    'music',
+    'clicker',
+    'driving',
+    'physics',
+    'multiplayer',
+    '2-player',
+  ] as const;
 
-  return uniqueSlugs.map((slug) => {
-    // Filter games that include the current tag.
+  const paths = CORE_CATEGORY_SLUGS.map((slug) => {
+    // Filter games that include the current tag slug.
     const filteredGames = canonicalGames.filter((game) =>
-      (game.data.tags || []).some(
-        (rawTag) => typeof rawTag === 'string' && toTagSlug(rawTag) === slug
-      )
+      (game.data.tags || []).some((rawTag) => typeof rawTag === 'string' && toTagSlug(rawTag) === slug)
     );
 
     // Deterministic sort: releaseDate desc, then slug asc (avoid unstable ordering on ties).
@@ -45,7 +56,9 @@ export async function getStaticPaths() {
       params: { slug }, // Use slugified tag in URL
       props: { games: filteredGames, tagName: slug.replace(/-/g, ' ') }, // Normalized tag for display
     };
-  });
+  }).filter((p) => (p.props.games?.length ?? 0) > 0);
+
+  return paths;
 }
 
 type Props = {

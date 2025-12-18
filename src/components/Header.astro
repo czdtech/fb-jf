@@ -29,6 +29,7 @@ const withLocale = (path: string) => getLocalizedPath(path, locale);
             <ul>
                 <li><a href={withLocale('/')}>{t('nav.home', 'Home')}</a></li>
                 <li><a href={withLocale('/update-games/')}>{t('nav.newGames', 'New Games')}</a></li>
+                <li><a href={withLocale('/search/')}>{t('nav.search', 'Search')}</a></li>
                 <li><a href={withLocale('/fiddlebops-mod/')}>{t('nav.fiddlebopsMod', 'Fiddlebops Mod')}</a></li>
                 <li><a href={withLocale('/incredibox-mod/')}>{t('nav.incrediboxMod', 'Incredibox Mod')}</a></li>
                 <li><a href={withLocale('/sprunki-mod/')}>{t('nav.sprunkiMod', 'Sprunki Mod')}</a></li>

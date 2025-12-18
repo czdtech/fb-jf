@@ -1,0 +1,13 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import SearchSection from '../../components/SearchSection.astro';
+
+const title = '검색 - FiddleBops 게임 월드';
+const description = '사이트의 게임과 페이지를 검색하세요.';
+const canonicalUrl = 'https://www.playfiddlebops.com/ko/search/';
+---
+
+<BaseLayout title={title} description={description} canonicalUrl={canonicalUrl} lang="ko" noindex={true}>
+  <SearchSection lang="ko" />
+</BaseLayout>
+

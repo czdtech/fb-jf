@@ -9,9 +9,10 @@ export default defineConfig({
     sitemap({
       filter: (page) => {
         try {
-          return !new URL(page).pathname.startsWith('/admin');
+          const pathname = new URL(page).pathname;
+          return !pathname.startsWith('/admin') && !pathname.endsWith('/search/');
         } catch {
-          return !page.includes('/admin');
+          return !page.includes('/admin') && !page.includes('/search/');
         }
       },
     }),
