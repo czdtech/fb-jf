@@ -1,0 +1,54 @@
+name: Update Trending (GA4)
+
+on:
+  workflow_dispatch: {}
+  schedule:
+    # Daily at 02:17 UTC (avoid top-of-hour contention)
+    - cron: '17 2 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-trending
+  cancel-in-progress: true
+
+jobs:
+  update-trending:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: npm
+
+      - name: Install
+        run: npm ci
+
+      - name: Generate trending.json
+        env:
+          GA4_PROPERTY_ID: ${{ secrets.GA4_PROPERTY_ID }}
+          GA4_CLIENT_EMAIL: ${{ secrets.GA4_CLIENT_EMAIL }}
+          GA4_PRIVATE_KEY: ${{ secrets.GA4_PRIVATE_KEY }}
+          GA4_EVENT_NAME: play_click
+          TRENDING_WINDOW_DAYS: '7'
+        run: npm run generate:trending
+
+      - name: Commit and push (if changed)
+        run: |
+          if git diff --quiet -- src/data/trending.json; then
+            echo "No changes to src/data/trending.json"
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add src/data/trending.json
+          git commit -m "chore: update trending (ga4)"
+          git push

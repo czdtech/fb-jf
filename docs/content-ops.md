@@ -73,3 +73,15 @@ npm run generate:trending
 两种口径：
 - **PV 口径（默认）**：`screenPageViews` + `pagePath`
 - **Play 点击口径（线上使用）**：设置 `GA4_EVENT_NAME=play_click`（脚本会改用 `eventCount` 并按 eventName 过滤）
+
+### 6.1) 定时生成（GitHub Actions）
+
+已内置工作流：`.github/workflows/update-trending.yml`
+
+使用方法：
+1. 在 GitHub 仓库 `Settings -> Secrets and variables -> Actions` 添加 3 个 Secrets：
+   - `GA4_PROPERTY_ID`
+   - `GA4_CLIENT_EMAIL`
+   - `GA4_PRIVATE_KEY`
+   - 备注：`GA4_PRIVATE_KEY` 可直接粘贴 PEM（多行）或使用 `\\n` 形式的换行，脚本都会处理。
+2. 工作流会每天定时运行（也可手动触发），生成 `src/data/trending.json` 并 **自动 commit/push** 到 `main`，从而触发站点重新部署（如果你使用的是基于 main 的自动部署）。
