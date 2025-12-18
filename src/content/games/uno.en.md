@@ -1,15 +1,20 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "UNO Game"
-description: "UNO is the classic card game where players race to empty their hands by matching colors and numbers, using special action cards to block opponents and be the first to shout 'UNO!'"
-iframeSrc: "https://www.xpgameplus.com/games/uno/default.html"
-thumbnail: "/new-images/uno.jpg"
-urlstr: "uno"
-score: "4.4/5  (1083 votes)"
-tags: ["card game", "strategy", "multiplayer"]
-developer: ""
-releaseDate: 2025-08-16
+title: UNO Game
+description: >-
+  UNO is the classic card game where players race to empty their hands by
+  matching colors and numbers, using special action cards to block opponents and
+  be the first to shout 'UNO!'
+iframeSrc: 'https://www.xpgameplus.com/games/uno/default.html'
+thumbnail: /new-images/uno.jpg
+urlstr: uno
+score: 4.4/5  (1083 votes)
+tags:
+  - card-game
+  - strategy
+  - multiplayer
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "Reversi Mania"
-description: "Reversi Mania brings classic Othello to your browser — outflank discs, seize corners, and win with smart endgame parity."
-iframeSrc: "https://reversimania.h5games.usercontent.goog/v/7rhqf6sl8lpf0/"
-thumbnail: "/new-images/reversi-mania.png"
-urlstr: "reversi-mania"
-score: "4.4/5  (2231 votes)"
-tags: ["2 player", "thinky", "puzzle"]
-developer: ""
-releaseDate: 2025-10-18
+title: Reversi Mania
+description: >-
+  Reversi Mania brings classic Othello to your browser — outflank discs, seize
+  corners, and win with smart endgame parity.
+iframeSrc: 'https://reversimania.h5games.usercontent.goog/v/7rhqf6sl8lpf0/'
+thumbnail: /new-images/reversi-mania.png
+urlstr: reversi-mania
+score: 4.4/5  (2231 votes)
+tags:
+  - 2-player
+  - thinky
+  - puzzle
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

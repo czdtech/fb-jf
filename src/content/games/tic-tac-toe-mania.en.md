@@ -1,14 +1,18 @@
 ---
 locale: en
-title: "Tic Tac Toe Mania"
-description: "Tic Tac Toe Mania is a brisk duel — bait forks, block threats, and force draws/wins with optimal play or variant rules."
-iframeSrc: "https://7dcsid310v1u8.h5games.usercontent.goog/v/13cfdat69ufug/"
-thumbnail: "/new-images/tic-tac-toe-mania.png"
-urlstr: "tic-tac-toe-mania"
-score: "3.8/5  (1678 votes)"
-tags: ["2 player", "thinky"]
-developer: ""
-releaseDate: 2025-10-18
+title: Tic Tac Toe Mania
+description: >-
+  Tic Tac Toe Mania is a brisk duel — bait forks, block threats, and force
+  draws/wins with optimal play or variant rules.
+iframeSrc: 'https://7dcsid310v1u8.h5games.usercontent.goog/v/13cfdat69ufug/'
+thumbnail: /new-images/tic-tac-toe-mania.png
+urlstr: tic-tac-toe-mania
+score: 3.8/5  (1678 votes)
+tags:
+  - 2-player
+  - thinky
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

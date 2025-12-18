@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "Emoji With Friends"
-description: "Emoji With Friends is a light party‑puzzle — match, deduce, and race your friends with expressive emoji logic."
-iframeSrc: "https://2gtc787tjm7c8.h5games.usercontent.goog/v/5lfna7ldlrun8/"
-thumbnail: "/new-images/emoji-with-friends.png"
-urlstr: "emoji-with-friends"
-score: "3.9/5  (1517 votes)"
-tags: ["puzzle", "casual", "2 player"]
-developer: ""
-releaseDate: 2025-10-18
+title: Emoji With Friends
+description: >-
+  Emoji With Friends is a light party‑puzzle — match, deduce, and race your
+  friends with expressive emoji logic.
+iframeSrc: 'https://2gtc787tjm7c8.h5games.usercontent.goog/v/5lfna7ldlrun8/'
+thumbnail: /new-images/emoji-with-friends.png
+urlstr: emoji-with-friends
+score: 3.9/5  (1517 votes)
+tags:
+  - puzzle
+  - casual
+  - 2-player
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

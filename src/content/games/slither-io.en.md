@@ -1,15 +1,21 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Slither.io"
-description: "Slither.io is a popular multiplayer online game where players control a snake-like avatar, consuming glowing orbs to grow larger while avoiding collisions with other players in an endless arena battle for supremacy."
-iframeSrc: "https://app-165910.games.s3.yandex.net/165910/rm0dpvrwyxo0cakog5vc1sr4c8b6xj1s/index.html"
-thumbnail: "/new-images/slither-io.jpg"
-urlstr: "slither-io"
-score: "4.8/5  (1149 votes)"
-tags: ["multiplayer", "io game", "competitive"]
-developer: ""
-releaseDate: 2025-08-16
+title: Slither.io
+description: >-
+  Slither.io is a popular multiplayer online game where players control a
+  snake-like avatar, consuming glowing orbs to grow larger while avoiding
+  collisions with other players in an endless arena battle for supremacy.
+iframeSrc: >-
+  https://app-165910.games.s3.yandex.net/165910/rm0dpvrwyxo0cakog5vc1sr4c8b6xj1s/index.html
+thumbnail: /new-images/slither-io.jpg
+urlstr: slither-io
+score: 4.8/5  (1149 votes)
+tags:
+  - multiplayer
+  - io-game
+  - competitive
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

@@ -29,6 +29,8 @@
     "generate:trending": "tsx scripts/generate-trending-json.mts",
     "backfill:releaseDate": "tsx scripts/backfill-release-date.mts",
     "backfill:modType": "tsx scripts/backfill-mod-type.mts",
+    "tags:report": "tsx scripts/tags-report.mts",
+    "tags:normalize": "tsx scripts/normalize-tags.mts",
     "coverage:report": "tsx scripts/generate-coverage-report.mts",
     "cleanup:markers": "tsx scripts/cleanup-i18n-markers.mts",
     "test": "npm run build && npm run validate:i18n && vitest --run",

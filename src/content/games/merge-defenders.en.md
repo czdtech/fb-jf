@@ -1,14 +1,20 @@
 ---
 locale: en
-title: "Merge Defenders"
-description: "Defend your territory by merging and upgrading your units in Merge Defenders! Combine identical defenders to create more powerful versions and strategically place them to fend off waves of enemies."
-iframeSrc: "https://5c1j2nn9b0q4o.h5games.usercontent.goog/v/20drsjkant5s8/"
-thumbnail: "/new-images/merge-defenders.png"
-urlstr: "merge-defenders"
-score: "4.4/5  (2250 votes)"
-tags: ["strategy", "tower defense", "action"]
-developer: ""
-releaseDate: 2025-10-17
+title: Merge Defenders
+description: >-
+  Defend your territory by merging and upgrading your units in Merge Defenders!
+  Combine identical defenders to create more powerful versions and strategically
+  place them to fend off waves of enemies.
+iframeSrc: 'https://5c1j2nn9b0q4o.h5games.usercontent.goog/v/20drsjkant5s8/'
+thumbnail: /new-images/merge-defenders.png
+urlstr: merge-defenders
+score: 4.4/5  (2250 votes)
+tags:
+  - strategy
+  - tower-defense
+  - action
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

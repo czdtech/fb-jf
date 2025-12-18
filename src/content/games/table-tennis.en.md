@@ -1,14 +1,20 @@
 ---
 locale: en
-title: "Table Tennis"
-description: "Master the paddle in this classic game of Table Tennis. Challenge the AI, score points, and become a virtual ping-pong champion with precise timing and swift reflexes."
-iframeSrc: "https://tabletennis.h5games.usercontent.goog/v/4eeofbe4nfj1g/"
-thumbnail: "/new-images/table-tennis.png"
-urlstr: "table-tennis"
-score: "4.2/5  (1873 votes)"
-tags: ["sports", "2 player", "action"]
-developer: ""
-releaseDate: 2025-10-17
+title: Table Tennis
+description: >-
+  Master the paddle in this classic game of Table Tennis. Challenge the AI,
+  score points, and become a virtual ping-pong champion with precise timing and
+  swift reflexes.
+iframeSrc: 'https://tabletennis.h5games.usercontent.goog/v/4eeofbe4nfj1g/'
+thumbnail: /new-images/table-tennis.png
+urlstr: table-tennis
+score: 4.2/5  (1873 votes)
+tags:
+  - sports
+  - 2-player
+  - action
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

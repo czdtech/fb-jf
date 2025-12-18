@@ -1,15 +1,19 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Block Champ"
-description: "Challenge your strategic mind with Block Champ, a 10x10 grid puzzle game. Place shapes to clear lines, master special lightning and ice blocks, and aim for the highest score in this engaging brain-teaser."
-iframeSrc: "https://ams.cdn.arkadiumhosted.com/assets/global/game/block-champ/"
-thumbnail: "/new-images/block-champ.jpg"
-urlstr: "block-champ"
-score: "4.6/5  (926 votes)"
-tags: ["puzzle", "board game"]
-developer: ""
-releaseDate: 2025-08-16
+title: Block Champ
+description: >-
+  Challenge your strategic mind with Block Champ, a 10x10 grid puzzle game.
+  Place shapes to clear lines, master special lightning and ice blocks, and aim
+  for the highest score in this engaging brain-teaser.
+iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/block-champ/'
+thumbnail: /new-images/block-champ.jpg
+urlstr: block-champ
+score: 4.6/5  (926 votes)
+tags:
+  - puzzle
+  - board-game
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

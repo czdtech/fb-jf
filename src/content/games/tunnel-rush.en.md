@@ -1,15 +1,21 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Tunnel Rush"
-description: "Tunnel Rush is a fast-paced endless running game where players navigate through a colorful 3D tunnel, avoiding obstacles and barriers while traveling at high speeds in this thrilling reflex-testing experience."
-iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp44/gamehwq/20230830/12a/index.html"
-thumbnail: "/new-images/tunnel-rush.jpg"
-urlstr: "tunnel-rush"
-score: "4.6/5  (919 votes)"
-tags: ["endless runner", "3d", "speed"]
-developer: ""
-releaseDate: 2025-08-16
+title: Tunnel Rush
+description: >-
+  Tunnel Rush is a fast-paced endless running game where players navigate
+  through a colorful 3D tunnel, avoiding obstacles and barriers while traveling
+  at high speeds in this thrilling reflex-testing experience.
+iframeSrc: >-
+  https://szhong.4399.com/4399swf//upload_swf/ftp44/gamehwq/20230830/12a/index.html
+thumbnail: /new-images/tunnel-rush.jpg
+urlstr: tunnel-rush
+score: 4.6/5  (919 votes)
+tags:
+  - endless-runner
+  - 3d
+  - speed
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

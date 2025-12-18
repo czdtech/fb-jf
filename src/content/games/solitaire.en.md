@@ -1,15 +1,20 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Solitaire"
-description: "Solitaire is the classic single-player card game where players arrange cards in specific sequences and suits, aiming to move all cards to foundation piles and clear the tableau in this timeless puzzle game."
-iframeSrc: "https://www.edogan.us/solitaire-js/"
-thumbnail: "/new-images/solitaire.jpg"
-urlstr: "solitaire"
-score: "4.8/5  (1242 votes)"
-tags: ["card game", "classic", "puzzle"]
-developer: ""
-releaseDate: 2025-08-16
+title: Solitaire
+description: >-
+  Solitaire is the classic single-player card game where players arrange cards
+  in specific sequences and suits, aiming to move all cards to foundation piles
+  and clear the tableau in this timeless puzzle game.
+iframeSrc: 'https://www.edogan.us/solitaire-js/'
+thumbnail: /new-images/solitaire.jpg
+urlstr: solitaire
+score: 4.8/5  (1242 votes)
+tags:
+  - card-game
+  - classic
+  - puzzle
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

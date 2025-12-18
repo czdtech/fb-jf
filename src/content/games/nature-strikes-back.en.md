@@ -1,14 +1,20 @@
 ---
 locale: en
-title: "Nature Strikes Back"
-description: "Merge and command the Guardian Spirits of nature in this exciting tower defense game. Combine your units to make them stronger and defend the Heart of Nature from waves of Mucklings!"
-iframeSrc: "https://79gloe1v4okkg.h5games.usercontent.goog/v/6qlhje6nn2bg0/"
-thumbnail: "/new-images/nature-strikes-back.png"
-urlstr: "nature-strikes-back"
-score: "4.4/5  (2300 votes)"
-tags: ["strategy", "tower defense", "action"]
-developer: ""
-releaseDate: 2025-10-17
+title: Nature Strikes Back
+description: >-
+  Merge and command the Guardian Spirits of nature in this exciting tower
+  defense game. Combine your units to make them stronger and defend the Heart of
+  Nature from waves of Mucklings!
+iframeSrc: 'https://79gloe1v4okkg.h5games.usercontent.goog/v/6qlhje6nn2bg0/'
+thumbnail: /new-images/nature-strikes-back.png
+urlstr: nature-strikes-back
+score: 4.4/5  (2300 votes)
+tags:
+  - strategy
+  - tower-defense
+  - action
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

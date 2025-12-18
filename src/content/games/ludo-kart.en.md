@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "Ludo Kart"
-description: "Ludo Kart is a breezy dice‑and‑race board game — roll, move tokens, and be the first to reach home."
-iframeSrc: "https://35q41h2gp6dd8.h5games.usercontent.goog/v/6q7tggnmscsj8/"
-thumbnail: "/new-images/ludo-kart.png"
-urlstr: "ludo-kart"
-score: "3.8/5  (1542 votes)"
-tags: ["casual", "thinky", "2 player"]
-developer: ""
-releaseDate: 2025-10-18
+title: Ludo Kart
+description: >-
+  Ludo Kart is a breezy dice‑and‑race board game — roll, move tokens, and be the
+  first to reach home.
+iframeSrc: 'https://35q41h2gp6dd8.h5games.usercontent.goog/v/6q7tggnmscsj8/'
+thumbnail: /new-images/ludo-kart.png
+urlstr: ludo-kart
+score: 3.8/5  (1542 votes)
+tags:
+  - casual
+  - thinky
+  - 2-player
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

@@ -1,15 +1,20 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Slope 2"
-description: "Slope 2 is the sequel to the popular endless running game where players control a ball rolling down a steep slope, avoiding obstacles and red blocks while trying to survive as long as possible in this fast-paced challenge."
-iframeSrc: "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/slope-2/index.html"
-thumbnail: "/new-images/slope-2.jpg"
-urlstr: "slope-2"
-score: "3.8/5  (790 votes)"
-tags: ["endless runner", "ball", "slope"]
-developer: ""
-releaseDate: 2025-08-16
+title: Slope 2
+description: >-
+  Slope 2 is the sequel to the popular endless running game where players
+  control a ball rolling down a steep slope, avoiding obstacles and red blocks
+  while trying to survive as long as possible in this fast-paced challenge.
+iframeSrc: 'https://raw.githack.com/lioxryt/lioxryt-assets/main/other/slope-2/index.html'
+thumbnail: /new-images/slope-2.jpg
+urlstr: slope-2
+score: 3.8/5  (790 votes)
+tags:
+  - endless-runner
+  - ball
+  - slope
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

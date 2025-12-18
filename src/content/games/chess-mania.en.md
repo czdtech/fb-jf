@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "Chess Mania"
-description: "Experience Chess Mania, a feature-packed chess game for all levels. Play against AI, solve challenging puzzles, and become a chess master."
-iframeSrc: "https://chessmania.h5games.usercontent.goog/v/3if0hd2c47oo8/"
-thumbnail: "/new-images/chess-mania.png"
-urlstr: "chess-mania"
-score: "4.5/5  (2401 votes)"
-tags: ["thinky", "2 player", "card"]
-developer: ""
-releaseDate: 2025-10-18
+title: Chess Mania
+description: >-
+  Experience Chess Mania, a feature-packed chess game for all levels. Play
+  against AI, solve challenging puzzles, and become a chess master.
+iframeSrc: 'https://chessmania.h5games.usercontent.goog/v/3if0hd2c47oo8/'
+thumbnail: /new-images/chess-mania.png
+urlstr: chess-mania
+score: 4.5/5  (2401 votes)
+tags:
+  - thinky
+  - 2-player
+  - card
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

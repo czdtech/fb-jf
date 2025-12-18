@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "Chess Classic"
-description: "Enjoy the classic game of chess with Chess Classic. Play against the computer at different difficulty levels and improve your skills."
-iframeSrc: "https://chessclassic.h5games.usercontent.goog/v/7hf0vulane380/"
-thumbnail: "/new-images/chess-classic.png"
-urlstr: "chess-classic"
-score: "4.8/5  (2345 votes)"
-tags: ["thinky", "2 player", "card"]
-developer: ""
-releaseDate: 2025-10-18
+title: Chess Classic
+description: >-
+  Enjoy the classic game of chess with Chess Classic. Play against the computer
+  at different difficulty levels and improve your skills.
+iframeSrc: 'https://chessclassic.h5games.usercontent.goog/v/7hf0vulane380/'
+thumbnail: /new-images/chess-classic.png
+urlstr: chess-classic
+score: 4.8/5  (2345 votes)
+tags:
+  - thinky
+  - 2-player
+  - card
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

@@ -1,15 +1,20 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Slope"
-description: "Slope is the original endless running game where players control a green ball rolling down a steep slope, avoiding red obstacles and trying to survive as long as possible in this addictive and challenging experience."
-iframeSrc: "https://webglmath.github.io/slope/"
-thumbnail: "/new-images/slope.jpg"
-urlstr: "slope"
-score: "4.0/5  (1197 votes)"
-tags: ["endless runner", "original", "slope"]
-developer: ""
-releaseDate: 2025-08-16
+title: Slope
+description: >-
+  Slope is the original endless running game where players control a green ball
+  rolling down a steep slope, avoiding red obstacles and trying to survive as
+  long as possible in this addictive and challenging experience.
+iframeSrc: 'https://webglmath.github.io/slope/'
+thumbnail: /new-images/slope.jpg
+urlstr: slope
+score: 4.0/5  (1197 votes)
+tags:
+  - endless-runner
+  - original
+  - slope
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

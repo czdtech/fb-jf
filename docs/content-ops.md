@@ -30,6 +30,18 @@
 - 但不会为所有 tag 都生成分类页（避免大量“只有 1 个游戏”的薄内容页）
 - 只为 **核心分类** 生成 `/c/<slug>/` 页面（与首页 Categories 区块一致）
 
+### 3.1.1) tags 约定（少而精）
+
+建议约定：
+- 全部小写、去掉首尾空格
+- 多词用连字符：`tower-defense`、`2-player`（避免 `tower defense` / `2 player` 这种重复）
+
+辅助脚本：
+```bash
+npm run tags:report
+npm run tags:normalize
+```
+
 ## 4) 侧栏（New / Popular）
 
 字段（写在英文 canonical 的 frontmatter）：

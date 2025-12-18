@@ -1,14 +1,18 @@
 ---
 locale: en
-title: "Backyard Zombie Defense"
-description: "Backyard Zombie Defense is a casual tower defense — place turrets, upgrade wisely, and hold off the horde."
-iframeSrc: "https://18ivvthj417fo.h5games.usercontent.goog/v/27786m6fltuso/"
-thumbnail: "/new-images/backyard-zombie-defense.png"
-urlstr: "backyard-zombie-defense"
-score: "4.1/5  (1994 votes)"
-tags: ["tower defense", "thinky"]
-developer: ""
-releaseDate: 2025-10-18
+title: Backyard Zombie Defense
+description: >-
+  Backyard Zombie Defense is a casual tower defense — place turrets, upgrade
+  wisely, and hold off the horde.
+iframeSrc: 'https://18ivvthj417fo.h5games.usercontent.goog/v/27786m6fltuso/'
+thumbnail: /new-images/backyard-zombie-defense.png
+urlstr: backyard-zombie-defense
+score: 4.1/5  (1994 votes)
+tags:
+  - tower-defense
+  - thinky
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

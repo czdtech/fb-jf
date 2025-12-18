@@ -1,15 +1,20 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Run 3"
-description: "Run 3 is an endless running game set in space where players control an alien character running through a 3D tunnel, jumping over gaps and avoiding obstacles while defying gravity in this addictive platformer."
-iframeSrc: "https://lekug.github.io/tn6pS9dCf37xAhkJv/index.html"
-thumbnail: "/new-images/run-3.jpg"
-urlstr: "run-3"
-score: "4.5/5  (650 votes)"
-tags: ["endless runner", "space", "platformer"]
-developer: ""
-releaseDate: 2025-08-16
+title: Run 3
+description: >-
+  Run 3 is an endless running game set in space where players control an alien
+  character running through a 3D tunnel, jumping over gaps and avoiding
+  obstacles while defying gravity in this addictive platformer.
+iframeSrc: 'https://lekug.github.io/tn6pS9dCf37xAhkJv/index.html'
+thumbnail: /new-images/run-3.jpg
+urlstr: run-3
+score: 4.5/5  (650 votes)
+tags:
+  - endless-runner
+  - space
+  - platformer
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

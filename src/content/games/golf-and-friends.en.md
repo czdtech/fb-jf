@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "Golf and Friends"
-description: "Golf and Friends is a breezy mini‑golf — read slopes, bank shots, and sync putts with friends for cozy sessions."
-iframeSrc: "https://1uerepsm8tbpg.h5games.usercontent.goog/v/3st9sicdd4eu0/"
-thumbnail: "/new-images/golf-and-friends.jpg"
-urlstr: "golf-and-friends"
-score: "4.0/5  (1896 votes)"
-tags: ["sports", "2 player", "puzzle"]
-developer: ""
-releaseDate: 2025-10-18
+title: Golf and Friends
+description: >-
+  Golf and Friends is a breezy mini‑golf — read slopes, bank shots, and sync
+  putts with friends for cozy sessions.
+iframeSrc: 'https://1uerepsm8tbpg.h5games.usercontent.goog/v/3st9sicdd4eu0/'
+thumbnail: /new-images/golf-and-friends.jpg
+urlstr: golf-and-friends
+score: 4.0/5  (1896 votes)
+tags:
+  - sports
+  - 2-player
+  - puzzle
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 ## English Guide

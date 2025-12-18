@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "Cube Tower"
-description: "Protect your Cube Tower from waves of enemies in this exciting tower defense game. Place and upgrade your towers strategically to survive."
-iframeSrc: "https://cubetower.h5games.usercontent.goog/v/6k8tnoea28210/"
-thumbnail: "/new-images/cube-tower.png"
-urlstr: "cube-tower"
-score: "4.4/5 (1987 votes)"
-tags: ["tower defense", "action", "thinky"]
-developer: ""
-releaseDate: 2025-10-18
+title: Cube Tower
+description: >-
+  Protect your Cube Tower from waves of enemies in this exciting tower defense
+  game. Place and upgrade your towers strategically to survive.
+iframeSrc: 'https://cubetower.h5games.usercontent.goog/v/6k8tnoea28210/'
+thumbnail: /new-images/cube-tower.png
+urlstr: cube-tower
+score: 4.4/5 (1987 votes)
+tags:
+  - tower-defense
+  - action
+  - thinky
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

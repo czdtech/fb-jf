@@ -1,15 +1,20 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Mahjong"
-description: "Mahjongg Solitaire is a classic single-player puzzle game based on traditional Chinese Mahjong tiles, where players match identical open pairs to clear the board."
-iframeSrc: "https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-mahjong/"
-thumbnail: "/new-images/mahjong.jpg"
-urlstr: "mahjong"
-score: "4.8/5  (888 votes)"
-tags: ["board game", "puzzle", "casual"]
-developer: ""
-releaseDate: 2025-08-16
+title: Mahjong
+description: >-
+  Mahjongg Solitaire is a classic single-player puzzle game based on traditional
+  Chinese Mahjong tiles, where players match identical open pairs to clear the
+  board.
+iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-mahjong/'
+thumbnail: /new-images/mahjong.jpg
+urlstr: mahjong
+score: 4.8/5  (888 votes)
+tags:
+  - board-game
+  - puzzle
+  - casual
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

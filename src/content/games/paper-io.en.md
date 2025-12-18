@@ -1,15 +1,20 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Paper io"
-description: "Paper.io is a popular multiplayer online game where players control a colored block and aim to conquer as much territory as possible by drawing lines and enclosing areas, while avoiding other players."
-iframeSrc: "https://mathgames66.github.io/games/html5/paperio2/"
-thumbnail: "/new-images/paper-io.jpg"
-urlstr: "paper-io"
-score: "4.2/5  (496 votes)"
-tags: ["multiplayer", "strategy", "io game"]
-developer: ""
-releaseDate: 2025-08-16
+title: Paper io
+description: >-
+  Paper.io is a popular multiplayer online game where players control a colored
+  block and aim to conquer as much territory as possible by drawing lines and
+  enclosing areas, while avoiding other players.
+iframeSrc: 'https://mathgames66.github.io/games/html5/paperio2/'
+thumbnail: /new-images/paper-io.jpg
+urlstr: paper-io
+score: 4.2/5  (496 votes)
+tags:
+  - multiplayer
+  - strategy
+  - io-game
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

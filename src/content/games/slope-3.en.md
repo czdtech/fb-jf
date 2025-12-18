@@ -1,15 +1,20 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Slope 3"
-description: "Slope 3 is the latest installment in the popular Slope series, featuring enhanced graphics and new challenging obstacles as players guide a ball down an endless slope while avoiding deadly barriers and red blocks."
-iframeSrc: "https://games-online.io/game/Slope3/"
-thumbnail: "/new-images/slope-3.jpg"
-urlstr: "slope-3"
-score: "4.6/5  (1420 votes)"
-tags: ["endless runner", "3d", "slope"]
-developer: ""
-releaseDate: 2025-08-16
+title: Slope 3
+description: >-
+  Slope 3 is the latest installment in the popular Slope series, featuring
+  enhanced graphics and new challenging obstacles as players guide a ball down
+  an endless slope while avoiding deadly barriers and red blocks.
+iframeSrc: 'https://games-online.io/game/Slope3/'
+thumbnail: /new-images/slope-3.jpg
+urlstr: slope-3
+score: 4.6/5  (1420 votes)
+tags:
+  - endless-runner
+  - 3d
+  - slope
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

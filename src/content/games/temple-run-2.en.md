@@ -1,15 +1,21 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Temple Run 2"
-description: "Temple Run 2 is an endless running adventure game where players navigate treacherous temple paths, collecting coins and power-ups while avoiding obstacles and the pursuing demon monkeys in stunning environments."
-iframeSrc: "https://sxiao.4399.com/4399swf//upload_swf/ftp35/gamehwq/20210119/11/index.html"
-thumbnail: "/new-images/temple-run-2.jpg"
-urlstr: "temple-run-2"
-score: "4.0/5  (277 votes)"
-tags: ["endless runner", "adventure", "collecting"]
-developer: ""
-releaseDate: 2025-08-16
+title: Temple Run 2
+description: >-
+  Temple Run 2 is an endless running adventure game where players navigate
+  treacherous temple paths, collecting coins and power-ups while avoiding
+  obstacles and the pursuing demon monkeys in stunning environments.
+iframeSrc: >-
+  https://sxiao.4399.com/4399swf//upload_swf/ftp35/gamehwq/20210119/11/index.html
+thumbnail: /new-images/temple-run-2.jpg
+urlstr: temple-run-2
+score: 4.0/5  (277 votes)
+tags:
+  - endless-runner
+  - adventure
+  - collecting
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
