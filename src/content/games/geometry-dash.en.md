@@ -6,6 +6,7 @@ iframeSrc: "https://turbowarp.org/1185431027/embed"
 thumbnail: "/geometry-dash.png"
 urlstr: "geometry-dash"
 score: "4.5/5  (604 votes)"
+releaseDate: 2025-12-04
 tags: ["geometry dash"]
 ---
 

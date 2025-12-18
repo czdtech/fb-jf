@@ -1,11 +1,13 @@
 ---
 locale: en
+modType: sprunki
 title: "Incredibox Sprunksters - Play Incredibox Sprunksters Online"
 description: "Get ready for Sprunki Parasite ParaSprunki 15! This isn"
 iframeSrc: "https://kdata1.com/2025/03/paraSprunki-update-15-0-part-222/"
 thumbnail: "/sprunki-parasite-parasprunki-15.png"
 urlstr: "sprunki-parasite-parasprunki-15"
 score: "4.3/5  (372 votes)"
+releaseDate: 2025-12-04
 tags: ["incredibox sprunksters"]
 ---
 

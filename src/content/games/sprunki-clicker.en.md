@@ -1,11 +1,14 @@
 ---
 locale: en
+modType: sprunki
 title: "Sprunki Clicker - Play Sprunki Clicker Online"
 description: "Embark on an enchanting musical adventure where every click breathes life into a symphony of your own making. Sprunki Clicker is more than a game—it"
 iframeSrc: "https://1games.io/game/sprunki-clicker/"
 thumbnail: "/sprunki-clicker.png"
 urlstr: "sprunki-clicker"
+sidebarPopular: 1
 score: "4.7/5  (524 votes)"
+releaseDate: 2025-12-04
 tags: ["sprunki clicker"]
 ---
 

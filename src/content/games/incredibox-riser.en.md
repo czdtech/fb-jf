@@ -1,5 +1,6 @@
 ---
 locale: en
+modType: incredibox
 title: "Incredibox Riser"
 description: "Incredibox Riser this guide details its ambient electronic sound palette, gameplay for creating cosmic tracks, and how to unlock its sci-fi bonuses."
 iframeSrc: "https://turbowarp.org/966510261/embed"

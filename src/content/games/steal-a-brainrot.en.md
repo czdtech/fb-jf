@@ -6,6 +6,7 @@ description: "Discover the chaotic Roblox experience, 'Steal a Brainrot.' Learn 
 iframeSrc: "https://st.8games.net/7/8g/igra-ukradi-brejnrot-100-original/"
 thumbnail: "/new-images/steal-a-brainrot.webp"
 urlstr: "steal-a-brainrot"
+sidebarNew: 1
 score: "4.7/5  (3719 votes)"
 tags: ["casual", "action"]
 developer: ""
@@ -61,4 +62,3 @@ It's an internet slang term for low-quality, viral online content. This game tur
 
 **4. What is the objective to win the game?**
 Typically, the goal is for a team to successfully steal and return the "Brainrot" to their base the most times within a time limit. Other game modes might exist, such as completing the heist without being detected at all.
-

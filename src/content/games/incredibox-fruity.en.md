@@ -1,5 +1,6 @@
 ---
 locale: en
+modType: incredibox
 # Frontmatter: 遵循上面 config.ts 中定义的 schema
 title: "Incredibox Fruity"
 description: "iscover the ultimate guide to Incredibox Fruity, the classic strategy game. Learn winning strategies, controls, and tips to evolve your army from cavemen to future warriors and dominate the battlefield."

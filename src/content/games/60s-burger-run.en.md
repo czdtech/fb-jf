@@ -5,7 +5,9 @@ description: "60 Second Burger Run is an exciting and colorful speed-running pla
 iframeSrc: "https://www.playfiddlebops.com/embed/60s-burger-run/index.html"
 thumbnail: "/60s-burger-run.jpg"
 urlstr: "60s-burger-run"
+sidebarPopular: 3
 score: "4.6/5  (1344 votes)"
+releaseDate: 2025-12-04
 tags: ["60 seconds burger run"]
 ---
 

@@ -1,11 +1,13 @@
 ---
 locale: en
+modType: sprunki
 title: "Sprunki Squid Remix - Play Sprunki Squid Remix Online"
 description: "prunki Squid offers a truly unique and thrilling experience. It combines the iconic themes and visuals of Squid Game with the creative freedom of Sprunki, resulting in unprecedented crossover gameplay."
 iframeSrc: "https://turbowarp.org/1123885023/embed"
 thumbnail: "/sprunki-squid-remix.png"
 urlstr: "sprunki-squid-remix"
 score: "4.1/5  (92 votes)"
+releaseDate: 2025-12-04
 tags: ["sprunki squid remix"]
 ---
 

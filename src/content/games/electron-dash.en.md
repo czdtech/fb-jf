@@ -9,6 +9,7 @@ urlstr: "electron-dash"
 score: "4.4/5  (1386 votes)"
 tags: ["arcade", "runner"]
 developer: ""
+releaseDate: 2025-09-09
 ---
 
 

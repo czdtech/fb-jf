@@ -1,11 +1,13 @@
 ---
 locale: en
+modType: sprunki
 title: "Sprunki Retake Bonus Characters - Play Sprunki Retake Bonus Characters Online"
 description: "Sprunki Retake Bonus Characters isn"
 iframeSrc: "https://turbowarp.org/1107905149/embed"
 thumbnail: "/sprunki-retake-bonus-characters.png"
 urlstr: "sprunki-retake-bonus-characters"
 score: "3.9/5  (132 votes)"
+releaseDate: 2025-12-04
 tags: ["sprunki retake bonus characters"]
 ---
 

@@ -1,5 +1,6 @@
 ---
 locale: en
+modType: incredibox
 # Frontmatter: 遵循上面 config.ts 中定义的 schema
 title: "Incredibox Studio"
 description: "Incredibox Studio is a fan-made game inspired by the original Incredibox. It's created using Scratch and optimized with TurboWarp, allowing players to create their own musical mixes in a sandbox environment."

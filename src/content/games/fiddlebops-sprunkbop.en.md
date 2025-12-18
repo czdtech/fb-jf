@@ -1,11 +1,13 @@
 ---
 locale: en
+modType: fiddlebops
 title: "Fiddlebops Sprunkbop - Play Fiddlebops Sprunkbop Online"
 description: "Fiddlebops Sprunkbop is an awesome crossover event! It keeps the addictive music-making core of Fiddlebops but swaps out all the original characters for the iconic Sprunki crew."
 iframeSrc: "https://turbowarp.org/1114551059/embed"
 thumbnail: "/fiddlebops-sprunkbop.png"
 urlstr: "fiddlebops-sprunkbop"
 score: "4.1/5  (308 votes)"
+releaseDate: 2025-12-04
 tags: ["fiddlebops sprunkbop"]
 ---
 

@@ -1,11 +1,13 @@
 ---
 locale: en
+modType: sprunki
 title: "Sprunki Rotrizi 5.0 - Play Sprunki Rotrizi 5.0 Online"
 description: "Sprunki Rotrizi 5.0 is an exhilarating free-to-play music-mixing experience that lets you unleash your creativity and craft electrifying beats. It stands out among Sprunki mods thanks to its advanced distortion algorithms and immersive visuals."
 iframeSrc: "https://turbowarp.org/1126764795/embed"
 thumbnail: "/sprunki-rotrizi-5.png"
 urlstr: "sprunki-rotrizi-5"
 score: "4.0/5  (232 votes)"
+releaseDate: 2025-12-04
 tags: ["sprunki rotrizi 5.0"]
 ---
 

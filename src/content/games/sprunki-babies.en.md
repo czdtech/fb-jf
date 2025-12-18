@@ -1,11 +1,13 @@
 ---
 locale: en
+modType: sprunki
 title: "Sprunki Babies - Play Sprunki Babies Online"
 description: "This charming music sandbox puts you in charge of a crew of adorable baby Sprunki characters, each ready to lend their unique musical voice to your compositions."
 iframeSrc: "https://turbowarp.org/1110888906/embed"
 thumbnail: "/sprunki-babies.png"
 urlstr: "sprunki-babies"
 score: "4.0/5  (212 votes)"
+releaseDate: 2025-12-04
 tags: ["sprunki babies"]
 ---
 

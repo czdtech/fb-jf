@@ -6,6 +6,7 @@ iframeSrc: "https://files.acticdn.com/278374/30464/index.html"
 thumbnail: "/bejeweled.png"
 urlstr: "bejeweled"
 score: "4.8/5  (654 votes)"
+releaseDate: 2025-12-04
 tags: ["bejeweled"]
 ---
 

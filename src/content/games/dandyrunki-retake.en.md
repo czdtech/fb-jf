@@ -6,6 +6,7 @@ iframeSrc: "https://turbowarp.org/1126924449/embed"
 thumbnail: "/dandyrunki-retake.png"
 urlstr: "dandyrunki-retake"
 score: "3.7/5  (255 votes)"
+releaseDate: 2025-12-04
 tags: ["dandyrunki retake", "dandyrunki retake online"]
 ---
 

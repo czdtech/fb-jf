@@ -1,5 +1,6 @@
 ---
 locale: en
+modType: incredibox
 title: "Incredibox Piege Simulator"
 description: "Incredibox Piège Simulator this guide details its grid-based gameplay, dark and atmospheric sound palette, and provides tips for creating intense trap loops."
 iframeSrc: "https://turbowarp.org/887559994/embed"

@@ -1,11 +1,13 @@
 ---
 locale: en
+modType: sprunki
 title: "Sprunki 1996 - Play Sprunki 1996 Online"
 description: "Sprunki 1996 is a music game brimming with creativity and nostalgia. It uses a unique 90s retro computer aesthetic combined with simple, fun music creation gameplay to offer a fresh experience for fans of Sprunki and Incredibox."
 iframeSrc: "https://html-classic.itch.zone/html/14634762/index.html"
 thumbnail: "/sprunki-1996.png"
 urlstr: "sprunki-1996"
 score: "4.0/5  (122 votes)"
+releaseDate: 2025-12-04
 tags: ["sprunki 1996"]
 ---
 

@@ -6,6 +6,7 @@ iframeSrc: "https://www.playfiddlebops.com/embed/crossyroad/index.html"
 thumbnail: "/crossy-road.jpg"
 urlstr: "crossyroad"
 score: "4.8/5  (1104 votes)"
+releaseDate: 2025-12-04
 tags: ["crossy road"]
 ---
 

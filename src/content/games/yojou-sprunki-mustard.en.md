@@ -1,11 +1,13 @@
 ---
 locale: en
+modType: sprunki
 title: "Yojou Sprunki Mustard - Play Yojou Sprunki Mustard Online"
 description: "Yojou Sprunki Mustard, this parody Mod, completely subverts the Sprunki world, with all characters being eroded by a mysterious"
 iframeSrc: "https://turbowarp.org/1153723334/embed"
 thumbnail: "/yojou-sprunki-mustard.png"
 urlstr: "yojou-sprunki-mustard"
 score: "4.5/5  (322 votes)"
+releaseDate: 2025-12-04
 tags: ["yojou sprunki mustard"]
 ---
 

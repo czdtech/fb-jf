@@ -1,5 +1,6 @@
 ---
 locale: en
+modType: incredibox
 title: "Incredibox Choir"
 description: "Explore the harmonious world of Incredibox Choir, a fan-made mod focusing on vocal arrangements and choral music."
 iframeSrc: "https://turbowarp.org/1034584392/embed"

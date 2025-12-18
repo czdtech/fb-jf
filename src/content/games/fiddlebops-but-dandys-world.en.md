@@ -1,11 +1,13 @@
 ---
 locale: en
+modType: fiddlebops
 title: "Fiddlebops But Dandy's World - Play Fiddlebops But Dandy's World Online"
 description: "Fiddlebops But Dandys World is not just a game; it"
 iframeSrc: "https://turbowarp.org/1114551059/embed"
 thumbnail: "/fiddlebops-but-dandys-world.png"
 urlstr: "fiddlebops-but-dandys-world"
 score: "4.6/5  (27 votes)"
+releaseDate: 2025-12-04
 tags: ["fiddlebops but dandy"]
 ---
 

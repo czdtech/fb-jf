@@ -1,5 +1,6 @@
 ---
 locale: en
+modType: incredibox
 title: "Incredibox Creatophobos"
 description: "Uncover the secrets of 'Incredibox Creatophobos,' the unsettling horror-themed fan-made mod. This guide details its monstrous and industrial sound palette, and provides tips for creating terrifying soundscapes."
 iframeSrc: "https://turbowarp.org/1041902515/embed"

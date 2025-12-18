@@ -1,11 +1,13 @@
 ---
 locale: en
+modType: sprunki
 title: "Sprunki Like Minecraft - Play Sprunki Like Minecraft Online"
 description: "Are you both a loyal fan of Incredibox Sprunki and a passionate lover of the pixel world of Minecraft? Then the Sprunki Like Minecraft Mod will definitely brighten your eyes!"
 iframeSrc: "https://turbowarp.org/1095572358/embed"
 thumbnail: "/sprunki-like-minecraft.png"
 urlstr: "sprunki-like-minecraft"
 score: "4.6/5  (601 votes)"
+releaseDate: 2025-12-04
 tags: ["sprunki like minecraft"]
 ---
 

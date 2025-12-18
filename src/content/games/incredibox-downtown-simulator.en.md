@@ -1,5 +1,6 @@
 ---
 locale: en
+modType: incredibox
 title: "Incredibox Downtown Simulator"
 description: "A new Incredibox mod to discover. More details coming soon."
 iframeSrc: "https://turbowarp.org/949700724/embed"

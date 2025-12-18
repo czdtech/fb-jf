@@ -1,5 +1,6 @@
 ---
 locale: en
+modType: incredibox
 title: "Incredibox Vibin"
 description: "Explore 'Incredibox Vibin',' the fan-made mod with a chill lo-fi hip-hop theme. This guide details its mellow sound palette, gameplay for creating relaxing beats, and how to unlock its cozy, themed bonuses."
 iframeSrc: "https://turbowarp.org/1050468579/embed"

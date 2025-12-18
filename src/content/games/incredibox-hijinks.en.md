@@ -1,5 +1,6 @@
 ---
 locale: en
+modType: incredibox
 title: "Incredibox Hijinks"
 description: "Explore 'Incredibox Hijinks,' the chaotic cartoon-themed fan-made mod. This guide details its zany electronic sound palette, gameplay for creating fun and mischievous tracks, and how to unlock its themed bonuses."
 iframeSrc: "https://turbowarp.org/1027156305/embed"

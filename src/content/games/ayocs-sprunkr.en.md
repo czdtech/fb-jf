@@ -6,6 +6,7 @@ iframeSrc: "https://turbowarp.org/1114188520/embed"
 thumbnail: "/ayocs-sprunkr.png"
 urlstr: "ayocs-sprunkr"
 score: "4.1/5  (54 votes)"
+releaseDate: 2025-12-04
 tags: ["ayocs sprunkr"]
 ---
 

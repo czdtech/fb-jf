@@ -6,6 +6,7 @@ iframeSrc: "https://turbowarp.org/1122091658/embed"
 thumbnail: "/sprunklebops.png"
 urlstr: "sprunkle-bops"
 score: "4.3/5  (524 votes)"
+releaseDate: 2025-12-04
 tags: ["sprunkle bops", "sprunkle bops online"]
 ---
 

@@ -1,11 +1,13 @@
 ---
 locale: en
+modType: sprunki
 title: "Sprunki Halloween - Play Sprunki Halloween Online"
 description: "Sprunki Halloween is a Mod that allows you to unleash your musical talents in the atmosphere of Halloween. Come and join Sprunki Halloween, and use thrilling and interesting notes to welcome the arrival of Halloween!"
 iframeSrc: "https://turbowarp.org/1087683438/embed"
 thumbnail: "/sprunki-halloween.png"
 urlstr: "sprunki-halloween"
 score: "4.2/5  (142 votes)"
+releaseDate: 2025-12-04
 tags: ["sprunki halloween"]
 ---
 

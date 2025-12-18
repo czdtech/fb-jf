@@ -1,11 +1,13 @@
 ---
 locale: en
+modType: incredibox
 title: "Incredibox Sprunksters - Play Incredibox Sprunksters Online"
 description: "Say goodbye to the same old sounds! Incredibox Sprunksters brings new samples and effects to the table, making your music feel unique and creative."
 iframeSrc: "https://turbowarp.org/1129395199/embed"
 thumbnail: "/incredibox-sprunksters.png"
 urlstr: "incredibox-sprunksters"
 score: "4.3/5  (185 votes)"
+releaseDate: 2025-12-04
 tags: ["incredibox sprunksters"]
 ---
 

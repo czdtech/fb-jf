@@ -1,5 +1,6 @@
 ---
 locale: en
+modType: incredibox
 # Frontmatter: 遵循上面 config.ts 中定义的 schema
 title: "Incredibox Kochari"
 description: "Incredibox Kochari is a fan-made mod that blends the classic Incredibox gameplay with the vibrant culture of the Armenian folk dance, Kochari. Create unique beats with traditional rhythms and sounds."

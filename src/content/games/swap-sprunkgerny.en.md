@@ -6,6 +6,7 @@ iframeSrc: "https://turbowarp.org/1141050651/embed"
 thumbnail: "/swap-sprunkgerny.png"
 urlstr: "swap-sprunkgerny"
 score: "4.9/5  (724 votes)"
+releaseDate: 2025-12-04
 tags: ["swap sprunkgerny", "swap sprunkgerny online"]
 ---
 

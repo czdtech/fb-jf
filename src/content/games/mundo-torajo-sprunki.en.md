@@ -1,11 +1,13 @@
 ---
 locale: en
+modType: sprunki
 title: "Mundo Torajo Sprunki - Play Mundo Torajo Sprunki Online"
 description: "This unique Mod cleverly blends the whimsical universe of Mundo Torajo with the rhythmic creative fun of the Sprunki platform, letting you unleash endless creativity while you play."
 iframeSrc: "https://turbowarp.org/1096623350/embed"
 thumbnail: "/mundo-torajo-sprunki.png"
 urlstr: "mundo-torajo-sprunki"
 score: "4.0/5  (112 votes)"
+releaseDate: 2025-12-04
 tags: ["mundo torajo sprunki"]
 ---
 

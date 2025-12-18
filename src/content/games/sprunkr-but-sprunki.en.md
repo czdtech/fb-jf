@@ -1,11 +1,13 @@
 ---
 locale: en
+modType: sprunki
 title: "Sprunkr But Sprunki - Play Sprunkr But Sprunki Online"
 description: "Sprunkr But Sprunki Mod is a creative twist on the original Sprunkr mod, replacing the existing characters with beloved Sprunki figures. You can not only experience the classic gameplay of Sprunkr, but also immerse yourself in the visual and auditory feast of Sprunki style."
 iframeSrc: "https://turbowarp.org/1113707117/embed"
 thumbnail: "/sprunkr-but-sprunki.png"
 urlstr: "sprunkr-but-sprunki"
 score: "4.5/5  (541 votes)"
+releaseDate: 2025-12-04
 tags: ["sprunkr but sprunki"]
 ---
 

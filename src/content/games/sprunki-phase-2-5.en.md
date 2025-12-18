@@ -1,11 +1,13 @@
 ---
 locale: en
+modType: sprunki
 title: "Sprunki Phase 2.5 - Play Sprunki Phase 2.5 Online"
 description: "Sprunki Phase 2.5 (JOKE MOD) isn"
 iframeSrc: "https://html-classic.itch.zone/html/14324321/index.html"
 thumbnail: "/sprunki-phase-2-5.png"
 urlstr: "sprunki-phase-2-5"
 score: "4.3/5  (218 votes)"
+releaseDate: 2025-12-04
 tags: ["sprunki phase 2.5"]
 ---
 

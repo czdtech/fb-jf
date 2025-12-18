@@ -1,11 +1,13 @@
 ---
 locale: en
+modType: sprunki
 title: "Sprunki Phase 5 - Play Sprunki Phase 5 Online"
 description: "Sprunki Phase 5 is a fan-made music-creation game that blends rhythm-based creativity with a spooky, atmospheric twist."
 iframeSrc: "https://sprunki-phase-5-ekz.pages.dev/"
 thumbnail: "/sprunki-phase-5.png"
 urlstr: "sprunki-phase-5"
 score: "4.0/5  (604 votes)"
+releaseDate: 2025-12-04
 tags: ["sprunki phase 5", "sprunki phase 5 online"]
 ---
 

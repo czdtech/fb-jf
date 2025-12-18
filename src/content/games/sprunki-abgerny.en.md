@@ -1,11 +1,13 @@
 ---
 locale: en
+modType: sprunki
 title: "Sprunki Abgerny - Play Sprunki Abgerny Online"
 description: "Sprunki Abgerny is a tribute to ancient cultures and an exploration of the endless possibilities of music creation."
 iframeSrc: "https://turbowarp.org/1095335052/embed"
 thumbnail: "/sprunki-abgerny.png"
 urlstr: "sprunki-abgerny"
 score: "3.9/5  (132 votes)"
+releaseDate: 2025-12-04
 tags: ["sprunki abgerny"]
 ---
 

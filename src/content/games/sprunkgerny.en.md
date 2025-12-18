@@ -6,6 +6,7 @@ iframeSrc: "https://turbowarp.org/1107761681/embed"
 thumbnail: "/Sprunkgerny.png"
 urlstr: "sprunkgerny"
 score: "4.9/5  (724 votes)"
+releaseDate: 2025-12-04
 tags: ["sprunkgerny", "sprunkgerny online"]
 ---
 

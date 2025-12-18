@@ -1,11 +1,13 @@
 ---
 locale: en
+modType: sprunki
 title: "Sprunki Christmas - Play Sprunki Christmas Online"
 description: "Sprunki Christmas is a Mod that allows you to fully enjoy the fun of the game in the festive atmosphere. Come to the world of Sprunki Christmas and light up your Christmas with vibrant music!"
 iframeSrc: "https://turbowarp.org/1104040581/embed"
 thumbnail: "/sprunki-christmas.png"
 urlstr: "sprunki-christmas"
 score: "4.6/5  (486 votes)"
+releaseDate: 2025-12-04
 tags: ["sprunki christmas"]
 ---
 

@@ -1,11 +1,13 @@
 ---
 locale: en
+modType: incredibox
 title: "Incredibox Donki Abgerny - Play Incredibox Donki Abgerny Online"
 description: "Incredibox Donki Abgerny infuses deep tribal rhythms, unique didgeridoos, and soulful chants into the classic Incredibox gameplay."
 iframeSrc: "https://turbowarp.org/1135326100/embed"
 thumbnail: "/incredibox-donki-abgerny.png"
 urlstr: "incredibox-donki-abgerny"
 score: "4.3/5  (154 votes)"
+releaseDate: 2025-12-04
 tags: ["incredibox donki abgerny"]
 ---
 

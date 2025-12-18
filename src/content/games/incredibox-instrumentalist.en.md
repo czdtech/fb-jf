@@ -1,5 +1,6 @@
 ---
 locale: en
+modType: incredibox
 title: "Incredibox Instrumentalist"
 description: "Incredibox Instrumentalist This guide details its unique gameplay of summoning instruments to the stage and its eclectic world music palette, creating a purely instrumental orchestra"
 iframeSrc: "https://turbowarp.org/1040856097/embed"

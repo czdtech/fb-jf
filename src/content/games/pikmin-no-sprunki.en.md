@@ -1,11 +1,13 @@
 ---
 locale: en
+modType: sprunki
 title: "Pikmin No Sprunki - Play Pikmin No Sprunki Online"
 description: "Pikmin No Sprunki is more than just a simple game; it"
 iframeSrc: "https://img.sprunki.net/game/pikmin-no-sprunki.html"
 thumbnail: "/pikmin-no-sprunki.png"
 urlstr: "pikmin-no-sprunki"
 score: "4.0/5  (89 votes)"
+releaseDate: 2025-12-04
 tags: ["pikmin no sprunki"]
 ---
 

@@ -1,5 +1,6 @@
 ---
 locale: en
+modType: incredibox
 title: "Incredibox Geek Dance Simulator"
 description: "Explore 'Incredibox Geek Dance Simulator,' the fan-made mod celebrating nerd culture with a grid-based interface. This guide details its 8-bit chiptune sound palette and gameplay for creating retro video game loops."
 iframeSrc: "https://turbowarp.org/904948672/embed"

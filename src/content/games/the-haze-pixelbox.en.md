@@ -6,6 +6,7 @@ iframeSrc: "https://turbowarp.org/1020955547/embed"
 thumbnail: "/the-haze-pixelbox.png"
 urlstr: "the-haze-pixelbox"
 score: "3.9/5  (132 votes)"
+releaseDate: 2025-12-04
 tags: ["the haze pixelbox"]
 ---
 

@@ -6,6 +6,7 @@ iframeSrc: "https://turbowarp.org/1135773023/embed"
 thumbnail: "/sprunki-mountayonnaise.png"
 urlstr: "mountayonnaise"
 score: "4.8/5  (649 votes)"
+releaseDate: 2025-12-04
 tags: ["sprunki mountayonnaise", "sprunki mountayonnaise online"]
 ---
 

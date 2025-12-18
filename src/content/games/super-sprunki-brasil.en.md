@@ -1,11 +1,13 @@
 ---
 locale: en
+modType: sprunki
 title: "Super Sprunki Brasil V1.3  - Play Super Sprunki Brasil Online"
 description: "Super Sprunki Brasil is an Incredibox Mod that allows you to ignite your musical creativity with the passionate Brazilian flair. Come and join Super Sprunki Brasil, and use your music to convey the passion and vitality of Brazil to the world!"
 iframeSrc: "https://turbowarp.org/1080827660/embed"
 thumbnail: "/super-sprunki-brasil.png"
 urlstr: "super-sprunki-brasil"
 score: "4.3/5  (380 votes)"
+releaseDate: 2025-12-04
 tags: ["super sprunki brasil", "super sprunki brasil online"]
 ---
 

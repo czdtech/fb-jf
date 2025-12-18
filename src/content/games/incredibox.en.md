@@ -1,11 +1,14 @@
 ---
 locale: en
+modType: incredibox
 title: "Incredibox - Play Incredibox Online"
 description: "Want to create your own exclusive hit song with a group of quirky beatboxers? Incredibox can make your dream come true! This game is part game, part music creation tool, and offers musical fun for people of all ages."
 iframeSrc: "https://nom74100.github.io/in-box/"
 thumbnail: "/Incredibox.png"
 urlstr: "incredibox"
+sidebarNew: 4
 score: "4.9/5  (724 votes)"
+releaseDate: 2025-12-04
 tags: ["incredibox", "incredibox online"]
 ---
 

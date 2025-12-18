@@ -1,11 +1,13 @@
 ---
 locale: en
+modType: sprunki
 title: "Sprunki Minecraft - Play Sprunki Minecraft Online"
 description: "Sprunki Minecraft proves that innovation can still flourish within familiar gameplay loops. If you"
 iframeSrc: "https://turbowarp.org/1140459751/embed"
 thumbnail: "/sprunki-minecraft.png"
 urlstr: "sprunki-minecraft"
 score: "4.0/5  (212 votes)"
+releaseDate: 2025-12-04
 tags: ["sprunki minecraft"]
 ---
 

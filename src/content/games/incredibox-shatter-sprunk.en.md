@@ -1,11 +1,13 @@
 ---
 locale: en
+modType: incredibox
 title: "Incredibox Shatter Sprunk - Play Incredibox Shatter Sprunk Online"
 description: "Incredibox Shatter Sprunk is a fan-created Incredibox mod music game. In this version, all characters are presented in a striking yellow color, and each character has a unique and unrepeatable sound effect."
 iframeSrc: "https://turbowarp.org/1144858827/embed"
 thumbnail: "/incredibox-shatter-sprunk.png"
 urlstr: "incredibox-shatter-sprunk"
 score: "4.5/5  (614 votes)"
+releaseDate: 2025-12-04
 tags: ["incredibox shatter sprunk", "incredibox shatter sprunk online"]
 ---
 

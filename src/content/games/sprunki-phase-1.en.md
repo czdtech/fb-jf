@@ -1,11 +1,13 @@
 ---
 locale: en
+modType: sprunki
 title: "Sprunki Phase 1 - Play Sprunki Phase 1 Online"
 description: "Sprunki Phase 1 is the perfect gateway into the amazing Sprunki universe. It offers a simple, intuitive way to experience the joy of music creation and see what this vibrant, creative world was like right at the start."
 iframeSrc: "https://turbowarp.org/1127823859/embed"
 thumbnail: "/sprunki-phase-1.png"
 urlstr: "sprunki-phase-1"
 score: "4.3/5  (96 votes)"
+releaseDate: 2025-12-04
 tags: ["sprunki phase 1"]
 ---
 

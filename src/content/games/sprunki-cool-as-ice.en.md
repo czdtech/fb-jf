@@ -1,11 +1,13 @@
 ---
 locale: en
+modType: sprunki
 title: "Sprunki Cool As Ice - Play Sprunki Cool As Ice Online"
 description: "Sprunki: Cool As Ice is a major innovation in the Incredibox family, and it brings a new perspective to music creation through its unique winter theme."
 iframeSrc: "https://turbowarp.org/1114795409/embed"
 thumbnail: "/sprunki-cool-as-ice.png"
 urlstr: "sprunki-cool-as-ice"
 score: "4.2/5  (324 votes)"
+releaseDate: 2025-12-04
 tags: ["sprunki cool as ice", "sprunki cool as ice online"]
 ---
 

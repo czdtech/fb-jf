@@ -1,11 +1,13 @@
 ---
 locale: en
+modType: sprunki
 title: "Sprunki Pyramixed 0.9 - Play Sprunki Pyramixed 0.9 Online"
 description: "Sprunkgerny Pyramixed 0.9 is an innovative music creation game that breaks the shackles of traditional music games and perfectly combines rhythm with personalized character design."
 iframeSrc: "https://turbowarp.org/1144118565/embed"
 thumbnail: "/sprunki-pyramixed-0.9.png"
 urlstr: "sprunki-pyramixed"
 score: "4.7/5  (455 votes)"
+releaseDate: 2025-12-04
 tags: ["sprunki pyramixed 0.9", "sprunki pyramixed 0.9 online"]
 ---
 

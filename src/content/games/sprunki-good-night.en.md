@@ -1,11 +1,13 @@
 ---
 locale: en
+modType: sprunki
 title: "Sprunki Good Night - Play Sprunki Good Night Online"
 description: "Sprunki Good Night is a Mod that allows you to completely relax your body and mind after a tired day. Come to Sprunki Good Night and use gentle and peaceful beats to create a perfect lullaby and welcome sweet dreams!"
 iframeSrc: "https://turbowarp.org/1178264025/embed"
 thumbnail: "/sprunki-good-night.png"
 urlstr: "sprunki-good-night"
 score: "4.2/5  (227 votes)"
+releaseDate: 2025-12-04
 tags: ["sprunki good night"]
 ---
 

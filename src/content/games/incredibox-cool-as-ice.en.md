@@ -1,11 +1,13 @@
 ---
 locale: en
+modType: incredibox
 title: "Incredibox Cool As Ice 🎮 Play Incredibox Cool As Ice Online"
 description: "The Incredibox Cool as Ice Mod is perfect for fans who love both music-making and seasonal themes. Dive into this frosty version to experience Incredibox like never before, bringing a cool twist to your sound creations."
 iframeSrc: "https://turbowarp.org/1108441752/embed"
 thumbnail: "/incredibox-cool-as-ice.png"
 urlstr: "incredibox-cool-as-ice"
 score: "4.9/5  (724 votes)"
+releaseDate: 2025-12-04
 tags: ["incredibox cool as ice", "incredibox cool as ice online"]
 ---
 

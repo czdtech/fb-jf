@@ -1,11 +1,13 @@
 ---
 locale: en
+modType: fiddlebops
 title: "FiddleBops but Sprunki - Play FiddleBops but Sprunki Online"
 description: "FiddleBops but Sprunki is an awesome crossover event! It keeps the addictive music-making core of Fiddlebops but swaps out all the original characters for the iconic Sprunki crew."
 iframeSrc: "https://turbowarp.org/1114915532/embed"
 thumbnail: "/fiddlebops-but-sprunki.png"
 urlstr: "fiddlebops-but-sprunki"
 score: "4.2/5  (94 votes)"
+releaseDate: 2025-12-04
 tags: ["fiddlebops but sprunki"]
 ---
 

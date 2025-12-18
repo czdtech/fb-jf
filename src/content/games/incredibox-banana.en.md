@@ -1,5 +1,6 @@
 ---
 locale: en
+modType: incredibox
 title: "Incredibox Banana"
 description: "Explore the fan-made 'Incredibox Banana' mod. This guide details its jungle and meme theme inspired by the popular VR game, its unique sound palette, and tips for creating your own monkey mix."
 iframeSrc: "https://turbowarp.org/1108699828/embed"

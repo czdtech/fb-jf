@@ -6,6 +6,8 @@ description: "Discover the relaxing world of gardening games with our comprehens
 iframeSrc: "https://growden.io/"
 thumbnail: "/growagarden-min.jpeg"
 urlstr: "grow-a-garden"
+sidebarNew: 3
+sidebarPopular: 4
 score: "4.9/5  (5065 votes)"
 tags: ["simulation", "casual"]
 developer: ""

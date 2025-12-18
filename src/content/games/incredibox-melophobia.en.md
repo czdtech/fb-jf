@@ -1,5 +1,6 @@
 ---
 locale: en
+modType: incredibox
 title: "Incredibox Melophobia"
 description: "Incredibox Melophobia This guide details its eclectic sound palette, featuring chiptune and strange samples, and provides tips for unlocking its bizarre animated bonuses."
 iframeSrc: "https://turbowarp.org/1110167821/embed"

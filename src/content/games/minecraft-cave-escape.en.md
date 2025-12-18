@@ -6,6 +6,7 @@ iframeSrc: "https://turbowarp.org/1189417610/embed"
 thumbnail: "/minecraft-cave-escape.png"
 urlstr: "minecraft-cave-escape"
 score: "4.7/5  (354 votes)"
+releaseDate: 2025-12-04
 tags: ["minecraft cave escape"]
 ---
 
