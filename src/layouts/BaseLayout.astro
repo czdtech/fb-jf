@@ -13,6 +13,7 @@ import BaseHead from '../components/BaseHead.astro';
 import Analytics from '../components/Analytics.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
+import CookieConsent from '../components/CookieConsent.astro';
 
 interface Props {
   title: string;
@@ -86,6 +87,7 @@ const {
     </main>
 
     {showFooter && <Footer lang={lang} showEmail={showEmail} />}
+    <CookieConsent lang={lang} />
 
     <!-- AddToAny Social Sharing - Bottom Right -->
     <div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_default_style" data-a2a-scroll-show="0,60">

@@ -50,8 +50,15 @@
   "footer": {
     "privacyPolicy": "隐私政策",
     "termsOfService": "服务条款",
+    "cookieSettings": "Cookie 设置",
     "copyright": "版权所有。",
     "email": "电子邮件"
+  },
+  "cookie": {
+    "message": "我们使用 Cookie 来统计访问与展示广告。你可以接受或拒绝。",
+    "learnMore": "了解更多",
+    "accept": "接受",
+    "reject": "拒绝"
   },
   "homepage": {
     "aboutTitle": "关于 Fiddlebops Incredibox",

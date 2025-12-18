@@ -50,8 +50,15 @@
   "footer": {
     "privacyPolicy": "Datenschutzrichtlinie",
     "termsOfService": "Nutzungsbedingungen",
+    "cookieSettings": "Cookie-Einstellungen",
     "copyright": "Alle Rechte vorbehalten.",
     "email": "E-Mail"
+  },
+  "cookie": {
+    "message": "Wir verwenden Cookies, um den Traffic zu messen und Anzeigen zu zeigen. Du kannst zustimmen oder ablehnen.",
+    "learnMore": "Mehr erfahren",
+    "accept": "Akzeptieren",
+    "reject": "Ablehnen"
   },
   "homepage": {
     "aboutTitle": "Über Fiddlebops Incredibox",
