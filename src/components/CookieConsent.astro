@@ -40,10 +40,10 @@ const privacyHref = getLocalizedPath('/privacy/', locale);
     z-index: 9999;
     display: flex;
     justify-content: center;
-    pointer-events: none;
+    /* Avoid click-through bugs on some browsers/extensions */
+    pointer-events: auto;
   }
   .cookie-consent__inner {
-    pointer-events: auto;
     max-width: 980px;
     width: 100%;
     background: rgba(20, 20, 20, 0.95);
@@ -98,6 +98,10 @@ const privacyHref = getLocalizedPath('/privacy/', locale);
 
 <script is:inline type="module">
   const CONSENT_KEY = 'fb_cookie_consent_v1';
+
+  const root = document.getElementById('cookie-consent');
+  const acceptBtn = root?.querySelector?.('[data-cookie-consent="accept"]');
+  const rejectBtn = root?.querySelector?.('[data-cookie-consent="reject"]');
 
   function getConsent() {
     try {
@@ -155,23 +159,39 @@ const privacyHref = getLocalizedPath('/privacy/', locale);
     showBanner();
   }
 
-  document.addEventListener('click', (e) => {
-    const target = e.target;
-    if (!(target instanceof HTMLElement)) return;
+  function onDocClick(e) {
+    const el = e.target instanceof Element ? e.target : null;
+    if (!el) return;
 
     // footer/settings link
-    const settingsEl = target.closest('[data-cookie-settings]');
+    const settingsEl = el.closest('[data-cookie-settings]');
     if (settingsEl) {
       e.preventDefault();
       openSettings();
       return;
     }
 
-    const actionEl = target.closest('[data-cookie-consent]');
+    const actionEl = el.closest('[data-cookie-consent]');
     if (!actionEl) return;
     const action = actionEl.getAttribute('data-cookie-consent');
     if (action === 'accept') accept();
     if (action === 'reject') reject();
-  });
-</script>
+  }
 
+  // Direct handlers (more reliable than delegation)
+  if (acceptBtn) {
+    acceptBtn.addEventListener('click', (e) => {
+      e.preventDefault();
+      accept();
+    });
+  }
+  if (rejectBtn) {
+    rejectBtn.addEventListener('click', (e) => {
+      e.preventDefault();
+      reject();
+    });
+  }
+
+  // Delegation for footer “Cookie Settings”
+  document.addEventListener('click', onDocClick);
+</script>
