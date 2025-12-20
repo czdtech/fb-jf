@@ -32,10 +32,18 @@ const cards = picked.map((g) => toGameCardData(g, locale));
 <div class="game-iframe-pop">
   <h3>&#9658; {t('game.popularGames', 'Popular Games')}</h3>
   <ul>
-    {cards.map((game) => (
+    {cards.map((game, index) => (
       <li>
         <a href={game.href} title={game.title}>
-          <img src={game.thumbnail} alt={game.title} loading="lazy" width="150" height="150" />
+          <img
+            src={game.thumbnail}
+            alt={game.title}
+            loading={index === 0 ? 'eager' : 'lazy'}
+            decoding="async"
+            fetchpriority={index === 0 ? 'high' : undefined}
+            width="150"
+            height="150"
+          />
           <div class="title">{game.title}</div>
         </a>
       </li>
