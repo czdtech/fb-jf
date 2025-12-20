@@ -14,10 +14,16 @@
 
 - 后台入口：`/admin/`
 - CMS 只索引英文 canonical（`*.en.md`），避免 4753 文件导致卡死
+- 已开启 `use_graphql: true`（减少 GitHub API 请求数，提升列表加载速度）
 - 新增游戏时：
   - `urlstr` 必须唯一、且只用 `a-z0-9-`
   - 文件名会按 `urlstr` 生成（`<urlstr>.en.md`）
   - 图片上传默认到：`public/new-images`（引用路径 `/new-images/...`）
+
+排查后台“能打开但数据加载不出来”：
+- 确认你登录的 GitHub 账号对仓库有写权限（至少要能 push）
+- 确认 OAuth 代理（`backend.base_url`）可访问
+- 清理一次浏览器站点数据（localStorage/sessionStorage）后重试
 
 ## 3) 列表页数据来源（已动态化）
 
@@ -42,6 +48,13 @@ npm run tags:report
 npm run tags:normalize
 ```
 
+如果你只生成核心分类页 `/c/<slug>/`，建议每个游戏至少带 1 个核心分类 tag。可用脚本做“最佳猜测”回填（先 dry-run 看结果再写入）：
+
+```bash
+npm run backfill:coreTags
+npm run backfill:coreTags -- --write
+```
+
 ## 4) 侧栏（New / Popular）
 
 字段（写在英文 canonical 的 frontmatter）：
@@ -59,6 +72,13 @@ npm run tags:normalize
 
 ```bash
 npx tsx scripts/backfill-release-date.mts
+```
+
+有些历史文件可能是 ISO 字符串（如 `2025-10-18T00:00:00.000Z`），可统一规范为 `YYYY-MM-DD`（推荐，方便 CMS 与 diff）：
+
+```bash
+npm run normalize:releaseDate          # dry-run
+npm run normalize:releaseDate -- --write
 ```
 
 可选：

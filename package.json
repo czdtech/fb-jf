@@ -29,6 +29,8 @@
     "generate:trending": "tsx scripts/generate-trending-json.mts",
     "backfill:releaseDate": "tsx scripts/backfill-release-date.mts",
     "backfill:modType": "tsx scripts/backfill-mod-type.mts",
+    "normalize:releaseDate": "tsx scripts/normalize-release-date.mts",
+    "backfill:coreTags": "tsx scripts/backfill-core-tags.mts",
     "tags:report": "tsx scripts/tags-report.mts",
     "tags:normalize": "tsx scripts/normalize-tags.mts",
     "coverage:report": "tsx scripts/generate-coverage-report.mts",

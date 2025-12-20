@@ -5,6 +5,8 @@ backend:
   name: github
   repo: czdtech/fb-jf
   branch: main
+  # 性能优化：使用 GitHub GraphQL 批量拉取文件列表/内容，减少 REST API 请求数
+  use_graphql: true
   # GitHub OAuth scope：public repo 写入权限（比 repo 更小更安全）
   auth_scope: public_repo
   # 这里不是你的网站域名，而是 OAuth 代理服务（Worker）的域名

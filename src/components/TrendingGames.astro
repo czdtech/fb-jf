@@ -2,6 +2,7 @@
 import GameCard from './GameCard.astro';
 import CATEGORIES from './Categories.astro';
 import { getCanonicalGames, type GameEntry } from '../lib/canonical-games';
+import { getVoteCountFromScore } from '../lib/score';
 import { seededShuffle, getTrendingSeed } from '../lib/seeded-shuffle';
 import { loadTrendingItems } from '../lib/trending';
 import { useTranslations, getLocaleFromLangAttr, getLocalizedPath } from '../i18n/utils';
@@ -22,6 +23,8 @@ const canonicalGames = await getCanonicalGames();
 
 const getSlug = (entry: GameEntry): string =>
   String(entry.data.urlstr || entry.slug).replace(/^\/+/, '').replace(/\/+$/, '');
+
+const getReleaseDateMs = (entry: GameEntry): number => (entry.data.releaseDate ? entry.data.releaseDate.getTime() : 0);
 
 const getTitle = (entry: GameEntry): string => {
   const title = entry.data.title || 'Untitled';
@@ -63,7 +66,75 @@ for (const item of trendingItems) {
 }
 
 const fallbackPool = pool.filter((g) => !pickedSlugs.has(getSlug(g)));
-const fallbackGames = seededShuffle(fallbackPool, seed).slice(0, Math.max(0, numberOfGamesToShow - pickedGames.length));
+
+// Fallback strategy when GA trending is missing:
+// - Mix “popular” (by votes) + “new” (by releaseDate) for recency and variety.
+// - Shuffle deterministically by day to avoid build-to-build randomness.
+const remaining = Math.max(0, numberOfGamesToShow - pickedGames.length);
+const POPULAR_POOL_SIZE = 250;
+const NEW_POOL_SIZE = 250;
+const POPULAR_BATCH = 3;
+const NEW_BATCH = 1;
+
+const popularCandidates = [...fallbackPool]
+  .sort((a, b) => {
+    const votesA = getVoteCountFromScore(a.data.score);
+    const votesB = getVoteCountFromScore(b.data.score);
+    const byVotes = votesB - votesA;
+    if (byVotes !== 0) return byVotes;
+    const byDate = getReleaseDateMs(b) - getReleaseDateMs(a);
+    if (byDate !== 0) return byDate;
+    return getSlug(a).localeCompare(getSlug(b));
+  })
+  .slice(0, POPULAR_POOL_SIZE);
+
+const newCandidates = [...fallbackPool]
+  .sort((a, b) => {
+    const byDate = getReleaseDateMs(b) - getReleaseDateMs(a);
+    if (byDate !== 0) return byDate;
+    return getSlug(a).localeCompare(getSlug(b));
+  })
+  .slice(0, NEW_POOL_SIZE);
+
+const popularShuffled = seededShuffle(popularCandidates, `${seed}:popular`);
+const newShuffled = seededShuffle(newCandidates, `${seed}:new`);
+
+const used = new Set<string>(pickedSlugs);
+const mixed: GameEntry[] = [];
+
+function tryPush(entry: GameEntry): void {
+  const slug = getSlug(entry);
+  if (featuredSet.has(slug)) return;
+  if (used.has(slug)) return;
+  used.add(slug);
+  mixed.push(entry);
+}
+
+let i = 0;
+let j = 0;
+while (mixed.length < remaining && (i < popularShuffled.length || j < newShuffled.length)) {
+  for (let k = 0; k < POPULAR_BATCH && mixed.length < remaining && i < popularShuffled.length; k++) {
+    tryPush(popularShuffled[i++]!);
+  }
+  for (let k = 0; k < NEW_BATCH && mixed.length < remaining && j < newShuffled.length; k++) {
+    tryPush(newShuffled[j++]!);
+  }
+}
+
+// Final fill (deterministic) if still short.
+if (mixed.length < remaining) {
+  const rest = [...fallbackPool].sort((a, b) => {
+    const byDate = getReleaseDateMs(b) - getReleaseDateMs(a);
+    if (byDate !== 0) return byDate;
+    return getSlug(a).localeCompare(getSlug(b));
+  });
+  for (const entry of rest) {
+    if (mixed.length >= remaining) break;
+    tryPush(entry);
+  }
+}
+
+const fallbackGames = mixed.slice(0, remaining);
 const randomGames = [...pickedGames, ...fallbackGames];
 ---
 

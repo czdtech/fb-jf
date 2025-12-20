@@ -894,6 +894,19 @@ footer .copyright {
 }
 
 /* ===========================================
+ * GAME IFRAME VISIBILITY
+ * - Hide the empty iframe before Play is clicked so the cover/background is visible.
+ * - Once playing, show iframe by toggling `.is-playing` on the container.
+ * =========================================== */
+.game-iframe-sprunki iframe {
+    display: none;
+}
+
+.game-iframe-sprunki.is-playing iframe {
+    display: block;
+}
+
+/* ===========================================
  * GAME THUMBNAILS
  * =========================================== */
 .game-iframe-new ul li img,

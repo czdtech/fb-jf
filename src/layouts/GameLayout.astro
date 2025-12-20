@@ -115,8 +115,10 @@ const jsonLd = {
                           <i class="fa-solid fa-expand"></i>
                       </button>
                     )}
-                    <iframe id="fiddlebops-iframe" src="" allowtransparency="true" frameborder="0" scrolling="no" allowfullscreen width="100%" height="100%"></iframe>
-                        <button id="playButton">{t('game.play', 'Play')}</button>
+                    <iframe id="fiddlebops-iframe" src="about:blank" allowtransparency="true" frameborder="0" scrolling="no" allowfullscreen width="100%" height="100%"></iframe>
+                        <a id="playButton" href={iframeSrc} target="_blank" rel="noopener noreferrer">
+                          {t('game.play', 'Play')}
+                        </a>
                     </div>
 <NewGames lang={lang} />
                 </div>
@@ -206,7 +208,8 @@ const jsonLd = {
     const gameContainer = document.querySelector('.game-iframe-sprunki');
     
     if (playButton && iframe && gameContainer && iframeSrc) {
-      playButton.addEventListener('click', () => {
+      playButton.addEventListener('click', (e) => {
+        e.preventDefault();
         // GA4: 记录 “Play” 点击（用于 Trending / 转化口径）
         const gtag = globalThis.gtag;
         if (typeof gtag === 'function') {
@@ -221,6 +224,7 @@ const jsonLd = {
         iframe.src = iframeSrc;
         playButton.style.display = 'none';
         iframe.focus();
+        gameContainer.classList.add('is-playing');
         gameContainer.style.backgroundImage = 'none';
         
         // Show fullscreen button after iframe loads

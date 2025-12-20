@@ -262,7 +262,7 @@ describe('GameLayout Component - Property 6: Layout HTML Structure Completeness 
         
         // Interactive elements should exist
         expect($('iframe#fiddlebops-iframe').length).toBe(1);
-        expect($('button#playButton').length).toBe(1);
+        expect($('a#playButton, button#playButton').length).toBe(1);
       }),
       { numRuns: Math.min(100, gamePages.length) }
     );

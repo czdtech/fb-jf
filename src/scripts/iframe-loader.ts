@@ -51,11 +51,15 @@ export function initIframeLoader(config: IframeLoaderConfig): void {
       iframe.src = iframeSrc;
       playButton.style.display = 'none';
       iframe.focus();
+      gameContainer.classList.add('is-playing');
       gameContainer.style.backgroundImage = 'none';
     }
   }
 
-  playButton.addEventListener('click', loadIframe);
+  playButton.addEventListener('click', (e) => {
+    e.preventDefault();
+    loadIframe();
+  });
 }
 
 /**
