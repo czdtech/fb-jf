@@ -1,14 +1,19 @@
 ---
 locale: en
+title: Incredibox Sprinkle - Play Incredibox Sprinkle Online
+description: >-
+  Sprinkle is a music creation game that is simple to operate and full of fun.
+  Whether you are a casual player or a fan interested in music production, you
+  can find your own fun in the world of Sprinkle.
+iframeSrc: 'https://g.sprinkleincredibox.com/web-game/SprinkleIncredibox/index.html'
+thumbnail: /incredibox-sprinkle.png
+urlstr: incredibox-sprinkle
 modType: incredibox
-title: "Incredibox Sprinkle - Play Incredibox Sprinkle Online"
-description: "Sprinkle is a music creation game that is simple to operate and full of fun. Whether you are a casual player or a fan interested in music production, you can find your own fun in the world of Sprinkle."
-iframeSrc: "https://g.sprinkleincredibox.com/web-game/SprinkleIncredibox/index.html"
-thumbnail: "/incredibox-sprinkle.png"
-urlstr: "incredibox-sprinkle"
-score: "3.8/5  (387 votes)"
-releaseDate: 2025-12-04
-tags: ["incredibox sprinkle"]
+score: 3.8/5  (387 votes)
+tags:
+  - incredibox sprinkle
+  - music
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### How to Play Sprinkle?

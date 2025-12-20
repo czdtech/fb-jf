@@ -1,14 +1,20 @@
 ---
 locale: en
+title: Sprunki Virus New Update - Play Sprunki Virus New Update Online
+description: >-
+  Are you craving a musical journey that challenges the limits of your senses?
+  Sprunki Virus will take you into a virus-infested Sprunki world, using eerie
+  soundscapes, glitchy graphics, and intense gameplay mechanics to bring you an
+  unprecedented thrilling experience!
+iframeSrc: 'https://turbowarp.org/1104064786/embed'
+thumbnail: /sprunki-virus-new-update.png
+urlstr: sprunki-virus-new-update
 modType: sprunki
-title: "Sprunki Virus New Update - Play Sprunki Virus New Update Online"
-description: "Are you craving a musical journey that challenges the limits of your senses? Sprunki Virus will take you into a virus-infested Sprunki world, using eerie soundscapes, glitchy graphics, and intense gameplay mechanics to bring you an unprecedented thrilling experience!"
-iframeSrc: "https://turbowarp.org/1104064786/embed"
-thumbnail: "/sprunki-virus-new-update.png"
-urlstr: "sprunki-virus-new-update"
-score: "4.0/5  (407 votes)"
-releaseDate: 2025-12-04
-tags: ["sprunki virus new update"]
+score: 4.0/5  (407 votes)
+tags:
+  - sprunki virus new update
+  - music
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 Are you craving a musical journey that challenges the limits of your senses? Sprunki Virus will take you into a virus-infested Sprunki world, using eerie soundscapes, glitchy graphics, and intense gameplay mechanics to bring you an unprecedented thrilling experience!

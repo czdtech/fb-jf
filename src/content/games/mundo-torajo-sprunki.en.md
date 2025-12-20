@@ -1,14 +1,19 @@
 ---
 locale: en
+title: Mundo Torajo Sprunki - Play Mundo Torajo Sprunki Online
+description: >-
+  This unique Mod cleverly blends the whimsical universe of Mundo Torajo with
+  the rhythmic creative fun of the Sprunki platform, letting you unleash endless
+  creativity while you play.
+iframeSrc: 'https://turbowarp.org/1096623350/embed'
+thumbnail: /mundo-torajo-sprunki.png
+urlstr: mundo-torajo-sprunki
 modType: sprunki
-title: "Mundo Torajo Sprunki - Play Mundo Torajo Sprunki Online"
-description: "This unique Mod cleverly blends the whimsical universe of Mundo Torajo with the rhythmic creative fun of the Sprunki platform, letting you unleash endless creativity while you play."
-iframeSrc: "https://turbowarp.org/1096623350/embed"
-thumbnail: "/mundo-torajo-sprunki.png"
-urlstr: "mundo-torajo-sprunki"
-score: "4.0/5  (112 votes)"
-releaseDate: 2025-12-04
-tags: ["mundo torajo sprunki"]
+score: 4.0/5  (112 votes)
+tags:
+  - mundo torajo sprunki
+  - music
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 Ready to dive into a vibrant, colorful world of music? Mundo Torajo Sprunki will take you on an unprecedented audio-visual feast! This unique Mod cleverly blends the whimsical universe of Mundo Torajo with the rhythmic creative fun of the Sprunki platform, letting you unleash endless creativity while you play.

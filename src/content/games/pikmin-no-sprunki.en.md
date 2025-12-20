@@ -1,14 +1,16 @@
 ---
 locale: en
+title: Pikmin No Sprunki - Play Pikmin No Sprunki Online
+description: Pikmin No Sprunki is more than just a simple game; it
+iframeSrc: 'https://img.sprunki.net/game/pikmin-no-sprunki.html'
+thumbnail: /pikmin-no-sprunki.png
+urlstr: pikmin-no-sprunki
 modType: sprunki
-title: "Pikmin No Sprunki - Play Pikmin No Sprunki Online"
-description: "Pikmin No Sprunki is more than just a simple game; it"
-iframeSrc: "https://img.sprunki.net/game/pikmin-no-sprunki.html"
-thumbnail: "/pikmin-no-sprunki.png"
-urlstr: "pikmin-no-sprunki"
-score: "4.0/5  (89 votes)"
-releaseDate: 2025-12-04
-tags: ["pikmin no sprunki"]
+score: 4.0/5  (89 votes)
+tags:
+  - pikmin no sprunki
+  - music
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 Ever wondered what happens when the quirky world of Pikmin crashes into the musical magic of Sprunki? Pikmin No Sprunki makes that thought a reality! This captivating Scratch game cleverly blends the familiar Incredibox creation fun with fresh gameplay mechanics, inviting you on a unique audio-visual adventure.

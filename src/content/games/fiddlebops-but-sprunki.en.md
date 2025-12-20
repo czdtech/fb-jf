@@ -1,14 +1,19 @@
 ---
 locale: en
+title: FiddleBops but Sprunki - Play FiddleBops but Sprunki Online
+description: >-
+  FiddleBops but Sprunki is an awesome crossover event! It keeps the addictive
+  music-making core of Fiddlebops but swaps out all the original characters for
+  the iconic Sprunki crew.
+iframeSrc: 'https://turbowarp.org/1114915532/embed'
+thumbnail: /fiddlebops-but-sprunki.png
+urlstr: fiddlebops-but-sprunki
 modType: fiddlebops
-title: "FiddleBops but Sprunki - Play FiddleBops but Sprunki Online"
-description: "FiddleBops but Sprunki is an awesome crossover event! It keeps the addictive music-making core of Fiddlebops but swaps out all the original characters for the iconic Sprunki crew."
-iframeSrc: "https://turbowarp.org/1114915532/embed"
-thumbnail: "/fiddlebops-but-sprunki.png"
-urlstr: "fiddlebops-but-sprunki"
-score: "4.2/5  (94 votes)"
-releaseDate: 2025-12-04
-tags: ["fiddlebops but sprunki"]
+score: 4.2/5  (94 votes)
+tags:
+  - fiddlebops but sprunki
+  - music
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 Hey music makers! Ever wondered what'd happen if you threw the classic gameplay you love from Fiddlebops into a blender with the wacky, vibrant world of Sprunki? Well, wonder no more, because FiddleBops but Sprunki is here to make that crazy idea a reality! This unique mod lets you groove to familiar rhythms while experiencing the fresh, energetic charm of Sprunki.

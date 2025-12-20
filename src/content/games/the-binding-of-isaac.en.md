@@ -1,15 +1,22 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "The Binding of Isaac"
-description: "Descend into the basement in The Binding of Isaac, a dark and challenging roguelike action-RPG. Battle grotesque creatures, collect bizarre power-ups, and explore procedurally generated dungeons. Each run is unique, offering endless replayability as you uncover the secrets of Isaac's twisted world."
-iframeSrc: "https://flash-cdn.blogspot.com/2021/06/the-binding-of-isaac.html"
-thumbnail: "/new-images/the-binding-of-isaac.jpg"
-urlstr: "the-binding-of-isaac"
-score: "4.1/5  (186 votes)"
-tags: ["roguelike", "action-rpg", "indie"]
-developer: ""
-releaseDate: 2025-08-16
+title: The Binding of Isaac
+description: >-
+  Descend into the basement in The Binding of Isaac, a dark and challenging
+  roguelike action-RPG. Battle grotesque creatures, collect bizarre power-ups,
+  and explore procedurally generated dungeons. Each run is unique, offering
+  endless replayability as you uncover the secrets of Isaac's twisted world.
+iframeSrc: 'https://flash-cdn.blogspot.com/2021/06/the-binding-of-isaac.html'
+thumbnail: /new-images/the-binding-of-isaac.jpg
+urlstr: the-binding-of-isaac
+score: 4.1/5  (186 votes)
+tags:
+  - roguelike
+  - action-rpg
+  - indie
+  - action
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 ### Game Introduction

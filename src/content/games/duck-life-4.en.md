@@ -1,15 +1,19 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Duck Life 4"
-description: "Duck Life 4 is a training and racing sim: build your duck’s stats in mini‑games and win tournaments."
-iframeSrc: "https://webglmath.github.io/ducklife-4/"
-thumbnail: "/new-images/duck-life-4.jpg"
-urlstr: "duck-life-4"
-score: "4.8/5  (1295 votes)"
-tags: ["racing", "simulation"]
-developer: ""
-releaseDate: 2025-08-16
+title: Duck Life 4
+description: >-
+  Duck Life 4 is a training and racing sim: build your duck’s stats in
+  mini‑games and win tournaments.
+iframeSrc: 'https://webglmath.github.io/ducklife-4/'
+thumbnail: /new-images/duck-life-4.jpg
+urlstr: duck-life-4
+score: 4.8/5  (1295 votes)
+tags:
+  - racing
+  - simulation
+  - strategy
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

@@ -1,13 +1,15 @@
 ---
 locale: en
-title: "Geometry Dash Wave Spam - Play Geometry Dash Online"
-description: "Forget the fluff. This isn"
-iframeSrc: "https://turbowarp.org/1185431027/embed"
-thumbnail: "/geometry-dash.png"
-urlstr: "geometry-dash"
-score: "4.5/5  (604 votes)"
-releaseDate: 2025-12-04
-tags: ["geometry dash"]
+title: Geometry Dash Wave Spam - Play Geometry Dash Online
+description: Forget the fluff. This isn
+iframeSrc: 'https://turbowarp.org/1185431027/embed'
+thumbnail: /geometry-dash.png
+urlstr: geometry-dash
+score: 4.5/5  (604 votes)
+tags:
+  - geometry dash
+  - platformer
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 Forget the fluff. This isn't your standard Geometry Dash stroll. This is a pure, uncut, wave-only gauntlet designed to break you and build you back stronger. We've stripped out the portals, the pads, and the coins—it's just you, your ship, and a pixel-perfect corridor of death.

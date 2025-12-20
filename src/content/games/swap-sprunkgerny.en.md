@@ -1,13 +1,20 @@
 ---
 locale: en
-title: "Swap Sprunkgerny - Play Swap Sprunkgerny Online"
-description: "Imagine a group of alien creatures standing in front of you, with exaggerated eyes and quirky personalities, waiting for you to bring them to life. And you are the conductor of this orchestra, using your fingers to make them play unique music!"
-iframeSrc: "https://turbowarp.org/1141050651/embed"
-thumbnail: "/swap-sprunkgerny.png"
-urlstr: "swap-sprunkgerny"
-score: "4.9/5  (724 votes)"
-releaseDate: 2025-12-04
-tags: ["swap sprunkgerny", "swap sprunkgerny online"]
+title: Swap Sprunkgerny - Play Swap Sprunkgerny Online
+description: >-
+  Imagine a group of alien creatures standing in front of you, with exaggerated
+  eyes and quirky personalities, waiting for you to bring them to life. And you
+  are the conductor of this orchestra, using your fingers to make them play
+  unique music!
+iframeSrc: 'https://turbowarp.org/1141050651/embed'
+thumbnail: /swap-sprunkgerny.png
+urlstr: swap-sprunkgerny
+score: 4.9/5  (724 votes)
+tags:
+  - swap sprunkgerny
+  - swap sprunkgerny online
+  - music
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Introducing to Swap Sprunkgerny

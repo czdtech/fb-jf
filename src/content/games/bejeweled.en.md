@@ -1,13 +1,15 @@
 ---
 locale: en
-title: "Bejeweled - Play Bejeweled Online"
-description: "Bejeweled simple yet highly addictive gameplay loop made it a pioneer of the"
-iframeSrc: "https://files.acticdn.com/278374/30464/index.html"
-thumbnail: "/bejeweled.png"
-urlstr: "bejeweled"
-score: "4.8/5  (654 votes)"
-releaseDate: 2025-12-04
-tags: ["bejeweled"]
+title: Bejeweled - Play Bejeweled Online
+description: Bejeweled simple yet highly addictive gameplay loop made it a pioneer of the
+iframeSrc: 'https://files.acticdn.com/278374/30464/index.html'
+thumbnail: /bejeweled.png
+urlstr: bejeweled
+score: 4.8/5  (654 votes)
+tags:
+  - bejeweled
+  - puzzle
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 *Bejeweled* is a legendary tile-matching puzzle video game. The objective is to swap two adjacent gems to form a horizontal or vertical line of three or more gems of the same color. When a match is made, the gems disappear, and new gems fall from the top to fill the empty spaces, potentially creating chain reactions called cascades. Its simple yet highly addictive gameplay loop made it a pioneer of the "match-three" genre and one of the most successful casual games of all time. 

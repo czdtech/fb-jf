@@ -1,15 +1,19 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Duck Life"
-description: "Duck Life is a training and racing sim: level up your duck through mini‑games and win races."
-iframeSrc: "https://games.wixgames.co.uk/games/ducklife1/webgl/"
-thumbnail: "/new-images/duck-life.jpg"
-urlstr: "duck-life"
-score: "4.2/5  (1164 votes)"
-tags: ["racing", "simulation"]
-developer: ""
-releaseDate: 2025-08-16
+title: Duck Life
+description: >-
+  Duck Life is a training and racing sim: level up your duck through mini‑games
+  and win races.
+iframeSrc: 'https://games.wixgames.co.uk/games/ducklife1/webgl/'
+thumbnail: /new-images/duck-life.jpg
+urlstr: duck-life
+score: 4.2/5  (1164 votes)
+tags:
+  - racing
+  - simulation
+  - strategy
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

@@ -1,15 +1,19 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Cooking Mama: Mama Kills Animals"
-description: "Learn about 'Cooking Mama: Mama Kills Animals,' the shocking parody game created by PETA. This guide explains its origin, satirical gameplay, and the activist message behind it, distinguishing it from the official series."
-iframeSrc: "https://ad-freegames.github.io/flash/game/cooking-mama.html"
-thumbnail: "/new-images/cooking-mama.jpg"
-urlstr: "cooking-mama"
-score: "4.4/5  (1078 votes)"
-tags: ["horror"]
-developer: ""
-releaseDate: 2025-08-16
+title: 'Cooking Mama: Mama Kills Animals'
+description: >-
+  Learn about 'Cooking Mama: Mama Kills Animals,' the shocking parody game
+  created by PETA. This guide explains its origin, satirical gameplay, and the
+  activist message behind it, distinguishing it from the official series.
+iframeSrc: 'https://ad-freegames.github.io/flash/game/cooking-mama.html'
+thumbnail: /new-images/cooking-mama.jpg
+urlstr: cooking-mama
+score: 4.4/5  (1078 votes)
+tags:
+  - horror
+  - action
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

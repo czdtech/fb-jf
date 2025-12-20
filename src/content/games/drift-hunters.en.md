@@ -1,15 +1,19 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Drift Hunters"
-description: "Drift Hunters is a 3D drifting racer: tune cars, chain drifts, and rack up points across tracks."
-iframeSrc: "https://webglmath.github.io/drift-hunters/"
-thumbnail: "/new-images/drift-hunters.jpg"
-urlstr: "drift-hunters"
-score: "5.0/5  (563 votes)"
-tags: ["racing", "simulation"]
-developer: ""
-releaseDate: 2025-08-16
+title: Drift Hunters
+description: >-
+  Drift Hunters is a 3D drifting racer: tune cars, chain drifts, and rack up
+  points across tracks.
+iframeSrc: 'https://webglmath.github.io/drift-hunters/'
+thumbnail: /new-images/drift-hunters.jpg
+urlstr: drift-hunters
+score: 5.0/5  (563 votes)
+tags:
+  - racing
+  - simulation
+  - strategy
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

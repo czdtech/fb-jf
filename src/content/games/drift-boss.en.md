@@ -1,15 +1,19 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Drift Boss"
-description: "Drift Boss is a one‑button drifting game: time your turns to stay on the track and earn coins for upgrades."
-iframeSrc: "https://ubg98.github.io/DriftBoss/"
-thumbnail: "/new-images/drift-boss.jpg"
-urlstr: "drift-boss"
-score: "3.7/5  (679 votes)"
-tags: ["racing", "drifting"]
-developer: ""
-releaseDate: 2025-08-16
+title: Drift Boss
+description: >-
+  Drift Boss is a one‑button drifting game: time your turns to stay on the track
+  and earn coins for upgrades.
+iframeSrc: 'https://ubg98.github.io/DriftBoss/'
+thumbnail: /new-images/drift-boss.jpg
+urlstr: drift-boss
+score: 3.7/5  (679 votes)
+tags:
+  - racing
+  - drifting
+  - driving
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

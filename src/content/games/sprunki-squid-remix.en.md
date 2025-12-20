@@ -1,14 +1,19 @@
 ---
 locale: en
+title: Sprunki Squid Remix - Play Sprunki Squid Remix Online
+description: >-
+  prunki Squid offers a truly unique and thrilling experience. It combines the
+  iconic themes and visuals of Squid Game with the creative freedom of Sprunki,
+  resulting in unprecedented crossover gameplay.
+iframeSrc: 'https://turbowarp.org/1123885023/embed'
+thumbnail: /sprunki-squid-remix.png
+urlstr: sprunki-squid-remix
 modType: sprunki
-title: "Sprunki Squid Remix - Play Sprunki Squid Remix Online"
-description: "prunki Squid offers a truly unique and thrilling experience. It combines the iconic themes and visuals of Squid Game with the creative freedom of Sprunki, resulting in unprecedented crossover gameplay."
-iframeSrc: "https://turbowarp.org/1123885023/embed"
-thumbnail: "/sprunki-squid-remix.png"
-urlstr: "sprunki-squid-remix"
-score: "4.1/5  (92 votes)"
-releaseDate: 2025-12-04
-tags: ["sprunki squid remix"]
+score: 4.1/5  (92 votes)
+tags:
+  - sprunki squid remix
+  - music
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 Hey, rhythm masters! Ready for a music challenge that gets your heart pounding and palms sweating? Sprunki Squid is here! This isn't your average music creation game; it's an electrifying crossover mod that perfectly blends Sprunki's musical magic with the intense suspense of the phenomenal series, Squid Game!

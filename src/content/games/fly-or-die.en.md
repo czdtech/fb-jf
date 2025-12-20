@@ -1,15 +1,20 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Fly or Die"
-description: "Evolution survival (.io): eat correct food to evolve through the chain while avoiding predators and hazards across sky and ground biomes."
-iframeSrc: "https://app-96679.games.s3.yandex.net/96679/jshypemnvrae6bchv5d2nej2892owe69/index.html"
-thumbnail: "/new-images/fly-or-die.jpg"
-urlstr: "fly-or-die"
-score: "4.6/5  (260 votes)"
-tags: ["survival", "io"]
-developer: ""
-releaseDate: 2025-08-16
+title: Fly or Die
+description: >-
+  Evolution survival (.io): eat correct food to evolve through the chain while
+  avoiding predators and hazards across sky and ground biomes.
+iframeSrc: >-
+  https://app-96679.games.s3.yandex.net/96679/jshypemnvrae6bchv5d2nej2892owe69/index.html
+thumbnail: /new-images/fly-or-die.jpg
+urlstr: fly-or-die
+score: 4.6/5  (260 votes)
+tags:
+  - survival
+  - io
+  - action
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

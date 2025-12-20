@@ -1,15 +1,23 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Minecraft"
-description: "Minecraft is a sandbox video game where players explore a blocky, procedurally generated 3D world, and can discover and extract raw materials, craft tools, build structures or earthworks, and create a variety of mini-games or adventures."
-iframeSrc: "https://app-167027.games.s3.yandex.net/167027/tnn3wq0qkjwhvr1271tszdhl82lm97e6/index.html"
-thumbnail: "/new-images/minecraft.jpg"
-urlstr: "minecraft"
-score: "4.5/5  (671 votes)"
-tags: ["sandbox", "survival", "creative"]
-developer: ""
-releaseDate: 2025-08-16
+title: Minecraft
+description: >-
+  Minecraft is a sandbox video game where players explore a blocky, procedurally
+  generated 3D world, and can discover and extract raw materials, craft tools,
+  build structures or earthworks, and create a variety of mini-games or
+  adventures.
+iframeSrc: >-
+  https://app-167027.games.s3.yandex.net/167027/tnn3wq0qkjwhvr1271tszdhl82lm97e6/index.html
+thumbnail: /new-images/minecraft.jpg
+urlstr: minecraft
+score: 4.5/5  (671 votes)
+tags:
+  - sandbox
+  - survival
+  - creative
+  - adventure
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

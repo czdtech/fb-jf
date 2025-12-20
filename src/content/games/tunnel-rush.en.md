@@ -14,6 +14,7 @@ tags:
   - endless-runner
   - 3d
   - speed
+  - arcade
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
 ---

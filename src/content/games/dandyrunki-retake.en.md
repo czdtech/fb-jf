@@ -1,13 +1,19 @@
 ---
 locale: en
-title: "Dandyrunki Retake - Play Dandyrunki Retake Online"
-description: "In the Dandyrunki Retake, you can easily get started and effortlessly explore various rhythms and melodies. Whether you are a casual player or a music enthusiast, you can find your own fun in this remix version."
-iframeSrc: "https://turbowarp.org/1126924449/embed"
-thumbnail: "/dandyrunki-retake.png"
-urlstr: "dandyrunki-retake"
-score: "3.7/5  (255 votes)"
-releaseDate: 2025-12-04
-tags: ["dandyrunki retake", "dandyrunki retake online"]
+title: Dandyrunki Retake - Play Dandyrunki Retake Online
+description: >-
+  In the Dandyrunki Retake, you can easily get started and effortlessly explore
+  various rhythms and melodies. Whether you are a casual player or a music
+  enthusiast, you can find your own fun in this remix version.
+iframeSrc: 'https://turbowarp.org/1126924449/embed'
+thumbnail: /dandyrunki-retake.png
+urlstr: dandyrunki-retake
+score: 3.7/5  (255 votes)
+tags:
+  - dandyrunki retake
+  - dandyrunki retake online
+  - music
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### What's So Fun About Dandyrunki Retake?

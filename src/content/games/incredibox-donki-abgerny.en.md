@@ -1,14 +1,18 @@
 ---
 locale: en
+title: Incredibox Donki Abgerny - Play Incredibox Donki Abgerny Online
+description: >-
+  Incredibox Donki Abgerny infuses deep tribal rhythms, unique didgeridoos, and
+  soulful chants into the classic Incredibox gameplay.
+iframeSrc: 'https://turbowarp.org/1135326100/embed'
+thumbnail: /incredibox-donki-abgerny.png
+urlstr: incredibox-donki-abgerny
 modType: incredibox
-title: "Incredibox Donki Abgerny - Play Incredibox Donki Abgerny Online"
-description: "Incredibox Donki Abgerny infuses deep tribal rhythms, unique didgeridoos, and soulful chants into the classic Incredibox gameplay."
-iframeSrc: "https://turbowarp.org/1135326100/embed"
-thumbnail: "/incredibox-donki-abgerny.png"
-urlstr: "incredibox-donki-abgerny"
-score: "4.3/5  (154 votes)"
-releaseDate: 2025-12-04
-tags: ["incredibox donki abgerny"]
+score: 4.3/5  (154 votes)
+tags:
+  - incredibox donki abgerny
+  - music
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 Hey, tired of the same old electronic beats? Want to embark on a musical adventure through time, feeling the primal pulse from deep within the earth? Then Incredibox Donki Abgerny will definitely blow your mind! This unique Incredibox experience takes you on an immersive musical journey, making you feel like you're right in the heart of an ancient tribe.

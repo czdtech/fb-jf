@@ -1,14 +1,19 @@
 ---
 locale: en
+title: "Sprunki Retake New Human \U0001F525 Play Sprunki Retake New Human Online"
+description: >-
+  The core of Sprunki Retake New Human is to reimagine the classic Incredibox
+  experience through a new humanoid character design.
+iframeSrc: 'https://turbowarp.org/1139615160/embed'
+thumbnail: /sprunki-retake-new-human.png
+urlstr: sprunki-retake-new-human
 modType: sprunki
-title: "Sprunki Retake New Human 🔥 Play Sprunki Retake New Human Online"
-description: "The core of Sprunki Retake New Human is to reimagine the classic Incredibox experience through a new humanoid character design."
-iframeSrc: "https://turbowarp.org/1139615160/embed"
-thumbnail: "/sprunki-retake-new-human.png"
-urlstr: "sprunki-retake-new-human"
-score: "4.0/5  (829 votes)"
-releaseDate: 2025-12-04
-tags: ["sprunki retake new human", "musical mod"]
+score: 4.0/5  (829 votes)
+tags:
+  - sprunki retake new human
+  - musical mod
+  - music
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Introducing to Sprunki Retake New Human

@@ -1,15 +1,22 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "YoHoHo.io"
-description: "Set sail for adventure in YoHoHo.io, a thrilling pirate-themed battle royale game! Grow your pirate by collecting gold, eliminate smaller opponents, and avoid the shrinking safe zone. Master your sword attacks and dash abilities to become the most feared pirate on the high seas!"
-iframeSrc: "https://bitlifeonline.github.io/class16523/yohoho-io/"
-thumbnail: "/new-images/yohoho-io.jpg"
-urlstr: "yohoho-io"
-score: "5.0/5  (316 votes)"
-tags: ["io-game", "battle-royale", "pirate"]
-developer: ""
-releaseDate: 2025-08-16
+title: YoHoHo.io
+description: >-
+  Set sail for adventure in YoHoHo.io, a thrilling pirate-themed battle royale
+  game! Grow your pirate by collecting gold, eliminate smaller opponents, and
+  avoid the shrinking safe zone. Master your sword attacks and dash abilities to
+  become the most feared pirate on the high seas!
+iframeSrc: 'https://bitlifeonline.github.io/class16523/yohoho-io/'
+thumbnail: /new-images/yohoho-io.jpg
+urlstr: yohoho-io
+score: 5.0/5  (316 votes)
+tags:
+  - io-game
+  - battle-royale
+  - pirate
+  - multiplayer
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 ### Game Introduction

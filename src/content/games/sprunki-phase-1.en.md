@@ -1,14 +1,19 @@
 ---
 locale: en
+title: Sprunki Phase 1 - Play Sprunki Phase 1 Online
+description: >-
+  Sprunki Phase 1 is the perfect gateway into the amazing Sprunki universe. It
+  offers a simple, intuitive way to experience the joy of music creation and see
+  what this vibrant, creative world was like right at the start.
+iframeSrc: 'https://turbowarp.org/1127823859/embed'
+thumbnail: /sprunki-phase-1.png
+urlstr: sprunki-phase-1
 modType: sprunki
-title: "Sprunki Phase 1 - Play Sprunki Phase 1 Online"
-description: "Sprunki Phase 1 is the perfect gateway into the amazing Sprunki universe. It offers a simple, intuitive way to experience the joy of music creation and see what this vibrant, creative world was like right at the start."
-iframeSrc: "https://turbowarp.org/1127823859/embed"
-thumbnail: "/sprunki-phase-1.png"
-urlstr: "sprunki-phase-1"
-score: "4.3/5  (96 votes)"
-releaseDate: 2025-12-04
-tags: ["sprunki phase 1"]
+score: 4.3/5  (96 votes)
+tags:
+  - sprunki phase 1
+  - music
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 Ever wondered where the totally addictive Sprunki musical journey first kicked off? That's right! It all started with Sprunki Phase 1! This mod takes you back to the very beginning, letting you experience the original, vibrant charm of the Sprunki universe built on the classic Incredibox gameplay foundation.

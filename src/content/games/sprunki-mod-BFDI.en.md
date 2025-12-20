@@ -1,14 +1,19 @@
 ---
 locale: en
+title: Sprunki Mod BFDI - Play Sprunki Mod BFDI Online
+description: >-
+  The Sprunki Mod BFDI, also known as Sprunki Battle for Dream Island,
+  reimagines the classic Incredibox Sprunki gameplay by integrating the
+  whimsical and object-themed aesthetics of Battle for Dream Island (BFDI).
+iframeSrc: 'https://turbowarp.org/1087434086/embed'
+thumbnail: /sprunki-mod-bfdi.png
+urlstr: sprunki-mod-BFDI
 modType: sprunki
-title: "Sprunki Mod BFDI - Play Sprunki Mod BFDI Online"
-description: "The Sprunki Mod BFDI, also known as Sprunki Battle for Dream Island, reimagines the classic Incredibox Sprunki gameplay by integrating the whimsical and object-themed aesthetics of Battle for Dream Island (BFDI)."
-iframeSrc: "https://turbowarp.org/1087434086/embed"
-thumbnail: "/sprunki-mod-bfdi.png"
-urlstr: "sprunki-mod-BFDI"
-score: "4.2/5  (347 votes)"
-releaseDate: 2025-12-04
-tags: ["sprunki mod bfdi"]
+score: 4.2/5  (347 votes)
+tags:
+  - sprunki mod bfdi
+  - music
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### What is Sprunki Mod BFDI?

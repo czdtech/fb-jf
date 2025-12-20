@@ -1,14 +1,16 @@
 ---
 locale: en
+title: Sprunki x Sepbox Steel Factory - Play Sprunki x Sepbox Steel Factory Online
+description: Sprunki x SepBox Steel Factory is a unique collaboration that combines Sprunki
+iframeSrc: 'https://turbowarp.org/1099071172/embed'
+thumbnail: /sprunki-sepbox-steel-factory.png
+urlstr: sprunki-sepbox-steel-factory
 modType: sprunki
-title: "Sprunki x Sepbox Steel Factory - Play Sprunki x Sepbox Steel Factory Online"
-description: "Sprunki x SepBox Steel Factory is a unique collaboration that combines Sprunki"
-iframeSrc: "https://turbowarp.org/1099071172/embed"
-thumbnail: "/sprunki-sepbox-steel-factory.png"
-urlstr: "sprunki-sepbox-steel-factory"
-score: "4.9/5  (509 votes)"
-releaseDate: 2025-12-04
-tags: ["sprunki x sepbox steel factory"]
+score: 4.9/5  (509 votes)
+tags:
+  - sprunki x sepbox steel factory
+  - music
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 Get ready to step into a musical world full of mechanical roars and metallic collisions? Sprunki x SepBox Steel Factory will take you into a factory-themed universe, where every element is designed to inspire your creativity. This Mod introduces a lineup of factory-inspired characters, each capable of producing unique sounds that echo the clang of metal, the hum of machinery, and the rhythmic beats of an industrial setting.

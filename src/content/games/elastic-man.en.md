@@ -1,15 +1,19 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Elastic Man"
-description: "Elastic Man is an interactive toy: stretch, poke, and squish a rubbery face with playful physics."
-iframeSrc: "https://d21u3ic0kp9e91.cloudfront.net/elasticman/0/index.html"
-thumbnail: "/new-images/elastic-man.jpg"
-urlstr: "elastic-man"
-score: "3.7/5  (959 votes)"
-tags: ["simulation", "toy"]
-developer: ""
-releaseDate: 2025-08-16
+title: Elastic Man
+description: >-
+  Elastic Man is an interactive toy: stretch, poke, and squish a rubbery face
+  with playful physics.
+iframeSrc: 'https://d21u3ic0kp9e91.cloudfront.net/elasticman/0/index.html'
+thumbnail: /new-images/elastic-man.jpg
+urlstr: elastic-man
+score: 3.7/5  (959 votes)
+tags:
+  - simulation
+  - toy
+  - strategy
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

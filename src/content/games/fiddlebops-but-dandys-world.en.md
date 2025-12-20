@@ -1,14 +1,16 @@
 ---
 locale: en
+title: Fiddlebops But Dandy's World - Play Fiddlebops But Dandy's World Online
+description: Fiddlebops But Dandys World is not just a game; it
+iframeSrc: 'https://turbowarp.org/1114551059/embed'
+thumbnail: /fiddlebops-but-dandys-world.png
+urlstr: fiddlebops-but-dandys-world
 modType: fiddlebops
-title: "Fiddlebops But Dandy's World - Play Fiddlebops But Dandy's World Online"
-description: "Fiddlebops But Dandys World is not just a game; it"
-iframeSrc: "https://turbowarp.org/1114551059/embed"
-thumbnail: "/fiddlebops-but-dandys-world.png"
-urlstr: "fiddlebops-but-dandys-world"
-score: "4.6/5  (27 votes)"
-releaseDate: 2025-12-04
-tags: ["fiddlebops but dandy"]
+score: 4.6/5  (27 votes)
+tags:
+  - fiddlebops but dandy
+  - music
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 Are you yearning to step into a musical kingdom brimming with fantastical charm? Fiddlebops But Dandy's World awaits your exploration! Imagine, you're not just sitting in front of a screen, but transforming into Dandys World's guide, leading a quirky crew of Fiddlebops companions through a series of surprising musical landscapes.

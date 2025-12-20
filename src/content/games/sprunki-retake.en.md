@@ -1,14 +1,19 @@
 ---
 locale: en
+title: "Sprunki Retake \U0001F525 Play Sprunki Retake Online"
+description: >-
+  If you love rhythm games and have a penchant for horror elements, Sprunki
+  Retake will definitely get you hooked!
+iframeSrc: 'https://www.minijuegos.com/embed/sprunki-retake'
+thumbnail: /sprunki-retake.png
+urlstr: sprunki-retake
 modType: sprunki
-title: "Sprunki Retake 🔥 Play Sprunki Retake Online"
-description: "If you love rhythm games and have a penchant for horror elements, Sprunki Retake will definitely get you hooked!"
-iframeSrc: "https://www.minijuegos.com/embed/sprunki-retake"
-thumbnail: "/sprunki-retake.png"
-urlstr: "sprunki-retake"
-score: "4.3/5  (524 votes)"
-releaseDate: 2025-12-04
-tags: ["sprunki retake", "sprunki retake online"]
+score: 4.3/5  (524 votes)
+tags:
+  - sprunki retake
+  - sprunki retake online
+  - music
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Introducing to Sprunki Retake

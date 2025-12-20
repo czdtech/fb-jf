@@ -1,14 +1,20 @@
 ---
 locale: en
+title: Sprunki Pyramixed 0.9 - Play Sprunki Pyramixed 0.9 Online
+description: >-
+  Sprunkgerny Pyramixed 0.9 is an innovative music creation game that breaks the
+  shackles of traditional music games and perfectly combines rhythm with
+  personalized character design.
+iframeSrc: 'https://turbowarp.org/1144118565/embed'
+thumbnail: /sprunki-pyramixed-0.9.png
+urlstr: sprunki-pyramixed
 modType: sprunki
-title: "Sprunki Pyramixed 0.9 - Play Sprunki Pyramixed 0.9 Online"
-description: "Sprunkgerny Pyramixed 0.9 is an innovative music creation game that breaks the shackles of traditional music games and perfectly combines rhythm with personalized character design."
-iframeSrc: "https://turbowarp.org/1144118565/embed"
-thumbnail: "/sprunki-pyramixed-0.9.png"
-urlstr: "sprunki-pyramixed"
-score: "4.7/5  (455 votes)"
-releaseDate: 2025-12-04
-tags: ["sprunki pyramixed 0.9", "sprunki pyramixed 0.9 online"]
+score: 4.7/5  (455 votes)
+tags:
+  - sprunki pyramixed 0.9
+  - sprunki pyramixed 0.9 online
+  - music
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 Are you craving a music game that lets you experience the thrill of rhythm while showcasing your personality? Welcome to the world of Sprunkgerny Pyramixed 0.9! This game cleverly combines rhythm gameplay with character customization, allowing you to unleash your musical creativity while creating your own personalized avatar.

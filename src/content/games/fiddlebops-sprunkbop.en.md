@@ -1,14 +1,19 @@
 ---
 locale: en
+title: Fiddlebops Sprunkbop - Play Fiddlebops Sprunkbop Online
+description: >-
+  Fiddlebops Sprunkbop is an awesome crossover event! It keeps the addictive
+  music-making core of Fiddlebops but swaps out all the original characters for
+  the iconic Sprunki crew.
+iframeSrc: 'https://turbowarp.org/1114551059/embed'
+thumbnail: /fiddlebops-sprunkbop.png
+urlstr: fiddlebops-sprunkbop
 modType: fiddlebops
-title: "Fiddlebops Sprunkbop - Play Fiddlebops Sprunkbop Online"
-description: "Fiddlebops Sprunkbop is an awesome crossover event! It keeps the addictive music-making core of Fiddlebops but swaps out all the original characters for the iconic Sprunki crew."
-iframeSrc: "https://turbowarp.org/1114551059/embed"
-thumbnail: "/fiddlebops-sprunkbop.png"
-urlstr: "fiddlebops-sprunkbop"
-score: "4.1/5  (308 votes)"
-releaseDate: 2025-12-04
-tags: ["fiddlebops sprunkbop"]
+score: 4.1/5  (308 votes)
+tags:
+  - fiddlebops sprunkbop
+  - music
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 Hey music lovers! Looking to shake up your usual Incredibox routine with something fresh? Then you absolutely need to check out Fiddlebops Sprunkbop! This isn't an official release, but a custom mod crafted by super talented fans. It completely remixes the classic game's music, spinning it into a whole new style that's become incredibly popular within the Incredibox community!

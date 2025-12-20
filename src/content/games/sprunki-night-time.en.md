@@ -1,14 +1,21 @@
 ---
 locale: en
+title: Sprunki Night Time - Play Sprunki Night Time Online
+description: >-
+  Sprunki Night Time takes you into a dark world full of mystery and unknown,
+  allowing you to experience a psychedelic musical journey in the silence of the
+  night. Come and join Sprunki Night Time, and use your music to light up this
+  deep and mysterious night!
+iframeSrc: 'https://turbowarp.org/1100659044/embed'
+thumbnail: /sprunki-night-time.png
+urlstr: sprunki-night-time
 modType: sprunki
-title: "Sprunki Night Time - Play Sprunki Night Time Online"
-description: "Sprunki Night Time takes you into a dark world full of mystery and unknown, allowing you to experience a psychedelic musical journey in the silence of the night. Come and join Sprunki Night Time, and use your music to light up this deep and mysterious night!"
-iframeSrc: "https://turbowarp.org/1100659044/embed"
-thumbnail: "/sprunki-night-time.png"
-urlstr: "sprunki-night-time"
-score: "4.2/5  (324 votes)"
-releaseDate: 2025-12-04
-tags: ["sprunki night time", "sprunki night time online"]
+score: 4.2/5  (324 votes)
+tags:
+  - sprunki night time
+  - sprunki night time online
+  - music
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Introducing to Sprunki Night Time

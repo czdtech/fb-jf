@@ -1,14 +1,18 @@
 ---
 locale: en
+title: Incredibox Sprunksters - Play Incredibox Sprunksters Online
+description: >-
+  Say goodbye to the same old sounds! Incredibox Sprunksters brings new samples
+  and effects to the table, making your music feel unique and creative.
+iframeSrc: 'https://turbowarp.org/1129395199/embed'
+thumbnail: /incredibox-sprunksters.png
+urlstr: incredibox-sprunksters
 modType: incredibox
-title: "Incredibox Sprunksters - Play Incredibox Sprunksters Online"
-description: "Say goodbye to the same old sounds! Incredibox Sprunksters brings new samples and effects to the table, making your music feel unique and creative."
-iframeSrc: "https://turbowarp.org/1129395199/embed"
-thumbnail: "/incredibox-sprunksters.png"
-urlstr: "incredibox-sprunksters"
-score: "4.3/5  (185 votes)"
-releaseDate: 2025-12-04
-tags: ["incredibox sprunksters"]
+score: 4.3/5  (185 votes)
+tags:
+  - incredibox sprunksters
+  - music
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 Hey music makers! Wanna spice up your music creation routine? Let me introduce you to Incredibox Sprunksters! This isn't your standard Incredibox vibe; it's a super creative mod crafted by the awesome Bismeowth, blending the quirky spirit of Sprunki with music making in a way that opens up endless possibilities!

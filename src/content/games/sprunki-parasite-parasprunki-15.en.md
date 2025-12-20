@@ -1,14 +1,16 @@
 ---
 locale: en
+title: Incredibox Sprunksters - Play Incredibox Sprunksters Online
+description: Get ready for Sprunki Parasite ParaSprunki 15! This isn
+iframeSrc: 'https://kdata1.com/2025/03/paraSprunki-update-15-0-part-222/'
+thumbnail: /sprunki-parasite-parasprunki-15.png
+urlstr: sprunki-parasite-parasprunki-15
 modType: sprunki
-title: "Incredibox Sprunksters - Play Incredibox Sprunksters Online"
-description: "Get ready for Sprunki Parasite ParaSprunki 15! This isn"
-iframeSrc: "https://kdata1.com/2025/03/paraSprunki-update-15-0-part-222/"
-thumbnail: "/sprunki-parasite-parasprunki-15.png"
-urlstr: "sprunki-parasite-parasprunki-15"
-score: "4.3/5  (372 votes)"
-releaseDate: 2025-12-04
-tags: ["incredibox sprunksters"]
+score: 4.3/5  (372 votes)
+tags:
+  - incredibox sprunksters
+  - music
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 Do you dare step into a musical world shrouded in an eerie atmosphere? Get ready for Sprunki Parasite ParaSprunki 15! This isn't the sunny Sprunki you might be used to; it's a fan-made mod by the brilliant mondaymuncher, packed with thrilling elements. It twists the familiar music creation experience into a delightfully creepy adventure.

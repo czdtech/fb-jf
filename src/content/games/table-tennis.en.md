@@ -14,7 +14,7 @@ tags:
   - 2-player
   - action
 developer: ''
-releaseDate: 2025-10-17T00:00:00.000Z
+releaseDate: 2025-10-17
 ---
 
 

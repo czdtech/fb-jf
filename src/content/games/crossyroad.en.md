@@ -1,13 +1,17 @@
 ---
 locale: en
-title: "Crossy Road - Play Crossy Road Online"
-description: "Crossy Road is an 8-bit endless arcade hopper game in which your mission is to control the chicken and cross the roads, rivers, and railroads safely."
-iframeSrc: "https://www.playfiddlebops.com/embed/crossyroad/index.html"
-thumbnail: "/crossy-road.jpg"
-urlstr: "crossyroad"
-score: "4.8/5  (1104 votes)"
-releaseDate: 2025-12-04
-tags: ["crossy road"]
+title: Crossy Road - Play Crossy Road Online
+description: >-
+  Crossy Road is an 8-bit endless arcade hopper game in which your mission is to
+  control the chicken and cross the roads, rivers, and railroads safely.
+iframeSrc: 'https://www.playfiddlebops.com/embed/crossyroad/index.html'
+thumbnail: /crossy-road.jpg
+urlstr: crossyroad
+score: 4.8/5  (1104 votes)
+tags:
+  - crossy road
+  - arcade
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 Crossy Road is an incredibly popular and addictive endless arcade-style video game developed and published by Hipster Whale. The objective of the game is simple: to cross a series of busy roads, rivers, and train tracks for as long as possible without dying. Its charming voxel art style (similar to 3D pixels) and a vast collection of unlockable characters have made it a global hit on mobile devices and other platforms. The name and concept of the game are a playful reference to the classic joke, "Why did the chicken cross the road?". 

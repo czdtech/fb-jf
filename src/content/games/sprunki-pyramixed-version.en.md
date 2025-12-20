@@ -1,14 +1,19 @@
 ---
 locale: en
+title: Sprunki Pyramixed - Play Sprunki Pyramixed Online
+description: >-
+  Sprunki Pyramixed is a fantastic music creation platform that cleverly
+  balances ease of use with depth, allowing everyone to enjoy the fun of making
+  music.
+iframeSrc: 'https://turbowarp.org/1133167510/embed'
+thumbnail: /sprunki-pyramixed-version.png
+urlstr: sprunki-pyramixed-version
 modType: sprunki
-title: "Sprunki Pyramixed - Play Sprunki Pyramixed Online"
-description: "Sprunki Pyramixed is a fantastic music creation platform that cleverly balances ease of use with depth, allowing everyone to enjoy the fun of making music."
-iframeSrc: "https://turbowarp.org/1133167510/embed"
-thumbnail: "/sprunki-pyramixed-version.png"
-urlstr: "sprunki-pyramixed-version"
-score: "4.0/5  (254 votes)"
-releaseDate: 2025-12-04
-tags: ["sprunki pyramixed"]
+score: 4.0/5  (254 votes)
+tags:
+  - sprunki pyramixed
+  - music
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 Ready to enter a new realm of music creation that's both deep and incredibly fun? Say hello to Sprunki Pyramixed! This innovative platform masterfully blends sophisticated sound design with intuitive, engaging gameplay. Whether you're a complete music newbie or a seasoned composer, you'll find your creative happy place right here.

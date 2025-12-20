@@ -1,14 +1,17 @@
 ---
 locale: en
+title: Sprunki Meets The Cat Spell - Play Sprunki Meets The Cat Spell Online
+description: This mod is a reworked version of an existing mod titled
+iframeSrc: 'https://turbowarp.org/1149710266/embed'
+thumbnail: /sprunki-meets-the-cat-spell.png
+urlstr: sprunki-meets-the-cat-spell
 modType: sprunki
-title: "Sprunki Meets The Cat Spell - Play Sprunki Meets The Cat Spell Online"
-description: "This mod is a reworked version of an existing mod titled"
-iframeSrc: "https://turbowarp.org/1149710266/embed"
-thumbnail: "/sprunki-meets-the-cat-spell.png"
-urlstr: "sprunki-meets-the-cat-spell"
-score: "4.8/5  (649 votes)"
-releaseDate: 2025-12-04
-tags: ["sprunki meets the cat spell", "sprunki meets the cat spell online"]
+score: 4.8/5  (649 votes)
+tags:
+  - sprunki meets the cat spell
+  - sprunki meets the cat spell online
+  - music
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Introducing to Sprunki Meets The Cat Spell

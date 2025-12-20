@@ -13,7 +13,7 @@ tags:
   - card
   - casual
 developer: ''
-releaseDate: 2025-10-18T00:00:00.000Z
+releaseDate: 2025-10-18
 ---
 
 

@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "60 Seconds Burger Run - Play 60 Seconds Burger Run Online"
-description: "60 Second Burger Run is an exciting and colorful speed-running platformer where your main goal is to reach a closing burger shop within a strict 60-second time limit!"
-iframeSrc: "https://www.playfiddlebops.com/embed/60s-burger-run/index.html"
-thumbnail: "/60s-burger-run.jpg"
-urlstr: "60s-burger-run"
+title: 60 Seconds Burger Run - Play 60 Seconds Burger Run Online
+description: >-
+  60 Second Burger Run is an exciting and colorful speed-running platformer
+  where your main goal is to reach a closing burger shop within a strict
+  60-second time limit!
+iframeSrc: 'https://www.playfiddlebops.com/embed/60s-burger-run/index.html'
+thumbnail: /60s-burger-run.jpg
+urlstr: 60s-burger-run
 sidebarPopular: 3
-score: "4.6/5  (1344 votes)"
-releaseDate: 2025-12-04
-tags: ["60 seconds burger run"]
+score: 4.6/5  (1344 votes)
+tags:
+  - 60 seconds burger run
+  - arcade
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 *60 Second Burger Run* is an exciting and colorful speed-running platformer where your main goal is to reach a closing burger shop within a strict 60-second time limit! You control a cheerful, chubby hero who loves tasty fast food, and you must guide him through a series of challenging stages as quickly as possible. The game tests your reaction time, precision jumping, and ability to quickly memorize paths to pass as many levels as you can before the timer hits zero. 

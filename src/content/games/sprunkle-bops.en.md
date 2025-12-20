@@ -1,13 +1,19 @@
 ---
 locale: en
-title: "Sprunkle Bops - Play Sprunkle Bops Online"
-description: "Sprunkle Bops is a fan-made expansion of the popular Incredibox music-mixing game, offering a creative twist with custom mods, new phases, and unique gameplay elements."
-iframeSrc: "https://turbowarp.org/1122091658/embed"
-thumbnail: "/sprunklebops.png"
-urlstr: "sprunkle-bops"
-score: "4.3/5  (524 votes)"
-releaseDate: 2025-12-04
-tags: ["sprunkle bops", "sprunkle bops online"]
+title: Sprunkle Bops - Play Sprunkle Bops Online
+description: >-
+  Sprunkle Bops is a fan-made expansion of the popular Incredibox music-mixing
+  game, offering a creative twist with custom mods, new phases, and unique
+  gameplay elements.
+iframeSrc: 'https://turbowarp.org/1122091658/embed'
+thumbnail: /sprunklebops.png
+urlstr: sprunkle-bops
+score: 4.3/5  (524 votes)
+tags:
+  - sprunkle bops
+  - sprunkle bops online
+  - music
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Introducing to Sprunkle Bops

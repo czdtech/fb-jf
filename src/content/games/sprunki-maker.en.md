@@ -1,14 +1,17 @@
 ---
 locale: en
+title: Sprunki Maker (BIG update) - Play Sprunki Maker (BIG update) Online
+description: Want to own a unique Sprunki character? Now
+iframeSrc: 'https://www.playfiddlebops.com/embed/sprunki-marker/index.html'
+thumbnail: /sprunki-maker.png
+urlstr: sprunki-maker
 modType: sprunki
-title: "Sprunki Maker (BIG update) - Play Sprunki Maker (BIG update) Online"
-description: "Want to own a unique Sprunki character? Now"
-iframeSrc: "https://www.playfiddlebops.com/embed/sprunki-marker/index.html"
-thumbnail: "/sprunki-maker.png"
-urlstr: "sprunki-maker"
-score: "4.8/5  (700 votes)"
-releaseDate: 2025-12-04
-tags: ["sprunki maker (big update)", "sprunki maker (big update) online"]
+score: 4.8/5  (700 votes)
+tags:
+  - sprunki maker (big update)
+  - sprunki maker (big update) online
+  - music
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Introducing to Sprunki Maker (BIG update)

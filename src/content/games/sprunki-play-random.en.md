@@ -1,14 +1,20 @@
 ---
 locale: en
+title: Sprunki Play Random - Play Sprunki Play Random Online
+description: >-
+  Sprunki Play Random is a music creation game full of surprises and fun. If you
+  like challenges and exploration, then Sprunki Play Random is definitely for
+  you!
+iframeSrc: 'https://turbowarp.org/1148555262/embed'
+thumbnail: /sprunki-play-random.png
+urlstr: sprunki-play-random
 modType: sprunki
-title: "Sprunki Play Random - Play Sprunki Play Random Online"
-description: "Sprunki Play Random is a music creation game full of surprises and fun. If you like challenges and exploration, then Sprunki Play Random is definitely for you!"
-iframeSrc: "https://turbowarp.org/1148555262/embed"
-thumbnail: "/sprunki-play-random.png"
-urlstr: "sprunki-play-random"
-score: "4.5/5  (614 votes)"
-releaseDate: 2025-12-04
-tags: ["sprunki play random", "sprunki play random online"]
+score: 4.5/5  (614 votes)
+tags:
+  - sprunki play random
+  - sprunki play random online
+  - music
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Introducing to Sprunki Play Random

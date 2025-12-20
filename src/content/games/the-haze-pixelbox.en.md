@@ -1,13 +1,17 @@
 ---
 locale: en
-title: "The Haze Pixelbox - Play The Haze Pixelbox Online"
-description: "The Haze Pixelbox offers endless fun with its unique ethnic twist, sparking creativity for musicians of all skill levels."
-iframeSrc: "https://turbowarp.org/1020955547/embed"
-thumbnail: "/the-haze-pixelbox.png"
-urlstr: "the-haze-pixelbox"
-score: "3.9/5  (132 votes)"
-releaseDate: 2025-12-04
-tags: ["the haze pixelbox"]
+title: The Haze Pixelbox - Play The Haze Pixelbox Online
+description: >-
+  The Haze Pixelbox offers endless fun with its unique ethnic twist, sparking
+  creativity for musicians of all skill levels.
+iframeSrc: 'https://turbowarp.org/1020955547/embed'
+thumbnail: /the-haze-pixelbox.png
+urlstr: the-haze-pixelbox
+score: 3.9/5  (132 votes)
+tags:
+  - the haze pixelbox
+  - music
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### What's So Special About The Haze Pixelbox?

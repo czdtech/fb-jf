@@ -1,15 +1,21 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Paper Minecraft"
-description: "Paper Minecraft is a 2D re-imagining of the popular sandbox game, offering players a side-scrolling world to explore, mine resources, craft items, build structures, and survive against monsters."
-iframeSrc: "https://scratch.mit.edu/projects/10128407/embed"
-thumbnail: "/new-images/paper-minecraft.jpg"
-urlstr: "paper-minecraft"
-score: "3.6/5  (848 votes)"
-tags: ["sandbox", "crafting", "2d platformer"]
-developer: ""
-releaseDate: 2025-08-16
+title: Paper Minecraft
+description: >-
+  Paper Minecraft is a 2D re-imagining of the popular sandbox game, offering
+  players a side-scrolling world to explore, mine resources, craft items, build
+  structures, and survive against monsters.
+iframeSrc: 'https://scratch.mit.edu/projects/10128407/embed'
+thumbnail: /new-images/paper-minecraft.jpg
+urlstr: paper-minecraft
+score: 3.6/5  (848 votes)
+tags:
+  - sandbox
+  - crafting
+  - 2d platformer
+  - adventure
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

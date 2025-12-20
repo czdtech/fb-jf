@@ -1,15 +1,19 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Lemonade Stand"
-description: "Classic business sim: set price, recipe, and advertising; buy cups/lemons/ice; and manage daily profit under changing weather." 
-iframeSrc: "https://ad-freegames.github.io/flash/game/lemonade-stand.html"
-thumbnail: "/new-images/lemonade-stand.jpg"
-urlstr: "lemonade-stand"
-score: "3.9/5  (232 votes)"
-tags: ["simulation", "tycoon"]
-developer: ""
-releaseDate: 2025-08-16
+title: Lemonade Stand
+description: >-
+  Classic business sim: set price, recipe, and advertising; buy cups/lemons/ice;
+  and manage daily profit under changing weather.
+iframeSrc: 'https://ad-freegames.github.io/flash/game/lemonade-stand.html'
+thumbnail: /new-images/lemonade-stand.jpg
+urlstr: lemonade-stand
+score: 3.9/5  (232 votes)
+tags:
+  - simulation
+  - tycoon
+  - strategy
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

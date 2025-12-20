@@ -1,15 +1,21 @@
 ---
 locale: en
-modType: sprunki
-title: "Sprunki Phase 8 - Play Sprunki Phase 8 Online"
-description: "Sprunki Phase 8 is a bold experiment that successfully marries music creation with horror aesthetics. It offers a platform brimming with mystery and creativity, allowing you to have fun with music while exploring the darker side."
-iframeSrc: "https://turbowarp.org/1140266189/embed"
-thumbnail: "/sprunki-phase-8.png"
-urlstr: "sprunki-phase-8"
+title: Sprunki Phase 8 - Play Sprunki Phase 8 Online
+description: >-
+  Sprunki Phase 8 is a bold experiment that successfully marries music creation
+  with horror aesthetics. It offers a platform brimming with mystery and
+  creativity, allowing you to have fun with music while exploring the darker
+  side.
+iframeSrc: 'https://turbowarp.org/1140266189/embed'
+thumbnail: /sprunki-phase-8.png
+urlstr: sprunki-phase-8
 sidebarPopular: 2
-score: "4.2/5  (396 votes)"
-releaseDate: 2025-12-04
-tags: ["sprunki phase 8"]
+modType: sprunki
+score: 4.2/5  (396 votes)
+tags:
+  - sprunki phase 8
+  - music
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 Do you dare to dive into the dark side of music? Are you craving a creative experience that gets your heart pounding and sends shivers down your spine? Sprunki Phase 8 is here, and it's more than just rhythm – it's a chilling adventure! This latest chapter takes you into a brand new Sprunki world filled with horror elements and an eerie atmosphere.

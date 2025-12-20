@@ -1,14 +1,18 @@
 ---
 locale: en
+title: Sprunki Minecraft - Play Sprunki Minecraft Online
+description: >-
+  Sprunki Minecraft proves that innovation can still flourish within familiar
+  gameplay loops. If you
+iframeSrc: 'https://turbowarp.org/1140459751/embed'
+thumbnail: /sprunki-minecraft.png
+urlstr: sprunki-minecraft
 modType: sprunki
-title: "Sprunki Minecraft - Play Sprunki Minecraft Online"
-description: "Sprunki Minecraft proves that innovation can still flourish within familiar gameplay loops. If you"
-iframeSrc: "https://turbowarp.org/1140459751/embed"
-thumbnail: "/sprunki-minecraft.png"
-urlstr: "sprunki-minecraft"
-score: "4.0/5  (212 votes)"
-releaseDate: 2025-12-04
-tags: ["sprunki minecraft"]
+score: 4.0/5  (212 votes)
+tags:
+  - sprunki minecraft
+  - music
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 Ever dreamed that every block you place in Minecraft could not only build wonders but also compose music? Welcome to the amazing world of Sprunki Minecraft, where the freedom of building meets the pulse of music in a perfect blend, offering you an unprecedented sandbox gaming experience!

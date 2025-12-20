@@ -1,16 +1,21 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "99 Nights in the Forest"
-description: "An overview of the indie horror game '99 Nights in the Forest.' Learn about its survival horror gameplay, resource management, and strategies for enduring the terrifying nights in a mysterious, isolated forest." 
-iframeSrc: "https://st.8games.net/7/8g/igra-99-nochej-v-lesu-101-original/"
-thumbnail: "/new-images/99-nights-in-the-forest.webp"
-urlstr: "99-nights-in-the-forest"
+title: 99 Nights in the Forest
+description: >-
+  An overview of the indie horror game '99 Nights in the Forest.' Learn about
+  its survival horror gameplay, resource management, and strategies for enduring
+  the terrifying nights in a mysterious, isolated forest.
+iframeSrc: 'https://st.8games.net/7/8g/igra-99-nochej-v-lesu-101-original/'
+thumbnail: /new-images/99-nights-in-the-forest.webp
+urlstr: 99-nights-in-the-forest
 sidebarNew: 2
-score: "4.7/5  (2765 votes)"
-tags: ["horror", "survival"]
-developer: ""
-releaseDate: 2025-08-16
+score: 4.7/5  (2765 votes)
+tags:
+  - horror
+  - survival
+  - action
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

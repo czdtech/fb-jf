@@ -1,14 +1,19 @@
 ---
 locale: en
+title: Sprunki 1996 - Play Sprunki 1996 Online
+description: >-
+  Sprunki 1996 is a music game brimming with creativity and nostalgia. It uses a
+  unique 90s retro computer aesthetic combined with simple, fun music creation
+  gameplay to offer a fresh experience for fans of Sprunki and Incredibox.
+iframeSrc: 'https://html-classic.itch.zone/html/14634762/index.html'
+thumbnail: /sprunki-1996.png
+urlstr: sprunki-1996
 modType: sprunki
-title: "Sprunki 1996 - Play Sprunki 1996 Online"
-description: "Sprunki 1996 is a music game brimming with creativity and nostalgia. It uses a unique 90s retro computer aesthetic combined with simple, fun music creation gameplay to offer a fresh experience for fans of Sprunki and Incredibox."
-iframeSrc: "https://html-classic.itch.zone/html/14634762/index.html"
-thumbnail: "/sprunki-1996.png"
-urlstr: "sprunki-1996"
-score: "4.0/5  (122 votes)"
-releaseDate: 2025-12-04
-tags: ["sprunki 1996"]
+score: 4.0/5  (122 votes)
+tags:
+  - sprunki 1996
+  - music
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 Hey! Remember those cool, slightly glitchy screens from 90s computers? Want to relive that vibe and maybe make some music while you're at it? Then Sprunki 1996 is totally gonna blow your mind! This fan-made Incredibox mod, crafted by the awesome Draker using Scratch, is like a time machine straight back to the golden age of pixel art and retro electronic tunes!

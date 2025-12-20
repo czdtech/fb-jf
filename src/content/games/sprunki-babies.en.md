@@ -1,14 +1,19 @@
 ---
 locale: en
+title: Sprunki Babies - Play Sprunki Babies Online
+description: >-
+  This charming music sandbox puts you in charge of a crew of adorable baby
+  Sprunki characters, each ready to lend their unique musical voice to your
+  compositions.
+iframeSrc: 'https://turbowarp.org/1110888906/embed'
+thumbnail: /sprunki-babies.png
+urlstr: sprunki-babies
 modType: sprunki
-title: "Sprunki Babies - Play Sprunki Babies Online"
-description: "This charming music sandbox puts you in charge of a crew of adorable baby Sprunki characters, each ready to lend their unique musical voice to your compositions."
-iframeSrc: "https://turbowarp.org/1110888906/embed"
-thumbnail: "/sprunki-babies.png"
-urlstr: "sprunki-babies"
-score: "4.0/5  (212 votes)"
-releaseDate: 2025-12-04
-tags: ["sprunki babies"]
+score: 4.0/5  (212 votes)
+tags:
+  - sprunki babies
+  - music
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 Ready for some seriously cute music-making that also sparks endless creativity? Say hello to Sprunki Babies! This charming music sandbox puts you in charge of a crew of adorable baby Sprunki characters, each ready to lend their unique musical voice to your compositions. Best part? No music theory degree required – just pure creativity and a love for fun!

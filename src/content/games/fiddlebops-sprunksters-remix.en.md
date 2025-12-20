@@ -1,14 +1,19 @@
 ---
 locale: en
+title: Fiddlebops Sprunksters remix - Play Fiddlebops Sprunksters remix Online
+description: >-
+  Fiddlebops Sprunksters is an outstanding mod that perfectly blends creativity,
+  rhythm, and visual charm. With its captivating character designs, novel
+  sounds, and that super cool
+iframeSrc: 'https://turbowarp.org/1149194527/embed'
+thumbnail: /fiddlebops-sprunksters-remix.png
+urlstr: fiddlebops-sprunksters-remix
 modType: fiddlebops
-title: "Fiddlebops Sprunksters remix - Play Fiddlebops Sprunksters remix Online"
-description: "Fiddlebops Sprunksters is an outstanding mod that perfectly blends creativity, rhythm, and visual charm. With its captivating character designs, novel sounds, and that super cool"
-iframeSrc: "https://turbowarp.org/1149194527/embed"
-thumbnail: "/fiddlebops-sprunksters-remix.png"
-urlstr: "fiddlebops-sprunksters-remix"
-score: "4.1/5  (127 votes)"
-releaseDate: 2025-12-04
-tags: ["fiddlebops sprunksters remix"]
+score: 4.1/5  (127 votes)
+tags:
+  - fiddlebops sprunksters remix
+  - music
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 Hey music trendsetters! Wanna inject some fresh excitement into your Incredibox sessions? Then you absolutely *have* to check out Fiddlebops Sprunksters! This super creative mod, brought to life by the talented Bismeowth, keeps the addictive Incredibox gameplay we love but throws in a whole bunch of cool new tricks!

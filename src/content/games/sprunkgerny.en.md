@@ -1,13 +1,20 @@
 ---
 locale: en
-title: "Sprunkgerny - Play Sprunkgerny Online"
-description: "If you are looking for a unique musical experience, then Sprunkgerny is definitely not to be missed! It breaks the shackles of traditional rhythm games, encourages you to embrace imperfection and randomness, and allows you to unleash your musical inspiration in exploration and fun."
-iframeSrc: "https://turbowarp.org/1107761681/embed"
-thumbnail: "/Sprunkgerny.png"
-urlstr: "sprunkgerny"
-score: "4.9/5  (724 votes)"
-releaseDate: 2025-12-04
-tags: ["sprunkgerny", "sprunkgerny online"]
+title: Sprunkgerny - Play Sprunkgerny Online
+description: >-
+  If you are looking for a unique musical experience, then Sprunkgerny is
+  definitely not to be missed! It breaks the shackles of traditional rhythm
+  games, encourages you to embrace imperfection and randomness, and allows you
+  to unleash your musical inspiration in exploration and fun.
+iframeSrc: 'https://turbowarp.org/1107761681/embed'
+thumbnail: /Sprunkgerny.png
+urlstr: sprunkgerny
+score: 4.9/5  (724 votes)
+tags:
+  - sprunkgerny
+  - sprunkgerny online
+  - music
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Introducing to Sprunkgerny

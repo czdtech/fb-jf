@@ -1,15 +1,19 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Google Feud"
-description: "Survey‑style guessing game: complete autocomplete prompts with the most popular queries and climb the rounds without striking out." 
-iframeSrc: "https://mac-web.github.io/macvg/projects/google-feud/game.html"
-thumbnail: "/new-images/google-feud.jpg"
-urlstr: "google-feud"
-score: "4.3/5  (511 votes)"
-tags: ["trivia", "quiz"]
-developer: ""
-releaseDate: 2025-08-16
+title: Google Feud
+description: >-
+  Survey‑style guessing game: complete autocomplete prompts with the most
+  popular queries and climb the rounds without striking out.
+iframeSrc: 'https://mac-web.github.io/macvg/projects/google-feud/game.html'
+thumbnail: /new-images/google-feud.jpg
+urlstr: google-feud
+score: 4.3/5  (511 votes)
+tags:
+  - trivia
+  - quiz
+  - thinky
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

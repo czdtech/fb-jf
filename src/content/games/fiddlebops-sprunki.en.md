@@ -1,14 +1,20 @@
 ---
 locale: en
+title: Fiddlebops Sprunki - Play Fiddlebops Sprunki Online
+description: >-
+  The Fiddlebops Sprunki breathes new life into the original Sprunki game by
+  adding a delightful twist.it offers players a chance to enjoy a more whimsical
+  and less stressful gaming experience.
+iframeSrc: 'https://67ce9d735e0d2d9051c65366--kaleidoscopic-sundae-181ab2.netlify.app/'
+thumbnail: /fiddlebops-sprunki-bg-1.png
+urlstr: fiddlebops-sprunki
 modType: fiddlebops
-title: "Fiddlebops Sprunki - Play Fiddlebops Sprunki Online"
-description: "The Fiddlebops Sprunki breathes new life into the original Sprunki game by adding a delightful twist.it offers players a chance to enjoy a more whimsical and less stressful gaming experience."
-iframeSrc: "https://67ce9d735e0d2d9051c65366--kaleidoscopic-sundae-181ab2.netlify.app/"
-thumbnail: "/fiddlebops-sprunki-bg-1.png"
-urlstr: "fiddlebops-sprunki"
-score: "4.3/5 (684 votes)"
-releaseDate: 2025-12-04
-tags: ["fiddlebops sprunki", "sprunki phase 5 online"]
+score: 4.3/5 (684 votes)
+tags:
+  - fiddlebops sprunki
+  - sprunki phase 5 online
+  - music
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Fiddlebops Sprunki Introduction

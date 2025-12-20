@@ -1,14 +1,21 @@
 ---
 locale: en
+title: Sprunki Swapped Horror - Play Sprunki Swapped Horror Online
+description: >-
+  Sprunki Swapped Horror is a creative Incredibox Mod that brings a new
+  dimension to the game through its innovative character swap mechanism. In this
+  Mod, you will see familiar characters appear in unexpected images, and use
+  their new sounds and rhythms to create amazing musical works.
+iframeSrc: 'https://turbowarp.org/1132681434/embed'
+thumbnail: /sprunki-swapped-horror.png
+urlstr: sprunki-swapped-horror
 modType: sprunki
-title: "Sprunki Swapped Horror - Play Sprunki Swapped Horror Online"
-description: "Sprunki Swapped Horror is a creative Incredibox Mod that brings a new dimension to the game through its innovative character swap mechanism. In this Mod, you will see familiar characters appear in unexpected images, and use their new sounds and rhythms to create amazing musical works."
-iframeSrc: "https://turbowarp.org/1132681434/embed"
-thumbnail: "/sprunki-swapped-horror.png"
-urlstr: "sprunki-swapped-horror"
-score: "4.4/5  (395 votes)"
-releaseDate: 2025-12-04
-tags: ["sprunki swapped horror", "sprunki swapped horror online"]
+score: 4.4/5  (395 votes)
+tags:
+  - sprunki swapped horror
+  - sprunki swapped horror online
+  - music
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 Are you tired of the same old Incredibox experience? Are you craving a musical adventure full of surprises? Then try Sprunki Swapped Horror! This innovative Mod will take you into an alternate world where characters swap, allowing you to create unique horror music with new soundscapes and rhythms!

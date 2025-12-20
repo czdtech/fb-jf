@@ -1,14 +1,19 @@
 ---
 locale: en
+title: Sprunki Christmas - Play Sprunki Christmas Online
+description: >-
+  Sprunki Christmas is a Mod that allows you to fully enjoy the fun of the game
+  in the festive atmosphere. Come to the world of Sprunki Christmas and light up
+  your Christmas with vibrant music!
+iframeSrc: 'https://turbowarp.org/1104040581/embed'
+thumbnail: /sprunki-christmas.png
+urlstr: sprunki-christmas
 modType: sprunki
-title: "Sprunki Christmas - Play Sprunki Christmas Online"
-description: "Sprunki Christmas is a Mod that allows you to fully enjoy the fun of the game in the festive atmosphere. Come to the world of Sprunki Christmas and light up your Christmas with vibrant music!"
-iframeSrc: "https://turbowarp.org/1104040581/embed"
-thumbnail: "/sprunki-christmas.png"
-urlstr: "sprunki-christmas"
-score: "4.6/5  (486 votes)"
-releaseDate: 2025-12-04
-tags: ["sprunki christmas"]
+score: 4.6/5  (486 votes)
+tags:
+  - sprunki christmas
+  - music
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 Ready to welcome a musical adventure full of festive atmosphere? Sprunki Christmas will take you into a Sprunki universe full of joy and excitement, where you will embark on a fun adventure, including puzzles, challenges, and Christmas-themed collectibles. This game combines vibrant visuals, charming characters, and engaging gameplay to deliver a delightful experience for players of all ages.

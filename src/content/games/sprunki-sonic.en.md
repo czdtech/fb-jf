@@ -1,14 +1,20 @@
 ---
 locale: en
+title: "Sprunki Sonic \U0001F525 Play Sprunki Sonic Online"
+description: >-
+  Whether you are a rhythm game lover or a loyal fan of the Sonic series, you
+  can find your fun in Sprunki Sonic. This game is easy to learn but difficult
+  to master, making it perfect for players of all skill levels.
+iframeSrc: 'https://turbowarp.org/1114980098/embed'
+thumbnail: /sprunki-sonic.png
+urlstr: sprunki-sonic
 modType: sprunki
-title: "Sprunki Sonic 🔥 Play Sprunki Sonic Online"
-description: "Whether you are a rhythm game lover or a loyal fan of the Sonic series, you can find your fun in Sprunki Sonic. This game is easy to learn but difficult to master, making it perfect for players of all skill levels."
-iframeSrc: "https://turbowarp.org/1114980098/embed"
-thumbnail: "/sprunki-sonic.png"
-urlstr: "sprunki-sonic"
-score: "4.0/5  (829 votes)"
-releaseDate: 2025-12-04
-tags: ["sprunki sonic", "sprunki sonic online"]
+score: 4.0/5  (829 votes)
+tags:
+  - sprunki sonic
+  - sprunki sonic online
+  - music
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Introducing to Sprunki Sonic

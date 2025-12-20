@@ -14,7 +14,7 @@ tags:
   - strategy
   - io-game
 developer: ''
-releaseDate: 2025-08-16T00:00:00.000Z
+releaseDate: 2025-08-16
 ---
 
 

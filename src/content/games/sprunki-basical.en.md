@@ -1,14 +1,21 @@
 ---
 locale: en
+title: Sprunki Basical - Play Sprunki Basical Online
+description: >-
+  Sprunki Basical is a back-to-basics music creation game that allows you to
+  experience the purest musical fun in simple operations. If you like Incredibox
+  and want to try something new, then Sprunki Basical is definitely a good
+  choice!
+iframeSrc: 'https://sprunki-basical.pages.dev/'
+thumbnail: /sprunki-basical.png
+urlstr: sprunki-basical
 modType: sprunki
-title: "Sprunki Basical - Play Sprunki Basical Online"
-description: "Sprunki Basical is a back-to-basics music creation game that allows you to experience the purest musical fun in simple operations. If you like Incredibox and want to try something new, then Sprunki Basical is definitely a good choice!"
-iframeSrc: "https://sprunki-basical.pages.dev/"
-thumbnail: "/sprunki-basical.png"
-urlstr: "sprunki-basical"
-score: "4.4/5  (420 votes)"
-releaseDate: 2025-12-04
-tags: ["sprunki basical", "sprunki basical online"]
+score: 4.4/5  (420 votes)
+tags:
+  - sprunki basical
+  - sprunki basical online
+  - music
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Introducing to Sprunki Basical

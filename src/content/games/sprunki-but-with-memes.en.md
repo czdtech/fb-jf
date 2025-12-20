@@ -1,14 +1,19 @@
 ---
 locale: en
+title: Sprunki But With Memes - Play Sprunki But With Memes Online
+description: >-
+  Sprunki but with memes is a music game that allows you to create as much as
+  you want in the sea of memes. Come and join Sprunki but with memes, and use
+  your unique musical talents to ignite a meme craze!
+iframeSrc: 'https://kdata1.com/5000/2024/sprunki-retake-memes/'
+thumbnail: /sprunki-but-with-memes.png
+urlstr: sprunki-but-with-memes
 modType: sprunki
-title: "Sprunki But With Memes - Play Sprunki But With Memes Online"
-description: "Sprunki but with memes is a music game that allows you to create as much as you want in the sea of memes. Come and join Sprunki but with memes, and use your unique musical talents to ignite a meme craze!"
-iframeSrc: "https://kdata1.com/5000/2024/sprunki-retake-memes/"
-thumbnail: "/sprunki-but-with-memes.png"
-urlstr: "sprunki-but-with-memes"
-score: "4.2/5  (142 votes)"
-releaseDate: 2025-12-04
-tags: ["sprunki but with memes"]
+score: 4.2/5  (142 votes)
+tags:
+  - sprunki but with memes
+  - music
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 Meme lovers and music fans, get ready to welcome an unprecedented audio-visual feast! Sprunki but with memes is not just an ordinary music game, it is a revolution that combines memes and notes with passion, and is sweeping the entire Internet!

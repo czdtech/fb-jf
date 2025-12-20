@@ -1,13 +1,17 @@
 ---
 locale: en
-title: "AYOCS Sprunkr - Play AYOCS Sprunkr Online"
-description: "AYOCS Sprunkr gives the Sprunki universe a stylish makeover with modern character designs and unique sounds for fresh music creation."
-iframeSrc: "https://turbowarp.org/1114188520/embed"
-thumbnail: "/ayocs-sprunkr.png"
-urlstr: "ayocs-sprunkr"
-score: "4.1/5  (54 votes)"
-releaseDate: 2025-12-04
-tags: ["ayocs sprunkr"]
+title: AYOCS Sprunkr - Play AYOCS Sprunkr Online
+description: >-
+  AYOCS Sprunkr gives the Sprunki universe a stylish makeover with modern
+  character designs and unique sounds for fresh music creation.
+iframeSrc: 'https://turbowarp.org/1114188520/embed'
+thumbnail: /ayocs-sprunkr.png
+urlstr: ayocs-sprunkr
+score: 4.1/5  (54 votes)
+tags:
+  - ayocs sprunkr
+  - music
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 Hey Sprunkr fans! Want to give your music creation a seriously stylish edge? You've got to check out AYOCS Sprunkr! This mod gives the Sprunki universe a super slick makeover, breathing fresh life into the familiar music-making experience.

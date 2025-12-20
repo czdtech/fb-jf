@@ -1,14 +1,18 @@
 ---
 locale: en
+title: Sprunki Police And Prisoners - Play Sprunki Police And Prisoners Online
+description: >-
+  Sprunki Police and Prisoners Mod is an engaging and innovative modification to
+  the renowned Incredibox Sprunki reality.
+iframeSrc: 'https://turbowarp.org/1113493234/embed'
+thumbnail: /sprunki-police-and-prisoners.png
+urlstr: sprunki-police-and-prisoners
 modType: sprunki
-title: "Sprunki Police And Prisoners - Play Sprunki Police And Prisoners Online"
-description: "Sprunki Police and Prisoners Mod is an engaging and innovative modification to the renowned Incredibox Sprunki reality."
-iframeSrc: "https://turbowarp.org/1113493234/embed"
-thumbnail: "/sprunki-police-and-prisoners.png"
-urlstr: "sprunki-police-and-prisoners"
-score: "3.9/5  (325 votes)"
-releaseDate: 2025-12-04
-tags: ["sprunki police and prisoners"]
+score: 3.9/5  (325 votes)
+tags:
+  - sprunki police and prisoners
+  - music
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### What is Sprunki Police and Prisoners Mod?

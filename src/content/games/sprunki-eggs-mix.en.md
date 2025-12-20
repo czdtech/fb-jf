@@ -1,14 +1,18 @@
 ---
 locale: en
+title: Sprunki Egg's Mix - Play Sprunki Egg's Mix Online
+description: >-
+  Sprunki Egg's Mix features unpredictable egg combinations with unique
+  attributes that create surprising chain reactions.
+iframeSrc: 'https://turbowarp.org/1102648676/embed'
+thumbnail: /sprunki-eggs-mix.png
+urlstr: sprunki-eggs-mix
 modType: sprunki
-title: "Sprunki Egg's Mix - Play Sprunki Egg's Mix Online"
-description: "Sprunki Egg's Mix features unpredictable egg combinations with unique attributes that create surprising chain reactions."
-iframeSrc: "https://turbowarp.org/1102648676/embed"
-thumbnail: "/sprunki-eggs-mix.png"
-urlstr: "sprunki-eggs-mix"
-score: "3.9/5  (125 votes)"
-releaseDate: 2025-12-04
-tags: ["sprunki egg"]
+score: 3.9/5  (125 votes)
+tags:
+  - sprunki egg
+  - music
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### What's So Special About Sprunki Egg's Mix?

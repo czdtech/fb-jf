@@ -13,7 +13,7 @@ tags:
   - 2-player
   - puzzle
 developer: ''
-releaseDate: 2025-10-18T00:00:00.000Z
+releaseDate: 2025-10-18
 ---
 
 ## English Guide

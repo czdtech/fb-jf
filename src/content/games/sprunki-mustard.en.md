@@ -1,14 +1,19 @@
 ---
 locale: en
+title: Sprunki Mustard - Play Sprunki Mustard Online
+description: >-
+  In this Sprunki Mustard Mod, all the characters have been reshaped to present
+  a unified mustard-yellow color scheme, adding a lingering eerie feeling to the
+  original vibrant picture.
+iframeSrc: 'https://html-classic.itch.zone/html/14281578/index.html'
+thumbnail: /sprunki-mustard.png
+urlstr: sprunki-mustard
 modType: sprunki
-title: "Sprunki Mustard - Play Sprunki Mustard Online"
-description: "In this Sprunki Mustard Mod, all the characters have been reshaped to present a unified mustard-yellow color scheme, adding a lingering eerie feeling to the original vibrant picture."
-iframeSrc: "https://html-classic.itch.zone/html/14281578/index.html"
-thumbnail: "/sprunki-mustard.png"
-urlstr: "sprunki-mustard"
-score: "3.9/5  (827 votes)"
-releaseDate: 2025-12-04
-tags: ["sprunki mustard"]
+score: 3.9/5  (827 votes)
+tags:
+  - sprunki mustard
+  - music
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### What is Sprunki Mustard?

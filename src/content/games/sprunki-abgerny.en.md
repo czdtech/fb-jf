@@ -1,14 +1,18 @@
 ---
 locale: en
+title: Sprunki Abgerny - Play Sprunki Abgerny Online
+description: >-
+  Sprunki Abgerny is a tribute to ancient cultures and an exploration of the
+  endless possibilities of music creation.
+iframeSrc: 'https://turbowarp.org/1095335052/embed'
+thumbnail: /sprunki-abgerny.png
+urlstr: sprunki-abgerny
 modType: sprunki
-title: "Sprunki Abgerny - Play Sprunki Abgerny Online"
-description: "Sprunki Abgerny is a tribute to ancient cultures and an exploration of the endless possibilities of music creation."
-iframeSrc: "https://turbowarp.org/1095335052/embed"
-thumbnail: "/sprunki-abgerny.png"
-urlstr: "sprunki-abgerny"
-score: "3.9/5  (132 votes)"
-releaseDate: 2025-12-04
-tags: ["sprunki abgerny"]
+score: 3.9/5  (132 votes)
+tags:
+  - sprunki abgerny
+  - music
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### What's So Special About Sprunki Abgerny?

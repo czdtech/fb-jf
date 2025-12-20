@@ -1,15 +1,22 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "We Become What We Behold"
-description: "Explore the impact of media and sensationalism in We Become What We Behold, a thought-provoking satirical game. Capture news events with your camera, observe how your choices shape society, and witness the consequences of focusing on negativity in this unique interactive experience."
-iframeSrc: "https://html5.iclouds.io/we-become-behold/index.html"
-thumbnail: "/new-images/we-become-what-we-behold.jpg"
-urlstr: "we-become-what-we-behold"
-score: "4.0/5  (987 votes)"
-tags: ["satire", "social-commentary", "interactive-story"]
-developer: ""
-releaseDate: 2025-08-16
+title: We Become What We Behold
+description: >-
+  Explore the impact of media and sensationalism in We Become What We Behold, a
+  thought-provoking satirical game. Capture news events with your camera,
+  observe how your choices shape society, and witness the consequences of
+  focusing on negativity in this unique interactive experience.
+iframeSrc: 'https://html5.iclouds.io/we-become-behold/index.html'
+thumbnail: /new-images/we-become-what-we-behold.jpg
+urlstr: we-become-what-we-behold
+score: 4.0/5  (987 votes)
+tags:
+  - satire
+  - social-commentary
+  - interactive-story
+  - thinky
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 ### Game Introduction
