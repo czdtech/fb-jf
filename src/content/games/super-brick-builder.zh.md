@@ -4,7 +4,7 @@ urlstr: super-brick-builder
 title: 《Super Brick Builder》超级砖块建造者
 description: 《Super Brick Builder》是一款休闲建造向的方块堆叠游戏。通过拖放和旋转各类砖块，搭建稳定的结构或完成指定造型目标。
 iframeSrc: 'https://superbrickbuilder.h5games.usercontent.goog/v/3h8s9d2k1lp80/'
-thumbnail: /new-images/super-brick-builder.png
+thumbnail: /new-images/thumbnails/super-brick-builder.png
 tags:
   - puzzle
   - building

@@ -2,7 +2,7 @@
 title: UNO
 description: UNOは、クラシックなカードゲームです。カードを出して先に手札をなくしましょう。
 iframeSrc: 'https://ubg98.github.io/UNO/'
-thumbnail: /new-images/uno.jpg
+thumbnail: /new-images/thumbnails/uno.jpg
 urlstr: uno
 score: 4.5/5  (4123 votes)
 tags:

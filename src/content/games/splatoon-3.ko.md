@@ -7,7 +7,7 @@ description: >-
   잉크를 쏘고, 오징어 형태로 잉크 속을 헤엄치며 맵을 칠해 더 넓은 구역을
   점령하는 팀이 승리합니다.
 iframeSrc: 'https://bitlifeonline.github.io/splatoon-3/'
-thumbnail: /new-images/splatoon-3.jpg
+thumbnail: /new-images/thumbnails/splatoon-3.jpg
 tags:
   - action
   - shooting

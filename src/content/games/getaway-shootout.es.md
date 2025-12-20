@@ -7,7 +7,7 @@ description: >-
   huida, recoge armas disparatadas y supera a tus rivales en solitario o en
   modo 2 jugadores.
 iframeSrc: 'https://ubg44.github.io/GetawayShootout/'
-thumbnail: /new-images/getaway-shootout.jpg
+thumbnail: /new-images/thumbnails/getaway-shootout.jpg
 tags:
   - action
   - multiplayer

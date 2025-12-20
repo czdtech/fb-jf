@@ -7,7 +7,7 @@ description: >-
   identifica impostores y encuentra pistas ocultas en decenas de situaciones
   ingeniosas que exigen pensar fuera de lo común.
 iframeSrc: "https://rebemanae.github.io/who-is/"
-thumbnail: "/new-images/who-is.jpg"
+thumbnail: /new-images/thumbnails/who-is.jpg
 tags:
   - puzzle
   - riddle

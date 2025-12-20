@@ -7,7 +7,7 @@ description: >-
   um, dass der rote Wagen endlich aus dem verstopften Parkplatz herausfahren
   kann.
 iframeSrc: 'https://unparkme.h5games.usercontent.goog/v/59baoe1o8mbe0/'
-thumbnail: /new-images/unpark-me.png
+thumbnail: /new-images/thumbnails/unpark-me.png
 tags:
   - puzzle
   - thinky

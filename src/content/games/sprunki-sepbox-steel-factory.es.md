@@ -7,7 +7,7 @@ description: >-
   energía visual de Sprunki con la fuerza mecánica del acero y la maquinaria
   pesada para dar un giro industrial a la creación musical.
 iframeSrc: 'https://turbowarp.org/1099071172/embed'
-thumbnail: /sprunki-sepbox-steel-factory.png
+thumbnail: /new-images/thumbnails/sprunki-sepbox-steel-factory.png
 tags:
   - sprunki x sepbox steel factory
 score: 4.9/5  (509 votes)

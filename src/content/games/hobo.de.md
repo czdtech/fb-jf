@@ -7,7 +7,7 @@ description: >-
   freischaltbaren Kombos, improvisierten Waffen und völlig abgefahrenen
   Spezialattacken.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/hobo.html'
-thumbnail: /new-images/hobo.jpg
+thumbnail: /new-images/thumbnails/hobo.jpg
 tags:
   - fighting
   - beat-em-up

@@ -7,7 +7,7 @@ description: >-
   Fünf‑Buchstaben‑Wörter, nutze Farbhilfen clever und grenze mit Musterlogik
   Schritt für Schritt die Lösung ein.
 iframeSrc: 'https://30mv2rsaljhjo.h5games.usercontent.goog/v/0hb0g2c5b4m9o/'
-thumbnail: /new-images/wordler.png
+thumbnail: /new-images/thumbnails/wordler.png
 tags:
   - puzzle
   - thinky

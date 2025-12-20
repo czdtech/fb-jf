@@ -2,7 +2,7 @@
 title: Shootz
 description: Shootzはターゲットを素早く撃つシューティングです。反射神経と正確さでスコアを伸ばします。
 iframeSrc: 'https://shootz.h5games.usercontent.goog/v/2j9k5m8h7p3n8/'
-thumbnail: /new-images/shootz.png
+thumbnail: /new-images/thumbnails/shootz.jpg
 urlstr: shootz
 score: 4.0/5  (1723 votes)
 tags:

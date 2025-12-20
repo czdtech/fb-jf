@@ -3,7 +3,7 @@ locale: en
 title: "Panda Pizza Parlor"
 description: "Step into the Panda Pizza Parlor and serve up delicious pizzas to hungry customers! Manage your time, get the orders right, and build a pizza empire."
 iframeSrc: "https://pandapizzaparlor.h5games.usercontent.goog/v/16ldgoh3to3f8/"
-thumbnail: "/new-images/panda-pizza-parlor.png"
+thumbnail: /new-images/thumbnails/panda-pizza-parlor.png
 urlstr: "panda-pizza-parlor"
 score: "4.7/5  (2150 votes)"
 tags: ["casual", "action", "clicker"]

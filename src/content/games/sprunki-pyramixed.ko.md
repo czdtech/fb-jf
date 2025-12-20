@@ -7,7 +7,7 @@ description: >-
   다양한 캐릭터와 사운드를 조합해 자신만의 곡과 아바타를 만들 수 있는 Sprunki 세계의
   초기 버전입니다.
 iframeSrc: 'https://turbowarp.org/1144118565/embed'
-thumbnail: /sprunki-pyramixed-0.9.png
+thumbnail: /new-images/thumbnails/sprunki-pyramixed.png
 tags:
   - sprunki pyramixed 0.9
   - sprunki pyramixed 0.9 online

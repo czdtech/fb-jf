@@ -4,7 +4,7 @@ urlstr: daily-sudoku-3
 title: Daily Sudoku 3
 description: "Daily Sudoku 3 ajoute encore plus de grilles quotidiennes\_: varie les niveaux de difficulté et perfectionne tes techniques de résolution."
 iframeSrc: 'https://dailysudoku3.h5games.usercontent.goog/v/4cu2ufpkcmfk0/'
-thumbnail: /new-images/daily-sudoku-3.jpg
+thumbnail: /new-images/thumbnails/daily-sudoku-3.jpg
 tags:
   - puzzle
   - thinky

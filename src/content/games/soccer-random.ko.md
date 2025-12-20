@@ -7,7 +7,7 @@ description: >-
   랜덤으로 바뀌는 혼돈의 풋볼 파티입니다. 먼저 5골을 넣는 쪽이 승리합니다.
 iframeSrc: >-
   https://app-197306.games.s3.yandex.net/197306/b1dbvmcde0oog4ebj00rinxr3e367fl4/index.html
-thumbnail: /new-images/soccer-random.jpg
+thumbnail: /new-images/thumbnails/soccer-random.jpg
 tags:
   - 2-player
   - physics

@@ -6,7 +6,7 @@ description: >-
   Descent es un arcade de habilidad vertical: desciende por un pozo, esquiva
   trampas y calcula cada salto para llegar lo más lejos posible.
 iframeSrc: 'https://g2.igroutka.ru/games/17/4tWRaCD7AOzxbTsE/descent/'
-thumbnail: /new-images/descent.jpg
+thumbnail: /new-images/thumbnails/descent.jpg
 tags:
   - arcade
   - skill

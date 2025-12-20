@@ -7,7 +7,7 @@ description: >-
   가속을 조절하고 카운터 스티어로 미끄러짐을 컨트롤해 깨끗한 라인을
   만들어 보세요.
 iframeSrc: 'https://retrodrift.h5games.usercontent.goog/v/3jr7fjtqu0j18/'
-thumbnail: /new-images/retro-drift.jpg
+thumbnail: /new-images/thumbnails/retro-drift.jpg
 tags:
   - car
   - driving

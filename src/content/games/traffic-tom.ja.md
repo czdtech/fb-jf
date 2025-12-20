@@ -2,7 +2,7 @@
 title: Traffic Tom
 description: Traffic Tomは、道路横断ゲームです。車を避けて安全に道路を渡りましょう。
 iframeSrc: 'https://ubg98.github.io/TrafficTom/'
-thumbnail: /new-images/traffic-tom.jpg
+thumbnail: /new-images/thumbnails/traffic-tom.jpg
 urlstr: traffic-tom
 score: 4.2/5  (1987 votes)
 tags:

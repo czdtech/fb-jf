@@ -7,7 +7,7 @@ description: >-
   activa trampas y resuelve puzles provocando espectaculares reacciones en
   cadena.
 iframeSrc: "https://04qb5fhi49qmg.h5games.usercontent.goog/v/64br0v92f7928/"
-thumbnail: "/new-images/zombie-ragdoll.jpg"
+thumbnail: /new-images/thumbnails/zombie-ragdoll.jpg
 tags:
   - shooting
   - puzzle

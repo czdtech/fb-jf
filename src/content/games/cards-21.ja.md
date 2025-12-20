@@ -2,7 +2,7 @@
 title: Cards-21 カード21
 description: 「Cards-21」はシンプルなブラックジャック。ヒットかスタンドか、リスクを管理してバーストせずに21を目指そう。手軽に楽しめるカードゲーム。
 iframeSrc: 'https://11kvu79prlefg.h5games.usercontent.goog/v/67r78cf7q96c0/'
-thumbnail: /new-images/cards-21.png
+thumbnail: /new-images/thumbnails/cards-21.png
 urlstr: cards-21
 score: 3.8/5  (1547 votes)
 tags:

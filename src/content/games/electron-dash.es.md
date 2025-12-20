@@ -6,7 +6,7 @@ description: >-
   Electron Dash es un corredor de túnel ultrarrápido: salta, haz un impulso rápido y cae
   sobre plataformas giratorias para sobrevivir el máximo tiempo posible.
 iframeSrc: 'https://slope-game.github.io/electron-dash/'
-thumbnail: /new-images/electron-dash.jpg
+thumbnail: /new-images/thumbnails/electron-dash.jpg
 tags:
   - arcade
   - runner

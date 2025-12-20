@@ -6,7 +6,7 @@ description: >-
   클래식 버블 슈터가 더욱 많은 스테이지와 깔끔한 그래픽으로 돌아온 후속작입니다. 색색의 버블을 조준해 3개 이상 맞추고, 새 줄이 내려오기
   전에 보드를 정리해 보세요.
 iframeSrc: 'https://smartybubbles2.h5games.usercontent.goog/v/1u280qojm9oq0/'
-thumbnail: /new-images/smarty-bubbles-2.png
+thumbnail: /new-images/thumbnails/smarty-bubbles-2.png
 tags:
   - shooting
   - puzzle

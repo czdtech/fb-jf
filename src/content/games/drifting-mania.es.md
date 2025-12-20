@@ -6,7 +6,7 @@ description: >-
   Drifting Mania pone a prueba tu control del derrape en vista cenital: dosifica
   acelerador, enlaza deslizamientos y domina el ritmo de cada curva.
 iframeSrc: 'https://6r2lv8eg0tif8.h5games.usercontent.goog/v/56d4ef8srjpfg/'
-thumbnail: /new-images/drifting-mania.png
+thumbnail: /new-images/thumbnails/drifting-mania.png
 tags:
   - car
   - driving

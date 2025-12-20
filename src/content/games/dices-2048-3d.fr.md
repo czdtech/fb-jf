@@ -6,7 +6,7 @@ description: >-
   Dices 2048 3D mélange 2048 et la physique des dés : fusionne des dés de même
   valeur pour viser 2048 en trois dimensions.
 iframeSrc: 'https://dices20483d.h5games.usercontent.goog/v/4fsrag1lb33t8/'
-thumbnail: /new-images/dices-2048-3d.png
+thumbnail: /new-images/thumbnails/dices-2048-3d.png
 tags:
   - puzzle
   - thinky

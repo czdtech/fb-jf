@@ -6,7 +6,7 @@ description: >-
   Neon Dash는 가시와 발판, 리듬에 맞춰 움직이는 함정들을 피해 정확한 타이밍으로 점프해
   돌파해야 하는 하이 스피드 런 게임입니다.
 iframeSrc: 'https://1bveca4tkimog.h5games.usercontent.goog/v/4bq2naj6mtutg/'
-thumbnail: /new-images/neon-dash.png
+thumbnail: /new-images/thumbnails/neon-dash.png
 tags:
   - action
   - thinky

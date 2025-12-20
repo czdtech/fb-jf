@@ -8,7 +8,7 @@ description: >-
   términos, haz que desaparezcan y deja caer nuevas letras mientras luchas
   contra el reloj para despejar filas y lograr una gran puntuación.
 iframeSrc: "https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-word-wipe/"
-thumbnail: "/new-images/word-wipe.jpg"
+thumbnail: /new-images/thumbnails/word-wipe.jpg
 tags:
   - word-game
   - puzzle

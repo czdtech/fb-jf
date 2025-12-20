@@ -7,7 +7,7 @@ description: >-
   색상 매치로 공격·방어·스킬 게이지를 채우고, 적의 보호막을
   깨며 전투를 유리하게 이끄는 방법을 다룹니다.
 iframeSrc: 'https://5f4e2d55f2dt8.h5games.usercontent.goog/v/36105ruk0rln0/'
-thumbnail: /new-images/jewel-duel.jpg
+thumbnail: /new-images/thumbnails/jewel-duel.jpg
 tags:
   - puzzle
   - thinky

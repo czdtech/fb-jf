@@ -6,7 +6,7 @@ description: >-
   Go Escape 是一款講究精準操作的房間脫出平台遊戲——你要掌握跳躍時機、讀懂陷阱節奏，
   在小巧卻充滿機關的房間中找出最安全的逃脫路線。
 iframeSrc: 'https://1muicq0oght78.h5games.usercontent.goog/v/1aim9ophd8cdg/'
-thumbnail: /new-images/go-escape.png
+thumbnail: /new-images/thumbnails/go-escape.png
 tags:
   - puzzle
   - escape

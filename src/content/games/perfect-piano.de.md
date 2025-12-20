@@ -7,7 +7,7 @@ description: >-
   Noten genau dann an, wenn sie die Klaviatur erreichen, und spiele so
   wunderschöne Melodien – ohne auch nur eine Kachel zu verfehlen.
 iframeSrc: 'https://perfectpiano.h5games.usercontent.goog/v/48c3ch9soa7cg/'
-thumbnail: /new-images/perfect-piano.png
+thumbnail: /new-images/thumbnails/perfect-piano.png
 tags:
   - action
   - casual

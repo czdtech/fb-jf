@@ -4,7 +4,7 @@ urlstr: incredibox-sprinkle
 title: "Incredibox Sprinkle"
 description: "Sprinkle est un jeu de création musicale simple et fun : fais glisser des personnages, combine leurs sons et compose des morceaux uniques en quelques clics."
 iframeSrc: "https://g.sprinkleincredibox.com/web-game/SprinkleIncredibox/index.html"
-thumbnail: /incredibox-sprinkle.png
+thumbnail: /new-images/thumbnails/incredibox-sprinkle.png
 tags:
   - incredibox sprinkle
 score: 3.8/5  (387 votes)

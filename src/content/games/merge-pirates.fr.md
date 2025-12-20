@@ -7,7 +7,7 @@ description: >-
   pirate pour bâtir une flotte redoutable. Remplis les commandes, gagne de l'or
   et deviens la légende des sept mers dans ce puzzle de fusion addictif.
 iframeSrc: 'https://mergepirates.h5games.usercontent.goog/v/2rugbh8p4845g/'
-thumbnail: /new-images/merge-pirates.png
+thumbnail: /new-images/thumbnails/merge-pirates.png
 tags:
   - puzzle
   - casual

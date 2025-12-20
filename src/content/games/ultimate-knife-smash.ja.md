@@ -2,7 +2,7 @@
 title: Ultimate Knife Smash
 description: Ultimate Knife Smashは、ナイフ投げゲームです。タイミングよくナイフを投げて的に刺しましょう。
 iframeSrc: 'https://ubg98.github.io/UltimateKnifeSmash/'
-thumbnail: /new-images/ultimate-knife-smash.jpg
+thumbnail: /new-images/thumbnails/ultimate-knife-smash.png
 urlstr: ultimate-knife-smash
 score: 4.3/5  (2456 votes)
 tags:

@@ -4,7 +4,7 @@ urlstr: incredibox-sprinkle
 title: "Incredibox Sprinkle - 在线玩 Incredibox Sprinkle"
 description: "Sprinkle 是一款操作简单、充满乐趣的音乐创作游戏。无论你是休闲玩家还是对音乐制作感兴趣的粉丝，都能在 Sprinkle 的世界中找到属于自己的乐趣。"
 iframeSrc: 'https://g.sprinkleincredibox.com/web-game/SprinkleIncredibox/index.html'
-thumbnail: /incredibox-sprinkle.png
+thumbnail: /new-images/thumbnails/incredibox-sprinkle.png
 tags:
   - incredibox sprinkle
 score: 3.8/5 (387 票)

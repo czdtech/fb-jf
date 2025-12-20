@@ -7,7 +7,7 @@ description: >-
   objetos gatunos de colores para hacer combinaciones y superar niveles
   desafiantes.
 iframeSrc: 'https://kittymatch.h5games.usercontent.goog/v/0fb0j00v75210/'
-thumbnail: /new-images/kitty-match.png
+thumbnail: /new-images/thumbnails/kitty-match.png
 tags:
   - puzzle
   - casual

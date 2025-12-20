@@ -4,7 +4,7 @@ urlstr: head-soccer
 title: "Head Soccer"
 description: "Head Soccer est un jeu de foot arcade 1v1 avec des têtes géantes : saute, tire et déclenche des tirs spéciaux pour marquer plus de buts que ton adversaire en quelques secondes de match."
 iframeSrc: 'https://1games.io/game/head-soccer-2024/'
-thumbnail: /new-images/head-soccer.jpg
+thumbnail: /new-images/thumbnails/head-soccer.jpg
 tags:
   - sports
   - soccer

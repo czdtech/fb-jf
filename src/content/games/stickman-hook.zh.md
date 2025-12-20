@@ -4,7 +4,7 @@ urlstr: stickman-hook
 title: 《Stickman Hook》火柴人荡绳
 description: 《Stickman Hook》是一款基于物理的火柴人荡绳闯关游戏。抓住钩点、甩动身体、把握松手时机，通过一连串荡秋千般的动作抵达终点。
 iframeSrc: 'https://stickmanhook.h5games.usercontent.goog/v/2ndv6g92q9oco/'
-thumbnail: /new-images/stickman-hook.jpg
+thumbnail: /new-images/thumbnails/stickman-hook.jpg
 tags:
   - physics
   - platformer

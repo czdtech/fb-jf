@@ -2,7 +2,7 @@
 title: "Guess Their Answer"
 description: "Guess Their Answerはクイックなアンケート対決です。群衆のように考え、トップアンサーをリストアップし、幅広いカバー率で対戦相手を出し抜きましょう。"
 iframeSrc: "https://0s1do8fmhrn9g.h5games.usercontent.goog/v/08gmb663j6g78/"
-thumbnail: "/new-images/guess-their-answer.png"
+thumbnail: /new-images/thumbnails/guess-their-answer.png
 urlstr: "guess-their-answer"
 score: "4.0/5  (1878 votes)"
 tags: ["puzzle", "thinky", "2 player"]

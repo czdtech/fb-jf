@@ -4,7 +4,7 @@ urlstr: stars-aligned
 title: "Stars Aligned"
 description: "Stars Aligned ist ein beruhigendes Sternbild-Puzzle: Drehe Fragmente, verbinde Linien und lass nach und nach vollständige Sternmuster entstehen." 
 iframeSrc: 'https://starsaligned.h5games.usercontent.goog/v/3i88p78sohtig/'
-thumbnail: /new-images/stars-aligned.jpg
+thumbnail: /new-images/thumbnails/stars-aligned.jpg
 tags:
   - puzzle
   - thinky

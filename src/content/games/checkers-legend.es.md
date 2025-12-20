@@ -7,7 +7,7 @@ description: >-
   movimientos, captura las fichas rivales y corona a tus damas para dominar el
   tablero.
 iframeSrc: 'https://checkerslegend.h5games.usercontent.goog/v/43mkj41ari948/'
-thumbnail: /new-images/checkers-legend.png
+thumbnail: /new-images/thumbnails/checkers-legend.png
 tags:
   - puzzle
   - thinky

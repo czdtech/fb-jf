@@ -4,7 +4,7 @@ locale: en
 title: "Wheely"
 description: "Join Wheely, the adorable red car, on a charming point-and-click puzzle adventure! Solve clever environmental puzzles, interact with various mechanisms, and guide Wheely through challenging levels to reach his destination. A delightful brain-teaser for all ages."
 iframeSrc: "https://www.friv.com/z/games/wheely/index-x.html"
-thumbnail: "/new-images/wheely.jpg"
+thumbnail: /new-images/thumbnails/wheely.jpg
 urlstr: "wheely"
 score: "4.8/5  (695 votes)"
 tags: ["puzzle", "adventure", "point-and-click"]

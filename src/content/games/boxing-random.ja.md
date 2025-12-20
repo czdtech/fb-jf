@@ -2,7 +2,7 @@
 title: "Boxing Random ボクシング・ランダム"
 description: "「Boxing Random」は物理演算が予測不能なボクシングゲーム！ワンボタン操作でジャンプ＆パンチ。毎回変わるルールや環境に適応して、先に5勝した方が勝者だ。"
 iframeSrc: "https://boxingrandom.h5games.usercontent.goog/v/9b83b167-93e1-482a-874f-c4e9702209d8/"
-thumbnail: "/new-images/boxing-random.jpg"
+thumbnail: /new-images/thumbnails/boxing-random.jpg
 urlstr: "boxing-random"
 score: "4.5/5  (1820 votes)"
 tags: ["sports", "action", "2-players"]

@@ -6,7 +6,7 @@ description: >-
   《Pocket Champs: 3D
   Racing》是一款放置+策略类多人竞速游戏，你不直接操控比赛，而是负责训练小冠军、选择合适装备，让它在自动奔跑中赢下终点线。
 iframeSrc: 'https://pocketchampions.h5games.usercontent.goog/v/24houhjfrhfi8/'
-thumbnail: /new-images/pocket-champions.png
+thumbnail: /new-images/thumbnails/pocket-champions.png
 tags:
   - strategy
   - casual

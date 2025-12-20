@@ -2,7 +2,7 @@
 title: "Incredibox Geek Dance Simulator"
 description: "グリッドベースのインターフェースでナードカルチャーを祝うファン作成モッド『Incredibox Geek Dance Simulator』を探索しましょう。このガイドでは、8ビットチップチューンサウンドパレットと、レトロビデオゲームループを作成するためのゲームプレイを詳しく説明します。"
 iframeSrc: "https://turbowarp.org/904948672/embed"
-thumbnail: "/new-images/incredibox-geek-dance-simulator.png"
+thumbnail: /new-images/thumbnails/incredibox-geek-dance-simulator.png
 urlstr: "incredibox-geek-dance-simulator"
 score: "4.4/5 (756 votes)"
 tags: ["music", "rhythm", "simulator"]

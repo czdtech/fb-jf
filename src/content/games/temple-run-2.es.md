@@ -4,7 +4,7 @@ urlstr: temple-run-2
 title: "Temple Run 2 - Carrera infinita en el templo"
 description: "Temple Run 2 es un juego de carrera infinita de aventuras en el que corres por peligrosos caminos de templo, recoges monedas y potenciadores y esquivas obstáculos mientras huyes de los demonios que te persiguen a través de entornos espectaculares."
 iframeSrc: "https://sxiao.4399.com/4399swf//upload_swf/ftp35/gamehwq/20210119/11/index.html"
-thumbnail: "/new-images/temple-run-2.jpg"
+thumbnail: /new-images/thumbnails/temple-run-2.jpg
 tags:
   - endless runner
   - adventure

@@ -7,7 +7,7 @@ description: >-
   在方阵中横向、纵向或斜向寻找隐藏单词，完成不同主题的单词列表，
   一边放松大脑，一边锻炼观察力和英语拼写。
 iframeSrc: 'https://cdn.gamesnacks.com/wordsearch1/gameCode/index.html'
-thumbnail: /new-images/word-search.jpg
+thumbnail: /new-images/thumbnails/word-search.jpg
 tags:
   - word
   - puzzle

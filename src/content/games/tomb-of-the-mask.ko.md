@@ -6,7 +6,7 @@ description: >-
   미로와 러너 게임이 결합된 아케이드 게임 Tomb of the Mask입니다. 벽에서 벽으로 미끄러지듯
   이동하며 코인과 파워업을 모으고, 아래에서 차오르는 액체를 피해 빠르게 길을 찾아 올라가야 합니다.
 iframeSrc: 'https://w8.snokido.com/games/unity-webgl/tomb-run/index.html'
-thumbnail: /new-images/tomb-of-the-mask.jpg
+thumbnail: /new-images/thumbnails/tomb-of-the-mask.jpg
 tags:
   - arcade
   - maze

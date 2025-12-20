@@ -7,7 +7,7 @@ description: >-
   nuit, surveilles des caméras de sécurité et gères des ressources limitées pour
   survivre à des menaces mystérieuses dans un bâtiment abandonné.
 iframeSrc: 'https://g2.igroutka.ru/lib/crazy/games/night-watchman/'
-thumbnail: /new-images/night-watchman.jpg
+thumbnail: /new-images/thumbnails/night-watchman.jpg
 tags:
   - horror
   - survival

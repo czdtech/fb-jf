@@ -6,7 +6,7 @@ description: >-
   《Chess Grandmaster 国际象棋大师版》提供完整的浏览器国际象棋体验，你可以与 AI 或
   本地对手对局，系统化练习开局、中局战术和残局基础，一步步向真正的“棋坛大师”迈进。
 iframeSrc: 'https://6kf8oom91mt10.h5games.usercontent.goog/v/01dag2rajhv1g/'
-thumbnail: /new-images/chess-grandmaster.jpg
+thumbnail: /new-images/thumbnails/chess-grandmaster.jpg
 tags:
   - thinky
   - puzzle

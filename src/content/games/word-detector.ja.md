@@ -2,7 +2,7 @@
 title: Word Detector
 description: Word Detectorは、単語検出パズルゲームです。隠された単語を見つけましょう。
 iframeSrc: 'https://ubg98.github.io/WordDetector/'
-thumbnail: /new-images/word-detector.jpg
+thumbnail: /new-images/thumbnails/word-detector.png
 urlstr: word-detector
 score: 4.2/5  (1987 votes)
 tags:

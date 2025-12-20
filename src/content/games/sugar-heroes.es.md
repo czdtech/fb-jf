@@ -6,7 +6,7 @@ description: >-
   Sugar Heroes es un match-3 colorido: libera bloqueadores, combina
   potenciadores y cumple objetivos de nivel planificando bien tus movimientos.
 iframeSrc: 'https://2f4eprapfvtoo.h5games.usercontent.goog/v/4bc5h26thvau8/'
-thumbnail: /new-images/sugar-heroes.png
+thumbnail: /new-images/thumbnails/sugar-heroes.png
 tags:
   - puzzle
   - casual

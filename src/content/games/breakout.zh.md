@@ -4,7 +4,7 @@ urlstr: breakout
 title: Breakout 经典打砖块
 description: 《Breakout 经典打砖块》复刻街机时代名作，通过移动挡板反弹小球打碎屏幕上的砖块，配合各种强化道具闯过一 关又一关。
 iframeSrc: 'https://ad-freegames.github.io/flash/game/breakout.html'
-thumbnail: /new-images/breakout.jpg
+thumbnail: /new-images/thumbnails/breakout.jpg
 tags:
   - action
   - casual

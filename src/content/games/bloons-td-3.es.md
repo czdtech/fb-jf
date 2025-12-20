@@ -8,7 +8,7 @@ description: >-
   enfrentarte al primer MOAB de la saga en este clásico juego de defensa de
   torres.
 iframeSrc: 'https://1000freegames.github.io/swf/bloons-td-3.html'
-thumbnail: /new-images/bloons-td-3.jpg
+thumbnail: /new-images/thumbnails/bloons-td-3.jpg
 tags:
   - casual
   - strategy

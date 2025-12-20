@@ -4,7 +4,7 @@ description: >-
   「Cooking Mama: Mama Kills
   Animals」はPETAによる衝撃的なパロディゲーム。公式シリーズとは異なる、動物愛護団体の風刺的なメッセージとゲーム内容を解説。
 iframeSrc: 'https://ad-freegames.github.io/flash/game/cooking-mama.html'
-thumbnail: /new-images/cooking-mama.jpg
+thumbnail: /new-images/thumbnails/cooking-mama.jpg
 urlstr: cooking-mama
 score: 4.4/5  (1078 votes)
 tags:

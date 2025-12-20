@@ -2,7 +2,7 @@
 title: Thief Puzzle
 description: Thief Puzzleは、泥棒をテーマにしたパズルゲームです。伸びる腕を使ってアイテムを盗みましょう。
 iframeSrc: 'https://ubg98.github.io/ThiefPuzzle/'
-thumbnail: /new-images/thief-puzzle.jpg
+thumbnail: /new-images/thumbnails/thief-puzzle.png
 urlstr: thief-puzzle
 score: 4.4/5  (2876 votes)
 tags:

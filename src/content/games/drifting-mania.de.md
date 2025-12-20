@@ -7,7 +7,7 @@ description: >-
   das Gas, verknüpfe saubere Slides und finde den perfekten Rhythmus durch die
   Kurven.
 iframeSrc: 'https://6r2lv8eg0tif8.h5games.usercontent.goog/v/56d4ef8srjpfg/'
-thumbnail: /new-images/drifting-mania.png
+thumbnail: /new-images/thumbnails/drifting-mania.png
 tags:
   - car
   - driving

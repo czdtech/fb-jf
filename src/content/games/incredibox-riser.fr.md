@@ -7,7 +7,7 @@ description: >-
   montants et FX futuristes pour composer des montées épiques façon
   science‑fiction.
 iframeSrc: 'https://turbowarp.org/966510261/embed'
-thumbnail: /new-images/incredibox-riser.png
+thumbnail: /new-images/thumbnails/incredibox-riser.png
 tags:
   - music
   - electronic

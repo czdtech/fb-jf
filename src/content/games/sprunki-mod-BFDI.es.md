@@ -7,7 +7,7 @@ description: >-
   la jugabilidad clásica de Incredibox Sprunki y la mezcla con el estilo
   desenfadado y lleno de objetos de Battle for Dream Island (BFDI).
 iframeSrc: 'https://turbowarp.org/1087434086/embed'
-thumbnail: /sprunki-mod-bfdi.png
+thumbnail: /new-images/thumbnails/sprunki-mod-BFDI.png
 tags:
   - sprunki mod bfdi
 score: 4.2/5  (347 votes)

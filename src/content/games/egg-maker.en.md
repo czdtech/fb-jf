@@ -3,7 +3,7 @@ locale: en
 title: "Egg Maker"
 description: "Egg Maker is a quick kitchen puzzler — sequence prep steps, time pans, and serve perfect eggs under rush pressure."
 iframeSrc: "https://2jbqv0uarsk18.h5games.usercontent.goog/v/2cnuunat3mtpg/"
-thumbnail: "/new-images/egg-maker.png"
+thumbnail: /new-images/thumbnails/egg-maker.png
 urlstr: "egg-maker"
 score: "3.9/5  (1641 votes)"
 tags: ["casual", "thinky"]

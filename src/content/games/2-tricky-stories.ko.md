@@ -7,7 +7,7 @@ description: >-
   Brain Test 2: Tricky Stories입니다. 다양한 캐릭터의 에피소드를 따라가며
   창의력을 시험해 보세요.
 iframeSrc: 'https://bitlifeonline.github.io/brain-test-2-tricky-stories/'
-thumbnail: /new-images/2-tricky-stories.jpg
+thumbnail: /new-images/thumbnails/2-tricky-stories.jpg
 tags:
   - casual
   - rhythm

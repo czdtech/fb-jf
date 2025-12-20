@@ -6,7 +6,7 @@ description: >-
   Egg Maker는 계란 요리를 빠르게 만들어 손님에게 내보내는 주방 타임 매니지먼트 게임입니다.
   재료 준비 순서를 잘 짜고, 팬 타이밍을 맞춰 완벽한 상태의 계란을 서빙해 보세요.
 iframeSrc: 'https://2jbqv0uarsk18.h5games.usercontent.goog/v/2cnuunat3mtpg/'
-thumbnail: /new-images/egg-maker.png
+thumbnail: /new-images/thumbnails/egg-maker.png
 tags:
   - casual
   - thinky

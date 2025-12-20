@@ -7,7 +7,7 @@ description: >-
   wechsle geschickt die Waffen und ballere dich mit präziser Bewegung durch
   Gegnerwellen.
 iframeSrc: 'https://2fr3rldr11rpg.h5games.usercontent.goog/v/2pn2tgakfpecg/'
-thumbnail: /new-images/metal-guns-fury.jpg
+thumbnail: /new-images/thumbnails/metal-guns-fury.jpg
 tags:
   - action
   - shooting

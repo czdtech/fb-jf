@@ -7,7 +7,7 @@ description: >-
   Flugzeugen sichere Vektoren zu, verhindere Konflikte und bringe die Ankünfte
   in einem gleichmäßigen, sicheren Rhythmus zur Landebahn.
 iframeSrc: 'https://2nuk1jh1nvsq8.h5games.usercontent.goog/v/5glj0btngbu2o/'
-thumbnail: /new-images/air-traffic-control.png
+thumbnail: /new-images/thumbnails/air-traffic-control.png
 tags:
   - thinky
   - puzzle

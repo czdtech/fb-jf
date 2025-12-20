@@ -6,7 +6,7 @@ description: >-
   짧은 경기로 빠르게 즐기는 미니 축구 게임 Tiny Football Cup입니다. 패스를 일찍 돌리고 슛
   타이밍을 정확히 맞춰, 간단한 조작으로도 시원한 골 장면을 만들어 보세요.
 iframeSrc: 'https://67buf3k7fmhlg.h5games.usercontent.goog/v/4r92r0smsurf0/'
-thumbnail: /new-images/tiny-football-cup.png
+thumbnail: /new-images/thumbnails/tiny-football-cup.png
 tags:
   - sports
   - soccer

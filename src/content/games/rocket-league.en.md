@@ -4,7 +4,7 @@ locale: en
 title: "Rocket League"
 description: "Rocket League is a high-octane sports game that combines soccer with rocket-powered cars, where players drive, jump, and boost to hit a giant ball into the opponent's goal in fast-paced aerial matches."
 iframeSrc: "https://ubg77.github.io/edit/rocket-soccer-derby/"
-thumbnail: "/new-images/rocket-league.jpg"
+thumbnail: /new-images/thumbnails/rocket-league.jpg
 urlstr: "rocket-league"
 score: "4.7/5  (530 votes)"
 tags: ["sports", "racing", "multiplayer"]

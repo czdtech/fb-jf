@@ -7,7 +7,7 @@ description: >-
   10×10 a un entorno de granja relajante: coloca las formas, completa filas y
   columnas y evita bloquear el espacio disponible.
 iframeSrc: 'https://66ts484uf5r18.h5games.usercontent.goog/v/1nt4ffhi7k9jo/'
-thumbnail: /new-images/farming-10x10.jpg
+thumbnail: /new-images/thumbnails/farming-10x10.jpg
 tags:
   - puzzle
   - thinky

@@ -4,7 +4,7 @@ locale: en
 title: "Tennis"
 description: "Step onto the court in this classic arcade Tennis game! Grab your racket and compete against a challenging opponent. Serve, rally, and score points to win the match. It's a simple, fun, and addictive sports game for everyone."
 iframeSrc: "https://ad-freegames.github.io/flash/game/tennis.html"
-thumbnail: "/new-images/tennis.jpg"
+thumbnail: /new-images/thumbnails/tennis.jpg
 urlstr: "tennis"
 score: "4.7/5  (793 votes)"
 tags: ["sports", "arcade", "classic"]

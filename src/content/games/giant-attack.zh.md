@@ -4,7 +4,7 @@ urlstr: giant-attack
 title: Giant Attack 巨人襲來
 description: 在這款節奏明快的街機動作遊戲中迎戰龐大的巨人！一路收集同伴讓自己變得更高更壯， 釋放威力驚人的投擲攻擊，趕在巨人把你踩扁前先把它擊倒。
 iframeSrc: 'https://5699ri02mr840.h5games.usercontent.goog/v/0dov2qbpnafb0/'
-thumbnail: /new-images/giant-attack.png
+thumbnail: /new-images/thumbnails/giant-attack.png
 tags:
   - action
   - casual

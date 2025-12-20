@@ -7,7 +7,7 @@ description: >-
   grupos de adorables animales de zoo para hacerlos explotar y superar niveles
   llenos de retos.
 iframeSrc: 'https://zooboom.h5games.usercontent.goog/v/4g2tps61g9djg/'
-thumbnail: /new-images/zoo-boom.png
+thumbnail: /new-images/thumbnails/zoo-boom.png
 tags:
   - puzzle
   - casual

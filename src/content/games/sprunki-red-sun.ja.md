@@ -2,7 +2,7 @@
 title: "Sprunki Red Sun - Play Sprunki Red Sun Online"
 description: "Sprunki Red Sun Modは赤い配色と力強いビートで雰囲気を変えたModです。低音やパーカッションを重ねてトラックを作れます。"
 iframeSrc: "https://kdata1.com/2025/02/sprunki-x-redsun/"
-thumbnail: "/sprunki-red-sun.png"
+thumbnail: /new-images/thumbnails/sprunki-red-sun.png
 urlstr: "sprunki-red-sun"
 score: "4.4/5  (232 votes)"
 tags: ["sprunki red sun"]

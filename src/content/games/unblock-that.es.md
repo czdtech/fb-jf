@@ -7,7 +7,7 @@ description: >-
   para liberar el camino y sacar el bloque rojo del tablero. Ideal para amantes
   de los retos lógicos.
 iframeSrc: 'https://unblockthat.h5games.usercontent.goog/v/6iqu63hhulkgo/'
-thumbnail: /new-images/unblock-that.png
+thumbnail: /new-images/thumbnails/unblock-that.png
 tags:
   - puzzle
   - thinky

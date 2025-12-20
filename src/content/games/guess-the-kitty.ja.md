@@ -2,7 +2,7 @@
 title: "Guess the Kitty"
 description: "猫の写真クイズ：写真やヒントから正しい品種や特徴を推測し、テーマ別ラウンドを進んでいきましょう。"
 iframeSrc: "https://webglmath.github.io/guess-the-kitty/"
-thumbnail: "/new-images/guess-the-kitty.jpg"
+thumbnail: /new-images/thumbnails/guess-the-kitty.jpg
 urlstr: "guess-the-kitty"
 score: "3.8/5  (727 votes)"
 tags: ["trivia", "puzzle"]

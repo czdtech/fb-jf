@@ -5,7 +5,7 @@ urlstr: "fiddlebops-sprunki"
 title: "Fiddlebops Sprunki - 在线玩 Fiddlebops Sprunki"
 description: "Fiddlebops Sprunki 通过添加令人愉悦的转折为原版 Sprunki 游戏注入了新的生命。它为玩家提供了一个享受更加奇幻、压力更小的游戏体验的机会。"
 iframeSrc: "https://67ce9d735e0d2d9051c65366--kaleidoscopic-sundae-181ab2.netlify.app/"
-thumbnail: "/fiddlebops-sprunki-bg-1.png"
+thumbnail: /new-images/thumbnails/fiddlebops-sprunki.png
 score: "4.3/5 (684 票)"
 tags: ["fiddlebops sprunki", "sprunki phase 5 online"]
 ---

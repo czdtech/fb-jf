@@ -2,7 +2,7 @@
 title: Pirate Poker
 description: Pirate Pokerは海賊テーマのポーカーゲームです。役を作って賭け、相手より強いハンドで勝ちます。
 iframeSrc: 'https://piratepoker.h5games.usercontent.goog/v/2j9k5m8h7p3n8/'
-thumbnail: /new-images/pirate-poker.png
+thumbnail: /new-images/thumbnails/pirate-poker.png
 urlstr: pirate-poker
 score: 4.1/5  (1823 votes)
 tags:

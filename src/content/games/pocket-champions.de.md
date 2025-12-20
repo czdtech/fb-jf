@@ -7,7 +7,7 @@ description: >-
   wie er ins Ziel sprintet! Ein Idle-Rennspiel, in dem Vorbereitung und
   Strategie entscheidend sind, wenn du zum Pocket Champ werden willst.
 iframeSrc: 'https://pocketchampions.h5games.usercontent.goog/v/24houhjfrhfi8/'
-thumbnail: /new-images/pocket-champions.png
+thumbnail: /new-images/thumbnails/pocket-champions.png
 tags:
   - strategy
   - casual

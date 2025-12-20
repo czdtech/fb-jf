@@ -7,7 +7,7 @@ description: >-
   roguelike Survival-Spiel. Sammle Erfahrung, wähle mächtige Upgrades und finde
   heraus, wie lange du dem Ansturm standhalten kannst.
 iframeSrc: 'https://76sb7kgqtg5kg.h5games.usercontent.goog/v/5s72d5756n840/'
-thumbnail: /new-images/space-survivor.png
+thumbnail: /new-images/thumbnails/space-survivor.png
 tags:
   - action
   - shooting

@@ -4,7 +4,7 @@ urlstr: timber-guy
 title: "Timber Guy"
 description: "Timber Guy ist ein schnelles Hack‑Arcade‑Spiel: Fäll den Baum, weiche Ästen aus und sammle Schlag um Schlag für einen neuen Highscore."
 iframeSrc: 'https://timberguy.h5games.usercontent.goog/v/2ke6osh59ras0/'
-thumbnail: /new-images/timber-guy.png
+thumbnail: /new-images/thumbnails/timber-guy.png
 tags:
   - action
   - casual

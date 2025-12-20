@@ -7,7 +7,7 @@ description: >-
   매번 다른 구조의 지하실을 탐험하며 괴물들과 싸우고 기묘한 아이템을 모아
   생존해야 하는 게임입니다.
 iframeSrc: 'https://flash-cdn.blogspot.com/2021/06/the-binding-of-isaac.html'
-thumbnail: /new-images/the-binding-of-isaac.jpg
+thumbnail: /new-images/thumbnails/the-binding-of-isaac.jpg
 tags:
   - roguelike
   - action-RPG

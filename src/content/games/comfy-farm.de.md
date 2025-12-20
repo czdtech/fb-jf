@@ -7,7 +7,7 @@ description: >-
   Gewinn und schütze deine Felder vor Schädlingen, während du deinen eigenen
   gemütlichen Bauernhof ausbaust.
 iframeSrc: 'https://comfyfarm.h5games.usercontent.goog/v/73m7i3ndifhg0/'
-thumbnail: /new-images/comfy-farm.png
+thumbnail: /new-images/thumbnails/comfy-farm.png
 tags:
   - casual
   - strategy

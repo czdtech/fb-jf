@@ -3,7 +3,7 @@ locale: en
 title: "Veggies Cut"
 description: "Veggies Cut is a kitchen slicer — chain long clean cuts, avoid hazards, and manage rhythm for high scores."
 iframeSrc: "https://01pgt4aflffvo.h5games.usercontent.goog/v/2kpv41q3jen50/"
-thumbnail: "/new-images/veggies-cut.jpg"
+thumbnail: /new-images/thumbnails/veggies-cut.jpg
 urlstr: "veggies-cut"
 score: "4.0/5  (1867 votes)"
 tags: ["action", "casual"]

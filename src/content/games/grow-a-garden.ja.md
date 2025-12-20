@@ -2,7 +2,7 @@
 title: "Grow a Garden"
 description: "包括的なガイドでガーデニングゲームのリラックスした世界を発見しましょう。植え付け、育成、収穫のコアなゲームプレイを学び、夢の庭を作るためのヒントと戦略を手に入れましょう。"
 iframeSrc: "https://growden.io/"
-thumbnail: "/growagarden-min.jpeg"
+thumbnail: /new-images/thumbnails/grow-a-garden.jpeg
 urlstr: "grow-a-garden"
 score: "4.9/5  (5065 votes)"
 tags: ["simulation", "casual"]

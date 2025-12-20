@@ -7,7 +7,7 @@ description: >-
   de estilo madera. Conecta casillas iguales, fusiona valores y administra el
   espacio para no bloquear la cuadrícula.
 iframeSrc: 'https://0k2rsj4f89nr8.h5games.usercontent.goog/v/03pkkc7ds3qdg/'
-thumbnail: /new-images/248-deluxe-wooden-edition.jpg
+thumbnail: /new-images/thumbnails/248-deluxe-wooden-edition.jpg
 tags:
   - puzzle
   - thinky

@@ -6,7 +6,7 @@ description: >-
   Stick Fight는 막대기 인간들이 좁은 아레나에서 난투를 벌이는 물리 기반 격투 게임으로,
   다양한 무기와 환경 기믹을 활용해 마지막까지 살아남는 것이 목표입니다.
 iframeSrc: 'https://ext.minijuegosgratis.com/stick-fighter-2/index.html'
-thumbnail: /new-images/stick-fight.jpg
+thumbnail: /new-images/thumbnails/stick-fight.jpg
 tags:
   - fighting
   - action

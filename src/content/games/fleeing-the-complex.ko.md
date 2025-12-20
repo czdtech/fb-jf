@@ -4,7 +4,7 @@ urlstr: fleeing-the-complex
 title: Fleeing the Complex 플리잉 더 컴플렉스
 description: 'Henry Stickmin 시리즈의 한 편으로, 고도로 경비가 삼엄한 감옥에서 탈출을 시도하는 포인트 앤 클릭 분기 어드벤처입니다.'
 iframeSrc: 'https://fleeingthe-complex.github.io/file/'
-thumbnail: /new-images/fleeing-the-complex.jpg
+thumbnail: /new-images/thumbnails/fleeing-the-complex.jpg
 tags:
   - action
   - story-rich

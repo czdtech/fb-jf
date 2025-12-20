@@ -7,7 +7,7 @@ description: >-
   ins Feld, bilde vollständige Linien in beliebiger Richtung und plane deine
   Züge, denn die Teile lassen sich nicht drehen.
 iframeSrc: 'https://blockpuzzle.h5games.usercontent.goog/v/3rkr8c5j9b23o/'
-thumbnail: /new-images/hex-puzzle.jpg
+thumbnail: /new-images/thumbnails/hex-puzzle.jpg
 tags:
   - puzzle
   - thinky

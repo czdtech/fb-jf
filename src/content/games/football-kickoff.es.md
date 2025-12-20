@@ -7,7 +7,7 @@ description: >-
   apunta tus patadas, lee el viento y controla la potencia para ganar posición
   de campo.
 iframeSrc: 'https://30sab7l7n7df0.h5games.usercontent.goog/v/5c7k7dlnf1c5g/'
-thumbnail: /new-images/football-kickoff.jpg
+thumbnail: /new-images/thumbnails/football-kickoff.jpg
 tags:
   - sports
   - casual

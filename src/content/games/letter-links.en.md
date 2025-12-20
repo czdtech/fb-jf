@@ -3,7 +3,7 @@ locale: en
 title: "Letter Links"
 description: "A daily word-building challenge. Place your letter tiles on the board to form high-scoring words, utilize bonus squares, and connect all your letters in a single group."
 iframeSrc: "https://7u583tvdi3f00.h5games.usercontent.goog/v/424maigpuljoo/"
-thumbnail: "/new-images/letter-links.png"
+thumbnail: /new-images/thumbnails/letter-links.png
 urlstr: "letter-links"
 score: "4.6/5  (2850 votes)"
 tags: ["puzzle", "thinky", "casual"]

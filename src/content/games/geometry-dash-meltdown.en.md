@@ -4,7 +4,7 @@ locale: en
 title: "Geometry Dash Meltdown"
 description: "Rhythm platformer pack: jump and fly through new music‑synced levels with themed hazards and ship segments." 
 iframeSrc: "https://geometrylite.io/game/geometry-dash-meltdown/"
-thumbnail: "/new-images/geometry-dash-meltdown.jpg"
+thumbnail: /new-images/thumbnails/geometry-dash-meltdown.jpg
 urlstr: "geometry-dash-meltdown"
 score: "4.4/5  (994 votes)"
 tags: ["rhythm", "platformer"]

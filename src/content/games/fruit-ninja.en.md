@@ -4,7 +4,7 @@ locale: en
 title: "Fruit Ninja"
 description: "Arcade slicing: swipe through flying fruit while avoiding bombs; chain combos and frenzy boosts for higher scores." 
 iframeSrc: "https://emulatoros.github.io/gfile/fruitninja/"
-thumbnail: "/new-images/fruit-ninja.jpg"
+thumbnail: /new-images/thumbnails/fruit-ninja.jpg
 urlstr: "fruit-ninja"
 score: "4.3/5  (1027 votes)"
 tags: ["arcade", "action"]

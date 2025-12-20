@@ -6,7 +6,7 @@ description: >-
   Bowling Stars bringt glattes Zehn‑Pin‑Bowling in den Browser. Lies die Bahn,
   wähle Winkel und Hook und wirf konstante Strikes.
 iframeSrc: 'https://0pst60kfu8pi8.h5games.usercontent.goog/v/249kviafiu6co/'
-thumbnail: /new-images/bowling-stars.png
+thumbnail: /new-images/thumbnails/bowling-stars.png
 tags:
   - sports
   - casual

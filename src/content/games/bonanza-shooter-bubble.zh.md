@@ -4,7 +4,7 @@ urlstr: bonanza-shooter-bubble
 title: Bonanza Shooter Bubble 缤纷宝石泡泡龙
 description: 《Bonanza Shooter Bubble》是一款色彩鲜艳的泡泡龙游戏，利用反弹角度和颜色管理打掉成串泡泡，一次性切断“挂 链”获得大面积掉落与高分。
 iframeSrc: 'https://65bijcm9l375g.h5games.usercontent.goog/v/6v521t1km2i30/'
-thumbnail: /new-images/bonanza-shooter-bubble.jpg
+thumbnail: /new-images/thumbnails/bonanza-shooter-bubble.jpg
 tags:
   - puzzle
   - casual

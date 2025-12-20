@@ -4,7 +4,7 @@ urlstr: the-pillar
 title: "The Pillar"
 description: "The Pillar ist ein rätsellastiges Escape‑Abenteuer: Erforsche geheimnisvolle Inseln und Räume, löse Umwelt‑ und Logikrätsel und enthülle Schritt für Schritt die Geheimnisse dieser Welt."
 iframeSrc: 'https://m.igroutka.ru/g-1/53/ThePillar/'
-thumbnail: /new-images/the-pillar.jpg
+thumbnail: /new-images/thumbnails/the-pillar.jpg
 tags:
   - puzzle
   - adventure

@@ -4,7 +4,7 @@ urlstr: timber-guy
 title: 《Timber Guy》伐木达人
 description: 《Timber Guy》是一款一键式反应游戏。你扮演伐木工，在限定时间内疯狂砍树，同时要不断切换站位，避免被树枝砸到。
 iframeSrc: 'https://timberguy.h5games.usercontent.goog/v/3k8n2c1b5d9p0/'
-thumbnail: /new-images/timber-guy.png
+thumbnail: /new-images/thumbnails/timber-guy.png
 tags:
   - arcade
   - reflex

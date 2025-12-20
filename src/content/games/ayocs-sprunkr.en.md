@@ -5,7 +5,7 @@ description: >-
   AYOCS Sprunkr gives the Sprunki universe a stylish makeover with modern
   character designs and unique sounds for fresh music creation.
 iframeSrc: 'https://turbowarp.org/1114188520/embed'
-thumbnail: /ayocs-sprunkr.png
+thumbnail: /new-images/thumbnails/ayocs-sprunkr.png
 urlstr: ayocs-sprunkr
 score: 4.1/5  (54 votes)
 tags:

@@ -6,7 +6,7 @@ description: >-
   Ludo Kart ist ein lockeres Würfel-und-Renn-Brettspiel: Würfle, bewege deine
   Figuren und sei als Erste:r im Ziel.
 iframeSrc: 'https://35q41h2gp6dd8.h5games.usercontent.goog/v/6q7tggnmscsj8/'
-thumbnail: /new-images/ludo-kart.png
+thumbnail: /new-images/thumbnails/ludo-kart.png
 tags:
   - casual
   - thinky

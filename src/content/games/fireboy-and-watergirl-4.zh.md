@@ -6,7 +6,7 @@ description: >-
   這是一份《Fireboy and Watergirl 4：The Crystal Temple》的完整指南，
   教你掌握水晶傳送門、雙人合作策略、解謎技巧、操作方式與常見問題。
 iframeSrc: 'https://slope-game.github.io/fireboy-water-4/'
-thumbnail: /new-images/fireboy-and-watergirl-4.jpg
+thumbnail: /new-images/thumbnails/fireboy-and-watergirl-4.jpg
 tags:
   - casual
   - rhythm

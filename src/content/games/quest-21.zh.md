@@ -6,7 +6,7 @@ description: >-
   《Quest 21》是一款以经典二十一点为核心规则的卡牌冒险游戏。你不再只是坐在赌场牌桌前，而是踏上一条充满关卡的冒险之路，通过一局局 21
   点对战击败对手并向前推进，在不爆牌的前提下让自己的总点数尽量接近 21。
 iframeSrc: 'https://7h2pln0tgo8q0.h5games.usercontent.goog/v/004k30od8uvog/'
-thumbnail: /new-images/quest-21.png
+thumbnail: /new-images/thumbnails/quest-21.png
 tags:
   - card
   - puzzle

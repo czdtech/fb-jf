@@ -2,7 +2,7 @@
 title: "Woodcraft"
 description: "Woodcraftは、木工クラフトゲームです。木を集めて様々なアイテムを作りましょう。"
 iframeSrc: "https://ubg98.github.io/Woodcraft/"
-thumbnail: "/new-images/woodcraft.jpg"
+thumbnail: /new-images/thumbnails/woodcraft.jpg
 urlstr: "woodcraft"
 score: "4.3/5  (2234 votes)"
 tags: ["crafting", "simulation", "casual"]

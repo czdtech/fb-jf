@@ -7,7 +7,7 @@ description: >-
   아케이드 게임입니다. 각 블록은 맞아야 하는 횟수가 적힌 숫자를 가지고 있으며,
   벽과 블록에 튕기는 궤적을 잘 계산해 연쇄 타격을 노리는 것이 핵심입니다.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/ballistic/'
-thumbnail: /new-images/ballistic.jpg
+thumbnail: /new-images/thumbnails/ballistic.jpg
 tags:
   - puzzle
   - casual

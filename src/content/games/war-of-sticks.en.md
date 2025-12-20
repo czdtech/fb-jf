@@ -4,7 +4,7 @@ locale: en
 title: "War of Sticks"
 description: "Command your stickman army in War of Sticks, a strategic battle game! Mine for resources, train diverse units like shielders, archers, and barbarians, and deploy them to conquer the Red Empire. Build defenses, plan your attacks, and lead your forces to victory in this engaging RTS."
 iframeSrc: "https://g.igroutka.ru/games/164/lt2ARJHFBxPb4spD/4/war_of_sticks/"
-thumbnail: "/new-images/war-of-sticks.jpg"
+thumbnail: /new-images/thumbnails/war-of-sticks.jpg
 urlstr: "war-of-sticks"
 score: "4.4/5  (816 votes)"
 tags: ["strategy", "rts", "stickman"]

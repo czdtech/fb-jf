@@ -3,7 +3,7 @@ locale: en
 title: "Match Puzzle House"
 description: "Match Puzzle House is a home‑makeover match‑3 — complete goals, earn stars, and renovate rooms with smart booster usage."
 iframeSrc: "https://7cp83ss0h08p0.h5games.usercontent.goog/v/49v2bsl4scjdo/"
-thumbnail: "/new-images/match-puzzle-house.png"
+thumbnail: /new-images/thumbnails/match-puzzle-house.png
 urlstr: "match-puzzle-house"
 score: "4.0/5  (1887 votes)"
 tags: ["puzzle", "casual"]

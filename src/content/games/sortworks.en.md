@@ -3,7 +3,7 @@ locale: en
 title: "SortWorks"
 description: "SortWorks is a clean sort‑and‑stack puzzler — organize items by rules, plan buffers, and avoid deadlocks under rising pressure."
 iframeSrc: "https://293f3i461vfvo.h5games.usercontent.goog/v/31blvf8tg44g0/"
-thumbnail: "/new-images/sortworks.png"
+thumbnail: /new-images/thumbnails/sortworks.png
 urlstr: "sortworks"
 score: "4.0/5  (1889 votes)"
 tags: ["puzzle", "thinky", "casual"]

@@ -4,7 +4,7 @@ urlstr: incredibox-wolfgang
 title: "Incredibox Wolfgang - 在线玩 Incredibox Wolfgang"
 description: "探索 Incredibox Wolfgang，这款庆祝古典音乐和莫扎特的粉丝 Mod。本指南详细介绍了其管弦乐音色调色板、创作优雅作品的玩法，以及如何解锁其 18 世纪主题奖励。"
 iframeSrc: 'https://turbowarp.org/943197191/embed'
-thumbnail: /new-images/incredibox-wolfgang.png
+thumbnail: /new-images/thumbnails/incredibox-wolfgang.png
 tags:
   - music
   - classical

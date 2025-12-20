@@ -6,7 +6,7 @@ description: >-
   얼굴을 마음껏 늘리고 눌러 보는 인터랙티브 토이 Elastic Man입니다. 말랑말랑한
   얼굴을 잡아당기고 놓으면서 탄성 물리 효과를 감상해 보세요.
 iframeSrc: 'https://d21u3ic0kp9e91.cloudfront.net/elasticman/0/index.html'
-thumbnail: /new-images/elastic-man.jpg
+thumbnail: /new-images/thumbnails/elastic-man.jpg
 tags:
   - simulation
   - toy

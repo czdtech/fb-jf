@@ -4,7 +4,7 @@ locale: en
 title: "Hangman"
 description: "Classic word‑guessing: deduce the secret word by proposing letters, avoiding too many wrong guesses before the figure is completed." 
 iframeSrc: "https://hangman-frontend.coolmathgames.com/home"
-thumbnail: "/new-images/hangman.jpg"
+thumbnail: /new-images/thumbnails/hangman.jpg
 urlstr: "hangman"
 score: "3.7/5  (708 votes)"
 tags: ["word", "puzzle"]

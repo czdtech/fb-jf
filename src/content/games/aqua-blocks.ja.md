@@ -2,7 +2,7 @@
 title: "Aqua Blocks アクア・ブロック"
 description: "「Aqua Blocks」は、水中のようなリラックス感のあるブロック配置ゲームです。形をフィットさせ、ラインを消し、盤面が溢れないようスペースを確保しましょう。"
 iframeSrc: "https://1uerepsm8tbpg.h5games.usercontent.goog/v/3st9sicdd4eu0/"
-thumbnail: "/new-images/aqua-blocks.png"
+thumbnail: /new-images/thumbnails/aqua-blocks.png
 urlstr: "aqua-blocks"
 score: "3.9/5  (1701 votes)"
 tags: ["puzzle", "thinky"]

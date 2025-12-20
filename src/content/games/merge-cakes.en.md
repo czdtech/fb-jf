@@ -3,7 +3,7 @@ locale: en
 title: "Merge Cakes"
 description: "Merge identical cakes to create new, more elaborate desserts! Fill your display, complete orders, and build the sweetest bakery in this delightful and relaxing merge puzzle game."
 iframeSrc: "https://mergecakes.h5games.usercontent.goog/v/516lkgikje8fo/"
-thumbnail: "/new-images/merge-cakes.jpg"
+thumbnail: /new-images/thumbnails/merge-cakes.jpg
 urlstr: "merge-cakes"
 score: "4.4/5  (2350 votes)"
 tags: ["puzzle", "casual", "clicker"]

@@ -7,7 +7,7 @@ description: >-
   dem du als Coach und Quarterback dein Team managst, Spielzüge callst, Pässe
   wirfst und deine Mannschaft zum Meistertitel führst.
 iframeSrc: 'https://game316009.konggames.com/gamez/0031/6009/live/index.html'
-thumbnail: /new-images/retro-bowl.jpg
+thumbnail: /new-images/thumbnails/retro-bowl.jpg
 tags:
   - sports
   - retro

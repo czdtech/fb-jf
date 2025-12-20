@@ -2,7 +2,7 @@
 title: Merge Defenders
 description: Merge Defendersはマージ要素のあるタワーディフェンスです。ユニットを合体させて強化し、敵のウェーブをしのぎます。
 iframeSrc: 'https://6n6cqbgf7r3a8.h5games.usercontent.goog/v/39pqfpce8gbjo/'
-thumbnail: /new-images/merge-defenders.png
+thumbnail: /new-images/thumbnails/merge-defenders.png
 urlstr: merge-defenders
 score: 4.3/5  (2156 votes)
 tags:

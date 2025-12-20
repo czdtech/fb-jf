@@ -7,7 +7,7 @@ description: >-
   在限定时间内把打乱顺序的字母重新排列成正确单词，
   一边训练词汇量，一边考验你的反应与模式识别能力。
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/word-scramble/'
-thumbnail: /new-images/word-scramble.jpg
+thumbnail: /new-images/thumbnails/word-scramble.jpg
 tags:
   - word-game
   - puzzle

@@ -6,7 +6,7 @@ description: >-
   《2048 Fusion（2048融合）》是经典 2048
   滑块益智玩法的进化版本，通过滑动合并数字方块冲击更高数值，在有限棋盘里考验你的空间布局与预判能力。
 iframeSrc: 'https://7t79nelq6lu50.h5games.usercontent.goog/v/7jm0opa5dtf00/'
-thumbnail: /new-images/2048-fusion.png
+thumbnail: /new-images/thumbnails/2048-fusion.png
 tags:
   - puzzle
   - thinky

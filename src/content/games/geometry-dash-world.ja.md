@@ -2,7 +2,7 @@
 title: "Geometry Dash World"
 description: "コンパクトなリズムプラットフォーマーの世界：短く、音楽に同期したレベルを走り、ジャンプし、飛び回りましょう。集めたオーブでゲートをアンロックし、デイリーレベルを訪れてください。"
 iframeSrc: "https://geometrylite.io/game/geometry-dash-world/"
-thumbnail: "/new-images/geometry-dash-world.jpg"
+thumbnail: /new-images/thumbnails/geometry-dash-world.jpg
 urlstr: "geometry-dash-world"
 score: "3.6/5  (1425 votes)"
 tags: ["rhythm", "platformer"]

@@ -7,7 +7,7 @@ description: >-
   las paradas, encadena combos y desmonta oleadas de enemigos gestionando bien
   la distancia y los especiales.
 iframeSrc: 'https://0f2fr1ttejsng.h5games.usercontent.goog/v/6dfsqbbtglo48/'
-thumbnail: /new-images/stickman-fighter-mega.jpg
+thumbnail: /new-images/thumbnails/stickman-fighter-mega.jpg
 tags:
   - stickman
   - action

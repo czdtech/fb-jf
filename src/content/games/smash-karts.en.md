@@ -4,7 +4,7 @@ locale: en
 title: "Smash Karts"
 description: "Smash Karts is a multiplayer online kart racing game where players compete in fast-paced races, collect power-ups, and battle opponents while racing through various tracks in colorful 3D environments."
 iframeSrc: "https://webgltest-17af1.firebaseapp.com/"
-thumbnail: "/new-images/smash-karts.jpg"
+thumbnail: /new-images/thumbnails/smash-karts.jpg
 urlstr: "smash-karts"
 score: "4.7/5  (277 votes)"
 tags: ["racing", "multiplayer", "battle"]

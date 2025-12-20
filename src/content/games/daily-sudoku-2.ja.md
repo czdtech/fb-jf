@@ -2,7 +2,7 @@
 title: "Daily Sudoku"
 description: "毎日新しい数独パズルであなたの論理に挑戦。9x9グリッドを各行、列、3x3ボックスに数字1～9が重複なく含まれるように埋めましょう。"
 iframeSrc: "https://4j6utu2p6fklg.h5games.usercontent.goog/v/6qh61gl4k3ado/"
-thumbnail: "/new-images/daily-sudoku-2.png"
+thumbnail: /new-images/thumbnails/daily-sudoku-2.png
 urlstr: "daily-sudoku-2"
 score: "4.8/5  (3550 votes)"
 tags: ["puzzle", "thinky", "casual"]

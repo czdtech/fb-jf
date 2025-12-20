@@ -7,7 +7,7 @@ description: >-
   Turmtypen, rufe Verstärkungen und steuere einen Helden, um Engpässe zu
   halten.
 iframeSrc: 'https://1000freegames.github.io/swf/kingdom-rush.html'
-thumbnail: /new-images/kingdom-rush.jpg
+thumbnail: /new-images/thumbnails/kingdom-rush.jpg
 tags:
   - tower-defense
   - strategy

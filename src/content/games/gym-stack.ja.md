@@ -2,7 +2,7 @@
 title: "Gym Stack"
 description: "Gym Stackはウェイトを積み重ねてマージする3Dパズルです。同じ色とサイズを揃えて合体させ、バーが埋まる前にスペースを確保しましょう。"
 iframeSrc: "https://gymstack.h5games.usercontent.goog/v/3js1l1d7rdkfg/"
-thumbnail: "/new-images/gym-stack.jpeg"
+thumbnail: /new-images/thumbnails/gym-stack.jpeg
 urlstr: "gym-stack"
 score: "3.9/5  (1642 votes)"
 tags: ["action", "casual", "sports"]

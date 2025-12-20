@@ -7,7 +7,7 @@ description: >-
   Absprungwinkel ein, gleite und booste, verdiene Geld und kaufe Teile, um
   jeden Tag weiter zu fliegen.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/learn-to-fly.html'
-thumbnail: /new-images/learn-to-fly.jpg
+thumbnail: /new-images/thumbnails/learn-to-fly.jpg
 tags:
   - arcade
   - upgrade

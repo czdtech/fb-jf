@@ -7,7 +7,7 @@ description: >-
   넣어야 하는 카테고리 퍼즐 게임입니다. 시간 압박 속에서도 교차 오염을 피하며
   정확하게 분류하는 것이 중요합니다.
 iframeSrc: 'https://757entlesmh4g.h5games.usercontent.goog/v/1r9oimecfevc0/'
-thumbnail: /new-images/kitchen-sorting.png
+thumbnail: /new-images/thumbnails/kitchen-sorting.png
 tags:
   - puzzle
   - thinky

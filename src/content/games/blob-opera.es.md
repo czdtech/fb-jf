@@ -7,7 +7,7 @@ description: >-
   ópera. Un experimento de aprendizaje automático divertido y accesible que
   convierte a cualquiera en compositor, sin necesidad de saber música.
 iframeSrc: 'https://gacembed.withgoogle.com/blob-opera/'
-thumbnail: /new-images/blob-opera.jpg
+thumbnail: /new-images/thumbnails/blob-opera.jpg
 tags:
   - music
   - casual

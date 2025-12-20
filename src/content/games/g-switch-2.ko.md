@@ -8,7 +8,7 @@ description: >-
   함정과 낭떠러지를 피해 끝까지 살아남아야 합니다.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221123/6/index.html
-thumbnail: /new-images/g-switch-2.jpg
+thumbnail: /new-images/thumbnails/g-switch-2.jpg
 tags:
   - runner
   - platformer

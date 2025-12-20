@@ -7,7 +7,7 @@ description: >-
   Finde identische Paare, räume das Feld und plane deine Züge so, dass dir der
   Platz nicht ausgeht.
 iframeSrc: 'https://75njrrvim9kq0.h5games.usercontent.goog/v/1v57mtiv2ele0/'
-thumbnail: /new-images/8x8-match-tiles.jpg
+thumbnail: /new-images/thumbnails/8x8-match-tiles.jpg
 tags:
   - puzzle
   - thinky

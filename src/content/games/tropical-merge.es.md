@@ -7,7 +7,7 @@ description: >-
   completa misiones y expande tus islas gestionando con cuidado el espacio y la
   energía.
 iframeSrc: "https://7jdqir15djng0.h5games.usercontent.goog/v/3nm4cvs4b09jo/"
-thumbnail: "/new-images/tropical-merge.png"
+thumbnail: /new-images/thumbnails/tropical-merge.png
 tags:
   - puzzle
   - casual

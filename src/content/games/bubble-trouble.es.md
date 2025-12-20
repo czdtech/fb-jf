@@ -9,7 +9,7 @@ description: >-
   tiempo.
 iframeSrc: >-
   https://app-96647.games.s3.yandex.net/96647/w4h0ydt7quklspc0jxwg9kauaiii2lnx/index.html
-thumbnail: /new-images/bubble-trouble.jpg
+thumbnail: /new-images/thumbnails/bubble-trouble.jpg
 tags:
   - arcade
   - action

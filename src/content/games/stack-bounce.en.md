@@ -3,7 +3,7 @@ locale: en
 title: "Stack Bounce"
 description: "Test your timing and reflexes in Stack Bounce. Smash through colorful platforms by holding down, but be sure to release before you hit the black obstacles to keep the ball bouncing."
 iframeSrc: "https://stackbounce.h5games.usercontent.goog/v/1aqsvv0aegbjg/"
-thumbnail: "/new-images/stack-bounce.jpeg"
+thumbnail: /new-images/thumbnails/stack-bounce.jpeg
 urlstr: "stack-bounce"
 score: "4.4/5  (2451 votes)"
 tags: ["action", "casual", "clicker"]

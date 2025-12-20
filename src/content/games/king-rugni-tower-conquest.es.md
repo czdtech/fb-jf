@@ -6,7 +6,7 @@ description: >-
   King Rugni Tower Conquest es un tower defense compacto: coloca torres, enruta
   oleadas y mejora con cabeza para mantener la línea.
 iframeSrc: 'https://1kh2cdjui86vo.h5games.usercontent.goog/v/71hetkqd45518/'
-thumbnail: /new-images/king-rugni-tower-conquest.jpg
+thumbnail: /new-images/thumbnails/king-rugni-tower-conquest.jpg
 tags:
   - tower Defense
   - thinky

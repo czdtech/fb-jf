@@ -6,7 +6,7 @@ description: >-
   Mahjong Titans는 여러 층으로 쌓인 마작 타일에서 같은 패를 짝지어 제거하며 보드를
   비우는 솔리테어 퍼즐입니다. 막힌 구역을 피해 수를 풀어나가는 전략이 중요합니다.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/mahjong-titans.html'
-thumbnail: /new-images/mahjong-titans.jpg
+thumbnail: /new-images/thumbnails/mahjong-titans.jpg
 tags:
   - puzzle
   - mahjong

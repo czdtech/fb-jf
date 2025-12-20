@@ -7,7 +7,7 @@ description: >-
   trayectorias, clava los puntos de frenada y adelanta con limpieza a alta
   velocidad.
 iframeSrc: 'https://fullspeedracing.h5games.usercontent.goog/v/4kqu52vbp4da8/'
-thumbnail: /new-images/fullspeed-racing.jpg
+thumbnail: /new-images/thumbnails/fullspeed-racing.jpg
 tags:
   - car
   - driving

@@ -7,7 +7,7 @@ description: >-
   이미 꽂힌 핀과 부딪히지 않도록 조심하고, 색상 모드에서는 지정된 색 구간에 맞춰
   넣어야 합니다.
 iframeSrc: 'https://6jgggrkjibvs0.h5games.usercontent.goog/v/7qaps53r4bt10/'
-thumbnail: /new-images/color-pin.png
+thumbnail: /new-images/thumbnails/color-pin.png
 tags:
   - puzzle
   - casual

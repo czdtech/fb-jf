@@ -4,7 +4,7 @@ urlstr: incredibox-instrumentalist
 title: "Incredibox Instrumentalist - 在线玩 Incredibox Instrumentalist"
 description: "Incredibox Instrumentalist 本指南详细介绍了其独特的将乐器召唤到舞台上的玩法及其折衷的世界音乐调色板，创造一个纯器乐管弦乐队。"
 iframeSrc: 'https://turbowarp.org/1040856097/embed'
-thumbnail: /new-images/incredibox-instrumentalist.png
+thumbnail: /new-images/thumbnails/incredibox-instrumentalist.png
 tags:
   - music
   - sandbox

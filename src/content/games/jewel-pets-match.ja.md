@@ -2,7 +2,7 @@
 title: "Jewel Pets Match"
 description: "宝石のような動物をそろえるマッチ3パズルです。入れ替えて3つ以上をそろえ、各レベルの目標を達成します。"
 iframeSrc: "https://jewelpetsmatch.h5games.usercontent.goog/v/2kcabvevoilco/"
-thumbnail: "/new-images/jewel-pets-match.png"
+thumbnail: /new-images/thumbnails/jewel-pets-match.png
 urlstr: "jewel-pets-match"
 score: "4.4/5  (2300 votes)"
 tags: ["puzzle", "casual", "action"]

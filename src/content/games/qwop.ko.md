@@ -7,7 +7,7 @@ description: >-
   완주해야 하는 악명 높은 물리 기반 달리기 게임입니다. 엉뚱한
   조작감과 쓰러지는 모션으로 유명합니다.
 iframeSrc: 'https://kdata1.com/2020/01/QWOP1/?webgl=true'
-thumbnail: /new-images/qwop.jpg
+thumbnail: /new-images/thumbnails/qwop.jpg
 tags:
   - physics
   - difficulty

@@ -7,7 +7,7 @@ description: >-
   continua para conectar todos los puntos del tablero sin levantar el dedo ni
   repetir ningún camino.
 iframeSrc: 'https://g2.igroutka.ru/games/3/JLgd70b3BNafhVq5/10/igra-odna-liniya/game.html'
-thumbnail: /new-images/one-line.jpg
+thumbnail: /new-images/thumbnails/one-line.jpg
 tags:
   - puzzle
   - logic

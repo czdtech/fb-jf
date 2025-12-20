@@ -6,7 +6,7 @@ description: >-
   Mets ton sens de l'observation à l'épreuve avec Find 500 Differences : compare
   deux images presque identiques et retrouve toutes les différences cachées.
 iframeSrc: 'https://find500differences2.h5games.usercontent.goog/v/4gu2tobroroug/'
-thumbnail: /new-images/find-500-differences.png
+thumbnail: /new-images/thumbnails/find-500-differences.png
 tags:
   - puzzle
   - casual

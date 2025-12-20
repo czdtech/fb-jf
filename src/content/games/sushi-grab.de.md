@@ -4,7 +4,7 @@ urlstr: sushi-grab
 title: "Sushi Grab"
 description: "Sushi Grab ist ein schnelles Förderband-Spiel: Greif das richtige Sushi, meide Fallen und erfülle Bestellungen, bevor der Timer abläuft." 
 iframeSrc: 'https://sushigrab.h5games.usercontent.goog/v/0ehlec2inmmrg/'
-thumbnail: /new-images/sushi-grab.png
+thumbnail: /new-images/thumbnails/sushi-grab.png
 tags:
   - casual
   - thinky

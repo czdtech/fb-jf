@@ -7,7 +7,7 @@ description: >-
   Crazy Cars입니다. 이벤트를 완료하고 별과 스패너를 모아 더 빠른 차량을
   해금해 보세요.
 iframeSrc: 'https://g.igroutka.ru/games/164/2afwOT8yZFmeYWGJ/2/crazy_cars/'
-thumbnail: /new-images/crazy-cars.jpg
+thumbnail: /new-images/thumbnails/crazy-cars.jpg
 tags:
   - racing
   - driving

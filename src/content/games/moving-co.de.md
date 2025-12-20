@@ -6,7 +6,7 @@ description: >-
   Moving Co. macht den Umzugstag zum Puzzle: Plane Routen, trage Möbel sicher
   und schlage die Uhr mit cleverer Logistik.
 iframeSrc: 'https://movingco.h5games.usercontent.goog/v/3crgi5efdnml0/'
-thumbnail: /new-images/moving-co.png
+thumbnail: /new-images/thumbnails/moving-co.png
 tags:
   - casual
   - thinky

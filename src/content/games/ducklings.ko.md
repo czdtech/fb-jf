@@ -4,7 +4,7 @@ urlstr: ducklings
 title: Ducklings 덕클링스
 description: '호수 위를 헤엄치며 길 잃은 새끼 오리들을 구해 오는 힐링 게임입니다. 장애물을 피해 새끼들을 이끌고, 둥지를 업그레이드해 보세요.'
 iframeSrc: 'https://ducklings.h5games.usercontent.goog/v/3aj4fa915glpg/'
-thumbnail: /new-images/ducklings.jpg
+thumbnail: /new-images/thumbnails/ducklings.jpg
 tags:
   - animal
   - casual

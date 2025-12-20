@@ -7,7 +7,7 @@ description: >-
   frostigen Figuren, eisigen Sounds und versteckten Horror-Elementen bastelst du
   dir kalte, aber extrem stylische Tracks im Schnee-Look.
 iframeSrc: 'https://turbowarp.org/1114795409/embed'
-thumbnail: /sprunki-cool-as-ice.png
+thumbnail: /new-images/thumbnails/sprunki-cool-as-ice.png
 tags:
   - sprunki cool as ice
   - sprunki cool as ice online

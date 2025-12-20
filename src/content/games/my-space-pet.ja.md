@@ -2,7 +2,7 @@
 title: My Space Pet
 description: My Space Petは宇宙ペットの育成ゲームです。エイリアンペットの世話をし、ミニゲームでコインを集めながら成長を見守ります。
 iframeSrc: 'https://myspacepet.h5games.usercontent.goog/v/3s7c0c5h0evj8/'
-thumbnail: /new-images/my-space-pet.png
+thumbnail: /new-images/thumbnails/my-space-pet.png
 urlstr: my-space-pet
 score: 4.1/5  (1789 votes)
 tags:

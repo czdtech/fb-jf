@@ -6,7 +6,7 @@ description: >-
   여유롭게 즐기는 정원 가꾸기 게임들의 세계를 소개하는 가이드입니다. 씨를 심고, 기르고, 수확하는 기본 플레이부터, 꿈꾸는 정원을 만들기
   위한 전략과 팁까지 한눈에 정리해 드립니다.
 iframeSrc: 'https://growden.io/'
-thumbnail: /growagarden-min.jpeg
+thumbnail: /new-images/thumbnails/grow-a-garden.jpeg
 tags:
   - simulation
   - casual

@@ -4,7 +4,7 @@ locale: en
 title: "Stick Fight"
 description: "Enter the chaotic arena of Stick Fight, a physics-based brawler where you battle other stick figures to be the last one standing. Use a variety of weapons and your own two fists to knock opponents off the stage in this fast-paced action game."
 iframeSrc: "https://ext.minijuegosgratis.com/stick-fighter-2/index.html"
-thumbnail: "/new-images/stick-fight.jpg"
+thumbnail: /new-images/thumbnails/stick-fight.jpg
 urlstr: "stick-fight"
 score: "3.6/5  (1015 votes)"
 tags: ["fighting", "action", "stickman"]

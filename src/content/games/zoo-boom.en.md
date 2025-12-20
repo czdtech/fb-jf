@@ -4,7 +4,7 @@ title: "Zoo Boom"
 description: "Welcome to Zoo Boom! A colorful and exciting match-2 puzzle game where you tap to blast blocks of adorable zoo animals and complete challenging levels."
 iframeSrc: "https://zooboom.h5games.usercontent.goog/v/4g2tps61g9djg/"
 urlstr: "zoo-boom"
-thumbnail: "/new-images/zoo-boom.png"
+thumbnail: /new-images/thumbnails/zoo-boom.png
 score: "4.5/5  (2050 votes)"
 tags: ["puzzle", "casual", "action"]
 developer: ""

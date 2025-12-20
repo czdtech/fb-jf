@@ -2,7 +2,7 @@
 title: Red Ball 4
 description: Red Ball 4はプラットフォームアドベンチャーです。ボールを転がし、ジャンプし、敵を倒し、レベルを完了し、世界を救います。
 iframeSrc: 'https://redball4.h5games.usercontent.goog/v/2j9k5m8h7p3n8/'
-thumbnail: /new-images/red-ball-4.png
+thumbnail: /new-images/thumbnails/red-ball-4.jpg
 urlstr: red-ball-4
 score: 4.5/5  (4567 votes)
 tags:

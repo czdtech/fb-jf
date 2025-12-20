@@ -7,7 +7,7 @@ description: >-
   kombiniere gleichfarbige Gewichte, um größere Scheiben zu bilden, Platz zu
   schaffen und hohe Punktzahlen zu erreichen.
 iframeSrc: 'https://gymstack.h5games.usercontent.goog/v/3js1l1d7rdkfg/'
-thumbnail: /new-images/gym-stack.jpeg
+thumbnail: /new-images/thumbnails/gym-stack.jpeg
 tags:
   - action
   - casual

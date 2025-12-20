@@ -3,7 +3,7 @@ locale: en
 title: "Maze Puzzle"
 description: "Maze Puzzle is a clean labyrinth runner — plot shortest paths, bait patrolling guards, and exit with keys under light timers."
 iframeSrc: "https://3931uc3bsois0.h5games.usercontent.goog/v/7nvm8etm546uo/"
-thumbnail: "/new-images/maze-puzzle.png"
+thumbnail: /new-images/thumbnails/maze-puzzle.png
 urlstr: "maze-puzzle"
 score: "4.0/5  (1866 votes)"
 tags: ["puzzle", "thinky", "escape"]

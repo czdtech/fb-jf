@@ -7,7 +7,7 @@ description: >-
   Remplis ton plateau, accomplis des défis et découvre toutes les pierres
   précieuses dans ce puzzle de fusion étincelant et addictif.
 iframeSrc: 'https://mergethegems.h5games.usercontent.goog/v/5rut2fhhuqb1g/'
-thumbnail: /new-images/merge-the-gems.jpg
+thumbnail: /new-images/thumbnails/merge-the-gems.jpg
 tags:
   - puzzle
   - casual

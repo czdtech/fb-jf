@@ -6,7 +6,7 @@ description: >-
   낙하하는 블록을 쌓아 안정적인 탑을 만드는 물리 퍼즐 게임입니다. 무게 중심과 돌출 부분을
   신중하게 조절해, 중력 체크 후에도 무너지지 않는 튼튼한 타워를 완성해 보세요.
 iframeSrc: 'https://786ndsslg99r8.h5games.usercontent.goog/v/70bavan56u08g/'
-thumbnail: /new-images/tumble-towers.png
+thumbnail: /new-images/thumbnails/tumble-towers.png
 tags:
   - puzzle
   - thinky

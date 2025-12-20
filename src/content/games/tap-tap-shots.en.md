@@ -4,7 +4,7 @@ locale: en
 title: "Tap Tap Shots"
 description: "Test your timing and rhythm in Tap-Tap Shots, an addictive one-touch basketball game. Tap to make the ball bounce and score as many consecutive baskets as you can. Find your rhythm, aim for clean shots, and set the ball on fire to achieve a high score!"
 iframeSrc: "https://ubg77.github.io/game131022/tap-tap-shots/"
-thumbnail: "/new-images/tap-tap-shots.jpg"
+thumbnail: /new-images/thumbnails/tap-tap-shots.jpg
 urlstr: "tap-tap-shots"
 score: "4.9/5  (415 votes)"
 tags: ["sports", "arcade", "rhythm"]

@@ -6,7 +6,7 @@ description: >-
   Bunny Quest es un puzle de caminos con fichas deslizantes: mueve las piezas,
   conecta la ruta y guía al conejito hasta la meta.
 iframeSrc: 'https://630h8fcg3e938.h5games.usercontent.goog/v/51qfd4fr90dro/'
-thumbnail: /new-images/bunny-quest.png
+thumbnail: /new-images/thumbnails/bunny-quest.png
 tags:
   - puzzle
   - thinky

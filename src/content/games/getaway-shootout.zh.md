@@ -6,7 +6,7 @@ description: >-
   失控物理系競速射擊：用笨拙的跳躍一路蹦到撤離點，撿起各種搞笑武器，
   在單人或雙人模式中比拼誰先成功逃脫。
 iframeSrc: 'https://ubg44.github.io/GetawayShootout/'
-thumbnail: /new-images/getaway-shootout.jpg
+thumbnail: /new-images/thumbnails/getaway-shootout.jpg
 tags:
   - action
   - multiplayer

@@ -2,7 +2,7 @@
 title: Zumba Ocean
 description: Zumba Oceanは、海をテーマにしたマーブルシューターゲームです。同じ色のボールを揃えて消しましょう。
 iframeSrc: 'https://ubg98.github.io/ZumbaOcean/'
-thumbnail: /new-images/zumba-ocean.jpg
+thumbnail: /new-images/thumbnails/zumba-ocean.png
 urlstr: zumba-ocean
 score: 4.5/5  (3123 votes)
 tags:

@@ -5,7 +5,7 @@ urlstr: "ayocs-sprunkr"
 title: "AYOCS Sprunkr - 在线畅玩 AYOCS Sprunkr"
 description: "AYOCS Sprunkr 是一款时尚风格的 Sprunki 模组，为熟悉的音乐创作体验注入全新活力，带来现代感十足的角色设计和独特音效。"
 iframeSrc: "https://turbowarp.org/1114188520/embed"
-thumbnail: "/ayocs-sprunkr.png"
+thumbnail: /new-images/thumbnails/ayocs-sprunkr.png
 score: "4.1/5  (54 票)"
 tags: ["ayocs sprunkr"]
 ---

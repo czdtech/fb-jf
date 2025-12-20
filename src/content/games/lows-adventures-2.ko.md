@@ -7,7 +7,7 @@ description: >-
   레트로 스타일 2D 플랫폼 후속작입니다. 짧은 스테이지를 달리고 점프하며, 타임
   챌린지에서 메달을 노리는 것이 핵심입니다.
 iframeSrc: 'https://previews.customer.envatousercontent.com/files/489323722/index.html'
-thumbnail: /new-images/lows-adventures-2.jpg
+thumbnail: /new-images/thumbnails/lows-adventures-2.jpg
 tags:
   - platformer
   - adventure

@@ -6,7 +6,7 @@ description: >-
   Crossword Puzzle ist ein klassisches Worträtsel: Fülle das Gitter, indem du
   horizontale und vertikale Hinweise löst, bis alle Kreuzungen passen.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/crossword-puzzle.html'
-thumbnail: /new-images/crossword-puzzle.jpg
+thumbnail: /new-images/thumbnails/crossword-puzzle.jpg
 tags:
   - word
   - puzzle

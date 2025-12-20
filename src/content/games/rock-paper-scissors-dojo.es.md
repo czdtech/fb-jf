@@ -7,7 +7,7 @@ description: >-
   detecta patrones, mezcla estrategias y sorprende a tus rivales en series al
   mejor de varias rondas.
 iframeSrc: "https://0o2ssijd98lgg.h5games.usercontent.goog/v/39t01692a4rs8/"
-thumbnail: "/new-images/rock-paper-scissors-dojo.png"
+thumbnail: /new-images/thumbnails/rock-paper-scissors-dojo.png
 tags:
   - casual
   - 2 player

@@ -7,7 +7,7 @@ description: >-
   Blöcke weg, kaufe automatische Bälle und Geschütze, resette für Multiplikatoren
   und optimiere deine Upgrades.
 iframeSrc: 'https://ubg98.github.io/IdleBreakout/'
-thumbnail: /new-images/idle-breakout.jpg
+thumbnail: /new-images/thumbnails/idle-breakout.jpg
 tags:
   - idle
   - clicker

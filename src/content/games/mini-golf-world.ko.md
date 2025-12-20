@@ -7,7 +7,7 @@ description: >-
   경사와 바람개비, 레일 등을 읽어 적절한 세기와 방향으로 공을 굴려 파를 지키거나
   홀인원을 노려 보세요.
 iframeSrc: 'https://32tnqh6bck80g.h5games.usercontent.goog/v/3auurdk9r953g/'
-thumbnail: /new-images/mini-golf-world.png
+thumbnail: /new-images/thumbnails/mini-golf-world.png
 tags:
   - sports
   - puzzle

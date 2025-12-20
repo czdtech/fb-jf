@@ -5,7 +5,7 @@ title: "Brain Test 3: Tricky Quests 脑力测试3：棘手任务"
 description: >-
   在《Brain Test 3: Tricky Quests》中，跟随 Alyx 踏上收集能量宝石的解谜冒险，一边开脑洞，一边探索机关与故事。
 iframeSrc: 'https://bitlifeonline.github.io/brain-test-3-tricky-quests/'
-thumbnail: /new-images/3-tricky-quests.jpg
+thumbnail: /new-images/thumbnails/3-tricky-quests.jpg
 tags:
   - casual
   - rhythm

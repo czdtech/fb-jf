@@ -5,7 +5,7 @@ urlstr: "sprunki-mod-BFDI"
 title: "Sprunki Mod BFDI - 在线玩 Sprunki Mod BFDI"
 description: "Sprunki Mod BFDI，也称为 Sprunki Battle for Dream Island，通过整合 Battle for Dream Island (BFDI) 的奇幻和物品主题美学，重新诠释了经典的 Incredibox Sprunki 玩法。"
 iframeSrc: "https://turbowarp.org/1087434086/embed"
-thumbnail: "/sprunki-mod-bfdi.png"
+thumbnail: /new-images/thumbnails/sprunki-mod-BFDI.png
 score: "4.2/5  (347 票)"
 tags: ["sprunki mod bfdi"]
 ---

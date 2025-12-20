@@ -4,7 +4,7 @@ locale: en
 title: "Dumb Ways to Die"
 description: "Dumb Ways to Die is a fast‑reaction mini‑game collection: complete micro‑challenges quickly to keep characters alive."
 iframeSrc: "https://html5.iclouds.io/dumb-ways-die/"
-thumbnail: "/new-images/dumb-ways-to-die.jpg"
+thumbnail: /new-images/thumbnails/dumb-ways-to-die.jpg
 urlstr: "dumb-ways-to-die"
 score: "3.9/5  (534 votes)"
 tags: ["arcade", "minigames"]

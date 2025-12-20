@@ -6,7 +6,7 @@ description: >-
   Cluster Rush는 달리는 트럭 무리 사이를 점프하며 결승점까지 살아남아야 하는 1인칭 3D 플랫폼 러너입니다. 트럭의 움직임 패턴을
   익히고, 모멘텀과 더블 점프를 활용해 불가능해 보이는 구간을 돌파해 보세요.
 iframeSrc: 'https://clusterrush.io/game/cluster-rush/'
-thumbnail: /new-images/cluster-rush.jpg
+thumbnail: /new-images/thumbnails/cluster-rush.jpg
 tags:
   - platformer
   - parkour

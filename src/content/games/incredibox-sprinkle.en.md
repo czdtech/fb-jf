@@ -6,7 +6,7 @@ description: >-
   Whether you are a casual player or a fan interested in music production, you
   can find your own fun in the world of Sprinkle.
 iframeSrc: 'https://g.sprinkleincredibox.com/web-game/SprinkleIncredibox/index.html'
-thumbnail: /incredibox-sprinkle.png
+thumbnail: /new-images/thumbnails/incredibox-sprinkle.png
 urlstr: incredibox-sprinkle
 modType: incredibox
 score: 3.8/5  (387 votes)

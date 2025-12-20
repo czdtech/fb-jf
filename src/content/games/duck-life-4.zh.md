@@ -6,7 +6,7 @@ description: >-
   Duck Life 4 是一款結合培訓與競速的模擬遊戲，你要透過各種迷你遊戲訓練小鴨的跑步、
   游泳、飛行、攀爬等能力，提升體力，最後在各地錦標賽中奪冠。
 iframeSrc: 'https://webglmath.github.io/ducklife-4/'
-thumbnail: /new-images/duck-life-4.jpg
+thumbnail: /new-images/thumbnails/duck-life-4.jpg
 tags:
   - racing
   - simulation

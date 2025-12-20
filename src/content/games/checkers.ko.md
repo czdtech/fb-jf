@@ -7,7 +7,7 @@ description: >-
   승격시켜 상대 말을 모두 잡아내거나 이동 불능 상태로 몰아 보세요.
 iframeSrc: >-
   https://app-98054.games.s3.yandex.net/98054/nmrr3mfit1y3qyd35l9zk4d8awgfxsjq/index.html
-thumbnail: /new-images/checkers.jpg
+thumbnail: /new-images/thumbnails/checkers.jpg
 tags:
   - strategy
   - puzzle

@@ -6,7 +6,7 @@ description: >-
   우주를 배경으로 한 '핀 뽑기' 퍼즐 게임입니다. 외계인들이 탄 공을 안전하게 우주선까지 떨어뜨릴 수 있도록, 핀을 뽑는 순서와 타이밍을
   전략적으로 설계해 보세요.
 iframeSrc: 'https://pintheufo.h5games.usercontent.goog/v/08ukqv01ac45o/'
-thumbnail: /new-images/pin-the-ufo.jpeg
+thumbnail: /new-images/thumbnails/pin-the-ufo.jpeg
 tags:
   - puzzle
   - casual

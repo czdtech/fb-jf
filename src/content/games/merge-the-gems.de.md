@@ -7,7 +7,7 @@ description: >-
   Spielfeld, meistere Herausforderungen und entdecke alle kostbaren Steine in
   diesem funkelnden Merge-Puzzlespiel.
 iframeSrc: 'https://mergethegems.h5games.usercontent.goog/v/5rut2fhhuqb1g/'
-thumbnail: /new-images/merge-the-gems.jpg
+thumbnail: /new-images/thumbnails/merge-the-gems.jpg
 tags:
   - puzzle
   - casual

@@ -7,7 +7,7 @@ description: >-
   pendientes, realiza acrobacias y recoge monedas para convertirte en una
   auténtica leyenda del esquí.
 iframeSrc: 'https://northernheights.h5games.usercontent.goog/v/1pct901lj7uko/'
-thumbnail: /new-images/northern-heights.png
+thumbnail: /new-images/thumbnails/northern-heights.png
 tags:
   - sports
   - action

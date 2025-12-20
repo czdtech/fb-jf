@@ -7,7 +7,7 @@ description: >-
   움직여 출구를 막는 차량을 치우고, 최소한의 이동으로 주차장을
   탈출해 보세요.
 iframeSrc: 'https://4knmpq6joecbg.h5games.usercontent.goog/v/1uamg2frss2qg/'
-thumbnail: /new-images/parking-jam.png
+thumbnail: /new-images/thumbnails/parking-jam.png
 tags:
   - puzzle
   - thinky

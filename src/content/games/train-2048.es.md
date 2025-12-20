@@ -8,7 +8,7 @@ description: >-
   alcanzar el mítico vagón 2048.
 iframeSrc: >-
   https://train2048.h5games.usercontent.goog/v/efebc769-0d8d-48f4-b437-af712b013132/
-thumbnail: /new-images/train-2048.jpg
+thumbnail: /new-images/thumbnails/train-2048.jpg
 tags:
   - puzzle
   - thinky

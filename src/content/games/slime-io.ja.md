@@ -2,7 +2,7 @@
 title: Slime.io
 description: Slime.ioはスライムの成長ゲームです。小さい相手やアイテムを吸収して成長し、大きい相手を避けます。
 iframeSrc: 'https://slimeio.h5games.usercontent.goog/v/2j9k5m8h7p3n8/'
-thumbnail: /new-images/slime-io.png
+thumbnail: /new-images/thumbnails/slime-io.png
 urlstr: slime-io
 score: 4.2/5  (2234 votes)
 tags:

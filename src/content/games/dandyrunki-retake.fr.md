@@ -4,7 +4,7 @@ urlstr: dandyrunki-retake
 title: Dandyrunki Retake
 description: "Dandyrunki Retake est un platformer rétro exigeant\_: cours, saute et évite les pièges dans des niveaux précis au pixel près."
 iframeSrc: 'https://tiwb.github.io/dandyrunki-retake/'
-thumbnail: /new-images/dandyrunki-retake.jpg
+thumbnail: /new-images/thumbnails/dandyrunki-retake.png
 tags:
   - platformer
   - casual

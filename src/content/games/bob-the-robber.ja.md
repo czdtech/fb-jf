@@ -2,7 +2,7 @@
 title: "Bob the Robber ボブ・ザ・ロバー"
 description: "「Bob the Robber」で義賊になろう！警備員をかわし、カメラを無効化し、金庫を破れ。ステルスとパズルが融合した大人気泥棒アクションゲーム。"
 iframeSrc: "https://app-190385.games.s3.yandex.net/190385/i7ty94goiswe8ohxdysos1uzmur0yfwk/index.html"
-thumbnail: "/new-images/bob-the-robber.jpg"
+thumbnail: /new-images/thumbnails/bob-the-robber.jpg
 urlstr: "bob-the-robber"
 score: "3.7/5  (403 votes)"
 tags: ["stealth", "puzzle"]

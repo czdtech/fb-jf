@@ -6,7 +6,7 @@ description: >-
   El mod Sprunki Red Sun sumerge el universo Sprunki en un reino dramático y
   abrasador dominado por tonos rojos intensos y beats rítmicos muy potentes.
 iframeSrc: 'https://kdata1.com/2025/02/sprunki-x-redsun/'
-thumbnail: /sprunki-red-sun.png
+thumbnail: /new-images/thumbnails/sprunki-red-sun.png
 tags:
   - sprunki red sun
 score: 4.4/5  (232 votes)

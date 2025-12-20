@@ -6,7 +6,7 @@ description: >-
   《Red Ball》是这一系列的初代物理横版闯关游戏。你要操控一颗会弹跳的红色小球，在充满陷阱、敌人和小谜题的关卡中前进，利用惯性与物理特性跨越各种难关。
 iframeSrc: >-
   https://app-185271.games.s3.yandex.net/185271/uvjrp10onrrllry3esbc3gpnf7s40cj5/index.html
-thumbnail: /new-images/red-ball.jpg
+thumbnail: /new-images/thumbnails/red-ball.jpg
 tags:
   - platformer
   - physics

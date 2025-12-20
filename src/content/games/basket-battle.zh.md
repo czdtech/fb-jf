@@ -4,7 +4,7 @@ urlstr: basket-battle
 title: Basket Battle 篮筐对决
 description: 《Basket Battle（篮筐对决）》是一款偏物理效果的街机篮球小游戏，通过控制出手弧线和抢篮板，在短局对抗中比对手先得到更多得分。
 iframeSrc: 'https://1e2ocejsf0rm8.h5games.usercontent.goog/v/093f1a2jf2p98/'
-thumbnail: /new-images/basket-battle.png
+thumbnail: /new-images/thumbnails/basket-battle.png
 tags:
   - sports
   - basketball

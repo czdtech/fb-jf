@@ -4,7 +4,7 @@ urlstr: spider-solitaire
 title: 《Spider Solitaire》蜘蛛纸牌
 description: 《Spider Solitaire》是一款经典的纸牌接龙游戏，你需要按从 K 到 A 的顺序整理同花色序列，将完整序列从牌面移除，最终清空所有牌堆。
 iframeSrc: 'https://spidersolitaire.h5games.usercontent.goog/v/1mq07b3dnbgm0/'
-thumbnail: /new-images/spider-solitaire.png
+thumbnail: /new-images/thumbnails/spider-solitaire.jpg
 tags:
   - card
   - solitaire

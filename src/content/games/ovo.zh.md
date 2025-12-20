@@ -6,7 +6,7 @@ description: >-
   《OvO Game》是一款节奏飞快的高难度平台跑酷游戏，你操控火柴人角色，通过精准的跳跃、滑铲与墙跳，在布满尖刺与机关的关卡中，以最快速度抵达终点。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20230129/1/index.html
-thumbnail: /new-images/ovo.jpg
+thumbnail: /new-images/thumbnails/ovo.jpg
 tags:
   - platformer
   - parkour

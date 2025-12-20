@@ -4,7 +4,7 @@ urlstr: "neon-dash"
 title: "Neon Dash"
 description: "Neon Dash est un runner de précision ultra dynamique : saute, évite les pièges et cale ton timing pour survivre à des parcours néon truffés d’obstacles."
 iframeSrc: "https://1bveca4tkimog.h5games.usercontent.goog/v/4bq2naj6mtutg/"
-thumbnail: "/new-images/neon-dash.png"
+thumbnail: /new-images/thumbnails/neon-dash.png
 tags: ["action", "thinky"]
 score: "4.2/5  (1589 votes)"
 developer: ""

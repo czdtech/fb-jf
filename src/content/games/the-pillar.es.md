@@ -9,7 +9,7 @@ description: >-
   vez más desafiantes. Pon a prueba tu lógica y tu capacidad de observación en
   esta aventura inmersiva.
 iframeSrc: 'https://m.igroutka.ru/g-1/53/ThePillar/'
-thumbnail: /new-images/the-pillar.jpg
+thumbnail: /new-images/thumbnails/the-pillar.jpg
 tags:
   - puzzle
   - adventure

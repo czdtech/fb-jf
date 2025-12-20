@@ -7,7 +7,7 @@ description: >-
   Züge, schlage die Steine deines Gegners und kröne deine Figuren zu Königen,
   um das Brett zu dominieren.
 iframeSrc: 'https://checkerslegend.h5games.usercontent.goog/v/43mkj41ari948/'
-thumbnail: /new-images/checkers-legend.png
+thumbnail: /new-images/thumbnails/checkers-legend.png
 tags:
   - puzzle
   - thinky

@@ -3,7 +3,7 @@ locale: en
 title: "Blocks Puzzle"
 description: "Blocks Puzzle is a classic and addictive block puzzle game. Your goal is to fit blocks of different shapes into a 10x10 grid."
 iframeSrc: "https://6ljls661l4lkg.h5games.usercontent.goog/v/1mil2011qbul0/"
-thumbnail: "/new-images/blocks-puzzle.jpg"
+thumbnail: /new-images/thumbnails/blocks-puzzle.jpg
 urlstr: "blocks-puzzle"
 score: "4.2/5  (1765 votes)"
 tags: ["puzzle", "casual", "thinky"]

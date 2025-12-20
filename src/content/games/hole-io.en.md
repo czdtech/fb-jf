@@ -4,7 +4,7 @@ locale: en
 title: "Hole io"
 description: "City‑swallowing .io brawler: move a black hole to eat objects, grow larger, and outscore or eliminate rivals on the map." 
 iframeSrc: "https://holeio.com/"
-thumbnail: "/new-images/hole-io.jpg"
+thumbnail: /new-images/thumbnails/hole-io.jpg
 urlstr: "hole-io"
 score: "4.0/5  (606 votes)"
 tags: ["io", "arcade"]

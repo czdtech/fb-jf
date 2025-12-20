@@ -7,7 +7,7 @@ description: >-
   게임입니다. 클릭으로 에너지를 모으고, 스프룽키 스타일 캐릭터와 음원을
   해금해 나만의 사운드 심포니를 완성해 보세요.
 iframeSrc: 'https://1games.io/game/sprunki-clicker/'
-thumbnail: /sprunki-clicker.png
+thumbnail: /new-images/thumbnails/sprunki-clicker.png
 tags:
   - sprunki clicker
 score: 4.7/5  (524 votes)

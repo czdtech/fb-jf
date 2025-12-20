@@ -7,7 +7,7 @@ description: >-
   ein, rüste Küche und Tische auf und automatisiere den Betrieb, um zum
   Gastro-Tycoon zu werden.
 iframeSrc: 'https://idlerestaurants.h5games.usercontent.goog/v/4ut41titp1kvg/'
-thumbnail: /new-images/idle-restaurants.png
+thumbnail: /new-images/thumbnails/idle-restaurants.png
 tags:
   - casual
   - clicker

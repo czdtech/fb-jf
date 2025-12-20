@@ -4,7 +4,7 @@ urlstr: pacman-30th-anniversary
 title: Pacman 30th Anniversary
 description: "Pacman 30th Anniversary est une édition spéciale du jeu d'arcade culte, célébrant 30\_ans de poursuites dans le labyrinthe avec Pac‑Man et ses fantômes."
 iframeSrc: 'https://pacman-30thanniversary.com/game/doodle-pacman/pacman.html'
-thumbnail: /new-images/pacman-30th-anniversary.jpg
+thumbnail: /new-images/thumbnails/pacman-30th-anniversary.jpg
 tags:
   - arcade
   - classic

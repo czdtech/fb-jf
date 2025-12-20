@@ -6,7 +6,7 @@ description: >-
   공중에 떠오르는 채소를 한 번에 싹둑 써는 캐주얼 액션 게임입니다. 길고 시원한 베기를 이어 콤보를
   쌓고, 칼이나 폭탄 같은 위험 요소는 피하며 높은 점수를 노려 보세요.
 iframeSrc: 'https://01pgt4aflffvo.h5games.usercontent.goog/v/2kpv41q3jen50/'
-thumbnail: /new-images/veggies-cut.jpg
+thumbnail: /new-images/thumbnails/veggies-cut.jpg
 tags:
   - action
   - casual

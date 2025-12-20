@@ -7,7 +7,7 @@ description: >-
   simples objectifs, dégage les chemins et assure la livraison des cadeaux à
   temps.
 iframeSrc: 'https://santasquest.h5games.usercontent.goog/v/737gsbva7bkqo/'
-thumbnail: /new-images/santas-quest.png
+thumbnail: /new-images/thumbnails/santas-quest.png
 tags:
   - puzzle
   - casual

@@ -4,7 +4,7 @@ locale: en
 title: "Choir Game"
 description: "Discover Blob Opera, the viral choir game! This guide provides detailed gameplay instructions, controls, tips, and answers to common questions for this creative musical experiment."
 iframeSrc: "https://d21u3ic0kp9e91.cloudfront.net/choir/04/index.html"
-thumbnail: "/new-images/choir.jpg"
+thumbnail: /new-images/thumbnails/choir.jpg
 urlstr: "choir"
 score: "4.1/5  (123 votes)"
 tags: ["casual", "music"]

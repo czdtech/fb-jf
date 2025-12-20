@@ -2,7 +2,7 @@
 title: Tangram Puzzle
 description: Tangram Puzzleは、古典的な中国のパズルゲームです。7つのピースを使って特定の形を作りましょう。
 iframeSrc: 'https://ubg98.github.io/TangramPuzzle/'
-thumbnail: /new-images/tangram-puzzle.jpg
+thumbnail: /new-images/thumbnails/tangram-puzzle.jpg
 urlstr: tangram-puzzle
 score: 4.3/5  (1987 votes)
 tags:

@@ -7,7 +7,7 @@ description: >-
   Kern, ohne Kollisionen zu verursachen, und triff unter Druck die richtige
   Farbe.
 iframeSrc: 'https://6jgggrkjibvs0.h5games.usercontent.goog/v/7qaps53r4bt10/'
-thumbnail: /new-images/color-pin.png
+thumbnail: /new-images/thumbnails/color-pin.png
 tags:
   - puzzle
   - casual

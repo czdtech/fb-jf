@@ -2,7 +2,7 @@
 title: Pets Rush
 description: Pets Rushはマッチ3パズルです。同じペットをそろえて消し、レベル目標の達成を目指します。
 iframeSrc: 'https://petsrush.h5games.usercontent.goog/v/2j9k5m8h7p3n8/'
-thumbnail: /new-images/pets-rush.png
+thumbnail: /new-images/thumbnails/pets-rush.jpg
 urlstr: pets-rush
 score: 4.2/5  (2089 votes)
 tags:

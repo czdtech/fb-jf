@@ -2,7 +2,7 @@
 title: "Sprunki Dandy's World - Play Sprunki Dandy's World Online"
 description: "Sprunki Dandy's Worldは、音を組み合わせて曲を作る音楽作成ゲームです。キャラクターや演出を入れ替えながら、自分なりの雰囲気を作れます。"
 iframeSrc: "https://turbowarp.org/1075503895/embed"
-thumbnail: "/sprunki-dandys-world.png"
+thumbnail: /new-images/thumbnails/sprunki-dandys-world.png
 urlstr: "sprunki-dandys-world"
 score: "4.4/5  (304 votes)"
 tags: ["sprunki dandy"]

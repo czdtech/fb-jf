@@ -4,7 +4,7 @@ locale: en
 title: "Breakout"
 description: "Control the paddle, bounce the ball, and destroy all the bricks in the classic arcade game, Breakout. Learn tips and tricks to master this timeless block-breaker."
 iframeSrc: "https://ad-freegames.github.io/flash/game/atari-breakout.html"
-thumbnail: "/new-images/breakout.jpg"
+thumbnail: /new-images/thumbnails/breakout.jpg
 urlstr: "breakout"
 score: "3.8/5  (494 votes)"
 tags: ["arcade", "casual"]

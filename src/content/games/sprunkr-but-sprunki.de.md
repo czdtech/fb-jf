@@ -7,7 +7,7 @@ description: >-
   Sprunki-Charaktere – du spielst mit dem Sprunkr-Gameplay, aber im Look & Sound
   der Sprunki-Welt.
 iframeSrc: 'https://turbowarp.org/1113707117/embed'
-thumbnail: /sprunkr-but-sprunki.png
+thumbnail: /new-images/thumbnails/sprunkr-but-sprunki.png
 tags:
   - sprunkr but sprunki
 score: 4.5/5  (541 votes)

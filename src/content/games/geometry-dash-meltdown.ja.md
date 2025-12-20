@@ -2,7 +2,7 @@
 title: "Geometry Dash Meltdown"
 description: "リズムプラットフォーマーパック：テーマ別のハザードや船のセクションを備えた、新しい音楽同期レベルをジャンプして飛び回りましょう。"
 iframeSrc: "https://geometrylite.io/game/geometry-dash-meltdown/"
-thumbnail: "/new-images/geometry-dash-meltdown.jpg"
+thumbnail: /new-images/thumbnails/geometry-dash-meltdown.jpg
 urlstr: "geometry-dash-meltdown"
 score: "4.4/5  (994 votes)"
 tags: ["rhythm", "platformer"]

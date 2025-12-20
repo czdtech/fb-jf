@@ -3,7 +3,7 @@
 title: "Snake.io"
 description: "Snake.ioはオンラインのヘビ成長ゲームです。ペレットを食べて成長し、相手を避けたり巻き込んだりしながら上位を目指します。"
 iframeSrc: "https://snake.io/crazygames/"
-thumbnail: "/new-images/snake-io.jpg"
+thumbnail: /new-images/thumbnails/snake-io.jpg
 urlstr: "snake-io"
 score: "3.5/5  (677 votes)"
 tags: ["io-games", "snake", "multiplayer"]

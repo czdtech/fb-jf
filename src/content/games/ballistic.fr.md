@@ -4,7 +4,7 @@ urlstr: ballistic
 title: "Ballistic game"
 description: "Ballistic est un casse‑tête arcade basé sur la physique où tu tires des salves de balles pour casser des blocs numérotés avant qu’ils n’atteignent le bas de l’écran."
 iframeSrc: "https://ams.cdn.arkadiumhosted.com/assets/global/game/ballistic/"
-thumbnail: /new-images/ballistic.jpg
+thumbnail: /new-images/thumbnails/ballistic.jpg
 tags:
   - puzzle
   - casual

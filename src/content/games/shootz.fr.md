@@ -7,7 +7,7 @@ description: >-
   créatures en utilisant un arsenal varié pour survivre à des vagues
   d’ennemis de plus en plus coriaces dans des affrontements rapides.
 iframeSrc: 'https://g.igroutka.ru/games/17/9IsudOxakgP0EVKC/shootz/'
-thumbnail: /new-images/shootz.jpg
+thumbnail: /new-images/thumbnails/shootz.jpg
 tags:
   - shooting
   - action

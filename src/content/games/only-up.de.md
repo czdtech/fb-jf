@@ -9,7 +9,7 @@ description: >-
   jedoch, um in die Tiefe zu stürzen und wieder von vorn zu beginnen.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp44/chenling/20230826/01/index.htm
-thumbnail: /new-images/only-up.jpg
+thumbnail: /new-images/thumbnails/only-up.jpg
 tags:
   - platformer
   - adventure

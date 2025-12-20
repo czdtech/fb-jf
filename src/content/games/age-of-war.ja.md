@@ -2,7 +2,7 @@
 title: "Age of War いにしえの戦争"
 description: "「Age of War」は、石器時代から未来へと進化しながら敵の基地を破壊する、クラシックな防衛戦略ゲームです。文明を発展させ、最強の軍隊を築き上げよう！"
 iframeSrc: "https://flash.8games.net/games/age-of-war.swf"
-thumbnail: "/new-images/age-of-war.png"
+thumbnail: /new-images/thumbnails/age-of-war.jpg
 urlstr: "age-of-war"
 score: "4.5/5  (3421 votes)"
 tags: ["strategy", "defense", "war"]

@@ -4,7 +4,7 @@ urlstr: crazy-balls
 title: Crazy Balls
 description: "Crazy Balls est un jeu d’arcade chaotique avec des balles rebondissantes\_: vise, tire et provoque des réactions en chaîne pour nettoyer l’écran."
 iframeSrc: 'https://g2.forcegame.ru/game/15/FG2232_2/crazy_balls.html'
-thumbnail: /new-images/crazy-balls.png
+thumbnail: /new-images/thumbnails/crazy-balls.png
 tags:
   - action
   - casual

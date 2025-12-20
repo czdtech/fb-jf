@@ -4,7 +4,7 @@ locale: en
 title: "Bloons TD 3"
 description: "Defend against waves of colorful bloons in Bloons TD 3! Place and upgrade 8 unique towers, utilize the powerful Monkey Beacon, and prepare to face the first-ever MOAB in this classic tower defense strategy game."
 iframeSrc: "https://1000freegames.github.io/swf/bloons-td-3.html"
-thumbnail: "/new-images/bloons-td-3.jpg"
+thumbnail: /new-images/thumbnails/bloons-td-3.jpg
 urlstr: "bloons-td-3"
 score: "4.9/5  (538 votes)"
 tags: ["casual", "strategy"]

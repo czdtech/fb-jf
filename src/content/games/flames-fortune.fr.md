@@ -4,7 +4,7 @@ urlstr: flames-fortune
 title: "Flames & Fortune"
 description: "Flames & Fortune est un jeu de combat tactique façon cartes : gère ta main, contrôle le tempo et surpasse tes adversaires avec des tours bien pensés."
 iframeSrc: 'https://0e8d16hkgti30.h5games.usercontent.goog/v/00r0qn2t79f3g/'
-thumbnail: /new-images/flames-fortune.jpg
+thumbnail: /new-images/thumbnails/flames-fortune.jpg
 tags:
   - card
   - thinky

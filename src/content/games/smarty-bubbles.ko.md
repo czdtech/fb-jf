@@ -6,7 +6,7 @@ description: >-
   순수한 클래식 버블 슈터를 즐길 수 있는 게임입니다. 대포로 버블을 쏴 같은 색을 세 개 이상 맞추고, 버블이 아래에 닿기 전에 모두 제거해
   보세요.
 iframeSrc: 'https://smartybubbles.h5games.usercontent.goog/v/09fhbor6rfpv0/'
-thumbnail: /new-images/smarty-bubbles.png
+thumbnail: /new-images/thumbnails/smarty-bubbles.png
 tags:
   - shooting
   - puzzle

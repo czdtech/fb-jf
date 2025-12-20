@@ -6,7 +6,7 @@ description: >-
   offers a simple, intuitive way to experience the joy of music creation and see
   what this vibrant, creative world was like right at the start.
 iframeSrc: 'https://turbowarp.org/1127823859/embed'
-thumbnail: /sprunki-phase-1.png
+thumbnail: /new-images/thumbnails/sprunki-phase-1.png
 urlstr: sprunki-phase-1
 modType: sprunki
 score: 4.3/5  (96 votes)

@@ -7,7 +7,7 @@ description: >-
   Takt gegen verschiedene Gegner, während höhere Schwierigkeitsgrade schnellere
   Patterns und knifflige Holds hinzufügen.
 iframeSrc: 'https://html-classic.itch.zone/html/2876359-1077558/index.html'
-thumbnail: /new-images/friday-night-funkin.jpg
+thumbnail: /new-images/thumbnails/friday-night-funkin.jpg
 tags:
   - rhythm
   - music

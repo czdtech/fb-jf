@@ -6,7 +6,7 @@ description: >-
   유령차 리플레이를 쫓으며 라인을 다듬는 타임어택 레이싱 게임입니다.
   브레이킹 포인트와 코너 공략선을 익혀 랩타임의 0.1초까지 깎아 보세요.
 iframeSrc: 'https://52v00umba6lko.h5games.usercontent.goog/v/46gechg282a6g/'
-thumbnail: /new-images/ghost-pro-racing.jpg
+thumbnail: /new-images/thumbnails/ghost-pro-racing.jpg
 tags:
   - car
   - driving

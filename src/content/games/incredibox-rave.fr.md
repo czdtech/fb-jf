@@ -6,7 +6,7 @@ description: >-
   Incredibox Rave est un mod EDM néon : palette dance/techno/house, ambiance
   boîte de nuit et bonus lumineux à débloquer.
 iframeSrc: 'https://turbowarp.org/980794126/embed'
-thumbnail: /new-images/incredibox-rave.png
+thumbnail: /new-images/thumbnails/incredibox-rave.png
 tags:
   - music
   - rave

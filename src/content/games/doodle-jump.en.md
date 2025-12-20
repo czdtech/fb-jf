@@ -4,7 +4,7 @@ locale: en
 title: "Doodle Jump"
 description: "Doodle Jump is a vertical platformer: bounce between platforms, avoid hazards, and climb as high as possible."
 iframeSrc: "https://ubg98.github.io/DoodleJump/"
-thumbnail: "/new-images/doodle-jump.jpg"
+thumbnail: /new-images/thumbnails/doodle-jump.jpg
 urlstr: "doodle-jump"
 score: "4.2/5  (915 votes)"
 tags: ["arcade", "platformer"]

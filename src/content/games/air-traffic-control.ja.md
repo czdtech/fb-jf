@@ -2,7 +2,7 @@
 title: "Air Traffic Control 航空管制官"
 description: "「Air Traffic Control」は、リアルタイムで航空機の離着陸を管理するパズルゲームです。衝突を回避し、安全な間隔を保ちながら飛行機を誘導しましょう。"
 iframeSrc: "https://8k40409g1s60o.h5games.usercontent.goog/v/1h9mj7q5j6gjg/"
-thumbnail: "/new-images/air-traffic-control.png"
+thumbnail: /new-images/thumbnails/air-traffic-control.png
 urlstr: "air-traffic-control"
 score: "4.2/5  (1846 votes)"
 tags: ["thinky", "puzzle", "casual"]

@@ -7,7 +7,7 @@ description: >-
   만들어 보는 음악 샌드박스 게임입니다. 누구나 직관적인 조작으로 나만의
   합창단을 꾸미고 힐링되는 사운드를 만들 수 있습니다.
 iframeSrc: 'https://turbowarp.org/1110888906/embed'
-thumbnail: /sprunki-babies.png
+thumbnail: /new-images/thumbnails/sprunki-babies.png
 tags:
   - sprunki babies
 score: 4.0/5  (212 votes)

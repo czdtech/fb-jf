@@ -4,7 +4,7 @@ urlstr: fly-or-die
 title: Fly or Die 플라이 오어 다이
 description: '먹이사슬을 따라 진화해 나가는 .io 스타일 생존 게임입니다. 다른 생물을 먹고 피하며, 점점 더 강한 형태로 진화해 보세요.'
 iframeSrc: 'https://flyordie.1games.io/'
-thumbnail: /new-images/fly-or-die.jpg
+thumbnail: /new-images/thumbnails/fly-or-die.jpg
 tags:
   - multiplayer
   - survival

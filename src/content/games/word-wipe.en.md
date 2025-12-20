@@ -4,7 +4,7 @@ locale: en
 title: "Word Wipe"
 description: "Clear the board with your vocabulary in Word Wipe, a fast-paced and addictive word puzzle game! Connect letters horizontally, vertically, or diagonally to form words. Watch them disappear and new letters fall as you race against the clock to clear rows and achieve a high score."
 iframeSrc: "https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-word-wipe/"
-thumbnail: "/new-images/word-wipe.jpg"
+thumbnail: /new-images/thumbnails/word-wipe.jpg
 urlstr: "word-wipe"
 score: "4.8/5  (1384 votes)"
 tags: ["word-game", "puzzle", "timed"]

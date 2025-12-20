@@ -2,7 +2,7 @@
 title: "Merge Haven"
 description: "Merge Havenは庭づくり要素のあるマージゲームです。アイテムをマージして庭園を整え、エリアを広げていきます。"
 iframeSrc: "https://5fs3h6kbffbi8.h5games.usercontent.goog/v/5tpspujuocl28/"
-thumbnail: "/new-images/merge-haven.png"
+thumbnail: /new-images/thumbnails/merge-haven.png
 urlstr: "merge-haven"
 score: "4.2/5  (1923 votes)"
 tags: ["casual", "thinky"]

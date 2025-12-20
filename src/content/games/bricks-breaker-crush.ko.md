@@ -7,7 +7,7 @@ description: >-
   퍼즐 게임입니다. 각도를 잡아 다중 튕김 경로를 만들고, +볼 아이템으로 볼 수를
   늘리며, 아래로 내려오는 벽을 막아 보세요.
 iframeSrc: 'https://7uvo1rchfrhr8.h5games.usercontent.goog/v/4tk6unop5lefg/'
-thumbnail: /new-images/bricks-breaker-crush.png
+thumbnail: /new-images/thumbnails/bricks-breaker-crush.png
 tags:
   - puzzle
   - thinky

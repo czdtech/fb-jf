@@ -2,7 +2,7 @@
 title: "Bricks Breaker House ブリックス・ブレイカー・ハウス"
 description: "「Bricks Breaker House」は優しいテーマのブロック崩し。角度を操り、パワーアップを活用し、家を守りながらレンガを崩そう。"
 iframeSrc: "https://1s6hqqts5ko6o.h5games.usercontent.goog/v/7n8ge2nvqqksg/"
-thumbnail: "/new-images/bricks-breaker-house.png"
+thumbnail: /new-images/thumbnails/bricks-breaker-house.png
 urlstr: "bricks-breaker-house"
 score: "3.8/5  (1679 votes)"
 tags: ["puzzle", "casual"]

@@ -2,7 +2,7 @@
 title: "Jungle Match Puzzle"
 description: "Jungle Match Puzzleは活気のあるマッチ3です。ブロッカーをクリアし、パワーアップを連鎖させ、厳しい移動制限内でジャングルテーマの目標を満たします。"
 iframeSrc: "https://2sf7n68mggti0.h5games.usercontent.goog/v/2mk31nh92a0og/"
-thumbnail: "/new-images/jungle-match-puzzle.png"
+thumbnail: /new-images/thumbnails/jungle-match-puzzle.png
 urlstr: "jungle-match-puzzle"
 score: "4.1/5  (1987 votes)"
 tags: ["puzzle", "casual", "thinky"]

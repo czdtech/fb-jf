@@ -4,7 +4,7 @@ urlstr: sprunki-eggs-mix
 title: Sprunki Egg's Mix - Jouer à Sprunki Egg's Mix en ligne
 description: "Sprunki Egg's Mix est un jeu de réflexion basé sur des œufs Sprunki aux pouvoirs variés\_: combine‑les intelligemment pour déclencher des réactions en chaîne et résoudre des niveaux toujours plus corsés."
 iframeSrc: 'https://turbowarp.org/1102648676/embed'
-thumbnail: /sprunki-eggs-mix.png
+thumbnail: /new-images/thumbnails/sprunki-eggs-mix.png
 score: 3.9/5  (125 votes)
 tags:
   - sprunki egg

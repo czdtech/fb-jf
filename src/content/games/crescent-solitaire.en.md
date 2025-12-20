@@ -4,7 +4,7 @@ locale: en
 title: "Crescent Solitaire"
 description: "Crescent Solitaire is a relaxing card‑solitaire variant: move cards between crescents to build foundations and clear the tableau."
 iframeSrc: "https://ams.cdn.arkadiumhosted.com/assets/global/game/crescent-solitaire-phaser/"
-thumbnail: "/new-images/crescent-solitaire.jpg"
+thumbnail: /new-images/thumbnails/crescent-solitaire.jpg
 urlstr: "crescent-solitaire"
 score: "4.4/5  (944 votes)"
 tags: ["solitaire", "card"]

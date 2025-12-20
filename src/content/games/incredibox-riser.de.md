@@ -7,7 +7,7 @@ description: >-
   kosmische Tracks mit steigender Spannung und schalte passende Sci-Fi Boni
   frei.
 iframeSrc: 'https://turbowarp.org/966510261/embed'
-thumbnail: /new-images/incredibox-riser.png
+thumbnail: /new-images/thumbnails/incredibox-riser.png
 tags:
   - music
   - electronic

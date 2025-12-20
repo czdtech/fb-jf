@@ -2,7 +2,7 @@
 title: "Getaway Shootout"
 description: "カオスな物理レース＆シューティング：逃走地点までホップして進み、変な武器を手に取り、2人プレイやソロでライバルを出し抜きましょう。"
 iframeSrc: "https://ubg44.github.io/GetawayShootout/"
-thumbnail: "/new-images/getaway-shootout.jpg"
+thumbnail: /new-images/thumbnails/getaway-shootout.jpg
 urlstr: "getaway-shootout"
 score: "4.4/5  (670 votes)"
 tags: ["action", "multiplayer"]

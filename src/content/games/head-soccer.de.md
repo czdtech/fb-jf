@@ -7,7 +7,7 @@ description: >-
   setze Spezialschüsse ein, um deinen Gegner in kurzen, knackigen Partien zu
   übertreffen.
 iframeSrc: 'https://1games.io/game/head-soccer-2024/'
-thumbnail: /new-images/head-soccer.jpg
+thumbnail: /new-images/thumbnails/head-soccer.jpg
 tags:
   - sports
   - soccer

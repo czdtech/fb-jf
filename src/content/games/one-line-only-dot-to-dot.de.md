@@ -7,7 +7,7 @@ description: >-
   einzige Linie, die alle Punkte und Strecken abdeckt, ohne Wege doppelt zu
   laufen.
 iframeSrc: 'https://7n3sql2bqn9eg.h5games.usercontent.goog/v/2br4t62jndh88/'
-thumbnail: /new-images/one-line-only-dot-to-dot.jpg
+thumbnail: /new-images/thumbnails/one-line-only-dot-to-dot.jpg
 tags:
   - puzzle
   - thinky

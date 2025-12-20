@@ -4,7 +4,7 @@ urlstr: slice-master
 title: 《Slice Master》切割大师
 description: 《Slice Master》是一款节奏爽快的切割游戏。控制飞刀或利刃在关卡中不断弹跳、切碎沿途的物体和障碍，享受连击与清屏的快感。
 iframeSrc: 'https://slicemaster.h5games.usercontent.goog/v/0gmp1z65f4pq8/'
-thumbnail: /new-images/slice-master.png
+thumbnail: /new-images/thumbnails/slice-master.jpg
 tags:
   - arcade
   - action

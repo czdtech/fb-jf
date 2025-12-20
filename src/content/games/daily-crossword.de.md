@@ -6,7 +6,7 @@ description: >-
   Daily Crossword liefert dir jeden Tag ein neues Kreuzworträtsel – löse
   horizontale und vertikale Hinweise und fülle das Gitter.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/daily-crossword/'
-thumbnail: /new-images/daily-crossword.jpg
+thumbnail: /new-images/thumbnails/daily-crossword.jpg
 tags:
   - word
   - puzzle

@@ -6,7 +6,7 @@ description: >-
   Backyard Zombie Defense는 뒷마당을 배경으로 몰려오는 좀비 무리를 막는 캐주얼 타워
   디펜스 게임입니다. 포탑을 배치하고 업그레이드하며 물량을 버텨 내세요.
 iframeSrc: 'https://18ivvthj417fo.h5games.usercontent.goog/v/27786m6fltuso/'
-thumbnail: /new-images/backyard-zombie-defense.png
+thumbnail: /new-images/thumbnails/backyard-zombie-defense.png
 tags:
   - tower Defense
   - thinky

@@ -6,7 +6,7 @@ description: >-
   침실을 무대로 한 공포 생존 게임입니다. 문과 옷장, 침대를 오가며 숨소리를
   듣고, 손전등과 문을 적절히 사용해 악몽을 막아야 합니다.
 iframeSrc: 'https://ubg77.github.io/fix/fnaf2/fnaf4.html'
-thumbnail: /new-images/five-nights-at-freddy-4.jpg
+thumbnail: /new-images/thumbnails/five-nights-at-freddy-4.jpg
 tags:
   - horror
   - strategy

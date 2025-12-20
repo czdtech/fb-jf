@@ -4,7 +4,7 @@ locale: en
 title: "OvO Dimensions"
 description: "OvO Dimensions is a challenging 2D platformer that extends the OvO series with new mechanics and obstacles, requiring players to master precise jumps, wall slides, and momentum control to navigate complex levels and achieve fast clear times."
 iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221219/8/index.html"
-thumbnail: "/new-images/ovo-dimensions.jpg"
+thumbnail: /new-images/thumbnails/ovo-dimensions.jpg
 urlstr: "ovo-dimensions"
 score: "4.9/5  (278 votes)"
 tags: ["platformer", "action", "speedrun"]

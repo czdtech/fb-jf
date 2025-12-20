@@ -4,7 +4,7 @@ urlstr: "mahjongg-candy"
 title: "Mahjongg Candy"
 description: "Régale tes yeux et ton esprit avec Mahjongg Candy : ce puzzle d’appariement de tuiles gourmandes te demande de vider le plateau en trouvant des paires identiques de bonbons tout en gérant le temps et ta stratégie."
 iframeSrc: "https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-candy-mahjongg/"
-thumbnail: "/new-images/mahjongg-candy.jpg"
+thumbnail: /new-images/thumbnails/mahjongg-candy.jpg
 tags: ["puzzle", "tile-matching", "mahjong"]
 score: "4.8/5  (1096 votes)"
 developer: ""

@@ -4,7 +4,7 @@ urlstr: incredibox-choir
 title: "Incredibox Choir - 在线玩 Incredibox Choir"
 description: "探索 Incredibox Choir 的和谐世界，这是一款专注于声乐编排和合唱音乐的粉丝 Mod。"
 iframeSrc: 'https://turbowarp.org/1034584392/embed'
-thumbnail: /new-images/incredibox-choir.png
+thumbnail: /new-images/thumbnails/incredibox-choir.png
 tags:
   - music
   - vocal

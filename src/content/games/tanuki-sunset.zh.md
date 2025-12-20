@@ -4,7 +4,7 @@ urlstr: tanuki-sunset
 title: 《Tanuki Sunset》狸猫日落滑板
 description: 《Tanuki Sunset》是一款氛围舒适的长下坡滑板游戏。扮演滑板高手小狸猫，在夕阳公路上一路滑行、飘移与收集物品，享受音乐与风景。
 iframeSrc: 'https://ubg77.github.io/edit/tanuki-sunset/'
-thumbnail: /new-images/tanuki-sunset.jpg
+thumbnail: /new-images/thumbnails/tanuki-sunset.jpg
 tags:
   - skating
   - racing

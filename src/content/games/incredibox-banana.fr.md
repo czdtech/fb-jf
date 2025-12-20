@@ -4,7 +4,7 @@ urlstr: incredibox-banana
 title: "Incredibox Banana"
 description: "Découvre le mod fan‑made « Incredibox Banana » : un thème jungle bourré de mèmes inspiré du jeu VR populaire, avec une palette sonore unique pour créer ton propre mix de singes."
 iframeSrc: "https://turbowarp.org/1108699828/embed"
-thumbnail: /new-images/incredibox-banana.png
+thumbnail: /new-images/thumbnails/incredibox-banana.png
 tags:
   - music
   - rhythm

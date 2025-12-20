@@ -2,7 +2,7 @@
 title: "Billiard Hustlers ビリヤード・ハスラー"
 description: "「Billiard Hustlers」でビリヤードの基礎から応用までマスターしよう。狙いを定め、スピンを操り、手球を完璧にコントロールしてテーブルを支配せよ。"
 iframeSrc: "https://75hivpjsm2230.h5games.usercontent.goog/v/04igpiqnom6k0/"
-thumbnail: "/new-images/billiard-hustlers.jpg"
+thumbnail: /new-images/thumbnails/billiard-hustlers.jpg
 urlstr: "billiard-hustlers"
 score: "4.2/5  (2217 votes)"
 tags: ["sports", "pool"]

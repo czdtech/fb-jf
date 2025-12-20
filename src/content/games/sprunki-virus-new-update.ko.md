@@ -7,7 +7,7 @@ description: >-
   사운드와 어두운 비주얼, 변형된 캐릭터를 활용해 불길한 분위기의 음악을 만드는
   모드입니다. 감각을 자극하는 괴이한 루프를 조합해 색다른 트랙을 만들어 보세요.
 iframeSrc: 'https://turbowarp.org/1104064786/embed'
-thumbnail: /sprunki-virus-new-update.png
+thumbnail: /new-images/thumbnails/sprunki-virus-new-update.png
 tags:
   - sprunki virus new update
 score: 4.0/5  (407 votes)

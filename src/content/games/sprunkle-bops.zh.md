@@ -5,7 +5,7 @@ urlstr: "sprunkle-bops"
 title: "Sprunkle Bops - 在线畅玩 Sprunkle Bops"
 description: "Sprunkle Bops 是热门 Incredibox 音乐混音游戏的粉丝自制扩展版，通过自定义模组、新阶段和独特的游戏元素，带来创意十足的全新体验。"
 iframeSrc: "https://turbowarp.org/1122091658/embed"
-thumbnail: "/sprunklebops.png"
+thumbnail: /new-images/thumbnails/sprunkle-bops.png
 score: "4.3/5  (524 票)"
 tags: ["sprunkle bops", "sprunkle bops online"]
 ---

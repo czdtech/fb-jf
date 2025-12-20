@@ -7,7 +7,7 @@ description: >-
   dieses meme-gefüllten Spiels, in dem du Brainrot-Charaktere wie Skibidi Toilet
   schnappst und Wachen entwischst. Finde Tipps, Strategien und mehr.
 iframeSrc: 'https://st.8games.net/7/8g/igra-ukradi-brejnrot-100-original/'
-thumbnail: /new-images/steal-a-brainrot.webp
+thumbnail: /new-images/thumbnails/steal-a-brainrot.webp
 tags:
   - casual
   - action

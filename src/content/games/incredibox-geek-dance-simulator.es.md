@@ -8,7 +8,7 @@ description: >-
   chiptune de 8 bits y la jugabilidad para crear loops retro al estilo de los
   videojuegos clásicos.
 iframeSrc: 'https://turbowarp.org/904948672/embed'
-thumbnail: /new-images/incredibox-geek-dance-simulator.png
+thumbnail: /new-images/thumbnails/incredibox-geek-dance-simulator.png
 tags:
   - music
   - rhythm

@@ -2,7 +2,7 @@
 title: Slope 2
 description: Slope 2はエンドレスランナーです。ボールを転がして障害物を避け、加速するスピードに対応します。
 iframeSrc: 'https://slope2.h5games.usercontent.goog/v/2j9k5m8h7p3n8/'
-thumbnail: /new-images/slope-2.png
+thumbnail: /new-images/thumbnails/slope-2.jpg
 urlstr: slope-2
 score: 4.4/5  (3234 votes)
 tags:

@@ -7,7 +7,7 @@ description: >-
   jugabilidad adictiva de Fiddlebops, pero remixa por completo la música y
   presenta a la tripulación Sprunki con un estilo totalmente nuevo.
 iframeSrc: 'https://turbowarp.org/1114551059/embed'
-thumbnail: /fiddlebops-sprunkbop.png
+thumbnail: /new-images/thumbnails/fiddlebops-sprunkbop.png
 tags:
   - fiddlebops sprunkbop
 score: 4.1/5  (308 votes)

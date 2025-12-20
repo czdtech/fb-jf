@@ -4,7 +4,7 @@ locale: en
 title: "QWOP Game"
 description: "QWOP is a notoriously difficult physics-based running game where players control a runner's leg muscles using only four keys (Q, W, O, P) to try to run 100 meters without falling."
 iframeSrc: "https://kdata1.com/2020/01/QWOP1/?webgl=true"
-thumbnail: "/new-images/qwop.jpg"
+thumbnail: /new-images/thumbnails/qwop.jpg
 urlstr: "qwop"
 score: "4.7/5  (808 votes)"
 tags: ["physics", "difficulty", "comedy"]

@@ -7,7 +7,7 @@ description: >-
   Gameplay, Steuerung, Tipps und beantwortet häufige Fragen zu diesem kreativen
   Musikspiel.
 iframeSrc: 'https://d21u3ic0kp9e91.cloudfront.net/choir/04/index.html'
-thumbnail: /new-images/choir.jpg
+thumbnail: /new-images/thumbnails/choir.jpg
 tags:
   - casual
   - music

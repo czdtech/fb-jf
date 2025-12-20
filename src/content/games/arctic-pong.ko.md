@@ -6,7 +6,7 @@ description: >-
   Arctic Pong은 북극을 배경으로 한 간단한 퐁 게임입니다. 패들을 움직여 퍽을
   튕겨내고 각도를 조절해 상대보다 더 많은 점수를 따 보세요.
 iframeSrc: 'https://arcticpong.h5games.usercontent.goog/v/1quekndr8ig0o/'
-thumbnail: /new-images/arctic-pong.png
+thumbnail: /new-images/thumbnails/arctic-pong.png
 tags:
   - 2 player
   - casual

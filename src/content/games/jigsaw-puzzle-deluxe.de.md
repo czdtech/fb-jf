@@ -7,7 +7,7 @@ description: >-
   Sammlung schöner Motive und setze sie Teil für Teil zusammen – mit
   unterschiedlichen Schwierigkeitsstufen für Einsteiger und Profis.
 iframeSrc: 'https://jigsawpuzzledeluxe.h5games.usercontent.goog/v/5jfat3ipu2790/'
-thumbnail: /new-images/jigsaw-puzzle-deluxe.png
+thumbnail: /new-images/thumbnails/jigsaw-puzzle-deluxe.png
 tags:
   - puzzle
   - casual

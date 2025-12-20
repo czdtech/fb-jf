@@ -3,7 +3,7 @@ locale: en
 title: "Carrom Clash"
 description: "Experience the classic tabletop game of Carrom on your device! Aim your striker, pocket your pieces, and cover the queen to defeat your opponent in this game of skill and precision."
 iframeSrc: "https://carromclash.h5games.usercontent.goog/v/4pmfd00515bbg/"
-thumbnail: "/new-images/carrom-clash.png"
+thumbnail: /new-images/thumbnails/carrom-clash.png
 urlstr: "carrom-clash"
 score: "4.4/5  (2600 votes)"
 tags: ["sports", "puzzle", "action"]

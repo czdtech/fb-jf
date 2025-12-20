@@ -7,7 +7,7 @@ description: >-
   비워 나가는 게임입니다.
 iframeSrc: >-
   https://omnomconnectxmas.h5games.usercontent.goog/v/88a6b2cf-1027-4490-a613-9a135cf869ce/
-thumbnail: /new-images/om-nom-connect-xmas.jpg
+thumbnail: /new-images/thumbnails/om-nom-connect-xmas.jpg
 tags:
   - puzzle
   - casual

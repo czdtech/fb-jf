@@ -2,7 +2,7 @@
 title: "Head Soccer"
 description: "巨大な頭のキャラクターによる1対1のアーケードサッカー：ジャンプ、シュート、パワーショットを駆使して、短い試合で対戦相手より多く得点しましょう。"
 iframeSrc: "https://1games.io/game/head-soccer-2024/"
-thumbnail: "/new-images/head-soccer.jpg"
+thumbnail: /new-images/thumbnails/head-soccer.jpg
 urlstr: "head-soccer"
 score: "3.9/5  (540 votes)"
 tags: ["sports", "soccer"]

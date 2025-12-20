@@ -4,7 +4,7 @@ locale: en
 title: "Football Legends"
 description: "Arcade soccer duels: play 1v1 or 2v2 with headers, volleys, and special shots, in quick matches or tournaments."
 iframeSrc: "https://webglmath.github.io/football-legends/"
-thumbnail: "/new-images/football-legends.jpg"
+thumbnail: /new-images/thumbnails/football-legends.jpg
 urlstr: "football-legends"
 score: "4.3/5  (222 votes)"
 tags: ["sports", "soccer"]

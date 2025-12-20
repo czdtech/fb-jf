@@ -7,7 +7,7 @@ description: >-
   bolas y torretas automáticas, reinicia con prestigio para conseguir
   multiplicadores y optimiza cada mejora.
 iframeSrc: 'https://ubg98.github.io/IdleBreakout/'
-thumbnail: /new-images/idle-breakout.jpg
+thumbnail: /new-images/thumbnails/idle-breakout.jpg
 tags:
   - idle
   - clicker

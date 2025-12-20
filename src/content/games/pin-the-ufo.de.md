@@ -7,7 +7,7 @@ description: >-
   richtigen Reihenfolge, damit alle bunten Aliens sicher in ihrem Raumschiff
   landen.
 iframeSrc: 'https://pintheufo.h5games.usercontent.goog/v/08ukqv01ac45o/'
-thumbnail: /new-images/pin-the-ufo.jpeg
+thumbnail: /new-images/thumbnails/pin-the-ufo.jpeg
 tags:
   - puzzle
   - casual

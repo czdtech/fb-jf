@@ -7,7 +7,7 @@ description: >-
   점프하며 탈출 지점까지 달리고, 무기 상자를 열어 기상천외한 무기를 집어 들어
   상대를 방해하세요. 1인용과 로컬 2인용을 모두 지원합니다.
 iframeSrc: 'https://ubg44.github.io/GetawayShootout/'
-thumbnail: /new-images/getaway-shootout.jpg
+thumbnail: /new-images/thumbnails/getaway-shootout.jpg
 tags:
   - action
   - multiplayer

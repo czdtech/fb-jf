@@ -6,7 +6,7 @@ description: >-
   在《Climb Man: Walk to the Sky 登天小子》中挑战节奏飞快的爬楼街机玩法。掌握左右阶
   梯切换的节奏，躲开绳索等障碍，完成任务并解锁新角色，冲击最高分。
 iframeSrc: 'https://1muicq0oght78.h5games.usercontent.goog/v/1aim9ophd8cdg/'
-thumbnail: /new-images/climb-man.png
+thumbnail: /new-images/thumbnails/climb-man.png
 tags:
   - action
   - casual

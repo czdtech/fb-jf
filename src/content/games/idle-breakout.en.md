@@ -4,7 +4,7 @@ locale: en
 title: "Idle Breakout"
 description: "Idle + brick‑breaker hybrid: click to smash bricks, buy autonomous balls/turrets, prestige for multipliers, and min‑max upgrades." 
 iframeSrc: "https://ubg98.github.io/IdleBreakout/"
-thumbnail: "/new-images/idle-breakout.jpg"
+thumbnail: /new-images/thumbnails/idle-breakout.jpg
 urlstr: "idle-breakout"
 score: "4.3/5  (1151 votes)"
 tags: ["idle", "clicker"]

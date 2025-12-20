@@ -7,7 +7,7 @@ description: >-
   corrales, guarda las herramientas, repara vallas y devuelve la calma al
   rancho con rutas bien planificadas.
 iframeSrc: 'https://0b9371ju6aitg.h5games.usercontent.goog/v/0f8khbpbtdrg8/'
-thumbnail: /new-images/mess-on-the-ranch.png
+thumbnail: /new-images/thumbnails/mess-on-the-ranch.png
 tags:
   - puzzle
   - casual

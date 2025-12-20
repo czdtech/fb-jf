@@ -6,7 +6,7 @@ description: >-
   Bricks Breaker는 패들을 조종해 공을 튕기며 화면의 벽돌을 모두 깨는 클래식 아케이드 스타일 브레이크아웃 게임입니다. 다양한
   레벨과 파워업으로 끝없는 재미를 제공합니다.
 iframeSrc: 'https://5enjropk1ren8.h5games.usercontent.goog/v/6u5qapt4kt1j8/'
-thumbnail: /new-images/bricks-breaker.jpg
+thumbnail: /new-images/thumbnails/bricks-breaker.jpg
 tags:
   - action
   - casual

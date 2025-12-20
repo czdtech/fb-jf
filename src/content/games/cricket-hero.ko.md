@@ -6,7 +6,7 @@ description: >-
   크리켓 타자로 나서 타이밍을 정확히 맞춰 최대한 많은 런을 기록해 보세요. 간단하지만 중독성 강한 크리켓 타격 게임 Cricket
   Hero입니다.
 iframeSrc: 'https://crickethero.h5games.usercontent.goog/v/7cnfq54s3ilao/'
-thumbnail: /new-images/cricket-hero.jpg
+thumbnail: /new-images/thumbnails/cricket-hero.jpg
 tags:
   - sports
   - action

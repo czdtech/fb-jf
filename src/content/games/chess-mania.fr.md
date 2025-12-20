@@ -4,7 +4,7 @@ urlstr: chess-mania
 title: Chess Mania
 description: "Chess Mania est une version d'échecs riche en options\_: affronte l'IA, teste de nouvelles ouvertures, résous des puzzles et progresse vers le niveau maître."
 iframeSrc: 'https://chessmania.h5games.usercontent.goog/v/3if0hd2c47oo8/'
-thumbnail: /new-images/chess-mania.png
+thumbnail: /new-images/thumbnails/chess-mania.png
 tags:
   - thinky
   - 2 player

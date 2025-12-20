@@ -2,7 +2,7 @@
 title: "Hobo"
 description: "過激なベルトアクション：街のステージを進み、アンロック可能なコンボ、即席の武器、ぶっ飛んだ必殺技で暴れまくりましょう。"
 iframeSrc: "https://ad-freegames.github.io/flash/game/hobo.html"
-thumbnail: "/new-images/hobo.jpg"
+thumbnail: /new-images/thumbnails/hobo.jpg
 urlstr: "hobo"
 score: "4.9/5  (1360 votes)"
 tags: ["fighting", "beat-em-up"]

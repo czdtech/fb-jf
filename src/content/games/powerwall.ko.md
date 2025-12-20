@@ -4,7 +4,7 @@ urlstr: powerwall
 title: Powerwall 파워월
 description: 빠르게 튀어 다니는 공을 에너지 장벽으로 막아내는 아케이드 게임입니다. 정확한 타이밍으로 파워월을 전개해 골라인을 끝까지 지켜 보세요.
 iframeSrc: 'https://powerwall2.h5games.usercontent.goog/v/2744b7jm5t0jg/'
-thumbnail: /new-images/powerwall.png
+thumbnail: /new-images/thumbnails/powerwall.png
 tags:
   - action
   - sports

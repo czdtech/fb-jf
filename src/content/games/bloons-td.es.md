@@ -7,7 +7,7 @@ description: >-
   torres de monos para reventar oleadas de globos invasores (Bloons) antes de
   que superen tus defensas.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/bloons-tower-defense.html'
-thumbnail: /new-images/bloons-td.jpg
+thumbnail: /new-images/thumbnails/bloons-td.jpg
 tags:
   - casual
   - strategy

@@ -6,7 +6,7 @@ description: >-
   Word Connect est un jeu de mots addictif : relie les lettres pour former des
   mots et remplir la grille de mots croisés.
 iframeSrc: 'https://previews.customer.envatousercontent.com/files/309288677/index.html'
-thumbnail: /new-images/word-connect.jpg
+thumbnail: /new-images/thumbnails/word-connect.jpg
 tags:
   - word-game
   - puzzle

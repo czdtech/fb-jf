@@ -6,7 +6,7 @@ description: >-
   Endless Truck 是一款橫版特技跑酷遊戲，你要控制卡車的速度與著陸角度，
   在坡道與斜坡之間做出流暢動作、串起加速，同時收集金錢與升級。
 iframeSrc: 'https://3a73fjju0knmg.h5games.usercontent.goog/v/5ammj72815kno/'
-thumbnail: /new-images/endless-truck.png
+thumbnail: /new-images/thumbnails/endless-truck.png
 tags:
   - car
   - driving

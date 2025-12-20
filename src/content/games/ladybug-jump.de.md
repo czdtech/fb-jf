@@ -6,7 +6,7 @@ description: >-
   Ladybug Jump ist ein fröhlicher Hüpf-Plattformspiel: Time deine Sprünge, reite
   auf beweglichen Blättern und sammle Nektar, während du Gefahren ausweichst.
 iframeSrc: 'https://1rtviun5s8hc0.h5games.usercontent.goog/v/2ajo6kl7ue0a0/'
-thumbnail: /new-images/ladybug-jump.png
+thumbnail: /new-images/thumbnails/ladybug-jump.png
 tags:
   - action
   - casual

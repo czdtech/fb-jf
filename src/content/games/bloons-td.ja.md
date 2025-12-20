@@ -2,7 +2,7 @@
 title: "Bloons TD ブルーンズTD"
 description: "タワーディフェンスの原点にして金字塔『Bloons TD』。モンキー・タワーを配置して、迫りくる Bloon の大群を一つ残らず割り尽くそう。"
 iframeSrc: "https://ad-freegames.github.io/flash/game/bloons-tower-defense.html"
-thumbnail: "/new-images/bloons-td.jpg"
+thumbnail: /new-images/thumbnails/bloons-td.jpg
 urlstr: "bloons-td"
 score: "4.1/5  (812 votes)"
 tags: ["casual", "strategy"]

@@ -4,7 +4,7 @@ locale: en
 title: "Descent"
 description: "Descent is an arcade skill game: navigate downward, avoid hazards, and time movements to reach the goal."
 iframeSrc: "https://g2.igroutka.ru/games/17/4tWRaCD7AOzxbTsE/descent/"
-thumbnail: "/new-images/descent.jpg"
+thumbnail: /new-images/thumbnails/descent.jpg
 urlstr: "descent"
 score: "5.0/5  (1486 votes)"
 tags: ["arcade", "skill"]

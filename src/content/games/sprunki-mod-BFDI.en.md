@@ -6,7 +6,7 @@ description: >-
   reimagines the classic Incredibox Sprunki gameplay by integrating the
   whimsical and object-themed aesthetics of Battle for Dream Island (BFDI).
 iframeSrc: 'https://turbowarp.org/1087434086/embed'
-thumbnail: /sprunki-mod-bfdi.png
+thumbnail: /new-images/thumbnails/sprunki-mod-BFDI.png
 urlstr: sprunki-mod-BFDI
 modType: sprunki
 score: 4.2/5  (347 votes)

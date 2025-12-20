@@ -7,7 +7,7 @@ description: >-
   Explorers! Rüste deine Arbeiter auf, schalte neue Grabungsorte frei und finde
   seltene Artefakte in diesem süchtig machenden Idle-Abenteuer.
 iframeSrc: 'https://5ik68qrla8g6g.h5games.usercontent.goog/v/1vuib5ibuof0g/'
-thumbnail: /new-images/idle-explorers.png
+thumbnail: /new-images/thumbnails/idle-explorers.png
 tags:
   - casual
   - clicker

@@ -7,7 +7,7 @@ description: >-
   보석을 맞바꿔 라인을 만들고, 특수 보석과 연쇄 반응으로
   스테이지 목표를 달성하는 방법을 소개합니다.
 iframeSrc: 'https://0gk3ormb878mg.h5games.usercontent.goog/v/1qgqb91tuaqv0/'
-thumbnail: /new-images/jewel-halloween.png
+thumbnail: /new-images/thumbnails/jewel-halloween.png
 tags:
   - puzzle
   - casual

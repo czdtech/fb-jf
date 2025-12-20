@@ -4,7 +4,7 @@ description: >-
   Mahjongg
   Solitaireでタイルのペアを消しながら盤面をクリアしていく、クラシックな麻雀ソリティアです。
 iframeSrc: 'https://mahjoggsoliatire.h5games.usercontent.goog/v/6k4jlb69s90go/'
-thumbnail: /new-images/mahjongg-solitaire.png
+thumbnail: /new-images/thumbnails/mahjongg-solitaire.jpg
 urlstr: mahjongg-solitaire
 score: 4.6/5  (2900 votes)
 tags:

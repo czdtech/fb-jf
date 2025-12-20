@@ -7,7 +7,7 @@ description: >-
   este juego lleno de memes en el que debes robar personajes brainrot como
   Skibidi Toilet y escapar de los guardias. Incluye consejos, estrategias y más.
 iframeSrc: 'https://st.8games.net/7/8g/igra-ukradi-brejnrot-100-original/'
-thumbnail: /new-images/steal-a-brainrot.webp
+thumbnail: /new-images/thumbnails/steal-a-brainrot.webp
 tags:
   - casual
   - action

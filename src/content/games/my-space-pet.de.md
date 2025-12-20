@@ -7,7 +7,7 @@ description: >-
   eigenes Alien-Haustier, kümmere dich um es, erkunde das All und gestalte sein
   Zuhause ganz nach deinem Geschmack.
 iframeSrc: 'https://6jqt3hoth456g.h5games.usercontent.goog/v/6jqt3hoth456g/'
-thumbnail: /new-images/my-space-pet.png
+thumbnail: /new-images/thumbnails/my-space-pet.png
 tags:
   - casual
   - adventure

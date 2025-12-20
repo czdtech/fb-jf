@@ -7,7 +7,7 @@ description: >-
   讓球在物理場景中飛越障礙，以最少的拋射次數打進球洞。
 iframeSrc: >-
   https://golffling.h5games.usercontent.goog/v/0aa707a3-71a5-4ad8-be9b-32ce55e28d64/
-thumbnail: /new-images/golf-fling.jpg
+thumbnail: /new-images/thumbnails/golf-fling.jpg
 tags:
   - sports
   - puzzle

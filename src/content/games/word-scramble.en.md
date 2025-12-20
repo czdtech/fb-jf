@@ -4,7 +4,7 @@ locale: en
 title: "Word Scramble"
 description: "Unscramble letters and challenge your mind in Word Scramble, a classic word puzzle game! Rearrange jumbled letters to form the correct word within a time limit. Test your vocabulary and quick thinking across various levels and categories in this engaging brain-teaser."
 iframeSrc: "https://ams.cdn.arkadiumhosted.com/assets/global/game/word-scramble/"
-thumbnail: "/new-images/word-scramble.jpg"
+thumbnail: /new-images/thumbnails/word-scramble.jpg
 urlstr: "word-scramble"
 score: "3.5/5  (764 votes)"
 tags: ["word-game", "puzzle", "brain-teaser"]

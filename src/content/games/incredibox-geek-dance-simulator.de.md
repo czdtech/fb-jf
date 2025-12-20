@@ -7,7 +7,7 @@ description: >-
   Dieser Guide erklärt seine 8‑Bit‑Chiptune-Klangwelt und zeigt, wie du eigene
   Retro-Gameloops baust.
 iframeSrc: 'https://turbowarp.org/904948672/embed'
-thumbnail: /new-images/incredibox-geek-dance-simulator.png
+thumbnail: /new-images/thumbnails/incredibox-geek-dance-simulator.png
 tags:
   - music
   - rhythm

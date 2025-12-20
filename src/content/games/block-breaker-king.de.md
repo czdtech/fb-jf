@@ -7,7 +7,7 @@ description: >-
   Tetris‑ähnliche Formen auf dem Raster, räume komplette Reihen und erfülle
   Missionsziele, ohne dir das Brett zu verbauen.
 iframeSrc: 'https://40p3ck71ovs88.h5games.usercontent.goog/v/36e5gjc5plhi8/'
-thumbnail: /new-images/block-breaker-king.png
+thumbnail: /new-images/thumbnails/block-breaker-king.png
 tags:
   - puzzle
   - casual

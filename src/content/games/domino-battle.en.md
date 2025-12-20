@@ -3,7 +3,7 @@ locale: en
 title: "Domino Battle"
 description: "Challenge an opponent in a classic game of Dominoes. Strategically place your tiles, block your opponent, and be the first to empty your hand to win the battle."
 iframeSrc: "https://dominobattle.h5games.usercontent.goog/v/45fvkhcnai3s0/"
-thumbnail: "/new-images/domino-battle.png"
+thumbnail: /new-images/thumbnails/domino-battle.png
 urlstr: "domino-battle"
 score: "4.5/5  (2700 votes)"
 tags: ["card", "puzzle", "thinky"]

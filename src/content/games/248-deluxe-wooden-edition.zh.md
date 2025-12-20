@@ -6,7 +6,7 @@ description: >-
   《248 Deluxe Wooden edition（248
   豪华木质版）》是一款以温润木纹为主题的数字连接合并游戏，一边连线消除、一边规划空间，在安静的节奏里越玩越上头。
 iframeSrc: 'https://0k2rsj4f89nr8.h5games.usercontent.goog/v/03pkkc7ds3qdg/'
-thumbnail: /new-images/248-deluxe-wooden-edition.jpg
+thumbnail: /new-images/thumbnails/248-deluxe-wooden-edition.jpg
 tags:
   - puzzle
   - thinky

@@ -7,7 +7,7 @@ description: >-
   las cartas en orden, despeja filas y planifica varios movimientos por
   adelantado.
 iframeSrc: 'https://0lk0u0jb90plo.h5games.usercontent.goog/v/2rppmab9dqneo/'
-thumbnail: /new-images/addiction-mini.jpg
+thumbnail: /new-images/thumbnails/addiction-mini.jpg
 tags:
   - card
   - puzzle

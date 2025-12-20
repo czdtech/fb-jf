@@ -7,7 +7,7 @@ description: >-
   건설해 함대를 편성하고, 적의 파상 공격을 막으면서 인접 구역을 점령해
   나가야 합니다.
 iframeSrc: 'https://g.igroutka.ru/games/164/8plhaK3IOLoFbVPB/2/galactic_empire/'
-thumbnail: /new-images/galactic-empire.jpg
+thumbnail: /new-images/thumbnails/galactic-empire.jpg
 tags:
   - strategy
   - space

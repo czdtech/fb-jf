@@ -4,7 +4,7 @@ urlstr: tank-trouble
 title: "Tank Trouble - Batallas de tanques multijugador"
 description: "Tank Trouble es un juego de batallas de tanques multijugador en laberintos. Conduce tu tanque por corredores estrechos, dispara proyectiles que rebotan en las paredes y utiliza el escenario para sorprender a tus rivales. Gana siendo el último tanque en pie."
 iframeSrc: "https://www.friv2018.com/games/html5/tank-trouble-2/"
-thumbnail: "/new-images/tank-trouble.jpg"
+thumbnail: /new-images/thumbnails/tank-trouble.jpg
 tags:
   - multiplayer
   - action

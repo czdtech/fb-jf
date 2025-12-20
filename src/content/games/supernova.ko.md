@@ -7,7 +7,7 @@ description: >-
   격추하는 아케이드 스타일 슈팅 게임입니다. 가능한 한 오래 살아남아 최고
   점수를 노려 보세요.
 iframeSrc: 'https://rebemanae.github.io/supernova/'
-thumbnail: /new-images/supernova.jpg
+thumbnail: /new-images/thumbnails/supernova.jpg
 tags:
   - action
   - shooting

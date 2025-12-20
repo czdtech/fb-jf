@@ -7,7 +7,7 @@ description: >-
   zwei fast identische Bilder und finde alle Unterschiede, bevor die Zeit
   abläuft.
 iframeSrc: 'https://findthedifference.h5games.usercontent.goog/v/0tambv0iojsn8/'
-thumbnail: /new-images/find-the-difference.jpg
+thumbnail: /new-images/thumbnails/find-the-difference.jpg
 tags:
   - puzzle
   - casual

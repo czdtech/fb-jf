@@ -7,7 +7,7 @@ description: >-
   Platziere Formen, räume Reihen, nutze Blitz‑ und Eisblöcke geschickt und
   jage deinen Highscore.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/block-champ/'
-thumbnail: /new-images/block-champ.jpg
+thumbnail: /new-images/thumbnails/block-champ.jpg
 tags:
   - puzzle
   - board Game

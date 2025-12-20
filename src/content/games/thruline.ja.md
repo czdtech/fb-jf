@@ -2,7 +2,7 @@
 title: Thruline
 description: Thrulineは、線をつなぐパズルゲームです。すべての点を一筆書きでつなぎましょう。
 iframeSrc: 'https://ubg98.github.io/Thruline/'
-thumbnail: /new-images/thruline.jpg
+thumbnail: /new-images/thumbnails/thruline.jpg
 urlstr: thruline
 score: 4.2/5  (1765 votes)
 tags:

@@ -7,7 +7,7 @@ description: >-
   pogo und ziehe einen Mann im Kessel über surreale Hindernisse – jede kleine
   Unachtsamkeit kann dich weit zurückwerfen.
 iframeSrc: 'https://ubg77.github.io/fix/getting-over-it/'
-thumbnail: /new-images/getting-over-it.jpg
+thumbnail: /new-images/thumbnails/getting-over-it.jpg
 tags:
   - platformer
   - physics

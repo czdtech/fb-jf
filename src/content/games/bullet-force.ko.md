@@ -7,7 +7,7 @@ description: >-
   멀티플레이 1인칭 슈팅(FPS) 게임입니다. 여러 게임 모드에서 전 세계 플레이어와
   싸우거나, 오프라인 봇전으로 실력을 연마해 보세요.
 iframeSrc: 'https://ubg44.github.io/BulletForce/'
-thumbnail: /new-images/bullet-force.jpg
+thumbnail: /new-images/thumbnails/bullet-force.jpg
 tags:
   - action
   - shooting

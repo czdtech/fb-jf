@@ -8,7 +8,7 @@ description: >-
   tablero.
 iframeSrc: >-
   https://ams.cdn.arkadiumhosted.com/assets/global/game/crescent-solitaire-phaser/
-thumbnail: /new-images/crescent-solitaire.jpg
+thumbnail: /new-images/thumbnails/crescent-solitaire.jpg
 tags:
   - solitaire
   - card

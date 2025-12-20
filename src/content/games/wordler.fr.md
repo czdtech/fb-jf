@@ -6,7 +6,7 @@ description: >-
   Wordler est un jeu de déduction quotidien : devine des mots de cinq lettres en
   utilisant les indices de couleur pour affiner tes hypothèses.
 iframeSrc: 'https://30mv2rsaljhjo.h5games.usercontent.goog/v/0hb0g2c5b4m9o/'
-thumbnail: /new-images/wordler.png
+thumbnail: /new-images/thumbnails/wordler.png
 tags:
   - puzzle
   - thinky

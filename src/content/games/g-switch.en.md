@@ -4,7 +4,7 @@ locale: en
 title: "G-Switch"
 description: "One‑button gravity runner: flip gravity to keep running across platforms, avoid gaps and saws, and survive increasing speed." 
 iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221123/5/index.html"
-thumbnail: "/new-images/g-switch.jpg"
+thumbnail: /new-images/thumbnails/g-switch.jpg
 urlstr: "g-switch"
 score: "3.7/5  (1326 votes)"
 tags: ["runner", "platformer"]

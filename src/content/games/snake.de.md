@@ -7,7 +7,7 @@ description: >-
   Schlange, friss Futter, um länger zu werden, und vermeide Kollisionen mit
   Wänden oder deinem eigenen Schwanz, um den Highscore zu knacken.
 iframeSrc: 'https://www.googlesnake.com/snakem.php'
-thumbnail: /new-images/snake.jpg
+thumbnail: /new-images/thumbnails/snake.jpg
 tags:
   - classic
   - arcade

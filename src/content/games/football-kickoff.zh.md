@@ -6,7 +6,7 @@ description: >-
   Football Kickoff 聚焦於美式足球中的特勤組踢球場景——瞄準目標、判讀風向、
   控制力量與落點，爭取最佳場地位置。
 iframeSrc: 'https://30sab7l7n7df0.h5games.usercontent.goog/v/5c7k7dlnf1c5g/'
-thumbnail: /new-images/football-kickoff.jpg
+thumbnail: /new-images/thumbnails/football-kickoff.jpg
 tags:
   - sports
   - casual

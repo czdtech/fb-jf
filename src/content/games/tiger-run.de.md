@@ -4,7 +4,7 @@ urlstr: tiger-run
 title: "Tiger Run"
 description: "Tiger Run ist ein Dschungel‑Endless‑Runner: Laufe, springe und rutsche, um Hindernissen auszuweichen und unterwegs Münzen einzusammeln."
 iframeSrc: 'https://tigerrun.h5games.usercontent.goog/v/1cl0c4rtsjsqo/'
-thumbnail: /new-images/tiger-run.jpeg
+thumbnail: /new-images/thumbnails/tiger-run.jpeg
 tags:
   - action
   - casual

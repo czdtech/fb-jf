@@ -6,7 +6,7 @@ description: >-
   He Likes The Darkness es un plataformas de atmósfera oscura: recorre niveles
   sombríos, recoge orbes y calcula saltos muy precisos entre trampas mortales.
 iframeSrc: 'https://77gr97nn0bej0.h5games.usercontent.goog/v/0emki8kk9qofo/'
-thumbnail: /new-images/he-likes-the-darkness.png
+thumbnail: /new-images/thumbnails/he-likes-the-darkness.png
 tags:
   - action
   - puzzle

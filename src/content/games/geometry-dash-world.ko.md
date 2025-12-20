@@ -7,7 +7,7 @@ description: >-
   두 개의 월드를 달리며 점프와 비행으로 장애물을 피하고, 구슬과 열쇠를 모아
   게이트를 열고 데일리 레벨에 도전해 보세요.
 iframeSrc: 'https://geometrylite.io/game/geometry-dash-world/'
-thumbnail: /new-images/geometry-dash-world.jpg
+thumbnail: /new-images/thumbnails/geometry-dash-world.jpg
 tags:
   - rhythm
   - platformer

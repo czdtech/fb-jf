@@ -4,7 +4,7 @@ urlstr: snake-game
 title: 《Snake Game》经典贪吃蛇
 description: 《Snake Game》是一款复刻经典的贪吃蛇小游戏。控制蛇在方格中移动，吃掉食物让身体不断变长，同时避免撞到墙壁或自己的身体。
 iframeSrc: 'https://snakegameclassic.h5games.usercontent.goog/v/5g71zf4ytjvq0/'
-thumbnail: /new-images/snake-game.jpg
+thumbnail: /new-images/thumbnails/snake-game.jpg
 tags:
   - snake
   - classic

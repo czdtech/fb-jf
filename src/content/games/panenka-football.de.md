@@ -7,7 +7,7 @@ description: >-
   lupfe den Ball gefühlvoll in die Mitte und lies das Verhalten des Torwarts,
   um mit frechen Panenkas zu treffen.
 iframeSrc: 'https://15n5pfdq70ung.h5games.usercontent.goog/v/2ftdtu6n19sk8/'
-thumbnail: /new-images/panenka-football.png
+thumbnail: /new-images/thumbnails/panenka-football.png
 tags:
   - sports
   - soccer

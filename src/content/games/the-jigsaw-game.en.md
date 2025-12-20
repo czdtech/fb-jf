@@ -3,7 +3,7 @@ locale: en
 title: "The Jigsaw Game"
 description: "The Jigsaw Game offers relaxing picture puzzles — sort edges, group colors, and complete artworks piece by piece."
 iframeSrc: "https://2avtkm5bj06f0.h5games.usercontent.goog/v/66fijarm4ldv0/"
-thumbnail: "/new-images/the-jigsaw-game.png"
+thumbnail: /new-images/thumbnails/the-jigsaw-game.png
 urlstr: "the-jigsaw-game"
 score: "4.3/5  (2146 votes)"
 tags: ["puzzle", "thinky", "casual"]

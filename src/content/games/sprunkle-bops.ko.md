@@ -7,7 +7,7 @@ description: >-
   커스텀 페이즈와 새로운 게임 요소를 더해 랩 배틀 형태의 리듬 플레이를
   즐길 수 있게 해 줍니다.
 iframeSrc: 'https://turbowarp.org/1122091658/embed'
-thumbnail: /sprunklebops.png
+thumbnail: /new-images/thumbnails/sprunkle-bops.png
 tags:
   - sprunkle bops
   - sprunkle bops online

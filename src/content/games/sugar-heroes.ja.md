@@ -2,7 +2,7 @@
 title: Sugar Heroes
 description: Sugar Heroesは、甘いキャンディーをマッチするパズルゲームです。3つ以上の同じキャンディーを揃えてレベルをクリアしましょう。
 iframeSrc: 'https://ubg98.github.io/SugarHeroes/'
-thumbnail: /new-images/sugar-heroes.jpg
+thumbnail: /new-images/thumbnails/sugar-heroes.png
 urlstr: sugar-heroes
 score: 4.4/5  (2543 votes)
 tags:

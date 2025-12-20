@@ -2,7 +2,7 @@
 title: "G-Switch"
 description: "ワンボタン重力ランナー：重力を反転させてプラットフォームを渡り続け、ギャップとノコギリを避け、速度上昇を生き延びましょう。"
 iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221123/5/index.html"
-thumbnail: "/new-images/g-switch.jpg"
+thumbnail: /new-images/thumbnails/g-switch.jpg
 urlstr: "g-switch"
 score: "3.7/5  (1326 votes)"
 tags: ["runner", "platformer"]

@@ -4,7 +4,7 @@ urlstr: family-feud
 title: "Family Feud"
 description: "Jeu‑quiz basé sur des sondages : devine les réponses les plus populaires aux questions de la famille à travers plusieurs manches et un final « Fast Money »."
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/family-feud/'
-thumbnail: /new-images/family-feud.jpg
+thumbnail: /new-images/thumbnails/family-feud.jpg
 tags:
   - trivia
   - quiz

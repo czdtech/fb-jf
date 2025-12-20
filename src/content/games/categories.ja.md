@@ -2,7 +2,7 @@
 title: "Categories"
 description: "Categoriesは素早い単語分類の脳トレです。テーマでアイテムをグループ化し、外れ値を推測し、時計を打ち負かしましょう。"
 iframeSrc: "https://1ssgr48qrfod0.h5games.usercontent.goog/v/20nv9be906iho/"
-thumbnail: "/new-images/categories.png"
+thumbnail: /new-images/thumbnails/categories.png
 urlstr: "categories"
 score: "4.0/5  (1855 votes)"
 tags: ["thinky", "puzzle"]

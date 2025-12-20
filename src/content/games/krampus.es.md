@@ -6,7 +6,7 @@ description: >-
   Plataformas de terror navideño: recorre niveles oscuros, evita trampas y
   criaturas y encuentra llaves y objetos para escapar de la guarida de Krampus.
 iframeSrc: 'https://g2.igroutka.ru/lib/crazy/games/krampus1/'
-thumbnail: /new-images/krampus.jpg
+thumbnail: /new-images/thumbnails/krampus.jpg
 tags:
   - horror
   - platformer

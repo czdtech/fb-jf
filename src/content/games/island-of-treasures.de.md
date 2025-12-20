@@ -7,7 +7,7 @@ description: >-
   funkelnde Juwelen, weiche tödlichen Fallen aus und trickse rivalisierende
   Piraten aus, um der reichste Freibeuter der Insel zu werden.
 iframeSrc: 'https://5kvkrsasec6l8.h5games.usercontent.goog/v/7kfn10n6josho/'
-thumbnail: /new-images/island-of-treasures.png
+thumbnail: /new-images/thumbnails/island-of-treasures.png
 tags:
   - action
   - adventure

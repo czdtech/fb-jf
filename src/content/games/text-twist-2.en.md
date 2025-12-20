@@ -4,7 +4,7 @@ locale: en
 title: "Text Twist 2"
 description: "Dive into an expanded word challenge with Text Twist 2! This sequel to the popular word puzzle game offers new modes like Untimed and Crossword, a broader dictionary, and enhanced visuals. Unscramble letters, find the 'Bingo word' to advance and test your vocabulary in this addictive brain-teaser."
 iframeSrc: "https://games.cdn.famobi.com/html5games/t/text-twist-2/v110/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=40935b5f-cfef-4ac2-9179-549869282f4b&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=693&original_ref="
-thumbnail: "/new-images/text-twist-2.jpg"
+thumbnail: /new-images/thumbnails/text-twist-2.jpg
 urlstr: "text-twist-2"
 score: "4.5/5  (761 votes)"
 tags: ["word-game", "puzzle", "brain-teaser"]

@@ -6,7 +6,7 @@ description: >-
   세 장씩 같은 타일을 모아 없애는 트리플 매치 퍼즐 게임 Tile Guru입니다. 제한된 트레이 칸을
   관리하며 쌓이는 타일 더미를 정리해 막히지 않도록 보드를 비우는 것이 목표입니다.
 iframeSrc: 'https://5en3tugq69tdo.h5games.usercontent.goog/v/4pu6to0p0cgrg/'
-thumbnail: /new-images/tile-guru.png
+thumbnail: /new-images/thumbnails/tile-guru.png
 tags:
   - mahjong
   - puzzle

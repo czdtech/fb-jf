@@ -7,7 +7,7 @@ description: >-
   nimm an Events teil, sammle Sterne und Schraubenschlüssel und setze Nitro für
   spektakuläre Sprünge im Browser ein.
 iframeSrc: 'https://g.igroutka.ru/games/164/2afwOT8yZFmeYWGJ/2/crazy_cars/'
-thumbnail: /new-images/crazy-cars.jpg
+thumbnail: /new-images/thumbnails/crazy-cars.jpg
 tags:
   - racing
   - driving

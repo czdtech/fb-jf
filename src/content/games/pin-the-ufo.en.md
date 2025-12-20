@@ -3,7 +3,7 @@ locale: en
 title: "Pin the UFO"
 description: "Master the 'pull the pin' puzzle game, Pin the UFO. This guide provides expert strategies for solving levels by pulling pins in the correct order to guide the colorful aliens safely into their spaceship."
 iframeSrc: "https://pintheufo.h5games.usercontent.goog/v/08ukqv01ac45o/"
-thumbnail: "/new-images/pin-the-ufo.jpeg"
+thumbnail: /new-images/thumbnails/pin-the-ufo.jpeg
 urlstr: "pin-the-ufo"
 score: "3.8/5 (750 votes)"
 tags: ["puzzle", "casual", "strategy"]

@@ -7,7 +7,7 @@ description: >-
   미로 속을 달리며 점과 파워업을 먹고 유령을 피해 다니는 고전 아케이드 경험을 다시
   즐길 수 있는 게임입니다.
 iframeSrc: 'https://pacman-30thanniversary.com/game/doodle-pacman/pacman.html'
-thumbnail: /new-images/pacman-30th-anniversary.jpg
+thumbnail: /new-images/thumbnails/pacman-30th-anniversary.jpg
 tags:
   - arcade
   - classic

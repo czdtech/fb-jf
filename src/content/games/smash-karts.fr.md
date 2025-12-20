@@ -7,7 +7,7 @@ description: >-
   courses survoltées, ramasse des bonus et affronte les autres joueurs sur
   des circuits 3D colorés.
 iframeSrc: 'https://webgltest-17af1.firebaseapp.com/'
-thumbnail: /new-images/smash-karts.jpg
+thumbnail: /new-images/thumbnails/smash-karts.jpg
 tags:
   - racing
   - multiplayer

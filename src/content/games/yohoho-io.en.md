@@ -7,7 +7,7 @@ description: >-
   avoid the shrinking safe zone. Master your sword attacks and dash abilities to
   become the most feared pirate on the high seas!
 iframeSrc: 'https://bitlifeonline.github.io/class16523/yohoho-io/'
-thumbnail: /new-images/yohoho-io.jpg
+thumbnail: /new-images/thumbnails/yohoho-io.jpg
 urlstr: yohoho-io
 score: 5.0/5  (316 votes)
 tags:

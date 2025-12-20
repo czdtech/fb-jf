@@ -3,7 +3,7 @@ title: Sprunkle Bops - Play Sprunkle Bops Online
 description: >-
   Sprunkle BopsはIncredibox系の音楽ミキシングを拡張したファン製Modです。追加のフェーズやサウンド要素で組み合わせを試せます。
 iframeSrc: 'https://turbowarp.org/1097157892/embed'
-thumbnail: /sprunkle-bops.png
+thumbnail: /new-images/thumbnails/sprunkle-bops.png
 urlstr: sprunkle-bops
 score: 4.3/5  (524 votes)
 tags:

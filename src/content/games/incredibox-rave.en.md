@@ -4,7 +4,7 @@ modType: incredibox
 title: "Incredibox Rave"
 description: "Incredibox Rave this guide details its electronic dance music palette, gameplay for creating high-energy tracks, and how to unlock its neon-themed bonuses."
 iframeSrc: "https://turbowarp.org/980794126/embed"
-thumbnail: "/new-images/incredibox-rave.png"
+thumbnail: /new-images/thumbnails/incredibox-rave.png
 urlstr: "incredibox-rave"
 score: "4.7/5 (1888 votes)"
 tags: ["music", "rave", "rhythm"]

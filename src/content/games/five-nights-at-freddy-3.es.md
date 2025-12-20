@@ -7,7 +7,7 @@ description: >-
   cámaras y conductos y reinicia los sistemas que fallen para sobrevivir cada
   noche.
 iframeSrc: 'https://ubg77.github.io/fix/fnaf2/fnaf3.html'
-thumbnail: /new-images/five-nights-at-freddy-3.jpg
+thumbnail: /new-images/thumbnails/five-nights-at-freddy-3.jpg
 tags:
   - horror
   - strategy

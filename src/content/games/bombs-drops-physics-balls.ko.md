@@ -7,7 +7,7 @@ description: >-
   물리 퍼즐 게임입니다. 공이나 폭탄을 떨어뜨려 구조물을 무너뜨리고, 연쇄
   반응을 일으켜 최소한의 드롭으로 목표를 달성해 보세요.
 iframeSrc: 'https://6nhcl6kaecsio.h5games.usercontent.goog/v/09ccnat7ptqs8/'
-thumbnail: /new-images/bombs-drops-physics-balls.jpg
+thumbnail: /new-images/thumbnails/bombs-drops-physics-balls.jpg
 tags:
   - puzzle
   - thinky

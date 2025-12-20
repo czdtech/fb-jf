@@ -7,7 +7,7 @@ description: >-
   erfülle Quests und erweitere dein Königreich mit clever geplanten
   Merge-Ketten.
 iframeSrc: 'https://620tnu7381eao.h5games.usercontent.goog/v/27p309rk86cr8/'
-thumbnail: /new-images/mergest-kingdom.png
+thumbnail: /new-images/thumbnails/mergest-kingdom.png
 tags:
   - puzzle
   - adventure

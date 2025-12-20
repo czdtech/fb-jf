@@ -7,7 +7,7 @@ description: >-
   l’autre, regroupe les couleurs et gère intelligemment tes emplacements vides
   pour résoudre chaque puzzle.
 iframeSrc: 'https://4ajc8tu89od7g.h5games.usercontent.goog/v/49be5kf9v96j0/'
-thumbnail: /new-images/cat-sort-quest.png
+thumbnail: /new-images/thumbnails/cat-sort-quest.png
 tags:
   - puzzle
   - thinky

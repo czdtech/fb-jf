@@ -4,7 +4,7 @@ description: >-
   Mundo Torajo
   Sprunkiはカラフルな音楽作成ゲームです。サウンドをミックスし、キャラクターを選択し、ユニークなビートを作成し、音楽の創造性を楽しみます。
 iframeSrc: 'https://mundotorajosprunki.h5games.usercontent.goog/v/3d81ha9kqm9e0/'
-thumbnail: /new-images/mundo-torajo-sprunki.png
+thumbnail: /new-images/thumbnails/mundo-torajo-sprunki.png
 urlstr: mundo-torajo-sprunki
 score: 4.3/5  (2145 votes)
 tags:

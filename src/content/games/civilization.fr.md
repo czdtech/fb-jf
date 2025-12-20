@@ -8,7 +8,7 @@ description: >-
   stratégie décontracté au rythme agréable.
 iframeSrc: >-
   https://g2.igroutka.ru/games/23/u6OtaIwSh2rBbZQ8/rvvASMiM/05de7c87be654b588b44dfdafeb11312/
-thumbnail: /new-images/civilization.jpg
+thumbnail: /new-images/thumbnails/civilization.jpg
 tags:
   - casual
   - rhythm

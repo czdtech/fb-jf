@@ -4,7 +4,7 @@ urlstr: "mountayonnaise"
 title: "Sprunki Mountayonnaise - Play Sprunki Mountayonnaise Online"
 description: "Sprunki Mountayonnaise est un mod Sprunki étonnamment réjouissant où différents animaux apparaissent selon les effets sonores que tu ajoutes. La rejouabilité est énorme !"
 iframeSrc: "https://turbowarp.org/1135773023/embed"
-thumbnail: "/sprunki-mountayonnaise.png"
+thumbnail: /new-images/thumbnails/mountayonnaise.png
 tags: ["sprunki mountayonnaise", "sprunki mountayonnaise online"]
 score: "4.8/5  (649 votes)"
 ---

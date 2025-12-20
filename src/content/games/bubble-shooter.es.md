@@ -7,7 +7,7 @@ description: >-
   clásico puzle Bubble Shooter. Planifica tus tiros, usa las paredes y derriba
   enormes grupos para lograr una puntuación récord.
 iframeSrc: 'https://www.bubbleshooter-new.com/'
-thumbnail: /new-images/bubble-shooter.jpg
+thumbnail: /new-images/thumbnails/bubble-shooter.jpg
 tags:
   - casual
   - puzzle

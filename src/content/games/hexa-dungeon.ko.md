@@ -6,7 +6,7 @@ description: >-
   육각형 타일을 이어 같은 색을 매치해 공격하는 퍼즐 RPG입니다. 해골과 몬스터가 등장하는 던전에서 긴 체인을 만들어 강력한 스킬 공격을
   날려 보세요.
 iframeSrc: 'https://hexadungeon.h5games.usercontent.goog/v/0j3gttu45n06g/'
-thumbnail: /new-images/hexa-dungeon.png
+thumbnail: /new-images/thumbnails/hexa-dungeon.png
 tags:
   - puzzle
   - action

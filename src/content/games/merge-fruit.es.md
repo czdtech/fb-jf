@@ -7,7 +7,7 @@ description: >-
   controla la altura de la pila y prepara cascadas para lograr puntuaciones
   gigantes.
 iframeSrc: 'https://3eltb7i874s60.h5games.usercontent.goog/v/28f34ighqoh10/'
-thumbnail: /new-images/merge-fruit.png
+thumbnail: /new-images/thumbnails/merge-fruit.png
 tags:
   - puzzle
   - thinky

@@ -3,7 +3,7 @@ locale: en
 title: "Zumba Ocean"
 description: "Dive into a marble-shooting puzzle adventure! Shoot colorful pearls to make matches of three or more and clear the chain before it reaches the shell. A classic and addictive challenge with an ocean theme."
 iframeSrc: "https://zumbaocean.h5games.usercontent.goog/v/1gb65icesunig/"
-thumbnail: "/new-images/zumba-ocean.png"
+thumbnail: /new-images/thumbnails/zumba-ocean.png
 urlstr: "zumba-ocean"
 score: "4.5/5  (2800 votes)"
 tags: ["shooting", "puzzle", "action"]

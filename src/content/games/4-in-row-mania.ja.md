@@ -2,7 +2,7 @@
 title: "4-in-Row Mania フォープラス・マニア"
 description: "「4-in-Row Mania」でクラシックな四目並べを楽しもう。列に4つの駒を揃えるだけのシンプルなルールで、戦略的な対戦が熱いボードゲームです。"
 iframeSrc: "https://8k40409g1s60o.h5games.usercontent.goog/v/1h9mj7q5j6gjg/"
-thumbnail: "/new-images/4-in-row-mania.png"
+thumbnail: /new-images/thumbnails/4-in-row-mania.jpg
 urlstr: "4-in-row-mania"
 score: "4.2/5  (1948 votes)"
 tags: ["board", "puzzle"]

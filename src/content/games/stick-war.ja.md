@@ -2,7 +2,7 @@
 title: Stick War
 description: Stick Warは、戦略とアクションを組み合わせたスティックマンゲームです。軍隊を指揮して敵を倒しましょう。
 iframeSrc: 'https://ubg98.github.io/StickWar/'
-thumbnail: /new-images/stick-war.jpg
+thumbnail: /new-images/thumbnails/stick-war.jpg
 urlstr: stick-war
 score: 4.6/5  (5234 votes)
 tags:

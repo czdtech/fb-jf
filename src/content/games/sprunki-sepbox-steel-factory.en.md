@@ -3,7 +3,7 @@ locale: en
 title: Sprunki x Sepbox Steel Factory - Play Sprunki x Sepbox Steel Factory Online
 description: Sprunki x SepBox Steel Factory is a unique collaboration that combines Sprunki
 iframeSrc: 'https://turbowarp.org/1099071172/embed'
-thumbnail: /sprunki-sepbox-steel-factory.png
+thumbnail: /new-images/thumbnails/sprunki-sepbox-steel-factory.png
 urlstr: sprunki-sepbox-steel-factory
 modType: sprunki
 score: 4.9/5  (509 votes)

@@ -7,7 +7,7 @@ description: >-
   fünfstelliges Wort errätst – Farbhilfen zeigen dir, welche Buchstaben richtig
   sind und an welcher Stelle sie stehen.
 iframeSrc: 'https://ext.minijuegos.com/wordle/'
-thumbnail: /new-images/wordle.jpg
+thumbnail: /new-images/thumbnails/wordle.jpg
 tags:
   - word
   - puzzle

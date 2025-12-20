@@ -7,7 +7,7 @@ description: >-
   Brett, bilde punktestarke Wörter, nutze Bonusfelder und verbinde alle Steine
   zu einer zusammenhängenden Gruppe.
 iframeSrc: 'https://7u583tvdi3f00.h5games.usercontent.goog/v/424maigpuljoo/'
-thumbnail: /new-images/letter-links.png
+thumbnail: /new-images/thumbnails/letter-links.png
 tags:
   - puzzle
   - thinky

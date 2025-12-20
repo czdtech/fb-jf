@@ -2,7 +2,7 @@
 title: "248 Deluxe Wooden edition 248 デラックス：木製エディション"
 description: "「248 デラックス：木製エディション」は、木目調の落ち着いたデザインで楽しむ数字パズルゲームです。同じ数字をつなげてマージし、より大きな数字を作りましょう。"
 iframeSrc: "https://0k2rsj4f89nr8.h5games.usercontent.goog/v/03pkkc7ds3qdg/"
-thumbnail: "/new-images/248-deluxe-wooden-edition.jpg"
+thumbnail: /new-images/thumbnails/248-deluxe-wooden-edition.jpg
 urlstr: "248-deluxe-wooden-edition"
 score: "4.0/5  (1764 votes)"
 tags: ["puzzle", "thinky"]

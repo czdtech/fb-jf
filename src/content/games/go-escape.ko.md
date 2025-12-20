@@ -6,7 +6,7 @@ description: >-
   작은 방들을 차례로 돌파하는 정밀 점프 플랫포머입니다. 함정 패턴을 읽고
   점프 타이밍을 맞춰, 좁은 통로와 장애물을 피해 출구까지 도달하세요.
 iframeSrc: 'https://1muicq0oght78.h5games.usercontent.goog/v/1aim9ophd8cdg/'
-thumbnail: /new-images/go-escape.png
+thumbnail: /new-images/thumbnails/go-escape.png
 tags:
   - puzzle
   - escape

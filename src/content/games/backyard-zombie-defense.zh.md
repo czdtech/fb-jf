@@ -4,7 +4,7 @@ urlstr: backyard-zombie-defense
 title: Backyard Zombie Defense 后院僵尸防线
 description: 《Backyard Zombie Defense（后院僵尸防线）》是一款轻量级塔防游戏，你要在自家后院布置防御塔，合理升级与减速，挡住一波又一波涌来的僵尸。
 iframeSrc: 'https://18ivvthj417fo.h5games.usercontent.goog/v/27786m6fltuso/'
-thumbnail: /new-images/backyard-zombie-defense.png
+thumbnail: /new-images/thumbnails/backyard-zombie-defense.png
 tags:
   - tower Defense
   - thinky

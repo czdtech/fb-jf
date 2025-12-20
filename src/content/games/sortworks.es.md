@@ -7,7 +7,7 @@ description: >-
   reglas, planifica los espacios de buffer y evita bloqueos bajo una presión que
   va en aumento.
 iframeSrc: "https://293f3i461vfvo.h5games.usercontent.goog/v/31blvf8tg44g0/"
-thumbnail: "/new-images/sortworks.png"
+thumbnail: /new-images/thumbnails/sortworks.png
 tags:
   - puzzle
   - thinky

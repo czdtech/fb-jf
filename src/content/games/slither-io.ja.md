@@ -2,7 +2,7 @@
 title: Slither.io
 description: Slither.ioはヘビの成長ゲームです。ペレットを食べて大きくなり、相手を巻き込んで倒しながら上位を目指します。
 iframeSrc: 'https://slitherio.h5games.usercontent.goog/v/3k9j5m8h7p2n8/'
-thumbnail: /new-images/slither-io.png
+thumbnail: /new-images/thumbnails/slither-io.jpg
 urlstr: slither-io
 score: 4.5/5  (4567 votes)
 tags:

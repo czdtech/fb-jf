@@ -8,7 +8,7 @@ description: >-
   diamante. Elige entre múltiples herramientas y rutas, desde el asalto frontal
   hasta el sigilo total, y descubre todos los fails y finales posibles.
 iframeSrc: 'https://bitlifeonline.github.io/stealing-the-diamond/'
-thumbnail: /new-images/stealing-the-diamond.jpg
+thumbnail: /new-images/thumbnails/stealing-the-diamond.jpg
 tags:
   - adventure
   - funny

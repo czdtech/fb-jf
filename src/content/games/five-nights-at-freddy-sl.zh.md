@@ -6,7 +6,7 @@ description: >-
   帶有明顯劇情導向的篇章：在不同房間之間穿梭、完成維護任務，
   監控 Funtime 系列機械玩偶，在腳本式事件中設法活下來。
 iframeSrc: 'https://ubg77.github.io/fix/fnaf2/fnafsl.html'
-thumbnail: /new-images/five-nights-at-freddy-sl.jpg
+thumbnail: /new-images/thumbnails/five-nights-at-freddy-sl.jpg
 tags:
   - horror
   - adventure

@@ -8,7 +8,7 @@ description: >-
   Form.
 iframeSrc: >-
   https://g2.igroutka.ru/games/23/wcIz2a3WYRNKhbuq/rvvASMiM/58925795805842fcbfd7edf67efcd606/
-thumbnail: /new-images/grass-cutter.jpg
+thumbnail: /new-images/thumbnails/grass-cutter.jpg
 tags:
   - puzzle
   - logic

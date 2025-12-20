@@ -4,7 +4,7 @@ urlstr: color-roll-3d
 title: Color Roll 3D
 description: "Color Roll 3D est un puzzle de rouleaux colorés\_: déroule les bandes dans le bon ordre pour reconstituer le motif cible sans chevauchements inutiles."
 iframeSrc: 'https://1hjdl8ff4msl0.h5games.usercontent.goog/v/4qm1c7u2jlvg0/'
-thumbnail: /new-images/color-roll-3d.png
+thumbnail: /new-images/thumbnails/color-roll-3d.png
 tags:
   - puzzle
   - thinky

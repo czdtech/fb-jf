@@ -2,7 +2,7 @@
 title: The Binding of Isaac
 description: The Binding of Isaacは、ローグライクダンジョンクローラーゲームです。ランダムに生成される部屋を探索して生き残りましょう。
 iframeSrc: 'https://ubg98.github.io/TheBindingOfIsaac/'
-thumbnail: /new-images/the-binding-of-isaac.jpg
+thumbnail: /new-images/thumbnails/the-binding-of-isaac.jpg
 urlstr: the-binding-of-isaac
 score: 4.6/5  (4892 votes)
 tags:

@@ -7,7 +7,7 @@ description: >-
   personajes de Sprunki en adorables avatares gatunos y te deja crear mezclas
   musicales llenas de maullidos y estilo felino.
 iframeSrc: 'https://turbowarp.org/1149710266/embed'
-thumbnail: /sprunki-meets-the-cat-spell.png
+thumbnail: /new-images/thumbnails/sprunki-meets-the-cat-spell.png
 tags:
   - sprunki meets the cat spell
   - sprunki meets the cat spell online

@@ -4,7 +4,7 @@ urlstr: boxing-random
 title: "Boxing Random"
 description: "Boxing Random est un jeu de boxe complètement fou basé sur la physique : un seul bouton pour sauter/frapper, des bras qui changent de taille et des rounds aléatoires à gagner en 5 KO."
 iframeSrc: "https://app-197305.games.s3.yandex.net/197305/ymb675rkal3nz409zur9etesdbd74y4d/index.html"
-thumbnail: /new-images/boxing-random.jpg
+thumbnail: /new-images/thumbnails/boxing-random.jpg
 tags:
   - sports
   - physics

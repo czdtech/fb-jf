@@ -6,7 +6,7 @@ description: >-
   Ce bac à sable musical adorable te confie une troupe de bébés Sprunki, chacun
   prêt à ajouter sa voix unique à tes compositions.
 iframeSrc: 'https://turbowarp.org/1110888906/embed'
-thumbnail: /sprunki-babies.png
+thumbnail: /new-images/thumbnails/sprunki-babies.png
 tags:
   - sprunki babies
 score: 4.0/5  (212 votes)

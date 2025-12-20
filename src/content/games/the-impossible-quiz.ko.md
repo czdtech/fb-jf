@@ -6,7 +6,7 @@ description: >-
   The Impossible Quiz는 의도적으로 말도 안 되는 함정과 트릭 문제로 가득한 퀴즈 게임입니다. 상식에만 의존하지 말고, 엉뚱한
   발상과 눈치로 정답을 찾아내야 합니다.
 iframeSrc: 'https://www.crazygames.com/embed/the-impossible-quiz'
-thumbnail: /new-images/the-impossible-quiz.jpg
+thumbnail: /new-images/thumbnails/the-impossible-quiz.jpg
 tags:
   - quiz
   - puzzle

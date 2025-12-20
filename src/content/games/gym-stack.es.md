@@ -7,7 +7,7 @@ description: >-
   puzle 3D adictivo en el que el objetivo es hacer buenos merges sin quedarte
   sin espacio.
 iframeSrc: 'https://gymstack.h5games.usercontent.goog/v/3js1l1d7rdkfg/'
-thumbnail: /new-images/gym-stack.jpeg
+thumbnail: /new-images/thumbnails/gym-stack.jpeg
 tags:
   - action
   - casual

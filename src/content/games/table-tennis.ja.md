@@ -2,7 +2,7 @@
 title: Table Tennis
 description: Table Tennisは、クラシックな卓球ゲームです。パドルをコントロールしてボールを打ち返し、相手を倒しましょう。
 iframeSrc: 'https://ubg98.github.io/TableTennis/'
-thumbnail: /new-images/table-tennis.jpg
+thumbnail: /new-images/thumbnails/table-tennis.png
 urlstr: table-tennis
 score: 4.4/5  (2543 votes)
 tags:

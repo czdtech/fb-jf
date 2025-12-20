@@ -4,7 +4,7 @@ urlstr: word-scramble
 title: "Word Scramble"
 description: "Bringe durcheinandergewürfelte Buchstaben in die richtige Reihenfolge: In Word Scramble musst du das gesuchte Wort so schnell wie möglich aus einem Buchstabenmix zusammensetzen." 
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/word-scramble/'
-thumbnail: /new-images/word-scramble.jpg
+thumbnail: /new-images/thumbnails/word-scramble.jpg
 tags:
   - word-game
   - puzzle

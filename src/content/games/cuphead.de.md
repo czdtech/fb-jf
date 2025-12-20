@@ -6,7 +6,7 @@ description: >-
   Cuphead ist ein schnelles Run-and-Gun-Spiel – meistere präzise Sprünge,
   Dashes und Bossmuster, um die intensiven Kämpfe zu überleben.
 iframeSrc: 'https://bitlifeonline.github.io/cuphead/'
-thumbnail: /new-images/cuphead.jpg
+thumbnail: /new-images/thumbnails/cuphead.jpg
 tags:
   - action
   - platformer

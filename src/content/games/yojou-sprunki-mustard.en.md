@@ -5,7 +5,7 @@ description: >-
   Yojou Sprunki Mustard, this parody Mod, completely subverts the Sprunki world,
   with all characters being eroded by a mysterious
 iframeSrc: 'https://turbowarp.org/1153723334/embed'
-thumbnail: /yojou-sprunki-mustard.png
+thumbnail: /new-images/thumbnails/yojou-sprunki-mustard.png
 urlstr: yojou-sprunki-mustard
 modType: sprunki
 score: 4.5/5  (322 votes)

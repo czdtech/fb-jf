@@ -6,7 +6,7 @@ description: >-
   고전 휴대폰으로 익숙한 뱀 게임입니다. 먹이를 먹어 몸을 늘려 가며,
   벽이나 자기 몸에 부딪히지 않고 최고 점수를 노려 보세요.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/snake/'
-thumbnail: /new-images/snake-game.jpg
+thumbnail: /new-images/thumbnails/snake-game.jpg
 tags:
   - classic
   - arcade

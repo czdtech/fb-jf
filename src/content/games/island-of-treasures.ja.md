@@ -2,7 +2,7 @@
 title: "Island Of Treasures"
 description: "海賊をテーマにした3Dエンドレスランナーです。宝石やコインを集め、罠や障害物を避けながら島を走り抜けます。"
 iframeSrc: "https://5kvkrsasec6l8.h5games.usercontent.goog/v/7kfn10n6josho/"
-thumbnail: "/new-images/island-of-treasures.png"
+thumbnail: /new-images/thumbnails/island-of-treasures.png
 urlstr: "island-of-treasures"
 score: "4.3/5  (2200 votes)"
 tags: ["action", "adventure", "casual"]

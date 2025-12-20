@@ -5,7 +5,7 @@ urlstr: "sprunki-babies"
 title: "Sprunki Babies - 在线玩 Sprunki Babies"
 description: "这款迷人的音乐沙盒游戏让你掌控一群可爱的 Sprunki 宝宝角色，每个角色都准备好为你的作品贡献独特的音乐声音。"
 iframeSrc: "https://turbowarp.org/1110888906/embed"
-thumbnail: "/sprunki-babies.png"
+thumbnail: /new-images/thumbnails/sprunki-babies.png
 score: "4.0/5  (212 票)"
 tags: ["sprunki babies"]
 ---

@@ -6,7 +6,7 @@ description: >-
   Reversi Mania lleva el clásico Othello a tu navegador: flanquea fichas, toma
   las esquinas y gana con un final de partida bien calculado.
 iframeSrc: "https://reversimania.h5games.usercontent.goog/v/7rhqf6sl8lpf0/"
-thumbnail: "/new-images/reversi-mania.png"
+thumbnail: /new-images/thumbnails/reversi-mania.png
 tags:
   - 2 player
   - thinky

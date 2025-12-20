@@ -3,7 +3,7 @@ locale: en
 title: "My Space Pet"
 description: "Embark on an interstellar adventure with My Space Pet! Adopt and care for your very own alien creature, explore the galaxy, and customize your pet's home."
 iframeSrc: "https://6jqt3hoth456g.h5games.usercontent.goog/v/6jqt3hoth456g/"
-thumbnail: "/new-images/my-space-pet.png"
+thumbnail: /new-images/thumbnails/my-space-pet.png
 urlstr: "my-space-pet"
 score: "4.0/5  (1876 votes)"
 tags: ["casual", "adventure", "simulation"]

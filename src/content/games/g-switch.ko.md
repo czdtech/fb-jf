@@ -7,7 +7,7 @@ description: >-
   점점 빨라지는 가운데, 구멍과 톱날을 피하며 최대한 오래 버티는 것이 목표입니다.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221123/5/index.html
-thumbnail: /new-images/g-switch.jpg
+thumbnail: /new-images/thumbnails/g-switch.jpg
 tags:
   - runner
   - platformer

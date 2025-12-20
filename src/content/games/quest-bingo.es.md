@@ -7,7 +7,7 @@ description: >-
   retos, completa misiones, usa potentes boosters y recoge piezas de puzle en
   esta versión moderna del clásico.
 iframeSrc: "https://52nk212336l1g.h5games.usercontent.goog/v/0smbj5p2kjk78/"
-thumbnail: "/new-images/quest-bingo.png"
+thumbnail: /new-images/thumbnails/quest-bingo.png
 tags:
   - card
   - puzzle

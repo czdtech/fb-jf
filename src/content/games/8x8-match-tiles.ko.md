@@ -6,7 +6,7 @@ description: >-
   8x8 Match Tiles는 8x8 보드에서 같은 타일을 짝지어 없애는 퍼즐 게임입니다.
   제한된 공간을 관리하며 보드를 정리해 보세요.
 iframeSrc: 'https://75njrrvim9kq0.h5games.usercontent.goog/v/1v57mtiv2ele0/'
-thumbnail: /new-images/8x8-match-tiles.jpg
+thumbnail: /new-images/thumbnails/8x8-match-tiles.jpg
 tags:
   - puzzle
   - thinky

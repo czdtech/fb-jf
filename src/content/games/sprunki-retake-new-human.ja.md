@@ -3,7 +3,7 @@ title: "Sprunki Retake New Human \U0001F525 Play Sprunki Retake New Human Online
 description: >-
   Sprunki Retake New Humanはヒューマノイド風キャラクターで遊べるSprunki系Modです。Incredibox系の遊び方で音を重ねてトラックを作れます。
 iframeSrc: 'https://turbowarp.org/1117877085/embed'
-thumbnail: /sprunki-retake-new-human.png
+thumbnail: /new-images/thumbnails/sprunki-retake-new-human.png
 urlstr: sprunki-retake-new-human
 score: 4.0/5  (829 votes)
 tags:

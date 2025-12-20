@@ -2,7 +2,7 @@
 title: "Rock Paper Scissors Dojo"
 description: "Rock Paper Scissors Dojoはじゃんけんを題材にした対戦ゲームです。相手の癖を読みながら手を選び、勝利を重ねます。"
 iframeSrc: "https://rockpaperscissorsdojo.h5games.usercontent.goog/v/2j9k5m8h7p3n8/"
-thumbnail: "/new-images/rock-paper-scissors-dojo.png"
+thumbnail: /new-images/thumbnails/rock-paper-scissors-dojo.png
 urlstr: "rock-paper-scissors-dojo"
 score: "3.9/5  (1623 votes)"
 tags: ["casual", "2 player"]

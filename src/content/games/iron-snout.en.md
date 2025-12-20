@@ -4,7 +4,7 @@ locale: en
 title: "Iron Snout"
 description: "Kung‑fu pig brawler: parry wolves, juggle with kicks, and throw back weapons to survive waves and set high scores." 
 iframeSrc: "https://webglmath.github.io/iron-snout/"
-thumbnail: "/new-images/iron-snout.jpg"
+thumbnail: /new-images/thumbnails/iron-snout.jpg
 urlstr: "iron-snout"
 score: "4.3/5  (842 votes)"
 tags: ["fighting", "arcade"]

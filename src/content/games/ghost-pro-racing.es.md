@@ -7,7 +7,7 @@ description: >-
   fantasma, perfecciona tus trazadas y rebaja décimas con entradas consistentes
   en cada vuelta.
 iframeSrc: 'https://52v00umba6lko.h5games.usercontent.goog/v/46gechg282a6g/'
-thumbnail: /new-images/ghost-pro-racing.jpg
+thumbnail: /new-images/thumbnails/ghost-pro-racing.jpg
 tags:
   - car
   - driving

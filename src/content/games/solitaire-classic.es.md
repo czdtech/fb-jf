@@ -7,7 +7,7 @@ description: >-
   Klondike. Mueve todas las cartas a las pilas de fundación, de As a Rey, para
   ganar.
 iframeSrc: "https://solitaireclassic.h5games.usercontent.goog/v/7sbt28mppqim8/"
-thumbnail: "/new-images/solitaire-classic.png"
+thumbnail: /new-images/thumbnails/solitaire-classic.png
 tags:
   - card
   - puzzle

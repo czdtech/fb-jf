@@ -4,7 +4,7 @@ locale: en
 title: "Low's Adventures 3"
 description: "Retro platformer trilogy entry: tighter jumps, new gimmick blocks, and more secrets across compact stages." 
 iframeSrc: "https://previews.customer.envatousercontent.com/files/480663659/index.html"
-thumbnail: "/new-images/lows-adventures-3.jpg"
+thumbnail: /new-images/thumbnails/lows-adventures-3.jpg
 urlstr: "lows-adventures-3"
 score: "4.1/5  (570 votes)"
 tags: ["platformer", "adventure"]

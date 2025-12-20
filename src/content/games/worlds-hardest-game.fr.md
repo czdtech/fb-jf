@@ -6,7 +6,7 @@ description: >-
   World's Hardest Game est un jeu d'adresse culte : déplace un petit carré rouge
   à travers des niveaux remplis d'ennemis et d'obstacles sans te faire toucher.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/the-worlds-hardest-game.html'
-thumbnail: /new-images/worlds-hardest-game.jpg
+thumbnail: /new-images/thumbnails/worlds-hardest-game.jpg
 tags:
   - difficulty
   - arcade

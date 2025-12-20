@@ -7,7 +7,7 @@ description: >-
   abierta, completa eventos, recoge estrellas y llaves inglesas, y realiza
   saltos espectaculares con nitro directamente en tu navegador.
 iframeSrc: 'https://g.igroutka.ru/games/164/2afwOT8yZFmeYWGJ/2/crazy_cars/'
-thumbnail: /new-images/crazy-cars.jpg
+thumbnail: /new-images/thumbnails/crazy-cars.jpg
 tags:
   - racing
   - driving

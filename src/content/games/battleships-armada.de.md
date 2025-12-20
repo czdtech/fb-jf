@@ -7,7 +7,7 @@ description: >-
   Schiffe‑Versenken. Platziere deine Flotte klug auf dem Raster und finde mit
   systematischen Schüssen die gegnerische Armada, bevor deine untergeht.
 iframeSrc: 'https://3hcluun64uid0.h5games.usercontent.goog/v/0op00pgc2n4kg/'
-thumbnail: /new-images/battleships-armada.png
+thumbnail: /new-images/thumbnails/battleships-armada.png
 tags:
   - puzzle
   - strategy

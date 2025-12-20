@@ -4,7 +4,7 @@ urlstr: sprunki-craft
 title: Sprunki Craft - Jouer à Sprunki Craft en ligne
 description: "Sprunki Craft est la rencontre parfaite entre Minecraft et Incredibox\_: utilise des personnages inspirés de l’univers Minecraft pour composer des morceaux originaux dans le style Sprunki."
 iframeSrc: 'https://www.minijuegos.com/embed/sprunki-craft'
-thumbnail: /sprunki-craft.jpg
+thumbnail: /new-images/thumbnails/sprunki-craft.jpg
 score: 4.9/5  (724 votes)
 tags:
   - sprunki craft

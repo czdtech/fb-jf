@@ -7,7 +7,7 @@ description: >-
   Schießbuden-Spiel. Tippe im perfekten Moment, um Flaschen zu treffen, während
   sich deine Waffe dreht – aber halte dich von den roten Flaschen fern!
 iframeSrc: 'https://aktestgunsandbottles.h5games.usercontent.goog/v/51pcsm84fc4ag/'
-thumbnail: /new-images/guns-n-bottles.png
+thumbnail: /new-images/thumbnails/guns-n-bottles.png
 tags:
   - shooting
   - action

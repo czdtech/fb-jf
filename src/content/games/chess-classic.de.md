@@ -7,7 +7,7 @@ description: >-
   verschiedenen Schwierigkeitsstufen und verbessere Schritt für Schritt dein
   Können.
 iframeSrc: 'https://chessclassic.h5games.usercontent.goog/v/7hf0vulane380/'
-thumbnail: /new-images/chess-classic.png
+thumbnail: /new-images/thumbnails/chess-classic.png
 tags:
   - thinky
   - 2 player

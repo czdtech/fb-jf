@@ -8,7 +8,7 @@ description: >-
   volando.
 iframeSrc: >-
   https://golffling.h5games.usercontent.goog/v/0aa707a3-71a5-4ad8-be9b-32ce55e28d64/
-thumbnail: /new-images/golf-fling.jpg
+thumbnail: /new-images/thumbnails/golf-fling.jpg
 tags:
   - sports
   - puzzle

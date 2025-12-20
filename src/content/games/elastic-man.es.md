@@ -6,7 +6,7 @@ description: >-
   Elastic Man es un juguete interactivo: estira, pellizca y aplasta una cara
   elástica con físicas divertidas.
 iframeSrc: 'https://d21u3ic0kp9e91.cloudfront.net/elasticman/0/index.html'
-thumbnail: /new-images/elastic-man.jpg
+thumbnail: /new-images/thumbnails/elastic-man.jpg
 tags:
   - simulation
   - toy

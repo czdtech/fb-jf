@@ -4,7 +4,7 @@ urlstr: bubble-shooter-hd
 title: Bubble Shooter HD 高清泡泡射手
 description: 《Bubble Shooter HD 高清泡泡射手》是高清重制版经典泡泡龙，瞄准发射泡泡，与同色泡泡连成三个及以上即可消除 全盘。
 iframeSrc: 'https://695vevup4pmu0.h5games.usercontent.goog/v/7ptf20o9mjr48/'
-thumbnail: /new-images/bubble-shooter-hd.png
+thumbnail: /new-images/thumbnails/bubble-shooter-hd.png
 tags:
   - puzzle
   - casual

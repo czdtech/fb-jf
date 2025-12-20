@@ -2,7 +2,7 @@
 title: "AYOCS Sprunkr AYOCS スプランカー"
 description: "AYOCS Sprunkrで音楽制作をスタイリッシュに進化させよう！おしゃれな新キャラ、洗練されたビジュアル、そして新しいサウンドで、Sprunkiの世界を一新するModが登場。"
 iframeSrc: "https://turbowarp.org/1114188520/embed"
-thumbnail: "/ayocs-sprunkr.png"
+thumbnail: /new-images/thumbnails/ayocs-sprunkr.png
 urlstr: "ayocs-sprunkr"
 score: "4.1/5  (54 votes)"
 tags: ["ayocs sprunkr"]

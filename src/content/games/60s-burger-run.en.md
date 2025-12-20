@@ -6,7 +6,7 @@ description: >-
   where your main goal is to reach a closing burger shop within a strict
   60-second time limit!
 iframeSrc: 'https://www.playfiddlebops.com/embed/60s-burger-run/index.html'
-thumbnail: /60s-burger-run.jpg
+thumbnail: /new-images/thumbnails/60s-burger-run.jpg
 urlstr: 60s-burger-run
 sidebarPopular: 3
 score: 4.6/5  (1344 votes)

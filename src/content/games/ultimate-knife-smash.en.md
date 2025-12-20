@@ -3,7 +3,7 @@ locale: en
 title: "Ultimate Knife Smash"
 description: "Ultimate Knife Smash is a quick‑reflex thrower — time stabs, avoid hitting knives, and break targets cleanly."
 iframeSrc: "https://ultimateknifesmash.h5games.usercontent.goog/v/5ifrmqkiihdj0/"
-thumbnail: "/new-images/ultimate-knife-smash.png"
+thumbnail: /new-images/thumbnails/ultimate-knife-smash.png
 urlstr: "ultimate-knife-smash"
 score: "4.0/5  (1749 votes)"
 tags: ["action", "casual"]

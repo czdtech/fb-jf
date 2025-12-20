@@ -7,7 +7,7 @@ description: >-
   'Krampus' 가이드입니다. 어두운 던전을 탐색하며 함정과 괴물을
   피해 열쇠와 아이템을 찾아 탈출하세요.
 iframeSrc: 'https://g2.igroutka.ru/lib/crazy/games/krampus1/'
-thumbnail: /new-images/krampus.jpg
+thumbnail: /new-images/thumbnails/krampus.jpg
 tags:
   - horror
   - platformer

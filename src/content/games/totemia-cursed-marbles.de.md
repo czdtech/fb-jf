@@ -7,7 +7,7 @@ description: >-
   Schieße farbige Kugeln aus deinem Tiki‑Stein, bilde Dreier‑Kombos und zerstöre
   die Kugelkette, bevor sie das Ziel erreicht.
 iframeSrc: 'https://totemiacursed.h5games.usercontent.goog/v/2hs7lfvsisr48/'
-thumbnail: /new-images/totemia-cursed-marbles.png
+thumbnail: /new-images/thumbnails/totemia-cursed-marbles.png
 tags:
   - shooting
   - puzzle

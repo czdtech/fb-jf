@@ -5,7 +5,7 @@ description: >-
   Incredibox Donki Abgerny infuses deep tribal rhythms, unique didgeridoos, and
   soulful chants into the classic Incredibox gameplay.
 iframeSrc: 'https://turbowarp.org/1135326100/embed'
-thumbnail: /incredibox-donki-abgerny.png
+thumbnail: /new-images/thumbnails/incredibox-donki-abgerny.png
 urlstr: incredibox-donki-abgerny
 modType: incredibox
 score: 4.3/5  (154 votes)

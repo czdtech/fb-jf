@@ -2,7 +2,7 @@
 title: "Brain Test 2: Tricky Stories 脳トレテスト2：トリッキーストーリー"
 description: "「Brain Test 2: Tricky Stories」をプレイする絶好のチャンスです。このゲームを存分にお楽しみください！"
 iframeSrc: "https://bitlifeonline.github.io/brain-test-2-tricky-stories/"
-thumbnail: "/new-images/2-tricky-stories.jpg"
+thumbnail: /new-images/thumbnails/2-tricky-stories.jpg
 urlstr: "2-tricky-stories"
 score: "4.0/5  (1166 votes)"
 tags: ["casual", "rhythm"]

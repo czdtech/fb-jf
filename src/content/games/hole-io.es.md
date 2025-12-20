@@ -6,7 +6,7 @@ description: >-
   Brawler .io de ciudad devorada: mueve un agujero negro para tragar objetos,
   crecer de tamaño y superar o eliminar a tus rivales en el mapa.
 iframeSrc: 'https://holeio.com/'
-thumbnail: /new-images/hole-io.jpg
+thumbnail: /new-images/thumbnails/hole-io.jpg
 tags:
   - io
   - arcade

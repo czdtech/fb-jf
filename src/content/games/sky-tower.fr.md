@@ -7,7 +7,7 @@ description: >-
   aligner les étages, limiter les débords et construire la tour la plus haute
   et la plus propre possible.
 iframeSrc: 'https://11bhsd7s4hdbg.h5games.usercontent.goog/v/7a58l0501ebp8/'
-thumbnail: /new-images/sky-tower.png
+thumbnail: /new-images/thumbnails/sky-tower.png
 tags:
   - puzzle
   - thinky

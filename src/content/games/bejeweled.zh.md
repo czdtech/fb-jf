@@ -6,7 +6,7 @@ description: >-
   《Bejeweled 宝石迷阵》是三消类休闲游戏的开山之作，交换相邻宝石，连成三颗或以上即可消除，触发连锁反应
   和特殊宝石，体验极易上手却高度上瘾的消除节奏。
 iframeSrc: 'https://files.acticdn.com/278374/30464/index.html'
-thumbnail: /bejeweled.png
+thumbnail: /new-images/thumbnails/bejeweled.png
 tags:
   - bejeweled
 score: 4.8/5  (654 votes)

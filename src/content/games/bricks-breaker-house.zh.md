@@ -4,7 +4,7 @@ urlstr: bricks-breaker-house
 title: Bricks Breaker House 打砖块小屋
 description: 《Bricks Breaker House》是一款以“装修小屋”为主题的打砖块游戏，通过每一关消除砖块获取星星和金币，逐步解锁 房间与家具装饰。
 iframeSrc: 'https://6223mpudgokdc.h5games.usercontent.goog/v/5r95vjlsg9ba8/'
-thumbnail: /new-images/bricks-breaker-house.jpg
+thumbnail: /new-images/thumbnails/bricks-breaker-house.png
 tags:
   - puzzle
   - casual

@@ -7,7 +7,7 @@ description: >-
   모드입니다. 헤어, 표정, 의상, 색상을 마음껏 조합해 나만의 오리지널 Sprunki를
   만들어 보세요.
 iframeSrc: 'https://www.playfiddlebops.com/embed/sprunki-marker/index.html'
-thumbnail: /sprunki-maker.png
+thumbnail: /new-images/thumbnails/sprunki-maker.png
 tags:
   - sprunki maker (big update)
   - sprunki maker (big update) online

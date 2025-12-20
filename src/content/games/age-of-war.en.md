@@ -4,7 +4,7 @@ locale: en
 title: "Age of War"
 description: "iscover the ultimate guide to Age of War, the classic strategy game. Learn winning strategies, controls, and tips to evolve your army from cavemen to future warriors and dominate the battlefield."
 iframeSrc: "https://app-196716.games.s3.yandex.net/196716/h5h3xwa1kxsz7wcma59tvvmko0zorc80/index.html"
-thumbnail: "/new-images/age-of-war.jpg"
+thumbnail: /new-images/thumbnails/age-of-war.jpg
 urlstr: "age-of-war"
 score: "4.5/5  (525 votes)"
 tags: ["strategy", "action"]

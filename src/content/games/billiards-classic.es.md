@@ -6,7 +6,7 @@ description: >-
   Billiards Classic trae el clásico billar de 8 bolas a tu pantalla. Apunta,
   aplica efecto y emboca tu grupo de bolas antes de meter la negra para ganar.
 iframeSrc: 'https://billiardsclassic.h5games.usercontent.goog/v/27m4mvjv84l70/'
-thumbnail: /new-images/billiards-classic.png
+thumbnail: /new-images/thumbnails/billiards-classic.png
 tags:
   - sports
   - puzzle

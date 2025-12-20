@@ -6,7 +6,7 @@ description: >-
   經典 Klondike 接龍玩法：將牌按花色從 A 排到 K 建立基礎堆，
   利用紅黑相間遞減的桌面牌列來移動與整理整副牌。
 iframeSrc: 'https://www.google.com/logos/fnbx/solitaire/standalone.html'
-thumbnail: /new-images/google-solitaire.jpg
+thumbnail: /new-images/thumbnails/google-solitaire.jpg
 tags:
   - solitaire
   - card

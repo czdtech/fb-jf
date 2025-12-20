@@ -2,7 +2,7 @@
 title: "Go Escape"
 description: "Go Escapeは精密な脱出プラットフォーマーです。ジャンプのタイミングを計り、罠を読み、コンパクトな部屋の中の安全なルートを通り抜けましょう。"
 iframeSrc: "https://1muicq0oght78.h5games.usercontent.goog/v/1aim9ophd8cdg/"
-thumbnail: "/new-images/go-escape.png"
+thumbnail: /new-images/thumbnails/go-escape.png
 urlstr: "go-escape"
 score: "4.0/5  (1833 votes)"
 tags: ["puzzle", "escape", "action"]

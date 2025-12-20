@@ -7,7 +7,7 @@ description: >-
   slime, absorbe desde coches hasta edificios enteros y cómete a los jugadores
   más pequeños para convertirte en el limo más grande de la ciudad.
 iframeSrc: "https://slime-io.h5games.usercontent.goog/v/3p2ufrjemduhg/"
-thumbnail: "/new-images/slime-io.png"
+thumbnail: /new-images/thumbnails/slime-io.png
 tags:
   - action
   - casual

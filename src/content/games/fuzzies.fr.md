@@ -5,7 +5,7 @@ title: "Fuzzies"
 description: "Bubble shooter de couleurs : vise et fais éclater les Fuzzies en associant les teintes, utilise les boosters et empêche le mur de toucher le bas de l’écran."
 iframeSrc: >-
   https://games.cdn.famobi.com/html5games/f/fuzzies/v130/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=664712c7-d01a-494a-bddf-4ea78f48e5bb&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=662&original_ref=
-thumbnail: /new-images/fuzzies.jpg
+thumbnail: /new-images/thumbnails/fuzzies.jpg
 tags:
   - puzzle
   - match-3

@@ -3,7 +3,7 @@ locale: en
 title: "Sushi Grab"
 description: "Sushi Grab is a speedy arcade picker — snag the right sushi, avoid traps, and hit score targets."
 iframeSrc: "https://sushigrab.h5games.usercontent.goog/v/0ehlec2inmmrg/"
-thumbnail: "/new-images/sushi-grab.png"
+thumbnail: /new-images/thumbnails/sushi-grab.png
 urlstr: "sushi-grab"
 score: "3.9/5  (1602 votes)"
 tags: ["casual", "thinky"]

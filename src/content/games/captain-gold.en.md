@@ -3,7 +3,7 @@ locale: en
 title: "Captain Gold"
 description: "Captain Gold is a classic gold‑miner challenge — time throws, hook valuables, and avoid rocks to hit quotas."
 iframeSrc: "https://5djvqvgrgqc0o.h5games.usercontent.goog/v/58gqt26rjid7o/"
-thumbnail: "/new-images/captain-gold.png"
+thumbnail: /new-images/thumbnails/captain-gold.png
 urlstr: "captain-gold"
 score: "3.9/5  (1683 votes)"
 tags: ["casual", "thinky"]

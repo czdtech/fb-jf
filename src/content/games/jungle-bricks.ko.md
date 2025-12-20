@@ -6,7 +6,7 @@ description: >-
   숫자가 적힌 블록을 맞춰 없애는 브릭 브레이커 게임 'Jungle Bricks' 가이드입니다. 각도와 튕김을 활용해 블록이 바닥에 닿기 전에
   효율적으로 보드를 정리해 보세요.
 iframeSrc: 'https://0gt5ae21ln70o.h5games.usercontent.goog/v/0762mjie8e8s0/'
-thumbnail: /new-images/jungle-bricks.png
+thumbnail: /new-images/thumbnails/jungle-bricks.png
 tags:
   - puzzle
   - shooting

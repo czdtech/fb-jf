@@ -2,7 +2,7 @@
 title: "G-Switch 3"
 description: "新しいトラップと、タイミングと一貫性をテストする強固なローカルマルチプレイヤーモードを備えた、高速重力ランナーです。"
 iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221121/2/index.html"
-thumbnail: "/new-images/g-switch-3.jpg"
+thumbnail: /new-images/thumbnails/g-switch-3.jpg
 urlstr: "g-switch-3"
 score: "4.7/5  (801 votes)"
 tags: ["runner", "platformer"]

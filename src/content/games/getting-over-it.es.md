@@ -7,7 +7,7 @@ description: >-
   cazuela por obstáculos surrealistas; una física muy precisa castiga cualquier
   impaciencia.
 iframeSrc: 'https://ubg77.github.io/fix/getting-over-it/'
-thumbnail: /new-images/getting-over-it.jpg
+thumbnail: /new-images/thumbnails/getting-over-it.jpg
 tags:
   - platformer
   - physics

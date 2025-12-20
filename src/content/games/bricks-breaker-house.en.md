@@ -3,7 +3,7 @@ locale: en
 title: "Bricks Breaker House"
 description: "Bricks Breaker House adds cozy themes to brick‑breaking — craft angles, juggle power‑ups, and keep the house standing."
 iframeSrc: "https://1s6hqqts5ko6o.h5games.usercontent.goog/v/7n8ge2nvqqksg/"
-thumbnail: "/new-images/bricks-breaker-house.png"
+thumbnail: /new-images/thumbnails/bricks-breaker-house.png
 urlstr: "bricks-breaker-house"
 score: "3.8/5  (1679 votes)"
 tags: ["puzzle", "casual"]

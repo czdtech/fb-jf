@@ -8,7 +8,7 @@ description: >-
   con un camino que no tenga más de dos giros.
 iframeSrc: >-
   https://omnomconnectclassic.h5games.usercontent.goog/v/6bc88dac-9f6b-4f2f-8c85-e715c899bb63/
-thumbnail: /new-images/om-nom-connect-classic.jpg
+thumbnail: /new-images/thumbnails/om-nom-connect-classic.jpg
 tags:
   - puzzle
   - casual

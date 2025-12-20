@@ -4,7 +4,7 @@ urlstr: "lows-adventures-2"
 title: "Low's Adventures 2"
 description: "Suite rétro de plateforme : enchaîne de petits niveaux, trouve des clés et des secrets et relève des défis chronométrés."
 iframeSrc: "https://previews.customer.envatousercontent.com/files/489323722/index.html"
-thumbnail: "/new-images/lows-adventures-2.jpg"
+thumbnail: /new-images/thumbnails/lows-adventures-2.jpg
 tags: ["platformer", "adventure"]
 score: "3.6/5  (671 votes)"
 developer: ""

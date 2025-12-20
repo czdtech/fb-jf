@@ -4,7 +4,7 @@ urlstr: cricket-hero
 title: Cricket Hero
 description: "Cricket Hero est un jeu de batting arcade\_: choisis le bon coup, lis la trajectoire de la balle et envoie‑la dans les tribunes sans te faire bowler."
 iframeSrc: 'https://6kf8oom91mt10.h5games.usercontent.goog/v/3dvk72tuofucg/'
-thumbnail: /new-images/cricket-hero.png
+thumbnail: /new-images/thumbnails/cricket-hero.jpg
 tags:
   - sports
   - casual

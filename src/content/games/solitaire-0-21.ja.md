@@ -2,7 +2,7 @@
 title: "Solitaire 0-21"
 description: "Solitaire 0-21は、合計を0〜21に保ちながら進めるソリティアです。リスクと余裕のバランスを見てカードを配置します。"
 iframeSrc: "https://4hcssrsmrpvv0.h5games.usercontent.goog/v/2oipnrim9ar08/"
-thumbnail: "/new-images/solitaire-0-21.png"
+thumbnail: /new-images/thumbnails/solitaire-0-21.png
 urlstr: "solitaire-0-21"
 score: "4.0/5  (1885 votes)"
 tags: ["card", "puzzle", "thinky"]

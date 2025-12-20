@@ -2,7 +2,7 @@
 title: "Mega Prize Scratch"
 description: "Mega Prize Scratchはスクラッチカード風のミニゲームです。カードを削ってシンボルを確認し、結果を楽しみます。"
 iframeSrc: "https://3hl81qo88gdb8.h5games.usercontent.goog/v/18j98kqfn1m3g/"
-thumbnail: "/new-images/mega-prize-scratch.png"
+thumbnail: /new-images/thumbnails/mega-prize-scratch.png
 urlstr: "mega-prize-scratch"
 score: "3.8/5  (1545 votes)"
 tags: ["casual", "novelty"]

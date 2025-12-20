@@ -7,7 +7,7 @@ description: >-
   va clairement te rendre accro : un Mod nerveux où musique, jumpscares et
   ambiance inquiétante se mêlent.
 iframeSrc: 'https://www.minijuegos.com/embed/sprunki-retake'
-thumbnail: /sprunki-retake.png
+thumbnail: /new-images/thumbnails/sprunki-retake.png
 tags:
   - sprunki retake
   - sprunki retake online

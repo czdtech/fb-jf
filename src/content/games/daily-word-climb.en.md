@@ -3,7 +3,7 @@ locale: en
 title: "Daily Word Climb"
 description: "A daily word puzzle challenge! Swap letters on the grid to form the correct words. Use the color clues to deduce the right positions and solve the puzzle within the move limit."
 iframeSrc: "https://7j9i6247552ro.h5games.usercontent.goog/v/1g49kcc7pdiio/"
-thumbnail: "/new-images/daily-word-climb.png"
+thumbnail: /new-images/thumbnails/daily-word-climb.png
 urlstr: "daily-word-climb"
 score: "4.4/5  (2300 votes)"
 tags: ["puzzle", "thinky", "casual"]

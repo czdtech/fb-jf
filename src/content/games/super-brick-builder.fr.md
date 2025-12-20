@@ -4,7 +4,7 @@ urlstr: super-brick-builder
 title: Super Brick Builder
 description: "Super Brick Builder est un jeu d’arkanoïd modernisé\_: renvoie la balle, brise les briques et utilise les bonus pour nettoyer l’écran."
 iframeSrc: 'https://35uekeul7ivk4.h5games.usercontent.goog/v/3kb2udv7a2d1q/'
-thumbnail: /new-images/super-brick-builder.png
+thumbnail: /new-images/thumbnails/super-brick-builder.png
 tags:
   - arcade
   - brick breaker

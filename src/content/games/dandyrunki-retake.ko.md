@@ -7,7 +7,7 @@ description: >-
   드래그 앤 드롭만으로 리듬과 멜로디를 섞어 누구나 쉽게 즐길 수 있는 리믹스
   음악 놀이 게임입니다.
 iframeSrc: 'https://turbowarp.org/1126924449/embed'
-thumbnail: /dandyrunki-retake.png
+thumbnail: /new-images/thumbnails/dandyrunki-retake.png
 tags:
   - dandyrunki retake
   - dandyrunki retake online

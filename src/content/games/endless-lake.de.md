@@ -7,7 +7,7 @@ description: >-
   Runner, in dem du mit einfachen Einzel- und Doppelsprüngen die tückischen
   Lücken über einem endlosen See überquerst.
 iframeSrc: 'https://3llnkqqmic17g.h5games.usercontent.goog/v/0e8uaqritcs8o/'
-thumbnail: /new-images/endless-lake.png
+thumbnail: /new-images/thumbnails/endless-lake.png
 tags:
   - action
   - casual

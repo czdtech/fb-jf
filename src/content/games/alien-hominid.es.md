@@ -7,7 +7,7 @@ description: >-
   Behemoth. Descubre estrategias, controles y consejos para dominar este
   desafiante clásico de disparos.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/alien-hominid.html'
-thumbnail: /new-images/alien-hominid.jpg
+thumbnail: /new-images/thumbnails/alien-hominid.jpg
 tags:
   - shooting
   - action

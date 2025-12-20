@@ -7,7 +7,7 @@ description: >-
   permet de créer de la musique avec les héros de l’univers Sonic tout en
   relevant des défis rapides et dynamiques.
 iframeSrc: 'https://turbowarp.org/1114980098/embed'
-thumbnail: /sprunki-sonic.png
+thumbnail: /new-images/thumbnails/sprunki-sonic.png
 tags:
   - sprunki sonic
   - sprunki sonic online

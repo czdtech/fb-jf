@@ -2,7 +2,7 @@
 title: Neon Tower
 description: Neon Towerはドラッグ操作でタワーを回転させるアクションゲームです。隙間を作って先へ進み、危険な足場を避けながらスコアを伸ばします。
 iframeSrc: 'https://neontower.h5games.usercontent.goog/v/6ba2s7p6jk9f8/'
-thumbnail: /new-images/neon-tower.png
+thumbnail: /new-images/thumbnails/neon-tower.png
 urlstr: neon-tower
 score: 4.1/5  (1876 votes)
 tags:

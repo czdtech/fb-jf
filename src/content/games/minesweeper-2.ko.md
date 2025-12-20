@@ -6,7 +6,7 @@ description: >-
   Minesweeper는 숫자 힌트를 바탕으로 숨겨진 지뢰의 위치를 논리적으로 추리해, 한 번도 밟지 않고 보드를 전부 여는 고전 퍼즐
   게임입니다.
 iframeSrc: 'https://minesweeper.h5games.usercontent.goog/v/6uo6tf2lnil3o/'
-thumbnail: /new-images/minesweeper-2.jpg
+thumbnail: /new-images/thumbnails/minesweeper-2.jpg
 tags:
   - puzzle
   - thinky

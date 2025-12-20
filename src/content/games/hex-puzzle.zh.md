@@ -4,7 +4,7 @@ urlstr: hex-puzzle
 title: "《Hex Puzzle》六角方块拼图"
 description: "《Hex Puzzle》是一款六边形棋盘上的方块消除游戏，你要把不同形状的六角拼块拖拽到棋盘上，凑成任意方向上的完整直线即可清除，无法旋转的拼块让布局更考验空间想象力。"
 iframeSrc: 'https://blockpuzzle.h5games.usercontent.goog/v/3rkr8c5j9b23o/'
-thumbnail: /new-images/hex-puzzle.jpg
+thumbnail: /new-images/thumbnails/hex-puzzle.jpg
 tags:
   - puzzle
   - thinky

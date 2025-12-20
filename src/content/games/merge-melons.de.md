@@ -7,7 +7,7 @@ description: >-
   nach Art des Suika Game. Kombiniere identische Früchte zu größeren, ziele auf
   die riesige Wassermelone – aber lass den Behälter nicht überlaufen!
 iframeSrc: 'https://mergemelons.h5games.usercontent.goog/v/7526h5to2d1v0/'
-thumbnail: /new-images/merge-melons.png
+thumbnail: /new-images/thumbnails/merge-melons.png
 tags:
   - puzzle
   - casual

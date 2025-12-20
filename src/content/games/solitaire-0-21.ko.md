@@ -7,7 +7,7 @@ description: >-
   게임입니다. 각 줄의 합을 조절하며 위험과 보상을 적절히 관리해
   보세요.
 iframeSrc: 'https://4hcssrsmrpvv0.h5games.usercontent.goog/v/2oipnrim9ar08/'
-thumbnail: /new-images/solitaire-0-21.png
+thumbnail: /new-images/thumbnails/solitaire-0-21.png
 tags:
   - card
   - puzzle

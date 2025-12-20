@@ -5,7 +5,7 @@ description: >-
   Elastic Man is an interactive toy: stretch, poke, and squish a rubbery face
   with playful physics.
 iframeSrc: 'https://d21u3ic0kp9e91.cloudfront.net/elasticman/0/index.html'
-thumbnail: /new-images/elastic-man.jpg
+thumbnail: /new-images/thumbnails/elastic-man.jpg
 urlstr: elastic-man
 score: 3.7/5  (959 votes)
 tags:

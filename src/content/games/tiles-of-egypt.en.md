@@ -3,7 +3,7 @@ locale: en
 title: "Tiles of Egypt"
 description: "Journey to ancient Egypt in this triple-tile matching puzzle. Select three identical, unblocked tiles to clear them from the board. Plan your moves to solve the puzzle before you run out of space!"
 iframeSrc: "https://tilesofegypt.h5games.usercontent.goog/v/dd964fa3-8999-4546-a4a0-d55a0cc72248/"
-thumbnail: "/new-images/tiles-of-egypt.jpg"
+thumbnail: /new-images/thumbnails/tiles-of-egypt.jpg
 urlstr: "tiles-of-egypt"
 score: "4.4/5  (2350 votes)"
 tags: ["puzzle", "casual", "thinky"]

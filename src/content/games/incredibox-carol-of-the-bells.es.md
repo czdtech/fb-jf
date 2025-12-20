@@ -7,7 +7,7 @@ description: >-
   guía explica su temática navideña, cómo remezclar el villancico clásico y
   desbloquear sus bonus únicos de Navidad.
 iframeSrc: 'https://turbowarp.org/931427102/embed'
-thumbnail: /new-images/incredibox-carol-of-the-bells.png
+thumbnail: /new-images/thumbnails/incredibox-carol-of-the-bells.png
 tags:
   - music
   - christmas

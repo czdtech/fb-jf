@@ -2,7 +2,7 @@
 title: Tiger Run
 description: Tiger Runは、タイガーが主人公のエンドレスランナーゲームです。障害物を避けて走り続けましょう。
 iframeSrc: 'https://ubg98.github.io/TigerRun/'
-thumbnail: /new-images/tiger-run.jpg
+thumbnail: /new-images/thumbnails/tiger-run.jpeg
 urlstr: tiger-run
 score: 4.3/5  (2234 votes)
 tags:

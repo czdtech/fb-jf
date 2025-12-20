@@ -6,7 +6,7 @@ description: >-
   Gran fuga ramificada con monigotes: elige objetos y rutas para escapar del
   complejo, descubre múltiples finales y completa todos los fallos y biografías.
 iframeSrc: 'https://ubg77.github.io/fleeing-the-complex/'
-thumbnail: /new-images/fleeing-the-complex.jpg
+thumbnail: /new-images/thumbnails/fleeing-the-complex.jpg
 tags:
   - adventure
   - point-and-click

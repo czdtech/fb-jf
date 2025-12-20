@@ -7,7 +7,7 @@ description: >-
   und mächtigen Paragon‑Affen. Finde die perfekte Strategie, um jede Bloon‑Welle
   zu stoppen.
 iframeSrc: 'https://html5.gamenora.com/Bloons%20TD%206/'
-thumbnail: /new-images/bloons-td-6.jpg
+thumbnail: /new-images/thumbnails/bloons-td-6.jpg
 tags:
   - casual
   - strategy

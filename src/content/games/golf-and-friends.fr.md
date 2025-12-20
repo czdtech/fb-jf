@@ -6,7 +6,7 @@ description: >-
   Golf and Friends est un mini‑golf tranquille : lis les pentes, réussis tes
   bank shots et enchaîne les putts avec tes amis pour des parties détendues.
 iframeSrc: 'https://1uerepsm8tbpg.h5games.usercontent.goog/v/3st9sicdd4eu0/'
-thumbnail: /new-images/golf-and-friends.jpg
+thumbnail: /new-images/thumbnails/golf-and-friends.jpg
 tags:
   - sports
   - 2 player

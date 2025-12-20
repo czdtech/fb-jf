@@ -5,7 +5,7 @@ title: "《Merge Heroes》英雄合成自走战"
 description: >-
   《Merge Heroes》是一款“合成+自走战”策略游戏，你通过购买与合成英雄，打造小队阵容，将他们布置在战场上自动迎战一波又一波来袭的怪物大军，守卫你的王国。
 iframeSrc: 'https://mergeheroes.h5games.usercontent.goog/v/7i7m361ib4vr8/'
-thumbnail: /new-images/merge-heroes.png
+thumbnail: /new-images/thumbnails/merge-heroes.png
 tags:
   - strategy
   - action

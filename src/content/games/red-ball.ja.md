@@ -2,7 +2,7 @@
 title: Red Ball
 description: Red Ballはクラシックなプラットフォームゲームです。赤いボールを転がし、ジャンプし、パズルを解決し、レベルを完了します。
 iframeSrc: 'https://redball.h5games.usercontent.goog/v/5k9j2m8h7p3n8/'
-thumbnail: /new-images/red-ball.png
+thumbnail: /new-images/thumbnails/red-ball.jpg
 urlstr: red-ball
 score: 4.4/5  (3234 votes)
 tags:

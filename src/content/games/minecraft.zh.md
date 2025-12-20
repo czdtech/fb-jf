@@ -6,7 +6,7 @@ description: >-
   《Minecraft》（我的世界）是一款高自由度的沙盒游戏，你可以在由方块构成的 3D 世界中探索、挖矿、收集资源、制作工具、建造建筑或红石装置，甚至创造属于自己的小游戏与冒险地图。
 iframeSrc: >-
   https://app-167027.games.s3.yandex.net/167027/tnn3wq0qkjwhvr1271tszdhl82lm97e6/index.html
-thumbnail: /new-images/minecraft.jpg
+thumbnail: /new-images/thumbnails/minecraft.jpg
 tags:
   - sandbox
   - survival

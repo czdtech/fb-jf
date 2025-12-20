@@ -3,7 +3,7 @@ title: Cowboys vs Aliens カウボーイ vs エイリアン
 description: 「Cowboys vs Aliens」で西部劇とSFが激突！勇敢なカウボーイとなり、侵略者であるエイリアンを撃退せよ。アクション、防衛、そしてサバイバル。
 iframeSrc: >-
   https://app-183000.games.s3.yandex.net/183000/ej1ob1cdiuv0fq3vw88l1k7pakdngmk7/index.html
-thumbnail: /new-images/cowboys-vs-aliens.jpg
+thumbnail: /new-images/thumbnails/cowboys-vs-aliens.jpg
 urlstr: cowboys-vs-aliens
 score: 3.7/5  (1185 votes)
 tags:

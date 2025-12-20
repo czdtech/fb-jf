@@ -4,7 +4,7 @@ locale: en
 title: "Eggy Car"
 description: "Eggy Car is a physics driver: carry a fragile egg on your car, climb and descend hills, and don’t let it fall."
 iframeSrc: "https://webglmath.github.io/eggy-car/"
-thumbnail: "/new-images/eggy-car.jpg"
+thumbnail: /new-images/thumbnails/eggy-car.jpg
 urlstr: "eggy-car"
 score: "4.9/5  (297 votes)"
 tags: ["driving", "physics"]

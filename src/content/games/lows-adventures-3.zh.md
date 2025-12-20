@@ -4,7 +4,7 @@ urlstr: lows-adventures-3
 title: 《Low's Adventures 3》洛的冒险 3
 description: 《Low's Adventures 3》是复古平台三部曲的第三部，加入更紧凑的跳台、更刁钻的机关砖块和更多隐藏路线，在小体量关卡中塞入大量秘密。
 iframeSrc: 'https://previews.customer.envatousercontent.com/files/480663659/index.html'
-thumbnail: /new-images/lows-adventures-3.jpg
+thumbnail: /new-images/thumbnails/lows-adventures-3.jpg
 tags:
   - platformer
   - adventure

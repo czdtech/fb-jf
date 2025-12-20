@@ -7,7 +7,7 @@ description: >-
   'Sprinkle Incredibox' 가이드입니다. 캐릭터를 배치해 사운드를
   조합하는 방법과 조작법, 특징을 소개합니다.
 iframeSrc: 'https://g.sprinkleincredibox.com/web-game/SprinkleIncredibox/index.html'
-thumbnail: /incredibox-sprinkle.png
+thumbnail: /new-images/thumbnails/incredibox-sprinkle.png
 tags:
   - incredibox sprinkle
 score: 3.8/5  (387 votes)

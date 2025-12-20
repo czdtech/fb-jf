@@ -6,7 +6,7 @@ description: >-
   잔잔한 분위기의 전략 퍼즐 게임 Tile Puzzle입니다. 같은 타일 세 장을 찾아 선택해 보드를
   비우고, 제한된 수집 트레이 칸이 가득 차지 않도록 신중하게 수를 두어야 합니다.
 iframeSrc: 'https://5u9qhnk84v07g.h5games.usercontent.goog/v/2h3elehja73a8/'
-thumbnail: /new-images/tile-puzzle.jpg
+thumbnail: /new-images/thumbnails/tile-puzzle.jpg
 tags:
   - puzzle
   - casual

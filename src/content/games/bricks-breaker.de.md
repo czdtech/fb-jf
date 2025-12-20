@@ -7,7 +7,7 @@ description: >-
   Schläger, halte den Ball im Spiel und zerstöre alle Blöcke, um Level für
   Level zu räumen.
 iframeSrc: 'https://5enjropk1ren8.h5games.usercontent.goog/v/6u5qapt4kt1j8/'
-thumbnail: /new-images/bricks-breaker.jpg
+thumbnail: /new-images/thumbnails/bricks-breaker.jpg
 tags:
   - action
   - casual

@@ -7,7 +7,7 @@ description: >-
   Felder mit gleichen Zahlen, erschaffe höhere Werte und verwalte geschickt den
   knappen Platz, um lange Komboketten und hohe Punktzahlen zu erreichen.
 iframeSrc: 'https://4l7qr4mfc8o80.h5games.usercontent.goog/v/5sm797oi4heu0/'
-thumbnail: /new-images/2020-connect.png
+thumbnail: /new-images/thumbnails/2020-connect.png
 tags:
   - puzzle
   - thinky

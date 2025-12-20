@@ -4,7 +4,7 @@ locale: en
 title: "Big Shark"
 description: "A guide to the action-survival game Big Shark. Learn how to eat, grow, avoid dangers like bigger sharks and mines, and achieve the highest score in the ocean."
 iframeSrc: "https://g2.igroutka.ru/lib/crazy/games/big-shark/"
-thumbnail: "/new-images/big-shark.jpg"
+thumbnail: /new-images/thumbnails/big-shark.jpg
 urlstr: "big-shark"
 score: "4.0/5  (372 votes)"
 tags: ["casual", "action"]

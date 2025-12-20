@@ -3,7 +3,7 @@ title: Cuphead カップヘッド
 description: >-
   「Cuphead」は1930年代のアニメーションへの愛に溢れた、高難易度ラン＆ガン・アクション。カップ頭の兄弟を操作し、デビルとの契約を取り戻すため過酷なボスバトルに挑め。
 iframeSrc: 'https://bitlifeonline.github.io/cuphead/'
-thumbnail: /new-images/cuphead.jpg
+thumbnail: /new-images/thumbnails/cuphead.jpg
 urlstr: cuphead
 score: 4.0/5  (957 votes)
 tags:

@@ -3,7 +3,7 @@ locale: en
 title: "248 Deluxe Wooden edition"
 description: "248 Deluxe Wooden edition is a calm number‑link puzzler — connect equal tiles, merge values, and manage space."
 iframeSrc: "https://0k2rsj4f89nr8.h5games.usercontent.goog/v/03pkkc7ds3qdg/"
-thumbnail: "/new-images/248-deluxe-wooden-edition.jpg"
+thumbnail: /new-images/thumbnails/248-deluxe-wooden-edition.jpg
 urlstr: "248-deluxe-wooden-edition"
 score: "4.0/5  (1764 votes)"
 tags: ["puzzle", "thinky"]

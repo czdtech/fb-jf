@@ -3,7 +3,7 @@ locale: en
 title: "Neon Dash"
 description: "Neon Dash is a fast precision runner — jump, dodge hazards, and time your inputs to survive neon gauntlets."
 iframeSrc: "https://1bveca4tkimog.h5games.usercontent.goog/v/4bq2naj6mtutg/"
-thumbnail: "/new-images/neon-dash.png"
+thumbnail: /new-images/thumbnails/neon-dash.png
 urlstr: "neon-dash"
 score: "4.2/5  (1589 votes)"
 tags: ["action", "thinky"]

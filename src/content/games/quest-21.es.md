@@ -6,7 +6,7 @@ description: >-
   Una aventura de Blackjack. Juega manos de 21 para derrotar a tus rivales y
   avanzar en tu misión. Acércate todo lo posible a 21 sin pasarte para ganar.
 iframeSrc: "https://7h2pln0tgo8q0.h5games.usercontent.goog/v/004k30od8uvog/"
-thumbnail: "/new-images/quest-21.png"
+thumbnail: /new-images/thumbnails/quest-21.png
 tags:
   - card
   - puzzle

@@ -4,7 +4,7 @@ modType: incredibox
 title: "Incredibox Piege Simulator"
 description: "Incredibox Piège Simulator this guide details its grid-based gameplay, dark and atmospheric sound palette, and provides tips for creating intense trap loops."
 iframeSrc: "https://turbowarp.org/887559994/embed"
-thumbnail: "/new-images/incredibox-piege-simulator.png"
+thumbnail: /new-images/thumbnails/incredibox-piege-simulator.png
 urlstr: "incredibox-piege-simulator"
 score: "4.5/5 (889 votes)"
 tags: ["music", "fan-made", "simulator"]

@@ -6,7 +6,7 @@ description: >-
   The Pillar는 신비로운 섬과 탑을 돌아다니며 각종 기둥 퍼즐을 푸는 1인칭 퍼즐 어드벤처 게임입니다. 환경에 숨은 힌트를 찾아 기호와
   패턴을 해독하세요.
 iframeSrc: 'https://pillar.h5games.usercontent.goog/v/demo/'
-thumbnail: /new-images/the-pillar.jpg
+thumbnail: /new-images/thumbnails/the-pillar.jpg
 tags:
   - puzzle
   - adventure

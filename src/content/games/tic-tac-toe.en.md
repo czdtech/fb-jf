@@ -4,7 +4,7 @@ locale: en
 title: "Tic-Tac-Toe"
 description: "Tic-Tac-Toe is the classic strategy game where two players take turns placing X's and O's on a 3x3 grid, aiming to be the first to get three symbols in a row, column, or diagonal."
 iframeSrc: "https://edit.coolmathgames.com//sites/cmatgame/files/public_games/32511/"
-thumbnail: "/new-images/tic-tac-toe.jpg"
+thumbnail: /new-images/thumbnails/tic-tac-toe.jpg
 urlstr: "tic-tac-toe"
 score: "4.6/5  (216 votes)"
 tags: ["strategy", "classic", "puzzle"]

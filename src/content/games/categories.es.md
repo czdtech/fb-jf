@@ -6,7 +6,7 @@ description: >-
   Categories es un ágil puzle de clasificar palabras: agrupa elementos
   por temática, detecta intrusos y vence al reloj.
 iframeSrc: 'https://1ssgr48qrfod0.h5games.usercontent.goog/v/20nv9be906iho/'
-thumbnail: /new-images/categories.png
+thumbnail: /new-images/thumbnails/categories.png
 tags:
   - thinky
   - puzzle

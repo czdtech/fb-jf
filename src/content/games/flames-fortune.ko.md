@@ -4,7 +4,7 @@ urlstr: flames-fortune
 title: Flames & Fortune 플레임즈 & 포춘
 description: '로프를 태워 장애물을 제거하고, 불꽃을 안전하게 목표 지점까지 이끄는 퍼즐 게임입니다. 각 스테이지의 장치를 이용해 길을 만들어 보세요.'
 iframeSrc: 'https://ad-freegames.github.io/flash/game/cut-the-rope-time-travel-forest.html'
-thumbnail: /new-images/flames-fortune.jpg
+thumbnail: /new-images/thumbnails/flames-fortune.jpg
 tags:
   - puzzle
   - physics

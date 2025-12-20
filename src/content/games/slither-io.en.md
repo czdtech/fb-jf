@@ -7,7 +7,7 @@ description: >-
   collisions with other players in an endless arena battle for supremacy.
 iframeSrc: >-
   https://app-165910.games.s3.yandex.net/165910/rm0dpvrwyxo0cakog5vc1sr4c8b6xj1s/index.html
-thumbnail: /new-images/slither-io.jpg
+thumbnail: /new-images/thumbnails/slither-io.jpg
 urlstr: slither-io
 score: 4.8/5  (1149 votes)
 tags:

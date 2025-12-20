@@ -7,7 +7,7 @@ description: >-
   입힌 크로스오버 모드입니다. Sprunkr의 규칙은 그대로 즐기면서, 스프룽키 특유의
   비주얼과 루프 사운드를 함께 감상할 수 있습니다.
 iframeSrc: 'https://turbowarp.org/1113707117/embed'
-thumbnail: /sprunkr-but-sprunki.png
+thumbnail: /new-images/thumbnails/sprunkr-but-sprunki.png
 tags:
   - sprunkr but sprunki
 score: 4.5/5  (541 votes)

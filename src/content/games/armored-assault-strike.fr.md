@@ -4,7 +4,7 @@ urlstr: armored-assault-strike
 title: "Armored Assault Strike"
 description: "Armored Assault Strike est un shooter vue de dessus où tu pilotes un véhicule blindé, gères tes compétences et élimines des vagues d’ennemis sans exposer ton char inutilement."
 iframeSrc: "https://2fr3rldr11rpg.h5games.usercontent.goog/v/2pn2tgakfpecg/"
-thumbnail: /new-images/armored-assault-strike.png
+thumbnail: /new-images/thumbnails/armored-assault-strike.png
 tags:
   - shooting
   - action

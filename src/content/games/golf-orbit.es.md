@@ -7,7 +7,7 @@ description: >-
   salida, gestiona el efecto y aprovecha la gravedad de los planetas para
   conseguir golpes larguísimos y estratégicos.
 iframeSrc: 'https://7e0r297sgk0j0.h5games.usercontent.goog/v/1976bdao4gtf0/'
-thumbnail: /new-images/golf-orbit.png
+thumbnail: /new-images/thumbnails/golf-orbit.png
 tags:
   - sports
   - puzzle

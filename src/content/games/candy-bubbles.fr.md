@@ -7,7 +7,7 @@ description: >-
   Vise avec ton canon, aligne au moins trois bulles de la même couleur et
   nettoie le tableau dans ce jeu de tir de bulles aussi relaxant que malin.
 iframeSrc: 'https://candybubbles.h5games.usercontent.goog/v/370v1t5h5266g/'
-thumbnail: /new-images/candy-bubbles.png
+thumbnail: /new-images/thumbnails/candy-bubbles.png
 tags:
   - shooting
   - puzzle

@@ -2,7 +2,7 @@
 title: Retro Bowl
 description: Retro Bowlはアメフトのチーム運営ゲームです。編成や戦術を決め、試合に勝って優勝を目指します。
 iframeSrc: 'https://retrobowl.h5games.usercontent.goog/v/3k9j5m8h7p2n8/'
-thumbnail: /new-images/retro-bowl.png
+thumbnail: /new-images/thumbnails/retro-bowl.jpg
 urlstr: retro-bowl
 score: 4.6/5  (5678 votes)
 tags:

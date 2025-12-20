@@ -7,7 +7,7 @@ description: >-
   dígitos del 1 al 9 de forma que cada fila, columna y caja contenga todos los
   números sin repetir.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-daily-sudoku/'
-thumbnail: /new-images/daily-sudoku.jpg
+thumbnail: /new-images/thumbnails/daily-sudoku.jpg
 tags:
   - puzzle
   - logic

@@ -6,7 +6,7 @@ description: >-
   칼을 조종해 다양한 물체를 산 satisfying 하게 베어 나가는 물리 기반 액션 게임입니다. 장애물을 피해 완벽한 컷을 노리며 보상을
   모아 스테이지를 돌파하세요.
 iframeSrc: 'https://bitlifeonline.github.io/slice-master/'
-thumbnail: /new-images/slice-master.jpg
+thumbnail: /new-images/thumbnails/slice-master.jpg
 tags:
   - physics
   - action

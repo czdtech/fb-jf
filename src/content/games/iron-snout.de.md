@@ -7,7 +7,7 @@ description: >-
   Wölfe, jonglierst sie mit Tritten in der Luft und wirfst ihre Waffen zurück,
   um Wellen zu überleben und Highscores zu knacken.
 iframeSrc: 'https://webglmath.github.io/iron-snout/'
-thumbnail: /new-images/iron-snout.jpg
+thumbnail: /new-images/thumbnails/iron-snout.jpg
 tags:
   - fighting
   - arcade

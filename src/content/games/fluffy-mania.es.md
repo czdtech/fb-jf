@@ -6,7 +6,7 @@ description: >-
   Fluffy Mania es un acogedor puzle de conectar y despejar: une adorables
   fluffies, provoca cascadas y persigue las mejores puntuaciones.
 iframeSrc: 'https://02rd6nna08dqg.h5games.usercontent.goog/v/3ngbs02gf9h88/'
-thumbnail: /new-images/fluffy-mania.png
+thumbnail: /new-images/thumbnails/fluffy-mania.png
 tags:
   - puzzle
   - casual

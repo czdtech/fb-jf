@@ -4,7 +4,7 @@ urlstr: crossword
 title: Crossword
 description: "Résous des grilles de mots croisés en ligne\_: lis les définitions, remplis les mots horizontaux et verticaux et utilise les lettres croisées pour t’aider."
 iframeSrc: 'https://crosswordgames.io/game/dailyamerican_crossword/index.html'
-thumbnail: /new-images/crossword.jpg
+thumbnail: /new-images/thumbnails/crossword.jpg
 tags:
   - word
   - puzzle

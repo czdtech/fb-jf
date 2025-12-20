@@ -8,7 +8,7 @@ description: >-
   Levelwege ein, reagiere blitzschnell und schaffe so viele Etappen wie möglich,
   bevor der Timer abläuft.
 iframeSrc: 'https://www.playfiddlebops.com/embed/60s-burger-run/index.html'
-thumbnail: /60s-burger-run.jpg
+thumbnail: /new-images/thumbnails/60s-burger-run.jpg
 tags:
   - 60 seconds burger run
 score: 4.6/5  (1344 votes)

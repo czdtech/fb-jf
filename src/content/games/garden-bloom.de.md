@@ -7,7 +7,7 @@ description: >-
   Match-3-Puzzles, sammle Sterne und wähle Deko-Elemente, um deinen Traumgarten
   zu gestalten.
 iframeSrc: 'https://gardenbloom.h5games.usercontent.goog/v/03uqf2ceev9h8/'
-thumbnail: /new-images/garden-bloom.png
+thumbnail: /new-images/thumbnails/garden-bloom.png
 tags:
   - puzzle
   - casual

@@ -7,7 +7,7 @@ description: >-
   Mini‑Kreuzworträtsel knacken und schnelle Wortfragen meistern – gefragt sind
   Sprachgefühl und logische Ableitung.
 iframeSrc: 'https://60p1t41kumli8.h5games.usercontent.goog/v/7pss7j2tdq7io/'
-thumbnail: /new-images/words-challenge.jpg
+thumbnail: /new-images/thumbnails/words-challenge.jpg
 tags:
   - puzzle
   - thinky

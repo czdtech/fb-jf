@@ -7,7 +7,7 @@ description: >-
   Musik-Spielwiese, die Elemente aus Pikmin mit dem Sprunki-/Incredibox-Stil
   verbindet und dir erlaubt, eigene Beats zu bauen.
 iframeSrc: 'https://img.sprunki.net/game/pikmin-no-sprunki.html'
-thumbnail: /pikmin-no-sprunki.png
+thumbnail: /new-images/thumbnails/pikmin-no-sprunki.png
 tags:
   - pikmin no sprunki
 score: 4.0/5  (89 votes)

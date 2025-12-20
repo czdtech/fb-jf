@@ -7,7 +7,7 @@ description: >-
   nutze Aktionskarten, um deine Mitspieler auszubremsen, und sei der oder die
   Erste, die nur noch eine Karte hat – inklusive lautem „UNO!“.
 iframeSrc: 'https://www.xpgameplus.com/games/uno/default.html'
-thumbnail: /new-images/uno.jpg
+thumbnail: /new-images/thumbnails/uno.jpg
 tags:
   - card game
   - strategy

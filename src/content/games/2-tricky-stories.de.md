@@ -8,7 +8,7 @@ description: >-
   löse knifflige Rätsel mit unkonventionellen Lösungen und trainiere deinen Kopf
   mit kreativen Aufgaben.
 iframeSrc: 'https://bitlifeonline.github.io/brain-test-2-tricky-stories/'
-thumbnail: /new-images/2-tricky-stories.jpg
+thumbnail: /new-images/thumbnails/2-tricky-stories.jpg
 tags:
   - casual
   - rhythm

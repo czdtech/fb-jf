@@ -7,7 +7,7 @@ description: >-
   Sprunki dans un monde abstrait façon police vs prisonniers, avec un style
   visuel surréaliste et une forte dimension artistique.
 iframeSrc: 'https://turbowarp.org/1113493234/embed'
-thumbnail: /sprunki-police-and-prisoners.png
+thumbnail: /new-images/thumbnails/sprunki-police-and-prisoners.png
 tags:
   - sprunki police and prisoners
 score: 3.9/5  (325 votes)

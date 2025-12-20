@@ -2,7 +2,7 @@
 title: Sushi Grab
 description: Sushi Grabは、寿司を集める楽しいアーケードゲームです。タイミングよくクリックして寿司を掴みましょう。
 iframeSrc: 'https://ubg98.github.io/SushiGrab/'
-thumbnail: /new-images/sushi-grab.jpg
+thumbnail: /new-images/thumbnails/sushi-grab.png
 urlstr: sushi-grab
 score: 4.2/5  (1876 votes)
 tags:

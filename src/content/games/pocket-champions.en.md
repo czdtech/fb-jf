@@ -3,7 +3,7 @@ locale: en
 title: "Pocket Champs: 3D Racing"
 description: "Train your Champ, pick the right gadgets, and watch them race to victory! An idle racing game where strategy and preparation are key to becoming a Pocket Champ."
 iframeSrc: "https://pocketchampions.h5games.usercontent.goog/v/24houhjfrhfi8/"
-thumbnail: "/new-images/pocket-champions.png"
+thumbnail: /new-images/thumbnails/pocket-champions.png
 urlstr: "pocket-champions"
 score: "4.4/5  (2600 votes)"
 tags: ["strategy", "casual", "sports"]

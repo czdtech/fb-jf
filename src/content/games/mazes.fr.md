@@ -4,7 +4,7 @@ urlstr: "mazes"
 title: "Mazes"
 description: "Mazes propose des courses de labyrinthe classiques : trace des chemins optimaux, évite les pièges et bats les temps de référence avec un routage propre."
 iframeSrc: "https://1ivu76rhffpsg.h5games.usercontent.goog/v/00icu4vi09j18/"
-thumbnail: "/new-images/mazes.jpg"
+thumbnail: /new-images/thumbnails/mazes.jpg
 tags: ["puzzle", "thinky", "escape"]
 score: "4.0/5  (1894 votes)"
 developer: ""

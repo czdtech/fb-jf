@@ -7,7 +7,7 @@ description: >-
   forma grupos de tres o más del mismo color y destruye toda la cadena antes de
   que llegue al final del recorrido.
 iframeSrc: 'https://totemiacursed.h5games.usercontent.goog/v/2hs7lfvsisr48/'
-thumbnail: /new-images/totemia-cursed-marbles.png
+thumbnail: /new-images/thumbnails/totemia-cursed-marbles.png
 tags:
   - shooting
   - puzzle

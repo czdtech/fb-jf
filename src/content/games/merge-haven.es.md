@@ -7,7 +7,7 @@ description: >-
   objetos, completa tareas y expande tu hogar gestionando bien cada casilla del
   tablero.
 iframeSrc: 'https://1jjan0u3n07qg.h5games.usercontent.goog/v/5aruivrappsfg/'
-thumbnail: /new-images/merge-haven.png
+thumbnail: /new-images/thumbnails/merge-haven.png
 tags:
   - puzzle
   - casual

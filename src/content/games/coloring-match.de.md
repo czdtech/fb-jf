@@ -7,7 +7,7 @@ description: >-
   zu treffen, justiere Farbton/Sättigung und feile mit kleinen Anpassungen am
   perfekten Match.
 iframeSrc: 'https://21t5l4ct88d8g.h5games.usercontent.goog/v/6kels35kspngg/'
-thumbnail: /new-images/coloring-match.jpg
+thumbnail: /new-images/thumbnails/coloring-match.jpg
 tags:
   - puzzle
   - casual

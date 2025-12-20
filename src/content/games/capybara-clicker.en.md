@@ -4,7 +4,7 @@ locale: en
 title: "Capybara Clicker"
 description: "Multiply your capybara population in Capybara Clicker! Click to create capybaras, buy auto-generating upgrades, unlock new weather, and dress up your capybara in stylish hats in this charming idle game."
 iframeSrc: "https://bitlifeonline.github.io/capybara-clicker/"
-thumbnail: "/new-images/capybara-clicker.jpg"
+thumbnail: /new-images/thumbnails/capybara-clicker.jpg
 urlstr: "capybara-clicker"
 score: "4.4/5  (1397 votes)"
 tags: ["casual", "clicker"]

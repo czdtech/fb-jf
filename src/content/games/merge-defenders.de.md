@@ -7,7 +7,7 @@ description: >-
   aufwertest! Kombiniere identische Verteidiger zu stärkeren Versionen und
   platziere sie taktisch, um Wellen von Gegnern aufzuhalten.
 iframeSrc: 'https://5c1j2nn9b0q4o.h5games.usercontent.goog/v/20drsjkant5s8/'
-thumbnail: /new-images/merge-defenders.png
+thumbnail: /new-images/thumbnails/merge-defenders.png
 tags:
   - strategy
   - tower Defense

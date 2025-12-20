@@ -4,7 +4,7 @@ urlstr: penalty-showdown
 title: Penalty Showdown
 description: "Penalty Showdown est un duel de tirs au but tendu\_: alterne entre tireur et gardien, choisis les bons coins et déjoue les gardiens grâce au timing et à la variation des frappes."
 iframeSrc: 'https://58r8ibinmpjeg.h5games.usercontent.goog/v/2m3pjv3her9fg/'
-thumbnail: /new-images/penalty-showdown.jpg
+thumbnail: /new-images/thumbnails/penalty-showdown.jpg
 tags:
   - sports
   - soccer

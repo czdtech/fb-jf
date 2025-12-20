@@ -7,7 +7,7 @@ description: >-
   ángulo, controla los giros en el momento justo y defiende con cabeza en
   partidos muy ajustados.
 iframeSrc: 'https://7ak26cf4bf850.h5games.usercontent.goog/v/6jmmp78dbnp50/'
-thumbnail: /new-images/foosball-cup-world.png
+thumbnail: /new-images/thumbnails/foosball-cup-world.png
 tags:
   - sports
   - soccer

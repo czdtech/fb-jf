@@ -2,7 +2,7 @@
 title: "60 Seconds Burger Run 60秒バーガーラン"
 description: "「60秒バーガーラン」は、閉店間際のハンバーガーショップを目指して疾走する、カラフルでエキサイティングなスピードラン・プラットフォーマーです！制限時間は厳守の60秒！"
 iframeSrc: "https://www.playfiddlebops.com/embed/60s-burger-run/index.html"
-thumbnail: "/60s-burger-run.jpg"
+thumbnail: /new-images/thumbnails/60s-burger-run.jpg
 urlstr: "60s-burger-run"
 score: "4.6/5  (1344 votes)"
 tags: ["60 seconds burger run"]

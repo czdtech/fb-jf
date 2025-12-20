@@ -6,7 +6,7 @@ description: >-
   《Bombs Drops Physics balls》是一款轻量级物理解谜游戏，通过投放炸弹或球体引发连锁反应，击倒支架、触发机关，
   用尽量少的投掷次数完成关卡目标。
 iframeSrc: 'https://6nhcl6kaecsio.h5games.usercontent.goog/v/09ccnat7ptqs8/'
-thumbnail: /new-images/bombs-drops-physics-balls.jpg
+thumbnail: /new-images/thumbnails/bombs-drops-physics-balls.jpg
 tags:
   - puzzle
   - thinky

@@ -7,7 +7,7 @@ description: >-
   esquivas bombas; encadena combos y aprovecha los modos frenesí para lograr
   grandes puntuaciones.
 iframeSrc: 'https://emulatoros.github.io/gfile/fruitninja/'
-thumbnail: /new-images/fruit-ninja.jpg
+thumbnail: /new-images/thumbnails/fruit-ninja.jpg
 tags:
   - arcade
   - action

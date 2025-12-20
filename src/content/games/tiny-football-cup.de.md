@@ -7,7 +7,7 @@ description: >-
   zieh platziert ab und gewinne durch gutes Stellungsspiel statt wildem
   Dribbling.
 iframeSrc: 'https://67buf3k7fmhlg.h5games.usercontent.goog/v/4r92r0smsurf0/'
-thumbnail: /new-images/tiny-football-cup.png
+thumbnail: /new-images/thumbnails/tiny-football-cup.png
 tags:
   - sports
   - soccer

@@ -2,7 +2,7 @@
 title: Domino Adventure ドミノ・アドベンチャー
 description: 「Domino Adventure」は世界を旅するドミノゲーム。戦略的に牌を並べて対戦相手を出し抜き、勝利を重ねてトロフィーロードを進もう。
 iframeSrc: 'https://dominoadventure.h5games.usercontent.goog/v/9sskl4s1clbk0/'
-thumbnail: /new-images/domino-adventure.png
+thumbnail: /new-images/thumbnails/domino-adventure.png
 urlstr: domino-adventure
 score: 4.4/5  (2200 votes)
 tags:

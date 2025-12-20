@@ -4,7 +4,7 @@ urlstr: gym-stack
 title: "《Gym Stack》健身杠铃堆堆乐"
 description: "在《Gym Stack》中，你要在多根杠上堆叠不同大小和颜色的杠铃片，通过移动和合并来清理空间，用最聪明的方式拿下高分。"
 iframeSrc: 'https://gymstack.h5games.usercontent.goog/v/3js1l1d7rdkfg/'
-thumbnail: /new-images/gym-stack.jpeg
+thumbnail: /new-images/thumbnails/gym-stack.jpeg
 tags:
   - action
   - casual

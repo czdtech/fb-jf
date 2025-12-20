@@ -7,7 +7,7 @@ description: >-
   la cuadrícula de 10x10 para formar líneas completas y limpiarlas del tablero.
   ¿Hasta qué puntuación podrás llegar?
 iframeSrc: 'https://51vi4vae20f8o.h5games.usercontent.goog/v/66bqinuuh36b8/'
-thumbnail: /new-images/blockdrop.png
+thumbnail: /new-images/thumbnails/blockdrop.png
 tags:
   - puzzle
   - thinky

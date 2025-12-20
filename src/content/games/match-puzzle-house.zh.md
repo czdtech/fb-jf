@@ -5,7 +5,7 @@ title: "《Match Puzzle House》三消装修小屋"
 description: >-
   《Match Puzzle House》是一款将三消解谜与家居装修结合的休闲游戏，通过完成关卡目标获取星星，再为各个房间进行翻新与布置。
 iframeSrc: 'https://7cp83ss0h08p0.h5games.usercontent.goog/v/49v2bsl4scjdo/'
-thumbnail: /new-images/match-puzzle-house.png
+thumbnail: /new-images/thumbnails/match-puzzle-house.png
 tags:
   - puzzle
   - casual

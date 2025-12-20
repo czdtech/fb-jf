@@ -3,7 +3,7 @@ title: Super Smash Flash 2 v0.8
 description: >-
   Super Smash Flash 2 v0.8は、Super Smash Bros.にインスパイアされた人気のファン製格闘ゲームです。さまざまなキャラクターで対戦できます。
 iframeSrc: 'https://ubg98.github.io/SuperSmashFlash2v08/'
-thumbnail: /new-images/super-smash-flash-2-v08.jpg
+thumbnail: /new-images/thumbnails/super-smash-flash-2-v08.jpg
 urlstr: super-smash-flash-2-v08
 score: 4.6/5  (4523 votes)
 tags:

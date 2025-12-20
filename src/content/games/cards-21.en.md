@@ -3,7 +3,7 @@ locale: en
 title: "Cards-21"
 description: "Cards-21 streamlines blackjack — hit or stand, manage risk, and chase 21 without busting."
 iframeSrc: "https://11kvu79prlefg.h5games.usercontent.goog/v/67r78cf7q96c0/"
-thumbnail: "/new-images/cards-21.png"
+thumbnail: /new-images/thumbnails/cards-21.png
 urlstr: "cards-21"
 score: "3.8/5  (1547 votes)"
 tags: ["card", "casual", "thinky"]

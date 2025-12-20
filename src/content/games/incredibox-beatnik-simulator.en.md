@@ -4,7 +4,7 @@ modType: incredibox
 title: "Incredibox Beatnik Simulator"
 description: "It transports players to the smoky jazz clubs of the 1950s and 60s, with a theme centered around the Beatnik subculture a movement known for its celebration of jazz, poetry, and nonconformity"
 iframeSrc: "https://turbowarp.org/948885978/embed"
-thumbnail: "/new-images/incredibox-beatnik-simulator.png"
+thumbnail: /new-images/thumbnails/incredibox-beatnik-simulator.png
 urlstr: "incredibox-beatnik-simulator"
 score: "4.6/5 (1102 votes)"
 tags: ["music", "rhythm", "simulator"]

@@ -4,7 +4,7 @@ locale: en
 title: "Stick Fighter"
 description: "Become a master of stickman combat in Stick Fighter! This action-packed brawler pits you against other stick figures in a physics-based arena. Use your fists, feet, and a variety of weapons to be the last one standing."
 iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221209/4/index.html"
-thumbnail: "/new-images/stick-fighter.jpg"
+thumbnail: /new-images/thumbnails/stick-fighter.jpg
 urlstr: "stick-fighter"
 score: "3.6/5  (1444 votes)"
 tags: ["fighting", "action", "stickman"]

@@ -7,7 +7,7 @@ description: >-
   토끼가 출발점에서 목표 지점까지 끊기지 않는 길을 만들고, 가능하다면 중간의
   아이템도 챙겨 보세요.
 iframeSrc: 'https://630h8fcg3e938.h5games.usercontent.goog/v/51qfd4fr90dro/'
-thumbnail: /new-images/bunny-quest.png
+thumbnail: /new-images/thumbnails/bunny-quest.png
 tags:
   - puzzle
   - thinky

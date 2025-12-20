@@ -7,7 +7,7 @@ description: >-
   alas iguales para formar mariposas completas, hacerlas volar y limpiar el
   tablero.
 iframeSrc: 'https://1pq2qond4eka0.h5games.usercontent.goog/v/4oiv5e7dd7vd8/'
-thumbnail: /new-images/butterfly-shimai.png
+thumbnail: /new-images/thumbnails/butterfly-shimai.png
 tags:
   - puzzle
   - casual

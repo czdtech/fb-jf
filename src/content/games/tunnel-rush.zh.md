@@ -4,7 +4,7 @@ urlstr: tunnel-rush
 title: 《Tunnel Rush》隧道疾驰
 description: 《Tunnel Rush》是一款一人称视角的高速隧道躲避游戏。你将在色彩斑斓的三维隧道中一路狂飙，躲避迎面而来的障碍物，考验反应与手眼协调。
 iframeSrc: 'https://tunnelrush.h5games.usercontent.goog/v/4g7d2n9c1b5k0/'
-thumbnail: /new-images/tunnel-rush.jpg
+thumbnail: /new-images/thumbnails/tunnel-rush.jpg
 tags:
   - running
   - reflex

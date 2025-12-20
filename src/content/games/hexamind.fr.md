@@ -4,7 +4,7 @@ urlstr: hexamind
 title: "HexaMind"
 description: "HexaMind est un puzzle logique sur grille hexagonale : place des tuiles en respectant des règles d’adjacence et de parité à travers des motifs en nid d’abeille."
 iframeSrc: 'https://518ndvi54l1n0.h5games.usercontent.goog/v/608gefgjbkc88/'
-thumbnail: /new-images/hexamind.png
+thumbnail: /new-images/thumbnails/hexamind.png
 tags:
   - puzzle
   - thinky

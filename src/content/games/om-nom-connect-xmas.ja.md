@@ -4,7 +4,7 @@ description: >-
   Om Nom Connect Xmasはホリデーマッチングパズルです。クリスマステーマのタイルを接続し、フェスティブなレベルをクリアし、Om
   Nomと祝います。
 iframeSrc: 'https://omnomconnectxmas.h5games.usercontent.goog/v/2m8k5j9h7p3n8/'
-thumbnail: /new-images/om-nom-connect-xmas.png
+thumbnail: /new-images/thumbnails/om-nom-connect-xmas.jpg
 urlstr: om-nom-connect-xmas
 score: 4.3/5  (2123 votes)
 tags:

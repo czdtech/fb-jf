@@ -7,7 +7,7 @@ description: >-
   sons entraînants et memes cultes d’Internet. Rejoins Sprunki But With Memes et
   utilise ton talent musical pour déclencher une véritable vague de memes !
 iframeSrc: 'https://kdata1.com/5000/2024/sprunki-retake-memes/'
-thumbnail: /sprunki-but-with-memes.png
+thumbnail: /new-images/thumbnails/sprunki-but-with-memes.png
 tags:
   - sprunki but with memes
 score: 4.2/5  (142 votes)

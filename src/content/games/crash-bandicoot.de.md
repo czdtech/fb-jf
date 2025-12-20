@@ -7,7 +7,7 @@ description: >-
   sammle Wumpa-Früchte und Kristalle, weiche TNT aus und meistere thematische
   Level in diesem Browser-Remake.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/crash-bandicoot.html'
-thumbnail: /new-images/crash-bandicoot.jpg
+thumbnail: /new-images/thumbnails/crash-bandicoot.jpg
 tags:
   - arcade
   - platformer

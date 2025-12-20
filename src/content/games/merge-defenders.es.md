@@ -7,7 +7,7 @@ description: >-
   Combina defensores idénticos para crear versiones más poderosas y colócalos
   con cabeza para resistir oleadas de enemigos.
 iframeSrc: 'https://5c1j2nn9b0q4o.h5games.usercontent.goog/v/20drsjkant5s8/'
-thumbnail: /new-images/merge-defenders.png
+thumbnail: /new-images/thumbnails/merge-defenders.png
 tags:
   - strategy
   - tower Defense

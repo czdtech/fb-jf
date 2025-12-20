@@ -6,7 +6,7 @@ description: >-
   《Billiards Classic 经典 8 球》把酒吧里的传统 8 球台球搬到屏幕上，对战电脑对手，瞄准、加旋、清掉自己一方 的全部球后，再按规则打进
   8 号球赢下比赛。
 iframeSrc: 'https://billiardsclassic.h5games.usercontent.goog/v/27m4mvjv84l70/'
-thumbnail: /new-images/billiards-classic.png
+thumbnail: /new-images/thumbnails/billiards-classic.png
 tags:
   - sports
   - puzzle

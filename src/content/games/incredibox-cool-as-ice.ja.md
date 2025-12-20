@@ -2,7 +2,7 @@
 title: "Incredibox Cool As Ice 🎮 Play Incredibox Cool As Ice Online"
 description: "Incredibox Cool as Iceは冬（氷）テーマのファンメイドModです。キャラクターやサウンドが冬仕様になり、ドラッグ＆ドロップでループ音楽を作れます。"
 iframeSrc: "https://turbowarp.org/1108441752/embed"
-thumbnail: "/incredibox-cool-as-ice.png"
+thumbnail: /new-images/thumbnails/incredibox-cool-as-ice.png
 urlstr: "incredibox-cool-as-ice"
 score: "4.9/5  (724 votes)"
 tags: ["incredibox cool as ice", "incredibox cool as ice online"]

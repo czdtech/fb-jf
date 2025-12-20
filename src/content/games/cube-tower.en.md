@@ -5,7 +5,7 @@ description: >-
   Protect your Cube Tower from waves of enemies in this exciting tower defense
   game. Place and upgrade your towers strategically to survive.
 iframeSrc: 'https://cubetower.h5games.usercontent.goog/v/6k8tnoea28210/'
-thumbnail: /new-images/cube-tower.png
+thumbnail: /new-images/thumbnails/cube-tower.png
 urlstr: cube-tower
 score: 4.4/5 (1987 votes)
 tags:

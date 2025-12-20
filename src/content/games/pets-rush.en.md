@@ -3,7 +3,7 @@ locale: en
 title: "Pets Rush"
 description: "A fast-paced and colorful match-3 puzzle! Swap cute pets to make matches of three or more, create powerful combos, and clear the board before the pets reach the top."
 iframeSrc: "https://petsrush2.h5games.usercontent.goog/v/e566fdbf-c420-4ec6-af2a-7e9a6edab856/"
-thumbnail: "/new-images/pets-rush.jpg"
+thumbnail: /new-images/thumbnails/pets-rush.jpg
 urlstr: "pets-rush"
 score: "4.3/5  (2150 votes)"
 tags: ["puzzle", "casual", "action"]

@@ -7,7 +7,7 @@ description: >-
   Gruppen aus mindestens drei gleichfarbigen Bonbonblasen und räume das
   Spielfeld in diesem entspannten Bubble-Shooter-Puzzle.
 iframeSrc: 'https://candybubbles.h5games.usercontent.goog/v/370v1t5h5266g/'
-thumbnail: /new-images/candy-bubbles.png
+thumbnail: /new-images/thumbnails/candy-bubbles.png
 tags:
   - shooting
   - puzzle

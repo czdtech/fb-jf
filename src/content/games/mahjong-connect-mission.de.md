@@ -7,7 +7,7 @@ description: >-
   Steine über Pfade mit höchstens zwei Knicken, räume das Feld und schlage die
   Zeit.
 iframeSrc: 'https://7gsm6u8848nko.h5games.usercontent.goog/v/3qaqg5nju3th8/'
-thumbnail: /new-images/mahjong-connect-mission.png
+thumbnail: /new-images/thumbnails/mahjong-connect-mission.png
 tags:
   - mahjong
   - puzzle

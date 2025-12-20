@@ -6,7 +6,7 @@ description: >-
   Quiz illustré avec des chats : devine la bonne race ou caractéristique à
   partir des photos et indices, et progresse à travers des manches thématiques.
 iframeSrc: 'https://webglmath.github.io/guess-the-kitty/'
-thumbnail: /new-images/guess-the-kitty.jpg
+thumbnail: /new-images/thumbnails/guess-the-kitty.jpg
 tags:
   - trivia
   - puzzle

@@ -6,7 +6,7 @@ description: >-
   Drift Boss ist ein Ein-Knopf-Driftspiel: Time deine Kurven, bleib auf der
   Strecke und sammle Münzen, um neue Fahrzeuge freizuschalten.
 iframeSrc: 'https://ubg98.github.io/DriftBoss/'
-thumbnail: /new-images/drift-boss.jpg
+thumbnail: /new-images/thumbnails/drift-boss.jpg
 tags:
   - racing
   - drifting

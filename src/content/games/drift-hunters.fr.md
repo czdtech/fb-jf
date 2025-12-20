@@ -6,7 +6,7 @@ description: >-
   Drift Hunters est un jeu de drift 3D : règle tes voitures, enchaîne les drifts
   et accumule des points sur plusieurs circuits.
 iframeSrc: 'https://webglmath.github.io/drift-hunters/'
-thumbnail: /new-images/drift-hunters.jpg
+thumbnail: /new-images/thumbnails/drift-hunters.jpg
 tags:
   - racing
   - simulation

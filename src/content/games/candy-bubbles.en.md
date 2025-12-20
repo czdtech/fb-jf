@@ -3,7 +3,7 @@ locale: en
 title: "Candy Bubbles"
 description: "Step into a sweet world and pop colorful candy bubbles! Aim your cannon, match three or more, and clear the board in this delightful bubble shooter puzzle game."
 iframeSrc: "https://candybubbles.h5games.usercontent.goog/v/370v1t5h5266g/"
-thumbnail: "/new-images/candy-bubbles.png"
+thumbnail: /new-images/thumbnails/candy-bubbles.png
 urlstr: "candy-bubbles"
 score: "4.3/5  (2050 votes)"
 tags: ["shooting", "puzzle", "casual"]

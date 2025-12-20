@@ -6,7 +6,7 @@ description: >-
   Timber Guy est un jeu arcade de timing : abats l'arbre, esquive les branches
   et accumule les coupes.
 iframeSrc: 'https://timberguy.h5games.usercontent.goog/v/2ke6osh59ras0/'
-thumbnail: /new-images/timber-guy.png
+thumbnail: /new-images/thumbnails/timber-guy.png
 tags:
   - action
   - casual

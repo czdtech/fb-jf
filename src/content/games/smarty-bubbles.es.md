@@ -7,7 +7,7 @@ description: >-
   combina tres o más burbujas del mismo color para hacerlas explotar y limpia el
   tablero antes de que lleguen al fondo.
 iframeSrc: "https://smartybubbles.h5games.usercontent.goog/v/09fhbor6rfpv0/"
-thumbnail: "/new-images/smarty-bubbles.png"
+thumbnail: /new-images/thumbnails/smarty-bubbles.png
 tags:
   - shooting
   - puzzle

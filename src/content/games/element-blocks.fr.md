@@ -4,7 +4,7 @@ urlstr: element-blocks
 title: Element Blocks
 description: "Element Blocks est un puzzle de placement\_: pose des blocs de formes variées sur la grille pour former des lignes complètes et les faire disparaître."
 iframeSrc: 'https://7gu7c52bmveu0.h5games.usercontent.goog/v/2gnrk9l9hprb0/'
-thumbnail: /new-images/element-blocks.png
+thumbnail: /new-images/thumbnails/element-blocks.png
 tags:
   - puzzle
   - thinky

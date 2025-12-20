@@ -6,7 +6,7 @@ description: >-
   광산 열차를 위해 선로를 놓아 자원을 수집하고 출구까지 안전하게 도달해야 하는 철도 퍼즐 게임입니다.
   회전과 굴곡을 아껴 쓰며 연료를 절약하고, 막다른 길에 갇히지 않도록 경로를 설계해 보세요.
 iframeSrc: 'https://7r2vmm5fqv830.h5games.usercontent.goog/v/3ubj960lc0t4o/'
-thumbnail: /new-images/train-miner.png
+thumbnail: /new-images/thumbnails/train-miner.png
 tags:
   - puzzle
   - thinky

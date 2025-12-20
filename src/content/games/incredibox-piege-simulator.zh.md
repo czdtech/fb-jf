@@ -4,7 +4,7 @@ urlstr: incredibox-piege-simulator
 title: "Incredibox Piege Simulator - 在线玩 Incredibox Piege Simulator"
 description: "Incredibox Piège Simulator 本指南详细介绍了其基于网格的玩法、黑暗而富有氛围的音色调色板，并提供创作激烈陷阱循环的技巧。"
 iframeSrc: 'https://turbowarp.org/887559994/embed'
-thumbnail: /new-images/incredibox-piege-simulator.png
+thumbnail: /new-images/thumbnails/incredibox-piege-simulator.png
 tags:
   - music
   - fan-Made

@@ -7,7 +7,7 @@ description: >-
   Offroad‑Parcours, meistere Hindernisse und bring deinen Wagen ohne Überschlag
   ins Ziel.
 iframeSrc: 'https://trucktrials.h5games.usercontent.goog/v/4u5cado14l780/'
-thumbnail: /new-images/truck-trials.png
+thumbnail: /new-images/thumbnails/truck-trials.png
 tags:
   - driving
   - action

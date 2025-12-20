@@ -3,7 +3,7 @@ locale: en
 title: "Poly Art"
 description: "Relax and challenge your perception with Poly Art, a beautiful 3D puzzle game. Rotate a cloud of colorful polygons until they align to reveal a stunning, complete image."
 iframeSrc: "https://polyart.h5games.usercontent.goog/v/47aiosp2dbqgg/"
-thumbnail: "/new-images/poly-art.png"
+thumbnail: /new-images/thumbnails/poly-art.png
 urlstr: "poly-art"
 score: "4.6/5  (2540 votes)"
 tags: ["puzzle", "thinky", "casual"]

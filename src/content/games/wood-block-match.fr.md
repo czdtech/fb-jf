@@ -7,7 +7,7 @@ description: >-
   formes en bois, efface des lignes et préserve l'espace avec une stratégie
   maligne.
 iframeSrc: 'https://2rfr65hktjv5o.h5games.usercontent.goog/v/46h85f5g0sldo/'
-thumbnail: /new-images/wood-block-match.png
+thumbnail: /new-images/thumbnails/wood-block-match.png
 tags:
   - puzzle
   - thinky

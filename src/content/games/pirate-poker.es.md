@@ -7,7 +7,7 @@ description: >-
   Pirate Poker. Reta a viejos lobos de mar, administra tus doblones y demuestra
   que eres el tiburón de las cartas más temido de los siete mares.
 iframeSrc: 'https://6ghou5c7rjb9g.h5games.usercontent.goog/v/2n3b0c56pikmo/'
-thumbnail: /new-images/pirate-poker.png
+thumbnail: /new-images/thumbnails/pirate-poker.png
 tags:
   - card
   - puzzle

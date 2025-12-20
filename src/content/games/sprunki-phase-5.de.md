@@ -4,7 +4,7 @@ urlstr: sprunki-phase-5
 title: "Sprunki Phase 5 - Sprunki Phase 5 online spielen"
 description: "Sprunki Phase 5 ist ein Fan-Musikspiel, das das klassische Sprunki-Layering mit einer düsteren, atmosphärischen Horror-Note kombiniert."
 iframeSrc: 'https://sprunki-phase-5-ekz.pages.dev/'
-thumbnail: /sprunki-phase-5.png
+thumbnail: /new-images/thumbnails/sprunki-phase-5.png
 tags:
   - sprunki phase 5
   - sprunki phase 5 online

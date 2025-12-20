@@ -7,7 +7,7 @@ description: >-
   hexagonales de même couleur dans ce puzzle match‑3 pour lancer de puissantes
   attaques et progresser dans le donjon.
 iframeSrc: 'https://hexadungeon.h5games.usercontent.goog/v/0j3gttu45n06g/'
-thumbnail: /new-images/hexa-dungeon.png
+thumbnail: /new-images/thumbnails/hexa-dungeon.png
 tags:
   - puzzle
   - action

@@ -7,7 +7,7 @@ description: >-
   Hochstapler und finde versteckte Hinweise in dutzenden Szenen – nur mit
   scharfem Blick und Querdenken kommst du der Wahrheit auf die Spur.
 iframeSrc: 'https://rebemanae.github.io/who-is/'
-thumbnail: /new-images/who-is.jpg
+thumbnail: /new-images/thumbnails/who-is.jpg
 tags:
   - puzzle
   - riddle

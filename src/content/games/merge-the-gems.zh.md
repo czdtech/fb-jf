@@ -5,7 +5,7 @@ title: "《Merge the Gems》宝石合成工坊"
 description: >-
   《Merge the Gems》是一款以宝石为主题的合成益智游戏，你从普通原石开始，通过不断合成相同宝石，锻造出更高价值的珠宝，并在有限棋盘中完成目标挑战。
 iframeSrc: 'https://mergethegems.h5games.usercontent.goog/v/5rut2fhhuqb1g/'
-thumbnail: /new-images/merge-the-gems.jpg
+thumbnail: /new-images/thumbnails/merge-the-gems.jpg
 tags:
   - puzzle
   - casual

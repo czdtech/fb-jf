@@ -2,7 +2,7 @@
 title: We Become What We Behold
 description: We Become What We Beholdは、社会実験ゲームです。メディアと人間行動の関係を探索しましょう。
 iframeSrc: 'https://ubg98.github.io/WeBecomeWhatWeBehold/'
-thumbnail: /new-images/we-become-what-we-behold.jpg
+thumbnail: /new-images/thumbnails/we-become-what-we-behold.jpg
 urlstr: we-become-what-we-behold
 score: 4.6/5  (3892 votes)
 tags:

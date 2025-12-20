@@ -7,7 +7,7 @@ description: >-
   einen Rang höher oder niedriger sind, an und baue lange Serien, bevor dein
   Nachziehstapel leer ist.
 iframeSrc: 'https://tripeakssolitaire.h5games.usercontent.goog/v/4v3d7g06n6rug/'
-thumbnail: /new-images/tripeaks-solitaire.png
+thumbnail: /new-images/thumbnails/tripeaks-solitaire.png
 tags:
   - card
   - puzzle

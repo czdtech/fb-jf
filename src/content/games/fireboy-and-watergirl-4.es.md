@@ -8,7 +8,7 @@ description: >-
   puzle, controles y respuestas a preguntas frecuentes para este juego de
   plataformas de 2 jugadores.
 iframeSrc: 'https://slope-game.github.io/fireboy-water-4/'
-thumbnail: /new-images/fireboy-and-watergirl-4.jpg
+thumbnail: /new-images/thumbnails/fireboy-and-watergirl-4.jpg
 tags:
   - casual
   - rhythm

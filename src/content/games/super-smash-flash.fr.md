@@ -6,7 +6,7 @@ description: >-
   Super Smash Flash est un jeu de combat de plateforme fan‑made rendant hommage
   à Super Smash Bros, jouable à deux sur le même clavier.
 iframeSrc: 'https://2tm5ud1ghg66o.h5games.usercontent.goog/v/2ag72k8odda3a/'
-thumbnail: /new-images/super-smash-flash.png
+thumbnail: /new-images/thumbnails/super-smash-flash.jpg
 tags:
   - fighting
   - 2 player

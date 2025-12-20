@@ -7,7 +7,7 @@ description: >-
   contrôle la blanche avec les effets et nettoie la table grâce à un bon
   jeu de position.
 iframeSrc: 'https://4i2ksm0sqbsr0.h5games.usercontent.goog/v/6fbgaukuhtvqo/'
-thumbnail: /new-images/pool-8-ball-mania.png
+thumbnail: /new-images/thumbnails/pool-8-ball-mania.png
 tags:
   - sports
   - pool

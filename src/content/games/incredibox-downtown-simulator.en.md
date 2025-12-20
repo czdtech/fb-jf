@@ -4,7 +4,7 @@ modType: incredibox
 title: "Incredibox Downtown Simulator"
 description: "A new Incredibox mod to discover. More details coming soon."
 iframeSrc: "https://turbowarp.org/949700724/embed"
-thumbnail: "/new-images/incredibox-downtown-simulator.png"
+thumbnail: /new-images/thumbnails/incredibox-downtown-simulator.png
 urlstr: "incredibox-downtown-simulator"
 score: "4.7/5 (1523 votes)"
 tags: ["music", "simulator"]

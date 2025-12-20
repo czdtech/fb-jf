@@ -7,7 +7,7 @@ description: >-
   以及节奏紧凑的文字问答。在轻度计时压力下，同时考验你的词根词缀感、
   字母频率直觉和排除推理能力。
 iframeSrc: 'https://60p1t41kumli8.h5games.usercontent.goog/v/7pss7j2tdq7io/'
-thumbnail: /new-images/words-challenge.jpg
+thumbnail: /new-images/thumbnails/words-challenge.jpg
 tags:
   - puzzle
   - thinky

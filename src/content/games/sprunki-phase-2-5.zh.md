@@ -5,7 +5,7 @@ urlstr: "sprunki-phase-2-5"
 title: "Sprunki Phase 2.5 - 在线玩 Sprunki Phase 2.5"
 description: "Sprunki Phase 2.5 (JOKE MOD) 不仅仅是一款游戏；它是一场充满惊喜和转折的音乐冒险。"
 iframeSrc: "https://html-classic.itch.zone/html/14324321/index.html"
-thumbnail: "/sprunki-phase-2-5.png"
+thumbnail: /new-images/thumbnails/sprunki-phase-2-5.png
 score: "4.3/5  (218 票)"
 tags: ["sprunki phase 2.5"]
 ---

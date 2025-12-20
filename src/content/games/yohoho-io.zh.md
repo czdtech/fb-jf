@@ -7,7 +7,7 @@ description: >-
   通过收集金币变强、挥剑击倒比你小的对手，并躲避不断缩小的安全圈，
   在剑技与走位中活到最后，成为海上最令人生畏的海盗。
 iframeSrc: 'https://bitlifeonline.github.io/class16523/yohoho-io/'
-thumbnail: /new-images/yohoho-io.jpg
+thumbnail: /new-images/thumbnails/yohoho-io.jpg
 tags:
   - io-game
   - battle-royale

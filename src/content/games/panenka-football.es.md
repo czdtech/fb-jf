@@ -7,7 +7,7 @@ description: >-
   disfraza la intención, pica el balón con sutileza y adivina al portero
   alternando perfiles de disparo.
 iframeSrc: 'https://15n5pfdq70ung.h5games.usercontent.goog/v/2ftdtu6n19sk8/'
-thumbnail: /new-images/panenka-football.png
+thumbnail: /new-images/thumbnails/panenka-football.png
 tags:
   - sports
   - soccer

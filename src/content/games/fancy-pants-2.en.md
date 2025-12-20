@@ -4,7 +4,7 @@ locale: en
 title: "Fancy Pants 2"
 description: "Momentum‑driven platformer sequel: faster movement tech, new enemies, and larger hand‑drawn stages with secrets and trophies."
 iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210305/jj9/index.html"
-thumbnail: "/new-images/fancy-pants-2.jpg"
+thumbnail: /new-images/thumbnails/fancy-pants-2.jpg
 urlstr: "fancy-pants-2"
 score: "4.3/5  (582 votes)"
 tags: ["platformer", "action"]

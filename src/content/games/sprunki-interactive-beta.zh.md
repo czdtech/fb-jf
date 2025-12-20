@@ -5,7 +5,7 @@ urlstr: "sprunki-interactive-beta"
 title: "Sprunki Interactive BETA - 在线玩 Sprunki Interactive BETA"
 description: "Sprunki Interactive BETA 不仅仅是 Sprunki 游戏的简单升级，它是一次打破规则的创新尝试。"
 iframeSrc: "https://turbowarp.org/1090663998/embed"
-thumbnail: "/sprunki-interactive-beta.png"
+thumbnail: /new-images/thumbnails/sprunki-interactive-beta.png
 score: "4.0/5  (407 票)"
 tags: ["sprunki interactive beta"]
 ---

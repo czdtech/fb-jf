@@ -4,7 +4,7 @@ urlstr: jewel-magic-xmas
 title: 《Jewel Magic Xmas》圣诞魔法宝石
 description: 《Jewel Magic Xmas》是一款圣诞主题的三消游戏，在飘雪的冬日场景中交换圣诞球、拐杖糖和铃铛，利用魔法道具和连锁消除完成一个个温馨关卡。
 iframeSrc: 'https://jewelmagicxmas.h5games.usercontent.goog/v/19095ne8tscfg/'
-thumbnail: /new-images/jewel-magic-xmas.png
+thumbnail: /new-images/thumbnails/jewel-magic-xmas.png
 tags:
   - puzzle
   - casual

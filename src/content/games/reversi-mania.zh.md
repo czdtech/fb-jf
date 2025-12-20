@@ -6,7 +6,7 @@ description: >-
   《Reversi Mania》是一款忠实还原经典黑白棋（又名 Othello 反转棋）的对战游戏。在 8×8
   棋盘上夹击对手棋子、抢占角落，并通过精妙的终盘“奇偶控制”拿下胜利。
 iframeSrc: 'https://reversimania.h5games.usercontent.goog/v/7rhqf6sl8lpf0/'
-thumbnail: /new-images/reversi-mania.png
+thumbnail: /new-images/thumbnails/reversi-mania.png
 tags:
   - 2 player
   - thinky

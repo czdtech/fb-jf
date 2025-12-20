@@ -7,7 +7,7 @@ description: >-
   posición de todas las minas ocultas y limpia el tablero sin hacer explotar
   ninguna.
 iframeSrc: 'https://minesweeper.h5games.usercontent.goog/v/6uo6tf2lnil3o/'
-thumbnail: /new-images/minesweeper-2.jpg
+thumbnail: /new-images/thumbnails/minesweeper-2.jpg
 tags:
   - puzzle
   - thinky

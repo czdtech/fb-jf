@@ -4,7 +4,7 @@ urlstr: bunny-quest
 title: Bunny Quest
 description: "Bunny Quest est un puzzle de glissement de tuiles\_: fais coulisser les cases pour créer un chemin continu et mener le lapin jusqu’à la carotte."
 iframeSrc: 'https://630h8fcg3e938.h5games.usercontent.goog/v/51qfd4fr90dro/'
-thumbnail: /new-images/bunny-quest.png
+thumbnail: /new-images/thumbnails/bunny-quest.png
 tags:
   - puzzle
   - thinky

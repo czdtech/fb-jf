@@ -3,7 +3,7 @@ locale: en
 title: "Idle Explorers"
 description: "Manage a team of explorers and automate your digging empire in Idle Explorers! Upgrade your workers, unlock new dig sites, and discover rare artifacts in this addictive idle adventure."
 iframeSrc: "https://5ik68qrla8g6g.h5games.usercontent.goog/v/1vuib5ibuof0g/"
-thumbnail: "/new-images/idle-explorers.png"
+thumbnail: /new-images/thumbnails/idle-explorers.png
 urlstr: "idle-explorers"
 score: "4.4/5  (2400 votes)"
 tags: ["casual", "clicker", "strategy"]

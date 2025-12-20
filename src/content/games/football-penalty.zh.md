@@ -6,7 +6,7 @@ description: >-
   Football Penalty 專注重現足球點球大戰——你要選擇射門落點、高度與力度，
   在壓力下騙過門將；有些模式中你也可以反過來扮演門將讀秒撲救。
 iframeSrc: 'https://2fb6vjapfstro.h5games.usercontent.goog/v/5443q25keq2qg/'
-thumbnail: /new-images/football-penalty.png
+thumbnail: /new-images/thumbnails/football-penalty.png
 tags:
   - sports
   - soccer

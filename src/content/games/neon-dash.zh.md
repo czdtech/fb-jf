@@ -5,7 +5,7 @@ title: '霓虹冲刺'
 description: >-
   霓虹冲刺是一款快节奏的精准跑酷游戏——跳跃、躲避危险，并精确控制时机以在霓虹挑战中生存。
 iframeSrc: 'https://1bveca4tkimog.h5games.usercontent.goog/v/4bq2naj6mtutg/'
-thumbnail: /new-images/neon-dash.png
+thumbnail: /new-images/thumbnails/neon-dash.png
 tags:
   - action
   - thinky

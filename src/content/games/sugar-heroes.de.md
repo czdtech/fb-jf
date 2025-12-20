@@ -4,7 +4,7 @@ urlstr: sugar-heroes
 title: "Sugar Heroes"
 description: "Sugar Heroes ist ein farbenfrohes Match‑3 mit Comic-Helden und Süßigkeiten-Blockern: Räum Gelee ab, sammle Zutaten und kombiniere Power-ups, um selbst dichte Boards zu sprengen." 
 iframeSrc: 'https://2f4eprapfvtoo.h5games.usercontent.goog/v/4bc5h26thvau8/'
-thumbnail: /new-images/sugar-heroes.png
+thumbnail: /new-images/thumbnails/sugar-heroes.png
 tags:
   - puzzle
   - casual

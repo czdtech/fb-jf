@@ -7,7 +7,7 @@ description: >-
   completar líneas o zonas, limpia varias filas a la vez y evita crear huecos
   cerrados que no puedas rellenar.
 iframeSrc: 'https://1uerepsm8tbpg.h5games.usercontent.goog/v/3st9sicdd4eu0/'
-thumbnail: /new-images/aqua-blocks.png
+thumbnail: /new-images/thumbnails/aqua-blocks.png
 tags:
   - puzzle
   - thinky

@@ -7,7 +7,7 @@ description: >-
   grandit en mangeant des bonus, tout en évitant les murs et ton propre corps
   pour viser le score le plus élevé possible.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/snake/'
-thumbnail: /new-images/snake-game.jpg
+thumbnail: /new-images/thumbnails/snake-game.jpg
 tags:
   - classic
   - arcade

@@ -6,7 +6,7 @@ description: >-
   《Doodle Cricket》是 Google 推出的轻量板球涂鸦小游戏。通过把握挥棒时机，将球击出守备
   阵，尽可能多地得分，直到被接杀或出局为止。
 iframeSrc: 'https://f3.silvergames.com/m/doodle-cricket/'
-thumbnail: /new-images/doodle-cricket.jpg
+thumbnail: /new-images/thumbnails/doodle-cricket.jpg
 tags:
   - sports
   - arcade

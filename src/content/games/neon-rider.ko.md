@@ -6,7 +6,7 @@ description: >-
   Neon Rider는 네온 트랙 위를 질주하며 점프와 착지, 가속을 정교하게 조절해 흐름을
   유지하는 바이크 물리 플랫포머입니다.
 iframeSrc: 'https://1ef80kndi1bv0.h5games.usercontent.goog/v/4glscq8hf3m20/'
-thumbnail: /new-images/neon-rider.png
+thumbnail: /new-images/thumbnails/neon-rider.png
 tags:
   - bike
   - action

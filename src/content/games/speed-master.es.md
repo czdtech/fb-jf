@@ -6,7 +6,7 @@ description: >-
   Speed Master es una prueba extrema de reflejos: acierta los avisos al ritmo,
   encadena perfectos y mantén la calma cuando la velocidad se dispare.
 iframeSrc: "https://6e0ej8ct9hdj8.h5games.usercontent.goog/v/1fssfmqquil18/"
-thumbnail: "/new-images/speed-master.png"
+thumbnail: /new-images/thumbnails/speed-master.png
 tags:
   - action
   - casual

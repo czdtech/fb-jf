@@ -7,7 +7,7 @@ description: >-
   Karten geschickt zwischen Tableau und Ablagestapeln, um alle Farben in
   aufsteigender Reihenfolge zu sortieren.
 iframeSrc: 'https://6uj90l2koon6g.h5games.usercontent.goog/v/2a72i89u7qfe8/'
-thumbnail: /new-images/classic-solitaire.png
+thumbnail: /new-images/thumbnails/classic-solitaire.png
 tags:
   - card
   - puzzle

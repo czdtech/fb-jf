@@ -6,7 +6,7 @@ description: >-
   Duck Life 4 est un jeu d’entraînement et de course : développe les stats de ton
   canard via des mini‑jeux et gagne des tournois.
 iframeSrc: 'https://webglmath.github.io/ducklife-4/'
-thumbnail: /new-images/duck-life-4.jpg
+thumbnail: /new-images/thumbnails/duck-life-4.jpg
 tags:
   - racing
   - simulation

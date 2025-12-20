@@ -4,7 +4,7 @@ urlstr: text-twist
 title: "Text Twist"
 description: "Fordere Wortschatz und Reaktionsvermögen in Text Twist heraus: Entwirre Buchstaben, bilde so viele Wörter wie möglich und finde das Bingo‑Wort, bevor die Zeit abläuft."
 iframeSrc: 'https://games.cdn.famobi.com/html5games/t/text-twist/v010/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=5b597140-77c2-4f7c-9abf-4f149d6dcbac&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=465&original_ref='
-thumbnail: /new-images/text-twist.jpg
+thumbnail: /new-images/thumbnails/text-twist.jpg
 tags:
   - word-game
   - puzzle

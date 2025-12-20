@@ -2,7 +2,7 @@
 title: "Bad Ice-Cream 3 バッド・アイスクリーム3"
 description: "「Bad Ice-Cream 3」が登場！砂漠や宇宙を舞台に、新しい敵とギミックが満載。氷の壁を作り、フルーツを集め、最大の冒険に挑め！"
 iframeSrc: "https://badicecream.h5games.usercontent.goog/v/9b83b167-93e1-482a-874f-c4e9702209d8/"
-thumbnail: "/new-images/bad-ice-cream-3.jpg"
+thumbnail: /new-images/thumbnails/bad-ice-cream-3.jpg
 urlstr: "bad-ice-cream-3"
 score: "4.7/5  (8125 votes)"
 tags: ["puzzle", "action"]

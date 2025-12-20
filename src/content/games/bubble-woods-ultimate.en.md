@@ -3,7 +3,7 @@ locale: en
 title: "Bubble Woods Ultimate"
 description: "Race against the clock in this fast-paced bubble shooter! You have 60 seconds to pop as many bubbles as you can, create massive combos, and use powerful boosters to get the highest score."
 iframeSrc: "https://bubblewoods4.h5games.usercontent.goog/v/4jslovpheann0/"
-thumbnail: "/new-images/bubble-woods-ultimate.png"
+thumbnail: /new-images/thumbnails/bubble-woods-ultimate.png
 urlstr: "bubble-woods-ultimate"
 score: "4.4/5  (2500 votes)"
 tags: ["shooting", "action", "casual"]

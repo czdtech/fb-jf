@@ -7,7 +7,7 @@ description: >-
   encaja las piezas, prepara explosiones de varias líneas y mantén el tablero
   siempre respirable.
 iframeSrc: 'https://0nrdbfos8jhv8.h5games.usercontent.goog/v/6ovao2cpe86og/'
-thumbnail: /new-images/block-blaster-puzzle.png
+thumbnail: /new-images/thumbnails/block-blaster-puzzle.png
 tags:
   - puzzle
   - thinky

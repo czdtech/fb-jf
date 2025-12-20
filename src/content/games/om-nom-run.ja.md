@@ -2,7 +2,7 @@
 title: Om Nom Run
 description: Om Nom Runはエンドレスランナーです。走ってキャンディやコインを集め、障害物を避けながら距離とスコアを伸ばします。
 iframeSrc: 'https://omnomrun.h5games.usercontent.goog/v/5h9k2m7j8p3n8/'
-thumbnail: /new-images/om-nom-run.png
+thumbnail: /new-images/thumbnails/om-nom-run.png
 urlstr: om-nom-run
 score: 4.4/5  (2567 votes)
 tags:

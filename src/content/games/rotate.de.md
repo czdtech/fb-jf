@@ -7,7 +7,7 @@ description: >-
   um eine Kugel durch verwinkelte Labyrinthe und Hindernisse zu führen und mit
   Schwerkraft und Schwung das Ziel zu erreichen.
 iframeSrc: 'https://rebemanae.github.io/rotate/'
-thumbnail: /new-images/rotate.jpg
+thumbnail: /new-images/thumbnails/rotate.jpg
 tags:
   - puzzle
   - physics

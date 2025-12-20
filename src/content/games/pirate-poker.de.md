@@ -7,7 +7,7 @@ description: >-
   zusammen. Fordere raue Seebären heraus, verwalte deine Dublonen und zeige,
   dass du der schärfste Kartenspieler auf den sieben Weltmeeren bist.
 iframeSrc: 'https://6ghou5c7rjb9g.h5games.usercontent.goog/v/2n3b0c56pikmo/'
-thumbnail: /new-images/pirate-poker.png
+thumbnail: /new-images/thumbnails/pirate-poker.png
 tags:
   - card
   - puzzle

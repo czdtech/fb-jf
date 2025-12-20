@@ -3,7 +3,7 @@ locale: en
 title: "Zombie Gun"
 description: "Zombie Gun is a physics shooter — ricochet bullets, trigger barrels, and clear rooms with clever angles and limited ammo."
 iframeSrc: "https://5bcvrmoqria48.h5games.usercontent.goog/v/7cfakbl479q6o/"
-thumbnail: "/new-images/zombie-gun.png"
+thumbnail: /new-images/thumbnails/zombie-gun.png
 urlstr: "zombie-gun"
 score: "4.0/5  (1898 votes)"
 tags: ["shooting", "puzzle"]

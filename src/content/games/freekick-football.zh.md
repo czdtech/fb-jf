@@ -6,7 +6,7 @@ description: >-
   在 Freekick Football 中專注磨練你的任意球腳法——瞄準、射門、過人牆、破門，
   一步步成為任意球專家。
 iframeSrc: 'https://freekickfootball.h5games.usercontent.goog/v/0lqeu7698mvk0/'
-thumbnail: /new-images/freekick-football.png
+thumbnail: /new-images/thumbnails/freekick-football.png
 tags:
   - soccer
   - sports

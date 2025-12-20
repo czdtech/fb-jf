@@ -6,7 +6,7 @@ description: >-
   Color Roll 3D는 여러 겹의 색 스트립을 펼쳐 보드를 정확히 채우는 퍼즐 게임입니다. 스트립이 서로를 덮는 순서를 잘 계획해, 목표
   패턴과 똑같이 칠해 보세요.
 iframeSrc: 'https://63vakb2ehqof8.h5games.usercontent.goog/v/381au2qko6no0/'
-thumbnail: /new-images/color-roll-3d.png
+thumbnail: /new-images/thumbnails/color-roll-3d.png
 tags:
   - puzzle
   - thinky

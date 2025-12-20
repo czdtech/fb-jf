@@ -7,7 +7,7 @@ description: >-
   Schusskraft an und triff den Korb – notfalls sogar durch Holz‑ und Eisblöcke
   hindurch.
 iframeSrc: 'https://basketballmaster2.h5games.usercontent.goog/v/267j5oehq25q0/'
-thumbnail: /new-images/basketball-master-2.png
+thumbnail: /new-images/thumbnails/basketball-master-2.png
 tags:
   - sports
   - basketball

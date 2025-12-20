@@ -6,7 +6,7 @@ description: >-
   在《Endless Siege》中對抗一波又一波永不停止的獸人攻勢——布置並升級火砲、弩砲等防禦塔，
   在每天更新的隨機地圖上盡可能撐過更多回合。
 iframeSrc: 'https://endlessseige.h5games.usercontent.goog/v/35nvlvatb9t8g/'
-thumbnail: /new-images/endless-siege.jpg
+thumbnail: /new-images/thumbnails/endless-siege.jpg
 tags:
   - tower Defense
   - strategy

@@ -5,7 +5,7 @@ description: >-
   Duck Life is a training and racing sim: level up your duck through mini‑games
   and win races.
 iframeSrc: 'https://games.wixgames.co.uk/games/ducklife1/webgl/'
-thumbnail: /new-images/duck-life.jpg
+thumbnail: /new-images/thumbnails/duck-life.jpg
 urlstr: duck-life
 score: 4.2/5  (1164 votes)
 tags:

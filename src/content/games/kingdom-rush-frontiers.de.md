@@ -7,7 +7,7 @@ description: >-
   Türme, setze Verstärkungen und Helden ein und kontere verschiedene
   Gegnertypen mit cleverer Platzierung.
 iframeSrc: 'https://1000freegames.github.io/swf/kingdom-rush-frontiers.html'
-thumbnail: /new-images/kingdom-rush-frontiers.jpg
+thumbnail: /new-images/thumbnails/kingdom-rush-frontiers.jpg
 tags:
   - tower-defense
   - strategy

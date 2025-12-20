@@ -7,7 +7,7 @@ description: >-
   exploras un mundo de desplazamiento lateral, minas recursos, fabricas objetos,
   construyes estructuras y sobrevives frente a monstruos.
 iframeSrc: 'https://scratch.mit.edu/projects/10128407/embed'
-thumbnail: /new-images/paper-minecraft.jpg
+thumbnail: /new-images/thumbnails/paper-minecraft.jpg
 tags:
   - sandbox
   - crafting

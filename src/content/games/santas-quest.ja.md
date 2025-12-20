@@ -2,7 +2,7 @@
 title: "Santas Quest"
 description: "Santas Questはホリデー風のプラットフォームゲームです。プレゼントを集め、敵や罠を避けてゴールを目指します。"
 iframeSrc: "https://santasquest.h5games.usercontent.goog/v/3k9j5m8h7p2n8/"
-thumbnail: "/new-images/santas-quest.png"
+thumbnail: /new-images/thumbnails/santas-quest.png
 urlstr: "santas-quest"
 score: "4.1/5  (1834 votes)"
 tags: ["platformer", "casual"]

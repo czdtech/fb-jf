@@ -2,7 +2,7 @@
 title: "Sprunki Halloween - Play Sprunki Halloween Online"
 description: "Sprunki Halloweenはハロウィンテーマの音楽作成Modです。不気味な雰囲気のサウンドや演出で、季節感のあるトラックを作れます。"
 iframeSrc: "https://turbowarp.org/1087683438/embed"
-thumbnail: "/sprunki-halloween.png"
+thumbnail: /new-images/thumbnails/sprunki-halloween.png
 urlstr: "sprunki-halloween"
 score: "4.2/5  (142 votes)"
 tags: ["sprunki halloween"]

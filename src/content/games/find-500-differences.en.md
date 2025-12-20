@@ -3,7 +3,7 @@ locale: en
 title: "Find 500 Differences"
 description: "Challenge your observation skills with Find 500 Differences. Compare two seemingly identical images and find all the subtle differences."
 iframeSrc: "https://find500differences2.h5games.usercontent.goog/v/4gu2tobroroug/"
-thumbnail: "/new-images/find-500-differences.png"
+thumbnail: /new-images/thumbnails/find-500-differences.png
 urlstr: "find-500-differences"
 score: "3.9/5  (1234 votes)"
 tags: ["puzzle", "casual", "thinky"]

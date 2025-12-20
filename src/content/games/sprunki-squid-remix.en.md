@@ -6,7 +6,7 @@ description: >-
   iconic themes and visuals of Squid Game with the creative freedom of Sprunki,
   resulting in unprecedented crossover gameplay.
 iframeSrc: 'https://turbowarp.org/1123885023/embed'
-thumbnail: /sprunki-squid-remix.png
+thumbnail: /new-images/thumbnails/sprunki-squid-remix.png
 urlstr: sprunki-squid-remix
 modType: sprunki
 score: 4.1/5  (92 votes)

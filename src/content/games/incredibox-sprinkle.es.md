@@ -7,7 +7,7 @@ description: >-
   diversión. Tanto si eres un jugador casual como si te interesa la producción
   musical, encontrarás tu propio espacio creativo en el mundo de Sprinkle.
 iframeSrc: 'https://g.sprinkleincredibox.com/web-game/SprinkleIncredibox/index.html'
-thumbnail: /incredibox-sprinkle.png
+thumbnail: /new-images/thumbnails/incredibox-sprinkle.png
 tags:
   - incredibox sprinkle
 score: 3.8/5  (387 votes)

@@ -7,7 +7,7 @@ description: >-
   Basisstrategie, verwalte deinen Einsatz und genieße kurze Runden, ohne
   Verlusten hinterherzujagen.
 iframeSrc: 'https://35ntqr0siokq8.h5games.usercontent.goog/v/1hhotshtjugn8/'
-thumbnail: /new-images/lucky-vegas-blackjack.png
+thumbnail: /new-images/thumbnails/lucky-vegas-blackjack.png
 tags:
   - card
   - casual

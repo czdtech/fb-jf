@@ -4,7 +4,7 @@ urlstr: slither-io
 title: 《Slither.io》贪吃蛇大作战
 description: 《Slither.io》是一款极受欢迎的在线多人贪吃蛇游戏。操控你的彩色小蛇吞食能量点、围杀其他玩家，让自己变成场上最长的一条蛇。
 iframeSrc: 'https://slitherio.org/slitherio/'
-thumbnail: /new-images/slither-io.jpg
+thumbnail: /new-images/thumbnails/slither-io.jpg
 tags:
   - io-games
   - snake

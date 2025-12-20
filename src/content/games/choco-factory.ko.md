@@ -8,7 +8,7 @@ description: >-
   기계를 업그레이드하며 달콤한 비즈니스를 키워 보세요.
 iframeSrc: >-
   https://g2.igroutka.ru/games/23/0aJSAnXwHyEMfhVW/rvvASMiM/dae161e33a524a85af8ca53ea2f71865/
-thumbnail: /new-images/choco-factory.jpg
+thumbnail: /new-images/thumbnails/choco-factory.jpg
 tags:
   - casual
 score: 4.1/5  (915 votes)

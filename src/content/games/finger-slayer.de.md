@@ -7,7 +7,7 @@ description: >-
   "Finger" in letzter Millisekunde zurück, um der zuschnappenden Falle zu
   entkommen – ohne zu früh zu zucken.
 iframeSrc: 'https://7ftsta5r737o8.h5games.usercontent.goog/v/3m7r2si8ppdlg/'
-thumbnail: /new-images/finger-slayer.jpg
+thumbnail: /new-images/thumbnails/finger-slayer.jpg
 tags:
   - action
   - casual

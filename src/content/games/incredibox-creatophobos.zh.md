@@ -4,7 +4,7 @@ urlstr: incredibox-creatophobos
 title: "Incredibox Creatophobos - 在线玩 Incredibox Creatophobos"
 description: "揭开 Incredibox Creatophobos 的秘密，这是一款令人不安的恐怖主题粉丝 Mod。本指南详细介绍了其怪物和工业音色调色板，并提供创作恐怖音景的技巧。"
 iframeSrc: 'https://turbowarp.org/1041902515/embed'
-thumbnail: /new-images/incredibox-creatophobos.png
+thumbnail: /new-images/thumbnails/incredibox-creatophobos.png
 tags:
   - music
   - horror

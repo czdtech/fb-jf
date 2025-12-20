@@ -5,7 +5,7 @@ title: Scooter Xtreme 3D
 description: "Enfourche ta trottinette dans Scooter Xtreme 3D\_! Parcours des circuits bourrés de rampes, enchaîne figures et grinds et récolte des pièces pour débloquer de nouvelles trottinettes et de nouveaux riders."
 iframeSrc: >-
   https://scooterxtreme.h5games.usercontent.goog/v/c842db43-7823-45bc-b575-acbd9bda5de4/
-thumbnail: /new-images/scooter-xtreme.jpg
+thumbnail: /new-images/thumbnails/scooter-xtreme.jpg
 tags:
   - action
   - sports

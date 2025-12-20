@@ -7,7 +7,7 @@ description: >-
   dans une arene labyrinthique, tire sur tes adversaires en evitant les
   obstacles pour etre le dernier survivant.
 iframeSrc: 'https://www.friv2018.com/games/html5/tank-trouble-2/'
-thumbnail: /new-images/tank-trouble.jpg
+thumbnail: /new-images/thumbnails/tank-trouble.jpg
 tags:
   - multiplayer
   - action

@@ -6,7 +6,7 @@ description: >-
   Eggy Car ist ein physikbasiertes Fahrspiel: Transportiere ein zerbrechliches
   Ei auf deinem Auto über Hügel und Täler, ohne es herunterfallen zu lassen.
 iframeSrc: 'https://webglmath.github.io/eggy-car/'
-thumbnail: /new-images/eggy-car.jpg
+thumbnail: /new-images/thumbnails/eggy-car.jpg
 tags:
   - driving
   - physics

@@ -7,7 +7,7 @@ description: >-
   detona barriles y limpia habitaciones usando ángulos inteligentes y munición
   limitada.
 iframeSrc: "https://5bcvrmoqria48.h5games.usercontent.goog/v/7cfakbl479q6o/"
-thumbnail: "/new-images/zombie-gun.png"
+thumbnail: /new-images/thumbnails/zombie-gun.png
 tags:
   - shooting
   - puzzle

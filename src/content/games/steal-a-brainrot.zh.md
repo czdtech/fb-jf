@@ -2,7 +2,7 @@
 title: "Steal a Brainrot - 偷走脑腐"
 description: "探索混乱的 Roblox 体验《Steal a Brainrot》。了解这款充满梗文化的游戏玩法，在游戏中你需要抢夺 Skibidi Toilet 等脑腐角色并逃脱守卫的追捕。获取攻略、策略等更多内容。"
 iframeSrc: "https://st.8games.net/7/8g/igra-ukradi-brejnrot-100-original/"
-thumbnail: "/new-images/steal-a-brainrot.webp"
+thumbnail: /new-images/thumbnails/steal-a-brainrot.webp
 urlstr: "steal-a-brainrot"
 locale: "zh"
 score: "4.7/5  (3719 votes)"

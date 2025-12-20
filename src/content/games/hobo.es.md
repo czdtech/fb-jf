@@ -7,7 +7,7 @@ description: >-
   combos, usa armas improvisadas y ejecuta ataques especiales totalmente
   descabellados.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/hobo.html'
-thumbnail: /new-images/hobo.jpg
+thumbnail: /new-images/thumbnails/hobo.jpg
 tags:
   - fighting
   - beat-em-up

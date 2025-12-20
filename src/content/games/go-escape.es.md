@@ -6,7 +6,7 @@ description: >-
   Go Escape es un plataformas de escape milimétrico: calcula saltos, lee las
   trampas y encuentra rutas seguras a través de habitaciones compactas.
 iframeSrc: 'https://1muicq0oght78.h5games.usercontent.goog/v/1aim9ophd8cdg/'
-thumbnail: /new-images/go-escape.png
+thumbnail: /new-images/thumbnails/go-escape.png
 tags:
   - puzzle
   - escape

@@ -7,7 +7,7 @@ description: >-
   Grundlagen von Säen, Pflegen und Ernten kennen und erhalte Tipps, wie du
   deinen Traumgarten Schritt für Schritt aufbaust.
 iframeSrc: 'https://growden.io/'
-thumbnail: /growagarden-min.jpeg
+thumbnail: /new-images/thumbnails/grow-a-garden.jpeg
 tags:
   - simulation
   - casual

@@ -2,7 +2,7 @@
 title: Stars Aligned
 description: Stars Alignedは、落ち着いた星座パズラーです — フラグメントを回転させ、線をつなぎ、完全な星のパターンを形成します。
 iframeSrc: 'https://ubg98.github.io/StarsAligned/'
-thumbnail: /new-images/stars-aligned.jpg
+thumbnail: /new-images/thumbnails/stars-aligned.jpg
 urlstr: stars-aligned
 score: 4.4/5  (2183 votes)
 tags:

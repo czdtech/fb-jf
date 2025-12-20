@@ -7,7 +7,7 @@ description: >-
   idénticas para eliminarlas del tablero y planifica cada movimiento para no
   llenar la bandeja de colección.
 iframeSrc: 'https://0i1jh8boqif48.h5games.usercontent.goog/v/1643ot8on0v9g/'
-thumbnail: /new-images/tile-journey.png
+thumbnail: /new-images/thumbnails/tile-journey.png
 tags:
   - puzzle
   - casual

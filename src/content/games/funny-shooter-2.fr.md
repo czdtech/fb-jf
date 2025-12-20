@@ -4,7 +4,7 @@ urlstr: funny-shooter-2
 title: "Funny Shooter 2"
 description: "FPS à vagues : explose des ennemis complètement barrés avec un arsenal qui s’étoffe, gagne des pièces et améliore tes armes entre les manches."
 iframeSrc: 'https://bitlifeonline.github.io/class2623/funny-shooter-2/'
-thumbnail: /new-images/funny-shooter-2.jpg
+thumbnail: /new-images/thumbnails/funny-shooter-2.jpg
 tags:
   - shooting
   - fps

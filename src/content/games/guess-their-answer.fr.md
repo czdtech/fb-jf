@@ -4,7 +4,7 @@ urlstr: guess-their-answer
 title: "Guess Their Answer"
 description: "Guess Their Answer est un jeu de sondages rapide : pense comme la foule, propose les réponses les plus courantes et marque plus de points que tes adversaires en couvrant un maximum d’idées."
 iframeSrc: "https://0s1do8fmhrn9g.h5games.usercontent.goog/v/08gmb663j6g78/"
-thumbnail: /new-images/guess-their-answer.png
+thumbnail: /new-images/thumbnails/guess-their-answer.png
 tags:
   - puzzle
   - thinky

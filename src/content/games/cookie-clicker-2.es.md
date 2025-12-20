@@ -8,7 +8,7 @@ description: >-
   y respuestas a las dudas más frecuentes para maximizar tu producción de
   galletas.
 iframeSrc: 'https://games-online.io/game/cake-maker/'
-thumbnail: /new-images/cookie-clicker-2.jpg
+thumbnail: /new-images/thumbnails/cookie-clicker-2.jpg
 tags:
   - casual
   - clicker

@@ -2,7 +2,7 @@
 title: "Geometry Dash Wave"
 description: "ウェーブ操作でリズム感と精度を試すチャレンジ。三角形アイコンをワンボタンで斜め上下に動かし、音楽に同期した障害物を抜けてクリアを目指します。"
 iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp45/chenling/20231205/04/index.html"
-thumbnail: "/new-images/geometry-dash-wave.jpg"
+thumbnail: /new-images/thumbnails/geometry-dash-wave.jpg
 urlstr: "geometry-dash-wave"
 score: "4.8/5  (537 votes)"
 tags: ["rhythm", "platformer", "arcade"]

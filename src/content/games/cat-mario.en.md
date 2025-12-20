@@ -4,7 +4,7 @@ locale: en
 title: "Cat Mario"
 description: "Face the ultimate unfair platformer in Cat Mario (Syobon Action)! Navigate a world full of hidden traps, unexpected enemies, and deceptive level design in this notoriously difficult and hilarious parody game."
 iframeSrc: "https://tiwb.github.io/catmario/"
-thumbnail: "/new-images/cat-mario.jpg"
+thumbnail: /new-images/thumbnails/cat-mario.jpg
 urlstr: "cat-mario"
 score: "4.6/5  (1147 votes)"
 tags: ["platformer", "casual"]

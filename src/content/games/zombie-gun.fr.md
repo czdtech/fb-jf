@@ -6,7 +6,7 @@ description: >-
   Zombie Gun est un shooter à physique : fais ricocher les balles, déclenche des
   barils et nettoie les salles avec des angles malins et des munitions limitées.
 iframeSrc: 'https://5bcvrmoqria48.h5games.usercontent.goog/v/7cfakbl479q6o/'
-thumbnail: /new-images/zombie-gun.png
+thumbnail: /new-images/thumbnails/zombie-gun.png
 tags:
   - shooting
   - puzzle

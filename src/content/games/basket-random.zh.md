@@ -7,7 +7,7 @@ description: >-
   2 人对战体验。
 iframeSrc: >-
   https://app-197304.games.s3.yandex.net/197304/kj9rcykboy6eol5xnn250jesr7v0hoh1/index.html
-thumbnail: /new-images/basket-random.jpg
+thumbnail: /new-images/thumbnails/basket-random.jpg
 tags:
   - casual
   - sports

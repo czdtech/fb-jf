@@ -3,7 +3,7 @@ locale: en
 title: "Crazy Balls"
 description: "Crazy Balls is a physics arcade — bounce, bank, and blast through obstacle mazes with controlled shots."
 iframeSrc: "https://05hi0oufvrcro.h5games.usercontent.goog/v/0qeok5765gar8/"
-thumbnail: "/new-images/crazy-balls.png"
+thumbnail: /new-images/thumbnails/crazy-balls.png
 urlstr: "crazy-balls"
 score: "3.8/5  (1617 votes)"
 tags: ["action", "casual"]

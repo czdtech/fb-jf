@@ -6,7 +6,7 @@ description: >-
   Survivor Legends es un survivor de hordas: haz kiting en círculos, encadena
   sinergias y tritura oleadas gestionando bien enfriamientos y posicionamiento.
 iframeSrc: 'https://244mb60l209a8.h5games.usercontent.goog/v/1koih6fev3le8/'
-thumbnail: /new-images/survivor-legends.png
+thumbnail: /new-images/thumbnails/survivor-legends.png
 tags:
   - action
   - shooting

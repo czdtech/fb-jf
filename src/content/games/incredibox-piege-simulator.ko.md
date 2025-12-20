@@ -6,7 +6,7 @@ description: >-
   그리드 기반 인터페이스로 어두운 트랩 비트를 만드는 팬메이드 모드 'Incredibox Piege Simulator' 가이드입니다. 808
   중심 사운드 팔레트와 루프 채우기 팁을 정리했습니다.
 iframeSrc: 'https://turbowarp.org/887559994/embed'
-thumbnail: /new-images/incredibox-piege-simulator.png
+thumbnail: /new-images/thumbnails/incredibox-piege-simulator.png
 tags:
   - music
   - fan-Made

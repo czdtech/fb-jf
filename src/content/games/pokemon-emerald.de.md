@@ -8,7 +8,7 @@ description: >-
   Arenaleiter an und stellst dich Team Magma und Team Aqua, um am Ende
   Champ der Pokémon-Liga zu werden.
 iframeSrc: 'https://picklekid31.github.io/GBA-unblocked-games/launcher.html#pokemonemerald'
-thumbnail: /new-images/pokemon-emerald.jpg
+thumbnail: /new-images/thumbnails/pokemon-emerald.jpg
 tags:
   - rpg
   - adventure

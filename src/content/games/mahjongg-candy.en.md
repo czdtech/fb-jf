@@ -4,7 +4,7 @@ locale: en
 title: "Mahjongg Candy"
 description: "Indulge your sweet tooth and sharpen your mind with Mahjongg Candy! This delightful tile-matching puzzle game challenges you to clear the board by finding identical pairs of candy tiles. Strategize your moves, clear unblocked tiles, and race against the clock to achieve a high score in this colorful brain-teaser."
 iframeSrc: "https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-candy-mahjongg/"
-thumbnail: "/new-images/mahjongg-candy.jpg"
+thumbnail: /new-images/thumbnails/mahjongg-candy.jpg
 urlstr: "mahjongg-candy"
 score: "4.8/5  (1096 votes)"
 tags: ["puzzle", "tile-matching", "mahjong"]

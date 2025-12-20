@@ -7,7 +7,7 @@ description: >-
   für Upgrades und verkaufe sie mit besserem Grundriss, Stil und Außenwirkung
   gewinnbringend weiter.
 iframeSrc: 'https://45g7qkftithd0.h5games.usercontent.goog/v/7691fk060s8pg/'
-thumbnail: /new-images/house-flip.png
+thumbnail: /new-images/thumbnails/house-flip.png
 tags:
   - puzzle
   - casual

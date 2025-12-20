@@ -7,7 +7,7 @@ description: >-
   同時避開天上與地面各種掠食者與環境危險。
 iframeSrc: >-
   https://app-96679.games.s3.yandex.net/96679/jshypemnvrae6bchv5d2nej2892owe69/index.html
-thumbnail: /new-images/fly-or-die.jpg
+thumbnail: /new-images/thumbnails/fly-or-die.jpg
 tags:
   - survival
   - io

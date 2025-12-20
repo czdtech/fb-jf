@@ -4,7 +4,7 @@ locale: en
 title: "Blob Opera"
 description: "Control four adorable, singing blobs to create your own unique opera music. A fun and accessible machine learning experiment that turns anyone into a composer, no musical skills required!"
 iframeSrc: "https://gacembed.withgoogle.com/blob-opera/"
-thumbnail: "/new-images/blob-opera.jpg"
+thumbnail: /new-images/thumbnails/blob-opera.jpg
 urlstr: "blob-opera"
 score: "4.1/5  (617 votes)"
 tags: ["music", "casual"]

@@ -3,7 +3,7 @@ locale: en
 title: "Sky Tower"
 description: "Sky Tower is a stack‑builder — time drops to align floors, minimize overhangs, and build the tallest, cleanest tower."
 iframeSrc: "https://11bhsd7s4hdbg.h5games.usercontent.goog/v/7a58l0501ebp8/"
-thumbnail: "/new-images/sky-tower.png"
+thumbnail: /new-images/thumbnails/sky-tower.png
 urlstr: "sky-tower"
 score: "3.9/5  (1731 votes)"
 tags: ["puzzle", "thinky", "casual"]

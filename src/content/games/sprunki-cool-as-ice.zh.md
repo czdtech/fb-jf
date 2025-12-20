@@ -5,7 +5,7 @@ urlstr: "sprunki-cool-as-ice"
 title: "Sprunki Cool As Ice - 在线玩 Sprunki Cool As Ice"
 description: "Sprunki: Cool As Ice 是 Incredibox 家族的一次重大创新，它通过独特的冬季主题为音乐创作带来了全新视角。"
 iframeSrc: "https://turbowarp.org/1114795409/embed"
-thumbnail: "/sprunki-cool-as-ice.png"
+thumbnail: /new-images/thumbnails/sprunki-cool-as-ice.png
 score: "4.2/5  (324 票)"
 tags: ["sprunki cool as ice", "sprunki cool as ice online"]
 ---

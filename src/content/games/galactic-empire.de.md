@@ -7,7 +7,7 @@ description: >-
   errichte Schiffe und Verteidigungen und erobere Sektoren, während du
   feindliche Wellen abwehrst.
 iframeSrc: 'https://g.igroutka.ru/games/164/8plhaK3IOLoFbVPB/2/galactic_empire/'
-thumbnail: /new-images/galactic-empire.jpg
+thumbnail: /new-images/thumbnails/galactic-empire.jpg
 tags:
   - strategy
   - space

@@ -7,7 +7,7 @@ description: >-
   기어오르는 극한 물리 등반 게임입니다. 섬세한 컨트롤이 요구되며, 작은 실수
   하나가 수분·수시간의 진행을 한 번에 날려 버릴 수 있습니다.
 iframeSrc: 'https://ubg77.github.io/fix/getting-over-it/'
-thumbnail: /new-images/getting-over-it.jpg
+thumbnail: /new-images/thumbnails/getting-over-it.jpg
 tags:
   - platformer
   - physics

@@ -7,7 +7,7 @@ description: >-
   zombis y otras criaturas, usando todo tipo de armas para sobrevivir a oleadas
   cada vez más difíciles.
 iframeSrc: "https://g.igroutka.ru/games/17/9IsudOxakgP0EVKC/shootz/"
-thumbnail: "/new-images/shootz.jpg"
+thumbnail: /new-images/thumbnails/shootz.jpg
 tags:
   - shooting
   - action

@@ -4,7 +4,7 @@ urlstr: football-legends
 title: "Football Legends"
 description: "Duels de foot arcade : joue en 1v1 ou 2v2 avec têtes, volées et tirs spéciaux dans des matchs rapides ou tournois."
 iframeSrc: 'https://webglmath.github.io/football-legends/'
-thumbnail: /new-images/football-legends.jpg
+thumbnail: /new-images/thumbnails/football-legends.jpg
 tags:
   - sports
   - soccer

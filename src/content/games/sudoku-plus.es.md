@@ -7,7 +7,7 @@ description: >-
   puzle numérico de siempre con ayudas como pistas, notas y revisión de
   errores para poner a prueba tu mente.
 iframeSrc: 'https://sudokuplus.h5games.usercontent.goog/v/3q827iuj6msno/'
-thumbnail: /new-images/sudoku-plus.jpg
+thumbnail: /new-images/thumbnails/sudoku-plus.jpg
 tags:
   - puzzle
   - thinky

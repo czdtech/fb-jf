@@ -6,7 +6,7 @@ description: >-
   탐험가 팀을 관리해 채굴 제국을 키워 나가는 방치형 경영 게임입니다. 일꾼과 설비를 업그레이드하고, 관리자를 고용해 작업을 자동화하며,
   새로운 발굴 지점과 희귀 유물을 해금해 보세요.
 iframeSrc: 'https://5ik68qrla8g6g.h5games.usercontent.goog/v/1vuib5ibuof0g/'
-thumbnail: /new-images/idle-explorers.png
+thumbnail: /new-images/thumbnails/idle-explorers.png
 tags:
   - casual
   - clicker

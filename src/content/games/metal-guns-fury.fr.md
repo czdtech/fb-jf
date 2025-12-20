@@ -4,7 +4,7 @@ urlstr: "metal-guns-fury"
 title: "Metal Guns Fury"
 description: "Metal Guns Fury est un run‑and‑gun arcade : esquive les balles, gère ton arsenal et traverse des vagues d’ennemis avec des déplacements précis."
 iframeSrc: "https://2fr3rldr11rpg.h5games.usercontent.goog/v/2pn2tgakfpecg/"
-thumbnail: "/new-images/metal-guns-fury.jpg"
+thumbnail: /new-images/thumbnails/metal-guns-fury.jpg
 tags: ["action", "shooting"]
 score: "4.1/5  (2012 votes)"
 developer: ""

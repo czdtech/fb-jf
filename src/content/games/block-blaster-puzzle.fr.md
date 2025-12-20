@@ -4,7 +4,7 @@ urlstr: block-blaster-puzzle
 title: "Block Blaster Puzzle"
 description: "Block Blaster Puzzle est un jeu de placement de blocs : pose des formes sur la grille, prépare des explosions multi‑lignes et évite de créer des trous impossibles à remplir."
 iframeSrc: "https://0nrdbfos8jhv8.h5games.usercontent.goog/v/6ovao2cpe86og/"
-thumbnail: /new-images/block-blaster-puzzle.png
+thumbnail: /new-images/thumbnails/block-blaster-puzzle.png
 tags:
   - puzzle
   - thinky

@@ -4,7 +4,7 @@ locale: en
 title: "G-Switch 3"
 description: "High‑speed gravity runner with new traps and robust local multiplayer modes that test timing and consistency." 
 iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221121/2/index.html"
-thumbnail: "/new-images/g-switch-3.jpg"
+thumbnail: /new-images/thumbnails/g-switch-3.jpg
 urlstr: "g-switch-3"
 score: "4.7/5  (801 votes)"
 tags: ["runner", "platformer"]

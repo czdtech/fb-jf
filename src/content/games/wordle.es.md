@@ -7,7 +7,7 @@ description: >-
   adivinar una palabra de cinco letras, usando pistas de colores para deducir
   las letras correctas y su posición en este adictivo reto de vocabulario.
 iframeSrc: "https://ext.minijuegos.com/wordle/"
-thumbnail: "/new-images/wordle.jpg"
+thumbnail: /new-images/thumbnails/wordle.jpg
 tags:
   - word
   - puzzle

@@ -6,7 +6,7 @@ description: >-
   Mahjong Solitaire는 마작 패를 이용해 같은 패를 찾아 짝지우며 보드를 비우는 고전 퍼즐 게임입니다. 여유로운 분위기 속에서
   관찰력과 전략을 시험해 보세요.
 iframeSrc: 'https://4erks8385j9eo.h5games.usercontent.goog/v/1ff4p4m8ilme8/'
-thumbnail: /new-images/mahjong-solitaire.png
+thumbnail: /new-images/thumbnails/mahjong-solitaire.png
 tags:
   - puzzle
   - card

@@ -6,7 +6,7 @@ description: >-
   10×10 보드에 나무 블록을 배치해 행과 열을 지우는 편안한 퍼즐 게임입니다. 제한된 공간을 고려해
   블록을 배치하고, 주머니처럼 남겨 둔 공간으로 난해한 모양을 처리하며 높은 점수에 도전해 보세요.
 iframeSrc: 'https://2rfr65hktjv5o.h5games.usercontent.goog/v/46h85f5g0sldo/'
-thumbnail: /new-images/wood-block-match.png
+thumbnail: /new-images/thumbnails/wood-block-match.png
 tags:
   - puzzle
   - thinky

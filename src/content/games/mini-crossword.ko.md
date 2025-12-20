@@ -6,7 +6,7 @@ description: >-
   Mini Crossword는 작지만 알찬 데일리 십자말풀이 퍼즐로, 짧은 시간 안에 단어 실력을
   시험해 볼 수 있는 캐주얼 퍼즐 게임입니다.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/daily-crossword-mini/'
-thumbnail: /new-images/mini-crossword.jpg
+thumbnail: /new-images/thumbnails/mini-crossword.jpg
 tags:
   - puzzle
   - word

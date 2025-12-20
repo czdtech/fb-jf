@@ -2,7 +2,7 @@
 title: "Sprunki Retake \U0001F525 Play Sprunki Retake Online"
 description: Sprunki Retakeは音作りにホラー演出を加えたSprunki系Modです。キャラクターを組み合わせて不穏な雰囲気のトラックを作れます。
 iframeSrc: 'https://turbowarp.org/1116819798/embed'
-thumbnail: /sprunki-retake.png
+thumbnail: /new-images/thumbnails/sprunki-retake.png
 urlstr: sprunki-retake
 score: 4.3/5  (524 votes)
 tags:

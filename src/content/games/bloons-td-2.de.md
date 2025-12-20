@@ -7,7 +7,7 @@ description: >-
   Affentürme, halte 50 Wellen von Bloons auf und lerne, wie du immunen schwarzen
   und weißen Bloons strategisch begegnest.
 iframeSrc: 'https://1000freegames.github.io/swf/bloons-td-2.html'
-thumbnail: /new-images/bloons-td-2.jpg
+thumbnail: /new-images/thumbnails/bloons-td-2.jpg
 tags:
   - casual
   - strategy

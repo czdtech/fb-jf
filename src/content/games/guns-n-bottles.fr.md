@@ -7,7 +7,7 @@ description: >-
   moment parfait pendant que ton pistolet tourne et brise les bouteilles, tout
   en évitant les rouges.
 iframeSrc: 'https://aktestgunsandbottles.h5games.usercontent.goog/v/51pcsm84fc4ag/'
-thumbnail: /new-images/guns-n-bottles.png
+thumbnail: /new-images/thumbnails/guns-n-bottles.png
 tags:
   - shooting
   - action

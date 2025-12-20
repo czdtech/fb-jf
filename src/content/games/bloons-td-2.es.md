@@ -7,7 +7,7 @@ description: >-
   únicas para defenderte de 50 oleadas de globos y domina la estrategia
   necesaria para contrarrestar a los Bloons negros y blancos inmunes.
 iframeSrc: 'https://1000freegames.github.io/swf/bloons-td-2.html'
-thumbnail: /new-images/bloons-td-2.jpg
+thumbnail: /new-images/thumbnails/bloons-td-2.jpg
 tags:
   - casual
   - strategy

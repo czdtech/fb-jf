@@ -3,7 +3,7 @@ locale: en
 title: "Words Challenge"
 description: "Words Challenge is a mixed word‑skills set — anagrams, crosswords, and quick trivia that reward breadth and deduction."
 iframeSrc: "https://60p1t41kumli8.h5games.usercontent.goog/v/7pss7j2tdq7io/"
-thumbnail: "/new-images/words-challenge.jpg"
+thumbnail: /new-images/thumbnails/words-challenge.jpg
 urlstr: "words-challenge"
 score: "4.1/5  (1982 votes)"
 tags: ["puzzle", "thinky"]

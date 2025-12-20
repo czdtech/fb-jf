@@ -3,7 +3,7 @@ locale: en
 title: "Get 10 Ultimate"
 description: "A challenging number puzzle! Tap on adjacent, identical numbers to merge them into a higher number. Can you make it to 10 and beyond?"
 iframeSrc: "https://4oljglvsib9no.h5games.usercontent.goog/v/4nttt72qlep8o/"
-thumbnail: "/new-images/get-10-ultimate.png"
+thumbnail: /new-images/thumbnails/get-10-ultimate.png
 urlstr: "get-10-ultimate"
 score: "4.4/5  (2400 votes)"
 tags: ["puzzle", "thinky", "casual"]

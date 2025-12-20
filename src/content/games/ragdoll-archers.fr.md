@@ -8,7 +8,7 @@ description: >-
   adversaires ; les effets physiques réalistes rendent chaque tir à la fois
   difficile et amusant.
 iframeSrc: 'https://bitlifeonline.github.io/ragdoll-archers/'
-thumbnail: /new-images/ragdoll-archers.jpg
+thumbnail: /new-images/thumbnails/ragdoll-archers.jpg
 tags:
   - physics
   - archery

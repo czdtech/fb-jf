@@ -6,7 +6,7 @@ description: >-
   Element Blocks 是一款帶有小巧變化的策略方塊拼圖遊戲。將各種元素方塊擺到 10x10 棋盤上
   消除整行整列，並收集星星啟動強力道具，用精心規劃掌控整個棋盤。
 iframeSrc: 'https://elementblocks.h5games.usercontent.goog/v/35up5t7ao24i8/'
-thumbnail: /new-images/element-blocks.png
+thumbnail: /new-images/thumbnails/element-blocks.png
 tags:
   - puzzle
   - thinky

@@ -4,7 +4,7 @@ urlstr: foosball-cup-world
 title: "Foosball Cup World"
 description: "Foosball Cup World propose un baby‑foot nerveux : place tes tirs, maîtrise les spins et défends intelligemment dans des matchs serrés."
 iframeSrc: 'https://7ak26cf4bf850.h5games.usercontent.goog/v/6jmmp78dbnp50/'
-thumbnail: /new-images/foosball-cup-world.png
+thumbnail: /new-images/thumbnails/foosball-cup-world.png
 tags:
   - sports
   - soccer

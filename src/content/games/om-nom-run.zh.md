@@ -4,7 +4,7 @@ urlstr: om-nom-run
 title: Om Nom：奔跑
 description: 与 Om Nom 和 Om Nelle 一起参加快节奏的无尽跑酷！在街道上疾驰，躲避障碍物，收集金币，并使用强大的道具尽可能跑得更远。
 iframeSrc: 'https://omnomrun.h5games.usercontent.goog/v/38udj70raubl0/'
-thumbnail: /new-images/om-nom-run.png
+thumbnail: /new-images/thumbnails/om-nom-run.png
 tags:
   - action
   - casual

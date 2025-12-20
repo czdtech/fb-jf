@@ -6,7 +6,7 @@ description: >-
   Drive Mad est un défi de conduite à base de physique : équilibre ton véhicule,
   franchis les obstacles et atteins l’arrivée sans te retourner.
 iframeSrc: 'https://ubg98.github.io/DriveMad/'
-thumbnail: /new-images/drive-mad.jpg
+thumbnail: /new-images/thumbnails/drive-mad.jpg
 tags:
   - driving
   - physics

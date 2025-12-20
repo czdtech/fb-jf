@@ -7,7 +7,7 @@ description: >-
   surrealen Figuren und Sounds baust du dir deinen eigenen, leicht schrägen
   Polizeirevier-Soundtrack.
 iframeSrc: 'https://turbowarp.org/1113493234/embed'
-thumbnail: /sprunki-police-and-prisoners.png
+thumbnail: /new-images/thumbnails/sprunki-police-and-prisoners.png
 tags:
   - sprunki police and prisoners
 score: 3.9/5  (325 votes)

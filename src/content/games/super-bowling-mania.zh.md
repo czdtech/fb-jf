@@ -4,7 +4,7 @@ urlstr: super-bowling-mania
 title: 《Super Bowling Mania》超级保龄狂热
 description: 《Super Bowling Mania》是一款节奏轻松的 3D 保龄球游戏。调整站位与出手角度，掌握旋转与力度，在各类球道上打出全中与补中，挑战高分纪录。
 iframeSrc: 'https://superbowlingmania.h5games.usercontent.goog/v/4k2n7b9s1d0p0/'
-thumbnail: /new-images/super-bowling-mania.png
+thumbnail: /new-images/thumbnails/super-bowling-mania.png
 tags:
   - sports
   - bowling

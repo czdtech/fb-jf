@@ -2,7 +2,7 @@
 title: Unblock That
 description: Unblock Thatは、ブロック解除パズルゲームです。ブロックを動かして赤いブロックを脱出させましょう。
 iframeSrc: 'https://ubg98.github.io/UnblockThat/'
-thumbnail: /new-images/unblock-that.jpg
+thumbnail: /new-images/thumbnails/unblock-that.png
 urlstr: unblock-that
 score: 4.4/5  (2765 votes)
 tags:

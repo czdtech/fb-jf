@@ -6,7 +6,7 @@ description: >-
   Sprunki Phase 5 es un juego creado por fans de creación musical que mezcla
   creatividad rítmica con un giro oscuro y atmosférico.
 iframeSrc: 'https://sprunki-phase-5-ekz.pages.dev/'
-thumbnail: /sprunki-phase-5.png
+thumbnail: /new-images/thumbnails/sprunki-phase-5.png
 tags:
   - sprunki phase 5
   - sprunki phase 5 online

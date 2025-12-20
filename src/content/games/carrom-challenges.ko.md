@@ -7,7 +7,7 @@ description: >-
   스트라이커 각도와 세기를 조절해 자신의 말을 포켓에 넣고, 퀸을 안전하게 커버하며
   정교한 수 싸움을 펼쳐 보세요.
 iframeSrc: 'https://6m4vq4nu17rto.h5games.usercontent.goog/v/1g4ai19abgj0g/'
-thumbnail: /new-images/carrom-challenges.png
+thumbnail: /new-images/thumbnails/carrom-challenges.png
 tags:
   - sports
   - pool

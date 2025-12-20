@@ -7,7 +7,7 @@ description: >-
   bis das Brett leer ist – und plane deine Züge so, dass du Blockaden
   vermeidest.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/mahjong-titans.html'
-thumbnail: /new-images/mahjong-titans.jpg
+thumbnail: /new-images/thumbnails/mahjong-titans.jpg
 tags:
   - puzzle
   - mahjong

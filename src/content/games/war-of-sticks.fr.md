@@ -6,7 +6,7 @@ description: >-
   War of Sticks est un jeu de stratégie : commande ton armée de stickmen, mine
   des ressources, entraîne des unités et conquiers l'Empire Rouge.
 iframeSrc: 'https://g.igroutka.ru/games/164/lt2ARJHFBxPb4spD/4/war_of_sticks/'
-thumbnail: /new-images/war-of-sticks.jpg
+thumbnail: /new-images/thumbnails/war-of-sticks.jpg
 tags:
   - strategy
   - rts

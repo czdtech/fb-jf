@@ -7,7 +7,7 @@ description: >-
   épreuve : appuie pile au bon moment sur les indications pour enchaîner les
   « perfects » et garder ton calme quand la vitesse s’emballe.
 iframeSrc: 'https://6e0ej8ct9hdj8.h5games.usercontent.goog/v/1fssfmqquil18/'
-thumbnail: /new-images/speed-master.png
+thumbnail: /new-images/thumbnails/speed-master.png
 tags:
   - action
   - casual

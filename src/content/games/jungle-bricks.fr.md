@@ -6,7 +6,7 @@ description: >-
   Vise et tire pour nettoyer le plateau dans Jungle Bricks ! Casse les briques
   numérotées avant qu'elles n'atteignent le bas de l'écran.
 iframeSrc: 'https://0gt5ae21ln70o.h5games.usercontent.goog/v/0762mjie8e8s0/'
-thumbnail: /new-images/jungle-bricks.png
+thumbnail: /new-images/thumbnails/jungle-bricks.png
 tags:
   - puzzle
   - shooting

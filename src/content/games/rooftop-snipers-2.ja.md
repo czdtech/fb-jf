@@ -2,7 +2,7 @@
 title: Rooftop Snipers 2
 description: Rooftop Snipers 2は物理挙動のある対戦シューティングです。屋上で撃ち合い、相手を落とした方が勝ちになります。
 iframeSrc: 'https://rooftopsnipers2.h5games.usercontent.goog/v/2j9k5m8h7p3n8/'
-thumbnail: /new-images/rooftop-snipers-2.png
+thumbnail: /new-images/thumbnails/rooftop-snipers-2.jpg
 urlstr: rooftop-snipers-2
 score: 4.3/5  (2567 votes)
 tags:

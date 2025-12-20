@@ -2,7 +2,7 @@
 title: "Sprunki Pyramixed 0.9 - Play Sprunki Pyramixed 0.9 Online"
 description: "Sprunki Pyramixed 0.9は音を重ねて曲を作る音楽制作ゲームです。キャラクターのカスタマイズ要素がある場合もあります。"
 iframeSrc: "https://turbowarp.org/1144118565/embed"
-thumbnail: "/sprunki-pyramixed-0.9.png"
+thumbnail: /new-images/thumbnails/sprunki-pyramixed.png
 urlstr: "sprunki-pyramixed"
 score: "4.7/5  (455 votes)"
 tags: ["sprunki pyramixed 0.9", "sprunki pyramixed 0.9 online"]

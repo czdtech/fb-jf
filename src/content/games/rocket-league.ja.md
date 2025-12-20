@@ -2,7 +2,7 @@
 title: Rocket League
 description: Rocket Leagueはカーサッカーゲームです。車を運転してボールを打ち、ゴールを決めて勝利を目指します。
 iframeSrc: 'https://rocketleague.h5games.usercontent.goog/v/5k9j2m8h7p3n8/'
-thumbnail: /new-images/rocket-league.png
+thumbnail: /new-images/thumbnails/rocket-league.jpg
 urlstr: rocket-league
 score: 4.5/5  (4567 votes)
 tags:

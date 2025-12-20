@@ -2,7 +2,7 @@
 title: "Incredibox Rave"
 description: "Incredibox Raveのガイドです。EDM系サウンドパレットや、ハイエナジートラックを作るゲームプレイ、ネオンテーマのボーナス演出の探し方を紹介します。"
 iframeSrc: "https://turbowarp.org/980794126/embed"
-thumbnail: "/new-images/incredibox-rave.png"
+thumbnail: /new-images/thumbnails/incredibox-rave.png
 urlstr: "incredibox-rave"
 score: "4.7/5 (1888 votes)"
 tags: ["music", "rave", "rhythm"]

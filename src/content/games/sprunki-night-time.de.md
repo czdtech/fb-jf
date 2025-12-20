@@ -7,7 +7,7 @@ description: >-
   tiefen Bässen, schwebenden Synths und Nacht-Atmosphäre bastelst du dir deinen
   eigenen nocturnen Soundtrack.
 iframeSrc: 'https://turbowarp.org/1100659044/embed'
-thumbnail: /sprunki-night-time.png
+thumbnail: /new-images/thumbnails/sprunki-night-time.png
 tags:
   - sprunki night time
   - sprunki night time online

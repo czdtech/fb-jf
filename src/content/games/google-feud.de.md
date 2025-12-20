@@ -7,7 +7,7 @@ description: >-
   den populärsten Vorschlägen und komme durch möglichst viele Runden, ohne alle
   Fehlversuche aufzubrauchen.
 iframeSrc: 'https://mac-web.github.io/macvg/projects/google-feud/game.html'
-thumbnail: /new-images/google-feud.jpg
+thumbnail: /new-images/thumbnails/google-feud.jpg
 tags:
   - trivia
   - quiz

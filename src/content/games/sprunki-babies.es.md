@@ -7,7 +7,7 @@ description: >-
   Sprunki bebé, cada uno listo para aportar su propia voz musical a tus
   composiciones.
 iframeSrc: "https://turbowarp.org/1110888906/embed"
-thumbnail: "/sprunki-babies.png"
+thumbnail: /new-images/thumbnails/sprunki-babies.png
 tags:
   - sprunki babies
 score: 4.0/5  (212 votes)

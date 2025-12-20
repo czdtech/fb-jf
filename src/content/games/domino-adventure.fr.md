@@ -7,7 +7,7 @@ description: >-
   stratégies pour les modes Block et Draw, des conseils pour gérer tes tuiles,
   et explique comment gagner une manche en posant tous tes dominos.
 iframeSrc: 'https://28vlnkkhq8gjg.h5games.usercontent.goog/v/4mi9k9oin4dn8/'
-thumbnail: /new-images/domino-adventure.png
+thumbnail: /new-images/thumbnails/domino-adventure.png
 tags:
   - puzzle
   - strategy

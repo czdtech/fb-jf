@@ -7,7 +7,7 @@ description: >-
   모으며, 다양한 파워업을 활용해 어둠의 마법사를 물리치고 스테이지를 돌파하세요.
 iframeSrc: >-
   https://uncleahmed.h5games.usercontent.goog/v/31ca380f-5493-4371-b5ac-5c3c2da67626/
-thumbnail: /new-images/uncle-ahmed.jpg
+thumbnail: /new-images/thumbnails/uncle-ahmed.jpg
 tags:
   - action
   - adventure

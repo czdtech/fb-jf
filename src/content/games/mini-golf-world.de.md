@@ -7,7 +7,7 @@ description: >-
   Banden und dosiere die Schlagstärke, um verspielte Bahnen in Themenwelten zu
   meistern.
 iframeSrc: 'https://32tnqh6bck80g.h5games.usercontent.goog/v/3auurdk9r953g/'
-thumbnail: /new-images/mini-golf-world.png
+thumbnail: /new-images/thumbnails/mini-golf-world.png
 tags:
   - sports
   - puzzle

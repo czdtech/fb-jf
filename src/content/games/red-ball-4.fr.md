@@ -8,7 +8,7 @@ description: >-
   veulent tout transformer en cubes. Parcours des niveaux remplis
   d’obstacles et d’énigmes.
 iframeSrc: 'https://class198.github.io/g177/red-ball-4/'
-thumbnail: /new-images/red-ball-4.jpg
+thumbnail: /new-images/thumbnails/red-ball-4.jpg
 tags:
   - platformer
   - physics

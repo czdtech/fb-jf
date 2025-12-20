@@ -4,7 +4,7 @@ urlstr: supernova
 title: 《Supernova》超新星空间射击
 description: 《Supernova》是一款复古风格的太空射击游戏。驾驶你的星舰穿越危险的小行星带，摧毁太空岩石和敌对目标，在弹幕与碎片中尽可能生存更久刷出高分。
 iframeSrc: 'https://rebemanae.github.io/supernova/'
-thumbnail: /new-images/supernova.jpg
+thumbnail: /new-images/thumbnails/supernova.jpg
 tags:
   - action
   - shooting

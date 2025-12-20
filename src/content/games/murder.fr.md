@@ -7,7 +7,7 @@ description: >-
   les joueurs. Observe, enquête ou élimine discrètement pour remporter la
   partie.
 iframeSrc: 'https://68kbro4a20sgg.h5games.usercontent.goog/v/3jgh63oisp2uo/'
-thumbnail: /new-images/murder.jpg
+thumbnail: /new-images/thumbnails/murder.jpg
 tags:
   - party game
   - strategy

@@ -7,7 +7,7 @@ description: >-
   studio bac à sable, créé sous Scratch/TurboWarp, où tu composes librement tes
   propres mixes.
 iframeSrc: 'https://turbowarp.org/1013575298/embed'
-thumbnail: /new-images/incredibox-studio.png
+thumbnail: /new-images/thumbnails/incredibox-studio.png
 tags:
   - music
   - sandbox

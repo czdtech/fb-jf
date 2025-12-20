@@ -4,7 +4,7 @@ urlstr: bubble-shooter
 title: Bubble Shooter 经典泡泡射手
 description: 《Bubble Shooter 经典泡泡射手》是老牌泡泡龙玩法的代表作，瞄准发射泡泡，与相同颜色组成三个及以上即可消除 ，连锁坠落更能获得高分。
 iframeSrc: 'https://bubble-shooter.h5games.usercontent.goog/v/5ssbcrq4jokk8/'
-thumbnail: /new-images/bubble-shooter.jpg
+thumbnail: /new-images/thumbnails/bubble-shooter.jpg
 tags:
   - puzzle
   - casual

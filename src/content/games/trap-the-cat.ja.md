@@ -2,7 +2,7 @@
 title: Trap the Cat
 description: Trap the Catは、猫を囲むパズルゲームです。タイルをブロックして猫が逃げられないようにしましょう。
 iframeSrc: 'https://ubg98.github.io/TrapTheCat/'
-thumbnail: /new-images/trap-the-cat.jpg
+thumbnail: /new-images/thumbnails/trap-the-cat.jpg
 urlstr: trap-the-cat
 score: 4.4/5  (3234 votes)
 tags:

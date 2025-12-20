@@ -6,7 +6,7 @@ description: >-
   Northern Heights는 설원 위를 미끄러지듯 내려오며 스턴트를 펼치고 코인을 모아 전설의 스키어를 노리는 스포츠 게임입니다. 속도와
   컨트롤의 균형을 잡는 것이 핵심입니다.
 iframeSrc: 'https://northernheights.h5games.usercontent.goog/v/1pct901lj7uko/'
-thumbnail: /new-images/northern-heights.png
+thumbnail: /new-images/thumbnails/northern-heights.png
 tags:
   - sports
   - action

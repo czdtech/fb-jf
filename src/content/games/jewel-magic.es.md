@@ -7,7 +7,7 @@ description: >-
   brillantes, crea combos poderosos y supera niveles desafiantes en esta
   aventura encantada.
 iframeSrc: 'https://jewelmagic.h5games.usercontent.goog/v/55vd8l21hn1q8/'
-thumbnail: /new-images/jewel-magic.png
+thumbnail: /new-images/thumbnails/jewel-magic.png
 tags:
   - puzzle
   - casual

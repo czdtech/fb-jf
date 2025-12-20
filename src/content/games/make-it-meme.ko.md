@@ -6,7 +6,7 @@ description: >-
   Make It Meme는 플레이어들이 밈 이미지를 보고 제한 시간 안에 자막을 붙인 뒤 서로
   평가해 승자를 가리는 온라인 멀티플레이 파티 게임입니다.
 iframeSrc: 'https://artedu1808.github.io/g177/make-it-meme/'
-thumbnail: /new-images/make-it-meme.jpg
+thumbnail: /new-images/thumbnails/make-it-meme.jpg
 tags:
   - party game
   - casual

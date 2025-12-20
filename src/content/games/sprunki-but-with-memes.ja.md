@@ -2,7 +2,7 @@
 title: "Sprunki But With Memes - Play Sprunki But With Memes Online"
 description: "Sprunki but with memesは、ミーム風のキャラクターやサウンドで曲を作る音楽ゲームです。組み合わせを試しながら、にぎやかな雰囲気のトラックを作れます。"
 iframeSrc: "https://kdata1.com/5000/2024/sprunki-retake-memes/"
-thumbnail: "/sprunki-but-with-memes.png"
+thumbnail: /new-images/thumbnails/sprunki-but-with-memes.png
 urlstr: "sprunki-but-with-memes"
 score: "4.2/5  (142 votes)"
 tags: ["sprunki but with memes"]

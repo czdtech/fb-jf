@@ -2,7 +2,7 @@
 title: Powerwall
 description: Powerwallはブロック破壊ゲームです。パドルでボールを跳ね返し、ブロックを壊して進みます。
 iframeSrc: 'https://powerwall.h5games.usercontent.goog/v/5k9j2m8h7p3n8/'
-thumbnail: /new-images/powerwall.png
+thumbnail: /new-images/thumbnails/powerwall.png
 urlstr: powerwall
 score: 4.0/5  (1734 votes)
 tags:

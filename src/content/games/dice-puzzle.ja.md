@@ -2,7 +2,7 @@
 title: "Dice Puzzle ダイス・パズル"
 description: "「Dice Puzzle」は脳を刺激するダイス合体パズル。3つの同じサイコロを揃えて数を増やし、魔法のジュエルキューブを目指せ。盤面が埋まるまでの生存競争。"
 iframeSrc: "https://0vfcifju4i900.h5games.usercontent.goog/v/2jg90liogd5f8/"
-thumbnail: "/new-images/dice-puzzle.jpg"
+thumbnail: /new-images/thumbnails/dice-puzzle.jpg
 urlstr: "dice-puzzle"
 score: "4.4/5  (2100 votes)"
 tags: ["puzzle", "thinky", "casual"]

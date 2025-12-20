@@ -4,7 +4,7 @@ locale: en
 title: "Bullet Force"
 description: "Jump into fast-paced multiplayer combat in Bullet Force, a modern first-person shooter. Customize a vast arsenal of weapons, master multiple game modes, and battle players worldwide or practice offline against bots."
 iframeSrc: "https://ubg44.github.io/BulletForce/"
-thumbnail: "/new-images/bullet-force.jpg"
+thumbnail: /new-images/thumbnails/bullet-force.jpg
 urlstr: "bullet-force"
 score: "3.9/5  (951 votes)"
 tags: ["action", "shooting"]

@@ -7,7 +7,7 @@ description: >-
   versions humanoïdes, avec un style visuel modernisé tout en conservant le
   gameplay musical d’origine.
 iframeSrc: 'https://turbowarp.org/1139615160/embed'
-thumbnail: /sprunki-retake-new-human.png
+thumbnail: /new-images/thumbnails/sprunki-retake-new-human.png
 tags:
   - sprunki retake new human
   - musical mod

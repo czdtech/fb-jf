@@ -7,7 +7,7 @@ description: >-
   denken, finde die beliebtesten Antworten auf eine Frage und schlage deine
   Gegner mit möglichst breiter Abdeckung.
 iframeSrc: 'https://0s1do8fmhrn9g.h5games.usercontent.goog/v/08gmb663j6g78/'
-thumbnail: /new-images/guess-their-answer.png
+thumbnail: /new-images/thumbnails/guess-their-answer.png
 tags:
   - puzzle
   - thinky

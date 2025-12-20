@@ -2,7 +2,7 @@
 title: Sprunki Phase 2.5 - Play Sprunki Phase 2.5 Online
 description: Sprunki Phase 2.5は「JOKE MOD」メカニクスを備えた、音楽制作体験に予測不可能なホラーのひねりを加えた革新的なゲームです。
 iframeSrc: 'https://turbowarp.org/1097172337/embed'
-thumbnail: /sprunki-phase-2-5.png
+thumbnail: /new-images/thumbnails/sprunki-phase-2-5.png
 urlstr: sprunki-phase-2-5
 score: 4.2/5  (437 votes)
 tags:

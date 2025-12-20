@@ -7,7 +7,7 @@ description: >-
   giratorio, evita golpear las hojas ya clavadas y rompe las dianas con
   precisión.
 iframeSrc: "https://ultimateknifesmash.h5games.usercontent.goog/v/5ifrmqkiihdj0/"
-thumbnail: "/new-images/ultimate-knife-smash.png"
+thumbnail: /new-images/thumbnails/ultimate-knife-smash.png
 tags:
   - action
   - casual

@@ -6,7 +6,7 @@ description: >-
   Incredibox Trillybox ist ein Fan-Mod rund um modernen Trap: 808-Kicks, rasante
   Hi-Hats, dunkle Melodien und Autotune-Vocals für harte Trap-Beats.
 iframeSrc: 'https://turbowarp.org/907049948/embed'
-thumbnail: /new-images/incredibox-trillybox.png
+thumbnail: /new-images/thumbnails/incredibox-trillybox.png
 tags:
   - music
   - hip-Hop

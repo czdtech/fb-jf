@@ -2,7 +2,7 @@
 title: "Incredibox Downtown Simulator"
 description: "発見する新しいIncredib​​oxモッドです。詳細は近日公開予定です。"
 iframeSrc: "https://turbowarp.org/949700724/embed"
-thumbnail: "/new-images/incredibox-downtown-simulator.png"
+thumbnail: /new-images/thumbnails/incredibox-downtown-simulator.png
 urlstr: "incredibox-downtown-simulator"
 score: "4.7/5 (1523 votes)"
 tags: ["music", "simulator"]

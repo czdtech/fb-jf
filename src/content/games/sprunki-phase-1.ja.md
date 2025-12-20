@@ -2,7 +2,7 @@
 title: Sprunki Phase 1 - Play Sprunki Phase 1 Online
 description: Sprunki Phase 1は、音楽制作にホラー系の雰囲気を加えたSprunki系Modです。
 iframeSrc: 'https://turbowarp.org/1093598129/embed'
-thumbnail: /sprunki-phase-1.png
+thumbnail: /new-images/thumbnails/sprunki-phase-1.png
 urlstr: sprunki-phase-1
 score: 4.1/5  (542 votes)
 tags:

@@ -4,7 +4,7 @@ urlstr: football-stars
 title: "Football Stars"
 description: "Football Stars condense le foot en matchs rapides : fais circuler le ballon intelligemment, déclenche tes frappes au bon moment et surpasse les défenseurs dans des rencontres arcade."
 iframeSrc: 'https://0bqhpbln445co.h5games.usercontent.goog/v/2to6kd3co500g/'
-thumbnail: /new-images/football-stars.png
+thumbnail: /new-images/thumbnails/football-stars.png
 tags:
   - sports
   - soccer

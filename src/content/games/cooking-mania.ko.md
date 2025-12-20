@@ -6,7 +6,7 @@ description: >-
   빠른 템포로 진행되는 시간 관리형 요리 게임 Cooking Mania입니다. 주문을 동시에
   처리하고 콤보를 이어 가며, 주방을 업그레이드해 손님들을 만족시켜 보세요.
 iframeSrc: 'https://626dr588t6g9g.h5games.usercontent.goog/v/76eqgdom1qfbg/'
-thumbnail: /new-images/cooking-mania.jpg
+thumbnail: /new-images/thumbnails/cooking-mania.jpg
 tags:
   - casual
   - thinky

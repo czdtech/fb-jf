@@ -6,7 +6,7 @@ description: >-
   짧은 상황으로 축구의 핵심을 담은 3D 풋볼 매니아입니다. 드리블하고 패스하며,
   타이밍을 맞춰 골키퍼를 제치는 슛을 노려 보세요.
 iframeSrc: 'https://0iadidf74ef9o.h5games.usercontent.goog/v/4cmv5jsv0n25g/'
-thumbnail: /new-images/3d-football-mania.png
+thumbnail: /new-images/thumbnails/3d-football-mania.png
 tags:
   - sports
   - soccer

@@ -8,7 +8,7 @@ description: >-
   mientras intentas sobrevivir el máximo tiempo posible en este desafío a toda
   velocidad.
 iframeSrc: "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/slope-2/index.html"
-thumbnail: "/new-images/slope-2.jpg"
+thumbnail: /new-images/thumbnails/slope-2.jpg
 tags:
   - endless runner
   - ball

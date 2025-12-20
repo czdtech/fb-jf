@@ -2,7 +2,7 @@
 title: "Sprunki Babies - Play Sprunki Babies Online"
 description: "Sprunki BabiesはベビーSprunkiのキャラクターで音を重ねて曲を作る音楽サンドボックスです。ドラッグ＆ドロップで簡単に組み合わせを試せます。"
 iframeSrc: "https://turbowarp.org/1110888906/embed"
-thumbnail: "/sprunki-babies.png"
+thumbnail: /new-images/thumbnails/sprunki-babies.png
 urlstr: "sprunki-babies"
 score: "4.0/5  (212 votes)"
 tags: ["sprunki babies"]

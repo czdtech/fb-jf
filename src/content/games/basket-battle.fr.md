@@ -4,7 +4,7 @@ urlstr: basket-battle
 title: "Basket Battle"
 description: "Basket Battle est un duel de basket basé sur la physique : règle la courbe de ton tir, prends les rebonds et marque plus de paniers que ton adversaire en manches rapides."
 iframeSrc: "https://1e2ocejsf0rm8.h5games.usercontent.goog/v/093f1a2jf2p98/"
-thumbnail: /new-images/basket-battle.png
+thumbnail: /new-images/thumbnails/basket-battle.png
 tags:
   - sports
   - basketball

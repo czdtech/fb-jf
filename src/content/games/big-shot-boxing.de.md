@@ -7,7 +7,7 @@ description: >-
   dich von Hinterhof‑Fights bis zu Weltmeisterschaften hoch und meistere die
   einfachen, aber tiefgehenden Retro‑Arcade‑Kontrollen.
 iframeSrc: 'https://rebemanae.github.io/big-shot-boxing/'
-thumbnail: /new-images/big-shot-boxing.jpg
+thumbnail: /new-images/thumbnails/big-shot-boxing.jpg
 tags:
   - sports
   - action

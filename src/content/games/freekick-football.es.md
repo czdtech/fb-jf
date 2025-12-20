@@ -6,7 +6,7 @@ description: >-
   Pon a prueba tu talento a balón parado en Freekick Football: apunta, chuta y
   marca para convertirte en un maestro de los tiros libres.
 iframeSrc: 'https://freekickfootball.h5games.usercontent.goog/v/0lqeu7698mvk0/'
-thumbnail: /new-images/freekick-football.png
+thumbnail: /new-images/thumbnails/freekick-football.png
 tags:
   - soccer
   - sports

@@ -7,7 +7,7 @@ description: >-
   wachsenden Waffenarsenal weg, sammle Coins und verbessere deine Ausrüstung
   zwischen den Runden.
 iframeSrc: 'https://bitlifeonline.github.io/class2623/funny-shooter-2/'
-thumbnail: /new-images/funny-shooter-2.jpg
+thumbnail: /new-images/thumbnails/funny-shooter-2.jpg
 tags:
   - shooting
   - fps

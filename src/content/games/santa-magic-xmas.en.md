@@ -3,7 +3,7 @@ locale: en
 title: "Santa Magic Xmas"
 description: "Experience the magic of Christmas in this festive match-3 puzzle game! Help Santa by matching colorful ornaments and clearing the board to deliver the presents."
 iframeSrc: "https://santamagicxmas.h5games.usercontent.goog/v/27gpp489kce80/"
-thumbnail: "/new-images/santa-magic-xmas.png"
+thumbnail: /new-images/thumbnails/santa-magic-xmas.png
 urlstr: "santa-magic-xmas"
 score: "4.4/5  (2250 votes)"
 tags: ["puzzle", "casual", "action"]

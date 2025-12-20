@@ -4,7 +4,7 @@ urlstr: electron-dash
 title: Electron Dash
 description: "Electron Dash est un runner futuriste dans un tunnel\_: cours, saute et téléporte‑toi de plateforme en plateforme sans tomber dans le vide."
 iframeSrc: 'https://webglmath.github.io/electron-dash/'
-thumbnail: /new-images/electron-dash.jpg
+thumbnail: /new-images/thumbnails/electron-dash.jpg
 tags:
   - action
   - casual

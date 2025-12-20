@@ -2,7 +2,7 @@
 title: "Find 500 Differences"
 description: "Find 500 Differencesで観察力に挑戦しましょう。ほぼ同じ2つの画像を比較し、すべての微妙な違いを見つけましょう。"
 iframeSrc: "https://find500differences2.h5games.usercontent.goog/v/4gu2tobroroug/"
-thumbnail: "/new-images/find-500-differences.png"
+thumbnail: /new-images/thumbnails/find-500-differences.png
 urlstr: "find-500-differences"
 score: "3.9/5  (1234 votes)"
 tags: ["puzzle", "casual", "thinky"]

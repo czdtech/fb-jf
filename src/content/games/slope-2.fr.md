@@ -7,7 +7,7 @@ description: >-
   dévale une pente vertigineuse, en évitant les obstacles et les blocs rouges
   pour survivre le plus longtemps possible dans un défi ultra rapide.
 iframeSrc: 'https://raw.githack.com/lioxryt/lioxryt-assets/main/other/slope-2/index.html'
-thumbnail: /new-images/slope-2.jpg
+thumbnail: /new-images/thumbnails/slope-2.jpg
 tags:
   - endless runner
   - ball

@@ -8,7 +8,7 @@ description: >-
   juego y enfréntate a jugadores de todo el mundo o entrena sin conexión contra
   bots.
 iframeSrc: 'https://ubg44.github.io/BulletForce/'
-thumbnail: /new-images/bullet-force.jpg
+thumbnail: /new-images/thumbnails/bullet-force.jpg
 tags:
   - action
   - shooting

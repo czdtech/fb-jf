@@ -7,7 +7,7 @@ description: >-
   aprende las bases de plantar, cultivar y cosechar, además de consejos y estrategias
   para crear tu jardín ideal.
 iframeSrc: 'https://growden.io/'
-thumbnail: /growagarden-min.jpeg
+thumbnail: /new-images/thumbnails/grow-a-garden.jpeg
 tags:
   - simulation
   - casual

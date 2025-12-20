@@ -7,7 +7,7 @@ description: >-
   musique chorale : construis des harmonies a cappella puissantes et débloque
   des bonus à l’esthétique quasi sacrée.
 iframeSrc: 'https://turbowarp.org/1034584392/embed'
-thumbnail: /new-images/incredibox-choir.png
+thumbnail: /new-images/thumbnails/incredibox-choir.png
 tags:
   - music
   - vocal

@@ -2,7 +2,7 @@
 title: Tap Tap Shots
 description: Tap Tap Shotsは、バスケットボールシューティングゲームです。タイミングよくタップしてシュートを決めましょう。
 iframeSrc: 'https://ubg98.github.io/TapTapShots/'
-thumbnail: /new-images/tap-tap-shots.jpg
+thumbnail: /new-images/thumbnails/tap-tap-shots.jpg
 urlstr: tap-tap-shots
 score: 4.4/5  (3167 votes)
 tags:

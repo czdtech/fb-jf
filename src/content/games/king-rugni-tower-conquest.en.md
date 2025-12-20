@@ -5,7 +5,7 @@ description: >-
   King Rugni Tower Conquest is a compact tower defense — place towers, route
   creeps, and upgrade smartly to hold lines.
 iframeSrc: 'https://1kh2cdjui86vo.h5games.usercontent.goog/v/71hetkqd45518/'
-thumbnail: /new-images/king-rugni-tower-conquest.jpg
+thumbnail: /new-images/thumbnails/king-rugni-tower-conquest.jpg
 urlstr: king-rugni-tower-conquest
 score: 4.2/5  (2106 votes)
 tags:

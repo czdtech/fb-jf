@@ -4,7 +4,7 @@ urlstr: blob-opera
 title: "Blob Opera"
 description: "Blob Opera est une expérience musicale interactive : fais glisser quatre blobs chanteurs pour créer ton propre mini‑opéra sans aucune connaissance musicale."
 iframeSrc: "https://gacembed.withgoogle.com/blob-opera/"
-thumbnail: /new-images/blob-opera.jpg
+thumbnail: /new-images/thumbnails/blob-opera.jpg
 tags:
   - music
   - casual

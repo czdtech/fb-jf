@@ -7,7 +7,7 @@ description: >-
   Skibidi Toilet、Sigma 等脑腐敌人对你大脑的进攻。
 iframeSrc: >-
   https://playhop.com/dist-app/471072?header=no&utm_source=distrib&utm_medium=gameflare
-thumbnail: /new-images/plantsvsbrainrots.jpg
+thumbnail: /new-images/thumbnails/plants-vs-brainrots.jpg
 tags:
   - roblox
   - casual

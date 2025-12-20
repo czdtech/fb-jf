@@ -2,7 +2,7 @@
 title: "Mahjong Match Puzzle"
 description: "麻雀マッチパズルは、タイルを素早くマッチし、ボーナスチェーンを構築し、タイマーと戦います。"
 iframeSrc: "https://4mqg2n52uo6po.h5games.usercontent.goog/v/2s7q19jjnb8ig/"
-thumbnail: "/new-images/mahjong-match-puzzle.png"
+thumbnail: /new-images/thumbnails/mahjong-match-puzzle.png
 urlstr: "mahjong-match-puzzle"
 score: "4.1/5  (1879 votes)"
 tags: ["mahjong", "puzzle", "thinky"]

@@ -4,7 +4,7 @@ urlstr: sprunki-interactive-beta
 title: "Sprunki Interactive BETA - Sprunki Interactive BETA online spielen"
 description: "Sprunki Interactive BETA ist ein experimenteller Sprunki-Mod mit frei herumlaufenden Figuren, zufälligen Kollisionen und einem Mix aus süßer Oberfläche und unterschwelligem Horror."
 iframeSrc: 'https://turbowarp.org/1090663998/embed'
-thumbnail: /sprunki-interactive-beta.png
+thumbnail: /new-images/thumbnails/sprunki-interactive-beta.png
 tags:
   - sprunki interactive beta
 score: 4.0/5  (407 votes)

@@ -5,7 +5,7 @@ title: "Minecraft Cave Escape - 在线玩《Minecraft Cave Escape》"
 description: >-
   在《Minecraft Cave Escape》中，你被困在一个方块洞穴里，手上没有任何材料可以挖出一条路，只能踩着不断掉落的方块一路往上爬逃出生天——但千万别被方块砸中！
 iframeSrc: 'https://turbowarp.org/1189417610/embed'
-thumbnail: /minecraft-cave-escape.png
+thumbnail: /new-images/thumbnails/minecraft-cave-escape.png
 tags:
   - minecraft cave escape
 score: 4.7/5  (354 votes)

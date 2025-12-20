@@ -4,7 +4,7 @@ locale: en
 title: "Battleship game"
 description: "A comprehensive guide to the classic Battleship game. Learn the rules, ship placement strategies, effective search patterns, and tips to sink the enemy fleet before they find yours."
 iframeSrc: "https://cdn.gamesnacks.com/battleship2/gameCode/index.html"
-thumbnail: "/new-images/battleship.jpg"
+thumbnail: /new-images/thumbnails/battleship.jpg
 urlstr: "battleship"
 score: "4.4/5  (986 votes)"
 tags: ["strategy", "casual"]

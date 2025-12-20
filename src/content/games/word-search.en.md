@@ -4,7 +4,7 @@ locale: en
 title: "Word Search"
 description: "Word Search is a classic puzzle game where players find hidden words in a grid of letters, searching horizontally, vertically, and diagonally to complete themed word lists in this relaxing brain exercise."
 iframeSrc: "https://cdn.gamesnacks.com/wordsearch1/gameCode/index.html"
-thumbnail: "/new-images/word-search.jpg"
+thumbnail: /new-images/thumbnails/word-search.jpg
 urlstr: "word-search"
 score: "3.8/5  (1143 votes)"
 tags: ["word", "puzzle", "brain training"]

@@ -7,7 +7,7 @@ description: >-
   Prügelspiel, in dem du mit einem Strichmännchen gegen andere kämpfst, Waffen
   einsammelst und als letzter übrig bleiben musst.
 iframeSrc: 'https://ext.minijuegosgratis.com/stick-fighter-2/index.html'
-thumbnail: /new-images/stick-fight.jpg
+thumbnail: /new-images/thumbnails/stick-fight.jpg
 tags:
   - fighting
   - action

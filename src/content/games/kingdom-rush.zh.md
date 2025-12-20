@@ -4,7 +4,7 @@ urlstr: kingdom-rush
 title: 《Kingdom Rush》王国保卫战
 description: 《Kingdom Rush》是系列的首部旗帜级塔防作品，你要在道路转角处布置并升级四类防御塔，召唤援军、操控英雄，守住每一个关键关口。
 iframeSrc: 'https://1000freegames.github.io/swf/kingdom-rush.html'
-thumbnail: /new-images/kingdom-rush.jpg
+thumbnail: /new-images/thumbnails/kingdom-rush.jpg
 tags:
   - tower-defense
   - strategy

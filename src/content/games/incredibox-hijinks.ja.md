@@ -2,7 +2,7 @@
 title: "Incredibox Hijinks"
 description: "混沌としたカートーンテーマのファン作成モッド『Incredibox Hijinks』を探索しましょう。このガイドでは、その風変わりなエレクトロニックサウンドパレット、楽しくいたずらなトラックを作成するためのゲームプレイ、テーマ別ボーナスのアンロック方法を詳しく説明します。"
 iframeSrc: "https://turbowarp.org/1027156305/embed"
-thumbnail: "/new-images/incredibox-hijinks.png"
+thumbnail: /new-images/thumbnails/incredibox-hijinks.png
 urlstr: "incredibox-hijinks"
 score: "4.7/5 (2250 votes)"
 tags: ["music", "rhythm"]

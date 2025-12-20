@@ -7,7 +7,7 @@ description: >-
   스프룽키 스타일 모드입니다. 자리 바꾸기(스왑)를 통해 서로 다른 사운드를
   조합하며 자신만의 트랙을 만들어 보세요.
 iframeSrc: 'https://turbowarp.org/1141050651/embed'
-thumbnail: /swap-sprunkgerny.png
+thumbnail: /new-images/thumbnails/swap-sprunkgerny.png
 tags:
   - swap sprunkgerny
   - swap sprunkgerny online

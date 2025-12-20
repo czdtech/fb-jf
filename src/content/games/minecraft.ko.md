@@ -8,7 +8,7 @@ description: >-
   있는 높은 자유도가 특징입니다.
 iframeSrc: >-
   https://app-167027.games.s3.yandex.net/167027/tnn3wq0qkjwhvr1271tszdhl82lm97e6/index.html
-thumbnail: /new-images/minecraft.jpg
+thumbnail: /new-images/thumbnails/minecraft.jpg
 tags:
   - sandbox
   - survival

@@ -6,7 +6,7 @@ description: >-
   물리 엔진으로 움직이는 공을 쏘아 장애물 미로를 돌파하는 아케이드 게임
   Crazy Balls입니다. 각도를 재고 힘을 조절해 튕기기와 벽 맞추기를 활용해 보세요.
 iframeSrc: 'https://05hi0oufvrcro.h5games.usercontent.goog/v/0qeok5765gar8/'
-thumbnail: /new-images/crazy-balls.png
+thumbnail: /new-images/thumbnails/crazy-balls.png
 tags:
   - action
   - casual

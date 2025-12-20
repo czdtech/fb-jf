@@ -2,7 +2,7 @@
 title: Fairyland フェアリーランド
 description: 「Fairyland」は優しいパズルアドベンチャー。心地よいシーンを探索し、軽いパズルを解き、ゆったりとしたペースで目標を達成しよう。
 iframeSrc: 'https://66ts484uf5r18.h5games.usercontent.goog/v/1nt4ffhi7k9jo/'
-thumbnail: /new-images/fairyland.png
+thumbnail: /new-images/thumbnails/fairyland.png
 urlstr: fairyland
 score: 4.0/5  (1821 votes)
 tags:

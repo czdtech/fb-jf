@@ -2,7 +2,7 @@
 title: Slice Master
 description: Slice Masterはスライシングアクションゲームです。果物を切って得点し、爆弾を避けながらコンボをつなぎます。
 iframeSrc: 'https://slicemaster.h5games.usercontent.goog/v/3k9j5m8h7p2n8/'
-thumbnail: /new-images/slice-master.png
+thumbnail: /new-images/thumbnails/slice-master.jpg
 urlstr: slice-master
 score: 4.2/5  (2156 votes)
 tags:

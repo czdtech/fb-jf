@@ -2,7 +2,7 @@
 title: "He Likes The Darkness"
 description: "He Likes The Darknessは、雰囲気のあるプラットフォーマーです。影のあるステージを進み、オーブを集め、危険な場所を正確なジャンプで切り抜けましょう。"
 iframeSrc: "https://77gr97nn0bej0.h5games.usercontent.goog/v/0emki8kk9qofo/"
-thumbnail: "/new-images/he-likes-the-darkness.png"
+thumbnail: /new-images/thumbnails/he-likes-the-darkness.png
 urlstr: "he-likes-the-darkness"
 score: "4.1/5  (1972 votes)"
 tags: ["action", "puzzle"]

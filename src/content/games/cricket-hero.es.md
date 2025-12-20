@@ -7,7 +7,7 @@ description: >-
   perfecto de cada golpe y consigue tantas carreras como puedas en este adictivo
   juego de bateo de críquet.
 iframeSrc: 'https://crickethero.h5games.usercontent.goog/v/7cnfq54s3ilao/'
-thumbnail: /new-images/cricket-hero.jpg
+thumbnail: /new-images/thumbnails/cricket-hero.jpg
 tags:
   - sports
   - action

@@ -6,7 +6,7 @@ description: >-
   在《Find 500 Differences》中挑戰你的觀察力：比較兩張幾乎一模一樣的圖片，
   找出藏在細節裡的所有差異。
 iframeSrc: 'https://find500differences2.h5games.usercontent.goog/v/4gu2tobroroug/'
-thumbnail: /new-images/find-500-differences.png
+thumbnail: /new-images/thumbnails/find-500-differences.png
 tags:
   - puzzle
   - casual

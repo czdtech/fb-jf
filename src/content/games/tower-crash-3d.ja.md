@@ -2,7 +2,7 @@
 title: Tower Crash 3D
 description: Tower Crash 3Dは、タワーを破壊する3Dゲームです。ボールを落として塔を崩しましょう。
 iframeSrc: 'https://ubg98.github.io/TowerCrash3D/'
-thumbnail: /new-images/tower-crash-3d.jpg
+thumbnail: /new-images/thumbnails/tower-crash-3d.jpg
 urlstr: tower-crash-3d
 score: 4.3/5  (2456 votes)
 tags:

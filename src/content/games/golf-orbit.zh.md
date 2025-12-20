@@ -4,7 +4,7 @@ urlstr: golf-orbit
 title: Golf Orbit 行星高爾夫
 description: Golf Orbit 把高爾夫變成物理飛行解謎：設定發射角度與力度， 利用旋轉與星球重力，打出又遠又精準的弧線球。
 iframeSrc: 'https://7e0r297sgk0j0.h5games.usercontent.goog/v/1976bdao4gtf0/'
-thumbnail: /new-images/golf-orbit.png
+thumbnail: /new-images/thumbnails/golf-orbit.png
 tags:
   - sports
   - puzzle

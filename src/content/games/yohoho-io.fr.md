@@ -6,7 +6,7 @@ description: >-
   YoHoHo.io est un battle royale de pirates : collecte de l'or, grossis et
   élimine les autres joueurs pour dominer l'île.
 iframeSrc: 'https://bitlifeonline.github.io/class16523/yohoho-io/'
-thumbnail: /new-images/yohoho-io.jpg
+thumbnail: /new-images/thumbnails/yohoho-io.jpg
 tags:
   - io-game
   - battle-royale

@@ -2,7 +2,7 @@
 title: "Getting over it"
 description: "ハンマーで登る挑戦：大釜に入った男が、ハンマーを振って、弾んで、引っ掛けて、シュールな障害物を登っていきます。精密な物理挙動が焦りを罰します。"
 iframeSrc: "https://ubg77.github.io/fix/getting-over-it/"
-thumbnail: "/new-images/getting-over-it.jpg"
+thumbnail: /new-images/thumbnails/getting-over-it.jpg
 urlstr: "getting-over-it"
 score: "5.0/5  (226 votes)"
 tags: ["platformer", "physics"]

@@ -7,7 +7,7 @@ description: >-
   색깔 블록을 움직여 선을 그려 영역을 넓히고, 상대의 선을 끊어
   제거해 최후까지 살아남으세요.
 iframeSrc: 'https://mathgames66.github.io/games/html5/paperio2/'
-thumbnail: /new-images/paper-io.jpg
+thumbnail: /new-images/thumbnails/paper-io.jpg
 tags:
   - multiplayer
   - strategy

@@ -7,7 +7,7 @@ description: >-
   vivante : loops hip‑hop, bruitages urbains et interface en grille pour bâtir
   ton propre groove de rue.
 iframeSrc: 'https://turbowarp.org/949700724/embed'
-thumbnail: /new-images/incredibox-downtown-simulator.png
+thumbnail: /new-images/thumbnails/incredibox-downtown-simulator.png
 tags:
   - music
   - simulator

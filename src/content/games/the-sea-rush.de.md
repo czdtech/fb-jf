@@ -7,7 +7,7 @@ description: >-
   Meeresbewohner, bilde Ketten und sammle Punkte, während der Druck der Tiefe
   stetig steigt.
 iframeSrc: 'https://thesearush.h5games.usercontent.goog/v/5ie3e5aghbr18/'
-thumbnail: /new-images/the-sea-rush.png
+thumbnail: /new-images/thumbnails/the-sea-rush.png
 tags:
   - adventure
   - action

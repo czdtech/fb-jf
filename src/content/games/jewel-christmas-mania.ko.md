@@ -6,7 +6,7 @@ description: >-
   반짝이는 보석으로 퍼즐을 푸는 3매치 게임 'Jewel Christmas Mania' 가이드입니다. 크리스마스 테마 보석을 맞추며 스테이지
   목표를 달성하는 방법과 특수 보석 활용 팁을 정리했습니다.
 iframeSrc: 'https://jewelchristmasmania.h5games.usercontent.goog/v/3vom8bn0qgmto/'
-thumbnail: /new-images/jewel-christmas-mania.png
+thumbnail: /new-images/thumbnails/jewel-christmas-mania.png
 tags:
   - puzzle
   - casual

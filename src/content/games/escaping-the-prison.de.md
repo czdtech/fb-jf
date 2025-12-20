@@ -7,7 +7,7 @@ description: >-
   Items und Routen (Sneaky/Badass/Legal), scheitere spektakulär und finde die
   verschiedenen Ausbruchs-Enden.
 iframeSrc: 'https://classroomjq.github.io/escaping-the-prison/'
-thumbnail: /new-images/escaping-the-prison.jpg
+thumbnail: /new-images/thumbnails/escaping-the-prison.jpg
 tags:
   - adventure
   - point-and-click

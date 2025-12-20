@@ -6,7 +6,7 @@ description: >-
   Sprunkle Bops es una expansión creada por fans del popular juego de mezcla musical
   Incredibox, con mods personalizados, nuevas fases y mecánicas únicas.
 iframeSrc: 'https://turbowarp.org/1122091658/embed'
-thumbnail: /sprunklebops.png
+thumbnail: /new-images/thumbnails/sprunkle-bops.png
 tags:
   - sprunkle bops
   - sprunkle bops online

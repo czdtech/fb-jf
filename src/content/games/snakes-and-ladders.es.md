@@ -8,7 +8,7 @@ description: >-
   harán retroceder. Sé el primero en llegar a la casilla final para ganar este
   juego familiar de toda la vida.
 iframeSrc: "https://cdn.gamesnacks.com/snakesandladders/gameCode/index.html"
-thumbnail: "/new-images/snakes-and-ladders.jpg"
+thumbnail: /new-images/thumbnails/snakes-and-ladders.jpg
 tags:
   - board-game
   - classic

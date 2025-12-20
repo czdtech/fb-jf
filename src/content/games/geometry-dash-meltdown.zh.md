@@ -6,7 +6,7 @@ description: >-
   節奏平台關卡包：在全新曲目與主題關卡中跳躍與飛行，
   穿過各種尖刺、跳板與重力傳送門，挑戰高難度飛船與球形段落。
 iframeSrc: 'https://geometrylite.io/game/geometry-dash-meltdown/'
-thumbnail: /new-images/geometry-dash-meltdown.jpg
+thumbnail: /new-images/thumbnails/geometry-dash-meltdown.jpg
 tags:
   - rhythm
   - platformer

@@ -7,7 +7,7 @@ description: >-
   速度動作更流暢、敵人與關卡更豐富，手繪風場景中藏著大量秘密與獎盃。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210305/jj9/index.html
-thumbnail: /new-images/fancy-pants-2.jpg
+thumbnail: /new-images/thumbnails/fancy-pants-2.jpg
 tags:
   - platformer
   - action

@@ -4,7 +4,7 @@ urlstr: fruit-ninja
 title: Fruit Ninja 프루트 닌자
 description: 공중에 튀어 오르는 과일을 손가락으로 베어 넘기는 아케이드 슬래시 게임입니다. 폭탄을 피하며 콤보와 프렌지 타임을 노려 보세요.
 iframeSrc: 'https://emulatoros.github.io/gfile/fruitninja/'
-thumbnail: /new-images/fruit-ninja.jpg
+thumbnail: /new-images/thumbnails/fruit-ninja.jpg
 tags:
   - arcade
   - action

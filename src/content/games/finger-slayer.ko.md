@@ -6,7 +6,7 @@ description: >-
   닫히는 칼날을 피해 마지막 순간에 손가락을 빼야 하는 반응 속도 테스트
   게임입니다. 너무 일찍 빼면 점수가 줄고, 너무 늦으면 잘려 나갑니다.
 iframeSrc: 'https://7ftsta5r737o8.h5games.usercontent.goog/v/3m7r2si8ppdlg/'
-thumbnail: /new-images/finger-slayer.jpg
+thumbnail: /new-images/thumbnails/finger-slayer.jpg
 tags:
   - action
   - casual

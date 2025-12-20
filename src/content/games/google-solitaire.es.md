@@ -7,7 +7,7 @@ description: >-
   fundamentos por palo de As a Rey usando columnas que bajan alternando
   colores.
 iframeSrc: 'https://www.google.com/logos/fnbx/solitaire/standalone.html'
-thumbnail: /new-images/google-solitaire.jpg
+thumbnail: /new-images/thumbnails/google-solitaire.jpg
 tags:
   - solitaire
   - card

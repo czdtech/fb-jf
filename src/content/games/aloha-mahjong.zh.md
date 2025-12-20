@@ -4,7 +4,7 @@ urlstr: aloha-mahjong
 title: Aloha Mahjong 阿罗哈麻将
 description: 《Aloha Mahjong（阿罗哈麻将）》是一款带有海岛风情的连连看式麻将消除游戏，在叠放牌阵中找出可配对的牌面，一层层清空牌堆放松大脑。
 iframeSrc: 'https://02ef7fb7guapg.h5games.usercontent.goog/v/13knu9k9rm8go/'
-thumbnail: /new-images/aloha-mahjong.jpg
+thumbnail: /new-images/thumbnails/aloha-mahjong.jpg
 tags:
   - mahjong
   - puzzle

@@ -4,7 +4,7 @@ urlstr: polymatch
 title: PolyMatch
 description: "PolyMatch est un jeu de tuiles à éliminer\_: sélectionne et regroupe des paires de symboles dans une zone de réserve limitée pour vider le plateau sans le saturer."
 iframeSrc: 'https://4h72h3ha1dnh0.h5games.usercontent.goog/v/4mrusdmqik1l8/'
-thumbnail: /new-images/polymatch.png
+thumbnail: /new-images/thumbnails/polymatch.png
 tags:
   - puzzle
   - thinky

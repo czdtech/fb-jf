@@ -7,7 +7,7 @@ description: >-
   bloques, completa filas o áreas para despejar espacio y evita quedarte sin
   movimientos gracias a un buen encajado.
 iframeSrc: 'https://6f5e193l1nhig.h5games.usercontent.goog/v/2bgjgmrog0tgg/'
-thumbnail: /new-images/ant-and-block-puzzle.png
+thumbnail: /new-images/thumbnails/ant-and-block-puzzle.png
 tags:
   - puzzle
   - thinky

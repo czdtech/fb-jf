@@ -3,7 +3,7 @@ locale: en
 title: "Zombie Hunter: Survival"
 description: "Zombie Hunter: Survival is a tense top‑down shooter — kite hordes, conserve ammo, and survive waves."
 iframeSrc: "https://6ctmcm40nbff0.h5games.usercontent.goog/v/2a81mr3h8ut10/"
-thumbnail: "/new-images/zombie-hunter-survival.png"
+thumbnail: /new-images/thumbnails/zombie-hunter-survival.png
 urlstr: "zombie-hunter-survival"
 score: "4.1/5  (2022 votes)"
 tags: ["shooting", "horror"]

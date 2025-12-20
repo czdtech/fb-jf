@@ -6,7 +6,7 @@ description: >-
   《Totemia: Cursed Marbles》是一款类 Zuma
   弹珠消除游戏。在古老图腾与丛林背景下，发射彩色弹珠，消除逐步前进的诅咒弹珠链，阻止它们到达终点。
 iframeSrc: 'https://totemiacursedmarbles.h5games.usercontent.goog/v/7h3d2n9c1b5k0/'
-thumbnail: /new-images/totemia-cursed-marbles.jpg
+thumbnail: /new-images/thumbnails/totemia-cursed-marbles.png
 tags:
   - zuma
   - puzzle

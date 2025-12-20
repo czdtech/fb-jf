@@ -2,7 +2,7 @@
 title: "Daily Crossword デイリー・クロスワード"
 description: "「Daily Crossword」で毎日新しいパズルに挑戦。カギを解き、文字を埋めて、脳の活性化を習慣にしよう。"
 iframeSrc: "https://ams.cdn.arkadiumhosted.com/assets/global/game/daily-crossword/"
-thumbnail: "/new-images/daily-crossword.jpg"
+thumbnail: /new-images/thumbnails/daily-crossword.jpg
 urlstr: "daily-crossword"
 score: "4.4/5  (1181 votes)"
 tags: ["word", "puzzle"]

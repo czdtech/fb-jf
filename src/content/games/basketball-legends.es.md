@@ -7,7 +7,7 @@ description: >-
   caricaturizadas de grandes estrellas. Aprende controles, estrategias de ataque
   y defensa, uso del supertiro y claves para 1 jugador y 2 jugadores.
 iframeSrc: 'https://webglmath.github.io/basketball-legends/'
-thumbnail: /new-images/basketball-legends.jpg
+thumbnail: /new-images/thumbnails/basketball-legends.jpg
 tags:
   - 2-Player
   - sports

@@ -2,7 +2,7 @@
 title: Droid-O ドロイド・オー
 description: 「Droid-O」は緊迫感あるトップダウン・アリーナシューター。正確な動きで敵の波をかわし、スキルを連携させ、激化する脅威を生き残ろう。
 iframeSrc: 'https://6r2lv8eg0tif8.h5games.usercontent.goog/v/56d4ef8srjpfg/'
-thumbnail: /new-images/droid-o.png
+thumbnail: /new-images/thumbnails/droid-o.png
 urlstr: droid-o
 score: 4.0/5  (1789 votes)
 tags:

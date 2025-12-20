@@ -7,7 +7,7 @@ description: >-
   피해 카메라와 함정을 해제하고, 각종 도구를 활용해 임무를 완수한
   뒤 안전하게 탈출하세요.
 iframeSrc: 'https://087cce7dimlq8.h5games.usercontent.goog/v/6na8sphqpnhlo/'
-thumbnail: /new-images/secret-agent.png
+thumbnail: /new-images/thumbnails/secret-agent.png
 tags:
   - action
   - puzzle

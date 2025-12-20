@@ -4,7 +4,7 @@ urlstr: bank-robbery
 title: "Bank Robbery"
 description: "Bank Robbery 2 est un FPS en équipes Cops vs Robbers : perfore les coffres et évade‑toi avec l’argent côté braqueurs, ou défends la banque et fais échouer le braquage côté policiers."
 iframeSrc: "https://app-183971.games.s3.yandex.net/183971/l0eme2yqkthl0y8stmfuz0u8pdpux64m/index.html"
-thumbnail: /new-images/bank-robbery.jpg
+thumbnail: /new-images/thumbnails/bank-robbery.jpg
 tags:
   - fPS
   - action

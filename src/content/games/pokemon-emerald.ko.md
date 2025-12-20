@@ -7,7 +7,7 @@ description: >-
   잡고 키우며 체육관 관장을 상대하고, 마그마단·아쿠아단의 계획을
   막아 챔피언에 도전해 보세요.
 iframeSrc: 'https://picklekid31.github.io/GBA-unblocked-games/launcher.html#pokemonemerald'
-thumbnail: /new-images/pokemon-emerald.jpg
+thumbnail: /new-images/thumbnails/pokemon-emerald.jpg
 tags:
   - rpg
   - adventure

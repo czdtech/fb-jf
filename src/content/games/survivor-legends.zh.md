@@ -4,7 +4,7 @@ urlstr: survivor-legends
 title: 《Survivor Legends》传奇幸存者
 description: 《Survivor Legends》是一款“割草式”自动攻击生存游戏。绕圈风筝敌潮、选择武器与被动技能的协同组合，在冷却与站位博弈中尽可能存活更久。
 iframeSrc: 'https://244mb60l209a8.h5games.usercontent.goog/v/1koih6fev3le8/'
-thumbnail: /new-images/survivor-legends.png
+thumbnail: /new-images/thumbnails/survivor-legends.png
 tags:
   - action
   - shooting

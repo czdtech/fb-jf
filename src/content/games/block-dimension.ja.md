@@ -2,7 +2,7 @@
 title: "Block Dimension ブロック・ディメンション"
 description: "「Block Dimension」は空間認識力が試される3Dパズルゲームです。構造を回転させ、ブロックを完璧にはめ込みましょう。"
 iframeSrc: "https://62dfg8ps4f7lg.h5games.usercontent.goog/v/0k3gcfq0ljti8/"
-thumbnail: "/new-images/block-dimension.png"
+thumbnail: /new-images/thumbnails/block-dimension.png
 urlstr: "block-dimension"
 score: "3.8/5  (1432 votes)"
 tags: ["puzzle", "thinky", "casual"]

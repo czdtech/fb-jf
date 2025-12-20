@@ -4,7 +4,7 @@ urlstr: tractor-mania
 title: 《Tractor Mania》拖拉机运货
 description: 《Tractor Mania》是一款物理驾驶+运货闯关游戏。驾驶拖拉机穿越颠簸山路，小心控制油门与车身平衡，把货物尽量完整地运到终点。
 iframeSrc: 'https://tractormania.h5games.usercontent.goog/v/5g9d2n3c1b7p0/'
-thumbnail: /new-images/tractor-mania.png
+thumbnail: /new-images/thumbnails/tractor-mania.png
 tags:
   - driving
   - physics

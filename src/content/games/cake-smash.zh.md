@@ -4,7 +4,7 @@ urlstr: cake-smash
 title: Cake Smash 糕点消消乐
 description: 《Cake Smash 糕点消消乐》是一款色彩鲜艳的三消游戏，通过交换相邻蛋糕，让三个及以上同款甜点连成一线并“砰然 碎裂”，完成各类关卡目标。
 iframeSrc: 'https://41la6sld9ed88.h5games.usercontent.goog/v/36d90atplnu7o/'
-thumbnail: /new-images/cake-smash.png
+thumbnail: /new-images/thumbnails/cake-smash.png
 tags:
   - puzzle
   - casual

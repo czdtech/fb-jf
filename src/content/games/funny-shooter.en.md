@@ -4,7 +4,7 @@ locale: en
 title: "Funny Shooter"
 description: "Wave shooter prototype: fight quirky enemies, collect cash, and upgrade weapons to survive increasingly tough rounds." 
 iframeSrc: "https://bitlifeonline.github.io/class2623/funny-shooter/"
-thumbnail: "/new-images/funny-shooter.jpg"
+thumbnail: /new-images/thumbnails/funny-shooter.jpg
 urlstr: "funny-shooter"
 score: "5.0/5  (797 votes)"
 tags: ["shooting", "fps"]

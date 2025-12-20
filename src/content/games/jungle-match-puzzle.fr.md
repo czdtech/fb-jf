@@ -6,7 +6,7 @@ description: >-
   Jungle Match Puzzle est un match‑3 sauvage : élimine les obstacles, enchaîne
   les bonus et atteins tes objectifs jungle avec peu de coups.
 iframeSrc: 'https://2sf7n68mggti0.h5games.usercontent.goog/v/2mk31nh92a0og/'
-thumbnail: /new-images/jungle-match-puzzle.png
+thumbnail: /new-images/thumbnails/jungle-match-puzzle.png
 tags:
   - puzzle
   - casual

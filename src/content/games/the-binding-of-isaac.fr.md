@@ -7,7 +7,7 @@ description: >-
   creatures grotesques, collecte des bonus bizarres et explore des donjons
   generes proceduralement.
 iframeSrc: 'https://flash-cdn.blogspot.com/2021/06/the-binding-of-isaac.html'
-thumbnail: /new-images/the-binding-of-isaac.jpg
+thumbnail: /new-images/thumbnails/the-binding-of-isaac.jpg
 tags:
   - roguelike
   - action-rpg

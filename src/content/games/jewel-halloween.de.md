@@ -6,7 +6,7 @@ description: >-
   Jewel Halloween ist ein schaurig-schönes Match-3-Spiel: Tausche Juwelen,
   löse Kettenreaktionen aus und erfülle gruselige Levelziele.
 iframeSrc: 'https://0gk3ormb878mg.h5games.usercontent.goog/v/1qgqb91tuaqv0/'
-thumbnail: /new-images/jewel-halloween.png
+thumbnail: /new-images/thumbnails/jewel-halloween.png
 tags:
   - puzzle
   - casual

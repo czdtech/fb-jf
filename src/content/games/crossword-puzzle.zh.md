@@ -6,7 +6,7 @@ description: >-
   《Crossword Puzzle 经典纵横填字》是一款传统英文填字游戏。根据横向与纵向编号提示，将
   单词填入方格，使所有交叉字母都相互匹配，最终完成整张网格。
 iframeSrc: 'https://ad-freegames.github.io/flash/game/crossword-puzzle.html'
-thumbnail: /new-images/crossword-puzzle.jpg
+thumbnail: /new-images/thumbnails/crossword-puzzle.jpg
 tags:
   - word
   - puzzle

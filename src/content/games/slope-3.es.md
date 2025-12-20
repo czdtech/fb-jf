@@ -7,7 +7,7 @@ description: >-
   y nuevos obstáculos desafiantes mientras guías una bola por una pendiente
   infinita esquivando barreras letales y bloques rojos.
 iframeSrc: "https://games-online.io/game/Slope3/"
-thumbnail: "/new-images/slope-3.jpg"
+thumbnail: /new-images/thumbnails/slope-3.jpg
 tags:
   - endless runner
   - 3d

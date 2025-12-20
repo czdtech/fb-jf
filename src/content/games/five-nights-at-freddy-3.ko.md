@@ -6,7 +6,7 @@ description: >-
   시스템 관리가 핵심인 공포 게임입니다. 오디오로 스프링트랩을 유인하고,
   카메라와 환기/시스템을 관리해 밤마다 살아남으세요.
 iframeSrc: 'https://ubg77.github.io/fix/fnaf2/fnaf3.html'
-thumbnail: /new-images/five-nights-at-freddy-3.jpg
+thumbnail: /new-images/thumbnails/five-nights-at-freddy-3.jpg
 tags:
   - horror
   - strategy

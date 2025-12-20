@@ -7,7 +7,7 @@ description: >-
   슈팅 게임입니다. 경험치를 모아 레벨업하고, 다양한 무기와 강화 효과를 골라
   얼마나 오래 버틸 수 있는지 도전해 보세요.
 iframeSrc: 'https://76sb7kgqtg5kg.h5games.usercontent.goog/v/5s72d5756n840/'
-thumbnail: /new-images/space-survivor.png
+thumbnail: /new-images/thumbnails/space-survivor.png
 tags:
   - action
   - shooting

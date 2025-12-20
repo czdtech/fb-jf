@@ -6,7 +6,7 @@ description: >-
   《Slime.io》是一款节奏混乱又极度解压的 3D .io
   吞噬游戏。操控你的史莱姆在城市中滑行，吸收从路灯、车辆到整栋大楼的一切物体，并吞掉比你小的玩家，成为场上最大的史莱姆。
 iframeSrc: 'https://slime-io.h5games.usercontent.goog/v/3p2ufrjemduhg/'
-thumbnail: /new-images/slime-io.png
+thumbnail: /new-images/thumbnails/slime-io.png
 tags:
   - action
   - casual

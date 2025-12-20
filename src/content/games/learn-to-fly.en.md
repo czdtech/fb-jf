@@ -4,7 +4,7 @@ locale: en
 title: "Learn To Fly"
 description: "Penguin launch upgrade game: adjust launch angle, glide and boost, earn cash, and buy parts to fly farther each day." 
 iframeSrc: "https://ad-freegames.github.io/flash/game/learn-to-fly.html"
-thumbnail: "/new-images/learn-to-fly.jpg"
+thumbnail: /new-images/thumbnails/learn-to-fly.jpg
 urlstr: "learn-to-fly"
 score: "4.6/5  (132 votes)"
 tags: ["arcade", "upgrade"]

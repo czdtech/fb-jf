@@ -7,7 +7,7 @@ description: >-
   Pixelfiguren auf Dächern gegeneinander antreten, mit simplen Controls schießen
   und sich dank Ragdoll-Physik gegenseitig von den Gebäuden fegen.
 iframeSrc: 'https://webglmath.github.io/rooftop-snipers/'
-thumbnail: /new-images/rooftop-snipers.jpg
+thumbnail: /new-images/thumbnails/rooftop-snipers.jpg
 tags:
   - shooting
   - physics

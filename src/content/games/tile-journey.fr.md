@@ -6,7 +6,7 @@ description: >-
   Tile Journey est un puzzle relaxant : sélectionne trois tuiles identiques pour
   les effacer, mais planifie tes coups pour ne pas remplir ton plateau !
 iframeSrc: 'https://0i1jh8boqif48.h5games.usercontent.goog/v/1643ot8on0v9g/'
-thumbnail: /new-images/tile-journey.png
+thumbnail: /new-images/thumbnails/tile-journey.png
 tags:
   - puzzle
   - casual

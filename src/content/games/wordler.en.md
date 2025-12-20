@@ -3,7 +3,7 @@ locale: en
 title: "Wordler"
 description: "Wordler is a daily deduction word game — guess five‑letter words, leverage feedback colors, and converge with pattern logic."
 iframeSrc: "https://30mv2rsaljhjo.h5games.usercontent.goog/v/0hb0g2c5b4m9o/"
-thumbnail: "/new-images/wordler.png"
+thumbnail: /new-images/thumbnails/wordler.png
 urlstr: "wordler"
 score: "4.2/5  (2054 votes)"
 tags: ["puzzle", "thinky"]

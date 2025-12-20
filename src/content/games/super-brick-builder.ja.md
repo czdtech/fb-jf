@@ -2,7 +2,7 @@
 title: Super Brick Builder
 description: Super Brick Builderは、ブロックを壊すクラシックなブレイクアウトゲームです。パドルとボールを使ってすべてのブロックを破壊しましょう。
 iframeSrc: 'https://ubg98.github.io/SuperBrickBuilder/'
-thumbnail: /new-images/super-brick-builder.jpg
+thumbnail: /new-images/thumbnails/super-brick-builder.png
 urlstr: super-brick-builder
 score: 4.3/5  (2123 votes)
 tags:

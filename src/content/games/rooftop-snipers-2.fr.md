@@ -7,7 +7,7 @@ description: >-
   déjanté : deux personnages bâtons s’affrontent sur des toits et tentent de se
   faire tomber dans le vide à coups d’armes aux réactions imprévisibles.
 iframeSrc: 'https://rebemanae.github.io/rooftop-snipers-2/'
-thumbnail: /new-images/rooftop-snipers-2.jpg
+thumbnail: /new-images/thumbnails/rooftop-snipers-2.jpg
 tags:
   - shooting
   - physics

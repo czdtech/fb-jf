@@ -7,7 +7,7 @@ description: >-
   제트팩으로 상승·하강을 조절하며 전기 장애물과 미사일을 피하고,
   코인과 탈것·가젯을 모아 미션을 깨면서 업그레이드를 해 보세요.
 iframeSrc: 'https://slope-game.github.io/rungame/jetpack-joyride/'
-thumbnail: /new-images/jetpack-joyride.jpg
+thumbnail: /new-images/thumbnails/jetpack-joyride.jpg
 tags:
   - runner
   - arcade

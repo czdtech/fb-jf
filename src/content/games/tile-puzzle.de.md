@@ -7,7 +7,7 @@ description: >-
   drei gleiche Steine, räume das Brett leer und achte darauf, dein begrenztes
   Tablett nicht zu überfüllen.
 iframeSrc: 'https://5u9qhnk84v07g.h5games.usercontent.goog/v/2h3elehja73a8/'
-thumbnail: /new-images/tile-puzzle.jpg
+thumbnail: /new-images/thumbnails/tile-puzzle.jpg
 tags:
   - puzzle
   - casual

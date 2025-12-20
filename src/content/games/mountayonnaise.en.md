@@ -6,7 +6,7 @@ description: >-
   different animal figures appear based on the sound effects added. It boasts
   high replayability!
 iframeSrc: 'https://turbowarp.org/1135773023/embed'
-thumbnail: /sprunki-mountayonnaise.png
+thumbnail: /new-images/thumbnails/mountayonnaise.png
 urlstr: mountayonnaise
 score: 4.8/5  (649 votes)
 tags:

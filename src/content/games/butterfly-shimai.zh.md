@@ -4,7 +4,7 @@ urlstr: butterfly-shimai
 title: Butterfly Shimai 蝴蝶连连看
 description: 《Butterfly Shimai 蝴蝶连连看》是一款结合连连看与麻将配对规则的休闲解谜游戏，通过连接成对的蝴蝶翅膀让它们 振翅飞走，清空全盘。
 iframeSrc: 'https://1pq2qond4eka0.h5games.usercontent.goog/v/4oiv5e7dd7vd8/'
-thumbnail: /new-images/butterfly-shimai.png
+thumbnail: /new-images/thumbnails/butterfly-shimai.png
 tags:
   - puzzle
   - casual

@@ -6,7 +6,7 @@ description: >-
   Prepárate para la acción arcade clásica en Bricks Breaker. Controla la pala,
   devuelve la bola y destruye todos los ladrillos para superar los niveles.
 iframeSrc: 'https://5enjropk1ren8.h5games.usercontent.goog/v/6u5qapt4kt1j8/'
-thumbnail: /new-images/bricks-breaker.jpg
+thumbnail: /new-images/thumbnails/bricks-breaker.jpg
 tags:
   - action
   - casual

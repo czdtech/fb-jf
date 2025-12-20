@@ -2,7 +2,7 @@
 title: "Blackjack ブラックジャック"
 description: "「ブラックジャック（21）」のルールと戦略をマスターしよう。ディーラーと1対1の勝負。手札の合計を「21」に近づけ、バーストせずにディーラーを打ち負かすカジノゲームの定番。"
 iframeSrc: "https://freegames.org/games/blackjack/v1/"
-thumbnail: "/new-images/blackjack.jpg"
+thumbnail: /new-images/thumbnails/blackjack.jpg
 urlstr: "blackjack"
 score: "4.1/5  (439 votes)"
 tags: ["casual", "rhythm"]

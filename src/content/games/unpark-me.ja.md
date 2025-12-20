@@ -2,7 +2,7 @@
 title: Unpark Me
 description: Unpark Meは、駐車場パズルゲームです。車を動かして赤い車を出口まで導きましょう。
 iframeSrc: 'https://ubg98.github.io/UnparkMe/'
-thumbnail: /new-images/unpark-me.jpg
+thumbnail: /new-images/thumbnails/unpark-me.png
 urlstr: unpark-me
 score: 4.4/5  (2654 votes)
 tags:

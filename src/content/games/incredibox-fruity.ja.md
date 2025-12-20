@@ -2,7 +2,7 @@
 title: "Incredibox Fruity"
 description: "Incredibox Fruityの究極ガイド、クラシック戦略ゲームを発見しましょう。洞窟人から未来の戦士まで軍隊を進化させ、戦場を支配するための勝利戦略、操作方法、ヒントを学びましょう。"
 iframeSrc: "https://turbowarp.org/414716080/embed"
-thumbnail: "/new-images/age-of-war.jpg"
+thumbnail: /new-images/thumbnails/incredibox-fruity.jpg
 urlstr: "incredibox-fruity"
 score: "4.5/5  (525 votes)"
 tags: ["strategy", "action"]

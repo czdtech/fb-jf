@@ -3,7 +3,7 @@ locale: en
 title: "Cooking Mania"
 description: "Cooking Mania is a fast time‑management cooker — juggle orders, chain combos, and upgrade kitchens to keep customers happy."
 iframeSrc: "https://626dr588t6g9g.h5games.usercontent.goog/v/76eqgdom1qfbg/"
-thumbnail: "/new-images/cooking-mania.jpg"
+thumbnail: /new-images/thumbnails/cooking-mania.jpg
 urlstr: "cooking-mania"
 score: "4.0/5  (1839 votes)"
 tags: ["casual", "thinky"]

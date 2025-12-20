@@ -7,7 +7,7 @@ description: >-
   una flota temible. Completa pedidos, gana oro y conviértete en la leyenda más
   temida de los siete mares en este adictivo puzle de merges.
 iframeSrc: 'https://mergepirates.h5games.usercontent.goog/v/2rugbh8p4845g/'
-thumbnail: /new-images/merge-pirates.png
+thumbnail: /new-images/thumbnails/merge-pirates.png
 tags:
   - puzzle
   - casual

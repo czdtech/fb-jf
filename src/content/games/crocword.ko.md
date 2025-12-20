@@ -6,7 +6,7 @@ description: >-
   Crocword는 크로스워드와 글자 연결 퍼즐을 결합한 단어 게임으로, 흩어진 글자를 이어
   단어를 만들고, 교차하는 퍼즐 칸을 채우며 어휘력을 시험해 볼 수 있습니다.
 iframeSrc: 'https://4u2r33lp92ja0.h5games.usercontent.goog/v/53cgdtc83kng8/'
-thumbnail: /new-images/crocword.png
+thumbnail: /new-images/thumbnails/crocword.png
 tags:
   - puzzle
   - thinky

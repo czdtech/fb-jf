@@ -7,7 +7,7 @@ description: >-
   creativity, allowing you to have fun with music while exploring the darker
   side.
 iframeSrc: 'https://turbowarp.org/1140266189/embed'
-thumbnail: /sprunki-phase-8.png
+thumbnail: /new-images/thumbnails/sprunki-phase-8.png
 urlstr: sprunki-phase-8
 sidebarPopular: 2
 modType: sprunki

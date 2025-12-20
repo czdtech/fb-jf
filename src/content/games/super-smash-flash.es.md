@@ -8,7 +8,7 @@ description: >-
   objetivo es lanzar a los rivales fuera de la pantalla aumentando su porcentaje
   de daño. Domina los movimientos de tu personaje para ganar.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/super-smash-flash.html'
-thumbnail: /new-images/super-smash-flash.jpg
+thumbnail: /new-images/thumbnails/super-smash-flash.jpg
 tags:
   - fighting
   - platformer

@@ -5,7 +5,7 @@ title: "Fancy Pants 3"
 description: "Le platforming basé sur le momentum revient avec des niveaux plus grands, encore plus de secrets et des wall‑runs/glissades affinés dans des mondes dessinés à la main."
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210305/jj10/index.html
-thumbnail: /new-images/fancy-pants-3.jpg
+thumbnail: /new-images/thumbnails/fancy-pants-3.jpg
 tags:
   - platformer
   - action

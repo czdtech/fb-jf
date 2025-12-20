@@ -4,7 +4,7 @@ locale: en
 title: "Mini Crossword"
 description: "Mini Crossword is a compact daily crossword puzzle game that provides a quick and engaging word challenge for players of all skill levels."
 iframeSrc: "https://ams.cdn.arkadiumhosted.com/assets/global/game/daily-crossword-mini/"
-thumbnail: "/new-images/mini-crossword.jpg"
+thumbnail: /new-images/thumbnails/mini-crossword.jpg
 urlstr: "mini-crossword"
 score: "4.9/5  (363 votes)"
 tags: ["puzzle", "word", "casual"]

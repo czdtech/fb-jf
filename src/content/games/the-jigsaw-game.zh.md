@@ -4,7 +4,7 @@ urlstr: the-jigsaw-game
 title: 《The Jigsaw Game》拼图时光
 description: 《The Jigsaw Game》是一款休闲拼图游戏。将被打散的图块重新拼回完整图片，享受安静细致的拼图过程。
 iframeSrc: 'https://thejigsawgame.h5games.usercontent.goog/v/3k7d9c2b1v5p0/'
-thumbnail: /new-images/the-jigsaw-game.jpg
+thumbnail: /new-images/thumbnails/the-jigsaw-game.png
 tags:
   - jigsaw
   - puzzle

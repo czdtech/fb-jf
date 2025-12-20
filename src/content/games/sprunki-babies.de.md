@@ -4,7 +4,7 @@ urlstr: sprunki-babies
 title: "Sprunki Babies - Sprunki Babies online spielen"
 description: "In Sprunki Babies leitest du eine Truppe supersüßer Baby-Sprunki-Figuren, die mit ihren einzigartigen Stimmen und Sounds deine eigenen kleinen Musikstücke zum Leben erwecken – ganz ohne Musiktheorie, nur mit Kreativität und Spaß."
 iframeSrc: 'https://turbowarp.org/1110888906/embed'
-thumbnail: /sprunki-babies.png
+thumbnail: /new-images/thumbnails/sprunki-babies.png
 tags:
   - sprunki babies
 score: 4.0/5  (212 votes)

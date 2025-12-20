@@ -7,7 +7,7 @@ description: >-
   Kochari : rythmes traditionnels, mélodies folk et visuels de danse pour créer
   des mixes festifs.
 iframeSrc: 'https://turbowarp.org/718091148/embed'
-thumbnail: /new-images/incredibox-kochari.png
+thumbnail: /new-images/thumbnails/incredibox-kochari.png
 tags:
   - music
   - cultural

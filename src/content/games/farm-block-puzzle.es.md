@@ -7,7 +7,7 @@ description: >-
   granja. Arrastra y suelta las piezas sobre la cuadrícula 10x10 para completar
   líneas y despejarlas del tablero.
 iframeSrc: 'https://5hefbqkv5o0do.h5games.usercontent.goog/v/0bio68l8dojl0/'
-thumbnail: /new-images/farm-block-puzzle.png
+thumbnail: /new-images/thumbnails/farm-block-puzzle.png
 tags:
   - puzzle
   - thinky

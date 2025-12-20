@@ -4,7 +4,7 @@ urlstr: tangram-puzzle
 title: 《Tangram Puzzle》七巧板拼图
 description: 《Tangram Puzzle》是一款基于经典七巧板的拼图游戏。使用七块几何板块，在不给它们重叠的前提下，拼出目标剪影图形。
 iframeSrc: 'https://tangrampuzzle.h5games.usercontent.goog/v/6d2n9c1b3k5v0/'
-thumbnail: /new-images/tangram-puzzle.png
+thumbnail: /new-images/thumbnails/tangram-puzzle.jpg
 tags:
   - puzzle
   - tangram

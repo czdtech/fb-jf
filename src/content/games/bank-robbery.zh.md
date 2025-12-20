@@ -6,7 +6,7 @@ description: >-
   《Bank Robbery 2（银行大劫案 2）》是一款团队对战第一人称射击游戏，你可以扮演劫匪或警察，围绕银行抢劫展开攻防。下面是关于打法策略、操作和常见问题的详细说明。
 iframeSrc: >-
   https://app-183971.games.s3.yandex.net/183971/l0eme2yqkthl0y8stmfuz0u8pdpux64m/index.html
-thumbnail: /new-images/bank-robbery.jpg
+thumbnail: /new-images/thumbnails/bank-robbery.jpg
 tags:
   - fPS
   - action

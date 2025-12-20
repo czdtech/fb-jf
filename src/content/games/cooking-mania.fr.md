@@ -4,7 +4,7 @@ urlstr: cooking-mania
 title: Cooking Mania
 description: "Cooking Mania est un jeu de gestion de restaurant rapide\_: prépare les plats, sers les clients à temps et améliore ton établissement pour suivre le rush."
 iframeSrc: 'https://2sqb7s6hkuouo.h5games.usercontent.goog/v/3uh9jlntlm9eg/'
-thumbnail: /new-images/cooking-mania.png
+thumbnail: /new-images/thumbnails/cooking-mania.jpg
 tags:
   - casual
   - puzzle

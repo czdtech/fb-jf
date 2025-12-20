@@ -7,7 +7,7 @@ description: >-
   défilement horizontal à explorer, où tu mines, craftes, construis et survis
   face aux monstres.
 iframeSrc: 'https://scratch.mit.edu/projects/10128407/embed'
-thumbnail: /new-images/paper-minecraft.jpg
+thumbnail: /new-images/thumbnails/paper-minecraft.jpg
 tags:
   - sandbox
   - crafting

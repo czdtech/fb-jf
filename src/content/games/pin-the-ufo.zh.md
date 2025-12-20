@@ -4,7 +4,7 @@ urlstr: pin-the-ufo
 title: 《Pin the UFO》外星人拉针救援
 description: 《Pin the UFO》是一款"拉针解谜"类休闲游戏，你需要按正确顺序拔出各个机关销钉，让彩色外星小球避开炸弹与陷阱，顺利滚入底部的飞碟中。
 iframeSrc: 'https://pintheufo.h5games.usercontent.goog/v/08ukqv01ac45o/'
-thumbnail: /new-images/pin-the-ufo.jpeg
+thumbnail: /new-images/thumbnails/pin-the-ufo.jpeg
 tags:
   - puzzle
   - casual

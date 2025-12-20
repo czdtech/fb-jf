@@ -3,7 +3,7 @@ locale: en
 title: "Cat Sort Quest"
 description: "Cat Sort Quest is a cozy color‑sorting puzzler — move cats between perches, unify colors, and manage scarce buffers."
 iframeSrc: "https://4ajc8tu89od7g.h5games.usercontent.goog/v/49be5kf9v96j0/"
-thumbnail: "/new-images/cat-sort-quest.png"
+thumbnail: /new-images/thumbnails/cat-sort-quest.png
 urlstr: "cat-sort-quest"
 score: "4.2/5  (2088 votes)"
 tags: ["puzzle", "thinky", "casual"]

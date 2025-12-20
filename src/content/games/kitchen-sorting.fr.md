@@ -6,7 +6,7 @@ description: >-
   Kitchen Sorting est un puzzle de tri en cuisine : classe aliments, ustensiles
   et déchets dans les bons bacs sous la pression du temps.
 iframeSrc: 'https://kitchensorting.h5games.usercontent.goog/v/0jvdm1vuaamv0/'
-thumbnail: /new-images/kitchen-sorting.png
+thumbnail: /new-images/thumbnails/kitchen-sorting.png
 tags:
   - puzzle
   - casual

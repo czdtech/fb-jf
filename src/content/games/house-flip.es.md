@@ -7,7 +7,7 @@ description: >-
   mejoras dentro de un presupuesto y dale la vuelta a las propiedades arreglando
   distribución, estilo y fachada.
 iframeSrc: 'https://45g7qkftithd0.h5games.usercontent.goog/v/7691fk060s8pg/'
-thumbnail: /new-images/house-flip.png
+thumbnail: /new-images/thumbnails/house-flip.png
 tags:
   - puzzle
   - casual

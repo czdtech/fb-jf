@@ -6,7 +6,7 @@ description: >-
   주어진 알파벳 타일로 보드를 채우는 단어 퍼즐 'Letter Links' 가이드입니다. 보너스 칸을 활용해 고득점 단어를 만들고, 모든
   글자를 하나의 연결된 그룹으로 배치해 보세요.
 iframeSrc: 'https://7u583tvdi3f00.h5games.usercontent.goog/v/424maigpuljoo/'
-thumbnail: /new-images/letter-links.png
+thumbnail: /new-images/thumbnails/letter-links.png
 tags:
   - puzzle
   - thinky

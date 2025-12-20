@@ -6,7 +6,7 @@ description: >-
   Mazes liefert klassische Labyrinthläufe: Zeichne optimale Wege, weiche Fallen
   aus und unterbiete die Vorgabezeiten mit sauberer Routenplanung.
 iframeSrc: 'https://1ivu76rhffpsg.h5games.usercontent.goog/v/00icu4vi09j18/'
-thumbnail: /new-images/mazes.jpg
+thumbnail: /new-images/thumbnails/mazes.jpg
 tags:
   - puzzle
   - thinky

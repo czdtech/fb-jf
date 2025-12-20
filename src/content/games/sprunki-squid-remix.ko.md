@@ -6,7 +6,7 @@ description: >-
   Sprunki Squid Remix는 넷플릭스 시리즈 "오징어 게임"의 긴장감과 스프룽키의 음악 제작을 결합한 크로스오버 모드입니다.
   서바이벌 게임의 분위기를 리듬과 사운드로 표현해 보는 독특한 경험을 제공합니다.
 iframeSrc: 'https://turbowarp.org/1123885023/embed'
-thumbnail: /sprunki-squid-remix.png
+thumbnail: /new-images/thumbnails/sprunki-squid-remix.png
 tags:
   - sprunki squid remix
 score: 4.1/5  (92 votes)

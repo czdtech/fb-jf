@@ -6,7 +6,7 @@ description: >-
   10x10 격자에 블록을 배치해 줄을 지우는 퍼즐 게임입니다. 공간을 막지 않도록
   조심하며 여러 줄을 한 번에 지우는 세팅을 노려 보세요.
 iframeSrc: 'https://66ts484uf5r18.h5games.usercontent.goog/v/1nt4ffhi7k9jo/'
-thumbnail: /new-images/farming-10x10.jpg
+thumbnail: /new-images/thumbnails/farming-10x10.jpg
 tags:
   - puzzle
   - thinky

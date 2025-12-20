@@ -8,7 +8,7 @@ description: >-
   robar‑3.
 iframeSrc: >-
   https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-klondike-solitaire/
-thumbnail: /new-images/klondike-solitaire.jpg
+thumbnail: /new-images/thumbnails/klondike-solitaire.jpg
 tags:
   - solitaire
   - card

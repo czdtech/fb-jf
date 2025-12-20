@@ -5,7 +5,7 @@ urlstr: "sprunki-virus-new-update"
 title: "Sprunki Virus New Update - 在线玩 Sprunki Virus New Update"
 description: "你是否渴望一段挑战感官极限的音乐之旅？Sprunki Virus 将带你进入一个被病毒感染的 Sprunki 世界，用诡异的音景、故障的画面和紧张的游戏机制为你带来前所未有的刺激体验！"
 iframeSrc: "https://turbowarp.org/1104064786/embed"
-thumbnail: "/sprunki-virus-new-update.png"
+thumbnail: /new-images/thumbnails/sprunki-virus-new-update.png
 score: "4.0/5  (407 票)"
 tags: ["sprunki virus new update"]
 ---

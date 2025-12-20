@@ -6,7 +6,7 @@ description: >-
   Incredibox YaBoo는 Incredibox를 기반으로 한 팬 메이드 모드로, 일본 요괴와 오니 콘셉트를 살린 독특한 사운드 팔레트와
   시각 스타일이 특징입니다. 이 가이드는 해당 모드의 사운드 구성, 음악 제작 방식, 테마 보너스를 여는 방법을 다룹니다.
 iframeSrc: 'https://turbowarp.org/1095206379/embed'
-thumbnail: /new-images/incredibox-yaboo.png
+thumbnail: /new-images/thumbnails/incredibox-yaboo.png
 tags:
   - music
   - rhythm

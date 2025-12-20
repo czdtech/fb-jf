@@ -2,7 +2,7 @@
 title: "Alien Hominid エイリアン・ホミニッド"
 description: "クラシックなラン＆ガン・シューティングゲーム「Alien Hominid」の究極ガイド。The Behemothが贈るこの高難易度な横スクロールアクションを攻略するための戦略、操作方法、FAQを網羅。"
 iframeSrc: "https://ad-freegames.github.io/flash/game/alien-hominid.html"
-thumbnail: "/new-images/alien-hominid.jpg"
+thumbnail: /new-images/thumbnails/alien-hominid.jpg
 urlstr: "alien-hominid"
 score: "5.0/5  (126 votes)"
 tags: ["shooting", "action"]

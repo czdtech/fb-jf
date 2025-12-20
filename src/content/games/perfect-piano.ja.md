@@ -2,7 +2,7 @@
 title: Perfect Piano
 description: Perfect Pianoは音楽リズムゲームです。ノートをタップし、メロディを演奏し、曲をマスターし、バーチャルピアノスキルを楽しみます。
 iframeSrc: 'https://perfectpiano.h5games.usercontent.goog/v/3k9j5m8h7p2n8/'
-thumbnail: /new-images/perfect-piano.png
+thumbnail: /new-images/thumbnails/perfect-piano.png
 urlstr: perfect-piano
 score: 4.3/5  (2456 votes)
 tags:

@@ -3,7 +3,7 @@ locale: en
 title: "Om Nom Connect Xmas"
 description: "Join Om Nom in a festive puzzle adventure! Om Nom Connect Xmas is a fun tile-matching game where you connect pairs of Christmas-themed treats."
 iframeSrc: "https://omnomconnectxmas.h5games.usercontent.goog/v/88a6b2cf-1027-4490-a613-9a135cf869ce/"
-thumbnail: "/new-images/om-nom-connect-xmas.jpg"
+thumbnail: /new-images/thumbnails/om-nom-connect-xmas.jpg
 urlstr: "om-nom-connect-xmas"
 score: "4.6/5  (2765 votes)"
 tags: ["puzzle", "casual", "mahjong"]

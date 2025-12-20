@@ -7,7 +7,7 @@ description: >-
   balón, golpea clavijas y busca puntuaciones altas y bonificaciones
   espectaculares.
 iframeSrc: 'https://footchinko2.h5games.usercontent.goog/v/3iniom5rsklno/'
-thumbnail: /new-images/footchinko.jpg
+thumbnail: /new-images/thumbnails/footchinko.jpg
 tags:
   - sports
   - casual

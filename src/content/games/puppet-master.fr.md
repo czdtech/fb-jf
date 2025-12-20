@@ -7,7 +7,7 @@ description: >-
   contrôles une marionnette à travers des niveaux remplis d’obstacles en
   manipulant ses mouvements et ses membres pour atteindre l’objectif.
 iframeSrc: 'https://classroomjq.github.io/puppet-master/'
-thumbnail: /new-images/puppet-master.jpg
+thumbnail: /new-images/thumbnails/puppet-master.jpg
 tags:
   - puzzle
   - physics

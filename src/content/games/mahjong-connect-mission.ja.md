@@ -2,7 +2,7 @@
 title: "Mahjong Connect : Mission"
 description: "同じタイルを、曲がり2回までの線で結んで消す「つなぐ系」麻雀パズルです。制限時間内に盤面をクリアします。"
 iframeSrc: "https://7gsm6u8848nko.h5games.usercontent.goog/v/3qaqg5nju3th8/"
-thumbnail: "/new-images/mahjong-connect-mission.png"
+thumbnail: /new-images/thumbnails/mahjong-connect-mission.png
 urlstr: "mahjong-connect-mission"
 score: "4.2/5  (2061 votes)"
 tags: ["mahjong", "puzzle", "thinky"]

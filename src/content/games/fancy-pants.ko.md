@@ -8,7 +8,7 @@ description: >-
   비밀 경로를 찾아 나서는 것이 핵심입니다.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210305/jj8/index.html
-thumbnail: /new-images/fancy-pants.jpg
+thumbnail: /new-images/thumbnails/fancy-pants.jpg
 tags:
   - platformer
   - action

@@ -7,7 +7,7 @@ description: >-
   由探索，参加赛事、收集星星与扳手，借助氮气在各种坡道上腾空飞跃，并逐步解锁更强力
   的赛车。
 iframeSrc: 'https://g.igroutka.ru/games/164/2afwOT8yZFmeYWGJ/2/crazy_cars/'
-thumbnail: /new-images/crazy-cars.jpg
+thumbnail: /new-images/thumbnails/crazy-cars.jpg
 tags:
   - racing
   - driving

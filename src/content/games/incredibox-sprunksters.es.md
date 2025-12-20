@@ -7,7 +7,7 @@ description: >-
   muestras y efectos, haciendo que tus temas suenen frescos, creativos y con
   mucha personalidad.
 iframeSrc: 'https://turbowarp.org/1129395199/embed'
-thumbnail: /incredibox-sprunksters.png
+thumbnail: /new-images/thumbnails/incredibox-sprunksters.png
 tags:
   - incredibox sprunksters
 score: 4.3/5  (185 votes)

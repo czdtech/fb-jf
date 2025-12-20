@@ -8,7 +8,7 @@ description: >-
   queue. Mets à l’épreuve réflexes et planification dans ce jeu d’arcade
   simple mais redoutable.
 iframeSrc: 'https://www.googlesnake.com/snakem.php'
-thumbnail: /new-images/snake.jpg
+thumbnail: /new-images/thumbnails/snake.jpg
 tags:
   - classic
   - arcade

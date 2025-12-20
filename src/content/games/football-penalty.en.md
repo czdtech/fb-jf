@@ -3,7 +3,7 @@ locale: en
 title: "Football Penalty"
 description: "Football Penalty captures shootouts — place shots, vary height and corners, and outguess the keeper under pressure."
 iframeSrc: "https://2fb6vjapfstro.h5games.usercontent.goog/v/5443q25keq2qg/"
-thumbnail: "/new-images/football-penalty.png"
+thumbnail: /new-images/thumbnails/football-penalty.png
 urlstr: "football-penalty"
 score: "4.0/5  (1881 votes)"
 tags: ["sports", "soccer"]

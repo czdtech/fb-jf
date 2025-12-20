@@ -4,7 +4,7 @@ locale: en
 title: "Spider Solitaire: Card Games"
 description: "Challenge yourself with Spider Solitaire, a popular variant of the classic card game. The objective is to clear the tableau by building eight full sequences of cards from King down to Ace. With adjustable difficulty levels (1, 2, or 4 suits), it's a strategic puzzle for all players."
 iframeSrc: "https://ubg98.github.io/SpiderSolitaire/"
-thumbnail: "/new-images/spider-solitaire-card-games.jpg"
+thumbnail: /new-images/thumbnails/spider-solitaire-card-games.jpg
 urlstr: "spider-solitaire-card-games"
 score: "4.2/5  (1141 votes)"
 tags: ["card-game", "puzzle", "strategy"]

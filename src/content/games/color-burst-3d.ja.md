@@ -2,7 +2,7 @@
 title: Color Burst 3D カラーバースト3D
 description: 「Color Burst 3D」は反射神経が頼りのハイスピード・アーケード。回転するリングの同じ色を狙ってボールを操り、鮮やかな世界を駆け抜けろ。
 iframeSrc: 'https://colorburst3d.h5games.usercontent.goog/v/3l27vlnq6dvto/'
-thumbnail: /new-images/color-burst-3d.jpeg
+thumbnail: /new-images/thumbnails/color-burst-3d.jpeg
 urlstr: color-burst-3d
 score: 3.8/5  (1487 votes)
 tags:

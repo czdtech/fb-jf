@@ -2,7 +2,7 @@
 title: "Sprunki Craft 🎮 Play Sprunki Craft Online"
 description: "Sprunki CraftはMinecraft風の世界観で遊べる音楽作成ゲームです。キャラクターにサウンドを割り当てて音を重ね、トラックを作っていきます。"
 iframeSrc: "https://www.minijuegos.com/embed/sprunki-craft"
-thumbnail: "/sprunki-craft.jpg"
+thumbnail: /new-images/thumbnails/sprunki-craft.jpg
 urlstr: "sprunki-craft"
 score: "4.9/5  (724 votes)"
 tags: ["sprunki craft", "sprunki craft online"]

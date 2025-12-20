@@ -2,7 +2,7 @@
 title: "Football Stars"
 description: "Football Starsは、スピーディーなサッカーを凝縮しています。短いアーケードマッチで、賢くパスを回し、シュートのタイミングを計り、ディフェンダーを出し抜きましょう。"
 iframeSrc: "https://0bqhpbln445co.h5games.usercontent.goog/v/2to6kd3co500g/"
-thumbnail: "/new-images/football-stars.png"
+thumbnail: /new-images/thumbnails/football-stars.png
 urlstr: "football-stars"
 score: "3.9/5  (1763 votes)"
 tags: ["sports", "soccer"]

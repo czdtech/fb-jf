@@ -2,7 +2,7 @@
 title: Night Watchman
 description: Night Watchmanはホラーサバイバルゲームです。施設をパトロールし、異変を確認しながら朝まで生き延びます。
 iframeSrc: 'https://nightwatchman.h5games.usercontent.goog/v/5s4t9m2k6h3j8/'
-thumbnail: /new-images/night-watchman.png
+thumbnail: /new-images/thumbnails/night-watchman.jpg
 urlstr: night-watchman
 score: 4.0/5  (1745 votes)
 tags:

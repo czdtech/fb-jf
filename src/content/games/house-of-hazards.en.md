@@ -4,7 +4,7 @@ locale: en
 title: "House Of Hazards"
 description: "Local party chaos: complete simple chores in a booby‑trapped house while friends trigger hazards to knock you out." 
 iframeSrc: "https://webglmath.github.io/house-of-hazards/"
-thumbnail: "/new-images/house-of-hazards.jpg"
+thumbnail: /new-images/thumbnails/house-of-hazards.jpg
 urlstr: "house-of-hazards"
 score: "4.1/5  (127 votes)"
 tags: ["party", "multiplayer"]

@@ -2,7 +2,7 @@
 title: "Chess Classic チェス・クラシック"
 description: "「Chess Classic」で王道のチェスを楽しもう。コンピュータの難易度を調整して、初心者から上級者までスキルアップ。チェックメイトの芸術を学べ。"
 iframeSrc: "https://chessclassic.h5games.usercontent.goog/v/7hf0vulane380/"
-thumbnail: "/new-images/chess-classic.png"
+thumbnail: /new-images/thumbnails/chess-classic.png
 urlstr: "chess-classic"
 score: "4.8/5  (2345 votes)"
 tags: ["thinky", "2 player", "card"]

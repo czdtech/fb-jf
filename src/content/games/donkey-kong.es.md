@@ -6,7 +6,7 @@ description: >-
   Donkey Kong es un juego de plataformas arcade clásico: sube escaleras, esquiva
   peligros y alcanza la parte superior para superar cada fase.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/donkey-kong.html'
-thumbnail: /new-images/donkey-kong.jpg
+thumbnail: /new-images/thumbnails/donkey-kong.jpg
 tags:
   - platformer
   - arcade

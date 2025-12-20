@@ -2,7 +2,7 @@
 title: SUPERHOT
 description: SUPERHOTは、時間があなたの動きと共に動く革新的なFPSゲームです。戦略的に動いて敵を倒しましょう。
 iframeSrc: 'https://ubg98.github.io/SUPERHOT/'
-thumbnail: /new-images/superhot.jpg
+thumbnail: /new-images/thumbnails/superhot.jpg
 urlstr: superhot
 score: 4.7/5  (5678 votes)
 tags:

@@ -6,7 +6,7 @@ description: >-
   손님을 안내하고 주문을 받고 서빙하며 테이블을 치우는 타임 매니지먼트 게임입니다.
   빠르고 효율적인 동선으로 손님 마음을 지켜 레벨을 클리어해 보세요.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/diner-dash.html'
-thumbnail: /new-images/diner-dash.jpg
+thumbnail: /new-images/thumbnails/diner-dash.jpg
 tags:
   - time-management
   - strategy

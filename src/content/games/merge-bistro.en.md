@@ -3,7 +3,7 @@ locale: en
 title: "Merge Bistro"
 description: "Merge Bistro is a cozy merge‑management — combine ingredients, fulfill orders, and expand a charming bistro efficiently."
 iframeSrc: "https://0f5mbl2u9ont8.h5games.usercontent.goog/v/50p3a8ekgfdk8/"
-thumbnail: "/new-images/merge-bistro.png"
+thumbnail: /new-images/thumbnails/merge-bistro.png
 urlstr: "merge-bistro"
 score: "4.1/5  (1996 votes)"
 tags: ["puzzle", "casual", "thinky"]

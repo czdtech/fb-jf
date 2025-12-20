@@ -7,7 +7,7 @@ description: >-
   Analysiere die Motive, kombiniere die Hinweise und nutze die Buchstaben, um
   das richtige Lösungswort zu finden.
 iframeSrc: 'https://previews.customer.envatousercontent.com/files/309288896/index.html'
-thumbnail: /new-images/4-pics-1-word.jpg
+thumbnail: /new-images/thumbnails/4-pics-1-word.jpg
 tags:
   - casual
   - rhythm

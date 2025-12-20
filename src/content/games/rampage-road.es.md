@@ -6,7 +6,7 @@ description: >-
   Rampage Road es un caótico shooter sobre ruedas: esquiva el tráfico, destroza
   enemigos y sobrevive a persecuciones llenas de explosiones.
 iframeSrc: "https://3a73fjju0knmg.h5games.usercontent.goog/v/5ammj72815kno/"
-thumbnail: "/new-images/rampage-road.png"
+thumbnail: /new-images/thumbnails/rampage-road.png
 tags:
   - car
   - driving

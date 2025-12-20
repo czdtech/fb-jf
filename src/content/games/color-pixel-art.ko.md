@@ -6,7 +6,7 @@ description: >-
   Color Pixel Art Classic은 번호에 맞춰 색을 칠하며 픽셀 그림을 완성하는 색칠 퍼즐 게임입니다. 팔레트에서 색을 고르고,
   같은 번호의 픽셀을 채워 나가며 차분하게 그림을 완성해 보세요.
 iframeSrc: 'https://colorpixel.h5games.usercontent.goog/v/6ko86juonaau0/'
-thumbnail: /new-images/color-pixel-art.png
+thumbnail: /new-images/thumbnails/color-pixel-art.png
 tags:
   - puzzle
   - casual

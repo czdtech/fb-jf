@@ -2,7 +2,7 @@
 title: "Bad Ice Cream 2 バッド・アイスクリーム2"
 description: "「Bad Ice-Cream 2」の氷の迷宮を極めよう！敵を凍らせて閉じ込め、すべてのフルーツを集めるための必勝法、操作ガイド、ヒントを紹介。"
 iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210128/x6/index.html"
-thumbnail: "/new-images/bad-ice-cream-2.jpg"
+thumbnail: /new-images/thumbnails/bad-ice-cream-2.jpg
 urlstr: "bad-ice-cream-2"
 score: "3.9/5  (1035 votes)"
 tags: ["puzzle", "action"]

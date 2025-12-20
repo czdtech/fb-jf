@@ -7,7 +7,7 @@ description: >-
   entorno urbano moderno con una rejilla de 20 sonidos para crear loops
   hip-hop y electrónicos en formato "simulador".
 iframeSrc: 'https://turbowarp.org/949700724/embed'
-thumbnail: /new-images/incredibox-downtown-simulator.png
+thumbnail: /new-images/thumbnails/incredibox-downtown-simulator.png
 tags:
   - music
   - simulator

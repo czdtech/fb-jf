@@ -6,7 +6,7 @@ description: >-
   《Mahjongg Solitaire》（又称麻将消除或上海接龙）是一款经典的单人麻将牌配对益智游戏。找出并消除一对对相同且“自由”的牌，解锁被压住的牌面，最终清空整块布局。
 iframeSrc: >-
   https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-mahjongg-solitaire/
-thumbnail: /new-images/mahjongg-solitaire.jpg
+thumbnail: /new-images/thumbnails/mahjongg-solitaire.jpg
 tags:
   - puzzle
   - tile-matching

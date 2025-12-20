@@ -5,7 +5,7 @@ title: "《MONOPOLY》地产大亨棋盘游戏"
 description: >-
   《Monopoly》（地产大亨）是一款经典桌游，玩家通过掷骰在棋盘上移动、买地、收租和交易物业，通过精明经营让对手破产，成为最后的首富。
 iframeSrc: 'https://w8.snokido.com/games/html5/monopoly/index.html'
-thumbnail: /new-images/monopoly.jpg
+thumbnail: /new-images/thumbnails/monopoly.jpg
 tags:
   - board game
   - strategy

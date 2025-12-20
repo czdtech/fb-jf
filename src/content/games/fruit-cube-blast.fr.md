@@ -7,7 +7,7 @@ description: >-
   de cubes de fruits identiques pour créer des combos spectaculaires et vider le
   plateau.
 iframeSrc: 'https://5pj67mkaqugmo.h5games.usercontent.goog/v/151if1r687t30/'
-thumbnail: /new-images/fruit-cube-blast.jpg
+thumbnail: /new-images/thumbnails/fruit-cube-blast.jpg
 tags:
   - puzzle
   - casual

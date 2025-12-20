@@ -7,7 +7,7 @@ description: >-
   pedidos, encadena combos y mejora tu restaurante para mantener a todos los
   clientes satisfechos.
 iframeSrc: 'https://626dr588t6g9g.h5games.usercontent.goog/v/76eqgdom1qfbg/'
-thumbnail: /new-images/cooking-mania.jpg
+thumbnail: /new-images/thumbnails/cooking-mania.jpg
 tags:
   - casual
   - thinky

@@ -7,7 +7,7 @@ description: >-
   쌓는 아케이드 게임입니다. 제한 시간 안에 올바른 접시를 고르고, 함정과 벌점
   접시는 피해 높은 점수 목표를 달성해 보세요.
 iframeSrc: 'https://sushigrab.h5games.usercontent.goog/v/0ehlec2inmmrg/'
-thumbnail: /new-images/sushi-grab.png
+thumbnail: /new-images/thumbnails/sushi-grab.png
 tags:
   - casual
   - thinky

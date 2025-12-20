@@ -6,7 +6,7 @@ description: >-
   Un puzzle de blocs coulissants avec un thème de parking : déplace les autres
   voitures pour libérer le passage à la voiture rouge coincée.
 iframeSrc: 'https://unparkme.h5games.usercontent.goog/v/59baoe1o8mbe0/'
-thumbnail: /new-images/unpark-me.png
+thumbnail: /new-images/thumbnails/unpark-me.png
 tags:
   - puzzle
   - thinky

@@ -4,7 +4,7 @@ urlstr: fiddlebops-but-dandys-world
 title: "Fiddlebops But Dandy's World - Play Fiddlebops But Dandy's World Online"
 description: "Fiddlebops But Dandys World n’est pas qu’un simple jeu : c’est un voyage musical féerique où tu guides Dandy et son équipe à travers des paysages sonores remplis de surprises."
 iframeSrc: 'https://turbowarp.org/1114551059/embed'
-thumbnail: /fiddlebops-but-dandys-world.png
+thumbnail: /new-images/thumbnails/fiddlebops-but-dandys-world.png
 tags:
   - fiddlebops but dandy
 score: 4.6/5  (27 votes)

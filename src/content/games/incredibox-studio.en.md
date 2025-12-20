@@ -5,7 +5,7 @@ modType: incredibox
 title: "Incredibox Studio"
 description: "Incredibox Studio is a fan-made game inspired by the original Incredibox. It's created using Scratch and optimized with TurboWarp, allowing players to create their own musical mixes in a sandbox environment."
 iframeSrc: "https://turbowarp.org/1013575298/embed"
-thumbnail: "/new-images/incredibox-studio.png"
+thumbnail: /new-images/thumbnails/incredibox-studio.png
 urlstr: "incredibox-studio"
 score: "4.8/5 (1842 votes)"
 tags: ["music", "sandbox"]

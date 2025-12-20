@@ -6,7 +6,7 @@ description: >-
   Santa's Quest es una aventura de puzles navideña: resuelve pequeños objetivos,
   despeja caminos y ayuda a Papá Noel a entregar los regalos a tiempo.
 iframeSrc: "https://santasquest.h5games.usercontent.goog/v/737gsbva7bkqo/"
-thumbnail: "/new-images/santas-quest.png"
+thumbnail: /new-images/thumbnails/santas-quest.png
 tags:
   - puzzle
   - casual

@@ -7,7 +7,7 @@ description: >-
   Portalrätsel ins Koop-Platforming: Meistere die Kristallportale mit
   Teamwork, Timing und cleveren Routen.
 iframeSrc: 'https://slope-game.github.io/fireboy-water-4/'
-thumbnail: /new-images/fireboy-and-watergirl-4.jpg
+thumbnail: /new-images/thumbnails/fireboy-and-watergirl-4.jpg
 tags:
   - casual
   - rhythm

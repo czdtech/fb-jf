@@ -2,7 +2,7 @@
 title: Tomb of the Mask
 description: Tomb of the Maskは、迷路を駆け抜けるアーケードゲームです。マスクをつけた冒険者を操作して墓を探索しましょう。
 iframeSrc: 'https://ubg98.github.io/TombOfTheMask/'
-thumbnail: /new-images/tomb-of-the-mask.jpg
+thumbnail: /new-images/thumbnails/tomb-of-the-mask.jpg
 urlstr: tomb-of-the-mask
 score: 4.5/5  (4123 votes)
 tags:

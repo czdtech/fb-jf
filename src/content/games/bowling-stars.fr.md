@@ -4,7 +4,7 @@ urlstr: bowling-stars
 title: "Bowling Stars"
 description: "Bowling Stars est une simulation de bowling à 10 quilles : ajuste ton angle, ton effet et ta puissance pour enchaîner les strikes et gérer tes spares."
 iframeSrc: "https://0pst60kfu8pi8.h5games.usercontent.goog/v/249kviafiu6co/"
-thumbnail: /new-images/bowling-stars.png
+thumbnail: /new-images/thumbnails/bowling-stars.png
 tags:
   - sports
   - casual

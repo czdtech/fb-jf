@@ -6,7 +6,7 @@ description: >-
   카지노 카드 게임 블랙잭(21) 규칙과 기본 전략을 정리한 안내입니다. 딜러보다
   21에 가깝게 만들되, 21을 넘기지 않도록 히트·스탠드 등을 판단해 보세요.
 iframeSrc: 'https://freegames.org/games/blackjack/v1/'
-thumbnail: /new-images/blackjack.jpg
+thumbnail: /new-images/thumbnails/blackjack.jpg
 tags:
   - casual
   - rhythm

@@ -7,7 +7,7 @@ description: >-
   horrifique qui transforme l’univers Sprunki en expérience musicale sombre et
   dérangeante.
 iframeSrc: 'https://kdata1.com/2025/03/paraSprunki-update-15-0-part-222/'
-thumbnail: /sprunki-parasite-parasprunki-15.png
+thumbnail: /new-images/thumbnails/sprunki-parasite-parasprunki-15.png
 tags:
   - incredibox sprunksters
 score: "4.3/5  (372 votes)"

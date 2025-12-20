@@ -7,7 +7,7 @@ description: >-
   샌드박스 게임입니다. 다양한 사운드와 테마를 조합해 나만의
   Pikmin No Sprunki 비트를 만들어 보세요.
 iframeSrc: 'https://img.sprunki.net/game/pikmin-no-sprunki.html'
-thumbnail: /pikmin-no-sprunki.png
+thumbnail: /new-images/thumbnails/pikmin-no-sprunki.png
 tags:
   - pikmin no sprunki
 score: 4.0/5  (89 votes)

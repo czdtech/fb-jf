@@ -7,7 +7,7 @@ description: >-
   sinfonía creada por ti. Sprunki Clicker es mucho más que un juego: es un viaje
   a un mundo lleno de ritmo y magia.
 iframeSrc: "https://1games.io/game/sprunki-clicker/"
-thumbnail: "/sprunki-clicker.png"
+thumbnail: /new-images/thumbnails/sprunki-clicker.png
 tags:
   - sprunki clicker
 score: 4.7/5  (524 votes)

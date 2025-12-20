@@ -6,7 +6,7 @@ description: >-
   Schärfe dein Messer in Fruit Chopper: Zerschneide eine Flut fliegender
   Früchte, meide Bomben und jage nach immer höheren Scores.
 iframeSrc: 'https://1cgb9ogmd6780.h5games.usercontent.goog/v/37g4pe88slmfo/'
-thumbnail: /new-images/fruit-chopper.png
+thumbnail: /new-images/thumbnails/fruit-chopper.png
 tags:
   - action
   - casual

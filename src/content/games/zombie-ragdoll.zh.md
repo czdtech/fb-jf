@@ -7,7 +7,7 @@ description: >-
   把僵尸布偶像炮弹一样发射出去，触发机关、引爆炸药、推倒结构，
   利用连锁反应清除整片关卡。
 iframeSrc: 'https://04qb5fhi49qmg.h5games.usercontent.goog/v/64br0v92f7928/'
-thumbnail: /new-images/zombie-ragdoll.jpg
+thumbnail: /new-images/thumbnails/zombie-ragdoll.jpg
 tags:
   - shooting
   - puzzle

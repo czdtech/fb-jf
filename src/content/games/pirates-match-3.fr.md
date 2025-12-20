@@ -4,7 +4,7 @@ urlstr: pirates-match-3
 title: Pirates Match 3
 description: "Pirates Match 3 est un match‑3 à thème pirate\_: aligne des symboles, charge des bonus et remplis les objectifs pour faire voguer ton équipage vers le trésor."
 iframeSrc: 'https://piratesmatch3.h5games.usercontent.goog/v/5p5lhv6jaq7i8/'
-thumbnail: /new-images/pirates-match-3.png
+thumbnail: /new-images/thumbnails/pirates-match-3.jpg
 tags:
   - puzzle
   - casual

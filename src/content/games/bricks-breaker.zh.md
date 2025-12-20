@@ -4,7 +4,7 @@ urlstr: bricks-breaker
 title: Bricks Breaker 现代打砖块
 description: 《Bricks Breaker 现代打砖块》是一款节奏爽快的打砖块游戏，控制挡板反弹小球打碎砖块，配合多种强化道具挑战 各种砖块布局。
 iframeSrc: 'https://5enjropk1ren8.h5games.usercontent.goog/v/6u5qapt4kt1j8/'
-thumbnail: /new-images/bricks-breaker.jpg
+thumbnail: /new-images/thumbnails/bricks-breaker.jpg
 tags:
   - action
   - casual

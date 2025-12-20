@@ -7,7 +7,7 @@ description: >-
   weiche Fallen aus und time deine Eingaben perfekt, um neonleuchtende Parcours
   zu überleben.
 iframeSrc: 'https://1bveca4tkimog.h5games.usercontent.goog/v/4bq2naj6mtutg/'
-thumbnail: /new-images/neon-dash.png
+thumbnail: /new-images/thumbnails/neon-dash.png
 tags:
   - action
   - thinky

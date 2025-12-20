@@ -4,7 +4,7 @@ urlstr: mahjong-match-puzzle
 title: 《Mahjong Match Puzzle》层叠麻将拼图
 description: 《Mahjong Match Puzzle》融合了接龙与连线规则，你要在多层堆叠牌阵中匹配自由牌，合理处理牌层和路径，高效清空棋盘。
 iframeSrc: 'https://5jdtfmidv5ao0.h5games.usercontent.goog/v/1qd7nn7jmar7g/'
-thumbnail: /new-images/mahjong-match-puzzle.png
+thumbnail: /new-images/thumbnails/mahjong-match-puzzle.png
 tags:
   - mahjong
   - puzzle

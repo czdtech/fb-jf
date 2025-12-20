@@ -3,7 +3,7 @@ locale: en
 title: Fiddlebops But Dandy's World - Play Fiddlebops But Dandy's World Online
 description: Fiddlebops But Dandys World is not just a game; it
 iframeSrc: 'https://turbowarp.org/1114551059/embed'
-thumbnail: /fiddlebops-but-dandys-world.png
+thumbnail: /new-images/thumbnails/fiddlebops-but-dandys-world.png
 urlstr: fiddlebops-but-dandys-world
 modType: fiddlebops
 score: 4.6/5  (27 votes)

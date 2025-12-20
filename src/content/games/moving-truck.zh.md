@@ -5,7 +5,7 @@ title: "《Moving Truck》物理搬家装车"
 description: >-
   《Moving Truck》是一款基于物理效果的装车解谜游戏，你需要将形状各异的家具和物品合理摆放进货车，让整车在行驶过程中保持平衡并顺利抵达终点。
 iframeSrc: 'https://g.igroutka.ru/games/164/JgHSvhdBMa5pf4WZ/moving_truck/'
-thumbnail: /new-images/moving-truck.jpg
+thumbnail: /new-images/thumbnails/moving-truck.jpg
 tags:
   - puzzle
   - physics

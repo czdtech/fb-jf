@@ -2,7 +2,7 @@
 title: "Sprunki Good Night - Play Sprunki Good Night Online"
 description: "Sprunki Good Nightは落ち着いた雰囲気で音作りができるModです。穏やかなビートやアンビエントを重ねて、子守唄のようなトラックを作れます。"
 iframeSrc: "https://turbowarp.org/1178264025/embed"
-thumbnail: "/sprunki-good-night.png"
+thumbnail: /new-images/thumbnails/sprunki-good-night.png
 urlstr: "sprunki-good-night"
 score: "4.2/5  (227 votes)"
 tags: ["sprunki good night"]

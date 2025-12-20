@@ -7,7 +7,7 @@ description: >-
   deslízate para esquivar obstáculos, cambiar de carril y recoger monedas sin
   perder el ritmo.
 iframeSrc: 'https://tigerrun.h5games.usercontent.goog/v/1cl0c4rtsjsqo/'
-thumbnail: /new-images/tiger-run.jpeg
+thumbnail: /new-images/thumbnails/tiger-run.jpeg
 tags:
   - action
   - casual

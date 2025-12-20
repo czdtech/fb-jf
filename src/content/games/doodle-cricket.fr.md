@@ -6,7 +6,7 @@ description: >-
   Doodle Cricket est un mini‑jeu de cricket casual : synchronise tes frappes pour
   marquer des runs sans te faire éliminer.
 iframeSrc: 'https://f3.silvergames.com/m/doodle-cricket/'
-thumbnail: /new-images/doodle-cricket.jpg
+thumbnail: /new-images/thumbnails/doodle-cricket.jpg
 tags:
   - sports
   - arcade

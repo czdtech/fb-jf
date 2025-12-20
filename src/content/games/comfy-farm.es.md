@@ -7,7 +7,7 @@ description: >-
   para ganar monedas. Protege tus plantas de las plagas y usa tus beneficios
   para mejorar y ampliar tu propia granja acogedora.
 iframeSrc: 'https://comfyfarm.h5games.usercontent.goog/v/73m7i3ndifhg0/'
-thumbnail: /new-images/comfy-farm.png
+thumbnail: /new-images/thumbnails/comfy-farm.png
 tags:
   - casual
   - strategy

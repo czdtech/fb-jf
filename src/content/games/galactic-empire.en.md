@@ -4,7 +4,7 @@ locale: en
 title: "Galactic Empire"
 description: "Top‑down space strategy: harvest resources, build ships and defenses, and capture sectors while fending off enemy waves."
 iframeSrc: "https://g.igroutka.ru/games/164/8plhaK3IOLoFbVPB/2/galactic_empire/"
-thumbnail: "/new-images/galactic-empire.jpg"
+thumbnail: /new-images/thumbnails/galactic-empire.jpg
 urlstr: "galactic-empire"
 score: "4.3/5  (618 votes)"
 tags: ["strategy", "space"]

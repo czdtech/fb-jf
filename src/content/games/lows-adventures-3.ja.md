@@ -2,7 +2,7 @@
 title: "Low's Adventures 3"
 description: "レトロプラットフォーマートリロジーエントリー：より厳しいジャンプ、新しいギミックブロック、コンパクトなステージでより多くの秘密。"
 iframeSrc: "https://previews.customer.envatousercontent.com/files/480663659/index.html"
-thumbnail: "/new-images/lows-adventures-3.jpg"
+thumbnail: /new-images/thumbnails/lows-adventures-3.jpg
 urlstr: "lows-adventures-3"
 score: "4.1/5  (570 votes)"
 tags: ["platformer", "adventure"]

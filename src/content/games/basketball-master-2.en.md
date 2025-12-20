@@ -3,7 +3,7 @@ locale: en
 title: "Basketball Master 2"
 description: "Show off your basketball skills in Basketball Master 2. Aim, shoot, and score in this fun and challenging basketball game."
 iframeSrc: "https://basketballmaster2.h5games.usercontent.goog/v/267j5oehq25q0/"
-thumbnail: "/new-images/basketball-master-2.png"
+thumbnail: /new-images/thumbnails/basketball-master-2.png
 urlstr: "basketball-master-2"
 score: "4.5/5 (2345 votes)"
 tags: ["sports", "basketball", "shooting"]

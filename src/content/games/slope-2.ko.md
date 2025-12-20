@@ -7,7 +7,7 @@ description: >-
   더 빨라진 속도와 새로운 장애물을 피해 최대한 오래 살아남아
   최고 기록에 도전해 보세요.
 iframeSrc: 'https://raw.githack.com/lioxryt/lioxryt-assets/main/other/slope-2/index.html'
-thumbnail: /new-images/slope-2.jpg
+thumbnail: /new-images/thumbnails/slope-2.jpg
 tags:
   - endless runner
   - ball

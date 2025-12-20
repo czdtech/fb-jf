@@ -2,7 +2,7 @@
 title: Run 3
 description: Run 3は宇宙トンネルを走るアクションです。壁で重力を切り替えながら落下を避け、先へ進みます。
 iframeSrc: 'https://run3.h5games.usercontent.goog/v/2j9k5m8h7p3n8/'
-thumbnail: /new-images/run-3.png
+thumbnail: /new-images/thumbnails/run-3.jpg
 urlstr: run-3
 score: 4.6/5  (5234 votes)
 tags:

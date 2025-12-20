@@ -3,7 +3,7 @@
 title: "Snake"
 description: "クラシックなSnake（スネーク）です。ヘビを操作して食べ物を食べ、体を伸ばしながら壁や自分の体との衝突を避けます。シンプルですが、反射神経と先読みが問われます。"
 iframeSrc: "https://www.googlesnake.com/snakem.php"
-thumbnail: "/new-images/snake.jpg"
+thumbnail: /new-images/thumbnails/snake.jpg
 urlstr: "snake"
 score: "4.1/5  (242 votes)"
 tags: ["classic", "arcade", "skill"]

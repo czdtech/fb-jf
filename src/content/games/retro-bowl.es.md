@@ -7,7 +7,7 @@ description: >-
   que haces de entrenador y quarterback: gestionas tu equipo, eliges jugadas,
   lanzas pases y lo guías hasta la gloria del campeonato.
 iframeSrc: "https://game316009.konggames.com/gamez/0031/6009/live/index.html"
-thumbnail: "/new-images/retro-bowl.jpg"
+thumbnail: /new-images/thumbnails/retro-bowl.jpg
 tags:
   - sports
   - retro

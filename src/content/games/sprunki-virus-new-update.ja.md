@@ -3,7 +3,7 @@ title: Sprunki Virus New Update - Play Sprunki Virus New Update Online
 description: >-
   Sprunki Virusはウイルスに感染した世界観を取り入れたSprunki系Modです。グリッチ風の演出や不穏なサウンドでトラックを作れます。
 iframeSrc: 'https://turbowarp.org/1140189366/embed'
-thumbnail: /sprunki-virus-new-update.png
+thumbnail: /new-images/thumbnails/sprunki-virus-new-update.png
 urlstr: sprunki-virus-new-update
 score: 4.0/5  (407 votes)
 tags:

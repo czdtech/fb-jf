@@ -7,7 +7,7 @@ description: >-
   localizar todas las minas ocultas del tablero. Con varios niveles de
   dificultad, es una auténtica prueba de deducción.
 iframeSrc: 'https://minesweepermania.h5games.usercontent.goog/v/6cje7ufl50e4g/'
-thumbnail: /new-images/minesweeper-mania.png
+thumbnail: /new-images/thumbnails/minesweeper-mania.png
 tags:
   - puzzle
   - thinky

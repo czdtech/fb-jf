@@ -7,7 +7,7 @@ description: >-
   Arcade‑Klassiker Breakout. Lerne Tipps und Tricks, um diesen zeitlosen
   Block‑Breaker zu meistern.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/atari-breakout.html'
-thumbnail: /new-images/breakout.jpg
+thumbnail: /new-images/thumbnails/breakout.jpg
 tags:
   - arcade
   - casual

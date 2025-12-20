@@ -7,7 +7,7 @@ description: >-
   Farbe auf, sortiere die Tafeln in absteigender Reihenfolge und wechselnden
   Farben – mit Zieh-1- oder Zieh-3-Regel.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-klondike-solitaire/'
-thumbnail: /new-images/klondike-solitaire.jpg
+thumbnail: /new-images/thumbnails/klondike-solitaire.jpg
 tags:
   - solitaire
   - card

@@ -7,7 +7,7 @@ description: >-
   Idle Explorers. Mejora a tus trabajadores, desbloquea nuevos yacimientos y
   descubre artefactos raros en esta adictiva aventura idle.
 iframeSrc: 'https://5ik68qrla8g6g.h5games.usercontent.goog/v/1vuib5ibuof0g/'
-thumbnail: /new-images/idle-explorers.png
+thumbnail: /new-images/thumbnails/idle-explorers.png
 tags:
   - casual
   - clicker

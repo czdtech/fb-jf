@@ -4,7 +4,7 @@ urlstr: bloons-td-3
 title: "Bloons TD 3"
 description: "Bloons TD 3 ajoute de nouvelles tours, le Monkey Beacon et le premier MOAB : construis une défense équilibrée et prépare‑toi pour le dirigeable final."
 iframeSrc: "https://1000freegames.github.io/swf/bloons-td-3.html"
-thumbnail: /new-images/bloons-td-3.jpg
+thumbnail: /new-images/thumbnails/bloons-td-3.jpg
 tags:
   - casual
   - strategy

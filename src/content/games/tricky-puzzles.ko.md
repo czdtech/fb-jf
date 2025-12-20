@@ -6,7 +6,7 @@ description: >-
   평범한 논리로는 풀 수 없는 기발한 문제들로 가득한 퍼즐 게임입니다. 화면을 탭하고 드래그하고
   때로는 기기를 돌려 가며, 상식의 틀을 깨는 정답을 찾아 뇌를 끝까지 굴려 보세요.
 iframeSrc: 'https://rebemanae.github.io/brain-test-tricky-puzzles/'
-thumbnail: /new-images/tricky-puzzles.jpg
+thumbnail: /new-images/thumbnails/tricky-puzzles.jpg
 tags:
   - puzzle
   - brain-teaser

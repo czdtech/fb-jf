@@ -4,7 +4,7 @@ urlstr: incredibox-kochari
 title: "Incredibox Kochari - 在线玩 Incredibox Kochari"
 description: "Incredibox Kochari 是一款粉丝 Mod，将经典的 Incredibox 玩法与充满活力的亚美尼亚民间舞蹈 Kochari 文化相融合。用传统节奏和声音创作独特的节拍。"
 iframeSrc: 'https://turbowarp.org/718091148/embed'
-thumbnail: /new-images/incredibox-kochari.png
+thumbnail: /new-images/thumbnails/incredibox-kochari.png
 tags:
   - music
   - cultural

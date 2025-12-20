@@ -2,7 +2,7 @@
 title: Temple Run 2
 description: Temple Run 2は、人気のエンドレスランナーゲームの続編です。古代寺院を走り抜け、障害物を避けて宝物を集めましょう。
 iframeSrc: 'https://ubg98.github.io/TempleRun2/'
-thumbnail: /new-images/temple-run-2.jpg
+thumbnail: /new-images/thumbnails/temple-run-2.jpg
 urlstr: temple-run-2
 score: 4.6/5  (5432 votes)
 tags:

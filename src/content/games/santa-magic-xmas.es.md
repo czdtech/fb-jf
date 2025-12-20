@@ -7,7 +7,7 @@ description: >-
   Santa combinando adornos de colores y despejando el tablero para que los
   regalos lleguen a tiempo.
 iframeSrc: "https://santamagicxmas.h5games.usercontent.goog/v/27gpp489kce80/"
-thumbnail: "/new-images/santa-magic-xmas.png"
+thumbnail: /new-images/thumbnails/santa-magic-xmas.png
 tags:
   - puzzle
   - casual

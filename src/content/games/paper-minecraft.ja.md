@@ -2,7 +2,7 @@
 title: Paper Minecraft
 description: Paper MinecraftはMinecraftを2D風にしたサンドボックスゲームです。採掘やクラフト、建築をしながら探索します。
 iframeSrc: 'https://paperminecraft.h5games.usercontent.goog/v/6j9k5m8h7p3n8/'
-thumbnail: /new-images/paper-minecraft.png
+thumbnail: /new-images/thumbnails/paper-minecraft.jpg
 urlstr: paper-minecraft
 score: 4.4/5  (3123 votes)
 tags:

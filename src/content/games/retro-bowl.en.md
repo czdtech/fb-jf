@@ -4,7 +4,7 @@ locale: en
 title: "Retro Bowl"
 description: "Retro Bowl is a nostalgic American football game with retro 8-bit graphics where players manage and play as a football team, calling plays, throwing passes, and leading their team to championship glory."
 iframeSrc: "https://game316009.konggames.com/gamez/0031/6009/live/index.html"
-thumbnail: "/new-images/retro-bowl.jpg"
+thumbnail: /new-images/thumbnails/retro-bowl.jpg
 urlstr: "retro-bowl"
 score: "3.5/5  (637 votes)"
 tags: ["sports", "retro", "management"]

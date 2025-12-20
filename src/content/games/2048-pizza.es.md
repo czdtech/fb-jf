@@ -7,7 +7,7 @@ description: >-
   fichas, combina iguales y hornea cada vez porciones más grandes mientras evitas
   que el tablero se llene.
 iframeSrc: 'https://14qikp6hbljig.h5games.usercontent.goog/v/4htrmkq5b0b78/'
-thumbnail: /new-images/2048-pizza.png
+thumbnail: /new-images/thumbnails/2048-pizza.png
 tags:
   - puzzle
   - thinky

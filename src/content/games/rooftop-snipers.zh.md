@@ -5,7 +5,7 @@ title: "《Rooftop Snipers》天台布偶狙击战"
 description: >-
   《Rooftop Snipers》是系列初代作品，两名像素小人站在楼顶上，用极其简单的操作互相射击、把对方掀下楼。夸张的 ragdoll 布偶物理和“看似简单其实很坑”的操作，让对战既好笑又有难度。
 iframeSrc: 'https://webglmath.github.io/rooftop-snipers/'
-thumbnail: /new-images/rooftop-snipers.jpg
+thumbnail: /new-images/thumbnails/rooftop-snipers.jpg
 tags:
   - shooting
   - physics

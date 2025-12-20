@@ -7,7 +7,7 @@ description: >-
   centrada en crear pistas cósmicas y varios bonus de ciencia ficción que puedes
   desbloquear.
 iframeSrc: 'https://turbowarp.org/966510261/embed'
-thumbnail: /new-images/incredibox-riser.png
+thumbnail: /new-images/thumbnails/incredibox-riser.png
 tags:
   - music
   - electronic

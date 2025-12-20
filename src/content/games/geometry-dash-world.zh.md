@@ -6,7 +6,7 @@ description: >-
   精煉版節奏平台世界：在兩個主題世界中快速通關多個短關卡，
   跟著音樂節奏奔跑、跳躍與飛行，用收集到的光球解鎖大門並挑戰每日關卡。
 iframeSrc: 'https://geometrylite.io/game/geometry-dash-world/'
-thumbnail: /new-images/geometry-dash-world.jpg
+thumbnail: /new-images/thumbnails/geometry-dash-world.jpg
 tags:
   - rhythm
   - platformer

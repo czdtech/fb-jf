@@ -7,7 +7,7 @@ description: >-
   하나 높거나 낮은 카드를 연달아 내면서 긴 연속 콤보를 만들고, 패산이 떨어지기 전에 보드를
   깨끗이 비우는 것이 목표입니다.
 iframeSrc: 'https://tripeakssolitaire.h5games.usercontent.goog/v/4v3d7g06n6rug/'
-thumbnail: /new-images/tripeaks-solitaire.png
+thumbnail: /new-images/thumbnails/tripeaks-solitaire.png
 tags:
   - card
   - puzzle

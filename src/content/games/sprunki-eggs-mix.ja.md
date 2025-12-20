@@ -2,7 +2,7 @@
 title: "Sprunki Egg's Mix - Play Sprunki Egg's Mix Online"
 description: "Sprunki Egg's Mixはエッグを組み合わせて連鎖を狙うパズルゲームです。属性の違いを活かしながら盤面をクリアしていきます。"
 iframeSrc: "https://turbowarp.org/1102648676/embed"
-thumbnail: "/sprunki-eggs-mix.png"
+thumbnail: /new-images/thumbnails/sprunki-eggs-mix.png
 urlstr: "sprunki-eggs-mix"
 score: "3.9/5  (125 votes)"
 tags: ["sprunki egg"]

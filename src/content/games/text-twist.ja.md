@@ -2,7 +2,7 @@
 title: Text Twist
 description: Text Twistは、クラシックな単語パズルゲームです。文字を並べ替えて単語を作成し、時間内に完成させましょう。
 iframeSrc: 'https://ubg98.github.io/TextTwist/'
-thumbnail: /new-images/text-twist.jpg
+thumbnail: /new-images/thumbnails/text-twist.jpg
 urlstr: text-twist
 score: 4.3/5  (2567 votes)
 tags:

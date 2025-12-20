@@ -6,7 +6,7 @@ description: >-
   The Jigsaw Game은 다양한 난이도의 그림 퍼즐을 맞추는 직소 퍼즐 게임입니다. 조각을 돌려 제자리로 옮기며, 완성된 일러스트를
   감상해 보세요.
 iframeSrc: 'https://jigsawgame.h5games.usercontent.goog/v/1a2b3c4d5e6f/'
-thumbnail: /new-images/the-jigsaw-game.jpg
+thumbnail: /new-images/thumbnails/the-jigsaw-game.png
 tags:
   - jigsaw
   - puzzle

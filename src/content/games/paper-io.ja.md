@@ -2,7 +2,7 @@
 title: Paper.io
 description: Paper.ioは領土征服ゲームです。エリアを主張し、対戦相手を避け、ボードを支配し、戦略的に拡大します。
 iframeSrc: 'https://paperio.h5games.usercontent.goog/v/4k9j5m8h7p3n8/'
-thumbnail: /new-images/paper-io.png
+thumbnail: /new-images/thumbnails/paper-io.jpg
 urlstr: paper-io
 score: 4.5/5  (3456 votes)
 tags:

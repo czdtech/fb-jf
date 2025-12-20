@@ -5,7 +5,7 @@ title: "《Moving Co》搬家公司小管家"
 description: >-
   《Moving Co.》是一款轻量级的搬家物流解谜游戏，你要规划路线、搬运家具和箱子，在尽量少的往返次数内，把物品安全送上货车并按时完成任务。
 iframeSrc: 'https://movingco.h5games.usercontent.goog/v/3crgi5efdnml0/'
-thumbnail: /new-images/moving-co.png
+thumbnail: /new-images/thumbnails/moving-co.png
 tags:
   - casual
   - thinky

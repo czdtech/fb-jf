@@ -6,7 +6,7 @@ description: >-
   Moving Co.는 이삿날을 퍼즐로 만든 캐주얼 게임으로, 동선을 설계해 짐을 안전하게
   옮기고, 제한 시간 안에 효율적으로 트럭에 싣는 것이 목표입니다.
 iframeSrc: 'https://movingco.h5games.usercontent.goog/v/3crgi5efdnml0/'
-thumbnail: /new-images/moving-co.png
+thumbnail: /new-images/thumbnails/moving-co.png
 tags:
   - casual
   - thinky

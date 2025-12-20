@@ -6,7 +6,7 @@ description: >-
   스테이지 전체를 회전시켜 공을 목표 지점까지 보내는 물리 퍼즐 게임입니다.
   중력 방향과 관성을 계산해 미로와 함정을 통과할 경로를 찾아 보세요.
 iframeSrc: 'https://rebemanae.github.io/rotate/'
-thumbnail: /new-images/rotate.jpg
+thumbnail: /new-images/thumbnails/rotate.jpg
 tags:
   - puzzle
   - physics

@@ -7,7 +7,7 @@ description: >-
   맞춰 없애고 벽을 이용한 뱅크 샷으로 보드를 정리해 나가는 퍼즐입니다.
 iframeSrc: >-
   https://omnombubbles.h5games.usercontent.goog/v/6bdfc73b-7b9c-4046-9bfe-9269036a772f/
-thumbnail: /new-images/om-nom-bubbles.jpg
+thumbnail: /new-images/thumbnails/om-nom-bubbles.jpg
 tags:
   - puzzle
   - casual

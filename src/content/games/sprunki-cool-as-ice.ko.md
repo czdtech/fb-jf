@@ -7,7 +7,7 @@ description: >-
   차가운 겨울 분위기 속에서 눈과 얼음 캐릭터를 배치해 새로운 비트와 멜로디를
   조합하며, 나만의 겨울 사운드트랙을 만들 수 있습니다.
 iframeSrc: 'https://turbowarp.org/1114795409/embed'
-thumbnail: /sprunki-cool-as-ice.png
+thumbnail: /new-images/thumbnails/sprunki-cool-as-ice.png
 tags:
   - sprunki cool as ice
   - sprunki cool as ice online

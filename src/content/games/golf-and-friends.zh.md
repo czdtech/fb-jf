@@ -4,7 +4,7 @@ urlstr: golf-and-friends
 title: Golf and Friends 朋友高爾夫
 description: Golf and Friends 是一款輕鬆的迷你高爾夫遊戲——閱讀坡度、利用牆壁反彈， 和朋友一起慢節奏推桿，在歡樂的派對氣氛中完成每一洞。
 iframeSrc: 'https://1uerepsm8tbpg.h5games.usercontent.goog/v/3st9sicdd4eu0/'
-thumbnail: /new-images/golf-and-friends.jpg
+thumbnail: /new-images/thumbnails/golf-and-friends.jpg
 tags:
   - sports
   - 2 player

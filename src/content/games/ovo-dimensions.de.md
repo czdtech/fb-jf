@@ -9,7 +9,7 @@ description: >-
   Level und jagst Bestzeiten.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221219/8/index.html
-thumbnail: /new-images/ovo-dimensions.jpg
+thumbnail: /new-images/thumbnails/ovo-dimensions.jpg
 tags:
   - platformer
   - action

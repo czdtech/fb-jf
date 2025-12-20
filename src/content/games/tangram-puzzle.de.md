@@ -4,7 +4,7 @@ urlstr: tangram-puzzle
 title: "Tangram Puzzle"
 description: "Tangram Puzzle ist ein klassisches Zerlegungspuzzle: Lege sieben Tans so, dass sie eine Silhouette exakt ausfüllen – ohne Lücken, ohne Überlappungen, nur mit Drehung und räumlichem Vorstellungsvermögen." 
 iframeSrc: 'https://38lbr23ak5hn8.h5games.usercontent.goog/v/3v2lg4sb2v3ug/'
-thumbnail: /new-images/tangram-puzzle.jpg
+thumbnail: /new-images/thumbnails/tangram-puzzle.jpg
 tags:
   - puzzle
   - thinky

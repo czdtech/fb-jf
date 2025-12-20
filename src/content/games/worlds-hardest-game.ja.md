@@ -2,7 +2,7 @@
 title: World's Hardest Game
 description: World's Hardest Gameは、世界で最も難しいゲームです。赤い四角を避けて緑のゾーンに到達しましょう。
 iframeSrc: 'https://ubg98.github.io/WorldsHardestGame/'
-thumbnail: /new-images/worlds-hardest-game.jpg
+thumbnail: /new-images/thumbnails/worlds-hardest-game.jpg
 urlstr: worlds-hardest-game
 score: 4.5/5  (4892 votes)
 tags:

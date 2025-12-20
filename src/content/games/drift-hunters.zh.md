@@ -6,7 +6,7 @@ description: >-
   《Drift Hunters 3D 漂移猎人》是一款 3D 漂移赛车游戏。通过不断刷分赚取金币，升级与调
   校车辆，在不同赛道上连贯漂移、挑战最高分。
 iframeSrc: 'https://webglmath.github.io/drift-hunters/'
-thumbnail: /new-images/drift-hunters.jpg
+thumbnail: /new-images/thumbnails/drift-hunters.jpg
 tags:
   - racing
   - simulation

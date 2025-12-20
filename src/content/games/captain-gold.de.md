@@ -7,7 +7,7 @@ description: >-
   Würfe, angelt wertvolle Schätze und meidet Felsen, um das Geldziel zu
   erreichen.
 iframeSrc: 'https://5djvqvgrgqc0o.h5games.usercontent.goog/v/58gqt26rjid7o/'
-thumbnail: /new-images/captain-gold.png
+thumbnail: /new-images/thumbnails/captain-gold.png
 tags:
   - casual
   - thinky

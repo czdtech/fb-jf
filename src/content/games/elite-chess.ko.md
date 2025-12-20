@@ -6,7 +6,7 @@ description: >-
   탄탄한 체스 기본기를 다지는 데 초점을 맞춘 체스 게임입니다. 정석적인
   오프닝과 깔끔한 전술, 실전적인 엔드게임 운영을 연습해 보세요.
 iframeSrc: 'https://6kf8oom91mt10.h5games.usercontent.goog/v/01dag2rajhv1g/'
-thumbnail: /new-images/elite-chess.png
+thumbnail: /new-images/thumbnails/elite-chess.png
 tags:
   - thinky
   - puzzle

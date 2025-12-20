@@ -2,7 +2,7 @@
 title: "Happy Wheels (ハッピーウィールズ)"
 description: "悪名高いグラフィックとユーモアで知られる物理演算ゲーム、Happy Wheelsの詳細ガイド。命がけのユーザー作成レベルを生き残るための、ゲームプレイ戦略、操作方法、よくある質問を学びましょう。"
 iframeSrc: "https://games-online.io/game/HappyWheels/"
-thumbnail: "/new-images/happy-wheels.jpg"
+thumbnail: /new-images/thumbnails/happy-wheels.jpg
 urlstr: "happy-wheels"
 score: "3.9/5  (1175 votes)"
 tags: ["platformer", "physics"]

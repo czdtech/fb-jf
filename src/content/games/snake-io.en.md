@@ -4,7 +4,7 @@ locale: en
 title: "Snake.io"
 description: "Play Snake.io, a popular multiplayer action game that modernizes the classic snake experience. Compete against others to become the longest snake by consuming pellets and defeating opponents. Use speed boosts strategically to dominate the arena in this addictive casual game."
 iframeSrc: "https://snake.io/crazygames/"
-thumbnail: "/new-images/snake-io.jpg"
+thumbnail: /new-images/thumbnails/snake-io.jpg
 urlstr: "snake-io"
 score: "3.5/5  (677 votes)"
 tags: ["io-games", "snake", "multiplayer"]

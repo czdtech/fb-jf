@@ -7,7 +7,7 @@ description: >-
   Schieße, um dich zu drehen und voranzufliegen, sammle Munition ein und versuche,
   möglichst weit durch die Level zu kommen.
 iframeSrc: 'https://ubg44.github.io/GunSpin/'
-thumbnail: /new-images/gunspin.jpg
+thumbnail: /new-images/thumbnails/gunspin.jpg
 tags:
   - arcade
   - physics

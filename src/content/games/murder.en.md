@@ -4,7 +4,7 @@ locale: en
 title: "Murder"
 description: "Murder is a suspenseful social deduction game where one player secretly acts as the murderer, aiming to eliminate others without being discovered, while other players try to identify and stop them."
 iframeSrc: "https://ubg77.github.io/fix/murder/"
-thumbnail: "/new-images/murder.jpg"
+thumbnail: /new-images/thumbnails/murder.jpg
 urlstr: "murder"
 score: "4.0/5  (1485 votes)"
 tags: ["social deduction", "strategy", "party"]

@@ -7,7 +7,7 @@ description: >-
   Sprunki Definitive 시리즈의 일부입니다. 다양한 캐릭터와 사운드로 음산하면서도
   매력적인 트랙을 만들 수 있습니다.
 iframeSrc: 'https://sprunki-phase-5-ekz.pages.dev/'
-thumbnail: /sprunki-phase-5.png
+thumbnail: /new-images/thumbnails/sprunki-phase-5.png
 tags:
   - sprunki phase 5
   - sprunki phase 5 online

@@ -4,7 +4,7 @@ urlstr: neon-tower
 title: Neon Tower
 description: "Guide la balle rebondissante dans Neon Tower\_! Fais pivoter la tour hélicoïdale pour aligner les ouvertures, laisse la balle chuter et évite les plateformes rouges mortelles."
 iframeSrc: 'https://2mk3ok3s7jl88.h5games.usercontent.goog/v/39vfhh0oku1j8/'
-thumbnail: /new-images/neon-tower.png
+thumbnail: /new-images/thumbnails/neon-tower.png
 tags:
   - action
   - casual

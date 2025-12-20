@@ -7,7 +7,7 @@ description: >-
   通过阅读提示、寻找线索、揭穿冒名顶替者或解开古怪谜题，
   在上百个场景中一步步接近真相，是一款充满脑洞的益智解谜游戏。
 iframeSrc: 'https://rebemanae.github.io/who-is/'
-thumbnail: /new-images/who-is.jpg
+thumbnail: /new-images/thumbnails/who-is.jpg
 tags:
   - puzzle
   - riddle

@@ -2,7 +2,7 @@
 title: "Brain Test 3: Tricky Quests 脳トレテスト3：トリッキークエスト"
 description: "「Brain Test 3: Tricky Quests」をプレイする絶好のチャンスです。冒険とパズルが融合したこのゲームを存分にお楽しみください！"
 iframeSrc: "https://bitlifeonline.github.io/brain-test-3-tricky-quests/"
-thumbnail: "/new-images/3-tricky-quests.jpg"
+thumbnail: /new-images/thumbnails/3-tricky-quests.jpg
 urlstr: "3-tricky-quests"
 score: "3.6/5  (787 votes)"
 tags: ["casual", "rhythm"]

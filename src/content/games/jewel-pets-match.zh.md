@@ -4,7 +4,7 @@ urlstr: jewel-pets-match
 title: 《Jewel Pets Match》宝石萌宠消消乐
 description: 《Jewel Pets Match》是一款充满童趣的三消游戏，你要在棋盘上交换宝石小动物，让三只及以上相同萌宠连成一线，完成每一关的目标任务。
 iframeSrc: 'https://jewelpetsmatch.h5games.usercontent.goog/v/2kcabvevoilco/'
-thumbnail: /new-images/jewel-pets-match.png
+thumbnail: /new-images/thumbnails/jewel-pets-match.png
 tags:
   - puzzle
   - casual

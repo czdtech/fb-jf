@@ -8,7 +8,7 @@ description: >-
   Schritt ein süßes Business-Imperium auf.
 iframeSrc: >-
   https://g2.igroutka.ru/games/23/0aJSAnXwHyEMfhVW/rvvASMiM/dae161e33a524a85af8ca53ea2f71865/
-thumbnail: /new-images/choco-factory.jpg
+thumbnail: /new-images/thumbnails/choco-factory.jpg
 tags:
   - casual
 score: 4.1/5  (915 votes)

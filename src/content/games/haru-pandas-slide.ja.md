@@ -2,7 +2,7 @@
 title: "Haru Pandas Slide"
 description: "Haru Pandas Slideは癒やしのスライドパズルです。タイルをスライドさせて愛らしいパンダの写真を完成させましょう。最小限の手数と論理的思考でクリアを目指します。"
 iframeSrc: "https://0vc1kolll32h8.h5games.usercontent.goog/v/0t898ulinrkag/"
-thumbnail: "/new-images/haru-pandas-slide.png"
+thumbnail: /new-images/thumbnails/haru-pandas-slide.png
 urlstr: "haru-pandas-slide"
 score: "4.1/5  (1953 votes)"
 tags: ["puzzle", "thinky", "casual"]

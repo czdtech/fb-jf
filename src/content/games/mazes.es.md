@@ -6,7 +6,7 @@ description: >-
   Mazes propone recorridos clásicos por laberintos: dibuja rutas óptimas,
   esquiva trampas y bate los tiempos objetivo con un trazado limpio.
 iframeSrc: 'https://1ivu76rhffpsg.h5games.usercontent.goog/v/00icu4vi09j18/'
-thumbnail: /new-images/mazes.jpg
+thumbnail: /new-images/thumbnails/mazes.jpg
 tags:
   - puzzle
   - thinky

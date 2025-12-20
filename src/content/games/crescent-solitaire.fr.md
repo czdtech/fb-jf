@@ -4,7 +4,7 @@ urlstr: crescent-solitaire
 title: Crescent Solitaire
 description: "Crescent Solitaire est une variante du solitaire en croissant\_: réorganise les cartes autour des As et des Rois pour vider l’arc de cartes."
 iframeSrc: 'https://g2.forcegame.ru/game/14/FG2157_1/index.html'
-thumbnail: /new-images/crescent-solitaire.png
+thumbnail: /new-images/thumbnails/crescent-solitaire.jpg
 tags:
   - card
   - puzzle

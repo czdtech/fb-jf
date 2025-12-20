@@ -6,7 +6,7 @@ description: >-
   블랙잭 규칙을 바탕으로 라운드를 승리하며 모험을 진행하는 카드 게임입니다. 21을 넘기지 않는 선에서 최대한 가까운 합을 만들고, 상대보다
   높은 패를 완성해 퀘스트를 완료해 보세요.
 iframeSrc: 'https://7h2pln0tgo8q0.h5games.usercontent.goog/v/004k30od8uvog/'
-thumbnail: /new-images/quest-21.png
+thumbnail: /new-images/thumbnails/quest-21.png
 tags:
   - card
   - puzzle

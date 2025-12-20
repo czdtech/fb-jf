@@ -7,7 +7,7 @@ description: >-
   점프 타이밍을 맞춰 발판을 오르고, 장애물을 피하며
   아이템을 모아 높은 기록에 도전해 보세요.
 iframeSrc: 'https://5gj672951lio0.h5games.usercontent.goog/v/2q5vk2ok37gr8/'
-thumbnail: /new-images/krishna-jump.png
+thumbnail: /new-images/thumbnails/krishna-jump.png
 tags:
   - action
   - casual

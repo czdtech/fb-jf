@@ -3,7 +3,7 @@ locale: en
 title: "Merge Fruit"
 description: "Merge Fruit is a juicy merge‑and‑drop — combine identical fruits, manage stack heights, and engineer cascades for big scores."
 iframeSrc: "https://3eltb7i874s60.h5games.usercontent.goog/v/28f34ighqoh10/"
-thumbnail: "/new-images/merge-fruit.png"
+thumbnail: /new-images/thumbnails/merge-fruit.png
 urlstr: "merge-fruit"
 score: "4.1/5  (1957 votes)"
 tags: ["puzzle", "thinky", "casual"]

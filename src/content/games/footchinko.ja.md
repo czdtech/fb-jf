@@ -2,7 +2,7 @@
 title: "Footchinko"
 description: "Footchinkoでサッカーとパチンコのユニークなブレンドを体験しましょう！ボールを落とし、ペグにヒットし、ハイスコアとエキサイティングなボーナスを目指しましょう。"
 iframeSrc: "https://footchinko2.h5games.usercontent.goog/v/3iniom5rsklno/"
-thumbnail: "/new-images/footchinko.jpg"
+thumbnail: /new-images/thumbnails/footchinko.jpg
 urlstr: "footchinko"
 score: "4.5/5  (2230 votes)"
 tags: ["sports", "casual", "action"]

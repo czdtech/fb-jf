@@ -4,7 +4,7 @@ urlstr: drive-mad
 title: Drive Mad 드라이브 매드
 description: 험난한 장애물 코스를 달리는 물리 기반 드라이빙 게임입니다. 속도와 균형을 조절해 차량을 뒤집지 않고 결승선까지 도달해 보세요.
 iframeSrc: 'https://ubg77.github.io/edit/drive-mad/'
-thumbnail: /new-images/drive-mad.jpeg
+thumbnail: /new-images/thumbnails/drive-mad.jpg
 tags:
   - racing
   - physics

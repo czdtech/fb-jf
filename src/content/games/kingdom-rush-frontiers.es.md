@@ -6,7 +6,7 @@ description: >-
   Secuela de tower defense: construye y mejora torres, despliega refuerzos y
   héroes, y contrarresta tipos de enemigos con una colocación inteligente.
 iframeSrc: 'https://1000freegames.github.io/swf/kingdom-rush-frontiers.html'
-thumbnail: /new-images/kingdom-rush-frontiers.jpg
+thumbnail: /new-images/thumbnails/kingdom-rush-frontiers.jpg
 tags:
   - tower-defense
   - strategy

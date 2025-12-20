@@ -6,7 +6,7 @@ description: >-
   Backyard Zombie Defense es un juego ligero de defensa de torres en el que debes
   colocar y mejorar torretas para detener oleadas de zombis que invaden tu patio trasero.
 iframeSrc: 'https://18ivvthj417fo.h5games.usercontent.goog/v/27786m6fltuso/'
-thumbnail: /new-images/backyard-zombie-defense.png
+thumbnail: /new-images/thumbnails/backyard-zombie-defense.png
 tags:
   - tower Defense
   - thinky

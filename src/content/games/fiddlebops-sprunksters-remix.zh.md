@@ -5,7 +5,7 @@ urlstr: "fiddlebops-sprunksters-remix"
 title: "Fiddlebops Sprunksters Remix - 在线畅玩 Fiddlebops Sprunksters Remix"
 description: "Fiddlebops Sprunksters 是一款出色的模组，完美融合了创意、节奏和视觉魅力。凭借其迷人的角色设计、新颖的声音和超酷的双世界功能，为音乐爱好者带来独特的游戏体验。"
 iframeSrc: "https://turbowarp.org/1149194527/embed"
-thumbnail: "/fiddlebops-sprunksters-remix.png"
+thumbnail: /new-images/thumbnails/fiddlebops-sprunksters-remix.png
 score: "4.1/5  (127 票)"
 tags: ["fiddlebops sprunksters remix"]
 ---

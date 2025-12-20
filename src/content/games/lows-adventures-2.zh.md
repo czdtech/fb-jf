@@ -4,7 +4,7 @@ urlstr: lows-adventures-2
 title: 《Low's Adventures 2》洛的冒险 2
 description: 《Low's Adventures 2》是一款复古平台动作续作，在紧凑关卡中奔跑跳跃，寻找钥匙与隐藏房间，并挑战计时通关。
 iframeSrc: 'https://previews.customer.envatousercontent.com/files/489323722/index.html'
-thumbnail: /new-images/lows-adventures-2.jpg
+thumbnail: /new-images/thumbnails/lows-adventures-2.jpg
 tags:
   - platformer
   - adventure

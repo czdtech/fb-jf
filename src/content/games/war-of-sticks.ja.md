@@ -2,7 +2,7 @@
 title: War of Sticks
 description: War of Sticksは、スティックマン戦争ゲームです。軍隊を指揮して敵を倒しましょう。
 iframeSrc: 'https://ubg98.github.io/WarOfSticks/'
-thumbnail: /new-images/war-of-sticks.jpg
+thumbnail: /new-images/thumbnails/war-of-sticks.jpg
 urlstr: war-of-sticks
 score: 4.4/5  (2876 votes)
 tags:

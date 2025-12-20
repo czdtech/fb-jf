@@ -4,7 +4,7 @@ urlstr: jungle-bricks
 title: 《Jungle Bricks》丛林弹射打砖块
 description: 在《Jungle Bricks》中，瞄准并发射弹球打碎数字砖块，利用反弹与连击在砖块落到底部之前清空全场，是一款节奏紧凑的丛林风打砖块游戏。
 iframeSrc: 'https://0gt5ae21ln70o.h5games.usercontent.goog/v/0762mjie8e8s0/'
-thumbnail: /new-images/jungle-bricks.png
+thumbnail: /new-images/thumbnails/jungle-bricks.png
 tags:
   - puzzle
   - shooting

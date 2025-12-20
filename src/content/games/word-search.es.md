@@ -7,7 +7,7 @@ description: >-
   ocultas en una sopa de letras, buscándolas en horizontal, vertical y diagonal
   para completar listas temáticas en este relajante ejercicio mental.
 iframeSrc: "https://cdn.gamesnacks.com/wordsearch1/gameCode/index.html"
-thumbnail: "/new-images/word-search.jpg"
+thumbnail: /new-images/thumbnails/word-search.jpg
 tags:
   - word
   - puzzle

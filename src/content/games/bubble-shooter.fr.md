@@ -4,7 +4,7 @@ urlstr: bubble-shooter
 title: Bubble Shooter
 description: "Bubble Shooter est le puzzle culte\_: aligne trois bulles de même couleur pour les éclater, utilise les murs pour des tirs en bande et fais tomber de gros paquets pour maximiser ton score."
 iframeSrc: 'https://www.bubbleshooter-new.com/'
-thumbnail: /new-images/bubble-shooter.jpg
+thumbnail: /new-images/thumbnails/bubble-shooter.jpg
 tags:
   - casual
   - puzzle

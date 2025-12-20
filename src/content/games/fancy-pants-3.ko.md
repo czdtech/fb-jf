@@ -7,7 +7,7 @@ description: >-
   벽달리기와 슬라이드로 더욱 부드러운 흐름을 즐겨 보세요.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210305/jj10/index.html
-thumbnail: /new-images/fancy-pants-3.jpg
+thumbnail: /new-images/thumbnails/fancy-pants-3.jpg
 tags:
   - platformer
   - action

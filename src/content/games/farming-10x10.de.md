@@ -7,7 +7,7 @@ description: >-
   Platziere Formen, räume Reihen/Spalten ab und halte dir immer genug
   Spielfeldraum offen.
 iframeSrc: 'https://66ts484uf5r18.h5games.usercontent.goog/v/1nt4ffhi7k9jo/'
-thumbnail: /new-images/farming-10x10.jpg
+thumbnail: /new-images/thumbnails/farming-10x10.jpg
 tags:
   - puzzle
   - thinky

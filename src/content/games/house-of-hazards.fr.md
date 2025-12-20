@@ -4,7 +4,7 @@ urlstr: house-of-hazards
 title: "House Of Hazards"
 description: "Party game local chaotique : réalise des tâches quotidiennes dans une maison pleine de pièges pendant que tes amis déclenchent des hazards pour te faire voler dans tous les sens."
 iframeSrc: "https://webglmath.github.io/house-of-hazards/"
-thumbnail: /new-images/house-of-hazards.jpg
+thumbnail: /new-images/thumbnails/house-of-hazards.jpg
 tags:
   - party
   - multiplayer

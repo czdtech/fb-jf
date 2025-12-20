@@ -4,7 +4,7 @@ locale: en
 title: "Aquapark io"
 description: "ace to the finish line in aquapark.io! Learn the best strategies, tips, and controls to master the water slide, bump opponents, and take epic flight shortcuts to win."
 iframeSrc: "https://bitlifeonline.github.io/class23523/aquaparkio/"
-thumbnail: "/new-images/aquaparkio.jpg"
+thumbnail: /new-images/thumbnails/aquaparkio.jpg
 urlstr: "aquaparkio"
 score: "4.9/5  (169 votes)"
 tags: ["casual", "racing"]

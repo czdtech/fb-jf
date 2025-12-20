@@ -6,7 +6,7 @@ description: >-
   Night Watchman은 어두운 폐건물에서 야간 경비원으로 근무하며, 감시 카메라와 제한된
   전력을 관리해 정체불명의 위협을 새벽까지 견뎌야 하는 호러 생존 게임입니다.
 iframeSrc: 'https://g2.igroutka.ru/lib/crazy/games/night-watchman/'
-thumbnail: /new-images/night-watchman.jpg
+thumbnail: /new-images/thumbnails/night-watchman.jpg
 tags:
   - horror
   - survival

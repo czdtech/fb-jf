@@ -6,7 +6,7 @@ description: >-
   원형으로 배치된 알파벳을 이어 단어를 만드는 퍼즐 게임입니다. 문자를 스와이프해 영어 단어를
   완성하고, 십자말풀이처럼 배열된 빈칸을 모두 채우며 어휘력을 키워 보세요.
 iframeSrc: 'https://previews.customer.envatousercontent.com/files/309288677/index.html'
-thumbnail: /new-images/word-connect.jpg
+thumbnail: /new-images/thumbnails/word-connect.jpg
 tags:
   - word-game
   - puzzle

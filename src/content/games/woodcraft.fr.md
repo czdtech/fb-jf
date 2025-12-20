@@ -6,7 +6,7 @@ description: >-
   Woodcraft est un jeu de création relaxant : fabrique des objets en bois avec
   précision rythmique, complète les commandes et débloque de nouveaux outils.
 iframeSrc: 'https://g2.igroutka.ru/games/164/i06q7hMeRCsWOPKy/woodcraft/'
-thumbnail: /new-images/woodcraft.jpg
+thumbnail: /new-images/thumbnails/woodcraft.jpg
 tags:
   - casual
   - rhythm

@@ -6,7 +6,7 @@ description: >-
   크리스마스 캐럴 'Carol of the Bells'를 중심으로 만든 팬메이드 Incredibox 모드 'Incredibox Andlbox
   Carol of the Bells' 가이드입니다. 캐럴 테마의 사운드와 게임플레이, 특별한 홀리데이 보너스를 여는 방법을 소개합니다.
 iframeSrc: 'https://turbowarp.org/931427102/embed'
-thumbnail: /new-images/incredibox-carol-of-the-bells.png
+thumbnail: /new-images/thumbnails/incredibox-carol-of-the-bells.png
 tags:
   - music
   - christmas

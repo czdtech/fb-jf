@@ -2,7 +2,7 @@
 title: "Bricks Breaker ブリックス・ブレイカー"
 description: "「Bricks Breaker」は不朽の名作ブロック崩しの現代版。パドルでボールを打ち返し、全てのレンガを破壊しよう。マルチボールやレーザーなどのパワーアップも魅力。"
 iframeSrc: "https://8k4jssm0a1f0o.h5games.usercontent.goog/v/1hioq97j28ts0/"
-thumbnail: "/new-images/bricks-breaker.png"
+thumbnail: /new-images/thumbnails/bricks-breaker.jpg
 urlstr: "bricks-breaker"
 score: "4.4/5  (1984 votes)"
 tags: ["action", "casual", "flash"]

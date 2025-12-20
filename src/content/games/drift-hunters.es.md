@@ -6,7 +6,7 @@ description: >-
   Drift Hunters es un simulador de derrapes en 3D: ajusta el coche, encadena
   derrapes y acumula puntos en distintos circuitos.
 iframeSrc: 'https://webglmath.github.io/drift-hunters/'
-thumbnail: /new-images/drift-hunters.jpg
+thumbnail: /new-images/thumbnails/drift-hunters.jpg
 tags:
   - racing
   - simulation

@@ -2,7 +2,7 @@
 title: "Neon Dash"
 description: "Neon Dashはリズムに合わせて走るランナーゲームです。ネオンの障害物を避け、ジャンプのタイミングを合わせて進みます。"
 iframeSrc: "https://neondash.h5games.usercontent.goog/v/40hv1v2l6h6j8/"
-thumbnail: "/new-images/neon-dash.png"
+thumbnail: /new-images/thumbnails/neon-dash.png
 urlstr: "neon-dash"
 score: "4.3/5  (2345 votes)"
 tags: ["action", "casual"]

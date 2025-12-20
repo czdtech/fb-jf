@@ -2,7 +2,7 @@
 title: Merge the Gems
 description: Merge the Gemsは宝石をマージして育てるパズルです。盤面を整理しながら合体を重ね、上位の宝石を作ります。
 iframeSrc: 'https://3qfbk0i6e2dr0.h5games.usercontent.goog/v/6bh1v32k8vje0/'
-thumbnail: /new-images/merge-the-gems.png
+thumbnail: /new-images/thumbnails/merge-the-gems.jpg
 urlstr: merge-the-gems
 score: 4.1/5  (1845 votes)
 tags:

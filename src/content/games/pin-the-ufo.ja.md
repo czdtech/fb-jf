@@ -2,7 +2,7 @@
 title: Pin the UFO
 description: Pin the UFOは物理パズルです。ピンを抜く順番を考え、重力の動きを利用してUFOまで導きます。
 iframeSrc: 'https://pintheufo.h5games.usercontent.goog/v/5k9j2m8h7p3n8/'
-thumbnail: /new-images/pin-the-ufo.png
+thumbnail: /new-images/thumbnails/pin-the-ufo.jpeg
 urlstr: pin-the-ufo
 score: 4.0/5  (1723 votes)
 tags:

@@ -4,7 +4,7 @@ locale: en
 title: "Stick War"
 description: "Lead your stickman army to victory in Stick War, a classic real-time strategy game. Mine for gold, train a variety of units like swordsmen, archers, and giants, and command them in battle. Destroy the enemy statue while defending your own to conquer the land of Inamorta."
 iframeSrc: "https://www.gamenora.com/upload/games/swf/stick_war/"
-thumbnail: "/new-images/stick-war.jpg"
+thumbnail: /new-images/thumbnails/stick-war.jpg
 urlstr: "stick-war"
 score: "3.6/5  (1080 votes)"
 tags: ["strategy", "rts", "war"]

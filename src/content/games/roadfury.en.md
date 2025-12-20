@@ -3,7 +3,7 @@ locale: en
 title: "Road Fury"
 description: "An action-packed vertical shoot-'em-up on the highway! Control your armed vehicle, destroy enemy cars, and collect coins to upgrade your weapons and armor to survive the fury of the road."
 iframeSrc: "https://roadfury.h5games.usercontent.goog/v/6u0uos6j6vvl0/"
-thumbnail: "/new-images/roadfury.png"
+thumbnail: /new-images/thumbnails/roadfury.png
 urlstr: "roadfury"
 score: "4.3/5  (2450 votes)"
 tags: ["action", "shooting", "driving"]

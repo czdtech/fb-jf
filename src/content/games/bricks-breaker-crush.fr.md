@@ -4,7 +4,7 @@ urlstr: bricks-breaker-crush
 title: "Bricks Breaker Crush"
 description: "Bricks Breaker Crush est un jeu de tirs de balles contre des briques numérotées : vise des angles longs, récupère des balles bonus et empêche le mur de toucher le bas."
 iframeSrc: "https://7uvo1rchfrhr8.h5games.usercontent.goog/v/4tk6unop5lefg/"
-thumbnail: /new-images/bricks-breaker-crush.png
+thumbnail: /new-images/thumbnails/bricks-breaker-crush.png
 tags:
   - puzzle
   - thinky

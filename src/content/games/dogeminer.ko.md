@@ -6,7 +6,7 @@ description: >-
   DogeMiner는 코인을 채굴해 업그레이드와 도우미를 구매하고, 생산을 자동화해 점점 더 빠르게
   수익을 올리는 방치형 클릭커 게임입니다.
 iframeSrc: 'https://edufall.github.io/o16/doge-miner/'
-thumbnail: /new-images/dogeminer.jpg
+thumbnail: /new-images/thumbnails/dogeminer.jpg
 tags:
   - idle
   - clicker

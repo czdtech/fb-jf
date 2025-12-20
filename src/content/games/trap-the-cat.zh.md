@@ -4,7 +4,7 @@ urlstr: trap-the-cat
 title: 《Trap the Cat》围住小猫
 description: 《Trap the Cat》是一款策略向的围堵解谜游戏。你需要在六边形格子上布置障碍，封死小猫的逃跑路线，在它跑到边缘之前将其围困。
 iframeSrc: 'https://freeonlinegames.github.io/cat-trap.html'
-thumbnail: /new-images/trap-the-cat.jpg
+thumbnail: /new-images/thumbnails/trap-the-cat.jpg
 tags:
   - strategy
   - puzzle

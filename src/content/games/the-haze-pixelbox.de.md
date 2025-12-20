@@ -4,7 +4,7 @@ urlstr: the-haze-pixelbox
 title: "The Haze Pixelbox - Play The Haze Pixelbox Online"
 description: "Egal ob du Musikerfahrung hast oder einfach neugierig bist – The Haze Pixelbox lässt dich mit einem Stamm aus Beatboxern experimentieren und mit tribal‑Sounds kreative Tracks bauen."
 iframeSrc: 'https://turbowarp.org/1020955547/embed'
-thumbnail: /the-haze-pixelbox.png
+thumbnail: /new-images/thumbnails/the-haze-pixelbox.png
 tags:
   - the haze pixelbox
 score: 3.9/5  (132 votes)

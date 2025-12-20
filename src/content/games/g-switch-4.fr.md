@@ -5,7 +5,7 @@ title: "G-Switch 4"
 description: "Dernier opus du runner gravitationnel : commandes affinées, chaînes de pièges retorses et courses locales compétitives pour de nombreux joueurs."
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp45/gamehwq/20231127/09/index.html
-thumbnail: /new-images/g-switch-4.jpg
+thumbnail: /new-images/thumbnails/g-switch-4.jpg
 tags:
   - runner
   - platformer

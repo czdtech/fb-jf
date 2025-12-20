@@ -7,7 +7,7 @@ description: >-
   음악 제작 도구의 재미를 동시에 담은 작품으로, 남녀노소 누구나 직관적인 조작만으로
   자신만의 비트와 멜로디를 만들어볼 수 있는 리듬 게임입니다.
 iframeSrc: 'https://nom74100.github.io/in-box/'
-thumbnail: /Incredibox.png
+thumbnail: /new-images/thumbnails/incredibox.png
 tags:
   - incredibox
   - incredibox online

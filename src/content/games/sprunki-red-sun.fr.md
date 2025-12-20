@@ -7,7 +7,7 @@ description: >-
   rouge brûlante, avec des personnages en fusion et des sons puissants comme une
   tempête solaire.
 iframeSrc: 'https://kdata1.com/2025/02/sprunki-x-redsun/'
-thumbnail: /sprunki-red-sun.png
+thumbnail: /new-images/thumbnails/sprunki-red-sun.png
 tags:
   - sprunki red sun
 score: 4.4/5  (232 votes)

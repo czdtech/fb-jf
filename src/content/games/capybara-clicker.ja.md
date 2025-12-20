@@ -2,7 +2,7 @@
 title: Capybara Clicker カピバラ・クリッカー
 description: 「Capybara Clicker」でカピバラを増殖させよう！クリックして生産、アップグレードで自動化、そしておめかし。癒やしの放置系クリッカーゲーム。
 iframeSrc: 'https://bitlifeonline.github.io/capybara-clicker/'
-thumbnail: /new-images/capybara-clicker.jpg
+thumbnail: /new-images/thumbnails/capybara-clicker.jpg
 urlstr: capybara-clicker
 score: 4.4/5  (1397 votes)
 tags:

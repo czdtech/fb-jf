@@ -3,7 +3,7 @@ locale: en
 title: "Comfy Farm"
 description: "Welcome to Comfy Farm! Plant seeds, water your crops, and harvest them for profit. Protect your plants from pests and use your earnings to upgrade and expand your very own cozy farm."
 iframeSrc: "https://comfyfarm.h5games.usercontent.goog/v/73m7i3ndifhg0/"
-thumbnail: "/new-images/comfy-farm.png"
+thumbnail: /new-images/thumbnails/comfy-farm.png
 urlstr: "comfy-farm"
 score: "4.3/5  (2000 votes)"
 tags: ["casual", "strategy", "clicker"]

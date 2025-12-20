@@ -8,7 +8,7 @@ description: >-
   Rocket das Handwerk und trittst schließlich als Herausforderer der
   Pokémon-Liga an.
 iframeSrc: 'https://picklekid31.github.io/GBA-unblocked-games/launcher.html#pokemonred'
-thumbnail: /new-images/pokemon-fire-red.jpg
+thumbnail: /new-images/thumbnails/pokemon-fire-red.jpg
 tags:
   - rpg
   - adventure

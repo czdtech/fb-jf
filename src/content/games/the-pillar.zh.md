@@ -4,7 +4,7 @@ urlstr: the-pillar
 title: 《The Pillar》石柱解谜之旅
 description: 《The Pillar》是一款第一人称视角的环境解谜游戏。你将游走于神秘岛屿与高耸石柱之间，通过观察线索、解开机关谜题，逐步探索这个世界背后的秘密。
 iframeSrc: 'https://thepillar.h5games.usercontent.goog/v/1n7c3b9k4p2v0/'
-thumbnail: /new-images/the-pillar.jpg
+thumbnail: /new-images/thumbnails/the-pillar.jpg
 tags:
   - puzzle
   - exploration

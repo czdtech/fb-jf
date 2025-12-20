@@ -7,7 +7,7 @@ description: >-
   Ragdoll-Bogenschützen steuerst, Pfeile auf Gegner feuern lässt und dank
   schräger Physik jede Runde chaotisch und lustig verläuft.
 iframeSrc: 'https://bitlifeonline.github.io/ragdoll-archers/'
-thumbnail: /new-images/ragdoll-archers.jpg
+thumbnail: /new-images/thumbnails/ragdoll-archers.jpg
 tags:
   - physics
   - archery

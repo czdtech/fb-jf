@@ -2,7 +2,7 @@
 title: "Sky Tower"
 description: "Sky Towerはタワー構築ゲームです。ブロックを積み重ね、タワーを構築し、バランスを保ち、できるだけ高く構築します。"
 iframeSrc: "https://skytower.h5games.usercontent.goog/v/5k9j2m8h7p3n8/"
-thumbnail: "/new-images/sky-tower.png"
+thumbnail: /new-images/thumbnails/sky-tower.png
 urlstr: "sky-tower"
 score: "4.1/5  (1823 votes)"
 tags: ["casual", "thinky"]

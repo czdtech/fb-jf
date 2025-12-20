@@ -2,7 +2,7 @@
 title: "Incredibox Donki Abgerny - Play Incredibox Donki Abgerny Online"
 description: "Incredibox Donki Abgernyは、部族的なリズムやチャントを意識したサウンドでミックスを作るファンメイドModです。"
 iframeSrc: "https://turbowarp.org/1135326100/embed"
-thumbnail: "/incredibox-donki-abgerny.png"
+thumbnail: /new-images/thumbnails/incredibox-donki-abgerny.png
 urlstr: "incredibox-donki-abgerny"
 score: "4.3/5  (154 votes)"
 tags: ["incredibox donki abgerny"]

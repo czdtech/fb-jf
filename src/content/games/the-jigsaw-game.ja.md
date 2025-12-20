@@ -2,7 +2,7 @@
 title: The Jigsaw Game
 description: The Jigsaw Gameは、クラシックなジグソーパズルゲームです。ピースを組み合わせて美しい画像を完成させましょう。
 iframeSrc: 'https://ubg98.github.io/TheJigsawGame/'
-thumbnail: /new-images/the-jigsaw-game.jpg
+thumbnail: /new-images/thumbnails/the-jigsaw-game.png
 urlstr: the-jigsaw-game
 score: 4.3/5  (2134 votes)
 tags:

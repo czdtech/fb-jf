@@ -7,7 +7,7 @@ description: >-
   다양한 모양의 블록을 전략적으로 배치해 공간을 관리하며 높은 점수를 노려
   보세요.
 iframeSrc: 'https://62dfg8ps4f7lg.h5games.usercontent.goog/v/0k3gcfq0ljti8/'
-thumbnail: /new-images/block-dimension.png
+thumbnail: /new-images/thumbnails/block-dimension.png
 tags:
   - puzzle
   - thinky

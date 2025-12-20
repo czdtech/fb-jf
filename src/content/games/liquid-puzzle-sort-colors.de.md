@@ -7,7 +7,7 @@ description: >-
   farbige Flüssigkeiten nach Farben in die Flaschen, plane Puffer clever ein
   und löse jedes Level, ohne in eine Sackgasse zu geraten.
 iframeSrc: 'https://1b6vgcuid4b98.h5games.usercontent.goog/v/2vus27k78710o/'
-thumbnail: /new-images/liquid-puzzle-sort-colors.jpg
+thumbnail: /new-images/thumbnails/liquid-puzzle-sort-colors.jpg
 tags:
   - puzzle
   - thinky

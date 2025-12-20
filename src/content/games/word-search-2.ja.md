@@ -2,7 +2,7 @@
 title: Word Search 2
 description: Word Search 2は、単語検索ゲームの続編です。より多くの単語とレベルで楽しめます。
 iframeSrc: 'https://ubg98.github.io/WordSearch2/'
-thumbnail: /new-images/word-search-2.jpg
+thumbnail: /new-images/thumbnails/word-search-2.jpg
 urlstr: word-search-2
 score: 4.4/5  (2654 votes)
 tags:

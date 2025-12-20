@@ -7,7 +7,7 @@ description: >-
   Horror-Fan-Mod. Dieser Guide erklärt die monströse, industrielle Soundpalette
   und gibt Tipps für furchteinflößende Soundscapes.
 iframeSrc: 'https://turbowarp.org/1041902515/embed'
-thumbnail: /new-images/incredibox-creatophobos.png
+thumbnail: /new-images/thumbnails/incredibox-creatophobos.png
 tags:
   - music
   - horror

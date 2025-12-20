@@ -3,7 +3,7 @@ locale: en
 title: "Color Jump"
 description: "Color Jump is a one‑tap runner — match colors, time jumps, and thread through shifting patterns."
 iframeSrc: "https://2sqb7s6hkuouo.h5games.usercontent.goog/v/251huhkdnons0/"
-thumbnail: "/new-images/color-jump.png"
+thumbnail: /new-images/thumbnails/color-jump.png
 urlstr: "color-jump"
 score: "3.9/5  (1691 votes)"
 tags: ["action", "casual"]

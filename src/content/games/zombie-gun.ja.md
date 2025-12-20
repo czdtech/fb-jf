@@ -2,7 +2,7 @@
 title: Zombie Gun
 description: Zombie Gunは、ゾンビシューティングゲームです。ゾンビの群れを撃って生き残りましょう。
 iframeSrc: 'https://ubg98.github.io/ZombieGun/'
-thumbnail: /new-images/zombie-gun.jpg
+thumbnail: /new-images/thumbnails/zombie-gun.png
 urlstr: zombie-gun
 score: 4.4/5  (2876 votes)
 tags:

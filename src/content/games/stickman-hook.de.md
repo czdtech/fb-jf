@@ -7,7 +7,7 @@ description: >-
   durch die Level, weichst Hindernissen aus und landest akrobatische Moves bis
   ins Ziel.
 iframeSrc: 'https://ubg98.github.io/StickmanHook/'
-thumbnail: /new-images/stickman-hook.jpg
+thumbnail: /new-images/thumbnails/stickman-hook.jpg
 tags:
   - physics
   - swinging

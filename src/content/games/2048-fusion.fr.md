@@ -4,7 +4,7 @@ urlstr: 2048-fusion
 title: "2048 Fusion"
 description: "2048 Fusion est une version moderne du classique 2048 : fais glisser les tuiles numérotées, fusionne les doublons et vise la tuile 2048 – et plus si affinités." 
 iframeSrc: 'https://7t79nelq6lu50.h5games.usercontent.goog/v/7jm0opa5dtf00/'
-thumbnail: /new-images/2048-fusion.png
+thumbnail: /new-images/thumbnails/2048-fusion.png
 tags:
   - puzzle
   - thinky

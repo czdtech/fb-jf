@@ -2,7 +2,7 @@
 title: Tiny Football Cup
 description: Tiny Football Cupは、ミニサッカーゲームです。小さなフィールドで激しい試合を楽しみましょう。
 iframeSrc: 'https://ubg98.github.io/TinyFootballCup/'
-thumbnail: /new-images/tiny-football-cup.jpg
+thumbnail: /new-images/thumbnails/tiny-football-cup.png
 urlstr: tiny-football-cup
 score: 4.3/5  (2345 votes)
 tags:

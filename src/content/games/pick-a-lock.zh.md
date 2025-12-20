@@ -5,7 +5,7 @@ title: "《Pick a Lock》节奏开锁挑战"
 description: >-
   《Pick a Lock》是一款极简风节奏+时机游戏，你需要在指针旋转经过标记点的瞬间点击，连续命中所有标记才能成功解锁越来越刁钻的锁。
 iframeSrc: 'https://17ul52pgrglf0.h5games.usercontent.goog/v/5b4f1rj0on970/'
-thumbnail: /new-images/pick-a-lock.jpg
+thumbnail: /new-images/thumbnails/pick-a-lock.jpg
 tags:
   - puzzle
   - thinky

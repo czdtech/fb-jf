@@ -2,7 +2,7 @@
 title: DogeMiner ドージ・マイナー
 description: 「DogeMiner」は柴犬（Doge）が主役の放置系クリッカーゲーム。採掘してコインを稼ぎ、仲間を雇い、ロケットを作って月へ行こう。Wow！
 iframeSrc: 'https://edufall.github.io/o16/doge-miner/'
-thumbnail: /new-images/dogeminer.jpg
+thumbnail: /new-images/thumbnails/dogeminer.jpg
 urlstr: dogeminer
 score: 4.2/5  (905 votes)
 tags:

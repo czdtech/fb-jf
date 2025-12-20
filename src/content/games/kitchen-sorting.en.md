@@ -3,7 +3,7 @@ locale: en
 title: "Kitchen Sorting"
 description: "Kitchen Sorting is a tidy categorization puzzler — sort foods, tools, and waste correctly under time pressure while avoiding cross‑contamination."
 iframeSrc: "https://757entlesmh4g.h5games.usercontent.goog/v/1r9oimecfevc0/"
-thumbnail: "/new-images/kitchen-sorting.png"
+thumbnail: /new-images/thumbnails/kitchen-sorting.png
 urlstr: "kitchen-sorting"
 score: "3.9/5  (1744 votes)"
 tags: ["puzzle", "thinky", "casual"]

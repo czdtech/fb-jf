@@ -4,7 +4,7 @@ locale: en
 title: "Spacebar Clicker"
 description: "Test your clicking speed with Spacebar Clicker, an addictive incremental game. Press the spacebar to earn points and use them to buy powerful upgrades. Automate your clicks and multiply your earnings to see how high you can score in this simple yet engaging clicker game."
 iframeSrc: "https://spacebarclicker.co/game/spacebar-counter/"
-thumbnail: "/new-images/spacebar-clicker.jpg"
+thumbnail: /new-images/thumbnails/spacebar-clicker.jpg
 urlstr: "spacebar-clicker"
 score: "4.1/5  (866 votes)"
 tags: ["clicker", "idle", "skill"]

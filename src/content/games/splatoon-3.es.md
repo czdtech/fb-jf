@@ -9,7 +9,7 @@ description: >-
   recargar tu arma. Domina el movimiento y el trabajo en equipo para dominar el
   terreno.
 iframeSrc: "https://bitlifeonline.github.io/splatoon-3/"
-thumbnail: "/new-images/splatoon-3.jpg"
+thumbnail: /new-images/thumbnails/splatoon-3.jpg
 tags:
   - action
   - shooting

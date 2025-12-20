@@ -4,7 +4,7 @@ urlstr: incredibox-yaboo
 title: "Incredibox YaBoo - 在线玩 Incredibox YaBoo"
 description: "深入探索粉丝制作的 Incredibox YaBoo Mod。本指南涵盖了其独特的音色调色板、音乐创作玩法，以及如何解锁其主题奖励。"
 iframeSrc: 'https://turbowarp.org/1095206379/embed'
-thumbnail: /new-images/incredibox-yaboo.png
+thumbnail: /new-images/thumbnails/incredibox-yaboo.png
 tags:
   - music
   - rhythm

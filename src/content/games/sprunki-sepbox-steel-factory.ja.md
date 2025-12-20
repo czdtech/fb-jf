@@ -3,7 +3,7 @@ title: Sprunki x SepBox Steel Factory - Play Sprunki x SepBox Steel Factory Onli
 description: >-
   Sprunki x SepBox Steel Factoryは工場（スチール工場）風のサウンドで音作りをするModです。金属音や機械音を重ねて産業的なトラックを作れます。
 iframeSrc: 'https://turbowarp.org/1173992963/embed'
-thumbnail: /sprunki-sepbox-steel-factory.png
+thumbnail: /new-images/thumbnails/sprunki-sepbox-steel-factory.png
 urlstr: sprunki-sepbox-steel-factory
 score: 4.1/5  (298 votes)
 tags:

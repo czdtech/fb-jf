@@ -6,7 +6,7 @@ description: >-
   properties with the goal of bankrupting their opponents and becoming the
   wealthiest player.
 iframeSrc: 'https://w8.snokido.com/games/html5/monopoly/index.html'
-thumbnail: /new-images/monopoly.jpg
+thumbnail: /new-images/thumbnails/monopoly.jpg
 urlstr: monopoly
 score: 3.7/5  (1329 votes)
 tags:

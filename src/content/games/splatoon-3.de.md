@@ -4,7 +4,7 @@ urlstr: splatoon-3
 title: "Splatoon 3"
 description: "Tauche ein in die farbenfrohe Welt von Splatoon 3! In diesem actiongeladenen Shooter geht es darum, so viel Gelände wie möglich mit der Tinte deines Teams zu überziehen, als Kid zu schießen und als Squid durch eure Farbe zu gleiten, Gegner zu überraschen und deine Waffen aufzuladen."
 iframeSrc: 'https://bitlifeonline.github.io/splatoon-3/'
-thumbnail: /new-images/splatoon-3.jpg
+thumbnail: /new-images/thumbnails/splatoon-3.jpg
 tags:
   - action
   - shooting

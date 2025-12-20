@@ -2,7 +2,7 @@
 title: Wordler
 description: Wordlerは、Wordle風の単語推測ゲームです。ヒントを使って単語を推測しましょう。
 iframeSrc: 'https://ubg98.github.io/Wordler/'
-thumbnail: /new-images/wordler.jpg
+thumbnail: /new-images/thumbnails/wordler.png
 urlstr: wordler
 score: 4.4/5  (2876 votes)
 tags:

@@ -2,7 +2,7 @@
 title: "Bloxorz ブロックス"
 description: "1×2×1 のブロックを転がし、穴に直立状態で落とし込む 3D ロジックパズル Bloxorz。精密な読みと計画で 33 ステージを攻略しよう。"
 iframeSrc: "https://www.coolmathgames.com/sites/default/files/public_games/22633/"
-thumbnail: "/new-images/bloxorz.jpg"
+thumbnail: /new-images/thumbnails/bloxorz.jpg
 urlstr: "bloxorz"
 score: "4.7/5  (784 votes)"
 tags: ["puzzle", "thinky", "classic"]

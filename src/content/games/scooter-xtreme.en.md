@@ -3,7 +3,7 @@ locale: en
 title: "Scooter Xtreme 3D"
 description: "Hit the skate park in Scooter Xtreme 3D! Race through challenging courses, perform awesome stunts and grinds, and collect coins to unlock new scooters and characters."
 iframeSrc: "https://scooterxtreme.h5games.usercontent.goog/v/c842db43-7823-45bc-b575-acbd9bda5de4/"
-thumbnail: "/new-images/scooter-xtreme.jpg"
+thumbnail: /new-images/thumbnails/scooter-xtreme.jpg
 urlstr: "scooter-xtreme"
 score: "4.3/5  (2200 votes)"
 tags: ["action", "sports", "driving"]

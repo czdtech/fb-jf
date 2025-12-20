@@ -5,7 +5,7 @@ title: Bad Ice-Cream 2 坏坏冰淇淋 2
 description: 在《Bad Ice-Cream 2（坏坏冰淇淋 2）》里，你要在冰雪迷宫中一边建造/打碎冰墙，一边躲避怪物、收集所有水果，考验操作与解谜路线规划。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210128/x6/index.html
-thumbnail: /new-images/bad-ice-cream-2.jpg
+thumbnail: /new-images/thumbnails/bad-ice-cream-2.jpg
 tags:
   - puzzle
   - action

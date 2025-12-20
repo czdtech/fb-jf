@@ -7,7 +7,7 @@ description: >-
   부드러운 스와이프로 여러 조각을 한꺼번에 베어 콤보를 쌓고, 폭탄 같은 위험 요소는
   피하며 하이스코어에 도전해 보세요.
 iframeSrc: 'https://cakesliceninja.h5games.usercontent.goog/v/5bh2c88k8pku8/'
-thumbnail: /new-images/cake-slice-ninja.jpeg
+thumbnail: /new-images/thumbnails/cake-slice-ninja.jpeg
 tags:
   - action
   - casual

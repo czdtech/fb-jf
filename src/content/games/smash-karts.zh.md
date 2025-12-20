@@ -4,7 +4,7 @@ urlstr: smash-karts
 title: 《Smash Karts》武装卡丁车大乱斗
 description: 《Smash Karts》是一款多人实时卡丁车对战游戏。驾驶小车在立体场景中飞驰，拾取武器箱，用火箭、地雷等各种道具互相攻击，争夺排行榜第一。
 iframeSrc: 'https://smashkartsio.h5games.usercontent.goog/v/1jvggp08o4bj0/'
-thumbnail: /new-images/smash-karts.jpg
+thumbnail: /new-images/thumbnails/smash-karts.jpg
 tags:
   - kart
   - multiplayer

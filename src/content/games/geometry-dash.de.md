@@ -7,7 +7,7 @@ description: >-
   Pads, keine Coins – nur du, dein Schiff und enge Pixelkorridore, die dein
   Timing bis an die Grenze treiben.
 iframeSrc: 'https://turbowarp.org/1185431027/embed'
-thumbnail: /geometry-dash.png
+thumbnail: /new-images/thumbnails/geometry-dash.png
 tags:
   - geometry dash
 score: 4.5/5  (604 votes)

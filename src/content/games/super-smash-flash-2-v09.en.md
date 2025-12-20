@@ -4,7 +4,7 @@ locale: en
 title: "Super Smash Flash 2 v0.9"
 description: "Play an updated demo of Super Smash Flash 2, the epic fan-made fighting game! Featuring a huge roster of characters and deep, technical gameplay, it's the ultimate tribute to the Super Smash Bros. series. Battle it out on iconic stages and master your fighter's moveset."
 iframeSrc: "https://kdata1.com/games/SSF9_2011/?kbhgames"
-thumbnail: "/new-images/super-smash-flash-2-v09.jpg"
+thumbnail: /new-images/thumbnails/super-smash-flash-2-v09.jpg
 urlstr: "super-smash-flash-2-v09"
 score: "4.2/5  (265 votes)"
 tags: ["fighting", "platformer", "multiplayer"]

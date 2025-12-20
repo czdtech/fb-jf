@@ -5,7 +5,7 @@ modType: incredibox
 title: "Incredibox Kochari"
 description: "Incredibox Kochari is a fan-made mod that blends the classic Incredibox gameplay with the vibrant culture of the Armenian folk dance, Kochari. Create unique beats with traditional rhythms and sounds."
 iframeSrc: "https://turbowarp.org/718091148/embed"
-thumbnail: "/new-images/incredibox-kochari.png"
+thumbnail: /new-images/thumbnails/incredibox-kochari.png
 urlstr: "incredibox-kochari"
 score: "4.7/5 (2198 votes)"
 tags: ["music", "cultural"]

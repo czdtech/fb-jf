@@ -7,7 +7,7 @@ description: >-
   fonce sur le terrain, percute l’énorme ballon et marque des buts pour battre
   ton adversaire. Maîtrise conduite et visée pour remporter le match.
 iframeSrc: 'https://ubg77.github.io/edit/soccar/'
-thumbnail: /new-images/soccar.jpg
+thumbnail: /new-images/thumbnails/soccar.jpg
 tags:
   - sports
   - cars

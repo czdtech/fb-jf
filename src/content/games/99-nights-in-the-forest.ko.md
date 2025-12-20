@@ -7,7 +7,7 @@ description: >-
   공포 게임입니다. 자원을 모아 오두막을 강화하고 매일 밤 몰려오는 괴물을
   막아내세요.
 iframeSrc: 'https://st.8games.net/7/8g/igra-99-nochej-v-lesu-101-original/'
-thumbnail: /new-images/99-nights-in-the-forest.webp
+thumbnail: /new-images/thumbnails/99-nights-in-the-forest.webp
 tags:
   - horror
   - survival

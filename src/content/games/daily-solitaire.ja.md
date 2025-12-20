@@ -2,7 +2,7 @@
 title: "Daily Solitaire デイリー・ソリティア"
 description: "「Daily Solitaire」は毎日新しい挑戦が届くクロンダイク・ソリティア。24時間ごとに更新されるパズルで、スキルを試し、連続クリア記録を目指そう。"
 iframeSrc: "https://dailysolitaire.h5games.usercontent.goog/v/0e4orvvorj2mo/"
-thumbnail: "/new-images/daily-solitaire.png"
+thumbnail: /new-images/thumbnails/daily-solitaire.png
 urlstr: "daily-solitaire"
 score: "4.7/5  (3300 votes)"
 tags: ["card", "puzzle", "casual"]

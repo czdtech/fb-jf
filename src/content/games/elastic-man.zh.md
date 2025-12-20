@@ -6,7 +6,7 @@ description: >-
   Elastic Man 是一個互動小玩具，你可以盡情拉扯、戳捏這張橡膠般的臉，看它被拉變形後,
   又像果凍一樣晃回原狀。
 iframeSrc: 'https://d21u3ic0kp9e91.cloudfront.net/elasticman/0/index.html'
-thumbnail: /new-images/elastic-man.jpg
+thumbnail: /new-images/thumbnails/elastic-man.jpg
 tags:
   - simulation
   - toy

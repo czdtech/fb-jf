@@ -2,7 +2,7 @@
 title: "Secret Agent"
 description: "Secret Agentはステルスアクションゲームです。基地に侵入し、見つからないようにミッションを達成します。"
 iframeSrc: "https://secretagent.h5games.usercontent.goog/v/5k9j2m8h7p3n8/"
-thumbnail: "/new-images/secret-agent.png"
+thumbnail: /new-images/thumbnails/secret-agent.png
 urlstr: "secret-agent"
 score: "4.2/5  (2089 votes)"
 tags: ["action", "thinky", "casual"]

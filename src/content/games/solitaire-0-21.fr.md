@@ -7,7 +7,7 @@ description: >-
   place les cartes pour que la somme de chaque ligne reste entre 0 et 21, en
   équilibrant en permanence risque et sécurité.
 iframeSrc: 'https://4hcssrsmrpvv0.h5games.usercontent.goog/v/2oipnrim9ar08/'
-thumbnail: /new-images/solitaire-0-21.png
+thumbnail: /new-images/thumbnails/solitaire-0-21.png
 tags:
   - card
   - puzzle

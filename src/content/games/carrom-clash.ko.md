@@ -6,7 +6,7 @@ description: >-
   Carrom Clash는 테이블 위에서 디스크를 튕겨 포켓에 넣는 클래식 보드게임 캐롬을 디지털로 즐길 수 있는 게임입니다. 스트라이커를
   정확히 겨냥해 자신의 말을 포켓에 넣고, 퀸을 커버해 상대보다 먼저 모든 말을 정리해 보세요.
 iframeSrc: 'https://carromclash.h5games.usercontent.goog/v/4pmfd00515bbg/'
-thumbnail: /new-images/carrom-clash.png
+thumbnail: /new-images/thumbnails/carrom-clash.png
 tags:
   - sports
   - puzzle

@@ -4,7 +4,7 @@ urlstr: "mahjongg-solitaire"
 title: "Mahjongg Solitaire"
 description: "Vide le plateau dans Mahjongg Solitaire, le classique puzzle d’appariement de tuiles pour un joueur : trouve et associe des tuiles libres identiques, planifie tes coups et découvre un casse‑tête intemporel."
 iframeSrc: "https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-mahjongg-solitaire/"
-thumbnail: "/new-images/mahjongg-solitaire.jpg"
+thumbnail: /new-images/thumbnails/mahjongg-solitaire.jpg
 tags: ["puzzle", "tile-matching", "classic"]
 score: "4.5/5  (256 votes)"
 developer: ""

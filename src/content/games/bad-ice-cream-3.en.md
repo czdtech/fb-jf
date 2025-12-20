@@ -4,7 +4,7 @@ locale: en
 title: "Bad Ice Cream 3"
 description: "Master the icy puzzles of Bad Ice-Cream 3. Find expert strategies, controls, and tips to collect all fruit and outsmart new enemies in this chilly arcade adventure."
 iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210128/x5/index.html"
-thumbnail: "/new-images/bad-ice-cream-3.jpg"
+thumbnail: /new-images/thumbnails/bad-ice-cream-3.jpg
 urlstr: "bad-ice-cream-3"
 score: "4.2/5  (660 votes)"
 tags: ["puzzle", "casual"]

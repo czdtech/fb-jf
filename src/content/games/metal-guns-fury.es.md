@@ -6,7 +6,7 @@ description: >-
   Metal Guns Fury es un run and gun de estilo arcade: esquiva balas, gestiona
   tu arsenal y atraviesa oleadas de enemigos con movimientos precisos.
 iframeSrc: 'https://2fr3rldr11rpg.h5games.usercontent.goog/v/2pn2tgakfpecg/'
-thumbnail: /new-images/metal-guns-fury.jpg
+thumbnail: /new-images/thumbnails/metal-guns-fury.jpg
 tags:
   - action
   - shooting

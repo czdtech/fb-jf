@@ -7,7 +7,7 @@ description: >-
   Aprende a jugar, consigue más jonrones, domina el momento del bateo y resuelve
   las dudas más comunes.
 iframeSrc: 'https://freeonlinegames.github.io/fourth-of-july-2019.html'
-thumbnail: /new-images/baseball.jpg
+thumbnail: /new-images/thumbnails/baseball.jpg
 tags:
   - casual
   - sports

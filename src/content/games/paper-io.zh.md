@@ -5,7 +5,7 @@ title: "《Paper.io》彩纸领地大作战"
 description: >-
   《Paper.io》是一款多人领地争夺类 io 游戏，你操控一块彩色方块，通过画线围出地盘并封闭区域来扩张势力，同时要小心其他玩家切断你的尾迹将你淘汰。
 iframeSrc: 'https://mathgames66.github.io/games/html5/paperio2/'
-thumbnail: /new-images/paper-io.jpg
+thumbnail: /new-images/thumbnails/paper-io.jpg
 tags:
   - multiplayer
   - strategy

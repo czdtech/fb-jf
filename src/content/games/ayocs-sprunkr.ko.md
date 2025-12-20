@@ -6,7 +6,7 @@ description: >-
   Sprunki 스타일의 음악 만들기 게임을 감각적인 패션 콘셉트로 재해석한 모드
   AYOCS Sprunkr입니다. 새 캐릭터와 사운드로 트렌디한 비트를 만들어 보세요.
 iframeSrc: 'https://turbowarp.org/1114188520/embed'
-thumbnail: /ayocs-sprunkr.png
+thumbnail: /new-images/thumbnails/ayocs-sprunkr.png
 tags:
   - ayocs sprunkr
 score: 4.1/5  (54 votes)

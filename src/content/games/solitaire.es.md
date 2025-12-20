@@ -7,7 +7,7 @@ description: >-
   ordenas cartas en secuencias y palos concretos, intentando moverlas todas a
   las pilas de fundación y limpiar el tablero en este puzle atemporal.
 iframeSrc: "https://www.edogan.us/solitaire-js/"
-thumbnail: "/new-images/solitaire.jpg"
+thumbnail: /new-images/thumbnails/solitaire.jpg
 tags:
   - card game
   - classic

@@ -7,7 +7,7 @@ description: >-
   saga Sonic, en Sprunki Sonic vas a encontrar tu sitio. Es fácil de aprender,
   difícil de dominar y perfecto para todo tipo de jugadores.
 iframeSrc: 'https://turbowarp.org/1114980098/embed'
-thumbnail: /sprunki-sonic.png
+thumbnail: /new-images/thumbnails/sprunki-sonic.png
 tags:
   - sprunki sonic
   - sprunki sonic online

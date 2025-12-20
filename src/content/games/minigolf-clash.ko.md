@@ -6,7 +6,7 @@ description: >-
   Minigolf Clash는 경사와 뱅크 샷, 움직이는 장애물이 가득한 캐주얼 미니 골프 게임으로,
   퍼팅 각도와 세기를 읽어 파를 지키거나 멋진 트릭 샷을 노릴 수 있습니다.
 iframeSrc: 'https://7a8e5urbht3f8.h5games.usercontent.goog/v/2ptudqjkva98g/'
-thumbnail: /new-images/minigolf-clash.png
+thumbnail: /new-images/thumbnails/minigolf-clash.png
 tags:
   - sports
   - puzzle

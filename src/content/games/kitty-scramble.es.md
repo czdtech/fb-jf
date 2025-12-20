@@ -7,7 +7,7 @@ description: >-
   letras, encuentra términos del tema y limpia el tablero gracias al
   reconocimiento de patrones.
 iframeSrc: 'https://6cifr142haig8.h5games.usercontent.goog/v/1c963avg5lo9g/'
-thumbnail: /new-images/kitty-scramble.png
+thumbnail: /new-images/thumbnails/kitty-scramble.png
 tags:
   - puzzle
   - thinky

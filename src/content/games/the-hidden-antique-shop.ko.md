@@ -6,7 +6,7 @@ description: >-
   The Hidden Antique Shop은 앤틱 상점 내부를 배경으로, 어수선한 장식품 더미 속에서 숨겨진 물건을 찾아내는 숨은그림 찾기
   퍼즐 게임입니다.
 iframeSrc: 'https://hiddenantiqueshop.h5games.usercontent.goog/v/4g3l7h8sdd990/'
-thumbnail: /new-images/the-hidden-antique-shop.jpg
+thumbnail: /new-images/thumbnails/the-hidden-antique-shop.png
 tags:
   - hidden-object
   - puzzle

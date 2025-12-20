@@ -7,7 +7,7 @@ description: >-
   점프하고, 회전 공격으로 상자를 부수며 움파 열매와 크리스털을 모아 스테이지를
   클리어해 보세요.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/crash-bandicoot.html'
-thumbnail: /new-images/crash-bandicoot.jpg
+thumbnail: /new-images/thumbnails/crash-bandicoot.jpg
 tags:
   - arcade
   - platformer

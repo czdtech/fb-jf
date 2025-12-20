@@ -6,7 +6,7 @@ description: >-
   10x10 보드에 다양한 블록을 배치해 줄을 지우는 전략 퍼즐입니다. 별이 달린 블록으로 파워업을 모으고, 신중한 수로 최대 점수를 노려
   보세요.
 iframeSrc: 'https://elementblocks.h5games.usercontent.goog/v/35up5t7ao24i8/'
-thumbnail: /new-images/element-blocks.png
+thumbnail: /new-images/thumbnails/element-blocks.png
 tags:
   - puzzle
   - thinky

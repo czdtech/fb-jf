@@ -3,7 +3,7 @@ locale: en
 title: "Diwali Lights"
 description: "Diwali Lights is a festive tap‑puzzle — light diyas in patterns, avoid overlaps, and complete glowing designs."
 iframeSrc: "https://diwalilights.h5games.usercontent.goog/v/5cddqg9lrn3kg/"
-thumbnail: "/new-images/diwali-lights.jpg"
+thumbnail: /new-images/thumbnails/diwali-lights.jpg
 urlstr: "diwali-lights"
 score: "4.1/5  (1835 votes)"
 tags: ["puzzle", "casual"]

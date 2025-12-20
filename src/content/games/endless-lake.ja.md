@@ -2,7 +2,7 @@
 title: Endless Lake エンドレス・レイク
 description: 「Endless Lake」はミニマルなエンドレスランナー。タップでジャンプ、空中で再タップして二段ジャンプ。湖に浮かぶ足場を渡り、どこまでも走り続けろ。
 iframeSrc: 'https://3llnkqqmic17g.h5games.usercontent.goog/v/0e8uaqritcs8o/'
-thumbnail: /new-images/endless-lake.png
+thumbnail: /new-images/thumbnails/endless-lake.png
 urlstr: endless-lake
 score: 4.2/5  (1900 votes)
 tags:

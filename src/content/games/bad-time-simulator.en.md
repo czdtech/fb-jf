@@ -4,7 +4,7 @@ locale: en
 title: "Bad Time Simulator"
 description: "A detailed guide to the Bad Time Simulator, a fan-made game simulating the difficult Sans boss fight. Includes an introduction, gameplay strategy, controls, and FAQ."
 iframeSrc: "https://gotoanddie.github.io/c2-sans-fight/"
-thumbnail: "/new-images/bad-time-simulator.jpg"
+thumbnail: /new-images/thumbnails/bad-time-simulator.jpg
 urlstr: "bad-time-simulator"
 score: "4.6/5  (1058 votes)"
 tags: ["casual", "rhythm"]

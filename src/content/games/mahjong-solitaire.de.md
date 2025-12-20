@@ -7,7 +7,7 @@ description: >-
   freie Steine, um das Spielfeld in diesem klassischen, entspannenden
   Puzzlespiel zu leeren.
 iframeSrc: 'https://4erks8385j9eo.h5games.usercontent.goog/v/1ff4p4m8ilme8/'
-thumbnail: /new-images/mahjong-solitaire.png
+thumbnail: /new-images/thumbnails/mahjong-solitaire.png
 tags:
   - puzzle
   - card

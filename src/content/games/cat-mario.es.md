@@ -7,7 +7,7 @@ description: >-
   mundo lleno de trampas ocultas, enemigos inesperados y diseños de niveles
   engañosos en esta parodia tan difícil como divertida.
 iframeSrc: 'https://tiwb.github.io/catmario/'
-thumbnail: /new-images/cat-mario.jpg
+thumbnail: /new-images/thumbnails/cat-mario.jpg
 tags:
   - platformer
   - casual

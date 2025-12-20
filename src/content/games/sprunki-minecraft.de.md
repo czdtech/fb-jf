@@ -7,7 +7,7 @@ description: >-
   Beat, die Welt reagiert auf den Sound – und Bauen wird zur rhythmischen
   Performance.
 iframeSrc: 'https://turbowarp.org/1140459751/embed'
-thumbnail: /sprunki-minecraft.png
+thumbnail: /new-images/thumbnails/sprunki-minecraft.png
 tags:
   - sprunki minecraft
 score: 4.0/5  (212 votes)

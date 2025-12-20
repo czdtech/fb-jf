@@ -6,7 +6,7 @@ description: >-
   다각형 블록을 회전·이동해 빈틈 없이 판을 채우는 공간 퍼즐 게임입니다.
   제한된 공간과 조각 모양을 계산하며 깔끔한 해답을 찾아 보세요.
 iframeSrc: 'https://05c9vfh919cbg.h5games.usercontent.goog/v/0ki2bua5asq00/'
-thumbnail: /new-images/puzzle-pieces.png
+thumbnail: /new-images/thumbnails/puzzle-pieces.png
 tags:
   - puzzle
   - thinky

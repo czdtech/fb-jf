@@ -7,7 +7,7 @@ description: >-
   de madera al ritmo adecuado, completa pedidos y desbloquea nuevas
   herramientas y patrones en una experiencia de crafteo muy satisfactoria.
 iframeSrc: "https://g2.igroutka.ru/games/164/i06q7hMeRCsWOPKy/woodcraft/"
-thumbnail: "/new-images/woodcraft.jpg"
+thumbnail: /new-images/thumbnails/woodcraft.jpg
 tags:
   - casual
   - rhythm

@@ -2,7 +2,7 @@
 title: Super Smash Flash 2 v0.9
 description: Super Smash Flash 2 v0.9は、最新版のファン製格闘ゲームです。新しいキャラクターと改善された機能で楽しめます。
 iframeSrc: 'https://ubg98.github.io/SuperSmashFlash2v09/'
-thumbnail: /new-images/super-smash-flash-2-v09.jpg
+thumbnail: /new-images/thumbnails/super-smash-flash-2-v09.jpg
 urlstr: super-smash-flash-2-v09
 score: 4.7/5  (5124 votes)
 tags:

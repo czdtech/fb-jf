@@ -2,7 +2,7 @@
 title: Rotate
 description: Rotateは回転パズルゲームです。世界を回転させ、障害物をナビゲートし、ゴールに到達し、視点をマスターします。
 iframeSrc: 'https://rotate.h5games.usercontent.goog/v/3k9j5m8h7p2n8/'
-thumbnail: /new-images/rotate.png
+thumbnail: /new-images/thumbnails/rotate.jpg
 urlstr: rotate
 score: 4.1/5  (1867 votes)
 tags:

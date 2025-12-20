@@ -5,7 +5,7 @@ description: >-
   Stairs」は、リズミカルに階段を登り続ける中毒性抜群のゲーム。方向を素早く判断し、障害物を避けながら無限の階段を駆け上がれ！
 iframeSrc: >-
   https://g2.igroutka.ru/games/23/VDhA4aY08L01G82k/rvvASMiM/5049a071f0214371941d4c7849e75551/
-thumbnail: /new-images/climb-man.jpg
+thumbnail: /new-images/thumbnails/climb-man.png
 urlstr: climb-man
 score: 4.3/5  (515 votes)
 tags:

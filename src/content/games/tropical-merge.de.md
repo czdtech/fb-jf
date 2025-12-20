@@ -6,7 +6,7 @@ description: >-
   Tropical Merge ist ein sonniges Merge‑Abenteuer: Kombiniere Objekte, erfülle
   Quests und erweiter deine Inseln, indem du Platz und Energie clever einsetzt.
 iframeSrc: 'https://7jdqir15djng0.h5games.usercontent.goog/v/3nm4cvs4b09jo/'
-thumbnail: /new-images/tropical-merge.png
+thumbnail: /new-images/thumbnails/tropical-merge.png
 tags:
   - puzzle
   - casual

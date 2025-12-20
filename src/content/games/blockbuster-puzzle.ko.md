@@ -7,7 +7,7 @@ description: >-
   탈출용 공간을 남겨 두고, 연쇄 폭발처럼 여러 줄을 한 번에 지울 기회를
   노려 보세요.
 iframeSrc: 'https://177gd8gft04p0.h5games.usercontent.goog/v/0md288db3fuq8/'
-thumbnail: /new-images/blockbuster-puzzle.png
+thumbnail: /new-images/thumbnails/blockbuster-puzzle.png
 tags:
   - puzzle
   - thinky

@@ -7,7 +7,7 @@ description: >-
   버블로 나뉘니, 맞지 않도록 피하면서 시간 안에 모든 버블을 제거하세요.
 iframeSrc: >-
   https://app-96647.games.s3.yandex.net/96647/w4h0ydt7quklspc0jxwg9kauaiii2lnx/index.html
-thumbnail: /new-images/bubble-trouble.jpg
+thumbnail: /new-images/thumbnails/bubble-trouble.jpg
 tags:
   - arcade
   - action

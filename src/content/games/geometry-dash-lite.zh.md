@@ -7,7 +7,7 @@ description: >-
   避開尖刺與鋸齒障礙。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp45/chenling/20240221/08/index.html
-thumbnail: /new-images/geometry-dash-lite.jpg
+thumbnail: /new-images/thumbnails/geometry-dash-lite.jpg
 tags:
   - rhythm
   - platformer

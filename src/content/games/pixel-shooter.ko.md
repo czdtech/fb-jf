@@ -7,7 +7,7 @@ description: >-
   적들을 쏘아 쓰러뜨리고, 파워업과 무기 업그레이드를 모아
   스테이지를 돌파해 보세요.
 iframeSrc: 'https://a.onlineigry.net/games3/igra-piksel-shuter/index.htm'
-thumbnail: /new-images/pixel-shooter.jpg
+thumbnail: /new-images/thumbnails/pixel-shooter.jpg
 tags:
   - shooting
   - pixel art

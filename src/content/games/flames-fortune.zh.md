@@ -6,7 +6,7 @@ description: >-
   Flames & Fortune 是一款戰術感很強的卡牌式戰鬥遊戲，透過管理手牌與節奏，
   在回合中作出精準判斷，以智慧壓制對手。
 iframeSrc: 'https://0e8d16hkgti30.h5games.usercontent.goog/v/00r0qn2t79f3g/'
-thumbnail: /new-images/flames-fortune.jpg
+thumbnail: /new-images/thumbnails/flames-fortune.jpg
 tags:
   - card
   - thinky

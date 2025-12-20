@@ -7,7 +7,7 @@ description: >-
   grille, kicks lourds, hi‑hats rapides et nappes sombres pour créer des boucles
   trap intenses.
 iframeSrc: 'https://turbowarp.org/887559994/embed'
-thumbnail: /new-images/incredibox-piege-simulator.png
+thumbnail: /new-images/thumbnails/incredibox-piege-simulator.png
 tags:
   - music
   - fan-Made

@@ -2,7 +2,7 @@
 title: "SortWorks"
 description: "SortWorksはソート＆スタックのパズルです。ルールに従ってアイテムを振り分け、バッファを管理しながら詰まりを防ぎます。"
 iframeSrc: "https://293f3i461vfvo.h5games.usercontent.goog/v/31blvf8tg44g0/"
-thumbnail: "/new-images/sortworks.png"
+thumbnail: /new-images/thumbnails/sortworks.png
 urlstr: "sortworks"
 score: "4.0/5  (1889 votes)"
 tags: ["puzzle", "thinky", "casual"]

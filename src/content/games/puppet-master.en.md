@@ -4,7 +4,7 @@ locale: en
 title: "Puppet Master"
 description: "Puppet Master is a quirky physics-based puzzle game where players control a puppet character through challenging obstacles and levels by manipulating its movement and limbs to reach the goal."
 iframeSrc: "https://classroomjq.github.io/puppet-master/"
-thumbnail: "/new-images/puppet-master.jpg"
+thumbnail: /new-images/thumbnails/puppet-master.jpg
 urlstr: "puppet-master"
 score: "4.3/5  (1234 votes)"
 tags: ["puzzle", "physics", "comedy"]

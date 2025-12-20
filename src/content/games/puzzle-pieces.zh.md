@@ -5,7 +5,7 @@ title: "《Puzzle Pieces》极简方块拼图挑战"
 description: >-
   《Puzzle Pieces》是一款干净利落的方块拼图游戏，通过拖动和旋转拼图块，恰到好处地填满棋盘，不留任何空格。
 iframeSrc: 'https://05c9vfh919cbg.h5games.usercontent.goog/v/0ki2bua5asq00/'
-thumbnail: /new-images/puzzle-pieces.png
+thumbnail: /new-images/thumbnails/puzzle-pieces.png
 tags:
   - puzzle
   - thinky

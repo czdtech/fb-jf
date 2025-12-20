@@ -8,7 +8,7 @@ description: >-
   musicale simple et fun pour offrir une nouvelle expérience aux fans de
   Sprunki et d’Incredibox.
 iframeSrc: 'https://html-classic.itch.zone/html/14634762/index.html'
-thumbnail: /sprunki-1996.png
+thumbnail: /new-images/thumbnails/sprunki-1996.png
 tags:
   - sprunki 1996
 score: 4.0/5  (122 votes)

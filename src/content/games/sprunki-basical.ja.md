@@ -2,7 +2,7 @@
 title: "Sprunki Basical - Play Sprunki Basical Online"
 description: "Sprunki Basicalはシンプルな操作で音を重ねて曲を作る音楽制作ゲームです。キャラクターにサウンドを割り当て、組み合わせを試しながら仕上げます。"
 iframeSrc: "https://sprunki-basical.pages.dev/"
-thumbnail: "/sprunki-basical.png"
+thumbnail: /new-images/thumbnails/sprunki-basical.png
 urlstr: "sprunki-basical"
 score: "4.4/5  (420 votes)"
 tags: ["sprunki basical", "sprunki basical online"]

@@ -4,7 +4,7 @@ urlstr: my-space-pet
 title: My Space Pet 마이 스페이스 펫
 description: 'My Space Pet에서는 우주에서 온 외계 펫 Zuub을 입양해 돌보고, 미니게임을 즐기며 펫의 집과 외형을 마음대로 꾸밀 수 있습니다.'
 iframeSrc: 'https://6jqt3hoth456g.h5games.usercontent.goog/v/6jqt3hoth456g/'
-thumbnail: /new-images/my-space-pet.png
+thumbnail: /new-images/thumbnails/my-space-pet.png
 tags:
   - casual
   - adventure

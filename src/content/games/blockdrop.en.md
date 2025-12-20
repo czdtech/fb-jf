@@ -3,7 +3,7 @@ locale: en
 title: "BlockDrop"
 description: "A classic and relaxing block puzzle game. Drag and drop the shapes onto the 10x10 grid to form complete lines and clear them from the board. How high can you score?"
 iframeSrc: "https://51vi4vae20f8o.h5games.usercontent.goog/v/66bqinuuh36b8/"
-thumbnail: "/new-images/blockdrop.png"
+thumbnail: /new-images/thumbnails/blockdrop.png
 urlstr: "blockdrop"
 score: "4.3/5  (2200 votes)"
 tags: ["puzzle", "thinky", "casual"]

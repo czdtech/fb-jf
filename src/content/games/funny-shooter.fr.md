@@ -4,7 +4,7 @@ urlstr: funny-shooter
 title: "Funny Shooter"
 description: "Prototype de shooter à vagues : affronte des ennemis déjantés, ramasse de l’argent et améliore tes armes pour survivre à des manches de plus en plus difficiles."
 iframeSrc: 'https://bitlifeonline.github.io/class2623/funny-shooter/'
-thumbnail: /new-images/funny-shooter.jpg
+thumbnail: /new-images/thumbnails/funny-shooter.jpg
 tags:
   - shooting
   - fps

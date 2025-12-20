@@ -6,7 +6,7 @@ description: >-
   Un puzzle de blocs coulissants classique : déplace les blocs en bois pour
   libérer le passage et faire sortir le bloc rouge du plateau.
 iframeSrc: 'https://unblockthat.h5games.usercontent.goog/v/6iqu63hhulkgo/'
-thumbnail: /new-images/unblock-that.png
+thumbnail: /new-images/thumbnails/unblock-that.png
 tags:
   - puzzle
   - thinky

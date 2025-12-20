@@ -6,7 +6,7 @@ description: >-
   Diner Dash es un juego de gestión de tiempo: sienta a los clientes, toma sus
   pedidos, sirve la comida y mantenlos contentos para superar cada nivel.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/diner-dash.html'
-thumbnail: /new-images/diner-dash.jpg
+thumbnail: /new-images/thumbnails/diner-dash.jpg
 tags:
   - time-management
   - strategy

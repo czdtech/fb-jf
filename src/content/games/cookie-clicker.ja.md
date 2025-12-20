@@ -2,7 +2,7 @@
 title: Cookie Clicker クッキークリッカー
 description: 「Cookie Clicker」は、元祖にして至高の放置ゲーム。クッキーを焼き、おばあちゃんを雇い、宇宙すらクッキーに変えていく、中毒性抜群のクリッカー。
 iframeSrc: 'https://cookie-clicker.github.io/'
-thumbnail: /new-images/cookie-clicker.png
+thumbnail: /new-images/thumbnails/cookie-clicker.jpg
 urlstr: cookie-clicker
 score: 4.7/5  (8192 votes)
 tags:

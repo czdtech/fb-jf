@@ -2,7 +2,7 @@
 title: Reversi Mania
 description: Reversi Maniaは定番の戦略ボードゲーム（オセロ）です。相手の石を挟んで裏返し、終局時に多い方が勝ちです。
 iframeSrc: 'https://reversimania.h5games.usercontent.goog/v/5k9j2m8h7p3n8/'
-thumbnail: /new-images/reversi-mania.png
+thumbnail: /new-images/thumbnails/reversi-mania.png
 urlstr: reversi-mania
 score: 4.3/5  (2345 votes)
 tags:

@@ -4,7 +4,7 @@ urlstr: we-become-what-we-behold
 title: "We Become What We Behold"
 description: "Erkunde in We Become What We Behold, wie Medien und Sensationsgier eine Gesellschaft formen: Knipse Nachrichten‑Schnappschüsse, sieh zu, wie sich dein Fokus auf dem Bildschirm widerspiegelt, und erlebe die Folgen eines dauernden Blicks auf das Negative." 
 iframeSrc: 'https://html5.iclouds.io/we-become-behold/index.html'
-thumbnail: /new-images/we-become-what-we-behold.jpg
+thumbnail: /new-images/thumbnails/we-become-what-we-behold.jpg
 tags:
   - satire
   - social-commentary

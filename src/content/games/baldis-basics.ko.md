@@ -7,7 +7,7 @@ description: >-
   공략입니다. 공책을 모으고, 아이템을 활용해 발디와 기묘한 인물들을 피해
   학교에서 탈출해 보세요.
 iframeSrc: 'https://html5.iclouds.io/baldis-basics/index.html'
-thumbnail: /new-images/baldis-basics.jpg
+thumbnail: /new-images/thumbnails/baldis-basics.jpg
 tags:
   - puzzle
   - horror

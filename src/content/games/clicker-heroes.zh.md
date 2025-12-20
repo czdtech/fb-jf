@@ -7,7 +7,7 @@ description: >-
   Ancients（远古之神）培养思路，到操作技巧与常见问题解答，帮助你高效推进这款极具黏
   性的放置/点击游戏。
 iframeSrc: 'https://cdn.clickerheroes.com/gamebuild/'
-thumbnail: /new-images/clicker-heroes.jpg
+thumbnail: /new-images/thumbnails/clicker-heroes.jpg
 tags:
   - clicker
   - casual

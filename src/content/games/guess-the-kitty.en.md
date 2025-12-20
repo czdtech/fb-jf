@@ -4,7 +4,7 @@ locale: en
 title: "Guess the Kitty"
 description: "Picture quiz with cats: deduce the correct breed/feature from images and hints; progress through themed rounds." 
 iframeSrc: "https://webglmath.github.io/guess-the-kitty/"
-thumbnail: "/new-images/guess-the-kitty.jpg"
+thumbnail: /new-images/thumbnails/guess-the-kitty.jpg
 urlstr: "guess-the-kitty"
 score: "3.8/5  (727 votes)"
 tags: ["trivia", "puzzle"]

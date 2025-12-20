@@ -3,7 +3,7 @@ locale: en
 title: "Word Detector"
 description: "Put your vocabulary to the test! Find and trace hidden words in a grid of letters. Connect letters in any direction to form words and clear the board before time runs out."
 iframeSrc: "https://worddetector.h5games.usercontent.goog/v/4gaf9ej9hp398/"
-thumbnail: "/new-images/word-detector.png"
+thumbnail: /new-images/thumbnails/word-detector.png
 urlstr: "word-detector"
 score: "4.4/5  (2350 votes)"
 tags: ["puzzle", "thinky", "casual"]

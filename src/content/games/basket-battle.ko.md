@@ -6,7 +6,7 @@ description: >-
   Basket Battle은 물리 기반 농구 대전 미니게임입니다. 슛 각도와 힘을 맞추고
   리바운드를 장악해 짧은 한 판에서 상대보다 더 많은 점수를 넣어 보세요.
 iframeSrc: 'https://1e2ocejsf0rm8.h5games.usercontent.goog/v/093f1a2jf2p98/'
-thumbnail: /new-images/basket-battle.png
+thumbnail: /new-images/thumbnails/basket-battle.png
 tags:
   - sports
   - basketball

@@ -7,7 +7,7 @@ description: >-
   멀티플레이 탱크 배틀 게임입니다. 벽에 튕기는 탄을 이용해 간접 사격으로
   마지막까지 살아남으세요.
 iframeSrc: 'https://www.friv2018.com/games/html5/tank-trouble-2/'
-thumbnail: /new-images/tank-trouble.jpg
+thumbnail: /new-images/thumbnails/tank-trouble.jpg
 tags:
   - multiplayer
   - action

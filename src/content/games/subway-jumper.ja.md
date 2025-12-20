@@ -2,7 +2,7 @@
 title: Subway Jumper
 description: Subway Jumperは、地下鉄を走り抜けるエンドレスランナーゲームです。ジャンプ、スライド、避けながらできるだけ遠くまで走りましょう。
 iframeSrc: 'https://ubg98.github.io/SubwayJumper/'
-thumbnail: /new-images/subway-jumper.jpg
+thumbnail: /new-images/thumbnails/subway-jumper.png
 urlstr: subway-jumper
 score: 4.4/5  (3267 votes)
 tags:

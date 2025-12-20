@@ -6,7 +6,7 @@ description: >-
   《Jigsaw Puzzle
   Deluxe》把经典拼图体验搬上屏幕，你可以从大量精美图集中选择喜欢的图片，按不同难度拆分为碎片，一块块拼回完整画面，适合新手和老手。
 iframeSrc: 'https://jigsawpuzzledeluxe.h5games.usercontent.goog/v/5jfat3ipu2790/'
-thumbnail: /new-images/jigsaw-puzzle-deluxe.png
+thumbnail: /new-images/thumbnails/jigsaw-puzzle-deluxe.png
 tags:
   - puzzle
   - casual

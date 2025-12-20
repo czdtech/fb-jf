@@ -8,7 +8,7 @@ description: >-
   disparar y tirarse mutuamente de los edificios con divertidísimas animaciones
   ragdoll.
 iframeSrc: "https://webglmath.github.io/rooftop-snipers/"
-thumbnail: "/new-images/rooftop-snipers.jpg"
+thumbnail: /new-images/thumbnails/rooftop-snipers.jpg
 tags:
   - shooting
   - physics

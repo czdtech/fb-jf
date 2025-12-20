@@ -3,7 +3,7 @@ locale: en
 title: "Drifting mania"
 description: "Drifting mania tests top‑down drift control — feather throttle, link slides, and master corner rhythm."
 iframeSrc: "https://6r2lv8eg0tif8.h5games.usercontent.goog/v/56d4ef8srjpfg/"
-thumbnail: "/new-images/drifting-mania.png"
+thumbnail: /new-images/thumbnails/drifting-mania.png
 urlstr: "drifting-mania"
 score: "3.8/5  (1640 votes)"
 tags: ["car", "driving"]

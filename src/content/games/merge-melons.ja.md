@@ -2,7 +2,7 @@
 title: Merge Melons
 description: Merge Melonsはメロンをマージして大きくするパズルです。ボードが埋まらないように整理しながら、上位のフルーツを作ります。
 iframeSrc: 'https://6r0dkkqj85ht0.h5games.usercontent.goog/v/13onlef6et2sg/'
-thumbnail: /new-images/merge-melons.png
+thumbnail: /new-images/thumbnails/merge-melons.png
 urlstr: merge-melons
 score: 4.1/5  (1834 votes)
 tags:

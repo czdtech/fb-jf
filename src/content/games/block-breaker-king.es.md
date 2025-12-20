@@ -7,7 +7,7 @@ description: >-
   gestiona los potenciadores y controla la velocidad de la bola para limpiar la
   pantalla con la máxima eficiencia.
 iframeSrc: 'https://40p3ck71ovs88.h5games.usercontent.goog/v/36e5gjc5plhi8/'
-thumbnail: /new-images/block-breaker-king.png
+thumbnail: /new-images/thumbnails/block-breaker-king.png
 tags:
   - puzzle
   - casual

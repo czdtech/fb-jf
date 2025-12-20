@@ -6,7 +6,7 @@ description: >-
   Futoshiki 是一種強化邏輯的拉丁方格謎題——在保證每行每列數字不重複的前提下，
   還必須滿足格子間的「大於／小於」不等式，利用這些約束做出優雅推理。
 iframeSrc: 'https://6g7i64vihegl0.h5games.usercontent.goog/v/7bd886r75d4ag/'
-thumbnail: /new-images/futoshiki.jpg
+thumbnail: /new-images/thumbnails/futoshiki.jpg
 tags:
   - puzzle
   - thinky

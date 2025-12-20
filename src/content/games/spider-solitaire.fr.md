@@ -8,7 +8,7 @@ description: >-
   de vider le tableau dans ce puzzle stratégique qui met ta planification à
   l’épreuve.
 iframeSrc: 'https://www.squidbyte.com/games_third/spider/en/spider-solitaire-halloween/'
-thumbnail: /new-images/spider-solitaire.jpg
+thumbnail: /new-images/thumbnails/spider-solitaire.jpg
 tags:
   - card-game
   - puzzle

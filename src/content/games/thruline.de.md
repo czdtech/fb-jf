@@ -4,7 +4,7 @@ urlstr: thruline
 title: "Thruline"
 description: "Thruline ist ein klares Verbindungs‑Puzzle: Ziehe eine einzige durchgehende Linie über alle Knoten und erfülle dabei Vorgaben für Kurven, Abdeckung und erlaubte Kreuzungen."
 iframeSrc: 'https://4bl9sdeaqndto.h5games.usercontent.goog/v/4qierjmnf0kng/'
-thumbnail: /new-images/thruline.jpg
+thumbnail: /new-images/thumbnails/thruline.jpg
 tags:
   - puzzle
   - thinky

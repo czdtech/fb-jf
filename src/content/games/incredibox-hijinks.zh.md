@@ -4,7 +4,7 @@ urlstr: incredibox-hijinks
 title: "Incredibox Hijinks - 在线玩 Incredibox Hijinks"
 description: "探索 Incredibox Hijinks，这款混乱的卡通主题粉丝 Mod。本指南详细介绍了其古怪的电子音色调色板、创作有趣和恶作剧曲目的玩法，以及如何解锁其主题奖励。"
 iframeSrc: 'https://turbowarp.org/1027156305/embed'
-thumbnail: /new-images/incredibox-hijinks.png
+thumbnail: /new-images/thumbnails/incredibox-hijinks.png
 tags:
   - music
   - rhythm

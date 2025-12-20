@@ -7,7 +7,7 @@ description: >-
   콘셉트 게임입니다. 블록을 배치하고 광물을 캐는 모든 행동이 음악의 박자와
   맞물리며, 건축과 작곡을 동시에 즐길 수 있습니다.
 iframeSrc: 'https://turbowarp.org/1140459751/embed'
-thumbnail: /sprunki-minecraft.png
+thumbnail: /new-images/thumbnails/sprunki-minecraft.png
 tags:
   - sprunki minecraft
 score: 4.0/5  (212 votes)

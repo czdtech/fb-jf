@@ -7,7 +7,7 @@ description: >-
   Storywelt: Mit schrägen Figuren, eigenen Beats und passenden Effekten
   gestaltest du dein persönliches, interaktives Musikvideo.
 iframeSrc: 'https://turbowarp.org/1075503895/embed'
-thumbnail: /sprunki-dandys-world.png
+thumbnail: /new-images/thumbnails/sprunki-dandys-world.png
 tags:
   - sprunki dandy
 score: 4.4/5  (304 votes)

@@ -4,7 +4,7 @@ urlstr: collect-same-thing
 title: Collect Same Thing
 description: "Collect Same Thing est un puzzle d’association\_: fais correspondre les mêmes objets, vide la grille par paires et gère l’espace pour ne pas te bloquer."
 iframeSrc: 'https://jsfyqug4ktpe0.h5games.usercontent.goog/v/4pc1fn7u23qlg/'
-thumbnail: /new-images/collect-same-thing.png
+thumbnail: /new-images/thumbnails/collect-same-thing.png
 tags:
   - puzzle
   - thinky

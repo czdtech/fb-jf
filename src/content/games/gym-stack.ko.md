@@ -6,7 +6,7 @@ description: >-
   여러 기둥 위에 등장하는 아령들을 옮기고 쌓아 같은 색·같은 크기의 웨이트를 합치는 3D 퍼즐 게임입니다. 막대가 가득 차기 전에 효율적으로
   병합해 높은 점수를 노려 보세요.
 iframeSrc: 'https://gymstack.h5games.usercontent.goog/v/3js1l1d7rdkfg/'
-thumbnail: /new-images/gym-stack.jpeg
+thumbnail: /new-images/thumbnails/gym-stack.jpeg
 tags:
   - action
   - casual

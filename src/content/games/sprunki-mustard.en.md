@@ -6,7 +6,7 @@ description: >-
   a unified mustard-yellow color scheme, adding a lingering eerie feeling to the
   original vibrant picture.
 iframeSrc: 'https://html-classic.itch.zone/html/14281578/index.html'
-thumbnail: /sprunki-mustard.png
+thumbnail: /new-images/thumbnails/sprunki-mustard.png
 urlstr: sprunki-mustard
 modType: sprunki
 score: 3.9/5  (827 votes)

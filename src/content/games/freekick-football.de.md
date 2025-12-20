@@ -6,7 +6,7 @@ description: >-
   Teste deine Freistoß-Fähigkeiten in Freekick Football: Ziele präzise, wähle
   die richtige Schusskraft und verwandle Standardsituation um Standardsituation.
 iframeSrc: 'https://freekickfootball.h5games.usercontent.goog/v/0lqeu7698mvk0/'
-thumbnail: /new-images/freekick-football.png
+thumbnail: /new-images/thumbnails/freekick-football.png
 tags:
   - soccer
   - sports

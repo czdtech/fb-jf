@@ -7,7 +7,7 @@ description: >-
   de colores para formar grupos de tres o más y destruye la cadena antes de que
   llegue a la concha final.
 iframeSrc: 'https://zumbaocean.h5games.usercontent.goog/v/1gb65icesunig/'
-thumbnail: /new-images/zumba-ocean.png
+thumbnail: /new-images/thumbnails/zumba-ocean.png
 tags:
   - shooting
   - puzzle

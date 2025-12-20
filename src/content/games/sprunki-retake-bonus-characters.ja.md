@@ -2,7 +2,7 @@
 title: "Sprunki Retake Bonus Characters - Play Sprunki Retake Bonus Characters Online"
 description: "Sprunki Retake Bonus Charactersは、ボーナスキャラクターを追加して音作りの幅を広げるModです。追加のサウンド素材を使って組み合わせを試せます。"
 iframeSrc: "https://turbowarp.org/1118862938/embed"
-thumbnail: "/sprunki-retake-bonus-characters.png"
+thumbnail: /new-images/thumbnails/sprunki-retake-bonus-characters.png
 urlstr: "sprunki-retake-bonus-characters"
 score: "3.9/5  (132 votes)"
 tags: ["sprunki retake bonus characters"]

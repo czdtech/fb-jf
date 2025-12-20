@@ -7,7 +7,7 @@ description: >-
   auf Dächern kämpfen und mit abgedrehten Waffen versuchen, den Gegner von der
   Plattform zu schießen.
 iframeSrc: 'https://rebemanae.github.io/rooftop-snipers-2/'
-thumbnail: /new-images/rooftop-snipers-2.jpg
+thumbnail: /new-images/thumbnails/rooftop-snipers-2.jpg
 tags:
   - shooting
   - physics

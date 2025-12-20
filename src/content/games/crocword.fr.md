@@ -4,7 +4,7 @@ urlstr: crocword
 title: Crocword
 description: "Crocword est un jeu de mots relaxant\_: relie les lettres pour former des mots et remplir une grille façon mots croisés."
 iframeSrc: 'https://4u2r33lp92ja0.h5games.usercontent.goog/v/53cgdtc83kng8/'
-thumbnail: /new-images/crocword.png
+thumbnail: /new-images/thumbnails/crocword.png
 tags:
   - puzzle
   - thinky

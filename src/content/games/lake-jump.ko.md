@@ -6,7 +6,7 @@ description: >-
   한 번의 탭으로 점프 타이밍을 맞추는 게임 'Lake Jump' 가이드입니다. 움직이는 발판에 맞춰 점프해 물에 빠지지 않고 연속 점프를
   이어 가 보세요.
 iframeSrc: 'https://lakejump.h5games.usercontent.goog/v/33bg3iluek1fg/'
-thumbnail: /new-images/lake-jump.png
+thumbnail: /new-images/thumbnails/lake-jump.png
 tags:
   - action
   - casual

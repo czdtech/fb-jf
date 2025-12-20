@@ -2,7 +2,7 @@
 title: "Jewel Christmas Mania"
 description: "クリスマス風のマッチ3パズルです。宝石を入れ替えてそろえ、各レベルの目標を達成します。"
 iframeSrc: "https://jewelchristmasmania.h5games.usercontent.goog/v/3vom8bn0qgmto/"
-thumbnail: "/new-images/jewel-christmas-mania.png"
+thumbnail: /new-images/thumbnails/jewel-christmas-mania.png
 urlstr: "jewel-christmas-mania"
 score: "4.7/5  (2500 votes)"
 tags: ["puzzle", "casual", "flash"]

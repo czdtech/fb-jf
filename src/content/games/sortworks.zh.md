@@ -4,7 +4,7 @@ urlstr: sortworks
 title: 《SortWorks》多列颜色排序
 description: 《SortWorks》是一款瓶装/列式的颜色排序益智游戏。通过在不同列之间倒换彩色元素，把同色块整理到同一列中，考验你的规划与空间管理能力。
 iframeSrc: 'https://sortworks.h5games.usercontent.goog/v/3o6mp3ahks0oo/'
-thumbnail: /new-images/sortworks.png
+thumbnail: /new-images/thumbnails/sortworks.png
 tags:
   - puzzle
   - sorting

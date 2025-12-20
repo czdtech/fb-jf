@@ -6,7 +6,7 @@ description: >-
   Cards-21 ist eine schlanke Blackjack-Variante – ziehe Karten, bleib möglichst
   nahe an 21 und vermeide es, zu überziehen.
 iframeSrc: 'https://11kvu79prlefg.h5games.usercontent.goog/v/67r78cf7q96c0/'
-thumbnail: /new-images/cards-21.png
+thumbnail: /new-images/thumbnails/cards-21.png
 tags:
   - card
   - casual

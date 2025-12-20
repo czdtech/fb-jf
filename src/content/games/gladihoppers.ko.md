@@ -7,7 +7,7 @@ description: >-
   장비를 커스터마이즈하고, 돌진과 패링 타이밍을 맞춰 1대1 결투와 여러 모드의
   아레나를 정복해 보세요.
 iframeSrc: 'https://m.igroutka.ru/g-1/113/Gladihoppers/'
-thumbnail: /new-images/gladihoppers.jpg
+thumbnail: /new-images/thumbnails/gladihoppers.jpg
 tags:
   - fighting
   - action

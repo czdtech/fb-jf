@@ -4,7 +4,7 @@ urlstr: tile-guru
 title: "Tile Guru"
 description: "Tile Guru ist ein poliertes Triple‑Match‑Puzzle: Sammle Kachel‑Drillinge, verwalte deinen Ablagestapel geschickt und räume das Tablett, ohne es zu verstopfen."
 iframeSrc: 'https://5en3tugq69tdo.h5games.usercontent.goog/v/4pu6to0p0cgrg/'
-thumbnail: /new-images/tile-guru.png
+thumbnail: /new-images/thumbnails/tile-guru.png
 tags:
   - mahjong
   - puzzle

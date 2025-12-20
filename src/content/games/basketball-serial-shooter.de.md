@@ -7,7 +7,7 @@ description: >-
   präzise Bögen ein, halte deinen Wurfrhythmus und reihe Treffer unter Druck an
   einander.
 iframeSrc: 'https://41d3mmm660u50.h5games.usercontent.goog/v/1t2n5uvjnbv1o/'
-thumbnail: /new-images/basketball-serial-shooter.jpg
+thumbnail: /new-images/thumbnails/basketball-serial-shooter.jpg
 tags:
   - sports
   - basketball

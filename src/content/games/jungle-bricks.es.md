@@ -7,7 +7,7 @@ description: >-
   lleno de color donde debes destruir bloques numerados antes de que lleguen al
   fondo.
 iframeSrc: 'https://0gt5ae21ln70o.h5games.usercontent.goog/v/0762mjie8e8s0/'
-thumbnail: /new-images/jungle-bricks.png
+thumbnail: /new-images/thumbnails/jungle-bricks.png
 tags:
   - puzzle
   - shooting

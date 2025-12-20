@@ -7,7 +7,7 @@ description: >-
   selon des règles, gère tes emplacements tampons et évite les blocages
   alors que la pression monte.
 iframeSrc: 'https://293f3i461vfvo.h5games.usercontent.goog/v/31blvf8tg44g0/'
-thumbnail: /new-images/sortworks.png
+thumbnail: /new-images/thumbnails/sortworks.png
 tags:
   - puzzle
   - thinky

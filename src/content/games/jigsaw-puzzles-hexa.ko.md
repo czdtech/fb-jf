@@ -6,7 +6,7 @@ description: >-
   육각형 블록 조각으로 그림을 완성하는 'Jigsaw Puzzles Hexa' 가이드입니다. 회전 없이 주어진 모양을 맞춰 넣으며 공간 감각을
   키워 보세요.
 iframeSrc: 'https://jigsawpuzzleshexa.h5games.usercontent.goog/v/5e9bm1tuf1me0/'
-thumbnail: /new-images/jigsaw-puzzles-hexa.jpg
+thumbnail: /new-images/thumbnails/jigsaw-puzzles-hexa.jpg
 tags:
   - puzzle
   - casual

@@ -7,7 +7,7 @@ description: >-
   Tritt gegen die KI an, löse knifflige Aufgaben und arbeite dich zum
   Schachmeister hoch.
 iframeSrc: 'https://chessmania.h5games.usercontent.goog/v/3if0hd2c47oo8/'
-thumbnail: /new-images/chess-mania.png
+thumbnail: /new-images/thumbnails/chess-mania.png
 tags:
   - thinky
   - 2 player

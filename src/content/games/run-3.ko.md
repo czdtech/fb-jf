@@ -7,7 +7,7 @@ description: >-
   조종해 발판 사이의 구멍을 점프해 넘고, 벽과 천장까지 활용해
   끝없이 이어지는 코스를 달려 보세요.
 iframeSrc: 'https://lekug.github.io/tn6pS9dCf37xAhkJv/index.html'
-thumbnail: /new-images/run-3.jpg
+thumbnail: /new-images/thumbnails/run-3.jpg
 tags:
   - endless runner
   - space

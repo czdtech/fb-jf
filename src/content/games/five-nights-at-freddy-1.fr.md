@@ -4,7 +4,7 @@ urlstr: five-nights-at-freddy-1
 title: "Five Nights at Freddy's 1 (FNAF 1)"
 description: "Survie horrifique dans une pizzeria : surveille les caméras, économise l’énergie et ferme portes/lumières pour empêcher les animatroniques d’entrer pendant cinq nuits et plus."
 iframeSrc: 'https://ubg77.github.io/fix/fnaf1/'
-thumbnail: /new-images/five-nights-at-freddy-1.jpg
+thumbnail: /new-images/thumbnails/five-nights-at-freddy-1.jpg
 tags:
   - horror
   - strategy

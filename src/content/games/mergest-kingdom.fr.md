@@ -4,7 +4,7 @@ urlstr: "mergest-kingdom"
 title: "Mergest Kingdom"
 description: "Mergest Kingdom est un jeu de fantasy basé sur la fusion et la construction : combine des tuiles, accomplis des quêtes et étends ton royaume grâce à des chaînes de fusions bien planifiées."
 iframeSrc: "https://620tnu7381eao.h5games.usercontent.goog/v/27p309rk86cr8/"
-thumbnail: "/new-images/mergest-kingdom.png"
+thumbnail: /new-images/thumbnails/mergest-kingdom.png
 tags: ["puzzle", "adventure", "thinky"]
 score: "4.2/5  (2079 votes)"
 developer: ""

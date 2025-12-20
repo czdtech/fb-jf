@@ -6,7 +6,7 @@ description: >-
   Mundo Torajo Sprunki는 문도 토라호의 기괴하고 귀여운 세계관과 Sprunki의 리듬 기반
   사운드 플레이를 섞어, 색감과 음악으로 끝없는 창작을 즐길 수 있는 독특한 모드입니다.
 iframeSrc: 'https://turbowarp.org/1096623350/embed'
-thumbnail: /mundo-torajo-sprunki.png
+thumbnail: /new-images/thumbnails/mundo-torajo-sprunki.png
 tags:
   - mundo torajo sprunki
 score: 4.0/5  (112 votes)

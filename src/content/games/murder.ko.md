@@ -6,7 +6,7 @@ description: >-
   Murder는 플레이어 중 한 명이 몰래 살인범 역할을 맡고, 나머지 플레이어는 토론과 추리를 통해 범인을 찾아내야 하는 긴장감 넘치는 소셜
   디덕션 게임입니다.
 iframeSrc: 'https://ubg77.github.io/fix/murder/'
-thumbnail: /new-images/murder.jpg
+thumbnail: /new-images/thumbnails/murder.jpg
 tags:
   - social deduction
   - strategy

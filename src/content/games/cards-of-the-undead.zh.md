@@ -6,7 +6,7 @@ description: >-
   《Cards of the Undead 不死牌局》是一款带 Roguelike 元素的卡牌策略游戏，在末日世界中合理打出攻击、防御与技能
   卡，抵御一波波亡灵敌人。
 iframeSrc: 'https://cardsoftheundead.h5games.usercontent.goog/v/1utkallp647b0/'
-thumbnail: /new-images/cards-of-the-undead.jpg
+thumbnail: /new-images/thumbnails/cards-of-the-undead.png
 tags:
   - card
   - strategy

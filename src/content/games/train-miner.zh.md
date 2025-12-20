@@ -4,7 +4,7 @@ urlstr: train-miner
 title: 《Train Miner》矿车铺轨解谜
 description: 《Train Miner》是一款铺设铁轨的路线解谜游戏。通过合理放置轨道，让矿车一路采集矿石并安全抵达出口，同时控制转弯次数和燃料消耗。
 iframeSrc: 'https://7r2vmm5fqv830.h5games.usercontent.goog/v/3ubj960lc0t4o/'
-thumbnail: /new-images/train-miner.png
+thumbnail: /new-images/thumbnails/train-miner.png
 tags:
   - puzzle
   - thinky

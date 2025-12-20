@@ -7,7 +7,7 @@ description: >-
   내보낼지 선택하면서, 부정적인 이슈에 집중하는 시선이 어떻게 갈등과 분열을 키우는지 직접
   체험해 보세요.
 iframeSrc: 'https://html5.iclouds.io/we-become-behold/index.html'
-thumbnail: /new-images/we-become-what-we-behold.jpg
+thumbnail: /new-images/thumbnails/we-become-what-we-behold.jpg
 tags:
   - satire
   - social-commentary

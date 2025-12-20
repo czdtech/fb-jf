@@ -2,7 +2,7 @@
 title: Tile Puzzle
 description: Tile Puzzleは、スライディングタイルパズルゲームです。タイルをスライドさせて画像を完成させましょう。
 iframeSrc: 'https://ubg98.github.io/TilePuzzle/'
-thumbnail: /new-images/tile-puzzle.jpg
+thumbnail: /new-images/thumbnails/tile-puzzle.jpg
 urlstr: tile-puzzle
 score: 4.3/5  (2123 votes)
 tags:

@@ -7,7 +7,7 @@ description: >-
   commandes, sers les plats et garde tout le monde content pour réussir les
   niveaux.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/diner-dash.html'
-thumbnail: /new-images/diner-dash.jpg
+thumbnail: /new-images/thumbnails/diner-dash.jpg
 tags:
   - time-management
   - strategy

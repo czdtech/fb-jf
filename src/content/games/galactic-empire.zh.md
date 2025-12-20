@@ -5,7 +5,7 @@ title: "Galactic Empire 星河帝國"
 description: >-
   俯視角太空策略遊戲：開採資源、建造艦隊與防禦工事，在抵禦敵軍波次的同時奪下周邊星域。
 iframeSrc: 'https://g.igroutka.ru/games/164/8plhaK3IOLoFbVPB/2/galactic_empire/'
-thumbnail: /new-images/galactic-empire.jpg
+thumbnail: /new-images/thumbnails/galactic-empire.jpg
 tags:
   - strategy
   - space

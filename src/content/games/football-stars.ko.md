@@ -4,7 +4,7 @@ urlstr: football-stars
 title: Football Stars 풋볼 스타즈
 description: '간단한 조작으로 즐기는 캐주얼 축구 게임입니다. 팀을 선택해 패스와 슛, 태클을 활용하며 빠른 템포의 경기를 치러 보세요.'
 iframeSrc: 'https://footballstars.h5games.usercontent.goog/v/0m1jm95h3of7g/'
-thumbnail: /new-images/football-stars.jpg
+thumbnail: /new-images/thumbnails/football-stars.png
 tags:
   - sports
   - football

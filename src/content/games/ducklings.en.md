@@ -4,7 +4,7 @@ locale: en
 title: "Ducklings"
 description: "Ducklings is a relaxing collect‑’em‑up: rescue ducklings on the water and bring them safely back to your nest."
 iframeSrc: "https://g2.igroutka.ru/games/164/BkDlKfiWjEoZ2rcG/ducklings_io/"
-thumbnail: "/new-images/ducklings.jpg"
+thumbnail: /new-images/thumbnails/ducklings.jpg
 urlstr: "ducklings"
 score: "4.0/5  (1129 votes)"
 tags: ["casual", "arcade"]

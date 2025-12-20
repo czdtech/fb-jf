@@ -3,7 +3,7 @@ locale: en
 title: "Brain Trainer"
 description: "Challenge your mind with a variety of fun and engaging mini-games! Test your memory, logic, calculation speed, and spatial awareness in this ultimate brain workout."
 iframeSrc: "https://braintrainer.h5games.usercontent.goog/v/4f2ffbc6-4208-4087-bfaf-ab0db086da02/"
-thumbnail: "/new-images/brain-trainer.jpg"
+thumbnail: /new-images/thumbnails/brain-trainer.jpg
 urlstr: "brain-trainer"
 score: "4.6/5  (3100 votes)"
 tags: ["puzzle", "thinky", "casual"]

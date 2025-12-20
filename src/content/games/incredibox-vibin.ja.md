@@ -2,7 +2,7 @@
 title: "Incredibox Vibin"
 description: "チルなlo-fiヒップホップテーマのファン作成モッド『Incredibox Vibin'』を探索しましょう。このガイドでは、メローなサウンドパレット、リラックスビートを作成するためのゲームプレイ、心地よいテーマ別ボーナスのアンロック方法を詳しく説明します。"
 iframeSrc: "https://turbowarp.org/1050468579/embed"
-thumbnail: "/new-images/incredibox-vibin.png"
+thumbnail: /new-images/thumbnails/incredibox-vibin.png
 urlstr: "incredibox-vibin"
 score: "4.7/5 (1754 votes)"
 tags: ["music", "rhythm", "sandbox"]

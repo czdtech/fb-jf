@@ -7,7 +7,7 @@ description: >-
   y la publicidad; compra vasos, limones, azúcar y hielo; y gestiona el
   beneficio diario según el tiempo que haga.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/lemonade-stand.html'
-thumbnail: /new-images/lemonade-stand.jpg
+thumbnail: /new-images/thumbnails/lemonade-stand.jpg
 tags:
   - simulation
   - tycoon

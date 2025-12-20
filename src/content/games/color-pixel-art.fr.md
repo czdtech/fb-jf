@@ -4,7 +4,7 @@ urlstr: color-pixel-art
 title: Color Pixel Art Classic
 description: "Détends‑toi avec ce jeu de coloriage pixel par numéro\_: choisis une image, sélectionne une couleur puis remplis chaque case numérotée pour révéler une illustration pixellisée."
 iframeSrc: 'https://colorpixel.h5games.usercontent.goog/v/6ko86juonaau0/'
-thumbnail: /new-images/color-pixel-art.png
+thumbnail: /new-images/thumbnails/color-pixel-art.png
 tags:
   - puzzle
   - casual

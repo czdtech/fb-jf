@@ -6,7 +6,7 @@ description: >-
   Sprunki Halloween은 으스스한 사운드와 할로윈 테마 캐릭터로 공포 분위기의 트랙을 만들 수 있는 스프룽키 모드입니다. 마녀,
   유령, 뱀파이어와 함께 할로윈 파티용 공포 비트를 만들어 보세요.
 iframeSrc: 'https://turbowarp.org/1087683438/embed'
-thumbnail: /sprunki-halloween.png
+thumbnail: /new-images/thumbnails/sprunki-halloween.png
 tags:
   - sprunki halloween
 score: 4.2/5  (142 votes)

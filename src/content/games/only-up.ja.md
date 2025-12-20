@@ -2,7 +2,7 @@
 title: Only Up
 description: Only Upは垂直方向に登るアクションです。ジャンプで足場を渡り、落下を避けながら上を目指します。
 iframeSrc: 'https://onlyup.h5games.usercontent.goog/v/2k7j9m5h8p3n8/'
-thumbnail: /new-images/only-up.png
+thumbnail: /new-images/thumbnails/only-up.jpg
 urlstr: only-up
 score: 4.1/5  (1934 votes)
 tags:

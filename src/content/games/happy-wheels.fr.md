@@ -4,7 +4,7 @@ urlstr: happy-wheels
 title: "Happy Wheels"
 description: "Guide complet de Happy Wheels, le platformer physique culte : découvre les bases, des stratégies de survie, les commandes et une FAQ pour traverser les niveaux mortels créés par la communauté."
 iframeSrc: 'https://games-online.io/game/HappyWheels/'
-thumbnail: /new-images/happy-wheels.jpg
+thumbnail: /new-images/thumbnails/happy-wheels.jpg
 tags:
   - platformer
   - physics

@@ -2,7 +2,7 @@
 title: Mountayonnaise
 description: Mountayonnaiseは物理挙動のある登山ゲームです。マヨネーズの山を登り、滑りやすい足場と障害物を越えて頂上を目指します。
 iframeSrc: 'https://mountayonnaise.h5games.usercontent.goog/v/1ks8r51g6qsqg/'
-thumbnail: /new-images/mountayonnaise.png
+thumbnail: /new-images/thumbnails/mountayonnaise.png
 urlstr: mountayonnaise
 score: 3.8/5  (1456 votes)
 tags:

@@ -7,7 +7,7 @@ description: >-
   formas exageradas y caricaturescas de “vengarte” de tu jefe en un entorno
   completamente ficticio.
 iframeSrc: 'https://freeonlinegames.github.io/whack-your-boss.html'
-thumbnail: /new-images/whack-your-boss.jpg
+thumbnail: /new-images/thumbnails/whack-your-boss.jpg
 tags:
   - action
   - satire

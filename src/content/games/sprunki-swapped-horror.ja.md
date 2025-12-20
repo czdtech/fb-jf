@@ -3,7 +3,7 @@ title: Sprunki Swapped Horror - Play Sprunki Swapped Horror Online
 description: >-
   Sprunki Swapped Horrorはキャラクターを入れ替えて音を組み合わせるホラー系Modです。新しいサウンドでトラックを作れます。
 iframeSrc: 'https://turbowarp.org/1122932869/embed'
-thumbnail: /sprunki-swapped-horror.png
+thumbnail: /new-images/thumbnails/sprunki-swapped-horror.png
 urlstr: sprunki-swapped-horror
 score: 4.2/5  (368 votes)
 tags:

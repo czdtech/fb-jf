@@ -6,7 +6,7 @@ description: >-
   피자가게 야간 경비가 되어 CCTV와 전력, 문과 조명을 관리하며 애니매트로닉을
   막아내는 공포 생존 게임입니다. 다섯 밤을 버티고 그 이후까지 살아남아 보세요.
 iframeSrc: 'https://ubg77.github.io/fix/fnaf1/'
-thumbnail: /new-images/five-nights-at-freddy-1.jpg
+thumbnail: /new-images/thumbnails/five-nights-at-freddy-1.jpg
 tags:
   - horror
   - strategy

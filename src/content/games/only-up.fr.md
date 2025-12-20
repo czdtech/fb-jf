@@ -4,7 +4,7 @@ urlstr: only-up
 title: Only Up
 description: "Only Up est un jeu de parkour vertical exigeant\_: grimpe toujours plus haut en enchaînant sauts précis et plateforme instables, en sachant qu'une erreur peut te renvoyer très bas."
 iframeSrc: 'https://1vl2u3h6ryctp.h5games.usercontent.goog/v/5qv76mlq1noto/'
-thumbnail: /new-images/only-up.jpg
+thumbnail: /new-images/thumbnails/only-up.jpg
 tags:
   - parkour
   - platformer

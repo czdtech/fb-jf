@@ -9,7 +9,7 @@ description: >-
   l’univers artistique de Sprunki à une ambiance d’usine sidérurgique, pleine de
   machines, de métal et de rythmes industriels.
 iframeSrc: 'https://turbowarp.org/1099071172/embed'
-thumbnail: /sprunki-sepbox-steel-factory.png
+thumbnail: /new-images/thumbnails/sprunki-sepbox-steel-factory.png
 tags:
   - sprunki x sepbox steel factory
 score: 4.9/5  (509 votes)

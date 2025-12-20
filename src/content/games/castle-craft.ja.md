@@ -2,7 +2,7 @@
 title: "Castle Craft キャッスル・クラフト"
 description: "「Castle Craft」でマージ（合成）して王国を築くパズル。アイテムを合体させて資源を集め、クエストをこなし、霧を晴らしながら土地を広げましょう。"
 iframeSrc: "https://1hjdl8ff4msl0.h5games.usercontent.goog/v/2mn9n3pfbrrtg/"
-thumbnail: "/new-images/castle-craft.png"
+thumbnail: /new-images/thumbnails/castle-craft.png
 urlstr: "castle-craft"
 score: "4.3/5  (2104 votes)"
 tags: ["puzzle", "casual", "thinky"]

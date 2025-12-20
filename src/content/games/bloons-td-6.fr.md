@@ -4,7 +4,7 @@ urlstr: bloons-td-6
 title: "Bloons TD 6"
 description: "Bloons TD 6 pousse la défense de tour au maximum : graphismes 3D, héros, 3 chemins d’upgrade, Monkey Knowledge et Paragons pour les parties très longues."
 iframeSrc: "https://html5.gamenora.com/Bloons%20TD%206/"
-thumbnail: /new-images/bloons-td-6.jpg
+thumbnail: /new-images/thumbnails/bloons-td-6.jpg
 tags:
   - casual
   - strategy

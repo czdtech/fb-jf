@@ -6,7 +6,7 @@ description: >-
   Choir Game는 화제가 된 Blob Opera 합창 실험을 즐길 수 있는 인터랙티브 음악 토이입니다. 네 명의 "블롭"을 드래그해 음
   높이와 모음을 조절하며, 나만의 합창을 만들어 보고 녹화해 공유해 보세요.
 iframeSrc: 'https://d21u3ic0kp9e91.cloudfront.net/choir/04/index.html'
-thumbnail: /new-images/choir.jpg
+thumbnail: /new-images/thumbnails/choir.jpg
 tags:
   - casual
   - music

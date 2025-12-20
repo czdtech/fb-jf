@@ -2,7 +2,7 @@
 title: Stickman Fighter Mega
 description: Stickman Fighter Megaは、壮大なスティックマン戦闘アクションゲームです。強力な技と武器で相手を倒しましょう。
 iframeSrc: 'https://ubg98.github.io/StickmanFighterMega/'
-thumbnail: /new-images/stickman-fighter-mega.jpg
+thumbnail: /new-images/thumbnails/stickman-fighter-mega.jpg
 urlstr: stickman-fighter-mega
 score: 4.3/5  (2456 votes)
 tags:

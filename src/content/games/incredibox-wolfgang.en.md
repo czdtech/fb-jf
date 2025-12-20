@@ -4,7 +4,7 @@ modType: incredibox
 title: "Incredibox Wolfgang"
 description: "Explore 'Incredibox Wolfgang,' the fan-made mod celebrating classical music and Mozart. This guide details its orchestral sound palette, gameplay for composing elegant pieces, and how to unlock its 18th-century themed bonuses."
 iframeSrc: "https://turbowarp.org/943197191/embed"
-thumbnail: "/new-images/incredibox-wolfgang.png"
+thumbnail: /new-images/thumbnails/incredibox-wolfgang.png
 urlstr: "incredibox-wolfgang"
 score: "4.8/5 (2451 votes)"
 tags: ["music", "classical", "rhythm"]

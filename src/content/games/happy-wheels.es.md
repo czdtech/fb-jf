@@ -7,7 +7,7 @@ description: >-
   Happy Wheels. Aprende estrategias, controles y trucos para sobrevivir a sus
   mortales niveles creados por la comunidad.
 iframeSrc: 'https://games-online.io/game/HappyWheels/'
-thumbnail: /new-images/happy-wheels.jpg
+thumbnail: /new-images/thumbnails/happy-wheels.jpg
 tags:
   - platformer
   - physics

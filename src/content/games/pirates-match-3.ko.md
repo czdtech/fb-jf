@@ -7,7 +7,7 @@ description: >-
   안에 스테이지 목표를 달성해 보세요.
 iframeSrc: >-
   https://piratesmatch3.h5games.usercontent.goog/v/fea2f25f-a39a-4273-93c1-38f8f9bd8260/
-thumbnail: /new-images/pirates-match-3.jpg
+thumbnail: /new-images/thumbnails/pirates-match-3.jpg
 tags:
   - puzzle
   - casual

@@ -4,7 +4,7 @@ urlstr: bolly-beat
 title: "Bolly Beat"
 description: "Bolly Beat est un jeu de rythme léger sur fond de musiques Bollywood : tape au bon moment, garde le combo et vise les Perfect pour obtenir le meilleur score."
 iframeSrc: "https://bollybeat.h5games.usercontent.goog/v/4k75msiudusn0/"
-thumbnail: /new-images/bolly-beat.jpg
+thumbnail: /new-images/thumbnails/bolly-beat.jpg
 tags:
   - casual
   - action

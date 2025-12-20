@@ -7,7 +7,7 @@ description: >-
   controlas arqueros tipo ragdoll y disparas flechas a tus oponentes, con una
   física realista que hace que cada tiro sea tan desafiante como divertido.
 iframeSrc: "https://bitlifeonline.github.io/ragdoll-archers/"
-thumbnail: "/new-images/ragdoll-archers.jpg"
+thumbnail: /new-images/thumbnails/ragdoll-archers.jpg
 tags:
   - physics
   - archery

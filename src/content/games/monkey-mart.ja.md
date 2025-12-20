@@ -2,7 +2,7 @@
 title: Monkey Mart
 description: Monkey Martはストア管理ゲームです。商品を補充して販売し、設備をアップグレードしながら店を拡大します。
 iframeSrc: 'https://monkeymart.h5games.usercontent.goog/v/23sjt6hqspr00/'
-thumbnail: /new-images/monkey-mart.png
+thumbnail: /new-images/thumbnails/monkey-mart.jpg
 urlstr: monkey-mart
 score: 4.5/5  (3123 votes)
 tags:

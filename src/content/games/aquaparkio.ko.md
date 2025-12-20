@@ -7,7 +7,7 @@ description: >-
   레이싱 게임입니다. 상대를 밀어 떨어뜨리고, 공중으로 날아가 지름길을 노려
   승리를 거머쥐세요.
 iframeSrc: 'https://bitlifeonline.github.io/class23523/aquaparkio/'
-thumbnail: /new-images/aquaparkio.jpg
+thumbnail: /new-images/thumbnails/aquaparkio.jpg
 tags:
   - casual
   - racing

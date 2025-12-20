@@ -2,7 +2,7 @@
 title: "Om Nom Bubbles"
 description: "Om Nom Bubblesはバブルシューターです。同じ色の泡をそろえて消し、レベル目標の達成を目指します。"
 iframeSrc: "https://omnombubbles.h5games.usercontent.goog/v/5j8k9m2h7p3n8/"
-thumbnail: "/new-images/om-nom-bubbles.png"
+thumbnail: /new-images/thumbnails/om-nom-bubbles.jpg
 urlstr: "om-nom-bubbles"
 score: "4.3/5  (2234 votes)"
 tags: ["puzzle", "casual"]

@@ -7,7 +7,7 @@ description: >-
   brillantes en este festivo match‑3 y supera niveles desafiantes llenos de
   objetivos especiales.
 iframeSrc: 'https://jewelchristmasmania.h5games.usercontent.goog/v/3vom8bn0qgmto/'
-thumbnail: /new-images/jewel-christmas-mania.png
+thumbnail: /new-images/thumbnails/jewel-christmas-mania.png
 tags:
   - puzzle
   - casual

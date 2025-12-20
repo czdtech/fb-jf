@@ -6,7 +6,7 @@ description: >-
   《Daily Solitaire 每日纸牌接龙》每天为你准备一局新的克朗代克（Klondike）接龙挑战。 将 52 张牌按花色从 A 排到
   K，检验你的经典纸牌技巧。
 iframeSrc: 'https://dailysolitaire.h5games.usercontent.goog/v/0e4orvvorj2mo/'
-thumbnail: /new-images/daily-solitaire.png
+thumbnail: /new-images/thumbnails/daily-solitaire.png
 tags:
   - card
   - puzzle

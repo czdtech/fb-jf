@@ -4,7 +4,7 @@ urlstr: haru-pandas-slide
 title: "《Haru Pandas Slide》熊猫滑块拼图"
 description: "《Haru Pandas Slide》是一款轻松治愈的滑块拼图游戏，你需要通过横竖滑动碎片，在尽量少的步数内还原一张张可爱的熊猫图片，用逻辑而不是乱试来解出每一关。"
 iframeSrc: 'https://0vc1kolll32h8.h5games.usercontent.goog/v/0t898ulinrkag/'
-thumbnail: /new-images/haru-pandas-slide.png
+thumbnail: /new-images/thumbnails/haru-pandas-slide.png
 tags:
   - puzzle
   - thinky

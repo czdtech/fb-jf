@@ -4,7 +4,7 @@ locale: en
 title: "Drive Mad"
 description: "Drive Mad is a physics driving challenge: balance your vehicle, clear obstacles, and reach the finish without flipping."
 iframeSrc: "https://ubg98.github.io/DriveMad/"
-thumbnail: "/new-images/drive-mad.jpg"
+thumbnail: /new-images/thumbnails/drive-mad.jpg
 urlstr: "drive-mad"
 score: "3.7/5  (1285 votes)"
 tags: ["driving", "physics"]

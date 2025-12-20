@@ -4,7 +4,7 @@ urlstr: 3d-free-kick
 title: "3D Free Kick"
 description: "3D Free Kick te permet de frapper des coups francs comme un pro : vise le mur, donne de l’effet et fais trembler les filets sur des situations arrêtées spectaculaires." 
 iframeSrc: 'https://78b0enfiv98go.h5games.usercontent.goog/v/00acsktd29tjg/'
-thumbnail: /new-images/3d-free-kick.png
+thumbnail: /new-images/thumbnails/3d-free-kick.png
 tags:
   - sports
   - soccer

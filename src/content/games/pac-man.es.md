@@ -8,7 +8,7 @@ description: >-
   cuatro fantasmas de colores. Al comer las bolitas de poder, Pac-Man puede
   darles la vuelta a las tornas y zamparse a los fantasmas.
 iframeSrc: 'https://bward2.github.io/pacman-js/'
-thumbnail: /new-images/pac-man.jpg
+thumbnail: /new-images/thumbnails/pac-man.jpg
 tags:
   - arcade
   - maze

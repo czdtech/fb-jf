@@ -6,7 +6,7 @@ description: >-
   Tower defense emblemático: coloca y mejora cuatro tipos de torres, llama
   refuerzos y microgestiona a un héroe para mantener los cuellos de botella.
 iframeSrc: 'https://1000freegames.github.io/swf/kingdom-rush.html'
-thumbnail: /new-images/kingdom-rush.jpg
+thumbnail: /new-images/thumbnails/kingdom-rush.jpg
 tags:
   - tower-defense
   - strategy

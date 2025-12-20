@@ -7,7 +7,7 @@ description: >-
   게임입니다. 사다리를 타고 앞서 나가고, 뱀을 밟으면 아래로 떨어지는
   운빨 파티 게임을 즐겨 보세요.
 iframeSrc: 'https://cdn.gamesnacks.com/snakesandladders/gameCode/index.html'
-thumbnail: /new-images/snakes-and-ladders.jpg
+thumbnail: /new-images/thumbnails/snakes-and-ladders.jpg
 tags:
   - board-game
   - classic

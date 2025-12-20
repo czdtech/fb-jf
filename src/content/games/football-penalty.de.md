@@ -6,7 +6,7 @@ description: >-
   Football Penalty konzentriert sich auf Elfmeterschießen: Wähle Ecke und Höhe,
   dosiere die Schusskraft und trickse den Keeper unter Druck aus.
 iframeSrc: 'https://2fb6vjapfstro.h5games.usercontent.goog/v/5443q25keq2qg/'
-thumbnail: /new-images/football-penalty.png
+thumbnail: /new-images/thumbnails/football-penalty.png
 tags:
   - sports
   - soccer

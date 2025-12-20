@@ -5,7 +5,7 @@ description: >-
   Drift Hunters is a 3D drifting racer: tune cars, chain drifts, and rack up
   points across tracks.
 iframeSrc: 'https://webglmath.github.io/drift-hunters/'
-thumbnail: /new-images/drift-hunters.jpg
+thumbnail: /new-images/thumbnails/drift-hunters.jpg
 urlstr: drift-hunters
 score: 5.0/5  (563 votes)
 tags:

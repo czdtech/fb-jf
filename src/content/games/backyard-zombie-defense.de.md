@@ -7,7 +7,7 @@ description: >-
   Geschütze, rüste sie clever auf und halte die Zombiehorden von deinem Garten
   fern.
 iframeSrc: 'https://18ivvthj417fo.h5games.usercontent.goog/v/27786m6fltuso/'
-thumbnail: /new-images/backyard-zombie-defense.png
+thumbnail: /new-images/thumbnails/backyard-zombie-defense.png
 tags:
   - tower Defense
   - thinky

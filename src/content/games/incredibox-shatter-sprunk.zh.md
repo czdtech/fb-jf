@@ -5,7 +5,7 @@ urlstr: "incredibox-shatter-sprunk"
 title: "Incredibox Shatter Sprunk - 在线畅玩 Incredibox Shatter Sprunk"
 description: "Incredibox Shatter Sprunk 是一款粉丝创作的 Incredibox 模组音乐游戏。在这个版本中，所有角色都以醒目的黄色呈现，每个角色都有独特且不可重复的音效。"
 iframeSrc: "https://turbowarp.org/1144858827/embed"
-thumbnail: "/incredibox-shatter-sprunk.png"
+thumbnail: /new-images/thumbnails/incredibox-shatter-sprunk.png
 score: "4.5/5  (614 票)"
 tags: ["incredibox shatter sprunk", "incredibox shatter sprunk online"]
 ---

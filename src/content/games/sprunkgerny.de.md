@@ -4,7 +4,7 @@ urlstr: sprunkgerny
 title: "Sprunkgerny - Sprunkgerny online spielen"
 description: "Wenn du nach einem wirklich ungewöhnlichen Musikerlebnis suchst, ist Sprunkgerny ein Muss: Es sprengt die Grenzen klassischer Rhythmusspiele, feiert Unperfektes und Zufall und lässt dich in einer schrägen, surrealen Welt frei mit Sounds experimentieren."
 iframeSrc: 'https://turbowarp.org/1107761681/embed'
-thumbnail: /Sprunkgerny.png
+thumbnail: /new-images/thumbnails/sprunkgerny.png
 tags:
   - sprunkgerny
   - sprunkgerny online

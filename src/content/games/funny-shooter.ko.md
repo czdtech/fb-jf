@@ -4,7 +4,7 @@ urlstr: funny-shooter
 title: Funny Shooter 퍼니 슈터
 description: '괴상한 적들이 몰려오는 웨이브형 FPS입니다. 적을 처치해 돈을 벌고, 새로운 무기와 업그레이드를 구매해 점점 강한 라운드를 버텨 보세요.'
 iframeSrc: 'https://bitlifeonline.github.io/class2623/funny-shooter/'
-thumbnail: /new-images/funny-shooter.jpg
+thumbnail: /new-images/thumbnails/funny-shooter.jpg
 tags:
   - shooting
   - fps

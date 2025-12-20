@@ -6,7 +6,7 @@ description: >-
   Northern Heights est un jeu de ski arcade : dévale les pentes, enchaîne les
   figures et collecte des pièces pour devenir une légende de la glisse.
 iframeSrc: 'https://northernheights.h5games.usercontent.goog/v/1pct901lj7uko/'
-thumbnail: /new-images/northern-heights.png
+thumbnail: /new-images/thumbnails/northern-heights.png
 tags:
   - sports
   - action

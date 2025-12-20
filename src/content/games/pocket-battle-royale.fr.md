@@ -4,7 +4,7 @@ urlstr: pocket-battle-royale
 title: Pocket Battle Royale
 description: "Pocket Battle Royale est un battle royale en vue du dessus\_: ramasse des armes et de la vie, reste dans la zone et essaie d'être le dernier survivant."
 iframeSrc: 'https://pocketbattleroyale.h5games.usercontent.goog/v/73p3fipujn1b0/'
-thumbnail: /new-images/pocket-battle-royale.png
+thumbnail: /new-images/thumbnails/pocket-battle-royale.png
 tags:
   - action
   - shooter

@@ -6,7 +6,7 @@ description: >-
   Zoo Boom est un jeu de tap-match coloré : touche des groupes d'animaux
   identiques pour les faire exploser et atteindre les objectifs de niveau.
 iframeSrc: 'https://zooboom.h5games.usercontent.goog/v/4g2tps61g9djg/'
-thumbnail: /new-images/zoo-boom.png
+thumbnail: /new-images/thumbnails/zoo-boom.png
 tags:
   - puzzle
   - casual

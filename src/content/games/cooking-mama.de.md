@@ -8,7 +8,7 @@ description: >-
   Gameplay und die aktivistische Botschaft dahinter – und grenzt es klar von der
   offiziellen Reihe ab.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/cooking-mama.html'
-thumbnail: /new-images/cooking-mama.jpg
+thumbnail: /new-images/thumbnails/cooking-mama.jpg
 tags:
   - horror
 score: 4.4/5  (1078 votes)

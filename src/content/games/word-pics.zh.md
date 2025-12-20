@@ -6,7 +6,7 @@ description: >-
   《Word Pics》是一款通过两张图片来猜一个单词或短语的益智游戏。
   仔细观察图中暗示，找出把两张图“串联”起来的那个关键词，一边闯关一边扩充词汇量。
 iframeSrc: 'https://wordpics.h5games.usercontent.goog/v/7sfi13vvf0cro/'
-thumbnail: /new-images/word-pics.jpg
+thumbnail: /new-images/thumbnails/word-pics.jpg
 tags:
   - puzzle
   - thinky

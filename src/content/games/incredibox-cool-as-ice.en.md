@@ -6,7 +6,7 @@ description: >-
   and seasonal themes. Dive into this frosty version to experience Incredibox
   like never before, bringing a cool twist to your sound creations.
 iframeSrc: 'https://turbowarp.org/1108441752/embed'
-thumbnail: /incredibox-cool-as-ice.png
+thumbnail: /new-images/thumbnails/incredibox-cool-as-ice.png
 urlstr: incredibox-cool-as-ice
 modType: incredibox
 score: 4.9/5  (724 votes)

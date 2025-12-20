@@ -2,7 +2,7 @@
 title: The Pillar
 description: The Pillarは、パズルアドベンチャーゲームです。謎を解いて柱の秘密を明らかにしましょう。
 iframeSrc: 'https://ubg98.github.io/ThePillar/'
-thumbnail: /new-images/the-pillar.jpg
+thumbnail: /new-images/thumbnails/the-pillar.jpg
 urlstr: the-pillar
 score: 4.2/5  (1543 votes)
 tags:

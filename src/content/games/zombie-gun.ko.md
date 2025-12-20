@@ -6,7 +6,7 @@ description: >-
   벽 튕김과 폭발을 이용해 최소 탄환으로 방을 쓸어버리는 물리 기반 슈팅 퍼즐 게임입니다. 각도를
   계산해 총알을 튕기고, 드럼통과 구조물을 활용해 좀비들을 한 번에 정리해 보세요.
 iframeSrc: 'https://5bcvrmoqria48.h5games.usercontent.goog/v/7cfakbl479q6o/'
-thumbnail: /new-images/zombie-gun.png
+thumbnail: /new-images/thumbnails/zombie-gun.png
 tags:
   - shooting
   - puzzle

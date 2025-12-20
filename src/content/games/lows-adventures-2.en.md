@@ -4,7 +4,7 @@ locale: en
 title: "Low's Adventures 2"
 description: "Retro platformer sequel: run‑and‑jump through compact stages, find keys and secrets, and beat timed challenges." 
 iframeSrc: "https://previews.customer.envatousercontent.com/files/489323722/index.html"
-thumbnail: "/new-images/lows-adventures-2.jpg"
+thumbnail: /new-images/thumbnails/lows-adventures-2.jpg
 urlstr: "lows-adventures-2"
 score: "3.6/5  (671 votes)"
 tags: ["platformer", "adventure"]

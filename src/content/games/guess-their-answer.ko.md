@@ -7,7 +7,7 @@ description: >-
   사람들이 가장 많이 떠올릴 법한 답을 적어 넣어, 상대보다 더 많은 상위
   응답을 맞혀 보세요.
 iframeSrc: 'https://0s1do8fmhrn9g.h5games.usercontent.goog/v/08gmb663j6g78/'
-thumbnail: /new-images/guess-their-answer.png
+thumbnail: /new-images/thumbnails/guess-their-answer.png
 tags:
   - puzzle
   - thinky

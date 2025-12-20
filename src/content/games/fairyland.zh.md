@@ -6,7 +6,7 @@ description: >-
   Fairyland 是一款氣氛溫柔的解謎冒險遊戲，在溫馨場景中慢慢探索、解開輕量謎題，
   以悠閒步調完成各種小目標。
 iframeSrc: 'https://66ts484uf5r18.h5games.usercontent.goog/v/1nt4ffhi7k9jo/'
-thumbnail: /new-images/fairyland.png
+thumbnail: /new-images/thumbnails/fairyland.png
 tags:
   - adventure
   - puzzle

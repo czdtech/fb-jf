@@ -2,7 +2,7 @@
 title: Puzzle Pieces Merge
 description: Puzzle Pieces Mergeはパズルのマージゲームです。同じピースを組み合わせて画像を完成させます。
 iframeSrc: 'https://puzzlepiecesmerge.h5games.usercontent.goog/v/2j9k5m8h7p3n8/'
-thumbnail: /new-images/puzzle-pieces-merge.png
+thumbnail: /new-images/thumbnails/puzzle-pieces-merge.jpg
 urlstr: puzzle-pieces-merge
 score: 4.0/5  (1623 votes)
 tags:

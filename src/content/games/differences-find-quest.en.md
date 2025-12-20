@@ -3,7 +3,7 @@ locale: en
 title: "Differences Find Quest"
 description: "Differences Find Quest is a detailed spot‑the‑difference — scan scenes, mark discrepancies, and use hints wisely."
 iframeSrc: "https://4rsldln0df32g.h5games.usercontent.goog/v/1hcmcbpl76s40/"
-thumbnail: "/new-images/differences-find-quest.png"
+thumbnail: /new-images/thumbnails/differences-find-quest.png
 urlstr: "differences-find-quest"
 score: "4.0/5  (1876 votes)"
 tags: ["puzzle", "thinky", "casual"]

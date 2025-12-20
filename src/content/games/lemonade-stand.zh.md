@@ -4,7 +4,7 @@ urlstr: lemonade-stand
 title: 《Lemonade Stand》柠檬水小摊
 description: 《Lemonade Stand》是一款经典的商业模拟游戏，你要为自家柠檬水摊设置价格、配方和广告投放，采购杯子/柠檬/冰块，在多变天气下管理每天的盈亏。
 iframeSrc: 'https://ad-freegames.github.io/flash/game/lemonade-stand.html'
-thumbnail: /new-images/lemonade-stand.jpg
+thumbnail: /new-images/thumbnails/lemonade-stand.jpg
 tags:
   - simulation
   - tycoon

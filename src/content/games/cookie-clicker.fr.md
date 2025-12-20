@@ -4,7 +4,7 @@ urlstr: cookie-clicker
 title: Cookie Clicker
 description: "Cookie Clicker est le clicker culte\_: clique pour cuire des cookies, achète des bâtiments automatiques, débloque des upgrades et fais monter ton compteur à des nombres absurdes."
 iframeSrc: 'https://6ig44rn7j23o0.h5games.usercontent.goog/v/7hrljgmep8mf0/'
-thumbnail: /new-images/cookie-clicker.jpg
+thumbnail: /new-images/thumbnails/cookie-clicker.jpg
 tags:
   - casual
   - clicker

@@ -7,7 +7,7 @@ description: >-
   shooter en el que combinas tres o más burbujas para limpiar el tablero y
   quedarte con el tesoro.
 iframeSrc: 'https://piratepop.h5games.usercontent.goog/v/3japc2shd35ug/'
-thumbnail: /new-images/pirate-pop.png
+thumbnail: /new-images/thumbnails/pirate-pop.png
 tags:
   - shooting
   - puzzle

@@ -7,7 +7,7 @@ description: >-
   Sprunkis dynamische Kunst mit der rohen, mechanischen Kraft von Stahl und
   Maschinen verbindet.
 iframeSrc: 'https://turbowarp.org/1099071172/embed'
-thumbnail: /sprunki-sepbox-steel-factory.png
+thumbnail: /new-images/thumbnails/sprunki-sepbox-steel-factory.png
 tags:
   - sprunki x sepbox steel factory
 score: 4.9/5  (509 votes)

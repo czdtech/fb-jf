@@ -7,7 +7,7 @@ description: >-
   점프와 비행, 링 타이밍을 맞춰 음악과 함께 장애물을 돌파해 보세요.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp46/chenling/20240322/06/index.html
-thumbnail: /new-images/geometry-dash-subzero.jpg
+thumbnail: /new-images/thumbnails/geometry-dash-subzero.jpg
 tags:
   - rhythm
   - platformer

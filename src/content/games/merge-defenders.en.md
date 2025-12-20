@@ -6,7 +6,7 @@ description: >-
   Combine identical defenders to create more powerful versions and strategically
   place them to fend off waves of enemies.
 iframeSrc: 'https://5c1j2nn9b0q4o.h5games.usercontent.goog/v/20drsjkant5s8/'
-thumbnail: /new-images/merge-defenders.png
+thumbnail: /new-images/thumbnails/merge-defenders.png
 urlstr: merge-defenders
 score: 4.4/5  (2250 votes)
 tags:

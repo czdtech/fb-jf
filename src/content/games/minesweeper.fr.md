@@ -4,7 +4,7 @@ urlstr: "minesweeper"
 title: "Minesweeper"
 description: "Minesweeper est un jeu de puzzle solo où tu dois vider une grille contenant des mines cachées sans les déclencher, en t’aidant des nombres qui indiquent combien de mines les entourent."
 iframeSrc: "https://freeonlinegames.github.io/games/minesweeper/"
-thumbnail: "/new-images/minesweeper.jpg"
+thumbnail: /new-images/thumbnails/minesweeper.jpg
 tags: ["puzzle", "strategy", "casual"]
 score: "3.6/5  (289 votes)"
 developer: ""

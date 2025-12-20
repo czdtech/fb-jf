@@ -7,7 +7,7 @@ description: >-
   uniforme de amarillo mostaza, añadiendo un toque inquietante a la estética
   vibrante original.
 iframeSrc: 'https://html-classic.itch.zone/html/14281578/index.html'
-thumbnail: /sprunki-mustard.png
+thumbnail: /new-images/thumbnails/sprunki-mustard.png
 tags:
   - sprunki mustard
 score: 3.9/5  (827 votes)

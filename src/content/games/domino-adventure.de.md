@@ -7,7 +7,7 @@ description: >-
   Strategien für Block- und Draw-Modus, verwalte deine Steine clever und gewinne
   Runden, indem du als Erster all deine Domino-Steine ausspielst.
 iframeSrc: 'https://28vlnkkhq8gjg.h5games.usercontent.goog/v/4mi9k9oin4dn8/'
-thumbnail: /new-images/domino-adventure.png
+thumbnail: /new-images/thumbnails/domino-adventure.png
 tags:
   - puzzle
   - strategy

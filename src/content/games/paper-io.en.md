@@ -6,7 +6,7 @@ description: >-
   block and aim to conquer as much territory as possible by drawing lines and
   enclosing areas, while avoiding other players.
 iframeSrc: 'https://mathgames66.github.io/games/html5/paperio2/'
-thumbnail: /new-images/paper-io.jpg
+thumbnail: /new-images/thumbnails/paper-io.jpg
 urlstr: paper-io
 score: 4.2/5  (496 votes)
 tags:

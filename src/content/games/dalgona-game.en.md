@@ -3,7 +3,7 @@ locale: en
 title: "Dalgona Game"
 description: "Dalgona Game recreates honeycomb carving — trace shapes carefully, manage cracks, and finish before time runs out."
 iframeSrc: "https://12d729aggg2h0.h5games.usercontent.goog/v/786aa9qgft3vo/"
-thumbnail: "/new-images/dalgona-game.png"
+thumbnail: /new-images/thumbnails/dalgona-game.png
 urlstr: "dalgona-game"
 score: "3.9/5  (1722 votes)"
 tags: ["casual", "thinky"]

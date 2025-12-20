@@ -7,7 +7,7 @@ description: >-
   Handbuch gibt dir Strategien für perfektes Timing, das Umgehen von
   Hindernissen und das Freischalten neuer Charaktere für Höchstpunktzahlen.
 iframeSrc: 'https://1muicq0oght78.h5games.usercontent.goog/v/1aim9ophd8cdg/'
-thumbnail: /new-images/climb-man.png
+thumbnail: /new-images/thumbnails/climb-man.png
 tags:
   - action
   - casual

@@ -6,7 +6,7 @@ description: >-
   Football Stars 把足球濃縮成短暫、爽快的街機對戰——靠聰明傳球、掌握射門時機與走位，
   在簡短比賽中晃過防守、取得進球。
 iframeSrc: 'https://0bqhpbln445co.h5games.usercontent.goog/v/2to6kd3co500g/'
-thumbnail: /new-images/football-stars.png
+thumbnail: /new-images/thumbnails/football-stars.png
 tags:
   - sports
   - soccer

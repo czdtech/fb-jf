@@ -4,7 +4,7 @@ locale: en
 title: "Crossword"
 description: "Crossword is a classic fill‑in puzzle: solve across and down clues so all crossing letters match."
 iframeSrc: "https://ad-freegames.github.io/flash/game/crossword.html"
-thumbnail: "/new-images/crossword.jpg"
+thumbnail: /new-images/thumbnails/crossword.jpg
 urlstr: "crossword"
 score: "4.8/5  (195 votes)"
 tags: ["word", "puzzle"]

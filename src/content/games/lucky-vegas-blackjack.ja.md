@@ -2,7 +2,7 @@
 title: "Lucky Vegas Blackjack"
 description: "Lucky Vegas Blackjackはテンポよく遊べるブラックジャックです。基本戦略と資金管理を意識し、損失を追いかけずに楽しみましょう。"
 iframeSrc: "https://35ntqr0siokq8.h5games.usercontent.goog/v/1hhotshtjugn8/"
-thumbnail: "/new-images/lucky-vegas-blackjack.png"
+thumbnail: /new-images/thumbnails/lucky-vegas-blackjack.png
 urlstr: "lucky-vegas-blackjack"
 score: "3.7/5  (1604 votes)"
 tags: ["card", "casual", "thinky"]

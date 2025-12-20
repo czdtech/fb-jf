@@ -7,7 +7,7 @@ description: >-
   맞춰 카드를 내고, 효율적인 교환으로 보드를 장악해 상대를 읽어내며 승리를
   노려 보세요.
 iframeSrc: 'https://7t89fh6irdv0g.h5games.usercontent.goog/v/5gpd6kf06hr8g/'
-thumbnail: /new-images/clash-of-warriors.png
+thumbnail: /new-images/thumbnails/clash-of-warriors.png
 tags:
   - card
   - thinky

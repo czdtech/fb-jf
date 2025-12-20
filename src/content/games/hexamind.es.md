@@ -7,7 +7,7 @@ description: >-
   cumpliendo reglas de adyacencia y gestiona paridades y sumas en diseños de
   panal.
 iframeSrc: 'https://518ndvi54l1n0.h5games.usercontent.goog/v/608gefgjbkc88/'
-thumbnail: /new-images/hexamind.png
+thumbnail: /new-images/thumbnails/hexamind.png
 tags:
   - puzzle
   - thinky

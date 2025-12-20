@@ -2,7 +2,7 @@
 title: "Lake Jump"
 description: "Lake Jumpはワンタップタイミングゲームです。プラットフォームを飛び越え、落下を避け、完璧なジャンプを連鎖させます。"
 iframeSrc: "https://lakejump.h5games.usercontent.goog/v/33bg3iluek1fg/"
-thumbnail: "/new-images/lake-jump.png"
+thumbnail: /new-images/thumbnails/lake-jump.png
 urlstr: "lake-jump"
 score: "3.7/5  (1276 votes)"
 tags: ["action", "casual"]

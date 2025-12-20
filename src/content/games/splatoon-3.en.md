@@ -4,7 +4,7 @@ locale: en
 title: "Splatoon 3"
 description: "Dive into the colorful world of Splatoon 3! In this action-packed shooter, cover the territory with your team's ink to claim victory. Transform into a squid to swim through your ink, ambush opponents, and refill your weapon. Master movement and teamwork to dominate the turf."
 iframeSrc: "https://bitlifeonline.github.io/splatoon-3/"
-thumbnail: "/new-images/splatoon-3.jpg"
+thumbnail: /new-images/thumbnails/splatoon-3.jpg
 urlstr: "splatoon-3"
 score: "4.3/5  (955 votes)"
 tags: ["action", "shooting", "multiplayer"]

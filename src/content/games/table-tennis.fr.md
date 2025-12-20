@@ -4,7 +4,7 @@ urlstr: table-tennis
 title: Table Tennis
 description: "Maîtrise ta raquette dans Table Tennis\_: affronte l'IA, marque des points et deviens champion de ping‑pong grâce à ton timing et tes réflexes."
 iframeSrc: 'https://tabletennis.h5games.usercontent.goog/v/4eeofbe4nfj1g/'
-thumbnail: /new-images/table-tennis.png
+thumbnail: /new-images/thumbnails/table-tennis.png
 tags:
   - sports
   - 2 player

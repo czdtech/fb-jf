@@ -7,7 +7,7 @@ description: >-
   멈추는 선택으로 21에 최대한 가깝게 점수를 맞추되, 21을 넘지 않도록 위험을
   관리해야 합니다.
 iframeSrc: 'https://11kvu79prlefg.h5games.usercontent.goog/v/67r78cf7q96c0/'
-thumbnail: /new-images/cards-21.png
+thumbnail: /new-images/thumbnails/cards-21.png
 tags:
   - card
   - casual

@@ -7,7 +7,7 @@ description: >-
   모두 담은 시리즈 최신작 Bloons TD 6입니다. 침략해 오는 모든 블룬을 터뜨리기
   위한 완벽한 수비 전략을 세워 보세요.
 iframeSrc: 'https://html5.gamenora.com/Bloons%20TD%206/'
-thumbnail: /new-images/bloons-td-6.jpg
+thumbnail: /new-images/thumbnails/bloons-td-6.jpg
 tags:
   - casual
   - strategy

@@ -2,7 +2,7 @@
 title: Smarty Bubbles 2
 description: Smarty Bubbles 2はバブルシューターのパズルです。同じ色をそろえて消し、ボードをクリアします。
 iframeSrc: 'https://smartybubbles2.h5games.usercontent.goog/v/2j9k5m8h7p3n8/'
-thumbnail: /new-images/smarty-bubbles-2.png
+thumbnail: /new-images/thumbnails/smarty-bubbles-2.png
 urlstr: smarty-bubbles-2
 score: 4.3/5  (2456 votes)
 tags:

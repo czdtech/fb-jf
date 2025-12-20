@@ -6,7 +6,7 @@ description: >-
   Sprunki characters, each ready to lend their unique musical voice to your
   compositions.
 iframeSrc: 'https://turbowarp.org/1110888906/embed'
-thumbnail: /sprunki-babies.png
+thumbnail: /new-images/thumbnails/sprunki-babies.png
 urlstr: sprunki-babies
 modType: sprunki
 score: 4.0/5  (212 votes)

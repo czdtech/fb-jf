@@ -7,7 +7,7 @@ description: >-
   공을 조종해 모험을 떠나는 물리 기반 플랫포머 게임입니다. 장애물과 퍼즐을 넘어서며
   세상을 구해 보세요.
 iframeSrc: 'https://class198.github.io/g177/red-ball-4/'
-thumbnail: /new-images/red-ball-4.jpg
+thumbnail: /new-images/thumbnails/red-ball-4.jpg
 tags:
   - platformer
   - physics

@@ -2,7 +2,7 @@
 title: "Pick a Lock"
 description: "Pick a Lockはロック解除パズルです。タイミングを合わせてピンを揃え、ロックを解除します。"
 iframeSrc: "https://pickalock.h5games.usercontent.goog/v/4k9j5m8h7p3n8/"
-thumbnail: "/new-images/pick-a-lock.png"
+thumbnail: /new-images/thumbnails/pick-a-lock.jpg
 urlstr: "pick-a-lock"
 score: "4.0/5  (1734 votes)"
 tags: ["puzzle", "casual"]

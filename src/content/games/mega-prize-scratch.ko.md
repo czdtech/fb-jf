@@ -6,7 +6,7 @@ description: >-
   Mega Prize Scratch는 복권 긁기 느낌을 간단히 즐길 수 있는 캐주얼 스크래치 카드
   게임입니다. 패널을 긁어 심볼을 확인하고, 세션별 한도를 정해 가볍게 즐겨 보세요.
 iframeSrc: 'https://3a38lqtqled1o.h5games.usercontent.goog/v/37llbljplv5v0/'
-thumbnail: /new-images/mega-prize-scratch.png
+thumbnail: /new-images/thumbnails/mega-prize-scratch.png
 tags:
   - casual
 score: 3.6/5  (1538 votes)

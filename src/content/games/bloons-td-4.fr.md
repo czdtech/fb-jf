@@ -4,7 +4,7 @@ urlstr: bloons-td-4
 title: "Bloons TD 4"
 description: "Bloons TD 4 introduit les chemins d’amélioration séparés, de nouvelles tours et le BFB : choisis la bonne branche pour chaque tour et développe une économie solide pour survivre aux blimps."
 iframeSrc: "https://1000freegames.github.io/swf/bloons-td-4.html"
-thumbnail: /new-images/bloons-td-4.jpg
+thumbnail: /new-images/thumbnails/bloons-td-4.jpg
 tags:
   - casual
   - strategy

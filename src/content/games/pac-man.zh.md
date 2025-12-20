@@ -5,7 +5,7 @@ title: "《PAC-MAN》吃豆人经典街机"
 description: >-
   《PAC-MAN》是一款经典街机迷宫游戏，你操控黄色小吃豆人在迷宫中吃光所有豆子，同时躲避四只幽灵；吃下能量豆后，还可以短时间反吃幽灵获取高分。
 iframeSrc: 'https://bward2.github.io/pacman-js/'
-thumbnail: /new-images/pac-man.jpg
+thumbnail: /new-images/thumbnails/pac-man.jpg
 tags:
   - arcade
   - maze

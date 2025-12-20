@@ -8,7 +8,7 @@ description: >-
   승리할 수 있습니다.
 iframeSrc: >-
   https://app-185146.games.s3.yandex.net/185146/4mtxwijatlm9neect542qv9nbcqetm7u/index.html
-thumbnail: /new-images/gangsters.jpg
+thumbnail: /new-images/thumbnails/gangsters.jpg
 tags:
   - action
   - physics

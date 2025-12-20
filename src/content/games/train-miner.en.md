@@ -3,7 +3,7 @@ locale: en
 title: "Train Miner"
 description: "Train Miner is a rail‑laying puzzler — lay tracks, collect ore, and reach exits while optimizing turns and fuel."
 iframeSrc: "https://7r2vmm5fqv830.h5games.usercontent.goog/v/3ubj960lc0t4o/"
-thumbnail: "/new-images/train-miner.png"
+thumbnail: /new-images/thumbnails/train-miner.png
 urlstr: "train-miner"
 score: "4.1/5  (1970 votes)"
 tags: ["puzzle", "thinky"]

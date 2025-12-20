@@ -7,7 +7,7 @@ description: >-
   responsabilidad, aprende las líneas de pago y persigue las funciones especiales
   sin apostar de más.
 iframeSrc: 'https://7f8j0t3m1ptv8.h5games.usercontent.goog/v/33cv74na0lvqg/'
-thumbnail: /new-images/fruit-slot-machine.jpg
+thumbnail: /new-images/thumbnails/fruit-slot-machine.jpg
 tags:
   - casual
 score: 3.6/5  (1527 votes)

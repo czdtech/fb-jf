@@ -7,7 +7,7 @@ description: >-
   코너와 슛 높이를 바꾸고, 타이밍을 흔들어 심리전으로 상대를
   속여 보세요.
 iframeSrc: 'https://58r8ibinmpjeg.h5games.usercontent.goog/v/2m3pjv3her9fg/'
-thumbnail: /new-images/penalty-showdown.jpg
+thumbnail: /new-images/thumbnails/penalty-showdown.jpg
 tags:
   - sports
   - soccer

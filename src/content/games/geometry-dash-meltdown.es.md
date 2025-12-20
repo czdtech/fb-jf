@@ -7,7 +7,7 @@ description: >-
   sincronizados con la música, llenos de peligros temáticos y secciones de nave
   y bola.
 iframeSrc: 'https://geometrylite.io/game/geometry-dash-meltdown/'
-thumbnail: /new-images/geometry-dash-meltdown.jpg
+thumbnail: /new-images/thumbnails/geometry-dash-meltdown.jpg
 tags:
   - rhythm
   - platformer

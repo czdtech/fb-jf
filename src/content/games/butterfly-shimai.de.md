@@ -7,7 +7,7 @@ description: >-
   passende Schmetterlingsflügel, lass fertige Schmetterlinge davonfliegen und
   räume das Spielfeld, bevor die Zeit abläuft.
 iframeSrc: 'https://1pq2qond4eka0.h5games.usercontent.goog/v/4oiv5e7dd7vd8/'
-thumbnail: /new-images/butterfly-shimai.png
+thumbnail: /new-images/thumbnails/butterfly-shimai.png
 tags:
   - puzzle
   - casual

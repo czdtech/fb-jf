@@ -3,7 +3,7 @@ locale: en
 title: "Jewel Legend"
 description: "Become a Jewel Legend in this dazzling match-3 adventure. Swap and match glittering gems to create explosive combos and solve hundreds of challenging puzzles."
 iframeSrc: "https://jewellegend.h5games.usercontent.goog/v/36cb1hitjsa3o/"
-thumbnail: "/new-images/jewel-legend.png"
+thumbnail: /new-images/thumbnails/jewel-legend.png
 urlstr: "jewel-legend"
 score: "4.5/5  (3100 votes)"
 tags: ["puzzle", "casual", "action"]

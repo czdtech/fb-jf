@@ -6,7 +6,7 @@ description: >-
   Basketball Master 2 es un juego centrado en perfeccionar tu tiro. Apunta,
   lanza y rompe obstáculos para encestar en niveles cada vez más desafiantes.
 iframeSrc: 'https://basketballmaster2.h5games.usercontent.goog/v/267j5oehq25q0/'
-thumbnail: /new-images/basketball-master-2.png
+thumbnail: /new-images/thumbnails/basketball-master-2.png
 tags:
   - sports
   - basketball

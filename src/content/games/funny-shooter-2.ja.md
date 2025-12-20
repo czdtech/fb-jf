@@ -2,7 +2,7 @@
 title: Funny Shooter 2
 description: ウェーブベースのFPS：奇妙な敵の集団を拡大し続ける武器で爆破し、コインを稼ぎ、ステージ間で武器をアップグレードしましょう。
 iframeSrc: 'https://bitlifeonline.github.io/class2623/funny-shooter-2/'
-thumbnail: /new-images/funny-shooter-2.jpg
+thumbnail: /new-images/thumbnails/funny-shooter-2.jpg
 urlstr: funny-shooter-2
 score: 3.8/5  (514 votes)
 tags:

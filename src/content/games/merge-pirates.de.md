@@ -8,7 +8,7 @@ description: >-
   Piratenlegende der sieben Weltmeere in diesem süchtig machenden
   Merge-Puzzlespiel.
 iframeSrc: 'https://mergepirates.h5games.usercontent.goog/v/2rugbh8p4845g/'
-thumbnail: /new-images/merge-pirates.png
+thumbnail: /new-images/thumbnails/merge-pirates.png
 tags:
   - puzzle
   - casual

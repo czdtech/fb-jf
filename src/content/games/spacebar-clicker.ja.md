@@ -3,7 +3,7 @@
 title: "Spacebar Clicker"
 description: "Spacebar Clickerはスペースバー連打でポイントを稼ぐクリッカーです。アップグレードで自動化し、獲得効率を上げていきます。"
 iframeSrc: "https://spacebarclicker.co/game/spacebar-counter/"
-thumbnail: "/new-images/spacebar-clicker.jpg"
+thumbnail: /new-images/thumbnails/spacebar-clicker.jpg
 urlstr: "spacebar-clicker"
 score: "4.1/5  (866 votes)"
 tags: ["clicker", "idle", "skill"]

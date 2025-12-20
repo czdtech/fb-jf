@@ -2,7 +2,7 @@
 title: "Escaping the Prison 脱獄大作戦"
 description: "「Escaping the Prison」はヘンリー・スティックミンのポイント＆クリック・アドベンチャー。アイテムとルート（こっそり/強引/合法）を選んで脱獄せよ。複数のエンディングとギャグが待つ。"
 iframeSrc: "https://classroomjq.github.io/escaping-the-prison/"
-thumbnail: "/new-images/escaping-the-prison.jpg"
+thumbnail: /new-images/thumbnails/escaping-the-prison.jpg
 urlstr: "escaping-the-prison"
 score: "5.0/5  (1344 votes)"
 tags: ["adventure", "point-and-click"]

@@ -5,7 +5,7 @@ urlstr: "sprunki-meets-the-cat-spell"
 title: "Sprunki Meets The Cat Spell - 在线玩 Sprunki Meets The Cat Spell"
 description: "这款 Mod 是现有 Mod「Sprunki Cats Game」的重制版本。"
 iframeSrc: "https://turbowarp.org/1149710266/embed"
-thumbnail: "/sprunki-meets-the-cat-spell.png"
+thumbnail: /new-images/thumbnails/sprunki-meets-the-cat-spell.png
 score: "4.8/5  (649 票)"
 tags: ["sprunki meets the cat spell", "sprunki meets the cat spell online"]
 ---

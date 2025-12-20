@@ -7,7 +7,7 @@ description: >-
   deiner Quest voran, indem du näher an 21 kommst als dein Gegenüber – ohne zu
   überziehen.
 iframeSrc: 'https://7h2pln0tgo8q0.h5games.usercontent.goog/v/004k30od8uvog/'
-thumbnail: /new-images/quest-21.png
+thumbnail: /new-images/thumbnails/quest-21.png
 tags:
   - card
   - puzzle

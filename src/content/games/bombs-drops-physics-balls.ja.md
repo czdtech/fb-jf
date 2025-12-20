@@ -2,7 +2,7 @@
 title: "Bombs Drops Physics balls ボムズ・ドロップス・フィジックス・ボール"
 description: "「Bombs Drops Physics balls」は爆弾と物理演算で遊ぶパズルゲーム。投下タイミングを見極め、連鎖反応を起こし、ターゲットを一掃しよう。"
 iframeSrc: "https://6nhcl6kaecsio.h5games.usercontent.goog/v/09ccnat7ptqs8/"
-thumbnail: "/new-images/bombs-drops-physics-balls.jpg"
+thumbnail: /new-images/thumbnails/bombs-drops-physics-balls.jpg
 urlstr: "bombs-drops-physics-balls"
 score: "3.9/5  (1598 votes)"
 tags: ["puzzle", "thinky", "casual"]

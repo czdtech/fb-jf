@@ -6,7 +6,7 @@ description: >-
   Luchas de gladiadores 2D con saltos físicos: personaliza tu equipo, mide
   estocadas y paradas y asciende por las arenas en duelos y distintos modos.
 iframeSrc: 'https://m.igroutka.ru/g-1/113/Gladihoppers/'
-thumbnail: /new-images/gladihoppers.jpg
+thumbnail: /new-images/thumbnails/gladihoppers.jpg
 tags:
   - fighting
   - action

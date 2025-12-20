@@ -3,7 +3,7 @@
 title: "Spider Solitaire"
 description: "Spider Solitaireは104枚で遊ぶソリティアです。キングからエースまでの同一スートの並びを作り、タブローをすべてクリアします。"
 iframeSrc: "https://www.squidbyte.com/games_third/spider/en/spider-solitaire-halloween/"
-thumbnail: "/new-images/spider-solitaire.jpg"
+thumbnail: /new-images/thumbnails/spider-solitaire.jpg
 urlstr: "spider-solitaire"
 score: "4.8/5  (331 votes)"
 tags: ["card-game", "puzzle", "strategy"]

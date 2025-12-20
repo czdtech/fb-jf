@@ -6,7 +6,7 @@ description: >-
   Super Smash Flash는 여러 인기 게임·애니 캐릭터를 한 화면에서 조작해 싸우는 팬 메이드 대전 액션 게임입니다. 간단한 키
   조합으로 최대 4인이 난투를 즐길 수 있습니다.
 iframeSrc: 'https://super-smash-flash.h5games.usercontent.goog/v/2ab8nr2t969c4/'
-thumbnail: /new-images/super-smash-flash.jpg
+thumbnail: /new-images/thumbnails/super-smash-flash.jpg
 tags:
   - fighting
   - action

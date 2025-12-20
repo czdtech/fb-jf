@@ -8,7 +8,7 @@ description: >-
   l'air pour effectuer un double saut et franchir les dangereux gouffres
   d'Endless Lake.
 iframeSrc: 'https://3llnkqqmic17g.h5games.usercontent.goog/v/0e8uaqritcs8o/'
-thumbnail: /new-images/endless-lake.png
+thumbnail: /new-images/thumbnails/endless-lake.png
 tags:
   - action
   - casual

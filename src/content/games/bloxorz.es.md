@@ -8,7 +8,7 @@ description: >-
   rodar con precisión hasta el agujero de salida en este clásico juego de
   puzles.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/bloxorz.html'
-thumbnail: /new-images/bloxorz.jpg
+thumbnail: /new-images/thumbnails/bloxorz.jpg
 tags:
   - casual
   - rhythm

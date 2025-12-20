@@ -4,7 +4,7 @@ urlstr: quest-21
 title: Quest 21
 description: "Une aventure façon Blackjack\_! Joue des mains de 21 pour vaincre tes adversaires et progresser dans ta quête\_: approche‑toi le plus possible de 21 sans le dépasser pour gagner."
 iframeSrc: 'https://7h2pln0tgo8q0.h5games.usercontent.goog/v/004k30od8uvog/'
-thumbnail: /new-images/quest-21.png
+thumbnail: /new-images/thumbnails/quest-21.png
 tags:
   - card
   - puzzle

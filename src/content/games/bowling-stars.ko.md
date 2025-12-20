@@ -7,7 +7,7 @@ description: >-
   시뮬레이션 게임입니다. 레인 상태를 읽고 각도와 회전을 조절해, 스트라이크와
   스페어를 꾸준히 이어 가 보세요.
 iframeSrc: 'https://0pst60kfu8pi8.h5games.usercontent.goog/v/249kviafiu6co/'
-thumbnail: /new-images/bowling-stars.png
+thumbnail: /new-images/thumbnails/bowling-stars.png
 tags:
   - sports
   - casual

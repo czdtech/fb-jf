@@ -7,7 +7,7 @@ description: >-
   스타일 음악 게임입니다. 부족의 연주자들을 이끌어 북소리와 챈트로 독특한
   트라이벌 비트를 만들어 볼 수 있습니다.
 iframeSrc: 'https://turbowarp.org/1095335052/embed'
-thumbnail: /sprunki-abgerny.png
+thumbnail: /new-images/thumbnails/sprunki-abgerny.png
 tags:
   - sprunki abgerny
 score: 3.9/5  (132 votes)

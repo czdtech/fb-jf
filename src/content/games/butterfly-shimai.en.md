@@ -4,7 +4,7 @@ title: "Butterfly Shimai"
 description: "Soar into a beautiful puzzle adventure with Butterfly Shimai! Connect matching butterfly wings to make them fly away and clear the board."
 iframeSrc: "https://1pq2qond4eka0.h5games.usercontent.goog/v/4oiv5e7dd7vd8/"
 urlstr: "butterfly-shimai"
-thumbnail: "/new-images/butterfly-shimai.png"
+thumbnail: /new-images/thumbnails/butterfly-shimai.png
 score: "4.6/5  (2100 votes)"
 tags: ["puzzle", "casual", "thinky"]
 developer: ""

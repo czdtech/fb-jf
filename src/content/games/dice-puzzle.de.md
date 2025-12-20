@@ -7,7 +7,7 @@ description: >-
   5x5-Spielfeld, kombiniere drei gleiche Werte zu einer höheren Zahl und plane
   deine Züge, bevor das Brett vollläuft.
 iframeSrc: 'https://0vfcifju4i900.h5games.usercontent.goog/v/2jg90liogd5f8/'
-thumbnail: /new-images/dice-puzzle.jpg
+thumbnail: /new-images/thumbnails/dice-puzzle.jpg
 tags:
   - puzzle
   - thinky

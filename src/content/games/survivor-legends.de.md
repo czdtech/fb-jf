@@ -4,7 +4,7 @@ urlstr: survivor-legends
 title: "Survivor Legends"
 description: "Survivor Legends ist ein Auto-Angriff-Horde-Survivor: Du kreist Gegner aus, draftest Synergien und mähst Wellen mit guter Cooldown-Ökonomie und Positionierung nieder." 
 iframeSrc: 'https://244mb60l209a8.h5games.usercontent.goog/v/1koih6fev3le8/'
-thumbnail: /new-images/survivor-legends.png
+thumbnail: /new-images/thumbnails/survivor-legends.png
 tags:
   - action
   - shooting

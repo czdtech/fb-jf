@@ -7,7 +7,7 @@ description: >-
   Strategien fürs perfekte Timing, das Anpassen an rotierende Ringe und das
   Überleben für einen neuen Highscore.
 iframeSrc: 'https://colorburst3d.h5games.usercontent.goog/v/3l27vlnq6dvto/'
-thumbnail: /new-images/color-burst-3d.jpeg
+thumbnail: /new-images/thumbnails/color-burst-3d.jpeg
 tags:
   - action
   - casual

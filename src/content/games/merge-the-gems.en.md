@@ -3,7 +3,7 @@ locale: en
 title: "Merge the Gems"
 description: "Merge identical gems to forge new, more valuable jewels! Fill your board, complete challenges, and discover all the precious stones in this sparkling and addictive merge puzzle game."
 iframeSrc: "https://mergethegems.h5games.usercontent.goog/v/5rut2fhhuqb1g/"
-thumbnail: "/new-images/merge-the-gems.jpg"
+thumbnail: /new-images/thumbnails/merge-the-gems.jpg
 urlstr: "merge-the-gems"
 score: "4.4/5  (2400 votes)"
 tags: ["puzzle", "casual", "clicker"]

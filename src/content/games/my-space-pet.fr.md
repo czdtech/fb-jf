@@ -4,7 +4,7 @@ urlstr: my-space-pet
 title: My Space Pet
 description: "Pars pour une aventure interstellaire avec My Space Pet\_! Adopte et chouchoute ta propre créature alien, explore la galaxie et personnalise sa maison spatiale."
 iframeSrc: 'https://6jqt3hoth456g.h5games.usercontent.goog/v/6jqt3hoth456g/'
-thumbnail: /new-images/my-space-pet.png
+thumbnail: /new-images/thumbnails/my-space-pet.png
 tags:
   - casual
   - adventure

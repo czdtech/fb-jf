@@ -7,7 +7,7 @@ description: >-
   plusieurs images, en faisant appel à ton sens de l'observation et à ton
   vocabulaire.
 iframeSrc: 'https://picswordgame.h5games.usercontent.goog/v/40jujb4uelhb0/'
-thumbnail: /new-images/pics-word-game.jpg
+thumbnail: /new-images/thumbnails/pics-word-game.jpg
 tags:
   - puzzle
   - thinky

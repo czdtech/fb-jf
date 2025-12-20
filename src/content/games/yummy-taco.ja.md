@@ -2,7 +2,7 @@
 title: Yummy Taco
 description: Yummy Tacoは、タコス作りゲームです。お客様の注文通りにタコスを作りましょう。
 iframeSrc: 'https://ubg98.github.io/YummyTaco/'
-thumbnail: /new-images/yummy-taco.jpg
+thumbnail: /new-images/thumbnails/yummy-taco.jpg
 urlstr: yummy-taco
 score: 4.3/5  (2234 votes)
 tags:

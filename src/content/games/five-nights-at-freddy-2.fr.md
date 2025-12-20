@@ -4,7 +4,7 @@ urlstr: five-nights-at-freddy-2
 title: "Five Nights at Freddy's 2 (FNAF 2)"
 description: "Gestion du masque et de la boîte à musique : surveille plusieurs animatroniques, remonte la boîte du Puppet, utilise la lampe torche et mets le masque de Freddy au bon moment pour survivre."
 iframeSrc: 'https://ubg77.github.io/fix/fnaf2/'
-thumbnail: /new-images/five-nights-at-freddy-2.jpg
+thumbnail: /new-images/thumbnails/five-nights-at-freddy-2.jpg
 tags:
   - horror
   - strategy

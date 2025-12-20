@@ -2,7 +2,7 @@
 title: "One Line Only Dot to Dot"
 description: "One Line Only Dot to Dotは一筆書きパズルです。すべての点を一筆で接続し、論理パズルをマスターします。"
 iframeSrc: "https://onelineonlydottodot.h5games.usercontent.goog/v/3j8k5m9h7p2n8/"
-thumbnail: "/new-images/one-line-only-dot-to-dot.png"
+thumbnail: /new-images/thumbnails/one-line-only-dot-to-dot.jpg
 urlstr: "one-line-only-dot-to-dot"
 score: "4.2/5  (1967 votes)"
 tags: ["puzzle", "thinky"]

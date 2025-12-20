@@ -7,7 +7,7 @@ description: >-
   경험을 제공합니다.
 iframeSrc: >-
   https://mahjong3d.h5games.usercontent.goog/v/eba0837e-4855-4bb2-b762-5dd6d8982cac/
-thumbnail: /new-images/mahjong-3d.jpg
+thumbnail: /new-images/thumbnails/mahjong-3d.jpg
 tags:
   - puzzle
   - thinky

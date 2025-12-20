@@ -4,7 +4,7 @@ urlstr: choir
 title: Choir Game
 description: "Découvre Blob Opera, cette expérience chorale virale\_! Contrôle un quatuor de blobs chanteurs, joue avec la hauteur et les voyelles et crée tes propres morceaux d’opéra en quelques gestes."
 iframeSrc: 'https://d21u3ic0kp9e91.cloudfront.net/choir/04/index.html'
-thumbnail: /new-images/choir.jpg
+thumbnail: /new-images/thumbnails/choir.jpg
 tags:
   - casual
   - music

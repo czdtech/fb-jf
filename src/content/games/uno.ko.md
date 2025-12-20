@@ -7,7 +7,7 @@ description: >-
   카드를 내고, 특수 카드로 상대의 흐름을 끊으면서 손패를 가장 먼저 모두 비우고 "UNO!"를 외치는
   사람이 승리합니다.
 iframeSrc: 'https://www.xpgameplus.com/games/uno/default.html'
-thumbnail: /new-images/uno.jpg
+thumbnail: /new-images/thumbnails/uno.jpg
 tags:
   - card game
   - strategy

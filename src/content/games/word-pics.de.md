@@ -6,7 +6,7 @@ description: >-
   Errate in Word Pics das Wort, das zwei Bilder verbindet – ein leicht zu
   lernendes, aber süchtig machendes Bilder‑Worträtsel.
 iframeSrc: 'https://wordpics.h5games.usercontent.goog/v/7sfi13vvf0cro/'
-thumbnail: /new-images/word-pics.jpg
+thumbnail: /new-images/thumbnails/word-pics.jpg
 tags:
   - puzzle
   - thinky

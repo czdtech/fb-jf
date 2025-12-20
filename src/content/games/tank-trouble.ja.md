@@ -2,7 +2,7 @@
 title: Tank Trouble
 description: Tank Troubleは、マルチプレイヤー戦車戦闘ゲームです。迷路で戦車を操作して相手を倒しましょう。
 iframeSrc: 'https://ubg98.github.io/TankTrouble/'
-thumbnail: /new-images/tank-trouble.jpg
+thumbnail: /new-images/thumbnails/tank-trouble.jpg
 urlstr: tank-trouble
 score: 4.5/5  (3892 votes)
 tags:

@@ -7,7 +7,7 @@ description: >-
   wachse immer weiter und übertrumpfe oder eliminiere deine Rivalen auf der
   Karte.
 iframeSrc: 'https://holeio.com/'
-thumbnail: /new-images/hole-io.jpg
+thumbnail: /new-images/thumbnails/hole-io.jpg
 tags:
   - io
   - arcade

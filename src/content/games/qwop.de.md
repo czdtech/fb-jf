@@ -7,7 +7,7 @@ description: >-
   nur vier Tasten (Q, W, O, P) die Beinmuskeln eines Läufers steuerst und
   versuchst, 100 Meter zu laufen, ohne hinzufallen.
 iframeSrc: 'https://kdata1.com/2020/01/QWOP1/?webgl=true'
-thumbnail: /new-images/qwop.jpg
+thumbnail: /new-images/thumbnails/qwop.jpg
 tags:
   - physics
   - difficulty

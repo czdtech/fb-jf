@@ -6,7 +6,7 @@ description: >-
   《Jewel Blocks》是一款考验空间规划能力的方块解谜游戏，你要把宝石方块拖放到 10x10
   棋盘上，拼出整行或整列即可清除，但方块无法旋转，落子前必须精打细算。
 iframeSrc: 'https://jewelblocks.h5games.usercontent.goog/v/0puee6ie0j880/'
-thumbnail: /new-images/jewel-blocks.png
+thumbnail: /new-images/thumbnails/jewel-blocks.png
 tags:
   - puzzle
   - thinky

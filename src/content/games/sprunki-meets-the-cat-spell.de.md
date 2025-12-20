@@ -8,7 +8,7 @@ description: >-
   interpretiert, mit eigenen Sounds und Animationen für einen besonders
   niedlichen Musikmix.
 iframeSrc: 'https://turbowarp.org/1149710266/embed'
-thumbnail: /sprunki-meets-the-cat-spell.png
+thumbnail: /new-images/thumbnails/sprunki-meets-the-cat-spell.png
 tags:
   - sprunki meets the cat spell
   - sprunki meets the cat spell online

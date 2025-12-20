@@ -8,7 +8,7 @@ description: >-
   montones de oro. Esquiva trampas, resuelve puzles y adelántate a tus rivales
   para reclamar tu fortuna.
 iframeSrc: "https://m.igroutka.ru/g-1/149/TreasureHunter/"
-thumbnail: "/new-images/treasure-hunter.jpg"
+thumbnail: /new-images/thumbnails/treasure-hunter.jpg
 tags:
   - adventure
   - exploration

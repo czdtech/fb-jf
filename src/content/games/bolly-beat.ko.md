@@ -7,7 +7,7 @@ description: >-
   박자에 맞게 탭하고 콤보를 이어 가며, 화려한 비트와 함께 높은 점수에 도전해
   보세요.
 iframeSrc: 'https://bollybeat.h5games.usercontent.goog/v/4k75msiudusn0/'
-thumbnail: /new-images/bolly-beat.jpg
+thumbnail: /new-images/thumbnails/bolly-beat.jpg
 tags:
   - casual
   - action

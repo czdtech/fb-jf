@@ -4,7 +4,7 @@ urlstr: roadfury
 title: Road Fury
 description: "Un shoot'em up vertical survitaminé sur l'autoroute\_! Contrôle une voiture blindée, détruis les véhicules ennemis et collecte des pièces pour améliorer tes armes et ton armure afin de survivre à la fureur de la route."
 iframeSrc: 'https://roadfury.h5games.usercontent.goog/v/6u0uos6j6vvl0/'
-thumbnail: /new-images/roadfury.png
+thumbnail: /new-images/thumbnails/roadfury.png
 tags:
   - action
   - shooting

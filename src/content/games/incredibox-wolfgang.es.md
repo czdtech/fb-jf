@@ -8,7 +8,7 @@ description: >-
   componer piezas elegantes y cómo desbloquear sus bonus de temática
   dieciochesca.
 iframeSrc: 'https://turbowarp.org/943197191/embed'
-thumbnail: /new-images/incredibox-wolfgang.png
+thumbnail: /new-images/thumbnails/incredibox-wolfgang.png
 tags:
   - music
   - classical

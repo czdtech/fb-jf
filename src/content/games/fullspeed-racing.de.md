@@ -6,7 +6,7 @@ description: >-
   FullSpeed Racing ist ein Arcade-Racer: Triff saubere Linien, setze
   Bremspunkte richtig und überhole kontrolliert bei hoher Geschwindigkeit.
 iframeSrc: 'https://fullspeedracing.h5games.usercontent.goog/v/4kqu52vbp4da8/'
-thumbnail: /new-images/fullspeed-racing.jpg
+thumbnail: /new-images/thumbnails/fullspeed-racing.jpg
 tags:
   - car
   - driving

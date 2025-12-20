@@ -2,7 +2,7 @@
 title: "Block Breaker King ブロック崩しキング"
 description: "「Block Breaker King」はブロックを配置して縦横のラインを消すパズルゲームです。ピースをはめ込んで盤面を整理し、手詰まりになる前にハイスコアを狙いましょう。"
 iframeSrc: "https://blockbreakerking.h5games.usercontent.goog/v/9b83b167-93e1-482a-874f-c4e9702209d8/"
-thumbnail: "/new-images/block-breaker-king.jpg"
+thumbnail: /new-images/thumbnails/block-breaker-king.png
 urlstr: "block-breaker-king"
 score: "4.3/5  (784 votes)"
 tags: ["arcade", "casual"]

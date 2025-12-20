@@ -6,7 +6,7 @@ description: >-
   《Big Shark 深海大鲨鱼》是一款“吃或被吃”的水下生存游戏，控制鲨鱼在危机四伏的海域中捕食、成长，躲开比
   自己更大的鲨鱼和水雷，挑战生存时间与最高分。
 iframeSrc: 'https://g2.igroutka.ru/lib/crazy/games/big-shark/'
-thumbnail: /new-images/big-shark.jpg
+thumbnail: /new-images/thumbnails/big-shark.jpg
 tags:
   - casual
   - action

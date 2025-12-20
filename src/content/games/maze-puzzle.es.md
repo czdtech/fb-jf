@@ -7,7 +7,7 @@ description: >-
   tienta a los guardias patrullando y llega a la salida con todas las llaves
   antes de que se acabe el tiempo.
 iframeSrc: 'https://3931uc3bsois0.h5games.usercontent.goog/v/7nvm8etm546uo/'
-thumbnail: /new-images/maze-puzzle.png
+thumbnail: /new-images/thumbnails/maze-puzzle.png
 tags:
   - puzzle
   - thinky

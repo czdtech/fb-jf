@@ -4,7 +4,7 @@ locale: en
 title: "Level Devil"
 description: "Troll platformer: levels change unexpectedly with pop‑up spikes, falling floors, and fake exits; learn traps and keep calm." 
 iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp45/gamehwq/20231215/10/index.html"
-thumbnail: "/new-images/level-devil.jpg"
+thumbnail: /new-images/thumbnails/level-devil.jpg
 urlstr: "level-devil"
 score: "4.6/5  (350 votes)"
 tags: ["platformer", "puzzle"]

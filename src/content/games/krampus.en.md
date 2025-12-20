@@ -4,7 +4,7 @@ locale: en
 title: "Krampus"
 description: "Holiday horror platformer: navigate dark levels, avoid traps and creatures, and find keys/items to escape Krampus’s lair." 
 iframeSrc: "https://g2.igroutka.ru/lib/crazy/games/krampus1/"
-thumbnail: "/new-images/krampus.jpg"
+thumbnail: /new-images/thumbnails/krampus.jpg
 urlstr: "krampus"
 score: "3.9/5  (275 votes)"
 tags: ["horror", "platformer"]

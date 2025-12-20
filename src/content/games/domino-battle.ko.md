@@ -6,7 +6,7 @@ description: >-
   클래식 도미노 게임을 기반으로 한 1대1 대전 게임입니다. 타일을 전략적으로 이어 붙여 손패를 먼저 비우고, 상대의 수를 막아 승리를
   거머쥐세요.
 iframeSrc: 'https://dominobattle.h5games.usercontent.goog/v/45fvkhcnai3s0/'
-thumbnail: /new-images/domino-battle.png
+thumbnail: /new-images/thumbnails/domino-battle.png
 tags:
   - card
   - puzzle

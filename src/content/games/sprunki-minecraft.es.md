@@ -7,7 +7,7 @@ description: >-
   conocidas: convierte la construcción con bloques en una experiencia rítmica
   donde cada colocación y cada golpe siguen el compás de la música.
 iframeSrc: 'https://turbowarp.org/1140459751/embed'
-thumbnail: /sprunki-minecraft.png
+thumbnail: /new-images/thumbnails/sprunki-minecraft.png
 tags:
   - sprunki minecraft
 score: 4.0/5  (212 votes)

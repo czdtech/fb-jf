@@ -6,7 +6,7 @@ description: >-
   《Boxing Random 随机拳击对决》是一款物理系搞笑拳击游戏，双方角色动作与环境元素都充满随机性，考验你在混
   乱节奏中抓时机出拳与防守。
 iframeSrc: 'https://boxingrandom.h5games.usercontent.goog/v/1p3ojr23i4t40/'
-thumbnail: /new-images/boxing-random.jpg
+thumbnail: /new-images/thumbnails/boxing-random.jpg
 tags:
   - sports
   - action

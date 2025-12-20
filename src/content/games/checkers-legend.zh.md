@@ -6,7 +6,7 @@ description: >-
   《Checkers Legend 西洋跳棋传奇》是一款规则正统的西洋跳棋游戏，支持不同难度 AI 与本地对战，让你在简洁界面
   下体验经典"吃子与升王"的对局。
 iframeSrc: 'https://checkerslegend.h5games.usercontent.goog/v/7mitt2tdntllg/'
-thumbnail: /new-images/checkers-legend.jpeg
+thumbnail: /new-images/thumbnails/checkers-legend.png
 tags:
   - board
   - puzzle

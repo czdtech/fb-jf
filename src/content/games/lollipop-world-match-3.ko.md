@@ -6,7 +6,7 @@ description: >-
   Lollipop World: Match 3는 파워업을 조합하고 각종 장애물을 부수며, 제한된 이동 수
   안에 스테이지 목표를 달성해야 하는 캔디 매치‑3 퍼즐 게임입니다.
 iframeSrc: 'https://4oij9suhguc58.h5games.usercontent.goog/v/1osssadggdrao/'
-thumbnail: /new-images/lollipop-world-match-3.jpg
+thumbnail: /new-images/thumbnails/lollipop-world-match-3.jpg
 tags:
   - puzzle
   - casual

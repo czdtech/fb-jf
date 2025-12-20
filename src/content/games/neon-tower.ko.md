@@ -6,7 +6,7 @@ description: >-
   Neon Tower에서는 거대한 나선형 타워를 회전시켜 튕기는 공을 아래로 내려보내야 합니다. 틈을 찾아 연속으로 떨어뜨리되, 붉은 장애물은
   조심하세요. 여러 층을 한 번에 뚫고 내려가면 강력한 파워 부스트가 발동합니다.
 iframeSrc: 'https://2mk3ok3s7jl88.h5games.usercontent.goog/v/39vfhh0oku1j8/'
-thumbnail: /new-images/neon-tower.png
+thumbnail: /new-images/thumbnails/neon-tower.png
 tags:
   - action
   - casual

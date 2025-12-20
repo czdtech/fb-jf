@@ -6,7 +6,7 @@ description: >-
   《Descent 垂直坠落挑战》是一款极简风竖版技巧游戏。你需要沿着竖井一路向下，利用墙
   面跳跃，躲开尖刺与机关，在重力拉扯下安全抵达更深处。
 iframeSrc: 'https://g2.igroutka.ru/games/17/4tWRaCD7AOzxbTsE/descent/'
-thumbnail: /new-images/descent.jpg
+thumbnail: /new-images/thumbnails/descent.jpg
 tags:
   - arcade
   - skill

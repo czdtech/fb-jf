@@ -6,7 +6,7 @@ description: >-
   Duelo arcade de fútbol: juega 1v1 o 2v2 con remates de cabeza, volea y
   disparos especiales en partidos rápidos o torneos.
 iframeSrc: 'https://webglmath.github.io/football-legends/'
-thumbnail: /new-images/football-legends.jpg
+thumbnail: /new-images/thumbnails/football-legends.jpg
 tags:
   - sports
   - soccer

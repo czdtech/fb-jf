@@ -3,7 +3,7 @@ locale: en
 title: "99 Balls 3D"
 description: "A modern twist on classic arcade action! Aim and shoot your stream of balls to destroy the numbered targets. Collect rings to increase your ammo and stars to unlock new weapons."
 iframeSrc: "https://99balls3d.h5games.usercontent.goog/v/0b35ksethbio8/"
-thumbnail: "/new-images/99-balls-3d.jpeg"
+thumbnail: /new-images/thumbnails/99-balls-3d.jpeg
 urlstr: "99-balls-3d"
 score: "4.3/5  (2300 votes)"
 tags: ["shooting", "puzzle", "action"]

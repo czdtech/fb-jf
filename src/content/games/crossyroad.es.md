@@ -7,7 +7,7 @@ description: >-
   es controlar a la famosa gallina y cruzar carreteras, ríos y vías de tren sin
   morir en el intento.
 iframeSrc: 'https://www.playfiddlebops.com/embed/crossyroad/index.html'
-thumbnail: /crossy-road.jpg
+thumbnail: /new-images/thumbnails/crossyroad.jpg
 tags:
   - crossy road
 score: 4.8/5  (1104 votes)

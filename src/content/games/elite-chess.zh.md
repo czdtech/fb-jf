@@ -6,7 +6,7 @@ description: >-
   Elite Chess 聚焦你的象棋基本功——穩健開局、乾淨利落的戰術計算，
   和紮實的殘局技術，幫你把優勢確實轉化為勝勢。
 iframeSrc: 'https://6kf8oom91mt10.h5games.usercontent.goog/v/01dag2rajhv1g/'
-thumbnail: /new-images/elite-chess.png
+thumbnail: /new-images/thumbnails/elite-chess.png
 tags:
   - thinky
   - puzzle

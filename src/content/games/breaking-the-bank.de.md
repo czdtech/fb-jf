@@ -7,7 +7,7 @@ description: >-
   Wähle eine Methode, sieh dir die verrückten Fehlschläge an – und finde den
   einzigen Weg, der wirklich funktioniert.
 iframeSrc: 'https://rebemanae.github.io/breaking-the-bank/'
-thumbnail: /new-images/breaking-the-bank.jpg
+thumbnail: /new-images/thumbnails/breaking-the-bank.jpg
 tags:
   - puzzle
   - adventure

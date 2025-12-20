@@ -8,7 +8,7 @@ description: >-
   쏘아 적을 뗏목 밖으로 떨어뜨리세요.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210301/jj8/index.html
-thumbnail: /new-images/raft-wars.jpg
+thumbnail: /new-images/thumbnails/raft-wars.jpg
 tags:
   - strategy
   - shooting

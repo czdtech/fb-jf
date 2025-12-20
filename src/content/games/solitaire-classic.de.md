@@ -7,7 +7,7 @@ description: >-
   Kartenklassiker: Sortiere alle 52 Karten nach Farbe von Ass bis König auf die
   Ablagestapel und räume das Tableau leer.
 iframeSrc: 'https://solitaireclassic.h5games.usercontent.goog/v/7sbt28mppqim8/'
-thumbnail: /new-images/solitaire-classic.png
+thumbnail: /new-images/thumbnails/solitaire-classic.png
 tags:
   - card
   - puzzle

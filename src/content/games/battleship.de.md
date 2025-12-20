@@ -4,7 +4,7 @@ urlstr: battleship
 title: "Battleship"
 description: "Legendäres Schlachtschiff-Duell: Verstecke deine Flotte, lies die Trefferkarte des Gegners und versenke jeden Rumpf, bevor er deine Schiffe findet."
 iframeSrc: "https://cdn.gamesnacks.com/battleship2/gameCode/index.html"
-thumbnail: /new-images/battleship.jpg
+thumbnail: /new-images/thumbnails/battleship.jpg
 tags:
   - strategy
   - casual

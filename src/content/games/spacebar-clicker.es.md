@@ -8,7 +8,7 @@ description: >-
   comprar mejoras. Automatiza los clics y multiplica tus ganancias para ver hasta
   dónde puedes llegar en este sencillo pero absorbente clicker.
 iframeSrc: "https://spacebarclicker.co/game/spacebar-counter/"
-thumbnail: "/new-images/spacebar-clicker.jpg"
+thumbnail: /new-images/thumbnails/spacebar-clicker.jpg
 tags:
   - clicker
   - idle

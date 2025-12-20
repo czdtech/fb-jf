@@ -6,7 +6,7 @@ description: >-
   Ducklings 是一款輕鬆療癒的收集遊戲，你要在湖面上救回散落四處的小鴨，
   把牠們安全地護送回巢穴。
 iframeSrc: 'https://g2.igroutka.ru/games/164/BkDlKfiWjEoZ2rcG/ducklings_io/'
-thumbnail: /new-images/ducklings.jpg
+thumbnail: /new-images/thumbnails/ducklings.jpg
 tags:
   - casual
   - arcade

@@ -5,7 +5,7 @@ description: >-
   Survey‑based quiz game: guess the most popular answers to family survey
   questions across multiple rounds and fast money.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/family-feud/'
-thumbnail: /new-images/family-feud.jpg
+thumbnail: /new-images/thumbnails/family-feud.jpg
 urlstr: family-feud
 score: 4.1/5  (237 votes)
 tags:

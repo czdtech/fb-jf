@@ -3,7 +3,7 @@ locale: en
 title: "One line only: dot to dot"
 description: "One line only: dot to dot is a neat one‑stroke puzzler — draw a single line to cover all dots and segments without retracing."
 iframeSrc: "https://7n3sql2bqn9eg.h5games.usercontent.goog/v/2br4t62jndh88/"
-thumbnail: "/new-images/one-line-only-dot-to-dot.jpg"
+thumbnail: /new-images/thumbnails/one-line-only-dot-to-dot.jpg
 urlstr: "one-line-only-dot-to-dot"
 score: "4.2/5  (2050 votes)"
 tags: ["puzzle", "thinky"]

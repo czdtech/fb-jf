@@ -7,7 +7,7 @@ description: >-
   point‑and‑click. Activa mecanismos, resuelve puzles y ayúdalo a superar
   obstáculos en cada nivel.
 iframeSrc: 'https://wheely.h5games.usercontent.goog/v/52jjq7e56beso/'
-thumbnail: /new-images/wheely.jpg
+thumbnail: /new-images/thumbnails/wheely.jpg
 tags:
   - puzzle
   - adventure

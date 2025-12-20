@@ -6,7 +6,7 @@ description: >-
   Futoshiki afila tu lógica: coloca dígitos únicos por fila y columna
   respetando los signos de desigualdad para llegar a deducciones elegantes.
 iframeSrc: 'https://6g7i64vihegl0.h5games.usercontent.goog/v/7bd886r75d4ag/'
-thumbnail: /new-images/futoshiki.jpg
+thumbnail: /new-images/thumbnails/futoshiki.jpg
 tags:
   - puzzle
   - thinky

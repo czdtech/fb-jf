@@ -7,7 +7,7 @@ description: >-
   al tablero para completar y limpiar líneas enteras, pero planifica bien: ¡no
   se pueden rotar!
 iframeSrc: 'https://jewelblocks.h5games.usercontent.goog/v/0puee6ie0j880/'
-thumbnail: /new-images/jewel-blocks.png
+thumbnail: /new-images/thumbnails/jewel-blocks.png
 tags:
   - puzzle
   - thinky

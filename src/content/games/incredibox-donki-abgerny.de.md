@@ -6,7 +6,7 @@ description: >-
   Incredibox Donki Abgerny mischt tiefe Stammesrhythmen, Didgeridoo-Sounds und
   seelenvolle Chants in das klassische Incredibox-Gameplay.
 iframeSrc: 'https://turbowarp.org/1135326100/embed'
-thumbnail: /incredibox-donki-abgerny.png
+thumbnail: /new-images/thumbnails/incredibox-donki-abgerny.png
 tags:
   - incredibox donki abgerny
 score: 4.3/5  (154 votes)

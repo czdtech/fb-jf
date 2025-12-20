@@ -7,7 +7,7 @@ description: >-
   structure classique d’Incredibox avec une ambiance sombre et inquiétante,
   idéale pour composer des morceaux aux accents horrifiques.
 iframeSrc: 'https://sprunki-phase-5-ekz.pages.dev/'
-thumbnail: /sprunki-phase-5.png
+thumbnail: /new-images/thumbnails/sprunki-phase-5.png
 tags:
   - sprunki phase 5
   - sprunki phase 5 online

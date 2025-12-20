@@ -7,7 +7,7 @@ description: >-
   lee la línea y la longitud del envío y persigue el objetivo marcando bien el
   riesgo en cada bola.
 iframeSrc: 'https://5ret6v2c94q4g.h5games.usercontent.goog/v/09j66svc50570/'
-thumbnail: /new-images/cricket-world-cup.png
+thumbnail: /new-images/thumbnails/cricket-world-cup.png
 tags:
   - sports
   - casual

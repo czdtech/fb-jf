@@ -7,7 +7,7 @@ description: >-
   adjacents pour les fusionner en une valeur plus élevée. Saura‑tu atteindre 10…
   puis aller encore plus loin ?
 iframeSrc: 'https://4oljglvsib9no.h5games.usercontent.goog/v/4nttt72qlep8o/'
-thumbnail: /new-images/get-10-ultimate.png
+thumbnail: /new-images/thumbnails/get-10-ultimate.png
 tags:
   - puzzle
   - thinky

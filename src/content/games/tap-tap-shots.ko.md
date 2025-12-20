@@ -6,7 +6,7 @@ description: >-
   Tap Tap Shots는 한 번의 탭으로 농구공을 튀겨 골대에 넣는 타이밍형 아케이드 게임입니다. 리듬을 찾고 연속 득점을 이어 불꽃
   모드에 도전해 보세요.
 iframeSrc: 'https://ubg77.github.io/game131022/tap-tap-shots/'
-thumbnail: /new-images/tap-tap-shots.jpg
+thumbnail: /new-images/thumbnails/tap-tap-shots.jpg
 tags:
   - sports
   - arcade

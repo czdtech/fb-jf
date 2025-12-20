@@ -8,7 +8,7 @@ description: >-
   in diesem fordernden, süchtig machenden Lauf so lange wie möglich zu
   überleben.
 iframeSrc: 'https://webglmath.github.io/slope/'
-thumbnail: /new-images/slope.jpg
+thumbnail: /new-images/thumbnails/slope.jpg
 tags:
   - endless runner
   - original

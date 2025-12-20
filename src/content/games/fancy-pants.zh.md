@@ -7,7 +7,7 @@ description: >-
   透過高速慣性、牆跳與流暢跑酷，在手繪關卡與隱藏房間間穿梭。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210305/jj8/index.html
-thumbnail: /new-images/fancy-pants.jpg
+thumbnail: /new-images/thumbnails/fancy-pants.jpg
 tags:
   - platformer
   - action

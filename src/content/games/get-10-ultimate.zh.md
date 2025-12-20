@@ -6,7 +6,7 @@ description: >-
   具挑戰性的數字拼圖遊戲！點擊相鄰且相同的數字方塊，將它們合併成更高的數字。
   你能一路合成到 10，甚至更高嗎？
 iframeSrc: 'https://4oljglvsib9no.h5games.usercontent.goog/v/4nttt72qlep8o/'
-thumbnail: /new-images/get-10-ultimate.png
+thumbnail: /new-images/thumbnails/get-10-ultimate.png
 tags:
   - puzzle
   - thinky

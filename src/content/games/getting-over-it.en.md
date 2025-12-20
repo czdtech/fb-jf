@@ -4,7 +4,7 @@ locale: en
 title: "Getting over it"
 description: "Climb‑with‑a‑hammer challenge: swing, pogo, and drag a cauldron man up surreal obstacles; precision physics punish impatience." 
 iframeSrc: "https://ubg77.github.io/fix/getting-over-it/"
-thumbnail: "/new-images/getting-over-it.jpg"
+thumbnail: /new-images/thumbnails/getting-over-it.jpg
 urlstr: "getting-over-it"
 score: "5.0/5  (226 votes)"
 tags: ["platformer", "physics"]

@@ -7,7 +7,7 @@ description: >-
   Raster-Interface: Baue druckvolle elektronische Loops aus Drums, Bässen,
   Risern und Leads.
 iframeSrc: 'https://turbowarp.org/740478297/embed'
-thumbnail: /new-images/incredibox-xrun-simulator.png
+thumbnail: /new-images/thumbnails/incredibox-xrun-simulator.png
 tags:
   - music
   - electronic

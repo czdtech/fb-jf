@@ -2,7 +2,7 @@
 title: "Light Line"
 description: "Light Lineは光るパス描画パズラーです。交差なしでノードを接続し、エネルギーを管理し、エレガントなルートで解決します。"
 iframeSrc: "https://4es9bmcl5tp2o.h5games.usercontent.goog/v/5uo8nsnhp1vjo/"
-thumbnail: "/new-images/light-line.png"
+thumbnail: /new-images/thumbnails/light-line.png
 urlstr: "light-line"
 score: "4.2/5  (2077 votes)"
 tags: ["puzzle", "thinky"]

@@ -6,7 +6,7 @@ description: >-
   《Jigsaw Puzzles
   Hexa》是在传统拼图基础上的新玩法，你要拖动由六边形拼成的块状拼片，将它们正确嵌入底板，拼出高清美图，全程无时间限制，轻松又烧脑。
 iframeSrc: 'https://jigsawpuzzleshexa.h5games.usercontent.goog/v/5e9bm1tuf1me0/'
-thumbnail: /new-images/jigsaw-puzzles-hexa.jpg
+thumbnail: /new-images/thumbnails/jigsaw-puzzles-hexa.jpg
 tags:
   - puzzle
   - casual

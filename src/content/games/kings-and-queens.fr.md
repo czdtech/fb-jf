@@ -6,7 +6,7 @@ description: >-
   Kings and Queens est une aventure match‑3 royale : élimine les obstacles,
   fusionne les bonus et restaure un royaume pièce par pièce.
 iframeSrc: 'https://kingsandqueens.h5games.usercontent.goog/v/2gmf7ro6toq68/'
-thumbnail: /new-images/kings-and-queens.png
+thumbnail: /new-images/thumbnails/kings-and-queens.png
 tags:
   - puzzle
   - casual

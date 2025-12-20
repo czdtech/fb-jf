@@ -7,7 +7,7 @@ description: >-
   Verwalte Ressourcen, verbarrikadiere deine Hütte und versuche, 99 Nächte lang
   in einem verfluchten Wald zu überleben.
 iframeSrc: 'https://st.8games.net/7/8g/igra-99-nochej-v-lesu-101-original/'
-thumbnail: /new-images/99-nights-in-the-forest.webp
+thumbnail: /new-images/thumbnails/99-nights-in-the-forest.webp
 tags:
   - horror
   - survival

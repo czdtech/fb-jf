@@ -5,7 +5,7 @@ title: "Brain Test 2: Tricky Stories 脑力测试2：棘手故事"
 description: >-
   在《Brain Test 2: Tricky Stories（脑力测试2：棘手故事）》中，通过一系列脑洞大开的故事关卡挑战你的常识和想象力，跟随不同角色完成一连串离奇又好笑的任务。
 iframeSrc: 'https://bitlifeonline.github.io/brain-test-2-tricky-stories/'
-thumbnail: /new-images/2-tricky-stories.jpg
+thumbnail: /new-images/thumbnails/2-tricky-stories.jpg
 tags:
   - casual
   - rhythm

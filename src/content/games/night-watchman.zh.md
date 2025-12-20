@@ -5,7 +5,7 @@ title: '夜间守望者'
 description: >-
   夜间守望者是一款恐怖生存游戏，玩家扮演夜班保安，监控安全摄像头并管理有限资源，在黑暗废弃建筑中对抗神秘威胁以生存。
 iframeSrc: 'https://g2.igroutka.ru/lib/crazy/games/night-watchman/'
-thumbnail: /new-images/night-watchman.jpg
+thumbnail: /new-images/thumbnails/night-watchman.jpg
 tags:
   - horror
   - survival

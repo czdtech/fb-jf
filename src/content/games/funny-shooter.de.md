@@ -6,7 +6,7 @@ description: >-
   Funny Shooter ist ein Wave-Shooter-Prototyp: Kämpfe gegen schräge Gegner,
   sammle Geld und verbessere Waffen, um immer härtere Runden zu überleben.
 iframeSrc: 'https://bitlifeonline.github.io/class2623/funny-shooter/'
-thumbnail: /new-images/funny-shooter.jpg
+thumbnail: /new-images/thumbnails/funny-shooter.jpg
 tags:
   - shooting
   - fps

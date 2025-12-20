@@ -7,7 +7,7 @@ description: >-
   Turm, ziele sorgfältig und triff mindestens drei gleichfarbige Blasen, bevor
   die Blasen den unteren Rand erreichen.
 iframeSrc: 'https://bubbletower.h5games.usercontent.goog/v/7ebcukaef3voo/'
-thumbnail: /new-images/bubble-tower.png
+thumbnail: /new-images/thumbnails/bubble-tower.png
 tags:
   - puzzle
   - shooting

@@ -7,7 +7,7 @@ description: >-
   숫자 카드(2, 4, 8…)를 열에 배치해 같은 숫자를 합치고, 열이 막히지 않도록
   병합 순서와 칸을 관리하면서 큰 연쇄를 노리는 게임입니다.
 iframeSrc: 'https://041gj41756cjg.h5games.usercontent.goog/v/7n148hti57veo/'
-thumbnail: /new-images/solitaire-2048.png
+thumbnail: /new-images/thumbnails/solitaire-2048.png
 tags:
   - card
   - puzzle

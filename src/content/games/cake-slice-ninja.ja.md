@@ -2,7 +2,7 @@
 title: "Cake Slice Ninja"
 description: "Cake Slice Ninjaは甘いスライシングラッシュです。スワイプでクリーンカットし、コンボをチェインさせ、ハザードを避けてハイスコアを目指しましょう。"
 iframeSrc: "https://cakesliceninja.h5games.usercontent.goog/v/5bh2c88k8pku8/"
-thumbnail: "/new-images/cake-slice-ninja.jpeg"
+thumbnail: /new-images/thumbnails/cake-slice-ninja.jpeg
 urlstr: "cake-slice-ninja"
 score: "4.2/5  (1931 votes)"
 tags: ["action", "casual"]

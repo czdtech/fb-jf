@@ -2,7 +2,7 @@
 title: "Basket Champ バスケット・チャンプ"
 description: "「Basket Champ」はワンタッチで遊べるバスケット・チャレンジ。放物線を定め、クリーンシュートを決め、連続ゴールでハイスコアを目指せ。"
 iframeSrc: "https://0outkmbudufj8.h5games.usercontent.goog/v/1stcrgq2b9d08/"
-thumbnail: "/new-images/basket-champ.png"
+thumbnail: /new-images/thumbnails/basket-champ.png
 urlstr: "basket-champ"
 score: "4.0/5  (1816 votes)"
 tags: ["sports", "basketball", "casual"]

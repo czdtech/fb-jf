@@ -8,7 +8,7 @@ description: >-
   löse knifflige Level mit Inventar‑Gegenständen und unkonventionellen Lösungen
   und rette ihren verzauberten Vater.
 iframeSrc: 'https://bitlifeonline.github.io/brain-test-3-tricky-quests/'
-thumbnail: /new-images/3-tricky-quests.jpg
+thumbnail: /new-images/thumbnails/3-tricky-quests.jpg
 tags:
   - casual
   - rhythm

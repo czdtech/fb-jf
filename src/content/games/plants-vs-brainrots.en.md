@@ -4,7 +4,7 @@ locale: en
 title: "Plants Vs Brainrots"
 description: "The official guide to Plants vs Brainrots on Roblox. Learn about the gameplay, strategies for defeating meme enemies like Skibidi Toilet and Sigma, and master the plants that defend your braincells in this viral tower defense game." 
 iframeSrc: "https://playhop.com/dist-app/471072?header=no&utm_source=distrib&utm_medium=gameflare"
-thumbnail: "/new-images/plantsvsbrainrots.jpg"
+thumbnail: /new-images/thumbnails/plants-vs-brainrots.jpg
 urlstr: "plants-vs-brainrots"
 score: "4.6/5  (4375 votes)"
 tags: ["roblox", "casual"]

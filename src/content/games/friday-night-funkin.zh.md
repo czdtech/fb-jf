@@ -6,7 +6,7 @@ description: >-
   《Friday Night Funkin》是一款節奏對戰遊戲，跟著音樂節拍準確敲擊箭頭音符，
   在一週又一週的對決中打敗對手；高難度下會出現更快、更複雜的譜面與長押。
 iframeSrc: 'https://html-classic.itch.zone/html/2876359-1077558/index.html'
-thumbnail: /new-images/friday-night-funkin.jpg
+thumbnail: /new-images/thumbnails/friday-night-funkin.jpg
 tags:
   - rhythm
   - music

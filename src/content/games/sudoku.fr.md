@@ -4,7 +4,7 @@ urlstr: sudoku
 title: Sudoku
 description: "Sudoku est un casse‑tête numérique classique\_: remplis une grille 9x9 avec les chiffres 1 à 9 en veillant à ce que chaque ligne, colonne et bloc 3x3 contienne chaque chiffre une seule fois."
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/html5-sudoku/'
-thumbnail: /new-images/sudoku.jpg
+thumbnail: /new-images/thumbnails/sudoku.jpg
 tags:
   - puzzle
   - logic

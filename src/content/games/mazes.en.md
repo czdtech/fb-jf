@@ -3,7 +3,7 @@ locale: en
 title: "Mazes"
 description: "Mazes delivers classic labyrinth runs — draw optimal paths, dodge traps, and beat par times with clean routing."
 iframeSrc: "https://1ivu76rhffpsg.h5games.usercontent.goog/v/00icu4vi09j18/"
-thumbnail: "/new-images/mazes.jpg"
+thumbnail: /new-images/thumbnails/mazes.jpg
 urlstr: "mazes"
 score: "4.0/5  (1894 votes)"
 tags: ["puzzle", "thinky", "escape"]

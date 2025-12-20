@@ -7,7 +7,7 @@ description: >-
   diesem farbenfrohen Kachel-Matching-Puzzle räumst du das Brett, indem du
   identische, freie Bonbon-Steine findest und kombinierst.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-candy-mahjongg/'
-thumbnail: /new-images/mahjongg-candy.jpg
+thumbnail: /new-images/thumbnails/mahjongg-candy.jpg
 tags:
   - puzzle
   - tile-matching

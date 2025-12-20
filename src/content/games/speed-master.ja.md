@@ -2,7 +2,7 @@
 title: "Speed Master"
 description: "Speed Masterはタイミング重視の反応ゲームです。表示に合わせて入力し、精度と連続成功を目指します。"
 iframeSrc: "https://6e0ej8ct9hdj8.h5games.usercontent.goog/v/1fssfmqquil18/"
-thumbnail: "/new-images/speed-master.png"
+thumbnail: /new-images/thumbnails/speed-master.png
 urlstr: "speed-master"
 score: "4.0/5  (1811 votes)"
 tags: ["action", "casual"]

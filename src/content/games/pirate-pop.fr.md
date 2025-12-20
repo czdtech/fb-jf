@@ -4,7 +4,7 @@ urlstr: pirate-pop
 title: Pirate Pop
 description: "Pirate Pop est un bubble shooter à thème pirate\_: vise les bulles, forme des groupes de couleur et fais tomber des blocs pour nettoyer le ciel des mers."
 iframeSrc: 'https://piratepop.h5games.usercontent.goog/v/7h7u3avm2phl8/'
-thumbnail: /new-images/pirate-pop.png
+thumbnail: /new-images/thumbnails/pirate-pop.png
 tags:
   - puzzle
   - casual

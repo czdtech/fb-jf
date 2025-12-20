@@ -6,7 +6,7 @@ description: >-
   Jewel Halloween est un match‑3 sur le thème d'Halloween : citrouilles,
   fantômes et potions à aligner pour purifier le plateau avant la fin des coups.
 iframeSrc: 'https://jewelhalloween.h5games.usercontent.goog/v/0ir77cot09cog/'
-thumbnail: /new-images/jewel-halloween.png
+thumbnail: /new-images/thumbnails/jewel-halloween.png
 tags:
   - puzzle
   - casual

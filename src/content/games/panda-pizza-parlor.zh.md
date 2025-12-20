@@ -5,7 +5,7 @@ title: "《Panda Pizza Parlor》熊猫披萨小馆"
 description: >-
   欢迎光临《Panda Pizza Parlor》！在这家熊猫披萨小馆中，你要在紧张的节奏里接单、配料、烤制并精准出餐，用手速和效率征服一批又一批饥饿的顾客。
 iframeSrc: 'https://pandapizzaparlor.h5games.usercontent.goog/v/16ldgoh3to3f8/'
-thumbnail: /new-images/panda-pizza-parlor.png
+thumbnail: /new-images/thumbnails/panda-pizza-parlor.png
 tags:
   - casual
   - action

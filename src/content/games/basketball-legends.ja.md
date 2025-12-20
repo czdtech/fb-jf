@@ -2,7 +2,7 @@
 title: "Basketball Legends バスケットボール・レジェンド"
 description: "「Basketball Legends」でコートの伝説となれ！レジェンド選手たちを操り、1対1や2対2の対戦、トーナメントを勝ち抜くための完全攻略ガイド。スーパーショットの使い方が勝負を決める。"
 iframeSrc: "https://basketball-legends.h5games.usercontent.goog/v/9b83b167-93e1-482a-874f-c4e9702209d8/"
-thumbnail: "/new-images/basketball-legends.png"
+thumbnail: /new-images/thumbnails/basketball-legends.jpg
 urlstr: "basketball-legends"
 score: "4.8/5  (12543 votes)"
 tags: ["sports", "basketball", "multiplayer"]

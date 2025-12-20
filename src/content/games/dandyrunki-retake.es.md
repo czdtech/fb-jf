@@ -7,7 +7,7 @@ description: >-
   y melodías sin esfuerzo. Tanto si eres jugador ocasional como amante de la
   música, este remix te da espacio para experimentar y divertirte.
 iframeSrc: 'https://turbowarp.org/1126924449/embed'
-thumbnail: /dandyrunki-retake.png
+thumbnail: /new-images/thumbnails/dandyrunki-retake.png
 tags:
   - dandyrunki retake
   - dandyrunki retake online

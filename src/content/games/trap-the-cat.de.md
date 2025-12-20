@@ -6,7 +6,7 @@ description: >-
   Trap the Cat ist ein strategisches Logik‑Puzzle: Platziere Barrieren auf einem
   Wabenfeld so, dass der schlaue Kater keinen Weg mehr zum Rand findet.
 iframeSrc: 'https://freeonlinegames.github.io/cat-trap.html'
-thumbnail: /new-images/trap-the-cat.jpg
+thumbnail: /new-images/thumbnails/trap-the-cat.jpg
 tags:
   - strategy
   - puzzle

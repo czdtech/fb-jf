@@ -8,7 +8,7 @@ description: >-
   dispara.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221123/6/index.html
-thumbnail: /new-images/g-switch-2.jpg
+thumbnail: /new-images/thumbnails/g-switch-2.jpg
 tags:
   - runner
   - platformer

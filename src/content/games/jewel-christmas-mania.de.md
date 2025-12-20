@@ -7,7 +7,7 @@ description: >-
   funkelnde Juwelen in diesem festlichen Match-3-Puzzlespiel und meistere immer
   neue, knifflige Level.
 iframeSrc: 'https://jewelchristmasmania.h5games.usercontent.goog/v/3vom8bn0qgmto/'
-thumbnail: /new-images/jewel-christmas-mania.png
+thumbnail: /new-images/thumbnails/jewel-christmas-mania.png
 tags:
   - puzzle
   - casual

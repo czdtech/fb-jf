@@ -2,7 +2,7 @@
 title: "Kitty Scramble"
 description: "Kitty Scrambleは心地よいワードハントです。レターグリッドをスワイプし、テーマの単語を見つけ、パターン認識でボードをクリアします。"
 iframeSrc: "https://6cifr142haig8.h5games.usercontent.goog/v/1c963avg5lo9g/"
-thumbnail: "/new-images/kitty-scramble.png"
+thumbnail: /new-images/thumbnails/kitty-scramble.png
 urlstr: "kitty-scramble"
 score: "4.2/5  (2038 votes)"
 tags: ["puzzle", "thinky", "casual"]

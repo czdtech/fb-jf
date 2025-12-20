@@ -7,7 +7,7 @@ description: >-
   zwischen Sitzstangen, sammle gleiche Farben und jongliere mit wenigen freien
   Plätzen.
 iframeSrc: 'https://4ajc8tu89od7g.h5games.usercontent.goog/v/49be5kf9v96j0/'
-thumbnail: /new-images/cat-sort-quest.png
+thumbnail: /new-images/thumbnails/cat-sort-quest.png
 tags:
   - puzzle
   - thinky

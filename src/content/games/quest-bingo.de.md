@@ -7,7 +7,7 @@ description: >-
   erfülle Quests, nutze starke Booster und sammle Puzzleteile in dieser modernen
   Variante des Klassikers.
 iframeSrc: 'https://52nk212336l1g.h5games.usercontent.goog/v/0smbj5p2kjk78/'
-thumbnail: /new-images/quest-bingo.png
+thumbnail: /new-images/thumbnails/quest-bingo.png
 tags:
   - card
   - puzzle

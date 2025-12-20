@@ -6,7 +6,7 @@ description: >-
   주사위 물리와 2048 퍼즐을 결합한 게임입니다. 같은 눈의 주사위를 부딪혀
   합치며 3D 공간에서 2048 이상을 노려 보세요.
 iframeSrc: 'https://dices20483d.h5games.usercontent.goog/v/4fsrag1lb33t8/'
-thumbnail: /new-images/dices-2048-3d.png
+thumbnail: /new-images/thumbnails/dices-2048-3d.png
 tags:
   - puzzle
   - thinky

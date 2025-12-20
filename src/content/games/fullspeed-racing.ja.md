@@ -2,7 +2,7 @@
 title: "FullSpeed Racing"
 description: "FullSpeed Racingはアーケードレーサーです。ラインを選び、ブレーキングポイントを決め、ペースでクリーンに追い越しましょう。"
 iframeSrc: "https://fullspeedracing.h5games.usercontent.goog/v/4kqu52vbp4da8/"
-thumbnail: "/new-images/fullspeed-racing.jpg"
+thumbnail: /new-images/thumbnails/fullspeed-racing.jpg
 urlstr: "fullspeed-racing"
 score: "4.1/5  (2014 votes)"
 tags: ["car", "driving", "sports"]

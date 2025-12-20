@@ -4,7 +4,7 @@ urlstr: ping-pong
 title: Ping Pong
 description: "Ping Pong est une adaptation rétro du jeu de raquette classique\_: renvoie la balle, anticipe les angles et tente de marquer sans laisser passer le moindre tir."
 iframeSrc: 'https://4spl3e8dr98t4.h5games.usercontent.goog/v/3r1e099l8q9h8/'
-thumbnail: /new-images/ping-pong.png
+thumbnail: /new-images/thumbnails/ping-pong.jpg
 tags:
   - arcade
   - sports

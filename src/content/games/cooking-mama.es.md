@@ -8,7 +8,7 @@ description: >-
   activista que hay detrás, dejando claro en qué se diferencia de la saga
   oficial.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/cooking-mama.html'
-thumbnail: /new-images/cooking-mama.jpg
+thumbnail: /new-images/thumbnails/cooking-mama.jpg
 tags:
   - horror
 score: 4.4/5  (1078 votes)

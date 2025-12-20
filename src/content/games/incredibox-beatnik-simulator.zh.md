@@ -4,7 +4,7 @@ urlstr: incredibox-beatnik-simulator
 title: "Incredibox Beatnik Simulator - 在线玩 Incredibox Beatnik Simulator"
 description: "它将玩家带入 1950 和 60 年代烟雾缭绕的爵士俱乐部，主题围绕着垮掉派亚文化——一个以庆祝爵士乐、诗歌和不墨守成规而闻名的运动。"
 iframeSrc: 'https://turbowarp.org/948885978/embed'
-thumbnail: /new-images/incredibox-beatnik-simulator.png
+thumbnail: /new-images/thumbnails/incredibox-beatnik-simulator.png
 tags:
   - music
   - rhythm

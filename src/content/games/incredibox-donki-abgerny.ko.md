@@ -7,7 +7,7 @@ description: >-
   사운드, 영혼을 울리는 챈트를 더한 버전입니다. 끊임없이 변하는 비트에 맞춰
   비트박서들을 배치하며 고대 부족 의식 같은 음악을 만들어 보세요.
 iframeSrc: 'https://turbowarp.org/1135326100/embed'
-thumbnail: /incredibox-donki-abgerny.png
+thumbnail: /new-images/thumbnails/incredibox-donki-abgerny.png
 tags:
   - incredibox donki abgerny
 score: 4.3/5  (154 votes)

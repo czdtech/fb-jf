@@ -7,7 +7,7 @@ description: >-
   Chiptune, Vintage-Samples und seltsamer Percussion – perfekt, um bizarre
   Soundscapes zu bauen und surreale Boni freizuschalten.
 iframeSrc: 'https://turbowarp.org/1110167821/embed'
-thumbnail: /new-images/incredibox-melophobia.png
+thumbnail: /new-images/thumbnails/incredibox-melophobia.png
 tags:
   - music
   - rhythm

@@ -7,7 +7,7 @@ description: >-
   통로를 좌우로 이동하며 바리어를 피하고, 점점 빨라지는 속도 속에서 반사 신경을 시험해 보세요.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp44/gamehwq/20230830/12a/index.html
-thumbnail: /new-images/tunnel-rush.jpg
+thumbnail: /new-images/thumbnails/tunnel-rush.jpg
 tags:
   - endless runner
   - 3d

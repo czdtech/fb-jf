@@ -2,7 +2,7 @@
 title: "Minigolf Clash"
 description: "Minigolf Clashは対戦要素のあるミニゴルフです。相手と競いながら、正確なショットでスコアを伸ばします。"
 iframeSrc: "https://minigolfclash.h5games.usercontent.goog/v/2po3oe70glkng/"
-thumbnail: "/new-images/minigolf-clash.png"
+thumbnail: /new-images/thumbnails/minigolf-clash.png
 urlstr: "minigolf-clash"
 score: "4.2/5  (2045 votes)"
 tags: ["sports", "2 player", "casual"]

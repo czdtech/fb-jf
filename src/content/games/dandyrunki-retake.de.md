@@ -8,7 +8,7 @@ description: >-
   entspannen willst oder ein echter Musikfan bist – in dieser Remix-Version
   findest du deinen eigenen Sound.
 iframeSrc: 'https://turbowarp.org/1126924449/embed'
-thumbnail: /dandyrunki-retake.png
+thumbnail: /new-images/thumbnails/dandyrunki-retake.png
 tags:
   - dandyrunki retake
   - dandyrunki retake online

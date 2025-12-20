@@ -6,7 +6,7 @@ description: >-
   각종 황당한 사고를 피해야 하는 빠른 반응형 미니 게임 모음입니다. 짧은
   마이크로 게임들을 빠르게 성공시켜 캐릭터들을 지켜 보세요.
 iframeSrc: 'https://html5.iclouds.io/dumb-ways-die/'
-thumbnail: /new-images/dumb-ways-to-die.jpg
+thumbnail: /new-images/thumbnails/dumb-ways-to-die.jpg
 tags:
   - arcade
   - minigames

@@ -2,7 +2,7 @@
 title: Mahjong Titans
 description: 麻雀タイルのペアを消してレイアウトをクリアする、定番のタイルマッチパズルです。複数の難易度で遊べます。
 iframeSrc: 'https://mahjongtitans.h5games.usercontent.goog/v/5vg84jk4dcir8/'
-thumbnail: /new-images/mahjong-titans.png
+thumbnail: /new-images/thumbnails/mahjong-titans.jpg
 urlstr: mahjong-titans
 score: 4.6/5  (3100 votes)
 tags:

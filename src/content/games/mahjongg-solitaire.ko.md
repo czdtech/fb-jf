@@ -8,7 +8,7 @@ description: >-
   제거하는 게임입니다.
 iframeSrc: >-
   https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-mahjongg-solitaire/
-thumbnail: /new-images/mahjongg-solitaire.jpg
+thumbnail: /new-images/thumbnails/mahjongg-solitaire.jpg
 tags:
   - puzzle
   - tile-matching

@@ -6,7 +6,7 @@ description: >-
   Incredibox Wolfgang est un mod orchestral classique : cordes, cuivres et
   chœurs inspirés de Mozart et des grands compositeurs.
 iframeSrc: 'https://turbowarp.org/1050200583/embed'
-thumbnail: /new-images/incredibox-wolfgang.png
+thumbnail: /new-images/thumbnails/incredibox-wolfgang.png
 tags:
   - music
   - classical

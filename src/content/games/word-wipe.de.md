@@ -4,7 +4,7 @@ urlstr: word-wipe
 title: "Word Wipe"
 description: "Räume in Word Wipe das Spielfeld mit deinem Wortschatz: Verbinde Buchstaben in alle Richtungen zu Wörtern, lass sie verschwinden und cleare Zeilen, bevor die Zeit abläuft." 
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-word-wipe/'
-thumbnail: /new-images/word-wipe.jpg
+thumbnail: /new-images/thumbnails/word-wipe.jpg
 tags:
   - word-game
   - puzzle

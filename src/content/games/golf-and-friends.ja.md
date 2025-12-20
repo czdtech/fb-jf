@@ -2,7 +2,7 @@
 title: Golf and Friends
 description: Golf and Friendsは軽快なミニゴルフです。傾斜を読み、バンクショットを使い、友達とパットを合わせて、楽しいセッションを過ごしましょう。
 iframeSrc: 'https://1uerepsm8tbpg.h5games.usercontent.goog/v/3st9sicdd4eu0/'
-thumbnail: /new-images/golf-and-friends.jpg
+thumbnail: /new-images/thumbnails/golf-and-friends.jpg
 urlstr: golf-and-friends
 score: 4.0/5  (1896 votes)
 tags:

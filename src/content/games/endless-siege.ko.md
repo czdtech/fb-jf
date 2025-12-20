@@ -6,7 +6,7 @@ description: >-
   끝없이 밀려오는 오크와 몬스터의 웨이브를 막아내는 타워 디펜스 게임입니다. 포탑을 배치·강화하고, 매일 달라지는 맵에서 최장 생존에 도전해
   보세요.
 iframeSrc: 'https://endlessseige.h5games.usercontent.goog/v/35nvlvatb9t8g/'
-thumbnail: /new-images/endless-siege.jpg
+thumbnail: /new-images/thumbnails/endless-siege.jpg
 tags:
   - tower Defense
   - strategy

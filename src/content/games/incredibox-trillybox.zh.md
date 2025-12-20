@@ -4,7 +4,7 @@ urlstr: incredibox-trillybox
 title: "Incredibox Trillybox - 在线玩 Incredibox Trillybox"
 description: "探索 Incredibox Trillybox，这款专注于 Trap 音乐的粉丝 Mod。本指南详细介绍了其以 808 为主的音色调色板、创作重击节拍的玩法，以及如何解锁其现代主题奖励。"
 iframeSrc: 'https://turbowarp.org/907049948/embed'
-thumbnail: /new-images/incredibox-trillybox.png
+thumbnail: /new-images/thumbnails/incredibox-trillybox.png
 tags:
   - music
   - hip-Hop

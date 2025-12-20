@@ -4,7 +4,7 @@ locale: en
 title: "One Line"
 description: "One Line is a minimalistic puzzle game where players draw a single continuous line to connect all given points on the board without lifting their finger or retracing any path."
 iframeSrc: "https://g2.igroutka.ru/games/3/JLgd70b3BNafhVq5/10/igra-odna-liniya/game.html"
-thumbnail: "/new-images/one-line.jpg"
+thumbnail: /new-images/thumbnails/one-line.jpg
 urlstr: "one-line"
 score: "3.9/5  (549 votes)"
 tags: ["puzzle", "logic", "minimalist"]

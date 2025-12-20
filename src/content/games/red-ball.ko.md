@@ -7,7 +7,7 @@ description: >-
   물리 기반 플랫폼 게임입니다. 관성·점프를 활용해 골까지 굴려 보세요.
 iframeSrc: >-
   https://app-185271.games.s3.yandex.net/185271/uvjrp10onrrllry3esbc3gpnf7s40cj5/index.html
-thumbnail: /new-images/red-ball.jpg
+thumbnail: /new-images/thumbnails/red-ball.jpg
 tags:
   - platformer
   - physics

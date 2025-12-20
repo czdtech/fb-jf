@@ -7,7 +7,7 @@ description: >-
   der lebendigen Kultur des armenischen Volkstanzes Kochari verbindet. Erstelle
   einzigartige Beats mit traditionellen Rhythmen und Klängen.
 iframeSrc: 'https://turbowarp.org/718091148/embed'
-thumbnail: /new-images/incredibox-kochari.png
+thumbnail: /new-images/thumbnails/incredibox-kochari.png
 tags:
   - music
   - cultural

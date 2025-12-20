@@ -3,7 +3,7 @@ locale: en
 title: "Lucky Vegas Blackjack"
 description: "Lucky Vegas Blackjack streamlines 21 — apply basic strategy, manage bankroll, and enjoy quick hands without chasing losses."
 iframeSrc: "https://35ntqr0siokq8.h5games.usercontent.goog/v/1hhotshtjugn8/"
-thumbnail: "/new-images/lucky-vegas-blackjack.png"
+thumbnail: /new-images/thumbnails/lucky-vegas-blackjack.png
 urlstr: "lucky-vegas-blackjack"
 score: "3.7/5  (1604 votes)"
 tags: ["card", "casual", "thinky"]

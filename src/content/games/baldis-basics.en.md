@@ -4,7 +4,7 @@ locale: en
 title: "Baldi's Basics"
 description: "A detailed guide to Baldi's Basics, the parody survival horror game. Learn how to collect notebooks, use items strategically, avoid Baldi and other characters, and escape the schoolhouse."
 iframeSrc: "https://html5.iclouds.io/baldis-basics/index.html"
-thumbnail: "/new-images/baldis-basics.jpg"
+thumbnail: /new-images/thumbnails/baldis-basics.jpg
 urlstr: "baldis-basics"
 score: "4.5/5  (781 votes)"
 tags: ["puzzle", "horror"]

@@ -2,7 +2,7 @@
 title: "Chess Mania チェス・マニア"
 description: "「Chess Mania」でチェスの世界に没頭しよう。400以上のレベル、難解なパズル、そして強力なコンピュータ対戦。スキルを磨き、チェスマスターを目指せ。"
 iframeSrc: "https://chessmania.h5games.usercontent.goog/v/9p8cltq4r3h7o/"
-thumbnail: "/new-images/chess-mania.png"
+thumbnail: /new-images/thumbnails/chess-mania.png
 urlstr: "chess-mania"
 score: "4.3/5  (1890 votes)"
 tags: ["thinky", "puzzle", "strategy"]

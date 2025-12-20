@@ -4,7 +4,7 @@ urlstr: slope-2
 title: 《Slope 2》极限斜坡 2
 description: 《Slope 2》是经典斜坡跑酷的进化续作。你将操控一颗高速滚动的球，在充满斜坡、缺口和陷阱的平台上一路下滑，挑战更快节奏和更高难度的生存极限。
 iframeSrc: 'https://slope2.h5games.usercontent.goog/v/49i8bhhk3hlt0/'
-thumbnail: /new-images/slope-2.jpg
+thumbnail: /new-images/thumbnails/slope-2.jpg
 tags:
   - 3d
   - running

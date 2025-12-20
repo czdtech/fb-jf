@@ -7,7 +7,7 @@ description: >-
   energía y cierra puertas y luces a tiempo para mantener fuera a los
   animatrónicos durante cinco noches (y más allá).
 iframeSrc: 'https://ubg77.github.io/fix/fnaf1/'
-thumbnail: /new-images/five-nights-at-freddy-1.jpg
+thumbnail: /new-images/thumbnails/five-nights-at-freddy-1.jpg
 tags:
   - horror
   - strategy

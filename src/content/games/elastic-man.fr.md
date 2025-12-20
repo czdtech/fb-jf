@@ -4,7 +4,7 @@ urlstr: elastic-man
 title: Elastic Man
 description: "Elastic Man est un jouet interactif étrange\_: tire, tords et étire un visage en caoutchouc ultra déformable pour te détendre ou t’amuser."
 iframeSrc: 'https://elasticman.com/'
-thumbnail: /new-images/elastic-man.jpg
+thumbnail: /new-images/thumbnails/elastic-man.jpg
 tags:
   - casual
   - sandbox

@@ -4,7 +4,7 @@ urlstr: incredibox-yellow-colorbox
 title: "Incredibox Yellow Colorbox - 在线玩 Incredibox Yellow Colorbox"
 description: "Incredibox Yellow Colorbox 是一款粉丝创作的 Incredibox Mod 音乐游戏。在这个版本中，所有角色都以醒目的黄色呈现，每个角色都有独特且不可重复的音效。"
 iframeSrc: 'https://www.minijuegos.com/embed/incredibox-yellow-colorbox'
-thumbnail: /incredibox-yellow-colorbox.png
+thumbnail: /new-images/thumbnails/incredibox-yellow-colorbox.png
 tags:
   - incredibox yellow colorbox
   - incredibox yellow colorbox online

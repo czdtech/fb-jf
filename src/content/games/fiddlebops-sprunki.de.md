@@ -7,7 +7,7 @@ description: >-
   Twist: charmante Figuren, bunte Optik und entspannteres Gameplay für eine
   lockere Musikbastel-Erfahrung.
 iframeSrc: 'https://67ce9d735e0d2d9051c65366--kaleidoscopic-sundae-181ab2.netlify.app/'
-thumbnail: /fiddlebops-sprunki-bg-1.png
+thumbnail: /new-images/thumbnails/fiddlebops-sprunki.png
 tags:
   - fiddlebops sprunki
   - sprunki phase 5 online

@@ -3,7 +3,7 @@ locale: en
 title: "The Hidden Antique Shop"
 description: "The Hidden Antique Shop is a cozy hidden‑object — scan scenes, spot subtle differences, and solve light puzzles in a vintage store."
 iframeSrc: "https://7nh0dnmovl0g0.h5games.usercontent.goog/v/01busogksrcm0/"
-thumbnail: "/new-images/the-hidden-antique-shop.png"
+thumbnail: /new-images/thumbnails/the-hidden-antique-shop.png
 urlstr: "the-hidden-antique-shop"
 score: "4.1/5  (1988 votes)"
 tags: ["puzzle", "thinky", "casual"]

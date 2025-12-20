@@ -7,7 +7,7 @@ description: >-
   Gänge, pralle mit Schüssen an Wänden ab und versuche, als letzter intakter
   Panzer übrig zu bleiben.
 iframeSrc: 'https://www.friv2018.com/games/html5/tank-trouble-2/'
-thumbnail: /new-images/tank-trouble.jpg
+thumbnail: /new-images/thumbnails/tank-trouble.jpg
 tags:
   - multiplayer
   - action

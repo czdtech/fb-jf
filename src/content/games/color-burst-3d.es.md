@@ -8,7 +8,7 @@ description: >-
   bola con los anillos giratorios y sobrevivir el máximo tiempo posible para
   conseguir una puntuación récord.
 iframeSrc: 'https://colorburst3d.h5games.usercontent.goog/v/3l27vlnq6dvto/'
-thumbnail: /new-images/color-burst-3d.jpeg
+thumbnail: /new-images/thumbnails/color-burst-3d.jpeg
 tags:
   - action
   - casual

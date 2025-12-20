@@ -3,7 +3,7 @@
 title: "SocCar"
 description: "SocCarは車でサッカーをするゲームです。フィールドを走ってボールを押し込み、相手より多く得点することを目指します。"
 iframeSrc: "https://ubg77.github.io/edit/soccar/"
-thumbnail: "/new-images/soccar.jpg"
+thumbnail: /new-images/thumbnails/soccar.jpg
 urlstr: "soccar"
 score: "4.7/5  (870 votes)"
 tags: ["sports", "cars", "action"]

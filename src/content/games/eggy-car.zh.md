@@ -6,7 +6,7 @@ description: >-
   Eggy Car 是一款物理駕駛遊戲，你要一邊開著小車翻山越嶺，一邊保護車上的易碎雞蛋，
   不能讓它從車頂滾落或被顛碎。
 iframeSrc: 'https://webglmath.github.io/eggy-car/'
-thumbnail: /new-images/eggy-car.jpg
+thumbnail: /new-images/thumbnails/eggy-car.jpg
 tags:
   - driving
   - physics

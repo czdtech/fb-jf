@@ -6,7 +6,7 @@ description: >-
   Family Feud 是一款以「問卷調查」為基礎的答題遊戲，你要在多個回合中猜出大眾最常回答的答案，
   並在最後的 Fast Money 環節衝高總分。
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/family-feud/'
-thumbnail: /new-images/family-feud.jpg
+thumbnail: /new-images/thumbnails/family-feud.jpg
 tags:
   - trivia
   - quiz

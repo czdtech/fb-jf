@@ -6,7 +6,7 @@ description: >-
   One Line est un jeu de réflexion minimaliste où tu dois relier tous les points
   d'une figure avec un seul trait continu, sans lever le stylo.
 iframeSrc: 'https://1lin.h5games.usercontent.goog/v/6f1fc4c4-c24e-4d1d-83ca-863f3990f0f7/'
-thumbnail: /new-images/one-line.jpg
+thumbnail: /new-images/thumbnails/one-line.jpg
 tags:
   - puzzle
   - thinky

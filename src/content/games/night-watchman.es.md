@@ -7,7 +7,7 @@ description: >-
   vigilante nocturno, controlando cámaras de seguridad y gestionando recursos
   limitados para sobrevivir a amenazas misteriosas en un edificio abandonado.
 iframeSrc: 'https://g2.igroutka.ru/lib/crazy/games/night-watchman/'
-thumbnail: /new-images/night-watchman.jpg
+thumbnail: /new-images/thumbnails/night-watchman.jpg
 tags:
   - horror
   - survival

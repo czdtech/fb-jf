@@ -7,7 +7,7 @@ description: >-
   Erfahre Strategien, Ascension-Tipps, den Umgang mit Golden Cookies und
   Antworten auf häufige Fragen, um deine Keksproduktion zu maximieren.
 iframeSrc: 'https://games-online.io/game/cake-maker/'
-thumbnail: /new-images/cookie-clicker-2.jpg
+thumbnail: /new-images/thumbnails/cookie-clicker-2.jpg
 tags:
   - casual
   - clicker

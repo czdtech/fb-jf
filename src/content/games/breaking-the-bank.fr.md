@@ -4,7 +4,7 @@ urlstr: breaking-the-bank
 title: "Breaking the Bank"
 description: "Breaking the Bank est le tout premier épisode d’Henry Stickmin : choisis une méthode pour cambrioler une banque et découvre une série de FAILs hilarants… une seule option mène au « succès »."
 iframeSrc: "https://rebemanae.github.io/breaking-the-bank/"
-thumbnail: /new-images/breaking-the-bank.jpg
+thumbnail: /new-images/thumbnails/breaking-the-bank.jpg
 tags:
   - puzzle
   - adventure

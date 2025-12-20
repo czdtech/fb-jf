@@ -2,7 +2,7 @@
 title: "Basketball serial shooter バスケットボール・シリアルシューター"
 description: "「Basketball serial shooter」は、連射と技術が融合したバスケ・チャレンジ。リズムを刻み、弧を描き、プレッシャーの中で連続ゴールを決めろ。"
 iframeSrc: "https://41d3mmm660u50.h5games.usercontent.goog/v/1t2n5uvjnbv1o/"
-thumbnail: "/new-images/basketball-serial-shooter.jpg"
+thumbnail: /new-images/thumbnails/basketball-serial-shooter.jpg
 urlstr: "basketball-serial-shooter"
 score: "4.3/5  (2141 votes)"
 tags: ["sports", "basketball"]

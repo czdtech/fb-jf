@@ -6,7 +6,7 @@ description: >-
   《99 Balls
   3D（99球3D）》是一款融合打砖块与泡泡射击要素的物理弹射益智游戏，你要通过精确瞄准与多次反弹来击碎不断下落的数字球，收集环和星星强化自己的火力。
 iframeSrc: 'https://99balls3d.h5games.usercontent.goog/v/0b35ksethbio8/'
-thumbnail: /new-images/99-balls-3d.jpeg
+thumbnail: /new-images/thumbnails/99-balls-3d.jpeg
 tags:
   - shooting
   - puzzle

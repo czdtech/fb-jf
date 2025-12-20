@@ -4,7 +4,7 @@ urlstr: text-twist-2
 title: "Text Twist 2 - Desafío de palabras ampliado"
 description: "Sumérgete en un desafío de palabras aún más grande con Text Twist 2. Esta secuela del popular puzle de letras añade nuevos modos como Sin Tiempo y Crucigrama, un diccionario más amplio y mejores gráficos. Reordena letras, encuentra la palabra Bingo para avanzar y pon a prueba tu vocabulario en este adictivo puzle."
 iframeSrc: "https://games.cdn.famobi.com/html5games/t/text-twist-2/v110/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=40935b5f-cfef-4ac2-9179-549869282f4b&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=693&original_ref="
-thumbnail: "/new-images/text-twist-2.jpg"
+thumbnail: /new-images/thumbnails/text-twist-2.jpg
 tags:
   - word-game
   - puzzle

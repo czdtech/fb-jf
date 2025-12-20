@@ -7,7 +7,7 @@ description: >-
   principe de « swap » de personnages, donnant une nouvelle identité visuelle et
   sonore à des figures familières.
 iframeSrc: 'https://turbowarp.org/1132681434/embed'
-thumbnail: /sprunki-swapped-horror.png
+thumbnail: /new-images/thumbnails/sprunki-swapped-horror.png
 tags:
   - sprunki swapped horror
   - sprunki swapped horror online

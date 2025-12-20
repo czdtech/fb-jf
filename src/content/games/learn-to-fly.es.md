@@ -7,7 +7,7 @@ description: >-
   progresiva: ajusta el ángulo de despegue, planea y usa propulsores, gana
   dinero y compra piezas para volar cada día un poco más lejos.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/learn-to-fly.html'
-thumbnail: /new-images/learn-to-fly.jpg
+thumbnail: /new-images/thumbnails/learn-to-fly.jpg
 tags:
   - arcade
   - upgrade

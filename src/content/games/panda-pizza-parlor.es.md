@@ -7,7 +7,7 @@ description: >-
   Gestiona el tiempo, acierta con los ingredientes y convierte tu pequeño local
   en un auténtico imperio pizzero.
 iframeSrc: 'https://pandapizzaparlor.h5games.usercontent.goog/v/16ldgoh3to3f8/'
-thumbnail: /new-images/panda-pizza-parlor.png
+thumbnail: /new-images/thumbnails/panda-pizza-parlor.png
 tags:
   - casual
   - action

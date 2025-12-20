@@ -7,7 +7,7 @@ description: >-
   Gleichgewicht, überwinde Hindernisse und erreiche das Ziel, ohne dich zu
   überschlagen.
 iframeSrc: 'https://ubg98.github.io/DriveMad/'
-thumbnail: /new-images/drive-mad.jpg
+thumbnail: /new-images/thumbnails/drive-mad.jpg
 tags:
   - driving
   - physics

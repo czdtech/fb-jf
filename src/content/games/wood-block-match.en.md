@@ -3,7 +3,7 @@ locale: en
 title: "Wood Block Match"
 description: "Wood Block Match is a calming block‑fit — place wooden shapes, clear rows/columns, and preserve space with smart pocketing."
 iframeSrc: "https://2rfr65hktjv5o.h5games.usercontent.goog/v/46h85f5g0sldo/"
-thumbnail: "/new-images/wood-block-match.png"
+thumbnail: /new-images/thumbnails/wood-block-match.png
 urlstr: "wood-block-match"
 score: "4.1/5  (1969 votes)"
 tags: ["puzzle", "thinky", "casual"]

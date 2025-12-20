@@ -4,7 +4,7 @@ urlstr: woodcraft
 title: "Woodcraft"
 description: "Werde zum Holzhandwerker in Woodcraft: Bearbeite Werkstücke im richtigen Takt, erfülle Aufträge und schaltest neue Werkzeuge und Muster frei – ein entspanntes, rhythmisches Crafting‑Spiel." 
 iframeSrc: 'https://g2.igroutka.ru/games/164/i06q7hMeRCsWOPKy/woodcraft/'
-thumbnail: /new-images/woodcraft.jpg
+thumbnail: /new-images/thumbnails/woodcraft.jpg
 tags:
   - casual
   - rhythm

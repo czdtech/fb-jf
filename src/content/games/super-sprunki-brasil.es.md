@@ -7,7 +7,7 @@ description: >-
   creatividad musical con todo el sabor de Brasil. Únete a Super Sprunki Brasil
   y usa la música para transmitir al mundo la pasión y la energía brasileñas.
 iframeSrc: 'https://turbowarp.org/1080827660/embed'
-thumbnail: /super-sprunki-brasil.png
+thumbnail: /new-images/thumbnails/super-sprunki-brasil.png
 tags:
   - super sprunki brasil
   - super sprunki brasil online

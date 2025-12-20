@@ -6,7 +6,7 @@ description: >-
   The Pillar est un jeu de puzzle et escape room captivant : explore des
   environnements enigmatiques, resous des puzzles et decouvre des secrets.
 iframeSrc: 'https://m.igroutka.ru/g-1/53/ThePillar/'
-thumbnail: /new-images/the-pillar.jpg
+thumbnail: /new-images/thumbnails/the-pillar.jpg
 tags:
   - puzzle
   - adventure

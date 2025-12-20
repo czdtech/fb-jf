@@ -4,7 +4,7 @@ urlstr: bullet-force
 title: Bullet Force 现代战场
 description: 《Bullet Force 现代战场》是一款第一人称多人射击游戏，提供多种武器、自定义配置与多人模式，让你在高速对战中 体验战术与枪法的结合。
 iframeSrc: 'https://gfets.me/game/bullet-force-multiplayer'
-thumbnail: /new-images/bullet-force.jpg
+thumbnail: /new-images/thumbnails/bullet-force.jpg
 tags:
   - action
   - shooting

@@ -7,7 +7,7 @@ description: >-
   guider une bille à travers des labyrinthes remplis d’obstacles, en jouant
   avec la gravité et l’élan pour atteindre l’objectif à chaque niveau.
 iframeSrc: 'https://rebemanae.github.io/rotate/'
-thumbnail: /new-images/rotate.jpg
+thumbnail: /new-images/thumbnails/rotate.jpg
 tags:
   - puzzle
   - physics

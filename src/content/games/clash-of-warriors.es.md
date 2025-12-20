@@ -7,7 +7,7 @@ description: >-
   compactas: curva bien tus jugadas, intercambia con eficiencia y supera a tus
   rivales con mejores decisiones.
 iframeSrc: 'https://7t89fh6irdv0g.h5games.usercontent.goog/v/5gpd6kf06hr8g/'
-thumbnail: /new-images/clash-of-warriors.png
+thumbnail: /new-images/thumbnails/clash-of-warriors.png
 tags:
   - card
   - thinky

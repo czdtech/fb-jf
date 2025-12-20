@@ -6,7 +6,7 @@ description: >-
   Ultimate Knife Smash est un jeu de réflexes : chronomètre tes lancers, évite
   de toucher les autres couteaux et brise les cibles proprement.
 iframeSrc: 'https://ultimateknifesmash.h5games.usercontent.goog/v/5ifrmqkiihdj0/'
-thumbnail: /new-images/ultimate-knife-smash.png
+thumbnail: /new-images/thumbnails/ultimate-knife-smash.png
 tags:
   - action
   - casual

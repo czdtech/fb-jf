@@ -4,7 +4,7 @@ urlstr: spider-solitaire-2
 title: 《Spider Solitaire 2》蜘蛛纸牌 2
 description: 《Spider Solitaire 2》是经典蜘蛛纸牌的进阶版本。通过在牌面上按点数递减顺序整理纸牌，完成从 K 到 A 的完整序列并清除所有牌堆。
 iframeSrc: 'https://spidersolitaire2.h5games.usercontent.goog/v/4fnl8m3i4h1ag/'
-thumbnail: /new-images/spider-solitaire-2.png
+thumbnail: /new-images/thumbnails/spider-solitaire-2.png
 tags:
   - card
   - solitaire

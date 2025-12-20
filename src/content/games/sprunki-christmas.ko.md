@@ -6,7 +6,7 @@ description: >-
   Sprunki Christmas는 크리스마스 분위기 속에서 스프룽키 스타일 음악과 퍼즐을 즐길 수 있는 모드입니다. 선물을 모으고 트리를
   장식하며, 축제 감성 가득한 사운드와 비주얼을 경험해 보세요.
 iframeSrc: 'https://turbowarp.org/1104040581/embed'
-thumbnail: /sprunki-christmas.png
+thumbnail: /new-images/thumbnails/sprunki-christmas.png
 tags:
   - sprunki christmas
 score: 4.6/5  (486 votes)

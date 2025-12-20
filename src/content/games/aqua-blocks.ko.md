@@ -7,7 +7,7 @@ description: >-
   퍼즐 게임입니다. 다양한 모양의 블록을 맞춰 넣어 라인을 지우고, 막힌 공간 없이
   보드를 깨끗하게 유지하는 것이 핵심입니다.
 iframeSrc: 'https://1uerepsm8tbpg.h5games.usercontent.goog/v/3st9sicdd4eu0/'
-thumbnail: /new-images/aqua-blocks.png
+thumbnail: /new-images/thumbnails/aqua-blocks.png
 tags:
   - puzzle
   - thinky

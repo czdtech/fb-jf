@@ -6,7 +6,7 @@ description: >-
   you want in the sea of memes. Come and join Sprunki but with memes, and use
   your unique musical talents to ignite a meme craze!
 iframeSrc: 'https://kdata1.com/5000/2024/sprunki-retake-memes/'
-thumbnail: /sprunki-but-with-memes.png
+thumbnail: /new-images/thumbnails/sprunki-but-with-memes.png
 urlstr: sprunki-but-with-memes
 modType: sprunki
 score: 4.2/5  (142 votes)

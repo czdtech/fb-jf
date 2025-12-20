@@ -4,7 +4,7 @@ locale: en
 title: "Fireboy And Watergirl 4"
 description: "The definitive guide to Fireboy and Watergirl 4: The Crystal Temple. Learn to master the crystal portals with co-op strategies, puzzle tips, controls, and FAQs for this 2-player platformer."
 iframeSrc: "https://slope-game.github.io/fireboy-water-4/"
-thumbnail: "/new-images/fireboy-and-watergirl-4.jpg"
+thumbnail: /new-images/thumbnails/fireboy-and-watergirl-4.jpg
 urlstr: "fireboy-and-watergirl-4"
 score: "4.6/5  (117 votes)"
 tags: ["casual", "rhythm"]

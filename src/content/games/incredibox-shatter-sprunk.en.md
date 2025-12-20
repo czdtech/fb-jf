@@ -6,7 +6,7 @@ description: >-
   version, all characters are presented in a striking yellow color, and each
   character has a unique and unrepeatable sound effect.
 iframeSrc: 'https://turbowarp.org/1144858827/embed'
-thumbnail: /incredibox-shatter-sprunk.png
+thumbnail: /new-images/thumbnails/incredibox-shatter-sprunk.png
 urlstr: incredibox-shatter-sprunk
 modType: incredibox
 score: 4.5/5  (614 votes)

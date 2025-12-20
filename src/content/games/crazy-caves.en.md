@@ -3,7 +3,7 @@ locale: en
 title: "Crazy Caves"
 description: "Enter the Crazy Caves and test your reflexes! Dodge an endless barrage of falling rocks while throwing pickaxes to smash them for valuable gems and gold. Upgrade your gear to survive longer and score higher."
 iframeSrc: "https://crazycaves.h5games.usercontent.goog/v/24bc2c61-c599-4c5a-9fde-fd3a14fd28a6/"
-thumbnail: "/new-images/crazy-caves.jpg"
+thumbnail: /new-images/thumbnails/crazy-caves.jpg
 urlstr: "crazy-caves"
 score: "4.2/5  (1850 votes)"
 tags: ["action", "casual", "clicker"]

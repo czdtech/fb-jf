@@ -2,7 +2,7 @@
 title: Pou
 description: Pouはバーチャルペット育成ゲームです。Pouの世話をし、ミニゲームでコインを集めてカスタマイズします。
 iframeSrc: 'https://pou.h5games.usercontent.goog/v/2j9k5m8h7p3n8/'
-thumbnail: /new-images/pou.png
+thumbnail: /new-images/thumbnails/pou.jpg
 urlstr: pou
 score: 4.4/5  (3456 votes)
 tags:

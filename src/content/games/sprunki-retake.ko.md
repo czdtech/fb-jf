@@ -6,7 +6,7 @@ description: >-
   Sprunki Retake는 리듬 게임과 공포 요소를 결합한 스프룽키 시리즈 후속 모드입니다. 익숙한 음악 제작 시스템 위에 스릴과
   서스펜스를 더해, 긴장감 있는 트랙과 연출을 즐길 수 있습니다.
 iframeSrc: 'https://www.minijuegos.com/embed/sprunki-retake'
-thumbnail: /sprunki-retake.png
+thumbnail: /new-images/thumbnails/sprunki-retake.png
 tags:
   - sprunki retake
   - sprunki retake online

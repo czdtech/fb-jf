@@ -7,7 +7,7 @@ description: >-
   Kleiderschrank und nutze deine Taschenlampe mit Bedacht, um die Nachtmonster
   fernzuhalten.
 iframeSrc: 'https://ubg77.github.io/fix/fnaf2/fnaf4.html'
-thumbnail: /new-images/five-nights-at-freddy-4.jpg
+thumbnail: /new-images/thumbnails/five-nights-at-freddy-4.jpg
 tags:
   - horror
   - strategy

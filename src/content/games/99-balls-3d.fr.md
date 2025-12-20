@@ -4,7 +4,7 @@ urlstr: 99-balls-3d
 title: "99 Balls 3D"
 description: "99 Balls 3D est un casse‑tête de tir physique où tu lances une pluie de balles pour faire exploser des sphères numérotées avant qu’elles n’atteignent le bas de l’écran."
 iframeSrc: "https://99balls3d.h5games.usercontent.goog/v/0b35ksethbio8/"
-thumbnail: /new-images/99-balls-3d.jpeg
+thumbnail: /new-images/thumbnails/99-balls-3d.jpeg
 tags:
   - shooting
   - puzzle

@@ -7,7 +7,7 @@ description: >-
   Incredibox con la vibrante cultura de la danza folclórica armenia Kochari.
   Crea beats únicos con ritmos y sonidos tradicionales.
 iframeSrc: 'https://turbowarp.org/718091148/embed'
-thumbnail: /new-images/incredibox-kochari.png
+thumbnail: /new-images/thumbnails/incredibox-kochari.png
 tags:
   - music
   - cultural

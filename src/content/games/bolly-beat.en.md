@@ -3,7 +3,7 @@ locale: en
 title: "Bolly Beat"
 description: "Bolly Beat is a rhythm challenge where you tap in time, chain combos, and master Bollywood‑style beats."
 iframeSrc: "https://bollybeat.h5games.usercontent.goog/v/4k75msiudusn0/"
-thumbnail: "/new-images/bolly-beat.jpg"
+thumbnail: /new-images/thumbnails/bolly-beat.jpg
 urlstr: "bolly-beat"
 score: "4.0/5  (1672 votes)"
 tags: ["casual", "action"]

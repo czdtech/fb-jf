@@ -2,7 +2,7 @@
 title: Parking Rush
 description: Parking Rushは駐車パズルゲームです。車がぶつからないように誘導し、時間内に正しい駐車スペースへ入れます。
 iframeSrc: 'https://parkingrush.h5games.usercontent.goog/v/2j8k5m9h7p3n8/'
-thumbnail: /new-images/parking-rush.png
+thumbnail: /new-images/thumbnails/parking-rush.png
 urlstr: parking-rush
 score: 3.9/5  (1623 votes)
 tags:

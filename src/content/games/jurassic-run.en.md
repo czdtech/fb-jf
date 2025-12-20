@@ -3,7 +3,7 @@ locale: en
 title: "Jurassic Run"
 description: "Jurassic Run is a dino‑dash runner — evade hazards, swap lanes, and sprint for high scores."
 iframeSrc: "https://260c4eej53igg.h5games.usercontent.goog/v/5h99gs1rujgk0/"
-thumbnail: "/new-images/jurassic-run.png"
+thumbnail: /new-images/thumbnails/jurassic-run.png
 urlstr: "jurassic-run"
 score: "3.9/5  (1721 votes)"
 tags: ["action", "casual"]

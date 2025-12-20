@@ -7,7 +7,7 @@ description: >-
   Ascension-Strategien, den Umgang mit Ancients, Steuerung und Antworten auf
   häufige Fragen zu diesem süchtig machenden Idle-/Clicker-Spiel.
 iframeSrc: 'https://cdn.clickerheroes.com/gamebuild/'
-thumbnail: /new-images/clicker-heroes.jpg
+thumbnail: /new-images/thumbnails/clicker-heroes.jpg
 tags:
   - clicker
   - casual

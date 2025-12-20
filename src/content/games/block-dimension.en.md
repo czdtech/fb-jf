@@ -3,7 +3,7 @@ locale: en
 title: "Block Dimension"
 description: "Enter the Block Dimension, a 3D puzzle game that will challenge your spatial awareness. Rotate the structure and fit the blocks perfectly."
 iframeSrc: "https://62dfg8ps4f7lg.h5games.usercontent.goog/v/0k3gcfq0ljti8/"
-thumbnail: "/new-images/block-dimension.png"
+thumbnail: /new-images/thumbnails/block-dimension.png
 urlstr: "block-dimension"
 score: "3.8/5  (1432 votes)"
 tags: ["puzzle", "thinky", "casual"]

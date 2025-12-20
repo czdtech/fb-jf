@@ -4,7 +4,7 @@ urlstr: bricks-breaker-house
 title: "Bricks Breaker House"
 description: "Bricks Breaker House ajoute une ambiance « maison » au casse‑briques : ajuste l’angle de service, gère les bonus et garde ta raquette sous contrôle pour ne pas laisser tomber la balle."
 iframeSrc: "https://1s6hqqts5ko6o.h5games.usercontent.goog/v/7n8ge2nvqqksg/"
-thumbnail: /new-images/bricks-breaker-house.png
+thumbnail: /new-images/thumbnails/bricks-breaker-house.png
 tags:
   - puzzle
   - casual

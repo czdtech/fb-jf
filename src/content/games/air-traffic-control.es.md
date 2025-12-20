@@ -7,7 +7,7 @@ description: >-
   llegadas y salidas de aviones. Marca rumbos, evita conflictos y coordina
   aterrizajes seguros desde tu pantalla.
 iframeSrc: 'https://2nuk1jh1nvsq8.h5games.usercontent.goog/v/5glj0btngbu2o/'
-thumbnail: /new-images/air-traffic-control.png
+thumbnail: /new-images/thumbnails/air-traffic-control.png
 tags:
   - thinky
   - puzzle

@@ -2,7 +2,7 @@
 title: "Garden Bloom"
 description: "Garden Bloomで美しい庭を復元しましょう！やりがいのあるマッチ3パズルを解き、星を獲得し、素敵な装飾を選んで夢の庭をデザインしましょう。"
 iframeSrc: "https://gardenbloom.h5games.usercontent.goog/v/03uqf2ceev9h8/"
-thumbnail: "/new-images/garden-bloom.png"
+thumbnail: /new-images/thumbnails/garden-bloom.png
 urlstr: "garden-bloom"
 score: "4.6/5  (2780 votes)"
 tags: ["puzzle", "casual"]

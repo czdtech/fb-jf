@@ -3,7 +3,7 @@ locale: en
 title: "Pool 8 Ball Mania"
 description: "Pool 8 Ball Mania refines bar‑pool — aim clean, control cue‑ball with spin, and clear patterns with smart position play."
 iframeSrc: "https://4i2ksm0sqbsr0.h5games.usercontent.goog/v/6fbgaukuhtvqo/"
-thumbnail: "/new-images/pool-8-ball-mania.png"
+thumbnail: /new-images/thumbnails/pool-8-ball-mania.png
 urlstr: "pool-8-ball-mania"
 score: "4.2/5  (2059 votes)"
 tags: ["sports", "pool"]

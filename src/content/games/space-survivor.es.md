@@ -7,7 +7,7 @@ description: >-
   trepidante roguelike de supervivencia. Recoge XP, elige potentes mejoras y
   comprueba cuánto tiempo eres capaz de resistir.
 iframeSrc: "https://76sb7kgqtg5kg.h5games.usercontent.goog/v/5s72d5756n840/"
-thumbnail: "/new-images/space-survivor.png"
+thumbnail: /new-images/thumbnails/space-survivor.png
 tags:
   - action
   - shooting

@@ -5,7 +5,7 @@ urlstr: "sprunki-retake-new-human"
 title: "Sprunki Retake New Human 🔥 在线玩 Sprunki Retake New Human"
 description: "Sprunki Retake New Human 的核心是通过全新的人形角色设计，重新诠释经典的 Incredibox 体验。"
 iframeSrc: "https://turbowarp.org/1139615160/embed"
-thumbnail: "/sprunki-retake-new-human.png"
+thumbnail: /new-images/thumbnails/sprunki-retake-new-human.png
 score: "4.0/5  (829 票)"
 tags: ["sprunki retake new human", "musical mod"]
 ---

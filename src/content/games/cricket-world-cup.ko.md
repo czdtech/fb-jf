@@ -7,7 +7,7 @@ description: >-
   라인과 길이를 읽고, 땅볼과 로프트 샷을 적절히 섞어 제한 오버 안에 목표 스코어를
   추격해 보세요.
 iframeSrc: 'https://5ret6v2c94q4g.h5games.usercontent.goog/v/09j66svc50570/'
-thumbnail: /new-images/cricket-world-cup.png
+thumbnail: /new-images/thumbnails/cricket-world-cup.png
 tags:
   - sports
   - casual

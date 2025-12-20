@@ -4,7 +4,7 @@ locale: en
 title: "Steal a Brainrot"
 description: "Discover the chaotic Roblox experience, 'Steal a Brainrot.' Learn the gameplay of this meme-filled game where you snatch brainrot characters like Skibidi Toilet and escape guards. Find tips, strategies, and more." 
 iframeSrc: "https://st.8games.net/7/8g/igra-ukradi-brejnrot-100-original/"
-thumbnail: "/new-images/steal-a-brainrot.webp"
+thumbnail: /new-images/thumbnails/steal-a-brainrot.webp
 urlstr: "steal-a-brainrot"
 sidebarNew: 1
 score: "4.7/5  (3719 votes)"

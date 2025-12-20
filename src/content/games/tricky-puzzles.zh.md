@@ -4,7 +4,7 @@ urlstr: tricky-puzzles
 title: 《Tricky Puzzles》脑洞益智合集
 description: 《Tricky Puzzles》是一款集合多种脑洞题与机关谜题的益智游戏。看似简单的问题背后往往藏着反常规思路，需要你跳出惯性思考才能通关。
 iframeSrc: 'https://trickypuzzles.h5games.usercontent.goog/v/2h7d3n9c1b5k0/'
-thumbnail: /new-images/tricky-puzzles.jpg
+thumbnail: /new-images/thumbnails/tricky-puzzles.jpg
 tags:
   - puzzle
   - brain-teaser

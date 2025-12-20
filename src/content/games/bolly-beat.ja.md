@@ -2,7 +2,7 @@
 title: "Bolly Beat ボリー・ビート"
 description: "「Bolly Beat」はボリウッドスタイルに乗って楽しむリズムアクション。ビートに合わせてタップし、コンボを繋げよう。エネルギッシュな音楽とリズム感が試される。"
 iframeSrc: "https://bollybeat.h5games.usercontent.goog/v/4k75msiudusn0/"
-thumbnail: "/new-images/bolly-beat.jpg"
+thumbnail: /new-images/thumbnails/bolly-beat.jpg
 urlstr: "bolly-beat"
 score: "4.0/5  (1672 votes)"
 tags: ["casual", "action"]

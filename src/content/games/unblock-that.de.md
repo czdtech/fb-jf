@@ -7,7 +7,7 @@ description: >-
   so, dass der rote Block einen freien Weg zum Ausgang bekommt – ideal zum
   Knobeln und Trainieren deines Logikdenkens.
 iframeSrc: 'https://unblockthat.h5games.usercontent.goog/v/6iqu63hhulkgo/'
-thumbnail: /new-images/unblock-that.png
+thumbnail: /new-images/thumbnails/unblock-that.png
 tags:
   - puzzle
   - thinky

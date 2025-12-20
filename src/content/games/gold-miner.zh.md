@@ -6,7 +6,7 @@ description: >-
   經典鉤爪拉礦街機遊戲：抓準時機放下鉤爪，勾住地下的金塊與寶石，
   在時間結束前達成關卡目標金額，並用道具輔助通關。
 iframeSrc: 'https://ad-freegames.github.io/flash/game/gold-miner.html'
-thumbnail: /new-images/gold-miner.jpg
+thumbnail: /new-images/thumbnails/gold-miner.jpg
 tags:
   - arcade
   - skill

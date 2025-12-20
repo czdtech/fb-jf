@@ -7,7 +7,7 @@ description: >-
   aporta una nueva mirada a la creación musical gracias a su marcado tema de
   invierno.
 iframeSrc: "https://turbowarp.org/1114795409/embed"
-thumbnail: "/sprunki-cool-as-ice.png"
+thumbnail: /new-images/thumbnails/sprunki-cool-as-ice.png
 tags:
   - sprunki cool as ice
   - sprunki cool as ice online

@@ -6,7 +6,7 @@ description: >-
   《Escaping the Prison》是 Henry Stickmin 系列的點擊冒險篇章，
   透過選擇道具與路線（潛行、火爆、法律途徑）幫助火柴人越獄，體驗多結局與滿滿惡搞梗。
 iframeSrc: 'https://classroomjq.github.io/escaping-the-prison/'
-thumbnail: /new-images/escaping-the-prison.jpg
+thumbnail: /new-images/thumbnails/escaping-the-prison.jpg
 tags:
   - adventure
   - point-and-click

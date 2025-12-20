@@ -2,7 +2,7 @@
 title: Zoo Boom
 description: Zoo Boomは、動物マッチングパズルゲームです。同じ動物を揃えて消しましょう。
 iframeSrc: 'https://ubg98.github.io/ZooBoom/'
-thumbnail: /new-images/zoo-boom.jpg
+thumbnail: /new-images/thumbnails/zoo-boom.png
 urlstr: zoo-boom
 score: 4.4/5  (2765 votes)
 tags:

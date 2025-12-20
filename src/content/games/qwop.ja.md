@@ -2,7 +2,7 @@
 title: QWOP
 description: QWOPはランニングゲームです。太ももやふくらはぎを個別に操作して走らせる、独特の操作感が特徴です。
 iframeSrc: 'https://qwop.h5games.usercontent.goog/v/3k9j5m8h7p2n8/'
-thumbnail: /new-images/qwop.png
+thumbnail: /new-images/thumbnails/qwop.jpg
 urlstr: qwop
 score: 4.3/5  (3456 votes)
 tags:

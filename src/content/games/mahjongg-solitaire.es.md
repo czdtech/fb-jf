@@ -8,7 +8,7 @@ description: >-
   tus movimientos y despeja todos los niveles en este desafío atemporal.
 iframeSrc: >-
   https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-mahjongg-solitaire/
-thumbnail: /new-images/mahjongg-solitaire.jpg
+thumbnail: /new-images/thumbnails/mahjongg-solitaire.jpg
 tags:
   - puzzle
   - tile-matching

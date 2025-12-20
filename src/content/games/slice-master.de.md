@@ -7,7 +7,7 @@ description: >-
   das sich durch verschiedenste Objekte schneidet. Ziel sind perfekte Schnitte,
   viele Kombos und reichlich Belohnungen auf trickreichen Parcours.
 iframeSrc: 'https://bitlifeonline.github.io/slice-master/'
-thumbnail: /new-images/slice-master.jpg
+thumbnail: /new-images/thumbnails/slice-master.jpg
 tags:
   - physics
   - action

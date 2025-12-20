@@ -6,7 +6,7 @@ description: >-
   Quiz x est un quiz rapide façon jeu télé : lis les questions, pense large et
   choisis la réponse la plus pertinente sous une légère pression de temps.
 iframeSrc: 'https://5348abrdhudu8.h5games.usercontent.goog/v/35ge2no4verb8/'
-thumbnail: /new-images/quiz-x.png
+thumbnail: /new-images/thumbnails/quiz-x.png
 tags:
   - puzzle
   - thinky

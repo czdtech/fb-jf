@@ -4,7 +4,7 @@ locale: en
 title: "Breaking the Bank"
 description: "Attempt a daring bank heist in Breaking the Bank, the first Henry Stickmin adventure! Choose your method and watch the hilarious outcomes, but only one path leads to success."
 iframeSrc: "https://rebemanae.github.io/breaking-the-bank/"
-thumbnail: "/new-images/breaking-the-bank.jpg"
+thumbnail: /new-images/thumbnails/breaking-the-bank.jpg
 urlstr: "breaking-the-bank"
 score: "4.7/5  (1071 votes)"
 tags: ["puzzle", "adventure"]

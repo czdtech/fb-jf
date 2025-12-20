@@ -2,7 +2,7 @@
 title: Pirate Pop
 description: Pirate Popは海賊テーマのバブルシューターです。バブルをそろえて消し、レベル目標の達成を目指します。
 iframeSrc: 'https://piratepop.h5games.usercontent.goog/v/5k9j2m8h7p3n8/'
-thumbnail: /new-images/pirate-pop.png
+thumbnail: /new-images/thumbnails/pirate-pop.png
 urlstr: pirate-pop
 score: 4.2/5  (2089 votes)
 tags:

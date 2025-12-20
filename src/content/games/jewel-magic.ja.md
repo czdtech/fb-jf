@@ -2,7 +2,7 @@
 title: "Jewel Magic"
 description: "宝石を入れ替えてそろえるクラシックなマッチ3パズルです。特殊宝石や連鎖を使って、各レベルの目標を達成します。"
 iframeSrc: "https://jewelmagic.h5games.usercontent.goog/v/55vd8l21hn1q8/"
-thumbnail: "/new-images/jewel-magic.png"
+thumbnail: /new-images/thumbnails/jewel-magic.png
 urlstr: "jewel-magic"
 score: "4.4/5  (2150 votes)"
 tags: ["puzzle", "casual", "action"]

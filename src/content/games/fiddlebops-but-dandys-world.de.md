@@ -7,7 +7,7 @@ description: >-
   fantastische Musikreise im Dandy's-World-Look, in der du mit einem schrägen
   Fiddlebops-Ensemble eigene Tracks zusammenstellst.
 iframeSrc: 'https://turbowarp.org/1114551059/embed'
-thumbnail: /fiddlebops-but-dandys-world.png
+thumbnail: /new-images/thumbnails/fiddlebops-but-dandys-world.png
 tags:
   - fiddlebops but dandy
 score: 4.6/5  (27 votes)

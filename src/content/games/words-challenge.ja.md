@@ -2,7 +2,7 @@
 title: Words Challenge
 description: Words Challengeは、単語チャレンジゲームです。様々な単語パズルに挑戦しましょう。
 iframeSrc: 'https://ubg98.github.io/WordsChallenge/'
-thumbnail: /new-images/words-challenge.jpg
+thumbnail: /new-images/thumbnails/words-challenge.jpg
 urlstr: words-challenge
 score: 4.3/5  (2345 votes)
 tags:

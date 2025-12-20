@@ -6,7 +6,7 @@ description: >-
   《Sudoku Plus》是一款功能完善的数独游戏。在经典 9×9
   逻辑填数玩法基础上，提供提示、草稿标记和错误检查等辅助工具，既适合入门新手，也适合进阶玩家打磨思路。
 iframeSrc: 'https://sudokuplus.h5games.usercontent.goog/v/3q827iuj6msno/'
-thumbnail: /new-images/sudoku-plus.jpg
+thumbnail: /new-images/thumbnails/sudoku-plus.jpg
 tags:
   - puzzle
   - thinky

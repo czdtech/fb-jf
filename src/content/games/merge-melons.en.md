@@ -3,7 +3,7 @@ locale: en
 title: "Merge Melons"
 description: "Drop and merge fruits in this addictive puzzle game inspired by Suika Game. Combine identical fruits to create bigger ones, aiming for the giant watermelon, but don't let your container overflow!"
 iframeSrc: "https://mergemelons.h5games.usercontent.goog/v/7526h5to2d1v0/"
-thumbnail: "/new-images/merge-melons.png"
+thumbnail: /new-images/thumbnails/merge-melons.png
 urlstr: "merge-melons"
 score: "4.7/5  (2990 votes)"
 tags: ["puzzle", "casual", "thinky"]

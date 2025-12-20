@@ -2,7 +2,7 @@
 title: "Backyard Zombie Defense 裏庭ゾンビディフェンス"
 description: "「Backyard Zombie Defense」は、バリケードを築き、武器を強化して、迫りくるアンデッドの群れから裏庭を守り抜くサバイバル防衛ゲームです。"
 iframeSrc: "https://72ss6r8k142go.h5games.usercontent.goog/v/1hld05o7aip3g/"
-thumbnail: "/new-images/backyard-zombie-defense.png"
+thumbnail: /new-images/thumbnails/backyard-zombie-defense.png
 urlstr: "backyard-zombie-defense"
 score: "4.2/5  (1844 votes)"
 tags: ["action", "defense", "zombie"]

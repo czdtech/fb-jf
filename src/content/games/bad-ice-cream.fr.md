@@ -4,7 +4,7 @@ urlstr: bad-ice-cream
 title: "Bad Ice-Cream"
 description: "Bad Ice‑Cream est le premier épisode d’un jeu d’arcade/puzzle givré où tu crées ou détruis des murs de glace pour collecter tous les fruits du labyrinthe sans te faire toucher par les monstres."
 iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210128/x4/index.html"
-thumbnail: /new-images/bad-ice-cream.jpg
+thumbnail: /new-images/thumbnails/bad-ice-cream.jpg
 tags:
   - casual
   - puzzle

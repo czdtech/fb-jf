@@ -2,7 +2,7 @@
 title: "Fruit Slot Machine"
 description: "Fruit Slot Machineはクラシックな3リールです。責任を持ってスピンし、ペイラインを学び、過剰なベットをせずにフィーチャーを追いかけましょう。"
 iframeSrc: "https://7f8j0t3m1ptv8.h5games.usercontent.goog/v/33cv74na0lvqg/"
-thumbnail: "/new-images/fruit-slot-machine.jpg"
+thumbnail: /new-images/thumbnails/fruit-slot-machine.jpg
 urlstr: "fruit-slot-machine"
 score: "3.6/5  (1527 votes)"
 tags: ["casual"]

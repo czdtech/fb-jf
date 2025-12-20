@@ -4,7 +4,7 @@ urlstr: 3-tricky-quests
 title: "Brain Test 3: Tricky Quests"
 description: "Brain Test 3: Tricky Quests mélange énigmes tordues et aventure : explore avec Alyx, collecte des objets et résous des quêtes pour retrouver les Gemmes de Pouvoir et sauver son père." 
 iframeSrc: 'https://bitlifeonline.github.io/brain-test-3-tricky-quests/'
-thumbnail: /new-images/3-tricky-quests.jpg
+thumbnail: /new-images/thumbnails/3-tricky-quests.jpg
 tags:
   - casual
   - rhythm

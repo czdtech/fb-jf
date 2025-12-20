@@ -6,7 +6,7 @@ description: >-
   Elastic Man ist ein interaktives Spielzeug: Zieh, stupse und quetsche ein
   gummiges Gesicht und sieh zu, wie es mit weicher Physik zurückschnappt.
 iframeSrc: 'https://d21u3ic0kp9e91.cloudfront.net/elasticman/0/index.html'
-thumbnail: /new-images/elastic-man.jpg
+thumbnail: /new-images/thumbnails/elastic-man.jpg
 tags:
   - simulation
   - toy

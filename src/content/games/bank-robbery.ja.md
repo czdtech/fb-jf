@@ -2,7 +2,7 @@
 title: "Bank Robbery 銀行強盗：警官vs泥棒"
 description: "「Bank Robbery」で究極の強盗劇、または正義の執行を体験せよ！強盗チームと警察チームに分かれ、戦略とチームワークで勝利を掴むタクティカルFPSの完全ガイド。"
 iframeSrc: "https://app-183971.games.s3.yandex.net/183971/l0eme2yqkthl0y8stmfuz0u8pdpux64m/index.html"
-thumbnail: "/new-images/bank-robbery.jpg"
+thumbnail: /new-images/thumbnails/bank-robbery.jpg
 urlstr: "bank-robbery"
 score: "4.6/5  (2300 votes)"
 tags: ["action", "fps", "multiplayer"]

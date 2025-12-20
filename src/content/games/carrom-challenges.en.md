@@ -3,7 +3,7 @@ locale: en
 title: "Carrom Challenges"
 description: "Carrom Challenges brings cue‑sport finesse to carrom — aim strikes, control rebounds, and pocket with precision."
 iframeSrc: "https://6m4vq4nu17rto.h5games.usercontent.goog/v/1g4ai19abgj0g/"
-thumbnail: "/new-images/carrom-challenges.png"
+thumbnail: /new-images/thumbnails/carrom-challenges.png
 urlstr: "carrom-challenges"
 score: "4.1/5  (1979 votes)"
 tags: ["sports", "pool", "casual"]

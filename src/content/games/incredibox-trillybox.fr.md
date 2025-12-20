@@ -7,7 +7,7 @@ description: >-
   mitraillette, synthés sombres et voix autotunées pour créer tes propres
   bangers.
 iframeSrc: 'https://turbowarp.org/907049948/embed'
-thumbnail: /new-images/incredibox-trillybox.png
+thumbnail: /new-images/thumbnails/incredibox-trillybox.png
 tags:
   - music
   - hip-Hop

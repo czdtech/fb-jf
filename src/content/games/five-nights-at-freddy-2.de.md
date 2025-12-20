@@ -7,7 +7,7 @@ description: >-
   Animatronics im Blick, zieh rechtzeitig die Freddy-Maske auf und halte die
   Music Box für die Puppet stets aufgezogen.
 iframeSrc: 'https://ubg77.github.io/fix/fnaf2/'
-thumbnail: /new-images/five-nights-at-freddy-2.jpg
+thumbnail: /new-images/thumbnails/five-nights-at-freddy-2.jpg
 tags:
   - horror
   - strategy

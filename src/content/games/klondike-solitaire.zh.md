@@ -7,7 +7,7 @@ description: >-
   建立基础堆，并在牌阵中按红黑交替、点数递减的规则移动卡牌，可选择抽一张或三张模式。
 iframeSrc: >-
   https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-klondike-solitaire/
-thumbnail: /new-images/klondike-solitaire.jpg
+thumbnail: /new-images/thumbnails/klondike-solitaire.jpg
 tags:
   - solitaire
   - card

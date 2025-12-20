@@ -2,7 +2,7 @@
 title: Sprunki Phase 5 - Play Sprunki Phase 5 Online
 description: Sprunki Phase 5は、リズムベースの創造性と不気味で雰囲気のあるひねりを融合させたファン製音楽制作ゲームです。
 iframeSrc: 'https://sprunki-phase-5-ekz.pages.dev/'
-thumbnail: /sprunki-phase-5.png
+thumbnail: /new-images/thumbnails/sprunki-phase-5.png
 urlstr: sprunki-phase-5
 score: 4.0/5  (604 votes)
 tags:

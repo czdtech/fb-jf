@@ -6,7 +6,7 @@ description: >-
   Secret Agent es una aventura de sigilo y acción: escabúllete entre guardias,
   desactiva trampas y completa objetivos usando gadgets y una sincronización precisa.
 iframeSrc: "https://087cce7dimlq8.h5games.usercontent.goog/v/6na8sphqpnhlo/"
-thumbnail: "/new-images/secret-agent.png"
+thumbnail: /new-images/thumbnails/secret-agent.png
 tags:
   - action
   - puzzle

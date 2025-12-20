@@ -7,7 +7,7 @@ description: >-
   controlas a un muñeco a través de niveles llenos de obstáculos, moviendo sus
   extremidades y su cuerpo de forma precisa para llegar a la meta.
 iframeSrc: "https://classroomjq.github.io/puppet-master/"
-thumbnail: "/new-images/puppet-master.jpg"
+thumbnail: /new-images/thumbnails/puppet-master.jpg
 tags:
   - puzzle
   - physics

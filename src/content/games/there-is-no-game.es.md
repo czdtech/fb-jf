@@ -8,7 +8,7 @@ description: >-
   convencionales haciendo clic y arrastrando elementos. Este juego, divertido y
   desconcertante, pone a prueba tu idea de lo que puede ser un videojuego.
 iframeSrc: 'https://webglmath.github.io/there-is-no-game/'
-thumbnail: /new-images/there-is-no-game.jpg
+thumbnail: /new-images/thumbnails/there-is-no-game.jpg
 tags:
   - puzzle
   - adventure

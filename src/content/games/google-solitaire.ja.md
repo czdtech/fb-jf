@@ -2,7 +2,7 @@
 title: "Google Solitaire"
 description: "クラシックなクロンダイクソリティア：交互の色の場札を使って、エースからキングまでスートごとにカードを組札に移動させましょう。"
 iframeSrc: "https://www.google.com/logos/fnbx/solitaire/standalone.html"
-thumbnail: "/new-images/google-solitaire.jpg"
+thumbnail: /new-images/thumbnails/google-solitaire.jpg
 urlstr: "google-solitaire"
 score: "4.0/5  (1294 votes)"
 tags: ["solitaire", "card"]

@@ -2,7 +2,7 @@
 title: "Bricks Breaker Crush ブリックス・ブレイカー・クラッシュ"
 description: "「Bricks Breaker Crush」は大量のボールを降らせてブロックを削る爽快パズル。角度を計算し、ボールを増やし、壁が底につく前に粉砕しよう。"
 iframeSrc: "https://7uvo1rchfrhr8.h5games.usercontent.goog/v/4tk6unop5lefg/"
-thumbnail: "/new-images/bricks-breaker-crush.png"
+thumbnail: /new-images/thumbnails/bricks-breaker-crush.png
 urlstr: "bricks-breaker-crush"
 score: "4.0/5  (1906 votes)"
 tags: ["puzzle", "thinky", "casual"]

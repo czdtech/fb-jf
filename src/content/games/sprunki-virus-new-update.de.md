@@ -4,7 +4,7 @@ urlstr: sprunki-virus-new-update
 title: "Sprunki Virus New Update"
 description: "Sprunki Virus schickt dich in eine von einem Virus befallene Sprunki-Welt: mit Glitch-Grafik, düsteren Loops und einem Gameplay, das ständig mit deinen Erwartungen spielt." 
 iframeSrc: 'https://turbowarp.org/1104064786/embed'
-thumbnail: /sprunki-virus-new-update.png
+thumbnail: /new-images/thumbnails/sprunki-virus-new-update.png
 tags:
   - sprunki virus new update
 score: 4.0/5  (407 votes)

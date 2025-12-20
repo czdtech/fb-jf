@@ -2,7 +2,7 @@
 title: Tower Mania
 description: Tower Maniaは、タワー建設ゲームです。ブロックを積み上げてできるだけ高い塔を作りましょう。
 iframeSrc: 'https://ubg98.github.io/TowerMania/'
-thumbnail: /new-images/tower-mania.jpg
+thumbnail: /new-images/thumbnails/tower-mania.png
 urlstr: tower-mania
 score: 4.4/5  (2765 votes)
 tags:

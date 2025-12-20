@@ -6,7 +6,7 @@ description: >-
   《Carrom Clash 卡罗姆对决》把经典桌游 Carrom 搬到屏幕上，你需要用 Striker 弹射己方棋子入袋，抢先清空棋子并 成功“盖住”红色
   Queen。
 iframeSrc: 'https://carromclash.h5games.usercontent.goog/v/4pmfd00515bbg/'
-thumbnail: /new-images/carrom-clash.png
+thumbnail: /new-images/thumbnails/carrom-clash.png
 tags:
   - sports
   - puzzle

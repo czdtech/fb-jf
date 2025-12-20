@@ -4,7 +4,7 @@ urlstr: cuphead
 title: Cuphead
 description: "Cuphead est un run & gun ultra exigeant inspiré des dessins animés des années 30\_: esquive, tire et apprends les patterns de boss spectaculaires."
 iframeSrc: 'https://tiwb.github.io/cuphead/'
-thumbnail: /new-images/cuphead.jpg
+thumbnail: /new-images/thumbnails/cuphead.jpg
 tags:
   - action
   - casual

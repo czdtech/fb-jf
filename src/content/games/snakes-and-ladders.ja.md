@@ -3,7 +3,7 @@
 title: "Snakes And Ladders"
 description: "Snakes and Laddersはクラシックなボードゲームです。サイコロを振って進み、はしごで進み、ヘビで戻されながら最終マスを目指します。"
 iframeSrc: "https://cdn.gamesnacks.com/snakesandladders/gameCode/index.html"
-thumbnail: "/new-images/snakes-and-ladders.jpg"
+thumbnail: /new-images/thumbnails/snakes-and-ladders.jpg
 urlstr: "snakes-and-ladders"
 score: "4.2/5  (1342 votes)"
 tags: ["board-game", "classic", "multiplayer"]

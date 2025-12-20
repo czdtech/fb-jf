@@ -7,7 +7,7 @@ description: >-
   klassischer Bubble-Shooter, in dem du drei oder mehr gleichfarbige Blasen
   kombinierst, um das Feld zu räumen und den Schatz zu erbeuten.
 iframeSrc: 'https://piratepop.h5games.usercontent.goog/v/3japc2shd35ug/'
-thumbnail: /new-images/pirate-pop.png
+thumbnail: /new-images/thumbnails/pirate-pop.png
 tags:
   - shooting
   - puzzle

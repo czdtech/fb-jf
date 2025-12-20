@@ -2,7 +2,7 @@
 title: "Bloons TD 6 ブルーンズTD 6"
 description: "シリーズ最新作「Bloons TD 6」で3Dタワーディフェンスの頂点を体験せよ。ヒーローユニット、3つのアップグレードパス、そして最強の「パラゴン」。戦略は無限大へ。"
 iframeSrc: "https://bloonstd6.h5games.usercontent.goog/v/9b83b167-93e1-482a-874f-c4e9702209d8/"
-thumbnail: "/new-images/bloons-td-6.jpg"
+thumbnail: /new-images/thumbnails/bloons-td-6.jpg
 urlstr: "bloons-td-6"
 score: "4.8/5  (7380 votes)"
 tags: ["casual", "strategy"]

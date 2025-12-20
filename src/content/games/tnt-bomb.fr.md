@@ -6,7 +6,7 @@ description: >-
   TNT Bomb est un puzzle de démolition stratégique : place tes explosifs limités
   pour détruire complètement les structures de chaque niveau.
 iframeSrc: 'https://tntbomb.h5games.usercontent.goog/v/78fb3628-2b9a-4ddc-86ef-7c46021357a2/'
-thumbnail: /new-images/tnt-bomb.jpg
+thumbnail: /new-images/thumbnails/tnt-bomb.jpg
 tags:
   - puzzle
   - action

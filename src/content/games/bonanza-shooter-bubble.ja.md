@@ -2,7 +2,7 @@
 title: "Bonanza Shooter Bubble ボナンザ・シューター・バブル"
 description: "「Bonanza Shooter Bubble」はカラフルな王道バブルシューティング。壁反射を使い、色を管理し、大量のバブルを一度に落として高得点を狙おう。"
 iframeSrc: "https://65bijcm9l375g.h5games.usercontent.goog/v/6v521t1km2i30/"
-thumbnail: "/new-images/bonanza-shooter-bubble.jpg"
+thumbnail: /new-images/thumbnails/bonanza-shooter-bubble.jpg
 urlstr: "bonanza-shooter-bubble"
 score: "4.1/5  (1937 votes)"
 tags: ["puzzle", "casual"]

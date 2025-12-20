@@ -7,7 +7,7 @@ description: >-
   mantenimiento, vigila a los animatrónicos Funtime y sobrevive a secuencias
   guionizadas cada noche.
 iframeSrc: 'https://ubg77.github.io/fix/fnaf2/fnafsl.html'
-thumbnail: /new-images/five-nights-at-freddy-sl.jpg
+thumbnail: /new-images/thumbnails/five-nights-at-freddy-sl.jpg
 tags:
   - horror
   - adventure

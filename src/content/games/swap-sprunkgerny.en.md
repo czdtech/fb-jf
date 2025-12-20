@@ -7,7 +7,7 @@ description: >-
   are the conductor of this orchestra, using your fingers to make them play
   unique music!
 iframeSrc: 'https://turbowarp.org/1141050651/embed'
-thumbnail: /swap-sprunkgerny.png
+thumbnail: /new-images/thumbnails/swap-sprunkgerny.png
 urlstr: swap-sprunkgerny
 score: 4.9/5  (724 votes)
 tags:

@@ -5,7 +5,7 @@ title: "《Merge Fruit》合成水果大作战"
 description: >-
   《Merge Fruit》是一款下落+合成机制结合的水果益智游戏，你需要在容器中巧妙堆叠并合成相同水果，既要追求高倍进化，又要避免水果堆到顶端溢出。
 iframeSrc: 'https://3eltb7i874s60.h5games.usercontent.goog/v/28f34ighqoh10/'
-thumbnail: /new-images/merge-fruit.png
+thumbnail: /new-images/thumbnails/merge-fruit.png
 tags:
   - puzzle
   - thinky

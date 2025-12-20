@@ -7,7 +7,7 @@ description: >-
   temple perilleux, collecte des pieces et bonus en evitant les obstacles et
   les singes demons.
 iframeSrc: 'https://sxiao.4399.com/4399swf//upload_swf/ftp35/gamehwq/20210119/11/index.html'
-thumbnail: /new-images/temple-run-2.jpg
+thumbnail: /new-images/thumbnails/temple-run-2.jpg
 tags:
   - endless runner
   - adventure

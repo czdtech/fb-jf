@@ -6,7 +6,7 @@ description: >-
   《Bricks Breaker Crush》是一款带“弹道射击”玩法的打砖块游戏，发射一串小球反弹击碎数字砖块，利用角度与反弹
   路线尽量在砖块到达底线前清场。
 iframeSrc: 'https://bricksbreakercrush.h5games.usercontent.goog/v/60l6g3505ev78/'
-thumbnail: /new-images/bricks-breaker-crush.jpg
+thumbnail: /new-images/thumbnails/bricks-breaker-crush.png
 tags:
   - puzzle
   - casual

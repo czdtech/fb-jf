@@ -6,7 +6,7 @@ description: >-
   Emoji With Friends es un party‑puzzle ligero: empareja, deduce y compite con
   tus amigos usando la lógica de los emojis.
 iframeSrc: 'https://2gtc787tjm7c8.h5games.usercontent.goog/v/5lfna7ldlrun8/'
-thumbnail: /new-images/emoji-with-friends.png
+thumbnail: /new-images/thumbnails/emoji-with-friends.png
 tags:
   - puzzle
   - casual

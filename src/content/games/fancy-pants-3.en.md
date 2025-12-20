@@ -4,7 +4,7 @@ locale: en
 title: "Fancy Pants 3"
 description: "Momentum platforming returns with bigger stages, more secrets, and refined wall‑runs and slides in hand‑drawn worlds."
 iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210305/jj10/index.html"
-thumbnail: "/new-images/fancy-pants-3.jpg"
+thumbnail: /new-images/thumbnails/fancy-pants-3.jpg
 urlstr: "fancy-pants-3"
 score: "4.3/5  (1419 votes)"
 tags: ["platformer", "action"]

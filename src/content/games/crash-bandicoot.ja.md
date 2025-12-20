@@ -2,7 +2,7 @@
 title: Crash Bandicoot クラッシュ・バンディクー
 description: あの「クラッシュ・バンディクー」のファンメイド・ブラウザ版。走って、飛んで、スピンして、おなじみの木箱やリンゴを集めながらゴールを目指せ。
 iframeSrc: 'https://ad-freegames.github.io/flash/game/crash-bandicoot.html'
-thumbnail: /new-images/crash-bandicoot.jpg
+thumbnail: /new-images/thumbnails/crash-bandicoot.jpg
 urlstr: crash-bandicoot
 score: 4.8/5  (820 votes)
 tags:

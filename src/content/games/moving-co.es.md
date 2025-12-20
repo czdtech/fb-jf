@@ -7,7 +7,7 @@ description: >-
   transporta los objetos con cuidado y vence al reloj con una logística
   ordenada.
 iframeSrc: 'https://movingco.h5games.usercontent.goog/v/3crgi5efdnml0/'
-thumbnail: /new-images/moving-co.png
+thumbnail: /new-images/thumbnails/moving-co.png
 tags:
   - casual
   - thinky

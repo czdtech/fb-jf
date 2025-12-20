@@ -4,7 +4,7 @@ urlstr: "mahjong-titans"
 title: "Mahjong Titans"
 description: "Solitaire à base de tuiles : élimine des paires de tuiles identiques dans des piles en couches jusqu’à ce que le plateau soit vide, en planifiant autour des blocages."
 iframeSrc: "https://ad-freegames.github.io/flash/game/mahjong-titans.html"
-thumbnail: "/new-images/mahjong-titans.jpg"
+thumbnail: /new-images/thumbnails/mahjong-titans.jpg
 tags: ["puzzle", "mahjong"]
 score: "4.0/5  (628 votes)"
 developer: ""

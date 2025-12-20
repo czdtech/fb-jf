@@ -6,7 +6,7 @@ description: >-
   Dices 2048 3D fusiona 2048 con físicas de dados: haz chocar dados del mismo
   valor para fusionarlos y alcanzar 2048 (y más allá) en tres dimensiones.
 iframeSrc: 'https://dices20483d.h5games.usercontent.goog/v/4fsrag1lb33t8/'
-thumbnail: /new-images/dices-2048-3d.png
+thumbnail: /new-images/thumbnails/dices-2048-3d.png
 tags:
   - puzzle
   - thinky

@@ -6,7 +6,7 @@ description: >-
   Fiddlebops Polos는 다양한 캐릭터와 사운드를 조합해 음악을 만드는 온라인 음악 크리에이션 게임입니다. 드래그 앤 드롭으로 루프를
   쌓고 이야기를 만들어 보세요.
 iframeSrc: 'https://turbowarp.org/1149630445/embed'
-thumbnail: /fiddlebops-polos.png
+thumbnail: /new-images/thumbnails/fiddlebops-polos.png
 tags:
   - fiddlebops polos
 score: 4.6/5  (217 votes)

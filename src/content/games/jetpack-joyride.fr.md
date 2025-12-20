@@ -4,7 +4,7 @@ urlstr: jetpack-joyride
 title: "Jetpack Joyride"
 description: "Runner horizontal survitaminé : évite zappeurs et missiles, récupère véhicules et pièces, et complète des missions pour débloquer gadgets et améliorations."
 iframeSrc: "https://slope-game.github.io/rungame/jetpack-joyride/"
-thumbnail: /new-images/jetpack-joyride.jpg
+thumbnail: /new-images/thumbnails/jetpack-joyride.jpg
 tags:
   - runner
   - arcade

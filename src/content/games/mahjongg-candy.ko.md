@@ -6,7 +6,7 @@ description: >-
   Mahjongg Candy는 달콤한 사탕 타일을 짝지어 보드를 비우는 타일 매칭 퍼즐로, 색감
   가득한 마작 솔리테어 변주를 즐기며 두뇌를 자극할 수 있는 게임입니다.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-candy-mahjongg/'
-thumbnail: /new-images/mahjongg-candy.jpg
+thumbnail: /new-images/thumbnails/mahjongg-candy.jpg
 tags:
   - puzzle
   - tile-matching

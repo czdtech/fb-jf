@@ -2,7 +2,7 @@
 title: "Ludo Kart"
 description: "Ludo Kartはサクサクとしたダイス＆レースボードゲームです。ダイスを振り、トークンを移動し、最初にホームに到達します。"
 iframeSrc: "https://35q41h2gp6dd8.h5games.usercontent.goog/v/6q7tggnmscsj8/"
-thumbnail: "/new-images/ludo-kart.png"
+thumbnail: /new-images/thumbnails/ludo-kart.png
 urlstr: "ludo-kart"
 score: "3.8/5  (1542 votes)"
 tags: ["casual", "thinky", "2 player"]

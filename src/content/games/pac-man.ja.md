@@ -2,7 +2,7 @@
 title: Pac-Man
 description: クラシックなPac-Manをプレイします。ドットを食べて迷路を進み、ゴーストを避けながら次の面を目指します。
 iframeSrc: 'https://pacman.h5games.usercontent.goog/v/6k9j2m8h7p4n8/'
-thumbnail: /new-images/pac-man.png
+thumbnail: /new-images/thumbnails/pac-man.jpg
 urlstr: pac-man
 score: 4.7/5  (5678 votes)
 tags:

@@ -4,7 +4,7 @@ urlstr: lollipop-world-match-3
 title: '《Lollipop World : match 3》棒棒糖消消乐'
 description: '《Lollipop World : match 3》是一款糖果主题三消游戏，你要组合道具、打碎障碍物，在紧张的步数限制下完成场景目标。'
 iframeSrc: 'https://4oij9suhguc58.h5games.usercontent.goog/v/1osssadggdrao/'
-thumbnail: /new-images/lollipop-world-match-3.jpg
+thumbnail: /new-images/thumbnails/lollipop-world-match-3.jpg
 tags:
   - puzzle
   - casual

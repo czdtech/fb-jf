@@ -6,7 +6,7 @@ description: >-
   Carrom Challenges bringt Queue-Sport-Feeling auf das Carrom-Brett – ziele
   präzise, kontrolliere Abpraller und loch deine Steine mit Feingefühl.
 iframeSrc: 'https://6m4vq4nu17rto.h5games.usercontent.goog/v/1g4ai19abgj0g/'
-thumbnail: /new-images/carrom-challenges.png
+thumbnail: /new-images/thumbnails/carrom-challenges.png
 tags:
   - sports
   - pool

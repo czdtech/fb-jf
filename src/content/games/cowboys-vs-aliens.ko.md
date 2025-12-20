@@ -7,7 +7,7 @@ description: >-
   조작법을 정리해 외계 침략자로부터 황야를 지켜 보세요.
 iframeSrc: >-
   https://app-183000.games.s3.yandex.net/183000/ej1ob1cdiuv0fq3vw88l1k7pakdngmk7/index.html
-thumbnail: /new-images/cowboys-vs-aliens.jpg
+thumbnail: /new-images/thumbnails/cowboys-vs-aliens.jpg
 tags:
   - action
   - shooting

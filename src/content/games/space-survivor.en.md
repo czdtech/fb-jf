@@ -3,7 +3,7 @@ locale: en
 title: "Space Survivor"
 description: "Pilot your ship through endless waves of alien enemies in this thrilling roguelike survival game. Collect XP, choose powerful upgrades, and see how long you can survive the onslaught!"
 iframeSrc: "https://76sb7kgqtg5kg.h5games.usercontent.goog/v/5s72d5756n840/"
-thumbnail: "/new-images/space-survivor.png"
+thumbnail: /new-images/thumbnails/space-survivor.png
 urlstr: "space-survivor"
 score: "4.5/5  (2900 votes)"
 tags: ["action", "shooting", "casual"]

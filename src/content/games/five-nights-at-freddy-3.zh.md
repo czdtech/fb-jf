@@ -6,7 +6,7 @@ description: >-
   系統管理向的恐怖生存：用廣播聲引誘 Springtrap、透過監視器與通風口追蹤，
   適時重啟故障系統，撐過每一個夜班。
 iframeSrc: 'https://ubg77.github.io/fix/fnaf2/fnaf3.html'
-thumbnail: /new-images/five-nights-at-freddy-3.jpg
+thumbnail: /new-images/thumbnails/five-nights-at-freddy-3.jpg
 tags:
   - horror
   - strategy

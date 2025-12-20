@@ -2,7 +2,7 @@
 title: "Diamond Rush ダイヤモンド・ラッシュ"
 description: "「Diamond Rush」で煌めくパズル体験を。ダイヤモンドを入れ替えてマッチさせ、ハイスコアを目指す爽快マッチ3パズル。"
 iframeSrc: "https://diamondrush.h5games.usercontent.goog/v/63ok750qri670/"
-thumbnail: "/new-images/diamond-rush.png"
+thumbnail: /new-images/thumbnails/diamond-rush.png
 urlstr: "diamond-rush"
 score: "4.3/5  (2010 votes)"
 tags: ["puzzle", "casual", "action"]

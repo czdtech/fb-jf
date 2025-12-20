@@ -7,7 +7,7 @@ description: >-
   numérotées pour fusionner les valeurs et gère tes colonnes pour déclencher
   de gros enchaînements.
 iframeSrc: 'https://041gj41756cjg.h5games.usercontent.goog/v/7n148hti57veo/'
-thumbnail: /new-images/solitaire-2048.png
+thumbnail: /new-images/thumbnails/solitaire-2048.png
 tags:
   - card
   - puzzle

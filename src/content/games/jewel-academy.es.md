@@ -7,7 +7,7 @@ description: >-
   gemas de colores, crea joyas especiales y resuelve cientos de niveles con
   objetivos únicos.
 iframeSrc: 'https://jewelacademy.h5games.usercontent.goog/v/2krc7uv2m9998/'
-thumbnail: /new-images/jewel-academy.png
+thumbnail: /new-images/thumbnails/jewel-academy.png
 tags:
   - puzzle
   - casual

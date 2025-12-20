@@ -3,7 +3,7 @@ locale: en
 title: "Golf Adventures"
 description: "Go on a Golf Adventure! A physics-based puzzle game where you aim your ball to get it in the hole, navigating tricky obstacles and imaginative courses in as few strokes as possible."
 iframeSrc: "https://golfadventures.h5games.usercontent.goog/v/2er1vod6k6p0o/"
-thumbnail: "/new-images/golf-adventures.png"
+thumbnail: /new-images/thumbnails/golf-adventures.png
 urlstr: "golf-adventures"
 score: "4.2/5  (1950 votes)"
 tags: ["sports", "puzzle", "casual"]

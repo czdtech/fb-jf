@@ -4,7 +4,7 @@ urlstr: jump-with-justin-2
 title: "《Jump With Justin 2》贾斯汀的弹跳冒险 2"
 description: "《Jump With Justin 2》是一款强调弹跳手感的平台跳跃游戏，你要踩准起跳时机、利用弹簧和机关连锁弹跳，在尽量少失误的前提下抵达终点。"
 iframeSrc: 'https://jumpwithjustin2.h5games.usercontent.goog/v/54vavt12q94n8/'
-thumbnail: /new-images/jump-with-justin-2.png
+thumbnail: /new-images/thumbnails/jump-with-justin-2.png
 tags:
   - action
   - casual

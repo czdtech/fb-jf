@@ -6,7 +6,7 @@ description: >-
   Duck Life 是系列的初代作品，你要透過迷你遊戲訓練小鴨的跑步、游泳與飛行能力，
   提升數值後參加比賽，一路解鎖新地區。
 iframeSrc: 'https://games.wixgames.co.uk/games/ducklife1/webgl/'
-thumbnail: /new-images/duck-life.jpg
+thumbnail: /new-images/thumbnails/duck-life.jpg
 tags:
   - racing
   - simulation

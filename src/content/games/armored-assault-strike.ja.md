@@ -2,7 +2,7 @@
 title: "Armored Assault Strike アーマード・アサルト・ストライク"
 description: "「Armored Assault Strike」で戦場を支配せよ。戦車や戦闘車両を操り、激しい銃撃戦と戦略的な位置取りで敵を殲滅するアクション・シューティング。"
 iframeSrc: "https://armored-assault-strike.h5games.usercontent.goog/v/1quekndr8ig0o/" 
-thumbnail: "/new-images/armored-assault-strike.png"
+thumbnail: /new-images/thumbnails/armored-assault-strike.png
 urlstr: "armored-assault-strike"
 score: "4.0/5  (1500 votes)"
 tags: ["action", "shooter", "tank"]

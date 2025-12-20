@@ -7,7 +7,7 @@ description: >-
   durch die Stadt, verschlinge alles von Autos bis Gebäuden und friss kleinere
   Spieler, um zum größten Schleimklumpen der Runde zu werden.
 iframeSrc: 'https://slime-io.h5games.usercontent.goog/v/3p2ufrjemduhg/'
-thumbnail: /new-images/slime-io.png
+thumbnail: /new-images/thumbnails/slime-io.png
 tags:
   - action
   - casual

@@ -5,7 +5,7 @@ description: >-
   Solitaire」は世界中で最も有名なカードゲーム。クロンダイクのルールで、カードを並べ替え、エースからキングまで揃えよう。シンプルで奥深いパズル。
 iframeSrc: >-
   https://g2.igroutka.ru/games/23/O3r2L5v4aFtsM491/rvvASMiM/5e758782fe2843ef92d53c7c4b69352e/
-thumbnail: /new-images/classic-solitaire.jpg
+thumbnail: /new-images/thumbnails/classic-solitaire.png
 urlstr: classic-solitaire
 score: 4.7/5  (8120 votes)
 tags:

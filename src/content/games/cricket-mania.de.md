@@ -6,7 +6,7 @@ description: >-
   Cricket Mania ist ein schnelles Cricket-Schlagspiel – wähle deine Schläge,
   timinge den Schwung und jage Zielvorgaben Over für Over.
 iframeSrc: 'https://73lnk17f84iog.h5games.usercontent.goog/v/1p7sdm5buflt0/'
-thumbnail: /new-images/cricket-mania.png
+thumbnail: /new-images/thumbnails/cricket-mania.png
 tags:
   - sports
   - casual

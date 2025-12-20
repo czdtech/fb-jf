@@ -2,7 +2,7 @@
 title: Tiles of Egypt
 description: Tiles of Egyptは、古代エジプトをテーマにしたタイルマッチングゲームです。エジプトのタイルを揃えて謎を解きましょう。
 iframeSrc: 'https://ubg98.github.io/TilesOfEgypt/'
-thumbnail: /new-images/tiles-of-egypt.jpg
+thumbnail: /new-images/thumbnails/tiles-of-egypt.jpg
 urlstr: tiles-of-egypt
 score: 4.4/5  (2456 votes)
 tags:

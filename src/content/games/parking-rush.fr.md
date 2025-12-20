@@ -4,7 +4,7 @@ urlstr: parking-rush
 title: Parking Rush
 description: "Parking Rush est un jeu de puzzle de circulation amusant et exigeant\_: dessine un trajet pour chaque voiture jusqu'à sa place de parking de même couleur sans provoquer de collision."
 iframeSrc: 'https://7nq79vktk8fho.h5games.usercontent.goog/v/4u3a6m3hm9lj8/'
-thumbnail: /new-images/parking-rush.png
+thumbnail: /new-images/thumbnails/parking-rush.png
 tags:
   - puzzle
   - driving

@@ -8,7 +8,7 @@ description: >-
   Líderes de Gimnasio y frenas los planes del Team Rocket para convertirte en
   Campeón de la Liga Pokémon.
 iframeSrc: "https://picklekid31.github.io/GBA-unblocked-games/launcher.html#pokemonred"
-thumbnail: "/new-images/pokemon-fire-red.jpg"
+thumbnail: /new-images/thumbnails/pokemon-fire-red.jpg
 tags:
   - rpg
   - adventure

@@ -6,7 +6,7 @@ description: >-
   Mahjong Match Puzzle는 마작 솔리테어와 커넥트 방식의 요소를 섞은 퍼즐로, 열린 타일을
   짝지어 층층이 쌓인 보드를 효율적으로 비우는 것이 목표입니다.
 iframeSrc: 'https://5jdtfmidv5ao0.h5games.usercontent.goog/v/1qd7nn7jmar7g/'
-thumbnail: /new-images/mahjong-match-puzzle.png
+thumbnail: /new-images/thumbnails/mahjong-match-puzzle.png
 tags:
   - mahjong
   - puzzle

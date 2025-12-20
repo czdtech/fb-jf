@@ -7,7 +7,7 @@ description: >-
   eine Route zu seinem farblich passenden Parkplatz – aber achte darauf, dass
   sie unterwegs nicht zusammenstoßen.
 iframeSrc: 'https://7nq79vktk8fho.h5games.usercontent.goog/v/4u3a6m3hm9lj8/'
-thumbnail: /new-images/parking-rush.png
+thumbnail: /new-images/thumbnails/parking-rush.png
 tags:
   - puzzle
   - driving

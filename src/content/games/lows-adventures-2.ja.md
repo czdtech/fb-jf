@@ -2,7 +2,7 @@
 title: "Low's Adventures 2"
 description: "レトロプラットフォーマー続編：コンパクトなステージを走ってジャンプし、キーと秘密を見つけ、タイムチャレンジを打ち負かします。"
 iframeSrc: "https://previews.customer.envatousercontent.com/files/489323722/index.html"
-thumbnail: "/new-images/lows-adventures-2.jpg"
+thumbnail: /new-images/thumbnails/lows-adventures-2.jpg
 urlstr: "lows-adventures-2"
 score: "3.6/5  (671 votes)"
 tags: ["platformer", "adventure"]

@@ -6,7 +6,7 @@ description: >-
   在《Dandyrunki Retake》混音版中，你可以零门槛上手，自由组合节奏与旋律。无论是轻度玩
   家还是音乐爱好者，都能在这款 Remix 中找到属于自己的创作乐趣。
 iframeSrc: 'https://turbowarp.org/1126924449/embed'
-thumbnail: /dandyrunki-retake.png
+thumbnail: /new-images/thumbnails/dandyrunki-retake.png
 tags:
   - dandyrunki retake
   - dandyrunki retake online

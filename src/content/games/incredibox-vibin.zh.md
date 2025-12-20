@@ -4,7 +4,7 @@ urlstr: incredibox-vibin
 title: "Incredibox Vibin - 在线玩 Incredibox Vibin"
 description: "探索 Incredibox Vibin，这款具有轻松 lo-fi 嘻哈主题的粉丝 Mod。本指南详细介绍了其柔和的音色调色板、创作放松节拍的玩法，以及如何解锁其舒适主题奖励。"
 iframeSrc: 'https://turbowarp.org/1050468579/embed'
-thumbnail: /new-images/incredibox-vibin.png
+thumbnail: /new-images/thumbnails/incredibox-vibin.png
 tags:
   - music
   - rhythm

@@ -6,7 +6,7 @@ description: >-
   Cards-21 destila la esencia del blackjack: pide carta o plántate, gestiona el
   riesgo y persigue el 21 sin pasarte.
 iframeSrc: 'https://11kvu79prlefg.h5games.usercontent.goog/v/67r78cf7q96c0/'
-thumbnail: /new-images/cards-21.png
+thumbnail: /new-images/thumbnails/cards-21.png
 tags:
   - card
   - casual

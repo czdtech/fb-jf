@@ -4,7 +4,7 @@ urlstr: checkers
 title: Checkers 西洋跳棋
 description: 《Checkers 西洋跳棋》是经典 8×8 棋盘跳棋游戏，两位玩家轮流沿斜线移动棋子，通过跳吃与升王争夺盘面优势。
 iframeSrc: 'https://checkers.h5games.usercontent.goog/v/0b0q83ht6qjqg/'
-thumbnail: /new-images/checkers.jpg
+thumbnail: /new-images/thumbnails/checkers.jpg
 tags:
   - board
   - puzzle

@@ -7,7 +7,7 @@ description: >-
   animales para formar líneas de tres o más y cumple los objetivos de cada
   nivel.
 iframeSrc: 'https://jewelpetsmatch.h5games.usercontent.goog/v/2kcabvevoilco/'
-thumbnail: /new-images/jewel-pets-match.png
+thumbnail: /new-images/thumbnails/jewel-pets-match.png
 tags:
   - puzzle
   - casual

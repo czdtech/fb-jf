@@ -5,7 +5,7 @@ title: "《Highway Traffic》高速公路狂飙"
 description: "《Highway Traffic》是一类高人气的街机驾驶游戏代称，你要在车流密集的高速公路上长时间高速行驶，一边穿梭变道躲避来往车辆，一边完成任务、赚取现金解锁和升级爱车。"
 iframeSrc: >-
   https://app-97317.games.s3.yandex.net/97317/zr27uqx4qauq31fg2ud41a7oye9c4dki/index.html
-thumbnail: /new-images/highway-traffic.jpg
+thumbnail: /new-images/thumbnails/highway-traffic.jpg
 tags:
   - driving
   - traffic

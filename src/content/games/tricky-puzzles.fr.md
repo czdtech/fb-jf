@@ -7,7 +7,7 @@ description: >-
   conventionnelle : resous des enigmes en tapant, glissant et meme en tournant
   ton appareil.
 iframeSrc: 'https://rebemanae.github.io/brain-test-tricky-puzzles/'
-thumbnail: /new-images/tricky-puzzles.jpg
+thumbnail: /new-images/thumbnails/tricky-puzzles.jpg
 tags:
   - puzzle
   - brain-teaser

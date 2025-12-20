@@ -2,7 +2,7 @@
 title: "Golf Adventures"
 description: "ゴルフの冒険に出かけよう！ボールを狙ってカップに入れる物理パズルゲーム。トリッキーな障害物や想像力豊かなコースを、できるだけ少ない打数で攻略しましょう。"
 iframeSrc: "https://golfadventures.h5games.usercontent.goog/v/2er1vod6k6p0o/"
-thumbnail: "/new-images/golf-adventures.png"
+thumbnail: /new-images/thumbnails/golf-adventures.png
 urlstr: "golf-adventures"
 score: "4.2/5  (1950 votes)"
 tags: ["sports", "puzzle", "casual"]

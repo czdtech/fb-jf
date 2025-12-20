@@ -2,7 +2,7 @@
 title: "Puzzle Pieces"
 description: "Puzzle Piecesはクラシックなジグソーパズルです。ピースを配置し、画像を完成させ、リラックスしたパズルを楽しみます。"
 iframeSrc: "https://puzzlepieces.h5games.usercontent.goog/v/5k9j2m8h7p3n8/"
-thumbnail: "/new-images/puzzle-pieces.png"
+thumbnail: /new-images/thumbnails/puzzle-pieces.png
 urlstr: "puzzle-pieces"
 score: "4.2/5  (2089 votes)"
 tags: ["puzzle", "casual"]

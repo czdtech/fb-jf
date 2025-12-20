@@ -7,7 +7,7 @@ description: >-
   通过“拍新闻”的互动体验，探讨媒体吸睛式报道如何放大仇恨与分裂，
   以及我们如何逐渐变成自己天天盯着看的那些东西。
 iframeSrc: 'https://html5.iclouds.io/we-become-behold/index.html'
-thumbnail: /new-images/we-become-what-we-behold.jpg
+thumbnail: /new-images/thumbnails/we-become-what-we-behold.jpg
 tags:
   - satire
   - social-commentary

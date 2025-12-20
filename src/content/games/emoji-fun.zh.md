@@ -6,7 +6,7 @@ description: >-
   Emoji Fun 是一款充滿創意的聯想解謎遊戲，你要透過畫線連結成對的表情符號，
   靠直覺與發散思維破解每一關。
 iframeSrc: 'https://0aijth0is3tko.h5games.usercontent.goog/v/1c1277hq9kr98/'
-thumbnail: /new-images/emoji-fun.png
+thumbnail: /new-images/thumbnails/emoji-fun.png
 tags:
   - puzzle
   - thinky

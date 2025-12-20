@@ -4,7 +4,7 @@ locale: en
 title: "Crazy Cars"
 description: "Crazy Cars is a casual 3D driving and stunt racing game: explore a city map, complete events, collect stars and wrenches, and perform jumps with nitro in your browser."
 iframeSrc: "https://g.igroutka.ru/games/164/2afwOT8yZFmeYWGJ/2/crazy_cars/"
-thumbnail: "/new-images/crazy-cars.jpg"
+thumbnail: /new-images/thumbnails/crazy-cars.jpg
 urlstr: "crazy-cars"
 score: "3.6/5  (197 votes)"
 tags: ["racing", "driving", "stunts"]

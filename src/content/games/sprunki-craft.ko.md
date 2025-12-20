@@ -6,7 +6,7 @@ description: >-
   Sprunki Craft는 Minecraft 세계와 Sprunki/Incredibox식 음악 만들기를 결합한 모드입니다. 스티브, 크리퍼
   같은 익숙한 마인크래프트 캐릭터들을 합창단으로 꾸려 나만의 리듬과 멜로디를 만드는 창의적인 음악 게임입니다.
 iframeSrc: 'https://www.minijuegos.com/embed/sprunki-craft'
-thumbnail: /sprunki-craft.jpg
+thumbnail: /new-images/thumbnails/sprunki-craft.jpg
 tags:
   - sprunki craft
   - sprunki craft online

@@ -6,7 +6,7 @@ description: >-
   Aloha Mahjong은 편안한 분위기에서 즐기는 마작 솔리테어 게임입니다. 같은
   패를 짝지어 층을 지우고, 섬 휴양지 느낌의 분위기를 만끽해 보세요.
 iframeSrc: 'https://02ef7fb7guapg.h5games.usercontent.goog/v/13knu9k9rm8go/'
-thumbnail: /new-images/aloha-mahjong.jpg
+thumbnail: /new-images/thumbnails/aloha-mahjong.jpg
 tags:
   - mahjong
   - puzzle

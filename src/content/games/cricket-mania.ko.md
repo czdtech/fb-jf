@@ -6,7 +6,7 @@ description: >-
   빠른 템포로 진행되는 크리켓 타격 게임 Cricket Mania입니다. 라인과 길이를
   읽고, 적절한 샷을 선택해 타이밍을 맞추며 오버마다 목표 스코어를 추격해 보세요.
 iframeSrc: 'https://73lnk17f84iog.h5games.usercontent.goog/v/1p7sdm5buflt0/'
-thumbnail: /new-images/cricket-mania.png
+thumbnail: /new-images/thumbnails/cricket-mania.png
 tags:
   - sports
   - casual

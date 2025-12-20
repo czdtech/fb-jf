@@ -7,7 +7,7 @@ description: >-
   Anime und kämpfe in 2D‑Plattformarenen darum, deine Gegner aus dem Bildschirm
   zu schleudern.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/super-smash-flash.html'
-thumbnail: /new-images/super-smash-flash.jpg
+thumbnail: /new-images/thumbnails/super-smash-flash.jpg
 tags:
   - fighting
   - platformer

@@ -2,7 +2,7 @@
 title: Timber Guy
 description: Timber Guyは、木こりのアーケードゲームです。タイミングよく木を切って高得点を目指しましょう。
 iframeSrc: 'https://ubg98.github.io/TimberGuy/'
-thumbnail: /new-images/timber-guy.jpg
+thumbnail: /new-images/thumbnails/timber-guy.png
 urlstr: timber-guy
 score: 4.3/5  (2543 votes)
 tags:

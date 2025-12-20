@@ -7,7 +7,7 @@ description: >-
   Medipacks, bleib in der kleiner werdenden Safezone und sei der letzte
   Überlebende, um den Sieg zu holen.
 iframeSrc: 'https://pocketbattleroyale.h5games.usercontent.goog/v/1n9qfv4cpdie8/'
-thumbnail: /new-images/pocket-battle-royale.png
+thumbnail: /new-images/thumbnails/pocket-battle-royale.png
 tags:
   - action
   - shooting

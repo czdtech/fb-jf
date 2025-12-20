@@ -3,7 +3,7 @@ locale: en
 title: "Metal Guns Fury"
 description: "Metal Guns Fury is a run‑and‑gun arcade — dodge bullets, manage weapons, and blast through waves with crisp movement."
 iframeSrc: "https://2fr3rldr11rpg.h5games.usercontent.goog/v/2pn2tgakfpecg/"
-thumbnail: "/new-images/metal-guns-fury.jpg"
+thumbnail: /new-images/thumbnails/metal-guns-fury.jpg
 urlstr: "metal-guns-fury"
 score: "4.1/5  (2012 votes)"
 tags: ["action", "shooting"]

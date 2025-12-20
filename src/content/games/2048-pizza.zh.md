@@ -6,7 +6,7 @@ description: >-
   《2048 Pizza（2048 披萨）》用一整块披萨和丰富配料，把经典 2048
   的数字合成玩法包装成更可口的休闲益智体验，在滑块与连锁合并之间越玩越上瘾。
 iframeSrc: 'https://14qikp6hbljig.h5games.usercontent.goog/v/4htrmkq5b0b78/'
-thumbnail: /new-images/2048-pizza.png
+thumbnail: /new-images/thumbnails/2048-pizza.png
 tags:
   - puzzle
   - thinky

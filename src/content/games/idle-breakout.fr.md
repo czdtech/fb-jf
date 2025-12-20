@@ -4,7 +4,7 @@ urlstr: idle-breakout
 title: "Idle Breakout"
 description: "Hybrid entre idle et casse‑briques : clique pour briser les blocs, achète des balles et tourelles autonomes, utilise le prestige pour des multiplicateurs et optimise tes améliorations."
 iframeSrc: "https://ubg98.github.io/IdleBreakout/"
-thumbnail: /new-images/idle-breakout.jpg
+thumbnail: /new-images/thumbnails/idle-breakout.jpg
 tags:
   - idle
   - clicker

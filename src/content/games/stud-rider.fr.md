@@ -4,7 +4,7 @@ urlstr: stud-rider
 title: Stud Rider
 description: "Stud Rider est un jeu de moto «\_hill‑runner\_»\_: gère ton élan, atterris bien à plat et enchaîne les sauts sur des terrains accidentés."
 iframeSrc: 'https://0mm8l94jf1g88.h5games.usercontent.goog/v/6fo3rapem7uio/'
-thumbnail: /new-images/stud-rider.png
+thumbnail: /new-images/thumbnails/stud-rider.png
 tags:
   - bike
   - driving

@@ -8,7 +8,7 @@ description: >-
   correcta antes de que se acabe el tiempo y demuestra tu vocabulario y rapidez
   mental.
 iframeSrc: "https://ams.cdn.arkadiumhosted.com/assets/global/game/word-scramble/"
-thumbnail: "/new-images/word-scramble.jpg"
+thumbnail: /new-images/thumbnails/word-scramble.jpg
 tags:
   - word-game
   - puzzle

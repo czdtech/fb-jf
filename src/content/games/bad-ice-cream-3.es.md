@@ -8,7 +8,7 @@ description: >-
   laberintos cada vez más complicados.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210128/x5/index.html
-thumbnail: /new-images/bad-ice-cream-3.jpg
+thumbnail: /new-images/thumbnails/bad-ice-cream-3.jpg
 tags:
   - puzzle
   - casual

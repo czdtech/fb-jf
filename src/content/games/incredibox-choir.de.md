@@ -7,7 +7,7 @@ description: >-
   mehrstimmige Vocals, gregorianisch angehauchte Melodien und klassische
   Harmonien zu deinem eigenen Chorstück.
 iframeSrc: 'https://turbowarp.org/1034584392/embed'
-thumbnail: /new-images/incredibox-choir.png
+thumbnail: /new-images/thumbnails/incredibox-choir.png
 tags:
   - music
   - vocal

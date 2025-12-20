@@ -2,7 +2,7 @@
 title: Cat Mario キャットマリオ（しょぼんのアクション）
 description: 別名「しょぼんのアクション」。「マリオ」のような見た目でプレイヤーを絶望させる、史上最も理不尽で有名なトラップアクションゲーム。
 iframeSrc: 'https://cat-mario.github.io/'
-thumbnail: /new-images/cat-mario.jpg
+thumbnail: /new-images/thumbnails/cat-mario.jpg
 urlstr: cat-mario
 score: 4.8/5  (5120 votes)
 tags:

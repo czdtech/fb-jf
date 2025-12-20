@@ -7,7 +7,7 @@ description: >-
   Denksport-Spiel. Plane deine Züge, kontrolliere das Brett und setze den König
   deines Gegners matt, um diesen zeitlosen Klassiker zu gewinnen.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/chess/'
-thumbnail: /new-images/chess.jpg
+thumbnail: /new-images/thumbnails/chess.jpg
 tags:
   - strategy
   - puzzle

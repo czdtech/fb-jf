@@ -6,7 +6,7 @@ description: >-
   3D 드리프트 레이싱 게임 Drift Hunters입니다. 차량을 튜닝하고 연속 드리프트로 점수를 벌어, 더 강력한 차와 새로운 트랙을
   해금해 보세요.
 iframeSrc: 'https://webglmath.github.io/drift-hunters/'
-thumbnail: /new-images/drift-hunters.jpg
+thumbnail: /new-images/thumbnails/drift-hunters.jpg
 tags:
   - racing
   - simulation

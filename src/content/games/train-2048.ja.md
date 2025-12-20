@@ -2,7 +2,7 @@
 title: Train 2048
 description: Train 2048は、2048ゲームと列車を組み合わせたパズルゲームです。同じ数字の列車を合体させましょう。
 iframeSrc: 'https://ubg98.github.io/Train2048/'
-thumbnail: /new-images/train-2048.jpg
+thumbnail: /new-images/thumbnails/train-2048.jpg
 urlstr: train-2048
 score: 4.3/5  (2345 votes)
 tags:

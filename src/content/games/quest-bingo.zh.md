@@ -6,7 +6,7 @@ description: >-
   《Quest
   Bingo》是一款将经典宾果玩法与任务推进、收集要素融合在一起的冒险休闲游戏。你一边在关卡地图上前进，一边通过划掉号码、完成关卡目标、使用强力道具并收集拼图碎片，体验更有层次感的现代版宾果。
 iframeSrc: 'https://52nk212336l1g.h5games.usercontent.goog/v/0smbj5p2kjk78/'
-thumbnail: /new-images/quest-bingo.png
+thumbnail: /new-images/thumbnails/quest-bingo.png
 tags:
   - card
   - puzzle

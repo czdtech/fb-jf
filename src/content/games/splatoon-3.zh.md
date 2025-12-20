@@ -4,7 +4,7 @@ urlstr: splatoon-3
 title: 《Splatoon 3》泼墨对战 3
 description: 《Splatoon 3》是一款风格鲜明的射击对战游戏，你将操控喷墨小乌贼在战场上泼洒颜料，占领地盘并击退对手，体验快节奏的涂地对抗。
 iframeSrc: 'https://splatoon3.h5games.usercontent.goog/v/0e7vd4ltn2j00/'
-thumbnail: /new-images/splatoon-3.jpg
+thumbnail: /new-images/thumbnails/splatoon-3.jpg
 tags:
   - shooter
   - multiplayer

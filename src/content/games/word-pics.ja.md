@@ -2,7 +2,7 @@
 title: Word Pics
 description: Word Picsは、画像から単語を推測するパズルゲームです。ヒントを見て正しい単語を見つけましょう。
 iframeSrc: 'https://ubg98.github.io/WordPics/'
-thumbnail: /new-images/word-pics.jpg
+thumbnail: /new-images/thumbnails/word-pics.jpg
 urlstr: word-pics
 score: 4.3/5  (2345 votes)
 tags:

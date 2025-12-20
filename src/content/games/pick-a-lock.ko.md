@@ -7,7 +7,7 @@ description: >-
   여는 미니멀리즘 리듬 타이밍 게임입니다. 점점 늘어나는 표시선과 좁아지는 판정
   타이밍 속에서 집중력과 손 감각이 시험됩니다.
 iframeSrc: 'https://17ul52pgrglf0.h5games.usercontent.goog/v/5b4f1rj0on970/'
-thumbnail: /new-images/pick-a-lock.jpg
+thumbnail: /new-images/thumbnails/pick-a-lock.jpg
 tags:
   - puzzle
   - thinky

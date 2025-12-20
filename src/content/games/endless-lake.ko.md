@@ -6,7 +6,7 @@ description: >-
   끝없이 이어지는 호수 위 발판을 달리는 원터치 러너 게임입니다. 단·더블 점프를 적절히 사용해 간격을 건너며 얼마나 멀리 갈 수 있는지
   도전해 보세요.
 iframeSrc: 'https://3llnkqqmic17g.h5games.usercontent.goog/v/0e8uaqritcs8o/'
-thumbnail: /new-images/endless-lake.png
+thumbnail: /new-images/thumbnails/endless-lake.png
 tags:
   - action
   - casual

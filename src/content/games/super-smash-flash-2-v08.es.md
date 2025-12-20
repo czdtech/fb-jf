@@ -8,7 +8,7 @@ description: >-
   de plataformas rápidos y muy pulidos. Domina las técnicas avanzadas y compite
   contra amigos u oponentes CPU para demostrar tu nivel.
 iframeSrc: 'https://kdata1.com/games/SSF22/?kbhgames'
-thumbnail: /new-images/super-smash-flash-2-v08.jpg
+thumbnail: /new-images/thumbnails/super-smash-flash-2-v08.jpg
 tags:
   - fighting
   - platformer

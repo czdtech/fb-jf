@@ -7,7 +7,7 @@ description: >-
   Ziffern 1–9 so, dass jede Zeile, Spalte und Box alle Zahlen ohne
   Wiederholungen enthält.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-daily-sudoku/'
-thumbnail: /new-images/daily-sudoku.jpg
+thumbnail: /new-images/thumbnails/daily-sudoku.jpg
 tags:
   - puzzle
   - logic

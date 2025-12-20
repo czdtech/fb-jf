@@ -9,7 +9,7 @@ description: >-
   final. Piensa fuera de lo convencional y abraza el absurdo para conquistar
   este puzle mental único.
 iframeSrc: 'https://flash-cdn.blogspot.com/2021/06/the-impossible-quiz.html'
-thumbnail: /new-images/the-impossible-quiz.jpg
+thumbnail: /new-images/thumbnails/the-impossible-quiz.jpg
 tags:
   - quiz
   - puzzle

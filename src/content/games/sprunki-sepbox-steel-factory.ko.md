@@ -6,7 +6,7 @@ description: >-
   Sprunki x SepBox Steel Factory는 철제 공장 분위기와 스프룽키 음악 제작을 결합한 공장 테마 모드입니다. 금속
   충돌음, 기계음, 산업 비트를 쌓아 나만의 인더스트리얼 사운드를 만들 수 있습니다.
 iframeSrc: 'https://turbowarp.org/1099071172/embed'
-thumbnail: /sprunki-sepbox-steel-factory.png
+thumbnail: /new-images/thumbnails/sprunki-sepbox-steel-factory.png
 tags:
   - sprunki x sepbox steel factory
 score: 4.9/5  (509 votes)

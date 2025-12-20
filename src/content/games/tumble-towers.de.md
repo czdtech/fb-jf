@@ -6,7 +6,7 @@ description: >-
   Tumble Towers ist ein Physik‑Stapelspiel: Balanciere Blöcke, halte Überhänge
   klein und baue Türme, die auch nach dem Aufpralltest noch stehen.
 iframeSrc: 'https://786ndsslg99r8.h5games.usercontent.goog/v/70bavan56u08g/'
-thumbnail: /new-images/tumble-towers.png
+thumbnail: /new-images/thumbnails/tumble-towers.png
 tags:
   - puzzle
   - thinky

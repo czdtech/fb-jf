@@ -4,7 +4,7 @@ urlstr: odd-one-out
 title: Odd One Out 다른 하나 찾기
 description: 'Odd One Out는 한 그룹 안에서 어울리지 않는 그림을 찾아내는 퍼즐 게임으로, 관찰력과 분류 능력을 시험합니다.'
 iframeSrc: 'https://oddoneout.h5games.usercontent.goog/v/50nqosk9lm28o/'
-thumbnail: /new-images/odd-one-out.jpg
+thumbnail: /new-images/thumbnails/odd-one-out.jpg
 tags:
   - puzzle
   - thinky

@@ -6,7 +6,7 @@ description: >-
   在《Chess Classic 国际象棋经典版》中体验纯正的经典国际象棋对局。你可以在不同
   难度下与电脑对弈，锻炼布局、算路和残局收官能力，循序渐进地提升自己的棋力。
 iframeSrc: 'https://chessclassic.h5games.usercontent.goog/v/7hf0vulane380/'
-thumbnail: /new-images/chess-classic.png
+thumbnail: /new-images/thumbnails/chess-classic.png
 tags:
   - thinky
   - 2 player

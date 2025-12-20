@@ -2,7 +2,7 @@
 title: "Incredibox Sprinkle - Play Incredibox Sprinkle Online"
 description: "Sprinkleは、操作がシンプルで楽しさに満ちた音楽制作ゲームです。カジュアルプレイヤーであれ、音楽制作に興味のあるファンであれ、Sprinkleの世界で独自の楽しみを見つけることができます。"
 iframeSrc: "https://g.sprinkleincredibox.com/web-game/SprinkleIncredibox/index.html"
-thumbnail: "/incredibox-sprinkle.png"
+thumbnail: /new-images/thumbnails/incredibox-sprinkle.png
 urlstr: "incredibox-sprinkle"
 score: "3.8/5  (387 votes)"
 tags: ["incredibox sprinkle"]

@@ -2,7 +2,7 @@
 title: Swap Sprunkgerny
 description: Swap Sprunkgernyは、キャラクターが入れ替わるユニークなSprunkiModです。新しいサウンドの組み合わせを発見しましょう。
 iframeSrc: 'https://turbowarp.org/1152743892/embed'
-thumbnail: /swap-sprunkgerny.png
+thumbnail: /new-images/thumbnails/swap-sprunkgerny.png
 urlstr: swap-sprunkgerny
 score: 4.1/5  (324 votes)
 tags:

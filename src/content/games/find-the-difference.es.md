@@ -7,7 +7,7 @@ description: >-
   parecen casi idénticas y encuentra todas las diferencias antes de que se agote
   el tiempo.
 iframeSrc: 'https://findthedifference.h5games.usercontent.goog/v/0tambv0iojsn8/'
-thumbnail: /new-images/find-the-difference.jpg
+thumbnail: /new-images/thumbnails/find-the-difference.jpg
 tags:
   - puzzle
   - casual

@@ -8,7 +8,7 @@ description: >-
   "브레인롯" 군단으로부터 두뇌를 지켜 보세요.
 iframeSrc: >-
   https://playhop.com/dist-app/471072?header=no&utm_source=distrib&utm_medium=gameflare
-thumbnail: /new-images/plantsvsbrainrots.jpg
+thumbnail: /new-images/thumbnails/plants-vs-brainrots.jpg
 tags:
   - roblox
   - casual

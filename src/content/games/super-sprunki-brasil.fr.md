@@ -4,7 +4,7 @@ urlstr: super-sprunki-brasil
 title: Super Sprunki Brasil V1.3  - Jouer à Super Sprunki Brasil en ligne
 description: "Super Sprunki Brasil est un Mod Incredibox qui te permet de libérer ta créativité avec une touche brésilienne\_: samba, bossa nova et ambiance festive au rendez‑vous."
 iframeSrc: 'https://turbowarp.org/1080827660/embed'
-thumbnail: /super-sprunki-brasil.png
+thumbnail: /new-images/thumbnails/super-sprunki-brasil.png
 tags:
   - super sprunki brasil
   - super sprunki brasil online

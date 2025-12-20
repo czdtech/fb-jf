@@ -7,7 +7,7 @@ description: >-
   Striker, loch deine Steine und decke die Dame, um deinen Gegner in diesem
   Präzisions- und Taktikspiel zu schlagen.
 iframeSrc: 'https://carromclash.h5games.usercontent.goog/v/4pmfd00515bbg/'
-thumbnail: /new-images/carrom-clash.png
+thumbnail: /new-images/thumbnails/carrom-clash.png
 tags:
   - sports
   - puzzle

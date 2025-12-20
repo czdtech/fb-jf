@@ -6,7 +6,7 @@ description: >-
   《Differences Find Quest 每日找不同任务》是一款细节丰富的找不同游戏。通过对比两张看
   似相同的图片，标记所有差异，并合理使用提示完成关卡。
 iframeSrc: 'https://4rsldln0df32g.h5games.usercontent.goog/v/1hcmcbpl76s40/'
-thumbnail: /new-images/differences-find-quest.png
+thumbnail: /new-images/thumbnails/differences-find-quest.png
 tags:
   - puzzle
   - thinky

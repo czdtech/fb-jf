@@ -7,7 +7,7 @@ description: >-
   expositor, completa pedidos y construye la pastelería más dulce en este
   relajante puzle de merges.
 iframeSrc: 'https://mergecakes.h5games.usercontent.goog/v/516lkgikje8fo/'
-thumbnail: /new-images/merge-cakes.jpg
+thumbnail: /new-images/thumbnails/merge-cakes.jpg
 tags:
   - puzzle
   - casual

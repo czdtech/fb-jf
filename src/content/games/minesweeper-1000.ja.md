@@ -2,7 +2,7 @@
 title: "Minesweeper 1000"
 description: "Minesweeper 1000はクラシックな地雷ゲームです。数字の手がかりを使用して地雷をマークし、すべての安全なタイルを明らかにし、論理パズルをマスターします。"
 iframeSrc: "https://minesweeper1000.h5games.usercontent.goog/v/56s2qk7a8rk7g/"
-thumbnail: "/new-images/minesweeper-1000.png"
+thumbnail: /new-images/thumbnails/minesweeper-1000.png
 urlstr: "minesweeper-1000"
 score: "4.4/5  (2345 votes)"
 tags: ["puzzle", "thinky"]

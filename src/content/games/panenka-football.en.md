@@ -3,7 +3,7 @@ locale: en
 title: "Panenka Football"
 description: "Panenka Football is a penalty craft — disguise intent, chip with touch, and outguess keepers with audacious Panenkas."
 iframeSrc: "https://15n5pfdq70ung.h5games.usercontent.goog/v/2ftdtu6n19sk8/"
-thumbnail: "/new-images/panenka-football.png"
+thumbnail: /new-images/thumbnails/panenka-football.png
 urlstr: "panenka-football"
 score: "4.0/5  (1863 votes)"
 tags: ["sports", "soccer"]

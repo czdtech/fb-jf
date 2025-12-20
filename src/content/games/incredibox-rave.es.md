@@ -7,7 +7,7 @@ description: >-
   jugabilidad pensada para crear temas de alta energía y una serie de bonus de
   neón que puedes desbloquear mientras compones.
 iframeSrc: 'https://turbowarp.org/980794126/embed'
-thumbnail: /new-images/incredibox-rave.png
+thumbnail: /new-images/thumbnails/incredibox-rave.png
 tags:
   - music
   - rave

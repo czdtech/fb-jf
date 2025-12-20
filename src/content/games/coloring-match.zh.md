@@ -7,7 +7,7 @@ description: >-
   料、调整明度与饱和度，尽可能精确地还原目标色块，在不断尝试中提升自己的色感与调色
   技巧。
 iframeSrc: 'https://21t5l4ct88d8g.h5games.usercontent.goog/v/6kels35kspngg/'
-thumbnail: /new-images/coloring-match.jpg
+thumbnail: /new-images/thumbnails/coloring-match.jpg
 tags:
   - puzzle
   - casual

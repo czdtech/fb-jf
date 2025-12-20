@@ -7,7 +7,7 @@ description: >-
   naval. Coloca tu flota con cabeza y dispara al tablero enemigo para localizar
   y hundir toda su armada antes de que hundan la tuya.
 iframeSrc: 'https://3hcluun64uid0.h5games.usercontent.goog/v/0op00pgc2n4kg/'
-thumbnail: /new-images/battleships-armada.png
+thumbnail: /new-images/thumbnails/battleships-armada.png
 tags:
   - puzzle
   - strategy

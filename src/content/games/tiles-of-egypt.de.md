@@ -8,7 +8,7 @@ description: >-
   Tablett nicht überläuft.
 iframeSrc: >-
   https://tilesofegypt.h5games.usercontent.goog/v/dd964fa3-8999-4546-a4a0-d55a0cc72248/
-thumbnail: /new-images/tiles-of-egypt.jpg
+thumbnail: /new-images/thumbnails/tiles-of-egypt.jpg
 tags:
   - puzzle
   - casual

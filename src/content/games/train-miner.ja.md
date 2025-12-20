@@ -2,7 +2,7 @@
 title: Train Miner
 description: Train Minerは、列車と採掘を組み合わせたゲームです。資源を集めて列車をアップグレードしましょう。
 iframeSrc: 'https://ubg98.github.io/TrainMiner/'
-thumbnail: /new-images/train-miner.jpg
+thumbnail: /new-images/thumbnails/train-miner.png
 urlstr: train-miner
 score: 4.4/5  (2654 votes)
 tags:

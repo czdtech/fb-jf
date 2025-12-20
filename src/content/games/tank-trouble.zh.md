@@ -4,7 +4,7 @@ urlstr: tank-trouble
 title: 《Tank Trouble》坦克迷宫对战
 description: 《Tank Trouble》是一款俯视角坦克对战游戏。你需要在迷宫般的地图里驾驶小坦克，利用反弹炮弹击中对手，同时避免自己被爆炸波及。
 iframeSrc: 'https://tanktrouble.h5games.usercontent.goog/v/0l8n2k4c3b1v0/'
-thumbnail: /new-images/tank-trouble.png
+thumbnail: /new-images/thumbnails/tank-trouble.jpg
 tags:
   - tank
   - multiplayer

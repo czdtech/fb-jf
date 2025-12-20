@@ -2,7 +2,7 @@
 title: Ping Pong
 description: Ping Pongは卓球ゲームです。パドルを動かしてボールを打ち返し、相手より多く得点します。
 iframeSrc: 'https://pingpong.h5games.usercontent.goog/v/3k9j5m8h7p2n8/'
-thumbnail: /new-images/ping-pong.png
+thumbnail: /new-images/thumbnails/ping-pong.jpg
 urlstr: ping-pong
 score: 4.2/5  (2234 votes)
 tags:

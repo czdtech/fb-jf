@@ -7,7 +7,7 @@ description: >-
   fichas idénticas y libres para limpiar el tablero en este juego relajante de
   estrategia y observación.
 iframeSrc: 'https://mahjongclassic.h5games.usercontent.goog/v/6tue6un26r7v0/'
-thumbnail: /new-images/mahjong-classic.png
+thumbnail: /new-images/thumbnails/mahjong-classic.png
 tags:
   - puzzle
   - thinky

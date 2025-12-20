@@ -7,7 +7,7 @@ description: >-
   versteckten Minen zu finden, und räume riesige Felder in mehreren
   Schwierigkeitsstufen nur mit Logik.
 iframeSrc: 'https://minesweepermania.h5games.usercontent.goog/v/6cje7ufl50e4g/'
-thumbnail: /new-images/minesweeper-mania.png
+thumbnail: /new-images/thumbnails/minesweeper-mania.png
 tags:
   - puzzle
   - thinky

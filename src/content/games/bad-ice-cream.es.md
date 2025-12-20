@@ -8,7 +8,7 @@ description: >-
   congelas a tus enemigos.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210128/x4/index.html
-thumbnail: /new-images/bad-ice-cream.jpg
+thumbnail: /new-images/thumbnails/bad-ice-cream.jpg
 tags:
   - casual
   - puzzle

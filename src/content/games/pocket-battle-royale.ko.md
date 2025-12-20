@@ -6,7 +6,7 @@ description: >-
   탑다운 2D 시점에서 즐기는 배틀로얄 슈팅 게임입니다. 무기와 회복 아이템을 빠르게 파밍하고, 줄어드는 안전 구역 안을 지키며 마지막
   생존자가 되어 보세요.
 iframeSrc: 'https://pocketbattleroyale.h5games.usercontent.goog/v/1n9qfv4cpdie8/'
-thumbnail: /new-images/pocket-battle-royale.png
+thumbnail: /new-images/thumbnails/pocket-battle-royale.png
 tags:
   - action
   - shooting

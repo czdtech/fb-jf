@@ -6,7 +6,7 @@ description: >-
   《Slope 3》是在高速斜坡跑酷基础上的进一步升级作品。你操控一颗炫光小球在更加复杂多变的 3D
   斜坡赛道上狂奔，下滑速度更快、障碍更密集，对反应与操作要求更高。
 iframeSrc: 'https://slope3.h5games.usercontent.goog/v/3t7c13v0m2elg/'
-thumbnail: /new-images/slope-3.jpg
+thumbnail: /new-images/thumbnails/slope-3.jpg
 tags:
   - 3d
   - running

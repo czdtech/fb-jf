@@ -6,7 +6,7 @@ description: >-
   幫湯姆發大財！經典黃金礦工玩法：操控鉤爪抓取金塊、寶石與寶袋，
   在時間結束前達成每一關的金錢目標。
 iframeSrc: 'https://goldminertom.h5games.usercontent.goog/v/5l8d724in1pco/'
-thumbnail: /new-images/gold-miner-tom.png
+thumbnail: /new-images/thumbnails/gold-miner-tom.png
 tags:
   - action
   - casual

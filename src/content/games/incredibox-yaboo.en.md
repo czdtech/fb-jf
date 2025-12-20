@@ -4,7 +4,7 @@ modType: incredibox
 title: "Incredibox YaBoo"
 description: "Dive into the fan-made 'Incredibox YaBoo' mod. This guide covers its unique sound palette, music creation gameplay, and how to unlock its themed bonuses."
 iframeSrc: "https://turbowarp.org/1095206379/embed"
-thumbnail: "/new-images/incredibox-yaboo.png"
+thumbnail: /new-images/thumbnails/incredibox-yaboo.png
 urlstr: "incredibox-yaboo"
 score: "4.5/5 (987 votes)"
 tags: ["music", "rhythm"]

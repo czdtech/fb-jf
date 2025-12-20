@@ -7,7 +7,7 @@ description: >-
   Reihen zu löschen, sammle Sterne und setze mächtige Booster im richtigen
   Moment ein.
 iframeSrc: 'https://elementblocks.h5games.usercontent.goog/v/35up5t7ao24i8/'
-thumbnail: /new-images/element-blocks.png
+thumbnail: /new-images/thumbnails/element-blocks.png
 tags:
   - puzzle
   - thinky

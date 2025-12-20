@@ -8,7 +8,7 @@ description: >-
   chemins à deux virages max.
 iframeSrc: >-
   https://omnomconnectxmas.h5games.usercontent.goog/v/5bd57fab-470e-46a3-94c0-621184ffaa8d/
-thumbnail: /new-images/om-nom-connect-xmas.jpg
+thumbnail: /new-images/thumbnails/om-nom-connect-xmas.jpg
 tags:
   - puzzle
   - casual

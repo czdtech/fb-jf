@@ -6,7 +6,7 @@ description: >-
   Wheely est un puzzle point-and-click charmant : résous des énigmes
   environnementales et guide la petite voiture rouge vers sa destination.
 iframeSrc: 'https://www.friv.com/z/games/wheely/index-x.html'
-thumbnail: /new-images/wheely.jpg
+thumbnail: /new-images/thumbnails/wheely.jpg
 tags:
   - puzzle
   - adventure

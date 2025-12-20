@@ -5,7 +5,7 @@ description: >-
   Embark on an enchanting musical adventure where every click breathes life into
   a symphony of your own making. Sprunki Clicker is more than a game—it
 iframeSrc: 'https://1games.io/game/sprunki-clicker/'
-thumbnail: /sprunki-clicker.png
+thumbnail: /new-images/thumbnails/sprunki-clicker.png
 urlstr: sprunki-clicker
 sidebarPopular: 1
 modType: sprunki

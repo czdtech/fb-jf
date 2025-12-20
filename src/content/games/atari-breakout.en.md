@@ -4,7 +4,7 @@ locale: en
 title: "Atari Breakout"
 description: "Learn how to master the classic arcade game Atari Breakout. Discover winning strategies, controls, and tips for smashing every brick and achieving a high score."
 iframeSrc: "https://app-184523.games.s3.yandex.net/184523/bdryh2h6iqjirujzrk3tlum0j0n28j1o/index.html"
-thumbnail: "/new-images/atari-breakout.jpg"
+thumbnail: /new-images/thumbnails/atari-breakout.jpg
 urlstr: "atari-breakout"
 score: "3.7/5  (602 votes)"
 tags: ["casual", "action"]

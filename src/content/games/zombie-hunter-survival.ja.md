@@ -2,7 +2,7 @@
 title: Zombie Hunter Survival
 description: Zombie Hunter Survivalは、ゾンビサバイバルゲームです。資源を集めてゾンビの世界で生き残りましょう。
 iframeSrc: 'https://ubg98.github.io/ZombieHunterSurvival/'
-thumbnail: /new-images/zombie-hunter-survival.jpg
+thumbnail: /new-images/thumbnails/zombie-hunter-survival.png
 urlstr: zombie-hunter-survival
 score: 4.5/5  (3234 votes)
 tags:

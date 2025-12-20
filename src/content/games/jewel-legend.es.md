@@ -7,7 +7,7 @@ description: >-
   match‑3. Intercambia gemas relucientes, crea combos explosivos y resuelve
   cientos de puzles desafiantes.
 iframeSrc: 'https://jewellegend.h5games.usercontent.goog/v/36cb1hitjsa3o/'
-thumbnail: /new-images/jewel-legend.png
+thumbnail: /new-images/thumbnails/jewel-legend.png
 tags:
   - puzzle
   - casual

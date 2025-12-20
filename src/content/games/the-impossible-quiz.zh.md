@@ -4,7 +4,7 @@ urlstr: the-impossible-quiz
 title: 《The Impossible Quiz》坑爹问答
 description: 《The Impossible Quiz》是一款闻名已久的整蛊式答题游戏。题目看似简单却充满陷阱与脑洞，需要跳出常规思维才能找到正确答案。
 iframeSrc: 'https://syndicode.github.io/impossible.quiz/'
-thumbnail: /new-images/the-impossible-quiz.jpg
+thumbnail: /new-images/thumbnails/the-impossible-quiz.jpg
 tags:
   - quiz
   - puzzle

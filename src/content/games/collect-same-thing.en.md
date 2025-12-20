@@ -3,7 +3,7 @@ locale: en
 title: "Collect Same Thing"
 description: "Collect Same Thing is a tidy pairing game — find identical items, clear the board, and plan around limited space."
 iframeSrc: "https://01cqom45rtuoo.h5games.usercontent.goog/v/6t1iulpqr6t5g/"
-thumbnail: "/new-images/collect-same-thing.png"
+thumbnail: /new-images/thumbnails/collect-same-thing.png
 urlstr: "collect-same-thing"
 score: "3.8/5  (1582 votes)"
 tags: ["puzzle", "thinky", "casual"]

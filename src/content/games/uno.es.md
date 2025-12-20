@@ -7,7 +7,7 @@ description: >-
   su mano combinando colores y números, usando cartas de acción especiales para
   frenar a los rivales y ser el primero en gritar “¡UNO!”.
 iframeSrc: "https://www.xpgameplus.com/games/uno/default.html"
-thumbnail: "/new-images/uno.jpg"
+thumbnail: /new-images/thumbnails/uno.jpg
 tags:
   - card game
   - strategy

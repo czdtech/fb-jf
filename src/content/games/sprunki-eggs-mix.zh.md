@@ -5,7 +5,7 @@ urlstr: "sprunki-eggs-mix"
 title: "Sprunki Egg's Mix - 在线玩 Sprunki Egg's Mix"
 description: "Sprunki Egg's Mix 是一款视觉惊艳、智力刺激的益智游戏，适合益智游戏爱好者、休闲玩家以及欣赏独特游戏体验的人。"
 iframeSrc: "https://turbowarp.org/1102648676/embed"
-thumbnail: "/sprunki-eggs-mix.png"
+thumbnail: /new-images/thumbnails/sprunki-eggs-mix.png
 score: "3.9/5  (125 票)"
 tags: ["sprunki egg"]
 ---

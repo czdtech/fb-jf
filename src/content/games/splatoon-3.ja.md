@@ -3,7 +3,7 @@
 title: "Splatoon 3"
 description: "Splatoon 3はインクで塗って戦う対戦シューターです。チームで陣地を塗り広げ、ルールに沿って勝利を目指します。"
 iframeSrc: "https://bitlifeonline.github.io/splatoon-3/"
-thumbnail: "/new-images/splatoon-3.jpg"
+thumbnail: /new-images/thumbnails/splatoon-3.jpg
 urlstr: "splatoon-3"
 score: "4.3/5  (955 votes)"
 tags: ["action", "shooting", "multiplayer"]

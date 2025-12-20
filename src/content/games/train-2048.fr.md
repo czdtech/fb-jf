@@ -6,7 +6,7 @@ description: >-
   Train 2048 est un puzzle créatif : fais glisser et fusionne des wagons
   identiques pour construire un train plus avancé et atteindre le wagon 2048.
 iframeSrc: 'https://train2048.h5games.usercontent.goog/v/efebc769-0d8d-48f4-b437-af712b013132/'
-thumbnail: /new-images/train-2048.jpg
+thumbnail: /new-images/thumbnails/train-2048.jpg
 tags:
   - puzzle
   - thinky

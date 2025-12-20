@@ -7,7 +7,7 @@ description: >-
   Sounds wie mit Bausteinen arbeitest und dir Schritt für Schritt dein eigenes
   Klang-„Pyramidenprojekt“ aufbaust.
 iframeSrc: 'https://turbowarp.org/1133167510/embed'
-thumbnail: /sprunki-pyramixed-version.png
+thumbnail: /new-images/thumbnails/sprunki-pyramixed-version.png
 tags:
   - sprunki pyramixed
 score: 4.0/5  (254 votes)

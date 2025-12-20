@@ -6,7 +6,7 @@ description: >-
   Krishna Jump ist ein rhythmischer Vertikal-Runner: Setze präzise Sprünge,
   weiche Gefahren aus und sammle Idole auf bunten Plattformen.
 iframeSrc: 'https://5gj672951lio0.h5games.usercontent.goog/v/2q5vk2ok37gr8/'
-thumbnail: /new-images/krishna-jump.png
+thumbnail: /new-images/thumbnails/krishna-jump.png
 tags:
   - action
   - casual

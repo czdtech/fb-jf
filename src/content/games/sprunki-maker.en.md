@@ -3,7 +3,7 @@ locale: en
 title: Sprunki Maker (BIG update) - Play Sprunki Maker (BIG update) Online
 description: Want to own a unique Sprunki character? Now
 iframeSrc: 'https://www.playfiddlebops.com/embed/sprunki-marker/index.html'
-thumbnail: /sprunki-maker.png
+thumbnail: /new-images/thumbnails/sprunki-maker.png
 urlstr: sprunki-maker
 modType: sprunki
 score: 4.8/5  (700 votes)

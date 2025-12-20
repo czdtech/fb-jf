@@ -4,7 +4,7 @@ locale: en
 title: "Big Shot Boxing"
 description: "Become a boxing legend in Big Shot Boxing! Train your fighter, climb the ranks from street fights to world championships, and master simple-but-deep controls in this retro-style arcade boxing game."
 iframeSrc: "https://rebemanae.github.io/big-shot-boxing/"
-thumbnail: "/new-images/big-shot-boxing.jpg"
+thumbnail: /new-images/thumbnails/big-shot-boxing.jpg
 urlstr: "big-shot-boxing"
 score: "4.8/5  (1401 votes)"
 tags: ["sports", "action"]

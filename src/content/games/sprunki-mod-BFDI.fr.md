@@ -7,7 +7,7 @@ description: >-
   d’Incredibox Sprunki avec l’univers déjanté et « objets vivants » de Battle
   for Dream Island (BFDI).
 iframeSrc: 'https://turbowarp.org/1087434086/embed'
-thumbnail: /sprunki-mod-bfdi.png
+thumbnail: /new-images/thumbnails/sprunki-mod-BFDI.png
 tags:
   - sprunki mod bfdi
 score: 4.2/5  (347 votes)

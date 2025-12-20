@@ -4,7 +4,7 @@ urlstr: tiletopia
 title: 《Tiletopia》方块小镇
 description: 《Tiletopia》是一款轻松的方块拼放/消除游戏。通过在棋盘上放置不同形状的方块，完成行列或特定图案以达成消除与得分目标。
 iframeSrc: 'https://tiletopia.h5games.usercontent.goog/v/7h2d3n9c1b5k0/'
-thumbnail: /new-images/tiletopia.png
+thumbnail: /new-images/thumbnails/tiletopia.png
 tags:
   - puzzle
   - building

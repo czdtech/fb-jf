@@ -7,7 +7,7 @@ description: >-
   가이드입니다. 장애물을 지우고 부스터를 활용해 별을 모으고,
   왕실 홀을 꾸미는 방법을 소개합니다.
 iframeSrc: 'https://0ptbttt09g5cg.h5games.usercontent.goog/v/6c7l9okboa1u0/'
-thumbnail: /new-images/kings-and-queens.png
+thumbnail: /new-images/thumbnails/kings-and-queens.png
 tags:
   - puzzle
   - casual

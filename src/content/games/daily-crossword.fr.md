@@ -4,7 +4,7 @@ urlstr: daily-crossword
 title: Daily Crossword
 description: "Résous un nouveau mot croisé chaque jour\_: lis les définitions, complète la grille et entraîne ton vocabulaire."
 iframeSrc: 'https://crosswordgames.io/game/dailiesamerican_crossword/index.html'
-thumbnail: /new-images/daily-crossword.jpg
+thumbnail: /new-images/thumbnails/daily-crossword.jpg
 tags:
   - word
   - puzzle

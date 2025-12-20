@@ -7,7 +7,7 @@ description: >-
   Fahrzeug, zerstöre gegnerische Wagen und sammle Münzen, um Waffen und
   Panzerung aufzurüsten und den Wahnsinn auf der Straße zu überleben.
 iframeSrc: 'https://roadfury.h5games.usercontent.goog/v/6u0uos6j6vvl0/'
-thumbnail: /new-images/roadfury.png
+thumbnail: /new-images/thumbnails/roadfury.png
 tags:
   - action
   - shooting

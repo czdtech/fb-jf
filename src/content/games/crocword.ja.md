@@ -2,7 +2,7 @@
 title: Crocword クロックワード
 description: 「Crocword」はクロスワードと文字つなぎパズルが融合したリラックスゲーム。文字を繋げて単語を作り、グリッドを埋めてコインを稼ごう。
 iframeSrc: 'https://4u2r33lp92ja0.h5games.usercontent.goog/v/53cgdtc83kng8/'
-thumbnail: /new-images/crocword.png
+thumbnail: /new-images/thumbnails/crocword.png
 urlstr: crocword
 score: 4.2/5  (2057 votes)
 tags:

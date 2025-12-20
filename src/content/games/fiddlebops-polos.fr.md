@@ -4,7 +4,7 @@ urlstr: fiddlebops-polos
 title: "Fiddlebops Polos - Play Fiddlebops Polos Online"
 description: "Fiddlebops Polos est un jeu musical créatif où tu composes des morceaux, explores des histoires interactives et échanges avec une communauté dynamique – gratuitement en ligne."
 iframeSrc: 'https://turbowarp.org/1149630445/embed'
-thumbnail: /fiddlebops-polos.png
+thumbnail: /new-images/thumbnails/fiddlebops-polos.png
 tags:
   - fiddlebops polos
 score: 4.6/5  (217 votes)

@@ -7,7 +7,7 @@ description: >-
   moto, controla el acelerador y gira con precisión para dominar los circuitos
   de neón.
 iframeSrc: 'https://1ef80kndi1bv0.h5games.usercontent.goog/v/4glscq8hf3m20/'
-thumbnail: /new-images/neon-rider.png
+thumbnail: /new-images/thumbnails/neon-rider.png
 tags:
   - bike
   - action

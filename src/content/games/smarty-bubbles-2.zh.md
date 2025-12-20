@@ -4,7 +4,7 @@ urlstr: smarty-bubbles-2
 title: 《Smarty Bubbles 2》聪明泡泡 2
 description: 《Smarty Bubbles 2》是一款经典泡泡龙续作。发射彩色泡泡，将三个及以上同色泡泡连成一片并消除，清空屏幕赢得关卡胜利。
 iframeSrc: 'https://smartybubbles2.h5games.usercontent.goog/v/4h72msq50h860/'
-thumbnail: /new-images/smarty-bubbles-2.png
+thumbnail: /new-images/thumbnails/smarty-bubbles-2.png
 tags:
   - bubble shooter
   - puzzle

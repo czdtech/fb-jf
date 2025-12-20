@@ -7,7 +7,7 @@ description: >-
   각도를 계산해 버블을 쏘고, 같은 색 버블을 3개 이상 맞춰 큰 덩어리를 떨어뜨리며
   점수를 노려 보세요.
 iframeSrc: 'https://65bijcm9l375g.h5games.usercontent.goog/v/6v521t1km2i30/'
-thumbnail: /new-images/bonanza-shooter-bubble.jpg
+thumbnail: /new-images/thumbnails/bonanza-shooter-bubble.jpg
 tags:
   - puzzle
   - casual

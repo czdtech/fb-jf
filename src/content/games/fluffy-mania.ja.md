@@ -2,7 +2,7 @@
 title: "Fluffy Mania"
 description: "Fluffy Maniaは、キュートなフラッフィたちをつなげて消し、連鎖を起こしてハイスコアを目指す、居心地の良いマッチ＆クリアパズルです。"
 iframeSrc: "https://02rd6nna08dqg.h5games.usercontent.goog/v/3ngbs02gf9h88/"
-thumbnail: "/new-images/fluffy-mania.png"
+thumbnail: /new-images/thumbnails/fluffy-mania.png
 urlstr: "fluffy-mania"
 score: "4.0/5  (1729 votes)"
 tags: ["puzzle", "casual"]

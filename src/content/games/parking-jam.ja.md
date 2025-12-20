@@ -2,7 +2,7 @@
 title: "Parking Jam"
 description: "Parking Jamは駐車パズルゲームです。車を前後に動かして渋滞を解消し、出口までの道を作ります。"
 iframeSrc: "https://parkingjam.h5games.usercontent.goog/v/3k9j5m8h7p2n8/"
-thumbnail: "/new-images/parking-jam.png"
+thumbnail: /new-images/thumbnails/parking-jam.png
 urlstr: "parking-jam"
 score: "4.2/5  (2156 votes)"
 tags: ["puzzle", "thinky", "casual"]

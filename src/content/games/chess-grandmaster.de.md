@@ -6,7 +6,7 @@ description: >-
   Chess Grandmaster bietet klassisches Schach – lerne Eröffnungen, berechne
   Taktiken und verwandle Vorteile mit soliden Endspielgrundlagen.
 iframeSrc: 'https://6kf8oom91mt10.h5games.usercontent.goog/v/01dag2rajhv1g/'
-thumbnail: /new-images/chess-grandmaster.jpg
+thumbnail: /new-images/thumbnails/chess-grandmaster.jpg
 tags:
   - thinky
   - puzzle

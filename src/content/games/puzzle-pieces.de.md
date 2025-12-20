@@ -6,7 +6,7 @@ description: >-
   Puzzle Pieces liefert klare Denkaufgaben: Drehe Formen, setze sie passgenau
   ein und fülle jedes Brett lückenlos aus.
 iframeSrc: 'https://05c9vfh919cbg.h5games.usercontent.goog/v/0ki2bua5asq00/'
-thumbnail: /new-images/puzzle-pieces.png
+thumbnail: /new-images/thumbnails/puzzle-pieces.png
 tags:
   - puzzle
   - thinky

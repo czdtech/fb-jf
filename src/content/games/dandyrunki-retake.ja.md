@@ -2,7 +2,7 @@
 title: "Dandyrunki Retake - Dandyrunki Retake Onlineで遊ぼう"
 description: "「Dandyrunki Retake」でリズムとメロディを手軽に探索しよう。音楽愛好家も初心者も楽しめるリミックスバージョン。"
 iframeSrc: "https://turbowarp.org/1126924449/embed"
-thumbnail: "/dandyrunki-retake.png"
+thumbnail: /new-images/thumbnails/dandyrunki-retake.png
 urlstr: "dandyrunki-retake"
 score: "3.7/5  (255 votes)"
 tags: ["dandyrunki retake", "dandyrunki retake online"]

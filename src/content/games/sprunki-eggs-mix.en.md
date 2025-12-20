@@ -5,7 +5,7 @@ description: >-
   Sprunki Egg's Mix features unpredictable egg combinations with unique
   attributes that create surprising chain reactions.
 iframeSrc: 'https://turbowarp.org/1102648676/embed'
-thumbnail: /sprunki-eggs-mix.png
+thumbnail: /new-images/thumbnails/sprunki-eggs-mix.png
 urlstr: sprunki-eggs-mix
 modType: sprunki
 score: 3.9/5  (125 votes)

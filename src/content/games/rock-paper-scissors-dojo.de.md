@@ -7,7 +7,7 @@ description: >-
   Mindgame: Lies die Muster deiner Gegner, mische deine Strategien und gewinne
   Best-of-Duelle durch kluge Vorhersagen.
 iframeSrc: 'https://0o2ssijd98lgg.h5games.usercontent.goog/v/39t01692a4rs8/'
-thumbnail: /new-images/rock-paper-scissors-dojo.png
+thumbnail: /new-images/thumbnails/rock-paper-scissors-dojo.png
 tags:
   - casual
   - 2 player

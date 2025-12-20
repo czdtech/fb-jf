@@ -6,7 +6,7 @@ description: >-
   Whack Your Boss est un jeu interactif à l'humour noir : découvre plus d'une
   douzaine de façons créatives et comiques de « casser » ton patron ennuyeux.
 iframeSrc: 'https://flash-cdn.blogspot.com/2021/06/whack-your-boss-24-ways.html'
-thumbnail: /new-images/whack-your-boss.jpg
+thumbnail: /new-images/thumbnails/whack-your-boss.jpg
 tags:
   - interactive
   - funny

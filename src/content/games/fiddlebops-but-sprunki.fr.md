@@ -4,7 +4,7 @@ urlstr: fiddlebops-but-sprunki
 title: "FiddleBops but Sprunki - Play FiddleBops but Sprunki Online"
 description: "FiddleBops but Sprunki est un crossover génial : il garde le cœur musical addictif de Fiddlebops, mais remplace tous les personnages d’origine par l’équipe iconique de Sprunki."
 iframeSrc: 'https://turbowarp.org/1114915532/embed'
-thumbnail: /fiddlebops-but-sprunki.png
+thumbnail: /new-images/thumbnails/fiddlebops-but-sprunki.png
 tags:
   - fiddlebops but sprunki
 score: 4.2/5  (94 votes)

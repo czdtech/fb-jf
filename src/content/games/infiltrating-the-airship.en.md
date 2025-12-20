@@ -4,7 +4,7 @@ locale: en
 title: "Infiltrating the Airship"
 description: "Henry Stickmin heist: choose gadgets and routes to board an airship, trigger gags, and unlock multiple endings with scene replays." 
 iframeSrc: "https://rebemanae.github.io/infiltrating-the-airship/"
-thumbnail: "/new-images/infiltrating-the-airship.jpg"
+thumbnail: /new-images/thumbnails/infiltrating-the-airship.jpg
 urlstr: "infiltrating-the-airship"
 score: "4.4/5  (982 votes)"
 tags: ["adventure", "point-and-click"]

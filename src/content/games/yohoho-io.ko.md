@@ -7,7 +7,7 @@ description: >-
   몸집과 공격 범위를 키우고, 칼 공격과 대시를 활용해 다른 해적들을 쓰러뜨리며 안전 지대 안에서
   끝까지 살아남으세요.
 iframeSrc: 'https://bitlifeonline.github.io/class16523/yohoho-io/'
-thumbnail: /new-images/yohoho-io.jpg
+thumbnail: /new-images/thumbnails/yohoho-io.jpg
 tags:
   - io-game
   - battle-royale

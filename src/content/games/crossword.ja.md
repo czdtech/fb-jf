@@ -2,7 +2,7 @@
 title: Crossword クロスワード
 description: 「Crossword」で脳のトレーニング。タテとヨコの手がかりを元に、グリッドを単語で満たそう。すべての文字がピタリと合う快感を。
 iframeSrc: 'https://ad-freegames.github.io/flash/game/crossword.html'
-thumbnail: /new-images/crossword.jpg
+thumbnail: /new-images/thumbnails/crossword.jpg
 urlstr: crossword
 score: 4.8/5  (195 votes)
 tags:

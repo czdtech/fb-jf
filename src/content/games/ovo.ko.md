@@ -7,7 +7,7 @@ description: >-
   벽 점프를 활용해 복잡한 스테이지를 가능한 한 빠르게 돌파해 보세요.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20230129/1/index.html
-thumbnail: /new-images/ovo.jpg
+thumbnail: /new-images/thumbnails/ovo.jpg
 tags:
   - platformer
   - parkour

@@ -2,7 +2,7 @@
 title: Slippery Slope
 description: Slippery Slopeはスキーで滑り降りるアクションです。障害物を避けながらスピードに対応し、できるだけ先へ進みます。
 iframeSrc: 'https://slipperyslope.h5games.usercontent.goog/v/5k9j2m8h7p3n8/'
-thumbnail: /new-images/slippery-slope.png
+thumbnail: /new-images/thumbnails/slippery-slope.jpg
 urlstr: slippery-slope
 score: 4.1/5  (1867 votes)
 tags:

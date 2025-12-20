@@ -7,7 +7,7 @@ description: >-
   salvaje oeste, apuntando con precisión para eliminar a bandidos desde la
   distancia en escenarios llenos de coberturas y objetivos.
 iframeSrc: 'https://g3.igroutka.ru/games/164/uYZooJ3YhyE4fMF7/5/western_sniper/'
-thumbnail: /new-images/western-sniper.jpg
+thumbnail: /new-images/thumbnails/western-sniper.png
 tags:
   - action
   - shooting

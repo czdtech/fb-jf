@@ -2,7 +2,7 @@
 title: "Blob Opera ブロブ・オペラ"
 description: "「Blob Opera」で4匹の可愛いブロブたちを指揮して、あなただけのオペラを作曲しよう。音楽の才能は不要！機械学習が生み出す不思議で美しい歌声を楽しむインタラクティブ体験。"
 iframeSrc: "https://gacembed.withgoogle.com/blob-opera/"
-thumbnail: "/new-images/blob-opera.jpg"
+thumbnail: /new-images/thumbnails/blob-opera.jpg
 urlstr: "blob-opera"
 score: "4.1/5  (617 votes)"
 tags: ["music", "casual"]

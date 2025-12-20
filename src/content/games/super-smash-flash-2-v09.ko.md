@@ -6,7 +6,7 @@ description: >-
   Super Smash Flash 2 v0.9는 다양한 게임·애니 캐릭터가 난투를 벌이는 팬 메이드 대전 액션 게임의 업데이트 버전입니다.
   신규 캐릭터와 스테이지가 추가되어 더욱 풍성한 대전을 즐길 수 있습니다.
 iframeSrc: 'https://super-smash-flash-2-v09.h5games.usercontent.goog/v/1gcabau9q9m8o/'
-thumbnail: /new-images/super-smash-flash-2-v09.jpg
+thumbnail: /new-images/thumbnails/super-smash-flash-2-v09.jpg
 tags:
   - fighting
   - action

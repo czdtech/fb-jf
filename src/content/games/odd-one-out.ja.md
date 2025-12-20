@@ -2,7 +2,7 @@
 title: Odd One Out
 description: Odd One Outは観察パズルゲームです。並んだアイテムの中から異なるものを見つけ、違いを見抜きます。
 iframeSrc: 'https://oddoneout.h5games.usercontent.goog/v/3m5k7j9h2p8n8/'
-thumbnail: /new-images/odd-one-out.png
+thumbnail: /new-images/thumbnails/odd-one-out.jpg
 urlstr: odd-one-out
 score: 4.1/5  (1834 votes)
 tags:

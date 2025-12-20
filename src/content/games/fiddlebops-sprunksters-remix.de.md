@@ -7,7 +7,7 @@ description: >-
   Stil kombiniert: stylische Charaktere, neue Sounds und ein cooles
   "Dual-World"-Feature für extra Abwechslung.
 iframeSrc: 'https://turbowarp.org/1149194527/embed'
-thumbnail: /fiddlebops-sprunksters-remix.png
+thumbnail: /new-images/thumbnails/fiddlebops-sprunksters-remix.png
 tags:
   - fiddlebops sprunksters remix
 score: 4.1/5  (127 votes)

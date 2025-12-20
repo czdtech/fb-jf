@@ -5,7 +5,7 @@ urlstr: "sprunki-abgerny"
 title: "Sprunki Abgerny - 在线玩 Sprunki Abgerny"
 description: "Sprunki Abgerny 不仅仅是一款普通的音乐游戏，它是对古老文化的致敬，也是对音乐无限可能性的探索。"
 iframeSrc: "https://turbowarp.org/1095335052/embed"
-thumbnail: "/sprunki-abgerny.png"
+thumbnail: /new-images/thumbnails/sprunki-abgerny.png
 score: "3.9/5  (132 票)"
 tags: ["sprunki abgerny"]
 ---

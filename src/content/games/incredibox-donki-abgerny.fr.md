@@ -7,7 +7,7 @@ description: >-
   et chants soul dans un mod qui transforme Incredibox en rituel musical
   ancestral.
 iframeSrc: 'https://turbowarp.org/1135326100/embed'
-thumbnail: /incredibox-donki-abgerny.png
+thumbnail: /new-images/thumbnails/incredibox-donki-abgerny.png
 tags:
   - incredibox donki abgerny
 score: 4.3/5  (154 votes)

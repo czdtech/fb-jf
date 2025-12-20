@@ -7,7 +7,7 @@ description: >-
   타일을 합쳐 상위 단계로 만들고, 안개를 걷어 새로운 지역을 열어 가는 것이
   특징입니다. 효율적인 머지 체인과 퀘스트 동선을 설계해 왕국을 키워 보세요.
 iframeSrc: 'https://620tnu7381eao.h5games.usercontent.goog/v/27p309rk86cr8/'
-thumbnail: /new-images/mergest-kingdom.png
+thumbnail: /new-images/thumbnails/mergest-kingdom.png
 tags:
   - puzzle
   - adventure

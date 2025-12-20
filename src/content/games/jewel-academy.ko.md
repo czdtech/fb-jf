@@ -6,7 +6,7 @@ description: >-
   수백 개의 스테이지를 가진 3매치 퍼즐 게임 'Jewel Academy' 가이드입니다. 특수 보석을 만드는 콤보 요령과 스테이지별 목표를
   효율적으로 달성하는 전략을 정리했습니다.
 iframeSrc: 'https://jewelacademy.h5games.usercontent.goog/v/2krc7uv2m9998/'
-thumbnail: /new-images/jewel-academy.png
+thumbnail: /new-images/thumbnails/jewel-academy.png
 tags:
   - puzzle
   - casual

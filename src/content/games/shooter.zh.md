@@ -4,7 +4,7 @@ urlstr: shooter
 title: 《Shooter》经典街机射击挑战
 description: 《Shooter》是一款节奏快速的街机风射击游戏。操控你的飞船或角色在弹雨中穿梭，精准击落敌人、躲避子弹，并通过拾取强化道具不断提升火力。
 iframeSrc: 'https://shooter.h5games.usercontent.goog/v/2g7r9t1p9q3mg/'
-thumbnail: /new-images/shooter.png
+thumbnail: /new-images/thumbnails/shooter.jpg
 tags:
   - shooting
   - arcade

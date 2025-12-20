@@ -7,7 +7,7 @@ description: >-
   액션 격투 게임입니다. 주먹과 발차기, 다양한 무기를 활용해 마지막까지
   살아남는 스틱맨이 되어 보세요.
 iframeSrc: 'https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221209/4/index.html'
-thumbnail: /new-images/stick-fighter.jpg
+thumbnail: /new-images/thumbnails/stick-fighter.jpg
 tags:
   - fighting
   - action

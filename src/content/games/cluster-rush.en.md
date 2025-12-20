@@ -4,7 +4,7 @@ locale: en
 title: "Cluster Rush"
 description: "Master the art of truck-jumping in Cluster Rush with our detailed guide. Get gameplay strategies, controls, tips, and answers to common questions for this intense first-person platformer."
 iframeSrc: "https://clusterrush.io/game/cluster-rush/"
-thumbnail: "/new-images/cluster-rush.jpg"
+thumbnail: /new-images/thumbnails/cluster-rush.jpg
 urlstr: "cluster-rush"
 score: "4.6/5  (1082 votes)"
 tags: ["platformer", "parkour"]

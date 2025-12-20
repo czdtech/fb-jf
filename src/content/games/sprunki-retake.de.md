@@ -7,7 +7,7 @@ description: >-
   Sprunki Retake der richtige Mod für dich: Ein Mix aus Sprunki-Charme,
   Gruselstimmung und frischen Figuren.
 iframeSrc: 'https://www.minijuegos.com/embed/sprunki-retake'
-thumbnail: /sprunki-retake.png
+thumbnail: /new-images/thumbnails/sprunki-retake.png
 tags:
   - sprunki retake
   - sprunki retake online

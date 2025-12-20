@@ -4,7 +4,7 @@ locale: en
 title: "Superhot"
 description: "Superhot is an innovative first-person shooter where time moves only when you move, creating a unique tactical puzzle experience that combines action with strategic planning."
 iframeSrc: "https://superhotgame.com/superhot-prototype-iframe"
-thumbnail: "/new-images/superhot.jpg"
+thumbnail: /new-images/thumbnails/superhot.jpg
 urlstr: "superhot"
 score: "3.9/5  (1186 votes)"
 tags: ["shooting", "strategy", "manipulation"]

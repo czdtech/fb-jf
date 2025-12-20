@@ -4,7 +4,7 @@ description: >-
   「Dumb Ways to
   Die」はブラックユーモア溢れる瞬間ミニゲーム集。数秒の制限時間内に正しいアクションを行い、キャラクターたちをおバカな死から救え。
 iframeSrc: 'https://html5.iclouds.io/dumb-ways-die/'
-thumbnail: /new-images/dumb-ways-to-die.jpg
+thumbnail: /new-images/thumbnails/dumb-ways-to-die.jpg
 urlstr: dumb-ways-to-die
 score: 3.9/5  (534 votes)
 tags:

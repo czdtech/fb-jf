@@ -2,7 +2,7 @@
 title: Electron Dash エレクトロン・ダッシュ
 description: 「Electron Dash」は高速トンネル・ランナー。回転する足場をジャンプし、ダッシュで駆け抜け、どこまでも走り続けろ。
 iframeSrc: 'https://slope-game.github.io/electron-dash/'
-thumbnail: /new-images/electron-dash.jpg
+thumbnail: /new-images/thumbnails/electron-dash.jpg
 urlstr: electron-dash
 score: 4.4/5  (1386 votes)
 tags:

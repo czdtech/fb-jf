@@ -3,7 +3,7 @@ locale: en
 title: "Solitaire 2048"
 description: "Solitaire 2048 merges 2048 with card flow — place numbered cards to combine values and manage lanes for big chains."
 iframeSrc: "https://041gj41756cjg.h5games.usercontent.goog/v/7n148hti57veo/"
-thumbnail: "/new-images/solitaire-2048.png"
+thumbnail: /new-images/thumbnails/solitaire-2048.png
 urlstr: "solitaire-2048"
 score: "4.1/5  (1961 votes)"
 tags: ["card", "puzzle", "thinky"]

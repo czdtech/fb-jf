@@ -4,7 +4,7 @@ urlstr: fiddlebops-fix
 title: "Fiddlebops Fix - 在线玩 Fiddlebops Fix"
 description: "Fiddlebops Fix 是一款创意音乐游戏，玩家可以创作曲目、探索互动故事，并与充满活力的社区互动，完全免费在线游玩。"
 iframeSrc: 'https://turbowarp.org/1131610529/embed'
-thumbnail: /fiddlebops-polos.png
+thumbnail: /new-images/thumbnails/fiddlebops-fix.png
 tags:
   - fiddlebops fix
 score: 4.6/5 (217 票)

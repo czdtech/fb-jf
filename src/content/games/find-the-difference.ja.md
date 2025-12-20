@@ -2,7 +2,7 @@
 title: "Find the Difference"
 description: "目を鋭くし、細部への注意力をテストしましょう！ほぼ同じ2つの画像を比較し、時間切れ前にすべての違いを見つけましょう。"
 iframeSrc: "https://findthedifference.h5games.usercontent.goog/v/0tambv0iojsn8/"
-thumbnail: "/new-images/find-the-difference.jpg"
+thumbnail: /new-images/thumbnails/find-the-difference.jpg
 urlstr: "find-the-difference"
 score: "4.3/5  (2100 votes)"
 tags: ["puzzle", "casual", "thinky"]

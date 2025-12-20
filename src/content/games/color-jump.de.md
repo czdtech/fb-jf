@@ -6,7 +6,7 @@ description: >-
   Color Jump ist ein One-Tap-Runner – gleiche Farben ab, timinge deine Sprünge
   und bahne dir einen Weg durch ständig wechselnde Muster.
 iframeSrc: 'https://2sqb7s6hkuouo.h5games.usercontent.goog/v/251huhkdnons0/'
-thumbnail: /new-images/color-jump.png
+thumbnail: /new-images/thumbnails/color-jump.png
 tags:
   - action
   - casual

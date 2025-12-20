@@ -7,7 +7,7 @@ description: >-
   clásica mezcla musical de Sprunki en una fiesta de bromas, sustos y giros
   inesperados.
 iframeSrc: 'https://html-classic.itch.zone/html/14324321/index.html'
-thumbnail: /sprunki-phase-2-5.png
+thumbnail: /new-images/thumbnails/sprunki-phase-2-5.png
 tags:
   - sprunki phase 2.5
 score: 4.3/5  (218 votes)

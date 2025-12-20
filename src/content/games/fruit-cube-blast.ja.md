@@ -2,7 +2,7 @@
 title: "Fruit Cube Blast"
 description: "Fruit Cube Blastでジューシーなレベルをブラストしましょう！マッチするフルーツキューブのグループをタップして爆発的なコンボを作り、この楽しいカラフルなパズルゲームでボードをクリアしましょう。"
 iframeSrc: "https://5pj67mkaqugmo.h5games.usercontent.goog/v/151if1r687t30/"
-thumbnail: "/new-images/fruit-cube-blast.jpg"
+thumbnail: /new-images/thumbnails/fruit-cube-blast.jpg
 urlstr: "fruit-cube-blast"
 score: "4.2/5  (1770 votes)"
 tags: ["puzzle", "casual", "clicker"]

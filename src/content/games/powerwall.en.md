@@ -3,7 +3,7 @@ locale: en
 title: "Powerwall"
 description: "Defend your goal in Powerwall, a fast-paced arcade game. Use your paddle to block incoming balls and unleash powerful abilities."
 iframeSrc: "https://powerwall2.h5games.usercontent.goog/v/2744b7jm5t0jg/"
-thumbnail: "/new-images/powerwall.png"
+thumbnail: /new-images/thumbnails/powerwall.png
 urlstr: "powerwall"
 score: "4.1/5  (987 votes)"
 tags: ["action", "sports", "casual"]

@@ -7,7 +7,7 @@ description: >-
   kleinen Pets in diesem farbenfrohen Match-3-Abenteuer, bilde Reihen aus drei
   oder mehr gleichen Figuren und erfülle die Ziele jedes Levels.
 iframeSrc: 'https://jewelpetsmatch.h5games.usercontent.goog/v/2kcabvevoilco/'
-thumbnail: /new-images/jewel-pets-match.png
+thumbnail: /new-images/thumbnails/jewel-pets-match.png
 tags:
   - puzzle
   - casual

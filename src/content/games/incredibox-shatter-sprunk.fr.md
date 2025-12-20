@@ -7,7 +7,7 @@ description: >-
   jaunes percutants, gameplay drag‑and‑drop classique et combos à découvrir pour
   déclencher des animations spéciales.
 iframeSrc: 'https://turbowarp.org/1144858827/embed'
-thumbnail: /incredibox-shatter-sprunk.png
+thumbnail: /new-images/thumbnails/incredibox-shatter-sprunk.png
 tags:
   - incredibox shatter sprunk
   - incredibox shatter sprunk online

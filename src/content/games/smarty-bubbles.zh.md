@@ -4,7 +4,7 @@ urlstr: smarty-bubbles
 title: 《Smarty Bubbles》聪明泡泡
 description: 《Smarty Bubbles》是一款经典的消除类泡泡射击游戏。通过发射彩色泡泡，让三个及以上相同颜色的泡泡相连并消除，清空屏幕中的泡泡阵。
 iframeSrc: 'https://smartybubbles.h5games.usercontent.goog/v/5q7x2vdz7okp0/'
-thumbnail: /new-images/smarty-bubbles.png
+thumbnail: /new-images/thumbnails/smarty-bubbles.png
 tags:
   - bubble shooter
   - puzzle

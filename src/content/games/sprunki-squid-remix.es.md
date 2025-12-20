@@ -7,7 +7,7 @@ description: >-
   imágenes icónicas de El juego del calamar con la libertad creativa de Sprunki
   para crear una jugabilidad crossover que no se parece a nada.
 iframeSrc: 'https://turbowarp.org/1123885023/embed'
-thumbnail: /sprunki-squid-remix.png
+thumbnail: /new-images/thumbnails/sprunki-squid-remix.png
 tags:
   - sprunki squid remix
 score: 4.1/5  (92 votes)

@@ -6,7 +6,7 @@ description: >-
   전설적인 방치형 클릭 게임 Cookie Clicker를 위한 종합 가이드입니다. 승천 타이밍, 황금 쿠키 활용법과 각종 전략, 자주 묻는
   질문을 통해 쿠키 생산량을 극대화해 보세요.
 iframeSrc: 'https://freeonlinegames.github.io/cookie-clicker/'
-thumbnail: /new-images/cookie-clicker.jpg
+thumbnail: /new-images/thumbnails/cookie-clicker.jpg
 tags:
   - casual
   - clicker

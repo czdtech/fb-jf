@@ -3,7 +3,7 @@ locale: en
 title: "2020 Connect"
 description: "2020 Connect is a number‑merge puzzler — connect equal tiles, create higher values, and manage space for big chains."
 iframeSrc: "https://4l7qr4mfc8o80.h5games.usercontent.goog/v/5sm797oi4heu0/"
-thumbnail: "/new-images/2020-connect.png"
+thumbnail: /new-images/thumbnails/2020-connect.png
 urlstr: "2020-connect"
 score: "4.2/5  (1965 votes)"
 tags: ["puzzle", "thinky"]

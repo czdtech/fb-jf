@@ -4,7 +4,7 @@ urlstr: infiltrating-the-airship
 title: "《Infiltrating the Airship》潜入飞船"
 description: "《Infiltrating the Airship》是《Henry Stickmin》系列的一部劫案篇，你要为火柴人亨利选择各式道具与路线潜入飞船，用各种离谱选择解锁不同结局与彩蛋场景。"
 iframeSrc: 'https://rebemanae.github.io/infiltrating-the-airship/'
-thumbnail: /new-images/infiltrating-the-airship.jpg
+thumbnail: /new-images/thumbnails/infiltrating-the-airship.jpg
 tags:
   - adventure
   - point-and-click

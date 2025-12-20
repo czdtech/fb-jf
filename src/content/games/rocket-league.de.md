@@ -8,7 +8,7 @@ description: >-
   einen Riesenspielball in das Tor des Gegners zu schießen – inklusive
   spektakulärer Luftduelle.
 iframeSrc: 'https://ubg77.github.io/edit/rocket-soccer-derby/'
-thumbnail: /new-images/rocket-league.jpg
+thumbnail: /new-images/thumbnails/rocket-league.jpg
 tags:
   - sports
   - racing

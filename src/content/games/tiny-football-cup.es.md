@@ -5,7 +5,7 @@ title: "Tiny Football Cup - Minipartidos de fútbol"
 description: >-
   Tiny Football Cup condensa el fútbol en partidos rápidos: pasa pronto, temporiza tus disparos y gana encuentros relámpago con buen posicionamiento.
 iframeSrc: 'https://67buf3k7fmhlg.h5games.usercontent.goog/v/4r92r0smsurf0/'
-thumbnail: /new-images/tiny-football-cup.png
+thumbnail: /new-images/thumbnails/tiny-football-cup.png
 tags:
   - sports
   - soccer

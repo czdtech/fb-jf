@@ -4,7 +4,7 @@ urlstr: cowboys-vs-aliens
 title: Cowboys vs Aliens
 description: "Cowboys vs Aliens mélange western et science‑fiction\_: défends ta ville avec ton revolver, vise vite et élimine les envahisseurs venus de l’espace."
 iframeSrc: 'https://cowboysvsaliens.h5games.usercontent.goog/v/3e45cncqb6d4g/'
-thumbnail: /new-images/cowboys-vs-aliens.png
+thumbnail: /new-images/thumbnails/cowboys-vs-aliens.jpg
 tags:
   - action
   - shooting

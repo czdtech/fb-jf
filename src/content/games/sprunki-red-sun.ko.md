@@ -7,7 +7,7 @@ description: >-
   모드입니다. 강렬한 붉은 비주얼과 폭발적인 비트로, 불길한 종말 감성의
   하드한 트랙을 만들 수 있습니다.
 iframeSrc: 'https://kdata1.com/2025/02/sprunki-x-redsun/'
-thumbnail: /sprunki-red-sun.png
+thumbnail: /new-images/thumbnails/sprunki-red-sun.png
 tags:
   - sprunki red sun
 score: 4.4/5  (232 votes)

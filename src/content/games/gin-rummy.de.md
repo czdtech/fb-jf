@@ -7,7 +7,7 @@ description: >-
   Bilde Sätze und Straßen, reduziere deinen "Deadwood"-Wert (unpassende Karten)
   und klopfe im richtigen Moment, um mehr Punkte als dein Gegner zu erzielen.
 iframeSrc: 'https://ginrummy.h5games.usercontent.goog/v/1sj72j2nsfin0/'
-thumbnail: /new-images/gin-rummy.png
+thumbnail: /new-images/thumbnails/gin-rummy.png
 tags:
   - card
   - puzzle

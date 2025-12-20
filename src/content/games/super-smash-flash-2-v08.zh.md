@@ -5,7 +5,7 @@ title: 'Super Smash Flash 2: Demo v0.8b'
 description: >-
   传奇粉丝自制格斗游戏 Super Smash Flash 2 强势回归！从更庞大的经典角色阵容中选择你的战士，在精致流畅的平台格斗中展开激烈对决。掌握高级技巧，与好友或电脑对手一较高下，证明你的实力。
 iframeSrc: 'https://kdata1.com/games/SSF22/?kbhgames'
-thumbnail: /new-images/super-smash-flash-2-v08.jpg
+thumbnail: /new-images/thumbnails/super-smash-flash-2-v08.jpg
 tags:
   - fighting
   - platformer

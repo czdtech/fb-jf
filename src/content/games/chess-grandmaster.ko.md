@@ -7,7 +7,7 @@ description: >-
   오프닝, 미들게임 전술, 엔드게임 기본기를 단계별로 익히며 그랜드마스터를
   향해 실력을 쌓아 보세요.
 iframeSrc: 'https://6kf8oom91mt10.h5games.usercontent.goog/v/01dag2rajhv1g/'
-thumbnail: /new-images/chess-grandmaster.jpg
+thumbnail: /new-images/thumbnails/chess-grandmaster.jpg
 tags:
   - thinky
   - puzzle

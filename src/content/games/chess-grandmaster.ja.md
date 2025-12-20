@@ -2,7 +2,7 @@
 title: Chess Grandmaster チェス・グランドマスター
 description: 「Chess Grandmaster」で本格的なチェス対局を。オープニング理論、中盤の戦術、そしてエンドゲームの基礎を学び、グランドマスターへの道を歩め。
 iframeSrc: 'https://6kf8oom91mt10.h5games.usercontent.goog/v/01dag2rajhv1g/'
-thumbnail: /new-images/chess-grandmaster.jpg
+thumbnail: /new-images/thumbnails/chess-grandmaster.jpg
 urlstr: chess-grandmaster
 score: 4.5/5  (2431 votes)
 tags:

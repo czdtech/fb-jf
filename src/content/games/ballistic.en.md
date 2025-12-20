@@ -4,7 +4,7 @@ locale: en
 title: "Ballistic game"
 description: "A guide to the physics-based arcade game Ballistic. Learn how to aim, collect extra balls, use power-ups, and achieve high scores by clearing numbered blocks before they reach the bottom."
 iframeSrc: "https://ams.cdn.arkadiumhosted.com/assets/global/game/ballistic/"
-thumbnail: "/new-images/ballistic.jpg"
+thumbnail: /new-images/thumbnails/ballistic.jpg
 urlstr: "ballistic"
 score: "4.5/5  (764 votes)"
 tags: ["puzzle", "casual"]

@@ -4,7 +4,7 @@ urlstr: cat-mario
 title: Cat Mario 折磨版猫里奥
 description: 《Cat Mario 折磨版猫里奥》是一款以极高难度和恶意机关著称的横版平台游戏，玩家操控白色小猫在处处是陷阱的关卡中不断尝试前进。
 iframeSrc: 'https://tiwb.github.io/catmario/'
-thumbnail: /new-images/cat-mario.jpg
+thumbnail: /new-images/thumbnails/cat-mario.jpg
 tags:
   - platformer
   - casual

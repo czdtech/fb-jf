@@ -6,7 +6,7 @@ description: >-
   Meistere das Grundprinzip der Bloons‑Tower‑Defense‑Reihe: Platziere Affentürme,
   verbessere sie und stoppe jede Bloon‑Welle, bevor sie das Ziel erreicht.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/bloons-tower-defense.html'
-thumbnail: /new-images/bloons-td.jpg
+thumbnail: /new-images/thumbnails/bloons-td.jpg
 tags:
   - casual
   - strategy

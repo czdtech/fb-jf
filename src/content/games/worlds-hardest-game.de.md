@@ -7,7 +7,7 @@ description: >-
   Steuere ein rotes Quadrat durch Level voller beweglicher blauer Kreise – nur
   mit perfektem Timing und viel Geduld schaffst du es ins Ziel.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/the-worlds-hardest-game.html'
-thumbnail: /new-images/worlds-hardest-game.jpg
+thumbnail: /new-images/thumbnails/worlds-hardest-game.jpg
 tags:
   - difficulty
   - arcade

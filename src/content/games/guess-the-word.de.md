@@ -7,7 +7,7 @@ description: >-
   Mustererkennung und fülle Kreuzwort-Gitter mit deinem Wortschatz und etwas
   Kombinationsgabe.
 iframeSrc: 'https://5e2trj00jcfog.h5games.usercontent.goog/v/1hrc6f7979nig/'
-thumbnail: /new-images/guess-the-word.png
+thumbnail: /new-images/thumbnails/guess-the-word.png
 tags:
   - puzzle
   - thinky

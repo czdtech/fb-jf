@@ -3,7 +3,7 @@ locale: en
 title: "Word Search"
 description: "The classic word-finding puzzle. Find all the hidden words in the letter grid. Words can be hidden horizontally, vertically, or diagonally—and even backwards!"
 iframeSrc: "https://wordsearch.h5games.usercontent.goog/v/6abe3eefqt368/"
-thumbnail: "/new-images/word-search-2.jpg"
+thumbnail: /new-images/thumbnails/word-search-2.jpg
 urlstr: "word-search-2"
 score: "4.5/5  (2800 votes)"
 tags: ["puzzle", "thinky", "casual"]

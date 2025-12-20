@@ -7,7 +7,7 @@ description: >-
   dé, déplace tes pions et remporte la course vers le centre du plateau avant
   tes adversaires.
 iframeSrc: 'https://ludolegend.h5games.usercontent.goog/v/613uvcaa3eiqo/'
-thumbnail: /new-images/ludo-legend.png
+thumbnail: /new-images/thumbnails/ludo-legend.png
 tags:
   - 2 player
   - card

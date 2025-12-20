@@ -7,7 +7,7 @@ description: >-
   Leitern hinauf, rutsche auf Schlangen hinunter und sei als Erster auf dem
   Zielfeld, um diese zeitlose Familienpartie zu gewinnen.
 iframeSrc: 'https://cdn.gamesnacks.com/snakesandladders/gameCode/index.html'
-thumbnail: /new-images/snakes-and-ladders.jpg
+thumbnail: /new-images/thumbnails/snakes-and-ladders.jpg
 tags:
   - board-game
   - classic

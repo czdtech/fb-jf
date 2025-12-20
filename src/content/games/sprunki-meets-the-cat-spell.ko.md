@@ -6,7 +6,7 @@ description: >-
   Sprunki Meets The Cat Spell은 기존 고양이 테마 모드를 다시 다듬은 스프룽키 모드로,
   귀여운 고양이 귀와 고양이 컨셉을 입은 캐릭터들로 음악을 만드는 게임입니다.
 iframeSrc: 'https://turbowarp.org/1149710266/embed'
-thumbnail: /sprunki-meets-the-cat-spell.png
+thumbnail: /new-images/thumbnails/sprunki-meets-the-cat-spell.png
 tags:
   - sprunki meets the cat spell
   - sprunki meets the cat spell online

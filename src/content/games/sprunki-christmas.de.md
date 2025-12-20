@@ -7,7 +7,7 @@ description: >-
   Musik komponierst: Sammle Geschenke, löse kleine Rätsel und begleite die
   Sprunki-Figuren mit weihnachtlichen Klängen durch verschneite Level.
 iframeSrc: 'https://turbowarp.org/1104040581/embed'
-thumbnail: /sprunki-christmas.png
+thumbnail: /new-images/thumbnails/sprunki-christmas.png
 tags:
   - sprunki christmas
 score: 4.6/5  (486 votes)

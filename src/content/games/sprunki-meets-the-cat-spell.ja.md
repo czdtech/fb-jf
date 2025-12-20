@@ -2,7 +2,7 @@
 title: "Sprunki Meets The Cat Spell - Play Sprunki Meets The Cat Spell Online"
 description: "このModは、「Sprunki Cats Game」というタイトルの既存のModのリワーク版です。"
 iframeSrc: "https://turbowarp.org/1149710266/embed"
-thumbnail: "/sprunki-meets-the-cat-spell.png"
+thumbnail: /new-images/thumbnails/sprunki-meets-the-cat-spell.png
 urlstr: "sprunki-meets-the-cat-spell"
 score: "4.8/5  (649 votes)"
 tags: ["sprunki meets the cat spell", "sprunki meets the cat spell online"]

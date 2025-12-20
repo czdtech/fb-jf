@@ -7,7 +7,7 @@ description: >-
   가이드입니다. 방향키만으로 펀치·킥·회피를 구사하고,
   적이 던진 무기를 되받아쳐 높은 점수를 노려 보세요.
 iframeSrc: 'https://webglmath.github.io/iron-snout/'
-thumbnail: /new-images/iron-snout.jpg
+thumbnail: /new-images/thumbnails/iron-snout.jpg
 tags:
   - fighting
   - arcade

@@ -4,7 +4,7 @@ urlstr: dice-puzzle
 title: Dice Puzzle
 description: "Dice Puzzle est un puzzle malin\_: place des dés sur une grille 5×5, fusionne les mêmes valeurs pour créer des dés plus puissants et vise le cube‑bijou."
 iframeSrc: 'https://0vfcifju4i900.h5games.usercontent.goog/v/2jg90liogd5f8/'
-thumbnail: /new-images/dice-puzzle.jpg
+thumbnail: /new-images/thumbnails/dice-puzzle.jpg
 tags:
   - puzzle
   - thinky

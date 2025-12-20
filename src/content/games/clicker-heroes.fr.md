@@ -5,7 +5,7 @@ title: Clicker Heroes
 description: "Lance‑toi dans Clicker Heroes, le clicker/RPG culte\_: clique pour vaincre des monstres, recrute des héros, améliore‑les, puis utilise l’Ascension pour recommencer plus fort à chaque run."
 iframeSrc: >-
   https://6hokceol9i6htuq3to2e7gp3kma06u7o-a-sites-opensocial.googleusercontent.com/gadgets/ifr?url=https://727966070-615951093773969739.preview.editmysite.com/uploads/b/139890129-430926410755605163/files/clicker-heroes.xml
-thumbnail: /new-images/clicker-heroes.jpg
+thumbnail: /new-images/thumbnails/clicker-heroes.jpg
 tags:
   - casual
   - clicker

@@ -6,7 +6,7 @@ description: >-
   다채로운 보석 세계에서 모험을 즐기는 3매치 퍼즐 게임 'Jewel Legend' 가이드입니다. 특수 보석과 콤보를 활용해 수백 개의
   스테이지를 공략하는 방법을 소개합니다.
 iframeSrc: 'https://jewellegend.h5games.usercontent.goog/v/36cb1hitjsa3o/'
-thumbnail: /new-images/jewel-legend.png
+thumbnail: /new-images/thumbnails/jewel-legend.png
 tags:
   - puzzle
   - casual

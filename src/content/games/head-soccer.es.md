@@ -6,7 +6,7 @@ description: >-
   Fútbol arcade 1v1 con cabezas gigantes: salta, chuta y usa tiros especiales
   para marcar más goles que tu rival en partidos cortos.
 iframeSrc: 'https://1games.io/game/head-soccer-2024/'
-thumbnail: /new-images/head-soccer.jpg
+thumbnail: /new-images/thumbnails/head-soccer.jpg
 tags:
   - sports
   - soccer

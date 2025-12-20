@@ -7,7 +7,7 @@ description: >-
   findest du detaillierte Strategien, Steuerungstipps und Antworten auf häufige
   Fragen, um diesen anspruchsvollen Side‑Scroller von The Behemoth zu meistern.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/alien-hominid.html'
-thumbnail: /new-images/alien-hominid.jpg
+thumbnail: /new-images/thumbnails/alien-hominid.jpg
 tags:
   - shooting
   - action

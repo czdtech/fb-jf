@@ -4,7 +4,7 @@ modType: incredibox
 title: "Incredibox Instrumentalist"
 description: "Incredibox Instrumentalist This guide details its unique gameplay of summoning instruments to the stage and its eclectic world music palette, creating a purely instrumental orchestra"
 iframeSrc: "https://turbowarp.org/1040856097/embed"
-thumbnail: "/new-images/incredibox-instrumentalist.png"
+thumbnail: /new-images/thumbnails/incredibox-instrumentalist.png
 urlstr: "incredibox-instrumentalist"
 score: "4.8/5 (2045 votes)"
 tags: ["music", "sandbox", "instrumental"]

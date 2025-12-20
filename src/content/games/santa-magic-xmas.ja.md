@@ -2,7 +2,7 @@
 title: Santa Magic Xmas
 description: Santa Magic Xmasはサンタのアドベンチャーゲームです。魔法を使いながらプレゼントを配達し、時間内のクリアを目指します。
 iframeSrc: 'https://santamagicxmas.h5games.usercontent.goog/v/5k9j2m8h7p3n8/'
-thumbnail: /new-images/santa-magic-xmas.png
+thumbnail: /new-images/thumbnails/santa-magic-xmas.png
 urlstr: santa-magic-xmas
 score: 4.0/5  (1723 votes)
 tags:

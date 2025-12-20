@@ -8,7 +8,7 @@ description: >-
   evolucionar tu ejército desde cavernícolas hasta guerreros futuristas y
   dominar el campo de batalla.
 iframeSrc: 'https://turbowarp.org/414716080/embed'
-thumbnail: /new-images/age-of-war.jpg
+thumbnail: /new-images/thumbnails/incredibox-fruity.jpg
 tags:
   - strategy
   - action

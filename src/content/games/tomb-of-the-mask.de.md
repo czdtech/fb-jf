@@ -4,7 +4,7 @@ urlstr: tomb-of-the-mask
 title: "Tomb of the Mask"
 description: "Rase durch gefährliche Labyrinthe in Tomb of the Mask: Wische dich von Wand zu Wand, sammle Münzen und Power‑ups und entkomme der aufsteigenden Flut, bevor sie dich erwischt."
 iframeSrc: 'https://w8.snokido.com/games/unity-webgl/tomb-run/index.html'
-thumbnail: /new-images/tomb-of-the-mask.jpg
+thumbnail: /new-images/thumbnails/tomb-of-the-mask.jpg
 tags:
   - arcade
   - maze

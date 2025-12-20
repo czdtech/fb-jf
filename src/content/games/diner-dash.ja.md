@@ -2,7 +2,7 @@
 title: Diner Dash ダイナー・ダッシュ
 description: 「Diner Dash」はタイムマネジメントゲームの金字塔。席に案内し、注文を取り、食事を運び、片付ける。多忙なレストランを切り盛りしよう。
 iframeSrc: 'https://ad-freegames.github.io/flash/game/diner-dash.html'
-thumbnail: /new-images/diner-dash.jpg
+thumbnail: /new-images/thumbnails/diner-dash.jpg
 urlstr: diner-dash
 score: 4.3/5  (691 votes)
 tags:

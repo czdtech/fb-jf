@@ -6,7 +6,7 @@ description: >-
   Checkers Legend는 고전 보드게임 체커스를 디지털로 즐길 수 있는 전략 게임입니다. 수를 앞서 읽고 상대 돌을 잡아내며,
   왕(King)으로 승격시켜 보드를 지배해 보세요.
 iframeSrc: 'https://checkerslegend.h5games.usercontent.goog/v/43mkj41ari948/'
-thumbnail: /new-images/checkers-legend.png
+thumbnail: /new-images/thumbnails/checkers-legend.png
 tags:
   - puzzle
   - thinky

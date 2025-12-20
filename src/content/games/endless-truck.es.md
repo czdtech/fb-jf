@@ -6,7 +6,7 @@ description: >-
   Endless Truck es un runner de acrobacias: controla el impulso, aterriza limpio
   y encadena impulsos de nitro mientras recoges dinero y mejoras para tu camión.
 iframeSrc: 'https://3a73fjju0knmg.h5games.usercontent.goog/v/5ammj72815kno/'
-thumbnail: /new-images/endless-truck.png
+thumbnail: /new-images/thumbnails/endless-truck.png
 tags:
   - car
   - driving

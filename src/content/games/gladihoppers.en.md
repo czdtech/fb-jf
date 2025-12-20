@@ -4,7 +4,7 @@ locale: en
 title: "Gladihoppers"
 description: "2D gladiator brawler with physics hops: customize gear, time lunges and parries, and climb arenas in duels or modes." 
 iframeSrc: "https://m.igroutka.ru/g-1/113/Gladihoppers/"
-thumbnail: "/new-images/gladihoppers.jpg"
+thumbnail: /new-images/thumbnails/gladihoppers.jpg
 urlstr: "gladihoppers"
 score: "3.7/5  (383 votes)"
 tags: ["fighting", "action"]

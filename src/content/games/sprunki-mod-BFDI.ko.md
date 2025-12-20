@@ -7,7 +7,7 @@ description: >-
   Island(BFDI)"의 오브젝트 캐릭터 감성을 더한 모드입니다. BFDI풍 오브젝트 캐릭터로 사운드를 쌓아, 독특한 느낌의 믹스를 만들
   수 있습니다.
 iframeSrc: 'https://turbowarp.org/1087434086/embed'
-thumbnail: /sprunki-mod-bfdi.png
+thumbnail: /new-images/thumbnails/sprunki-mod-BFDI.png
 tags:
   - sprunki mod bfdi
 score: 4.2/5  (347 votes)

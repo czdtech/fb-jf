@@ -8,7 +8,7 @@ description: >-
   el imponente Temple of the Monkey God y revienta hasta el último Bloon,
   incluido el temible ZOMG.
 iframeSrc: 'https://1000freegames.github.io/swf/bloons-tower-defense-5.html'
-thumbnail: /new-images/bloons-td-5.jpg
+thumbnail: /new-images/thumbnails/bloons-td-5.jpg
 tags:
   - casual
   - strategy

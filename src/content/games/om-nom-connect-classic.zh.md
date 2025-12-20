@@ -5,7 +5,7 @@ title: Om Nom 连连看经典版
 description: 在这款经典的方块匹配益智游戏中与 Om Nom 一起连接！找到 Om Nom 和他的朋友们的相同方块对，并通过不超过两个转弯的路径连接它们以清除棋盘。
 iframeSrc: >-
   https://omnomconnectclassic.h5games.usercontent.goog/v/6bc88dac-9f6b-4f2f-8c85-e715c899bb63/
-thumbnail: /new-images/om-nom-connect-classic.jpg
+thumbnail: /new-images/thumbnails/om-nom-connect-classic.jpg
 tags:
   - puzzle
   - casual

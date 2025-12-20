@@ -7,7 +7,7 @@ description: >-
   况下关闭机关、破解保险箱并带着目标战利品全身而退。
 iframeSrc: >-
   https://app-190385.games.s3.yandex.net/190385/i7ty94goiswe8ohxdysos1uzmur0yfwk/index.html
-thumbnail: /new-images/bob-the-robber.jpg
+thumbnail: /new-images/thumbnails/bob-the-robber.jpg
 tags:
   - stealth
   - puzzle

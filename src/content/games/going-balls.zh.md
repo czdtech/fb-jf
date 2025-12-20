@@ -7,7 +7,7 @@ description: >-
   收集金幣並在不掉落的前提下抵達終點。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp45/gamehwq/20231116/10/index.htm
-thumbnail: /new-images/going-balls.jpg
+thumbnail: /new-images/thumbnails/going-balls.jpg
 tags:
   - runner
   - balance

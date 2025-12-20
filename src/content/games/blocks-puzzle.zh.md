@@ -6,7 +6,7 @@ description: >-
   《Blocks Puzzle 经典方块拼图》是一款经典 10×10 方格方块游戏，将不同形状的方块拼进棋盘，凑满整行或整列
   即可消除，在没有时间压力的前提下尽可能长久地坚持并刷新高分。
 iframeSrc: 'https://6ljls661l4lkg.h5games.usercontent.goog/v/1mil2011qbul0/'
-thumbnail: /new-images/blocks-puzzle.jpg
+thumbnail: /new-images/thumbnails/blocks-puzzle.jpg
 tags:
   - puzzle
   - casual

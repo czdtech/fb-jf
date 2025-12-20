@@ -6,7 +6,7 @@ description: >-
   Bird Sort Quest convierte ordenar colores en un reto relajante. Mueve pájaros
   entre perchas, agrúpalos por color y planifica varios pasos por delante.
 iframeSrc: 'https://59c0fiphd7ng0.h5games.usercontent.goog/v/5cgtqofbdtd08/'
-thumbnail: /new-images/bird-sort-quest.png
+thumbnail: /new-images/thumbnails/bird-sort-quest.png
 tags:
   - puzzle
   - thinky

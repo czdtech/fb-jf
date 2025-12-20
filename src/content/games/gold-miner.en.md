@@ -4,7 +4,7 @@ locale: en
 title: "Gold Miner"
 description: "Hook‑and‑haul arcade classic: time your claw to snag gold and gems, buy power‑ups, and reach the target cash before time runs out." 
 iframeSrc: "https://ad-freegames.github.io/flash/game/gold-miner.html"
-thumbnail: "/new-images/gold-miner.jpg"
+thumbnail: /new-images/thumbnails/gold-miner.jpg
 urlstr: "gold-miner"
 score: "4.2/5  (260 votes)"
 tags: ["arcade", "skill"]

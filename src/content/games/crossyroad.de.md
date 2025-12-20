@@ -6,7 +6,7 @@ description: >-
   Crossy Road ist ein 8‑Bit-Endlos-Arcade-Hopper, in dem du ein Huhn sicher über
   Straßen, Flüsse und Gleise führen musst.
 iframeSrc: 'https://www.playfiddlebops.com/embed/crossyroad/index.html'
-thumbnail: /crossy-road.jpg
+thumbnail: /new-images/thumbnails/crossyroad.jpg
 tags:
   - crossy road
 score: 4.8/5  (1104 votes)

@@ -4,7 +4,7 @@ modType: incredibox
 title: "Incredibox Carol of the Bells"
 description: "Discover the festive 'Incredibox Andlbox Carol of the Bells,' a fan-made mod. This guide details its Christmas theme, gameplay for remixing the classic carol, and how to unlock its unique holiday-themed bonuses."
 iframeSrc: "https://turbowarp.org/931427102/embed"
-thumbnail: "/new-images/incredibox-carol-of-the-bells.png"
+thumbnail: /new-images/thumbnails/incredibox-carol-of-the-bells.png
 urlstr: "incredibox-carol-of-the-bells"
 score: "4.9/5 (2890 votes)"
 tags: ["music", "christmas", "rhythm"]

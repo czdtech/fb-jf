@@ -4,7 +4,7 @@ urlstr: cube-tower
 title: Cube Tower
 description: "Cube Tower est un jeu de défense de tour cubique\_: place et améliore des cubes de défense pour arrêter les vagues d’ennemis."
 iframeSrc: 'https://cubetower.h5games.usercontent.goog/v/545rmp3n3p56g/'
-thumbnail: /new-images/cube-tower.png
+thumbnail: /new-images/thumbnails/cube-tower.png
 tags:
   - strategy
   - puzzle

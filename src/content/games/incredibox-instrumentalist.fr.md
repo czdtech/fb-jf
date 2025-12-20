@@ -7,7 +7,7 @@ description: >-
   convoque percussions, cordes, vents et claviers pour créer un orchestre
   purement instrumental venu du monde entier.
 iframeSrc: 'https://turbowarp.org/1040856097/embed'
-thumbnail: /new-images/incredibox-instrumentalist.png
+thumbnail: /new-images/thumbnails/incredibox-instrumentalist.png
 tags:
   - music
   - sandbox

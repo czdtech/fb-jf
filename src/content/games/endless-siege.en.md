@@ -6,7 +6,7 @@ description: >-
   defense game. Place and upgrade cannons, ballistas, and other powerful towers
   to survive as long as you can on a new, challenging map every day.
 iframeSrc: 'https://endlessseige.h5games.usercontent.goog/v/35nvlvatb9t8g/'
-thumbnail: /new-images/endless-siege.jpg
+thumbnail: /new-images/thumbnails/endless-siege.jpg
 urlstr: endless-siege
 score: 4.6/5  (3100 votes)
 tags:

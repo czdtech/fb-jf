@@ -7,7 +7,7 @@ description: >-
   tiburón, come para crecer, evita peligros como tiburones más grandes y minas y
   consigue la máxima puntuación del océano.
 iframeSrc: 'https://g2.igroutka.ru/lib/crazy/games/big-shark/'
-thumbnail: /new-images/big-shark.jpg
+thumbnail: /new-images/thumbnails/big-shark.jpg
 tags:
   - casual
   - action

@@ -7,7 +7,7 @@ description: >-
   꺾이는 경로만 허용되는 규칙이 특징입니다.
 iframeSrc: >-
   https://omnomconnectclassic.h5games.usercontent.goog/v/6bc88dac-9f6b-4f2f-8c85-e715c899bb63/
-thumbnail: /new-images/om-nom-connect-classic.jpg
+thumbnail: /new-images/thumbnails/om-nom-connect-classic.jpg
 tags:
   - puzzle
   - casual

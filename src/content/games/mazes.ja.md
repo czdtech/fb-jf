@@ -2,7 +2,7 @@
 title: "Mazes"
 description: "Mazesは挑戦的なパスファインディングゲームです。複数の迷路をナビゲートし、障害物を避け、効率的に出口を見つけます。"
 iframeSrc: "https://2n1vou5bnc19g.h5games.usercontent.goog/v/69u69lpop0bao/"
-thumbnail: "/new-images/mazes.png"
+thumbnail: /new-images/thumbnails/mazes.jpg
 urlstr: "mazes"
 score: "3.9/5  (1623 votes)"
 tags: ["puzzle", "thinky", "casual"]

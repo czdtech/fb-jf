@@ -7,7 +7,7 @@ description: >-
   쿼터백이 되어 팀을 운영하고 플레이를 직접 호출하며 챔피언십 우승을 노리는
   작품입니다.
 iframeSrc: 'https://game316009.konggames.com/gamez/0031/6009/live/index.html'
-thumbnail: /new-images/retro-bowl.jpg
+thumbnail: /new-images/thumbnails/retro-bowl.jpg
 tags:
   - sports
   - retro

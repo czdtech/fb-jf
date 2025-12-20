@@ -3,7 +3,7 @@ locale: en
 title: "Tiger Run"
 description: "Tiger Run is a jungle runner — dash, jump, and slide to dodge obstacles and collect coins."
 iframeSrc: "https://tigerrun.h5games.usercontent.goog/v/1cl0c4rtsjsqo/"
-thumbnail: "/new-images/tiger-run.jpeg"
+thumbnail: /new-images/thumbnails/tiger-run.jpeg
 urlstr: "tiger-run"
 score: "3.8/5  (1627 votes)"
 tags: ["action", "casual"]

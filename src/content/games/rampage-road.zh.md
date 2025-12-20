@@ -4,7 +4,7 @@ urlstr: rampage-road
 title: 《Rampage Road》暴走公路枪战
 description: 《Rampage Road》是一款俯视角的暴走汽车射击游戏。你要在车流中左右穿梭，一边躲避碰撞，一边用车载武器击毁敌车，在连环爆炸和追击战中尽可能活得更久。
 iframeSrc: 'https://3a73fjju0knmg.h5games.usercontent.goog/v/5ammj72815kno/'
-thumbnail: /new-images/rampage-road.png
+thumbnail: /new-images/thumbnails/rampage-road.png
 tags:
   - car
   - driving

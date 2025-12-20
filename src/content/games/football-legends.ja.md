@@ -2,7 +2,7 @@
 title: "Football Legends"
 description: "アーケードサッカーの決闘：ヘディング、ボレー、特別なショットを使って、クイックマッチやトーナメントで1対1または2対2の対戦を楽しみましょう。"
 iframeSrc: "https://webglmath.github.io/football-legends/"
-thumbnail: "/new-images/football-legends.jpg"
+thumbnail: /new-images/thumbnails/football-legends.jpg
 urlstr: "football-legends"
 score: "4.3/5  (222 votes)"
 tags: ["sports", "soccer"]

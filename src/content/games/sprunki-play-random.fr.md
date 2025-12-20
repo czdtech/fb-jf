@@ -4,7 +4,7 @@ urlstr: sprunki-play-random
 title: Sprunki Play Random - Jouer à Sprunki Play Random en ligne
 description: "Sprunki Play Random est un jeu de création musicale plein de surprises\_: les sons sont attribués aléatoirement aux personnages, et c’est à toi de transformer ce chaos en morceau original."
 iframeSrc: 'https://turbowarp.org/1148555262/embed'
-thumbnail: /sprunki-play-random.png
+thumbnail: /new-images/thumbnails/sprunki-play-random.png
 tags:
   - sprunki play random
   - sprunki play random online

@@ -2,7 +2,7 @@
 title: "60 Second Burger Run 60秒汉堡跑酷"
 description: "《60 Second Burger Run》是一款刺激多彩的速跑平台游戏，你的主要目标是在严格的60秒时间限制内到达即将关门的汉堡店！"
 iframeSrc: "https://www.playfiddlebops.com/embed/60s-burger-run/index.html"
-thumbnail: "/60s-burger-run.jpg"
+thumbnail: /new-images/thumbnails/60s-burger-run.jpg
 urlstr: "60s-burger-run"
 locale: "zh"
 score: "4.6/5  (1344 votes)"

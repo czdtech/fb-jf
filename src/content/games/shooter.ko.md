@@ -7,7 +7,7 @@ description: >-
   다양한 무기를 활용해 몰려오는 로봇 물결을 막아내며 최대한 오래
   살아남으세요.
 iframeSrc: 'https://bitlifeonline.github.io/fnaf-shooter/'
-thumbnail: /new-images/shooter.jpg
+thumbnail: /new-images/thumbnails/shooter.jpg
 tags:
   - horror
   - shooting

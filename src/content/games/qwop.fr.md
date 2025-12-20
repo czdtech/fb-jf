@@ -7,7 +7,7 @@ description: >-
   tu contrôles les muscles des jambes du coureur uniquement avec quatre
   touches (Q, W, O, P) pour tenter de parcourir 100 mètres sans tomber.
 iframeSrc: 'https://kdata1.com/2020/01/QWOP1/?webgl=true'
-thumbnail: /new-images/qwop.jpg
+thumbnail: /new-images/thumbnails/qwop.jpg
 tags:
   - physics
   - difficulty

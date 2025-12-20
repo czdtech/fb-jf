@@ -3,7 +3,7 @@ locale: en
 title: "Unpark Me"
 description: "A classic sliding block puzzle with a parking lot theme. Move the other cars and trucks out of the way to clear a path for the red car to exit the crowded parking lot."
 iframeSrc: "https://unparkme.h5games.usercontent.goog/v/59baoe1o8mbe0/"
-thumbnail: "/new-images/unpark-me.png"
+thumbnail: /new-images/thumbnails/unpark-me.png
 urlstr: "unpark-me"
 score: "4.4/5  (2500 votes)"
 tags: ["puzzle", "thinky", "casual", "driving"]

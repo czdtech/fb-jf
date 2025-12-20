@@ -6,7 +6,7 @@ description: >-
   Runner lateral con gadgets: esquiva zappers y misiles, súbete a vehículos y
   recoge monedas mientras completas misiones para desbloquear mejoras.
 iframeSrc: 'https://slope-game.github.io/rungame/jetpack-joyride/'
-thumbnail: /new-images/jetpack-joyride.jpg
+thumbnail: /new-images/thumbnails/jetpack-joyride.jpg
 tags:
   - runner
   - arcade

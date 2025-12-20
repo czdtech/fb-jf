@@ -4,7 +4,7 @@ locale: en
 title: "Wordle"
 description: "Wordle is a popular daily word puzzle game where players have six attempts to guess a five-letter word, using color-coded feedback to deduce the correct letters and their positions in this addictive vocabulary challenge."
 iframeSrc: "https://ext.minijuegos.com/wordle/"
-thumbnail: "/new-images/wordle.jpg"
+thumbnail: /new-images/thumbnails/wordle.jpg
 urlstr: "wordle"
 score: "4.8/5  (515 votes)"
 tags: ["word", "puzzle", "daily"]

@@ -7,7 +7,7 @@ description: >-
   addictif : martèle la barre d’espace pour gagner des points, achète des
   améliorations et automatise tes clics pour faire exploser ton score.
 iframeSrc: 'https://spacebarclicker.co/game/spacebar-counter/'
-thumbnail: /new-images/spacebar-clicker.jpg
+thumbnail: /new-images/thumbnails/spacebar-clicker.jpg
 tags:
   - clicker
   - idle

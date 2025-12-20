@@ -4,7 +4,7 @@ urlstr: train-2048
 title: 《Train 2048》火车版 2048
 description: 《Train 2048》是一款将 2048 合并机制与火车元素结合的数字益智游戏。通过滑动整排车厢，使相同数字的车厢相遇合并，努力合成更高数值的列车。
 iframeSrc: 'https://train2048.h5games.usercontent.goog/v/3n7c2b1k9d5p0/'
-thumbnail: /new-images/train-2048.png
+thumbnail: /new-images/thumbnails/train-2048.jpg
 tags:
   - puzzle
   - numbers

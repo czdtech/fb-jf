@@ -3,7 +3,7 @@
 title: "Solitaire"
 description: "Solitaireは、プレイヤーが特定のシーケンスとスートでカードを配置するクラシックな一人用カードゲーム。すべてのカードをファウンデーションパイルに移動してタブローをクリアすることを目指す、この不朽のパズルゲーム。"
 iframeSrc: "https://www.edogan.us/solitaire-js/"
-thumbnail: "/new-images/solitaire.jpg"
+thumbnail: /new-images/thumbnails/solitaire.jpg
 urlstr: "solitaire"
 score: "4.8/5  (1242 votes)"
 tags: ["card game", "classic", "puzzle"]

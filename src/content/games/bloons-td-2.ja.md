@@ -2,7 +2,7 @@
 title: "Bloons TD 2 ブルーンズTD 2"
 description: "古典的な名作タワーディフェンスの続編「Bloons TD 2」。3つの難易度、新タワー「モンキービーコン」、そして厄介な「鉛（Lead）ブルーン」が登場。戦略を練って風船を割ろう！"
 iframeSrc: "https://1000freegames.github.io/swf/bloons-td-2.html"
-thumbnail: "/new-images/bloons-td-2.jpg"
+thumbnail: /new-images/thumbnails/bloons-td-2.jpg
 urlstr: "bloons-td-2"
 score: "4.3/5  (852 votes)"
 tags: ["casual", "strategy"]

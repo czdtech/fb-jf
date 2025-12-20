@@ -2,7 +2,7 @@
 title: "Football Kickoff"
 description: "Football Kickoffはスペシャルチームに焦点を当てています。キックの狙いを定め、風を読み、巧みなパワーコントロールでフィールドポジションを確保しましょう。"
 iframeSrc: "https://30sab7l7n7df0.h5games.usercontent.goog/v/5c7k7dlnf1c5g/"
-thumbnail: "/new-images/football-kickoff.jpg"
+thumbnail: /new-images/thumbnails/football-kickoff.jpg
 urlstr: "football-kickoff"
 score: "3.8/5  (1709 votes)"
 tags: ["sports", "casual"]

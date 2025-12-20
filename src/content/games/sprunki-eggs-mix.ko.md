@@ -7,7 +7,7 @@ description: >-
   게임 콘셉트의 스프룽키 모드입니다. 각 알의 특성을 이해하고 조합해 보드 전체를
   시원하게 정리하는 전략적인 플레이가 핵심입니다.
 iframeSrc: 'https://turbowarp.org/1102648676/embed'
-thumbnail: /sprunki-eggs-mix.png
+thumbnail: /new-images/thumbnails/sprunki-eggs-mix.png
 tags:
   - sprunki egg
 score: 3.9/5  (125 votes)

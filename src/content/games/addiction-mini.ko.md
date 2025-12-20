@@ -6,7 +6,7 @@ description: >-
   카드 숫자를 순서대로 배열해 줄을 정리하는 솔리테어류 퍼즐 게임입니다.
   빈 칸을 만들고, 수 순서를 맞춰가며 몇 수 앞까지 내다보세요.
 iframeSrc: 'https://0lk0u0jb90plo.h5games.usercontent.goog/v/2rppmab9dqneo/'
-thumbnail: /new-images/addiction-mini.jpg
+thumbnail: /new-images/thumbnails/addiction-mini.jpg
 tags:
   - card
   - puzzle

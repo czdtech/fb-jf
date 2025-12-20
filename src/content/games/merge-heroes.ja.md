@@ -2,7 +2,7 @@
 title: Merge Heroes
 description: Merge Heroesはヒーローをマージして強化するRPG系マージゲームです。編成を整え、敵と戦います。
 iframeSrc: 'https://1jbrmb0iocnh0.h5games.usercontent.goog/v/5i9k4ocr75fn8/'
-thumbnail: /new-images/merge-heroes.png
+thumbnail: /new-images/thumbnails/merge-heroes.png
 urlstr: merge-heroes
 score: 4.3/5  (2234 votes)
 tags:

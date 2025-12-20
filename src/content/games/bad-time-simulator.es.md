@@ -7,7 +7,7 @@ description: >-
   famoso combate contra Sans de la ruta genocida de Undertale. Aquí tienes
   estrategias, controles y consejos para sobrevivir a este desafío extremo.
 iframeSrc: 'https://gotoanddie.github.io/c2-sans-fight/'
-thumbnail: /new-images/bad-time-simulator.jpg
+thumbnail: /new-images/thumbnails/bad-time-simulator.jpg
 tags:
   - casual
   - rhythm

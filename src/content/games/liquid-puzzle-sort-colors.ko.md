@@ -7,7 +7,7 @@ description: >-
   퍼즐 게임입니다. 색을 기준으로 붓기, 여유 병 관리, 막힘 없는 마무리까지
   계획적으로 진행해 보세요.
 iframeSrc: 'https://1b6vgcuid4b98.h5games.usercontent.goog/v/2vus27k78710o/'
-thumbnail: /new-images/liquid-puzzle-sort-colors.jpg
+thumbnail: /new-images/thumbnails/liquid-puzzle-sort-colors.jpg
 tags:
   - puzzle
   - thinky

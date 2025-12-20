@@ -7,7 +7,7 @@ description: >-
   같은 무늬로 K부터 A까지 내림차순 열을 완성해 테이블로를 비우는 것이 목표로,
   치밀한 계획과 수 읽기가 요구되는 전략 카드 퍼즐입니다.
 iframeSrc: 'https://www.squidbyte.com/games_third/spider/en/spider-solitaire-halloween/'
-thumbnail: /new-images/spider-solitaire.jpg
+thumbnail: /new-images/thumbnails/spider-solitaire.jpg
 tags:
   - card-game
   - puzzle

@@ -7,7 +7,7 @@ description: >-
   permite desatar tu imaginación y personalizar tu propio Sprunki de la cabeza
   a los pies, creando el avatar que mejor te representa.
 iframeSrc: 'https://www.playfiddlebops.com/embed/sprunki-marker/index.html'
-thumbnail: /sprunki-maker.png
+thumbnail: /new-images/thumbnails/sprunki-maker.png
 tags:
   - sprunki maker (big update)
   - sprunki maker (big update) online

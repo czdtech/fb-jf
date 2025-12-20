@@ -4,7 +4,7 @@ description: >-
   「Crazy
   Cars」はオープンワールド風の街を爆走する3Dカーアクション。レース、タイムトライアル、スタントに挑戦し、隠されたアイテムを集めて新車をアンロックしよう。
 iframeSrc: 'https://g.igroutka.ru/games/164/2afwOT8yZFmeYWGJ/2/crazy_cars/'
-thumbnail: /new-images/crazy-cars.jpg
+thumbnail: /new-images/thumbnails/crazy-cars.jpg
 urlstr: crazy-cars
 score: 3.6/5  (197 votes)
 tags:

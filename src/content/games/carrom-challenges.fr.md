@@ -6,7 +6,7 @@ description: >-
   Carrom Challenges transpose le jeu de carrom sur écran : vise avec le striker,
   maîtrise les rebonds et empoche tes pions avec précision comme au billard.
 iframeSrc: 'https://6m4vq4nu17rto.h5games.usercontent.goog/v/1g4ai19abgj0g/'
-thumbnail: /new-images/carrom-challenges.png
+thumbnail: /new-images/thumbnails/carrom-challenges.png
 tags:
   - sports
   - pool

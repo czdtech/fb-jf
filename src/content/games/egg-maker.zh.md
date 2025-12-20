@@ -6,7 +6,7 @@ description: >-
   Egg Maker 是一款節奏明快的廚房解謎遊戲，你要在高壓出餐時間裡安排備料順序、
   控制平底鍋火候，端出一盤盤完美熟度的蛋料理。
 iframeSrc: 'https://2jbqv0uarsk18.h5games.usercontent.goog/v/2cnuunat3mtpg/'
-thumbnail: /new-images/egg-maker.png
+thumbnail: /new-images/thumbnails/egg-maker.png
 tags:
   - casual
   - thinky

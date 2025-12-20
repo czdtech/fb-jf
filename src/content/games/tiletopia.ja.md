@@ -2,7 +2,7 @@
 title: Tiletopia
 description: Tiletopiaは、タイル配置とシティビルディングゲームです。タイルを配置して美しい街を作りましょう。
 iframeSrc: 'https://ubg98.github.io/Tiletopia/'
-thumbnail: /new-images/tiletopia.jpg
+thumbnail: /new-images/thumbnails/tiletopia.png
 urlstr: tiletopia
 score: 4.2/5  (1765 votes)
 tags:

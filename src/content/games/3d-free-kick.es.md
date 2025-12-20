@@ -6,7 +6,7 @@ description: >-
   3D Free Kick te deja lanzar tiros libres como un profesional: apunta a la
   barrera, imprime efecto al balón y marca goles de falta con estilo.
 iframeSrc: 'https://78b0enfiv98go.h5games.usercontent.goog/v/00acsktd29tjg/'
-thumbnail: /new-images/3d-free-kick.png
+thumbnail: /new-images/thumbnails/3d-free-kick.png
 tags:
   - sports
   - soccer

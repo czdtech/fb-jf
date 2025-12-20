@@ -7,7 +7,7 @@ description: >-
   결합한 게임입니다. 수많은 밈 사운드와 캐릭터를 섞어 자신만의 밈 뮤직을
   만들어, 밈 폭발 분위기를 즐길 수 있습니다.
 iframeSrc: 'https://kdata1.com/5000/2024/sprunki-retake-memes/'
-thumbnail: /sprunki-but-with-memes.png
+thumbnail: /new-images/thumbnails/sprunki-but-with-memes.png
 tags:
   - sprunki but with memes
 score: 4.2/5  (142 votes)

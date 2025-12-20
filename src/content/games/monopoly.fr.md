@@ -7,7 +7,7 @@ description: >-
   louent et vendent des propriétés pour ruiner leurs adversaires et devenir le
   plus riche.
 iframeSrc: 'https://w8.snokido.com/games/html5/monopoly/index.html'
-thumbnail: /new-images/monopoly.jpg
+thumbnail: /new-images/thumbnails/monopoly.jpg
 tags:
   - board game
   - strategy

@@ -7,7 +7,7 @@ description: >-
   komponierst: Zieh ikonische Meme-Sounds auf Figuren, baue absurde Tracks und
   entfessle deinen ganz eigenen Meme-Hype.
 iframeSrc: 'https://kdata1.com/5000/2024/sprunki-retake-memes/'
-thumbnail: /sprunki-but-with-memes.png
+thumbnail: /new-images/thumbnails/sprunki-but-with-memes.png
 tags:
   - sprunki but with memes
 score: 4.2/5  (142 votes)

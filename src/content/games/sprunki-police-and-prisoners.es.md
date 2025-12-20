@@ -7,7 +7,7 @@ description: >-
   Incredibox Sprunki que reinterpreta personajes y escenario con un estilo
   abstracto y surrealista.
 iframeSrc: 'https://turbowarp.org/1113493234/embed'
-thumbnail: /sprunki-police-and-prisoners.png
+thumbnail: /new-images/thumbnails/sprunki-police-and-prisoners.png
 tags:
   - sprunki police and prisoners
 score: 3.9/5  (325 votes)

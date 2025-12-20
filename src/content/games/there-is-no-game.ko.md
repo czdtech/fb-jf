@@ -6,7 +6,7 @@ description: >-
   There Is No Game: Classic은 "게임이 아니다"라고 우기며 플레이어를 막는 화면과
   장난스러운 내레이션을 특징으로 하는 메타 퍼즐 게임입니다.
 iframeSrc: 'https://thereisnogame.h5games.usercontent.goog/v/web/'
-thumbnail: /new-images/there-is-no-game.jpg
+thumbnail: /new-images/thumbnails/there-is-no-game.jpg
 tags:
   - puzzle
   - meta

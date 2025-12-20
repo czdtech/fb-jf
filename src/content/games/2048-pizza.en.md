@@ -3,7 +3,7 @@ locale: en
 title: "2048 Pizza"
 description: "2048 Pizza reimagines 2048 with toppings — slide tiles, merge matches, and bake your way to bigger slices."
 iframeSrc: "https://14qikp6hbljig.h5games.usercontent.goog/v/4htrmkq5b0b78/"
-thumbnail: "/new-images/2048-pizza.png"
+thumbnail: /new-images/thumbnails/2048-pizza.png
 urlstr: "2048-pizza"
 score: "4.2/5  (2089 votes)"
 tags: ["puzzle", "thinky"]

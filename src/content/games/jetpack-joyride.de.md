@@ -7,7 +7,7 @@ description: >-
   schnapp dir Fahrzeuge und Münzreihen und erfülle Missionen, um Upgrades
   freizuschalten.
 iframeSrc: 'https://slope-game.github.io/rungame/jetpack-joyride/'
-thumbnail: /new-images/jetpack-joyride.jpg
+thumbnail: /new-images/thumbnails/jetpack-joyride.jpg
 tags:
   - runner
   - arcade

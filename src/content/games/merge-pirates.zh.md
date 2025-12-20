@@ -5,7 +5,7 @@ title: "《Merge Pirates》海盗舰队合成记"
 description: >-
   《Merge Pirates》是一款海盗主题的合成休闲游戏，你要合成火炮、战船与各种海盗装备，完成船员订单、赚取金币，打造称霸七海的传奇舰队。
 iframeSrc: 'https://mergepirates.h5games.usercontent.goog/v/2rugbh8p4845g/'
-thumbnail: /new-images/merge-pirates.png
+thumbnail: /new-images/thumbnails/merge-pirates.png
 tags:
   - puzzle
   - casual

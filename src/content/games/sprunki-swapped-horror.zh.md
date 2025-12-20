@@ -5,7 +5,7 @@ urlstr: "sprunki-swapped-horror"
 title: "Sprunki Swapped Horror - 在线玩 Sprunki Swapped Horror"
 description: "Sprunki Swapped Horror 是一款创意 Incredibox Mod，通过其创新的角色交换机制为游戏带来了新的维度。在这款 Mod 中，你会看到熟悉的角色以意想不到的形象出现，并使用他们的新声音和节奏来创作令人惊叹的音乐作品。"
 iframeSrc: "https://turbowarp.org/1132681434/embed"
-thumbnail: "/sprunki-swapped-horror.png"
+thumbnail: /new-images/thumbnails/sprunki-swapped-horror.png
 score: "4.4/5  (395 票)"
 tags: ["sprunki swapped horror", "sprunki swapped horror online"]
 ---

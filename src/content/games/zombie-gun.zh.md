@@ -7,7 +7,7 @@ description: >-
   利用墙面反弹子弹、引爆红色油桶、击倒场景道具，
   用有限的弹药清空房间里的僵尸。
 iframeSrc: 'https://5bcvrmoqria48.h5games.usercontent.goog/v/7cfakbl479q6o/'
-thumbnail: /new-images/zombie-gun.png
+thumbnail: /new-images/thumbnails/zombie-gun.png
 tags:
   - shooting
   - puzzle

@@ -2,7 +2,7 @@
 title: "Football Penalty"
 description: "Football PenaltyはPK戦を再現しています。シュートの位置を決め、高さや隅を狙い分担し、プレッシャーの中でキーパーの裏をかきましょう。"
 iframeSrc: "https://2fb6vjapfstro.h5games.usercontent.goog/v/5443q25keq2qg/"
-thumbnail: "/new-images/football-penalty.png"
+thumbnail: /new-images/thumbnails/football-penalty.png
 urlstr: "football-penalty"
 score: "4.0/5  (1881 votes)"
 tags: ["sports", "soccer"]

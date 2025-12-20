@@ -4,7 +4,7 @@ urlstr: tiger-run
 title: 《Tiger Run》丛林猛虎奔跑
 description: 《Tiger Run》是一款丛林主题的跑酷游戏。你将化身敏捷的老虎，在树林与岩石间飞奔、跳跃与滑行，躲避障碍并收集道具。
 iframeSrc: 'https://tigerrun.h5games.usercontent.goog/v/3n8c2b1k5d7p0/'
-thumbnail: /new-images/tiger-run.png
+thumbnail: /new-images/thumbnails/tiger-run.jpeg
 tags:
   - running
   - animal

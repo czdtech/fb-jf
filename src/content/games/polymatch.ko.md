@@ -4,7 +4,7 @@ urlstr: polymatch
 title: PolyMatch 폴리매치
 description: 다양한 그림 타일을 짝지어 보드를 비우는 매칭 퍼즐 게임입니다. 제한된 보관 슬롯을 관리하며 같은 타일을 찾아 제거해 보세요.
 iframeSrc: 'https://4h72h3ha1dnh0.h5games.usercontent.goog/v/4mrusdmqik1l8/'
-thumbnail: /new-images/polymatch.png
+thumbnail: /new-images/thumbnails/polymatch.png
 tags:
   - puzzle
   - thinky

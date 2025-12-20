@@ -7,7 +7,7 @@ description: >-
   Wörter im Buchstabengitter, verbinde Buchstaben in alle Richtungen und
   erreiche dein Punktziel, bevor die Zeit abläuft.
 iframeSrc: 'https://worddetector.h5games.usercontent.goog/v/4gaf9ej9hp398/'
-thumbnail: /new-images/word-detector.png
+thumbnail: /new-images/thumbnails/word-detector.png
 tags:
   - puzzle
   - thinky

@@ -2,7 +2,7 @@
 title: "Crazy Caves"
 description: "Crazy Cavesに入り、反射神経をテストしましょう！落下する岩の無限の集中砲火をかわしながら、ツルハシを投げて粉砕し、貴重な宝石とゴールドを獲得しましょう。装備をアップグレードして、より長く生き残り、高得点を目指しましょう。"
 iframeSrc: "https://crazycaves.h5games.usercontent.goog/v/24bc2c61-c599-4c5a-9fde-fd3a14fd28a6/"
-thumbnail: "/new-images/crazy-caves.jpg"
+thumbnail: /new-images/thumbnails/crazy-caves.jpg
 urlstr: "crazy-caves"
 score: "4.2/5  (1850 votes)"
 tags: ["action", "casual", "clicker"]

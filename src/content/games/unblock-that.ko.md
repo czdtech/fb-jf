@@ -6,7 +6,7 @@ description: >-
   나무 블록을 밀어 붉은 블록이 탈출할 길을 만드는 고전 슬라이딩 퍼즐입니다. 가로·세로로만
   움직이는 블록들을 최소한의 이동으로 정리해 길을 여는 두뇌 게임입니다.
 iframeSrc: 'https://unblockthat.h5games.usercontent.goog/v/6iqu63hhulkgo/'
-thumbnail: /new-images/unblock-that.png
+thumbnail: /new-images/thumbnails/unblock-that.png
 tags:
   - puzzle
   - thinky

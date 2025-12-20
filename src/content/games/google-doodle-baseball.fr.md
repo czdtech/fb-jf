@@ -6,7 +6,7 @@ description: >-
   Petit jeu de batting issu du doodle du 4 juillet de Google : cale ton swing,
   vise les espaces libres et enchaîne les points avant les retraits.
 iframeSrc: 'https://freeonlinegames.github.io/fourth-of-july-2019.html'
-thumbnail: /new-images/google-doodle-baseball.jpg
+thumbnail: /new-images/thumbnails/google-doodle-baseball.jpg
 tags:
   - sports
   - arcade

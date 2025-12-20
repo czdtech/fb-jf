@@ -6,7 +6,7 @@ description: >-
   改編自 Google 7 月 4 日節日塗鴉的輕量棒球遊戲：抓準揮棒時機，把球打向空檔，
   在三個出局前盡量多得分。
 iframeSrc: 'https://freeonlinegames.github.io/fourth-of-july-2019.html'
-thumbnail: /new-images/google-doodle-baseball.jpg
+thumbnail: /new-images/thumbnails/google-doodle-baseball.jpg
 tags:
   - sports
   - arcade

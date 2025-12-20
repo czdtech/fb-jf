@@ -2,7 +2,7 @@
 title: "Fireboy And Watergirl 4"
 description: "「Fireboy and Watergirl 4: The Crystal Temple」の決定版ガイド。2人協力プレイのプラットフォーマーで、クリスタルポータルのマスター方法、パズルのヒント、操作方法、FAQを学びましょう。"
 iframeSrc: "https://slope-game.github.io/fireboy-water-4/"
-thumbnail: "/new-images/fireboy-and-watergirl-4.jpg"
+thumbnail: /new-images/thumbnails/fireboy-and-watergirl-4.jpg
 urlstr: "fireboy-and-watergirl-4"
 score: "4.6/5  (117 votes)"
 tags: ["casual", "rhythm"]

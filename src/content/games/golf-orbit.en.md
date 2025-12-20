@@ -3,7 +3,7 @@ locale: en
 title: "Golf Orbit"
 description: "Golf Orbit is a one‑tap launch‑and‑land golf — set launch angle, manage spin, and ride planetary gravity for long, strategic flights."
 iframeSrc: "https://7e0r297sgk0j0.h5games.usercontent.goog/v/1976bdao4gtf0/"
-thumbnail: "/new-images/golf-orbit.png"
+thumbnail: /new-images/thumbnails/golf-orbit.png
 urlstr: "golf-orbit"
 score: "4.1/5  (1926 votes)"
 tags: ["sports", "puzzle", "casual"]

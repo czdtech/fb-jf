@@ -8,7 +8,7 @@ description: >-
   du sie zum Leben erweckst. Und du bist der Dirigent dieses Orchesters, der mit
   seinen Fingern einzigartige Musik spielen lässt!
 iframeSrc: 'https://turbowarp.org/1141050651/embed'
-thumbnail: /swap-sprunkgerny.png
+thumbnail: /new-images/thumbnails/swap-sprunkgerny.png
 tags:
   - swap sprunkgerny
   - swap sprunkgerny online

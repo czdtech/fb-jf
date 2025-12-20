@@ -8,7 +8,7 @@ description: >-
   Pon a prueba tus reflejos y tu planificación en este arcade tan simple como
   desafiante.
 iframeSrc: "https://www.googlesnake.com/snakem.php"
-thumbnail: "/new-images/snake.jpg"
+thumbnail: /new-images/thumbnails/snake.jpg
 tags:
   - classic
   - arcade

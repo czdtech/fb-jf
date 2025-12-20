@@ -8,7 +8,7 @@ description: >-
   de rayo y hielo y apunta siempre a la máxima puntuación en este desafiante
   puzle.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/block-champ/'
-thumbnail: /new-images/block-champ.jpg
+thumbnail: /new-images/thumbnails/block-champ.jpg
 tags:
   - puzzle
   - board Game

@@ -4,7 +4,7 @@ urlstr: comfy-farm
 title: Comfy Farm
 description: "Comfy Farm est une ferme cozy à gérer à ton rythme\_: plante, arrose, récolte et complète des commandes pour faire prospérer ton petit domaine."
 iframeSrc: 'https://1hjdl8ff4msl0.h5games.usercontent.goog/v/4o9it1lbm7h80/'
-thumbnail: /new-images/comfy-farm.png
+thumbnail: /new-images/thumbnails/comfy-farm.png
 tags:
   - casual
   - puzzle

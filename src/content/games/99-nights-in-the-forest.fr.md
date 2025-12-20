@@ -4,7 +4,7 @@ urlstr: 99-nights-in-the-forest
 title: "99 Nights in the Forest"
 description: "99 Nights in the Forest est un jeu d’horreur de survie où tu fortifies une cabane isolée, gères tes ressources et essaies de survivre 99 nuits dans une forêt maudite."
 iframeSrc: "https://st.8games.net/7/8g/igra-99-nochej-v-lesu-101-original/"
-thumbnail: /new-images/99-nights-in-the-forest.webp
+thumbnail: /new-images/thumbnails/99-nights-in-the-forest.webp
 tags:
   - horror
   - survival

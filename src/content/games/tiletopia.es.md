@@ -7,7 +7,7 @@ description: >-
   estratégico y relajante donde colocas fichas hexagonales para conectar
   caminos, crecer bosques y completar misiones en tu propio mundo en miniatura.
 iframeSrc: 'https://6nilllqpgkm6o.h5games.usercontent.goog/v/7d3689i7s5gfo/'
-thumbnail: /new-images/tiletopia.png
+thumbnail: /new-images/thumbnails/tiletopia.png
 tags:
   - puzzle
   - strategy

@@ -7,7 +7,7 @@ description: >-
   Charakteranpassung verbindet: Du baust nicht nur Tracks, sondern auch deinen
   eigenen musikalischen Avatar.
 iframeSrc: 'https://turbowarp.org/1144118565/embed'
-thumbnail: /sprunki-pyramixed-0.9.png
+thumbnail: /new-images/thumbnails/sprunki-pyramixed.png
 tags:
   - sprunki pyramixed 0.9
   - sprunki pyramixed 0.9 online

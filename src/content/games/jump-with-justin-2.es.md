@@ -7,7 +7,7 @@ description: >-
   plataformas móviles y trampas cronometradas: encadena botes y mantiene el
   ritmo hasta la meta.
 iframeSrc: 'https://jumpwithjustin2.h5games.usercontent.goog/v/54vavt12q94n8/'
-thumbnail: /new-images/jump-with-justin-2.png
+thumbnail: /new-images/thumbnails/jump-with-justin-2.png
 tags:
   - action
   - casual

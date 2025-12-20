@@ -2,7 +2,7 @@
 title: "Neon Rider"
 description: "Neon Riderは未来的なレーシングゲームです。ネオントラックを走り、色を切り替えながら障害物を避けて進みます。"
 iframeSrc: "https://neonrider.h5games.usercontent.goog/v/3v8a41kqq0tc0/"
-thumbnail: "/new-images/neon-rider.png"
+thumbnail: /new-images/thumbnails/neon-rider.png
 urlstr: "neon-rider"
 score: "4.2/5  (2089 votes)"
 tags: ["action", "racing"]

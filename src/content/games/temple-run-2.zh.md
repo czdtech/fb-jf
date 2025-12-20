@@ -4,7 +4,7 @@ urlstr: temple-run-2
 title: 《Temple Run 2》神庙逃亡 2
 description: 《Temple Run 2》是一款经典的 3D 跑酷游戏。扮演探险者从诡异神庙中奔逃，躲避陷阱与障碍，收集金币与道具，一路甩开身后的怪物追击。
 iframeSrc: 'https://templerun2.h5games.usercontent.goog/v/4d7n2c1b9k3p0/'
-thumbnail: /new-images/temple-run-2.jpg
+thumbnail: /new-images/thumbnails/temple-run-2.jpg
 tags:
   - running
   - action

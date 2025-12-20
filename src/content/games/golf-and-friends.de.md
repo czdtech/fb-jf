@@ -7,7 +7,7 @@ description: >-
   Neigungen, spiele gezielte Bankschüsse und genieße gemütliche Runden im
   Mehrspielermodus.
 iframeSrc: 'https://1uerepsm8tbpg.h5games.usercontent.goog/v/3st9sicdd4eu0/'
-thumbnail: /new-images/golf-and-friends.jpg
+thumbnail: /new-images/thumbnails/golf-and-friends.jpg
 tags:
   - sports
   - 2 player

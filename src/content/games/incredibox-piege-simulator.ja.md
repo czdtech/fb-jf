@@ -2,7 +2,7 @@
 title: "Incredibox Piege Simulator"
 description: "Incredibox Piège Simulatorのガイドです。グリッドベースのゲームプレイや、ダークで雰囲気のあるサウンドパレット、トラップ系ループを作るコツを紹介します。"
 iframeSrc: "https://turbowarp.org/887559994/embed"
-thumbnail: "/new-images/incredibox-piege-simulator.png"
+thumbnail: /new-images/thumbnails/incredibox-piege-simulator.png
 urlstr: "incredibox-piege-simulator"
 score: "4.5/5 (889 votes)"
 tags: ["music", "fan-Made", "simulator"]

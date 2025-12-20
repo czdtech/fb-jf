@@ -3,7 +3,7 @@ locale: en
 title: "Bridge"
 description: "Play the classic partnership card game, Bridge. Work with your partner through bidding and trick-taking to outsmart your opponents and fulfill your contract."
 iframeSrc: "https://2ipri8asu56io.h5games.usercontent.goog/v/0gn3i94fda0h0/"
-thumbnail: "/new-images/bridge.png"
+thumbnail: /new-images/thumbnails/bridge.png
 urlstr: "bridge"
 score: "4.7/5  (3000 votes)"
 tags: ["card", "puzzle", "thinky"]

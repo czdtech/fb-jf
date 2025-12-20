@@ -6,7 +6,7 @@ description: >-
   Cards‑21 est un blackjack simplifié : tire des cartes, choisis entre tirer ou
   rester, gère le risque et vise 21 sans jamais dépasser.
 iframeSrc: 'https://11kvu79prlefg.h5games.usercontent.goog/v/67r78cf7q96c0/'
-thumbnail: /new-images/cards-21.png
+thumbnail: /new-images/thumbnails/cards-21.png
 tags:
   - card
   - casual

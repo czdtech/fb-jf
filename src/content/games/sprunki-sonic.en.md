@@ -6,7 +6,7 @@ description: >-
   can find your fun in Sprunki Sonic. This game is easy to learn but difficult
   to master, making it perfect for players of all skill levels.
 iframeSrc: 'https://turbowarp.org/1114980098/embed'
-thumbnail: /sprunki-sonic.png
+thumbnail: /new-images/thumbnails/sprunki-sonic.png
 urlstr: sprunki-sonic
 modType: sprunki
 score: 4.0/5  (829 votes)

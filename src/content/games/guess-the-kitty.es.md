@@ -6,7 +6,7 @@ description: >-
   Concurso visual con gatos: deduce la raza o rasgos correctos a partir de
   imágenes y pistas, y avanza por rondas temáticas.
 iframeSrc: 'https://webglmath.github.io/guess-the-kitty/'
-thumbnail: /new-images/guess-the-kitty.jpg
+thumbnail: /new-images/thumbnails/guess-the-kitty.jpg
 tags:
   - trivia
   - puzzle

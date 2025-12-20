@@ -4,7 +4,7 @@ modType: incredibox
 title: "Incredibox Trillybox"
 description: "Explore 'Incredibox Trillybox,' the fan-made mod dedicated to Trap music. This guide details its 808-heavy sound palette, gameplay for creating hard-hitting beats, and how to unlock its modern, themed bonuses."
 iframeSrc: "https://turbowarp.org/907049948/embed"
-thumbnail: "/new-images/incredibox-trillybox.png"
+thumbnail: /new-images/thumbnails/incredibox-trillybox.png
 urlstr: "incredibox-trillybox"
 score: "4.5/5 (999 votes)"
 tags: ["music", "hip-hop", "rhythm"]

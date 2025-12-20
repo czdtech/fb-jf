@@ -7,7 +7,7 @@ description: >-
   올드 PC 감성의 픽셀 아트와 간단하지만 중독성 있는 음악 제작 플레이를 결합해,
   Sprunki·Incredibox 팬들에게 색다른 경험을 선사합니다.
 iframeSrc: 'https://html-classic.itch.zone/html/14634762/index.html'
-thumbnail: /sprunki-1996.png
+thumbnail: /new-images/thumbnails/sprunki-1996.png
 tags:
   - sprunki 1996
 score: 4.0/5  (122 votes)

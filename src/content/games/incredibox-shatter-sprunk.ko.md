@@ -7,7 +7,7 @@ description: >-
   'Incredibox Shatter Sprunk' 가이드입니다. 노란 캐릭터들과
   독특한 사운드를 활용해 개성 있는 믹스를 만드는 법을 소개합니다.
 iframeSrc: 'https://turbowarp.org/1144858827/embed'
-thumbnail: /incredibox-shatter-sprunk.png
+thumbnail: /new-images/thumbnails/incredibox-shatter-sprunk.png
 tags:
   - incredibox shatter sprunk
   - incredibox shatter sprunk online

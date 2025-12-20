@@ -2,7 +2,7 @@
 title: The Sea Rush
 description: The Sea Rushは、海をテーマにしたエンドレスランナーゲームです。波を乗り越え、障害物を避けて進みましょう。
 iframeSrc: 'https://ubg98.github.io/TheSeaRush/'
-thumbnail: /new-images/the-sea-rush.jpg
+thumbnail: /new-images/thumbnails/the-sea-rush.png
 urlstr: the-sea-rush
 score: 4.3/5  (2234 votes)
 tags:

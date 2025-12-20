@@ -4,7 +4,7 @@ locale: en
 title: "Electron Dash"
 description: "Electron Dash is a fast tunnel runner: jump, dash, and land on rotating platforms to survive long runs."
 iframeSrc: "https://slope-game.github.io/electron-dash/"
-thumbnail: "/new-images/electron-dash.jpg"
+thumbnail: /new-images/thumbnails/electron-dash.jpg
 urlstr: "electron-dash"
 score: "4.4/5  (1386 votes)"
 tags: ["arcade", "runner"]

@@ -7,7 +7,7 @@ description: >-
   Incredibox macht genau das möglich – halb Spiel, halb Musikkreationstool und
   für alle Altersgruppen geeignet.
 iframeSrc: 'https://nom74100.github.io/in-box/'
-thumbnail: /Incredibox.png
+thumbnail: /new-images/thumbnails/incredibox.png
 tags:
   - incredibox
   - incredibox online

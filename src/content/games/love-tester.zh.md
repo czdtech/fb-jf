@@ -5,7 +5,7 @@ title: 《Love Tester》恋爱测试小玩具
 description: 《Love Tester》是一款轻松的趣味小游戏，你只需输入两个人的名字，就能获得一个“相配度”分数与趣味提示，仅供娱乐，没有任何科学依据。
 iframeSrc: >-
   https://games.cdn.famobi.com/html5games/l/love-tester/v030/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=24cb4711-7c74-4831-8b1c-678985959174&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=176&original_ref=
-thumbnail: /new-images/love-tester.jpg
+thumbnail: /new-images/thumbnails/love-tester.jpg
 tags:
   - casual
   - novelty

@@ -3,7 +3,7 @@ locale: en
 title: "Pick a Lock"
 description: "Pick a Lock tests timing and focus — stop the dial on markers, chain perfect hits, and unlock increasingly tricky locks."
 iframeSrc: "https://17ul52pgrglf0.h5games.usercontent.goog/v/5b4f1rj0on970/"
-thumbnail: "/new-images/pick-a-lock.jpg"
+thumbnail: /new-images/thumbnails/pick-a-lock.jpg
 urlstr: "pick-a-lock"
 score: "3.9/5  (1712 votes)"
 tags: ["puzzle", "thinky", "casual"]

@@ -4,7 +4,7 @@ urlstr: cookie-clicker-2
 title: Cookie Clicker 2
 description: "Cookie Clicker 2 reprend la folie des cookies\_: clique, achète encore plus de bâtiments, débloque de nouvelles mécaniques et fais exploser ton CPS."
 iframeSrc: 'https://4jenf2md9fc6o.h5games.usercontent.goog/v/4rij4hgvecd30/'
-thumbnail: /new-images/cookie-clicker-2.jpg
+thumbnail: /new-images/thumbnails/cookie-clicker-2.jpg
 tags:
   - casual
   - clicker

@@ -7,7 +7,7 @@ description: >-
   스프룽키 모드입니다. 잔잔한 피아노와 자연음, 느린 비트로 나만의 자장가를
   만들어 편안한 밤을 준비해 보세요.
 iframeSrc: 'https://turbowarp.org/1178264025/embed'
-thumbnail: /sprunki-good-night.png
+thumbnail: /new-images/thumbnails/sprunki-good-night.png
 tags:
   - sprunki good night
 score: 4.2/5  (227 votes)

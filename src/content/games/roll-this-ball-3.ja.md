@@ -2,7 +2,7 @@
 title: Roll This Ball 3
 description: Roll This Ball 3はスライド式のパズルです。タイルを動かして通路をつなぎ、ボールをゴールまで導きます。
 iframeSrc: 'https://rollthisball3.h5games.usercontent.goog/v/3k9j5m8h7p2n8/'
-thumbnail: /new-images/roll-this-ball-3.png
+thumbnail: /new-images/thumbnails/roll-this-ball-3.png
 urlstr: roll-this-ball-3
 score: 4.2/5  (2156 votes)
 tags:

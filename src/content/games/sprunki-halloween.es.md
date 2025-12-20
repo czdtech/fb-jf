@@ -8,7 +8,7 @@ description: >-
   notas inquietantes y divertidas para dar la bienvenida a la noche más
   escalofriante del año.
 iframeSrc: 'https://turbowarp.org/1087683438/embed'
-thumbnail: /sprunki-halloween.png
+thumbnail: /new-images/thumbnails/sprunki-halloween.png
 tags:
   - sprunki halloween
 score: 4.2/5  (142 votes)

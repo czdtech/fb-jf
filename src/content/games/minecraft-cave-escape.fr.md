@@ -4,7 +4,7 @@ urlstr: "minecraft-cave-escape"
 title: "Minecraft Cave Escape - Play Minecraft Cave Escape Online"
 description: "Dans Minecraft Cave Escape, tu es coincé dans une grotte sans aucun matériau pour t’en sortir ! Grimpe sur les blocs qui tombent pour t’échapper, mais fais attention à ne pas te les prendre dessus."
 iframeSrc: "https://turbowarp.org/1189417610/embed"
-thumbnail: "/minecraft-cave-escape.png"
+thumbnail: /new-images/thumbnails/minecraft-cave-escape.png
 tags: ["minecraft cave escape"]
 score: "4.7/5  (354 votes)"
 ---

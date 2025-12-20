@@ -3,7 +3,7 @@ locale: en
 title: "Odd One Out"
 description: "Find the item that doesn't belong in the group in Odd One Out, a game that tests your observation and critical thinking skills."
 iframeSrc: "https://oddoneout.h5games.usercontent.goog/v/50nqosk9lm28o/"
-thumbnail: "/new-images/odd-one-out.jpg"
+thumbnail: /new-images/thumbnails/odd-one-out.jpg
 urlstr: "odd-one-out"
 score: "4.0/5 (987 votes)"
 tags: ["puzzle", "thinky", "casual"]

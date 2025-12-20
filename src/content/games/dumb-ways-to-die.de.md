@@ -7,7 +7,7 @@ description: >-
   Mikro-Challenges im Zeitdruck, damit deine Figuren nicht auf dumme Weise
   sterben.
 iframeSrc: 'https://html5.iclouds.io/dumb-ways-die/'
-thumbnail: /new-images/dumb-ways-to-die.jpg
+thumbnail: /new-images/thumbnails/dumb-ways-to-die.jpg
 tags:
   - arcade
   - minigames

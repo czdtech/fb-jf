@@ -6,7 +6,7 @@ description: >-
   Juego de bateo del doodle del 4 de julio de Google: calcula el swing,
   dirige la bola hacia los huecos y acumula carreras antes de agotar los outs.
 iframeSrc: 'https://freeonlinegames.github.io/fourth-of-july-2019.html'
-thumbnail: /new-images/google-doodle-baseball.jpg
+thumbnail: /new-images/thumbnails/google-doodle-baseball.jpg
 tags:
   - sports
   - arcade

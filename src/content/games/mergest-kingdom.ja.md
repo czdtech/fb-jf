@@ -2,7 +2,7 @@
 title: "Mergest Kingdom"
 description: "Mergest Kingdomは王国構築系のマージゲームです。アイテムをマージして建物を建て、土地を広げながら王国を発展させます。"
 iframeSrc: "https://mergestkingdom.h5games.usercontent.goog/v/25s7sil9mjn60/"
-thumbnail: "/new-images/mergest-kingdom.png"
+thumbnail: /new-images/thumbnails/mergest-kingdom.png
 urlstr: "mergest-kingdom"
 score: "4.4/5  (2456 votes)"
 tags: ["casual", "thinky", "strategy"]

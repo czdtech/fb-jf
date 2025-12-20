@@ -2,7 +2,7 @@
 title: "Big Shark ビッグ・シャーク"
 description: "「Big Shark」の海で王者になれ！凶暴なサメを操り、小魚を食べて巨大化し、危険なライバルや機雷を避けて海の食物連鎖の頂点を目指すサバイバルガイド。"
 iframeSrc: "https://big-shark.h5games.usercontent.goog/v/9b83b167-93e1-482a-874f-c4e9702209d8/"
-thumbnail: "/new-images/big-shark.jpg"
+thumbnail: /new-images/thumbnails/big-shark.jpg
 urlstr: "big-shark"
 score: "4.2/5  (890 votes)"
 tags: ["action", "survival", "animal"]

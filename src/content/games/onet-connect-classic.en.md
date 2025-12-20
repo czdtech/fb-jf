@@ -3,7 +3,7 @@ locale: en
 title: "Onet Connect Classic"
 description: "Test your speed and perception in Onet Connect Classic. Find pairs of identical tiles and clear the board by connecting them with a path of no more than two turns before time runs out!"
 iframeSrc: "https://onetconnectclassic.h5games.usercontent.goog/v/0q8248mt11l3g/"
-thumbnail: "/new-images/onet-connect-classic.png"
+thumbnail: /new-images/thumbnails/onet-connect-classic.png
 urlstr: "onet-connect-classic"
 score: "4.3/5  (1840 votes)"
 tags: ["puzzle", "casual", "thinky"]

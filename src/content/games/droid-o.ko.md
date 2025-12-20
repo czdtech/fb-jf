@@ -4,7 +4,7 @@ urlstr: droid-o
 title: Droid-O 드로이드-O
 description: 원형 스테이지를 회전시키며 장애물을 피하는 아케이드 게임입니다. 드로이드를 안전한 길로 이끌어 가능한 한 오래 버텨 보세요.
 iframeSrc: 'https://g2.igroutka.ru/games/19/nkaOxcL9kDb2Q9BfG/droid-o/'
-thumbnail: /new-images/droid-o.jpg
+thumbnail: /new-images/thumbnails/droid-o.png
 tags:
   - arcade
   - skill

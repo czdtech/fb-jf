@@ -7,7 +7,7 @@ description: >-
   가로·세로 힌트를 풀어 격자를 완성하고, 퍼즐마다 숨겨진 공통 주제를 찾아보세요.
 iframeSrc: >-
   https://ams.cdn.arkadiumhosted.com/assets/global/game/best-free-themed-puzzles/
-thumbnail: /new-images/crossword-puzzles.jpg
+thumbnail: /new-images/thumbnails/crossword-puzzles.jpg
 tags:
   - word
   - puzzle

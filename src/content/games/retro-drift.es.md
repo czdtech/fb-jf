@@ -6,7 +6,7 @@ description: >-
   Retro Drift es un juego de derrapes con vista cenital y sabor clásico: dosifica
   el acelerador, controla el ángulo del coche y deslízate limpio por cada curva.
 iframeSrc: "https://retrodrift.h5games.usercontent.goog/v/3jr7fjtqu0j18/"
-thumbnail: "/new-images/retro-drift.jpg"
+thumbnail: /new-images/thumbnails/retro-drift.jpg
 tags:
   - car
   - driving

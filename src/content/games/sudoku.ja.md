@@ -2,7 +2,7 @@
 title: Sudoku
 description: クラシックな数独パズルゲームです。論理的思考を使って9×9のグリッドを数字で埋めましょう。
 iframeSrc: 'https://ubg98.github.io/Sudoku/'
-thumbnail: /new-images/sudoku.jpg
+thumbnail: /new-images/thumbnails/sudoku.jpg
 urlstr: sudoku
 score: 4.5/5  (2876 votes)
 tags:

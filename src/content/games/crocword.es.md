@@ -6,7 +6,7 @@ description: >-
   Crocword es un relajante puzle de palabras: une letras, forma
   vocablos y rellena el crucigrama con ingenio.
 iframeSrc: 'https://4u2r33lp92ja0.h5games.usercontent.goog/v/53cgdtc83kng8/'
-thumbnail: /new-images/crocword.png
+thumbnail: /new-images/thumbnails/crocword.png
 tags:
   - puzzle
   - thinky

@@ -5,7 +5,7 @@ urlstr: "sprunki-dandys-world"
 title: "Sprunki Dandy's World - 在线玩 Sprunki Dandy's World"
 description: "Sprunki Dandy's World 是一款独特的游戏，将音乐、艺术和故事融为一体。在这里，你可以释放你的创造力，创造属于你自己的音乐世界。"
 iframeSrc: "https://turbowarp.org/1075503895/embed"
-thumbnail: "/sprunki-dandys-world.png"
+thumbnail: /new-images/thumbnails/sprunki-dandys-world.png
 score: "4.4/5  (304 票)"
 tags: ["sprunki dandy"]
 ---

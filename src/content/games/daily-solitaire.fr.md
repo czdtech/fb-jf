@@ -4,7 +4,7 @@ urlstr: daily-solitaire
 title: Daily Solitaire
 description: "Daily Solitaire te propose chaque jour un nouveau solitaire Klondike\_: déplace les cartes du tableau vers les fondations de l’As au Roi et teste ton sens de la stratégie."
 iframeSrc: 'https://dailysolitaire.h5games.usercontent.goog/v/0e4orvvorj2mo/'
-thumbnail: /new-images/daily-solitaire.png
+thumbnail: /new-images/thumbnails/daily-solitaire.png
 tags:
   - card
   - puzzle

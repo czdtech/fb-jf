@@ -4,7 +4,7 @@ locale: en
 title: "Grow a Garden"
 description: "Discover the relaxing world of gardening games with our comprehensive guide. Learn the core gameplay of planting, growing, and harvesting, plus get tips and strategies to create your dream garden." 
 iframeSrc: "https://growden.io/"
-thumbnail: "/growagarden-min.jpeg"
+thumbnail: /new-images/thumbnails/grow-a-garden.jpeg
 urlstr: "grow-a-garden"
 sidebarNew: 3
 sidebarPopular: 4

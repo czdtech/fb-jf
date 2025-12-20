@@ -6,7 +6,7 @@ description: >-
   Super Sprunki Brasil은 브라질 음악과 문화를 스프룽키 스타일 음악 제작에 녹여낸 Incredibox 모드입니다. 삼바,
   보사노바 등 브라질 리듬을 활용해 열정적인 트랙을 만들어 보세요.
 iframeSrc: 'https://turbowarp.org/1080827660/embed'
-thumbnail: /super-sprunki-brasil.png
+thumbnail: /new-images/thumbnails/super-sprunki-brasil.png
 tags:
   - super sprunki brasil
   - super sprunki brasil online

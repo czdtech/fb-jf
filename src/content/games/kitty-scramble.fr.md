@@ -4,7 +4,7 @@ urlstr: kitty-scramble
 title: "Kitty Scramble"
 description: "Kitty Scramble est une chasse aux mots cosy : fais glisser ton doigt sur les grilles de lettres pour trouver des mots à thème et vider le plateau."
 iframeSrc: "https://6cifr142haig8.h5games.usercontent.goog/v/1c963avg5lo9g/"
-thumbnail: /new-images/kitty-scramble.png
+thumbnail: /new-images/thumbnails/kitty-scramble.png
 tags:
   - puzzle
   - thinky

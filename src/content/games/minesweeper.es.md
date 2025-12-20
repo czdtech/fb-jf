@@ -7,7 +7,7 @@ description: >-
   tablero rectangular que oculta minas sin detonar ninguna, ayudándote de las
   pistas numéricas que indican cuántas minas hay en las casillas vecinas.
 iframeSrc: 'https://freeonlinegames.github.io/games/minesweeper/'
-thumbnail: /new-images/minesweeper.jpg
+thumbnail: /new-images/thumbnails/minesweeper.jpg
 tags:
   - puzzle
   - strategy

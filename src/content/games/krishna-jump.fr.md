@@ -4,7 +4,7 @@ urlstr: krishna-jump
 title: "Krishna Jump"
 description: "Krishna Jump est un runner vertical rythmique : enchaîne des sauts précis, évite les pièges et collecte des idoles à travers des niveaux colorés."
 iframeSrc: "https://5gj672951lio0.h5games.usercontent.goog/v/2q5vk2ok37gr8/"
-thumbnail: /new-images/krishna-jump.png
+thumbnail: /new-images/thumbnails/krishna-jump.png
 tags:
   - action
   - casual

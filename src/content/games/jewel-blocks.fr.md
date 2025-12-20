@@ -7,7 +7,7 @@ description: >-
   joyaux sur une grille 10x10 pour compléter des lignes, sans jamais pouvoir les
   faire pivoter.
 iframeSrc: 'https://jewelblocks.h5games.usercontent.goog/v/0puee6ie0j880/'
-thumbnail: /new-images/jewel-blocks.png
+thumbnail: /new-images/thumbnails/jewel-blocks.png
 tags:
   - puzzle
   - thinky

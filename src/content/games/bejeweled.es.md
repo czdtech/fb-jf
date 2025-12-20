@@ -7,7 +7,7 @@ description: >-
   género "match‑3". Intercambia gemas adyacentes, encadena cascadas y utiliza
   gemas especiales para lograr puntuaciones enormes.
 iframeSrc: 'https://files.acticdn.com/278374/30464/index.html'
-thumbnail: /bejeweled.png
+thumbnail: /new-images/thumbnails/bejeweled.png
 tags:
   - bejeweled
 score: 4.8/5  (654 votes)

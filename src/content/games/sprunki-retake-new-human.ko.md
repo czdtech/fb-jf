@@ -6,7 +6,7 @@ description: >-
   Sprunki Retake New Human은 기존 Incredibox/Sprunki 캐릭터를 인간형 디자인으로 재해석한 모드입니다. 사람
   형태의 새 캐릭터들로 익숙한 시스템을 전혀 다른 비주얼 감성으로 즐길 수 있습니다.
 iframeSrc: 'https://turbowarp.org/1139615160/embed'
-thumbnail: /sprunki-retake-new-human.png
+thumbnail: /new-images/thumbnails/sprunki-retake-new-human.png
 tags:
   - sprunki retake new human
   - musical mod

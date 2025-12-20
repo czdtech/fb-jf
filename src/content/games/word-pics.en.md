@@ -3,7 +3,7 @@ locale: en
 title: "Word Pics"
 description: "Guess the word that connects the two pictures in Word Pics, a fun and addictive word puzzle game."
 iframeSrc: "https://wordpics.h5games.usercontent.goog/v/7sfi13vvf0cro/"
-thumbnail: "/new-images/word-pics.jpg"
+thumbnail: /new-images/thumbnails/word-pics.jpg
 urlstr: "word-pics"
 score: "4.4/5 (2150 votes)"
 tags: ["puzzle", "thinky", "casual"]

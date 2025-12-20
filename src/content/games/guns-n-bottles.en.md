@@ -3,7 +3,7 @@ locale: en
 title: "Guns n' Bottles"
 description: "Test your timing and precision in this addictive shooting gallery game. Tap at the perfect moment to shoot the bottles as your gun rotates, but avoid the red ones!"
 iframeSrc: "https://aktestgunsandbottles.h5games.usercontent.goog/v/51pcsm84fc4ag/"
-thumbnail: "/new-images/guns-n-bottles.png"
+thumbnail: /new-images/thumbnails/guns-n-bottles.png
 urlstr: "guns-n-bottles"
 score: "4.1/5  (1800 votes)"
 tags: ["shooting", "action", "casual"]

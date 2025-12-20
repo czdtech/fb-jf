@@ -6,7 +6,7 @@ description: >-
   Duck Life es el simulador original de entrenamiento y carreras: sube de nivel
   a tu pato con minijuegos y úsalo para ganar competiciones.
 iframeSrc: 'https://games.wixgames.co.uk/games/ducklife1/webgl/'
-thumbnail: /new-images/duck-life.jpg
+thumbnail: /new-images/thumbnails/duck-life.jpg
 tags:
   - racing
   - simulation

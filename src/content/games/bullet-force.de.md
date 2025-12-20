@@ -7,7 +7,7 @@ description: >-
   Ego-Shooter. Passe ein großes Waffenarsenal an, beherrsche mehrere Spielmodi
   und kämpfe online gegen andere Spieler oder übe offline gegen Bots.
 iframeSrc: 'https://ubg44.github.io/BulletForce/'
-thumbnail: /new-images/bullet-force.jpg
+thumbnail: /new-images/thumbnails/bullet-force.jpg
 tags:
   - action
   - shooting

@@ -6,7 +6,7 @@ description: >-
   《Kingdom Rush Frontiers》是经典塔防《Kingdom
   Rush》系列的续作，你要在沙漠、丛林等新战场上建造与进化防御塔，调度援军与英雄，用巧妙布局和针对性克制挡住敌军。
 iframeSrc: 'https://1000freegames.github.io/swf/kingdom-rush-frontiers.html'
-thumbnail: /new-images/kingdom-rush-frontiers.jpg
+thumbnail: /new-images/thumbnails/kingdom-rush-frontiers.jpg
 tags:
   - tower-defense
   - strategy

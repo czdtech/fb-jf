@@ -7,7 +7,7 @@ description: >-
   caigan al agua los personajes que descansan sobre ellas. Elimina piezas con
   cuidado y deja que la gravedad haga el trabajo.
 iframeSrc: "https://tumbletowers.h5games.usercontent.goog/v/2253r9nclsnso/"
-thumbnail: "/new-images/tumble-towers.jpg"
+thumbnail: /new-images/thumbnails/tumble-towers.png
 tags:
   - puzzle
   - physics

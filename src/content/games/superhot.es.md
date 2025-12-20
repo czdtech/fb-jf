@@ -7,7 +7,7 @@ description: >-
   avanza cuando tú te mueves, creando una mezcla única de puzle táctico y
   acción estratégica.
 iframeSrc: 'https://superhotgame.com/superhot-prototype-iframe'
-thumbnail: /new-images/superhot.jpg
+thumbnail: /new-images/thumbnails/superhot.jpg
 tags:
   - shooting
   - strategy

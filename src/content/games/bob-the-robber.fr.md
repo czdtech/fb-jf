@@ -4,7 +4,7 @@ urlstr: bob-the-robber
 title: "Bob the Robber"
 description: "Dans Bob the Robber, incarne un cambrioleur malin : faufile‑toi entre les gardes, coupe les caméras, crochette les serrures et vole le butin sans te faire repérer."
 iframeSrc: "https://app-190385.games.s3.yandex.net/190385/i7ty94goiswe8ohxdysos1uzmur0yfwk/index.html"
-thumbnail: /new-images/bob-the-robber.jpg
+thumbnail: /new-images/thumbnails/bob-the-robber.jpg
 tags:
   - stealth
   - puzzle

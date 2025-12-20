@@ -2,7 +2,7 @@
 title: Wordle
 description: Wordleは、大人気の単語推測ゲームです。6回の試行で5文字の単語を推測しましょう。
 iframeSrc: 'https://ubg98.github.io/Wordle/'
-thumbnail: /new-images/wordle.jpg
+thumbnail: /new-images/thumbnails/wordle.jpg
 urlstr: wordle
 score: 4.7/5  (5234 votes)
 tags:

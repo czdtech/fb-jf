@@ -2,7 +2,7 @@
 title: Puppet Master
 description: Puppet Masterは物理パズルゲームです。ラグドールの動きを制御し、障害物を越えてゴールを目指します。
 iframeSrc: 'https://puppetmaster.h5games.usercontent.goog/v/3k9j5m8h7p2n8/'
-thumbnail: /new-images/puppet-master.png
+thumbnail: /new-images/thumbnails/puppet-master.jpg
 urlstr: puppet-master
 score: 4.1/5  (1823 votes)
 tags:

@@ -8,7 +8,7 @@ description: >-
   sers les clients pour développer ton affaire.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp41/gamehwq/20221216/09/index.htm
-thumbnail: /new-images/monkey-mart.jpg
+thumbnail: /new-images/thumbnails/monkey-mart.jpg
 tags:
   - simulation
   - management

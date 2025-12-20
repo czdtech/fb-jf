@@ -4,7 +4,7 @@ urlstr: geometry-dash-meltdown
 title: "Geometry Dash Meltdown"
 description: "Pack de niveaux pour platformer rythmique : saute et vole à travers de nouveaux niveaux synchronisés à la musique, avec obstacles thématiques et sections en vaisseau."
 iframeSrc: 'https://geometrylite.io/game/geometry-dash-meltdown/'
-thumbnail: /new-images/geometry-dash-meltdown.jpg
+thumbnail: /new-images/thumbnails/geometry-dash-meltdown.jpg
 tags:
   - rhythm
   - platformer

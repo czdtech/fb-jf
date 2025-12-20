@@ -4,7 +4,7 @@ urlstr: "maze-puzzle"
 title: "Maze Puzzle"
 description: "Maze Puzzle est un jeu de labyrinthe épuré : trace le chemin le plus court, attire les gardes en patrouille et sors avec les clés avant la fin du temps."
 iframeSrc: "https://3931uc3bsois0.h5games.usercontent.goog/v/7nvm8etm546uo/"
-thumbnail: "/new-images/maze-puzzle.png"
+thumbnail: /new-images/thumbnails/maze-puzzle.png
 tags: ["puzzle", "thinky", "escape"]
 score: "4.0/5  (1866 votes)"
 developer: ""

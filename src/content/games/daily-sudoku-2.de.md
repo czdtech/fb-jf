@@ -7,7 +7,7 @@ description: >-
   Zeile, Spalte und jedes 3×3-Feld die Ziffern 1 bis 9 ohne Wiederholung
   enthält.
 iframeSrc: 'https://4j6utu2p6fklg.h5games.usercontent.goog/v/6qh61gl4k3ado/'
-thumbnail: /new-images/daily-sudoku-2.png
+thumbnail: /new-images/thumbnails/daily-sudoku-2.png
 tags:
   - puzzle
   - thinky

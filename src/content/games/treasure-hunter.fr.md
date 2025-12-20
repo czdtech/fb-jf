@@ -7,7 +7,7 @@ description: >-
   anciennes, des grottes mysterieuses et des jungles cachees a la recherche
   d'artefacts legendaires et d'or scintillant.
 iframeSrc: 'https://m.igroutka.ru/g-1/149/TreasureHunter/'
-thumbnail: /new-images/treasure-hunter.jpg
+thumbnail: /new-images/thumbnails/treasure-hunter.jpg
 tags:
   - adventure
   - exploration

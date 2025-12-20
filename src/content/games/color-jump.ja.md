@@ -2,7 +2,7 @@
 title: Color Jump カラー・ジャンプ
 description: 「Color Jump」はワンタップで遊べるランアクション。色を合わせ、ジャンプのタイミングを見極め、変化するパターンをすり抜けよう。
 iframeSrc: 'https://2sqb7s6hkuouo.h5games.usercontent.goog/v/251huhkdnons0/'
-thumbnail: /new-images/color-jump.png
+thumbnail: /new-images/thumbnails/color-jump.png
 urlstr: color-jump
 score: 3.9/5  (1691 votes)
 tags:

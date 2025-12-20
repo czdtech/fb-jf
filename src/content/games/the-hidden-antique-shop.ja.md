@@ -2,7 +2,7 @@
 title: The Hidden Antique Shop
 description: The Hidden Antique Shopは、隠されたオブジェクトを見つけるパズルゲームです。アンティークショップで隠されたアイテムを探しましょう。
 iframeSrc: 'https://ubg98.github.io/TheHiddenAntiqueShop/'
-thumbnail: /new-images/the-hidden-antique-shop.jpg
+thumbnail: /new-images/thumbnails/the-hidden-antique-shop.png
 urlstr: the-hidden-antique-shop
 score: 4.2/5  (1654 votes)
 tags:

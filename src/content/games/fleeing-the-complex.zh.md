@@ -6,7 +6,7 @@ description: >-
   Henry Stickmin 系列中規模最大的一次越獄行動：透過選擇道具與路線，
   嘗試從要塞級監獄中逃脫，解鎖多種結局並收集所有失敗與角色資料。
 iframeSrc: 'https://ubg77.github.io/fleeing-the-complex/'
-thumbnail: /new-images/fleeing-the-complex.jpg
+thumbnail: /new-images/thumbnails/fleeing-the-complex.jpg
 tags:
   - adventure
   - point-and-click

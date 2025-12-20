@@ -6,7 +6,7 @@ description: >-
   matching colors and numbers, using special action cards to block opponents and
   be the first to shout 'UNO!'
 iframeSrc: 'https://www.xpgameplus.com/games/uno/default.html'
-thumbnail: /new-images/uno.jpg
+thumbnail: /new-images/thumbnails/uno.jpg
 urlstr: uno
 score: 4.4/5  (1083 votes)
 tags:

@@ -2,7 +2,7 @@
 title: Minesweeper 2
 description: Minesweeper 2は改良された地雷ゲームです。地雷をマークし、論理を使用し、新しい機能でクラシックパズルをマスターします。
 iframeSrc: 'https://minesweeper2.h5games.usercontent.goog/v/33afuji6r8te0/'
-thumbnail: /new-images/minesweeper-2.png
+thumbnail: /new-images/thumbnails/minesweeper-2.jpg
 urlstr: minesweeper-2
 score: 4.3/5  (2123 votes)
 tags:

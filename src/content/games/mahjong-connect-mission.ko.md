@@ -7,7 +7,7 @@ description: >-
   마작 커넥트 퍼즐입니다. 제한 시간 안에 보드를 비우기 위해 잠금, 안개, 폭탄 같은
   특수 타일을 우선적으로 관리해야 합니다.
 iframeSrc: 'https://7gsm6u8848nko.h5games.usercontent.goog/v/3qaqg5nju3th8/'
-thumbnail: /new-images/mahjong-connect-mission.png
+thumbnail: /new-images/thumbnails/mahjong-connect-mission.png
 tags:
   - mahjong
   - puzzle

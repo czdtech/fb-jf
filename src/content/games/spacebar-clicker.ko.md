@@ -7,7 +7,7 @@ description: >-
   구매하며 성장하는 중독성 강한 인크리멘탈 클릭커 게임입니다. 자동 클릭과
   배수 효과를 활용해 얼마나 높은 점수를 만들 수 있는지 도전해 보세요.
 iframeSrc: 'https://spacebarclicker.co/game/spacebar-counter/'
-thumbnail: /new-images/spacebar-clicker.jpg
+thumbnail: /new-images/thumbnails/spacebar-clicker.jpg
 tags:
   - clicker
   - idle

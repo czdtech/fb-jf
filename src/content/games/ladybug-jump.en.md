@@ -3,7 +3,7 @@ locale: en
 title: "Ladybug Jump"
 description: "Ladybug Jump is a cheerful hop‑platformer — time jumps, ride moving leaves, and collect nectar while avoiding hazards."
 iframeSrc: "https://1rtviun5s8hc0.h5games.usercontent.goog/v/2ajo6kl7ue0a0/"
-thumbnail: "/new-images/ladybug-jump.png"
+thumbnail: /new-images/thumbnails/ladybug-jump.png
 urlstr: "ladybug-jump"
 score: "3.8/5  (1629 votes)"
 tags: ["action", "casual"]

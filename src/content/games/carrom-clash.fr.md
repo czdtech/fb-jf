@@ -6,7 +6,7 @@ description: >-
   Découvre la version numérique du carrom : place ton striker, empoche tes pions
   et couvre la dame rouge avant ton adversaire dans ce duel de précision.
 iframeSrc: 'https://carromclash.h5games.usercontent.goog/v/4pmfd00515bbg/'
-thumbnail: /new-images/carrom-clash.png
+thumbnail: /new-images/thumbnails/carrom-clash.png
 tags:
   - sports
   - puzzle

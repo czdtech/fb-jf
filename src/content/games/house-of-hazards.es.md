@@ -6,7 +6,7 @@ description: >-
   Caos de fiesta local: completa tareas domésticas sencillas en una casa llena
   de trampas mientras tus amigos activan peligros para mandarte por los aires.
 iframeSrc: 'https://webglmath.github.io/house-of-hazards/'
-thumbnail: /new-images/house-of-hazards.jpg
+thumbnail: /new-images/thumbnails/house-of-hazards.jpg
 tags:
   - party
   - multiplayer

@@ -5,7 +5,7 @@ description: >-
   Drift Boss is a one‑button drifting game: time your turns to stay on the track
   and earn coins for upgrades.
 iframeSrc: 'https://ubg98.github.io/DriftBoss/'
-thumbnail: /new-images/drift-boss.jpg
+thumbnail: /new-images/thumbnails/drift-boss.jpg
 urlstr: drift-boss
 score: 3.7/5  (679 votes)
 tags:

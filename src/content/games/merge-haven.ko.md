@@ -6,7 +6,7 @@ description: >-
   Merge Haven은 머지 체인으로 자원을 만들고, 의뢰를 해결하며 작은 정착지를 조금씩
   확장해 나가는 잔잔한 머지 빌더 게임입니다.
 iframeSrc: 'https://1jjan0u3n07qg.h5games.usercontent.goog/v/5aruivrappsfg/'
-thumbnail: /new-images/merge-haven.png
+thumbnail: /new-images/thumbnails/merge-haven.png
 tags:
   - puzzle
   - casual

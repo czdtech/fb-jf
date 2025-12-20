@@ -7,7 +7,7 @@ description: >-
   zielst, Extrabälle sammelst, Power‑ups einsetzt und hohe Punktzahlen
   erreichst, bevor die nummerierten Blöcke den unteren Rand erreichen.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/ballistic/'
-thumbnail: /new-images/ballistic.jpg
+thumbnail: /new-images/thumbnails/ballistic.jpg
 tags:
   - puzzle
   - casual

@@ -2,7 +2,7 @@
 title: "Breakout ブレイクアウト"
 description: "「ブレイクアウト」は全てのブロック崩しの原点。パドルを操作し、ボールを跳ね返し、全てのレンガを破壊せよ。レジェンド級アーケードゲームの完全攻略ガイド。"
 iframeSrc: "https://ad-freegames.github.io/flash/game/atari-breakout.html"
-thumbnail: "/new-images/breakout.jpg"
+thumbnail: /new-images/thumbnails/breakout.jpg
 urlstr: "breakout"
 score: "3.8/5  (494 votes)"
 tags: ["arcade", "casual"]

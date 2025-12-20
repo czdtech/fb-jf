@@ -6,7 +6,7 @@ description: >-
   Jewel Halloween es un match‑3 con ambiente tenebroso: intercambia gemas,
   provoca cascadas y cumple los objetivos de cada nivel.
 iframeSrc: 'https://0gk3ormb878mg.h5games.usercontent.goog/v/1qgqb91tuaqv0/'
-thumbnail: /new-images/jewel-halloween.png
+thumbnail: /new-images/thumbnails/jewel-halloween.png
 tags:
   - puzzle
   - casual

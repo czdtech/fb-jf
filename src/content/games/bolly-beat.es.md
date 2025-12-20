@@ -6,7 +6,7 @@ description: >-
   Bolly Beat es un reto de ritmo en el que debes pulsar al compás, encadenar
   combos y dominar ritmos al estilo Bollywood.
 iframeSrc: 'https://bollybeat.h5games.usercontent.goog/v/4k75msiudusn0/'
-thumbnail: /new-images/bolly-beat.jpg
+thumbnail: /new-images/thumbnails/bolly-beat.jpg
 tags:
   - casual
   - action

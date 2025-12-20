@@ -4,7 +4,7 @@ urlstr: plants-vs-brainrots
 title: Plants vs Brainrots
 description: "Plants vs Brainrots est un tower defense inspiré de Plants vs Zombies\_: place des plantes de combat pour arrêter des vagues de Brainrots avant qu'ils n'atteignent ta maison."
 iframeSrc: 'https://plantsvsbrainrots.h5games.usercontent.goog/v/5gl0o5tpst4e0/'
-thumbnail: /new-images/plants-vs-brainrots.png
+thumbnail: /new-images/thumbnails/plants-vs-brainrots.jpg
 tags:
   - strategy
   - tower Defense

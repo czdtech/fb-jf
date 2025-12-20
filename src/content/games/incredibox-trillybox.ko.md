@@ -6,7 +6,7 @@ description: >-
   트랩 음악에 특화된 팬메이드 모드 'Incredibox Trillybox' 가이드입니다. 808 베이스·하이햇 롤·오토튠 보컬을 활용해
   강력한 트랩 비트를 만드는 방법을 정리했습니다.
 iframeSrc: 'https://turbowarp.org/907049948/embed'
-thumbnail: /new-images/incredibox-trillybox.png
+thumbnail: /new-images/thumbnails/incredibox-trillybox.png
 tags:
   - music
   - hip-Hop

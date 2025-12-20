@@ -7,7 +7,7 @@ description: >-
   despeja capas del tablero y disfruta de un ambiente de isla tropical mientras
   resuelves cada disposición.
 iframeSrc: 'https://02ef7fb7guapg.h5games.usercontent.goog/v/13knu9k9rm8go/'
-thumbnail: /new-images/aloha-mahjong.jpg
+thumbnail: /new-images/thumbnails/aloha-mahjong.jpg
 tags:
   - mahjong
   - puzzle

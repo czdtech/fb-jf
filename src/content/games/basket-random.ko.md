@@ -7,7 +7,7 @@ description: >-
   코트와 공, 캐릭터가 랜덤으로 바뀌는 혼돈 속에서 5점을 먼저 넣어 보세요.
 iframeSrc: >-
   https://app-197304.games.s3.yandex.net/197304/kj9rcykboy6eol5xnn250jesr7v0hoh1/index.html
-thumbnail: /new-images/basket-random.jpg
+thumbnail: /new-images/thumbnails/basket-random.jpg
 tags:
   - casual
   - sports

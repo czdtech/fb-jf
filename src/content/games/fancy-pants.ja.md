@@ -3,7 +3,7 @@ title: Fancy Pants ファンシーパンツ
 description: 「Fancy Pants」はスタイリッシュな棒人間プラットフォーマー。勢い、壁ジャンプ、流れるような動きで手描きレベルと隠し部屋を駆け抜けます。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210305/jj8/index.html
-thumbnail: /new-images/fancy-pants.jpg
+thumbnail: /new-images/thumbnails/fancy-pants.jpg
 urlstr: fancy-pants
 score: 4.7/5  (778 votes)
 tags:

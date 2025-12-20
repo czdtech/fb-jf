@@ -8,7 +8,7 @@ description: >-
   escapa de una marea letal que sube sin parar mientras desentierras los
   secretos de la tumba.
 iframeSrc: "https://w8.snokido.com/games/unity-webgl/tomb-run/index.html"
-thumbnail: "/new-images/tomb-of-the-mask.jpg"
+thumbnail: /new-images/thumbnails/tomb-of-the-mask.jpg
 tags:
   - arcade
   - maze

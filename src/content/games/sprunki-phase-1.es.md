@@ -7,7 +7,7 @@ description: >-
   una forma simple e intuitiva de disfrutar creando música y ver cómo era este
   mundo vibrante y creativo en sus inicios.
 iframeSrc: 'https://turbowarp.org/1127823859/embed'
-thumbnail: /sprunki-phase-1.png
+thumbnail: /new-images/thumbnails/sprunki-phase-1.png
 tags:
   - sprunki phase 1
 score: 4.3/5  (96 votes)

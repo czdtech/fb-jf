@@ -4,7 +4,7 @@ urlstr: basket-champ
 title: Basket Champ 篮球高手
 description: 《Basket Champ（篮球高手）》是一款一键操作的投篮挑战游戏，通过控制出手弧线和力度，在移动篮筐和障碍间连续命中，追求最长命中连锁。
 iframeSrc: 'https://0outkmbudufj8.h5games.usercontent.goog/v/1stcrgq2b9d08/'
-thumbnail: /new-images/basket-champ.png
+thumbnail: /new-images/thumbnails/basket-champ.png
 tags:
   - sports
   - basketball

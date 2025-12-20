@@ -7,7 +7,7 @@ description: >-
   großen Roster ikonischer Figuren und liefere dir schnelle Plattformkämpfe –
   allein oder mit Freunden.
 iframeSrc: 'https://kdata1.com/games/SSF22/?kbhgames'
-thumbnail: /new-images/super-smash-flash-2-v08.jpg
+thumbnail: /new-images/thumbnails/super-smash-flash-2-v08.jpg
 tags:
   - fighting
   - platformer

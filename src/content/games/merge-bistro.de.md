@@ -7,7 +7,7 @@ description: >-
   erfülle Bestellungen und erweitere dein Bistro mit cleverer
   Brettverwaltung.
 iframeSrc: 'https://0f5mbl2u9ont8.h5games.usercontent.goog/v/50p3a8ekgfdk8/'
-thumbnail: /new-images/merge-bistro.png
+thumbnail: /new-images/thumbnails/merge-bistro.png
 tags:
   - puzzle
   - casual

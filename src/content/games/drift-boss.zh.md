@@ -6,7 +6,7 @@ description: >-
   《Drift Boss 漂移老板》是一款一键式漂移小游戏。通过按住与松开发动漂移，在悬空赛道
   上完成每一个转弯，避免掉落，并用金币解锁更稳定的车辆。
 iframeSrc: 'https://ubg98.github.io/DriftBoss/'
-thumbnail: /new-images/drift-boss.jpg
+thumbnail: /new-images/thumbnails/drift-boss.jpg
 tags:
   - racing
   - drifting

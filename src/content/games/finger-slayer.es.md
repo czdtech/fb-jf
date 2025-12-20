@@ -7,7 +7,7 @@ description: >-
   de peligro y retíralo en el último milisegundo para esquivar la cuchilla sin
   asustarte antes de tiempo.
 iframeSrc: 'https://7ftsta5r737o8.h5games.usercontent.goog/v/3m7r2si8ppdlg/'
-thumbnail: /new-images/finger-slayer.jpg
+thumbnail: /new-images/thumbnails/finger-slayer.jpg
 tags:
   - action
   - casual

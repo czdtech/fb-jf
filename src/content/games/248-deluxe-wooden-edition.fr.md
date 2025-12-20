@@ -4,7 +4,7 @@ urlstr: 248-deluxe-wooden-edition
 title: "248 Deluxe Wooden edition"
 description: "248 Deluxe Wooden edition est un puzzle de fusion de nombres sur un plateau en bois : relie des cases identiques, fais monter les valeurs et garde assez d’espace pour continuer à jouer." 
 iframeSrc: 'https://0k2rsj4f89nr8.h5games.usercontent.goog/v/03pkkc7ds3qdg/'
-thumbnail: /new-images/248-deluxe-wooden-edition.jpg
+thumbnail: /new-images/thumbnails/248-deluxe-wooden-edition.jpg
 tags:
   - puzzle
   - thinky

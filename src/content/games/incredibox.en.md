@@ -6,7 +6,7 @@ description: >-
   Incredibox can make your dream come true! This game is part game, part music
   creation tool, and offers musical fun for people of all ages.
 iframeSrc: 'https://nom74100.github.io/in-box/'
-thumbnail: /Incredibox.png
+thumbnail: /new-images/thumbnails/incredibox.png
 urlstr: incredibox
 sidebarNew: 4
 modType: incredibox

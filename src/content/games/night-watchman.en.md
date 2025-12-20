@@ -4,7 +4,7 @@ locale: en
 title: "Night Watchman"
 description: "Night Watchman is a horror-survival game where players work as a night guard, monitoring security cameras and managing limited resources to survive against mysterious threats in a dark, abandoned building."
 iframeSrc: "https://g2.igroutka.ru/lib/crazy/games/night-watchman/"
-thumbnail: "/new-images/night-watchman.jpg"
+thumbnail: /new-images/thumbnails/night-watchman.jpg
 urlstr: "night-watchman"
 score: "4.5/5  (1344 votes)"
 tags: ["horror", "survival", "puzzle"]

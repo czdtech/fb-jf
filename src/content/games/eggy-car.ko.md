@@ -4,7 +4,7 @@ urlstr: eggy-car
 title: Eggy Car 에기 카
 description: 차 위에 올려진 깨지기 쉬운 달걀을 지키며 언덕길을 달리는 물리 드라이빙 게임입니다. 충격을 최소화해 달걀을 떨어뜨리지 마세요.
 iframeSrc: 'https://webglmath.github.io/eggy-car/'
-thumbnail: /new-images/eggy-car.jpg
+thumbnail: /new-images/thumbnails/eggy-car.jpg
 tags:
   - driving
   - physics

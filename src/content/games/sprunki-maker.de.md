@@ -7,7 +7,7 @@ description: >-
   Maker gestaltest du deine Figur von Kopf bis Fuß selbst – von Frisur über
   Gesichtsausdruck bis Outfit und Farben.
 iframeSrc: 'https://www.playfiddlebops.com/embed/sprunki-marker/index.html'
-thumbnail: /sprunki-maker.png
+thumbnail: /new-images/thumbnails/sprunki-maker.png
 tags:
   - sprunki maker (big update)
   - sprunki maker (big update) online

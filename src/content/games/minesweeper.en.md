@@ -4,7 +4,7 @@ locale: en
 title: "Minesweeper"
 description: "Minesweeper is a single-player puzzle video game where the objective is to clear a rectangular board containing hidden \"mines\" or bombs without detonating any of them, with the help of clues about the number of neighboring mines in each field."
 iframeSrc: "https://freeonlinegames.github.io/games/minesweeper/"
-thumbnail: "/new-images/minesweeper.jpg"
+thumbnail: /new-images/thumbnails/minesweeper.jpg
 urlstr: "minesweeper"
 score: "3.6/5  (289 votes)"
 tags: ["puzzle", "strategy", "casual"]

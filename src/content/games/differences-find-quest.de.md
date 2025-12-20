@@ -7,7 +7,7 @@ description: >-
   vergleichst zwei Szenen, markierst Abweichungen und setzt Hinweise gezielt
   ein, um alle Unterschiede zu finden.
 iframeSrc: 'https://4rsldln0df32g.h5games.usercontent.goog/v/1hcmcbpl76s40/'
-thumbnail: /new-images/differences-find-quest.png
+thumbnail: /new-images/thumbnails/differences-find-quest.png
 tags:
   - puzzle
   - thinky

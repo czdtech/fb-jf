@@ -8,7 +8,7 @@ description: >-
   frei und statte dein Capybara mit stylischen Hüten aus – in diesem
   entspannten Idle-Spiel.
 iframeSrc: 'https://bitlifeonline.github.io/capybara-clicker/'
-thumbnail: /new-images/capybara-clicker.jpg
+thumbnail: /new-images/thumbnails/capybara-clicker.jpg
 tags:
   - casual
   - clicker

@@ -7,7 +7,7 @@ description: >-
   detalla su paleta de sonidos cargada de 808, la jugabilidad para crear beats
   contundentes y cómo desbloquear sus bonus modernos.
 iframeSrc: 'https://turbowarp.org/907049948/embed'
-thumbnail: /new-images/incredibox-trillybox.png
+thumbnail: /new-images/thumbnails/incredibox-trillybox.png
 tags:
   - music
   - hip-Hop

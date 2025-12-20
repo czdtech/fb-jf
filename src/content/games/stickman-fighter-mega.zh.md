@@ -4,7 +4,7 @@ urlstr: stickman-fighter-mega
 title: 《Stickman Fighter Mega》火柴人搏击：终极版
 description: 《Stickman Fighter Mega》是一款节奏紧凑的火柴人动作游戏。通过快速连击、格挡和反应，在一波又一波敌人中杀出重围，成为终极搏击大师。
 iframeSrc: 'https://stickmanfightermega.h5games.usercontent.goog/v/5e2h2p4u8l7g0/'
-thumbnail: /new-images/stickman-fighter-mega.jpg
+thumbnail: /new-images/thumbnails/stickman-fighter-mega.jpg
 tags:
   - fighting
   - action

@@ -7,7 +7,7 @@ description: >-
   스프룽키 스타일 음악 제작 게임입니다. Incredibox를 좋아하고, 조금 더 가벼운
   느낌의 새 모드를 찾는 플레이어에게 잘 어울립니다.
 iframeSrc: 'https://sprunki-basical.pages.dev/'
-thumbnail: /sprunki-basical.png
+thumbnail: /new-images/thumbnails/sprunki-basical.png
 tags:
   - sprunki basical
   - sprunki basical online

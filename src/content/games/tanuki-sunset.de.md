@@ -8,7 +8,7 @@ description: >-
   hinab, machst Tricks, weichst Autos aus und sammelst Tanuki Bits für
   Highscores.
 iframeSrc: 'https://ubg100.github.io/games/tanuki/index.html'
-thumbnail: /new-images/tanuki-sunset.jpg
+thumbnail: /new-images/thumbnails/tanuki-sunset.jpg
 tags:
   - arcade
   - racing

@@ -2,7 +2,7 @@
 title: "Sprunki Mod BFDI - Play Sprunki Mod BFDI Online"
 description: "Sprunki Mod BFDI（Sprunki Battle for Dream Island）は、BFDI風の見た目を取り入れたSprunki系の音楽作成Modです。キャラクターを組み合わせて音を重ね、トラックを作れます。"
 iframeSrc: "https://turbowarp.org/1087434086/embed"
-thumbnail: "/sprunki-mod-bfdi.png"
+thumbnail: /new-images/thumbnails/sprunki-mod-BFDI.png
 urlstr: "sprunki-mod-BFDI"
 score: "4.2/5  (347 votes)"
 tags: ["sprunki mod bfdi"]

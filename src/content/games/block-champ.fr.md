@@ -4,7 +4,7 @@ urlstr: block-champ
 title: "Block Champ"
 description: "Block Champ est un puzzle 10×10 avec blocs spéciaux : place des formes pour compléter des lignes, déclenche les éclairs et débarrasse‑toi des blocs de glace pour tenir le plus longtemps possible."
 iframeSrc: "https://ams.cdn.arkadiumhosted.com/assets/global/game/block-champ/"
-thumbnail: /new-images/block-champ.jpg
+thumbnail: /new-images/thumbnails/block-champ.jpg
 tags:
   - puzzle
   - board Game

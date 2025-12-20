@@ -7,7 +7,7 @@ description: >-
   Materialien, um hinauszugelangen. Klettere an herabfallenden Blöcken nach
   oben – aber lass sie nicht auf dich stürzen!
 iframeSrc: 'https://turbowarp.org/1189417610/embed'
-thumbnail: /minecraft-cave-escape.png
+thumbnail: /new-images/thumbnails/minecraft-cave-escape.png
 tags:
   - minecraft cave escape
 score: 4.7/5  (354 votes)

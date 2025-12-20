@@ -4,7 +4,7 @@ urlstr: incredibox-donki-abgerny
 title: "Incredibox Donki Abgerny - 在线玩 Incredibox Donki Abgerny"
 description: "Incredibox Donki Abgerny 将深沉的部落节奏、独特的迪吉里杜管和充满灵魂的吟唱融入经典的 Incredibox 玩法中。"
 iframeSrc: 'https://turbowarp.org/1135326100/embed'
-thumbnail: /incredibox-donki-abgerny.png
+thumbnail: /new-images/thumbnails/incredibox-donki-abgerny.png
 tags:
   - incredibox donki abgerny
 score: 4.3/5 (154 票)

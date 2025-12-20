@@ -6,7 +6,7 @@ description: >-
   Bilderquiz mit Katzen: Erkenne Rassen oder besondere Merkmale anhand von
   Fotos und Hinweisen und arbeite dich durch thematische Runden.
 iframeSrc: 'https://webglmath.github.io/guess-the-kitty/'
-thumbnail: /new-images/guess-the-kitty.jpg
+thumbnail: /new-images/thumbnails/guess-the-kitty.jpg
 tags:
   - trivia
   - puzzle

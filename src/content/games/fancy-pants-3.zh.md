@@ -7,7 +7,7 @@ description: >-
   牆跑與滑行動作更加細膩，在手繪世界裡一路衝刺探險。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210305/jj10/index.html
-thumbnail: /new-images/fancy-pants-3.jpg
+thumbnail: /new-images/thumbnails/fancy-pants-3.jpg
 tags:
   - platformer
   - action

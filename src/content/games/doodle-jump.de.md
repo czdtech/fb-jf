@@ -6,7 +6,7 @@ description: >-
   Doodle Jump ist ein vertikaler Endless-Platformer: Springe von Plattform zu
   Plattform, weiche Gefahren aus und klettere so hoch wie möglich.
 iframeSrc: 'https://ubg98.github.io/DoodleJump/'
-thumbnail: /new-images/doodle-jump.jpg
+thumbnail: /new-images/thumbnails/doodle-jump.jpg
 tags:
   - arcade
   - platformer

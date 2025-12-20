@@ -3,7 +3,7 @@ locale: en
 title: "Cricket World Cup"
 description: "Cricket World Cup condenses batting drills — pick shots, read line/length, and chase targets with smart risk control."
 iframeSrc: "https://5ret6v2c94q4g.h5games.usercontent.goog/v/09j66svc50570/"
-thumbnail: "/new-images/cricket-world-cup.png"
+thumbnail: /new-images/thumbnails/cricket-world-cup.png
 urlstr: "cricket-world-cup"
 score: "4.1/5  (1998 votes)"
 tags: ["sports", "casual"]

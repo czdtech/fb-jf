@@ -4,7 +4,7 @@ urlstr: crash-bandicoot
 title: Crash Bandicoot
 description: "Retrouve Crash Bandicoot dans un runner 3D plein de caisses\_: cours, saute, fais des tours sur toi‑même et évite les pièges pour atteindre la fin des niveaux."
 iframeSrc: 'https://tiwb.github.io/crashbandicoot/'
-thumbnail: /new-images/crash-bandicoot.jpg
+thumbnail: /new-images/thumbnails/crash-bandicoot.jpg
 tags:
   - action
   - casual

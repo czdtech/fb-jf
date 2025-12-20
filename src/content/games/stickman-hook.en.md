@@ -4,7 +4,7 @@ locale: en
 title: "Stickman Hook"
 description: "Stickman Hook is a physics-based swinging game where players control a stickman character, using grappling hooks to swing through levels, avoiding obstacles and performing acrobatic moves to reach the finish line."
 iframeSrc: "https://ubg98.github.io/StickmanHook/"
-thumbnail: "/new-images/stickman-hook.jpg"
+thumbnail: /new-images/thumbnails/stickman-hook.jpg
 urlstr: "stickman-hook"
 score: "3.7/5  (994 votes)"
 tags: ["physics", "swinging", "platformer"]

@@ -6,7 +6,7 @@ description: >-
   Egg Maker ist ein schnelles Küchen-Puzzlespiel: Takte Zubereitungsschritte,
   timinge Pfannen richtig und serviere perfekte Eier im Küchenstress.
 iframeSrc: 'https://2jbqv0uarsk18.h5games.usercontent.goog/v/2cnuunat3mtpg/'
-thumbnail: /new-images/egg-maker.png
+thumbnail: /new-images/thumbnails/egg-maker.png
 tags:
   - casual
   - thinky

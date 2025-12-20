@@ -7,7 +7,7 @@ description: >-
   und Lichter rechtzeitig, um die Animatronics fünf Nächte (und mehr) lang aus
   deinem Büro fernzuhalten.
 iframeSrc: 'https://ubg77.github.io/fix/fnaf1/'
-thumbnail: /new-images/five-nights-at-freddy-1.jpg
+thumbnail: /new-images/thumbnails/five-nights-at-freddy-1.jpg
 tags:
   - horror
   - strategy

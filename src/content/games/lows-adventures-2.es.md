@@ -6,7 +6,7 @@ description: >-
   Secuela de plataformas retro: corre y salta por niveles compactos, encuentra
   llaves y secretos y supera desafíos contrarreloj con saltos precisos.
 iframeSrc: 'https://previews.customer.envatousercontent.com/files/489323722/index.html'
-thumbnail: /new-images/lows-adventures-2.jpg
+thumbnail: /new-images/thumbnails/lows-adventures-2.jpg
 tags:
   - platformer
   - adventure

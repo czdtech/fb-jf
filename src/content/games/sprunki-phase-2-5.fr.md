@@ -7,7 +7,7 @@ description: >-
   musical mignon puis bascule soudain dans l’horreur, mêlant blagues, jumpscares
   et création de morceaux.
 iframeSrc: 'https://html-classic.itch.zone/html/14324321/index.html'
-thumbnail: /sprunki-phase-2-5.png
+thumbnail: /new-images/thumbnails/sprunki-phase-2-5.png
 tags:
   - sprunki phase 2.5
 score: 4.3/5  (218 votes)

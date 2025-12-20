@@ -5,7 +5,7 @@ title: Atari Breakout 打砖块经典版
 description: 在《Atari Breakout（打砖块经典版）》中，你将操控底部挡板反弹小球，一点点打碎屏幕上方的砖块，通过角度控制和隧道战术冲击高分。
 iframeSrc: >-
   https://app-184523.games.s3.yandex.net/184523/bdryh2h6iqjirujzrk3tlum0j0n28j1o/index.html
-thumbnail: /new-images/atari-breakout.jpg
+thumbnail: /new-images/thumbnails/atari-breakout.jpg
 tags:
   - casual
   - action

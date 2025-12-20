@@ -6,7 +6,7 @@ description: >-
   Place shapes to clear lines, master special lightning and ice blocks, and aim
   for the highest score in this engaging brain-teaser.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/block-champ/'
-thumbnail: /new-images/block-champ.jpg
+thumbnail: /new-images/thumbnails/block-champ.jpg
 urlstr: block-champ
 score: 4.6/5  (926 votes)
 tags:

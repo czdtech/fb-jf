@@ -7,7 +7,7 @@ description: >-
   bloques elementales para limpiar líneas y reúne estrellas para activar
   potentes potenciadores. Piensa cada movimiento para dominar la cuadrícula.
 iframeSrc: 'https://elementblocks.h5games.usercontent.goog/v/35up5t7ao24i8/'
-thumbnail: /new-images/element-blocks.png
+thumbnail: /new-images/thumbnails/element-blocks.png
 tags:
   - puzzle
   - thinky

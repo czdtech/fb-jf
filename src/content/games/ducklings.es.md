@@ -6,7 +6,7 @@ description: >-
   Ducklings es un relajante juego de recoger patitos: rescata crías en el lago
   y llévalas sanas y salvas de vuelta a tu nido.
 iframeSrc: 'https://g2.igroutka.ru/games/164/BkDlKfiWjEoZ2rcG/ducklings_io/'
-thumbnail: /new-images/ducklings.jpg
+thumbnail: /new-images/thumbnails/ducklings.jpg
 tags:
   - casual
   - arcade

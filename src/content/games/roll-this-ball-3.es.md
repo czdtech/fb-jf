@@ -7,7 +7,7 @@ description: >-
   los bloques de madera para crear un camino limpio por el que la bola pueda
   rodar desde el inicio hasta la meta.
 iframeSrc: "https://rollthisball3.h5games.usercontent.goog/v/65vs8rm7dfjno/"
-thumbnail: "/new-images/roll-this-ball-3.png"
+thumbnail: /new-images/thumbnails/roll-this-ball-3.png
 tags:
   - puzzle
   - thinky

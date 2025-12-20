@@ -2,7 +2,7 @@
 title: Tic Tac Toe
 description: Tic Tac Toeは、クラシックな三目並べゲームです。3つのマークを縦、横、斜めに揃えて勝ちましょう。
 iframeSrc: 'https://ubg98.github.io/TicTacToe/'
-thumbnail: /new-images/tic-tac-toe.jpg
+thumbnail: /new-images/thumbnails/tic-tac-toe.jpg
 urlstr: tic-tac-toe
 score: 4.2/5  (1987 votes)
 tags:

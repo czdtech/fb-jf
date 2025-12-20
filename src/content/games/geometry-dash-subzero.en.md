@@ -4,7 +4,7 @@ locale: en
 title: "Geometry Dash SubZero"
 description: "Standalone winter‑themed rhythm levels: jump, fly, and time rings to music across icy visuals and fast patterns." 
 iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp46/chenling/20240322/06/index.html"
-thumbnail: "/new-images/geometry-dash-subzero.jpg"
+thumbnail: /new-images/thumbnails/geometry-dash-subzero.jpg
 urlstr: "geometry-dash-subzero"
 score: "3.9/5  (429 votes)"
 tags: ["rhythm", "platformer"]

@@ -3,7 +3,7 @@ locale: en
 title: "Cards of the Undead"
 description: "A turn-based strategy card game of survival. Move your hero across the board, battle zombies, and collect coins and power-ups. Manage your health and armor to survive as long as you can!"
 iframeSrc: "https://4afojpng981kg.h5games.usercontent.goog/v/1ge6qnd6h4ss0/"
-thumbnail: "/new-images/cards-of-the-undead.png"
+thumbnail: /new-images/thumbnails/cards-of-the-undead.png
 urlstr: "cards-of-the-undead"
 score: "4.3/5  (2250 votes)"
 tags: ["card", "strategy", "puzzle", "thinky"]

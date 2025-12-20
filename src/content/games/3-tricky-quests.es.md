@@ -7,7 +7,7 @@ description: >-
   puzles "fuera de la caja" con elementos de aventura y una historia completa
   mientras ayudas a Alyx a reunir las Gemas de Poder.
 iframeSrc: 'https://bitlifeonline.github.io/brain-test-3-tricky-quests/'
-thumbnail: /new-images/3-tricky-quests.jpg
+thumbnail: /new-images/thumbnails/3-tricky-quests.jpg
 tags:
   - casual
   - rhythm

@@ -7,7 +7,7 @@ description: >-
   가이드입니다. Sprunki 스타일 캐릭터와 숨겨진 어나더 월드를
   활용해 개성 있는 비트를 만드는 방법을 소개합니다.
 iframeSrc: 'https://turbowarp.org/1129395199/embed'
-thumbnail: /incredibox-sprunksters.png
+thumbnail: /new-images/thumbnails/incredibox-sprunksters.png
 tags:
   - incredibox sprunksters
 score: 4.3/5  (185 votes)

@@ -6,7 +6,7 @@ description: >-
   막대 인간 군대를 이끌고 붉은 제국에 맞서는 실시간 전략 게임입니다. 광산 노동자로 자원을 캐고,
   방패병·궁수·바바리안·마법사 등 다양한 유닛을 양성해 기지를 구축하고 적 진영을 무너뜨리세요.
 iframeSrc: 'https://g.igroutka.ru/games/164/lt2ARJHFBxPb4spD/4/war_of_sticks/'
-thumbnail: /new-images/war-of-sticks.jpg
+thumbnail: /new-images/thumbnails/war-of-sticks.jpg
 tags:
   - strategy
   - rTS

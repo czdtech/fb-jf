@@ -2,7 +2,7 @@
 title: Tennis
 description: Tennisは、クラシックなテニスゲームです。ラケットを振ってボールを打ち返し、相手を倒しましょう。
 iframeSrc: 'https://ubg98.github.io/Tennis/'
-thumbnail: /new-images/tennis.jpg
+thumbnail: /new-images/thumbnails/tennis.jpg
 urlstr: tennis
 score: 4.3/5  (2456 votes)
 tags:

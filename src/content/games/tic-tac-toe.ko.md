@@ -6,7 +6,7 @@ description: >-
   고전 전략 보드게임 Tic-Tac-Toe(틱택토)를 즐길 수 있는 3x3 퍼즐입니다. 두 플레이어가
   번갈아 X와 O를 두어 가로, 세로, 대각선 어느 한 줄이라도 먼저 완성하면 승리합니다.
 iframeSrc: 'https://edit.coolmathgames.com//sites/cmatgame/files/public_games/32511/'
-thumbnail: /new-images/tic-tac-toe.jpg
+thumbnail: /new-images/thumbnails/tic-tac-toe.jpg
 tags:
   - strategy
   - classic

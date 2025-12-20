@@ -4,7 +4,7 @@ locale: en
 title: "Gunspin"
 description: "Recoil‑propulsion arcade: fire your gun to spin and fly, collect ammo, and travel as far as possible through hazards." 
 iframeSrc: "https://ubg44.github.io/GunSpin/"
-thumbnail: "/new-images/gunspin.jpg"
+thumbnail: /new-images/thumbnails/gunspin.jpg
 urlstr: "gunspin"
 score: "4.1/5  (1211 votes)"
 tags: ["arcade", "physics"]

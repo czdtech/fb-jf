@@ -4,7 +4,7 @@ locale: en
 title: "Mahjong Titans"
 description: "Tile‑matching solitaire: clear pairs of identical tiles from layered layouts until the board is empty; plan around blocks." 
 iframeSrc: "https://ad-freegames.github.io/flash/game/mahjong-titans.html"
-thumbnail: "/new-images/mahjong-titans.jpg"
+thumbnail: /new-images/thumbnails/mahjong-titans.jpg
 urlstr: "mahjong-titans"
 score: "4.0/5  (628 votes)"
 tags: ["puzzle", "mahjong"]

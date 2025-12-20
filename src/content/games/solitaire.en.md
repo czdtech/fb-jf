@@ -6,7 +6,7 @@ description: >-
   in specific sequences and suits, aiming to move all cards to foundation piles
   and clear the tableau in this timeless puzzle game.
 iframeSrc: 'https://www.edogan.us/solitaire-js/'
-thumbnail: /new-images/solitaire.jpg
+thumbnail: /new-images/thumbnails/solitaire.jpg
 urlstr: solitaire
 score: 4.8/5  (1242 votes)
 tags:

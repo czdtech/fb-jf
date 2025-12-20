@@ -7,7 +7,7 @@ description: >-
   Gira la torre, apunta tus disparos y combina tres o más burbujas del mismo
   color para limpiar el tablero antes de que alcancen la parte inferior.
 iframeSrc: 'https://bubbletower.h5games.usercontent.goog/v/7ebcukaef3voo/'
-thumbnail: /new-images/bubble-tower.png
+thumbnail: /new-images/thumbnails/bubble-tower.png
 tags:
   - puzzle
   - shooting

@@ -2,7 +2,7 @@
 title: "Ballistic バリスティック"
 description: "「Ballistic」を完全攻略！ボールを発射してブロックを壊し、画面が埋まる前にハイスコアを目指す、中毒性抜群の物理パズルゲームの戦略とコツを紹介。"
 iframeSrc: "https://ballistic.h5games.usercontent.goog/v/9b83b167-93e1-482a-874f-c4e9702209d8/"
-thumbnail: "/new-images/ballistic.jpg"
+thumbnail: /new-images/thumbnails/ballistic.jpg
 urlstr: "ballistic"
 score: "4.3/5  (950 votes)"
 tags: ["puzzle", "arcade", "physics"]

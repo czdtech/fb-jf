@@ -2,7 +2,7 @@
 title: Text Twist 2
 description: Text Twist 2は、人気の単語パズルゲームの続編です。文字を並べ替えて単語を作りましょう。
 iframeSrc: 'https://ubg98.github.io/TextTwist2/'
-thumbnail: /new-images/text-twist-2.jpg
+thumbnail: /new-images/thumbnails/text-twist-2.jpg
 urlstr: text-twist-2
 score: 4.4/5  (2843 votes)
 tags:

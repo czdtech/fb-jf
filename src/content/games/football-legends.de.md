@@ -7,7 +7,7 @@ description: >-
   2-gegen-2 mit Kopfbällen, Volleys und Specials in schnellen Matches oder
   Turnieren.
 iframeSrc: 'https://webglmath.github.io/football-legends/'
-thumbnail: /new-images/football-legends.jpg
+thumbnail: /new-images/thumbnails/football-legends.jpg
 tags:
   - sports
   - soccer

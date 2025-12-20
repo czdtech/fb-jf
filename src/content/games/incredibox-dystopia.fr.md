@@ -6,7 +6,7 @@ description: >-
   Incredibox Dystopia est un mod sombre et futuriste : synthés froids, sirènes
   d'alerte et chants mécaniques pour composer la bande‑son d'un futur en ruine.
 iframeSrc: 'https://turbowarp.org/1015284026/embed'
-thumbnail: /new-images/incredibox-dystopia.png
+thumbnail: /new-images/thumbnails/incredibox-dystopia.png
 tags:
   - music
   - electronic

@@ -7,7 +7,7 @@ description: >-
   cuchillo para cortar toda clase de objetos, buscando cortes perfectos y
   recogiendo recompensas mientras atraviesas recorridos llenos de obstáculos.
 iframeSrc: "https://bitlifeonline.github.io/slice-master/"
-thumbnail: "/new-images/slice-master.jpg"
+thumbnail: /new-images/thumbnails/slice-master.jpg
 tags:
   - physics
   - action

@@ -8,7 +8,7 @@ description: >-
   gigante y marca goles contra tus rivales. Domina la conducción y la puntería
   para ganar el partido.
 iframeSrc: "https://ubg77.github.io/edit/soccar/"
-thumbnail: "/new-images/soccar.jpg"
+thumbnail: /new-images/thumbnails/soccar.jpg
 tags:
   - sports
   - cars

@@ -7,7 +7,7 @@ description: >-
   élaborés ! Remplis ton présentoir, honore les commandes et construis la
   pâtisserie la plus gourmande dans ce puzzle de fusion relaxant.
 iframeSrc: 'https://mergecakes.h5games.usercontent.goog/v/516lkgikje8fo/'
-thumbnail: /new-images/merge-cakes.jpg
+thumbnail: /new-images/thumbnails/merge-cakes.jpg
 tags:
   - puzzle
   - casual

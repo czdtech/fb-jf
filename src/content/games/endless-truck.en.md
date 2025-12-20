@@ -3,7 +3,7 @@ locale: en
 title: "Endless Truck"
 description: "Endless Truck is a stunt‑runner — manage momentum, land cleanly, and chain boosts while collecting cash and upgrades."
 iframeSrc: "https://3a73fjju0knmg.h5games.usercontent.goog/v/5ammj72815kno/"
-thumbnail: "/new-images/endless-truck.png"
+thumbnail: /new-images/thumbnails/endless-truck.png
 urlstr: "endless-truck"
 score: "3.9/5  (1734 votes)"
 tags: ["car", "driving", "action"]

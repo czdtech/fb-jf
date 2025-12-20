@@ -7,7 +7,7 @@ description: >-
   orchestrale Stücke aus Cembalo, Streichern, Pauken und Opernchören und schalte
   passende Bonus-Szenen aus dem 18. Jahrhundert frei.
 iframeSrc: 'https://turbowarp.org/943197191/embed'
-thumbnail: /new-images/incredibox-wolfgang.png
+thumbnail: /new-images/thumbnails/incredibox-wolfgang.png
 tags:
   - music
   - classical

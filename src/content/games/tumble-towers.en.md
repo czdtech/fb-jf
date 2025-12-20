@@ -3,7 +3,7 @@ locale: en
 title: "Tumble Towers"
 description: "Tumble Towers is a physics stack‑and‑drop — balance blocks, control overhangs, and build stable towers that survive gravity checks."
 iframeSrc: "https://786ndsslg99r8.h5games.usercontent.goog/v/70bavan56u08g/"
-thumbnail: "/new-images/tumble-towers.png"
+thumbnail: /new-images/thumbnails/tumble-towers.png
 urlstr: "tumble-towers"
 score: "3.9/5  (1742 votes)"
 tags: ["puzzle", "thinky", "casual"]

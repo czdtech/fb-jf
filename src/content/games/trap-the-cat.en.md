@@ -4,7 +4,7 @@ locale: en
 title: "Trap the Cat"
 description: "Trap the Cat is a strategic puzzle game where players must block a clever cat's escape routes by placing barriers on a hexagonal grid, using logic and planning to prevent the cat from reaching the edge."
 iframeSrc: "https://freeonlinegames.github.io/cat-trap.html"
-thumbnail: "/new-images/trap-the-cat.jpg"
+thumbnail: /new-images/thumbnails/trap-the-cat.jpg
 urlstr: "trap-the-cat"
 score: "4.0/5  (972 votes)"
 tags: ["strategy", "puzzle", "logic"]

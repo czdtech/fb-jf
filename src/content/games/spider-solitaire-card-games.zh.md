@@ -4,7 +4,7 @@ urlstr: spider-solitaire-card-games
 title: 《Spider Solitaire Card Games》蜘蛛纸牌合集
 description: 《Spider Solitaire Card Games》是一款集合多种蜘蛛纸牌规则的接龙游戏。通过不同花色与难度组合，挑战从简单到高阶的蜘蛛纸牌玩法。
 iframeSrc: 'https://spidersolitairecardgames.h5games.usercontent.goog/v/37t4nclnk0ov0/'
-thumbnail: /new-images/spider-solitaire-card-games.png
+thumbnail: /new-images/thumbnails/spider-solitaire-card-games.jpg
 tags:
   - card
   - solitaire

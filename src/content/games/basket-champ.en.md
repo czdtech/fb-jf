@@ -3,7 +3,7 @@ locale: en
 title: "Basket Champ"
 description: "Basket Champ is a one‑touch hoop challenge — set arc, swish clean, and string perfect shots."
 iframeSrc: "https://0outkmbudufj8.h5games.usercontent.goog/v/1stcrgq2b9d08/"
-thumbnail: "/new-images/basket-champ.png"
+thumbnail: /new-images/thumbnails/basket-champ.png
 urlstr: "basket-champ"
 score: "4.0/5  (1816 votes)"
 tags: ["sports", "basketball", "casual"]

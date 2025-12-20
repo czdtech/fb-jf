@@ -6,7 +6,7 @@ description: >-
   Rejoins Cooking Mama en cuisine : coupe, fais sauter, cuis et dresse des plats
   étape par étape à travers une série de mini‑jeux gourmands.
 iframeSrc: 'https://5l34l9kr3vji0.h5games.usercontent.goog/v/4u86h2t1e0nl0/'
-thumbnail: /new-images/cooking-mama.jpg
+thumbnail: /new-images/thumbnails/cooking-mama.jpg
 tags:
   - casual
   - puzzle

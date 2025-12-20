@@ -7,7 +7,7 @@ description: >-
   Domina este clásico juego de cartas de casino intentando vencer al crupier con
   una mano lo más cercana posible a 21 sin pasarte.
 iframeSrc: 'https://freegames.org/games/blackjack/v1/'
-thumbnail: /new-images/blackjack.jpg
+thumbnail: /new-images/thumbnails/blackjack.jpg
 tags:
   - casual
   - rhythm

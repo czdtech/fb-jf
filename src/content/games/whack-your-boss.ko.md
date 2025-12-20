@@ -6,7 +6,7 @@ description: >-
   사무실에서 쌓인 스트레스를 블랙 코미디로 풀어내는 인터랙티브 게임입니다. 사무실 곳곳의 물건을 클릭해 짜증 나는 상사를 "처리"하는
   각양각색의 연출을 감상하며, 숨겨진 모든 방법을 찾아보세요.
 iframeSrc: 'https://flash-cdn.blogspot.com/2021/06/whack-your-boss-24-ways.html'
-thumbnail: /new-images/whack-your-boss.jpg
+thumbnail: /new-images/thumbnails/whack-your-boss.jpg
 tags:
   - interactive
   - funny

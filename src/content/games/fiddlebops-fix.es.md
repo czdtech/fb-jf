@@ -7,7 +7,7 @@ description: >-
   exploras historias interactivas y conectas con una comunidad vibrante, todo
   desde tu navegador y de forma gratuita.
 iframeSrc: 'https://turbowarp.org/1131610529/embed'
-thumbnail: /fiddlebops-polos.png
+thumbnail: /new-images/thumbnails/fiddlebops-fix.png
 tags:
   - fiddlebops fix
 score: 4.6/5  (217 votes)

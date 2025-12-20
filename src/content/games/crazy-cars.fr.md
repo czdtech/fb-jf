@@ -4,7 +4,7 @@ urlstr: crazy-cars
 title: Crazy Cars
 description: "Crazy Cars est un jeu de course arcade déjanté\_: évite le trafic, ramasse les bonus et slalome à toute vitesse pour aller le plus loin possible."
 iframeSrc: 'https://s3.eu-west-1.amazonaws.com/1001spiele/files/html5-games/134700.html'
-thumbnail: /new-images/crazy-cars.png
+thumbnail: /new-images/thumbnails/crazy-cars.jpg
 tags:
   - racing
   - casual

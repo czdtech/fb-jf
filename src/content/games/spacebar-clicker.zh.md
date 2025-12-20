@@ -4,7 +4,7 @@ urlstr: spacebar-clicker
 title: 《Spacebar Clicker》空格键点击器
 description: 《Spacebar Clicker》是一款极简的点击/放置类小游戏。不断敲击空格键或点击按钮来增加计数，解锁升级与自动化加成，看数字一路飙升。
 iframeSrc: 'https://spacebarclicker.h5games.usercontent.goog/v/2n07n01g2leio/'
-thumbnail: /new-images/spacebar-clicker.png
+thumbnail: /new-images/thumbnails/spacebar-clicker.jpg
 tags:
   - clicker
   - idle

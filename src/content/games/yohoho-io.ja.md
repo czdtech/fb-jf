@@ -2,7 +2,7 @@
 title: Yohoho.io
 description: Yohoho.ioは、海賊バトルロイヤルゲームです。他の海賊と戦って最後の一人になりましょう。
 iframeSrc: 'https://ubg98.github.io/YohohoIO/'
-thumbnail: /new-images/yohoho-io.jpg
+thumbnail: /new-images/thumbnails/yohoho-io.jpg
 urlstr: yohoho-io
 score: 4.4/5  (3234 votes)
 tags:

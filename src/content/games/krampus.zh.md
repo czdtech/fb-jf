@@ -4,7 +4,7 @@ urlstr: krampus
 title: 《Krampus》圣诞恶灵地牢
 description: 《Krampus》是一款圣诞题材的恐怖平台动作游戏，你要在昏暗关卡中穿行，躲避陷阱与怪物，寻找钥匙和道具，从克拉姆普斯的巢穴中逃出生天。
 iframeSrc: 'https://g2.igroutka.ru/lib/crazy/games/krampus1/'
-thumbnail: /new-images/krampus.jpg
+thumbnail: /new-images/thumbnails/krampus.jpg
 tags:
   - horror
   - platformer

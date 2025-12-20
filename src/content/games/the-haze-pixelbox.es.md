@@ -4,7 +4,7 @@ urlstr: the-haze-pixelbox
 title: "The Haze Pixelbox - Crea ritmos tribales en línea"
 description: "Tanto si eres músico experimentado como si solo tienes curiosidad, The Haze Pixelbox te ofrece diversión sin fin. Dirige a un coro de beatboxers tribales, mezcla sonidos ancestrales y desata tu creatividad musical con un toque étnico único."
 iframeSrc: "https://turbowarp.org/1020955547/embed"
-thumbnail: "/the-haze-pixelbox.png"
+thumbnail: /new-images/thumbnails/the-haze-pixelbox.png
 tags:
   - the haze pixelbox
 score: 3.9/5  (132 votes)

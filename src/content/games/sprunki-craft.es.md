@@ -8,7 +8,7 @@ description: >-
   Entra en el mundo de Sprunki Craft y usa a tus personajes favoritos de
   Minecraft para crear tus propias obras musicales.
 iframeSrc: "https://www.minijuegos.com/embed/sprunki-craft"
-thumbnail: "/sprunki-craft.jpg"
+thumbnail: /new-images/thumbnails/sprunki-craft.jpg
 tags:
   - sprunki craft
   - sprunki craft online

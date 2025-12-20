@@ -8,7 +8,7 @@ description: >-
   und fieser Leveltricks in diesem berüchtigt schweren, aber urkomischen
   Parodiespiel.
 iframeSrc: 'https://tiwb.github.io/catmario/'
-thumbnail: /new-images/cat-mario.jpg
+thumbnail: /new-images/thumbnails/cat-mario.jpg
 tags:
   - platformer
   - casual

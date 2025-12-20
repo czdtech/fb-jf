@@ -4,7 +4,7 @@ locale: en
 title: "Geometry Dash World"
 description: "Compact rhythm‑platformer worlds: run, jump, and fly through short music‑synced levels, unlock gates with collected orbs, and visit daily levels." 
 iframeSrc: "https://geometrylite.io/game/geometry-dash-world/"
-thumbnail: "/new-images/geometry-dash-world.jpg"
+thumbnail: /new-images/thumbnails/geometry-dash-world.jpg
 urlstr: "geometry-dash-world"
 score: "3.6/5  (1425 votes)"
 tags: ["rhythm", "platformer"]

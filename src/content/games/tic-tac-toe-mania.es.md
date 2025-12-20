@@ -7,7 +7,7 @@ description: >-
   variantes de tablero y reglas especiales. Provoca bifurcaciones, bloquea
   amenazas y fuerza empates o victorias con juego óptimo.
 iframeSrc: 'https://7dcsid310v1u8.h5games.usercontent.goog/v/13cfdat69ufug/'
-thumbnail: /new-images/tic-tac-toe-mania.png
+thumbnail: /new-images/thumbnails/tic-tac-toe-mania.png
 tags:
   - 2 player
   - thinky

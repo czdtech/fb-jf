@@ -6,7 +6,7 @@ description: >-
   Affronte un adversaire dans une partie de dominos classique. Pose tes tuiles
   intelligemment, bloque l'autre joueur et vide ta main en premier pour gagner.
 iframeSrc: 'https://dominobattle.h5games.usercontent.goog/v/45fvkhcnai3s0/'
-thumbnail: /new-images/domino-battle.png
+thumbnail: /new-images/thumbnails/domino-battle.png
 tags:
   - card
   - puzzle

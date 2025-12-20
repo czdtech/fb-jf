@@ -7,7 +7,7 @@ description: >-
   Strecken jagst, Power-ups einsammelst und deine Gegner mit Raketen,
   Minen & Co. bekämpfst.
 iframeSrc: 'https://webgltest-17af1.firebaseapp.com/'
-thumbnail: /new-images/smash-karts.jpg
+thumbnail: /new-images/thumbnails/smash-karts.jpg
 tags:
   - racing
   - multiplayer

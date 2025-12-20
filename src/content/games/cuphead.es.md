@@ -6,7 +6,7 @@ description: >-
   Cuphead es un frenético run‑and‑gun: domina saltos y dashes precisos, aprende
   los patrones de los jefes y sobrevive a combates tan duros como espectaculares.
 iframeSrc: 'https://bitlifeonline.github.io/cuphead/'
-thumbnail: /new-images/cuphead.jpg
+thumbnail: /new-images/thumbnails/cuphead.jpg
 tags:
   - action
   - platformer

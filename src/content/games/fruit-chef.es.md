@@ -6,7 +6,7 @@ description: >-
   Fruit Chef es un frenético juego de cortar fruta: encadena cortes limpios,
   esquiva bombas y controla el ritmo para lograr combos monstruosos.
 iframeSrc: 'https://419in6alhpp88.h5games.usercontent.goog/v/22nao6drjf7v0/'
-thumbnail: /new-images/fruit-chef.png
+thumbnail: /new-images/thumbnails/fruit-chef.png
 tags:
   - action
   - casual

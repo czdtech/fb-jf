@@ -3,7 +3,7 @@ locale: en
 title: "Lake Jump"
 description: "Lake Jump is a one‑tap timing game — hop across platforms, avoid falls, and chain perfect jumps."
 iframeSrc: "https://lakejump.h5games.usercontent.goog/v/33bg3iluek1fg/"
-thumbnail: "/new-images/lake-jump.png"
+thumbnail: /new-images/thumbnails/lake-jump.png
 urlstr: "lake-jump"
 score: "3.7/5  (1276 votes)"
 tags: ["action", "casual"]

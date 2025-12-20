@@ -7,7 +7,7 @@ description: >-
   친구와 함께 협동 플레이로 미로를 공략해 보세요.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210128/x6/index.html
-thumbnail: /new-images/bad-ice-cream-2.jpg
+thumbnail: /new-images/thumbnails/bad-ice-cream-2.jpg
 tags:
   - puzzle
   - action

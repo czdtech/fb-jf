@@ -7,7 +7,7 @@ description: >-
   circulation, fais exploser tes ennemis et survie à des poursuites
   explosives.
 iframeSrc: 'https://3a73fjju0knmg.h5games.usercontent.goog/v/5ammj72815kno/'
-thumbnail: /new-images/rampage-road.png
+thumbnail: /new-images/thumbnails/rampage-road.png
 tags:
   - car
   - driving

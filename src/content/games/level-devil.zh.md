@@ -5,7 +5,7 @@ title: 《Level Devil》整蛊关卡恶魔
 description: 《Level Devil》是一款“恶意满满”的整蛊平台游戏，关卡会突然变形：弹出尖刺、塌陷地板、移动出口，你必须在不断中招中记住陷阱并保持冷静。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp45/gamehwq/20231215/10/index.html
-thumbnail: /new-images/level-devil.jpg
+thumbnail: /new-images/thumbnails/level-devil.jpg
 tags:
   - platformer
   - puzzle

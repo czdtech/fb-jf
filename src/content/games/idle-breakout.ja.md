@@ -2,7 +2,7 @@
 title: "Idle Breakout"
 description: "放置ゲーム＋ブロック崩しの融合：クリックでブロックを壊し、自動ボールやタレットを購入し、プレステージで倍率を得て、アップグレードを最適化しましょう。"
 iframeSrc: "https://ubg98.github.io/IdleBreakout/"
-thumbnail: "/new-images/idle-breakout.jpg"
+thumbnail: /new-images/thumbnails/idle-breakout.jpg
 urlstr: "idle-breakout"
 score: "4.3/5  (1151 votes)"
 tags: ["idle", "clicker"]

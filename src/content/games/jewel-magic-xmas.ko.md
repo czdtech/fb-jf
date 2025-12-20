@@ -6,7 +6,7 @@ description: >-
   크리스마스 장식들을 맞바꿔 퍼즐을 푸는 3매치 게임 'Jewel Magic Xmas' 가이드입니다. 장식품 매치로 특수 아이템을 만들고, 눈
   블록·선물 상자 등 다양한 목표를 공략해 보세요.
 iframeSrc: 'https://jewelmagicxmas.h5games.usercontent.goog/v/19095ne8tscfg/'
-thumbnail: /new-images/jewel-magic-xmas.png
+thumbnail: /new-images/thumbnails/jewel-magic-xmas.png
 tags:
   - puzzle
   - casual

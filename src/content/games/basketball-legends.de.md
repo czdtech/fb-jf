@@ -7,7 +7,7 @@ description: >-
   Spiele 1‑gegen‑1 oder 2‑gegen‑2, setze Dunks, Blocks und Superschüsse ein und
   dominiere das Feld allein oder im 2‑Spieler‑Modus.
 iframeSrc: 'https://webglmath.github.io/basketball-legends/'
-thumbnail: /new-images/basketball-legends.jpg
+thumbnail: /new-images/thumbnails/basketball-legends.jpg
 tags:
   - 2-Player
   - sports

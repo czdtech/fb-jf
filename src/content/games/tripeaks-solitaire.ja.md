@@ -2,7 +2,7 @@
 title: TriPeaks Solitaire
 description: TriPeaks Solitaireは、クラシックなトライピークスソリティアゲームです。3つのピラミッドからカードを消しましょう。
 iframeSrc: 'https://ubg98.github.io/TriPeaksSolitaire/'
-thumbnail: /new-images/tripeaks-solitaire.jpg
+thumbnail: /new-images/thumbnails/tripeaks-solitaire.png
 urlstr: tripeaks-solitaire
 score: 4.4/5  (2876 votes)
 tags:

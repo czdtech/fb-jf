@@ -4,7 +4,7 @@ urlstr: spacebar-clicker
 title: "Spacebar Clicker"
 description: "Teste deine Klickgeschwindigkeit im Spacebar Clicker, einem süchtig machenden Incremental-Game. Drücke die Leertaste, um Punkte zu sammeln, kaufe damit Upgrades, automatisiere deine Klicks und vervielfache deine Einnahmen – bis der Highscore durch die Decke geht."
 iframeSrc: 'https://spacebarclicker.co/game/spacebar-counter/'
-thumbnail: /new-images/spacebar-clicker.jpg
+thumbnail: /new-images/thumbnails/spacebar-clicker.jpg
 tags:
   - clicker
   - idle

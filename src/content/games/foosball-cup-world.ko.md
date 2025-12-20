@@ -4,7 +4,7 @@ urlstr: foosball-cup-world
 title: Foosball Cup World 테이블 축구 월드컵
 description: 월드컵 분위기 속에서 테이블 축구를 즐기는 게임입니다. 팀을 선택하고 막대를 회전시켜 슛과 수비를 하며 골을 넣어 승리를 노려 보세요.
 iframeSrc: 'https://foosballcup.h5games.usercontent.goog/v/6lg92qtk2nf2g/'
-thumbnail: /new-images/foosball-cup-world.jpg
+thumbnail: /new-images/thumbnails/foosball-cup-world.png
 tags:
   - sports
   - football

@@ -6,7 +6,7 @@ description: >-
   Cake Smash는 맛있는 케이크를 맞춰 터뜨리는 3매치 퍼즐 게임입니다. 인접한 케이크를 바꿔 같은 모양을 3개 이상 줄 세우고, 특수
   케이크와 연계를 활용해 통쾌하게 보드를 정리해 보세요.
 iframeSrc: 'https://41la6sld9ed88.h5games.usercontent.goog/v/36d90atplnu7o/'
-thumbnail: /new-images/cake-smash.png
+thumbnail: /new-images/thumbnails/cake-smash.png
 tags:
   - puzzle
   - casual

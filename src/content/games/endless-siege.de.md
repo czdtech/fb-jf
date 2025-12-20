@@ -7,7 +7,7 @@ description: >-
   Kanonen, Ballisten und andere Türme, um endlose Ork-Wellen auf täglich neuen
   Karten aufzuhalten.
 iframeSrc: 'https://endlessseige.h5games.usercontent.goog/v/35nvlvatb9t8g/'
-thumbnail: /new-images/endless-siege.jpg
+thumbnail: /new-images/thumbnails/endless-siege.jpg
 tags:
   - tower Defense
   - strategy

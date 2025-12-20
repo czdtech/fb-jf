@@ -7,7 +7,7 @@ description: >-
   combina tres iguales para crear un valor superior y apunta al codiciado cubo
   de joya antes de que se llene la cuadrícula.
 iframeSrc: 'https://0vfcifju4i900.h5games.usercontent.goog/v/2jg90liogd5f8/'
-thumbnail: /new-images/dice-puzzle.jpg
+thumbnail: /new-images/thumbnails/dice-puzzle.jpg
 tags:
   - puzzle
   - thinky

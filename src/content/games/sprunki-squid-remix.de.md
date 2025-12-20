@@ -8,7 +8,7 @@ description: >-
   kreativen Freiheit von Sprunki, was zu einem beispiellosen Crossover-Gameplay
   führt.
 iframeSrc: 'https://turbowarp.org/1123885023/embed'
-thumbnail: /sprunki-squid-remix.png
+thumbnail: /new-images/thumbnails/sprunki-squid-remix.png
 tags:
   - sprunki squid remix
 score: 4.1/5  (92 votes)

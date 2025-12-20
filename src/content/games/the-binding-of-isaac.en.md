@@ -7,7 +7,7 @@ description: >-
   and explore procedurally generated dungeons. Each run is unique, offering
   endless replayability as you uncover the secrets of Isaac's twisted world.
 iframeSrc: 'https://flash-cdn.blogspot.com/2021/06/the-binding-of-isaac.html'
-thumbnail: /new-images/the-binding-of-isaac.jpg
+thumbnail: /new-images/thumbnails/the-binding-of-isaac.jpg
 urlstr: the-binding-of-isaac
 score: 4.1/5  (186 votes)
 tags:

@@ -5,7 +5,7 @@ description: >-
   Solitaire」はちょっと変わったソリティア。三日月状に並んだカードを、8つの組札に昇順・降順で並べ替えよう。リシャッフルが鍵を握る思考系カードゲーム。
 iframeSrc: >-
   https://ams.cdn.arkadiumhosted.com/assets/global/game/crescent-solitaire-phaser/
-thumbnail: /new-images/crescent-solitaire.jpg
+thumbnail: /new-images/thumbnails/crescent-solitaire.jpg
 urlstr: crescent-solitaire
 score: 4.4/5  (944 votes)
 tags:

@@ -7,7 +7,7 @@ description: >-
   Instrumente aus aller Welt direkt auf die Bühne und stellst dir dein eigenes
   Orchester zusammen.
 iframeSrc: 'https://turbowarp.org/1040856097/embed'
-thumbnail: /new-images/incredibox-instrumentalist.png
+thumbnail: /new-images/thumbnails/incredibox-instrumentalist.png
 tags:
   - music
   - sandbox

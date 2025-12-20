@@ -4,7 +4,7 @@ urlstr: soccer-random
 title: "Soccer Random"
 description: "Erlebe Fußball völlig anders in Soccer Random! In diesem herrlich chaotischen Physik-Spiel steuerst du deine Spieler mit nur einer Taste, lässt sie springen und schießen und passt dich ständig wechselnden Feldern, Bällen und Figuren an, um als Erster fünf Tore zu erzielen."
 iframeSrc: 'https://app-197306.games.s3.yandex.net/197306/b1dbvmcde0oog4ebj00rinxr3e367fl4/index.html'
-thumbnail: /new-images/soccer-random.jpg
+thumbnail: /new-images/thumbnails/soccer-random.jpg
 tags:
   - 2-player
   - physics

@@ -7,7 +7,7 @@ description: >-
   bilde Reihen, nutze Spezialsteine und jage Kettenreaktionen, um immer höhere
   Punktzahlen zu erzielen.
 iframeSrc: 'https://files.acticdn.com/278374/30464/index.html'
-thumbnail: /bejeweled.png
+thumbnail: /new-images/thumbnails/bejeweled.png
 tags:
   - bejeweled
 score: 4.8/5  (654 votes)

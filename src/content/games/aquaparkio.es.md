@@ -7,7 +7,7 @@ description: >-
   llegar a la piscina. Aprende atajos aéreos, derriba rivales del tobogán y
   domina los controles para ganar.
 iframeSrc: 'https://bitlifeonline.github.io/class23523/aquaparkio/'
-thumbnail: /new-images/aquaparkio.jpg
+thumbnail: /new-images/thumbnails/aquaparkio.jpg
 tags:
   - casual
   - racing

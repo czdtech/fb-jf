@@ -2,7 +2,7 @@
 title: Sudoku Plus
 description: Sudoku Plusは、クラシックな数独パズルゲームの拡張版です。さまざまな難易度とモードで論理的思考をテストしましょう。
 iframeSrc: 'https://ubg98.github.io/SudokuPlus/'
-thumbnail: /new-images/sudoku-plus.jpg
+thumbnail: /new-images/thumbnails/sudoku-plus.jpg
 urlstr: sudoku-plus
 score: 4.3/5  (2189 votes)
 tags:

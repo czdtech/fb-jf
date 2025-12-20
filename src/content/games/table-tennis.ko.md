@@ -6,7 +6,7 @@ description: >-
   Table Tennis는 빠른 랠리와 반사신경이 중요한 탁구 게임으로, AI와 겨루며 정확한 타이밍과 패들 조작으로 점수를 따는 스포츠
   시뮬레이션입니다.
 iframeSrc: 'https://tabletennis.h5games.usercontent.goog/v/4eeofbe4nfj1g/'
-thumbnail: /new-images/table-tennis.png
+thumbnail: /new-images/thumbnails/table-tennis.png
 tags:
   - sports
   - 2 player

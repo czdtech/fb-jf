@@ -2,7 +2,7 @@
 title: Shooter
 description: Shooterはアクションシューターです。敵の波をしのぎ、武器を強化しながら生き残りを目指します。
 iframeSrc: 'https://shooter.h5games.usercontent.goog/v/3k9j5m8h7p2n8/'
-thumbnail: /new-images/shooter.png
+thumbnail: /new-images/thumbnails/shooter.jpg
 urlstr: shooter
 score: 4.1/5  (1934 votes)
 tags:

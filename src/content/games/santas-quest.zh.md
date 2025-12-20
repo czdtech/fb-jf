@@ -4,7 +4,7 @@ urlstr: santas-quest
 title: 《Santa's Quest》圣诞老人的消除之旅
 description: 《Santa's Quest》是一款节日主题的三消益智游戏。通过交换拼图块完成匹配、收集礼物与糖果，帮助圣诞老人完成他的送礼任务。
 iframeSrc: 'https://santasquest.h5games.usercontent.goog/v/49upjh0ur3tas/'
-thumbnail: /new-images/santas-quest.png
+thumbnail: /new-images/thumbnails/santas-quest.png
 tags:
   - puzzle
   - match 3

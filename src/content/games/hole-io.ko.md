@@ -7,7 +7,7 @@ description: >-
   차·건물까지 삼키며 몸집을 키우고, 다른 플레이어보다 더 많은 점수를
   얻거나 직접 집어삼켜 탈락시키세요.
 iframeSrc: 'https://holeio.com/'
-thumbnail: /new-images/hole-io.jpg
+thumbnail: /new-images/thumbnails/hole-io.jpg
 tags:
   - io
   - arcade

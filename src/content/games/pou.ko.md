@@ -8,7 +8,7 @@ description: >-
   즐길 수 있습니다.
 iframeSrc: >-
   https://app-184491.games.s3.yandex.net/184491/simr1s69tzefn132i2xlbk4dusun0mgw/index.html
-thumbnail: /new-images/pou.jpg
+thumbnail: /new-images/thumbnails/pou.jpg
 tags:
   - virtual pet
   - simulation

@@ -4,7 +4,7 @@ locale: en
 title: "Supernova"
 description: "Navigate the dangers of deep space in Supernova! Pilot your starship through a hazardous asteroid field, blasting space rocks and other threats. Survive as long as you can to achieve a high score in this classic arcade-style space shooter."
 iframeSrc: "https://rebemanae.github.io/supernova/"
-thumbnail: "/new-images/supernova.jpg"
+thumbnail: /new-images/thumbnails/supernova.jpg
 urlstr: "supernova"
 score: "4.5/5  (915 votes)"
 tags: ["action", "shooting", "space"]

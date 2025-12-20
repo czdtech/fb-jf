@@ -8,7 +8,7 @@ description: >-
   nicht abzustürzen.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221123/5/index.html
-thumbnail: /new-images/g-switch.jpg
+thumbnail: /new-images/thumbnails/g-switch.jpg
 tags:
   - runner
   - platformer

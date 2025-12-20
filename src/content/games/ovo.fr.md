@@ -4,7 +4,7 @@ urlstr: ovo
 title: OvO
 description: "OvO est un platformer nerveux basé sur la vitesse\_: glisse, rebondis et enchaîne les sauts pour franchir des niveaux courts mais très techniques."
 iframeSrc: 'https://ovo.h5games.usercontent.goog/v/4aa458c7-7476-4da6-a2c6-604918fce4a5/'
-thumbnail: /new-images/ovo.jpg
+thumbnail: /new-images/thumbnails/ovo.jpg
 tags:
   - platformer
   - speedrun

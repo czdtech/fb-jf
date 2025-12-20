@@ -6,7 +6,7 @@ description: >-
   Drift Boss est un jeu de drift à un seul bouton : synchronise tes virages pour
   rester sur la piste et gagne des pièces pour des améliorations.
 iframeSrc: 'https://ubg98.github.io/DriftBoss/'
-thumbnail: /new-images/drift-boss.jpg
+thumbnail: /new-images/thumbnails/drift-boss.jpg
 tags:
   - racing
   - drifting

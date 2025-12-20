@@ -6,7 +6,7 @@ description: >-
   在 Footchinko 體驗足球與柏青哥結合的獨特玩法！投下足球、撞擊釘子與彈板，
   朝球門與高分獎勵前進。
 iframeSrc: 'https://footchinko2.h5games.usercontent.goog/v/3iniom5rsklno/'
-thumbnail: /new-images/footchinko.jpg
+thumbnail: /new-images/thumbnails/footchinko.jpg
 tags:
   - sports
   - casual

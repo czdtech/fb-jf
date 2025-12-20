@@ -2,7 +2,7 @@
 title: Tile Journey
 description: Tile Journeyは、タイルパズルアドベンチャーゲームです。タイルを並べてパスを作り、ゴールを目指しましょう。
 iframeSrc: 'https://ubg98.github.io/TileJourney/'
-thumbnail: /new-images/tile-journey.jpg
+thumbnail: /new-images/thumbnails/tile-journey.png
 urlstr: tile-journey
 score: 4.2/5  (1876 votes)
 tags:

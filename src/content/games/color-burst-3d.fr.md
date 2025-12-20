@@ -4,7 +4,7 @@ urlstr: color-burst-3d
 title: Color Burst 3D
 description: "Color Burst 3D est un runner d’adresse coloré\_: guide ta balle à travers des anneaux rotatifs en ne touchant que les segments de la même couleur."
 iframeSrc: 'https://4afojpng981kg.h5games.usercontent.goog/v/0ihur7pnic7b0/'
-thumbnail: /new-images/color-burst-3d.png
+thumbnail: /new-images/thumbnails/color-burst-3d.jpeg
 tags:
   - action
   - casual

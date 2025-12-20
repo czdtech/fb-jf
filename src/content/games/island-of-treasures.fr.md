@@ -6,7 +6,7 @@ description: >-
   Pars pour une aventure pirate dans ce runner 3D infini : collecte des joyaux,
   évite les pièges mortels et deviens le plus riche flibustier de l'île maudite.
 iframeSrc: 'https://5kvkrsasec6l8.h5games.usercontent.goog/v/7kfn10n6josho/'
-thumbnail: /new-images/island-of-treasures.png
+thumbnail: /new-images/thumbnails/island-of-treasures.png
 tags:
   - action
   - adventure

@@ -3,7 +3,7 @@ locale: en
 title: "Golf Fling"
 description: "Fling your way to a hole-in-one in Golf Fling! A physics-based puzzle game where you aim, pull, and release to send the ball flying."
 iframeSrc: "https://golffling.h5games.usercontent.goog/v/0aa707a3-71a5-4ad8-be9b-32ce55e28d64/"
-thumbnail: "/new-images/golf-fling.jpg"
+thumbnail: /new-images/thumbnails/golf-fling.jpg
 urlstr: "golf-fling"
 score: "4.1/5  (1776 votes)"
 tags: ["sports", "puzzle", "casual"]

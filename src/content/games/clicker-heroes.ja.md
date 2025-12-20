@@ -2,7 +2,7 @@
 title: "Clicker Heroes"
 description: "Clicker Heroesの究極ガイド。このクセになる放置/クリッカーゲームのコアゲームプレイ、アセンション(昇天)とエンシェント(古代者)のエキスパート戦略、操作方法、よくある質問への回答を学びましょう。"
 iframeSrc: "https://cdn.clickerheroes.com/gamebuild/"
-thumbnail: "/new-images/clicker-heroes.jpg"
+thumbnail: /new-images/thumbnails/clicker-heroes.jpg
 urlstr: "clicker-heroes"
 score: "3.9/5  (457 votes)"
 tags: ["clicker", "casual"]

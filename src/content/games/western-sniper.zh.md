@@ -6,7 +6,7 @@ description: >-
   《Western Sniper》是一款节奏紧凑的西部狙击射击游戏。稳住准星、控制呼吸，
   优先击杀远程威胁与爆炸物，在一关关短小精悍的任务中完成清剿目标。
 iframeSrc: 'https://4oill7a9ltc9g.h5games.usercontent.goog/v/54hea44l6fm4o/'
-thumbnail: /new-images/western-sniper.png
+thumbnail: /new-images/thumbnails/western-sniper.png
 tags:
   - shooting
   - action

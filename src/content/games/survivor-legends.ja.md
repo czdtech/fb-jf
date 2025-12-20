@@ -2,7 +2,7 @@
 title: Survivor Legends
 description: Survivor Legendsは、サバイバル戦略ゲームです。資源を集め、避難所を建設し、生き残りましょう。
 iframeSrc: 'https://ubg98.github.io/SurvivorLegends/'
-thumbnail: /new-images/survivor-legends.jpg
+thumbnail: /new-images/thumbnails/survivor-legends.png
 urlstr: survivor-legends
 score: 4.3/5  (2167 votes)
 tags:

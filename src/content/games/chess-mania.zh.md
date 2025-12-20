@@ -4,7 +4,7 @@ urlstr: chess-mania
 title: Chess Mania 国际象棋狂热
 description: 《Chess Mania 国际象棋狂热》是一款面向各个水平玩家的多功能国际象棋游戏。与你的 AI 对手过招、挑战趣味棋题，在对局与训练中不断提升自己的棋艺。
 iframeSrc: 'https://chessmania.h5games.usercontent.goog/v/3if0hd2c47oo8/'
-thumbnail: /new-images/chess-mania.png
+thumbnail: /new-images/thumbnails/chess-mania.png
 tags:
   - thinky
   - 2 player

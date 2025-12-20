@@ -3,7 +3,7 @@ locale: en
 title: "Tractor Mania"
 description: "Tractor Mania is a farm hauler — balance loads, manage torque, and deliver cargo safely across rough terrain."
 iframeSrc: "https://4agtsfcp8ur38.h5games.usercontent.goog/v/35kskpc4lmtig/"
-thumbnail: "/new-images/tractor-mania.png"
+thumbnail: /new-images/thumbnails/tractor-mania.png
 urlstr: "tractor-mania"
 score: "4.0/5  (1880 votes)"
 tags: ["car", "driving", "casual"]

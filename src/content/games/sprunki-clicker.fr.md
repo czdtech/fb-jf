@@ -7,7 +7,7 @@ description: >-
   ton univers sonore. Accumule de l’énergie, débloque de nouveaux personnages
   et fais grandir ton arbre d’harmonie au rythme de tes mélodies.
 iframeSrc: 'https://turbowarp.org/1112468571/embed'
-thumbnail: /sprunki-clicker.png
+thumbnail: /new-images/thumbnails/sprunki-clicker.png
 tags:
   - sprunki clicker
 score: "4.5/5  (389 votes)"

@@ -6,7 +6,7 @@ description: >-
   설문 결과를 맞히는 퀴즈 쇼 게임입니다. 여러 라운드와 파이널 라운드에서
   가장 인기 있는 답을 떠올려 점수를 획득해 보세요.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/family-feud/'
-thumbnail: /new-images/family-feud.jpg
+thumbnail: /new-images/thumbnails/family-feud.jpg
 tags:
   - trivia
   - quiz

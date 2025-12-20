@@ -4,7 +4,7 @@ urlstr: kitty-match
 title: "《Kitty Match》喵喵消消乐"
 description: "欢迎来到《Kitty Match》，这是一款专为铲屎官和三消爱好者打造的可爱拼图游戏：交换各种猫咪主题小物件，连成三消以上完成关卡挑战。"
 iframeSrc: 'https://kittymatch.h5games.usercontent.goog/v/0fb0j00v75210/'
-thumbnail: /new-images/kitty-match.png
+thumbnail: /new-images/thumbnails/kitty-match.png
 tags:
   - puzzle
   - casual

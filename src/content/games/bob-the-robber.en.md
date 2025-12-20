@@ -4,7 +4,7 @@ locale: en
 title: "Bob the Robber"
 description: "Become a master thief in Bob the Robber! Sneak past guards, disable cameras, crack safes, and steal valuable loot in this challenging stealth puzzle-platformer series."
 iframeSrc: "https://app-190385.games.s3.yandex.net/190385/i7ty94goiswe8ohxdysos1uzmur0yfwk/index.html"
-thumbnail: "/new-images/bob-the-robber.jpg"
+thumbnail: /new-images/thumbnails/bob-the-robber.jpg
 urlstr: "bob-the-robber"
 score: "3.7/5  (403 votes)"
 tags: ["stealth", "puzzle"]

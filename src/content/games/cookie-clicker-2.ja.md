@@ -4,7 +4,7 @@ description: >-
   「Cookie Clicker
   2」でクッキー帝国を築き上げよう。クリックしてクッキーを焼き、施設をアップグレードし、ゴールデンクッキーを集めて、無限に広がる放置ゲームの傑作。
 iframeSrc: 'https://cookie-clicker2.github.io/'
-thumbnail: /new-images/cookie-clicker-2.png
+thumbnail: /new-images/thumbnails/cookie-clicker-2.jpg
 urlstr: cookie-clicker-2
 score: 4.5/5  (5178 votes)
 tags:

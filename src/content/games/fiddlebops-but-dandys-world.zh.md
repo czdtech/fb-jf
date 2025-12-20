@@ -4,7 +4,7 @@ urlstr: fiddlebops-but-dandys-world
 title: "Fiddlebops But Dandy's World - 在线玩 Fiddlebops But Dandy's World"
 description: "Fiddlebops But Dandy's World 不仅仅是一款游戏，更是一场充满惊喜的音乐之旅。"
 iframeSrc: 'https://turbowarp.org/1114551059/embed'
-thumbnail: /fiddlebops-but-dandys-world.png
+thumbnail: /new-images/thumbnails/fiddlebops-but-dandys-world.png
 tags:
   - fiddlebops but dandy
 score: 4.6/5 (27 票)

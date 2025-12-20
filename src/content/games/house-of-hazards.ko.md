@@ -7,7 +7,7 @@ description: >-
   한쪽은 커피 만들기, 식물 물 주기 같은 일상 미션을 수행하고, 다른 쪽은
   토스터·조명·바닥 트랩을 켜서 친구들을 날려 버리세요.
 iframeSrc: 'https://webglmath.github.io/house-of-hazards/'
-thumbnail: /new-images/house-of-hazards.jpg
+thumbnail: /new-images/thumbnails/house-of-hazards.jpg
 tags:
   - party
   - multiplayer

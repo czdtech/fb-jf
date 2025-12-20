@@ -7,7 +7,7 @@ description: >-
   diesem schnellen One-Tap-Basketballspiel und timinge deine Dunks perfekt für
   hohe Punktzahlen.
 iframeSrc: 'https://06f80rna6d2sg.h5games.usercontent.goog/v/69kffdfih87r0/'
-thumbnail: /new-images/hoop-hero.png
+thumbnail: /new-images/thumbnails/hoop-hero.png
 tags:
   - action
   - casual

@@ -4,7 +4,7 @@ locale: en
 title: "Diner Dash"
 description: "Diner Dash is a time‑management game: seat guests, take orders, serve meals, and keep everyone happy to clear levels."
 iframeSrc: "https://ad-freegames.github.io/flash/game/diner-dash.html"
-thumbnail: "/new-images/diner-dash.jpg"
+thumbnail: /new-images/thumbnails/diner-dash.jpg
 urlstr: "diner-dash"
 score: "4.3/5  (691 votes)"
 tags: ["time-management", "strategy"]

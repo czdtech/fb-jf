@@ -3,7 +3,7 @@ locale: en
 title: "Checkers Legend"
 description: "Become a Checkers Legend in this classic board game. Plan your moves, capture your opponent's pieces, and crown your kings to dominate the board."
 iframeSrc: "https://checkerslegend.h5games.usercontent.goog/v/43mkj41ari948/"
-thumbnail: "/new-images/checkers-legend.png"
+thumbnail: /new-images/thumbnails/checkers-legend.png
 urlstr: "checkers-legend"
 score: "4.6/5  (2900 votes)"
 tags: ["puzzle", "thinky", "casual", "card"]

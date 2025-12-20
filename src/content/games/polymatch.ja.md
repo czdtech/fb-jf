@@ -2,7 +2,7 @@
 title: Polymatch
 description: Polymatchはポリゴンマッチングゲームです。形をマッチし、パターンを接続し、視覚的なパズルをマスターします。
 iframeSrc: 'https://polymatch.h5games.usercontent.goog/v/5k9j2m8h7p3n8/'
-thumbnail: /new-images/polymatch.png
+thumbnail: /new-images/thumbnails/polymatch.png
 urlstr: polymatch
 score: 4.1/5  (1867 votes)
 tags:

@@ -6,7 +6,7 @@ description: >-
   Fluffy Mania ist ein gemütliches Verbindepuzzle: Verbinde niedliche Fluffies,
   löse Kettenreaktionen aus und jag hohen Punktzahlen und Levelzielen hinterher.
 iframeSrc: 'https://02rd6nna08dqg.h5games.usercontent.goog/v/3ngbs02gf9h88/'
-thumbnail: /new-images/fluffy-mania.png
+thumbnail: /new-images/thumbnails/fluffy-mania.png
 tags:
   - puzzle
   - casual

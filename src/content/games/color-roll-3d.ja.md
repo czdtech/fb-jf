@@ -2,7 +2,7 @@
 title: Color Roll 3D カラーロール 3D
 description: 「Color Roll 3D」は色とりどりのロールを展開して絵を完成させるパズル。正しい順番で広げて、 お手本通りの重なりを作ろう。
 iframeSrc: 'https://63vakb2ehqof8.h5games.usercontent.goog/v/381au2qko6no0/'
-thumbnail: /new-images/color-roll-3d.png
+thumbnail: /new-images/thumbnails/color-roll-3d.png
 urlstr: color-roll-3d
 score: 4.0/5  (1812 votes)
 tags:

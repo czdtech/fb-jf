@@ -7,7 +7,7 @@ description: >-
   points avec un seul trait continu sans repasser deux fois au même endroit.
 iframeSrc: >-
   https://1linonlydotdot.h5games.usercontent.goog/v/138d1f82-9675-4ad2-88b4-db39e30d8c7a/
-thumbnail: /new-images/one-line-only-dot-to-dot.jpg
+thumbnail: /new-images/thumbnails/one-line-only-dot-to-dot.jpg
 tags:
   - puzzle
   - thinky

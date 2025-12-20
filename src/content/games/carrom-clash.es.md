@@ -7,7 +7,7 @@ description: >-
   striker, emboca tus fichas y cubre a la reina para derrotar a tu rival en este
   juego de habilidad y precisión.
 iframeSrc: 'https://carromclash.h5games.usercontent.goog/v/4pmfd00515bbg/'
-thumbnail: /new-images/carrom-clash.png
+thumbnail: /new-images/thumbnails/carrom-clash.png
 tags:
   - sports
   - puzzle

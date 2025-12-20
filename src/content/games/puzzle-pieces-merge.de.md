@@ -7,7 +7,7 @@ description: >-
   Puzzleteile, um wunderschöne Landschaftsbilder fertigzustellen – mit Drehung
   der Teile und hilfreichen Boostern.
 iframeSrc: 'https://5burcumauc5p0.h5games.usercontent.goog/v/4k8cb35sbe9fo/'
-thumbnail: /new-images/puzzle-pieces-merge.jpg
+thumbnail: /new-images/thumbnails/puzzle-pieces-merge.jpg
 tags:
   - puzzle
   - casual

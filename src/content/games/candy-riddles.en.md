@@ -3,7 +3,7 @@ locale: en
 title: "Candy Riddles"
 description: "Candy Riddles is a cheerful match‑3 — swap sweets, trigger combos, and solve stage objectives with smart cascades."
 iframeSrc: "https://7vciensnt6ei8.h5games.usercontent.goog/v/0lsk1qj66dbno/"
-thumbnail: "/new-images/candy-riddles.png"
+thumbnail: /new-images/thumbnails/candy-riddles.png
 urlstr: "candy-riddles"
 score: "4.2/5  (2018 votes)"
 tags: ["puzzle", "casual", "thinky"]

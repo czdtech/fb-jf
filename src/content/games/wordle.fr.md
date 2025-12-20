@@ -6,7 +6,7 @@ description: >-
   Wordle est un jeu de lettres quotidien : devine le mot secret en six essais
   maximum en t'aidant des cases colorées.
 iframeSrc: 'https://ext.minijuegos.com/wordle/'
-thumbnail: /new-images/wordle.jpg
+thumbnail: /new-images/thumbnails/wordle.jpg
 tags:
   - word
   - puzzle

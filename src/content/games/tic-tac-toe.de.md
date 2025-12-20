@@ -4,7 +4,7 @@ urlstr: tic-tac-toe
 title: "Tic-Tac-Toe"
 description: "Tic-Tac-Toe ist der Klassiker unter den Strategiespielen: Zwei Spieler setzen abwechselnd X und O auf ein 3×3‑Feld und versuchen, als Erste/r drei Symbole in einer Reihe, Spalte oder Diagonale zu bekommen."
 iframeSrc: 'https://edit.coolmathgames.com//sites/cmatgame/files/public_games/32511/'
-thumbnail: /new-images/tic-tac-toe.jpg
+thumbnail: /new-images/thumbnails/tic-tac-toe.jpg
 tags:
   - strategy
   - classic

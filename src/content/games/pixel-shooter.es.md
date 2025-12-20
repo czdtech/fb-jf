@@ -7,7 +7,7 @@ description: >-
   a un personaje para enfrentarte a oleadas de enemigos a través de distintos
   niveles, recogiendo potenciadores y mejorando tus armas para sobrevivir.
 iframeSrc: 'https://a.onlineigry.net/games3/igra-piksel-shuter/index.htm'
-thumbnail: /new-images/pixel-shooter.jpg
+thumbnail: /new-images/thumbnails/pixel-shooter.jpg
 tags:
   - shooting
   - pixel art

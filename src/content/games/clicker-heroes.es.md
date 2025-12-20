@@ -7,7 +7,7 @@ description: >-
   experto para Ascension y Ancients, controles y respuestas a las dudas más
   habituales de este adictivo idle/clicker.
 iframeSrc: 'https://cdn.clickerheroes.com/gamebuild/'
-thumbnail: /new-images/clicker-heroes.jpg
+thumbnail: /new-images/thumbnails/clicker-heroes.jpg
 tags:
   - clicker
   - casual

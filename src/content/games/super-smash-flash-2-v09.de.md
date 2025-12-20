@@ -7,7 +7,7 @@ description: >-
   Fan-Fighter mit großem Roster, technischen Kämpfen und ikonischen Stages im
   Smash‑Stil.
 iframeSrc: 'https://kdata1.com/games/SSF9_2011/?kbhgames'
-thumbnail: /new-images/super-smash-flash-2-v09.jpg
+thumbnail: /new-images/thumbnails/super-smash-flash-2-v09.jpg
 tags:
   - fighting
   - platformer

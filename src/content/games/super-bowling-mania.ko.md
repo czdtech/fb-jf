@@ -6,7 +6,7 @@ description: >-
   Super Bowling Mania는 간단한 조작으로 스트라이크를 노릴 수 있는 캐주얼 볼링 게임입니다. 각 레인의 패턴과 곡선을 읽고,
   각도와 힘 조절로 시원한 한 방을 터뜨려 보세요.
 iframeSrc: 'https://superbowlingmania.h5games.usercontent.goog/v/1kls83hgtre4o/'
-thumbnail: /new-images/super-bowling-mania.jpg
+thumbnail: /new-images/thumbnails/super-bowling-mania.png
 tags:
   - sports
   - casual

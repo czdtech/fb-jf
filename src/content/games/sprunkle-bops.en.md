@@ -6,7 +6,7 @@ description: >-
   game, offering a creative twist with custom mods, new phases, and unique
   gameplay elements.
 iframeSrc: 'https://turbowarp.org/1122091658/embed'
-thumbnail: /sprunklebops.png
+thumbnail: /new-images/thumbnails/sprunkle-bops.png
 urlstr: sprunkle-bops
 score: 4.3/5  (524 votes)
 tags:

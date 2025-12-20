@@ -8,7 +8,7 @@ description: >-
   en avalant des pastilles et en piégeant tes adversaires, et utilise le boost
   de vitesse avec stratégie pour dominer l’arène.
 iframeSrc: 'https://snake.io/crazygames/'
-thumbnail: /new-images/snake-io.jpg
+thumbnail: /new-images/thumbnails/snake-io.jpg
 tags:
   - io-games
   - snake

@@ -7,7 +7,7 @@ description: >-
   verbessere Türme, lenke Creeps durch Todeszonen und verteidige deine Linien
   mit klugen Upgrades.
 iframeSrc: 'https://1kh2cdjui86vo.h5games.usercontent.goog/v/71hetkqd45518/'
-thumbnail: /new-images/king-rugni-tower-conquest.jpg
+thumbnail: /new-images/thumbnails/king-rugni-tower-conquest.jpg
 tags:
   - tower Defense
   - thinky

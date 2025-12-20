@@ -5,7 +5,7 @@ description: >-
   The Haze Pixelbox offers endless fun with its unique ethnic twist, sparking
   creativity for musicians of all skill levels.
 iframeSrc: 'https://turbowarp.org/1020955547/embed'
-thumbnail: /the-haze-pixelbox.png
+thumbnail: /new-images/thumbnails/the-haze-pixelbox.png
 urlstr: the-haze-pixelbox
 score: 3.9/5  (132 votes)
 tags:

@@ -5,7 +5,7 @@ urlstr: "sprunki-halloween"
 title: "Sprunki Halloween - 在线玩 Sprunki Halloween"
 description: "Sprunki Halloween 是一款让你在万圣节氛围中释放音乐才华的 Mod。快来加入 Sprunki Halloween，用惊悚有趣的音符迎接万圣节的到来！"
 iframeSrc: "https://turbowarp.org/1087683438/embed"
-thumbnail: "/sprunki-halloween.png"
+thumbnail: /new-images/thumbnails/sprunki-halloween.png
 score: "4.2/5  (142 票)"
 tags: ["sprunki halloween"]
 ---

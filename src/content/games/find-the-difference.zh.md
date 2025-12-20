@@ -6,7 +6,7 @@ description: >-
   鍛鍊眼力與細節感知！在《Find the Difference》中比較兩張近乎相同的圖片，
   在時間耗盡前找出所有差異。
 iframeSrc: 'https://findthedifference.h5games.usercontent.goog/v/0tambv0iojsn8/'
-thumbnail: /new-images/find-the-difference.jpg
+thumbnail: /new-images/thumbnails/find-the-difference.jpg
 tags:
   - puzzle
   - casual

@@ -7,7 +7,7 @@ description: >-
   Paddle und schlagen den Ball hin und her, um Punkte zu erzielen, wenn der
   Gegner den Ball verfehlt.
 iframeSrc: 'https://ranimania.com/Games/pingpong/ping_pong/'
-thumbnail: /new-images/ping-pong.jpg
+thumbnail: /new-images/thumbnails/ping-pong.jpg
 tags:
   - arcade
   - sports

@@ -8,7 +8,7 @@ description: >-
   de letras y rellena el tablero tipo crucigrama mientras descubres palabras
   extra y usas pistas a lo largo de cientos de niveles relajantes.
 iframeSrc: "https://previews.customer.envatousercontent.com/files/309288677/index.html"
-thumbnail: "/new-images/word-connect.jpg"
+thumbnail: /new-images/thumbnails/word-connect.jpg
 tags:
   - word-game
   - puzzle

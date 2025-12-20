@@ -2,7 +2,7 @@
 title: "Brain Trainer ブレイン・トレーナー"
 description: "「Brain Trainer」で脳を活性化！記憶力、論理力、計算力、空間認識力を鍛える多彩なミニゲーム集。楽しみながら脳年齢を若返らせよう。"
 iframeSrc: "https://braintrainer.h5games.usercontent.goog/v/4f2ffbc6-4208-4087-bfaf-ab0db086da02/"
-thumbnail: "/new-images/brain-trainer.jpg"
+thumbnail: /new-images/thumbnails/brain-trainer.jpg
 urlstr: "brain-trainer"
 score: "4.6/5  (3100 votes)"
 tags: ["puzzle", "thinky", "casual"]

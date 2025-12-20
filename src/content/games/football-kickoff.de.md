@@ -6,7 +6,7 @@ description: >-
   Football Kickoff stellt das Special Team in den Mittelpunkt: Ziele deine
   Kicks, lies den Wind und sichere Feldposition mit gut dosierter Schusskraft.
 iframeSrc: 'https://30sab7l7n7df0.h5games.usercontent.goog/v/5c7k7dlnf1c5g/'
-thumbnail: /new-images/football-kickoff.jpg
+thumbnail: /new-images/thumbnails/football-kickoff.jpg
 tags:
   - sports
   - casual

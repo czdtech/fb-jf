@@ -2,7 +2,7 @@
 title: "Supernova"
 description: "Supernovaは、宇宙をテーマにした戦略ゲームです。銀河を探索し、資源を管理し、帝国を構築しましょう。"
 iframeSrc: "https://ubg98.github.io/Supernova/"
-thumbnail: "/new-images/supernova.jpg"
+thumbnail: /new-images/thumbnails/supernova.jpg
 urlstr: "supernova"
 score: "4.4/5  (2234 votes)"
 tags: ["strategy", "space", "simulation"]

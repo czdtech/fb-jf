@@ -4,7 +4,7 @@ urlstr: sky-tower
 title: 《Sky Tower》高空叠塔挑战
 description: 《Sky Tower》是一款操作简单但极考反应与节奏感的叠塔游戏。通过在恰当时机放下楼层方块，把摩天大楼一层层堆上天空。
 iframeSrc: 'https://skytower.h5games.usercontent.goog/v/3z9qf1d4n8kpg/'
-thumbnail: /new-images/sky-tower.png
+thumbnail: /new-images/thumbnails/sky-tower.png
 tags:
   - arcade
   - one button

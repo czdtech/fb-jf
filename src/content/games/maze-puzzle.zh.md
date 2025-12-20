@@ -5,7 +5,7 @@ title: "《Maze Puzzle》迷宫解谜逃脱"
 description: >-
   《Maze Puzzle》是一款简洁干净的迷宫跑酷解谜游戏，你需要规划最短路线，绕开巡逻守卫，拾取钥匙并在计时压力下找到出口。
 iframeSrc: 'https://3931uc3bsois0.h5games.usercontent.goog/v/7nvm8etm546uo/'
-thumbnail: /new-images/maze-puzzle.png
+thumbnail: /new-images/thumbnails/maze-puzzle.png
 tags:
   - puzzle
   - thinky

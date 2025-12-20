@@ -8,7 +8,7 @@ description: >-
   parejas idénticas de caramelos. Planifica tus jugadas, libera fichas y corre
   contra el tiempo para lograr la máxima puntuación.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-candy-mahjongg/'
-thumbnail: /new-images/mahjongg-candy.jpg
+thumbnail: /new-images/thumbnails/mahjongg-candy.jpg
 tags:
   - puzzle
   - tile-matching

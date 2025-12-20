@@ -4,7 +4,7 @@ urlstr: daily-room-escape
 title: Daily Room Escape
 description: "Daily Room Escape propose une nouvelle salle à énigmes chaque jour\_: fouille, combine des objets et résous des puzzles pour t’échapper."
 iframeSrc: 'https://escapegame.site/games/nightime/publishing/DailyRoomEscape/'
-thumbnail: /new-images/daily-room-escape.jpg
+thumbnail: /new-images/thumbnails/daily-room-escape.png
 tags:
   - puzzle
   - thinky

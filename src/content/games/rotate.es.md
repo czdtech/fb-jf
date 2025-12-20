@@ -7,7 +7,7 @@ description: >-
   para guiar una bola a través de laberintos y obstáculos, aprovechando la
   gravedad y el impulso para alcanzar la meta en cada nivel.
 iframeSrc: "https://rebemanae.github.io/rotate/"
-thumbnail: "/new-images/rotate.jpg"
+thumbnail: /new-images/thumbnails/rotate.jpg
 tags:
   - puzzle
   - physics

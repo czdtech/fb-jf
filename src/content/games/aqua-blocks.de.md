@@ -7,7 +7,7 @@ description: >-
   Formen, räume Linien oder Bereiche ab und halte das Spielfeld möglichst
   offen.
 iframeSrc: 'https://1uerepsm8tbpg.h5games.usercontent.goog/v/3st9sicdd4eu0/'
-thumbnail: /new-images/aqua-blocks.png
+thumbnail: /new-images/thumbnails/aqua-blocks.png
 tags:
   - puzzle
   - thinky

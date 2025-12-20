@@ -7,7 +7,7 @@ description: >-
   회전을 조절해 자신의 공을 모두 넣고, 마지막에 8번 볼까지 정확히 넣어
   승리를 노려 보세요.
 iframeSrc: 'https://billiardsclassic.h5games.usercontent.goog/v/27m4mvjv84l70/'
-thumbnail: /new-images/billiards-classic.png
+thumbnail: /new-images/thumbnails/billiards-classic.png
 tags:
   - sports
   - puzzle

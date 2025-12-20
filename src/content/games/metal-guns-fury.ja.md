@@ -2,7 +2,7 @@
 title: "Metal Guns Fury"
 description: "Metal Guns Furyはアクションシューターです。敵のウェーブをしのぎ、武器をアップグレードしながら進みます。"
 iframeSrc: "https://3qnp5t87vp1lg.h5games.usercontent.goog/v/6a39pnbcj5cv8/"
-thumbnail: "/new-images/metal-guns-fury.png"
+thumbnail: /new-images/thumbnails/metal-guns-fury.jpg
 urlstr: "metal-guns-fury"
 score: "4.0/5  (1723 votes)"
 tags: ["action", "shooter"]

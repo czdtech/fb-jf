@@ -7,7 +7,7 @@ description: >-
   모드는 꼭 해볼 만한 콜라보 음악 모드입니다. 마인크래프트풍 블록 스타일로 재해석된
   Sprunki 캐릭터들과 함께 색다른 비트를 만들어 보세요.
 iframeSrc: 'https://turbowarp.org/1095572358/embed'
-thumbnail: /sprunki-like-minecraft.png
+thumbnail: /new-images/thumbnails/sprunki-like-minecraft.png
 tags:
   - sprunki like minecraft
 score: 4.6/5  (601 votes)

@@ -8,7 +8,7 @@ description: >-
   테이블로를 비우는 것이 목표이며, 1·2·4무늬 난이도로 누구나 전략적인 재미를
   느낄 수 있습니다.
 iframeSrc: 'https://ubg98.github.io/SpiderSolitaire/'
-thumbnail: /new-images/spider-solitaire-card-games.jpg
+thumbnail: /new-images/thumbnails/spider-solitaire-card-games.jpg
 tags:
   - card-game
   - puzzle

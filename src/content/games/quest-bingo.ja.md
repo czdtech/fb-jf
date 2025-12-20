@@ -2,7 +2,7 @@
 title: Quest Bingo
 description: Quest Bingoはビンゴアドベンチャーゲームです。番号をマークし、ビンゴを完成させ、クエストをクリアし、報酬をアンロックします。
 iframeSrc: 'https://questbingo.h5games.usercontent.goog/v/2j9k5m8h7p3n8/'
-thumbnail: /new-images/quest-bingo.png
+thumbnail: /new-images/thumbnails/quest-bingo.png
 urlstr: quest-bingo
 score: 4.0/5  (1723 votes)
 tags:

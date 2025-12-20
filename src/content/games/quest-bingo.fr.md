@@ -4,7 +4,7 @@ urlstr: quest-bingo
 title: Quest Bingo
 description: "Pars pour une aventure Bingo\_! Coche des numéros à travers des niveaux variés, remplis des missions, utilise de puissants bonus et collectionne des pièces de puzzle dans cette version moderne du jeu classique."
 iframeSrc: 'https://52nk212336l1g.h5games.usercontent.goog/v/0smbj5p2kjk78/'
-thumbnail: /new-images/quest-bingo.png
+thumbnail: /new-images/thumbnails/quest-bingo.png
 tags:
   - card
   - puzzle

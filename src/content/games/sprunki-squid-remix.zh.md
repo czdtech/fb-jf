@@ -5,7 +5,7 @@ urlstr: "sprunki-squid-remix"
 title: "Sprunki Squid Remix - 在线玩 Sprunki Squid Remix"
 description: "Sprunki Squid 提供了一种真正独特而刺激的体验。它将鱿鱼游戏的标志性主题和视觉效果与 Sprunki 的创作自由相结合，带来前所未有的跨界玩法。"
 iframeSrc: "https://turbowarp.org/1123885023/embed"
-thumbnail: "/sprunki-squid-remix.png"
+thumbnail: /new-images/thumbnails/sprunki-squid-remix.png
 score: "4.1/5  (92 票)"
 tags: ["sprunki squid remix"]
 ---

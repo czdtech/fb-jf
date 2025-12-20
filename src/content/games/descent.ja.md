@@ -2,7 +2,7 @@
 title: Descent ディセント
 description: 「Descent」はひたすら下へと降りていくアーケードアクション。壁キックを駆使し、トゲや罠を避けながら、深淵を目指せ。
 iframeSrc: 'https://g2.igroutka.ru/games/17/4tWRaCD7AOzxbTsE/descent/'
-thumbnail: /new-images/descent.jpg
+thumbnail: /new-images/thumbnails/descent.jpg
 urlstr: descent
 score: 5.0/5  (1486 votes)
 tags:

@@ -5,7 +5,7 @@ title: "Hit and Run"
 description: "Sème le chaos en ville dans Hit and Run, un jeu de conduite orienté poursuite : percute des objets et des véhicules, fais monter les dégâts puis échappe‑toi avant que les autorités ne t’attrapent."
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp44/chenling/20230911/07/index.html
-thumbnail: /new-images/hit-and-run.jpg
+thumbnail: /new-images/thumbnails/hit-and-run.jpg
 tags:
   - action
   - driving

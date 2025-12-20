@@ -7,7 +7,7 @@ description: >-
   farbige Blasen, um das Feld zu räumen – und plane deine Schüsse gut, damit
   keine neuen Reihen herunterrutschen.
 iframeSrc: 'https://smartybubbles2.h5games.usercontent.goog/v/1u280qojm9oq0/'
-thumbnail: /new-images/smarty-bubbles-2.png
+thumbnail: /new-images/thumbnails/smarty-bubbles-2.png
 tags:
   - shooting
   - puzzle

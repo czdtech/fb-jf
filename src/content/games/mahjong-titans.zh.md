@@ -4,7 +4,7 @@ urlstr: mahjong-titans
 title: 《Mahjong Titans》麻将泰坦
 description: 《Mahjong Titans》是一款使用麻将牌的接龙消除游戏，通过不断匹配成对的自由牌，从多层牌阵中一步步清空全局，关键在于预判与避免死局。
 iframeSrc: 'https://ad-freegames.github.io/flash/game/mahjong-titans.html'
-thumbnail: /new-images/mahjong-titans.jpg
+thumbnail: /new-images/thumbnails/mahjong-titans.jpg
 tags:
   - puzzle
   - mahjong

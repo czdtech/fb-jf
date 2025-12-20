@@ -7,7 +7,7 @@ description: >-
   'Jump With Justin 2' 가이드입니다. 점프 타이밍과 탄성을 활용해
   함정을 피하고 출구까지 도달해 보세요.
 iframeSrc: 'https://jumpwithjustin2.h5games.usercontent.goog/v/54vavt12q94n8/'
-thumbnail: /new-images/jump-with-justin-2.png
+thumbnail: /new-images/thumbnails/jump-with-justin-2.png
 tags:
   - action
   - casual

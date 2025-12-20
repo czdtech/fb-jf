@@ -7,7 +7,7 @@ description: >-
   carreras frenéticas, recoges power‑ups y te enfrentas a otros jugadores mientras
   recorres circuitos llenos de color en 3D.
 iframeSrc: "https://webgltest-17af1.firebaseapp.com/"
-thumbnail: "/new-images/smash-karts.jpg"
+thumbnail: /new-images/thumbnails/smash-karts.jpg
 tags:
   - racing
   - multiplayer

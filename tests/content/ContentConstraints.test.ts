@@ -17,6 +17,7 @@ const GAMES_DIR = path.join(process.cwd(), 'src', 'content', 'games');
 type Frontmatter = {
   urlstr?: string;
   locale?: string;
+  thumbnail?: string;
   sidebarNew?: number;
   sidebarPopular?: number;
   modType?: string;
@@ -93,6 +94,39 @@ describe('Content Constraints - Canonical Games', () => {
     }
   });
 
+  it('should bind thumbnails to /new-images/thumbnails/<urlstr>.<ext> and ensure the file exists', async () => {
+    const files = (await fs.readdir(GAMES_DIR)).filter((f) => f.endsWith('.en.md'));
+    const allowedExt = new Set(['.png', '.jpg', '.jpeg', '.webp', '.gif']);
+
+    for (const filename of files) {
+      const filePath = path.join(GAMES_DIR, filename);
+      const raw = await fs.readFile(filePath, 'utf8');
+      const { data } = matter(raw);
+      const fm = data as Frontmatter;
+
+      if (fm.locale && fm.locale !== 'en') continue;
+
+      const urlstr = typeof fm.urlstr === 'string' && fm.urlstr.trim() ? fm.urlstr : filename.replace(/\.en\.md$/, '');
+      const slug = normalizeSlug(urlstr);
+
+      expect(typeof fm.thumbnail).toBe('string');
+      const thumb = (fm.thumbnail || '').trim();
+      expect(thumb.startsWith('/new-images/thumbnails/')).toBe(true);
+
+      const ext = path.extname(thumb);
+      expect(allowedExt.has(ext)).toBe(true);
+
+      // Strong binding: filename of the thumbnail must match urlstr.
+      const expected = `/new-images/thumbnails/${slug}${ext}`;
+      expect(thumb).toBe(expected);
+
+      // Ensure the referenced file exists under /public.
+      const publicAbs = path.join(process.cwd(), 'public', thumb.replace(/^\/+/, ''));
+      const stat = await fs.stat(publicAbs);
+      expect(stat.isFile()).toBe(true);
+    }
+  });
+
   it('should restrict modType values when present', async () => {
     const files = (await fs.readdir(GAMES_DIR)).filter((f) => f.endsWith('.en.md'));
     const allowed = new Set(['sprunki', 'incredibox', 'fiddlebops']);
@@ -109,4 +143,3 @@ describe('Content Constraints - Canonical Games', () => {
     }
   });
 });
-

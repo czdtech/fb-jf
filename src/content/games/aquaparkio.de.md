@@ -7,7 +7,7 @@ description: >-
   Steuerungen, um die Wasserrutsche zu meistern, Gegner von der Bahn zu
   schubsen und mit gewagten Flugsprüngen Abkürzungen zu nehmen.
 iframeSrc: 'https://bitlifeonline.github.io/class23523/aquaparkio/'
-thumbnail: /new-images/aquaparkio.jpg
+thumbnail: /new-images/thumbnails/aquaparkio.jpg
 tags:
   - casual
   - racing

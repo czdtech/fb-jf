@@ -4,7 +4,7 @@ urlstr: stack-bounce
 title: 《Stack Bounce》堆塔弹跳挑战
 description: 《Stack Bounce》是一款考验节奏与反应的弹跳闯关游戏。按住不放让小球高速下砸，打碎彩色平台，但要在撞上黑色障碍前及时松手，让小球安全弹跳。
 iframeSrc: 'https://stackbounce.h5games.usercontent.goog/v/1aqsvv0aegbjg/'
-thumbnail: /new-images/stack-bounce.jpeg
+thumbnail: /new-images/thumbnails/stack-bounce.jpeg
 tags:
   - action
   - casual

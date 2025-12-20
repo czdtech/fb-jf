@@ -8,7 +8,7 @@ description: >-
   금고를 털어 귀중한 전리품을 훔쳐 보세요.
 iframeSrc: >-
   https://app-190385.games.s3.yandex.net/190385/i7ty94goiswe8ohxdysos1uzmur0yfwk/index.html
-thumbnail: /new-images/bob-the-robber.jpg
+thumbnail: /new-images/thumbnails/bob-the-robber.jpg
 tags:
   - stealth
   - puzzle

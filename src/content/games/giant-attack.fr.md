@@ -7,7 +7,7 @@ description: >-
   alliés pour grandir en taille et en puissance, puis déclenche des attaques
   dévastatrices pour abattre les monstres.
 iframeSrc: 'https://5699ri02mr840.h5games.usercontent.goog/v/0dov2qbpnafb0/'
-thumbnail: /new-images/giant-attack.png
+thumbnail: /new-images/thumbnails/giant-attack.png
 tags:
   - action
   - casual

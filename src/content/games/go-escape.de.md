@@ -7,7 +7,7 @@ description: >-
   Sägen aus, lies die Fallen-Zyklen richtig und finde den sicheren Weg durch
   kompakte Räume.
 iframeSrc: 'https://1muicq0oght78.h5games.usercontent.goog/v/1aim9ophd8cdg/'
-thumbnail: /new-images/go-escape.png
+thumbnail: /new-images/thumbnails/go-escape.png
 tags:
   - puzzle
   - escape

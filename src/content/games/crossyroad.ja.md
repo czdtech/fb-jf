@@ -2,7 +2,7 @@
 title: Crossy Road クロッシーロード
 description: 「Crossy Road」は簡単操作で奥深い横断アクションゲーム。車や川、電車を避けて、キャラクターをどこまでも遠くへ進めよう。
 iframeSrc: 'https://bitlifeonline.github.io/crossy-road/'
-thumbnail: /new-images/crossy-road.png
+thumbnail: /new-images/thumbnails/crossyroad.jpg
 urlstr: crossyroad
 score: 4.5/5  (8125 votes)
 tags:

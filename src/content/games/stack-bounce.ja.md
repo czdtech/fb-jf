@@ -4,7 +4,7 @@ description: >-
   Stack
   Bounceでタイミングと反射神経をテストしましょう。長押ししてカラフルなプラットフォームを粉砕しますが、黒い障害物に当たる前に離してボールを跳ね続けさせましょう。
 iframeSrc: 'https://ubg98.github.io/StackBounce/'
-thumbnail: /new-images/stack-bounce.jpg
+thumbnail: /new-images/thumbnails/stack-bounce.jpeg
 urlstr: stack-bounce
 score: 4.4/5  (2451 votes)
 tags:

@@ -6,7 +6,7 @@ description: >-
   恐怖生存遊戲經典作：你在披薩店值夜班，透過監視器觀察、節省電力，
   適時關門與開燈，撐過五個夜班（甚至更多）避免機械玩偶闖入辦公室。
 iframeSrc: 'https://ubg77.github.io/fix/fnaf1/'
-thumbnail: /new-images/five-nights-at-freddy-1.jpg
+thumbnail: /new-images/thumbnails/five-nights-at-freddy-1.jpg
 tags:
   - horror
   - strategy

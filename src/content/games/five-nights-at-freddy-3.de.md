@@ -7,7 +7,7 @@ description: >-
   überwache Kameras und Lüftungen und starte ausgefallene Systeme neu, um jede
   Nacht zu überstehen.
 iframeSrc: 'https://ubg77.github.io/fix/fnaf2/fnaf3.html'
-thumbnail: /new-images/five-nights-at-freddy-3.jpg
+thumbnail: /new-images/thumbnails/five-nights-at-freddy-3.jpg
 tags:
   - horror
   - strategy

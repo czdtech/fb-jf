@@ -7,7 +7,7 @@ description: >-
   glissades et dashs à travers des niveaux rapides et exigeants.
 iframeSrc: >-
   https://ovo-dimensions.h5games.usercontent.goog/v/41ed0fea-d982-43f1-bfce-2e88aa6e255f/
-thumbnail: /new-images/ovo-dimensions.jpg
+thumbnail: /new-images/thumbnails/ovo-dimensions.jpg
 tags:
   - platformer
   - speedrun

@@ -4,7 +4,7 @@ locale: en
 title: "Bad Ice-Cream"
 description: "A complete guide to the original Bad Ice-Cream. Learn strategies, controls, and tips to collect all the fruit while freezing your enemies in this classic arcade puzzle game."
 iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210128/x4/index.html"
-thumbnail: "/new-images/bad-ice-cream.jpg"
+thumbnail: /new-images/thumbnails/bad-ice-cream.jpg
 urlstr: "bad-ice-cream"
 score: "4.9/5  (1015 votes)"
 tags: ["casual", "puzzle"]

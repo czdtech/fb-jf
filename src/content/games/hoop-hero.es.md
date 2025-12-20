@@ -7,7 +7,7 @@ description: >-
   juego de baloncesto rápido y de un solo toque. Cronometra tus mates a la
   perfección para anotar y batir tu récord.
 iframeSrc: 'https://06f80rna6d2sg.h5games.usercontent.goog/v/69kffdfih87r0/'
-thumbnail: /new-images/hoop-hero.png
+thumbnail: /new-images/thumbnails/hoop-hero.png
 tags:
   - action
   - casual

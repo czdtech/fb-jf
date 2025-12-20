@@ -4,7 +4,7 @@ urlstr: tanuki-sunset
 title: "Tanuki Sunset - Longboard al atardecer"
 description: "Súbete al longboard y deslízate hacia el atardecer en Tanuki Sunset. Controla a Tanuki, un mapache patinador, por una carretera costera de estética synthwave, encadena derrapes suaves, saltos espectaculares y roces con el tráfico para convertirte en una leyenda del longboard."
 iframeSrc: "https://ubg100.github.io/games/tanuki/index.html"
-thumbnail: "/new-images/tanuki-sunset.jpg"
+thumbnail: /new-images/thumbnails/tanuki-sunset.jpg
 tags:
   - arcade
   - racing

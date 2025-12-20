@@ -6,7 +6,7 @@ description: >-
   Family Feud ist ein Quiz auf Basis von Umfragen: Errate die beliebtesten
   Antworten auf Familienfragen über mehrere Runden und die Schnellraterunde.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/family-feud/'
-thumbnail: /new-images/family-feud.jpg
+thumbnail: /new-images/thumbnails/family-feud.jpg
 tags:
   - trivia
   - quiz

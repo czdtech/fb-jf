@@ -6,7 +6,7 @@ description: >-
   《Crocword 鳄鱼填词拼字》是一款结合填字格与连线拼字的放松向文字谜题游戏。通过连接
   字母拼出单词，填满填字格，同时用额外的“隐藏单词”获取金币与提示。
 iframeSrc: 'https://4u2r33lp92ja0.h5games.usercontent.goog/v/53cgdtc83kng8/'
-thumbnail: /new-images/crocword.png
+thumbnail: /new-images/thumbnails/crocword.png
 tags:
   - puzzle
   - thinky

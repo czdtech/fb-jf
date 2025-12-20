@@ -6,7 +6,7 @@ description: >-
   Fiddlebops 스타일과 Sprunksters 테마를 섞은 리믹스 음악 Mod입니다. 다양한 캐릭터 루프를 섞어 자신만의
   Sprunksters 리믹스를 만들어 보세요.
 iframeSrc: 'https://turbowarp.org/1149630445/embed'
-thumbnail: /fiddlebops-polos.png
+thumbnail: /new-images/thumbnails/fiddlebops-sprunksters-remix.png
 tags:
   - fiddlebops sprunksters remix
 score: 4.6/5  (217 votes)

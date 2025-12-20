@@ -3,7 +3,7 @@
 title: "Spider Solitaire: Card Games"
 description: "Spider Solitaireは104枚で遊ぶソリティアです。キングからエースまでの同一スートの並びを作り、タブローのクリアを目指します。"
 iframeSrc: "https://ubg98.github.io/SpiderSolitaire/"
-thumbnail: "/new-images/spider-solitaire-card-games.jpg"
+thumbnail: /new-images/thumbnails/spider-solitaire-card-games.jpg
 urlstr: "spider-solitaire-card-games"
 score: "4.2/5  (1141 votes)"
 tags: ["card-game", "puzzle", "strategy"]

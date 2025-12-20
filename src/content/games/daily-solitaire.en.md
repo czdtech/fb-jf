@@ -3,7 +3,7 @@ locale: en
 title: "Daily Solitaire"
 description: "A new Klondike Solitaire challenge awaits you every day. Sort the cards from Ace to King and test your skills with a fresh puzzle daily."
 iframeSrc: "https://dailysolitaire.h5games.usercontent.goog/v/0e4orvvorj2mo/"
-thumbnail: "/new-images/daily-solitaire.png"
+thumbnail: /new-images/thumbnails/daily-solitaire.png
 urlstr: "daily-solitaire"
 score: "4.7/5  (3300 votes)"
 tags: ["card", "puzzle", "casual"]

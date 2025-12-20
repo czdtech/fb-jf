@@ -6,7 +6,7 @@ description: >-
   FPS por oleadas: destruye enemigos absurdos con un arsenal en expansión,
   gana monedas y mejora tus armas entre ronda y ronda.
 iframeSrc: 'https://bitlifeonline.github.io/class2623/funny-shooter-2/'
-thumbnail: /new-images/funny-shooter-2.jpg
+thumbnail: /new-images/thumbnails/funny-shooter-2.jpg
 tags:
   - shooting
   - fps

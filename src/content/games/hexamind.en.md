@@ -3,7 +3,7 @@ locale: en
 title: "HexaMind"
 description: "HexaMind is a hex‑grid logic puzzler — place tiles, satisfy adjacency rules, and manage parity across honeycomb layouts."
 iframeSrc: "https://518ndvi54l1n0.h5games.usercontent.goog/v/608gefgjbkc88/"
-thumbnail: "/new-images/hexamind.png"
+thumbnail: /new-images/thumbnails/hexamind.png
 urlstr: "hexamind"
 score: "4.2/5  (2066 votes)"
 tags: ["puzzle", "thinky"]

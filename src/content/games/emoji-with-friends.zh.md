@@ -6,7 +6,7 @@ description: >-
   Emoji With Friends 是一款輕鬆的派對類益智遊戲，用各種表情符號進行配對與推理，
   和好友比拼誰先完成目標。
 iframeSrc: 'https://2gtc787tjm7c8.h5games.usercontent.goog/v/5lfna7ldlrun8/'
-thumbnail: /new-images/emoji-with-friends.png
+thumbnail: /new-images/thumbnails/emoji-with-friends.png
 tags:
   - puzzle
   - casual

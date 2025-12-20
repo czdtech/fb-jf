@@ -2,7 +2,7 @@
 title: "Incredibox - Play Incredibox Online"
 description: "Incrediboxは、キャラクターにサウンドを割り当ててループ音楽を作る音楽制作ゲームです。ドラッグ＆ドロップで直感的にミックスを作れます。"
 iframeSrc: "https://nom74100.github.io/in-box/"
-thumbnail: "/Incredibox.png"
+thumbnail: /new-images/thumbnails/incredibox.png
 urlstr: "incredibox"
 score: "4.9/5  (724 votes)"
 tags: ["incredibox", "incredibox online"]

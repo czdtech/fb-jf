@@ -7,7 +7,7 @@ description: >-
   섬뜩한 캐릭터와 음산한 사운드로, 어두운 분위기의 트랙을 만들며 공포 감성을
   즐길 수 있습니다.
 iframeSrc: 'https://turbowarp.org/1140266189/embed'
-thumbnail: /sprunki-phase-8.png
+thumbnail: /new-images/thumbnails/sprunki-phase-8.png
 tags:
   - sprunki phase 8
 score: 4.2/5  (396 votes)

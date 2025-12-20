@@ -8,7 +8,7 @@ description: >-
   sobrevivir el máximo tiempo posible en una experiencia tan adictiva como
   desafiante.
 iframeSrc: "https://webglmath.github.io/slope/"
-thumbnail: "/new-images/slope.jpg"
+thumbnail: /new-images/thumbnails/slope.jpg
 tags:
   - endless runner
   - original

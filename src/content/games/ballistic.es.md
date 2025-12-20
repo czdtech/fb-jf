@@ -8,7 +8,7 @@ description: >-
   potenciadores y lograr puntuaciones altas antes de que los bloques lleguen
   al fondo.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/ballistic/'
-thumbnail: /new-images/ballistic.jpg
+thumbnail: /new-images/thumbnails/ballistic.jpg
 tags:
   - puzzle
   - casual

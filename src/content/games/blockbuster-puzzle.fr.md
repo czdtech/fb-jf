@@ -4,7 +4,7 @@ urlstr: blockbuster-puzzle
 title: "Blockbuster Puzzle"
 description: "Blockbuster Puzzle est un jeu de placement/clear de blocs : garde plusieurs colonnes jouables, prépare des tours explosifs et évite de condamner l’espace critique."
 iframeSrc: "https://177gd8gft04p0.h5games.usercontent.goog/v/0md288db3fuq8/"
-thumbnail: /new-images/blockbuster-puzzle.png
+thumbnail: /new-images/thumbnails/blockbuster-puzzle.png
 tags:
   - puzzle
   - thinky

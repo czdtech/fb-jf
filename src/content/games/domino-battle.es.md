@@ -7,7 +7,7 @@ description: >-
   estrategia, bloquea a tu rival y sé el primero en vaciar tu mano para ganar la
   batalla.
 iframeSrc: 'https://dominobattle.h5games.usercontent.goog/v/45fvkhcnai3s0/'
-thumbnail: /new-images/domino-battle.png
+thumbnail: /new-images/thumbnails/domino-battle.png
 tags:
   - card
   - puzzle

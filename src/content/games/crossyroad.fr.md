@@ -7,7 +7,7 @@ description: >-
   faire renverser ni tomber à l’eau, et va le plus loin possible.
 iframeSrc: >-
   https://1vjadoaf5akkp9ka31qtljt9pkuo8ojs-a-sites-opensocial.googleusercontent.com/gadgets/ifr?url=https://markotopkok.github.io/pokiunblocked-games/crossy-road.xml
-thumbnail: /new-images/crossyroad.jpg
+thumbnail: /new-images/thumbnails/crossyroad.jpg
 tags:
   - action
   - casual

@@ -8,7 +8,7 @@ description: >-
   기본 규칙과 전략을 설명합니다.
 iframeSrc: >-
   https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-klondike-solitaire/
-thumbnail: /new-images/klondike-solitaire.jpg
+thumbnail: /new-images/thumbnails/klondike-solitaire.jpg
 tags:
   - solitaire
   - card

@@ -7,7 +7,7 @@ description: >-
   la victoria. Un juego de carreras idle donde la estrategia y la preparación
   son la clave para convertirte en el mejor Pocket Champ.
 iframeSrc: "https://pocketchampions.h5games.usercontent.goog/v/24houhjfrhfi8/"
-thumbnail: "/new-images/pocket-champions.png"
+thumbnail: /new-images/thumbnails/pocket-champions.png
 tags:
   - strategy
   - casual

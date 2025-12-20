@@ -6,7 +6,7 @@ description: >-
   Arctic Pong ist eine frostige Pong‑Variante. Lenke deinen Schläger, platziere
   den Puck clever in die Ecken und überliste deinen Gegner mit Winkelwechseln.
 iframeSrc: 'https://arcticpong.h5games.usercontent.goog/v/1quekndr8ig0o/'
-thumbnail: /new-images/arctic-pong.png
+thumbnail: /new-images/thumbnails/arctic-pong.png
 tags:
   - 2 player
   - casual

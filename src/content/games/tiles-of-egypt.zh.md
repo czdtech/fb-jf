@@ -4,7 +4,7 @@ urlstr: tiles-of-egypt
 title: 《Tiles of Egypt》埃及方块秘境
 description: 《Tiles of Egypt》是一款以古埃及为主题的方块配对消除游戏。在金字塔与神庙背景下，从堆叠的方块中找出相同图案进行消除，解开古老的谜团。
 iframeSrc: 'https://tilesofegypt.h5games.usercontent.goog/v/6n2c3b1k9d8p0/'
-thumbnail: /new-images/tiles-of-egypt.png
+thumbnail: /new-images/thumbnails/tiles-of-egypt.jpg
 tags:
   - puzzle
   - match 3

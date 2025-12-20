@@ -7,7 +7,7 @@ description: >-
   Crossword Puzzle입니다. 다양한 스타일의 십자말 퍼즐을 온라인에서 가볍게
   즐겨 보세요.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/crossword-puzzle.html'
-thumbnail: /new-images/crossword-puzzle.jpg
+thumbnail: /new-images/thumbnails/crossword-puzzle.jpg
 tags:
   - word
   - puzzle

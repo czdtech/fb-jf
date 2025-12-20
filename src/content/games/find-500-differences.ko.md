@@ -4,7 +4,7 @@ urlstr: find-500-differences
 title: Find 500 Differences 500개의 차이 찾기
 description: 두 장의 비슷한 그림을 비교해 다른 점을 찾는 클래식 퍼즐 게임입니다. 세심한 관찰력을 발휘해 숨은 차이들을 모두 찾아보세요.
 iframeSrc: 'https://find500differences2.h5games.usercontent.goog/v/4gu2tobroroug/'
-thumbnail: /new-images/find-500-differences.png
+thumbnail: /new-images/thumbnails/find-500-differences.png
 tags:
   - puzzle
   - casual

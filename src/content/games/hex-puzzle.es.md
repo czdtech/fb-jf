@@ -7,7 +7,7 @@ description: >-
   Arrastra y suelta piezas de hexágonos para formar y limpiar líneas completas
   en cualquier dirección. Planea bien: las piezas no se pueden rotar.
 iframeSrc: 'https://blockpuzzle.h5games.usercontent.goog/v/3rkr8c5j9b23o/'
-thumbnail: /new-images/hex-puzzle.jpg
+thumbnail: /new-images/thumbnails/hex-puzzle.jpg
 tags:
   - puzzle
   - thinky

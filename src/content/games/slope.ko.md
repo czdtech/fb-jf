@@ -7,7 +7,7 @@ description: >-
   게임입니다. 붉은 장애물을 피해 최대한 오래 살아남아 최고 기록에
   도전해 보세요.
 iframeSrc: 'https://webglmath.github.io/slope/'
-thumbnail: /new-images/slope.jpg
+thumbnail: /new-images/thumbnails/slope.jpg
 tags:
   - endless runner
   - original

@@ -2,7 +2,7 @@
 title: Merge Cakes
 description: Merge Cakesはデザートを作っていくマージパズルです。ケーキをマージして新しいレシピを開放し、目標を達成します。
 iframeSrc: 'https://64im4ubfqfqe8.h5games.usercontent.goog/v/5b1gg4a2h50o0/'
-thumbnail: /new-images/merge-cakes.png
+thumbnail: /new-images/thumbnails/merge-cakes.jpg
 urlstr: merge-cakes
 score: 4.1/5  (1876 votes)
 tags:

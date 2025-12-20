@@ -7,7 +7,7 @@ description: >-
   줄을 지우는 퍼즐 게임입니다. 라인을 동시에 여러 개 지우고, 번개·얼음 블록을
   활용해 높은 점수를 노려 보세요.
 iframeSrc: 'https://40p3ck71ovs88.h5games.usercontent.goog/v/36e5gjc5plhi8/'
-thumbnail: /new-images/block-breaker-king.png
+thumbnail: /new-images/thumbnails/block-breaker-king.png
 tags:
   - puzzle
   - casual

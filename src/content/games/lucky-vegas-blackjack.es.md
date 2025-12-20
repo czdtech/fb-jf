@@ -6,7 +6,7 @@ description: >-
   Lucky Vegas Blackjack simplifica el clásico 21: aplica estrategia básica,
   gestiona tu banca y disfruta manos rápidas sin perseguir pérdidas.
 iframeSrc: 'https://35ntqr0siokq8.h5games.usercontent.goog/v/1hhotshtjugn8/'
-thumbnail: /new-images/lucky-vegas-blackjack.png
+thumbnail: /new-images/thumbnails/lucky-vegas-blackjack.png
 tags:
   - card
   - casual

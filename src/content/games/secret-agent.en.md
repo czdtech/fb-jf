@@ -3,7 +3,7 @@ locale: en
 title: "Secret Agent"
 description: "Secret Agent is a stealth‑action caper — sneak past guards, disable traps, and complete objectives with gadgets and precise timing."
 iframeSrc: "https://087cce7dimlq8.h5games.usercontent.goog/v/6na8sphqpnhlo/"
-thumbnail: "/new-images/secret-agent.png"
+thumbnail: /new-images/thumbnails/secret-agent.png
 urlstr: "secret-agent"
 score: "4.0/5  (1874 votes)"
 tags: ["action", "puzzle"]

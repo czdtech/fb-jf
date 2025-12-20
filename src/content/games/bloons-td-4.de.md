@@ -7,7 +7,7 @@ description: >-
   dem mächtigen BFB‑Blimp. Steigere deinen Rang, schalte Inhalte frei und baue
   eine flexible Verteidigung gegen jede Bloon‑Art.
 iframeSrc: 'https://1000freegames.github.io/swf/bloons-td-4.html'
-thumbnail: /new-images/bloons-td-4.jpg
+thumbnail: /new-images/thumbnails/bloons-td-4.jpg
 tags:
   - casual
   - strategy

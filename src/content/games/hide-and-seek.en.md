@@ -4,7 +4,7 @@ locale: en
 title: "Hide And Seek!"
 description: "Casual stealth‑tag: as a hider, blend and collect; as a seeker, use vision cones and sprints to catch everyone before time runs out." 
 iframeSrc: "https://g2.igroutka.ru/games/23/YWRIxUAXudnq4HO1/rvvASMiM/239942ce1a1349f6bcc9d312b32c5c3b/"
-thumbnail: "/new-images/hide-and-seek.jpg"
+thumbnail: /new-images/thumbnails/hide-and-seek.jpg
 urlstr: "hide-and-seek"
 score: "4.5/5  (917 votes)"
 tags: ["stealth", "arcade"]

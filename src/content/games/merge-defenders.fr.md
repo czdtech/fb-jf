@@ -7,7 +7,7 @@ description: >-
   Defenders ! Combine des défenseurs identiques pour créer des versions plus
   puissantes et place‑les stratégiquement pour arrêter les vagues d'ennemis.
 iframeSrc: 'https://5c1j2nn9b0q4o.h5games.usercontent.goog/v/20drsjkant5s8/'
-thumbnail: /new-images/merge-defenders.png
+thumbnail: /new-images/thumbnails/merge-defenders.png
 tags:
   - strategy
   - tower Defense

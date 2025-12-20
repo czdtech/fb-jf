@@ -4,7 +4,7 @@ locale: en
 title: "Cookie Clicker"
 description: "The definitive guide for Cookie Clicker, the legendary incremental game. Discover gameplay strategies, tips for Ascension, Golden Cookies, and answers to common questions to maximize your cookie production."
 iframeSrc: "https://freeonlinegames.github.io/cookie-clicker/"
-thumbnail: "/new-images/cookie-clicker.jpg"
+thumbnail: /new-images/thumbnails/cookie-clicker.jpg
 urlstr: "cookie-clicker"
 score: "4.6/5  (1437 votes)"
 tags: ["casual", "clicker"]

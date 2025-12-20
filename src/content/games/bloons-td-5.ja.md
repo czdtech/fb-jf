@@ -2,7 +2,7 @@
 title: "Bloons TD 5 ブルーンズTD 5"
 description: "「Bloons TD 5」で防衛戦略を極めろ！8つのアップグレード、2つのパス、新登場のエージェント。タワーを育てて毎日変わるデイリーチャレンジに挑もう。"
 iframeSrc: "https://bloonstd5.h5games.usercontent.goog/v/9b83b167-93e1-482a-874f-c4e9702209d8/"
-thumbnail: "/new-images/bloons-td-5.jpg"
+thumbnail: /new-images/thumbnails/bloons-td-5.jpg
 urlstr: "bloons-td-5"
 score: "4.5/5  (2300 votes)"
 tags: ["casual", "strategy"]

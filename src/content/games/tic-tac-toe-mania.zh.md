@@ -6,7 +6,7 @@ description: >-
   《Tic Tac Toe
   Mania》是在经典井字棋基础上的小巧对战游戏，加入了更大棋盘、反向规则等变体。通过制造“双杀点”、封堵威胁，在快节奏博弈中抢到必胜或逼和局面。
 iframeSrc: 'https://7dcsid310v1u8.h5games.usercontent.goog/v/13cfdat69ufug/'
-thumbnail: /new-images/tic-tac-toe-mania.png
+thumbnail: /new-images/thumbnails/tic-tac-toe-mania.png
 tags:
   - 2 player
   - thinky

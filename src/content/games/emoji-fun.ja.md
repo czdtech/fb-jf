@@ -2,7 +2,7 @@
 title: Emoji Fun 絵文字ファン
 description: 「Emoji Fun」は連想力を試すパズルゲーム。関連する絵文字のペアを見つけて線で繋ごう。柔軟な発想でユニークなパズルを解き明かせ。
 iframeSrc: 'https://0aijth0is3tko.h5games.usercontent.goog/v/1c1277hq9kr98/'
-thumbnail: /new-images/emoji-fun.png
+thumbnail: /new-images/thumbnails/emoji-fun.png
 urlstr: emoji-fun
 score: 4.3/5  (2100 votes)
 tags:

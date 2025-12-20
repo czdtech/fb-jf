@@ -7,7 +7,7 @@ description: >-
   que intercambias adornos de Navidad para resolver puzles y completar niveles
   llenos de alegría.
 iframeSrc: 'https://jewelmagicxmas.h5games.usercontent.goog/v/19095ne8tscfg/'
-thumbnail: /new-images/jewel-magic-xmas.png
+thumbnail: /new-images/thumbnails/jewel-magic-xmas.png
 tags:
   - puzzle
   - casual

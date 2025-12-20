@@ -4,7 +4,7 @@ locale: en
 title: "Funny Shooter 2"
 description: "Wave‑based FPS: blast bizarre enemies with an expanding arsenal, earn coins, and upgrade weapons between stages." 
 iframeSrc: "https://bitlifeonline.github.io/class2623/funny-shooter-2/"
-thumbnail: "/new-images/funny-shooter-2.jpg"
+thumbnail: /new-images/thumbnails/funny-shooter-2.jpg
 urlstr: "funny-shooter-2"
 score: "3.8/5  (514 votes)"
 tags: ["shooting", "fps"]

@@ -7,7 +7,7 @@ description: >-
   Match-3-Puzzlespiel tauschst du bunte Weihnachtskugeln und Deko, löst Kombos
   aus und meisterst fröhliche Levelziele.
 iframeSrc: 'https://jewelmagicxmas.h5games.usercontent.goog/v/19095ne8tscfg/'
-thumbnail: /new-images/jewel-magic-xmas.png
+thumbnail: /new-images/thumbnails/jewel-magic-xmas.png
 tags:
   - puzzle
   - casual

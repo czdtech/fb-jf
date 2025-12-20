@@ -6,7 +6,7 @@ description: >-
   Merge Bistro는 재료를 합쳐 높은 등급의 식재료를 만들고, 주문을 처리해 작은 비스트로를
   키워 나가는 아기자기한 머지 경영 퍼즐 게임입니다.
 iframeSrc: 'https://0f5mbl2u9ont8.h5games.usercontent.goog/v/50p3a8ekgfdk8/'
-thumbnail: /new-images/merge-bistro.png
+thumbnail: /new-images/thumbnails/merge-bistro.png
 tags:
   - puzzle
   - casual

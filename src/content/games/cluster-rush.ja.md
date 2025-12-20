@@ -2,7 +2,7 @@
 title: Cluster Rush クラスター・ラッシュ
 description: 「Cluster Rush」でカオスなトラックの車列を飛び移れ！物理演算ベースの激ムズ一人称パルクールアクション。タイミングと反射神経が全てだ。
 iframeSrc: 'https://clusterrush.io/game/cluster-rush/'
-thumbnail: /new-images/cluster-rush.jpg
+thumbnail: /new-images/thumbnails/cluster-rush.jpg
 urlstr: cluster-rush
 score: 4.6/5  (1082 votes)
 tags:

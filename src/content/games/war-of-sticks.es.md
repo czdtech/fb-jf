@@ -7,7 +7,7 @@ description: >-
   tiempo real. Mina recursos, entrena unidades como escuderos, arqueros y
   bárbaros y derrota al Imperio Rojo con un ejército bien planificado.
 iframeSrc: "https://g.igroutka.ru/games/164/lt2ARJHFBxPb4spD/4/war_of_sticks/"
-thumbnail: "/new-images/war-of-sticks.jpg"
+thumbnail: /new-images/thumbnails/war-of-sticks.jpg
 tags:
   - strategy
   - rTS

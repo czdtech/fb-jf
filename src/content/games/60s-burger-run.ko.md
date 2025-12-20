@@ -7,7 +7,7 @@ description: >-
   60 Seconds Burger Run입니다. 빠른 판단과 점프로 최대한 많은 스테이지를
   돌파해 보세요.
 iframeSrc: 'https://www.playfiddlebops.com/embed/60s-burger-run/index.html'
-thumbnail: /60s-burger-run.jpg
+thumbnail: /new-images/thumbnails/60s-burger-run.jpg
 tags:
   - 60 seconds burger run
 score: 4.6/5  (1344 votes)

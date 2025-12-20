@@ -6,7 +6,7 @@ description: >-
   score points, and become a virtual ping-pong champion with precise timing and
   swift reflexes.
 iframeSrc: 'https://tabletennis.h5games.usercontent.goog/v/4eeofbe4nfj1g/'
-thumbnail: /new-images/table-tennis.png
+thumbnail: /new-images/thumbnails/table-tennis.png
 urlstr: table-tennis
 score: 4.2/5  (1873 votes)
 tags:

@@ -6,7 +6,7 @@ description: >-
   《Crash Bandicoot 古惑狼 浏览器版》是一款致敬经典的复古平台动作游戏。操控古惑狼奔
   跑、跳跃与旋转攻击，收集沃帕果和水晶，躲开 TNT 箱与陷阱，在浏览器中重温童年手感。
 iframeSrc: 'https://ad-freegames.github.io/flash/game/crash-bandicoot.html'
-thumbnail: /new-images/crash-bandicoot.jpg
+thumbnail: /new-images/thumbnails/crash-bandicoot.jpg
 tags:
   - arcade
   - platformer

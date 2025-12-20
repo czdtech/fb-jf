@@ -7,7 +7,7 @@ description: >-
   Küchenutensilien und Abfall unter Zeitdruck den richtigen Behältern zu und
   vermeide Kreuzkontamination.
 iframeSrc: 'https://757entlesmh4g.h5games.usercontent.goog/v/1r9oimecfevc0/'
-thumbnail: /new-images/kitchen-sorting.png
+thumbnail: /new-images/thumbnails/kitchen-sorting.png
 tags:
   - puzzle
   - thinky

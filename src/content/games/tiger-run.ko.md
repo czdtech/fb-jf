@@ -6,7 +6,7 @@ description: >-
   정글을 배경으로 끝없이 달리는 러너 게임 Tiger Run입니다. 좌우로 레인을 이동하고 점프와
   슬라이딩으로 장애물을 피하며 코인을 모아 최고 기록에 도전해 보세요.
 iframeSrc: 'https://tigerrun.h5games.usercontent.goog/v/1cl0c4rtsjsqo/'
-thumbnail: /new-images/tiger-run.jpeg
+thumbnail: /new-images/thumbnails/tiger-run.jpeg
 tags:
   - action
   - casual

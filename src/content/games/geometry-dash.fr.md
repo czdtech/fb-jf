@@ -4,7 +4,7 @@ urlstr: geometry-dash
 title: "Geometry Dash Wave Spam - Play Geometry Dash Online"
 description: "Pas de fioritures. Ici, pas de balade classique de Geometry Dash : un défi wave pur et brutal, pensé pour briser tes réflexes… puis les reforger plus tranchants que jamais."
 iframeSrc: 'https://turbowarp.org/1185431027/embed'
-thumbnail: /geometry-dash.png
+thumbnail: /new-images/thumbnails/geometry-dash.png
 tags:
   - geometry dash
 score: 4.5/5  (604 votes)

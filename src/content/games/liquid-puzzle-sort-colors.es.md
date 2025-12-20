@@ -7,7 +7,7 @@ description: >-
   por color, planifica botellas de reserva y deja cada tubo con un solo color
   sin caer en atascos.
 iframeSrc: 'https://1b6vgcuid4b98.h5games.usercontent.goog/v/2vus27k78710o/'
-thumbnail: /new-images/liquid-puzzle-sort-colors.jpg
+thumbnail: /new-images/thumbnails/liquid-puzzle-sort-colors.jpg
 tags:
   - puzzle
   - thinky

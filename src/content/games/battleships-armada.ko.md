@@ -6,7 +6,7 @@ description: >-
   고전 보드게임 배틀쉽을 디지털로 즐기는 전략 게임입니다. 바다 위 격자에
   함대를 배치하고, 상대의 위치를 추리해 먼저 모든 전함을 격침시키세요.
 iframeSrc: 'https://3hcluun64uid0.h5games.usercontent.goog/v/0op00pgc2n4kg/'
-thumbnail: /new-images/battleships-armada.png
+thumbnail: /new-images/thumbnails/battleships-armada.png
 tags:
   - puzzle
   - strategy

@@ -4,7 +4,7 @@ locale: en
 title: "Pixel Shooter"
 description: "Pixel Shooter is a retro-style pixel art shooting game where players control a character to battle hordes of enemies across various levels, collecting power-ups and upgrading weapons to survive."
 iframeSrc: "https://a.onlineigry.net/games3/igra-piksel-shuter/index.htm"
-thumbnail: "/new-images/pixel-shooter.jpg"
+thumbnail: /new-images/thumbnails/pixel-shooter.jpg
 urlstr: "pixel-shooter"
 score: "3.9/5  (682 votes)"
 tags: ["shooting", "pixel art", "action"]

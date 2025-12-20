@@ -6,7 +6,7 @@ description: >-
   Word Scramble est un classique du casse-tête : réarrange les lettres mélangées
   pour former le mot correct avant la fin du temps.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/word-scramble/'
-thumbnail: /new-images/word-scramble.jpg
+thumbnail: /new-images/thumbnails/word-scramble.jpg
 tags:
   - word-game
   - puzzle

@@ -2,7 +2,7 @@
 title: "Kingdom Rush Frontiers"
 description: "タワーディフェンス続編：タワーを建設およびアップグレードし、援軍とヒーローを配備し、スマートな配置で敵タイプに対抗します。"
 iframeSrc: "https://1000freegames.github.io/swf/kingdom-rush-frontiers.html"
-thumbnail: "/new-images/kingdom-rush-frontiers.jpg"
+thumbnail: /new-images/thumbnails/kingdom-rush-frontiers.jpg
 urlstr: "kingdom-rush-frontiers"
 score: "4.6/5  (681 votes)"
 tags: ["tower-defense", "strategy"]

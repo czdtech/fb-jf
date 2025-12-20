@@ -6,7 +6,7 @@ description: >-
   Jewel Pets Match mélange gemmes et animaux mignons : aligne des symboles pour
   aider les petites créatures et progresser à travers les niveaux.
 iframeSrc: 'https://jewelpetsmatch.h5games.usercontent.goog/v/708di05m796eo/'
-thumbnail: /new-images/jewel-pets-match.png
+thumbnail: /new-images/thumbnails/jewel-pets-match.png
 tags:
   - puzzle
   - casual

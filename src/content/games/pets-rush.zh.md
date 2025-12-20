@@ -7,7 +7,7 @@ description: >-
   Rush》是一款节奏飞快的宠物主题三消游戏，你需要不断交换相邻小动物方块，凑出三消甚至更多连锁，在方块墙冲到顶端之前尽可能长时间地生存并刷出高分。
 iframeSrc: >-
   https://petsrush2.h5games.usercontent.goog/v/e566fdbf-c420-4ec6-af2a-7e9a6edab856/
-thumbnail: /new-images/pets-rush.jpg
+thumbnail: /new-images/thumbnails/pets-rush.jpg
 tags:
   - puzzle
   - casual

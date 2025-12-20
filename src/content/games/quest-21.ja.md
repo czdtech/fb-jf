@@ -2,7 +2,7 @@
 title: Quest 21
 description: Quest 21はカード戦略ゲームです。21を目指し、バストを避け、対戦相手を打ち負かし、カードマスターになります。
 iframeSrc: 'https://quest21.h5games.usercontent.goog/v/3k9j5m8h7p2n8/'
-thumbnail: /new-images/quest-21.png
+thumbnail: /new-images/thumbnails/quest-21.png
 urlstr: quest-21
 score: 4.1/5  (1834 votes)
 tags:

@@ -5,7 +5,7 @@ urlstr: "sprunki-parasite-parasprunki-15"
 title: "Incredibox Sprunksters - 在线玩 Incredibox Sprunksters"
 description: "准备好迎接 Sprunki Parasite ParaSprunki 15 了吗！这不是你可能习惯的阳光明媚的 Sprunki；它是由才华横溢的 mondaymuncher 制作的粉丝 Mod，充满了惊悚元素。"
 iframeSrc: "https://kdata1.com/2025/03/paraSprunki-update-15-0-part-222/"
-thumbnail: "/sprunki-parasite-parasprunki-15.png"
+thumbnail: /new-images/thumbnails/sprunki-parasite-parasprunki-15.png
 score: "4.3/5  (372 票)"
 tags: ["incredibox sprunksters"]
 ---

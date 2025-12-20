@@ -4,7 +4,7 @@ locale: en
 title: "Geometry Dash Lite"
 description: "Rhythm platforming sampler: jump and fly to the beat through preset levels, avoiding spikes and timing pads/portals." 
 iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp45/chenling/20240221/08/index.html"
-thumbnail: "/new-images/geometry-dash-lite.jpg"
+thumbnail: /new-images/thumbnails/geometry-dash-lite.jpg
 urlstr: "geometry-dash-lite"
 score: "4.8/5  (332 votes)"
 tags: ["rhythm", "platformer"]

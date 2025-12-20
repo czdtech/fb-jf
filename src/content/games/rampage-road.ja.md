@@ -2,7 +2,7 @@
 title: "Rampage Road"
 description: "Rampage Roadは破壊要素のあるレーシングゲームです。車を運転して障害物を壊し、スコアを稼ぎます。"
 iframeSrc: "https://rampageroad.h5games.usercontent.goog/v/3k9j5m8h7p2n8/"
-thumbnail: "/new-images/rampage-road.png"
+thumbnail: /new-images/thumbnails/rampage-road.png
 urlstr: "rampage-road"
 score: "4.1/5  (1934 votes)"
 tags: ["action", "racing", "casual"]

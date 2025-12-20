@@ -8,7 +8,7 @@ description: >-
   joueurs dans une arène infinie pour devenir le plus long de tous.
 iframeSrc: >-
   https://app-165910.games.s3.yandex.net/165910/rm0dpvrwyxo0cakog5vc1sr4c8b6xj1s/index.html
-thumbnail: /new-images/slither-io.jpg
+thumbnail: /new-images/thumbnails/slither-io.jpg
 tags:
   - multiplayer
   - io game

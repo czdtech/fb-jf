@@ -2,7 +2,7 @@
 title: Northern Heights
 description: Northern Heightsは登山サバイバルゲームです。エネルギーや防寒などのリソースを管理しながらルートを選び、頂上を目指します。
 iframeSrc: 'https://northernheights.h5games.usercontent.goog/v/2h8k5m9j7p3n8/'
-thumbnail: /new-images/northern-heights.png
+thumbnail: /new-images/thumbnails/northern-heights.png
 urlstr: northern-heights
 score: 4.2/5  (1923 votes)
 tags:

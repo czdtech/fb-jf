@@ -7,7 +7,7 @@ description: >-
   Klaue im richtigen Moment los, sammle Gold und Edelsteine ein, kaufe Power-ups
   und erreiche das Geldziel, bevor die Zeit abläuft.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/gold-miner.html'
-thumbnail: /new-images/gold-miner.jpg
+thumbnail: /new-images/thumbnails/gold-miner.jpg
 tags:
   - arcade
   - skill

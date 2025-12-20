@@ -8,7 +8,7 @@ description: >-
   el director de esta orquesta: con unos cuantos arrastres de ratón, las haces
   tocar música única.
 iframeSrc: 'https://turbowarp.org/1141050651/embed'
-thumbnail: /swap-sprunkgerny.png
+thumbnail: /new-images/thumbnails/swap-sprunkgerny.png
 tags:
   - swap sprunkgerny
   - swap sprunkgerny online

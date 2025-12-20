@@ -6,7 +6,7 @@ description: >-
   Combina y aplasta deliciosos pasteles en Cake Smash, un adictivo puzle match‑3
   lleno de color.
 iframeSrc: 'https://41la6sld9ed88.h5games.usercontent.goog/v/36d90atplnu7o/'
-thumbnail: /new-images/cake-smash.png
+thumbnail: /new-images/thumbnails/cake-smash.png
 tags:
   - puzzle
   - casual

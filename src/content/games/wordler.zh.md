@@ -7,7 +7,7 @@ description: >-
   通过每次猜测后给出的颜色反馈，逐步排除不可能的组合，
   用模式识别和逻辑推理而不是纯运气逼近正确答案。
 iframeSrc: 'https://30mv2rsaljhjo.h5games.usercontent.goog/v/0hb0g2c5b4m9o/'
-thumbnail: /new-images/wordler.png
+thumbnail: /new-images/thumbnails/wordler.png
 tags:
   - puzzle
   - thinky

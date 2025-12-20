@@ -7,7 +7,7 @@ description: >-
   mini‑crucigramas y preguntas rápidas que premian el vocabulario amplio y la
   buena deducción.
 iframeSrc: "https://60p1t41kumli8.h5games.usercontent.goog/v/7pss7j2tdq7io/"
-thumbnail: "/new-images/words-challenge.jpg"
+thumbnail: /new-images/thumbnails/words-challenge.jpg
 tags:
   - puzzle
   - thinky

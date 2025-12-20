@@ -4,7 +4,7 @@ locale: en
 title: "PAC-MAN"
 description: "PAC-MAN is a classic arcade maze game where players control Pac-Man, navigating a labyrinth to eat all the pellets while avoiding four colorful ghosts. Eating power pellets allows Pac-Man to temporarily turn the tables and eat the ghosts."
 iframeSrc: "https://bward2.github.io/pacman-js/"
-thumbnail: "/new-images/pac-man.jpg"
+thumbnail: /new-images/thumbnails/pac-man.jpg
 urlstr: "pac-man"
 score: "5.0/5  (1241 votes)"
 tags: ["arcade", "maze", "classic"]

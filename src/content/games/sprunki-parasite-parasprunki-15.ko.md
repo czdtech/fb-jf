@@ -7,7 +7,7 @@ description: >-
   공포 테마로 뒤틀어 놓은 팬 메이드 모드입니다. 기괴하게 변한 캐릭터와
   글리치 사운드로, 익숙한 음악 제작을 섬뜩한 분위기의 경험으로 바꿔 줍니다.
 iframeSrc: 'https://kdata1.com/2025/03/paraSprunki-update-15-0-part-222/'
-thumbnail: /sprunki-parasite-parasprunki-15.png
+thumbnail: /new-images/thumbnails/sprunki-parasite-parasprunki-15.png
 tags:
   - incredibox sprunksters
 score: 4.3/5  (372 votes)

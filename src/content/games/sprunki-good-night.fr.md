@@ -7,7 +7,7 @@ description: >-
   une journée chargée. Crée des berceuses douces et des ambiances nocturnes
   relaxantes pour t’accompagner vers le sommeil.
 iframeSrc: 'https://turbowarp.org/1178264025/embed'
-thumbnail: /sprunki-good-night.png
+thumbnail: /new-images/thumbnails/sprunki-good-night.png
 score: 4.2/5  (227 votes)
 tags:
   - sprunki good night

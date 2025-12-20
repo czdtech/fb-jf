@@ -3,7 +3,7 @@ locale: en
 title: "Puzzle Pieces"
 description: "Puzzle Pieces delivers clean brainteasers — rotate, fit shapes, and complete boards without gaps."
 iframeSrc: "https://05c9vfh919cbg.h5games.usercontent.goog/v/0ki2bua5asq00/"
-thumbnail: "/new-images/puzzle-pieces.png"
+thumbnail: /new-images/thumbnails/puzzle-pieces.png
 urlstr: "puzzle-pieces"
 score: "4.0/5  (1888 votes)"
 tags: ["puzzle", "thinky"]

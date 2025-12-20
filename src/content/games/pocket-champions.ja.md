@@ -2,7 +2,7 @@
 title: Pocket Champions
 description: Pocket Championsは格闘ゲームです。キャラクターを選び、攻防の読み合いとコンボで相手に勝ちます。
 iframeSrc: 'https://pocketchampions.h5games.usercontent.goog/v/2j9k5m8h7p3n8/'
-thumbnail: /new-images/pocket-champions.png
+thumbnail: /new-images/thumbnails/pocket-champions.png
 urlstr: pocket-champions
 score: 4.0/5  (1723 votes)
 tags:

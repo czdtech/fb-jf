@@ -7,7 +7,7 @@ description: >-
   d'emojis liés en traçant une ligne entre eux et pense autrement pour résoudre
   chaque énigme unique.
 iframeSrc: 'https://0aijth0is3tko.h5games.usercontent.goog/v/1c1277hq9kr98/'
-thumbnail: /new-images/emoji-fun.png
+thumbnail: /new-images/thumbnails/emoji-fun.png
 tags:
   - puzzle
   - thinky

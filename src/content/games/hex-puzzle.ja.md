@@ -2,7 +2,7 @@
 title: "Hex Puzzle"
 description: "六角形のグリッドでの、やりがいのある中毒性の高いブロックパズル。ヘキサブロックをドラッグ＆ドロップして、あらゆる方向に完全なラインを作って消しましょう。ブロックは回転できないので、計画的に動かしましょう！"
 iframeSrc: "https://blockpuzzle.h5games.usercontent.goog/v/3rkr8c5j9b23o/"
-thumbnail: "/new-images/hex-puzzle.jpg"
+thumbnail: /new-images/thumbnails/hex-puzzle.jpg
 urlstr: "hex-puzzle"
 score: "4.4/5  (2450 votes)"
 tags: ["puzzle", "thinky", "casual"]

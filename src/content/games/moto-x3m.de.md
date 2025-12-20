@@ -7,7 +7,7 @@ description: >-
   über gefährliche Strecken mit Rampen, Fallen und Explosionen und zeige
   waghalsige Tricks.
 iframeSrc: 'https://webglmath.github.io/moto-x3m/'
-thumbnail: /new-images/moto-x3m.jpg
+thumbnail: /new-images/thumbnails/moto-x3m.jpg
 tags:
   - racing
   - stunt

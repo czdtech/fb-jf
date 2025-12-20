@@ -2,7 +2,7 @@
 title: Onet Connect Classic
 description: Onet Connect Classicはマッチングパズルです。同じタイルのペアを接続し、ルール内のパスでボードを消していきます。
 iframeSrc: 'https://onetconnectclassic.h5games.usercontent.goog/v/5k8j9m2h7p3n8/'
-thumbnail: /new-images/onet-connect-classic.png
+thumbnail: /new-images/thumbnails/onet-connect-classic.png
 urlstr: onet-connect-classic
 score: 4.4/5  (2456 votes)
 tags:

@@ -8,7 +8,7 @@ description: >-
   kannst. Es sticht unter den Sprunki-Mods durch seine fortschrittlichen
   Verzerrungs-Algorithmen und immersiven Visuals hervor.
 iframeSrc: 'https://turbowarp.org/1126764795/embed'
-thumbnail: /sprunki-rotrizi-5.png
+thumbnail: /new-images/thumbnails/sprunki-rotrizi-5.png
 tags:
   - sprunki rotrizi 5.0
 score: 4.0/5  (232 votes)

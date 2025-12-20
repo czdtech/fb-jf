@@ -8,7 +8,7 @@ description: >-
   profunda, es todo un homenaje a la saga Super Smash Bros. Lucha en escenarios
   icónicos y domina el moveset de tu luchador.
 iframeSrc: 'https://kdata1.com/games/SSF9_2011/?kbhgames'
-thumbnail: /new-images/super-smash-flash-2-v09.jpg
+thumbnail: /new-images/thumbnails/super-smash-flash-2-v09.jpg
 tags:
   - fighting
   - platformer

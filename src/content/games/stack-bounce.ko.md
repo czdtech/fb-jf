@@ -6,7 +6,7 @@ description: >-
   Stack Bounce는 회전하는 타워를 따라 공을 떨어뜨리며 컬러 플랫폼을 부수는 3D 아케이드 게임입니다. 눌러서 돌진하고, 검은
   장애물을 만나기 전에 손을 떼는 타이밍이 핵심입니다.
 iframeSrc: 'https://stackbounce.h5games.usercontent.goog/v/1aqsvv0aegbjg/'
-thumbnail: /new-images/stack-bounce.jpeg
+thumbnail: /new-images/thumbnails/stack-bounce.jpeg
 tags:
   - action
   - casual

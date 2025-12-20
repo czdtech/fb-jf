@@ -3,7 +3,7 @@ locale: en
 title: "Snowboard King 2024"
 description: "Race down the mountain and outrun a deadly avalanche! Weave through trees and rocks, collect coins, and upgrade your skills to become the Snowboard King."
 iframeSrc: "https://61nls5ipnd8o8.h5games.usercontent.goog/v/6mdu5qlsugsl0/"
-thumbnail: "/new-images/snowboard-king-2024.png"
+thumbnail: /new-images/thumbnails/snowboard-king-2024.png
 urlstr: "snowboard-king-2024"
 score: "4.4/5  (2500 votes)"
 tags: ["sports", "action", "driving"]

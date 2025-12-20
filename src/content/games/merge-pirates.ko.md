@@ -6,7 +6,7 @@ description: >-
   Merge Pirates에서는 선장님이 되어 대포와 배, 해적 장비를 머지해 강력한 함대를 꾸리고, 주문을 처리해 골드를 모으며 일곱 바다
   최고의 전설적인 해적을 노리는 머지 퍼즐 게임을 즐길 수 있습니다.
 iframeSrc: 'https://mergepirates.h5games.usercontent.goog/v/2rugbh8p4845g/'
-thumbnail: /new-images/merge-pirates.png
+thumbnail: /new-images/thumbnails/merge-pirates.png
 tags:
   - puzzle
   - casual

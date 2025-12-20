@@ -2,7 +2,7 @@
 title: "Doodle Baseball ドゥードゥル・ベースボール"
 description: "「Doodle Baseball」の完全ガイド。魅力的でシンプルなタイミング勝負の野球ゲーム。ホームランのコツ、操作方法、そしてよくある質問への答えを網羅。"
 iframeSrc: "https://freeonlinegames.github.io/fourth-of-july-2019.html"
-thumbnail: "/new-images/baseball.jpg"
+thumbnail: /new-images/thumbnails/baseball.jpg
 urlstr: "baseball"
 score: "4.4/5  (525 votes)"
 tags: ["casual", "sports"]

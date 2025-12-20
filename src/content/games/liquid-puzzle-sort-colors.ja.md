@@ -2,7 +2,7 @@
 title: "Liquid puzzle sort colors"
 description: "Liquid puzzle sort colorsはリラックスした注ぎ分けソートです。色で液体を注ぎ、バッファーを計画し、デッドロックなしでボトルを完成させます。"
 iframeSrc: "https://1b6vgcuid4b98.h5games.usercontent.goog/v/2vus27k78710o/"
-thumbnail: "/new-images/liquid-puzzle-sort-colors.jpg"
+thumbnail: /new-images/thumbnails/liquid-puzzle-sort-colors.jpg
 urlstr: "liquid-puzzle-sort-colors"
 score: "4.1/5  (1979 votes)"
 tags: ["puzzle", "thinky", "casual"]

@@ -7,7 +7,7 @@ description: >-
   alinear los huecos y dejarla caer, pero cuidado con las plataformas rojas.
   Encadena caídas para conseguir un poderoso modo fuego.
 iframeSrc: 'https://2mk3ok3s7jl88.h5games.usercontent.goog/v/39vfhh0oku1j8/'
-thumbnail: /new-images/neon-tower.png
+thumbnail: /new-images/thumbnails/neon-tower.png
 tags:
   - action
   - casual

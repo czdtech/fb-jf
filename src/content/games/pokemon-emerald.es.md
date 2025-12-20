@@ -8,7 +8,7 @@ description: >-
   entrenadores y Líderes de Gimnasio para convertirte en Campeón, mientras
   frenas los planes de los equipos Magma y Aqua.
 iframeSrc: "https://picklekid31.github.io/GBA-unblocked-games/launcher.html#pokemonemerald"
-thumbnail: "/new-images/pokemon-emerald.jpg"
+thumbnail: /new-images/thumbnails/pokemon-emerald.jpg
 tags:
   - rpg
   - adventure

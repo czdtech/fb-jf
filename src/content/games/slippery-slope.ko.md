@@ -8,7 +8,7 @@ description: >-
   완주해 보세요.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp45/gamehwq/20231124/15/index.html
-thumbnail: /new-images/slippery-slope.jpg
+thumbnail: /new-images/thumbnails/slippery-slope.jpg
 tags:
   - skiing
   - racing

@@ -3,7 +3,7 @@ locale: en
 title: "Fairyland"
 description: "Fairyland is a gentle puzzle adventure — explore cozy scenes, solve light puzzles, and complete objectives at a restful pace."
 iframeSrc: "https://66ts484uf5r18.h5games.usercontent.goog/v/1nt4ffhi7k9jo/"
-thumbnail: "/new-images/fairyland.png"
+thumbnail: /new-images/thumbnails/fairyland.png
 urlstr: "fairyland"
 score: "4.0/5  (1821 votes)"
 tags: ["adventure", "puzzle", "casual"]

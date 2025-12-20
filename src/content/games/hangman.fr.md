@@ -6,7 +6,7 @@ description: >-
   Jeu de pendu classique : devine le mot secret en proposant des lettres sans
   faire trop d'erreurs avant que le dessin du personnage soit complet.
 iframeSrc: 'https://hangman-frontend.coolmathgames.com/home'
-thumbnail: /new-images/hangman.jpg
+thumbnail: /new-images/thumbnails/hangman.jpg
 tags:
   - word
   - puzzle

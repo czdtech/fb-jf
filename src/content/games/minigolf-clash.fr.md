@@ -6,7 +6,7 @@ description: >-
   Minigolf Clash propose des parcours de mini‑golf créatifs : lis les pentes,
   joue les bandes et rentre tes balles sous le par sur des pistes décalées.
 iframeSrc: 'https://7a8e5urbht3f8.h5games.usercontent.goog/v/2ptudqjkva98g/'
-thumbnail: /new-images/minigolf-clash.png
+thumbnail: /new-images/thumbnails/minigolf-clash.png
 tags:
   - sports
   - puzzle

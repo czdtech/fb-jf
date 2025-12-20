@@ -7,7 +7,7 @@ description: >-
   para salir. Trepa por los bloques que caen para escapar, pero no dejes que te
   aplasten.
 iframeSrc: 'https://turbowarp.org/1189417610/embed'
-thumbnail: /minecraft-cave-escape.png
+thumbnail: /new-images/thumbnails/minecraft-cave-escape.png
 tags:
   - minecraft cave escape
 score: 4.7/5  (354 votes)

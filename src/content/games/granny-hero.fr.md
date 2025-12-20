@@ -4,7 +4,7 @@ urlstr: granny-hero
 title: "Granny Hero"
 description: "Granny Hero est un runner d’action comique : évite les dangers, utilise des bonus délirants et sauve tes voisins avec une agilité surprenante."
 iframeSrc: 'https://0nd9712ar55uo.h5games.usercontent.goog/v/3qru4tsu7d5v0/'
-thumbnail: /new-images/granny-hero.png
+thumbnail: /new-images/thumbnails/granny-hero.png
 tags:
   - action
   - casual

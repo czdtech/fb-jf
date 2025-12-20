@@ -7,7 +7,7 @@ description: >-
   grille : sons chiptune 8‑bit, bruitages rétro et outils simples pour composer
   tes propres boucles de jeu vidéo.
 iframeSrc: 'https://turbowarp.org/904948672/embed'
-thumbnail: /new-images/incredibox-geek-dance-simulator.png
+thumbnail: /new-images/thumbnails/incredibox-geek-dance-simulator.png
 tags:
   - music
   - rhythm

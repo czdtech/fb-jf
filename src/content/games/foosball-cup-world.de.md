@@ -6,7 +6,7 @@ description: >-
   Foosball Cup World bringt schnelles Tischfußball-Feeling: platziere Schüsse
   im richtigen Winkel, timinge Spins und verteidige clever in engen Partien.
 iframeSrc: 'https://7ak26cf4bf850.h5games.usercontent.goog/v/6jmmp78dbnp50/'
-thumbnail: /new-images/foosball-cup-world.png
+thumbnail: /new-images/thumbnails/foosball-cup-world.png
 tags:
   - sports
   - soccer

@@ -7,7 +7,7 @@ description: >-
   dos monigotes se enfrentan en azoteas e intentan tirarse mutuamente usando
   armas de todo tipo y una física ragdoll totalmente impredecible.
 iframeSrc: "https://rebemanae.github.io/rooftop-snipers-2/"
-thumbnail: "/new-images/rooftop-snipers-2.jpg"
+thumbnail: /new-images/thumbnails/rooftop-snipers-2.jpg
 tags:
   - shooting
   - physics

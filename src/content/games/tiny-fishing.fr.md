@@ -7,7 +7,7 @@ description: >-
   profondeurs, attrape différentes espèces de poissons et améliore ton
   équipement pour découvrir des créatures rares.
 iframeSrc: 'https://webglmath.github.io/tiny-fishing/'
-thumbnail: /new-images/tiny-fishing.jpg
+thumbnail: /new-images/thumbnails/tiny-fishing.jpg
 tags:
   - fishing
   - casual

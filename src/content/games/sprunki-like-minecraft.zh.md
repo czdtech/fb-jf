@@ -5,7 +5,7 @@ urlstr: "sprunki-like-minecraft"
 title: "Sprunki Like Minecraft - 在线玩 Sprunki Like Minecraft"
 description: "你既是 Incredibox Sprunki 的忠实粉丝，又是 Minecraft 像素世界的狂热爱好者？那么 Sprunki Like Minecraft Mod 绝对会让你眼前一亮！"
 iframeSrc: "https://turbowarp.org/1095572358/embed"
-thumbnail: "/sprunki-like-minecraft.png"
+thumbnail: /new-images/thumbnails/sprunki-like-minecraft.png
 score: "4.6/5  (601 票)"
 tags: ["sprunki like minecraft"]
 ---

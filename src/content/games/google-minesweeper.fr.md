@@ -4,7 +4,7 @@ urlstr: google-minesweeper
 title: "Google Minesweeper"
 description: "Casse‑tête logique classique : nettoie la grille sans déclencher de mines en déduisant les cases sûres grâce aux nombres et à tes drapeaux."
 iframeSrc: 'https://www.minesweepergoogle.com/gameapp.html'
-thumbnail: /new-images/google-minesweeper.jpg
+thumbnail: /new-images/thumbnails/google-minesweeper.jpg
 tags:
   - puzzle
   - logic

@@ -5,7 +5,7 @@ description: >-
   Emoji With Friends is a light party‑puzzle — match, deduce, and race your
   friends with expressive emoji logic.
 iframeSrc: 'https://2gtc787tjm7c8.h5games.usercontent.goog/v/5lfna7ldlrun8/'
-thumbnail: /new-images/emoji-with-friends.png
+thumbnail: /new-images/thumbnails/emoji-with-friends.png
 urlstr: emoji-with-friends
 score: 3.9/5  (1517 votes)
 tags:

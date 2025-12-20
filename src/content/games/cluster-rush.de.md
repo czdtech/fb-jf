@@ -7,7 +7,7 @@ description: >-
   dir Strategien, Steuerungstipps und Antworten auf häufige Fragen zu diesem
   intensiven First-Person-Platformer.
 iframeSrc: 'https://clusterrush.io/game/cluster-rush/'
-thumbnail: /new-images/cluster-rush.jpg
+thumbnail: /new-images/thumbnails/cluster-rush.jpg
 tags:
   - platformer
   - parkour

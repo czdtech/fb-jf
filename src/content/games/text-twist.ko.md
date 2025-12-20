@@ -7,7 +7,7 @@ description: >-
   단어를 찾는 퍼즐 게임입니다. 모든 글자를 사용하는 "빙고 단어"를 찾아야
   다음 라운드로 진행할 수 있습니다.
 iframeSrc: 'https://games.cdn.famobi.com/html5games/t/text-twist/v010/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=5b597140-77c2-4f7c-9abf-4f149d6dcbac&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=465&original_ref='
-thumbnail: /new-images/text-twist.jpg
+thumbnail: /new-images/thumbnails/text-twist.jpg
 tags:
   - word-game
   - puzzle

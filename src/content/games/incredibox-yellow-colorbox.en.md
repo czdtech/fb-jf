@@ -6,7 +6,7 @@ description: >-
   version, all characters are presented in a striking yellow color, and each
   character has a unique and unrepeatable sound effect.
 iframeSrc: 'https://www.minijuegos.com/embed/incredibox-yellow-colorbox'
-thumbnail: /incredibox-yellow-colorbox.png
+thumbnail: /new-images/thumbnails/incredibox-yellow-colorbox.png
 urlstr: incredibox-yellow-colorbox
 modType: incredibox
 score: 4.5/5  (614 votes)

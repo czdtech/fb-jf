@@ -4,7 +4,7 @@ urlstr: fruit-ninja
 title: "Fruit Ninja"
 description: "Arcade de découpe culte : tranche les fruits en plein vol en évitant les bombes, enchaîne les combos et profite des modes frénésie pour booster ton score."
 iframeSrc: 'https://emulatoros.github.io/gfile/fruitninja/'
-thumbnail: /new-images/fruit-ninja.jpg
+thumbnail: /new-images/thumbnails/fruit-ninja.jpg
 tags:
   - arcade
   - action

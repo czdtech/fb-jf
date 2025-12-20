@@ -4,7 +4,7 @@ urlstr: duck-life-4
 title: Duck Life 4 덕 라이프 4
 description: '오리들을 훈련시켜 달리기·수영·비행 실력을 키우고, 레이스에서 우승을 노리는 육성 레이싱 게임입니다.'
 iframeSrc: 'https://ad-freegames.github.io/flash/game/duck-life-4.html'
-thumbnail: /new-images/duck-life-4.jpg
+thumbnail: /new-images/thumbnails/duck-life-4.jpg
 tags:
   - racing
   - animal

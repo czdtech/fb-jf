@@ -4,7 +4,7 @@ locale: en
 title: "Gangsters"
 description: "Physics ragdoll duels: two stick gangsters bounce and shoot on rooftops; time jumps and shots to knock the opponent off."
 iframeSrc: "https://app-185146.games.s3.yandex.net/185146/4mtxwijatlm9neect542qv9nbcqetm7u/index.html"
-thumbnail: "/new-images/gangsters.jpg"
+thumbnail: /new-images/thumbnails/gangsters.jpg
 urlstr: "gangsters"
 score: "4.4/5  (242 votes)"
 tags: ["action", "physics"]

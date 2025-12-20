@@ -5,7 +5,7 @@ urlstr: "sprunki-phase-5"
 title: "Sprunki Phase 5 - 在线玩 Sprunki Phase 5"
 description: "Sprunki Phase 5 是一款粉丝制作的音乐创作游戏，将基于节奏的创意与诡异的氛围转折相结合。"
 iframeSrc: "https://sprunki-phase-5-ekz.pages.dev/"
-thumbnail: "/sprunki-phase-5.png"
+thumbnail: /new-images/thumbnails/sprunki-phase-5.png
 score: "4.0/5  (604 票)"
 tags: ["sprunki phase 5", "sprunki phase 5 online"]
 ---

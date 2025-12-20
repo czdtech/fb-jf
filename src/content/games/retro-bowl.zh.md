@@ -5,7 +5,7 @@ title: "《Retro Bowl》像素橄榄球经理"
 description: >-
   《Retro Bowl》是一款充满怀旧风格的美式橄榄球游戏，采用复古 8 位像素画面。你既是主教练也是四分卫，需要管理球队薪资与阵容、制定战术、传球推进，并一步步带队冲击总冠军。
 iframeSrc: 'https://game316009.konggames.com/gamez/0031/6009/live/index.html'
-thumbnail: /new-images/retro-bowl.jpg
+thumbnail: /new-images/thumbnails/retro-bowl.jpg
 tags:
   - sports
   - retro

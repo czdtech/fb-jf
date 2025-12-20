@@ -6,7 +6,7 @@ description: >-
   Color Jump는 장애물의 색과 내 캐릭터의 색을 맞춰 통과해야 하는 원탭 러너 게임입니다. 한 번의 점프로 리듬을 유지하며, 색이 맞지
   않는 게이트는 피해서 끝없이 이어지는 패턴을 돌파해 보세요.
 iframeSrc: 'https://2sqb7s6hkuouo.h5games.usercontent.goog/v/251huhkdnons0/'
-thumbnail: /new-images/color-jump.png
+thumbnail: /new-images/thumbnails/color-jump.png
 tags:
   - action
   - casual

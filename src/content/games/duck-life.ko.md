@@ -4,7 +4,7 @@ urlstr: duck-life
 title: Duck Life 덕 라이프
 description: 작은 오리를 훈련시켜 다양한 레이스에 참가시키는 육성 레이싱 게임입니다. 달리기·점프·수영·비행 능력을 키워 챔피언을 만들어 보세요.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/duck-life.html'
-thumbnail: /new-images/duck-life.jpg
+thumbnail: /new-images/thumbnails/duck-life.jpg
 tags:
   - racing
   - animal

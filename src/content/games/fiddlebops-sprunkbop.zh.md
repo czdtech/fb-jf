@@ -5,7 +5,7 @@ urlstr: "fiddlebops-sprunkbop"
 title: "Fiddlebops Sprunkbop - 在线畅玩 Fiddlebops Sprunkbop"
 description: "Fiddlebops Sprunkbop 是一次精彩的跨界联动！它保留了 Fiddlebops 令人上瘾的音乐创作核心，但将所有原创角色换成了标志性的 Sprunki 团队。"
 iframeSrc: "https://turbowarp.org/1114551059/embed"
-thumbnail: "/fiddlebops-sprunkbop.png"
+thumbnail: /new-images/thumbnails/fiddlebops-sprunkbop.png
 score: "4.1/5  (308 票)"
 tags: ["fiddlebops sprunkbop"]
 ---

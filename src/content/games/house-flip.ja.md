@@ -2,7 +2,7 @@
 title: "House Flip"
 description: "House Flipはリノベーションをゲーム化します。物件を調査し、アップグレードの予算を組み、レイアウト、スタイル、外観の魅力を修正して不動産を転売しましょう。"
 iframeSrc: "https://45g7qkftithd0.h5games.usercontent.goog/v/7691fk060s8pg/"
-thumbnail: "/new-images/house-flip.png"
+thumbnail: /new-images/thumbnails/house-flip.png
 urlstr: "house-flip"
 score: "4.0/5  (1861 votes)"
 tags: ["puzzle", "casual"]

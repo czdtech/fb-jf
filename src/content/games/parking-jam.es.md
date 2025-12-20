@@ -7,7 +7,7 @@ description: >-
   secuencia, libera el carril de salida y resuelve aparcamientos compactos con
   el mínimo de movimientos.
 iframeSrc: 'https://4knmpq6joecbg.h5games.usercontent.goog/v/1uamg2frss2qg/'
-thumbnail: /new-images/parking-jam.png
+thumbnail: /new-images/thumbnails/parking-jam.png
 tags:
   - puzzle
   - thinky

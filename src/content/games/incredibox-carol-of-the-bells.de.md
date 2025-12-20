@@ -7,7 +7,7 @@ description: >-
   Remixe den Weihnachtsklassiker, lerne die Klangbausteine kennen und schalte
   besondere Holiday-Boni frei.
 iframeSrc: 'https://turbowarp.org/931427102/embed'
-thumbnail: /new-images/incredibox-carol-of-the-bells.png
+thumbnail: /new-images/thumbnails/incredibox-carol-of-the-bells.png
 tags:
   - music
   - christmas

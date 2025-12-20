@@ -6,7 +6,7 @@ description: >-
   8비트 스타일의 끝less 점프 아케이드 게임 Crossy Road입니다. 닭을 비롯한
   다양한 캐릭터를 조종해 도로와 강, 철길을 안전하게 건너 보세요.
 iframeSrc: 'https://www.playfiddlebops.com/embed/crossyroad/index.html'
-thumbnail: /crossy-road.jpg
+thumbnail: /new-images/thumbnails/crossyroad.jpg
 tags:
   - crossy road
 score: 4.8/5  (1104 votes)

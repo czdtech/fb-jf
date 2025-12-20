@@ -3,7 +3,7 @@ locale: en
 title: "Kings and Queens"
 description: "Kings and Queens is a regal match‑3 adventure — clear obstacles, unlock boosters, and restore royal halls with clever planning."
 iframeSrc: "https://0ptbttt09g5cg.h5games.usercontent.goog/v/6c7l9okboa1u0/"
-thumbnail: "/new-images/kings-and-queens.png"
+thumbnail: /new-images/thumbnails/kings-and-queens.png
 urlstr: "kings-and-queens"
 score: "4.0/5  (1892 votes)"
 tags: ["puzzle", "casual", "thinky"]

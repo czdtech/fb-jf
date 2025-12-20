@@ -6,7 +6,7 @@ description: >-
   various rhythms and melodies. Whether you are a casual player or a music
   enthusiast, you can find your own fun in this remix version.
 iframeSrc: 'https://turbowarp.org/1126924449/embed'
-thumbnail: /dandyrunki-retake.png
+thumbnail: /new-images/thumbnails/dandyrunki-retake.png
 urlstr: dandyrunki-retake
 score: 3.7/5  (255 votes)
 tags:

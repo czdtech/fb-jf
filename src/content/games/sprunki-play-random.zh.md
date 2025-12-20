@@ -5,7 +5,7 @@ urlstr: "sprunki-play-random"
 title: "Sprunki Play Random - 在线玩 Sprunki Play Random"
 description: "Sprunki Play Random 是一款充满惊喜和乐趣的音乐创作游戏。如果你喜欢挑战和探索，那么 Sprunki Play Random 绝对适合你！"
 iframeSrc: "https://turbowarp.org/1148555262/embed"
-thumbnail: "/sprunki-play-random.png"
+thumbnail: /new-images/thumbnails/sprunki-play-random.png
 score: "4.5/5  (614 票)"
 tags: ["sprunki play random", "sprunki play random online"]
 ---

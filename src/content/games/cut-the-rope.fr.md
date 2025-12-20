@@ -4,7 +4,7 @@ urlstr: cut-the-rope
 title: Cut the Rope
 description: "Cut the Rope est un puzzle physique culte\_: coupe les cordes dans le bon ordre pour faire tomber le bonbon dans la bouche d’Om Nom."
 iframeSrc: 'https://6godz55q900to.h5games.usercontent.goog/v/0llluc2ekfil0/'
-thumbnail: /new-images/cut-the-rope.jpg
+thumbnail: /new-images/thumbnails/cut-the-rope.jpg
 tags:
   - puzzle
   - casual

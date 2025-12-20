@@ -4,7 +4,7 @@ urlstr: diamond-rush
 title: Diamond Rush
 description: "Diamond Rush est un match‑3 dynamique\_: aligne des gemmes, déclenche des combos et termine les objectifs avant la fin du temps ou des coups."
 iframeSrc: 'https://diamondrush.h5games.usercontent.goog/v/7dafab8ct86ag/'
-thumbnail: /new-images/diamond-rush.png
+thumbnail: /new-images/thumbnails/diamond-rush.png
 tags:
   - puzzle
   - casual

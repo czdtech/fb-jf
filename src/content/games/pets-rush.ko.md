@@ -7,7 +7,7 @@ description: >-
   만들어 지워 보세요.
 iframeSrc: >-
   https://petsrush2.h5games.usercontent.goog/v/e566fdbf-c420-4ec6-af2a-7e9a6edab856/
-thumbnail: /new-images/pets-rush.jpg
+thumbnail: /new-images/thumbnails/pets-rush.jpg
 tags:
   - puzzle
   - casual

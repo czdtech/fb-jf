@@ -6,7 +6,7 @@ description: >-
   잔혹하면서도 블랙 코미디 감성으로 유명한 물리 기반 플랫포머 Happy Wheels에 대한 상세 가이드입니다. 각 캐릭터별 특징과 생존
   전략, 조작법, 자주 묻는 질문을 정리해 유저 제작 데드트랩 스테이지를 버텨내는 법을 소개합니다.
 iframeSrc: 'https://games-online.io/game/HappyWheels/'
-thumbnail: /new-images/happy-wheels.jpg
+thumbnail: /new-images/thumbnails/happy-wheels.jpg
 tags:
   - platformer
   - physics

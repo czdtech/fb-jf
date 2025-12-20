@@ -3,7 +3,7 @@
 title: "Soccer Random"
 description: "Soccer Randomは物理ベースのサッカーゲームです。ワンボタンでジャンプ/キックし、先に5ゴール決めた方が勝ちになります。"
 iframeSrc: "https://app-197306.games.s3.yandex.net/197306/b1dbvmcde0oog4ebj00rinxr3e367fl4/index.html"
-thumbnail: "/new-images/soccer-random.jpg"
+thumbnail: /new-images/thumbnails/soccer-random.jpg
 urlstr: "soccer-random"
 score: "4.1/5  (594 votes)"
 tags: ["2-player", "physics", "sports"]

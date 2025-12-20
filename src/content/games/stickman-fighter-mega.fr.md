@@ -4,7 +4,7 @@ urlstr: stickman-fighter-mega
 title: Stickman Fighter Mega
 description: "Stickman Fighter Mega est un beat them all nerveux\_: place tes parades, enchaîne les combos et nettoie les vagues d’ennemis en gérant bien la distance et tes attaques spéciales."
 iframeSrc: 'https://0f2fr1ttejsng.h5games.usercontent.goog/v/6dfsqbbtglo48/'
-thumbnail: /new-images/stickman-fighter-mega.jpg
+thumbnail: /new-images/thumbnails/stickman-fighter-mega.jpg
 tags:
   - stickman
   - action

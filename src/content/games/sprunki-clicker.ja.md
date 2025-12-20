@@ -2,7 +2,7 @@
 title: "Sprunki Clicker - Play Sprunki Clicker Online"
 description: "Sprunki Clickerはクリックで進めるインクリメンタルゲームです。クリックとアップグレードで要素を増やし、進行を伸ばしていきます。"
 iframeSrc: "https://1games.io/game/sprunki-clicker/"
-thumbnail: "/sprunki-clicker.png"
+thumbnail: /new-images/thumbnails/sprunki-clicker.png
 urlstr: "sprunki-clicker"
 score: "4.7/5  (524 votes)"
 tags: ["sprunki clicker"]

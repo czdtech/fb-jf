@@ -6,7 +6,7 @@ description: >-
   Word Search est un classique du jeu de lettres : trouve les mots cachés dans
   une grille, à l'horizontale, verticale ou en diagonale.
 iframeSrc: 'https://cdn.gamesnacks.com/wordsearch1/gameCode/index.html'
-thumbnail: /new-images/word-search.jpg
+thumbnail: /new-images/thumbnails/word-search.jpg
 tags:
   - word
   - puzzle

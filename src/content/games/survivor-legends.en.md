@@ -3,7 +3,7 @@ locale: en
 title: "Survivor Legends"
 description: "Survivor Legends is a horde‑survivor — kite circles, draft synergies, and mow waves with cooldown economy and positioning."
 iframeSrc: "https://244mb60l209a8.h5games.usercontent.goog/v/1koih6fev3le8/"
-thumbnail: "/new-images/survivor-legends.png"
+thumbnail: /new-images/thumbnails/survivor-legends.png
 urlstr: "survivor-legends"
 score: "4.1/5  (2019 votes)"
 tags: ["action", "shooting"]

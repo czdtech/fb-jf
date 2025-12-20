@@ -7,7 +7,7 @@ description: >-
   coloca primero los bordes, agrupa colores y texturas y completa ilustraciones
   pieza a pieza.
 iframeSrc: 'https://2avtkm5bj06f0.h5games.usercontent.goog/v/66fijarm4ldv0/'
-thumbnail: /new-images/the-jigsaw-game.png
+thumbnail: /new-images/thumbnails/the-jigsaw-game.png
 tags:
   - puzzle
   - thinky

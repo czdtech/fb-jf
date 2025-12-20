@@ -3,7 +3,7 @@ locale: en
 title: "Coloring Match"
 description: "Coloring Match teaches color mixing — blend paints to match targets, manage hue/saturation, and refine with small tweaks."
 iframeSrc: "https://21t5l4ct88d8g.h5games.usercontent.goog/v/6kels35kspngg/"
-thumbnail: "/new-images/coloring-match.jpg"
+thumbnail: /new-images/thumbnails/coloring-match.jpg
 urlstr: "coloring-match"
 score: "4.1/5  (1968 votes)"
 tags: ["puzzle", "casual", "thinky"]

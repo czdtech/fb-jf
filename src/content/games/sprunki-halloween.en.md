@@ -6,7 +6,7 @@ description: >-
   the atmosphere of Halloween. Come and join Sprunki Halloween, and use
   thrilling and interesting notes to welcome the arrival of Halloween!
 iframeSrc: 'https://turbowarp.org/1087683438/embed'
-thumbnail: /sprunki-halloween.png
+thumbnail: /new-images/thumbnails/sprunki-halloween.png
 urlstr: sprunki-halloween
 modType: sprunki
 score: 4.2/5  (142 votes)

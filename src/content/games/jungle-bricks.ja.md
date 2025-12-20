@@ -2,7 +2,7 @@
 title: "Jungle Bricks"
 description: "番号付きブロックを狙って撃つブロック崩し系パズルです。ブロックが下に到達する前に耐久値を削り切ります。"
 iframeSrc: "https://0gt5ae21ln70o.h5games.usercontent.goog/v/0762mjie8e8s0/"
-thumbnail: "/new-images/jungle-bricks.png"
+thumbnail: /new-images/thumbnails/jungle-bricks.png
 urlstr: "jungle-bricks"
 score: "4.0/5  (988 votes)"
 tags: ["puzzle", "shooting", "casual"]

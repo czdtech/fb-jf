@@ -4,7 +4,7 @@ locale: en
 title: "Getaway Shootout"
 description: "Chaotic physics race‑and‑shoot: hop your way to the getaway point, grab goofy weapons, and outsmart rivals in 2‑player or solo." 
 iframeSrc: "https://ubg44.github.io/GetawayShootout/"
-thumbnail: "/new-images/getaway-shootout.jpg"
+thumbnail: /new-images/thumbnails/getaway-shootout.jpg
 urlstr: "getaway-shootout"
 score: "4.4/5  (670 votes)"
 tags: ["action", "multiplayer"]

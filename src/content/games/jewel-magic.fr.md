@@ -6,7 +6,7 @@ description: >-
   Jewel Magic est un match‑3 classique rempli de gemmes colorées, de niveaux
   variés et de bonus explosifs pour nettoyer le plateau.
 iframeSrc: 'https://jewelmagic.h5games.usercontent.goog/v/7evbkdu9e500g/'
-thumbnail: /new-images/jewel-magic.png
+thumbnail: /new-images/thumbnails/jewel-magic.png
 tags:
   - puzzle
   - casual

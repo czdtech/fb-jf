@@ -4,7 +4,7 @@ locale: en
 title: "Flappy Bird"
 description: "Tap‑to‑flap endless runner: guide the bird through pipe gaps to increase your score without touching obstacles."
 iframeSrc: "https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/TAhlQLDa/index.html"
-thumbnail: "/new-images/flappy-bird.jpg"
+thumbnail: /new-images/thumbnails/flappy-bird.jpg
 urlstr: "flappy-bird"
 score: "3.6/5  (297 votes)"
 tags: ["arcade", "endless-runner"]

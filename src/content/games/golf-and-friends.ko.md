@@ -6,7 +6,7 @@ description: >-
   Golf and Friends는 친구들과 함께 즐기는 캐주얼 미니 골프 게임으로, 경사와 벙커, 뱅크 샷을 읽어가며 여유롭게 라운드를 도는
   재미를 제공합니다.
 iframeSrc: 'https://1uerepsm8tbpg.h5games.usercontent.goog/v/3st9sicdd4eu0/'
-thumbnail: /new-images/golf-and-friends.jpg
+thumbnail: /new-images/thumbnails/golf-and-friends.jpg
 tags:
   - sports
   - 2 player

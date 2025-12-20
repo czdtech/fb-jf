@@ -2,7 +2,7 @@
 title: Pixel Shooter
 description: Pixel Shooterはレトロ風のアクションシューターです。敵の波をしのぎ、武器を強化しながら生き残りを目指します。
 iframeSrc: 'https://pixelshooter.h5games.usercontent.goog/v/2j9k5m8h7p3n8/'
-thumbnail: /new-images/pixel-shooter.png
+thumbnail: /new-images/thumbnails/pixel-shooter.jpg
 urlstr: pixel-shooter
 score: 4.1/5  (1867 votes)
 tags:

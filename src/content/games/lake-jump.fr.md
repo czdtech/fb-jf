@@ -6,7 +6,7 @@ description: >-
   Lake Jump est un jeu de timing à un seul tap : saute de plateforme en
   plateforme au-dessus du lac, évite la chute et enchaîne les sauts parfaits.
 iframeSrc: 'https://lakejump.h5games.usercontent.goog/v/33bg3iluek1fg/'
-thumbnail: /new-images/lake-jump.png
+thumbnail: /new-images/thumbnails/lake-jump.png
 tags:
   - action
   - casual

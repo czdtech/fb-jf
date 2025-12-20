@@ -4,7 +4,7 @@ urlstr: jewel-magic
 title: 《Jewel Magic》魔法宝石三消
 description: 在《Jewel Magic》中释放宝石魔法，这是一款经典三消解谜游戏：交换璀璨宝石、制造强力连锁，用精妙布局通关一个又一个高难关卡。
 iframeSrc: 'https://jewelmagic.h5games.usercontent.goog/v/55vd8l21hn1q8/'
-thumbnail: /new-images/jewel-magic.png
+thumbnail: /new-images/thumbnails/jewel-magic.png
 tags:
   - puzzle
   - casual

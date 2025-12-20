@@ -3,7 +3,7 @@ locale: en
 title: "Mergest Kingdom"
 description: "Mergest Kingdom is a merge‑and‑build fantasy — combine tiles, complete quests, and expand realms with efficient chain planning."
 iframeSrc: "https://620tnu7381eao.h5games.usercontent.goog/v/27p309rk86cr8/"
-thumbnail: "/new-images/mergest-kingdom.png"
+thumbnail: /new-images/thumbnails/mergest-kingdom.png
 urlstr: "mergest-kingdom"
 score: "4.2/5  (2079 votes)"
 tags: ["puzzle", "adventure", "thinky"]

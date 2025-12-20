@@ -6,7 +6,7 @@ description: >-
   Clásico juego de adivinar palabras: descubre la palabra secreta proponiendo
   letras y evita cometer demasiados fallos antes de que se complete el muñeco.
 iframeSrc: 'https://hangman-frontend.coolmathgames.com/home'
-thumbnail: /new-images/hangman.jpg
+thumbnail: /new-images/thumbnails/hangman.jpg
 tags:
   - word
   - puzzle

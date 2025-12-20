@@ -7,7 +7,7 @@ description: >-
   déjantée, gameplay pour créer des morceaux malicieux et conseils pour
   débloquer ses bonus animés.
 iframeSrc: 'https://turbowarp.org/1027156305/embed'
-thumbnail: /new-images/incredibox-hijinks.png
+thumbnail: /new-images/thumbnails/incredibox-hijinks.png
 tags:
   - music
   - rhythm

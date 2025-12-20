@@ -7,7 +7,7 @@ description: >-
   타이밍 맞춰 내려 황금과 보물을 낚아 올리고, 값싼 바위는 피하면서 라운드마다
   요구되는 금액을 채워 보세요.
 iframeSrc: 'https://5djvqvgrgqc0o.h5games.usercontent.goog/v/58gqt26rjid7o/'
-thumbnail: /new-images/captain-gold.png
+thumbnail: /new-images/thumbnails/captain-gold.png
 tags:
   - casual
   - thinky

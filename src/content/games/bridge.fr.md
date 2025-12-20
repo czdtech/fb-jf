@@ -4,7 +4,7 @@ urlstr: bridge
 title: Bridge
 description: "Le bridge est un jeu de plis à 4 joueurs en équipes de deux\_: annonce un contrat, choisis l'atout et joue tes cartes avec ton partenaire pour réaliser le nombre de levées promis."
 iframeSrc: 'https://2ipri8asu56io.h5games.usercontent.goog/v/0gn3i94fda0h0/'
-thumbnail: /new-images/bridge.png
+thumbnail: /new-images/thumbnails/bridge.png
 tags:
   - card
   - puzzle

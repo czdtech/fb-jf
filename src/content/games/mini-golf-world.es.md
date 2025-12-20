@@ -7,7 +7,7 @@ description: >-
   bandas y domina la fuerza del golpe para superar hoyos creativos en mundos
   temáticos.
 iframeSrc: 'https://32tnqh6bck80g.h5games.usercontent.goog/v/3auurdk9r953g/'
-thumbnail: /new-images/mini-golf-world.png
+thumbnail: /new-images/thumbnails/mini-golf-world.png
 tags:
   - sports
   - puzzle

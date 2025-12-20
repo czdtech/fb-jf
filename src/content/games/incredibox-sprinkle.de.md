@@ -7,7 +7,7 @@ description: >-
   Gelegenheitsspieler oder Musikbastler – hier kannst du frei mit Sounds
   experimentieren.
 iframeSrc: 'https://g.sprinkleincredibox.com/web-game/SprinkleIncredibox/index.html'
-thumbnail: /incredibox-sprinkle.png
+thumbnail: /new-images/thumbnails/incredibox-sprinkle.png
 tags:
   - incredibox sprinkle
 score: 3.8/5  (387 votes)

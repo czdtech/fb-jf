@@ -3,7 +3,7 @@ locale: en
 title: "Mega Prize Scratch"
 description: "Mega Prize Scratch is a casual scratch‑card — reveal panels, match symbols, and set session limits to keep it fun."
 iframeSrc: "https://3a38lqtqled1o.h5games.usercontent.goog/v/37llbljplv5v0/"
-thumbnail: "/new-images/mega-prize-scratch.png"
+thumbnail: /new-images/thumbnails/mega-prize-scratch.png
 urlstr: "mega-prize-scratch"
 score: "3.6/5  (1538 votes)"
 tags: ["casual"]

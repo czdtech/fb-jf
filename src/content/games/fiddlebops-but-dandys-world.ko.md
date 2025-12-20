@@ -6,7 +6,7 @@ description: >-
   Fiddlebops의 음악 제작을 Dandy''s World 세계관과 섞은 리믹스 버전입니다.
   드래그 앤 드롭으로 사운드 아이콘을 올려 독특한 음악과 이야기를 만들어 보세요.
 iframeSrc: 'https://turbowarp.org/1114551059/embed'
-thumbnail: /fiddlebops-but-dandys-world.png
+thumbnail: /new-images/thumbnails/fiddlebops-but-dandys-world.png
 tags:
   - fiddlebops but dandy
 score: 4.6/5  (27 votes)

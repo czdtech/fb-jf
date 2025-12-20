@@ -4,7 +4,7 @@ urlstr: ultimate-knife-smash
 title: 《Ultimate Knife Smash》终极飞刀挑战
 description: 《Ultimate Knife Smash》是一款节奏明快的飞刀投掷游戏。瞄准旋转靶心，将手中的飞刀一把把扎上去，避免击中已有刀刃或障碍。
 iframeSrc: 'https://ultimateknifesmash.h5games.usercontent.goog/v/2k7d3n9c1b5p0/'
-thumbnail: /new-images/ultimate-knife-smash.jpg
+thumbnail: /new-images/thumbnails/ultimate-knife-smash.png
 tags:
   - arcade
   - reflex

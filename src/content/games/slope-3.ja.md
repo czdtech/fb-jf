@@ -2,7 +2,7 @@
 title: Slope 3
 description: Slope 3はエンドレスの3Dランナーです。ボールを転がして障害物を避け、できるだけ長く進みます。
 iframeSrc: 'https://slope3.h5games.usercontent.goog/v/5k9j2m8h7p3n8/'
-thumbnail: /new-images/slope-3.png
+thumbnail: /new-images/thumbnails/slope-3.jpg
 urlstr: slope-3
 score: 4.4/5  (3456 votes)
 tags:

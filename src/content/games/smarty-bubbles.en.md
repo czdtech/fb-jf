@@ -3,7 +3,7 @@ locale: en
 title: "Smarty Bubbles"
 description: "A classic and colorful bubble shooter experience. Aim your cannon, match three or more bubbles of the same color to pop them, and clear the board before the bubbles reach the bottom!"
 iframeSrc: "https://smartybubbles.h5games.usercontent.goog/v/09fhbor6rfpv0/"
-thumbnail: "/new-images/smarty-bubbles.png"
+thumbnail: /new-images/thumbnails/smarty-bubbles.png
 urlstr: "smarty-bubbles"
 score: "4.3/5  (2200 votes)"
 tags: ["shooting", "puzzle", "casual"]

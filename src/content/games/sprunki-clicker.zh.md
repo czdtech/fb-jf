@@ -5,7 +5,7 @@ urlstr: "sprunki-clicker"
 title: "Sprunki Clicker - 在线 Sprunki Clicker 游戏"
 description: "踏上一段迷人的音乐冒险之旅，每一次点击都为你亲手谱写的交响乐注入新的生命。Sprunki Clicker 不仅仅是一款游戏——它是一场通往充满节奏与魔法世界的旅程。"
 iframeSrc: "https://1games.io/game/sprunki-clicker/"
-thumbnail: "/sprunki-clicker.png"
+thumbnail: /new-images/thumbnails/sprunki-clicker.png
 score: "4.7/5  (524 votes)"
 tags: ["sprunki clicker"]
 ---

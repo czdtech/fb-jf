@@ -8,7 +8,7 @@ description: >-
   segundos. Corre, salta y memoriza el recorrido antes de que el tiempo se
   agote.
 iframeSrc: 'https://www.playfiddlebops.com/embed/60s-burger-run/index.html'
-thumbnail: /60s-burger-run.jpg
+thumbnail: /new-images/thumbnails/60s-burger-run.jpg
 tags:
   - 60 seconds burger run
 score: 4.6/5  (1344 votes)

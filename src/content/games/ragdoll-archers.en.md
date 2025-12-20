@@ -4,7 +4,7 @@ locale: en
 title: "Ragdoll Archers"
 description: "Ragdoll Archers is a physics-based archery game where players control wobbly ragdoll archers to shoot arrows at opponents, with realistic physics making each shot challenging and entertaining."
 iframeSrc: "https://bitlifeonline.github.io/ragdoll-archers/"
-thumbnail: "/new-images/ragdoll-archers.jpg"
+thumbnail: /new-images/thumbnails/ragdoll-archers.jpg
 urlstr: "ragdoll-archers"
 score: "4.4/5  (466 votes)"
 tags: ["physics", "archery", "action"]

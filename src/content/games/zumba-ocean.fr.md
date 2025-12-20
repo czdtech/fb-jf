@@ -7,7 +7,7 @@ description: >-
   pour former des trios et arrêter la chaîne avant qu'elle n'atteigne la
   coquille.
 iframeSrc: 'https://zumbaocean.h5games.usercontent.goog/v/1gb65icesunig/'
-thumbnail: /new-images/zumba-ocean.png
+thumbnail: /new-images/thumbnails/zumba-ocean.png
 tags:
   - shooting
   - puzzle

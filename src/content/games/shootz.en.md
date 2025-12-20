@@ -4,7 +4,7 @@ locale: en
 title: "ShootZ"
 description: "ShootZ is an action-packed shooting game where players battle against zombies and other creatures, using a variety of weapons to survive increasingly challenging waves of enemies in fast-paced combat."
 iframeSrc: "https://g.igroutka.ru/games/17/9IsudOxakgP0EVKC/shootz/"
-thumbnail: "/new-images/shootz.jpg"
+thumbnail: /new-images/thumbnails/shootz.jpg
 urlstr: "shootz"
 score: "3.7/5  (1015 votes)"
 tags: ["shooting", "action", "zombies"]

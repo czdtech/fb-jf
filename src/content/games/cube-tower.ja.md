@@ -2,7 +2,7 @@
 title: "Cube Tower キューブ・タワー"
 description: "「Cube Tower」は迫りくる敵から中央のタワーを守る防衛ゲーム。戦略的に砲台を配置し、アップグレードしてウェーブを生き残れ。"
 iframeSrc: "https://cubetower.h5games.usercontent.goog/v/6k8tnoea28210/"
-thumbnail: "/new-images/cube-tower.png"
+thumbnail: /new-images/thumbnails/cube-tower.png
 urlstr: "cube-tower"
 score: "4.4/5 (1987 votes)"
 tags: ["tower Defense", "action", "thinky"]

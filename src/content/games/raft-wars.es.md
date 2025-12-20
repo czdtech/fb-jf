@@ -7,7 +7,7 @@ description: >-
   pequeños a defender su tesoro de piratas y vikingos usando pelotas de tenis y
   otros proyectiles en batallas navales.
 iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210301/jj8/index.html"
-thumbnail: "/new-images/raft-wars.jpg"
+thumbnail: /new-images/thumbnails/raft-wars.jpg
 tags:
   - strategy
   - shooting

@@ -7,7 +7,7 @@ description: >-
   있는 캐주얼 블랙잭 게임입니다. 손실을 무리하게 만회하려 하지 말고, 가볍게 21 포인트
   게임의 분위기를 즐기는 데 초점을 맞추세요.
 iframeSrc: 'https://35ntqr0siokq8.h5games.usercontent.goog/v/1hhotshtjugn8/'
-thumbnail: /new-images/lucky-vegas-blackjack.png
+thumbnail: /new-images/thumbnails/lucky-vegas-blackjack.png
 tags:
   - card
   - casual

@@ -2,7 +2,7 @@
 title: Doodle Cricket ドゥードゥル・クリケット
 description: 「Doodle Cricket」手軽に遊べるクリケットのミニゲーム。タイミングよくスイングしてランを稼ぎ、アウトを避けながらハイスコアを目指そう。
 iframeSrc: 'https://f3.silvergames.com/m/doodle-cricket/'
-thumbnail: /new-images/doodle-cricket.jpg
+thumbnail: /new-images/thumbnails/doodle-cricket.jpg
 urlstr: doodle-cricket
 score: 4.2/5  (485 votes)
 tags:

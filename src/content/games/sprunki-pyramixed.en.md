@@ -6,7 +6,7 @@ description: >-
   shackles of traditional music games and perfectly combines rhythm with
   personalized character design.
 iframeSrc: 'https://turbowarp.org/1144118565/embed'
-thumbnail: /sprunki-pyramixed-0.9.png
+thumbnail: /new-images/thumbnails/sprunki-pyramixed.png
 urlstr: sprunki-pyramixed
 modType: sprunki
 score: 4.7/5  (455 votes)

@@ -7,7 +7,7 @@ description: >-
   niedliche Pandabilder mit möglichst wenigen Zügen wieder richtig
   zusammenzusetzen.
 iframeSrc: 'https://0vc1kolll32h8.h5games.usercontent.goog/v/0t898ulinrkag/'
-thumbnail: /new-images/haru-pandas-slide.png
+thumbnail: /new-images/thumbnails/haru-pandas-slide.png
 tags:
   - puzzle
   - thinky

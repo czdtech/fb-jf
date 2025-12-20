@@ -4,7 +4,7 @@ urlstr: incredibox-downtown-simulator
 title: "Incredibox Downtown Simulator - 在线玩 Incredibox Downtown Simulator"
 description: "一款全新的 Incredibox Mod 等你探索。更多详情即将推出。"
 iframeSrc: 'https://turbowarp.org/949700724/embed'
-thumbnail: /new-images/incredibox-downtown-simulator.png
+thumbnail: /new-images/thumbnails/incredibox-downtown-simulator.png
 tags:
   - music
   - simulator

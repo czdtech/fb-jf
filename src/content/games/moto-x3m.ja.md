@@ -2,7 +2,7 @@
 title: Moto X3M
 description: Moto X3Mはバイクの障害物コースを走るレースゲームです。スタントでタイム短縮を狙い、クラッシュせずにゴールします。
 iframeSrc: 'https://motox3m.h5games.usercontent.goog/v/3c65jjpbnq1q0/'
-thumbnail: /new-images/moto-x3m.png
+thumbnail: /new-images/thumbnails/moto-x3m.jpg
 urlstr: moto-x3m
 score: 4.6/5  (4567 votes)
 tags:

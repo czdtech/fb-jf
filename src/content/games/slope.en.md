@@ -6,7 +6,7 @@ description: >-
   rolling down a steep slope, avoiding red obstacles and trying to survive as
   long as possible in this addictive and challenging experience.
 iframeSrc: 'https://webglmath.github.io/slope/'
-thumbnail: /new-images/slope.jpg
+thumbnail: /new-images/thumbnails/slope.jpg
 urlstr: slope
 score: 4.0/5  (1197 votes)
 tags:

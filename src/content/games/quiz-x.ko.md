@@ -7,7 +7,7 @@ description: >-
   게임입니다. 시간을 아끼고 오답을 제거하며 연속 정답 스트릭에
   도전해 보세요.
 iframeSrc: 'https://5348abrdhudu8.h5games.usercontent.goog/v/35ge2no4verb8/'
-thumbnail: /new-images/quiz-x.png
+thumbnail: /new-images/thumbnails/quiz-x.png
 tags:
   - puzzle
   - thinky

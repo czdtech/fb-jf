@@ -6,7 +6,7 @@ description: >-
   the rhythmic creative fun of the Sprunki platform, letting you unleash endless
   creativity while you play.
 iframeSrc: 'https://turbowarp.org/1096623350/embed'
-thumbnail: /mundo-torajo-sprunki.png
+thumbnail: /new-images/thumbnails/mundo-torajo-sprunki.png
 urlstr: mundo-torajo-sprunki
 modType: sprunki
 score: 4.0/5  (112 votes)

@@ -4,7 +4,7 @@ urlstr: speed-master
 title: 《Speed Master》极速赛车大师
 description: 《Speed Master》是一款节奏快速的赛车游戏。驾驶你的赛车在赛道上飞驰，精准过弯、躲避交通、争取在最短时间内冲线，成为真正的速度大师。
 iframeSrc: 'https://speedmaster.h5games.usercontent.goog/v/7i23v2g48t7s0/'
-thumbnail: /new-images/speed-master.png
+thumbnail: /new-images/thumbnails/speed-master.png
 tags:
   - racing
   - driving

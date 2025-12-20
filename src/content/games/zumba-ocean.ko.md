@@ -6,7 +6,7 @@ description: >-
   바닷속을 배경으로 한 구슬 슈터 퍼즐 게임입니다. 움직이는 진주 체인에 알맞은 색의 구슬을 쏘아 세 개 이상 매치시키고, 체인이 조가비에
   도달하기 전에 모두 없애야 합니다.
 iframeSrc: 'https://zumbaocean.h5games.usercontent.goog/v/1gb65icesunig/'
-thumbnail: /new-images/zumba-ocean.png
+thumbnail: /new-images/thumbnails/zumba-ocean.png
 tags:
   - shooting
   - puzzle

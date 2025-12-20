@@ -6,7 +6,7 @@ description: >-
   네 명이 둘씩 짝을 이뤄 즐기는 정통 카드 게임 Bridge입니다. 입찰과 패 운영을 통해 파트너와 호흡을 맞추고, 계약을 완수해 상대 팀을
   제치는 두뇌 승부를 경험해 보세요.
 iframeSrc: 'https://2ipri8asu56io.h5games.usercontent.goog/v/0gn3i94fda0h0/'
-thumbnail: /new-images/bridge.png
+thumbnail: /new-images/thumbnails/bridge.png
 tags:
   - card
   - puzzle

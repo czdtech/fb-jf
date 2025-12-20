@@ -7,7 +7,7 @@ description: >-
   con amplitud y elige la mejor respuesta posible antes de que se acabe el
   tiempo.
 iframeSrc: "https://5348abrdhudu8.h5games.usercontent.goog/v/35ge2no4verb8/"
-thumbnail: "/new-images/quiz-x.png"
+thumbnail: /new-images/thumbnails/quiz-x.png
 tags:
   - puzzle
   - thinky

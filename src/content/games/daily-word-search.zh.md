@@ -6,7 +6,7 @@ description: >-
   《Daily Word Search 每日找单词》是一款轻松的英文单词搜寻游戏。每天一张新字母表，在
   横向、纵向乃至对角线上寻找隐藏的单词，既可以计时挑战，也可以纯放松游玩。
 iframeSrc: 'https://1i20ele8n07u0.h5games.usercontent.goog/v/1n8osodo9gs80/'
-thumbnail: /new-images/daily-word-search.png
+thumbnail: /new-images/thumbnails/daily-word-search.png
 tags:
   - puzzle
   - thinky

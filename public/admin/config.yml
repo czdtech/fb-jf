@@ -14,9 +14,10 @@ backend:
   base_url: https://wispy-queen-45cf.chongzhidatech.workers.dev
   auth_endpoint: auth
 
-# 媒体文件存储位置
-media_folder: "public/new-images"
-public_folder: "/new-images"
+# 媒体文件存储位置（强约束：所有缩略图统一进入 /new-images/thumbnails）
+# 注意：Decap 不会自动把图片“重命名为 urlstr”，因此上传时请手动把文件名改成 urlstr（例如 sprunki-phase-8.png）。
+media_folder: "public/new-images/thumbnails"
+public_folder: "/new-images/thumbnails"
 
 # 本地开发时使用（需要运行：npx decap-server）
 # local_backend: true
@@ -38,7 +39,11 @@ collections:
       - { label: "标题", name: "title", widget: "string", required: true }
       - { label: "描述", name: "description", widget: "text", required: true }
       - { label: "游戏链接", name: "iframeSrc", widget: "string", required: true }
-      - { label: "缩略图", name: "thumbnail", widget: "image", required: true }
+      - label: "缩略图"
+        name: "thumbnail"
+        widget: "image"
+        required: true
+        hint: "强约束：必须上传到 /new-images/thumbnails，且图片文件名必须等于 urlstr（例如 urlstr=sprunki-phase-8，则文件名为 sprunki-phase-8.png/jpg/webp）"
       - label: "URL 路径（唯一）"
         name: "urlstr"
         widget: "string"

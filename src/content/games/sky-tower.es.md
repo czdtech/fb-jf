@@ -7,7 +7,7 @@ description: >-
   las plataformas, minimiza los salientes y construye la torre más alta y
   estable posible.
 iframeSrc: "https://11bhsd7s4hdbg.h5games.usercontent.goog/v/7a58l0501ebp8/"
-thumbnail: "/new-images/sky-tower.png"
+thumbnail: /new-images/thumbnails/sky-tower.png
 tags:
   - puzzle
   - thinky

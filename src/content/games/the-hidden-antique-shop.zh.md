@@ -6,7 +6,7 @@ description: >-
   《The Hidden Antique
   Shop》是一款隐藏物品解谜游戏。走进充满古董与小摆件的老店，在繁杂场景中按照提示寻找指定物品，体验细节观察与放松解谜的乐趣。
 iframeSrc: 'https://thehiddenantiqueshop.h5games.usercontent.goog/v/4l9n2c1b7k5p0/'
-thumbnail: /new-images/the-hidden-antique-shop.jpg
+thumbnail: /new-images/thumbnails/the-hidden-antique-shop.png
 tags:
   - hidden-object
   - puzzle

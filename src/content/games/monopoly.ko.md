@@ -6,7 +6,7 @@ description: >-
   Monopoly는 주사위를 굴려 말판을 돌며 부동산을 사고팔고, 상대를 파산시켜 최후의
   승자가 되는 것을 목표로 하는 클래식 부동산 보드게임입니다.
 iframeSrc: 'https://w8.snokido.com/games/html5/monopoly/index.html'
-thumbnail: /new-images/monopoly.jpg
+thumbnail: /new-images/thumbnails/monopoly.jpg
 tags:
   - board game
   - strategy

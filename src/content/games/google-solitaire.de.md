@@ -7,7 +7,7 @@ description: >-
   bis König auf, während du in den Tableau-Spalten absteigend in wechselnden
   Farben sortierst.
 iframeSrc: 'https://www.google.com/logos/fnbx/solitaire/standalone.html'
-thumbnail: /new-images/google-solitaire.jpg
+thumbnail: /new-images/thumbnails/google-solitaire.jpg
 tags:
   - solitaire
   - card

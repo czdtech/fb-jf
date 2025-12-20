@@ -7,7 +7,7 @@ description: >-
   verkaufe Straßen mit dem Ziel, deine Mitspieler in den Bankrott zu treiben
   und als reichste Person zu gewinnen.
 iframeSrc: 'https://w8.snokido.com/games/html5/monopoly/index.html'
-thumbnail: /new-images/monopoly.jpg
+thumbnail: /new-images/thumbnails/monopoly.jpg
 tags:
   - board game
   - strategy

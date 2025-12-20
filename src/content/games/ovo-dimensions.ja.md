@@ -2,7 +2,7 @@
 title: Ovo Dimensions
 description: Ovo Dimensionsは次元切り替え要素のあるプラットフォーマーです。次元を切り替えて障害物を越え、パズルを解きながら進みます。
 iframeSrc: 'https://ovodimensions.h5games.usercontent.goog/v/4j9k5m8h7p3n8/'
-thumbnail: /new-images/ovo-dimensions.png
+thumbnail: /new-images/thumbnails/ovo-dimensions.jpg
 urlstr: ovo-dimensions
 score: 4.3/5  (2167 votes)
 tags:

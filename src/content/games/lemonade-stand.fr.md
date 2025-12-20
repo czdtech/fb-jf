@@ -4,7 +4,7 @@ urlstr: lemonade-stand
 title: "Lemonade Stand"
 description: "Simu business classique : fixe prix, recette et pub, achète gobelets/citrons/glace et gère ton bénéfice quotidien en fonction de la météo."
 iframeSrc: "https://ad-freegames.github.io/flash/game/lemonade-stand.html"
-thumbnail: /new-images/lemonade-stand.jpg
+thumbnail: /new-images/thumbnails/lemonade-stand.jpg
 tags:
   - simulation
   - tycoon

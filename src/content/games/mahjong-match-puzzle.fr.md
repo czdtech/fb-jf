@@ -4,7 +4,7 @@ urlstr: "mahjong-match-puzzle"
 title: "Mahjong Match Puzzle"
 description: "Mahjong Match Puzzle mélange les règles du solitaire et du connect : associe des tuiles libres, gère les couches et nettoie les plateaux de façon efficace."
 iframeSrc: "https://5jdtfmidv5ao0.h5games.usercontent.goog/v/1qd7nn7jmar7g/"
-thumbnail: "/new-images/mahjong-match-puzzle.png"
+thumbnail: /new-images/thumbnails/mahjong-match-puzzle.png
 tags: ["mahjong", "puzzle"]
 score: "4.1/5  (1981 votes)"
 developer: ""

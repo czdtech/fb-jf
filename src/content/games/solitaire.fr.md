@@ -7,7 +7,7 @@ description: >-
   séquences et couleurs spécifiques pour les envoyer sur les piles de
   fondation et vider le tableau dans ce puzzle intemporel.
 iframeSrc: 'https://www.edogan.us/solitaire-js/'
-thumbnail: /new-images/solitaire.jpg
+thumbnail: /new-images/thumbnails/solitaire.jpg
 tags:
   - card game
   - classic

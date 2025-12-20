@@ -7,7 +7,7 @@ description: >-
   Fülle deine Auslage, erfülle Bestellungen und baue die süßeste Bäckerei in
   diesem entspannten Merge-Puzzlespiel.
 iframeSrc: 'https://mergecakes.h5games.usercontent.goog/v/516lkgikje8fo/'
-thumbnail: /new-images/merge-cakes.jpg
+thumbnail: /new-images/thumbnails/merge-cakes.jpg
 tags:
   - puzzle
   - casual

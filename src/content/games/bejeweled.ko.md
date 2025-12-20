@@ -7,7 +7,7 @@ description: >-
   게임으로, 단순하지만 중독성 강한 "매치 3" 게임 플레이로 캐주얼 게임 장르를
   대표하는 작품이 되었습니다.
 iframeSrc: 'https://files.acticdn.com/278374/30464/index.html'
-thumbnail: /bejeweled.png
+thumbnail: /new-images/thumbnails/bejeweled.png
 tags:
   - bejeweled
 score: 4.8/5  (654 votes)

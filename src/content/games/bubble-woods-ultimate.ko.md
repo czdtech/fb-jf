@@ -6,7 +6,7 @@ description: >-
   Bubble Woods Ultimate는 60초 안에 최대한 많은 버블을 터뜨려 점수를 노리는 스피드형 버블 슈터입니다. 콤보를 이어
   파이어볼을 만들고, 각종 부스터를 활용해 짧은 시간 안에 기록을 갱신해 보세요.
 iframeSrc: 'https://bubblewoods4.h5games.usercontent.goog/v/4jslovpheann0/'
-thumbnail: /new-images/bubble-woods-ultimate.png
+thumbnail: /new-images/thumbnails/bubble-woods-ultimate.png
 tags:
   - shooting
   - action

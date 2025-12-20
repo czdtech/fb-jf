@@ -2,7 +2,7 @@
 title: "Incredibox Kochari"
 description: "Incredibox Kochariは、クラシックなIncrediboxゲームプレイをアルメニアの民族ダンスKochariの鮮やかな文化と融合させたファン作成モッドです。伝統的なリズムとサウンドでユニークなビートを作成しましょう。"
 iframeSrc: "https://turbowarp.org/718091148/embed"
-thumbnail: "/new-images/incredibox-kochari.png"
+thumbnail: /new-images/thumbnails/incredibox-kochari.png
 urlstr: "incredibox-kochari"
 score: "4.7/5 (2198 votes)"
 tags: ["music", "cultural"]

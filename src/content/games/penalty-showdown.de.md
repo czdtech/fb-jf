@@ -7,7 +7,7 @@ description: >-
   variiere die Schusshöhe und lese als Schütze oder Keeper dein Gegenüber, um
   das Duell vom Punkt zu gewinnen.
 iframeSrc: 'https://58r8ibinmpjeg.h5games.usercontent.goog/v/2m3pjv3her9fg/'
-thumbnail: /new-images/penalty-showdown.jpg
+thumbnail: /new-images/thumbnails/penalty-showdown.jpg
 tags:
   - sports
   - soccer

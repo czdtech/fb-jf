@@ -4,7 +4,7 @@ locale: en
 title: "Who Is? Game"
 description: "Test your detective skills and challenge your brain in Who Is? Game! Solve tricky riddles, identify imposters, and find hidden clues in over a hundred unique scenarios. This mind-bending puzzle game requires out-of-the-box thinking and keen observation to uncover the truth."
 iframeSrc: "https://rebemanae.github.io/who-is/"
-thumbnail: "/new-images/who-is.jpg"
+thumbnail: /new-images/thumbnails/who-is.jpg
 urlstr: "who-is"
 score: "4.1/5  (907 votes)"
 tags: ["puzzle", "riddle", "brain-teaser"]

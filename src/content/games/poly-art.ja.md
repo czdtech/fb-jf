@@ -2,7 +2,7 @@
 title: Poly Art
 description: Poly Artは3Dパズルゲームです。角度を回転させ、隠れた画像を見つけ、ポリゴンアートをマスターし、視覚的なパズルを解決します。
 iframeSrc: 'https://polyart.h5games.usercontent.goog/v/2j9k5m8h7p3n8/'
-thumbnail: /new-images/poly-art.png
+thumbnail: /new-images/thumbnails/poly-art.png
 urlstr: poly-art
 score: 4.3/5  (2345 votes)
 tags:

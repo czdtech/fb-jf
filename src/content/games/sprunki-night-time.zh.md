@@ -5,7 +5,7 @@ urlstr: "sprunki-night-time"
 title: "Sprunki Night Time - 在线玩 Sprunki Night Time"
 description: "Sprunki Night Time 带你进入一个充满神秘和未知的黑暗世界，让你在夜晚的寂静中体验一场迷幻的音乐之旅。快来加入 Sprunki Night Time，用你的音乐点亮这深邃而神秘的夜晚！"
 iframeSrc: "https://turbowarp.org/1100659044/embed"
-thumbnail: "/sprunki-night-time.png"
+thumbnail: /new-images/thumbnails/sprunki-night-time.png
 score: "4.2/5  (324 票)"
 tags: ["sprunki night time", "sprunki night time online"]
 ---

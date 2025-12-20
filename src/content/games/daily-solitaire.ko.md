@@ -6,7 +6,7 @@ description: >-
   매일 새로운 클론다이크 솔리테어 문제를 제공하는 Daily Solitaire입니다. A에서 K까지 카드를 정렬하며 카드 실력을 꾸준히 시험해
   보세요.
 iframeSrc: 'https://dailysolitaire.h5games.usercontent.goog/v/0e4orvvorj2mo/'
-thumbnail: /new-images/daily-solitaire.png
+thumbnail: /new-images/thumbnails/daily-solitaire.png
 tags:
   - card
   - puzzle

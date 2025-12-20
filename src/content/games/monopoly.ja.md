@@ -2,7 +2,7 @@
 title: Monopoly
 description: クラシックなMonopolyボードゲームをプレイします。不動産を購入し、家を建設し、レントを収集し、対戦相手を破産させます。
 iframeSrc: 'https://monopoly.h5games.usercontent.goog/v/2bpqb8kd0b628/'
-thumbnail: /new-images/monopoly.png
+thumbnail: /new-images/thumbnails/monopoly.jpg
 urlstr: monopoly
 score: 4.4/5  (2789 votes)
 tags:

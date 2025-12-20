@@ -7,7 +7,7 @@ description: >-
   momento de cada caída, encadena reacciones en cadena y limpia los objetivos
   con montajes inteligentes.
 iframeSrc: 'https://6nhcl6kaecsio.h5games.usercontent.goog/v/09ccnat7ptqs8/'
-thumbnail: /new-images/bombs-drops-physics-balls.jpg
+thumbnail: /new-images/thumbnails/bombs-drops-physics-balls.jpg
 tags:
   - puzzle
   - thinky

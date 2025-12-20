@@ -7,7 +7,7 @@ description: >-
   Erfahre Strategien, Ascension-Tipps, den Umgang mit Golden Cookies und
   Antworten auf häufige Fragen, um deine Keksproduktion zu maximieren.
 iframeSrc: 'https://freeonlinegames.github.io/cookie-clicker/'
-thumbnail: /new-images/cookie-clicker.jpg
+thumbnail: /new-images/thumbnails/cookie-clicker.jpg
 tags:
   - casual
   - clicker

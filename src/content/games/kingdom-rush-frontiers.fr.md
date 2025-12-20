@@ -6,7 +6,7 @@ description: >-
   Kingdom Rush Frontiers est la suite du tower defense culte : construis des
   tours, déploie renforts et héros, et défends de nouveaux biomes extrêmes.
 iframeSrc: 'https://kingdomrushfrontiers.h5games.usercontent.goog/v/0kedni3rec5k0/'
-thumbnail: /new-images/kingdom-rush-frontiers.png
+thumbnail: /new-images/thumbnails/kingdom-rush-frontiers.jpg
 tags:
   - strategy
   - tower defense

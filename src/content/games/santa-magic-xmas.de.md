@@ -7,7 +7,7 @@ description: >-
   Hilf dem Weihnachtsmann, indem du bunte Kugeln und Leckereien kombinierst und
   das Spielfeld räumst, damit alle Geschenke rechtzeitig ausgeliefert werden.
 iframeSrc: 'https://santamagicxmas.h5games.usercontent.goog/v/27gpp489kce80/'
-thumbnail: /new-images/santa-magic-xmas.png
+thumbnail: /new-images/thumbnails/santa-magic-xmas.png
 tags:
   - puzzle
   - casual

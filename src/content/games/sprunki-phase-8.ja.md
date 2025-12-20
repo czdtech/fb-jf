@@ -3,7 +3,7 @@ title: Sprunki Phase 8 - Play Sprunki Phase 8 Online
 description: >-
   Sprunki Phase 8は、音楽制作にホラー系の演出を加えたModです。暗めの雰囲気のサウンドと演出でトラックを作れます。
 iframeSrc: 'https://turbowarp.org/1140266189/embed'
-thumbnail: /sprunki-phase-8.png
+thumbnail: /new-images/thumbnails/sprunki-phase-8.png
 urlstr: sprunki-phase-8
 score: 4.2/5  (396 votes)
 tags:

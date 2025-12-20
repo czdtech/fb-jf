@@ -6,7 +6,7 @@ description: >-
   Super Smash Flash 2 v0.9 améliore encore le contenu et l’équilibrage, tout en
   gardant la formule de combat de plateforme à la Smash Bros.
 iframeSrc: 'https://2tm5ud1ghg66o.h5games.usercontent.goog/v/1uf2qgk4ji63g/'
-thumbnail: /new-images/super-smash-flash-2-v09.png
+thumbnail: /new-images/thumbnails/super-smash-flash-2-v09.jpg
 tags:
   - fighting
   - 2 player

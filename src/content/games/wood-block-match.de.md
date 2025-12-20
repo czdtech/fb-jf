@@ -7,7 +7,7 @@ description: >-
   Formen so, dass du Reihen und Spalten räumst, und halte dir mit cleveren
   Lücken möglichst lange Platz auf dem Board frei.
 iframeSrc: 'https://2rfr65hktjv5o.h5games.usercontent.goog/v/46h85f5g0sldo/'
-thumbnail: /new-images/wood-block-match.png
+thumbnail: /new-images/thumbnails/wood-block-match.png
 tags:
   - puzzle
   - thinky

@@ -4,7 +4,7 @@ locale: en
 title: "Tomb of the Mask"
 description: "Navigate treacherous mazes in Tomb of the Mask, a fast-paced arcade game! Swipe to move your character from wall to wall, collecting coins and power-ups while outrunning a rising flood. Master precise movements and quick decisions to survive and uncover the tomb's secrets."
 iframeSrc: "https://w8.snokido.com/games/unity-webgl/tomb-run/index.html"
-thumbnail: "/new-images/tomb-of-the-mask.jpg"
+thumbnail: /new-images/thumbnails/tomb-of-the-mask.jpg
 urlstr: "tomb-of-the-mask"
 score: "3.7/5  (843 votes)"
 tags: ["arcade", "maze", "action"]

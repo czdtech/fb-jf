@@ -6,7 +6,7 @@ description: >-
   나무 블록을 밀어 길을 만드는 슬라이딩 퍼즐 게임입니다. 움직일 수 있는 블록을 슬라이드해 공이 출발점에서 목표 지점까지 끊기지 않는 길을
   만들어 보세요.
 iframeSrc: 'https://rollthisball3.h5games.usercontent.goog/v/65vs8rm7dfjno/'
-thumbnail: /new-images/roll-this-ball-3.png
+thumbnail: /new-images/thumbnails/roll-this-ball-3.png
 tags:
   - puzzle
   - thinky

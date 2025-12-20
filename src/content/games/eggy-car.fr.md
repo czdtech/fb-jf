@@ -4,7 +4,7 @@ urlstr: eggy-car
 title: Eggy Car
 description: "Eggy Car est un jeu de conduite physique\_: transporte un œuf fragile sur le toit de ta voiture, franchis les collines et essaie de ne pas le faire tomber."
 iframeSrc: 'https://webglmath.github.io/eggy-car/'
-thumbnail: /new-images/eggy-car.jpg
+thumbnail: /new-images/thumbnails/eggy-car.jpg
 tags:
   - driving
   - physics

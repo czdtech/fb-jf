@@ -4,7 +4,7 @@ locale: en
 title: "Red Ball"
 description: "Red Ball is the original physics-based platformer game where players control a bouncing red ball through various levels filled with obstacles, enemies, and puzzles, using momentum and physics to overcome challenges."
 iframeSrc: "https://app-185271.games.s3.yandex.net/185271/uvjrp10onrrllry3esbc3gpnf7s40cj5/index.html"
-thumbnail: "/new-images/red-ball.jpg"
+thumbnail: /new-images/thumbnails/red-ball.jpg
 urlstr: "red-ball"
 score: "4.2/5  (1161 votes)"
 tags: ["platformer", "physics", "classic"]

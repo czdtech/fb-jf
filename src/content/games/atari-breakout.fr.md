@@ -4,7 +4,7 @@ urlstr: atari-breakout
 title: "Atari Breakout"
 description: "Atari Breakout est un classique de l’arcade : contrôle ta raquette, fais rebondir la balle pour casser toutes les briques et vise le meilleur score possible."
 iframeSrc: "https://app-184523.games.s3.yandex.net/184523/bdryh2h6iqjirujzrk3tlum0j0n28j1o/index.html"
-thumbnail: /new-images/atari-breakout.jpg
+thumbnail: /new-images/thumbnails/atari-breakout.jpg
 tags:
   - casual
   - action

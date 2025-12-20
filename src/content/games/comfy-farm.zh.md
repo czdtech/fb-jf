@@ -6,7 +6,7 @@ description: >-
   欢迎来到《Comfy Farm 温馨小农场》！在这里你可以播种、浇水、收获农作物并赚取金币，
   还要防御讨厌的害虫，利用收入不断升级设施、扩张土地，打造只属于你的治愈系农场。
 iframeSrc: 'https://comfyfarm.h5games.usercontent.goog/v/73m7i3ndifhg0/'
-thumbnail: /new-images/comfy-farm.png
+thumbnail: /new-images/thumbnails/comfy-farm.png
 tags:
   - casual
   - strategy

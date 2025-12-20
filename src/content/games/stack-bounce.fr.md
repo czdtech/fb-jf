@@ -7,7 +7,7 @@ description: >-
   plateformes colorées en les brisant, mais relâche avant de toucher les zones
   noires si tu veux continuer à rebondir.
 iframeSrc: 'https://stackbounce.h5games.usercontent.goog/v/1aqsvv0aegbjg/'
-thumbnail: /new-images/stack-bounce.jpeg
+thumbnail: /new-images/thumbnails/stack-bounce.jpeg
 tags:
   - action
   - casual

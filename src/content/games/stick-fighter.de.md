@@ -9,7 +9,7 @@ description: >-
   Waffen, um als Letzter stehen zu bleiben.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221209/4/index.html
-thumbnail: /new-images/stick-fighter.jpg
+thumbnail: /new-images/thumbnails/stick-fighter.jpg
 tags:
   - fighting
   - action

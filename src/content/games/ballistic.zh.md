@@ -5,7 +5,7 @@ title: "Ballistic 弹射方块"
 description: >-
   《Ballistic（弹射方块）》是一款基于物理解算的打砖块式街机游戏，通过精确瞄准、收集额外弹球和善用强化道具，在数字方块压到底线之前把它们统统击碎。
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/ballistic/'
-thumbnail: /new-images/ballistic.jpg
+thumbnail: /new-images/thumbnails/ballistic.jpg
 tags:
   - puzzle
   - casual

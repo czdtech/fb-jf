@@ -5,7 +5,7 @@ urlstr: "yojou-sprunki-mustard"
 title: "Yojou Sprunki Mustard - 在线玩 Yojou Sprunki Mustard"
 description: "Yojou Sprunki Mustard，这款恶搞 Mod，彻底颠覆了 Sprunki 世界，所有角色都被一种神秘的「芥末酱」侵蚀，创造出一种既混乱又有趣的音乐体验。"
 iframeSrc: "https://turbowarp.org/1153723334/embed"
-thumbnail: "/yojou-sprunki-mustard.png"
+thumbnail: /new-images/thumbnails/yojou-sprunki-mustard.png
 score: "4.5/5  (322 票)"
 tags: ["yojou sprunki mustard"]
 ---

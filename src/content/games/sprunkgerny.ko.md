@@ -7,7 +7,7 @@ description: >-
   독특한 음악을 만들어 볼 수 있는 창의적인 음악 게임입니다. 규칙에 갇히지 않고
   즉흥성과 우연성을 즐기며 새로운 영감을 얻을 수 있습니다.
 iframeSrc: 'https://turbowarp.org/1107761681/embed'
-thumbnail: /Sprunkgerny.png
+thumbnail: /new-images/thumbnails/sprunkgerny.png
 tags:
   - sprunkgerny
   - sprunkgerny online

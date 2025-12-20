@@ -2,7 +2,7 @@
 title: Rooftop Snipers
 description: Rooftop Snipersは物理挙動のある対戦シューティングです。屋上で撃ち合い、相手を落とした方が勝ちになります。
 iframeSrc: 'https://rooftopsnipers.h5games.usercontent.goog/v/5k9j2m8h7p3n8/'
-thumbnail: /new-images/rooftop-snipers.png
+thumbnail: /new-images/thumbnails/rooftop-snipers.jpg
 urlstr: rooftop-snipers
 score: 4.3/5  (2789 votes)
 tags:

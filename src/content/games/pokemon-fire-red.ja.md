@@ -2,7 +2,7 @@
 title: Pokemon Fire Red
 description: Pokemon Fire Redはポケモンのアドベンチャーゲームです。カントー地方を冒険し、ポケモンを捕獲してジムバッジを集めます。
 iframeSrc: 'https://pokemonfirered.h5games.usercontent.goog/v/3k9j5m8h7p2n8/'
-thumbnail: /new-images/pokemon-fire-red.png
+thumbnail: /new-images/thumbnails/pokemon-fire-red.jpg
 urlstr: pokemon-fire-red
 score: 4.7/5  (7234 votes)
 tags:

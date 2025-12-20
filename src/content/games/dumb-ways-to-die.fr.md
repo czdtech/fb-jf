@@ -6,7 +6,7 @@ description: >-
   Dumb Ways to Die est une collection de mini‑jeux de réflexe : réussis des
   micro‑défis très vite pour garder les personnages en vie.
 iframeSrc: 'https://html5.iclouds.io/dumb-ways-die/'
-thumbnail: /new-images/dumb-ways-to-die.jpg
+thumbnail: /new-images/thumbnails/dumb-ways-to-die.jpg
 tags:
   - arcade
   - minigames

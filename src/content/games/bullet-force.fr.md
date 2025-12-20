@@ -4,7 +4,7 @@ urlstr: bullet-force
 title: Bullet Force
 description: "Bullet Force est un FPS moderne nerveux\_: affronte d’autres joueurs en ligne ou des bots hors ligne, personnalise tes armes et maîtrise plusieurs modes de jeu classiques."
 iframeSrc: 'https://ubg44.github.io/BulletForce/'
-thumbnail: /new-images/bullet-force.jpg
+thumbnail: /new-images/thumbnails/bullet-force.jpg
 tags:
   - action
   - shooting

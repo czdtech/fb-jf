@@ -7,7 +7,7 @@ description: >-
   Dschungel- und Meme-Thema, seine besondere Sound-Palette und gibt Tipps, wie
   du deinen eigenen Affen-Mix erstellst.
 iframeSrc: 'https://turbowarp.org/1108699828/embed'
-thumbnail: /new-images/incredibox-banana.png
+thumbnail: /new-images/thumbnails/incredibox-banana.png
 tags:
   - music
   - rhythm

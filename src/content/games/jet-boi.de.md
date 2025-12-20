@@ -7,7 +7,7 @@ description: >-
   stoße deinen Gegner in schnellen Runden von den Plattformen.
 iframeSrc: >-
   https://g.igroutka.ru/games/23/yw5Aj09crUtBZC8T/rvvASMiM/5113cafa646f4648abc873fe8fbb7232/
-thumbnail: /new-images/jet-boi.jpg
+thumbnail: /new-images/thumbnails/jet-boi.jpg
 tags:
   - action
   - multiplayer

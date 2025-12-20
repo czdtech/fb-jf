@@ -2,7 +2,7 @@
 title: Tunnel Rush
 description: Tunnel Rushは、高速トンネルラッシュゲームです。障害物を避けてトンネルを駆け抜けましょう。
 iframeSrc: 'https://ubg98.github.io/TunnelRush/'
-thumbnail: /new-images/tunnel-rush.jpg
+thumbnail: /new-images/thumbnails/tunnel-rush.jpg
 urlstr: tunnel-rush
 score: 4.6/5  (4567 votes)
 tags:

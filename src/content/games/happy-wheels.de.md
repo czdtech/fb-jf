@@ -7,7 +7,7 @@ description: >-
   Physik-Plattformspiel. Lerne Strategien, Steuerung und Tipps, um die
   tödlichen, von Spielern erstellten Level möglichst lebend zu überstehen.
 iframeSrc: 'https://games-online.io/game/HappyWheels/'
-thumbnail: /new-images/happy-wheels.jpg
+thumbnail: /new-images/thumbnails/happy-wheels.jpg
 tags:
   - platformer
   - physics

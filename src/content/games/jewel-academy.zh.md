@@ -4,7 +4,7 @@ urlstr: jewel-academy
 title: "《Jewel Academy》宝石学院"
 description: "在《Jewel Academy》中成为三消大师：交换绚丽宝石、制造强力特殊宝石，完成数百个各具目标的关卡挑战。"
 iframeSrc: 'https://jewelacademy.h5games.usercontent.goog/v/2krc7uv2m9998/'
-thumbnail: /new-images/jewel-academy.png
+thumbnail: /new-images/thumbnails/jewel-academy.png
 tags:
   - puzzle
   - casual

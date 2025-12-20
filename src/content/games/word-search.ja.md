@@ -2,7 +2,7 @@
 title: Word Search
 description: Word Searchは、クラシックな単語検索パズルゲームです。グリッドから隠された単語を見つけましょう。
 iframeSrc: 'https://ubg98.github.io/WordSearch/'
-thumbnail: /new-images/word-search.jpg
+thumbnail: /new-images/thumbnails/word-search.jpg
 urlstr: word-search
 score: 4.3/5  (2543 votes)
 tags:

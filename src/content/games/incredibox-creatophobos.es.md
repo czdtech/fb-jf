@@ -8,7 +8,7 @@ description: >-
   industrial y ofrece consejos para crear paisajes sonoros realmente
   aterradores.
 iframeSrc: 'https://turbowarp.org/1041902515/embed'
-thumbnail: /new-images/incredibox-creatophobos.png
+thumbnail: /new-images/thumbnails/incredibox-creatophobos.png
 tags:
   - music
   - horror

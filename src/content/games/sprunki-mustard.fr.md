@@ -7,7 +7,7 @@ description: >-
   moutarde, donnant au Mod une ambiance étrange et légèrement horrifique, tout
   en conservant le cœur musical de Sprunki.
 iframeSrc: 'https://html-classic.itch.zone/html/14281578/index.html'
-thumbnail: /sprunki-mustard.png
+thumbnail: /new-images/thumbnails/sprunki-mustard.png
 tags:
   - sprunki mustard
 score: 3.9/5  (827 votes)

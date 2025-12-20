@@ -7,7 +7,7 @@ description: >-
   cinco letras, interpreta el código de colores y reduce posibilidades con pura
   lógica de patrones.
 iframeSrc: "https://30mv2rsaljhjo.h5games.usercontent.goog/v/0hb0g2c5b4m9o/"
-thumbnail: "/new-images/wordler.png"
+thumbnail: /new-images/thumbnails/wordler.png
 tags:
   - puzzle
   - thinky

@@ -5,7 +5,7 @@ urlstr: "sprunki-retake"
 title: "Sprunki Retake 🔥 在线玩 Sprunki Retake"
 description: "如果你热爱节奏游戏，又对恐怖元素情有独钟，Sprunki Retake 绝对会让你欲罢不能！"
 iframeSrc: "https://www.minijuegos.com/embed/sprunki-retake"
-thumbnail: "/sprunki-retake.png"
+thumbnail: /new-images/thumbnails/sprunki-retake.png
 score: "4.3/5  (524 票)"
 tags: ["sprunki retake", "sprunki retake online"]
 ---

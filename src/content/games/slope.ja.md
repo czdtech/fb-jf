@@ -2,7 +2,7 @@
 title: Slope
 description: Slopeはエンドレスの3Dランナーです。ボールを転がして障害物を避け、できるだけ長く生き残ります。
 iframeSrc: 'https://slope.h5games.usercontent.goog/v/3k9j5m8h7p2n8/'
-thumbnail: /new-images/slope.png
+thumbnail: /new-images/thumbnails/slope.jpg
 urlstr: slope
 score: 4.5/5  (4234 votes)
 tags:

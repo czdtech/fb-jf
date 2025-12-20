@@ -6,7 +6,7 @@ description: >-
   Survivor Legends는 자동 공격형 생존 게임으로, 이동으로 적을 유도하고 레벨업으로
   무기·패시브를 선택해 몰려오는 적 무리를 버티는 로그라이크 슈팅 게임입니다.
 iframeSrc: 'https://244mb60l209a8.h5games.usercontent.goog/v/1koih6fev3le8/'
-thumbnail: /new-images/survivor-legends.png
+thumbnail: /new-images/thumbnails/survivor-legends.png
 tags:
   - action
   - shooting

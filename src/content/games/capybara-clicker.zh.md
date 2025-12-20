@@ -4,7 +4,7 @@ urlstr: capybara-clicker
 title: Capybara Clicker 水豚点击放置
 description: 《Capybara Clicker 水豚点击放置》是一款放置点击类游戏，你通过点点点和升级收益，解锁越来越多、越来越可爱 的水豚形态与天气演出。
 iframeSrc: 'https://capybaraclicker.h5games.usercontent.goog/v/0gksq8umtmd20/'
-thumbnail: /new-images/capybara-clicker.jpg
+thumbnail: /new-images/thumbnails/capybara-clicker.jpg
 tags:
   - idle
   - clicker

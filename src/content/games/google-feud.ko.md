@@ -7,7 +7,7 @@ description: >-
   앞부분을 보고 사람들이 실제로 많이 검색한 뒷부분을 추측해, 세 번 틀리기
   전에 최대한 많은 정답을 맞혀 보세요.
 iframeSrc: 'https://mac-web.github.io/macvg/projects/google-feud/game.html'
-thumbnail: /new-images/google-feud.jpg
+thumbnail: /new-images/thumbnails/google-feud.jpg
 tags:
   - trivia
   - quiz

@@ -8,7 +8,7 @@ description: >-
   respuestas a preguntas frecuentes sobre este intenso plataformas en primera
   persona.
 iframeSrc: "https://clusterrush.io/game/cluster-rush/"
-thumbnail: /new-images/cluster-rush.jpg
+thumbnail: /new-images/thumbnails/cluster-rush.jpg
 tags:
   - platformer
   - parkour

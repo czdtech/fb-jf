@@ -7,7 +7,7 @@ description: >-
   el impulso, aterriza plano y encadena saltos suaves a través de pistas llenas
   de baches.
 iframeSrc: 'https://0mm8l94jf1g88.h5games.usercontent.goog/v/6fo3rapem7uio/'
-thumbnail: /new-images/stud-rider.png
+thumbnail: /new-images/thumbnails/stud-rider.png
 tags:
   - bike
   - driving

@@ -7,7 +7,7 @@ description: >-
   읽고, 스스로는 읽히지 않도록 전략을 섞어 베스트 오브 매치에서
   승리를 노려 보세요.
 iframeSrc: 'https://0o2ssijd98lgg.h5games.usercontent.goog/v/39t01692a4rs8/'
-thumbnail: /new-images/rock-paper-scissors-dojo.png
+thumbnail: /new-images/thumbnails/rock-paper-scissors-dojo.png
 tags:
   - casual
   - 2 player

@@ -7,7 +7,7 @@ description: >-
   가이드입니다. 각종 도구와 루트를 선택해 비공정을 침투하고,
   여러 개의 결말과 실패 장면을 수집하는 방법을 소개합니다.
 iframeSrc: 'https://rebemanae.github.io/infiltrating-the-airship/'
-thumbnail: /new-images/infiltrating-the-airship.jpg
+thumbnail: /new-images/thumbnails/infiltrating-the-airship.jpg
 tags:
   - adventure
   - point-and-click

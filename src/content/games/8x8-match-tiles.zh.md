@@ -6,7 +6,7 @@ description: >-
   《8x8 Match Tiles（8x8 配对方块）》是一款在 8×8
   网格上进行的清爽配对益智游戏，你需要在有限空间中不断配对相同图块、清理棋盘并避免留下无法成对的孤立方块。
 iframeSrc: 'https://75njrrvim9kq0.h5games.usercontent.goog/v/1v57mtiv2ele0/'
-thumbnail: /new-images/8x8-match-tiles.jpg
+thumbnail: /new-images/thumbnails/8x8-match-tiles.jpg
 tags:
   - puzzle
   - thinky

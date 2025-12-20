@@ -4,7 +4,7 @@ locale: en
 title: "Pokemon Emerald"
 description: "Pokemon Emerald is a role-playing video game in the Pokémon series, where players embark on an adventure in the Hoenn region, catching and training Pokémon, battling trainers, and challenging Gym Leaders to become the Champion, while also dealing with the conflict between Team Magma and Team Aqua."
 iframeSrc: "https://picklekid31.github.io/GBA-unblocked-games/launcher.html#pokemonemerald"
-thumbnail: "/new-images/pokemon-emerald.jpg"
+thumbnail: /new-images/thumbnails/pokemon-emerald.jpg
 urlstr: "pokemon-emerald"
 score: "4.6/5  (1365 votes)"
 tags: ["rpg", "adventure", "collecting"]

@@ -3,7 +3,7 @@ locale: en
 title: "Bricks Breaker"
 description: "Get ready for classic arcade action in Bricks Breaker! Control the paddle, bounce the ball, and destroy all the bricks to clear levels."
 iframeSrc: "https://5enjropk1ren8.h5games.usercontent.goog/v/6u5qapt4kt1j8/"
-thumbnail: "/new-images/bricks-breaker.jpg"
+thumbnail: /new-images/thumbnails/bricks-breaker.jpg
 urlstr: "bricks-breaker"
 score: "4.4/5  (1984 votes)"
 tags: ["action", "casual", "flash"]

@@ -7,7 +7,7 @@ description: >-
   잡고 리듬을 유지해, 움직이는 골대와 바람 속에서도 연속 스윗스팟을 노려
   보세요.
 iframeSrc: 'https://41d3mmm660u50.h5games.usercontent.goog/v/1t2n5uvjnbv1o/'
-thumbnail: /new-images/basketball-serial-shooter.jpg
+thumbnail: /new-images/thumbnails/basketball-serial-shooter.jpg
 tags:
   - sports
   - basketball

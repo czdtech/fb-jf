@@ -7,7 +7,7 @@ description: >-
   점프하고 비행하며 스파이크와 패드를 통과하는 짧지만 강렬한 스테이지들을
   클리어해 보세요.
 iframeSrc: 'https://geometrylite.io/game/geometry-dash-meltdown/'
-thumbnail: /new-images/geometry-dash-meltdown.jpg
+thumbnail: /new-images/thumbnails/geometry-dash-meltdown.jpg
 tags:
   - rhythm
   - platformer

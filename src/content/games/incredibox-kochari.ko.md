@@ -6,7 +6,7 @@ description: >-
   아르메니아 전통 춤 'Kochari' 문화를 Incredibox 스타일로 재해석한 팬메이드 모드입니다. 전통 리듬과 보컬을 활용해 민속
   느낌의 믹스를 만드는 방법을 소개합니다.
 iframeSrc: 'https://turbowarp.org/718091148/embed'
-thumbnail: /new-images/incredibox-kochari.png
+thumbnail: /new-images/thumbnails/incredibox-kochari.png
 tags:
   - music
   - cultural

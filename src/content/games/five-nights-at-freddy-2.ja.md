@@ -2,7 +2,7 @@
 title: "Five Nights at Freddy's 2 (FNAF 2)"
 description: "マスクとオルゴールの管理：複数のアニマトロニクスを追跡し、パペットのオルゴールを巻き、懐中電灯を使い、適切なタイミングでフレディのマスクを被って生き残りましょう。"
 iframeSrc: "https://ubg77.github.io/fix/fnaf2/"
-thumbnail: "/new-images/five-nights-at-freddy-2.jpg"
+thumbnail: /new-images/thumbnails/five-nights-at-freddy-2.jpg
 urlstr: "five-nights-at-freddy-2"
 score: "3.7/5  (697 votes)"
 tags: ["horror", "strategy"]

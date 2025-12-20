@@ -2,7 +2,7 @@
 title: "Ludo Legend"
 description: "ルドーをデジタルで遊べるボードゲームです。ダイスを振ってトークンを進め、先に4つすべてをゴールへ入れた人の勝ちです。"
 iframeSrc: "https://ludolegend.h5games.usercontent.goog/v/613uvcaa3eiqo/"
-thumbnail: "/new-images/ludo-legend.png"
+thumbnail: /new-images/thumbnails/ludo-legend.png
 urlstr: "ludo-legend"
 score: "4.3/5  (1888 votes)"
 tags: ["2 player", "card", "casual"]

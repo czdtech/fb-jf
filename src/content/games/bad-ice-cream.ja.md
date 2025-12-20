@@ -2,7 +2,7 @@
 title: "Bad Ice-Cream バッド・アイスクリーム"
 description: "「Bad Ice-Cream」で氷の迷宮を制覇しよう！氷の壁を作り、壊し、敵を閉じ込めながらフルーツを全部集める、人気のピクセルアート・アクションパズル。"
 iframeSrc: "https://badicecream.h5games.usercontent.goog/v/9b83b167-93e1-482a-874f-c4e9702209d8/"
-thumbnail: "/new-images/bad-ice-cream.jpg"
+thumbnail: /new-images/thumbnails/bad-ice-cream.jpg
 urlstr: "bad-ice-cream"
 score: "4.5/5  (8245 votes)"
 tags: ["puzzle", "action"]

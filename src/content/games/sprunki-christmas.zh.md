@@ -5,7 +5,7 @@ urlstr: "sprunki-christmas"
 title: "Sprunki Christmas - 在线玩 Sprunki Christmas"
 description: "Sprunki Christmas 是一款让你在节日氛围中尽情享受游戏乐趣的 Mod。来到 Sprunki Christmas 的世界，用充满活力的音乐点亮你的圣诞节！"
 iframeSrc: "https://turbowarp.org/1104040581/embed"
-thumbnail: "/sprunki-christmas.png"
+thumbnail: /new-images/thumbnails/sprunki-christmas.png
 score: "4.6/5  (486 票)"
 tags: ["sprunki christmas"]
 ---

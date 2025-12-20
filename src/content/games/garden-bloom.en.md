@@ -3,7 +3,7 @@ locale: en
 title: "Garden Bloom"
 description: "Restore a beautiful garden in Garden Bloom! Solve challenging match-3 puzzles, earn stars, and choose from lovely decorations to design the garden of your dreams."
 iframeSrc: "https://gardenbloom.h5games.usercontent.goog/v/03uqf2ceev9h8/"
-thumbnail: "/new-images/garden-bloom.png"
+thumbnail: /new-images/thumbnails/garden-bloom.png
 urlstr: "garden-bloom"
 score: "4.6/5  (2780 votes)"
 tags: ["puzzle", "casual"]

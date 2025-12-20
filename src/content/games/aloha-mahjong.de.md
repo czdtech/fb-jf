@@ -6,7 +6,7 @@ description: >-
   Aloha Mahjong ist ein entspannendes Mahjong‑Solitaire. Finde offene Paare,
   räume gestapelte Steine ab und genieße dabei die gemütliche Inselatmosphäre.
 iframeSrc: 'https://02ef7fb7guapg.h5games.usercontent.goog/v/13knu9k9rm8go/'
-thumbnail: /new-images/aloha-mahjong.jpg
+thumbnail: /new-images/thumbnails/aloha-mahjong.jpg
 tags:
   - mahjong
   - puzzle

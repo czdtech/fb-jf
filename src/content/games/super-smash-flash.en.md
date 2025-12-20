@@ -4,7 +4,7 @@ locale: en
 title: "Super Smash Flash"
 description: "Experience the classic fan-made fighter, Super Smash Flash! Choose from a roster of iconic video game characters and battle it out in a platform-fighting arena. The goal is to launch your opponents off the screen by increasing their damage percentage. Master your character's moves to win."
 iframeSrc: "https://ad-freegames.github.io/flash/game/super-smash-flash.html"
-thumbnail: "/new-images/super-smash-flash.jpg"
+thumbnail: /new-images/thumbnails/super-smash-flash.jpg
 urlstr: "super-smash-flash"
 score: "3.5/5  (679 votes)"
 tags: ["fighting", "platformer", "multiplayer"]

@@ -4,7 +4,7 @@ urlstr: cat-mario
 title: Cat Mario
 description: "Affronte le platformer le plus injuste dans Cat Mario (Syobon Action)\_! Parcours des niveaux remplis de pièges cachés, d’ennemis imprévisibles et de trolls permanents dans cette parodie aussi difficile qu’hilarante."
 iframeSrc: 'https://tiwb.github.io/catmario/'
-thumbnail: /new-images/cat-mario.jpg
+thumbnail: /new-images/thumbnails/cat-mario.jpg
 tags:
   - platformer
   - casual

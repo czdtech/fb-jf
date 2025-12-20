@@ -7,7 +7,7 @@ description: >-
   niveles cortos sincronizados con la música, desbloquea portales con orbes
   recogidos y prueba niveles diarios.
 iframeSrc: 'https://geometrylite.io/game/geometry-dash-world/'
-thumbnail: /new-images/geometry-dash-world.jpg
+thumbnail: /new-images/thumbnails/geometry-dash-world.jpg
 tags:
   - rhythm
   - platformer

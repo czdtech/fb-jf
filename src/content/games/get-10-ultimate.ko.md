@@ -6,7 +6,7 @@ description: >-
   인접한 같은 숫자 타일을 눌러 하나 높은 숫자로 합치는 숫자 퍼즐 게임입니다. 목표는 10을 만드는 것에서 시작해, 가능한 한 높은 숫자와
   점수를 노리는 것입니다.
 iframeSrc: 'https://4oljglvsib9no.h5games.usercontent.goog/v/4nttt72qlep8o/'
-thumbnail: /new-images/get-10-ultimate.png
+thumbnail: /new-images/thumbnails/get-10-ultimate.png
 tags:
   - puzzle
   - thinky

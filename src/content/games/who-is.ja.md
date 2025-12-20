@@ -2,7 +2,7 @@
 title: Who Is?
 description: Who Is?は、推理パズルゲームです。謎を解いて正しい答えを見つけましょう。
 iframeSrc: 'https://ubg98.github.io/WhoIs/'
-thumbnail: /new-images/who-is.jpg
+thumbnail: /new-images/thumbnails/who-is.jpg
 urlstr: who-is
 score: 4.3/5  (2543 votes)
 tags:

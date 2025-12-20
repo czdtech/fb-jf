@@ -7,7 +7,7 @@ description: >-
   cuadrícula. Pueden estar en horizontal, vertical o diagonal, ¡e incluso
   escritas al revés!
 iframeSrc: 'https://wordsearch.h5games.usercontent.goog/v/6abe3eefqt368/'
-thumbnail: /new-images/word-search-2.jpg
+thumbnail: /new-images/thumbnails/word-search-2.jpg
 tags:
   - puzzle
   - thinky

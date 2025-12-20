@@ -2,7 +2,7 @@
 title: Sprunki Squid Remix - Play Sprunki Squid Remix Online
 description: Sprunki Squid RemixはSquid Game風の演出を取り入れたSprunki系Modです。サスペンス寄りのビートや効果音で雰囲気のあるトラックを作れます。
 iframeSrc: 'https://turbowarp.org/1109639683/embed'
-thumbnail: /sprunki-squid-remix.png
+thumbnail: /new-images/thumbnails/sprunki-squid-remix.png
 urlstr: sprunki-squid-remix
 score: 4.3/5  (442 votes)
 tags:

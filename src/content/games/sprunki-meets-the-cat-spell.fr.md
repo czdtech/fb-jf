@@ -7,7 +7,7 @@ description: >-
   Game », où tous les personnages adoptent un look félin trop mignon, avec
   oreilles de chat et sons adaptés.
 iframeSrc: 'https://turbowarp.org/1149710266/embed'
-thumbnail: /sprunki-meets-the-cat-spell.png
+thumbnail: /new-images/thumbnails/sprunki-meets-the-cat-spell.png
 tags:
   - sprunki meets the cat spell
   - sprunki meets the cat spell online

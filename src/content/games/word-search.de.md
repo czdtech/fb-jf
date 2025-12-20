@@ -7,7 +7,7 @@ description: >-
   Buchstabengitter – waagerecht, senkrecht und diagonal – und arbeite
   thematische Wortlisten in deinem eigenen Tempo ab.
 iframeSrc: 'https://cdn.gamesnacks.com/wordsearch1/gameCode/index.html'
-thumbnail: /new-images/word-search.jpg
+thumbnail: /new-images/thumbnails/word-search.jpg
 tags:
   - word
   - puzzle

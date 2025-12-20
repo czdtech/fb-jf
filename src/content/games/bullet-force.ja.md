@@ -4,7 +4,7 @@ description: >-
   「Bullet
   Force」で本格FPSの世界へ飛び込め！多彩な武器カスタマイズ、PvP、征服モード。広大なマップで繰り広げられるハイスピードな銃撃戦を体験せよ。
 iframeSrc: 'https://ubg44.github.io/BulletForce/'
-thumbnail: /new-images/bullet-force.jpg
+thumbnail: /new-images/thumbnails/bullet-force.jpg
 urlstr: bullet-force
 score: 3.9/5  (951 votes)
 tags:

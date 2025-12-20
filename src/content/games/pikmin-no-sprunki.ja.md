@@ -2,7 +2,7 @@
 title: Pikmin no Sprunki
 description: Pikmin no Sprunkiは音楽作成ゲームです。Pikminスタイルのキャラクターをミックスし、サウンドを組み合わせ、ユニークなビートを作成します。
 iframeSrc: 'https://pikminonosprunki.h5games.usercontent.goog/v/2j8k5m9h7p3n8/'
-thumbnail: /new-images/pikmin-no-sprunki.png
+thumbnail: /new-images/thumbnails/pikmin-no-sprunki.png
 urlstr: pikmin-no-sprunki
 score: 4.1/5  (1867 votes)
 tags:

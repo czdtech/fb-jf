@@ -4,7 +4,7 @@ locale: en
 title: "DogeMiner"
 description: "DogeMiner is an idle clicker: mine coins, buy upgrades and helpers, and automate production to earn faster."
 iframeSrc: "https://edufall.github.io/o16/doge-miner/"
-thumbnail: "/new-images/dogeminer.jpg"
+thumbnail: /new-images/thumbnails/dogeminer.jpg
 urlstr: "dogeminer"
 score: "4.2/5  (905 votes)"
 tags: ["idle", "clicker"]

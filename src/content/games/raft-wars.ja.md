@@ -2,7 +2,7 @@
 title: Raft Wars
 description: Raft Warsは物理ベースのシューティングゲームです。角度とパワーを調整して敵を狙い、いかだの上で戦います。
 iframeSrc: 'https://raftwars.h5games.usercontent.goog/v/2j9k5m8h7p3n8/'
-thumbnail: /new-images/raft-wars.png
+thumbnail: /new-images/thumbnails/raft-wars.jpg
 urlstr: raft-wars
 score: 4.4/5  (3234 votes)
 tags:

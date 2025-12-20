@@ -4,7 +4,7 @@ urlstr: 4-in-row-mania
 title: 4 In Row MANIA 四子连珠狂热
 description: 在《4 In Row MANIA（四子连珠狂热）》中，你将在经典“四子连珠”规则下和对手斗智斗勇，通过抢占关键列与落子节奏，率先连成四子拿下胜利。
 iframeSrc: 'https://4vt1c4a3eda48.h5games.usercontent.goog/v/73p1lulj7oe3o/'
-thumbnail: /new-images/4-in-row-mania.jpg
+thumbnail: /new-images/thumbnails/4-in-row-mania.jpg
 tags:
   - 2 player
   - thinky

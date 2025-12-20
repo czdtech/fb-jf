@@ -2,7 +2,7 @@
 title: "Google Minesweeper"
 description: "クラシックな論理パズル：数字の手がかりから安全なセルを推測し、地雷を作動させることなくグリッドをクリアしましょう。"
 iframeSrc: "https://www.minesweepergoogle.com/gameapp.html"
-thumbnail: "/new-images/google-minesweeper.jpg"
+thumbnail: /new-images/thumbnails/google-minesweeper.jpg
 urlstr: "google-minesweeper"
 score: "4.7/5  (181 votes)"
 tags: ["puzzle", "logic"]

@@ -7,7 +7,7 @@ description: >-
   neuen, kniffligen Hindernissen: Du führst eine Kugel eine endlose Rampe hinab
   und musst tödlichen Barrieren und roten Blöcken ausweichen.
 iframeSrc: 'https://games-online.io/game/Slope3/'
-thumbnail: /new-images/slope-3.jpg
+thumbnail: /new-images/thumbnails/slope-3.jpg
 tags:
   - endless runner
   - 3d

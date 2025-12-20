@@ -4,7 +4,7 @@ urlstr: solitaire
 title: 《Solitaire》纸牌接龙
 description: 《Solitaire》是一款经典的单人纸牌接龙游戏。通过在桌面上按点数顺序和花色规则整理纸牌，将所有牌最终移入基础牌堆，清空牌阵。
 iframeSrc: 'https://www.edogan.us/solitaire-js/'
-thumbnail: /new-images/solitaire.jpg
+thumbnail: /new-images/thumbnails/solitaire.jpg
 tags:
   - card game
   - classic

@@ -7,7 +7,7 @@ description: >-
   点击相邻的同色动物方块即可爆破，完成关卡目标、触发华丽连锁反应，
   在轻松的动物园冒险中一路闯关。
 iframeSrc: 'https://zooboom.h5games.usercontent.goog/v/4g2tps61g9djg/'
-thumbnail: /new-images/zoo-boom.png
+thumbnail: /new-images/thumbnails/zoo-boom.png
 tags:
   - puzzle
   - casual

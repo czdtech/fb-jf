@@ -7,7 +7,7 @@ description: >-
   propulsados por cohetes: conduce, salta y usa el turbo para golpear un balón
   gigante y marcar en la portería rival en partidos llenos de jugadas aéreas.
 iframeSrc: "https://ubg77.github.io/edit/rocket-soccer-derby/"
-thumbnail: "/new-images/rocket-league.jpg"
+thumbnail: /new-images/thumbnails/rocket-league.jpg
 tags:
   - sports
   - racing

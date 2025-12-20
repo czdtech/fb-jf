@@ -4,7 +4,7 @@ urlstr: kitchen-sorting
 title: 《Kitchen Sorting》厨房分类挑战
 description: 《Kitchen Sorting》是一款关于厨房分类与卫生的益智游戏，你要在时间压力下把食材、工具和垃圾正确分拣到对应区域，避免交叉污染。
 iframeSrc: 'https://757entlesmh4g.h5games.usercontent.goog/v/1r9oimecfevc0/'
-thumbnail: /new-images/kitchen-sorting.png
+thumbnail: /new-images/thumbnails/kitchen-sorting.png
 tags:
   - puzzle
   - thinky

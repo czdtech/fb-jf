@@ -6,7 +6,7 @@ description: >-
   Fluffy Mania 是一款溫馨可愛的連線消除遊戲，連接相同顏色的毛絨小球，
   引發連鎖反應並追求高分。
 iframeSrc: 'https://02rd6nna08dqg.h5games.usercontent.goog/v/3ngbs02gf9h88/'
-thumbnail: /new-images/fluffy-mania.png
+thumbnail: /new-images/thumbnails/fluffy-mania.png
 tags:
   - puzzle
   - casual

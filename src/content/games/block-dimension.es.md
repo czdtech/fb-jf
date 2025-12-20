@@ -6,7 +6,7 @@ description: >-
   Adéntrate en Block Dimension, un juego de puzles en 3D que pondrá a prueba tu
   visión espacial. Gira la estructura y encaja los bloques a la perfección.
 iframeSrc: 'https://62dfg8ps4f7lg.h5games.usercontent.goog/v/0k3gcfq0ljti8/'
-thumbnail: /new-images/block-dimension.png
+thumbnail: /new-images/thumbnails/block-dimension.png
 tags:
   - puzzle
   - thinky

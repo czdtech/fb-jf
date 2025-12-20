@@ -6,7 +6,7 @@ description: >-
   Fairyland ist ein entspanntes Puzzle-Abenteuer: Erkunde gemütliche Szenen,
   löse leichte Rätsel und erfülle Aufgaben in deinem eigenen Tempo.
 iframeSrc: 'https://66ts484uf5r18.h5games.usercontent.goog/v/1nt4ffhi7k9jo/'
-thumbnail: /new-images/fairyland.png
+thumbnail: /new-images/thumbnails/fairyland.png
 tags:
   - adventure
   - puzzle

@@ -7,7 +7,7 @@ description: >-
   최대한 오래 버티는 레이싱 게임입니다. 타이밍 좋게 눌렀다 떼며 코너를 돌아 나가고,
   코인을 모아 더 좋은 차량을 해금해 보세요.
 iframeSrc: 'https://ubg98.github.io/DriftBoss/'
-thumbnail: /new-images/drift-boss.jpg
+thumbnail: /new-images/thumbnails/drift-boss.jpg
 tags:
   - racing
   - drifting

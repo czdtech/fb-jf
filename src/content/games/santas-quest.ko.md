@@ -7,7 +7,7 @@ description: >-
   크리스마스 퍼즐 게임입니다. 막다른 길을 만들지 않도록 이동 순서를
   잘 계획해 보세요.
 iframeSrc: 'https://santasquest.h5games.usercontent.goog/v/737gsbva7bkqo/'
-thumbnail: /new-images/santas-quest.png
+thumbnail: /new-images/thumbnails/santas-quest.png
 tags:
   - puzzle
   - casual

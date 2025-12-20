@@ -6,7 +6,7 @@ description: >-
   아케이드 감성의 복싱 커리어 게임 Big Shot Boxing입니다. 선수를 육성해 랭크를
   올리고 간단하지만 깊이 있는 조작으로 세계 챔피언에 도전해 보세요.
 iframeSrc: 'https://rebemanae.github.io/big-shot-boxing/'
-thumbnail: /new-images/big-shot-boxing.jpg
+thumbnail: /new-images/thumbnails/big-shot-boxing.jpg
 tags:
   - sports
   - action

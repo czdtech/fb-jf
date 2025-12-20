@@ -2,7 +2,7 @@
 title: "Mess on the Ranch"
 description: "Mess on the Ranchは牧場を整理する管理ゲームです。動物を仕分けてタスクをこなし、時間内に片付けます。"
 iframeSrc: "https://3c5rbvbcdk92o.h5games.usercontent.goog/v/0l4eaogkjhga0/"
-thumbnail: "/new-images/mess-on-the-ranch.png"
+thumbnail: /new-images/thumbnails/mess-on-the-ranch.png
 urlstr: "mess-on-the-ranch"
 score: "3.9/5  (1567 votes)"
 tags: ["casual", "thinky"]

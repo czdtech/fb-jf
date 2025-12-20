@@ -4,7 +4,7 @@ urlstr: tennis
 title: "Tennis"
 description: "Klassisches Arcade‑Tennis im Browser: Schnapp dir deinen Schläger, serviere, spiele lange Ballwechsel und sichere dir Punkt um Punkt den Matchgewinn – leicht zu lernen, aber erstaunlich süchtig machend."
 iframeSrc: 'https://ad-freegames.github.io/flash/game/tennis.html'
-thumbnail: /new-images/tennis.jpg
+thumbnail: /new-images/thumbnails/tennis.jpg
 tags:
   - sports
   - arcade

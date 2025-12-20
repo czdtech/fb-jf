@@ -6,7 +6,7 @@ description: >-
   Ghost Pro Racing 是一款計時賽向賽車遊戲，你要追逐幽靈重播，
   修正走線與煞車點，用穩定輸入不斷把單圈時間往下壓。
 iframeSrc: 'https://52v00umba6lko.h5games.usercontent.goog/v/46gechg282a6g/'
-thumbnail: /new-images/ghost-pro-racing.jpg
+thumbnail: /new-images/thumbnails/ghost-pro-racing.jpg
 tags:
   - car
   - driving

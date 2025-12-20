@@ -7,7 +7,7 @@ description: >-
   glitzernde Edelsteine, erschaffe explosive Kombos und löse hunderte
   herausfordernde Puzzles.
 iframeSrc: 'https://jewellegend.h5games.usercontent.goog/v/36cb1hitjsa3o/'
-thumbnail: /new-images/jewel-legend.png
+thumbnail: /new-images/thumbnails/jewel-legend.png
 tags:
   - puzzle
   - casual

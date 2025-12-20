@@ -7,7 +7,7 @@ description: >-
   Bögen, sichere Rebounds und punkte in kurzen, intensiven Runden mehr als dein
   Gegner.
 iframeSrc: 'https://1e2ocejsf0rm8.h5games.usercontent.goog/v/093f1a2jf2p98/'
-thumbnail: /new-images/basket-battle.png
+thumbnail: /new-images/thumbnails/basket-battle.png
 tags:
   - sports
   - basketball

@@ -4,7 +4,7 @@ urlstr: tumble-towers
 title: 《Tumble Towers》摇摇欲坠的高塔
 description: 《Tumble Towers》是一款物理拆塔/平衡游戏。通过移除或击落方块，让塔楼在尽量不砸中角色或目标区域的前提下摇晃、坍塌。
 iframeSrc: 'https://tumbletowers.h5games.usercontent.goog/v/5h9d2n3c1b7p0/'
-thumbnail: /new-images/tumble-towers.jpg
+thumbnail: /new-images/thumbnails/tumble-towers.png
 tags:
   - physics
   - puzzle

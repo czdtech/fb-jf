@@ -6,7 +6,7 @@ description: >-
   Mad Honey es una pequeña aventura arcade: recoge néctar, esquiva peligros y
   vuelve sano y salvo a la colmena.
 iframeSrc: 'https://49b5cg0v2itto.h5games.usercontent.goog/v/3tun18rhg88eg/'
-thumbnail: /new-images/mad-honey.png
+thumbnail: /new-images/thumbnails/mad-honey.png
 tags:
   - adventure
   - casual

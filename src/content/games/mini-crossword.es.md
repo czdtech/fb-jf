@@ -6,7 +6,7 @@ description: >-
   Mini Crossword es un crucigrama diario en formato compacto que ofrece un
   desafío de palabras rápido y entretenido para jugadores de todos los niveles.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/daily-crossword-mini/'
-thumbnail: /new-images/mini-crossword.jpg
+thumbnail: /new-images/thumbnails/mini-crossword.jpg
 tags:
   - puzzle
   - word

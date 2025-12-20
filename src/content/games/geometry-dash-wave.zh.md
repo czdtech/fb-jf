@@ -7,7 +7,7 @@ description: >-
   你要用單一按鍵控制三角波形圖示，以斜線上下穿梭避開障礙，完成音樂同步的高難度關卡。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp45/chenling/20231205/04/index.html
-thumbnail: /new-images/geometry-dash-wave.jpg
+thumbnail: /new-images/thumbnails/geometry-dash-wave.jpg
 tags:
   - rhythm
   - platformer

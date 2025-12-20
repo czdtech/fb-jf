@@ -7,7 +7,7 @@ description: >-
   fluida: lee la pista, elige bien los ángulos y encadena strikes de forma
   consistente.
 iframeSrc: 'https://0pst60kfu8pi8.h5games.usercontent.goog/v/249kviafiu6co/'
-thumbnail: /new-images/bowling-stars.png
+thumbnail: /new-images/thumbnails/bowling-stars.png
 tags:
   - sports
   - casual

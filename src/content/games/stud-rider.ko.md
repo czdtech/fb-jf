@@ -6,7 +6,7 @@ description: >-
   Stud Rider는 언덕과 점프로 가득한 코스를 모토바이크로 질주하는 게임으로,
   부드러운 흐름과 착지 각도, 적절한 플립 타이밍이 중요한 러너형 레이싱 게임입니다.
 iframeSrc: 'https://0mm8l94jf1g88.h5games.usercontent.goog/v/6fo3rapem7uio/'
-thumbnail: /new-images/stud-rider.png
+thumbnail: /new-images/thumbnails/stud-rider.png
 tags:
   - bike
   - driving

@@ -4,7 +4,7 @@ locale: en
 title: "Snakes And Ladders"
 description: "Play Snakes and Ladders, the classic board game of chance. Roll the die, climb ladders to get ahead, and watch out for snakes that will slide you back down. Be the first to reach the final square to win this timeless family game."
 iframeSrc: "https://cdn.gamesnacks.com/snakesandladders/gameCode/index.html"
-thumbnail: "/new-images/snakes-and-ladders.jpg"
+thumbnail: /new-images/thumbnails/snakes-and-ladders.jpg
 urlstr: "snakes-and-ladders"
 score: "4.2/5  (1342 votes)"
 tags: ["board-game", "classic", "multiplayer"]

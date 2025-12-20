@@ -6,7 +6,7 @@ description: >-
   《Solitaire 0-21》是一款把纸牌接龙与数字运算结合在一起的益智游戏。你需要在多行牌列中摆放数字牌，让每一行的累计和始终保持在 0 到 21
   之间，在风险与收益之间取得平衡。
 iframeSrc: 'https://4hcssrsmrpvv0.h5games.usercontent.goog/v/2oipnrim9ar08/'
-thumbnail: /new-images/solitaire-0-21.png
+thumbnail: /new-images/thumbnails/solitaire-0-21.png
 tags:
   - card
   - puzzle

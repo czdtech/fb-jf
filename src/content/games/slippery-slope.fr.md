@@ -8,7 +8,7 @@ description: >-
   tout en te battant contre le chrono sur des parcours exigeants.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp45/gamehwq/20231124/15/index.html
-thumbnail: /new-images/slippery-slope.jpg
+thumbnail: /new-images/thumbnails/slippery-slope.jpg
 tags:
   - skiing
   - racing

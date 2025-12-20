@@ -6,7 +6,7 @@ description: >-
   고전 버블 슈터를 깔끔한 고해상도 그래픽으로 즐길 수 있는 Bubble Shooter HD 입니다. 버블을 조준해 같은 색 3개 이상을
   맞추고, 연쇄 반응으로 한 번에 많은 버블을 떨어뜨려 보세요.
 iframeSrc: 'https://695vevup4pmu0.h5games.usercontent.goog/v/7ptf20o9mjr48/'
-thumbnail: /new-images/bubble-shooter-hd.png
+thumbnail: /new-images/thumbnails/bubble-shooter-hd.png
 tags:
   - puzzle
   - casual

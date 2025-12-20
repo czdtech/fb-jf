@@ -6,7 +6,7 @@ description: >-
   색 피드백을 단서로 5글자 단어를 추리하는 일일 워드 게임입니다. 각 시도 후 나타나는 색 패턴을
   분석해 가능한 후보를 줄이고, 논리적으로 정답에 수렴해 가는 추리 퍼즐입니다.
 iframeSrc: 'https://30mv2rsaljhjo.h5games.usercontent.goog/v/0hb0g2c5b4m9o/'
-thumbnail: /new-images/wordler.png
+thumbnail: /new-images/thumbnails/wordler.png
 tags:
   - puzzle
   - thinky

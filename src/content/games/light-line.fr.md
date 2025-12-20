@@ -4,7 +4,7 @@ urlstr: "light-line"
 title: "Light Line"
 description: "Light Line est un puzzle de tracé de chemins lumineux : relie des nœuds sans croisement, gère l’énergie et résous les grilles avec des trajectoires élégantes."
 iframeSrc: "https://4es9bmcl5tp2o.h5games.usercontent.goog/v/5uo8nsnhp1vjo/"
-thumbnail: "/new-images/light-line.png"
+thumbnail: /new-images/thumbnails/light-line.png
 tags: ["puzzle", "thinky"]
 score: "4.2/5  (2077 votes)"
 developer: ""

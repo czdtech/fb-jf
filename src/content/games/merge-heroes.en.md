@@ -3,7 +3,7 @@ locale: en
 title: "Merge Heroes"
 description: "The ultimate merge-and-battle strategy game! Combine heroes to forge a powerful army, deploy them on the battlefield, and defend your kingdom from waves of monsters."
 iframeSrc: "https://mergeheroes.h5games.usercontent.goog/v/7i7m361ib4vr8/"
-thumbnail: "/new-images/merge-heroes.png"
+thumbnail: /new-images/thumbnails/merge-heroes.png
 urlstr: "merge-heroes"
 score: "4.4/5  (2350 votes)"
 tags: ["strategy", "action", "puzzle"]

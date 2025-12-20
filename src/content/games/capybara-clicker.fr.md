@@ -8,7 +8,7 @@ description: >-
   "prestiger" et habille ton capybara avec des chapeaux trop mignons dans ce jeu
   idle relaxant.
 iframeSrc: 'https://bitlifeonline.github.io/capybara-clicker/'
-thumbnail: /new-images/capybara-clicker.jpg
+thumbnail: /new-images/thumbnails/capybara-clicker.jpg
 tags:
   - casual
   - clicker

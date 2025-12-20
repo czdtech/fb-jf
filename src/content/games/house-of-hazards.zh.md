@@ -4,7 +4,7 @@ urlstr: house-of-hazards
 title: "《House Of Hazards》整蛊陷阱之家"
 description: "《House Of Hazards》是一款本地多人派对游戏，在充满机关的房子里，部分玩家要完成日常小任务，另一部分玩家则疯狂触发陷阱，把别人从楼里“干出去”。"
 iframeSrc: 'https://webglmath.github.io/house-of-hazards/'
-thumbnail: /new-images/house-of-hazards.jpg
+thumbnail: /new-images/thumbnails/house-of-hazards.jpg
 tags:
   - party
   - multiplayer

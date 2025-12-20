@@ -6,7 +6,7 @@ description: >-
   4 In Row MANIA는 고전 사목(Connect Four)을 기반으로 한 대전 퍼즐입니다.
   열을 장악하고 상대를 견제하며 네 개를 먼저 일직선으로 이어 보세요.
 iframeSrc: 'https://4vt1c4a3eda48.h5games.usercontent.goog/v/73p1lulj7oe3o/'
-thumbnail: /new-images/4-in-row-mania.jpg
+thumbnail: /new-images/thumbnails/4-in-row-mania.jpg
 tags:
   - 2 player
   - thinky

@@ -6,7 +6,7 @@ description: >-
   Duck Life 4 es un simulador de entrenamiento y carreras: mejora las
   estadísticas de tu pato en minijuegos y gana torneos regionales.
 iframeSrc: 'https://webglmath.github.io/ducklife-4/'
-thumbnail: /new-images/duck-life-4.jpg
+thumbnail: /new-images/thumbnails/duck-life-4.jpg
 tags:
   - racing
   - simulation

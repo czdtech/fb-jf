@@ -6,7 +6,7 @@ description: >-
   《Block Blaster Puzzle 方块爆破拼图》是一款轻量但很“上头”的格子拼块游戏，拖放各种形状的方块填满行或区域
   进行消除，提前预留空间、做出多行连消，才能在棋盘不被堵死前活得更久。
 iframeSrc: 'https://0nrdbfos8jhv8.h5games.usercontent.goog/v/6ovao2cpe86og/'
-thumbnail: /new-images/block-blaster-puzzle.png
+thumbnail: /new-images/thumbnails/block-blaster-puzzle.png
 tags:
   - puzzle
   - thinky

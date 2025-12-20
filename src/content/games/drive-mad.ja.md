@@ -2,7 +2,7 @@
 title: Drive Mad ドライブ・マッド
 description: 「Drive Mad」は物理演算ドライビング・パズル。バランスを取り、障害物を乗り越え、どんな手を使ってでもゴールまでトラックを運ぼう。
 iframeSrc: 'https://ubg98.github.io/DriveMad/'
-thumbnail: /new-images/drive-mad.jpg
+thumbnail: /new-images/thumbnails/drive-mad.jpg
 urlstr: drive-mad
 score: 3.7/5  (1285 votes)
 tags:

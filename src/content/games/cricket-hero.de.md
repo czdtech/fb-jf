@@ -7,7 +7,7 @@ description: >-
   Timing und sammle so viele Runs wie möglich in diesem spannenden
   Schlagspiel.
 iframeSrc: 'https://crickethero.h5games.usercontent.goog/v/7cnfq54s3ilao/'
-thumbnail: /new-images/cricket-hero.jpg
+thumbnail: /new-images/thumbnails/cricket-hero.jpg
 tags:
   - sports
   - action

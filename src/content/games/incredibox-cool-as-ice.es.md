@@ -7,7 +7,7 @@ description: >-
   y las temáticas de temporada. Sumérgete en esta versión helada para vivir
   Incredibox como nunca, con un giro gélido en tus creaciones sonoras.
 iframeSrc: 'https://turbowarp.org/1108441752/embed'
-thumbnail: /incredibox-cool-as-ice.png
+thumbnail: /new-images/thumbnails/incredibox-cool-as-ice.png
 tags:
   - incredibox cool as ice
   - incredibox cool as ice online

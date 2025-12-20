@@ -7,7 +7,7 @@ description: >-
   추가된 엔드리스 볼 러너 게임입니다. 끝없이 이어지는 경사로에서
   붉은 블록과 함정을 피해 한계까지 내려가 보세요.
 iframeSrc: 'https://games-online.io/game/Slope3/'
-thumbnail: /new-images/slope-3.jpg
+thumbnail: /new-images/thumbnails/slope-3.jpg
 tags:
   - endless runner
   - 3d

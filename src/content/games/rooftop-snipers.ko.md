@@ -7,7 +7,7 @@ description: >-
   기반 슈팅 게임입니다. 단순한 조작 속에서 래그돌 물리와 반동을
   이용해 상대를 건물 아래로 날려 보내세요.
 iframeSrc: 'https://webglmath.github.io/rooftop-snipers/'
-thumbnail: /new-images/rooftop-snipers.jpg
+thumbnail: /new-images/thumbnails/rooftop-snipers.jpg
 tags:
   - shooting
   - physics

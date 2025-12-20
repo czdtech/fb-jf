@@ -5,7 +5,7 @@ title: "《Rotate》旋转世界解谜"
 description: >-
   《Rotate》是一款难度不俗的物理解谜游戏。你需要不断旋转整个关卡，让小球在重力作用下滚过迷宫与障碍，最终抵达终点。
 iframeSrc: 'https://rebemanae.github.io/rotate/'
-thumbnail: /new-images/rotate.jpg
+thumbnail: /new-images/thumbnails/rotate.jpg
 tags:
   - puzzle
   - physics

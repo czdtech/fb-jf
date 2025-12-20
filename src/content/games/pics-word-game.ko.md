@@ -4,7 +4,7 @@ urlstr: pics-word-game
 title: Pics Word Game 픽스 워드 게임
 description: 여러 장의 그림을 보고 공통으로 떠오르는 단어를 맞히는 단어 퍼즐 게임입니다. 이미지를 꼼꼼히 관찰해 모두를 이어 주는 단어를 찾아 보세요.
 iframeSrc: 'https://picswordgame.h5games.usercontent.goog/v/40jujb4uelhb0/'
-thumbnail: /new-images/pics-word-game.jpg
+thumbnail: /new-images/thumbnails/pics-word-game.jpg
 tags:
   - puzzle
   - thinky

@@ -8,7 +8,7 @@ description: >-
   적들을 처치하세요.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp37/gamehwq/20220228/07/index.htm
-thumbnail: /new-images/confront.jpg
+thumbnail: /new-images/thumbnails/confront.jpg
 tags:
   - casual
   - shooting

@@ -2,7 +2,7 @@
 title: Family Feud ファミリー・フュード
 description: 「Family Feud」はアンケート回答クイズゲーム。家族調査の質問に対する最も人気のある回答を推測し、複数ラウンドとファストマネーで得点を競おう。
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/family-feud/'
-thumbnail: /new-images/family-feud.jpg
+thumbnail: /new-images/thumbnails/family-feud.jpg
 urlstr: family-feud
 score: 4.1/5  (237 votes)
 tags:

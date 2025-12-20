@@ -3,7 +3,7 @@
 title: "Solitaire Klondike"
 description: "Solitaire KlondikeはKlondike（クロンダイク）形式のソリティアです。52枚をスートごとにA〜Kでファウンデーションにそろえることを目指します。"
 iframeSrc: "https://games.cdn.famobi.com/html5games/s/solitaire-klondike/v480/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=5b597140-77c2-4f7c-9abf-4f149d6dcbac&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=465&original_ref="
-thumbnail: "/new-images/solitaire-klondike.jpg"
+thumbnail: /new-images/thumbnails/solitaire-klondike.jpg
 urlstr: "solitaire-klondike"
 score: "3.9/5  (653 votes)"
 tags: ["card-game", "classic", "strategy"]

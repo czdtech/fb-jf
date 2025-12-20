@@ -7,7 +7,7 @@ description: >-
   estética medieval. Levanta las pilas de base de As a Rey y limpia el tapete en
   este puzle estratégico.
 iframeSrc: 'https://7se96a0j4qu80.h5games.usercontent.goog/v/1iv1d4soimc78/'
-thumbnail: /new-images/medieval-solitaire.png
+thumbnail: /new-images/thumbnails/medieval-solitaire.png
 tags:
   - card
   - puzzle

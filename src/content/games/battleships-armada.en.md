@@ -3,7 +3,7 @@ locale: en
 title: "Battleships Armada"
 description: "The classic naval combat game! Strategically place your fleet of ships on the grid and fire at your opponent's grid to find and sink their entire armada before they sink yours."
 iframeSrc: "https://3hcluun64uid0.h5games.usercontent.goog/v/0op00pgc2n4kg/"
-thumbnail: "/new-images/battleships-armada.png"
+thumbnail: /new-images/thumbnails/battleships-armada.png
 urlstr: "battleships-armada"
 score: "4.5/5  (2900 votes)"
 tags: ["puzzle", "strategy", "thinky"]

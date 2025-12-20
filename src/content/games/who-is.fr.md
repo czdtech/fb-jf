@@ -7,7 +7,7 @@ description: >-
   identifie les imposteurs et trouve les indices cachés dans des scénarios
   uniques.
 iframeSrc: 'https://rebemanae.github.io/who-is/'
-thumbnail: /new-images/who-is.jpg
+thumbnail: /new-images/thumbnails/who-is.jpg
 tags:
   - puzzle
   - riddle

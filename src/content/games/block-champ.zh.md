@@ -6,7 +6,7 @@ description: >-
   《Block Champ 闪电方块大师》是一款 10×10 棋盘的策略拼块游戏，在普通消行机制基础上加入闪电块与冰块等特殊
   方块，合理利用连消与特效清理棋盘，冲击高分。
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/block-champ/'
-thumbnail: /new-images/block-champ.jpg
+thumbnail: /new-images/thumbnails/block-champ.jpg
 tags:
   - puzzle
   - board Game

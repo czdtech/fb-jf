@@ -4,7 +4,7 @@ urlstr: gunspin
 title: "Gunspin"
 description: "Jeu d’arcade basé sur le recul : tire pour faire tourner ton arme et te propulser, récupère des munitions et voyage le plus loin possible tout en évitant les dangers."
 iframeSrc: "https://ubg44.github.io/GunSpin/"
-thumbnail: /new-images/gunspin.jpg
+thumbnail: /new-images/thumbnails/gunspin.jpg
 tags:
   - arcade
   - physics

@@ -7,7 +7,7 @@ description: >-
   día agotador. Entra en Sprunki Good Night y usa ritmos suaves y tranquilos
   para crear la nana perfecta y darle la bienvenida a los dulces sueños.
 iframeSrc: 'https://turbowarp.org/1178264025/embed'
-thumbnail: /sprunki-good-night.png
+thumbnail: /new-images/thumbnails/sprunki-good-night.png
 tags:
   - sprunki good night
 score: 4.2/5  (227 votes)

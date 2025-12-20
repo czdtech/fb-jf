@@ -8,7 +8,7 @@ description: >-
   énorme ballon et marquer dans le but adverse lors de matchs aériens
   ultra‑dynamiques.
 iframeSrc: 'https://ubg77.github.io/edit/rocket-soccer-derby/'
-thumbnail: /new-images/rocket-league.jpg
+thumbnail: /new-images/thumbnails/rocket-league.jpg
 tags:
   - sports
   - racing

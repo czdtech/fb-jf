@@ -7,7 +7,7 @@ description: >-
   맞춰 스윙하고 빈 공간을 노려 안타와 홈런을 쌓으며, 아웃되기 전에 최대한 많은
   점수를 올려 보세요.
 iframeSrc: 'https://freeonlinegames.github.io/fourth-of-july-2019.html'
-thumbnail: /new-images/google-doodle-baseball.jpg
+thumbnail: /new-images/thumbnails/google-doodle-baseball.jpg
 tags:
   - sports
   - arcade

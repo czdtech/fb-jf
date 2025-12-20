@@ -4,7 +4,7 @@ locale: en
 title: "Checkers"
 description: "Learn the rules and strategies of Checkers, the classic board game. Master diagonal moves, force captures, and crown your pieces to become a King in this timeless test of wits."
 iframeSrc: "https://app-98054.games.s3.yandex.net/98054/nmrr3mfit1y3qyd35l9zk4d8awgfxsjq/index.html"
-thumbnail: "/new-images/checkers.jpg"
+thumbnail: /new-images/thumbnails/checkers.jpg
 urlstr: "checkers"
 score: "4.5/5  (596 votes)"
 tags: ["strategy", "puzzle"]

@@ -7,7 +7,7 @@ description: >-
   weg, schalte Booster frei und richte prunkvolle Säle mit cleverer Planung
   wieder her.
 iframeSrc: 'https://0ptbttt09g5cg.h5games.usercontent.goog/v/6c7l9okboa1u0/'
-thumbnail: /new-images/kings-and-queens.png
+thumbnail: /new-images/thumbnails/kings-and-queens.png
 tags:
   - puzzle
   - casual

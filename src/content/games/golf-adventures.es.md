@@ -7,7 +7,7 @@ description: >-
   bola para meterla en el hoyo, sorteando obstáculos ingeniosos y recorridos
   imaginativos en el menor número de golpes posible.
 iframeSrc: 'https://golfadventures.h5games.usercontent.goog/v/2er1vod6k6p0o/'
-thumbnail: /new-images/golf-adventures.png
+thumbnail: /new-images/thumbnails/golf-adventures.png
 tags:
   - sports
   - puzzle

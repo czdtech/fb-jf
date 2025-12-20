@@ -2,7 +2,7 @@
 title: "Sprunki Interactive BETA - Play Sprunki Interactive BETA Online"
 description: "Sprunki Interactive BETAはキャラクターが動き回り、相互作用で音が変わる実験的なSprunkiです。予測しにくい展開を楽しめます。"
 iframeSrc: "https://turbowarp.org/1090663998/embed"
-thumbnail: "/sprunki-interactive-beta.png"
+thumbnail: /new-images/thumbnails/sprunki-interactive-beta.png
 urlstr: "sprunki-interactive-beta"
 score: "4.0/5  (407 votes)"
 tags: ["sprunki interactive beta"]

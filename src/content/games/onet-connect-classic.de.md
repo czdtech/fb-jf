@@ -7,7 +7,7 @@ description: >-
   identischer Kacheln und räume das Spielfeld, indem du sie mit einem Weg mit
   höchstens zwei Ecken verbindest, bevor die Zeit abläuft.
 iframeSrc: 'https://onetconnectclassic.h5games.usercontent.goog/v/0q8248mt11l3g/'
-thumbnail: /new-images/onet-connect-classic.png
+thumbnail: /new-images/thumbnails/onet-connect-classic.png
 tags:
   - puzzle
   - casual

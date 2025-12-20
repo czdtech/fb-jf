@@ -6,7 +6,7 @@ description: >-
   《Armored Assault
   Strike（装甲突击打击）》是一款俯视角载具射击游戏，你将驾驶装甲单位穿梭战场，利用走位、地形与技能冷却来压制一波又一波敌人。
 iframeSrc: 'https://2fr3rldr11rpg.h5games.usercontent.goog/v/2pn2tgakfpecg/'
-thumbnail: /new-images/armored-assault-strike.png
+thumbnail: /new-images/thumbnails/armored-assault-strike.png
 tags:
   - shooting
   - action

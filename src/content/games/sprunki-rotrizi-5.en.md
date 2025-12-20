@@ -7,7 +7,7 @@ description: >-
   out among Sprunki mods thanks to its advanced distortion algorithms and
   immersive visuals.
 iframeSrc: 'https://turbowarp.org/1126764795/embed'
-thumbnail: /sprunki-rotrizi-5.png
+thumbnail: /new-images/thumbnails/sprunki-rotrizi-5.png
 urlstr: sprunki-rotrizi-5
 modType: sprunki
 score: 4.0/5  (232 votes)

@@ -7,7 +7,7 @@ description: >-
   que debes seleccionar y combinar fichas para despejar el tablero sin llenar la
   zona de reserva.
 iframeSrc: "https://4h72h3ha1dnh0.h5games.usercontent.goog/v/4mrusdmqik1l8/"
-thumbnail: "/new-images/polymatch.png"
+thumbnail: /new-images/thumbnails/polymatch.png
 tags:
   - puzzle
   - thinky

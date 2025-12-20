@@ -2,7 +2,7 @@
 title: "Candy Bubbles"
 description: "甘い世界に足を踏み入れ、カラフルなキャンディバブルをポップしましょう！大砲を狙い、3つ以上をマッチさせ、この楽しいバブルシューターパズルゲームでボードをクリアしましょう。"
 iframeSrc: "https://candybubbles.h5games.usercontent.goog/v/370v1t5h5266g/"
-thumbnail: "/new-images/candy-bubbles.png"
+thumbnail: /new-images/thumbnails/candy-bubbles.png
 urlstr: "candy-bubbles"
 score: "4.3/5  (2050 votes)"
 tags: ["shooting", "puzzle", "casual"]

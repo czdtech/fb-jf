@@ -3,7 +3,7 @@ locale: en
 title: "Tile Puzzle"
 description: "A relaxing and strategic puzzle game. Find and select three identical tiles to clear them from the board. Plan your moves carefully to avoid filling up your collection tray."
 iframeSrc: "https://5u9qhnk84v07g.h5games.usercontent.goog/v/2h3elehja73a8/"
-thumbnail: "/new-images/tile-puzzle.jpg"
+thumbnail: /new-images/thumbnails/tile-puzzle.jpg
 urlstr: "tile-puzzle"
 score: "4.4/5  (2300 votes)"
 tags: ["puzzle", "casual", "thinky"]

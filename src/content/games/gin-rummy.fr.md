@@ -7,7 +7,7 @@ description: >-
   pour terminer la manche et tente de piéger l'adversaire avec une main pleine
   de deadwood.
 iframeSrc: 'https://ginrummy.h5games.usercontent.goog/v/1sj72j2nsfin0/'
-thumbnail: /new-images/gin-rummy.png
+thumbnail: /new-images/thumbnails/gin-rummy.png
 tags:
   - card
   - puzzle

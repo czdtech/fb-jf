@@ -4,7 +4,7 @@ locale: en
 title: "Five Nights at Freddy's 1 (FNAF 1)"
 description: "Horror survival at a pizzeria: monitor cameras, conserve power, and shut doors/lights to keep animatronics out across five nights and beyond." 
 iframeSrc: "https://ubg77.github.io/fix/fnaf1/"
-thumbnail: "/new-images/five-nights-at-freddy-1.jpg"
+thumbnail: /new-images/thumbnails/five-nights-at-freddy-1.jpg
 urlstr: "five-nights-at-freddy-1"
 score: "4.3/5  (370 votes)"
 tags: ["horror", "strategy"]

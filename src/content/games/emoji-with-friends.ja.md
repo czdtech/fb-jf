@@ -2,7 +2,7 @@
 title: "Emoji With Friends 絵文字ウィズフレンズ"
 description: "「Emoji With Friends」は気軽に遊べるパーティー系パズル。絵文字をマッチさせて推理し、友達と競いながらテンポよく遊べます。"
 iframeSrc: "https://2gtc787tjm7c8.h5games.usercontent.goog/v/5lfna7ldlrun8/"
-thumbnail: "/new-images/emoji-with-friends.png"
+thumbnail: /new-images/thumbnails/emoji-with-friends.png
 urlstr: "emoji-with-friends"
 score: "3.9/5  (1517 votes)"
 tags: ["puzzle", "casual", "2 player"]

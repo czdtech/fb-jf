@@ -7,7 +7,7 @@ description: >-
   sin filtros, pensado para romperte y volver a forjar tus reflejos: nada de
   portales, pads de salto ni monedas, solo tu nave y un corredor de pinchos al píxel.
 iframeSrc: 'https://turbowarp.org/1185431027/embed'
-thumbnail: /geometry-dash.png
+thumbnail: /new-images/thumbnails/geometry-dash.png
 tags:
   - geometry dash
 score: 4.5/5  (604 votes)

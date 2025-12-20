@@ -6,7 +6,7 @@ description: >-
   Chinese Mahjong tiles, where players match identical open pairs to clear the
   board.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-mahjong/'
-thumbnail: /new-images/mahjong.jpg
+thumbnail: /new-images/thumbnails/mahjong.jpg
 urlstr: mahjong
 score: 4.8/5  (888 votes)
 tags:

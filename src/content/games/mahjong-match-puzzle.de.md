@@ -6,7 +6,7 @@ description: >-
   Mahjong Match Puzzle mischt Solitaire- und Connect-Regeln: Finde passende
   freie Steine, verwalte Ebenen geschickt und räume die Layouts effizient.
 iframeSrc: 'https://5jdtfmidv5ao0.h5games.usercontent.goog/v/1qd7nn7jmar7g/'
-thumbnail: /new-images/mahjong-match-puzzle.png
+thumbnail: /new-images/thumbnails/mahjong-match-puzzle.png
 tags:
   - mahjong
   - puzzle

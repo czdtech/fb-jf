@@ -7,7 +7,7 @@ description: >-
   50er/60er – ein Fan-Mod mit Fokus auf Beatnik-Kultur, Jazz, Poesie und
   nonkonformem Vibe.
 iframeSrc: 'https://turbowarp.org/948885978/embed'
-thumbnail: /new-images/incredibox-beatnik-simulator.png
+thumbnail: /new-images/thumbnails/incredibox-beatnik-simulator.png
 tags:
   - music
   - rhythm

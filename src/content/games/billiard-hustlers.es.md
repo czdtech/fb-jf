@@ -7,7 +7,7 @@ description: >-
   precisión, controla la blanca con efecto y limpia la mesa con buen juego de
   posición.
 iframeSrc: 'https://75hivpjsm2230.h5games.usercontent.goog/v/04igpiqnom6k0/'
-thumbnail: /new-images/billiard-hustlers.jpg
+thumbnail: /new-images/thumbnails/billiard-hustlers.jpg
 tags:
   - sports
   - pool

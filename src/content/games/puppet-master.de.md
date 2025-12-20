@@ -7,7 +7,7 @@ description: >-
   Marionette durch Hindernis-Parcours steuerst, indem du ihre Gliedmaßen
   kontrollierst und sie so bis zum Ziel turnen lässt.
 iframeSrc: 'https://classroomjq.github.io/puppet-master/'
-thumbnail: /new-images/puppet-master.jpg
+thumbnail: /new-images/thumbnails/puppet-master.jpg
 tags:
   - puzzle
   - physics

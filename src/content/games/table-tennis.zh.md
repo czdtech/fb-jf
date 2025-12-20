@@ -4,7 +4,7 @@ urlstr: table-tennis
 title: 《Table Tennis》桌上乒乓
 description: 《Table Tennis》是一款模拟乒乓球的体育游戏。通过控制球拍方向与时机，与电脑对手进行来回对拉，凭借反应与手感赢下比赛。
 iframeSrc: 'https://tabletennis.h5games.usercontent.goog/v/4eeofbe4nfj1g/'
-thumbnail: /new-images/table-tennis.png
+thumbnail: /new-images/thumbnails/table-tennis.png
 tags:
   - sports
   - 2 player

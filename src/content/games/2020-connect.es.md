@@ -7,7 +7,7 @@ description: >-
   mismo valor, crea fichas más altas y administra el espacio para encadenar
   grandes combos y batir tus récords.
 iframeSrc: 'https://4l7qr4mfc8o80.h5games.usercontent.goog/v/5sm797oi4heu0/'
-thumbnail: /new-images/2020-connect.png
+thumbnail: /new-images/thumbnails/2020-connect.png
 tags:
   - puzzle
   - thinky

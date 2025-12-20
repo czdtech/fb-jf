@@ -6,7 +6,7 @@ description: >-
   《Diner Dash 餐厅快打》是一款经典时间管理游戏。安排客人入座、点单、上菜与收桌，在紧
   凑节奏中保持顾客满意度，完成关卡目标。
 iframeSrc: 'https://ad-freegames.github.io/flash/game/diner-dash.html'
-thumbnail: /new-images/diner-dash.jpg
+thumbnail: /new-images/thumbnails/diner-dash.jpg
 tags:
   - time-management
   - strategy

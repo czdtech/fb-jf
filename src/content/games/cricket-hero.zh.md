@@ -4,7 +4,7 @@ urlstr: cricket-hero
 title: Cricket Hero 板球英雄
 description: 在《Cricket Hero 板球英雄》中走上击球区，靠精准的挥棒时机疯狂得分！这是一款专注击 球体验的街机板球小游戏，你能在出局前累积多少分？
 iframeSrc: 'https://crickethero.h5games.usercontent.goog/v/7cnfq54s3ilao/'
-thumbnail: /new-images/cricket-hero.jpg
+thumbnail: /new-images/thumbnails/cricket-hero.jpg
 tags:
   - sports
   - action

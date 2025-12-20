@@ -6,7 +6,7 @@ description: >-
   래그돌 좀비를 날려 레버를 당기고 폭탄과 구조물을 터뜨려 스테이지를 정리하는 퍼즐 슈팅 게임입니다.
   발사 각도와 힘을 조절해 연쇄 반응을 일으키고, 최소 발사 횟수로 클리어에 도전해 보세요.
 iframeSrc: 'https://04qb5fhi49qmg.h5games.usercontent.goog/v/64br0v92f7928/'
-thumbnail: /new-images/zombie-ragdoll.jpg
+thumbnail: /new-images/thumbnails/zombie-ragdoll.jpg
 tags:
   - shooting
   - puzzle

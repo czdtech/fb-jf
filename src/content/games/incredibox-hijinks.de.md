@@ -7,7 +7,7 @@ description: >-
   verspielte Tracks aus elektronischen Beats, Quirk-Sounds und albernen Vocals
   und schalte passende Gag-Boni frei.
 iframeSrc: 'https://turbowarp.org/1027156305/embed'
-thumbnail: /new-images/incredibox-hijinks.png
+thumbnail: /new-images/thumbnails/incredibox-hijinks.png
 tags:
   - music
   - rhythm

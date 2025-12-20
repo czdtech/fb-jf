@@ -7,7 +7,7 @@ description: >-
   im Tablett, räume das Brett leer und plane deine Züge so, dass der begrenzte
   Ablageplatz nicht überläuft.
 iframeSrc: 'https://0i1jh8boqif48.h5games.usercontent.goog/v/1643ot8on0v9g/'
-thumbnail: /new-images/tile-journey.png
+thumbnail: /new-images/thumbnails/tile-journey.png
 tags:
   - puzzle
   - casual

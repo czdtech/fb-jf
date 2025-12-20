@@ -2,7 +2,7 @@
 title: Egg Maker エッグ・メーカー
 description: 「Egg Maker」はスピード勝負のキッチンパズル。手順通りに卵を割り、味付けし、完璧なタイミングで焼き上げて、お客様に最高の朝食を提供しよう。
 iframeSrc: 'https://2jbqv0uarsk18.h5games.usercontent.goog/v/2cnuunat3mtpg/'
-thumbnail: /new-images/egg-maker.png
+thumbnail: /new-images/thumbnails/egg-maker.png
 urlstr: egg-maker
 score: 3.9/5  (1641 votes)
 tags:

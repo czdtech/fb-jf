@@ -7,7 +7,7 @@ description: >-
   Alinea criaturas marinas, encadena explosiones y recoge tesoros mientras
   esquivas los peligros de las profundidades.
 iframeSrc: 'https://thesearush.h5games.usercontent.goog/v/5ie3e5aghbr18/'
-thumbnail: /new-images/the-sea-rush.png
+thumbnail: /new-images/thumbnails/the-sea-rush.png
 tags:
   - adventure
   - action

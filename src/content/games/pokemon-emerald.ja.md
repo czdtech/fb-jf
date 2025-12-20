@@ -2,7 +2,7 @@
 title: Pokemon Emerald
 description: Pokemon Emeraldはポケモンのアドベンチャーゲームです。ホウエン地方を冒険し、ポケモンを捕獲・育成してチャンピオンを目指します。
 iframeSrc: 'https://pokemonemerald.h5games.usercontent.goog/v/5k9j2m8h7p3n8/'
-thumbnail: /new-images/pokemon-emerald.png
+thumbnail: /new-images/thumbnails/pokemon-emerald.jpg
 urlstr: pokemon-emerald
 score: 4.7/5  (6789 votes)
 tags:

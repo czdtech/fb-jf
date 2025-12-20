@@ -6,7 +6,7 @@ description: >-
   The Haze Pixelbox는 픽셀 아트 스타일의 어두운 퍼즐/플랫폼 게임으로, 안개 낀
   세계를 탐험하며 장치를 작동시키고 길을 찾아 나가는 게임입니다.
 iframeSrc: 'https://haze-pixelbox.h5games.usercontent.goog/v/demo/'
-thumbnail: /new-images/the-haze-pixelbox.jpg
+thumbnail: /new-images/thumbnails/the-haze-pixelbox.png
 tags:
   - puzzle
   - platformer

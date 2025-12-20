@@ -7,7 +7,7 @@ description: >-
   시리즈입니다. 다양한 원숭이 타워를 배치·업그레이드해 침입하는 블룬이 길 끝에
   도달하기 전에 모두 터뜨려 보세요.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/bloons-tower-defense.html'
-thumbnail: /new-images/bloons-td.jpg
+thumbnail: /new-images/thumbnails/bloons-td.jpg
 tags:
   - casual
   - strategy

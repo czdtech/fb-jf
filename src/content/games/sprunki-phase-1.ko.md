@@ -7,7 +7,7 @@ description: >-
   클래식 Incredibox 스타일 기반에 새로운 캐릭터와 사운드를 더한 입문용 음악 제작
   게임입니다.
 iframeSrc: 'https://turbowarp.org/1127823859/embed'
-thumbnail: /sprunki-phase-1.png
+thumbnail: /new-images/thumbnails/sprunki-phase-1.png
 tags:
   - sprunki phase 1
 score: 4.3/5  (96 votes)

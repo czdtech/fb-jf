@@ -7,7 +7,7 @@ description: >-
   weiche Fallen und Kreaturen aus und finde Schlüssel und Items, um aus der
   Höhle des Krampus zu entkommen.
 iframeSrc: 'https://g2.igroutka.ru/lib/crazy/games/krampus1/'
-thumbnail: /new-images/krampus.jpg
+thumbnail: /new-images/thumbnails/krampus.jpg
 tags:
   - horror
   - platformer

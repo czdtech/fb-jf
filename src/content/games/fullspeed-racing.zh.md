@@ -6,7 +6,7 @@ description: >-
   FullSpeed Racing 是一款街機向賽車遊戲——選擇正確賽線、抓準煞車點，
   在高速下乾淨完成超車。
 iframeSrc: 'https://fullspeedracing.h5games.usercontent.goog/v/4kqu52vbp4da8/'
-thumbnail: /new-images/fullspeed-racing.jpg
+thumbnail: /new-images/thumbnails/fullspeed-racing.jpg
 tags:
   - car
   - driving

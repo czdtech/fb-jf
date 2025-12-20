@@ -3,7 +3,7 @@ locale: en
 title: "Go Escape"
 description: "Go Escape is a precise escape‑platformer — time jumps, read traps, and thread safe routes through compact rooms."
 iframeSrc: "https://1muicq0oght78.h5games.usercontent.goog/v/1aim9ophd8cdg/"
-thumbnail: "/new-images/go-escape.png"
+thumbnail: /new-images/thumbnails/go-escape.png
 urlstr: "go-escape"
 score: "4.0/5  (1833 votes)"
 tags: ["puzzle", "escape", "action"]

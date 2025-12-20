@@ -5,7 +5,7 @@ title: "《Merge Cakes》蛋糕合成小铺"
 description: >-
   《Merge Cakes》是一款轻松解压的合成益智游戏，你通过合成相同的蛋糕，解锁更华丽的新甜点，填满展示台、完成客人订单，并一步步经营出全城最甜蜜的蛋糕店。
 iframeSrc: 'https://mergecakes.h5games.usercontent.goog/v/516lkgikje8fo/'
-thumbnail: /new-images/merge-cakes.jpg
+thumbnail: /new-images/thumbnails/merge-cakes.jpg
 tags:
   - puzzle
   - casual

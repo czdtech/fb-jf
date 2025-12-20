@@ -7,7 +7,7 @@ description: >-
   givrés, sons inspirés de l'hiver et bonus glacés pour des créations musicales
   au thème neige et glace.
 iframeSrc: 'https://turbowarp.org/1108441752/embed'
-thumbnail: /incredibox-cool-as-ice.png
+thumbnail: /new-images/thumbnails/incredibox-cool-as-ice.png
 tags:
   - incredibox cool as ice
   - incredibox cool as ice online

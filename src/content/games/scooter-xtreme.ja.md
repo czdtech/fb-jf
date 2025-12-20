@@ -2,7 +2,7 @@
 title: Scooter Xtreme
 description: Scooter Xtremeはスクーターのスタントゲームです。ジャンプやトリックで得点し、バランスよく着地して進みます。
 iframeSrc: 'https://scooterxtreme.h5games.usercontent.goog/v/2j9k5m8h7p3n8/'
-thumbnail: /new-images/scooter-xtreme.png
+thumbnail: /new-images/thumbnails/scooter-xtreme.jpg
 urlstr: scooter-xtreme
 score: 4.0/5  (1634 votes)
 tags:

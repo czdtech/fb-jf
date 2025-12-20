@@ -7,7 +7,7 @@ description: >-
   sonora única, la jugabilidad de creación musical y cómo desbloquear sus bonus
   temáticos.
 iframeSrc: 'https://turbowarp.org/1095206379/embed'
-thumbnail: /new-images/incredibox-yaboo.png
+thumbnail: /new-images/thumbnails/incredibox-yaboo.png
 tags:
   - music
   - rhythm

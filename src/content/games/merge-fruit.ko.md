@@ -6,7 +6,7 @@ description: >-
   Merge Fruit는 과일을 떨어뜨려 같은 과일끼리 합치고, 높이를 관리하며 연쇄 합성을
   노려 높은 점수를 겨루는 머지 퍼즐 게임입니다.
 iframeSrc: 'https://3eltb7i874s60.h5games.usercontent.goog/v/28f34ighqoh10/'
-thumbnail: /new-images/merge-fruit.png
+thumbnail: /new-images/thumbnails/merge-fruit.png
 tags:
   - puzzle
   - thinky

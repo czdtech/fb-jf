@@ -7,7 +7,7 @@ description: >-
   einem frischen, chaotischen Sprunkbop-Stil verbindet – neue Looks, frische
   Sounds, gleichbleibend simples Musikbasteln.
 iframeSrc: 'https://turbowarp.org/1114551059/embed'
-thumbnail: /fiddlebops-sprunkbop.png
+thumbnail: /new-images/thumbnails/fiddlebops-sprunkbop.png
 tags:
   - fiddlebops sprunkbop
 score: 4.1/5  (308 votes)

@@ -4,7 +4,7 @@ locale: en
 title: "Klondike Solitaire"
 description: "Classic Klondike: build foundations Ace to King by suit using tableau stacks that descend in alternating colors; draw‑1 or draw‑3." 
 iframeSrc: "https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-klondike-solitaire/"
-thumbnail: "/new-images/klondike-solitaire.jpg"
+thumbnail: /new-images/thumbnails/klondike-solitaire.jpg
 urlstr: "klondike-solitaire"
 score: "4.1/5  (1091 votes)"
 tags: ["solitaire", "card"]

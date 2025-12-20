@@ -7,7 +7,7 @@ description: >-
   nimm Bestellungen auf, serviere Essen und halte alle zufrieden, um die
   Levelziele zu erreichen.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/diner-dash.html'
-thumbnail: /new-images/diner-dash.jpg
+thumbnail: /new-images/thumbnails/diner-dash.jpg
 tags:
   - time-management
   - strategy

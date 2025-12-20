@@ -3,7 +3,7 @@ locale: en
 title: "Stickman Fighter Mega"
 description: "Stickman Fighter Mega is a kinetic brawler — time parries, chain combos, and dismantle waves with specials and spacing."
 iframeSrc: "https://0f2fr1ttejsng.h5games.usercontent.goog/v/6dfsqbbtglo48/"
-thumbnail: "/new-images/stickman-fighter-mega.jpg"
+thumbnail: /new-images/thumbnails/stickman-fighter-mega.jpg
 urlstr: "stickman-fighter-mega"
 score: "4.1/5  (1975 votes)"
 tags: ["stickman", "action"]

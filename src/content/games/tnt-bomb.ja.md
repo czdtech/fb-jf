@@ -2,7 +2,7 @@
 title: TNT Bomb
 description: TNT Bombは、爆弾パズルゲームです。TNTを配置して建物を爆破しましょう。
 iframeSrc: 'https://ubg98.github.io/TNTBomb/'
-thumbnail: /new-images/tnt-bomb.jpg
+thumbnail: /new-images/thumbnails/tnt-bomb.jpg
 urlstr: tnt-bomb
 score: 4.2/5  (2134 votes)
 tags:

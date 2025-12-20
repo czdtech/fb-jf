@@ -6,7 +6,7 @@ description: >-
   Minesweeper는 각 칸의 숫자 단서를 바탕으로 숨겨진 지뢰의 위치를 추리해, 한 번도
   밟지 않고 보드를 모두 여는 고전 싱글 플레이 퍼즐 게임입니다.
 iframeSrc: 'https://freeonlinegames.github.io/games/minesweeper/'
-thumbnail: /new-images/minesweeper.jpg
+thumbnail: /new-images/thumbnails/minesweeper.jpg
 tags:
   - puzzle
   - strategy

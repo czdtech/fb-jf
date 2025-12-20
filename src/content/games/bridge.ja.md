@@ -2,7 +2,7 @@
 title: "Bridge コントラクト・ブリッジ"
 description: "「Bridge」で世界最高峰の頭脳スポーツに挑戦。パートナーと協力してビッドとトリックテイキングを制し、契約（コントラクト）を達成せよ。"
 iframeSrc: "https://2ipri8asu56io.h5games.usercontent.goog/v/0gn3i94fda0h0/"
-thumbnail: "/new-images/bridge.png"
+thumbnail: /new-images/thumbnails/bridge.png
 urlstr: "bridge"
 score: "4.7/5  (3000 votes)"
 tags: ["card", "puzzle", "thinky"]

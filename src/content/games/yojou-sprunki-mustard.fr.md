@@ -6,7 +6,7 @@ description: >-
   Yojou Sprunki Mustard est un mod parodique qui subvertit le monde Sprunki :
   tous les personnages sont envahis par une mystérieuse sauce moutarde jaune.
 iframeSrc: 'https://turbowarp.org/1153723334/embed'
-thumbnail: /yojou-sprunki-mustard.png
+thumbnail: /new-images/thumbnails/yojou-sprunki-mustard.png
 tags:
   - yojou sprunki mustard
 score: 4.5/5  (322 votes)

@@ -6,7 +6,7 @@ description: >-
   control a ball rolling down a steep slope, avoiding obstacles and red blocks
   while trying to survive as long as possible in this fast-paced challenge.
 iframeSrc: 'https://raw.githack.com/lioxryt/lioxryt-assets/main/other/slope-2/index.html'
-thumbnail: /new-images/slope-2.jpg
+thumbnail: /new-images/thumbnails/slope-2.jpg
 urlstr: slope-2
 score: 3.8/5  (790 votes)
 tags:

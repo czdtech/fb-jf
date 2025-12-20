@@ -4,7 +4,7 @@ locale: en
 title: "Cuphead"
 description: "Cuphead is a fast‑paced run‑and‑gun: master precise jumps, dashes, and boss patterns to survive intense fights."
 iframeSrc: "https://bitlifeonline.github.io/cuphead/"
-thumbnail: "/new-images/cuphead.jpg"
+thumbnail: /new-images/thumbnails/cuphead.jpg
 urlstr: "cuphead"
 score: "4.0/5  (957 votes)"
 tags: ["action", "platformer"]

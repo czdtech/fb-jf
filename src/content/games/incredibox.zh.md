@@ -5,7 +5,7 @@ urlstr: "incredibox"
 title: "Incredibox - 在线 Incredibox 节奏创作游戏"
 description: "想和一群古灵精怪的口技角色一起创作属于自己的爆款单曲吗？Incredibox 可以帮你实现这个梦想！这款游戏集游戏性与音乐创作工具于一体，为各个年龄段的玩家提供十足的音乐乐趣。"
 iframeSrc: "https://nom74100.github.io/in-box/"
-thumbnail: "/Incredibox.png"
+thumbnail: /new-images/thumbnails/incredibox.png
 score: "4.9/5  (724 votes)"
 tags: ["incredibox", "incredibox online"]
 ---

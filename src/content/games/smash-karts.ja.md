@@ -2,7 +2,7 @@
 title: Smash Karts
 description: Smash Kartsは対戦カートアクションです。レースしながらアイテムを使って戦い、順位やスコアを競います。
 iframeSrc: 'https://smashkarts.h5games.usercontent.goog/v/3k9j5m8h7p2n8/'
-thumbnail: /new-images/smash-karts.png
+thumbnail: /new-images/thumbnails/smash-karts.jpg
 urlstr: smash-karts
 score: 4.5/5  (4234 votes)
 tags:

@@ -2,7 +2,7 @@
 title: "Bejeweled ビジュエルド"
 description: "「Bejeweled」を極めよう！宝石を3つ揃えて消す、元祖マッチ3パズルゲームの完全ガイド。ハイスコアを取るための戦略、各モードの特徴、ヒントを網羅。"
 iframeSrc: "https://bejeweled.h5games.usercontent.goog/v/9b83b167-93e1-482a-874f-c4e9702209d8/"
-thumbnail: "/new-images/bejeweled.jpg"
+thumbnail: /new-images/thumbnails/bejeweled.png
 urlstr: "bejeweled"
 score: "4.6/5  (5120 votes)"
 tags: ["puzzle", "match-3", "classic"]

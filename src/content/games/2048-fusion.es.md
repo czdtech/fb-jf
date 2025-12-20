@@ -7,7 +7,7 @@ description: >-
   fichas numeradas para crear la casilla 2048 (y más allá). Planifica bien tus
   movimientos para no llenar el tablero.
 iframeSrc: 'https://7t79nelq6lu50.h5games.usercontent.goog/v/7jm0opa5dtf00/'
-thumbnail: /new-images/2048-fusion.png
+thumbnail: /new-images/thumbnails/2048-fusion.png
 tags:
   - puzzle
   - thinky

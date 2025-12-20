@@ -4,7 +4,7 @@ locale: en
 title: "Tiny Fishing"
 description: "Tiny Fishing is a relaxing fishing game where players cast their line into the depths, catch various fish species, and upgrade their equipment to reach deeper waters and discover rare creatures."
 iframeSrc: "https://webglmath.github.io/tiny-fishing/"
-thumbnail: "/new-images/tiny-fishing.jpg"
+thumbnail: /new-images/thumbnails/tiny-fishing.jpg
 urlstr: "tiny-fishing"
 score: "4.7/5  (322 votes)"
 tags: ["fishing", "casual", "upgrade"]

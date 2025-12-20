@@ -7,7 +7,7 @@ description: >-
   guía detalla su temática EDM y dubstep, la jugabilidad en rejilla y consejos
   para crear mezclas y loops electrónicos intensos.
 iframeSrc: 'https://turbowarp.org/740478297/embed'
-thumbnail: /new-images/incredibox-xrun-simulator.png
+thumbnail: /new-images/thumbnails/incredibox-xrun-simulator.png
 tags:
   - music
   - electronic

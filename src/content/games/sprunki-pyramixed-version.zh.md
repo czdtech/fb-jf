@@ -5,7 +5,7 @@ urlstr: "sprunki-pyramixed-version"
 title: "Sprunki Pyramixed - 在线玩 Sprunki Pyramixed"
 description: "Sprunki Pyramixed 是一个出色的音乐创作平台，巧妙地平衡了易用性和深度，让每个人都能享受制作音乐的乐趣。"
 iframeSrc: "https://turbowarp.org/1133167510/embed"
-thumbnail: "/sprunki-pyramixed-version.png"
+thumbnail: /new-images/thumbnails/sprunki-pyramixed-version.png
 score: "4.0/5  (254 票)"
 tags: ["sprunki pyramixed"]
 ---

@@ -3,7 +3,7 @@ locale: en
 title: "Jewel Blocks"
 description: "A captivating puzzle game of strategy and spatial awareness. Drag and drop jewel-themed blocks onto the grid to create and clear full lines, but plan carefully—no rotations allowed!"
 iframeSrc: "https://jewelblocks.h5games.usercontent.goog/v/0puee6ie0j880/"
-thumbnail: "/new-images/jewel-blocks.png"
+thumbnail: /new-images/thumbnails/jewel-blocks.png
 urlstr: "jewel-blocks"
 score: "4.4/5  (2410 votes)"
 tags: ["puzzle", "thinky", "casual"]

@@ -2,7 +2,7 @@
 title: "Jet Boi"
 description: "2人プレイのジェットパック決闘：限られた燃料でブーストし、武器を掴み、素早いラウンドでライバルをプラットフォームから叩き落としましょう。"
 iframeSrc: "https://g.igroutka.ru/games/23/yw5Aj09crUtBZC8T/rvvASMiM/5113cafa646f4648abc873fe8fbb7232/"
-thumbnail: "/new-images/jet-boi.jpg"
+thumbnail: /new-images/thumbnails/jet-boi.jpg
 urlstr: "jet-boi"
 score: "4.9/5  (628 votes)"
 tags: ["action", "multiplayer"]

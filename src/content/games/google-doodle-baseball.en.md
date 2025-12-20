@@ -4,7 +4,7 @@ locale: en
 title: "Google Doodle Baseball"
 description: "Pick‑up batting game from Google’s 4th of July doodle: time swings, aim for gaps, and rack up runs before outs." 
 iframeSrc: "https://freeonlinegames.github.io/fourth-of-july-2019.html"
-thumbnail: "/new-images/google-doodle-baseball.jpg"
+thumbnail: /new-images/thumbnails/google-doodle-baseball.jpg
 urlstr: "google-doodle-baseball"
 score: "4.4/5  (1154 votes)"
 tags: ["sports", "arcade"]

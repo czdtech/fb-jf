@@ -6,7 +6,7 @@ description: >-
   짧은 방탈출 퍼즐을 매일 즐길 수 있는 Daily Room Escape입니다. 방을 샅샅이
   수색하고 논리 자물쇠와 퍼즐을 풀어 탈출에 필요한 단서를 맞춰 보세요.
 iframeSrc: 'https://0e53jjs7cgfvg.h5games.usercontent.goog/v/7ksqnmpcepl5g/'
-thumbnail: /new-images/daily-room-escape.png
+thumbnail: /new-images/thumbnails/daily-room-escape.png
 tags:
   - puzzle
   - escape

@@ -2,7 +2,7 @@
 title: Ragdoll Archers
 description: Ragdoll Archersは物理ベースのアーチェリーゲームです。角度とパワーを調整して矢を放ち、相手を倒します。
 iframeSrc: 'https://ragdollarchers.h5games.usercontent.goog/v/5k9j2m8h7p3n8/'
-thumbnail: /new-images/ragdoll-archers.png
+thumbnail: /new-images/thumbnails/ragdoll-archers.jpg
 urlstr: ragdoll-archers
 score: 4.2/5  (2234 votes)
 tags:

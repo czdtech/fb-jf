@@ -4,7 +4,7 @@ urlstr: big-shot-boxing
 title: "Big Shot Boxing"
 description: "Big Shot Boxing est un jeu de boxe arcade rétro : entraîne ton boxeur, grimpe dans le classement et utilise des contrôles simples mais techniques pour devenir champion du monde."
 iframeSrc: "https://rebemanae.github.io/big-shot-boxing/"
-thumbnail: /new-images/big-shot-boxing.jpg
+thumbnail: /new-images/thumbnails/big-shot-boxing.jpg
 tags:
   - sports
   - action

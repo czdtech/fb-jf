@@ -8,7 +8,7 @@ description: >-
   sobrevive al círculo que se encoge mientras dominas ataques de espada y
   embestidas.
 iframeSrc: "https://bitlifeonline.github.io/class16523/yohoho-io/"
-thumbnail: "/new-images/yohoho-io.jpg"
+thumbnail: /new-images/thumbnails/yohoho-io.jpg
 tags:
   - io-game
   - battle-royale

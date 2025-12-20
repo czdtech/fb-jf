@@ -6,7 +6,7 @@ description: >-
   Incredibox Donki Abgerny mezcla ritmos tribales profundos, didyeridús únicos y
   cantos llenos de alma con la jugabilidad clásica de Incredibox.
 iframeSrc: 'https://turbowarp.org/1135326100/embed'
-thumbnail: /incredibox-donki-abgerny.png
+thumbnail: /new-images/thumbnails/incredibox-donki-abgerny.png
 tags:
   - incredibox donki abgerny
 score: 4.3/5  (154 votes)

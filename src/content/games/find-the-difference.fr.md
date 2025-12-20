@@ -6,7 +6,7 @@ description: >-
   Aiguise ton regard et teste ton sens du détail : compare deux images presque
   identiques et trouve toutes les différences avant la fin du temps.
 iframeSrc: 'https://findthedifference.h5games.usercontent.goog/v/0tambv0iojsn8/'
-thumbnail: /new-images/find-the-difference.jpg
+thumbnail: /new-images/thumbnails/find-the-difference.jpg
 tags:
   - puzzle
   - casual

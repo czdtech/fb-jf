@@ -4,7 +4,7 @@ urlstr: sprunki-craft
 title: "Sprunki Craft 🎮 Sprunki Craft online spielen"
 description: "Sprunki Craft vereint Minecraft und Incredibox: Mit Steve, Creeper und Co. baust du dir deinen eigenen Block-Soundchor und kombinierst vertraute Minecraft-Figuren mit einem interaktiven Musikbaukasten."
 iframeSrc: 'https://www.minijuegos.com/embed/sprunki-craft'
-thumbnail: /sprunki-craft.jpg
+thumbnail: /new-images/thumbnails/sprunki-craft.jpg
 tags:
   - sprunki craft
   - sprunki craft online

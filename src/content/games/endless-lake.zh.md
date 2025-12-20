@@ -6,7 +6,7 @@ description: >-
   你能跑多遠？在《Endless Lake》這款極簡風無盡跑酷中測試你的反應力——
   點擊跳躍、空中二段跳，跨越一個又一個危險斷橋。
 iframeSrc: 'https://3llnkqqmic17g.h5games.usercontent.goog/v/0e8uaqritcs8o/'
-thumbnail: /new-images/endless-lake.png
+thumbnail: /new-images/thumbnails/endless-lake.png
 tags:
   - action
   - casual

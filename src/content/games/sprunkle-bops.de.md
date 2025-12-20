@@ -7,7 +7,7 @@ description: >-
   Rap‑Battles gegen bekannte Figuren an und musst die Beats im richtigen Moment
   treffen.
 iframeSrc: 'https://turbowarp.org/1122091658/embed'
-thumbnail: /sprunklebops.png
+thumbnail: /new-images/thumbnails/sprunkle-bops.png
 tags:
   - sprunkle bops
   - sprunkle bops online

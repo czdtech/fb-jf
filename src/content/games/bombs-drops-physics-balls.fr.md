@@ -4,7 +4,7 @@ urlstr: bombs-drops-physics-balls
 title: "Bombs Drops Physics balls"
 description: "Bombs Drops Physics balls est un puzzle de physique : laisse tomber des bombes et des balles au bon endroit pour déclencher des réactions en chaîne et détruire les structures avec un minimum de coups."
 iframeSrc: "https://6nhcl6kaecsio.h5games.usercontent.goog/v/09ccnat7ptqs8/"
-thumbnail: /new-images/bombs-drops-physics-balls.jpg
+thumbnail: /new-images/thumbnails/bombs-drops-physics-balls.jpg
 tags:
   - puzzle
   - thinky

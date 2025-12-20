@@ -7,7 +7,7 @@ description: >-
   japanisch inspirierte Klangpalette, das Musik-Gameplay und wie du die
   thematischen Boni freischaltest.
 iframeSrc: 'https://turbowarp.org/1095206379/embed'
-thumbnail: /new-images/incredibox-yaboo.png
+thumbnail: /new-images/thumbnails/incredibox-yaboo.png
 tags:
   - music
   - rhythm

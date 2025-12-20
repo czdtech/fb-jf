@@ -7,7 +7,7 @@ description: >-
   and want to try something new, then Sprunki Basical is definitely a good
   choice!
 iframeSrc: 'https://sprunki-basical.pages.dev/'
-thumbnail: /sprunki-basical.png
+thumbnail: /new-images/thumbnails/sprunki-basical.png
 urlstr: sprunki-basical
 modType: sprunki
 score: 4.4/5  (420 votes)

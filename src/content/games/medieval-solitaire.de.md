@@ -7,7 +7,7 @@ description: >-
   im Ritter- und Burgen-Look. Baue deine Ablagen von Ass bis König auf und leere
   das Tableau mit klugen Zügen.
 iframeSrc: 'https://7se96a0j4qu80.h5games.usercontent.goog/v/1iv1d4soimc78/'
-thumbnail: /new-images/medieval-solitaire.png
+thumbnail: /new-images/thumbnails/medieval-solitaire.png
 tags:
   - card
   - puzzle

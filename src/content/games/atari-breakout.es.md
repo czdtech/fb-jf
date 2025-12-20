@@ -8,7 +8,7 @@ description: >-
   puntuaciones altas.
 iframeSrc: >-
   https://app-184523.games.s3.yandex.net/184523/bdryh2h6iqjirujzrk3tlum0j0n28j1o/index.html
-thumbnail: /new-images/atari-breakout.jpg
+thumbnail: /new-images/thumbnails/atari-breakout.jpg
 tags:
   - casual
   - action

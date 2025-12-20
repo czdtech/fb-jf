@@ -8,7 +8,7 @@ description: >-
   arqueros y gigantes, y dirígelos en combate. Destruye la estatua enemiga y
   protege la tuya para conquistar la tierra de Inamorta.
 iframeSrc: 'https://www.gamenora.com/upload/games/swf/stick_war/'
-thumbnail: /new-images/stick-war.jpg
+thumbnail: /new-images/thumbnails/stick-war.jpg
 tags:
   - strategy
   - rTS

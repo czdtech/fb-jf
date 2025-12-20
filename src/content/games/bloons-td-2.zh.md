@@ -6,7 +6,7 @@ description: >-
   在《Bloons TD 2 气球塔防 2》中，布置并升级 5 种猴子防御塔，在 50 波来袭的气球面前坚守防线，合理搭配炸弹
   与冰冻塔来应对对爆炸免疫的黑气球和对冰冻免疫的白气球。
 iframeSrc: 'https://1000freegames.github.io/swf/bloons-td-2.html'
-thumbnail: /new-images/bloons-td-2.jpg
+thumbnail: /new-images/thumbnails/bloons-td-2.jpg
 tags:
   - casual
   - strategy

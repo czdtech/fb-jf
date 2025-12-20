@@ -4,7 +4,7 @@ locale: en
 title: "Basket Random"
 description: "A guide to Basket Random, the wacky and unpredictable physics-based basketball game. Learn the one-button controls, strategies for embracing chaos, and how to win in this hilarious 2-player game."
 iframeSrc: "https://app-197304.games.s3.yandex.net/197304/kj9rcykboy6eol5xnn250jesr7v0hoh1/index.html"
-thumbnail: "/new-images/basket-random.jpg"
+thumbnail: /new-images/thumbnails/basket-random.jpg
 urlstr: "basket-random"
 score: "4.2/5  (284 votes)"
 tags: ["casual", "sports"]

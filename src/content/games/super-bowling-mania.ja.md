@@ -2,7 +2,7 @@
 title: Super Bowling Mania
 description: Super Bowling Maniaは、エキサイティングなボウリングゲームです。ストライクを狙ってハイスコアを獲得しましょう。
 iframeSrc: 'https://ubg98.github.io/SuperBowlingMania/'
-thumbnail: /new-images/super-bowling-mania.jpg
+thumbnail: /new-images/thumbnails/super-bowling-mania.png
 urlstr: super-bowling-mania
 score: 4.2/5  (1987 votes)
 tags:

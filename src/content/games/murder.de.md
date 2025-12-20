@@ -8,7 +8,7 @@ description: >-
   während die übrigen Mitspieler ihn durch Beobachtung und Logik entlarven
   müssen.
 iframeSrc: 'https://ubg77.github.io/fix/murder/'
-thumbnail: /new-images/murder.jpg
+thumbnail: /new-images/thumbnails/murder.jpg
 tags:
   - social deduction
   - strategy

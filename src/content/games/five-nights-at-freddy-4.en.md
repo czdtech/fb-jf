@@ -4,7 +4,7 @@ locale: en
 title: "Five Nights at Freddy's 4 (FNAF 4)"
 description: "Bedroom nightmare survival: listen for breathing, manage doors and closet, and use your flashlight wisely to keep night terrors at bay."
 iframeSrc: "https://ubg77.github.io/fix/fnaf2/fnaf4.html"
-thumbnail: "/new-images/five-nights-at-freddy-4.jpg"
+thumbnail: /new-images/thumbnails/five-nights-at-freddy-4.jpg
 urlstr: "five-nights-at-freddy-4"
 score: "4.9/5  (625 votes)"
 tags: ["horror", "strategy"]

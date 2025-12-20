@@ -5,7 +5,7 @@ description: >-
   Sprunki Minecraft proves that innovation can still flourish within familiar
   gameplay loops. If you
 iframeSrc: 'https://turbowarp.org/1140459751/embed'
-thumbnail: /sprunki-minecraft.png
+thumbnail: /new-images/thumbnails/sprunki-minecraft.png
 urlstr: sprunki-minecraft
 modType: sprunki
 score: 4.0/5  (212 votes)

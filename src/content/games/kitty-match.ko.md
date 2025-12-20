@@ -6,7 +6,7 @@ description: >-
   귀여운 고양이 아이템으로 퍼즐을 푸는 3매치 게임 'Kitty Match' 가이드입니다. 고양이 테마 타일을 맞바꿔 목표를 달성하고 파워업
   조합으로 보드를 시원하게 지워 보세요.
 iframeSrc: 'https://kittymatch.h5games.usercontent.goog/v/0fb0j00v75210/'
-thumbnail: /new-images/kitty-match.png
+thumbnail: /new-images/thumbnails/kitty-match.png
 tags:
   - puzzle
   - casual

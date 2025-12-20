@@ -7,7 +7,7 @@ description: >-
   plataforma en plataforma, evita las caídas al agua y encadena saltos
   perfectos.
 iframeSrc: 'https://lakejump.h5games.usercontent.goog/v/33bg3iluek1fg/'
-thumbnail: /new-images/lake-jump.png
+thumbnail: /new-images/thumbnails/lake-jump.png
 tags:
   - action
   - casual

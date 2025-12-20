@@ -3,7 +3,7 @@ locale: en
 title: Geometry Dash Wave Spam - Play Geometry Dash Online
 description: Forget the fluff. This isn
 iframeSrc: 'https://turbowarp.org/1185431027/embed'
-thumbnail: /geometry-dash.png
+thumbnail: /new-images/thumbnails/geometry-dash.png
 urlstr: geometry-dash
 score: 4.5/5  (604 votes)
 tags:

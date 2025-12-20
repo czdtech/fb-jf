@@ -5,7 +5,7 @@ description: >-
   Sprunki: Cool As Ice is a major innovation in the Incredibox family, and it
   brings a new perspective to music creation through its unique winter theme.
 iframeSrc: 'https://turbowarp.org/1114795409/embed'
-thumbnail: /sprunki-cool-as-ice.png
+thumbnail: /new-images/thumbnails/sprunki-cool-as-ice.png
 urlstr: sprunki-cool-as-ice
 modType: sprunki
 score: 4.2/5  (324 votes)

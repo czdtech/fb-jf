@@ -4,7 +4,7 @@ urlstr: bubble-tower
 title: Bubble Tower 3D
 description: "Bubble Tower 3D ajoute une tour en 3D au bubble shooter\_: fais tourner le cylindre, vise les bonnes couleurs et libère toutes les bulles avant qu'elles ne descendent trop bas."
 iframeSrc: 'https://bubbletower.h5games.usercontent.goog/v/7ebcukaef3voo/'
-thumbnail: /new-images/bubble-tower.png
+thumbnail: /new-images/thumbnails/bubble-tower.png
 tags:
   - puzzle
   - shooting

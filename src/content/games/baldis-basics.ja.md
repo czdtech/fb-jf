@@ -2,7 +2,7 @@
 title: "Baldi's Basics バルディ先生の教育実習"
 description: "「Baldi's Basics」の完全攻略ガイド。バルディ先生から逃げ切り、ノートを集め、この恐怖の学校から脱出するための戦略、アイテムの使い方、キャラクター対策を解説。"
 iframeSrc: "https://html5.iclouds.io/baldis-basics/index.html"
-thumbnail: "/new-images/baldis-basics.jpg"
+thumbnail: /new-images/thumbnails/baldis-basics.jpg
 urlstr: "baldis-basics"
 score: "4.5/5  (781 votes)"
 tags: ["puzzle", "horror"]

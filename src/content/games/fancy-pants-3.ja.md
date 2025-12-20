@@ -3,7 +3,7 @@ title: Fancy Pants 3 ファンシーパンツ3
 description: 「Fancy Pants 3」は勢いプラットフォーマーの第3弾。より大きなステージ、より多くの秘密、洗練された壁走りとスライドで手描き世界を駆け抜けろ。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210305/jj10/index.html
-thumbnail: /new-images/fancy-pants-3.jpg
+thumbnail: /new-images/thumbnails/fancy-pants-3.jpg
 urlstr: fancy-pants-3
 score: 4.3/5  (1419 votes)
 tags:

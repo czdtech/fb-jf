@@ -5,7 +5,7 @@ description: >-
   Foosball Cup World brings fast table‑soccer — angle shots, time spins, and
   defend smartly across tight matches.
 iframeSrc: 'https://7ak26cf4bf850.h5games.usercontent.goog/v/6jmmp78dbnp50/'
-thumbnail: /new-images/foosball-cup-world.png
+thumbnail: /new-images/thumbnails/foosball-cup-world.png
 urlstr: foosball-cup-world
 score: 4.0/5  (1852 votes)
 tags:

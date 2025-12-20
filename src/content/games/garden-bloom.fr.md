@@ -7,7 +7,7 @@ description: >-
   match‑3, gagne des étoiles et choisis de jolies décorations pour créer le
   jardin de tes rêves.
 iframeSrc: 'https://gardenbloom.h5games.usercontent.goog/v/03uqf2ceev9h8/'
-thumbnail: /new-images/garden-bloom.png
+thumbnail: /new-images/thumbnails/garden-bloom.png
 tags:
   - puzzle
   - casual

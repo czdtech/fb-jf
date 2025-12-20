@@ -6,7 +6,7 @@ description: >-
   Timber Guy es un arcade de reflejos y cortes: tala el árbol, esquiva ramas y
   encadena hachazos al ritmo adecuado.
 iframeSrc: 'https://timberguy.h5games.usercontent.goog/v/2ke6osh59ras0/'
-thumbnail: /new-images/timber-guy.png
+thumbnail: /new-images/thumbnails/timber-guy.png
 tags:
   - action
   - casual

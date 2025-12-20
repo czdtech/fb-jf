@@ -8,7 +8,7 @@ description: >-
   Pellets, wachse zur längsten Schlange heran und nutze Speed-Boosts clever, um
   die Arena zu dominieren.
 iframeSrc: 'https://snake.io/crazygames/'
-thumbnail: /new-images/snake-io.jpg
+thumbnail: /new-images/thumbnails/snake-io.jpg
 tags:
   - io-games
   - snake

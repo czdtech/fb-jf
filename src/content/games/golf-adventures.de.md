@@ -7,7 +7,7 @@ description: >-
   überwinde kreative Hindernisse und versenke ihn mit möglichst wenigen
   Schlägen im Loch.
 iframeSrc: 'https://golfadventures.h5games.usercontent.goog/v/2er1vod6k6p0o/'
-thumbnail: /new-images/golf-adventures.png
+thumbnail: /new-images/thumbnails/golf-adventures.png
 tags:
   - sports
   - puzzle

@@ -4,7 +4,7 @@ urlstr: poly-art
 title: Poly Art
 description: "Poly Art est un puzzle 3D relaxant\_: fais tourner un nuage de polygones colorés jusqu'à ce qu'il s'aligne et révèle une image complète."
 iframeSrc: 'https://polyart.h5games.usercontent.goog/v/47aiosp2dbqgg/'
-thumbnail: /new-images/poly-art.png
+thumbnail: /new-images/thumbnails/poly-art.png
 tags:
   - puzzle
   - thinky

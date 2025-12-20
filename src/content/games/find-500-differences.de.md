@@ -6,7 +6,7 @@ description: >-
   Teste deinen Blick fürs Detail mit Find 500 Differences. Vergleiche zwei fast
   identische Bilder und finde alle versteckten Unterschiede.
 iframeSrc: 'https://find500differences2.h5games.usercontent.goog/v/4gu2tobroroug/'
-thumbnail: /new-images/find-500-differences.png
+thumbnail: /new-images/thumbnails/find-500-differences.png
 tags:
   - puzzle
   - casual

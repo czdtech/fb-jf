@@ -5,7 +5,7 @@ title: "《Ragdoll Archers》布偶射箭对决"
 description: >-
   《Ragdoll Archers》是一款基于真实物理的箭术对战游戏。你要操控摇摇晃晃的布偶弓箭手，用弓箭射倒对手，夸张的 ragdoll 物理效果让每一箭都充满变数和笑点。
 iframeSrc: 'https://bitlifeonline.github.io/ragdoll-archers/'
-thumbnail: /new-images/ragdoll-archers.jpg
+thumbnail: /new-images/thumbnails/ragdoll-archers.jpg
 tags:
   - physics
   - archery

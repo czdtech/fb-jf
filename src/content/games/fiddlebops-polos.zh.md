@@ -4,7 +4,7 @@ urlstr: fiddlebops-polos
 title: "Fiddlebops Polos - 在线玩 Fiddlebops Polos"
 description: "Fiddlebops Polos 是一款创意音乐游戏，玩家可以创作曲目、探索互动故事，并与充满活力的社区互动，完全免费在线游玩。"
 iframeSrc: 'https://turbowarp.org/1149630445/embed'
-thumbnail: /fiddlebops-polos.png
+thumbnail: /new-images/thumbnails/fiddlebops-polos.png
 tags:
   - fiddlebops polos
 score: 4.6/5 (217 票)

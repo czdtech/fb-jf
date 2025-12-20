@@ -7,7 +7,7 @@ description: >-
   你要操控一个红色方块，在布满移动蓝色圆点的关卡中穿梭，
   用极其精准的走位与惊人的耐心，躲避一切障碍抵达终点。
 iframeSrc: 'https://ad-freegames.github.io/flash/game/the-worlds-hardest-game.html'
-thumbnail: /new-images/worlds-hardest-game.jpg
+thumbnail: /new-images/thumbnails/worlds-hardest-game.jpg
 tags:
   - difficulty
   - arcade

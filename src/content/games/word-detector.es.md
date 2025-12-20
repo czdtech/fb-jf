@@ -7,7 +7,7 @@ description: >-
   ocultas en una cuadrícula de letras, conectando fichas en cualquier dirección
   antes de que se agote el tiempo.
 iframeSrc: 'https://worddetector.h5games.usercontent.goog/v/4gaf9ej9hp398/'
-thumbnail: /new-images/word-detector.png
+thumbnail: /new-images/thumbnails/word-detector.png
 tags:
   - puzzle
   - thinky

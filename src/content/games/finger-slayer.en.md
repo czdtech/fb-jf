@@ -3,7 +3,7 @@ locale: en
 title: "Finger Slayer"
 description: "Finger Slayer tests raw reaction — pull back at the last millisecond to dodge a closing blade without flinching early."
 iframeSrc: "https://7ftsta5r737o8.h5games.usercontent.goog/v/3m7r2si8ppdlg/"
-thumbnail: "/new-images/finger-slayer.jpg"
+thumbnail: /new-images/thumbnails/finger-slayer.jpg
 urlstr: "finger-slayer"
 score: "3.8/5  (1690 votes)"
 tags: ["action", "casual"]

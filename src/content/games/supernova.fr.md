@@ -7,7 +7,7 @@ description: >-
   menaces et survive le plus longtemps possible dans ce shooter spatial
   arcade.
 iframeSrc: 'https://rebemanae.github.io/supernova/'
-thumbnail: /new-images/supernova.jpg
+thumbnail: /new-images/thumbnails/supernova.jpg
 tags:
   - action
   - shooting

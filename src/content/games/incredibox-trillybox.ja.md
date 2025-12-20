@@ -2,7 +2,7 @@
 title: "Incredibox Trillybox"
 description: "トラップミュージックに捧げられたファン作成モッド『Incredibox Trillybox』を探索しましょう。このガイドでは、808を多用したサウンドパレット、強力なビートを作成するためのゲームプレイ、モダンなテーマ別ボーナスのアンロック方法を詳しく説明します。"
 iframeSrc: "https://turbowarp.org/907049948/embed"
-thumbnail: "/new-images/incredibox-trillybox.png"
+thumbnail: /new-images/thumbnails/incredibox-trillybox.png
 urlstr: "incredibox-trillybox"
 score: "4.5/5 (999 votes)"
 tags: ["music", "hip-Hop", "rhythm"]

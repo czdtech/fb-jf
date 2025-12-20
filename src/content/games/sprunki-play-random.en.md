@@ -6,7 +6,7 @@ description: >-
   like challenges and exploration, then Sprunki Play Random is definitely for
   you!
 iframeSrc: 'https://turbowarp.org/1148555262/embed'
-thumbnail: /sprunki-play-random.png
+thumbnail: /new-images/thumbnails/sprunki-play-random.png
 urlstr: sprunki-play-random
 modType: sprunki
 score: 4.5/5  (614 votes)

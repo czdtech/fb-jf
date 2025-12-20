@@ -7,7 +7,7 @@ description: >-
   zu, triff die Bestellungen exakt und manage deine Zeit, um aus deiner kleinen
   Pizzeria ein Pizza-Imperium zu machen.
 iframeSrc: 'https://pandapizzaparlor.h5games.usercontent.goog/v/16ldgoh3to3f8/'
-thumbnail: /new-images/panda-pizza-parlor.png
+thumbnail: /new-images/thumbnails/panda-pizza-parlor.png
 tags:
   - casual
   - action

@@ -4,7 +4,7 @@ urlstr: hole-io
 title: "《Hole io》城市黑洞大吞噬"
 description: "《Hole io》是一款城市吞噬类 .io 对战游戏，你操控一枚在街道中移动的黑洞，吞掉路上的物体不断长大，最终把车辆、建筑甚至其它玩家统统吸进去，比对手拿到更高得分或直接把他们淘汰出局。"
 iframeSrc: 'https://holeio.com/'
-thumbnail: /new-images/hole-io.jpg
+thumbnail: /new-images/thumbnails/hole-io.jpg
 tags:
   - io
   - arcade

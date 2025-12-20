@@ -3,7 +3,7 @@ locale: en
 title: "3D Free Kick"
 description: "3D Free Kick lets you bend it like a pro — aim the wall, curve the ball, and score stylish set‑pieces."
 iframeSrc: "https://78b0enfiv98go.h5games.usercontent.goog/v/00acsktd29tjg/"
-thumbnail: "/new-images/3d-free-kick.png"
+thumbnail: /new-images/thumbnails/3d-free-kick.png
 urlstr: "3d-free-kick"
 score: "4.1/5  (1866 votes)"
 tags: ["sports", "soccer"]

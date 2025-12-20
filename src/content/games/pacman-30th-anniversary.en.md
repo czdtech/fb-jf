@@ -4,7 +4,7 @@ locale: en
 title: "Pacman 30th Anniversary"
 description: "Pacman 30th Anniversary is a special edition of the iconic arcade game, celebrating three decades of maze-chasing fun. Players guide Pac-Man through a labyrinth, eating pellets and power-ups while avoiding ghosts, in this nostalgic and engaging classic."
 iframeSrc: "https://pacman-30thanniversary.com/game/doodle-pacman/pacman.html"
-thumbnail: "/new-images/pacman-30th-anniversary.jpg"
+thumbnail: /new-images/thumbnails/pacman-30th-anniversary.jpg
 urlstr: "pacman-30th-anniversary"
 score: "3.6/5  (745 votes)"
 tags: ["arcade", "classic", "celebration"]

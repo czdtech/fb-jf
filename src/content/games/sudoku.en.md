@@ -4,7 +4,7 @@ locale: en
 title: "Sudoku"
 description: "Sudoku is a classic number puzzle game where players fill a 9x9 grid with digits 1-9, ensuring each row, column, and 3x3 box contains all numbers exactly once in this challenging logic-based brain teaser."
 iframeSrc: "https://ams.cdn.arkadiumhosted.com/assets/global/game/html5-sudoku/"
-thumbnail: "/new-images/sudoku.jpg"
+thumbnail: /new-images/thumbnails/sudoku.jpg
 urlstr: "sudoku"
 score: "5.0/5  (1136 votes)"
 tags: ["puzzle", "logic", "numbers"]

@@ -4,7 +4,7 @@ locale: en
 title: "Brain Test 3: Tricky Quests"
 description: "Here's your chance to play Brain Test 3: Tricky Quests Game. Have fun with this one!"
 iframeSrc: "https://bitlifeonline.github.io/brain-test-3-tricky-quests/"
-thumbnail: "/new-images/3-tricky-quests.jpg"
+thumbnail: /new-images/thumbnails/3-tricky-quests.jpg
 urlstr: "3-tricky-quests"
 score: "3.6/5  (787 votes)"
 tags: ["casual", "rhythm"]

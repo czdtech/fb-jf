@@ -3,7 +3,7 @@ locale: en
 title: "Om Nom: Run"
 description: "Join Om Nom and Om Nelle in a fast-paced endless runner! Dash through the streets, dodge obstacles, collect coins, and use awesome power-ups to run as far as you can."
 iframeSrc: "https://omnomrun.h5games.usercontent.goog/v/38udj70raubl0/"
-thumbnail: "/new-images/om-nom-run.png"
+thumbnail: /new-images/thumbnails/om-nom-run.png
 urlstr: "om-nom-run"
 score: "4.5/5  (3400 votes)"
 tags: ["action", "casual"]

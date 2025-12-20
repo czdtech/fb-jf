@@ -2,7 +2,7 @@
 title: "Level Devil"
 description: "意地悪系プラットフォーマーです。床崩壊や突然のスパイク、偽出口などの罠を覚え、冷静に進むのがコツです。"
 iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp45/gamehwq/20231215/10/index.html"
-thumbnail: "/new-images/level-devil.jpg"
+thumbnail: /new-images/thumbnails/level-devil.jpg
 urlstr: "level-devil"
 score: "4.6/5  (350 votes)"
 tags: ["platformer", "puzzle"]

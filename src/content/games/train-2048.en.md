@@ -3,7 +3,7 @@ locale: en
 title: "Train 2048"
 description: "Combine and merge train cars in Train 2048, a clever twist on the classic 2048 puzzle. Strategically slide matching cars together to build a more advanced train and reach the ultimate 2048 car."
 iframeSrc: "https://train2048.h5games.usercontent.goog/v/efebc769-0d8d-48f4-b437-af712b013132/"
-thumbnail: "/new-images/train-2048.jpg"
+thumbnail: /new-images/thumbnails/train-2048.jpg
 urlstr: "train-2048"
 score: "4.1/5  (1120 votes)"
 tags: ["puzzle", "thinky", "casual"]

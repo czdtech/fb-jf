@@ -4,7 +4,7 @@ urlstr: scooter-xtreme
 title: 《Scooter Xtreme》极限滑板车竞速
 description: 《Scooter Xtreme》是一款街头风格的滑板车竞速游戏。骑上你的踏板车在城市赛道上加速、跳跃、躲避障碍，和对手比拼谁能率先冲过终点。
 iframeSrc: 'https://scooterxtreme.h5games.usercontent.goog/v/2v4on4n2o96uo/'
-thumbnail: /new-images/scooter-xtreme.png
+thumbnail: /new-images/thumbnails/scooter-xtreme.jpg
 tags:
   - racing
   - driving

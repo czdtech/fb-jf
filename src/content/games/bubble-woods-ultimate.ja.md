@@ -5,7 +5,7 @@ description: >-
   Ultimate」は60秒一本勝負の高速バブルシューター。魔法の森で可愛いリスと協力し、スペシャルバブルを駆使してハイスコアを叩き出せ。
 iframeSrc: >-
   https://bubblewoods.h5games.usercontent.goog/v/9b83b167-93e1-482a-874f-c4e9702209d8/
-thumbnail: /new-images/bubble-woods-ultimate.jpg
+thumbnail: /new-images/thumbnails/bubble-woods-ultimate.png
 urlstr: bubble-woods-ultimate
 score: 4.5/5  (2150 votes)
 tags:

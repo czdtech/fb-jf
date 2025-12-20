@@ -7,7 +7,7 @@ description: >-
   빠르게 이어지는 장애물 구간을 정확한 타이밍과 일정한 리듬으로 돌파해 보세요.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221121/2/index.html
-thumbnail: /new-images/g-switch-3.jpg
+thumbnail: /new-images/thumbnails/g-switch-3.jpg
 tags:
   - runner
   - platformer

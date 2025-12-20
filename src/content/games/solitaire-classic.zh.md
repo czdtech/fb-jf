@@ -6,7 +6,7 @@ description: >-
   《Solitaire Classic》（又名 Klondike）是一款经久不衰的单人纸牌接龙游戏。通过整理整副 52 张牌，将它们按花色分别从 A 排到
   K，全数移入基础牌堆即可获胜。
 iframeSrc: 'https://solitaireclassic.h5games.usercontent.goog/v/7sbt28mppqim8/'
-thumbnail: /new-images/solitaire-classic.png
+thumbnail: /new-images/thumbnails/solitaire-classic.png
 tags:
   - card
   - puzzle

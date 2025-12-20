@@ -2,7 +2,7 @@
 title: "Mini Golf World"
 description: "Mini Golf Worldはミニゴルフゲームです。コースの障害物を読み、少ないストロークでカップインを目指します。"
 iframeSrc: "https://minigolfworld.h5games.usercontent.goog/v/16n1ahfc60jgg/"
-thumbnail: "/new-images/mini-golf-world.png"
+thumbnail: /new-images/thumbnails/mini-golf-world.png
 urlstr: "mini-golf-world"
 score: "4.3/5  (2234 votes)"
 tags: ["casual", "sports"]

@@ -4,7 +4,7 @@ urlstr: age-of-war
 title: "Age of War"
 description: "Découvre Age of War, un jeu de stratégie où tu fais évoluer ton armée de l’âge de pierre au futur, construis des tourelles et détruis la base ennemie avant qu’elle ne rase la tienne."
 iframeSrc: "https://app-196716.games.s3.yandex.net/196716/h5h3xwa1kxsz7wcma59tvvmko0zorc80/index.html"
-thumbnail: /new-images/age-of-war.jpg
+thumbnail: /new-images/thumbnails/age-of-war.jpg
 tags:
   - strategy
   - action

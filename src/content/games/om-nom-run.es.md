@@ -7,7 +7,7 @@ description: >-
   calles, esquiva obstáculos, recoge monedas y usa potentes mejoras para llegar
   lo más lejos posible.
 iframeSrc: 'https://omnomrun.h5games.usercontent.goog/v/38udj70raubl0/'
-thumbnail: /new-images/om-nom-run.png
+thumbnail: /new-images/thumbnails/om-nom-run.png
 tags:
   - action
   - casual

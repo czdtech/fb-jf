@@ -6,7 +6,7 @@ description: >-
   《Cricket World Cup 板球世界杯击球挑战》将板球世界杯中的击球场景浓缩成一回合回合的
   挑战：你需要根据投球线路与场上布阵选择击球方式，在有限回合内完成追分目标。
 iframeSrc: 'https://5ret6v2c94q4g.h5games.usercontent.goog/v/09j66svc50570/'
-thumbnail: /new-images/cricket-world-cup.png
+thumbnail: /new-images/thumbnails/cricket-world-cup.png
 tags:
   - sports
   - casual

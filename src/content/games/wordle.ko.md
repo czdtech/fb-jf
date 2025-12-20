@@ -6,7 +6,7 @@ description: >-
   5글자 영어 단어를 6번 안에 맞히는 인기 일일 퍼즐 게임입니다. 추측한 단어에 따라 색으로 피드백을
   받아, 어떤 글자가 정답에 포함되는지와 위치를 추론해 나가는 중독성 강한 단어 게임입니다.
 iframeSrc: 'https://ext.minijuegos.com/wordle/'
-thumbnail: /new-images/wordle.jpg
+thumbnail: /new-images/thumbnails/wordle.jpg
 tags:
   - word
   - puzzle

@@ -4,7 +4,7 @@ locale: en
 title: "Rooftop Snipers"
 description: "Rooftop Snipers is the original physics-based shooting game where two pixel characters fight on rooftops, using simple controls to shoot and knock opponents off buildings with hilarious ragdoll physics."
 iframeSrc: "https://webglmath.github.io/rooftop-snipers/"
-thumbnail: "/new-images/rooftop-snipers.jpg"
+thumbnail: /new-images/thumbnails/rooftop-snipers.jpg
 urlstr: "rooftop-snipers"
 score: "3.8/5  (995 votes)"
 tags: ["shooting", "physics", "classic"]

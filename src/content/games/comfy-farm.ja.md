@@ -2,7 +2,7 @@
 title: "Comfy Farm コンフィ・ファーム"
 description: "「Comfy Farm」へようこそ！種をまき、水をやり、収穫して夢の農場を作ろう。害虫から作物を守り、設備を自動化して、最高の居心地（Comfy）を手に入れろ。"
 iframeSrc: "https://comfyfarm.h5games.usercontent.goog/v/73m7i3ndifhg0/"
-thumbnail: "/new-images/comfy-farm.png"
+thumbnail: /new-images/thumbnails/comfy-farm.png
 urlstr: "comfy-farm"
 score: "4.3/5  (2000 votes)"
 tags: ["casual", "strategy", "clicker"]

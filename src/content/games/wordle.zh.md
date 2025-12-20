@@ -7,7 +7,7 @@ description: >-
   你有最多六次机会猜出一个五字母英文单词，
   通过颜色提示推理出正确字母及其位置，是极简却高度上瘾的词汇挑战。
 iframeSrc: 'https://ext.minijuegos.com/wordle/'
-thumbnail: /new-images/wordle.jpg
+thumbnail: /new-images/thumbnails/wordle.jpg
 tags:
   - word
   - puzzle

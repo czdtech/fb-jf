@@ -7,7 +7,7 @@ description: >-
   Schlange, friss Futter, um länger zu werden, und vermeide Kollisionen mit
   Wänden oder deinem eigenen Körper, um den Highscore zu knacken.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/snake/'
-thumbnail: /new-images/snake-game.jpg
+thumbnail: /new-images/thumbnails/snake-game.jpg
 tags:
   - classic
   - arcade

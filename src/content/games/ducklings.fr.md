@@ -6,7 +6,7 @@ description: >-
   Ducklings est un jeu relax de collecte : sauve des canetons sur l’eau et
   ramène‑les en sécurité au nid.
 iframeSrc: 'https://g2.igroutka.ru/games/164/BkDlKfiWjEoZ2rcG/ducklings_io/'
-thumbnail: /new-images/ducklings.jpg
+thumbnail: /new-images/thumbnails/ducklings.jpg
 tags:
   - casual
   - arcade

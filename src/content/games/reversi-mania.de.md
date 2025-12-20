@@ -6,7 +6,7 @@ description: >-
   Reversi Mania bringt klassisches Othello in den Browser: Umzingele Steine,
   sichere dir die Ecken und gewinne mit cleverem Endspiel- und Paritätsspiel.
 iframeSrc: 'https://reversimania.h5games.usercontent.goog/v/7rhqf6sl8lpf0/'
-thumbnail: /new-images/reversi-mania.png
+thumbnail: /new-images/thumbnails/reversi-mania.png
 tags:
   - 2 player
   - thinky

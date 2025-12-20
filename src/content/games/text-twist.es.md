@@ -4,7 +4,7 @@ urlstr: text-twist
 title: "Text Twist - Puzle clásico de letras"
 description: "Pon a prueba tu vocabulario y tu rapidez mental en Text Twist, un clásico puzle de palabras. Reordena letras desordenadas para formar tantas palabras válidas como puedas dentro del tiempo límite. Encuentra la palabra Bingo que usa todas las letras y avanza mientras buscas la máxima puntuación."
 iframeSrc: "https://games.cdn.famobi.com/html5games/t/text-twist/v010/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=5b597140-77c2-4f7c-9abf-4f149d6dcbac&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=465&original_ref="
-thumbnail: "/new-images/text-twist.jpg"
+thumbnail: /new-images/thumbnails/text-twist.jpg
 tags:
   - word-game
   - puzzle

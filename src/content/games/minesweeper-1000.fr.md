@@ -4,7 +4,7 @@ urlstr: "minesweeper-1000"
 title: "Minesweeper 1000"
 description: "Minesweeper 1000 modernise le démineur classique : lis la logique des nombres, pose des drapeaux et nettoie d’immenses grilles avec des techniques efficaces."
 iframeSrc: "https://5gsana77eub30.h5games.usercontent.goog/v/7363vv8e5mrb8/"
-thumbnail: "/new-images/minesweeper-1000.png"
+thumbnail: /new-images/thumbnails/minesweeper-1000.png
 tags: ["puzzle", "thinky"]
 score: "4.3/5  (2107 votes)"
 developer: ""

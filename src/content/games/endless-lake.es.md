@@ -7,7 +7,7 @@ description: >-
   minimalista. Toca para saltar una vez o vuelve a tocar en el aire para hacer
   un doble salto y cruzar los traicioneros huecos del Endless Lake.
 iframeSrc: 'https://3llnkqqmic17g.h5games.usercontent.goog/v/0e8uaqritcs8o/'
-thumbnail: /new-images/endless-lake.png
+thumbnail: /new-images/thumbnails/endless-lake.png
 tags:
   - action
   - casual

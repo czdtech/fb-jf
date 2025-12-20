@@ -2,7 +2,7 @@
 title: Minesweeper
 description: クラシックなMinesweeperです。数字の手がかりから地雷を推理し、安全なマスをすべて開けます。
 iframeSrc: 'https://minesweeper.h5games.usercontent.goog/v/33ufbh64kv9s8/'
-thumbnail: /new-images/minesweeper.png
+thumbnail: /new-images/thumbnails/minesweeper.jpg
 urlstr: minesweeper
 score: 4.5/5  (2678 votes)
 tags:

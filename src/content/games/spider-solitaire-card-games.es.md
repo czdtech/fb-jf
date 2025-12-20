@@ -8,7 +8,7 @@ description: >-
   completas de cartas, de Rey a As. Con niveles de dificultad ajustables (1, 2 o
   4 palos), es un puzle estratégico para todo tipo de jugadores.
 iframeSrc: "https://ubg98.github.io/SpiderSolitaire/"
-thumbnail: "/new-images/spider-solitaire-card-games.jpg"
+thumbnail: /new-images/thumbnails/spider-solitaire-card-games.jpg
 tags:
   - card-game
   - puzzle

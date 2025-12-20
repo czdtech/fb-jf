@@ -2,7 +2,7 @@
 title: "Maze Puzzle"
 description: "Maze Puzzleは頭を使う迷路パズルです。ルートをたどり、行き止まりを避けながら、少ない移動で出口を目指します。"
 iframeSrc: "https://4ri9qgqe5p52o.h5games.usercontent.goog/v/5r3rcin1ovlog/"
-thumbnail: "/new-images/maze-puzzle.png"
+thumbnail: /new-images/thumbnails/maze-puzzle.png
 urlstr: "maze-puzzle"
 score: "4.0/5  (1756 votes)"
 tags: ["puzzle", "thinky"]

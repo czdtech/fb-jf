@@ -6,7 +6,7 @@ description: >-
   Sugar Heroes는 귀여운 디저트 캐릭터를 맞추어 없애는 매치-3 퍼즐 게임입니다. 줄을 맞춰 터뜨리고, 스페셜 조합으로 강력한 폭발을
   일으켜 스테이지 목표를 달성하세요.
 iframeSrc: 'https://sugarheroes.h5games.usercontent.goog/v/26o4l85f9rm2s/'
-thumbnail: /new-images/sugar-heroes.jpg
+thumbnail: /new-images/thumbnails/sugar-heroes.png
 tags:
   - match-3
   - puzzle

@@ -6,7 +6,7 @@ description: >-
   Retro Drift est un jeu de drift rétro en vue de dessus : dose l’accélérateur,
   gère tes angles et glisse proprement dans chaque virage.
 iframeSrc: 'https://retrodrift.h5games.usercontent.goog/v/3jr7fjtqu0j18/'
-thumbnail: /new-images/retro-drift.jpg
+thumbnail: /new-images/thumbnails/retro-drift.jpg
 tags:
   - car
   - driving

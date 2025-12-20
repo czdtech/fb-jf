@@ -4,7 +4,7 @@ urlstr: space-survivor
 title: 《Space Survivor》太空生存射击
 description: 《Space Survivor》是一款俯视角太空生存射击游戏。驾驶你的飞船在宇宙中躲避敌人攻击、收集升级道具，对抗一波波来袭的敌舰与陨石，尽可能活得更久。
 iframeSrc: 'https://spacesurvivor.h5games.usercontent.goog/v/6s5p6ou2ep2io/'
-thumbnail: /new-images/space-survivor.png
+thumbnail: /new-images/thumbnails/space-survivor.png
 tags:
   - shooting
   - survival

@@ -4,7 +4,7 @@ urlstr: fairyland
 title: "Fairyland"
 description: "Fairyland est une aventure de puzzle toute en douceur : explore des décors chaleureux, résous de petites énigmes et atteins tes objectifs à ton rythme."
 iframeSrc: 'https://66ts484uf5r18.h5games.usercontent.goog/v/1nt4ffhi7k9jo/'
-thumbnail: /new-images/fairyland.png
+thumbnail: /new-images/thumbnails/fairyland.png
 tags:
   - adventure
   - puzzle

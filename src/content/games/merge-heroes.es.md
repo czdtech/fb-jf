@@ -7,7 +7,7 @@ description: >-
   forjar un ejército poderoso, despliega tus tropas en el campo y defiende el
   reino de hordas de monstruos.
 iframeSrc: 'https://mergeheroes.h5games.usercontent.goog/v/7i7m361ib4vr8/'
-thumbnail: /new-images/merge-heroes.png
+thumbnail: /new-images/thumbnails/merge-heroes.png
 tags:
   - strategy
   - action

@@ -5,7 +5,7 @@ urlstr: "sprunki-but-with-memes"
 title: "Sprunki But With Memes - 在线玩 Sprunki But With Memes"
 description: "Sprunki but with memes 是一款让你在梗图海洋中尽情创作的音乐游戏。快来加入 Sprunki but with memes，用你独特的音乐才华点燃梗图狂潮！"
 iframeSrc: "https://kdata1.com/5000/2024/sprunki-retake-memes/"
-thumbnail: "/sprunki-but-with-memes.png"
+thumbnail: /new-images/thumbnails/sprunki-but-with-memes.png
 score: "4.2/5  (142 票)"
 tags: ["sprunki but with memes"]
 ---

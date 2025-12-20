@@ -2,7 +2,7 @@
 title: The Impossible Quiz
 description: The Impossible Quizは、トリッキーで面白いクイズゲームです。予想外の答えを見つけて難しい質問に挑戦しましょう。
 iframeSrc: 'https://ubg98.github.io/TheImpossibleQuiz/'
-thumbnail: /new-images/the-impossible-quiz.jpg
+thumbnail: /new-images/thumbnails/the-impossible-quiz.jpg
 urlstr: the-impossible-quiz
 score: 4.5/5  (4567 votes)
 tags:

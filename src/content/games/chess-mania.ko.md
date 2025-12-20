@@ -6,7 +6,7 @@ description: >-
   Chess Mania는 모든 수준의 플레이어를 위한 체스 플랫폼입니다. AI와 대국하거나 퍼즐을 풀며 새로운 전술과 오프닝을 시험하고, 점점
   더 높은 수준의 체크메이트를 노려 보세요.
 iframeSrc: 'https://chessmania.h5games.usercontent.goog/v/3if0hd2c47oo8/'
-thumbnail: /new-images/chess-mania.png
+thumbnail: /new-images/thumbnails/chess-mania.png
 tags:
   - thinky
   - 2 player

@@ -6,7 +6,7 @@ description: >-
   Un puzle numérico desafiante. Toca grupos de números iguales y adyacentes para
   fusionarlos en un número superior. ¿Podrás llegar al 10 y seguir más allá?
 iframeSrc: 'https://4oljglvsib9no.h5games.usercontent.goog/v/4nttt72qlep8o/'
-thumbnail: /new-images/get-10-ultimate.png
+thumbnail: /new-images/thumbnails/get-10-ultimate.png
 tags:
   - puzzle
   - thinky

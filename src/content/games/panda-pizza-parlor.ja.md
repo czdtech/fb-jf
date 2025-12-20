@@ -2,7 +2,7 @@
 title: Panda Pizza Parlor
 description: Panda Pizza Parlorはレストラン管理ゲームです。注文に合わせてピザを作り、素早く提供して店を拡大します。
 iframeSrc: 'https://pandapizzaparlor.h5games.usercontent.goog/v/2j9k5m8h7p3n8/'
-thumbnail: /new-images/panda-pizza-parlor.png
+thumbnail: /new-images/thumbnails/panda-pizza-parlor.png
 urlstr: panda-pizza-parlor
 score: 4.1/5  (1823 votes)
 tags:

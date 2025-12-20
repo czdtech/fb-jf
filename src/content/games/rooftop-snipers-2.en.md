@@ -4,7 +4,7 @@ locale: en
 title: "Rooftop Snipers 2"
 description: "Rooftop Snipers 2 is a hilarious physics-based shooting game where two stick figures battle on rooftops, trying to knock each other off using various weapons with unpredictable ragdoll physics."
 iframeSrc: "https://rebemanae.github.io/rooftop-snipers-2/"
-thumbnail: "/new-images/rooftop-snipers-2.jpg"
+thumbnail: /new-images/thumbnails/rooftop-snipers-2.jpg
 urlstr: "rooftop-snipers-2"
 score: "4.1/5  (546 votes)"
 tags: ["shooting", "physics", "multiplayer"]

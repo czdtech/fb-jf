@@ -6,7 +6,7 @@ description: >-
   Daily Crossword te ofrece un crucigrama nuevo cada día: resuelve las pistas
   en horizontal y vertical para rellenar la cuadrícula.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/daily-crossword/'
-thumbnail: /new-images/daily-crossword.jpg
+thumbnail: /new-images/thumbnails/daily-crossword.jpg
 tags:
   - word
   - puzzle

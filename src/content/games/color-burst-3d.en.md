@@ -3,7 +3,7 @@ locale: en
 title: "Color Burst 3D"
 description: "Master the fast-paced arcade game, Color Burst 3D. This guide provides expert strategies for timing your moves, matching the ball's color to the rotating rings, and surviving to achieve a high score."
 iframeSrc: "https://colorburst3d.h5games.usercontent.goog/v/3l27vlnq6dvto/"
-thumbnail: "/new-images/color-burst-3d.jpeg"
+thumbnail: /new-images/thumbnails/color-burst-3d.jpeg
 urlstr: "color-burst-3d"
 score: "3.8/5  (1487 votes)"
 tags: ["action", "casual"]

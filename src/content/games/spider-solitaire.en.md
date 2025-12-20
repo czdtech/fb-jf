@@ -4,7 +4,7 @@ locale: en
 title: "Spider Solitaire"
 description: "Play Spider Solitaire, a challenging and rewarding card game. Your goal is to build eight descending sequences of cards by suit, from King to Ace. Clear the tableau to win in this strategic puzzle that tests your planning and foresight."
 iframeSrc: "https://www.squidbyte.com/games_third/spider/en/spider-solitaire-halloween/"
-thumbnail: "/new-images/spider-solitaire.jpg"
+thumbnail: /new-images/thumbnails/spider-solitaire.jpg
 urlstr: "spider-solitaire"
 score: "4.8/5  (331 votes)"
 tags: ["card-game", "puzzle", "strategy"]

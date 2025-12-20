@@ -2,7 +2,7 @@
 title: Crazy Balls クレイジーボールズ
 description: 「Crazy Balls」は物理演算アーケードパズル。跳ね返りやバンパーを利用し、正確なショットで障害物の迷路を突破せよ。
 iframeSrc: 'https://05hi0oufvrcro.h5games.usercontent.goog/v/0qeok5765gar8/'
-thumbnail: /new-images/crazy-balls.png
+thumbnail: /new-images/thumbnails/crazy-balls.png
 urlstr: crazy-balls
 score: 3.8/5  (1617 votes)
 tags:

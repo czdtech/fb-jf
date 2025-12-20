@@ -4,7 +4,7 @@ urlstr: tropical-merge
 title: 《Tropical Merge》热带合成小岛
 description: 《Tropical Merge》是一款岛屿建设+合成玩法的休闲游戏。通过拖动合并相同物品，解锁更高阶建筑与资源，逐步修复和发展热带小岛。
 iframeSrc: 'https://tropicalmerge.h5games.usercontent.goog/v/3h7d2n9c1b5k0/'
-thumbnail: /new-images/tropical-merge.jpg
+thumbnail: /new-images/thumbnails/tropical-merge.png
 tags:
   - merge
   - building

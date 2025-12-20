@@ -4,7 +4,7 @@ urlstr: big-shark
 title: "Big Shark"
 description: "Big Shark est un jeu d’action/survie aquatique : mange les poissons plus petits, grossis, évite les mines et les requins géants, et deviens le prédateur ultime de l’océan."
 iframeSrc: "https://g2.igroutka.ru/lib/crazy/games/big-shark/"
-thumbnail: /new-images/big-shark.jpg
+thumbnail: /new-images/thumbnails/big-shark.jpg
 tags:
   - casual
   - action

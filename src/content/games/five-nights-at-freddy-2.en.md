@@ -4,7 +4,7 @@ locale: en
 title: "Five Nights at Freddy's 2 (FNAF 2)"
 description: "Mask and music‑box management: track multiple animatronics, wind the Puppet’s box, use the flashlight, and don the Freddy mask at the right moment to survive." 
 iframeSrc: "https://ubg77.github.io/fix/fnaf2/"
-thumbnail: "/new-images/five-nights-at-freddy-2.jpg"
+thumbnail: /new-images/thumbnails/five-nights-at-freddy-2.jpg
 urlstr: "five-nights-at-freddy-2"
 score: "3.7/5  (697 votes)"
 tags: ["horror", "strategy"]

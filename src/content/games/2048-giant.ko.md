@@ -6,7 +6,7 @@ description: >-
   넓은 보드에서 고전 2048 퍼즐을 즐길 수 있는 버전입니다. 숫자 타일을 합쳐
   2048을 만들고, 커진 공간에서 더 높은 점수를 노려 보세요.
 iframeSrc: https://2048giant.h5games.usercontent.goog/v/4bea87e2-a9a9-4f4b-b1c8-8b777220c567/
-thumbnail: /new-images/2048-giant.jpg
+thumbnail: /new-images/thumbnails/2048-giant.jpg
 tags:
   - puzzle
   - thinky

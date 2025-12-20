@@ -2,7 +2,7 @@
 title: Ovo
 description: Ovoはミニマリストなプラットフォーマーです。ジャンプやスライドで障害物を避け、正確な移動でステージを進みます。
 iframeSrc: 'https://ovo.h5games.usercontent.goog/v/5k9j2m8h7p3n8/'
-thumbnail: /new-images/ovo.png
+thumbnail: /new-images/thumbnails/ovo.jpg
 urlstr: ovo
 score: 4.4/5  (2789 votes)
 tags:

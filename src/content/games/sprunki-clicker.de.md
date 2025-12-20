@@ -4,7 +4,7 @@ urlstr: sprunki-clicker
 title: "Sprunki Clicker - Sprunki Clicker online spielen"
 description: "In Sprunki Clicker begibst du dich auf ein magisches Musikabenteuer, bei dem jeder Klick neue Klänge, Figuren und Effekte freischaltet – bis aus einfachen Tönen eine wachsende Klangwelt entsteht."
 iframeSrc: 'https://1games.io/game/sprunki-clicker/'
-thumbnail: /sprunki-clicker.png
+thumbnail: /new-images/thumbnails/sprunki-clicker.png
 tags:
   - sprunki clicker
 score: 4.7/5  (524 votes)

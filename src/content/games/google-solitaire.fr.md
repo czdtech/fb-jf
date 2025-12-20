@@ -7,7 +7,7 @@ description: >-
   fondations par couleur de l'As au Roi, en utilisant des colonnes qui alternent
   les couleurs.
 iframeSrc: 'https://www.google.com/logos/fnbx/solitaire/standalone.html'
-thumbnail: /new-images/google-solitaire.jpg
+thumbnail: /new-images/thumbnails/google-solitaire.jpg
 tags:
   - solitaire
   - card

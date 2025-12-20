@@ -3,7 +3,7 @@ locale: en
 title: "Mahjong Match Puzzle"
 description: "Mahjong Match Puzzle blends solitaire and connect rules — match open tiles, manage layers, and clear boards efficiently."
 iframeSrc: "https://5jdtfmidv5ao0.h5games.usercontent.goog/v/1qd7nn7jmar7g/"
-thumbnail: "/new-images/mahjong-match-puzzle.png"
+thumbnail: /new-images/thumbnails/mahjong-match-puzzle.png
 urlstr: "mahjong-match-puzzle"
 score: "4.1/5  (1981 votes)"
 tags: ["mahjong", "puzzle"]

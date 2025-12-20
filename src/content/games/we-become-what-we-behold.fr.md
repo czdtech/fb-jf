@@ -7,7 +7,7 @@ description: >-
   sensationnalisme. Capture des événements avec ta caméra et observe les
   conséquences sur la société.
 iframeSrc: 'https://html5.iclouds.io/we-become-behold/index.html'
-thumbnail: /new-images/we-become-what-we-behold.jpg
+thumbnail: /new-images/thumbnails/we-become-what-we-behold.jpg
 tags:
   - satire
   - social-commentary

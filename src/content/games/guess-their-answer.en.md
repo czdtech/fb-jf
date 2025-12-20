@@ -5,7 +5,7 @@ description: >-
   Guess Their Answer is a quick survey showdown — think like the crowd, list top
   answers, and outscore opponents with broad coverage.
 iframeSrc: 'https://0s1do8fmhrn9g.h5games.usercontent.goog/v/08gmb663j6g78/'
-thumbnail: /new-images/guess-their-answer.png
+thumbnail: /new-images/thumbnails/guess-their-answer.png
 urlstr: guess-their-answer
 score: 4.0/5  (1878 votes)
 tags:

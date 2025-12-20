@@ -7,7 +7,7 @@ description: >-
   experiencia de creación musical en una aventura inquietante, con personajes
   parasitados y paisajes sonoros llenos de glitches y terror.
 iframeSrc: 'https://kdata1.com/2025/03/paraSprunki-update-15-0-part-222/'
-thumbnail: /sprunki-parasite-parasprunki-15.png
+thumbnail: /new-images/thumbnails/sprunki-parasite-parasprunki-15.png
 tags:
   - incredibox sprunksters
 score: 4.3/5  (372 votes)

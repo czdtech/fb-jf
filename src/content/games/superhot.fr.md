@@ -7,7 +7,7 @@ description: >-
   lorsque tu bouges, transformant chaque affrontement en puzzle stratégique au
   ralenti.
 iframeSrc: 'https://superhotgame.com/superhot-prototype-iframe'
-thumbnail: /new-images/superhot.jpg
+thumbnail: /new-images/thumbnails/superhot.jpg
 tags:
   - shooting
   - strategy

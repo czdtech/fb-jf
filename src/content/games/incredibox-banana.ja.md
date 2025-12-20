@@ -2,7 +2,7 @@
 title: "Incredibox Banana"
 description: "ファンメイドの「Incredibox Banana」Modを探索しましょう。このガイドでは、人気のVRゲームにインスパイアされたジャングルとミームのテーマ、ユニークなサウンドパレット、独自のモンキーミックスを作成するためのヒントを詳しく説明します。"
 iframeSrc: "https://turbowarp.org/1108699828/embed"
-thumbnail: "/new-images/incredibox-banana.png"
+thumbnail: /new-images/thumbnails/incredibox-banana.png
 urlstr: "incredibox-banana"
 score: "4.4/5 (678 votes)"
 tags: ["music", "rhythm"]

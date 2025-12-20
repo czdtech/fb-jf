@@ -7,7 +7,7 @@ description: >-
   Markierungen, reihe perfekte Treffer aneinander und öffne immer kniffligere
   Schlösser.
 iframeSrc: 'https://17ul52pgrglf0.h5games.usercontent.goog/v/5b4f1rj0on970/'
-thumbnail: /new-images/pick-a-lock.jpg
+thumbnail: /new-images/thumbnails/pick-a-lock.jpg
 tags:
   - puzzle
   - thinky

@@ -5,7 +5,7 @@ description: >-
   Crossy Road is an 8-bit endless arcade hopper game in which your mission is to
   control the chicken and cross the roads, rivers, and railroads safely.
 iframeSrc: 'https://www.playfiddlebops.com/embed/crossyroad/index.html'
-thumbnail: /crossy-road.jpg
+thumbnail: /new-images/thumbnails/crossyroad.jpg
 urlstr: crossyroad
 score: 4.8/5  (1104 votes)
 tags:

@@ -6,7 +6,7 @@ description: >-
   in the festive atmosphere. Come to the world of Sprunki Christmas and light up
   your Christmas with vibrant music!
 iframeSrc: 'https://turbowarp.org/1104040581/embed'
-thumbnail: /sprunki-christmas.png
+thumbnail: /new-images/thumbnails/sprunki-christmas.png
 urlstr: sprunki-christmas
 modType: sprunki
 score: 4.6/5  (486 votes)

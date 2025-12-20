@@ -4,7 +4,7 @@ urlstr: stickman-fighter-mega
 title: "Stickman Fighter Mega"
 description: "Stickman Fighter Mega ist ein seitlicher Prügler mit Fokus auf Kontertiming und Abstand: Paraden, Kombos und Spezialangriffe räumen ganze Gegnerwellen ab, wenn du sie sauber setzt." 
 iframeSrc: 'https://0f2fr1ttejsng.h5games.usercontent.goog/v/6dfsqbbtglo48/'
-thumbnail: /new-images/stickman-fighter-mega.jpg
+thumbnail: /new-images/thumbnails/stickman-fighter-mega.jpg
 tags:
   - stickman
   - action

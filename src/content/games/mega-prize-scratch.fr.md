@@ -4,7 +4,7 @@ urlstr: "mega-prize-scratch"
 title: "Mega Prize Scratch"
 description: "Mega Prize Scratch est un jeu de grattage détente : révèle les cases, aligne les symboles et fixe des limites de session pour garder l’expérience amusante."
 iframeSrc: "https://3a38lqtqled1o.h5games.usercontent.goog/v/37llbljplv5v0/"
-thumbnail: "/new-images/mega-prize-scratch.png"
+thumbnail: /new-images/thumbnails/mega-prize-scratch.png
 tags: ["casual"]
 score: "3.6/5  (1538 votes)"
 developer: ""

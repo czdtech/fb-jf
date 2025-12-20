@@ -7,7 +7,7 @@ description: >-
   공과 포탑을 구매해 자동 공격을 늘리고, 프레스티지로 배수를 쌓아 다음
   플레이를 더 빠르게 진행하세요.
 iframeSrc: 'https://ubg98.github.io/IdleBreakout/'
-thumbnail: /new-images/idle-breakout.jpg
+thumbnail: /new-images/thumbnails/idle-breakout.jpg
 tags:
   - idle
   - clicker

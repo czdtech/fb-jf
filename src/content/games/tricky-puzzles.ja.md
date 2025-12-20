@@ -2,7 +2,7 @@
 title: Tricky Puzzles
 description: Tricky Puzzlesは、トリッキーなパズルゲームです。創造的思考で難しいパズルを解きましょう。
 iframeSrc: 'https://ubg98.github.io/TrickyPuzzles/'
-thumbnail: /new-images/tricky-puzzles.jpg
+thumbnail: /new-images/thumbnails/tricky-puzzles.jpg
 urlstr: tricky-puzzles
 score: 4.3/5  (2234 votes)
 tags:

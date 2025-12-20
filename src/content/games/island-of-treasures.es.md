@@ -7,7 +7,7 @@ description: >-
   Recolecta joyas relucientes, esquiva trampas mortales y supera a piratas
   rivales para convertirte en el bucanero más rico de la isla maldita.
 iframeSrc: 'https://5kvkrsasec6l8.h5games.usercontent.goog/v/7kfn10n6josho/'
-thumbnail: /new-images/island-of-treasures.png
+thumbnail: /new-images/thumbnails/island-of-treasures.png
 tags:
   - action
   - adventure

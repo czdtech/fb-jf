@@ -2,7 +2,7 @@
 title: Tile Guru
 description: Tile Guruは、タイルマッチングパズルゲームです。同じタイルを3つ揃えて消しましょう。
 iframeSrc: 'https://ubg98.github.io/TileGuru/'
-thumbnail: /new-images/tile-guru.jpg
+thumbnail: /new-images/thumbnails/tile-guru.png
 urlstr: tile-guru
 score: 4.4/5  (2567 votes)
 tags:

@@ -4,7 +4,7 @@ urlstr: bad-time-simulator
 title: "Bad Time Simulator"
 description: "Bad Time Simulator est un fangame qui recrée le combat contre Sans d’Undertale : un bullet‑hell extrêmement difficile où seule comptent la survie, la mémorisation et la précision."
 iframeSrc: "https://gotoanddie.github.io/c2-sans-fight/"
-thumbnail: /new-images/bad-time-simulator.jpg
+thumbnail: /new-images/thumbnails/bad-time-simulator.jpg
 tags:
   - casual
   - rhythm

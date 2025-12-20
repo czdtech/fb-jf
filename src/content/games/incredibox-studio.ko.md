@@ -6,7 +6,7 @@ description: >-
   원작 Incredibox에서 영감을 받아 Scratch와 TurboWarp로 만든 팬메이드 프로젝트 'Incredibox Studio'
   가이드입니다. 다양한 사운드를 자유롭게 섞는 샌드박스식 플레이 방법을 소개합니다.
 iframeSrc: 'https://turbowarp.org/1013575298/embed'
-thumbnail: /new-images/incredibox-studio.png
+thumbnail: /new-images/thumbnails/incredibox-studio.png
 tags:
   - music
   - sandbox

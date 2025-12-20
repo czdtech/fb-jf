@@ -6,7 +6,7 @@ description: >-
   Ludo Kart es un juego de mesa ligero de tirar dados y correr: lanza, mueve
   tus fichas y sé el primero en llevarlas a casa.
 iframeSrc: 'https://35q41h2gp6dd8.h5games.usercontent.goog/v/6q7tggnmscsj8/'
-thumbnail: /new-images/ludo-kart.png
+thumbnail: /new-images/thumbnails/ludo-kart.png
 tags:
   - casual
   - thinky

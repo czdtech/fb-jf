@@ -6,7 +6,7 @@ description: >-
   기괴하고 실험적인 사운드를 전면에 내세운 팬메이드 모드 'Incredibox Melophobia' 가이드입니다. 칩튠·레트로 샘플·노이즈가
   섞인 독특한 사운드 팔레트와 플레이 팁, 보너스 해금 방법을 다룹니다.
 iframeSrc: 'https://turbowarp.org/1110167821/embed'
-thumbnail: /new-images/incredibox-melophobia.png
+thumbnail: /new-images/thumbnails/incredibox-melophobia.png
 tags:
   - music
   - rhythm

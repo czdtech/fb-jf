@@ -8,7 +8,7 @@ description: >-
   und Paraden richtig und kämpfe dich in verschiedenen Arenen immer weiter nach
   oben.
 iframeSrc: 'https://m.igroutka.ru/g-1/113/Gladihoppers/'
-thumbnail: /new-images/gladihoppers.jpg
+thumbnail: /new-images/thumbnails/gladihoppers.jpg
 tags:
   - fighting
   - action

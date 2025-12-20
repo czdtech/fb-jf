@@ -7,7 +7,7 @@ description: >-
   thème médiéval : construis tes piles de l'As au Roi et vide le tableau dans ce
   puzzle stratégique.
 iframeSrc: 'https://7se96a0j4qu80.h5games.usercontent.goog/v/1iv1d4soimc78/'
-thumbnail: /new-images/medieval-solitaire.png
+thumbnail: /new-images/thumbnails/medieval-solitaire.png
 tags:
   - card
   - puzzle

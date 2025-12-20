@@ -4,7 +4,7 @@ locale: en
 title: "Moto X3M"
 description: "Moto X3M is an exciting and challenging online motorcycle racing game where players perform daring stunts and navigate through treacherous tracks filled with obstacles, ramps, and explosions."
 iframeSrc: "https://webglmath.github.io/moto-x3m/"
-thumbnail: "/new-images/moto-x3m.jpg"
+thumbnail: /new-images/thumbnails/moto-x3m.jpg
 urlstr: "moto-x3m"
 score: "3.5/5  (666 votes)"
 tags: ["racing", "stunt", "platformer"]

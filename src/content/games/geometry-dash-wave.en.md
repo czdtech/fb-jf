@@ -4,7 +4,7 @@ locale: en
 title: "Geometry Dash Wave"
 description: "Master the rhythm and navigate treacherous levels in Geometry Dash Wave! Control a triangular icon that moves diagonally up or down with a single click. Time your taps perfectly to avoid obstacles and complete challenging courses in this addictive, music-synced platformer."
 iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp45/chenling/20231205/04/index.html"
-thumbnail: "/new-images/geometry-dash-wave.jpg"
+thumbnail: /new-images/thumbnails/geometry-dash-wave.jpg
 urlstr: "geometry-dash-wave"
 score: "4.8/5  (537 votes)"
 tags: ["rhythm", "platformer", "arcade"]

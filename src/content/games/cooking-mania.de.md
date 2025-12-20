@@ -7,7 +7,7 @@ description: >-
   Bestellungen, baue Kombos auf und rüste deine Küche auf, um Gäste glücklich
   zu machen.
 iframeSrc: 'https://626dr588t6g9g.h5games.usercontent.goog/v/76eqgdom1qfbg/'
-thumbnail: /new-images/cooking-mania.jpg
+thumbnail: /new-images/thumbnails/cooking-mania.jpg
 tags:
   - casual
   - thinky

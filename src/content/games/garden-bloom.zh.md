@@ -6,7 +6,7 @@ description: >-
   在 Garden Bloom 中修復一座被荒廢的花園！完成具有挑戰性的三消關卡來獲得星星，
   再用它們解鎖任務與裝飾，打造你心目中的夢想花園。
 iframeSrc: 'https://gardenbloom.h5games.usercontent.goog/v/03uqf2ceev9h8/'
-thumbnail: /new-images/garden-bloom.png
+thumbnail: /new-images/thumbnails/garden-bloom.png
 tags:
   - puzzle
   - casual

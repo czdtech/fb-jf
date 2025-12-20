@@ -6,7 +6,7 @@ description: >-
   Differences Find Quest es un buscador de diferencias detallado: compara
   escenas con calma, marca las discrepancias y usa las pistas con cabeza.
 iframeSrc: 'https://4rsldln0df32g.h5games.usercontent.goog/v/1hcmcbpl76s40/'
-thumbnail: /new-images/differences-find-quest.png
+thumbnail: /new-images/thumbnails/differences-find-quest.png
 tags:
   - puzzle
   - thinky

@@ -3,7 +3,7 @@ locale: en
 title: "Perfect Piano"
 description: "Test your rhythm and reflexes in Perfect Piano! Tap the falling notes as they reach the keyboard to play beautiful songs. Don't miss a single tile!"
 iframeSrc: "https://perfectpiano.h5games.usercontent.goog/v/48c3ch9soa7cg/"
-thumbnail: "/new-images/perfect-piano.png"
+thumbnail: /new-images/thumbnails/perfect-piano.png
 urlstr: "perfect-piano"
 score: "4.5/5  (2950 votes)"
 tags: ["action", "casual"]

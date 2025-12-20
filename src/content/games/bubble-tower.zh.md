@@ -4,7 +4,7 @@ urlstr: bubble-tower
 title: Bubble Tower 泡泡塔防
 description: 《Bubble Tower 泡泡塔防》将泡泡射击与塔防元素结合，你需要从塔底发射泡泡，阻止彩色泡泡队列一路向下压到 终点。
 iframeSrc: 'https://609rdgbn651oo.h5games.usercontent.goog/v/0beo414bd5d2g/'
-thumbnail: /new-images/bubble-tower.jpg
+thumbnail: /new-images/thumbnails/bubble-tower.png
 tags:
   - puzzle
   - casual

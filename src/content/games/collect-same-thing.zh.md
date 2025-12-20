@@ -6,7 +6,7 @@ description: >-
   《Collect Same Thing 同物配对消除》是一款画面整洁的配对消除游戏。你需要在有限空
   间里找出相同物品，将它们成对消除，合理规划出牌顺序和空间，才能顺利清空棋盘。
 iframeSrc: 'https://01cqom45rtuoo.h5games.usercontent.goog/v/6t1iulpqr6t5g/'
-thumbnail: /new-images/collect-same-thing.png
+thumbnail: /new-images/thumbnails/collect-same-thing.png
 tags:
   - puzzle
   - thinky

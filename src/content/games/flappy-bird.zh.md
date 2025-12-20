@@ -5,7 +5,7 @@ title: "Flappy Bird 像素小鳥"
 description: >-
   單點操作的無盡跑酷：點擊讓小鳥拍翅膀穿過水管縫隙，不碰到任何障礙就能持續累積分數。
 iframeSrc: 'https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/TAhlQLDa/index.html'
-thumbnail: /new-images/flappy-bird.jpg
+thumbnail: /new-images/thumbnails/flappy-bird.jpg
 tags:
   - arcade
   - endless-runner

@@ -6,7 +6,7 @@ description: >-
   《Bloons TD 气球塔防》系列是一条人气极高的塔防分支，你需要在路径旁布置并升级猴子防御塔，阻止不同能力的
   气球与飞艇突破防线，通过多塔协同与经济运营完成高难度地图与模式。
 iframeSrc: 'https://ad-freegames.github.io/flash/game/bloons-tower-defense.html'
-thumbnail: /new-images/bloons-td.jpg
+thumbnail: /new-images/thumbnails/bloons-td.jpg
 tags:
   - casual
   - strategy

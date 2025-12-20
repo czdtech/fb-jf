@@ -3,7 +3,7 @@ locale: en
 title: "Fruit Chef"
 description: "Fruit Chef is a swift slice‑’em‑up — chain clean cuts, avoid bombs, and manage tempo for monster combos."
 iframeSrc: "https://419in6alhpp88.h5games.usercontent.goog/v/22nao6drjf7v0/"
-thumbnail: "/new-images/fruit-chef.png"
+thumbnail: /new-images/thumbnails/fruit-chef.png
 urlstr: "fruit-chef"
 score: "4.1/5  (1948 votes)"
 tags: ["action", "casual"]

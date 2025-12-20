@@ -7,7 +7,7 @@ description: >-
   3D-Tunnel, springst über Lücken, weichst Hindernissen aus und läufst dank
   wechselnder Schwerkraft sogar an Wänden und Decken entlang.
 iframeSrc: 'https://lekug.github.io/tn6pS9dCf37xAhkJv/index.html'
-thumbnail: /new-images/run-3.jpg
+thumbnail: /new-images/thumbnails/run-3.jpg
 tags:
   - endless runner
   - space

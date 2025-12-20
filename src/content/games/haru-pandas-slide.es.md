@@ -6,7 +6,7 @@ description: >-
   Haru Pandas Slide es un relajado puzle deslizante: mueve fichas para
   recomponer imágenes de pandas con el mínimo de movimientos y mucha lógica.
 iframeSrc: 'https://0vc1kolll32h8.h5games.usercontent.goog/v/0t898ulinrkag/'
-thumbnail: /new-images/haru-pandas-slide.png
+thumbnail: /new-images/thumbnails/haru-pandas-slide.png
 tags:
   - puzzle
   - thinky

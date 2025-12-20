@@ -4,7 +4,7 @@ locale: en
 title: "Happy Wheels"
 description: "A detailed guide to the notoriously graphic and humorous physics-based game, Happy Wheels. Learn gameplay strategies, controls, and answers to common questions for surviving its deadly user-created levels." 
 iframeSrc: "https://games-online.io/game/HappyWheels/"
-thumbnail: "/new-images/happy-wheels.jpg"
+thumbnail: /new-images/thumbnails/happy-wheels.jpg
 urlstr: "happy-wheels"
 score: "3.9/5  (1175 votes)"
 tags: ["platformer", "physics"]

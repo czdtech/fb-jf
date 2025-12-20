@@ -6,7 +6,7 @@ description: >-
   There is no game est une aventure meta-puzzle unique : defie un narrateur
   sarcastique, brise le quatrieme mur et resous des puzzles non conventionnels.
 iframeSrc: 'https://webglmath.github.io/there-is-no-game/'
-thumbnail: /new-images/there-is-no-game.jpg
+thumbnail: /new-images/thumbnails/there-is-no-game.jpg
 tags:
   - puzzle
   - adventure

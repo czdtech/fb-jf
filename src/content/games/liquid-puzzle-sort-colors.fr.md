@@ -4,7 +4,7 @@ urlstr: "liquid-puzzle-sort-colors"
 title: "Liquid puzzle sort colors"
 description: "Liquid Puzzle Sort Colors est un jeu de tri de liquides relaxant : verse les liquides par couleur, gère tes bouteilles tampons et termine chaque flacon sans te retrouver bloqué."
 iframeSrc: "https://1b6vgcuid4b98.h5games.usercontent.goog/v/2vus27k78710o/"
-thumbnail: "/new-images/liquid-puzzle-sort-colors.jpg"
+thumbnail: /new-images/thumbnails/liquid-puzzle-sort-colors.jpg
 tags: ["puzzle", "thinky", "casual"]
 score: "4.1/5  (1979 votes)"
 developer: ""

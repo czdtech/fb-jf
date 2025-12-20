@@ -6,7 +6,7 @@ description: >-
   defense game. Combine your units to make them stronger and defend the Heart of
   Nature from waves of Mucklings!
 iframeSrc: 'https://79gloe1v4okkg.h5games.usercontent.goog/v/6qlhje6nn2bg0/'
-thumbnail: /new-images/nature-strikes-back.png
+thumbnail: /new-images/thumbnails/nature-strikes-back.png
 urlstr: nature-strikes-back
 score: 4.4/5  (2300 votes)
 tags:

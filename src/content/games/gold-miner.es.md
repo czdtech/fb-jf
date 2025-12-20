@@ -7,7 +7,7 @@ description: >-
   para atrapar oro y gemas, compra power‑ups y alcanza la cantidad objetivo
   antes de que se acabe el tiempo.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/gold-miner.html'
-thumbnail: /new-images/gold-miner.jpg
+thumbnail: /new-images/thumbnails/gold-miner.jpg
 tags:
   - arcade
   - skill

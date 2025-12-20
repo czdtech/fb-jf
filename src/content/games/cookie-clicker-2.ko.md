@@ -6,7 +6,7 @@ description: >-
   전설적인 방치형 클릭 게임 Cookie Clicker를 위한 가이드입니다. 승천 타이밍, 황금 쿠키 활용법, 미니게임과 각종 팁을 통해 쿠키
   생산량을 극대화해 보세요.
 iframeSrc: 'https://games-online.io/game/cake-maker/'
-thumbnail: /new-images/cookie-clicker-2.jpg
+thumbnail: /new-images/thumbnails/cookie-clicker-2.jpg
 tags:
   - casual
   - clicker

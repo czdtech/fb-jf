@@ -3,7 +3,7 @@ locale: en
 title: "Dice Puzzle"
 description: "A challenging brain-teaser! Place and merge dice on the board. Combine three identical dice to create a higher number, and aim for the ultimate jewel cube. Plan your moves carefully before the board fills up!"
 iframeSrc: "https://0vfcifju4i900.h5games.usercontent.goog/v/2jg90liogd5f8/"
-thumbnail: "/new-images/dice-puzzle.jpg"
+thumbnail: /new-images/thumbnails/dice-puzzle.jpg
 urlstr: "dice-puzzle"
 score: "4.4/5  (2100 votes)"
 tags: ["puzzle", "thinky", "casual"]

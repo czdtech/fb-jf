@@ -7,7 +7,7 @@ description: >-
   拖动不同形状的木块填满行或列来清除棋盘，用聪明的布局预留空间、制造多行连消，
   在宁静木纹中挑战高分。
 iframeSrc: 'https://2rfr65hktjv5o.h5games.usercontent.goog/v/46h85f5g0sldo/'
-thumbnail: /new-images/wood-block-match.png
+thumbnail: /new-images/thumbnails/wood-block-match.png
 tags:
   - puzzle
   - thinky

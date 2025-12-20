@@ -7,7 +7,7 @@ description: >-
   zügige Pässe, timinge Abschlüsse und setze dich in kurzen Matches gegen die
   Abwehr durch.
 iframeSrc: 'https://0bqhpbln445co.h5games.usercontent.goog/v/2to6kd3co500g/'
-thumbnail: /new-images/football-stars.png
+thumbnail: /new-images/thumbnails/football-stars.png
 tags:
   - sports
   - soccer

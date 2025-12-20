@@ -7,7 +7,7 @@ description: >-
   도달하는 물리 기반 스윙 게임입니다. 장애물을 피하고 곡예 동작을 섞어
   완벽한 스윙 루트를 만들어 보세요.
 iframeSrc: 'https://ubg98.github.io/StickmanHook/'
-thumbnail: /new-images/stickman-hook.jpg
+thumbnail: /new-images/thumbnails/stickman-hook.jpg
 tags:
   - physics
   - swinging

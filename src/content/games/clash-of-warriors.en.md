@@ -3,7 +3,7 @@ locale: en
 title: "Clash of Warriors"
 description: "Clash of Warriors is a compact card battler — curve your plays, trade efficiently, and outthink opponents."
 iframeSrc: "https://7t89fh6irdv0g.h5games.usercontent.goog/v/5gpd6kf06hr8g/"
-thumbnail: "/new-images/clash-of-warriors.png"
+thumbnail: /new-images/thumbnails/clash-of-warriors.png
 urlstr: "clash-of-warriors"
 score: "3.9/5  (1668 votes)"
 tags: ["card", "thinky"]

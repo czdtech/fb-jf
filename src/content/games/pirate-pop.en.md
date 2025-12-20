@@ -3,7 +3,7 @@ locale: en
 title: "Pirate Pop"
 description: "Ahoy! Take aim and pop the pirate bubbles. A classic bubble shooter game where you match three or more to clear the board and claim the pirate treasure."
 iframeSrc: "https://piratepop.h5games.usercontent.goog/v/3japc2shd35ug/"
-thumbnail: "/new-images/pirate-pop.png"
+thumbnail: /new-images/thumbnails/pirate-pop.png
 urlstr: "pirate-pop"
 score: "4.3/5  (2100 votes)"
 tags: ["shooting", "puzzle", "casual"]

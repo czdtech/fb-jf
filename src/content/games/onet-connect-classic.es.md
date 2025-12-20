@@ -7,7 +7,7 @@ description: >-
   parejas de fichas idénticas y limpia el tablero conectándolas con un camino
   que no tenga más de dos giros antes de que se agote el tiempo.
 iframeSrc: 'https://onetconnectclassic.h5games.usercontent.goog/v/0q8248mt11l3g/'
-thumbnail: /new-images/onet-connect-classic.png
+thumbnail: /new-images/thumbnails/onet-connect-classic.png
 tags:
   - puzzle
   - casual

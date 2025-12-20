@@ -6,7 +6,7 @@ description: >-
   explore interactive stories, and engage with a vibrant community, all for free
   online.
 iframeSrc: 'https://turbowarp.org/1149630445/embed'
-thumbnail: /fiddlebops-polos.png
+thumbnail: /new-images/thumbnails/fiddlebops-polos.png
 urlstr: fiddlebops-polos
 modType: fiddlebops
 score: 4.6/5  (217 votes)

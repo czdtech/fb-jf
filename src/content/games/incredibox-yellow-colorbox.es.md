@@ -7,7 +7,7 @@ description: >-
   versión, todos los personajes aparecen en un llamativo color amarillo y cada
   uno tiene un efecto sonoro único e irrepetible.
 iframeSrc: 'https://www.minijuegos.com/embed/incredibox-yellow-colorbox'
-thumbnail: /incredibox-yellow-colorbox.png
+thumbnail: /new-images/thumbnails/incredibox-yellow-colorbox.png
 tags:
   - incredibox yellow colorbox
   - incredibox yellow colorbox online

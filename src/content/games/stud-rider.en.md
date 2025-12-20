@@ -3,7 +3,7 @@ locale: en
 title: "Stud Rider"
 description: "Stud Rider is a moto hill‑runner — manage momentum, land flat, and link jumps smoothly across rugged tracks."
 iframeSrc: "https://0mm8l94jf1g88.h5games.usercontent.goog/v/6fo3rapem7uio/"
-thumbnail: "/new-images/stud-rider.png"
+thumbnail: /new-images/thumbnails/stud-rider.png
 urlstr: "stud-rider"
 score: "3.9/5  (1707 votes)"
 tags: ["bike", "driving", "action"]

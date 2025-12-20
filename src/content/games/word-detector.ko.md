@@ -6,7 +6,7 @@ description: >-
   글자 격자 속에서 가능한 한 많은 단어를 찾는 빠른 워드 퍼즐 게임입니다. 가로, 세로, 대각선으로 인접한 글자들을 이어 단어를 만들고,
   제한 시간 안에 목표 점수를 달성하세요.
 iframeSrc: 'https://worddetector.h5games.usercontent.goog/v/4gaf9ej9hp398/'
-thumbnail: /new-images/word-detector.png
+thumbnail: /new-images/thumbnails/word-detector.png
 tags:
   - puzzle
   - thinky

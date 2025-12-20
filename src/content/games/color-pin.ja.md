@@ -2,7 +2,7 @@
 title: Color Pin カラー・ピン
 description: 「Color Pin」は回転する円にピンを刺すタイミングパズル。既存のピンを避け、色を合わせて、正確なリズムでクリアを目指せ。
 iframeSrc: 'https://6jgggrkjibvs0.h5games.usercontent.goog/v/7qaps53r4bt10/'
-thumbnail: /new-images/color-pin.png
+thumbnail: /new-images/thumbnails/color-pin.png
 urlstr: color-pin
 score: 3.8/5  (1576 votes)
 tags:

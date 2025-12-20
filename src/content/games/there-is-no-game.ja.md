@@ -2,7 +2,7 @@
 title: There Is No Game
 description: There Is No Gameは、メタゲームパズルです。ゲームがないと言われますが、実際には予想外のパズルがあります。
 iframeSrc: 'https://ubg98.github.io/ThereIsNoGame/'
-thumbnail: /new-images/there-is-no-game.jpg
+thumbnail: /new-images/thumbnails/there-is-no-game.jpg
 urlstr: there-is-no-game
 score: 4.6/5  (4123 votes)
 tags:

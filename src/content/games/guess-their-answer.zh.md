@@ -4,7 +4,7 @@ urlstr: guess-their-answer
 title: "《Guess Their Answer》全民问答对对碰"
 description: "《Guess Their Answer》是一款节奏很快的调查问答对战游戏，你要像参加家庭问答节目一样，站在“大多数人”的角度列出高频答案，用更广的覆盖面击败对手。"
 iframeSrc: 'https://0s1do8fmhrn9g.h5games.usercontent.goog/v/08gmb663j6g78/'
-thumbnail: /new-images/guess-their-answer.png
+thumbnail: /new-images/thumbnails/guess-their-answer.png
 tags:
   - puzzle
   - thinky

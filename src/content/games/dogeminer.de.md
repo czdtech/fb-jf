@@ -7,7 +7,7 @@ description: >-
   Upgrades und Helfer und automatisiere die Produktion, damit dein Einkommen
   immer schneller wächst.
 iframeSrc: 'https://edufall.github.io/o16/doge-miner/'
-thumbnail: /new-images/dogeminer.jpg
+thumbnail: /new-images/thumbnails/dogeminer.jpg
 tags:
   - idle
   - clicker

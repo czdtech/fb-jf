@@ -6,7 +6,7 @@ description: >-
   Solitario de emparejar fichas: elimina parejas de fichas idénticas en diseños
   por capas hasta vaciar el tablero; planifica para evitar bloqueos.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/mahjong-titans.html'
-thumbnail: /new-images/mahjong-titans.jpg
+thumbnail: /new-images/thumbnails/mahjong-titans.jpg
 tags:
   - puzzle
   - mahjong

@@ -6,7 +6,7 @@ description: >-
   Duck Life est un jeu d’entraînement et de course : améliore ton canard via des
   mini‑jeux et gagne des courses.
 iframeSrc: 'https://games.wixgames.co.uk/games/ducklife1/webgl/'
-thumbnail: /new-images/duck-life.jpg
+thumbnail: /new-images/thumbnails/duck-life.jpg
 tags:
   - racing
   - simulation

@@ -2,7 +2,7 @@
 title: "Fleeing the Complex"
 description: "分岐する棒人間の脱出劇：アイテムやルートを選んで施設から脱出し、複数のエンディングを発見し、すべての失敗やバイオ（人物紹介）を集めましょう。"
 iframeSrc: "https://ubg77.github.io/fleeing-the-complex/"
-thumbnail: "/new-images/fleeing-the-complex.jpg"
+thumbnail: /new-images/thumbnails/fleeing-the-complex.jpg
 urlstr: "fleeing-the-complex"
 score: "4.7/5  (1158 votes)"
 tags: ["adventure", "point-and-click"]

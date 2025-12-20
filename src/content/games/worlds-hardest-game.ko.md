@@ -7,7 +7,7 @@ description: >-
   게임입니다. 한 칸 한 칸 정확한 타이밍과 인내심이 요구되는, 이름 그대로 "세상에서 가장 어렵다"는
   평을 듣는 작품입니다.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/the-worlds-hardest-game.html'
-thumbnail: /new-images/worlds-hardest-game.jpg
+thumbnail: /new-images/thumbnails/worlds-hardest-game.jpg
 tags:
   - difficulty
   - arcade

@@ -6,7 +6,7 @@ description: >-
   pixel world of Minecraft? Then the Sprunki Like Minecraft Mod will definitely
   brighten your eyes!
 iframeSrc: 'https://turbowarp.org/1095572358/embed'
-thumbnail: /sprunki-like-minecraft.png
+thumbnail: /new-images/thumbnails/sprunki-like-minecraft.png
 urlstr: sprunki-like-minecraft
 modType: sprunki
 score: 4.6/5  (601 votes)

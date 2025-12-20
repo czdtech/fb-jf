@@ -6,7 +6,7 @@ description: >-
   Disfruta del clásico y adictivo Bubble Shooter HD. Apunta tu burbuja y forma
   grupos de tres o más del mismo color para limpiar el tablero.
 iframeSrc: 'https://695vevup4pmu0.h5games.usercontent.goog/v/7ptf20o9mjr48/'
-thumbnail: /new-images/bubble-shooter-hd.png
+thumbnail: /new-images/thumbnails/bubble-shooter-hd.png
 tags:
   - puzzle
   - casual

@@ -7,7 +7,7 @@ description: >-
   stratégiquement des meubles et objets dans un camion pour assurer un transport
   stable et sécurisé.
 iframeSrc: 'https://g.igroutka.ru/games/164/JgHSvhdBMa5pf4WZ/moving_truck/'
-thumbnail: /new-images/moving-truck.jpg
+thumbnail: /new-images/thumbnails/moving-truck.jpg
 tags:
   - puzzle
   - physics

@@ -7,7 +7,7 @@ description: >-
   por excelencia. Planifica tus jugadas, controla el tablero y da jaque mate al
   rey rival en este clásico atemporal.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/chess/'
-thumbnail: /new-images/chess.jpg
+thumbnail: /new-images/thumbnails/chess.jpg
 tags:
   - strategy
   - puzzle

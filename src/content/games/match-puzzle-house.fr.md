@@ -4,7 +4,7 @@ urlstr: "match-puzzle-house"
 title: "Match Puzzle House"
 description: "Match Puzzle House est un match‑3 de rénovation : termine les objectifs, gagne des étoiles et rénove les pièces en utilisant intelligemment les boosters."
 iframeSrc: "https://7cp83ss0h08p0.h5games.usercontent.goog/v/49v2bsl4scjdo/"
-thumbnail: "/new-images/match-puzzle-house.png"
+thumbnail: /new-images/thumbnails/match-puzzle-house.png
 tags: ["puzzle", "casual"]
 score: "4.0/5  (1887 votes)"
 developer: ""

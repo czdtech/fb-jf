@@ -6,7 +6,7 @@ description: >-
   Football Legends 是一款街機風格足球對戰遊戲，支援 1v1 或 2v2，
   透過頭球、凌空抽射與必殺射門，在快節奏單場或錦標賽中一決高下。
 iframeSrc: 'https://webglmath.github.io/football-legends/'
-thumbnail: /new-images/football-legends.jpg
+thumbnail: /new-images/thumbnails/football-legends.jpg
 tags:
   - sports
   - soccer

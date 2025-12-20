@@ -7,7 +7,7 @@ description: >-
   industriels, cris de monstres et atmosphères angoissantes pour composer un
   paysage sonore cauchemardesque.
 iframeSrc: 'https://turbowarp.org/1041902515/embed'
-thumbnail: /new-images/incredibox-creatophobos.png
+thumbnail: /new-images/thumbnails/incredibox-creatophobos.png
 tags:
   - music
   - horror

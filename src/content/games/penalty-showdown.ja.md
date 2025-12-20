@@ -2,7 +2,7 @@
 title: "Penalty Showdown"
 description: "Penalty Showdownはペナルティキック対決です。ショットを撮り、ゴールをセーブし、対戦相手と競い、PKチャンピオンになります。"
 iframeSrc: "https://penaltyshowdown.h5games.usercontent.goog/v/5k9j2m8h7p3n8/"
-thumbnail: "/new-images/penalty-showdown.png"
+thumbnail: /new-images/thumbnails/penalty-showdown.jpg
 urlstr: "penalty-showdown"
 score: "4.2/5  (2234 votes)"
 tags: ["sports", "2 player", "casual"]

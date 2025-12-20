@@ -4,7 +4,7 @@ locale: en
 title: "Friday Night Funkin"
 description: "Rhythm battle: hit notes on beat against opponents across weeks; higher difficulties add faster patterns and tricky holds." 
 iframeSrc: "https://html-classic.itch.zone/html/2876359-1077558/index.html"
-thumbnail: "/new-images/friday-night-funkin.jpg"
+thumbnail: /new-images/thumbnails/friday-night-funkin.jpg
 urlstr: "friday-night-funkin"
 score: "4.7/5  (542 votes)"
 tags: ["rhythm", "music"]

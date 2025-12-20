@@ -2,7 +2,7 @@
 title: "Quiz X"
 description: "Quiz Xはトリビアクイズゲームです。質問に答え、知識をテストし、スコアを競い、クイズチャンピオンになります。"
 iframeSrc: "https://quizx.h5games.usercontent.goog/v/5k9j2m8h7p3n8/"
-thumbnail: "/new-images/quiz-x.png"
+thumbnail: /new-images/thumbnails/quiz-x.png
 urlstr: "quiz-x"
 score: "4.2/5  (2156 votes)"
 tags: ["puzzle", "thinky", "casual"]

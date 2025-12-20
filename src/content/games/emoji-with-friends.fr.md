@@ -4,7 +4,7 @@ urlstr: emoji-with-friends
 title: "Emoji With Friends"
 description: "Emoji With Friends est un party‑game de réflexion léger : aligne, déduis et défie tes amis grâce à la logique des emojis."
 iframeSrc: 'https://2gtc787tjm7c8.h5games.usercontent.goog/v/5lfna7ldlrun8/'
-thumbnail: /new-images/emoji-with-friends.png
+thumbnail: /new-images/thumbnails/emoji-with-friends.png
 tags:
   - puzzle
   - casual

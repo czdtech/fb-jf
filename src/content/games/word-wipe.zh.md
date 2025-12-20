@@ -7,7 +7,7 @@ description: >-
   在字母方阵中连线拼出单词，让被选中的字母方块消失、上方字母下落，
   在倒计时压力下不断清行冲分。
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-word-wipe/'
-thumbnail: /new-images/word-wipe.jpg
+thumbnail: /new-images/thumbnails/word-wipe.jpg
 tags:
   - word-game
   - puzzle

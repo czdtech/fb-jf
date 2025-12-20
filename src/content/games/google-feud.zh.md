@@ -6,7 +6,7 @@ description: >-
   問答遊戲，玩法類似家庭問答秀：根據 Google 搜尋自動完成的開頭提示，
   猜出最熱門的關鍵詞補全，盡量在沒被三次「打叉」前拿到高分。
 iframeSrc: 'https://mac-web.github.io/macvg/projects/google-feud/game.html'
-thumbnail: /new-images/google-feud.jpg
+thumbnail: /new-images/thumbnails/google-feud.jpg
 tags:
   - trivia
   - quiz

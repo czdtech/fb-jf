@@ -6,7 +6,7 @@ description: >-
   character running through a 3D tunnel, jumping over gaps and avoiding
   obstacles while defying gravity in this addictive platformer.
 iframeSrc: 'https://lekug.github.io/tn6pS9dCf37xAhkJv/index.html'
-thumbnail: /new-images/run-3.jpg
+thumbnail: /new-images/thumbnails/run-3.jpg
 urlstr: run-3
 score: 4.5/5  (650 votes)
 tags:

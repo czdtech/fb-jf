@@ -6,7 +6,7 @@ description: >-
   눈사태를 피해 산을 내려오는 스노보드 러너 게임입니다. 나무와 바위를 피하며 코인을 모아 능력을 업그레이드하고, 진정한 스노보드 킹에 도전해
   보세요.
 iframeSrc: 'https://61nls5ipnd8o8.h5games.usercontent.goog/v/6mdu5qlsugsl0/'
-thumbnail: /new-images/snowboard-king-2024.png
+thumbnail: /new-images/thumbnails/snowboard-king-2024.png
 tags:
   - sports
   - action

@@ -4,7 +4,7 @@ urlstr: pokemon-fire-red
 title: Pokemon Fire Red
 description: "Pokemon Fire Red est un remake GBA de Pokémon Rouge\_: parcours la région de Kanto, capture et fais évoluer des Pokémon, affronte la Team Rocket et deviens Maître de la Ligue."
 iframeSrc: 'https://picklekid31.github.io/GBA-unblocked-games/launcher.html#pokemonred'
-thumbnail: /new-images/pokemon-fire-red.jpg
+thumbnail: /new-images/thumbnails/pokemon-fire-red.jpg
 tags:
   - rpg
   - adventure

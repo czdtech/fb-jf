@@ -6,7 +6,7 @@ description: >-
   Sprunkle Bops est une extension fan‑made d’Incredibox qui ajoute des mods,
   phases inédites et mécaniques de jeu façon battle rythmique.
 iframeSrc: 'https://turbowarp.org/1122091658/embed'
-thumbnail: /sprunklebops.png
+thumbnail: /new-images/thumbnails/sprunkle-bops.png
 tags:
   - sprunkle bops
   - sprunkle bops online

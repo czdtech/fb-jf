@@ -7,7 +7,7 @@ description: >-
   게임입니다. 제한 시간 안에 글자를 재배열해 정답을 찾으며, 어휘력과 패턴 인식,
   순발력을 동시에 시험해 보세요.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/word-scramble/'
-thumbnail: /new-images/word-scramble.jpg
+thumbnail: /new-images/thumbnails/word-scramble.jpg
 tags:
   - word-game
   - puzzle

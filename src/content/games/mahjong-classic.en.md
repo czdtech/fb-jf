@@ -3,7 +3,7 @@ locale: en
 title: "Mahjong Classic"
 description: "Enjoy the timeless puzzle of Mahjong Classic. Match pairs of identical, unblocked tiles to clear the board in this relaxing game of strategy and observation."
 iframeSrc: "https://mahjongclassic.h5games.usercontent.goog/v/6tue6un26r7v0/"
-thumbnail: "/new-images/mahjong-classic.png"
+thumbnail: /new-images/thumbnails/mahjong-classic.png
 urlstr: "mahjong-classic"
 score: "4.6/5  (2900 votes)"
 tags: ["puzzle", "thinky", "casual", "card"]

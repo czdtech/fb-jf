@@ -7,7 +7,7 @@ description: >-
   gemeinsam mit deinem Partner, gewinne Stiche und erfülle euren Kontrakt, um
   die Gegenspieler auszutricksen.
 iframeSrc: 'https://2ipri8asu56io.h5games.usercontent.goog/v/0gn3i94fda0h0/'
-thumbnail: /new-images/bridge.png
+thumbnail: /new-images/thumbnails/bridge.png
 tags:
   - card
   - puzzle

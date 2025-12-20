@@ -6,7 +6,7 @@ description: >-
   음악 제작 게임 Incredibox의 팬메이드 모드인 'Incredibox Choir'를 소개하는 가이드입니다. 합창·아카펠라·클래식 보컬
   중심의 사운드 팔레트와 플레이 전략, 보너스 해금 팁을 다룹니다.
 iframeSrc: 'https://turbowarp.org/1034584392/embed'
-thumbnail: /new-images/incredibox-choir.png
+thumbnail: /new-images/thumbnails/incredibox-choir.png
 tags:
   - music
   - vocal

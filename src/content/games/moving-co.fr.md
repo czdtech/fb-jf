@@ -4,7 +4,7 @@ urlstr: "moving-co"
 title: "Moving Co"
 description: "Moving Co. transforme un déménagement en puzzle : planifie tes trajets, transporte les objets en sécurité et bats le chrono grâce à une logistique bien pensée."
 iframeSrc: "https://movingco.h5games.usercontent.goog/v/3crgi5efdnml0/"
-thumbnail: "/new-images/moving-co.png"
+thumbnail: /new-images/thumbnails/moving-co.png
 tags: ["casual", "thinky"]
 score: "3.8/5  (1364 votes)"
 developer: ""

@@ -7,7 +7,7 @@ description: >-
   ramificadas, potentes torres nuevas y el temible dirigible BFB. Diseña tu
   defensa y sube de nivel para desbloquearlo todo.
 iframeSrc: 'https://1000freegames.github.io/swf/bloons-td-4.html'
-thumbnail: /new-images/bloons-td-4.jpg
+thumbnail: /new-images/thumbnails/bloons-td-4.jpg
 tags:
   - casual
   - strategy

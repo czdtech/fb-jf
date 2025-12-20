@@ -7,7 +7,7 @@ description: >-
   conducción off‑road en el que llevas potentes camiones a través de circuitos
   llenos de obstáculos.
 iframeSrc: 'https://trucktrials.h5games.usercontent.goog/v/4u5cado14l780/'
-thumbnail: /new-images/truck-trials.png
+thumbnail: /new-images/thumbnails/truck-trials.png
 tags:
   - driving
   - action

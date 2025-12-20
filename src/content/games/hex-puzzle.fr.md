@@ -7,7 +7,7 @@ description: >-
   des pièces en forme d'hexagones pour compléter des lignes dans toutes les
   directions, sans jamais pouvoir les faire pivoter.
 iframeSrc: 'https://blockpuzzle.h5games.usercontent.goog/v/3rkr8c5j9b23o/'
-thumbnail: /new-images/hex-puzzle.jpg
+thumbnail: /new-images/thumbnails/hex-puzzle.jpg
 tags:
   - puzzle
   - thinky

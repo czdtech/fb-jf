@@ -3,7 +3,7 @@ locale: en
 title: "Jewel Magic"
 description: "Unleash the magic of gems in Jewel Magic, a classic match-3 puzzle game. Match sparkling jewels, create powerful combos, and clear challenging levels in this enchanting adventure."
 iframeSrc: "https://jewelmagic.h5games.usercontent.goog/v/55vd8l21hn1q8/"
-thumbnail: "/new-images/jewel-magic.png"
+thumbnail: /new-images/thumbnails/jewel-magic.png
 urlstr: "jewel-magic"
 score: "4.4/5  (2150 votes)"
 tags: ["puzzle", "casual", "action"]

@@ -7,7 +7,7 @@ description: >-
   제한된 수집 트레이가 가득 차기 전에 보드를 모두 비워야 합니다.
 iframeSrc: >-
   https://tilesofegypt.h5games.usercontent.goog/v/dd964fa3-8999-4546-a4a0-d55a0cc72248/
-thumbnail: /new-images/tiles-of-egypt.jpg
+thumbnail: /new-images/thumbnails/tiles-of-egypt.jpg
 tags:
   - puzzle
   - casual

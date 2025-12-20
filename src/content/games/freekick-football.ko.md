@@ -4,7 +4,7 @@ urlstr: freekick-football
 title: Freekick Football 프리킥 풋볼
 description: '프리킥 상황만 집중적으로 즐기는 축구 게임입니다. 벽과 골키퍼를 넘길 수 있도록 방향과 파워, 회전을 조절해 골을 노려 보세요.'
 iframeSrc: 'https://freekickfootball.h5games.usercontent.goog/v/0lqeu7698mvk0/'
-thumbnail: /new-images/freekick-football.png
+thumbnail: /new-images/thumbnails/freekick-football.png
 tags:
   - soccer
   - sports

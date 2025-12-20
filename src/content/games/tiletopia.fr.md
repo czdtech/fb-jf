@@ -7,7 +7,7 @@ description: >-
   pour connecter des routes, construire des maisons et créer ton propre monde
   miniature.
 iframeSrc: 'https://6nilllqpgkm6o.h5games.usercontent.goog/v/7d3689i7s5gfo/'
-thumbnail: /new-images/tiletopia.png
+thumbnail: /new-images/thumbnails/tiletopia.png
 tags:
   - puzzle
   - strategy

@@ -6,7 +6,7 @@ description: >-
   Jurassic Run est un runner parmi les dinosaures : évite les obstacles, change
   de voie et sprinte pour battre tes records.
 iframeSrc: 'https://260c4eej53igg.h5games.usercontent.goog/v/5h99gs1rujgk0/'
-thumbnail: /new-images/jurassic-run.png
+thumbnail: /new-images/thumbnails/jurassic-run.png
 tags:
   - action
   - casual

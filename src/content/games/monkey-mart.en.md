@@ -4,7 +4,7 @@ locale: en
 title: "Monkey Mart"
 description: "Monkey Mart is a charming and addictive simulation game where players manage a supermarket run by adorable monkeys, harvesting crops, stocking shelves, and serving customers to grow their business."
 iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp41/gamehwq/20221216/09/index.htm"
-thumbnail: "/new-images/monkey-mart.jpg"
+thumbnail: /new-images/thumbnails/monkey-mart.jpg
 urlstr: "monkey-mart"
 score: "4.4/5  (592 votes)"
 tags: ["simulation", "management", "casual"]

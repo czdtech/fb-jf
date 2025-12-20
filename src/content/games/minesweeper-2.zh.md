@@ -5,7 +5,7 @@ title: "《Minesweeper》经典扫雷"
 description: >-
   《Minesweeper》是一款经久不衰的逻辑益智游戏，你需要根据数字提示推理出所有隐藏地雷的位置，在不触雷的前提下将整块棋盘安全翻开。
 iframeSrc: 'https://minesweeper.h5games.usercontent.goog/v/6uo6tf2lnil3o/'
-thumbnail: /new-images/minesweeper-2.jpg
+thumbnail: /new-images/thumbnails/minesweeper-2.jpg
 tags:
   - puzzle
   - thinky

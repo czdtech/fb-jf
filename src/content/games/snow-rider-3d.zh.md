@@ -7,7 +7,7 @@ description: >-
   3D》是一款节奏飞快的冬季雪橇动作游戏。跳上雪橇，从高山雪坡一路俯冲，躲开树木和雪人，利用跳台飞跃障碍，收集礼物解锁新雪橇，挑战自己的极限反应。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp45/chenling/20231130/2/index.html
-thumbnail: /new-images/snow-rider-3d.jpg
+thumbnail: /new-images/thumbnails/snow-rider-3d.jpg
 tags:
   - action
   - 3d

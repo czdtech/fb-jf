@@ -8,7 +8,7 @@ description: >-
   glitch y mecánicas intensas para ofrecerte una experiencia realmente
   estremecedora.
 iframeSrc: 'https://turbowarp.org/1104064786/embed'
-thumbnail: /sprunki-virus-new-update.png
+thumbnail: /new-images/thumbnails/sprunki-virus-new-update.png
 tags:
   - sprunki virus new update
 score: 4.0/5  (407 votes)

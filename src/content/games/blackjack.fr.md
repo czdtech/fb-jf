@@ -4,7 +4,7 @@ urlstr: blackjack
 title: "BlackJack"
 description: "Dans le blackjack (21), tu affrontes le croupier : essaie de te rapprocher de 21 sans le dépasser, en décidant quand tirer une carte ou t’arrêter, et en utilisant quelques décisions basiques de stratégie."
 iframeSrc: "https://freegames.org/games/blackjack/v1/"
-thumbnail: /new-images/blackjack.jpg
+thumbnail: /new-images/thumbnails/blackjack.jpg
 tags:
   - casual
   - rhythm

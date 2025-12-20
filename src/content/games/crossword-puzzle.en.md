@@ -4,7 +4,7 @@ locale: en
 title: "Crossword Puzzle"
 description: "Crossword Puzzle is a classic word game: fill the grid using across and down clues to complete the puzzle."
 iframeSrc: "https://ad-freegames.github.io/flash/game/crossword-puzzle.html"
-thumbnail: "/new-images/crossword-puzzle.jpg"
+thumbnail: /new-images/thumbnails/crossword-puzzle.jpg
 urlstr: "crossword-puzzle"
 score: "4.0/5  (1105 votes)"
 tags: ["word", "puzzle"]

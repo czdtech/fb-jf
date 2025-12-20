@@ -3,7 +3,7 @@ locale: en
 title: "Aloha Mahjong"
 description: "Aloha Mahjong is a relaxing tile‑match — find pairs, clear layers, and enjoy island vibes."
 iframeSrc: "https://02ef7fb7guapg.h5games.usercontent.goog/v/13knu9k9rm8go/"
-thumbnail: "/new-images/aloha-mahjong.jpg"
+thumbnail: /new-images/thumbnails/aloha-mahjong.jpg
 urlstr: "aloha-mahjong"
 score: "4.1/5  (1956 votes)"
 tags: ["mahjong", "puzzle"]

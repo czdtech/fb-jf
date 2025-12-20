@@ -3,7 +3,7 @@ locale: en
 title: "Jump With Justin 2"
 description: "Jump With Justin 2 is a bouncy platformer — time jumps, bounce off hazards, and chain springs to the goal."
 iframeSrc: "https://jumpwithjustin2.h5games.usercontent.goog/v/54vavt12q94n8/"
-thumbnail: "/new-images/jump-with-justin-2.png"
+thumbnail: /new-images/thumbnails/jump-with-justin-2.png
 urlstr: "jump-with-justin-2"
 score: "3.9/5  (1571 votes)"
 tags: ["action", "casual"]

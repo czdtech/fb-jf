@@ -4,7 +4,7 @@ urlstr: hoop-stars
 title: "Hoop Stars"
 description: "Hoop Stars est un jeu d’adresse avec des anneaux : fais tourner ton cercle, choisis le bon timing et fais‑le retomber proprement sur le piquet avant ton adversaire."
 iframeSrc: "https://6si9877n1hvh8.h5games.usercontent.goog/v/717o1ln0arjho/"
-thumbnail: /new-images/hoop-stars.png
+thumbnail: /new-images/thumbnails/hoop-stars.png
 tags:
   - sports
   - action

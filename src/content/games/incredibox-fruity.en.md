@@ -5,7 +5,7 @@ modType: incredibox
 title: "Incredibox Fruity"
 description: "iscover the ultimate guide to Incredibox Fruity, the classic strategy game. Learn winning strategies, controls, and tips to evolve your army from cavemen to future warriors and dominate the battlefield."
 iframeSrc: "https://turbowarp.org/414716080/embed"
-thumbnail: "/new-images/age-of-war.jpg"
+thumbnail: /new-images/thumbnails/incredibox-fruity.jpg
 urlstr: "incredibox-fruity"
 score: "4.5/5  (525 votes)"
 tags: ["strategy", "action"]

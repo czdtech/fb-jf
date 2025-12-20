@@ -7,7 +7,7 @@ description: >-
   버전입니다. 8x8 보드에서 상대 돌을 양쪽에서 끼워 뒤집고, 코너와 끝줄을 차지해
   마지막에 더 많은 돌을 남기는 것이 목표입니다.
 iframeSrc: 'https://reversimania.h5games.usercontent.goog/v/7rhqf6sl8lpf0/'
-thumbnail: /new-images/reversi-mania.png
+thumbnail: /new-images/thumbnails/reversi-mania.png
 tags:
   - 2 player
   - thinky

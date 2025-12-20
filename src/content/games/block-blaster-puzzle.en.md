@@ -3,7 +3,7 @@ locale: en
 title: "Block Blaster Puzzle"
 description: "Block Blaster Puzzle blends block‑fitting with clears — slot shapes, set up multi‑line blasts, and keep the board breathable."
 iframeSrc: "https://0nrdbfos8jhv8.h5games.usercontent.goog/v/6ovao2cpe86og/"
-thumbnail: "/new-images/block-blaster-puzzle.png"
+thumbnail: /new-images/thumbnails/block-blaster-puzzle.png
 urlstr: "block-blaster-puzzle"
 score: "3.9/5  (1748 votes)"
 tags: ["puzzle", "thinky"]

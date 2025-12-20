@@ -6,7 +6,7 @@ description: >-
   《Basketball Legends 篮球传奇》完整攻略：带你掌握街机篮球的全部技巧——从基础操作、进攻与防守思路，到
   Super Shot 超级投篮的使用时机，以及单人和双人模式的常见问题解答。
 iframeSrc: 'https://webglmath.github.io/basketball-legends/'
-thumbnail: /new-images/basketball-legends.jpg
+thumbnail: /new-images/thumbnails/basketball-legends.jpg
 tags:
   - 2-Player
   - sports

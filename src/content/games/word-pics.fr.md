@@ -6,7 +6,7 @@ description: >-
   Word Pics est un jeu de devinettes : trouve le mot qui relie deux images dans
   ce puzzle de mots fun et addictif.
 iframeSrc: 'https://wordpics.h5games.usercontent.goog/v/7sfi13vvf0cro/'
-thumbnail: /new-images/word-pics.jpg
+thumbnail: /new-images/thumbnails/word-pics.jpg
 tags:
   - puzzle
   - thinky

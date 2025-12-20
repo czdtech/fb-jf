@@ -7,7 +7,7 @@ description: >-
   vorschlägst – aber mach nicht zu viele Fehler, bevor die Strichfigur
   vollständig ist.
 iframeSrc: 'https://hangman-frontend.coolmathgames.com/home'
-thumbnail: /new-images/hangman.jpg
+thumbnail: /new-images/thumbnails/hangman.jpg
 tags:
   - word
   - puzzle

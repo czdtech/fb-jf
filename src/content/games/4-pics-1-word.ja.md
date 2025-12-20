@@ -2,7 +2,7 @@
 title: "4 Pics 1 Word 4写真1単語"
 description: "世界中で大人気のパズルゲーム「4 Pics 1 Word」。4枚の写真に共通する1つの言葉を当てましょう。シンプルだけど奥が深い連想ゲームです！"
 iframeSrc: "https://www.playfiddlebops.com/embed/4-pics-1-word/index.html"
-thumbnail: "/new-images/4-pics-1-word.jpg"
+thumbnail: /new-images/thumbnails/4-pics-1-word.jpg
 urlstr: "4-pics-1-word"
 score: "4.5/5  (2300 votes)"
 tags: ["puzzle", "word"]

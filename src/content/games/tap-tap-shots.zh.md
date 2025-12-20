@@ -4,7 +4,7 @@ urlstr: tap-tap-shots
 title: 《Tap Tap Shots》连点投篮
 description: 《Tap Tap Shots》是一款简单却颇具挑战性的街机投篮游戏。通过连续点击控制篮球高度，在限时内不断命中篮筐刷分。
 iframeSrc: 'https://taptapshots.h5games.usercontent.goog/v/1m2n3b4v5c6p0/'
-thumbnail: /new-images/tap-tap-shots.png
+thumbnail: /new-images/thumbnails/tap-tap-shots.jpg
 tags:
   - sports
   - arcade

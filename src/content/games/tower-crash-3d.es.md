@@ -8,7 +8,7 @@ description: >-
   bien cada tiro: tus disparos son limitados.
 iframeSrc: >-
   https://towercrash3d.h5games.usercontent.goog/v/7c54afc1-3ca4-4121-a52a-9ea74e30f0d7/
-thumbnail: /new-images/tower-crash-3d.jpg
+thumbnail: /new-images/thumbnails/tower-crash-3d.jpg
 tags:
   - action
   - shooting

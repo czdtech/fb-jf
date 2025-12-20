@@ -4,7 +4,7 @@ urlstr: solitaire
 title: "Solitaire"
 description: "Solitaire ist der klassische Einzelspieler-Kartenspaß: Du ordnest Karten in bestimmten Reihenfolgen und Farben, räumst das Tableau frei und legst alle Karten auf die Ablagestapel dieses zeitlosen Puzzlespiels."
 iframeSrc: 'https://www.edogan.us/solitaire-js/'
-thumbnail: /new-images/solitaire.jpg
+thumbnail: /new-images/thumbnails/solitaire.jpg
 tags:
   - card game
   - classic

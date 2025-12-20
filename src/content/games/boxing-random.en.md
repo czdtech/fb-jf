@@ -4,7 +4,7 @@ locale: en
 title: "Boxing Random"
 description: "Experience chaotic, physics-based boxing in Boxing Random! Master one-button controls and adapt to random challenges to knock out your opponent in this hilarious 1 or 2-player fighting game."
 iframeSrc: "https://app-197305.games.s3.yandex.net/197305/ymb675rkal3nz409zur9etesdbd74y4d/index.html"
-thumbnail: "/new-images/boxing-random.jpg"
+thumbnail: /new-images/thumbnails/boxing-random.jpg
 urlstr: "boxing-random"
 score: "4.1/5  (855 votes)"
 tags: ["sports", "physics"]

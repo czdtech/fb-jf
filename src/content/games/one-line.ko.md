@@ -6,7 +6,7 @@ description: >-
   One Line은 보드 위의 모든 점을 한 번의 끊기지 않는 선으로 이어야 하는 미니멀 퍼즐
   게임으로, 선을 되짚거나 펜을 떼지 않고 모든 점을 지나가야 합니다.
 iframeSrc: 'https://g2.igroutka.ru/games/3/JLgd70b3BNafhVq5/10/igra-odna-liniya/game.html'
-thumbnail: /new-images/one-line.jpg
+thumbnail: /new-images/thumbnails/one-line.jpg
 tags:
   - puzzle
   - logic

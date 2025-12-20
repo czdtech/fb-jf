@@ -4,7 +4,7 @@ urlstr: chess
 title: Chess
 description: "Apprends les règles, les pièces et les stratégies de base des échecs\_: contrôle le centre, développe tes pièces et trouve le mat pour remporter cette lutte de réflexion intemporelle."
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/chess/'
-thumbnail: /new-images/chess.jpg
+thumbnail: /new-images/thumbnails/chess.jpg
 tags:
   - strategy
   - puzzle

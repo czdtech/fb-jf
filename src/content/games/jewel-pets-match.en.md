@@ -3,7 +3,7 @@ locale: en
 title: "Jewel Pets Match"
 description: "Match cute jewel pets in this fun and colorful match-3 puzzle adventure! Swap the animals to create lines of three or more and complete the goals for each level."
 iframeSrc: "https://jewelpetsmatch.h5games.usercontent.goog/v/2kcabvevoilco/"
-thumbnail: "/new-images/jewel-pets-match.png"
+thumbnail: /new-images/thumbnails/jewel-pets-match.png
 urlstr: "jewel-pets-match"
 score: "4.4/5  (2300 votes)"
 tags: ["puzzle", "casual", "action"]

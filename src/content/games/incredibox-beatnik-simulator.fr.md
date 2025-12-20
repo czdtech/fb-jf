@@ -4,7 +4,7 @@ urlstr: incredibox-beatnik-simulator
 title: "Incredibox Beatnik Simulator"
 description: "Voyage dans les clubs de jazz enfumés des années 50‑60 avec ce mod Beatnik d’Incredibox : ambiance jazz cool, poésie et non‑conformisme, plus trois bonus secrets à débloquer."
 iframeSrc: "https://turbowarp.org/948885978/embed"
-thumbnail: /new-images/incredibox-beatnik-simulator.png
+thumbnail: /new-images/thumbnails/incredibox-beatnik-simulator.png
 tags:
   - music
   - rhythm

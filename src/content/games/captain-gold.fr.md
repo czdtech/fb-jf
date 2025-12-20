@@ -7,7 +7,7 @@ description: >-
   lâche‑le au bon moment, remonte des pépites et évite les rochers pour
   atteindre l’objectif avant la fin du temps.
 iframeSrc: 'https://5djvqvgrgqc0o.h5games.usercontent.goog/v/58gqt26rjid7o/'
-thumbnail: /new-images/captain-gold.png
+thumbnail: /new-images/thumbnails/captain-gold.png
 tags:
   - casual
   - thinky

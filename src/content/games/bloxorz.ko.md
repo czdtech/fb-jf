@@ -7,7 +7,7 @@ description: >-
   Magic입니다. 떨어지기 쉬운 발판과 각종 스위치, 블록 분할 기믹을 이용해
   정교하게 굴려 나가야 하는 두뇌 풀가동 퍼즐을 즐겨 보세요.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/bloxorz.html'
-thumbnail: /new-images/bloxorz.jpg
+thumbnail: /new-images/thumbnails/bloxorz.jpg
 tags:
   - casual
   - rhythm

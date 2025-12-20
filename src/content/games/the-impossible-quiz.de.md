@@ -4,7 +4,7 @@ urlstr: the-impossible-quiz
 title: "The Impossible Quiz"
 description: "Mach dich bereit für völlig verrückte Fragen: The Impossible Quiz ist ein knallhartes, aber urkomisches Quiz, das dich mit Wortspielen, Fallen und Logikbrüchen ständig aufs Glatteis führt."
 iframeSrc: 'https://flash-cdn.blogspot.com/2021/06/the-impossible-quiz.html'
-thumbnail: /new-images/the-impossible-quiz.jpg
+thumbnail: /new-images/thumbnails/the-impossible-quiz.jpg
 tags:
   - quiz
   - puzzle

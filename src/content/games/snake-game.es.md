@@ -7,7 +7,7 @@ description: >-
   crece al comer comida, evitando chocar contra las paredes o contra tu propio
   cuerpo mientras intentas lograr la mayor puntuación posible.
 iframeSrc: "https://ams.cdn.arkadiumhosted.com/assets/global/game/snake/"
-thumbnail: "/new-images/snake-game.jpg"
+thumbnail: /new-images/thumbnails/snake-game.jpg
 tags:
   - classic
   - arcade

@@ -5,7 +5,7 @@ urlstr: "swap-sprunkgerny"
 title: "Swap Sprunkgerny - 在线畅玩 Swap Sprunkgerny"
 description: "想象一群外星生物站在你面前，有着夸张的眼睛和古怪的个性，等待你赋予它们生命。而你就是这支乐队的指挥，用你的手指让它们演奏出独特的音乐！"
 iframeSrc: "https://turbowarp.org/1141050651/embed"
-thumbnail: "/swap-sprunkgerny.png"
+thumbnail: /new-images/thumbnails/swap-sprunkgerny.png
 score: "4.9/5  (724 票)"
 tags: ["swap sprunkgerny", "swap sprunkgerny online"]
 ---

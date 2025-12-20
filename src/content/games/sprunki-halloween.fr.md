@@ -7,7 +7,7 @@ description: >-
   effrayants et festifs avec des personnages, sons et décors inspirés
   d’Halloween.
 iframeSrc: 'https://turbowarp.org/1087683438/embed'
-thumbnail: /sprunki-halloween.png
+thumbnail: /new-images/thumbnails/sprunki-halloween.png
 score: 4.2/5  (142 votes)
 tags:
   - sprunki halloween

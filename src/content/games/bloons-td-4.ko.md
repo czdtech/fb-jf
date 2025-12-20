@@ -7,7 +7,7 @@ description: >-
   전략성이 한층 깊어진 고전 타워 디펜스 게임입니다. 랭크를 올리며 콘텐츠를
   해금하고, 다양한 조합으로 최적의 수비 라인을 만들어 보세요.
 iframeSrc: 'https://1000freegames.github.io/swf/bloons-td-4.html'
-thumbnail: /new-images/bloons-td-4.jpg
+thumbnail: /new-images/thumbnails/bloons-td-4.jpg
 tags:
   - casual
   - strategy

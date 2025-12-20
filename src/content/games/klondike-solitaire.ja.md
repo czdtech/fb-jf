@@ -2,7 +2,7 @@
 title: "Klondike Solitaire"
 description: "クラシックなクロンダイク：交互の色で降順のタブローの山を使用して、エースからキングまでスートごとに基礎を構築します。1枚引きまたは3枚引き。"
 iframeSrc: "https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-klondike-solitaire/"
-thumbnail: "/new-images/klondike-solitaire.jpg"
+thumbnail: /new-images/thumbnails/klondike-solitaire.jpg
 urlstr: "klondike-solitaire"
 score: "4.1/5  (1091 votes)"
 tags: ["solitaire", "card"]

@@ -6,7 +6,7 @@ description: >-
   The Sea Rush는 바닷속 보석 블록을 세 개 이상 맞춰 없애는 매치-3 퍼즐 게임입니다. 이동 횟수 안에 목표 점수나 미션을
   달성하며, 스페셜 보석으로 큰 폭발을 일으켜 보세요.
 iframeSrc: 'https://searush.h5games.usercontent.goog/v/9qo1j3s8r0dto/'
-thumbnail: /new-images/the-sea-rush.jpg
+thumbnail: /new-images/thumbnails/the-sea-rush.png
 tags:
   - match-3
   - puzzle

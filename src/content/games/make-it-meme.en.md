@@ -4,7 +4,7 @@ locale: en
 title: "Make It Meme"
 description: "Make It Meme is a multiplayer online party game where players compete by creating and rating memes."
 iframeSrc: "https://artedu1808.github.io/g177/make-it-meme/"
-thumbnail: "/new-images/make-it-meme.jpg"
+thumbnail: /new-images/thumbnails/make-it-meme.jpg
 urlstr: "make-it-meme"
 score: "4.4/5  (1458 votes)"
 tags: ["party game", "casual", "online"]

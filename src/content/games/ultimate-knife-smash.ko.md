@@ -6,7 +6,7 @@ description: >-
   회전하는 표적에 칼을 던져 꽂는 타이밍 아케이드 게임입니다. 이미 박혀 있는 칼을 피해 빈틈을
   정확히 노리고, 변화하는 회전 속도와 방향에 맞춰 콤보를 이어 가 보세요.
 iframeSrc: 'https://ultimateknifesmash.h5games.usercontent.goog/v/5ifrmqkiihdj0/'
-thumbnail: /new-images/ultimate-knife-smash.png
+thumbnail: /new-images/thumbnails/ultimate-knife-smash.png
 tags:
   - action
   - casual

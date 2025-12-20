@@ -2,7 +2,7 @@
 title: "3D Free Kick 3D フリーキック"
 description: "「3D フリーキック」でプロのようなカーブシュートを決めましょう。壁を越え、ボールを曲げ、スタイリッシュなセットプレーでゴールを奪おう！"
 iframeSrc: "https://78b0enfiv98go.h5games.usercontent.goog/v/00acsktd29tjg/"
-thumbnail: "/new-images/3d-free-kick.png"
+thumbnail: /new-images/thumbnails/3d-free-kick.png
 urlstr: "3d-free-kick"
 score: "4.1/5  (1866 votes)"
 tags: ["sports", "soccer"]

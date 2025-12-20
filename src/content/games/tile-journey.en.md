@@ -3,7 +3,7 @@ locale: en
 title: "Tile Journey"
 description: "Embark on a relaxing Tile Journey. Select three identical tiles to clear them from the board, but plan your moves carefully to avoid filling up your collection tray!"
 iframeSrc: "https://0i1jh8boqif48.h5games.usercontent.goog/v/1643ot8on0v9g/"
-thumbnail: "/new-images/tile-journey.png"
+thumbnail: /new-images/thumbnails/tile-journey.png
 urlstr: "tile-journey"
 score: "4.5/5  (2650 votes)"
 tags: ["puzzle", "casual", "thinky"]

@@ -5,7 +5,7 @@ urlstr: "fiddlebops-but-sprunki"
 title: "FiddleBops but Sprunki - 在线玩 FiddleBops but Sprunki"
 description: "FiddleBops but Sprunki 是一次精彩的跨界活动！它保留了 Fiddlebops 令人上瘾的音乐创作核心，但用标志性的 Sprunki 角色替换了所有原始角色。"
 iframeSrc: "https://turbowarp.org/1114915532/embed"
-thumbnail: "/fiddlebops-but-sprunki.png"
+thumbnail: /new-images/thumbnails/fiddlebops-but-sprunki.png
 score: "4.2/5  (94 票)"
 tags: ["fiddlebops but sprunki"]
 ---

@@ -4,7 +4,7 @@ locale: en
 title: "Cookie Clicker 2"
 description: "The definitive guide for Cookie Clicker, the legendary incremental game. Discover gameplay strategies, tips for Ascension, Golden Cookies, and answers to common questions to maximize your cookie production."
 iframeSrc: "https://games-online.io/game/cake-maker/"
-thumbnail: "/new-images/cookie-clicker-2.jpg"
+thumbnail: /new-images/thumbnails/cookie-clicker-2.jpg
 urlstr: "cookie-clicker-2"
 score: "4.1/5  (1344 votes)"
 tags: ["casual", "clicker"]

@@ -4,7 +4,7 @@ urlstr: fireboy-and-watergirl-4
 title: "Fireboy And Watergirl 4"
 description: "Guide complet de Fireboy and Watergirl 4 : The Crystal Temple. Apprends à maîtriser les portails de cristal avec des stratégies coop, des conseils de puzzles, les commandes et une FAQ pour ce platformer à 2 joueurs."
 iframeSrc: 'https://slope-game.github.io/fireboy-water-4/'
-thumbnail: /new-images/fireboy-and-watergirl-4.jpg
+thumbnail: /new-images/thumbnails/fireboy-and-watergirl-4.jpg
 tags:
   - casual
   - rhythm

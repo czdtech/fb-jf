@@ -4,7 +4,7 @@ urlstr: coloring-match
 title: Coloring Match
 description: "Coloring Match est un jeu d’observation et de couleurs\_: mélange des teintes pour recréer exactement la couleur cible, puis applique‑la sur les objets en 3D."
 iframeSrc: 'https://7gu7c52bmveu0.h5games.usercontent.goog/v/42u1biq6ere80/'
-thumbnail: /new-images/coloring-match.png
+thumbnail: /new-images/thumbnails/coloring-match.jpg
 tags:
   - puzzle
   - casual

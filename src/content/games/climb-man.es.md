@@ -7,7 +7,7 @@ description: >-
   estrategias para clavar la sincronización, esquivar obstáculos y desbloquear nuevos
   personajes para alcanzar la máxima puntuación.
 iframeSrc: 'https://1muicq0oght78.h5games.usercontent.goog/v/1aim9ophd8cdg/'
-thumbnail: /new-images/climb-man.png
+thumbnail: /new-images/thumbnails/climb-man.png
 tags:
   - action
   - casual

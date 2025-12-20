@@ -5,7 +5,7 @@ title: "《Pokemon Emerald》宝可梦 绿宝石"
 description: >-
   《Pokemon Emerald》是宝可梦系列中以丰缘地区为舞台的角色扮演游戏，你将捕捉与培养宝可梦、挑战道馆馆主与四天王，并阻止熔岩队与海洋队搅乱世界秩序，最终登上宝可梦联盟冠军之位。
 iframeSrc: 'https://picklekid31.github.io/GBA-unblocked-games/launcher.html#pokemonemerald'
-thumbnail: /new-images/pokemon-emerald.jpg
+thumbnail: /new-images/thumbnails/pokemon-emerald.jpg
 tags:
   - rpg
   - adventure

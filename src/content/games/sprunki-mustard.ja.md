@@ -2,7 +2,7 @@
 title: "Sprunki Mustard - Play Sprunki Mustard Online"
 description: "Sprunki Mustardはマスタードイエロー基調の配色で遊べるModです。色味と演出で不穏な雰囲気を作りながら、音を重ねて曲を作れます。"
 iframeSrc: "https://html-classic.itch.zone/html/14281578/index.html"
-thumbnail: "/sprunki-mustard.png"
+thumbnail: /new-images/thumbnails/sprunki-mustard.png
 urlstr: "sprunki-mustard"
 score: "3.9/5  (827 votes)"
 tags: ["sprunki mustard"]

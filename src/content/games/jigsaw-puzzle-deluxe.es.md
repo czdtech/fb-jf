@@ -7,7 +7,7 @@ description: >-
   imágenes preciosas y complétalas pieza a pieza. Con varios niveles de
   dificultad, es perfecto tanto para principiantes como para expertos.
 iframeSrc: 'https://jigsawpuzzledeluxe.h5games.usercontent.goog/v/5jfat3ipu2790/'
-thumbnail: /new-images/jigsaw-puzzle-deluxe.png
+thumbnail: /new-images/thumbnails/jigsaw-puzzle-deluxe.png
 tags:
   - puzzle
   - casual

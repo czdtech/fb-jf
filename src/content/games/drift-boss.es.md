@@ -6,7 +6,7 @@ description: >-
   Drift Boss es un juego de derrapes de un solo botón: calcula el giro para
   mantenerte en la pista y acumula monedas para desbloquear mejoras.
 iframeSrc: 'https://ubg98.github.io/DriftBoss/'
-thumbnail: /new-images/drift-boss.jpg
+thumbnail: /new-images/thumbnails/drift-boss.jpg
 tags:
   - racing
   - drifting

@@ -4,7 +4,7 @@ locale: en
 title: "Chess"
 description: "Learn the rules, pieces, and strategies of Chess, the ultimate game of skill. Plan your moves, control the board, and checkmate your opponent's king to win this timeless classic."
 iframeSrc: "https://ams.cdn.arkadiumhosted.com/assets/global/game/chess/"
-thumbnail: "/new-images/chess.jpg"
+thumbnail: /new-images/thumbnails/chess.jpg
 urlstr: "chess"
 score: "4.0/5  (1497 votes)"
 tags: ["strategy", "puzzle", "classic"]

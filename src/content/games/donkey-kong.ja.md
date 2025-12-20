@@ -2,7 +2,7 @@
 title: Donkey Kong ドンキーコング
 description: 「ドンキーコング」は1981年の伝説的アーケードゲーム。マリオとなり、樽を飛び越え、ハシゴを登り、ドンキーコングからポリーンを救出せよ。
 iframeSrc: 'https://ad-freegames.github.io/flash/game/donkey-kong.html'
-thumbnail: /new-images/donkey-kong.jpg
+thumbnail: /new-images/thumbnails/donkey-kong.jpg
 urlstr: donkey-kong
 score: 4.0/5  (537 votes)
 tags:

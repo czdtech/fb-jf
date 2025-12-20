@@ -3,7 +3,7 @@ locale: en
 title: "Retro Drift"
 description: "Retro Drift is an old‑school top‑down drifter — feather throttle, manage angles, and slide clean through corners."
 iframeSrc: "https://retrodrift.h5games.usercontent.goog/v/3jr7fjtqu0j18/"
-thumbnail: "/new-images/retro-drift.jpg"
+thumbnail: /new-images/thumbnails/retro-drift.jpg
 urlstr: "retro-drift"
 score: "3.7/5  (1338 votes)"
 tags: ["car", "driving", "casual"]

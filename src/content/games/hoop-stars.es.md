@@ -7,7 +7,7 @@ description: >-
   momento del lanzamiento y déjalos caer limpiamente sobre las estacas antes que
   tu rival.
 iframeSrc: 'https://6si9877n1hvh8.h5games.usercontent.goog/v/717o1ln0arjho/'
-thumbnail: /new-images/hoop-stars.png
+thumbnail: /new-images/thumbnails/hoop-stars.png
 tags:
   - sports
   - action

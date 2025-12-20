@@ -4,7 +4,7 @@ urlstr: sprunki-abgerny
 title: "Sprunki Abgerny - Sprunki Abgerny online spielen"
 description: "Sprunki Abgerny ist ein Musikspiel mit starkem Tribal-Flair: Du leitest einen Stamm von Beatboxern, kombinierst traditionelle Klänge und moderne Effekte und erkundest so die Verbindung zwischen alter Kultur und kreativer Sound-Experimente."
 iframeSrc: 'https://turbowarp.org/1095335052/embed'
-thumbnail: /sprunki-abgerny.png
+thumbnail: /new-images/thumbnails/sprunki-abgerny.png
 tags:
   - sprunki abgerny
 score: 3.9/5  (132 votes)

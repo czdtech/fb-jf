@@ -5,7 +5,7 @@ description: >-
   Over‑the‑top beat ’em up: brawl through city stages with unlockable combos,
   improvised weapons, and outrageous special moves.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/hobo.html'
-thumbnail: /new-images/hobo.jpg
+thumbnail: /new-images/thumbnails/hobo.jpg
 urlstr: hobo
 score: 4.9/5  (1360 votes)
 tags:

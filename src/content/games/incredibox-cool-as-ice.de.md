@@ -7,7 +7,7 @@ description: >-
   Winter-Feeling verbinden wollen. Erlebe eine frostige Variante von Incredibox
   mit eisigen Sounds und Figuren.
 iframeSrc: 'https://turbowarp.org/1108441752/embed'
-thumbnail: /incredibox-cool-as-ice.png
+thumbnail: /new-images/thumbnails/incredibox-cool-as-ice.png
 tags:
   - incredibox cool as ice
   - incredibox cool as ice online

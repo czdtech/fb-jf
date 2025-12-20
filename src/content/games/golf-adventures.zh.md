@@ -6,7 +6,7 @@ description: >-
   展開一場高爾夫冒險！這是一款基於物理的解謎遊戲，你需要精準瞄準與控制力度，
   讓球在各種創意地形與機關中穿梭，用盡可能少的桿數打進洞。
 iframeSrc: 'https://golfadventures.h5games.usercontent.goog/v/2er1vod6k6p0o/'
-thumbnail: /new-images/golf-adventures.png
+thumbnail: /new-images/thumbnails/golf-adventures.png
 tags:
   - sports
   - puzzle

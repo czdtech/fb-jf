@@ -2,7 +2,7 @@
 title: "Merge Fruit"
 description: "Merge Fruitはフルーツを育てていくマージパズルです。同じフルーツを合体させて大きくし、ボードが埋まらないように整理します。"
 iframeSrc: "https://4jn7pno36rtg0.h5games.usercontent.goog/v/35hnfvrnimv48/"
-thumbnail: "/new-images/merge-fruit.png"
+thumbnail: /new-images/thumbnails/merge-fruit.png
 urlstr: "merge-fruit"
 score: "4.0/5  (1789 votes)"
 tags: ["puzzle", "casual"]

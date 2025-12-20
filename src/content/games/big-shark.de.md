@@ -7,7 +7,7 @@ description: >-
   wächst, Gefahren wie größere Haie und Minen meidest und im Ozean die höchste
   Punktzahl erreichst.
 iframeSrc: 'https://g2.igroutka.ru/lib/crazy/games/big-shark/'
-thumbnail: /new-images/big-shark.jpg
+thumbnail: /new-images/thumbnails/big-shark.jpg
 tags:
   - casual
   - action

@@ -7,7 +7,7 @@ description: >-
   Erfahre, wie du Notizbücher sammelst, Items sinnvoll einsetzt, Baldi und
   andere Figuren ausmanövrierst und aus der Schule entkommst.
 iframeSrc: 'https://html5.iclouds.io/baldis-basics/index.html'
-thumbnail: /new-images/baldis-basics.jpg
+thumbnail: /new-images/thumbnails/baldis-basics.jpg
 tags:
   - puzzle
   - horror

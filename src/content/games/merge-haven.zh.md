@@ -5,7 +5,7 @@ title: "《Merge Haven》合成家园小岛"
 description: >-
   《Merge Haven》是一款温和治愈向的合成建设游戏，你通过合成各种物品、完成任务来一步步扩展小岛家园，在精细规划棋盘的同时享受慢节奏建设乐趣。
 iframeSrc: 'https://1jjan0u3n07qg.h5games.usercontent.goog/v/5aruivrappsfg/'
-thumbnail: /new-images/merge-haven.png
+thumbnail: /new-images/thumbnails/merge-haven.png
 tags:
   - puzzle
   - casual

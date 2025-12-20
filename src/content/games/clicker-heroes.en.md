@@ -4,7 +4,7 @@ locale: en
 title: "Clicker Heroes"
 description: "The ultimate guide to Clicker Heroes. Learn the core gameplay, expert strategies for Ascension and Ancients, controls, and answers to common questions for this addictive idle/clicker game."
 iframeSrc: "https://cdn.clickerheroes.com/gamebuild/"
-thumbnail: "/new-images/clicker-heroes.jpg"
+thumbnail: /new-images/thumbnails/clicker-heroes.jpg
 urlstr: "clicker-heroes"
 score: "3.9/5  (457 votes)"
 tags: ["clicker", "casual"]

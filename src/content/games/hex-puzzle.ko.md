@@ -6,7 +6,7 @@ description: >-
   Hex Puzzle는 육각형 격자 위에 블록을 배치해 줄을 완성하는 퍼즐 게임으로, 회전할 수 없는 헥사 블록을 빈틈없이 배치해 라인을
   지우는 공간 설계가 중요합니다.
 iframeSrc: 'https://blockpuzzle.h5games.usercontent.goog/v/3rkr8c5j9b23o/'
-thumbnail: /new-images/hex-puzzle.jpg
+thumbnail: /new-images/thumbnails/hex-puzzle.jpg
 tags:
   - puzzle
   - thinky

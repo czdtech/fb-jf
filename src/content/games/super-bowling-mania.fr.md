@@ -4,7 +4,7 @@ urlstr: super-bowling-mania
 title: Super Bowling Mania
 description: "Enfile tes chaussures de bowling dans Super Bowling Mania\_: vise le strike, gère ta puissance et ton effet, et cherche le score parfait."
 iframeSrc: 'https://2tm5ud1ghg66o.h5games.usercontent.goog/v/6ifi8lgb3gv0g/'
-thumbnail: /new-images/super-bowling-mania.png
+thumbnail: /new-images/thumbnails/super-bowling-mania.png
 tags:
   - sports
   - 2 player

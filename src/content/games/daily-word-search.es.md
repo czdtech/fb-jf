@@ -7,7 +7,7 @@ description: >-
   palabras ocultas en todas las direcciones y elige entre jugar contrarreloj o
   en modo tranquilo.
 iframeSrc: 'https://1i20ele8n07u0.h5games.usercontent.goog/v/1n8osodo9gs80/'
-thumbnail: /new-images/daily-word-search.png
+thumbnail: /new-images/thumbnails/daily-word-search.png
 tags:
   - puzzle
   - thinky

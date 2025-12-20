@@ -4,7 +4,7 @@ urlstr: captain-gold
 title: Captain Gold 黄金船长
 description: 《Captain Gold 黄金船长》中，你要操控海盗船长抛出钩爪，在限定时间或次数内抓回尽可能多的金块与宝石，避开 石头和炸药。
 iframeSrc: 'https://captaingold.h5games.usercontent.goog/v/2b7dhu3jscc90/'
-thumbnail: /new-images/captain-gold.jpeg
+thumbnail: /new-images/thumbnails/captain-gold.png
 tags:
   - puzzle
   - casual

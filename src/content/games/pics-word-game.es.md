@@ -6,7 +6,7 @@ description: >-
   Adivina la palabra que conecta las imágenes en Pics Word Game, un adictivo
   juego de puzles de palabras.
 iframeSrc: 'https://picswordgame.h5games.usercontent.goog/v/40jujb4uelhb0/'
-thumbnail: /new-images/pics-word-game.jpg
+thumbnail: /new-images/thumbnails/pics-word-game.jpg
 tags:
   - puzzle
   - thinky

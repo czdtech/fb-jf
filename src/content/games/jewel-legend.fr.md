@@ -6,7 +6,7 @@ description: >-
   Jewel Legend est un match‑3 classique : enchaîne les niveaux, découvre de
   nouveaux obstacles et utilise des bonus pour nettoyer le plateau.
 iframeSrc: 'https://jewellegend.h5games.usercontent.goog/v/0jqrs4v671m0o/'
-thumbnail: /new-images/jewel-legend.png
+thumbnail: /new-images/thumbnails/jewel-legend.png
 tags:
   - puzzle
   - casual

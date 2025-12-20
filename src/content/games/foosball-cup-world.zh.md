@@ -6,7 +6,7 @@ description: >-
   Foosball Cup World 帶來節奏快速的桌上足球體驗——利用角度射門、掌握旋桿時機，
   聰明防守，在短兵相接的比賽中取勝。
 iframeSrc: 'https://7ak26cf4bf850.h5games.usercontent.goog/v/6jmmp78dbnp50/'
-thumbnail: /new-images/foosball-cup-world.png
+thumbnail: /new-images/thumbnails/foosball-cup-world.png
 tags:
   - sports
   - soccer

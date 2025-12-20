@@ -6,7 +6,7 @@ description: >-
   행·열에 같은 숫자가 한 번씩만 오도록 채우되, 칸 사이의 부등호 조건까지
   만족시켜야 하는 논리 퍼즐입니다. 부등식 체인을 활용한 추론이 핵심입니다.
 iframeSrc: 'https://6g7i64vihegl0.h5games.usercontent.goog/v/7bd886r75d4ag/'
-thumbnail: /new-images/futoshiki.jpg
+thumbnail: /new-images/thumbnails/futoshiki.jpg
 tags:
   - puzzle
   - thinky

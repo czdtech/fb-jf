@@ -2,7 +2,7 @@
 title: Veggies Cut
 description: Veggies Cutは、野菜切りゲームです。タイミングよく野菜を切ってスライスしましょう。
 iframeSrc: 'https://ubg98.github.io/VeggiesCut/'
-thumbnail: /new-images/veggies-cut.jpg
+thumbnail: /new-images/thumbnails/veggies-cut.jpg
 urlstr: veggies-cut
 score: 4.2/5  (1987 votes)
 tags:

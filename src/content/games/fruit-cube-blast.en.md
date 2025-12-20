@@ -3,7 +3,7 @@ locale: en
 title: "Fruit Cube Blast"
 description: "Blast your way through juicy levels in Fruit Cube Blast! Tap groups of matching fruit cubes to create explosive combos and clear the board in this fun and colorful puzzle game."
 iframeSrc: "https://5pj67mkaqugmo.h5games.usercontent.goog/v/151if1r687t30/"
-thumbnail: "/new-images/fruit-cube-blast.jpg"
+thumbnail: /new-images/thumbnails/fruit-cube-blast.jpg
 urlstr: "fruit-cube-blast"
 score: "4.2/5  (1770 votes)"
 tags: ["puzzle", "casual", "clicker"]

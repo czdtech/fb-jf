@@ -2,7 +2,7 @@
 title: "Jigsaw Puzzle Deluxe"
 description: "画像を選んでピースを組み立てるクラシックなジグソーパズルです。難易度（ピース数）を選べます。"
 iframeSrc: "https://jigsawpuzzledeluxe.h5games.usercontent.goog/v/5jfat3ipu2790/"
-thumbnail: "/new-images/jigsaw-puzzle-deluxe.png"
+thumbnail: /new-images/thumbnails/jigsaw-puzzle-deluxe.png
 urlstr: "jigsaw-puzzle-deluxe"
 score: "4.6/5  (3200 votes)"
 tags: ["puzzle", "casual", "thinky"]

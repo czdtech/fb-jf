@@ -7,7 +7,7 @@ description: >-
   durch Gemüse, weiche Gefahren aus und halte deinen Rhythmus für hohe
   Kombopunkte.
 iframeSrc: 'https://01pgt4aflffvo.h5games.usercontent.goog/v/2kpv41q3jen50/'
-thumbnail: /new-images/veggies-cut.jpg
+thumbnail: /new-images/thumbnails/veggies-cut.jpg
 tags:
   - action
   - casual

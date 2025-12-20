@@ -6,7 +6,7 @@ description: >-
   Crossword es un crucigrama clásico: completa la cuadrícula resolviendo las
   pistas en horizontal y vertical hasta que todas las letras encajen.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/crossword.html'
-thumbnail: /new-images/crossword.jpg
+thumbnail: /new-images/thumbnails/crossword.jpg
 tags:
   - word
   - puzzle

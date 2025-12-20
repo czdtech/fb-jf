@@ -7,7 +7,7 @@ description: >-
   perfecto, mantén el equilibrio y evita que la estructura se tambalee y se
   venga abajo.
 iframeSrc: 'https://49pvu1mm0ofc0.h5games.usercontent.goog/v/4apam1d97c7mo/'
-thumbnail: /new-images/tower-mania.png
+thumbnail: /new-images/thumbnails/tower-mania.png
 tags:
   - casual
   - puzzle

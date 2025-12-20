@@ -6,7 +6,7 @@ description: >-
   Incredibox XRun Simulator est un mod Simulator nerveux : interface en grille
   pour déclencher des boucles électro rapides façon runner futuriste.
 iframeSrc: 'https://turbowarp.org/1034733178/embed'
-thumbnail: /new-images/incredibox-xrun-simulator.png
+thumbnail: /new-images/thumbnails/incredibox-xrun-simulator.png
 tags:
   - music
   - simulator

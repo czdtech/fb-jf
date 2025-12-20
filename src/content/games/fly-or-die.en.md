@@ -6,7 +6,7 @@ description: >-
   avoiding predators and hazards across sky and ground biomes.
 iframeSrc: >-
   https://app-96679.games.s3.yandex.net/96679/jshypemnvrae6bchv5d2nej2892owe69/index.html
-thumbnail: /new-images/fly-or-die.jpg
+thumbnail: /new-images/thumbnails/fly-or-die.jpg
 urlstr: fly-or-die
 score: 4.6/5  (260 votes)
 tags:

@@ -7,7 +7,7 @@ description: >-
   fichas de Mahjong tradicionales chinas, donde debes emparejar fichas abiertas
   e idénticas para limpiar el tablero.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-mahjong/'
-thumbnail: /new-images/mahjong.jpg
+thumbnail: /new-images/thumbnails/mahjong.jpg
 tags:
   - board game
   - puzzle

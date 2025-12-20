@@ -4,7 +4,7 @@ urlstr: odd-one-out
 title: 找出不同
 description: 在找出不同中找到组中不属于的物品，这是一款测试你的观察力和批判性思维能力的游戏。
 iframeSrc: 'https://oddoneout.h5games.usercontent.goog/v/50nqosk9lm28o/'
-thumbnail: /new-images/odd-one-out.jpg
+thumbnail: /new-images/thumbnails/odd-one-out.jpg
 tags:
   - puzzle
   - thinky

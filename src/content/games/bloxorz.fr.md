@@ -2,7 +2,7 @@
 title: "Bloxorz"
 description: "Fais rouler un bloc 1×2×1 sur des plateformes en suspension et fais-le tomber bien droit dans le trou final. Bloxorz mettra ta logique spatiale à rude épreuve."
 iframeSrc: "https://www.coolmathgames.com/sites/default/files/public_games/22633/"
-thumbnail: "/new-images/bloxorz.jpg"
+thumbnail: /new-images/thumbnails/bloxorz.jpg
 urlstr: "bloxorz"
 score: "4.7/5  (784 votes)"
 tags: ["puzzle", "logique", "classique"]

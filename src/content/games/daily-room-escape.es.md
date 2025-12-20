@@ -6,7 +6,7 @@ description: >-
   Daily Room Escape ofrece pequeños desafíos de escape: explora la habitación,
   resuelve cerraduras lógicas y encaja las pistas para encontrar la salida.
 iframeSrc: 'https://0e53jjs7cgfvg.h5games.usercontent.goog/v/7ksqnmpcepl5g/'
-thumbnail: /new-images/daily-room-escape.png
+thumbnail: /new-images/thumbnails/daily-room-escape.png
 tags:
   - puzzle
   - escape

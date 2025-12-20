@@ -2,7 +2,7 @@
 title: "Block Champ ブロック・チャンプ"
 description: "「Block Champ」は10x10のグリッドパズルゲーム。戦略性が問われる配置ゲームで、雷や氷の特殊ブロックを駆使してラインを消し、ハイスコアを目指そう。"
 iframeSrc: "https://ams.cdn.arkadiumhosted.com/assets/global/game/block-champ/"
-thumbnail: "/new-images/block-champ.jpg"
+thumbnail: /new-images/thumbnails/block-champ.jpg
 urlstr: "block-champ"
 score: "4.6/5  (926 votes)"
 tags: ["puzzle", "board Game"]

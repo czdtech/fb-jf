@@ -4,7 +4,7 @@ urlstr: daily-word-climb
 title: Daily Word Climb
 description: "Daily Word Climb est un défi de mots quotidien\_: trouve des mots à partir d’un ensemble de lettres pour gravir les niveaux."
 iframeSrc: 'https://4ajc8tu89od7g.h5games.usercontent.goog/v/0ohg6vhu56mi0/'
-thumbnail: /new-images/daily-word-climb.png
+thumbnail: /new-images/thumbnails/daily-word-climb.png
 tags:
   - word
   - puzzle

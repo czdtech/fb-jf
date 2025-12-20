@@ -7,7 +7,7 @@ description: >-
   hat die Sprunki‑Welt überzogen, alle Charaktere verfärbt und den Sound in ein
   chaotisch‑gelbes Musikexperiment verwandelt.
 iframeSrc: 'https://turbowarp.org/1153723334/embed'
-thumbnail: /yojou-sprunki-mustard.png
+thumbnail: /new-images/thumbnails/yojou-sprunki-mustard.png
 tags:
   - yojou sprunki mustard
 score: 4.5/5  (322 votes)

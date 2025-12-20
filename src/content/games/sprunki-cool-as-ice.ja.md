@@ -2,7 +2,7 @@
 title: "Sprunki Cool As Ice - Play Sprunki Cool As Ice Online"
 description: "Sprunki: Cool As Iceは冬のテーマで遊べる音楽作成Modです。キャラクターにサウンドを割り当てて音を重ね、雪や氷の雰囲気のトラックを作れます。"
 iframeSrc: "https://turbowarp.org/1114795409/embed"
-thumbnail: "/sprunki-cool-as-ice.png"
+thumbnail: /new-images/thumbnails/sprunki-cool-as-ice.png
 urlstr: "sprunki-cool-as-ice"
 score: "4.2/5  (324 votes)"
 tags: ["sprunki cool as ice", "sprunki cool as ice online"]

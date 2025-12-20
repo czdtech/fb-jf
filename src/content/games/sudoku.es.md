@@ -7,7 +7,7 @@ description: >-
   cuadrícula de 9x9 con los dígitos del 1 al 9, asegurándote de que cada fila,
   columna y subcuadro 3x3 contenga todos los números exactamente una vez.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/html5-sudoku/'
-thumbnail: /new-images/sudoku.jpg
+thumbnail: /new-images/thumbnails/sudoku.jpg
 tags:
   - puzzle
   - logic

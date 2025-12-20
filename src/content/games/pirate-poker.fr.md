@@ -4,7 +4,7 @@ urlstr: pirate-poker
 title: Pirate Poker
 description: "Pirate Poker mélange poker et ambiance pirate\_: forme les meilleures mains possibles, gère ta mise et bluffe pour rafler le butin."
 iframeSrc: 'https://piratepoker.h5games.usercontent.goog/v/6a8k9dnsjdsq0/'
-thumbnail: /new-images/pirate-poker.png
+thumbnail: /new-images/thumbnails/pirate-poker.png
 tags:
   - card
   - strategy

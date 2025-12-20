@@ -2,7 +2,7 @@
 title: "Jewel Blocks"
 description: "宝石テーマのブロックを配置してラインを消すパズルです。ブロックは回転できないため、置き方の計画が重要になります。"
 iframeSrc: "https://jewelblocks.h5games.usercontent.goog/v/0puee6ie0j880/"
-thumbnail: "/new-images/jewel-blocks.png"
+thumbnail: /new-images/thumbnails/jewel-blocks.png
 urlstr: "jewel-blocks"
 score: "4.4/5  (2410 votes)"
 tags: ["puzzle", "thinky", "casual"]

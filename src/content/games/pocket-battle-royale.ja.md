@@ -2,7 +2,7 @@
 title: Pocket Battle Royale
 description: Pocket Battle Royaleはコンパクトなバトルロイヤルです。生き残り、武器を集め、敵と戦い、最後の一人になります。
 iframeSrc: 'https://pocketbattleroyale.h5games.usercontent.goog/v/3k9j5m8h7p2n8/'
-thumbnail: /new-images/pocket-battle-royale.png
+thumbnail: /new-images/thumbnails/pocket-battle-royale.png
 urlstr: pocket-battle-royale
 score: 4.2/5  (2156 votes)
 tags:

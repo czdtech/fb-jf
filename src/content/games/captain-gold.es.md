@@ -7,7 +7,7 @@ description: >-
   momento del lanzamiento, engancha los objetos valiosos y esquiva las rocas
   para alcanzar la cuota.
 iframeSrc: 'https://5djvqvgrgqc0o.h5games.usercontent.goog/v/58gqt26rjid7o/'
-thumbnail: /new-images/captain-gold.png
+thumbnail: /new-images/thumbnails/captain-gold.png
 tags:
   - casual
   - thinky

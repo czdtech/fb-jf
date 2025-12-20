@@ -5,7 +5,7 @@ title: Bubble Trouble
 description: "Bubble Trouble est un arcade nerveux\_: tire ton harpon vers le haut pour éclater les bulles rebondissantes, qui se divisent en bulles de plus en plus petites jusqu’à disparaître."
 iframeSrc: >-
   https://app-96647.games.s3.yandex.net/96647/w4h0ydt7quklspc0jxwg9kauaiii2lnx/index.html
-thumbnail: /new-images/bubble-trouble.jpg
+thumbnail: /new-images/thumbnails/bubble-trouble.jpg
 tags:
   - arcade
   - action

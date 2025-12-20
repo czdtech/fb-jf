@@ -6,7 +6,7 @@ description: >-
   《Liquid puzzle sort
   colors》是一款轻松的倒液体分类游戏，你要按照颜色在瓶子之间倒来倒去，合理留出缓冲空间，最后让每个瓶子只剩下单一颜色且不走入死局。
 iframeSrc: 'https://1b6vgcuid4b98.h5games.usercontent.goog/v/2vus27k78710o/'
-thumbnail: /new-images/liquid-puzzle-sort-colors.jpg
+thumbnail: /new-images/thumbnails/liquid-puzzle-sort-colors.jpg
 tags:
   - puzzle
   - thinky

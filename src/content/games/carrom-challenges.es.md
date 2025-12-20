@@ -6,7 +6,7 @@ description: >-
   Carrom Challenges lleva la precisión del billar al carrom: apunta tus golpes,
   controla los rebotes y emboca con máxima precisión.
 iframeSrc: 'https://6m4vq4nu17rto.h5games.usercontent.goog/v/1g4ai19abgj0g/'
-thumbnail: /new-images/carrom-challenges.png
+thumbnail: /new-images/thumbnails/carrom-challenges.png
 tags:
   - sports
   - pool

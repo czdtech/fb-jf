@@ -4,7 +4,7 @@ urlstr: daily-sudoku-2
 title: Daily Sudoku 2
 description: "Daily Sudoku 2 propose de nouvelles grilles et variantes\_: résous un sudoku par jour et teste des dispositions plus corsées."
 iframeSrc: 'https://dailysudoku2.h5games.usercontent.goog/v/1pm3j7rcg373g/'
-thumbnail: /new-images/daily-sudoku-2.jpg
+thumbnail: /new-images/thumbnails/daily-sudoku-2.png
 tags:
   - puzzle
   - thinky

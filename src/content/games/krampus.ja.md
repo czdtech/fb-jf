@@ -2,7 +2,7 @@
 title: "Krampus"
 description: "ホリデー風のホラープラットフォーマーです。暗いステージで罠や敵を避け、脱出に必要なキーやアイテムを探します。"
 iframeSrc: "https://g2.igroutka.ru/lib/crazy/games/krampus1/"
-thumbnail: "/new-images/krampus.jpg"
+thumbnail: /new-images/thumbnails/krampus.jpg
 urlstr: "krampus"
 score: "3.9/5  (275 votes)"
 tags: ["horror", "platformer"]

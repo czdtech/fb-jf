@@ -7,7 +7,7 @@ description: >-
   homenaje a culturas ancestrales y una exploración de las posibilidades
   infinitas del ritmo y la percusión tribal.
 iframeSrc: 'https://turbowarp.org/1107905149/embed'
-thumbnail: /sprunki-retake-bonus-characters.png
+thumbnail: /new-images/thumbnails/sprunki-retake-bonus-characters.png
 tags:
   - sprunki retake bonus characters
 score: 3.9/5  (132 votes)

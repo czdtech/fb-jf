@@ -4,7 +4,7 @@ urlstr: tomb-of-the-mask
 title: 《Tomb of the Mask》面具之墓
 description: 《Tomb of the Mask》是一款复古像素风的迷宫动作游戏。你戴上神秘面具在地牢中高速滑行，避开陷阱与敌人，收集金币并不断深入墓穴。
 iframeSrc: 'https://tombofthemask.h5games.usercontent.goog/v/6h2d3n9c1b5k0/'
-thumbnail: /new-images/tomb-of-the-mask.jpg
+thumbnail: /new-images/thumbnails/tomb-of-the-mask.jpg
 tags:
   - arcade
   - maze

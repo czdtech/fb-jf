@@ -2,7 +2,7 @@
 title: Snake Game
 description: Snake Gameはクラシックなヘビゲームです。食べ物を食べて成長し、壁や自分の体に当たらないように進みます。
 iframeSrc: 'https://snakegame.h5games.usercontent.goog/v/2j9k5m8h7p3n8/'
-thumbnail: /new-images/snake-game.png
+thumbnail: /new-images/thumbnails/snake-game.jpg
 urlstr: snake-game
 score: 4.4/5  (3456 votes)
 tags:

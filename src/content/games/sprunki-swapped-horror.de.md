@@ -9,7 +9,7 @@ description: >-
   und nutzt ihre neuen Sounds und Rhythmen, um erstaunliche musikalische Werke
   zu erschaffen.
 iframeSrc: 'https://turbowarp.org/1132681434/embed'
-thumbnail: /sprunki-swapped-horror.png
+thumbnail: /new-images/thumbnails/sprunki-swapped-horror.png
 tags:
   - sprunki swapped horror
   - sprunki swapped horror online

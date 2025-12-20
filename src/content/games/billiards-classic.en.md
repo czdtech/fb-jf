@@ -3,7 +3,7 @@ locale: en
 title: "Billiards Classic"
 description: "Enjoy a classic game of 8-ball pool. Aim your shots, apply spin, and sink your designated balls before pocketing the 8-ball to win!"
 iframeSrc: "https://billiardsclassic.h5games.usercontent.goog/v/27m4mvjv84l70/"
-thumbnail: "/new-images/billiards-classic.png"
+thumbnail: /new-images/thumbnails/billiards-classic.png
 urlstr: "billiards-classic"
 score: "4.5/5  (2900 votes)"
 tags: ["sports", "puzzle", "casual"]

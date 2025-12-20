@@ -4,7 +4,7 @@ urlstr: breakout
 title: "Breakout"
 description: "Breakout est le casse‑briques arcade classique : déplace ta raquette, renvoie la balle et détruis toutes les briques sans la laisser tomber."
 iframeSrc: "https://ad-freegames.github.io/flash/game/atari-breakout.html"
-thumbnail: /new-images/breakout.jpg
+thumbnail: /new-images/thumbnails/breakout.jpg
 tags:
   - arcade
   - casual

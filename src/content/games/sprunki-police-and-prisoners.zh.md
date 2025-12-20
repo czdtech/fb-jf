@@ -5,7 +5,7 @@ urlstr: "sprunki-police-and-prisoners"
 title: "Sprunki Police And Prisoners - 在线玩 Sprunki Police And Prisoners"
 description: "Sprunki Police and Prisoners Mod 是对著名 Incredibox Sprunki 现实的一次引人入胜且创新的修改。"
 iframeSrc: "https://turbowarp.org/1113493234/embed"
-thumbnail: "/sprunki-police-and-prisoners.png"
+thumbnail: /new-images/thumbnails/sprunki-police-and-prisoners.png
 score: "3.9/5  (325 票)"
 tags: ["sprunki police and prisoners"]
 ---

@@ -2,7 +2,7 @@
 title: "Flames & Fortune"
 description: "Flames & Fortuneは、手札を管理し、テンポを交換し、賢いターンで敵を出し抜く、戦術的なカードスタイルのバトラーゲームです。"
 iframeSrc: "https://0e8d16hkgti30.h5games.usercontent.goog/v/00r0qn2t79f3g/"
-thumbnail: "/new-images/flames-fortune.jpg"
+thumbnail: /new-images/thumbnails/flames-fortune.jpg
 urlstr: "flames-fortune"
 score: "4.0/5  (1776 votes)"
 tags: ["card", "thinky"]

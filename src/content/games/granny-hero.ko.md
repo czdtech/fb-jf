@@ -7,7 +7,7 @@ description: >-
   장애물을 피하고 이웃들을 도와 나가는 내용을 담고 있습니다. 라인을 바꾸고 점프와
   슬라이드를 타이밍 좋게 사용해 각종 위험을 피하세요.
 iframeSrc: 'https://0nd9712ar55uo.h5games.usercontent.goog/v/3qru4tsu7d5v0/'
-thumbnail: /new-images/granny-hero.png
+thumbnail: /new-images/thumbnails/granny-hero.png
 tags:
   - action
   - casual

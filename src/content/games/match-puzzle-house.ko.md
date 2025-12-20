@@ -7,7 +7,7 @@ description: >-
   달성해 별을 모으고 다양한 방을 꾸밀 수 있습니다. 부스터를 현명하게 사용해 어려운
   퍼즐을 돌파해 보세요.
 iframeSrc: 'https://7cp83ss0h08p0.h5games.usercontent.goog/v/49v2bsl4scjdo/'
-thumbnail: /new-images/match-puzzle-house.png
+thumbnail: /new-images/thumbnails/match-puzzle-house.png
 tags:
   - puzzle
   - casual

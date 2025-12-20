@@ -7,7 +7,7 @@ description: >-
   결합한 모드입니다. 경찰과 죄수 콘셉트의 캐릭터들을 배치해, 독특한 분위기의
   트랙을 만들 수 있습니다.
 iframeSrc: 'https://turbowarp.org/1113493234/embed'
-thumbnail: /sprunki-police-and-prisoners.png
+thumbnail: /new-images/thumbnails/sprunki-police-and-prisoners.png
 tags:
   - sprunki police and prisoners
 score: 3.9/5  (325 votes)

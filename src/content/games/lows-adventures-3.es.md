@@ -6,7 +6,7 @@ description: >-
   Tercera entrega de la trilogía de plataformas retro: saltos más ajustados,
   nuevos bloques especiales y muchos más secretos en niveles compactos.
 iframeSrc: 'https://previews.customer.envatousercontent.com/files/480663659/index.html'
-thumbnail: /new-images/lows-adventures-3.jpg
+thumbnail: /new-images/thumbnails/lows-adventures-3.jpg
 tags:
   - platformer
   - adventure

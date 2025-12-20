@@ -7,7 +7,7 @@ description: >-
   살아남고 최고 점수에 도전해 보세요.
 iframeSrc: >-
   https://crazycaves.h5games.usercontent.goog/v/24bc2c61-c599-4c5a-9fde-fd3a14fd28a6/
-thumbnail: /new-images/crazy-caves.jpg
+thumbnail: /new-images/thumbnails/crazy-caves.jpg
 tags:
   - action
   - casual

@@ -7,7 +7,7 @@ description: >-
   urbane Hip-Hop- und Street-Sounds, die du per Icon-Raster zu Loops
   kombinierst.
 iframeSrc: 'https://turbowarp.org/949700724/embed'
-thumbnail: /new-images/incredibox-downtown-simulator.png
+thumbnail: /new-images/thumbnails/incredibox-downtown-simulator.png
 tags:
   - music
   - simulator

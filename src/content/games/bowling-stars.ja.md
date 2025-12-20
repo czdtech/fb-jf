@@ -2,7 +2,7 @@
 title: "Bowling Stars ボウリング・スターズ"
 description: "「Bowling Stars」で本格的な10ピンボウリングをブラウザで体験。レーンのオイルを読み、角度を決め、ストライクを連発しよう。"
 iframeSrc: "https://0pst60kfu8pi8.h5games.usercontent.goog/v/249kviafiu6co/"
-thumbnail: "/new-images/bowling-stars.png"
+thumbnail: /new-images/thumbnails/bowling-stars.png
 urlstr: "bowling-stars"
 score: "4.0/5  (1743 votes)"
 tags: ["sports", "casual"]

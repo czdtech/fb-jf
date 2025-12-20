@@ -7,7 +7,7 @@ description: >-
   Feld räumst, auf dem versteckte Minen liegen – nur anhand der Zahlhinweise an
   den aufgedeckten Feldern.
 iframeSrc: 'https://freeonlinegames.github.io/games/minesweeper/'
-thumbnail: /new-images/minesweeper.jpg
+thumbnail: /new-images/thumbnails/minesweeper.jpg
 tags:
   - puzzle
   - strategy

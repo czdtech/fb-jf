@@ -3,7 +3,7 @@ locale: en
 title: "TNT Bomb"
 description: "A physics-based puzzle of strategic demolition! Place your limited explosives, including dynamite and powerful bombs, to completely destroy the structures on each level."
 iframeSrc: "https://tntbomb.h5games.usercontent.goog/v/78fb3628-2b9a-4ddc-86ef-7c46021357a2/"
-thumbnail: "/new-images/tnt-bomb.jpg"
+thumbnail: /new-images/thumbnails/tnt-bomb.jpg
 urlstr: "tnt-bomb"
 score: "4.3/5  (2200 votes)"
 tags: ["puzzle", "action", "thinky"]

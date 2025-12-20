@@ -7,7 +7,7 @@ description: >-
   교차하지 않도록 연결하고, 제한된 턴 수와 선 길이, 반드시 지나가야 하는 칸과
   스위치로 여닫히는 게이트까지 관리하며 깔끔한 해답을 찾아보세요.
 iframeSrc: 'https://4es9bmcl5tp2o.h5games.usercontent.goog/v/5uo8nsnhp1vjo/'
-thumbnail: /new-images/light-line.png
+thumbnail: /new-images/thumbnails/light-line.png
 tags:
   - puzzle
   - thinky

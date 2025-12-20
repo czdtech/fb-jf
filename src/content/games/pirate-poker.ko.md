@@ -4,7 +4,7 @@ urlstr: pirate-poker
 title: Pirate Poker 해적 포커
 description: '해적 선원들과 함께 다섯 장 드로 포커를 즐기는 카드 게임입니다. 더블룬을 걸고 패를 교환하며, 최강의 5장 족보로 팟을 가져가 보세요.'
 iframeSrc: 'https://6ghou5c7rjb9g.h5games.usercontent.goog/v/2n3b0c56pikmo/'
-thumbnail: /new-images/pirate-poker.png
+thumbnail: /new-images/thumbnails/pirate-poker.png
 tags:
   - card
   - puzzle

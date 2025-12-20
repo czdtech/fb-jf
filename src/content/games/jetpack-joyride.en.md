@@ -4,7 +4,7 @@ locale: en
 title: "Jetpack Joyride"
 description: "Side‑scroll runner with gadgets: dodge zappers and missiles, grab vehicles and coins, and complete missions for upgrades." 
 iframeSrc: "https://slope-game.github.io/rungame/jetpack-joyride/"
-thumbnail: "/new-images/jetpack-joyride.jpg"
+thumbnail: /new-images/thumbnails/jetpack-joyride.jpg
 urlstr: "jetpack-joyride"
 score: "4.9/5  (437 votes)"
 tags: ["runner", "arcade"]

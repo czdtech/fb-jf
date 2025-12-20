@@ -4,7 +4,7 @@ urlstr: incredibox-carol-of-the-bells
 title: "Incredibox Carol of the Bells"
 description: "Découvre le mod festif « Incredibox Andlbox Carol of the Bells » : remixe le célèbre chant de Noël, empile cloches, chœurs et percussions, et débloque des bonus animés aux couleurs des fêtes."
 iframeSrc: "https://turbowarp.org/931427102/embed"
-thumbnail: /new-images/incredibox-carol-of-the-bells.png
+thumbnail: /new-images/thumbnails/incredibox-carol-of-the-bells.png
 tags:
   - music
   - christmas

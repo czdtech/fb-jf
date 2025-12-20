@@ -6,7 +6,7 @@ description: >-
   Begib dich in Northern Heights auf eine rasante Ski-Tour. Fahre steile Hänge
   hinunter, führe Tricks aus und sammle Münzen, um zur Ski-Legende zu werden.
 iframeSrc: 'https://northernheights.h5games.usercontent.goog/v/1pct901lj7uko/'
-thumbnail: /new-images/northern-heights.png
+thumbnail: /new-images/thumbnails/northern-heights.png
 tags:
   - sports
   - action

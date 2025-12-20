@@ -2,7 +2,7 @@
 title: Minesweeper Mania
 description: Minesweeper Maniaはタイムアタック要素のあるMinesweeperです。地雷を推理し、時間内に盤面をクリアします。
 iframeSrc: 'https://minesweepermania.h5games.usercontent.goog/v/3vf4ml3r9g1b8/'
-thumbnail: /new-images/minesweeper-mania.png
+thumbnail: /new-images/thumbnails/minesweeper-mania.png
 urlstr: minesweeper-mania
 score: 4.2/5  (1987 votes)
 tags:

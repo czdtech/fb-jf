@@ -8,7 +8,7 @@ description: >-
   Sicherheitskameras und musst deine begrenzten Ressourcen geschickt einsetzen,
   um geheimnisvolle Bedrohungen bis zum Morgengrauen zu überleben.
 iframeSrc: 'https://g2.igroutka.ru/lib/crazy/games/night-watchman/'
-thumbnail: /new-images/night-watchman.jpg
+thumbnail: /new-images/thumbnails/night-watchman.jpg
 tags:
   - horror
   - survival

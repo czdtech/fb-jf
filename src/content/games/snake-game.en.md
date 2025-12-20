@@ -4,7 +4,7 @@ locale: en
 title: "Snake Game"
 description: "Snake Game is the classic arcade game where players control a growing snake to eat food items while avoiding collisions with walls and the snake's own body, aiming to achieve the highest possible score."
 iframeSrc: "https://ams.cdn.arkadiumhosted.com/assets/global/game/snake/"
-thumbnail: "/new-images/snake-game.jpg"
+thumbnail: /new-images/thumbnails/snake-game.jpg
 urlstr: "snake-game"
 score: "4.7/5  (1143 votes)"
 tags: ["classic", "arcade", "snake"]

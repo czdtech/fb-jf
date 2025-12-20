@@ -4,7 +4,7 @@ urlstr: the-haze-pixelbox
 title: '《The Haze: Pixelbox》迷雾像素盒'
 description: '《The Haze: Pixelbox》是一款氛围独特的像素解谜/探索游戏。你将在迷雾笼罩的像素世界里移动方块、解开机关，逐步拼凑出隐藏在雾后的真相。'
 iframeSrc: 'https://thehazepixelbox.h5games.usercontent.goog/v/4g7d2n9c1b5k0/'
-thumbnail: /new-images/the-haze-pixelbox.jpg
+thumbnail: /new-images/thumbnails/the-haze-pixelbox.png
 tags:
   - puzzle
   - adventure

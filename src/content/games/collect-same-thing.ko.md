@@ -6,7 +6,7 @@ description: >-
   Collect Same Thing는 같은 그림 타일을 짝지어 보드를 비워 나가는 매칭 퍼즐 게임입니다. 한정된 공간과 시간 안에서 동일한
   아이템을 찾아 제거하며, 막히지 않는 동선을 계획해 보세요.
 iframeSrc: 'https://01cqom45rtuoo.h5games.usercontent.goog/v/6t1iulpqr6t5g/'
-thumbnail: /new-images/collect-same-thing.png
+thumbnail: /new-images/thumbnails/collect-same-thing.png
 tags:
   - puzzle
   - thinky

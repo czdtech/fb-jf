@@ -6,7 +6,7 @@ description: >-
   Incredibox Yellow Colorbox est un mod thématique jaune : sons électroniques
   lumineux et esthétique monochrome pour des mixes très marqués visuellement.
 iframeSrc: 'https://turbowarp.org/1049455116/embed'
-thumbnail: /new-images/incredibox-yellow-colorbox.png
+thumbnail: /new-images/thumbnails/incredibox-yellow-colorbox.png
 tags:
   - music
   - rhythm

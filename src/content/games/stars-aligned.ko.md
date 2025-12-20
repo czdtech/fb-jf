@@ -7,7 +7,7 @@ description: >-
   차분한 퍼즐 게임입니다. 조용한 분위기 속에서 공간 감각과 관찰력을 시험해
   보세요.
 iframeSrc: 'https://starsaligned.h5games.usercontent.goog/v/3i88p78sohtig/'
-thumbnail: /new-images/stars-aligned.jpg
+thumbnail: /new-images/thumbnails/stars-aligned.jpg
 tags:
   - puzzle
   - thinky

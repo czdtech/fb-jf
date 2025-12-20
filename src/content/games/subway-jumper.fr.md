@@ -4,7 +4,7 @@ urlstr: subway-jumper
 title: Subway Jumper
 description: "Subway Jumper est un runner à trois voies dans le métro\_: change de voie, saute, glisse et garde le rythme au milieu des obstacles et des trains."
 iframeSrc: 'https://34clth7bs1mtg.h5games.usercontent.goog/v/20un142k99goo/'
-thumbnail: /new-images/subway-jumper.png
+thumbnail: /new-images/thumbnails/subway-jumper.png
 tags:
   - action
   - casual

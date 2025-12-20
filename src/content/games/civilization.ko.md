@@ -7,7 +7,7 @@ description: >-
   자원을 모으고 건물을 세우며 시대를 발전시켜, 나만의 문명을 완성해 보세요.
 iframeSrc: >-
   https://g2.igroutka.ru/games/23/u6OtaIwSh2rBbZQ8/rvvASMiM/05de7c87be654b588b44dfdafeb11312/
-thumbnail: /new-images/civilization.jpg
+thumbnail: /new-images/thumbnails/civilization.jpg
 tags:
   - casual
   - rhythm

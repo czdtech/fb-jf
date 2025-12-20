@@ -7,7 +7,7 @@ description: >-
   Geistern, Vampiren und schaurigen Sounds komponierst du düstere Tracks für die
   perfekte Party- oder Herbst-Atmosphäre.
 iframeSrc: 'https://turbowarp.org/1087683438/embed'
-thumbnail: /sprunki-halloween.png
+thumbnail: /new-images/thumbnails/sprunki-halloween.png
 tags:
   - sprunki halloween
 score: 4.2/5  (142 votes)

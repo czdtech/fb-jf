@@ -2,7 +2,7 @@
 title: "Sprunki 1996 - Play Sprunki 1996 Online"
 description: "Sprunki 1996は90年代風の見た目で遊べる音楽作成ゲームです。キャラクターを組み合わせて音を重ね、レトロな雰囲気の曲を作れます。"
 iframeSrc: "https://html-classic.itch.zone/html/14634762/index.html"
-thumbnail: "/sprunki-1996.png"
+thumbnail: /new-images/thumbnails/sprunki-1996.png
 urlstr: "sprunki-1996"
 score: "4.0/5  (122 votes)"
 tags: ["sprunki 1996"]

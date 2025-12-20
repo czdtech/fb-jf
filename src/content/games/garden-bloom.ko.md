@@ -6,7 +6,7 @@ description: >-
   매치‑3 퍼즐을 풀어 별을 모으고, 폐허가 된 정원을 다시 꾸며 가는 힐링 퍼즐 게임입니다. 꽃과 장식을 직접 골라 자신만의 정원을 디자인해
   보세요.
 iframeSrc: 'https://gardenbloom.h5games.usercontent.goog/v/03uqf2ceev9h8/'
-thumbnail: /new-images/garden-bloom.png
+thumbnail: /new-images/thumbnails/garden-bloom.png
 tags:
   - puzzle
   - casual

@@ -2,7 +2,7 @@
 title: "Incredibox Yellow Colorbox - Play Incredibox Yellow Colorbox Online"
 description: "Incredibox Yellow Colorboxはファン作成のIncrediboxモッド音楽ゲームです。このバージョンでは、すべてのキャラクターが印象的な黄色で表示され、各キャラクターがユニークなサウンドエフェクトを持っています。"
 iframeSrc: "https://www.minijuegos.com/embed/incredibox-yellow-colorbox"
-thumbnail: "/incredibox-yellow-colorbox.png"
+thumbnail: /new-images/thumbnails/incredibox-yellow-colorbox.png
 urlstr: "incredibox-yellow-colorbox"
 score: "4.5/5  (614 votes)"
 tags: ["incredibox yellow colorbox", "incredibox yellow colorbox online"]

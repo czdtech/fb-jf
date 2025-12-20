@@ -3,7 +3,7 @@ locale: en
 title: "Jungle Bricks"
 description: "Aim and shoot to clear the board in Jungle Bricks! A vibrant brick-breaker game where you must strategically destroy numbered blocks before they reach the bottom."
 iframeSrc: "https://0gt5ae21ln70o.h5games.usercontent.goog/v/0762mjie8e8s0/"
-thumbnail: "/new-images/jungle-bricks.png"
+thumbnail: /new-images/thumbnails/jungle-bricks.png
 urlstr: "jungle-bricks"
 score: "4.0/5  (988 votes)"
 tags: ["puzzle", "shooting", "casual"]

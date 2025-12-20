@@ -2,7 +2,7 @@
 title: Steal a Brainrot
 description: Steal a Brainrotは、戦略とステルスのユニークなブレンドのゲームです。計画を立て、実行し、捕まらないようにしましょう。
 iframeSrc: 'https://ubg98.github.io/StealABrainrot/'
-thumbnail: /new-images/steal-a-brainrot.jpg
+thumbnail: /new-images/thumbnails/steal-a-brainrot.webp
 urlstr: steal-a-brainrot
 score: 4.2/5  (1874 votes)
 tags:

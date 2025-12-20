@@ -2,7 +2,7 @@
 title: "Incredibox Shatter Sprunk - Play Incredibox Shatter Sprunk Online"
 description: "Incredibox Shatter Sprunkはファン作成のIncrediboxモッド音楽ゲームです。このバージョンでは、すべてのキャラクターが印象的な黄色で表示され、各キャラクターがユニークなサウンドエフェクトを持っています。"
 iframeSrc: "https://turbowarp.org/1144858827/embed"
-thumbnail: "/incredibox-shatter-sprunk.png"
+thumbnail: /new-images/thumbnails/incredibox-shatter-sprunk.png
 urlstr: "incredibox-shatter-sprunk"
 score: "4.5/5  (614 votes)"
 tags: ["incredibox shatter sprunk", "incredibox shatter sprunk online"]

@@ -7,7 +7,7 @@ description: >-
   Sprunki를 오싹한 공포 분위기로 재해석한 모드입니다. 노란색에 스며든 섬뜩한
   사운드와 연출로 색다른 음악을 만들어 보세요.
 iframeSrc: 'https://html-classic.itch.zone/html/14281578/index.html'
-thumbnail: /sprunki-mustard.png
+thumbnail: /new-images/thumbnails/sprunki-mustard.png
 tags:
   - sprunki mustard
 score: 3.9/5  (827 votes)

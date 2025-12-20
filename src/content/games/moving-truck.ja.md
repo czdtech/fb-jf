@@ -2,7 +2,7 @@
 title: Moving Truck
 description: Moving Truckは駐車パズルゲームです。トラックを操縦し、障害物を避け、狭いスペースに駐車し、運転スキルをマスターします。
 iframeSrc: 'https://movingtruck.h5games.usercontent.goog/v/45pq94rnc5e78/'
-thumbnail: /new-images/moving-truck.png
+thumbnail: /new-images/thumbnails/moving-truck.jpg
 urlstr: moving-truck
 score: 3.9/5  (1623 votes)
 tags:

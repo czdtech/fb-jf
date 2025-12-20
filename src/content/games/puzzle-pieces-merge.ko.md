@@ -4,7 +4,7 @@ urlstr: puzzle-pieces-merge
 title: Puzzle Pieces Merge 퍼즐 피스 머지
 description: 조각을 드래그해 서로 맞닿게 두면 자동으로 합쳐지는 병합 퍼즐 게임입니다. 회전과 부스터를 활용해 아름다운 풍경 이미지를 완성해 보세요.
 iframeSrc: 'https://5burcumauc5p0.h5games.usercontent.goog/v/4k8cb35sbe9fo/'
-thumbnail: /new-images/puzzle-pieces-merge.jpg
+thumbnail: /new-images/thumbnails/puzzle-pieces-merge.jpg
 tags:
   - puzzle
   - casual

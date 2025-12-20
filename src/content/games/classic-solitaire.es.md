@@ -6,7 +6,7 @@ description: >-
   Disfruta del solitario clásico (Klondike). Mueve cartas con estrategia entre
   el tablero y las bases para ordenar todos los palos en orden ascendente.
 iframeSrc: 'https://6uj90l2koon6g.h5games.usercontent.goog/v/2a72i89u7qfe8/'
-thumbnail: /new-images/classic-solitaire.png
+thumbnail: /new-images/thumbnails/classic-solitaire.png
 tags:
   - card
   - puzzle

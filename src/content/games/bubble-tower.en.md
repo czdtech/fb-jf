@@ -3,7 +3,7 @@ locale: en
 title: "Bubble Tower 3D"
 description: "Take on a new dimension of bubble shooting in Bubble Tower 3D! Rotate the tower, aim your shot, and match three or more colored bubbles to clear the board before the bubbles reach the bottom."
 iframeSrc: "https://bubbletower.h5games.usercontent.goog/v/7ebcukaef3voo/"
-thumbnail: "/new-images/bubble-tower.png"
+thumbnail: /new-images/thumbnails/bubble-tower.png
 urlstr: "bubble-tower"
 score: "4.3/5  (1950 votes)"
 tags: ["puzzle", "shooting", "casual"]

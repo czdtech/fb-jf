@@ -6,7 +6,7 @@ description: >-
   Fruit Ninja ist ein Arcade-Slicer: Wische durch fliegende Früchte, weiche
   Bomben aus und kette Kombos und Frenzy-Boni für hohe Scores.
 iframeSrc: 'https://emulatoros.github.io/gfile/fruitninja/'
-thumbnail: /new-images/fruit-ninja.jpg
+thumbnail: /new-images/thumbnails/fruit-ninja.jpg
 tags:
   - arcade
   - action

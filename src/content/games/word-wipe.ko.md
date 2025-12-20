@@ -6,7 +6,7 @@ description: >-
   글자 보드에서 단어를 만들어 줄을 지우는 속도감 있는 워드 퍼즐 게임입니다. 가로·세로·대각선으로
   인접한 글자를 이어 단어를 만들고, 시간 안에 여러 줄을 없애 높은 점수를 노려 보세요.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-word-wipe/'
-thumbnail: /new-images/word-wipe.jpg
+thumbnail: /new-images/thumbnails/word-wipe.jpg
 tags:
   - word-game
   - puzzle

@@ -6,7 +6,7 @@ description: >-
   Temple Run 2는 끝없이 이어지는 사원 길을 달리며 코인과 파워업을 모으고,
   장애물과 뒤쫓아오는 원숭이를 피해 나가는 러닝 어드벤처 게임입니다.
 iframeSrc: 'https://sxiao.4399.com/4399swf//upload_swf/ftp35/gamehwq/20210119/11/index.html'
-thumbnail: /new-images/temple-run-2.jpg
+thumbnail: /new-images/thumbnails/temple-run-2.jpg
 tags:
   - endless runner
   - adventure

@@ -7,7 +7,7 @@ description: >-
   Straßen, weiche Hindernissen aus, sammle Münzen und nutze starke Power-ups, um
   so weit wie möglich zu laufen.
 iframeSrc: 'https://omnomrun.h5games.usercontent.goog/v/38udj70raubl0/'
-thumbnail: /new-images/om-nom-run.png
+thumbnail: /new-images/thumbnails/om-nom-run.png
 tags:
   - action
   - casual

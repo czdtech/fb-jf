@@ -6,7 +6,7 @@ description: >-
   끊임없이 위로 올라가는 수직 플랫포머 게임입니다. 발판 사이를 튀어 오르며
   몬스터와 함정을 피하고, 각종 파워업을 이용해 가능한 한 높이까지 올라가 보세요.
 iframeSrc: 'https://ubg98.github.io/DoodleJump/'
-thumbnail: /new-images/doodle-jump.jpg
+thumbnail: /new-images/thumbnails/doodle-jump.jpg
 tags:
   - arcade
   - platformer

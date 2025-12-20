@@ -6,7 +6,7 @@ description: >-
   Klassische Wirtschaftssimulation: Lege Preis, Rezept und Werbung fest, kaufe
   Becher/Zitronen/Eis und maximiere deinen Tagesgewinn bei wechselndem Wetter.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/lemonade-stand.html'
-thumbnail: /new-images/lemonade-stand.jpg
+thumbnail: /new-images/thumbnails/lemonade-stand.jpg
 tags:
   - simulation
   - tycoon

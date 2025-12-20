@@ -4,7 +4,7 @@ locale: en
 title: "Raft Wars"
 description: "Raft Wars is a turn-based strategy shooting game where players help two young brothers defend their treasure from pirates and vikings using tennis balls and other projectiles in naval battles."
 iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210301/jj8/index.html"
-thumbnail: "/new-images/raft-wars.jpg"
+thumbnail: /new-images/thumbnails/raft-wars.jpg
 urlstr: "raft-wars"
 score: "4.0/5  (1180 votes)"
 tags: ["strategy", "shooting", "turn-based"]

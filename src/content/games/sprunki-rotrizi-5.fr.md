@@ -7,7 +7,7 @@ description: >-
   sonores complexes, glitches numériques et basses surpuissantes pour des
   morceaux au rendu futuriste.
 iframeSrc: 'https://turbowarp.org/1126764795/embed'
-thumbnail: /sprunki-rotrizi-5.png
+thumbnail: /new-images/thumbnails/sprunki-rotrizi-5.png
 tags:
   - sprunki rotrizi 5.0
 score: 4.0/5  (232 votes)

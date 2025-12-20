@@ -2,7 +2,7 @@
 title: "Retro Drift"
 description: "Retro Driftはレトロ風のドリフトレースです。コーナーでドリフトしてポイントを稼ぎ、トラックの走り方に慣れていきます。"
 iframeSrc: "https://retrodrift.h5games.usercontent.goog/v/2j9k5m8h7p3n8/"
-thumbnail: "/new-images/retro-drift.png"
+thumbnail: /new-images/thumbnails/retro-drift.jpg
 urlstr: "retro-drift"
 score: "4.2/5  (2089 votes)"
 tags: ["racing", "casual"]

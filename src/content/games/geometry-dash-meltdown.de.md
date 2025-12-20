@@ -7,7 +7,7 @@ description: >-
   durch neue, musik-synchrone Stages mit eigenen Themen, Fallen und
   Schiffspassagen.
 iframeSrc: 'https://geometrylite.io/game/geometry-dash-meltdown/'
-thumbnail: /new-images/geometry-dash-meltdown.jpg
+thumbnail: /new-images/thumbnails/geometry-dash-meltdown.jpg
 tags:
   - rhythm
   - platformer

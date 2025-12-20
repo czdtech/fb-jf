@@ -6,7 +6,7 @@ description: >-
   EDM·더브스텝·트랩 사운드를 그리드 인터페이스로 믹싱하는 팬메이드 모드 'Incredibox Xrun Simulator' 가이드입니다.
   강렬한 일렉트로닉 루프를 만드는 방법과 플레이 팁을 소개합니다.
 iframeSrc: 'https://turbowarp.org/740478297/embed'
-thumbnail: /new-images/incredibox-xrun-simulator.png
+thumbnail: /new-images/thumbnails/incredibox-xrun-simulator.png
 tags:
   - music
   - electronic

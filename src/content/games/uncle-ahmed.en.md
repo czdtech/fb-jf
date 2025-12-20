@@ -3,7 +3,7 @@ locale: en
 title: "Uncle Ahmed"
 description: "Embark on a classic 2D platforming adventure with Uncle Ahmed! Jump on enemies, collect coins, and use power-ups to rescue your nephew from a dark sorcerer."
 iframeSrc: "https://uncleahmed.h5games.usercontent.goog/v/31ca380f-5493-4371-b5ac-5c3c2da67626/"
-thumbnail: "/new-images/uncle-ahmed.jpg"
+thumbnail: /new-images/thumbnails/uncle-ahmed.jpg
 urlstr: "uncle-ahmed"
 score: "4.2/5  (1950 votes)"
 tags: ["action", "adventure", "casual"]

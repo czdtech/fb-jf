@@ -7,7 +7,7 @@ description: >-
   Versuche, mit deiner Hand näher an 21 zu kommen als der Dealer, ohne dich zu
   überkaufen.
 iframeSrc: 'https://freegames.org/games/blackjack/v1/'
-thumbnail: /new-images/blackjack.jpg
+thumbnail: /new-images/thumbnails/blackjack.jpg
 tags:
   - casual
   - rhythm

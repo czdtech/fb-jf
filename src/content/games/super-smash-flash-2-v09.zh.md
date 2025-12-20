@@ -4,7 +4,7 @@ urlstr: super-smash-flash-2-v09
 title: 《Super Smash Flash 2 v0.9》乱斗闪光 2 旧版
 description: 《Super Smash Flash 2 v0.9》是乱斗闪光系列的早期版本，集合多款经典游戏角色，在横版场景中进行多人乱斗，将对手击飞出场外获胜。
 iframeSrc: 'https://tysarcade.github.io/SuperSmashFlash2_v0.9/'
-thumbnail: /new-images/super-smash-flash-2-v09.jpg
+thumbnail: /new-images/thumbnails/super-smash-flash-2-v09.jpg
 tags:
   - fighting
   - crossover

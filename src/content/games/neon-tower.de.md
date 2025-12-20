@@ -8,7 +8,7 @@ description: >-
   Feldern. Zerschmettere mehrere Ebenen in Folge, um einen Power-Boost zu
   bekommen!
 iframeSrc: 'https://2mk3ok3s7jl88.h5games.usercontent.goog/v/39vfhh0oku1j8/'
-thumbnail: /new-images/neon-tower.png
+thumbnail: /new-images/thumbnails/neon-tower.png
 tags:
   - action
   - casual

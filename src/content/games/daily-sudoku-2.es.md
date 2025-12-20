@@ -7,7 +7,7 @@ description: >-
   forma que cada fila, columna y subcuadrícula 3x3 contenga los dígitos del 1 al
   9 sin repetir.
 iframeSrc: 'https://4j6utu2p6fklg.h5games.usercontent.goog/v/6qh61gl4k3ado/'
-thumbnail: /new-images/daily-sudoku-2.png
+thumbnail: /new-images/thumbnails/daily-sudoku-2.png
 tags:
   - puzzle
   - thinky

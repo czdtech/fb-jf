@@ -4,7 +4,7 @@ locale: en
 title: "Escaping the Prison"
 description: "A Henry Stickmin point‑and‑click adventure: choose items and routes (Sneaky/Badass/Legal) to break out, with multiple endings and gags."
 iframeSrc: "https://classroomjq.github.io/escaping-the-prison/"
-thumbnail: "/new-images/escaping-the-prison.jpg"
+thumbnail: /new-images/thumbnails/escaping-the-prison.jpg
 urlstr: "escaping-the-prison"
 score: "5.0/5  (1344 votes)"
 tags: ["adventure", "point-and-click"]

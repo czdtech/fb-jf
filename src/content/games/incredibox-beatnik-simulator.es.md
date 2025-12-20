@@ -7,7 +7,7 @@ description: >-
   humo de los años 50 y 60, con una temática centrada en la subcultura Beatnik,
   famosa por su jazz, poesía y espíritu inconformista.
 iframeSrc: 'https://turbowarp.org/948885978/embed'
-thumbnail: /new-images/incredibox-beatnik-simulator.png
+thumbnail: /new-images/thumbnails/incredibox-beatnik-simulator.png
 tags:
   - music
   - rhythm

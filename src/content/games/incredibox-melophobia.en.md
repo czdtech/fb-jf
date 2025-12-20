@@ -4,7 +4,7 @@ modType: incredibox
 title: "Incredibox Melophobia"
 description: "Incredibox Melophobia This guide details its eclectic sound palette, featuring chiptune and strange samples, and provides tips for unlocking its bizarre animated bonuses."
 iframeSrc: "https://turbowarp.org/1110167821/embed"
-thumbnail: "/new-images/incredibox-melophobia.png"
+thumbnail: /new-images/thumbnails/incredibox-melophobia.png
 urlstr: "incredibox-melophobia"
 score: "4.7/5 (1987 votes)"
 tags: ["music", "rhythm"]

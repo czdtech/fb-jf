@@ -7,7 +7,7 @@ description: >-
   te permet de le créer de A à Z : apparence, couleurs, tenues et accessoires,
   tout est personnalisable.
 iframeSrc: 'https://www.playfiddlebops.com/embed/sprunki-marker/index.html'
-thumbnail: /sprunki-maker.png
+thumbnail: /new-images/thumbnails/sprunki-maker.png
 tags:
   - sprunki maker (big update)
   - sprunki maker (big update) online

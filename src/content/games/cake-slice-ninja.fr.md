@@ -4,7 +4,7 @@ urlstr: cake-slice-ninja
 title: Cake Slice Ninja
 description: "Cake Slice Ninja est un jeu de découpe façon «\_fruit ninja\_»\_: tranche les parts de gâteau en vol, enchaîne les combos et évite les bombes."
 iframeSrc: 'https://cakesliceninja.h5games.usercontent.goog/v/5bh2c88k8pku8/'
-thumbnail: /new-images/cake-slice-ninja.jpeg
+thumbnail: /new-images/thumbnails/cake-slice-ninja.jpeg
 tags:
   - action
   - casual

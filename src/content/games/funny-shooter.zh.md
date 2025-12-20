@@ -6,7 +6,7 @@ description: >-
   波次制射擊原型作：在一波波攻勢中對付各式怪異敵人，
   收集金錢並升級武器，才能在愈來愈硬的關卡中存活。
 iframeSrc: 'https://bitlifeonline.github.io/class2623/funny-shooter/'
-thumbnail: /new-images/funny-shooter.jpg
+thumbnail: /new-images/thumbnails/funny-shooter.jpg
 tags:
   - shooting
   - fps

@@ -5,7 +5,7 @@ title: "Geometry Dash SubZero"
 description: "Niveaux autonomes à thème hivernal : saute, vole et enchaîne les anneaux en rythme sur des patterns rapides et des visuels glacés."
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp46/chenling/20240322/06/index.html
-thumbnail: /new-images/geometry-dash-subzero.jpg
+thumbnail: /new-images/thumbnails/geometry-dash-subzero.jpg
 tags:
   - rhythm
   - platformer

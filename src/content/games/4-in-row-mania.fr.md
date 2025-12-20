@@ -4,7 +4,7 @@ urlstr: 4-in-row-mania
 title: "4 In Row MANIA"
 description: "4 In Row MANIA est un Puissance 4 nerveux : contrôle le centre, tends des pièges et aligne quatre jetons avant ton adversaire." 
 iframeSrc: 'https://4vt1c4a3eda48.h5games.usercontent.goog/v/73p1lulj7oe3o/'
-thumbnail: /new-images/4-in-row-mania.jpg
+thumbnail: /new-images/thumbnails/4-in-row-mania.jpg
 tags:
   - 2 player
   - thinky

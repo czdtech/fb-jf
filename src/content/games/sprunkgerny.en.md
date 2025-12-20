@@ -7,7 +7,7 @@ description: >-
   games, encourages you to embrace imperfection and randomness, and allows you
   to unleash your musical inspiration in exploration and fun.
 iframeSrc: 'https://turbowarp.org/1107761681/embed'
-thumbnail: /Sprunkgerny.png
+thumbnail: /new-images/thumbnails/sprunkgerny.png
 urlstr: sprunkgerny
 score: 4.9/5  (724 votes)
 tags:

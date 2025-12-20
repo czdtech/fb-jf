@@ -7,7 +7,7 @@ description: >-
   ihre speziellen Eigenschaften, löse Kettenreaktionen aus und räume das
   Spielfeld mit cleveren Zügen.
 iframeSrc: 'https://turbowarp.org/1102648676/embed'
-thumbnail: /sprunki-eggs-mix.png
+thumbnail: /new-images/thumbnails/sprunki-eggs-mix.png
 tags:
   - sprunki egg
 score: 3.9/5  (125 votes)

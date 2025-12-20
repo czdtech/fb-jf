@@ -2,7 +2,7 @@
 title: Uncle Ahmed
 description: Uncle Ahmedは、アドベンチャーパズルゲームです。アンクルアーメッドを助けて謎を解きましょう。
 iframeSrc: 'https://ubg98.github.io/UncleAhmed/'
-thumbnail: /new-images/uncle-ahmed.jpg
+thumbnail: /new-images/thumbnails/uncle-ahmed.jpg
 urlstr: uncle-ahmed
 score: 4.2/5  (1876 votes)
 tags:

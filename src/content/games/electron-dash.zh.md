@@ -6,7 +6,7 @@ description: >-
   Electron Dash 是一款高速隧道跑酷遊戲，你要在圓柱與浮空平台上奔跑、跳躍與衝刺，
   在越來越快的節奏下盡量跑出最遠距離。
 iframeSrc: 'https://slope-game.github.io/electron-dash/'
-thumbnail: /new-images/electron-dash.jpg
+thumbnail: /new-images/thumbnails/electron-dash.jpg
 tags:
   - arcade
   - runner

@@ -4,7 +4,7 @@ urlstr: hexamind
 title: "《HexaMind》六角逻辑谜题"
 description: "《HexaMind》是一款基于六边形棋盘的逻辑解谜游戏，你要在蜂巢格子上摆放颜色或数字，满足相邻约束与奇偶规则，通过环形与射线推理一步步锁定唯一解。"
 iframeSrc: 'https://518ndvi54l1n0.h5games.usercontent.goog/v/608gefgjbkc88/'
-thumbnail: /new-images/hexamind.png
+thumbnail: /new-images/thumbnails/hexamind.png
 tags:
   - puzzle
   - thinky

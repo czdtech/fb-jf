@@ -6,7 +6,7 @@ description: >-
   《Bloons TD 3 气球塔防 3》在系列基础上加入更多猴子塔、首次引入 MOAB 飞艇与 Monkey Beacon 支援塔，通过更
   多样的地图与难度考验你的塔防布局功力。
 iframeSrc: 'https://sy3vy6p21ko40.h5games.usercontent.goog/v/1f5ug7f5ecpao/'
-thumbnail: /new-images/bloons-td-3.jpg
+thumbnail: /new-images/thumbnails/bloons-td-3.jpg
 tags:
   - casual
   - strategy

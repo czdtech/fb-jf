@@ -6,7 +6,7 @@ description: >-
   在《Color Pixel Art Classic 像素填色经典版》中，通过数字填色的方式完成一幅幅精致的
   像素画。选择颜色、找到对应编号方格并填充，逐步还原隐藏在像素里的完整图像，是非常 解压的休闲体验。
 iframeSrc: 'https://colorpixel.h5games.usercontent.goog/v/6ko86juonaau0/'
-thumbnail: /new-images/color-pixel-art.png
+thumbnail: /new-images/thumbnails/color-pixel-art.png
 tags:
   - puzzle
   - casual

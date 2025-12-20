@@ -4,7 +4,7 @@ urlstr: 4-pics-1-word
 title: 4 Pics 1 Word 四图一词
 description: 在《4 Pics 1 Word（四图一词）》中，你需要通过四张看似无关的图片，联想到它们共同指向的那个英文单词，用直觉与联想能力解出一个又一个谜题。
 iframeSrc: 'https://previews.customer.envatousercontent.com/files/309288896/index.html'
-thumbnail: /new-images/4-pics-1-word.jpg
+thumbnail: /new-images/thumbnails/4-pics-1-word.jpg
 tags:
   - casual
   - rhythm

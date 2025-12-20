@@ -6,7 +6,7 @@ description: >-
   Ducklings ist ein entspanntes Sammelspiel auf dem Wasser: Rette Entenküken auf
   dem See und bring sie sicher zurück in dein Nest.
 iframeSrc: 'https://g2.igroutka.ru/games/164/BkDlKfiWjEoZ2rcG/ducklings_io/'
-thumbnail: /new-images/ducklings.jpg
+thumbnail: /new-images/thumbnails/ducklings.jpg
 tags:
   - casual
   - arcade

@@ -4,7 +4,7 @@ locale: en
 title: "Head Soccer"
 description: "1v1 arcade football with giant heads: jump, shoot, and use power shots to outscore your opponent in short matches." 
 iframeSrc: "https://1games.io/game/head-soccer-2024/"
-thumbnail: "/new-images/head-soccer.jpg"
+thumbnail: /new-images/thumbnails/head-soccer.jpg
 urlstr: "head-soccer"
 score: "3.9/5  (540 votes)"
 tags: ["sports", "soccer"]

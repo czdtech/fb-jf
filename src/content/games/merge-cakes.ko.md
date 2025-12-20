@@ -6,7 +6,7 @@ description: >-
   Merge Cakes는 같은 케이크를 합쳐 더 화려한 디저트를 만들어 가는 머지 퍼즐 게임입니다. 진열대를 채우고 주문을 완료하며 가장
   달콤한 베이커리를 키워 보세요.
 iframeSrc: 'https://mergecakes.h5games.usercontent.goog/v/516lkgikje8fo/'
-thumbnail: /new-images/merge-cakes.jpg
+thumbnail: /new-images/thumbnails/merge-cakes.jpg
 tags:
   - puzzle
   - casual

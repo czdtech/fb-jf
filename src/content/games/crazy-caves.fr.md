@@ -4,7 +4,7 @@ urlstr: crazy-caves
 title: Crazy Caves
 description: "Crazy Caves est un jeu de tir dans une mine\_: lance ta pioche ou tes projectiles pour briser les rochers et récupérer des trésors avant qu’ils ne t’écrasent."
 iframeSrc: 'https://crazycaves.h5games.usercontent.goog/v/0ssl67d066d40/'
-thumbnail: /new-images/crazy-caves.png
+thumbnail: /new-images/thumbnails/crazy-caves.jpg
 tags:
   - action
   - casual

@@ -4,7 +4,7 @@ urlstr: superhot
 title: 《SUPERHOT》子弹时间战术射击
 description: 《SUPERHOT》是一款极具创意的第一人称战术射击游戏：时间只在你移动时流动。在白色极简场景中规划走位与射击，用最少的动作解决所有敌人。
 iframeSrc: 'https://superhot.h5games.usercontent.goog/v/7d1p4s9k2l3m0/'
-thumbnail: /new-images/superhot.jpg
+thumbnail: /new-images/thumbnails/superhot.jpg
 tags:
   - shooting
   - strategy

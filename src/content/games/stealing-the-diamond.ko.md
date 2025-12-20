@@ -7,7 +7,7 @@ description: >-
   주인공 헨리가 경비가 삼엄한 박물관에 침입해 거대한 다이아몬드를 훔치는
   이야기를 다룹니다. 각 선택에 따라 서로 다른 웃픈 결말이 펼쳐집니다.
 iframeSrc: 'https://bitlifeonline.github.io/stealing-the-diamond/'
-thumbnail: /new-images/stealing-the-diamond.jpg
+thumbnail: /new-images/thumbnails/stealing-the-diamond.jpg
 tags:
   - adventure
   - funny

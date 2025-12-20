@@ -8,7 +8,7 @@ description: >-
   Brett nicht überläuft.
 iframeSrc: >-
   https://2048giant.h5games.usercontent.goog/v/4bea87e2-a9a9-4f4b-b1c8-8b777220c567/
-thumbnail: /new-images/2048-giant.jpg
+thumbnail: /new-images/thumbnails/2048-giant.jpg
 tags:
   - puzzle
   - thinky

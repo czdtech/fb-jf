@@ -7,7 +7,7 @@ description: >-
   Mod, you will see familiar characters appear in unexpected images, and use
   their new sounds and rhythms to create amazing musical works.
 iframeSrc: 'https://turbowarp.org/1132681434/embed'
-thumbnail: /sprunki-swapped-horror.png
+thumbnail: /new-images/thumbnails/sprunki-swapped-horror.png
 urlstr: sprunki-swapped-horror
 modType: sprunki
 score: 4.4/5  (395 votes)

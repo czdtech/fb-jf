@@ -6,7 +6,7 @@ description: >-
   在《Woodcraft》中体验悠闲的木工时光。跟随节奏打磨木料、雕刻造型、完成订单，
   解锁新的工具与图样，在舒缓的节奏中享受“手作木艺”的成就感。
 iframeSrc: 'https://g2.igroutka.ru/games/164/i06q7hMeRCsWOPKy/woodcraft/'
-thumbnail: /new-images/woodcraft.jpg
+thumbnail: /new-images/thumbnails/woodcraft.jpg
 tags:
   - casual
   - rhythm

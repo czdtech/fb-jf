@@ -5,7 +5,7 @@ title: "《Panenka Football》勺子点球大师"
 description: >-
   《Panenka Football》是一款专注点球策略的足球小游戏，你可以尝试经典“勺子点球”等各种射门方式，通过伪装意图与精准挑射，骗过门将、攻入关键一球。
 iframeSrc: 'https://15n5pfdq70ung.h5games.usercontent.goog/v/2ftdtu6n19sk8/'
-thumbnail: /new-images/panenka-football.png
+thumbnail: /new-images/thumbnails/panenka-football.png
 tags:
   - sports
   - soccer

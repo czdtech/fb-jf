@@ -7,7 +7,7 @@ description: >-
   퍼즐 게임입니다. 오차를 줄여 오버행을 최소화하고 가장 높은 타워를
   만들어 보세요.
 iframeSrc: 'https://11bhsd7s4hdbg.h5games.usercontent.goog/v/7a58l0501ebp8/'
-thumbnail: /new-images/sky-tower.png
+thumbnail: /new-images/thumbnails/sky-tower.png
 tags:
   - puzzle
   - thinky

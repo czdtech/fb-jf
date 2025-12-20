@@ -3,7 +3,7 @@ locale: en
 title: "FullSpeed Racing"
 description: "FullSpeed Racing is an arcade racer — pick lines, nail braking points, and overtake cleanly at pace."
 iframeSrc: "https://fullspeedracing.h5games.usercontent.goog/v/4kqu52vbp4da8/"
-thumbnail: "/new-images/fullspeed-racing.jpg"
+thumbnail: /new-images/thumbnails/fullspeed-racing.jpg
 urlstr: "fullspeed-racing"
 score: "4.1/5  (2014 votes)"
 tags: ["car", "driving", "sports"]

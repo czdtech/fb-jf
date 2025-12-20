@@ -4,7 +4,7 @@ urlstr: spider-solitaire-2
 title: Spider Solitaire
 description: "Relève le défi de Spider Solitaire\_: range les cartes en séquences descendantes par couleur pour les retirer du tableau. Un vrai test de stratégie et de planification."
 iframeSrc: 'https://spidersolitaire.h5games.usercontent.goog/v/42fd7cuq80rao/'
-thumbnail: /new-images/spider-solitaire-2.png
+thumbnail: /new-images/thumbnails/spider-solitaire-2.png
 tags:
   - card
   - puzzle

@@ -7,7 +7,7 @@ description: >-
   달아나야 하는 클래식 아케이드 미로 게임입니다. 파워 펠릿을 먹으면 잠시 동안 유령을
   되려 먹을 수 있습니다.
 iframeSrc: 'https://bward2.github.io/pacman-js/'
-thumbnail: /new-images/pac-man.jpg
+thumbnail: /new-images/thumbnails/pac-man.jpg
 tags:
   - arcade
   - maze

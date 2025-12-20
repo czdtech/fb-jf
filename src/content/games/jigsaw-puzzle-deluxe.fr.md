@@ -6,7 +6,7 @@ description: >-
   Jigsaw Puzzle Deluxe propose des puzzles classiques en haute définition :
   choisis ton image, le nombre de pièces et détends‑toi en les assemblant.
 iframeSrc: 'https://jigsawpuzzledeluxe.h5games.usercontent.goog/v/3q2hgql084vtg/'
-thumbnail: /new-images/jigsaw-puzzle-deluxe.png
+thumbnail: /new-images/thumbnails/jigsaw-puzzle-deluxe.png
 tags:
   - puzzle
   - casual

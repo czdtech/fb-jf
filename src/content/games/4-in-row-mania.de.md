@@ -7,7 +7,7 @@ description: >-
   die Spalten fallen, kontrolliere die Mitte und bring als Erste*r vier deiner
   Steine in eine Reihe.
 iframeSrc: 'https://4vt1c4a3eda48.h5games.usercontent.goog/v/73p1lulj7oe3o/'
-thumbnail: /new-images/4-in-row-mania.jpg
+thumbnail: /new-images/thumbnails/4-in-row-mania.jpg
 tags:
   - 2 player
   - thinky

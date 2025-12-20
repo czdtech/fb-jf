@@ -5,7 +5,7 @@ description: >-
   4 In Row MANIA is a classic connect‑four duel — outmaneuver, control columns,
   and line up four first.
 iframeSrc: 'https://4vt1c4a3eda48.h5games.usercontent.goog/v/73p1lulj7oe3o/'
-thumbnail: /new-images/4-in-row-mania.jpg
+thumbnail: /new-images/thumbnails/4-in-row-mania.jpg
 urlstr: 4-in-row-mania
 score: 4.1/5  (1993 votes)
 tags:

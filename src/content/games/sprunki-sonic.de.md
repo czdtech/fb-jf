@@ -7,7 +7,7 @@ description: >-
   in Sprunki Sonic findest du deinen Spaß. Dieses Spiel ist leicht zu erlernen,
   aber schwer zu meistern, perfekt für Spieler aller Fähigkeitsstufen.
 iframeSrc: 'https://turbowarp.org/1114980098/embed'
-thumbnail: /sprunki-sonic.png
+thumbnail: /new-images/thumbnails/sprunki-sonic.png
 tags:
   - sprunki sonic
   - sprunki sonic online

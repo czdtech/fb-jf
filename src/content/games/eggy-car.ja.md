@@ -2,7 +2,7 @@
 title: Eggy Car エッギー・カー
 description: 「Eggy Car」は壊れやすい卵を運ぶドライブゲーム。デコボコ道を慎重に走り、卵を落として割らないように遠くまで進もう。
 iframeSrc: 'https://webglmath.github.io/eggy-car/'
-thumbnail: /new-images/eggy-car.jpg
+thumbnail: /new-images/thumbnails/eggy-car.jpg
 urlstr: eggy-car
 score: 4.9/5  (297 votes)
 tags:

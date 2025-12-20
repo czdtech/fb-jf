@@ -4,7 +4,7 @@ urlstr: basketball-legends
 title: "Basketball Legends"
 description: "Basketball Legends est un jeu de basket arcade 1v1 ou 2v2 plein de dunks exagérés et de tirs spéciaux : maîtrise les déplacements, le dash et le Super Shoot pour dominer tes adversaires en solo ou à deux."
 iframeSrc: "https://webglmath.github.io/basketball-legends/"
-thumbnail: /new-images/basketball-legends.jpg
+thumbnail: /new-images/thumbnails/basketball-legends.jpg
 tags:
   - 2-Player
   - sports

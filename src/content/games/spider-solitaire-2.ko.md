@@ -7,7 +7,7 @@ description: >-
   같은 무늬의 카드를 K에서 A까지 내림차순으로 정렬해 더미를 비워 나가는 것이
   목표로, 신중한 계획과 장기적인 수 읽기가 요구됩니다.
 iframeSrc: 'https://spidersolitaire.h5games.usercontent.goog/v/42fd7cuq80rao/'
-thumbnail: /new-images/spider-solitaire-2.png
+thumbnail: /new-images/thumbnails/spider-solitaire-2.png
 tags:
   - card
   - puzzle

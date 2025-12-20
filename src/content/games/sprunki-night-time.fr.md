@@ -7,7 +7,7 @@ description: >-
   profondes, synthés éthérés et effets fantomatiques se mêlent pour créer une
   expérience musicale immersive.
 iframeSrc: 'https://turbowarp.org/1100659044/embed'
-thumbnail: /sprunki-night-time.png
+thumbnail: /new-images/thumbnails/sprunki-night-time.png
 tags:
   - sprunki night time
   - sprunki night time online

@@ -7,7 +7,7 @@ description: >-
   논리 퍼즐 게임입니다. 색·숫자·기호 제약을 모두 만족시키며 전체 보드를
   완성해 보세요.
 iframeSrc: 'https://518ndvi54l1n0.h5games.usercontent.goog/v/608gefgjbkc88/'
-thumbnail: /new-images/hexamind.png
+thumbnail: /new-images/thumbnails/hexamind.png
 tags:
   - puzzle
   - thinky

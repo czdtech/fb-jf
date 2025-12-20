@@ -8,7 +8,7 @@ description: >-
   kitchen in this addictive culinary challenge.
 iframeSrc: >-
   https://g2.igroutka.ru/games/7/K6bHUF2pdiz30Aam/4399swf/upload_swf/ftp40/chenling/20220916/6/
-thumbnail: /new-images/yummy-taco.jpg
+thumbnail: /new-images/thumbnails/yummy-taco.jpg
 urlstr: yummy-taco
 score: 4.1/5  (1206 votes)
 tags:

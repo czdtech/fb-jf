@@ -6,7 +6,7 @@ description: >-
   Trap the Cat est un puzzle stratégique : bloque les voies d'évasion du chat
   en plaçant des barrières sur une grille hexagonale.
 iframeSrc: 'https://freeonlinegames.github.io/cat-trap.html'
-thumbnail: /new-images/trap-the-cat.jpg
+thumbnail: /new-images/thumbnails/trap-the-cat.jpg
 tags:
   - strategy
   - puzzle

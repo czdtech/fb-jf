@@ -7,7 +7,7 @@ description: >-
   Tausche bunte Juwelen, erschaffe Spezialsteine und löse hunderte Level mit
   unterschiedlichen Zielen.
 iframeSrc: 'https://jewelacademy.h5games.usercontent.goog/v/2krc7uv2m9998/'
-thumbnail: /new-images/jewel-academy.png
+thumbnail: /new-images/thumbnails/jewel-academy.png
 tags:
   - puzzle
   - casual

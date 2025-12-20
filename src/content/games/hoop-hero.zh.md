@@ -4,7 +4,7 @@ urlstr: hoop-hero
 title: "《Hoop Hero》节奏灌篮英雄"
 description: "在《Hoop Hero》中，你要抓准节奏，在篮球正好与篮筐重合的一瞬间点击完成灌篮，用一键操作挑战反应和手感，连续命中刷出更高连击得分。"
 iframeSrc: 'https://06f80rna6d2sg.h5games.usercontent.goog/v/69kffdfih87r0/'
-thumbnail: /new-images/hoop-hero.png
+thumbnail: /new-images/thumbnails/hoop-hero.png
 tags:
   - action
   - casual

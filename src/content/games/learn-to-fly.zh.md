@@ -4,7 +4,7 @@ urlstr: learn-to-fly
 title: 《Learn To Fly》学会飞行
 description: 《Learn To Fly》是一款企鹅发射升级类游戏，你要调整起飞角度、控制滑翔与加速，每天赚取现金购买新部件，让企鹅飞得越来越远。
 iframeSrc: 'https://ad-freegames.github.io/flash/game/learn-to-fly.html'
-thumbnail: /new-images/learn-to-fly.jpg
+thumbnail: /new-images/thumbnails/learn-to-fly.jpg
 tags:
   - arcade
   - upgrade

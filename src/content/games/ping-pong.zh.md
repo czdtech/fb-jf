@@ -5,7 +5,7 @@ title: "《Ping Pong》经典乒乓街机"
 description: >-
   《Ping Pong》是一款经典的乒乓街机游戏，双方各操控一块拍子在屏幕两侧来回击球，试图让对手接不到球从而得分。
 iframeSrc: 'https://ranimania.com/Games/pingpong/ping_pong/'
-thumbnail: /new-images/ping-pong.jpg
+thumbnail: /new-images/thumbnails/ping-pong.jpg
 tags:
   - arcade
   - sports

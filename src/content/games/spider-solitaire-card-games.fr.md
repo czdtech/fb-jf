@@ -8,7 +8,7 @@ description: >-
   l’As. Avec plusieurs niveaux de difficulté (1, 2 ou 4 couleurs), c’est un
   puzzle stratégique pour tous les profils de joueurs.
 iframeSrc: 'https://ubg98.github.io/SpiderSolitaire/'
-thumbnail: /new-images/spider-solitaire-card-games.jpg
+thumbnail: /new-images/thumbnails/spider-solitaire-card-games.jpg
 tags:
   - card-game
   - puzzle

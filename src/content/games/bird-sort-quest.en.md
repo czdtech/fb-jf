@@ -3,7 +3,7 @@ locale: en
 title: "Bird Sort Quest"
 description: "Bird Sort Quest turns color‑sorting into a soothing challenge — move birds between perches, unify colors, and plan several steps ahead."
 iframeSrc: "https://59c0fiphd7ng0.h5games.usercontent.goog/v/5cgtqofbdtd08/"
-thumbnail: "/new-images/bird-sort-quest.png"
+thumbnail: /new-images/thumbnails/bird-sort-quest.png
 urlstr: "bird-sort-quest"
 score: "4.1/5  (2069 votes)"
 tags: ["puzzle", "thinky", "casual"]

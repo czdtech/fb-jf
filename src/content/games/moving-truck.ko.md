@@ -6,7 +6,7 @@ description: >-
   Moving Truck은 다양한 모양과 크기의 짐을 이삿 트럭에 안정적으로 적재해 목적지까지
   무사히 운반해야 하는 물리 퍼즐 게임입니다.
 iframeSrc: 'https://g.igroutka.ru/games/164/JgHSvhdBMa5pf4WZ/moving_truck/'
-thumbnail: /new-images/moving-truck.jpg
+thumbnail: /new-images/thumbnails/moving-truck.jpg
 tags:
   - puzzle
   - physics

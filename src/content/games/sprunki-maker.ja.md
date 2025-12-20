@@ -2,7 +2,7 @@
 title: "Sprunki Maker (BIG update) - Play Sprunki Maker (BIG update) Online"
 description: "Sprunki MakerはSprunkiキャラクターをカスタマイズできる作成ツールです。見た目や色を調整して、自分好みのキャラクターを作れます。"
 iframeSrc: "https://www.playfiddlebops.com/embed/sprunki-marker/index.html"
-thumbnail: "/sprunki-maker.png"
+thumbnail: /new-images/thumbnails/sprunki-maker.png
 urlstr: "sprunki-maker"
 score: "4.8/5  (700 votes)"
 tags: ["sprunki maker (big update)", "sprunki maker (big update) online"]

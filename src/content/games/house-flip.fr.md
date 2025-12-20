@@ -4,7 +4,7 @@ urlstr: house-flip
 title: "House Flip"
 description: "House Flip gamifie la rénovation : inspecte, planifie ton budget et revends les maisons en améliorant le plan, le style et l’attrait extérieur."
 iframeSrc: "https://45g7qkftithd0.h5games.usercontent.goog/v/7691fk060s8pg/"
-thumbnail: /new-images/house-flip.png
+thumbnail: /new-images/thumbnails/house-flip.png
 tags:
   - puzzle
   - casual

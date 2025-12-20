@@ -6,7 +6,7 @@ description: >-
   상단 시점에서 장갑 차량을 조종하며 적을 섬멸하는 슈팅 게임입니다. 지형을
   활용해 포화를 피하고, 스킬 쿨타임을 관리하며 적의 물량을 버텨 보세요.
 iframeSrc: 'https://2fr3rldr11rpg.h5games.usercontent.goog/v/2pn2tgakfpecg/'
-thumbnail: /new-images/armored-assault-strike.png
+thumbnail: /new-images/thumbnails/armored-assault-strike.png
 tags:
   - shooting
   - action

@@ -7,7 +7,7 @@ description: >-
   varía la altura del disparo y trata de adivinar al portero alternando rondas
   como lanzador y guardameta.
 iframeSrc: 'https://58r8ibinmpjeg.h5games.usercontent.goog/v/2m3pjv3her9fg/'
-thumbnail: /new-images/penalty-showdown.jpg
+thumbnail: /new-images/thumbnails/penalty-showdown.jpg
 tags:
   - sports
   - soccer

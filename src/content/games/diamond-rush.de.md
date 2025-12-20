@@ -7,7 +7,7 @@ description: >-
   tauschst du funkelnde Diamanten, bildest Reihen aus drei oder mehr gleichen
   Steinen und räumst das Spielfeld, um immer höhere Punktzahlen zu erreichen.
 iframeSrc: 'https://diamondrush.h5games.usercontent.goog/v/63ok750qri670/'
-thumbnail: /new-images/diamond-rush.png
+thumbnail: /new-images/thumbnails/diamond-rush.png
 tags:
   - puzzle
   - casual

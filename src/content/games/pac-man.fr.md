@@ -7,7 +7,7 @@ description: >-
   manger toutes les pastilles tout en fuyant quatre fantômes colorés. Les super
   pastilles te permettent temporairement de les dévorer.
 iframeSrc: 'https://bward2.github.io/pacman-js/'
-thumbnail: /new-images/pac-man.jpg
+thumbnail: /new-images/thumbnails/pac-man.jpg
 tags:
   - arcade
   - maze

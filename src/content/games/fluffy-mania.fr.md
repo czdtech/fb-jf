@@ -4,7 +4,7 @@ urlstr: fluffy-mania
 title: "Fluffy Mania"
 description: "Fluffy Mania est un puzzle cosy de connexion : relie les adorables « fluffies », déclenche des cascades et poursuis les meilleurs scores."
 iframeSrc: 'https://02rd6nna08dqg.h5games.usercontent.goog/v/3ngbs02gf9h88/'
-thumbnail: /new-images/fluffy-mania.png
+thumbnail: /new-images/thumbnails/fluffy-mania.png
 tags:
   - puzzle
   - casual

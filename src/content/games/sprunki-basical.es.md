@@ -8,7 +8,7 @@ description: >-
   muy sencillos. Si te gusta Incredibox y quieres probar algo nuevo, Sprunki
   Basical es una gran opción.
 iframeSrc: "https://sprunki-basical.pages.dev/"
-thumbnail: "/sprunki-basical.png"
+thumbnail: /new-images/thumbnails/sprunki-basical.png
 tags:
   - sprunki basical
   - sprunki basical online

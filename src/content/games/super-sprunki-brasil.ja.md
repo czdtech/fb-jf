@@ -2,7 +2,7 @@
 title: Super Sprunki Brasil
 description: Super Sprunki Brasilは、ブラジルテーマの音楽制作Modです。ブラジルのリズムとサウンドで音楽を作成しましょう。
 iframeSrc: 'https://turbowarp.org/1172495803/embed'
-thumbnail: /super-sprunki-brasil.png
+thumbnail: /new-images/thumbnails/super-sprunki-brasil.png
 urlstr: super-sprunki-brasil
 score: 4.3/5  (412 votes)
 tags:

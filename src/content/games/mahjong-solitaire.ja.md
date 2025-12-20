@@ -2,7 +2,7 @@
 title: Mahjong Solitaire
 description: クラシックな麻雀ソリティアです。同じ絵柄のフリータイルをペアで消し、観察と順番選びで盤面をクリアします。
 iframeSrc: 'https://mahjongsoliatire.h5games.usercontent.goog/v/5ad8cln5mkk60/'
-thumbnail: /new-images/mahjong-solitaire.png
+thumbnail: /new-images/thumbnails/mahjong-solitaire.png
 urlstr: mahjong-solitaire
 score: 4.5/5  (2750 votes)
 tags:

@@ -7,7 +7,7 @@ description: >-
   Incredibox mélange jeu et création musicale pour tous les âges, directement
   dans ton navigateur.
 iframeSrc: 'https://nom74100.github.io/in-box/'
-thumbnail: /Incredibox.png
+thumbnail: /new-images/thumbnails/incredibox.png
 tags:
   - incredibox
   - incredibox online

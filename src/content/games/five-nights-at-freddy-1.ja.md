@@ -2,7 +2,7 @@
 title: "Five Nights at Freddy's 1 (FNAF 1)"
 description: "ピザ屋でのホラーサバイバル：カメラを監視し、電力を節約し、ドアやライトを操作して、5日間の夜（そしてそれ以降）をアニマトロニクスから守り抜きましょう。"
 iframeSrc: "https://ubg77.github.io/fix/fnaf1/"
-thumbnail: "/new-images/five-nights-at-freddy-1.jpg"
+thumbnail: /new-images/thumbnails/five-nights-at-freddy-1.jpg
 urlstr: "five-nights-at-freddy-1"
 score: "4.3/5  (370 votes)"
 tags: ["horror", "strategy"]

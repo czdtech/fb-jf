@@ -6,7 +6,7 @@ description: >-
   Footchinko verbindet Fußball mit Pachinko: Lass den Ball fallen, pralle an
   Pins ab und ziele auf Tore, hohe Punktzahlen und coole Boni.
 iframeSrc: 'https://footchinko2.h5games.usercontent.goog/v/3iniom5rsklno/'
-thumbnail: /new-images/footchinko.jpg
+thumbnail: /new-images/thumbnails/footchinko.jpg
 tags:
   - sports
   - casual

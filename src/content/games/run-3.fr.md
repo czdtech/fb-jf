@@ -7,7 +7,7 @@ description: >-
   dans un tunnel 3D, saute par‑dessus les trous et évite les obstacles en
   défiant la gravité dans un platformer ultra addictif.
 iframeSrc: 'https://lekug.github.io/tn6pS9dCf37xAhkJv/index.html'
-thumbnail: /new-images/run-3.jpg
+thumbnail: /new-images/thumbnails/run-3.jpg
 tags:
   - endless runner
   - space

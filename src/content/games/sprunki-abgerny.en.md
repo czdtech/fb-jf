@@ -5,7 +5,7 @@ description: >-
   Sprunki Abgerny is a tribute to ancient cultures and an exploration of the
   endless possibilities of music creation.
 iframeSrc: 'https://turbowarp.org/1095335052/embed'
-thumbnail: /sprunki-abgerny.png
+thumbnail: /new-images/thumbnails/sprunki-abgerny.png
 urlstr: sprunki-abgerny
 modType: sprunki
 score: 3.9/5  (132 votes)

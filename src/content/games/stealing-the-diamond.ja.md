@@ -3,7 +3,7 @@ title: Stealing the Diamond
 description: >-
   Stealing the Diamondは、選択によって展開が分岐するインタラクティブアドベンチャーゲームです。ダイヤモンドを盗むための手段を選び、結果の違いを楽しみます。
 iframeSrc: 'https://ubg98.github.io/StealingTheDiamond/'
-thumbnail: /new-images/stealing-the-diamond.jpg
+thumbnail: /new-images/thumbnails/stealing-the-diamond.jpg
 urlstr: stealing-the-diamond
 score: 4.5/5  (3127 votes)
 tags:

@@ -5,7 +5,7 @@ title: Onet Connect Classic
 description: "Onet Connect Classic est un jeu de connexion de tuiles façon mahjong\_: relie des paires identiques avec un chemin à deux virages max pour vider le plateau."
 iframeSrc: >-
   https://onetconnectclassic.h5games.usercontent.goog/v/7c35dad4-9aa6-4470-8f91-ae613fdc821a/
-thumbnail: /new-images/onet-connect-classic.jpg
+thumbnail: /new-images/thumbnails/onet-connect-classic.png
 tags:
   - puzzle
   - casual

@@ -7,7 +7,7 @@ description: >-
   들어가도록 격자를 채우세요.
 iframeSrc: >-
   https://dailysudoku.h5games.usercontent.goog/v/03446732-f14b-4bcc-9e8b-68fc499a0cec/
-thumbnail: /new-images/daily-sudoku-3.jpg
+thumbnail: /new-images/thumbnails/daily-sudoku-3.jpg
 tags:
   - puzzle
   - thinky

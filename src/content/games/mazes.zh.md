@@ -5,7 +5,7 @@ title: "《Mazes》经典迷宫闯关合集"
 description: >-
   《Mazes》是一款经典迷宫闯关游戏，包含从简单网格到机关重重的多种关卡，你需要规划最优路径，躲开陷阱，并在限定时间内冲向终点。
 iframeSrc: 'https://1ivu76rhffpsg.h5games.usercontent.goog/v/00icu4vi09j18/'
-thumbnail: /new-images/mazes.jpg
+thumbnail: /new-images/thumbnails/mazes.jpg
 tags:
   - puzzle
   - thinky

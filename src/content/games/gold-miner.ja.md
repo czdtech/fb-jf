@@ -2,7 +2,7 @@
 title: "Gold Miner"
 description: "フックで釣り上げるアーケードの定番：タイミングよく爪を放って金や宝石を掴み、パワーアップを購入し、時間切れになる前に目標金額を達成しましょう。"
 iframeSrc: "https://ad-freegames.github.io/flash/game/gold-miner.html"
-thumbnail: "/new-images/gold-miner.jpg"
+thumbnail: /new-images/thumbnails/gold-miner.jpg
 urlstr: "gold-miner"
 score: "4.2/5  (260 votes)"
 tags: ["arcade", "skill"]

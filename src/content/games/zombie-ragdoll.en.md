@@ -3,7 +3,7 @@ locale: en
 title: "Zombie Ragdoll"
 description: "Zombie Ragdoll is a ragdoll physics shooter — launch corpses, trigger traps, and clear puzzles with chain reactions."
 iframeSrc: "https://04qb5fhi49qmg.h5games.usercontent.goog/v/64br0v92f7928/"
-thumbnail: "/new-images/zombie-ragdoll.jpg"
+thumbnail: /new-images/thumbnails/zombie-ragdoll.jpg
 urlstr: "zombie-ragdoll"
 score: "3.9/5  (1753 votes)"
 tags: ["shooting", "puzzle", "casual"]

@@ -3,7 +3,7 @@ locale: en
 title: "Tripeaks Solitaire"
 description: "Clear the three peaks in Tripeaks Solitaire! A fast-paced card game where you match cards that are one rank higher or lower to clear the board."
 iframeSrc: "https://tripeakssolitaire.h5games.usercontent.goog/v/4v3d7g06n6rug/"
-thumbnail: "/new-images/tripeaks-solitaire.png"
+thumbnail: /new-images/thumbnails/tripeaks-solitaire.png
 urlstr: "tripeaks-solitaire"
 score: "4.5/5  (2600 votes)"
 tags: ["card", "puzzle", "casual"]

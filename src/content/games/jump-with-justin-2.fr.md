@@ -4,7 +4,7 @@ urlstr: jump-with-justin-2
 title: "Jump With Justin 2"
 description: "Jump With Justin 2 est un jeu de plateforme axé sur les sauts rebondissants : enchaîne ressorts et rebonds, évite les pièges et garde ton momentum jusqu’à la sortie."
 iframeSrc: "https://jumpwithjustin2.h5games.usercontent.goog/v/54vavt12q94n8/"
-thumbnail: /new-images/jump-with-justin-2.png
+thumbnail: /new-images/thumbnails/jump-with-justin-2.png
 tags:
   - action
   - casual

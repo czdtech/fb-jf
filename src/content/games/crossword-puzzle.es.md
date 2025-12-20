@@ -6,7 +6,7 @@ description: >-
   Crossword Puzzle es un crucigrama clásico: rellena la cuadrícula usando las
   definiciones en horizontal y vertical hasta completar el tablero.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/crossword-puzzle.html'
-thumbnail: /new-images/crossword-puzzle.jpg
+thumbnail: /new-images/thumbnails/crossword-puzzle.jpg
 tags:
   - word
   - puzzle

@@ -2,7 +2,7 @@
 title: Mahjongg Candy
 description: Mahjongg Candyはキャンディテーマの麻雀ソリティアです。タイルをペアで消し、ボーナスを狙いながら盤面をクリアします。
 iframeSrc: 'https://mahjonggcandy.h5games.usercontent.goog/v/5n1hfvph2fdug/'
-thumbnail: /new-images/mahjongg-candy.png
+thumbnail: /new-images/thumbnails/mahjongg-candy.jpg
 urlstr: mahjongg-candy
 score: 4.3/5  (2150 votes)
 tags:

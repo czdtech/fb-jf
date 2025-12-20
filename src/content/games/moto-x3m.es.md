@@ -7,7 +7,7 @@ description: >-
   atraviesas circuitos llenos de trampas, rampas y explosiones mientras haces
   piruetas espectaculares.
 iframeSrc: 'https://webglmath.github.io/moto-x3m/'
-thumbnail: /new-images/moto-x3m.jpg
+thumbnail: /new-images/thumbnails/moto-x3m.jpg
 tags:
   - racing
   - stunt

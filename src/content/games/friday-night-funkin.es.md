@@ -7,7 +7,7 @@ description: >-
   rivales semana a semana; en dificultades altas se añaden patrones más
   rápidos y notas largas exigentes.
 iframeSrc: 'https://html-classic.itch.zone/html/2876359-1077558/index.html'
-thumbnail: /new-images/friday-night-funkin.jpg
+thumbnail: /new-images/thumbnails/friday-night-funkin.jpg
 tags:
   - rhythm
   - music

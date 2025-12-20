@@ -7,7 +7,7 @@ description: >-
   시간 안에 목표 금액을 맞추기 위해 집게 타이밍을 정확히 맞추고, 상점에서
   폭탄과 강화 아이템을 활용해 후반 스테이지를 공략해 보세요.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/gold-miner.html'
-thumbnail: /new-images/gold-miner.jpg
+thumbnail: /new-images/thumbnails/gold-miner.jpg
 tags:
   - arcade
   - skill

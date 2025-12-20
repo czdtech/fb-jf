@@ -4,7 +4,7 @@ urlstr: bunny-quest
 title: Bunny Quest 小兔迷宫拼图
 description: 《Bunny Quest 小兔迷宫拼图》是一款滑块式路径解谜游戏，通过滑动地砖为小兔子拼出一条从起点到胡萝卜的安全路 线。
 iframeSrc: 'https://bunnyquest.h5games.usercontent.goog/v/4t4vj17o0imw8/'
-thumbnail: /new-images/bunny-quest.jpg
+thumbnail: /new-images/thumbnails/bunny-quest.png
 tags:
   - puzzle
   - thinky

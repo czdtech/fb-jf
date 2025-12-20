@@ -2,7 +2,7 @@
 title: "Bad Time Simulator (Sans Fight) サンズ戦シミュレーター"
 description: "「Bad Time Simulator」で、Undertale最難関のサンズ戦をブラウザで体験。すべての攻撃パターンや回避方法を練習して、悪夢のような弾幕を生き延びろ。"
 iframeSrc: "https://jcw87.github.io/c2-sans-fight/"
-thumbnail: "/new-images/bad-time-simulator.jpg"
+thumbnail: /new-images/thumbnails/bad-time-simulator.jpg
 urlstr: "bad-time-simulator"
 score: "4.8/5  (3500 votes)"
 tags: ["action", "rhythm", "bullet-hell"]

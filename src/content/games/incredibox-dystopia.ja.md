@@ -2,7 +2,7 @@
 title: "Incredibox Dystopia"
 description: "ダークなサイバーパンクの世界を舞台にしたファン作成モッド『Incredibox Dystopia』を探索しましょう。このガイドでは、エレクトロニックとシンセウェーブのサウンドパレット、未来的なビートを作成するためのゲームプレイのヒント、テーマ別ボーナスのアンロック方法を詳しく説明します。"
 iframeSrc: "https://turbowarp.org/1015284026/embed"
-thumbnail: "/new-images/incredibox-dystopia.png"
+thumbnail: /new-images/thumbnails/incredibox-dystopia.png
 urlstr: "incredibox-dystopia"
 score: "4.8/5 (2345 votes)"
 tags: ["music", "electronic", "rhythm"]

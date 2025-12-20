@@ -7,7 +7,7 @@ description: >-
   bietet dir eine seitlich scrollende Welt zum Erkunden, Rohstoffe abbauen,
   Craften, Bauen und Überleben gegen Monster.
 iframeSrc: 'https://scratch.mit.edu/projects/10128407/embed'
-thumbnail: /new-images/paper-minecraft.jpg
+thumbnail: /new-images/thumbnails/paper-minecraft.jpg
 tags:
   - sandbox
   - crafting

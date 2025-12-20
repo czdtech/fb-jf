@@ -7,7 +7,7 @@ description: >-
   3인칭 아케이드 게임입니다. 드리프트와 점프, 차량 근접 통과를 이어 가며 스타일리시하게
   점수를 쌓아 보세요.
 iframeSrc: 'https://ubg100.github.io/games/tanuki/index.html'
-thumbnail: /new-images/tanuki-sunset.jpg
+thumbnail: /new-images/thumbnails/tanuki-sunset.jpg
 tags:
   - arcade
   - racing

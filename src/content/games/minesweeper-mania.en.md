@@ -3,7 +3,7 @@ locale: en
 title: "Minesweeper Mania"
 description: "The classic logic puzzle, reimagined! Use number clues to locate all the hidden mines on the board. With multiple difficulty levels, it's the ultimate test of deduction."
 iframeSrc: "https://minesweepermania.h5games.usercontent.goog/v/6cje7ufl50e4g/"
-thumbnail: "/new-images/minesweeper-mania.png"
+thumbnail: /new-images/thumbnails/minesweeper-mania.png
 urlstr: "minesweeper-mania"
 score: "4.7/5  (3400 votes)"
 tags: ["puzzle", "thinky", "casual"]

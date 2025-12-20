@@ -7,7 +7,7 @@ description: >-
   dale cuerda a la caja de la Marioneta, usa la linterna y ponte la máscara de
   Freddy en el momento justo para sobrevivir.
 iframeSrc: 'https://ubg77.github.io/fix/fnaf2/'
-thumbnail: /new-images/five-nights-at-freddy-2.jpg
+thumbnail: /new-images/thumbnails/five-nights-at-freddy-2.jpg
 tags:
   - horror
   - strategy

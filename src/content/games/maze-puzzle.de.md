@@ -7,7 +7,7 @@ description: >-
   locke patrouillierende Wachen aus der Bahn und finde mit den richtigen
   Schlüsseln den Ausgang – oft unter leichtem Zeitdruck.
 iframeSrc: 'https://3931uc3bsois0.h5games.usercontent.goog/v/7nvm8etm546uo/'
-thumbnail: /new-images/maze-puzzle.png
+thumbnail: /new-images/thumbnails/maze-puzzle.png
 tags:
   - puzzle
   - thinky

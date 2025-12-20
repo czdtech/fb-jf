@@ -7,7 +7,7 @@ description: >-
   berüchtigten Sans‑Bosskampf aus Undertale nachbildet. Mit Einstieg,
   Strategien, Steuerung und FAQ für deinen "Bad Time".
 iframeSrc: 'https://gotoanddie.github.io/c2-sans-fight/'
-thumbnail: /new-images/bad-time-simulator.jpg
+thumbnail: /new-images/thumbnails/bad-time-simulator.jpg
 tags:
   - casual
   - rhythm

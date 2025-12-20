@@ -7,7 +7,7 @@ description: >-
   tirando de los pines en el orden correcto para guiar con seguridad a los
   alienígenas de colores hasta su nave espacial.
 iframeSrc: 'https://pintheufo.h5games.usercontent.goog/v/08ukqv01ac45o/'
-thumbnail: /new-images/pin-the-ufo.jpeg
+thumbnail: /new-images/thumbnails/pin-the-ufo.jpeg
 tags:
   - puzzle
   - casual

@@ -7,7 +7,7 @@ description: >-
   objetivos, gana estrellas y renueva habitaciones usando potenciadores con
   cabeza.
 iframeSrc: 'https://7cp83ss0h08p0.h5games.usercontent.goog/v/49v2bsl4scjdo/'
-thumbnail: /new-images/match-puzzle-house.png
+thumbnail: /new-images/thumbnails/match-puzzle-house.png
 tags:
   - puzzle
   - casual

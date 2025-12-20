@@ -4,7 +4,7 @@ urlstr: cannon-balls-3d
 title: Cannon Balls 3D 炮弹拆塔 3D
 description: 《Cannon Balls 3D 炮弹拆塔 3D》中，你要用有限的炮弹瞄准并摧毁各种立体塔楼结构，利用物理碰撞与连锁倒塌效果 完成关卡。
 iframeSrc: 'https://5tnk2rqmgso7o.h5games.usercontent.goog/v/300jonflssn98/'
-thumbnail: /new-images/cannon-balls-3d.png
+thumbnail: /new-images/thumbnails/cannon-balls-3d.png
 tags:
   - puzzle
   - casual

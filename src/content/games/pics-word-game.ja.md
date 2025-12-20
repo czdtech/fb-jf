@@ -2,7 +2,7 @@
 title: Pics Word Game
 description: Pics Word Gameは写真ワードパズルです。写真の共通点から単語を推測して答えを導きます。
 iframeSrc: 'https://picswordgame.h5games.usercontent.goog/v/3j9k5m8h7p2n8/'
-thumbnail: /new-images/pics-word-game.png
+thumbnail: /new-images/thumbnails/pics-word-game.jpg
 urlstr: pics-word-game
 score: 4.2/5  (2045 votes)
 tags:

@@ -2,7 +2,7 @@
 title: Super Smash Flash
 description: Super Smash Flashは、オリジナルのファン製格闘ゲームです。様々なゲームキャラクターで戦う楽しい体験を提供します。
 iframeSrc: 'https://ubg98.github.io/SuperSmashFlash/'
-thumbnail: /new-images/super-smash-flash.jpg
+thumbnail: /new-images/thumbnails/super-smash-flash.jpg
 urlstr: super-smash-flash
 score: 4.5/5  (3876 votes)
 tags:

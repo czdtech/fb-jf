@@ -7,7 +7,7 @@ description: >-
   타워를 배치하고 업그레이드해 50라운드에 달하는 블룬(풍선) 물결을 막아 내고,
   폭발·빙결에 면역인 블랙/화이트 블룬에 대응하는 전략을 익혀 보세요.
 iframeSrc: 'https://1000freegames.github.io/swf/bloons-td-2.html'
-thumbnail: /new-images/bloons-td-2.jpg
+thumbnail: /new-images/thumbnails/bloons-td-2.jpg
 tags:
   - casual
   - strategy

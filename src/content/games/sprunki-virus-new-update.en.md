@@ -7,7 +7,7 @@ description: >-
   soundscapes, glitchy graphics, and intense gameplay mechanics to bring you an
   unprecedented thrilling experience!
 iframeSrc: 'https://turbowarp.org/1104064786/embed'
-thumbnail: /sprunki-virus-new-update.png
+thumbnail: /new-images/thumbnails/sprunki-virus-new-update.png
 urlstr: sprunki-virus-new-update
 modType: sprunki
 score: 4.0/5  (407 votes)

@@ -8,7 +8,7 @@ description: >-
   collisions imprévisibles et une bonne dose de chaos contrôlé à la formule
   musicale classique.
 iframeSrc: 'https://turbowarp.org/1090663998/embed'
-thumbnail: /sprunki-interactive-beta.png
+thumbnail: /new-images/thumbnails/sprunki-interactive-beta.png
 tags:
   - sprunki interactive beta
 score: 4.0/5  (407 votes)

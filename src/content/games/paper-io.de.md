@@ -7,7 +7,7 @@ description: >-
   Block steuerst und mit gezogenen Linien Gebiete umschließt, um möglichst viel
   Fläche zu erobern – während du gegnerischen Angriffen ausweichst.
 iframeSrc: 'https://mathgames66.github.io/games/html5/paperio2/'
-thumbnail: /new-images/paper-io.jpg
+thumbnail: /new-images/thumbnails/paper-io.jpg
 tags:
   - multiplayer
   - strategy

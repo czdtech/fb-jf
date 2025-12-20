@@ -6,7 +6,7 @@ description: >-
   그리드 기반 인터페이스로 도심 힙합·일렉트로닉 비트를 만드는 팬메이드 모드 'Incredibox Downtown Simulator'에 대한
   소개와 기본 전략, 조작법을 정리한 가이드입니다.
 iframeSrc: 'https://turbowarp.org/949700724/embed'
-thumbnail: /new-images/incredibox-downtown-simulator.png
+thumbnail: /new-images/thumbnails/incredibox-downtown-simulator.png
 tags:
   - music
   - simulator

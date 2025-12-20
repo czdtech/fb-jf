@@ -4,7 +4,7 @@ urlstr: tiny-fishing
 title: 《Tiny Fishing》轻松趣味钓鱼
 description: 《Tiny Fishing》是一款节奏悠闲的钓鱼游戏。抛出鱼线、捕捉各种鱼类，用赚到的金币升级装备，解锁更深的水域和稀有鱼种。
 iframeSrc: 'https://webglmath.github.io/tiny-fishing/'
-thumbnail: /new-images/tiny-fishing.jpg
+thumbnail: /new-images/thumbnails/tiny-fishing.jpg
 tags:
   - fishing
   - casual

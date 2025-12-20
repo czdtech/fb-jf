@@ -4,7 +4,7 @@ urlstr: fruit-cube-blast
 title: Fruit Cube Blast 水果方塊爆爆樂
 description: 在 Fruit Cube Blast 中一路炸穿多汁關卡！點擊成片同色水果方塊，製造華麗連鎖與爆炸特效， 清空棋盤、完成關卡目標。
 iframeSrc: 'https://5pj67mkaqugmo.h5games.usercontent.goog/v/151if1r687t30/'
-thumbnail: /new-images/fruit-cube-blast.jpg
+thumbnail: /new-images/thumbnails/fruit-cube-blast.jpg
 tags:
   - puzzle
   - casual

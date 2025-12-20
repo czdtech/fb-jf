@@ -4,7 +4,7 @@ urlstr: farming-10x10
 title: "Farming 10x10"
 description: "Farming 10x10 revisite le classique puzzle 10x10 : place des formes, vide les lignes/colonnes et évite de bloquer l’espace précieux de la grille."
 iframeSrc: 'https://66ts484uf5r18.h5games.usercontent.goog/v/1nt4ffhi7k9jo/'
-thumbnail: /new-images/farming-10x10.jpg
+thumbnail: /new-images/thumbnails/farming-10x10.jpg
 tags:
   - puzzle
   - thinky

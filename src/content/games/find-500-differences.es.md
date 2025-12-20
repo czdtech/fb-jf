@@ -7,7 +7,7 @@ description: >-
   imágenes que parecen idénticas y encuentra todas las diferencias sutiles que
   las separan.
 iframeSrc: 'https://find500differences2.h5games.usercontent.goog/v/4gu2tobroroug/'
-thumbnail: /new-images/find-500-differences.png
+thumbnail: /new-images/thumbnails/find-500-differences.png
 tags:
   - puzzle
   - casual

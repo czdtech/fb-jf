@@ -6,7 +6,7 @@ description: >-
   Make It Meme ist ein Multiplayer-Online-Partyspiel, in dem ihr gegeneinander
   antretet, indem ihr Memes erstellt und bewertet.
 iframeSrc: 'https://artedu1808.github.io/g177/make-it-meme/'
-thumbnail: /new-images/make-it-meme.jpg
+thumbnail: /new-images/thumbnails/make-it-meme.jpg
 tags:
   - party game
   - casual

@@ -4,7 +4,7 @@ urlstr: hoop-stars
 title: "《Hoop Stars》翻圈对决"
 description: "《Hoop Stars》是一款环圈翻转技巧游戏，你要控制圆环绕着中心柱旋转，抓准时机一跃而出，越过障碍稳稳套在柱子上，比对手更快更准完成得分。"
 iframeSrc: 'https://6si9877n1hvh8.h5games.usercontent.goog/v/717o1ln0arjho/'
-thumbnail: /new-images/hoop-stars.png
+thumbnail: /new-images/thumbnails/hoop-stars.png
 tags:
   - sports
   - action

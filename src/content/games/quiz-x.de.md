@@ -6,7 +6,7 @@ description: >-
   Quiz x ist eine schnelle Quizshow: Lies die Fragen, denke breit und wähle
   unter leichtem Zeitdruck die passendste Antwort aus.
 iframeSrc: 'https://5348abrdhudu8.h5games.usercontent.goog/v/35ge2no4verb8/'
-thumbnail: /new-images/quiz-x.png
+thumbnail: /new-images/thumbnails/quiz-x.png
 tags:
   - puzzle
   - thinky

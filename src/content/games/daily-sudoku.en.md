@@ -4,7 +4,7 @@ locale: en
 title: "Daily Sudoku"
 description: "Daily Sudoku provides a fresh logic puzzle every day: place digits 1–9 so each row, column, and box contains all numbers."
 iframeSrc: "https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-daily-sudoku/"
-thumbnail: "/new-images/daily-sudoku.jpg"
+thumbnail: /new-images/thumbnails/daily-sudoku.jpg
 urlstr: "daily-sudoku"
 score: "3.8/5  (1071 votes)"
 tags: ["puzzle", "logic"]

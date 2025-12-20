@@ -4,7 +4,7 @@ locale: en
 title: "Jet Boi"
 description: "2‑player jetpack duels: boost with limited fuel, grab weapons, and knock your rival off platforms in quick rounds." 
 iframeSrc: "https://g.igroutka.ru/games/23/yw5Aj09crUtBZC8T/rvvASMiM/5113cafa646f4648abc873fe8fbb7232/"
-thumbnail: "/new-images/jet-boi.jpg"
+thumbnail: /new-images/thumbnails/jet-boi.jpg
 urlstr: "jet-boi"
 score: "4.9/5  (628 votes)"
 tags: ["action", "multiplayer"]

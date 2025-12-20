@@ -2,7 +2,7 @@
 title: "Geometry Dash Lite"
 description: "リズムプラットフォーマーの入門版：音楽に合わせてジャンプや飛行を行い、トゲやタイミングパッド/ポータルを避けながら、プリセットされたレベルをクリアしましょう。"
 iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp45/chenling/20240221/08/index.html"
-thumbnail: "/new-images/geometry-dash-lite.jpg"
+thumbnail: /new-images/thumbnails/geometry-dash-lite.jpg
 urlstr: "geometry-dash-lite"
 score: "4.8/5  (332 votes)"
 tags: ["rhythm", "platformer"]

@@ -6,7 +6,7 @@ description: >-
   Dalgona Game recrea el reto de recortar dalgona: perfila con cuidado la forma,
   controla las grietas y termina antes de que se agote el tiempo.
 iframeSrc: 'https://12d729aggg2h0.h5games.usercontent.goog/v/786aa9qgft3vo/'
-thumbnail: /new-images/dalgona-game.png
+thumbnail: /new-images/thumbnails/dalgona-game.png
 tags:
   - casual
   - thinky

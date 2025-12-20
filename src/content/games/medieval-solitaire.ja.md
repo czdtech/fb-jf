@@ -2,7 +2,7 @@
 title: Medieval Solitaire
 description: 中世風テーマのソリティア（クロンダイク）です。カードを並べ替えながら基礎を完成させ、盤面をクリアします。
 iframeSrc: 'https://medievalsolitaire.h5games.usercontent.goog/v/5e4lf77omm180/'
-thumbnail: /new-images/medieval-solitaire.png
+thumbnail: /new-images/thumbnails/medieval-solitaire.png
 urlstr: medieval-solitaire
 score: 4.3/5  (1950 votes)
 tags:

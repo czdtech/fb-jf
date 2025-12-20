@@ -7,7 +7,7 @@ description: >-
   bilde vollständige Reihen und räume sie ab – aber vorsicht, die Blöcke lassen
   sich nicht drehen.
 iframeSrc: 'https://jewelblocks.h5games.usercontent.goog/v/0puee6ie0j880/'
-thumbnail: /new-images/jewel-blocks.png
+thumbnail: /new-images/thumbnails/jewel-blocks.png
 tags:
   - puzzle
   - thinky

@@ -4,7 +4,7 @@ urlstr: tennis
 title: 《Tennis》网球对决
 description: 《Tennis》是一款简化操作的网球游戏。通过移动站位与挥拍时机，在虚拟球场上和对手展开来回对攻，力争破发并赢下比赛。
 iframeSrc: 'https://tennis.h5games.usercontent.goog/v/5l9n2c3b1k7p0/'
-thumbnail: /new-images/tennis.png
+thumbnail: /new-images/thumbnails/tennis.jpg
 tags:
   - sports
   - 2 player

@@ -6,7 +6,7 @@ description: >-
   UNO est le jeu de cartes classique : vide ta main en associant couleurs et
   numéros, utilise les cartes spéciales et sois le premier à crier « UNO ! »
 iframeSrc: 'https://www.xpgameplus.com/games/uno/default.html'
-thumbnail: /new-images/uno.jpg
+thumbnail: /new-images/thumbnails/uno.jpg
 tags:
   - card game
   - strategy

@@ -7,7 +7,7 @@ description: >-
   "오더(Order)" 국가를 이끌어 금을 캐고 군대를 키워 적의 동상을 파괴하는
   것이 목표입니다.
 iframeSrc: 'https://www.gamenora.com/upload/games/swf/stick_war/'
-thumbnail: /new-images/stick-war.jpg
+thumbnail: /new-images/thumbnails/stick-war.jpg
 tags:
   - strategy
   - rTS

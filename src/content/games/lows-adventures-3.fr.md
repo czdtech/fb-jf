@@ -4,7 +4,7 @@ urlstr: "lows-adventures-3"
 title: "Low's Adventures 3"
 description: "Troisième épisode de la trilogie de plateformes rétro : sauts plus exigeants, nouveaux blocs spéciaux et encore plus de secrets dans des niveaux compacts."
 iframeSrc: "https://previews.customer.envatousercontent.com/files/480663659/index.html"
-thumbnail: "/new-images/lows-adventures-3.jpg"
+thumbnail: /new-images/thumbnails/lows-adventures-3.jpg
 tags: ["platformer", "adventure"]
 score: "4.1/5  (570 votes)"
 developer: ""

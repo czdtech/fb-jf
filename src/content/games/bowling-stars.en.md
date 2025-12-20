@@ -3,7 +3,7 @@ locale: en
 title: "Bowling Stars"
 description: "Bowling Stars brings smooth ten‑pin bowling to the browser — read oil, pick angles, and strike consistently."
 iframeSrc: "https://0pst60kfu8pi8.h5games.usercontent.goog/v/249kviafiu6co/"
-thumbnail: "/new-images/bowling-stars.png"
+thumbnail: /new-images/thumbnails/bowling-stars.png
 urlstr: "bowling-stars"
 score: "4.0/5  (1743 votes)"
 tags: ["sports", "casual"]

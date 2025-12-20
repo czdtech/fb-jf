@@ -6,7 +6,7 @@ description: >-
   Aventura point‑and‑click de Henry Stickmin: elige objetos y rutas (Sneaky,
   Badass, Legal) para fugarte de la prisión, con múltiples finales y gags.
 iframeSrc: 'https://classroomjq.github.io/escaping-the-prison/'
-thumbnail: /new-images/escaping-the-prison.jpg
+thumbnail: /new-images/thumbnails/escaping-the-prison.jpg
 tags:
   - adventure
   - point-and-click

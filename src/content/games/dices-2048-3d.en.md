@@ -3,7 +3,7 @@ locale: en
 title: "Dices 2048 3D"
 description: "Dices 2048 3D fuses 2048 with dice physics — merge same‑value dice to climb toward 2048 in three dimensions."
 iframeSrc: "https://dices20483d.h5games.usercontent.goog/v/4fsrag1lb33t8/"
-thumbnail: "/new-images/dices-2048-3d.png"
+thumbnail: /new-images/thumbnails/dices-2048-3d.png
 urlstr: "dices-2048-3d"
 score: "4.1/5  (1924 votes)"
 tags: ["puzzle", "thinky", "casual"]

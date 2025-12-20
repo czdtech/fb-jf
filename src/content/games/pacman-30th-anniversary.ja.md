@@ -2,7 +2,7 @@
 title: Pacman 30th Anniversary
 description: Pacman 30th Anniversaryはクラシックアーケードゲームの記念版です。迷路を通してナビゲートし、ドットを食べ、ゴーストを避けます。
 iframeSrc: 'https://pacman30thanniversary.h5games.usercontent.goog/v/3k9j5m8h7p2n8/'
-thumbnail: /new-images/pacman-30th-anniversary.png
+thumbnail: /new-images/thumbnails/pacman-30th-anniversary.jpg
 urlstr: pacman-30th-anniversary
 score: 4.6/5  (4234 votes)
 tags:

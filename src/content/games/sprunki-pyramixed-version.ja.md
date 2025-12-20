@@ -2,7 +2,7 @@
 title: Sprunki Pyramixed - Play Sprunki Pyramixed Online
 description: Sprunki Pyramixedは音を重ねて曲を作る音楽制作プラットフォームです。直感的に操作でき、試行錯誤しながら作れます。
 iframeSrc: 'https://turbowarp.org/1133167510/embed'
-thumbnail: /sprunki-pyramixed-version.png
+thumbnail: /new-images/thumbnails/sprunki-pyramixed-version.png
 urlstr: sprunki-pyramixed-version
 score: 4.0/5  (254 votes)
 tags:

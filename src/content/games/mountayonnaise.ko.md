@@ -6,7 +6,7 @@ description: >-
   Sprunki Mountayonnaise는 추가한 사운드에 따라 서로 다른 동물 캐릭터와 연출이
   등장하는 스프런키 모드 게임으로, 반복해서 새로운 조합을 실험하는 재미가 뛰어납니다.
 iframeSrc: 'https://turbowarp.org/1135773023/embed'
-thumbnail: /sprunki-mountayonnaise.png
+thumbnail: /new-images/thumbnails/mountayonnaise.png
 tags:
   - sprunki mountayonnaise
   - sprunki mountayonnaise online

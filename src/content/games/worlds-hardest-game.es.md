@@ -8,7 +8,7 @@ description: >-
   movimiento, exigiendo precisión absoluta y mucha paciencia para llegar a la
   meta.
 iframeSrc: "https://ad-freegames.github.io/flash/game/the-worlds-hardest-game.html"
-thumbnail: "/new-images/worlds-hardest-game.jpg"
+thumbnail: /new-images/thumbnails/worlds-hardest-game.jpg
 tags:
   - difficulty
   - arcade

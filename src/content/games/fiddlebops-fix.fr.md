@@ -4,7 +4,7 @@ urlstr: fiddlebops-fix
 title: "Fiddlebops Fix - Play Fiddlebops Fix Online"
 description: "Fiddlebops Fix est un jeu musical créatif où tu composes des morceaux, explores des histoires interactives et échanges avec une communauté vibrante – le tout gratuitement en ligne."
 iframeSrc: 'https://turbowarp.org/1131610529/embed'
-thumbnail: /fiddlebops-polos.png
+thumbnail: /new-images/thumbnails/fiddlebops-fix.png
 tags:
   - fiddlebops fix
 score: 4.6/5  (217 votes)

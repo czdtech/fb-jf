@@ -2,7 +2,7 @@
 title: "Incredibox Riser"
 description: "Incredibox Riserのガイドです。アンビエント系サウンドパレットや、コズミックなトラックを作るゲームプレイ、SFテーマのボーナス演出の探し方を紹介します。"
 iframeSrc: "https://turbowarp.org/966510261/embed"
-thumbnail: "/new-images/incredibox-riser.png"
+thumbnail: /new-images/thumbnails/incredibox-riser.png
 urlstr: "incredibox-riser"
 score: "4.6/5 (1490 votes)"
 tags: ["music", "electronic", "rhythm"]

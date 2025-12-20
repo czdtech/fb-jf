@@ -6,7 +6,7 @@ description: >-
   Puzzle Pieces propose des casse‑têtes épurés : fais pivoter les pièces,
   emboîte les formes et remplis le plateau sans laisser de trou.
 iframeSrc: 'https://05c9vfh919cbg.h5games.usercontent.goog/v/0ki2bua5asq00/'
-thumbnail: /new-images/puzzle-pieces.png
+thumbnail: /new-images/thumbnails/puzzle-pieces.png
 tags:
   - puzzle
   - thinky

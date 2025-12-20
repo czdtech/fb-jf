@@ -2,7 +2,7 @@
 title: "2048 Pizza 2048ピザ"
 description: "「2048 ピザ」は、ピザのテーマで楽しむカジュアルな2048パズルゲームです。ピザのピースを組み合わせて、美味しいピザを完成させましょう！"
 iframeSrc: "https://85k8935c3k4k0.h5games.usercontent.goog/v/97m3e0f7e44g0/"
-thumbnail: "/new-images/2048-pizza.png"
+thumbnail: /new-images/thumbnails/2048-pizza.png
 urlstr: "2048-pizza"
 score: "4.1/5  (1852 votes)"
 tags: ["puzzle", "casual"]

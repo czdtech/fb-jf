@@ -7,7 +7,7 @@ description: >-
   8×8. Forma parejas iguales, limpia el tablero y gestiona el espacio limitado
   para no quedarte sin movimientos.
 iframeSrc: 'https://75njrrvim9kq0.h5games.usercontent.goog/v/1v57mtiv2ele0/'
-thumbnail: /new-images/8x8-match-tiles.jpg
+thumbnail: /new-images/thumbnails/8x8-match-tiles.jpg
 tags:
   - puzzle
   - thinky

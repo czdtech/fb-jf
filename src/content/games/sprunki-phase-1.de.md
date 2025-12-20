@@ -7,7 +7,7 @@ description: >-
   Musikmod, mit dem du erste eigene Beats, Melodien und Figurenkombinationen
   ausprobieren kannst.
 iframeSrc: 'https://turbowarp.org/1127823859/embed'
-thumbnail: /sprunki-phase-1.png
+thumbnail: /new-images/thumbnails/sprunki-phase-1.png
 tags:
   - sprunki phase 1
 score: 4.3/5  (96 votes)

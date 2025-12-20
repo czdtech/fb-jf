@@ -2,7 +2,7 @@
 title: "Atari Breakout アタリ・ブロック崩し"
 description: "伝説のアーケードゲーム「Atari Breakout」を極めよう。すべてのブロックを粉砕し、ハイスコアを叩き出すための勝利の戦略、操作方法、そしてコツを伝授。"
 iframeSrc: "https://app-184523.games.s3.yandex.net/184523/bdryh2h6iqjirujzrk3tlum0j0n28j1o/index.html"
-thumbnail: "/new-images/atari-breakout.jpg"
+thumbnail: /new-images/thumbnails/atari-breakout.jpg
 urlstr: "atari-breakout"
 score: "3.7/5  (602 votes)"
 tags: ["casual", "action"]

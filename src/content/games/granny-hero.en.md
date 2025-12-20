@@ -3,7 +3,7 @@ locale: en
 title: "Granny Hero"
 description: "Granny Hero is a comedic action‑runner — dodge hazards, use quirky power‑ups, and rescue neighbors with surprising agility."
 iframeSrc: "https://0nd9712ar55uo.h5games.usercontent.goog/v/3qru4tsu7d5v0/"
-thumbnail: "/new-images/granny-hero.png"
+thumbnail: /new-images/thumbnails/granny-hero.png
 urlstr: "granny-hero"
 score: "3.9/5  (1751 votes)"
 tags: ["action", "casual"]

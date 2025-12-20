@@ -4,7 +4,7 @@ urlstr: cards-21
 title: Cards 21 纸牌 21 点
 description: 《Cards 21 纸牌 21 点》是基于 Blackjack 规则的纸牌小游戏，通过抽牌和停牌让手牌尽量接近 21 且不爆牌，以超过 庄家点数为目标。
 iframeSrc: 'https://cards21.h5games.usercontent.goog/v/4va8gd1tci8p0/'
-thumbnail: /new-images/cards-21.jpg
+thumbnail: /new-images/thumbnails/cards-21.png
 tags:
   - casual
   - card

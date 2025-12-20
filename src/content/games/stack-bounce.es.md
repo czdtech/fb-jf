@@ -7,7 +7,7 @@ description: >-
   plataformas de colores manteniendo pulsado, pero suelta a tiempo para no
   estrellarte contra los obstáculos negros y mantener la pelota rebotando.
 iframeSrc: 'https://stackbounce.h5games.usercontent.goog/v/1aqsvv0aegbjg/'
-thumbnail: /new-images/stack-bounce.jpeg
+thumbnail: /new-images/thumbnails/stack-bounce.jpeg
 tags:
   - action
   - casual

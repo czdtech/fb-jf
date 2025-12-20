@@ -6,7 +6,7 @@ description: >-
   《Bloxorz Magic 魔方桥》是一款经典 3D 空间解谜游戏，操控一个 1×2×1 长方体在悬空平台上翻滚前进，利用开
   关、脆弱地板与分体机关，在不掉落的前提下站立落入终点方孔。
 iframeSrc: 'https://ad-freegames.github.io/flash/game/bloxorz.html'
-thumbnail: /new-images/bloxorz.jpg
+thumbnail: /new-images/thumbnails/bloxorz.jpg
 tags:
   - casual
   - rhythm

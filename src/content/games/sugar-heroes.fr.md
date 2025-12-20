@@ -4,7 +4,7 @@ urlstr: sugar-heroes
 title: Sugar Heroes
 description: "Sugar Heroes est un match‑3 dynamique\_: libère les blocs, fusionne les bonus et atteins les objectifs de niveau avec des combos bien préparés."
 iframeSrc: 'https://2f4eprapfvtoo.h5games.usercontent.goog/v/4bc5h26thvau8/'
-thumbnail: /new-images/sugar-heroes.png
+thumbnail: /new-images/thumbnails/sugar-heroes.png
 tags:
   - puzzle
   - casual

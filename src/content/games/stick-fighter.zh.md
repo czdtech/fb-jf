@@ -4,7 +4,7 @@ urlstr: stick-fighter
 title: 《Stick Fighter》火柴人格斗
 description: 《Stick Fighter》是一款以火柴人为主角的横版格斗游戏。运用连招、跳跃和防御，在各种场景中与敌人展开一对一或一对多的战斗。
 iframeSrc: 'https://stickfighter.h5games.usercontent.goog/v/2d1k2v0l9xzq0/'
-thumbnail: /new-images/stick-fighter.jpg
+thumbnail: /new-images/thumbnails/stick-fighter.jpg
 tags:
   - fighting
   - action

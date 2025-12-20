@@ -7,7 +7,7 @@ description: >-
   한 줄짜리 좁은 코리더에서 파동 궤적만으로 끝까지 버티며 웨이브 컨트롤
   실력을 극한까지 끌어올려 보세요.
 iframeSrc: 'https://turbowarp.org/1185431027/embed'
-thumbnail: /geometry-dash.png
+thumbnail: /new-images/thumbnails/geometry-dash.png
 tags:
   - geometry dash
 score: 4.5/5  (604 votes)

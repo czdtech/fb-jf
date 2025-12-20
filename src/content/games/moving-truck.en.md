@@ -4,7 +4,7 @@ locale: en
 title: "Moving Truck"
 description: "Moving Truck is a physics-based puzzle game where players must strategically load furniture and items into a moving truck to ensure safe and balanced transport to the destination."
 iframeSrc: "https://g.igroutka.ru/games/164/JgHSvhdBMa5pf4WZ/moving_truck/"
-thumbnail: "/new-images/moving-truck.jpg"
+thumbnail: /new-images/thumbnails/moving-truck.jpg
 urlstr: "moving-truck"
 score: "3.6/5  (650 votes)"
 tags: ["puzzle", "physics", "driving"]

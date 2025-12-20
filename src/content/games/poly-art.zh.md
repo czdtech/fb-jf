@@ -4,7 +4,7 @@ urlstr: poly-art
 title: 《Poly Art》多边形立体拼图
 description: 《Poly Art》是一款画面唯美的 3D 感知解谜游戏，你需要旋转一团凌乱的彩色多边形碎片，在唯一正确的角度下让它们拼合成一幅完整的立体图像。
 iframeSrc: 'https://polyart.h5games.usercontent.goog/v/47aiosp2dbqgg/'
-thumbnail: /new-images/poly-art.png
+thumbnail: /new-images/thumbnails/poly-art.png
 tags:
   - puzzle
   - thinky

@@ -2,7 +2,7 @@
 title: "Bloons TD 4 ブルーンズTD 4"
 description: "シリーズの転換点「Bloons TD 4」。分岐するアップグレード、ランク制度、そして赤い悪夢「BFB」が登場。育成と選択が鍵となる現代的TDの原点。"
 iframeSrc: "https://1000freegames.github.io/swf/bloons-td-4.html"
-thumbnail: "/new-images/bloons-td-4.jpg"
+thumbnail: /new-images/thumbnails/bloons-td-4.jpg
 urlstr: "bloons-td-4"
 score: "4.3/5  (852 votes)"
 tags: ["casual", "strategy"]

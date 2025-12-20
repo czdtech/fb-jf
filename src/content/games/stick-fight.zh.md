@@ -4,7 +4,7 @@ urlstr: stick-fight
 title: 《Stick Fight》火柴人乱斗
 description: 《Stick Fight》是一款节奏明快的火柴人对战游戏。在物理效果夸张的场景中拳打脚踢、拾取武器，把对手击飞出场成为最后的赢家。
 iframeSrc: 'https://stickfight.h5games.usercontent.goog/v/4gqf1m7v9ce90/'
-thumbnail: /new-images/stick-fight.jpg
+thumbnail: /new-images/thumbnails/stick-fight.jpg
 tags:
   - fighting
   - physics

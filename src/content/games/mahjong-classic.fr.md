@@ -7,7 +7,7 @@ description: >-
   identiques et libres pour vider le plateau dans ce jeu relaxant de stratégie
   et d'observation.
 iframeSrc: 'https://mahjongclassic.h5games.usercontent.goog/v/6tue6un26r7v0/'
-thumbnail: /new-images/mahjong-classic.png
+thumbnail: /new-images/thumbnails/mahjong-classic.png
 tags:
   - puzzle
   - thinky

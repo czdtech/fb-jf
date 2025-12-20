@@ -4,7 +4,7 @@ urlstr: alien-hominid
 title: Alien Hominid 异形狂怒
 description: 《Alien Hominid（异形狂怒）》是一款节奏极快的横版跑动射击游戏指南，帮助你掌握这款高难度街机风作品的操作、战斗策略与通关技巧。
 iframeSrc: 'https://ad-freegames.github.io/flash/game/alien-hominid.html'
-thumbnail: /new-images/alien-hominid.jpg
+thumbnail: /new-images/thumbnails/alien-hominid.jpg
 tags:
   - shooting
   - action

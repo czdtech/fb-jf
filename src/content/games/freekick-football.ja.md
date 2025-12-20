@@ -2,7 +2,7 @@
 title: "Freekick Football"
 description: "Freekick Footballでフリーキックのスキルを試しましょう。狙いを定め、シュートし、ゴールを決めてフリーキックの達人になりましょう。"
 iframeSrc: "https://freekickfootball.h5games.usercontent.goog/v/0lqeu7698mvk0/"
-thumbnail: "/new-images/freekick-football.png"
+thumbnail: /new-images/thumbnails/freekick-football.png
 urlstr: "freekick-football"
 score: "4.2/5 (1876 votes)"
 tags: ["soccer", "sports", "shooting"]

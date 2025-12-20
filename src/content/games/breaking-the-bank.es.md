@@ -7,7 +7,7 @@ description: >-
   de Henry Stickmin. Elige tu método y disfruta de desenlaces desternillantes,
   pero recuerda: solo un camino lleva al éxito.
 iframeSrc: 'https://rebemanae.github.io/breaking-the-bank/'
-thumbnail: /new-images/breaking-the-bank.jpg
+thumbnail: /new-images/thumbnails/breaking-the-bank.jpg
 tags:
   - puzzle
   - adventure

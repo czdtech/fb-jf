@@ -6,7 +6,7 @@ description: >-
   Word Wipe est un jeu de mots dynamique : relie les lettres pour former des
   mots, fais-les disparaître et efface des lignes contre la montre.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-word-wipe/'
-thumbnail: /new-images/word-wipe.jpg
+thumbnail: /new-images/thumbnails/word-wipe.jpg
 tags:
   - word-game
   - puzzle

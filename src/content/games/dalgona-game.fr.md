@@ -4,7 +4,7 @@ urlstr: dalgona-game
 title: Dalgona Game
 description: "Dalgona Game s’inspire du défi du biscuit au sucre\_: découpe soigneusement la forme dans le bonbon sans le casser."
 iframeSrc: 'https://dalgonagame.h5games.usercontent.goog/v/0mqchv5s6eg60/'
-thumbnail: /new-images/dalgona-game.png
+thumbnail: /new-images/thumbnails/dalgona-game.png
 tags:
   - puzzle
   - casual

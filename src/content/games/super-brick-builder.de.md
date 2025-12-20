@@ -4,7 +4,7 @@ urlstr: super-brick-builder
 title: "Super Brick Builder"
 description: "Super Brick Builder ist ein physikbewusstes Bau-Puzzle: Platziere Steine sauber, plane Tragstrukturen und vervollständige Silhouetten mit möglichst wenig Wacklern." 
 iframeSrc: 'https://0hlb6nt2jsom8.h5games.usercontent.goog/v/4jac78qnv0nr8/'
-thumbnail: /new-images/super-brick-builder.png
+thumbnail: /new-images/thumbnails/super-brick-builder.png
 tags:
   - puzzle
   - thinky

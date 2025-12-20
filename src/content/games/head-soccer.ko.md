@@ -6,7 +6,7 @@ description: >-
   커다란 머리 캐릭터가 나오는 1대1 아케이드 축구 게임입니다. 점프와 슛,
   필살 슛을 활용해 짧은 시간 안에 상대보다 더 많은 골을 넣어 보세요.
 iframeSrc: 'https://1games.io/game/head-soccer-2024/'
-thumbnail: /new-images/head-soccer.jpg
+thumbnail: /new-images/thumbnails/head-soccer.jpg
 tags:
   - sports
   - soccer

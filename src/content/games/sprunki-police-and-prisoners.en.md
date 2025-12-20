@@ -5,7 +5,7 @@ description: >-
   Sprunki Police and Prisoners Mod is an engaging and innovative modification to
   the renowned Incredibox Sprunki reality.
 iframeSrc: 'https://turbowarp.org/1113493234/embed'
-thumbnail: /sprunki-police-and-prisoners.png
+thumbnail: /new-images/thumbnails/sprunki-police-and-prisoners.png
 urlstr: sprunki-police-and-prisoners
 modType: sprunki
 score: 3.9/5  (325 votes)

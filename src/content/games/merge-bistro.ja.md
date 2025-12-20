@@ -2,7 +2,7 @@
 title: "Merge Bistro"
 description: "Merge Bistroはレストラン管理マージゲームです。アイテムをマージし、料理を作り、ビストロを拡大し、顧客にサービスを提供します。"
 iframeSrc: "https://6hs8p2ahjd9j8.h5games.usercontent.goog/v/2gk1hd1jrnjn0/"
-thumbnail: "/new-images/merge-bistro.png"
+thumbnail: /new-images/thumbnails/merge-bistro.png
 urlstr: "merge-bistro"
 score: "4.2/5  (2034 votes)"
 tags: ["casual", "thinky"]

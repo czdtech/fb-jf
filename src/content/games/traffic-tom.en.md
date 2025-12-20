@@ -3,7 +3,7 @@ locale: en
 title: "Traffic Tom"
 description: "Join Tom on a thrilling motorbike adventure! Weave through heavy traffic, dodge cars, complete missions, and upgrade your bike to become the king of the road."
 iframeSrc: "https://traffictom.h5games.usercontent.goog/v/7c1a9fb2-2097-4c14-b7b1-052d80d41adb/"
-thumbnail: "/new-images/traffic-tom.jpg"
+thumbnail: /new-images/thumbnails/traffic-tom.jpg
 urlstr: "traffic-tom"
 score: "4.3/5  (2400 votes)"
 tags: ["driving", "action", "casual"]

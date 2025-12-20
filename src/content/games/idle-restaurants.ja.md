@@ -2,7 +2,7 @@
 title: "Idle Restaurants"
 description: "この中毒性のある放置ゲームで自分のレストラン帝国を築きましょう！シェフを雇い、キッチンとテーブルをアップグレードし、ビジネスを自動化して料理業界の大物になりましょう。"
 iframeSrc: "https://idlerestaurants.h5games.usercontent.goog/v/4ut41titp1kvg/"
-thumbnail: "/new-images/idle-restaurants.png"
+thumbnail: /new-images/thumbnails/idle-restaurants.png
 urlstr: "idle-restaurants"
 score: "4.4/5  (2500 votes)"
 tags: ["casual", "clicker", "strategy"]

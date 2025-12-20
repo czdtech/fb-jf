@@ -4,7 +4,7 @@ urlstr: alien-hominid
 title: "Alien Hominid"
 description: "Alien Hominid est un run and gun 2D ultra nerveux : apprends à esquiver, creuser, mordre tes ennemis et utiliser tout l’arsenal de l’extraterrestre pour survivre aux vagues d’agents."
 iframeSrc: "https://ad-freegames.github.io/flash/game/alien-hominid.html"
-thumbnail: /new-images/alien-hominid.jpg
+thumbnail: /new-images/thumbnails/alien-hominid.jpg
 tags:
   - shooting
   - action

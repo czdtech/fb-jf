@@ -7,7 +7,7 @@ description: >-
   跟著音樂節拍跳躍、飛行與踩環，挑戰極限操作。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp46/chenling/20240322/06/index.html
-thumbnail: /new-images/geometry-dash-subzero.jpg
+thumbnail: /new-images/thumbnails/geometry-dash-subzero.jpg
 tags:
   - rhythm
   - platformer

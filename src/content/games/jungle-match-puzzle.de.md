@@ -7,7 +7,7 @@ description: >-
   Blocker weg, verkette Power-ups und erfülle Dschungelziele innerhalb
   knapper Zuglimits.
 iframeSrc: 'https://2sf7n68mggti0.h5games.usercontent.goog/v/2mk31nh92a0og/'
-thumbnail: /new-images/jungle-match-puzzle.png
+thumbnail: /new-images/thumbnails/jungle-match-puzzle.png
 tags:
   - puzzle
   - casual

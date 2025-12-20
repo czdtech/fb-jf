@@ -2,7 +2,7 @@
 title: Wood Block Match
 description: Wood Block Matchは、木製ブロックパズルゲームです。ブロックを配置して列をクリアしましょう。
 iframeSrc: 'https://ubg98.github.io/WoodBlockMatch/'
-thumbnail: /new-images/wood-block-match.jpg
+thumbnail: /new-images/thumbnails/wood-block-match.png
 urlstr: wood-block-match
 score: 4.4/5  (2876 votes)
 tags:

@@ -2,7 +2,7 @@
 title: "Big Shot Boxing ビッグショット・ボクシング"
 description: "「Big Shot Boxing」で伝説のチャンピオンを目指せ！ストリートファイトから世界王者へ。レトロスタイルの熱いボクシングゲームの攻略法、トレーニング戦略、操作テクニックを完全解説。"
 iframeSrc: "https://rebemanae.github.io/big-shot-boxing/"
-thumbnail: "/new-images/big-shot-boxing.jpg"
+thumbnail: /new-images/thumbnails/big-shot-boxing.jpg
 urlstr: "big-shot-boxing"
 score: "4.8/5  (1401 votes)"
 tags: ["sports", "action"]

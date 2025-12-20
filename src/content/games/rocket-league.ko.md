@@ -7,7 +7,7 @@ description: >-
   점프와 부스트를 활용해 거대한 공을 상대 골대로 몰아 넣고, 화려한
   공중 슛과 팀 플레이로 승리를 노려 보세요.
 iframeSrc: 'https://ubg77.github.io/edit/rocket-soccer-derby/'
-thumbnail: /new-images/rocket-league.jpg
+thumbnail: /new-images/thumbnails/rocket-league.jpg
 tags:
   - sports
   - racing

@@ -2,7 +2,7 @@
 title: Stick Fighter
 description: Stick Fighterは、スティックマン戦闘ゲームです。技を使って相手を倒しましょう。
 iframeSrc: 'https://ubg98.github.io/StickFighter/'
-thumbnail: /new-images/stick-fighter.jpg
+thumbnail: /new-images/thumbnails/stick-fighter.jpg
 urlstr: stick-fighter
 score: 4.2/5  (2167 votes)
 tags:

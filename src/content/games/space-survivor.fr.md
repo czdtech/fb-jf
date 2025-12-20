@@ -4,7 +4,7 @@ urlstr: space-survivor
 title: Space Survivor
 description: "Pilote ton vaisseau face à des vagues infinies d'ennemis aliens dans ce roguelike de survie nerveux\_: récolte de l'XP, choisis des améliorations puissantes et vois combien de temps tu peux tenir face à l'assaut."
 iframeSrc: 'https://76sb7kgqtg5kg.h5games.usercontent.goog/v/5s72d5756n840/'
-thumbnail: /new-images/space-survivor.png
+thumbnail: /new-images/thumbnails/space-survivor.png
 tags:
   - action
   - shooting

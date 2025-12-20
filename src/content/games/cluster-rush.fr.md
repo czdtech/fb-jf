@@ -4,7 +4,7 @@ urlstr: cluster-rush
 title: Cluster Rush
 description: "Cluster Rush est un runner nerveux où tu sautes de camion en camion à toute vitesse\_: anticipe les collisions, enchaîne les bonds et tiens jusqu’à l’arrivée."
 iframeSrc: 'https://s3.eu-west-1.amazonaws.com/1001spiele/files/html5-games/130575.html'
-thumbnail: /new-images/cluster-rush.png
+thumbnail: /new-images/thumbnails/cluster-rush.jpg
 tags:
   - action
   - casual

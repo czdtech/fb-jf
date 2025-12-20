@@ -3,7 +3,7 @@ locale: en
 title: "Slime.io"
 description: "A fun and chaotic .io game of consumption! Control your slime, absorb everything in the city from cars to buildings, and devour smaller players to become the biggest slime of them all!"
 iframeSrc: "https://slime-io.h5games.usercontent.goog/v/3p2ufrjemduhg/"
-thumbnail: "/new-images/slime-io.png"
+thumbnail: /new-images/thumbnails/slime-io.png
 urlstr: "slime-io"
 score: "4.3/5  (2500 votes)"
 tags: ["action", "casual"]

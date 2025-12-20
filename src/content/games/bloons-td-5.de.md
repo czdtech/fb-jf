@@ -7,7 +7,7 @@ description: >-
   Special Agents. Baue die ultimative Verteidigung, beschwöre den Temple of the
   Monkey God und platze selbst ZOMGs.
 iframeSrc: 'https://1000freegames.github.io/swf/bloons-tower-defense-5.html'
-thumbnail: /new-images/bloons-td-5.jpg
+thumbnail: /new-images/thumbnails/bloons-td-5.jpg
 tags:
   - casual
   - strategy

@@ -2,7 +2,7 @@
 title: "Bee Connect ビー・コネクト"
 description: "「Bee Connect」は蜂の巣（ハニカム）グリッドで遊ぶ数字マージパズルです。数字を組み合わせて大きな数を作り、同じ数字を「4つ以上」隣接させて合体させながらハイスコアを目指しましょう。"
 iframeSrc: "https://beeconnect.h5games.usercontent.goog/v/06c7e297-3e6d-4512-9fb2-e491ae2b2fb9/"
-thumbnail: "/new-images/bee-connect.jpg"
+thumbnail: /new-images/thumbnails/bee-connect.jpg
 urlstr: "bee-connect"
 score: "4.3/5  (1837 votes)"
 tags: ["puzzle", "casual"]

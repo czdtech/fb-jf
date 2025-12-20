@@ -4,7 +4,7 @@ locale: en
 title: "OvO Game"
 description: "OvO Game is a fast-paced and challenging platformer where players control a stickman character, using precise jumps, slides, and wall jumps to navigate complex levels and reach the finish line as quickly as possible."
 iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20230129/1/index.html"
-thumbnail: "/new-images/ovo.jpg"
+thumbnail: /new-images/thumbnails/ovo.jpg
 urlstr: "ovo"
 score: "4.6/5  (773 votes)"
 tags: ["platformer", "parkour", "difficulty"]

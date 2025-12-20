@@ -4,7 +4,7 @@ urlstr: stealing-the-diamond
 title: "Stealing The Diamond"
 description: "Begleite Henry Stickmin in „Stealing the Diamond“, einem witzigen Entscheidungs-Abenteuer: Schleich dich ins Museum, klaue den Riesendiamanten und entdecke alle Fails und mehrere Enden." 
 iframeSrc: 'https://bitlifeonline.github.io/stealing-the-diamond/'
-thumbnail: /new-images/stealing-the-diamond.jpg
+thumbnail: /new-images/thumbnails/stealing-the-diamond.jpg
 tags:
   - adventure
   - funny

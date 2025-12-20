@@ -3,7 +3,7 @@ locale: en
 title: "Penalty Showdown"
 description: "Penalty Showdown is a tense shootout — pick corners, vary height, and outguess keepers in alternating kicker/keeper rounds."
 iframeSrc: "https://58r8ibinmpjeg.h5games.usercontent.goog/v/2m3pjv3her9fg/"
-thumbnail: "/new-images/penalty-showdown.jpg"
+thumbnail: /new-images/thumbnails/penalty-showdown.jpg
 urlstr: "penalty-showdown"
 score: "4.0/5  (1879 votes)"
 tags: ["sports", "soccer"]

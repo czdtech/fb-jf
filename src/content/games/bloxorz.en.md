@@ -4,7 +4,7 @@ locale: en
 title: "Bloxorz Magic"
 description: "Guide your rectangular block through challenging 3D puzzles in Bloxorz. Navigate fragile tiles, operate switches, split your block in two, and carefully roll to the exit hole in this classic brain-teasing game."
 iframeSrc: "https://ad-freegames.github.io/flash/game/bloxorz.html"
-thumbnail: "/new-images/bloxorz.jpg"
+thumbnail: /new-images/thumbnails/bloxorz.jpg
 urlstr: "bloxorz"
 score: "3.9/5  (922 votes)"
 tags: ["casual", "rhythm"]

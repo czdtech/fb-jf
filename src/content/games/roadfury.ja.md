@@ -2,7 +2,7 @@
 title: RoadFury
 description: RoadFuryはカーアクションのチェイスゲームです。走りながら射撃し、敵車両や障害物を避けて生き残ります。
 iframeSrc: 'https://roadfury.h5games.usercontent.goog/v/3k9j5m8h7p2n8/'
-thumbnail: /new-images/roadfury.png
+thumbnail: /new-images/thumbnails/roadfury.png
 urlstr: roadfury
 score: 4.1/5  (1867 votes)
 tags:

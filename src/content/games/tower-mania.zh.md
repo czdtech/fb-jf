@@ -4,7 +4,7 @@ urlstr: tower-mania
 title: 《Tower Mania》高塔叠叠乐
 description: 《Tower Mania》是一款考验节奏与精度的叠塔游戏。通过在合适时机放下移动中的楼层方块，将高塔一层层叠向天空，尽量避免偏移导致塔体变窄甚至倒塌。
 iframeSrc: 'https://towermania.h5games.usercontent.goog/v/2n3c7b1k5d9p0/'
-thumbnail: /new-images/tower-mania.png
+thumbnail: /new-images/thumbnails/tower-mania.png
 tags:
   - arcade
   - one button

@@ -7,7 +7,7 @@ description: >-
   모드입니다. 재즈·시·비순응 문화를 기리는 테마와 사운드를 활용해, 감성적인
   비트닉 믹스를 만들어 보세요.
 iframeSrc: 'https://turbowarp.org/948885978/embed'
-thumbnail: /new-images/incredibox-beatnik-simulator.png
+thumbnail: /new-images/thumbnails/incredibox-beatnik-simulator.png
 tags:
   - music
   - rhythm

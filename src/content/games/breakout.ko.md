@@ -7,7 +7,7 @@ description: >-
   Breakout입니다. 각도 조절과 터널 전략을 익혀, 시대를 초월한 블록 브레이커의
   손맛을 즐겨 보세요.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/atari-breakout.html'
-thumbnail: /new-images/breakout.jpg
+thumbnail: /new-images/thumbnails/breakout.jpg
 tags:
   - arcade
   - casual

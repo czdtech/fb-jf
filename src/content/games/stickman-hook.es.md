@@ -7,7 +7,7 @@ description: >-
   un stickman que usa ganchos para columpiarse por los niveles, esquivar
   obstáculos y encadenar acrobacias hasta llegar a la meta.
 iframeSrc: 'https://ubg98.github.io/StickmanHook/'
-thumbnail: /new-images/stickman-hook.jpg
+thumbnail: /new-images/thumbnails/stickman-hook.jpg
 tags:
   - physics
   - swinging

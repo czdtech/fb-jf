@@ -7,7 +7,7 @@ description: >-
   profundidades, capturas diferentes especies y mejoras tu equipo para llegar
   más lejos y descubrir criaturas raras.
 iframeSrc: 'https://webglmath.github.io/tiny-fishing/'
-thumbnail: /new-images/tiny-fishing.jpg
+thumbnail: /new-images/thumbnails/tiny-fishing.jpg
 tags:
   - fishing
   - casual

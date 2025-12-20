@@ -7,7 +7,7 @@ description: >-
   bunte Plattformen, halte rechtzeitig an und meide unbedingt die schwarzen
   Hindernisse, damit der Ball weiter hüpft.
 iframeSrc: 'https://stackbounce.h5games.usercontent.goog/v/1aqsvv0aegbjg/'
-thumbnail: /new-images/stack-bounce.jpeg
+thumbnail: /new-images/thumbnails/stack-bounce.jpeg
 tags:
   - action
   - casual

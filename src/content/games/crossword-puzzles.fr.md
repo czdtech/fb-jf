@@ -5,7 +5,7 @@ title: Crossword Puzzles
 description: "Crossword Puzzles propose des grilles thématiques\_: trouve les réponses des définitions pour compléter chaque grille de mots croisés."
 iframeSrc: >-
   https://ams.cdn.arkadiumhosted.com/assets/global/game/best-free-themed-puzzles/
-thumbnail: /new-images/crossword-puzzles.jpg
+thumbnail: /new-images/thumbnails/crossword-puzzles.jpg
 tags:
   - word
   - puzzle

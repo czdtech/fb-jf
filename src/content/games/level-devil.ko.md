@@ -8,7 +8,7 @@ description: >-
   레벨을 돌파해 보세요.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp45/gamehwq/20231215/10/index.html
-thumbnail: /new-images/level-devil.jpg
+thumbnail: /new-images/thumbnails/level-devil.jpg
 tags:
   - platformer
   - puzzle

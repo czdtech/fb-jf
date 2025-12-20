@@ -8,7 +8,7 @@ description: >-
   autres tours puissantes pour survivre le plus longtemps possible sur une
   nouvelle carte exigeante chaque jour.
 iframeSrc: 'https://endlessseige.h5games.usercontent.goog/v/35nvlvatb9t8g/'
-thumbnail: /new-images/endless-siege.jpg
+thumbnail: /new-images/thumbnails/endless-siege.jpg
 tags:
   - tower Defense
   - strategy

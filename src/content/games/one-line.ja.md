@@ -2,7 +2,7 @@
 title: One Line
 description: One Lineは一筆書きパズルゲームです。形を一筆でなぞり、ルールを満たすルートを見つけます。
 iframeSrc: 'https://oneline.h5games.usercontent.goog/v/6m9k2j8h7p3n8/'
-thumbnail: /new-images/one-line.png
+thumbnail: /new-images/thumbnails/one-line.jpg
 urlstr: one-line
 score: 4.3/5  (2234 votes)
 tags:

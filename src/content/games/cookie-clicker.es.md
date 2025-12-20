@@ -8,7 +8,7 @@ description: >-
   y respuestas a las dudas más frecuentes para maximizar tu producción de
   galletas.
 iframeSrc: 'https://freeonlinegames.github.io/cookie-clicker/'
-thumbnail: /new-images/cookie-clicker.jpg
+thumbnail: /new-images/thumbnails/cookie-clicker.jpg
 tags:
   - casual
   - clicker

@@ -4,7 +4,7 @@ locale: en
 title: "Google Solitaire"
 description: "Classic Klondike solitaire: move cards to build foundations by suit from Ace to King, using tableau stacks that alternate colors." 
 iframeSrc: "https://www.google.com/logos/fnbx/solitaire/standalone.html"
-thumbnail: "/new-images/google-solitaire.jpg"
+thumbnail: /new-images/thumbnails/google-solitaire.jpg
 urlstr: "google-solitaire"
 score: "4.0/5  (1294 votes)"
 tags: ["solitaire", "card"]

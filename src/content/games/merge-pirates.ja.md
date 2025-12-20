@@ -2,7 +2,7 @@
 title: Merge Pirates
 description: Merge Piratesは海賊テーマのマージゲームです。海賊や船をマージして強化し、島を探索してアイテムを集めます。
 iframeSrc: 'https://5q8b0jkp2dtf8.h5games.usercontent.goog/v/62plg0rb93ob8/'
-thumbnail: /new-images/merge-pirates.png
+thumbnail: /new-images/thumbnails/merge-pirates.png
 urlstr: merge-pirates
 score: 4.2/5  (1987 votes)
 tags:

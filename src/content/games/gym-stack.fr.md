@@ -7,7 +7,7 @@ description: >-
   couleur pour les fusionner, libérer de l'espace et faire grimper ton score
   sans bloquer le plateau.
 iframeSrc: 'https://gymstack.h5games.usercontent.goog/v/3js1l1d7rdkfg/'
-thumbnail: /new-images/gym-stack.jpeg
+thumbnail: /new-images/thumbnails/gym-stack.jpeg
 tags:
   - action
   - casual

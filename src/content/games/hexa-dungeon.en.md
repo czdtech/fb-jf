@@ -3,7 +3,7 @@ locale: en
 title: "Hexa Dungeon"
 description: "Enter the Hexa Dungeon and fight off skeletons! A unique match-3 puzzle game where you connect hexagonal tiles of the same color to unleash powerful attacks on your enemies."
 iframeSrc: "https://hexadungeon.h5games.usercontent.goog/v/0j3gttu45n06g/"
-thumbnail: "/new-images/hexa-dungeon.png"
+thumbnail: /new-images/thumbnails/hexa-dungeon.png
 urlstr: "hexa-dungeon"
 score: "4.3/5  (2100 votes)"
 tags: ["puzzle", "action", "strategy"]

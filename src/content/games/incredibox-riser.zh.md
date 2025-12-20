@@ -4,7 +4,7 @@ urlstr: incredibox-riser
 title: "Incredibox Riser - 在线玩 Incredibox Riser"
 description: "Incredibox Riser 本指南详细介绍了其环境电子音色调色板、创作宇宙曲目的玩法，以及如何解锁其科幻奖励。"
 iframeSrc: 'https://turbowarp.org/966510261/embed'
-thumbnail: /new-images/incredibox-riser.png
+thumbnail: /new-images/thumbnails/incredibox-riser.png
 tags:
   - music
   - electronic

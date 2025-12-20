@@ -7,7 +7,7 @@ description: >-
   Kachel-Matching-Puzzle! Finde und paare identische, freie Steine und plane
   deine Züge, um das gesamte Layout zu leeren.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-mahjongg-solitaire/'
-thumbnail: /new-images/mahjongg-solitaire.jpg
+thumbnail: /new-images/thumbnails/mahjongg-solitaire.jpg
 tags:
   - puzzle
   - tile-matching

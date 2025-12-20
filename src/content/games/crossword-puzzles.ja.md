@@ -2,7 +2,7 @@
 title: "Crossword Puzzles"
 description: "Crossword Puzzlesはテーマ別のクロスワードを提供します。縦と横のヒントを解いて各グリッドを完成させましょう。"
 iframeSrc: "https://ams.cdn.arkadiumhosted.com/assets/global/game/best-free-themed-puzzles/"
-thumbnail: "/new-images/crossword-puzzles.jpg"
+thumbnail: /new-images/thumbnails/crossword-puzzles.jpg
 urlstr: "crossword-puzzles"
 score: "4.1/5  (697 votes)"
 tags: ["word", "puzzle"]

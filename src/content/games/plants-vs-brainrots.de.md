@@ -9,7 +9,7 @@ description: >-
   Tower-Defense-Spiel verteidigen.
 iframeSrc: >-
   https://playhop.com/dist-app/471072?header=no&utm_source=distrib&utm_medium=gameflare
-thumbnail: /new-images/plantsvsbrainrots.jpg
+thumbnail: /new-images/thumbnails/plants-vs-brainrots.jpg
 tags:
   - roblox
   - casual

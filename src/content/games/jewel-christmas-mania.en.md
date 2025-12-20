@@ -3,7 +3,7 @@ locale: en
 title: "Jewel Christmas Mania"
 description: "Get into the holiday spirit with Jewel Christmas Mania! Match sparkling jewels in this festive match-3 puzzle game and complete challenging levels."
 iframeSrc: "https://jewelchristmasmania.h5games.usercontent.goog/v/3vom8bn0qgmto/"
-thumbnail: "/new-images/jewel-christmas-mania.png"
+thumbnail: /new-images/thumbnails/jewel-christmas-mania.png
 urlstr: "jewel-christmas-mania"
 score: "4.7/5  (2500 votes)"
 tags: ["puzzle", "casual", "flash"]

@@ -8,7 +8,7 @@ description: >-
   steigender Geschwindigkeit.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp44/gamehwq/20230830/12a/index.html
-thumbnail: /new-images/tunnel-rush.jpg
+thumbnail: /new-images/thumbnails/tunnel-rush.jpg
 tags:
   - endless runner
   - 3d

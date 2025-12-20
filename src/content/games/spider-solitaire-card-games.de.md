@@ -4,7 +4,7 @@ urlstr: spider-solitaire-card-games
 title: "Spider Solitaire: Card Games"
 description: "Fordere dich selbst mit Spider Solitaire heraus, einer beliebten Variante des klassischen Kartenspiels. Baue acht vollständige Folgen von König bis Ass, wähle zwischen 1, 2 oder 4 Farben und löse ein strategisches Kartensystem, das Planung und Geduld belohnt."
 iframeSrc: 'https://ubg98.github.io/SpiderSolitaire/'
-thumbnail: /new-images/spider-solitaire-card-games.jpg
+thumbnail: /new-images/thumbnails/spider-solitaire-card-games.jpg
 tags:
   - card-game
   - puzzle

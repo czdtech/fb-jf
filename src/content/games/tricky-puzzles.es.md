@@ -8,7 +8,7 @@ description: >-
   e incluso girando el dispositivo. Piensa fuera de la caja y prueba todas las
   posibilidades para encontrar soluciones tan sorprendentes como ingeniosas.
 iframeSrc: "https://rebemanae.github.io/brain-test-tricky-puzzles/"
-thumbnail: "/new-images/tricky-puzzles.jpg"
+thumbnail: /new-images/thumbnails/tricky-puzzles.jpg
 tags:
   - puzzle
   - brain-teaser

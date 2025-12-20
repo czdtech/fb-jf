@@ -4,7 +4,7 @@ urlstr: climb-man
 title: Climb Man
 description: "Dans Climb Man, grimpe toujours plus haut en évitant les pièges\_: attrape les prises au bon moment, anticipe les obstacles et vise le meilleur score."
 iframeSrc: 'https://6kudfq9ur9or0.h5games.usercontent.goog/v/1bncs48eev9h8/'
-thumbnail: /new-images/climb-man.png
+thumbnail: /new-images/thumbnails/climb-man.png
 tags:
   - action
   - casual

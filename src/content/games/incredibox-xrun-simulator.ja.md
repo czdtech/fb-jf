@@ -2,7 +2,7 @@
 title: "Incredibox Xrun simulator"
 description: "ハイエナジーなファン作成モッド『Incredibox Xrun Simulator』を探索しましょう。このガイドでは、EDMとダブステップテーマ、グリッドベースのゲームプレイを詳しく説明し、激しいエレクトロニックミックスとループを作成するためのヒントを提供します。"
 iframeSrc: "https://turbowarp.org/740478297/embed"
-thumbnail: "/new-images/incredibox-xrun-simulator.png"
+thumbnail: /new-images/thumbnails/incredibox-xrun-simulator.png
 urlstr: "incredibox-xrun-simulator"
 score: "4.5/5 (1055 votes)"
 tags: ["music", "electronic", "simulator"]

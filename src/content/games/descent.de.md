@@ -7,7 +7,7 @@ description: >-
   einen Schacht hinabstürzt, von Wand zu Wand springst und gefährlichen
   Hindernissen wie Stacheln und beweglichen Fallen ausweichst.
 iframeSrc: 'https://g2.igroutka.ru/games/17/4tWRaCD7AOzxbTsE/descent/'
-thumbnail: /new-images/descent.jpg
+thumbnail: /new-images/thumbnails/descent.jpg
 tags:
   - arcade
   - skill

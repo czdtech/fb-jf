@@ -8,7 +8,7 @@ description: >-
   Antworten auf häufige Fragen zum perfekten Raubzug.
 iframeSrc: >-
   https://app-183971.games.s3.yandex.net/183971/l0eme2yqkthl0y8stmfuz0u8pdpux64m/index.html
-thumbnail: /new-images/bank-robbery.jpg
+thumbnail: /new-images/thumbnails/bank-robbery.jpg
 tags:
   - fPS
   - action

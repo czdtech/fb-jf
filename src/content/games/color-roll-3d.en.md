@@ -3,7 +3,7 @@ locale: en
 title: "Color Roll 3D"
 description: "Color Roll 3D is a satisfying unfold‑and‑fill puzzle — unroll strips in the right order to paint target patterns."
 iframeSrc: "https://63vakb2ehqof8.h5games.usercontent.goog/v/381au2qko6no0/"
-thumbnail: "/new-images/color-roll-3d.png"
+thumbnail: /new-images/thumbnails/color-roll-3d.png
 urlstr: "color-roll-3d"
 score: "4.0/5  (1812 votes)"
 tags: ["puzzle", "thinky"]

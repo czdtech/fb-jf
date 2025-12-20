@@ -2,7 +2,7 @@
 title: "Checkers Legend チェッカー・レジェンド"
 description: "「Checkers Legend」で伝統的なボードゲームを極めよう。斜めに進み、相手を飛び越えて取り、キングになって盤面を支配せよ。"
 iframeSrc: "https://checkerslegend.h5games.usercontent.goog/v/43mkj41ari948/"
-thumbnail: "/new-images/checkers-legend.png"
+thumbnail: /new-images/thumbnails/checkers-legend.png
 urlstr: "checkers-legend"
 score: "4.6/5  (2900 votes)"
 tags: ["puzzle", "thinky", "casual", "card"]

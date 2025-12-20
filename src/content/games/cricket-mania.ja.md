@@ -2,7 +2,7 @@
 title: Cricket Mania クリケット・マニア
 description: 「Cricket Mania」は手軽に遊べるクリケットバッティングゲーム。球筋を読み、ショットを選び、完璧なタイミングでターゲットスコアを追いかけろ。
 iframeSrc: 'https://73lnk17f84iog.h5games.usercontent.goog/v/1p7sdm5buflt0/'
-thumbnail: /new-images/cricket-mania.png
+thumbnail: /new-images/thumbnails/cricket-mania.png
 urlstr: cricket-mania
 score: 4.0/5  (1897 votes)
 tags:

@@ -6,7 +6,7 @@ description: >-
   Cricket World Cup verdichtet Schlagübungen – wähle passende Schläge, lies
   Line und Length und jage Zielvorgaben mit kontrolliertem Risiko.
 iframeSrc: 'https://5ret6v2c94q4g.h5games.usercontent.goog/v/09j66svc50570/'
-thumbnail: /new-images/cricket-world-cup.png
+thumbnail: /new-images/thumbnails/cricket-world-cup.png
 tags:
   - sports
   - casual

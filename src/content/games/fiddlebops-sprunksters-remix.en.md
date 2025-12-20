@@ -6,7 +6,7 @@ description: >-
   rhythm, and visual charm. With its captivating character designs, novel
   sounds, and that super cool
 iframeSrc: 'https://turbowarp.org/1149194527/embed'
-thumbnail: /fiddlebops-sprunksters-remix.png
+thumbnail: /new-images/thumbnails/fiddlebops-sprunksters-remix.png
 urlstr: fiddlebops-sprunksters-remix
 modType: fiddlebops
 score: 4.1/5  (127 votes)

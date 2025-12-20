@@ -7,7 +7,7 @@ description: >-
   球赢下比赛。
 iframeSrc: >-
   https://app-197306.games.s3.yandex.net/197306/b1dbvmcde0oog4ebj00rinxr3e367fl4/index.html
-thumbnail: /new-images/soccer-random.jpg
+thumbnail: /new-images/thumbnails/soccer-random.jpg
 tags:
   - 2-player
   - physics

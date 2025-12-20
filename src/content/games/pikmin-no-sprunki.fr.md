@@ -4,7 +4,7 @@ urlstr: "pikmin-no-sprunki"
 title: "Pikmin No Sprunki - Play Pikmin No Sprunki Online"
 description: "Pikmin No Sprunki est un mod musical façon Sprunki : mélange l’univers de Pikmin avec la création sonore d’Incredibox et compose tes propres morceaux animés."
 iframeSrc: "https://img.sprunki.net/game/pikmin-no-sprunki.html"
-thumbnail: "/pikmin-no-sprunki.png"
+thumbnail: /new-images/thumbnails/pikmin-no-sprunki.png
 tags: ["pikmin no sprunki"]
 score: "4.0/5  (89 votes)"
 ---

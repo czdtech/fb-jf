@@ -3,7 +3,7 @@ locale: en
 title: "The Sea Rush"
 description: "Dive into The Sea Rush, an exciting underwater adventure. Collect treasures and avoid dangers from the deep."
 iframeSrc: "https://thesearush.h5games.usercontent.goog/v/5ie3e5aghbr18/"
-thumbnail: "/new-images/the-sea-rush.png"
+thumbnail: /new-images/thumbnails/the-sea-rush.png
 urlstr: "the-sea-rush"
 score: "4.1/5 (1234 votes)"
 tags: ["adventure", "action"]

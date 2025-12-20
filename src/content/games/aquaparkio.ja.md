@@ -2,7 +2,7 @@
 title: "Aquapark.io アクアパーク.io"
 description: "「Aquapark.io」は、巨大なウォータースライダーを舞台にしたハイパーカジュアル・レースゲーム。スライダーを飛び出し、ショートカットを決めて1位を目指せ！"
 iframeSrc: "https://www.playfiddlebops.com/embed/aquaparkio/index.html"
-thumbnail: "/new-images/aquaparkio.jpg"
+thumbnail: /new-images/thumbnails/aquaparkio.jpg
 urlstr: "aquaparkio"
 score: "4.8/5  (7841 votes)"
 tags: ["casual", "racing", "multiplayer"]

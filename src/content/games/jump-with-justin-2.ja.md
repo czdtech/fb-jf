@@ -2,7 +2,7 @@
 title: "Jump With Justin 2"
 description: "Jump With Justin 2は弾むプラットフォーマーです。ジャンプのタイミングを合わせ、障害物をバウンスし、スプリングを連鎖させてゴールに到達します。"
 iframeSrc: "https://jumpwithjustin2.h5games.usercontent.goog/v/54vavt12q94n8/"
-thumbnail: "/new-images/jump-with-justin-2.png"
+thumbnail: /new-images/thumbnails/jump-with-justin-2.png
 urlstr: "jump-with-justin-2"
 score: "3.9/5  (1571 votes)"
 tags: ["action", "casual"]

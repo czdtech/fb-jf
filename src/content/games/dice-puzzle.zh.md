@@ -6,7 +6,7 @@ description: >-
   《Dice Puzzle 骰子合成谜题》是一款兼具策略与运气的脑力小游戏。你需要在棋盘上摆放与
   合成骰子，三枚相同点数即可升级为更高点数，最终目标是合出能够引爆棋盘的宝石方块。
 iframeSrc: 'https://0vfcifju4i900.h5games.usercontent.goog/v/2jg90liogd5f8/'
-thumbnail: /new-images/dice-puzzle.jpg
+thumbnail: /new-images/thumbnails/dice-puzzle.jpg
 tags:
   - puzzle
   - thinky

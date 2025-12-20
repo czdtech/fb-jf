@@ -4,7 +4,7 @@ locale: en
 title: "Bubble Shooter"
 description: "Aim, shoot, and match colorful bubbles to clear the board in the classic Bubble Shooter puzzle game. Plan your shots, use the walls, and drop huge clusters to get a high score!"
 iframeSrc: "https://www.bubbleshooter-new.com/"
-thumbnail: "/new-images/bubble-shooter.jpg"
+thumbnail: /new-images/thumbnails/bubble-shooter.jpg
 urlstr: "bubble-shooter"
 score: "4.3/5  (1339 votes)"
 tags: ["casual", "puzzle"]

@@ -6,7 +6,7 @@ description: >-
   Football Penalty recrea las tandas de penaltis: coloca tus disparos, varía
   altura y esquina y trata de adivinar al portero bajo presión.
 iframeSrc: 'https://2fb6vjapfstro.h5games.usercontent.goog/v/5443q25keq2qg/'
-thumbnail: /new-images/football-penalty.png
+thumbnail: /new-images/thumbnails/football-penalty.png
 tags:
   - sports
   - soccer

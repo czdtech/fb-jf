@@ -3,7 +3,7 @@ locale: en
 title: "Medieval Solitaire"
 description: "Journey back in time with Medieval Solitaire, a classic Klondike card game with a medieval theme. Build your foundations from Ace to King and clear the tableau in this strategic puzzle."
 iframeSrc: "https://7se96a0j4qu80.h5games.usercontent.goog/v/1iv1d4soimc78/"
-thumbnail: "/new-images/medieval-solitaire.png"
+thumbnail: /new-images/thumbnails/medieval-solitaire.png
 urlstr: "medieval-solitaire"
 score: "4.4/5  (1560 votes)"
 tags: ["card", "puzzle", "casual"]

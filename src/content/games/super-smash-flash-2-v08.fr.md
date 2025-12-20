@@ -7,7 +7,7 @@ description: >-
   avec des combats de plateforme nerveux et de nombreux personnages issus de
   licences célèbres.
 iframeSrc: 'https://2tm5ud1ghg66o.h5games.usercontent.goog/v/6jaksfec289ck/'
-thumbnail: /new-images/super-smash-flash-2-v08.png
+thumbnail: /new-images/thumbnails/super-smash-flash-2-v08.jpg
 tags:
   - fighting
   - 2 player

@@ -8,7 +8,7 @@ description: >-
   Únete a Sprunki Night Time y usa tu música para iluminar esta noche profunda y
   enigmática.
 iframeSrc: 'https://turbowarp.org/1100659044/embed'
-thumbnail: /sprunki-night-time.png
+thumbnail: /new-images/thumbnails/sprunki-night-time.png
 tags:
   - sprunki night time
   - sprunki night time online

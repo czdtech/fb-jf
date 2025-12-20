@@ -6,7 +6,7 @@ description: >-
   상단 시점에서 자동차를 몰며 적 차량을 파괴하는 카 슈팅 게임입니다.
   교통량을 피해 달리고, 탄약과 쿨타임을 관리해 적들을 처리하세요.
 iframeSrc: 'https://3a73fjju0knmg.h5games.usercontent.goog/v/5ammj72815kno/'
-thumbnail: /new-images/rampage-road.png
+thumbnail: /new-images/thumbnails/rampage-road.png
 tags:
   - car
   - driving

@@ -7,7 +7,7 @@ description: >-
   chill. Esta guía detalla su paleta de sonidos suaves, la jugabilidad para
   crear beats relajantes y cómo desbloquear sus bonus acogedores.
 iframeSrc: 'https://turbowarp.org/1050468579/embed'
-thumbnail: /new-images/incredibox-vibin.png
+thumbnail: /new-images/thumbnails/incredibox-vibin.png
 tags:
   - music
   - rhythm

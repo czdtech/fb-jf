@@ -2,7 +2,7 @@
 title: "Jewel Halloween"
 description: "Jewel Halloweenは不気味なマッチ3です。宝石をスワップし、カスケードをトリガーし、ステージ目標をクリアします。"
 iframeSrc: "https://0gk3ormb878mg.h5games.usercontent.goog/v/1qgqb91tuaqv0/"
-thumbnail: "/new-images/jewel-halloween.png"
+thumbnail: /new-images/thumbnails/jewel-halloween.png
 urlstr: "jewel-halloween"
 score: "4.1/5  (1942 votes)"
 tags: ["puzzle", "casual"]

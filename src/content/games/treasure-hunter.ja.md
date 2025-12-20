@@ -2,7 +2,7 @@
 title: "Treasure Hunter"
 description: "Treasure Hunterは、宝探しアドベンチャーゲームです。宝を見つけて障害物を避けましょう。"
 iframeSrc: "https://ubg98.github.io/TreasureHunter/"
-thumbnail: "/new-images/treasure-hunter.jpg"
+thumbnail: /new-images/thumbnails/treasure-hunter.jpg
 urlstr: "treasure-hunter"
 score: "4.3/5  (2456 votes)"
 tags: ["adventure", "puzzle", "exploration"]

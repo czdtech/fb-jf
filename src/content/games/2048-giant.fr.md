@@ -4,7 +4,7 @@ urlstr: 2048-giant
 title: "2048 Giant"
 description: "2048 Giant reprend la formule de 2048 sur un plateau plus grand : fusionne les tuiles, anticipe davantage et vise toujours des valeurs plus folles." 
 iframeSrc: 'https://2048giant.h5games.usercontent.goog/v/4bea87e2-a9a9-4f4b-b1c8-8b777220c567/'
-thumbnail: /new-images/2048-giant.jpg
+thumbnail: /new-images/thumbnails/2048-giant.jpg
 tags:
   - puzzle
   - thinky

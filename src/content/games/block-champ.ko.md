@@ -6,7 +6,7 @@ description: >-
   10×10 보드에서 블록을 배치해 줄을 지우는 퍼즐 게임입니다. 번개 블록과 얼음
   블록 등 특수 타일을 활용해 공간을 관리하며 최고 점수를 노려 보세요.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/block-champ/'
-thumbnail: /new-images/block-champ.jpg
+thumbnail: /new-images/thumbnails/block-champ.jpg
 tags:
   - puzzle
   - board Game

@@ -7,7 +7,7 @@ description: >-
   por una paleta oscura y atmosférica al estilo trap; esta guía explica su
   jugabilidad y cómo crear loops intensos de trap.
 iframeSrc: 'https://turbowarp.org/887559994/embed'
-thumbnail: /new-images/incredibox-piege-simulator.png
+thumbnail: /new-images/thumbnails/incredibox-piege-simulator.png
 tags:
   - music
   - fan-Made

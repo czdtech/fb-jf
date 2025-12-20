@@ -3,7 +3,7 @@ locale: en
 title: "Island Of Treasures"
 description: "Embark on a thrilling pirate adventure in this 3D endless runner! Collect gleaming jewels, dodge deadly traps, and outsmart rival pirates to become the richest buccaneer on the forsaken island."
 iframeSrc: "https://5kvkrsasec6l8.h5games.usercontent.goog/v/7kfn10n6josho/"
-thumbnail: "/new-images/island-of-treasures.png"
+thumbnail: /new-images/thumbnails/island-of-treasures.png
 urlstr: "island-of-treasures"
 score: "4.3/5  (2200 votes)"
 tags: ["action", "adventure", "casual"]

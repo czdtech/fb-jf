@@ -8,7 +8,7 @@ description: >-
   llenos de habitaciones secretas.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210305/jj8/index.html
-thumbnail: /new-images/fancy-pants.jpg
+thumbnail: /new-images/thumbnails/fancy-pants.jpg
 tags:
   - platformer
   - action

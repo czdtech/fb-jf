@@ -9,7 +9,7 @@ description: >-
   desbloquear nuevos trineos y pon a prueba tus reflejos para lograr la máxima
   puntuación.
 iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp45/chenling/20231130/2/index.html"
-thumbnail: "/new-images/snow-rider-3d.jpg"
+thumbnail: /new-images/thumbnails/snow-rider-3d.jpg
 tags:
   - action
   - 3d

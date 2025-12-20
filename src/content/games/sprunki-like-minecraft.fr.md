@@ -7,7 +7,7 @@ description: >-
   Le Mod Sprunki Like Minecraft fusionne les deux mondes pour te permettre de
   créer de la musique dans une ambiance cube et pixel.
 iframeSrc: 'https://turbowarp.org/1095572358/embed'
-thumbnail: /sprunki-like-minecraft.png
+thumbnail: /new-images/thumbnails/sprunki-like-minecraft.png
 tags:
   - sprunki like minecraft
 score: "4.6/5  (601 votes)"

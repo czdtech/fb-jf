@@ -4,7 +4,7 @@ urlstr: google-feud
 title: "Google Feud"
 description: "Jeu de devinettes façon sondage : complète les débuts de requêtes Google avec les propositions les plus populaires et avance dans les manches sans épuiser tes essais."
 iframeSrc: 'https://mac-web.github.io/macvg/projects/google-feud/game.html'
-thumbnail: /new-images/google-feud.jpg
+thumbnail: /new-images/thumbnails/google-feud.jpg
 tags:
   - trivia
   - quiz

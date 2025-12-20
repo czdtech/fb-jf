@@ -2,7 +2,7 @@
 title: "Moving Co"
 description: "Moving Coは物流パズルゲームです。家具をパックし、トラックを整理し、効率的に移動し、スペース管理をマスターします。"
 iframeSrc: "https://movingco.h5games.usercontent.goog/v/1p5l6f6hqaes0/"
-thumbnail: "/new-images/moving-co.png"
+thumbnail: /new-images/thumbnails/moving-co.png
 urlstr: "moving-co"
 score: "4.1/5  (1834 votes)"
 tags: ["puzzle", "thinky", "casual"]

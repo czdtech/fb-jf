@@ -4,7 +4,7 @@ urlstr: stick-war
 title: 《Stick War》火柴人战争
 description: 《Stick War》是一款战略向的火柴人战争游戏。指挥你的火柴人士兵采集资源、训练部队、占领阵地，与敌对部落展开大规模对战。
 iframeSrc: 'https://stickwar.h5games.usercontent.goog/v/0p4k3s2b5m9n8/'
-thumbnail: /new-images/stick-war.jpg
+thumbnail: /new-images/thumbnails/stick-war.jpg
 tags:
   - strategy
   - war

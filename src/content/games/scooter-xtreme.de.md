@@ -8,7 +8,7 @@ description: >-
   freizuschalten.
 iframeSrc: >-
   https://scooterxtreme.h5games.usercontent.goog/v/c842db43-7823-45bc-b575-acbd9bda5de4/
-thumbnail: /new-images/scooter-xtreme.jpg
+thumbnail: /new-images/thumbnails/scooter-xtreme.jpg
 tags:
   - action
   - sports

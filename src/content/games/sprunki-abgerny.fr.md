@@ -7,7 +7,7 @@ description: >-
   cultures anciennes et une exploration des possibilités infinies du son.
   Crée tes morceaux et ressens la transmission et le mélange des cultures.
 iframeSrc: 'https://turbowarp.org/1095335052/embed'
-thumbnail: /sprunki-abgerny.png
+thumbnail: /new-images/thumbnails/sprunki-abgerny.png
 tags:
   - sprunki abgerny
 score: 3.9/5  (132 votes)

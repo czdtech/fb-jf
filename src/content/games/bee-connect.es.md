@@ -7,7 +7,7 @@ description: >-
   grupos de cuatro o más celdas iguales para fusionarlas en valores superiores.
 iframeSrc: >-
   https://beeconnect.h5games.usercontent.goog/v/06c7e297-3e6d-4512-9fb2-e491ae2b2fb9/
-thumbnail: /new-images/bee-connect.jpg
+thumbnail: /new-images/thumbnails/bee-connect.jpg
 tags:
   - puzzle
   - casual

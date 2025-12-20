@@ -7,7 +7,7 @@ description: >-
   jungla y memes inspirada en el popular juego de VR, su paleta sonora única y
   consejos para crear tu propio mix de monos.
 iframeSrc: 'https://turbowarp.org/1108699828/embed'
-thumbnail: /new-images/incredibox-banana.png
+thumbnail: /new-images/thumbnails/incredibox-banana.png
 tags:
   - music
   - rhythm

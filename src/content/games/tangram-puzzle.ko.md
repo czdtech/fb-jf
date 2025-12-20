@@ -7,7 +7,7 @@ description: >-
   고전 칠교 퍼즐 게임입니다. 겹치거나 빈틈 없이 배치해 공간 감각을
   시험해 보세요.
 iframeSrc: 'https://38lbr23ak5hn8.h5games.usercontent.goog/v/3v2lg4sb2v3ug/'
-thumbnail: /new-images/tangram-puzzle.jpg
+thumbnail: /new-images/thumbnails/tangram-puzzle.jpg
 tags:
   - puzzle
   - thinky

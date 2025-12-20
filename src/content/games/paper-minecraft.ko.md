@@ -7,7 +7,7 @@ description: >-
   자원을 채집하고 아이템을 제작해 건물을 짓고, 몬스터를 피해
   끝까지 생존해 보세요.
 iframeSrc: 'https://scratch.mit.edu/projects/10128407/embed'
-thumbnail: /new-images/paper-minecraft.jpg
+thumbnail: /new-images/thumbnails/paper-minecraft.jpg
 tags:
   - sandbox
   - crafting

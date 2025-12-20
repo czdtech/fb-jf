@@ -5,7 +5,7 @@ title: "Fly or Die"
 description: "Survie évolutive (.io) : mange les bonnes proies pour grimper dans la chaîne alimentaire tout en évitant prédateurs et dangers à travers ciels et sous‑sols."
 iframeSrc: >-
   https://app-96679.games.s3.yandex.net/96679/jshypemnvrae6bchv5d2nej2892owe69/index.html
-thumbnail: /new-images/fly-or-die.jpg
+thumbnail: /new-images/thumbnails/fly-or-die.jpg
 tags:
   - survival
   - io

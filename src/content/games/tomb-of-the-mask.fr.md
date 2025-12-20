@@ -6,7 +6,7 @@ description: >-
   Tomb of the Mask est un jeu arcade rapide : glisse de mur en mur, collecte des
   pieces et bonus tout en fuyant une maree montante.
 iframeSrc: 'https://w8.snokido.com/games/unity-webgl/tomb-run/index.html'
-thumbnail: /new-images/tomb-of-the-mask.jpg
+thumbnail: /new-images/thumbnails/tomb-of-the-mask.jpg
 tags:
   - arcade
   - maze

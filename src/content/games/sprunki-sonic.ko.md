@@ -7,7 +7,7 @@ description: >-
   결합한 모드입니다. 소닉, 테일즈, 너클즈 등과 함께 리듬을 맞추며 자신만의
   소닉 스타일 트랙을 만들어 보세요.
 iframeSrc: 'https://turbowarp.org/1114980098/embed'
-thumbnail: /sprunki-sonic.png
+thumbnail: /new-images/thumbnails/sprunki-sonic.png
 tags:
   - sprunki sonic
   - sprunki sonic online

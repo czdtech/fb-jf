@@ -5,7 +5,7 @@ urlstr: "grow-a-garden"
 title: "Grow a Garden - 花园经营游戏介绍与指南"
 description: "通过这篇全面指南，一起走进轻松治愈的园艺游戏世界。了解从播种、培育到收获的核心玩法，并掌握打造理想花园的实用技巧与策略。"
 iframeSrc: "https://growden.io/"
-thumbnail: "/growagarden-min.jpeg"
+thumbnail: /new-images/thumbnails/grow-a-garden.jpeg
 score: "4.9/5  (5065 票)"
 tags: ["simulation", "casual"]
 ---

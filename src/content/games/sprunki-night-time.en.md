@@ -7,7 +7,7 @@ description: >-
   night. Come and join Sprunki Night Time, and use your music to light up this
   deep and mysterious night!
 iframeSrc: 'https://turbowarp.org/1100659044/embed'
-thumbnail: /sprunki-night-time.png
+thumbnail: /new-images/thumbnails/sprunki-night-time.png
 urlstr: sprunki-night-time
 modType: sprunki
 score: 4.2/5  (324 votes)

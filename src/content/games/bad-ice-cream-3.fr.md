@@ -4,7 +4,7 @@ urlstr: bad-ice-cream-3
 title: "Bad Ice Cream 3"
 description: "Bad Ice‑Cream 3 reprend la formule glacée des épisodes précédents avec de nouveaux ennemis, des niveaux plus difficiles et toujours les murs de glace à placer et casser pour survivre."
 iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210128/x5/index.html"
-thumbnail: /new-images/bad-ice-cream-3.jpg
+thumbnail: /new-images/thumbnails/bad-ice-cream-3.jpg
 tags:
   - puzzle
   - casual

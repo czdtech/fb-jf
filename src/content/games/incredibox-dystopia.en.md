@@ -4,7 +4,7 @@ modType: incredibox
 title: "Incredibox Dystopia"
 description: "Explore 'Incredibox Dystopia,' the fan-made mod set in a dark cyberpunk world. This guide details its electronic and synthwave sound palette, gameplay tips for creating futuristic beats, and how to unlock its themed bonuses"
 iframeSrc: "https://turbowarp.org/1015284026/embed"
-thumbnail: "/new-images/incredibox-dystopia.png"
+thumbnail: /new-images/thumbnails/incredibox-dystopia.png
 urlstr: "incredibox-dystopia"
 score: "4.8/5 (2345 votes)"
 tags: ["music", "electronic", "rhythm"]

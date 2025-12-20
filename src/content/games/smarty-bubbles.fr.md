@@ -4,7 +4,7 @@ urlstr: smarty-bubbles
 title: Smarty Bubbles
 description: "Un bubble shooter classique et coloré. Vise le canon, associe au moins trois bulles de la même couleur pour les faire éclater et nettoie le plateau avant que les bulles n'atteignent le bas\_!"
 iframeSrc: 'https://smartybubbles.h5games.usercontent.goog/v/09fhbor6rfpv0/'
-thumbnail: /new-images/smarty-bubbles.png
+thumbnail: /new-images/thumbnails/smarty-bubbles.png
 tags:
   - shooting
   - puzzle

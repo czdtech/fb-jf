@@ -6,7 +6,7 @@ description: >-
   Fruit Chef ist ein schnelles Frucht-Slice-Spiel: Kette saubere Schnitte,
   weiche Bomben aus und halte dein Tempo für Monster-Kombos.
 iframeSrc: 'https://419in6alhpp88.h5games.usercontent.goog/v/22nao6drjf7v0/'
-thumbnail: /new-images/fruit-chef.png
+thumbnail: /new-images/thumbnails/fruit-chef.png
 tags:
   - action
   - casual

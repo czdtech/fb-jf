@@ -7,7 +7,7 @@ description: >-
   情况下不断在疾驶卡车之间腾跃前进。本指南将帮助你掌握移动节奏、利用卡车侧面保命，
   并通过关卡模式化记忆攻克高难度关卡。
 iframeSrc: 'https://clusterrush.io/game/cluster-rush/'
-thumbnail: /new-images/cluster-rush.jpg
+thumbnail: /new-images/thumbnails/cluster-rush.jpg
 tags:
   - platformer
   - parkour

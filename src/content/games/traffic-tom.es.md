@@ -8,7 +8,7 @@ description: >-
   rey de la carretera.
 iframeSrc: >-
   https://traffictom.h5games.usercontent.goog/v/7c1a9fb2-2097-4c14-b7b1-052d80d41adb/
-thumbnail: /new-images/traffic-tom.jpg
+thumbnail: /new-images/thumbnails/traffic-tom.jpg
 tags:
   - driving
   - action

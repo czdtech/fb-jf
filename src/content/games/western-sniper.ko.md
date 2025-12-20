@@ -6,7 +6,7 @@ description: >-
   서부 무대를 배경으로 한 저격 액션 게임입니다. 숨을 고르고 조준점을 안정시킨 뒤, 우선순위가 높은
   적과 폭발물을 먼저 제거해 짧은 미션들을 깔끔하게 클리어해 보세요.
 iframeSrc: 'https://4oill7a9ltc9g.h5games.usercontent.goog/v/54hea44l6fm4o/'
-thumbnail: /new-images/western-sniper.png
+thumbnail: /new-images/thumbnails/western-sniper.png
 tags:
   - shooting
   - action

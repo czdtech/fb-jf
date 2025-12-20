@@ -4,7 +4,7 @@ locale: en
 title: "Five Nights at Freddy's 3 (FNAF 3)"
 description: "System‑management horror: lure Springtrap with audio, watch cameras/vents, and reboot failing systems to survive each night." 
 iframeSrc: "https://ubg77.github.io/fix/fnaf2/fnaf3.html"
-thumbnail: "/new-images/five-nights-at-freddy-3.jpg"
+thumbnail: /new-images/thumbnails/five-nights-at-freddy-3.jpg
 urlstr: "five-nights-at-freddy-3"
 score: "3.8/5  (149 votes)"
 tags: ["horror", "strategy"]

@@ -6,7 +6,7 @@ description: >-
   Tripeaks Solitaire : un jeu de cartes rapide où tu dois associer des cartes
   d'un rang supérieur ou inférieur pour dégager les trois pics.
 iframeSrc: 'https://tripeakssolitaire.h5games.usercontent.goog/v/4v3d7g06n6rug/'
-thumbnail: /new-images/tripeaks-solitaire.png
+thumbnail: /new-images/thumbnails/tripeaks-solitaire.png
 tags:
   - card
   - puzzle

@@ -7,7 +7,7 @@ description: >-
   steuerst, die die Welt vor bösen Quadraten retten muss, die alles in eckige
   Klötze verwandeln wollen.
 iframeSrc: 'https://class198.github.io/g177/red-ball-4/'
-thumbnail: /new-images/red-ball-4.jpg
+thumbnail: /new-images/thumbnails/red-ball-4.jpg
 tags:
   - platformer
   - physics

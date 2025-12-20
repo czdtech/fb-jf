@@ -4,7 +4,7 @@ urlstr: jewel-halloween
 title: "《Jewel Halloween》万圣夜宝石消除"
 description: "《Jewel Halloween》是一款万圣节主题三消游戏，你要在诡异南瓜与幽灵装饰之间交换宝石，触发连锁反应并完成关卡目标。"
 iframeSrc: 'https://0gk3ormb878mg.h5games.usercontent.goog/v/1qgqb91tuaqv0/'
-thumbnail: /new-images/jewel-halloween.png
+thumbnail: /new-images/thumbnails/jewel-halloween.png
 tags:
   - puzzle
   - casual

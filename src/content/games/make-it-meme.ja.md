@@ -2,7 +2,7 @@
 title: Make It Meme
 description: Make It Memeはキャプションを作って投票するパーティーゲームです。画像にひと言を付けてミームを作り、みんなで投票します。
 iframeSrc: 'https://makeitmeme.h5games.usercontent.goog/v/6rb2cjp54vlg0/'
-thumbnail: /new-images/make-it-meme.png
+thumbnail: /new-images/thumbnails/make-it-meme.jpg
 urlstr: make-it-meme
 score: 4.4/5  (2250 votes)
 tags:

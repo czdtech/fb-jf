@@ -7,7 +7,7 @@ description: >-
   de preparación, controla la sartén y sirve huevos perfectos incluso en plena
   hora punta.
 iframeSrc: 'https://2jbqv0uarsk18.h5games.usercontent.goog/v/2cnuunat3mtpg/'
-thumbnail: /new-images/egg-maker.png
+thumbnail: /new-images/thumbnails/egg-maker.png
 tags:
   - casual
   - thinky

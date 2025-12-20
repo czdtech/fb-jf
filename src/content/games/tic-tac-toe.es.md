@@ -7,7 +7,7 @@ description: >-
   turnan para colocar X y O en una cuadrícula de 3×3, intentando ser los
   primeros en alinear tres símbolos en fila, columna o diagonal.
 iframeSrc: 'https://edit.coolmathgames.com//sites/cmatgame/files/public_games/32511/'
-thumbnail: /new-images/tic-tac-toe.jpg
+thumbnail: /new-images/thumbnails/tic-tac-toe.jpg
 tags:
   - strategy
   - classic

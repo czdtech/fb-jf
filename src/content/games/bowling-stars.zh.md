@@ -4,7 +4,7 @@ urlstr: bowling-stars
 title: Bowling Stars 保龄球之星
 description: 《Bowling Stars 保龄球之星》是一款休闲保龄球游戏，通过瞄准、旋转与力度控制打出 Strike 与 Spare，挑战不同 球道布局与高分记录。
 iframeSrc: 'https://bowlingstars.h5games.usercontent.goog/v/4nmneilfa2g5g/'
-thumbnail: /new-images/bowling-stars.jpg
+thumbnail: /new-images/thumbnails/bowling-stars.png
 tags:
   - sports
   - casual

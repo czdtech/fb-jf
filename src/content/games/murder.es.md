@@ -7,7 +7,7 @@ description: >-
   jugador es el asesino en secreto e intenta eliminar a los demás sin ser
   descubierto, mientras el resto trata de identificarlo y detenerlo.
 iframeSrc: 'https://ubg77.github.io/fix/murder/'
-thumbnail: /new-images/murder.jpg
+thumbnail: /new-images/thumbnails/murder.jpg
 tags:
   - social deduction
   - strategy

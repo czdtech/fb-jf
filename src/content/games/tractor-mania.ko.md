@@ -6,7 +6,7 @@ description: >-
   농장 트랙터로 짐을 싣고 험한 길을 달리는 물리 기반 운송 게임입니다. 가속과 기울기를 섬세하게
   조절해 짐을 흘리지 않고 목적지까지 안전하게 배달해 보세요.
 iframeSrc: 'https://4agtsfcp8ur38.h5games.usercontent.goog/v/35kskpc4lmtig/'
-thumbnail: /new-images/tractor-mania.png
+thumbnail: /new-images/thumbnails/tractor-mania.png
 tags:
   - car
   - driving

@@ -7,7 +7,7 @@ description: >-
   Steine clever, blockiere die Züge des Gegners und werde der erste Spieler, der
   seine Hand komplett leert.
 iframeSrc: 'https://dominobattle.h5games.usercontent.goog/v/45fvkhcnai3s0/'
-thumbnail: /new-images/domino-battle.png
+thumbnail: /new-images/thumbnails/domino-battle.png
 tags:
   - card
   - puzzle

@@ -7,7 +7,7 @@ description: >-
   évoluer ton armée d'hommes des cavernes à soldats du futur, construis des
   tourelles et détruis la base ennemie.
 iframeSrc: 'https://turbowarp.org/414716080/embed'
-thumbnail: /new-images/age-of-war.jpg
+thumbnail: /new-images/thumbnails/incredibox-fruity.jpg
 tags:
   - strategy
   - action

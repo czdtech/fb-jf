@@ -7,7 +7,7 @@ description: >-
   controla el par del motor y entrega el cargamento sano y salvo a través de
   terrenos irregulares.
 iframeSrc: "https://4agtsfcp8ur38.h5games.usercontent.goog/v/35kskpc4lmtig/"
-thumbnail: "/new-images/tractor-mania.png"
+thumbnail: /new-images/thumbnails/tractor-mania.png
 tags:
   - car
   - driving

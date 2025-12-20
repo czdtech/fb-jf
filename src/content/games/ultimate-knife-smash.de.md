@@ -7,7 +7,7 @@ description: >-
   Lücken zwischen den Messern und zerbrich das Ziel sauber, ohne vorhandene
   Klingen zu treffen.
 iframeSrc: 'https://ultimateknifesmash.h5games.usercontent.goog/v/5ifrmqkiihdj0/'
-thumbnail: /new-images/ultimate-knife-smash.png
+thumbnail: /new-images/thumbnails/ultimate-knife-smash.png
 tags:
   - action
   - casual

@@ -3,7 +3,7 @@ locale: en
 title: "Stars Aligned"
 description: "Stars Aligned is a soothing constellation puzzler — rotate fragments, connect lines, and form complete star patterns."
 iframeSrc: "https://starsaligned.h5games.usercontent.goog/v/3i88p78sohtig/"
-thumbnail: "/new-images/stars-aligned.jpg"
+thumbnail: /new-images/thumbnails/stars-aligned.jpg
 urlstr: "stars-aligned"
 score: "4.4/5  (2183 votes)"
 tags: ["puzzle", "thinky", "casual"]

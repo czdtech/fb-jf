@@ -7,7 +7,7 @@ description: >-
   para los modos Block y Draw, gestiona bien tus fichas y gana siendo el primero
   en quedarte sin piezas.
 iframeSrc: 'https://28vlnkkhq8gjg.h5games.usercontent.goog/v/4mi9k9oin4dn8/'
-thumbnail: /new-images/domino-adventure.png
+thumbnail: /new-images/thumbnails/domino-adventure.png
 tags:
   - puzzle
   - strategy

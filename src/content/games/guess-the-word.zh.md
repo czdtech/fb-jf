@@ -4,7 +4,7 @@ urlstr: guess-the-word
 title: "《Guess The Word》连线猜单词"
 description: "《Guess The Word》是一款干净利落的拼词解谜游戏，你要连接字母、利用常见字母组合和词缀，在类似填字格的棋盘中拼出单词并全部填满。"
 iframeSrc: 'https://5e2trj00jcfog.h5games.usercontent.goog/v/1hrc6f7979nig/'
-thumbnail: /new-images/guess-the-word.png
+thumbnail: /new-images/thumbnails/guess-the-word.png
 tags:
   - puzzle
   - thinky

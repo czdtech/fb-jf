@@ -4,7 +4,7 @@ urlstr: hobo
 title: "Hobo"
 description: "Beat’em up déjanté : bastonne‑toi dans les rues, débloque des combos, utilise des armes improvisées et des attaques spéciales complètement absurdes."
 iframeSrc: "https://ad-freegames.github.io/flash/game/hobo.html"
-thumbnail: /new-images/hobo.jpg
+thumbnail: /new-images/thumbnails/hobo.jpg
 tags:
   - fighting
   - beat-em-up

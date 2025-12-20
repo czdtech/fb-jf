@@ -4,7 +4,7 @@ locale: en
 title: "Whack Your Boss"
 description: "Unleash your office frustrations in Whack Your Boss, a darkly humorous interactive game! Discover over a dozen creative and comical ways to 'whack' your annoying boss using everyday office items. Click on objects to trigger hilarious animations and find all the secret methods."
 iframeSrc: "https://flash-cdn.blogspot.com/2021/06/whack-your-boss-24-ways.html"
-thumbnail: "/new-images/whack-your-boss.jpg"
+thumbnail: /new-images/thumbnails/whack-your-boss.jpg
 urlstr: "whack-your-boss"
 score: "4.7/5  (899 votes)"
 tags: ["interactive", "funny", "puzzle"]

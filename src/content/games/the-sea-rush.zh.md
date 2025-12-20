@@ -4,7 +4,7 @@ urlstr: the-sea-rush
 title: 《The Sea Rush》海底消除探险
 description: 《The Sea Rush》是一款海底主题的三消/消除游戏。通过交换或点击方块，将相同颜色的宝石或海洋元素连成一线进行消除，完成关卡目标。
 iframeSrc: 'https://thesea-rush.h5games.usercontent.goog/v/3m8n2c1b4k5p0/'
-thumbnail: /new-images/the-sea-rush.jpg
+thumbnail: /new-images/thumbnails/the-sea-rush.png
 tags:
   - match 3
   - puzzle

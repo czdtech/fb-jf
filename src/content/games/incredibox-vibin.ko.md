@@ -6,7 +6,7 @@ description: >-
   차분한 로파이 힙합 테마의 팬메이드 모드 'Incredibox Vibin'' 가이드입니다. 드럼 루프·재즈 키보드·보컬 샘플을 활용해
   공부·휴식용 비트를 만드는 방법과 보너스 해금 팁을 정리했습니다.
 iframeSrc: 'https://turbowarp.org/1050468579/embed'
-thumbnail: /new-images/incredibox-vibin.png
+thumbnail: /new-images/thumbnails/incredibox-vibin.png
 tags:
   - music
   - rhythm

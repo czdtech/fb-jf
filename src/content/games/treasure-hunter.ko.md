@@ -7,7 +7,7 @@ description: >-
   밀림을 누비며 전설의 유물과 반짝이는 금을 찾아 나섭니다. 함정과 퍼즐을 돌파하고 라이벌을
   따돌려, 궁극의 보물을 손에 넣는 모험 게임입니다.
 iframeSrc: 'https://m.igroutka.ru/g-1/149/TreasureHunter/'
-thumbnail: /new-images/treasure-hunter.jpg
+thumbnail: /new-images/thumbnails/treasure-hunter.jpg
 tags:
   - adventure
   - exploration

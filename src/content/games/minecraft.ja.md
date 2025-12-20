@@ -2,7 +2,7 @@
 title: Minecraft
 description: Minecraftはサンドボックス型の冒険ゲームです。ブロックの世界で建築や探索を行い、素材を集めて生き延びます。
 iframeSrc: 'https://minecraft.h5games.usercontent.goog/v/5h14j8ljr0lk0/'
-thumbnail: /new-images/minecraft.png
+thumbnail: /new-images/thumbnails/minecraft.jpg
 urlstr: minecraft
 score: 4.7/5  (5234 votes)
 tags:

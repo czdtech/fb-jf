@@ -7,7 +7,7 @@ description: >-
   cuanto lleguen al teclado para interpretar preciosas canciones. No dejes pasar
   ni una sola tecla.
 iframeSrc: 'https://perfectpiano.h5games.usercontent.goog/v/48c3ch9soa7cg/'
-thumbnail: /new-images/perfect-piano.png
+thumbnail: /new-images/thumbnails/perfect-piano.png
 tags:
   - action
   - casual

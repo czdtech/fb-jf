@@ -6,7 +6,7 @@ description: >-
   Mahjong Match Puzzle mezcla reglas de solitario y de conexión: empareja
   fichas libres, gestiona las capas y limpia el tablero de forma eficiente.
 iframeSrc: 'https://5jdtfmidv5ao0.h5games.usercontent.goog/v/1qd7nn7jmar7g/'
-thumbnail: /new-images/mahjong-match-puzzle.png
+thumbnail: /new-images/thumbnails/mahjong-match-puzzle.png
 tags:
   - mahjong
   - puzzle

@@ -6,7 +6,7 @@ description: >-
   Granny Hero es un runner de acción en clave de humor: esquiva peligros, usa
   power‑ups disparatados y rescata a los vecinos con una agilidad inesperada.
 iframeSrc: 'https://0nd9712ar55uo.h5games.usercontent.goog/v/3qru4tsu7d5v0/'
-thumbnail: /new-images/granny-hero.png
+thumbnail: /new-images/thumbnails/granny-hero.png
 tags:
   - action
   - casual

@@ -7,7 +7,7 @@ description: >-
   descubre qué palabra las une y pon a prueba tu vocabulario y tu capacidad para
   ver conexiones.
 iframeSrc: 'https://previews.customer.envatousercontent.com/files/309288896/index.html'
-thumbnail: /new-images/4-pics-1-word.jpg
+thumbnail: /new-images/thumbnails/4-pics-1-word.jpg
 tags:
   - casual
   - rhythm

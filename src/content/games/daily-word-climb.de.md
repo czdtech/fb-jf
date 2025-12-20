@@ -7,7 +7,7 @@ description: >-
   richtigen Wörter und nutze Farbhilfe, um Positionen zu deduzieren – alles
   innerhalb eines begrenzten Zuglimits.
 iframeSrc: 'https://7j9i6247552ro.h5games.usercontent.goog/v/1g49kcc7pdiio/'
-thumbnail: /new-images/daily-word-climb.png
+thumbnail: /new-images/thumbnails/daily-word-climb.png
 tags:
   - puzzle
   - thinky

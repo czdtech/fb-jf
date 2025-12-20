@@ -6,7 +6,7 @@ description: >-
   Cat Mario는 일본 프리웨어 게임 *Syobon Action(しょぼんのアクション)* 로, 클래식 슈퍼 마리오를 패러디한 악명 높은
   "언페어 플랫폼" 게임입니다. 숨겨진 함정과 예측 불가능한 적, 플레이어를 속이는 레벨 디자인을 기억해 가며 클리어하는 것이 핵심입니다.
 iframeSrc: 'https://tiwb.github.io/catmario/'
-thumbnail: /new-images/cat-mario.jpg
+thumbnail: /new-images/thumbnails/cat-mario.jpg
 tags:
   - platformer
   - casual

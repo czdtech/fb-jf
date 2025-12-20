@@ -4,7 +4,7 @@ locale: en
 title: "Pokemon Fire Red"
 description: "Pokemon Fire Red is a faithful remake of the original Pokémon Red game, where players journey through the Kanto region to catch and train Pokémon, battle Gym Leaders, and thwart the plans of Team Rocket to become the Pokémon League Champion."
 iframeSrc: "https://picklekid31.github.io/GBA-unblocked-games/launcher.html#pokemonred"
-thumbnail: "/new-images/pokemon-fire-red.jpg"
+thumbnail: /new-images/thumbnails/pokemon-fire-red.jpg
 urlstr: "pokemon-fire-red"
 score: "4.0/5  (705 votes)"
 tags: ["rpg", "adventure", "collecting"]

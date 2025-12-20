@@ -7,7 +7,7 @@ description: >-
   向不断前进的彩色珠链发射珍珠，凑成三颗或以上同色即可消除，
   在珠链冲到终点之前全部清空它们。
 iframeSrc: 'https://zumbaocean.h5games.usercontent.goog/v/1gb65icesunig/'
-thumbnail: /new-images/zumba-ocean.png
+thumbnail: /new-images/thumbnails/zumba-ocean.png
 tags:
   - shooting
   - puzzle

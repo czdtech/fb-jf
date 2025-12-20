@@ -7,7 +7,7 @@ description: >-
   Sprunki Eggs. Cada huevo tiene atributos únicos y sus interacciones pueden
   desencadenar efectos tan inesperados como sorprendentes.
 iframeSrc: "https://turbowarp.org/1102648676/embed"
-thumbnail: "/sprunki-eggs-mix.png"
+thumbnail: /new-images/thumbnails/sprunki-eggs-mix.png
 tags:
   - sprunki egg
 score: 3.9/5  (125 votes)

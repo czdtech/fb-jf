@@ -7,7 +7,7 @@ description: >-
   de escape de un astuto gato colocando barreras en un tablero hexagonal, usando
   lógica y planificación para impedir que llegue al borde.
 iframeSrc: "https://freeonlinegames.github.io/cat-trap.html"
-thumbnail: "/new-images/trap-the-cat.jpg"
+thumbnail: /new-images/thumbnails/trap-the-cat.jpg
 tags:
   - strategy
   - puzzle

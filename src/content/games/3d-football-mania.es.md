@@ -7,7 +7,7 @@ description: >-
   movimiento de los defensas, elige el pase correcto y remata con buen
   sincronizado para batir al portero.
 iframeSrc: 'https://0iadidf74ef9o.h5games.usercontent.goog/v/4cmv5jsv0n25g/'
-thumbnail: /new-images/3d-football-mania.png
+thumbnail: /new-images/thumbnails/3d-football-mania.png
 tags:
   - sports
   - soccer

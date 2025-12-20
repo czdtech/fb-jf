@@ -4,7 +4,7 @@ locale: en
 title: "Fancy Pants"
 description: "Stylish stick‑figure platformer: fast momentum, wall‑jumps, and flowy parkour across hand‑drawn levels and secret rooms."
 iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210305/jj8/index.html"
-thumbnail: "/new-images/fancy-pants.jpg"
+thumbnail: /new-images/thumbnails/fancy-pants.jpg
 urlstr: "fancy-pants"
 score: "4.7/5  (778 votes)"
 tags: ["platformer", "action"]

@@ -9,7 +9,7 @@ description: >-
   Usa los impulsos de velocidad con cabeza para dominar la arena en este
   adictivo juego casual.
 iframeSrc: "https://snake.io/crazygames/"
-thumbnail: "/new-images/snake-io.jpg"
+thumbnail: /new-images/thumbnails/snake-io.jpg
 tags:
   - io-games
   - snake

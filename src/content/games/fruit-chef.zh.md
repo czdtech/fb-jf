@@ -6,7 +6,7 @@ description: >-
   Fruit Chef 是一款節奏明快的切水果遊戲，透過連續俐落的刀光劃破飛舞的水果，
   避開炸彈並掌握節奏來打出驚人連段。
 iframeSrc: 'https://419in6alhpp88.h5games.usercontent.goog/v/22nao6drjf7v0/'
-thumbnail: /new-images/fruit-chef.png
+thumbnail: /new-images/thumbnails/fruit-chef.png
 tags:
   - action
   - casual

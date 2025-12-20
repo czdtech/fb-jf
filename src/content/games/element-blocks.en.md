@@ -3,7 +3,7 @@ locale: en
 title: "Element Blocks"
 description: "A strategic block puzzle game with a twist. Place elemental blocks to clear lines, and collect stars to unleash powerful boosters. Plan your moves carefully to master the grid!"
 iframeSrc: "https://elementblocks.h5games.usercontent.goog/v/35up5t7ao24i8/"
-thumbnail: "/new-images/element-blocks.png"
+thumbnail: /new-images/thumbnails/element-blocks.png
 urlstr: "element-blocks"
 score: "4.5/5  (2500 votes)"
 tags: ["puzzle", "thinky", "casual"]

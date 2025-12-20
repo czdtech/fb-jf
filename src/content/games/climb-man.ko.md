@@ -6,7 +6,7 @@ description: >-
   Climb Man: Walk to the Sky는 왼쪽·오른쪽 발판을 번갈아 밟으며 하늘 끝까지 올라가는 아케이드 러너 게임입니다. 타이밍
   좋게 버튼을 눌러 계단을 오르고, 장애물을 피해 최고 기록에 도전해 보세요.
 iframeSrc: 'https://1muicq0oght78.h5games.usercontent.goog/v/1aim9ophd8cdg/'
-thumbnail: /new-images/climb-man.png
+thumbnail: /new-images/thumbnails/climb-man.png
 tags:
   - action
   - casual

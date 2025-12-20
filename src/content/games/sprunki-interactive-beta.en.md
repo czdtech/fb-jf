@@ -3,7 +3,7 @@ locale: en
 title: Sprunki Interactive BETA - Play Sprunki Interactive BETA Online
 description: 'Sprunki Interactive BETA is not just a simple upgrade to the Sprunki game, it'
 iframeSrc: 'https://turbowarp.org/1090663998/embed'
-thumbnail: /sprunki-interactive-beta.png
+thumbnail: /new-images/thumbnails/sprunki-interactive-beta.png
 urlstr: sprunki-interactive-beta
 modType: sprunki
 score: 4.0/5  (407 votes)

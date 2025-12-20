@@ -6,7 +6,7 @@ description: >-
   《Unpark Me》是一款经典“停车场华容道”益智游戏。你需要在拥挤的停车场中移动
   其它车辆，为目标红色小车开辟一条通往出口的道路，用尽可能少的步数完成解谜。
 iframeSrc: 'https://unparkme.h5games.usercontent.goog/v/59baoe1o8mbe0/'
-thumbnail: /new-images/unpark-me.png
+thumbnail: /new-images/thumbnails/unpark-me.png
 tags:
   - puzzle
   - thinky

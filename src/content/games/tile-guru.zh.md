@@ -4,7 +4,7 @@ urlstr: tile-guru
 title: 《Tile Guru》方块大师三消
 description: 《Tile Guru》是一款 3D 视角的方块消除/连连看类游戏。通过从堆叠的立体方块中挑选图案相同的牌，凑成三张即可消除，清空全部方块即为通关。
 iframeSrc: 'https://tileguru.h5games.usercontent.goog/v/2g7d9c1b4k8p0/'
-thumbnail: /new-images/tile-guru.png
+thumbnail: /new-images/thumbnails/tile-guru.png
 tags:
   - puzzle
   - match 3

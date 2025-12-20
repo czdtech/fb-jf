@@ -6,7 +6,7 @@ description: >-
   《Daily Word Climb 每日单词阶梯》是一款每日更新的英文单词推理游戏。通过交换网格中
   的字母，还原每一行的正确单词，并利用颜色提示在限定步数内解开谜题。
 iframeSrc: 'https://7j9i6247552ro.h5games.usercontent.goog/v/1g49kcc7pdiio/'
-thumbnail: /new-images/daily-word-climb.png
+thumbnail: /new-images/thumbnails/daily-word-climb.png
 tags:
   - puzzle
   - thinky

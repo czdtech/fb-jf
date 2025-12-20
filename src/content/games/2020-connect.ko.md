@@ -6,7 +6,7 @@ description: >-
   같은 숫자 타일을 선으로 이어 합치고 공간을 관리하며 긴 콤보를 노리는
   차분한 숫자 연결 퍼즐 게임입니다.
 iframeSrc: 'https://4l7qr4mfc8o80.h5games.usercontent.goog/v/5sm797oi4heu0/'
-thumbnail: /new-images/2020-connect.png
+thumbnail: /new-images/thumbnails/2020-connect.png
 tags:
   - puzzle
   - thinky

@@ -2,7 +2,7 @@
 title: Endless Truck エンドレス・トラック
 description: 「Endless Truck」はスタント・ランナー。勢いを管理し、きれいに着地し、ブーストを繋げながら現金とアップグレードを集めよう。
 iframeSrc: 'https://3a73fjju0knmg.h5games.usercontent.goog/v/5ammj72815kno/'
-thumbnail: /new-images/endless-truck.png
+thumbnail: /new-images/thumbnails/endless-truck.png
 urlstr: endless-truck
 score: 3.9/5  (1734 votes)
 tags:

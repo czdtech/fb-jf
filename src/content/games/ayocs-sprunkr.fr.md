@@ -4,7 +4,7 @@ urlstr: ayocs-sprunkr
 title: "AYOCS Sprunkr - Play AYOCS Sprunkr Online"
 description: "AYOCS Sprunkr est un mod stylé de Sprunki où de nouveaux personnages ultra lookés et leurs sons originaux te permettent de créer des mixes encore plus tendance."
 iframeSrc: "https://turbowarp.org/1114188520/embed"
-thumbnail: /ayocs-sprunkr.png
+thumbnail: /new-images/thumbnails/ayocs-sprunkr.png
 tags:
   - ayocs sprunkr
 score: 4.1/5  (54 votes)

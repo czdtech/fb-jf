@@ -6,7 +6,7 @@ description: >-
   Swap Sprunkgerny est un Mod musical où tu fais glisser des créatures colorées
   sur la scène pour leur faire jouer des boucles et composer ton propre morceau.
 iframeSrc: 'https://turbowarp.org/1141050651/embed'
-thumbnail: /swap-sprunkgerny.png
+thumbnail: /new-images/thumbnails/swap-sprunkgerny.png
 tags:
   - swap sprunkgerny
   - swap sprunkgerny online

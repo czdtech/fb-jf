@@ -2,7 +2,7 @@
 title: Smarty Bubbles
 description: Smarty Bubblesはバブルシューターのパズルです。同じ色をそろえて消し、盤面をクリアします。
 iframeSrc: 'https://smartybubbles.h5games.usercontent.goog/v/5k9j2m8h7p3n8/'
-thumbnail: /new-images/smarty-bubbles.png
+thumbnail: /new-images/thumbnails/smarty-bubbles.png
 urlstr: smarty-bubbles
 score: 4.3/5  (2567 votes)
 tags:

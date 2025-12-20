@@ -7,7 +7,7 @@ description: >-
   피해 살아남아야 하는 시프트제 공포 게임입니다. 방 사이를 이동하고 유지 보수 작업을
   수행하며, 불길한 연출 속에서 각종 스크립트 이벤트를 버텨 내야 합니다.
 iframeSrc: 'https://ubg77.github.io/fix/fnaf2/fnafsl.html'
-thumbnail: /new-images/five-nights-at-freddy-sl.jpg
+thumbnail: /new-images/thumbnails/five-nights-at-freddy-sl.jpg
 tags:
   - horror
   - adventure

@@ -4,7 +4,7 @@ urlstr: air-traffic-control
 title: "Air Traffic Control"
 description: "Dans Air Traffic Control, tu guides des avions en toute sécurité : trace leurs trajectoires, évite les conflits et coordonne les atterrissages sans collision."
 iframeSrc: "https://2nuk1jh1nvsq8.h5games.usercontent.goog/v/5glj0btngbu2o/"
-thumbnail: /new-images/air-traffic-control.png
+thumbnail: /new-images/thumbnails/air-traffic-control.png
 tags:
   - thinky
   - puzzle

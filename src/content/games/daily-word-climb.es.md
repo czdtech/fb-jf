@@ -7,7 +7,7 @@ description: >-
   para formar las palabras correctas y usa las pistas de color para deducir la
   posición exacta antes de que se agoten los movimientos.
 iframeSrc: 'https://7j9i6247552ro.h5games.usercontent.goog/v/1g49kcc7pdiio/'
-thumbnail: /new-images/daily-word-climb.png
+thumbnail: /new-images/thumbnails/daily-word-climb.png
 tags:
   - puzzle
   - thinky

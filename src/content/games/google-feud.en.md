@@ -5,7 +5,7 @@ description: >-
   Survey‑style guessing game: complete autocomplete prompts with the most
   popular queries and climb the rounds without striking out.
 iframeSrc: 'https://mac-web.github.io/macvg/projects/google-feud/game.html'
-thumbnail: /new-images/google-feud.jpg
+thumbnail: /new-images/thumbnails/google-feud.jpg
 urlstr: google-feud
 score: 4.3/5  (511 votes)
 tags:

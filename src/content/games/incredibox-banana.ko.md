@@ -6,7 +6,7 @@ description: >-
   팬이 제작한 Incredibox 모드인 'Incredibox Banana'를 소개하는 가이드입니다. 인기 VR 게임에서 영감을 받은 정글·밈
   테마와 독특한 사운드 팔레트, 그리고 자신만의 원숭이 믹스를 만드는 팁을 다룹니다.
 iframeSrc: 'https://turbowarp.org/1108699828/embed'
-thumbnail: /new-images/incredibox-banana.png
+thumbnail: /new-images/thumbnails/incredibox-banana.png
 tags:
   - music
   - rhythm

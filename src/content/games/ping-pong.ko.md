@@ -6,7 +6,7 @@ description: >-
   클래식 아케이드 스타일의 탁구 게임입니다. 패들을 움직여 공을
   되받아치고, 상대가 놓치도록 만들어 점수를 따내 보세요.
 iframeSrc: 'https://ranimania.com/Games/pingpong/ping_pong/'
-thumbnail: /new-images/ping-pong.jpg
+thumbnail: /new-images/thumbnails/ping-pong.jpg
 tags:
   - arcade
   - sports

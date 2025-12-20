@@ -6,7 +6,7 @@ description: >-
   Tumble Towers est un puzzle d'empilement physique : équilibre les blocs,
   contrôle les débordements et construis des tours stables.
 iframeSrc: 'https://786ndsslg99r8.h5games.usercontent.goog/v/70bavan56u08g/'
-thumbnail: /new-images/tumble-towers.png
+thumbnail: /new-images/thumbnails/tumble-towers.png
 tags:
   - puzzle
   - thinky

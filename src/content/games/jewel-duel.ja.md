@@ -2,7 +2,7 @@
 title: "Jewel Duel"
 description: "Jewel Duelはマッチ3とRPGをミックスします。スワップして攻撃/防御し、スキルをトリガーし、戦術的なマッチでシールドを破壊します。"
 iframeSrc: "https://5f4e2d55f2dt8.h5games.usercontent.goog/v/36105ruk0rln0/"
-thumbnail: "/new-images/jewel-duel.jpg"
+thumbnail: /new-images/thumbnails/jewel-duel.jpg
 urlstr: "jewel-duel"
 score: "4.2/5  (2052 votes)"
 tags: ["puzzle", "thinky"]

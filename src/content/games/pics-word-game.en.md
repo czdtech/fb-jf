@@ -3,7 +3,7 @@ locale: en
 title: "Pics Word Game"
 description: "Guess the word that connects the pictures in Pics Word Game, a fun and addictive word puzzle game."
 iframeSrc: "https://picswordgame.h5games.usercontent.goog/v/40jujb4uelhb0/"
-thumbnail: "/new-images/pics-word-game.jpg"
+thumbnail: /new-images/thumbnails/pics-word-game.jpg
 urlstr: "pics-word-game"
 score: "4.2/5 (1234 votes)"
 tags: ["puzzle", "thinky", "casual"]

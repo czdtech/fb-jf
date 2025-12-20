@@ -3,7 +3,7 @@ locale: en
 title: "Quest Bingo"
 description: "Go on a Bingo adventure! Daub your way through exciting levels, complete quests, use powerful boosters, and collect puzzle pieces in this modern twist on the classic game."
 iframeSrc: "https://52nk212336l1g.h5games.usercontent.goog/v/0smbj5p2kjk78/"
-thumbnail: "/new-images/quest-bingo.png"
+thumbnail: /new-images/thumbnails/quest-bingo.png
 urlstr: "quest-bingo"
 score: "4.5/5  (2550 votes)"
 tags: ["card", "puzzle", "casual"]

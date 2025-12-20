@@ -2,7 +2,7 @@
 title: Wheely
 description: Wheelyは、車のパズルアドベンチャーゲームです。赤い車を助けてゴールまで導きましょう。
 iframeSrc: 'https://ubg98.github.io/Wheely/'
-thumbnail: /new-images/wheely.jpg
+thumbnail: /new-images/thumbnails/wheely.jpg
 urlstr: wheely
 score: 4.5/5  (3234 votes)
 tags:

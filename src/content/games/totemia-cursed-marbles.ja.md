@@ -2,7 +2,7 @@
 title: Totemia Cursed Marbles
 description: Totemia Cursed Marblesは、マッチ3スタイルのマーブルシューターゲームです。同じ色のボールを揃えて消しましょう。
 iframeSrc: 'https://ubg98.github.io/TotemiaCursedMarbles/'
-thumbnail: /new-images/totemia-cursed-marbles.jpg
+thumbnail: /new-images/thumbnails/totemia-cursed-marbles.png
 urlstr: totemia-cursed-marbles
 score: 4.4/5  (2876 votes)
 tags:

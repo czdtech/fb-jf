@@ -2,7 +2,7 @@
 title: "Incredibox YaBoo"
 description: "ファン作成の『Incredibox YaBoo』モッドに飛び込みましょう。このガイドでは、そのユニークなサウンドパレット、音楽制作ゲームプレイ、テーマ別ボーナスのアンロック方法を取り上げます。"
 iframeSrc: "https://turbowarp.org/1095206379/embed"
-thumbnail: "/new-images/incredibox-yaboo.png"
+thumbnail: /new-images/thumbnails/incredibox-yaboo.png
 urlstr: "incredibox-yaboo"
 score: "4.5/5 (987 votes)"
 tags: ["music", "rhythm"]

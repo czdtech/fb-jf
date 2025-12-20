@@ -4,7 +4,7 @@ urlstr: light-line
 title: 《Light Line》光线连线谜题
 description: 《Light Line》是一款发光路径绘制解谜游戏，你要在棋盘上连接发光节点，不能交叉，需在转折数、线长和机关限制下设计优雅路线。
 iframeSrc: 'https://4es9bmcl5tp2o.h5games.usercontent.goog/v/5uo8nsnhp1vjo/'
-thumbnail: /new-images/light-line.png
+thumbnail: /new-images/thumbnails/light-line.png
 tags:
   - puzzle
   - thinky

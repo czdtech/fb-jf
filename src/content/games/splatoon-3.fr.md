@@ -9,7 +9,7 @@ description: >-
   embuscades et recharger ton arme. Maîtrise les déplacements et le jeu
   d’équipe pour dominer le turf.
 iframeSrc: 'https://bitlifeonline.github.io/splatoon-3/'
-thumbnail: /new-images/splatoon-3.jpg
+thumbnail: /new-images/thumbnails/splatoon-3.jpg
 tags:
   - action
   - shooting

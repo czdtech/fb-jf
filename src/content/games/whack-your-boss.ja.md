@@ -2,7 +2,7 @@
 title: Whack Your Boss
 description: Whack Your Bossは、ストレス発散ゲームです。様々な方法でボスにストレスをぶつけましょう。
 iframeSrc: 'https://ubg98.github.io/WhackYourBoss/'
-thumbnail: /new-images/whack-your-boss.jpg
+thumbnail: /new-images/thumbnails/whack-your-boss.jpg
 urlstr: whack-your-boss
 score: 4.2/5  (2234 votes)
 tags:

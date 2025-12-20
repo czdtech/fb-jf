@@ -6,7 +6,7 @@ description: >-
   二代的核心是面具與八音盒管理：在同時監控多個機械玩偶的情況下，
   持續上發條維持 Puppet 的音樂盒，適時使用手電筒與 Freddy 面具活下來。
 iframeSrc: 'https://ubg77.github.io/fix/fnaf2/'
-thumbnail: /new-images/five-nights-at-freddy-2.jpg
+thumbnail: /new-images/thumbnails/five-nights-at-freddy-2.jpg
 tags:
   - horror
   - strategy

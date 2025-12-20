@@ -3,7 +3,7 @@ locale: en
 title: "Giant Attack"
 description: "Take on colossal giants in this action-packed arcade game! Collect your allies to grow in size and power, and unleash devastating attacks to defeat the towering monsters."
 iframeSrc: "https://5699ri02mr840.h5games.usercontent.goog/v/0dov2qbpnafb0/"
-thumbnail: "/new-images/giant-attack.png"
+thumbnail: /new-images/thumbnails/giant-attack.png
 urlstr: "giant-attack"
 score: "4.1/5  (1800 votes)"
 tags: ["action", "casual"]

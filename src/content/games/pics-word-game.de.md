@@ -6,7 +6,7 @@ description: >-
   Errate im Pics Word Game das Wort, das alle Bilder miteinander verbindet – ein
   unterhaltsames Wort- und Bilderrätsel für zwischendurch.
 iframeSrc: 'https://picswordgame.h5games.usercontent.goog/v/40jujb4uelhb0/'
-thumbnail: /new-images/pics-word-game.jpg
+thumbnail: /new-images/thumbnails/pics-word-game.jpg
 tags:
   - puzzle
   - thinky

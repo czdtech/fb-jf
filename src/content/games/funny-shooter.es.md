@@ -7,7 +7,7 @@ description: >-
   enemigos disparatados, recoge dinero y mejora tus armas para sobrevivir a
   rondas cada vez más duras.
 iframeSrc: 'https://bitlifeonline.github.io/class2623/funny-shooter/'
-thumbnail: /new-images/funny-shooter.jpg
+thumbnail: /new-images/thumbnails/funny-shooter.jpg
 tags:
   - shooting
   - fps

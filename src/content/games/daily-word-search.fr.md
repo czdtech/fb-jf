@@ -4,7 +4,7 @@ urlstr: daily-word-search
 title: Daily Word Search
 description: "Daily Word Search te propose une nouvelle grille de mots mêlés chaque jour\_: retrouve les mots cachés horizontalement, verticalement et en diagonale."
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/daily-word-search/'
-thumbnail: /new-images/daily-word-search.jpg
+thumbnail: /new-images/thumbnails/daily-word-search.png
 tags:
   - word
   - puzzle

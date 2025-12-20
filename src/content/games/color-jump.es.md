@@ -6,7 +6,7 @@ description: >-
   Color Jump es un runner minimalista de un solo toque: combina colores, calcula
   los saltos y atraviesa patrones que cambian constantemente.
 iframeSrc: 'https://2sqb7s6hkuouo.h5games.usercontent.goog/v/251huhkdnons0/'
-thumbnail: /new-images/color-jump.png
+thumbnail: /new-images/thumbnails/color-jump.png
 tags:
   - action
   - casual

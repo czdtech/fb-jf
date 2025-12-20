@@ -4,7 +4,7 @@ urlstr: treasure-hunter
 title: 《Treasure Hunter》古墓寻宝者
 description: 《Treasure Hunter》是一款以探险寻宝为主题的动作/解谜游戏。你将深入古遗迹、神秘洞穴和丛林废墟，寻找传说中的宝物并躲避机关与竞争对手。
 iframeSrc: 'https://treasurehunter.h5games.usercontent.goog/v/4d7n3c1b9k2p0/'
-thumbnail: /new-images/treasure-hunter.jpg
+thumbnail: /new-images/thumbnails/treasure-hunter.jpg
 tags:
   - adventure
   - puzzle

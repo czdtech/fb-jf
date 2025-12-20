@@ -7,7 +7,7 @@ description: >-
   dem klassischen Incredibox-Gameplay verbindet und dir viele neue, kreative
   Sounds liefert.
 iframeSrc: 'https://turbowarp.org/1129395199/embed'
-thumbnail: /incredibox-sprunksters.png
+thumbnail: /new-images/thumbnails/incredibox-sprunksters.png
 tags:
   - incredibox sprunksters
 score: 4.3/5  (185 votes)

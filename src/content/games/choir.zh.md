@@ -7,7 +7,7 @@ description: >-
   戏。掌握基础操作、创作技巧与常见问题解答，在可爱的“胶团”歌手陪伴下，随心所欲创
   作属于你自己的歌剧作品。
 iframeSrc: 'https://d21u3ic0kp9e91.cloudfront.net/choir/04/index.html'
-thumbnail: /new-images/choir.jpg
+thumbnail: /new-images/thumbnails/choir.jpg
 tags:
   - casual
   - music

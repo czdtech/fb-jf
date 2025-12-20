@@ -2,7 +2,7 @@
 title: "Guess The Word"
 description: "Guess The Wordはクリーンな単語構築ゲームです。文字を繋げ、パターンを利用し、語彙力と論理を駆使してクロスワードをクリアしましょう。"
 iframeSrc: "https://5e2trj00jcfog.h5games.usercontent.goog/v/1hrc6f7979nig/"
-thumbnail: "/new-images/guess-the-word.png"
+thumbnail: /new-images/thumbnails/guess-the-word.png
 urlstr: "guess-the-word"
 score: "4.2/5  (2041 votes)"
 tags: ["puzzle", "thinky"]

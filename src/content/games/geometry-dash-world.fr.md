@@ -4,7 +4,7 @@ urlstr: geometry-dash-world
 title: "Geometry Dash World"
 description: "Mondes compacts de platformer rythmique : cours, saute et vole dans de courts niveaux synchronisés à la musique, débloque des portails avec des orbes et visite des niveaux quotidiens."
 iframeSrc: 'https://geometrylite.io/game/geometry-dash-world/'
-thumbnail: /new-images/geometry-dash-world.jpg
+thumbnail: /new-images/thumbnails/geometry-dash-world.jpg
 tags:
   - rhythm
   - platformer

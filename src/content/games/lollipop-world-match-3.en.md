@@ -3,7 +3,7 @@ locale: en
 title: "Lollipop World : match 3"
 description: "Lollipop World: Match 3 is a candy puzzler — combine power‑ups, break blockers, and meet scene goals within tight move limits."
 iframeSrc: "https://4oij9suhguc58.h5games.usercontent.goog/v/1osssadggdrao/"
-thumbnail: "/new-images/lollipop-world-match-3.jpg"
+thumbnail: /new-images/thumbnails/lollipop-world-match-3.jpg
 urlstr: "lollipop-world-match-3"
 score: "4.0/5  (1871 votes)"
 tags: ["puzzle", "casual", "thinky"]

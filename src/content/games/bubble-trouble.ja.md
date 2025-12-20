@@ -3,7 +3,7 @@ title: Bubble Trouble バブル・トラブル
 description: 「Bubble Trouble」で跳ね回るバブルを撃ち落とせ！ハープーンで分裂させ、触れないように全滅させるアクションゲーム。協力プレイも熱い！
 iframeSrc: >-
   https://app-96647.games.s3.yandex.net/96647/w4h0ydt7quklspc0jxwg9kauaiii2lnx/index.html
-thumbnail: /new-images/bubble-trouble.jpg
+thumbnail: /new-images/thumbnails/bubble-trouble.jpg
 urlstr: bubble-trouble
 score: 4.4/5  (203 votes)
 tags:

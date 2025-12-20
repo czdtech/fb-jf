@@ -5,7 +5,7 @@ title: "Sprunki Mountayonnaise - 在线玩 Sprunki Mountayonnaise"
 description: >-
   《Sprunki Mountayonnaise》是一款惊喜感十足的 Sprunki 模组音乐游戏，你为角色添加不同音效时会触发截然不同的动物形象与动画，拥有极高的可玩性与重复体验价值。
 iframeSrc: 'https://turbowarp.org/1135773023/embed'
-thumbnail: /sprunki-mountayonnaise.png
+thumbnail: /new-images/thumbnails/mountayonnaise.png
 tags:
   - sprunki mountayonnaise
   - sprunki mountayonnaise online

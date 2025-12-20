@@ -7,7 +7,7 @@ description: >-
   parfaitement simplicité d’utilisation et profondeur, idéale pour tous ceux qui
   veulent « construire » leurs morceaux étape par étape.
 iframeSrc: 'https://turbowarp.org/1133167510/embed'
-thumbnail: /sprunki-pyramixed-version.png
+thumbnail: /new-images/thumbnails/sprunki-pyramixed-version.png
 tags:
   - sprunki pyramixed
 score: 4.0/5  (254 votes)

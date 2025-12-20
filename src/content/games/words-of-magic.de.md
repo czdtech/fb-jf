@@ -6,7 +6,7 @@ description: >-
   Entfessle deinen Wortschatz in Words of Magic: Verbinde Buchstaben zu Wörtern,
   fülle das Kreuzwort‑Gitter und genieße ein entspannt‑magisches Wortpuzzle.
 iframeSrc: 'https://5a5rs5ng5rvro.h5games.usercontent.goog/v/4grqmc17b1kc0/'
-thumbnail: /new-images/words-of-magic.png
+thumbnail: /new-images/thumbnails/words-of-magic.png
 tags:
   - puzzle
   - thinky

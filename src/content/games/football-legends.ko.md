@@ -4,7 +4,7 @@ urlstr: football-legends
 title: Football Legends 풋볼 레전드
 description: '유명 선수들을 데포르메한 캐릭터로 즐기는 아케이드 축구 게임입니다. 1v1, 2v2 모드에서 슈팅과 스페셜 스킬을 활용해 골을 넣어 보세요.'
 iframeSrc: 'https://f2.canubegames.com/game/football-legends-2021/'
-thumbnail: /new-images/football-legends.jpg
+thumbnail: /new-images/thumbnails/football-legends.jpg
 tags:
   - sports
   - football

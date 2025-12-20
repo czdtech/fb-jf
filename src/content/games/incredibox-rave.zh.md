@@ -4,7 +4,7 @@ urlstr: incredibox-rave
 title: "Incredibox Rave - 在线玩 Incredibox Rave"
 description: "Incredibox Rave 本指南详细介绍了其电子舞曲调色板、创作高能量曲目的玩法，以及如何解锁其霓虹主题奖励。"
 iframeSrc: 'https://turbowarp.org/980794126/embed'
-thumbnail: /new-images/incredibox-rave.png
+thumbnail: /new-images/thumbnails/incredibox-rave.png
 tags:
   - music
   - rave

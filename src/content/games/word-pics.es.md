@@ -6,7 +6,7 @@ description: >-
   Adivina la palabra que conecta las dos imágenes en Word Pics, un divertido y
   adictivo juego de puzles de vocabulario.
 iframeSrc: 'https://wordpics.h5games.usercontent.goog/v/7sfi13vvf0cro/'
-thumbnail: /new-images/word-pics.jpg
+thumbnail: /new-images/thumbnails/word-pics.jpg
 tags:
   - puzzle
   - thinky

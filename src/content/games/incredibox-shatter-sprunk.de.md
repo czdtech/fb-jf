@@ -7,7 +7,7 @@ description: >-
   Charaktere sind in auffälligem Gelb gehalten und jede Figur steuert einen
   einzigartigen, unverwechselbaren Sound bei.
 iframeSrc: 'https://turbowarp.org/1144858827/embed'
-thumbnail: /incredibox-shatter-sprunk.png
+thumbnail: /new-images/thumbnails/incredibox-shatter-sprunk.png
 tags:
   - incredibox shatter sprunk
   - incredibox shatter sprunk online

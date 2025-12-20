@@ -2,7 +2,7 @@
 title: "Gunspin"
 description: "反動推進アーケード：銃を発射して回転・飛行させ、弾薬を集め、ハザードを乗り越えてできるだけ遠くまで移動しましょう。"
 iframeSrc: "https://ubg44.github.io/GunSpin/"
-thumbnail: "/new-images/gunspin.jpg"
+thumbnail: /new-images/thumbnails/gunspin.jpg
 urlstr: "gunspin"
 score: "4.1/5  (1211 votes)"
 tags: ["arcade", "physics"]

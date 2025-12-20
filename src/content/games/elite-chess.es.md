@@ -6,7 +6,7 @@ description: >-
   Elite Chess está centrado en tus fundamentos: aperturas sólidas, táctica
   limpia y técnica de finales para convertir ventajas en victorias.
 iframeSrc: 'https://6kf8oom91mt10.h5games.usercontent.goog/v/01dag2rajhv1g/'
-thumbnail: /new-images/elite-chess.png
+thumbnail: /new-images/thumbnails/elite-chess.png
 tags:
   - thinky
   - puzzle

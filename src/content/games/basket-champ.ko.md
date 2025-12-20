@@ -6,7 +6,7 @@ description: >-
   한 번의 터치로 각도와 힘을 정해 골대를 노리는 농구 타이밍 게임입니다.
   움직이는 골대와 장애물을 피하며 연속 득점을 이어 가 보세요.
 iframeSrc: 'https://0outkmbudufj8.h5games.usercontent.goog/v/1stcrgq2b9d08/'
-thumbnail: /new-images/basket-champ.png
+thumbnail: /new-images/thumbnails/basket-champ.png
 tags:
   - sports
   - basketball

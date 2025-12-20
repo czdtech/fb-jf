@@ -7,7 +7,7 @@ description: >-
   강력한 폭탄을 구조물의 약점에 설치해 각 스테이지의 구조물을 완전히 파괴해 보세요.
 iframeSrc: >-
   https://tntbomb.h5games.usercontent.goog/v/78fb3628-2b9a-4ddc-86ef-7c46021357a2/
-thumbnail: /new-images/tnt-bomb.jpg
+thumbnail: /new-images/thumbnails/tnt-bomb.jpg
 tags:
   - puzzle
   - action

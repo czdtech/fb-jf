@@ -7,7 +7,7 @@ description: >-
   Spielfeld, bekämpfe Zombies, sammle Münzen und Power-ups und verwalte Leben
   sowie Rüstung, um so lange wie möglich zu überleben.
 iframeSrc: 'https://4afojpng981kg.h5games.usercontent.goog/v/1ge6qnd6h4ss0/'
-thumbnail: /new-images/cards-of-the-undead.png
+thumbnail: /new-images/thumbnails/cards-of-the-undead.png
 tags:
   - card
   - strategy

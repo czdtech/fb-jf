@@ -8,7 +8,7 @@ description: >-
   à accepter l’imperfection et le chaos, et te permet de libérer ton
   inspiration musicale en explorant et en t’amusant.
 iframeSrc: 'https://turbowarp.org/1107761681/embed'
-thumbnail: /Sprunkgerny.png
+thumbnail: /new-images/thumbnails/sprunkgerny.png
 tags:
   - sprunkgerny
   - sprunkgerny online

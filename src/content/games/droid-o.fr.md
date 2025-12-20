@@ -7,7 +7,7 @@ description: >-
   enchaîne des synergies d’aptitudes et survit à des menaces croissantes avec un
   placement précis.
 iframeSrc: 'https://6r2lv8eg0tif8.h5games.usercontent.goog/v/56d4ef8srjpfg/'
-thumbnail: /new-images/droid-o.png
+thumbnail: /new-images/thumbnails/droid-o.png
 tags:
   - action
   - shooting

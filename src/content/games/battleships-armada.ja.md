@@ -2,7 +2,7 @@
 title: "Battleships Armada バトルシップ・アルマダ"
 description: "古典的な海戦ゲームの決定版！艦隊を戦略的に配置し、敵の座標を砲撃して、あなたの船が沈められる前に敵艦隊を全滅させよう。"
 iframeSrc: "https://3hcluun64uid0.h5games.usercontent.goog/v/0op00pgc2n4kg/"
-thumbnail: "/new-images/battleships-armada.png"
+thumbnail: /new-images/thumbnails/battleships-armada.png
 urlstr: "battleships-armada"
 score: "4.5/5  (2900 votes)"
 tags: ["puzzle", "strategy", "thinky"]

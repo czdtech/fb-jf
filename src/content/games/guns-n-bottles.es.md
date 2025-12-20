@@ -7,7 +7,7 @@ description: >-
   de tiro. Dispara en el momento perfecto mientras la pistola gira y rompe las
   botellas verdes, pero cuidado con las rojas.
 iframeSrc: 'https://aktestgunsandbottles.h5games.usercontent.goog/v/51pcsm84fc4ag/'
-thumbnail: /new-images/guns-n-bottles.png
+thumbnail: /new-images/thumbnails/guns-n-bottles.png
 tags:
   - shooting
   - action

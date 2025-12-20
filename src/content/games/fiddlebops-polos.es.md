@@ -7,7 +7,7 @@ description: >-
   exploras historias interactivas y conectas con una comunidad vibrante, todo
   gratis y directamente en tu navegador.
 iframeSrc: 'https://turbowarp.org/1149630445/embed'
-thumbnail: /fiddlebops-polos.png
+thumbnail: /new-images/thumbnails/fiddlebops-polos.png
 tags:
   - fiddlebops polos
 score: 4.6/5  (217 votes)

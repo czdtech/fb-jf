@@ -4,7 +4,7 @@ urlstr: 3d-football-mania
 title: "3D Football Mania"
 description: "3D Football Mania condense le foot en petites actions rapides : dribble, combine et enchaîne les frappes bien placées pour tromper le gardien." 
 iframeSrc: 'https://0iadidf74ef9o.h5games.usercontent.goog/v/4cmv5jsv0n25g/'
-thumbnail: /new-images/3d-football-mania.png
+thumbnail: /new-images/thumbnails/3d-football-mania.png
 tags:
   - sports
   - soccer

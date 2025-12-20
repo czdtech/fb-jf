@@ -7,7 +7,7 @@ description: >-
   在字母方阵中寻找并标记给定的单词，单词可能横向、纵向、斜向，甚至倒着隐藏，
   非常适合用来锻炼观察力与英语拼写。
 iframeSrc: 'https://wordsearch.h5games.usercontent.goog/v/6abe3eefqt368/'
-thumbnail: /new-images/word-search-2.jpg
+thumbnail: /new-images/thumbnails/word-search-2.jpg
 tags:
   - puzzle
   - thinky

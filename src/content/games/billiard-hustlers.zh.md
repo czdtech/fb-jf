@@ -6,7 +6,7 @@ description: >-
   《Billiard Hustlers 台球高手》是一款强调瞄准、旋转与母球走位的台球模拟游戏，在 8 球、9 球等模式下，通过
   精准解球与防守，让自己始终占据桌面主动权。
 iframeSrc: 'https://75hivpjsm2230.h5games.usercontent.goog/v/04igpiqnom6k0/'
-thumbnail: /new-images/billiard-hustlers.jpg
+thumbnail: /new-images/thumbnails/billiard-hustlers.jpg
 tags:
   - sports
   - pool

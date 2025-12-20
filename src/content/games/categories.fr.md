@@ -7,7 +7,7 @@ description: >-
   par thèmes, repérer les intrus et résoudre chaque grille avant la fin du
   temps ou des tentatives.
 iframeSrc: 'https://1ssgr48qrfod0.h5games.usercontent.goog/v/20nv9be906iho/'
-thumbnail: /new-images/categories.png
+thumbnail: /new-images/thumbnails/categories.png
 tags:
   - thinky
   - puzzle

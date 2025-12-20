@@ -7,7 +7,7 @@ description: >-
   completar imágenes en alta definición. Un puzle relajante pero estimulante
   para todas las edades.
 iframeSrc: 'https://jigsawpuzzleshexa.h5games.usercontent.goog/v/5e9bm1tuf1me0/'
-thumbnail: /new-images/jigsaw-puzzles-hexa.jpg
+thumbnail: /new-images/thumbnails/jigsaw-puzzles-hexa.jpg
 tags:
   - puzzle
   - casual

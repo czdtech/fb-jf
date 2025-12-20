@@ -4,7 +4,7 @@ urlstr: bad-ice-cream-2
 title: "Bad Ice Cream 2"
 description: "Bad Ice‑Cream 2 est un jeu d’arcade/puzzle givré : crée et casse des murs de glace pour collecter tous les fruits du labyrinthe tout en évitant les monstres, en solo ou à deux."
 iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210128/x6/index.html"
-thumbnail: /new-images/bad-ice-cream-2.jpg
+thumbnail: /new-images/thumbnails/bad-ice-cream-2.jpg
 tags:
   - puzzle
   - action

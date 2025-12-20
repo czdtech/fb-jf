@@ -2,7 +2,7 @@
 title: "Bunny Quest バニー・クエスト"
 description: "「Bunny Quest」はスライドパズルで道を作る冒険。タイルを動かし、ルートを繋げ、ウサギをゴールまで導こう。ニンジンを集めてハイスコアを目指せ。"
 iframeSrc: "https://630h8fcg3e938.h5games.usercontent.goog/v/51qfd4fr90dro/"
-thumbnail: "/new-images/bunny-quest.png"
+thumbnail: /new-images/thumbnails/bunny-quest.png
 urlstr: "bunny-quest"
 score: "4.1/5  (1881 votes)"
 tags: ["puzzle", "thinky"]

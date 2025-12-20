@@ -2,7 +2,7 @@
 title: Word Scramble
 description: Word Scrambleは、単語アナグラムゲームです。シャッフルされた文字から単語を作りましょう。
 iframeSrc: 'https://ubg98.github.io/WordScramble/'
-thumbnail: /new-images/word-scramble.jpg
+thumbnail: /new-images/thumbnails/word-scramble.jpg
 urlstr: word-scramble
 score: 4.3/5  (2234 votes)
 tags:

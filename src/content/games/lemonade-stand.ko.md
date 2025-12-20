@@ -7,7 +7,7 @@ description: >-
   수요를 고려해 가격·레시피·광고를 조절하고, 재고를 관리해
   매일의 이익을 극대화하세요.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/lemonade-stand.html'
-thumbnail: /new-images/lemonade-stand.jpg
+thumbnail: /new-images/thumbnails/lemonade-stand.jpg
 tags:
   - simulation
   - tycoon

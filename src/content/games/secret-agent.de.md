@@ -7,7 +7,7 @@ description: >-
   schalte Fallen aus und erfülle deine Missionsziele mit Gadgets und präzisem
   Timing.
 iframeSrc: 'https://087cce7dimlq8.h5games.usercontent.goog/v/6na8sphqpnhlo/'
-thumbnail: /new-images/secret-agent.png
+thumbnail: /new-images/thumbnails/secret-agent.png
 tags:
   - action
   - puzzle

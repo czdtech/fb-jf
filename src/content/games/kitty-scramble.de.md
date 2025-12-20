@@ -6,7 +6,7 @@ description: >-
   Kitty Scramble ist ein gemütliches Wortsuchspiel: Wische über Buchstabengitter,
   finde thematische Wörter und räume die Tafeln mit deinem Wortschatz ab.
 iframeSrc: 'https://6cifr142haig8.h5games.usercontent.goog/v/1c963avg5lo9g/'
-thumbnail: /new-images/kitty-scramble.png
+thumbnail: /new-images/thumbnails/kitty-scramble.png
 tags:
   - puzzle
   - thinky

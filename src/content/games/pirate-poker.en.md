@@ -3,7 +3,7 @@ locale: en
 title: "Pirate Poker"
 description: "Ahoy! Bet, bluff, and build the best five-card hand in Pirate Poker. Challenge salty sea dogs, manage your doubloons, and prove you're the sharpest card shark on the seven seas."
 iframeSrc: "https://6ghou5c7rjb9g.h5games.usercontent.goog/v/2n3b0c56pikmo/"
-thumbnail: "/new-images/pirate-poker.png"
+thumbnail: /new-images/thumbnails/pirate-poker.png
 urlstr: "pirate-poker"
 score: "4.3/5  (2200 votes)"
 tags: ["card", "puzzle", "thinky"]

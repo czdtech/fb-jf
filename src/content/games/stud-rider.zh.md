@@ -4,7 +4,7 @@ urlstr: stud-rider
 title: 《Stud Rider》山地越野骑手
 description: 《Stud Rider》是一款横版摩托越野游戏。驾驶你的摩托在起伏的山地上飞驰，控制油门与重心，在不翻车的前提下完成远距离跳跃和特技。
 iframeSrc: 'https://studrider.h5games.usercontent.goog/v/0q8l2v3a9d1g0/'
-thumbnail: /new-images/stud-rider.jpg
+thumbnail: /new-images/thumbnails/stud-rider.png
 tags:
   - racing
   - motorcycle

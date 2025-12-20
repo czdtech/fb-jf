@@ -4,7 +4,7 @@ urlstr: perfect-piano
 title: Perfect Piano
 description: "Perfect Piano est un jeu de rythme type Piano Tiles\_: touche les notes qui défilent au bon moment pour jouer des morceaux sans rater une seule case."
 iframeSrc: 'https://perfectpiano.h5games.usercontent.goog/v/48c3ch9soa7cg/'
-thumbnail: /new-images/perfect-piano.png
+thumbnail: /new-images/thumbnails/perfect-piano.png
 tags:
   - action
   - casual

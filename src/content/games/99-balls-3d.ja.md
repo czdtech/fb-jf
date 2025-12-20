@@ -2,7 +2,7 @@
 title: "99 Balls 3D ナインティナイン・ボールズ 3D"
 description: "「99 Balls 3D」は、病みつきになるアーケードシューティングゲームです。ボールを発射して、番号付きのブロックが底に到達する前に破壊しましょう！戦略と物理演算が融合した爽快パズル。"
 iframeSrc: "https://72ss6r8k142go.h5games.usercontent.goog/v/1hld05o7aip3g/"
-thumbnail: "/new-images/99-balls-3d.png"
+thumbnail: /new-images/thumbnails/99-balls-3d.jpeg
 urlstr: "99-balls-3d"
 score: "4.3/5  (1500 votes)"
 tags: ["arcade", "ball", "shooter"]

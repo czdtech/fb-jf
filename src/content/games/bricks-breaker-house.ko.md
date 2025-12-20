@@ -7,7 +7,7 @@ description: >-
   각도를 세밀하게 조절해 볼을 오래 살리고, 파워업을 놓치지 않으면서도 안전하게
   집(패들)을 지켜 보세요.
 iframeSrc: 'https://1s6hqqts5ko6o.h5games.usercontent.goog/v/7n8ge2nvqqksg/'
-thumbnail: /new-images/bricks-breaker-house.png
+thumbnail: /new-images/thumbnails/bricks-breaker-house.png
 tags:
   - puzzle
   - casual

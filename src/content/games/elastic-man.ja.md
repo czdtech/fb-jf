@@ -2,7 +2,7 @@
 title: "Elastic Man エラスティック・マン"
 description: "「Elastic Man」は奇妙でリアルなインタラクティブ・トイ。ゴムのような顔を引っ張り、つまみ、変形させて、その物理挙動と触感を楽しもう。"
 iframeSrc: "https://d21u3ic0kp9e91.cloudfront.net/elasticman/0/index.html"
-thumbnail: "/new-images/elastic-man.jpg"
+thumbnail: /new-images/thumbnails/elastic-man.jpg
 urlstr: "elastic-man"
 score: "3.7/5  (959 votes)"
 tags: ["simulation", "toy"]

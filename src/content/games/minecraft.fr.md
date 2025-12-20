@@ -4,7 +4,7 @@ urlstr: "minecraft"
 title: "Minecraft"
 description: "Minecraft est un jeu vidéo sandbox où tu explores un monde 3D cubique, extrais des ressources, fabriques des outils, construis des structures et crées toutes sortes de mini‑jeux ou d’aventures."
 iframeSrc: "https://app-167027.games.s3.yandex.net/167027/tnn3wq0qkjwhvr1271tszdhl82lm97e6/index.html"
-thumbnail: "/new-images/minecraft.jpg"
+thumbnail: /new-images/thumbnails/minecraft.jpg
 tags: ["sandbox", "survival", "creative"]
 score: "4.5/5  (671 votes)"
 developer: ""

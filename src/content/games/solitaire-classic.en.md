@@ -3,7 +3,7 @@ locale: en
 title: "Solitaire Classic"
 description: "The timeless single-player card game, also known as Klondike. Move all cards to the foundation piles from Ace to King to win."
 iframeSrc: "https://solitaireclassic.h5games.usercontent.goog/v/7sbt28mppqim8/"
-thumbnail: "/new-images/solitaire-classic.png"
+thumbnail: /new-images/thumbnails/solitaire-classic.png
 urlstr: "solitaire-classic"
 score: "4.7/5  (3100 votes)"
 tags: ["card", "puzzle", "casual"]

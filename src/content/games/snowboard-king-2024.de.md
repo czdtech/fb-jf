@@ -7,7 +7,7 @@ description: >-
   Bäumen und Felsen vorbei, sammle Münzen und verbessere deine Fähigkeiten, um
   zum Snowboard King zu werden.
 iframeSrc: 'https://61nls5ipnd8o8.h5games.usercontent.goog/v/6mdu5qlsugsl0/'
-thumbnail: /new-images/snowboard-king-2024.png
+thumbnail: /new-images/thumbnails/snowboard-king-2024.png
 tags:
   - sports
   - action

@@ -4,7 +4,7 @@ urlstr: "mini-crossword"
 title: "Mini Crossword"
 description: "Mini Crossword est une mini‑grille de mots croisés quotidienne qui propose un défi rapide et agréable, adapté à tous les niveaux."
 iframeSrc: "https://ams.cdn.arkadiumhosted.com/assets/global/game/daily-crossword-mini/"
-thumbnail: "/new-images/mini-crossword.jpg"
+thumbnail: /new-images/thumbnails/mini-crossword.jpg
 tags: ["puzzle", "word", "casual"]
 score: "4.9/5  (363 votes)"
 developer: ""

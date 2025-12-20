@@ -4,7 +4,7 @@ locale: en
 title: "Slice Master"
 description: "Slice Master is a satisfying physics-based game where players control a knife to slice through various objects, aiming for perfect cuts and collecting rewards while navigating through challenging obstacle courses."
 iframeSrc: "https://bitlifeonline.github.io/slice-master/"
-thumbnail: "/new-images/slice-master.jpg"
+thumbnail: /new-images/thumbnails/slice-master.jpg
 urlstr: "slice-master"
 score: "4.3/5  (480 votes)"
 tags: ["physics", "action", "slicing"]

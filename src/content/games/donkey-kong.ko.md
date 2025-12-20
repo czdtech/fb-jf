@@ -6,7 +6,7 @@ description: >-
   1981년 출시된 고전 아케이드 플랫포머입니다. 사다리와 발판을 오르내리며
   통과하고, 장애물을 피해 맨 위에 도달해 스테이지를 클리어하세요.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/donkey-kong.html'
-thumbnail: /new-images/donkey-kong.jpg
+thumbnail: /new-images/thumbnails/donkey-kong.jpg
 tags:
   - platformer
   - arcade

@@ -4,7 +4,7 @@ locale: en
 title: "Basketball Legends"
 description: "A complete guide to the arcade sports game Basketball Legends. Learn the controls, strategies for offense and defense, how to use the supershot, and answers to common questions for 1-player and 2-player modes."
 iframeSrc: "https://webglmath.github.io/basketball-legends/"
-thumbnail: "/new-images/basketball-legends.jpg"
+thumbnail: /new-images/thumbnails/basketball-legends.jpg
 urlstr: "basketball-legends"
 score: "4.5/5  (832 votes)"
 tags: ["2-player", "sports"]

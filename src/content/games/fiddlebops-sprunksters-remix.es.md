@@ -7,7 +7,7 @@ description: >-
   creatividad, ritmo y carisma visual gracias a sus diseños de personajes
   llamativos, sonidos novedosos y un genial sistema de "doble mundo".
 iframeSrc: 'https://turbowarp.org/1149194527/embed'
-thumbnail: /fiddlebops-sprunksters-remix.png
+thumbnail: /new-images/thumbnails/fiddlebops-sprunksters-remix.png
 tags:
   - fiddlebops sprunksters remix
 score: 4.1/5  (127 votes)

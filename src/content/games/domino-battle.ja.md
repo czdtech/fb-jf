@@ -2,7 +2,7 @@
 title: "Domino Battle ドミノ・バトル"
 description: "「Domino Battle」は正統派のドミノ対戦ゲーム。戦略的に牌を配置し、相手をブロックして、誰よりも早く手牌を使い切ろう。"
 iframeSrc: "https://dominobattle.h5games.usercontent.goog/v/45fvkhcnai3s0/"
-thumbnail: "/new-images/domino-battle.png"
+thumbnail: /new-images/thumbnails/domino-battle.png
 urlstr: "domino-battle"
 score: "4.5/5  (2700 votes)"
 tags: ["card", "puzzle", "thinky"]

@@ -6,7 +6,7 @@ description: >-
   Incredibox Yaboo est un mod fan‑made coloré : beats punchy, voix fun et
   visuels cartoon pour des mixes légers et dynamiques.
 iframeSrc: 'https://turbowarp.org/1109397560/embed'
-thumbnail: /new-images/incredibox-yaboo.png
+thumbnail: /new-images/thumbnails/incredibox-yaboo.png
 tags:
   - music
   - rhythm

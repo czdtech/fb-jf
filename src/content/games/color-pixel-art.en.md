@@ -3,7 +3,7 @@ locale: en
 title: "Color Pixel Art Classic"
 description: "Relax and unwind with this classic color-by-number pixel art game. Select a color, find the corresponding number, and fill in the pixels to reveal a beautiful piece of art."
 iframeSrc: "https://colorpixel.h5games.usercontent.goog/v/6ko86juonaau0/"
-thumbnail: "/new-images/color-pixel-art.png"
+thumbnail: /new-images/thumbnails/color-pixel-art.png
 urlstr: "color-pixel-art"
 score: "4.6/5  (3000 votes)"
 tags: ["puzzle", "casual", "thinky"]

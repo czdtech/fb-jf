@@ -5,7 +5,7 @@ title: "《Merge Defenders》合成防线塔防"
 description: >-
   《Merge Defenders》是一款将合成玩法与塔防战斗结合的策略游戏，通过购买与合成防御单位、布置关键火力点来抵挡一波又一波来袭的敌军。
 iframeSrc: 'https://5c1j2nn9b0q4o.h5games.usercontent.goog/v/20drsjkant5s8/'
-thumbnail: /new-images/merge-defenders.png
+thumbnail: /new-images/thumbnails/merge-defenders.png
 tags:
   - strategy
   - tower Defense

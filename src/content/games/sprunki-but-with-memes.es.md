@@ -7,7 +7,7 @@ description: >-
   océano de memes. Únete y utiliza tu talento musical para desatar una auténtica
   fiebre de memes sonoros.
 iframeSrc: 'https://kdata1.com/5000/2024/sprunki-retake-memes/'
-thumbnail: /sprunki-but-with-memes.png
+thumbnail: /new-images/thumbnails/sprunki-but-with-memes.png
 tags:
   - sprunki but with memes
 score: 4.2/5  (142 votes)

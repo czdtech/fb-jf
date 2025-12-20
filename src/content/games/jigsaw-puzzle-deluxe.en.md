@@ -3,7 +3,7 @@ locale: en
 title: "Jigsaw Puzzle Deluxe"
 description: "The classic jigsaw puzzle experience. Choose from a huge library of beautiful images and piece them together. With multiple difficulty levels, it's perfect for both beginners and experts."
 iframeSrc: "https://jigsawpuzzledeluxe.h5games.usercontent.goog/v/5jfat3ipu2790/"
-thumbnail: "/new-images/jigsaw-puzzle-deluxe.png"
+thumbnail: /new-images/thumbnails/jigsaw-puzzle-deluxe.png
 urlstr: "jigsaw-puzzle-deluxe"
 score: "4.6/5  (3200 votes)"
 tags: ["puzzle", "casual", "thinky"]

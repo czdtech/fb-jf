@@ -4,7 +4,7 @@ urlstr: 2-tricky-stories
 title: "Brain Test 2: Tricky Stories"
 description: "Brain Test 2: Tricky Stories reprend les énigmes déjantées de Brain Test et les transforme en histoires complètes – réfléchis autrement, joue avec l’écran et résous des casse‑têtes qui bousculent la logique."
 iframeSrc: 'https://bitlifeonline.github.io/brain-test-2-tricky-stories/'
-thumbnail: /new-images/2-tricky-stories.jpg
+thumbnail: /new-images/thumbnails/2-tricky-stories.jpg
 tags:
   - casual
   - rhythm

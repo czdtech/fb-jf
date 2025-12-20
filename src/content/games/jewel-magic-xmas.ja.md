@@ -2,7 +2,7 @@
 title: "Jewel Magic Xmas"
 description: "クリスマス風のマッチ3パズルです。オーナメントなどを入れ替えてそろえ、レベル目標を達成します。"
 iframeSrc: "https://jewelmagicxmas.h5games.usercontent.goog/v/19095ne8tscfg/"
-thumbnail: "/new-images/jewel-magic-xmas.png"
+thumbnail: /new-images/thumbnails/jewel-magic-xmas.png
 urlstr: "jewel-magic-xmas"
 score: "4.4/5  (2200 votes)"
 tags: ["puzzle", "casual", "action"]

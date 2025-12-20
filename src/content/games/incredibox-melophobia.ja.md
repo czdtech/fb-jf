@@ -2,7 +2,7 @@
 title: "Incredibox Melophobia"
 description: "Incredibox Melophobiaのガイドです。チップチューンや奇妙なサンプルを特徴とする折衷的なサウンドパレットと、ボーナス演出を見つけるためのヒントをまとめます。"
 iframeSrc: "https://turbowarp.org/1110167821/embed"
-thumbnail: "/new-images/incredibox-melophobia.png"
+thumbnail: /new-images/thumbnails/incredibox-melophobia.png
 urlstr: "incredibox-melophobia"
 score: "4.7/5 (1987 votes)"
 tags: ["music", "rhythm"]

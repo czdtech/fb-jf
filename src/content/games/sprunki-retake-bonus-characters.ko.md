@@ -6,7 +6,7 @@ description: >-
   Sprunki Retake Bonus Characters는 부족 음악과 원시 리듬에서 영감을 얻은 보너스
   캐릭터들을 중심으로, 스프룽키식 음악 만들기와 민족 색채를 결합한 모드입니다.
 iframeSrc: 'https://turbowarp.org/1107905149/embed'
-thumbnail: /sprunki-retake-bonus-characters.png
+thumbnail: /new-images/thumbnails/sprunki-retake-bonus-characters.png
 tags:
   - sprunki retake bonus characters
 score: 3.9/5  (132 votes)

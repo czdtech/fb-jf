@@ -4,7 +4,7 @@ urlstr: checkers-legend
 title: Checkers Legend
 description: "Deviens une légende du jeu de dames\_! Anticipe les coups, capture les pièces adverses et couronne tes dames pour dominer le plateau."
 iframeSrc: 'https://checkerslegend.h5games.usercontent.goog/v/43mkj41ari948/'
-thumbnail: /new-images/checkers-legend.png
+thumbnail: /new-images/thumbnails/checkers-legend.png
 tags:
   - puzzle
   - thinky

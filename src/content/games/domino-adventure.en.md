@@ -3,7 +3,7 @@ locale: en
 title: "Domino Adventure"
 description: "Master the classic board game, Domino Adventure. This guide provides expert strategies for Block and Draw modes, tips for managing your tiles, and how to win rounds by being the first to play all your dominoes."
 iframeSrc: "https://28vlnkkhq8gjg.h5games.usercontent.goog/v/4mi9k9oin4dn8/"
-thumbnail: "/new-images/domino-adventure.png"
+thumbnail: /new-images/thumbnails/domino-adventure.png
 urlstr: "domino-adventure"
 score: "4.3/5  (2144 votes)"
 tags: ["puzzle", "strategy", "casual"]

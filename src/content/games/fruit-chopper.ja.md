@@ -2,7 +2,7 @@
 title: "Fruit Chopper"
 description: "Fruit Chopperのために刃を研ぎましょう！危険な爆弾を避けながら、飛んでくるフルーツの集中砲火をスライスしましょう。どれだけ高得点を取れますか？"
 iframeSrc: "https://1cgb9ogmd6780.h5games.usercontent.goog/v/37g4pe88slmfo/"
-thumbnail: "/new-images/fruit-chopper.png"
+thumbnail: /new-images/thumbnails/fruit-chopper.png
 urlstr: "fruit-chopper"
 score: "4.2/5  (2345 votes)"
 tags: ["action", "casual", "flash"]

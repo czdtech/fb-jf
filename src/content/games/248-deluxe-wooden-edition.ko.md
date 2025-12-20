@@ -6,7 +6,7 @@ description: >-
   나무 보드 위에서 같은 숫자를 이어 합치고, 공간을 관리하며 목표 숫자를 노리는
   차분한 숫자 연결 퍼즐입니다.
 iframeSrc: 'https://0k2rsj4f89nr8.h5games.usercontent.goog/v/03pkkc7ds3qdg/'
-thumbnail: /new-images/248-deluxe-wooden-edition.jpg
+thumbnail: /new-images/thumbnails/248-deluxe-wooden-edition.jpg
 tags:
   - puzzle
   - thinky

@@ -7,7 +7,7 @@ description: >-
   Mustern, vermeide Überschneidungen und bringe die leuchtenden Designs zum
   Strahlen.
 iframeSrc: 'https://diwalilights.h5games.usercontent.goog/v/5cddqg9lrn3kg/'
-thumbnail: /new-images/diwali-lights.jpg
+thumbnail: /new-images/thumbnails/diwali-lights.jpg
 tags:
   - puzzle
   - casual

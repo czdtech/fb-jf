@@ -7,7 +7,7 @@ description: >-
   ladrillos con precisión, planifica apoyos y completa estructuras con el mínimo
   desperdicio.
 iframeSrc: 'https://0hlb6nt2jsom8.h5games.usercontent.goog/v/4jac78qnv0nr8/'
-thumbnail: /new-images/super-brick-builder.png
+thumbnail: /new-images/thumbnails/super-brick-builder.png
 tags:
   - puzzle
   - thinky

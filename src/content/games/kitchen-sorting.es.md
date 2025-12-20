@@ -6,7 +6,7 @@ description: >-
   Kitchen Sorting es un puzle de categorización exprés: clasifica alimentos,
   utensilios y residuos bajo presión de tiempo evitando la contaminación cruzada.
 iframeSrc: 'https://757entlesmh4g.h5games.usercontent.goog/v/1r9oimecfevc0/'
-thumbnail: /new-images/kitchen-sorting.png
+thumbnail: /new-images/thumbnails/kitchen-sorting.png
 tags:
   - puzzle
   - thinky

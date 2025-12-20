@@ -2,7 +2,7 @@
 title: Cat Sort Quest キャット・ソート・クエスト
 description: 「Cat Sort Quest」は癒やしの色分けパズル。猫たちを移動させて、各止まり木を同じ色の猫だけで揃えよう。空きスペースの管理が鍵。
 iframeSrc: 'https://4ajc8tu89od7g.h5games.usercontent.goog/v/49be5kf9v96j0/'
-thumbnail: /new-images/cat-sort-quest.png
+thumbnail: /new-images/thumbnails/cat-sort-quest.png
 urlstr: cat-sort-quest
 score: 4.2/5  (2088 votes)
 tags:

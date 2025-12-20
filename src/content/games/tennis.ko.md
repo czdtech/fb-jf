@@ -6,7 +6,7 @@ description: >-
   이 고전 아케이드 테니스 게임에서 코트 위에 올라 상대와 랠리를 펼쳐 보세요. 간단한 조작으로 서브·리턴을 주고받으며, 점수를 먼저 따내는
   쪽이 승리합니다.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/tennis.html'
-thumbnail: /new-images/tennis.jpg
+thumbnail: /new-images/thumbnails/tennis.jpg
 tags:
   - sports
   - arcade

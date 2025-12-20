@@ -6,7 +6,7 @@ description: >-
   錘子攀爬地獄：只靠一把錘子揮動、撐跳與勾掛，把鍋裡大叔一路拽上
   各種超現實地形；高精度物理會無情懲罰任何一點急躁。
 iframeSrc: 'https://ubg77.github.io/fix/getting-over-it/'
-thumbnail: /new-images/getting-over-it.jpg
+thumbnail: /new-images/thumbnails/getting-over-it.jpg
 tags:
   - platformer
   - physics

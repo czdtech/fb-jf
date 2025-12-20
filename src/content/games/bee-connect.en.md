@@ -3,7 +3,7 @@ locale: en
 title: "Bee Connect"
 description: "In Bee Connect, you need to organize the numbers in the beehive into adjacent groups of four to match each other."
 iframeSrc: "https://beeconnect.h5games.usercontent.goog/v/06c7e297-3e6d-4512-9fb2-e491ae2b2fb9/"
-thumbnail: "/new-images/bee-connect.jpg"
+thumbnail: /new-images/thumbnails/bee-connect.jpg
 urlstr: "bee-connect"
 score: "4.3/5  (1837 votes)"
 tags: ["puzzle", "casual"]

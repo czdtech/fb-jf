@@ -2,7 +2,7 @@
 title: Stick Fight
 description: Stick Fightは、スティックマンキャラクターとの激しい戦闘アクションゲームです。戦って生き残りましょう。
 iframeSrc: 'https://ubg98.github.io/StickFight/'
-thumbnail: /new-images/stick-fight.jpg
+thumbnail: /new-images/thumbnails/stick-fight.jpg
 urlstr: stick-fight
 score: 4.3/5  (2892 votes)
 tags:

@@ -6,7 +6,7 @@ description: >-
   Merge Haven ist ein beruhigender Merge-Aufbau: Erstelle Merge-Ketten, erfülle
   Aufgaben und baue mit kluger Brettverwaltung ein kleines Zuhause auf.
 iframeSrc: 'https://1jjan0u3n07qg.h5games.usercontent.goog/v/5aruivrappsfg/'
-thumbnail: /new-images/merge-haven.png
+thumbnail: /new-images/thumbnails/merge-haven.png
 tags:
   - puzzle
   - casual

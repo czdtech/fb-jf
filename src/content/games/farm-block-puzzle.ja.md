@@ -4,7 +4,7 @@ description: >-
   「Farm Block
   Puzzle」は農場テーマの癒やし系ブロックパズル。ブロックを10x10グリッドにドラッグ＆ドロップして完全なラインを作り、盤面をクリアしよう。
 iframeSrc: 'https://5hefbqkv5o0do.h5games.usercontent.goog/v/0bio68l8dojl0/'
-thumbnail: /new-images/farm-block-puzzle.png
+thumbnail: /new-images/thumbnails/farm-block-puzzle.png
 urlstr: farm-block-puzzle
 score: 4.4/5  (2400 votes)
 tags:

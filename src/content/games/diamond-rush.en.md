@@ -4,7 +4,7 @@ title: "Diamond Rush"
 description: "Experience the sparkle of Diamond Rush! A fast-paced match-3 puzzle game where you swap and match dazzling diamonds to clear the board and achieve high scores."
 iframeSrc: "https://diamondrush.h5games.usercontent.goog/v/63ok750qri670/"
 urlstr: "diamond-rush"
-thumbnail: "/new-images/diamond-rush.png"
+thumbnail: /new-images/thumbnails/diamond-rush.png
 score: "4.3/5  (2010 votes)"
 tags: ["puzzle", "casual", "action"]
 developer: ""

@@ -7,7 +7,7 @@ description: >-
   Ordne Karten in aufsteigenden Reihen, öffne gezielt freie Felder und plane
   mehrere Züge im Voraus, um vertrackte Blockaden zu lösen.
 iframeSrc: 'https://0lk0u0jb90plo.h5games.usercontent.goog/v/2rppmab9dqneo/'
-thumbnail: /new-images/addiction-mini.jpg
+thumbnail: /new-images/thumbnails/addiction-mini.jpg
 tags:
   - card
   - puzzle

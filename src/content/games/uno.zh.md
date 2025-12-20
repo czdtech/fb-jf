@@ -6,7 +6,7 @@ description: >-
   UNO 是一款家喻户晓的经典卡牌游戏。玩家通过颜色或数字匹配不断出牌，
   灵活使用功能牌干扰对手，率先打空自己手牌并成功喊出“UNO！”即获得胜利。
 iframeSrc: 'https://www.xpgameplus.com/games/uno/default.html'
-thumbnail: /new-images/uno.jpg
+thumbnail: /new-images/thumbnails/uno.jpg
 tags:
   - card game
   - strategy

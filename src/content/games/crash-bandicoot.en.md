@@ -4,7 +4,7 @@ locale: en
 title: "Crash Bandicoot"
 description: "Crash Bandicoot is a retro arcade platformer: run, jump, spin, collect Wumpa fruit and crystals, dodge TNT, and clear themed stages in a browser-based remake."
 iframeSrc: "https://ad-freegames.github.io/flash/game/crash-bandicoot.html"
-thumbnail: "/new-images/crash-bandicoot.jpg"
+thumbnail: /new-images/thumbnails/crash-bandicoot.jpg
 urlstr: "crash-bandicoot"
 score: "4.8/5  (820 votes)"
 tags: ["arcade", "platformer", "retro"]

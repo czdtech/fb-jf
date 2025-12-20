@@ -2,7 +2,7 @@
 title: "Battleship バトルシップ：海戦ゲーム"
 description: "「Battleship」は戦略と運の古典的海戦ゲームです。敵艦隊を推測して攻撃し、自分の艦隊を守りながら相手の全艦を撃沈せよ。完全攻略とルール解説。"
 iframeSrc: "https://battleship.h5games.usercontent.goog/v/9b83b167-93e1-482a-874f-c4e9702209d8/"
-thumbnail: "/new-images/battleship.jpg"
+thumbnail: /new-images/thumbnails/battleship.jpg
 urlstr: "battleship"
 score: "4.5/5  (2900 votes)"
 tags: ["puzzle", "strategy", "thinky"]

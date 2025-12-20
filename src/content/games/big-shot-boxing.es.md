@@ -7,7 +7,7 @@ description: >-
   callejeras hasta campeonatos mundiales. Entrena, mejora tus estadísticas y
   domina unos controles sencillos pero profundos en este arcade retro.
 iframeSrc: 'https://rebemanae.github.io/big-shot-boxing/'
-thumbnail: /new-images/big-shot-boxing.jpg
+thumbnail: /new-images/thumbnails/big-shot-boxing.jpg
 tags:
   - sports
   - action

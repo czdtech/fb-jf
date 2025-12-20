@@ -2,7 +2,7 @@
 title: Word Wipe
 description: Word Wipeは、単語消去パズルゲームです。隣接する文字から単語を作って消しましょう。
 iframeSrc: 'https://ubg98.github.io/WordWipe/'
-thumbnail: /new-images/word-wipe.jpg
+thumbnail: /new-images/thumbnails/word-wipe.jpg
 urlstr: word-wipe
 score: 4.4/5  (2765 votes)
 tags:

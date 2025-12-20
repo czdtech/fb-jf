@@ -4,7 +4,7 @@ urlstr: solitaire-2048
 title: "Solitaire 2048"
 description: "Solitaire 2048 mischt das 2048-Prinzip mit Karten – lege Zahlenkarten in Spalten, lasse gleiche Werte verschmelzen und verwalte deine Bahnen für große Kombos."
 iframeSrc: 'https://041gj41756cjg.h5games.usercontent.goog/v/7n148hti57veo/'
-thumbnail: /new-images/solitaire-2048.png
+thumbnail: /new-images/thumbnails/solitaire-2048.png
 tags:
   - card
   - puzzle

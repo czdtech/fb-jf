@@ -6,7 +6,7 @@ description: >-
   Sudoku Plus est une version complète du sudoku classique, avec notes, aides et
   vérification d'erreurs pour entraîner ta logique dans un cadre confortable.
 iframeSrc: 'https://sudokuplus.h5games.usercontent.goog/v/3q827iuj6msno/'
-thumbnail: /new-images/sudoku-plus.jpg
+thumbnail: /new-images/thumbnails/sudoku-plus.jpg
 tags:
   - puzzle
   - thinky

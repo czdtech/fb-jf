@@ -5,7 +5,7 @@ urlstr: "sprunki-good-night"
 title: "Sprunki Good Night - 在线玩 Sprunki Good Night"
 description: "Sprunki Good Night 是一款让你在疲惫的一天后彻底放松身心的 Mod。来到 Sprunki Good Night，用温柔平和的节拍创作一首完美的摇篮曲，迎接甜美的梦乡！"
 iframeSrc: "https://turbowarp.org/1178264025/embed"
-thumbnail: "/sprunki-good-night.png"
+thumbnail: /new-images/thumbnails/sprunki-good-night.png
 score: "4.2/5  (227 票)"
 tags: ["sprunki good night"]
 ---

@@ -2,7 +2,7 @@
 title: "Sprunki Minecraft - Play Sprunki Minecraft Online"
 description: "Sprunki MinecraftはMinecraft風のテーマで遊べるSprunki系の作品です。見た目や演出がブロック調になっている場合があります（内容はバージョンによって異なります）。"
 iframeSrc: "https://turbowarp.org/1140459751/embed"
-thumbnail: "/sprunki-minecraft.png"
+thumbnail: /new-images/thumbnails/sprunki-minecraft.png
 urlstr: "sprunki-minecraft"
 score: "4.0/5  (212 votes)"
 tags: ["sprunki minecraft"]

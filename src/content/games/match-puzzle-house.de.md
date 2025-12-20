@@ -7,7 +7,7 @@ description: >-
   Levelziele, verdiene Sterne und richte Räume mit clever eingesetzten
   Boostern ein.
 iframeSrc: 'https://7cp83ss0h08p0.h5games.usercontent.goog/v/49v2bsl4scjdo/'
-thumbnail: /new-images/match-puzzle-house.png
+thumbnail: /new-images/thumbnails/match-puzzle-house.png
 tags:
   - puzzle
   - casual

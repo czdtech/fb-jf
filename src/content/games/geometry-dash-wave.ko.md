@@ -8,7 +8,7 @@ description: >-
   익숙해져, 음악에 맞춰 까다로운 코스를 완주해 보세요.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp45/chenling/20231205/04/index.html
-thumbnail: /new-images/geometry-dash-wave.jpg
+thumbnail: /new-images/thumbnails/geometry-dash-wave.jpg
 tags:
   - rhythm
   - platformer

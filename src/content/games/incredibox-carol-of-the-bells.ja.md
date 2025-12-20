@@ -2,7 +2,7 @@
 title: "Incredibox Carol of the Bells"
 description: "お祝いの「Incredibox Andlbox Carol of the Bells」ファンメイドModを発見しましょう。このガイドでは、クリスマステーマ、クラシックなキャロルをリミックスするゲームプレイ、ユニークなホリデーテーマのボーナスをアンロックする方法を詳しく説明します。"
 iframeSrc: "https://turbowarp.org/931427102/embed"
-thumbnail: "/new-images/incredibox-carol-of-the-bells.png"
+thumbnail: /new-images/thumbnails/incredibox-carol-of-the-bells.png
 urlstr: "incredibox-carol-of-the-bells"
 score: "4.9/5 (2890 votes)"
 tags: ["music", "christmas", "rhythm"]

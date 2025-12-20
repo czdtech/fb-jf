@@ -4,7 +4,7 @@ urlstr: bejeweled
 title: "Bejeweled - Play Bejeweled Online"
 description: "Bejeweled est le match‑3 culte où tu échanges des gemmes adjacentes pour aligner des séries, déclencher des cascades et créer des gemmes spéciales explosives."
 iframeSrc: "https://files.acticdn.com/278374/30464/index.html"
-thumbnail: /bejeweled.png
+thumbnail: /new-images/thumbnails/bejeweled.png
 tags:
   - bejeweled
 score: 4.8/5  (654 votes)

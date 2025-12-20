@@ -6,7 +6,7 @@ description: >-
   在《3D Football Mania（3D
   足球狂热）》中，你将通过一连串精简的进攻场景练习传球、跑位和射门节奏，在快节奏的回合里一次次撕开防线、打穿门将。
 iframeSrc: 'https://0iadidf74ef9o.h5games.usercontent.goog/v/4cmv5jsv0n25g/'
-thumbnail: /new-images/3d-football-mania.png
+thumbnail: /new-images/thumbnails/3d-football-mania.png
 tags:
   - sports
   - soccer

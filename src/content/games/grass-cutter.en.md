@@ -4,7 +4,7 @@ locale: en
 title: "Grass Cutter"
 description: "Grid puzzler: mow every tile exactly once with limited moves, avoid obstacles, and plan routes to clear the lawn perfectly." 
 iframeSrc: "https://g2.igroutka.ru/games/23/wcIz2a3WYRNKhbuq/rvvASMiM/58925795805842fcbfd7edf67efcd606/"
-thumbnail: "/new-images/grass-cutter.jpg"
+thumbnail: /new-images/thumbnails/grass-cutter.jpg
 urlstr: "grass-cutter"
 score: "4.5/5  (1065 votes)"
 tags: ["puzzle", "logic"]

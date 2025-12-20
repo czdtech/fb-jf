@@ -7,7 +7,7 @@ description: >-
   Antiquitätenladen: Finde versteckte Objekte, vergleiche Silhouetten und knacke
   einfache Schlösser, um neue Regale freizuschalten.
 iframeSrc: 'https://7nh0dnmovl0g0.h5games.usercontent.goog/v/01busogksrcm0/'
-thumbnail: /new-images/the-hidden-antique-shop.png
+thumbnail: /new-images/thumbnails/the-hidden-antique-shop.png
 tags:
   - puzzle
   - thinky

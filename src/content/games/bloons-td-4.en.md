@@ -4,7 +4,7 @@ locale: en
 title: "Bloons TD 4"
 description: "Dive into Bloons TD 4, a classic tower defense game featuring branching upgrade paths, powerful new towers, and the mighty BFB blimp. Strategize your defense and level up to unlock everything!"
 iframeSrc: "https://1000freegames.github.io/swf/bloons-td-4.html"
-thumbnail: "/new-images/bloons-td-4.jpg"
+thumbnail: /new-images/thumbnails/bloons-td-4.jpg
 urlstr: "bloons-td-4"
 score: "4.3/5  (852 votes)"
 tags: ["casual", "strategy"]

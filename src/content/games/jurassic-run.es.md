@@ -6,7 +6,7 @@ description: >-
   Jurassic Run es un endless runner prehistórico: esquiva peligros, cambia de
   carril y corre al máximo para batir récords.
 iframeSrc: 'https://260c4eej53igg.h5games.usercontent.goog/v/5h99gs1rujgk0/'
-thumbnail: /new-images/jurassic-run.png
+thumbnail: /new-images/thumbnails/jurassic-run.png
 tags:
   - action
   - casual

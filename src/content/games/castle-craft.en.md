@@ -3,7 +3,7 @@ locale: en
 title: "Castle Craft"
 description: "Embark on a merge-and-build adventure in Castle Craft. Combine items to gather resources, complete quests, and expand your kingdom from a humble garden into a grand medieval empire."
 iframeSrc: "https://1hjdl8ff4msl0.h5games.usercontent.goog/v/2mn9n3pfbrrtg/"
-thumbnail: "/new-images/castle-craft.png"
+thumbnail: /new-images/thumbnails/castle-craft.png
 urlstr: "castle-craft"
 score: "4.3/5  (2104 votes)"
 tags: ["puzzle", "casual", "thinky"]

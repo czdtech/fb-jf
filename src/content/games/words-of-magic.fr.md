@@ -6,7 +6,7 @@ description: >-
   Words of Magic est un puzzle de mots relaxant : relie les lettres pour former
   des mots et remplir la grille de mots croisés.
 iframeSrc: 'https://5a5rs5ng5rvro.h5games.usercontent.goog/v/4grqmc17b1kc0/'
-thumbnail: /new-images/words-of-magic.png
+thumbnail: /new-images/thumbnails/words-of-magic.png
 tags:
   - puzzle
   - thinky

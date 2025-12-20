@@ -7,7 +7,7 @@ description: >-
   aus Fiddlebops trifft auf die ikonische Sprunki-Crew und bringt frische Sounds
   und Optik ins Spiel.
 iframeSrc: 'https://turbowarp.org/1114915532/embed'
-thumbnail: /fiddlebops-but-sprunki.png
+thumbnail: /new-images/thumbnails/fiddlebops-but-sprunki.png
 tags:
   - fiddlebops but sprunki
 score: 4.2/5  (94 votes)

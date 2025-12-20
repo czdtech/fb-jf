@@ -6,7 +6,7 @@ description: >-
   Categories ist ein leichtes Wort- und Logikrätsel – ordne Begriffe nach
   Themen, entlarve Ausreißer und schlage die Uhr.
 iframeSrc: 'https://1ssgr48qrfod0.h5games.usercontent.goog/v/20nv9be906iho/'
-thumbnail: /new-images/categories.png
+thumbnail: /new-images/thumbnails/categories.png
 tags:
   - thinky
   - puzzle

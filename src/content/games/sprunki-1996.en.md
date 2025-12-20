@@ -6,7 +6,7 @@ description: >-
   unique 90s retro computer aesthetic combined with simple, fun music creation
   gameplay to offer a fresh experience for fans of Sprunki and Incredibox.
 iframeSrc: 'https://html-classic.itch.zone/html/14634762/index.html'
-thumbnail: /sprunki-1996.png
+thumbnail: /new-images/thumbnails/sprunki-1996.png
 urlstr: sprunki-1996
 modType: sprunki
 score: 4.0/5  (122 votes)

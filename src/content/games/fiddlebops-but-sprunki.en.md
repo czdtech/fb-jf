@@ -6,7 +6,7 @@ description: >-
   music-making core of Fiddlebops but swaps out all the original characters for
   the iconic Sprunki crew.
 iframeSrc: 'https://turbowarp.org/1114915532/embed'
-thumbnail: /fiddlebops-but-sprunki.png
+thumbnail: /new-images/thumbnails/fiddlebops-but-sprunki.png
 urlstr: fiddlebops-but-sprunki
 modType: fiddlebops
 score: 4.2/5  (94 votes)

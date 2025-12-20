@@ -6,7 +6,7 @@ description: >-
   Dumb Ways to Die 是一款節奏飛快的反應力迷你遊戲合集，你要在極短時間內完成
   一連串安全主題的小挑戰，才能讓那些呆萌角色活下來。
 iframeSrc: 'https://html5.iclouds.io/dumb-ways-die/'
-thumbnail: /new-images/dumb-ways-to-die.jpg
+thumbnail: /new-images/thumbnails/dumb-ways-to-die.jpg
 tags:
   - arcade
   - minigames

@@ -6,7 +6,7 @@ description: >-
   《Bird Sort Quest 小鸟排序挑战》是一款舒缓的颜色归类益智游戏，在栖木之间搬运小鸟，让每个栖木最终只剩下
   一种颜色，同时合理利用空位与“缓冲柱”避免走进死局。
 iframeSrc: 'https://59c0fiphd7ng0.h5games.usercontent.goog/v/5cgtqofbdtd08/'
-thumbnail: /new-images/bird-sort-quest.png
+thumbnail: /new-images/thumbnails/bird-sort-quest.png
 tags:
   - puzzle
   - thinky

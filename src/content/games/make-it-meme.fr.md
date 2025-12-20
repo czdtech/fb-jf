@@ -4,7 +4,7 @@ urlstr: "make-it-meme"
 title: "Make It Meme"
 description: "Make It Meme est un jeu de soirée multijoueur en ligne où tu crées et notes des mèmes pour surpasser tes amis."
 iframeSrc: "https://artedu1808.github.io/g177/make-it-meme/"
-thumbnail: "/new-images/make-it-meme.jpg"
+thumbnail: /new-images/thumbnails/make-it-meme.jpg
 tags: ["party game", "casual", "online"]
 score: "4.4/5  (1458 votes)"
 developer: ""

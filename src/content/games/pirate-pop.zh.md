@@ -5,7 +5,7 @@ title: "《Pirate Pop》海盗泡泡龙"
 description: >-
   《Pirate Pop》是一款海盗主题的泡泡龙消除游戏，你要操控船上的大炮瞄准射击，通过消除三个及以上同色泡泡来清理屏幕、赢走隐藏的海盗宝藏。
 iframeSrc: 'https://piratepop.h5games.usercontent.goog/v/3japc2shd35ug/'
-thumbnail: /new-images/pirate-pop.png
+thumbnail: /new-images/thumbnails/pirate-pop.png
 tags:
   - shooting
   - puzzle

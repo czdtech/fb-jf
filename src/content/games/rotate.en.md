@@ -4,7 +4,7 @@ locale: en
 title: "Rotate"
 description: "Rotate is a challenging puzzle game where players must rotate the game world to guide a ball through complex mazes and obstacles, using gravity and momentum to reach the goal in each level."
 iframeSrc: "https://rebemanae.github.io/rotate/"
-thumbnail: "/new-images/rotate.jpg"
+thumbnail: /new-images/thumbnails/rotate.jpg
 urlstr: "rotate"
 score: "4.9/5  (1155 votes)"
 tags: ["puzzle", "physics", "rotation"]

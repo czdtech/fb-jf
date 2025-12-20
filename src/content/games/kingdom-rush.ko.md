@@ -6,7 +6,7 @@ description: >-
   타워 디펜스 대표작 'Kingdom Rush' 가이드입니다. 네 가지 기본 타워와
   히어로·지원 스킬을 활용해 길목을 지키는 핵심 전략을 정리했습니다.
 iframeSrc: 'https://1000freegames.github.io/swf/kingdom-rush.html'
-thumbnail: /new-images/kingdom-rush.jpg
+thumbnail: /new-images/thumbnails/kingdom-rush.jpg
 tags:
   - tower-defense
   - strategy

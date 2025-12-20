@@ -4,7 +4,7 @@ urlstr: pixel-shooter
 title: Pixel Shooter
 description: "Pixel Shooter est un shooter arcade rétro en pixel art\_: esquive les projectiles, vise juste et nettoie les vagues d'ennemis à l'écran."
 iframeSrc: 'https://pixelshooter.h5games.usercontent.goog/v/2h3b1cd3k5p40/'
-thumbnail: /new-images/pixel-shooter.png
+thumbnail: /new-images/thumbnails/pixel-shooter.jpg
 tags:
   - action
   - shooting

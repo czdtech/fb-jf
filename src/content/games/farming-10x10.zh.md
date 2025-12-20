@@ -6,7 +6,7 @@ description: >-
   Farming 10x10 把經典 10x10 方塊擺放玩法換上農場新皮膚——
   放置方塊、消除整行整列，同時設法保留寶貴空間。
 iframeSrc: 'https://66ts484uf5r18.h5games.usercontent.goog/v/1nt4ffhi7k9jo/'
-thumbnail: /new-images/farming-10x10.jpg
+thumbnail: /new-images/thumbnails/farming-10x10.jpg
 tags:
   - puzzle
   - thinky

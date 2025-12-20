@@ -7,7 +7,7 @@ description: >-
   Denken fordert. Platziere Formen strategisch, räume ganze Linien und plane
   mehrere Züge im Voraus.
 iframeSrc: 'https://62dfg8ps4f7lg.h5games.usercontent.goog/v/0k3gcfq0ljti8/'
-thumbnail: /new-images/block-dimension.png
+thumbnail: /new-images/thumbnails/block-dimension.png
 tags:
   - puzzle
   - thinky

@@ -3,7 +3,7 @@ locale: en
 title: "Minesweeper"
 description: "The timeless classic logic puzzle. Use the number clues to deduce the location of all the hidden mines and clear the board without setting one off!"
 iframeSrc: "https://minesweeper.h5games.usercontent.goog/v/6uo6tf2lnil3o/"
-thumbnail: "/new-images/minesweeper-2.jpg"
+thumbnail: /new-images/thumbnails/minesweeper-2.jpg
 urlstr: "minesweeper-2"
 score: "4.7/5  (3500 votes)"
 tags: ["puzzle", "thinky", "casual"]

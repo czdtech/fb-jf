@@ -7,7 +7,7 @@ description: >-
   Du hast 60 Sekunden, um so viele Blasen wie möglich zu platzen, gewaltige
   Kombos aufzubauen und mit starken Boostern einen neuen Highscore aufzustellen.
 iframeSrc: 'https://bubblewoods4.h5games.usercontent.goog/v/4jslovpheann0/'
-thumbnail: /new-images/bubble-woods-ultimate.png
+thumbnail: /new-images/thumbnails/bubble-woods-ultimate.png
 tags:
   - shooting
   - action

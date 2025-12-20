@@ -2,7 +2,7 @@
 title: "BlockDrop ブロックドロップ"
 description: "「BlockDrop」はクラシックでリラックスできるブロックパズル。10x10のグリッドに形をはめてラインを消そう。シンプルだけど奥深い、ハイスコアを目指す戦略ガイド。"
 iframeSrc: "https://51vi4vae20f8o.h5games.usercontent.goog/v/66bqinuuh36b8/"
-thumbnail: "/new-images/blockdrop.png"
+thumbnail: /new-images/thumbnails/blockdrop.png
 urlstr: "blockdrop"
 score: "4.3/5  (2200 votes)"
 tags: ["puzzle", "thinky", "casual"]

@@ -2,7 +2,7 @@
 title: Words of Magic
 description: Words of Magicは、魔法と単語を組み合わせたRPGパズルゲームです。単語を作って敵と戦いましょう。
 iframeSrc: 'https://ubg98.github.io/WordsOfMagic/'
-thumbnail: /new-images/words-of-magic.jpg
+thumbnail: /new-images/thumbnails/words-of-magic.png
 urlstr: words-of-magic
 score: 4.4/5  (2654 votes)
 tags:

@@ -2,7 +2,7 @@
 title: Doodle Jump ドゥードゥル・ジャンプ
 description: 「Doodle Jump」は中毒性抜群の縦スクロールアクション。足場を飛び移り、モンスターを避け、空高くどこまでも登っていこう。
 iframeSrc: 'https://ubg98.github.io/DoodleJump/'
-thumbnail: /new-images/doodle-jump.jpg
+thumbnail: /new-images/thumbnails/doodle-jump.jpg
 urlstr: doodle-jump
 score: 4.2/5  (915 votes)
 tags:

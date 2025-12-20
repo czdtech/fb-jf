@@ -4,7 +4,7 @@ urlstr: truck-trials
 title: 《Truck Trials》越野卡车试炼
 description: 《Truck Trials》是一款基于物理的越野卡车闯关游戏。驾驶重型卡车通过崎岖不平的地形，控制油门与重心，在不翻车的前提下顺利抵达终点。
 iframeSrc: 'https://trucktrials.h5games.usercontent.goog/v/4g9d2n3c1b7p0/'
-thumbnail: /new-images/truck-trials.png
+thumbnail: /new-images/thumbnails/truck-trials.png
 tags:
   - driving
   - physics

@@ -6,7 +6,7 @@ description: >-
   《Rock Paper Scissors
   Dojo》是一款把“剪刀石头布”做成心理博弈的小游戏。在多回合对决中观察对手出拳习惯，混合不同策略，靠读心和反制提升整体胜率。
 iframeSrc: 'https://0o2ssijd98lgg.h5games.usercontent.goog/v/39t01692a4rs8/'
-thumbnail: /new-images/rock-paper-scissors-dojo.png
+thumbnail: /new-images/thumbnails/rock-paper-scissors-dojo.png
 tags:
   - casual
   - 2 player

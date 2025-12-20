@@ -2,7 +2,7 @@
 title: Stud Rider
 description: Stud Riderは、バイクレーシングゲームです。スタントを実行し、障害物を避けてレースに勝ちましょう。
 iframeSrc: 'https://ubg98.github.io/StudRider/'
-thumbnail: /new-images/stud-rider.jpg
+thumbnail: /new-images/thumbnails/stud-rider.png
 urlstr: stud-rider
 score: 4.2/5  (2134 votes)
 tags:

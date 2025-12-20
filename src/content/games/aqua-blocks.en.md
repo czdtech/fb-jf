@@ -3,7 +3,7 @@ locale: en
 title: "Aqua Blocks"
 description: "Aqua Blocks is a watery block‑placer — fit shapes, clear lines, and keep the board breathing."
 iframeSrc: "https://1uerepsm8tbpg.h5games.usercontent.goog/v/3st9sicdd4eu0/"
-thumbnail: "/new-images/aqua-blocks.png"
+thumbnail: /new-images/thumbnails/aqua-blocks.png
 urlstr: "aqua-blocks"
 score: "3.9/5  (1701 votes)"
 tags: ["puzzle", "thinky"]

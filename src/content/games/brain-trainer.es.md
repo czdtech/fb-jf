@@ -8,7 +8,7 @@ description: >-
   en esta completa sesión de gimnasio mental.
 iframeSrc: >-
   https://braintrainer.h5games.usercontent.goog/v/4f2ffbc6-4208-4087-bfaf-ab0db086da02/
-thumbnail: /new-images/brain-trainer.jpg
+thumbnail: /new-images/thumbnails/brain-trainer.jpg
 tags:
   - puzzle
   - thinky

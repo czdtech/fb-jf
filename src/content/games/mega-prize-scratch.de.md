@@ -7,7 +7,7 @@ description: >-
   triff Symbolkombinationen und setze dir feste Spielpausen und Limits, damit
   es entspannt bleibt.
 iframeSrc: 'https://3a38lqtqled1o.h5games.usercontent.goog/v/37llbljplv5v0/'
-thumbnail: /new-images/mega-prize-scratch.png
+thumbnail: /new-images/thumbnails/mega-prize-scratch.png
 tags:
   - casual
 score: 3.6/5  (1538 votes)

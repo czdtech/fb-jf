@@ -9,7 +9,7 @@ description: >-
   gravité.
 iframeSrc: >-
   https://app-185271.games.s3.yandex.net/185271/uvjrp10onrrllry3esbc3gpnf7s40cj5/index.html
-thumbnail: /new-images/red-ball.jpg
+thumbnail: /new-images/thumbnails/red-ball.jpg
 tags:
   - platformer
   - physics

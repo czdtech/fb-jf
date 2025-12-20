@@ -7,7 +7,7 @@ description: >-
   präzise, kontrolliere die Weiße mit Effet und räume den Tisch mit kluger
   Positionsspiel‑Strategie ab.
 iframeSrc: 'https://75hivpjsm2230.h5games.usercontent.goog/v/04igpiqnom6k0/'
-thumbnail: /new-images/billiard-hustlers.jpg
+thumbnail: /new-images/thumbnails/billiard-hustlers.jpg
 tags:
   - sports
   - pool

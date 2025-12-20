@@ -2,7 +2,7 @@
 title: "Minecraft Cave Escape"
 description: "Minecraft Cave Escapeは脱出チャレンジです。洞窟をナビゲートし、パズルを解決し、障害物を避け、Minecraftスタイルで自由への道を見つけます。"
 iframeSrc: "https://4h50khfj52i7g.h5games.usercontent.goog/v/1c5clb0ufdft8/"
-thumbnail: "/new-images/minecraft-cave-escape.png"
+thumbnail: /new-images/thumbnails/minecraft-cave-escape.png
 urlstr: "minecraft-cave-escape"
 score: "4.1/5  (1892 votes)"
 tags: ["adventure", "puzzle", "thinky"]

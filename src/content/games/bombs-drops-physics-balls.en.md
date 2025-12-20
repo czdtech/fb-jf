@@ -3,7 +3,7 @@ locale: en
 title: "Bombs Drops Physics balls"
 description: "Bombs Drops Physics balls is a playful physics puzzler — time drops, trigger chain reactions, and clear targets with smart setups."
 iframeSrc: "https://6nhcl6kaecsio.h5games.usercontent.goog/v/09ccnat7ptqs8/"
-thumbnail: "/new-images/bombs-drops-physics-balls.jpg"
+thumbnail: /new-images/thumbnails/bombs-drops-physics-balls.jpg
 urlstr: "bombs-drops-physics-balls"
 score: "3.9/5  (1598 votes)"
 tags: ["puzzle", "thinky", "casual"]

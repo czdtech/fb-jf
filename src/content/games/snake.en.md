@@ -4,7 +4,7 @@ locale: en
 title: "Snake"
 description: "Play the timeless classic, Snake. Control a continuously moving line, consume food to grow longer, and avoid colliding with walls or your own tail. Test your reflexes and planning in this simple yet challenging arcade game."
 iframeSrc: "https://www.googlesnake.com/snakem.php"
-thumbnail: "/new-images/snake.jpg"
+thumbnail: /new-images/thumbnails/snake.jpg
 urlstr: "snake"
 score: "4.1/5  (242 votes)"
 tags: ["classic", "arcade", "skill"]

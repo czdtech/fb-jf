@@ -7,7 +7,7 @@ description: >-
   den Fadenkreuz, kompensiere das Wackeln und schalte Prioritätsziele in kurzen
   Missionen aus.
 iframeSrc: 'https://4oill7a9ltc9g.h5games.usercontent.goog/v/54hea44l6fm4o/'
-thumbnail: /new-images/western-sniper.png
+thumbnail: /new-images/thumbnails/western-sniper.png
 tags:
   - shooting
   - action

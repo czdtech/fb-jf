@@ -7,7 +7,7 @@ description: >-
   lassen, versenke möglichst viele Körbe am Stück und bring den Ball mit Clean
   Shots zum Brennen für Extrapunkte.
 iframeSrc: 'https://ubg77.github.io/game131022/tap-tap-shots/'
-thumbnail: /new-images/tap-tap-shots.jpg
+thumbnail: /new-images/thumbnails/tap-tap-shots.jpg
 tags:
   - sports
   - arcade

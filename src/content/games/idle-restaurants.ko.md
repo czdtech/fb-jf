@@ -6,7 +6,7 @@ description: >-
   작은 식당에서 시작해 거대한 외식 제국을 만드는 방치형 경영 게임입니다. 셰프와 웨이터를 고용·업그레이드하고, 주방과 테이블을 확장하며,
   관리자를 통해 영업을 자동화해 요식업 타이쿤이 되어 보세요.
 iframeSrc: 'https://idlerestaurants.h5games.usercontent.goog/v/4ut41titp1kvg/'
-thumbnail: /new-images/idle-restaurants.png
+thumbnail: /new-images/thumbnails/idle-restaurants.png
 tags:
   - casual
   - clicker

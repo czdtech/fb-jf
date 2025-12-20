@@ -6,7 +6,7 @@ description: >-
   Fruit Slot Machine 模擬經典三輪水果機——負責任地按鈕旋轉，
   了解賠率線與獎項設計，在不過度下注的前提下享受輕鬆轉盤樂趣。
 iframeSrc: 'https://7f8j0t3m1ptv8.h5games.usercontent.goog/v/33cv74na0lvqg/'
-thumbnail: /new-images/fruit-slot-machine.jpg
+thumbnail: /new-images/thumbnails/fruit-slot-machine.jpg
 tags:
   - casual
 score: 3.6/5  (1527 votes)

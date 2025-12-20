@@ -2,7 +2,7 @@
 title: Mini Crossword
 description: Mini Crosswordはコンパクトなクロスワードパズルです。手がかりを解き、短時間でグリッドを埋めます。
 iframeSrc: 'https://minicrossword.h5games.usercontent.goog/v/04sf2s4bnkkk0/'
-thumbnail: /new-images/mini-crossword.png
+thumbnail: /new-images/thumbnails/mini-crossword.jpg
 urlstr: mini-crossword
 score: 4.3/5  (2089 votes)
 tags:

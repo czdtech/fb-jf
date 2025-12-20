@@ -4,7 +4,7 @@ urlstr: sushi-grab
 title: 《Sushi Grab》寿司速选
 description: 《Sushi Grab》是一款节奏快速的传送带寿司选取游戏。正确抓取目标寿司、避开陷阱，在限时内打出高分连击。
 iframeSrc: 'https://sushigrab.h5games.usercontent.goog/v/0ehlec2inmmrg/'
-thumbnail: /new-images/sushi-grab.png
+thumbnail: /new-images/thumbnails/sushi-grab.png
 tags:
   - casual
   - thinky

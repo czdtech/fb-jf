@@ -7,7 +7,7 @@ description: >-
   personnages pixelisés s’affrontent sur des toits, en se tirant dessus pour se
   faire tomber des immeubles avec des effets ragdoll hilarants.
 iframeSrc: 'https://webglmath.github.io/rooftop-snipers/'
-thumbnail: /new-images/rooftop-snipers.jpg
+thumbnail: /new-images/thumbnails/rooftop-snipers.jpg
 tags:
   - shooting
   - physics

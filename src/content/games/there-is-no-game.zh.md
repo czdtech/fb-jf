@@ -6,7 +6,7 @@ description: >-
   《There Is No Game》是一款极具 meta
   风格的解谜/互动作品。屏幕上的“旁白”不断告诉你这里没有游戏，而你要通过各种反常操作打破规则，发现隐藏的玩法与故事。
 iframeSrc: 'https://thereisnogame.h5games.usercontent.goog/v/3g7d2n9c1b4k0/'
-thumbnail: /new-images/there-is-no-game.jpg
+thumbnail: /new-images/thumbnails/there-is-no-game.jpg
 tags:
   - puzzle
   - meta

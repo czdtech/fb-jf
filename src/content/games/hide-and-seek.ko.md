@@ -8,7 +8,7 @@ description: >-
   활용해 제한 시간 안에 모두 찾아야 합니다.
 iframeSrc: >-
   https://g2.igroutka.ru/games/23/YWRIxUAXudnq4HO1/rvvASMiM/239942ce1a1349f6bcc9d312b32c5c3b/
-thumbnail: /new-images/hide-and-seek.jpg
+thumbnail: /new-images/thumbnails/hide-and-seek.jpg
 tags:
   - stealth
   - arcade

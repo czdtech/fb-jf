@@ -8,7 +8,7 @@ description: >-
   commandes ultra simples. Si tu aimes Incredibox et que tu veux tenter
   quelque chose de nouveau, Sprunki Basical est un excellent choix !
 iframeSrc: 'https://sprunki-basical.pages.dev/'
-thumbnail: /sprunki-basical.png
+thumbnail: /new-images/thumbnails/sprunki-basical.png
 tags:
   - sprunki basical
   - sprunki basical online

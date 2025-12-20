@@ -2,7 +2,7 @@
 title: Daily Word Search デイリー・ワードサーチ
 description: 「Daily Word Search」は日替わりの単語探しパズル。縦・横・斜めに隠された単語を見つけ出し、リラックスしたりタイムアタックに挑戦しよう。
 iframeSrc: 'https://1i20ele8n07u0.h5games.usercontent.goog/v/1n8osodo9gs80/'
-thumbnail: /new-images/daily-word-search.png
+thumbnail: /new-images/thumbnails/daily-word-search.png
 urlstr: daily-word-search
 score: 4.1/5  (1984 votes)
 tags:

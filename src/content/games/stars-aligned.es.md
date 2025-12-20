@@ -6,7 +6,7 @@ description: >-
   Stars Aligned es un relajante puzle de constelaciones: rota fragmentos,
   conecta líneas y forma patrones de estrellas completos.
 iframeSrc: 'https://starsaligned.h5games.usercontent.goog/v/3i88p78sohtig/'
-thumbnail: /new-images/stars-aligned.jpg
+thumbnail: /new-images/thumbnails/stars-aligned.jpg
 tags:
   - puzzle
   - thinky

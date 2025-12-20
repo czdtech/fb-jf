@@ -7,7 +7,7 @@ description: >-
   para completar preciosos paisajes, gira las fichas y usa potenciadores para
   resolver cada puzle único.
 iframeSrc: "https://5burcumauc5p0.h5games.usercontent.goog/v/4k8cb35sbe9fo/"
-thumbnail: "/new-images/puzzle-pieces-merge.jpg"
+thumbnail: /new-images/thumbnails/puzzle-pieces-merge.jpg
 tags:
   - puzzle
   - casual

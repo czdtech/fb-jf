@@ -6,7 +6,7 @@ description: >-
   《Finger Slayer》是一款純粹測試反應速度的遊戲，你要在刀刃落下前最後一瞬間把「手指」收回，
   既不能太早，也不能太晚。
 iframeSrc: 'https://7ftsta5r737o8.h5games.usercontent.goog/v/3m7r2si8ppdlg/'
-thumbnail: /new-images/finger-slayer.jpg
+thumbnail: /new-images/thumbnails/finger-slayer.jpg
 tags:
   - action
   - casual

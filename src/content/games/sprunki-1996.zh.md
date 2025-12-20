@@ -5,7 +5,7 @@ urlstr: "sprunki-1996"
 title: "Sprunki 1996 - 在线玩 Sprunki 1996"
 description: "Sprunki 1996 是一款充满创意和怀旧感的音乐游戏。它采用独特的 90 年代复古电脑美学，结合简单有趣的音乐创作玩法，为 Sprunki 和 Incredibox 的粉丝带来全新体验。"
 iframeSrc: "https://html-classic.itch.zone/html/14634762/index.html"
-thumbnail: "/sprunki-1996.png"
+thumbnail: /new-images/thumbnails/sprunki-1996.png
 score: "4.0/5  (122 票)"
 tags: ["sprunki 1996"]
 ---

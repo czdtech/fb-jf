@@ -4,7 +4,7 @@ urlstr: bubble-shooter-hd
 title: Bubble Shooter HD
 description: "Bubble Shooter HD est une version soignée du bubble shooter classique\_: vise précisément, utilise les rebonds et fais tomber de gros groupes de bulles pour vider l’écran."
 iframeSrc: 'https://695vevup4pmu0.h5games.usercontent.goog/v/7ptf20o9mjr48/'
-thumbnail: /new-images/bubble-shooter-hd.png
+thumbnail: /new-images/thumbnails/bubble-shooter-hd.png
 tags:
   - puzzle
   - casual

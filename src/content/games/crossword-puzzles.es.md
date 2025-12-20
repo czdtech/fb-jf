@@ -7,7 +7,7 @@ description: >-
   horizontal y vertical para completar cada cuadrícula.
 iframeSrc: >-
   https://ams.cdn.arkadiumhosted.com/assets/global/game/best-free-themed-puzzles/
-thumbnail: /new-images/crossword-puzzles.jpg
+thumbnail: /new-images/thumbnails/crossword-puzzles.jpg
 tags:
   - word
   - puzzle

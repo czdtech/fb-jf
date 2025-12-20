@@ -2,7 +2,7 @@
 title: "Arctic Pong アークティック・ポン"
 description: "「Arctic Pong」は極寒の地で行うパドル対決。角度をつけて打ち返し、ペースを支配し、対戦相手より多く得点しましょう。"
 iframeSrc: "https://arcticpong.h5games.usercontent.goog/v/1quekndr8ig0o/"
-thumbnail: "/new-images/arctic-pong.png"
+thumbnail: /new-images/thumbnails/arctic-pong.png
 urlstr: "arctic-pong"
 score: "3.7/5  (1332 votes)"
 tags: ["2 player", "casual"]

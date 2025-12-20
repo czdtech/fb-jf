@@ -6,7 +6,7 @@ description: >-
   Tanuki Sunset est un jeu de longboard arcade : joue un raton laveur cool et
   maitrise l'art du drift sur des montagnes synthwave sceniques.
 iframeSrc: 'https://ubg100.github.io/games/tanuki/index.html'
-thumbnail: /new-images/tanuki-sunset.jpg
+thumbnail: /new-images/thumbnails/tanuki-sunset.jpg
 tags:
   - arcade
   - racing

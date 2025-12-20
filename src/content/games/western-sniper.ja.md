@@ -2,7 +2,7 @@
 title: Western Sniper
 description: Western Sniperは、西部スナイパーゲームです。正確に狙って悪党を倒しましょう。
 iframeSrc: 'https://ubg98.github.io/WesternSniper/'
-thumbnail: /new-images/western-sniper.jpg
+thumbnail: /new-images/thumbnails/western-sniper.png
 urlstr: western-sniper
 score: 4.3/5  (2456 votes)
 tags:

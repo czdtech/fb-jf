@@ -6,7 +6,7 @@ description: >-
   Cat Sort Quest es un acogedor puzle de ordenar por colores: mueve gatos entre
   posaderos, agrupa colores y administra con cuidado los pocos huecos libres.
 iframeSrc: 'https://4ajc8tu89od7g.h5games.usercontent.goog/v/49be5kf9v96j0/'
-thumbnail: /new-images/cat-sort-quest.png
+thumbnail: /new-images/thumbnails/cat-sort-quest.png
 tags:
   - puzzle
   - thinky

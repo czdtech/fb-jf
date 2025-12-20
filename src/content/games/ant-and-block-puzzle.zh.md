@@ -6,7 +6,7 @@ description: >-
   《Ant and block
   puzzle（蚂蚁方块拼图）》是一款清爽的小型方块填充益智游戏，你需要把给定形状巧妙塞进棋盘，完成行和区域的清除，尽量避免把棋盘玩成“死局”。
 iframeSrc: 'https://6f5e193l1nhig.h5games.usercontent.goog/v/2bgjgmrog0tgg/'
-thumbnail: /new-images/ant-and-block-puzzle.png
+thumbnail: /new-images/thumbnails/ant-and-block-puzzle.png
 tags:
   - puzzle
   - thinky

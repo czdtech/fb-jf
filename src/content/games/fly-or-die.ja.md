@@ -2,7 +2,7 @@
 title: "Fly or Die"
 description: "進化サバイバル（.io）：正しい食べ物を食べて食物連鎖を進化させながら、空や地上のバイオームで捕食者や危険を回避しましょう。"
 iframeSrc: "https://app-96679.games.s3.yandex.net/96679/jshypemnvrae6bchv5d2nej2892owe69/index.html"
-thumbnail: "/new-images/fly-or-die.jpg"
+thumbnail: /new-images/thumbnails/fly-or-die.jpg
 urlstr: "fly-or-die"
 score: "4.6/5  (260 votes)"
 tags: ["survival", "io"]

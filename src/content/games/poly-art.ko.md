@@ -4,7 +4,7 @@ urlstr: poly-art
 title: Poly Art 폴리 아트
 description: 3D 공간에서 다각형 조각 뭉치를 회전시켜 하나의 그림으로 완성하는 퍼즐 게임입니다. 조각이 딱 맞아 떨어지는 순간의 쾌감을 느껴 보세요.
 iframeSrc: 'https://polyart.h5games.usercontent.goog/v/47aiosp2dbqgg/'
-thumbnail: /new-images/poly-art.png
+thumbnail: /new-images/thumbnails/poly-art.png
 tags:
   - puzzle
   - thinky

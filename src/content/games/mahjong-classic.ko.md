@@ -6,7 +6,7 @@ description: >-
   Mahjong Classic은 마작 패를 이용해 같은 패를 짝지어 없애는 고전 싱글 플레이 퍼즐입니다. 막혀 있지 않은 동일 타일 쌍을 찾아
   보드를 비우는, 편안하면서도 두뇌를 쓰게 만드는 전략 게임입니다.
 iframeSrc: 'https://mahjongclassic.h5games.usercontent.goog/v/6tue6un26r7v0/'
-thumbnail: /new-images/mahjong-classic.png
+thumbnail: /new-images/thumbnails/mahjong-classic.png
 tags:
   - puzzle
   - thinky

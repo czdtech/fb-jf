@@ -6,7 +6,7 @@ description: >-
   Minesweeper Mania는 클래식 마인스위퍼를 다듬어 여러 난이도로 재구성한 버전으로, 숫자 힌트를 이용해 숨겨진 지뢰를 찾아내는
   논리 추리 퍼즐입니다.
 iframeSrc: 'https://minesweepermania.h5games.usercontent.goog/v/6cje7ufl50e4g/'
-thumbnail: /new-images/minesweeper-mania.png
+thumbnail: /new-images/thumbnails/minesweeper-mania.png
 tags:
   - puzzle
   - thinky

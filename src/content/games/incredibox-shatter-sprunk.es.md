@@ -7,7 +7,7 @@ description: >-
   versión, todos los personajes aparecen en un llamativo color amarillo y cada
   uno tiene un efecto sonoro único e irrepetible.
 iframeSrc: 'https://turbowarp.org/1144858827/embed'
-thumbnail: /incredibox-shatter-sprunk.png
+thumbnail: /new-images/thumbnails/incredibox-shatter-sprunk.png
 tags:
   - incredibox shatter sprunk
   - incredibox shatter sprunk online

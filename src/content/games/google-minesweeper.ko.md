@@ -7,7 +7,7 @@ description: >-
   논리 퍼즐입니다. 깃발로 지뢰 위치를 표시하고, 한 번도 폭발시키지 않고
   전체 격자를 클리어해 보세요.
 iframeSrc: 'https://www.minesweepergoogle.com/gameapp.html'
-thumbnail: /new-images/google-minesweeper.jpg
+thumbnail: /new-images/thumbnails/google-minesweeper.jpg
 tags:
   - puzzle
   - logic

@@ -5,7 +5,7 @@ urlstr: "sprunki-retake-bonus-characters"
 title: "Sprunki Retake Bonus Characters - 在线玩 Sprunki Retake Bonus Characters"
 description: "Sprunki Retake Bonus Characters 不仅仅是一款普通的音乐游戏，它是对古老文化的致敬，也是对音乐无限可能性的探索。"
 iframeSrc: "https://turbowarp.org/1107905149/embed"
-thumbnail: "/sprunki-retake-bonus-characters.png"
+thumbnail: /new-images/thumbnails/sprunki-retake-bonus-characters.png
 score: "3.9/5  (132 票)"
 tags: ["sprunki retake bonus characters"]
 ---

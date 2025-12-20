@@ -3,7 +3,7 @@ locale: en
 title: "Archery World Tour"
 description: "Grab your bow and arrow and travel the world in this realistic archery game. Account for wind and distance to hit the bullseye and become a champion."
 iframeSrc: "https://archery.h5games.usercontent.goog/v/f12fb2aa-d64b-4074-8974-31705698e2e6/"
-thumbnail: "/new-images/archery.jpg"
+thumbnail: /new-images/thumbnails/archery.jpg
 urlstr: "archery"
 score: "4.4/5  (2700 votes)"
 tags: ["sports", "shooting", "action"]

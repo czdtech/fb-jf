@@ -4,7 +4,7 @@ urlstr: traffic-tom
 title: 《Traffic Tom》公路骑士汤姆
 description: 《Traffic Tom》是一款第三人称视角的摩托车驾驶游戏。骑上摩托在车流中穿梭完成任务，躲避交通事故、完成限时目标并升级你的座驾。
 iframeSrc: 'https://traffictom.h5games.usercontent.goog/v/6h9d2n3c1b7p0/'
-thumbnail: /new-images/traffic-tom.png
+thumbnail: /new-images/thumbnails/traffic-tom.jpg
 tags:
   - driving
   - motorcycle

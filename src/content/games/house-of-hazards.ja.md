@@ -2,7 +2,7 @@
 title: "House Of Hazards"
 description: "ローカルパーティーのカオス：罠だらけの家で簡単な家事をこなしながら、友達がハザード（罠）を発動してあなたを妨害します。"
 iframeSrc: "https://webglmath.github.io/house-of-hazards/"
-thumbnail: "/new-images/house-of-hazards.jpg"
+thumbnail: /new-images/thumbnails/house-of-hazards.jpg
 urlstr: "house-of-hazards"
 score: "4.1/5  (127 votes)"
 tags: ["party", "multiplayer"]

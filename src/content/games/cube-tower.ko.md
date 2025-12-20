@@ -6,7 +6,7 @@ description: >-
   중앙의 큐브 타워를 향해 몰려오는 적 웨이브를 막아내는 타워 디펜스 게임 Cube Tower입니다. 다양한 포탑을 전략적으로 배치·강화해
   생존을 노려 보세요.
 iframeSrc: 'https://cubetower.h5games.usercontent.goog/v/6k8tnoea28210/'
-thumbnail: /new-images/cube-tower.png
+thumbnail: /new-images/thumbnails/cube-tower.png
 tags:
   - tower Defense
   - action

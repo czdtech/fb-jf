@@ -6,7 +6,7 @@ description: >-
   귀여운 동물 블록을 터뜨리며 목표를 달성하는 매치2 퍼즐 게임입니다. 같은 동물이 두 개 이상 붙어 있는 그룹을 탭해 없애고, 강력한
   부스터로 연쇄 폭발을 일으켜 높은 점수와 별을 모아 보세요.
 iframeSrc: 'https://zooboom.h5games.usercontent.goog/v/4g2tps61g9djg/'
-thumbnail: /new-images/zoo-boom.png
+thumbnail: /new-images/thumbnails/zoo-boom.png
 tags:
   - puzzle
   - casual

@@ -2,7 +2,7 @@
 title: Captain Gold キャプテン・ゴールド
 description: 「Captain Gold」は王道のゴールドマイナーゲーム。スイングするフックをタイミングよく放ち、岩を避けて金塊や宝物を釣り上げよう。ノルマ達成を目指せ！
 iframeSrc: 'https://5djvqvgrgqc0o.h5games.usercontent.goog/v/58gqt26rjid7o/'
-thumbnail: /new-images/captain-gold.png
+thumbnail: /new-images/thumbnails/captain-gold.png
 urlstr: captain-gold
 score: 3.9/5  (1683 votes)
 tags:

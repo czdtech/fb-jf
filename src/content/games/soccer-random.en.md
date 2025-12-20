@@ -4,7 +4,7 @@ locale: en
 title: "Soccer Random"
 description: "Experience soccer like never before in Soccer Random! This hilarious, physics-based game uses a simple one-button control to make your players jump and kick. Adapt to ever-changing fields, balls, and players as you compete against a friend or the CPU to be the first to score five goals."
 iframeSrc: "https://app-197306.games.s3.yandex.net/197306/b1dbvmcde0oog4ebj00rinxr3e367fl4/index.html"
-thumbnail: "/new-images/soccer-random.jpg"
+thumbnail: /new-images/thumbnails/soccer-random.jpg
 urlstr: "soccer-random"
 score: "4.1/5  (594 votes)"
 tags: ["2-player", "physics", "sports"]

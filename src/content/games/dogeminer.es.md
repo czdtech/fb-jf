@@ -6,7 +6,7 @@ description: >-
   DogeMiner es un idle clicker: mina monedas, compra mejoras y ayudantes y
   automatiza la producción para ganar cada vez más rápido.
 iframeSrc: 'https://edufall.github.io/o16/doge-miner/'
-thumbnail: /new-images/dogeminer.jpg
+thumbnail: /new-images/thumbnails/dogeminer.jpg
 tags:
   - idle
   - clicker

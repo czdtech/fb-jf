@@ -7,7 +7,7 @@ description: >-
   음악 제작 게임입니다. 자유롭게 루프를 조합해 나만의 트랙과 이야기를 만들어
   보세요.
 iframeSrc: 'https://turbowarp.org/1131610529/embed'
-thumbnail: /fiddlebops-polos.png
+thumbnail: /new-images/thumbnails/fiddlebops-fix.png
 tags:
   - fiddlebops fix
 score: 4.6/5  (217 votes)

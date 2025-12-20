@@ -2,7 +2,7 @@
 title: "Sprunki Christmas - Play Sprunki Christmas Online"
 description: "Sprunki Christmasはクリスマステーマの音楽作成Modです。キャラクターにサウンドを割り当てて音を重ね、ホリデー風のトラックを作れます。"
 iframeSrc: "https://turbowarp.org/1104040581/embed"
-thumbnail: "/sprunki-christmas.png"
+thumbnail: /new-images/thumbnails/sprunki-christmas.png
 urlstr: "sprunki-christmas"
 score: "4.6/5  (486 votes)"
 tags: ["sprunki christmas"]

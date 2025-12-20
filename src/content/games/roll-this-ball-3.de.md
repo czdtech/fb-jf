@@ -7,7 +7,7 @@ description: >-
   Verschiebe Holzblöcke, um eine durchgehende Bahn zu bauen, auf der die Kugel
   vom Start bis ins Ziel rollen kann.
 iframeSrc: 'https://rollthisball3.h5games.usercontent.goog/v/65vs8rm7dfjno/'
-thumbnail: /new-images/roll-this-ball-3.png
+thumbnail: /new-images/thumbnails/roll-this-ball-3.png
 tags:
   - puzzle
   - thinky

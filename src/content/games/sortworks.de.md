@@ -4,7 +4,7 @@ urlstr: sortworks
 title: "SortWorks"
 description: "SortWorks ist ein aufgeräumtes Sortier- und Stapelrätsel: Ordne Objekte nach Regeln, plane Pufferzonen ein und vermeide Blockaden, während der Druck immer weiter steigt."
 iframeSrc: 'https://293f3i461vfvo.h5games.usercontent.goog/v/31blvf8tg44g0/'
-thumbnail: /new-images/sortworks.png
+thumbnail: /new-images/thumbnails/sortworks.png
 tags:
   - puzzle
   - thinky

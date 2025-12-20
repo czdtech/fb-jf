@@ -4,7 +4,7 @@ locale: en
 title: "Bank Robbery"
 description: "A detailed guide for the team-based FPS game Bank Robbery 2. Learn strategies for both Robbers and Cops, controls, and answers to common questions to master the heist."
 iframeSrc: "https://app-183971.games.s3.yandex.net/183971/l0eme2yqkthl0y8stmfuz0u8pdpux64m/index.html"
-thumbnail: "/new-images/bank-robbery.jpg"
+thumbnail: /new-images/thumbnails/bank-robbery.jpg
 urlstr: "bank-robbery"
 score: "4.2/5  (1331 votes)"
 tags: ["fps", "action"]

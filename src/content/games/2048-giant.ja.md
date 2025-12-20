@@ -2,7 +2,7 @@
 title: "2048 Giant 2048 ジャイアント"
 description: "名作パズル「2048」を、巨大な新しいスタイルで体験できる「2048 ジャイアント」。より大きな盤面でタイルを合体させ、圧倒的なハイスコアを目指しましょう。"
 iframeSrc: "https://2048giant.h5games.usercontent.goog/v/4bea87e2-a9a9-4f4b-b1c8-8b777220c567/"
-thumbnail: "/new-images/2048-giant.jpg"
+thumbnail: /new-images/thumbnails/2048-giant.jpg
 urlstr: "2048-giant"
 score: "4.5/5 (2500 votes)"
 tags: ["puzzle", "thinky", "casual"]

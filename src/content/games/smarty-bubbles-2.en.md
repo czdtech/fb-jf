@@ -3,7 +3,7 @@ locale: en
 title: "Smarty Bubbles 2"
 description: "The addictive bubble shooter is back! Aim, shoot, and match colorful bubbles to clear the board. Plan your shots carefully to avoid adding new rows!"
 iframeSrc: "https://smartybubbles2.h5games.usercontent.goog/v/1u280qojm9oq0/"
-thumbnail: "/new-images/smarty-bubbles-2.png"
+thumbnail: /new-images/thumbnails/smarty-bubbles-2.png
 urlstr: "smarty-bubbles-2"
 score: "4.4/5  (2600 votes)"
 tags: ["shooting", "puzzle", "casual"]

@@ -8,7 +8,7 @@ description: >-
   patadas y un arsenal de armas para derribar a tus rivales del escenario en
   partidas frenéticas.
 iframeSrc: 'https://ext.minijuegosgratis.com/stick-fighter-2/index.html'
-thumbnail: /new-images/stick-fight.jpg
+thumbnail: /new-images/thumbnails/stick-fight.jpg
 tags:
   - fighting
   - action

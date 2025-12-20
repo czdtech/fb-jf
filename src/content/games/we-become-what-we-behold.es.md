@@ -8,7 +8,7 @@ description: >-
   cómo tus decisiones moldean a la sociedad y presencia las consecuencias de
   centrarte en lo negativo.
 iframeSrc: "https://html5.iclouds.io/we-become-behold/index.html"
-thumbnail: "/new-images/we-become-what-we-behold.jpg"
+thumbnail: /new-images/thumbnails/we-become-what-we-behold.jpg
 tags:
   - satire
   - social-commentary

@@ -7,7 +7,7 @@ description: >-
   게임입니다. 조준을 잘 잡고 벽 반사를 활용해, 한 번에 큰 덩어리를 떨어뜨리며
   높은 점수에 도전해 보세요.
 iframeSrc: 'https://www.bubbleshooter-new.com/'
-thumbnail: /new-images/bubble-shooter.jpg
+thumbnail: /new-images/thumbnails/bubble-shooter.jpg
 tags:
   - casual
   - puzzle

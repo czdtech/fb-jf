@@ -4,7 +4,7 @@ urlstr: learn-to-fly
 title: "Learn To Fly"
 description: "Jeu de lancer/upgrade avec pingouin volant : règle l’angle, plane et booste, gagne de l’argent et achète des pièces pour aller toujours plus loin."
 iframeSrc: "https://ad-freegames.github.io/flash/game/learn-to-fly.html"
-thumbnail: /new-images/learn-to-fly.jpg
+thumbnail: /new-images/thumbnails/learn-to-fly.jpg
 tags:
   - arcade
   - upgrade

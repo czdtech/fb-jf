@@ -7,7 +7,7 @@ description: >-
   Fais glisser les formes sur la grille 10x10 pour compléter des lignes et les
   effacer du plateau.
 iframeSrc: 'https://5hefbqkv5o0do.h5games.usercontent.goog/v/0bio68l8dojl0/'
-thumbnail: /new-images/farm-block-puzzle.png
+thumbnail: /new-images/thumbnails/farm-block-puzzle.png
 tags:
   - puzzle
   - thinky

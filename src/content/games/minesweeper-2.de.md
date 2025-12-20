@@ -6,7 +6,7 @@ description: >-
   Das zeitlose Logikpuzzle: Nutze Zahlhinweise, um alle versteckten Minen zu
   finden und das Feld zu räumen, ohne eine zu zünden.
 iframeSrc: 'https://minesweeper.h5games.usercontent.goog/v/6uo6tf2lnil3o/'
-thumbnail: /new-images/minesweeper-2.jpg
+thumbnail: /new-images/thumbnails/minesweeper-2.jpg
 tags:
   - puzzle
   - thinky

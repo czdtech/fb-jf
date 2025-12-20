@@ -6,7 +6,7 @@ description: >-
   Snake.io는 고전 스네이크 게임을 현대적으로 재해석한 멀티플레이 액션 게임으로, 먹이를
   먹어 몸을 키우고 다른 뱀과의 심리전을 통해 가장 길고 거대한 뱀이 되는 것이 목표입니다.
 iframeSrc: 'https://snake.io/crazygames/'
-thumbnail: /new-images/snake-io.jpg
+thumbnail: /new-images/thumbnails/snake-io.jpg
 tags:
   - io-games
   - snake

@@ -6,7 +6,7 @@ description: >-
   波次制第一人稱射擊：用越來越誇張的武器對付各種奇怪敵人，
   賺取金幣，在關卡之間升級火力與裝備。
 iframeSrc: 'https://bitlifeonline.github.io/class2623/funny-shooter-2/'
-thumbnail: /new-images/funny-shooter-2.jpg
+thumbnail: /new-images/thumbnails/funny-shooter-2.jpg
 tags:
   - shooting
   - fps

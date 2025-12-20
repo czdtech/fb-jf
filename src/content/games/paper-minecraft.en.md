@@ -6,7 +6,7 @@ description: >-
   players a side-scrolling world to explore, mine resources, craft items, build
   structures, and survive against monsters.
 iframeSrc: 'https://scratch.mit.edu/projects/10128407/embed'
-thumbnail: /new-images/paper-minecraft.jpg
+thumbnail: /new-images/thumbnails/paper-minecraft.jpg
 urlstr: paper-minecraft
 score: 3.6/5  (848 votes)
 tags:

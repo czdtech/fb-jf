@@ -2,7 +2,7 @@
 title: "Incredibox Instrumentalist"
 description: "Incredibox Instrumentalistのガイドです。ステージに楽器を配置するユニークなゲームプレイと、インストゥルメンタル中心のワールドミュージック系サウンドを紹介します。"
 iframeSrc: "https://turbowarp.org/1040856097/embed"
-thumbnail: "/new-images/incredibox-instrumentalist.png"
+thumbnail: /new-images/thumbnails/incredibox-instrumentalist.png
 urlstr: "incredibox-instrumentalist"
 score: "4.8/5 (2045 votes)"
 tags: ["music", "sandbox", "instrumental"]

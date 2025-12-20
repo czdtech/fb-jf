@@ -7,7 +7,7 @@ description: >-
   疾驰移动，甩出镐子砸碎岩石，回收掉落的宝石与金币，并用收益升级装备，让自己活得更 久、得分更高。
 iframeSrc: >-
   https://crazycaves.h5games.usercontent.goog/v/24bc2c61-c599-4c5a-9fde-fd3a14fd28a6/
-thumbnail: /new-images/crazy-caves.jpg
+thumbnail: /new-images/thumbnails/crazy-caves.jpg
 tags:
   - action
   - casual

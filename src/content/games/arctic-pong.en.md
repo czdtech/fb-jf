@@ -5,7 +5,7 @@ description: >-
   Arctic Pong is a frosty paddle duel — angle returns, control pace, and
   outscore your opponent.
 iframeSrc: 'https://arcticpong.h5games.usercontent.goog/v/1quekndr8ig0o/'
-thumbnail: /new-images/arctic-pong.png
+thumbnail: /new-images/thumbnails/arctic-pong.png
 urlstr: arctic-pong
 score: 3.7/5  (1332 votes)
 tags:

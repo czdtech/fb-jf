@@ -2,7 +2,7 @@
 title: "Solitaire Classic"
 description: "Solitaire ClassicはKlondike（クロンダイク）としても知られる定番ソリティアです。52枚をスートごとにA〜Kでファウンデーションにそろえます。"
 iframeSrc: "https://solitaireclassic.h5games.usercontent.goog/v/7sbt28mppqim8/"
-thumbnail: "/new-images/solitaire-classic.png"
+thumbnail: /new-images/thumbnails/solitaire-classic.png
 urlstr: "solitaire-classic"
 score: "4.7/5  (3100 votes)"
 tags: ["card", "puzzle", "casual"]

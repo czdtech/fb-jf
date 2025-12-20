@@ -6,7 +6,7 @@ description: >-
   Capybara Clicker는 평화로운 카피바라를 끝없이 늘려 가는 방치형 클릭커 게임입니다. 클릭으로 카피바라를 생성하고, 자동 생산
   업그레이드를 구입하며, 날씨를 바꾸고 모자와 스킨으로 카피바라를 꾸며 보세요.
 iframeSrc: 'https://bitlifeonline.github.io/capybara-clicker/'
-thumbnail: /new-images/capybara-clicker.jpg
+thumbnail: /new-images/thumbnails/capybara-clicker.jpg
 tags:
   - casual
   - clicker

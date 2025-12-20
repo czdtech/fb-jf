@@ -7,7 +7,7 @@ description: >-
   Vogel flattern zu lassen, manövriere ihn durch Röhrenlücken und berühre
   keines der Hindernisse.
 iframeSrc: 'https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/TAhlQLDa/index.html'
-thumbnail: /new-images/flappy-bird.jpg
+thumbnail: /new-images/thumbnails/flappy-bird.jpg
 tags:
   - arcade
   - endless-runner

@@ -4,7 +4,7 @@ urlstr: daily-sudoku
 title: Daily Sudoku
 description: "Daily Sudoku t’offre une nouvelle grille de sudoku chaque jour\_: remplis les cases de 1 à 9 sans répéter de chiffre par ligne, colonne et carré."
 iframeSrc: 'https://dailysudoku.h5games.usercontent.goog/v/7kad9folsr8og/'
-thumbnail: /new-images/daily-sudoku.jpg
+thumbnail: /new-images/thumbnails/daily-sudoku.jpg
 tags:
   - puzzle
   - thinky

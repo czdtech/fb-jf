@@ -6,7 +6,7 @@ description: >-
   街機式切水果遊戲代表作：在空中用手勢劃破飛出的水果，
   避開炸彈，串起連斬與狂熱模式來衝擊高分。
 iframeSrc: 'https://emulatoros.github.io/gfile/fruitninja/'
-thumbnail: /new-images/fruit-ninja.jpg
+thumbnail: /new-images/thumbnails/fruit-ninja.jpg
 tags:
   - arcade
   - action

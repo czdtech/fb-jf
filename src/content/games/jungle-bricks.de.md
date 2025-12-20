@@ -6,7 +6,7 @@ description: >-
   Ziele und schieße in Jungle Bricks, einem farbenfrohen Brick-Breaker im
   Dschungel: Zerstöre nummerierte Blöcke, bevor sie den unteren Rand erreichen.
 iframeSrc: 'https://0gt5ae21ln70o.h5games.usercontent.goog/v/0762mjie8e8s0/'
-thumbnail: /new-images/jungle-bricks.png
+thumbnail: /new-images/thumbnails/jungle-bricks.png
 tags:
   - puzzle
   - shooting

@@ -6,7 +6,7 @@ description: >-
   알파벳을 하나씩 추리해 숨겨진 단어를 맞히는 고전 단어 추리 게임입니다. 틀릴 때마다 행맨 그림이 완성되니, 그림이 모두 그려지기 전에
   정답을 찾아야 합니다.
 iframeSrc: 'https://hangman-frontend.coolmathgames.com/home'
-thumbnail: /new-images/hangman.jpg
+thumbnail: /new-images/thumbnails/hangman.jpg
 tags:
   - word
   - puzzle

@@ -4,7 +4,7 @@ urlstr: retro-drift
 title: 《Retro Drift》复古俯视漂移
 description: 《Retro Drift》是一款老派俯视角漂移赛车游戏。你需要用细腻的油门控制、精准的车身角度和流畅的连弯线路，在赛道上干净利落地侧滑过弯，刷出更快圈速。
 iframeSrc: 'https://retrodrift.h5games.usercontent.goog/v/3jr7fjtqu0j18/'
-thumbnail: /new-images/retro-drift.jpg
+thumbnail: /new-images/thumbnails/retro-drift.jpg
 tags:
   - car
   - driving

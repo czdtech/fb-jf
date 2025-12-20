@@ -7,7 +7,7 @@ description: >-
   que distintos animales aparecen según los efectos de sonido que añadas. Tiene
   una rejugabilidad altísima.
 iframeSrc: 'https://turbowarp.org/1135773023/embed'
-thumbnail: /sprunki-mountayonnaise.png
+thumbnail: /new-images/thumbnails/mountayonnaise.png
 tags:
   - sprunki mountayonnaise
   - sprunki mountayonnaise online

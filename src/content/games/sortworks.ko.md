@@ -7,7 +7,7 @@ description: >-
   컨베이어 벨트에서 흘러오는 아이템을 올바른 상자에 보내고, 한정된 버퍼 칸을
   계획적으로 사용해 막힘 없이 처리하는 것이 핵심입니다.
 iframeSrc: 'https://293f3i461vfvo.h5games.usercontent.goog/v/31blvf8tg44g0/'
-thumbnail: /new-images/sortworks.png
+thumbnail: /new-images/thumbnails/sortworks.png
 tags:
   - puzzle
   - thinky

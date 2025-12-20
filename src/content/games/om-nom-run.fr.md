@@ -7,7 +7,7 @@ description: >-
   collecte des pièces et active des bonus pour battre tes records.
 iframeSrc: >-
   https://omnomsprint.h5games.usercontent.goog/v/50c0909a-5c11-4d9e-8b1d-e5db33f56695/
-thumbnail: /new-images/om-nom-run.jpg
+thumbnail: /new-images/thumbnails/om-nom-run.png
 tags:
   - runner
   - action

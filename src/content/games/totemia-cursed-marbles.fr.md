@@ -7,7 +7,7 @@ description: >-
   créer des matchs de trois ou plus et détruis la chaîne avant qu'elle
   n'atteigne la fin du chemin.
 iframeSrc: 'https://totemiacursed.h5games.usercontent.goog/v/2hs7lfvsisr48/'
-thumbnail: /new-images/totemia-cursed-marbles.png
+thumbnail: /new-images/thumbnails/totemia-cursed-marbles.png
 tags:
   - shooting
   - puzzle

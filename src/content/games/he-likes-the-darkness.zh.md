@@ -4,7 +4,7 @@ urlstr: he-likes-the-darkness
 title: "《He Likes The Darkness》他喜欢黑暗"
 description: "《He Likes The Darkness》是一款氛围感十足的极简平台动作游戏，你要在昏暗关卡中收集光球，踩准跳跃节奏、躲开陷阱，在有限视野里摸索出安全路线。"
 iframeSrc: 'https://77gr97nn0bej0.h5games.usercontent.goog/v/0emki8kk9qofo/'
-thumbnail: /new-images/he-likes-the-darkness.png
+thumbnail: /new-images/thumbnails/he-likes-the-darkness.png
 tags:
   - action
   - puzzle

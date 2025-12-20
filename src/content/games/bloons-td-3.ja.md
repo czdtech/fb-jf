@@ -2,7 +2,7 @@
 title: "Bloons TD 3 ブルーンズTD 3"
 description: "「Bloons TD 3」でシリーズは大きく飛躍！新マップ8種、スパイク・オー・パルトなどの新タワー、そしてシリーズの顔「MOAB」が初登場。戦略の幅が広がった名作TD。"
 iframeSrc: "https://1000freegames.github.io/swf/bloons-td-3.html"
-thumbnail: "/new-images/bloons-td-3.jpg"
+thumbnail: /new-images/thumbnails/bloons-td-3.jpg
 urlstr: "bloons-td-3"
 score: "4.3/5  (852 votes)"
 tags: ["casual", "strategy"]

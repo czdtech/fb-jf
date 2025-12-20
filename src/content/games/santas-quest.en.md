@@ -3,7 +3,7 @@ locale: en
 title: "Santa's Quest"
 description: "Santa's Quest is a festive puzzle adventure — solve simple objectives, clear routes, and deliver gifts on time."
 iframeSrc: "https://santasquest.h5games.usercontent.goog/v/737gsbva7bkqo/"
-thumbnail: "/new-images/santas-quest.png"
+thumbnail: /new-images/thumbnails/santas-quest.png
 urlstr: "santas-quest"
 score: "3.9/5  (1688 votes)"
 tags: ["puzzle", "casual"]

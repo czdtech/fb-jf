@@ -4,7 +4,7 @@ locale: en
 title: "G-Switch 2"
 description: "Gravity‑flip runner sequel: race solo or in local multiplayer, flipping gravity to survive traps at rising speed." 
 iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221123/6/index.html"
-thumbnail: "/new-images/g-switch-2.jpg"
+thumbnail: /new-images/thumbnails/g-switch-2.jpg
 urlstr: "g-switch-2"
 score: "3.6/5  (331 votes)"
 tags: ["runner", "platformer"]

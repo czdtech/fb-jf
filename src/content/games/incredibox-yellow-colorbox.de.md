@@ -7,7 +7,7 @@ description: >-
   sind in auffälligem Gelb gehalten und bringen ihren ganz eigenen,
   unverwechselbaren Sound mit – perfekt zum freien Kombinieren.
 iframeSrc: 'https://www.minijuegos.com/embed/incredibox-yellow-colorbox'
-thumbnail: /incredibox-yellow-colorbox.png
+thumbnail: /new-images/thumbnails/incredibox-yellow-colorbox.png
 tags:
   - incredibox yellow colorbox
   - incredibox yellow colorbox online

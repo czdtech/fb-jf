@@ -2,7 +2,7 @@
 title: Bubble Shooter バブルシューター
 description: 「Bubble Shooter」は中毒性のある元祖バブルパズル。色を揃えて泡を消し、ハイスコアを目指せ。シンプルながら深い戦略性があなたを待っている。
 iframeSrc: 'https://ad-freegames.github.io/flash/game/bubble-shooter.html'
-thumbnail: /new-images/bubble-shooter.png
+thumbnail: /new-images/thumbnails/bubble-shooter.jpg
 urlstr: bubble-shooter
 score: 4.7/5  (865 votes)
 tags:

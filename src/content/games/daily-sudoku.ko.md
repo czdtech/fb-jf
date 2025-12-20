@@ -7,7 +7,7 @@ description: >-
   세로줄, 각 3×3 박스에 1~9 숫자를 한 번씩만 배치하며, 추론으로 정답을 찾아가는
   정통 스도쿠를 즐겨 보세요.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-daily-sudoku/'
-thumbnail: /new-images/daily-sudoku.jpg
+thumbnail: /new-images/thumbnails/daily-sudoku.jpg
 tags:
   - puzzle
   - logic

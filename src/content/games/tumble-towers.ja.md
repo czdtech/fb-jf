@@ -2,7 +2,7 @@
 title: Tumble Towers
 description: Tumble Towersは、タワー崩しゲームです。ブロックを引き抜いて塔が倒れないようにしましょう。
 iframeSrc: 'https://ubg98.github.io/TumbleTowers/'
-thumbnail: /new-images/tumble-towers.jpg
+thumbnail: /new-images/thumbnails/tumble-towers.png
 urlstr: tumble-towers
 score: 4.3/5  (2123 votes)
 tags:

@@ -8,7 +8,7 @@ description: >-
   kämpfst du gegen Wellen angreifender Roboter und versuchst, möglichst lange
   zu überleben.
 iframeSrc: 'https://bitlifeonline.github.io/fnaf-shooter/'
-thumbnail: /new-images/shooter.jpg
+thumbnail: /new-images/thumbnails/shooter.jpg
 tags:
   - horror
   - shooting

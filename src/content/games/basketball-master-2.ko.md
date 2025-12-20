@@ -7,7 +7,7 @@ description: >-
   얼음 블록을 부수며 골대를 노리고, 난이도가 올라가는 스테이지를 클리어해
   보세요.
 iframeSrc: 'https://basketballmaster2.h5games.usercontent.goog/v/267j5oehq25q0/'
-thumbnail: /new-images/basketball-master-2.png
+thumbnail: /new-images/thumbnails/basketball-master-2.png
 tags:
   - sports
   - basketball

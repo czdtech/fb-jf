@@ -7,7 +7,7 @@ description: >-
   打败邪恶巫师，从黑暗魔法中救回被绑架的侄子。
 iframeSrc: >-
   https://uncleahmed.h5games.usercontent.goog/v/31ca380f-5493-4371-b5ac-5c3c2da67626/
-thumbnail: /new-images/uncle-ahmed.jpg
+thumbnail: /new-images/thumbnails/uncle-ahmed.jpg
 tags:
   - action
   - adventure

@@ -4,7 +4,7 @@ urlstr: butterfly-shimai
 title: Butterfly Shimai
 description: "Butterfly Shimai est un puzzle relaxant façon mahjong «\_connect\_»\_: relie des paires d'ailes de papillon identiques pour les faire s'envoler, avant la fin du temps."
 iframeSrc: 'https://1pq2qond4eka0.h5games.usercontent.goog/v/4oiv5e7dd7vd8/'
-thumbnail: /new-images/butterfly-shimai.png
+thumbnail: /new-images/thumbnails/butterfly-shimai.png
 tags:
   - puzzle
   - casual

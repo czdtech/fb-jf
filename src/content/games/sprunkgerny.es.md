@@ -8,7 +8,7 @@ description: >-
   abrazar la imperfección y la aleatoriedad, y te permite desatar tu inspiración
   musical a base de explorar y divertirte.
 iframeSrc: "https://turbowarp.org/1107761681/embed"
-thumbnail: "/Sprunkgerny.png"
+thumbnail: /new-images/thumbnails/sprunkgerny.png
 tags:
   - sprunkgerny
   - sprunkgerny online

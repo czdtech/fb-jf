@@ -7,7 +7,7 @@ description: >-
   que intercambias y combinas deslumbrantes diamantes para limpiar el tablero y
   lograr puntuaciones de récord.
 iframeSrc: 'https://diamondrush.h5games.usercontent.goog/v/63ok750qri670/'
-thumbnail: /new-images/diamond-rush.png
+thumbnail: /new-images/thumbnails/diamond-rush.png
 tags:
   - puzzle
   - casual

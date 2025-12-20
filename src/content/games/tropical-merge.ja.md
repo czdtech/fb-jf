@@ -2,7 +2,7 @@
 title: Tropical Merge
 description: Tropical Mergeは、トロピカルテーマのマージゲームです。アイテムを合体させて楽園を作りましょう。
 iframeSrc: 'https://ubg98.github.io/TropicalMerge/'
-thumbnail: /new-images/tropical-merge.jpg
+thumbnail: /new-images/thumbnails/tropical-merge.png
 urlstr: tropical-merge
 score: 4.3/5  (2345 votes)
 tags:

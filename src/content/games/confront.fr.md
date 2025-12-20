@@ -6,7 +6,7 @@ description: >-
   Confront est un jeu de tir multijoueur nerveux : choisis ta classe, vise vite
   et coopère avec ton équipe pour prendre l’avantage sur la carte.
 iframeSrc: 'https://1hjdl8ff4msl0.h5games.usercontent.goog/v/3trdkj6p4s90g/'
-thumbnail: /new-images/confront.png
+thumbnail: /new-images/thumbnails/confront.jpg
 tags:
   - action
   - shooting

@@ -7,7 +7,7 @@ description: >-
   mejora cañones, ballestas y torres de apoyo para aguantar lo máximo posible en
   un mapa nuevo y desafiante cada día.
 iframeSrc: 'https://endlessseige.h5games.usercontent.goog/v/35nvlvatb9t8g/'
-thumbnail: /new-images/endless-siege.jpg
+thumbnail: /new-images/thumbnails/endless-siege.jpg
 tags:
   - tower Defense
   - strategy

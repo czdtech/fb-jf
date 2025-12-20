@@ -5,7 +5,7 @@ urlstr: "pikmin-no-sprunki"
 title: "Pikmin No Sprunki - 在线玩 Pikmin No Sprunki"
 description: "Pikmin No Sprunki 不仅仅是一款简单的游戏；它是一个鼓励探索的创意平台。"
 iframeSrc: "https://img.sprunki.net/game/pikmin-no-sprunki.html"
-thumbnail: "/pikmin-no-sprunki.png"
+thumbnail: /new-images/thumbnails/pikmin-no-sprunki.png
 score: "4.0/5  (89 票)"
 tags: ["pikmin no sprunki"]
 ---

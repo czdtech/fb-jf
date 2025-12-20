@@ -7,7 +7,7 @@ description: >-
   조절해 수구를 컨트롤하고, 다음 공까지 연결되는 포지션 플레이를
   연습해 보세요.
 iframeSrc: 'https://4i2ksm0sqbsr0.h5games.usercontent.goog/v/6fbgaukuhtvqo/'
-thumbnail: /new-images/pool-8-ball-mania.png
+thumbnail: /new-images/thumbnails/pool-8-ball-mania.png
 tags:
   - sports
   - pool

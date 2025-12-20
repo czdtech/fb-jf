@@ -7,7 +7,7 @@ description: >-
   suma puntos y conviértete en campeón virtual de ping‑pong con buena
   sincronización y reflejos rápidos.
 iframeSrc: 'https://tabletennis.h5games.usercontent.goog/v/4eeofbe4nfj1g/'
-thumbnail: /new-images/table-tennis.png
+thumbnail: /new-images/thumbnails/table-tennis.png
 tags:
   - sports
   - 2 player

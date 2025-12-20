@@ -8,7 +8,7 @@ description: >-
   serpents qui te feront redescendre. Sois le premier à atteindre la dernière
   case pour gagner cette partie familiale intemporelle.
 iframeSrc: 'https://cdn.gamesnacks.com/snakesandladders/gameCode/index.html'
-thumbnail: /new-images/snakes-and-ladders.jpg
+thumbnail: /new-images/thumbnails/snakes-and-ladders.jpg
 tags:
   - board-game
   - classic

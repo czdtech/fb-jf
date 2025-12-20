@@ -7,7 +7,7 @@ description: >-
   Match-3-Puzzlespiel. Kombiniere funkelnde Juwelen, erschaffe starke Kombos und
   meistere herausfordernde Level.
 iframeSrc: 'https://jewelmagic.h5games.usercontent.goog/v/55vd8l21hn1q8/'
-thumbnail: /new-images/jewel-magic.png
+thumbnail: /new-images/thumbnails/jewel-magic.png
 tags:
   - puzzle
   - casual

@@ -3,7 +3,7 @@ locale: en
 title: "Farm Block Puzzle"
 description: "A relaxing and fun block puzzle with a charming farm theme. Drag and drop the block shapes onto the 10x10 grid to create full lines and clear them from the board."
 iframeSrc: "https://5hefbqkv5o0do.h5games.usercontent.goog/v/0bio68l8dojl0/"
-thumbnail: "/new-images/farm-block-puzzle.png"
+thumbnail: /new-images/thumbnails/farm-block-puzzle.png
 urlstr: "farm-block-puzzle"
 score: "4.4/5  (2400 votes)"
 tags: ["puzzle", "thinky", "casual"]

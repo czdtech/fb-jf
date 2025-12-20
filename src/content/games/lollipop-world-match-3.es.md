@@ -7,7 +7,7 @@ description: >-
   rompe bloqueadores y cumple objetivos de cada nivel con un número limitado de
   movimientos.
 iframeSrc: 'https://4oij9suhguc58.h5games.usercontent.goog/v/1osssadggdrao/'
-thumbnail: /new-images/lollipop-world-match-3.jpg
+thumbnail: /new-images/thumbnails/lollipop-world-match-3.jpg
 tags:
   - puzzle
   - casual

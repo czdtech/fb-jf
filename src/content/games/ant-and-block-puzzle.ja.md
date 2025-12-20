@@ -2,7 +2,7 @@
 title: "Ant and block puzzle アリとブロックパズル"
 description: "「Ant and block puzzle」は、シンプルなブロック配置パズルです。形をはめ込み、列を揃えて消し、手詰まりにならないよう効率よく詰め込みましょう。"
 iframeSrc: "https://6f5e193l1nhig.h5games.usercontent.goog/v/2bgjgmrog0tgg/"
-thumbnail: "/new-images/ant-and-block-puzzle.png"
+thumbnail: /new-images/thumbnails/ant-and-block-puzzle.png
 urlstr: "ant-and-block-puzzle"
 score: "3.8/5  (1524 votes)"
 tags: ["puzzle", "thinky"]

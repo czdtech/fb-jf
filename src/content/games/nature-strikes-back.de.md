@@ -7,7 +7,7 @@ description: >-
   und kombiniere Naturgeister, um das Herz der Natur gegen Wellen von Mucklings
   zu verteidigen.
 iframeSrc: 'https://79gloe1v4okkg.h5games.usercontent.goog/v/6qlhje6nn2bg0/'
-thumbnail: /new-images/nature-strikes-back.png
+thumbnail: /new-images/thumbnails/nature-strikes-back.png
 tags:
   - strategy
   - tower Defense

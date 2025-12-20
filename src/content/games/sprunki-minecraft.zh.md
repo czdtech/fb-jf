@@ -5,7 +5,7 @@ urlstr: "sprunki-minecraft"
 title: "Sprunki Minecraft - 在线玩 Sprunki Minecraft"
 description: "Sprunki Minecraft 证明了创新仍然可以在熟悉的游戏循环中蓬勃发展。如果你正在寻找一种新鲜、极具创意的游戏体验，Sprunki Minecraft 绝对会让你大开眼界！"
 iframeSrc: "https://turbowarp.org/1140459751/embed"
-thumbnail: "/sprunki-minecraft.png"
+thumbnail: /new-images/thumbnails/sprunki-minecraft.png
 score: "4.0/5  (212 票)"
 tags: ["sprunki minecraft"]
 ---

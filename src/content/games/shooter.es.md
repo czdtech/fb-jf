@@ -7,7 +7,7 @@ description: >-
   enfrentas a los animatrónicos del universo FNAF usando todo tipo de armas para
   sobrevivir a oleadas de robots asesinos.
 iframeSrc: "https://bitlifeonline.github.io/fnaf-shooter/"
-thumbnail: "/new-images/shooter.jpg"
+thumbnail: /new-images/thumbnails/shooter.jpg
 tags:
   - horror
   - shooting

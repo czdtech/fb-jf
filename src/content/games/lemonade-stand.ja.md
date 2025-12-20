@@ -2,7 +2,7 @@
 title: "Lemonade Stand"
 description: "クラシックなビジネスシム：価格、レシピ、広告を設定します。カップ/レモン/氷を購入し、天候の変化下で毎日の利益を管理します。"
 iframeSrc: "https://ad-freegames.github.io/flash/game/lemonade-stand.html"
-thumbnail: "/new-images/lemonade-stand.jpg"
+thumbnail: /new-images/thumbnails/lemonade-stand.jpg
 urlstr: "lemonade-stand"
 score: "3.9/5  (232 votes)"
 tags: ["simulation", "tycoon"]

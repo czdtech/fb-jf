@@ -4,7 +4,7 @@ locale: en
 title: "Tanuki Sunset"
 description: "Grab your longboard and cruise into the sunset in Tanuki Sunset! Play as a cool raccoon and master the art of drifting down scenic, synthwave-themed mountainsides. Perform tricks, avoid cars, and collect Tanuki Bits to become a longboarding legend in this stylish arcade game."
 iframeSrc: "https://ubg100.github.io/games/tanuki/index.html"
-thumbnail: "/new-images/tanuki-sunset.jpg"
+thumbnail: /new-images/thumbnails/tanuki-sunset.jpg
 urlstr: "tanuki-sunset"
 score: "4.5/5  (300 votes)"
 tags: ["arcade", "racing", "sports"]

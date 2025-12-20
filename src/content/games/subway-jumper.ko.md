@@ -7,7 +7,7 @@ description: >-
   레인을 바꾸고 점프·슬라이딩 타이밍을 맞춰 점점 빨라지는 지하철 구간을
   오래 버텨 보세요.
 iframeSrc: 'https://34clth7bs1mtg.h5games.usercontent.goog/v/20un142k99goo/'
-thumbnail: /new-images/subway-jumper.png
+thumbnail: /new-images/thumbnails/subway-jumper.png
 tags:
   - action
   - casual

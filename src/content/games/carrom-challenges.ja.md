@@ -2,7 +2,7 @@
 title: "Carrom Challenges"
 description: "Carrom Challengesはキュースポーツの技巧をcarromにもたらします。ストライクを狙い、リバウンドをコントロールし、精度でポケットしましょう。"
 iframeSrc: "https://6m4vq4nu17rto.h5games.usercontent.goog/v/1g4ai19abgj0g/"
-thumbnail: "/new-images/carrom-challenges.png"
+thumbnail: /new-images/thumbnails/carrom-challenges.png
 urlstr: "carrom-challenges"
 score: "4.1/5  (1979 votes)"
 tags: ["sports", "pool", "casual"]

@@ -3,7 +3,7 @@ locale: en
 title: "Merge Pirates"
 description: "Ahoy, captain! Merge cannons, ships, and pirate gear to build a powerful fleet. Fulfill orders, earn gold, and become the most legendary pirate on the seven seas in this addictive merge puzzle game."
 iframeSrc: "https://mergepirates.h5games.usercontent.goog/v/2rugbh8p4845g/"
-thumbnail: "/new-images/merge-pirates.png"
+thumbnail: /new-images/thumbnails/merge-pirates.png
 urlstr: "merge-pirates"
 score: "4.4/5  (2400 votes)"
 tags: ["puzzle", "casual", "clicker"]

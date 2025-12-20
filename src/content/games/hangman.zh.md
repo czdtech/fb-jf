@@ -4,7 +4,7 @@ urlstr: hangman
 title: "《Hangman》经典吊死鬼猜单词"
 description: "《Hangman》是一款经典的英语猜词游戏，通过逐个猜字母来推理出隐藏单词，在小人被画完整之前尽量避免犯太多错误。"
 iframeSrc: 'https://hangman-frontend.coolmathgames.com/home'
-thumbnail: /new-images/hangman.jpg
+thumbnail: /new-images/thumbnails/hangman.jpg
 tags:
   - word
   - puzzle

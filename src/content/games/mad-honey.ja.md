@@ -2,7 +2,7 @@
 title: "Mad Honey"
 description: "Mad Honeyは一口サイズのアーケードアドベンチャーです。蜜を収集し、障害物を回避し、安全に巣箱に戻ります。"
 iframeSrc: "https://49b5cg0v2itto.h5games.usercontent.goog/v/3tun18rhg88eg/"
-thumbnail: "/new-images/mad-honey.png"
+thumbnail: /new-images/thumbnails/mad-honey.png
 urlstr: "mad-honey"
 score: "3.7/5  (1299 votes)"
 tags: ["adventure", "casual"]

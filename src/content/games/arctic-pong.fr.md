@@ -4,7 +4,7 @@ urlstr: arctic-pong
 title: "Arctic Pong"
 description: "Arctic Pong est une version glacée de Pong : contrôle ta raquette, renvoie le palet avec l’angle voulu et marque plus de points que ton adversaire."
 iframeSrc: "https://arcticpong.h5games.usercontent.goog/v/1quekndr8ig0o/"
-thumbnail: /new-images/arctic-pong.png
+thumbnail: /new-images/thumbnails/arctic-pong.png
 tags:
   - 2 player
   - casual

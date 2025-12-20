@@ -3,7 +3,7 @@ locale: en
 title: "Hoop Hero"
 description: "Tap at the right moment to dunk the ball! Test your reflexes in this fast-paced, one-touch basketball game. Time your dunks perfectly to score and achieve a high score."
 iframeSrc: "https://06f80rna6d2sg.h5games.usercontent.goog/v/69kffdfih87r0/"
-thumbnail: "/new-images/hoop-hero.png"
+thumbnail: /new-images/thumbnails/hoop-hero.png
 urlstr: "hoop-hero"
 score: "4.1/5  (1700 votes)"
 tags: ["action", "casual", "clicker", "sports"]

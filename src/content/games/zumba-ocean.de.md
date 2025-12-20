@@ -7,7 +7,7 @@ description: >-
   bilde Dreier‑Kombos und stoppe die Kette, bevor sie die Muschel am Ende
   erreicht.
 iframeSrc: 'https://zumbaocean.h5games.usercontent.goog/v/1gb65icesunig/'
-thumbnail: /new-images/zumba-ocean.png
+thumbnail: /new-images/thumbnails/zumba-ocean.png
 tags:
   - shooting
   - puzzle

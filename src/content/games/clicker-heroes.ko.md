@@ -6,7 +6,7 @@ description: >-
   Clicker Heroes는 몬스터를 처치해 골드를 모으고, 영웅과 고대인을 성장시키며 끝없는 구간을 돌파해 나가는 대표적인 방치형 클릭커
   게임입니다. 첫 Ascension 타이밍부터 고대인 투자 전략까지, 점점 더 강력한 빌드를 만들어 보세요.
 iframeSrc: 'https://cdn.clickerheroes.com/gamebuild/'
-thumbnail: /new-images/clicker-heroes.jpg
+thumbnail: /new-images/thumbnails/clicker-heroes.jpg
 tags:
   - clicker
   - casual

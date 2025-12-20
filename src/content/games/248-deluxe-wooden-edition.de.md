@@ -7,7 +7,7 @@ description: >-
   Holzbrett. Verbinde benachbarte gleiche Zahlen, fusioniere sie zu höheren
   Werten und verwalte den knappen Platz, ohne das Raster zu verstopfen.
 iframeSrc: 'https://0k2rsj4f89nr8.h5games.usercontent.goog/v/03pkkc7ds3qdg/'
-thumbnail: /new-images/248-deluxe-wooden-edition.jpg
+thumbnail: /new-images/thumbnails/248-deluxe-wooden-edition.jpg
 tags:
   - puzzle
   - thinky

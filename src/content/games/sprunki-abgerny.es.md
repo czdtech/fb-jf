@@ -8,7 +8,7 @@ description: >-
   estética tribal con una jugabilidad de creación sonora muy accesible para
   ofrecer algo distinto dentro del universo Sprunki.
 iframeSrc: "https://turbowarp.org/1095335052/embed"
-thumbnail: "/sprunki-abgerny.png"
+thumbnail: /new-images/thumbnails/sprunki-abgerny.png
 tags:
   - sprunki abgerny
 score: 3.9/5  (132 votes)

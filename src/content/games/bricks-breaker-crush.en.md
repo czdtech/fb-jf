@@ -3,7 +3,7 @@ locale: en
 title: "Bricks Breaker Crush"
 description: "Bricks Breaker Crush showers bricks to shatter — aim volleys, stack multipliers, and carve optimal angles through dense fields."
 iframeSrc: "https://7uvo1rchfrhr8.h5games.usercontent.goog/v/4tk6unop5lefg/"
-thumbnail: "/new-images/bricks-breaker-crush.png"
+thumbnail: /new-images/thumbnails/bricks-breaker-crush.png
 urlstr: "bricks-breaker-crush"
 score: "4.0/5  (1906 votes)"
 tags: ["puzzle", "thinky", "casual"]

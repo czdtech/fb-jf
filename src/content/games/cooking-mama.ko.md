@@ -7,7 +7,7 @@ description: >-
   Animals'를 소개합니다. 게임의 탄생 배경과 풍자적인 연출, 공식 시리즈와의 차이,
   그리고 담긴 동물 보호 메시지를 정리한 가이드입니다.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/cooking-mama.html'
-thumbnail: /new-images/cooking-mama.jpg
+thumbnail: /new-images/thumbnails/cooking-mama.jpg
 tags:
   - horror
 score: 4.4/5  (1078 votes)

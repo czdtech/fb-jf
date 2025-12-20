@@ -3,7 +3,7 @@ locale: en
 title: "Western Sniper"
 description: "Western Sniper is a quick‑draw shooter — steady aim, manage sway, and pick priority targets across snappy missions."
 iframeSrc: "https://4oill7a9ltc9g.h5games.usercontent.goog/v/54hea44l6fm4o/"
-thumbnail: "/new-images/western-sniper.png"
+thumbnail: /new-images/thumbnails/western-sniper.png
 urlstr: "western-sniper"
 score: "4.1/5  (2016 votes)"
 tags: ["shooting", "action"]

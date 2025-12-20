@@ -6,7 +6,7 @@ description: >-
   balances ease of use with depth, allowing everyone to enjoy the fun of making
   music.
 iframeSrc: 'https://turbowarp.org/1133167510/embed'
-thumbnail: /sprunki-pyramixed-version.png
+thumbnail: /new-images/thumbnails/sprunki-pyramixed-version.png
 urlstr: sprunki-pyramixed-version
 modType: sprunki
 score: 4.0/5  (254 votes)

@@ -7,7 +7,7 @@ description: >-
   액션 드라이빙 게임입니다. 난장판을 만든 뒤 무사히 탈출할 수 있을까요?
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp44/chenling/20230911/07/index.html
-thumbnail: /new-images/hit-and-run.jpg
+thumbnail: /new-images/thumbnails/hit-and-run.jpg
 tags:
   - action
   - driving

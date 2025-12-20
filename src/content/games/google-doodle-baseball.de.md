@@ -7,7 +7,7 @@ description: >-
   Schwünge, ziele in die Lücken im Feld und sammle so viele Runs wie möglich,
   bevor dir die Outs ausgehen.
 iframeSrc: 'https://freeonlinegames.github.io/fourth-of-july-2019.html'
-thumbnail: /new-images/google-doodle-baseball.jpg
+thumbnail: /new-images/thumbnails/google-doodle-baseball.jpg
 tags:
   - sports
   - arcade

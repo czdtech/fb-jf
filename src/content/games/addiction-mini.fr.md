@@ -4,7 +4,7 @@ urlstr: addiction-mini
 title: "Addiction Mini"
 description: "Addiction Mini est une version compacte du solitaire Addiction où tu réorganises les cartes pour former des suites complètes en planifiant plusieurs coups à l’avance."
 iframeSrc: "https://0lk0u0jb90plo.h5games.usercontent.goog/v/2rppmab9dqneo/"
-thumbnail: /new-images/addiction-mini.jpg
+thumbnail: /new-images/thumbnails/addiction-mini.jpg
 tags:
   - card
   - puzzle

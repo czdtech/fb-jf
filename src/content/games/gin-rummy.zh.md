@@ -6,7 +6,7 @@ description: >-
   線上體驗經典桌遊 Gin Rummy：將手牌組成刻子與順子，在手中剩餘「廢牌」點數足夠低時敲牌結束回合，
   試著在對手手裡留下高分死牌。
 iframeSrc: 'https://ginrummy.h5games.usercontent.goog/v/1sj72j2nsfin0/'
-thumbnail: /new-images/gin-rummy.png
+thumbnail: /new-images/thumbnails/gin-rummy.png
 tags:
   - card
   - puzzle

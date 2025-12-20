@@ -4,7 +4,7 @@ urlstr: tile-puzzle
 title: 《Tile Puzzle》滑块拼图
 description: 《Tile Puzzle》是一款经典滑块拼图游戏。通过移动被打乱的图块，让它们重新排列成完整图片或正确数字顺序。
 iframeSrc: 'https://tilepuzzle.h5games.usercontent.goog/v/2b7n3c1k9d4p0/'
-thumbnail: /new-images/tile-puzzle.png
+thumbnail: /new-images/thumbnails/tile-puzzle.jpg
 tags:
   - puzzle
   - sliding

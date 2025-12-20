@@ -7,7 +7,7 @@ description: >-
   aparcamiento: mueve coches y camiones para abrir camino y sacar el coche rojo
   del estacionamiento abarrotado.
 iframeSrc: 'https://unparkme.h5games.usercontent.goog/v/59baoe1o8mbe0/'
-thumbnail: /new-images/unpark-me.png
+thumbnail: /new-images/thumbnails/unpark-me.png
 tags:
   - puzzle
   - thinky

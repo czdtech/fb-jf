@@ -8,7 +8,7 @@ description: >-
   herramienta de creación musical y ofrece diversión sonora para todas las
   edades.
 iframeSrc: 'https://nom74100.github.io/in-box/'
-thumbnail: /Incredibox.png
+thumbnail: /new-images/thumbnails/incredibox.png
 tags:
   - incredibox
   - incredibox online

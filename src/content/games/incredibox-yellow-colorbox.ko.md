@@ -7,7 +7,7 @@ description: >-
   'Incredibox Yellow Colorbox'를 소개합니다. 각기 다른 사운드를
   가진 캐릭터들을 조합해 나만의 음악을 만드는 방법을 다룹니다.
 iframeSrc: 'https://www.minijuegos.com/embed/incredibox-yellow-colorbox'
-thumbnail: /incredibox-yellow-colorbox.png
+thumbnail: /new-images/thumbnails/incredibox-yellow-colorbox.png
 tags:
   - incredibox yellow colorbox
   - incredibox yellow colorbox online

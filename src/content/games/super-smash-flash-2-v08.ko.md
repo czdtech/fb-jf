@@ -6,7 +6,7 @@ description: >-
   Super Smash Flash 2 v0.8은 여러 게임·애니 캐릭터가 한 무대에서 싸우는 팬 메이드 대전 액션 게임의 구버전입니다. 간단한
   조작으로 최대 4인이 난투를 벌일 수 있습니다.
 iframeSrc: 'https://super-smash-flash-2.h5games.usercontent.goog/v/19c6kf739516g/'
-thumbnail: /new-images/super-smash-flash-2-v08.jpg
+thumbnail: /new-images/thumbnails/super-smash-flash-2-v08.jpg
 tags:
   - fighting
   - action

@@ -3,7 +3,7 @@ locale: en
 title: "Words of Magic"
 description: "Unleash your vocabulary in Words of Magic! Connect letters to form words and fill out the crossword puzzle. A magical and relaxing brain-teaser for word game lovers."
 iframeSrc: "https://5a5rs5ng5rvro.h5games.usercontent.goog/v/4grqmc17b1kc0/"
-thumbnail: "/new-images/words-of-magic.png"
+thumbnail: /new-images/thumbnails/words-of-magic.png
 urlstr: "words-of-magic"
 score: "4.4/5  (2200 votes)"
 tags: ["puzzle", "thinky", "casual"]

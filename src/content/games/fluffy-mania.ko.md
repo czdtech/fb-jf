@@ -4,7 +4,7 @@ urlstr: fluffy-mania
 title: Fluffy Mania 플러피 매니아
 description: 귀여운 털뭉치 캐릭터들을 터치해 제거하는 퍼즐/액션 게임입니다. 같은 색 그룹을 한 번에 없애 높은 점수를 노려 보세요.
 iframeSrc: 'https://fluffymania.h5games.usercontent.goog/v/0dchvfn2f8as0/'
-thumbnail: /new-images/fluffy-mania.jpg
+thumbnail: /new-images/thumbnails/fluffy-mania.png
 tags:
   - puzzle
   - casual

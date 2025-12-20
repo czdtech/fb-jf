@@ -3,7 +3,7 @@ locale: en
 title: "Neon Tower"
 description: "Guide the bouncing ball down the Neon Tower! Rotate the helix platform to find gaps and let the ball fall through, but watch out for the red obstacles. Smash through multiple levels to get a power boost!"
 iframeSrc: "https://2mk3ok3s7jl88.h5games.usercontent.goog/v/39vfhh0oku1j8/"
-thumbnail: "/new-images/neon-tower.png"
+thumbnail: /new-images/thumbnails/neon-tower.png
 urlstr: "neon-tower"
 score: "4.2/5  (2000 votes)"
 tags: ["action", "casual", "clicker"]

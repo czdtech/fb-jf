@@ -4,7 +4,7 @@ urlstr: tricky-puzzles
 title: "Brain Test: Tricky Puzzles"
 description: "Fordere dein Gehirn in Brain Test: Tricky Puzzles heraus – ein Rätselspiel voller Aufgaben, die normale Logik auf den Kopf stellen. Tippen, ziehen, drehen: Denk um die Ecke, um die überraschenden Lösungen zu finden." 
 iframeSrc: 'https://rebemanae.github.io/brain-test-tricky-puzzles/'
-thumbnail: /new-images/tricky-puzzles.jpg
+thumbnail: /new-images/thumbnails/tricky-puzzles.jpg
 tags:
   - puzzle
   - brain-teaser

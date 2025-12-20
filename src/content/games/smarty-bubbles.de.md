@@ -7,7 +7,7 @@ description: >-
   drei oder mehr Blasen derselben Farbe, um sie platzen zu lassen, und leere das
   Feld, bevor die Blasen den unteren Rand erreichen.
 iframeSrc: 'https://smartybubbles.h5games.usercontent.goog/v/09fhbor6rfpv0/'
-thumbnail: /new-images/smarty-bubbles.png
+thumbnail: /new-images/thumbnails/smarty-bubbles.png
 tags:
   - shooting
   - puzzle

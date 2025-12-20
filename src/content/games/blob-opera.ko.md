@@ -7,7 +7,7 @@ description: >-
   실험입니다. 머신러닝으로 만든 성악 음성으로, 악보나 음악 지식 없이도
   화음을 만들어 보세요.
 iframeSrc: 'https://gacembed.withgoogle.com/blob-opera/'
-thumbnail: /new-images/blob-opera.jpg
+thumbnail: /new-images/thumbnails/blob-opera.jpg
 tags:
   - music
   - casual

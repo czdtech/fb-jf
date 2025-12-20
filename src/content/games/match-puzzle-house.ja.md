@@ -2,7 +2,7 @@
 title: "Match Puzzle House"
 description: "Match Puzzle Houseはホームデザイン系のマッチ3です。パズルを解き、報酬で家を改装します。"
 iframeSrc: "https://0mlsg6gqgu1og.h5games.usercontent.goog/v/39j55vlqhgbuo/"
-thumbnail: "/new-images/match-puzzle-house.png"
+thumbnail: /new-images/thumbnails/match-puzzle-house.png
 urlstr: "match-puzzle-house"
 score: "4.2/5  (2089 votes)"
 tags: ["puzzle", "casual", "thinky"]

@@ -2,7 +2,7 @@
 title: "Fiddlebops Sprunkbop - Fiddlebops Sprunkbopをオンラインでプレイ"
 description: "Fiddlebops Sprunkbopは最高のクロスオーバーイベントです！Fiddlebopsの夢中になれる音楽制作のコアはそのままに、オリジナルのキャラクターすべてを象徴的なSprunkiクルーに入れ替えています。"
 iframeSrc: "https://turbowarp.org/1114551059/embed"
-thumbnail: "/fiddlebops-sprunkbop.png"
+thumbnail: /new-images/thumbnails/fiddlebops-sprunkbop.png
 urlstr: "fiddlebops-sprunkbop"
 score: "4.1/5  (308 votes)"
 tags: ["fiddlebops sprunkbop"]

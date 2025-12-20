@@ -4,7 +4,7 @@ urlstr: battleship
 title: "Battleship"
 description: "Bataille navale classique : place ta flotte, devine les coordonnées ennemies et coule chaque navire avant que l’adversaire ne t’expose."
 iframeSrc: "https://cdn.gamesnacks.com/battleship2/gameCode/index.html"
-thumbnail: /new-images/battleship.jpg
+thumbnail: /new-images/thumbnails/battleship.jpg
 tags:
   - strategy
   - casual

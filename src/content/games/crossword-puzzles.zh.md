@@ -7,7 +7,7 @@ description: >-
   向提示完成网格，并通过主题词条体验紧密关联的词汇玩法。
 iframeSrc: >-
   https://ams.cdn.arkadiumhosted.com/assets/global/game/best-free-themed-puzzles/
-thumbnail: /new-images/crossword-puzzles.jpg
+thumbnail: /new-images/thumbnails/crossword-puzzles.jpg
 tags:
   - word
   - puzzle

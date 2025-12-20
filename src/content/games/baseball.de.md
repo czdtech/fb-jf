@@ -7,7 +7,7 @@ description: >-
   Erfahre, wie du spielst, Home Runs triffst, die Steuerung nutzt und häufige
   Fragen klärst.
 iframeSrc: 'https://freeonlinegames.github.io/fourth-of-july-2019.html'
-thumbnail: /new-images/baseball.jpg
+thumbnail: /new-images/thumbnails/baseball.jpg
 tags:
   - casual
   - sports

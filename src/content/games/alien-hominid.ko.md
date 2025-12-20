@@ -7,7 +7,7 @@ description: >-
   높은 난이도, 손그림 스타일의 아트가 특징입니다. 이 가이드는 스테이지 공략,
   조작법, FAQ를 통해 도전적인 2D 액션을 정복하는 데 도움을 줍니다.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/alien-hominid.html'
-thumbnail: /new-images/alien-hominid.jpg
+thumbnail: /new-images/thumbnails/alien-hominid.jpg
 tags:
   - shooting
   - action

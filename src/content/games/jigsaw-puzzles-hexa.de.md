@@ -7,7 +7,7 @@ description: >-
   Teile, um wunderschöne HD-Bilder zu vervollständigen – entspannend und
   zugleich knifflig für jedes Alter.
 iframeSrc: 'https://jigsawpuzzleshexa.h5games.usercontent.goog/v/5e9bm1tuf1me0/'
-thumbnail: /new-images/jigsaw-puzzles-hexa.jpg
+thumbnail: /new-images/thumbnails/jigsaw-puzzles-hexa.jpg
 tags:
   - puzzle
   - casual

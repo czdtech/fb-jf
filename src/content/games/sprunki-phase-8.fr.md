@@ -7,7 +7,7 @@ description: >-
   esthétique horrifique, idéale pour composer des morceaux sombres et
   atmosphériques.
 iframeSrc: 'https://turbowarp.org/1140266189/embed'
-thumbnail: /sprunki-phase-8.png
+thumbnail: /new-images/thumbnails/sprunki-phase-8.png
 tags:
   - sprunki phase 8
 score: 4.2/5  (396 votes)

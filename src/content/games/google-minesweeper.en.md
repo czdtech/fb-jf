@@ -4,7 +4,7 @@ locale: en
 title: "Google Minesweeper"
 description: "Classic logic puzzle: clear the grid without triggering mines by deducing safe cells from numbered clues and flags." 
 iframeSrc: "https://www.minesweepergoogle.com/gameapp.html"
-thumbnail: "/new-images/google-minesweeper.jpg"
+thumbnail: /new-images/thumbnails/google-minesweeper.jpg
 urlstr: "google-minesweeper"
 score: "4.7/5  (181 votes)"
 tags: ["puzzle", "logic"]

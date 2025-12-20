@@ -2,7 +2,7 @@
 title: Zombie Ragdoll
 description: Zombie Ragdollは、物理ベースのゾンビゲームです。ゾンビをラグドール物理で倒しましょう。
 iframeSrc: 'https://ubg98.github.io/ZombieRagdoll/'
-thumbnail: /new-images/zombie-ragdoll.jpg
+thumbnail: /new-images/thumbnails/zombie-ragdoll.jpg
 urlstr: zombie-ragdoll
 score: 4.3/5  (2456 votes)
 tags:

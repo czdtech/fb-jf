@@ -4,7 +4,7 @@ locale: en
 title: "Alien Hominid"
 description: "The ultimate guide for the classic run-and-gun shooter, Alien Hominid. Find detailed strategies, controls, and FAQs to help you master this challenging side-scroller from The Behemoth."
 iframeSrc: "https://ad-freegames.github.io/flash/game/alien-hominid.html"
-thumbnail: "/new-images/alien-hominid.jpg"
+thumbnail: /new-images/thumbnails/alien-hominid.jpg
 urlstr: "alien-hominid"
 score: "5.0/5  (126 votes)"
 tags: ["shooting", "action"]

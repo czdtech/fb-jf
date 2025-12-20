@@ -3,7 +3,7 @@ locale: en
 title: "Tower Crash 3D"
 description: "Demolish colorful towers in this satisfying 3D physics game. Shoot balls that match the blocks' color to cause epic collapses, but be strategic—you have limited shots!"
 iframeSrc: "https://towercrash3d.h5games.usercontent.goog/v/7c54afc1-3ca4-4121-a52a-9ea74e30f0d7/"
-thumbnail: "/new-images/tower-crash-3d.jpg"
+thumbnail: /new-images/thumbnails/tower-crash-3d.jpg
 urlstr: "tower-crash-3d"
 score: "4.3/5  (2100 votes)"
 tags: ["action", "shooting", "puzzle"]

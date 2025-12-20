@@ -7,7 +7,7 @@ description: >-
   Zug mit möglichst wenigen Kurven und ohne Spritverschwendung sicher zum
   Ausgang.
 iframeSrc: 'https://7r2vmm5fqv830.h5games.usercontent.goog/v/3ubj960lc0t4o/'
-thumbnail: /new-images/train-miner.png
+thumbnail: /new-images/thumbnails/train-miner.png
 tags:
   - puzzle
   - thinky

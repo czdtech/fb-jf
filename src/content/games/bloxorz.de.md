@@ -7,7 +7,7 @@ description: >-
   über schmale Plattformen, nutze Schalter, teile den Block in zwei Teile und
   rolle ihn vorsichtig in das Zielloch.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/bloxorz.html'
-thumbnail: /new-images/bloxorz.jpg
+thumbnail: /new-images/thumbnails/bloxorz.jpg
 tags:
   - casual
   - rhythm

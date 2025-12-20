@@ -7,7 +7,7 @@ description: >-
   이용해 적을 따돌리고, 과일을 모두 모아 미로를 탈출해 보세요.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210128/x5/index.html
-thumbnail: /new-images/bad-ice-cream-3.jpg
+thumbnail: /new-images/thumbnails/bad-ice-cream-3.jpg
 tags:
   - puzzle
   - casual

@@ -6,7 +6,7 @@ description: >-
   겨울·얼음 테마로 재해석한 팬메이드 모드 'Incredibox Cool As Ice' 가이드입니다. 차가운 비주얼과 사운드를 활용해 계절감
   있는 믹스를 만드는 방법과 모드의 특징을 정리했습니다.
 iframeSrc: 'https://turbowarp.org/1108441752/embed'
-thumbnail: /incredibox-cool-as-ice.png
+thumbnail: /new-images/thumbnails/incredibox-cool-as-ice.png
 tags:
   - incredibox cool as ice
   - incredibox cool as ice online

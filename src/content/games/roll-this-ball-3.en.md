@@ -3,7 +3,7 @@ locale: en
 title: "Roll This Ball"
 description: "A classic sliding puzzle that will test your logic. Slide the wooden blocks to create a clear path for the ball to roll from the start to the goal."
 iframeSrc: "https://rollthisball3.h5games.usercontent.goog/v/65vs8rm7dfjno/"
-thumbnail: "/new-images/roll-this-ball-3.png"
+thumbnail: /new-images/thumbnails/roll-this-ball-3.png
 urlstr: "roll-this-ball-3"
 score: "4.4/5  (2550 votes)"
 tags: ["puzzle", "thinky", "casual"]

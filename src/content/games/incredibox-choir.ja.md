@@ -2,7 +2,7 @@
 title: "Incredibox Choir"
 description: "ボーカルアレンジと合唱音楽に焦点を当てたファンメイドMod、Incredibox Choirの調和の世界を探索しましょう。"
 iframeSrc: "https://turbowarp.org/1034584392/embed"
-thumbnail: "/new-images/incredibox-choir.png"
+thumbnail: /new-images/thumbnails/incredibox-choir.png
 urlstr: "incredibox-choir"
 score: "4.6/5 (1254 votes)"
 tags: ["music", "vocal", "casual"]

@@ -3,7 +3,7 @@ locale: en
 title: "Ghost Pro Racing"
 description: "Ghost Pro Racing is a time‑trial racer — chase ghost replays, perfect lines, and shave tenths with consistent inputs."
 iframeSrc: "https://52v00umba6lko.h5games.usercontent.goog/v/46gechg282a6g/"
-thumbnail: "/new-images/ghost-pro-racing.jpg"
+thumbnail: /new-images/thumbnails/ghost-pro-racing.jpg
 urlstr: "ghost-pro-racing"
 score: "3.9/5  (1711 votes)"
 tags: ["car", "driving", "sports"]

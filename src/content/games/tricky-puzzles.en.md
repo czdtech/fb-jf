@@ -4,7 +4,7 @@ locale: en
 title: "Brain Test: Tricky Puzzles"
 description: "Challenge your brain with Brain Test: Tricky Puzzles, a mind-bending game that defies conventional logic! Solve unique riddles and puzzles by tapping, dragging, and even rotating your device. Think outside the box and explore every possibility to find the surprising solutions."
 iframeSrc: "https://rebemanae.github.io/brain-test-tricky-puzzles/"
-thumbnail: "/new-images/tricky-puzzles.jpg"
+thumbnail: /new-images/thumbnails/tricky-puzzles.jpg
 urlstr: "tricky-puzzles"
 score: "4.1/5  (713 votes)"
 tags: ["puzzle", "brain-teaser", "logic"]

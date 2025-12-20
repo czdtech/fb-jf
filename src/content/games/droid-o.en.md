@@ -3,7 +3,7 @@ locale: en
 title: "Droid-O"
 description: "Droid-O is a tight top‑down arena shooter — kite waves, chain ability synergies, and survive escalating threats with precise movement."
 iframeSrc: "https://6r2lv8eg0tif8.h5games.usercontent.goog/v/56d4ef8srjpfg/"
-thumbnail: "/new-images/droid-o.png"
+thumbnail: /new-images/thumbnails/droid-o.png
 urlstr: "droid-o"
 score: "4.0/5  (1789 votes)"
 tags: ["action", "shooting"]

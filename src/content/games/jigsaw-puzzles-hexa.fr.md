@@ -6,7 +6,7 @@ description: >-
   Jigsaw Puzzles Hexa remplace les pièces classiques par des grappes d'hexagones
   : place‑les au bon endroit sans rotation pour compléter l'illustration.
 iframeSrc: 'https://jigsawpuzzleshexa.h5games.usercontent.goog/v/5gp9p7s2tt3l8/'
-thumbnail: /new-images/jigsaw-puzzles-hexa.png
+thumbnail: /new-images/thumbnails/jigsaw-puzzles-hexa.jpg
 tags:
   - puzzle
   - casual

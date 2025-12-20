@@ -5,7 +5,7 @@ title: Bad Ice-Cream 坏坏冰淇淋
 description: 《Bad Ice-Cream（坏坏冰淇淋）》是系列初代作品，你要操控“坏坏冰淇淋”穿梭在 40 个冰雪迷宫中，通过建造/打碎冰块来躲避怪物、吃掉所有水果。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210128/x4/index.html
-thumbnail: /new-images/bad-ice-cream.jpg
+thumbnail: /new-images/thumbnails/bad-ice-cream.jpg
 tags:
   - casual
   - puzzle

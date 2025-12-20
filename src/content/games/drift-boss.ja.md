@@ -2,7 +2,7 @@
 title: Drift Boss ドリフト・ボス
 description: 「Drift Boss」はワンボタン操作の爽快ドリフトゲーム。タイミングよく曲がり、コースから落ちないように走り続けてコインを集めよう。
 iframeSrc: 'https://ubg98.github.io/DriftBoss/'
-thumbnail: /new-images/drift-boss.jpg
+thumbnail: /new-images/thumbnails/drift-boss.jpg
 urlstr: drift-boss
 score: 3.7/5  (679 votes)
 tags:

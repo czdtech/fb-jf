@@ -7,7 +7,7 @@ description: >-
   Sprunki: todos los personajes han sido invadidos por una misteriosa “salsa de
   mostaza”, creando una experiencia musical tan caótica como divertida.
 iframeSrc: "https://turbowarp.org/1153723334/embed"
-thumbnail: "/yojou-sprunki-mustard.png"
+thumbnail: /new-images/thumbnails/yojou-sprunki-mustard.png
 tags:
   - yojou sprunki mustard
 score: 4.5/5  (322 votes)

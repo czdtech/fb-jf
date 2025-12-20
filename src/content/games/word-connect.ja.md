@@ -2,7 +2,7 @@
 title: Word Connect
 description: Word Connectは、単語つなぎパズルゲームです。文字をつないで単語を作りましょう。
 iframeSrc: 'https://ubg98.github.io/WordConnect/'
-thumbnail: /new-images/word-connect.jpg
+thumbnail: /new-images/thumbnails/word-connect.jpg
 urlstr: word-connect
 score: 4.4/5  (2876 votes)
 tags:

@@ -5,7 +5,7 @@ title: "《Minesweeper》扫雷益智游戏"
 description: >-
   《Minesweeper》是一款经典单人益智游戏，你需要在提示数字的帮助下推理出所有隐藏地雷的位置，在不引爆地雷的前提下，安全翻开整块棋盘。
 iframeSrc: 'https://freeonlinegames.github.io/games/minesweeper/'
-thumbnail: /new-images/minesweeper.jpg
+thumbnail: /new-images/thumbnails/minesweeper.jpg
 tags:
   - puzzle
   - strategy

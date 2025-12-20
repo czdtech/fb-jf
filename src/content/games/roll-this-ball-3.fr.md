@@ -4,7 +4,7 @@ urlstr: roll-this-ball-3
 title: Roll This Ball
 description: "Un classique du puzzle coulissant qui mettra ta logique à l'épreuve\_: fais glisser les blocs en bois pour créer un chemin continu entre le départ et l'arrivée et laisser la bille rouler jusqu'au but."
 iframeSrc: 'https://rollthisball3.h5games.usercontent.goog/v/65vs8rm7dfjno/'
-thumbnail: /new-images/roll-this-ball-3.png
+thumbnail: /new-images/thumbnails/roll-this-ball-3.png
 tags:
   - puzzle
   - thinky

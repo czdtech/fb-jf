@@ -2,7 +2,7 @@
 title: "Breaking the Bank ブレーキング・ザ・バンク"
 description: "伝説の棒人間アドベンチャー「Breaking the Bank」！銀行強盗を企むヘンリー・スティックミンの運命を選べ。成功への道はたった一つ、他は全て爆笑の失敗のみ。"
 iframeSrc: "https://rebemanae.github.io/breaking-the-bank/"
-thumbnail: "/new-images/breaking-the-bank.jpg"
+thumbnail: /new-images/thumbnails/breaking-the-bank.jpg
 urlstr: "breaking-the-bank"
 score: "4.7/5  (1071 votes)"
 tags: ["puzzle", "adventure"]

@@ -7,7 +7,7 @@ description: >-
   von der Steinzeit bis in die Zukunft, setze Spezialfähigkeiten ein und
   vernichte die gegnerische Basis.
 iframeSrc: 'https://turbowarp.org/414716080/embed'
-thumbnail: /new-images/age-of-war.jpg
+thumbnail: /new-images/thumbnails/incredibox-fruity.jpg
 tags:
   - strategy
   - action

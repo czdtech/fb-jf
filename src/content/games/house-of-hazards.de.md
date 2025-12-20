@@ -7,7 +7,7 @@ description: >-
   Fallen, während deine Freunde Gefahren auslösen, um dich aus dem Konzept zu
   bringen.
 iframeSrc: 'https://webglmath.github.io/house-of-hazards/'
-thumbnail: /new-images/house-of-hazards.jpg
+thumbnail: /new-images/thumbnails/house-of-hazards.jpg
 tags:
   - party
   - multiplayer

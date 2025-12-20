@@ -7,7 +7,7 @@ description: >-
   리듬/뮤직 비디오 제작 게임입니다. 개성 강한 캐릭터와 악기를 조합해 나만의
   뮤직 비디오를 연출할 수 있습니다.
 iframeSrc: 'https://turbowarp.org/1075503895/embed'
-thumbnail: /sprunki-dandys-world.png
+thumbnail: /new-images/thumbnails/sprunki-dandys-world.png
 tags:
   - sprunki dandy
 score: 4.4/5  (304 votes)

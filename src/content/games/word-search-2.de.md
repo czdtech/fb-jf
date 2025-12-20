@@ -6,7 +6,7 @@ description: >-
   Der Wortsuch‑Klassiker: Finde alle versteckten Wörter im Buchstabengitter –
   waagerecht, senkrecht, diagonal und sogar rückwärts.
 iframeSrc: 'https://wordsearch.h5games.usercontent.goog/v/6abe3eefqt368/'
-thumbnail: /new-images/word-search-2.jpg
+thumbnail: /new-images/thumbnails/word-search-2.jpg
 tags:
   - puzzle
   - thinky

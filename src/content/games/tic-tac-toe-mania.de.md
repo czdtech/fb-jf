@@ -4,7 +4,7 @@ urlstr: tic-tac-toe-mania
 title: "Tic Tac Toe Mania"
 description: "Tic Tac Toe Mania bringt das Klassiker‑Duell auf Tempo: setze Gabeln, blocke Drohungen und erzwinge Remis oder Sieg – je nach Variante auch auf größeren Brettern."
 iframeSrc: 'https://7dcsid310v1u8.h5games.usercontent.goog/v/13cfdat69ufug/'
-thumbnail: /new-images/tic-tac-toe-mania.png
+thumbnail: /new-images/thumbnails/tic-tac-toe-mania.png
 tags:
   - 2 player
   - thinky

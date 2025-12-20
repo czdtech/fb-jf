@@ -7,7 +7,7 @@ description: >-
   du Kacheln mit gleichen Motiven sammelst und kombinierst, ohne dass dein
   Ablagebereich überläuft.
 iframeSrc: 'https://4h72h3ha1dnh0.h5games.usercontent.goog/v/4mrusdmqik1l8/'
-thumbnail: /new-images/polymatch.png
+thumbnail: /new-images/thumbnails/polymatch.png
 tags:
   - puzzle
   - thinky

@@ -7,7 +7,7 @@ description: >-
   10×10‑Raster, fülle komplette Reihen und räume sie vom Brett – wie weit
   kommst du, bevor der Platz ausgeht?
 iframeSrc: 'https://51vi4vae20f8o.h5games.usercontent.goog/v/66bqinuuh36b8/'
-thumbnail: /new-images/blockdrop.png
+thumbnail: /new-images/thumbnails/blockdrop.png
 tags:
   - puzzle
   - thinky

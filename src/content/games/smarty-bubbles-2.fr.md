@@ -4,7 +4,7 @@ urlstr: smarty-bubbles-2
 title: Smarty Bubbles 2
 description: "Le shooter de bulles addictif est de retour\_! Vise, tire et associe les bulles colorées pour nettoyer le plateau. Planifie bien tes tirs pour éviter de faire apparaître de nouvelles rangées."
 iframeSrc: 'https://smartybubbles2.h5games.usercontent.goog/v/1u280qojm9oq0/'
-thumbnail: /new-images/smarty-bubbles-2.png
+thumbnail: /new-images/thumbnails/smarty-bubbles-2.png
 tags:
   - shooting
   - puzzle

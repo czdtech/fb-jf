@@ -4,7 +4,7 @@ urlstr: ladybug-jump
 title: 《Ladybug Jump》瓢虫跳跳乐
 description: 《Ladybug Jump》是一款明快的弹跳平台游戏，你要控制小瓢虫在树叶和蘑菇之间跳跃，踩准节奏收集花蜜，同时躲开水坑和蜘蛛等危险。
 iframeSrc: 'https://1rtviun5s8hc0.h5games.usercontent.goog/v/2ajo6kl7ue0a0/'
-thumbnail: /new-images/ladybug-jump.png
+thumbnail: /new-images/thumbnails/ladybug-jump.png
 tags:
   - action
   - casual

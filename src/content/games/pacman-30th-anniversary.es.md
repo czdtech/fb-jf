@@ -8,7 +8,7 @@ description: >-
   come todos los puntos y potenciadores y esquiva a los fantasmas en este
   clásico tan nostálgico como adictivo.
 iframeSrc: 'https://pacman-30thanniversary.com/game/doodle-pacman/pacman.html'
-thumbnail: /new-images/pacman-30th-anniversary.jpg
+thumbnail: /new-images/thumbnails/pacman-30th-anniversary.jpg
 tags:
   - arcade
   - classic

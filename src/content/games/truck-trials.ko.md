@@ -6,7 +6,7 @@ description: >-
   거친 오프로드 코스를 강력한 트럭으로 돌파하는 주행 게임입니다. 속도보다는 균형과 가속을 섬세하게
   조절해 전복이나 짐 손실 없이 결승선까지 도착하는 것이 목표입니다.
 iframeSrc: 'https://trucktrials.h5games.usercontent.goog/v/4u5cado14l780/'
-thumbnail: /new-images/truck-trials.png
+thumbnail: /new-images/thumbnails/truck-trials.png
 tags:
   - driving
   - action

@@ -6,7 +6,7 @@ description: >-
   Sprunki Rotrizi 5.0은 글리치 효과와 딥 베이스 왜곡을 전면에 내세운 고급형 스프룽키 음악 믹싱 모드입니다. 다층 레이어와
   강한 왜곡 사운드로 실험적인 전자음악을 만들어 볼 수 있습니다.
 iframeSrc: 'https://turbowarp.org/1126764795/embed'
-thumbnail: /sprunki-rotrizi-5.png
+thumbnail: /new-images/thumbnails/sprunki-rotrizi-5.png
 tags:
   - sprunki rotrizi 5.0
 score: 4.0/5  (232 votes)

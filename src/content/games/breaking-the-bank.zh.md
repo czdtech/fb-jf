@@ -6,7 +6,7 @@ description: >-
   《Breaking the Bank》是“神偷亨利”（Henry Stickmin）系列的开端，以互动动画 + 多结局选择的形式，讲述亨利第
   一次尝试打劫银行却屡战屡败的搞笑故事。
 iframeSrc: 'https://ad-freegames.github.io/flash/game/breaking-the-bank.html'
-thumbnail: /new-images/breaking-the-bank.jpg
+thumbnail: /new-images/thumbnails/breaking-the-bank.jpg
 tags:
   - adventure
   - puzzle

@@ -6,7 +6,7 @@ description: >-
   2D 物理蹦跳角鬥遊戲：自訂裝備，掌握突刺與招架時機，
   在各個競技場模式中一路爬升排名。
 iframeSrc: 'https://m.igroutka.ru/g-1/113/Gladihoppers/'
-thumbnail: /new-images/gladihoppers.jpg
+thumbnail: /new-images/thumbnails/gladihoppers.jpg
 tags:
   - fighting
   - action

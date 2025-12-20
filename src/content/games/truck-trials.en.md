@@ -3,7 +3,7 @@ locale: en
 title: "Truck Trials"
 description: "Test your driving skills in Truck Trials, an off-road driving game where you navigate challenging courses with powerful trucks."
 iframeSrc: "https://trucktrials.h5games.usercontent.goog/v/4u5cado14l780/"
-thumbnail: "/new-images/truck-trials.png"
+thumbnail: /new-images/thumbnails/truck-trials.png
 urlstr: "truck-trials"
 score: "4.1/5 (1123 votes)"
 tags: ["driving", "action", "sports"]

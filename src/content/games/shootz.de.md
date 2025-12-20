@@ -7,7 +7,7 @@ description: >-
   Kreaturen kämpfst. Mit einem Arsenal an Waffen stellst du dich immer
   stärkeren Gegnerwellen und versuchst, im Kugelhagel zu überleben.
 iframeSrc: 'https://g.igroutka.ru/games/17/9IsudOxakgP0EVKC/shootz/'
-thumbnail: /new-images/shootz.jpg
+thumbnail: /new-images/thumbnails/shootz.jpg
 tags:
   - shooting
   - action

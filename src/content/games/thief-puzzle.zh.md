@@ -4,7 +4,7 @@ urlstr: thief-puzzle
 title: 《Thief Puzzle》长臂小偷解谜
 description: 《Thief Puzzle》是一款恶作剧风格的“伸手”解谜游戏。控制可伸缩的长臂，在不触发机关和警报的前提下，绕过陷阱偷走目标物品。
 iframeSrc: 'https://5mubkj30k8998.h5games.usercontent.goog/v/79n1cktk92370/'
-thumbnail: /new-images/thief-puzzle.png
+thumbnail: /new-images/thumbnails/thief-puzzle.png
 tags:
   - puzzle
   - thinky

@@ -3,7 +3,7 @@ title: Stickman Hook
 description: >-
   Stickman Hookは、スティックマンがフックでスイングして進むアーケードゲームです。タイミングと勢いを使ってゴールを目指します。
 iframeSrc: 'https://ubg98.github.io/StickmanHook/'
-thumbnail: /new-images/stickman-hook.jpg
+thumbnail: /new-images/thumbnails/stickman-hook.jpg
 urlstr: stickman-hook
 score: 4.5/5  (3892 votes)
 tags:

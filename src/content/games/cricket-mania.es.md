@@ -6,7 +6,7 @@ description: >-
   Cricket Mania es un juego rápido de bateo de críquet: elige el tipo de golpe,
   ajusta la sincronización y persigue el objetivo entrada a entrada.
 iframeSrc: 'https://73lnk17f84iog.h5games.usercontent.goog/v/1p7sdm5buflt0/'
-thumbnail: /new-images/cricket-mania.png
+thumbnail: /new-images/thumbnails/cricket-mania.png
 tags:
   - sports
   - casual

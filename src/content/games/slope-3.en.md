@@ -6,7 +6,7 @@ description: >-
   enhanced graphics and new challenging obstacles as players guide a ball down
   an endless slope while avoiding deadly barriers and red blocks.
 iframeSrc: 'https://games-online.io/game/Slope3/'
-thumbnail: /new-images/slope-3.jpg
+thumbnail: /new-images/thumbnails/slope-3.jpg
 urlstr: slope-3
 score: 4.6/5  (1420 votes)
 tags:

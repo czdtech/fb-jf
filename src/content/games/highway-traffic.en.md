@@ -4,7 +4,7 @@ locale: en
 title: "Highway Traffic"
 description: "First‑person lane‑splitter: weave through highway cars, complete missions, and earn cash for vehicles and upgrades." 
 iframeSrc: "https://app-97317.games.s3.yandex.net/97317/zr27uqx4qauq31fg2ud41a7oye9c4dki/index.html"
-thumbnail: "/new-images/highway-traffic.jpg"
+thumbnail: /new-images/thumbnails/highway-traffic.jpg
 urlstr: "highway-traffic"
 score: "4.5/5  (188 votes)"
 tags: ["driving", "traffic"]

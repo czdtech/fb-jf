@@ -2,7 +2,7 @@
 title: Differences Find Quest 間違い探しクエスト
 description: 「Differences Find Quest」はこだわりの間違い探しゲーム。2つの絵を見比べて、巧妙に隠された違いを見つけ出そう。
 iframeSrc: 'https://4rsldln0df32g.h5games.usercontent.goog/v/1hcmcbpl76s40/'
-thumbnail: /new-images/differences-find-quest.png
+thumbnail: /new-images/thumbnails/differences-find-quest.png
 urlstr: differences-find-quest
 score: 4.0/5  (1876 votes)
 tags:

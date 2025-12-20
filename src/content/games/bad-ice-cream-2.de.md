@@ -8,7 +8,7 @@ description: >-
   blockieren.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210128/x6/index.html
-thumbnail: /new-images/bad-ice-cream-2.jpg
+thumbnail: /new-images/thumbnails/bad-ice-cream-2.jpg
 tags:
   - puzzle
   - action

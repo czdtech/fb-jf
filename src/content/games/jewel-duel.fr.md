@@ -6,7 +6,7 @@ description: >-
   Jewel Duel mêle match‑3 et RPG : fais des alignements pour lancer des
   attaques, utiliser des sorts et vaincre tes ennemis.
 iframeSrc: 'https://jewelduel.h5games.usercontent.goog/v/0amcst86ob7po/'
-thumbnail: /new-images/jewel-duel.png
+thumbnail: /new-images/thumbnails/jewel-duel.jpg
 tags:
   - puzzle
   - rpg

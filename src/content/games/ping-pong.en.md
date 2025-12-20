@@ -4,7 +4,7 @@ locale: en
 title: "Ping Pong"
 description: "Ping Pong is a classic arcade sports game where two players control paddles to hit a ball back and forth across a screen, aiming to score points by making the opponent miss the ball."
 iframeSrc: "https://ranimania.com/Games/pingpong/ping_pong/"
-thumbnail: "/new-images/ping-pong.jpg"
+thumbnail: /new-images/thumbnails/ping-pong.jpg
 urlstr: "ping-pong"
 score: "4.6/5  (193 votes)"
 tags: ["arcade", "sports", "classic"]

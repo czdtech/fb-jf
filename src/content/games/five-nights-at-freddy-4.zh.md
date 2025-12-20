@@ -6,7 +6,7 @@ description: >-
   臥室場景的惡夢生存：專心聽呼吸與腳步聲，管理房門與衣櫃，
   聰明使用手電筒，才能把夜晚的夢魘擋在門外。
 iframeSrc: 'https://ubg77.github.io/fix/fnaf2/fnaf4.html'
-thumbnail: /new-images/five-nights-at-freddy-4.jpg
+thumbnail: /new-images/thumbnails/five-nights-at-freddy-4.jpg
 tags:
   - horror
   - strategy

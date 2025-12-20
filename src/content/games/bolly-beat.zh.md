@@ -4,7 +4,7 @@ urlstr: bolly-beat
 title: Bolly Beat 宝莱坞节奏
 description: 《Bolly Beat 宝莱坞节奏》是一款节奏轻快的敲击音乐游戏，跟随宝莱坞风格的动感鼓点，在正确节拍点击打出连击 与高分。
 iframeSrc: 'https://bollybeat.h5games.usercontent.goog/v/4k75msiudusn0/'
-thumbnail: /new-images/bolly-beat.jpg
+thumbnail: /new-images/thumbnails/bolly-beat.jpg
 tags:
   - casual
   - action

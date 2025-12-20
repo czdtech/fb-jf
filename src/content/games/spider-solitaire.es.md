@@ -8,7 +8,7 @@ description: >-
   Limpia el tablero para ganar en este puzle estratégico que pone a
   prueba tu planificación y tu visión a largo plazo.
 iframeSrc: "https://www.squidbyte.com/games_third/spider/en/spider-solitaire-halloween/"
-thumbnail: "/new-images/spider-solitaire.jpg"
+thumbnail: /new-images/thumbnails/spider-solitaire.jpg
 tags:
   - card-game
   - puzzle

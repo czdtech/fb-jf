@@ -7,7 +7,7 @@ description: >-
   mezcla el mundo extravagante de Pikmin con la magia rítmica de Sprunki y
   Incredibox.
 iframeSrc: 'https://img.sprunki.net/game/pikmin-no-sprunki.html'
-thumbnail: /pikmin-no-sprunki.png
+thumbnail: /new-images/thumbnails/pikmin-no-sprunki.png
 tags:
   - pikmin no sprunki
 score: 4.0/5  (89 votes)

@@ -7,7 +7,7 @@ description: >-
   núcleo giratorio sin chocar, y en algunos modos además acertar en el color
   correcto bajo presión.
 iframeSrc: 'https://6jgggrkjibvs0.h5games.usercontent.goog/v/7qaps53r4bt10/'
-thumbnail: /new-images/color-pin.png
+thumbnail: /new-images/thumbnails/color-pin.png
 tags:
   - puzzle
   - casual

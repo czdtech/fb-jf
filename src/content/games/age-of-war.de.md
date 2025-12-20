@@ -9,7 +9,7 @@ description: >-
   sie deine vernichtet.
 iframeSrc: >-
   https://app-196716.games.s3.yandex.net/196716/h5h3xwa1kxsz7wcma59tvvmko0zorc80/index.html
-thumbnail: /new-images/age-of-war.jpg
+thumbnail: /new-images/thumbnails/age-of-war.jpg
 tags:
   - strategy
   - action

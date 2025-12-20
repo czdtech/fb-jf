@@ -3,7 +3,7 @@ locale: en
 title: "Tangram Puzzle"
 description: "Tangram Puzzle is a classic dissection challenge — fit seven tans to fill silhouettes with rotation‑only logic and spatial insight."
 iframeSrc: "https://38lbr23ak5hn8.h5games.usercontent.goog/v/3v2lg4sb2v3ug/"
-thumbnail: "/new-images/tangram-puzzle.jpg"
+thumbnail: /new-images/thumbnails/tangram-puzzle.jpg
 urlstr: "tangram-puzzle"
 score: "4.3/5  (2091 votes)"
 tags: ["puzzle", "thinky"]

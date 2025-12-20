@@ -7,7 +7,7 @@ description: >-
   lleno de magia donde Dandy y su banda te guían por escenarios sonoros
   sorprendentes mientras compones tus propias mezclas.
 iframeSrc: 'https://turbowarp.org/1114551059/embed'
-thumbnail: /fiddlebops-but-dandys-world.png
+thumbnail: /new-images/thumbnails/fiddlebops-but-dandys-world.png
 tags:
   - fiddlebops but dandy
 score: 4.6/5  (27 votes)

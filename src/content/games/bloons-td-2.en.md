@@ -4,7 +4,7 @@ locale: en
 title: "Bloons TD 2"
 description: "Experience the classic Bloons TD 2! Place and upgrade five unique monkey towers to defend against 50 waves of balloons, and master the strategy needed to counter immune Black and White bloons."
 iframeSrc: "https://1000freegames.github.io/swf/bloons-td-2.html"
-thumbnail: "/new-images/bloons-td-2.jpg"
+thumbnail: /new-images/thumbnails/bloons-td-2.jpg
 urlstr: "bloons-td-2"
 score: "4.9/5  (574 votes)"
 tags: ["casual", "strategy"]

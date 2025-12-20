@@ -2,7 +2,7 @@
 title: "Cricket Hero クリケット・ヒーロー"
 description: "「Cricket Hero」でバッティングの天才になろう。タイミングよくバットを振って、ボールを打ち返し、クリケットの伝説として高得点を叩き出せ。"
 iframeSrc: "https://crickethero.h5games.usercontent.goog/v/7cnfq54s3ilao/"
-thumbnail: "/new-images/cricket-hero.jpg"
+thumbnail: /new-images/thumbnails/cricket-hero.jpg
 urlstr: "cricket-hero"
 score: "4.3/5  (2109 votes)"
 tags: ["sports", "action", "casual"]

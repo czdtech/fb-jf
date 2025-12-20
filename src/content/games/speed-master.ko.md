@@ -7,7 +7,7 @@ description: >-
   화면을 가로지르는 표시가 판정선과 겹치는 순간에 정확히 눌러 콤보를 이어 가고,
   점점 빨라지는 속도 속에서도 침착함을 유지해야 합니다.
 iframeSrc: 'https://6e0ej8ct9hdj8.h5games.usercontent.goog/v/1fssfmqquil18/'
-thumbnail: /new-images/speed-master.png
+thumbnail: /new-images/thumbnails/speed-master.png
 tags:
   - action
   - casual

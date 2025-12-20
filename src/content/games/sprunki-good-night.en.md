@@ -6,7 +6,7 @@ description: >-
   mind after a tired day. Come to Sprunki Good Night and use gentle and peaceful
   beats to create a perfect lullaby and welcome sweet dreams!
 iframeSrc: 'https://turbowarp.org/1178264025/embed'
-thumbnail: /sprunki-good-night.png
+thumbnail: /new-images/thumbnails/sprunki-good-night.png
 urlstr: sprunki-good-night
 modType: sprunki
 score: 4.2/5  (227 votes)

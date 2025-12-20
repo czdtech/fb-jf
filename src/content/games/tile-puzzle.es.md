@@ -7,7 +7,7 @@ description: >-
   tres fichas idénticas para eliminarlas del tablero y planifica cada jugada
   para no desbordar la bandeja de colección.
 iframeSrc: 'https://5u9qhnk84v07g.h5games.usercontent.goog/v/2h3elehja73a8/'
-thumbnail: /new-images/tile-puzzle.jpg
+thumbnail: /new-images/thumbnails/tile-puzzle.jpg
 tags:
   - puzzle
   - casual

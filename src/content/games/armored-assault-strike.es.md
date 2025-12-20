@@ -7,7 +7,7 @@ description: >-
   blindado, gestiona enfriamientos y habilidades y destruye oleadas de enemigos
   sin exponerte demasiado.
 iframeSrc: 'https://2fr3rldr11rpg.h5games.usercontent.goog/v/2pn2tgakfpecg/'
-thumbnail: /new-images/armored-assault-strike.png
+thumbnail: /new-images/thumbnails/armored-assault-strike.png
 tags:
   - shooting
   - action

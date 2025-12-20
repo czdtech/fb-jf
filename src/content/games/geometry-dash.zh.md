@@ -6,7 +6,7 @@ description: >-
   別再管那些花俏裝飾了。這不是普通的 Geometry Dash 關卡，
   而是一段純粹、只剩波形模式的地獄試煉，用來打碎你的手感，再把你鍛造成真正的波形高手。
 iframeSrc: 'https://turbowarp.org/1185431027/embed'
-thumbnail: /geometry-dash.png
+thumbnail: /new-images/thumbnails/geometry-dash.png
 tags:
   - geometry dash
 score: 4.5/5  (604 votes)

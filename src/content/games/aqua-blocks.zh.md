@@ -6,7 +6,7 @@ description: >-
   《Aqua
   Blocks（水元素方块）》是一款带有水纹视觉效果的方块填充游戏，你需要将给定的形状摆放在棋盘上，通过连成整行或整块来清除空间、保持棋盘“能呼吸”。
 iframeSrc: 'https://1uerepsm8tbpg.h5games.usercontent.goog/v/3st9sicdd4eu0/'
-thumbnail: /new-images/aqua-blocks.png
+thumbnail: /new-images/thumbnails/aqua-blocks.png
 tags:
   - puzzle
   - thinky

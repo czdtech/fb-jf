@@ -7,7 +7,7 @@ description: >-
   chinesischen Mahjong-Steinen, bei dem du identische freie Paare finden musst,
   um das Spielfeld zu leeren.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-mahjong/'
-thumbnail: /new-images/mahjong.jpg
+thumbnail: /new-images/thumbnails/mahjong.jpg
 tags:
   - board game
   - puzzle

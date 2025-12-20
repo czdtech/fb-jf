@@ -7,7 +7,7 @@ description: >-
   Tausche Kuchen, bilde Reihen und löse Spezial-Kombos aus, um die Levelziele
   zu erreichen.
 iframeSrc: 'https://41la6sld9ed88.h5games.usercontent.goog/v/36d90atplnu7o/'
-thumbnail: /new-images/cake-smash.png
+thumbnail: /new-images/thumbnails/cake-smash.png
 tags:
   - puzzle
   - casual

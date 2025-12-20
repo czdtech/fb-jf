@@ -8,7 +8,7 @@ description: >-
   coupes parfaites et collecter des récompenses tout en traversant des
   parcours remplis d’obstacles.
 iframeSrc: 'https://bitlifeonline.github.io/slice-master/'
-thumbnail: /new-images/slice-master.jpg
+thumbnail: /new-images/thumbnails/slice-master.jpg
 tags:
   - physics
   - action

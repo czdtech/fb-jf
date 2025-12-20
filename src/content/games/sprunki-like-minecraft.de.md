@@ -4,7 +4,7 @@ urlstr: sprunki-like-minecraft
 title: "Sprunki Like Minecraft - Sprunki Like Minecraft online spielen"
 description: "Du liebst Incredibox Sprunki und gleichzeitig die Pixelwelt von Minecraft? Dann ist der Mod Sprunki Like Minecraft wie für dich gemacht: Er verbindet Sprunki-Gameplay mit Block-Optik und lässt Noten direkt im Minecraft-Stil aufeinanderprallen."
 iframeSrc: 'https://turbowarp.org/1095572358/embed'
-thumbnail: /sprunki-like-minecraft.png
+thumbnail: /new-images/thumbnails/sprunki-like-minecraft.png
 tags:
   - sprunki like minecraft
 score: 4.6/5  (601 votes)

@@ -7,7 +7,7 @@ description: >-
   educativo de los 90. Aprende a conseguir los cuadernos, usar los objetos,
   esquivar a Baldi y a los demás personajes y escapar de la escuela.
 iframeSrc: 'https://html5.iclouds.io/baldis-basics/index.html'
-thumbnail: /new-images/baldis-basics.jpg
+thumbnail: /new-images/thumbnails/baldis-basics.jpg
 tags:
   - puzzle
   - horror

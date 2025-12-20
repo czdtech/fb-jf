@@ -3,7 +3,7 @@ locale: en
 title: "Parking Jam"
 description: "Parking Jam is a spatial slider — move cars in sequence, free the exit lane, and solve compact lots with minimal moves."
 iframeSrc: "https://4knmpq6joecbg.h5games.usercontent.goog/v/1uamg2frss2qg/"
-thumbnail: "/new-images/parking-jam.png"
+thumbnail: /new-images/thumbnails/parking-jam.png
 urlstr: "parking-jam"
 score: "4.2/5  (2031 votes)"
 tags: ["puzzle", "thinky"]

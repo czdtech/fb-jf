@@ -6,7 +6,7 @@ description: >-
   He Likes The Darkness ist ein düsterer Platformer: Navigiere durch dunkle
   Levels, sammle Sphären und timinge präzise Sprünge an tödlichen Fallen vorbei.
 iframeSrc: 'https://77gr97nn0bej0.h5games.usercontent.goog/v/0emki8kk9qofo/'
-thumbnail: /new-images/he-likes-the-darkness.png
+thumbnail: /new-images/thumbnails/he-likes-the-darkness.png
 tags:
   - action
   - puzzle

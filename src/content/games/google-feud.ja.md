@@ -2,7 +2,7 @@
 title: "Google Feud"
 description: "アンケートスタイルの推測ゲーム：最も人気のある検索クエリでオートコンプリートのプロンプトを完成させ、ストライクアウトせずにラウンドを勝ち進みましょう。"
 iframeSrc: "https://mac-web.github.io/macvg/projects/google-feud/game.html"
-thumbnail: "/new-images/google-feud.jpg"
+thumbnail: /new-images/thumbnails/google-feud.jpg
 urlstr: "google-feud"
 score: "4.3/5  (511 votes)"
 tags: ["trivia", "quiz"]

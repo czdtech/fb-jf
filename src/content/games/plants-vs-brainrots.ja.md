@@ -2,7 +2,7 @@
 title: Plants vs Brainrots
 description: Plants vs Brainrotsはタワーディフェンスゲームです。植物を配置してブレインロットの波から庭を守り、防御をアップグレードします。
 iframeSrc: 'https://plantsvsbrainrots.h5games.usercontent.goog/v/5k9j2m8h7p3n8/'
-thumbnail: /new-images/plants-vs-brainrots.png
+thumbnail: /new-images/thumbnails/plants-vs-brainrots.jpg
 urlstr: plants-vs-brainrots
 score: 4.0/5  (1723 votes)
 tags:

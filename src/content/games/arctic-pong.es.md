@@ -7,7 +7,7 @@ description: >-
   el disco con distintos ángulos y controla el ritmo del intercambio para
   superar a tu rival.
 iframeSrc: 'https://arcticpong.h5games.usercontent.goog/v/1quekndr8ig0o/'
-thumbnail: /new-images/arctic-pong.png
+thumbnail: /new-images/thumbnails/arctic-pong.png
 tags:
   - 2 player
   - casual

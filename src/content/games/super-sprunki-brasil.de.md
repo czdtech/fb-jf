@@ -8,7 +8,7 @@ description: >-
   entfachen. Komm und tritt Super Sprunki Brasil bei und nutze deine Musik, um
   die Leidenschaft und Vitalität Brasiliens in die Welt zu tragen!
 iframeSrc: 'https://turbowarp.org/1080827660/embed'
-thumbnail: /super-sprunki-brasil.png
+thumbnail: /new-images/thumbnails/super-sprunki-brasil.png
 tags:
   - super sprunki brasil
   - super sprunki brasil online

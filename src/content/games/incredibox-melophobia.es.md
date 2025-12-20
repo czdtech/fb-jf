@@ -7,7 +7,7 @@ description: >-
   samples extraños, y esta guía da consejos para desbloquear sus bonus animados
   más bizarros.
 iframeSrc: 'https://turbowarp.org/1110167821/embed'
-thumbnail: /new-images/incredibox-melophobia.png
+thumbnail: /new-images/thumbnails/incredibox-melophobia.png
 tags:
   - music
   - rhythm

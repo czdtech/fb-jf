@@ -7,7 +7,7 @@ description: >-
   instrumentos al escenario y una paleta de música del mundo ecléctica para
   crear una orquesta puramente instrumental.
 iframeSrc: 'https://turbowarp.org/1040856097/embed'
-thumbnail: /new-images/incredibox-instrumentalist.png
+thumbnail: /new-images/thumbnails/incredibox-instrumentalist.png
 tags:
   - music
   - sandbox

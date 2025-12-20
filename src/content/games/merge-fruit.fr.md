@@ -4,7 +4,7 @@ urlstr: "merge-fruit"
 title: "Merge Fruit"
 description: "Merge Fruit est un puzzle juteux de chute et de fusion : combine des fruits identiques, gère la hauteur des piles et prépare des cascades pour décrocher de gros scores."
 iframeSrc: "https://3eltb7i874s60.h5games.usercontent.goog/v/28f34ighqoh10/"
-thumbnail: "/new-images/merge-fruit.png"
+thumbnail: /new-images/thumbnails/merge-fruit.png
 tags: ["puzzle", "thinky", "casual"]
 score: "4.1/5  (1957 votes)"
 developer: ""

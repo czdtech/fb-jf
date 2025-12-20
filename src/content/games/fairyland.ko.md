@@ -6,7 +6,7 @@ description: >-
   아기자기한 동화 풍 장면을 탐험하며 가벼운 퍼즐을 푸는 어드벤처 게임입니다.
   숨은 물건을 찾고 스위치를 작동시켜 천천히 목표를 완수해 보세요.
 iframeSrc: 'https://66ts484uf5r18.h5games.usercontent.goog/v/1nt4ffhi7k9jo/'
-thumbnail: /new-images/fairyland.png
+thumbnail: /new-images/thumbnails/fairyland.png
 tags:
   - adventure
   - puzzle

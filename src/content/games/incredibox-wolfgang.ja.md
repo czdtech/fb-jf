@@ -2,7 +2,7 @@
 title: "Incredibox Wolfgang"
 description: "クラシック音楽とモーツァルトを祝うファン作成モッド『Incredibox Wolfgang』を探索しましょう。このガイドでは、オーケストラサウンドパレット、エレガントな曲を作曲するためのゲームプレイ、18世紀テーマのボーナスのアンロック方法を詳しく説明します。"
 iframeSrc: "https://turbowarp.org/943197191/embed"
-thumbnail: "/new-images/incredibox-wolfgang.png"
+thumbnail: /new-images/thumbnails/incredibox-wolfgang.png
 urlstr: "incredibox-wolfgang"
 score: "4.8/5 (2451 votes)"
 tags: ["music", "classical", "rhythm"]

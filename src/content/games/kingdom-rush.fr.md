@@ -7,7 +7,7 @@ description: >-
   types de tours, invoque des renforts et lance des sorts pour stopper les
   hordes.
 iframeSrc: 'https://kingdomrush.h5games.usercontent.goog/v/3ud93sm56g710/'
-thumbnail: /new-images/kingdom-rush.png
+thumbnail: /new-images/thumbnails/kingdom-rush.jpg
 tags:
   - strategy
   - tower defense

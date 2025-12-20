@@ -4,7 +4,7 @@ urlstr: cricket-mania
 title: Cricket Mania
 description: "Cricket Mania condense le cricket en défis de batting rapides\_: lis chaque lancer, choisis ton tir et poursuis les objectifs de score."
 iframeSrc: 'https://6m4vq4nu17rto.h5games.usercontent.goog/v/1gcjh6v2j0ltg/'
-thumbnail: /new-images/cricket-mania.png
+thumbnail: /new-images/thumbnails/cricket-mania.png
 tags:
   - sports
   - casual

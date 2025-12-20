@@ -3,7 +3,7 @@ locale: en
 title: "Totemia: Cursed Marbles"
 description: "A classic marble shooter puzzle! Shoot marbles from your tiki stone to create matches of three or more, and destroy the entire chain before it reaches the end of the path."
 iframeSrc: "https://totemiacursed.h5games.usercontent.goog/v/2hs7lfvsisr48/"
-thumbnail: "/new-images/totemia-cursed-marbles.png"
+thumbnail: /new-images/thumbnails/totemia-cursed-marbles.png
 urlstr: "totemia-cursed-marbles"
 score: "4.5/5  (2750 votes)"
 tags: ["shooting", "puzzle", "action"]

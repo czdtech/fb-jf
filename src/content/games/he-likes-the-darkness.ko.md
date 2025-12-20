@@ -7,7 +7,7 @@ description: >-
   시야가 제한된 스테이지에서 점프 타이밍과 함정 패턴을 읽어, 위험을 피해
   골인 지점까지 도달하세요.
 iframeSrc: 'https://77gr97nn0bej0.h5games.usercontent.goog/v/0emki8kk9qofo/'
-thumbnail: /new-images/he-likes-the-darkness.png
+thumbnail: /new-images/thumbnails/he-likes-the-darkness.png
 tags:
   - action
   - puzzle

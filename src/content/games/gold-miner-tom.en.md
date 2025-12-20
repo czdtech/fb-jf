@@ -3,7 +3,7 @@ locale: en
 title: "Gold Miner Tom"
 description: "Help Tom get rich! A classic gold miner game where you cast your claw to grab gold nuggets, gems, and other treasures. Reach the level goal before time runs out!"
 iframeSrc: "https://goldminertom.h5games.usercontent.goog/v/5l8d724in1pco/"
-thumbnail: "/new-images/gold-miner-tom.png"
+thumbnail: /new-images/thumbnails/gold-miner-tom.png
 urlstr: "gold-miner-tom"
 score: "4.3/5  (2200 votes)"
 tags: ["action", "casual", "clicker"]

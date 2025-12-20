@@ -8,7 +8,7 @@ description: >-
   el bosque de día y resiste 99 noches contra criaturas que acechan en la
   oscuridad.
 iframeSrc: 'https://st.8games.net/7/8g/igra-99-nochej-v-lesu-101-original/'
-thumbnail: /new-images/99-nights-in-the-forest.webp
+thumbnail: /new-images/thumbnails/99-nights-in-the-forest.webp
 tags:
   - horror
   - survival

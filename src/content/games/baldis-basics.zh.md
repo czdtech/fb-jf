@@ -5,7 +5,7 @@ title: "Baldi's Basics バルディ先生の教育＆ホラー"
 description: >-
   《Baldi's Basics（バルディ先生の教育＆ホラー）》是一款看起来像 90 年代低成本教育游戏、实际却是恶搞向生存ホラー的作品。下面是关于收集笔记本、道具使用、角色机制和逃出校园的完整攻略。
 iframeSrc: 'https://html5.iclouds.io/baldis-basics/index.html'
-thumbnail: /new-images/baldis-basics.jpg
+thumbnail: /new-images/thumbnails/baldis-basics.jpg
 tags:
   - puzzle
   - horror

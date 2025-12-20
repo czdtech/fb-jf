@@ -4,7 +4,7 @@ urlstr: subway-jumper
 title: 《Subway Jumper》地铁跑酷跳跃
 description: 《Subway Jumper》是一款横版跑酷+跳跃闯关游戏。你要在地铁轨道与月台之间奔跑、跳跃、躲避列车和障碍，安全抵达终点。
 iframeSrc: 'https://subwayjumper.h5games.usercontent.goog/v/6m4h0c2g8d1p0/'
-thumbnail: /new-images/subway-jumper.jpg
+thumbnail: /new-images/thumbnails/subway-jumper.png
 tags:
   - running
   - platformer

@@ -7,7 +7,7 @@ description: >-
   frische Sounds und eine aufgepeppte Audio‑Optik treffen auf das vertraute,
   einfache Drag‑and‑Drop‑Musik‑Gameplay.
 iframeSrc: 'https://turbowarp.org/1114188520/embed'
-thumbnail: /ayocs-sprunkr.png
+thumbnail: /new-images/thumbnails/ayocs-sprunkr.png
 tags:
   - ayocs sprunkr
 score: 4.1/5  (54 votes)

@@ -7,7 +7,7 @@ description: >-
   populares que dio el público a distintas preguntas a lo largo de varias rondas
   y la fase de Fast Money.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/family-feud/'
-thumbnail: /new-images/family-feud.jpg
+thumbnail: /new-images/thumbnails/family-feud.jpg
 tags:
   - trivia
   - quiz

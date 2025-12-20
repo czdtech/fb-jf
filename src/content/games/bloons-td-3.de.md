@@ -7,7 +7,7 @@ description: >-
   Nutze acht verschiedene Türme, den starken Monkey Beacon und bereite dich auf
   den ersten MOAB‑Blimp der Reihe vor.
 iframeSrc: 'https://1000freegames.github.io/swf/bloons-td-3.html'
-thumbnail: /new-images/bloons-td-3.jpg
+thumbnail: /new-images/thumbnails/bloons-td-3.jpg
 tags:
   - casual
   - strategy

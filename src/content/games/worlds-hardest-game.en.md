@@ -4,7 +4,7 @@ locale: en
 title: "World's Hardest Game"
 description: "World's Hardest Game is an extremely challenging arcade game where players control a red square to navigate through levels filled with moving blue circles, requiring precise timing and patience to avoid obstacles and reach the goal."
 iframeSrc: "https://ad-freegames.github.io/flash/game/the-worlds-hardest-game.html"
-thumbnail: "/new-images/worlds-hardest-game.jpg"
+thumbnail: /new-images/thumbnails/worlds-hardest-game.jpg
 urlstr: "worlds-hardest-game"
 score: "4.9/5  (1070 votes)"
 tags: ["difficulty", "arcade", "precision"]

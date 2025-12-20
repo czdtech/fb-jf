@@ -7,7 +7,7 @@ description: >-
   schwierige Spares ab und jag deinem Highscore hinterher – mit realistischer
   Physik und einfacher Steuerung.
 iframeSrc: 'https://2tm5ud1ghg66o.h5games.usercontent.goog/v/6ifi8lgb3gv0g/'
-thumbnail: /new-images/super-bowling-mania.png
+thumbnail: /new-images/thumbnails/super-bowling-mania.png
 tags:
   - sports
   - 2 player

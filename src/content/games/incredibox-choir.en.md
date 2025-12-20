@@ -4,7 +4,7 @@ modType: incredibox
 title: "Incredibox Choir"
 description: "Explore the harmonious world of Incredibox Choir, a fan-made mod focusing on vocal arrangements and choral music."
 iframeSrc: "https://turbowarp.org/1034584392/embed"
-thumbnail: "/new-images/incredibox-choir.png"
+thumbnail: /new-images/thumbnails/incredibox-choir.png
 urlstr: "incredibox-choir"
 score: "4.6/5 (1254 votes)"
 tags: ["music", "vocal", "casual"]

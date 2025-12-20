@@ -7,7 +7,7 @@ description: >-
   Plane deine Schüsse, nutze die Wände für Abpraller und lasse große
   Blasencluster fallen, um einen Höchstscore zu knacken.
 iframeSrc: 'https://www.bubbleshooter-new.com/'
-thumbnail: /new-images/bubble-shooter.jpg
+thumbnail: /new-images/thumbnails/bubble-shooter.jpg
 tags:
   - casual
   - puzzle

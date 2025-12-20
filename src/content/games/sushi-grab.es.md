@@ -6,7 +6,7 @@ description: >-
   Sushi Grab es un arcade rápido de cinta transportadora: elige el sushi
   correcto, esquiva trampas y alcanza la puntuación objetivo.
 iframeSrc: 'https://sushigrab.h5games.usercontent.goog/v/0ehlec2inmmrg/'
-thumbnail: /new-images/sushi-grab.png
+thumbnail: /new-images/thumbnails/sushi-grab.png
 tags:
   - casual
   - thinky

@@ -7,7 +7,7 @@ description: >-
   Point‑and‑Click‑Abenteuer: Löse Umgebungsrätsel, aktiviere Mechanismen und
   führe ihn durch knifflige Level bis zur Zielflagge.
 iframeSrc: 'https://www.friv.com/z/games/wheely/index-x.html'
-thumbnail: /new-images/wheely.jpg
+thumbnail: /new-images/thumbnails/wheely.jpg
 tags:
   - puzzle
   - adventure

@@ -4,7 +4,7 @@ urlstr: carrom-challenges
 title: Carrom Challenges 卡罗姆挑战
 description: 《Carrom Challenges 卡罗姆挑战》以桌上卡罗姆为核心，通过设计各类练习与挑战关卡，考验你用 Striker 击打棋子 入袋的精度与角度控制。
 iframeSrc: 'https://carromchallenges.h5games.usercontent.goog/v/42tup4vbvgto0/'
-thumbnail: /new-images/carrom-challenges.png
+thumbnail: /new-images/thumbnails/carrom-challenges.png
 tags:
   - sports
   - puzzle

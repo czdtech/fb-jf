@@ -4,7 +4,7 @@ urlstr: "mad-honey"
 title: "Mad Honey"
 description: "Mad Honey est une petite aventure arcade : collecte du nectar, évite les dangers et reviens sain et sauf à la ruche."
 iframeSrc: "https://49b5cg0v2itto.h5games.usercontent.goog/v/3tun18rhg88eg/"
-thumbnail: "/new-images/mad-honey.png"
+thumbnail: /new-images/thumbnails/mad-honey.png
 tags: ["adventure", "casual"]
 score: "3.7/5  (1299 votes)"
 developer: ""

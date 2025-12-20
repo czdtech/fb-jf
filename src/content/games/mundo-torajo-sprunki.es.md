@@ -7,7 +7,7 @@ description: >-
   con la creatividad rítmica de la plataforma Sprunki, para que desates tu
   imaginación mientras juegas.
 iframeSrc: 'https://turbowarp.org/1096623350/embed'
-thumbnail: /mundo-torajo-sprunki.png
+thumbnail: /new-images/thumbnails/mundo-torajo-sprunki.png
 tags:
   - mundo torajo sprunki
 score: 4.0/5  (112 votes)

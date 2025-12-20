@@ -6,7 +6,7 @@ description: >-
   우주·SF 분위기의 앰비언트 일렉트로닉 사운드를 담은 팬메이드 모드 'Incredibox Riser' 가이드입니다. 코즈믹 신스와 서서히
   고조되는 트랙을 만드는 방법을 소개합니다.
 iframeSrc: 'https://turbowarp.org/966510261/embed'
-thumbnail: /new-images/incredibox-riser.png
+thumbnail: /new-images/thumbnails/incredibox-riser.png
 tags:
   - music
   - electronic

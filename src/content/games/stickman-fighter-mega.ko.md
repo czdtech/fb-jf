@@ -7,7 +7,7 @@ description: >-
   액션 게임입니다. 적의 공격을 받아치고 콤보와 스페셜 스킬로 몰려오는 적
   물결을 쓸어 버리세요.
 iframeSrc: 'https://0f2fr1ttejsng.h5games.usercontent.goog/v/6dfsqbbtglo48/'
-thumbnail: /new-images/stickman-fighter-mega.jpg
+thumbnail: /new-images/thumbnails/stickman-fighter-mega.jpg
 tags:
   - stickman
   - action

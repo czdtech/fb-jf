@@ -7,7 +7,7 @@ description: >-
   de musée en choisissant parmi des options totalement barrées, avec de
   nombreuses fins possibles.
 iframeSrc: 'https://www.gamenora.com/upload/games/swf/stealing-the-diamond/'
-thumbnail: /new-images/stealing-the-diamond.jpg
+thumbnail: /new-images/thumbnails/stealing-the-diamond.jpg
 tags:
   - adventure
   - point and click

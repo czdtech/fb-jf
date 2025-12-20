@@ -6,7 +6,7 @@ description: >-
   마법 책 속에서 글자를 이어 단어를 만드는 워드 퍼즐 게임입니다. 원형에 배치된 알파벳을 연결해 단어를 찾고, 십자말풀이 보드를 채우며
   차분하게 어휘 실력을 키워 보세요.
 iframeSrc: 'https://5a5rs5ng5rvro.h5games.usercontent.goog/v/4grqmc17b1kc0/'
-thumbnail: /new-images/words-of-magic.png
+thumbnail: /new-images/thumbnails/words-of-magic.png
 tags:
   - puzzle
   - thinky

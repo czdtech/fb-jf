@@ -6,7 +6,7 @@ description: >-
   기발한 퍼즐과 모험 요소가 결합된 Brain Test 3: Tricky Quests입니다.
   아이템을 모으고 사용하며 아버지를 구하기 위한 Alyx의 여정을 따라가 보세요.
 iframeSrc: 'https://bitlifeonline.github.io/brain-test-3-tricky-quests/'
-thumbnail: /new-images/3-tricky-quests.jpg
+thumbnail: /new-images/thumbnails/3-tricky-quests.jpg
 tags:
   - casual
   - rhythm

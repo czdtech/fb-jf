@@ -2,7 +2,7 @@
 title: "Jewel Legend"
 description: "宝石を入れ替えてそろえるマッチ3パズルです。連鎖や特殊宝石を活用して、各レベルの目標を達成します。"
 iframeSrc: "https://jewellegend.h5games.usercontent.goog/v/36cb1hitjsa3o/"
-thumbnail: "/new-images/jewel-legend.png"
+thumbnail: /new-images/thumbnails/jewel-legend.png
 urlstr: "jewel-legend"
 score: "4.5/5  (3100 votes)"
 tags: ["puzzle", "casual", "action"]

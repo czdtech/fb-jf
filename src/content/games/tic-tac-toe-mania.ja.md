@@ -2,7 +2,7 @@
 title: Tic Tac Toe Mania
 description: Tic Tac Toe Maniaは、クラシックな三目並べゲームの拡張版です。様々なモードと難易度で楽しめます。
 iframeSrc: 'https://ubg98.github.io/TicTacToeMania/'
-thumbnail: /new-images/tic-tac-toe-mania.jpg
+thumbnail: /new-images/thumbnails/tic-tac-toe-mania.png
 urlstr: tic-tac-toe-mania
 score: 4.3/5  (2345 votes)
 tags:

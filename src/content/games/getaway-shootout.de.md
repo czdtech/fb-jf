@@ -7,7 +7,7 @@ description: >-
   Zweitakt zur Fluchtzone, sammle schräge Waffen ein und trickse Rivalen im
   Solo- oder 2-Spieler-Modus aus.
 iframeSrc: 'https://ubg44.github.io/GetawayShootout/'
-thumbnail: /new-images/getaway-shootout.jpg
+thumbnail: /new-images/thumbnails/getaway-shootout.jpg
 tags:
   - action
   - multiplayer

@@ -4,7 +4,7 @@ urlstr: jetpack-joyride
 title: "《Jetpack Joyride》喷气背包狂奔"
 description: "《Jetpack Joyride》是一款高能侧滚式跑酷游戏，你通过长按上升、松手下降，在电击器、导弹和激光之间穿梭收集金币，驾驶各种载具并完成任务解锁小工具与外观。"
 iframeSrc: 'https://slope-game.github.io/rungame/jetpack-joyride/'
-thumbnail: /new-images/jetpack-joyride.jpg
+thumbnail: /new-images/thumbnails/jetpack-joyride.jpg
 tags:
   - runner
   - arcade

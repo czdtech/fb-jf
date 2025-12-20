@@ -6,7 +6,7 @@ description: >-
   Ant and block puzzle ist ein entspanntes Block‑Puzzlespiel. Platziere Formen
   geschickt, fülle Reihen oder Bereiche und vermeide Sackgassen auf dem Brett.
 iframeSrc: 'https://6f5e193l1nhig.h5games.usercontent.goog/v/2bgjgmrog0tgg/'
-thumbnail: /new-images/ant-and-block-puzzle.png
+thumbnail: /new-images/thumbnails/ant-and-block-puzzle.png
 tags:
   - puzzle
   - thinky

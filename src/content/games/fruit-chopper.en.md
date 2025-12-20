@@ -3,7 +3,7 @@ locale: en
 title: "Fruit Chopper"
 description: "Sharpen your blades for Fruit Chopper! Slice through a barrage of flying fruits while avoiding dangerous bombs. How high can you score?"
 iframeSrc: "https://1cgb9ogmd6780.h5games.usercontent.goog/v/37g4pe88slmfo/"
-thumbnail: "/new-images/fruit-chopper.png"
+thumbnail: /new-images/thumbnails/fruit-chopper.png
 urlstr: "fruit-chopper"
 score: "4.2/5  (2345 votes)"
 tags: ["action", "casual", "flash"]

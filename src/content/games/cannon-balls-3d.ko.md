@@ -6,7 +6,7 @@ description: >-
   Cannon Balls 3D는 대포를 조준해 다양한 구조물을 부수는 3D 물리 퍼즐 게임입니다. 약점을 노려 제한된 탄환만으로 건물을
   무너뜨리고, 시원한 붕괴 연출을 즐겨 보세요.
 iframeSrc: 'https://cannonballs3d.h5games.usercontent.goog/v/004m7ejm69rs0/'
-thumbnail: /new-images/cannon-balls-3d.png
+thumbnail: /new-images/thumbnails/cannon-balls-3d.png
 tags:
   - shooting
   - puzzle

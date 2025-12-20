@@ -2,7 +2,7 @@
 title: "Five Nights at Freddy's 4 (FNAF 4)"
 description: "寝室での悪夢サバイバル：呼吸音に耳を澄まし、ドアとクローゼットを管理し、懐中電灯を賢く使って夜の恐怖を食い止めましょう。"
 iframeSrc: "https://ubg77.github.io/fix/fnaf2/fnaf4.html"
-thumbnail: "/new-images/five-nights-at-freddy-4.jpg"
+thumbnail: /new-images/thumbnails/five-nights-at-freddy-4.jpg
 urlstr: "five-nights-at-freddy-4"
 score: "4.9/5  (625 votes)"
 tags: ["horror", "strategy"]

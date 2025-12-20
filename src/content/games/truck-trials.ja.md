@@ -2,7 +2,7 @@
 title: Truck Trials
 description: Truck Trialsは、トラックトライアルゲームです。でこぼこのコースを走破してゴールを目指しましょう。
 iframeSrc: 'https://ubg98.github.io/TruckTrials/'
-thumbnail: /new-images/truck-trials.jpg
+thumbnail: /new-images/thumbnails/truck-trials.png
 urlstr: truck-trials
 score: 4.4/5  (2654 votes)
 tags:

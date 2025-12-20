@@ -5,7 +5,7 @@ urlstr: "incredibox-sprunksters"
 title: "Incredibox Sprunksters - 在线畅玩 Incredibox Sprunksters"
 description: "告别千篇一律的声音！Incredibox Sprunksters 带来全新的采样和效果，让你的音乐感觉独特而富有创意。"
 iframeSrc: "https://turbowarp.org/1129395199/embed"
-thumbnail: "/incredibox-sprunksters.png"
+thumbnail: /new-images/thumbnails/incredibox-sprunksters.png
 score: "4.3/5  (185 票)"
 tags: ["incredibox sprunksters"]
 ---

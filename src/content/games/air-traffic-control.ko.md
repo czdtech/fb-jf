@@ -6,7 +6,7 @@ description: >-
   공중에서 항공기들을 안전하게 분리하고 착륙 순서를 관리하는 관제 퍼즐
   게임입니다. 항로를 지정해 충돌을 피하고 부드러운 착륙 흐름을 만들어 보세요.
 iframeSrc: 'https://2nuk1jh1nvsq8.h5games.usercontent.goog/v/5glj0btngbu2o/'
-thumbnail: /new-images/air-traffic-control.png
+thumbnail: /new-images/thumbnails/air-traffic-control.png
 tags:
   - thinky
   - puzzle

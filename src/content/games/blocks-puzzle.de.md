@@ -7,7 +7,7 @@ description: >-
   Aufgabe ist es, unterschiedlich geformte Blöcke in ein 10×10‑Raster zu
   setzen, Linien zu füllen und Platz zu schaffen.
 iframeSrc: 'https://6ljls661l4lkg.h5games.usercontent.goog/v/1mil2011qbul0/'
-thumbnail: /new-images/blocks-puzzle.jpg
+thumbnail: /new-images/thumbnails/blocks-puzzle.jpg
 tags:
   - puzzle
   - casual

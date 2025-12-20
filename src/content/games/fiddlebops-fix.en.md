@@ -5,7 +5,7 @@ description: >-
   Fiddlebops Fix is a creative music game where players compose tracks, explore
   interactive stories, and engage with a vibrant community, all for free online.
 iframeSrc: 'https://turbowarp.org/1131610529/embed'
-thumbnail: /fiddlebops-polos.png
+thumbnail: /new-images/thumbnails/fiddlebops-fix.png
 urlstr: fiddlebops-fix
 modType: fiddlebops
 score: 4.6/5  (217 votes)

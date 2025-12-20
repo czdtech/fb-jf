@@ -7,7 +7,7 @@ description: >-
   malin : repère les schémas, varie tes stratégies et devance tes adversaires
   sur des manches en plusieurs manches gagnantes.
 iframeSrc: 'https://0o2ssijd98lgg.h5games.usercontent.goog/v/39t01692a4rs8/'
-thumbnail: /new-images/rock-paper-scissors-dojo.png
+thumbnail: /new-images/thumbnails/rock-paper-scissors-dojo.png
 tags:
   - casual
   - 2 player

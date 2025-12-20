@@ -3,7 +3,7 @@ locale: en
 title: "Minigolf Clash"
 description: "Minigolf Clash serves creative putt‑putt puzzles — read slopes, bank shots, and sink pars on quirky courses."
 iframeSrc: "https://7a8e5urbht3f8.h5games.usercontent.goog/v/2ptudqjkva98g/"
-thumbnail: "/new-images/minigolf-clash.png"
+thumbnail: /new-images/thumbnails/minigolf-clash.png
 urlstr: "minigolf-clash"
 score: "4.0/5  (1711 votes)"
 tags: ["sports", "puzzle", "casual"]

@@ -7,7 +7,7 @@ description: >-
   deine Linien und feile mit konstanten Inputs Zehntelsekunden von deinen
   Rundenzeiten ab.
 iframeSrc: 'https://52v00umba6lko.h5games.usercontent.goog/v/46gechg282a6g/'
-thumbnail: /new-images/ghost-pro-racing.jpg
+thumbnail: /new-images/thumbnails/ghost-pro-racing.jpg
 tags:
   - car
   - driving

@@ -7,7 +7,7 @@ description: >-
   groupe d'objets, en testant ton sens du détail et ta logique de
   catégorisation.
 iframeSrc: 'https://oddoneout.h5games.usercontent.goog/v/50nqosk9lm28o/'
-thumbnail: /new-images/odd-one-out.jpg
+thumbnail: /new-images/thumbnails/odd-one-out.jpg
 tags:
   - puzzle
   - thinky

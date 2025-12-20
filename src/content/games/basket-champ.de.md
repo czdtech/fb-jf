@@ -6,7 +6,7 @@ description: >-
   Basket Champ ist eine Ein‑Tasten‑Korbjagd. Stelle Bogen und Stärke deiner
   Würfe ein, triff saubere Swishes und halte deine Treffer‑Serie am Laufen.
 iframeSrc: 'https://0outkmbudufj8.h5games.usercontent.goog/v/1stcrgq2b9d08/'
-thumbnail: /new-images/basket-champ.png
+thumbnail: /new-images/thumbnails/basket-champ.png
 tags:
   - sports
   - basketball

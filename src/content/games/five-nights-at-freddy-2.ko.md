@@ -7,7 +7,7 @@ description: >-
   공포 게임으로, 복수의 애니매트로닉을 주시하면서 Puppet의 뮤직 박스를 감고, 손전등과
   마스크를 적절한 타이밍에 사용해 밤을 버텨야 합니다.
 iframeSrc: 'https://ubg77.github.io/fix/fnaf2/'
-thumbnail: /new-images/five-nights-at-freddy-2.jpg
+thumbnail: /new-images/thumbnails/five-nights-at-freddy-2.jpg
 tags:
   - horror
   - strategy

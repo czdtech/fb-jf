@@ -7,7 +7,7 @@ description: >-
   제작 플랫폼형 모드입니다. 여러 사운드 요소를 "피라미드"처럼 쌓아 올리며
   자신만의 곡을 만들어 볼 수 있습니다.
 iframeSrc: 'https://turbowarp.org/1133167510/embed'
-thumbnail: /sprunki-pyramixed-version.png
+thumbnail: /new-images/thumbnails/sprunki-pyramixed-version.png
 tags:
   - sprunki pyramixed
 score: 4.0/5  (254 votes)

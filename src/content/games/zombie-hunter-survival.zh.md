@@ -7,7 +7,7 @@ description: >-
   在狭窄地图中风筝成群僵尸，精打细算每一发子弹，
   在一波又一波尸潮中活得更久。
 iframeSrc: 'https://6ctmcm40nbff0.h5games.usercontent.goog/v/2a81mr3h8ut10/'
-thumbnail: /new-images/zombie-hunter-survival.png
+thumbnail: /new-images/thumbnails/zombie-hunter-survival.png
 tags:
   - shooting
   - horror

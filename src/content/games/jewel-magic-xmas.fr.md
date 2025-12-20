@@ -6,7 +6,7 @@ description: >-
   Jewel Magic Xmas est un match‑3 de Noël : gemmes enneigées, cadeaux et
   décorations à aligner pour compléter des niveaux festifs.
 iframeSrc: 'https://jewelmagicxmas.h5games.usercontent.goog/v/0ml2b01ue9nb0/'
-thumbnail: /new-images/jewel-magic-xmas.png
+thumbnail: /new-images/thumbnails/jewel-magic-xmas.png
 tags:
   - puzzle
   - casual

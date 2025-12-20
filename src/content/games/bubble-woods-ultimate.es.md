@@ -7,7 +7,7 @@ description: >-
   para reventar tantas burbujas como puedas, encadenar combos enormes y usar
   potentes potenciadores para lograr la máxima puntuación.
 iframeSrc: 'https://bubblewoods4.h5games.usercontent.goog/v/4jslovpheann0/'
-thumbnail: /new-images/bubble-woods-ultimate.png
+thumbnail: /new-images/thumbnails/bubble-woods-ultimate.png
 tags:
   - shooting
   - action

@@ -8,7 +8,7 @@ description: >-
   Geistern aus. Kraftpillen erlauben es dir, den Spieß kurzzeitig umzudrehen
   und die Geister selbst zu jagen.
 iframeSrc: 'https://bward2.github.io/pacman-js/'
-thumbnail: /new-images/pac-man.jpg
+thumbnail: /new-images/thumbnails/pac-man.jpg
 tags:
   - arcade
   - maze

@@ -7,7 +7,7 @@ description: >-
   Aquí tienes reglas, tácticas de colocación de barcos, patrones de búsqueda
   eficientes y consejos para hundir antes de que te encuentren.
 iframeSrc: 'https://cdn.gamesnacks.com/battleship2/gameCode/index.html'
-thumbnail: /new-images/battleship.jpg
+thumbnail: /new-images/thumbnails/battleship.jpg
 tags:
   - strategy
   - casual

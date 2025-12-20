@@ -6,7 +6,7 @@ description: >-
   보석처럼 반짝이는 귀여운 동물들을 맞추는 3매치 퍼즐 게임 'Jewel Pets Match' 가이드입니다. 펫을 교환해 라인을 만들고, 각
   레벨의 목표를 달성하는 방법을 소개합니다.
 iframeSrc: 'https://jewelpetsmatch.h5games.usercontent.goog/v/2kcabvevoilco/'
-thumbnail: /new-images/jewel-pets-match.png
+thumbnail: /new-images/thumbnails/jewel-pets-match.png
 tags:
   - puzzle
   - casual

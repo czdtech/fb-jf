@@ -7,7 +7,7 @@ description: >-
   "llama" para terminar la ronda y pilla a tu rival con la mano llena de
   deadwood.
 iframeSrc: 'https://ginrummy.h5games.usercontent.goog/v/1sj72j2nsfin0/'
-thumbnail: /new-images/gin-rummy.png
+thumbnail: /new-images/thumbnails/gin-rummy.png
 tags:
   - card
   - puzzle

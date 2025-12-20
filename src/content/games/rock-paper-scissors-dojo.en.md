@@ -5,7 +5,7 @@ description: >-
   Rock Paper Scissors Dojo is a quirky duel — read patterns, mix strategies, and
   outwit opponents in best‑of series.
 iframeSrc: 'https://0o2ssijd98lgg.h5games.usercontent.goog/v/39t01692a4rs8/'
-thumbnail: /new-images/rock-paper-scissors-dojo.png
+thumbnail: /new-images/thumbnails/rock-paper-scissors-dojo.png
 urlstr: rock-paper-scissors-dojo
 score: 3.8/5  (1659 votes)
 tags:

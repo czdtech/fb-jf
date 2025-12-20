@@ -7,7 +7,7 @@ description: >-
   'Kingdom Rush Frontiers' 가이드입니다. 다양한 지형과 적 능력,
   특화 타워를 활용해 전선을 지키는 전략을 소개합니다.
 iframeSrc: 'https://1000freegames.github.io/swf/kingdom-rush-frontiers.html'
-thumbnail: /new-images/kingdom-rush-frontiers.jpg
+thumbnail: /new-images/thumbnails/kingdom-rush-frontiers.jpg
 tags:
   - tower-defense
   - strategy

@@ -7,7 +7,7 @@ description: >-
   gleichfarbiger Fruchtwürfel an, löse explosive Kombos aus und räume das
   Spielfeld in diesem bunten Puzzlespiel.
 iframeSrc: 'https://5pj67mkaqugmo.h5games.usercontent.goog/v/151if1r687t30/'
-thumbnail: /new-images/fruit-cube-blast.jpg
+thumbnail: /new-images/thumbnails/fruit-cube-blast.jpg
 tags:
   - puzzle
   - casual

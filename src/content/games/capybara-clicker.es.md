@@ -7,7 +7,7 @@ description: >-
   crear capybaras, compra mejoras automáticas, desbloquea nuevos climas y
   viste a tu capybara con gorros estilosos en este encantador idle game.
 iframeSrc: 'https://bitlifeonline.github.io/capybara-clicker/'
-thumbnail: /new-images/capybara-clicker.jpg
+thumbnail: /new-images/thumbnails/capybara-clicker.jpg
 tags:
   - casual
   - clicker

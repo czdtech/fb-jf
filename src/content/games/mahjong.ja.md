@@ -2,7 +2,7 @@
 title: Mahjong
 description: クラシックな麻雀ソリティアです。同じ絵柄のフリータイルをペアで消し、順番を考えながら盤面をクリアしていきます。
 iframeSrc: 'https://mahjonghr.h5games.usercontent.goog/v/25h00jjlcksj8/'
-thumbnail: /new-images/mahjong.png
+thumbnail: /new-images/thumbnails/mahjong.jpg
 urlstr: mahjong
 score: 4.5/5  (2650 votes)
 tags:

@@ -7,7 +7,7 @@ description: >-
   nutze schräge Gadgets und finde mehrere Enden – inklusive zahlreicher
   herrlich gescheiterter Fluchtversuche.
 iframeSrc: 'https://ubg77.github.io/fleeing-the-complex/'
-thumbnail: /new-images/fleeing-the-complex.jpg
+thumbnail: /new-images/thumbnails/fleeing-the-complex.jpg
 tags:
   - adventure
   - point-and-click

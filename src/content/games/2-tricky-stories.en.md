@@ -4,7 +4,7 @@ locale: en
 title: "Brain Test 2: Tricky Stories"
 description: "Here's your chance to play Brain Test 2: Tricky Stories Game. Have fun with this one!"
 iframeSrc: "https://bitlifeonline.github.io/brain-test-2-tricky-stories/"
-thumbnail: "/new-images/2-tricky-stories.jpg"
+thumbnail: /new-images/thumbnails/2-tricky-stories.jpg
 urlstr: "2-tricky-stories"
 score: "4.0/5  (1166 votes)"
 tags: ["casual", "rhythm"]

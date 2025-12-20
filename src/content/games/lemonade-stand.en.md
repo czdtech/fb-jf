@@ -5,7 +5,7 @@ description: >-
   Classic business sim: set price, recipe, and advertising; buy cups/lemons/ice;
   and manage daily profit under changing weather.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/lemonade-stand.html'
-thumbnail: /new-images/lemonade-stand.jpg
+thumbnail: /new-images/thumbnails/lemonade-stand.jpg
 urlstr: lemonade-stand
 score: 3.9/5  (232 votes)
 tags:

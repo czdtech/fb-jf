@@ -7,7 +7,7 @@ description: >-
   controla la bola blanca con efecto y limpia la mesa planificando bien cada
   posición.
 iframeSrc: "https://4i2ksm0sqbsr0.h5games.usercontent.goog/v/6fbgaukuhtvqo/"
-thumbnail: "/new-images/pool-8-ball-mania.png"
+thumbnail: /new-images/thumbnails/pool-8-ball-mania.png
 tags:
   - sports
   - pool

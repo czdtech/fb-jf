@@ -4,7 +4,7 @@ locale: en
 title: "Cowboys vs Aliens"
 description: "A comprehensive guide to the 'Cowboys vs Aliens' game theme. Learn the common gameplay types (tower defense, action shooter), strategies, controls, and tips for defending the Wild West from alien invaders."
 iframeSrc: "https://app-183000.games.s3.yandex.net/183000/ej1ob1cdiuv0fq3vw88l1k7pakdngmk7/index.html"
-thumbnail: "/new-images/cowboys-vs-aliens.jpg"
+thumbnail: /new-images/thumbnails/cowboys-vs-aliens.jpg
 urlstr: "cowboys-vs-aliens"
 score: "3.7/5  (1185 votes)"
 tags: ["action", "shooting"]

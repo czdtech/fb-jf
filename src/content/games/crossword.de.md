@@ -6,7 +6,7 @@ description: >-
   Crossword ist ein klassisches Buchstabengitter: Löse horizontale und
   vertikale Hinweise, sodass alle Kreuzungsbuchstaben zueinander passen.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/crossword.html'
-thumbnail: /new-images/crossword.jpg
+thumbnail: /new-images/thumbnails/crossword.jpg
 tags:
   - word
   - puzzle

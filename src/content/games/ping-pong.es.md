@@ -7,7 +7,7 @@ description: >-
   controlan palas para devolver una pelota de un lado a otro de la pantalla,
   intentando anotar puntos cuando el rival falla.
 iframeSrc: 'https://ranimania.com/Games/pingpong/ping_pong/'
-thumbnail: /new-images/ping-pong.jpg
+thumbnail: /new-images/thumbnails/ping-pong.jpg
 tags:
   - arcade
   - sports

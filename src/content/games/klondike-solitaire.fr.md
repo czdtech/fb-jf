@@ -4,7 +4,7 @@ urlstr: klondike-solitaire
 title: "Klondike Solitaire"
 description: "Solitaire Klondike classique : construis les fondations de l’As au Roi par couleur en utilisant des colonnes décroissantes alternant les couleurs, en pioche 1 ou pioche 3."
 iframeSrc: "https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-klondike-solitaire/"
-thumbnail: /new-images/klondike-solitaire.jpg
+thumbnail: /new-images/thumbnails/klondike-solitaire.jpg
 tags:
   - solitaire
   - card

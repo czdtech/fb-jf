@@ -7,7 +7,7 @@ description: >-
   모드입니다. 깊고 몽환적인 신스와 베이스, 네온 조명 연출 속에서 밤의 사운드
   스케이프를 직접 만들어 볼 수 있습니다.
 iframeSrc: 'https://turbowarp.org/1100659044/embed'
-thumbnail: /sprunki-night-time.png
+thumbnail: /new-images/thumbnails/sprunki-night-time.png
 tags:
   - sprunki night time
   - sprunki night time online

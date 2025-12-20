@@ -8,7 +8,7 @@ description: >-
   cuadrados que quieren convertirlo todo en cubos, superando niveles llenos de
   obstáculos y puzles.
 iframeSrc: "https://class198.github.io/g177/red-ball-4/"
-thumbnail: "/new-images/red-ball-4.jpg"
+thumbnail: /new-images/thumbnails/red-ball-4.jpg
 tags:
   - platformer
   - physics

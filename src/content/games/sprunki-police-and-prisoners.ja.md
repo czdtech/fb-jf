@@ -2,7 +2,7 @@
 title: Sprunki Police And Prisoners - Play Sprunki Police And Prisoners Online
 description: Sprunki Police and Prisoners Modは、Incredibox Sprunki系の音楽作成Modです。キャラクターを組み合わせて音を重ね、トラックを作ります。
 iframeSrc: 'https://turbowarp.org/1113493234/embed'
-thumbnail: /sprunki-police-and-prisoners.png
+thumbnail: /new-images/thumbnails/sprunki-police-and-prisoners.png
 urlstr: sprunki-police-and-prisoners
 score: 3.9/5  (325 votes)
 tags:

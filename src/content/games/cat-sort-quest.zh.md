@@ -4,7 +4,7 @@ urlstr: cat-sort-quest
 title: Cat Sort Quest 小猫排序挑战
 description: 《Cat Sort Quest 小猫排序挑战》是一款类似试管排序的脑洞小游戏，把不同颜色的小猫按顺序移到对应的栖木或容器 中，直到每根栖木只剩一种颜色。
 iframeSrc: 'https://catsortquest.h5games.usercontent.goog/v/2scgb2rlulhdg/'
-thumbnail: /new-images/cat-sort-quest.png
+thumbnail: /new-images/thumbnails/cat-sort-quest.png
 tags:
   - puzzle
   - thinky

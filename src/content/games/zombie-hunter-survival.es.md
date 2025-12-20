@@ -6,7 +6,7 @@ description: >-
   Zombie Hunter: Survival es un shooter cenital de supervivencia: combea hordas,
   ahorra munición y resiste oleadas cada vez más intensas.
 iframeSrc: "https://6ctmcm40nbff0.h5games.usercontent.goog/v/2a81mr3h8ut10/"
-thumbnail: "/new-images/zombie-hunter-survival.png"
+thumbnail: /new-images/thumbnails/zombie-hunter-survival.png
 tags:
   - shooting
   - horror

@@ -7,7 +7,7 @@ description: >-
   continua que recorra la red cumpliendo las restricciones de giros y
   cobertura.
 iframeSrc: 'https://4bl9sdeaqndto.h5games.usercontent.goog/v/4qierjmnf0kng/'
-thumbnail: /new-images/thruline.jpg
+thumbnail: /new-images/thumbnails/thruline.jpg
 tags:
   - puzzle
   - thinky

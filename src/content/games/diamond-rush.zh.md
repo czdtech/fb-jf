@@ -4,7 +4,7 @@ urlstr: diamond-rush
 title: Diamond Rush 钻石消消乐
 description: 在《Diamond Rush 钻石消消乐》中体验璀璨消除快感！通过交换相邻宝石来形成三消甚至更 高连消，清理棋盘、冲击高分。
 iframeSrc: 'https://diamondrush.h5games.usercontent.goog/v/63ok750qri670/'
-thumbnail: /new-images/diamond-rush.png
+thumbnail: /new-images/thumbnails/diamond-rush.png
 tags:
   - puzzle
   - casual

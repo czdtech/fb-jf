@@ -7,7 +7,7 @@ description: >-
   de colores para limpiar el tablero. Planifica bien tus tiros para evitar que
   se añadan nuevas filas.
 iframeSrc: "https://smartybubbles2.h5games.usercontent.goog/v/1u280qojm9oq0/"
-thumbnail: "/new-images/smarty-bubbles-2.png"
+thumbnail: /new-images/thumbnails/smarty-bubbles-2.png
 tags:
   - shooting
   - puzzle

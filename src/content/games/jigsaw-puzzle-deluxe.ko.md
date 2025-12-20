@@ -6,7 +6,7 @@ description: >-
   다양한 고해상도 이미지를 맞춰 보는 'Jigsaw Puzzle Deluxe' 가이드입니다. 난이도(조각 수)를 선택해 테두리부터 맞추고,
   색과 패턴을 단서로 전체 그림을 완성하는 방법을 소개합니다.
 iframeSrc: 'https://jigsawpuzzledeluxe.h5games.usercontent.goog/v/5jfat3ipu2790/'
-thumbnail: /new-images/jigsaw-puzzle-deluxe.png
+thumbnail: /new-images/thumbnails/jigsaw-puzzle-deluxe.png
 tags:
   - puzzle
   - casual

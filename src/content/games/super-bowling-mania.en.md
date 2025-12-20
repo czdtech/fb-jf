@@ -5,7 +5,7 @@ description: >-
   Lace up your bowling shoes for Super Bowling Mania! Aim for a strike, pick up
   spares, and compete for the highest score in this realistic bowling game.
 iframeSrc: 'https://2tm5ud1ghg66o.h5games.usercontent.goog/v/6ifi8lgb3gv0g/'
-thumbnail: /new-images/super-bowling-mania.png
+thumbnail: /new-images/thumbnails/super-bowling-mania.png
 urlstr: super-bowling-mania
 score: 4.0/5  (1555 votes)
 tags:

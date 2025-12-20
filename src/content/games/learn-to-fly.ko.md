@@ -7,7 +7,7 @@ description: >-
   발사 각도와 자세를 조절해 비행 거리를 늘리고, 벌어들인 돈으로
   글라이더와 로켓을 업그레이드하세요.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/learn-to-fly.html'
-thumbnail: /new-images/learn-to-fly.jpg
+thumbnail: /new-images/thumbnails/learn-to-fly.jpg
 tags:
   - arcade
   - upgrade

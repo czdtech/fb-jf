@@ -4,7 +4,7 @@ urlstr: 2048-pizza
 title: "2048 Pizza"
 description: "2048 Pizza revisite 2048 avec des parts de pizza : fais glisser les tuiles garnies, fusionne les mêmes et prépare des tranches toujours plus copieuses." 
 iframeSrc: 'https://14qikp6hbljig.h5games.usercontent.goog/v/4htrmkq5b0b78/'
-thumbnail: /new-images/2048-pizza.png
+thumbnail: /new-images/thumbnails/2048-pizza.png
 tags:
   - puzzle
   - thinky

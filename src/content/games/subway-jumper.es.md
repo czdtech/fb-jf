@@ -6,7 +6,7 @@ description: >-
   Subway Jumper es un runner ágil de tres carriles: cambia de vía, ajusta saltos
   y deslizamientos y mantén el ritmo mientras esquivas los peligros del metro.
 iframeSrc: 'https://34clth7bs1mtg.h5games.usercontent.goog/v/20un142k99goo/'
-thumbnail: /new-images/subway-jumper.png
+thumbnail: /new-images/thumbnails/subway-jumper.png
 tags:
   - action
   - casual

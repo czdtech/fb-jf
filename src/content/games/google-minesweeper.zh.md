@@ -6,7 +6,7 @@ description: >-
   經典邏輯謎題：根據格子上的數字線索推理安全區與地雷位置，
   在不引爆任何地雷的前提下清空整個棋盤。
 iframeSrc: 'https://www.minesweepergoogle.com/gameapp.html'
-thumbnail: /new-images/google-minesweeper.jpg
+thumbnail: /new-images/thumbnails/google-minesweeper.jpg
 tags:
   - puzzle
   - logic

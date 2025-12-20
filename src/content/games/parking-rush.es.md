@@ -7,7 +7,7 @@ description: >-
   coche hasta su plaza del mismo color, pero ten cuidado de que no choquen entre
   sí.
 iframeSrc: 'https://7nq79vktk8fho.h5games.usercontent.goog/v/4u3a6m3hm9lj8/'
-thumbnail: /new-images/parking-rush.png
+thumbnail: /new-images/thumbnails/parking-rush.png
 tags:
   - puzzle
   - driving

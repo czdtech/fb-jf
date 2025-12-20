@@ -4,7 +4,7 @@ urlstr: yohoho-io
 title: "YoHoHo.io"
 description: "Stich in YoHoHo.io als Pirat in See: Sammle Gold, wachse, schalte kleinere Freibeuter aus und bleib in der schrumpfenden Safe‑Zone, bis nur noch du auf der Insel übrig bist." 
 iframeSrc: 'https://bitlifeonline.github.io/class16523/yohoho-io/'
-thumbnail: /new-images/yohoho-io.jpg
+thumbnail: /new-images/thumbnails/yohoho-io.jpg
 tags:
   - io-game
   - battle-royale

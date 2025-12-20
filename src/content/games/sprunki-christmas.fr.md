@@ -7,7 +7,7 @@ description: >-
   l’univers Sprunki dans une ambiance de Noël chaleureuse. Plonge dans Sprunki
   Christmas et fais briller les fêtes avec tes propres mélodies !
 iframeSrc: 'https://turbowarp.org/1104040581/embed'
-thumbnail: /sprunki-christmas.png
+thumbnail: /new-images/thumbnails/sprunki-christmas.png
 tags:
   - sprunki christmas
 score: 4.6/5  (486 votes)

@@ -6,7 +6,7 @@ description: >-
   주어진 블록들을 보드에 빈틈없이 채워 넣는 캐주얼 퍼즐 게임입니다. 모양을
   잘 배치해 줄을 지우고 막히지 않도록 공간을 관리해 보세요.
 iframeSrc: 'https://6f5e193l1nhig.h5games.usercontent.goog/v/2bgjgmrog0tgg/'
-thumbnail: /new-images/ant-and-block-puzzle.png
+thumbnail: /new-images/thumbnails/ant-and-block-puzzle.png
 tags:
   - puzzle
   - thinky

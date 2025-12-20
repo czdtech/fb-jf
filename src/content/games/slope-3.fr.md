@@ -7,7 +7,7 @@ description: >-
   une pente infinie, profite de graphismes améliorés et affronte de nouveaux
   obstacles mortels tout en évitant les barrières et blocs rouges.
 iframeSrc: 'https://games-online.io/game/Slope3/'
-thumbnail: /new-images/slope-3.jpg
+thumbnail: /new-images/thumbnails/slope-3.jpg
 tags:
   - endless runner
   - 3d

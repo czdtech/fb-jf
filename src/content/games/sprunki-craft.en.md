@@ -7,7 +7,7 @@ description: >-
   join the world of Sprunki Craft, and use your familiar Minecraft characters to
   create your own exclusive musical works!
 iframeSrc: 'https://www.minijuegos.com/embed/sprunki-craft'
-thumbnail: /sprunki-craft.jpg
+thumbnail: /new-images/thumbnails/sprunki-craft.jpg
 urlstr: sprunki-craft
 modType: sprunki
 score: 4.9/5  (724 votes)

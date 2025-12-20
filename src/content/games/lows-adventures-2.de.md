@@ -6,7 +6,7 @@ description: >-
   Retro-Plattformspiel-Fortsetzung: Laufe und springe durch kompakte Level,
   finde Schlüssel und Geheimnisse und stelle dich Zeit-Herausforderungen.
 iframeSrc: 'https://previews.customer.envatousercontent.com/files/489323722/index.html'
-thumbnail: /new-images/lows-adventures-2.jpg
+thumbnail: /new-images/thumbnails/lows-adventures-2.jpg
 tags:
   - platformer
   - adventure

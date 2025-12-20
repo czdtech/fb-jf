@@ -7,7 +7,7 @@ description: >-
   Aktiviere im richtigen Moment deine Energiewand und blocke den Ball, bevor er
   die Ziellinie überquert.
 iframeSrc: 'https://powerwall2.h5games.usercontent.goog/v/2744b7jm5t0jg/'
-thumbnail: /new-images/powerwall.png
+thumbnail: /new-images/thumbnails/powerwall.png
 tags:
   - action
   - sports

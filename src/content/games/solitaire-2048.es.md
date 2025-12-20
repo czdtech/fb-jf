@@ -6,7 +6,7 @@ description: >-
   Solitaire 2048 fusiona 2048 con flujo de cartas: coloca cartas numeradas para
   combinar valores y gestionar columnas buscando grandes cadenas de fusiones.
 iframeSrc: "https://041gj41756cjg.h5games.usercontent.goog/v/7n148hti57veo/"
-thumbnail: "/new-images/solitaire-2048.png"
+thumbnail: /new-images/thumbnails/solitaire-2048.png
 tags:
   - card
   - puzzle

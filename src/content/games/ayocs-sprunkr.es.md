@@ -7,7 +7,7 @@ description: >-
   diseños de moda, loops de sonido renovados y una experiencia audiovisual mucho
   más moderna para crear música.
 iframeSrc: 'https://turbowarp.org/1114188520/embed'
-thumbnail: /ayocs-sprunkr.png
+thumbnail: /new-images/thumbnails/ayocs-sprunkr.png
 tags:
   - ayocs sprunkr
 score: 4.1/5  (54 votes)

@@ -4,7 +4,7 @@ locale: en
 title: "Tank Trouble"
 description: "Tank Trouble is a multiplayer tank battle game where players control tanks in a maze-like arena, shooting at opponents while navigating walls and obstacles to be the last tank standing."
 iframeSrc: "https://www.friv2018.com/games/html5/tank-trouble-2/"
-thumbnail: "/new-images/tank-trouble.jpg"
+thumbnail: /new-images/thumbnails/tank-trouble.jpg
 urlstr: "tank-trouble"
 score: "4.5/5  (525 votes)"
 tags: ["multiplayer", "action", "tank battle"]

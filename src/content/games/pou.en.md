@@ -4,7 +4,7 @@ locale: en
 title: "Pou Game"
 description: "Pou Game is a virtual pet simulation game where players adopt and care for an alien pet named Pou. Players feed, clean, play with, and customize their Pou, helping it grow and thrive while engaging in various mini-games and activities."
 iframeSrc: "https://app-184491.games.s3.yandex.net/184491/simr1s69tzefn132i2xlbk4dusun0mgw/index.html"
-thumbnail: "/new-images/pou.jpg"
+thumbnail: /new-images/thumbnails/pou.jpg
 urlstr: "pou"
 score: "3.5/5  (711 votes)"
 tags: ["virtual pet", "simulation", "casual"]

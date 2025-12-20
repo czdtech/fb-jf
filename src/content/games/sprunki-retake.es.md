@@ -7,7 +7,7 @@ description: >-
   Sprunki Retake te va a enganchar: mantiene el encanto creativo de la serie
   Sprunki y le suma una capa de tensión oscura.
 iframeSrc: 'https://www.minijuegos.com/embed/sprunki-retake'
-thumbnail: /sprunki-retake.png
+thumbnail: /new-images/thumbnails/sprunki-retake.png
 tags:
   - sprunki retake
   - sprunki retake online

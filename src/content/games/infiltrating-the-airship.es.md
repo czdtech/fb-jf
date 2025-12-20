@@ -7,7 +7,7 @@ description: >-
   el dirigible, dispara gags absurdos y desbloquea múltiples finales rejugando
   escenas.
 iframeSrc: 'https://rebemanae.github.io/infiltrating-the-airship/'
-thumbnail: /new-images/infiltrating-the-airship.jpg
+thumbnail: /new-images/thumbnails/infiltrating-the-airship.jpg
 tags:
   - adventure
   - point-and-click

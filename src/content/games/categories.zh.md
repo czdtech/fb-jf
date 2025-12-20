@@ -4,7 +4,7 @@ urlstr: categories
 title: Categories 分类猜词
 description: 《Categories 分类猜词》是一款文字与分类结合的益智小游戏，在限定时间或次数内，为给定开头字母想出属于不同分类 的词语。
 iframeSrc: 'https://categories.h5games.usercontent.goog/v/67ofcg5to9hj0/'
-thumbnail: /new-images/categories.png
+thumbnail: /new-images/thumbnails/categories.png
 tags:
   - puzzle
   - word

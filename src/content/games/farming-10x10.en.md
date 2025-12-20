@@ -3,7 +3,7 @@ locale: en
 title: "Farming 10x10"
 description: "Farming 10x10 dresses classic 10x10 block‑fit — place shapes, clear rows/columns, and avoid sealing off precious space."
 iframeSrc: "https://66ts484uf5r18.h5games.usercontent.goog/v/1nt4ffhi7k9jo/"
-thumbnail: "/new-images/farming-10x10.jpg"
+thumbnail: /new-images/thumbnails/farming-10x10.jpg
 urlstr: "farming-10x10"
 score: "4.1/5  (1914 votes)"
 tags: ["puzzle", "thinky"]

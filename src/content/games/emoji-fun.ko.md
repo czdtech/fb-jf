@@ -4,7 +4,7 @@ urlstr: emoji-fun
 title: Emoji Fun 이모지 펀
 description: 연관된 이모지 쌍을 선으로 연결해 맞히는 연상 퍼즐 게임입니다. 직관과 상상력을 발휘해 각 스테이지의 숨은 관계를 찾아보세요.
 iframeSrc: 'https://0aijth0is3tko.h5games.usercontent.goog/v/1c1277hq9kr98/'
-thumbnail: /new-images/emoji-fun.png
+thumbnail: /new-images/thumbnails/emoji-fun.png
 tags:
   - puzzle
   - thinky

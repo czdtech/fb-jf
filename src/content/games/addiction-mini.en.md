@@ -3,7 +3,7 @@ locale: en
 title: "Addiction Mini"
 description: "Addiction Mini distills solitaire‑style sequencing — place cards in order, clear rows, and think several moves ahead."
 iframeSrc: "https://0lk0u0jb90plo.h5games.usercontent.goog/v/2rppmab9dqneo/"
-thumbnail: "/new-images/addiction-mini.jpg"
+thumbnail: /new-images/thumbnails/addiction-mini.jpg
 urlstr: "addiction-mini"
 score: "4.0/5  (1803 votes)"
 tags: ["card", "puzzle", "thinky"]

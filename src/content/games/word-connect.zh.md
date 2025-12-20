@@ -7,7 +7,7 @@ description: >-
   从圆形字母盘中划线连出单词，填满上方填字格，顺便挖掘隐藏单词、赚取金币，
   在轻松节奏中拓展词汇量。
 iframeSrc: 'https://previews.customer.envatousercontent.com/files/309288677/index.html'
-thumbnail: /new-images/word-connect.jpg
+thumbnail: /new-images/thumbnails/word-connect.jpg
 tags:
   - word-game
   - puzzle

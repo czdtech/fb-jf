@@ -7,7 +7,7 @@ description: >-
   color y tratas de conquistar el máximo territorio posible dibujando líneas y
   cerrando áreas, mientras esquivas a otros jugadores.
 iframeSrc: 'https://mathgames66.github.io/games/html5/paperio2/'
-thumbnail: /new-images/paper-io.jpg
+thumbnail: /new-images/thumbnails/paper-io.jpg
 tags:
   - multiplayer
   - strategy

@@ -7,7 +7,7 @@ description: >-
   게임입니다. 제한된 빈 기둥을 버퍼처럼 활용해, 각 기둥에 한 가지 색 고양이만
   남도록 깔끔하게 분류해 보세요.
 iframeSrc: 'https://4ajc8tu89od7g.h5games.usercontent.goog/v/49be5kf9v96j0/'
-thumbnail: /new-images/cat-sort-quest.png
+thumbnail: /new-images/thumbnails/cat-sort-quest.png
 tags:
   - puzzle
   - thinky

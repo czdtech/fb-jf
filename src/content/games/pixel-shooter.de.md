@@ -7,7 +7,7 @@ description: >-
   Horden von Gegnern kämpfst, Power-ups sammelst und deine Waffen aufrüstest,
   um in immer schwierigeren Leveln zu überleben.
 iframeSrc: 'https://a.onlineigry.net/games3/igra-piksel-shuter/index.htm'
-thumbnail: /new-images/pixel-shooter.jpg
+thumbnail: /new-images/thumbnails/pixel-shooter.jpg
 tags:
   - shooting
   - pixel art

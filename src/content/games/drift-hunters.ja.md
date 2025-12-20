@@ -2,7 +2,7 @@
 title: Drift Hunters ドリフト・ハンターズ
 description: 「Drift Hunters」は本格3Dドリフト・レーシング。マシンをチューニングし、美しいドリフトを繋げてポイントを稼ぎ、最強のドリフターを目指せ。
 iframeSrc: 'https://webglmath.github.io/drift-hunters/'
-thumbnail: /new-images/drift-hunters.jpg
+thumbnail: /new-images/thumbnails/drift-hunters.jpg
 urlstr: drift-hunters
 score: 5.0/5  (563 votes)
 tags:

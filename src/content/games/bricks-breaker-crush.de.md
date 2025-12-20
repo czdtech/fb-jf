@@ -7,7 +7,7 @@ description: >-
   Schüsse präzise, sammle zusätzliche Bälle und finde perfekte Winkel, um dich
   mit langen Abprallerketten durch dichte Reihen zu fräsen.
 iframeSrc: 'https://7uvo1rchfrhr8.h5games.usercontent.goog/v/4tk6unop5lefg/'
-thumbnail: /new-images/bricks-breaker-crush.png
+thumbnail: /new-images/thumbnails/bricks-breaker-crush.png
 tags:
   - puzzle
   - thinky

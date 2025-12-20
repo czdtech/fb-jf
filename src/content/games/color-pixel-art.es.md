@@ -7,7 +7,7 @@ description: >-
   Elige un color, busca el número correspondiente y rellena los píxeles hasta
   revelar una ilustración completa y llena de detalle.
 iframeSrc: 'https://colorpixel.h5games.usercontent.goog/v/6ko86juonaau0/'
-thumbnail: /new-images/color-pixel-art.png
+thumbnail: /new-images/thumbnails/color-pixel-art.png
 tags:
   - puzzle
   - casual

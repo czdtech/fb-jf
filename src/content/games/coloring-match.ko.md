@@ -6,7 +6,7 @@ description: >-
   Coloring Match는 목표 색을 직접 섞어 맞추는 색채 퍼즐 게임입니다. 기본 색을 섞고, 색상·채도·명도를 조절해 정확히 같은 색을
   만들어 보세요.
 iframeSrc: 'https://21t5l4ct88d8g.h5games.usercontent.goog/v/6kels35kspngg/'
-thumbnail: /new-images/coloring-match.jpg
+thumbnail: /new-images/thumbnails/coloring-match.jpg
 tags:
   - puzzle
   - casual

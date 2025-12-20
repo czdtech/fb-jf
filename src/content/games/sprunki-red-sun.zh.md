@@ -5,7 +5,7 @@ urlstr: "sprunki-red-sun"
 title: "Sprunki Red Sun - 在线玩 Sprunki Red Sun"
 description: "Sprunki Red Sun Mod 将熟悉的 Sprunki 宇宙投入一个戏剧性的、火热的领域，由强烈的红色色调和有力的节奏节拍主导。"
 iframeSrc: "https://kdata1.com/2025/02/sprunki-x-redsun/"
-thumbnail: "/sprunki-red-sun.png"
+thumbnail: /new-images/thumbnails/sprunki-red-sun.png
 score: "4.4/5  (232 票)"
 tags: ["sprunki red sun"]
 ---

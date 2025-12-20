@@ -7,7 +7,7 @@ description: >-
   sammle Goldklumpen, Diamanten und andere Schätze ein und erreiche das
   Geldziel, bevor die Zeit abläuft.
 iframeSrc: 'https://goldminertom.h5games.usercontent.goog/v/5l8d724in1pco/'
-thumbnail: /new-images/gold-miner-tom.png
+thumbnail: /new-images/thumbnails/gold-miner-tom.png
 tags:
   - action
   - casual

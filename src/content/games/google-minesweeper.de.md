@@ -7,7 +7,7 @@ description: >-
   zünden, indem du aus Zahlenhinweisen und gesetzten Flaggen auf Minenpositionen
   schließt.
 iframeSrc: 'https://www.minesweepergoogle.com/gameapp.html'
-thumbnail: /new-images/google-minesweeper.jpg
+thumbnail: /new-images/thumbnails/google-minesweeper.jpg
 tags:
   - puzzle
   - logic

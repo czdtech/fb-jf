@@ -5,7 +5,7 @@ title: "《Rooftop Snipers 2》天台布偶狙击战 2"
 description: >-
   《Rooftop Snipers 2》是一款充满搞笑 ragdoll 物理效果的对战射击小游戏。两名火柴人站在天台边缘，用各种武器把对手击飞下楼，过程充满失衡、反冲和意外翻车场面。
 iframeSrc: 'https://rebemanae.github.io/rooftop-snipers-2/'
-thumbnail: /new-images/rooftop-snipers-2.jpg
+thumbnail: /new-images/thumbnails/rooftop-snipers-2.jpg
 tags:
   - shooting
   - physics

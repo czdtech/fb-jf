@@ -6,7 +6,7 @@ description: >-
   Sprunki Play Random es un juego de creación musical lleno de sorpresas. Si te
   gustan los retos y la exploración, este modo aleatorio está hecho para ti.
 iframeSrc: 'https://turbowarp.org/1148555262/embed'
-thumbnail: /sprunki-play-random.png
+thumbnail: /new-images/thumbnails/sprunki-play-random.png
 tags:
   - sprunki play random
   - sprunki play random online

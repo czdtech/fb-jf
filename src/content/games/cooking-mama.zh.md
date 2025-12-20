@@ -7,7 +7,7 @@ description: >-
   系列作品，而是由 PETA 制作的讽刺向网页游戏。本文将介绍它的出处、玩法结构以及背后
   的动物保护议题，帮助你区分这款作品与正统系列。
 iframeSrc: 'https://ad-freegames.github.io/flash/game/cooking-mama.html'
-thumbnail: /new-images/cooking-mama.jpg
+thumbnail: /new-images/thumbnails/cooking-mama.jpg
 tags:
   - horror
 score: 4.4/5  (1078 votes)

@@ -7,7 +7,7 @@ description: >-
   조합해, 시간 안에 정확한 타코를 완성해 보세요.
 iframeSrc: >-
   https://g2.igroutka.ru/games/7/K6bHUF2pdiz30Aam/4399swf/upload_swf/ftp40/chenling/20220916/6/
-thumbnail: /new-images/yummy-taco.jpg
+thumbnail: /new-images/thumbnails/yummy-taco.jpg
 tags:
   - cooking
   - simulation

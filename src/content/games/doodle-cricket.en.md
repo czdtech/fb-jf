@@ -4,7 +4,7 @@ locale: en
 title: "Doodle Cricket"
 description: "Doodle Cricket is a casual cricket mini‑game: time your swings to score runs while avoiding outs."
 iframeSrc: "https://f3.silvergames.com/m/doodle-cricket/"
-thumbnail: "/new-images/doodle-cricket.jpg"
+thumbnail: /new-images/thumbnails/doodle-cricket.jpg
 urlstr: "doodle-cricket"
 score: "4.2/5  (485 votes)"
 tags: ["sports", "arcade"]

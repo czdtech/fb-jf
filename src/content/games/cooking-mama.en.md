@@ -6,7 +6,7 @@ description: >-
   created by PETA. This guide explains its origin, satirical gameplay, and the
   activist message behind it, distinguishing it from the official series.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/cooking-mama.html'
-thumbnail: /new-images/cooking-mama.jpg
+thumbnail: /new-images/thumbnails/cooking-mama.jpg
 urlstr: cooking-mama
 score: 4.4/5  (1078 votes)
 tags:

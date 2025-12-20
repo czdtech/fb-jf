@@ -4,7 +4,7 @@ urlstr: getaway-shootout
 title: "Getaway Shootout"
 description: "Course‑tir chaotique avec physique débile : bondis jusqu’au point d’extraction, ramasse des armes improbables et piège tes rivaux en solo ou à 2 joueurs."
 iframeSrc: 'https://ubg44.github.io/GetawayShootout/'
-thumbnail: /new-images/getaway-shootout.jpg
+thumbnail: /new-images/thumbnails/getaway-shootout.jpg
 tags:
   - action
   - multiplayer

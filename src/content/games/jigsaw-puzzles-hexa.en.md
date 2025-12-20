@@ -3,7 +3,7 @@ locale: en
 title: "Jigsaw Puzzles Hexa"
 description: "A new twist on the classic jigsaw puzzle! Drag and drop hexagonal pieces to complete beautiful high-definition images. A relaxing and challenging puzzle for all ages."
 iframeSrc: "https://jigsawpuzzleshexa.h5games.usercontent.goog/v/5e9bm1tuf1me0/"
-thumbnail: "/new-images/jigsaw-puzzles-hexa.jpg"
+thumbnail: /new-images/thumbnails/jigsaw-puzzles-hexa.jpg
 urlstr: "jigsaw-puzzles-hexa"
 score: "4.5/5  (2600 votes)"
 tags: ["puzzle", "casual", "thinky"]

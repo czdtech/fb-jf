@@ -4,7 +4,7 @@ urlstr: happy-wheels
 title: "《Happy Wheels》血腥物理闯关"
 description: "《Happy Wheels》是一款以夸张血腥和黑色幽默著称的物理闯关游戏。通过不同角色和载具，在各式玩家自制的关卡中想办法“活着”冲到终点。"
 iframeSrc: 'https://games-online.io/game/HappyWheels/'
-thumbnail: /new-images/happy-wheels.jpg
+thumbnail: /new-images/thumbnails/happy-wheels.jpg
 tags:
   - platformer
   - physics

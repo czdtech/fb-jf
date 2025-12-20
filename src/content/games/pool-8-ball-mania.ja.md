@@ -2,7 +2,7 @@
 title: "Pool 8 Ball Mania"
 description: "Pool 8 Ball Maniaはクラシックな8球ビリヤードです。ボールをポケットに入れ、対戦相手と競い、プールチャンピオンになります。"
 iframeSrc: "https://pool8ballmania.h5games.usercontent.goog/v/3k9j5m8h7p2n8/"
-thumbnail: "/new-images/pool-8-ball-mania.png"
+thumbnail: /new-images/thumbnails/pool-8-ball-mania.png
 urlstr: "pool-8-ball-mania"
 score: "4.3/5  (2567 votes)"
 tags: ["sports", "casual", "2 player"]

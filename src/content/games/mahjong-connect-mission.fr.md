@@ -4,7 +4,7 @@ urlstr: "mahjong-connect-mission"
 title: "Mahjong Connect : Mission"
 description: "Mahjong Connect : Mission est un mahjong à relier les tuiles : connecte des paires identiques par un chemin avec au plus deux virages, nettoie les plateaux et gère les missions contre la montre."
 iframeSrc: "https://7gsm6u8848nko.h5games.usercontent.goog/v/3qaqg5nju3th8/"
-thumbnail: "/new-images/mahjong-connect-mission.png"
+thumbnail: /new-images/thumbnails/mahjong-connect-mission.png
 tags: ["mahjong", "puzzle", "thinky"]
 score: "4.2/5  (2061 votes)"
 developer: ""

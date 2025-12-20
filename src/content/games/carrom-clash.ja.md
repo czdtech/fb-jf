@@ -2,7 +2,7 @@
 title: "Carrom Clash キャロム・クラッシュ"
 description: "「Carrom Clash」で本格的なボードゲーム体験を。おはじきビリヤードとも呼ばれるキャロムで、ストライカーを弾き、自分の駒をポケットに入れよう。"
 iframeSrc: "https://carromclash.h5games.usercontent.goog/v/4pmfd00515bbg/"
-thumbnail: "/new-images/carrom-clash.png"
+thumbnail: /new-images/thumbnails/carrom-clash.png
 urlstr: "carrom-clash"
 score: "4.4/5  (2600 votes)"
 tags: ["sports", "puzzle", "action"]

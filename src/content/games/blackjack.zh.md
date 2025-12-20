@@ -6,7 +6,7 @@ description: >-
   在《Blackjack 21 点纸牌》中学习规则与基础策略：在不爆牌的前提下，让自己的点数尽量接近 21 并超过庄家，掌
   握要牌、停牌、加倍与分牌等操作，体验最经典的赌场纸牌玩法。
 iframeSrc: 'https://freegames.org/games/blackjack/v1/'
-thumbnail: /new-images/blackjack.jpg
+thumbnail: /new-images/thumbnails/blackjack.jpg
 tags:
   - casual
   - rhythm

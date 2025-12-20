@@ -7,7 +7,7 @@ description: >-
   gardes, désactive les pièges et remplis tes objectifs en utilisant tes
   gadgets et un timing millimétré.
 iframeSrc: 'https://087cce7dimlq8.h5games.usercontent.goog/v/6na8sphqpnhlo/'
-thumbnail: /new-images/secret-agent.png
+thumbnail: /new-images/thumbnails/secret-agent.png
 tags:
   - action
   - puzzle

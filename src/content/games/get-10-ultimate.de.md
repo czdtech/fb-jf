@@ -6,7 +6,7 @@ description: >-
   Anspruchsvolles Zahlenpuzzle: Tippe auf benachbarte, gleiche Zahlen, um sie zu
   einer höheren Ziffer zu verschmelzen. Schaffst du die 10 – und noch mehr?
 iframeSrc: 'https://4oljglvsib9no.h5games.usercontent.goog/v/4nttt72qlep8o/'
-thumbnail: /new-images/get-10-ultimate.png
+thumbnail: /new-images/thumbnails/get-10-ultimate.png
 tags:
   - puzzle
   - thinky

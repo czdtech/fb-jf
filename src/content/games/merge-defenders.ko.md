@@ -4,7 +4,7 @@ urlstr: merge-defenders
 title: Merge Defenders 머지 디펜더스
 description: 'Merge Defenders는 동일한 유닛을 합쳐 업그레이드하고, 전략적으로 배치해 적의 물결을 막아 내는 머지 타워 디펜스 게임입니다.'
 iframeSrc: 'https://5c1j2nn9b0q4o.h5games.usercontent.goog/v/20drsjkant5s8/'
-thumbnail: /new-images/merge-defenders.png
+thumbnail: /new-images/thumbnails/merge-defenders.png
 tags:
   - strategy
   - tower Defense

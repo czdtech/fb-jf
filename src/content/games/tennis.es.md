@@ -4,7 +4,7 @@ urlstr: tennis
 title: "Tennis - Clásico juego de tenis arcade"
 description: "Salta a la pista en este clásico juego de tenis arcade. Toma la raqueta, sirve, intercambia golpes con tu rival controlado por la IA y gana puntos para llevarte el partido. Es sencillo, directo y tremendamente adictivo para cualquier aficionado al deporte."
 iframeSrc: "https://ad-freegames.github.io/flash/game/tennis.html"
-thumbnail: "/new-images/tennis.jpg"
+thumbnail: /new-images/thumbnails/tennis.jpg
 tags:
   - sports
   - arcade

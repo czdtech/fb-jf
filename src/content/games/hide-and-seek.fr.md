@@ -5,7 +5,7 @@ title: "Hide And Seek!"
 description: "Hide And Seek! transforme le cache‑cache en jeu d’infiltration décontracté : en tant que fuyard, mélange‑toi aux PNJ ; en tant que chasseur, repère les comportements suspects et attrape tout le monde avant la fin du chrono."
 iframeSrc: >-
   https://g2.igroutka.ru/games/23/YWRIxUAXudnq4HO1/rvvASMiM/239942ce1a1349f6bcc9d312b32c5c3b/
-thumbnail: /new-images/hide-and-seek.jpg
+thumbnail: /new-images/thumbnails/hide-and-seek.jpg
 tags:
   - stealth
   - arcade

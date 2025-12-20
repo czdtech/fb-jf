@@ -4,7 +4,7 @@ locale: en
 title: "The Impossible Quiz"
 description: "Prepare for the unexpected in The Impossible Quiz, a notoriously difficult and hilarious trivia game! Answer trick questions, solve illogical puzzles, and navigate bombs and skips to reach the end. Think outside the box and embrace the absurdity to conquer this unique brain-teaser."
 iframeSrc: "https://flash-cdn.blogspot.com/2021/06/the-impossible-quiz.html"
-thumbnail: "/new-images/the-impossible-quiz.jpg"
+thumbnail: /new-images/thumbnails/the-impossible-quiz.jpg
 urlstr: "the-impossible-quiz"
 score: "4.8/5  (1294 votes)"
 tags: ["quiz", "puzzle", "brain-teaser"]

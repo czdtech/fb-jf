@@ -7,7 +7,7 @@ description: >-
   Sprunki-Gameplay mit der Objektwelt von Battle for Dream Island:
   BFDI-inspirierte Figuren, neue Sounds und Bonusanimationen für deinen Mix.
 iframeSrc: 'https://turbowarp.org/1087434086/embed'
-thumbnail: /sprunki-mod-bfdi.png
+thumbnail: /new-images/thumbnails/sprunki-mod-BFDI.png
 tags:
   - sprunki mod bfdi
 score: 4.2/5  (347 votes)

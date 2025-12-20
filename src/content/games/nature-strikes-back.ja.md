@@ -2,7 +2,7 @@
 title: Nature Strikes Back
 description: Nature Strikes Backは環境戦略ゲームです。自然の力を指揮し、人類の侵入から守り、生態系のバランスを取り戻します。
 iframeSrc: 'https://naturestrikesback.h5games.usercontent.goog/v/1q0p8m9jn3bn8/'
-thumbnail: /new-images/nature-strikes-back.png
+thumbnail: /new-images/thumbnails/nature-strikes-back.png
 urlstr: nature-strikes-back
 score: 4.0/5  (1634 votes)
 tags:

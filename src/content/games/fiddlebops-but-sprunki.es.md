@@ -7,7 +7,7 @@ description: >-
   adictivo de creación musical de Fiddlebops, pero sustituye a todos los
   personajes originales por la icónica tripulación Sprunki.
 iframeSrc: 'https://turbowarp.org/1114915532/embed'
-thumbnail: /fiddlebops-but-sprunki.png
+thumbnail: /new-images/thumbnails/fiddlebops-but-sprunki.png
 tags:
   - fiddlebops but sprunki
 score: 4.2/5  (94 votes)

@@ -2,7 +2,7 @@
 title: "Bubble Tower 3D バブルタワー3D"
 description: "「Bubble Tower 3D」は回転するタワーが舞台のバブルシューティングゲーム！タワーを回して狙いを定め、連鎖でバブルを消し去ろう。"
 iframeSrc: "https://bubbletower.h5games.usercontent.goog/v/7ebcukaef3voo/"
-thumbnail: "/new-images/bubble-tower.png"
+thumbnail: /new-images/thumbnails/bubble-tower.png
 urlstr: "bubble-tower"
 score: "4.3/5  (1950 votes)"
 tags: ["puzzle", "shooting", "casual"]

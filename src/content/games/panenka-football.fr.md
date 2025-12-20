@@ -4,7 +4,7 @@ urlstr: panenka-football
 title: Panenka Football
 description: "Panenka Football est un jeu de tirs au but centré sur la fameuse Panenka\_: masque tes intentions, dose ta frappe et déjoue les gardiens avec des chips audacieuses."
 iframeSrc: 'https://15n5pfdq70ung.h5games.usercontent.goog/v/2ftdtu6n19sk8/'
-thumbnail: /new-images/panenka-football.png
+thumbnail: /new-images/thumbnails/panenka-football.png
 tags:
   - sports
   - soccer

@@ -6,7 +6,7 @@ description: >-
   4 In Row MANIA es un duelo clásico de conecta 4. Domina las columnas, crea
   amenazas dobles y sé el primero en alinear cuatro fichas.
 iframeSrc: 'https://4vt1c4a3eda48.h5games.usercontent.goog/v/73p1lulj7oe3o/'
-thumbnail: /new-images/4-in-row-mania.jpg
+thumbnail: /new-images/thumbnails/4-in-row-mania.jpg
 tags:
   - 2 player
   - thinky

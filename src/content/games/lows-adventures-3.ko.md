@@ -6,7 +6,7 @@ description: >-
   Low's Adventures 3는 레트로 감성의 플랫포머 3부작 중 세 번째 작품으로, 더 타이트해진
   점프 타이밍과 새로운 기믹 블록, 숨겨진 길이 특징입니다.
 iframeSrc: 'https://previews.customer.envatousercontent.com/files/480663659/index.html'
-thumbnail: /new-images/lows-adventures-3.jpg
+thumbnail: /new-images/thumbnails/lows-adventures-3.jpg
 tags:
   - platformer
   - adventure

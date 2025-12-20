@@ -4,7 +4,7 @@ urlstr: crossword-puzzle
 title: Crossword Puzzle
 description: "Crossword Puzzle est un classique des jeux de mots\_: remplis la grille en trouvant les réponses des définitions horizontales et verticales."
 iframeSrc: 'https://ad-freegames.github.io/flash/game/crossword-puzzle.html'
-thumbnail: /new-images/crossword-puzzle.jpg
+thumbnail: /new-images/thumbnails/crossword-puzzle.jpg
 tags:
   - word
   - puzzle

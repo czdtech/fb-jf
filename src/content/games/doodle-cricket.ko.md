@@ -6,7 +6,7 @@ description: >-
   구글 두들로 유명한 캐주얼 크리켓 미니 게임입니다. 투구 타이밍에 맞춰 배트를
   휘둘러 런을 획득하고, 아웃되지 않도록 최대 점수에 도전해 보세요.
 iframeSrc: 'https://f3.silvergames.com/m/doodle-cricket/'
-thumbnail: /new-images/doodle-cricket.jpg
+thumbnail: /new-images/thumbnails/doodle-cricket.jpg
 tags:
   - sports
   - arcade

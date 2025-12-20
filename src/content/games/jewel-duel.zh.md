@@ -4,7 +4,7 @@ urlstr: jewel-duel
 title: "《Jewel Duel》宝石对决RPG"
 description: "《Jewel Duel》是一款将三消与 RPG 战斗融合的游戏，你通过交换宝石来发动攻击、防御与技能，以战术性消除打破敌人护盾、打断技能回合，而不只是简单堆伤害。"
 iframeSrc: 'https://5f4e2d55f2dt8.h5games.usercontent.goog/v/36105ruk0rln0/'
-thumbnail: /new-images/jewel-duel.jpg
+thumbnail: /new-images/thumbnails/jewel-duel.jpg
 tags:
   - puzzle
   - thinky

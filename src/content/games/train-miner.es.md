@@ -6,7 +6,7 @@ description: >-
   Train Miner es un puzle de tendido de vías: coloca railes, recoge
   mineral y llega a la salida optimizando giros y consumo de combustible.
 iframeSrc: "https://7r2vmm5fqv830.h5games.usercontent.goog/v/3ubj960lc0t4o/"
-thumbnail: "/new-images/train-miner.png"
+thumbnail: /new-images/thumbnails/train-miner.png
 tags:
   - puzzle
   - thinky

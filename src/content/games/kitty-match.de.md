@@ -6,7 +6,7 @@ description: >-
   Willkommen in Kitty Match, einem "purr-fekt" gemütlichen Match-3-Puzzlespiel!
   Tausche bunte Katzen-Symbole, bilde Kombos und meistere knifflige Level.
 iframeSrc: 'https://kittymatch.h5games.usercontent.goog/v/0fb0j00v75210/'
-thumbnail: /new-images/kitty-match.png
+thumbnail: /new-images/thumbnails/kitty-match.png
 tags:
   - puzzle
   - casual

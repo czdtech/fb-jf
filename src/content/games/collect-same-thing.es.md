@@ -7,7 +7,7 @@ description: >-
   idénticos, despeja el tablero y planifica siempre teniendo en cuenta el poco
   espacio disponible.
 iframeSrc: 'https://01cqom45rtuoo.h5games.usercontent.goog/v/6t1iulpqr6t5g/'
-thumbnail: /new-images/collect-same-thing.png
+thumbnail: /new-images/thumbnails/collect-same-thing.png
 tags:
   - puzzle
   - thinky

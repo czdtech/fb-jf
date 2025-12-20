@@ -7,7 +7,7 @@ description: >-
   spielerisches Machine‑Learning‑Experiment, das jede Person ohne musikalische
   Vorkenntnisse zum Komponisten macht.
 iframeSrc: 'https://gacembed.withgoogle.com/blob-opera/'
-thumbnail: /new-images/blob-opera.jpg
+thumbnail: /new-images/thumbnails/blob-opera.jpg
 tags:
   - music
   - casual

@@ -7,7 +7,7 @@ description: >-
   通过操作场景中的机关与物体，帮助 Wheely 躲避障碍、通过关卡，
   在充满童话感的世界里完成一段段温馨的小冒险。
 iframeSrc: 'https://www.friv.com/z/games/wheely/index-x.html'
-thumbnail: /new-images/wheely.jpg
+thumbnail: /new-images/thumbnails/wheely.jpg
 tags:
   - puzzle
   - adventure

@@ -4,7 +4,7 @@ urlstr: incredibox-cool-as-ice
 title: "Incredibox Cool As Ice - 在线玩 Incredibox Cool As Ice"
 description: "Incredibox Cool as Ice Mod 非常适合喜欢音乐创作和季节主题的粉丝。深入这个冰冷版本，体验前所未有的 Incredibox，为你的声音创作带来清凉的转折。"
 iframeSrc: 'https://turbowarp.org/1108441752/embed'
-thumbnail: /incredibox-cool-as-ice.png
+thumbnail: /new-images/thumbnails/incredibox-cool-as-ice.png
 tags:
   - incredibox cool as ice
   - incredibox cool as ice online

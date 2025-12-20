@@ -2,7 +2,7 @@
 title: "Cards of the Undead カーズ・オブ・ザ・アンデッド"
 description: "「Cards of the Undead」でゾンビ溢れるカードの世界を生き残れ！カードをめくって戦い、アイテムを集め、ヒーローを強化するターン制サバイバルパズル。"
 iframeSrc: "https://cardsoftheundead.h5games.usercontent.goog/v/1hioq97j28ts0/"
-thumbnail: "/new-images/cards-of-the-undead.png"
+thumbnail: /new-images/thumbnails/cards-of-the-undead.png
 urlstr: "cards-of-the-undead"
 score: "4.2/5  (1450 votes)"
 tags: ["puzzle", "strategy", "zombie"]

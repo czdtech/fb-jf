@@ -4,7 +4,7 @@ locale: en
 title: "Bloons TD"
 description: "Master the art of tower defense in Bloons TD! Strategically place and upgrade powerful monkey towers to pop waves of invading balloons (Bloons) before they overwhelm your defenses."
 iframeSrc: "https://ad-freegames.github.io/flash/game/bloons-tower-defense.html"
-thumbnail: "/new-images/bloons-td.jpg"
+thumbnail: /new-images/thumbnails/bloons-td.jpg
 urlstr: "bloons-td"
 score: "4.1/5  (812 votes)"
 tags: ["casual", "strategy"]

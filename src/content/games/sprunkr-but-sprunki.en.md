@@ -7,7 +7,7 @@ description: >-
   only experience the classic gameplay of Sprunkr, but also immerse yourself in
   the visual and auditory feast of Sprunki style.
 iframeSrc: 'https://turbowarp.org/1113707117/embed'
-thumbnail: /sprunkr-but-sprunki.png
+thumbnail: /new-images/thumbnails/sprunkr-but-sprunki.png
 urlstr: sprunkr-but-sprunki
 modType: sprunki
 score: 4.5/5  (541 votes)

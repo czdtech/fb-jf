@@ -6,7 +6,7 @@ description: >-
   Moto X3M은 점프와 공중 묘기를 섞어 험난한 코스를 돌파하는 오토바이 런앤런 레이싱
   게임으로, 장애물과 폭발 트랩을 피해 최대한 빠르게 골인을 노려야 합니다.
 iframeSrc: 'https://webglmath.github.io/moto-x3m/'
-thumbnail: /new-images/moto-x3m.jpg
+thumbnail: /new-images/thumbnails/moto-x3m.jpg
 tags:
   - racing
   - stunt

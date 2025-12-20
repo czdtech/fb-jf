@@ -6,7 +6,7 @@ description: >-
   El núcleo de Sprunki Retake New Human es reimaginar la experiencia clásica de
   Incredibox a través de un nuevo elenco de personajes humanoides.
 iframeSrc: 'https://turbowarp.org/1139615160/embed'
-thumbnail: /sprunki-retake-new-human.png
+thumbnail: /new-images/thumbnails/sprunki-retake-new-human.png
 tags:
   - sprunki retake new human
   - musical mod

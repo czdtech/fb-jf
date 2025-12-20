@@ -4,7 +4,7 @@ urlstr: 4-pics-1-word
 title: "4 Pics 1 Word"
 description: "4 Pics 1 Word est un grand classique des jeux de mots : observe 4 images, trouve le mot qui les relie et complète des dizaines d’énigmes visuelles." 
 iframeSrc: 'https://previews.customer.envatousercontent.com/files/309288896/index.html'
-thumbnail: /new-images/4-pics-1-word.jpg
+thumbnail: /new-images/thumbnails/4-pics-1-word.jpg
 tags:
     - casual
     - rhythm

@@ -3,7 +3,7 @@
 title: "Snow Rider 3D"
 description: "Snow Rider 3Dは冬をテーマにしたアクションゲームです。そりで雪山を滑り降り、障害物を避けながらできるだけ遠くへ進みます。"
 iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp45/chenling/20231130/2/index.html"
-thumbnail: "/new-images/snow-rider-3d.jpg"
+thumbnail: /new-images/thumbnails/snow-rider-3d.jpg
 urlstr: "snow-rider-3d"
 score: "4.3/5  (1041 votes)"
 tags: ["action", "3d", "winter"]

@@ -7,7 +7,7 @@ description: >-
   observe how your choices shape society, and witness the consequences of
   focusing on negativity in this unique interactive experience.
 iframeSrc: 'https://html5.iclouds.io/we-become-behold/index.html'
-thumbnail: /new-images/we-become-what-we-behold.jpg
+thumbnail: /new-images/thumbnails/we-become-what-we-behold.jpg
 urlstr: we-become-what-we-behold
 score: 4.0/5  (987 votes)
 tags:

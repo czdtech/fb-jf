@@ -7,7 +7,7 @@ description: >-
   거리마다 등장하는 적들을 즉흥 무기와 콤보, 기상천외한 스페셜 공격으로
   쓰러뜨리며 스테이지를 돌파하세요.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/hobo.html'
-thumbnail: /new-images/hobo.jpg
+thumbnail: /new-images/thumbnails/hobo.jpg
 tags:
   - fighting
   - beat-em-up

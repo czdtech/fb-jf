@@ -6,7 +6,7 @@ description: >-
   Mess on the Ranch는 어지러운 목장을 정리하는 퍼즐 게임으로, 동물과 도구를 제자리에
   돌려놓고, 울타리를 수리하며, 효율적인 동선으로 제한된 턴과 시간을 관리해야 합니다.
 iframeSrc: 'https://0b9371ju6aitg.h5games.usercontent.goog/v/0f8khbpbtdrg8/'
-thumbnail: /new-images/mess-on-the-ranch.png
+thumbnail: /new-images/thumbnails/mess-on-the-ranch.png
 tags:
   - puzzle
   - casual

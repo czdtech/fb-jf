@@ -5,7 +5,7 @@ title: "《Mega Prize Scratch》大奖刮刮卡"
 description: >-
   《Mega Prize Scratch》是一款轻松休闲的刮刮卡模拟游戏，通过刮开涂层揭示符号、匹配中奖图案，并在自定预算范围内享受揭晓瞬间的乐趣。
 iframeSrc: 'https://3a38lqtqled1o.h5games.usercontent.goog/v/37llbljplv5v0/'
-thumbnail: /new-images/mega-prize-scratch.png
+thumbnail: /new-images/thumbnails/mega-prize-scratch.png
 tags:
   - casual
 score: 3.6/5  (1538 votes)

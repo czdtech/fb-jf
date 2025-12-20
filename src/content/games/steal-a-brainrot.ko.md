@@ -7,7 +7,7 @@ description: >-
   뚫고 인터넷 밈 "Brainrot" 캐릭터를 훔쳐 기지로 가져오는 것이 목표입니다.
   스키비디 화장실 같은 밈 캐릭터를 들고 경비를 피해 도망쳐 보세요.
 iframeSrc: 'https://st.8games.net/7/8g/igra-ukradi-brejnrot-100-original/'
-thumbnail: /new-images/steal-a-brainrot.webp
+thumbnail: /new-images/thumbnails/steal-a-brainrot.webp
 tags:
   - casual
   - action

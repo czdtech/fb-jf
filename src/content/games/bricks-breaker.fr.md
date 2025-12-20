@@ -4,7 +4,7 @@ urlstr: bricks-breaker
 title: Bricks Breaker
 description: "Bricks Breaker est une version moderne du casse‑briques\_: déplace ta raquette, lance la balle, ramasse des bonus et détruis toutes les briques pour passer au niveau suivant."
 iframeSrc: 'https://5enjropk1ren8.h5games.usercontent.goog/v/6u5qapt4kt1j8/'
-thumbnail: /new-images/bricks-breaker.jpg
+thumbnail: /new-images/thumbnails/bricks-breaker.jpg
 tags:
   - action
   - casual

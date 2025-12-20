@@ -6,7 +6,7 @@ description: >-
   Tile Guru es un puzle de fichas triples muy pulido: elige fichas, gestiona
   la bandeja y despeja el tablero sin atascar tus pilas.
 iframeSrc: 'https://5en3tugq69tdo.h5games.usercontent.goog/v/4pu6to0p0cgrg/'
-thumbnail: /new-images/tile-guru.png
+thumbnail: /new-images/thumbnails/tile-guru.png
 tags:
   - mahjong
   - puzzle

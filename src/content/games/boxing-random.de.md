@@ -8,7 +8,7 @@ description: >-
   Gegner in diesem witzigen 1‑ oder 2‑Spieler‑Game auszuknocken.
 iframeSrc: >-
   https://app-197305.games.s3.yandex.net/197305/ymb675rkal3nz409zur9etesdbd74y4d/index.html
-thumbnail: /new-images/boxing-random.jpg
+thumbnail: /new-images/thumbnails/boxing-random.jpg
 tags:
   - sports
   - physics

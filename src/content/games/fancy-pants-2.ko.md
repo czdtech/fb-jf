@@ -7,7 +7,7 @@ description: >-
   비밀과 트로피가 숨겨진 손그림 스테이지를 달려 보세요.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210305/jj9/index.html
-thumbnail: /new-images/fancy-pants-2.jpg
+thumbnail: /new-images/thumbnails/fancy-pants-2.jpg
 tags:
   - platformer
   - action

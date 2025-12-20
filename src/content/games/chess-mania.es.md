@@ -7,7 +7,7 @@ description: >-
   niveles. Enfréntate a la IA, resuelve puzles desafiantes y da pasos firmes
   hacia convertirte en maestro.
 iframeSrc: 'https://chessmania.h5games.usercontent.goog/v/3if0hd2c47oo8/'
-thumbnail: /new-images/chess-mania.png
+thumbnail: /new-images/thumbnails/chess-mania.png
 tags:
   - thinky
   - 2 player

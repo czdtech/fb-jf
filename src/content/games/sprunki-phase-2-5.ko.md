@@ -6,7 +6,7 @@ description: >-
   Sprunki Phase 2.5는 농담 요소를 가득 담은 JOKE MOD로, 귀여운 캐릭터와 공포
   연출이 한 번에 뒤바뀌는 반전이 특징인 음악 제작 모드입니다.
 iframeSrc: 'https://html-classic.itch.zone/html/14324321/index.html'
-thumbnail: /sprunki-phase-2-5.png
+thumbnail: /new-images/thumbnails/sprunki-phase-2-5.png
 tags:
   - sprunki phase 2.5
 score: 4.3/5  (218 votes)

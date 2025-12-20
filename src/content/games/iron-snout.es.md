@@ -6,7 +6,7 @@ description: >-
   Beat 'em up de cerdito kung‑fú: desvía los ataques de los lobos, encadena
   patadas y devuélveles sus armas para sobrevivir a oleadas y batir récords.
 iframeSrc: 'https://webglmath.github.io/iron-snout/'
-thumbnail: /new-images/iron-snout.jpg
+thumbnail: /new-images/thumbnails/iron-snout.jpg
 tags:
   - fighting
   - arcade

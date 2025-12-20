@@ -2,7 +2,7 @@
 title: Chess チェス
 description: 「Chess」で究極の頭脳戦に挑戦。ルール、駒の動き、そして戦略を学び、盤面を支配せよ。相手のキングをチェックメイトして勝利を掴め。
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/chess/'
-thumbnail: /new-images/chess.jpg
+thumbnail: /new-images/thumbnails/chess.jpg
 urlstr: chess
 score: 4.0/5  (1497 votes)
 tags:

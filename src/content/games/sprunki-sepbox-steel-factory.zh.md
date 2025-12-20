@@ -5,7 +5,7 @@ urlstr: "sprunki-sepbox-steel-factory"
 title: "Sprunki x Sepbox Steel Factory - 在线玩 Sprunki x Sepbox Steel Factory"
 description: "Sprunki x SepBox Steel Factory 是一次独特的合作，将 Sprunki 的动态艺术性与钢铁和机械的原始机械力量相结合，为传统音乐创作带来真正独特的转折。"
 iframeSrc: "https://turbowarp.org/1099071172/embed"
-thumbnail: "/sprunki-sepbox-steel-factory.png"
+thumbnail: /new-images/thumbnails/sprunki-sepbox-steel-factory.png
 score: "4.9/5  (509 票)"
 tags: ["sprunki x sepbox steel factory"]
 ---

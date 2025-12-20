@@ -6,7 +6,7 @@ description: >-
   Sudoku Plus는 힌트, 메모, 오류 체크 등 편의 기능을 갖춘 9x9 스도쿠 퍼즐 컬렉션입니다. 입문자부터 숙련자까지 논리 퍼즐을
   깔끔한 인터페이스로 즐길 수 있습니다.
 iframeSrc: 'https://sudokuplus.h5games.usercontent.goog/v/3q827iuj6msno/'
-thumbnail: /new-images/sudoku-plus.jpg
+thumbnail: /new-images/thumbnails/sudoku-plus.jpg
 tags:
   - puzzle
   - thinky

@@ -6,7 +6,7 @@ description: >-
   Superhot은 "내가 움직일 때만 시간이 흐르는" 독특한 규칙을 가진 1인칭 슈팅 게임입니다.
   슬로 모션 속에서 한 발 한 발을 계산해, 액션과 퍼즐을 동시에 즐길 수 있습니다.
 iframeSrc: 'https://superhotgame.com/superhot-prototype-iframe'
-thumbnail: /new-images/superhot.jpg
+thumbnail: /new-images/thumbnails/superhot.jpg
 tags:
   - shooting
   - strategy

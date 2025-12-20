@@ -6,7 +6,7 @@ description: >-
   Doodle Cricket es un minijuego de críquet casual: ajusta la sincronización del golpe para sumar
   carreras mientras evitas que te eliminen.
 iframeSrc: 'https://f3.silvergames.com/m/doodle-cricket/'
-thumbnail: /new-images/doodle-cricket.jpg
+thumbnail: /new-images/thumbnails/doodle-cricket.jpg
 tags:
   - sports
   - arcade

@@ -7,7 +7,7 @@ description: >-
   Sprunki Brasil, and use your music to convey the passion and vitality of
   Brazil to the world!
 iframeSrc: 'https://turbowarp.org/1080827660/embed'
-thumbnail: /super-sprunki-brasil.png
+thumbnail: /new-images/thumbnails/super-sprunki-brasil.png
 urlstr: super-sprunki-brasil
 modType: sprunki
 score: 4.3/5  (380 votes)

@@ -2,7 +2,7 @@
 title: Tractor Mania
 description: Tractor Maniaは、トラクターレーシングゲームです。でこぼこ道を走破してゴールを目指しましょう。
 iframeSrc: 'https://ubg98.github.io/TractorMania/'
-thumbnail: /new-images/tractor-mania.jpg
+thumbnail: /new-images/thumbnails/tractor-mania.png
 urlstr: tractor-mania
 score: 4.3/5  (2234 votes)
 tags:

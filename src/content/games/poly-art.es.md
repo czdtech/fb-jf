@@ -7,7 +7,7 @@ description: >-
   puzles en 3D. Gira una nube de polígonos de colores hasta que se alineen para
   revelar una imagen completa y espectacular.
 iframeSrc: "https://polyart.h5games.usercontent.goog/v/47aiosp2dbqgg/"
-thumbnail: "/new-images/poly-art.png"
+thumbnail: /new-images/thumbnails/poly-art.png
 tags:
   - puzzle
   - thinky

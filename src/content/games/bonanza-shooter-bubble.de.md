@@ -7,7 +7,7 @@ description: >-
   die Bande, verwalte die Farben klug und lasse große Cluster für viele Punkte
   herabstürzen.
 iframeSrc: 'https://65bijcm9l375g.h5games.usercontent.goog/v/6v521t1km2i30/'
-thumbnail: /new-images/bonanza-shooter-bubble.jpg
+thumbnail: /new-images/thumbnails/bonanza-shooter-bubble.jpg
 tags:
   - puzzle
   - casual

@@ -7,7 +7,7 @@ description: >-
   interaktiven Szene, in der du mit Bürogegenständen über ein Dutzend absurde
   „Whacks“ auf deinen nervigen Chef entdecken kannst.
 iframeSrc: 'https://flash-cdn.blogspot.com/2021/06/whack-your-boss-24-ways.html'
-thumbnail: /new-images/whack-your-boss.jpg
+thumbnail: /new-images/thumbnails/whack-your-boss.jpg
 tags:
   - interactive
   - funny

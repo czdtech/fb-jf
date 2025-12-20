@@ -5,7 +5,7 @@ description: >-
   Sprunki Dandy's World is a magical fusion of music, art, and storytelling
   where you create your own exclusive music video.
 iframeSrc: 'https://turbowarp.org/1075503895/embed'
-thumbnail: /sprunki-dandys-world.png
+thumbnail: /new-images/thumbnails/sprunki-dandys-world.png
 urlstr: sprunki-dandys-world
 modType: sprunki
 score: 4.4/5  (304 votes)

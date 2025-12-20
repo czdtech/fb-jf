@@ -2,7 +2,7 @@
 title: "Galactic Empire"
 description: "トップダウン型の宇宙戦略ゲーム：資源を収穫し、船や防衛施設を建設し、敵の波を防ぎながらセクターを占領しましょう。"
 iframeSrc: "https://g.igroutka.ru/games/164/8plhaK3IOLoFbVPB/2/galactic_empire/"
-thumbnail: "/new-images/galactic-empire.jpg"
+thumbnail: /new-images/thumbnails/galactic-empire.jpg
 urlstr: "galactic-empire"
 score: "4.3/5  (618 votes)"
 tags: ["strategy", "space"]

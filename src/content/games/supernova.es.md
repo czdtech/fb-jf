@@ -7,7 +7,7 @@ description: >-
   asteroides, destruye rocas y amenazas y sobrevive el máximo tiempo posible
   para batir récords.
 iframeSrc: 'https://rebemanae.github.io/supernova/'
-thumbnail: /new-images/supernova.jpg
+thumbnail: /new-images/thumbnails/supernova.jpg
 tags:
   - action
   - shooting

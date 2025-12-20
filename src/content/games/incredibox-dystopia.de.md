@@ -7,7 +7,7 @@ description: >-
   futuristische Beats aus Synthwave-, Darkwave- und Industrial-Sounds und
   schalte passende, dystopische Boni frei.
 iframeSrc: 'https://turbowarp.org/1015284026/embed'
-thumbnail: /new-images/incredibox-dystopia.png
+thumbnail: /new-images/thumbnails/incredibox-dystopia.png
 tags:
   - music
   - electronic

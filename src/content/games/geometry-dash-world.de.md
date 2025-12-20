@@ -7,7 +7,7 @@ description: >-
   Laufe, springe und fliege durch kompakte Musik-Level, sammle Orbs zum
   Freischalten von Toren und spiele tägliche Stages.
 iframeSrc: 'https://geometrylite.io/game/geometry-dash-world/'
-thumbnail: /new-images/geometry-dash-world.jpg
+thumbnail: /new-images/thumbnails/geometry-dash-world.jpg
 tags:
   - rhythm
   - platformer

@@ -5,7 +5,7 @@ title: "Geometry Dash Wave"
 description: "Maîtrise le rythme et traverse des niveaux piégés dans Geometry Dash Wave ! Contrôle un triangle qui monte ou descend en diagonale d’un simple clic et cale parfaitement tes taps pour éviter les obstacles dans ce platformer musical addictif."
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp45/chenling/20231205/04/index.html
-thumbnail: /new-images/geometry-dash-wave.jpg
+thumbnail: /new-images/thumbnails/geometry-dash-wave.jpg
 tags:
   - rhythm
   - platformer

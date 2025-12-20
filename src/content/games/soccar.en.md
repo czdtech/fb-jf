@@ -4,7 +4,7 @@ locale: en
 title: "SocCar"
 description: "Get behind the wheel in SocCar, an action-packed game that combines the thrill of soccer with the power of cars. Drive on the field, boost into the giant soccer ball, and score goals against your opponent. Master your driving and aiming skills to win the match."
 iframeSrc: "https://ubg77.github.io/edit/soccar/"
-thumbnail: "/new-images/soccar.jpg"
+thumbnail: /new-images/thumbnails/soccar.jpg
 urlstr: "soccar"
 score: "4.7/5  (870 votes)"
 tags: ["sports", "cars", "action"]

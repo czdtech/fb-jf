@@ -7,7 +7,7 @@ description: >-
   Gegenstände strategisch in einen Umzugswagen laden musst, damit alles sicher
   und im Gleichgewicht am Ziel ankommt.
 iframeSrc: 'https://g.igroutka.ru/games/164/JgHSvhdBMa5pf4WZ/moving_truck/'
-thumbnail: /new-images/moving-truck.jpg
+thumbnail: /new-images/thumbnails/moving-truck.jpg
 tags:
   - puzzle
   - physics

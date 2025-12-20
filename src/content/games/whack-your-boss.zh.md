@@ -7,7 +7,7 @@ description: >-
   点击办公室里的各种物品，解锁十几种离谱又好笑的“收拾老板”的动画场景，
   纯属黑色幽默与减压娱乐。
 iframeSrc: 'https://flash-cdn.blogspot.com/2021/06/whack-your-boss-24-ways.html'
-thumbnail: /new-images/whack-your-boss.jpg
+thumbnail: /new-images/thumbnails/whack-your-boss.jpg
 tags:
   - interactive
   - funny

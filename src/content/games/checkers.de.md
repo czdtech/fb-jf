@@ -8,7 +8,7 @@ description: >-
   Steine in Könige zu verwandeln.
 iframeSrc: >-
   https://app-98054.games.s3.yandex.net/98054/nmrr3mfit1y3qyd35l9zk4d8awgfxsjq/index.html
-thumbnail: /new-images/checkers.jpg
+thumbnail: /new-images/thumbnails/checkers.jpg
 tags:
   - strategy
   - puzzle

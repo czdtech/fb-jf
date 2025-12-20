@@ -3,7 +3,7 @@ locale: en
 title: "Om Nom Connect Classic"
 description: "Connect with Om Nom in this classic tile-matching puzzle! Find pairs of identical tiles featuring Om Nom and his friends, and clear the board by linking them with a path of no more than two turns."
 iframeSrc: "https://omnomconnectclassic.h5games.usercontent.goog/v/6bc88dac-9f6b-4f2f-8c85-e715c899bb63/"
-thumbnail: "/new-images/om-nom-connect-classic.jpg"
+thumbnail: /new-images/thumbnails/om-nom-connect-classic.jpg
 urlstr: "om-nom-connect-classic"
 score: "4.4/5  (2400 votes)"
 tags: ["puzzle", "casual", "thinky"]
