@@ -21,11 +21,36 @@ type Frontmatter = {
   sidebarNew?: number;
   sidebarPopular?: number;
   modType?: string;
+  featured?: boolean;
+  featuredRank?: number;
 };
 
 function normalizeSlug(raw: string): string {
   return raw.trim().replace(/^\/+/, '').replace(/\/+$/, '');
 }
+
+// Reserved routes / prefixes that must never be used as canonical urlstr.
+// This prevents route conflicts and i18n edge cases.
+const RESERVED_CANONICAL_URLSTR = new Set([
+  // Built-in/site pages
+  'admin',
+  'search',
+  'games',
+  'update-games',
+  'fiddlebops-mod',
+  'incredibox-mod',
+  'sprunki-mod',
+  'c',
+  'privacy',
+  'terms-of-service',
+  // Locale prefixes (non-default)
+  'zh',
+  'es',
+  'fr',
+  'de',
+  'ja',
+  'ko',
+]);
 
 describe('Content Constraints - Canonical Games', () => {
   it('should keep canonical urlstr unique and bound to filename', async () => {
@@ -47,6 +72,7 @@ describe('Content Constraints - Canonical Games', () => {
 
       // Strong binding: filename matches urlstr exactly (no leading/trailing slashes).
       expect(slug).toBe(base);
+      expect(RESERVED_CANONICAL_URLSTR.has(slug)).toBe(false);
 
       const prev = seen.get(slug);
       if (prev) {
@@ -90,6 +116,38 @@ describe('Content Constraints - Canonical Games', () => {
           throw new Error(`Duplicate sidebarPopular slot ${fm.sidebarPopular}: ${prev} and ${filename}`);
         }
         popularSlots.set(fm.sidebarPopular, filename);
+      }
+    }
+  });
+
+  it('should keep featuredRank unique (1..3) and require it when featured=true', async () => {
+    const files = (await fs.readdir(GAMES_DIR)).filter((f) => f.endsWith('.en.md'));
+
+    const featuredRanks = new Map<number, string>();
+
+    for (const filename of files) {
+      const filePath = path.join(GAMES_DIR, filename);
+      const raw = await fs.readFile(filePath, 'utf8');
+      const { data } = matter(raw);
+      const fm = data as Frontmatter;
+
+      if (fm.locale && fm.locale !== 'en') continue;
+
+      if (fm.featured) {
+        expect(typeof fm.featuredRank).toBe('number');
+        expect(Number.isInteger(fm.featuredRank)).toBe(true);
+        expect(fm.featuredRank).toBeGreaterThanOrEqual(1);
+        expect(fm.featuredRank).toBeLessThanOrEqual(3);
+
+        const prev = featuredRanks.get(fm.featuredRank!);
+        if (prev) {
+          throw new Error(`Duplicate featuredRank ${fm.featuredRank}: ${prev} and ${filename}`);
+        }
+        featuredRanks.set(fm.featuredRank!, filename);
+      }
+
+      if (!fm.featured && typeof fm.featuredRank === 'number') {
+        throw new Error(`featuredRank is set but featured=false in ${filename} (remove featuredRank or set featured=true)`);
       }
     }
   });

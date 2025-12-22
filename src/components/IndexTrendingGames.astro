@@ -4,6 +4,7 @@ import { getCanonicalGames, toGameCardData, type GameEntry } from '../lib/canoni
 import { getVoteCountFromScore } from '../lib/score';
 import { seededShuffle, getTrendingSeed } from '../lib/seeded-shuffle';
 import { loadTrendingItems } from '../lib/trending';
+import { getFeaturedGames, getFeaturedSlugSet } from '../lib/featured';
 
 interface Props {
   lang?: string;
@@ -13,7 +14,9 @@ const { lang = 'en' } = Astro.props as Props;
 const locale = getLocaleFromLangAttr(lang);
 const t = useTranslations(locale);
 
-const numberOfGamesToShow = 12;
+// 展示口径：这里的数量 = 最终总数（包含 featured）。
+// 现网原本是 featured(3) + 非 featured(12) = 15，这里保持总量不变。
+const numberOfGamesToShow = 15;
 const seed = getTrendingSeed('daily');
 
 const canonicalGames = await getCanonicalGames();
@@ -22,13 +25,9 @@ const getSlug = (entry: GameEntry): string =>
 
 const getReleaseDateMs = (entry: GameEntry): number => (entry.data.releaseDate ? entry.data.releaseDate.getTime() : 0);
 
-const featuredSlugs = ['steal-a-brainrot', '99-nights-in-the-forest', 'grow-a-garden'] as const;
-const featuredSet = new Set<string>(featuredSlugs);
-const isEntry = (e: GameEntry | undefined): e is GameEntry => Boolean(e);
-
-const featuredGames = featuredSlugs
-  .map((slug) => canonicalGames.find((g) => getSlug(g) === slug))
-  .filter(isEntry);
+const featuredGames = getFeaturedGames(canonicalGames);
+const featuredSet = getFeaturedSlugSet(featuredGames);
+const nonFeaturedSlots = Math.max(0, numberOfGamesToShow - featuredGames.length);
 
 const bySlug = new Map<string, GameEntry>();
 for (const game of canonicalGames) {
@@ -43,20 +42,21 @@ const pickedGames: GameEntry[] = [];
 
 for (const item of trendingItems) {
   const slug = item.slug;
-  if (featuredSet.has(slug)) continue;
   if (pickedSlugs.has(slug)) continue;
 
   const entry = bySlug.get(slug);
   if (!entry) continue;
 
   pickedSlugs.add(slug);
-  pickedGames.push(entry);
-  if (pickedGames.length >= numberOfGamesToShow) break;
+  if (!featuredSet.has(slug)) {
+    pickedGames.push(entry);
+  }
+  if (pickedGames.length >= nonFeaturedSlots) break;
 }
 
 const fallbackPool = pool.filter((g) => !pickedSlugs.has(getSlug(g)));
 
-const remaining = Math.max(0, numberOfGamesToShow - pickedGames.length);
+const remaining = Math.max(0, nonFeaturedSlots - pickedGames.length);
 const POPULAR_POOL_SIZE = 120;
 const NEW_POOL_SIZE = 120;
 const POPULAR_BATCH = 3;

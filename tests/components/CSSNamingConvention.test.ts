@@ -29,24 +29,11 @@ const CSS_FILES = [
 const CSS_CLASS_REGEX = /\.([a-zA-Z_-][a-zA-Z0-9_-]*)/g;
 
 // Regex to validate kebab-case (lowercase letters, numbers, and hyphens)
-// Allows: .class-name, .class-name-2, .a2a_button_x (third-party)
+// Allows: .class-name, .class-name-2
 const KEBAB_CASE_REGEX = /^[a-z][a-z0-9]*(-[a-z0-9]+)*$/;
 
 // Known exceptions - third-party class names that don't follow kebab-case
 const KNOWN_EXCEPTIONS = [
-  // AddToAny social sharing classes
-  'a2a_kit',
-  'a2a_kit_size_32',
-  'a2a_floating_style',
-  'a2a_default_style',
-  'a2a_vertical_style',
-  'a2a_button_x',
-  'a2a_button_reddit',
-  'a2a_button_facebook',
-  'a2a_button_telegram',
-  'a2a_button_whatsapp',
-  'a2a_button_linkedin',
-  'a2a_dd',
   // Svelte-generated classes
   'svelte-bpq1qa',
   // Font Awesome classes
@@ -98,8 +85,8 @@ function isKebabCase(className: string): boolean {
     return true;
   }
   
-  // Skip third-party prefixes (a2a_, fa-, etc.)
-  if (className.startsWith('a2a_') || className.startsWith('fa-')) {
+  // Skip third-party prefixes (fa-, etc.)
+  if (className.startsWith('fa-')) {
     return true;
   }
   

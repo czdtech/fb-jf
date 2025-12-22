@@ -6,11 +6,13 @@
  * 
  * Uses relative paths internally, resolves to absolute URLs for meta tags (Requirements: 7.3)
  */
+import { getLocaleFromLangAttr, type Locale } from '../i18n/routing';
 interface Props {
   title: string;
   description: string;
   canonicalUrl: string;
   keywords?: string;
+  lang?: string;
   ogImage?: string;
   ogType?: string;
   ogUrl?: string;
@@ -29,6 +31,7 @@ const {
   description,
   canonicalUrl,
   keywords,
+  lang = 'en',
   ogImage = DEFAULT_OG_IMAGE,
   ogType = 'website',
   twitterCard = 'summary_large_image',
@@ -55,6 +58,29 @@ const resolveImageUrl = (imagePath: string): string => {
 const resolvedOgImage = resolveImageUrl(ogImage);
 const resolvedOgUrl = ogUrl ?? canonicalUrl;
 const resolvedTwitterSite = twitterSiteUrl ?? canonicalUrl;
+
+function getOgLocaleFromLangAttr(langAttr: string): string {
+  const locale: Locale = getLocaleFromLangAttr(langAttr);
+  switch (locale) {
+    case 'zh':
+      return 'zh_CN';
+    case 'de':
+      return 'de_DE';
+    case 'fr':
+      return 'fr_FR';
+    case 'es':
+      return 'es_ES';
+    case 'ja':
+      return 'ja_JP';
+    case 'ko':
+      return 'ko_KR';
+    case 'en':
+    default:
+      return 'en_US';
+  }
+}
+
+const ogLocale = getOgLocaleFromLangAttr(lang);
 ---
 
 <title>{title}</title>
@@ -72,7 +98,7 @@ const resolvedTwitterSite = twitterSiteUrl ?? canonicalUrl;
 <meta property="og:description" content={description} />
 <meta property="og:url" content={resolvedOgUrl} />
 <meta property="og:site_name" content="FiddleBops" />
-<meta property="og:locale" content="en_US" />
+<meta property="og:locale" content={ogLocale} />
 <meta property="og:image" content={resolvedOgImage} />
 <meta property="og:type" content={ogType} />
 

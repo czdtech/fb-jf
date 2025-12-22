@@ -1,5 +1,6 @@
 ---
 import { getLocaleFromLangAttr, useTranslations } from '../i18n/utils';
+import { defaultLocale, locales } from '../i18n/routing';
 
 interface Props {
   lang?: string;
@@ -9,7 +10,7 @@ const { lang = 'en' } = Astro.props as Props;
 const locale = getLocaleFromLangAttr(lang);
 const t = useTranslations(locale);
 
-const localePrefixes = ['zh', 'es', 'fr', 'de', 'ja', 'ko'] as const;
+const localePrefixes = locales.filter((l) => l !== defaultLocale);
 ---
 
 <section class="games">

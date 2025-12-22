@@ -13,6 +13,10 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 
+# i18n validation reports (generated)
+i18n-metadata-report.json
+i18n-structure-report.json
+
 # environment variables
 .env
 .env.production

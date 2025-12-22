@@ -16,11 +16,12 @@ import fs from 'fs/promises';
 import path from 'path';
 import matter from 'gray-matter';
 import fc from 'fast-check';
+import { defaultLocale, locales, type Locale as RoutingLocale } from '../../src/i18n/routing';
 
 const GAMES_DIR = path.join(process.cwd(), 'src', 'content', 'games');
-const TARGET_LOCALES = ['zh', 'ja', 'es', 'fr', 'de', 'ko'] as const;
+const TARGET_LOCALES = locales.filter((l) => l !== defaultLocale);
 
-type Locale = 'en' | typeof TARGET_LOCALES[number];
+type Locale = RoutingLocale;
 
 interface GameFile {
   filename: string;
@@ -52,7 +53,7 @@ async function loadGameFiles(): Promise<GameFile[]> {
     const urlstr: string =
       typeof data.urlstr === 'string' && data.urlstr.trim() !== ''
         ? data.urlstr
-        : filename.replace(/\.(en|zh|ja|es|fr|de|ko)\.md$/, '');
+        : filename.replace(new RegExp(`\\.(${locales.join('|')})\\.md$`), '');
 
     results.push({
       filename,

@@ -33,6 +33,7 @@ const PATH_LANG_SEGMENTS = new Set(locales.filter((locale) => locale !== default
 const LIST_SLUGS = new Set([
   'games',
   'update-games',
+  'search',
   'fiddlebops-mod',
   'incredibox-mod',
   'sprunki-mod',

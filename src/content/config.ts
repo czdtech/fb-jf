@@ -16,6 +16,7 @@ const gamesCollection = defineCollection({
     modType: z.enum(['sprunki', 'incredibox', 'fiddlebops']).optional(),
     // 运营/展示字段：用于侧栏与精选
     featured: z.boolean().optional(),
+    featuredRank: z.number().int().min(1).max(3).optional(),
     sidebarNew: z.number().int().min(1).max(4).optional(),
     sidebarPopular: z.number().int().min(1).max(4).optional(),
     // 使用 .optional() 来定义可选字段

@@ -14,6 +14,7 @@ import Analytics from '../components/Analytics.astro';
 import Footer from '../components/Footer.astro';
 import StarRating from '../components/StarRating.astro';
 import CookieConsent from '../components/CookieConsent.astro';
+import ShareButtons from '../components/ShareButtons.astro';
 
 // Import existing page components (maintain backward compatibility)
 import Header from '../components/Header.astro';
@@ -89,6 +90,7 @@ const jsonLd = {
       description={description}
       canonicalUrl={canonicalUrl}
       keywords={keywords}
+      lang={lang}
       ogImage={thumbnail}
       ogUrl={ogUrl}
       twitterSiteUrl={twitterSiteUrl}
@@ -142,16 +144,7 @@ const jsonLd = {
 
     <Footer lang={lang} />
     <CookieConsent lang={lang} />
-<div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_default_style" data-a2a-scroll-show="0,60">
-
-<a class="a2a_button_x"></a>
-<a class="a2a_button_reddit"></a>
-<a class="a2a_button_facebook"></a>
-<a class="a2a_button_telegram"></a>
-<a class="a2a_button_whatsapp"></a>
-<a class="a2a_button_linkedin"></a>
-    <a class="a2a_dd" href="/"></a>
-</div>
+    <ShareButtons url={canonicalUrl} title={cardTitle} lang={lang} />
 
 <!-- Store iframe config as data attributes for the module to read -->
 <div id="game-config" 
@@ -243,18 +236,6 @@ const jsonLd = {
     }
   });
 </script>
-<!-- AddToAny BEGIN -->
-<div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_vertical_style">
-<a class="a2a_button_x"></a>
-<a class="a2a_button_reddit"></a>
-<a class="a2a_button_facebook"></a>
-<a class="a2a_button_telegram"></a>
-<a class="a2a_button_whatsapp"></a>
-<a class="a2a_button_linkedin"></a>
-    <a class="a2a_dd" href="/"></a>
-</div>
-
-<script defer src="https://static.addtoany.com/menu/page.js"></script>
 
 </body>
 </html>

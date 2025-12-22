@@ -1,17 +1,18 @@
 ---
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import CATEGORIES from '../../../components/Categories.astro';
-import type { CollectionEntry } from 'astro:content';
 import { getCategoryHreflang } from '../../../data/hreflang';
+import { toGameCardData, type GameEntry } from '../../../lib/canonical-games';
 
 export { getStaticPaths } from '../../c/[slug].astro';
 
 type Props = {
-  games: CollectionEntry<'games'>[];
+  games: GameEntry[];
   tagName: string;
 };
 
 const { games, tagName } = Astro.props as Props;
+const locale = 'zh';
 const slug = Astro.params.slug!;
 const hreflangLinks = getCategoryHreflang(slug);
 
@@ -23,7 +24,7 @@ const displayTagName = tagName
 const gameCount = games.length;
 const description = `在 FiddleBops 游戏世界中免费在线游玩 ${gameCount} 个 ${displayTagName} 相关游戏，包括 ${games
   .slice(0, 3)
-  .map((g) => g.data.title.split(' - ')[0])
+  .map((g) => toGameCardData(g, locale).title)
   .join('、')} 等。`;
 const title = `${displayTagName} 游戏 - FiddleBops 游戏世界`;
 const canonicalUrl = `https://www.playfiddlebops.com/zh/c/${slug}/`;
@@ -34,11 +35,14 @@ const jsonLd = {
   name: title,
   description,
   url: canonicalUrl,
-  itemListElement: games.map((game, index) => ({
-    '@type': 'ListItem',
-    position: index + 1,
-    url: `https://www.playfiddlebops.com/zh/${game.data.urlstr ?? game.slug}/`
-  }))
+  itemListElement: games.map((game, index) => {
+    const card = toGameCardData(game, locale);
+    return {
+      '@type': 'ListItem',
+      position: index + 1,
+      url: `https://www.playfiddlebops.com${card.href}`,
+    };
+  }),
 };
 ---
 <BaseLayout
@@ -57,21 +61,20 @@ const jsonLd = {
       </p>
       <div class="game-grid">
         {games.map((game) => {
-          const url = `/zh/${game.data.urlstr ?? game.slug}/`;
-          const gameTitle = game.data.title.split(' - ')[0];
+          const card = toGameCardData(game, locale);
           return (
             <article class="game">
-              <a href={url}>
+              <a href={card.href}>
                 <div class="game-logo">
                   <img
-                    src={game.data.thumbnail}
-                    alt={gameTitle}
+                    src={card.thumbnail}
+                    alt={card.title}
                     loading="lazy"
                     width="300"
                     height="300"
                   />
                 </div>
-                <p>{gameTitle}</p>
+                <p>{card.title}</p>
               </a>
             </article>
           );

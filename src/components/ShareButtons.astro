@@ -1,0 +1,292 @@
+---
+interface Props {
+  url: string;
+  title: string;
+  lang?: string;
+}
+
+const { url, title } = Astro.props as Props;
+
+const encodedUrl = encodeURIComponent(url);
+const encodedTitle = encodeURIComponent(title);
+const encodedText = encodeURIComponent(`${title} ${url}`);
+const encodedEmailBody = encodeURIComponent(`${title}\n${url}`);
+
+const links = [
+  {
+    id: 'x',
+    label: 'X',
+    iconClass: 'fa-brands fa-twitter',
+    href: `https://twitter.com/intent/tweet?text=${encodedTitle}&url=${encodedUrl}`,
+  },
+  {
+    id: 'facebook',
+    label: 'Facebook',
+    iconClass: 'fa-brands fa-facebook',
+    href: `https://www.facebook.com/sharer/sharer.php?u=${encodedUrl}`,
+  },
+  {
+    id: 'reddit',
+    label: 'Reddit',
+    iconClass: 'fa-brands fa-reddit-alien',
+    href: `https://www.reddit.com/submit?url=${encodedUrl}&title=${encodedTitle}`,
+  },
+  {
+    id: 'whatsapp',
+    label: 'WhatsApp',
+    iconClass: 'fa-brands fa-whatsapp',
+    href: `https://wa.me/?text=${encodedText}`,
+  },
+  {
+    id: 'telegram',
+    label: 'Telegram',
+    iconClass: 'fa-brands fa-telegram',
+    href: `https://t.me/share/url?url=${encodedUrl}&text=${encodedTitle}`,
+  },
+  {
+    id: 'linkedin',
+    label: 'LinkedIn',
+    iconClass: 'fa-brands fa-linkedin',
+    href: `https://www.linkedin.com/sharing/share-offsite/?url=${encodedUrl}`,
+  },
+  {
+    id: 'pinterest',
+    label: 'Pinterest',
+    iconClass: 'fa-brands fa-pinterest',
+    href: `https://pinterest.com/pin/create/button/?url=${encodedUrl}&description=${encodedTitle}`,
+  },
+  {
+    id: 'email',
+    label: 'Email',
+    iconClass: 'fa-solid fa-envelope',
+    href: `mailto:?subject=${encodedTitle}&body=${encodedEmailBody}`,
+  },
+] as const;
+---
+
+<details
+  class="share-widget"
+  data-share-widget
+  data-share-url={url}
+  data-share-title={title}
+>
+  <summary class="share-toggle" aria-label="Share">
+    <i class="fa-solid fa-share" aria-hidden="true"></i>
+    <span class="share-toggle-text">Share</span>
+  </summary>
+
+  <div class="share-menu" role="menu" aria-label="Share options">
+    <div class="share-actions">
+      <button type="button" class="share-action" data-share-action="native">Share…</button>
+      <button type="button" class="share-action" data-share-action="copy">Copy link</button>
+    </div>
+
+    <div class="share-links" role="presentation">
+      {links.map((link) => (
+        <a
+          class="share-link"
+          href={link.href}
+          target="_blank"
+          rel="noopener noreferrer nofollow"
+          aria-label={`Share on ${link.label}`}
+        >
+          <i class={link.iconClass} aria-hidden="true"></i>
+          <span class="share-link-text">{link.label}</span>
+        </a>
+      ))}
+    </div>
+
+    <p class="share-status" aria-live="polite" data-share-status></p>
+  </div>
+</details>
+
+<script>
+  function copyToClipboard(text) {
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      return navigator.clipboard.writeText(text).then(
+        () => true,
+        () => false
+      );
+    }
+
+    try {
+      const textarea = document.createElement('textarea');
+      textarea.value = text;
+      textarea.setAttribute('readonly', '');
+      textarea.style.position = 'fixed';
+      textarea.style.opacity = '0';
+      textarea.style.left = '-9999px';
+      document.body.appendChild(textarea);
+      textarea.select();
+      const ok = document.execCommand('copy');
+      document.body.removeChild(textarea);
+      return Promise.resolve(ok);
+    } catch {
+      return Promise.resolve(false);
+    }
+  }
+
+  function setStatus(el, message) {
+    if (!el) return;
+    el.textContent = message;
+    window.clearTimeout(el.__shareTimer);
+    el.__shareTimer = window.setTimeout(() => {
+      el.textContent = '';
+    }, 2200);
+  }
+
+  function initShareWidget(widget) {
+    const url = widget.dataset.shareUrl || '';
+    const title = widget.dataset.shareTitle || '';
+    const statusEl = widget.querySelector('[data-share-status]');
+    const nativeBtn = widget.querySelector('[data-share-action=\"native\"]');
+    const copyBtn = widget.querySelector('[data-share-action=\"copy\"]');
+
+    if (nativeBtn) {
+      if (typeof navigator.share !== 'function') {
+        nativeBtn.style.display = 'none';
+      } else {
+        nativeBtn.addEventListener('click', async () => {
+          try {
+            await navigator.share({ title, text: title, url });
+            widget.removeAttribute('open');
+          } catch {
+            // user cancelled or share failed; keep silent
+          }
+        });
+      }
+    }
+
+    if (copyBtn) {
+      copyBtn.addEventListener('click', async () => {
+        const ok = await copyToClipboard(url);
+        setStatus(statusEl, ok ? 'Link copied' : 'Copy failed');
+        if (ok) widget.removeAttribute('open');
+      });
+    }
+
+    widget.querySelectorAll('a.share-link').forEach((a) => {
+      a.addEventListener('click', () => {
+        widget.removeAttribute('open');
+      });
+    });
+  }
+
+  document.addEventListener('DOMContentLoaded', () => {
+    document.querySelectorAll('[data-share-widget]').forEach((widget) => initShareWidget(widget));
+  });
+</script>
+
+<style>
+  .share-widget {
+    position: fixed;
+    right: 16px;
+    bottom: 16px;
+    z-index: 9999;
+  }
+
+  .share-toggle {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 10px 12px;
+    border-radius: 999px;
+    background: rgba(17, 17, 17, 0.92);
+    border: 1px solid rgba(255, 255, 255, 0.12);
+    color: #fff;
+    cursor: pointer;
+    user-select: none;
+    list-style: none;
+  }
+
+  .share-toggle::-webkit-details-marker {
+    display: none;
+  }
+
+  .share-toggle-text {
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 1;
+  }
+
+  .share-menu {
+    position: absolute;
+    right: 0;
+    bottom: calc(100% + 10px);
+    width: min(320px, calc(100vw - 32px));
+    border-radius: 14px;
+    padding: 12px;
+    background: rgba(17, 17, 17, 0.96);
+    border: 1px solid rgba(255, 255, 255, 0.12);
+    box-shadow: 0 18px 40px rgba(0, 0, 0, 0.35);
+  }
+
+  .share-actions {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 10px;
+  }
+
+  .share-action {
+    flex: 1 1 auto;
+    padding: 10px 10px;
+    border-radius: 10px;
+    background: rgba(255, 255, 255, 0.08);
+    border: 1px solid rgba(255, 255, 255, 0.12);
+    color: #fff;
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 13px;
+  }
+
+  .share-action:hover {
+    background: rgba(255, 255, 255, 0.12);
+  }
+
+  .share-links {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 8px;
+  }
+
+  .share-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 10px 10px;
+    border-radius: 10px;
+    background: rgba(255, 255, 255, 0.06);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    color: #fff;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 13px;
+  }
+
+  .share-link:hover {
+    background: rgba(255, 255, 255, 0.1);
+  }
+
+  .share-link-text {
+    line-height: 1;
+  }
+
+  .share-status {
+    margin: 10px 2px 0;
+    min-height: 18px;
+    color: rgba(255, 255, 255, 0.8);
+    font-size: 12px;
+  }
+
+  @media (max-width: 640px) {
+    .share-widget {
+      right: 12px;
+      bottom: 12px;
+    }
+
+    .share-links {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>
+

@@ -1,15 +1,16 @@
 ---
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import { UPDATE_GAMES_HREFLANG } from '../../../data/hreflang';
+import { toGameCardData } from '../../../lib/canonical-games';
 export { getStaticPaths } from '../../update-games/[...page].astro';
 
 // 所有分页数据都在 "page" 参数中传递
 const { page } = Astro.props;
-const prefix = '/zh';
+const locale = 'zh';
 const title = '最新游戏 - FiddleBops 游戏世界';
 const description =
   '在 FiddleBops 游戏世界中查看最新上线的小游戏，包括休闲、益智、音乐等多种类型，在线免费畅玩，无需下载。';
-// 保持与英文版相同的 canonical，沿用 /new-game/ 以兼容既有 SEO
+// canonical 使用当前页面自身 URL
 const canonicalUrl = 'https://www.playfiddlebops.com/zh/update-games/';
 const ogImage = 'https://www.playfiddlebops.com/tw.jpg';
 const jsonLd = {
@@ -40,17 +41,15 @@ const jsonLd = {
       </p>
 
       <div class="game-grid">
-        {page.data.map(({ astronaut }) => {
-          const [href, thumbnail, gameTitle] = astronaut;
-          const localizedHref = href.startsWith('http') ? href : `${prefix}${href}`;
-
+        {page.data.map((entry) => {
+          const card = toGameCardData(entry, locale);
           return (
             <article class="game">
-              <a href={localizedHref} title={gameTitle}>
+              <a href={card.href} title={card.title}>
                 <div class="game-logo">
-                  <img src={thumbnail} alt={gameTitle} loading="lazy" width="300" height="300" />
+                  <img src={card.thumbnail} alt={card.title} loading="lazy" width="300" height="300" />
                 </div>
-                <p>{gameTitle}</p>
+                <p>{card.title}</p>
               </a>
             </article>
           );

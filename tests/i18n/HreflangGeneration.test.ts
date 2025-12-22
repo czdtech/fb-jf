@@ -16,10 +16,16 @@ import { describe, it, expect, beforeAll } from 'vitest';
 import * as fc from 'fast-check';
 import * as fs from 'fs';
 import * as path from 'path';
+import { defaultLocale, locales } from '../../src/i18n/routing';
 
-// Supported locales from astro.config.mjs
-const SUPPORTED_LOCALES = ['en', 'zh', 'ja', 'ko', 'de', 'fr', 'es'] as const;
-type Locale = typeof SUPPORTED_LOCALES[number];
+function toHreflang(locale: string): string {
+  // Site uses `zh-CN` hreflang but `/zh/` path prefix.
+  return locale === 'zh' ? 'zh-CN' : locale;
+}
+
+const SUPPORTED_LOCALES = locales;
+type Locale = (typeof SUPPORTED_LOCALES)[number];
+const SUPPORTED_HREFLANGS = SUPPORTED_LOCALES.map((l) => toHreflang(l));
 
 interface HreflangLink {
   lang: string;
@@ -76,40 +82,54 @@ function getHreflangLinks(urlPath: string): HreflangLink[] | null {
   return extractHreflangLinks(html);
 }
 
-/**
- * Discover pages with hreflang tags from dist/ directory
- */
+function getLocalizedUrlPath(basePath: string, locale: Locale): string {
+  if (basePath === '/') {
+    return locale === defaultLocale ? '/' : `/${locale}/`;
+  }
+  return locale === defaultLocale ? basePath : `/${locale}${basePath}`;
+}
+
+function stripLocalePrefix(urlPath: string): string {
+  if (urlPath === '/') return '/';
+
+  for (const locale of SUPPORTED_LOCALES) {
+    if (locale === defaultLocale) continue;
+    const prefix = `/${locale}/`;
+    if (urlPath.startsWith(prefix)) {
+      const rest = urlPath.slice(prefix.length - 1); // keep leading '/'
+      return rest === '' ? '/' : rest;
+    }
+  }
+
+  return urlPath;
+}
+
+function hreflangToPathPrefix(hreflang: string): string {
+  if (hreflang === 'x-default') return '';
+  if (hreflang === 'en') return '';
+  if (hreflang === 'zh-CN') return 'zh';
+  return hreflang;
+}
+
 function discoverPagesWithHreflang(): string[] {
   const distPath = path.join(process.cwd(), 'dist');
   if (!fs.existsSync(distPath)) return [];
-  
-  const pagesWithHreflang: string[] = [];
-  
-  // Check homepage
-  const homepagePath = path.join(distPath, 'index.html');
-  if (fs.existsSync(homepagePath)) {
-    const html = fs.readFileSync(homepagePath, 'utf-8');
-    const hreflangLinks = extractHreflangLinks(html);
-    if (hreflangLinks.length > 0) {
-      pagesWithHreflang.push('/');
+
+  const basePaths = ['/', '/update-games/', '/c/puzzle/', '/steal-a-brainrot/'] as const;
+  const candidates: string[] = [];
+  for (const basePath of basePaths) {
+    for (const locale of SUPPORTED_LOCALES) {
+      candidates.push(getLocalizedUrlPath(basePath, locale));
     }
   }
-  
-  // Check language-specific homepage versions
-  for (const locale of SUPPORTED_LOCALES) {
-    if (locale === 'en') continue; // Skip default locale (already checked above)
-    
-    const localePath = path.join(distPath, locale, 'index.html');
-    if (fs.existsSync(localePath)) {
-      const html = fs.readFileSync(localePath, 'utf-8');
-      const hreflangLinks = extractHreflangLinks(html);
-      if (hreflangLinks.length > 0) {
-        pagesWithHreflang.push(`/${locale}/`);
-      }
-    }
+
+  const pages: string[] = [];
+  for (const urlPath of candidates) {
+    const links = getHreflangLinks(urlPath);
+    if (links && links.length > 0) pages.push(urlPath);
   }
-  
-  return pagesWithHreflang;
+
+  return [...new Set(pages)];
 }
 
 beforeAll(() => {
@@ -156,9 +176,11 @@ describe('Hreflang Tag Generation Tests', () => {
           
           // Check for x-default
           expect(langs).toContain('x-default');
-          
-          // Check for at least the default locale (en)
-          expect(langs).toContain('en');
+
+          // Should include all supported hreflang codes (en, zh-CN, es, fr, de, ja, ko)
+          for (const hreflang of SUPPORTED_HREFLANGS) {
+            expect(langs).toContain(hreflang);
+          }
         }),
         { numRuns: sampleSize }
       );
@@ -206,23 +228,16 @@ describe('Hreflang Tag Generation Tests', () => {
           const hreflangLinks = getHreflangLinks(pageUrl);
           
           expect(hreflangLinks).not.toBeNull();
-          
+
+          const basePath = stripLocalePrefix(pageUrl);
+
           hreflangLinks!.forEach(link => {
             const url = new URL(link.url);
             const pathname = url.pathname;
-            
-            // x-default should point to the default locale (no prefix)
-            if (link.lang === 'x-default') {
-              expect(pathname).toBe('/');
-            }
-            // en (default locale) should not have locale prefix
-            else if (link.lang === 'en') {
-              expect(pathname).toBe('/');
-            }
-            // Other locales should have locale prefix
-            else if (SUPPORTED_LOCALES.includes(link.lang as Locale)) {
-              expect(pathname).toMatch(new RegExp(`^/${link.lang}/`));
-            }
+            const prefix = hreflangToPathPrefix(link.lang);
+
+            const expectedPath = prefix ? `/${prefix}${basePath}` : basePath;
+            expect(pathname).toBe(expectedPath);
           });
         }),
         { numRuns: sampleSize }
@@ -259,31 +274,29 @@ describe('Hreflang Tag Generation Tests', () => {
         console.warn('⚠️ SKIPPED: dist/ not found. Run "npm run build" first.');
         return;
       }
-      
-      // For this test, we need to check that all language versions of the same page
-      // have the same set of hreflang tags (just with different current page)
-      // We'll test the homepage as it's most likely to have all language versions
-      
-      const homepageVersions = pagesWithHreflang.filter(url => 
-        url === '/' || url.match(/^\/[a-z]{2}\/$/)
-      );
-      
-      if (homepageVersions.length < 2) {
-        console.warn('⚠️ SKIPPED: Not enough homepage language versions found');
-        return;
+
+      const byBasePath = new Map<string, string[]>();
+      for (const urlPath of pagesWithHreflang) {
+        const basePath = stripLocalePrefix(urlPath);
+        const list = byBasePath.get(basePath) ?? [];
+        list.push(urlPath);
+        byBasePath.set(basePath, list);
       }
 
-      // Get hreflang links from all homepage versions
-      const allHreflangSets = homepageVersions.map(url => {
-        const links = getHreflangLinks(url);
-        return links ? links.map(l => l.lang).sort() : [];
-      });
+      // Any base path with 2+ localized versions should have consistent hreflang sets.
+      for (const [, versions] of byBasePath) {
+        if (versions.length < 2) continue;
 
-      // All versions should have the same set of languages
-      const firstSet = JSON.stringify(allHreflangSets[0]);
-      allHreflangSets.forEach(set => {
-        expect(JSON.stringify(set)).toBe(firstSet);
-      });
+        const allSets = versions.map((url) => {
+          const links = getHreflangLinks(url);
+          return links ? links.map((l) => l.lang).sort() : [];
+        });
+
+        const first = JSON.stringify(allSets[0]);
+        allSets.forEach((set) => {
+          expect(JSON.stringify(set)).toBe(first);
+        });
+      }
     });
   });
 });

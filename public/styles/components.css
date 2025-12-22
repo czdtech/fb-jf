@@ -96,24 +96,6 @@ iframe {
 }
 
 /* ==========================================================================
-   AddToAny Social Share Styles
-   Used by: GameLayout.astro, static game pages
-   ========================================================================== */
-
-/* Hide AddToAny vertical share bar on mobile */
-@media screen and (max-width: 980px) {
-  .a2a_floating_style.a2a_vertical_style {
-    display: none;
-  }
-}
-
-@media screen and (min-width: 981px) {
-  .a2a_floating_style.a2a_default_style {
-    display: none;
-  }
-}
-
-/* ==========================================================================
    Responsive Styles for Game Iframe
    ========================================================================== */
 

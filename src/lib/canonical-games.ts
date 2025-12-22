@@ -1,6 +1,5 @@
 import { getCollection, type CollectionEntry } from 'astro:content';
-import type { Locale } from '../i18n/utils';
-import { getLocalizedPath } from '../i18n/utils';
+import { defaultLocale, getLocalizedPath, isValidLocale, type Locale } from '../i18n/routing';
 
 export type GameEntry = CollectionEntry<'games'>;
 
@@ -16,7 +15,6 @@ function getCanonicalSlug(entry: GameEntry): string {
 }
 
 function getCardTitle(entry: GameEntry): string {
-  // Default behavior: keep the English name for game titles on cards.
   // If the title contains an SEO suffix (e.g. "X - Play Online"), strip it.
   const title = entry.data.title || 'Untitled';
   return title.split(' - ')[0] || title;
@@ -27,6 +25,7 @@ function getReleaseDateMs(entry: GameEntry): number {
 }
 
 let canonicalGamesCache: Promise<GameEntry[]> | null = null;
+let slugToLocaleIndex: Map<string, Partial<Record<Locale, GameEntry>>> | null = null;
 
 /**
  * Canonical games are the single source of truth for lists/trending/categories.
@@ -38,6 +37,20 @@ export async function getCanonicalGames(): Promise<GameEntry[]> {
     canonicalGamesCache = (async () => {
       const all = await getCollection('games');
       const canonical = all.filter((entry) => entry.data.locale === 'en');
+
+      // Build an index: canonical slug -> locale -> entry.
+      // This allows card titles to be localized while keeping canonical entries as the list source of truth.
+      const nextIndex = new Map<string, Partial<Record<Locale, GameEntry>>>();
+      for (const entry of all) {
+        const slug = getCanonicalSlug(entry);
+        const rawLocale = (entry.data.locale ?? defaultLocale) as string;
+        if (!isValidLocale(rawLocale)) continue;
+
+        const bucket = nextIndex.get(slug) ?? {};
+        bucket[rawLocale] = entry;
+        nextIndex.set(slug, bucket);
+      }
+      slugToLocaleIndex = nextIndex;
 
       // Hard constraint: urlstr must be unique for canonical entries.
       // This prevents duplicate routes and SEO issues.
@@ -73,11 +86,12 @@ export async function getCanonicalGames(): Promise<GameEntry[]> {
 export function toGameCardData(entry: GameEntry, locale: Locale): GameCardData {
   const slug = getCanonicalSlug(entry);
   const href = getLocalizedPath(`${slug}/`, locale);
+  const localized = slugToLocaleIndex?.get(slug)?.[locale] ?? entry;
 
   return {
     slug,
     href,
     thumbnail: entry.data.thumbnail,
-    title: getCardTitle(entry),
+    title: getCardTitle(localized),
   };
 }

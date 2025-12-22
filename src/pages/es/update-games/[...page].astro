@@ -1,10 +1,11 @@
 ---
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import { UPDATE_GAMES_HREFLANG } from '../../../data/hreflang';
+import { toGameCardData } from '../../../lib/canonical-games';
 export { getStaticPaths } from '../../update-games/[...page].astro';
 
 const { page } = Astro.props;
-const prefix = '/es';
+const locale = 'es';
 const title = 'Nuevos juegos - FiddleBops Game World';
 const description =
   'Descubre los juegos más recientes añadidos a FiddleBops Game World, incluyendo títulos de música, rompecabezas y arcade. Juega gratis en línea, sin descargar.';
@@ -38,17 +39,15 @@ const jsonLd = {
       </p>
 
       <div class="game-grid">
-        {page.data.map(({ astronaut }) => {
-          const [href, thumbnail, gameTitle] = astronaut;
-          const localizedHref = href.startsWith('http') ? href : `${prefix}${href}`;
-
+        {page.data.map((entry) => {
+          const card = toGameCardData(entry, locale);
           return (
             <article class="game">
-              <a href={localizedHref} title={gameTitle}>
+              <a href={card.href} title={card.title}>
                 <div class="game-logo">
-                  <img src={thumbnail} alt={gameTitle} loading="lazy" width="300" height="300" />
+                  <img src={card.thumbnail} alt={card.title} loading="lazy" width="300" height="300" />
                 </div>
-                <p>{gameTitle}</p>
+                <p>{card.title}</p>
               </a>
             </article>
           );

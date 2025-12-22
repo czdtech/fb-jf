@@ -1,10 +1,11 @@
 ---
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import { SPRUNKI_MOD_HREFLANG } from '../../../data/hreflang';
+import { toGameCardData } from '../../../lib/canonical-games';
 export { getStaticPaths } from '../../sprunki-mod/[...page].astro';
 
 const { page } = Astro.props;
-const prefix = '/zh';
+const locale = 'zh';
 const title = 'Sprunki Mod - Sprunki 游戏世界';
 const description =
   '收录各类 Sprunki Mod、番外和联动作品，在浏览器中直接游玩，体验不同风格的音乐创作。';
@@ -38,17 +39,15 @@ const jsonLd = {
       </p>
 
       <div class="game-grid">
-        {page.data.map(({ astronaut }) => {
-          const [href, thumbnail, gameTitle] = astronaut;
-          const localizedHref = href.startsWith('http') ? href : `${prefix}${href}`;
-
+        {page.data.map((entry) => {
+          const card = toGameCardData(entry, locale);
           return (
             <article class="game">
-              <a href={localizedHref} title={gameTitle}>
+              <a href={card.href} title={card.title}>
                 <div class="game-logo game-l-2">
-                  <img src={thumbnail} alt={gameTitle} loading="lazy" width="300" height="300" />
+                  <img src={card.thumbnail} alt={card.title} loading="lazy" width="300" height="300" />
                   <div class="game-overlay">
-                    <p>{gameTitle}</p>
+                    <p>{card.title}</p>
                   </div>
                 </div>
               </a>

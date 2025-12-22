@@ -23,7 +23,7 @@
 import crypto from 'node:crypto';
 import fs from 'node:fs/promises';
 import path from 'node:path';
-import matter from 'gray-matter';
+import { defaultLocale, locales } from '../src/i18n/routing';
 
 type TrendingItem = { slug: string; score: number };
 type TrendingJson = {
@@ -33,7 +33,7 @@ type TrendingJson = {
   items: TrendingItem[];
 };
 
-const LOCALE_PREFIXES = new Set(['zh', 'de', 'fr', 'es', 'ja', 'ko']);
+const LOCALE_PREFIXES = new Set(locales.filter((l) => l !== defaultLocale));
 
 function requiredEnv(name: string): string {
   const value = process.env[name];
@@ -103,17 +103,10 @@ async function loadCanonicalSlugSet(gamesDir: string): Promise<Set<string>> {
   const slugs = new Set<string>();
 
   for (const file of files) {
-    if (!file.endsWith('.md')) continue;
-
-    const filePath = path.join(gamesDir, file);
-    const content = await fs.readFile(filePath, 'utf8');
-    const { data } = matter(content);
-
-    const locale = (data.locale || 'en') as string;
-    if (locale !== 'en') continue;
-
-    const urlstr = typeof data.urlstr === 'string' ? data.urlstr : '';
-    const raw = (urlstr || file.replace(/\.md$/, '')).trim();
+    // Canonical games are stored as `<urlstr>.en.md` and are the only source of truth.
+    // Using filenames avoids parsing ~7x localized variants, speeding up the job.
+    if (!file.endsWith('.en.md')) continue;
+    const raw = file.replace(/\.en\.md$/, '').trim();
     const slug = raw.replace(/^\/+/, '').replace(/\/+$/, '');
     if (slug) slugs.add(slug);
   }
@@ -260,4 +253,3 @@ main().catch((err) => {
   console.error(err instanceof Error ? err.message : String(err));
   process.exit(1);
 });
-

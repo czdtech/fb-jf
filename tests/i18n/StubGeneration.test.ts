@@ -12,10 +12,11 @@ import { describe, it, expect, beforeAll, afterAll } from 'vitest';
 import fs from 'fs/promises';
 import path from 'path';
 import matter from 'gray-matter';
+import { locales } from '../../src/i18n/routing';
 
 const TEST_GAMES_DIR = path.join(process.cwd(), 'test-fixtures', 'games');
-const SUPPORTED_LOCALES = ['en', 'zh', 'ja', 'es', 'fr', 'de', 'ko'] as const;
-type Locale = typeof SUPPORTED_LOCALES[number];
+const SUPPORTED_LOCALES = locales;
+type Locale = (typeof SUPPORTED_LOCALES)[number];
 
 interface CanonicalGame {
   urlstr: string;

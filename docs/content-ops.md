@@ -65,6 +65,17 @@ npm run backfill:coreTags -- --write
 - 同一个列表内 **slot 不能重复**
 - 不足 4 个时会用 canonical 列表自动兜底补齐
 
+## 4.1) Featured（Trending 置顶/精选）
+
+字段（写在英文 canonical 的 frontmatter）：
+- `featured: true | false`
+- `featuredRank: 1..3`（当 `featured: true` 时必填，用于排序；不允许重复）
+
+规则：
+- 最多展示 3 个，按 `featuredRank` 升序
+- 允许只设置 1–2 个（不补齐）
+- 若全站没有任何 `featured: true` 的内容配置，组件会回退到历史默认 slugs（仅兜底，避免 UI 直接变空）
+
 ## 5) releaseDate（用于排序）
 
 - `releaseDate` 用于 update-games、分类页等排序
@@ -89,6 +100,14 @@ npm run normalize:releaseDate -- --write
 
 页面组件读取：`src/data/trending.json`
 
+### 6.1) 展示数量口径（总数含 featured）
+
+- 首页 Trending：总数 15（含 featured）
+- 详情页 Trending：总数 50（含 featured）
+- 组件：
+  - `src/components/IndexTrendingGames.astro`
+  - `src/components/TrendingGames.astro`
+
 生成脚本：
 ```bash
 npm run generate:trending
@@ -106,7 +125,12 @@ npm run generate:trending
 - **PV 口径（默认）**：`screenPageViews` + `pagePath`
 - **Play 点击口径（线上使用）**：设置 `GA4_EVENT_NAME=play_click`（脚本会改用 `eventCount` 并按 eventName 过滤）
 
-### 6.1) 定时生成（GitHub Actions）
+### 6.2) Featured 优先级与兜底
+
+- Featured 来源：优先读取内容 frontmatter（`featured: true` + `featuredRank`）
+- 旧的 `featuredSlugs` 仅在“完全没有配置任何 featured”时启用作为兜底
+
+### 6.3) 定时生成（GitHub Actions）
 
 已内置工作流：`.github/workflows/update-trending.yml`
 
@@ -117,3 +141,11 @@ npm run generate:trending
    - `GA4_PRIVATE_KEY`
    - 备注：`GA4_PRIVATE_KEY` 可直接粘贴 PEM（多行）或使用 `\\n` 形式的换行，脚本都会处理。
 2. 工作流会每天定时运行（也可手动触发），生成 `src/data/trending.json` 并 **自动 commit/push** 到 `main`，从而触发站点重新部署（如果你使用的是基于 main 的自动部署）。
+
+## 7) 分享（Share）
+
+- 已移除 AddToAny（不再加载第三方分享脚本）
+- 改为自研组件 `src/components/ShareButtons.astro`：
+  - 支持 Web Share API（可用则显示）
+  - 支持复制链接
+  - 支持主流平台分享链接（点击才跳转，不在页面加载时请求第三方）

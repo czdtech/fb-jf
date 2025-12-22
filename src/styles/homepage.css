@@ -99,21 +99,6 @@ audio {
 }
 
 /* ===========================================
- * ADDTOANY SOCIAL SHARING
- * =========================================== */
-@media screen and (max-width: 980px) {
-    .a2a_floating_style.a2a_vertical_style {
-        display: none;
-    }
-}
-
-@media screen and (min-width: 980px) {
-    .a2a_floating_style.a2a_default_style {
-        display: none;
-    }
-}
-
-/* ===========================================
  * RESPONSIVE STYLES
  * =========================================== */
 @media screen and (max-width: 980px) {

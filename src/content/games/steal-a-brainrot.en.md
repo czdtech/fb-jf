@@ -6,6 +6,8 @@ description: "Discover the chaotic Roblox experience, 'Steal a Brainrot.' Learn 
 iframeSrc: "https://st.8games.net/7/8g/igra-ukradi-brejnrot-100-original/"
 thumbnail: /new-images/thumbnails/steal-a-brainrot.webp
 urlstr: "steal-a-brainrot"
+featured: true
+featuredRank: 1
 sidebarNew: 1
 score: "4.7/5  (3719 votes)"
 tags: ["casual", "action"]

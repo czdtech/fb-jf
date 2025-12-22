@@ -16,10 +16,12 @@ import RecentlyPlayed from './RecentlyPlayed.astro';
 import Common from './Common.astro';
 import Categories from './Categories.astro';
 import LongContentDe from './homepage/HomePageLongContent.de.astro';
+import LongContentEn from './homepage/HomePageLongContent.en.astro';
 import LongContentEs from './homepage/HomePageLongContent.es.astro';
 import LongContentFr from './homepage/HomePageLongContent.fr.astro';
 import LongContentJa from './homepage/HomePageLongContent.ja.astro';
 import LongContentKo from './homepage/HomePageLongContent.ko.astro';
+import LongContentZh from './homepage/HomePageLongContent.zh.astro';
 import { getLocaleFromLangAttr, useTranslations, type Locale } from '../i18n/utils';
 
 interface Props {
@@ -100,13 +102,15 @@ const hreflangLinks = [
 const showEmail = locale === 'en';
 
 // Legacy long-form homepage sections (about/games/video/faq) preserved per locale.
-// Only enabled for locales that were migrated to thin `src/pages/{locale}/index.astro` wrappers.
+// Enabled for locales with preserved long-form text to avoid SEO/UX drift.
 const LONG_CONTENT_BY_LOCALE: Partial<Record<Locale, any>> = {
+  en: LongContentEn,
   de: LongContentDe,
   es: LongContentEs,
   fr: LongContentFr,
   ja: LongContentJa,
   ko: LongContentKo,
+  zh: LongContentZh,
 };
 
 const LongContent = LONG_CONTENT_BY_LOCALE[locale];

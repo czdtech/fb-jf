@@ -1,11 +1,12 @@
 ---
 import GameCard from './GameCard.astro';
 import CATEGORIES from './Categories.astro';
-import { getCanonicalGames, type GameEntry } from '../lib/canonical-games';
+import { getCanonicalGames, toGameCardData, type GameEntry } from '../lib/canonical-games';
 import { getVoteCountFromScore } from '../lib/score';
 import { seededShuffle, getTrendingSeed } from '../lib/seeded-shuffle';
 import { loadTrendingItems } from '../lib/trending';
 import { useTranslations, getLocaleFromLangAttr, getLocalizedPath } from '../i18n/utils';
+import { getFeaturedGames, getFeaturedSlugSet } from '../lib/featured';
 
 interface Props {
   lang?: string;
@@ -15,7 +16,9 @@ const { lang = 'en' } = Astro.props as Props;
 const locale = getLocaleFromLangAttr(lang);
 const t = useTranslations(locale);
 
-const numberOfGamesToShow = 47;
+// 展示口径：这里的数量 = 最终总数（包含 featured）。
+// 现网原本是 featured(3) + 非 featured(47) = 50，这里保持总量不变。
+const numberOfGamesToShow = 50;
 
 // Seed 策略：按 UTC 日期每日轮换（同一天内重复构建顺序一致）。
 const seed = getTrendingSeed('daily');
@@ -26,18 +29,9 @@ const getSlug = (entry: GameEntry): string =>
 
 const getReleaseDateMs = (entry: GameEntry): number => (entry.data.releaseDate ? entry.data.releaseDate.getTime() : 0);
 
-const getTitle = (entry: GameEntry): string => {
-  const title = entry.data.title || 'Untitled';
-  return title.split(' - ')[0] || title;
-};
-
-const featuredSlugs = ['steal-a-brainrot', '99-nights-in-the-forest', 'grow-a-garden'] as const;
-const featuredSet = new Set<string>(featuredSlugs);
-const isEntry = (e: GameEntry | undefined): e is GameEntry => Boolean(e);
-
-const featuredGames = featuredSlugs
-  .map((slug) => canonicalGames.find((g) => getSlug(g) === slug))
-  .filter(isEntry);
+const featuredGames = getFeaturedGames(canonicalGames);
+const featuredSet = getFeaturedSlugSet(featuredGames);
+const nonFeaturedSlots = Math.max(0, numberOfGamesToShow - featuredGames.length);
 
 const bySlug = new Map<string, GameEntry>();
 for (const game of canonicalGames) {
@@ -54,15 +48,16 @@ const pickedGames: GameEntry[] = [];
 
 for (const item of trendingItems) {
   const slug = item.slug;
-  if (featuredSet.has(slug)) continue;
   if (pickedSlugs.has(slug)) continue;
 
   const entry = bySlug.get(slug);
   if (!entry) continue;
 
   pickedSlugs.add(slug);
-  pickedGames.push(entry);
-  if (pickedGames.length >= numberOfGamesToShow) break;
+  if (!featuredSet.has(slug)) {
+    pickedGames.push(entry);
+  }
+  if (pickedGames.length >= nonFeaturedSlots) break;
 }
 
 const fallbackPool = pool.filter((g) => !pickedSlugs.has(getSlug(g)));
@@ -70,7 +65,7 @@ const fallbackPool = pool.filter((g) => !pickedSlugs.has(getSlug(g)));
 // Fallback strategy when GA trending is missing:
 // - Mix “popular” (by votes) + “new” (by releaseDate) for recency and variety.
 // - Shuffle deterministically by day to avoid build-to-build randomness.
-const remaining = Math.max(0, numberOfGamesToShow - pickedGames.length);
+const remaining = Math.max(0, nonFeaturedSlots - pickedGames.length);
 const POPULAR_POOL_SIZE = 250;
 const NEW_POOL_SIZE = 250;
 const POPULAR_BATCH = 3;
@@ -142,13 +137,15 @@ const randomGames = [...pickedGames, ...fallbackGames];
   <div class="container">
     <h2>{t('game.trendingGames', 'Trending Games')}</h2>
     <div class="game-grid">
-      {featuredGames.map((game) => (
-        <GameCard title={getTitle(game)} thumbnail={game.data.thumbnail} slug={getSlug(game)} lang={lang} />
-      ))}
+      {featuredGames.map((game) => {
+        const card = toGameCardData(game, locale);
+        return <GameCard title={card.title} thumbnail={card.thumbnail} slug={card.slug} lang={lang} />;
+      })}
 
-      {randomGames.map((game) => (
-        <GameCard title={getTitle(game)} thumbnail={game.data.thumbnail} slug={getSlug(game)} lang={lang} />
-      ))}
+      {randomGames.map((game) => {
+        const card = toGameCardData(game, locale);
+        return <GameCard title={card.title} thumbnail={card.thumbnail} slug={card.slug} lang={lang} />;
+      })}
     </div>
 
     <div class="more">

@@ -146,31 +146,6 @@ header nav ul li a:hover {
 }
 
 /* ===========================================
- * SOCIAL SHARE (AddToAny)
- * =========================================== */
-.a2a_floating_style.a2a_default_style {
-    bottom: 0;
-    right: 0;
-}
-
-.a2a_floating_style.a2a_vertical_style {
-    left: 0;
-    top: 150px;
-}
-
-@media screen and (max-width: 980px) {
-    .a2a_floating_style.a2a_vertical_style {
-        display: none;
-    }
-}
-
-@media screen and (min-width: 980px) {
-    .a2a_floating_style.a2a_default_style {
-        display: none;
-    }
-}
-
-/* ===========================================
  * HERO SECTION
  * =========================================== */
 .hero {
