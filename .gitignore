@@ -40,3 +40,12 @@ i18n-structure-report.json
 !.kiro/specs/i18n-style-harmonization-lite/
 !.kiro/specs/i18n-style-harmonization-lite/**
 .serena/
+
+# playwright artifacts
+playwright-report/
+test-results/
+tests/test-results/
+tests/screenshots/
+
+# structure snapshot (generated)
+scripts/snapshots/structure-after.json

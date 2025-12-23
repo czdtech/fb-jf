@@ -1,7 +1,10 @@
 ---
 /**
  * Header Component
- * Site header with navigation and language selector
+ * Mobile-first header with drawer navigation and language selector
+ * 
+ * Structure freeze: nav links remain in HTML for SEO crawlability.
+ * Mobile: drawer slides in from left; Desktop: horizontal nav.
  * 
  * Requirements: 2.1, 4.4, 4.5
  */
@@ -20,37 +23,273 @@ const withLocale = (path: string) => getLocalizedPath(path, locale);
 ---
 
 <header>
-    <div class="container">
-        <div class="logo">
-            <h1><a href={withLocale('/')}>Fiddle<span class="light">Bops</span></a></h1>
-        </div>
-        <button class="nav-toggle" aria-label="Toggle Navigation">☰</button>
-        <nav class="nav-menu">
-            <ul>
-                <li><a href={withLocale('/')}>{t('nav.home', 'Home')}</a></li>
-                <li><a href={withLocale('/update-games/')}>{t('nav.newGames', 'New Games')}</a></li>
-                <li><a href={withLocale('/search/')}>{t('nav.search', 'Search')}</a></li>
-                <li><a href={withLocale('/fiddlebops-mod/')}>{t('nav.fiddlebopsMod', 'Fiddlebops Mod')}</a></li>
-                <li><a href={withLocale('/incredibox-mod/')}>{t('nav.incrediboxMod', 'Incredibox Mod')}</a></li>
-                <li><a href={withLocale('/sprunki-mod/')}>{t('nav.sprunkiMod', 'Sprunki Mod')}</a></li>
-            </ul>
-        </nav>
-        <select class="language-select">
-            <option data-lang="en" data-url="/">English</option>
-            <option data-lang="zh-CN" data-url="/zh/">简体中文</option>  
-            <option data-lang="es" data-url="/es/">Español</option>
-            <option data-lang="fr" data-url="/fr/">Français</option>
-            <option data-lang="de" data-url="/de/">Deutsch</option>
-            <option data-lang="ja" data-url="/ja/">日本語</option>
-            <option data-lang="ko" data-url="/ko/">한국어</option>
-        </select>
+  <div class="container">
+    <div class="logo">
+      <a class="logo-link" href={withLocale('/')} aria-label="FiddleBops">
+        Fiddle<span class="light">Bops</span>
+      </a>
     </div>
+    
+    <button 
+      class="nav-toggle" 
+      aria-label={t('nav.toggleMenu', 'Toggle Navigation')}
+      aria-expanded="false"
+      aria-controls="main-nav"
+    >
+      <span class="nav-toggle__icon" aria-hidden="true">☰</span>
+      <span class="nav-toggle__close" aria-hidden="true">✕</span>
+    </button>
+    
+    <nav id="main-nav" class="nav-menu" aria-label={t('nav.mainNavigation', 'Main navigation')}>
+      <ul>
+        <li><a href={withLocale('/')}>{t('nav.home', 'Home')}</a></li>
+        <li><a href={withLocale('/update-games/')}>{t('nav.newGames', 'New Games')}</a></li>
+        <li><a href={withLocale('/search/')}>{t('nav.search', 'Search')}</a></li>
+        <li><a href={withLocale('/fiddlebops-mod/')}>{t('nav.fiddlebopsMod', 'Fiddlebops Mod')}</a></li>
+        <li><a href={withLocale('/incredibox-mod/')}>{t('nav.incrediboxMod', 'Incredibox Mod')}</a></li>
+        <li><a href={withLocale('/sprunki-mod/')}>{t('nav.sprunkiMod', 'Sprunki Mod')}</a></li>
+      </ul>
+    </nav>
+    
+    <select 
+      class="language-select" 
+      aria-label={t('nav.selectLanguage', 'Select language')}
+    >
+      <option data-lang="en" data-url="/">English</option>
+      <option data-lang="zh-CN" data-url="/zh/">简体中文</option>  
+      <option data-lang="es" data-url="/es/">Español</option>
+      <option data-lang="fr" data-url="/fr/">Français</option>
+      <option data-lang="de" data-url="/de/">Deutsch</option>
+      <option data-lang="ja" data-url="/ja/">日本語</option>
+      <option data-lang="ko" data-url="/ko/">한국어</option>
+    </select>
+  </div>
 </header>
+
+<style>
+  /* Header base - using CSS variables from main.css */
+  header {
+    background-color: var(--color-bg-dark);
+    height: var(--header-height-xs, 56px);
+    position: sticky;
+    top: 0;
+    z-index: var(--z-index-nav, 1000);
+    box-shadow: var(--shadow-sm);
+  }
+  
+  @media (min-width: 768px) {
+    header {
+      height: var(--header-height-md, 64px);
+    }
+  }
+  
+  header .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+    gap: var(--spacing-4, 16px);
+  }
+  
+  /* Logo */
+  .logo .logo-link {
+    color: var(--color-text-white, #fff);
+    text-decoration: none;
+    display: inline;
+    font-size: var(--font-size-lg, 20px);
+    font-weight: var(--font-weight-bold, 700);
+  }
+  
+  .logo .logo-link:hover {
+    color: var(--color-primary, #FF7A00);
+  }
+  
+  .logo .light {
+    font-weight: var(--font-weight-light, 300);
+  }
+  
+  /* Nav toggle button (mobile) */
+  .nav-toggle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: var(--touch-target-min, 44px);
+    height: var(--touch-target-min, 44px);
+    background: none;
+    border: none;
+    font-size: var(--font-size-lg, 20px);
+    cursor: pointer;
+    color: var(--color-text-white, #fff);
+    z-index: calc(var(--z-index-nav, 1000) + 1);
+    border-radius: var(--radius-sm, 12px);
+    position: relative;
+  }
+  
+  .nav-toggle:focus-visible {
+    outline: 3px solid var(--color-focus-shadow, rgba(14, 165, 233, 0.45));
+    outline-offset: 2px;
+  }
+  
+  .nav-toggle__close {
+    display: none;
+  }
+  
+  .nav-toggle[aria-expanded="true"] .nav-toggle__icon {
+    display: none;
+  }
+  
+  .nav-toggle[aria-expanded="true"] .nav-toggle__close {
+    display: inline;
+  }
+  
+  @media (min-width: 768px) {
+    .nav-toggle {
+      display: none;
+    }
+  }
+  
+  /* Desktop nav */
+  .nav-menu {
+    display: none;
+  }
+  
+  @media (min-width: 768px) {
+    .nav-menu {
+      display: flex;
+      align-items: center;
+      flex: 1;
+      justify-content: center;
+    }
+    
+    .nav-menu ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      display: flex;
+      gap: var(--spacing-4, 16px);
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+    
+    .nav-menu ul li a {
+      color: var(--color-text-white, #fff);
+      font-weight: var(--font-weight-normal, 400);
+      font-size: var(--font-size-sm, 14px);
+      padding: var(--spacing-2, 8px) var(--spacing-1, 4px);
+      display: inline-block;
+      text-decoration: none;
+      transition: color var(--transition-fast, 120ms);
+      white-space: nowrap;
+    }
+    
+    .nav-menu ul li a:hover {
+      color: var(--color-primary, #FF7A00);
+    }
+  }
+  
+  /* Mobile drawer navigation */
+  @media (max-width: 767px) {
+    .nav-menu {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: min(320px, 86vw);
+      height: 100vh;
+      background: var(--color-bg-card, #fff);
+      padding-top: calc(var(--header-height-xs, 56px) + var(--spacing-4, 16px));
+      box-shadow: var(--shadow-lg);
+      z-index: var(--z-index-nav, 1000);
+      transform: translateX(-100%);
+      transition: transform var(--transition-normal, 180ms);
+      overflow-y: auto;
+    }
+    
+    .nav-menu.active {
+      display: block;
+      transform: translateX(0);
+    }
+    
+    .nav-menu ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      display: flex;
+      flex-direction: column;
+    }
+    
+    .nav-menu ul li {
+      border-bottom: 1px solid var(--color-border-light, rgba(17, 24, 39, 0.08));
+    }
+    
+    .nav-menu ul li a {
+      color: var(--color-text-primary, #111827);
+      padding: var(--spacing-4, 16px);
+      display: block;
+      font-size: var(--font-size-base, 16px);
+      text-decoration: none;
+      min-height: var(--touch-target-min, 44px);
+      line-height: var(--touch-target-min, 44px);
+    }
+    
+    .nav-menu ul li a:hover,
+    .nav-menu ul li a:focus {
+      color: var(--color-primary, #FF7A00);
+      background: var(--color-bg-gray, #EEF2FF);
+    }
+  }
+  
+  /* Overlay when nav is open */
+  :global(body.nav-open)::before {
+    content: '';
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: var(--color-overlay, rgba(0, 0, 0, 0.5));
+    z-index: calc(var(--z-index-nav, 1000) - 1);
+  }
+  
+  /* Language selector */
+  .language-select {
+    height: var(--touch-target-min, 44px);
+    min-width: 100px;
+    padding: var(--spacing-2, 8px) var(--spacing-3, 12px);
+    border-radius: var(--radius-sm, 12px);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    background: rgba(255, 255, 255, 0.1);
+    color: var(--color-text-white, #fff);
+    font-size: var(--font-size-sm, 14px);
+    cursor: pointer;
+    flex-shrink: 0;
+  }
+  
+  .language-select:focus-visible {
+    outline: 3px solid var(--color-focus-shadow, rgba(14, 165, 233, 0.45));
+    outline-offset: 2px;
+  }
+  
+  .language-select option {
+    background: var(--color-bg-card, #fff);
+    color: var(--color-text-primary, #111827);
+  }
+  
+  @media (max-width: 767px) {
+    .language-select {
+      position: absolute;
+      right: calc(var(--touch-target-min, 44px) + var(--spacing-4, 16px) + var(--spacing-2, 8px));
+      min-width: 80px;
+      height: 36px;
+      font-size: var(--font-size-xs, 12px);
+      padding: var(--spacing-1, 4px) var(--spacing-2, 8px);
+    }
+  }
+</style>
 
 <script>
   import { initNavToggle, initLanguageSwitcher } from '../scripts/index.ts';
   
-  // Initialize nav toggle for mobile navigation
+  // Initialize nav toggle for mobile navigation with accessibility
   initNavToggle({
     toggleSelector: '.nav-toggle',
     menuSelector: '.nav-menu'
@@ -59,5 +298,44 @@ const withLocale = (path: string) => getLocalizedPath(path, locale);
   // Initialize language switcher
   initLanguageSwitcher({
     selectSelector: '.language-select'
+  });
+  
+  // Enhanced keyboard handling for mobile nav
+  document.addEventListener('DOMContentLoaded', () => {
+    const toggle = document.querySelector('.nav-toggle') as HTMLButtonElement | null;
+    const menu = document.querySelector('.nav-menu');
+    
+    if (!toggle || !menu) return;
+    
+    // Close on ESC
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape' && menu.classList.contains('active')) {
+        menu.classList.remove('active');
+        document.body.classList.remove('nav-open');
+        toggle.setAttribute('aria-expanded', 'false');
+        toggle.focus();
+      }
+    });
+    
+    // Close on overlay click
+    document.addEventListener('click', (e) => {
+      const target = e.target as Element;
+      if (
+        menu.classList.contains('active') &&
+        !menu.contains(target) &&
+        !toggle.contains(target)
+      ) {
+        menu.classList.remove('active');
+        document.body.classList.remove('nav-open');
+        toggle.setAttribute('aria-expanded', 'false');
+      }
+    });
+    
+    // Update aria-expanded on toggle
+    toggle.addEventListener('click', () => {
+      const isOpen = menu.classList.contains('active');
+      toggle.setAttribute('aria-expanded', isOpen ? 'true' : 'false');
+      document.body.classList.toggle('nav-open', isOpen);
+    });
   });
 </script>

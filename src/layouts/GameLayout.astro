@@ -109,6 +109,7 @@ const jsonLd = {
             <div class="container">
                 <div class="game-card">
                     <div class="game-info" id="paly">
+                      <h1>{cardTitle}</h1>
                     </div>
 <PopularGames lang={lang} />
                    <div class="game-iframe-sprunki" style={`--bg-image: url(${thumbnail})`} >
@@ -129,7 +130,7 @@ const jsonLd = {
 <TrendingGames lang={lang} />
           <section class="about" id="about">
             <div class="container">
-              <h2>{t('game.about', 'About')} {title} </h2>
+              <h2>{t('game.about', 'About')} {cardTitle}</h2>
               <div class="about-content">
                   <p><a href={homeHref}>{t('common.home', 'home')}</a> > {title}</p>
                   <StarRating rating={4} maxStars={5} score={score} size={16} />

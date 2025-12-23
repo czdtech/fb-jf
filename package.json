@@ -20,6 +20,9 @@
     "snapshot:urls:after": "node scripts/url-snapshot.mjs --after",
     "compare:seo": "node scripts/seo-compare.mjs",
     "compare:sitemap": "node scripts/sitemap-compare.mjs",
+    "snapshot:structure": "node scripts/structure-snapshot.mjs",
+    "snapshot:structure:after": "node scripts/structure-snapshot.mjs --after",
+    "compare:structure": "node scripts/structure-compare.mjs",
     "baseline:i18n": "tsx scripts/baseline-i18n-analysis.mts",
     "validate:i18n": "tsx scripts/validate-i18n-metadata.mts && tsx scripts/validate-i18n-structure.mts",
     "validate:i18n:json": "tsx scripts/validate-i18n-json-keys.mts",
@@ -42,13 +45,17 @@
     "test": "npm run build && npm run validate:i18n && vitest --run",
     "test:unit": "npm run build && npm run validate:i18n && vitest --run",
     "test:watch": "vitest",
-    "test:ci": "npm run build && vitest --run"
+    "test:ci": "npm run build && vitest --run",
+    "test:ui": "npm run build && playwright test tests/ui-smoke.spec.ts",
+    "test:ui:headed": "npm run build && playwright test tests/ui-smoke.spec.ts --headed",
+    "test:ui:update": "npm run build && playwright test tests/ui-smoke.spec.ts --update-snapshots"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.6.0",
     "astro": "^5.1.8"
   },
   "devDependencies": {
+    "@playwright/test": "^1.40.0",
     "@types/node": "^24.10.1",
     "cheerio": "^1.1.2",
     "fast-check": "^4.3.0",

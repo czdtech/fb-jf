@@ -1,100 +1,125 @@
 /**
- * CSS Custom Properties (Design Tokens)
+ * Design System Tokens — Bright Game Product Site
  * 
- * This file defines the design system variables for the FiddleBops website.
- * All colors, spacing, typography, and other design tokens are centralized here.
+ * Mobile-first tokens for playfiddlebops.com redesign.
+ * All spacing/sizing comes from this file — no magic numbers in components.
+ * 
+ * Principles:
+ * - Light background + high-contrast text (AA compliance)
+ * - 4px grid for all spacing
+ * - Consistent, predictable values
+ * - prefers-reduced-motion support
  */
 
 :root {
   /* ===========================================
-   * COLOR PALETTE
+   * COLOR PALETTE — Bright Game Product Site
+   * Light backgrounds, dark text, orange brand accent
    * =========================================== */
-
-  /* Primary Colors - Orange theme */
-  --color-primary: #ff9800;
-  --color-primary-light: #ffb74d;
-  --color-primary-dark: #f57c00;
-  --color-primary-darker: #e65100;
-
-  /* Secondary Colors - Deep orange/red accents */
-  --color-secondary: #ff7043;
-  --color-secondary-dark: #e64a19;
-  --color-accent-red: #ef5350;
-  --color-accent-red-dark: #c62828;
-
-  /* Success/Action Colors */
-  --color-success: #4caf50;
-  --color-success-dark: #388e3c;
 
   /* Background Colors */
-  --color-bg-primary: #364869;
-  --color-bg-light: #fff8e1;
-  --color-bg-white: #fff;
-  --color-bg-gray: #f3f3f3;
-  --color-bg-card: #fcfcfc;
-  --color-bg-dark: #35466a;
+  --color-bg-primary: #F6F7FF;
+  --color-bg-card: #FFFFFF;
+  --color-bg-gray: #EEF2FF;
+  --color-bg-dark: #1F2937;
+  --color-bg-white: #FFFFFF;
 
-  /* Text Colors */
-  --color-text-primary: #333;
-  --color-text-dark: #212121;
-  --color-text-gray: #424242;
-  --color-text-muted: #757575;
-  --color-text-light: #ccc;
-  --color-text-white: #fff;
+  /* Text Colors (high contrast) */
+  --color-text-primary: #111827;
+  --color-text-dark: #111827;
+  --color-text-muted: #4B5563;
+  --color-text-light: #6B7280;
+  --color-text-white: #FFFFFF;
+  --color-text-gray: #374151;
+
+  /* Brand / Accent Colors */
+  --color-primary: #FF7A00;
+  --color-primary-light: #FF9A40;
+  --color-primary-dark: #E86200;
+  --color-primary-darker: #CC5500;
+  --color-secondary: #00C2FF;
+  --color-secondary-dark: #0099CC;
+
+  /* Action Colors */
+  --color-success: #10B981;
+  --color-success-dark: #059669;
+  --color-accent-red: #EF4444;
+  --color-accent-red-dark: #DC2626;
 
   /* Link Colors */
-  --color-link: orange;
-  --color-link-hover: #333;
-  --color-link-footer-hover: #ffc107;
+  --color-link: #0EA5E9;
+  --color-link-hover: #0284C7;
+  --color-link-footer-hover: #FF7A00;
 
   /* Border Colors */
-  --color-border: #ddd;
-  --color-border-light: #eee;
+  --color-border: rgba(17, 24, 39, 0.12);
+  --color-border-light: rgba(17, 24, 39, 0.08);
 
   /* Overlay Colors */
-  --color-overlay: rgba(0, 0, 0, 0.6);
+  --color-overlay: rgba(0, 0, 0, 0.5);
   --color-overlay-dark: rgba(0, 0, 0, 0.7);
-  --color-overlay-button: rgba(0, 0, 0, 0.5);
-  --color-nav-overlay: rgba(54, 72, 105, 0.95);
+  --color-overlay-button: rgba(0, 0, 0, 0.4);
+  --color-nav-overlay: rgba(255, 255, 255, 0.98);
 
-  /* Shadow Colors */
-  --color-shadow: rgba(0, 0, 0, 0.2);
-  --color-shadow-hover: rgba(0, 0, 0, 0.2);
-  --color-focus-shadow: rgba(255, 152, 0, 0.5);
+  /* Focus / Shadow */
+  --color-focus-shadow: rgba(14, 165, 233, 0.45);
+  --color-shadow: rgba(17, 24, 39, 0.08);
+  --color-shadow-hover: rgba(17, 24, 39, 0.12);
 
   /* ===========================================
-   * SPACING SCALE
+   * SPACING SCALE — 4px Grid
+   * Use ONLY these values for margin/padding
    * =========================================== */
-  --spacing-xs: 5px;
-  --spacing-sm: 8px;
-  --spacing-md: 10px;
-  --spacing-lg: 15px;
-  --spacing-xl: 20px;
-  --spacing-2xl: 30px;
-  --spacing-3xl: 50px;
-  --spacing-4xl: 80px;
+  --spacing-0: 0px;
+  --spacing-1: 4px;
+  --spacing-2: 8px;
+  --spacing-3: 12px;
+  --spacing-4: 16px;
+  --spacing-5: 20px;
+  --spacing-6: 24px;
+  --spacing-7: 32px;
+  --spacing-8: 40px;
+  --spacing-9: 48px;
+  --spacing-10: 64px;
+
+  /* Legacy spacing aliases (for gradual migration) */
+  --spacing-xs: var(--spacing-1);
+  --spacing-sm: var(--spacing-2);
+  --spacing-md: var(--spacing-3);
+  --spacing-lg: var(--spacing-4);
+  --spacing-xl: var(--spacing-5);
+  --spacing-2xl: var(--spacing-6);
+  --spacing-3xl: var(--spacing-8);
+  --spacing-4xl: var(--spacing-10);
 
   /* ===========================================
    * TYPOGRAPHY
+   * Mobile-first, responsive via media queries
    * =========================================== */
 
   /* Font Families */
-  --font-family-primary: "Poppins", sans-serif;
+  --font-family-primary: "Poppins", system-ui, -apple-system, sans-serif;
   --font-family-icons: "Font Awesome 6 Free";
 
-  /* Font Sizes */
-  --font-size-xs: 0.8em;
-  --font-size-sm: 12px;
-  --font-size-base: 1em;
-  --font-size-md: 14px;
-  --font-size-lg: 1.2em;
-  --font-size-xl: 1.5em;
-  --font-size-2xl: 2em;
-  --font-size-3xl: 3em;
+  /* Font Sizes — Mobile First */
+  --font-size-xs: 12px;
+  --font-size-sm: 14px;
+  --font-size-base: 16px;
+  --font-size-md: 18px;
+  --font-size-lg: 20px;
+  --font-size-xl: 22px;
+  --font-size-2xl: 28px;
+  --font-size-3xl: 36px;
+
+  /* Line Heights */
+  --line-height-tight: 1.25;
+  --line-height-base: 1.5;
+  --line-height-relaxed: 1.65;
 
   /* Font Weights */
   --font-weight-light: 300;
   --font-weight-normal: 400;
+  --font-weight-medium: 500;
   --font-weight-bold: 700;
   --font-weight-icon: 900;
 
@@ -102,50 +127,106 @@
    * LAYOUT
    * =========================================== */
   --container-max-width: 1200px;
-  --header-height: auto;
+  --container-padding-xs: var(--spacing-4);
+  --container-padding-md: var(--spacing-6);
+  --reading-max-width: 68ch;
+  --header-height-xs: 56px;
+  --header-height-md: 64px;
 
   /* ===========================================
-   * BORDER RADIUS
+   * BORDER RADIUS — Consistent Curves
    * =========================================== */
-  --radius-sm: 3px;
-  --radius-md: 5px;
-  --radius-lg: 10px;
-  --radius-xl: 15px;
+  --radius-sm: 12px;
+  --radius-md: 16px;
+  --radius-lg: 20px;
+  --radius-xl: 24px;
+  --radius-full: 9999px;
+
+  /* Legacy aliases */
+  --radius-xs: 8px;
 
   /* ===========================================
-   * TRANSITIONS
+   * SHADOWS — Subtle Depth
    * =========================================== */
-  --transition-fast: 0.2s ease;
-  --transition-normal: 0.3s ease;
+  --shadow-sm: 0 1px 2px rgba(17, 24, 39, 0.08);
+  --shadow-md: 0 8px 20px rgba(17, 24, 39, 0.12);
+  --shadow-lg: 0 14px 34px rgba(17, 24, 39, 0.16);
+  --shadow-focus: 0 0 0 3px var(--color-focus-shadow);
 
   /* ===========================================
-   * SHADOWS
+   * TRANSITIONS — Controlled Motion
    * =========================================== */
-  --shadow-sm: 0 2px 4px var(--color-shadow);
-  --shadow-md: 0 6px 16px var(--color-shadow);
-  --shadow-lg: 0 8px 16px var(--color-shadow-hover);
-  --shadow-focus: 0 0 5px var(--color-focus-shadow);
+  --transition-fast: 120ms cubic-bezier(0.2, 0.8, 0.2, 1);
+  --transition-normal: 180ms cubic-bezier(0.2, 0.8, 0.2, 1);
+  --transition-slow: 300ms cubic-bezier(0.2, 0.8, 0.2, 1);
 
   /* ===========================================
    * Z-INDEX SCALE
    * =========================================== */
-  --z-index-overlay: 10;
-  --z-index-button: 11;
+  --z-index-base: 1;
+  --z-index-dropdown: 100;
+  --z-index-overlay: 500;
+  --z-index-modal: 900;
   --z-index-nav: 1000;
   --z-index-nav-toggle: 1001;
+  --z-index-toast: 1100;
+  --z-index-button: 11;
 
   /* ===========================================
    * ASPECT RATIOS
    * =========================================== */
   --aspect-ratio-video: 16 / 9;
-  --aspect-ratio-thumbnail: 4 / 3;
+  --aspect-ratio-thumbnail: 16 / 9;
+  --aspect-ratio-square: 1 / 1;
 
   /* ===========================================
    * GRID
    * =========================================== */
-  --grid-gap: 15px;
-  --grid-min-card: 200px;
+  --grid-gap: var(--spacing-3);
+  --grid-gap-md: var(--spacing-4);
+  --grid-min-card: 160px;
   --grid-min-card-sm: 120px;
   --grid-min-related: 150px;
   --grid-min-related-sm: 100px;
+
+  /* ===========================================
+   * INTERACTIVE ELEMENTS
+   * =========================================== */
+  --touch-target-min: 44px;
+  --focus-ring: 3px solid var(--color-focus-shadow);
+  --focus-ring-offset: 2px;
+}
+
+/* ===========================================
+ * REDUCED MOTION
+ * Respect user preference for reduced motion
+ * =========================================== */
+@media (prefers-reduced-motion: reduce) {
+  :root {
+    --transition-fast: 0ms;
+    --transition-normal: 0ms;
+    --transition-slow: 0ms;
+  }
+}
+
+/* ===========================================
+ * CJK TYPOGRAPHY OVERRIDES
+ * Better font stacks and line height for CJK
+ * =========================================== */
+html[lang^="zh"] {
+  --font-family-primary: "Poppins", system-ui, -apple-system, "PingFang SC", "Microsoft YaHei", "Noto Sans SC", sans-serif;
+  --line-height-base: 1.65;
+  --line-height-relaxed: 1.8;
+}
+
+html[lang="ja"] {
+  --font-family-primary: "Poppins", "Noto Sans JP", system-ui, -apple-system, "Hiragino Sans", "Yu Gothic", sans-serif;
+  --line-height-base: 1.65;
+  --line-height-relaxed: 1.8;
+}
+
+html[lang="ko"] {
+  --font-family-primary: "Poppins", "Noto Sans KR", system-ui, -apple-system, "Malgun Gothic", sans-serif;
+  --line-height-base: 1.65;
+  --line-height-relaxed: 1.8;
 }

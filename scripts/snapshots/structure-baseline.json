@@ -1,0 +1,3950 @@
+{
+  "snapshotTime": "2025-12-23T06:17:10.887Z",
+  "totalRoutes": 28,
+  "routes": {
+    "/": {
+      "headings": [
+        {
+          "level": 1,
+          "text": "Welcome to Fiddlebops Incredibox!"
+        },
+        {
+          "level": 3,
+          "text": "► Popular Games"
+        },
+        {
+          "level": 3,
+          "text": "► New Games"
+        },
+        {
+          "level": 2,
+          "text": "Recently Played"
+        },
+        {
+          "level": 2,
+          "text": "Trending Games"
+        },
+        {
+          "level": 2,
+          "text": "Game Categories"
+        },
+        {
+          "level": 2,
+          "text": "About Fiddlebops Incredibox"
+        },
+        {
+          "level": 3,
+          "text": "I. Fiddlebops Basic Information & Gameplay"
+        },
+        {
+          "level": 4,
+          "text": "1. Creation Mechanics"
+        },
+        {
+          "level": 3,
+          "text": "II. Fiddlebops Modding & Community Content"
+        },
+        {
+          "level": 4,
+          "text": "1. Overview of Popular Game Mods"
+        },
+        {
+          "level": 4,
+          "text": "2. Character Introductions & Community Creations"
+        },
+        {
+          "level": 3,
+          "text": "III. How To Play Fiddlebops"
+        },
+        {
+          "level": 4,
+          "text": "1. Selecting Characters"
+        },
+        {
+          "level": 4,
+          "text": "2. Combining Sounds"
+        },
+        {
+          "level": 4,
+          "text": "3. Mixing & Creating"
+        },
+        {
+          "level": 4,
+          "text": "4. Sharing Creations"
+        },
+        {
+          "level": 3,
+          "text": "IV. Fiddlebops Features"
+        },
+        {
+          "level": 3,
+          "text": "V. Fiddlebops Download & Experience"
+        },
+        {
+          "level": 2,
+          "text": "Explore the Different Sounds in Fiddlebops Incredibox"
+        },
+        {
+          "level": 2,
+          "text": "Fiddlebops Incredibox Game Video"
+        },
+        {
+          "level": 2,
+          "text": "FAQ About Fiddlebops Incredibox"
+        },
+        {
+          "level": 3,
+          "text": "What is the Fiddlebops Incredibox Game?"
+        },
+        {
+          "level": 3,
+          "text": "Is the Fiddlebops Incredibox Free?"
+        },
+        {
+          "level": 3,
+          "text": "Fiddlebops Incredibox Is There a Need to Download or Install?"
+        },
+        {
+          "level": 3,
+          "text": "Do I need a musical background to play Fiddlebops Incredibox?"
+        },
+        {
+          "level": 3,
+          "text": "How Do I Start Creating Music in the Fiddlebops Incredibox?"
+        },
+        {
+          "level": 3,
+          "text": "Is the Game Suitable for Music Enthusiasts?"
+        },
+        {
+          "level": 3,
+          "text": "Does the Game Support Multiplayer Collaboration?"
+        }
+      ],
+      "mainOutline": [
+        {
+          "tag": "section",
+          "id": null,
+          "class": "hero",
+          "firstHeading": {
+            "level": 1,
+            "text": "Welcome to Fiddlebops Incredibox!"
+          }
+        },
+        {
+          "tag": "section",
+          "id": "recently-played",
+          "class": "games",
+          "firstHeading": {
+            "level": 2,
+            "text": "Recently Played"
+          }
+        },
+        {
+          "tag": "section",
+          "id": null,
+          "class": "games",
+          "firstHeading": {
+            "level": 2,
+            "text": "Trending Games"
+          }
+        },
+        {
+          "tag": "section",
+          "id": null,
+          "class": "games",
+          "firstHeading": null
+        },
+        {
+          "tag": "section",
+          "id": null,
+          "class": "games categories",
+          "firstHeading": {
+            "level": 2,
+            "text": "Game Categories"
+          }
+        },
+        {
+          "tag": "section",
+          "id": "about",
+          "class": "about",
+          "firstHeading": {
+            "level": 2,
+            "text": "About Fiddlebops Incredibox"
+          }
+        },
+        {
+          "tag": "section",
+          "id": null,
+          "class": "games",
+          "firstHeading": {
+            "level": 2,
+            "text": "Explore the Different Sounds in Fiddlebops Incredibox"
+          }
+        },
+        {
+          "tag": "section",
+          "id": null,
+          "class": "game-video about",
+          "firstHeading": {
+            "level": 2,
+            "text": "Fiddlebops Incredibox Game Video"
+          }
+        },
+        {
+          "tag": "div",
+          "id": null,
+          "class": "clear-both",
+          "firstHeading": null
+        },
+        {
+          "tag": "section",
+          "id": "faq",
+          "class": "about",
+          "firstHeading": {
+            "level": 2,
+            "text": "FAQ About Fiddlebops Incredibox"
+          }
+        }
+      ],
+      "headerLinks": [
+        {
+          "href": "/",
+          "text": "FiddleBops"
+        },
+        {
+          "href": "/",
+          "text": "Home"
+        },
+        {
+          "href": "/update-games/",
+          "text": "New Games"
+        },
+        {
+          "href": "/search/",
+          "text": "Search"
+        },
+        {
+          "href": "/fiddlebops-mod/",
+          "text": "Fiddlebops Mod"
+        },
+        {
+          "href": "/incredibox-mod/",
+          "text": "Incredibox Mod"
+        },
+        {
+          "href": "/sprunki-mod/",
+          "text": "Sprunki Mod"
+        }
+      ],
+      "footerLinks": [
+        {
+          "href": "/privacy/",
+          "text": "Privacy Policy"
+        },
+        {
+          "href": "/terms-of-service/",
+          "text": "Terms of service"
+        }
+      ],
+      "semantic": {
+        "hasMain": true,
+        "hasNav": true,
+        "hasHeader": true,
+        "hasFooter": true,
+        "hasAside": false,
+        "h1Count": 1
+      }
+    },
+    "/zh/": {
+      "headings": [
+        {
+          "level": 1,
+          "text": "欢迎来到 Fiddlebops Incredibox！"
+        },
+        {
+          "level": 3,
+          "text": "► 热门游戏"
+        },
+        {
+          "level": 3,
+          "text": "► 新游戏"
+        },
+        {
+          "level": 2,
+          "text": "最近玩过"
+        },
+        {
+          "level": 2,
+          "text": "流行游戏"
+        },
+        {
+          "level": 2,
+          "text": "游戏分类"
+        },
+        {
+          "level": 2,
+          "text": "关于 Fiddlebops Incredibox"
+        },
+        {
+          "level": 3,
+          "text": "I. Fiddlebops 基本信息与玩法"
+        },
+        {
+          "level": 4,
+          "text": "1. 创作机制"
+        },
+        {
+          "level": 3,
+          "text": "II. Fiddlebops 模组与社区内容"
+        },
+        {
+          "level": 4,
+          "text": "1. 热门游戏模组概述"
+        },
+        {
+          "level": 4,
+          "text": "2. 角色介绍与社区创作"
+        },
+        {
+          "level": 3,
+          "text": "III. 如何玩 Fiddlebops"
+        },
+        {
+          "level": 4,
+          "text": "1. 选择角色"
+        },
+        {
+          "level": 4,
+          "text": "2. 组合声音"
+        },
+        {
+          "level": 4,
+          "text": "3. 混音与创作"
+        },
+        {
+          "level": 4,
+          "text": "4. 分享作品"
+        },
+        {
+          "level": 3,
+          "text": "IV. Fiddlebops 特点"
+        },
+        {
+          "level": 3,
+          "text": "V. Fiddlebops 下载与体验"
+        },
+        {
+          "level": 2,
+          "text": "探索Fiddlebops中不同的声音"
+        },
+        {
+          "level": 2,
+          "text": "Fiddlebops Incredibox Game Video"
+        },
+        {
+          "level": 2,
+          "text": "关于 Fiddlebops游戏的常见问题"
+        },
+        {
+          "level": 3,
+          "text": "什么是 Fiddlebops 游戏"
+        },
+        {
+          "level": 3,
+          "text": "Fiddlebops 游戏是否免费？"
+        },
+        {
+          "level": 3,
+          "text": "是否需要下载或安装？"
+        },
+        {
+          "level": 3,
+          "text": "Fiddlebops 游戏如何开始创作音乐？"
+        },
+        {
+          "level": 3,
+          "text": "游戏是否适合音乐爱好者？"
+        },
+        {
+          "level": 3,
+          "text": "游戏是否支持多人协作？"
+        }
+      ],
+      "mainOutline": [
+        {
+          "tag": "section",
+          "id": null,
+          "class": "hero",
+          "firstHeading": {
+            "level": 1,
+            "text": "欢迎来到 Fiddlebops Incredibox！"
+          }
+        },
+        {
+          "tag": "section",
+          "id": "recently-played",
+          "class": "games",
+          "firstHeading": {
+            "level": 2,
+            "text": "最近玩过"
+          }
+        },
+        {
+          "tag": "section",
+          "id": null,
+          "class": "games",
+          "firstHeading": {
+            "level": 2,
+            "text": "流行游戏"
+          }
+        },
+        {
+          "tag": "section",
+          "id": null,
+          "class": "games",
+          "firstHeading": null
+        },
+        {
+          "tag": "section",
+          "id": null,
+          "class": "games categories",
+          "firstHeading": {
+            "level": 2,
+            "text": "游戏分类"
+          }
+        },
+        {
+          "tag": "section",
+          "id": "about",
+          "class": "about",
+          "firstHeading": {
+            "level": 2,
+            "text": "关于 Fiddlebops Incredibox"
+          }
+        },
+        {
+          "tag": "section",
+          "id": null,
+          "class": "games",
+          "firstHeading": {
+            "level": 2,
+            "text": "探索Fiddlebops中不同的声音"
+          }
+        },
+        {
+          "tag": "section",
+          "id": null,
+          "class": "game-video about",
+          "firstHeading": {
+            "level": 2,
+            "text": "Fiddlebops Incredibox Game Video"
+          }
+        },
+        {
+          "tag": "div",
+          "id": null,
+          "class": "clear-both",
+          "firstHeading": null
+        },
+        {
+          "tag": "section",
+          "id": "faq",
+          "class": "about",
+          "firstHeading": {
+            "level": 2,
+            "text": "关于 Fiddlebops游戏的常见问题"
+          }
+        }
+      ],
+      "headerLinks": [
+        {
+          "href": "/zh/",
+          "text": "FiddleBops"
+        },
+        {
+          "href": "/zh/",
+          "text": "首页"
+        },
+        {
+          "href": "/zh/update-games/",
+          "text": "新游戏"
+        },
+        {
+          "href": "/zh/search/",
+          "text": "搜索"
+        },
+        {
+          "href": "/zh/fiddlebops-mod/",
+          "text": "Fiddlebops 模组"
+        },
+        {
+          "href": "/zh/incredibox-mod/",
+          "text": "Incredibox 模组"
+        },
+        {
+          "href": "/zh/sprunki-mod/",
+          "text": "Sprunki 模组"
+        }
+      ],
+      "footerLinks": [
+        {
+          "href": "/zh/privacy/",
+          "text": "隐私政策"
+        },
+        {
+          "href": "/zh/terms-of-service/",
+          "text": "服务条款"
+        }
+      ],
+      "semantic": {
+        "hasMain": true,
+        "hasNav": true,
+        "hasHeader": true,
+        "hasFooter": true,
+        "hasAside": false,
+        "h1Count": 1
+      }
+    },
+    "/de/": {
+      "headings": [
+        {
+          "level": 1,
+          "text": "Willkommen bei Fiddlebops Incredibox!"
+        },
+        {
+          "level": 3,
+          "text": "► Beliebte Spiele"
+        },
+        {
+          "level": 3,
+          "text": "► Neue Spiele"
+        },
+        {
+          "level": 2,
+          "text": "Kürzlich gespielt"
+        },
+        {
+          "level": 2,
+          "text": "Trending Spiele"
+        },
+        {
+          "level": 2,
+          "text": "Spielkategorien"
+        },
+        {
+          "level": 2,
+          "text": "Über Fiddlebops Incredibox"
+        },
+        {
+          "level": 3,
+          "text": "I. Fiddlebops: Basisinformationen und Spielprinzip"
+        },
+        {
+          "level": 4,
+          "text": "1. Kompositionsmechanik"
+        },
+        {
+          "level": 3,
+          "text": "II. Fiddlebops Mods und Community-Inhalte"
+        },
+        {
+          "level": 4,
+          "text": "1. Überblick über beliebte Spiel-Mods"
+        },
+        {
+          "level": 4,
+          "text": "2. Charaktervorstellung und Community-Kreationen"
+        },
+        {
+          "level": 3,
+          "text": "III. Wie man Fiddlebops spielt"
+        },
+        {
+          "level": 4,
+          "text": "1. Charaktere auswählen"
+        },
+        {
+          "level": 4,
+          "text": "2. Klänge kombinieren"
+        },
+        {
+          "level": 4,
+          "text": "3. Mischen und Komponieren"
+        },
+        {
+          "level": 4,
+          "text": "4. Werke teilen"
+        },
+        {
+          "level": 3,
+          "text": "IV. Fiddlebops Merkmale"
+        },
+        {
+          "level": 3,
+          "text": "V. Fiddlebops Download und Erlebnis"
+        },
+        {
+          "level": 2,
+          "text": "Entdecke die verschiedenen Klänge in Fiddlebops"
+        },
+        {
+          "level": 2,
+          "text": "Fiddlebops Incredibox Game Video"
+        },
+        {
+          "level": 2,
+          "text": "Häufig gestellte Fragen zum Fiddlebops-Spiel"
+        },
+        {
+          "level": 3,
+          "text": "Was ist das Fiddlebops-Spiel?"
+        },
+        {
+          "level": 3,
+          "text": "Ist das Fiddlebops-Spiel kostenlos?"
+        },
+        {
+          "level": 3,
+          "text": "Muss man etwas herunterladen oder installieren?"
+        },
+        {
+          "level": 3,
+          "text": "Wie beginne ich mit der Musikproduktion im Fiddlebops-Spiel?"
+        },
+        {
+          "level": 3,
+          "text": "Ist das Spiel für Musikliebhaber geeignet?"
+        },
+        {
+          "level": 3,
+          "text": "Unterstützt das Spiel Multiplayer-Kollaboration?"
+        }
+      ],
+      "mainOutline": [
+        {
+          "tag": "section",
+          "id": null,
+          "class": "hero",
+          "firstHeading": {
+            "level": 1,
+            "text": "Willkommen bei Fiddlebops Incredibox!"
+          }
+        },
+        {
+          "tag": "section",
+          "id": "recently-played",
+          "class": "games",
+          "firstHeading": {
+            "level": 2,
+            "text": "Kürzlich gespielt"
+          }
+        },
+        {
+          "tag": "section",
+          "id": null,
+          "class": "games",
+          "firstHeading": {
+            "level": 2,
+            "text": "Trending Spiele"
+          }
+        },
+        {
+          "tag": "section",
+          "id": null,
+          "class": "games",
+          "firstHeading": null
+        },
+        {
+          "tag": "section",
+          "id": null,
+          "class": "games categories",
+          "firstHeading": {
+            "level": 2,
+            "text": "Spielkategorien"
+          }
+        },
+        {
+          "tag": "section",
+          "id": "about",
+          "class": "about",
+          "firstHeading": {
+            "level": 2,
+            "text": "Über Fiddlebops Incredibox"
+          }
+        },
+        {
+          "tag": "section",
+          "id": null,
+          "class": "games",
+          "firstHeading": {
+            "level": 2,
+            "text": "Entdecke die verschiedenen Klänge in Fiddlebops"
+          }
+        },
+        {
+          "tag": "section",
+          "id": null,
+          "class": "game-video about",
+          "firstHeading": {
+            "level": 2,
+            "text": "Fiddlebops Incredibox Game Video"
+          }
+        },
+        {
+          "tag": "div",
+          "id": null,
+          "class": "clear-both",
+          "firstHeading": null
+        },
+        {
+          "tag": "section",
+          "id": "faq",
+          "class": "about",
+          "firstHeading": {
+            "level": 2,
+            "text": "Häufig gestellte Fragen zum Fiddlebops-Spiel"
+          }
+        }
+      ],
+      "headerLinks": [
+        {
+          "href": "/de/",
+          "text": "FiddleBops"
+        },
+        {
+          "href": "/de/",
+          "text": "Startseite"
+        },
+        {
+          "href": "/de/update-games/",
+          "text": "Neue Spiele"
+        },
+        {
+          "href": "/de/search/",
+          "text": "Suche"
+        },
+        {
+          "href": "/de/fiddlebops-mod/",
+          "text": "Fiddlebops Mod"
+        },
+        {
+          "href": "/de/incredibox-mod/",
+          "text": "Incredibox Mod"
+        },
+        {
+          "href": "/de/sprunki-mod/",
+          "text": "Sprunki Mod"
+        }
+      ],
+      "footerLinks": [
+        {
+          "href": "/de/privacy/",
+          "text": "Datenschutzrichtlinie"
+        },
+        {
+          "href": "/de/terms-of-service/",
+          "text": "Nutzungsbedingungen"
+        }
+      ],
+      "semantic": {
+        "hasMain": true,
+        "hasNav": true,
+        "hasHeader": true,
+        "hasFooter": true,
+        "hasAside": false,
+        "h1Count": 1
+      }
+    },
+    "/privacy/": {
+      "headings": [
+        {
+          "level": 1,
+          "text": "Privacy Policy"
+        },
+        {
+          "level": 2,
+          "text": "Interpretation and Definitions"
+        },
+        {
+          "level": 3,
+          "text": "Interpretation"
+        },
+        {
+          "level": 3,
+          "text": "Definitions"
+        },
+        {
+          "level": 2,
+          "text": "Collecting and Using Your Personal Data"
+        },
+        {
+          "level": 3,
+          "text": "Types of Data Collected"
+        },
+        {
+          "level": 4,
+          "text": "Personal Data"
+        },
+        {
+          "level": 4,
+          "text": "Usage Data"
+        },
+        {
+          "level": 4,
+          "text": "Information from Third-Party Social Media Services"
+        },
+        {
+          "level": 4,
+          "text": "Tracking Technologies and Cookies"
+        },
+        {
+          "level": 3,
+          "text": "Use of Your Personal Data"
+        },
+        {
+          "level": 3,
+          "text": "Retention of Your Personal Data"
+        },
+        {
+          "level": 3,
+          "text": "Transfer of Your Personal Data"
+        },
+        {
+          "level": 3,
+          "text": "Delete Your Personal Data"
+        },
+        {
+          "level": 3,
+          "text": "Disclosure of Your Personal Data"
+        },
+        {
+          "level": 4,
+          "text": "Business Transactions"
+        },
+        {
+          "level": 4,
+          "text": "Law enforcement"
+        },
+        {
+          "level": 4,
+          "text": "Other legal requirements"
+        },
+        {
+          "level": 3,
+          "text": "Security of Your Personal Data"
+        },
+        {
+          "level": 2,
+          "text": "Children's Privacy"
+        },
+        {
+          "level": 2,
+          "text": "Links to Other Websites"
+        },
+        {
+          "level": 2,
+          "text": "Changes to this Privacy Policy"
+        },
+        {
+          "level": 2,
+          "text": "Contact Us"
+        }
+      ],
+      "mainOutline": [
+        {
+          "tag": "div",
+          "id": null,
+          "class": "page",
+          "firstHeading": {
+            "level": 1,
+            "text": "Privacy Policy"
+          }
+        }
+      ],
+      "headerLinks": [
+        {
+          "href": "/",
+          "text": "FiddleBops"
+        },
+        {
+          "href": "/",
+          "text": "Home"
+        },
+        {
+          "href": "/update-games/",
+          "text": "New Games"
+        },
+        {
+          "href": "/search/",
+          "text": "Search"
+        },
+        {
+          "href": "/fiddlebops-mod/",
+          "text": "Fiddlebops Mod"
+        },
+        {
+          "href": "/incredibox-mod/",
+          "text": "Incredibox Mod"
+        },
+        {
+          "href": "/sprunki-mod/",
+          "text": "Sprunki Mod"
+        }
+      ],
+      "footerLinks": [
+        {
+          "href": "/privacy/",
+          "text": "Privacy Policy"
+        },
+        {
+          "href": "/terms-of-service/",
+          "text": "Terms of service"
+        }
+      ],
+      "semantic": {
+        "hasMain": true,
+        "hasNav": true,
+        "hasHeader": true,
+        "hasFooter": true,
+        "hasAside": false,
+        "h1Count": 1
+      }
+    },
+    "/terms-of-service/": {
+      "headings": [
+        {
+          "level": 1,
+          "text": "TERMS OF SERVICE"
+        },
+        {
+          "level": 2,
+          "text": "AGREEMENT TO OUR LEGAL TERMS"
+        },
+        {
+          "level": 2,
+          "text": "TABLE OF CONTENTS"
+        },
+        {
+          "level": 2,
+          "text": "1. OUR SERVICES"
+        },
+        {
+          "level": 2,
+          "text": "2. INTELLECTUAL PROPERTY RIGHTS"
+        },
+        {
+          "level": 3,
+          "text": "Our intellectual property"
+        },
+        {
+          "level": 3,
+          "text": "Your use of our Services"
+        },
+        {
+          "level": 3,
+          "text": "Your submissions"
+        },
+        {
+          "level": 2,
+          "text": "3. USER REPRESENTATIONS"
+        },
+        {
+          "level": 2,
+          "text": "4. PROHIBITED ACTIVITIES"
+        },
+        {
+          "level": 2,
+          "text": "5. USER GENERATED CONTRIBUTIONS"
+        },
+        {
+          "level": 2,
+          "text": "6. CONTRIBUTION LICENSE"
+        },
+        {
+          "level": 2,
+          "text": "7. THIRD-PARTY WEBSITES AND CONTENT"
+        },
+        {
+          "level": 2,
+          "text": "8. ADVERTISERS"
+        },
+        {
+          "level": 2,
+          "text": "9. SERVICES MANAGEMENT"
+        },
+        {
+          "level": 2,
+          "text": "10. PRIVACY POLICY"
+        },
+        {
+          "level": 2,
+          "text": "11. TERM AND TERMINATION"
+        },
+        {
+          "level": 2,
+          "text": "12. MODIFICATIONS AND INTERRUPTIONS"
+        },
+        {
+          "level": 2,
+          "text": "13. GOVERNING LAW"
+        },
+        {
+          "level": 2,
+          "text": "14. DISPUTE RESOLUTION"
+        },
+        {
+          "level": 3,
+          "text": "Informal Negotiations"
+        },
+        {
+          "level": 3,
+          "text": "Binding Arbitration"
+        },
+        {
+          "level": 3,
+          "text": "Restrictions"
+        },
+        {
+          "level": 3,
+          "text": "Exceptions to Informal Negotiations and Arbitration"
+        },
+        {
+          "level": 2,
+          "text": "15. CORRECTIONS"
+        },
+        {
+          "level": 2,
+          "text": "16. DISCLAIMER"
+        },
+        {
+          "level": 2,
+          "text": "17. LIMITATIONS OF LIABILITY"
+        },
+        {
+          "level": 2,
+          "text": "18. INDEMNIFICATION"
+        },
+        {
+          "level": 2,
+          "text": "19. USER DATA"
+        },
+        {
+          "level": 2,
+          "text": "20. ELECTRONIC COMMUNICATIONS, TRANSACTIONS, AND SIGNATURES"
+        },
+        {
+          "level": 2,
+          "text": "21. MISCELLANEOUS"
+        },
+        {
+          "level": 2,
+          "text": "22. CONTACT US"
+        }
+      ],
+      "mainOutline": [
+        {
+          "tag": "div",
+          "id": null,
+          "class": "page",
+          "firstHeading": {
+            "level": 1,
+            "text": "TERMS OF SERVICE"
+          }
+        }
+      ],
+      "headerLinks": [
+        {
+          "href": "/",
+          "text": "FiddleBops"
+        },
+        {
+          "href": "/",
+          "text": "Home"
+        },
+        {
+          "href": "/update-games/",
+          "text": "New Games"
+        },
+        {
+          "href": "/search/",
+          "text": "Search"
+        },
+        {
+          "href": "/fiddlebops-mod/",
+          "text": "Fiddlebops Mod"
+        },
+        {
+          "href": "/incredibox-mod/",
+          "text": "Incredibox Mod"
+        },
+        {
+          "href": "/sprunki-mod/",
+          "text": "Sprunki Mod"
+        }
+      ],
+      "footerLinks": [
+        {
+          "href": "/privacy/",
+          "text": "Privacy Policy"
+        },
+        {
+          "href": "/terms-of-service/",
+          "text": "Terms of service"
+        }
+      ],
+      "semantic": {
+        "hasMain": true,
+        "hasNav": true,
+        "hasHeader": true,
+        "hasFooter": true,
+        "hasAside": false,
+        "h1Count": 1
+      }
+    },
+    "/search/": {
+      "headings": [
+        {
+          "level": 1,
+          "text": "Search"
+        }
+      ],
+      "mainOutline": [
+        {
+          "tag": "section",
+          "id": null,
+          "class": "games",
+          "firstHeading": {
+            "level": 1,
+            "text": "Search"
+          }
+        }
+      ],
+      "headerLinks": [
+        {
+          "href": "/",
+          "text": "FiddleBops"
+        },
+        {
+          "href": "/",
+          "text": "Home"
+        },
+        {
+          "href": "/update-games/",
+          "text": "New Games"
+        },
+        {
+          "href": "/search/",
+          "text": "Search"
+        },
+        {
+          "href": "/fiddlebops-mod/",
+          "text": "Fiddlebops Mod"
+        },
+        {
+          "href": "/incredibox-mod/",
+          "text": "Incredibox Mod"
+        },
+        {
+          "href": "/sprunki-mod/",
+          "text": "Sprunki Mod"
+        }
+      ],
+      "footerLinks": [
+        {
+          "href": "/privacy/",
+          "text": "Privacy Policy"
+        },
+        {
+          "href": "/terms-of-service/",
+          "text": "Terms of service"
+        }
+      ],
+      "semantic": {
+        "hasMain": true,
+        "hasNav": true,
+        "hasHeader": true,
+        "hasFooter": true,
+        "hasAside": false,
+        "h1Count": 1
+      }
+    },
+    "/games/": {
+      "headings": [
+        {
+          "level": 1,
+          "text": "All Games"
+        }
+      ],
+      "mainOutline": [
+        {
+          "tag": "section",
+          "id": null,
+          "class": "games",
+          "firstHeading": {
+            "level": 1,
+            "text": "All Games"
+          }
+        }
+      ],
+      "headerLinks": [
+        {
+          "href": "/",
+          "text": "FiddleBops"
+        },
+        {
+          "href": "/",
+          "text": "Home"
+        },
+        {
+          "href": "/update-games/",
+          "text": "New Games"
+        },
+        {
+          "href": "/search/",
+          "text": "Search"
+        },
+        {
+          "href": "/fiddlebops-mod/",
+          "text": "Fiddlebops Mod"
+        },
+        {
+          "href": "/incredibox-mod/",
+          "text": "Incredibox Mod"
+        },
+        {
+          "href": "/sprunki-mod/",
+          "text": "Sprunki Mod"
+        }
+      ],
+      "footerLinks": [
+        {
+          "href": "/privacy/",
+          "text": "Privacy Policy"
+        },
+        {
+          "href": "/terms-of-service/",
+          "text": "Terms of service"
+        }
+      ],
+      "semantic": {
+        "hasMain": true,
+        "hasNav": true,
+        "hasHeader": true,
+        "hasFooter": true,
+        "hasAside": false,
+        "h1Count": 1
+      }
+    },
+    "/2-tricky-stories/": {
+      "headings": [
+        {
+          "level": 1,
+          "text": "Brain Test 2: Tricky Stories"
+        },
+        {
+          "level": 3,
+          "text": "► Popular Games"
+        },
+        {
+          "level": 3,
+          "text": "► New Games"
+        },
+        {
+          "level": 2,
+          "text": "Trending Games"
+        },
+        {
+          "level": 2,
+          "text": "Game Categories"
+        },
+        {
+          "level": 2,
+          "text": "About Brain Test 2: Tricky Stories"
+        },
+        {
+          "level": 3,
+          "text": "2. How to Play"
+        },
+        {
+          "level": 3,
+          "text": "3. Operation Guide"
+        },
+        {
+          "level": 3,
+          "text": "4. Frequently Asked Questions (FAQ)"
+        }
+      ],
+      "mainOutline": [
+        {
+          "tag": "section",
+          "id": null,
+          "class": "hero",
+          "firstHeading": {
+            "level": 1,
+            "text": "Brain Test 2: Tricky Stories"
+          }
+        },
+        {
+          "tag": "section",
+          "id": null,
+          "class": "games",
+          "firstHeading": {
+            "level": 2,
+            "text": "Trending Games"
+          }
+        },
+        {
+          "tag": "section",
+          "id": null,
+          "class": "games categories",
+          "firstHeading": {
+            "level": 2,
+            "text": "Game Categories"
+          }
+        },
+        {
+          "tag": "section",
+          "id": "about",
+          "class": "about",
+          "firstHeading": {
+            "level": 2,
+            "text": "About Brain Test 2: Tricky Stories"
+          }
+        }
+      ],
+      "headerLinks": [
+        {
+          "href": "/",
+          "text": "FiddleBops"
+        },
+        {
+          "href": "/",
+          "text": "Home"
+        },
+        {
+          "href": "/update-games/",
+          "text": "New Games"
+        },
+        {
+          "href": "/search/",
+          "text": "Search"
+        },
+        {
+          "href": "/fiddlebops-mod/",
+          "text": "Fiddlebops Mod"
+        },
+        {
+          "href": "/incredibox-mod/",
+          "text": "Incredibox Mod"
+        },
+        {
+          "href": "/sprunki-mod/",
+          "text": "Sprunki Mod"
+        }
+      ],
+      "footerLinks": [
+        {
+          "href": "/privacy/",
+          "text": "Privacy Policy"
+        },
+        {
+          "href": "/terms-of-service/",
+          "text": "Terms of service"
+        }
+      ],
+      "semantic": {
+        "hasMain": true,
+        "hasNav": true,
+        "hasHeader": true,
+        "hasFooter": true,
+        "hasAside": false,
+        "h1Count": 1
+      }
+    },
+    "/2020-connect/": {
+      "headings": [
+        {
+          "level": 1,
+          "text": "2020 Connect"
+        },
+        {
+          "level": 3,
+          "text": "► Popular Games"
+        },
+        {
+          "level": 3,
+          "text": "► New Games"
+        },
+        {
+          "level": 2,
+          "text": "Trending Games"
+        },
+        {
+          "level": 2,
+          "text": "Game Categories"
+        },
+        {
+          "level": 2,
+          "text": "About 2020 Connect"
+        },
+        {
+          "level": 3,
+          "text": "Detailed Game Introduction"
+        },
+        {
+          "level": 3,
+          "text": "Gameplay Strategy & Walkthrough"
+        },
+        {
+          "level": 3,
+          "text": "Controls Guide"
+        },
+        {
+          "level": 3,
+          "text": "Frequently Asked Questions (FAQ)"
+        }
+      ],
+      "mainOutline": [
+        {
+          "tag": "section",
+          "id": null,
+          "class": "hero",
+          "firstHeading": {
+            "level": 1,
+            "text": "2020 Connect"
+          }
+        },
+        {
+          "tag": "section",
+          "id": null,
+          "class": "games",
+          "firstHeading": {
+            "level": 2,
+            "text": "Trending Games"
+          }
+        },
+        {
+          "tag": "section",
+          "id": null,
+          "class": "games categories",
+          "firstHeading": {
+            "level": 2,
+            "text": "Game Categories"
+          }
+        },
+        {
+          "tag": "section",
+          "id": "about",
+          "class": "about",
+          "firstHeading": {
+            "level": 2,
+            "text": "About 2020 Connect"
+          }
+        }
+      ],
+      "headerLinks": [
+        {
+          "href": "/",
+          "text": "FiddleBops"
+        },
+        {
+          "href": "/",
+          "text": "Home"
+        },
+        {
+          "href": "/update-games/",
+          "text": "New Games"
+        },
+        {
+          "href": "/search/",
+          "text": "Search"
+        },
+        {
+          "href": "/fiddlebops-mod/",
+          "text": "Fiddlebops Mod"
+        },
+        {
+          "href": "/incredibox-mod/",
+          "text": "Incredibox Mod"
+        },
+        {
+          "href": "/sprunki-mod/",
+          "text": "Sprunki Mod"
+        }
+      ],
+      "footerLinks": [
+        {
+          "href": "/privacy/",
+          "text": "Privacy Policy"
+        },
+        {
+          "href": "/terms-of-service/",
+          "text": "Terms of service"
+        }
+      ],
+      "semantic": {
+        "hasMain": true,
+        "hasNav": true,
+        "hasHeader": true,
+        "hasFooter": true,
+        "hasAside": false,
+        "h1Count": 1
+      }
+    },
+    "/2048-fusion/": {
+      "headings": [
+        {
+          "level": 1,
+          "text": "2048 Fusion"
+        },
+        {
+          "level": 3,
+          "text": "► Popular Games"
+        },
+        {
+          "level": 3,
+          "text": "► New Games"
+        },
+        {
+          "level": 2,
+          "text": "Trending Games"
+        },
+        {
+          "level": 2,
+          "text": "Game Categories"
+        },
+        {
+          "level": 2,
+          "text": "About 2048 Fusion"
+        },
+        {
+          "level": 3,
+          "text": "Detailed Game Introduction"
+        },
+        {
+          "level": 3,
+          "text": "Gameplay Strategy & Walkthrough"
+        },
+        {
+          "level": 3,
+          "text": "Controls Guide"
+        },
+        {
+          "level": 3,
+          "text": "Frequently Asked Questions (FAQ)"
+        }
+      ],
+      "mainOutline": [
+        {
+          "tag": "section",
+          "id": null,
+          "class": "hero",
+          "firstHeading": {
+            "level": 1,
+            "text": "2048 Fusion"
+          }
+        },
+        {
+          "tag": "section",
+          "id": null,
+          "class": "games",
+          "firstHeading": {
+            "level": 2,
+            "text": "Trending Games"
+          }
+        },
+        {
+          "tag": "section",
+          "id": null,
+          "class": "games categories",
+          "firstHeading": {
+            "level": 2,
+            "text": "Game Categories"
+          }
+        },
+        {
+          "tag": "section",
+          "id": "about",
+          "class": "about",
+          "firstHeading": {
+            "level": 2,
+            "text": "About 2048 Fusion"
+          }
+        }
+      ],
+      "headerLinks": [
+        {
+          "href": "/",
+          "text": "FiddleBops"
+        },
+        {
+          "href": "/",
+          "text": "Home"
+        },
+        {
+          "href": "/update-games/",
+          "text": "New Games"
+        },
+        {
+          "href": "/search/",
+          "text": "Search"
+        },
+        {
+          "href": "/fiddlebops-mod/",
+          "text": "Fiddlebops Mod"
+        },
+        {
+          "href": "/incredibox-mod/",
+          "text": "Incredibox Mod"
+        },
+        {
+          "href": "/sprunki-mod/",
+          "text": "Sprunki Mod"
+        }
+      ],
+      "footerLinks": [
+        {
+          "href": "/privacy/",
+          "text": "Privacy Policy"
+        },
+        {
+          "href": "/terms-of-service/",
+          "text": "Terms of service"
+        }
+      ],
+      "semantic": {
+        "hasMain": true,
+        "hasNav": true,
+        "hasHeader": true,
+        "hasFooter": true,
+        "hasAside": false,
+        "h1Count": 1
+      }
+    },
+    "/zh/2-tricky-stories/": {
+      "headings": [
+        {
+          "level": 1,
+          "text": "Brain Test 2: Tricky Stories 脑力测试2：棘手故事"
+        },
+        {
+          "level": 3,
+          "text": "► 热门游戏"
+        },
+        {
+          "level": 3,
+          "text": "► 新游戏"
+        },
+        {
+          "level": 2,
+          "text": "流行游戏"
+        },
+        {
+          "level": 2,
+          "text": "游戏分类"
+        },
+        {
+          "level": 2,
+          "text": "关于 Brain Test 2: Tricky Stories 脑力测试2：棘手故事"
+        },
+        {
+          "level": 3,
+          "text": "2. 如何游玩"
+        },
+        {
+          "level": 3,
+          "text": "3. 操作指南"
+        },
+        {
+          "level": 3,
+          "text": "4. 常见问题解答（FAQ）"
+        }
+      ],
+      "mainOutline": [
+        {
+          "tag": "section",
+          "id": null,
+          "class": "hero",
+          "firstHeading": {
+            "level": 1,
+            "text": "Brain Test 2: Tricky Stories 脑力测试2：棘手故事"
+          }
+        },
+        {
+          "tag": "section",
+          "id": null,
+          "class": "games",
+          "firstHeading": {
+            "level": 2,
+            "text": "流行游戏"
+          }
+        },
+        {
+          "tag": "section",
+          "id": null,
+          "class": "games categories",
+          "firstHeading": {
+            "level": 2,
+            "text": "游戏分类"
+          }
+        },
+        {
+          "tag": "section",
+          "id": "about",
+          "class": "about",
+          "firstHeading": {
+            "level": 2,
+            "text": "关于 Brain Test 2: Tricky Stories 脑力测试2：棘手故事"
+          }
+        }
+      ],
+      "headerLinks": [
+        {
+          "href": "/zh/",
+          "text": "FiddleBops"
+        },
+        {
+          "href": "/zh/",
+          "text": "首页"
+        },
+        {
+          "href": "/zh/update-games/",
+          "text": "新游戏"
+        },
+        {
+          "href": "/zh/search/",
+          "text": "搜索"
+        },
+        {
+          "href": "/zh/fiddlebops-mod/",
+          "text": "Fiddlebops 模组"
+        },
+        {
+          "href": "/zh/incredibox-mod/",
+          "text": "Incredibox 模组"
+        },
+        {
+          "href": "/zh/sprunki-mod/",
+          "text": "Sprunki 模组"
+        }
+      ],
+      "footerLinks": [
+        {
+          "href": "/zh/privacy/",
+          "text": "隐私政策"
+        },
+        {
+          "href": "/zh/terms-of-service/",
+          "text": "服务条款"
+        }
+      ],
+      "semantic": {
+        "hasMain": true,
+        "hasNav": true,
+        "hasHeader": true,
+        "hasFooter": true,
+        "hasAside": false,
+        "h1Count": 1
+      }
+    },
+    "/de/2-tricky-stories/": {
+      "headings": [
+        {
+          "level": 1,
+          "text": "Brain Test 2: Tricky Stories"
+        },
+        {
+          "level": 3,
+          "text": "► Beliebte Spiele"
+        },
+        {
+          "level": 3,
+          "text": "► Neue Spiele"
+        },
+        {
+          "level": 2,
+          "text": "Trending Spiele"
+        },
+        {
+          "level": 2,
+          "text": "Spielkategorien"
+        },
+        {
+          "level": 2,
+          "text": "Über Brain Test 2: Tricky Stories"
+        },
+        {
+          "level": 3,
+          "text": "2. So spielst du"
+        },
+        {
+          "level": 3,
+          "text": "3. Steuerung"
+        },
+        {
+          "level": 3,
+          "text": "4. Häufig gestellte Fragen (FAQ)"
+        }
+      ],
+      "mainOutline": [
+        {
+          "tag": "section",
+          "id": null,
+          "class": "hero",
+          "firstHeading": {
+            "level": 1,
+            "text": "Brain Test 2: Tricky Stories"
+          }
+        },
+        {
+          "tag": "section",
+          "id": null,
+          "class": "games",
+          "firstHeading": {
+            "level": 2,
+            "text": "Trending Spiele"
+          }
+        },
+        {
+          "tag": "section",
+          "id": null,
+          "class": "games categories",
+          "firstHeading": {
+            "level": 2,
+            "text": "Spielkategorien"
+          }
+        },
+        {
+          "tag": "section",
+          "id": "about",
+          "class": "about",
+          "firstHeading": {
+            "level": 2,
+            "text": "Über Brain Test 2: Tricky Stories"
+          }
+        }
+      ],
+      "headerLinks": [
+        {
+          "href": "/de/",
+          "text": "FiddleBops"
+        },
+        {
+          "href": "/de/",
+          "text": "Startseite"
+        },
+        {
+          "href": "/de/update-games/",
+          "text": "Neue Spiele"
+        },
+        {
+          "href": "/de/search/",
+          "text": "Suche"
+        },
+        {
+          "href": "/de/fiddlebops-mod/",
+          "text": "Fiddlebops Mod"
+        },
+        {
+          "href": "/de/incredibox-mod/",
+          "text": "Incredibox Mod"
+        },
+        {
+          "href": "/de/sprunki-mod/",
+          "text": "Sprunki Mod"
+        }
+      ],
+      "footerLinks": [
+        {
+          "href": "/de/privacy/",
+          "text": "Datenschutzrichtlinie"
+        },
+        {
+          "href": "/de/terms-of-service/",
+          "text": "Nutzungsbedingungen"
+        }
+      ],
+      "semantic": {
+        "hasMain": true,
+        "hasNav": true,
+        "hasHeader": true,
+        "hasFooter": true,
+        "hasAside": false,
+        "h1Count": 1
+      }
+    },
+    "/es/2-tricky-stories/": {
+      "headings": [
+        {
+          "level": 1,
+          "text": "Brain Test 2: Tricky Stories en línea"
+        },
+        {
+          "level": 3,
+          "text": "► Juegos Populares"
+        },
+        {
+          "level": 3,
+          "text": "► Juegos Nuevos"
+        },
+        {
+          "level": 2,
+          "text": "Juegos en Tendencia"
+        },
+        {
+          "level": 2,
+          "text": "Categorías de Juegos"
+        },
+        {
+          "level": 2,
+          "text": "Acerca de Brain Test 2: Tricky Stories en línea"
+        },
+        {
+          "level": 3,
+          "text": "2. Cómo jugar"
+        },
+        {
+          "level": 3,
+          "text": "3. Guía de controles"
+        },
+        {
+          "level": 3,
+          "text": "4. Preguntas frecuentes (FAQ)"
+        }
+      ],
+      "mainOutline": [
+        {
+          "tag": "section",
+          "id": null,
+          "class": "hero",
+          "firstHeading": {
+            "level": 1,
+            "text": "Brain Test 2: Tricky Stories en línea"
+          }
+        },
+        {
+          "tag": "section",
+          "id": null,
+          "class": "games",
+          "firstHeading": {
+            "level": 2,
+            "text": "Juegos en Tendencia"
+          }
+        },
+        {
+          "tag": "section",
+          "id": null,
+          "class": "games categories",
+          "firstHeading": {
+            "level": 2,
+            "text": "Categorías de Juegos"
+          }
+        },
+        {
+          "tag": "section",
+          "id": "about",
+          "class": "about",
+          "firstHeading": {
+            "level": 2,
+            "text": "Acerca de Brain Test 2: Tricky Stories en línea"
+          }
+        }
+      ],
+      "headerLinks": [
+        {
+          "href": "/es/",
+          "text": "FiddleBops"
+        },
+        {
+          "href": "/es/",
+          "text": "Inicio"
+        },
+        {
+          "href": "/es/update-games/",
+          "text": "Juegos Nuevos"
+        },
+        {
+          "href": "/es/search/",
+          "text": "Buscar"
+        },
+        {
+          "href": "/es/fiddlebops-mod/",
+          "text": "Mod Fiddlebops"
+        },
+        {
+          "href": "/es/incredibox-mod/",
+          "text": "Mod Incredibox"
+        },
+        {
+          "href": "/es/sprunki-mod/",
+          "text": "Mod Sprunki"
+        }
+      ],
+      "footerLinks": [
+        {
+          "href": "/es/privacy/",
+          "text": "Política de Privacidad"
+        },
+        {
+          "href": "/es/terms-of-service/",
+          "text": "Términos de servicio"
+        }
+      ],
+      "semantic": {
+        "hasMain": true,
+        "hasNav": true,
+        "hasHeader": true,
+        "hasFooter": true,
+        "hasAside": false,
+        "h1Count": 1
+      }
+    },
+    "/fr/2-tricky-stories/": {
+      "headings": [
+        {
+          "level": 1,
+          "text": "Brain Test 2: Tricky Stories"
+        },
+        {
+          "level": 3,
+          "text": "► Jeux Populaires"
+        },
+        {
+          "level": 3,
+          "text": "► Nouveaux Jeux"
+        },
+        {
+          "level": 2,
+          "text": "Jeux Tendance"
+        },
+        {
+          "level": 2,
+          "text": "Catégories de Jeux"
+        },
+        {
+          "level": 2,
+          "text": "À propos Brain Test 2: Tricky Stories"
+        },
+        {
+          "level": 3,
+          "text": "2. Guide de jeu"
+        },
+        {
+          "level": 3,
+          "text": "3. Commandes"
+        },
+        {
+          "level": 3,
+          "text": "4. Foire aux questions (FAQ)"
+        }
+      ],
+      "mainOutline": [
+        {
+          "tag": "section",
+          "id": null,
+          "class": "hero",
+          "firstHeading": {
+            "level": 1,
+            "text": "Brain Test 2: Tricky Stories"
+          }
+        },
+        {
+          "tag": "section",
+          "id": null,
+          "class": "games",
+          "firstHeading": {
+            "level": 2,
+            "text": "Jeux Tendance"
+          }
+        },
+        {
+          "tag": "section",
+          "id": null,
+          "class": "games categories",
+          "firstHeading": {
+            "level": 2,
+            "text": "Catégories de Jeux"
+          }
+        },
+        {
+          "tag": "section",
+          "id": "about",
+          "class": "about",
+          "firstHeading": {
+            "level": 2,
+            "text": "À propos Brain Test 2: Tricky Stories"
+          }
+        }
+      ],
+      "headerLinks": [
+        {
+          "href": "/fr/",
+          "text": "FiddleBops"
+        },
+        {
+          "href": "/fr/",
+          "text": "Accueil"
+        },
+        {
+          "href": "/fr/update-games/",
+          "text": "Nouveaux Jeux"
+        },
+        {
+          "href": "/fr/search/",
+          "text": "Rechercher"
+        },
+        {
+          "href": "/fr/fiddlebops-mod/",
+          "text": "Mod Fiddlebops"
+        },
+        {
+          "href": "/fr/incredibox-mod/",
+          "text": "Mod Incredibox"
+        },
+        {
+          "href": "/fr/sprunki-mod/",
+          "text": "Mod Sprunki"
+        }
+      ],
+      "footerLinks": [
+        {
+          "href": "/fr/privacy/",
+          "text": "Politique de Confidentialité"
+        },
+        {
+          "href": "/fr/terms-of-service/",
+          "text": "Conditions d'utilisation"
+        }
+      ],
+      "semantic": {
+        "hasMain": true,
+        "hasNav": true,
+        "hasHeader": true,
+        "hasFooter": true,
+        "hasAside": false,
+        "h1Count": 1
+      }
+    },
+    "/ja/2-tricky-stories/": {
+      "headings": [
+        {
+          "level": 1,
+          "text": "Brain Test 2: Tricky Stories 脳トレテスト2：トリッキーストーリー"
+        },
+        {
+          "level": 3,
+          "text": "► 人気ゲーム"
+        },
+        {
+          "level": 3,
+          "text": "► 新しいゲーム"
+        },
+        {
+          "level": 2,
+          "text": "トレンドゲーム"
+        },
+        {
+          "level": 2,
+          "text": "ゲームカテゴリー"
+        },
+        {
+          "level": 2,
+          "text": "について Brain Test 2: Tricky Stories 脳トレテスト2：トリッキーストーリー"
+        },
+        {
+          "level": 3,
+          "text": "2. 遊び方"
+        },
+        {
+          "level": 3,
+          "text": "3. 操作ガイド"
+        },
+        {
+          "level": 3,
+          "text": "4. よくある質問 (FAQ)"
+        }
+      ],
+      "mainOutline": [
+        {
+          "tag": "section",
+          "id": null,
+          "class": "hero",
+          "firstHeading": {
+            "level": 1,
+            "text": "Brain Test 2: Tricky Stories 脳トレテスト2：トリッキーストーリー"
+          }
+        },
+        {
+          "tag": "section",
+          "id": null,
+          "class": "games",
+          "firstHeading": {
+            "level": 2,
+            "text": "トレンドゲーム"
+          }
+        },
+        {
+          "tag": "section",
+          "id": null,
+          "class": "games categories",
+          "firstHeading": {
+            "level": 2,
+            "text": "ゲームカテゴリー"
+          }
+        },
+        {
+          "tag": "section",
+          "id": "about",
+          "class": "about",
+          "firstHeading": {
+            "level": 2,
+            "text": "について Brain Test 2: Tricky Stories 脳トレテスト2：トリッキーストーリー"
+          }
+        }
+      ],
+      "headerLinks": [
+        {
+          "href": "/ja/",
+          "text": "FiddleBops"
+        },
+        {
+          "href": "/ja/",
+          "text": "ホーム"
+        },
+        {
+          "href": "/ja/update-games/",
+          "text": "新しいゲーム"
+        },
+        {
+          "href": "/ja/search/",
+          "text": "検索"
+        },
+        {
+          "href": "/ja/fiddlebops-mod/",
+          "text": "Fiddlebops Mod"
+        },
+        {
+          "href": "/ja/incredibox-mod/",
+          "text": "Incredibox Mod"
+        },
+        {
+          "href": "/ja/sprunki-mod/",
+          "text": "Sprunki Mod"
+        }
+      ],
+      "footerLinks": [
+        {
+          "href": "/ja/privacy/",
+          "text": "プライバシーポリシー"
+        },
+        {
+          "href": "/ja/terms-of-service/",
+          "text": "利用規約"
+        }
+      ],
+      "semantic": {
+        "hasMain": true,
+        "hasNav": true,
+        "hasHeader": true,
+        "hasFooter": true,
+        "hasAside": false,
+        "h1Count": 1
+      }
+    },
+    "/ko/2-tricky-stories/": {
+      "headings": [
+        {
+          "level": 1,
+          "text": "Brain Test 2: Tricky Stories 브레인 테스트 2: 트리키 스토리즈"
+        },
+        {
+          "level": 3,
+          "text": "► 인기 게임"
+        },
+        {
+          "level": 3,
+          "text": "► 새 게임"
+        },
+        {
+          "level": 2,
+          "text": "트렌딩 게임"
+        },
+        {
+          "level": 2,
+          "text": "게임 카테고리"
+        },
+        {
+          "level": 2,
+          "text": "정보 Brain Test 2: Tricky Stories 브레인 테스트 2: 트리키 스토리즈"
+        },
+        {
+          "level": 3,
+          "text": "2. 플레이 방법"
+        },
+        {
+          "level": 3,
+          "text": "3. 조작 안내"
+        },
+        {
+          "level": 3,
+          "text": "4. 자주 묻는 질문 (FAQ)"
+        }
+      ],
+      "mainOutline": [
+        {
+          "tag": "section",
+          "id": null,
+          "class": "hero",
+          "firstHeading": {
+            "level": 1,
+            "text": "Brain Test 2: Tricky Stories 브레인 테스트 2: 트리키 스토리즈"
+          }
+        },
+        {
+          "tag": "section",
+          "id": null,
+          "class": "games",
+          "firstHeading": {
+            "level": 2,
+            "text": "트렌딩 게임"
+          }
+        },
+        {
+          "tag": "section",
+          "id": null,
+          "class": "games categories",
+          "firstHeading": {
+            "level": 2,
+            "text": "게임 카테고리"
+          }
+        },
+        {
+          "tag": "section",
+          "id": "about",
+          "class": "about",
+          "firstHeading": {
+            "level": 2,
+            "text": "정보 Brain Test 2: Tricky Stories 브레인 테스트 2: 트리키 스토리즈"
+          }
+        }
+      ],
+      "headerLinks": [
+        {
+          "href": "/ko/",
+          "text": "FiddleBops"
+        },
+        {
+          "href": "/ko/",
+          "text": "홈"
+        },
+        {
+          "href": "/ko/update-games/",
+          "text": "새 게임"
+        },
+        {
+          "href": "/ko/search/",
+          "text": "검색"
+        },
+        {
+          "href": "/ko/fiddlebops-mod/",
+          "text": "Fiddlebops 모드"
+        },
+        {
+          "href": "/ko/incredibox-mod/",
+          "text": "Incredibox 모드"
+        },
+        {
+          "href": "/ko/sprunki-mod/",
+          "text": "Sprunki 모드"
+        }
+      ],
+      "footerLinks": [
+        {
+          "href": "/ko/privacy/",
+          "text": "개인정보 보호정책"
+        },
+        {
+          "href": "/ko/terms-of-service/",
+          "text": "서비스 약관"
+        }
+      ],
+      "semantic": {
+        "hasMain": true,
+        "hasNav": true,
+        "hasHeader": true,
+        "hasFooter": true,
+        "hasAside": false,
+        "h1Count": 1
+      }
+    },
+    "/zh/2020-connect/": {
+      "headings": [
+        {
+          "level": 1,
+          "text": "2020 Connect 2020连接"
+        },
+        {
+          "level": 3,
+          "text": "► 热门游戏"
+        },
+        {
+          "level": 3,
+          "text": "► 新游戏"
+        },
+        {
+          "level": 2,
+          "text": "流行游戏"
+        },
+        {
+          "level": 2,
+          "text": "游戏分类"
+        },
+        {
+          "level": 2,
+          "text": "关于 2020 Connect 2020连接"
+        },
+        {
+          "level": 3,
+          "text": "详细游戏介绍"
+        },
+        {
+          "level": 3,
+          "text": "游戏策略与攻略"
+        },
+        {
+          "level": 3,
+          "text": "操作指南"
+        },
+        {
+          "level": 3,
+          "text": "常见问题解答（FAQ）"
+        }
+      ],
+      "mainOutline": [
+        {
+          "tag": "section",
+          "id": null,
+          "class": "hero",
+          "firstHeading": {
+            "level": 1,
+            "text": "2020 Connect 2020连接"
+          }
+        },
+        {
+          "tag": "section",
+          "id": null,
+          "class": "games",
+          "firstHeading": {
+            "level": 2,
+            "text": "流行游戏"
+          }
+        },
+        {
+          "tag": "section",
+          "id": null,
+          "class": "games categories",
+          "firstHeading": {
+            "level": 2,
+            "text": "游戏分类"
+          }
+        },
+        {
+          "tag": "section",
+          "id": "about",
+          "class": "about",
+          "firstHeading": {
+            "level": 2,
+            "text": "关于 2020 Connect 2020连接"
+          }
+        }
+      ],
+      "headerLinks": [
+        {
+          "href": "/zh/",
+          "text": "FiddleBops"
+        },
+        {
+          "href": "/zh/",
+          "text": "首页"
+        },
+        {
+          "href": "/zh/update-games/",
+          "text": "新游戏"
+        },
+        {
+          "href": "/zh/search/",
+          "text": "搜索"
+        },
+        {
+          "href": "/zh/fiddlebops-mod/",
+          "text": "Fiddlebops 模组"
+        },
+        {
+          "href": "/zh/incredibox-mod/",
+          "text": "Incredibox 模组"
+        },
+        {
+          "href": "/zh/sprunki-mod/",
+          "text": "Sprunki 模组"
+        }
+      ],
+      "footerLinks": [
+        {
+          "href": "/zh/privacy/",
+          "text": "隐私政策"
+        },
+        {
+          "href": "/zh/terms-of-service/",
+          "text": "服务条款"
+        }
+      ],
+      "semantic": {
+        "hasMain": true,
+        "hasNav": true,
+        "hasHeader": true,
+        "hasFooter": true,
+        "hasAside": false,
+        "h1Count": 1
+      }
+    },
+    "/de/2020-connect/": {
+      "headings": [
+        {
+          "level": 1,
+          "text": "2020 Connect"
+        },
+        {
+          "level": 3,
+          "text": "► Beliebte Spiele"
+        },
+        {
+          "level": 3,
+          "text": "► Neue Spiele"
+        },
+        {
+          "level": 2,
+          "text": "Trending Spiele"
+        },
+        {
+          "level": 2,
+          "text": "Spielkategorien"
+        },
+        {
+          "level": 2,
+          "text": "Über 2020 Connect"
+        },
+        {
+          "level": 3,
+          "text": "Spielübersicht"
+        },
+        {
+          "level": 3,
+          "text": "Strategie & Tipps"
+        },
+        {
+          "level": 3,
+          "text": "Steuerung"
+        },
+        {
+          "level": 3,
+          "text": "Häufige Fragen (FAQ)"
+        }
+      ],
+      "mainOutline": [
+        {
+          "tag": "section",
+          "id": null,
+          "class": "hero",
+          "firstHeading": {
+            "level": 1,
+            "text": "2020 Connect"
+          }
+        },
+        {
+          "tag": "section",
+          "id": null,
+          "class": "games",
+          "firstHeading": {
+            "level": 2,
+            "text": "Trending Spiele"
+          }
+        },
+        {
+          "tag": "section",
+          "id": null,
+          "class": "games categories",
+          "firstHeading": {
+            "level": 2,
+            "text": "Spielkategorien"
+          }
+        },
+        {
+          "tag": "section",
+          "id": "about",
+          "class": "about",
+          "firstHeading": {
+            "level": 2,
+            "text": "Über 2020 Connect"
+          }
+        }
+      ],
+      "headerLinks": [
+        {
+          "href": "/de/",
+          "text": "FiddleBops"
+        },
+        {
+          "href": "/de/",
+          "text": "Startseite"
+        },
+        {
+          "href": "/de/update-games/",
+          "text": "Neue Spiele"
+        },
+        {
+          "href": "/de/search/",
+          "text": "Suche"
+        },
+        {
+          "href": "/de/fiddlebops-mod/",
+          "text": "Fiddlebops Mod"
+        },
+        {
+          "href": "/de/incredibox-mod/",
+          "text": "Incredibox Mod"
+        },
+        {
+          "href": "/de/sprunki-mod/",
+          "text": "Sprunki Mod"
+        }
+      ],
+      "footerLinks": [
+        {
+          "href": "/de/privacy/",
+          "text": "Datenschutzrichtlinie"
+        },
+        {
+          "href": "/de/terms-of-service/",
+          "text": "Nutzungsbedingungen"
+        }
+      ],
+      "semantic": {
+        "hasMain": true,
+        "hasNav": true,
+        "hasHeader": true,
+        "hasFooter": true,
+        "hasAside": false,
+        "h1Count": 1
+      }
+    },
+    "/es/2020-connect/": {
+      "headings": [
+        {
+          "level": 1,
+          "text": "2020 Connect juego de combinar números"
+        },
+        {
+          "level": 3,
+          "text": "► Juegos Populares"
+        },
+        {
+          "level": 3,
+          "text": "► Juegos Nuevos"
+        },
+        {
+          "level": 2,
+          "text": "Juegos en Tendencia"
+        },
+        {
+          "level": 2,
+          "text": "Categorías de Juegos"
+        },
+        {
+          "level": 2,
+          "text": "Acerca de 2020 Connect juego de combinar números"
+        },
+        {
+          "level": 3,
+          "text": "Introducción detallada"
+        },
+        {
+          "level": 3,
+          "text": "Estrategia de juego y recorrido"
+        },
+        {
+          "level": 3,
+          "text": "Guía de controles"
+        },
+        {
+          "level": 3,
+          "text": "Preguntas frecuentes (FAQ)"
+        }
+      ],
+      "mainOutline": [
+        {
+          "tag": "section",
+          "id": null,
+          "class": "hero",
+          "firstHeading": {
+            "level": 1,
+            "text": "2020 Connect juego de combinar números"
+          }
+        },
+        {
+          "tag": "section",
+          "id": null,
+          "class": "games",
+          "firstHeading": {
+            "level": 2,
+            "text": "Juegos en Tendencia"
+          }
+        },
+        {
+          "tag": "section",
+          "id": null,
+          "class": "games categories",
+          "firstHeading": {
+            "level": 2,
+            "text": "Categorías de Juegos"
+          }
+        },
+        {
+          "tag": "section",
+          "id": "about",
+          "class": "about",
+          "firstHeading": {
+            "level": 2,
+            "text": "Acerca de 2020 Connect juego de combinar números"
+          }
+        }
+      ],
+      "headerLinks": [
+        {
+          "href": "/es/",
+          "text": "FiddleBops"
+        },
+        {
+          "href": "/es/",
+          "text": "Inicio"
+        },
+        {
+          "href": "/es/update-games/",
+          "text": "Juegos Nuevos"
+        },
+        {
+          "href": "/es/search/",
+          "text": "Buscar"
+        },
+        {
+          "href": "/es/fiddlebops-mod/",
+          "text": "Mod Fiddlebops"
+        },
+        {
+          "href": "/es/incredibox-mod/",
+          "text": "Mod Incredibox"
+        },
+        {
+          "href": "/es/sprunki-mod/",
+          "text": "Mod Sprunki"
+        }
+      ],
+      "footerLinks": [
+        {
+          "href": "/es/privacy/",
+          "text": "Política de Privacidad"
+        },
+        {
+          "href": "/es/terms-of-service/",
+          "text": "Términos de servicio"
+        }
+      ],
+      "semantic": {
+        "hasMain": true,
+        "hasNav": true,
+        "hasHeader": true,
+        "hasFooter": true,
+        "hasAside": false,
+        "h1Count": 1
+      }
+    },
+    "/fr/2020-connect/": {
+      "headings": [
+        {
+          "level": 1,
+          "text": "2020 Connect"
+        },
+        {
+          "level": 3,
+          "text": "► Jeux Populaires"
+        },
+        {
+          "level": 3,
+          "text": "► Nouveaux Jeux"
+        },
+        {
+          "level": 2,
+          "text": "Jeux Tendance"
+        },
+        {
+          "level": 2,
+          "text": "Catégories de Jeux"
+        },
+        {
+          "level": 2,
+          "text": "À propos 2020 Connect"
+        },
+        {
+          "level": 3,
+          "text": "Présentation du jeu"
+        },
+        {
+          "level": 3,
+          "text": "Guide de jeu"
+        },
+        {
+          "level": 4,
+          "text": "Conseils de stratégie"
+        },
+        {
+          "level": 3,
+          "text": "Commandes"
+        },
+        {
+          "level": 3,
+          "text": "Foire aux questions (FAQ)"
+        }
+      ],
+      "mainOutline": [
+        {
+          "tag": "section",
+          "id": null,
+          "class": "hero",
+          "firstHeading": {
+            "level": 1,
+            "text": "2020 Connect"
+          }
+        },
+        {
+          "tag": "section",
+          "id": null,
+          "class": "games",
+          "firstHeading": {
+            "level": 2,
+            "text": "Jeux Tendance"
+          }
+        },
+        {
+          "tag": "section",
+          "id": null,
+          "class": "games categories",
+          "firstHeading": {
+            "level": 2,
+            "text": "Catégories de Jeux"
+          }
+        },
+        {
+          "tag": "section",
+          "id": "about",
+          "class": "about",
+          "firstHeading": {
+            "level": 2,
+            "text": "À propos 2020 Connect"
+          }
+        }
+      ],
+      "headerLinks": [
+        {
+          "href": "/fr/",
+          "text": "FiddleBops"
+        },
+        {
+          "href": "/fr/",
+          "text": "Accueil"
+        },
+        {
+          "href": "/fr/update-games/",
+          "text": "Nouveaux Jeux"
+        },
+        {
+          "href": "/fr/search/",
+          "text": "Rechercher"
+        },
+        {
+          "href": "/fr/fiddlebops-mod/",
+          "text": "Mod Fiddlebops"
+        },
+        {
+          "href": "/fr/incredibox-mod/",
+          "text": "Mod Incredibox"
+        },
+        {
+          "href": "/fr/sprunki-mod/",
+          "text": "Mod Sprunki"
+        }
+      ],
+      "footerLinks": [
+        {
+          "href": "/fr/privacy/",
+          "text": "Politique de Confidentialité"
+        },
+        {
+          "href": "/fr/terms-of-service/",
+          "text": "Conditions d'utilisation"
+        }
+      ],
+      "semantic": {
+        "hasMain": true,
+        "hasNav": true,
+        "hasHeader": true,
+        "hasFooter": true,
+        "hasAside": false,
+        "h1Count": 1
+      }
+    },
+    "/ja/2020-connect/": {
+      "headings": [
+        {
+          "level": 1,
+          "text": "2020 Connect 2020 コネクト"
+        },
+        {
+          "level": 3,
+          "text": "► 人気ゲーム"
+        },
+        {
+          "level": 3,
+          "text": "► 新しいゲーム"
+        },
+        {
+          "level": 2,
+          "text": "トレンドゲーム"
+        },
+        {
+          "level": 2,
+          "text": "ゲームカテゴリー"
+        },
+        {
+          "level": 2,
+          "text": "について 2020 Connect 2020 コネクト"
+        },
+        {
+          "level": 3,
+          "text": "ゲーム紹介"
+        },
+        {
+          "level": 3,
+          "text": "ゲーム攻略と戦略"
+        },
+        {
+          "level": 3,
+          "text": "操作ガイド"
+        },
+        {
+          "level": 3,
+          "text": "よくある質問 (FAQ)"
+        }
+      ],
+      "mainOutline": [
+        {
+          "tag": "section",
+          "id": null,
+          "class": "hero",
+          "firstHeading": {
+            "level": 1,
+            "text": "2020 Connect 2020 コネクト"
+          }
+        },
+        {
+          "tag": "section",
+          "id": null,
+          "class": "games",
+          "firstHeading": {
+            "level": 2,
+            "text": "トレンドゲーム"
+          }
+        },
+        {
+          "tag": "section",
+          "id": null,
+          "class": "games categories",
+          "firstHeading": {
+            "level": 2,
+            "text": "ゲームカテゴリー"
+          }
+        },
+        {
+          "tag": "section",
+          "id": "about",
+          "class": "about",
+          "firstHeading": {
+            "level": 2,
+            "text": "について 2020 Connect 2020 コネクト"
+          }
+        }
+      ],
+      "headerLinks": [
+        {
+          "href": "/ja/",
+          "text": "FiddleBops"
+        },
+        {
+          "href": "/ja/",
+          "text": "ホーム"
+        },
+        {
+          "href": "/ja/update-games/",
+          "text": "新しいゲーム"
+        },
+        {
+          "href": "/ja/search/",
+          "text": "検索"
+        },
+        {
+          "href": "/ja/fiddlebops-mod/",
+          "text": "Fiddlebops Mod"
+        },
+        {
+          "href": "/ja/incredibox-mod/",
+          "text": "Incredibox Mod"
+        },
+        {
+          "href": "/ja/sprunki-mod/",
+          "text": "Sprunki Mod"
+        }
+      ],
+      "footerLinks": [
+        {
+          "href": "/ja/privacy/",
+          "text": "プライバシーポリシー"
+        },
+        {
+          "href": "/ja/terms-of-service/",
+          "text": "利用規約"
+        }
+      ],
+      "semantic": {
+        "hasMain": true,
+        "hasNav": true,
+        "hasHeader": true,
+        "hasFooter": true,
+        "hasAside": false,
+        "h1Count": 1
+      }
+    },
+    "/ko/2020-connect/": {
+      "headings": [
+        {
+          "level": 1,
+          "text": "2020 Connect 2020 커넥트"
+        },
+        {
+          "level": 3,
+          "text": "► 인기 게임"
+        },
+        {
+          "level": 3,
+          "text": "► 새 게임"
+        },
+        {
+          "level": 2,
+          "text": "트렌딩 게임"
+        },
+        {
+          "level": 2,
+          "text": "게임 카테고리"
+        },
+        {
+          "level": 2,
+          "text": "정보 2020 Connect 2020 커넥트"
+        },
+        {
+          "level": 3,
+          "text": "상세 게임 소개"
+        },
+        {
+          "level": 3,
+          "text": "플레이 전략 & 공략 팁"
+        },
+        {
+          "level": 3,
+          "text": "조작 방법"
+        },
+        {
+          "level": 3,
+          "text": "자주 묻는 질문 (FAQ)"
+        }
+      ],
+      "mainOutline": [
+        {
+          "tag": "section",
+          "id": null,
+          "class": "hero",
+          "firstHeading": {
+            "level": 1,
+            "text": "2020 Connect 2020 커넥트"
+          }
+        },
+        {
+          "tag": "section",
+          "id": null,
+          "class": "games",
+          "firstHeading": {
+            "level": 2,
+            "text": "트렌딩 게임"
+          }
+        },
+        {
+          "tag": "section",
+          "id": null,
+          "class": "games categories",
+          "firstHeading": {
+            "level": 2,
+            "text": "게임 카테고리"
+          }
+        },
+        {
+          "tag": "section",
+          "id": "about",
+          "class": "about",
+          "firstHeading": {
+            "level": 2,
+            "text": "정보 2020 Connect 2020 커넥트"
+          }
+        }
+      ],
+      "headerLinks": [
+        {
+          "href": "/ko/",
+          "text": "FiddleBops"
+        },
+        {
+          "href": "/ko/",
+          "text": "홈"
+        },
+        {
+          "href": "/ko/update-games/",
+          "text": "새 게임"
+        },
+        {
+          "href": "/ko/search/",
+          "text": "검색"
+        },
+        {
+          "href": "/ko/fiddlebops-mod/",
+          "text": "Fiddlebops 모드"
+        },
+        {
+          "href": "/ko/incredibox-mod/",
+          "text": "Incredibox 모드"
+        },
+        {
+          "href": "/ko/sprunki-mod/",
+          "text": "Sprunki 모드"
+        }
+      ],
+      "footerLinks": [
+        {
+          "href": "/ko/privacy/",
+          "text": "개인정보 보호정책"
+        },
+        {
+          "href": "/ko/terms-of-service/",
+          "text": "서비스 약관"
+        }
+      ],
+      "semantic": {
+        "hasMain": true,
+        "hasNav": true,
+        "hasHeader": true,
+        "hasFooter": true,
+        "hasAside": false,
+        "h1Count": 1
+      }
+    },
+    "/zh/2048-fusion/": {
+      "headings": [
+        {
+          "level": 1,
+          "text": "2048 Fusion 2048融合"
+        },
+        {
+          "level": 3,
+          "text": "► 热门游戏"
+        },
+        {
+          "level": 3,
+          "text": "► 新游戏"
+        },
+        {
+          "level": 2,
+          "text": "流行游戏"
+        },
+        {
+          "level": 2,
+          "text": "游戏分类"
+        },
+        {
+          "level": 2,
+          "text": "关于 2048 Fusion 2048融合"
+        },
+        {
+          "level": 3,
+          "text": "详细游戏介绍"
+        },
+        {
+          "level": 3,
+          "text": "游戏策略与攻略"
+        },
+        {
+          "level": 3,
+          "text": "操作指南"
+        },
+        {
+          "level": 3,
+          "text": "常见问题解答（FAQ）"
+        }
+      ],
+      "mainOutline": [
+        {
+          "tag": "section",
+          "id": null,
+          "class": "hero",
+          "firstHeading": {
+            "level": 1,
+            "text": "2048 Fusion 2048融合"
+          }
+        },
+        {
+          "tag": "section",
+          "id": null,
+          "class": "games",
+          "firstHeading": {
+            "level": 2,
+            "text": "流行游戏"
+          }
+        },
+        {
+          "tag": "section",
+          "id": null,
+          "class": "games categories",
+          "firstHeading": {
+            "level": 2,
+            "text": "游戏分类"
+          }
+        },
+        {
+          "tag": "section",
+          "id": "about",
+          "class": "about",
+          "firstHeading": {
+            "level": 2,
+            "text": "关于 2048 Fusion 2048融合"
+          }
+        }
+      ],
+      "headerLinks": [
+        {
+          "href": "/zh/",
+          "text": "FiddleBops"
+        },
+        {
+          "href": "/zh/",
+          "text": "首页"
+        },
+        {
+          "href": "/zh/update-games/",
+          "text": "新游戏"
+        },
+        {
+          "href": "/zh/search/",
+          "text": "搜索"
+        },
+        {
+          "href": "/zh/fiddlebops-mod/",
+          "text": "Fiddlebops 模组"
+        },
+        {
+          "href": "/zh/incredibox-mod/",
+          "text": "Incredibox 模组"
+        },
+        {
+          "href": "/zh/sprunki-mod/",
+          "text": "Sprunki 模组"
+        }
+      ],
+      "footerLinks": [
+        {
+          "href": "/zh/privacy/",
+          "text": "隐私政策"
+        },
+        {
+          "href": "/zh/terms-of-service/",
+          "text": "服务条款"
+        }
+      ],
+      "semantic": {
+        "hasMain": true,
+        "hasNav": true,
+        "hasHeader": true,
+        "hasFooter": true,
+        "hasAside": false,
+        "h1Count": 1
+      }
+    },
+    "/de/2048-fusion/": {
+      "headings": [
+        {
+          "level": 1,
+          "text": "2048 Fusion"
+        },
+        {
+          "level": 3,
+          "text": "► Beliebte Spiele"
+        },
+        {
+          "level": 3,
+          "text": "► Neue Spiele"
+        },
+        {
+          "level": 2,
+          "text": "Trending Spiele"
+        },
+        {
+          "level": 2,
+          "text": "Spielkategorien"
+        },
+        {
+          "level": 2,
+          "text": "Über 2048 Fusion"
+        },
+        {
+          "level": 3,
+          "text": "Spielübersicht"
+        },
+        {
+          "level": 3,
+          "text": "Strategie & Tipps"
+        },
+        {
+          "level": 3,
+          "text": "Steuerung"
+        },
+        {
+          "level": 3,
+          "text": "Häufige Fragen (FAQ)"
+        }
+      ],
+      "mainOutline": [
+        {
+          "tag": "section",
+          "id": null,
+          "class": "hero",
+          "firstHeading": {
+            "level": 1,
+            "text": "2048 Fusion"
+          }
+        },
+        {
+          "tag": "section",
+          "id": null,
+          "class": "games",
+          "firstHeading": {
+            "level": 2,
+            "text": "Trending Spiele"
+          }
+        },
+        {
+          "tag": "section",
+          "id": null,
+          "class": "games categories",
+          "firstHeading": {
+            "level": 2,
+            "text": "Spielkategorien"
+          }
+        },
+        {
+          "tag": "section",
+          "id": "about",
+          "class": "about",
+          "firstHeading": {
+            "level": 2,
+            "text": "Über 2048 Fusion"
+          }
+        }
+      ],
+      "headerLinks": [
+        {
+          "href": "/de/",
+          "text": "FiddleBops"
+        },
+        {
+          "href": "/de/",
+          "text": "Startseite"
+        },
+        {
+          "href": "/de/update-games/",
+          "text": "Neue Spiele"
+        },
+        {
+          "href": "/de/search/",
+          "text": "Suche"
+        },
+        {
+          "href": "/de/fiddlebops-mod/",
+          "text": "Fiddlebops Mod"
+        },
+        {
+          "href": "/de/incredibox-mod/",
+          "text": "Incredibox Mod"
+        },
+        {
+          "href": "/de/sprunki-mod/",
+          "text": "Sprunki Mod"
+        }
+      ],
+      "footerLinks": [
+        {
+          "href": "/de/privacy/",
+          "text": "Datenschutzrichtlinie"
+        },
+        {
+          "href": "/de/terms-of-service/",
+          "text": "Nutzungsbedingungen"
+        }
+      ],
+      "semantic": {
+        "hasMain": true,
+        "hasNav": true,
+        "hasHeader": true,
+        "hasFooter": true,
+        "hasAside": false,
+        "h1Count": 1
+      }
+    },
+    "/es/2048-fusion/": {
+      "headings": [
+        {
+          "level": 1,
+          "text": "2048 Fusion puzle de fichas"
+        },
+        {
+          "level": 3,
+          "text": "► Juegos Populares"
+        },
+        {
+          "level": 3,
+          "text": "► Juegos Nuevos"
+        },
+        {
+          "level": 2,
+          "text": "Juegos en Tendencia"
+        },
+        {
+          "level": 2,
+          "text": "Categorías de Juegos"
+        },
+        {
+          "level": 2,
+          "text": "Acerca de 2048 Fusion puzle de fichas"
+        },
+        {
+          "level": 3,
+          "text": "Introducción detallada"
+        },
+        {
+          "level": 3,
+          "text": "Estrategia y recorrido de juego"
+        },
+        {
+          "level": 3,
+          "text": "Guía de controles"
+        },
+        {
+          "level": 3,
+          "text": "Preguntas frecuentes (FAQ)"
+        }
+      ],
+      "mainOutline": [
+        {
+          "tag": "section",
+          "id": null,
+          "class": "hero",
+          "firstHeading": {
+            "level": 1,
+            "text": "2048 Fusion puzle de fichas"
+          }
+        },
+        {
+          "tag": "section",
+          "id": null,
+          "class": "games",
+          "firstHeading": {
+            "level": 2,
+            "text": "Juegos en Tendencia"
+          }
+        },
+        {
+          "tag": "section",
+          "id": null,
+          "class": "games categories",
+          "firstHeading": {
+            "level": 2,
+            "text": "Categorías de Juegos"
+          }
+        },
+        {
+          "tag": "section",
+          "id": "about",
+          "class": "about",
+          "firstHeading": {
+            "level": 2,
+            "text": "Acerca de 2048 Fusion puzle de fichas"
+          }
+        }
+      ],
+      "headerLinks": [
+        {
+          "href": "/es/",
+          "text": "FiddleBops"
+        },
+        {
+          "href": "/es/",
+          "text": "Inicio"
+        },
+        {
+          "href": "/es/update-games/",
+          "text": "Juegos Nuevos"
+        },
+        {
+          "href": "/es/search/",
+          "text": "Buscar"
+        },
+        {
+          "href": "/es/fiddlebops-mod/",
+          "text": "Mod Fiddlebops"
+        },
+        {
+          "href": "/es/incredibox-mod/",
+          "text": "Mod Incredibox"
+        },
+        {
+          "href": "/es/sprunki-mod/",
+          "text": "Mod Sprunki"
+        }
+      ],
+      "footerLinks": [
+        {
+          "href": "/es/privacy/",
+          "text": "Política de Privacidad"
+        },
+        {
+          "href": "/es/terms-of-service/",
+          "text": "Términos de servicio"
+        }
+      ],
+      "semantic": {
+        "hasMain": true,
+        "hasNav": true,
+        "hasHeader": true,
+        "hasFooter": true,
+        "hasAside": false,
+        "h1Count": 1
+      }
+    },
+    "/fr/2048-fusion/": {
+      "headings": [
+        {
+          "level": 1,
+          "text": "2048 Fusion"
+        },
+        {
+          "level": 3,
+          "text": "► Jeux Populaires"
+        },
+        {
+          "level": 3,
+          "text": "► Nouveaux Jeux"
+        },
+        {
+          "level": 2,
+          "text": "Jeux Tendance"
+        },
+        {
+          "level": 2,
+          "text": "Catégories de Jeux"
+        },
+        {
+          "level": 2,
+          "text": "À propos 2048 Fusion"
+        },
+        {
+          "level": 3,
+          "text": "Présentation du jeu"
+        },
+        {
+          "level": 3,
+          "text": "Guide de jeu et stratégies"
+        },
+        {
+          "level": 4,
+          "text": "Conseils"
+        },
+        {
+          "level": 3,
+          "text": "Commandes"
+        },
+        {
+          "level": 3,
+          "text": "Foire aux questions (FAQ)"
+        }
+      ],
+      "mainOutline": [
+        {
+          "tag": "section",
+          "id": null,
+          "class": "hero",
+          "firstHeading": {
+            "level": 1,
+            "text": "2048 Fusion"
+          }
+        },
+        {
+          "tag": "section",
+          "id": null,
+          "class": "games",
+          "firstHeading": {
+            "level": 2,
+            "text": "Jeux Tendance"
+          }
+        },
+        {
+          "tag": "section",
+          "id": null,
+          "class": "games categories",
+          "firstHeading": {
+            "level": 2,
+            "text": "Catégories de Jeux"
+          }
+        },
+        {
+          "tag": "section",
+          "id": "about",
+          "class": "about",
+          "firstHeading": {
+            "level": 2,
+            "text": "À propos 2048 Fusion"
+          }
+        }
+      ],
+      "headerLinks": [
+        {
+          "href": "/fr/",
+          "text": "FiddleBops"
+        },
+        {
+          "href": "/fr/",
+          "text": "Accueil"
+        },
+        {
+          "href": "/fr/update-games/",
+          "text": "Nouveaux Jeux"
+        },
+        {
+          "href": "/fr/search/",
+          "text": "Rechercher"
+        },
+        {
+          "href": "/fr/fiddlebops-mod/",
+          "text": "Mod Fiddlebops"
+        },
+        {
+          "href": "/fr/incredibox-mod/",
+          "text": "Mod Incredibox"
+        },
+        {
+          "href": "/fr/sprunki-mod/",
+          "text": "Mod Sprunki"
+        }
+      ],
+      "footerLinks": [
+        {
+          "href": "/fr/privacy/",
+          "text": "Politique de Confidentialité"
+        },
+        {
+          "href": "/fr/terms-of-service/",
+          "text": "Conditions d'utilisation"
+        }
+      ],
+      "semantic": {
+        "hasMain": true,
+        "hasNav": true,
+        "hasHeader": true,
+        "hasFooter": true,
+        "hasAside": false,
+        "h1Count": 1
+      }
+    },
+    "/ja/2048-fusion/": {
+      "headings": [
+        {
+          "level": 1,
+          "text": "2048 Fusion 2048 フュージョン"
+        },
+        {
+          "level": 3,
+          "text": "► 人気ゲーム"
+        },
+        {
+          "level": 3,
+          "text": "► 新しいゲーム"
+        },
+        {
+          "level": 2,
+          "text": "トレンドゲーム"
+        },
+        {
+          "level": 2,
+          "text": "ゲームカテゴリー"
+        },
+        {
+          "level": 2,
+          "text": "について 2048 Fusion 2048 フュージョン"
+        },
+        {
+          "level": 3,
+          "text": "ゲーム紹介"
+        },
+        {
+          "level": 3,
+          "text": "ゲーム攻略と戦略"
+        },
+        {
+          "level": 3,
+          "text": "操作ガイド"
+        },
+        {
+          "level": 3,
+          "text": "よくある質問 (FAQ)"
+        }
+      ],
+      "mainOutline": [
+        {
+          "tag": "section",
+          "id": null,
+          "class": "hero",
+          "firstHeading": {
+            "level": 1,
+            "text": "2048 Fusion 2048 フュージョン"
+          }
+        },
+        {
+          "tag": "section",
+          "id": null,
+          "class": "games",
+          "firstHeading": {
+            "level": 2,
+            "text": "トレンドゲーム"
+          }
+        },
+        {
+          "tag": "section",
+          "id": null,
+          "class": "games categories",
+          "firstHeading": {
+            "level": 2,
+            "text": "ゲームカテゴリー"
+          }
+        },
+        {
+          "tag": "section",
+          "id": "about",
+          "class": "about",
+          "firstHeading": {
+            "level": 2,
+            "text": "について 2048 Fusion 2048 フュージョン"
+          }
+        }
+      ],
+      "headerLinks": [
+        {
+          "href": "/ja/",
+          "text": "FiddleBops"
+        },
+        {
+          "href": "/ja/",
+          "text": "ホーム"
+        },
+        {
+          "href": "/ja/update-games/",
+          "text": "新しいゲーム"
+        },
+        {
+          "href": "/ja/search/",
+          "text": "検索"
+        },
+        {
+          "href": "/ja/fiddlebops-mod/",
+          "text": "Fiddlebops Mod"
+        },
+        {
+          "href": "/ja/incredibox-mod/",
+          "text": "Incredibox Mod"
+        },
+        {
+          "href": "/ja/sprunki-mod/",
+          "text": "Sprunki Mod"
+        }
+      ],
+      "footerLinks": [
+        {
+          "href": "/ja/privacy/",
+          "text": "プライバシーポリシー"
+        },
+        {
+          "href": "/ja/terms-of-service/",
+          "text": "利用規約"
+        }
+      ],
+      "semantic": {
+        "hasMain": true,
+        "hasNav": true,
+        "hasHeader": true,
+        "hasFooter": true,
+        "hasAside": false,
+        "h1Count": 1
+      }
+    },
+    "/ko/2048-fusion/": {
+      "headings": [
+        {
+          "level": 1,
+          "text": "2048 Fusion 2048 퓨전"
+        },
+        {
+          "level": 3,
+          "text": "► 인기 게임"
+        },
+        {
+          "level": 3,
+          "text": "► 새 게임"
+        },
+        {
+          "level": 2,
+          "text": "트렌딩 게임"
+        },
+        {
+          "level": 2,
+          "text": "게임 카테고리"
+        },
+        {
+          "level": 2,
+          "text": "정보 2048 Fusion 2048 퓨전"
+        },
+        {
+          "level": 3,
+          "text": "상세 게임 소개"
+        },
+        {
+          "level": 3,
+          "text": "플레이 전략 & 공략 팁"
+        },
+        {
+          "level": 3,
+          "text": "조작 방법"
+        },
+        {
+          "level": 3,
+          "text": "자주 묻는 질문 (FAQ)"
+        }
+      ],
+      "mainOutline": [
+        {
+          "tag": "section",
+          "id": null,
+          "class": "hero",
+          "firstHeading": {
+            "level": 1,
+            "text": "2048 Fusion 2048 퓨전"
+          }
+        },
+        {
+          "tag": "section",
+          "id": null,
+          "class": "games",
+          "firstHeading": {
+            "level": 2,
+            "text": "트렌딩 게임"
+          }
+        },
+        {
+          "tag": "section",
+          "id": null,
+          "class": "games categories",
+          "firstHeading": {
+            "level": 2,
+            "text": "게임 카테고리"
+          }
+        },
+        {
+          "tag": "section",
+          "id": "about",
+          "class": "about",
+          "firstHeading": {
+            "level": 2,
+            "text": "정보 2048 Fusion 2048 퓨전"
+          }
+        }
+      ],
+      "headerLinks": [
+        {
+          "href": "/ko/",
+          "text": "FiddleBops"
+        },
+        {
+          "href": "/ko/",
+          "text": "홈"
+        },
+        {
+          "href": "/ko/update-games/",
+          "text": "새 게임"
+        },
+        {
+          "href": "/ko/search/",
+          "text": "검색"
+        },
+        {
+          "href": "/ko/fiddlebops-mod/",
+          "text": "Fiddlebops 모드"
+        },
+        {
+          "href": "/ko/incredibox-mod/",
+          "text": "Incredibox 모드"
+        },
+        {
+          "href": "/ko/sprunki-mod/",
+          "text": "Sprunki 모드"
+        }
+      ],
+      "footerLinks": [
+        {
+          "href": "/ko/privacy/",
+          "text": "개인정보 보호정책"
+        },
+        {
+          "href": "/ko/terms-of-service/",
+          "text": "서비스 약관"
+        }
+      ],
+      "semantic": {
+        "hasMain": true,
+        "hasNav": true,
+        "hasHeader": true,
+        "hasFooter": true,
+        "hasAside": false,
+        "h1Count": 1
+      }
+    }
+  }
+}

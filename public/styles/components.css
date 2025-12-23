@@ -1,129 +1,142 @@
-/* Shared styles for backup static pages */
-
-/* Audio controls */
-audio {
-  width: 210px;
-}
-
-@media (max-width: 980px) {
-  audio {
-    width: 120px;
-  }
-}
-
-/* Game iframe backgrounds */
-.game-card .game-iframe-sprunki {
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
-}
-
-@media (max-width: 980px) {
-  .game-card .game-iframe-sprunki {
-    width: 100%;
-    height: auto;
-  }
-}
 /**
- * Component Styles
- * Extracted from inline styles in Astro components and static game pages
+ * Component Styles — Game Page & Shared Components
  * 
- * Requirements: 3.2, 3.3, 7.1, 7.2
+ * Mobile-first styles for game pages and shared components.
+ * Focus: Play-focused hierarchy, aspect-ratio containers, accessibility.
  */
 
-/* Import CSS Variables */
+/* Import Design Tokens */
 @import url("/styles/variables.css");
 
-/* ==========================================================================
-   Game Iframe Container Styles
-   Used by: GameLayout.astro, static game pages
-   ========================================================================== */
-
-audio {
-  width: 210px;
-}
+/* ===========================================
+ * GAME IFRAME CONTAINER
+ * Play-focused visual hierarchy with aspect-ratio
+ * =========================================== */
 
 .game-card .game-iframe-sprunki {
-  float: left;
-  width: 69%;
-  margin: 0;
-  padding: 0;
-  height: 600px;
-  background-color: var(--color-bg-white, #fff);
-  background-image: var(--bg-image, none);
   position: relative;
+  width: 100%;
+  aspect-ratio: var(--aspect-ratio-video);
+  min-height: 240px;
+  max-height: 70vh;
+  border-radius: var(--radius-xl);
+  overflow: hidden;
+  background-color: var(--color-bg-gray);
+  background-image: var(--bg-image, none);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
-}
-
-.game .game-l-2 img {
-  width: 100% !important;
+  /* Remove legacy float-based layout */
+  float: none;
   height: auto;
-  margin: 0 auto;
+  margin: 0;
+  padding: 0;
 }
 
-/* ==========================================================================
-   Fullscreen Button Styles
-   Used by: GameLayout.astro, incredibox.astro
-   ========================================================================== */
+@media (min-width: 768px) {
+  .game-card .game-iframe-sprunki {
+    max-height: 600px;
+  }
+}
+
+.game-card .game-iframe-sprunki iframe {
+  display: none;
+  width: 100%;
+  height: 100%;
+  border: 0;
+  background-color: black;
+}
+
+.game-card .game-iframe-sprunki.is-playing iframe {
+  display: block;
+}
+
+.game-card .game-iframe-sprunki.is-playing {
+  background-image: none;
+}
+
+/* Play button - primary CTA */
+#playButton {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: var(--color-primary);
+  color: var(--color-text-white);
+  border: none;
+  padding: var(--spacing-4) var(--spacing-8);
+  font-size: var(--font-size-md);
+  font-weight: var(--font-weight-bold);
+  cursor: pointer;
+  z-index: var(--z-index-base);
+  border-radius: var(--radius-sm);
+  min-width: 180px;
+  min-height: 48px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  box-shadow: var(--shadow-md);
+  transition: background-color var(--transition-fast), transform var(--transition-fast), box-shadow var(--transition-fast);
+}
+
+#playButton:hover {
+  background-color: var(--color-primary-dark);
+  transform: translate(-50%, -50%) translateY(-2px);
+  box-shadow: var(--shadow-lg);
+}
+
+#playButton:focus-visible {
+  outline: 3px solid var(--color-focus-shadow);
+  outline-offset: 2px;
+}
+
+/* ===========================================
+ * FULLSCREEN BUTTON
+ * =========================================== */
 
 #fullscreen-btn {
   position: absolute;
-  top: var(--spacing-md, 10px);
-  right: var(--spacing-md, 10px);
-  z-index: var(--z-index-overlay, 10);
-  background-color: var(--color-overlay, rgba(0, 0, 0, 0.6));
-  color: var(--color-text-white, white);
+  top: var(--spacing-3);
+  right: var(--spacing-3);
+  z-index: var(--z-index-base);
+  background-color: var(--color-overlay-button);
+  color: var(--color-text-white);
   border: none;
-  border-radius: var(--radius-md, 5px);
+  border-radius: var(--radius-sm);
   cursor: pointer;
-  padding: var(--spacing-sm, 8px) var(--spacing-md, 12px);
-  font-size: 16px;
+  width: var(--touch-target-min);
+  height: var(--touch-target-min);
   display: none;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--font-size-base);
+  transition: background-color var(--transition-fast);
 }
 
 #fullscreen-btn:hover {
-  background-color: var(--color-overlay-dark, rgba(0, 0, 0, 0.8));
+  background-color: var(--color-overlay-dark);
 }
 
-/* ==========================================================================
-   Iframe Styles
-   ========================================================================== */
-
-iframe {
-  background-color: rgba(0, 0, 0, 0.3);
+#fullscreen-btn:focus-visible {
+  outline: 3px solid var(--color-focus-shadow);
+  outline-offset: 2px;
 }
 
-/* ==========================================================================
-   Responsive Styles for Game Iframe
-   ========================================================================== */
-
-@media screen and (max-width: 980px) {
-  .game-card .game-iframe-sprunki {
-    width: 100%;
-  }
+/* Show fullscreen button when playing */
+.game-iframe-sprunki.is-playing #fullscreen-btn {
+  display: flex;
 }
 
-@media screen and (max-width: 768px) {
-  audio {
-    width: 120px;
-  }
-
-  .game-card .game-iframe-sprunki {
-    height: 330px !important;
-  }
-}
-
-/* ==========================================================================
-   Star Rating Component Styles
-   Used by: StarRating.astro, static game pages
-   ========================================================================== */
+/* ===========================================
+ * STAR RATING COMPONENT
+ * =========================================== */
 
 .stars {
   display: inline-flex;
   align-items: center;
   gap: 2px;
+  margin-bottom: var(--spacing-3);
 }
 
 .star-icon {
@@ -135,23 +148,436 @@ iframe {
 }
 
 .star-icon--empty {
-  fill: #9e9e9e;
+  fill: var(--color-text-light);
 }
 
 .score-text {
-  margin-left: 4px;
+  margin-left: var(--spacing-2);
+  font-size: var(--font-size-sm);
+  color: var(--color-text-muted);
 }
 
-/* ==========================================================================
-   Breadcrumb Navigation Styles
-   Used by: static game pages
-   ========================================================================== */
+/* ===========================================
+ * BREADCRUMB NAVIGATION
+ * =========================================== */
 
-.about-content > p > a[href="/"] {
-  float: left;
+.breadcrumb {
+  font-size: var(--font-size-sm);
+  color: var(--color-text-muted);
+  margin-bottom: var(--spacing-2);
+  line-height: var(--line-height-base);
 }
 
-/* Configuration container used by GameLayout iframe loader */
+.breadcrumb a {
+  color: var(--color-link);
+  text-decoration: none;
+}
+
+.breadcrumb a:hover {
+  color: var(--color-link-hover);
+  text-decoration: underline;
+}
+
+.about-content > p > a[href="/"],
+.about-content > p > a[href^="/"] {
+  display: inline;
+}
+
+/* ===========================================
+ * GAME PAGE ABOUT SECTION
+ * =========================================== */
+
+.about {
+  padding: var(--spacing-6) 0;
+}
+
+.about h2 {
+  font-size: var(--font-size-xl);
+  margin-bottom: var(--spacing-4);
+  color: var(--color-text-primary);
+}
+
+@media (min-width: 768px) {
+  .about h2 {
+    font-size: var(--font-size-2xl);
+  }
+}
+
+.about-content {
+  background-color: var(--color-bg-card);
+  padding: var(--spacing-4);
+  border-radius: var(--radius-xl);
+  box-shadow: var(--shadow-sm);
+}
+
+@media (min-width: 768px) {
+  .about-content {
+    padding: var(--spacing-6);
+  }
+}
+
+/* Markdown content styling */
+.about-content h1,
+.about-content h2,
+.about-content h3,
+.about-content h4 {
+  margin-top: var(--spacing-5);
+  margin-bottom: var(--spacing-3);
+  color: var(--color-text-primary);
+}
+
+.about-content h1:first-child,
+.about-content h2:first-child,
+.about-content h3:first-child {
+  margin-top: 0;
+}
+
+.about-content p {
+  margin-bottom: var(--spacing-3);
+  line-height: var(--line-height-relaxed);
+  color: var(--color-text-muted);
+}
+
+.about-content ul,
+.about-content ol {
+  padding-left: var(--spacing-5);
+  margin-bottom: var(--spacing-3);
+}
+
+.about-content li {
+  margin-bottom: var(--spacing-2);
+  line-height: var(--line-height-base);
+  color: var(--color-text-muted);
+}
+
+.about-content a {
+  color: var(--color-link);
+}
+
+.about-content a:hover {
+  color: var(--color-link-hover);
+  text-decoration: underline;
+}
+
+.about-content hr {
+  border: 0;
+  border-top: 1px solid var(--color-border-light);
+  margin: var(--spacing-5) 0;
+}
+
+.about-content img {
+  max-width: 100%;
+  height: auto;
+  border-radius: var(--radius-md);
+  margin: var(--spacing-3) 0;
+}
+
+.about-content blockquote {
+  border-left: 4px solid var(--color-primary);
+  padding-left: var(--spacing-4);
+  margin: var(--spacing-4) 0;
+  font-style: italic;
+  color: var(--color-text-muted);
+}
+
+.about-content code {
+  background: var(--color-bg-gray);
+  padding: var(--spacing-1) var(--spacing-2);
+  border-radius: var(--radius-xs);
+  font-size: var(--font-size-sm);
+}
+
+.about-content pre {
+  background: var(--color-bg-gray);
+  padding: var(--spacing-4);
+  border-radius: var(--radius-md);
+  overflow-x: auto;
+  margin: var(--spacing-4) 0;
+}
+
+.about-content pre code {
+  background: none;
+  padding: 0;
+}
+
+/* ===========================================
+ * TRENDING GAMES (Game Page)
+ * Mobile: horizontal scroll; Desktop: grid
+ * =========================================== */
+
+.related-games,
+.trending-games {
+  padding: var(--spacing-6) 0;
+}
+
+.related-games h2,
+.trending-games h2 {
+  font-size: var(--font-size-xl);
+  margin-bottom: var(--spacing-4);
+  color: var(--color-text-primary);
+  text-align: center;
+}
+
+/* Mobile: horizontal scroll */
+.related-grid,
+.trending-grid {
+  display: flex;
+  gap: var(--spacing-3);
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  -webkit-overflow-scrolling: touch;
+  padding-bottom: var(--spacing-2);
+  margin: 0 calc(-1 * var(--container-padding-xs));
+  padding-left: var(--container-padding-xs);
+  padding-right: var(--container-padding-xs);
+}
+
+.related-grid::-webkit-scrollbar,
+.trending-grid::-webkit-scrollbar {
+  display: none;
+}
+
+.related-grid,
+.trending-grid {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.related-grid .game,
+.trending-grid .game {
+  flex: 0 0 160px;
+  scroll-snap-align: start;
+}
+
+/* Desktop: grid layout */
+@media (min-width: 768px) {
+  .related-grid,
+  .trending-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: var(--grid-gap-md);
+    overflow-x: visible;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .related-grid .game,
+  .trending-grid .game {
+    flex: none;
+  }
+}
+
+@media (min-width: 1024px) {
+  .related-grid,
+  .trending-grid {
+    grid-template-columns: repeat(5, 1fr);
+  }
+}
+
+@media (min-width: 1280px) {
+  .related-grid,
+  .trending-grid {
+    grid-template-columns: repeat(6, 1fr);
+  }
+}
+
+/* ===========================================
+ * GAME PAGE SIDEBAR PANELS (Desktop only)
+ * =========================================== */
+
+@media (max-width: 979px) {
+  .game-card .game-iframe-pop,
+  .game-card .game-iframe-new {
+    display: none;
+  }
+  
+  .game-card {
+    display: flex;
+    flex-direction: column;
+    gap: var(--spacing-4);
+  }
+}
+
+@media (min-width: 980px) {
+  .game-card {
+    display: grid;
+    grid-template-columns: minmax(100px, 13.5%) 1fr minmax(100px, 13.5%);
+    grid-template-rows: auto 1fr;
+    gap: var(--spacing-4);
+    align-items: start;
+  }
+  
+  .game-card .game-info {
+    grid-column: 1 / -1;
+  }
+  
+  .game-card .game-iframe-pop,
+  .game-card .game-iframe-new {
+    display: block;
+  }
+  
+  .game-card .game-iframe-pop ul,
+  .game-card .game-iframe-new ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: var(--spacing-2);
+  }
+  
+  .game-card .game-iframe-pop li,
+  .game-card .game-iframe-new li {
+    width: 100%;
+  }
+  
+  .game-card .game-iframe-pop li a,
+  .game-card .game-iframe-new li a {
+    display: block;
+    border-radius: var(--radius-md);
+    overflow: hidden;
+    background: var(--color-bg-gray);
+    transition: transform var(--transition-fast), box-shadow var(--transition-fast);
+  }
+  
+  .game-card .game-iframe-pop li a:hover,
+  .game-card .game-iframe-new li a:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-md);
+  }
+  
+  .game-card .game-iframe-pop img,
+  .game-card .game-iframe-new img {
+    width: 100%;
+    aspect-ratio: var(--aspect-ratio-thumbnail);
+    object-fit: cover;
+    display: block;
+  }
+  
+  .game-card .game-iframe-pop h3,
+  .game-card .game-iframe-new h3 {
+    font-size: var(--font-size-xs);
+    padding: var(--spacing-2);
+    margin: 0;
+    text-align: center;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    background: var(--color-bg-card);
+    color: var(--color-text-primary);
+  }
+  
+  .game-card .game-iframe-pop .title,
+  .game-card .game-iframe-new .title {
+    font-weight: var(--font-weight-bold);
+    font-size: var(--font-size-sm);
+    padding-bottom: var(--spacing-3);
+  }
+}
+
+/* ===========================================
+ * AUDIO CONTROLS
+ * =========================================== */
+
+audio {
+  width: 100%;
+  max-width: 200px;
+  margin-top: var(--spacing-2);
+}
+
+@media (max-width: 767px) {
+  audio {
+    max-width: 120px;
+  }
+}
+
+/* ===========================================
+ * GAME TAGS
+ * =========================================== */
+
+.game-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--spacing-2);
+  margin-bottom: var(--spacing-4);
+}
+
+.game-tag {
+  display: inline-flex;
+  align-items: center;
+  height: 28px;
+  padding: 0 var(--spacing-3);
+  background: var(--color-bg-gray);
+  border-radius: var(--radius-full);
+  font-size: var(--font-size-sm);
+  color: var(--color-text-muted);
+  text-decoration: none;
+  transition: background-color var(--transition-fast), color var(--transition-fast);
+}
+
+.game-tag:hover {
+  background: var(--color-primary);
+  color: var(--color-text-white);
+}
+
+/* ===========================================
+ * ACTION ROW (Share, etc.)
+ * Mobile: below game; Desktop: can float
+ * =========================================== */
+
+.action-row {
+  display: flex;
+  gap: var(--spacing-3);
+  margin-top: var(--spacing-4);
+  flex-wrap: wrap;
+}
+
+.action-row button,
+.action-row a {
+  min-height: var(--touch-target-min);
+  padding: var(--spacing-2) var(--spacing-4);
+  border-radius: var(--radius-sm);
+  font-size: var(--font-size-sm);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--spacing-2);
+}
+
+/* ===========================================
+ * CONFIGURATION CONTAINER (hidden)
+ * =========================================== */
+
 #game-config {
   display: none;
 }
+
+/* ===========================================
+ * COMPACT GAME CARDS
+ * =========================================== */
+
+.game--compact {
+  padding: 0;
+}
+
+.game--compact > a {
+  display: block;
+  width: 100%;
+}
+
+.game__title--ellipsis {
+  font-size: var(--font-size-sm);
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  padding: var(--spacing-2) var(--spacing-3);
+}
+
+.game--mod img {
+  border-radius: var(--radius-md) var(--radius-md) 0 0;
+}
+
+/* ===========================================
+ * RESPONSIVE ADJUSTMENTS
+ * =========================================== */
+
