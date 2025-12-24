@@ -17,7 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
 《Crazy Caves 疯狂矿洞》是一款节奏迅猛、充满压迫感的街机生存游戏。你控制一辆矿车在洞
 穴底部左右滑动，而头顶则不断有大大小小的岩石坠落。你的任务有两个：一是躲开坠落岩石
@@ -28,7 +28,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 命线与“采矿效率”之间取得平衡。过于贪心地攻击可能会把自己逼到死角，而过于保守又无法
 赚到足够的钱来升级，下次进入矿洞又会同样吃力。
 
-### Gameplay Strategy & Walkthrough
+### 玩法策略与通关思路
 
 1.  **生存永远优先：** 任何时候都要记住，被岩石砸中一次就直接结束本轮。保持矿车始终在
     移动状态，眼睛同时观察多块落石的轨迹，宁可少砸一块，也不要冒险停在危险区域。
@@ -40,29 +40,19 @@ releaseDate: 2025-10-17T00:00:00.000Z
     快打碎大岩石；随后再考虑提升收益倍率。输出越高，越容易在高压局面中清理出安全空
     间，也就能活得更久、赚得更多。
 
-### Controls Guide
+### 操作指南
 
 *   **移动矿车：** 使用鼠标或手指在屏幕底部左右拖动矿车，始终保持灵活走位。 
 *   **投掷镐子：** 点击鼠标左键或轻触屏幕任意位置，即可向上方投掷一把镐子，用来击碎落
     下的岩石。
 
-### Frequently Asked Questions (FAQ)
+### 常见问题（FAQ）
 
-*   **Q: 被岩石砸中会发生什么？**  
-    **A：** 游戏会立即结束，你需要重新开始新一轮。本作没有血量条，被击中一次就算失败
-    ，所以躲避永远是第一优先级。
+*   **问：被岩石砸中会发生什么？**
+    *   **答：** 游戏会立刻结束，你需要从头开始新一轮。本作没有血量条，被击中一次就算失败，所以躲避永远是第一优先级。
 
-    - **Q: 升级时应该先点什么？**  
-    **A：** 比较推荐先提升镐子的伤害，这样能更快击碎大型岩石，减少它们对你构成的持续
-    威胁。之后再考虑增强收益或其他辅助能力，把生存与经济形成正向循环。
+*   **问：升级时应该先点什么？**
+    *   **答：** 比较推荐先提升镐子的伤害，这样能更快击碎危险的大岩石，直接提高生存时间。之后再考虑提升收益或其他辅助能力，让升级进入正向循环。
 
-*   **Q: 遇到特别大的巨石该怎么应对？**  
-
-    - **A:** Large boulders require multiple hits to break. You need to quickly throw several pickaxes at them while continuously dodging other falling rocks. Try to start hitting them early before they get too close.
-
-- **Q: How do I deal with the really big boulders?**
-
-    - **A:** A good starting strategy is to upgrade your pickaxe damage. This helps you clear dangerous rocks more quickly, which directly contributes to longer survival times. After that, upgrading your earnings is also a great choice.
-    **A：** 巨石通常需要多次命中才能被打碎。你需要一边快速连发镐子，一边保持矿车移动
-    ，注意别为了一块巨石而忽视周围其他落石。尽量在巨石刚出现、高度还比较高时就开始
-    集中火力，不要等它靠得太近再处理。
+*   **问：遇到特别大的巨石该怎么应对？**
+    *   **答：** 巨石通常需要多次命中才能打碎。你需要一边快速连发镐子，一边持续走位躲避其他落石；尽量在巨石还比较高、距离你较远时就开始集火，不要等它贴脸再处理。

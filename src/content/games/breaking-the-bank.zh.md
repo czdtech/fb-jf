@@ -17,7 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 ### 游戏介绍
 
-*Breaking the Bank* 是著名火柴人互动剧“神偷亨利”（Henry Stickmin）系列的第一作。和传统意义上的“解谜游戏”不同，它更像是一部可以被你“打断和改写”的短片动画——在关键节点，你需要为亨利选择一件道具或一个行动方案，看看这一次他会以什么离谱的方式失败。
+*Breaking the Bank* 是著名火柴人互动剧“神偷亨利”系列的第一作。和传统意义上的“解谜游戏”不同，它更像是一部可以被你“打断和改写”的短片动画——在关键节点，你需要为亨利选择一件道具或一个行动方案，看看这一次他会以什么离谱的方式失败。
 
 故事从亨利站在沙漠中的一座银行旁边开始，他试图想出办法潜入金库：是要挖地道？用炸药？还是干脆钻进钱运车？每一种选择都会引发不同的搞笑动画，绝大多数结局都会以“失败”告终，而你则通过不断尝试，看看能否找到“最不那么失败”的路线。
 
@@ -56,12 +56,12 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 **3. 这真的是系列吗？**  
 > 是的，按时间顺序依次为：  
-> 1.  Breaking the Bank  
-> 2.  Escaping the Prison  
-> 3.  Stealing the Diamond  
-> 4.  Infiltrating the Airship  
-> 5.  Fleeing the Complex  
-> 这些作品后来被重制，并在 **The Henry Stickmin Collection** 中加入最终章 Completing the Mission。  
+> 1.  Breaking the Bank（突破银行）  
+> 2.  Escaping the Prison（逃出监狱）  
+> 3.  Stealing the Diamond（偷走钻石）  
+> 4.  Infiltrating the Airship（潜入飞艇）  
+> 5.  Fleeing the Complex（逃离设施）  
+> 这些作品后来被重制，并在 **The Henry Stickmin Collection（亨利·火柴人合集）** 中加入最终章 Completing the Mission（完成任务）。  
 
 **4. 只有一个选择算哪门子游戏？**  
 > 乐趣在于看遍所有搞笑失败。建议先把每个选项都点一遍，享受动画和彩蛋，再回头体验那个正确解。  

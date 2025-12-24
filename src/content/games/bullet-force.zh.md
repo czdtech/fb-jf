@@ -20,48 +20,48 @@ releaseDate: 2025-10-18T00:00:00.000Z
 游戏支持武器配件自定义（瞄具、握把、消音器等），并通过击杀与战局表现获得经验和货币，用来解锁更多装备与皮肤。在多人模式中，可以参与团队死斗、自由混战等模式，与世界各地玩家一较高下。
 
 
-- **Gun Game:** Players start with a basic pistol and are given a new weapon for every kill they get, progressing through a set list of firearms.
+- **军备竞赛：** 玩家从基础手枪开始，每击杀一次就会自动获得一把新武器，按预设武器列表依次推进。
 
-- **Conquest:** Teams fight to capture and hold specific points on the map to accumulate score.
+- **征服（Conquest）：** 双方队伍争夺并占领地图上的据点，通过控制据点累计分数。
 
-- **Free For All (FFA):** Every player for themselves. The player with the most kills at the end of the match wins.
+- **自由混战（FFA）：** 各自为战。对局结束时击杀数最多的玩家获胜。
 
-- **Team Deathmatch (TDM):** Two teams compete to achieve the highest number of kills before the time limit expires.
+- **团队死斗（TDM）：** 两支队伍在时间结束前比拼击杀数，击杀更多的一方获胜。
 
-**Key Game Modes:**
+**主要游戏模式：**
 
-- **Gun Game:** Players start with a basic pistol and are given a new weapon for every kill they get, progressing through a set list of firearms.
+- **军备竞赛：** 玩家从基础手枪开始，每击杀一次就会自动获得一把新武器，按预设武器列表依次推进。
 
-- **Conquest:** Teams fight to capture and hold specific points on the map to accumulate score.
+- **征服（Conquest）：** 双方队伍争夺并占领地图上的据点，通过控制据点累计分数。
 
-- **Free For All (FFA):** Every player for themselves. The player with the most kills at the end of the match wins.
+- **自由混战（FFA）：** 各自为战。对局结束时击杀数最多的玩家获胜。
 
-- **Team Deathmatch (TDM):** Two teams compete to achieve the highest number of kills before the time limit expires.
+- **团队死斗（TDM）：** 两支队伍在时间结束前比拼击杀数，击杀更多的一方获胜。
 ### 游戏模式与基础策略
 
-1.  **团队死斗（Team Deathmatch）**  
+1.  **团队死斗**  
     两支队伍在限定时间内争夺击杀数上限。核心策略是保持队形与视野互补，避免单独冲锋被集火。利用掩体与拐角，减少暴露时间。
 
-2.  **自由混战（Free‑for‑All）**  
+2.  **自由混战**  
     所有玩家各自为战，看到任何人都可以开火。建议选择自己熟悉的地图路线，尽量避免长时间停留在开阔区域，利用狭窄通道与高低差制造“先开枪优势”。
 
-3.  **离线模式（Offline with Bots）**  
+3.  **离线模式**  
 
-    - **Practice Offline:** The offline mode with bots is an excellent training ground. Use it to practice your aim, learn new maps, and test out different weapon builds without the pressure of a live multiplayer match.
+    - **离线练习：** 与机器人对战的离线模式是绝佳的训练场。用它来练准星、熟悉地图、测试不同的武器配装，不必承受真人对战的压力。
 
-    - **Use the Minimap:** The minimap is your best source of information. It shows the location of your teammates and reveals enemies who are firing without a suppressor or are spotted by a UAV killstreak.
+    - **善用小地图：** 小地图是你最重要的信息来源之一。它会显示队友位置，并在敌人未装消音器开火或被 UAV 连杀奖励侦测到时暴露其位置。
 
-- **Sniper Rifles:** High-risk, high-reward. Best for players who can hold down long sightlines and land precise shots.
+- **狙击枪：** 高风险高回报。适合能把控远距离视线并稳定命中关键位置的玩家。
 
-    - **SMGs (e.g., Vector, MP5):** Dominate in close-quarters due to their high rate of fire.
+    - **冲锋枪：** 射速高，近距离对枪优势明显。
 
-    - **Assault Rifles (e.g., AK, M4A1):** Versatile and effective at most ranges. A great all-around choice.
+    - **突击步枪：** 万金油选择，中近远距离都很能打。
 
-    - **Choose Your Loadout Wisely:** Don't stick to one weapon. Create different loadouts for different situations.
+    - **根据局势切换配装：** 不要一把枪打到底。针对不同地图与距离准备几套配装更稳。
 
-- **Hip-Fire:** In close-quarters combat, firing from the hip is often faster and more effective, especially with Submachine Guns (SMGs).
+- **腰射：** 近距离交火时，腰射往往更快更实用，尤其搭配冲锋枪时更明显。
 
-- **ADS:** Use ADS (right-click on PC) for medium to long-range encounters. It significantly increases your accuracy.
+- **开镜（ADS）：** 中远距离尽量开镜（PC 上鼠标右键）。开镜能显著提高命中率。
     支持与 AI 机器人对战，是练习枪感、地图路线和武器后坐力控制的好地方。可以先在离线模式熟悉操作后再进入多人对战。
 
 ### 实用战术建议
@@ -88,29 +88,29 @@ releaseDate: 2025-10-18T00:00:00.000Z
 -   **切换武器 / 投掷物：** 数字键或滚轮切换主武器、副武器、手雷等。  
 
 
-- **Show Scoreboard:** `Tab`
+- **查看记分板：** `Tab`
 
-- **Interact:** `E`
+- **交互：** `E`
 
-- **Switch Weapon:** `1`, `2`, `3` or Mouse Wheel
+- **切换武器：** `1`、`2`、`3` 或鼠标滚轮
 
-- **Reload:** `R`
+- **换弹：** `R`
 #### 常见问题解答（FAQ）
 
 
 
-- **Shoot, ADS, Reload, Jump, Crouch:** Dedicated on-screen buttons, which can often be customized in the settings.
+- **射击 / 开镜 / 换弹 / 跳跃 / 下蹲：** 屏幕上有对应的独立按键，通常还能在设置里自定义布局。
 
-- **Aim/Look:** Swipe on the right side of the screen.
+- **瞄准 / 视角：** 在屏幕右侧滑动来调整视角与瞄准。
 
-- **Movement:** Virtual joystick on the left side of the screen.
+- **移动：** 使用屏幕左侧的虚拟摇杆移动。
 ### 常见问题解答（FAQ）
 
-- **Shoot, ADS, Reload, Jump, Crouch:** Dedicated on-screen buttons, which can often be customized in the settings.
+- **射击 / 开镜 / 换弹 / 跳跃 / 下蹲：** 屏幕上有对应的独立按键，通常还能在设置里自定义布局。
 
-- **Aim/Look:** Swipe on the right side of the screen.
+- **瞄准 / 视角：** 在屏幕右侧滑动来调整视角与瞄准。
 
-- **Movement:** Virtual joystick on the left side of the screen.
+- **移动：** 使用屏幕左侧的虚拟摇杆移动。
 **1. 新手用什么武器比较稳？**  
 推荐从基础突击步枪开始，兼顾射程和稳定性。等适应后再尝试高后坐力的高伤害武器或狙击枪。
 
@@ -122,6 +122,6 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
-> Yes. You can create a custom match by going to the multiplayer menu and selecting "Create Room." You can set a password for the room and share the room name and password with your friends so they can join.
+> 可以。你可以在多人菜单中选择 “Create Room（创建房间）” 来开一局自定义对战。你还能为房间设置密码，然后把房间名和密码分享给朋友，他们就能加入。
 
-**4. Can I play with my friends?**
+**4. 我可以和朋友一起玩吗？**

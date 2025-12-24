@@ -17,18 +17,18 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
 《Daily Sudoku 每日数独》每天会为你生成一盘新的经典 9×9 数独谜题。数独是一种全球流行的
 逻辑数字填格游戏，目标是在 9×9 网格中填入数字 1–9，使得每一行、每一列以及组成大网格的
 九个 3×3 小宫中都恰好出现 1–9 各一次。整个过程完全依赖逻辑推理，不需要任何计算能力，只
 需要耐心和专注力。
 
-### Gameplay Strategy & Walkthrough
+### 玩法策略与通关思路
 
 1.  **基本规则：** 黄金法则只有一句：数字 1–9 在每一行、每一列以及每个 3×3 宫中各出现一
     次且仅一次。 
-2.  **扫描法（Cross‑hatching）：** 最基础的解法。挑选一个空格，观察其所在行、列与 3×3 宫
+2.  **扫描法：** 最基础的解法。挑选一个空格，观察其所在行、列与 3×3 宫
     已出现的数字，通过排除法锁定可行候选，很多时候可以直接得出唯一答案。 
 3.  **铅笔记号（Notes）：** 在难度较高的局面中基本必备。使用“笔记模式”在空格中写下所有
     可能数字，随着其他格子被确定，你可以逐步删去不可能的候选，最终只留下一个选项。 
@@ -37,7 +37,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 5.  **寻找 Hidden Singles：** 当某个数字在某行/某列/某 3×3 宫的所有候选中只出现一次时，即
     便该格还有其他候选，这个数字也只能放在那里，因此可以直接确定。 
 
-### Controls Guide
+### 操作指南
 
 *   **选择格子：** 点击 9×9 网格中的任意格子即可选中。 
 *   **输入数字：** 选中后通过屏幕数字键盘或键盘数字键输入。 
@@ -45,22 +45,13 @@ releaseDate: 2025-10-17T00:00:00.000Z
     显示。 
 *   **橡皮擦：** 使用擦除工具清除格子中的正式答案或笔记。 
 
-### Frequently Asked Questions (FAQ)
+### 常见问题（FAQ）
 
-*   **Q: 玩数独需要数学很好吗？**  
-    **A：** 完全不用。数独只是借用了数字作为符号，本质是纯逻辑推理游戏。换成 1–9 的图标
-    或颜色也能照样玩。 
+*   **问：玩数独需要数学很好吗？**
+    *   **答：** 完全不用。数独只是借用了数字作为符号，本质是纯逻辑推理游戏；换成 1–9 的图标或颜色也能照样玩。
 
-    - **Q: 填错数字会怎样？**  
-    **A：** 大多数数字版数独在你填入错误数字时会立刻以高亮或红色提示冲突位置，方便立即
-    修正。不同模式可能对错误次数有不同限制。 
+*   **问：填错数字会怎样？**
+    *   **答：** 大多数数字版数独会立刻以高亮或红色提示冲突位置，方便你立即修正。不同模式可能对错误次数有不同限制。
 
-*   **Q: 为什么要用“笔记”功能？**  
-
-    - **A:** For easy puzzles, you might not need it. But for medium to hard puzzles, it's almost impossible to keep all the possibilities in your head. Making notes is a fundamental technique for systematically solving complex Sudoku puzzles.
-
-- **Q: Why should I use the "Notes" feature?**
-
-    - **A:** Most digital versions, including this one, will immediately highlight the mistake by showing you the conflicting numbers in red, allowing you to correct it right away.
-    **A：** 对简单盘面你可以凭感觉直接填，但中高难度局面中，单靠脑内记忆所有候选数字几
-    乎不现实。善用笔记是系统性解决复杂数独的核心技巧之一。 
+*   **问：为什么要用“笔记”功能？**
+    *   **答：** 简单盘面你可以凭感觉直接填，但中高难度局面中几乎不可能把所有候选都记在脑中。善用笔记系统性记录与排除候选，是解复杂数独的核心技巧之一。

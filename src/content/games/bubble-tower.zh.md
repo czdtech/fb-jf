@@ -33,30 +33,18 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### 操作指南
 
--   **瞄准与发射：** 使用鼠标调整塔底发射器的方向，点击即可射出当前泡泡。  
-    - **反弹射击：** 通过瞄准侧墙来改变弹道，从而攻击到被遮挡的目标区域。  
-    - **暂停与重新开始：** 如界面提供相关按钮，可随时暂停或重开当前关卡。  
-
-
-- **Mouse:** Your cannon aims automatically based on your cursor's position. Click the left mouse button to shoot the bubble.
-
-    - **Aim and Shoot:**
+*   **旋转塔体：**
+    *   **鼠标：** 点击并拖拽背景/空白区域即可旋转塔体。
+    *   **键盘：** 使用键盘左右方向键旋转。
+*   **瞄准与发射：**
+    *   **鼠标：** 炮台会根据光标位置自动瞄准，点击鼠标左键即可发射泡泡。
 ### 常见问题解答（FAQ）
 
-- **问：如何算赢得一局？**
-  
-  > 把塔上的所有泡泡都清空即可过关。
+*   **问：如何获胜？**
+    *   **答：** 把塔上的所有泡泡都清空即可获胜。
 
-    - **问：如果泡泡太慢清掉会怎样？**
-  
-  > 塔会不断下移，只要有泡泡触碰到屏幕底部便立即失败。
+*   **问：如果我没及时清掉泡泡会怎样？**
+    *   **答：** 泡泡塔会缓慢下移；只要有泡泡越过屏幕底部的终点线，游戏就会结束。
 
-- **问：手里这颗泡泡找不到匹配怎么办？**
-  
-
-    - **A:** First, rotate the tower completely to make sure you haven't missed a potential match. If there are truly no matches, you will have to make a tactical shot, placing the bubble in a location where it will cause the least trouble or hopefully set up a future match.
-
-- **Q: I can't find a match for the bubble in my cannon. What should I do?**
-
-    - **A:** The tower of bubbles will slowly descend. If any bubble crosses the line at the bottom of the screen, the game is over.
-  > 先把塔完全转一圈，确认没有遗漏匹配点；若确实没有，就把泡泡放在不会妨碍后续的位置，为未来的匹配做铺垫。
+*   **问：发射器里的泡泡找不到匹配怎么办？**
+    *   **答：** 先把塔完整旋转一圈，确认没有遗漏的匹配点；如果确实没有，就把泡泡打到不碍事的位置，尽量为下一步创造匹配机会。

@@ -25,24 +25,24 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 - **全新塔：** 包括能在水域作战的 **Monkey Sub（猴子潜艇）**、空中单位 **Heli Pilot（直升机飞行员）**、工程系的 **Monkey Engineer**，以及独特的 **Bloonchipper** 等。  
 - **Special Agents（特勤单位）：** 使用游戏内货币 Monkey Money 购买，一次性放置极其强力的特殊单位或建筑，用于攻克难图或关键波次。  
-- **Z.O.M.G. 飞艇：** 黑绿相间的 **Z.O.M.G.（Zeppelin Of Mighty Gargantuaness）** 首次现身，是基础游戏中最坚硬的飞艇，破裂后会释放多艘 BFB。  
+- **Z.O.M.G. 飞艇：** 黑绿相间的 **Z.O.M.G.** 首次现身，是基础游戏中最坚硬的飞艇，破裂后会释放多艘 BFB。  
 - **Monkey Lab：** 全局升级系统，可以花费 Monkey Money 获得永久性的小幅增强，例如提升爆炸半径、攻击速度等。  
 - **内容极其丰富：** 包括数十张地图、规则各异的 Special Missions、每日挑战，以及完整的联机合作模式。  
-- **主动技能系统：** 许多 4 级升级会解锁主动技能（例如 Bomb Tower 的 MOAB Assassin 导弹、Heli Pilot 的 Downdraft 等），关键时刻可以一键扭转战局。  
+- **主动技能系统：** 许多 4 级升级会解锁主动技能，关键时刻可以一键扭转战局。  
 
 ### 游戏策略
 
--   **经济优先：Banana Farm 决定上限。** 在 BTD5 中，早期建立强大经济几乎是制胜前提。尽早铺设 Banana Farm 并优先冲 4/2 的 `Banana Research Facility`（配合 `More Bananas`），每回合都会产出现金箱，让你有足够资金买超级猴子、猴神神庙等昂贵单位。
+-   **经济优先：Banana Farm 决定上限。** 在 BTD5 中，早期建立强大经济几乎是制胜前提。尽早铺设 Banana Farm 并优先冲 4/2 的 `Banana Research Facility`，每回合都会产出现金箱，让你有足够资金买超级猴子、猴神神庙等昂贵单位。
 -   **前期防守组合：Dartling Gun / Ninja Monkey。** 一只 2/3 的 Dartling Gun 或 3/x 的 Ninja Monkey 足以应对前中期大部分波次，为你争取建农场的时间与金钱。
 -   **中期各类特殊气球的处理：**
-    -   **Camo：** 升到 2/2 的 Monkey Village (`Radar Scanner`) 是最通用的解法，可为范围内所有塔提供侦测；4/2 Ninja Monkey（`Bloonjitsu`）是顶级 Camo 打手。
-    -   **Lead：** 2/3 Bomb Tower（`Cluster Bombs`）或带 `Monkey Intelligence Bureau`（x/3）的 Monkey Village，都能赋予全队铅壳破防能力。
-    -   **Regrow：** 需要高 DPS 塔避免“再生农场”，如 2/3 Tack Shooter（`Blade Maelstrom`）或 4/x Cannon Ship（Monkey Buccaneer）。
--   **猴神神庙 Temple of the Monkey God 的建造：** Super Monkey 的 4/x 形态是终极后期塔。升级前先在其射程内摆满不同类别（Primary、Military、Magic 等）的高额塔并投入足够资金，升级时这些塔会被“献祭”，其价值会永久转化为神庙的额外火力。
+    -   **Camo：** 升到 2/2 的 Monkey Village  是最通用的解法，可为范围内所有塔提供侦测；4/2 Ninja Monkey（`Bloonjitsu`）是顶级 Camo 打手。
+    -   **Lead：** 2/3 Bomb Tower或带 `Monkey Intelligence Bureau`（x/3）的 Monkey Village，都能赋予全队铅壳破防能力。
+    -   **Regrow：** 需要高 DPS 塔避免“再生农场”，如 2/3 Tack Shooter或 4/x Cannon Ship。
+-   **猴神神庙 Temple of the Monkey God 的建造：** Super Monkey 的 4/x 形态是终极后期塔。升级前先在其射程内摆满不同类别的高额塔并投入足够资金，升级时这些塔会被“献祭”，其价值会永久转化为神庙的额外火力。
 -   **后期强力组合示例：**
-    -   **Technological Terror（Super Monkey x/4）：** 主动技能可在瞬间清空屏幕上大部分气球。
+    -   **Technological Terror：** 主动技能可在瞬间清空屏幕上大部分气球。
     -   **Supa-Vac（Bloonchipper 2/4）：** 顶级控场工具，主动技能甚至可以短暂吸入 ZOMG 级飞艇，为其他塔争取输出时间。
-    -   **Sabotage Supply Lines（Ninja Monkey x/4）：** 将全图气球整体减速一半，是极后期生存的关键辅助技能。
+    -   **Sabotage Supply Lines：** 将全图气球整体减速一半，是极后期生存的关键辅助技能。
 
 ### 操作指南
 
@@ -65,7 +65,7 @@ Temple 是 Super Monkey 的最终形态（4/x）。你需要先购入 3/x 的 Su
 在点击 Temple 升级前，将不同类型的塔放在 Sun God 的攻击范围内。这些塔会在升级时被移除，并按类别和总价计入神庙的强化上限。要达到最大加成，需要在至少三类塔上投入约 30,000 美金的总价值。
 
 **4. ZOMG 是什么？该怎么打？**  
-ZOMG 是基础游戏中最坚韧的飞艇，外壳血量极高，被击破后会释放多艘 BFB。要击败它，需要极高的集中火力：Temple、多个 Bomb Tower x/4（MOAB Assassin 技能）以及 Ninja Monkey 的 Sabotage Supply Lines 几乎是标准配置。
+ZOMG 是基础游戏中最坚韧的飞艇，外壳血量极高，被击破后会释放多艘 BFB。要击败它，需要极高的集中火力：Temple、多个 Bomb Tower x/4以及 Ninja Monkey 的 Sabotage Supply Lines 几乎是标准配置。
 
 **5. Special Agents 值得买吗？**  
 非常值得，尤其在高难度地图或新手阶段。比如 `Meerkat Spy` 可以提供早期 Camo 侦测，而 `Bloonsday Device` 则能在漏大量气球时救你一命。它们是帮助通关的强力辅助工具。  

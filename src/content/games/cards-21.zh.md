@@ -52,17 +52,25 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ### 操作指南
 
 -   **要牌（Hit）：** 点击 Hit 按钮获得一张新牌。  
-
-A: Commonly split Aces and 8s; avoid splitting 10s and 5s. Follow the table’s basic strategy if shown.
 -   **停牌（Stand）：** 点击 Stand 结束自己的回合。  
-
-A: They flex — automatically adjusted to avoid busting when possible.
 -   **下注 / 再来一局：** 视具体版本，可以在每局开始前调整筹码，或在结算后点击“Play Again”开始新一局。  
-
-
-A: With perfect play you reduce house edge, but it remains positive over time.
 ### 常见问题解答（FAQ）
-*   **问：爆牌后还能继续当前局吗？****
-    *   答：** 不行。一旦总点数超过 21，本局立即判负，需要开始新一局。
-*   **问：和庄家点数相同会怎样？****
-    *   答：** 视规则而定，多数情况下被视为“平局”（Push），你的赌注原数退回，不输不赢。
+- 问：什么时候应该拆牌（Split）？
+  
+  答：常见经验是拆 A 和 8；尽量避免拆 10 和 5。若游戏内提供基础策略提示，优先按提示执行会更稳。
+
+- 问：A 算 1 还是 11？
+  
+  答：A 通常会在 1 与 11 之间自动切换，优先选择对你更有利、且不让你爆牌的点数。
+
+- 问：长期能“稳赢”吗？
+  
+  答：即使你按最优策略出牌，也只能尽量降低庄家优势，长期来看庄家优势通常仍然存在。
+
+- 问：爆牌后还能继续当前局吗？
+  
+  答：不行。一旦总点数超过 21，本局立即判负，需要开始新一局。
+
+- 问：和庄家点数相同会怎样？
+  
+  答：视规则而定，多数情况下被视为“平局”（Push），你的赌注原数退回，不输不赢。

@@ -27,17 +27,17 @@ releaseDate: 2025-10-18T00:00:00.000Z
 具体实施中，某些版本可能对强制吃子等细节有所差异，以游戏内说明为准。
 
 
-- A **King** can move diagonally both forwards and backwards, and can capture in both directions.
+- **王棋：** 可以沿对角线前后移动，也能前后两个方向进行吃子。
 
-- When a standard piece reaches the farthest row from its starting position (the opponent's back row), it is "crowned" and becomes a **King**.
+- **升王：** 普通棋子到达离起始位置最远的一行（对手底线）后，会“加冕”成为王棋。
 
-- If a capture is available, it is **mandatory** to make that capture. If multiple captures are possible in a single turn (a chain jump), the player must complete the entire chain.
+- **强制吃子与连吃：** 若存在吃子路线，通常必须吃子；若同一回合存在多段吃子（连跳/连吃），一般需要把整条连吃走完。
 
-- A piece captures an opponent's piece by jumping over it diagonally to an empty square immediately beyond it.
+- **吃子方式：** 棋子沿对角线跳过相邻的对手棋子，落在其后紧挨着的空格上，即完成吃子。
 
-- Standard pieces (men) can only move one square diagonally forward.
+- **普通棋子移动：** 每次只能沿对角线向前走一格。
 
-- Pieces are always placed and moved on the dark squares only.
+- **只走深色格：** 棋子只会摆放和移动在深色格上。
 ### 基本策略与对局思路
 
 1.  **占据中线与前场，避免只龟缩后方**  
@@ -54,32 +54,32 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 5.  **残局中合理利用王棋牵制对方**  
 
-- **The Power of Kings:** Getting the first King can be a game-changing advantage. A King is the most powerful piece on the board. Use it to hunt down your opponent's remaining pieces and control large areas of the board.
+- **王棋的价值：** 先拿到第一枚王棋往往能显著拉开优势。王棋是棋盘上最强的棋子之一，既能追击残子，也能控制更大范围的格子与线路。
     王棋可前后移动，常用于封锁对方兵线或追击残子。注意不要贪吃导致王棋冲得太深，被对手布局包围。
 
 ### 操作指南
 
 
-In a digital version of Checkers, the controls are typically very simple point-and-click or tap-and-drag.
+在数字版跳棋中，操作一般非常直观：点击选择，或轻触拖拽即可完成移动。
 -   **选择棋子：** 点击己方棋子即可选中；  
 -   **移动 / 吃子：** 再点击目标格子，若为合法步或吃子路径，系统会自动完成移动或跳吃；若存在连吃，通常会提示继续。  
 
 
-- **Jumping/Capturing:** If a capture is possible, the game will usually force you to select that piece. Click the piece and then the destination square to complete the jump. For multiple jumps, you simply continue clicking the next destination squares in the chain.
+- **跳吃 / 吃子：** 当存在吃子路线时，游戏通常会强制你选择可吃子的棋子。点击该棋子，再点击落点格子即可完成跳吃；若需要连跳，只要继续按顺序点击下一步的落点即可。
 ### 常见问题解答（FAQ）
 
-**问：是不是只要能吃就必须吃？****
-答：** 多数规则采用“强制吃子”，即存在吃子路线时必须选择吃子而不能走普通步。但也有变体允许自由选择，具体以游戏模式说明为准。
+**问：是不是只要能吃就必须吃？**  
+**答：** 多数规则采用“强制吃子”，即存在吃子路线时必须选择吃子而不能走普通步。但也有变体允许自由选择，具体以游戏模式说明为准。
 
-**问：普通棋子能后退吗？****
-答：** 一般情况下普通棋子不能后退，只能前进到对方方向；只有升王后才具备前后移动和吃子的能力。
+**问：普通棋子能后退吗？**  
+**答：** 一般情况下普通棋子不能后退，只能朝对手方向前进；只有升为王棋后才具备前后移动和吃子的能力。
 
 
 
-> A piece becomes a King when it reaches the last row on the opponent's side of the board (the row where their pieces started). In a physical game, this is usually marked by placing a second checker of the same color on top of it.
+> 当棋子到达对手一侧的最后一行（也就是对手棋子起始所在的那一行）时，就会升为王棋。在实体棋里，通常会把同色的第二枚棋子叠在上面来标记。
 
-**4. How does a piece become a King?**
+**4. 棋子怎样才能升王？**
 
-> No, standard pieces can only move diagonally *forward* towards the opponent's side of the board. Only a King can move both forwards and backwards.
+> 不能。普通棋子只能沿对角线向前移动（朝向对手一侧）。只有升为王棋后，才可以前后两个方向移动与吃子。
 
-**3. Can a regular piece (a "man") move backwards?**
+**3. 普通棋子（兵）能后退吗？**

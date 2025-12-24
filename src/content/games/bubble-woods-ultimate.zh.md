@@ -37,9 +37,9 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
     - **在时间进入红区前优先降低整体高度**  
 
-    - **Hourglass:** The most valuable one—hitting it adds a few precious seconds to your timer.
+    - **沙漏泡泡：** 最值得优先命中的特殊泡泡——击中它会为倒计时增加几秒宝贵时间。
 
-    - **Bomb Bubble:** Explodes on impact, clearing a small cluster.
+    - **炸弹泡泡：** 命中即爆炸，清除周围一小片泡泡。
     当倒计时接近结束、泡泡整体高度偏低时，可以适当抛弃复杂连锁规划，改为快速清理靠近底部的区域，以免因为一两排泡泡突然下压而直接游戏结束。
 
 ### 操作指南
@@ -51,17 +51,17 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ### 常见问题解答（FAQ）
 
 
-- **A:** That is your Fireball meter. It fills up with each successful shot. When you make 10 consecutive hits, it will be full, and your next shot will be a powerful Fireball.
+- **答：** 那是你的“火球”能量条。每次成功命中都会充能；当你连续命中 10 次后能量条会充满，下一发将变成威力更大的火球。
 
-    - **Q: What is the bar at the bottom next to the cannon?**
+    - **问：炮台旁边底部那条进度条是什么？**
 
-- **A:** The only way to get more time is by hitting the special Hourglass bubbles that appear on the board.
+- **答：** 增加时间的主要方式是击中棋盘上出现的特殊“沙漏泡泡”。
 
-    - **Q: How do I get more time?**
+    - **问：怎么获得更多时间？**
 
-- **A:** To score as many points as you can within the 60-second time limit.
+- **答：** 在 60 秒的时间限制内尽可能多拿分。
 
-    - **Q: What is the main objective?**
+    - **问：主要目标是什么？**
 **1. 这是关卡制还是纯高分模式？**  
 通常以限时高分模式为主，会在一定时间内统计你消除的泡泡数量与得分，并在结束后记录成绩。部分版本也会提供关卡解锁与目标任务。
 
@@ -70,4 +70,3 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 **3. 要优先抓连击还是优先追求大坠落？**  
 二者并不冲突：理想情况下，通过快速制造大坠落来保持高连击与高倍率。如果必须二选一，在时间紧张时建议先保证连击不断，其次再追求极致大坠落。  
-

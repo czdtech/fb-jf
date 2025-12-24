@@ -26,14 +26,14 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - **Heroes（英雄）：** 每局选择一名英雄放到场上，英雄会随回合自动升级，不消耗游戏金钱，并解锁越来越强的主动技能与被动效果，不同英雄打法差异巨大。  
 - **三路线与 Tier 5 升级：** 每种猴子都有三条升级路线和强力的 Tier 5 终极升级，组合数量极其可观。  
 - **Monkey Knowledge（猴子知识）：** 通过升级账号等级获得点数，点在全局天赋树上，为各种猴子提供小幅但永久的强化。  
-- **新 Bloon 类型：** 引入对能量 / 火焰 / 等离子攻击免疫的 **Purple Bloon（紫气球）**，以及释放 ZOMG 与 DDT 的终极飞艇 **B.A.D.（Big Airship of Doom）** 等。  
+- **新 Bloon 类型：** 引入对能量 / 火焰 / 等离子攻击免疫的 **Purple Bloon（紫气球）**，以及释放 ZOMG 与 DDT 的终极飞艇 **B.A.D.** 等。  
 - **视线阻挡：** 3D 地形会阻挡部分塔的视线，摆位不再只是“覆盖路径”，还要考虑是否被树木、建筑等遮挡。  
 - **Paragon（至尊猴）：** 某一猴子系的三条路线都升到 Tier 5 后，可以献祭合成为一个极其强大的 Paragon 形态，用于超高回合或 Boss 玩法。  
 
 ### 游戏策略
 
 - **塔之间的“协同”是核心**  
-  BTD6 的强度更多来自组合而非单塔。经典搭配之一是：高伤害塔（如 2/0/3 Super Monkey）配一只 4/2/0 **Alchemist（炼金猴，Stronger Stimulant）**，通过药瓶极大提升攻速与攻击力。
+  BTD6 的强度更多来自组合而非单塔。经典搭配之一是：高伤害塔配一只 4/2/0 **Alchemist**，通过药瓶极大提升攻速与攻击力。
 
 - **选好适合地图与玩法的英雄：**
     - **Sauda：** 近战英雄，非常适合单一瓶颈点或多转弯的近战地图，前期清怪能力极强。  
@@ -41,10 +41,10 @@ releaseDate: 2025-08-16T00:00:00.000Z
     - **Geraldo：** “杂货铺”式英雄，可以根据局势购买各种小道具，适应性极强。  
 
 - **针对不同威胁建立对应防线：**
-    - **Camo 气球：** 最万能的解法是 x/2/x 的 **Monkey Village**（Radar Scanner），为范围内所有塔提供 Camo 侦测。  
+    - **Camo 气球：** 最万能的解法是 x/2/x 的 **Monkey Village**，为范围内所有塔提供 Camo 侦测。  
     - **Lead 气球：** 很多塔都可处理铅气球，但一只合适位置的 Alchemist 往往可以让周围锐器塔也获得破铅能力。  
-    - **Purple 气球：** 对能量、火焰、等离子和多种魔法伤害免疫，不能只依赖 Wizard Monkey 或等离子路线 Super Monkey，需要配合实弹型输出（如 Crossbow Master 等）。  
-    - **DDT 飞艇：** 集 Camo / Lead / Black 特性于一身，且移动飞快，是对防线的终极考验。推荐使用 2/5/0 Wizard Monkey（Prince of Darkness）、0/2/5 Ice Monkey（Icicle Impale），或搭配 x/3/x Monkey Village（Monkey Intelligence Bureau）让特定高伤害塔同时具备全类型破防能力。  
+    - **Purple 气球：** 对能量、火焰、等离子和多种魔法伤害免疫，不能只依赖 Wizard Monkey 或等离子路线 Super Monkey，需要配合实弹型输出。  
+    - **DDT 飞艇：** 集 Camo / Lead / Black 特性于一身，且移动飞快，是对防线的终极考验。推荐使用 2/5/0 Wizard Monkey、0/2/5 Ice Monkey，或搭配 x/3/x Monkey Village让特定高伤害塔同时具备全类型破防能力。  
 
 - **经济仍然非常重要：Banana Farm 不可忽视**  
   Banana Farm 仍然是最核心的收入来源之一。2/3/0 路线的 `Marketplace` 适合“免拾取”懒人玩法，而 4/2/0 的 `Central Market` 则在中后期收益效率很高，可配合更多农场组成资金引擎。
@@ -59,7 +59,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 -   **布置 / 升级：** 从侧边面板选择塔放在地图上，点击塔即可打开三路线升级菜单。  
 -   **英雄技能：** 英雄头像附近会显示可用技能按钮，冷却结束后点击即可释放。  
 -   **普通塔主动技能：** 塔的主动技能会集中显示在屏幕左下角，方便统一释放。  
--   **PC 热键：** 各塔与升级路径都可绑定快捷键（如 Q 选 Dart Monkey，数字 1/2/3 对应不同路径），熟练运用可以极大提高操作效率。  
+-   **PC 热键：** 各塔与升级路径都可绑定快捷键，熟练运用可以极大提高操作效率。  
 
 ### 常见问题解答（FAQ）
 
@@ -67,7 +67,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 普遍认为 **Sauda** 对新手最友好：价格适中，前 20–30 回合可以几乎凭一己之力守住，让你有更多精力专注经济与布局。
 
 **2. 为什么 DDT 总是轻松冲破我的防线？**  
-DDT 兼具 Camo、Lead 与 Black 特性，需要多重能力叠加才能稳定应对。一座带 Monkey Intelligence Bureau 的 Monkey Village 搭配高伤害塔（例如 2/0/5 Tack Shooter 或 0/2/5 Perma-Spike）通常是比较稳妥的方案。
+DDT 兼具 Camo、Lead 与 Black 特性，需要多重能力叠加才能稳定应对。一座带 Monkey Intelligence Bureau 的 Monkey Village 搭配高伤害塔通常是比较稳妥的方案。
 
 **3. Purple 气球为什么完全不掉血？**  
 Purple 气球对能量、等离子、火焰和绝大部分魔法攻击免疫，包括 Wizard Monkey 的多数路线和部分 Super Monkey 升级。使用 Dart Monkey 的 Crossbow Master（0/2/5）、Juggernaut（5/x/x）等实弹路线，是更可靠的处理方式。

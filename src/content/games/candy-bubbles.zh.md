@@ -43,24 +43,23 @@ releaseDate: 2025-10-17T00:00:00.000Z
 *   **发射：** 点击鼠标左键将当前糖果泡泡射出。  
 
 
-- **Swap (if available):** Some versions may have a button to swap your current bubble with the next one in the queue.
+- **交换（如有）：** 部分版本提供“交换”按钮，可将当前泡泡与队列中的下一颗互换。
 ### 常见问题解答（FAQ）
 
 
-- **A:** Try to shoot it into a spot where it will be out of the way, or where it might be useful later. If the swap feature is available, check if your next bubble is a better option.
+- **答：** 尽量把它打到不碍事的位置，或者先把它当作铺路点。若支持“交换”功能，先看看把下一颗换上来是否更合适。
 
-    - **Q: I have a bubble color I can't use. What should I do?**
+    - **问：我抽到一种当前用不了的颜色，该怎么办？**
 
-- **A:** By causing large clusters of bubbles to fall. Popping just three bubbles gives you a base score, but dropping a dozen bubbles in one shot will give you a huge combo bonus.
+- **答：** 通过让大团泡泡坠落来拿高分。消掉三颗只是基础分，但如果一发打掉一大片、让十几颗泡泡一起掉落，连击奖励会非常可观。
 
-    - **Q: How do I get the highest score?**
+    - **问：怎样才能拿到最高分？**
 
-- **A:** The primary goal is usually to clear all the bubbles from the screen. Some levels may have special objectives, like freeing items trapped inside bubbles.
+- **答：** 一般目标是清空屏幕上的所有泡泡。有些关卡还会有特殊目标，例如解救被泡泡包住的物品。
 
-    - **Q: What is the goal of each level?**
-**问：游戏的最终目标是什么？****
-答：** 一般是在不让糖果泡泡压到底线之前，完成关卡指定目标（清空棋盘、解救糖果、达成分数等）。
+    - **问：每一关的目标是什么？**
+**问：游戏的最终目标是什么？**  
+**答：** 一般是在不让糖果泡泡压到底线之前，完成关卡指定目标（清空棋盘、解救糖果、达成分数等）。
 
-**问：怎么才能拿到更高分？****
-答：** 多制造一次性大范围坠落的连锁消除，尽量减少无效射击，并在关键关卡中合理搭配使用道具，可以大幅提高单关得分。
-
+**问：怎么才能拿到更高分？**  
+**答：** 多制造一次性大范围坠落的连锁消除，尽量减少无效射击，并在关键关卡中合理搭配使用道具，可以大幅提高单关得分。

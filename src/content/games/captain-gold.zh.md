@@ -42,13 +42,14 @@ releaseDate: 2025-10-18T00:00:00.000Z
 -   **使用道具：** 若界面有炸药 / 加速等道具按钮，在钩爪拉回过程中点击即可生效（例如炸掉已抓住的石块）。  
 
 ### 常见问题解答（FAQ）
-*   **问：总是误抓到石块怎么办？****
+- 问：我总是差一点达不到目标金额，怎么办？
+  
+  答：优先抓最大的金块/宝袋，尽量忽略石头等低价值目标；如果关卡间有商店升级，前期优先提升“拉回速度/收卷速度”等关键能力。
 
-A: Target the largest visible nuggets first and ignore rocks. Invest in reel speed upgrades early.
-- 答：** 可以略微晚一点出手，确保钩爪指向的是更深处的金块或宝石。实在抓到石块时，如果关卡允许，可以用炸药之类的道具中断抓取。
+- 问：炸药值得买吗/用吗？
+  
+  答：值得，尤其是石头很多的关卡。误抓到低价值但很耗时的物品时，用炸药丢掉能显著节省时间。
 
-A: Yes when layouts are rock‑heavy — it saves time otherwise lost on low‑value pulls.
-*   **问：时间总是不够用？****
-
-A: Learn the swing rhythm; release a fraction early to account for motion.
-    *   答：** 尽量避免把时间浪费在低价值目标上，多练习瞄准和节奏，把有限的抓取次数集中在大金块和高分物品上；有加时间道具时要优先考虑获取。
+- 问：能不能更精准地控制钩爪角度？
+  
+  答：关键是熟悉摆动节奏。由于摆动惯性，通常要比“正对目标”的时刻稍微早一点出手，命中率会更高。

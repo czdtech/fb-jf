@@ -44,11 +44,9 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### 常见问题解答（FAQ）
 
-- Hints? Many versions include hints; use sparingly.
-
-- Timers? Some stages use move limits, not strict timers.
-
-- Stuck with one tile off? Backtrack earlier; try anchoring start and end first.
+- **有提示吗？** 许多版本会提供提示功能，建议在卡住时再用，避免降低解谜乐趣。  
+- **有计时吗？** 有些关卡更偏“步数限制”，而不是严格计时。  
+- **总差一块怎么都对不上？** 先回退几步重新规划，优先把起点与终点附近的关键地砖固定住，再补中间路径。  
 **1. 为什么明明看起来连通，小兔却走不过去？**  
 常见原因是某些转角瓷砖方向不对，视觉上像是连着，实际在逻辑上并未连接；注意仔细确认所有相邻格子的道路方向是否真正对上。
 **2. 步数不够怎么办？**  

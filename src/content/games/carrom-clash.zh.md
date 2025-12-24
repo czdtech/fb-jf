@@ -61,15 +61,10 @@ releaseDate: 2025-10-17T00:00:00.000Z
     - **瞄准与发射：** 按住 Striker 向后拉出瞄准线，调整方向与力度后松开，Striker 即被弹出。  
 
 
-    - **A:** You lose your turn. You only get to shoot again if you pocket one of your own pieces.
-
-- **Q: What if I pocket my opponent's piece?**
-
-    - **A:** This is a foul. You will have to place one of your pocketed pieces back onto the board as a penalty, and your turn ends.
-
-- **Q: What happens if I pocket the striker?**
 ### 常见问题解答（FAQ）
-*   **问：什么叫“盖住 Queen（Cover the Queen）”？****
-    *   答：** 即在合法击入红棋 Queen 之后，必须在同一回合的下一杆再打入一枚己方棋子，Queen 才会记入你的得分；若失败，Queen 会被放回棋盘中心。
-*   **问：如果不小心把 Striker 打进袋里会怎样？****
-    *   答：** 属于犯规行为，一般会被罚将一枚已入袋的己方棋子摆回中心，并且你的回合立即结束。
+*   **问：什么叫“盖住 Queen”？**  
+    *   **答：** 即在合法击入红棋 Queen 之后，必须在同一回合的下一杆再打入一枚己方棋子，Queen 才会记入你的得分；若失败，Queen 会被放回棋盘中心。
+*   **问：如果不小心把 Striker 打进袋里会怎样？**  
+    *   **答：** 属于犯规行为，一般会被罚将一枚已入袋的己方棋子摆回中心，并且你的回合立即结束。
+*   **问：如果我不小心把对手的棋子打进袋里会怎样？**  
+    *   **答：** 你会失去本回合。只有打进己方棋子时才能继续出杆。

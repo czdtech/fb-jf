@@ -53,17 +53,17 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 -   **摆放 Striker：** 在己方底线允许范围内左右移动 Striker，选择出球位置。  
 
-A: After pocketing the queen, you must pocket one of your own pieces in the next stroke; failing to do so returns the queen to the board.
+答：击入 Queen 后，你必须在下一杆再入袋一枚己方棋子；否则 Queen 会被放回棋盘。
 -   **瞄准与发射：** 按住并拖动 Striker，拉出瞄准线；拉得越长力度越大，松开即完成击球。  
 
 
-A: Some versions provide friction settings; otherwise adapt with lighter strokes.
+答：部分版本提供摩擦/滑行速度设置；如果没有，就用更轻的力度来适应台面速度。
 
-- Q: Are board speeds adjustable?
+- 问：台面速度可以调整吗？
 
-A: Control rebound angles and reduce power on thin contacts.
+答：控制反弹角度，并在薄擦击球时降低力度，能减少 Striker 自己入袋的风险。
 ### 常见问题解答（FAQ）
-*   **问：什么是“Cover Queen”？****
-    *   答：** 在合法击入红色 Queen 后，必须在同一回合紧接着再入袋一枚己方棋子，Queen 才算真正被你“收入囊中”；否则会被放回中心。
-*   **问：击入 Striker 算犯规吗？****
-    *   答：** 是的。Striker 入袋通常被视为犯规，你会失去本轮机会，并被罚将一枚已入袋棋子放回棋盘中央（具体视关卡规则而定）。
+*   **问：什么是“Cover Queen”？**  
+    *   **答：** 在合法击入红色 Queen 后，必须在同一回合紧接着再入袋一枚己方棋子，Queen 才算成功“Cover”；否则会被放回中心。
+*   **问：击入 Striker 算犯规吗？**  
+    *   **答：** 是的。Striker 入袋通常被视为犯规，你会失去本轮机会，并被罚将一枚已入袋棋子放回棋盘中央（具体视关卡规则而定）。

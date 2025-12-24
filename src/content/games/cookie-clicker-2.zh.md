@@ -16,20 +16,20 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### **Game Introduction**
+### **游戏介绍**
 
 《Cookie Clicker 曲奇点击器》是增量（Incremental）/放置（Idle）类游戏的代表作，核心
 目标看似非常简单：**尽可能多地生产曲奇饼干**。游戏一开始，屏幕上只有一块巨大的曲奇，
 你每点击一次就能获得 1 块饼干。随后，你可以用饼干购买各种“建筑”（Cursors 光标、
 Grandmas 奶奶、Farms 农场等），这些建筑会自动生产饼干，从而提升你的每秒曲奇产量
-（Cookies per Second，CpS）。
+（每秒产出，CPS）。
 
 随着游戏推进，你可以解锁大量升级，显著提升点击与建筑的效率。核心乐趣在于如何管理这
 种指数级的成长：数字会从几十、几百，很快膨胀到数百万、数十亿，甚至天文数字。转生
 （Ascension）这种“声望系统”、随机出现的 Golden Cookies（黄金曲奇）以及一系列小型玩法
 （Minigames）都会不断加入，为这款看似只是“点饼干”的游戏增添大量策略与优化空间。
 
-### **Gameplay Strategy & Tips**
+### **玩法策略与实用技巧**
 
 《Cookie Clicker》中最关键的是效率，理解关键决策点何时出现。
 
@@ -65,7 +65,7 @@ Grandmas 奶奶、Farms 农场等），这些建筑会自动生产饼干，从�
 **3. 后期（高效周目与 Minigames）**
 
 *   **核心循环：** 进入中后期后，游戏节奏会变成：“新周目开局 → 快速补齐早期建筑与升
-    级 → 利用 Golden Cookie 组合（例如在 Frenzy 状态下触发 Click Frenzy）冲一波爆发 →
+    级 → 利用 Golden Cookie 组合冲一波爆发 →
     在增长放缓时转生，吃下新的 Prestige 加成”。
 *   **Grandmapocalypse（奶奶末日）：** 通过研究特定的“Bingo center” 升级可以触发奶奶末
     日事件。此时画风会变得阴森，Golden Cookies 也会被部分替换为效果更极端的 Wrath
@@ -73,11 +73,11 @@ Grandmas 奶奶、Farms 农场等），这些建筑会自动生产饼干，从�
     留部分黄金曲奇，也可以在更强时彻底拥抱它，或者干脆通过升级“安抚奶奶”来关闭该状态
     。
 *   **Minigames 与 Sugar Lumps：** 当某些建筑被用 Sugar Lumps 升到一定等级后，会解锁对
-    应的小玩法（如 Garden 花园、Pantheon 神殿、Grimoire 魔法书）。这些 Minigames 在长期
+    应的小玩法。这些 Minigames 在长期
     来看能带来可观增益，但需要一定的主动管理。Sugar Lumps 大约每 24 小时自然生成 1 个
     ，可用于给建筑升级，每级为该建筑类型提供永久 +1% CpS。
 
-### **Controls Guide**
+### **操作指南**
 
 游戏主要通过鼠标操作完成，但熟悉界面与快捷键能显著提升效率。
 
@@ -89,7 +89,7 @@ Grandmas 奶奶、Farms 农场等），这些建筑会自动生产饼干，从�
     *   **Ctrl + 点击：** 一次购买 100 个建筑/升级；
     *   **Shift + 点击：** 一次购买 1000 个建筑/升级（具体以游戏版本为准）。
 
-### **Frequently Asked Questions (FAQ)**
+### **常见问题（FAQ）**
 
 **1. 什么时候转生最划算？**  
 对于第一次 Ascension，一般建议至少等到 200–440 Prestige 左右再转。之后每一轮可根据自

@@ -14,13 +14,13 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
 《Domino Battle 多米诺对战》是经典多米诺骨牌的数字对战版本，你将与电脑 AI 在同一桌上斗智
 斗勇。目标是通过把手中的骨牌首尾相接到桌面牌链上，**率先打完所有手牌**。在此过程中，你既
 要考虑如何顺利出完自己的牌，又要设法限制、阻断对手的可行走法，防止对方抢先清牌。
 
-### Gameplay Strategy & Walkthrough
+### 玩法策略与通关思路
 
 1.  **基础规则：** 双方各持一手骨牌，通常拥有最大双数牌（例如 6–6）的一方先手。每轮轮到你
     时，必须从手中选出一张骨牌，让它的一端点数与桌面牌链某一端开放点数相同并接上。  
@@ -34,27 +34,18 @@ releaseDate: 2025-10-17T00:00:00.000Z
 5.  **堵牌局面：** 若双方均无牌可出且牌堆已空，即为“堵局”。此时手牌点数总和更少的一方获
     胜，并获得对手点数之和作为积分。  
 
-### Controls Guide
+### 操作指南
 
 *   **出牌：** 使用鼠标点击并拖动手中的多米诺骨牌到桌面上某个可用端点即可。  
 *   **抓牌：** 当没有可出的牌时，点击桌面上的背面骨牌堆即可抽取新牌。  
 
-### Frequently Asked Questions (FAQ)
+### 常见问题（FAQ）
 
-*   **Q: 游戏的核心目标是什么？**  
-    **A：** 在每局中争取成为第一个打光所有手牌的玩家，并在多局累计积分中率先达到目标分数。  
+*   **问：游戏的核心目标是什么？**
+    *   **答：** 每局的目标是成为第一个打光所有骨牌、清空手牌的玩家；整场对战通常按多回合累计积分，先达到目标分数的一方获胜。
 
-    - **Q: 没有可出的牌时会怎样？**  
-    **A：** 需要从“骨牌堆”中抽牌直到抽到可出牌；若骨牌堆也抽空仍无牌可出，则只能跳过回合
-    ，等待对手操作。  
+*   **问：如果我没有可出的牌会怎样？**
+    *   **答：** 你必须从牌库（boneyard）抽牌；如果牌库也为空且仍然无法出牌，就只能过牌（跳过回合）。
 
-*   **Q: 如何有效阻挡对手？**  
-
-    - **A:** Pay attention to the numbers on the open ends of the chain. If you know your opponent has a lot of a certain number (because you have most of the others), you can try to play tiles that avoid leaving that number open, potentially forcing them to draw from the boneyard.
-
-- **Q: How can I block my opponent?**
-
-    - **A:** You must draw from the boneyard. If the boneyard is empty, you pass your turn.
-    **A：** 观察牌链两端开放点数以及对手经常出牌/很少出牌的点数，推测对手手牌结构。尽量不
-    要留下对对手有利的数字在开放端，必要时甚至主动把牌局引向“堵局”，利用自己更低的点数
-    总和获胜。  
+*   **问：如何有效阻挡对手？**
+    *   **答：** 盯紧牌链两端的开放点数。如果你判断对手手里某个点数很多（比如你自己已经拿到了其他点数的大部分），就尽量出牌避免把这个点数留在开放端，从而迫使对手去牌库抽牌。

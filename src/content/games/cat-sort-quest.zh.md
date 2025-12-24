@@ -42,13 +42,14 @@ releaseDate: 2025-10-18T00:00:00.000Z
 -   **撤销 / 重开：** 部分版本支持撤销上一步操作或重新开始当前关卡，可以在明显走错路时善用这些功能。  
 
 ### 常见问题解答（FAQ）
-*   **问：总是移动几步就无路可走怎么办？****
+- 问：我走到没法继续了，怎么办？
+  
+  答：如果有撤销功能，先回退几步重新腾出缓冲位；同时优先把被埋在底下的“孤色”挪出来，并尽快合并同色的小猫堆，释放更多空间。
 
-A: Undo a few steps to reopen a buffer. Focus on surfacing buried singles and merging partial stacks.
-- 答：** 通常说明你太早填满了太多栖木，或者把多色混在一起导致缺乏缓冲空间。下次尝试把一两根栖木保留为“垃圾桶”，专门堆杂色，其他栖木尽量保持颜色单一。
+- 问：有没有更优的完成颜色顺序？
+  
+  答：优先完成那些能立刻空出一根栖木的颜色（形成滚雪球效果），然后再处理最高、最杂的栈。
 
-A: Prioritize colors that immediately free a perch, then target the tallest mixed stacks.
-*   **问：游戏有时间限制吗？****
-
-A: No — quick backtracks and flexible buffers are more important than perfection.
-    *   答：** 多数关卡只对步数和解法效率有影响，并不强制限定时间，因此可以慢慢思考、规划最佳移动顺序。
+- 问：每一步都必须完美吗？
+  
+  答：不必。快速回退和保持缓冲位的灵活性，比死扣一步最优更重要。

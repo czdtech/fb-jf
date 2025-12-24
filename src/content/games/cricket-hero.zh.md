@@ -14,7 +14,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
 《Cricket Hero 板球英雄》是一款简单却极具上瘾性的街机风板球游戏，你的目标只有一个：
 **在出局前尽可能多地得分**。你扮演击球手，面对风格各异的投球手，他们会尽全力让你出
@@ -24,7 +24,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 中三柱门（wickets），本局就宣告结束。你能否抓住每一次投球机会，打出 4 分球甚至 6 分
 球，成为真正的板球英雄？
 
-### Gameplay Strategy & Walkthrough
+### 玩法策略与通关思路
 
 1.  **盯球不盯人：** 无论现实板球还是本作，最基础的规则都是“眼睛跟着球走”。从投手出手
     的瞬间开始，就专注观察球的轨迹与落点。
@@ -35,27 +35,18 @@ releaseDate: 2025-10-18T00:00:00.000Z
 4.  **保持专注：** 随着得分提高，投球节奏和变化会越来越刁钻。保持高集中度，避免因为
     一瞬间走神就被直接击倒三柱门。
 
-### Controls Guide
+### 操作指南
 
 *   **挥棒击球：** 点击鼠标左键或轻触屏幕即可挥动球棒。你唯一能控制的就是“何时挥棒”，
     因此每一次点击都要尽量精准。
 
-### Frequently Asked Questions (FAQ)
+### 常见问题（FAQ）
 
-*   **Q: 如何在游戏中得分？**  
-    **A：** 只要成功击中球并将其击入安全区域就能得分。时机越好，球飞得越远，一次击球
-    能获得的分数也越高（例如 4 分球、6 分球）。
+*   **问：如何在游戏中得分？**
+    *   **答：** 你需要用球棒成功击中来球。挥棒时机越好，一次击球能拿到的分数也越高（例如 4 分、6 分）。
 
-    - **Q: 游戏在什么情况下结束？**  
-    **A：** 当投出的球直接击中你的三柱门，或等价的出局判定触发时，本局就会立刻结束。
-    一般情况下你拥有有限的“门数”（生命数），用完即 Game Over。
+*   **问：游戏在什么情况下结束？**
+    *   **答：** 当你被投杀出局（来球击中你的三柱门 wickets）时，本局就会结束。每局你拥有有限次数的“门数”（相当于生命数），用完即失败。
 
-*   **Q: 后面会出现不同类型的投球手吗？**  
-
-    - **A:** Yes, as you score more runs, you will likely face different bowlers who may bowl at different speeds or with different styles, adding to the challenge.
-
-- **Q: Are there different types of bowlers?**
-
-    - **A:** The game ends when you are bowled out, meaning the ball hits your wickets. You have a limited number of wickets (or lives) per game.
-    **A：** 会。随着你得分提升，很可能遇到投速更快、节奏更多变的投手，他们的出手节奏
-    与球路会给你的时机判断带来更大挑战。
+*   **问：后面会出现不同类型的投球手吗？**
+    *   **答：** 会。随着你得分提升，很可能会遇到投速更快、风格不同的投球手，他们的出手节奏和变化会让挥棒时机更难把握。

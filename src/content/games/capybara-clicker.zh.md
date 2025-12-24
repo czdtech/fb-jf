@@ -35,35 +35,35 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
     - **把解锁外观当作长期目标**  
 
-- **Unlock Everything:** Reaching population milestones will unlock new skins and hats for your capybara. These are cosmetic but are fun goals to aim for.
+- **解锁全部外观：** 达到一定数量里程碑会解锁新的皮肤和帽子。这些只是外观，但很适合作为长期目标。
 
-- **Don't Forget Click Upgrades:** While passive income is key, don't completely ignore the "per click" upgrades. After you ascend, your powerful manual clicks can help you quickly buy back your first few auto-generating buildings.
+- **别忘了点击升级：** 被动收入固然关键，但也别完全忽略“每次点击收益”的升级。转生后，强力的手动点击能帮你更快买回前期的自动化产出建筑。
     很多玩家的乐趣在于收集水豚不同形态与天气演出。可以为自己设定例如“解锁下一套皮肤”“看到下一种天气”的小目标，让养成过程更有期待感。
 
 ### 操作指南
 
 
-The entire game is played with the mouse.
+本游戏全程用鼠标即可操作。
 -   **点击：** 用鼠标或手指点击水豚本体或指定区域以获得资源。  
 -   **升级：** 在侧边或底部升级菜单中，使用获得的资源购买点击、被动收入或外观相关升级。  
 -   **自动化：** 某些升级会提供自动点击或定时收益，无需额外操作。  
 
 
-- **Ascend:** Click the weather icon at the top of the screen.
+- **转生：** 点击屏幕顶部的天气图标。
 ### 常见问题解答（FAQ）
 
-**问：必须一直点下去吗？****
-答：** 不需要。前期多点击有助于启动滚雪球，中后期主要依赖被动收入与升级。即使不操作，游戏也会在后台累积一定资源（视版本而定）。
+**问：必须一直点下去吗？**  
+**答：** 不需要。前期多点击有助于启动滚雪球，中后期主要依赖被动收入与升级。即使不操作，游戏也会在后台累积一定资源（视版本而定）。
 
-**问：这游戏有“通关”吗？****
-答：** 更像是无尽养成。你可以不断解锁更高等级的升级、更多的外观和天气演出，把它当作一个长期陪伴型小游戏。
+**问：这游戏有“通关”吗？**  
+**答：** 更像是无尽养成。你可以不断解锁更高等级的升级、更多的外观和天气演出，把它当作一个长期陪伴型小游戏。
 
 
 
-> You unlock new cosmetic items by reaching specific population milestones (e.g., 1 billion capybaras, 1 trillion, etc.). The game will notify you when a new item is available.
+> 通过达到特定的数量里程碑来解锁新的外观道具（例如 10 亿只水豚、1 万亿只等）。当有新物品可用时，游戏会提示你。
 
-**4. How do I unlock the new hats and skins?**
+**4. 如何解锁新的帽子和皮肤？**
 
-> Changing the weather is the game's "prestige" or "ascension" mechanic. It resets your progress (capybaras, upgrades) but gives you a permanent percentage-based boost to all future capybara generation. This is essential for long-term progress.
+> 改变天气就是本作的“转生/声望”机制。它会重置你的进度（水豚数量、升级等），但会为之后的水豚产出提供永久的百分比加成，是长期养成的关键。
 
-**3. What does changing the weather do?**
+**3. 改变天气有什么作用？**
