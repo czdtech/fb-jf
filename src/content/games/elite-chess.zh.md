@@ -10,7 +10,7 @@ thumbnail: /new-images/thumbnails/elite-chess.png
 tags:
   - thinky
   - puzzle
-score: 4.4/5  (2326 votes)
+score: 4.4/5  (2326 票)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
@@ -46,7 +46,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 - 點擊棋子可以高亮所有合法走法，再點擊目的格完成落子。
 - 可以從選單中提出和棋、認輸，或調整電腦 AI 的強度。
 
-### Study Plan (Quick)
+### 快速訓練計畫（簡版）
 
 - 每天約 15 分鐘做戰術題（雙攻、牽制、串打、閃擊攻等），
 - 10 分鐘回顧自己對局中的重大失誤，
