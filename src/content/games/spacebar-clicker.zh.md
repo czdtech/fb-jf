@@ -21,7 +21,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ### 游玩策略与成长指引
 
 
-Start by repeatedly pressing the spacebar to generate your first points. As you earn more, invest in upgrades from the shop. These upgrades might include auto-clickers that generate points for you over time, or multipliers that increase the points you get for each manual press. The key is to balance manual clicking with purchasing the right upgrades to maximize your points-per-second.
+开局先多按空格攒到第一批点数，然后把资源投入商店升级：优先解锁自动点击/被动收益，其次再用倍率升级放大整体产出。关键是让“手动点击”和“买对升级”配合起来，把每秒增长拉到最高。
 1.  **早期重视点击效率：** 在刚开始的阶段，优先升级“每次点击增加的数量”，让你的手动敲击更有价值。
 2.  **尽快解锁自动化：** 一旦能购买自动增加数值的升级，尽量优先解锁，减少必须手动点击的频率，让游戏逐渐进入“放置”节奏。
 3.  **注意投资回报：** 不同升级的成本和收益差异较大，观察每项升级带来的增量是否值得当前投入，避免盲目点满某一个条目。
@@ -42,6 +42,5 @@ Start by repeatedly pressing the spacebar to generate your first points. As you 
 
 
 
-In the beginning, focus on manual clicking to afford your first few upgrades. Prioritize upgrades that provide passive, automatic income. Once you have a steady stream of points, you can invest in more expensive upgrades that multiply your overall earnings.
-
-**What's the best strategy?**
+**问：有没有通用的最佳策略？**
+答：** 前期先靠手动点击凑齐前几项升级资金；随后优先购买能带来被动、自动收益的升级，让增长“自己跑起来”。当你有稳定的点数来源后，再逐步投入更贵的倍率类升级，把整体收益放大。

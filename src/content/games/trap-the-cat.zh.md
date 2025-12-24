@@ -35,18 +35,13 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ### 常见问题解答（FAQ）
 
 1.  **问：小猫是随机走吗？**  
+    **答：** 小猫不会随机走。它会智能选择通往边缘的最短路线，每回合移动一步。  
 
+2.  **问：有时间限制吗？**  
+    **答：** 通常没有时间限制，你可以慢慢思考每一步。  
 
-**A**: Practice observing the cat's behavior patterns and learn to predict the most effective blocking positions.
+3.  **问：障碍数量/步数有限制吗？**  
+    **答：** 有。你需要在有限步数内成功围住小猫，增加策略难度。  
 
-- **Q: How can I improve success rate?**
-
-**A**: Yes, you need to successfully trap the cat within a limited number of moves, adding strategic difficulty.
-
-- **Q: Is there a limit to the number of obstacles?**
-
-**A**: Usually no time limit; you can carefully consider each placement.
-
-- **Q: Is there a time limit?**
-
-**A**: The cat intelligently chooses the shortest path to the edge, moving one step per turn.
+4.  **问：怎么提高成功率？**  
+    **答：** 多观察小猫的移动规律，并练习预判最关键的封堵位置。  

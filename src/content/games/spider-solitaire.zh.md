@@ -33,18 +33,17 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### 常见问题解答（FAQ）
 
-The difficulty is determined by the number of suits used:
+**不同难度（1 花色 / 2 花色 / 4 花色）有什么区别？**
 
-**What do the different difficulty levels mean?**
-*   **问：蜘蛛纸牌和 Klondike 接龙有什么不同？****
-- 答：** Klondike 强调按花色从 A 到 K 递增建立基础堆，而蜘蛛纸牌则是在桌面上按从 K 到 A 递减整理整套序列再移除，两者布局和运营思路差别很大。
-*   **问：为什么总觉得局面很容易卡死？****
+难度主要取决于使用的花色数量：
+- **1 花色（入门）：** 104 张牌都属于同一花色，更容易组成完整序列。
+- **2 花色（中等）：** 使用两种花色，需要同时管理多条不同花色的序列。
+- **4 花色（进阶）：** 最难，使用全部四种花色，需要更精细的腾挪与规划。
 
-Try to empty columns as quickly as possible to create free space for re-ordering cards. It's also crucial to uncover face-down cards to bring more options into play. Whenever possible, try to build sequences of the same suit.
+**为什么叫“蜘蛛纸牌”？**
 
-**What is the main strategy?**
+名字来自你需要完成并移除 **8 组**从 K 到 A 的完整同花色序列，对应蜘蛛的八条腿。
 
-The name comes from the eight sequences you need to build, corresponding to a spider's eight legs.
+**通用通关思路是什么？**
 
-**Why is it called Spider Solitaire?**
-    *   答：** 可能是过早随机叠放了多花色序列，却没有空列用于重排。建议有意识地为自己保留至少一列“缓冲区”，并优先清理可以直接形成完整序列的花色。
+尽快清出空列作为缓冲空间，同时优先翻开暗牌获取更多走法；在可能的情况下尽量构建同花色的长序列，避免把关键牌埋在底层导致卡死。

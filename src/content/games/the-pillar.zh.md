@@ -21,7 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ### 游玩策略与解谜指引
 
 
-The core gameplay involves solving puzzles to progress. Each area presents new challenges that require you to manipulate objects, decipher codes, and understand the environment's logic.
+核心玩法就是通过解谜推进进度：每个区域都会带来新挑战，你需要搬动/操控物体、破译密码，并理解场景机关的逻辑。
 1.  **多角度观察：** 很多图案或路线只有站在特定角度才能被看清或对齐，尝试围着石柱或建筑多转几圈寻找正确视角。
 2.  **记录符号与序列：** 场景中的符号、数字和颜色组合常常是解锁机关的密码，遇到复杂图案时可以在纸上或截图记录下来。
 3.  **由易到难拆分谜题：** 将复杂谜题拆解成若干小部分，逐个解决。例如先确定起点与终点，再补完中间路径。
@@ -43,6 +43,6 @@ The core gameplay involves solving puzzles to progress. Each area presents new c
 
 
 
-The difficulty of the puzzles can range from straightforward to quite challenging, requiring players to think critically and sometimes experiment with solutions.
+谜题难度从入门到颇具挑战都有，需要你认真思考，有时也要通过试错来验证思路。
 
-**Is the game difficult?**
+**游戏难度大吗？**

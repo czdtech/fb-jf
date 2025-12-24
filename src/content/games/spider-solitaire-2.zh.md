@@ -26,31 +26,30 @@ releaseDate: 2025-10-17T00:00:00.000Z
 4.  **善用空列搬运：** 空列在蜘蛛纸牌中极其宝贵，可以用来暂存长序列或打散不理想的组合，为重组同花色序列创造条件。
 
 
-- **Dealing from the Stock:** When you have no more productive moves, you can click the stock pile. This will deal one new face-up card to the bottom of each of the ten tableau columns. **Important:** You cannot deal new cards if any of your tableau columns are empty.
+- **从牌库发牌：** 当你没有更有效的可用操作时，可以点击牌库。系统会在 10 列牌面底部各发一张新的明牌。**注意：** 如果有任意一列为空，就无法发新牌。
 ### 操作说明
 
 *   **移动纸牌：** 点击并拖拽按点数递减排列的连续牌组，移动到符合规则的目标列上。
 *   **发新牌：** 在所有桌面列都至少有一张牌时，点击牌库即可为每列发一张新牌，增加挑战。
 
 
-- **Auto-Move:** Many versions will automatically move a completed K-to-A sequence to the foundation area for you.
+- **自动移动：** 许多版本会在你完成一组 K→A 的同花色序列后，自动把它移到基座区。
 ### 常见问题解答（FAQ）
 
 
-- **A:** Start with 1-suit mode to learn the mechanics. Focus on uncovering new cards and creating empty columns. Try to build sequences on cards that don't have many face-down cards underneath them.
+- **答：** 先从 1 花色模式开始熟悉机制。优先翻开暗牌并尽量制造空列。尽量在底下暗牌较少的列上搭建序列，这样更容易推进局面。
 
-    - **Q: What is the best strategy for beginners?**
+    - **问：新手最推荐的策略是什么？**
 
-- **A:** You must have at least one card in every single one of the ten tableau columns. If you have an empty column, you must place a card in it before you can deal a new row.
+- **答：** 你必须保证 10 列牌面每一列都至少有一张牌。如果有空列，必须先把牌移进去，才能从牌库发下一排。
 
-    - **Q: Why can't I deal new cards from the stock?**
+    - **问：为什么我不能从牌库发新牌？**
 
-- **A:** The difficulty. In 1-suit mode, all cards are of the same suit, making it easy to create sequences. In 2-suit and 4-suit modes, you must manage different suits, which makes it much harder to build the required single-suit sequences for removal.
+- **答：** 差别在难度。1 花色时所有牌同花色，连成可移除的序列更容易；2 花色和 4 花色需要同时管理多种花色，想凑出可移除的同花色序列会难很多。
 
-    - **Q: What is the difference between 1, 2, and 4 suit Spider Solitaire?**
-**问：Spider Solitaire 2 和普通蜘蛛纸牌有什么区别？****
-答：** 通常会提供更多花色组合（例如两花色、四花色模式）或不同难度选项，让老玩家也能找到新的挑战空间。
+    - **问：1/2/4 花色蜘蛛纸牌有什么区别？**
+**问：Spider Solitaire 2 和普通蜘蛛纸牌有什么区别？**  
+**答：** 通常会提供更多花色组合（例如两花色、四花色模式）或不同难度选项，让老玩家也能找到新的挑战空间。
 
-**问：发牌堆什么时候用最合适？****
-答：** 建议在已经整理出若干较为整洁的列并尽可能翻开暗牌后再发新牌，这样更有空间去处理新增的混乱。
-
+**问：发牌堆什么时候用最合适？**  
+**答：** 建议在已经整理出若干较为整洁的列并尽可能翻开暗牌后再发新牌，这样更有空间去处理新增的混乱。

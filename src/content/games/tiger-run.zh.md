@@ -26,7 +26,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 4.  **善用道具：** 磁铁、护盾或加速等道具可以短时间大幅提升收益或容错率，尽量在道具生效期间多跑一段距离或多吃一些奖励。
 
 
-- Power‑ups: Save shields/magnets for dense sections.
+- **道具时机：** 把护盾/磁铁留到障碍与金币更密集的路段使用，收益更高。
 ### 操作说明
 
 *   **左右变道：** 使用左右方向键或滑动屏幕左右切换跑道；
@@ -36,14 +36,11 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ### 常见问题解答（FAQ）
 
 
-- Is there a finish? Usually endless—aim for new personal bests.
-
-- Any way to slow down? Some modes offer slow‑mo or temporary speed drops via power‑ups.
-
-- I always clip hurdles—why? Time jumps slightly later and keep momentum steady.
+- **有终点吗？** 通常是无尽模式，目标是不断刷新个人最远距离与最高分。  
+- **能不能让速度慢一点？** 某些版本会提供减速/慢动作道具，或通过特定道具短暂降低速度。  
+- **我总是撞到栏杆/障碍，为什么？** 很可能跳得太早或节奏不稳。尝试把起跳点稍微往后放，并保持操作节奏一致。  
 **问：游戏有终点吗？****
 答：** 作为无尽跑酷，本作没有固定终点，目标是尽可能跑得更远、刷出更高分数。
 
 **问：是否能升级老虎的能力？****
 答：** 视版本而定，一些实现会提供速度、磁铁持续时间等属性升级，来帮助你更轻松地刷新纪录。
-

@@ -10,16 +10,16 @@ score: "4.0/5  (407 票)"
 tags: ["sprunki interactive beta"]
 ---
 
-### 什么是 Sprunki Interactive BETA？（What is Sprunki Interactive BETA?）
+### 什么是 Sprunki Interactive BETA？
 
 Sprunki Interactive BETA 不仅仅是 Sprunki 游戏的简单升级，它是一次打破规则的创新尝试。它将动态角色移动和不可预测的互动注入充满活力的 Sprunki 玩法中，彻底颠覆了你熟悉的世界。
 
-### Sprunki Interactive BETA 的核心特色（The Core Features of Sprunki Interactive BETA）
+### Sprunki Interactive BETA 的核心特色
 
 - **动态角色移动：** 与传统的固定模型不同，Sprunki Interactive BETA 中的角色会不断在屏幕上移动，创造出令人兴奋的混乱。
 - **不可预测的互动：** 当这些充满活力的角色（包括 Sprunki 和其他伙伴）碰撞或互动时，它们会产生独特的声音，创造出自发且不断变化的音景。
 
-### 如何玩这款游戏（How to Play the Game）
+### 如何玩这款游戏
 
 在 Sprunki Interactive BETA 中，世界一开始是明亮、多彩且充满魅力的。你会认识三个可爱的角色：Durple，一个有触角的黄色生物；Brud，一个有翅膀的紫色角色；还有 Oren，一个有猫耳的粉色生物。每个角色都配备了自己的倒计时：Durple 的速度倒计时、Brud 的漫游倒计时和 Oren 的行为倒计时。作为玩家，你的任务是有效地管理这些倒计时，调整它们以确保每个角色的动作在恰当的时刻执行。
 
@@ -27,7 +27,7 @@ Sprunki Interactive BETA 不仅仅是 Sprunki 游戏的简单升级，它是一�
 
 这种诡异的转变为游戏增添了一层紧张感，将有趣的互动与令人脊背发凉的时刻结合在一起。当你调整倒计时并管理混乱时，你必须面对这个看似无辜的游戏表面下潜伏的日益增长的恐怖。你能在变形完全接管之前控制住你的角色吗？
 
-### Sprunki Interactive BETA 的亮点（Highlights of Sprunki Interactive BETA）
+### Sprunki Interactive BETA 的亮点
 
 - Sprunki 玩法的新鲜活泼进化
 - 引入动态角色移动

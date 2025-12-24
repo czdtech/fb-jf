@@ -10,11 +10,11 @@ score: "4.8/5  (649 票)"
 tags: ["sprunki meets the cat spell", "sprunki meets the cat spell online"]
 ---
 
-### Sprunki Meets The Cat Spell 介绍（Introducing to Sprunki Meets The Cat Spell）
+### Sprunki Meets The Cat Spell 介绍
 
 这款 Mod 是现有 Mod「Sprunki Cats Game」的重制版本。
 
-### 如何玩 Sprunki Meets The Cat Spell？（How to Play Sprunki Meets The Cat Spell?）
+### 如何玩 Sprunki Meets The Cat Spell？
 
 Sprunki Cats Mod 采用了深受喜爱的 Incredibox Sprunki 玩法，并通过将所有角色重新设计为带有猫耳和猫咪整体设计的形象，增添了迷人的转折。这款 Mod 引入了 20 个猫咪主题的 Sprunki 角色，每个角色都为你的音乐创作带来独特的声音、人声、效果和节拍。有七个头像可供自定义，你可以用你最喜欢的猫咪 Sprunki 角色替换它们，创造出音乐与可爱的和谐融合，一定会吸引所有年龄段的玩家。🐾🎨🎶
 

@@ -26,7 +26,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 4.  **保持耐心：** 有些小块可能要在整体结构搭好之后才有明显线索，不必被单独的一两块卡住太久，可以先拼别的部分。
 
 
-- Zoom/pan: Use tools to increase accuracy on dense areas.
+- **缩放/拖动画布：** 在细节密集的区域多用放大与拖拽工具，提高对位精度。
 ### 操作说明
 
 *   **拖拽拼图块：** 点击并拖动拼图块到你认为正确的位置；
@@ -36,14 +36,11 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ### 常见问题解答（FAQ）
 
 
-- Any photo variety? Usually landscapes, animals, and seasonal themes.
-
-- Can I change piece count? Typically yes; pick a difficulty that fits your session length.
-
-- Are there timers? Modes vary; many offer relaxed, untimed sessions.
+- **图片题材多吗？** 通常会包含风景、动物、季节主题等多种类型。  
+- **能调整拼图块数量吗？** 多数版本支持。建议按你的时间与耐心选择合适难度。  
+- **有计时吗？** 视模式而定，很多版本提供放松的无计时体验。  
 **问：有没有时间限制？****
 答：** 视模式而定，有的关卡会设置计时挑战，有的则完全不限制时间，让玩家慢慢享受拼图过程。
 
 **问：拼到最后只差几块却拼不起来怎么办？****
 答：** 可以尝试重新审视整体对比，有时只是某块在前面被放错了位置，适当拆回一部分重新调整即可。
-

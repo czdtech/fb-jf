@@ -33,18 +33,17 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### 常见问题解答（FAQ）
 
-The difficulty is determined by the number of suits used:
+**不同难度模式之间的主要差别是什么？**
 
-**What do the different difficulty levels mean?**
-*   **问：不同模式之间的主要差别是什么？****
-- 答：** 单花色模式中所有牌皆为同一花色，整理难度较低；双花色则需要考虑两种花色的排序；四花色模式最具挑战性，需要更细致的规划。
-*   **问：什么时候最适合从牌库发新牌？****
+难度主要取决于使用的花色数量：
+- **1 花色（入门）：** 104 张牌都属于同一花色，更容易组成完整序列。
+- **2 花色（中等）：** 使用两种花色，需要同时管理两条花色序列的整理与移动。
+- **4 花色（进阶）：** 最具挑战性，使用全部四种花色，需要更细致的腾挪与规划。
 
-Try to empty columns as quickly as possible to create free space for re-ordering cards. It's also crucial to uncover face-down cards to bring more options into play. Whenever possible, try to build sequences of the same suit.
+**为什么叫“蜘蛛纸牌”？**
 
-**What is the main strategy?**
+因为你需要完成并移除 **8 组**从 K 到 A 的完整同花色序列，对应蜘蛛的八条腿。
 
-The name comes from the eight sequences you need to build, corresponding to a spider's eight legs.
+**通用通关思路是什么？**
 
-**Why is it called Spider Solitaire?**
-    *   答：** 一般建议在当前局面已基本整理出若干顺畅的列、且大部分暗牌已翻开时，再发新牌，这样更容易承受新增的混乱。
+尽快清出空列作为缓冲空间，并优先翻开暗牌获取更多走法；在可能的情况下尽量构建同花色的长序列，避免把关键牌压在底层导致卡死。

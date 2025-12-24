@@ -28,30 +28,28 @@ releaseDate: 2025-10-18T00:00:00.000Z
 4.  **保持手部节奏：** 不要因为速度快就开始大幅左右乱摇，保持冷静的节奏性敲击或按键微调，往往比紧张乱搓更安全。
 
 
-- **Endurance Training**: Build the ability to maintain high concentration for extended periods.
+- **耐力训练：** 培养长时间保持高度专注的能力。
 ### 操作说明
 
 *   **左右控制：** 使用左右方向键或 A/D 键控制小球在赛道上的左右移动。
 *   **持续前进：** 小球会自动向前下滑并逐渐加速，玩家无需控制前进，只需负责方向调整。
 
 
-- **Reaction Training**: Quickly respond to suddenly appearing obstacles and direction changes.
+- **反应训练：** 快速应对突然出现的障碍与方向变化。
 ### 常见问题解答（FAQ）
 
 
-- **Q: What new features does it have compared to previous games?**
-**问：和《Slope 2》相比，本作难度如何？****
+- **问：相比前作有哪些新特性？**  
+    **答：** 《Slope 3》通常会带来更好的画面表现、新的障碍类型、更顺滑的物理手感，以及更复杂的赛道设计。
 
-- **Q: Is the difficulty higher than previous games?**
-答：** 《Slope 3》整体节奏更快、障碍更密，属于更加“进阶向”的版本，对赛道熟悉度和即时反应要求更高。
+- **问：难度是否比前作更高？**  
+    **答：** 续作通常会在保持核心玩法的同时加入新的挑战要素，整体更考验反应与熟练度。
 
+- **问：对设备性能有什么要求？**  
+    **答：** 由于画面升级，部分版本可能对设备性能要求更高，低配设备可能会出现卡顿。
 
-- **Q: What are the performance requirements?**
-**问：有没有终点或关卡制？****
+- **问：会保存进度吗？**  
+    **答：** 多数版本会记录最高分与成就，但具体保存内容仍取决于游戏版本。
 
-- **Q: Does it save progress?**
-答：** 核心模式仍以无尽斜坡为主，通过下滑距离与得分来衡量表现，部分版本会附带成就或任务系统。
-
-**问：新玩家适合直接从 3 代开始玩吗？****
-答：** 如果你是第一次接触这类斜坡跑酷，建议先从初代《Slope》或《Slope 2》上手，熟悉物理手感后再来挑战《Slope 3》。
-
+**问：新玩家适合直接从 3 代开始玩吗？**  
+**答：** 如果你是第一次接触这类斜坡跑酷，建议先从初代《Slope》或《Slope 2》上手，熟悉物理手感后再来挑战《Slope 3》。

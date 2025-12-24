@@ -26,7 +26,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 4.  **接受窄塔的高风险：** 当塔已经变得很细时，更要冷静，宁可多等一个周期再落下，也不要勉强点出一个几乎必倒的楼层。
 
 
-- **Use Power-ups (if available):** Some versions of Tower Mania might offer power-ups that can help stabilize your tower or give you a perfect drop. Use them strategically when the tower gets very high and unstable.
+- **使用道具（如有）：** 部分版本会提供能稳定塔身或让你“完美落下”的道具。塔越高越不稳时，越要把道具留在关键时刻使用。
 ### 操作说明
 
 *   **放置楼层：** 在方块移动至你认为合适的位置时，点击屏幕或按下指定按键让其落下。
@@ -34,20 +34,19 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ### 常见问题解答（FAQ）
 
 
-- **A:** If a block is not perfectly aligned, any part of it that extends beyond the block below will be cut off. This makes the next block you drop have a smaller surface area to land on, increasing the difficulty.
+- **答：** 如果方块没有完美对齐，伸出下层外的部分会被切掉。这会让下一块的落点面积变小，难度随之增加。
 
-    - **Q: What happens if a block isn't perfectly aligned?**
+    - **问：如果方块没有对齐会怎样？**
 
-- **A:** Your score is determined by the height of your tower. The more blocks you stack successfully, the higher your score will be.
+- **答：** 得分取决于塔的高度。你成功叠得越高，分数就越高。
 
-    - **Q: How do I get a higher score?**
+    - **问：怎样才能获得更高分？**
 
-- **A:** The main goal is to build the tallest possible tower by stacking blocks accurately. The game ends when a block falls off the tower.
+- **答：** 目标是尽可能精准叠放，建起最高的塔。方块一旦掉出塔身，本局结束。
 
-    - **Q: What is the goal of Tower Mania?**
-**问：塔倒了会怎样？****
-答：** 一旦结构失衡严重导致塔体倒塌，本局结束，你可以查看自己叠到的层数并选择重来。
+    - **问：Tower Mania 的目标是什么？**
+**问：塔倒了会怎样？**  
+**答：** 一旦结构失衡严重导致塔体倒塌，本局结束，你可以查看自己叠到的层数并选择重来。
 
-**问：有没有结局或终点？****
-答：** 多为无尽模式，主要目标是刷新最高高度纪录，适合作为短时解压小游戏。
-
+**问：有没有结局或终点？**  
+**答：** 多为无尽模式，主要目标是刷新最高高度纪录，适合作为短时解压小游戏。

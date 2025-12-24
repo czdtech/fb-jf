@@ -21,7 +21,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ### 解谜思路与提示
 
 
-Each level presents a unique riddle or puzzle. The solution is rarely straightforward and often involves misdirection or humor.
+每一关都是独立的谜题，解法往往不直接，常常通过误导或幽默反转来考验你。
 1.  **怀疑一切直观答案：** 如果题目看上去过于直白，十有八九真正答案在别处，先考虑是否存在隐藏交互。
 2.  **尝试非常规操作：** 除了点击明显按钮，也可以尝试拖动、双击、长按、晃动设备（若支持）等操作。
 3.  **留意文案与图像细节：** 题目说明、对话气泡和插画细节中常常藏有关键提示或双关信息。
@@ -33,7 +33,7 @@ Each level presents a unique riddle or puzzle. The solution is rarely straightfo
 *   **特殊操作：** 某些关卡可能需要滑动、旋转设备或使用键盘操作，依据题目提示尝试不同方式。
 
 
-- **Multi-touch/Device Rotation:** Some puzzles may require using two fingers or physically rotating your device.
+- **多点触控/旋转设备：** 某些谜题可能需要双指操作，或需要你实际旋转设备。
 ### 常见问题解答（FAQ）
 
 **问：有提示系统吗？****
@@ -44,6 +44,6 @@ Each level presents a unique riddle or puzzle. The solution is rarely straightfo
 
 
 
-Hints are typically available after watching an ad or using in-game currency. They provide clues to help you solve the puzzle without giving away the full answer immediately.
+提示通常需要观看广告或消耗游戏内货币获取。它会给出关键线索，帮助你推进思路，但不会直接把答案一次性告诉你。
 
-**How do I get hints?**
+**怎么获取提示？**

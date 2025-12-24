@@ -26,7 +26,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 4.  **关卡变化：** 后期会出现带钉刺、移动障碍甚至改变旋转方向的特殊靶子，需要你及时调整节奏。
 
 
-- Boss targets: Later stages may require extra hits—pace your throws.
+- **Boss 靶：** 后期关卡可能需要额外命中次数，别一味连点，控制节奏更稳。
 ### 操作说明
 
 *   **投掷飞刀：** 点击屏幕或按下指定按键即可投掷一把飞刀；
@@ -36,14 +36,11 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ### 常见问题解答（FAQ）
 
 
-- Are there power‑ups? Some versions grant multi‑knives or slows—use them on dense waves.
-
-- Does rotation change? Often yes; be ready for speed spikes and direction flips.
-
-- Why do I keep hitting knives? You’re desyncing—re‑establish rhythm and throw only when clear gaps return.
+- **有道具吗？** 部分版本会提供多发飞刀、减速等增益，建议留到空隙最密集、最容易翻车的阶段使用。  
+- **旋转会变化吗？** 通常会。要随时准备应对突然加速、减速或反向。  
+- **我为什么老是扎到已有刀刃？** 多半是节奏乱了。先停一下重新观察旋转规律，等明显空档出现时再出手。  
 **问：总是撞到已有的刀刃怎么办？****
 答：** 可以尝试放慢频率，专注观察木靶一整圈，确认最宽的空档位置后再投掷，不要连点。
 
 **问：后期木靶转得很乱怎么办？****
 答：** 许多关卡都在考验你适应突然变速或反向的能力，多观察两秒再投掷往往比急着丢刀更安全。
-

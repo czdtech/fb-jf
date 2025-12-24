@@ -23,7 +23,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ### 游玩指南
 
 
-The core gameplay involves point-and-click interactions. You'll need to click, drag, and manipulate elements on the screen in unexpected ways to solve puzzles and advance. The game frequently breaks the fourth wall, and success often requires thinking outside the box and ignoring the narrator's direct instructions. Each "level" presents a new scenario where you must figure out how to bypass the narrator's attempts to stop you from playing.
+核心玩法是点选式互动：你需要用各种出人意料的方式点击、拖拽并摆弄屏幕元素来解谜推进。游戏频繁打破第四面墙，很多时候要跳出常规思路，甚至无视旁白的“劝退”指令。每个“关卡”都会给出一个新场景，你要想办法绕过旁白阻止你游玩的各种手段。
 - **听旁白又要怀疑旁白：** 旁白会不断给你提示、干扰甚至误导，有时要按照它说的去做，有时要反其道而行；
 - **善用所有界面元素：** 标题、按钮、选项、背景……几乎任何东西都有可能是谜题的一部分，不要只盯着“开始游戏”一类显眼元素；
 - **多尝试异常操作：** 比如拖走文字、敲碎面板、关掉窗口等“玩家平时不会这么干”的行为，往往是推进剧情的关键；
@@ -44,6 +44,6 @@ The core gameplay involves point-and-click interactions. You'll need to click, d
 
 
 
-The original "There is no game" is a relatively short experience, designed as a point-and-click adventure. There is also a longer, full-fledged sequel called "There Is No Game: Wrong Dimension."
+原版《There Is No Game》流程相对较短，定位更像点选式解谜小品；此外还有更长、更完整的续作《There Is No Game: Wrong Dimension》（错误维度）。
 
-**How long is the game?**
+**游戏流程大概多久？**

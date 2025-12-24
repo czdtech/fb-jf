@@ -26,13 +26,13 @@ releaseDate: 2025-10-17T00:00:00.000Z
     - **利用边缘与空区：** 当屏幕中心过于混乱时，可以暂时向边缘撤离，在空旷地带整理节奏，等待下一波更易处理的刷怪。 
 
 
-- **Know When to Grab XP:** Sometimes it's dangerous to grab the XP gems immediately. It can be a good strategy to clear a large area first, then sweep back through to collect all the gems in safety.
+- **把握捡经验的时机：** 有时立刻去捡经验宝石反而更危险。更稳的打法是先清出一片安全区域，再回头把宝石一次性收掉。
 
-- **Keep Moving:** Never stand still. The enemies will swarm your last known position. Constant movement is key to staying alive, especially in the later stages when the screen is full of enemies.
+- **保持移动：** 别站着不动。敌人会向你最后的位置聚集。持续移动是生存关键，尤其后期满屏怪时更要保持走位。
 ### 操作说明
 
 
-The game uses simple movement controls.
+本作使用非常直观的移动操作。
 *   **移动：** 使用方向键或 WASD 控制飞船在平面上移动。
 *   **射击：** 多数版本支持自动射击，也有部分需要按住鼠标或按键持续开火，具体以游戏提示为准。
 *   **拾取道具：** 接近漂浮的强化道具即可自动拾取，生效方式视图标类型而定。
@@ -40,20 +40,19 @@ The game uses simple movement controls.
 ### 常见问题解答（FAQ）
 
 
-- **A:** To survive for a specific amount of time (e.g., 15 or 30 minutes) or, in endless mode, to survive for as long as you possibly can against infinite waves of enemies.
+- **答：** 目标是在规定时间内存活（例如 15 或 30 分钟）；在无尽模式中，则尽可能在无限敌潮下活得更久。
 
-    - **Q: What is the goal of the game?**
+    - **问：游戏目标是什么？**
 
-- **A:** By collecting the blue experience gems dropped by enemies. When your XP bar at the top is full, you will level up and be presented with a random selection of new weapons or upgrades to choose from.
+- **答：** 通过收集敌人掉落的蓝色经验宝石。顶部的经验条满了就会升级，并从随机出现的新武器或升级中选择其一。
 
-    - **Q: How do I get new weapons and abilities?**
+    - **问：如何获得新武器和能力？**
 
-- **A:** You don't! The fun of a "survivor" style game is that all your weapons fire on their own. Your only job is to focus on expert movement and dodging.
+- **答：** 你不需要手动射击！“幸存者”玩法的乐趣就在于武器会自动开火。你只需要专注走位与躲弹。
 
-    - **Q: How do I shoot?**
-**问：游戏的最终目标是什么？****
-答：** 在不断增强的敌浪中尽可能存活更长时间，刷出更高的生存时长和击毁数量记录。
+    - **问：我怎么射击？**
+**问：游戏的最终目标是什么？**  
+**答：** 在不断增强的敌浪中尽可能存活更长时间，刷出更高的生存时长和击毁数量记录。
 
-**问：被击毁后还有保留要素吗？****
-答：** 视具体版本而定，有的会在局间保留部分升级或解锁新飞船，有的则是纯粹的单局生存挑战。
-
+**问：被击毁后还有保留要素吗？**  
+**答：** 视具体版本而定，有的会在局间保留部分升级或解锁新飞船，有的则是纯粹的单局生存挑战。

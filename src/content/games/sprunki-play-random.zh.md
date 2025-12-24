@@ -10,17 +10,17 @@ score: "4.5/5  (614 票)"
 tags: ["sprunki play random", "sprunki play random online"]
 ---
 
-### Sprunki Play Random 介绍（Introducing to Sprunki Play Random）
+### Sprunki Play Random 介绍
 
 Sprunki Play Random 是一款充满惊喜和乐趣的音乐创作游戏。如果你喜欢挑战和探索，那么 Sprunki Play Random 绝对适合你！快来加入 Sprunki Play Random，让随机的声音点燃你的音乐灵感，创作独特的音乐作品！
 
-### Sprunki Play Random 有什么神奇之处？（What's So Magical About Sprunki Play Random?）
+### Sprunki Play Random 有什么神奇之处？
 
 简单来说，Sprunki Play Random 将音乐创作变成了一场充满未知的冒险。你永远不知道下一个角色会发出什么声音，而你需要做的就是用这些随机的声音创作独特的音乐作品！
 
 ---
 
-### 如何玩 Sprunki Play Random？（How to Play Sprunki Play Random?）
+### 如何玩 Sprunki Play Random？
 
 操作非常简单，用鼠标或手指就能轻松完成：
 
@@ -29,7 +29,7 @@ Sprunki Play Random 是一款充满惊喜和乐趣的音乐创作游戏。如果
 - **移除角色：** 双击/双击来从舞台上移除角色。
 - **菜单：** 点击菜单图标来保存、重新开始或分享你的作品。
 
-### 开始你的随机音乐之旅（Start Your Random Music Journey）
+### 开始你的随机音乐之旅
 
 - **点击播放：** 点击播放按钮进入随机音乐创作舞台。
 - **拖放：** 从屏幕底部的面板中选择一个角色，将其拖到舞台上开始他们的循环声音。
@@ -39,7 +39,7 @@ Sprunki Play Random 是一款充满惊喜和乐趣的音乐创作游戏。如果
 
 ---
 
-### Sprunki Play Random 游戏技巧（Tips for Playing Sprunki Play Random）
+### Sprunki Play Random 游戏技巧
 
 - **尝试不同的排列：** 角色的位置会影响最终的音效，大胆尝试找到最合适的排列！
 - **注重平衡：** 结合节拍、旋律和人声，创作更丰富的音乐作品。
@@ -47,7 +47,7 @@ Sprunki Play Random 是一款充满惊喜和乐趣的音乐创作游戏。如果
 - **从少量角色开始：** 先用较少的角色构建你的音乐，这样你可以更好地控制整体效果。
 - **重复游玩发现秘密：** 随机声音使每次游戏都充满惊喜，不断重复游玩来发现隐藏的彩蛋！
 
-### Sprunki Play Random 的亮点（Highlights of Sprunki Play Random）
+### Sprunki Play Random 的亮点
 
 - **独特的随机性：** 每次创作都是全新的体验，让你始终充满期待。
 - **简单易用的操作：** 延续 Incredibox 的经典玩法，让你轻松上手。

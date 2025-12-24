@@ -21,7 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ### 游玩策略
 
 
-The most common game mode is Turf War, a 4v4 battle where the team that covers the highest percentage of the map with their ink in three minutes wins.
+最常见的模式是 Turf War（涂地对战）：4v4 对抗，在 3 分钟内把更多地面涂成己方颜色的一队获胜。
 1.  **涂地优先于刚枪：** 在常规涂地模式中，占地面积通常比单纯击杀更重要。没必要全场追着人打，优先把关键区域刷上自家颜色。
 2.  **善用墨水移动：** 在己方颜料中可以潜行移动，速度快且不易被发现，还能快速回复弹药。多利用地面上的自家墨水进行突击与撤退。
 3.  **根据武器定位站位：** 近战武器更偏向前排压制与抢点，远程狙墨则适合在制高点提供火力支援和区域封锁，根据手中武器决定自己的站位和节奏。
@@ -30,14 +30,14 @@ The most common game mode is Turf War, a 4v4 battle where the team that covers t
 ### 操作说明
 
 
-While specific controls can vary, they are generally based on standard shooter layouts:
+具体按键可能因版本不同而变化，但整体遵循常见射击游戏布局：
 *   **移动与视角：** 使用方向键或摇杆移动角色，配合鼠标或右摇杆控制视角；
 *   **射击 / 涂地：** 按下射击键发射墨水，对敌人造成伤害并为地面上色；
 *   **潜行：** 在己方颜色区域按下潜行键可以以乌贼形态游动，加快移动并隐藏身形；
 *   **大招 / 特殊武器：** 在能量条充满后按下相应按键释放强力大招。
 
 
-- **Jump:** `Spacebar` (when in kid form)
+- **跳跃：** `Spacebar`（人形状态）
 ### 常见问题解答（FAQ）
 
 **问：打不过对面怎么办？****
@@ -48,6 +48,5 @@ While specific controls can vary, they are generally based on standard shooter l
 
 
 
-Both are important! Splatting opponents temporarily removes them from the field, giving your team an opportunity to cover more turf uncontested. However, the ultimate winner is decided by ink coverage, so don't neglect painting the ground.
-
-**Is it better to cover turf or splat opponents?**
+**问：涂地和击杀哪个更重要？**
+答：** 二者都重要。击败对手能让对方暂时离场，给你们争取一段安全涂地的窗口；但最终胜负仍由颜料覆盖率决定，所以别只顾打架而忽略了“刷地盘”。

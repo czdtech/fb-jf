@@ -34,12 +34,13 @@ releaseDate: 2025-10-17T00:00:00.000Z
 *   **暂停与重试：** 通过界面按钮暂停游戏或重新开始关卡。
 
 ### 常见问题解答（FAQ）
-*   **问：连锁反应有什么好处？****
-    *   答：** 连锁不仅能一次性清掉更多弹珠，还能让弹珠链整体大幅后退，为你争取更多反应时间和操作空间。
-*   **问：后期弹珠速度很快怎么办？****
-    *   答：** 尽量提升自己的精准度和颜色管理能力，优先打出能触发连锁的组合，而不是随便往空隙中填弹珠。
+*   **问：游戏的目标是什么？**
+    *   **答：** 在任何一颗弹珠到达终点洞口之前，消除整条移动的诅咒弹珠链。
+
+*   **问：如果弹珠到达终点会怎样？**
+    *   **答：** 本关失败，需要重新开始。
+
+*   **问：怎样才能拿到最高分？**
+    *   **答：** 通过制造更长的连锁反应与连击。短时间内消除越多，分数倍率越高；尽快通关通常也会带来时间加成。
 
 
-- **A:** By creating long chain reactions and combos. The more marbles you can pop in quick succession, the higher your score multiplier will be. Also, finishing the level quickly often provides a time bonus.
-
-    - **Q: How do I get the highest score?**

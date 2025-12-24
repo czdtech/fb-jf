@@ -21,7 +21,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ### 游玩策略与对战指引
 
 
-Like its inspiration, the goal is to launch opponents off the screen by increasing their damage percentage.
+和它的灵感来源一样，核心目标是通过打高对手的伤害百分比，把对手击飞出屏幕边界。
 1.  **熟悉角色招式表：** 不同角色在攻击距离、速度和必杀技判定上差别很大，先在练习或人机对战中熟悉连招与收招硬直。
 2.  **保持落点安全：** 被击飞后要尽快用二段跳、冲刺或特殊技能回到场地，避免被对手“边缘守株待兔”。
 3.  **读对手节奏：** 观察对手偏好的起手方式与防守习惯，提前预判并用防御/闪避惩罚其贪刀行为。
@@ -30,23 +30,23 @@ Like its inspiration, the goal is to launch opponents off the screen by increasi
 ### 操作说明
 
 
-Controls are fully customizable. A common default layout for Player 1 is:
+按键设置通常支持自定义。玩家 1 常见默认键位如下：
 *   **移动与跳跃：** 使用方向键或 WASD 控制角色移动与跳跃；
 *   **攻击与必杀：** 通过攻击键与技能键分别释放普攻、重击和必杀技，具体键位以游戏内说明为准；
 *   **防御 / 闪避：** 一般会有专门的防御或闪避键，适时使用可大幅减少失误成本。
 
 
-- **Pause:** `Enter`
+- **暂停：** `Enter`
 
-- **Grab:** `U`
+- **抓取：** `U`
 
-- **Shield:** `L`
+- **防御/护盾：** `L`
 
-- **Special Attack:** `K`
+- **必杀技：** `K`
 
-- **Standard Attack:** `J`
+- **普通攻击：** `J`
 
-- **Jump:** `Spacebar`
+- **跳跃：** `Spacebar`
 ### 常见问题解答（FAQ）
 
 **问：v0.9 和正式版有什么区别？****
@@ -57,6 +57,5 @@ Controls are fully customizable. A common default layout for Player 1 is:
 
 
 
-Yes, the development team at McLeodGaming continues to release updates, adding new characters, stages, and features to the game.
-
-**Is this game still being updated?**
+**问：这款游戏还在更新吗？**
+答：** 是的。McLeodGaming 团队仍在持续发布更新，不断加入新角色、新关卡与新功能。

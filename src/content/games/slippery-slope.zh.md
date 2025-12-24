@@ -37,18 +37,13 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ### 常见问题解答（FAQ）
 
 1.  **问：高速时如何保持可控？**  
+    **答：** 提前规划路线，用小幅方向微调代替急转弯，并保持冷静，避免慌乱操作。  
 
+2.  **问：撞到障碍会怎样？**  
+    **答：** 撞到障碍通常会让你减速、丢分，或直接导致失败/游戏结束，具体取决于版本规则。  
 
-**A**: By completing quickly, avoiding collisions, collecting reward items, and performing special trick moves to improve scores.
+3.  **问：游戏里有不同的坡道吗？**  
+    **答：** 通常会包含多条难度与设计不同的雪坡路线，每条都有各自的挑战点。  
 
-- **Q: How can I achieve higher scores?**
-
-**A**: Typically includes multiple slopes with different difficulties and designs, each with unique challenges.
-
-- **Q: Are there different slopes in the game?**
-
-**A**: Hitting obstacles will slow you down, lose points, or cause game over, depending on game settings.
-
-- **Q: What happens if I hit obstacles?**
-
-**A**: Plan your path in advance, use small directional adjustments rather than sharp turns, and stay calm.
+4.  **问：怎样才能获得更高分？**  
+    **答：** 尽快完赛、避免碰撞、收集奖励物品，并适当做出特技动作，都有助于提升得分。  

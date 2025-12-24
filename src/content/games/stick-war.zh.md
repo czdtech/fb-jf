@@ -21,7 +21,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ### 游玩策略与战术指引
 
 
-The core of the game revolves around managing resources and commanding your army.
+游戏的核心在于资源管理与部队指挥：经济滚起来，你的兵线和科技才能跟得上对抗强度。
 1.  **经济优先：** 开局先确保有足够工人稳定采集资源，经济基础打好后，才能持续产兵，而不会打一波就“断粮”。
 2.  **兵种搭配：** 单一兵种往往难以应付多样化敌军，尝试用肉盾 + 远程输出 + 特殊单位的组合来提高整体战斗力。
 3.  **掌握进攻节奏：** 不要在兵力太少时就盲目冲锋，也不要在优势时过长时间拖延。根据双方兵力对比，在对你有利的时间点发起总攻。
@@ -43,6 +43,5 @@ The core of the game revolves around managing resources and commanding your army
 
 
 
-It is highly recommended to spend your first upgrade points on your Miners' bags and your statue's income to accelerate your economy. After that, focus on upgrading the units you use most often.
-
-**What should I upgrade first?**
+**问：优先升级什么比较划算？**
+答：** 通常建议把第一批升级点投入到矿工的采集效率（例如矿袋容量）和基地/雕像的经济收益上，让经济尽快起飞。之后再重点强化你最常用的兵种，把资源投入到最能打出效果的单位上。

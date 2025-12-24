@@ -26,29 +26,27 @@ releaseDate: 2025-08-16T00:00:00.000Z
 4.  **视线放宽：** 尽量同时关注蛇头前方和整体蛇身位置，避免在加速或快速转弯时不小心撞到自己。
 
 
-- **Body Management**: As the snake body gets longer, manage the snake's body position more carefully.
+- **身体管理：** 蛇身越长，越要更谨慎地规划身体位置，避免把自己封死。
 ### 操作说明
 
 *   **移动：** 使用方向键或 WASD 控制蛇头移动方向，蛇身会自动跟随。
 *   **节奏控制：** 某些版本支持改变速度或开启加速模式，可根据自身手速调节合适难度。
 
 
-- **Move Right**: Press right arrow key or D key to move right.
+- **向右移动：** 按右方向键或 `D` 键向右。
 
-- **Move Left**: Press left arrow key or A key to move left.
+- **向左移动：** 按左方向键或 `A` 键向左。
 ### 常见问题解答（FAQ）
 
 
-- **Q: Does the snake's movement speed change?**
-**问：能不能穿墙？****
+- **问：蛇的移动速度会变化吗？**  
+    **答：** 部分版本会随着分数或时间增长逐渐加速，以提升挑战难度。
 
-- **Q: How do I get higher scores?**
-答：** 视具体规则而定，有的版本允许从一侧穿出并从另一侧出现，有的则会在撞墙时直接结束游戏，开始前可以留意提示。
+- **问：怎样获得更高分？**  
+    **答：** 多吃食物让蛇变长并避免死亡；每个食物通常提供固定分数。
 
+- **问：游戏有通关/结局条件吗？**  
+    **答：** 蛇撞墙或撞到自己身体就会结束；理论上可以无限继续下去。
 
-- **Q: Are there ending conditions for the game?**
-**问：有什么简单的提高成绩技巧？****
-
-- **Q: Are there different game modes?**
-答：** 前期可以在地图空旷处绕大圈，避免频繁进入角落；长度变长后，学会让蛇身保持“整齐的蛇形”，为临时转向留出缓冲空间。
-
+- **问：有不同游戏模式吗？**  
+    **答：** 经典版本通常只有一种模式，但现代版本可能加入不同挑战与变体。

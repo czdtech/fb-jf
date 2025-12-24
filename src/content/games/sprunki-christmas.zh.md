@@ -12,7 +12,7 @@ tags: ["sprunki christmas"]
 
 准备好迎接一场充满节日氛围的音乐冒险了吗？Sprunki Christmas 将带你进入一个充满欢乐和兴奋的 Sprunki 宇宙，在这里你将踏上一段有趣的冒险，包括谜题、挑战和圣诞主题的收藏品。这款游戏结合了充满活力的视觉效果、迷人的角色和引人入胜的玩法，为所有年龄段的玩家带来愉悦的体验。
 
-### 如何玩 Sprunki Christmas？（How to Play Sprunki Christmas?）
+### 如何玩 Sprunki Christmas？
 
  - **目标：** 帮助 Sprunki 角色通过完成关卡、收集礼物和克服冬季主题挑战来传播节日欢乐。
  **游戏机制：** 
@@ -23,7 +23,7 @@ tags: ["sprunki christmas"]
  
   - **特别活动：** 参与限时节日挑战，赢取独家奖励。
 
-### 游戏特色（Features of the Game）
+### 游戏特色
 
 - **节日主题视觉：** 精美设计的冬季仙境，有雪、灯光和节日装饰。
 - **迷人的角色：** 遇见穿着可爱节日服装的 Sprunki Rejoyed 角色。

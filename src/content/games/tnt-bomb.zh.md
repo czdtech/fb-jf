@@ -33,14 +33,14 @@ releaseDate: 2025-10-17T00:00:00.000Z
 *   **引爆：** 所有炸药布置完成后，点击“Boom/Detonate”按钮触发爆炸，观察建筑倒塌效果。
 
 ### 常见问题解答（FAQ）
-*   **问：总是刚好差一点达不到破坏要求怎么办？****
-    *   答：** 说明炸药布置还不够精确，可以尝试将主炸弹更靠近核心支撑，并利用连锁坍塌来放大爆炸效果，而不是平均分散威力。
+*   **问：总是刚好差一点达不到破坏要求怎么办？**  
+    *   **答：** 说明炸药布置还不够精确，可以尝试将主炸弹更靠近核心支撑，并利用连锁坍塌来放大爆炸效果，而不是平均分散威力。
 
 
-- **A:** Yes, you must place all the bombs provided in your inventory for that level before you can detonate them.
+- **问：我可以放置多于一颗炸弹吗？**
 
-    - **Q: Can I place more than one bomb?**
+    - **答：** 可以。你需要在引爆前把本关提供的所有炸弹都放置完。
 
-- **A:** You likely placed your bombs in an ineffective location. Try placing them lower down on the main support blocks instead of on the outer walls or at the top.
+- **问：为什么建筑没有倒塌？**
 
-    - **Q: Why didn't the building fall down?**
+    - **答：** 你很可能把炸药放在了不够关键的位置。尝试把炸药放在更低的主支撑块上，而不是外墙或顶部结构。

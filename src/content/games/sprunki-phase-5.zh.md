@@ -10,13 +10,13 @@ score: "4.0/5  (604 票)"
 tags: ["sprunki phase 5", "sprunki phase 5 online"]
 ---
 
-### Sprunki Phase 5 介绍（Introducing to Sprunki Phase 5）
+### Sprunki Phase 5 介绍
 
 Sprunki Phase 5 是一款粉丝制作的音乐创作游戏，将基于节奏的创意与诡异的氛围转折相结合。作为 Sprunki Definitive 系列的一部分，这款游戏保留了叠加节拍和旋律的核心机制，但引入了更黑暗、更沉浸的体验。凭借诡异的视觉效果和令人难忘的音效，玩家可以创作出令人不安却又引人入胜的音乐作品。
 
 ---
 
-### Sprunki Phase 5 玩法（Sprunki Phase 5 Gameplay）
+### Sprunki Phase 5 玩法
 
 Sprunki Phase 5 中增强的声音库提供了更多样化的创作选项。以下是如何开始：
 
@@ -28,6 +28,6 @@ Sprunki Phase 5 中增强的声音库提供了更多样化的创作选项。以�
 
 ---
 
-### 解锁新声音和效果（Unlock New Sounds and Effects）
+### 解锁新声音和效果
 
 在 Sprunki Phase 5 中进步可以让你解锁更多令人难忘的声音并扩展你的创作可能性。每个新角色都带来独特的音频元素，从深沉、失真的低音到幽灵般的嗡嗡声和诡异的合成器。这些新增内容使玩家能够尝试不同的风格，从悬疑恐怖主题到催眠般的氛围节拍。

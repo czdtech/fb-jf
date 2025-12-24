@@ -20,14 +20,15 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 ### 游玩指南
 
+游戏会给你一连串选择题，你的目标是在不被淘汰的情况下答完全部 110 题。
 
-The game presents a series of multiple-choice questions. Your goal is to answer all 110 questions.
+- **生命：** 开局通常有 3 条生命，答错会扣 1 条；生命耗尽即失败。
+- **炸弹：** 部分题目带倒计时炸弹，时间到会直接判失败（即使你还有生命）。
+- **跳过（Skips）：** 你会获得有限次数的跳过机会，用来绕过某些几乎只能靠跳过才能通过的题目。建议留到后期，尤其是最后一题附近再用。
+- **检查点（存档点）：** 在某些版本里，它们相当于存档点：生命耗尽后可以从更靠后的题目重新开始。
+
 - **题目形式多变：** 有的是纯文字问题，有的是图片，有的则需要你在界面上拖动、长按或点击奇怪位置才能触发正确答案；
-- **生命有限：** 你通常只有少量生命（机会），答错几次就要从头开始；
 - **记忆和试错同样重要：** 很多题目初见几乎不可能靠纯推理完成，需要经历失败后记下答案，下一次再一口气通过前面关卡。
-
-
-- **Moron Marks:** In some versions, these act as checkpoints, allowing you to restart from a later question if you lose all lives.
 ### 策略与小提示
 
 1.  **不要只按“正常理解”作答：** 若题目看上去非常直白，往往意味着正确答案在选项之外，或藏在界面某个角落。
@@ -37,26 +38,19 @@ The game presents a series of multiple-choice questions. Your goal is to answer 
 
 ### 操作说明
 
-
-Always read questions very carefully, as they often contain hidden clues or double meanings. Don't be afraid to try seemingly illogical answers. Pay attention to the screen for interactive elements, and remember that some questions require precise timing or clicking.
-
-**Are there any tips for playing?**
-
-Skips allow you to bypass a question. It's crucial to save them for specific questions that are truly impossible to answer without them, especially the final question.
-
-**What are "Skips" for?**
-
-It's called "Impossible" because many questions are designed to be misleading, require unconventional thinking, or rely on puns and visual gags rather than straightforward knowledge.
-
-**Why is it called "The Impossible Quiz"?**
 *   **作答：** 用鼠标点击选项或指定区域；
 *   **特殊交互：** 少数题目会要求拖动、长按或键盘输入，需根据题目提示尝试。
 
 ### 常见问题解答（FAQ）
 
-**问：这游戏真的“不可解”吗？****
-答：** 并非数学意义上的“不可解”，而是很多题目初见很难想到正确解法，往往需要多次试错和记忆。
+**为什么叫《The Impossible Quiz》？**
 
-**问：英文不好能玩吗？****
-答：** 可以尝试，但因为题目中存在大量英文双关梗，可能会错过一些笑点或提示。
+因为很多题目故意误导，要求你跳出常规思维；不少答案依赖双关、视觉梗或隐藏交互，而不是单纯的知识问答。
 
+**“跳过”有什么用？**
+
+“跳过”可以让你直接绕过某道题。一定要把它留给那些不跳过几乎无法通过的题目，尤其是最后一题附近。
+
+**有没有通关小技巧？**
+
+仔细读题，很多线索藏在文字里；别害怕尝试看似离谱的选项；多留意屏幕上的可交互元素。有些题还要求你把握点击时机或精准点选。

@@ -28,7 +28,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ### 操作说明
 
 
-Controls are designed to be simple and intuitive:
+操作设计得简单直观：
 *   **移动：** 使用方向键或虚拟摇杆控制角色左右移动、前后站位；
 *   **击球：** 在球接近时按下击球键完成回球，不同按键或按压时机可能对应不同类型的击球（平击、高吊等）。
 
@@ -42,6 +42,6 @@ Controls are designed to be simple and intuitive:
 
 
 
-Many classic tennis games feature a 2-player mode where you can compete against a friend on the same keyboard.
+不少网球游戏会提供双人模式，让你和朋友在同一键盘上对战。
 
-**Can I play against another person?**
+**可以和朋友进行双人对战吗？**

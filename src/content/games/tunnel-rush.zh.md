@@ -26,27 +26,25 @@ releaseDate: 2025-08-16T00:00:00.000Z
 4.  **适当调整灵敏度（若支持）：** 如果觉得视角移动过快或过慢，可以在设置中微调灵敏度，以匹配自己的反应习惯。
 
 
-- **Muscle Memory**: Build muscle memory through repeated practice to improve reaction accuracy.
+- **肌肉记忆：** 通过反复练习建立肌肉记忆，提高反应的准确性。
 ### 操作说明
 
 *   **左右移动：** 在 PC 上通过左右方向键或 A/D 控制，在移动端则可通过左右滑动屏幕控制视角移动；
 *   **暂停 / 重开：** 利用界面按钮暂停游戏或在撞击后立即重试。
 
 
-- **Stay Centered**: Try to stay in the center of the tunnel when there are no obstacles.
+- **保持居中：** 没有障碍时尽量保持在隧道中央，方便下一步左右闪避。
 ### 常见问题解答（FAQ）
 
 
-- **Q: Will the speed keep increasing?**
-**问：速度越来越快根本反应不过来怎么办？****
+- **问：速度会一直变快吗？**  
+    **答：** 会。游戏会随着时间逐渐加速，以提升挑战难度。
 
-- **Q: How can I improve survival time?**
-答：** 尝试在前期养成“看远 + 平滑移动”的习惯，随着熟练度提升大脑对速度的适应会更好。
+- **问：怎样提升生存时间？**  
+    **答：** 多练习提升反应速度，并学会预判障碍出现的节奏与模式。
 
+- **问：撞到障碍会怎样？**  
+    **答：** 触碰到任何障碍通常都会直接失败并需要重开。
 
-- **Q: What happens if I hit an obstacle?**
-**问：有终点吗？****
-
-- **Q: Does the game have an ending?**
-答：** 《Tunnel Rush》主要是无尽模式，目标是刷新自己坚持的距离与得分纪录。
-
+- **问：游戏有终点吗？**  
+    **答：** 这是无尽模式，理论上可以一直玩下去；挑战在于你能坚持多久、拿到多高分。

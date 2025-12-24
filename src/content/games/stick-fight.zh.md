@@ -21,7 +21,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ### 游玩策略与对战指引
 
 
-The objective in each round is to eliminate your opponents by knocking them out of the arena or depleting their health.
+每一回合的目标都很简单：把对手击飞出场外，或是打空对方的生命值，从而淘汰对手。
 1.  **优先熟悉基础操作：** 在追求华丽击杀前，先熟悉移动、跳跃、蹲伏与基本攻击，让自己不会因为手忙脚乱而被环境先“教育”。
 2.  **抢夺武器：** 地图上随机掉落的枪械、刀刃或特殊武器往往能瞬间改变战局。尽量在安全前提下抢先拿到武器，再寻找输出机会。
 3.  **充分利用地形：** 有些关卡会有会坍塌的平台、可反弹的墙面或会移动的障碍，学会利用环境来逼对手失足，比硬刚更有效。
@@ -30,25 +30,25 @@ The objective in each round is to eliminate your opponents by knocking them out 
 ### 操作说明
 
 
-Controls are typically based on a standard 2D platformer layout:
+操作通常沿用常见的 2D 平台动作布局：
 *   **移动：** 使用方向键或 WASD 控制火柴人的移动与跳跃；
 *   **攻击 / 拾取：** 通过指定攻击键进行拳打脚踢，靠近武器时按键拾取并使用；
 *   **特殊动作：** 部分武器或关卡会提供额外能力，具体以游戏内提示为准。
 
 
-- **Block:** `Right Mouse Button` or `G`
+- **格挡：** 鼠标右键 或 `G`
 
-- **Attack:** `Left Mouse Button` or `F`
+- **攻击：** 鼠标左键 或 `F`
 ### 常见问题解答（FAQ）
 
-**问：总是刚出生就被集火怎么办？****
-答：** 尝试在开局先拉开一点距离，利用场景掩体或高低差躲避前几轮爆发，再伺机加入战团。
+**这款游戏的核心目标是什么？**
 
-**问：游戏更偏向技术还是运气？****
-答：** 二者都有。熟练的操作和走位能显著提升生存率，但随机武器与可破坏地形也会创造许多“意外名场面”，更适合作为轻松娱乐型对战。
+每一回合的目标都很简单：把对手击飞出场外，或打空对方的生命值，从而淘汰对手，成为最后存活的玩家。
 
+**可以和朋友一起玩吗？**
 
+多数版本主打多人对战，通常支持 2–4 人本地同屏或在线对战（具体以托管平台版本为准）。
 
-The game features a huge arsenal of weapons, ranging from melee weapons like swords and spears to projectile weapons like handguns, shotguns, and even snake-firing bazookas.
+**游戏里有哪些武器？**
 
-**What kind of weapons are in the game?**
+武器库非常丰富，从剑、矛等近战武器，到手枪、霰弹枪等远程武器，甚至还有能发射蛇的火箭筒等“整活”装备。

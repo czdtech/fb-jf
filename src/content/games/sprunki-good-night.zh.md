@@ -10,7 +10,7 @@ score: "4.2/5  (227 票)"
 tags: ["sprunki good night"]
 ---
 
-### 如何在 Sprunki Good Night 中创作？（How to Create in Sprunki Good Night?）
+### 如何在 Sprunki Good Night 中创作？
 
 操作非常简单，只需掌握以下几点：
 
@@ -19,7 +19,7 @@ tags: ["sprunki good night"]
 - **探索：** 通过流畅地融合声音，发现隐藏的夜间效果，如远处的蟋蟀声、轻柔的雨声或摇篮曲的回响。
 - **调整：** 调整你的混音，完全拥抱 Good Night 的平静和舒缓本质。
 
-### Sprunki Good Night 的亮点（Highlights of Sprunki Good Night）
+### Sprunki Good Night 的亮点
 
 - **温柔的摇篮曲：** 这款 Mod 非常适合放松、冥想或进入一个平和的音乐景观。
 - **舒缓的音效：** 混音具有平和的氛围，让你在游戏过程中感到放松。

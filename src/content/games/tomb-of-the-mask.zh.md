@@ -26,7 +26,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 4.  **注意节奏与陷阱时机：** 某些机关具有节奏性（如周期出现的尖刺、定时移动的敌人），在滑行前把握好它们的开合节奏。
 
 
-- **Outrun the Flood:** A colored flood rises from the bottom of the screen, forcing you to move quickly upwards.
+- **躲避洪水：** 彩色洪水会从屏幕底部不断上升，逼你快速向上推进。
 ### 操作说明
 
 *   **移动：** 通过方向键或滑动屏幕，向上/下/左/右划动一次即可让角色朝该方向滑行直到受阻；
@@ -42,6 +42,6 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-Yes, as you progress and collect coins, you can unlock various masks. Each mask might offer a unique ability or bonus, adding a strategic layer to your runs.
+有的。随着推进并收集金币，你可以解锁多种面具；不同面具可能带来独特能力或加成，让跑关更有策略性。
 
-**Are there different masks?**
+**有不同的面具可以解锁吗？**

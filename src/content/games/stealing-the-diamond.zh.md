@@ -34,21 +34,17 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - **鼠标：** 使用鼠标点击你想要的选项或按钮即可推进剧情，无需复杂操作。
 
 ### 常见问题解答（FAQ）
-*   **问：一共有几种成功结局？****
-    *   答：** 游戏中共有三种成功路线：
-"Aggressive"（强攻）结局；
-"Undetected"（无声无息）结局；
-"Epic"（史诗级）结局。
-你可以通过不同的决策组合体验完全不同的偷盗风格。
-*   **问：这种游戏是不是很快就玩完了？****
-- 答：** 如果只走一条成功路线，流程确实不长，但本作的价值在于“全分支体验”，尝试所有失败和隐藏选项会让整体游玩时间大幅增加。
-*   **问：需要解谜技巧吗？****
+**一共有几种成功结局？**
 
-Yes, Stealing the Diamond is the third game in the popular Henry Stickmin series, following *Breaking the Bank* and *Escaping the Prison*.
+本作共有三种成功结局路线：
+- “强攻”结局
+- “潜入”结局
+- “史诗”结局
 
-**Is this part of a series?**
+**这么多“失败画面”有什么意义？**
 
-The numerous and humorous fail screens are a core part of the game's charm and comedy. Finding all 40+ fails is a key objective for many players and is necessary for 100% completion.
+大量离谱又好笑的失败画面本身就是游戏的核心魅力之一。很多玩家会把“把所有失败都刷出来”当作目标；收集齐全部失败也是达成 100% 完成度的重要部分。
 
-**What is the point of all the "Fails"?**
-    *   答：** 部分选择会考验你对情境的理解和一点点“常识推理”，但更多时候就是愉快地试错和享受梗与动画，不必太有压力。
+**这是系列作品的一部分吗？**
+
+是的。《Stealing the Diamond》属于 Henry Stickmin 系列作品；前两部通常是 *Breaking the Bank* 和 *Escaping the Prison*。

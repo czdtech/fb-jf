@@ -21,7 +21,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ### 游玩策略与滑行指引
 
 
-The main goal is to score as many points as possible before you reach the end of the track or crash.
+核心目标是在到达终点或撞车之前，尽可能获得更高分数。
 1.  **提前观察道路：** 尽量把视线放在角色前方更远的位置，提前发现前方车辆或弯道，为减速或转向争取时间。
 2.  **轻打方向而非猛拐：** 倾向使用小幅度方向调整来贴边过弯，而不是在临近弯角时猛然转动，后者很容易失控冲出护栏。
 3.  **合理利用漂移与刹车：** 在比较急的弯道前适当减速或漂移，可以更好地控制过弯角度，同时保持一点帅气度。
@@ -34,9 +34,9 @@ The main goal is to score as many points as possible before you reach the end of
 *   **收集：** 滑过金币或道具即可自动拾取。
 
 
-- **Pause:** `Esc`
+- **暂停：** `Esc`
 
-- **Speed Stance:** `W` or `Up Arrow Key` (Hold to break through certain obstacles)
+- **加速姿态：** `W` 或 `Up Arrow Key`（长按可冲破部分障碍）
 ### 常见问题解答（FAQ）
 
 **问：这游戏主要是闯关还是刷分？****
@@ -47,6 +47,6 @@ The main goal is to score as many points as possible before you reach the end of
 
 
 
-Yes, by earning points and completing objectives, you can unlock new clothing items and longboard parts to customize Tanuki's look.
+可以。通过得分并完成目标，你能解锁新的服饰和长板部件，用来定制 Tanuki 的外观。
 
-**Can I customize my raccoon?**
+**可以自定义 Tanuki 的外观吗？**

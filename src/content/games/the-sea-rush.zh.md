@@ -20,8 +20,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### 游玩策略与通关指引
 
-
-Use a mouse click or touchscreen swipe to swap adjacent sea animals. Aligning three or more similar animals clears them. Clearing multiple blocks simultaneously yields more points. As you accrue points, you proceed to the next difficulty level, with the game becoming increasingly challenging. Strategic thinking is required. Plan moves ahead and aim for alignments of more than three blocks for bonus points. Keep an eye on time limits and make swift moves to maximize your score.
+使用鼠标点击或触屏滑动来交换相邻的海洋动物。连成三个或以上相同动物即可消除。一次性清除多个方块会获得更多分数。随着分数累积，你会进入更高难度，游戏也会越来越有挑战。需要一定策略思考：提前规划步数，尽量凑出四连以上以获得额外加分。注意时间限制并尽量快速操作，以最大化得分。
 1.  **优先围绕目标行动：** 留意关卡目标是收集某种元素、清理障碍还是拿到一定分数，尽量让每一步消除都朝目标靠拢。
 2.  **制造与利用特殊方块：** 一次性消除 4 个或更多元素时通常能生成横线、竖线或炸弹类特别方块，合理组合这些特效可快速清屏。
 3.  **从底部制造连锁反应：** 在棋盘底部进行消除往往会触发更大范围的掉落和连锁，有利于节省步数。
@@ -35,16 +34,15 @@ Use a mouse click or touchscreen swipe to swap adjacent sea animals. Aligning th
 ### 常见问题解答（FAQ）
 
 
-- **A:** Clearing more than three animals at once or creating combos will award you with more points.
+- **问：怎么获得更多分数？**
 
-    - **Q: How do I get more points?**
+    - **答：** 一次性消除超过三个海洋动物或做出连击，会得到更多分数。
 
-- **A:** The main goal is to align three or more similar sea animals to score points and advance to the next level.
+- **问：游戏目标是什么？**
 
-    - **Q: What is the goal of the game?**
-**问：没有可消的组合时怎么办？****
-答：** 游戏通常会自动重新洗牌，生成新的可玩局面，你只需继续观察新布局即可。
+    - **答：** 主要目标是将三个或以上相同海洋动物对齐消除来得分，并推进到下一关。
+**问：没有可消的组合时怎么办？**  
+**答：** 游戏通常会自动重新洗牌，生成新的可玩局面，你只需继续观察新布局即可。
 
-**问：卡在某一关过不去怎么办？****
-答：** 可以尝试调整策略，多利用底部连锁和特效组合；若关卡允许使用道具，也可以在关键时刻消耗道具打开局面。
-
+**问：卡在某一关过不去怎么办？**  
+**答：** 可以尝试调整策略，多利用底部连锁和特效组合；若关卡允许使用道具，也可以在关键时刻消耗道具打开局面。

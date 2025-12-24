@@ -16,26 +16,22 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 ### 游戏介绍
 
-《Text Twist 2》是广受欢迎的英文拼词游戏续作，更考验词汇量与反应速度。每一轮会给出一组被打乱顺序的英文字母，你需要在计时结束前，用这些字母拼出尽可能多的合法单词。更重要的是，必须至少拼出一个使用了全部字母的“关键单词”（Bingo word）才能进入下一关。
+《Text Twist 2》是广受欢迎的英文拼词游戏续作，更考验词汇量与反应速度。每一轮会给出一组被打乱顺序的英文字母，你需要在计时结束前，用这些字母拼出尽可能多的合法单词。更重要的是，必须至少拼出一个使用了全部字母的“关键单词”才能进入下一关。
 
 > 注：本游戏对英文词汇量有一定要求，更适合当作英语单词练习或词汇游戏来体验。
 
 ### 游玩指南
 
 
-The core gameplay remains the same: form words from a given set of letters.
-- **目标：** 根据给出的字母组合拼单词，优先找到使用全部字母的 Bingo 单词，同时尽量多拼其他合法单词刷分。
-- **字母数量：** 一般会提供 6 或 7 个字母，可重复组合。
-    - **时间限制：** 每局通常有固定倒计时（如 2 分钟），时间到且未找到 Bingo 单词则本局结束。
-    - **得分规则：** 单词越长得分越高，完成所有可拼单词还可能获得额外加成。
-    - **“Twist” 功能：** 使用“Twist”按钮（或空格键）重新打乱字母顺序，有助于从新的角度看出隐藏单词。
-
-
-    - **"Twist" Feature:** The classic "Twist" button is still available to shuffle letters and spark new ideas.
-
-- **Broader Dictionary:** The game features an expanded dictionary, allowing for more word discoveries.
-
-- **Daily Word:** A new challenge each day.
+核心玩法依旧：从给定的一组字母中尽可能拼出更多有效单词。
+- **目标：** 找出 3 个字母以上的单词，并优先找到使用全部字母的 Bingo 单词以进入下一轮。
+- **新模式：** 《Text Twist 2》加入了多种玩法模式，包括：
+    - **无计时模式：** 不受倒计时限制，按自己的节奏慢慢拼。
+    - **闪电模式：** 以最短时间找出 Bingo 单词。
+    - **填字模式：** 用给定字母完成填字/交叉字谜。
+    - **每日挑战：** 每天都会有新的挑战内容。
+- **更大词库：** 词库更丰富，可以发现更多单词组合。
+- **“Twist” 功能：** 依然可以点击 `Twist`（或按 `Spacebar`）重新打乱字母顺序，帮助你换个角度找词。
 ### 操作说明
 
 - **输入单词：** 直接使用键盘输入你想到的英文单词；
@@ -53,4 +49,3 @@ The core gameplay remains the same: form words from a given set of letters.
 
 **问：是否有不同难度？****
 答：** 随着关卡推进，要求拼出的单词数量和复杂度都会逐渐提升，对单词量和反应速度的要求也会越来越高。
-

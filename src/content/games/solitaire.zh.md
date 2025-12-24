@@ -36,18 +36,13 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ### 常见问题解答（FAQ）
 
 1.  **问：什么是基础牌堆？**  
+    **答：** 基础牌堆是四个空位，需要按花色从 A 到 K 依次放入纸牌。  
 
+2.  **问：如何移动多张牌？**  
+    **答：** 只有按点数递减且红黑交错排列的连续序列才能一起移动。  
 
-**A**: Usually based on completion time, number of moves, and number of hints used.
+3.  **问：如果这局无解怎么办？**  
+    **答：** 并非所有牌局都有解；遇到无解局面时可以直接开新局。  
 
-- **Q: How does the scoring system work?**
-
-**A**: Not all card layouts have solutions; when encountering unsolvable situations, you can start a new game.
-
-- **Q: What if the game is unsolvable?**
-
-**A**: Only card sequences arranged in descending order with alternating suits can be moved together.
-
-- **Q: How do I move multiple cards?**
-
-**A**: Foundation piles are four empty spaces that need to be filled with cards by suit from A to K in order.
+4.  **问：计分系统是怎么算的？**  
+    **答：** 通常基于完成时间、操作步数以及使用提示的次数等因素综合计算。  

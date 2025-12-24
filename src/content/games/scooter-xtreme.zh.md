@@ -32,29 +32,28 @@ releaseDate: 2025-10-18T00:00:00.000Z
 *   **跳跃：** 在坡道或指定区域按下跳跃键，可以越过小坑、栏杆等障碍。
 
 
-- **Perform Tricks:** Use other designated keys (often shown on-screen) while in the air or on a rail to perform various stunts.
+- **做特技：** 在空中或滑杆上时，使用其他指定按键（通常会在屏幕上提示）来完成各种特技动作。
 
-- **Jump:** Press the **Spacebar** to jump.
+- **跳跃：** 按 **空格键（Spacebar）** 跳跃。
 ### 常见问题解答（FAQ）
 
 
-- **A:** By collecting coins scattered throughout the levels. Once you have enough, you can visit the in-game shop to purchase new gear and riders.
+- **答：** 通过收集关卡中散落的金币。攒够后即可前往游戏内商店购买新的装备和骑手。
 
-    - **Q: How do I unlock new characters and scooters?**
+    - **问：如何解锁新角色和滑板车？**
 
-- **A:** You will usually be reset to the last checkpoint you passed, but you will lose valuable time and your current combo streak.
+- **答：** 通常会把你重置到最近一次经过的检查点，但你会损失宝贵时间，也可能丢掉当前的连招倍率。
 
-    - **Q: What happens if I fall or crash?**
+    - **问：如果我摔倒或撞车会怎样？**
 
-- **A:** By performing long and varied combos. The more tricks you can string together without messing up, the higher your score multiplier will be.
+- **答：** 通过做更长、更丰富的连招。你能连续串联的特技越多、越少失误，得分倍率就越高。
 
-    - **Q: How do I get a higher score?**
-**问：总是撞上障碍怎么办？****
-答：** 建议稍微放慢节奏，多观察赛道前方几格的位置，提前换道或减速，熟悉关键路段后再逐渐提高速度。
+    - **问：怎样才能获得更高分？**
+**问：总是撞上障碍怎么办？**  
+**答：** 建议稍微放慢节奏，多观察赛道前方几格的位置，提前换道或减速，熟悉关键路段后再逐渐提高速度。
 
-**问：有没有道具或加速带？****
-答：** 某些版本会在赛道上加入加速带或可拾取道具，留意路面标识，合理利用可以在直线段拉开巨大差距。
+**问：有没有道具或加速带？**  
+**答：** 某些版本会在赛道上加入加速带或可拾取道具，留意路面标识，合理利用可以在直线段拉开巨大差距。
 
-**问：能和朋友一起玩吗？****
-答：** 视具体实现而定，有的版本支持本地轮流挑战比时间，有的则提供排行榜模式，让你和全球玩家比拼最快圈速。
-
+**问：能和朋友一起玩吗？**  
+**答：** 视具体实现而定，有的版本支持本地轮流挑战比时间，有的则提供排行榜模式，让你和全球玩家比拼最快圈速。

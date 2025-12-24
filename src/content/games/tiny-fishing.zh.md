@@ -33,22 +33,17 @@ releaseDate: 2025-08-16T00:00:00.000Z
 *   **升级装备：** 使用获得的金币在商店中升级鱼线长度、钩子数量和离线收益等属性。
 
 
-- **Upgrade**: Use earned coins to upgrade equipment in the shop.
+- **升级：** 使用赚到的金币在商店中升级装备。
 ### 常见问题解答（FAQ）
 
 1.  **问：如何更快赚金币？**  
+    **答：** 多钓鱼，尤其是稀有鱼，并升级鱼钩价值来提高收益。  
 
+2.  **问：为什么有时候钓不到鱼？**  
+    **答：** 这很正常；钓鱼需要耐心和一点运气，并不是每次抛竿都会有收获。  
 
-**A**: This is an endless casual game where you can continuously upgrade equipment to explore deeper waters.
+3.  **问：离线收益是怎么计算的？**  
+    **答：** 取决于你当前的装备等级和钓鱼效率；离线时间越长收益越多，但通常会有上限。  
 
-- **Q: Does the game have an ending?**
-
-**A**: Based on your current equipment level and fishing efficiency; longer offline time means more earnings (with limits).
-
-- **Q: How are offline earnings calculated?**
-
-**A**: This is normal; fishing requires patience and luck, not every cast will yield results.
-
-- **Q: Why don't I catch fish sometimes?**
-
-**A**: Catch more fish, especially rare ones, and upgrade hook value to increase earnings.
+4.  **问：游戏有结局吗？**  
+    **答：** 这是无尽的休闲游戏，你可以不断升级装备、探索更深水域。  

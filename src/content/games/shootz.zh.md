@@ -26,34 +26,32 @@ releaseDate: 2025-10-17T00:00:00.000Z
 4.  **提前预判波次变化：** 通过关卡提示或前几波的节奏，预判接下来可能出现的敌人类型并提前调整配置。
 
 
-- **Combo Attacks**: Learn to use combinations of different weapons to handle various situations.
+- **组合攻击：** 学会搭配不同武器的组合来应对各种情况。
 ### 操作说明
 
 *   **瞄准与射击：** 使用鼠标移动瞄准光标，点击或按住进行射击；若为自动塔防，则负责放置炮塔位置即可。
 *   **建造 / 升级：** 在指定可建造区域点击放置塔，或选中已有塔进行升级与属性强化。
 
 
-- **Special Skills**: Some versions may include special skills or item usage.
+- **特殊技能：** 部分版本可能加入特殊技能或道具使用。
 
-- **Weapon Switch**: Use number keys to switch between different weapons.
+- **切换武器：** 使用数字键在不同武器之间切换。
 
-- **Reload**: Press R key to reload.
+- **换弹：** 按 `R` 键换弹。
 ### 常见问题解答（FAQ）
 
 
-- **Q: How do I get better weapons?**
-**问：前期金币不够怎么办？****
+- **问：怎样获得更好的武器？**  
+    **答：** 通过击败敌人、完成关卡，或收集游戏内货币来解锁并购买新武器。
 
-- **Q: What if there are too many zombies to handle?**
-答：** 前几波尽量避免过度升级单一塔，多利用廉价塔铺基础防线，稳定清怪后金币自然会积累起来。
+- **问：僵尸太多应付不了怎么办？**  
+    **答：** 保持冷静，寻找瓶颈位置限制敌人数量，并优先击杀移动快、威胁大的敌人。
 
+- **问：游戏有不同难度模式吗？**  
+    **答：** 许多版本会提供不同的难度设定与游戏模式供玩家选择。
 
-- **Q: Are there different difficulty modes in the game?**
-**问：后期敌人冲得很快挡不住？****
+- **问：如何提高射击命中率？**  
+    **答：** 多练习瞄准、提前预判移动敌人的位置，并适当调整鼠标灵敏度等设置。
 
-- **Q: How can I improve shooting accuracy?**
-答：** 说明减速类或高爆发火力点不足。尝试在关键路段布置减速塔或高伤塔，并集中升级它们的关键属性。
-
-**问：游戏节奏会不会很肝？****
-答：** 《Shootz》倾向短局对战，每一关时长不算夸张，更偏向碎片时间内完成一两局的轻度策略体验。
-
+**问：游戏节奏会不会很肝？**  
+**答：** 《Shootz》倾向短局对战，每一关时长不算夸张，更偏向碎片时间内完成一两局的轻度策略体验。

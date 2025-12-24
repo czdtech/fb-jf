@@ -21,7 +21,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ### 游玩策略与战斗指引
 
 
-The objective in each round is to eliminate your opponents by knocking them out of the arena or depleting their health.
+每一回合的目标都很简单：把对手击飞出场外，或是打空对方的生命值，从而淘汰对手。
 1.  **熟悉基础招式：** 先掌握普通攻击、跳跃、冲刺和防御等基本操作，再尝试衔接组合技，避免无脑连按导致硬直被反打。
 2.  **观察敌人动作：** 不同敌人会有各自的攻击节奏与前摇，留意攻击前的动作提示，在空档期进行反击。
 3.  **善用位移：** 通过跳跃、后撤或翻滚躲开高伤害技能，再趁对方落地或收招时贴身输出，可以极大提高安全性。
@@ -30,25 +30,25 @@ The objective in each round is to eliminate your opponents by knocking them out 
 ### 操作说明
 
 
-Controls are typically based on a standard 2D platformer layout:
+操作通常沿用常见的 2D 平台动作布局：
 *   **移动 / 跳跃：** 使用方向键或 WASD 控制火柴人移动，指定按键进行跳跃；
 *   **攻击 / 连招：** 按攻击键进行普通攻击，按一定节奏或搭配方向键可打出连击；
 *   **防御 / 闪避：** 通过防御键或闪避键减少伤害或完全避开攻击，节奏感强的玩家可以尝试“读招后闪避”。
 
 
-- **Block:** `Right Mouse Button` or `G`
+- **格挡：** 鼠标右键 或 `G`
 
-- **Attack:** `Left Mouse Button` or `F`
+- **攻击：** 鼠标左键 或 `F`
 ### 常见问题解答（FAQ）
 
-**问：总觉得自己被敌人“无限连”怎么办？****
-答：** 尝试减少在敌人面前原地站桩的时间，多利用移动与跳跃拉开距离，等敌人出手后再寻找反击窗口。
+**这款游戏的核心目标是什么？**
 
-**问：这款游戏更偏操作还是数值？****
-答：** 多数关卡更看重走位和时机掌握，只要善于抓破绽，即便数值不是特别高也有机会通关。
+把对手击飞出场外，或打空对方的生命值，从而淘汰对手，成为最后存活的玩家。
 
+**可以和朋友一起玩吗？**
 
+不少版本主打多人对战，通常支持 2–4 人本地同屏或在线对战（具体以托管平台版本为准）。
 
-The game features a huge arsenal of weapons, ranging from melee weapons like swords and spears to projectile weapons like handguns, shotguns, and even snake-firing bazookas.
+**游戏里有哪些武器？**
 
-**What kind of weapons are in the game?**
+武器库非常丰富，从剑、矛等近战武器，到手枪、霰弹枪等远程武器，甚至还有能发射蛇的火箭筒等“整活”装备。

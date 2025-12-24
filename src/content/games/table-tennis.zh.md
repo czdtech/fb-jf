@@ -31,24 +31,23 @@ releaseDate: 2025-10-17T00:00:00.000Z
 *   **击球：** 当球到达合适高度时，用点击或轻抬动作完成挥拍，使球反弹回对方台面。
 
 
-- **Hit the Ball:** There is no need to click. Position your paddle in the ball's path, and it will automatically hit it on contact. The angle and speed of the return are influenced by where and how fast you move your paddle into the ball.
+- **击球：** 通常不需要额外点击。把球拍移动到球的运动轨迹上，接触到球就会自动回击。回球角度和速度会受到你击球时的位置与挥拍速度影响。
 ### 常见问题解答（FAQ）
 
 
-- **A:** Typically, a game is won by the first player to reach a set number of points (e.g., 11 or 21), but you must win by at least two points.
+- **答：** 一般先到达设定分数（例如 11 或 21 分）的一方获胜，但通常需要至少领先 2 分。
 
-    - **Q: What is the winning score?**
+    - **问：获胜需要多少分？**
 
-- **A:** While the game may not have an explicit "spin" button, moving your paddle quickly as you strike the ball can influence its speed and angle, creating a similar effect and making it harder for the opponent to return.
+- **答：** 即使没有单独的“旋转”按钮，你在击球瞬间快速挥拍/加速移动球拍，也会影响回球的速度和角度，形成类似旋转的效果，让对手更难接。
 
-    - **Q: Can I put a spin on the ball?**
+    - **问：我能给球加旋转吗？**
 
-- **A:** You score a point when your opponent fails to return your shot, meaning the ball bounces twice on their side, they hit it into the net, or they hit it off the table.
+- **答：** 当对手没能回球时你就得分，例如球在对方台面弹两次、对方打进网，或把球打出界。
 
-    - **Q: How do I score a point?**
-**问：这款乒乓更看操作还是更偏休闲？****
-答：** 物理与节奏相对写实，但整体节奏比真·竞技要轻松，适合作为休闲体育小游戏体验。
+    - **问：怎么得分？**
+**问：这款乒乓更看操作还是更偏休闲？**  
+**答：** 物理与节奏相对写实，但整体节奏比真·竞技要轻松，适合作为休闲体育小游戏体验。
 
-**问：支持双人吗？****
-答：** 具体取决于实现版本，部分版本支持在同一设备上双人轮流或分键对战。
-
+**问：支持双人吗？**  
+**答：** 具体取决于实现版本，部分版本支持在同一设备上双人轮流或分键对战。

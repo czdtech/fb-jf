@@ -38,18 +38,13 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ### 常见问题解答（FAQ）
 
 1.  **问：如何判断一盘数独是否有解？**  
+    **答：** 合法数独通常应当有唯一解；如果解题过程中出现矛盾或发现多解，可能是题目设计存在问题。  
 
+2.  **问：卡住了怎么办？**  
+    **答：** 先仔细检查已填数字是否有误，再尝试更高级的解题技巧，例如“裸对”“隐对”等候选数组合推理。  
 
-**A**: Standard Sudoku should be solvable through pure logical reasoning without guessing.
+3.  **问：有不同难度等级吗？**  
+    **答：** 通常会按难度分为简单、中等、困难、专家等等级。  
 
-- **Q: Do I need to guess?**
-
-**A**: Usually divided into different difficulty levels like easy, medium, hard, and expert.
-
-- **Q: Are there different difficulty levels?**
-
-**A**: Carefully check if filled numbers have errors, and use more advanced solving techniques like "naked pairs" or "hidden pairs."
-
-- **Q: What if I get stuck?**
-
-**A**: Legal Sudoku puzzles should have a unique solution. If contradictions or multiple solutions appear, there might be issues with the puzzle design.
+4.  **问：需要猜吗？**  
+    **答：** 标准数独应能靠纯逻辑推理解出，无需猜测。  

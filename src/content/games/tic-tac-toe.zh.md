@@ -35,18 +35,13 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ### 常见问题解答（FAQ）
 
 1.  **问：先手是否拥有优势？**  
+    **答：** 理论上先手（通常是 X）略占优势，但双方都完美发挥时结果往往是平局。  
 
+2.  **问：是否存在必胜策略？**  
+    **答：** 对熟练玩家来说，井字棋大多会以平局收场，因为最优策略会互相抵消。  
 
-**A**: Some versions offer larger grids (like 4x4 or 5x5) or require more symbols in a row to win.
+3.  **问：怎样提升胜率？**  
+    **答：** 掌握基础策略：优先占中心、及时封堵对手，并学会制造“双威胁”。  
 
-- **Q: Are there variant rules?**
-
-**A**: Learn basic strategies like prioritizing center, blocking opponents, and creating fork threats.
-
-- **Q: How can I improve my win rate?**
-
-**A**: For experienced players, games typically end in draws because optimal strategies cancel each other out.
-
-- **Q: Is there a guaranteed winning strategy?**
-
-**A**: Theoretically, the first player (usually X) has a slight advantage, but perfect play results in a draw.
+4.  **问：有没有变体规则？**  
+    **答：** 部分版本会提供更大的棋盘（例如 4×4、5×5），或改为需要连成更多个符号才算获胜。  
