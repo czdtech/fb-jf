@@ -32,3 +32,4 @@
 
 - 游戏名/品牌名保留英文（如 Sprunki / Incredibox）。
 - 玩法/系统词按 `docs/i18n/GLOSSARY.zh.md` 统一。
+- 避免港台译法（如“透过/依照/滑鼠/拖曳/萤幕/行动装置/音讯/本局”等），按简体站用词统一（见 `docs/i18n/GLOSSARY.zh.md` 第 9 节）。

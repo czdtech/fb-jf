@@ -1,0 +1,3575 @@
+{
+  "generatedAt": "2025-12-24T20:09:15.306Z",
+  "scope": "src/content/games/*.{ja,ko,es,fr,de}.md + src/pages/{ja,ko,es,fr,de}/**/*.astro + src/components/**/*.{ja,ko,es,fr,de}.astro + src/i18n/{ja,ko,es,fr,de}.json",
+  "version": 1,
+  "files": {
+    "src/content/games/clicker-heroes.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 13,
+      "pureEnglishLines": 34,
+      "englishQALines": 0
+    },
+    "src/content/games/football-penalty.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 3,
+      "pureEnglishLines": 21,
+      "englishQALines": 11
+    },
+    "src/content/games/football-kickoff.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 21,
+      "englishQALines": 11
+    },
+    "src/content/games/droid-o.ko.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 18,
+      "englishQALines": 10
+    },
+    "src/content/games/clicker-heroes.fr.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 2,
+      "pureEnglishLines": 26,
+      "englishQALines": 0
+    },
+    "src/content/games/fiddlebops-sprunksters-remix.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 20,
+      "englishQALines": 0
+    },
+    "src/content/games/funny-shooter.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 8,
+      "englishQALines": 8
+    },
+    "src/content/games/fruit-ninja.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 2,
+      "pureEnglishLines": 7,
+      "englishQALines": 6
+    },
+    "src/content/games/incredibox-trillybox.de.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 15,
+      "englishQALines": 0
+    },
+    "src/content/games/super-bowling-mania.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 1,
+      "pureEnglishLines": 8,
+      "englishQALines": 6
+    },
+    "src/content/games/super-smash-flash-2-v09.fr.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 14,
+      "englishQALines": 0
+    },
+    "src/content/games/classic-solitaire.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 2,
+      "pureEnglishLines": 9,
+      "englishQALines": 3
+    },
+    "src/content/games/drive-mad.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 7,
+      "englishQALines": 7
+    },
+    "src/content/games/drop-2048.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 1,
+      "pureEnglishLines": 8,
+      "englishQALines": 5
+    },
+    "src/content/games/endless-truck.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 7,
+      "englishQALines": 7
+    },
+    "src/content/games/sprunki-mod-BFDI.fr.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 14,
+      "englishQALines": 0
+    },
+    "src/content/games/fleeing-the-complex.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 7,
+      "englishQALines": 6
+    },
+    "src/content/games/fly-or-die.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 7,
+      "englishQALines": 6
+    },
+    "src/content/games/football-legends.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 7,
+      "englishQALines": 6
+    },
+    "src/content/games/sprunki-play-random.fr.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 12,
+      "englishQALines": 0
+    },
+    "src/content/games/bloons-td-5.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 10,
+      "pureEnglishLines": 2,
+      "englishQALines": 0
+    },
+    "src/content/games/comfy-farm.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 6,
+      "englishQALines": 6
+    },
+    "src/content/games/drift-hunters.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 6,
+      "englishQALines": 6
+    },
+    "src/content/games/sprunki-rotrizi-5.fr.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 11,
+      "englishQALines": 0
+    },
+    "src/content/games/blockbuster-puzzle.fr.md": {
+      "templateHeadings": 4,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 4,
+      "englishQALines": 3
+    },
+    "src/content/games/duck-life-4.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 6,
+      "englishQALines": 5
+    },
+    "src/content/games/ducklings.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 6,
+      "englishQALines": 5
+    },
+    "src/content/games/funny-shooter-2.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 6,
+      "englishQALines": 5
+    },
+    "src/content/games/sprunki-retake-new-human.fr.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 10,
+      "englishQALines": 0
+    },
+    "src/content/games/yojou-sprunki-mustard.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 11,
+      "englishQALines": 0
+    },
+    "src/content/games/chess.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 4,
+      "pureEnglishLines": 6,
+      "englishQALines": 0
+    },
+    "src/content/games/eggy-car.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 5,
+      "englishQALines": 5
+    },
+    "src/content/games/fruit-chopper.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 1,
+      "pureEnglishLines": 5,
+      "englishQALines": 4
+    },
+    "src/content/games/incredibox-fruity.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 2,
+      "pureEnglishLines": 4,
+      "englishQALines": 4
+    },
+    "src/content/games/onet-connect-classic.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 7,
+      "englishQALines": 3
+    },
+    "src/content/games/super-smash-flash-2-v08.fr.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 10,
+      "englishQALines": 0
+    },
+    "src/content/games/tower-crash-3d.de.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 5,
+      "englishQALines": 5
+    },
+    "src/content/games/bridge.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 3,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/duck-life.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 5,
+      "englishQALines": 4
+    },
+    "src/content/games/fruit-chef.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 5,
+      "englishQALines": 4
+    },
+    "src/content/games/gin-rummy.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 3,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/lake-jump.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 9,
+      "englishQALines": 0
+    },
+    "src/content/games/sudoku.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 5,
+      "englishQALines": 4
+    },
+    "src/content/games/words-of-magic.de.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 5,
+      "englishQALines": 4
+    },
+    "src/content/games/bloons-td-5.ja.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 8,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/checkers-legend.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 1,
+      "pureEnglishLines": 4,
+      "englishQALines": 3
+    },
+    "src/content/games/choir.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 4,
+      "pureEnglishLines": 4,
+      "englishQALines": 0
+    },
+    "src/content/games/daily-sudoku-2.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 2,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/find-the-difference.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 4,
+      "englishQALines": 4
+    },
+    "src/content/games/fruit-cube-blast.de.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 5,
+      "englishQALines": 3
+    },
+    "src/content/games/fruit-cube-blast.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 1,
+      "pureEnglishLines": 4,
+      "englishQALines": 3
+    },
+    "src/content/games/jewel-blocks.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 4,
+      "englishQALines": 3
+    },
+    "src/content/games/jewel-pets-match.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 1,
+      "pureEnglishLines": 4,
+      "englishQALines": 3
+    },
+    "src/content/games/jigsaw-puzzle-deluxe.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 1,
+      "pureEnglishLines": 4,
+      "englishQALines": 3
+    },
+    "src/content/games/jungle-bricks.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 1,
+      "pureEnglishLines": 4,
+      "englishQALines": 3
+    },
+    "src/content/games/merge-cakes.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 4,
+      "englishQALines": 3
+    },
+    "src/content/games/merge-cakes.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 5,
+      "englishQALines": 3
+    },
+    "src/content/games/merge-melons.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 4,
+      "englishQALines": 3
+    },
+    "src/content/games/merge-pirates.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 4,
+      "englishQALines": 3
+    },
+    "src/content/games/merge-the-gems.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 4,
+      "englishQALines": 3
+    },
+    "src/content/games/om-nom-run.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 1,
+      "pureEnglishLines": 4,
+      "englishQALines": 3
+    },
+    "src/content/games/pirate-poker.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 2,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/pirates-match-3.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 4,
+      "englishQALines": 4
+    },
+    "src/content/games/swap-sprunkgerny.fr.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 8,
+      "englishQALines": 0
+    },
+    "src/content/games/the-sea-rush.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 4,
+      "englishQALines": 4
+    },
+    "src/content/games/train-2048.de.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 4,
+      "englishQALines": 4
+    },
+    "src/content/games/tripeaks-solitaire.de.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 4,
+      "englishQALines": 4
+    },
+    "src/content/games/chess-classic.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 1,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/cricket-hero.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 1,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/domino-battle.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 1,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/emoji-fun.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 1,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/giant-attack.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 4,
+      "englishQALines": 3
+    },
+    "src/content/games/hexa-dungeon.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 1,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/idle-restaurants.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 1,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/jewel-academy.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 1,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/jewel-legend.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 4,
+      "englishQALines": 3
+    },
+    "src/content/games/jewel-magic-xmas.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 4,
+      "englishQALines": 3
+    },
+    "src/content/games/jewel-magic.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 4,
+      "englishQALines": 3
+    },
+    "src/content/games/jigsaw-puzzle-deluxe.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/jigsaw-puzzles-hexa.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 4,
+      "englishQALines": 3
+    },
+    "src/content/games/mahjong-3d.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/om-nom-connect-xmas.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 4,
+      "englishQALines": 3
+    },
+    "src/content/games/parking-rush.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 4,
+      "englishQALines": 3
+    },
+    "src/content/games/pocket-battle-royale.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 1,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/polymatch.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 1,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/sprunki-swapped-horror.fr.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 6,
+      "englishQALines": 0
+    },
+    "src/content/games/stealing-the-diamond.fr.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 7,
+      "englishQALines": 0
+    },
+    "src/content/games/sudoku-plus.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 4,
+      "englishQALines": 3
+    },
+    "src/content/games/table-tennis.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 4,
+      "englishQALines": 3
+    },
+    "src/content/games/totemia-cursed-marbles.de.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 4,
+      "englishQALines": 3
+    },
+    "src/content/games/word-detector.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 1,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/zumba-ocean.de.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 4,
+      "englishQALines": 3
+    },
+    "src/content/games/bloons-td-4.ja.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 6,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/bubble-shooter-hd.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/bubble-tower.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/bubble-woods-ultimate.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/butterfly-shimai.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/candy-bubbles.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/cards-of-the-undead.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/carrom-clash.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/castle-craft.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/chess-mania.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/color-pixel-art.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/color-roll-3d.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/coloring-match.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/cookie-clicker-2.ja.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 6,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/cookie-clicker-2.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 6,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/cookie-clicker.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 6,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/crazy-caves.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/daily-solitaire.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/daily-sudoku-3.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/daily-word-climb.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/diamond-rush.de.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/diamond-rush.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/element-blocks.de.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/element-blocks.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/endless-lake.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/endless-siege.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/farm-block-puzzle.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/find-500-differences.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/find-the-difference.de.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/foosball-cup-world.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 4,
+      "englishQALines": 2
+    },
+    "src/content/games/football-stars.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 4,
+      "englishQALines": 2
+    },
+    "src/content/games/footchinko.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/garden-bloom.de.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/garden-bloom.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/get-10-ultimate.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/gold-miner-tom.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/golf-adventures.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/golf-fling.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/gym-stack.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/hangman.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 6,
+      "englishQALines": 0
+    },
+    "src/content/games/hoop-hero.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/idle-explorers.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/incredibox-studio.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 1,
+      "pureEnglishLines": 4,
+      "englishQALines": 1
+    },
+    "src/content/games/incredibox-yaboo.de.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 6,
+      "englishQALines": 0
+    },
+    "src/content/games/island-of-treasures.de.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/island-of-treasures.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/jewel-academy.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 2
+    },
+    "src/content/games/jewel-blocks.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/jewel-christmas-mania.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/kitty-match.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/letter-links.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 1,
+      "pureEnglishLines": 3,
+      "englishQALines": 2
+    },
+    "src/content/games/merge-defenders.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 2
+    },
+    "src/content/games/merge-heroes.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 2
+    },
+    "src/content/games/minesweeper-mania.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/my-space-pet.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/nature-strikes-back.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/neon-tower.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 2
+    },
+    "src/content/games/neon-tower.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/om-nom-connect-classic.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/panda-pizza-parlor.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/perfect-piano.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/pets-rush.de.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/pets-rush.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/pirate-pop.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/pocket-champions.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/poly-art.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/quest-21.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/quest-bingo.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/roadfury.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/roll-this-ball-3.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/santa-magic-xmas.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/scooter-xtreme.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/slime-io.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 1,
+      "pureEnglishLines": 3,
+      "englishQALines": 2
+    },
+    "src/content/games/smarty-bubbles-2.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/snowboard-king-2024.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/sprunki-night-time.fr.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 5,
+      "englishQALines": 0
+    },
+    "src/content/games/superhot.fr.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 6,
+      "englishQALines": 0
+    },
+    "src/content/games/the-jigsaw-game.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 6,
+      "englishQALines": 0
+    },
+    "src/content/games/uncle-ahmed.de.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/unpark-me.de.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/word-search-2.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/words-of-magic.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/zoo-boom.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 3
+    },
+    "src/content/games/bloons-td-6.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 5,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/cuphead.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 5,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/diner-dash.fr.md": {
+      "templateHeadings": 5,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/dogeminer.fr.md": {
+      "templateHeadings": 5,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/donkey-kong.fr.md": {
+      "templateHeadings": 5,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/doodle-cricket.fr.md": {
+      "templateHeadings": 5,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/doodle-jump.fr.md": {
+      "templateHeadings": 5,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/drift-boss.fr.md": {
+      "templateHeadings": 5,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/drift-hunters.fr.md": {
+      "templateHeadings": 5,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/drive-mad.fr.md": {
+      "templateHeadings": 5,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/droid-o.fr.md": {
+      "templateHeadings": 5,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/drop-2048.fr.md": {
+      "templateHeadings": 5,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/duck-life-4.fr.md": {
+      "templateHeadings": 5,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/duck-life.fr.md": {
+      "templateHeadings": 5,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/ducklings.fr.md": {
+      "templateHeadings": 5,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/dumb-ways-to-die.fr.md": {
+      "templateHeadings": 5,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/farm-block-puzzle.de.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 2
+    },
+    "src/content/games/fluffy-mania.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 1,
+      "pureEnglishLines": 4,
+      "englishQALines": 0
+    },
+    "src/content/games/get-10-ultimate.de.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 2
+    },
+    "src/content/games/giant-attack.de.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 2
+    },
+    "src/content/games/guns-n-bottles.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 2
+    },
+    "src/content/games/incredibox-kochari.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 4,
+      "englishQALines": 1
+    },
+    "src/content/games/jewel-christmas-mania.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 2,
+      "englishQALines": 2
+    },
+    "src/content/games/jewel-legend.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 2,
+      "englishQALines": 2
+    },
+    "src/content/games/jewel-magic-xmas.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 2,
+      "englishQALines": 2
+    },
+    "src/content/games/jewel-magic.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 2,
+      "englishQALines": 2
+    },
+    "src/content/games/jewel-pets-match.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 2,
+      "englishQALines": 2
+    },
+    "src/content/games/jigsaw-puzzles-hexa.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 2,
+      "englishQALines": 2
+    },
+    "src/content/games/jungle-bricks.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 2,
+      "englishQALines": 2
+    },
+    "src/content/games/kitty-match.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 2,
+      "englishQALines": 2
+    },
+    "src/content/games/letter-links.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 2,
+      "englishQALines": 2
+    },
+    "src/content/games/ludo-legend.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 2,
+      "englishQALines": 2
+    },
+    "src/content/games/mahjong-solitaire.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 2,
+      "englishQALines": 2
+    },
+    "src/content/games/medieval-solitaire.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 2,
+      "englishQALines": 2
+    },
+    "src/content/games/my-space-pet.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 2,
+      "englishQALines": 2
+    },
+    "src/content/games/nature-strikes-back.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 2,
+      "englishQALines": 2
+    },
+    "src/content/games/pirate-poker.de.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 1,
+      "pureEnglishLines": 2,
+      "englishQALines": 2
+    },
+    "src/content/games/pocket-battle-royale.de.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 2
+    },
+    "src/content/games/poly-art.de.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 2
+    },
+    "src/content/games/quest-bingo.de.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 2
+    },
+    "src/content/games/santa-magic-xmas.de.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 2
+    },
+    "src/content/games/sprunki-pyramixed-version.fr.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 5,
+      "englishQALines": 0
+    },
+    "src/content/games/sprunki-retake.fr.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 5,
+      "englishQALines": 0
+    },
+    "src/content/games/stick-fight.fr.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 4,
+      "englishQALines": 0
+    },
+    "src/content/games/super-smash-flash.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 1,
+      "pureEnglishLines": 4,
+      "englishQALines": 0
+    },
+    "src/content/games/table-tennis.de.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 2
+    },
+    "src/content/games/the-sea-rush.de.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 2
+    },
+    "src/content/games/unblock-that.de.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 2
+    },
+    "src/content/games/bloons-td-4.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 4,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/bloons-td.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 4,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/brain-trainer.ja.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 4,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/cake-smash.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 2,
+      "englishQALines": 2
+    },
+    "src/content/games/choir.fr.md": {
+      "templateHeadings": 4,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/climb-man.fr.md": {
+      "templateHeadings": 4,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/climb-man.ja.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 4,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/cluster-rush.fr.md": {
+      "templateHeadings": 4,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/collect-same-thing.fr.md": {
+      "templateHeadings": 4,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/collect-same-thing.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 2,
+      "englishQALines": 2
+    },
+    "src/content/games/color-burst-3d.fr.md": {
+      "templateHeadings": 4,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/color-jump.fr.md": {
+      "templateHeadings": 4,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/color-jump.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 2,
+      "englishQALines": 2
+    },
+    "src/content/games/color-pin.fr.md": {
+      "templateHeadings": 4,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/cube-tower.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 2,
+      "englishQALines": 2
+    },
+    "src/content/games/dices-2048-3d.fr.md": {
+      "templateHeadings": 4,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/differences-find-quest.fr.md": {
+      "templateHeadings": 4,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/diwali-lights.fr.md": {
+      "templateHeadings": 4,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/domino-adventure.fr.md": {
+      "templateHeadings": 4,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/domino-battle.de.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 2,
+      "englishQALines": 2
+    },
+    "src/content/games/drifting-mania.fr.md": {
+      "templateHeadings": 4,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/emoji-fun.de.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 2,
+      "englishQALines": 2
+    },
+    "src/content/games/endless-lake.de.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 2,
+      "englishQALines": 2
+    },
+    "src/content/games/find-500-differences.de.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 2,
+      "englishQALines": 2
+    },
+    "src/content/games/flames-fortune.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 4,
+      "englishQALines": 0
+    },
+    "src/content/games/footchinko.de.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 2,
+      "englishQALines": 2
+    },
+    "src/content/games/freekick-football.de.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 2,
+      "englishQALines": 2
+    },
+    "src/content/games/freekick-football.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 2,
+      "englishQALines": 2
+    },
+    "src/content/games/fruit-chopper.de.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 2,
+      "englishQALines": 2
+    },
+    "src/content/games/incredibox-studio.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 0
+    },
+    "src/content/games/incredibox-xrun-simulator.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 0
+    },
+    "src/content/games/northern-heights.de.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 2,
+      "englishQALines": 2
+    },
+    "src/content/games/northern-heights.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 2,
+      "englishQALines": 2
+    },
+    "src/content/games/odd-one-out.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 2,
+      "englishQALines": 2
+    },
+    "src/content/games/om-nom-connect-classic.de.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 2,
+      "englishQALines": 2
+    },
+    "src/content/games/om-nom-connect-xmas.de.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 2,
+      "englishQALines": 2
+    },
+    "src/content/games/onet-connect-classic.de.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 2,
+      "englishQALines": 2
+    },
+    "src/content/games/panda-pizza-parlor.de.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 2,
+      "englishQALines": 2
+    },
+    "src/content/games/parking-rush.de.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 2,
+      "englishQALines": 2
+    },
+    "src/content/games/perfect-piano.de.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 2,
+      "englishQALines": 2
+    },
+    "src/content/games/pics-word-game.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 2,
+      "englishQALines": 2
+    },
+    "src/content/games/pirate-pop.de.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 2,
+      "englishQALines": 2
+    },
+    "src/content/games/pirates-match-3.de.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 2,
+      "englishQALines": 2
+    },
+    "src/content/games/plants-vs-brainrots.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 4,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/pocket-champions.de.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 2,
+      "englishQALines": 2
+    },
+    "src/content/games/polymatch.de.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 2,
+      "englishQALines": 2
+    },
+    "src/content/games/quest-21.de.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 2,
+      "englishQALines": 2
+    },
+    "src/content/games/scooter-xtreme.de.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 2,
+      "englishQALines": 2
+    },
+    "src/content/games/sprunki-dandys-world.fr.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 0
+    },
+    "src/content/games/sprunki-phase-1.fr.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 4,
+      "englishQALines": 0
+    },
+    "src/content/games/steal-a-brainrot.fr.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 4,
+      "englishQALines": 0
+    },
+    "src/content/games/stick-fighter.fr.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 4,
+      "englishQALines": 0
+    },
+    "src/content/games/stick-war.fr.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 4,
+      "englishQALines": 0
+    },
+    "src/content/games/stickman-hook.fr.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 4,
+      "englishQALines": 0
+    },
+    "src/content/games/sum-2048.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 4,
+      "englishQALines": 0
+    },
+    "src/content/games/the-hidden-antique-shop.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 1
+    },
+    "src/content/games/the-pillar.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 4,
+      "englishQALines": 0
+    },
+    "src/content/games/tile-journey.de.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 2,
+      "englishQALines": 2
+    },
+    "src/content/games/tile-puzzle.de.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 2,
+      "englishQALines": 2
+    },
+    "src/content/games/tiles-of-egypt.de.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 2,
+      "englishQALines": 2
+    },
+    "src/content/games/tiletopia.de.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 2,
+      "englishQALines": 2
+    },
+    "src/content/games/traffic-tom.de.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 2,
+      "englishQALines": 2
+    },
+    "src/content/games/truck-trials.de.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 2,
+      "englishQALines": 2
+    },
+    "src/content/games/word-pics.de.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 2,
+      "englishQALines": 2
+    },
+    "src/content/games/word-pics.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 2,
+      "englishQALines": 2
+    },
+    "src/content/games/4-pics-1-word.ja.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 3,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/domino-adventure.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 1,
+      "pureEnglishLines": 2,
+      "englishQALines": 0
+    },
+    "src/content/games/endless-siege.de.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 2,
+      "englishQALines": 1
+    },
+    "src/content/games/golf-and-friends.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 0
+    },
+    "src/content/games/highway-traffic.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 1,
+      "pureEnglishLines": 2,
+      "englishQALines": 0
+    },
+    "src/content/games/minesweeper-mania.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 1,
+      "englishQALines": 1
+    },
+    "src/content/games/soccer-random.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 0
+    },
+    "src/content/games/sprunki-phase-2-5.fr.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 2,
+      "englishQALines": 0
+    },
+    "src/content/games/sprunki-phase-2-5.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 3,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/sprunki-retake-new-human.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 0
+    },
+    "src/content/games/sprunki-rotrizi-5.ko.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 2,
+      "englishQALines": 0
+    },
+    "src/content/games/sprunki-sepbox-steel-factory.fr.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 0
+    },
+    "src/content/games/sprunki-sonic.fr.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 3,
+      "englishQALines": 0
+    },
+    "src/content/games/worlds-hardest-game.de.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 2,
+      "englishQALines": 1
+    },
+    "src/content/games/baldis-basics.ja.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 2,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/block-champ.ja.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 2,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/bloons-td-3.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 2,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/bloons-td-6.ja.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 2,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/bloons-td.ja.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 2,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/bubble-trouble.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 2,
+      "englishQALines": 0
+    },
+    "src/content/games/cake-slice-ninja.fr.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 2,
+      "englishQALines": 0
+    },
+    "src/content/games/capybara-clicker.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 2,
+      "englishQALines": 0
+    },
+    "src/content/games/cat-mario.ja.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 2,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/checkers.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 2,
+      "englishQALines": 0
+    },
+    "src/content/games/cluster-rush.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 1,
+      "pureEnglishLines": 1,
+      "englishQALines": 0
+    },
+    "src/content/games/cookie-clicker.ja.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 2,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/cooking-mama.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 2,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/cowboys-vs-aliens.de.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 2,
+      "englishQALines": 0
+    },
+    "src/content/games/crash-bandicoot.ko.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 1,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/dogeminer.ja.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 2,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/fiddlebops-sprunkbop.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 1,
+      "englishQALines": 0
+    },
+    "src/content/games/fiddlebops-sprunkbop.ko.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 1,
+      "englishQALines": 0
+    },
+    "src/content/games/fiddlebops-sprunksters-remix.de.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 2,
+      "englishQALines": 0
+    },
+    "src/content/games/fruit-slot-machine.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 1,
+      "englishQALines": 1
+    },
+    "src/content/games/ghost-pro-racing.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 2,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/happy-wheels.es.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 2,
+      "englishQALines": 0
+    },
+    "src/content/games/jet-boi.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 1,
+      "pureEnglishLines": 1,
+      "englishQALines": 0
+    },
+    "src/content/games/monopoly.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 2,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/odd-one-out.de.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 1,
+      "englishQALines": 1
+    },
+    "src/content/games/om-nom-run.de.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 1,
+      "englishQALines": 1
+    },
+    "src/content/games/pou.de.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 2,
+      "englishQALines": 0
+    },
+    "src/content/games/rooftop-snipers-2.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 1,
+      "englishQALines": 1
+    },
+    "src/content/games/slice-master.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 1,
+      "englishQALines": 1
+    },
+    "src/content/games/smash-karts.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 1,
+      "englishQALines": 1
+    },
+    "src/content/games/solitaire-classic.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 2,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/sprunki-eggs-mix.fr.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 1,
+      "englishQALines": 0
+    },
+    "src/content/games/sprunki-mod-BFDI.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 2,
+      "englishQALines": 0
+    },
+    "src/content/games/sprunki-phase-2-5.ja.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 2,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/sprunki-pyramixed.fr.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 2,
+      "englishQALines": 0
+    },
+    "src/content/games/sprunki-red-sun.fr.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 2,
+      "englishQALines": 0
+    },
+    "src/content/games/sprunki-sepbox-steel-factory.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 2,
+      "englishQALines": 0
+    },
+    "src/content/games/sprunkr-but-sprunki.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 1,
+      "englishQALines": 0
+    },
+    "src/content/games/sprunkr-but-sprunki.fr.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 1,
+      "englishQALines": 0
+    },
+    "src/content/games/super-bowling-mania.de.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 1,
+      "englishQALines": 1
+    },
+    "src/content/games/super-smash-flash-2-v08.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 2,
+      "englishQALines": 0
+    },
+    "src/content/games/super-smash-flash-2-v09.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 2,
+      "englishQALines": 0
+    },
+    "src/content/games/tank-trouble.de.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 2,
+      "englishQALines": 0
+    },
+    "src/content/games/tanuki-sunset.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 1,
+      "englishQALines": 0
+    },
+    "src/content/games/tennis.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 2,
+      "englishQALines": 0
+    },
+    "src/content/games/the-impossible-quiz.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 2,
+      "englishQALines": 0
+    },
+    "src/content/games/trap-the-cat.de.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 1,
+      "englishQALines": 1
+    },
+    "src/content/games/ultimate-knife-smash.de.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 2,
+      "englishQALines": 0
+    },
+    "src/content/games/uno.de.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 1,
+      "englishQALines": 1
+    },
+    "src/content/games/whack-your-boss.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 2,
+      "englishQALines": 0
+    },
+    "src/content/games/zombie-hunter-survival.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 1,
+      "pureEnglishLines": 1,
+      "englishQALines": 0
+    },
+    "src/content/games/2-tricky-stories.ja.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 1,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/3-tricky-quests.ja.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 1,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/99-nights-in-the-forest.ja.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 1,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/addiction-mini.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 1,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/age-of-war.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 1,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/bad-time-simulator.ja.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 1,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/basketball-legends.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 1,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/battleships-armada.ja.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 1,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/bejeweled.ja.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 1,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/bloons-td-5.fr.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/bloons-td-6.fr.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/breaking-the-bank.ja.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 1,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/bricks-breaker-house.ja.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 1,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/bricks-breaker.ja.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 1,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/bullet-force.ja.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 1,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/chess.ja.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 1,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/color-burst-3d.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 1,
+      "englishQALines": 0
+    },
+    "src/content/games/confront.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 1,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/cookie-clicker-2.fr.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 1,
+      "englishQALines": 0
+    },
+    "src/content/games/cookie-clicker.fr.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 1,
+      "englishQALines": 0
+    },
+    "src/content/games/crash-bandicoot.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/crash-bandicoot.ja.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 1,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/crazy-cars.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/crazy-cars.ko.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/crescent-solitaire.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/crescent-solitaire.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 1,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/crossword-puzzle.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/crossword-puzzle.fr.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/crossword-puzzle.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 1,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/crossword-puzzles.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/crossword.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/crossyroad.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/crossyroad.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 1,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/cuphead.fr.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 1,
+      "englishQALines": 0
+    },
+    "src/content/games/cut-the-rope.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/cut-the-rope.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 1,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/daily-room-escape.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 1,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/daily-sudoku-3.de.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 1,
+      "englishQALines": 0
+    },
+    "src/content/games/daily-sudoku.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/daily-sudoku.ja.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 1,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/daily-word-climb.de.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 1,
+      "englishQALines": 0
+    },
+    "src/content/games/dandyrunki-retake.de.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 1,
+      "englishQALines": 0
+    },
+    "src/content/games/descent.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/diner-dash.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/dogeminer.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/donkey-kong.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/doodle-cricket.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/doodle-jump.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/drift-boss.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/drift-hunters.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/drifting-mania.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 1,
+      "englishQALines": 0
+    },
+    "src/content/games/drive-mad.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/duck-life-4.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/duck-life.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/ducklings.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/dumb-ways-to-die.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/eggy-car.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/electron-dash.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/elite-chess.ja.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 1,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/elite-chess.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 1,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/emoji-with-friends.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 1,
+      "englishQALines": 0
+    },
+    "src/content/games/fancy-pants-2.ko.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/fancy-pants-3.ko.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/fancy-pants.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/fiddlebops-but-sprunki.de.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 1,
+      "englishQALines": 0
+    },
+    "src/content/games/fiddlebops-but-sprunki.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 1,
+      "englishQALines": 0
+    },
+    "src/content/games/fiddlebops-polos.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 1,
+      "englishQALines": 0
+    },
+    "src/content/games/fiddlebops-sprunki.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 1,
+      "englishQALines": 0
+    },
+    "src/content/games/five-nights-at-freddy-1.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/five-nights-at-freddy-1.ja.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 1,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/five-nights-at-freddy-1.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 1,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/five-nights-at-freddy-2.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/five-nights-at-freddy-3.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/five-nights-at-freddy-4.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/five-nights-at-freddy-sl.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/flappy-bird.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/fleeing-the-complex.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/fly-or-die.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/football-legends.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/friday-night-funkin.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/fruit-ninja.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/fullspeed-racing.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 1,
+      "englishQALines": 0
+    },
+    "src/content/games/funny-shooter-2.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/funny-shooter.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/fuzzies.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/g-switch-2.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/g-switch-3.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/g-switch-4.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/g-switch.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/galactic-empire.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/gangsters.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/geometry-dash-lite.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/geometry-dash-meltdown.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/geometry-dash-subzero.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/geometry-dash-world.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/getaway-shootout.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/getting-over-it.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/ghost-pro-racing.ja.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 1,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/golf-orbit.ja.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 1,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/golf-orbit.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 1,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/guess-the-kitty.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 1,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/guess-their-answer.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 1,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/happy-wheels.ja.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 1,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/incredibox-beatnik-simulator.ja.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 1,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/incredibox-cool-as-ice.fr.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/incredibox-trillybox.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 1,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/incredibox-yaboo.ja.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 1,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/incredibox.fr.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/infiltrating-the-airship.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/infiltrating-the-airship.fr.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/iron-snout.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/iron-snout.fr.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/jet-boi.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/jet-boi.fr.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/jetpack-joyride.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/jetpack-joyride.fr.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/jewel-duel.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/jewel-duel.fr.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/jewel-halloween.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/jump-with-justin-2.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/jump-with-justin-2.fr.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/jungle-match-puzzle.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/jurassic-run.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/jurassic-run.fr.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/jurassic-run.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 1,
+      "englishQALines": 0
+    },
+    "src/content/games/king-rugni-tower-conquest.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/king-rugni-tower-conquest.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 1,
+      "englishQALines": 0
+    },
+    "src/content/games/kingdom-rush-frontiers.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/kingdom-rush-frontiers.fr.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/kingdom-rush.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/kingdom-rush.fr.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/kings-and-queens.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/kitchen-sorting.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/kitty-match.fr.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/kitty-scramble.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/kitty-scramble.fr.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/klondike-solitaire.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/klondike-solitaire.fr.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/krampus.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/krishna-jump.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/krishna-jump.fr.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/ladybug-jump.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/ladybug-jump.fr.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/lake-jump.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/learn-to-fly.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/learn-to-fly.fr.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/lemonade-stand.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/lemonade-stand.fr.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/letter-links.fr.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/level-devil.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/level-devil.fr.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/light-line.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/liquid-puzzle-sort-colors.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/lollipop-world-match-3.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/love-tester.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/love-tester.es.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/lows-adventures-2.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/lows-adventures-2.es.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/lows-adventures-3.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/lows-adventures-3.es.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/lucky-vegas-blackjack.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/ludo-kart.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/mad-honey.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/mahjong-connect-mission.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/mahjong-match-puzzle.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/mahjong-titans.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/mahjong-titans.es.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/mahjong.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/mahjongg-candy.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/mahjongg-solitaire.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/make-it-meme.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/match-puzzle-house.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/maze-puzzle.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/mazes.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/mega-prize-scratch.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/merge-bistro.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/merge-fruit.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/merge-haven.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/mergest-kingdom.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/mess-on-the-ranch.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/metal-guns-fury.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/minecraft-cave-escape.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/minecraft.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/minesweeper-1000.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/minesweeper.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/mini-crossword.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/mini-golf-world.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/minigolf-clash.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/monkey-mart.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/monopoly.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/moto-x3m.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/moving-co.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/moving-truck.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/murder.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/nature-strikes-back.ja.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 1,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/neon-dash.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/neon-rider.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/pikmin-no-sprunki.ja.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 1,
+      "englishQALines": 0
+    },
+    "src/content/games/plants-vs-brainrots.ja.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 1,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/puppet-master.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 1,
+      "englishQALines": 0
+    },
+    "src/content/games/raft-wars.de.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 1,
+      "englishQALines": 0
+    },
+    "src/content/games/ragdoll-archers.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 1,
+      "englishQALines": 0
+    },
+    "src/content/games/splatoon-3.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 1,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/sprunki-clicker.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 1,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/sprunki-cool-as-ice.fr.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/sprunki-craft.fr.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/sprunki-craft.ko.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/sprunki-good-night.fr.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 1,
+      "englishQALines": 0
+    },
+    "src/content/games/sprunki-halloween.fr.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 1,
+      "englishQALines": 0
+    },
+    "src/content/games/sprunki-halloween.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 1,
+      "englishQALines": 0
+    },
+    "src/content/games/sprunki-interactive-beta.fr.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 1,
+      "englishQALines": 0
+    },
+    "src/content/games/sprunki-interactive-beta.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 1,
+      "englishQALines": 0
+    },
+    "src/content/games/sprunki-maker.ja.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 1,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/sprunki-maker.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 1,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/sprunki-meets-the-cat-spell.fr.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 1,
+      "englishQALines": 0
+    },
+    "src/content/games/sprunki-phase-8.fr.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/sprunki-police-and-prisoners.fr.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/sprunki-police-and-prisoners.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 1,
+      "englishQALines": 0
+    },
+    "src/content/games/sprunki-squid-remix.fr.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/sprunki-squid-remix.ko.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/sprunki-virus-new-update.fr.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 1,
+      "englishQALines": 0
+    },
+    "src/content/games/stars-aligned.fr.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/stealing-the-diamond.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/stick-fight.de.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 1,
+      "englishQALines": 0
+    },
+    "src/content/games/stick-war.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/sugar-heroes.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 1,
+      "englishQALines": 0
+    },
+    "src/content/games/super-smash-flash-2-v08.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/super-smash-flash-2-v09.de.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/super-sprunki-brasil.es.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/super-sprunki-brasil.fr.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/super-sprunki-brasil.ko.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/sushi-grab.fr.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 1,
+      "englishQALines": 0
+    },
+    "src/content/games/tangram-puzzle.fr.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 1,
+      "englishQALines": 0
+    },
+    "src/content/games/the-haze-pixelbox.fr.md": {
+      "templateHeadings": 1,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/the-jigsaw-game.de.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 1,
+      "englishQALines": 0
+    },
+    "src/content/games/tile-puzzle.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 1,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    },
+    "src/content/games/traffic-tom.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 1,
+      "englishQALines": 0
+    },
+    "src/content/games/tunnel-rush.de.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 1,
+      "englishQALines": 0
+    },
+    "src/content/games/word-search.de.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 1,
+      "englishQALines": 0
+    },
+    "src/content/games/word-search.ko.md": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 1,
+      "englishQALines": 0
+    }
+  },
+  "totals": {
+    "totalFiles": 3460,
+    "flaggedFiles": 593,
+    "counts": {
+      "templateHeadings": 329,
+      "parentheticalEnglish": 219,
+      "pureEnglishLines": 1180,
+      "englishQALines": 649
+    }
+  }
+}

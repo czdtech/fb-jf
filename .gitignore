@@ -19,6 +19,15 @@ i18n-structure-report.json
 i18n-zh-english-mix-report.json
 i18n-zh-english-mix-report.csv
 i18n-zh-english-mix-report.urls.txt
+i18n-zh-traditional-mix-report.json
+i18n-zh-traditional-mix-report.csv
+i18n-zh-traditional-mix-report.urls.txt
+i18n-zh-cn-wording-report.json
+i18n-zh-cn-wording-report.csv
+i18n-zh-cn-wording-report.urls.txt
+i18n-other-locales-english-residue-report.json
+i18n-other-locales-english-residue-report.csv
+i18n-other-locales-english-residue-report.urls.txt
 
 # other one-off validation outputs (generated)
 page-structure-validation-report.md
