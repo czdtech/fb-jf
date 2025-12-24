@@ -1,0 +1,16 @@
+{
+  "generatedAt": "2025-12-24T05:50:54.480Z",
+  "scope": "src/content/games/*.zh.md",
+  "version": 1,
+  "files": {},
+  "totals": {
+    "totalFiles": 679,
+    "flaggedFiles": 0,
+    "counts": {
+      "templateHeadings": 0,
+      "parentheticalEnglish": 0,
+      "pureEnglishLines": 0,
+      "englishQALines": 0
+    }
+  }
+}

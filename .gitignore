@@ -16,6 +16,16 @@ pnpm-debug.log*
 # i18n validation reports (generated)
 i18n-metadata-report.json
 i18n-structure-report.json
+i18n-zh-english-mix-report.json
+i18n-zh-english-mix-report.csv
+i18n-zh-english-mix-report.urls.txt
+
+# other one-off validation outputs (generated)
+page-structure-validation-report.md
+tmp-*
+
+# test outputs
+test-results/
 
 # environment variables
 .env
