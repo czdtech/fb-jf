@@ -23,7 +23,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 玩法核心依旧是经典塔防：在自家草坪上种下不同能力的“理智系植物”，通过合理排兵布阵与资源管理，一波波顶住 Brainrots 的进攻浪潮。游戏风格充满吐槽与恶搞，角色更新也紧贴最新网络文化，让玩家在熟悉的塔防节奏中获得全新的迷因体验。
 
 
-The game's immense popularity comes from its witty and constantly updated roster of characters, which directly reflects the ever-changing landscape of internet culture, creating a humorous and engaging experience for a new generation of players.
+本作之所以爆火，很大一部分原因在于角色阵容既有梗又持续更新，紧贴不断变化的网络文化，让玩家获得幽默又有参与感的体验。
 ### **玩法策略与上手技巧**
 
 1.  **建立“专注值”经济：** 游戏中的主要资源并非阳光，而是类似“专注值 / 理智点”的资源，由类似向日葵的 **Focus Flowers** 负责产出。通常开局优先在后排铺出至少两行 Focus Flowers，保证后续有稳定收入来铺场其它攻击与防御植物。

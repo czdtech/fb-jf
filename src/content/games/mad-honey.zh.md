@@ -31,9 +31,9 @@ releaseDate: 2025-10-18T00:00:00.000Z
 - 使用方向键或 WASD 控制飞行方向，或在触屏上拖动控制；靠近花蜜即可自动采集，快速重开可用于刷更干净的“完美路线”。  
 
 
-- Retry: Quick restart for clean runs.
+- **重开：** 快速重新开始，便于刷一条更干净的路线。
 
-- Interact: Automatic pickups on contact.
+- **交互：** 靠近即可自动拾取/采集。
 ### 常见问题（FAQ）
 
 *   **Q: 敌人移动看起来很“阴间”，怎么才能不被阴到？**  

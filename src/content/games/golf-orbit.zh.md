@@ -1,8 +1,8 @@
 ---
 locale: zh
 urlstr: golf-orbit
-title: Golf Orbit 行星高爾夫
-description: Golf Orbit 把高爾夫變成物理飛行解謎：設定發射角度與力度， 利用旋轉與星球重力，打出又遠又精準的弧線球。
+title: Golf Orbit 行星高尔夫
+description: Golf Orbit 把高尔夫变成物理飞行解谜：设置发射角度与力度，利用旋转与星球重力，打出又远又精准的弧线球。
 iframeSrc: 'https://7e0r297sgk0j0.h5games.usercontent.goog/v/1976bdao4gtf0/'
 thumbnail: /new-images/thumbnails/golf-orbit.png
 tags:
@@ -14,14 +14,14 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### Detailed Game Introduction
+### 详细游戏介绍
 
 《Golf Orbit》把高爾夫變成一場物理拋射解謎遊戲。你要選擇擊球的仰角與力度，
 看著球在各種地形與行星之間畫出優雅弧線。旋轉、彈跳、風向與偶爾出現的重力井，
 都會影響球的飛行與落點——最精彩的球路往往會沿著坡道滑行、掠過障礙並連續彈跳，
 最後停在理想位置。
 
-### Gameplay Strategy & Walkthrough
+### 玩法策略与通关思路
 
 1.  **角度紀律：** 較平的發射角可以換來更長的滾地距離；
     較高的拋物線適合越過障礙，但落地後滾動距離會縮短。
@@ -34,28 +34,25 @@ releaseDate: 2025-10-18T00:00:00.000Z
 5.  **Par 路線規劃：** 在熟悉前，可以先用兩桿安全路線達成 Par，
     等掌握物理解後再挑戰一桿跨越整個障礙區的高風險打法。
 
-### Controls Guide
+### 操作指南
 
 - 點擊一次啟動力量條；
 - 在合適時機再次點擊決定力度與角度；
 - 若版本支援，可在擊出球後用滑動手勢為球施加順旋／倒旋。
 
-### Frequently Asked Questions (FAQ)
+### 常见问题（FAQ）
 
-*   **問：我的球老是飛太遠怎麼辦？**
-    *   **答：** 可以降低發射角並減少力度，遇到小果嶺時搭配倒旋，讓球落地後較快停下。
+- 问：我的球总是飞太远怎么办？
+  
+  答：降低发射角并减少力度；遇到小果岭时搭配倒旋，让球落地后更快停下。
 
-*   **問：有沒有通用的「萬用角度」？**
-    *   **答：** 多數開闊球洞用中低角（約 25–35 度）配順旋效果不錯，
-        既能飛得夠遠，又保留一定滾動距離。
+- 问：有没有通用的“万用角度”？
+  
+  答：多数开阔球洞用中低角（约 25–35 度）配顺旋更稳，既能飞得够远，又能保留一定滚动距离。
 
-*   **問：重力井真的有用嗎？**
-    *   **答：** 有，用得好可以像彈弓一樣提高速度。關鍵是以切線角度進入重力場，
-        練習幾次就能感受到甩出的加速效果。
-
-A: Yes — enter on a tangent to slingshot outward with speed; practice the timing.
-
-- Q: Do gravity wells actually help?
+- 问：重力井真的有用吗？
+  
+  答：有。以切线角度进入重力场，可以把球“甩”出去获得额外速度；多练几次把握切入时机即可。
 
 
-A: Yes — enter on a tangent to slingshot outward with speed; practice the timing.
+

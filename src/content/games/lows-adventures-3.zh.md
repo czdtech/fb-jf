@@ -36,17 +36,14 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 ### 常见问题（FAQ）
 
-*   **Q: 隐藏出口总是找不到，有什么通用小技巧？**  
+- 问：隐藏出口总是找不到，有什么通用小技巧？
+  
+  答：重点检查天花板、可疑“假墙”、看似死路的尽头与屏幕边缘之外的落脚点；同时留意细微的砖缝、贴图错位等痕迹，往往就是暗门提示。
 
-A: Check ceilings, false walls, and off‑screen ledges; look for slight tile seams.
-- **A:** 尝试在顶棚、看似死路的尽头或画面上缘做试探跳跃，并观察是否有肉眼难以察觉的砖缝或错位贴图。  
+- 问：相比《Low's Adventures 2》难度提升明显吗？
+  
+  答：整体更紧凑：跳跃窗口更苛刻、陷阱分布更密，对节奏掌握要求更高。建议针对难点房间单独多练几次。
 
-
-A: Jumps are tighter and hazards denser; practice specific rooms.
-*   **Q: 相比《Low's Adventures 2》难度提升明显吗？**  
-
-A: Yes—menus often support fast restarts for routing attempts.
-    *   **A:** 本作的跳跃判定会更紧、陷阱分布更密，对节奏掌握要求更高，建议针对难点房间单独多练。  
-
-*   **Q: 可以快速重开关卡来刷时间吗？**  
-    *   **A:** 一般菜单中都会提供快速重启选项，方便你在熟悉路线后反复尝试以拿到更高评级或时间勋章。
+- 问：可以快速重开关卡来刷时间吗？
+  
+  答：通常可以，菜单里一般会提供快速重启选项，方便你在熟悉路线后反复尝试以拿到更高评级或时间勋章。

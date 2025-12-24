@@ -32,9 +32,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 游戏通过简单的拖拽完成：
 
 *   **选择与放置**：用鼠标或手指从底部的三个备选方块中拖动一个，移动到棋盘上合适的位置后松手放下。只有完全放得下且不与已有方块重叠时，方块才会成功落子。  
-
-
-- **Release:** Release the mouse button or your finger to drop the block into the highlighted space.
+*   **松开放置**：松开鼠标按钮或手指，即可将方块放入高亮提示的位置。  
 ### 常见问题（FAQ）
 
 *   **Q: 可以旋转方块吗？**  

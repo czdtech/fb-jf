@@ -28,12 +28,9 @@ releaseDate: 2025-10-17T00:00:00.000Z
 2.  **优先扫描边缘：** 棋盘边缘附近通常更容易形成直线或简单折线连接，可以先从外围开始找起，既好判断，又能迅速打开局面。
 3.  **考虑后续空间：** 每消除一对方块都会改变棋盘结构，尽量优先消除那些能打开大块空白区域的组合，为后续连线创造更多可能，而不仅仅是看到什么就点什么。
 4.  **合理使用提示与洗牌：** 卡关时可以使用提示功能高亮一组可消除的方块；当实在找不到任何组合时，洗牌可以打乱剩余方块的位置，重新生成可行路径。两者通常次数有限，建议在时间紧张时再使用。
-    - **时刻盯住计时条：** 每一关都有时间限制，保持稳定的“节奏消除”比盯着一个难找的组合死磕更划算——先把容易的全部消掉，再慢慢处理难点。
-
-
-    - **Race the Clock:** Each level is timed. Keep an eye on the timer and try to maintain a steady pace of matching to avoid running out of time.
-
-- **Shuffles:** If you run out of possible moves, the shuffle button will rearrange all the remaining tiles on the board, creating new opportunities.
+    *   **提示：** 提示按钮会高亮一组当前可消除的方块，帮助你快速找到下一步。
+    *   **洗牌：** 如果你找不到任何可消除的组合，洗牌按钮会重新排列棋盘上剩余的方块，创造新的机会。
+5.  **与时间赛跑：** 每一关都有倒计时，尽量保持稳定节奏，避免把太多步数耗在一个难找的组合上。
 ### 操作说明
 
 本作完全通过点击/触控操作完成：

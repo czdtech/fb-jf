@@ -33,17 +33,14 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### 常见问题（FAQ）
 
-*   **Q: 总是分不清可回收与普通垃圾，有什么记忆法？**  
+- 问：总是分不清可回收与普通垃圾，有什么记忆法？
+  
+  答：可以先记住几个“必回收”的锚点：玻璃、易拉罐和纸板/纸箱；不确定的塑料除非明确标注可回收，否则宁可当普通垃圾处理。
 
-A: Memorize a few anchors (glass, cans, cardboard) as “always recycle”; uncertain plastics go to trash unless labeled.
-- **A:** 可以先记住几个“锚点”：玻璃瓶、易拉罐和纸箱几乎总是可回收；没有标识的混合塑料如果拿不准，宁可当普通垃圾处理。  
+- 问：连击总是被难判断的物品打断，怎么办？
+  
+  答：先用最容易判断的物品把连击稳定住，再在节奏稍慢时穿插处理更复杂的物品，避免在高压下做出高风险选择。
 
-
-A: Feed easy items first to stabilize streaks, then slip harder ones during slowdowns.
-*   **Q: 连击总是被难判断的物品打断，怎么办？**  
-
-A: Later levels penalize hygiene mistakes heavily; skip if unsure rather than risking a red mark.
-    *   **A:** 先用最容易判断的物品（如明显的蔬菜、水果或清洗工具）来打连击，把难分辨的物品留在连击之外处理。  
-
-*   **Q: 后面关卡的惩罚为什么这么重？**  
-    *   **A:** 高章节会强调“卫生错误比速度错误更严重”，因此一旦分拣出严重交叉污染，比慢一点或错过个别物品扣分更高，建议把优先级放在“分错少”而不是“分得多”。
+- 问：后面关卡的惩罚为什么这么重？
+  
+  答：后期更强调卫生与避免交叉污染，严重的分拣错误往往比慢一点或错过个别物品扣分更高。拿不准就先跳过或放到安全区（如果关卡允许），不要冒险硬分。

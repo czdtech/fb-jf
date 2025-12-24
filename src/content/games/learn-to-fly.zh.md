@@ -36,17 +36,14 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 ### 常见问题（FAQ）
 
-*   **Q: 前期最值得投资哪些升级？**  
+- 问：前期最值得投资哪些升级？
+  
+  答：优先提升基础速度和滑翔效率，这比早早购买花哨但性价比较低的装备收益更高。
 
-A: Base speed and glide efficiency outperform fancy extras early.
-- **A:** 优先点基础速度和滑翔效率，这比早早购买花哨但性价比较低的装备收益更高。  
+- 问：怎么稳定达成距离目标？
+  
+  答：保持接近最佳俯仰角度，并把推进器留到后半段使用，不要一开始就把燃料喷完。
 
-
-A: Maintain optimal pitch and reserve boosts for late flight.
-*   **Q: 怎么稳定达成距离目标？**  
-
-A: You can keep improving until targets are met; challenge modes extend play.
-    *   **A:** 保持接近最佳俯仰角度，并把推进器留到后半段使用，不要一开始就全部喷完。  
-
-*   **Q: 天数有硬性上限吗？**  
-    *   **A:** 通常可以一直提升自己的配置直到完成所有目标，后续还可以通过挑战模式继续测试极限距离。
+- 问：天数有硬性上限吗？
+  
+  答：通常没有，你可以持续升级自己的配置直到完成所有目标；后续还可以通过挑战模式继续测试极限距离。

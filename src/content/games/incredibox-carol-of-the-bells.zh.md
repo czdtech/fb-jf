@@ -15,7 +15,7 @@ releaseDate: 2025-10-10T00:00:00.000Z
 
 ### **游戏介绍**
 
-*Incredibox Andlbox Carol of the Bells* 是一款迷人且充满节日气氛的 Incredibox 音乐创作游戏粉丝 Mod。这个版本完全致力于解构和重混著名的圣诞颂歌**《钟声颂歌》（Carol of the Bells）**。
+*Incredibox Andlbox Carol of the Bells* 是一款迷人且充满节日气氛的 Incredibox 音乐创作游戏粉丝 Mod。这个版本完全致力于解构和重混著名的圣诞颂歌**《钟声颂歌》**。
 
 游戏中的角色穿着冬季和节日服装，营造出欢快的圣诞氛围。玩家获得标准的 Incredibox 界面和 20 个声音图标，但在这里，每一个声音都是经典颂歌的组成部分。你会发现标志性的四音符旋律、层叠的和声、雪橇铃节奏和合唱人声，都准备好被混音。
 

@@ -31,9 +31,9 @@ releaseDate: 2025-10-18T00:00:00.000Z
 - 点击掷骰按钮投掷骰子，然后从可行动的棋子中选择一枚进行移动；多数版本支持本地多人模式，也可能提供对战 AI 的单人模式。  
 
 
-- Modes: Local multiplayer is common; solo vs. AI may be available.
+- **模式：** 常见为本地多人对战；也可能提供单人对战 AI。
 
-- Move: Select a legal token to advance.
+- **移动：** 选择一枚符合规则的棋子前进。
 ### 常见问题（FAQ）
 
 *   **Q: 这游戏是不是纯看运气？**  
