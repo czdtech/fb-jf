@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2025-12-24T05:50:54.480Z",
-  "scope": "src/content/games/*.zh.md",
+  "generatedAt": "2025-12-24T17:32:22.384Z",
+  "scope": "src/content/games/*.zh.md + src/pages/zh/**/*.astro + src/components/**/*.zh.astro + src/i18n/zh.json",
   "version": 1,
   "files": {},
   "totals": {
-    "totalFiles": 679,
+    "totalFiles": 692,
     "flaggedFiles": 0,
     "counts": {
       "templateHeadings": 0,

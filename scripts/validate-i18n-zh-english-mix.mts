@@ -1,16 +1,20 @@
 #!/usr/bin/env node
 /**
- * Validate Chinese (zh) game markdown content for English residue regressions.
+ * Validate Chinese (zh) content for English residue regressions.
  *
  * Why baseline mode:
  * - 目前仓库内已有大量 zh 内容包含英文小标题/英文段落/括号英文对照；
  * - 直接“严格禁止”会让现有内容立刻全红，无法渐进治理。
  * - 因此默认采用“基线 + 回归检测”：允许现存问题，但不允许新增/变多。
  *
- * Scans: src/content/games/*.zh.md
+ * Scans (zh-facing content):
+ * - src/content/games/*.zh.md
+ * - src/pages/zh 下所有 .astro（递归）
+ * - src/components 下所有 *.zh.astro（递归）
+ * - src/i18n/zh.json
  *
  * Flags (heuristics, for范围确认/回归门禁):
- * - templateHeadings: 常见英文模板小标题（Detailed Game Introduction / Controls Guide / FAQ 等）
+ * - templateHeadings: 英文小标题（常见模板/通用英文标题）
  * - parentheticalEnglish: 括号 () / （） 中出现 >=2 个英文单词
  * - pureEnglishLines: 基本整行英文的段落/列表项
  * - englishQALines: FAQ 中的英文 Q:/A: 行
@@ -88,6 +92,9 @@ const DEFAULT_CSV_PATH = 'i18n-zh-english-mix-report.csv';
 const DEFAULT_URLS_PATH = 'i18n-zh-english-mix-report.urls.txt';
 
 const GAMES_DIR = path.join(process.cwd(), 'src', 'content', 'games');
+const PAGES_ZH_DIR = path.join(process.cwd(), 'src', 'pages', 'zh');
+const COMPONENTS_DIR = path.join(process.cwd(), 'src', 'components');
+const I18N_ZH_JSON = path.join(process.cwd(), 'src', 'i18n', 'zh.json');
 
 function emptyCounts(): Counts {
   return {
@@ -174,6 +181,20 @@ const englishWordRe = /[A-Za-z][A-Za-z']{1,}/g; // >=2 chars
 const englishLetterRe = /[A-Za-z]/g;
 const cjkRe = /[\u4e00-\u9fff]/g;
 
+const allowedEnglishWords = new Set(
+  [
+    // Brands / product names (keep English)
+    'fiddlebops',
+    'fiddlebop',
+    'incredibox',
+    'sprunki',
+    'roblox',
+    'minecraft',
+    // Site name
+    'playfiddlebops',
+  ].map((s) => s.toLowerCase())
+);
+
 function countMatches(re: RegExp, s: string): number {
   const m = s.match(re);
   return m ? m.length : 0;
@@ -183,14 +204,32 @@ function getEnglishWords(s: string): string[] {
   return s.match(englishWordRe) ?? [];
 }
 
+function isAllowedEnglishToken(word: string): boolean {
+  const lower = word.toLowerCase();
+  if (allowedEnglishWords.has(lower)) return true;
+
+  // Common acronyms / shorthand (keep English)
+  if (/^[A-Z]{2,5}$/.test(word)) return true; // e.g., GIF, FPS, NPC
+  if (/^[A-Z]{1,3}\d{1,3}$/.test(word)) return true; // e.g., 4K
+
+  return false;
+}
+
+function hasDisallowedEnglishWord(words: string[]): boolean {
+  for (const w of words) {
+    if (!isAllowedEnglishToken(w)) return true;
+  }
+  return false;
+}
+
 function findParenEnglishSegments(line: string): { raw: string; inside: string }[] {
   const segs: { raw: string; inside: string }[] = [];
   const re = /[（(]([^）)]*)[)）]/g;
   let m: RegExpExecArray | null;
   while ((m = re.exec(line))) {
     const inside = m[1] || '';
-    const wordCount = getEnglishWords(inside).length;
-    if (wordCount >= 2) {
+    const words = getEnglishWords(inside);
+    if (words.length >= 2 && hasDisallowedEnglishWord(words)) {
       segs.push({ inside, raw: m[0] });
     }
   }
@@ -239,7 +278,12 @@ function normalizeHeadingText(s: string): string {
     .trim();
 }
 
-function detectLine(line: string): {
+function detectLine(
+  line: string,
+  ctx?: {
+    forceHeading?: boolean;
+  }
+): {
   templateHeading: boolean;
   parentheticalEnglish: { raw: string; inside: string }[];
   pureEnglishLine: boolean;
@@ -248,16 +292,32 @@ function detectLine(line: string): {
   const trimmed = line.trim();
   if (!trimmed) return null;
 
+  // Ignore pure URL / email lines (legal pages and references may legitimately contain them).
+  if (/^(https?:\/\/|www\.)\S+$/i.test(trimmed)) return null;
+  if (/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(trimmed)) return null;
+
   const englishWords = getEnglishWords(line);
   const englishWordCount = englishWords.length;
   const englishLetters = countMatches(englishLetterRe, line);
   const cjkCount = countMatches(cjkRe, line);
 
   const parentheticalEnglish = findParenEnglishSegments(line);
-  const heading = isHeading(line);
+  const heading = ctx?.forceHeading ?? isHeading(line);
+
+  const hasDisallowedWord = hasDisallowedEnglishWord(englishWords);
+
+  // Short labels like "Beat 1" / "Bonus 1" should be treated as residue even if they don't hit
+  // the long-line thresholds.
+  const shortEnglishLabelWithNumber =
+    /\b\d+\b/.test(line) &&
+    englishWordCount >= 1 &&
+    cjkCount <= 1 &&
+    englishLetters >= 3 &&
+    hasDisallowedWord;
 
   const looksMostlyEnglish =
-    (englishLetters >= 20 && cjkCount <= 2) || (englishWordCount >= 8 && cjkCount <= 4);
+    (hasDisallowedWord && ((englishLetters >= 30 && cjkCount <= 2) || (englishWordCount >= 8 && cjkCount <= 4))) ||
+    shortEnglishLabelWithNumber;
 
   const templateHeading =
     heading &&
@@ -267,8 +327,21 @@ function detectLine(line: string): {
       const normalized = normalizeHeadingText(text);
       const isFaqOnly = /^faq$/i.test(normalized);
 
+      const headingWords = getEnglishWords(text);
+      const headingEnglishLetters = countMatches(englishLetterRe, text);
+      const headingCjk = countMatches(cjkRe, text);
+      const headingHasDisallowed = hasDisallowedEnglishWord(headingWords);
+
+      const looksMostlyEnglishHeading =
+        headingHasDisallowed &&
+        headingCjk <= 1 &&
+        (isTemplateHeadingText(text) ||
+          headingEnglishLetters >= 8 ||
+          headingWords.length >= 2 ||
+          (headingWords.length >= 1 && /\b\d+\b/.test(text) && headingEnglishLetters >= 3));
+
       return (
-        isTemplateHeadingText(text) ||
+        looksMostlyEnglishHeading ||
         parentheticalEnglish.some((s) => isTemplateHeadingText(s.inside)) ||
         isFaqOnly
       );
@@ -380,6 +453,308 @@ async function scanZhFile(
   };
 }
 
+async function walkFilesRecursive(dir: string, predicate: (rel: string) => boolean): Promise<string[]> {
+  const out: string[] = [];
+
+  async function walk(absDir: string) {
+    let entries: Array<import('node:fs').Dirent>;
+    try {
+      entries = await fs.readdir(absDir, { withFileTypes: true });
+    } catch {
+      return;
+    }
+
+    for (const ent of entries) {
+      const abs = path.join(absDir, ent.name);
+      if (ent.isDirectory()) {
+        await walk(abs);
+        continue;
+      }
+      if (!ent.isFile()) continue;
+
+      const rel = path.relative(process.cwd(), abs).replace(/\\/g, '/');
+      if (predicate(rel)) out.push(abs);
+    }
+  }
+
+  await walk(dir);
+  out.sort((a, b) => a.localeCompare(b));
+  return out;
+}
+
+function stripInlineAstroText(s: string): string {
+  return s.replace(/\{[^}]*\}/g, ' ').replace(/\s+/g, ' ').trim();
+}
+
+function extractInlineHtmlTextSegments(line: string): string[] {
+  const segs: string[] = [];
+  const re = />([^<>]+)</g;
+  let m: RegExpExecArray | null;
+  while ((m = re.exec(line))) {
+    segs.push(m[1]);
+  }
+  return segs;
+}
+
+function isProbablyAstroCodeLine(trimmed: string): boolean {
+  const s = trimmed.trim();
+  if (!s) return true;
+  if (/^[{}()[\]]/.test(s)) return true;
+  if (
+    s.startsWith('const ') ||
+    s.startsWith('let ') ||
+    s.startsWith('var ') ||
+    s.startsWith('return ') ||
+    s.startsWith('if ') ||
+    s.startsWith('for ') ||
+    s.startsWith('while ') ||
+    s.startsWith('switch ') ||
+    s.startsWith('case ') ||
+    s.startsWith('break') ||
+    s.startsWith('continue') ||
+    s.startsWith('export ') ||
+    s.startsWith('import ')
+  ) {
+    return true;
+  }
+  if (s.includes('=>') || s.endsWith(';')) return true;
+  if (/^[A-Za-z_$][\w$]*\s*=\s*/.test(s)) return true;
+  return false;
+}
+
+function shouldSkipInternalLinkText(line: string, text: string): boolean {
+  if (!/<a\b/i.test(line)) return false;
+  // Only skip internal links (likely game slugs); keep external links visible for QA.
+  if (!/href\s*=\s*"\//i.test(line)) return false;
+  if (countMatches(cjkRe, text) > 0) return false;
+  const words = getEnglishWords(text);
+  if (words.length === 0) return false;
+  // If it contains a known brand token, treat it as a proper-noun title.
+  return words.some((w) => allowedEnglishWords.has(w.toLowerCase()));
+}
+
+async function scanAstroFile(
+  absPath: string,
+  relPath: string,
+  maxSamplesPerCategory: number
+): Promise<FileResult> {
+  const raw = await fs.readFile(absPath, 'utf8');
+  const lines = raw.split(/\r?\n/);
+  const bodyStart = findFrontmatterEnd(lines);
+
+  let inHtmlComment = false;
+  let inScript = false;
+  let inStyle = false;
+  let headingLevel: number | null = null;
+  let inOpenTag = false;
+
+  const counts = emptyCounts();
+  const samples: Record<CountKey, MatchLine[]> = {
+    templateHeadings: [],
+    parentheticalEnglish: [],
+    pureEnglishLines: [],
+    englishQALines: [],
+  };
+
+  for (let idx = bodyStart; idx < lines.length; idx++) {
+    const line = lines[idx];
+    const trimmed = line.trim();
+
+    // HTML comments (support multi-line)
+    if (!inHtmlComment && trimmed.includes('<!--')) inHtmlComment = true;
+    if (inHtmlComment) {
+      if (trimmed.includes('-->')) inHtmlComment = false;
+      continue;
+    }
+
+    // Script/style blocks (avoid flagging code)
+    if (!inScript && /<script\b/i.test(trimmed)) inScript = true;
+    if (inScript) {
+      if (/<\/script>/i.test(trimmed)) inScript = false;
+      continue;
+    }
+
+    if (!inStyle && /<style\b/i.test(trimmed)) inStyle = true;
+    if (inStyle) {
+      if (/<\/style>/i.test(trimmed)) inStyle = false;
+      continue;
+    }
+
+    // Track heading blocks (<h1> ... </h1>) even if the text is on a separate line.
+    const openHeading = /<h([1-6])\b/i.exec(trimmed);
+    if (openHeading) headingLevel = Number(openHeading[1]);
+    const closeHeading = headingLevel ? new RegExp(`</h${headingLevel}>`, 'i').test(trimmed) : false;
+
+    const lineNo = idx + 1; // 1-based
+
+    // Skip multi-line tag attributes (not visible content).
+    if (inOpenTag) {
+      if (trimmed.includes('>')) inOpenTag = false;
+      if (closeHeading) headingLevel = null;
+      continue;
+    }
+    if (trimmed.startsWith('<') && !trimmed.includes('>')) {
+      inOpenTag = true;
+      continue;
+    }
+
+    const segments = extractInlineHtmlTextSegments(line).map((s) => stripInlineAstroText(s));
+    const toScan: string[] = [];
+    for (const s of segments) {
+      if (!s) continue;
+      if (shouldSkipInternalLinkText(line, s)) continue;
+      toScan.push(s);
+    }
+
+    // Also scan standalone text lines inside multi-line <p>/<li>/<h*> blocks.
+    if (toScan.length === 0) {
+      const plain = stripInlineAstroText(trimmed);
+      if (plain && !/[<>]/.test(plain) && !isProbablyAstroCodeLine(plain)) {
+        toScan.push(plain);
+      }
+    }
+
+    for (const text of toScan) {
+      const info = detectLine(text, { forceHeading: headingLevel != null });
+      if (!info) continue;
+
+      if (info.templateHeading) {
+        counts.templateHeadings += 1;
+        if (samples.templateHeadings.length < maxSamplesPerCategory) {
+          samples.templateHeadings.push({ line: lineNo, text });
+        }
+      }
+
+      if (info.parentheticalEnglish.length > 0) {
+        counts.parentheticalEnglish += 1;
+        if (samples.parentheticalEnglish.length < maxSamplesPerCategory) {
+          samples.parentheticalEnglish.push({
+            line: lineNo,
+            text,
+            segments: info.parentheticalEnglish.map((s) => s.raw),
+          });
+        }
+      }
+
+      if (info.pureEnglishLine) {
+        counts.pureEnglishLines += 1;
+        if (samples.pureEnglishLines.length < maxSamplesPerCategory) {
+          samples.pureEnglishLines.push({ line: lineNo, text });
+        }
+      }
+
+      if (info.englishQA) {
+        counts.englishQALines += 1;
+        if (samples.englishQALines.length < maxSamplesPerCategory) {
+          samples.englishQALines.push({ line: lineNo, text });
+        }
+      }
+    }
+
+    if (closeHeading) headingLevel = null;
+  }
+
+  const total = sumTotal(counts);
+  return {
+    file: path.basename(relPath),
+    path: relPath,
+    total,
+    counts,
+    samples,
+  };
+}
+
+async function scanZhJsonFile(
+  absPath: string,
+  relPath: string,
+  maxSamplesPerCategory: number
+): Promise<FileResult> {
+  const raw = await fs.readFile(absPath, 'utf8');
+  const json = JSON.parse(raw) as unknown;
+
+  const counts = emptyCounts();
+  const samples: Record<CountKey, MatchLine[]> = {
+    templateHeadings: [],
+    parentheticalEnglish: [],
+    pureEnglishLines: [],
+    englishQALines: [],
+  };
+
+  function walk(value: unknown, keyPath: string[]) {
+    if (typeof value === 'string') {
+      // language labels are intentionally non-Chinese (native names)
+      if (keyPath.length >= 1 && keyPath[0] === 'languages') return;
+
+      const text = value.trim();
+      if (!text) return;
+
+      // Treat each line in a value as its own scan unit.
+      for (const line of text.split(/\r?\n/)) {
+        const info = detectLine(line);
+        if (!info) continue;
+
+        const pseudoLine = 1;
+        const label = `[${keyPath.join('.')}] ${line}`;
+
+        if (info.templateHeading) {
+          counts.templateHeadings += 1;
+          if (samples.templateHeadings.length < maxSamplesPerCategory) {
+            samples.templateHeadings.push({ line: pseudoLine, text: label });
+          }
+        }
+
+        if (info.parentheticalEnglish.length > 0) {
+          counts.parentheticalEnglish += 1;
+          if (samples.parentheticalEnglish.length < maxSamplesPerCategory) {
+            samples.parentheticalEnglish.push({
+              line: pseudoLine,
+              text: label,
+              segments: info.parentheticalEnglish.map((s) => s.raw),
+            });
+          }
+        }
+
+        if (info.pureEnglishLine) {
+          counts.pureEnglishLines += 1;
+          if (samples.pureEnglishLines.length < maxSamplesPerCategory) {
+            samples.pureEnglishLines.push({ line: pseudoLine, text: label });
+          }
+        }
+
+        if (info.englishQA) {
+          counts.englishQALines += 1;
+          if (samples.englishQALines.length < maxSamplesPerCategory) {
+            samples.englishQALines.push({ line: pseudoLine, text: label });
+          }
+        }
+      }
+      return;
+    }
+
+    if (Array.isArray(value)) {
+      value.forEach((v, i) => walk(v, [...keyPath, String(i)]));
+      return;
+    }
+
+    if (value && typeof value === 'object') {
+      for (const [k, v] of Object.entries(value as Record<string, unknown>)) {
+        walk(v, [...keyPath, k]);
+      }
+    }
+  }
+
+  walk(json, []);
+
+  const total = sumTotal(counts);
+  return {
+    file: path.basename(relPath),
+    path: relPath,
+    total,
+    counts,
+    samples,
+  };
+}
+
 function toCsvRow(values: Array<string | number>): string {
   return values
     .map((v) => {
@@ -478,18 +853,67 @@ Options:
 async function main(): Promise<void> {
   const opts = parseArgs(process.argv);
 
-  const allFiles = (await fs.readdir(GAMES_DIR))
+  const gameFiles = (await fs.readdir(GAMES_DIR))
     .filter((f) => f.endsWith('.zh.md'))
     .sort((a, b) => a.localeCompare(b));
+
+  const pageAstroFiles = await walkFilesRecursive(
+    PAGES_ZH_DIR,
+    (rel) => rel.startsWith('src/pages/zh/') && rel.endsWith('.astro')
+  );
+
+  const componentZhAstroFiles = await walkFilesRecursive(
+    COMPONENTS_DIR,
+    (rel) => rel.startsWith('src/components/') && rel.endsWith('.zh.astro')
+  );
+
+  const hasI18nZhJson = await fileExists(I18N_ZH_JSON);
+
+  const totalFilesScanned =
+    gameFiles.length + pageAstroFiles.length + componentZhAstroFiles.length + (hasI18nZhJson ? 1 : 0);
 
   const results: FileResult[] = [];
   let totals = emptyCounts();
   let flaggedFiles = 0;
 
-  for (const file of allFiles) {
+  // zh game markdown files
+  for (const file of gameFiles) {
     const absPath = path.join(GAMES_DIR, file);
     const relPath = path.join('src', 'content', 'games', file).replace(/\\/g, '/');
     const scanned = await scanZhFile(absPath, relPath, opts.maxSamplesPerCategory);
+    if (scanned.total > 0) {
+      flaggedFiles += 1;
+      totals = addCounts(totals, scanned.counts);
+      results.push(scanned);
+    }
+  }
+
+  // zh pages (*.astro)
+  for (const absPath of pageAstroFiles) {
+    const relPath = path.relative(process.cwd(), absPath).replace(/\\/g, '/');
+    const scanned = await scanAstroFile(absPath, relPath, opts.maxSamplesPerCategory);
+    if (scanned.total > 0) {
+      flaggedFiles += 1;
+      totals = addCounts(totals, scanned.counts);
+      results.push(scanned);
+    }
+  }
+
+  // zh components (*.zh.astro)
+  for (const absPath of componentZhAstroFiles) {
+    const relPath = path.relative(process.cwd(), absPath).replace(/\\/g, '/');
+    const scanned = await scanAstroFile(absPath, relPath, opts.maxSamplesPerCategory);
+    if (scanned.total > 0) {
+      flaggedFiles += 1;
+      totals = addCounts(totals, scanned.counts);
+      results.push(scanned);
+    }
+  }
+
+  // zh UI strings (zh.json)
+  if (hasI18nZhJson) {
+    const relPath = path.relative(process.cwd(), I18N_ZH_JSON).replace(/\\/g, '/');
+    const scanned = await scanZhJsonFile(I18N_ZH_JSON, relPath, opts.maxSamplesPerCategory);
     if (scanned.total > 0) {
       flaggedFiles += 1;
       totals = addCounts(totals, scanned.counts);
@@ -540,13 +964,14 @@ async function main(): Promise<void> {
 
   const report: ScanReport = {
     generatedAt: new Date().toISOString(),
-    scope: 'src/content/games/*.zh.md',
+    scope:
+      'src/content/games/*.zh.md + src/pages/zh/**/*.astro + src/components/**/*.zh.astro + src/i18n/zh.json',
     config: {
       maxSamplesPerCategory: opts.maxSamplesPerCategory,
       strict: opts.strict,
     },
     totals: {
-      totalFiles: allFiles.length,
+      totalFiles: totalFilesScanned,
       flaggedFiles,
       counts: totals,
     },
@@ -585,23 +1010,33 @@ async function main(): Promise<void> {
   }
   await writeCsv(opts.csvPath, csvRows);
 
-  // Convenience: URL list for quick spot-checking in browser (derived from frontmatter urlstr or fallback to filename).
-  const urls = results.map((r) => {
-    const slug =
-      r.urlstr ??
-      r.path.replace(/^src\/content\/games\//, '').replace(/\.zh\.md$/, '');
-    return `/zh/${slug}/`;
+  // Convenience: quick spot-check references (routes or file paths).
+  const refs = results.map((r) => {
+    if (r.path.startsWith('src/content/games/') && r.path.endsWith('.zh.md')) {
+      const slug =
+        r.urlstr ?? r.path.replace(/^src\/content\/games\//, '').replace(/\.zh\.md$/, '');
+      return `/zh/${slug}/`;
+    }
+
+    if (r.path.startsWith('src/pages/zh/') && r.path.endsWith('.astro')) {
+      const page = r.path.replace(/^src\/pages\//, '').replace(/\.astro$/, '');
+      if (page === 'zh/index') return '/zh/';
+      return `/${page.replace(/\/index$/, '')}/`;
+    }
+
+    return `FILE:${r.path}`;
   });
-  await writeText(opts.urlsPath, urls.join('\n') + '\n');
+  await writeText(opts.urlsPath, refs.join('\n') + '\n');
 
   if (opts.updateBaseline) {
     const baselineOut: BaselineFile = {
       generatedAt: new Date().toISOString(),
-      scope: 'src/content/games/*.zh.md',
+      scope:
+        'src/content/games/*.zh.md + src/pages/zh/**/*.astro + src/components/**/*.zh.astro + src/i18n/zh.json',
       version: 1,
       files: Object.fromEntries(results.map((r) => [r.path, r.counts])),
       totals: {
-        totalFiles: allFiles.length,
+        totalFiles: totalFilesScanned,
         flaggedFiles,
         counts: totals,
       },
@@ -629,7 +1064,7 @@ async function main(): Promise<void> {
 
   if (opts.noBaseline) {
     console.log(`✅ zh English residue report generated (no-baseline).`);
-    console.log(`   flagged files: ${flaggedFiles}/${allFiles.length}`);
+    console.log(`   flagged files: ${flaggedFiles}/${totalFilesScanned}`);
     console.log(`   report: ${opts.reportPath}`);
     console.log(`   csv: ${opts.csvPath}`);
     console.log(`   urls: ${opts.urlsPath}`);
@@ -654,7 +1089,9 @@ async function main(): Promise<void> {
   }
 
   console.log(`✅ zh English residue check passed (baseline gate).`);
-  console.log(`   flagged files: ${flaggedFiles}/${allFiles.length} (allowed to decrease over time)`);
+  console.log(
+    `   flagged files: ${flaggedFiles}/${totalFilesScanned} (allowed to decrease over time)`
+  );
   console.log(`   report: ${opts.reportPath}`);
   console.log(`   csv: ${opts.csvPath}`);
   console.log(`   urls: ${opts.urlsPath}`);
