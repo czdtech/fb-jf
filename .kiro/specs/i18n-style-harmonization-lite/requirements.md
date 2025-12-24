@@ -40,6 +40,7 @@
   - UI 固定词：Play, Start, Pause, Level, Stage, Wave, Combo 等；
   - 系统词：leaderboard, daily challenge, achievements, power-up 等。
 - 同一术语在整站内的翻译必须统一（允许在 Glossary 中记录少数有意保留的例外）。
+- 中文（zh）术语表维护在 `docs/i18n/GLOSSARY.zh.md`（不在 `.kiro`）。
 
 ## R7. 范围（全量覆盖）
 
@@ -67,4 +68,3 @@
   - 每种语言 Style Guide / Glossary 文件路径；
   - 实际完成的语言与覆盖范围；
   - 如有特意保留的风格例外，也要在此说明原因。
-

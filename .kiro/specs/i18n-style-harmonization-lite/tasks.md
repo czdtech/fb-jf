@@ -59,7 +59,7 @@
     - `GLOSSARY.fr.md`
     - `GLOSSARY.de.md`
     - `GLOSSARY.ko.md`
-    - `GLOSSARY.zh.md`
+    - 中文（zh）术语表维护在 `docs/i18n/GLOSSARY.zh.md`（不在 `.kiro`）
   - 覆盖：类型词、UI 固定词、系统/玩法核心词；同术语整站一致。
   - _Requirements: R6_
 

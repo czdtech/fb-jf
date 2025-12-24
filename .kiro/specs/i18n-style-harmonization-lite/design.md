@@ -61,7 +61,7 @@
 
 - 每种语言：
   - STYLE-GUIDE.<lang>.md
-  - GLOSSARY.<lang>.md
+  - GLOSSARY.<lang>.md（中文 zh 维护在 `docs/i18n/GLOSSARY.zh.md`）
 - 本 spec：
   - batches.json（可选，用于记录批次划分）；
   - COMPLETION.md（记录执行范围与状态）。

@@ -20,6 +20,7 @@
 3. **术语统一**
    - 严格使用 `GLOSSARY.<lang>.md` 里的译法；
    - 若发现 Glossary 缺词，先补 Glossary，再统一全文。
+   - 中文（zh）术语表维护在 `docs/i18n/GLOSSARY.zh.md`（不在 `.kiro`）。
 4. **平台级玩家向口吻**
    - 清晰、专业、易读；略带正向评价但不过度营销。
    - 避免“机翻腔/硬直译/中式英语”。
@@ -105,4 +106,3 @@
 - **完整 markdown 文件**（frontmatter + body）；
 - 不含任何占位标记（如 `[XX]`、`TRANSLATION NEEDED`）；
 - 结构节点与英文完全一致。
-

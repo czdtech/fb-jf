@@ -31,5 +31,4 @@
 ## 4. 术语与专有名
 
 - 游戏名/品牌名保留英文（如 Sprunki / Incredibox）。
-- 玩法/系统词按 `GLOSSARY.zh.md` 统一。
-
+- 玩法/系统词按 `docs/i18n/GLOSSARY.zh.md` 统一。

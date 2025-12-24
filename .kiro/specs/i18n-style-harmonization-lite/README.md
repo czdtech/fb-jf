@@ -18,3 +18,14 @@
 - design.md：整体设计和执行策略；
 - tasks.md：分阶段任务清单，可供 Kiro 逐项执行。
 - prompts.md：Phase 2 审校/必要时重译的统一提示词模板。
+
+## 中文英文残留：回归门禁（新增）
+
+现状：历史内容中存在不少“英文模板小标题 / 英文段落 / 括号英文对照”。现阶段采用 **基线门禁**：
+- 允许现存问题逐步减少；
+- 但 **不允许新增/变多**（避免回归）。
+
+相关文件与命令：
+- 基线文件：`.kiro/specs/i18n-style-harmonization-lite/zh-english-mix-baseline.json`
+- 生成报告（不失败）：`npm run report:i18n:zh-mix`（输出 `i18n-zh-english-mix-report.json/.csv`，已在 `.gitignore` 忽略）
+- 更新基线（仅在你明确接受新范围时才用）：`npm run baseline:i18n:zh-mix`
