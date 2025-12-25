@@ -17,44 +17,36 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 ### Présentation du jeu
 
-Stick Fight est un jeu de combat rapide basé sur la physique. Tu contrôles un
-stickman dans des arènes pleines de pièges, et ton objectif est simple :
-être le dernier survivant. Les armes apparaissent aléatoirement, les décors
-peuvent s’effondrer et chaque partie dégénère très vite en chaos hilarant.
+Stick Fight est un jeu de combat rapide basé sur la physique, où tu contrôles un stickman dans des arènes dangereuses. Le but est d’être le dernier debout. Entre pièges de l’environnement et armes qui apparaissent, les rounds deviennent vite chaotiques et hilarants.
 
 ### Guide de gameplay
 
-- **Combats :** utilise coups de poing, de pied et armes ramassées dans l’arène.
-- **Physique :** profite des rebonds, reculs et collisions pour envoyer tes
-  adversaires hors de la carte.
-- **Arènes variées :** chaque niveau propose un layout et des dangers
+L’objectif de chaque manche est d’éliminer tes adversaires en les faisant tomber de l’arène ou en leur retirant toute leur vie.
 
-- **Arenas:** Each level is different, featuring unique layouts and hazards like spikes, falling blocks, or slippery ice. Adapt your strategy to the environment.
-
-- **Physics:** The game's physics engine affects everything from character movement to how weapons recoil. Use it to your advantage to perform trick shots or send enemies flying.
-  différents (pics, blocs qui tombent, glace, etc.), adapte‑toi au terrain.
+- **Combat :** utilise tes poings, tes coups de pied et les armes qui tombent dans l’arène.
+- **Physique :** le moteur physique influence les mouvements et le recul des armes ; sers‑t’en pour faire des tirs malins ou projeter tes ennemis.
+- **Arènes :** chaque niveau a son propre layout et ses dangers (pics, blocs qui tombent, glace, etc.) ; adapte‑toi au terrain.
 
 ### Commandes
 
+Les commandes reprennent celles d’un jeu de plate‑forme 2D classique :
 
-Controls are typically based on a standard 2D platformer layout:
-- **Déplacement :** `A`/`D` ou flèches gauche/droite  
-- **Saut :** `W` ou flèche haut  
-- **Accroupi :** `S` ou flèche bas  
-- **Attaque :** clic gauche ou `F`  
+- **Déplacement :** `A` et `D` ou `Flèches gauche/droite`
+- **Saut :** `W` ou `Flèche haut`
+- **Accroupi :** `S` ou `Flèche bas`
+- **Attaque :** clic gauche ou `F`
 - **Blocage :** clic droit ou `G`
 
 ### Foire aux questions (FAQ)
 
-- **But du jeu ?**  
-  Survivre plus longtemps que les autres en les faisant tomber ou en
-  épuisant leur vie.
-- **Multijoueur ?**  
-  Oui, le jeu est pensé pour 2–4 joueurs, en local ou en ligne selon la
-  version.
+**Quel est le but principal de Stick Fight ?**
 
+Être le dernier joueur en vie, en éjectant tes adversaires hors du stage ou en les battant avec des armes.
 
+**Puis‑je jouer avec des amis ?**
 
-The game features a huge arsenal of weapons, ranging from melee weapons like swords and spears to projectile weapons like handguns, shotguns, and even snake-firing bazookas.
+Oui. Stick Fight est surtout un jeu multijoueur, souvent jouable à 2–4 joueurs (en local ou en ligne selon la version).
 
-**What kind of weapons are in the game?**
+**Quels types d’armes trouve‑t‑on dans le jeu ?**
+
+Le jeu propose un grand arsenal : armes de mêlée (épées, lances) et armes à distance (pistolets, fusils à pompe…), jusqu’à des lance‑roquettes absurdes.

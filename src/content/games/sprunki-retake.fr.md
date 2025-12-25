@@ -61,22 +61,16 @@ les Mods purement « mixage ».
   pour trouver le rythme qui colle à l’ambiance.
 - **Easter eggs :** certaines combinaisons déclenchent des animations cachées
   et du contenu bonus.
-- **Immersion forte :** décors, musique et gameplay travaillent ensemble pour
+- **Laisse‑toi aller :** expérimente librement avec les sons et crée tes propres compositions d’horreur.
+- **Immersion forte :** décors, musique et gameplay travaillent ensemble pour te plonger dans une atmosphère sombre et mystérieuse, adrénaline garantie.
+- **Mode multijoueur :** fais équipe avec tes amis en ligne pour relever les défis et doubler le fun.
+- **Intégration musicale :** comme les précédents, la musique s’intègre au gameplay et renforce l’immersion pendant l’exploration et la résolution.
+- **Nouveaux personnages :** rencontre de nouveaux personnages avec des capacités et personnalités uniques, pour enrichir l’expérience.
+- **Amélioration graphique :** graphismes colorés et animations fluides qui donnent vie au monde de Sprunki.
 
-- **Multiplayer Mode:** Team up with your friends online to jointly deal with challenges and double the fun!
+---
 
-- **Musical Integration:** Like its predecessors, integrate music into the gameplay, enhancing your immersion in solving puzzles and traversing levels!
-
-- **New Characters:** Meet a variety of new characters with unique abilities and personalities to enrich your gaming experience!
-
-- **Graphics Upgrade:** The graphics are colorful and the animations are smooth, bringing the world of Sprunki to life!
-
-- **Immersive Experience:** Immerse yourself in a weird atmosphere full of darkness and mystery, guaranteeing your adrenaline soars!
-  créer une atmosphère oppressante mais fun.
-
-
-### A Summary in One Sentence:
+### Résumé en une phrase :
 Sprunki Retake réussit à conserver l’ADN musical de Sprunki tout en y
 injectant une bonne dose de frisson. Idéal si tu veux un Mod à la fois
 créatif et un peu effrayant.
-

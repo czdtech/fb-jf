@@ -14,60 +14,39 @@ tags:
 score: 4.4/5  (395 votes)
 ---
 
-Tu as envie de revoir des personnages connus sous un angle complètement
-différent ? Sprunki Swapped Horror prend des avatars familiers et les
-« échange » contre des versions altérées, souvent plus sombres et dérangeantes.
+Marre de l’expérience Incredibox habituelle ? Tu as envie d’une aventure musicale pleine de surprises ? Alors essaie Sprunki Swapped Horror. Ce mod innovant t’emmène dans un monde alternatif où les personnages sont « swap », pour créer une musique d’horreur unique avec de nouveaux paysages sonores et de nouveaux rythmes.
 
 ### Qu’est‑ce que Sprunki Swapped Horror ?
 
-Ce Mod :
+Sprunki Swapped Horror est un mod Incredibox créatif qui apporte une nouvelle dimension grâce à son mécanisme de swap de personnages. Tu y verras des figures familières sous des apparences inattendues, et tu utiliseras leurs nouveaux sons et rythmes pour créer des morceaux étonnants.
 
-- réinvente des personnages Sprunki avec de nouveaux designs horrifiques ;
-- leur assigne des sons et rythmes inédits ;
-- propose une ambiance globale plus étrange, parfois surréaliste.
+### Fonctionnalités principales de Sprunki Swapped Horror
 
-### Fonctionnalités principales
-
-- **Système de swap de personnages :** les rôles classiques sont bousculés,
-  tu peux composer avec des versions « échangées » des avatars.
-- **Nouveaux paysages sonores :** chaque personnage apporte une texture
-  différente, ce qui te pousse à explorer de nombreuses combinaisons.
-- **Animations retravaillées :** les visuels soulignent le côté « horreur »
-  et rendent tes créations plus spectaculaires.
+- **Système de swap innovant :** les personnages ne sont plus figés. Tu peux les combiner librement pour obtenir des mélanges inattendus et rendre chaque création pleine de surprises.
+- **Nouveaux paysages sonores et rythmes :** chaque personnage apporte des sons inédits, ce qui ouvre des possibilités de création quasi infinies. Teste des combinaisons et crée des morceaux uniques.
+- **Animations retravaillées :** de nouvelles animations mettent en valeur les identités « transformées » des personnages, rendant ta musique encore plus spectaculaire visuellement.
 
 ### Comment jouer à Sprunki Swapped Horror ?
 
-- choisis tes personnages parmi ce roster réinventé ;
-- expérimente des combinaisons pour créer des morceaux qui vont du bizarre au
-  franchement effrayant ;
-- partage tes créations si le site l’autorise, pour montrer tes mix les plus
+Envie de découvrir le charme de Sprunki Swapped Horror ? La prise en main est simple :
 
+- **Choisis des personnages :** sélectionne tes partenaires musicaux dans le roster de personnages réinventés.
+- **Crée des paysages sonores uniques :** combine différents personnages pour fabriquer ton propre univers sonore.
+- **Explore de nouvelles possibilités :** change les arrangements pour découvrir des surprises cachées.
+- **Partage tes créations :** montre tes compositions à la communauté et partage ton inspiration.
 
-- **Share Your Creations:** Showcase your Sprunki Swapped Horror musical compositions with the community and share your musical inspiration with everyone!
+### Conseils pour jouer à Sprunki Swapped Horror
 
-- **Explore New Musical Possibilities:** Try different character arrangements to discover hidden musical surprises.
+- **Ose le swap :** c’est le cœur du gameplay et la clé pour créer des morceaux vraiment originaux.
+- **Explore de nouveaux territoires :** utilise les sons et rythmes transformés pour produire des créations inédites.
+- **Profite des animations :** elles rendent tes mixes plus vivants et encore plus immersifs.
 
-- **Create Unique Soundscapes:** Create unique soundscapes by combining different character combinations.
-### The Story of Sprunki Swapped Horror:
+### L’histoire de Sprunki Swapped Horror
 
-- **Appreciate the New Character Animations:** The game adds newly designed character animations to make your music more vivid and interesting.
+Sprunki Swapped Horror est né de l’envie d’apporter un regard neuf sur des personnages familiers. Ce mod réimagine l’expérience musicale avec de nouveaux paysages sonores et de nouveaux rythmes.
 
-- **Explore New Musical Territories:** Use the completely transformed character sounds and rhythms to create unprecedented musical works.
+Son développement s’est concentré sur la création de combinaisons surprenantes grâce au swap, afin d’améliorer à la fois l’audio et le visuel.
 
-- **Be Bold and Try Character Swap:** In Sprunki Swapped Horror, character swap is the core gameplay and the key to creating unique music.
+Aujourd’hui, Sprunki Swapped Horror s’impose comme un mod de remix à part, où personnages revisités et mécanique d’échange se combinent pour un voyage musical aussi étrange qu’addictif.
 
-### Astuces pour jouer à Sprunki Swapped Horror:
-
-- **Share Your Creations:** Showcase your Sprunki Swapped Horror musical compositions with the community and share your musical inspiration with everyone!
-
-- **Explore New Musical Possibilities:** Try different character arrangements to discover hidden musical surprises.
-
-- **Create Unique Soundscapes:** Create unique soundscapes by combining different character combinations.
-  perturbants.
-
-Sprunki Swapped Horror s’adresse aux joueurs qui aiment voir l’univers Sprunki
-passer par un prisme plus tordu et expérimental.
-
-
-
-Join the growing Sprunki Swapped Horror community and share your experiences with this exciting Mod!
+Rejoins la communauté Sprunki Swapped Horror et partage ton expérience avec ce mod.

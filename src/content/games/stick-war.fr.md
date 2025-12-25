@@ -15,45 +15,32 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 ### Présentation du jeu
 
-Stick War est l’un des jeux web les plus connus de sa catégorie. Tu y diriges
-la nation de l’Ordre sur le monde d’Inamorta, où chaque peuple vénère sa propre
-technologie. Ton but : bâtir une armée, défendre ta statue et détruire celle
-de l’ennemi.
+Stick War est un grand classique des jeux web. C’est un jeu de stratégie en temps réel où tu prends le contrôle de la nation de l’Ordre. Dans le monde d’Inamorta, chaque peuple est dévoué à sa propre technologie : ton objectif est de bâtir une armée, détruire la statue ennemie et conquérir les territoires.
 
 ### Bases du gameplay
 
-- **Économie :** entraîne des mineurs pour récolter de l’or, ressource
-  indispensable pour produire des unités et acheter des améliorations.
-- **Armée :** compose ton armée avec des Swordwrath, Archidons, Speartons,
-  géants et Magikill, chacun ayant un rôle précis.
-- **Combat :** tu peux donner des ordres globaux (attaque/défense) ou prendre
+Le cœur du jeu repose sur la gestion des ressources et le commandement de ton armée.
 
-- **Combat:** You can command your army to attack or defend. A key feature is the ability to take direct control of any unit, significantly boosting its power and allowing for precise maneuvers. The ultimate goal is to destroy the enemy statue on the far side of the map.
-  le contrôle direct d’une unité pour des actions plus précises.
+- **Économie :** entraîne des mineurs pour récolter de l’or, ressource indispensable pour produire des unités et acheter des améliorations.
+- **Composition d’armée :** forme différentes unités, comme les Swordwrath (mêlée), Archidons (distance), Speartons (tank), les Giants (puissants) et les Magikill (mages).
+- **Combat :** tu peux donner des ordres globaux (attaque/défense). Une mécanique clé est la prise de contrôle directe d’une unité, qui renforce son efficacité et permet des manœuvres précises. Le but final est de détruire la statue ennemie à l’autre bout de la carte.
 
 ### Commandes
 
-- souris pour sélectionner les unités, former des troupes et lancer les ordres ;
-- `A`/`D` pour se déplacer et `Espace` pour attaquer lorsqu’on contrôle un
+- **Souris :** sélectionner les unités, cliquer sur les boutons d’entraînement et diriger l’armée.
+- **Déplacement (en contrôle direct) :** `A` et `D`.
+- **Attaque (en contrôle direct) :** `Espace`.
 
-- **Attack (when controlling a unit):** `Spacebar`.
-  soldat.
+### Foire aux questions (FAQ)
 
-### Conseils
+**Quelle est la meilleure stratégie de départ ?**
 
+Une stratégie efficace consiste à recruter tout de suite quelques mineurs pour sécuriser un bon revenu en or. Ensuite, entraîne un Swordwrath, prends‑le en contrôle direct et utilise‑le pour repousser la première vague pendant que ton économie se met en place.
 
-It is highly recommended to spend your first upgrade points on your Miners' bags and your statue's income to accelerate your economy. After that, focus on upgrading the units you use most often.
+**Quelles unités dois‑je utiliser ?**
 
-**What should I upgrade first?**
+Une armée équilibrée est essentielle. Les Speartons sont excellents en défense et absorbent bien les flèches, tandis que les Archidons infligent beaucoup de dégâts à distance. Les Swordwrath sont bon marché et efficaces contre les archers. Magikill et Giants deviennent très puissants en fin de partie et peuvent renverser une bataille.
 
-A balanced army is key. Speartons are excellent for defense and absorbing arrow fire, while Archidons deal high damage from a distance. Swordwrath are cheap and good against archers. Magikill and Giants are powerful late-game units that can turn the tide of a major battle.
+**Qu’est‑ce que je devrais améliorer en premier ?**
 
-**Which units should I use?**
-
-A common and effective strategy is to immediately build a few Miners to establish a strong gold income. Then, train a single Swordwrath, take control of it, and use it to defend against the first wave of enemies while your economy grows.
-
-**What is the best starting strategy?**
-- commence par booster ton économie (mineurs, revenus de statue) ;
-- ensuite, améliore les unités que tu utilises le plus ;
-- mélange unités de mêlée, à distance et lourdes pour une armée équilibrée.
-
+Il est souvent recommandé de dépenser tes premiers points d’amélioration sur les sacs des mineurs et le revenu de la statue pour accélérer ton économie. Ensuite, améliore surtout les unités que tu utilises le plus.

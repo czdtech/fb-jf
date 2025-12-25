@@ -13,53 +13,31 @@ tags:
 score: 4.3/5  (96 votes)
 ---
 
-Tu te demandes où a commencé le voyage musical Sprunki ? La réponse, c’est
-Sprunki Phase 1. Ce Mod te ramène aux débuts de l’univers : personnages
-emblématiques, interface colorée et plaisir de création pure.
+Tu t’es déjà demandé où a commencé le voyage musical Sprunki ? C’est ici : Sprunki Phase 1. Ce mod te ramène au tout début et te permet de retrouver le charme original de l’univers Sprunki, construit sur les bases d’Incredibox.
 
 ### Qu’a de spécial Sprunki Phase 1 ?
 
-Sprunki Phase 1 garde tout ce qui fait la force d’Incredibox/Sprunki, mais avec
-un ton très « première génération » :
+Sprunki Phase 1 ne fait pas juste « copier‑coller » : il garde le fun de base tout en apportant une énergie fraîche. Tu y rencontres une nouvelle galerie de personnages, comme l’artiste toujours souriant ou le musicien robot 🤖. Chacun ajoute son style musical à tes compositions : beats entraînants, mélodies accrocheuses et rythmes ludiques, parfaits pour ressentir la joie des débuts.
 
-- une galerie de personnages attachants, entre artistes souriants et
-  musiciens robotiques 🤖 ;
-- des beats simples mais efficaces ;
-- des mélodies accrocheuses et faciles à assembler.
-
-Les décors sont colorés, les personnages travaillés et l’ensemble reste clair
-pour que toute ton attention se concentre sur la création de musique.
+Côté visuel, le jeu est aussi très réussi : arrière‑plans colorés, personnages détaillés et interface agréable, sans distraire de l’essentiel. Et si la version le permet, tu peux même habiller tes personnages avec des chapeaux 🎩, accessoires et petits objets pour créer un groupe vraiment stylé.
 
 ### Comment jouer à Sprunki Phase 1 ?
 
-- **Fais venir ton équipe :** choisis les personnages qui te plaisent et
-  glisse‑les sur la scène.
-- **Mélange les sons :** chaque avatar apporte un beat, une harmonie ou un
-  effet. Combine‑les pour trouver le groove qui te plaît.
-- **Personnalise le style :** certains Mods ou variantes autorisent chapeaux,
+C’est vraiment simple :
 
-- **Easy Controls:** Just use your mouse to drag the characters around. If you want a fresh start, there might be optional keyboard shortcuts to clear the stage too.
-
-- **Style Your Band:** Don't forget to add some accessories to make your characters look extra cool while they perform.
-  accessoires ou petits détails cosmétiques pour ton groupe.
+- **Fais venir ton équipe :** choisis les personnages qui te plaisent et glisse‑les sur la scène.
+- **Mélange les sons :** chaque avatar apporte un beat, une harmonie ou un rythme. Teste des combinaisons jusqu’à trouver un groove que tu adores.
+- **Personnalise ton groupe :** ajoute des accessoires pour rendre tes personnages encore plus cool pendant la performance.
+- **Commandes faciles :** utilise simplement la souris pour déplacer les personnages ; certaines versions proposent aussi des raccourcis clavier pour vider la scène et recommencer.
 
 ### Pourquoi essayer Sprunki Phase 1 ?
 
-- **Origines de Sprunki :** parfait pour comprendre comment la série a commencé.
-- **Gameplay ultra simple :** idéal pour les débutants comme pour les joueurs
-  expérimentés qui veulent juste se détendre.
-- **Boost de créativité :** encourage l’expérimentation et les combinaisons
-  originales.
-- **Spectacle audio‑visuel :** animations dynamiques et couleurs vives
+- **Aux origines :** découvre l’« épisode zéro » et le plaisir simple des premières créations Sprunki.
+- **Simple et fun :** des contrôles faciles, parfaits pour débuter comme pour se détendre.
+- **Boost de créativité :** encourage l’expérimentation et des mixes différents à chaque partie.
+- **Un vrai plaisir audio‑visuel :** animations dynamiques et couleurs vives rendent la création très satisfaisante.
+- **Surprises cachées :** certaines combinaisons débloquent des pistes bonus et des animations exclusives.
 
+### Pour conclure
 
-- **Hidden Goodies:** Play around with different sound combos! You might just unlock secret bonus tracks and exclusive animations!
-### Let's Wrap It Up:
-
-- **Hidden Goodies:** Play around with different sound combos! You might just unlock secret bonus tracks and exclusive animations!
-  accompagnent tes compositions.
-
-Sprunki Phase 1, c’est l’entrée parfaite dans le monde Sprunki. Compose ton
-premier morceau, partage‑le si possible, et profite de la magie de la
-création musicale au bout des doigts. 🎧✨
-
+Sprunki Phase 1 est la porte d’entrée parfaite dans l’univers Sprunki. Le mod propose une expérience simple et intuitive pour créer de la musique et découvrir ce qu’était ce monde créatif à ses débuts. Que tu sois fan de longue date ou tout nouveau, Sprunki Phase 1 promet une belle balade musicale. Lance‑toi, compose ton premier morceau du bout des doigts et partage tes créations ! 🎧✨

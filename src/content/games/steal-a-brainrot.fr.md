@@ -14,74 +14,51 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 ### Présentation de Steal a Brainrot
 
-Steal a Brainrot est un jeu d’action‑infiltration multijoueur sur Roblox dont
-l’objectif est aussi absurde qu’hilarant : infiltrer une zone ultra surveillée
-pour voler un personnage « Brainrot » incarnant les memes du moment (Skibidi
-Toilet, Sigma Face, The Rizzler, etc.), puis le ramener vivant jusqu’à ta base.
+*Steal a Brainrot* est un jeu d’action‑infiltration multijoueur populaire sur la plateforme Roblox. Son objectif est aussi absurde que drôle : **infiltrer une zone lourdement gardée, voler un personnage‑meme (« Brainrot »), puis le ramener à ta base.**
 
-Le jeu mélange mécanique de « capture du drapeau » et culture meme : au lieu
-de trésors, tu kidnappes des personnages Internet sous haute surveillance. La
-carte regorge d’obstacles, de pièges et de gardes en patrouille qu’il faut
-déjouer en utilisant le décor, les gadgets et la coopération.
+Le jeu mélange l’esprit « capture du drapeau » / braquage avec la culture meme du moment. Au lieu de voler un trésor, tu dois kidnapper des personnages comme **Skibidi Toilet, Sigma Face, The Rizzler**, et d’autres.
+
+La carte est généralement un espace complexe rempli d’obstacles, de pièges et de gardes en patrouille. Il faut utiliser le décor, des gadgets et le travail d’équipe pour éviter les lignes de vue, désactiver la sécurité et atteindre la cible. Une fois le « Brainrot » récupéré, la fuite est souvent plus dangereuse : on va parfois plus lentement, une alarme peut se déclencher, et tous les gardes se mettent à chercher.
+
+Le fun vient surtout du chaos multijoueur imprévisible et du contraste entre un gameplay d’infiltration « sérieux » et des memes complètement ridicules.
 
 ### Conseils de gameplay et tactiques
 
-1. **Reconnaissance avant tout :** observe les trajets des gardes, les angles
-   morts des caméras et les cachettes avant de foncer.
-2. **Travail d’équipe :** répartis les rôles dans ton équipe :
-    - **Leurre :** attire volontairement l’attention des gardes ailleurs.
-    - **Soutien :** désactive les pièges, ouvre les portes et sécurise le chemin.
-    - **Runner :** le joueur le plus rapide récupère le Brainrot et s’enfuit.
-3. **Bien utiliser les gadgets :** grenades flash, potions d’invisibilité ou
-   autres outils doivent être gardés pour les moments critiques.
-4. **Reste discret :** évite de sprinter près des gardes, privilégie la marche
-   lente, le contournement et les couvertures.
-5. **Prévois un autre chemin de retour :** la fuite est souvent plus dangereuse
-   que l’approche, surtout si une alarme se déclenche.
-6. **Connais ton Brainrot :** certains personnages volés peuvent être plus
+1.  **Reconnaissance avant tout :** n’entre pas tête baissée. Observe la carte, les trajets des gardes, les angles morts des caméras et les cachettes.
+2.  **Travail d’équipe :** attribuer des rôles augmente fortement les chances de réussite.
+    - **Leurre :** attire l’attention des gardes pour créer une ouverture.
+    - **Soutien :** désactive les pièges, ouvre les portes et sécurise le chemin.
+    - **Runner :** le plus rapide récupère le Brainrot dès que la voie est libre.
+3.  **Bien utiliser les gadgets :** flash, invisibilité (selon la version), etc. peuvent retourner une situation s’ils sont gardés pour le bon moment.
+4.  **Reste discret :** marcher accroupi/à vitesse réduite fait souvent moins de bruit. Évite de sprinter près des gardes.
+5.  **Prévois une route de sortie différente :** au retour, tu peux être ralenti ou déclencher une alarme. Choisis un chemin plus direct ou plus couvert que l’aller.
+6.  **Connais ton « Brainrot » :** selon la version, certains Brainrots peuvent être plus lourds, plus bruyants ou avoir des contraintes qui changent ta stratégie.
 
-### **Commandes**
-   lourds ou faire du bruit, ce qui t’oblige à adapter ta route.
+### Commandes
 
+Comme c’est un jeu Roblox, les commandes suivent le standard de la plateforme :
 
+- **Déplacement :** `W`, `A`, `S`, `D`
+- **Saut :** `Espace`
+- **Sprint :** maintenir `Shift`
+- **Accroupir / discrétion :** `Ctrl` ou `C`
+- **Interagir / voler :** `E` ou `F`
+- **Utiliser un objet :** touches `1`, `2`, `3`… ou `Q`
 
-- **Use Item**: Number keys `1`, `2`, `3`... or `Q` key
+### Foire aux questions (FAQ)
 
-- **Interact / Steal**: `E` or `F` key
+**1. Où puis‑je jouer à ce jeu ?**
 
-- **Crouch / Sneak**: `Ctrl` or `C` key
+Le jeu est disponible gratuitement sur **Roblox**. Cherche **« Steal a Brainrot »** dans l’application ou sur le site, puis choisis une version populaire.
 
-- **Sprint**: Hold `Shift` key
+**2. C’est un jeu solo ou multijoueur ?**
 
-- **Jump**: `Space Bar`
+Il est conçu principalement pour le **multijoueur**, en coopération ou en compétition. On peut parfois rejoindre seul, mais l’intérêt du gameplay vient surtout des interactions avec d’autres joueurs.
 
-- **Move**: `W`, `A`, `S`, `D` keys
-### **Foire aux questions (FAQ)**
+**3. « Brainrot », ça veut dire quoi ?**
 
-- **Use Item**: Number keys `1`, `2`, `3`... or `Q` key
+C’est un terme d’argot Internet pour parler de contenus viraux « bas de gamme ». Le jeu transforme ce concept abstrait en objet/personnage que tu peux littéralement « voler », et c’est ce qui fait une grande partie de l’humour.
 
-- **Interact / Steal**: `E` or `F` key
+**4. Quel est l’objectif pour gagner ?**
 
-- **Crouch / Sneak**: `Ctrl` or `C` key
-
-- **Sprint**: Hold `Shift` key
-
-- **Jump**: `Space Bar`
-
-- **Move**: `W`, `A`, `S`, `D` keys
-Steal a Brainrot brille surtout par son chaos multijoueur et le contraste
-entre gameplay sérieux d’infiltration et personnages complètement absurdes.
-
-
-
-Typically, the goal is for a team to successfully steal and return the "Brainrot" to their base the most times within a time limit. Other game modes might exist, such as completing the heist without being detected at all.
-
-**4. What is the objective to win the game?**
-
-It's an internet slang term for low-quality, viral online content. This game turns that abstract concept into a physical object you can actually "steal," which is the source of its humor.
-
-**3. What exactly is a "Brainrot"?**
-
-It is designed primarily for **multiplayer** cooperative or competitive play. While you might be able to enter a server alone, the core fun and gameplay are centered around interacting with other players.
-
-**2. Is this game single-player or multiplayer?**
+En général, une équipe doit voler et ramener le Brainrot à sa base le plus de fois possible dans une limite de temps. D’autres modes peuvent exister, comme réussir le casse sans se faire repérer.

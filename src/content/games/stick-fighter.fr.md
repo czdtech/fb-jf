@@ -18,53 +18,36 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 ### Présentation du jeu
 
-Stick Fighter reprend le principe des arènes stickman basées sur la physique :
-tu te bats contre d’autres personnages bâtons dans des niveaux remplis
-d’obstacles, d’armes et de dangers environnementaux.
+Stick Fighter est un jeu de combat rapide basé sur la physique, où tu contrôles un stickman dans des arènes dangereuses. Le but est d’être le dernier debout. Entre pièges de l’environnement et armes qui apparaissent, les rounds deviennent vite chaotiques et fun.
 
 ### Guide de gameplay
 
-L’objectif est de faire chuter ou K.O. tes adversaires.
+L’objectif de chaque manche est d’éliminer tes adversaires en les faisant tomber de l’arène ou en leur retirant toute leur vie.
 
-- ramasse les armes qui tombent dans l’arène ;
-- utilise la physique (recul, projections, chutes) à ton avantage ;
-- apprends la disposition de chaque arène pour piéger tes ennemis.
-
+- **Combat :** utilise tes poings, tes coups de pied et les armes qui tombent dans l’arène.
+- **Physique :** le moteur physique influence les mouvements et le recul des armes ; sers‑t’en pour faire des actions précises ou projeter tes ennemis.
+- **Arènes :** chaque niveau a son propre layout et ses dangers (pics, blocs qui tombent, glace, etc.) ; adapte‑toi au terrain.
 
 ### Commandes
-Les commandes restent proches de celles d’un jeu de plate‑forme 2D classique
 
+Les commandes reprennent celles d’un jeu de plate‑forme 2D classique :
 
-- **Block:** `Right Mouse Button` or `G`
+- **Déplacement :** `A` et `D` ou `Flèches gauche/droite`
+- **Saut :** `W` ou `Flèche haut`
+- **Accroupi :** `S` ou `Flèche bas`
+- **Attaque :** clic gauche ou `F`
+- **Blocage :** clic droit ou `G`
 
-- **Attack:** `Left Mouse Button` or `F`
-
-- **Crouch:** `S` or `Down Arrow` Key
-
-- **Jump:** `W` or `Up Arrow` Key
-
-- **Move:** `A` and `D` or `Left/Right Arrow Keys`
 ### Foire aux questions (FAQ)
 
-- **Block:** `Right Mouse Button` or `G`
+**Quel est le but principal du jeu ?**
 
-- **Attack:** `Left Mouse Button` or `F`
+Être le dernier joueur en vie, en éjectant tes adversaires hors du stage ou en les battant avec des armes.
 
-- **Crouch:** `S` or `Down Arrow` Key
+**Puis‑je jouer avec des amis ?**
 
-- **Jump:** `W` or `Up Arrow` Key
+Oui. Le jeu est surtout multijoueur, souvent jouable à 2–4 joueurs (en local ou en ligne selon la version).
 
-- **Move:** `A` and `D` or `Left/Right Arrow Keys`
-(déplacements, saut, attaque, garde).
+**Quels types d’armes trouve‑t‑on dans le jeu ?**
 
-
-
-The game features a huge arsenal of weapons, ranging from melee weapons like swords and spears to projectile weapons like handguns, shotguns, and even snake-firing bazookas.
-
-**What kind of weapons are in the game?**
-
-Yes, Stick Fight is primarily a multiplayer game, often supporting both local and online matches with 2-4 players.
-
-**Can I play this game with friends?**
-
-To be the last player standing by knocking your opponents off the stage or defeating them with weapons.
+Le jeu propose un grand arsenal : armes de mêlée (épées, lances) et armes à distance (pistolets, fusils à pompe…), jusqu’à des armes complètement absurdes.
