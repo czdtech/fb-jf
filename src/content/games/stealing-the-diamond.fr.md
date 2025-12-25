@@ -18,51 +18,30 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 ### Présentation du jeu
 
-Stealing the Diamond fait partie de la série culte Henry Stickmin. C’est un
-jeu d’aventure point‑and‑click où tu dois choisir comment Henry va tenter de
-voler un gigantesque diamant exposé dans un musée.
+Stealing the Diamond est un jeu d’aventure interactif culte de la série Henry Stickmin. Tu incarnes Henry, et ton objectif est de réussir à voler un énorme diamant dans un musée très protégé. Le jeu est célèbre pour son humour : chaque choix mène à une scène différente, souvent complètement absurde.
 
-À chaque étape, plusieurs options s’offrent à toi : gadgets absurdes, déguises
-improbables, plan d’infiltration discret… ou totalement bourrin. La plupart
-des choix mènent à des échecs hilarants, mais certains te permettent d’arriver
-au bout du casse.
+### Guide de jeu
 
-### Comment jouer
+Le principe est simple : à différents moments de l’histoire, tu dois choisir entre deux (ou plus) options — un outil, une action, un plan. Ton choix détermine la suite. La majorité des décisions mènent à un écran d’échec (« Fail ») avec une description drôle, tandis que certaines combinaisons te conduisent à l’une des trois fins réussies. Le plaisir vient de l’exploration des chemins et de la découverte de tous les résultats possibles.
 
-- clique sur les choix proposés à l’écran pour faire avancer l’histoire ;
-- observe les conséquences (souvent comiques) de chaque décision ;
-- recommence avec d’autres options pour découvrir toutes les fins.
+### Commandes
 
-Stealing the Diamond est parfait si tu aimes l’humour slapstick, les références
+- **Souris :** clique sur l’option que tu veux choisir.
 
 ### Foire aux questions (FAQ)
 
-- **Mouse:** Use your mouse to click on the option you want to choose.
+**Combien de façons existe‑t‑il pour gagner ?**
 
-### Commandes
-pop culture et les jeux à embranchements.
+Il y a trois fins réussies dans Stealing the Diamond :
 
+- la fin « Aggressive » ;
+- la fin « Undetected » ;
+- la fin « Epic ».
 
+**À quoi servent tous les « Fails » ?**
 
-Yes, Stealing the Diamond is the third game in the popular Henry Stickmin series, following *Breaking the Bank* and *Escaping the Prison*.
+Les nombreux écrans d’échec font partie du charme du jeu. Trouver les 40+ fails est un objectif en soi pour beaucoup de joueurs, et c’est nécessaire pour terminer le jeu à 100 %.
 
-**Is this part of a series?**
+**Est‑ce que ça fait partie d’une série ?**
 
-The numerous and humorous fail screens are a core part of the game's charm and comedy. Finding all 40+ fails is a key objective for many players and is necessary for 100% completion.
-
-**What is the point of all the "Fails"?**
-
-- The "Epic" ending.
-
-- The "Undetected" ending.
-
-- The "Aggressive" ending.
-
-There are three successful endings in Stealing the Diamond:
-
-
-Yes, Stealing the Diamond is the third game in the popular Henry Stickmin series, following *Breaking the Bank* and *Escaping the Prison*.
-
-**Is this part of a series?**
-
-The numerous and humorous fail screens are a core part of the game's charm and comedy. Finding all 40+ fails is a key objective for many players and is necessary for 100% completion.
+Oui. Stealing the Diamond est le troisième jeu de la série Henry Stickmin, après *Breaking the Bank* et *Escaping the Prison*.

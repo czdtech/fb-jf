@@ -17,7 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### Présentation détaillée du jeu
 
-Blockbuster Puzzle tasks you with fitting incoming shapes to trigger line or cluster clears. The art is in pacing: keep multiple lanes viable, prepare “bomb” turns that clear large areas, and never burn your last escape pocket unless it secures a chain.
+Blockbuster Puzzle te met au défi de placer les formes qui arrivent pour déclencher des suppressions de lignes ou de groupes. Tout est une question de rythme : garde plusieurs colonnes jouables, prépare des tours « bombe » qui nettoient de grandes zones, et ne brûle jamais ta dernière poche de secours sauf si elle déclenche une chaîne.
 
 ### Stratégies de jeu et progression
 
@@ -29,19 +29,19 @@ Blockbuster Puzzle tasks you with fitting incoming shapes to trigger line or clu
 
 ### Commandes
 
-- Drag‑and‑drop pieces; rotate if supported.
-- Undo/Reset can recover from greedy mistakes.
+- Glisse‑dépose les pièces ; fais‑les pivoter si la version le permet.
+- Annuler/Réinitialiser peut te sauver d’un placement trop gourmand.
 
 ### Foire aux questions (FAQ)
 
-- Q: Why do I keep losing despite early good clears?
+- Q: Pourquoi je perds alors que je fais de bons clears au début ?
 
-A: You’re over‑committing to one side and losing flexibility. Rebalance and keep a bailout pocket.
+A: Tu t’engages trop d’un côté et tu perds en flexibilité. Rééquilibre et garde une poche de secours.
 
-- Q: Is rotation required to win?
+- Q: La rotation est‑elle nécessaire pour gagner ?
 
-A: No, but it helps. When rotation is limited, rely on symmetry and larger open lanes.
+A: Non, mais ça aide. Si la rotation est limitée, mise sur la symétrie et garde des couloirs bien ouverts.
 
-- Q: Should I place big shapes first or last?
+- Q: Dois‑je poser les grosses formes en premier ou en dernier ?
 
-A: When the grid is tight, place the hardest shape first. When open, place to create multi‑line setups.
+A: Quand la grille est serrée, pose d’abord la forme la plus difficile. Quand elle est ouverte, place pour préparer des setups multi‑lignes.

@@ -15,89 +15,42 @@ score: 4.6/5  (4216 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
-### Présentation
+### Présentation du jeu
 
-Super Smash Flash 2 v0.8 reprend le principe de Smash : des personnages issus
-de multiples univers se battent sur des stages où le but est d’éjecter les
-adversaires hors de l’écran.
+Super Smash Flash 2 est la suite très attendue du célèbre jeu de combat fan‑made. C’est une énorme amélioration par rapport à l’original : plus de personnages, des stages plus soignés, et un gameplay bien plus technique et équilibré, proche de la série officielle Super Smash Bros. C’est l’un des projets de fans les plus complets et impressionnants du genre.
 
-### Bases du gameplay
+### Guide de jeu
 
-- **Dégâts :** chaque coup augmente un pourcentage de dégâts sur l’adversaire.
-- **Lancer :** plus le pourcentage est élevé, plus un smash peut l’envoyer
-  loin.
-- **Récupération :** utilise tes sauts et attaques spéciales pour revenir sur
-  la plateforme.
-- **Objets :** des items apparaissent et peuvent inverser le cours d’un match.
+Comme dans son inspiration, le but est d’éjecter tes adversaires hors de l’écran en augmentant leur pourcentage de dégâts.
 
+- **Techniques avancées :** SSF2 propose des mécaniques comme le dash, le bouclier, la saisie et de nombreuses attaques aériennes, rendant les combats beaucoup plus profonds que dans le premier jeu.
+- **Roster de personnages :** des dizaines de personnages issus de jeux vidéo et d’anime, chacun avec un moveset fidèle et unique.
+- **Modes de jeu :** plusieurs modes en solo et en multijoueur, dont un mode Versus classique et des défis/événements.
 
+### Commandes
 
+Les commandes sont entièrement personnalisables. Un mapping par défaut courant pour le joueur 1 est :
 
-- **Game Modes:** Includes various modes for both single-player and multiplayer, such as standard Versus mode and event-based challenges.
-Yes, the development team at McLeodGaming continues to release updates, adding new characters, stages, and features to the game.
-
-**Is this game still being updated?**
-
-Yes, the game has built-in support for a wide variety of controllers, which can be configured in the options menu.
-
-**Can I use a controller?**
-
-Super Smash Flash 2 is a complete overhaul. It features a new engine, much smoother animations, a larger and more balanced cast of characters, more competitive mechanics, and online play.
-
-**How is this different from the first Super Smash Flash?**
+- **Déplacement :** `A` et `D`
+- **Monter / viser vers le haut :** `W`
+- **S’accroupir / viser vers le bas :** `S`
+- **Saut :** `Espace`
+- **Attaque standard :** `J`
+- **Attaque spéciale :** `K`
+- **Bouclier :** `L`
+- **Saisie :** `U`
+- **Pause :** `Enter`
 
 ### Foire aux questions (FAQ)
 
-- **Pause:** `Enter`
+**Quelles différences avec le premier Super Smash Flash ?**
 
-- **Grab:** `U`
+Super Smash Flash 2 est une refonte complète : nouveau moteur, animations plus fluides, roster plus large et mieux équilibré, mécaniques plus compétitives et jeu en ligne.
 
-- **Shield:** `L`
+**Puis‑je utiliser une manette ?**
 
-- **Special Attack:** `K`
+Oui. Le jeu intègre la prise en charge de nombreuses manettes, configurables via le menu des options.
 
-- **Standard Attack:** `J`
+**Le jeu reçoit‑il encore des mises à jour ?**
 
-- **Jump:** `Spacebar`
-
-- **Crouch/Aim Down:** `S`
-
-- **Up/Aim Up:** `W`
-
-- **Move:** `A` and `D`
-
-Controls are fully customizable. A common default layout for Player 1 is:
-
-
-- **Pause:** `Enter`
-
-- **Grab:** `U`
-
-- **Shield:** `L`
-
-- **Special Attack:** `K`
-
-- **Standard Attack:** `J`
-
-- **Jump:** `Spacebar`
-
-- **Crouch/Aim Down:** `S`
-
-- **Up/Aim Up:** `W`
-
-- **Move:** `A` and `D`
-### Commandes
-
-
-Yes, the development team at McLeodGaming continues to release updates, adding new characters, stages, and features to the game.
-
-**Is this game still being updated?**
-
-Yes, the game has built-in support for a wide variety of controllers, which can be configured in the options menu.
-
-**Can I use a controller?**
-
-Super Smash Flash 2 is a complete overhaul. It features a new engine, much smoother animations, a larger and more balanced cast of characters, more competitive mechanics, and online play.
-
-**How is this different from the first Super Smash Flash?**
-- **Game Modes:** Includes various modes for both single-player and multiplayer, such as standard Versus mode and event-based challenges.
+Oui. L’équipe de McLeodGaming continue de publier des mises à jour, en ajoutant des personnages, des stages et des fonctionnalités.

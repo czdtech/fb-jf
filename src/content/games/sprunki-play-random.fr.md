@@ -13,69 +13,45 @@ score: 4.5/5  (614 votes)
 
 ### Présentation de Sprunki Play Random
 
-Sprunki Play Random prend le concept d’Incredibox et y ajoute une grosse dose
-de hasard. Tu ne sais jamais vraiment quel son va sortir du prochain
-personnage… et c’est justement ça qui rend chaque partie unique.
+Sprunki Play Random est un jeu de création musicale plein de surprises. Si tu aimes les défis et l’exploration, il est fait pour toi. Rejoins Sprunki Play Random : laisse les sons aléatoires réveiller ton inspiration et crée des morceaux uniques.
 
 ### En quoi Sprunki Play Random est spécial ?
 
-- chaque personnage peut recevoir un son aléatoire ;
-- la même combinaison de personnages ne donne pas forcément le même résultat ;
-- tu es obligé d’écouter, d’adapter et de composer « avec ce que tu as ».
+En bref, Sprunki Play Random transforme la création musicale en aventure pleine d’inconnues. Tu ne sais jamais quel son sortira du prochain personnage : à toi d’utiliser ces sons tirés au hasard pour composer un mix original.
 
-Le jeu devient une sorte de défi créatif : faire un bon morceau à partir de
-tirages complètement imprévisibles.
+---
 
 ### Comment jouer à Sprunki Play Random ?
 
-- **Souris / écran tactile :** clique ou touche un personnage puis fais‑le
-  glisser sur la scène pour l’activer.
-- **Déplace les personnages :** change leur position pour tester d’autres
-  équilibres sonores.
-- **Retire un personnage :** double‑clique ou double‑tape pour le retirer de la
-  scène.
-- **Utilise le menu :** selon la plateforme, tu peux sauvegarder, relancer ou
+La prise en main est très simple, à la souris ou au doigt :
 
-- **Menu:** Click the menu icon to save, restart, or share your work.
-  partager ton mix.
+- **Souris / tactile :** clique/touche et fais glisser le personnage sur la scène.
+- **Déplacer les personnages :** fais‑les glisser pour changer les sons et tester d’autres combinaisons.
+- **Retirer un personnage :** double‑clique/double‑tape pour le retirer de la scène.
+- **Menu :** clique sur l’icône du menu pour sauvegarder, relancer ou partager ton mix.
 
 ### Démarre ton voyage musical aléatoire
 
-- clique sur « play » pour commencer ;
-- accepte le hasard : écoute d’abord ce que le jeu te donne ;
-- réorganise, retire, ajoute des personnages jusqu’à trouver un groove qui te
-  plaît ;
-- si une combinaison sonne particulièrement bien, essaie de la mémoriser ou de
+- **Clique sur Play :** appuie sur le bouton Play pour entrer dans la création aléatoire.
+- **Glisser‑déposer :** choisis un personnage dans le panneau en bas et dépose‑le sur la scène pour lancer sa boucle.
+- **Accepte le hasard :** le jeu attribue des sons au hasard à chaque personnage, tu ne peux pas les prévoir.
+- **Mixer et tester :** change les combinaisons pour créer des beats uniques.
+- **Débloquer des bonus :** explore des combinaisons cachées qui déclenchent des animations spéciales et des pistes bonus.
 
-- **Unlock Bonuses:** Explore hidden sound combinations that trigger special animations and bonus tracks!
-  la partager.
+---
 
+### Astuces pour jouer à Sprunki Play Random
 
-- **Full of Exploration Fun:** Discover hidden sound combinations, unlock special animations and bonus tracks, making your creation process full of surprises.
+- **Essaye différentes dispositions :** la position des personnages influence le rendu final ; ose tester jusqu’à trouver la meilleure.
+- **Garde l’équilibre :** combine beats, mélodies et voix pour un morceau plus riche.
+- **Écoute attentivement :** certaines différences sont subtiles ; certaines combinaisons débloquent des récompenses cachées.
+- **Commence avec peu de personnages :** construis ton mix petit à petit pour mieux contrôler l’ensemble.
+- **Rejoue pour découvrir des secrets :** les sons aléatoires renouvellent chaque partie ; rejoue pour trouver des Easter eggs.
 
-- **Simple and Easy-to-Use Operation:** Continues the classic gameplay of Incredibox, allowing you to easily get started.
+### Points forts de Sprunki Play Random
 
-- **Unique Randomness:** Each creation is a brand new experience, making you always full of expectations.
+- **Hasard unique :** chaque création est une nouvelle expérience, pleine de surprises.
+- **Simple et facile à prendre en main :** reprend le gameplay classique d’Incredibox et te permet de démarrer rapidement.
+- **Plein de découverte :** débloque des animations spéciales et des pistes bonus en trouvant des combinaisons cachées.
 
-### Highlights of Sprunki Play Random:
-
-- **Replay to Discover Secrets:** Random sounds make each game full of surprises, keep replaying to discover hidden Easter eggs!
-
-- **Start with Fewer Characters:** Build your music with fewer characters first, so you can better control the overall effect.
-
-- **Listen Carefully:** Pay attention to the subtle differences between different sounds, some sound combinations can unlock hidden rewards!
-
-- **Focus on Balance:** Combine beats, melodies, and vocals to create a richer musical work.
-
-- **Try Different Arrangements:** The position of the characters affects the final sound effect, be bold and try to find the most suitable arrangement!
-
-### Astuces pour jouer à Sprunki Play Random:
-
-- **Full of Exploration Fun:** Discover hidden sound combinations, unlock special animations and bonus tracks, making your creation process full of surprises.
-
-- **Simple and Easy-to-Use Operation:** Continues the classic gameplay of Incredibox, allowing you to easily get started.
-
-- **Unique Randomness:** Each creation is a brand new experience, making you always full of expectations.
-Sprunki Play Random est parfait si tu aimes expérimenter, improviser et laisser
-le jeu t’inspirer plutôt que tout contrôler.
-
+Sprunki Play Random est parfait si tu aimes expérimenter, improviser et laisser le jeu t’inspirer plutôt que tout contrôler.
