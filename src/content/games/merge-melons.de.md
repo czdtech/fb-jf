@@ -49,6 +49,8 @@ ohne dass der Fruchtberg über den oberen Rand hinauswächst.
 
 ### Steuerung
 
+Die Steuerung ist sehr unkompliziert.
+
 - **Ausrichten (Desktop):** Bewege die Maus nach links oder rechts, um die
   Fallposition zu bestimmen.  
 - **Fallen lassen (Desktop):** Klicke mit der linken Maustaste, um die Frucht

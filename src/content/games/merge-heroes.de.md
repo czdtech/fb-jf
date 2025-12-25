@@ -49,6 +49,8 @@ wie sie Welle um Welle automatisch bekämpfen.
 
 ### Steuerung
 
+Gespielt wird mit einfacher Drag-and-drop-Steuerung.
+
 - **Held kaufen:** Klicke auf „Buy“, um gegen Gold einen neuen Basishelden zu
   erhalten.  
 - **Helden merg en:** Ziehe einen Helden auf einen identischen Helden, um eine

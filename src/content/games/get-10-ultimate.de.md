@@ -40,6 +40,8 @@ wahre Reiz liegt darin, wie weit du darüber hinauskommst.
 
 ### Steuerung
 
+Gespielt wird mit einem einzigen Klick oder Tap.
+
 - **Zahlen zusammenführen:** Tippe/klicke auf eine Gruppe aus zwei oder mehr
   benachbarten Kacheln mit derselben Zahl. Die neue, höhere Zahl erscheint
   genau an der Stelle, auf die du getippt hast.

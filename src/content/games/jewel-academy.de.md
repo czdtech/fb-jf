@@ -52,6 +52,8 @@ hunderte knifflige Aufgaben.
 
 ### Steuerung
 
+Das Spiel wird mit Maus oder Touchscreen gespielt.
+
 - **Juwelen tauschen:** Mit Maus oder Touch auf ein Juwel, dann auf ein
   benachbartes klicken, oder per Drag-and-drop verschieben. Der Tausch ist nur
   gültig, wenn mindestens eine Dreier-Kombo entsteht.

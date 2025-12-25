@@ -49,6 +49,8 @@ gezielt an der Frontlinie positionierst.
 
 ### Steuerung
 
+Gesteuert wird komplett mit Maus oder Finger.
+
 - **Einheit kaufen:** Klicke auf „Buy“, um eine neue Basiseinheit zu erwerben –
   sie erscheint im Reservegitter.
 - **Mergen:** Ziehe eine Einheit auf eine identische Einheit, um sie zur

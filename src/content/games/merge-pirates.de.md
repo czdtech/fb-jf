@@ -49,6 +49,8 @@ erfüllen, Gold zu verdienen und alle legendären Piratenitems freizuschalten.
 
 ### Steuerung
 
+Gespielt wird mit einfacher Drag-and-drop-Steuerung.
+
 - **Items merg en:** Ziehe einen Gegenstand auf einen identischen, um ihn zur
   nächsthöheren Stufe zu verschmelzen.
 - **Items kaufen:** Öffne den Shop und klicke auf das gewünschte Item, um es

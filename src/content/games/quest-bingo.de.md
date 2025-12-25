@@ -43,6 +43,8 @@ Quest Bingo bringt das klassische Bingo in ein Level- und Quest-System.
 
 ### Steuerung
 
+Gespielt wird mit einfachen Klicks oder Taps.
+
 *   **Zahl markieren:** Wenn eine angesagte Zahl auf deiner Karte vorhanden
     ist, klicke oder tippe auf dieses Feld, um es zu markieren.
 *   **Bingo ausrufen:** Sobald du ein Gewinnmuster vervollständigt hast,

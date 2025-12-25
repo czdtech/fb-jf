@@ -49,6 +49,8 @@ für Extrapunkte und Münzen zu erfüllen.
 
 ### Steuerung
 
+Gespielt wird mit einfacher Drag-and-drop-Steuerung.
+
 - **Edelsteine merg en:** Ziehe einen Stein auf einen identischen, um ihn
   aufzuwerten.  
 - **Steine kaufen:** Öffne den Shop und kaufe Edelsteine, die du bereits

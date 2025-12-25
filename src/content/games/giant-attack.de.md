@@ -41,6 +41,8 @@ fallen deine Projektile aus.
 
 ### Steuerung
 
+Die Steuerung ist bewusst einfach und intuitiv gehalten.
+
 - **Bewegung:** Ziehe deinen Helden mit Maus oder Finger nach links und rechts
   über das Feld, um Verbündete zu sammeln und Angriffen auszuweichen.
 - **Angriff:** Läuft automatisch – dein Charakter wirft kontinuierlich Waffen,

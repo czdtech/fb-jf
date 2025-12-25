@@ -33,41 +33,50 @@ Sagenwelt freischalten.
 
 ### Strategie & Tipps
 
-1.  **Kategorien im Überblick**  
-    *   **Beats (Rot):** Mischung aus modernen, basslastigen Drums und
-        traditionellen Percussion-Sounds wie **Taiko-Trommeln**.  
-*   **Effekte (Blau):** Atmosphärische Synths mit fernöstlichem Charakter,
-        Umgebungsgeräusche und rhythmische Chants.  
-    *   **Melodien (Grün):** Loops von **Shamisen**, **Koto** oder anderen
-        Saiteninstrumenten, kombiniert mit modernen Synth-Lines.  
-    *   **Vocals (Gelb):** Gesang, Harmonien und kraftvolle Rufe im Stil von
-        "Kakegoe" aus Theater oder Kampfkunst.
+Die Strategie in *Incredibox YaBoo* besteht darin, die einzigartigen Sounds zu
+schichten, einen stimmigen Mix zu bauen und dabei die versteckten
+Bonus‑Animationen zu entdecken.
 
-    - **Tradition & Moderne mischen**  
-    Lege z. B. eine Shamisen-Melodie über einen modernen Beat – gerade dieser
-    Kontrast macht den Mod besonders.
+1.  **Japanisch inspirierte Kategorien verstehen:**  
+    *   **Beats (Rot):** Moderne, basslastige Beats treffen auf traditionelle
+        Percussion wie **Taiko‑Trommeln**.  
+    *   **Effekte (Blau):** Atmosphärische Synths mit fernöstlichem Charakter,
+        Umgebungsgeräusche und rhythmische Chants, die Tiefe geben.  
+    *   **Melodien (Grün):** Loops von **Shamisen**, **Koto** und anderen
+        Saiteninstrumenten, gemischt mit modernen Synth‑Melodien.  
+    *   **Voices (Gelb):** Japanisch geprägte Vocal‑Parts – von melodischem
+        Gesang und Harmonien bis zu kraftvollen Rufen im Stil von „Kakegoe“.
 
-    - **Bonis systematisch suchen**  
-    Baue dir einen stabilen Kern-Groove und tausche danach einzelne Icons der
-    übrigen Slots durch, bis du Bonus-Animationen auslöst.
+2.  **Tradition und Moderne mischen:**  
+    Lege z. B. eine Shamisen‑Melodie über einen schweren, modernen Beat. Gerade
+    die Kontraste machen den Mix spannend.
 
-4.  **Auf visuelle Hinweise achten**  
-    Figuren verändern sich mit bestimmten Sounds – manchmal deuten Outfits oder
-    Effekte an, welche Kombinationen gut zusammenpassen.
+3.  **Boni systematisch suchen:**  
+    Baue dir erst einen stabilen Kern‑Groove und tausche dann gezielt einzelne
+    Sounds durch, bis du eine Bonus‑Animation triffst.
 
-5.  **Solo/Mute nutzen**  
+4.  **Auf die Erzählung achten:**  
+    Sounds und Animationen erzählen eine kleine Geschichte. Beobachte, wie sich
+    Figuren und Details mit jedem Sound verändern – das kann Hinweise geben,
+    welche Elemente zusammengehören.
 
-- **Solo und Mute für Übersicht nutzen:** Wenn dein Mix zu voll wirkt, schalte
-  einzelne Figuren stumm. Mit Solo isolierst du eine Stimme oder ein
-  Instrument, um Details besser zu hören und zu prüfen, wie es in den Track
-  passt.
-- **Auf die Erzählung achten:** Sounds und Animationen erzählen eine kleine
-  Geschichte. Beobachte, wie sich die Figuren mit jedem Sound verändern – das
-  kann Hinweise geben, welche Elemente zusammengehören.
+5.  **Solo und Mute für Übersicht nutzen:**  
+    Wenn dein Mix zu voll wirkt, schalte einzelne Figuren stumm. Mit Solo
+    isolierst du eine Stimme oder ein Instrument, um Details besser zu hören
+    und zu prüfen, wie es in den Track passt.
 
 ### Steuerung
 
-- Icons per Drag-and-drop auf Figuren legen, mit "X" oder neuem Icon ersetzen.  
-- Per Klick auf die Figuren kannst du sie muten/unmuten; mit Solo blendest du
-  alle anderen Stimmen aus.  
-- Über den Record-Button nimmst du deinen YaBoo-Track auf.
+Die Steuerung entspricht der üblichen, benutzerfreundlichen Incredibox-
+Oberfläche und wird vor allem per Maus bedient.
+
+*   **Sound hinzufügen:** Ziehe ein Sound‑Icon unten auf eine Figur und lege es
+    dort ab.
+*   **Sound entfernen:** Klicke auf das „X“ am aktiven Sound‑Icon unten oder
+    ziehe ein neues Icon auf eine Figur, um den Sound zu ersetzen.
+*   **Stumm / Laut:** Klicke auf eine spielende Figur, um sie stummzuschalten;
+    klicke erneut, um sie wieder zu aktivieren.
+*   **Solo:** Klicke auf den kleinen Button neben einer aktiven Figur, um alle
+    anderen Performer stummzuschalten.
+*   **Aufnehmen:** Klicke auf den Record‑Button, um die Aufnahme zu starten und
+    zu stoppen.

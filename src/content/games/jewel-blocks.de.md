@@ -48,6 +48,8 @@ voll läuft.
 
 ### Steuerung
 
+Das Spiel nutzt eine einfache Drag-and-drop-Steuerung.
+
 - **Auswählen & Platzieren:** Klicke/Tippe auf eine der drei Formen unten und
   ziehe sie auf das 10x10-Gitter.  
 - **Loslassen:** Lasse die Maustaste oder den Finger los, um die Form im

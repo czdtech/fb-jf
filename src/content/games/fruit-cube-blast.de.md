@@ -28,23 +28,28 @@ mit denen du riesige Teile des Felds leeren kannst.
 
 ### Strategie & Tipps
 
-1. **Je größer, desto besser:** Suche nach den größten möglichen Gruppen. Kleine
-   Zweier- oder Dreiergruppen sind ineffizient – größere Cluster räumen mehr
-   Platz und können Booster erzeugen.
-2. **Booster bauen und kombinieren:**  
-    - **Rakete:** Entsteht meist aus Gruppen mittlerer Größe und räumt eine
-     ganze Reihe oder Spalte.  
-    - **Bombe:** Sprengt ein 3x3-Feld, ideal zum Öffnen von blockierten Zonen.  
-    - **Farbrad/Farbbombe:** Löscht alle Würfel einer Farbe und dreht das
-     komplette Board.  
-   Noch stärker werden Booster, wenn du zwei davon nebeneinander aktivierst –
-   z.B. Rakete + Bombe für eine riesige Explosion.
-    - **Auf Missionsziele achten:** Schau immer nach, ob du z.B. eine bestimmte
-   Anzahl roter Würfel sammeln oder ein Objekt nach unten bringen musst, und
-   richte deine Züge entsprechend aus.
-4. **Züge sparen:** Da deine Züge begrenzt sind, solltest du sie nicht an Mini‑Gruppen verschwenden. Plane lieber ein, zwei Züge voraus, um große Gruppen oder Booster‑Combos vorzubereiten.
+1.  **Je größer, desto besser:** Suche nach den größten möglichen Gruppen. Kleine
+    Zweier- oder Dreiergruppen sind ineffizient – größere Cluster räumen mehr
+    Platz und können Booster erzeugen.
+2.  **Booster bauen und kombinieren:**  
+    *   **Rakete:** Entsteht meist aus Gruppen mittlerer Größe und räumt eine
+        ganze Reihe oder Spalte.  
+    *   **Bombe:** Sprengt ein 3x3-Feld, ideal zum Öffnen von blockierten Zonen.  
+    *   **Farbrad/Farbbombe:** Löscht alle Würfel einer Farbe und kann große
+        Teile des Boards umdrehen.  
+    *   **Kombinieren:** Noch stärker werden Booster, wenn du zwei davon
+        nebeneinander aktivierst – z. B. Rakete + Bombe für eine riesige
+        Explosion.
+3.  **Auf Missionsziele achten:** Schau immer nach, ob du z. B. eine bestimmte
+    Anzahl roter Würfel sammeln oder ein Objekt nach unten bringen musst, und
+    richte deine Züge entsprechend aus.
+4.  **Züge sparen:** Da deine Züge begrenzt sind, solltest du sie nicht an
+    Mini‑Gruppen verschwenden. Plane lieber ein, zwei Züge voraus, um große
+    Gruppen oder Booster‑Combos vorzubereiten.
 
 ### Steuerung
+
+Die Steuerung ist extrem einfach.
 
 - **Würfel sprengen:** Tippe/klicke auf eine Gruppe aus mindestens zwei
   verbundenen Würfeln derselben Farbe.

@@ -50,6 +50,8 @@ alle Rezepte im „Kuchenbuch“ zu entdecken.
 
 ### Steuerung
 
+Gespielt wird mit einfacher Drag-and-drop-Steuerung.
+
 - **Kuchen merg en:** Ziehe einen Kuchen auf einen identischen, um eine höhere
   Stufe zu erzeugen.  
 - **Kuchen kaufen:** Öffne den Shop und klicke auf den gewünschten Kuchen, um

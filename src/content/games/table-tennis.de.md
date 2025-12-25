@@ -29,6 +29,7 @@ Table Tennis bringt eine vereinfachte, aber flotte Tischtennis‑Simulation auf 
 
 ### Steuerung
 
+- **Mausbewegung:** Der Schläger folgt direkt deinem Mauszeiger.
 - **Schläger bewegen:** Bewege den Mauszeiger nach links/rechts auf deiner Tischhälfte.
 - **Ball treffen:** Es reicht, den Schläger in die Flugbahn zu bringen – der Schlag erfolgt automatisch, Winkel und Tempo hängen von deiner Position und Bewegung ab.
 

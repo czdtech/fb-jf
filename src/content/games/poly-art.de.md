@@ -44,6 +44,8 @@ Poly Art (auch als Poly Puzzle bekannt) ist ein optisch beeindruckendes,
 
 ### Steuerung
 
+Die Steuerung ist minimalistisch und intuitiv.
+
 *   **Drehen (Desktop):** Halte die linke Maustaste gedrückt und bewege die
     Maus nach links, rechts, oben oder unten, um den Polygon-Haufen zu drehen.
 *   **Drehen (Mobil):** Wische mit dem Finger in die gewünschte Richtung.

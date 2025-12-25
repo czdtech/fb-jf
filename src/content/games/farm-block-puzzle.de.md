@@ -43,6 +43,8 @@ zu erzielen.
 
 ### Steuerung
 
+Das Spiel nutzt eine einfache Drag-and-drop-Steuerung.
+
 - **Blöcke platzieren:** Ziehe mit Maus oder Finger eine Form aus der unteren
   Leiste auf das 10x10-Gitter und lasse sie auf einem freien Bereich los.
 

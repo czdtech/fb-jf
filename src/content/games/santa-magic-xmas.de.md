@@ -47,6 +47,8 @@ Santa Magic Xmas ist ein fröhliches Weihnachts-Match-3, das dich direkt in
 
 ### Steuerung
 
+Gespielt wird mit einer einfachen Tausch-Mechanik.
+
 *   **Tauschen:** Klicke auf ein Symbol und ziehe es auf ein benachbartes. Der
     Tausch findet nur statt, wenn dabei ein gültiges Match entsteht.
 

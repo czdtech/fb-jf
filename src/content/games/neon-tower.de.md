@@ -49,6 +49,8 @@ Plattformen zu prallen.
 
 ### Steuerung
 
+Die Steuerung basiert auf einer einfachen Drag-Bewegung.
+
 *   **Turm drehen:** Linke Maustaste/Finger halten und nach links/rechts ziehen,
     um den Helix-Turm zu drehen.
 
