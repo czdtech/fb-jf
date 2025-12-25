@@ -27,10 +27,11 @@ releaseDate: 2025-10-18T00:00:00.000Z
 3. **Discipline face aux bombes**  
    Quand une bombe apparaît, adapte tes trajectoires pour ne jamais croiser son chemin, même si tu dois rater un gâteau.
 
-4. **Reprends ton souffle après un raté**  
+4. **Lis les apparitions**  
+   Repère le rythme d’apparition des gâteaux pour placer ta main/curseur à l’avance.
 
-- Recover quickly: If a combo drops, reset posture and rebuild with safe doubles.
-   Si tu perds ton combo, concentre‑toi quelques secondes sur des coupes simples pour retrouver le timing.
+5. **Récupère vite**  
+   Si ton combo tombe, reprends une posture stable et reconstruis avec des doubles sûrs.
 
 ### Commandes
 
@@ -39,17 +40,8 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
-- How to avoid bombs? Track their fuses and paths; never complete a swipe that crosses a bomb.
-
-- Any two‑finger tricks? On touch devices, multi‑finger swipes can cover more area if supported.
-
-- Missed a piece—big penalty? Modes vary; many dock combo or time, not full score.
-
 ### Foire aux questions (FAQ)
 
-
-- How to avoid bombs? Track their fuses and paths; never complete a swipe that crosses a bomb.
-
-- Any two‑finger tricks? On touch devices, multi‑finger swipes can cover more area if supported.
-
-- Missed a piece—big penalty? Modes vary; many dock combo or time, not full score.
+- Part ratée — grosse pénalité ? Les modes varient ; souvent tu perds ton combo (ou du temps), pas ton score total.
+- Astuces à deux doigts ? Sur mobile, les glissements multi‑doigts peuvent couvrir plus de surface si la version le gère.
+- Comment éviter les bombes ? Suis leurs trajectoires ; ne termine jamais un geste qui traverse une bombe.

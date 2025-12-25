@@ -14,35 +14,23 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### Présentation détaillée
 
-Sushi Grab se déroule dans un restaurant à sushis avec tapis roulant. Des
-assiettes défilent devant toi : à toi de prendre uniquement celles qui
-correspondent à la commande, le plus vite possible.
+Sushi Grab est un jeu de sélection rapide sur le thème du sushi sur tapis roulant. Prends uniquement les pièces demandées, évite les mauvais choix ou les pièges, et enchaîne les bonnes prises pour atteindre l’objectif de score avant la fin du timer.
 
 ### Stratégie
 
-1. lis bien la commande actuelle et concentre‑toi dessus ;
-2. anticipe les assiettes qui arrivent avec ta vision périphérique ;
-3. privilégie la série de bonnes prises plutôt que la précipitation ;
-4. garde un rythme régulier pour maintenir tes séries et ton multiplicateur
-
-- Fixed patterns? Belts often loop patterns—learn and exploit them.
-
-- Can I queue picks? Most versions require individual clicks; rapid but accurate taps work best.
-
-- Do wrong picks penalize? Usually yes—score loss or streak breaks.
-
-### Foire aux questions (FAQ)
-
-- Pause/Retry: Use UI buttons.
-
-- Pick: Click/tap the correct sushi on the belt.
+1.  **Lis la commande :** concentre‑toi sur la demande actuelle, n’attrape pas « au hasard ».
+2.  **Vision périphérique :** surveille les assiettes qui arrivent sur le tapis pour te préparer.
+3.  **Enchaîne en sécurité :** les séries boostent le score ; privilégie la précision pour garder ton multiplicateur.
+4.  **Filtre les pièges :** ignore les leurres/assiettes pénalisantes ; elles apparaissent souvent près des bonnes.
+5.  **Gère le temps :** quand le chrono baisse, ne prends que des choix sûrs.
 
 ### Commandes
 
-- Time boxes: When the timer dips, take only guaranteed picks.
+- **Attraper :** clique/tape le bon sushi sur le tapis.
+- **Pause / Recommencer :** utilise les boutons de l’interface.
 
-- Fixed patterns? Belts often loop patterns—learn and exploit them.
+### Foire aux questions (FAQ)
 
-- Can I queue picks? Most versions require individual clicks; rapid but accurate taps work best.
-   de score.
-
+- Mauvais choix = pénalité ? En général oui : perte de score ou rupture de série.
+- Peut‑on « enchaîner » plusieurs prises ? Souvent non : il faut des clics individuels ; des taps rapides et précis fonctionnent le mieux.
+- Patterns fixes ? Le tapis boucle parfois des séquences ; repère‑les et exploite‑les.

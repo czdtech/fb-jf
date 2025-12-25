@@ -19,8 +19,6 @@ releaseDate: 2025-08-16T00:00:00.000Z
 Dans cette version web non officielle de Cuphead, tu retrouves l’univers graphique
 façon cartoon des années 30 et des combats de boss très difficiles. Cuphead et
 Mugman affrontent une galerie d’ennemis hauts en couleur dans des niveaux mêlant
-
-- **Run & Gun Levels**: More traditional side-scrolling platforming stages where players must navigate through hordes of smaller enemies to reach the end. These levels are the primary source of coins, which are used to purchase new weapons and charms.
 - **Niveaux Run & Gun** : des niveaux de plateforme plus classiques où tu dois
   traverser des hordes d’ennemis jusqu’à la fin. Ils sont souvent la principale
   source de pièces, utilisées pour acheter de nouvelles armes et des charmes.

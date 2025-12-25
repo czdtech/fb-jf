@@ -46,7 +46,7 @@ succès, ainsi que des mécaniques avancées comme les parties ascendées.
 - **Dépenser les Heavenly Chips** : après une ascension, tu arrives sur un écran
   où tu peux dépenser tes Heavenly Chips dans des améliorations célestes
   permanentes. Pour une première ascension, privilégie des upgrades utiles tout
-  de suite (par ex. "Persistent memory", "How to bake your dragon", "Cookie box",
+  de suite (par ex. "Mémoire persistante", "Comment cuire ton dragon", "Boîte à cookies",
   selon la version).
 
 - **Quand faire la première ascension** : un conseil courant est d’attendre
