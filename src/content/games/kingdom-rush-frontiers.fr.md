@@ -36,7 +36,7 @@ Frontiers affine la formule Kingdom Rush avec de nouveaux biomes, capacités enn
 - Sépare splash et monocible pour gérer les vagues mixtes.
 - Repère les chemins de vol ; ajoute de l'anti‑aérien où nécessaire.
 
-### FAQ
+### Foire aux questions (FAQ)
 
 - **Q : Quelles améliorations de tours dois‑je prioriser ?**
   R : Une ou deux tours principales au tier‑3/4 près du point d'étranglement principal battent beaucoup de petites tours.

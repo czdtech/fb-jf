@@ -44,7 +44,7 @@ Controls are typically based on a standard 2D platformer layout:
 - **Attaque :** clic gauche ou `F`  
 - **Blocage :** clic droit ou `G`
 
-### FAQ
+### Foire aux questions (FAQ)
 
 - **But du jeu ?**  
   Survivre plus longtemps que les autres en les faisant tomber ou en

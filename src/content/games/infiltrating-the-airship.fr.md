@@ -33,7 +33,7 @@ Dans cet épisode de Henry Stickmin, toute l’action tourne autour d’une infi
 - Clique sur les personnages pendant les scènes (quand c’est supporté) pour enregistrer leurs fiches dans le menu Bios.  
 - Note les fins déjà vues afin de viser celles qui te manquent.
 
-### FAQ
+### Foire aux questions (FAQ)
 
 - **Q : Combien de fins différentes existe‑t‑il ?**  
   R : Plusieurs fins principales, le nombre exact dépend légèrement de la version de l’hébergeur, mais le jeu indique généralement ta progression.

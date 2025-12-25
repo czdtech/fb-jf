@@ -18,27 +18,27 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Overview
+### Aperçu
 Le jeu original d’entraînement et de course : augmente les stats de course,
 natation et vol de ton canard via des mini‑jeux, puis gagne des courses pour
 débloquer de nouvelles zones.
 
-### How to Play
+### Comment jouer
 - Entraîne chaque compétence selon les besoins des courses ; nourris‑le avec des
   graines pour augmenter l’énergie.
 - Rejoue les entraînements pour monter les caps ; les courses demandent des stats
   équilibrées.
 - Gagne des pièces pour acheter des graines et des cosmétiques.
 
-### Controls
+### Commandes
 - Flèches/Espace ou souris selon le mini‑jeu.
 
-### Tips
+### Astuces
 - Équilibre les stats au lieu de “grinder” une seule.
 - Regarde les aperçus de course pour voir quelles compétences comptent le plus.
 - Garde l’énergie haute : c’est ton endurance.
 
-### FAQ
+### Foire aux questions (FAQ)
 - Q: Peut‑on passer des courses ?
 A: La progression demande généralement de gagner certaines courses par zone.
 - Q: Les cosmétiques aident‑ils ?

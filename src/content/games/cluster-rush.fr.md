@@ -14,13 +14,13 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
-### **Game Introduction**
+### **Présentation du jeu**
 
 Cluster Rush est un platformer 3D en vue à la première personne, rapide et exigeant, au principe simple : sauter de camion en camion dans un convoi chaotique jusqu’à l’arrivée. Le sol n’existe pratiquement pas ; la moindre chute relance instantanément le niveau.
 
 Le gameplay est très basé sur la physique : timing, gestion de l’élan et réflexes. Les camions zigzaguent, se percutent et explosent parfois, et constituent tes seules plateformes. Le jeu est découpé en niveaux regroupés en mondes, chaque niveau ajoutant des obstacles et des schémas plus complexes. C’est un pur jeu d’adresse, d’essai‑erreur et de maîtrise du mouvement.
 
-### **Gameplay Strategy & Tips**
+### **Stratégies de jeu et astuces**
 
 Réussir dans Cluster Rush, c’est maîtriser les mouvements et apprendre les niveaux.
 
@@ -32,7 +32,7 @@ Réussir dans Cluster Rush, c’est maîtriser les mouvements et apprendre les n
 6.  **Pense en vertical**: saute d’un camion bas vers le toit d’un camion plus haut pour trouver un chemin plus sûr ou plus rapide.
 7.  **Accepte l’échec**: tu vas tomber souvent. Chaque raté est une info ; analyse la cause (timing, vitesse) et ajuste au prochain essai.
 
-### **Controls Guide**
+### **Commandes**
 
 Les contrôles sont proches de ceux des FPS sur PC.
 
@@ -45,7 +45,7 @@ Les contrôles sont proches de ceux des FPS sur PC.
 
 **Note:** s’accrocher ou glisser le long d’un camion est contextuel : pas besoin de touche spéciale, il suffit de toucher le flanc en l’air.
 
-### **Frequently Asked Questions (FAQ)**
+### **Foire aux questions (FAQ)**
 
 **1. Les mouvements des camions sont‑ils aléatoires dans chaque niveau ?**
 Non, les schémas sont prédéfinis pour chaque niveau. Même si ça paraît chaotique, les trajectoires sont les mêmes à chaque tentative, ce qui permet d’apprendre les routes.

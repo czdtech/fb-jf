@@ -14,11 +14,11 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### Présentation détaillée du jeu
 
 Color Jump est un jeu de réflexes minimaliste : ton personnage ne peut traverser que des portails/plateformes de la **même couleur**. Il faut synchroniser tes sauts, éviter les barrières non correspondantes et garder le rythme quand la vitesse augmente.
 
-### Gameplay Strategy & Walkthrough
+### Stratégies de jeu et progression
 
 1.  Lis deux obstacles à l’avance ; ne fixe pas uniquement le portail le plus proche.
 2.  Garde une cadence de taps régulière ; des sauts légèrement tardifs évitent souvent mieux les obstacles bas.
@@ -26,12 +26,12 @@ Color Jump est un jeu de réflexes minimaliste : ton personnage ne peut traver
 4.  Entraîne‑toi à reconnaître les motifs d’ordre des couleurs s’ils se répètent.
 5.  Utilise les sons comme repère pour stabiliser le timing dans les passages denses.
 
-### Controls Guide
+### Commandes
 
 - Tape/Clique pour sauter ; certaines variantes autorisent le double saut.
 - Pause/Restart via l’interface.
 
-### Frequently Asked Questions (FAQ)
+### Foire aux questions (FAQ)
 
 - Q: Je touche toujours la mauvaise couleur — une astuce ?
   

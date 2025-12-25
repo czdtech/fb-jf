@@ -32,7 +32,7 @@ Jewel Duel superpose des éléments RPG sur un combat match‑3. Aligner certain
 
 - Échange des gemmes adjacentes ; déclenche les compétences quand elles sont chargées ; lis les intentions ennemies.
 
-### FAQ
+### Foire aux questions (FAQ)
 
 - **Q : Je fais peu de dégâts — pourquoi ?**
   

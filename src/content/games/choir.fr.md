@@ -14,13 +14,13 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### **Game Introduction**
+### **Présentation du jeu**
 
 Blob Opera n’est pas un jeu à niveaux, mais une expérience musicale interactive (« musical toy »). Tu contrôles un quatuor de blobs colorés pour produire de la musique d’opéra en temps réel. Chaque blob représente une tessiture : basse, ténor, mezzo‑soprano et soprano.
 
 Le jeu s’appuie sur un modèle de machine learning entraîné sur les voix de quatre chanteurs d’opéra. Au lieu de rejouer des samples pré‑enregistrés, il génère des sons vocaux synthétisés, fluides et harmonieux à partir de tes mouvements. L’objectif est simplement de créer, d’expérimenter et de s’amuser, quel que soit ton niveau en musique.
 
-### **Gameplay Strategy & Tips**
+### **Stratégies de jeu et astuces**
 
 Comme il n’y a pas de « victoire », la stratégie consiste surtout à créer une musique agréable ou drôle.
 
@@ -31,7 +31,7 @@ Comme il n’y a pas de « victoire », la stratégie consiste surtout à cr
 5.  **Enregistrer et partager**: planifie une mini‑composition (solo puis chœur) et enregistre‑la, puis partage le lien.
 6.  **Explorer les modes festifs**: certains thèmes (ex. Noël) ajoutent décors, accessoires et playlists que les blobs peuvent harmoniser.
 
-### **Controls Guide**
+### **Commandes**
 
 Les contrôles sont simples et fonctionnent à la souris ou au tactile.
 
@@ -43,7 +43,7 @@ Les contrôles sont simples et fonctionnent à la souris ou au tactile.
 *   **Bouton de partage**: après un enregistrement, un bouton apparaît pour copier un lien vers ta performance.
 *   **Bascule de thème (ex. icône de sapin de Noël)**: change de thème, souvent avec une musique de fond différente à harmoniser.
 
-### **Frequently Asked Questions (FAQ)**
+### **Foire aux questions (FAQ)**
 
 **1. Y a‑t‑il un objectif ou une fin ?**
 Non. Blob Opera est une expérience bac à sable : pas de niveaux, pas de score. Le « but » est de s’amuser et de créer quelque chose que tu aimes.

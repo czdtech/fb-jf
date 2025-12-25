@@ -45,6 +45,6 @@ Ton but : composer une « chanson de survie » qui colle à l’intensité des
 ### Ready to Share Your Survival Anthem?
 Sprunki Squid Remix est parfait si tu veux un Mod musical avec un vrai côté
 
-### Wrapping Up:
+### En résumé:
 thriller.
 

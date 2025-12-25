@@ -18,7 +18,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### Présentation détaillée du jeu
 
 Dices 2048 3D est une variante de 2048 avec de la physique. Fais tomber ou
 glisser des dés pour que des valeurs identiques se percutent et fusionnent en
@@ -26,7 +26,7 @@ la valeur suivante (par ex. 2→4→8). La gravité, les rebonds et le placement
 3D créent de nouvelles tactiques autour de l’empilement, de l’espace et du
 contrôle des fusions accidentelles.
 
-### Gameplay Strategy & Walkthrough
+### Stratégies de jeu et progression
 
 1.  Garde des couloirs propres : réserve une colonne pour fusionner et une autre
     pour “stocker” temporairement ; évite les piles confuses qui bloquent les
@@ -40,7 +40,7 @@ contrôle des fusions accidentelles.
 5.  Coups de secours : quand le plateau monte, libère de l’espace avec des
     fusions sûres plutôt que de chercher le combo parfait.
 
-### Controls Guide
+### Commandes
 
 - Viser/placer : déplace le curseur ou fais glisser pour choisir la position ;
   certaines versions permettent la rotation.
@@ -48,7 +48,7 @@ contrôle des fusions accidentelles.
 - Annuler/Rejouer (si disponible) : des annulations limitées peuvent exister ;
   utilise‑les pour sauver une mauvaise chute.
 
-### Frequently Asked Questions (FAQ)
+### Foire aux questions (FAQ)
 
 - Comment les dés fusionnent‑ils ? Deux valeurs identiques qui se touchent
   fusionnent en la valeur suivante (par ex. deux 8 deviennent 16).

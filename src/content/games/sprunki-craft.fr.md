@@ -61,7 +61,7 @@ Sprunki Craft convient aussi bien :
 - aux fans de Minecraft qui veulent explorer une facette musicale de leur
   univers favori ;
 
-### Conclusion:
+### En conclusion:
 - aux joueurs Sprunki qui aiment créer sans contrainte ;
 - aux débutants qui souhaitent se lancer dans la création musicale de façon
   ludique.

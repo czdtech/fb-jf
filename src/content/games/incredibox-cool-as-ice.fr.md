@@ -46,6 +46,6 @@ Dans le mod Cool as Ice, les personnages familiers d'Incredibox ont été transf
  
 ---
  
-### Conclusion :
+### En conclusion:
  
 Le mod Incredibox Cool as Ice est parfait pour les fans qui aiment à la fois la création musicale et les thèmes saisonniers. Plonge dans cette version givrée pour découvrir Incredibox comme jamais auparavant, apportant une touche fraîche à tes créations sonores. Si tu veux essayer d'autres jeux Sprunki, comme Sprunki Infection ou Sprunki CorruptBox : Cool As Ice, va les explorer !

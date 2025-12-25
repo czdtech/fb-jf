@@ -30,7 +30,7 @@ Jump With Justin 2 est un platformer léger centré sur les sauts à ressort, le
 - **Déplacement / saut** : flèches ou `WASD` + `Espace` ; boutons tactiles sur mobile.  
 - **Restart** : utilise le redémarrage rapide pour t’entraîner sur une section.
 
-### FAQ
+### Foire aux questions (FAQ)
 
 - **Q : Je me fais toujours empaler sur les piques, pourquoi ?**  
   R : Tu sautes probablement trop tôt. Décale légèrement ton timing et garde des arcs fluides.  

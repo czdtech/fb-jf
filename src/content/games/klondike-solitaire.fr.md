@@ -33,7 +33,7 @@ Klondike utilise sept colonnes de tableau, une pioche et quatre fondations. Le b
 - N’envoie pas trop vite les petites cartes sur les fondations si elles servent encore à débloquer le tableau.  
 - Ne déplace un Roi que si cela libère un emplacement utile pour une pile plus intéressante.
 
-### FAQ
+### Foire aux questions (FAQ)
 
 - **Q : Que puis‑je placer dans une colonne vide ?**  
   R : Un Roi seul ou une pile dont la carte du bas est un Roi.

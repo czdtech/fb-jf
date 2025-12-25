@@ -33,7 +33,7 @@ Level Devil est un plateformer piégé où le niveau te trahit en permanence : d
 - Attends‑toi à des pièges près des zones qui semblent « trop sûres », notamment autour des sorties visibles.  
 - Compte les temps entre les dangers mobiles pour caler tes sauts.
 
-### FAQ
+### Foire aux questions (FAQ)
 
 - **Q : Comment éviter les piques qui sortent d’un coup ?**  
   R : Déclenche‑les avec de micro‑pas, recule, puis passe en sautant au bon moment.  

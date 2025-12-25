@@ -33,7 +33,7 @@ Jet Boi est un petit shooter versus centré sur le contrôle aérien. Deux joueu
 - Détruis ou ramasse les caisses d’armes même si tu es déjà armé, pour empêcher ton adversaire de s’équiper.  
 - Contrôle les plateformes du haut : elles dictent les angles d’attaque et offrent plus de sécurité.
 
-### FAQ
+### Foire aux questions (FAQ)
 
 - **Q : Comment économiser efficacement le carburant ?**  
   R : Utilise des tapotements réguliers pour garder ton altitude tout en ajustant ton tir, plutôt qu’un long maintien.

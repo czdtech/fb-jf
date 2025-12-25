@@ -67,7 +67,7 @@ Quelques notions suffisent pour te lancer :
   galeries de mixes hivernaux à découvrir.
 
 
-### Conclusion:
+### En conclusion:
 Sprunki: Cool As Ice est un passage obligé si tu aimes l’univers Sprunki et
 les ambiances enneigées. Laisse ta musique faire scintiller l’hiver !
 

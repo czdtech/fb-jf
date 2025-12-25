@@ -69,7 +69,7 @@ tirages complètement imprévisibles.
 
 - **Try Different Arrangements:** The position of the characters affects the final sound effect, be bold and try to find the most suitable arrangement!
 
-### Tips for Playing Sprunki Play Random:
+### Astuces pour jouer à Sprunki Play Random:
 
 - **Full of Exploration Fun:** Discover hidden sound combinations, unlock special animations and bonus tracks, making your creation process full of surprises.
 

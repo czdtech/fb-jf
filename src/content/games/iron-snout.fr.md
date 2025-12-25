@@ -33,7 +33,7 @@ Iron Snout est un beat’em up 2D rapide dans lequel tu incarnes un cochon exper
 - Jongle avec les ennemis légers pour maximiser le score, et termine les plus lourds en leur renvoyant leurs propres armes.  
 - Évite de te coincer dans un coin : dès que possible, recentre‑toi au milieu de l’aire de combat.
 
-### FAQ
+### Foire aux questions (FAQ)
 
 - **Q : Comment gérer les attaques venant de plusieurs côtés ?**  
   R : Reste proche du centre et réponds d’abord à l’ennemi le plus proche ou le plus dangereux.

@@ -29,7 +29,7 @@ Ladybug Jump est un platformer léger et familial. Tu sautes de feuille en champ
 
 - Tap/clic pour sauter, maintien pour sauter plus haut si la version le supporte ; pause et retry via les boutons à l’écran.
 
-### FAQ
+### Foire aux questions (FAQ)
 
 - **Q : Je tombe tout le temps des petites feuilles, que faire ?**  
   R : Réduis la hauteur de tes sauts et vise le centre des plateformes ; évite les grands balancements de momentum.

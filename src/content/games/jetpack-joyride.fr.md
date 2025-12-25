@@ -33,7 +33,7 @@ Jetpack Joyride est un runner à défilement horizontal très nerveux. Maintiens
 - Garde un véhicule en réserve comme « bouclier » pour les sections à grande vitesse.  
 - Laisse les missions guider ta progression : choisis celles que tu peux combiner dans une même run.
 
-### FAQ
+### Foire aux questions (FAQ)
 
 - **Q : Comment assurer des runs plus longues ?**  
   R : Lis bien les patterns, garde un véhicule comme tampon et résiste à la tentation de prendre chaque pièce si le passage est risqué.

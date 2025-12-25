@@ -50,7 +50,7 @@ Les contrôles restent simples sur PC (souris) comme sur mobile (tactile), mais 
 -   **Capacités de tours :** regroupées en bas à gauche, pratiques pour enchaîner plusieurs activations.
 -   **Raccourcis clavier (PC) :** chaque singe a sa touche (Q pour Dart Monkey, etc.) et les upgrades s’achètent avec 1/2/3, ce qui rend la micro beaucoup plus rapide.
 
-### FAQ
+### Foire aux questions (FAQ)
 
 **1. Quel héros choisir en premier ?**  
 **Sauda** est la plus accessible : elle coûte peu cher et élimine les premières vagues à elle seule, ce qui te laisse investir dans ton économie.

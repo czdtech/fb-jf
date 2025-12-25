@@ -32,7 +32,7 @@ Jurassic Run est un runner infini rapide situé parmi les dinosaures et les obst
 - Déplacement : A/D ou Gauche/Droite ; saut/glissade avec Espace/Haut et Bas.
 - Pause/Réessayer via l'interface à l'écran.
 
-### FAQ
+### Foire aux questions (FAQ)
 
 - **Q : Je me fais toujours accrocher — pourquoi ?**
   R : Saute légèrement plus tard et évite de trop corriger ta trajectoire.

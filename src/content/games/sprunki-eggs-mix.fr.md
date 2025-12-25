@@ -52,7 +52,7 @@ entre eux et exploiter ces interactions à ton avantage.
 
 
 - **Strategy Adjustment:** Adjust strategies to solve increasingly complex puzzles.
-### Conclusion:
+### En conclusion:
 
 - **Strategy Adjustment:** Adjust strategies to solve increasingly complex puzzles.
   presque tout le niveau en une seule action.

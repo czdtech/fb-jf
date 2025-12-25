@@ -43,7 +43,7 @@ Letter Links est un jeu de construction de mots stratégique qui rappelle Scrabb
 *   **Rappeler des tuiles** : tu peux ramener une lettre sur ton chevalet tant que tu n'as pas validé le coup.
 *   **Valider** : clique sur « Submit Words » pour verrouiller ton coup et compter les points.
 
-### FAQ
+### Foire aux questions (FAQ)
 
 *   **Q : Pourquoi mon mot est‑il refusé ?**
     *   **R :** Soit il n'est pas dans le dictionnaire du jeu, soit l'ensemble de tes nouvelles tuiles ne forme pas un groupe connecté, soit tu n'utilises pas la case centrale pour le premier coup.

@@ -45,6 +45,6 @@ Ton objectif : transformer ce chaos en une véritable « symphonie sombre ».
 
 Sprunki Phase 8 est un Mod parfait si tu veux voir jusqu’où l’univers Sprunki
 
-### Wrapping Up:
+### En résumé:
 peut aller du côté horreur, sans perdre le plaisir de la création musicale.
 

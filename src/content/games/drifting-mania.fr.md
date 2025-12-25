@@ -17,13 +17,13 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### Présentation détaillée du jeu
 
 Drifting Mania est un jeu de drift léger en vue du dessus. Gère l’angle de glisse,
 le dosage de l’accélérateur et les sorties propres pour enchaîner les virages et
 réaliser des temps réguliers.
 
-### Gameplay Strategy & Walkthrough
+### Stratégies de jeu et progression
 
 1.  Entre doucement, sors vite pour garder l’élan.
 2.  Dose l’accélérateur pour des glisses contrôlées.
@@ -31,12 +31,12 @@ réaliser des temps réguliers.
 4.  Récupère tôt si tu as trop pivoté.
 5.  Entraîne‑toi sur un circuit pour des points de freinage constants.
 
-### Controls Guide
+### Commandes
 
 - Direction : A/D ou Gauche/Droite ; Accélérer/Freiner : W/S ou Haut/Bas.
 - Frein à main (si présent) : Espace pour faire pivoter.
 
-### Frequently Asked Questions (FAQ)
+### Foire aux questions (FAQ)
 
 - Tête‑à‑queue ? Réduis l’accélérateur et contre‑braque plus tôt.
 - Peut‑on améliorer les voitures ? Certaines versions le permettent ; vise d’abord

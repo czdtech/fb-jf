@@ -51,7 +51,7 @@ réalisateur et compositeur.
 
 
 - **Grasp the Soul of the Rhythm:** The rhythm is the soul of a good piece of music. Try to keep your instruments in time with each other to create a harmonious and pleasing sound.
-### Conclusion:
+### En conclusion:
 
 - **Grasp the Soul of the Rhythm:** The rhythm is the soul of a good piece of music. Try to keep your instruments in time with each other to create a harmonious and pleasing sound.
   plaisant à regarder et écouter.

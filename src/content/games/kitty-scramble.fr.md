@@ -30,7 +30,7 @@ Kitty Scramble propose des grilles de lettres sur des thèmes variés (animaux, 
 
 - Fais glisser sur les lettres pour former un mot, relâche pour valider ; utilise les indices avec parcimonie.
 
-### FAQ
+### Foire aux questions (FAQ)
 
 - **Q : Je vois le mot mais n’arrive pas à le tracer, pourquoi ?**  
   R : Les lettres ne sont peut‑être pas contiguës ; cherche un chemin en diagonale ou en zigzag si le jeu l’autorise.

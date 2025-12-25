@@ -14,7 +14,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
-### **Game Introduction**
+### **Présentation du jeu**
 
 *Color Burst 3D* est un jeu d’arcade rapide qui met tes réflexes et ton timing à l’épreuve. L’objectif est de **guider une balle colorée qui avance en continu à travers des anneaux rotatifs multicolores.**
 
@@ -22,7 +22,7 @@ Pour réussir à traverser chaque anneau, tu dois manœuvrer la balle afin qu’
 
 Au fil de la partie, la vitesse augmente, les anneaux tournent plus vite et les motifs deviennent plus complexes. La balle change souvent de couleur après un passage, ce qui t’oblige à t’adapter instantanément. Le but est de survivre le plus longtemps possible et de franchir un maximum d’anneaux.
 
-### **Gameplay Strategy & Tips**
+### **Stratégies de jeu et astuces**
 
 1.  **Le timing est essentiel** : anticipe la rotation et synchronise l’entrée de la balle sur le bon segment.
 2.  **Petits mouvements précis** : évite les grands balayages, privilégie des ajustements courts et contrôlés.
@@ -31,13 +31,13 @@ Au fil de la partie, la vitesse augmente, les anneaux tournent plus vite et les 
 5.  **Réagis immédiatement au changement de couleur** : dès que la balle change, change aussi ta cible.
 6.  **Vise l’ouverture** : concentre‑toi sur le « passage » à atteindre (le segment de la bonne couleur) plutôt que sur tout l’anneau.
 
-### **Controls Guide**
+### **Commandes**
 
 Comme indiqué dans le tutoriel, les contrôles sont très simples et pensés pour du one‑touch.
 
 *   **Déplacer la balle** : **touche et glisse** ton doigt (ou la souris) de gauche à droite sur le curseur en bas pour ajuster la position horizontale de la balle.
 
-### **Frequently Asked questions (FAQ)**
+### **Foire aux questions (FAQ)**
 
 **1. Que se passe‑t‑il si je touche la mauvaise couleur ?**
 La partie se termine immédiatement et tu dois recommencer. La règle de base est de ne toucher que la couleur qui correspond à ta balle.

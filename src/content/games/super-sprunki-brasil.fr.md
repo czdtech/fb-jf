@@ -51,6 +51,6 @@ Le gameplay est très simple, maîtrise les points suivants et tu pourras aussi 
  
 ---
  
-### Conclusion :
+### En conclusion:
  
 Super Sprunki Brasil est un Mod Incredibox qui te permet d'enflammer ta créativité musicale avec la passion brésilienne. Viens rejoindre Super Sprunki Brasil, et utilise ta musique pour transmettre la passion et la vitalité du Brésil au monde !

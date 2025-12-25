@@ -14,7 +14,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
-### **Game Introduction**
+### **Présentation du jeu**
 
 *Climb Man: Walk to the Sky* est un jeu d’arcade d’escalade rapide qui teste ton timing et tes réflexes. L’objectif est de **monter le plus haut possible sur un escalier en zigzag sans tomber et sans toucher les obstacles.**
 
@@ -22,7 +22,7 @@ Tu contrôles un personnage en bas d’un escalier. En appuyant sur les boutons 
 
 La difficulté vient de la vitesse qui augmente et des obstacles (cordes, dangers divers) qu’il faut éviter. Un seul mauvais timing ou une mauvaise direction te fait tomber et termine la run. Le but est de grimper un maximum de marches pour faire un gros score, accomplir des missions et débloquer des personnages.
 
-### **Gameplay Strategy & Tips**
+### **Stratégies de jeu et astuces**
 
 1.  **Trouve ton rythme**: c’est un jeu très « rythme ». Essaie d’entrer dans un tempo régulier plutôt que de réagir au dernier moment.
 2.  **Regarde devant, pas ton perso**: vise deux ou trois marches en avance pour préparer ta séquence de taps.
@@ -31,14 +31,14 @@ La difficulté vient de la vitesse qui augmente et des obstacles (cordes, danger
 5.  **Fais les missions et récupère les récompenses**: les missions/connexions quotidiennes donnent de la monnaie pour débloquer des personnages et parfois des bonus.
 6.  **Utilise deux pouces**: pour gagner en vitesse et en précision, garde un pouce sur chaque bouton (gauche/droite).
 
-### **Controls Guide**
+### **Commandes**
 
 Les contrôles sont très simples, pensés pour un gameplay rapide.
 
 *   **Climb Left**: appuie sur le bouton **"Left Climb!"** en bas à gauche.
 *   **Climb Right**: appuie sur le bouton **"Right Climb!"** en bas à droite.
 
-### **Frequently Asked questions (FAQ)**
+### **Foire aux questions (FAQ)**
 
 **1. Que se passe‑t‑il si j’appuie sur le mauvais bouton ?**
 Si tu appuies sur "Left Climb!" alors que la marche suivante est à droite (ou l’inverse), ton personnage saute dans le vide et tombe, ce qui termine la partie.

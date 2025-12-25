@@ -29,7 +29,7 @@ Krishna Jump est un runner vertical à un seul bouton. Tu dois synchroniser tes 
 
 - Tap/clic pour sauter ; dans certains builds, un appui prolongé augmente la hauteur ; pause via l’interface.
 
-### FAQ
+### Foire aux questions (FAQ)
 
 - **Q : Je dépasse toujours les plateformes, que faire ?**  
   R : Utilise des tapotements plus courts et vise le centre ; évite les appuis prolongés sauf nécessité.

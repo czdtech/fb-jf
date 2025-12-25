@@ -18,29 +18,29 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Overview
+### Aperçu
 Platformer vertical infini : rebondis vers le haut, atterris sur des plateformes
 sûres, évite monstres et plateformes cassées, et utilise des bonus (ressorts,
 hélices, jetpacks) pour monter plus haut.
 
-### How to Play
+### Comment jouer
 - Garde ton personnage centré et enchaîne des atterrissages sûrs ; tomber hors
   écran termine la run.
 - Évite (ou élimine) les ennemis ; certaines versions permettent de tirer vers le haut.
 - Utilise prudemment les plateformes mobiles ou fragiles ; planifie deux coups
   en avance.
 
-### Controls
+### Commandes
 - Gauche/Droite (ou inclinaison sur mobile) : déplacement ; saut automatique au
   contact ; action/tir si disponible.
 
-### Tips
+### Astuces
 - Privilégie les plateformes stables quand l’écran défile vite.
 - Garde les bonus puissants pour les passages clairsemés.
 - Utilise les bords “wraparound” (gauche/droite) pour échapper à certains pièges
   si la version le permet.
 
-### FAQ
+### Foire aux questions (FAQ)
 - Q: Y a‑t‑il une fin aux niveaux ?
 A: Non : le score monte jusqu’à rater une plateforme ou toucher un danger.
 - Q: Les plateformes sont‑elles différentes ?

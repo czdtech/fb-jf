@@ -41,7 +41,7 @@ demandent une attention particulière.
 - Fais pivoter les pièces et fais‑les glisser à leur place via l’interface.
 - Utilise Annuler/Réinitialiser pour tester d’autres configurations.
 
-### FAQ
+### Foire aux questions (FAQ)
 
 - **Une ligne ne se connecte pas, bug ?**  
   En général, il manque un petit cran de rotation : tourne légèrement la pièce

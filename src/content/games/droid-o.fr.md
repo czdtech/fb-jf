@@ -18,7 +18,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### Présentation détaillée du jeu
 
 Droid‑O est un shooter d’arène compact et réactif en vue du dessus où tu pilotes
 un robot agile au milieu de vagues de survie de plus en plus serrées. La boucle
@@ -34,7 +34,7 @@ pour casser les lignes de vue, et cases dangereuses qui infligent des dégâts o
 ralentissent. Bien utiliser le terrain est aussi important que l’aim pur,
 surtout dès que des ennemis à distance apparaissent.
 
-### Gameplay Strategy & Walkthrough
+### Stratégies de jeu et progression
 
 1.  Kite large, pas serré : de grands cercles donnent plus de marge de correction
     que de petites boucles paniquées.
@@ -58,13 +58,13 @@ surtout dès que des ennemis à distance apparaissent.
 - Drones déployables : pose des drones avant un virage de kite pour qu’ils
   arrosent la ligne des poursuivants.
 
-### Controls Guide
+### Commandes
 
 - Déplacement : WASD/Flèches. Viser : souris ou stick droit. Tirer : clic
   gauche/gâchette. Dash/Capacité : Espace/E/Q (selon la version).
 - Pause/Rejouer : boutons de l’interface.
 
-### Advanced Tips
+### Astuces avancées
 
 - Trajectoires : prépare un trajet en “8” qui repasse sur les munitions/PV quand
   ils reviennent.
@@ -73,7 +73,7 @@ surtout dès que des ennemis à distance apparaissent.
 - Rythme des vagues : ralentis légèrement les éliminations pour regrouper les
   spawns, puis nettoie avec des lignes perforantes.
 
-### Frequently Asked Questions (FAQ)
+### Foire aux questions (FAQ)
 
 - Q: Je me fais coincer — comment éviter ?
 

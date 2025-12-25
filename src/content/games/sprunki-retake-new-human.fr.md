@@ -37,7 +37,7 @@ propre.
 - assemble beats, voix et effets pour créer ton morceau ;
 - observe les animations se déclencher au rythme de la musique ;
 
-### How to Play Sprunki Retake New Human?
+### Comment jouer à Sprunki Retake New Human?
 - partage tes créations avec la communauté si la plateforme le permet.
 
 Sprunki Retake New Human est un excellent choix si tu veux garder les mécaniques

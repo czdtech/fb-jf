@@ -55,6 +55,6 @@ Le cœur du gameplay reste le même, mais chaque version propose son propre thè
 - **Partage** : une fois satisfait, enregistre et partage ton mix avec tes amis.
 
 
-### Conclusion:
+### En conclusion:
 Avec son gameplay intuitif, ses visuels marquants et ses possibilités créatives quasi infinies, Incredibox reste une référence pour découvrir la création musicale de façon ludique.
 

@@ -56,7 +56,7 @@ Ce Mod :
 
 - **Be Bold and Try Character Swap:** In Sprunki Swapped Horror, character swap is the core gameplay and the key to creating unique music.
 
-### Tips for Playing Sprunki Swapped Horror:
+### Astuces pour jouer à Sprunki Swapped Horror:
 
 - **Share Your Creations:** Showcase your Sprunki Swapped Horror musical compositions with the community and share your musical inspiration with everyone!
 

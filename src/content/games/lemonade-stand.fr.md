@@ -33,7 +33,7 @@ Lemonade Stand simule un petit stand de limonade. Chaque jour, tu achètes ton s
 - Garde une petite marge pour les événements, mais évite de bloquer trop de cash en inventaire inutile.  
 - De petits tests de prix te permettent de mesurer la sensibilité de ta clientèle.
 
-### FAQ
+### Foire aux questions (FAQ)
 
 - **Q : Comment éviter la rupture de stock aux heures de pointe ?**  
   R : Prends une marge de gobelets et de glace lors des canicules, et augmente un peu le prix pour lisser la demande.  

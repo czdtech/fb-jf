@@ -44,7 +44,7 @@ Ce Mod :
 - sauvegarde et partage tes créations si la plateforme le permet.
 
 
-### Conclusion:
+### En conclusion:
 Sprunkr But Sprunki est un excellent choix pour les fans des deux univers qui
 veulent profiter du meilleur des deux mondes.
 

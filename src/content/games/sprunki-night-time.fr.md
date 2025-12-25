@@ -53,7 +53,7 @@ Le tout donne un effet presque cinématographique.
 - N’hésite pas à empiler plusieurs couches pour créer une ambiance riche.
 
 
-### Conclusion:
+### En conclusion:
 
 - **Hidden Effects & Transitions:** Unlock dynamic sound shifts and dazzling light effects by blending different audio elements.
 

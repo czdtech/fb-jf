@@ -17,28 +17,28 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Overview
+### Aperçu
 Drift à un seul bouton sur une piste suspendue : maintiens pour drifter dans les
 virages, relâche pour te remettre droit, et reste sur la plateforme pour
 accumuler des pièces et améliorer ton véhicule.
 
-### How to Play
+### Comment jouer
 - Anticipe l’entrée de virage ; appuie pour lancer le drift, relâche pour en
   sortir.
 - Les plateformes étroites et les bosses demandent des appuis plus courts et plus
   secs.
 - Les pièces débloquent des voitures avec plus d’adhérence ou de stabilité.
 
-### Controls
+### Commandes
 - Souris/Espace/Tactile : maintiens pour drifter ; relâche pour aller tout droit.
 
-### Tips
+### Astuces
 - Regarde loin pour les enchaînements en S ; utilise des micro‑taps plutôt que de
   longs appuis.
 - Ne sur‑corrige pas : on tombe souvent à cause d’un relâchement trop tardif.
 - Investis tôt dans la stabilité pour survivre sur des pistes plus longues.
 
-### FAQ
+### Foire aux questions (FAQ)
 - Q: Y a‑t‑il un freinage ?
 A: Pas de frein manuel : ce sont tes appuis (timing) qui gèrent l’angle et la
 vitesse dans les virages.

@@ -20,7 +20,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
-### **Game Introduction**
+### **Présentation du jeu**
 
 *Domino Adventure* est une version numérique soignée du jeu de dominos classique.
 L’objectif est d’être le premier joueur à **poser toutes ses tuiles de domino**
@@ -35,7 +35,7 @@ Le gagnant d’une manche marque des points égaux au total de points restant da
 les mains adverses. La partie se joue en plusieurs manches jusqu’à atteindre un
 score cible (par ex. 15 points, selon la version).
 
-### **Gameplay Strategy & Tips**
+### **Stratégies de jeu et astuces**
 
 1.  **Joue tes doubles tôt** : les doubles (comme 5‑5 ou 3‑3) sont moins flexibles,
     car ils n’offrent qu’un seul nombre possible. Les poser tôt évite de les garder
@@ -55,7 +55,7 @@ score cible (par ex. 15 points, selon la version).
     *   **Draw Mode** : si tu ne peux pas jouer, tu pioches dans la réserve
         (“boneyard”) jusqu’à obtenir une tuile jouable. Il y a plus d’aléatoire.
 
-### **Controls Guide**
+### **Commandes**
 
 Le jeu est pensé pour un gameplay simple au clic ou au glisser‑déposer.
 
@@ -63,7 +63,7 @@ Le jeu est pensé pour un gameplay simple au clic ou au glisser‑déposer.
     vers une extrémité valide. Souvent, tu peux aussi **cliquer** sur la tuile et
     elle se place automatiquement si un coup existe.
 
-### **Frequently Asked Questions (FAQ)**
+### **Foire aux questions (FAQ)**
 
 **1. Comment gagner une manche ?**
 Tu gagnes en étant le premier à te débarrasser de tous tes dominos. Tu peux aussi

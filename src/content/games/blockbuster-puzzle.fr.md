@@ -15,11 +15,11 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### Présentation détaillée du jeu
 
 Blockbuster Puzzle tasks you with fitting incoming shapes to trigger line or cluster clears. The art is in pacing: keep multiple lanes viable, prepare “bomb” turns that clear large areas, and never burn your last escape pocket unless it secures a chain.
 
-### Gameplay Strategy & Walkthrough
+### Stratégies de jeu et progression
 
 1.  Garde au moins deux colonnes « flexibles » pour accueillir les pièces difficiles.
 2.  Réserve une case ou une zone comme « poche de secours » pour récupérer un mauvais tirage.
@@ -27,12 +27,12 @@ Blockbuster Puzzle tasks you with fitting incoming shapes to trigger line or clu
 4.  Évite les cavités d’une seule case, presque impossibles à exploiter.
 5.  Quand la grille est dégagée, profite‑en pour viser des clear multi‑lignes et agrandir encore l’espace.
 
-### Controls Guide
+### Commandes
 
 - Drag‑and‑drop pieces; rotate if supported.
 - Undo/Reset can recover from greedy mistakes.
 
-### Frequently Asked Questions (FAQ)
+### Foire aux questions (FAQ)
 
 - Q: Why do I keep losing despite early good clears?
 

@@ -14,11 +14,11 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### Présentation détaillée du jeu
 
 Color Pin te demande de lancer des aiguilles sur un disque en rotation. Évite de toucher celles déjà plantées, et dans les modes colorés, vise le segment correspondant à la couleur demandée. Les variations de vitesse et de sens de rotation récompensent le rythme et la patience.
 
-### Gameplay Strategy & Walkthrough
+### Stratégies de jeu et progression
 
 1.  Observe le cycle de rotation et tire toujours sur une phase régulière.
 2.  Vise d’abord les grands espaces ; garde les ouvertures serrées pour les rotations plus lentes.
@@ -26,12 +26,12 @@ Color Pin te demande de lancer des aiguilles sur un disque en rotation. Évite d
 4.  En mode couleur, prépare ton tir à l’avance et ne clique qu’à l’alignement.
 5.  Après une erreur, reprends un tour pour retrouver ton tempo avant de continuer.
 
-### Controls Guide
+### Commandes
 
 - Tape/Clique pour lancer une aiguille (certaines variantes permettent de maintenir pour ajuster).
 - Pause/Restart via l’interface.
 
-### Frequently Asked Questions (FAQ)
+### Foire aux questions (FAQ)
 
 - Q: Je percute toujours une aiguille — pourquoi ?
   

@@ -31,7 +31,7 @@ Kitty Match est un jeu de match‑3 plein de chats et de niveaux colorés. Le bu
 
 *   **Échanger** : clique et fais glisser une tuile vers une voisine pour les inverser ; l'échange doit créer un match pour être validé.
 
-### FAQ
+### Foire aux questions (FAQ)
 
 *   **Q : Quel est le but de chaque niveau ?**
     *   **R :** Il est affiché au début : collecter un certain nombre d'objets colorés, casser tous les blocs de gelée, ou faire descendre des items spéciaux.

@@ -37,7 +37,7 @@ Kingdom Rush a établi le mélange de la série entre contrôle de voie et micro
 - Garde une couverture anti‑aérienne ; les volants punissent les setups tout‑terrain.
 - Utilise les casernes pour regrouper les ennemis sous le splash.
 
-### FAQ
+### Foire aux questions (FAQ)
 
 - **Q : Quel est un bon ordre de build en début de partie ?**
   R : Une caserne + un splash + un mage, puis améliore près du point d'étranglement principal.

@@ -18,33 +18,33 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Overview
+### Aperçu
 Classique d’arcade (1981) : incarne Mario, grimpe sur les poutres et les
 échelles, évite les tonneaux et boules de feu, et utilise le marteau pour
 détruire les dangers en traversant les quatre types de stages (25m–100m) afin de
 sauver Pauline. Les stages bouclent avec des patterns plus rapides après chaque
 niveau.
 
-### How to Play
+### Comment jouer
 - Termine le stage en atteignant le sommet ou en retirant les rivets (stage 100m).
 - Marque des points en sautant par‑dessus des tonneaux, en détruisant au marteau
   et en ramassant des objets.
 - Apprends les patterns des tonneaux (droit/diagonal), le timing des tapis
   roulants et les ressorts des ascenseurs.
 
-### Controls
+### Commandes
 - Flèches : se déplacer / grimper.
 - Haut : monter aux échelles ; Saut : touche dédiée selon l’hébergeur.
 - Action : le marteau est automatique une fois ramassé et dure un court instant.
 
-### Tips
+### Astuces
 - Attends une fenêtre sûre ; ne grimpe pas si un tonneau est juste au‑dessus.
 - Sur le 25m, tu peux influencer certains tonneaux en te tournant brièvement vers
   une échelle.
 - Prends le marteau quand le “trafic” est dense, mais évite de te faire coincer
   près des échelles.
 
-### FAQ
+### Foire aux questions (FAQ)
 - Q: Combien y a‑t‑il de stages différents ?
 A: Quatre : Poutres (25m), Tapis roulants (50m), Ascenseurs (75m) et Rivets (100m).
 - Q: Est‑ce que le jeu boucle ?

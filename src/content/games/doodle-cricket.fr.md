@@ -18,28 +18,28 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Overview
+### Aperçu
 Le doodle cricket jouable de Google : tu joues le frappeur, tu synchronises tes
 swings pour envoyer la balle au‑delà des fielders, tandis que le bowler varie la
 vitesse et le type de lancer. Les runs s’accumulent jusqu’à ton élimination.
 
-### How to Play
+### Comment jouer
 - Tape/clique pour frapper quand la balle arrive ; vise les gaps pour marquer
   1–6 runs.
 - Observe les indices du bowler (lent/rapide) et le rebond ; une frappe tardive
   part souvent côté off‑side.
 - Ton innings se termine sur un catch ou un bowled/LBW ; vise un nouveau record.
 
-### Controls
+### Commandes
 - Souris/tactile : un tap/clic pour frapper. Le timing détermine le placement et
   la puissance.
 
-### Tips
+### Astuces
 - Ne frappe pas trop tôt : réagis au relâchement et au rebond.
 - Privilégie les coups au sol ; ne lève la balle que si l’espace est clair.
 - Ajuste‑toi aux lancers lents : attends une fraction de seconde de plus.
 
-### FAQ
+### Foire aux questions (FAQ)
 - Q: Peut‑on faire des 6 régulièrement ?
 A: Oui, avec un contact tardif mais propre, surtout quand le champ est étiré.
 - Q: Est‑ce que la difficulté augmente ?

@@ -15,11 +15,11 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
-### Detailed Game Introduction
+### Présentation détaillée du jeu
 
 Collect Same Thing te met au défi d’associer des tuiles/objets identiques sous des contraintes d’espace ou de temps. Retirer des paires révèle souvent des couches plus profondes ; la réussite dépend de l’ouverture des « couloirs », de la priorité aux objets rares et de la gestion des singles isolés.
 
-### Gameplay Strategy & Walkthrough
+### Stratégies de jeu et progression
 
 1.  Ouvre d’abord les lignes pour révéler les tuiles cachées.
 2.  Associe tôt les objets rares avant qu’ils n’encombrent le plateau.
@@ -27,12 +27,12 @@ Collect Same Thing te met au défi d’associer des tuiles/objets identiques sou
 4.  Évite de coincer des tuiles « seules » dans un coin avec peu de partenaires.
 5.  Garde les mélanges/indices pour les urgences.
 
-### Controls Guide
+### Commandes
 
 - Clique/tape pour sélectionner des paires selon les règles du mode.
 - Utilise indice/mélange (si disponible) avec parcimonie.
 
-### Frequently Asked Questions (FAQ)
+### Foire aux questions (FAQ)
 
 - Q: Je suis bloqué sans paire — que faire ?
   

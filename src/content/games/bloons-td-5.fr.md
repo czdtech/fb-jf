@@ -50,7 +50,7 @@ Le gameplay reste un pur point‑and‑click.
 -   **Capacités actives :** leurs boutons apparaissent en bas à gauche et se déclenchent d’un clic.  
 -   **Raccourcis clavier :** les icônes affichent la touche associée pour gagner en réactivité.
 
-### FAQ
+### Foire aux questions (FAQ)
 
 **1. Quel est le meilleur tour dans BTD5 ?**  
 > Aucun tour n’est « le meilleur », mais un **Temple of the Monkey God** entièrement sacrifié soutenu par un Monkey Village 2/3 est considéré comme la combinaison la plus puissante.

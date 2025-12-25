@@ -33,7 +33,7 @@ Learn to Fly est un jeu de distance basé sur l’amélioration continue. Tu lan
 - Garde du carburant pour la fin du vol, quand la traînée commence à te ralentir.  
 - Les objectifs quotidiens t’aident à prioriser l’ordre des upgrades.
 
-### FAQ
+### Foire aux questions (FAQ)
 
 - **Q : Quels upgrades sont les plus rentables au début ?**  
   R : Vitesse de base et qualité du plane sont plus efficaces que les gadgets au début.  

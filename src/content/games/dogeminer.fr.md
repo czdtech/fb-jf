@@ -18,14 +18,14 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Overview
+### Aperçu
 DogeMiner est un jeu incrémental (idle/clicker) sur le thème du minage de
 pièces. Clique pour miner manuellement, achète des améliorations de pioche et
 des assistants (Shibes, outils de stats, usines, etc.), puis automatise la
 production pour accélérer tes gains. Plus tard, tu peux viser des objectifs
 comme voyager vers la Lune (et au‑delà) via des améliorations de fusée.
 
-### How to Play
+### Comment jouer
 - Clique pour gagner tes premières pièces ; investis dans des améliorations qui
   augmentent les pièces par clic et par seconde.
 - Achète des assistants/bâtiments pour automatiser le revenu ; l’effet boule de
@@ -33,11 +33,11 @@ comme voyager vers la Lune (et au‑delà) via des améliorations de fusée.
 - Utilise le prestige ou les resets de fin de jeu (si disponibles) pour gagner
   des multiplicateurs pour les runs suivantes.
 
-### Controls
+### Commandes
 - Souris/tactile : clique pour miner manuellement ; utilise les boutons de l’UI
   pour acheter améliorations, assistants et fusées.
 
-### Tips and Strategies
+### Conseils et stratégies
 - Réinvestis tôt dans le revenu passif avant de viser des prestiges coûteux ou
   des pièces de fusée.
 - Garde un équilibre entre améliorations de clic et bâtiments idle selon ton
@@ -45,7 +45,7 @@ comme voyager vers la Lune (et au‑delà) via des améliorations de fusée.
 - Épargne pour les bâtiments “jalons” qui débloquent du nouveau contenu (ex.
   voyage spatial).
 
-### FAQ
+### Foire aux questions (FAQ)
 - Q: Peut‑on jouer hors ligne ?
 A: Certains sites sauvegardent localement et produisent pendant que l’onglet est
 ouvert ; le vrai “offline” dépend de l’hébergeur.

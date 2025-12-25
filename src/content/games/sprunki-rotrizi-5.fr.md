@@ -73,6 +73,6 @@ Imagine que tu es un alchimiste du son :
 - **Drag Characters:** Once loaded, use your left mouse button to pick characters from the menu and drop them onto the mixing area.
 Sprunki Rotrizi 5.0 s’adresse clairement aux joueurs qui aiment bidouiller le
 
-### Wrapping Up:
+### En résumé:
 son et repousser les limites de ce que peut produire un Mod Sprunki.
 

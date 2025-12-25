@@ -41,7 +41,7 @@ d’art animée.
   graphiques, tout en restant faciles à lire côté gameplay.
 - **Voyage musical original :** plus qu’un simple jeu, c’est une petite
 
-### Conclusion:
+### En conclusion:
   expérience sensorielle où chaque note semble se fondre dans les couleurs
   et les formes.
 

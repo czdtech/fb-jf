@@ -30,6 +30,6 @@ Que tu sois un musicien experimente ou un debutant curieux, The Haze Pixelbox of
 -   Tu auras des combinaisons infinies pour creer ton propre chef-d oeuvre musical.
 -   Tu peux partager tes oeuvres avec amis et famille pour ressentir ensemble le charme de la musique.
 
-### Conclusion
+### En conclusion
 
 Que tu sois un musicien experimente ou un debutant curieux, The Haze Pixelbox offre un plaisir infini, stimulant la creativite avec sa touche ethnique unique. Viens rejoindre The Haze Pixelbox et reveille l ame musicale primitive avec des rythmes anciens !

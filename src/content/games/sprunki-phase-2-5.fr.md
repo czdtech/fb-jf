@@ -61,7 +61,7 @@ Chaque partie devient donc une petite mise en scène entre humour et frisson.
 - vraie liberté de création musicale.
 
 
-### Wrapping Up:
+### En résumé:
 Sprunki Phase 2.5, ce n’est pas juste un Mod de plus : c’est une petite
 expérience interactive où tu composes, tu ris… et tu sursautes.
 

@@ -18,14 +18,14 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
-### Overview
+### Aperçu
 Diner Dash est un jeu de gestion du temps où tu dois placer les clients,
 prendre les commandes, servir, débarrasser, et maintenir la jauge de satisfaction
 pour atteindre les objectifs. Tu gagnes des combos en enchaînant des actions
 (par ex. installer rapidement des groupes similaires, servir vite) et tu achètes
 des améliorations entre les niveaux.
 
-### How to Play
+### Comment jouer
 - Place rapidement les clients ; si possible, assortis tailles/couleurs de tables
   pour des bonus.
 - Prends les commandes, sers, puis débarrasse en boucle efficace pour éviter les
@@ -33,17 +33,17 @@ des améliorations entre les niveaux.
 - Utilise les améliorations (chaussures plus rapides, plus de tables, équipement)
   pour atteindre des quotas plus élevés.
 
-### Controls
+### Commandes
 - Souris/tactile : clique sur les destinations dans l’ordre pour enchaîner les
   actions ; certaines versions permettent le glisser‑déposer pour placer/servir.
 
-### Tips and Strategies
+### Conseils et stratégies
 - Enchaîne des actions liées pour maintenir des combos.
 - Priorise les clients impatients ; surveille la jauge de cœurs.
 - Pré‑planifie tes trajets (prendre plusieurs commandes, puis servir d’un coup)
   pour limiter les allers‑retours.
 
-### FAQ
+### Foire aux questions (FAQ)
 - Q: À quoi servent les correspondances de couleur ?
 A: Placer des groupes “même couleur” sur des tables correspondantes donne des
 points/combos supplémentaires.

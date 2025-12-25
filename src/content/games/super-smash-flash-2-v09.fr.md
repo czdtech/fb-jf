@@ -18,7 +18,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ### Présentation du jeu
 Les principes restent les mêmes que pour la v0.8 : combats de plateforme,
 
-### Gameplay Guide
+### Guide de jeu
 pourcentage de dégâts, smash, récupérations et objets. La version 0.9 ajoute
 
 

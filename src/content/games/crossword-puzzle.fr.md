@@ -55,7 +55,7 @@ cryptiques utilisent d’autres conventions de définitions et de motifs.
 - Pour les grilles cryptiques, apprends à repérer la partie définition et la
   partie jeu de mots dans chaque indice.
 
-### FAQ
+### Foire aux questions (FAQ)
 
 
 - Q: Quelle est la différence entre mots croisés américains et britanniques ?
