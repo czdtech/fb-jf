@@ -56,21 +56,15 @@ Willkommen im Panda Pizza Parlor, einem liebevoll gestalteten, schnellen
 ### Häufige Fragen (FAQ)
 
 *   **F: Was passiert, wenn ich eine Bestellung falsch mache?**
-    **A:** Benutzt du den falschen Belag oder verbrennst die Pizza, wird der
-    Gast verärgert und verlässt den Laden. Du bekommst dann kein Geld für diese
-    Bestellung.
+    *   **A:** Benutzt du den falschen Belag oder verbrennst die Pizza, wird der
+        Gast verärgert und verlässt den Laden. Du bekommst dann kein Geld für
+        diese Bestellung.
 
-    - **F: Wie kann ich Gäste schneller bedienen?**
-    **A:** Versuche, häufig bestellte Basis-Pizzen in ruhigeren Phasen
-    vorzubereiten. Mit etwas Übung kannst du mehrere Pizzen parallel im Blick
-    behalten.
+*   **F: Wie kann ich Gäste schneller bedienen?**
+    *   **A:** Versuche, häufig bestellte Basis-Pizzen in ruhigeren Phasen
+        vorzubereiten. Mit etwas Übung kannst du mehrere Pizzen parallel im
+        Blick behalten.
 
 *   **F: Gibt es Upgrades im Spiel?**
-
-    - **A:** As you progress through the levels, you will unlock new toppings and menu items, which adds more complexity and challenge to the game.
-
-- **Q: Are there upgrades in the game?**
-
-    - **A:** Try to anticipate orders and prepare common pizza bases in advance during slower moments. As you get more comfortable, you can start making multiple pizzas at the same time.
-    **A:** Mit fortschreitenden Leveln schaltest du neue Beläge und
-    Menüvarianten frei, was das Spiel komplexer und abwechslungsreicher macht.
+    *   **A:** Mit fortschreitenden Leveln schaltest du neue Beläge und
+        Menüvarianten frei, was das Spiel komplexer und anspruchsvoller macht.

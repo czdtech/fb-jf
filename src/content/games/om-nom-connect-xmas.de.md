@@ -52,21 +52,16 @@ In Om Nom Connect Xmas begleitest du den knuffigen Om Nom durch ein
 ### Häufige Fragen (FAQ)
 
 *   **F: Welche Regeln gelten für die Verbindung der Kacheln?**
-    **A:** Du kannst zwei identische Kacheln verbinden, wenn die Linie
-    dazwischen höchstens zwei rechtwinklige Knicke hat und nicht durch andere
-    Kacheln verläuft.
+    *   **A:** Du kannst zwei identische Kacheln verbinden, wenn die Linie
+        dazwischen höchstens zwei rechtwinklige Knicke hat und nicht durch andere
+        Kacheln verläuft.
 
-    - **F: Was kann ich tun, wenn ich keine Kombination mehr sehe?**
-    **A:** Schaue dir zuerst das gesamte Feld in Ruhe an. Wenn du trotzdem
-    nichts findest, nutze die Lupe für einen Hinweis oder den Shuffle-Button,
-    um alle Kacheln neu zu mischen.
+*   **F: Was soll ich tun, wenn ich feststecke und kein Paar finde?**
+    *   **A:** Scanne zuerst das gesamte Feld in Ruhe. Wenn du immer noch
+        feststeckst, nutze die Lupe als Hinweis, um ein Paar aufzudecken. Wenn
+        du komplett blockiert bist, verwende „Shuffle“, um alle Kacheln neu zu
+        mischen.
 
 *   **F: Gibt es ein Zeitlimit?**
-
-    - **A:** Yes, there is a timer for each level. You must clear the entire board before the time runs out to win.
-
-- **Q: Is there a time limit?**
-
-    - **A:** First, take a moment to carefully scan the entire board. If you are still stuck, use the magnifying glass hint tool to reveal a match. If you feel completely blocked, use the shuffle power-up.
-    **A:** Ja, jedes Level hat einen Timer. Du musst das Spielfeld räumen,
-    bevor die Zeit abläuft, um zu gewinnen.
+    *   **A:** Ja, jedes Level hat einen Timer. Du musst das gesamte Brett
+        räumen, bevor die Zeit abläuft, um zu gewinnen.

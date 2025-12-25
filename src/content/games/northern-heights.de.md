@@ -48,12 +48,9 @@ Northern Heights ist ein Ski-Spiel, das dich über verschneite Hänge und
 ### Häufige Fragen (FAQ)
 
 *   **F: Wie bekomme ich mehr Punkte?**
-    **A:** Stunts, eingesammelte Münzen und eine schnelle, möglichst fehlerfreie
-    Abfahrt erhöhen deine Punktzahl.
-    - **F: Wofür kann ich die Münzen verwenden?**
+    *   **A:** Stunts, eingesammelte Münzen und eine schnelle, möglichst
+        fehlerfreie Abfahrt erhöhen deine Punktzahl.
 
-- **A:** Coins can be used to purchase customization options for your character, including new boards and clothing.
-
-    - **Q: What can I do with the coins I collect?**
-    **A:** Mit Münzen schaltest du neue Boards, Outfits und andere
-    Anpassungsoptionen für deinen Fahrer frei.
+*   **F: Wofür kann ich die eingesammelten Münzen verwenden?**
+    *   **A:** Mit Münzen kaufst du Anpassungen für deinen Charakter, darunter
+        neue Boards und Kleidung.

@@ -55,19 +55,13 @@ Gespielt wird mit einer einfachen Linien-Zeichnen-Mechanik.
 ### Häufige Fragen (FAQ)
 
 *   **F: Was passiert, wenn zwei Autos zusammenstoßen?**
-    **A:** Dann scheitert das Level und du musst von vorn beginnen.
+    *   **A:** Dann scheiterst du am Level und musst von vorn beginnen.
 
-    - **F: Wie verhindere ich Unfälle an Kreuzungen?**
-    **A:** Steuere die Zeit: Gib einem Auto bewusst eine längere Route, damit es
-    später an die Kreuzung kommt, oder warte, bis ein anderes Fahrzeug komplett
-    geparkt ist, bevor du das nächste losschickst.
+*   **F: Wie verhindere ich Unfälle, wenn sich Wege kreuzen?**
+    *   **A:** Du musst das Timing steuern. Gib einem Auto bewusst eine längere
+        Route, damit es später an die Kreuzung kommt. Du kannst auch warten, bis
+        ein Auto komplett geparkt ist, bevor du den Weg für das nächste zeichnest.
 
 *   **F: Muss ich jedes Auto parken?**
-
-    - **A:** Yes, the level is only complete when every car has been safely guided to its correct parking space.
-
-- **Q: Do I have to park all the cars?**
-
-    - **A:** You must manage the timing. Make one car's path much longer than the other's so that they arrive at the intersection at different times. You can also wait for one car to park completely before you even start drawing the path for the second car.
-    **A:** Ja, ein Level gilt nur dann als geschafft, wenn alle Autos sicher auf
-    ihrem richtigen Parkplatz stehen.
+    *   **A:** Ja, ein Level ist erst geschafft, wenn alle Autos sicher zu ihrem
+        richtigen Parkplatz geführt wurden.

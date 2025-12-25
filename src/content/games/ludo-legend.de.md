@@ -59,21 +59,15 @@ bringen.
 
 ### Häufige Fragen
 
-*   **F: Was ist das Ziel von Ludo?**  
-    **A:** Als Erste:r alle vier eigenen Figuren vom Startfeld über das Brett
-    in das eigene Zielfeld zu bringen.
+*   **F: Was ist das Ziel von Ludo?**
+    *   **A:** Als Erste:r alle vier eigenen Figuren vom Startfeld über das Brett
+        bis ins Zielfeld (Dreieck) zu bringen.
 
-    - **F: Was passiert bei einer gewürfelten Sechs?**  
-    **A:** Du kannst eine Figur aus dem Start auf das Brett bringen und erhältst
-    außerdem einen Extrawurf.
+*   **F: Was passiert, wenn ich eine Sechs würfle?**
+    *   **A:** Eine Sechs hat zwei Vorteile: Du darfst eine Figur aus dem Start
+        aufs Brett bringen und bekommst einen zusätzlichen Wurf.
 
-*   **F: Kann ich über eigene Figuren hinwegziehen?**  
-
-    - **A:** Yes, you can move past your own tokens. However, if you have two tokens on the same spot forming a block, even you cannot move a third token onto that spot.
-
-- **Q: Can I pass my own tokens?**
-
-    - **A:** Rolling a six gives you two advantages: you can move a token out of your yard, and you get an extra roll of the dice.
-    **A:** Ja, du kannst an ihnen vorbeiziehen. Hast du jedoch zwei eigene
-    Figuren auf einem Feld als Block, kannst du dort keine dritte Figur
-    platzieren.
+*   **F: Kann ich an meinen eigenen Figuren vorbeiziehen?**
+    *   **A:** Ja, du darfst an eigenen Figuren vorbeiziehen. Wenn du jedoch zwei
+        Figuren auf demselben Feld als Block stehen hast, kannst du selbst keine
+        dritte Figur auf dieses Feld ziehen.

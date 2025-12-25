@@ -63,22 +63,18 @@ Punktzahl zu erreichen.
 
 ### Häufige Fragen
 
-*   **F: Warum wurde mein Wort abgelehnt?**  
-    **A:** Mögliche Gründe: 1) Das Wort ist nicht im Wörterbuch des Spiels
-    enthalten. 2) Nicht alle von dir gelegten Steine bilden eine zusammen-
-    hängende Gruppe. 3) Das zentrale Sternfeld wurde nicht korrekt genutzt.
+*   **F: Warum wurde mein Wort abgelehnt?**
+    *   **A:** Mögliche Gründe: 1) Das Wort ist nicht im Wörterbuch des Spiels
+        enthalten. 2) Nicht alle von dir gelegten Steine sind zu einer
+        zusammenhängenden Gruppe verbunden. 3) Das zentrale Sternfeld wurde
+        nicht genutzt.
 
-    - **F: Wie werden die Punkte genau berechnet?**  
-    **A:** Zuerst wird der Wert aller Buchstaben summiert, wobei DL/TL-Boni auf
-    einzelne Buchstaben angewendet werden. Anschließend werden Wort-Boni wie DW
-    oder TW auf die Gesamtpunktzahl dieses Wortes angewendet.
+*   **F: Wie werden die Punkte genau berechnet?**
+    *   **A:** Die Punktzahl eines Wortes ist die Summe der Buchstabenwerte,
+        multipliziert mit Wortboni (DW, TW). Buchstabenboni (DL, TL) gelten
+        zuerst für einzelne Buchstaben, bevor die Wortmultiplikatoren angewendet
+        werden.
 
-*   **F: Darf ich diagonal spielen?**  
-
-    - **A:** No. All words must be formed horizontally (left-to-right) or vertically (top-to-bottom).
-
-- **Q: Can I play diagonally?**
-
-    - **A:** The score for a word is the sum of the values of its letters, multiplied by any word bonuses (DW, TW). Letter bonuses (DL, TL) are applied to individual letters before the word multipliers.
-    **A:** Nein. Alle Wörter müssen waagerecht (von links nach rechts) oder
-    senkrecht (von oben nach unten) gebildet werden.
+*   **F: Darf ich diagonal spielen?**
+    *   **A:** Nein. Alle Wörter müssen waagerecht (von links nach rechts) oder
+        senkrecht (von oben nach unten) gebildet werden.

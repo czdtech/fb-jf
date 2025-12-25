@@ -54,21 +54,15 @@ Das Spiel wird allein mit Mausklicks oder Taps gespielt.
 
 ### Häufige Fragen (FAQ)
 
-*   **F: Warum kann ich zwei gleiche Kacheln nicht verbinden?**
-    **A:** Entweder blockiert eine andere Kachel den Weg, oder die Verbindung
-    würde mehr als zwei 90-Grad-Knicke benötigen.
+*   **F: Warum kann ich zwei identische Kacheln nicht verbinden?**
+    *   **A:** Entweder blockiert eine andere Kachel den Weg, oder die Verbindung
+        würde mehr als zwei 90‑Grad‑Knicke erfordern.
 
-    - **F: Was passiert, wenn die Zeit abläuft?**
-    **A:** Läuft der Timer auf null, bevor alle Kacheln entfernt sind, verlierst
-    du das Level und musst es neu beginnen.
+*   **F: Was passiert, wenn die Zeit abläuft?**
+    *   **A:** Dann scheiterst du am Level und musst neu starten. Tempo und
+        schnelles Erkennen sind entscheidend.
 
-*   **F: Gibt es eine beste Strategie, um schnell Paare zu finden?**
-
-    - **A:** Don't fixate on one tile for too long. Keep your eyes moving and scan the entire board. Sometimes the most obvious pairs are the ones you overlook when you're too focused on a specific area.
-
-- **Q: What's the best strategy for finding matches quickly?**
-
-    - **A:** You will fail the level and have to start over. Speed and quick recognition are key!
-    **A:** Fixiere dich nicht zu lange auf eine Stelle. Lass deinen Blick über
-    das gesamte Feld wandern. Oft übersieht man offensichtliche Paare, wenn man
-    sich zu sehr auf einen kleinen Bereich konzentriert.
+*   **F: Was ist die beste Strategie, um schnell Paare zu finden?**
+    *   **A:** Fixiere dich nicht zu lange auf eine Stelle. Lass deinen Blick
+        über das gesamte Brett wandern. Oft übersieht man offensichtliche Paare,
+        wenn man sich zu sehr auf einen kleinen Bereich konzentriert.

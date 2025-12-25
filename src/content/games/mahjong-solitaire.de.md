@@ -70,21 +70,16 @@ Das Spiel wird mit Maus oder Touch gesteuert.
 
 ### Häufige Fragen
 
-*   **F: Warum kann ich einen bestimmten Stein nicht auswählen?**  
-    **A:** Er ist nicht frei – meistens, weil links und rechts noch Steine
-    anliegen oder ein Stein auf ihm liegt.
+*   **F: Warum kann ich einen bestimmten Stein nicht auswählen?**
+    *   **A:** Der Stein ist nicht „frei“. Meist ist er links und rechts
+        blockiert oder es liegt (teilweise) ein anderer Stein auf ihm.
 
-    - **F: Was mache ich, wenn keine Paare mehr zu finden sind?**  
-    **A:** Manche Versionen bieten eine Shuffle- oder Hinweisfunktion. Gibt es
-    keine solche Hilfe und keine Züge mehr, ist die Runde verloren.
+*   **F: Was mache ich, wenn keine Paare mehr übrig sind?**
+    *   **A:** Wenn du sicher bist, dass keine Matches mehr vorhanden sind, suche
+        nach einem „Shuffle“/„Reshuffle“-Button. Gibt es keine Mischfunktion und
+        keine Züge mehr, ist die Runde verloren.
 
-*   **F: Sind alle Jahreszeiten-/Blumensteine unterschiedlich?**  
-
-    - **A:** Yes, the images on them are different, but they belong to the same group. You can match any tile from the "Seasons" group with any other tile from that same group, and likewise for the "Flowers" group.
-
-- **Q: Are the Season/Flower tiles all different?**
-
-    - **A:** If you are certain no matches are left, look for a "Shuffle" or "Reshuffle" button. If the game has no shuffle option and no moves are left, the game is lost.
-    **A:** Ja, die Motive unterscheiden sich, gehören aber zu jeweils einer
-    Gruppe. Du kannst beliebige zwei Jahreszeitensteine miteinander kombinieren
-    – ebenso jede beliebige Blumen-Kombination.
+*   **F: Sind alle Jahreszeiten-/Blumensteine unterschiedlich?**
+    *   **A:** Ja, die Motive sind unterschiedlich, aber sie gehören zur selben
+        Gruppe. Du kannst jeden Stein aus „Seasons“ mit jedem anderen aus
+        derselben Gruppe kombinieren – genauso wie bei „Flowers“.

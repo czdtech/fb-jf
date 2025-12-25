@@ -63,22 +63,17 @@ vollständig zu leeren.
 
 ### Häufige Fragen
 
-- **F: Worin unterscheidet sich Medieval Solitaire vom klassischen Solitaire?**  
-  **A:** Die Regeln sind identisch zu Klondike-Solitaire. Der Unterschied liegt
-  ausschließlich im mittelalterlichen Thema mit eigenen Kartenmotiven und
-  Hintergründen.
+*   **F: Worin unterscheidet sich Medieval Solitaire vom klassischen Solitaire?**
+    *   **A:** Gameplay und Regeln entsprechen dem klassischen (Klondike-)
+        Solitaire. Der Unterschied liegt nur im mittelalterlichen Look mit
+        eigenen Kartenmotiven und Hintergründen.
 
-    - **F: Ich habe keine Züge mehr – was nun?**  
-  **A:** Prüfe das Tableau noch einmal gründlich. Wenn wirklich keine Züge mehr
-  möglich sind, ziehe Karten aus dem Stock. Ist auch dieser erschöpft und es
-  bleiben Karten liegen, ist die Runde verloren.
+*   **F: Ich habe keine Züge mehr – was nun?**
+    *   **A:** Prüfe zuerst das Tableau auf mögliche Züge. Gibt es keine, musst
+        du vom Stock ziehen. Wenn auch der Stock leer ist und keine Züge mehr
+        möglich sind, ist die Runde verloren.
 
-- **F: Kann ich Züge rückgängig machen?**  
-
-    - **A:** Most digital solitaire games, including this one, feature an "Undo" button that allows you to take back one or more previous moves. This can be very helpful for correcting a mistake or exploring a different strategy.
-
-- **Q: Can I undo a move?**
-
-    - **A:** First, double-check the tableau for any available moves. If there are none, you must draw from the stock pile. If the stock pile is also empty, the game is lost.
-  **A:** Die meisten digitalen Solitaire-Versionen bieten eine Undo-Funktion,
-  mit der du Züge zurücknehmen und alternative Strategien ausprobieren kannst.
+*   **F: Kann ich einen Zug rückgängig machen?**
+    *   **A:** Die meisten digitalen Solitaire-Spiele haben einen „Undo“-Button,
+        mit dem du einen oder mehrere Züge zurücknehmen kannst. Das hilft, Fehler
+        zu korrigieren oder eine andere Strategie auszuprobieren.

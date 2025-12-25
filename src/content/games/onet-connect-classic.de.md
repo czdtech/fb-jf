@@ -61,20 +61,13 @@ Das Spiel wird komplett mit Maus oder per Touch gesteuert.
 ### Häufige Fragen (FAQ)
 
 *   **F: Warum kann ich zwei identische Kacheln nicht verbinden?**
-    **A:** Entweder blockiert eine andere Kachel den Weg, oder die Verbindung
-    würde mehr als zwei 90-Grad-Knicke erfordern.
+    *   **A:** Entweder blockiert eine andere Kachel den Weg, oder die Verbindung
+        würde mehr als zwei 90‑Grad‑Knicke erfordern.
 
-    - **F: Was passiert, wenn mir die Zeit ausgeht?**
-    **A:** Läuft der Timer auf null, bevor alle Kacheln verschwunden sind,
-    verlierst du das Level und musst es neu starten.
+*   **F: Was passiert, wenn mir die Zeit ausgeht?**
+    *   **A:** Wenn der Timer auf null fällt, bevor alle Kacheln verschwunden
+        sind, verlierst du das Level und musst neu starten.
 
 *   **F: Gibt es eine Strafe für Hinweise?**
-
-    - **A:** Usually, no, but you have a limited number of them. Use them when you are truly stuck to save valuable time.
-
-- **Q: Is there a penalty for using hints?**
-
-    - **A:** If the timer reaches zero before you have cleared all the tiles, you lose the level and will have to start over.
-    **A:** In der Regel nicht, aber du hast nur eine begrenzte Anzahl davon.
-    Hebe sie dir für Situationen auf, in denen du wirklich nicht weiter weißt,
-    um Zeit zu sparen.
+    *   **A:** Normalerweise nicht, aber du hast nur eine begrenzte Anzahl. Nutze
+        Hinweise, wenn du wirklich feststeckst, um Zeit zu sparen.

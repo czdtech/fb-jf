@@ -49,21 +49,15 @@ Gespielt wird nur mit Taps oder Klicks.
 ### Häufige Fragen (FAQ)
 
 *   **F: Was passiert, wenn ich eine Kachel verfehle oder falsch tippe?**
-    **A:** In den meisten Modi endet der Song sofort und du musst von vorn
-    beginnen.
+    *   **A:** In den meisten Modi endet der Song sofort und du musst von vorn
+        beginnen.
 
-    - **F: Wie bekomme ich eine hohe Punktzahl?**
-    **A:** Triff jede Note exakt. Je länger deine Combo ohne Fehler ist, desto
-    höher steigt dein Multiplikator und damit dein Score. Ein perfekter Durchlauf
-    bringt die maximale Punktzahl.
+*   **F: Wie bekomme ich eine hohe Punktzahl?**
+    *   **A:** Triff jede Note perfekt. Das Spiel zählt deine Combo, und der
+        Multiplikator steigt, je mehr Noten du ohne Fehler hintereinander triffst.
+        Ein fehlerfreier Durchlauf bringt die höchste Punktzahl.
 
 *   **F: Kann ich verschiedene Lieder spielen?**
-
-    - **A:** Yes, the game features a library of songs to choose from, often categorized by difficulty. You may need to unlock more difficult songs by successfully completing the easier ones first.
-
-- **Q: Can I play different songs?**
-
-    - **A:** By hitting every single note perfectly. The game tracks your combo, and your score multiplier increases as you hit more notes consecutively without a miss. A perfect run will yield the highest possible score.
-    **A:** Ja, es gibt meist eine Song-Bibliothek mit mehreren Schwierigkeits-
-    stufen. Oft schaltest du anspruchsvollere Stücke frei, indem du leichtere
-    Songs erfolgreich abschließt.
+    *   **A:** Ja, meist gibt es eine Song-Bibliothek nach Schwierigkeitsstufen.
+        Oft schaltest du schwerere Songs frei, indem du zuerst die leichteren
+        erfolgreich abschließt.

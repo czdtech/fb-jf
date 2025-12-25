@@ -58,21 +58,18 @@ sie zu immer stärkeren Formen und platzierst sie auf dem Schlachtfeld, wo sie
 
 ### Häufige Fragen
 
-*   **F: Wie bekomme ich stärkere Wächter?**  
-    **A:** Durch Mergen. Zwei identische Wächter ergeben einen Wächter der
-    nächsthöheren Stufe (z. B. zwei Level-2 zu einem Level-3-Wächter).
+*   **F: Wie bekomme ich stärkere Wächter?**
+    *   **A:** Durch Mergen. Zwei identische Wächter ergeben einen Wächter der
+        nächsthöheren Stufe (z. B. zwei Level‑2‑Wächter werden zu einem
+        Level‑3‑Wächter).
 
-    - **F: Was passiert, wenn ein Muckling das Ende erreicht?**  
-    **A:** Erreicht ein Gegner das Herz der Natur, verlierst du Lebenspunkte.
-    Sind sie aufgebraucht, ist das Level verloren.
+*   **F: Was passiert, wenn ein Muckling das Ende erreicht?**
+    *   **A:** Erreicht ein Gegner das Herz der Natur am Ende des Pfads,
+        verlierst du ein Leben bzw. einen Gesundheitspunkt. Wenn deine
+        Lebenspunkte auf null fallen, verlierst du das Level.
 
-*   **F: Soll ich alle Slots sofort füllen?**  
-
-    - **A:** Not necessarily. It's often better to focus on merging to create one or two very powerful Guardians first, rather than deploying many weak ones. A single high-level Guardian can often do more damage than several low-level ones combined.
-
-- **Q: Should I fill all my deployment slots quickly?**
-
-    - **A:** If an enemy reaches the Heart of Nature at the end of the path, you will lose one life or health point. If your health reaches zero, you lose the level.
-    **A:** Nicht unbedingt. Oft ist es besser, zunächst höherstufige Wächter zu
-    merg en und dann gezielt einzusetzen, anstatt viele schwache Einheiten aufs
-    Feld zu stellen.
+*   **F: Soll ich alle Slots sofort füllen?**
+    *   **A:** Nicht unbedingt. Oft ist es besser, erst durch Mergen ein oder
+        zwei sehr starke Wächter aufzubauen, statt viele schwache zu setzen. Ein
+        einzelner hochstufiger Wächter macht häufig mehr Schaden als mehrere
+        niedrigstufige zusammen.
