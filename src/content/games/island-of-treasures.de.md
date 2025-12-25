@@ -56,21 +56,15 @@ Highscore immer weiter zu verbessern.
 
 ### Häufige Fragen (FAQ)
 
-- **F: Was ist das Hauptziel des Spiels?**  
-  **A:** So weit wie möglich zu laufen und dabei maximal viele Schätze zu
-  sammeln, um einen hohen Score zu erreichen.
+*   **F: Was ist das Hauptziel des Spiels?**
+    *   **A:** So weit wie möglich zu laufen und dabei maximal viele Schätze zu
+        sammeln, um einen hohen Score zu erreichen.
 
-    - **F: Kann ich Piraten angreifen?**  
-  **A:** In den meisten Endless-Runnern dienen Piraten eher als Hindernisse.
-  Manche Versionen bieten Power-ups, mit denen du sie kurzzeitig ausschalten
-  kannst.
+*   **F: Kann ich Piraten angreifen?**
+    *   **A:** In den meisten Endless‑Runnern dienen Piraten eher als Hindernisse.
+        Manche Versionen bieten Power‑ups, mit denen du sie kurzzeitig ausschalten
+        kannst.
 
-- **F: Was passiert bei einem Sturz oder Crash?**  
-
-    - **A:** Your run ends immediately, and you will have to start over from the beginning.
-
-- **Q: What happens if I fall into the water or hit an obstacle?**
-
-    - **A:** In most endless runners, direct combat is not the focus. You typically avoid rival pirates as they are obstacles. Some versions might have a specific power-up or action to temporarily stun them.
-  **A:** Dein Lauf endet sofort, und du startest beim nächsten Versuch wieder
-  von vorne.
+*   **F: Was passiert bei einem Sturz oder Crash?**
+    *   **A:** Dein Lauf endet sofort, und du startest beim nächsten Versuch wieder
+        von vorne.

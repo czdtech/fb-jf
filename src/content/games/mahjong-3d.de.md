@@ -65,23 +65,17 @@ sichtbar, wenn du das Layout von mehreren Blickwinkeln aus betrachtest.
 
 ### Häufige Fragen
 
-*   **F: Was ist der Unterschied zu normalem Mahjong Solitaire?**  
-    **A:** Die 3D-Präsentation. Dadurch musst du das Layout drehen und aus
-    verschiedenen Blickwinkeln betrachten, was das Erkennen von Paaren
-    anspruchsvoller macht als in einer reinen 2D-Ansicht.
+*   **F: Was ist der Unterschied zu normalem Mahjong Solitaire?**
+    *   **A:** Die 3D‑Präsentation. Dadurch musst du das Layout drehen und aus
+        verschiedenen Blickwinkeln betrachten, was das Erkennen von Paaren
+        anspruchsvoller macht als in einer reinen 2D‑Ansicht.
 
-    - **F: Ich sehe zwei gleiche Steine, kann sie aber nicht kombinieren – warum?**  
-    **A:** Mindestens einer der Steine ist nicht frei, meist weil links und
-    rechts noch andere Steine anliegen. Entferne zuerst die blockierenden
-    Steine, damit das Paar frei wird.
+*   **F: Ich sehe zwei gleiche Steine, kann sie aber nicht kombinieren – warum?**
+    *   **A:** Mindestens einer der Steine ist nicht frei, meist weil links und
+        rechts noch andere Steine anliegen. Entferne zuerst die blockierenden
+        Steine, damit das Paar frei wird.
 
-*   **F: Was hat es mit Blumen- und Jahreszeitensteinen auf sich?**  
-
-    - **A:** These are special tiles. Any Flower tile can be matched with any other Flower tile, and any Season tile can be matched with any other Season tile. They do not need to be identical images.
-
-- **Q: What do the Flower and Season tiles do?**
-
-    - **A:** One or both of the tiles are not "free." They are likely blocked on both their left and right sides by other tiles. You must clear the blocking tiles first before you can access them.
-    **A:** Das sind Sondersteine. Jede Blume kann mit jeder beliebigen anderen
-    Blumenkarte kombiniert werden, und dasselbe gilt für Jahreszeiten – die
-    Motive müssen nicht exakt identisch sein.
+*   **F: Was hat es mit Blumen‑ und Jahreszeitensteinen auf sich?**
+    *   **A:** Das sind Sondersteine. Jede Blume kann mit jeder beliebigen anderen
+        Blumenkarte kombiniert werden, und dasselbe gilt für Jahreszeiten – die
+        Motive müssen nicht exakt identisch sein.

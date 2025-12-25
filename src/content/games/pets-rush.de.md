@@ -54,21 +54,15 @@ Gespielt wird mit einfachen Tauschbewegungen.
 ### Häufige Fragen (FAQ)
 
 *   **F: Wann verliere ich?**
-    **A:** Sobald eine Spalte von Tierblöcken den oberen Bildschirmrand
-    berührt, ist das Spiel vorbei.
+    *   **A:** Sobald eine Spalte von Tierblöcken den oberen Bildschirmrand
+        berührt, ist das Spiel vorbei.
 
-    - **F: Wie erreiche ich eine hohe Punktzahl?**
-    **A:** Überlebe so lange wie möglich und setze auf Kettenreaktionen. Mehrere
-    Matches in einem Zug erhöhen deinen Multiplikator und bringen deutlich mehr
-    Punkte.
+*   **F: Wie erreiche ich eine hohe Punktzahl?**
+    *   **A:** Überlebe so lange wie möglich und setze auf Kettenreaktionen.
+        Mehrere Matches in einem Zug erhöhen deinen Multiplikator und bringen
+        deutlich mehr Punkte.
 
 *   **F: Kann ich das Aufsteigen der Blöcke anhalten?**
-
-    - **A:** The only way to stop them is to continuously make matches. Every time you make a successful match, the rising wall will pause for a moment.
-
-- **Q: Is there a way to stop the blocks from rising?**
-
-    - **A:** Survival and combos. The longer you last, the more points you'll get. Creating chain reactions where multiple matches happen in one move will give you a score multiplier and significantly boost your final score.
-    **A:** Nur indirekt – jeder erfolgreiche Match stoppt die Wand für einen
-    kurzen Moment. Je schneller du Kombinationen findest, desto besser hältst du
-    sie auf.
+    *   **A:** Nur indirekt – jedes erfolgreiche Match stoppt die Wand für einen
+        kurzen Moment. Je schneller du Kombinationen findest, desto besser hältst
+        du sie auf.

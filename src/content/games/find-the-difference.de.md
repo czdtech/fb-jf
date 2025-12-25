@@ -51,21 +51,15 @@ finden, bevor die Zeit abläuft – entspannt, aber durchaus anspruchsvoll.
 
 ### Häufige Fragen (FAQ)
 
-- **F: Worauf sollte ich generell achten?**  
-  **A:** Auf alles, was hinzugefügt, entfernt, farblich verändert, in der Größe
-  angepasst oder leicht verschoben wurde.
+*   **F: Worauf sollte ich generell achten?**
+    *   **A:** Auf alles, was hinzugefügt, entfernt, farblich verändert, in der
+        Größe angepasst oder leicht verschoben wurde.
 
-    - **F: Was passiert bei einem Fehlklick?**  
-  **A:** In vielen Versionen verlierst du Zeit oder kannst kurzzeitig nicht
-  weiterklicken – also vorsichtig sein.
+*   **F: Was passiert bei einem Fehlklick?**
+    *   **A:** In vielen Versionen verlierst du Zeit oder kannst kurzzeitig nicht
+        weiterklicken – also vorsichtig sein.
 
-- **F: Ich finde den letzten Unterschied nicht, was tun?**  
-
-    - **A:** This is the perfect time to use a hint if you have one. If not, try looking away from the screen for a moment to reset your eyes, and then come back and scan the images again, perhaps in a different pattern than you did before.
-
-- **Q: I can't find the last difference! What should I do?**
-
-    - **A:** Most games will have a penalty for incorrect guesses. This is often a reduction in your time limit or a temporary freeze on your ability to click again.
-  **A:** Lege kurz eine Pause ein, schau weg und komme mit frischem Blick
-  zurück. Scanne das Bild diesmal in einer anderen Reihenfolge oder benutze –
-  falls vorhanden – einen Hinweis.
+*   **F: Ich finde den letzten Unterschied nicht, was tun?**
+    *   **A:** Lege kurz eine Pause ein, schau weg und komme mit frischem Blick
+        zurück. Scanne das Bild diesmal in einer anderen Reihenfolge oder benutze –
+        falls vorhanden – einen Hinweis.

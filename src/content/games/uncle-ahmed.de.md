@@ -36,23 +36,15 @@ Uncle Ahmed ist ein klassischer 2D‑Sidescroller, der starke Retro‑Vibes à l
 
 ### Häufige Fragen (FAQ)
 
+*   **F: Wie besiege ich Gegner am besten?**
+    *   **A:** In der Regel, indem du ihnen auf den Kopf springst. Mit Wurf‑Power‑ups
+        kannst du sie auch aus der Distanz treffen.
 
-- **A:** Boss battles usually require you to learn their attack patterns. Dodge their attacks and look for a moment of vulnerability when you can jump on their head or hit them with a projectile.
+*   **F: Was passiert, wenn mir alle Leben ausgehen?**
+    *   **A:** Dann ist die Partie vorbei und du startest das Level – oder den
+        letzten Checkpoint – neu.
 
-    - **Q: How do I beat the final boss?**
-
-- **A:** If you run out of lives, the game is over, and you will have to start the level from the beginning (or from the last checkpoint).
-
-    - **Q: What happens if I lose all my lives?**
-
-- **A:** The most common way is to jump directly on top of their heads. If you have an offensive power-up, you can also use that to attack them from a distance.
-
-    - **Q: How do I defeat the enemies?**
-**Wie besiege ich Gegner am besten?**  
-In der Regel, indem du ihnen auf den Kopf springst. Mit Wurf‑Power‑ups kannst du sie auch aus der Distanz treffen.
-
-**Was passiert, wenn mir alle Leben ausgehen?**  
-Dann ist die Partie vorbei und du startest das Level – oder den letzten Checkpoint – neu.
-
-**Gibt es einen Trick für Bosskämpfe?**  
-Beobachte die Angriffsmuster des Bosses, weich den Angriffen aus und warte auf kurze Phasen, in denen du auf seinen Kopf springen oder ihn mit Projektilen treffen kannst.
+*   **F: Gibt es einen Trick für Bosskämpfe?**
+    *   **A:** Beobachte die Angriffsmuster des Bosses, weich den Angriffen aus und
+        warte auf kurze Phasen, in denen du auf seinen Kopf springen oder ihn mit
+        Projektilen treffen kannst.

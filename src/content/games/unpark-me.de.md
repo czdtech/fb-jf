@@ -36,23 +36,16 @@ Das Spiel wird mit einfacher Drag-and-Drop-Steuerung gespielt.
 
 ### Häufige Fragen (FAQ)
 
+*   **F: Was ist das Ziel jedes Levels?**
+    *   **A:** Den roten Wagen so zu positionieren, dass er über die markierte
+        Ausfahrt den Parkplatz verlassen kann.
 
-- **A:** Most versions of the game include a hint button that will show you the next correct move. If you're out of hints, you may need to use the reset button to start the level over with a fresh perspective.
+*   **F: Warum kann ich manche Autos nicht seitlich bewegen?**
+    *   **A:** Die Grundregel des Puzzles: Fahrzeuge dürfen nur in ihrer
+        Längsrichtung verschoben werden. Seitliche oder diagonale Manöver sind
+        nicht erlaubt.
 
-    - **Q: I'm completely stuck. What can I do?**
-
-- **A:** The core rule of the puzzle is that cars can only move in the direction they are facing (forwards and backwards). They cannot be turned or moved sideways.
-
-    - **Q: Why can't I move a car sideways?**
-
-- **A:** To slide the red car out through the exit on the side of the grid.
-
-    - **Q: What is the objective?**
-**Was ist das Ziel jedes Levels?**  
-Den roten Wagen so zu positionieren, dass er über die markierte Ausfahrt den Parkplatz verlassen kann.
-
-**Warum kann ich manche Autos nicht seitlich bewegen?**  
-Die Grundregel des Puzzles: Fahrzeuge dürfen nur in ihrer Längsrichtung verschoben werden. Seitliche oder diagonale Manöver sind nicht erlaubt.
-
-**Ich stecke komplett fest – was nun?**  
-Nutze gegebenenfalls die Hinweis‑Funktion, falls vorhanden, oder setze das Level zurück und probiere eine neue Strategie, statt den gleichen Fehlerpfad weiterzuspielen.
+*   **F: Ich stecke komplett fest – was nun?**
+    *   **A:** Nutze gegebenenfalls die Hinweis‑Funktion, falls vorhanden, oder setze
+        das Level zurück und probiere eine neue Strategie, statt den gleichen
+        Fehlerpfad weiterzuspielen.

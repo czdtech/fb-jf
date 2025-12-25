@@ -54,22 +54,16 @@ engen Situationen zu befreien und deine Partie zu verlängern.
 
 ### Häufige Fragen (FAQ)
 
-- **F: Wie bekomme ich Sterne?**  
-  **A:** Jedes Mal, wenn du eine Reihe oder Spalte löschst, in der sich ein
-  Sternblock befindet, wandert dieser Stern auf dein Konto.
+*   **F: Wie bekomme ich Sterne?**
+    *   **A:** Jedes Mal, wenn du eine Reihe oder Spalte löschst, in der sich ein
+        Sternblock befindet, wandert dieser Stern auf dein Konto.
 
-    - **F: Kann ich Blöcke drehen?**  
-  **A:** Nein, die fehlende Drehfunktion gehört zur Kernherausforderung. Du musst
-  mit den Formen so planen, wie sie dir angeboten werden.
+*   **F: Kann ich Blöcke drehen?**
+    *   **A:** Nein, die fehlende Drehfunktion gehört zur Kernherausforderung. Du
+        musst mit den Formen so planen, wie sie dir angeboten werden.
 
-- **F: Wie setze ich meine Sterne am besten ein?**  
-
-    - **A:** It's best to save your stars for emergency situations. When your board is getting dangerously full and you can't fit one of the upcoming pieces, using a power-up to clear a specific area can save your game and allow you to continue playing for a much higher score.
-
-- **Q: What is the best way to use my stars?**
-
-    - **A:** No, the inability to rotate the blocks is a core part of the challenge. You must plan your placements based on the shapes as they are given.
-  **A:** Spare Sterne lieber für Notfälle auf. Wenn das Feld fast voll ist und
-  du absehbar keinen der nächsten Steine unterbekommst, kann ein gezieltes
-  Power-up dir den entscheidenden Freiraum verschaffen, um weiterzuspielen und
-  deinen Highscore zu steigern.
+*   **F: Wie setze ich meine Sterne am besten ein?**
+    *   **A:** Spare Sterne lieber für Notfälle auf. Wenn das Feld fast voll ist und
+        du absehbar keinen der nächsten Steine unterbekommst, kann ein gezieltes
+        Power‑up dir den entscheidenden Freiraum verschaffen, um weiterzuspielen
+        und deinen Highscore zu steigern.

@@ -58,21 +58,15 @@ Dekorationen platzieren.
 
 ### Häufige Fragen (FAQ)
 
-- **F: Wie bekomme ich Sterne?**  
-  **A:** Sterne erhältst du ausschließlich durch das erfolgreiche Abschließen
-  von Match-3-Leveln; pro gewonnenem Level gibt es in der Regel einen Stern.
+*   **F: Wie bekomme ich Sterne?**
+    *   **A:** Sterne erhältst du ausschließlich durch das erfolgreiche Abschließen
+        von Match‑3‑Leveln; pro gewonnenem Level gibt es in der Regel einen Stern.
 
-    - **F: Was passiert, wenn mir im Level die Züge ausgehen?**  
-  **A:** Schaffst du das Ziel nicht in der vorgegebenen Zugzahl, verlierst du
-  ein Leben. Du kannst warten, bis Leben regeneriert sind, oder mit Ingame-
-  Währung auffüllen.
+*   **F: Was passiert, wenn mir im Level die Züge ausgehen?**
+    *   **A:** Schaffst du das Ziel nicht in der vorgegebenen Zugzahl, verlierst du
+        ein Leben. Du kannst warten, bis Leben regeneriert sind, oder mit Ingame‑
+        Währung auffüllen.
 
-- **F: Kann ich Deko-Entscheidungen rückgängig machen?**  
-
-    - **A:** In most games of this genre, once you have made a design choice, it is permanent. To change it, you usually have to press and hold the placed object and spend some coins.
-
-- **Q: Can I change the decorations I've chosen for the garden?**
-
-    - **A:** If you fail to complete the objective within the move limit, you will lose a life. You can either wait for your lives to regenerate over time or use in-game coins to get extra moves or a refill.
-  **A:** In vielen Spielen dieser Art sind Designwahlen dauerhaft; ein
-  nachträglicher Wechsel kostet meist zusätzliche Coins oder spezielle Tickets.
+*   **F: Kann ich Deko‑Entscheidungen rückgängig machen?**
+    *   **A:** In vielen Spielen dieser Art sind Designwahlen dauerhaft; ein
+        nachträglicher Wechsel kostet meist zusätzliche Coins oder spezielle Tickets.

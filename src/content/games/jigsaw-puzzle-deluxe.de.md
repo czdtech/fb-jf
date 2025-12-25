@@ -64,23 +64,17 @@ Das Spiel wird ganz intuitiv per Drag-and-drop bedient.
 
 ### Häufige Fragen
 
-*   **F: Wie wähle ich ein neues Puzzle aus?**  
-    **A:** Durchstöbere die Galerie im Spiel und klicke auf ein Motiv, das dir
-    gefällt. Anschließend kannst du normalerweise den Schwierigkeitsgrad
-    auswählen, also wie viele Teile das Puzzle haben soll.
+*   **F: Wie wähle ich ein neues Puzzle aus?**
+    *   **A:** Durchstöbere die Galerie im Spiel und klicke auf ein Motiv, das dir
+        gefällt. Anschließend kannst du normalerweise den Schwierigkeitsgrad
+        auswählen, also wie viele Teile das Puzzle haben soll.
 
-    - **F: Wie starte ich ein Puzzle am besten?**  
-    **A:** Die meisten Spieler beginnen mit dem Rahmen, also allen Teilen mit
-    gerader Kante. Dadurch erhältst du einen klaren Rand und kannst das Innere
-    des Bildes leichter füllen.
+*   **F: Wie starte ich ein Puzzle am besten?**
+    *   **A:** Die meisten Spieler beginnen mit dem Rahmen, also allen Teilen mit
+        gerader Kante. Dadurch erhältst du einen klaren Rand und kannst das Innere
+        des Bildes leichter füllen.
 
-*   **F: Alles wirkt chaotisch – wie kann ich die Teile besser ordnen?**  
-
-    - **A:** Drag the pieces around the screen to create space. Group pieces of similar colors or textures together, which will make it easier to find the one you are looking for.
-
-- **Q: The pieces are all jumbled up. How can I organize them?**
-
-    - **A:** The most common strategy is to find all the pieces with a flat edge and assemble the border first. This creates a defined workspace.
-    **A:** Schiebe die Teile über den Bildschirm, um mehr Übersicht zu schaffen,
-    und lege Gruppen gleicher Farben oder Texturen an. So findest du die
-    benötigten Teile schneller wieder.
+*   **F: Alles wirkt chaotisch – wie kann ich die Teile besser ordnen?**
+    *   **A:** Schiebe die Teile über den Bildschirm, um mehr Übersicht zu schaffen,
+        und lege Gruppen gleicher Farben oder Texturen an. So findest du die
+        benötigten Teile schneller wieder.

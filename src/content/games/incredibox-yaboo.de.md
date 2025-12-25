@@ -57,11 +57,13 @@ Sagenwelt freischalten.
 
 5.  **Solo/Mute nutzen**  
 
-- **Use Solo and Mute for Clarity**: If your mix feels too busy, use the mute function to silence individual characters. Use the solo function to isolate a specific instrument or vocal part to appreciate its detail and see how it fits into the overall composition.
-
-- **Listen for the Narrative**: The sounds and animations tell a story. Pay attention to how the characters' appearances change with each sound. This can sometimes give you a hint about which sounds might belong together.
-    Wenn der Mix zu voll wird, schalte einzelne Figuren stumm oder hör dir
-    bestimmte Stimmen im Solo an, um ihren Beitrag besser zu verstehen.
+- **Solo und Mute für Übersicht nutzen:** Wenn dein Mix zu voll wirkt, schalte
+  einzelne Figuren stumm. Mit Solo isolierst du eine Stimme oder ein
+  Instrument, um Details besser zu hören und zu prüfen, wie es in den Track
+  passt.
+- **Auf die Erzählung achten:** Sounds und Animationen erzählen eine kleine
+  Geschichte. Beobachte, wie sich die Figuren mit jedem Sound verändern – das
+  kann Hinweise geben, welche Elemente zusammengehören.
 
 ### Steuerung
 
@@ -69,11 +71,3 @@ Sagenwelt freischalten.
 - Per Klick auf die Figuren kannst du sie muten/unmuten; mit Solo blendest du
   alle anderen Stimmen aus.  
 - Über den Record-Button nimmst du deinen YaBoo-Track auf.
-
-- **Record**: Click the **record button** to start and stop recording your musical creation.
-
-- **Solo**: Click the **small button** next to an active character to mute all other performers.
-
-- **Mute / Unmute**: **Click** on a performing character to mute them; click again to unmute.
-
-- **Remove a Sound**: Click the "X" on an active sound icon at the bottom, or drag a new sound over an existing character to replace it.

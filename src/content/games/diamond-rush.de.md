@@ -57,23 +57,17 @@ bestimmte Steine ab oder befreist das Feld von Hindernissen.
 
 ### Häufige Fragen (FAQ)
 
-- **F: Was ist das Hauptziel in Diamond Rush?**  
-  **A:** Du sollst die jeweiligen Missionsziele des Levels erfüllen – meistens,
-  indem du Diamanten kombinierst, eine bestimmte Punktzahl erreichst oder
-  Hindernisse vom Feld räumst.
+*   **F: Was ist das Hauptziel in Diamond Rush?**
+    *   **A:** Du sollst die jeweiligen Missionsziele des Levels erfüllen –
+        meistens, indem du Diamanten kombinierst, eine bestimmte Punktzahl
+        erreichst oder Hindernisse vom Feld räumst.
 
-    - **F: Wie bekomme ich Power-ups oder Spezialdiamanten?**  
-  **A:** Power-ups entstehen, wenn du mehr als drei Diamanten in einem Zug
-  kombinierst. Vier in einer Reihe erzeugen z.B. einen Linien-Clear, fünf
-  können eine Bombe oder einen farbentfernenden Stein ergeben.
+*   **F: Wie bekomme ich Power‑ups oder Spezialdiamanten?**
+    *   **A:** Power‑ups entstehen, wenn du mehr als drei Diamanten in einem Zug
+        kombinierst. Vier in einer Reihe erzeugen z. B. einen Linien‑Clear, fünf
+        können eine Bombe oder einen farbentfernenden Stein ergeben.
 
-- **F: Gibt es ein Zeitlimit?**  
-
-    - **A:** Many levels in Diamond Rush are timed, requiring you to complete the objectives before the clock runs out. Some levels might be move-limited instead.
-
-- **Q: Is there a time limit in the game?**
-
-    - **A:** Power-ups are created by matching more than three diamonds in a single move. For example, matching four diamonds might create a line-clearing gem, and five might create a bomb or a color-clearing gem.
-  **A:** Viele Level sind zeitlich begrenzt und verlangen, dass du die Ziele
-  erfüllst, bevor der Countdown endet. Andere Level arbeiten stattdessen mit
-  einer begrenzten Anzahl an Zügen.
+*   **F: Gibt es ein Zeitlimit?**
+    *   **A:** Viele Level sind zeitlich begrenzt und verlangen, dass du die Ziele
+        erfüllst, bevor der Countdown endet. Andere Level arbeiten stattdessen mit
+        einer begrenzten Anzahl an Zügen.
