@@ -23,6 +23,8 @@ felines, des mimiques adorables et des animations pleines de douceur. Résultat
 
 ### Comment jouer à Sprunki Meets The Cat Spell ?
 
+Dans ce mod, chaque avatar « chat‑Sprunki » correspond à une catégorie de sons (beat, mélodie, effet, voix…). À toi de les combiner pour créer une piste à la fois mignonne et groovy.
+
 Le principe reste très simple :
 
 - **Choisis des personnages félins :** une file de personnages inspirés de
@@ -36,10 +38,7 @@ Le principe reste très simple :
 - **Découvre les bonus :** certaines combinaisons peuvent déclencher des
   animations spéciales ou des séquences cachées.
 - **Enregistre et partage (si disponible) :** une fois satisfait, sauvegarde
-
-- **Save and Share:** Once satisfied with your mix, use the game’s save or share feature to record your creation or share it with others.
   ton morceau ou partage‑le avec les autres joueurs.
 
 Sprunki Meets The Cat Spell est idéal si tu aimes les chats, la musique et les
 Mods Sprunki axés sur le visuel. Compose un mix à la fois mignon et groovy !
-

@@ -44,6 +44,6 @@ C’est très simple, il suffit de maîtriser ces points :
 - **Mixage interactif :** expérimente synthés étranges, réverbes fantomatiques et percussions douces pour créer des pistes immersives.
 - **Effets et transitions cachés :** débloque des changements sonores et des effets visuels en combinant différents éléments.
 
-### Conclusion
+### En conclusion
 
 Sprunki Night Time te plonge dans un monde sombre et mystérieux, et te fait vivre un voyage musical dans le silence de la nuit. Rejoins Sprunki Night Time et utilise ta musique pour illuminer cette nuit profonde.

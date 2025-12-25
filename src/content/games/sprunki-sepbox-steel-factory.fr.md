@@ -45,21 +45,15 @@ Chaque personnage incarne une pièce de cette machinerie sonore.
 
 - **Visuels d’usine :** tuyaux, fumée, étincelles, structures métalliques ;
 - **Palette sonore unique :** cliquetis, vrombissements, impacts d’acier ;
-- **Gameplay intuitif :** malgré l’univers « lourd », le drag‑and‑drop reste
+- **Animations bonus :** certaines combinaisons déclenchent des animations spéciales liées à la chaîne de production.
+- **Gameplay intuitif :** malgré l’univers « lourd », le drag‑and‑drop reste simple et fluide.
 
+### Pourquoi choisir Sprunki x SepBox Steel Factory ?
 
-- **Intuitive Gameplay:** Easy drag-and-drop mechanics make it simple to layer sounds and experiment with industrial rhythms.
-### Why Choose Sprunki x SepBox Steel Factory?
+Ce Mod se démarque par son ambiance d’usine et sa liberté de création :
 
-- **Intuitive Gameplay:** Easy drag-and-drop mechanics make it simple to layer sounds and experiment with industrial rhythms.
-  simple et fluide.
-
-
-- Immerse yourself in the creation of high-energy music tracks within the captivatingly gritty industrial environment, allowing the uninhibited release of inspiration and creativity.
-
-- Unlock exclusive rewards by discovering hidden sound combinations related to effects while exploring unique sounds.
-
-- Each character offers distinct sounds inspired by heavy machinery and metalwork.
+- Plonge dans la création de morceaux énergiques dans un décor industriel brut, et laisse libre cours à ton inspiration.
+- Débloque des récompenses exclusives en découvrant des combinaisons sonores cachées et des effets spéciaux.
+- Chaque personnage propose des sons distincts inspirés des machines lourdes et du travail du métal.
 Sprunki x SepBox Steel Factory est idéal si tu aimes les ambiances industrielles
 et les sons mécaniques puissants.
-

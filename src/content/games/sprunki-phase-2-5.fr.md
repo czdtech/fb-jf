@@ -47,11 +47,9 @@ Chaque partie devient donc une petite mise en scène entre humour et frisson.
 - **Déclenche la « surprise » :** une fois tous les emplacements remplis,
   laisse le Mod révéler sa face horrifique.
 - **Joue avec le contraste :** expérimente des combinaisons plus ou moins
-
-- **Save & Share:** Love your "masterpiece"? You can save it to enjoy later, or share it with friends and see if you can give *them* a little scare!
-
-- **Embrace the Chaos:** No rules, no pressure. Just have a blast creating music that blends humor and horror!
   sombres pour accentuer l’effet avant/après.
+- **Sauvegarde et partage :** si tu as trouvé un « chef‑d’œuvre », enregistre‑le pour le réécouter plus tard ou partage‑le avec des amis (et vois si tu peux leur faire peur).
+- **Assume le chaos :** pas de règles, pas de pression. Amuse‑toi à créer une musique qui mélange humour et horreur.
 
 ### Pourquoi essayer Sprunki Phase 2.5 ?
 
@@ -64,4 +62,3 @@ Chaque partie devient donc une petite mise en scène entre humour et frisson.
 ### En résumé:
 Sprunki Phase 2.5, ce n’est pas juste un Mod de plus : c’est une petite
 expérience interactive où tu composes, tu ris… et tu sursautes.
-

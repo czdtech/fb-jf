@@ -61,8 +61,7 @@ transformation ne prenne totalement le dessus ?
 - Ambiance qui bascule progressivement du coloré au horrifique
 
 
-- Unique sounds, animations, and rhythms added to your worldview with a lot of creativity and imagination
+- Des sons, des animations et des rythmes uniques pour enrichir ton univers avec beaucoup de créativité et d’imagination
 Plonge dans Sprunki Interactive BETA et laisse ce chaos musical t’inspirer.
 Seuls les joueurs les plus stratèges réussiront à garder l’équilibre entre
 mignonnerie et terreur.
-

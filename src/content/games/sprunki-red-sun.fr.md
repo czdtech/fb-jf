@@ -25,10 +25,8 @@ parfait pour composer des morceaux intenses, lourds et explosifs.
   braises, flammes et éclats rouges.
 - **Paysages sonores explosifs :** basses massives, percussions percutantes et
   mélodies tranchantes.
-- **Environnement frappant :** fonds rouges, éclairs de lumière et ambiance
-
-- **High-Impact Interactions:** New sound effects and visual flares appear as you mix tracks, creating a dynamic and immersive musical journey.
-  de fin du monde.
+- **Interactions percutantes :** de nouveaux effets sonores et éclats visuels apparaissent quand tu mixes, pour un voyage musical dynamique et immersif.
+- **Environnement frappant :** fonds rouges, éclairs de lumière et ambiance de fin du monde.
 
 ### Comment jouer à Sprunki Red Sun ?
 
@@ -37,9 +35,8 @@ parfait pour composer des morceaux intenses, lourds et explosifs.
 - **Compose un morceau volcanique :** empile les pistes pour créer une montée
   de tension digne d’une supernova.
 - **Déclenche des effets spéciaux :** expérimente les combinaisons pour
-
-- **Dominate the Scorching Stage:** The environment is transformed into a landscape of molten reds and blazing skies, enhancing the impact of every note.
   déclencher des animations et éclats visuels liés au soleil rouge.
+- **Domine la scène brûlante :** le décor devient un paysage rouge en fusion, renforçant l’impact de chaque note.
 
 ### Pourquoi essayer Sprunki Red Sun ?
 
@@ -50,4 +47,3 @@ parfait pour composer des morceaux intenses, lourds et explosifs.
 
 Si tu veux une expérience Sprunki « à haute température », Sprunki Red Sun
 est clairement un Mod à tester.
-

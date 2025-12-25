@@ -32,12 +32,9 @@ Le principe est simple : tu composes une ambiance sonore douce et rassurante.
   avec une musique que tu as toi‑même créée.
 - **Effets sonores apaisants :** bruit blanc, sons de nuit, mélodies lentes…
   tout est pensé pour le calme.
-- **Ambiance visuelle sereine :** lune, étoiles, lucioles et teintes douces
-
-- **Peaceful and Serene Visual Effects:** Peaceful and serene visual effects (such as moonlight, twinkling fireflies, and a warm night atmosphere) make you feel like you are under the starry sky.
-  complètent l’expérience.
+- **Effets nocturnes :** grillons, pluie légère et échos lointains rendent les morceaux plus éthérés.
+- **Ambiance visuelle sereine :** lune, étoiles, lucioles et atmosphère nocturne chaleureuse te donnent l’impression d’être sous un ciel étoilé.
 
 Sprunki Good Night est parfait si tu cherches un Mod Sprunki pour décompresser.
 Installe‑toi confortablement, mets un casque et compose la bande‑son de ta
 propre nuit paisible.
-

@@ -32,6 +32,8 @@ Sprunki Sonic est un jeu de rythme où tu utilises :
 
 ### Comment jouer à Sprunki Sonic ?
 
+Le gameplay est simple à comprendre, mais demande du timing :
+
 - **Glisse‑dépose pour tisser des mélodies :** place les personnages et icônes
   sonores aux bons endroits pour créer ton mix.
 - **Collecte des anneaux et évite les obstacles :** dans certains niveaux,
@@ -39,26 +41,19 @@ Sprunki Sonic est un jeu de rythme où tu utilises :
   d’ennemis ou de pièges.
 - **Utilise des objets :** récupère des bonus qui t’aident à marquer plus de
   points ou à rester dans le rythme.
-- **Crée tes propres niveaux (si l’éditeur est disponible) :** conçois des
+- **Crée tes propres niveaux (si l’éditeur est disponible) :** le jeu peut proposer un éditeur pour concevoir tes parcours musicaux personnalisés et les partager avec la communauté.
 
-- **Create Your Own Levels and Share Your Creativity:** The game also provides a level editor, allowing you to create your own levels and share them with other players in the community.
-  parcours musicaux personnalisés et partage‑les avec la communauté.
-
-### Pourquoi jouer à Sprunki Sonic ?
+### Points forts de Sprunki Sonic
 
 - **Casting culte :** tous tes personnages préférés de l’univers Sonic sont là.
 - **Création musicale accessible :** simple à prendre en main, avec une grande
   marge de créativité.
 - **Défis rythmés :** parfait pour mettre à l’épreuve tes réflexes et ton sens
   du tempo.
+- **Système d’objets :** des bonus et objets pour aider Sonic et viser de meilleurs scores.
 - **Éditeur de niveaux :** idéal pour ceux qui aiment autant créer que jouer.
 
+### Pourquoi jouer à Sprunki Sonic ?
 
-
-- **Free Level Editor:** Let you unleash your creativity and create unique Sonic music levels.
-### Why Should You Play Sprunki Sonic?
-
-- **Free Level Editor:** Let you unleash your creativity and create unique Sonic music levels.
 Sprunki Sonic est un excellent Mod si tu veux mixer deux passions : la musique
 et la vitesse.
-

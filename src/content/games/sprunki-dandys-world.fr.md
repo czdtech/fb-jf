@@ -30,32 +30,26 @@ réalisateur et compositeur.
 
 ### Comment jouer à Sprunki Dandy's World ?
 
+Le principe est simple : tu ajoutes des sons, puis tu regardes ta scène prendre vie.
+
 - **Choisis ton personnage favori :** chaque avatar a sa personnalité, son
   style et son rôle dans le morceau.
 - **Compose ton rythme :** ajoute instruments, effets et voix en cliquant ou en
   faisant glisser les icônes sonores.
 - **Regarde ton personnage monter sur scène :** plus tu ajoutes de sons, plus
   la scène s’anime et ton personnage se met à performer.
-- **Partage ton clip :** une fois satisfait, partage ta création avec ton
-
-- **Share Your Creative Masterpiece:** After creating a satisfactory work, you can share it with your friends and family, or even post it online for more people to appreciate your talent!
-  entourage ou sur les réseaux, selon les options du site.
+- **Partage ton clip :** une fois satisfait, partage ta création avec ton entourage ou sur les réseaux, selon les options du site.
 
 ### Astuces pour bien profiter de Sprunki Dandy's World
 
 - **Ose les mélanges :** varie les instruments et effets pour trouver une
   signature sonore originale.
+- **Profite du fun :** l’important, c’est de t’amuser. N’aie pas peur d’expérimenter, de te tromper et de recommencer.
 - **Appuie la personnalité du personnage :** choisis des sons qui vont avec son
   attitude ou son style visuel.
-- **Soigne le rythme :** un bon groove rend ton « clip » immédiatement plus
+- **Soigne le rythme :** le rythme est l’âme d’un bon morceau ; garde tes instruments bien en place pour un rendu harmonieux et agréable.
 
-
-- **Grasp the Soul of the Rhythm:** The rhythm is the soul of a good piece of music. Try to keep your instruments in time with each other to create a harmonious and pleasing sound.
 ### En conclusion:
-
-- **Grasp the Soul of the Rhythm:** The rhythm is the soul of a good piece of music. Try to keep your instruments in time with each other to create a harmonious and pleasing sound.
-  plaisant à regarder et écouter.
 
 Sprunki Dandy's World est idéal si tu veux mélanger musique, narration et
 esthétique. Lance‑toi et crée ton premier court‑métrage musical Sprunki !
-

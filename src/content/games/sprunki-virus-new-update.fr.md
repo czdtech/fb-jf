@@ -32,10 +32,8 @@ Le Mod revisite Sprunki en :
   transitions qui « bugguent » volontairement.
 - **Paysage sonore malade :** beats cassés, effets numériques, atmosphère
   d’univers au bord du crash.
-- **Gameplay plus chaotique :** certains sons ou effets peuvent surprendre,
-
-- **Challenging Gameplay:** Expect unexpected glitches and evolving sound loops that push your creativity. You must constantly adapt and experiment with new combinations to survive in the world of Sprunki Virus.
-  te poussant à adapter ton mix en temps réel.
+- **Visuels sombres :** arrière‑plans instables, transitions glitchées et effets distordus renforcent la tension.
+- **Gameplay plus chaotique :** attends‑toi à des glitches inattendus et des boucles qui évoluent, te poussant à t’adapter et à tester de nouvelles combinaisons en temps réel.
 
 ### Comment survivre dans ce Sprunki infecté ?
 
@@ -47,4 +45,3 @@ Le Mod revisite Sprunki en :
 
 Sprunki Virus New Update est parfait si tu aimes les ambiances corrompues,
 les glitchs et les expériences sonores un peu extrêmes.
-

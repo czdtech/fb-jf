@@ -51,10 +51,9 @@ créatures de la nuit se retrouvent sur scène pour interpréter ta composition.
 - **Fun pour tous :** jouable en famille, entre amis ou seul, selon ton humeur.
 
 
-- **Celebrate in Style:** A musical celebration of Halloween like no other.
+- **Célébrer avec style :** une célébration musicale d’Halloween pas comme les autres.
 
-- **Replayable Magic:** Explore endless combinations of sounds and effects for unique tracks every time.
+- **Rejouabilité magique :** explore des combinaisons de sons et d’effets quasi infinies pour des pistes uniques à chaque partie.
 Sprunki Halloween est le choix parfait si tu veux célébrer Halloween en
 musique. Lance le Mod, allume les citrouilles virtuelles et compose une piste
 aussi amusante qu’effrayante !
-

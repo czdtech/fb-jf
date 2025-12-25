@@ -31,10 +31,9 @@ Ce Mod :
   ses animations propres.
 - **Paysages sonores dynamiques :** beats et mélodies avec la « touche Sprunki
   », plus colorée et rythmée.
-- **Gameplay engageant :** toujours basé sur le drag‑and‑drop pour construire
-
-- **Engaging Gameplay:** Combines the best of Sprunkr’s mechanics with the creativity of Sprunki characters.
-  des compositions complètes.
+- **Visuels éclatants :** des designs et animations façon Sprunki qui rendent
+  l’ensemble plus vivant.
+- **Gameplay engageant :** toujours basé sur le drag‑and‑drop pour construire des compositions complètes.
 
 ### Comment jouer ?
 
@@ -47,4 +46,3 @@ Ce Mod :
 ### En conclusion:
 Sprunkr But Sprunki est un excellent choix pour les fans des deux univers qui
 veulent profiter du meilleur des deux mondes.
-
