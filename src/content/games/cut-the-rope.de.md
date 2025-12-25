@@ -47,7 +47,7 @@ beeinflussen.
 - Versuche zunächst, einen sicheren Weg mit mindestens zwei Sternen zu finden;
   optimiere später auf drei Sterne, wenn du das Timing verinnerlicht hast.
 
-### FAQ
+### Häufige Fragen
 
 - F: Brauche ich alle Sterne, um weiterzukommen?
   

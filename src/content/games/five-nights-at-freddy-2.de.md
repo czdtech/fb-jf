@@ -43,7 +43,7 @@ stattdessen jonglierst du Freddy-Maske und Spieluhr für die Puppet und
 - Lerne, welche Figuren auf die Maske reagieren und welche eher über Licht
   gehandhabt werden.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Warum verliere ich ständig gegen die Puppet?**  
   **A:** Du verbringst zu viel Zeit in anderen Kameransichten – die Music Box

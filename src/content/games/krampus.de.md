@@ -46,7 +46,7 @@ Atmosphäre und belohnen vorsichtige Bewegung und genaues Beobachten.
 - Lausche auf Geräusche wie Knurren oder Schritte – sie kündigen nahende Gefahr
   an, sodass du rechtzeitig stehen bleiben oder ausweichen kannst.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Wie komme ich weiter, wenn der Level wie eine Sackgasse wirkt?**  
   **A:** Suche nach Hebeln, versteckten Durchgängen oder brüchigen Wänden, die

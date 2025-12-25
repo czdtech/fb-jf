@@ -53,7 +53,7 @@ Dealers und meidest riskante Sidebets mit hohem Hausvorteil.
 - Hit/Stand/Double/Split per Buttons in der Benutzeroberfläche.
 - Einsatzhöhe vor jeder Runde im entsprechenden Menü einstellen.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Lohnt sich Kartenzählen in diesem Spiel?**  
   **A:** Bei automatisch gemischten Decks oder sehr häufigen Neumischungen

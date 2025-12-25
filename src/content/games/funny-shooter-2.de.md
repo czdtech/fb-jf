@@ -42,7 +42,7 @@ bessere Waffen und Hilfsmittel.
   zu werden.
 - Heb Explosivwaffen für dicht gespawnte Gruppen oder Elitegegner auf.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Wie schalte ich neue Waffen frei?**  
   **A:** Kaufe sie mit den Coins, die du durch abgeschlossene Wellen

@@ -52,7 +52,7 @@ bekommen einen neuen Anstrich.
   sofort zurecht – aber auch Neulinge kommen mit der simplen Steuerung klar.
 - **Unbegrenzte Kreativität:** Es gibt kein "richtig" oder "falsch" – jede
 
-### Wrapping Up:
+### Fazit:
   Session kann komplett anders klingen.
 
 Fiddlebops Sprunkbop bleibt dem Kern von Fiddlebops treu und erweitert ihn um

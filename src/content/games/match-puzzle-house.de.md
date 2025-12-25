@@ -53,7 +53,7 @@ entscheidend, um dir genug Platz zu verschaffen.
 - **Dekorieren:** Zwischen den Levels kannst du Räume auswählen und mit Sternen
   neue Möbel oder Designs freischalten.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Ich komme bei einem Ketten-Level nicht weiter – Tipps?**  
   **A:** Zünde Bomben oder Linien-Clears direkt neben Kettenfeldern. Mehrere

@@ -48,7 +48,7 @@ das Geröll zum Verhängnis wird?
 - Bewegung und Sprünge erfolgen je nach Host meist mit Pfeiltasten oder WASD
   und Leertaste; auf Mobilgeräten über Touch-Buttons.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Wie verliere ich?**  
   **A:** Wenn ein Block dich trifft oder du nicht schnell genug kletterst und

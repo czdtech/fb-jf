@@ -62,7 +62,7 @@ Platzierung entlang der Wegkreuzungen.
 - **Pause:** Nutze die Pausefunktion, um deine nächsten Schritte in Ruhe zu
   planen.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Immer wieder kommen Gegner durch – was kann ich tun?**  
   **A:** Platziere Verlangsamungs- oder Flächenschadenstürme in der Nähe des

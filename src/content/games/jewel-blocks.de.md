@@ -55,7 +55,7 @@ voll läuft.
 - **Release:** Release the mouse button or your finger to drop the block into the highlighted space.
   markierten Bereich abzulegen.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Kann ich Blöcke drehen?**  
   **A:** Nein. Das Fehlen von Rotationen ist Kern der Herausforderung – du

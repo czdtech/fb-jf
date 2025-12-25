@@ -48,7 +48,7 @@ zu kontern.
 - Lass dich nicht in eine Ecke drängen – bewege dich regelmäßig zurück in die
   Mitte.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Wie reagiere ich auf Angriffe aus mehreren Richtungen?**  
   **A:** Bleib möglichst zentral und fokussiere immer den am nächsten stehenden

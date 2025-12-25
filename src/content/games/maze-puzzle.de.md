@@ -51,7 +51,7 @@ Sichtkegel der Wachen meidest.
 - Bewegung mit Pfeiltasten oder WASD.  
 - Interaktion (z. B. Türen öffnen) per Tipp/Klick, Neustart über das Menü.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Ich verlaufe mich ständig – was kann ich tun?**  
   **A:** Präge dir Kreuzungen ein oder folge – wenn sicher – der rechten oder

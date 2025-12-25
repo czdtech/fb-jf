@@ -42,7 +42,7 @@ Kettenreaktionen aus, während die Decke langsam nach unten rutscht.
 - Heb Bomben oder Regenbogenbälle für Rettungsschüsse auf, wenn dir die
   Optionen ausgehen.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Wie räume ich scheinbar unerreichbare Gruppen ab?**  
   **A:** Nutze Banden-Schüsse oder trenne sie von ihren Ankerblasen, indem du

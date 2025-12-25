@@ -56,7 +56,7 @@ vermögen und deine Planungsfähigkeit.
 *   **Rotieren:** In einigen Versionen kannst du Gegenstände drehen (z. B. mit
     Mausrad oder bestimmten Tasten), um sie besser einzupassen.
 
-### FAQ
+### Häufige Fragen
 
 1.  **F: Was ist das eigentliche Ziel?**  
     **A:** Alle vorgegebenen Gegenstände sicher im Truck unterzubringen und

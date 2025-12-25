@@ -42,7 +42,7 @@ lokale Mehrspieler-Rennen.
 - Auf langen Geraden ist es oft sicherer, unten zu bleiben – an Decken warten
   nicht selten zusätzliche Fallen.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Wie funktioniert der Multiplayer?**  
   **A:** Jede Person bekommt eine eigene Taste zum Flippen; alle Figuren laufen

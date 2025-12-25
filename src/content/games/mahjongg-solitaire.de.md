@@ -44,7 +44,7 @@ entfernst.
 
 - **Maus/Touch:** Wähle Steine per Klick/Tap aus, um ein Paar zu bilden.
 
-### FAQ
+### Häufige Fragen
 
 **Was ist das Ziel von Mahjongg Solitaire?**  
 Alle 144 Steine in Paaren zu entfernen, bis das Brett vollständig leer ist.

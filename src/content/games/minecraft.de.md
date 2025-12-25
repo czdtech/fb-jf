@@ -59,7 +59,7 @@ Abenteuer und Zuschauermodus.
 *   **Inventar öffnen:** E, um Items zu verwalten und zu craften.  
 *   **Schleichen:** Umschalt (Shift), verhindert Stürze von Blockkanten.
 
-### FAQ
+### Häufige Fragen
 
 1.  **F: Welche Hauptspielmodi gibt es?**  
     **A:** Überleben, Kreativ, Abenteuer und Zuschauermodus.

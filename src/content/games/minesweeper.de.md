@@ -54,7 +54,7 @@ Minen markieren.
 *   **Doppelklick auf Zahl:** Sind alle angrenzenden Minen korrekt markiert,
     deckt ein Doppelklick alle übrigen Nachbarfelder auf.
 
-### FAQ
+### Häufige Fragen
 
 1.  **F: Gibt es eine garantiert gewinnbringende Strategie?**  
     **A:** Minesweeper basiert hauptsächlich auf Logik, aber bei zufällig

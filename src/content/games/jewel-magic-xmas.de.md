@@ -63,7 +63,7 @@ Das Spiel wird bequem mit Maus oder Touch bedient.
     benachbartes Feld, um es zu vertauschen. Der Tausch klappt nur, wenn dabei
     eine gültige Kombination entsteht.
 
-### FAQ
+### Häufige Fragen
 
 *   **F: Wie entferne ich gefrorene Eisblöcke?**  
     **A:** Du musst ein Match direkt neben einem Eisblock bilden oder ihn in

@@ -42,7 +42,7 @@ Die Steuerung ist vollständig anpassbar. Eine gängige Standardbelegung für Sp
 - **Greifen:** `U`
 - **Pause:** `Enter`
 
-### FAQ
+### Häufige Fragen
 
 **Wie unterscheidet sich SSF2 vom ersten Super Smash Flash?**  
 Neuer Engine‑Unterbau, flüssigere Animationen, größerer und besser ausbalancierter Cast, mehr wettbewerbsorientierte Mechaniken und generell deutlich runderes Gameplay.

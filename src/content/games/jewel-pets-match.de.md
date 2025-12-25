@@ -62,7 +62,7 @@ Das Spiel nutzt einfache Swap-Mechaniken.
     um die Position zu wechseln. Der Tausch wird nur durchgeführt, wenn eine
     gültige Kombination entsteht.
 
-### FAQ
+### Häufige Fragen
 
 *   **F: Wie befreie ich gesperrte oder eingesperrte Pets?**  
     **A:** Du musst ein Match bilden, an dem das eingesperrte Tier beteiligt

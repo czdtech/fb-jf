@@ -57,7 +57,7 @@ Produkte frei, rüstest Maschinen auf und stellst weitere Affen als Personal ein
 *   **Tippen/Klicken:** Über Symbole auf dem Bildschirm kannst du Upgrades
     kaufen, Personal einstellen und neue Bereiche freischalten.
 
-### FAQ
+### Häufige Fragen
 
 1.  **F: Wie verdiene ich schnell Geld?**  
     **A:** Halte deine Produktionsketten am Laufen und bediene Kund:innen ohne

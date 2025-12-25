@@ -42,7 +42,7 @@ in dein Büro vordringen.
 - Hänge nicht dauerhaft in den Kameras – kurze, gezielte Checks sparen Strom.
 - Nutze Audio-Hinweise, um zu entscheiden, wann ein Türlicht-Check nötig ist.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Sind Nacht 6 und Custom Night enthalten?**  
   **A:** Viele Browserversionen bieten eine 6. Nacht sowie eine anpassbare

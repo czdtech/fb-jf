@@ -54,7 +54,7 @@ steht zudem lokaler Splitscreen zur Verfügung.
 - Sammle nahegelegene Schraubenschlüssel früh, um nach harten Landungen schnell
   reparieren zu können.
 
-### FAQ
+### Häufige Fragen
 
 - F: Wie schalte ich neue Autos frei?
   

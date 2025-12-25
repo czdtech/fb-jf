@@ -44,7 +44,7 @@ musst gleichzeitig vor Räubern und Umweltrisiken fliehen.
 - Nutze die Vertikale: Je nach Kreatur kannst du nach oben entkommen oder in
   Bodennähe Schutz suchen.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Wie steig ich zur nächsten Kreatur auf?**  
   **A:** Iss die Objekte, die in deiner Nahrungsliste angezeigt werden, um XP zu

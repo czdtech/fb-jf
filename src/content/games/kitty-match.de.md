@@ -57,7 +57,7 @@ für Puzzle- und Katzenfans.
     Feld, um die Position zu vertauschen. Der Zug ist nur gültig, wenn dabei
     mindestens drei gleiche Symbole in einer Reihe oder Spalte entstehen.
 
-### FAQ
+### Häufige Fragen
 
 *   **F: Was ist das Ziel eines Levels?**  
     **A:** Am Anfang jedes Levels wird das Ziel eingeblendet – zum Beispiel eine

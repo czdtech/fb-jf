@@ -52,7 +52,7 @@ Siedlung.
 - Tippe auf Aufgaben-/Quest-Buttons, um Belohnungen einzusammeln und neue
   Ziele zu sehen.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Mein Brett ist voll – wie bekomme ich wieder Platz?**  
   **A:** Suche nach möglichen Merges, lösche überflüssige Items und investiere

@@ -57,7 +57,7 @@ alle Rezepte im „Kuchenbuch“ zu entdecken.
 - **Buy Cakes:** Click on the shop icon and then click the cake you wish to purchase.
   ihn mit Münzen zu erwerben.
 
-### FAQ
+### Häufige Fragen
 
 *   **F: Wie bekomme ich neue Kuchenarten?**  
     **A:** In regelmäßigen Abständen legt eine Gratis-Box einen Basiskuchen auf

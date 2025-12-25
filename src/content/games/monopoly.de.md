@@ -57,7 +57,7 @@ Prise Glück spielen zusammen.
 *   **Zahlen:** Fällige Mieten oder Steuern werden in der Regel automatisch
     abgebucht.
 
-### FAQ
+### Häufige Fragen
 
 1.  **F: Wie viele Personen können mitspielen?**  
     **A:** Klassisch 2–8, am angenehmsten sind meist Runden mit 3–6 Personen.

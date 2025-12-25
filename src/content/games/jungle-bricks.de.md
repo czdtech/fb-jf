@@ -64,7 +64,7 @@ Das Spiel nutzt einfache Ein-Knopf-Steuerung.
 *   **Schießen:** Lass die Maustaste oder deinen Finger los, um die Bälle
     abzufeuern.
 
-### FAQ
+### Häufige Fragen
 
 *   **F: Was bedeuten die Zahlen auf den Blöcken?**  
     **A:** Die Zahl ist so etwas wie die „Lebenspunkte“ des Blocks – sie gibt

@@ -50,7 +50,7 @@ schneller und schwieriger.
 - Nutze den Hammer, wenn besonders viel los ist, aber achte darauf, dich nicht
   direkt neben Leitern oder am Rand einzusperren.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Wie viele unterschiedliche Stages gibt es?**  
   **A:** Vier: Träger (25m), Förderbänder (50m), Aufzüge (75m) und Nieten (100m).

@@ -48,7 +48,7 @@ beherrscht, gewinnt.
 - Übe die Starts: Wer früh Geschwindigkeit aufbaut, hat in knappen Rennen
   meistens die besseren Karten.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Wie bewege ich mich mit den wackeligen Controls schneller?**  
   **A:** Kombiniere lange und kurze Hüpfer und nutze Hänge gezielt für

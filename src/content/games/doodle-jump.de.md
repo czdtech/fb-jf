@@ -47,7 +47,7 @@ Sprünge hinzulegen und noch höher zu kommen.
   herausfliegen und rechts wieder auftauchen (Wraparound), um Fallen zu
   entkommen.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Gibt es feste Level?**  
   **A:** Nein, Doodle Jump ist als Endlosspiel gedacht – dein Score steigt, bis

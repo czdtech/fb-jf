@@ -38,7 +38,7 @@ Schiff- und Ball-Sektionen, die alle eng auf den Beat abgestimmt sind.
 - Zähle zu Beginn laut im Rhythmus mit, um ein Gefühl für die Sprungpunkte zu
   bekommen.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Sind die Level anders als im Hauptspiel?**  
   **A:** Ja, Meltdown bringt eigene Tracks und Layouts mit.

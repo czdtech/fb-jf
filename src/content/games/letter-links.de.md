@@ -61,7 +61,7 @@ Punktzahl zu erreichen.
 *   **Bestätigen:** Klicke auf den Button zum Einreichen, wenn du mit deiner
     Platzierung zufrieden bist – dann werden die Wörter geprüft und gewertet.
 
-### FAQ
+### Häufige Fragen
 
 *   **F: Warum wurde mein Wort abgelehnt?**  
     **A:** Mögliche Gründe: 1) Das Wort ist nicht im Wörterbuch des Spiels

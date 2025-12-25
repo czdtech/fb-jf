@@ -43,7 +43,7 @@ Wänden hoch und entdeckst geheime Bereiche sowie Sammelitems.
 - Spiele frühere Levels noch einmal, wenn du die Steuerung besser beherrschst –
   so erreichst du zusätzliche Geheimnisse.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Gibt es Kämpfe?**  
   **A:** Nur leicht – meist simples Draufspringen oder kurze Nahkampfswipes,

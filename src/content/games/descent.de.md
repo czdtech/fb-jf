@@ -47,7 +47,7 @@ wechselst, während die Schwerkraft dich nach unten zieht.
 - Nutze kurze "Anhalte"-Momente an der Wand, um die nächsten ein bis zwei
   Bildschirme vorauszuplanen.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Ist der Fortschritt endlos oder levelbasiert?**  
   **A:** Das hängt vom jeweiligen Host ab; einige Versionen sind endlose

@@ -54,7 +54,7 @@ Knobelspaß zu haben.
 *   **Antwort prüfen:** Manche Versionen bieten eine Prüf-Funktion, die dir
     Fehler anzeigt.
 
-### FAQ
+### Häufige Fragen
 
 1.  **F: Für wen eignet sich Mini Crossword?**  
     **A:** Für alle, die Kreuzworträtsel und Wortspiele mögen – besonders, wenn

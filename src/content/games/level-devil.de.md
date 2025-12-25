@@ -47,7 +47,7 @@ Einprägen von Fallenstandorten – nicht durch blindes Durchrennen.
 - Zähle innerlich die Takte zwischen beweglichen Gefahren, um den richtigen
   Moment für deinen Sprung zu finden.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Wie kann ich plötzliche Stachel-Fallen vermeiden?**  
   **A:** Gehe in Minischritten an verdächtige Stellen heran, löse Stacheln aus

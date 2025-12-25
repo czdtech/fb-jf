@@ -60,7 +60,7 @@ hunderte knifflige Aufgaben.
 - **Activate Power-ups:** Swap a special jewel just like any other jewel to activate its effect. To combine power-ups, swap two adjacent special jewels with each other.
   Power-ups zu kombinieren, vertausche sie direkt miteinander.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Wie erstelle ich eine Bombe?**  
   **A:** Durch ein Match aus fünf Juwelen in "L"- oder "T"-Form – die Bombe

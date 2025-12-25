@@ -55,7 +55,7 @@ spannende Wendungen.
 - **Modi:** Häufig lokale Mehrspieler-Modi; manchmal kannst du auch gegen die
   KI antreten.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Ist das Spiel nur vom Glück abhängig?**  
   **A:** Würfelglück spielt eine große Rolle, aber Figurenverteilung,

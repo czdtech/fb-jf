@@ -53,7 +53,7 @@ passen.
 - **Flugrouten im Blick behalten:** Baue rechtzeitig Türme mit Flugabwehr
   entlang der Luftwege – sonst rutschen dir fliegende Gegner durch.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Welche Turm-Upgrades sollte ich zuerst priorisieren?**  
   **A:** Konzentriere dein Gold auf ein bis zwei Kerntürme in der Nähe des

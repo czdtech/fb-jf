@@ -56,7 +56,7 @@ erfüllen, Gold zu verdienen und alle legendären Piratenitems freizuschalten.
 - **Buy Items:** Click on the shop icon and then click the item you wish to purchase.
   mit Gold zu erwerben.
 
-### FAQ
+### Häufige Fragen
 
 *   **F: Wie komme ich an neue Gegenstände?**  
     **A:** In regelmäßigen Abständen erscheint eine Gratis-Kiste mit einem

@@ -43,7 +43,7 @@ weiter, bis du schließlich "out" bist.
 - Passe dich langsameren Bällen an, indem du den Schlag ein kleines Stück
   später ansetzt.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Kann ich konstant 6er schlagen?**  
   **A:** Ja, mit sauberem, leicht verspätetem Timing, vor allem wenn das Feld

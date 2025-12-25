@@ -44,7 +44,7 @@ du frühere Abschnitte erneut spielen, um alle Fails und Enden zu sammeln.
 - Klicke Figuren während Szenen an, falls der Host Bios oder Extras unterstützt.
 - Notiere dir die bereits gesehenen Enden, um Dopplungen zu vermeiden.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Wie viele Enden gibt es?**  
   **A:** Es gibt mehrere, an bestimmte Routen geknüpfte Enden; die genaue Zahl

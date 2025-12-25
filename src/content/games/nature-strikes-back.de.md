@@ -56,7 +56,7 @@ sie zu immer stärkeren Formen und platzierst sie auf dem Schlachtfeld, wo sie
 *   **Platzieren/Verschieben:** Ziehe Geister vom Merge-Board auf freie Slots
     an der Front und verschiebe sie bei Bedarf.
 
-### FAQ
+### Häufige Fragen
 
 *   **F: Wie bekomme ich stärkere Wächter?**  
     **A:** Durch Mergen. Zwei identische Wächter ergeben einen Wächter der

@@ -70,7 +70,7 @@ Jewel Legend wird mit einfachen Maus- oder Touchgesten gespielt.
     benachbarten Stein, oder tippe nacheinander auf zwei angrenzende Juwelen.
     Der Tausch findet nur statt, wenn dadurch eine gültige Kombination entsteht.
 
-### FAQ
+### Häufige Fragen
 
 *   **F: Wie breche ich Eis oder Ketten auf den Juwelen?**  
     **A:** Du musst ein Match bilden, das den eingefrorenen oder angeketteten

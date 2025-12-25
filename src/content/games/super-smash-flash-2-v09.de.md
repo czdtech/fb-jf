@@ -41,7 +41,7 @@ Die Steuerung ist vollständig anpassbar. Eine gängige Standardbelegung für Sp
 - **Greifen:** `U`
 - **Pause:** `Enter`
 
-### FAQ
+### Häufige Fragen
 
 **Was ist neu gegenüber dem ersten Super Smash Flash?**  
 Neue Engine, flüssigere Animationen, größerer Cast, mehr Tiefgang im Kampfsystem und insgesamt besseres Balancing.

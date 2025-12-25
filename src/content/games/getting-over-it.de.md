@@ -44,7 +44,7 @@ stundenweit zurückfallen lassen – und zwingt dich, deinen Weg neu zu erarbeit
 - Übe berüchtigte Abschnitte wie den "Devil's Chimney", die Orange oder die
   Türme so lange, bis Bewegungen in Fleisch und Blut übergehen.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Wie verhindere ich, dass ich von Kanten abrutsche?**  
   **A:** Halte den Hammer leicht unterhalb der Kante, damit er mehr Reibung und

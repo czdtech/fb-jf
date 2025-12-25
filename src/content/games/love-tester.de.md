@@ -40,7 +40,7 @@ nichts über echte Beziehungen aus.
 - Nimm die Anzeige mit Humor – sie ersetzt weder echte Gespräche noch
   Beziehungsrat.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Ist der Kompatibilitätswert wissenschaftlich korrekt?**  
   **A:** Nein, er dient ausschließlich der Unterhaltung.

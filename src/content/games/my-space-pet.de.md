@@ -50,7 +50,7 @@ Weltraumzuhause freischaltest.
 *   **Klicken/Tippen:** Mit Maus oder Finger interagierst du mit Zuub, wählst
     Menüs und spielst Minispiele.
 
-### FAQ
+### Häufige Fragen
 
 *   **F: Was passiert, wenn ich mich nicht um Zuub kümmere?**  
     **A:** Vernachlässigst du Zuubs Bedürfnisse, sinken Zufriedenheit und

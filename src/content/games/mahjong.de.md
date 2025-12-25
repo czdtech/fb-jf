@@ -55,7 +55,7 @@ beliebt.
 *   **Spielende:** Das Spiel endet, wenn alle Steine entfernt wurden – oder
     wenn keine weiteren Paare mehr gebildet werden können.
 
-### FAQ
+### Häufige Fragen
 
 1.  **F: Das Spiel startet oder lädt nicht – was tun?**  
     **A:** Versuche, die Seite neu zu laden oder einen anderen Browser zu

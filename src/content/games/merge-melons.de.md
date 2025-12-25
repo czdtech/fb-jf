@@ -58,7 +58,7 @@ ohne dass der Fruchtberg über den oberen Rand hinauswächst.
 - **Mobile Controls:** Move your finger left and right to aim, and lift your finger to drop the fruit.
   Frucht zu droppen.
 
-### FAQ
+### Häufige Fragen
 
 *   **F: Was ist das eigentliche Ziel?**  
     **A:** Solange wie möglich zu spielen und durch kontinuierliches Mergen

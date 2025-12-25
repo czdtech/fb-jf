@@ -56,7 +56,7 @@ teilen.
 - **Zoom/Scroll:** Auf komplexen Brettern kannst du hineinzoomen oder die
   Ansicht verschieben, um den Überblick zu behalten.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Meine Linien kollidieren ständig – wie verhindere ich das?**  
   **A:** Zeichne zuerst die Linien durch enge Gänge und wichtige Korridore.

@@ -56,7 +56,7 @@ auch Profis immer neue Herausforderungen.
 - **Feld aufdecken:** Linksklick auf ein verdecktes Feld.  
 - **Mine markieren:** Rechtsklick, um eine Flagge zu setzen bzw. zu entfernen.
 
-### FAQ
+### Häufige Fragen
 
 *   **F: Was bedeuten die Zahlen genau?**  
     **A:** Die Zahl gibt an, wie viele Minen in den acht angrenzenden Feldern

@@ -54,7 +54,7 @@ möglich zu erreichen und mit möglichst vielen Stunts Bonuszeit gutzumachen.
 *   **Nach vorne/hinten lehnen:** A/D oder Pfeile links/rechts, um die Haltung
     deines Bikes in der Luft und auf Rampen zu steuern.
 
-### FAQ
+### Häufige Fragen
 
 1.  **F: Wie erziele ich hohe Punktzahlen?**  
     **A:** Durch viele Saltos und andere Stunts bei gleichzeitig schneller

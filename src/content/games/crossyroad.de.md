@@ -21,7 +21,7 @@ freischaltbarer Charaktere haben das Spiel weltweit bekannt gemacht. Name und
 Konzept sind eine Anspielung auf den Klassiker-Witz "Why did the chicken cross
  the road?".
 
-### How to Play Crossy Road
+### So spielst du
 
 -  **Bewegung:** Du steuerst deine Figur, indem du tippst, um eine Spur nach
    vorne zu hüpfen, oder nach links, rechts bzw. hinten wischst, um dich in

@@ -41,7 +41,7 @@ in Rennen an, um dich durch verschiedene Gebiete zu arbeiten.
   wichtig sind.
 - Halte die Energie hoch – sie fungiert praktisch als Ausdauerleiste.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Kann ich Rennen überspringen?**  
   **A:** In der Regel musst du bestimmte Rennen pro Gebiet gewinnen, um

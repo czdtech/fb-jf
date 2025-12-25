@@ -36,5 +36,5 @@ Der Mod nimmt die Mechaniken von Sprunkr und tauscht die Cast gegen neu gestalte
 - **Track teilen:** In passenden Versionen kannst du deine Mischungen mit der Community teilen.
 
 
-### Conclusion:
+### Fazit:
 Sprunkr But Sprunki ist perfekt, wenn du dich im Sprunkr-Gameplay zuhause fühlst, aber optisch und klanglich lieber in der Sprunki-Welt unterwegs bist.

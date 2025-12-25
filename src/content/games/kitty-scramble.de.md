@@ -58,7 +58,7 @@ finden und deinen Wortschatz gut einsetzen musst.
 - **Hinweise:** Nutze Hinweise sparsam, sie helfen vor allem bei den letzten
   fehlenden Wörtern.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Ich sehe ein Wort, kann es aber nicht zeichnen – warum?**  
   **A:** Vermutlich liegen die Buchstaben nicht direkt nebeneinander. Prüfe, ob

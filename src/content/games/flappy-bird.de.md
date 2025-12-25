@@ -40,7 +40,7 @@ einen Punkt.
   lieber neu.
 - Schalte Ablenkungen aus; Eingabelatenz kann dein Timing ruinieren.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Warum knallt der Vogel nach einem Tap oft an die Decke?**  
   **A:** Deine Taps sind zu stark oder zu häufig – arbeite mit leichteren,

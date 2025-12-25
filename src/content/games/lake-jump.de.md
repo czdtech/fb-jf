@@ -53,7 +53,7 @@ springen, hältst den Rhythmus und baust Serien auf, ohne ins Wasser zu fallen.
 - **Pause/Neustart:** Über Bildschirm-Buttons kannst du pausieren oder den
   Versuch neu starten.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Ich springe ständig zu weit – warum?**  
   **A:** Wahrscheinlich tippst du zu früh oder zu häufig hintereinander. Versuche,

@@ -50,7 +50,7 @@ verbesserst deinen Flug immer weiter.
 - Achte auf Tagesziele oder Missionen – sie geben dir Hinweise darauf, welche
   Upgrades sich als Nächstes lohnen.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Welche Upgrades bringen am Anfang am meisten?**  
   **A:** Basistempo und Gleit-Effizienz zahlen sich früh am stärksten aus.

@@ -55,7 +55,7 @@ Board-Management kontrollieren musst.
 - Nutze Hinweis- oder Shuffle-Buttons über die Benutzeroberfläche, falls
   vorhanden.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Es gibt scheinbar keine Züge mehr – ist das Spiel vorbei?**  
   **A:** Wenn ein Shuffle erlaubt ist, mische die verbleibenden Steine neu.

@@ -53,7 +53,7 @@ Durchflügen durch Patrouillen und sicheren Rückwegen.
 - **Neustart:** Viele Versionen bieten einen schnellen Neustart für saubere
   Durchläufe.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Gegner wirken unfair – was hilft?**  
   **A:** Lerne ihre Patrouillenrouten kennen und warte auf saubere

@@ -62,7 +62,7 @@ Das Spiel wird ganz intuitiv per Drag-and-drop bedient.
     Teile gedreht sein. Üblicherweise gibt es dafür einen Button oder eine
     Taste, mit der du das aktuell ausgewählte Teil rotieren kannst.
 
-### FAQ
+### Häufige Fragen
 
 *   **F: Wie wähle ich ein neues Puzzle aus?**  
     **A:** Durchstöbere die Galerie im Spiel und klicke auf ein Motiv, das dir

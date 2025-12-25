@@ -54,7 +54,7 @@ Trickschuss-Linien und holt Low Scores.
 - **Neustart:** Über die Bildschirmsteuerung kannst du ein Loch neu beginnen
   (falls erlaubt).
 
-### FAQ
+### Häufige Fragen
 
 - **F: Warum springt mein Ball am Loch vorbei?**  
   **A:** Meist ist der Schlag zu stark oder leicht außer Linie. Reduziere Tempo

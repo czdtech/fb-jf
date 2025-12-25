@@ -44,7 +44,7 @@ Galactic Empire bietet RTS-ähnliche Gefechte im All. Du baust Förderstationen,
 - Fokussiere Feuer auf gefährliche Glas-Kanonen-Ziele, danach räumst du den Rest
   auf.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Wie bekomme ich schneller Ressourcen?**  
   **A:** Erweitere dich früh auf nahegelegene Sektoren und schütze deine

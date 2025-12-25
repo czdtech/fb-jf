@@ -62,7 +62,7 @@ du dich Raum für Raum durch das Schloss und gestaltest es nach und nach neu.
 - **Renovieren:** Im Szenenmenü gibst du Sterne aus, um Möbel, Dekor und Räume
   aufzuwerten.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Ich hänge an einem Level mit vielen Marmorplatten fest – Tipps?**  
   **A:** Nutze Bomben in der Nähe der Platten und kombiniere Linien-Clears, um

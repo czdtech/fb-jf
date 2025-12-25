@@ -44,7 +44,7 @@ Nacken sitzen.
 - Präge dir Panel-Abläufe ein, damit du sie auch unter Druck sauber
   durchspielen kannst.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Warum funktionieren die Schocks manchmal nicht?**  
   **A:** Manche Begegnungen lassen sich nicht einfach "wegschocken" – hier sind

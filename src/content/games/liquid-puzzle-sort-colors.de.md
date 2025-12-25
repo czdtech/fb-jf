@@ -63,7 +63,7 @@ nicht in einem Zustand landest, in dem kein sinnvoller Zug mehr möglich ist.
 - Hinweise können dir mögliche Züge vorschlagen, sollten aber nicht deine
   komplette Planung ersetzen.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Ich lande ständig in unlösbaren Situationen – wie kann ich das
   vermeiden?**  

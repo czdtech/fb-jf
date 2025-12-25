@@ -58,7 +58,7 @@ gezielt an der Frontlinie positionierst.
 - **Deploy Unit:** Click and drag a unit from your reserve grid to an empty defensive slot on the battlefield.
   auf dem Schlachtfeld.
 
-### FAQ
+### Häufige Fragen
 
 *   **F: Wie bekomme ich stärkere Verteidiger?**  
     **A:** Durch Mergen: Zwei Level-1-Einheiten werden zu Level 2, zwei Level 2

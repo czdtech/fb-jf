@@ -61,7 +61,7 @@ ihnen hin- und herschichten.
 - Nach einem Redeal solltest du alle Stapel neu durchsuchen – oft rücken
   entscheidende Karten plötzlich nach oben.
 
-### FAQ
+### Häufige Fragen
 
 - F: Wie viele Redeals habe ich?
   

@@ -52,7 +52,7 @@ Steine einschließen würden.
 - Wähle zwei passende, offene Steine an, um sie zu entfernen.
 - Nutze Hinweis- und Shuffle-Buttons gemäß Benutzeroberfläche.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Es sind keine Züge mehr möglich – was nun?**  
   **A:** Wenn erlaubt, mische die verbleibenden Steine. Ansonsten kann ein

@@ -50,7 +50,7 @@ Je nach Modus erwarten dich Level mit Checkpoints oder One-Shot-Runs.
   Druckdauer die Sprunghöhe).
 - **Pause/Neustart:** Über UI-Buttons oder Tastenkürzel.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Ich streife ständig Stacheln – warum?**  
   **A:** Meist springst du zu früh. Versuche, Absprünge minimal nach hinten zu

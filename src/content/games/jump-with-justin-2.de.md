@@ -57,7 +57,7 @@ Levels zu erreichen.
 - **Neustart:** Viele Versionen bieten eine Schnell-Neustart-Funktion, mit der
   du einzelne Abschnitte direkt noch einmal üben kannst.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Ich lande ständig in Stacheln – warum?**  
   **A:** Meist springst du zu früh oder zu spät. Beobachte den Boden und die

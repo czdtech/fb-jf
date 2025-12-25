@@ -48,7 +48,7 @@ meist 180°-Rotationssymmetrie. Übliche Größen sind 15×15 an Wochentagen und
 - Lerne gängige Abkürzungen und typische Hinweismuster in amerikanischen
   Crosswords.
 
-### FAQ
+### Häufige Fragen
 
 - F: Welche Größen sind typisch?
   

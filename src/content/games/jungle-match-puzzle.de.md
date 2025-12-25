@@ -65,7 +65,7 @@ mächtige Kettenreaktionen.
 - **Pause/Neustart:** Über die Benutzeroberfläche kannst du das Spiel pausieren
   oder ein Level neu starten.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Ich scheitere ständig am Zuglimit – was mache ich falsch?**  
   **A:** Richte deine Züge konsequent am Ziel aus, statt nur auf hohe Scores zu

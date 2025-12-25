@@ -67,7 +67,7 @@ Das Spiel wird mit einfachen Maus- oder Touchgesten gesteuert.
     benachbarten, um die Position zu tauschen. Der Zug wird nur ausgeführt,
     wenn eine gültige Dreier- (oder größere) Kombi entsteht.
 
-### FAQ
+### Häufige Fragen
 
 *   **F: Wie komme ich an Level mit gefrorenen oder gefesselten Juwelen
     vorbei?**  

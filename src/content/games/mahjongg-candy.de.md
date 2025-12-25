@@ -44,7 +44,7 @@ Muster, deine Konzentration und etwas Vorausplanung.
 
 - **Maus/Touch:** Wähle Steine per Klick/Tap aus, um sie zu kombinieren.
 
-### FAQ
+### Häufige Fragen
 
 **Was ist das Ziel von Mahjongg Candy?**  
 Das Ziel ist, alle Bonbon-Steine zu entfernen, indem du identische, freie Paare

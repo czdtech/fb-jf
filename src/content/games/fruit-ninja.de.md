@@ -41,7 +41,7 @@ Je nach Host stehen dir Classic-, Arcade- oder Zen-Modi zur Verfügung.
 - In Zen-Modi ohne Bomben kannst du dich voll auf optimale Pfade und Kombos
   konzentrieren.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Wie bekomme ich zuverlässig Kombos hin?**  
   **A:** Warte einen kurzen Moment, bis sich zwei oder mehr Früchte überlappen,

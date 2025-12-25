@@ -42,7 +42,7 @@ Taschenlampe und Gehör, um Jumpscares zu vermeiden.
   und wieder von vorn.
 - Nutze Kopfhörer, um feine Atem- und Schrittgeräusche besser zu orten.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Warum werde ich beim Lichtblitz an der Tür angesprungen?**  
   **A:** Wahrscheinlich war bereits Atmen zu hören – zuerst Tür schließen,

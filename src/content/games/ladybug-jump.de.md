@@ -51,7 +51,7 @@ Sprünge mit der Zeit anspruchsvoller und verlangen gutes Timing.
 - **Pause/Neustart:** Über die UI kannst du das Spiel pausieren oder das Level
   schnell neu starten.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Ich falle ständig von kleinen Blättern – was mache ich falsch?**  
   **A:** Reduziere deine Sprunghöhe und ziele konsequent auf die Mitte der

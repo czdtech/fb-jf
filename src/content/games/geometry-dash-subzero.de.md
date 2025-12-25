@@ -39,7 +39,7 @@ Wechsel in Schiffspassagen.
 - Nutze den Übungsmodus mit Checkpoints, um schwierige Teilstücke zu
   verinnerlichen.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Worin unterscheidet sich SubZero von anderen Geometry-Dash-Paketen?**  
   **A:** Eigene Musik, eisige Optik und besonders knackige Muster.

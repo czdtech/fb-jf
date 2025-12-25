@@ -31,7 +31,7 @@ Der Kern des Spiels sind Ressourcenmanagement und Truppensteuerung:
 - **Bewegung (bei direkter Kontrolle):** `A` / `D`
 - **Angriff (bei direkter Kontrolle):** `Leertaste`
 
-### FAQ
+### Häufige Fragen
 
 **Was ist eine gute Anfangsstrategie?**  
 Starte meist mit mehreren Minern, um schnell eine starke Goldbasis zu haben. Danach einen Swordwrath ausbilden, ihn selbst steuern und damit frühe Angriffe abwehren, während deine Wirtschaft weiter wächst.

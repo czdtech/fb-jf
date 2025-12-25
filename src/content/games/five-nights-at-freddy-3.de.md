@@ -43,7 +43,7 @@ Systeme stören. Du jonglierst Kameras, Audiolockrufe und die Belüftung.
 - Lüftungsfehler haben höchste Priorität; zu lange Blackouts erhöhen die
   Fehlerquote und Jump-Scare-Gefahr.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Warum funktioniert der Audio-Lockruf plötzlich nicht mehr?**  
   **A:** Das Audiosystem ist überlastet oder abgestürzt – starte es im

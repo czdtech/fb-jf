@@ -51,7 +51,7 @@ räumliches Rätsel unter Zeitdruck.
 - **Aufheben/Absetzen:** Kontextaktion bei Kontakt oder eigene Taste.  
 - **Rotieren (falls vorhanden):** Pfeile auf dem Bildschirm oder Q/E nutzen.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Gegenstände bleiben ständig hängen – was tun?**  
   **A:** Räume kleine Hindernisse zuerst weg oder beginne die Drehung vor

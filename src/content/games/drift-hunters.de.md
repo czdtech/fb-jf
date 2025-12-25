@@ -45,7 +45,7 @@ Turbo und Gewicht und schaltest neue Strecken frei.
 - Übe Donuts auf freier Fläche, um ein Gefühl für das Zusammenspiel von Gas und
   Lenkwinkel zu bekommen.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Gibt es Fahrzeugschaden?**  
   **A:** Meist nur optisch – Kollisionen zerstören aber deinen Punkte-Multiplikator.

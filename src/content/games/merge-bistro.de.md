@@ -53,7 +53,7 @@ Produktionsstationen zwingen dich dazu, dein Brett gut zu organisieren.
 - Tippe auf Kochstationen, um Gerichte zuzubereiten.
 - Liefere zubereitete Speisen über das Bestellpanel aus.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Mein Brett ist voll – was nun?**  
   **A:** Entferne minderwertige Items, merg e gezielt in Richtung aktueller

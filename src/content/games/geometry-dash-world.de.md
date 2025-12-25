@@ -49,7 +49,7 @@ verinnerlichen.
 - Schalte früh in den Übungsmodus, wenn du an einer Stelle immer wieder
   scheiterst, und gehe danach zurück in den Normalmodus für einen Clean Run.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Gibt es in Geometry Dash World Community-Level?**  
   **A:** Der Fokus liegt auf kuratierten Stages; einige Hosts blenden zusätzlich

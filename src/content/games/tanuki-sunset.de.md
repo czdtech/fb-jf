@@ -38,7 +38,7 @@ The main goal is to score as many points as possible before you reach the end of
 - **Speed‑Stance:** `W` oder `Pfeil nach oben` (halten, um bestimmte Hindernisse zu durchbrechen)
 - **Pause:** `Esc`
 
-### FAQ
+### Häufige Fragen
 
 **Wie bekomme ich hohe Scores?**  
 Kette möglichst lange Drifts aneinander, nutze jede Rampe für Tricks und sammle alle Tanuki Bits für Bonus‑Spins.

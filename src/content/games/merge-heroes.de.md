@@ -58,7 +58,7 @@ wie sie Welle um Welle automatisch bekämpfen.
 - **Deploy/Undeploy:** Drag a hero from your reserve board to an empty slot on the battlefield to deploy them. You can also drag them back to the reserve board to swap them out.
   Kampffelder und bei Bedarf wieder zurück, um deine Formation anzupassen.
 
-### FAQ
+### Häufige Fragen
 
 *   **F: Wie bekomme ich extrem starke Helden?**  
     **A:** Durch konsequentes Mergen. Zwei Level 1 ergeben Level 2, zwei Level 2

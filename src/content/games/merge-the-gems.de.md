@@ -56,7 +56,7 @@ für Extrapunkte und Münzen zu erfüllen.
 - **Buy Gems:** Click on the shop icon to purchase gems you have already discovered.
   entdeckt hast, gegen Münzen nach.
 
-### FAQ
+### Häufige Fragen
 
 *   **F: Wie erhalte ich neue Steine?**  
     **A:** In Abständen erscheint automatisch ein Basisstein auf einem freien

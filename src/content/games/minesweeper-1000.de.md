@@ -54,7 +54,7 @@ möglichst wenig Raten entscheidend.
   Zahl aufdecken (falls unterstützt).  
 - **Neustart:** Über das Menü.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Ich stecke in einer 50/50-Situation – was jetzt?**  
   **A:** Suche zuerst nach übersehenen Mustern an anderer Stelle. Wenn du

@@ -54,7 +54,7 @@ dass du wahllos merg st – durchdachte Ketten sind der Schlüssel.
 - Tippe auf Gebäude, um Ressourcen einzusammeln oder Produktionen zu starten.
 - Wechsle über die Karte zwischen unterschiedlichen Regionen.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Mir geht der Platz aus – was tun?**  
   **A:** Nutze 5er-Merges, um effizient aufzuwerten, verkaufe oder zerlege

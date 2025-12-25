@@ -44,7 +44,7 @@ Turnierbäume spielen.
 - In der Defensive lieber zurückweichen und Winkel schließen, als wild
   herauszustürmen.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Wie aktiviere ich einen Spezialschuss?**  
   **A:** Fülle die Spezialleiste durch aktives Spiel und drücke dann die

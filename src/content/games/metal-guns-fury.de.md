@@ -55,7 +55,7 @@ Runs von chaotischen Niederlagen.
 - **Granate/Fähigkeit:** L oder E.  
 - **Waffen wechseln:** Q.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Ich sterbe ständig im Kreuzfeuer.**  
   **A:** Konzentriere dich jeweils auf einen Bildschirmbereich, nutze Deckungen

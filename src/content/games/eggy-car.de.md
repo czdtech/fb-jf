@@ -43,7 +43,7 @@ feinem Gasfinger schaffst du lange Distanzen.
 - Upgrades, die Federung und Fahrstabilität verbessern, bringen am Anfang den
   größten Vorteil.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Wodurch endet ein Run?**  
   **A:** Entweder das Ei zerbricht oder dir geht der Sprit aus.

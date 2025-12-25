@@ -42,7 +42,7 @@ abgestimmt sind.
 - Nutze Musikhints – viele Sprünge sind direkt auf markante Beats gelegt.
 - Beim Schiff nur sanft steuern; zu starke Korrekturen führen schnell zum Crash.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Wie schaffe ich schwere Level, ohne alles auswendig zu lernen?**  
   **A:** Übe problematische Stellen im Practice-Mode, bis du den Flow kennst,

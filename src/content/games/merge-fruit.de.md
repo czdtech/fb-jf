@@ -52,7 +52,7 @@ viele Merges ergeben, ohne dass der Turm bis zur Oberkante wächst.
 - Manche Versionen erlauben Halten oder Undo – nutze das, um Fehlwürfe zu
   korrigieren.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Das Brett läuft mir ständig über.**  
   **A:** Jage nicht nur großen Merges hinterher. Glätte zuerst hohe Spalten und

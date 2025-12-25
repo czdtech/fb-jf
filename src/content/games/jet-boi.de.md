@@ -48,7 +48,7 @@ Höhenposition und damit den Vorteil.
 - Kämpfe nach Möglichkeit von den oberen Plattformen aus – sie verschaffen dir
   Übersicht und bessere Schusswinkel.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Wie spare ich Treibstoff effektiv?**  
   **A:** Nutze rhythmische Kurz-Taps, um Höhe zu halten und gleichzeitig dein

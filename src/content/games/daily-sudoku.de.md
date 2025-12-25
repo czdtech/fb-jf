@@ -46,7 +46,7 @@ Notizfunktionen und Prüftools bereit.
 - Vermeide reines Raten – wenn der Host Fehler anzeigt, nutze dieses Feature
   sparsam, damit du deine Logik trainierst.
 
-### FAQ
+### Häufige Fragen
 
 - F: Welche Schwierigkeitsgrade gibt es?
   

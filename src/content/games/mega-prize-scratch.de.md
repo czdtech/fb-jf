@@ -49,7 +49,7 @@ strategische Herausforderung.
 - Buttons nutzen, um alles auf einmal aufzudecken, neue Karten zu kaufen oder
   Bonusspiele zu starten (falls vorhanden).
 
-### FAQ
+### Häufige Fragen
 
 - **F: Kann ich das Ergebnis beeinflussen?**  
   **A:** Nein. Die Ausgänge sind zufällig – du kannst nur über Einsatz und

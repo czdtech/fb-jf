@@ -61,7 +61,7 @@ Boostern sorgen für langen Rätselspaß in stimmungsvoller Weihnachtsatmosphär
   es mit einem benachbarten Stein vertauschen. Der Tausch klappt nur, wenn
   dabei mindestens drei gleiche Juwelen in einer Reihe oder Spalte entstehen.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Was ist ein Match-3-Spiel?**  
   **A:** In Match-3-Spielen vertauschst du benachbarte Spielsteine, um Reihen

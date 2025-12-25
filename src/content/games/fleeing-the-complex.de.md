@@ -44,7 +44,7 @@ In Fleeing the Complex versucht Henry Stickmin, aus einem Hochsicherheits-Gefän
 - Notiere dir, welche Enden du bereits gesehen hast, um Dopplungen zu
   vermeiden.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Wie viele Enden gibt es?**  
   **A:** Es gibt mehrere erfolgreiche Enden, verteilt über die großen

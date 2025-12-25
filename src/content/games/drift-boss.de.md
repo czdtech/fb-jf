@@ -44,7 +44,7 @@ Münzen, mit denen du neue Autos mit besserem Handling freischalten kannst.
 - Investiere früh in Fahrzeuge mit stabilerem Fahrverhalten, damit du längere
   Strecken überlebst und mehr Münzen pro Run einsammelst.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Gibt es eine Bremse?**  
   **A:** Nein, eine klassische Bremse gibt es nicht. Du kontrollierst Winkel und

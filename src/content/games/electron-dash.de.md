@@ -40,7 +40,7 @@ Electron Dash ist ein rasanter Runner in einem futuristischen Tunnel. Du rennst
   ständiges Dashen auf instabilen Kacheln.
 - Behandle Kurven wie Spurenwechsel – wechsle früh, nicht erst am Rand.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Sind die Level zufällig oder fest?**  
   **A:** Viele Hosts setzen auf prozedurale Abschnitte, daher fühlt sich jeder

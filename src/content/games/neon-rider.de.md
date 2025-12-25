@@ -51,7 +51,7 @@ Sprünge, ohne zu stark zu rotieren, um dein Tempo zu halten.
 - **Neigen:** Pfeil links/rechts oder A/D.  
 - **Neustart:** Schneller Restart, um schwierige Stellen gezielt zu üben.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Ich lande ständig auf der Vorderachse – warum?**  
   **A:** Meist gibst du zu viel Gas direkt an der Rampenkante. Nimm vor dem

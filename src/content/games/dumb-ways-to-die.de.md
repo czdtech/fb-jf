@@ -43,7 +43,7 @@ Reaktionsspielen. In jeder Runde bekommst du eine andere Mikroaufgabe, während
 - Übertreibe es nicht mit langen Wischgesten – Präzision ist wichtiger als
   rohe Geschwindigkeit.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Wie viele Leben habe ich?**  
   **A:** Meistens drei Versuche pro Run.

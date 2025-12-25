@@ -68,7 +68,7 @@ Das Spiel wird mit Maus oder Touch gesteuert.
 *   **Paar bilden:** Wähle anschließend einen identischen, ebenfalls freien
     Stein, um beide zu entfernen.
 
-### FAQ
+### Häufige Fragen
 
 *   **F: Warum kann ich einen bestimmten Stein nicht auswählen?**  
     **A:** Er ist nicht frei – meistens, weil links und rechts noch Steine

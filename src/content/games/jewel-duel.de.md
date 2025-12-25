@@ -70,7 +70,7 @@ sondern auch zur richtigen Zeit die passenden Farben verbinden.
 - **Gegner-Absichten lesen:** Achte auf Symbole oder Hinweise über den Köpfen
   der Gegner, um ihren nächsten Zug besser einschätzen zu können.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Ich mache kaum Schaden – woran liegt das?**  
   **A:** Häufig matchst du die falschen Farben für deinen Build oder ignorierst

@@ -50,7 +50,7 @@ Bosskampf; triffst du ihn mit Eisenkisten per Wirbel, beendest du das Spiel mit
 - Bosskämpfe sind Mustererkennung: Warte auf sichere Fenster und greife dann
   mit einem Wirbel an.
 
-### FAQ
+### Häufige Fragen
 
 - F: Wie viele Level gibt es?
   

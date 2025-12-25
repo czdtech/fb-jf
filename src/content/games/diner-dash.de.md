@@ -49,7 +49,7 @@ kannst.
 - Plane deine Route: Sammle z.B. in einem Durchgang mehrere Bestellungen ein
   und serviere sie in einem weiteren, statt ständig hin und her zu laufen.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Was bringen Farb-Matches?**  
   **A:** Wenn du Gäste derselben Farbe an entsprechend markierte Tische setzt,

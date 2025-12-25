@@ -51,7 +51,7 @@ konstanten Rhythmus sowie schnelle Reaktionen.
   langes Halten für höhere Sprünge.  
 - **Pause:** Über die Benutzeroberfläche kannst du pausieren oder neu starten.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Ich springe ständig über Plattformen hinaus – was tun?**  
   **A:** Setze kürzere Tipp-Impulse und ziele auf mittlere Sprunghöhen. Nutze

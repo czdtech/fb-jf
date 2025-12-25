@@ -63,7 +63,7 @@ Unsicherheiten geprägt.
 *   **Selbstverteidigung (falls vorhanden):** Einige Varianten erlauben
     Gegenmaßnahmen durch Zivilpersonen.
 
-### FAQ
+### Häufige Fragen
 
 1.  **F: Woran erkenne ich den Mörder?**  
     **A:** An Inkonsistenzen: widersprüchlichen Aussagen, auffälligen

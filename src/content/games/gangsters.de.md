@@ -44,7 +44,7 @@ verliert die Runde.
   Gleichgewicht zu bringen.
 - Achte auf Wind oder bewegliche Plattformen, falls vorhanden.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Wie gewinne ich Runden zuverlässiger?**  
   **A:** Kontrolliere den Rückstoß und lande Schüsse, die die Standfestigkeit

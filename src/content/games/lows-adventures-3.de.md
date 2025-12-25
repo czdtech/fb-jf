@@ -51,7 +51,7 @@ aufmerksame Erkundung und effiziente Routenplanung belohnen.
   Umgebungsgeräusche angedeutet. Wenn sich etwas „ungewöhnlich“ anhört, lohnt
   es sich, dort genauer hinzusehen.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Wie finde ich versteckte Ausgänge?**  
   **A:** Prüfe Decken, scheinbar massive Wände und Offscreen-Kanten. Kleine

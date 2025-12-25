@@ -57,7 +57,7 @@ bringen.
 *   **Figur bewegen:** Nach dem Wurf zeigt dir das Spiel die erlaubten Züge an;
     klicke auf die Figur, die du bewegen möchtest.
 
-### FAQ
+### Häufige Fragen
 
 *   **F: Was ist das Ziel von Ludo?**  
     **A:** Als Erste:r alle vier eigenen Figuren vom Startfeld über das Brett

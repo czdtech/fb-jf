@@ -43,7 +43,7 @@ Ducklings ist ein ruhiges Collect-'em-up auf dem Wasser. Du schwimmst über
 - Halte die Kette möglichst kompakt, damit vereinzelt zurückbleibende Küken
   nicht von Booten erwischt werden.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Gibt es ein Zeitlimit?**  
   **A:** Normalerweise nicht – du kannst in deinem eigenen Tempo spielen.

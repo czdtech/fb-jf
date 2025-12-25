@@ -41,7 +41,7 @@ damit mehr Punkte als dein Gegner sammelst.
   Jack-Passagen.
 - Reduziere visuelle Effekte, wenn Lags dein Timing beeinträchtigen.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Wie schalte ich neue Weeks frei?**  
   **A:** Meist, indem du vorherige Weeks abschließt – oder du nutzt den

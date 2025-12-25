@@ -47,7 +47,7 @@ Raketen bauen, um zum Mond und darüber hinaus zu reisen.
   Weltraumreisen freischalten, statt dich nur auf kleine, kurzfristige Boosts
   zu konzentrieren.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Läuft das Spiel offline weiter?**  
   **A:** Manche Hosts speichern deinen Fortschritt lokal und zählen Einkommen,

@@ -41,7 +41,7 @@ richtigen Moment entscheidet über Sieg oder Sturz.
 - Nutze lange Decken oder Böden, um nach Fehlern dein Timing wieder
   einzupendeln.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Was ist neu im Vergleich zu früheren Teilen?**  
   **A:** Geschmeidigere Steuerung, noch dichtere Hindernismuster und sehr gut

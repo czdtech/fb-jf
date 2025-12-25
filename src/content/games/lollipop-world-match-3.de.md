@@ -56,7 +56,7 @@ Platz zu schaffen und die Ziele rechtzeitig zu erreichen.
   miteinander).
 - Über die UI kannst du pausieren oder ein Level neu starten.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Ich scheitere ständig am Zuglimit – was sollte ich ändern?**  
   **A:** Nutze Power-ups häufiger in Kombination und räume Blocker, die große

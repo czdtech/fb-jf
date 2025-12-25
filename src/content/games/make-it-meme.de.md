@@ -57,7 +57,7 @@ für Runden mit Freund:innen.
 *   **Bewerten:** In der Bewertungsansicht scrollst du durch die Memes der
     anderen, vergibst eine Punktzahl und sendest deine Wertung ab.
 
-### FAQ
+### Häufige Fragen
 
 1.  **F: Wie lade ich Freund:innen zum Mitspielen ein?**  
    **A:** Erstelle einen privaten Raum und verschicke den Raumcode. Deine

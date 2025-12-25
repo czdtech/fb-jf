@@ -53,7 +53,7 @@ Priorisierung.
 - Bewege deine Figur per Tipp/Drag oder mit den Richtungstasten und interagiere
   kontextabhängig mit Tieren, Werkzeugen und Zäunen.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Mir gehen die Züge aus – was mache ich falsch?**  
   **A:** Kombiniere mehrere Aufgaben in einem Weg und vermeide Umwege, die nur

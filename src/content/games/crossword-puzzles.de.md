@@ -46,7 +46,7 @@ Rätsel und ein Archiv.
 - Nutze Check/Reveal-Funktionen sparsam – vor allem, wenn Zeiten oder
   Statistiken erfasst werden.
 
-### FAQ
+### Häufige Fragen
 
 - F: Sind die Rätsel zeitlich begrenzt?
   

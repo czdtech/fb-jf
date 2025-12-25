@@ -44,7 +44,7 @@ denen keine Matches mehr möglich sind.
 - Behalte Duplikate im Auge, damit am Ende kein einzelner Stein ohne Partner
   isoliert bleibt.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Welche Steine gelten in Mahjong Titans als frei?**  
   **A:** Ein Stein ohne Stein darauf, der mindestens an einer Seite (links oder

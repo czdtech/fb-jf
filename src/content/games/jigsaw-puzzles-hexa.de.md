@@ -59,7 +59,7 @@ Jigsaw Puzzles Hexa wird mit einem einfachen Drag-and-drop-System gespielt.
     aus deinem Vorrat und ziehe ihn auf das Hauptfeld. Lasse los, um ihn
     abzulegen – passt die Form nicht, springt sie automatisch zurück.
 
-### FAQ
+### Häufige Fragen
 
 *   **F: Kann ich die Teile drehen?**  
     **A:** Nein. Die Hexa-Blöcke haben eine feste Ausrichtung. Die

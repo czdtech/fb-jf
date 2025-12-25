@@ -57,7 +57,7 @@ bestimmter Hindernisse auf dem Spielfeld.
 - **Power-ups:** Spezialsteine werden durch Matches aktiviert oder – je nach
   Regel – per Antippen ausgelöst. Achte auf die In-Game-Beschreibungen.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Ich scheitere ständig am Zuglimit – was kann ich tun?**  
   **A:** Konzentriere dich auf Blocker und Kettenreaktionen. Kleine

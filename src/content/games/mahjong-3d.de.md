@@ -63,7 +63,7 @@ sichtbar, wenn du das Layout von mehreren Blickwinkeln aus betrachtest.
     Hintergrund mit der Maus/Touch, um die komplette Struktur nach links oder
     rechts zu drehen.
 
-### FAQ
+### Häufige Fragen
 
 *   **F: Was ist der Unterschied zu normalem Mahjong Solitaire?**  
     **A:** Die 3D-Präsentation. Dadurch musst du das Layout drehen und aus

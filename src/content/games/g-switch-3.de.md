@@ -41,7 +41,7 @@ viele Spieler.
   erkennen.
 - Nutze den Beat der Musik, um einen stabilen Flip-Rhythmus beizubehalten.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Was unterscheidet G-Switch 3 von den Vorgängern?**  
   **A:** Höheres Grundtempo, schwierigere Fallenketten und größere

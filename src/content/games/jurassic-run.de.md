@@ -61,7 +61,7 @@ persönlichen Rekord immer weiter nach oben zu schrauben.
 - **Pause/Neustart:** Über die Bildschirm-Buttons kannst du pausieren oder den
   Lauf neu starten.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Ich stoße ständig an Hindernisse – woran liegt das?**  
   **A:** Oft springst du zu früh oder lenkst zu stark. Versuche, Sprünge einen

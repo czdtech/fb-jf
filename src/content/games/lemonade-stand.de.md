@@ -48,7 +48,7 @@ unverkauftes Material verlierst.
 - Kleine Preisexperimente helfen dir, die Preiselastizität der Kundschaft
   herauszufinden.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Wie vermeide ich, während Stoßzeiten ausverkauft zu sein?**  
   **A:** Besorge an sehr heißen Tagen einen Puffer an Bechern und Eis und

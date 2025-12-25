@@ -60,7 +60,7 @@ Hygieneregeln bestrafen jede Form von Kreuzkontamination.
 - **Bedienoberfläche:** Über die UI kannst du pausieren, neu starten oder
   Hinweise aktivieren, die dir die korrekte Kategorie zeigen.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Ich verwechsle ständig Recycling und Restmüll – was kann ich tun?**  
   **A:** Präge dir ein paar „sichere“ Beispiele ein: Glas, Dosen und Karton

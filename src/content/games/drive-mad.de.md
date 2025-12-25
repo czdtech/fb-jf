@@ -47,7 +47,7 @@ Timing und Feingefühl beim Gasgeben erfordern.
 - Lerne das Timing von Fallen und beweglichen Plattformen – Geduld und
   präzises Steuern sind wichtiger als reine Geschwindigkeit.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Fahren sich die Fahrzeuge unterschiedlich?**  
   **A:** Ja, einige Fahrzeugpakete verändern Gewicht und Länge, was das

@@ -49,7 +49,7 @@ Zyklus-Kontrolle verlangt.
 - Setze einen König nur dann in eine leere Spalte, wenn dir der dabei
   entstehende Stapel wirklich neue Möglichkeiten eröffnet.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Was darf ich in eine leere Tableau-Spalte legen?**  
   **A:** Nur einen König oder einen Kartenstapel, der mit einem König beginnt.

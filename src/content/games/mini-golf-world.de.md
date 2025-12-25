@@ -53,7 +53,7 @@ Hindernissen.
   putten.  
 - **Reset:** Falls du festhängst, kannst du das Loch über die UI neu starten.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Warum prallt der Ball vom Lochrand ab?**  
   **A:** Meist ist der Putt zu schnell oder der Eintrittswinkel ungünstig.

@@ -52,7 +52,7 @@ Schalter, die Türen öffnen, ohne dabei die vorgegebenen Zeiten zu sprengen.
 - Bewege deine Figur per Drag-Geste oder mit WASD/Pfeiltasten.  
 - Neustart und ggf. Rückgängig-Funktion stehen über die UI zur Verfügung.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Ich laufe ständig an Schaltern vorbei.**  
   **A:** Plane deine Route so, dass du alle wichtigen Abzweigungen einmal

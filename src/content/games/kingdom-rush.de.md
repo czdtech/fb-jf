@@ -56,7 +56,7 @@ Spawn-Mechaniken, sodass du flexibel bauen musst.
   Stelle Infanterie so, dass sie Gegner bündelt und diese unter den
   Flächenschaden deiner Artillerie festhält.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Was ist eine gute Build-Order für den frühen Spielverlauf?**  
   **A:** Ein Kaserne-Turm plus ein Flächenturm und ein Magierturm nahe des

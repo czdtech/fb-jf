@@ -61,7 +61,7 @@ Elektronik-Loops baust.
     - **Main Controls (Top of Screen)**:
   Aufnahme und Zurücksetzen des Grids.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Warum wirkt das anders als die Hauptspiele?**  
   **A:** Die Simulator-Mods nutzen bewusst ein Grid, um elektronische Musik mit

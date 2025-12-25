@@ -54,7 +54,7 @@ Plattformen zu prallen.
 
 
 - **Rotate Tower:** Click and hold the left mouse button (or your finger) and drag left or right to rotate the helix tower.
-### FAQ
+### Häufige Fragen
 
 *   **F: Was ist das Ziel?**  
     **A:** Den Ball sicher bis ganz nach unten zu führen, indem du ihn durch

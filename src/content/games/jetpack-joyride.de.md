@@ -46,7 +46,7 @@ Sterne zu verdienen und neue Upgrades freizuschalten.
 - Lass dich bei Missionen von Aufgaben leiten, die du gleichzeitig erfüllen
   kannst, um effizient Fortschritte zu machen.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Wie schaffe ich konstant längere Läufe?**  
   **A:** Lies Gefahrenzyklen, nutze Fahrzeuge als Puffer und riskiere keine

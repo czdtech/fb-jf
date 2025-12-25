@@ -47,7 +47,7 @@ belohnen dich für schnelle Durchläufe und clevere Abkürzungen.
   Wenn du den Aufbau kennst, kannst du Level erneut starten und deine Route auf
   maximale Geschwindigkeit trimmen.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Wie erreiche ich versteckte Räume?**  
   **A:** Suche nach rissigen Blöcken, scheinbar toten Enden oder Stellen, an

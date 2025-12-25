@@ -56,7 +56,7 @@ und kannst daraus völlig eigene Kompositionen bauen.
     - **Record**: Click the record button (usually a red circle) at the top to start and stop recording your mix.
   und als Link oder Datei speichern (je nach Version).
 
-### FAQ
+### Häufige Fragen
 
 - **Kann ich meine Musik speichern?**  
   Ja, die meisten Versionen bieten eine Aufnahmefunktion mit Download oder

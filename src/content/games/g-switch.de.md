@@ -43,7 +43,7 @@ ständig zunimmt.
 - Im Multiplayer lohnt es, die Flips der Gegner im Blick zu behalten, um
   Fallen früh zu erkennen.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Warum verfehle ich ständig kurze Plattformen?**  
   **A:** Du flippst vermutlich zu spät – setze den Wechsel ein wenig früher,

@@ -30,7 +30,7 @@ Der eigentliche Reiz liegt darin, alle Pfade auszuprobieren, jede absurde Szene 
 
 - **Maus:** Per Klick wählst du jeweils die gewünschte Option.
 
-### FAQ
+### Häufige Fragen
 
 **Wie viele „Gewinn“-Enden gibt es?**  
 Insgesamt **drei**:

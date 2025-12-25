@@ -61,7 +61,7 @@ vollständig zu leeren.
 - **Auto-Move:** Viele Versionen erlauben einen Doppelklick, um eine Karte
   automatisch auf eine passende Ablage zu verschieben.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Worin unterscheidet sich Medieval Solitaire vom klassischen Solitaire?**  
   **A:** Die Regeln sind identisch zu Klondike-Solitaire. Der Unterschied liegt

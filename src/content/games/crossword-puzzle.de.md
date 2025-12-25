@@ -54,7 +54,7 @@ cryptic-Varianten verwenden andere Hinweis-Konventionen und Gridmuster.
 - Bei cryptic/British-Stilen: Trenne Hinweise in Definitions- und Wordplay-
   Teil und achte auf Indikatorwörter.
 
-### FAQ
+### Häufige Fragen
 
 - F: Worin unterscheiden sich amerikanische und britische Kreuzworträtsel?
   

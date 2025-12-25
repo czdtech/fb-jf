@@ -40,7 +40,7 @@ stärker und zahlreicher, während du nach und nach deine Bewaffnung aufrüstest
 - Nutze Ecken und Deckung, um Gegner in schmale Gänge zu ziehen.
 - Heb Explosivwaffen für dicht gestapelte Gegnerwellen auf.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Wie bekomme ich bessere Waffen?**  
   **A:** Kaufe sie mit Geld, das du durch das Überstehen von Wellen verdienst.

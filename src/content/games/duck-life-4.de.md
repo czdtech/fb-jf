@@ -43,7 +43,7 @@ mithält; Hüte und Evolutionen ändern das Aussehen.
 - Spiele ältere Strecken erneut, um sicher Erfahrung und Münzen zu farmen,
   wenn du feststeckst.
 
-### FAQ
+### Häufige Fragen
 
 - **F: Beeinflussen Kosmetiksachen die Geschwindigkeit?**  
   **A:** Hüte sind rein kosmetisch – Fortschritt kommt durch Werte und Energie.
