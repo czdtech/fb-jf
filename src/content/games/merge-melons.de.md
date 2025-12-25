@@ -54,28 +54,20 @@ ohne dass der Fruchtberg über den oberen Rand hinauswächst.
 - **Fallen lassen (Desktop):** Klicke mit der linken Maustaste, um die Frucht
   fallen zu lassen.
 - **Mobil:** Bewege den Finger links/rechts zum Zielen und hebe ihn an, um die
-
-- **Mobile Controls:** Move your finger left and right to aim, and lift your finger to drop the fruit.
-  Frucht zu droppen.
+  Frucht fallen zu lassen.
 
 ### Häufige Fragen
 
-*   **F: Was ist das eigentliche Ziel?**  
-    **A:** Solange wie möglich zu spielen und durch kontinuierliches Mergen
-    einen möglichst hohen Punktestand zu erreichen – die Krönung ist eine
-    Wassermelone aus zwei der zweithöchsten Früchte.
+*   **F: Was ist das eigentliche Ziel?**
+    *   **A:** Solange wie möglich zu spielen und durch kontinuierliches Mergen
+        einen möglichst hohen Punktestand zu erreichen – die Krönung ist eine
+        Wassermelone aus zwei der zweithöchsten Früchte.
 
-    - **F: Wie verliere ich das Spiel?**  
-    **A:** Sobald der Fruchtstapel die obere Markierung erreicht oder
-    überschreitet, ist die Runde vorbei.
+*   **F: Wie verliere ich das Spiel?**
+    *   **A:** Sobald der Fruchtstapel die obere Markierung erreicht oder
+        überschreitet, ist die Runde vorbei.
 
-*   **F: Kann ich steuern, wohin die Früchte nach einem Merge rollen?**  
-
-    - **A:** Not directly, as the game is physics-based. However, by carefully considering where you drop your fruit, you can influence the direction it will roll and where the newly merged, larger fruit will settle.
-
-- **Q: Is there a way to control where the fruits go after they merge?**
-
-    - **A:** You lose when the pile of fruit inside the container touches or crosses the line at the very top.
-    **A:** Direkt nicht, da die Physik entscheidet. Durch geschickte Wahl des
-    Abwurfpunkts kannst du aber beeinflussen, in welche Richtung die neue,
-    größere Frucht wahrscheinlich rollt.
+*   **F: Kann ich steuern, wohin die Früchte nach einem Merge rollen?**
+    *   **A:** Direkt nicht, da die Physik entscheidet. Durch geschickte Wahl des
+        Abwurfpunkts kannst du aber beeinflussen, in welche Richtung die neue,
+        größere Frucht wahrscheinlich rollt.

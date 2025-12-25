@@ -52,27 +52,19 @@ für Extrapunkte und Münzen zu erfüllen.
 - **Edelsteine merg en:** Ziehe einen Stein auf einen identischen, um ihn
   aufzuwerten.  
 - **Steine kaufen:** Öffne den Shop und kaufe Edelsteine, die du bereits
-
-- **Buy Gems:** Click on the shop icon to purchase gems you have already discovered.
   entdeckt hast, gegen Münzen nach.
 
 ### Häufige Fragen
 
-*   **F: Wie erhalte ich neue Steine?**  
-    **A:** In Abständen erscheint automatisch ein Basisstein auf einem freien
-    Feld. Außerdem kannst du im Shop Steine mit Münzen direkt kaufen.
+*   **F: Wie erhalte ich neue Steine?**
+    *   **A:** In Abständen erscheint automatisch ein Basisstein auf einem freien
+        Feld. Außerdem kannst du im Shop Steine mit Münzen direkt kaufen.
 
-    - **F: Was ist das Hauptziel?**  
-    **A:** Alle Edelsteinarten einmal freizuschalten und die Aufgaben für
-    möglichst viele Punkte und Münzen zu erfüllen.
+*   **F: Was ist das Hauptziel?**
+    *   **A:** Alle Edelsteinarten einmal freizuschalten und die Aufgaben für
+        möglichst viele Punkte und Münzen zu erfüllen.
 
-*   **F: Mein Board ist voll und ich habe keine Züge mehr. Was nun?**  
-
-    - **A:** You need to free up space. Double-check for any possible merges. If there are absolutely no moves, you may need to use an option to sell or delete a low-value gem to make room for a new one.
-
-- **Q: My board is full and I can't make any moves. What should I do?**
-
-    - **A:** To discover all the different types of gems by merging them and to complete any given tasks to earn the highest score possible.
-    **A:** Suche nochmal nach möglichen Merg es. Wenn gar nichts mehr geht,
-    musst du einen wenig wertvollen Stein verkaufen oder löschen, um wieder ein
-    Feld freizubekommen.
+*   **F: Mein Board ist voll und ich habe keine Züge mehr. Was nun?**
+    *   **A:** Suche nochmal nach möglichen Merg es. Wenn gar nichts mehr geht,
+        musst du einen wenig wertvollen Stein verkaufen oder löschen, um wieder ein
+        Feld freizubekommen.

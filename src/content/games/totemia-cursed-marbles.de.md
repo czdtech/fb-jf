@@ -35,23 +35,15 @@ Totemia: Cursed Marbles ist ein schneller Action‑Puzzler im Stil von Klassiker
 
 ### Häufige Fragen (FAQ)
 
+*   **F: Was ist das Ziel des Spiels?**
+    *   **A:** Du musst die komplette rollende Kugelkette zerstören, bevor auch
+        nur eine Kugel das Loch am Ende der Bahn erreicht.
 
-- **A:** By creating long chain reactions and combos. The more marbles you can pop in quick succession, the higher your score multiplier will be. Also, finishing the level quickly often provides a time bonus.
+*   **F: Was passiert, wenn eine Kugel das Ende erreicht?**
+    *   **A:** Dann ist das Level verloren und du musst es neu versuchen.
 
-    - **Q: How do I get the highest score?**
-
-- **A:** You will lose the level and have to start again.
-
-    - **Q: What happens if a marble reaches the end?**
-
-- **A:** To destroy all the marbles in the moving chain before any single marble reaches the hole at the end of the path.
-
-    - **Q: What is the goal of the game?**
-**Was ist das Ziel des Spiels?**  
-Du musst die komplette rollende Kugelkette zerstören, bevor auch nur eine Kugel das Loch am Ende der Bahn erreicht.
-
-**Was passiert, wenn eine Kugel das Ende erreicht?**  
-Dann ist das Level verloren und du musst es neu versuchen.
-
-**Wie erreiche ich die höchste Punktzahl?**  
-Spiele auf Kettenreaktionen und Kombos, statt nur einzelne Gruppen zu entfernen. Je mehr Gruppen du in kurzer Zeit platzen lässt, desto höher steigt dein Multiplikator. Schnelles Abschließen eines Levels bringt oft zusätzliche Zeit‑ oder Bonuspunkte.
+*   **F: Wie erreiche ich die höchste Punktzahl?**
+    *   **A:** Spiele auf Kettenreaktionen und Kombos, statt nur einzelne Gruppen zu
+        entfernen. Je mehr Gruppen du in kurzer Zeit platzen lässt, desto höher
+        steigt dein Multiplikator. Schnelles Abschließen eines Levels bringt oft
+        zusätzliche Zeit‑ oder Bonuspunkte.

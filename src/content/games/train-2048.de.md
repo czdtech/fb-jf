@@ -37,23 +37,17 @@ Die Steuerung ist einfach und intuitiv:
 
 ### Häufige Fragen (FAQ)
 
+*   **F: Wie „gewinne“ ich das Spiel?**
+    *   **A:** Das Hauptziel ist, durch Kombinationen den 2048‑Waggon zu erstellen.
+        Danach kannst du weiterspielen und versuchen, deinen Highscore noch weiter
+        zu steigern.
 
-- **A:** Any corner works, but consistency is key. Once you choose a corner (e.g., top-right), stick with it. Most players find a bottom corner slightly easier as it feels more natural to avoid swiping down.
+*   **F: Wann ist die Partie verloren?**
+    *   **A:** Wenn alle Felder belegt sind und kein Zug mehr zwei gleiche Waggons
+        zusammenführen kann, sind keine Züge mehr möglich – die Runde ist vorbei.
 
-    - **Q: Which corner is best for the highest car?**
-
-- **A:** You lose when the entire grid is filled with train cars, and there are no possible moves or merges left.
-
-    - **Q: How do you lose the game?**
-
-- **A:** The primary goal is to successfully merge cars until you create the "2048" train car. Continuing to play after that to achieve an even higher score is also possible.
-
-    - **Q: How do you win the game?**
-**Wie „gewinne“ ich das Spiel?**  
-Das Hauptziel ist, durch Kombinationen den 2048‑Waggon zu erstellen. Danach kannst du weiter spielen und versuchen, deinen Highscore noch weiter zu steigern.
-
-**Wann ist die Partie verloren?**  
-Wenn alle Felder belegt sind und kein Zug mehr zwei gleiche Waggons zusammenführen kann, sind keine Züge mehr möglich – die Runde ist vorbei.
-
-**Welche Ecke ist am besten für den höchsten Waggon?**  
-Im Grunde funktioniert jede Ecke. Wichtig ist nur, dass du dich für eine entscheidest und dabei bleibst, damit deine Struktur geordnet bleibt. Viele Spieler bevorzugen eine der unteren Ecken, weil sich Swipes nach unten intuitiver vermeiden lassen.
+*   **F: Welche Ecke ist am besten für den höchsten Waggon?**
+    *   **A:** Im Grunde funktioniert jede Ecke. Wichtig ist nur, dass du dich für
+        eine entscheidest und dabei bleibst, damit deine Struktur geordnet bleibt.
+        Viele Spieler bevorzugen eine der unteren Ecken, weil sich Swipes nach unten
+        intuitiver vermeiden lassen.

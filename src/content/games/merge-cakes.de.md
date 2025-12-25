@@ -53,28 +53,20 @@ alle Rezepte im „Kuchenbuch“ zu entdecken.
 - **Kuchen merg en:** Ziehe einen Kuchen auf einen identischen, um eine höhere
   Stufe zu erzeugen.  
 - **Kuchen kaufen:** Öffne den Shop und klicke auf den gewünschten Kuchen, um
-
-- **Buy Cakes:** Click on the shop icon and then click the cake you wish to purchase.
   ihn mit Münzen zu erwerben.
 
 ### Häufige Fragen
 
-*   **F: Wie bekomme ich neue Kuchenarten?**  
-    **A:** In regelmäßigen Abständen legt eine Gratis-Box einen Basiskuchen auf
-    ein freies Feld. Zudem kannst du im Shop jede Kuchenstufe nachkaufen, die
-    du bereits freigeschaltet hast.
+*   **F: Wie bekomme ich neue Kuchen?**
+    *   **A:** In regelmäßigen Abständen legt eine Gratis-Box einen Basiskuchen
+        auf ein freies Feld. Zudem kannst du im Shop jede Kuchenstufe nachkaufen,
+        die du bereits freigeschaltet hast.
 
-    - **F: Was ist das Hauptziel?**  
-    **A:** Münzen zu verdienen, indem du Bestellungen erfüllst, und alle
-    verfügbaren Kuchenstufen einmal freizuschalten.
+*   **F: Was ist das Hauptziel?**
+    *   **A:** Münzen zu verdienen, indem du Bestellungen erfüllst, und alle
+        Rezepte im „Kuchenbuch“ zu entdecken.
 
-*   **F: Mein Brett ist voll und ich kann nichts mehr tun – was jetzt?**  
-
-    - **A:** You need to create space. Look carefully for any possible merges you might have missed. If there are none, you may have to use the trash can icon to sell a low-level cake to free up a plate.
-
-- **Q: My board is full and I can't make any moves. What do I do?**
-
-    - **A:** To earn coins by fulfilling customer orders and to discover all the different cake recipes in the game.
-    **A:** Suche sorgfältig nach möglichen Merg es. Wenn wirklich nichts mehr
-    geht, kannst du über den „Mülleimer“ einen niedrigen Kuchen verkaufen, um
-    Platz zu schaffen.
+*   **F: Mein Brett ist voll und ich kann nichts mehr tun – was jetzt?**
+    *   **A:** Suche sorgfältig nach möglichen Merg es. Wenn wirklich nichts mehr
+        geht, kannst du über den „Mülleimer“ einen niedrigen Kuchen verkaufen, um
+        Platz zu schaffen.

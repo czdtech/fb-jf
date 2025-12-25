@@ -37,23 +37,14 @@ Die Steuerung ist einfach und intuitiv.
 
 ### Häufige Fragen (FAQ)
 
+*   **F: Warum ist ein Block nicht zerbrochen, obwohl ich ihn getroffen habe?**
+    *   **A:** Die Kugel muss exakt die gleiche Farbe haben wie der Block. Eine
+        blaue Kugel zerstört nur blaue Blöcke usw.
 
-- **A:** Wait for your cannon to load the color you need. The color of the ball in your cannon changes, so be patient and wait for the right color to target the tower's weakest point.
+*   **F: Wann gilt ein Level als geschafft?**
+    *   **A:** Sobald der höchste Punkt des verbliebenen Turms unter der
+        eingeblendeten Ziellinie liegt – und das, bevor dir die Kugeln ausgehen.
 
-    - **Q: What is the best strategy if the tower is multi-colored?**
-
-- **A:** You win the level when the highest point of the remaining structure falls below the goal line indicated on the screen. You must do this before running out of cannonballs.
-
-    - **Q: How do I complete a level?**
-
-- **A:** You must hit a block with a ball of the exact same color. If your ball is blue, it will only destroy blue blocks.
-
-    - **Q: Why didn't the block break when I shot it?**
-**Warum ist ein Block nicht zerbrochen, obwohl ich ihn getroffen habe?**  
-Die Kugel muss exakt die gleiche Farbe haben wie der Block. Eine blaue Kugel zerstört nur blaue Blöcke usw.
-
-**Wann gilt ein Level als geschafft?**  
-Sobald der höchste Punkt des verbliebenen Turms unter der eingeblendeten Ziellinie liegt – und das, bevor dir die Kugeln ausgehen.
-
-**Wie gehe ich bei mehrfarbigen Türmen vor?**  
-Beobachte die Reihenfolge der Kugelfarben im Geschütz. Warte auf die Farbe, die du für eine Schwachstelle brauchst, statt wahllos zu schießen.
+*   **F: Wie gehe ich bei mehrfarbigen Türmen vor?**
+    *   **A:** Beobachte die Reihenfolge der Kugelfarben im Geschütz. Warte auf die
+        Farbe, die du für eine Schwachstelle brauchst, statt wahllos zu schießen.

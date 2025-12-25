@@ -52,28 +52,20 @@ erfüllen, Gold zu verdienen und alle legendären Piratenitems freizuschalten.
 - **Items merg en:** Ziehe einen Gegenstand auf einen identischen, um ihn zur
   nächsthöheren Stufe zu verschmelzen.
 - **Items kaufen:** Öffne den Shop und klicke auf das gewünschte Item, um es
-
-- **Buy Items:** Click on the shop icon and then click the item you wish to purchase.
   mit Gold zu erwerben.
 
 ### Häufige Fragen
 
-*   **F: Wie komme ich an neue Gegenstände?**  
-    **A:** In regelmäßigen Abständen erscheint eine Gratis-Kiste mit einem
-    Basisitem auf einem freien Feld. Außerdem kannst du im Shop alle bereits
-    entdeckten Items mit Gold nachkaufen.
+*   **F: Wie komme ich an neue Gegenstände?**
+    *   **A:** In regelmäßigen Abständen erscheint eine Gratis‑Kiste mit einem
+        Basisitem auf einem freien Feld. Außerdem kannst du im Shop alle bereits
+        entdeckten Items mit Gold nachkaufen.
 
-    - **F: Was ist das Hauptziel?**  
-    **A:** Möglichst viele Aufträge zu erledigen, Gold zu verdienen und alle
-    Piratenitems einmal freizuschalten.
+*   **F: Was ist das Hauptziel?**
+    *   **A:** Möglichst viele Aufträge zu erledigen, Gold zu verdienen und alle
+        Piratenitems einmal freizuschalten.
 
-*   **F: Mein Board ist voll – was nun?**  
-
-    - **A:** You need to create space. Look carefully for any possible merges you might have missed. If there are none, you may have to use the trash can icon to sell a low-level item to free up a space.
-
-- **Q: My board is full and I can't make any moves. What do I do?**
-
-    - **A:** To earn gold by fulfilling orders and to discover all the different pirate items in the game.
-    **A:** Suche nach übersehenen Merg es. Wenn nichts mehr möglich ist,
-    verkaufe überflüssige, niedrigstufige Items über den Mülleimer, um Platz
-    zu schaffen.
+*   **F: Mein Board ist voll – was nun?**
+    *   **A:** Suche nach übersehenen Merg es. Wenn nichts mehr möglich ist,
+        verkaufe überflüssige, niedrigstufige Items über den Mülleimer, um Platz
+        zu schaffen.

@@ -35,23 +35,13 @@ Zumba Ocean ist ein maritimer Marble‑Shooter im Stil von Zuma. Eine bunte Perl
 
 ### Häufige Fragen (FAQ)
 
+*   **F: Was ist das Ziel jedes Levels?**
+    *   **A:** Die komplette Perlenkette zu zerstören, bevor eine Kugel die Muschel
+        am Bahnende erreicht.
 
-- **A:** By creating long combos and clearing the level quickly. The faster you finish, and the more chain reactions you cause, the higher your score will be.
+*   **F: Was passiert, wenn eine Perle die Muschel erreicht?**
+    *   **A:** Das Level ist verloren und du musst einen neuen Versuch starten.
 
-    - **Q: How do I get a high score?**
-
-- **A:** You lose the level and must start over.
-
-    - **Q: What happens if a pearl reaches the end?**
-
-- **A:** To completely destroy the chain of pearls before any of them reach the shell at the end of the path.
-
-    - **Q: What is the goal of the game?**
-**Was ist das Ziel jedes Levels?**  
-Die komplette Perlenkette zu zerstören, bevor eine Kugel die Muschel am Bahnende erreicht.
-
-**Was passiert, wenn eine Perle die Muschel erreicht?**  
-Das Level ist verloren und du musst einen neuen Versuch starten.
-
-**Wie bekomme ich einen hohen Score?**  
-Indem du viele Kombos auslöst, mehrere Kettenabschnitte in kurzer Folge abräumst und Levels möglichst schnell abschließt.
+*   **F: Wie bekomme ich einen hohen Score?**
+    *   **A:** Indem du viele Kombos auslöst, mehrere Kettenabschnitte in kurzer
+        Folge abräumst und Levels möglichst schnell abschließt.

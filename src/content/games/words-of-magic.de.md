@@ -32,23 +32,15 @@ Words of Magic ist ein entspanntes Wortpuzzle mit leichtem Fantasy‑Touch. In j
 
 ### Häufige Fragen (FAQ)
 
+*   **F: Was ist das Hauptziel des Spiels?**
+    *   **A:** Alle mit den vorgegebenen Buchstaben bildbaren, im Level geforderten
+        Wörter zu finden und das Kreuzwort‑Gitter komplett zu füllen.
 
-- **A:** You can typically earn more hints by completing levels, finding bonus words, or through daily login rewards.
+*   **F: Warum wird ein gültiges Wort nicht ins Raster eingetragen?**
+    *   **A:** In diesem Fall handelt es sich wahrscheinlich um ein Bonuswort – du
+        bekommst trotzdem Belohnungen, aber es gehört nicht zur Hauptlösung des
+        Levels.
 
-    - **Q: How do I get more hints?**
-
-- **A:** That was likely a "Bonus Word." You still get credit and points for finding it, but it's not part of the main puzzle for that level.
-
-    - **Q: I found a real word, but it didn't appear on the board. Why?**
-
-- **A:** To find all the hidden words using the given letters and use them to completely fill the crossword puzzle grid.
-
-    - **Q: What is the goal of the game?**
-**Was ist das Hauptziel des Spiels?**  
-Alle mit den vorgegebenen Buchstaben bildbaren, im Level geforderten Wörter zu finden und das Kreuzwort‑Gitter komplett zu füllen.
-
-**Warum wird ein gültiges Wort nicht ins Raster eingetragen?**  
-In diesem Fall handelt es sich wahrscheinlich um ein Bonuswort – du bekommst trotzdem Belohnungen, aber es gehört nicht zur Hauptlösung des Levels.
-
-**Wie bekomme ich mehr Hinweise?**  
-Meist durch das Abschließen von Levels, das Finden von Bonuswörtern oder tägliche Belohnungen.
+*   **F: Wie bekomme ich mehr Hinweise?**
+    *   **A:** Meist durch das Abschließen von Levels, das Finden von Bonuswörtern
+        oder tägliche Belohnungen.

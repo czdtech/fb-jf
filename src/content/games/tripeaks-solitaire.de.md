@@ -38,23 +38,14 @@ Das Spiel wird komplett mit Maus oder Touch gesteuert.
 
 ### Häufige Fragen (FAQ)
 
+*   **F: Was ist das Hauptziel?**
+    *   **A:** Alle Karten der drei Peaks zu entfernen, bevor dein Nachziehstapel
+        aufgebraucht ist.
 
-- **A:** If your stock pile is empty and you have no more legal moves to make from the tableau, the game is over and you have lost that round.
+*   **F: Kann ich eine 2 auf einen König legen?**
+    *   **A:** Nein. Der Rang muss immer genau um 1 abweichen. Auf einen König
+        darfst du nur Dame oder Ass legen (wegen der Wrap‑Regel).
 
-    - **Q: What happens if I run out of cards in the stock pile but there are still cards on the tableau?**
-
-- **A:** No. You can only place a card that is one rank away. On a King, you can only place a Queen or an Ace (because the ranks wrap).
-
-    - **Q: Can I place a 2 on a King?**
-
-- **A:** To clear all three peaks of cards from the tableau before you exhaust your stock pile.
-
-    - **Q: What is the main objective?**
-**Was ist das Hauptziel?**  
-Alle Karten der drei Peaks zu entfernen, bevor dein Nachziehstapel aufgebraucht ist.
-
-**Kann ich eine 2 auf einen König legen?**  
-Nein. Der Rang muss immer genau um 1 abweichen. Auf einen König darfst du nur Dame oder Ass legen (wegen der Wrap‑Regel).
-
-**Was passiert, wenn der Nachziehstapel leer ist und noch Karten liegen?**  
-Sind keine Spielzüge mehr möglich und der Stapel ist leer, ist die Runde verloren und du musst neu beginnen.
+*   **F: Was passiert, wenn der Nachziehstapel leer ist und noch Karten liegen?**
+    *   **A:** Sind keine Spielzüge mehr möglich und der Stapel ist leer, ist die
+        Runde verloren und du musst neu beginnen.

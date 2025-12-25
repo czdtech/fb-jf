@@ -51,27 +51,19 @@ voll läuft.
 - **Auswählen & Platzieren:** Klicke/Tippe auf eine der drei Formen unten und
   ziehe sie auf das 10x10-Gitter.  
 - **Loslassen:** Lasse die Maustaste oder den Finger los, um die Form im
-
-- **Release:** Release the mouse button or your finger to drop the block into the highlighted space.
   markierten Bereich abzulegen.
 
 ### Häufige Fragen
 
-- **F: Kann ich Blöcke drehen?**  
-  **A:** Nein. Das Fehlen von Rotationen ist Kern der Herausforderung – du
-  musst die Formen so akzeptieren, wie sie kommen.
+*   **F: Kann ich Blöcke drehen?**
+    *   **A:** Nein. Das Fehlen von Rotationen ist Kern der Herausforderung – du
+        musst die Formen so akzeptieren, wie sie kommen.
 
-    - **F: Wann ist das Spiel vorbei?**  
-  **A:** Sobald du eine neue Dreiergruppe Formen erhältst und **keine** davon
-  mehr legal auf dem Gitter platzieren kannst.
+*   **F: Wann ist das Spiel vorbei?**
+    *   **A:** Sobald du eine neue Dreiergruppe Formen erhältst und **keine** davon
+        mehr legal auf dem Gitter platzieren kannst.
 
-- **F: Wie erreiche ich hohe Punktzahlen?**  
-
-    - **A:** The key to a high score is longevity and combos. Survive as long as possible by keeping your board clean and open. Prioritize moves that clear multiple lines at once to get combo bonuses. For example, clearing two lines at once is worth more than clearing two separate lines in different moves.
-
-- **Q: What is the best strategy for a high score?**
-
-    - **A:** The game ends when you are given a set of three blocks and there is no legal space on the grid to place any of them.
-  **A:** Spiele möglichst lange, indem du das Feld sauber hältst und isolierte
-  Löcher vermeidest. Priorisiere Züge, die mehrere Reihen gleichzeitig räumen,
-  um Combo-Boni mitzunehmen.
+*   **F: Wie erreiche ich hohe Punktzahlen?**
+    *   **A:** Spiele möglichst lange, indem du das Feld sauber hältst und isolierte
+        Löcher vermeidest. Priorisiere Züge, die mehrere Reihen gleichzeitig räumen,
+        um Combo‑Boni mitzunehmen.
