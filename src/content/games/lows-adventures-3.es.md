@@ -39,7 +39,7 @@ la exploración cuidadosa y las rutas eficientes.
   límite del nivel.
 - Presta atención a posibles pistas sonoras que sugieran zonas ocultas.
 
-### FAQ
+### Preguntas frecuentes (FAQ)
 - P: ¿Cómo encuentro las salidas ocultas del juego?  
   R: Revisa techos, paredes falsas y salientes fuera de la pantalla; busca
   pequeñas diferencias en las baldosas.

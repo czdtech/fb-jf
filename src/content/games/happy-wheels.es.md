@@ -68,6 +68,9 @@ simples, puzles elaborados, rope swings, retos imposibles, deathruns, etc.
 
 ### **Guía de controles**
 
+Los controles son bastante estándar, pero cada personaje puede tener funciones
+específicas.
+
 **Controles principales**
 
 - **Acelerar:** Flecha `Arriba`
@@ -83,20 +86,6 @@ simples, puzles elaborados, rope swings, retos imposibles, deathruns, etc.
   especialmente tras eyectarse).
 - **Eyectar del vehículo:** `Z` (abandonar el vehículo).
 
-
-- **Eject**: `Z` key (abandons the vehicle)
-
-- **Secondary Special Abilities**: `Shift` and `Ctrl` keys (used for actions like moving legs or rotating arms after ejecting)
-
-- **Primary Special Ability**: `Space Bar` (e.g., Wheelchair Guy's jet, Segway Guy's jump)
-
-**Action Keys:**
-
-- **Lean Right / Forward**: `Right Arrow` key
-
-- **Eject**: `Z` key (abandons the vehicle)
-
-- **Secondary Special Abilities**: `Shift` and `Ctrl` keys (used for actions like moving legs or rotating arms after ejecting)
 ### **Preguntas frecuentes (FAQ)**
 
 **1. ¿Por qué el juego es tan violento?**  

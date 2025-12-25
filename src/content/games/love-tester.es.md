@@ -38,7 +38,7 @@ absoluto una compatibilidad real.
   resultados más divertidos.
 - Toma el resultado siempre como un chiste, nunca como un consejo real.
 
-### FAQ
+### Preguntas frecuentes (FAQ)
 - P: ¿La puntuación de compatibilidad es científicamente precisa?  
   R: No, es solo para entretenimiento.
 - P: ¿Puedo guardar o compartir los resultados?  

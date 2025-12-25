@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-12-24T20:09:15.306Z",
+  "generatedAt": "2025-12-25T01:09:53.570Z",
   "scope": "src/content/games/*.{ja,ko,es,fr,de}.md + src/pages/{ja,ko,es,fr,de}/**/*.astro + src/components/**/*.{ja,ko,es,fr,de}.astro + src/i18n/{ja,ko,es,fr,de}.json",
   "version": 1,
   "files": {
@@ -1941,12 +1941,6 @@
       "pureEnglishLines": 0,
       "englishQALines": 0
     },
-    "src/content/games/happy-wheels.es.md": {
-      "templateHeadings": 0,
-      "parentheticalEnglish": 0,
-      "pureEnglishLines": 2,
-      "englishQALines": 0
-    },
     "src/content/games/jet-boi.ko.md": {
       "templateHeadings": 0,
       "parentheticalEnglish": 1,
@@ -3051,31 +3045,13 @@
       "pureEnglishLines": 0,
       "englishQALines": 0
     },
-    "src/content/games/love-tester.es.md": {
-      "templateHeadings": 1,
-      "parentheticalEnglish": 0,
-      "pureEnglishLines": 0,
-      "englishQALines": 0
-    },
     "src/content/games/lows-adventures-2.de.md": {
       "templateHeadings": 1,
       "parentheticalEnglish": 0,
       "pureEnglishLines": 0,
       "englishQALines": 0
     },
-    "src/content/games/lows-adventures-2.es.md": {
-      "templateHeadings": 1,
-      "parentheticalEnglish": 0,
-      "pureEnglishLines": 0,
-      "englishQALines": 0
-    },
     "src/content/games/lows-adventures-3.de.md": {
-      "templateHeadings": 1,
-      "parentheticalEnglish": 0,
-      "pureEnglishLines": 0,
-      "englishQALines": 0
-    },
-    "src/content/games/lows-adventures-3.es.md": {
       "templateHeadings": 1,
       "parentheticalEnglish": 0,
       "pureEnglishLines": 0,
@@ -3112,12 +3088,6 @@
       "englishQALines": 0
     },
     "src/content/games/mahjong-titans.de.md": {
-      "templateHeadings": 1,
-      "parentheticalEnglish": 0,
-      "pureEnglishLines": 0,
-      "englishQALines": 0
-    },
-    "src/content/games/mahjong-titans.es.md": {
       "templateHeadings": 1,
       "parentheticalEnglish": 0,
       "pureEnglishLines": 0,
@@ -3489,12 +3459,6 @@
       "pureEnglishLines": 0,
       "englishQALines": 0
     },
-    "src/content/games/super-sprunki-brasil.es.md": {
-      "templateHeadings": 1,
-      "parentheticalEnglish": 0,
-      "pureEnglishLines": 0,
-      "englishQALines": 0
-    },
     "src/content/games/super-sprunki-brasil.fr.md": {
       "templateHeadings": 1,
       "parentheticalEnglish": 0,
@@ -3564,11 +3528,11 @@
   },
   "totals": {
     "totalFiles": 3460,
-    "flaggedFiles": 593,
+    "flaggedFiles": 587,
     "counts": {
-      "templateHeadings": 329,
+      "templateHeadings": 324,
       "parentheticalEnglish": 219,
-      "pureEnglishLines": 1180,
+      "pureEnglishLines": 1178,
       "englishQALines": 649
     }
   }

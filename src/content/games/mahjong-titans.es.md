@@ -40,7 +40,7 @@ nuevos movimientos y evitar caer en posiciones sin salida.
 - Controla dónde están las copias de cada ficha para no dejar aislada una
   ficha única.
 
-### FAQ
+### Preguntas frecuentes (FAQ)
 - P: ¿Qué fichas se consideran libres en Mahjong Titans?  
   R: Aquellas que no tienen ninguna ficha encima y tienen al menos un lateral
   libre (izquierda o derecha).

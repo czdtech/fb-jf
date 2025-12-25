@@ -64,10 +64,10 @@ ritmos de samba:
 - **Paleta musical rica:** beats, líneas de bajo, acordes y voces inspirados en
   estilos brasileños para dar rienda suelta a tu creatividad.
 - **Sistema de bonus lleno de sorpresas:** combos concretos desbloquean
-  animaciones o frases musicales extra, haciendo que el proceso de crear sea
+  animaciones o frases musicales extra, haciendo que el proceso de crear sea aún
+  más divertido.
 
-### Conclusion:
-  aún más divertido.
+### Conclusión
 
 Super Sprunki Brasil es el mod ideal si quieres experimentar con ritmos
 latinoamericanos dentro del universo Sprunki. Entra y deja que tus mezclas

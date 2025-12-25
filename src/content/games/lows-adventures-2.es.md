@@ -41,7 +41,7 @@ caminos secretos.
 - Repite los niveles buscando rutas más rápidas una vez que conozcas bien su
   diseño.
 
-### FAQ
+### Preguntas frecuentes (FAQ)
 - P: ¿Cómo llego a las habitaciones secretas del juego?  
   R: Fíjate en bloques agrietados y salientes fuera de la pantalla; prueba
 en techos y uniones de baldosas.
