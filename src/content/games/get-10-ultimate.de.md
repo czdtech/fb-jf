@@ -42,26 +42,18 @@ wahre Reiz liegt darin, wie weit du darüber hinauskommst.
 
 - **Zahlen zusammenführen:** Tippe/klicke auf eine Gruppe aus zwei oder mehr
   benachbarten Kacheln mit derselben Zahl. Die neue, höhere Zahl erscheint
-
-- **Merge Numbers:** Click on any group of two or more adjacent tiles that have the same number. The group will merge into the spot where you clicked.
   genau an der Stelle, auf die du getippt hast.
 
 ### Häufige Fragen (FAQ)
 
-- **F: Was ist das eigentliche Ziel?**  
-  **A:** Zunächst die 10 zu bilden – danach so weit wie möglich höhere Zahlen zu
-  erreichen, bevor das Board blockiert.
+*   **F: Was ist das eigentliche Ziel?**
+    *   **A:** Zunächst die 10 zu bilden – danach so weit wie möglich höhere Zahlen
+        zu erreichen, bevor das Board blockiert.
 
-    - **F: Wann ist das Spiel vorbei?**  
-  **A:** Wenn es nirgendwo mehr zwei benachbarte Kacheln mit derselben Zahl
-  gibt und somit kein Zug mehr möglich ist.
+*   **F: Wann ist das Spiel vorbei?**
+    *   **A:** Wenn es nirgendwo mehr zwei benachbarte Kacheln mit derselben Zahl
+        gibt und somit kein Zug mehr möglich ist.
 
-- **F: Entsteht die neue Kachel zufällig?**  
-
-    - **A:** No, the new, higher-numbered tile will appear in the specific spot within the group that you clicked on.
-
-- **Q: Does the new tile appear in a random spot?**
-
-    - **A:** The game ends when there are no more possible moves, which means there are no two adjacent tiles with the same number anywhere on the board.
-  **A:** Nein, sie erscheint immer genau auf dem Feld, das du innerhalb der
-  Gruppe angeklickt hast.
+*   **F: Entsteht die neue Kachel zufällig?**
+    *   **A:** Nein, sie erscheint immer genau auf dem Feld, das du innerhalb der
+        Gruppe angeklickt hast.

@@ -52,25 +52,17 @@ Plattformen zu prallen.
 *   **Turm drehen:** Linke Maustaste/Finger halten und nach links/rechts ziehen,
     um den Helix-Turm zu drehen.
 
-
-- **Rotate Tower:** Click and hold the left mouse button (or your finger) and drag left or right to rotate the helix tower.
 ### Häufige Fragen
 
-*   **F: Was ist das Ziel?**  
-    **A:** Den Ball sicher bis ganz nach unten zu führen, indem du ihn durch
-    möglichst viele Lücken fallen lässt.
+*   **F: Was ist das Ziel?**
+    *   **A:** Den Ball sicher bis ganz nach unten zu führen, indem du ihn durch
+        möglichst viele Lücken fallen lässt.
 
-    - **F: Was passiert bei roten Plattformen?**  
-    **A:** Landest du auf einem roten Feld, ist das Spiel vorbei – außer dein
-    Ball befindet sich gerade im Feuerballmodus.
+*   **F: Was passiert bei roten Plattformen?**
+    *   **A:** Landest du auf einem roten Feld, ist das Spiel vorbei – außer dein
+        Ball befindet sich gerade im Feuerballmodus.
 
-*   **F: Wie aktiviere ich den Feuerballmodus?**  
-
-    - **A:** By falling through a sequence of multiple platforms without touching any of them. You will see your ball ignite, indicating that you can now safely smash through any platform, including the red ones.
-
-- **Q: How do I activate the fireball mode?**
-
-    - **A:** Your ball will shatter, and the game is over. You must avoid the red platforms at all costs, unless your fireball mode is active.
-    **A:** Lass den Ball mehrere Plattformen hintereinander durchfallen, ohne
-    zu landen. Zündet der Ball, kannst du kurzzeitig durch alle Plattformen
-    hindurchbrechen.
+*   **F: Wie aktiviere ich den Feuerballmodus?**
+    *   **A:** Lass den Ball mehrere Plattformen hintereinander durchfallen, ohne
+        zu landen. Zündet der Ball, kannst du kurzzeitig durch alle Plattformen
+        hindurchbrechen.

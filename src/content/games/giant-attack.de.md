@@ -44,26 +44,18 @@ fallen deine Projektile aus.
 - **Bewegung:** Ziehe deinen Helden mit Maus oder Finger nach links und rechts
   über das Feld, um Verbündete zu sammeln und Angriffen auszuweichen.
 - **Angriff:** Läuft automatisch – dein Charakter wirft kontinuierlich Waffen,
-
-- **Attacking:** Attacking is automatic. Your character will continuously throw weapons at the enemy as long as you are alive.
   solange du im Spiel bleibst.
 
 ### Häufige Fragen (FAQ)
 
-- **F: Wie greife ich den Riesen an?**  
-  **A:** Du musst keinen extra Knopf drücken – der Held wirft von selbst. Dein
-  Fokus liegt auf dem Positionieren und Einsammeln.
+*   **F: Wie greife ich den Riesen an?**
+    *   **A:** Du musst keinen extra Knopf drücken – der Held wirft von selbst.
+        Dein Fokus liegt auf dem Positionieren und Einsammeln.
 
-    - **F: Warum mache ich so wenig Schaden?**  
-  **A:** Vermutlich bist du noch zu klein. Sammle mehr Verbündete, um deinen
-  Helden und damit auch deine Projektile zu vergrößern.
+*   **F: Warum mache ich so wenig Schaden?**
+    *   **A:** Vermutlich bist du noch zu klein. Sammle mehr Verbündete, um deinen
+        Helden und damit auch deine Projektile zu vergrößern.
 
-- **F: Wann ist ein Level gewonnen?**  
-
-    - **A:** You win by depleting the giant's health bar to zero before it defeats you.
-
-- **Q: How do I win a level?**
-
-    - **A:** You need to grow bigger! The more allies you collect, the larger and more powerful your character becomes, and the more damage you will deal. If you stay small, your attacks will be too weak.
-  **A:** Wenn die Lebensleiste des Riesen auf null sinkt, bevor er dich selbst
-  ausschaltet.
+*   **F: Wann ist ein Level gewonnen?**
+    *   **A:** Wenn die Lebensleiste des Riesen auf null sinkt, bevor er dich selbst
+        ausschaltet.

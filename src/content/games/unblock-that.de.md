@@ -36,22 +36,14 @@ Das Spiel wird mit einfacher Drag-and-Drop-Steuerung gespielt.
 ### Häufige Fragen (FAQ)
 
 
-- **A:** Your performance is usually rated by the number of moves you take to solve the puzzle. The fewer moves you use, the better your score or star rating will be.
+*   **F: Was ist das genaue Ziel?**
+    *   **A:** Den roten Block so weit zu verschieben, dass er den Ausgang am Rand
+        des Brettes erreichen kann.
 
-    - **Q: How is the score determined?**
+*   **F: Warum kann ich manche Blöcke nicht bewegen?**
+    *   **A:** Blöcke lassen sich nur entlang ihrer Längsseite schieben. Ist kein
+        Platz in dieser Richtung frei, musst du zunächst andere Klötze wegräumen.
 
-- **A:** Blocks can only move along their long axis (a vertical block moves up/down, a horizontal block moves left/right). Make sure there are no other blocks in its path.
-
-    - **Q: Why can't I move a block?**
-
-- **A:** To slide the red block all the way to the right so it can exit the board.
-
-    - **Q: What is the goal of the game?**
-**Was ist das genaue Ziel?**  
-Den roten Block so weit zu verschieben, dass er den Ausgang am Rand des Brettes erreichen kann.
-
-**Warum kann ich manche Blöcke nicht bewegen?**  
-Blöcke lassen sich nur entlang ihrer Längsseite schieben. Ist kein Platz in dieser Richtung frei, musst du zunächst andere Klötze wegräumen.
-
-**Wozu dienen die Zugzähler oder Sterne?**  
-Viele Varianten bewerten dich nach der Anzahl der Züge. Je weniger du benötigst, desto besser fällt deine Bewertung aus.
+*   **F: Wozu dienen die Zugzähler oder Sterne?**
+    *   **A:** Viele Varianten bewerten dich nach der Anzahl der Züge. Je weniger
+        du benötigst, desto besser fällt deine Bewertung aus.

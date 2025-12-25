@@ -56,28 +56,20 @@ hunderte knifflige Aufgaben.
   benachbartes klicken, oder per Drag-and-drop verschieben. Der Tausch ist nur
   gültig, wenn mindestens eine Dreier-Kombo entsteht.
 - **Power-ups auslösen:** Spezialsteine wie normale Juwelen tauschen; um zwei
-
-- **Activate Power-ups:** Swap a special jewel just like any other jewel to activate its effect. To combine power-ups, swap two adjacent special jewels with each other.
   Power-ups zu kombinieren, vertausche sie direkt miteinander.
 
 ### Häufige Fragen
 
-- **F: Wie erstelle ich eine Bombe?**  
-  **A:** Durch ein Match aus fünf Juwelen in "L"- oder "T"-Form – die Bombe
-  explodiert im 3x3-Bereich.
+*   **F: Wie erstelle ich eine Bombe?**
+    *   **A:** Durch ein Match aus fünf Juwelen in „L“- oder „T“-Form – die Bombe
+        explodiert im 3x3‑Bereich.
 
-    - **F: Was macht der regenbogenfarbene Stein?**  
-  **A:** Das ist eine Farb-Bombe. Du erhältst sie durch fünf gleiche Juwelen in
-  einer Linie. Tausch sie mit einem beliebigen Stein, um alle Juwelen dieser
-  Farbe vom Feld zu entfernen.
+*   **F: Was macht der regenbogenfarbene Stein?**
+    *   **A:** Das ist eine Farb‑Bombe. Du erhältst sie durch fünf gleiche Juwelen in
+        einer Linie. Tausch sie mit einem beliebigen Stein, um alle Juwelen dieser
+        Farbe vom Feld zu entfernen.
 
-- **F: Warum sind mir die Züge ausgegangen?**  
-
-    - **A:** Many levels in Jewel Academy are move-limited. You must complete the specific level objective before you use up all your allotted moves. If you fail to do so, you will have to use a life to try again.
-
-- **Q: Why did I run out of moves?**
-
-    - **A:** That is a Color Bomb, created by matching five jewels in a straight line (horizontal or vertical). Swap it with any adjacent jewel, and it will remove all jewels of that color from the entire board.
-  **A:** Viele Level haben ein Zuglimit. Du musst das Ziel erreichen, bevor
-  deine Züge aufgebraucht sind – sonst verlierst du ein Leben und musst den
-  Versuch wiederholen.
+*   **F: Warum sind mir die Züge ausgegangen?**
+    *   **A:** Viele Level haben ein Zuglimit. Du musst das Ziel erreichen, bevor
+        deine Züge aufgebraucht sind – sonst verlierst du ein Leben und musst den
+        Versuch wiederholen.

@@ -54,28 +54,20 @@ gezielt an der Frontlinie positionierst.
 - **Mergen:** Ziehe eine Einheit auf eine identische Einheit, um sie zur
   nächsthöheren Stufe zu verschmelzen.
 - **Platzieren:** Ziehe Einheiten vom Reservegitter auf freie Verteidigungsfelder
-
-- **Deploy Unit:** Click and drag a unit from your reserve grid to an empty defensive slot on the battlefield.
   auf dem Schlachtfeld.
 
 ### Häufige Fragen
 
-*   **F: Wie bekomme ich stärkere Verteidiger?**  
-    **A:** Durch Mergen: Zwei Level-1-Einheiten werden zu Level 2, zwei Level 2
-    zu Level 3 usw. Je höher das Level, desto stärker die Einheit.
+*   **F: Wie bekomme ich stärkere Verteidiger?**
+    *   **A:** Durch Mergen: Zwei Level‑1‑Einheiten werden zu Level 2, zwei Level 2
+        zu Level 3 usw. Je höher das Level, desto stärker die Einheit.
 
-    - **F: Warum kann ich keine Einheiten direkt auf den Weg setzen?**  
-    **A:** Verteidiger dürfen nur auf die dafür vorgesehenen Felder neben dem
-    Pfad gestellt werden, nicht direkt auf die Laufroute der Gegner.
+*   **F: Warum kann ich keine Einheiten direkt auf den Weg setzen?**
+    *   **A:** Verteidiger dürfen nur auf die dafür vorgesehenen Felder neben dem
+        Pfad gestellt werden, nicht direkt auf die Laufroute der Gegner.
 
-*   **F: Ich werde von Gegnerwellen überrannt – was tun?**  
-
-    - **A:** Focus on merging your units to the highest possible level. A single high-level unit is often much more powerful than several low-level ones. Make sure all your available defensive slots are filled, and continuously buy and merge new units as you earn coins.
-
-- **Q: I'm being overwhelmed by enemies. What should I do?**
-
-    - **A:** You can only place your defensive units in the designated square slots along the path, not on the path itself where the enemies walk.
-    **A:** Konzentriere dich darauf, wenige, aber hochstufige Einheiten zu
-    bauen, statt viele schwache. Achte darauf, alle verfügbaren Slots zu
-    belegen und kontinuierlich neue Einheiten zu kaufen und zu merg en, sobald
-    du Münzen erhältst.
+*   **F: Ich werde von Gegnerwellen überrannt – was tun?**
+    *   **A:** Konzentriere dich darauf, wenige, aber hochstufige Einheiten zu
+        bauen, statt viele schwache. Achte darauf, alle verfügbaren Slots zu
+        belegen und kontinuierlich neue Einheiten zu kaufen und zu merg en, sobald
+        du Münzen erhältst.

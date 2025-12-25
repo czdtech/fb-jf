@@ -58,21 +58,15 @@ Du bedienst alles über Buttons auf dem Bildschirm.
 ### Häufige Fragen (FAQ)
 
 *   **F: Was ist die beste Hand im Poker?**
-    **A:** Ein Royal Flush (A, K, Q, J, 10 in derselben Farbe) ist die höchste
-    mögliche Hand.
+    *   **A:** Ein Royal Flush (A, K, Q, J, 10 in derselben Farbe) ist die höchste
+        mögliche Hand.
 
-    - **F: Was bedeutet „bluffen“?**
-    **A:** Beim Bluff tust du so, als hättest du ein sehr starkes Blatt, indem
-    du offensiv setzt. Ziel ist es, Gegner mit möglicherweise besseren Karten
-    zum Aufgeben zu bringen.
+*   **F: Was bedeutet „bluffen“?**
+    *   **A:** Beim Bluff tust du so, als hättest du ein sehr starkes Blatt, indem
+        du offensiv setzt. Ziel ist es, Gegner mit möglicherweise besseren Karten
+        zum Aufgeben zu bringen.
 
 *   **F: Wann sollte ich passen (Fold)?**
-
-    - **A:** You should fold when you have a very weak hand (e.g., no pairs and no chance of a straight or flush) and another player has made a large bet. It's better to lose the small amount you've already bet than to risk losing much more on a bad hand.
-
-- **Q: When should I fold?**
-
-    - **A:** Bluffing is a key part of poker. It means you are pretending to have a strong hand by betting aggressively, hoping that your opponents will believe you and fold their (potentially better) hands.
-    **A:** Wenn dein Blatt sehr schwach ist (kein Paar, keine realistische
-    Chance auf Straße/Flush) und Gegner hoch setzen, ist es oft besser, den
-    kleinen Verlust zu akzeptieren, statt noch mehr Dublonen zu riskieren.
+    *   **A:** Wenn dein Blatt sehr schwach ist (kein Paar, keine realistische
+        Chance auf Straße/Flush) und Gegner hoch setzen, ist es oft besser, den
+        kleinen Verlust zu akzeptieren, statt noch mehr Dublonen zu riskieren.

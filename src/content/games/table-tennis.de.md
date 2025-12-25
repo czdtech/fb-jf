@@ -32,21 +32,18 @@ Table Tennis bringt eine vereinfachte, aber flotte Tischtennis‑Simulation auf 
 - **Schläger bewegen:** Bewege den Mauszeiger nach links/rechts auf deiner Tischhälfte.
 - **Ball treffen:** Es reicht, den Schläger in die Flugbahn zu bringen – der Schlag erfolgt automatisch, Winkel und Tempo hängen von deiner Position und Bewegung ab.
 
-
-- **Hit the Ball:** There is no need to click. Position your paddle in the ball's path, and it will automatically hit it on contact. The angle and speed of the return are influenced by where and how fast you move your paddle into the ball.
 ### Häufige Fragen (FAQ)
 
-- **Wie mache ich Punkte?**  
-  Du punktest, wenn der Gegner den Ball nicht korrekt zurückspielt – etwa ins Netz, ins Aus oder wenn der Ball zweimal auf seiner Seite aufspringt.
+*   **F: Wie mache ich Punkte?**
+    *   **A:** Du punktest, wenn der Gegner den Ball nicht korrekt zurückspielt –
+        etwa ins Netz, ins Aus oder wenn der Ball zweimal auf seiner Seite aufspringt.
 
-    - **Kann ich Effet/Spin erzeugen?**  
-  Zwar gibt es keine eigene Spintaste, aber schnelle, seitliche Bewegungen beim Schlag können Flugbahn und Tempo beeinflussen und Rückschläge erschweren.
+*   **F: Kann ich Effet/Spin erzeugen?**
+    *   **A:** Zwar gibt es keine eigene Spintaste, aber schnelle, seitliche
+        Bewegungen beim Schlag können Flugbahn und Tempo beeinflussen und
+        Rückschläge erschweren.
 
-- **Bis wie viel wird gespielt?**  
-
-    - **A:** Typically, a game is won by the first player to reach a set number of points (e.g., 11 or 21), but you must win by at least two points.
-
-- **Q: What is the winning score?**
-
-    - **A:** While the game may not have an explicit "spin" button, moving your paddle quickly as you strike the ball can influence its speed and angle, creating a similar effect and making it harder for the opponent to return.
-  Je nach Version wird bis zu einer festgelegten Punktzahl (z. B. 11 oder 21) gespielt, meist mit der Bedingung, mit mindestens zwei Punkten Vorsprung zu gewinnen.
+*   **F: Bis wie viel wird gespielt?**
+    *   **A:** Je nach Version wird bis zu einer festgelegten Punktzahl
+        (z. B. 11 oder 21) gespielt, meist mit der Bedingung, mit mindestens zwei
+        Punkten Vorsprung zu gewinnen.

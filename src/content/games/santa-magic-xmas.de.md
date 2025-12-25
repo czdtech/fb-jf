@@ -50,24 +50,16 @@ Santa Magic Xmas ist ein fröhliches Weihnachts-Match-3, das dich direkt in
 *   **Tauschen:** Klicke auf ein Symbol und ziehe es auf ein benachbartes. Der
     Tausch findet nur statt, wenn dabei ein gültiges Match entsteht.
 
-
-- **Swap Items:** Click and drag an item to swap it with an adjacent one. The swap will only be successful if it creates a valid match.
 ### Häufige Fragen (FAQ)
 
 *   **F: Wie entferne ich Eisblöcke?**
-    **A:** Erzeuge ein Match direkt neben dem Eis oder darauf. Mehrere Treffer
-    sind nötig, um dickes Eis komplett zu entfernen.
+    *   **A:** Erzeuge ein Match direkt neben dem Eis oder darauf. Mehrere Treffer
+        sind nötig, um dickes Eis komplett zu entfernen.
 
-    - **F: Was ist die stärkste Kombination?**
-    **A:** Zwei Farb-Bomben zusammen räumen in der Regel das gesamte Board –
-    perfekt, wenn du kurz vor dem Scheitern stehst.
+*   **F: Was ist die stärkste Kombination?**
+    *   **A:** Zwei Farb‑Bomben zusammen räumen in der Regel das gesamte Board –
+        perfekt, wenn du kurz vor dem Scheitern stehst.
 
 *   **F: Was passiert, wenn mir die Züge ausgehen?**
-
-    - **A:** If you don't complete the level's objective within the move limit, you will have to restart the level.
-
-- **Q: What happens if I run out of moves?**
-
-    - **A:** Swapping two color bombs together is the most powerful move, as it will clear every single item from the board.
-    **A:** Hast du das Ziel bis dahin nicht erreicht, musst du das Level neu
-    starten (oder je nach Version zusätzliche Züge kaufen).
+    *   **A:** Hast du das Ziel bis dahin nicht erreicht, musst du das Level neu
+        starten (oder je nach Version zusätzliche Züge kaufen).

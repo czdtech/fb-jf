@@ -54,27 +54,19 @@ wie sie Welle um Welle automatisch bekämpfen.
 - **Helden merg en:** Ziehe einen Helden auf einen identischen Helden, um eine
   höhere Stufe zu erhalten.  
 - **Einsetzen/Zurückziehen:** Ziehe Helden vom Reservegitter auf die
-
-- **Deploy/Undeploy:** Drag a hero from your reserve board to an empty slot on the battlefield to deploy them. You can also drag them back to the reserve board to swap them out.
   Kampffelder und bei Bedarf wieder zurück, um deine Formation anzupassen.
 
 ### Häufige Fragen
 
-*   **F: Wie bekomme ich extrem starke Helden?**  
-    **A:** Durch konsequentes Mergen. Zwei Level 1 ergeben Level 2, zwei Level 2
-    ergeben Level 3 usw. Je höher die Stufe, desto mächtiger der Held.
+*   **F: Wie bekomme ich extrem starke Helden?**
+    *   **A:** Durch konsequentes Mergen. Zwei Level 1 ergeben Level 2, zwei Level 2
+        ergeben Level 3 usw. Je höher die Stufe, desto mächtiger der Held.
 
-    - **F: Viele schwache Helden oder wenige starke?**  
-    **A:** Wenige hochstufige Helden sind in der Regel besser als viele
-    schwache. Konzentriere dich darauf, dein Maximumlevel anzuheben, statt alle
-    Slots mit Level-1-Einheiten zu füllen.
+*   **F: Viele schwache Helden oder wenige starke?**
+    *   **A:** Wenige hochstufige Helden sind in der Regel besser als viele
+        schwache. Konzentriere dich darauf, dein Maximumlevel anzuheben, statt alle
+        Slots mit Level‑1‑Einheiten zu füllen.
 
-*   **F: Warum greifen meine Helden manchmal nicht an?**  
-
-    - **A:** This usually happens between waves. Once the next wave of enemies appears, your heroes will automatically resume their attack.
-
-- **Q: Why did my heroes stop attacking?**
-
-    - **A:** A few strong, high-level heroes are almost always more effective than a board full of weak, low-level ones. Focus on merging up to the highest level you can achieve.
-    **A:** Zwischen den Wellen kann es kurze Pausen geben. Sobald die nächste
-    Gegnerwelle erscheint, setzen deine Helden den Angriff automatisch fort.
+*   **F: Warum greifen meine Helden manchmal nicht an?**
+    *   **A:** Zwischen den Wellen kann es kurze Pausen geben. Sobald die nächste
+        Gegnerwelle erscheint, setzen deine Helden den Angriff automatisch fort.

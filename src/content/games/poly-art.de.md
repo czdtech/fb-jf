@@ -48,26 +48,18 @@ Poly Art (auch als Poly Puzzle bekannt) ist ein optisch beeindruckendes,
     Maus nach links, rechts, oben oder unten, um den Polygon-Haufen zu drehen.
 *   **Drehen (Mobil):** Wische mit dem Finger in die gewünschte Richtung.
 
-
-- **Rotate Puzzle (Mobile):** Swipe your finger across the screen in any direction to rotate the puzzle.
 ### Häufige Fragen (FAQ)
 
 *   **F: Was ist das Ziel des Spiels?**
-    **A:** Du sollst die 3D-Scherben so ausrichten, dass sie ein vollständiges,
-    erkennbares Bild ergeben.
+    *   **A:** Du sollst die 3D‑Scherben so ausrichten, dass sie ein vollständiges,
+        erkennbares Bild ergeben.
 
-    - **F: Ich sehe das Motiv nicht – gibt es Hinweise?**
-    **A:** Viele Poly-Art-Versionen bieten ein Hinweissystem. Ein Tipp kann das
-    Objekt etwa automatisch näher an die richtige Ausrichtung drehen oder kurz
-    das fertige Bild anzeigen.
+*   **F: Ich sehe das Motiv nicht – gibt es Hinweise?**
+    *   **A:** Viele Poly‑Art‑Versionen bieten ein Hinweissystem. Ein Tipp kann das
+        Objekt etwa automatisch näher an die richtige Ausrichtung drehen oder kurz
+        das fertige Bild anzeigen.
 
 *   **F: Gibt es Zeitlimits oder Fehlerstrafen?**
-
-    - **A:** No. Poly Art games are designed to be stress-free. There are no time limits, scores, or penalties, allowing you to solve the puzzles at your own pace.
-
-- **Q: Is there a time limit or a penalty for wrong moves?**
-
-    - **A:** Many versions of Poly Art games include a hint system. If available, using a hint might slowly rotate the puzzle closer to the correct orientation or flash the final image for a second.
-    **A:** Nein, Poly Art ist als stressfreies Puzzle gedacht. Es gibt in der
-    Regel weder Zeitdruck noch Strafpunkte – du kannst in deinem eigenen Tempo
-    knobeln.
+    *   **A:** Nein, Poly Art ist als stressfreies Puzzle gedacht. Es gibt in der
+        Regel weder Zeitdruck noch Strafpunkte – du kannst in deinem eigenen Tempo
+        knobeln.

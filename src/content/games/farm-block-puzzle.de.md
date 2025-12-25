@@ -46,25 +46,17 @@ zu erzielen.
 - **Blöcke platzieren:** Ziehe mit Maus oder Finger eine Form aus der unteren
   Leiste auf das 10x10-Gitter und lasse sie auf einem freien Bereich los.
 
-
-- **Place Blocks:** Use your mouse or finger to drag a shape from the bottom area and drop it onto an empty space on the 10x10 grid.
 ### Häufige Fragen (FAQ)
 
-- **F: Was ist das Ziel des Spiels?**  
-  **A:** Möglichst viele Punkte zu erzielen, indem du Blöcke so platzierst,
-  dass Linien gelöscht werden. Das Spiel endet, wenn keiner der drei aktuellen
-  Blöcke mehr auf das Feld passt.
+*   **F: Was ist das Ziel des Spiels?**
+    *   **A:** Möglichst viele Punkte zu erzielen, indem du Blöcke so platzierst,
+        dass Linien gelöscht werden. Das Spiel endet, wenn keiner der drei aktuellen
+        Blöcke mehr auf das Feld passt.
 
-    - **F: Kann ich Blöcke drehen?**  
-  **A:** Nein. Die Herausforderung besteht gerade darin, die Teile in ihrer
-  festen Ausrichtung clever einzubauen.
+*   **F: Kann ich Blöcke drehen?**
+    *   **A:** Nein. Die Herausforderung besteht gerade darin, die Teile in ihrer
+        festen Ausrichtung clever einzubauen.
 
-- **F: Wie komme ich zu hohen Punktzahlen?**  
-
-    - **A:** By surviving as long as possible and by creating combos. Clearing multiple lines with a single piece gives a significant score bonus.
-
-- **Q: How do I get the highest score?**
-
-    - **A:** No. The challenge comes from fitting the pieces exactly as they are presented to you.
-  **A:** Überlebe möglichst lange und spiele gezielt auf Kombos. Mehrere Linien
-  auf einmal zu löschen bringt deutlich mehr Punkte als viele einzelne Clears.
+*   **F: Wie komme ich zu hohen Punktzahlen?**
+    *   **A:** Überlebe möglichst lange und spiele gezielt auf Kombos. Mehrere Linien
+        auf einmal zu löschen bringt deutlich mehr Punkte als viele einzelne Clears.

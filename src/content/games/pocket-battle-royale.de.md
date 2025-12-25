@@ -51,19 +51,13 @@ Pocket Battle Royale ist ein schneller 2D-Shooter aus der Vogelperspektive, der
 ### Häufige Fragen (FAQ)
 
 *   **F: Was ist der schrumpfende Kreis auf der Karte?**
-    **A:** Das ist die Safezone. Du musst dich innerhalb dieses Bereiches
-    aufhalten. Außerhalb nimmt deine Gesundheit rapide ab.
+    *   **A:** Das ist die Safezone. Du musst dich innerhalb dieses Bereiches
+        aufhalten. Außerhalb nimmt deine Gesundheit rapide ab.
 
-    - **F: Wie bekomme ich bessere Waffen und mehr Heilung?**
-    **A:** Sämtliche Items liegen auf der Map verteilt. Durchsuche Gebäude und
-    offene Flächen nach Waffen, Munition und Medipacks.
+*   **F: Wie bekomme ich bessere Waffen und mehr Heilung?**
+    *   **A:** Sämtliche Items liegen auf der Map verteilt. Durchsuche Gebäude und
+        offene Flächen nach Waffen, Munition und Medipacks.
 
 *   **F: Was ist das Ziel des Spiels?**
-
-    - **A:** To be the last player alive. Eliminate all other opponents to win the match.
-
-- **Q: What is the objective of the game?**
-
-    - **A:** All items must be found on the map. Explore the area to find weapons, ammunition, and health packs randomly scattered on the ground.
-    **A:** Überlebe als Letzter. Nur wer alle anderen Spieler eliminiert oder
-    sie den Gefahren der Zone überlässt, gewinnt die Runde.
+    *   **A:** Überlebe als Letzter. Nur wer alle anderen Spieler eliminiert oder
+        sie den Gefahren der Zone überlässt, gewinnt die Runde.

@@ -48,26 +48,18 @@ Quest Bingo bringt das klassische Bingo in ein Level- und Quest-System.
 *   **Bingo ausrufen:** Sobald du ein Gewinnmuster vervollständigt hast,
     klickst du auf den „Bingo“-Button, um deinen Gewinn zu sichern.
 *   **Booster aktivieren:** Klicke auf die aufgeladenen Booster-Icons, um ihre
-
-- **Activate Boosters:** Click on the charged booster icons (usually at the bottom of the screen) to use them.
     Effekte zu nutzen.
 
 ### Häufige Fragen (FAQ)
 
 *   **F: Was bedeutet „dauben“?**
-    **A:** „Daubing“ ist der klassische Begriff im Bingo für das Markieren
-    einer Zahl auf der Karte, nachdem sie ausgerufen wurde.
+    *   **A:** „Daubing“ ist der klassische Begriff im Bingo für das Markieren
+        einer Zahl auf der Karte, nachdem sie ausgerufen wurde.
 
-    - **F: Wofür sind die Puzzleteile?**
-    **A:** Sammelst du alle Teile eines Sets, setzt sich daraus ein Bild
-    zusammen und du erhältst meist zusätzliche Belohnungen.
+*   **F: Wofür sind die Puzzleteile?**
+    *   **A:** Sammelst du alle Teile eines Sets, setzt sich daraus ein Bild
+        zusammen und du erhältst meist zusätzliche Belohnungen.
 
 *   **F: Wie bekomme ich mehr Booster?**
-
-    - **A:** Boosters are usually earned by daubing special numbers, completing levels, or through daily login rewards and bonus wheels.
-
-- **Q: How do I get more boosters?**
-
-    - **A:** Puzzle pieces are collectibles. When you collect all the pieces of a specific puzzle, you will typically unlock a beautiful picture and receive a bonus reward.
-    **A:** Booster lädst du durch das Markieren bestimmter Zahlen, den Abschluss
-    von Leveln oder durch tägliche Belohnungen und Glücksrad-/Bonus-Events auf.
+    *   **A:** Booster lädst du durch das Markieren bestimmter Zahlen, den Abschluss
+        von Leveln oder durch tägliche Belohnungen und Glücksrad‑/Bonus‑Events auf.

@@ -35,18 +35,12 @@ Nutze Mausklicks oder Wischgesten, um zwei benachbarte Tiere zu tauschen. Entste
 
 ### Häufige Fragen (FAQ)
 
+*   **F: Was ist das Ziel des Spiels?**
+    *   **A:** Das Hauptziel ist, drei oder mehr gleiche Meeresbewohner in eine
+        Reihe oder Spalte zu bringen, um Punkte zu sammeln und ins nächste Level
+        vorzurücken.
 
-- **A:** Clearing more than three animals at once or creating combos will award you with more points.
-
-    - **Q: How do I get more points?**
-
-- **A:** The main goal is to align three or more similar sea animals to score points and advance to the next level.
-
-    - **Q: What is the goal of the game?**
-**Was ist das Ziel des Spiels?**
-
-In der Regel musst du eine bestimmte Punktzahl erreichen, spezielle Steine abbauen oder Missionsziele erfüllen, bevor dir Züge oder Zeit ausgehen.
-
-**Wie bekomme ich mehr Punkte?**
-
-Richte deinen Blick auf Kombinationen aus vier oder mehr gleichen Symbolen und auf Kettenreaktionen. Solche Züge erzeugen Power‑Ups und liefern deutlich höhere Punktzahlen als einfache Dreiermatches.
+*   **F: Wie bekomme ich mehr Punkte?**
+    *   **A:** Richte deinen Blick auf Kombinationen aus vier oder mehr gleichen
+        Symbolen und auf Kettenreaktionen. Solche Züge erzeugen Power‑Ups und
+        liefern deutlich höhere Punktzahlen als einfache Dreiermatches.
