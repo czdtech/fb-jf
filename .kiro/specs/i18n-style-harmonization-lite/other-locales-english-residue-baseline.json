@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-12-25T01:54:56.205Z",
+  "generatedAt": "2025-12-25T04:51:55.143Z",
   "scope": "src/content/games/*.{ja,ko,es,fr,de}.md + src/pages/{ja,ko,es,fr,de}/**/*.astro + src/components/**/*.{ja,ko,es,fr,de}.astro + src/i18n/{ja,ko,es,fr,de}.json",
   "version": 1,
   "files": {
@@ -26,12 +26,6 @@
       "parentheticalEnglish": 0,
       "pureEnglishLines": 18,
       "englishQALines": 10
-    },
-    "src/content/games/clicker-heroes.fr.md": {
-      "templateHeadings": 0,
-      "parentheticalEnglish": 2,
-      "pureEnglishLines": 26,
-      "englishQALines": 0
     },
     "src/content/games/fiddlebops-sprunksters-remix.ko.md": {
       "templateHeadings": 0,
@@ -87,18 +81,6 @@
       "pureEnglishLines": 7,
       "englishQALines": 7
     },
-    "src/content/games/sprunki-mod-BFDI.fr.md": {
-      "templateHeadings": 0,
-      "parentheticalEnglish": 0,
-      "pureEnglishLines": 14,
-      "englishQALines": 0
-    },
-    "src/content/games/super-smash-flash-2-v09.fr.md": {
-      "templateHeadings": 0,
-      "parentheticalEnglish": 0,
-      "pureEnglishLines": 14,
-      "englishQALines": 0
-    },
     "src/content/games/fleeing-the-complex.ko.md": {
       "templateHeadings": 0,
       "parentheticalEnglish": 0,
@@ -135,12 +117,6 @@
       "pureEnglishLines": 6,
       "englishQALines": 6
     },
-    "src/content/games/sprunki-play-random.fr.md": {
-      "templateHeadings": 0,
-      "parentheticalEnglish": 0,
-      "pureEnglishLines": 12,
-      "englishQALines": 0
-    },
     "src/content/games/duck-life-4.ko.md": {
       "templateHeadings": 0,
       "parentheticalEnglish": 0,
@@ -158,12 +134,6 @@
       "parentheticalEnglish": 0,
       "pureEnglishLines": 6,
       "englishQALines": 5
-    },
-    "src/content/games/sprunki-rotrizi-5.fr.md": {
-      "templateHeadings": 0,
-      "parentheticalEnglish": 0,
-      "pureEnglishLines": 11,
-      "englishQALines": 0
     },
     "src/content/games/yojou-sprunki-mustard.ko.md": {
       "templateHeadings": 0,
@@ -200,18 +170,6 @@
       "parentheticalEnglish": 0,
       "pureEnglishLines": 7,
       "englishQALines": 3
-    },
-    "src/content/games/sprunki-retake-new-human.fr.md": {
-      "templateHeadings": 0,
-      "parentheticalEnglish": 0,
-      "pureEnglishLines": 10,
-      "englishQALines": 0
-    },
-    "src/content/games/super-smash-flash-2-v08.fr.md": {
-      "templateHeadings": 0,
-      "parentheticalEnglish": 0,
-      "pureEnglishLines": 10,
-      "englishQALines": 0
     },
     "src/content/games/tower-crash-3d.de.md": {
       "templateHeadings": 0,
@@ -375,12 +333,6 @@
       "pureEnglishLines": 4,
       "englishQALines": 4
     },
-    "src/content/games/swap-sprunkgerny.fr.md": {
-      "templateHeadings": 0,
-      "parentheticalEnglish": 0,
-      "pureEnglishLines": 8,
-      "englishQALines": 0
-    },
     "src/content/games/the-sea-rush.ko.md": {
       "templateHeadings": 0,
       "parentheticalEnglish": 0,
@@ -398,12 +350,6 @@
       "parentheticalEnglish": 0,
       "pureEnglishLines": 4,
       "englishQALines": 4
-    },
-    "src/content/games/blockbuster-puzzle.fr.md": {
-      "templateHeadings": 0,
-      "parentheticalEnglish": 0,
-      "pureEnglishLines": 4,
-      "englishQALines": 3
     },
     "src/content/games/chess-classic.ko.md": {
       "templateHeadings": 0,
@@ -512,12 +458,6 @@
       "parentheticalEnglish": 1,
       "pureEnglishLines": 3,
       "englishQALines": 3
-    },
-    "src/content/games/stealing-the-diamond.fr.md": {
-      "templateHeadings": 0,
-      "parentheticalEnglish": 0,
-      "pureEnglishLines": 7,
-      "englishQALines": 0
     },
     "src/content/games/sudoku-plus.ko.md": {
       "templateHeadings": 0,
@@ -999,18 +939,6 @@
       "pureEnglishLines": 3,
       "englishQALines": 3
     },
-    "src/content/games/sprunki-swapped-horror.fr.md": {
-      "templateHeadings": 0,
-      "parentheticalEnglish": 0,
-      "pureEnglishLines": 6,
-      "englishQALines": 0
-    },
-    "src/content/games/superhot.fr.md": {
-      "templateHeadings": 0,
-      "parentheticalEnglish": 0,
-      "pureEnglishLines": 6,
-      "englishQALines": 0
-    },
     "src/content/games/the-jigsaw-game.ko.md": {
       "templateHeadings": 0,
       "parentheticalEnglish": 0,
@@ -1208,24 +1136,6 @@
       "parentheticalEnglish": 0,
       "pureEnglishLines": 3,
       "englishQALines": 2
-    },
-    "src/content/games/sprunki-night-time.fr.md": {
-      "templateHeadings": 0,
-      "parentheticalEnglish": 0,
-      "pureEnglishLines": 5,
-      "englishQALines": 0
-    },
-    "src/content/games/sprunki-pyramixed-version.fr.md": {
-      "templateHeadings": 0,
-      "parentheticalEnglish": 0,
-      "pureEnglishLines": 5,
-      "englishQALines": 0
-    },
-    "src/content/games/sprunki-retake.fr.md": {
-      "templateHeadings": 0,
-      "parentheticalEnglish": 0,
-      "pureEnglishLines": 5,
-      "englishQALines": 0
     },
     "src/content/games/super-smash-flash.ko.md": {
       "templateHeadings": 0,
@@ -1467,42 +1377,6 @@
       "pureEnglishLines": 2,
       "englishQALines": 2
     },
-    "src/content/games/sprunki-phase-1.fr.md": {
-      "templateHeadings": 0,
-      "parentheticalEnglish": 0,
-      "pureEnglishLines": 4,
-      "englishQALines": 0
-    },
-    "src/content/games/steal-a-brainrot.fr.md": {
-      "templateHeadings": 0,
-      "parentheticalEnglish": 0,
-      "pureEnglishLines": 4,
-      "englishQALines": 0
-    },
-    "src/content/games/stick-fight.fr.md": {
-      "templateHeadings": 0,
-      "parentheticalEnglish": 0,
-      "pureEnglishLines": 4,
-      "englishQALines": 0
-    },
-    "src/content/games/stick-fighter.fr.md": {
-      "templateHeadings": 0,
-      "parentheticalEnglish": 0,
-      "pureEnglishLines": 4,
-      "englishQALines": 0
-    },
-    "src/content/games/stick-war.fr.md": {
-      "templateHeadings": 0,
-      "parentheticalEnglish": 0,
-      "pureEnglishLines": 4,
-      "englishQALines": 0
-    },
-    "src/content/games/stickman-hook.fr.md": {
-      "templateHeadings": 0,
-      "parentheticalEnglish": 0,
-      "pureEnglishLines": 4,
-      "englishQALines": 0
-    },
     "src/content/games/sum-2048.ko.md": {
       "templateHeadings": 0,
       "parentheticalEnglish": 0,
@@ -1611,12 +1485,6 @@
       "pureEnglishLines": 3,
       "englishQALines": 0
     },
-    "src/content/games/sprunki-dandys-world.fr.md": {
-      "templateHeadings": 0,
-      "parentheticalEnglish": 0,
-      "pureEnglishLines": 3,
-      "englishQALines": 0
-    },
     "src/content/games/sprunki-phase-2-5.ko.md": {
       "templateHeadings": 0,
       "parentheticalEnglish": 3,
@@ -1633,18 +1501,6 @@
       "templateHeadings": 1,
       "parentheticalEnglish": 0,
       "pureEnglishLines": 2,
-      "englishQALines": 0
-    },
-    "src/content/games/sprunki-sepbox-steel-factory.fr.md": {
-      "templateHeadings": 0,
-      "parentheticalEnglish": 0,
-      "pureEnglishLines": 3,
-      "englishQALines": 0
-    },
-    "src/content/games/sprunki-sonic.fr.md": {
-      "templateHeadings": 0,
-      "parentheticalEnglish": 0,
-      "pureEnglishLines": 3,
       "englishQALines": 0
     },
     "src/content/games/worlds-hardest-game.de.md": {
@@ -1684,12 +1540,6 @@
       "englishQALines": 0
     },
     "src/content/games/bubble-trouble.ko.md": {
-      "templateHeadings": 0,
-      "parentheticalEnglish": 0,
-      "pureEnglishLines": 2,
-      "englishQALines": 0
-    },
-    "src/content/games/cake-slice-ninja.fr.md": {
       "templateHeadings": 0,
       "parentheticalEnglish": 0,
       "pureEnglishLines": 2,
@@ -1839,28 +1689,10 @@
       "pureEnglishLines": 2,
       "englishQALines": 0
     },
-    "src/content/games/sprunki-phase-2-5.fr.md": {
-      "templateHeadings": 0,
-      "parentheticalEnglish": 0,
-      "pureEnglishLines": 2,
-      "englishQALines": 0
-    },
     "src/content/games/sprunki-phase-2-5.ja.md": {
       "templateHeadings": 0,
       "parentheticalEnglish": 2,
       "pureEnglishLines": 0,
-      "englishQALines": 0
-    },
-    "src/content/games/sprunki-pyramixed.fr.md": {
-      "templateHeadings": 0,
-      "parentheticalEnglish": 0,
-      "pureEnglishLines": 2,
-      "englishQALines": 0
-    },
-    "src/content/games/sprunki-red-sun.fr.md": {
-      "templateHeadings": 0,
-      "parentheticalEnglish": 0,
-      "pureEnglishLines": 2,
       "englishQALines": 0
     },
     "src/content/games/sprunki-sepbox-steel-factory.ko.md": {
@@ -2043,18 +1875,6 @@
       "pureEnglishLines": 0,
       "englishQALines": 0
     },
-    "src/content/games/cookie-clicker-2.fr.md": {
-      "templateHeadings": 0,
-      "parentheticalEnglish": 0,
-      "pureEnglishLines": 1,
-      "englishQALines": 0
-    },
-    "src/content/games/cookie-clicker.fr.md": {
-      "templateHeadings": 0,
-      "parentheticalEnglish": 0,
-      "pureEnglishLines": 1,
-      "englishQALines": 0
-    },
     "src/content/games/crash-bandicoot.de.md": {
       "templateHeadings": 1,
       "parentheticalEnglish": 0,
@@ -2125,12 +1945,6 @@
       "templateHeadings": 0,
       "parentheticalEnglish": 1,
       "pureEnglishLines": 0,
-      "englishQALines": 0
-    },
-    "src/content/games/cuphead.fr.md": {
-      "templateHeadings": 0,
-      "parentheticalEnglish": 0,
-      "pureEnglishLines": 1,
       "englishQALines": 0
     },
     "src/content/games/cut-the-rope.de.md": {
@@ -3015,31 +2829,7 @@
       "pureEnglishLines": 0,
       "englishQALines": 0
     },
-    "src/content/games/sprunki-eggs-mix.fr.md": {
-      "templateHeadings": 0,
-      "parentheticalEnglish": 0,
-      "pureEnglishLines": 1,
-      "englishQALines": 0
-    },
-    "src/content/games/sprunki-good-night.fr.md": {
-      "templateHeadings": 0,
-      "parentheticalEnglish": 0,
-      "pureEnglishLines": 1,
-      "englishQALines": 0
-    },
-    "src/content/games/sprunki-halloween.fr.md": {
-      "templateHeadings": 0,
-      "parentheticalEnglish": 0,
-      "pureEnglishLines": 1,
-      "englishQALines": 0
-    },
     "src/content/games/sprunki-halloween.ko.md": {
-      "templateHeadings": 0,
-      "parentheticalEnglish": 0,
-      "pureEnglishLines": 1,
-      "englishQALines": 0
-    },
-    "src/content/games/sprunki-interactive-beta.fr.md": {
       "templateHeadings": 0,
       "parentheticalEnglish": 0,
       "pureEnglishLines": 1,
@@ -3063,12 +2853,6 @@
       "pureEnglishLines": 0,
       "englishQALines": 0
     },
-    "src/content/games/sprunki-meets-the-cat-spell.fr.md": {
-      "templateHeadings": 0,
-      "parentheticalEnglish": 0,
-      "pureEnglishLines": 1,
-      "englishQALines": 0
-    },
     "src/content/games/sprunki-police-and-prisoners.ko.md": {
       "templateHeadings": 0,
       "parentheticalEnglish": 0,
@@ -3079,18 +2863,6 @@
       "templateHeadings": 1,
       "parentheticalEnglish": 0,
       "pureEnglishLines": 0,
-      "englishQALines": 0
-    },
-    "src/content/games/sprunki-virus-new-update.fr.md": {
-      "templateHeadings": 0,
-      "parentheticalEnglish": 0,
-      "pureEnglishLines": 1,
-      "englishQALines": 0
-    },
-    "src/content/games/sprunkr-but-sprunki.fr.md": {
-      "templateHeadings": 0,
-      "parentheticalEnglish": 0,
-      "pureEnglishLines": 1,
       "englishQALines": 0
     },
     "src/content/games/stealing-the-diamond.de.md": {
@@ -3135,18 +2907,6 @@
       "pureEnglishLines": 0,
       "englishQALines": 0
     },
-    "src/content/games/sushi-grab.fr.md": {
-      "templateHeadings": 0,
-      "parentheticalEnglish": 0,
-      "pureEnglishLines": 1,
-      "englishQALines": 0
-    },
-    "src/content/games/tangram-puzzle.fr.md": {
-      "templateHeadings": 0,
-      "parentheticalEnglish": 0,
-      "pureEnglishLines": 1,
-      "englishQALines": 0
-    },
     "src/content/games/the-jigsaw-game.de.md": {
       "templateHeadings": 0,
       "parentheticalEnglish": 0,
@@ -3186,12 +2946,12 @@
   },
   "totals": {
     "totalFiles": 3460,
-    "flaggedFiles": 530,
+    "flaggedFiles": 490,
     "counts": {
       "templateHeadings": 160,
-      "parentheticalEnglish": 219,
-      "pureEnglishLines": 1178,
-      "englishQALines": 649
+      "parentheticalEnglish": 217,
+      "pureEnglishLines": 982,
+      "englishQALines": 646
     }
   }
 }
