@@ -53,22 +53,16 @@ Das Spiel verwendet eine einfache One-Touch-Steuerung.
 
 ### Häufige Fragen (FAQ)
 
-- **F: Was ist das Ziel des Spiels?**  
-  **A:** So weit wie möglich zu laufen, ohne in den See zu fallen. Deine
-  Punktzahl richtet sich nach der zurückgelegten Distanz.
+*   **F: Was ist das Ziel des Spiels?**
+    *   **A:** So weit wie möglich zu laufen, ohne in den See zu fallen. Deine
+        Punktzahl richtet sich nach der zurückgelegten Distanz.
 
-    - **F: Woran erkenne ich, wann ein Doppelsprung nötig ist?**  
-  **A:** Du musst die Lückengröße visuell einschätzen – weite Abstände verlangen
-  einen Doppelsprung, kurze kannst du mit einem einfachen Hopser schaffen. Genau
-  diese Einschätzung macht den Kern der Herausforderung aus.
+*   **F: Woran erkenne ich, wann ein Doppelsprung nötig ist?**
+    *   **A:** Du musst die Lückengröße visuell einschätzen – weite Abstände
+        verlangen einen Doppelsprung, kurze kannst du mit einem einfachen Hopser
+        schaffen. Genau diese Einschätzung macht den Kern der Herausforderung aus.
 
-- **F: Was hat es mit den Spiegelportalen auf sich?**  
-
-    - **A:** Passing through these portals often creates a clone of your character, adding a fun visual twist to the gameplay where you control multiple runners at once.
-
-- **Q: What are the mirror doors?**
-
-    - **A:** You have to judge the distance of the gap visually. Wider gaps will require a double jump, while shorter gaps can be cleared with a single jump. This is the main skill the game tests.
-  **A:** Wenn du sie durchquerst, tauchen häufig Klone deiner Figur auf. Dann
-  steuerst du mehrere Runner gleichzeitig – ein reiner, aber spaßiger
-  visueller Effekt, der den Run chaotischer wirken lässt.
+*   **F: Was hat es mit den Spiegelportalen auf sich?**
+    *   **A:** Wenn du sie durchquerst, tauchen häufig Klone deiner Figur auf. Dann
+        steuerst du mehrere Runner gleichzeitig – ein reiner, aber spaßiger
+        visueller Effekt, der den Run chaotischer wirken lässt.

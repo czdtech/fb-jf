@@ -59,22 +59,16 @@ für Puzzle- und Katzenfans.
 
 ### Häufige Fragen
 
-*   **F: Was ist das Ziel eines Levels?**  
-    **A:** Am Anfang jedes Levels wird das Ziel eingeblendet – zum Beispiel eine
-    bestimmte Anzahl einer Farbe zu sammeln, alle Gelee-Felder zu entfernen oder
-    spezielle Items bis nach unten zu bringen.
+*   **F: Was ist das Ziel eines Levels?**
+    *   **A:** Am Anfang jedes Levels wird das Ziel eingeblendet – zum Beispiel eine
+        bestimmte Anzahl einer Farbe zu sammeln, alle Gelee‑Felder zu entfernen oder
+        spezielle Items bis nach unten zu bringen.
 
-    - **F: Was passiert, wenn mir die Züge ausgehen?**  
-    **A:** Erreichst du das Levelziel nicht, bevor deine Züge aufgebraucht sind,
-    verlierst du ein Leben und musst das Level erneut versuchen.
+*   **F: Was passiert, wenn mir die Züge ausgehen?**
+    *   **A:** Erreichst du das Levelziel nicht, bevor deine Züge aufgebraucht sind,
+        verlierst du ein Leben und musst das Level erneut versuchen.
 
-*   **F: Wie erstelle ich eine Bombe?**  
-
-    - **A:** You can typically create a bomb power-up by matching five identical items in an "L" or "T" shape. Bombs clear a large area of tiles around them when activated.
-
-- **Q: How do I create a bomb?**
-
-    - **A:** If you cannot complete the level's objective before you run out of moves, you will lose a life and have to try the level again.
-    **A:** In der Regel erhältst du eine Bomben-Kachel, wenn du fünf gleiche
-    Symbole in L- oder T-Form verbindest. Beim Auslösen räumt sie ein größeres
-    Gebiet um sich herum.
+*   **F: Wie erstelle ich eine Bombe?**
+    *   **A:** In der Regel erhältst du eine Bomben‑Kachel, wenn du fünf gleiche Symbole
+        in L‑ oder T‑Form verbindest. Beim Auslösen räumt sie ein größeres Gebiet um
+        sich herum.

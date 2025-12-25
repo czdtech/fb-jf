@@ -64,23 +64,15 @@ Das Spiel nutzt einfache Swap-Mechaniken.
 
 ### Häufige Fragen
 
-*   **F: Wie befreie ich gesperrte oder eingesperrte Pets?**  
-    **A:** Du musst ein Match bilden, an dem das eingesperrte Tier beteiligt
-    ist. Dadurch zerbrichst du den Käfig nach und nach, bis das Pet wieder frei
-    ist.
+*   **F: Wie befreie ich gesperrte oder eingesperrte Pets?**
+    *   **A:** Du musst ein Match bilden, an dem das eingesperrte Tier beteiligt ist.
+        Dadurch zerbrichst du den Käfig nach und nach, bis das Pet wieder frei ist.
 
-    - **F: Welches Power-up ist am nützlichsten?**  
-    **A:** Das Regenbogen-Pet aus einer Fünfer-Kombo in einer Linie ist sehr
-    mächtig, weil es alle Tiere einer Art entfernt. Am stärksten sind jedoch
-    Kombinationen aus zwei Power-ups, die einen Großteil des Boards auf einmal
-    räumen.
+*   **F: Welches Power‑up ist am nützlichsten?**
+    *   **A:** Das Regenbogen‑Pet aus einer Fünfer‑Kombo in einer Linie ist sehr mächtig,
+        weil es alle Tiere einer Art entfernt. Am stärksten sind jedoch Kombinationen
+        aus zwei Power‑ups, die einen Großteil des Boards auf einmal räumen.
 
-*   **F: Was passiert, wenn ich keine Züge mehr habe?**  
-
-    - **A:** If you don't complete the level's objective before your moves run out, you will lose a life and have to restart the level.
-
-- **Q: What happens if I run out of moves?**
-
-    - **A:** The rainbow pet (from matching 5 in a line) is extremely useful for clearing many pets of one type. However, the best play is often to combine two power-ups for a major board-clearing effect.
-    **A:** Erreichst du das Levelziel nicht innerhalb der vorgegebenen Züge,
-    verlierst du ein Leben und musst das Level erneut spielen.
+*   **F: Was passiert, wenn ich keine Züge mehr habe?**
+    *   **A:** Erreichst du das Levelziel nicht innerhalb der vorgegebenen Züge,
+        verlierst du ein Leben und musst das Level erneut spielen.

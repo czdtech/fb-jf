@@ -61,22 +61,16 @@ Jigsaw Puzzles Hexa wird mit einem einfachen Drag-and-drop-System gespielt.
 
 ### Häufige Fragen
 
-*   **F: Kann ich die Teile drehen?**  
-    **A:** Nein. Die Hexa-Blöcke haben eine feste Ausrichtung. Die
-    Herausforderung besteht darin, sie genau so zu platzieren, wie sie sind.
+*   **F: Kann ich die Teile drehen?**
+    *   **A:** Nein. Die Hexa‑Blöcke haben eine feste Ausrichtung. Die Herausforderung
+        besteht darin, sie genau so zu platzieren, wie sie sind.
 
-    - **F: Ich finde keinen Platz für ein Teil – was nun?**  
-    **A:** Häufig liegt dann bereits ein anderer Block an einer falschen Stelle.
-    Entferne ein oder zwei Teile vom Board und probiere neue Kombinationen aus.
-    Falls das Spiel ein Hinweissystem anbietet, kannst du es in solchen
-    Situationen nutzen.
+*   **F: Ich finde keinen Platz für ein Teil – was nun?**
+    *   **A:** Häufig liegt dann bereits ein anderer Block an einer falschen Stelle.
+        Entferne ein oder zwei Teile vom Board und probiere neue Kombinationen aus.
+        Falls das Spiel ein Hinweissystem anbietet, kannst du es in solchen
+        Situationen nutzen.
 
-*   **F: Gibt es ein Zeitlimit?**  
-
-    - **A:** No, the game is designed to be a relaxing, stress-free experience. You can take as much time as you need to solve each puzzle.
-
-- **Q: Is there a time limit?**
-
-    - **A:** This usually means one of the pieces you have already placed is in the wrong spot. You may need to remove one or more pieces from the board and rethink your arrangement. If the game offers a hint system, now would be a good time to use it.
-    **A:** Nein, das Spiel ist bewusst entspannt gestaltet. Du kannst dir so
-    viel Zeit nehmen, wie du möchtest, um jedes Puzzle in Ruhe zu lösen.
+*   **F: Gibt es ein Zeitlimit?**
+    *   **A:** Nein, das Spiel ist bewusst entspannt gestaltet. Du kannst dir so viel
+        Zeit nehmen, wie du möchtest, um jedes Puzzle in Ruhe zu lösen.

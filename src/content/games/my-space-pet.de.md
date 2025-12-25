@@ -52,22 +52,14 @@ Weltraumzuhause freischaltest.
 
 ### Häufige Fragen
 
-*   **F: Was passiert, wenn ich mich nicht um Zuub kümmere?**  
-    **A:** Vernachlässigst du Zuubs Bedürfnisse, sinken Zufriedenheit und
-    Energie – es wird traurig oder krank. Regelmäßige Pflege hält dein Pet
-    fit und glücklich.
+*   **F: Was passiert, wenn ich mich nicht um Zuub kümmere?**
+    *   **A:** Vernachlässigst du Zuubs Bedürfnisse, sinken Zufriedenheit und Energie –
+        es wird traurig oder krank. Regelmäßige Pflege hält dein Pet fit und glücklich.
 
-    - **F: Wie bekomme ich Münzen?**  
-    **A:** Vor allem durch abgeschlossene Minispiele. Je besser du abschneidest,
-    desto mehr Belohnung erhältst du.
+*   **F: Wie bekomme ich Münzen?**
+    *   **A:** Vor allem durch abgeschlossene Minispiele. Je besser du abschneidest,
+        desto mehr Belohnung erhältst du.
 
-*   **F: Kann ich mehr als ein Weltraumtier besitzen?**  
-
-    - **A:** Typically, virtual pet games focus on one main pet. Check the game's specific features, but usually, the focus is on developing a strong bond with your single space companion.
-
-- **Q: Can I have more than one space pet?**
-
-    - **A:** Coins are primarily earned by playing and succeeding in the various mini-games available within My Space Pet.
-    **A:** Meist konzentriert sich das Spiel auf ein Haupt-Haustier. Schau in
-    die Spielinfos – oft geht es darum, mit einem Tier eine enge Bindung
-    aufzubauen.
+*   **F: Kann ich mehr als ein Weltraumtier besitzen?**
+    *   **A:** Meist konzentriert sich das Spiel auf ein Haupt‑Haustier. Schau in die
+        Spielinfos – oft geht es darum, mit einem Tier eine enge Bindung aufzubauen.

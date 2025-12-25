@@ -66,21 +66,15 @@ Das Spiel nutzt einfache Ein-Knopf-Steuerung.
 
 ### Häufige Fragen
 
-*   **F: Was bedeuten die Zahlen auf den Blöcken?**  
-    **A:** Die Zahl ist so etwas wie die „Lebenspunkte“ des Blocks – sie gibt
-    an, wie oft er von einem Ball getroffen werden muss, bevor er verschwindet.
+*   **F: Was bedeuten die Zahlen auf den Blöcken?**
+    *   **A:** Die Zahl ist so etwas wie die „Lebenspunkte“ des Blocks – sie gibt an,
+        wie oft er von einem Ball getroffen werden muss, bevor er verschwindet.
 
-    - **F: Wie verliere ich das Spiel?**  
-    **A:** Die Runde endet, sobald ein Block die unterste Linie des Spielfelds
-    erreicht. Halte die Front also so weit oben wie möglich.
+*   **F: Wie bekomme ich mehr Bälle?**
+    *   **A:** Achte auf spezielle Blöcke mit einem „+“ oder einem ähnlichen Symbol.
+        Zerstörst du sie, erhältst du für den nächsten Zug zusätzliche Bälle in
+        deiner Salve.
 
-*   **F: Wie bekomme ich mehr Bälle?**  
-
-    - **A:** Look for special blocks with a "+" or similar icon on them. Hitting and destroying these blocks will often add more balls to your volley for the next shot.
-
-- **Q: How can I get more balls?**
-
-    - **A:** The game ends if any brick successfully reaches the bottom line of the play area.
-    **A:** Achte auf spezielle Blöcke mit einem "+" oder einem ähnlichen
-    Symbol. Zerstörst du sie, erhältst du für den nächsten Zug zusätzliche
-    Bälle in deiner Salve.
+*   **F: Wie verliere ich das Spiel?**
+    *   **A:** Die Runde endet, sobald ein Block die unterste Linie des Spielfelds
+        erreicht. Halte die Front also so weit oben wie möglich.

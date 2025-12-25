@@ -50,21 +50,15 @@ Das Spiel wird komplett per Drag-and-Drop gesteuert.
 
 ### Häufige Fragen (FAQ)
 
-- **F: Was ist das eigentliche Ziel?**  
-  **A:** Du musst alle zusammengehörigen Emojis korrekt verbinden, um das Level
-  abzuschließen.
+*   **F: Was ist das eigentliche Ziel?**
+    *   **A:** Du musst alle zusammengehörigen Emojis korrekt verbinden, um das
+        Level abzuschließen.
 
-    - **F: Was passiert bei einem falschen Paar?**  
-  **A:** In der Regel verschwindet die Linie oder färbt sich rot – ein Hinweis
-  auf einen Fehler. Du kannst es ohne Strafe erneut versuchen.
+*   **F: Was passiert bei einem falschen Paar?**
+    *   **A:** In der Regel verschwindet die Linie oder färbt sich rot – ein Hinweis
+        auf einen Fehler. Du kannst es ohne Strafe erneut versuchen.
 
-- **F: Ich verstehe eine bestimmte Verbindung nicht.**  
-
-    - **A:** Think outside the box! The link might be about an action (a ball and a goal), a cause and effect (a seed and a tree), or a shared concept (a dog and a bone).
-
-- **Q: I don't understand the connection between two emojis.**
-
-    - **A:** The line will typically disappear or turn red, indicating an incorrect match. You can then try again without penalty.
-  **A:** Denke "out of the box" – die Beziehung kann auf einer Aktion (Ball und
-  Tor), Ursache/Wirkung (Samen und Baum) oder einem gemeinsamen Konzept (Hund
-  und Knochen) basieren.
+*   **F: Ich verstehe eine bestimmte Verbindung nicht.**
+    *   **A:** Denke „out of the box“ – die Beziehung kann auf einer Aktion (Ball und
+        Tor), Ursache/Wirkung (Samen und Baum) oder einem gemeinsamen Konzept (Hund
+        und Knochen) basieren.

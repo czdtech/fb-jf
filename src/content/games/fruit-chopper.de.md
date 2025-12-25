@@ -45,20 +45,16 @@ zwischen ihnen versteckt sind. Je besser deine Kombos und je länger du
 
 ### Häufige Fragen (FAQ)
 
-- **F: Was ist das eigentliche Ziel?**  
-  **A:** So viele Punkte wie möglich zu sammeln, bevor du eine Bombe triffst
-  oder zu viele Früchte durchrutschen lässt (je nach Modus).
+*   **F: Was ist das eigentliche Ziel?**
+    *   **A:** So viele Punkte wie möglich zu sammeln, bevor du eine Bombe triffst
+        oder zu viele Früchte durchrutschen lässt (je nach Modus).
 
-    - **F: Wie bekomme ich Kombo-Boni?**  
-  **A:** Indem du drei oder mehr Früchte mit einem Wisch triffst; je größer die
-  Gruppe, desto höher der Bonus.
+*   **F: Wie bekomme ich Kombo‑Boni?**
+    *   **A:** Indem du drei oder mehr Früchte mit einem einzigen Wisch triffst.
+        Je mehr Früchte du auf einmal schneidest, desto größer der Bonus.
 
-- **F: Gibt es mehrere Spielmodi?**  
-
-    - **A:** Many fruit-slicing games feature different modes like Classic (avoid bombs and don't miss fruit), Arcade (a timed 60-second blitz with power-ups), or Zen (a relaxing mode with no bombs). Check the main menu to see what modes are available.
-
-- **Q: Are there different game modes?**
-
-    - **A:** You get a combo bonus by slicing three or more fruits in one single swipe. The more fruits you slice at once, the bigger the bonus.
-  **A:** Viele Frucht-Slicer bieten Modi wie Classic, Arcade oder Zen. Schau im
-  Hauptmenü nach, welche Varianten der Host hier unterstützt.
+*   **F: Gibt es mehrere Spielmodi?**
+    *   **A:** Viele Frucht‑Slicer bieten Modi wie Classic (Bomben meiden, Früchte
+        nicht verpassen), Arcade (Zeitmodus mit Power‑ups) oder Zen (entspannt,
+        ohne Bomben). Schau im Hauptmenü nach, welche Varianten der Host hier
+        unterstützt.

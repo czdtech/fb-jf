@@ -49,20 +49,14 @@ verstärken deine Schüsse oder bringen Zusatzbälle und Extra-Punkte.
 
 ### Häufige Fragen (FAQ)
 
-- **F: Was ist das Hauptziel von Footchinko?**  
-  **A:** Du willst Tore erzielen, indem du den Ball trotz Pachinko-Hindernissen
-  im Netz des Gegners versenkst.
+*   **F: Was ist das Hauptziel von Footchinko?**
+    *   **A:** Du willst Tore erzielen, indem du den Ball trotz Pachinko‑Hindernissen
+        im Netz des Gegners versenkst.
 
-    - **F: Gibt es verschiedene Cups oder Ligen?**  
-  **A:** Ja, in der Regel gibt es mehrere Level, Ligen oder Meisterschaften mit
-  steigender Schwierigkeit und neuen Feldaufbauten.
+*   **F: Gibt es verschiedene Cups oder Ligen?**
+    *   **A:** Ja, in der Regel gibt es mehrere Level, Ligen oder Meisterschaften mit
+        steigender Schwierigkeit und neuen Feldaufbauten.
 
-- **F: Wie erziele ich höhere Punktzahlen?**  
-
-    - **A:** Score more goals, collect power-ups, and try to clear obstacles efficiently. Some games might also reward you for hitting specific targets or making combo shots.
-
-- **Q: How do I get a higher score?**
-
-    - **A:** Yes, Footchinko typically features multiple levels and championships, each with increasing difficulty and unique field layouts.
-  **A:** Triff möglichst viele Pins, sammle Power-ups, räume gezielt Hindernisse
-  aus dem Weg und versuche Kombos und Trickschüsse ins Tor.
+*   **F: Wie erziele ich höhere Punktzahlen?**
+    *   **A:** Triff möglichst viele Pins, sammle Power‑ups, räume gezielt Hindernisse
+        aus dem Weg und versuche Kombos und Trickschüsse ins Tor.

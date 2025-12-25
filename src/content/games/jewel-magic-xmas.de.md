@@ -65,22 +65,16 @@ Das Spiel wird bequem mit Maus oder Touch bedient.
 
 ### Häufige Fragen
 
-*   **F: Wie entferne ich gefrorene Eisblöcke?**  
-    **A:** Du musst ein Match direkt neben einem Eisblock bilden oder ihn in
-    eine Kombination einbeziehen. Manche Blöcke benötigen mehrere Treffer, bis
-    sie vollständig verschwinden.
+*   **F: Wie entferne ich gefrorene Eisblöcke?**
+    *   **A:** Du musst ein Match direkt neben einem Eisblock bilden oder ihn in eine
+        Kombination einbeziehen. Manche Blöcke benötigen mehrere Treffer, bis sie
+        vollständig verschwinden.
 
-    - **F: Was ist die stärkste Kombination?**  
-    **A:** Zwei Spezialobjekte aus Fünfer-Matches in einer Linie sind
-    besonders mächtig. Vertauschst du sie miteinander, wird praktisch das ganze
-    Spielfeld auf einmal geräumt.
+*   **F: Was ist die stärkste Kombination?**
+    *   **A:** Zwei Spezialobjekte aus Fünfer‑Matches in einer Linie sind besonders
+        mächtig. Vertauschst du sie miteinander, wird (je nach Version) praktisch
+        das ganze Spielfeld auf einmal geräumt.
 
-*   **F: Was passiert, wenn mir die Züge ausgehen?**  
-
-    - **A:** If you don't complete the level's objective within the move limit, you will have to restart the level.
-
-- **Q: What happens if I run out of moves?**
-
-    - **A:** Swapping two of the "Match 5 in a line" special items together is the most powerful move, as it will clear every single item from the board.
-    **A:** Schaffst du das Levelziel nicht innerhalb des Zuglimits, musst du das
-    Level neu starten und es erneut versuchen.
+*   **F: Was passiert, wenn mir die Züge ausgehen?**
+    *   **A:** Schaffst du das Levelziel nicht innerhalb des Zuglimits, musst du das
+        Level neu starten und es erneut versuchen.

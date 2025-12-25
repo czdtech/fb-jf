@@ -56,23 +56,17 @@ besten Fall zu blockieren.
 
 ### Häufige Fragen (FAQ)
 
-- **F: Was ist das Hauptziel des Spiels?**  
-  **A:** Du willst als erster alle deine Dominosteine ausspielen und deine Hand
-  leeren. Über mehrere Runden hinweg gewinnst du das Match, indem du als erster
-  eine Zielpunktzahl erreichst.
+*   **F: Was ist das Hauptziel des Spiels?**
+    *   **A:** Du willst als erster alle deine Dominosteine ausspielen und deine Hand
+        leeren. Über mehrere Runden hinweg gewinnst du das Match, indem du als
+        erster eine Zielpunktzahl erreichst.
 
-    - **F: Was passiert, wenn ich nicht legen kann?**  
-  **A:** Du musst so lange aus dem Boneyard nachziehen, bis du einen passenden
-  Stein auf der Hand hast. Ist der Stapel leer, musst du deinen Zug passen.
+*   **F: Was passiert, wenn ich nicht legen kann?**
+    *   **A:** Du musst so lange aus dem Boneyard nachziehen, bis du einen passenden
+        Stein auf der Hand hast. Ist der Stapel leer, musst du deinen Zug passen.
 
-- **F: Wie blockiere ich meinen Gegner?**  
-
-    - **A:** Pay attention to the numbers on the open ends of the chain. If you know your opponent has a lot of a certain number (because you have most of the others), you can try to play tiles that avoid leaving that number open, potentially forcing them to draw from the boneyard.
-
-- **Q: How can I block my opponent?**
-
-    - **A:** You must draw from the boneyard. If the boneyard is empty, you pass your turn.
-  **A:** Achte auf die Zahlen an den offenen Enden. Wenn du anhand der gespielten
-  Steine vermutest, dass dein Gegner eine bestimmte Zahl kaum oder gar nicht
-  besitzt, vermeide es, diese Zahl offen liegen zu lassen. So zwingst du ihn
-  eher zum Nachziehen oder Passen.
+*   **F: Wie blockiere ich meinen Gegner?**
+    *   **A:** Achte auf die Zahlen an den offenen Enden. Wenn du anhand der gespielten
+        Steine vermutest, dass dein Gegner eine bestimmte Zahl kaum oder gar nicht
+        besitzt, vermeide es, diese Zahl offen liegen zu lassen. So zwingst du ihn
+        eher zum Nachziehen oder Passen.

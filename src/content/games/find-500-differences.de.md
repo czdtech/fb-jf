@@ -51,19 +51,13 @@ Knobelei für alle Altersgruppen.
 
 ### Häufige Fragen (FAQ)
 
-- **F: Was passiert bei einem Fehlklick?**  
-  **A:** In vielen Varianten kostet ein falscher Klick Zeit oder Punkte. Sei
-  dir daher möglichst sicher, bevor du klickst.
+*   **F: Was passiert bei einem Fehlklick?**
+    *   **A:** In vielen Varianten kostet ein falscher Klick Zeit oder Punkte. Sei
+        dir daher möglichst sicher, bevor du klickst.
 
-    - **F: Gibt es ein Zeitlimit?**  
-  **A:** Meist läuft eine Uhr mit und setzt dich leicht unter Druck. Versuche,
-  alle Unterschiede zu finden, bevor die Zeit abläuft.
+*   **F: Gibt es ein Zeitlimit?**
+    *   **A:** Meist läuft eine Uhr mit und setzt dich leicht unter Druck. Versuche,
+        alle Unterschiede zu finden, bevor die Zeit abläuft.
 
-- **F: Wie viele Unterschiede gibt es pro Level?**  
-
-    - **A:** Typically, there are 5 differences to find in each pair of images.
-
-- **Q: How many differences are in each level?**
-
-    - **A:** Yes, most levels are timed to add an extra layer of challenge. Try to find all the differences before the time runs out.
-  **A:** Typischerweise musst du pro Bildpaar fünf Unterschiede finden.
+*   **F: Wie viele Unterschiede gibt es pro Level?**
+    *   **A:** Typischerweise musst du pro Bildpaar fünf Unterschiede finden.

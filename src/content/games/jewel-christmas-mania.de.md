@@ -63,25 +63,19 @@ Boostern sorgen für langen Rätselspaß in stimmungsvoller Weihnachtsatmosphär
 
 ### Häufige Fragen
 
-- **F: Was ist ein Match-3-Spiel?**  
-  **A:** In Match-3-Spielen vertauschst du benachbarte Spielsteine, um Reihen
-  aus mindestens drei gleichen Symbolen zu bilden. Diese verschwinden dann vom
-  Spielfeld, neue Steine rücken nach, und du erhältst Punkte oder erfüllst
-  Levelziele.
+*   **F: Was ist ein Match‑3‑Spiel?**
+    *   **A:** In Match‑3‑Spielen vertauschst du benachbarte Spielsteine, um Reihen
+        aus mindestens drei gleichen Symbolen zu bilden. Diese verschwinden dann
+        vom Spielfeld, neue Steine rücken nach, und du erhältst Punkte oder erfüllst
+        Levelziele.
 
-    - **F: Wie benutze ich Booster?**  
-  **A:** Booster sind besondere Hilfsobjekte, die dir bei schweren Leveln
-  helfen. Du aktivierst sie in der Regel per Klick oder durch ein Match mit
-  ihnen. Viele Booster erhältst du als Belohnung für abgeschlossene Level oder
-  tägliche Login-Boni.
+*   **F: Wie benutze ich Booster?**
+    *   **A:** Booster sind besondere Hilfsobjekte, die dir bei schweren Leveln helfen.
+        Du aktivierst sie in der Regel per Klick oder durch ein Match mit ihnen.
+        Viele Booster erhältst du als Belohnung für abgeschlossene Level oder
+        tägliche Login‑Boni.
 
-- **F: Was passiert, wenn mir die Züge ausgehen?**  
-
-    - **A:** If you run out of moves before completing the level objective, you will fail the level and may lose a life. You can then choose to retry the level.
-
-- **Q: What happens if I run out of moves?**
-
-    - **A:** Boosters are special items that can help you clear difficult levels. They are usually activated by clicking on them. You might earn them by completing levels or through daily rewards.
-  **A:** Schaffst du das Levelziel nicht innerhalb der vorgegebenen Zuganzahl,
-  gilt das Level als verloren und du verlierst ein Leben. Danach kannst du den
-  Versuch erneut starten und es noch einmal probieren.
+*   **F: Was passiert, wenn mir die Züge ausgehen?**
+    *   **A:** Schaffst du das Levelziel nicht innerhalb der vorgegebenen Zuganzahl,
+        gilt das Level als verloren und du verlierst ein Leben. Danach kannst du den
+        Versuch erneut starten und es noch einmal probieren.

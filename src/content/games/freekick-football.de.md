@@ -43,15 +43,11 @@ Platzierung, Timing und Ballflug.
 
 ### Häufige Fragen (FAQ)
 
-- **F: Wie treffe ich konstanter?**  
-  **A:** Übung ist alles. Probiere unterschiedliche Kombinationen aus Kraft und
-  Spin und halte dich bevorzugt an Ecken, die der Torwart schwer erreicht.
+*   **F: Wie treffe ich konstanter?**
+    *   **A:** Übung ist alles. Probiere unterschiedliche Kombinationen aus Kraft und
+        Spin und halte dich bevorzugt an Ecken, die der Torwart schwer erreicht.
 
-    - **F: Wie überwinde ich die Mauer am besten?**  
-
-- **A:** Curling the ball over or around the wall is the most common technique. Look for gaps in the wall or try a powerful shot if you have a clear path.
-
-    - **Q: What's the best way to beat the wall?**
-  **A:** Entweder mit einem gezielten Curl über oder um die Mauer oder mit einem
-  harten, flachen Schuss durch eine Lücke – such dir je nach Maueraufstellung
-  die Variante mit der größten Trefferchance aus.
+*   **F: Wie überwinde ich die Mauer am besten?**
+    *   **A:** Entweder mit einem gezielten Curl über oder um die Mauer oder mit einem
+        harten, flachen Schuss durch eine Lücke – such dir je nach Maueraufstellung
+        die Variante mit der größten Trefferchance aus.

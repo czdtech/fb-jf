@@ -69,23 +69,16 @@ Das Spiel wird mit einfachen Maus- oder Touchgesten gesteuert.
 
 ### Häufige Fragen
 
-*   **F: Wie komme ich an Level mit gefrorenen oder gefesselten Juwelen
-    vorbei?**  
-    **A:** Du musst ein Match bilden, an dem der gefrorene oder angekettete
-    Stein beteiligt ist. Dadurch brichst du nach und nach Eis oder Ketten und
-    kannst den Stein später normal nutzen.
+*   **F: Wie komme ich an Level mit gefrorenen oder gefesselten Juwelen vorbei?**
+    *   **A:** Du musst ein Match bilden, an dem der gefrorene oder angekettete Stein
+        beteiligt ist. Dadurch brichst du nach und nach Eis oder Ketten und kannst
+        den Stein später normal nutzen.
 
-    - **F: Wie erziele ich eine besonders hohe Punktzahl?**  
-    **A:** Versuche, möglichst viele Spezialjuwelen zu erzeugen und zu
-    kombinieren. Lange Kettenreaktionen und große Bereiche, die in einem Zug
-    verschwinden, bringen besonders viele Punkte.
+*   **F: Wie erziele ich eine besonders hohe Punktzahl?**
+    *   **A:** Versuche, möglichst viele Spezialjuwelen zu erzeugen und zu kombinieren.
+        Lange Kettenreaktionen und große Bereiche, die in einem Zug verschwinden,
+        bringen besonders viele Punkte.
 
-*   **F: Was passiert, wenn ich keine Züge mehr habe?**  
-
-    - **A:** If you don't complete the level's objective before your moves run out, you will lose a life and must restart the level.
-
-- **Q: What happens when I run out of moves?**
-
-    - **A:** Create as many special jewels and combos as possible. Triggering long chain reactions and clearing a large number of jewels in a single move will result in a much higher score.
-    **A:** Wenn du das Levelziel nicht vor Ablauf der verfügbaren Züge
-    erreichst, verlierst du ein Leben und musst das Level von vorn beginnen.
+*   **F: Was passiert, wenn ich keine Züge mehr habe?**
+    *   **A:** Wenn du das Levelziel nicht vor Ablauf der verfügbaren Züge erreichst,
+        verlierst du ein Leben und musst das Level von vorn beginnen.

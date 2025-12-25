@@ -72,24 +72,18 @@ Jewel Legend wird mit einfachen Maus- oder Touchgesten gespielt.
 
 ### Häufige Fragen
 
-*   **F: Wie breche ich Eis oder Ketten auf den Juwelen?**  
-    **A:** Du musst ein Match bilden, das den eingefrorenen oder angeketteten
-    Stein enthält. Manchmal sind mehrere Treffer nötig, bis das Hindernis
-    vollständig verschwindet.
+*   **F: Wie breche ich Eis oder Ketten auf den Juwelen?**
+    *   **A:** Du musst ein Match bilden, das den eingefrorenen oder angeketteten
+        Stein enthält. Manchmal sind mehrere Treffer nötig, bis das Hindernis
+        vollständig verschwindet.
 
-    - **F: Was ist die stärkste Kombination im Spiel?**  
-    **A:** Am mächtigsten ist es, zwei Farbjuwelen miteinander zu vertauschen.
-    Dadurch wird fast das komplette Spielfeld geleert – ideal für extrem
-    schwierige Level.
+*   **F: Was ist die stärkste Kombination im Spiel?**
+    *   **A:** Am mächtigsten ist es, zwei Farbjuwelen miteinander zu vertauschen.
+        Dadurch wird (je nach Version) fast das komplette Spielfeld geleert – ideal
+        für extrem schwierige Level.
 
-*   **F: Was passiert, wenn mir die Züge ausgehen?**  
-
-    - **A:** If you fail to meet the level objective within the given number of moves, you will lose a life and have to try the level again. You can wait for lives to regenerate over time or sometimes acquire more through in-game means.
-
-- **Q: I'm out of moves, what now?**
-
-    - **A:** The most powerful combo is swapping two Color Jewels together. This will destroy every single jewel on the screen, which is extremely useful for very difficult levels.
-    **A:** Erreichst du das Levelziel nicht innerhalb der vorgegebenen
-    Zuganzahl, verlierst du ein Leben und musst das Level erneut starten. Oft
-    kannst du Leben mit der Zeit regenerieren oder sie über In-Game-Mechaniken
-    wieder auffüllen.
+*   **F: Was passiert, wenn mir die Züge ausgehen?**
+    *   **A:** Erreichst du das Levelziel nicht innerhalb der vorgegebenen Zuganzahl,
+        verlierst du ein Leben und musst das Level erneut starten. Oft kannst du
+        Leben mit der Zeit regenerieren oder sie über In‑Game‑Mechaniken wieder
+        auffüllen.
