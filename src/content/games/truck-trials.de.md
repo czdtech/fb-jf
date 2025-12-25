@@ -34,16 +34,10 @@ Truck Trials ist ein Offroad‑Fahrspiel, bei dem du mit verschiedenen Trucks an
 
 ### Häufige Fragen (FAQ)
 
+*   **F: Wie vermeide ich Überschläge?**
+    *   **A:** Fahre langsam und achte auf die Balance deines Trucks – besonders
+        bei großen Hindernissen oder auf steilen Anstiegen.
 
-- **A:** The differential lock provides better traction on difficult terrains, helping you to get through muddy or slippery areas.
-
-    - **Q: What is the differential lock for?**
-
-- **A:** Drive slowly and be mindful of your truck's balance, especially when going over large obstacles or on steep inclines.
-
-    - **Q: How do I avoid tipping over?**
-**Wie vermeide ich Überschläge?**  
-Geh vor größeren Hügeln vom Gas, halte den Truck möglichst waagerecht und reagiere mit kurzen Gegenbewegungen, wenn er sich zu stark nach vorn oder hinten neigt.
-
-**Wofür ist die Differentialsperre gut?**  
-Sie hilft dir, auf Schlamm, Sand oder steilen Rampen mehr Grip zu bekommen, indem sie die Kraft gleichmäßiger auf die Räder verteilt.
+*   **F: Wofür ist die Differentialsperre gut?**
+    *   **A:** Sie sorgt für bessere Traktion auf schwierigem Terrain und hilft
+        dir, durch Schlamm oder rutschige Passagen zu kommen.

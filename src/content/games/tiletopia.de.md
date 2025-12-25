@@ -35,17 +35,16 @@ Tiletopia ist ein ruhiges, kreatives Städtebau‑Puzzle, in dem du mit sechseck
 
 ### Häufige Fragen (FAQ)
 
-- **Q: Was ist das Hauptziel?**  
-  **A:** Möglichst viele Punkte zu erzielen, bevor dein Kachelstapel leer ist. Ist keine Kachel mehr übrig, endet die Partie.
+*   **F: Was ist das Hauptziel?**
+    *   **A:** Möglichst viele Punkte zu erzielen, indem du Kacheln aus deinem
+        Stapel platzierst. Wenn der Stapel leer ist, endet die Partie.
 
-    - **Q: Wie bekomme ich mehr Punkte?**  
-  **A:** Durch perfekte Kantenübereinstimmungen, das Erfüllen von Quests und das saubere Abschließen großer, einheitlicher Flächen wie Wälder oder Felder.
+*   **F: Wie bekomme ich mehr Punkte?**
+    *   **A:** Durch perfekte Kantenübereinstimmungen, das Erfüllen von Quests
+        und das saubere Abschließen großer, einheitlicher Flächen wie Wälder
+        oder Felder.
 
-- **Q: Was passiert, wenn ich eine Kachel „schlecht“ platziere?**  
-
-    - **A:** This usually doesn't happen, as there will almost always be a valid spot. However, a poorly placed tile might prevent you from completing a quest, so think carefully before you place!
-
-- **Q: What happens if I can't place a tile anywhere?**
-
-    - **A:** By making perfect edge matches, completing quests, and closing off large areas of a single type (like a big forest or field).
-  **A:** Du bekommst weniger Punkte und machst dir das Erfüllen mancher Quests schwerer. Ein kompletter Deadlock ist selten, aber vorausschauende Platzierung zahlt sich klar aus.
+*   **F: Was passiert, wenn ich eine Kachel nirgendwo platzieren kann?**
+    *   **A:** Das passiert normalerweise nicht, weil fast immer irgendwo ein
+        gültiger Platz existiert. Eine unglückliche Platzierung kann aber Quests
+        blockieren – plane also vor dem Setzen.

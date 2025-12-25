@@ -49,19 +49,15 @@ Pirate Pop ist ein spaßiger, süchtig machender Bubble-Shooter im
 ### Häufige Fragen (FAQ)
 
 *   **F: Was ist das Ziel des Spiels?**
-    **A:** Du musst alle Blasen auf dem Spielfeld entfernen und dabei möglichst
-    viele Punkte sammeln.
+    *   **A:** Alle Blasen vom Spielfeld zu entfernen und dabei möglichst viele
+        Punkte zu sammeln.
 
-    - **F: Wie erziele ich hohe Punktzahlen?**
-    **A:** Lass große Blasen-Gruppen auf einmal herabfallen. Je mehr Blasen du
-    mit einem Schuss löst, desto höher dein Kombobonus.
+*   **F: Wie erziele ich die höchste Punktzahl?**
+    *   **A:** Indem du große Blasen‑Cluster auf einmal zum Fallen bringst. Je
+        mehr Blasen du mit einem Schuss herunterlöst, desto höher fällt dein
+        Kombobonus aus.
 
-*   **F: Was mache ich, wenn ich keine passende Farbe treffen kann?**
-
-    - **A:** You'll have to make a tactical shot. Try to place the bubble in a spot where it won't get in the way, or where it can be easily cleared later on with another match.
-
-- **Q: What if I can't make a match?**
-
-    - **A:** By causing large clusters of bubbles to fall at once. The more bubbles you drop in a single shot, the higher your combo bonus will be.
-    **A:** Versuche, die Blase so zu platzieren, dass sie später leicht mit
-    einer passenden Farbe entfernt werden kann und dir nicht den Weg blockiert.
+*   **F: Was mache ich, wenn ich gerade kein Match bilden kann?**
+    *   **A:** Dann brauchst du einen taktischen Schuss. Platziere die Blase so,
+        dass sie nicht im Weg ist oder später leicht mit einer passenden Farbe
+        entfernt werden kann.

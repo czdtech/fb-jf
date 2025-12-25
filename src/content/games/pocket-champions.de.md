@@ -59,21 +59,15 @@ Die Steuerung erfolgt über Menüs.
 ### Häufige Fragen (FAQ)
 
 *   **F: Wie steuere ich meinen Charakter im Rennen?**
-    **A:** Gar nicht – das Rennen läuft automatisch. Deine Aufgabe ist die
-    Vorbereitung durch Training und Gadget-Wahl.
+    *   **A:** Gar nicht – das Rennen läuft voll automatisch. Deine Aufgabe ist
+        die Vorbereitung vor dem Start (Training und Gadget‑Auswahl).
 
-    - **F: Wie gewinne ich mehr Rennen?**
-    **A:** Indem du höhere Werte als deine Gegner und die besser passende
-    Ausrüstung hast. Trainiere gezielt Schwächen und rüste Gadgets aus, die zu
-    den größten Hindernissen auf der Strecke passen.
+*   **F: Wie gewinne ich mehr Rennen?**
+    *   **A:** Mit besseren Werten und der richtigen Strategie. Trainiere deinen
+        Champ, bis die Stats hoch genug sind, und wähle Gadgets, die die größten
+        Hindernisse der nächsten Strecke kontern.
 
 *   **F: Was ist das beste Gadget?**
-
-    - **A:** There is no single "best" gadget. The best one is always the one that matches the next major obstacle on the track. A speedboat is useless on a running track, but essential on a water track.
-
-- **Q: What is the best gadget?**
-
-    - **A:** By having better stats and strategy than your opponents. Make sure your Champ's training levels are high and that you are choosing the correct gadgets that counter the obstacles in the upcoming race.
-    **A:** Es gibt kein generelles „Bestes“. Das ideale Gadget ist immer das,
-    das zum nächsten großen Hindernis passt – ein Boot nützt dir nichts auf
-    einer reinen Laufstrecke, ist aber auf Wasserabschnitten unbezahlbar.
+    *   **A:** Es gibt kein allgemeines „bestes“ Gadget. Das beste ist immer
+        das, das zum nächsten großen Hindernis passt: Ein Speedboat ist auf
+        einer Laufstrecke nutzlos, auf Wasserpassagen aber entscheidend.

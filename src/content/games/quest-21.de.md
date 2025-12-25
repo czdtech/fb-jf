@@ -54,21 +54,14 @@ Das Spiel wird über Buttons bedient.
 ### Häufige Fragen (FAQ)
 
 *   **F: Was bedeutet „Bust“?**
-    **A:** Wenn deine Hand über 21 Punkte kommt, bist du „busted“ und verlierst
-    die Runde sofort.
+    *   **A:** Wenn du eine Karte nimmst und dein Handwert über 21 steigt, bist
+        du „Bust“ und verlierst die Runde sofort.
 
-    - **F: Wann sollte ich stehen bleiben?**
-    **A:** Eine einfache Strategie ist, jede „harte“ 17 oder höher zu halten.
-    Bei weichen Händen mit Ass (z. B. Ass+6) kannst du manchmal noch eine Karte
-    riskieren.
+*   **F: Wann sollte ich stehen bleiben?**
+    *   **A:** Eine sichere Faustregel ist, bei 17 oder mehr zu halten (eine
+        „harte 17“). Bei Händen mit einem Ass, das als 11 zählt (eine „weiche
+        17“), ist es oft noch vertretbar zu ziehen.
 
 *   **F: Was passiert bei einem Unentschieden?**
-
-    - **A:** A tie is called a "push." In most casual versions of the game, this simply means no one wins or loses the hand, and you move on to the next round.
-
-- **Q: What happens if there is a tie?**
-
-    - **A:** A safe strategy is to stand on any hand worth 17 or more (a "hard 17"). For hands with an Ace that counts as 11 (a "soft 17"), it is often safe to hit.
-    **A:** Ein Gleichstand wird „Push“ genannt. In vielen Versionen bedeutet das,
-    dass weder du noch der Gegner die Runde gewinnen – es geht einfach mit der
-    nächsten weiter.
+    *   **A:** Ein Gleichstand heißt „Push“. In vielen Casual‑Versionen gewinnt
+        oder verliert niemand – du gehst einfach in die nächste Runde.

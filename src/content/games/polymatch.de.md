@@ -54,19 +54,12 @@ PolyMatch ist ein entspanntes, aber anspruchsvolles Kachel-Puzzlespiel, das
 ### Häufige Fragen (FAQ)
 
 *   **F: Wie gewinne ich ein Level?**
-    **A:** Indem du alle Kacheln vom Spielfeld entfernst, bevor der
-    Ablagebereich dauerhaft voll ist.
+    *   **A:** Du gewinnst, indem du alle Kacheln vom Hauptfeld entfernst.
 
-    - **F: Was passiert, wenn der Ablagebereich voll ist?**
-    **A:** Ist der Speicher (typisch 6 Slots) komplett belegt und du kannst kein
-    weiteres Paar bilden, ist das Spiel vorbei.
+*   **F: Was passiert, wenn der Ablagebereich voll ist?**
+    *   **A:** Wenn der Ablagebereich unten voll ist (typischerweise 6 Kacheln)
+        und du keine Matches mehr bilden kannst, ist das Spiel vorbei.
 
 *   **F: Gibt es Power-ups oder Hinweise?**
-
-    - **A:** Some versions of PolyMatch may offer power-ups or hints to help you when you're stuck. These might include a shuffle option or a hint to reveal a match.
-
-- **Q: Are there power-ups or hints?**
-
-    - **A:** If the holding area at the bottom of the screen becomes full (typically 6 tiles) and you cannot make any more matches, the game will end.
-    **A:** Einige Versionen bieten Hilfen wie Mischen oder Hinweisfunktionen,
-    die dir mögliche Paare anzeigen, wenn du feststeckst.
+    *   **A:** Manche Versionen bieten Hilfen wie Shuffle oder Hinweise, die dir
+        ein mögliches Match anzeigen, wenn du feststeckst.

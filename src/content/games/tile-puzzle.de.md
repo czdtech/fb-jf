@@ -35,17 +35,15 @@ Das Spiel wird vollständig mit Maus oder Touch gesteuert.
 
 ### Häufige Fragen (FAQ)
 
-- **Q: Was ist das Hauptziel?**  
-  **A:** 100 % der Kacheln vom Brett zu entfernen, indem du sie im Tablett zu Dreiergruppen kombinierst.
+*   **F: Was ist das Hauptziel?**
+    *   **A:** 100 % der Kacheln vom Brett zu entfernen, indem du sie im Tablett
+        zu Dreiergruppen kombinierst.
 
-    - **Q: Warum sind manche Kacheln grau und nicht anklickbar?**  
-  **A:** Diese Kacheln werden von einer höheren Schicht überdeckt. Erst wenn oben nichts mehr liegt, werden sie aktiv und anklickbar.
+*   **F: Warum sind manche Kacheln grau und nicht anklickbar?**
+    *   **A:** Eine Kachel ist erst auswählbar, wenn keine andere Kachel aus
+        einer höheren Schicht sie überdeckt. Du musst zuerst die Kacheln oben
+        entfernen.
 
-- **Q: Was passiert, wenn das Tablett voll ist?**  
-
-    - **A:** If all seven slots in your collection tray are filled and you haven't made a match of three, you cannot make any more moves, and the game is over.
-
-- **Q: What happens if the tray fills up?**
-
-    - **A:** A tile only becomes available to select when there are no other tiles overlapping it from a higher layer. You must clear the tiles on top first.
-  **A:** Sind alle sieben Slots belegt und du kannst keinen Drilling bilden, gibt es keinen legalen Zug mehr – das Level ist verloren und du musst neu starten.
+*   **F: Was passiert, wenn das Tablett voll ist?**
+    *   **A:** Wenn alle sieben Slots belegt sind und du keinen Drilling bilden
+        kannst, kannst du keine weiteren Züge machen – das Spiel ist vorbei.

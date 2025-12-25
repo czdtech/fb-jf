@@ -35,22 +35,19 @@ Das Spiel wird komplett per Klick oder Tipp gesteuert.
 
 ### Häufige Fragen (FAQ)
 
-- **Q: Was ist das eigentliche Ziel?**  
-  **A:** Sämtliche Kacheln vom Brett zu entfernen, indem du sie im Tablett zu Dreiergruppen kombinierst.
+*   **F: Was ist das eigentliche Ziel?**
+    *   **A:** Sämtliche Kacheln vom Brett zu entfernen, indem du sie im Tablett
+        zu Dreiergruppen kombinierst.
 
-    - **Q: Warum kann ich manche Kacheln nicht auswählen?**  
-  **A:** Nur Kacheln, die nicht von anderen überdeckt werden, sind spielbar. Du musst zuerst die obere Schicht räumen, um an tiefere Kacheln heranzukommen.
+*   **F: Warum kann ich manche Kacheln nicht auswählen?**
+    *   **A:** Du kannst nur Kacheln wählen, die oben liegen und nicht von
+        anderen überdeckt werden. Du musst zuerst die Kacheln darüber entfernen.
 
-- **Q: Was passiert, wenn das Tablett voll ist?**  
-  **A:** Sind alle Plätze belegt und du kannst keinen Drilling bilden, gibt es keinen legalen Zug mehr – die Runde ist verloren und du musst das Level neu starten.
+*   **F: Was passiert, wenn mein Tablett voll ist?**
+    *   **A:** Wenn alle Slots belegt sind und du keinen Drilling bilden kannst,
+        ist das Level vorbei und du musst neu starten.
 
-    - **Q: Gibt es Power‑ups?**  
-
-- **A:** Many versions of this game include helpful power-ups like an "Undo" button to reverse your last move, a "Hint" to show a possible match, or a "Shuffle" to rearrange the tiles on the board.
-
-    - **Q: Are there power-ups?**
-
-- **A:** If all the slots in your tray are filled and you cannot form a set of three with the tiles you have, the game is over and you must restart the level.
-
-    - **Q: What happens if my collection tray gets full?**
-  **A:** Viele Versionen bieten Hilfen wie „Rückgängig“ für den letzten Zug, „Tipp“ für einen möglichen Match oder „Mischen“, um das Spielfeld neu anzuordnen.
+*   **F: Gibt es Power‑ups?**
+    *   **A:** Viele Versionen bieten hilfreiche Power-ups wie „Rückgängig“ für
+        den letzten Zug, „Tipp“ für ein mögliches Match oder „Shuffle“, um die
+        Kacheln auf dem Brett neu anzuordnen.

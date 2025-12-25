@@ -33,16 +33,11 @@ Word Pics ist ein Wortpuzzle, bei dem du aus zwei Bildern auf ein gemeinsames Wo
 
 ### Häufige Fragen (FAQ)
 
+*   **F: Was, wenn ich das Wort nicht erraten kann?**
+    *   **A:** Nutze Ingame‑Hinweise, um dir helfen zu lassen. Durch bestandene
+        Level verdienst du oft Münzen, mit denen du weitere Hinweise kaufen
+        kannst.
 
-- **A:** The game has different modes, including an expert mode for a greater challenge. The puzzles also get progressively more difficult as you advance.
-
-    - **Q: Are there different difficulty levels?**
-
-- **A:** You can use the in-game hints to help you. You can also earn coins by passing levels to buy more hints.
-
-    - **Q: What if I can't guess the word?**
-**Was passiert, wenn mir kein Wort mehr einfällt?**  
-Nutze Hinweise oder überspringe das Rätsel, falls verfügbar. Durch gelöste Puzzles sammelst du meist Münzen, mit denen du weitere Hinweise kaufen kannst.
-
-**Gibt es unterschiedliche Schwierigkeitsgrade?**  
-Ja, mit steigender Stufe werden die Verknüpfungen zwischen den Bildern abstrakter, und in speziellen Modi steigt der Anspruch zusätzlich.
+*   **F: Gibt es unterschiedliche Schwierigkeitsgrade?**
+    *   **A:** Ja. Es gibt verschiedene Modi (z. B. einen Expertenmodus) und die
+        Rätsel werden mit dem Fortschritt nach und nach schwieriger.

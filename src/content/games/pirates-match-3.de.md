@@ -60,21 +60,14 @@ Das Spiel wird mit Maus oder Touch gesteuert.
 ### Häufige Fragen (FAQ)
 
 *   **F: Wie zerstöre ich Holzbretter oder Ketten?**
-    **A:** Du musst direkt über diesen Feldern kombinieren oder die
-    eingeschlossenen Steine in ein Match einbeziehen. Manche Hindernisse
-    benötigen mehrere Treffer.
+    *   **A:** Du musst direkt auf dem Brett matchen bzw. den verketteten Stein
+        in ein Match einbeziehen. Manche Hindernisse brauchen mehrere Treffer.
 
-    - **F: Welche Power-up-Kombi ist am stärksten?**
-    **A:** Zwei „Match-5-in-einer-Reihe“-Steine zusammen sind meist extrem
-    stark, da sie fast das gesamte Board leeren. Eine Bombe mit einem
-    Reihen-Clear ist ebenfalls sehr mächtig.
+*   **F: Welche Power-up-Kombi ist am stärksten?**
+    *   **A:** Zwei „Match‑5 in einer Linie“-Power-ups zusammen sind meist am
+        stärksten, weil sie das gesamte Board räumen. Sehr effektiv ist auch
+        eine Bombe kombiniert mit einem Reihen-/Spalten‑Clear.
 
 *   **F: Was passiert, wenn mir die Züge ausgehen?**
-
-    - **A:** If you fail to complete the level's objective before running out of moves, you will have to restart the level.
-
-- **Q: What happens if I run out of moves?**
-
-    - **A:** Swapping two "Match 5 in a line" power-ups is usually the most powerful, as it clears the entire board. A bomb combined with a line-clearer is also extremely effective.
-    **A:** Erreichst du das Levelziel nicht, bevor alle Züge verbraucht sind,
-    musst du das Level neu starten.
+    *   **A:** Wenn du das Levelziel nicht erreicht hast, bevor dir die Züge
+        ausgehen, musst du das Level neu starten.

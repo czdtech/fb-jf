@@ -54,20 +54,14 @@ Scooter Xtreme 3D ist ein actionreicher Stunt- und Rennspaß auf dem Roller.
 ### Häufige Fragen (FAQ)
 
 *   **F: Wie bekomme ich mehr Punkte?**
-    **A:** Verbinde mehrere Tricks zu langen Combos und lande sauber, ohne zu
-    stürzen. Dein Multiplikator steigt mit der Länge und Vielfalt der
-    Trickabfolge.
+    *   **A:** Verbinde mehrere Tricks zu langen Combos und lande sauber, ohne zu
+        stürzen. Dein Multiplikator steigt mit der Länge und Vielfalt der
+        Trickabfolge.
 
-    - **F: Was passiert bei einem Sturz?**
-    **A:** Du wirst meist zum letzten Checkpoint zurückgesetzt, verlierst Zeit
-    und deine aktuelle Combo.
+*   **F: Was passiert bei einem Sturz?**
+    *   **A:** Du wirst meist zum letzten Checkpoint zurückgesetzt, verlierst
+        wertvolle Zeit und deine aktuelle Combo.
 
 *   **F: Wie schalte ich neue Charaktere und Scooter frei?**
-
-    - **A:** By collecting coins scattered throughout the levels. Once you have enough, you can visit the in-game shop to purchase new gear and riders.
-
-- **Q: How do I unlock new characters and scooters?**
-
-    - **A:** You will usually be reset to the last checkpoint you passed, but you will lose valuable time and your current combo streak.
-    **A:** Sammle Münzen in den Leveln und kaufe damit im Ingame-Shop neue
-    Fahrer und Fahrzeuge.
+    *   **A:** Sammle Münzen, die in den Leveln verteilt sind. Wenn du genug
+        hast, kannst du im Ingame‑Shop neue Scooter und Fahrer kaufen.

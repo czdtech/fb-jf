@@ -36,22 +36,15 @@ Traffic Tom ist ein schnelles Motorrad‑Rennspiel aus der Third‑Person‑Pers
 
 ### Häufige Fragen (FAQ)
 
+*   **F: Was passiert, wenn ich mit einem Fahrzeug kollidiere?**
+    *   **A:** Dein Run endet und du musst das Level von vorne starten.
+
+*   **F: Wie bekomme ich ein neues Motorrad?**
+    *   **A:** Im Ingame‑Garage/Shop kannst du neue Bikes mit den Münzen kaufen,
+        die du während deiner Runs sammelst und für abgeschlossene Missionen
+        erhältst.
 
 *   **F: Gibt es eine Möglichkeit, schneller zu fahren?**
-    *   **A:** Neben dem Aufrüsten der Höchstgeschwindigkeit deines Motorrads können einige Level Boost-Felder auf der Straße haben, die dir einen temporären Geschwindigkeitsschub geben, wenn du darüber fährst.
-
-- **A:** You can purchase new bikes from the in-game garage using the coins you collect during your runs and for completing missions.
-
-    - **Q: How do I get a new motorcycle?**
-
-- **A:** Your run will end, and you will have to restart the level from the beginning.
-
-    - **Q: What happens if I crash into another vehicle?**
-**Was passiert bei einem Crash?**  
-Du prallst gegen ein Fahrzeug oder Hindernis, dein Run ist sofort beendet und du musst das Level neu starten.
-
-**Wie bekomme ich neue Motorräder?**  
-Im In‑Game‑Shop kannst du mit erspielten Münzen neue Bikes freischalten oder dein aktuelles Modell aufrüsten.
-
-**Kann ich schneller fahren?**  
-Ja – durch Upgrades am Bike und gelegentliche Boost‑Felder oder Nitro‑Funktionen, die dir kurzfristig einen Geschwindigkeitsschub geben.
+    *   **A:** Neben Upgrades für die Höchstgeschwindigkeit gibt es in manchen
+        Leveln Boost‑Pads, die dir beim Drüberfahren kurzzeitig einen
+        Geschwindigkeitsschub geben.
