@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2025-12-24T03:42:00.701Z",
+  "generatedAt": "2025-12-25T03:44:07.956Z",
   "window": "7d",
   "source": "ga4",
   "items": [
     {
       "slug": "incredibox",
-      "score": 115
+      "score": 140
     },
     {
       "slug": "steal-a-brainrot",
-      "score": 62
+      "score": 63
     },
     {
       "slug": "99-nights-in-the-forest",
-      "score": 20
+      "score": 21
     },
     {
       "slug": "fiddlebops-but-sprunki",
-      "score": 17
+      "score": 20
     },
     {
       "slug": "grow-a-garden",
@@ -29,15 +29,15 @@
     },
     {
       "slug": "fiddlebops-but-dandys-world",
-      "score": 12
+      "score": 13
     },
     {
       "slug": "incredibox-cool-as-ice",
-      "score": 10
+      "score": 13
     },
     {
       "slug": "sprunki-phase-8",
-      "score": 9
+      "score": 11
     },
     {
       "slug": "baldis-basics",
@@ -45,6 +45,10 @@
     },
     {
       "slug": "gladihoppers",
+      "score": 7
+    },
+    {
+      "slug": "sprunki-clicker",
       "score": 7
     },
     {
@@ -64,19 +68,31 @@
       "score": 5
     },
     {
+      "slug": "sprunki-abgerny",
+      "score": 5
+    },
+    {
       "slug": "sprunki-but-with-memes",
       "score": 5
+    },
+    {
+      "slug": "incredibox-donki-abgerny",
+      "score": 4
     },
     {
       "slug": "pokemon-fire-red",
       "score": 4
     },
     {
-      "slug": "sprunki-clicker",
-      "score": 4
+      "slug": "dumb-ways-to-die",
+      "score": 3
     },
     {
       "slug": "fiddlebops-sprunkbop",
+      "score": 3
+    },
+    {
+      "slug": "geometry-dash-wave",
       "score": 3
     },
     {
@@ -96,7 +112,7 @@
       "score": 3
     },
     {
-      "slug": "sprunki-abgerny",
+      "slug": "sprunki-mustard",
       "score": 3
     },
     {
@@ -108,10 +124,6 @@
       "score": 2
     },
     {
-      "slug": "dumb-ways-to-die",
-      "score": 2
-    },
-    {
       "slug": "elastic-man",
       "score": 2
     },
@@ -120,11 +132,15 @@
       "score": 2
     },
     {
-      "slug": "fleeing-the-complex",
+      "slug": "fiddlebops-polos",
       "score": 2
     },
     {
-      "slug": "geometry-dash-wave",
+      "slug": "fiddlebops-sprunksters-remix",
+      "score": 2
+    },
+    {
+      "slug": "fleeing-the-complex",
       "score": 2
     },
     {
@@ -132,7 +148,7 @@
       "score": 2
     },
     {
-      "slug": "incredibox-donki-abgerny",
+      "slug": "incredibox-trillybox",
       "score": 2
     },
     {
@@ -152,7 +168,7 @@
       "score": 2
     },
     {
-      "slug": "sprunki-mustard",
+      "slug": "sprunki-eggs-mix",
       "score": 2
     },
     {
@@ -189,14 +205,6 @@
     },
     {
       "slug": "daily-word-climb",
-      "score": 1
-    },
-    {
-      "slug": "fiddlebops-polos",
-      "score": 1
-    },
-    {
-      "slug": "fiddlebops-sprunksters-remix",
       "score": 1
     },
     {
@@ -256,7 +264,7 @@
       "score": 1
     },
     {
-      "slug": "incredibox-trillybox",
+      "slug": "incredibox-shatter-sprunk",
       "score": 1
     },
     {
@@ -273,6 +281,10 @@
     },
     {
       "slug": "infiltrating-the-airship",
+      "score": 1
+    },
+    {
+      "slug": "mundo-torajo-sprunki",
       "score": 1
     },
     {
@@ -316,6 +328,10 @@
       "score": 1
     },
     {
+      "slug": "sprunkgerny",
+      "score": 1
+    },
+    {
       "slug": "sprunki-1996",
       "score": 1
     },
@@ -324,11 +340,27 @@
       "score": 1
     },
     {
+      "slug": "sprunki-basical",
+      "score": 1
+    },
+    {
       "slug": "sprunki-cool-as-ice",
       "score": 1
     },
     {
+      "slug": "sprunki-craft",
+      "score": 1
+    },
+    {
+      "slug": "sprunki-interactive-beta",
+      "score": 1
+    },
+    {
       "slug": "sprunki-like-minecraft",
+      "score": 1
+    },
+    {
+      "slug": "sprunki-minecraft",
       "score": 1
     },
     {
