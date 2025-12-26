@@ -17,6 +17,7 @@ releaseDate: 2025-08-16
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 Block Champ is a strategic puzzle game played on a 10x10 grid. It combines the line-clearing mechanics of classic block puzzle games with unique special blocks to create a more dynamic challenge. The objective is to score as many points as possible by strategically placing a variety of given block shapes onto the grid.
@@ -29,6 +30,7 @@ What sets Block Champ apart are its special blocks:
 
 The game requires foresight and careful space management to achieve a high score.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy
 
 -   **Keep Your Options Open:** Avoid creating single, isolated empty squares. These "holes" are very difficult to fill, as you must wait for a 1x1 block, which is rare. Try to keep the board as flat and open as possible.
@@ -38,6 +40,7 @@ The game requires foresight and careful space management to achieve a high score
 -   **Prioritize Clearing Ice Blocks:** Ice blocks are a major threat because they clog up the board and require double the effort to remove. Make it your top priority to clear the lines they occupy. Letting them accumulate can quickly end your game.
 -   **Think in Threes:** Always consider all three pieces available to you before making a move. Sometimes the best move isn't placing the easiest piece, but placing one piece in a way that sets up perfect spots for the other two.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 The game features very simple drag-and-drop controls, suitable for both mouse and touch devices.
@@ -48,16 +51,22 @@ The game features very simple drag-and-drop controls, suitable for both mouse an
 
 **Important Note:** The pieces cannot be rotated. You must use them in the orientation they are given.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
+<!-- i18n:faq:id=faq:block-champ:can-i-rotate-the-blocks-5b286f35 -->
 **1. Can I rotate the blocks?**
 > No, rotation is not a feature in Block Champ. This is a core part of the challenge, forcing you to work with the shapes exactly as they are presented.
 
+<!-- i18n:faq:id=faq:block-champ:what-do-the-lightning-bolts-d0045a3f -->
 **2. What do the lightning bolts do exactly?**
 > A lightning bolt is on a single square within a larger piece. When you complete the line (row OR column) that this specific square is in, the lightning activates. If you completed a row, it will clear the entire column it was in. If you completed a column, it will clear the entire row it was in.
 
+<!-- i18n:faq:id=faq:block-champ:how-do-i-get-rid-35d6c38b -->
 **3. How do I get rid of the frozen or ice blocks?**
 > You must clear the line containing the ice block two times. The first time you complete the line, the ice will break, but the block underneath remains. The second time you complete that same line, the block will be removed like any normal clear.
 
+<!-- i18n:faq:id=faq:block-champ:why-did-the-game-end-c2ae1a32 -->
 **4. Why did the game end even though I have space on the board?**
 > The game ends when there is no valid position on the board for ANY of the three pieces you are currently holding. Even if the board looks mostly empty, if none of your specific shapes can fit into the available gaps, the game is over.
+

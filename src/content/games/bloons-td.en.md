@@ -14,6 +14,7 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ## Game Introduction
 
 Bloons TD (Tower Defense) is a highly popular series of tower defense games. The core premise is straightforward yet engaging: players must prevent waves of balloons, known as "Bloons," from traversing a set path and reaching the exit. To do this, players strategically place a variety of "monkey towers" along the path.
@@ -28,6 +29,7 @@ Key features of the series include:
 
 The goal is to survive all the rounds on a given map and difficulty without losing all your lives.
 
+<!-- i18n:section:tips -->
 ## Gameplay Strategy
 
 -   **Early Game is Key:** Start with cost-effective towers. A few upgraded Dart Monkeys or a Tack Shooter placed on a sharp corner can handle the initial waves cheaply, allowing you to save money for more powerful defenses later.
@@ -40,6 +42,7 @@ The goal is to survive all the rounds on a given map and difficulty without losi
 -   **Map Placement Matters:** Place towers where they can cover the most track. Bends and intersections are ideal spots. Place long-range towers like Sniper Monkeys where they have a clear line of sight across the map.
 -   **Invest in Economy:** On harder maps and modes, generating extra income is vital. Banana Farms are towers dedicated solely to producing more money each round, allowing you to afford the most expensive and powerful upgrades.
 
+<!-- i18n:section:controls -->
 ## Controls Guide
 
 The game is primarily controlled via mouse or touch screen, making it very intuitive.
@@ -49,11 +52,14 @@ The game is primarily controlled via mouse or touch screen, making it very intui
 -   **Using Abilities:** Some tower upgrades grant activated abilities. These will appear as buttons in the tower's menu or at the bottom of the screen. Click them to activate their effect.
 -   **Hotkeys (PC):** Most towers and upgrades are bound to hotkeys (e.g., Q for Dart Monkey, comma and period for upgrades), allowing for very fast placement and upgrading for experienced players.
 
+<!-- i18n:section:faq -->
 ## Frequently Asked Questions (FAQ)
 
+<!-- i18n:faq:id=faq:bloons-td:why-are-my-towers-not-9734821b -->
 **1. Why are my towers not attacking certain Bloons?**
 > This is usually due to special Bloon properties. If a Bloon is green with a camo pattern, it's a **Camo Bloon**, and only specific towers or towers with a "camo detection" upgrade can see it. If it's a grey, metallic Bloon, it's a **Lead Bloon**, and it's immune to sharp projectiles like darts and tacks. You need explosive or magical attacks to pop it.
 
+<!-- i18n:faq:id=faq:bloons-td:what-is-a-moab-bfb-6c34da0f -->
 **2. What is a MOAB, BFB, ZOMG, DDT, or BAD?**
 > These are all "MOAB-class" blimps that appear in later rounds. They are extremely durable and move slowly. From weakest to strongest:
 > - **MOAB** (blue blimp): Contains 4 Ceramic Bloons.
@@ -62,9 +68,12 @@ The game is primarily controlled via mouse or touch screen, making it very intui
 - **DDT** (fast, black blimp): Has Camo, Lead, and Black Bloon properties, making it very dangerous.
 - **BAD** (purple blimp): The toughest blimp in the game, contains ZOMGs and DDTs.
 
+<!-- i18n:faq:id=faq:bloons-td:what-is-the-best-tower-548c67b5 -->
 **3. What is the "best" tower in the game?**
 > There is no single "best" tower. The strength of Bloons TD lies in its balance and synergy. A tower that is amazing in one situation might be useless in another. The best strategy is to build a diverse team of towers that support each other and cover all weaknesses.
 
+<!-- i18n:faq:id=faq:bloons-td:how-do-i-make-more-29f9db80 -->
 **4. How do I make more money?**
 > The primary way is by popping Bloons. For a significant income boost, build and upgrade Banana Farms. Some other towers, like the Alchemist or Monkey Buccaneer, also have upgrade paths that generate money.
+
 

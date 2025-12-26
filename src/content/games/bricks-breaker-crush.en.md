@@ -12,10 +12,12 @@ releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Bricks Breaker Crush fires barrages of balls that ricochet through numbered bricks. Your aim sets the initial trajectory; bricks count down as they’re hit. Mastery is about shaping long ricochet paths, multiplying contacts per volley, and preventing walls from reaching the bottom.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Shallow angles: Start at modest angles to maximize side‑to‑side hits.
@@ -25,22 +27,28 @@ Bricks Breaker Crush fires barrages of balls that ricochet through numbered bric
 5.  Emergency clears: When a row is critical, aim direct shots to neutralize it before it drops.
 6.  Power‑ups: Save line clears for emergencies; chain with big volleys when possible.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Drag to aim; release to fire the volley.
 - Power‑ups trigger on catch or tap depending on the build.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- Q: My shots feel too random—how do I get control?
+- <!-- i18n:faq:id=faq:bricks-breaker-crush:my-shots-feel-too-randomhow-50c1bbd0 -->
+  Q: My shots feel too random—how do I get control?
   
   A: Use modest angles and shape lanes that keep balls looping near the ceiling; avoid steep, chaotic caroms.
 
-- Q: What should I prioritize: +ball or clears?
+- <!-- i18n:faq:id=faq:bricks-breaker-crush:what-should-i-prioritize-ball-bc4d1014 -->
+  Q: What should I prioritize: +ball or clears?
   
   A: Early +ball pickups snowball; in danger, clear critical columns first.
 
-- Q: The wall keeps dropping—any fix?
+- <!-- i18n:faq:id=faq:bricks-breaker-crush:the-wall-keeps-droppingany-fix-0147ce52 -->
+  Q: The wall keeps dropping—any fix?
   
   A: Stop building traps and fire surgical shots at the highest numbers near the bottom edge.
+
 

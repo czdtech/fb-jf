@@ -13,10 +13,12 @@ releaseDate: 2025-10-18
 
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Bricks Breaker House is a themed brick‑breaker where each board introduces fresh obstacles and gentle twists. Your job is classic: keep volleys alive, route shots through high‑value tiles, and leverage power‑ups without losing control.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Aim for controlled caroms around 30–45° to keep predictable loops.
@@ -25,22 +27,28 @@ Bricks Breaker House is a themed brick‑breaker where each board introduces fre
 4.  Don’t over‑pursue bonuses if they jeopardize a catch.
 5.  On tight boards, prioritize clearing bricks that open new angles.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Move paddle with A/D or Left/Right; mouse/touch controls supported.
 - Serve with Space/Click; catch power‑ups on the paddle.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- Q: Which upgrades should I prioritize?
+- <!-- i18n:faq:id=faq:bricks-breaker-house:which-upgrades-should-i-priori-68a6da2d -->
+  Q: Which upgrades should I prioritize?
   
   A: Widen‑paddle and multi‑ball are the safest; speed boosts are riskier.
 
-- Q: How do I deal with narrow tunnels?
+- <!-- i18n:faq:id=faq:bricks-breaker-house:how-do-i-deal-with-3e27b52e -->
+  Q: How do I deal with narrow tunnels?
   
   A: Serve a modest angle and prepare for rapid rhythmic catches.
 
-- Q: Is there a best serve angle?
+- <!-- i18n:faq:id=faq:bricks-breaker-house:is-there-a-best-serve-f67211f3 -->
+  Q: Is there a best serve angle?
   
   A: Mid angles (30–45°) usually provide the best balance of control and coverage.
+
 

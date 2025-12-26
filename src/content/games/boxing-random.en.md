@@ -15,6 +15,7 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 Boxing Random is a whimsical and chaotic physics-based fighting game with an extremely simple control scheme. Unlike traditional boxing games that require complex combos and strategies, Boxing Random thrives on unpredictability and humor. The objective is to be the first player to score 5 points. A point is scored by landing a single successful punch on the opponent's head.
@@ -27,6 +28,7 @@ The "Random" in the title is the core feature of the game. At the start of each 
 
 This constant randomness ensures that no two rounds are ever the same and forces players to constantly adapt their tactics. The game is known for its ragdoll physics, which leads to hilarious, wobbly character movements and unpredictable knockouts. It can be played solo against an AI or locally with a second player.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy
 
 -   **Embrace the Chaos:** Do not try to play this like a serious boxing game. The key to winning is to adapt to the random elements of each round and use them to your advantage.
@@ -36,6 +38,7 @@ This constant randomness ensures that no two rounds are ever the same and forces
 -   **Play Defensively:** Your swinging arm isn't just for attacking. It can also act as a shield, blocking the opponent's incoming punch. Sometimes, a well-timed swing can knock their fist away, creating an opening for you.
 -   **Adapt to Your Arms:** If you get a round with very long arms, try to keep your distance and attack from afar. If you have short arms, you need to get in close and be aggressive.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 The game is famous for its one-button control scheme.
@@ -48,17 +51,23 @@ The game is famous for its one-button control scheme.
 
 **Note:** The same button controls all actions. Pressing it makes your character jump/lean and automatically swing their arm.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
+<!-- i18n:faq:id=faq:boxing-random:how-do-i-win-a-e21b4f7d -->
 **1. How do I win a round?**
 > You win a round by landing one clean punch on your opponent's head. The first player to win 5 rounds wins the entire match.
 
+<!-- i18n:faq:id=faq:boxing-random:why-do-the-characters-look-21310768 -->
 **2. Why do the characters look and move so strangely?**
 > That's the core feature of the game! The characters and physics are randomized each round. You might have long arms, a different background, or face new obstacles. The wobbly "ragdoll" physics is what makes the game fun and unpredictable.
 
+<!-- i18n:faq:id=faq:boxing-random:is-there-a-way-to-78bb8bae -->
 **3. Is there a way to block?**
 > There is no dedicated block button. However, you can use your own swinging arm as a makeshift shield to block or deflect the opponent's punch. This requires good timing.
 
+<!-- i18n:faq:id=faq:boxing-random:can-i-play-this-game-0d71baf7 -->
 **4. Can I play this game by myself?**
 > Yes, Boxing Random has a single-player mode where you compete against a computer-controlled opponent (AI).
+
 

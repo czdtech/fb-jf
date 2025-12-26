@@ -14,6 +14,7 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 Bloons TD 6 is the latest and most expansive installment in the acclaimed tower defense series. The game elevates the classic formula with full 3D graphics, a host of new mechanics, and an unprecedented level of strategic depth. The objective remains to strategically place and upgrade monkey towers to prevent waves of "Bloons" from reaching the exit.
@@ -28,6 +29,7 @@ The game fundamentally changes the upgrade system by giving each tower **three d
 -   **Line of Sight:** For the first time, 3D objects on the map can block the line of sight of certain towers, adding a new layer to placement strategy.
 -   **Paragons:** The ultimate late-game towers. By having all three Tier 5 towers of a single monkey type on the field, you can sacrifice them to create an immensely powerful Paragon version of that monkey.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy
 
 -   **Synergy is King:** BTD6 is all about tower combinations. The most famous synergy is pairing a strong damage tower (like a 2/0/3 Super Monkey) with a 4/2/0 **Alchemist** (Stronger Stimulant), which provides a massive boost to damage and attack speed.
@@ -43,6 +45,7 @@ The game fundamentally changes the upgrade system by giving each tower **three d
 -   **Build a Strong Economy:** Banana Farms are still the best way to generate money. The 2/3/0 `Marketplace` path provides hands-free income, while the 4/2/0 `Central Market` path is highly efficient for large-scale farming.
 -   **Plan for Paragons:** In extreme late-game or Boss Events, Paragons are your win condition. To get a high-degree Paragon, you need to sacrifice as many towers of that type as possible, have a high pop count on them, and invest a lot of money into the final upgrade.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 The controls are intuitive for PC (mouse) and mobile (touch).
@@ -52,20 +55,27 @@ The controls are intuitive for PC (mouse) and mobile (touch).
 -   **Tower Abilities:** Activated abilities for regular towers appear in the bottom-left corner of the screen.
 -   **Hotkeys (PC):** Each monkey tower and its upgrades are assigned a hotkey (e.g., Q for Dart Monkey, 1/2/3 for upgrade paths). This allows for extremely fast gameplay for experienced players.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
+<!-- i18n:faq:id=faq:bloons-td-6:what-is-the-best-hero-fd93e6b7 -->
 **1. What is the best Hero to start with?**
 > **Sauda** is widely considered the most beginner-friendly Hero. She is relatively cheap and can single-handedly beat the first 20-30 rounds on most beginner maps, allowing you to focus on building your economy.
 
+<!-- i18n:faq:id=faq:bloons-td-6:how-do-i-beat-ddts-4a5c8219 -->
 **2. How do I beat DDTs? They are destroying my defense.**
 > DDTs require a multi-faceted defense. You need towers that can see camo, pop lead/black, and have high damage. A Monkey Village with **Monkey Intelligence Bureau (x/3/x)** is invaluable, as it lets all nearby towers damage any Bloon type. Pair this with high-damage towers like a 2/0/5 Tack Shooter or a 0/2/5 Perma-Spike factory.
 
+<!-- i18n:faq:id=faq:bloons-td-6:why-cant-i-damage-the-906554ad -->
 **3. Why can't I damage the Purple Bloons?**
 > Purple Bloons are immune to energy, plasma, fire, and magic-based attacks. This includes many upgrades from the Wizard Monkey and Super Monkey. You must use towers that fire physical projectiles, like a Crossbow Master (Dart Monkey 0/2/5) or a Juggernaut (Dart Monkey 5/x/x).
 
+<!-- i18n:faq:id=faq:bloons-td-6:how-do-i-make-a-07bea3d1 -->
 **4. How do I make a Paragon?**
 > To create a Paragon, you must first have all three Tier 5 towers of a single monkey type (e.g., all three Tier 5 Dart Monkeys) placed on the map. Once you do, the upgrade button on any of them will change to a Paragon upgrade. The power of the Paragon depends on factors like the number of towers sacrificed, their total pop count, and money invested.
 
+<!-- i18n:faq:id=faq:bloons-td-6:what-is-chimps-mode-3b6712c1 -->
 **5. What is CHIMPS mode?**
 > CHIMPS is the hardest game mode in BTD6. It's an acronym for the rules: **N**o **C**ontinues, **N**o **H**earts Lost, **N**o **I**ncome (other than popping Bloons), **N**o **M**onkey Knowledge, **N**o **P**owers, and **N**o **S**elling. It is the ultimate test of a player's strategy.
+
 

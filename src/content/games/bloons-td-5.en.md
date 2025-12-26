@@ -14,6 +14,7 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 Bloons TD 5 is a landmark title in the tower defense genre, praised for its incredible depth, vibrant graphics, and massive amount of content. It refines the core formula of its predecessors: players place a wide variety of monkey towers with unique abilities to pop waves of increasingly difficult "Bloons."
@@ -28,6 +29,7 @@ BTD5 significantly expanded the game's universe with several key additions:
 -   **Massive Content:** Features dozens of tracks, Special Missions with unique rules, Daily Challenges, and a fully-featured Co-op mode.
 -   **Activated Abilities:** Many tier-4 upgrades grant powerful, player-activated abilities that can turn the tide of a battle, such as the MOAB Assassin's missile or the Heli Pilot's Downdraft.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy
 
 -   **Economy is Everything:** The single most important strategy for success in BTD5 is building a strong economy. Start building **Banana Farms** as early as possible. The most efficient upgrade path is 4/2 (`Banana Research Facility` with `More Bananas`), which generates crates of cash each round.
@@ -42,6 +44,7 @@ BTD5 significantly expanded the game's universe with several key additions:
     -   **Supa-Vac (Bloonchipper 2/4):** The ultimate crowd control. Its special ability sucks in even ZOMG-class Bloons, stalling them for your other towers to attack.
     -   **Sabotage Supply Lines (Ninja Monkey x/4):** This ability slows all Bloons on screen by half, which is absolutely critical in late-game rounds.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 The game uses a standard point-and-click or tap interface.
@@ -51,20 +54,27 @@ The game uses a standard point-and-click or tap interface.
 -   **Activated Abilities:** When a tower has an activated ability, a button for it will appear on the bottom left of the screen. Click it to use it.
 -   **Hotkeys:** The PC version uses hotkeys for placing towers and activating abilities, which are displayed on the icons.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
+<!-- i18n:faq:id=faq:bloons-td-5:what-is-the-best-tower-e969f316 -->
 **1. What is the best tower in Bloons TD 5?**
 > There is no single "best" tower. The game is about synergy. However, a fully sacrificed **Temple of the Monkey God** supported by a 2/3 **Monkey Village** is considered the most powerful combination in the game for raw damage.
 
+<!-- i18n:faq:id=faq:bloons-td-5:how-do-i-get-the-fd098d0c -->
 **2. How do I get the Temple of the Monkey God? It's not in the upgrade list.**
 > The Temple is the final upgrade (4/x) for the **Super Monkey**. You first need to buy the "Sun God" (3/x) upgrade. The Temple will then become available.
 
+<!-- i18n:faq:id=faq:bloons-td-5:how-does-sacrificing-for-the-b26fb21a -->
 **3. How does sacrificing for the Temple work?**
 > Before you click the final Temple upgrade button, you must have other towers placed within the Sun God's attack range. The game will "sacrifice" (remove) these towers and add their value to the Temple's power. To get the maximum power, you need to sacrifice at least $30,000 worth of towers from three of the four categories: Primary, Bomb/Tack, Glue/Ice, and Magic.
 
+<!-- i18n:faq:id=faq:bloons-td-5:what-is-a-zomg-and-0d537e0a -->
 **4. What is a ZOMG and how do I beat it?**
 > A ZOMG is the toughest blimp. It is very slow but has immense health. To beat it, you need extremely high, focused damage. A Temple, multiple MOAB-Assassin ability monkeys (Bomb Tower x/4), and the Sabotage Supply Lines ability from a Ninja are all key components of a ZOMG-killing strategy.
 
+<!-- i18n:faq:id=faq:bloons-td-5:are-special-agents-worth-it-5a39ac6f -->
 **5. Are Special Agents worth it?**
 > Yes, especially for beginners or on very difficult maps. A well-placed `Meerkat Spy` can provide early camo detection, and a `Bloonsday Device` can save you from a massive leak. They are powerful tools to help you win.
+
 

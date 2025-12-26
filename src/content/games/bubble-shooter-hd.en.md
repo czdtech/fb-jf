@@ -13,10 +13,12 @@ releaseDate: 2025-10-18
 
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Bubble Shooter HD is a polished, high-definition version of the timeless bubble-popping puzzle game. The goal is to clear the playing field by forming groups of three or more like-colored bubbles. With its simple, intuitive gameplay, crisp graphics, and satisfying chain reactions, this game offers endless hours of strategic fun for players of all skill levels.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Aim Carefully:** The game provides a guideline to help you aim. Use it to plan your shots precisely, especially for complex ricochet moves.
@@ -25,19 +27,25 @@ Bubble Shooter HD is a polished, high-definition version of the timeless bubble-
 4.  **Plan Ahead:** Pay attention to the color of the next bubble in your launcher. This allows you to plan two moves ahead and set up more effective combos.
 5.  **Don't Waste Shots:** In many versions, a certain number of missed shots (shots that don't create a match) will cause a new row of bubbles to appear at the top, increasing the difficulty. Make every shot count!
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 *   **Aim:** Move your mouse to aim the bubble launcher.
 *   **Shoot:** Click the left mouse button to fire a bubble.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: What is the objective of the game?**
+* <!-- i18n:faq:id=faq:bubble-shooter-hd:q-what-is-the-objective-0d640e0d -->
+  **Q: What is the objective of the game?**
     *   **A:** The main objective is to clear all the bubbles from the board and achieve the highest score possible. The game ends if the bubbles reach the bottom line.
 
-*   **Q: How do I get more points?**
+* <!-- i18n:faq:id=faq:bubble-shooter-hd:q-how-do-i-get-62133937 -->
+  **Q: How do I get more points?**
     *   **A:** You get more points by clearing large clusters of bubbles at once. Causing a chain reaction where many bubbles fall after you pop a small group above them is the best way to rack up a high score.
 
-*   **Q: Can I swap the bubble in my shooter?**
+* <!-- i18n:faq:id=faq:bubble-shooter-hd:q-can-i-swap-the-9bcb99fa -->
+  **Q: Can I swap the bubble in my shooter?**
     *   **A:** Some versions of Bubble Shooter allow you to swap the current bubble with the next one in the queue, but this feature is not always available. Check the game interface for a swap button.
+
 

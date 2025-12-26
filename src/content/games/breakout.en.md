@@ -15,6 +15,7 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 Breakout is a classic and highly influential arcade game. The concept is simple yet addictive: the player controls a horizontal paddle at the bottom of the screen, which is used to deflect a bouncing ball upwards. At the top of the screen is a wall of bricks. The objective is to destroy all the bricks by hitting them with the ball.
@@ -23,6 +24,7 @@ Each time the ball hits a brick, the brick disappears, and the player earns poin
 
 As more bricks are cleared, the ball often speeds up, increasing the difficulty. The challenge lies in controlling the ball's trajectory and clearing the screen without losing all your lives.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy
 
 -   **Master Angle Control:** This is the most crucial skill in Breakout. The direction the ball bounces depends on *where* it hits your paddle.
@@ -32,6 +34,7 @@ As more bricks are cleared, the ball often speeds up, increasing the difficulty.
 -   **Stay Near the Center:** Avoid frantically chasing the ball to the corners of the screen. It's better to make small, controlled movements and try to stay relatively centered. This gives you a better chance to react, no matter which direction the ball comes from.
 -   **Patience with the Last Brick:** Often, the most frustrating part of a level is trying to hit the very last brick. Don't panic. Take your time, focus on your paddle position, and try to set up the perfect angled shot to hit it.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 The controls for Breakout are famously simple and vary slightly depending on the platform.
@@ -46,17 +49,23 @@ The controls for Breakout are famously simple and vary slightly depending on the
 -   **Mobile Devices:**
     -   **Touch and Drag:** Tap and drag your finger across the bottom of the screen to move the paddle.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
+<!-- i18n:faq:id=faq:breakout:how-can-i-control-where-e30770fd -->
 **1. How can I control where the ball goes?**
 > You control the ball's direction by changing where it makes contact with your paddle. Hitting it with the center of the paddle sends it up vertically. Hitting it with the left side of the paddle sends it to the left, and hitting it with the right side sends it to the right. The further to the edge you hit it, the sharper the angle will be.
 
+<!-- i18n:faq:id=faq:breakout:why-does-the-ball-speed-238960cd -->
 **2. Why does the ball speed up?**
 > The ball speeding up is a core difficulty mechanic. It happens automatically after a certain number of hits or when you reach a certain color of brick. This keeps the game challenging as you progress through a level.
 
+<!-- i18n:faq:id=faq:breakout:what-is-the-best-way-ce39b501 -->
 **3. What is the best way to clear a level quickly?**
 > Use the "tunneling" strategy. Focus on breaking a hole through one of the side columns of bricks. Once the ball is behind the wall, it will do most of the work for you by bouncing around at the top of the screen.
 
+<!-- i18n:faq:id=faq:breakout:are-there-powerups-in-breakout-a7fa8400 -->
 **4. Are there power-ups in Breakout?**
 > The original classic Breakout did not feature power-ups. However, the game inspired an entire genre of "block-breaker" games, and many of its successors and modern versions (most famously *Arkanoid*) introduced power-ups like multi-ball, a longer paddle, laser cannons, a slower ball, a sticky paddle, etc.
+
 

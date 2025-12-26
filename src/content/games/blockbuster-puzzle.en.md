@@ -12,10 +12,12 @@ releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Blockbuster Puzzle tasks you with fitting incoming shapes to trigger line or cluster clears. The art is in pacing: keep multiple lanes viable, prepare “bomb” turns that clear large areas, and never burn your last escape pocket unless it secures a chain.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Keep two lanes free: Always preserve at least two flexible build lanes for awkward shapes.
@@ -24,22 +26,28 @@ Blockbuster Puzzle tasks you with fitting incoming shapes to trigger line or clu
 4.  Avoid single‑cell cavities: These are nearly impossible to fill consistently.
 5.  Convert advantage: When the board is open, push for multi‑line clears to snowball space.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Drag‑and‑drop pieces; rotate if supported.
 - Undo/Reset can recover from greedy mistakes.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- Q: Why do I keep losing despite early good clears?
+- <!-- i18n:faq:id=faq:blockbuster-puzzle:why-do-i-keep-losing-4221c529 -->
+  Q: Why do I keep losing despite early good clears?
   
   A: You’re over‑committing to one side and losing flexibility. Rebalance and keep a bailout pocket.
 
-- Q: Is rotation required to win?
+- <!-- i18n:faq:id=faq:blockbuster-puzzle:is-rotation-required-to-win-7544547c -->
+  Q: Is rotation required to win?
   
   A: No, but it helps. When rotation is limited, rely on symmetry and larger open lanes.
 
-- Q: Should I place big shapes first or last?
+- <!-- i18n:faq:id=faq:blockbuster-puzzle:should-i-place-big-shapes-9ac1a059 -->
+  Q: Should I place big shapes first or last?
   
   A: When the grid is tight, place the hardest shape first. When open, place to create multi‑line setups.
+
 

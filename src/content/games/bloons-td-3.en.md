@@ -14,6 +14,7 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 Bloons TD 3 is a pivotal entry in the tower defense series that significantly expanded upon its predecessors. The core gameplay remains focused on placing monkey towers to pop waves of "Bloons" before they complete a designated path. This installment, however, introduced several key features that became staples of the series.
@@ -27,6 +28,7 @@ The game offers multiple tracks and three difficulty levels (Easy, Medium, Hard)
 -   **Full Upgrade System:** Players could fully upgrade a tower by purchasing all of its available enhancements, making for very powerful late-game units.
 -   **Persistent Bloon Immunities:** The concepts of **Lead** (immune to sharp), **Black** (immune to explosions), and **White** (immune to freeze) Bloons are central to the game's strategy.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy
 
 -   **Balanced Start:** Begin with Dart Monkeys and Tack Shooters. Upgrade your Dart Monkeys to "Piercing Darts" quickly. A Boomerang Thrower is excellent for covering curved sections of the track.
@@ -39,6 +41,7 @@ The game offers multiple tracks and three difficulty levels (Easy, Medium, Hard)
     -   Remember, after the MOAB pops, it releases several Ceramic Bloons, so make sure your defense can handle the aftermath.
 -   **Spike-o-pults for Straights:** Place Spike-o-pults at the beginning of long, straight paths. Their spiked balls can travel a long distance, popping multiple Bloons along the way.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 The game uses a simple and intuitive point-and-click interface.
@@ -48,22 +51,29 @@ The game uses a simple and intuitive point-and-click interface.
 -   **Start Round/Fast Forward:** Use the buttons at the bottom right to start the next round or to speed up the game.
 -   **Hotkeys:** Use the number keys (1-8) to select towers. The spacebar starts the next round.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
+<!-- i18n:faq:id=faq:bloons-td-3:i-cant-pop-the-grey-99d90772 -->
 **1. I can't pop the grey (Lead) Bloons! What do I do?**
 > Lead Bloons are immune to all sharp projectiles (darts, tacks, boomerangs). You must use a Bomb Tower to pop them.
 
+<!-- i18n:faq:id=faq:bloons-td-3:what-is-the-big-blue-a2bae815 -->
 **2. What is the big blue blimp at the end of the game?**
 > That is the M.O.A.B. (Massive Ornary Air Blimp). It is a very durable boss Bloon. It moves slowly but can absorb a lot of damage before it pops.
 
+<!-- i18n:faq:id=faq:bloons-td-3:why-should-i-use-the-23ed004c -->
 **3. Why should I use the Monkey Beacon? It doesn't attack.**
 > The Monkey Beacon is a support tower. It provides a crucial range boost to all towers placed near it. A Super Monkey next to a Beacon can cover almost the entire map, making it far more effective.
 
+<!-- i18n:faq:id=faq:bloons-td-3:how-many-rounds-are-there-64671d2f -->
 **4. How many rounds are there?**
 > -   **Easy Difficulty:** 50 rounds.
 > -   **Medium Difficulty:** 50 rounds.
 > -   **Hard Difficulty:** 75 rounds.
 
+<!-- i18n:faq:id=faq:bloons-td-3:whats-the-difference-between-b-86ceeb66 -->
 **5. What's the difference between Black and White Bloons?**
 > Black Bloons are immune to explosions (from Bomb Towers). White Bloons are immune to being frozen (by Ice Towers). You need other towers like Dart Monkeys or Boomerangs to handle them.
+
 

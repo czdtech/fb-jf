@@ -12,10 +12,12 @@ releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Bonanza Shooter Bubble is a classic bubble shooter with generous banking and satisfying drops. Aim and fire to connect three or more of the same color, clearing clusters and causing dangling groups to fall. Success hinges on angle control, color management, and planning for the next bubble.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Bank shots: Use side‑wall bounces to reach tucked clusters.
@@ -24,22 +26,28 @@ Bonanza Shooter Bubble is a classic bubble shooter with generous banking and sat
 4.  Look‑ahead: If next bubble is shown, pre‑plan two moves to avoid blocking lanes.
 5.  Pace control: When the ceiling lowers, favor safe clears over greedy snipes.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Aim with mouse/touch and click/tap to fire; swap bubbles if the mode allows.
 - Pause/Restart via UI.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- Q: I can’t hit a covered cluster—any trick?
+- <!-- i18n:faq:id=faq:bonanza-shooter-bubble:i-cant-hit-a-covered-b59b46c1 -->
+  Q: I can’t hit a covered cluster—any trick?
   
   A: Bank off the side wall to approach from a shallower angle.
 
-- Q: Wrong colors keep coming—what should I do?
+- <!-- i18n:faq:id=faq:bonanza-shooter-bubble:wrong-colors-keep-comingwhat-s-f2f5d3ac -->
+  Q: Wrong colors keep coming—what should I do?
   
   A: Trim small groups and set up future collapses; swap bubbles if available.
 
-- Q: Do I need to collect stars?
+- <!-- i18n:faq:id=faq:bonanza-shooter-bubble:do-i-need-to-collect-b99d43db -->
+  Q: Do I need to collect stars?
   
   A: Stars are optional goals but help unlock extra levels—pursue them when it’s safe.
+
 

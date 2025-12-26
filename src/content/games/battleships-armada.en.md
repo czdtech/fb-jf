@@ -13,10 +13,12 @@ releaseDate: 2025-10-17
 
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Battleships Armada is a digital adaptation of the classic naval combat board game, Battleship. It's a game of pure strategy, deduction, and a little bit of luck. Each player secretly arranges their fleet of ships on a grid. Then, players take turns firing shots at the other player's grid in an attempt to locate and sink their entire fleet. The first player to sink all of their opponent's ships wins the game.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Strategic Placement:** The game begins with the placement phase. Don't place all your ships clustered together or all along the edges. A scattered, random-looking placement is harder for your opponent to guess.
@@ -24,19 +26,25 @@ Battleships Armada is a digital adaptation of the classic naval combat board gam
 3.  **Zeroing In:** Once you get a "Hit," you know you've found a ship. Your next shots should be focused on the adjacent squares (up, down, left, right) to find the rest of the ship. For example, if you hit C5, your next shots should be C4, C6, B5, and D5.
 4.  **Sinking the Ship:** Once you have hit all the squares that make up a single ship, it will be declared "sunk." Then you can resume your general search pattern to find the next ship.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 *   **Place Ships:** During the setup phase, click and drag your ships onto your grid. You can also click a ship to rotate it between horizontal and vertical alignment.
 *   **Fire a Shot:** During the combat phase, click on a square in your opponent's grid (usually the one on the right) to fire at those coordinates.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: How do I know where my opponent's ships are?**
+* <!-- i18n:faq:id=faq:battleships-armada:q-how-do-i-know-593c9265 -->
+  **Q: How do I know where my opponent's ships are?**
     *   **A:** You don't! That's the puzzle. You have to deduce their locations based on which of your shots are "hits" and which are "misses."
 
-*   **Q: What happens after I get a "Hit"?**
+* <!-- i18n:faq:id=faq:battleships-armada:q-what-happens-after-i-73af1860 -->
+  **Q: What happens after I get a "Hit"?**
     *   **A:** You should immediately start firing at the squares directly around the hit to find the rest of the ship. Ships are always in a straight line, so if you get a second hit, you know the ship's orientation.
 
-*   **Q: How do I win?**
+* <!-- i18n:faq:id=faq:battleships-armada:q-how-do-i-win-82c5f7c2 -->
+  **Q: How do I win?**
     *   **A:** You win by being the first player to successfully sink all five of your opponent's ships.
+
 

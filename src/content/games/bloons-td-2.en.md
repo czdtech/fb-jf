@@ -14,6 +14,7 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 Bloons TD 2 is the second installment in the classic tower defense series. The game builds upon the foundation of the original by introducing the key feature of **tower upgrades**. The objective remains the same: use monkeys to pop waves of advancing balloons ("Bloons") before they reach the end of the track and cost you lives.
@@ -34,6 +35,7 @@ The game is played over 50 rounds of increasing difficulty. Players earn money f
     -   **Zebra Bloons:** A combination of a Black and a White Bloon. When popped, it releases one of each.
     -   **Rainbow Bloons:** The toughest Bloon in the game. When popped, it releases two Zebra Bloons.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy
 
 -   **Balanced Defense is Essential:** This is the most critical strategy in Bloons TD 2. Because Black Bloons are immune to bombs and White Bloons are immune to ice, you cannot rely on just one type of damage. Your defense must include towers that can handle both (like Dart Monkeys, Tack Shooters, and Super Monkeys) alongside your specialized towers.
@@ -46,6 +48,7 @@ The game is played over 50 rounds of increasing difficulty. Players earn money f
 -   **Countering Black and White Bloons:** When you see waves of Black and White Bloons, you'll need towers like upgraded Dart Monkeys or Tack Shooters to do the initial popping, as your Bomb and Ice Towers will be ineffective against one type.
 -   **Saving for the Super Monkey:** The Super Monkey is your ultimate late-game weapon. Try to save up for one and place it where it has a long line of sight. It is your best defense against the dense Rainbow Bloon waves in the final rounds (46-50).
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 The controls are simple point-and-click, typical for Flash games of its era.
@@ -55,20 +58,27 @@ The controls are simple point-and-click, typical for Flash games of its era.
 -   **Upgrade a Tower:** Click on a tower that is already on the map. Its upgrade options will appear in the panel. Click on the desired upgrade to purchase it if you have enough money.
 -   **Hotkeys:** You can use the number keys (1-5) as shortcuts to select the corresponding towers.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
+<!-- i18n:faq:id=faq:bloons-td-2:why-isnt-my-bomb-tower-b290ce7b -->
 **1. Why isn't my Bomb Tower popping the black balloons?**
 > Black Bloons are immune to explosions. You need to use "sharp" attacks from towers like the Dart Monkey or Tack Shooter to pop them.
 
+<!-- i18n:faq:id=faq:bloons-td-2:why-are-the-white-balloons-e75769ed -->
 **2. Why are the white balloons going right through my Ice Tower's freeze?**
 > White Bloons are immune to freezing effects. They cannot be slowed or stopped by Ice Towers.
 
+<!-- i18n:faq:id=faq:bloons-td-2:what-is-the-best-tower-548c67b5 -->
 **3. What is the best tower in the game?**
 > There is no single "best" tower, as the game is designed around balance. The Super Monkey has the highest raw power, but you cannot win without Bomb Towers for Lead Bloons and a balanced defense for Black/White Bloons. A combination of towers is always the best strategy.
 
+<!-- i18n:faq:id=faq:bloons-td-2:how-many-rounds-are-there-bc36dc0a -->
 **4. How many rounds are there in Bloons TD 2?**
 > The game consists of 50 rounds. The final rounds feature a massive rush of Rainbow Bloons.
 
+<!-- i18n:faq:id=faq:bloons-td-2:how-do-i-make-extra-07b6fc14 -->
 **5. How do I make extra money?**
 > In Bloons TD 2, the only way to earn money is by popping Bloons. Unlike later games in the series, there are no Banana Farms or other abilities to generate extra income.
+
 

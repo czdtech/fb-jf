@@ -13,10 +13,12 @@ releaseDate: 2025-10-18
 
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Basketball serial shooter is a fast, score‑attack basketball challenge focused on timing, arc control, and shot selection. You’ll face moving hoops, shifting wind (in some variants), and limited time or balls. The core loop is to settle a repeatable release, read the basket movement, and string swishes without rim‑outs. As you progress, obstacles, moving backboards, and changing hoop heights add variety and demand cleaner mechanics.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Build a repeatable form: Pick a comfortable cursor position and release rhythm so each attempt feels consistent.
@@ -27,30 +29,38 @@ Basketball serial shooter is a fast, score‑attack basketball challenge focused
 6.  Wind adjustment (if present): Offset aim into the wind and add a touch more arc to compensate for drift.
 7.  Goal management: In timed modes, ignore risky coins or side targets unless alignment is clean.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Aim and power: Drag to set angle/power and release to shoot; some builds separate power on a hold bar.
 - Special targets: Tap bonus targets only when they line up with your normal arc.
 - Pause/Retry: Use on‑screen controls; some versions allow quick reset.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- Q: Why do my shots keep rimming out?
+- <!-- i18n:faq:id=faq:basketball-serial-shooter:why-do-my-shots-keep-ebf33bb9 -->
+  Q: Why do my shots keep rimming out?
   
   A: Your arc is too flat or power is too high. Raise the apex and reduce power slightly so the ball drops softly through the rim.
 
-- Q: How do I handle moving hoops?
+- <!-- i18n:faq:id=faq:basketball-serial-shooter:how-do-i-handle-moving-9460d31b -->
+  Q: How do I handle moving hoops?
   
   A: Watch a full motion cycle, pick a consistent phase (e.g., leftmost point), and release at that moment every time.
 
-- Q: Does wind matter in this game?
+- <!-- i18n:faq:id=faq:basketball-serial-shooter:does-wind-matter-in-this-2843bdec -->
+  Q: Does wind matter in this game?
   
   A: In variants with wind, aim slightly into the wind and add arc; practice a few test shots to calibrate drift.
 
-- Q: Any tip for streaks and multipliers?
+- <!-- i18n:faq:id=faq:basketball-serial-shooter:any-tip-for-streaks-and-926f54cf -->
+  Q: Any tip for streaks and multipliers?
   
   A: Start with close, safe shots to build a combo, then extend range once your rhythm is locked.
 
-- Q: Should I go for coin shots?
+- <!-- i18n:faq:id=faq:basketball-serial-shooter:should-i-go-for-coin-be4a4fb3 -->
+  Q: Should I go for coin shots?
   
   A: Only if their path matches your standard arc; otherwise you’ll lose more time and streak than you gain.
+

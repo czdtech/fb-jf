@@ -12,10 +12,12 @@ releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Bowling Stars is a casual ten‑pin bowling sim featuring aim, power, and hook control. Consistency and spare conversion define high scores—dial in your release and adapt to lane behavior to string together strikes.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Pocket hits: For right‑handers, aim between the 1–3 pins; left‑handers, 1–2 pocket.
@@ -24,15 +26,21 @@ Bowling Stars is a casual ten‑pin bowling sim featuring aim, power, and hook c
 4.  Tempo matters: A smooth, repeatable release beats random power spikes.
 5.  Adjust quickly: If you leave frequent splits, shift your starting line or reduce hook.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Aim: Drag left/right to set line.
 - Power: Hold/release to set speed.
 - Hook: Drag/tilt while rolling or set a spin parameter before release.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- How to reduce splits? Enter the pocket at a controllable angle; too steep or too flat increases split chances.
-- Any tip for 7/10? Use cross‑lane shots with enough angle; prioritize spare consistency over hero plays.
-- Why do I miss light/heavy? Adjust starting position or hook strength by small increments.
+- <!-- i18n:faq:id=faq:bowling-stars:how-to-reduce-splits-22c680ef -->
+  How to reduce splits? Enter the pocket at a controllable angle; too steep or too flat increases split chances.
+- <!-- i18n:faq:id=faq:bowling-stars:any-tip-for-710-5365d339 -->
+  Any tip for 7/10? Use cross‑lane shots with enough angle; prioritize spare consistency over hero plays.
+- <!-- i18n:faq:id=faq:bowling-stars:why-do-i-miss-lightheavy-a1826eba -->
+  Why do I miss light/heavy? Adjust starting position or hook strength by small increments.
+
 

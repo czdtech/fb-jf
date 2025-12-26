@@ -15,6 +15,7 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 Bloxorz is a challenging 3D puzzle game where the objective is to maneuver a 1x2x1 rectangular block through a series of floating platforms and into a square hole at the end of the stage. The challenge lies in navigating the block by rolling it, ensuring it doesn't fall off the edges of the platforms.
@@ -28,6 +29,7 @@ The puzzle elements evolve through the introduction of special tiles and switche
     -   **Hard Switches (`X`):** Can only be activated when the block is standing upright on them, applying its full weight.
     -   **Splitting Switches (`<>`):** When the block lies flat across this switch, it splits into two smaller, independent 1x1 cubes.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy
 
 -   **Think and Plan Ahead:** Bloxorz is a game of foresight. Before making a move, visualize the next few rolls. Count the squares to see where your block will land and in what orientation (standing or lying flat). Rushing will almost always lead to falling off.
@@ -41,6 +43,7 @@ The puzzle elements evolve through the introduction of special tiles and switche
 -   **Use Edges to Your Advantage:** Sometimes, you'll need to use the edge of a platform as a pivot point to get your block into a standing position where you otherwise couldn't. This is an advanced technique required for later levels.
 -   **Write Down Level Codes:** The game provides a unique code for each level. Write these down so you don't have to start from the beginning every time you play.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 The controls are simple and based on the keyboard's arrow keys.
@@ -51,17 +54,23 @@ The controls are simple and based on the keyboard's arrow keys.
 -   **Right Arrow Key:** Roll the block to the right.
 -   **Spacebar:** Switch control between the two smaller cubes after splitting.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
+<!-- i18n:faq:id=faq:bloxorz:why-did-i-fall-through-02b3bb8a -->
 **1. Why did I fall through the orange floor?**
 > You fell because your block was standing upright on the orange tile. These tiles are fragile and can only support the block when it's lying flat, distributing its weight across two squares.
 
+<!-- i18n:faq:id=faq:bloxorz:the-x-switch-is-not-3bcd7a15 -->
 **2. The 'X' switch is not working. What am I doing wrong?**
 > The 'X' switch is a "hard" or "heavy" switch. It requires the full, concentrated weight of the block to activate. You must position the block so it is standing vertically on top of the 'X' tile. Lying flat on it will not work.
 
+<!-- i18n:faq:id=faq:bloxorz:how-do-i-get-my-4d324308 -->
 **3. How do I get my two small blocks back together?**
 > To merge the two cubes back into the original block, you must move them so they are on adjacent squares (side-by-side). Then, select one cube and move it into the other. They will automatically combine.
 
+<!-- i18n:faq:id=faq:bloxorz:how-can-i-return-to-46010fe6 -->
 **4. How can I return to a level I've already reached?**
 > After completing each level, the game provides a 6-digit passcode. You can enter this code on the main menu screen to start directly from that level.
+
 

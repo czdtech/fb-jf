@@ -12,10 +12,12 @@ releaseDate: 2025-10-17
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 BlockDrop is a timeless and engaging puzzle game that challenges your strategic thinking and spatial awareness. The goal is to place different block shapes onto a 10x10 grid to create complete lines, either horizontally or vertically. When a line is completed, it disappears, freeing up space and earning you points. With no time limit, it’s a relaxing yet challenging game where you must plan your moves carefully to prevent the board from filling up.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Plan for All Three Blocks:** The game provides you with three block shapes at a time. Before placing the first one, mentally check if there is a viable spot for all three. This prevents you from getting stuck with an unplaceable piece.
@@ -23,20 +25,26 @@ BlockDrop is a timeless and engaging puzzle game that challenges your strategic 
 3.  **Keep Your Options Open:** Try to avoid creating single, isolated holes in your grid, as they can be very difficult to fill later on. The more open and less fragmented your board is, the more options you will have for placing new pieces.
 4.  **No Rotations:** The central challenge of the game is that you cannot rotate the blocks. You must learn to recognize the shapes and how they can fit together in their fixed orientations.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 The game features a simple drag-and-drop control scheme.
 
 *   **Place Blocks:** Use your mouse or finger to drag one of the three shapes from the bottom and drop it onto an empty space on the 10x10 grid.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: Can I rotate the pieces?**
+* <!-- i18n:faq:id=faq:blockdrop:q-can-i-rotate-the-93ca2109 -->
+  **Q: Can I rotate the pieces?**
     *   **A:** No, blocks cannot be rotated. You must use them in the orientation they are given.
 
-*   **Q: How does the game end?**
+* <!-- i18n:faq:id=faq:blockdrop:q-how-does-the-game-f20a1993 -->
+  **Q: How does the game end?**
     *   **A:** The game ends when there is no available space on the grid to place any of the three current block shapes.
 
-*   **Q: What's the best way to achieve a high score?**
+* <!-- i18n:faq:id=faq:blockdrop:q-whats-the-best-way-04ea0c4b -->
+  **Q: What's the best way to achieve a high score?**
     *   **A:** High scores come from two things: longevity and combos. Play as long as possible by keeping the board clean. More importantly, try to set up the board so you can clear two, three, or even four lines with a single piece to get massive combo bonuses.
+
 

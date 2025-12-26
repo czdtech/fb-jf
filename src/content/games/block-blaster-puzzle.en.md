@@ -12,10 +12,12 @@ releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Block Blaster Puzzle is a clean, session‑friendly block‑placement game. You’re given sets of pieces to fit onto a grid; completing rows or regions clears space. Success relies on shaping the board to accept awkward pieces later, staging multi‑line clears, and avoiding sealed cavities that cannot be filled.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Edge hygiene: Keep borders smooth to reduce isolated single cells.
@@ -25,30 +27,38 @@ Block Blaster Puzzle is a clean, session‑friendly block‑placement game. You�
 5.  Piece triage: Place the hardest piece first when the board gets crowded.
 6.  Use previews: If next pieces are visible, plan sequences instead of single moves.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Drag shapes onto the grid; rotate if supported by tapping or a rotate button.
 - Undo/Reset are helpful for greedy placements gone wrong.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- Q: I always run out of space—how can I last longer?
+- <!-- i18n:faq:id=faq:block-blaster-puzzle:i-always-run-out-of-6f2faac7 -->
+  Q: I always run out of space—how can I last longer?
   
   A: Focus on multi‑line clears and keep a couple of flexible pockets open. Place your hardest piece first when the grid is tight.
 
-- Q: Should I keep the board center open or fill edges first?
+- <!-- i18n:faq:id=faq:block-blaster-puzzle:should-i-keep-the-board-2592d134 -->
+  Q: Should I keep the board center open or fill edges first?
   
   A: Keep the center breathable and tidy edges gradually; the center gives the most flexibility for odd shapes.
 
-- Q: Rotations feel limited—any workaround?
+- <!-- i18n:faq:id=faq:block-blaster-puzzle:rotations-feel-limitedany-work-c9c8ef7d -->
+  Q: Rotations feel limited—any workaround?
   
   A: Not all variants allow rotation. Prioritize symmetric placements and leave pockets to accommodate rigid pieces.
 
-- Q: Are there levels or endless score chase?
+- <!-- i18n:faq:id=faq:block-blaster-puzzle:are-there-levels-or-endless-f2450d9a -->
+  Q: Are there levels or endless score chase?
   
   A: Many builds are endless; some offer level goals. Either way, board management is the key skill.
 
-- Q: When should I use undo?
+- <!-- i18n:faq:id=faq:block-blaster-puzzle:when-should-i-use-undo-92b92623 -->
+  Q: When should I use undo?
   
   A: Undo early when you notice a placement creates sealed cavities or removes your last flexible pocket.
+
 

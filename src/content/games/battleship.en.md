@@ -15,6 +15,7 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Introduction
 
 *Battleship* is a classic two-player strategy guessing game. The objective is to be the first to sink all of your opponent's warships. The game is played on two grids for each player: one grid represents your own ocean, where you secretly place your fleet of ships, and the other represents your opponent's ocean, which you use to track your guesses.
@@ -46,6 +47,7 @@ Winning at *Battleship* involves a combination of clever placement and logical d
 3.  **Sink the Ship:** Once you get a second consecutive hit, you know the ship's orientation (horizontal or vertical). Continue firing along that line until you get a "miss." This means you have found the end of the ship. Then, work your way down the other end until the ship is sunk.
 4.  **Use Logic:** Keep track of which ships have been sunk. If you've already sunk the 2-square Destroyer, you know that any single hit in an open area must be part of a larger ship. This helps you eliminate possibilities and make smarter guesses.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 For digital versions of *Battleship*, the controls are typically mouse-driven and very intuitive.
@@ -58,17 +60,23 @@ For digital versions of *Battleship*, the controls are typically mouse-driven an
     *   **Fire a Shot:** Click on a square on the opponent's grid to fire at that coordinate.
     *   **Game Feedback:** The game will automatically mark the square as a hit (usually with a red marker or explosion) or a miss (with a white marker or splash icon).
 
+<!-- i18n:section:faq -->
 ### Frequently Asked questions (FAQ)
 
+<!-- i18n:faq:id=faq:battleship:what-are-the-standard-ships-4cc4ec34 -->
 **1. What are the standard ships in a game of Battleship?**
 The standard fleet includes an Aircraft Carrier (5 squares), a Battleship (4 squares), a Cruiser (3 squares), a Submarine (3 squares), and a Destroyer (2 squares).
 
+<!-- i18n:faq:id=faq:battleship:can-i-place-ships-diagonally-ae341265 -->
 **2. Can I place ships diagonally?**
 No. In the standard rules of *Battleship*, ships can only be placed horizontally or vertically.
 
+<!-- i18n:faq:id=faq:battleship:is-it-better-to-place-8b4ddd62 -->
 **3. Is it better to place my ships touching each other or separated?**
 It is almost always better to place your ships so they are not touching. Spreading them out forces your opponent to start a new search pattern after sinking each ship, wasting their turns.
 
+<!-- i18n:faq:id=faq:battleship:is-the-game-just-pure-88a4cfc8 -->
 **4. Is the game just pure luck?**
 No. While there is an element of luck in the initial search, the game heavily relies on strategy, logic, and deduction. A player with a good search pattern and logical thinking will consistently beat a player who guesses randomly.
+
 

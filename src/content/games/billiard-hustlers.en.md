@@ -12,10 +12,12 @@ releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Billiard Hustlers is a slick pool sim that emphasizes aiming, spin, and cue‑ball control. Whether you’re playing 8‑ball, 9‑ball, or simple pot challenges, the core is identical: pocket your object balls while leaving the cue‑ball ideal for the next shot. Lighter tables and faster cloth encourage precise power and subtle english (spin) to shape routes across the table.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Pre‑plan position: Before every pot, decide where you want the cue‑ball to stop for the next shot.
@@ -25,6 +27,7 @@ Billiard Hustlers is a slick pool sim that emphasizes aiming, spin, and cue‑ba
 5.  Rails are allies: Learn natural two‑ and three‑rail paths to return to center or approach key balls.
 6.  Safety when needed: If the pot is low‑percentage, play a safety to leave your opponent tough.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Aim: Drag to line up; fine‑tune with small mouse movements.
@@ -32,25 +35,32 @@ Billiard Hustlers is a slick pool sim that emphasizes aiming, spin, and cue‑ba
 - Spin: Adjust the cue‑ball diagram for top/back/side spin.
 - Camera: Some versions allow pan/zoom for better sightlines.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- Q: My pots keep rattling out—what’s wrong?
+- <!-- i18n:faq:id=faq:billiard-hustlers:my-pots-keep-rattling-outwhats-b2a14f22 -->
+  Q: My pots keep rattling out—what’s wrong?
   
   A: You’re hitting too hard or at a poor angle. Reduce power, ensure clean aim through the pocket center, and avoid heavy sidespin on thin cuts.
 
-- Q: How do I control the cue‑ball better?
+- <!-- i18n:faq:id=faq:billiard-hustlers:how-do-i-control-the-22890c8f -->
+  Q: How do I control the cue‑ball better?
   
   A: Focus on speed first, then add small amounts of top/backspin. Use rails to bleed off speed and approach your next ball at a friendly angle.
 
-- Q: When should I play safe instead of potting?
+- <!-- i18n:faq:id=faq:billiard-hustlers:when-should-i-play-safe-84d772d4 -->
+  Q: When should I play safe instead of potting?
   
   A: If the pot is under 40–50% and leaves you snookered, a safety that tucks the cue‑ball behind traffic is often superior.
 
-- Q: Any tip for breaking clusters?
+- <!-- i18n:faq:id=faq:billiard-hustlers:any-tip-for-breaking-clusters-3ab2b80d -->
+  Q: Any tip for breaking clusters?
   
   A: Nudge clusters early while you have nearby insurance balls; use controlled speed to avoid sticking on the pack.
 
-- Q: 8‑ball vs 9‑ball patterns—what’s the difference?
+- <!-- i18n:faq:id=faq:billiard-hustlers:8ball-vs-9ball-patternswhats-t-73dec2b1 -->
+  Q: 8‑ball vs 9‑ball patterns—what’s the difference?
   
   A: 8‑ball prioritizes solving problem balls and end‑patterns; 9‑ball routes naturally in numeric order, focusing on cue‑ball lines between consecutive targets.
+
 
