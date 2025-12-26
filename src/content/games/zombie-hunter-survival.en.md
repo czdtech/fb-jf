@@ -12,10 +12,12 @@ releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Zombie Hunter: Survival is a survival‑style shooter. Move through cramped arenas, manage ammo and reload windows, and cut safe kiting paths while escalating waves pressure positioning and crowd control.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Circle kite: Run wide circles to group zombies and fire into clumps.
@@ -24,14 +26,20 @@ Zombie Hunter: Survival is a survival‑style shooter. Move through cramped aren
 4.  Target priority: Eliminate fast/ranged threats first.
 5.  Resource grabs: Take ammo/health only when routes are clear.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Move with WASD/Arrows; aim with mouse or keys; fire/Reload per UI.
 - Swap weapons if available.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- I get cornered—fix? Avoid dead‑ends; always leave an exit lane.
-- Ammo scarce—tips? Aim for clusters, use single shots, and pick up only when safe.
-- Bosses? Some waves add elites—kite wider and clear minions first.
+- <!-- i18n:faq:id=faq:zombie-hunter-survival:i-get-corneredfix-c5a84211 -->
+  I get cornered—fix? Avoid dead‑ends; always leave an exit lane.
+- <!-- i18n:faq:id=faq:zombie-hunter-survival:ammo-scarcetips-24d56ed0 -->
+  Ammo scarce—tips? Aim for clusters, use single shots, and pick up only when safe.
+- <!-- i18n:faq:id=faq:zombie-hunter-survival:bosses-5a57d05f -->
+  Bosses? Some waves add elites—kite wider and clear minions first.
+
 

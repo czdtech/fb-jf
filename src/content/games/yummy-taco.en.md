@@ -21,8 +21,10 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 Yummy Taco is a delightful and fast-paced cooking simulation game where you step into the role of a taco chef. Your mission is to prepare delicious tacos for a stream of hungry customers, managing ingredients, assembly, and serving with speed and accuracy. The game challenges your time management skills and ability to keep up with demand.
 
+<!-- i18n:section:tips -->
 ### Gameplay Guide
 
 - **Take Orders:** Customers will appear with speech bubbles indicating their desired taco ingredients.
@@ -31,12 +33,14 @@ Yummy Taco is a delightful and fast-paced cooking simulation game where you step
 - **Earn Money:** Successful and quick service earns you money, which can be used to purchase new ingredients, upgrade your kitchen, or unlock new recipes.
 - **Manage Ingredients:** Keep an eye on your ingredient supplies and restock as needed.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - **Mouse/Touch:** All interactions are typically done with mouse clicks or touch gestures.
     - **Click:** Select ingredients, click on customers, or interact with menu items.
     - **Drag and Drop:** Drag ingredients to assemble tacos or drag completed tacos to customers.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
 **What is the main goal of Yummy Taco?**
@@ -50,4 +54,5 @@ Serve customers quickly and accurately. Avoid mistakes in orders. Longer streaks
 **Can I upgrade my kitchen or recipes?**
 
 Yes, in many cooking simulation games like Yummy Taco, you can use the money you earn to upgrade your kitchen equipment, unlock new ingredients, or learn new, more complex recipes to attract more customers.
+
 

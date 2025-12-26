@@ -12,10 +12,12 @@ releaseDate: 2025-10-17
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Zumba Ocean is a vibrant and addictive marble shooter puzzle game, in the style of classics like Zuma. Set in a beautiful ocean world, a chain of colorful pearls slowly moves along a path. You control a shooter that fires pearls. Your mission is to eliminate the entire chain by shooting pearls to create matches of three or more of the same color before the chain reaches the final shell.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Create Combos:** The most effective way to clear the chain is by triggering combos. When you make a match, if the two new ends of the chain are the same color, they will attract each other and merge, often causing a new match automatically. This chain reaction is a combo and awards bonus points.
@@ -23,20 +25,26 @@ Zumba Ocean is a vibrant and addictive marble shooter puzzle game, in the style 
 3.  **Use Power-ups:** Be on the lookout for special pearls that appear in the chain. Shooting these can activate powerful boosters, such as a bomb that destroys a group of pearls or a reverse power-up that makes the chain move backward for a short time.
 4.  **Prioritize:** If the chain is getting dangerously close to the end, focus all your shots on the front part of the chain to push it back.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 *   **Aim:** Move your mouse to aim the pearl shooter.
 *   **Shoot:** Click the left mouse button to fire the pearl.
 *   **Swap:** You can often click on the shooter itself or press a key (like the spacebar) to swap the current pearl with the next one.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: What is the goal of the game?**
+* <!-- i18n:faq:id=faq:zumba-ocean:q-what-is-the-goal-ab58581b -->
+  **Q: What is the goal of the game?**
     *   **A:** To completely destroy the chain of pearls before any of them reach the shell at the end of the path.
 
-*   **Q: What happens if a pearl reaches the end?**
+* <!-- i18n:faq:id=faq:zumba-ocean:q-what-happens-if-a-98800e22 -->
+  **Q: What happens if a pearl reaches the end?**
     *   **A:** You lose the level and must start over.
 
-*   **Q: How do I get a high score?**
+* <!-- i18n:faq:id=faq:zumba-ocean:q-how-do-i-get-73fd7840 -->
+  **Q: How do I get a high score?**
     *   **A:** By creating long combos and clearing the level quickly. The faster you finish, and the more chain reactions you cause, the higher your score will be.
+
 
