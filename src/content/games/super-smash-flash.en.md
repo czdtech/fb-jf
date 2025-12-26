@@ -12,10 +12,12 @@ developer: ""
 releaseDate: 2025-08-16
 ---
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 Super Smash Flash is a legendary fan-made fighting game inspired by the official Super Smash Bros. series. It brings together a diverse roster of characters from various video game and anime franchises into a 2D platform-fighting arena. The game is celebrated for its fast-paced action and capturing the spirit of the original console games in a free-to-play Flash format.
 
+<!-- i18n:section:tips -->
 ### Gameplay Guide
 
 The objective is not to deplete a health bar, but to increase your opponent's damage percentage and launch them off the screen. The higher a character's percentage, the farther they will fly when hit.
@@ -24,6 +26,7 @@ The objective is not to deplete a health bar, but to increase your opponent's da
 - **Recovery:** If you are knocked off the stage, use your character's jumps and special moves to get back onto the platform.
 - **Items:** Items will periodically appear on the stage, which can be used to gain an advantage.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 The game can be played by two players on the same keyboard.
@@ -37,6 +40,7 @@ The game can be played by two players on the same keyboard.
     - **Special Move:** `G`
 - **Pause:** `Backspace`
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
 **How do I win a match?**
@@ -50,4 +54,5 @@ Combine the attack button (`P` or `F`) with directional keys. For example, press
 **Is this an official Nintendo game?**
 
 No, Super Smash Flash is a non-profit fan-made project created by McLeodGaming. It is a tribute to the Super Smash Bros. series.
+
 

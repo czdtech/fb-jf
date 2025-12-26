@@ -12,10 +12,12 @@ developer: ""
 releaseDate: 2025-08-16
 ---
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 This is a classic arcade-style tennis game that captures the simple, addictive fun of the sport. Players control a tennis player on the court, competing against a computer-controlled opponent in a fast-paced match. The goal is to hit the ball back and forth, scoring points when your opponent fails to return it.
 
+<!-- i18n:section:tips -->
 ### Gameplay Guide
 
 - **Objective:** Be the first player to win the required number of points or sets to win the match.
@@ -23,12 +25,14 @@ This is a classic arcade-style tennis game that captures the simple, addictive f
 - **Rallying:** After the serve, hit the ball back and forth with your opponent. You must return the ball before it bounces twice on your side of the court.
 - **Scoring:** You score a point if your opponent hits the ball out of bounds, into the net, or fails to return it before it bounces twice.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 Controls are designed to be simple and intuitive:
 - **Movement:** `Arrow Keys` or `WASD` to move your player around your side of the court.
 - **Swing / Hit:** `Spacebar` or `X` key to swing your racket and hit the ball. The timing of your swing can affect the power and direction of the shot.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
 **How do I score points in tennis?**
@@ -42,4 +46,5 @@ In most classic tennis games, your shot direction is determined by when you hit 
 **Can I play against another person?**
 
 Many classic tennis games feature a 2-player mode where you can compete against a friend on the same keyboard.
+
 

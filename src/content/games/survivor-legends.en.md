@@ -12,10 +12,12 @@ releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Survivor Legends follows the auto‑attack survivor formula: move to kite, level to draft weapons/passives, and survive crescendos. Builds hinge on damage schedules (DPS vs burst), crowd control, and pickup radius for XP economy.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Wide kites: Large loops give correction time; avoid tight corners.
@@ -24,16 +26,21 @@ Survivor Legends follows the auto‑attack survivor formula: move to kite, level
 4.  Economy: Invest in pickup radius/XP early to accelerate drafts.
 5.  Ult windows: Save actives for wave spikes and elite packs.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Move: WASD/Arrows; actives on number keys; pause via UI.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- Q: I get cornered.
+- <!-- i18n:faq:id=faq:survivor-legends:i-get-cornered-e450951e -->
+  Q: I get cornered.
   
   A: Re‑route to midmap and dash through thin gaps early.
 
-- Q: Which upgrades first?
+- <!-- i18n:faq:id=faq:survivor-legends:which-upgrades-first-03b66ce2 -->
+  Q: Which upgrades first?
   
   A: Pickup radius/XP, then core damage and survivability.
+

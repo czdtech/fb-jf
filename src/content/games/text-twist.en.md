@@ -12,10 +12,12 @@ developer: ""
 releaseDate: 2025-08-16
 ---
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 Text Twist is a popular and engaging word puzzle game that challenges your vocabulary and speed. Players are presented with a set of jumbled letters and must form as many valid words as possible within a time limit. The game rewards longer words with more points and requires players to find a "Bingo word" (a word using all letters) to advance to the next round.
 
+<!-- i18n:section:tips -->
 ### Gameplay Guide
 
 - **Objective:** Form words from the given letters. The goal is to find all possible words and especially the "Bingo word" to progress.
@@ -24,6 +26,7 @@ Text Twist is a popular and engaging word puzzle game that challenges your vocab
 - **Scoring:** Points are awarded based on word length; longer words give more points. Finding all words in a round often grants a bonus.
 - **"Twist" Button:** Use the "Twist" button (or spacebar) to shuffle the letters, which can help you spot new words.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - **Typing:** Use your keyboard to type out the words you find.
@@ -31,6 +34,7 @@ Text Twist is a popular and engaging word puzzle game that challenges your vocab
 - **Twist Letters:** Click the "Twist" button or press `Spacebar`.
 - **Clear Word:** Click the "Clear" button or press `Backspace`.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
 **What is a "Bingo word"?**
@@ -44,4 +48,5 @@ Focus on finding longer words, as they yield more points. Also, try to find all 
 **Are there different difficulty levels?**
 
 As you progress through the levels, the puzzles generally become more challenging, requiring you to find more complex words or deal with a larger set of letters.
+
 

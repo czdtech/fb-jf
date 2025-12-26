@@ -12,10 +12,12 @@ releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Stars Aligned is a gentle spatial puzzle about connecting star fragments into constellations. Rotate pieces to align lines and nodes; later stages introduce more fragments and subtle rotations that demand careful inspection.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Start with anchors: Lock obvious matches first to reduce possibilities.
@@ -24,14 +26,20 @@ Stars Aligned is a gentle spatial puzzle about connecting star fragments into co
 4.  Isolate sub‑graphs: Solve small connected groups before linking the whole.
 5.  Zoom for precision: Use any zoom to verify nearly‑aligned joints.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Rotate pieces and drag them into place per the UI.
 - Undo/Reset as needed to test patterns.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- A line won’t connect—bug? Usually a tiny rotation difference; nudge or rotate one step more.
-- Timers? Often relaxed; enjoy the ambient pace.
-- Hints? Some modes include hints; use sparingly.
+- <!-- i18n:faq:id=faq:stars-aligned:a-line-wont-connectbug-b2371a41 -->
+  A line won’t connect—bug? Usually a tiny rotation difference; nudge or rotate one step more.
+- <!-- i18n:faq:id=faq:stars-aligned:timers-f7f052c1 -->
+  Timers? Often relaxed; enjoy the ambient pace.
+- <!-- i18n:faq:id=faq:stars-aligned:hints-27c5017f -->
+  Hints? Some modes include hints; use sparingly.
+
 

@@ -18,6 +18,7 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### **Steal a Brainrot Game Introduction**
 
 *Steal a Brainrot* is a popular multiplayer action-stealth game on the Roblox platform, with a core gameplay loop centered around a humorous and absurd objective: **infiltrate a heavily guarded area, steal a personified internet "Brainrot" character, and successfully bring it back to your base.**
@@ -28,6 +29,7 @@ The game map is typically designed as a complex area filled with obstacles, trap
 
 The fun of the game largely derives from its chaotic, unpredictable multiplayer interactions and the comedic effect of combining serious stealth gameplay with ridiculous internet memes.
 
+<!-- i18n:section:tips -->
 ### **Gameplay Strategy & Tips**
 
 1.  **Recon is Half the Battle**: Don't just rush in blindly at the start. Take a moment to observe the map layout and the patrol routes of the guards. Identify camera blind spots, hiding places, and the shortest, safest paths to the objective.
@@ -40,6 +42,7 @@ The fun of the game largely derives from its chaotic, unpredictable multiplayer 
 5.  **Plan a Different Escape Route**: After you steal the objective, you might move slower, or an alarm might trigger, alerting all guards to your position. Plan an escape route that is different from your entry path—perhaps one that is more direct or offers more cover.
 6.  **Know Your "Brainrot"**: In some versions of the game, different "Brainrots" might have unique properties. For example, stealing a larger "Brainrot" might make you move slower, while stealing one that makes noise will constantly give away your position.
 
+<!-- i18n:section:controls -->
 ### **Controls Guide**
 
 As a Roblox game, the controls follow the platform's standard format.
@@ -51,16 +54,22 @@ As a Roblox game, the controls follow the platform's standard format.
 *   **Interact / Steal**: `E` or `F` key
 *   **Use Item**: Number keys `1`, `2`, `3`... or `Q` key
 
+<!-- i18n:section:faq -->
 ### **Frequently Asked Questions (FAQ)**
 
+<!-- i18n:faq:id=faq:steal-a-brainrot:where-can-i-play-this-4bfcb29e -->
 **1. Where can I play this game?**
 The game is available to play for free on the **Roblox** platform. Simply search for **"Steal a Brainrot"** in the Roblox app or on the website and choose one of the most popular versions.
 
+<!-- i18n:faq:id=faq:steal-a-brainrot:is-this-game-singleplayer-or-c4933735 -->
 **2. Is this game single-player or multiplayer?**
 It is designed primarily for **multiplayer** cooperative or competitive play. While you might be able to enter a server alone, the core fun and gameplay are centered around interacting with other players.
 
+<!-- i18n:faq:id=faq:steal-a-brainrot:what-exactly-is-a-brainrot-6c62ff59 -->
 **3. What exactly is a "Brainrot"?**
 It's an internet slang term for low-quality, viral online content. This game turns that abstract concept into a physical object you can actually "steal," which is the source of its humor.
 
+<!-- i18n:faq:id=faq:steal-a-brainrot:what-is-the-objective-to-b300ad36 -->
 **4. What is the objective to win the game?**
 Typically, the goal is for a team to successfully steal and return the "Brainrot" to their base the most times within a time limit. Other game modes might exist, such as completing the heist without being detected at all.
+

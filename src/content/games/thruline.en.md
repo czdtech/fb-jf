@@ -12,10 +12,12 @@ releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Thruline tasks you with tracing one unbroken path that visits all required nodes while obeying rules about turns, crossings, and coverage. Later grids add gates, bridges, and parity tricks that reward early bottleneck placement.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Bottlenecks first: Claim narrow corridors before they close.
@@ -24,17 +26,22 @@ Thruline tasks you with tracing one unbroken path that visits all required nodes
 4.  Early backtrack: Undo as soon as isolation appears.
 5.  Symmetry exploitation: Mirror partial solutions in symmetric layouts.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Drag to draw; undo/clear via UI; some builds show conflict highlights.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- Q: I end one edge short.
+- <!-- i18n:faq:id=faq:thruline:i-end-one-edge-short-f4943235 -->
+  Q: I end one edge short.
   
   A: You likely mis‑spent a turn; reroute a long segment straighter.
 
-- Q: Are crossings legal?
+- <!-- i18n:faq:id=faq:thruline:are-crossings-legal-f8260708 -->
+  Q: Are crossings legal?
   
   A: Only on marked bridges.
+
 

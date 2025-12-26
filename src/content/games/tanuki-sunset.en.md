@@ -12,10 +12,12 @@ developer: ""
 releaseDate: 2025-08-16
 ---
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 Tanuki Sunset is a third-person longboarding game where you play as a raccoon named Tanuki, skating down a beautiful, synthwave-inspired coastal mountain range. The game focuses on stylish, flow-based gameplay, rewarding players for performing smooth drifts, big jumps, and near-misses with traffic.
 
+<!-- i18n:section:tips -->
 ### Gameplay Guide
 
 The main goal is to score as many points as possible before you reach the end of the track or crash.
@@ -24,6 +26,7 @@ The main goal is to score as many points as possible before you reach the end of
 - **Collecting:** Grab the yellow "Tanuki Bits" to fill your Bonus Roulette meter, which gives you a spin for a massive point bonus.
 - **Near Misses:** Skate dangerously close to cars and other obstacles to get "near miss" points.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - **Move/Steer:** `A` / `D` or `Left` / `Right Arrow Keys`
@@ -32,6 +35,7 @@ The main goal is to score as many points as possible before you reach the end of
 - **Speed Stance:** `W` or `Up Arrow Key` (Hold to break through certain obstacles)
 - **Pause:** `Esc`
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
 **How do I get a high score?**
@@ -45,4 +49,5 @@ When you collect enough Tanuki Bits, a roulette wheel spins at the top of the sc
 **Can I customize my raccoon?**
 
 Yes, by earning points and completing objectives, you can unlock new clothing items and longboard parts to customize Tanuki's look.
+
 

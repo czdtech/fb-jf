@@ -19,10 +19,12 @@ developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 The Binding of Isaac is a critically acclaimed roguelike action-RPG with twin-stick shooter elements. Players control Isaac, a young boy who flees into his monster-filled basement to escape his religiously zealous mother. The game features procedurally generated dungeons, a vast array of bizarre items and power-ups, and a dark, unsettling atmosphere.
 
+<!-- i18n:section:tips -->
 ### Gameplay Guide
 
 Each run through the basement is unique. You navigate room by room, battling enemies by shooting tears, collecting items, and defeating bosses.
@@ -31,6 +33,7 @@ Each run through the basement is unique. You navigate room by room, battling ene
 - **Boss Fights:** Each floor culminates in a boss fight, testing your combat skills and item synergies.
 - **Death is Permanent:** If you die, you start over from the beginning, but with knowledge gained and new items potentially unlocked for future runs.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - **Movement:** `WASD` keys
@@ -39,6 +42,7 @@ Each run through the basement is unique. You navigate room by room, battling ene
 - **Place Bomb:** `Shift` or `E`
 - **Use Card/Pill:** `Q`
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
 **What is a roguelike game?**
@@ -52,3 +56,4 @@ New characters, items, and challenges are unlocked by completing specific achiev
 **Is the game difficult?**
 
 Yes, The Binding of Isaac is known for its high difficulty and steep learning curve. Success often depends on understanding item synergies and enemy patterns, as well as a bit of luck with item drops.
+

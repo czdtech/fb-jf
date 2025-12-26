@@ -12,10 +12,12 @@ releaseDate: 2025-10-17
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Sudoku Plus offers a premium experience for the timeless logic-based, number-placement puzzle. The goal is to fill a 9x9 grid so that each column, each row, and each of the nine 3x3 subgrids contain all of the digits from 1 to 9. This version is packed with helpful features like hints, a notes mode, and error checking, making it perfect for both beginners learning the ropes and advanced players looking for a smooth and polished interface.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **The Golden Rule:** The core of Sudoku is simple: 1 through 9, once per row, once per column, and once per 3x3 box. No repetition is allowed in any of these areas.
@@ -23,6 +25,7 @@ Sudoku Plus offers a premium experience for the timeless logic-based, number-pla
 3.  **Use the Notes Feature:** For more complex puzzles, the "Notes" or "Pencil" mode is essential. Use it to mark down all possible candidates for an empty cell. As you solve other cells, you can update your notes, eventually narrowing down the possibilities to a single correct number.
 4.  **Find Singles:** Look for cells where only one number is possible (a "Naked Single"). Also, look for instances where a specific number can only go in one possible cell within a row, column, or box (a "Hidden Single").
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 *   **Select a Cell:** Click on any empty cell in the grid.
@@ -31,14 +34,19 @@ Sudoku Plus offers a premium experience for the timeless logic-based, number-pla
 *   **Erase:** Use the eraser tool to clear a cell.
 *   **Hint:** Click the hint button to reveal the correct number for a single cell.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: Do I need to be good at math?**
+* <!-- i18n:faq:id=faq:sudoku-plus:q-do-i-need-to-0a4037d5 -->
+  **Q: Do I need to be good at math?**
     *   **A:** No. Sudoku is a game of logic and pattern recognition, not arithmetic.
 
-*   **Q: What does the "Notes" feature do?**
+* <!-- i18n:faq:id=faq:sudoku-plus:q-what-does-the-notes-92a47c6f -->
+  **Q: What does the "Notes" feature do?**
     *   **A:** It allows you to pencil in small numbers as potential candidates for a cell, which is a key strategy for solving harder puzzles without having to rely on memory alone.
 
-*   **Q: Will the game tell me if I make a mistake?**
+* <!-- i18n:faq:id=faq:sudoku-plus:q-will-the-game-tell-928da71e -->
+  **Q: Will the game tell me if I make a mistake?**
     *   **A:** Yes, most modern Sudoku games, including this one, have an error-checking feature that will highlight any duplicate numbers in a row, column, or box, allowing you to correct your mistake.
+
 

@@ -12,10 +12,12 @@ developer: ""
 releaseDate: 2025-08-16
 ---
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 Text Twist 2 is the highly anticipated sequel to the popular word puzzle game, offering an enhanced experience with new features and game modes. Players are still challenged to unscramble a set of jumbled letters to form as many words as possible, but with added flexibility and variety. It's a perfect game for vocabulary enthusiasts and those looking for a mental workout.
 
+<!-- i18n:section:tips -->
 ### Gameplay Guide
 
 The core gameplay remains the same: form words from a given set of letters.
@@ -28,6 +30,7 @@ The core gameplay remains the same: form words from a given set of letters.
 - **Broader Dictionary:** The game features an expanded dictionary, allowing for more word discoveries.
 - **"Twist" Feature:** The classic "Twist" button is still available to shuffle letters and spark new ideas.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - **Typing:** Use your keyboard to type out words.
@@ -35,6 +38,7 @@ The core gameplay remains the same: form words from a given set of letters.
 - **Shuffle Letters:** Click the "Twist" button or press `Spacebar`.
 - **Clear Word:** Click the "Clear" button or press `Backspace`.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
 **What are the main improvements in Text Twist 2?**
@@ -48,4 +52,5 @@ Yes, in most standard modes, finding the "Bingo word" (a word using all the lett
 **Can I play this game offline?**
 
 Many versions of Text Twist 2 are downloadable and can be played offline, offering entertainment without an internet connection.
+
 

@@ -12,10 +12,12 @@ developer: ""
 releaseDate: 2025-08-16
 ---
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 The Impossible Quiz is a notoriously difficult and highly unconventional quiz game designed to trick and challenge players with its illogical questions and unexpected answers. Unlike traditional trivia, success in this game often requires thinking outside the box, paying attention to subtle clues, and sometimes, pure trial and error.
 
+<!-- i18n:section:tips -->
 ### Gameplay Guide
 
 The game presents a series of multiple-choice questions. Your goal is to answer all 110 questions.
@@ -24,10 +26,12 @@ The game presents a series of multiple-choice questions. Your goal is to answer 
 - **Skips:** You are given a limited number of "Skips" to bypass questions. Use them wisely, as some questions are designed to be impossible without a skip.
 - **Moron Marks:** In some versions, these act as checkpoints, allowing you to restart from a later question if you lose all lives.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - **Mouse:** Use your mouse to click on the correct answer or interact with elements on the screen.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
 **Why is it called "The Impossible Quiz"?**
@@ -41,4 +45,5 @@ Skips allow you to bypass a question. It's crucial to save them for specific que
 **Are there any tips for playing?**
 
 Always read questions very carefully, as they often contain hidden clues or double meanings. Don't be afraid to try seemingly illogical answers. Pay attention to the screen for interactive elements, and remember that some questions require precise timing or clicking.
+
 

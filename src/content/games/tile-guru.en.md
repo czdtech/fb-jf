@@ -12,10 +12,12 @@ releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Tile Guru uses the triple‑match tray formula: pick tiles into a limited tray; three of a kind clear. The puzzle is stack management — avoid burying mismatched sets that clog the tray and force deadlocks.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Pair discipline: Don’t start too many sets at once; resolve pairs quickly.
@@ -24,17 +26,22 @@ Tile Guru uses the triple‑match tray formula: pick tiles into a limited tray; 
 4.  Undo wisely: Undo immediately after a clogging pick.
 5.  Power‑ups: Save shuffles for near‑deadlocks.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Click tiles to add to tray; three‑of‑a‑kind clear; hints/shuffles via UI.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- Q: My tray fills too fast.
+- <!-- i18n:faq:id=faq:tile-guru:my-tray-fills-too-fast-e2a2b50d -->
+  Q: My tray fills too fast.
   
   A: Limit open sets and complete pairs before starting new ones.
 
-- Q: Which tiles first?
+- <!-- i18n:faq:id=faq:tile-guru:which-tiles-first-6dd9b763 -->
+  Q: Which tiles first?
   
   A: Exposed, shallow tiles that won’t bury partners.
+
 

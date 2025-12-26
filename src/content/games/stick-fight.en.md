@@ -12,10 +12,12 @@ developer: ""
 releaseDate: 2025-08-16
 ---
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 Stick Fight is a fast-paced, physics-based fighting game where you control a simple stick figure and battle against others in a variety of hazardous arenas. The goal is to be the last stickman standing. The game is known for its chaotic, unpredictable combat, where environmental dangers and a wide array of weapons lead to hilarious and action-packed rounds.
 
+<!-- i18n:section:tips -->
 ### Gameplay Guide
 
 The objective in each round is to eliminate your opponents by knocking them out of the arena or depleting their health.
@@ -23,6 +25,7 @@ The objective in each round is to eliminate your opponents by knocking them out 
 - **Physics:** The game's physics engine affects everything from character movement to how weapons recoil. Use it to your advantage to perform trick shots or send enemies flying.
 - **Arenas:** Each level is different, featuring unique layouts and hazards like spikes, falling blocks, or slippery ice. Adapt your strategy to the environment.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 Controls are typically based on a standard 2D platformer layout:
@@ -32,6 +35,7 @@ Controls are typically based on a standard 2D platformer layout:
 - **Attack:** `Left Mouse Button` or `F`
 - **Block:** `Right Mouse Button` or `G`
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
 **What is the main goal of Stick Fight?**
@@ -45,4 +49,5 @@ Yes, Stick Fight is primarily a multiplayer game, often supporting both local an
 **What kind of weapons are in the game?**
 
 The game features a huge arsenal of weapons, ranging from melee weapons like swords and spears to projectile weapons like handguns, shotguns, and even snake-firing bazookas.
+
 

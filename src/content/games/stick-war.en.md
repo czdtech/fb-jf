@@ -12,10 +12,12 @@ developer: ""
 releaseDate: 2025-08-16
 ---
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 Stick War is one of the most popular and highly-rated web games of all time. It is a real-time strategy game where you take command of the "Order" nation. In a world called Inamorta, where nations are devoted to their individual technologies, you must build a powerful army, destroy the enemy's statue, and conquer all territories.
 
+<!-- i18n:section:tips -->
 ### Gameplay Guide
 
 The core of the game revolves around managing resources and commanding your army.
@@ -23,12 +25,14 @@ The core of the game revolves around managing resources and commanding your army
 - **Army Building:** Train a variety of units, including basic Swordwrath, ranged Archidons, tank-like Speartons, powerful Giants, and spell-casting Magikill.
 - **Combat:** You can command your army to attack or defend. A key feature is the ability to take direct control of any unit, significantly boosting its power and allowing for precise maneuvers. The ultimate goal is to destroy the enemy statue on the far side of the map.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - **Mouse:** Used to select units, click buttons to train soldiers, and direct your army.
 - **Movement (when controlling a unit):** `A` and `D` keys.
 - **Attack (when controlling a unit):** `Spacebar`.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
 **What is the best starting strategy?**
@@ -42,3 +46,4 @@ A balanced army is key. Speartons are excellent for defense and absorbing arrow 
 **What should I upgrade first?**
 
 It is highly recommended to spend your first upgrade points on your Miners' bags and your statue's income to accelerate your economy. After that, focus on upgrading the units you use most often.
+

@@ -12,10 +12,12 @@ releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Tangram Puzzle asks you to arrange seven geometric pieces (tans) to exactly fill a silhouette. No overlaps or gaps; rotations allowed, reflections sometimes banned depending on mode. Recognizing convex/concave pockets and matching corner angles is the key skill.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Corner matching: Seat large triangle corners into silhouette vertices first.
@@ -24,17 +26,22 @@ Tangram Puzzle asks you to arrange seven geometric pieces (tans) to exactly fill
 4.  Order of play: Rough‑in with big pieces, then lock gaps with small triangles.
 5.  Reflection rules: If reflections are banned, rotate alternatives to simulate flips.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Drag/rotate pieces; flip if allowed; snap assists on correct placement.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- Q: One gap remains no matter what.
+- <!-- i18n:faq:id=faq:tangram-puzzle:one-gap-remains-no-matter-48eb963a -->
+  Q: One gap remains no matter what.
   
   A: Your early placements are off by a corner; reseat a big triangle and re‑fit.
 
-- Q: Are flips legal?
+- <!-- i18n:faq:id=faq:tangram-puzzle:are-flips-legal-685c999a -->
+  Q: Are flips legal?
   
   A: Some modes disallow flips; rely on rotations.
+
 

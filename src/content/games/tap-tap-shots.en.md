@@ -12,10 +12,12 @@ developer: ""
 releaseDate: 2025-08-16
 ---
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 Tap-Tap Shots is a simple, minimalist, and highly addictive arcade basketball game. The goal is to score as many points as possible by tapping the screen to make the ball bounce into the hoop. The challenge comes from the moving hoop and the pressure of the shot clock, requiring perfect timing and a steady rhythm to succeed.
 
+<!-- i18n:section:tips -->
 ### Gameplay Guide
 
 - **Objective:** Score as many baskets in a row as you can.
@@ -24,12 +26,14 @@ Tap-Tap Shots is a simple, minimalist, and highly addictive arcade basketball ga
 - **Combos:** Scoring consecutive baskets will set the ball on fire, which activates a score multiplier for bonus points. Clean shots that don't touch the rim also award extra points.
 - **Timer:** After each successful shot, the timer resets, but if you miss, the game is over.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 The controls are extremely simple:
 - **PC:** `Left Mouse Button` or `Spacebar` to tap.
 - **Mobile:** Tap the screen.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
 **How do I get a high score?**
@@ -43,4 +47,5 @@ When the ball is on fire, you are in a combo streak. Every basket you score whil
 **Is there a trick to aiming?**
 
 It's all about timing. Try to tap just as the ball reaches the peak of its bounce or starts to descend. This often gives you the most control for aiming at the hoop.
+
 

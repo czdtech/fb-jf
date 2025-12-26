@@ -12,10 +12,12 @@ developer: ""
 releaseDate: 2025-08-16
 ---
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 The Pillar is an immersive puzzle and escape room game that challenges players with a series of intricate environmental puzzles. Players explore mysterious and beautifully designed locations, interacting with objects and mechanisms to unlock new paths and uncover the secrets hidden within the game's world. It's a game that rewards observation, logic, and creative thinking.
 
+<!-- i18n:section:tips -->
 ### Gameplay Guide
 
 The core gameplay involves solving puzzles to progress. Each area presents new challenges that require you to manipulate objects, decipher codes, and understand the environment's logic.
@@ -23,11 +25,13 @@ The core gameplay involves solving puzzles to progress. Each area presents new c
 - **Puzzle Solving:** Engage with different types of puzzles, from mechanical contraptions to logical sequences.
 - **Progression:** Successfully solving puzzles opens new areas or reveals critical information needed to advance.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - **Movement:** `WASD` or `Arrow Keys` to move your character.
 - **Interaction:** `Left Mouse Button` to click on objects, activate mechanisms, and solve puzzles.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
 **What kind of puzzles can I expect?**
@@ -41,4 +45,5 @@ While the game is primarily puzzle-driven, there is an underlying narrative or m
 **Is the game difficult?**
 
 The difficulty of the puzzles can range from straightforward to quite challenging, requiring players to think critically and sometimes experiment with solutions.
+
 

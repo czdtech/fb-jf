@@ -12,10 +12,12 @@ releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Stud Rider emphasizes flow: small throttle pulses, flat landings, and cautious flips maintain speed. Rough terrain punishes nose‑dives and over‑rotation; consistent cadence beats wild stunts.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Land level to keep traction.
@@ -24,17 +26,22 @@ Stud Rider emphasizes flow: small throttle pulses, flat landings, and cautious f
 4.  Pump dips for speed; cut throttle mid‑air to stabilize.
 5.  Memorize jump lengths for perfect linkups.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Throttle/Brake: W/S or Up/Down; Lean: A/D or Left/Right; Restart via UI.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- Q: I keep tucking the front.
+- <!-- i18n:faq:id=faq:stud-rider:i-keep-tucking-the-front-1c01e1e1 -->
+  Q: I keep tucking the front.
   
   A: Ease off before lips and lean back slightly, then level out.
 
-- Q: Flips kill my speed.
+- <!-- i18n:faq:id=faq:stud-rider:flips-kill-my-speed-75e9869e -->
+  Q: Flips kill my speed.
   
   A: Use only when certain; focus on clean landings.
+
 

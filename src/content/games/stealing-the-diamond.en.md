@@ -12,18 +12,22 @@ developer: ""
 releaseDate: 2025-08-16
 ---
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 Stealing the Diamond is a classic interactive adventure game from the Henry Stickmin series. As the titular character, Henry, your goal is to successfully steal a massive diamond from a heavily guarded museum. The game is famous for its humorous, choice-driven gameplay where every decision leads to a different, often comical, outcome.
 
+<!-- i18n:section:tips -->
 ### Gameplay Guide
 
 The gameplay is simple: at various points in the story, you will be presented with a choice of two or more options (tools or actions) to proceed. Your selection determines what happens next. Most choices lead to a unique "Fail" screen with a funny description, while specific combinations of choices will lead you to one of the three successful endings. The fun lies in exploring the different paths and discovering all the possible outcomes.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - **Mouse:** Use your mouse to click on the option you want to choose.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
 **How many ways are there to win?**
@@ -40,4 +44,5 @@ The numerous and humorous fail screens are a core part of the game's charm and c
 **Is this part of a series?**
 
 Yes, Stealing the Diamond is the third game in the popular Henry Stickmin series, following *Breaking the Bank* and *Escaping the Prison*.
+
 

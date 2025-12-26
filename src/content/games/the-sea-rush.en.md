@@ -12,23 +12,30 @@ releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 The Sea Rush is a match-3 puzzle game where players embark on an underwater adventure. The objective is to align three or more similar sea animals in a row or column by swapping adjacent animals.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 Use a mouse click or touchscreen swipe to swap adjacent sea animals. Aligning three or more similar animals clears them. Clearing multiple blocks simultaneously yields more points. As you accrue points, you proceed to the next difficulty level, with the game becoming increasingly challenging. Strategic thinking is required. Plan moves ahead and aim for alignments of more than three blocks for bonus points. Keep an eye on time limits and make swift moves to maximize your score.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 *   **Mouse:** Click to swap adjacent sea animals.
 *   **Touchscreen:** Swipe to swap adjacent sea animals.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: What is the goal of the game?**
+* <!-- i18n:faq:id=faq:the-sea-rush:q-what-is-the-goal-ab58581b -->
+  **Q: What is the goal of the game?**
     *   **A:** The main goal is to align three or more similar sea animals to score points and advance to the next level.
-*   **Q: How do I get more points?**
+* <!-- i18n:faq:id=faq:the-sea-rush:q-how-do-i-get-62133937 -->
+  **Q: How do I get more points?**
     *   **A:** Clearing more than three animals at once or creating combos will award you with more points.
+
 

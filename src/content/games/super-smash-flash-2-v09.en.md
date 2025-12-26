@@ -12,10 +12,12 @@ developer: ""
 releaseDate: 2025-08-16
 ---
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 Super Smash Flash 2 is the highly anticipated sequel to the legendary fan-made fighting game. It is a massive improvement over the original, featuring a larger roster of characters, more polished stages, and significantly more complex and balanced gameplay that mirrors the official Super Smash Bros. series. It stands as one of the most impressive and comprehensive fan-made games ever created.
 
+<!-- i18n:section:tips -->
 ### Gameplay Guide
 
 Like its inspiration, the goal is to launch opponents off the screen by increasing their damage percentage.
@@ -23,6 +25,7 @@ Like its inspiration, the goal is to launch opponents off the screen by increasi
 - **Character Roster:** The game features dozens of characters from a wide array of video game and anime series, each with their own unique and faithful moveset.
 - **Game Modes:** Includes various modes for both single-player and multiplayer, such as standard Versus mode and event-based challenges.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 Controls are fully customizable. A common default layout for Player 1 is:
@@ -36,6 +39,7 @@ Controls are fully customizable. A common default layout for Player 1 is:
 - **Grab:** `U`
 - **Pause:** `Enter`
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
 **How is this different from the first Super Smash Flash?**
@@ -49,4 +53,5 @@ Yes, the game has built-in support for a wide variety of controllers, which can 
 **Is this game still being updated?**
 
 Yes, the development team at McLeodGaming continues to release updates, adding new characters, stages, and features to the game.
+
 

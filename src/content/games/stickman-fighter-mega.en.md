@@ -12,10 +12,12 @@ releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Stickman Fighter Mega is a side‑view beat ’em up focused on counter‑timing and spacing. Enemies telegraph swings; punish them with parries, juggles, and area specials. Later waves mix shielded foes, ranged throwers, and heavies that demand varied answers.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Parry window: Learn the parry frame and fish counter‑hits for bonus damage.
@@ -24,21 +26,27 @@ Stickman Fighter Mega is a side‑view beat ’em up focused on counter‑timing
 4.  Special economy: Save AOEs for multi‑spawn waves.
 5.  Combo routes: Light→Heavy→Launcher→Air juggles are high value.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Move: Arrows/A/D; Attack: J/K; Special: L; Block/Parry: I (varies). Pause/Retry via UI.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- Q: I get stun‑locked.
+- <!-- i18n:faq:id=faq:stickman-fighter-mega:i-get-stunlocked-61b761c8 -->
+  Q: I get stun‑locked.
   
   A: Hold block between hits and roll out; don’t mash into armor.
 
-- Q: Specials feel weak.
+- <!-- i18n:faq:id=faq:stickman-fighter-mega:specials-feel-weak-6b9b414f -->
+  Q: Specials feel weak.
   
   A: Use them as finishers on clustered waves, not on single targets.
 
-- Q: Best starter combo?
+- <!-- i18n:faq:id=faq:stickman-fighter-mega:best-starter-combo-4e356e70 -->
+  Q: Best starter combo?
   
   A: Light×2→Heavy→Launcher→Air Light×2.
+
 
