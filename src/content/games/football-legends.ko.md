@@ -33,24 +33,14 @@ Football Legends는 실제 축구 스타들을 SD 캐릭터로 표현해, 간단
 
 - 캐릭터마다 능력치와 스킬이 다르므로, 몇 명을 시험해 본 뒤 손에 맞는
   선수로 연습하는 것이 좋습니다.  
-- 공이 바닥에 튈 때보다는, 살짝 뜬 공을 노려 헤딩/발리 느낌으로 차면
+- 수비할 때는 무리하게 달려들기보다, 뒤로 물러서며 슛 각도를 막는 편이 안정적입니다. 한 번에 빼앗으려 하기보다 통로를 차단하는 느낌으로 버텨 보세요.
+- 공이 바닥에 튈 때보다는, 살짝 뜬 공을 노려 헤딩/발리 느낌으로 차면 더 강력한 슛을 넣기 쉽습니다.
 
-- Q: How do I activate a special shot?
+### 자주 묻는 질문 (FAQ)
 
-### 자주 묻는 질문(FAQ)
-
-- On defense, backpedal and block angles instead of lunging.
-  더 강력한 슛을 넣기 쉽습니다.  
-
-
-
-A: Many hosts offer team skins; physics are generally consistent.
-
-- Q: Are there teams with different stats?
-
-A: Yes, most versions map two separate key sets.
-
-- Q: Does 2‑player work on one keyboard?
-
-
-A: Many hosts offer team skins; physics are generally consistent.
+- Q: 스페셜 샷은 어떻게 발동하나요?  
+  A: 플레이로 게이지를 채운 뒤, 버전에 표시된 스페셜 키/버튼을 누르면 발동합니다.
+- Q: 한 키보드로 2인 플레이가 되나요?  
+  A: 네, 대부분의 버전은 두 세트의 키 배치를 제공해 한 키보드에서 2인이 가능합니다.
+- Q: 팀마다 능력치가 다른가요?  
+  A: 호스트에 따라 스킨/팀 선택이 있으며, 기본 물리는 대체로 동일한 경우가 많습니다.

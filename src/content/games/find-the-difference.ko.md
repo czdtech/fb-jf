@@ -45,20 +45,14 @@ Find the Difference는 두 장의 거의 동일한 그림 속에 숨겨진 차�
 
 ### 자주 묻는 질문(FAQ)
 
-- **Q: 어떤 종류의 차이를 찾아야 하나요?**  
-  **A:** 추가/삭제, 색상 변화, 크기·위치 변화 등 그림 속 모든 요소가 대상이 될
+*   **Q: 어떤 종류의 차이를 찾아야 하나요?**
+    *   **A:** 추가/삭제, 색상 변화, 크기·위치 변화 등 그림 속 모든 요소가 대상이 될
   수 있습니다.  
 
-    - **Q: 계속 같은 곳만 보다가 마지막 1개를 못 찾겠습니다.**  
-
-- **A:** This is the perfect time to use a hint if you have one. If not, try looking away from the screen for a moment to reset your eyes, and then come back and scan the images again, perhaps in a different pattern than you did before.
-
-    - **Q: I can't find the last difference! What should I do?**
-
-- **A:** Most games will have a penalty for incorrect guesses. This is often a reduction in your time limit or a temporary freeze on your ability to click again.
-
-    - **Q: What happens if I click in the wrong place?**
-  **A:** 잠시 화면에서 눈을 떼고 쉬었다가, 이전과 다른 순서로 다시 스캔해
+*   **Q: 계속 같은 곳만 보다가 마지막 1개를 못 찾겠습니다.**
+    *   **A:** 잠시 화면에서 눈을 떼고 쉬었다가, 이전과 다른 순서로 다시 스캔해
   보세요. 새로운 차이가 눈에 들어올 수 있습니다. 힌트가 있다면 이럴 때
   사용하는 것이 좋습니다.  
 
+*   **Q: 잘못된 곳을 클릭하면 어떻게 되나요?**
+    *   **A:** 버전에 따라 남은 시간이 줄어들거나, 잠시 클릭이 막히는 등 패널티가 있을 수 있습니다. 확신이 없으면 무작정 클릭하기보다 다시 한 번 비교해 보세요.

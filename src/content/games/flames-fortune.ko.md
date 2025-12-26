@@ -2,47 +2,40 @@
 locale: ko
 urlstr: flames-fortune
 title: Flames & Fortune 플레임즈 & 포춘
-description: '로프를 태워 장애물을 제거하고, 불꽃을 안전하게 목표 지점까지 이끄는 퍼즐 게임입니다. 각 스테이지의 장치를 이용해 길을 만들어 보세요.'
-iframeSrc: 'https://ad-freegames.github.io/flash/game/cut-the-rope-time-travel-forest.html'
+description: >-
+  Flames & Fortune는 전술적인 카드 스타일 배틀 게임입니다. 손패와 템포를 관리하며
+  매 턴 최적의 선택을 통해 상대를 압도해 보세요.
+iframeSrc: 'https://0e8d16hkgti30.h5games.usercontent.goog/v/00r0qn2t79f3g/'
 thumbnail: /new-images/thumbnails/flames-fortune.jpg
 tags:
-  - puzzle
-  - physics
-score: 3.9/5  (1120 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+  - card
+  - thinky
+score: 4.0/5  (1776 votes)
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-### 개요
+### 상세 게임 소개
 
-Flames & Fortune은 불꽃을 조작해 장애물을 태우고, 장치들을 작동시켜
-목표 지점까지 도달하는 물리 퍼즐입니다. 밧줄, 톱니바퀴, 스위치, 움직이는
-발판 등 다양한 오브젝트를 활용해 불꽃의 경로를 설계해야 합니다.
+Flames & Fortune은 카드 게임처럼 턴마다 선택을 쌓아 가는 컴팩트한 배틀 게임입니다.
+효과를 효율적인 순서로 사용하고 제한된 자원을 관리하면서, 상대의 의도를 읽고
+템포를 뒤집는 것이 핵심입니다.
 
-### 플레이 방법
+### 플레이 전략 & 공략
 
-- 화면의 로프나 장치를 클릭해 태우거나 작동시키며, 불꽃이 떨어지거나
-  움직이는 경로를 조정합니다.  
-- 스테이지마다 제한 횟수나 시간, 수집해야 할 아이템 등이 설정될 수
-  있으니, 시작 전에 목표를 확인하세요.  
-- 일부 오브젝트는 한 번만 사용할 수 있으므로, 순서를 잘 계획해야 합니다.  
+1.  **자원 곡선 계획:** 한 턴의 자원을 가능한 한 깔끔하게 쓰되, 무리해서 가치가 낮은 선택을 하지 마세요.
+2.  **유리한 교환 만들기:** 작은 카드로 다음 턴의 큰 스윙을 준비해 흐름을 가져오세요.
+3.  **의도 읽기:** 상대의 공격 타이밍에 맞춰 방어/차단을 준비하면 불필요한 피해를 줄일 수 있습니다.
+4.  **덱(빌드) 집중:** 산발적인 선택보다, 소수의 시너지에 집중하는 편이 안정적입니다.
+5.  **멀리건 활용:** 가능하다면, 빠른 상대에게는 느린 패를 바꿔 초반 안정성을 확보하세요.
 
-
-- Mulligan wisely: If available, mulligan slow hands against fast foes.
-
-- Deck focus: Prioritize consistent synergies over scattered picks.
 ### 조작 방법
 
-- 마우스/터치로 로프, 스위치, 발판 등을 클릭/탭해 상호작용합니다.  
+- 카드 사용/턴 종료: 카드를 클릭/탭해 선택하고 행동을 확정합니다.
+- 효과 확인: 마우스 오버 또는 탭으로 카드 설명을 확인합니다.
 
+### 자주 묻는 질문 (FAQ)
 
-- Inspect: Hover/tap to read effects.
-### 팁
-
-- 먼저 전체 맵을 보고, 불꽃이 어디로 흘러야 하는지 대략적인 경로를
-  머릿속으로 그려 본 뒤 한 단계씩 실행해 보세요.  
-- 불꽃이 한 번 지나간 뒤에는 되돌리기 어렵기 때문에, 특히 일회용
-
-- Can I recover from bad draws? Stabilize with defense and play for two‑turn swings.
-  장치의 사용 시점을 신중하게 선택해야 합니다.  
-
+- 운 요소가 큰가요? 순서 최적화와 자원 관리로 변동성을 크게 줄일 수 있습니다.
+- 추천 빌드가 있나요? 여러 갈래를 얕게 섞기보다, 몇 가지 시너지에 집중하세요.
+- 손패가 말렸을 때 회복이 가능한가요? 방어로 버티며 2턴 단위로 큰 스윙을 노리면 역전이 가능합니다.

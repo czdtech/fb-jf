@@ -16,8 +16,6 @@ releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 
-
-
 ### **게임 소개**
 
 *Incredibox Instrumentalist*는 기존 Incredibox의 구성을 과감히 바꾼
@@ -104,4 +102,3 @@ releaseDate: 2025-10-10T00:00:00.000Z
 
 `Incredibox Instrumentalist combos` 같은 키워드로 유튜브를 검색하면,
 숨겨진 애니메이션을 여는 조합을 정리해 둔 영상을 쉽게 찾을 수 있습니다.
-

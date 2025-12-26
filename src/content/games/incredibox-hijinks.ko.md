@@ -15,8 +15,6 @@ releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 
-
-
 ### **게임 소개**
 
 *Incredibox Hijinks*는 모더 Bongo Cat이 제작한, 매우 에너지 넘치는
@@ -101,4 +99,3 @@ releaseDate: 2025-10-10T00:00:00.000Z
 
 `Incredibox Hijinks combos` 같은 키워드로 유튜브를 검색하면, 각
 보너스를 여는 조합을 정리해 둔 영상들을 쉽게 찾을 수 있습니다.
-

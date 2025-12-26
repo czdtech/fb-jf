@@ -34,26 +34,22 @@ Fruit Ninja는 한때 모바일을 휩쓴 대표적인 과일 베기 아케이�
 
 ### 팁
 
+- 한 번 베어낼 때 가능한 많은 과일 궤적을 가로지르도록 라인을 그리면 효율이 올라갑니다.  
 - 여러 과일의 궤적이 겹치는 타이밍에 맞춰 대각선으로 크게 베어 주면
   콤보를 안정적으로 쌓을 수 있습니다.  
-- 젠 모드처럼 폭탄이 없는 모드에서는, 과일을 놓치는 시간이 없도록 경로를
-
-- Q: How do I score combos consistently?
+- 젠 모드처럼 폭탄이 없는 모드에서는, 과일을 놓치는 시간이 없도록 동선을 크게
+  그리며 연속으로 베는 것이 좋습니다.  
 
 ### 자주 묻는 질문(FAQ)
 
-- In Zen‑style modes, optimize pathing since bombs are absent.
-  최적화하는 데 집중해 보세요.  
+*   **Q: 콤보를 꾸준히 내는 요령이 있나요?**
+  **A:** 과일 궤적이 겹치는 타이밍을 노려 한 번의 큰 스와이프로 여러 개를 동시에
+  베는 것이 좋습니다. 작은 동작을 반복하기보다 대각선으로 크게 그리면 안정적입니다.
 
+*   **Q: 다양한 모드가 있나요?**
+  **A:** 호스트에 따라 클래식, 아케이드(파워업 포함), 젠 모드 등을 제공하는 경우가
+  많습니다.
 
-
-A: Many hosts include Classic, Arcade (with power‑ups), and Zen.
-
-- Q: Are there different modes available?
-
-A: Depending on mode, the run ends or you lose points/time.
-
-- Q: What happens if I hit a bomb?
-
-
-A: Many hosts include Classic, Arcade (with power‑ups), and Zen.
+*   **Q: 폭탄을 베면 어떻게 되나요?**
+  **A:** 모드에 따라 즉시 게임이 종료되거나 점수/시간 페널티가 발생할 수 있습니다.
+  기본은 폭탄을 건드리지 않는 것입니다.

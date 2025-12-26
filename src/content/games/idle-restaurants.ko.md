@@ -16,8 +16,6 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-
-
 ### 상세 게임 소개
 
 `Idle Restaurants`는 작은 다이너에서 시작해 여러 레스토랑을 운영하는 외식
@@ -63,23 +61,17 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### 자주 묻는 질문(FAQ)
 
-- **Q: 가장 빨리 돈을 버는 방법은 무엇인가요?**  
-  **A:** 벌자마자 업그레이드에 재투자해 수익 속도를 올리는 것이 핵심입니다.
+*   **Q: 가장 빨리 돈을 버는 방법은 무엇인가요?**
+    *   **A:** 벌자마자 업그레이드에 재투자해 수익 속도를 올리는 것이 핵심입니다.
   수익이 빨라질수록 다음 업그레이드를 더 빨리 살 수 있는, 지수 성장 구조를
   최대한 활용해야 합니다.
 
-    - **Q: 무엇을 먼저 업그레이드해야 하나요?**  
-  **A:** 시작 단계에서는 테이블 몇 개를 열고 셰프 레벨을 1~2번 올려 손님
+*   **Q: 무엇을 먼저 업그레이드해야 하나요?**
+    *   **A:** 시작 단계에서는 테이블 몇 개를 열고 셰프 레벨을 1~2번 올려 손님
   흐름을 안정시키는 것이 좋습니다. 이후에는 주방·서빙·좌석을 골고루
   올려 병목을 줄이세요.
 
-- **Q: 왜 새 레스토랑을 사야 하나요?**  
-
-    - **A:** Each new restaurant provides a massive boost to your overall income and often comes with a permanent multiplier that boosts all your other restaurants as well. It's the main way to progress in the game.
-
-- **Q: Why should I buy a new restaurant?**
-
-    - **A:** In the very beginning, focus on opening a few tables and upgrading your chef once or twice to get a steady flow of customers. After that, try to keep all parts of your restaurant (kitchen, delivery, tables) upgrading at a balanced pace.
-  **A:** 새 레스토랑은 전체 수입을 크게 올려 줄 뿐 아니라, 기존 레스토랑에도
+*   **Q: 왜 새 레스토랑을 사야 하나요?**
+    *   **A:** 새 레스토랑은 전체 수입을 크게 올려 줄 뿐 아니라, 기존 레스토랑에도
   영향을 주는 영구 배수를 제공하는 경우가 많습니다. 장기적인 진행을 위해
   필수적인 성장 수단입니다.

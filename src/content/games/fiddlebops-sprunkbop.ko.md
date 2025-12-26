@@ -31,13 +31,14 @@ Fiddlebops Sprunkbop은 원작의 쉬운 드래그 앤 드롭 인터페이스를
 
 ### 어떻게 플레이하나요?
 
+아래 내용을 참고해 보세요.
+
 - **드래그해서 올리기**: 마음에 드는 캐릭터나 효과음을 골라 무대에 드래그해
   올리면, 해당 사운드가 자동으로 트랙에 더해집니다.  
 - **레이어 쌓기**: 여러 캐릭터를 올려 박자와 멜로디, 효과음을 겹쳐 나만의
   곡을 만들어 보세요.  
 - **자유롭게 실험하기**: 정답도 실패도 없습니다. 다양한 조합을 시도해 자신의
 
-- **Experiment Freely:** There's no right or wrong, only fun! Boldly try out different combinations to find your favorite Fiddlebops Sprunkbop style.
   스타일에 맞는 Sprunkbop 사운드를 찾아 보세요.  
 
 ### 왜 Fiddlebops Sprunkbop을 해 볼까?
@@ -50,9 +51,8 @@ Fiddlebops Sprunkbop은 원작의 쉬운 드래그 앤 드롭 인터페이스를
   직관적인 조작 방식을 유지합니다.  
 - **무한한 창의성**: 제한 없이 자유롭게 실험할 수 있어, 매번 플레이할 때마다
 
-### Wrapping Up:
+### 마무리
   전혀 다른 음악을 만들어볼 수 있습니다.  
 
 창의력을 마음껏 발휘하고 싶다면, Fiddlebops Sprunkbop을 실행해 가장
 멋진 비트를 만들어 보세요.
-

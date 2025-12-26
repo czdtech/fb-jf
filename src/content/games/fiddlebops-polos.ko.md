@@ -41,11 +41,12 @@ Fiddlebops Polos는 누구나 브라우저만으로 접근할 수 있는 음악 
 - **창작의 자유**  
   정해진 정답 없이, 마음껏 실험하고 자신만의 음악 스타일을 만들어 볼 수
   있습니다.  
+- **스토리텔링 요소**  
+  일부 전개에서는 선택에 따라 캐릭터와 연출이 달라지는 느낌을 받을 수 있어,
+  단순한 음악 제작을 넘어 이야기를 만들어 가는 재미도 있습니다.
 - **커뮤니티와 함께하는 창작**  
 
-- **Become a part of the best crew in town:** Trade tips, share your musical talent and connect with others and celebrate with others while you let your imagination run wild!
   다른 플레이어와 작품을 교류하며, 서로의 아이디어에서 새로운 영감을 얻을 수
   있습니다.  
 
 이제 Fiddlebops Polos에서 무대를 열고, 당신만의 사운드로 공연을 시작해 보세요.
-

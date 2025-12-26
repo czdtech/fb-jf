@@ -15,9 +15,6 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-
-
-
 ### 상세 게임 소개
 
 `Giant Attack`은 거대한 괴물과 정면으로 맞서는 속도감 있는 액션 게임입니다.
@@ -51,30 +48,25 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### 조작 방법
 
+조작은 아래를 참고하세요.
+
 - **캐릭터 이동**: 마우스나 손가락으로 캐릭터를 좌우로 드래그해 동료를 수집하고
   공격을 피합니다.
 - **공격**: 별도의 공격 버튼은 필요 없습니다. 캐릭터가 살아 있는 동안 자동으로
 
-- **Attacking:** Attacking is automatic. Your character will continuously throw weapons at the enemy as long as you are alive.
   무기를 던집니다.
 
 ### 자주 묻는 질문(FAQ)
 
-- **Q: 거대한 괴물은 어떻게 공격하나요?**  
-  **A:** 공격은 자동입니다. 플레이어는 캐릭터를 움직여 동료를 모으고, 괴물의
+*   **Q: 거대한 괴물은 어떻게 공격하나요?**
+    *   **A:** 공격은 자동입니다. 플레이어는 캐릭터를 움직여 동료를 모으고, 괴물의
   공격을 피하면서 투척 무기가 계속 맞도록 위치를 잡는 데만 집중하면 됩니다.
 
-    - **Q: 데미지가 너무 약한데 이유가 뭔가요?**  
-  **A:** 캐릭터가 아직 충분히 크지 않기 때문입니다. 동료를 더 많이 모을수록
+*   **Q: 데미지가 너무 약한데 이유가 뭔가요?**
+    *   **A:** 캐릭터가 아직 충분히 크지 않기 때문입니다. 동료를 더 많이 모을수록
   몸집과 투척 무기의 위력이 함께 증가하므로, 초반에는 공격보다는 성장에
   우선순위를 두는 것이 좋습니다.
 
-- **Q: 한 스테이지를 어떻게 클리어하나요?**  
-
-    - **A:** You win by depleting the giant's health bar to zero before it defeats you.
-
-- **Q: How do I win a level?**
-
-    - **A:** You need to grow bigger! The more allies you collect, the larger and more powerful your character becomes, and the more damage you will deal. If you stay small, your attacks will be too weak.
-  **A:** 괴물이 플레이어를 쓰러뜨리기 전에, 괴물의 체력 바를 0까지 깎으면
+*   **Q: 한 스테이지를 어떻게 클리어하나요?**
+    *   **A:** 괴물이 플레이어를 쓰러뜨리기 전에, 괴물의 체력 바를 0까지 깎으면
   해당 레벨을 클리어하게 됩니다.

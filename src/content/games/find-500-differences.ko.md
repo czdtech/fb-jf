@@ -48,20 +48,13 @@ Find 500 Differences는 세밀한 관찰력을 시험하는 틀린 그림 찾기
 
 ### 자주 묻는 질문(FAQ)
 
-- **Q: 틀린 곳을 잘못 클릭하면 어떻게 되나요?**  
-  **A:** 많은 틀린 그림 찾기 게임과 마찬가지로, 오답 클릭 시 시간 제한이 줄거나
+*   **Q: 틀린 곳을 잘못 클릭하면 어떻게 되나요?**
+    *   **A:** 많은 틀린 그림 찾기 게임과 마찬가지로, 오답 클릭 시 시간 제한이 줄거나
   점수가 깎일 수 있습니다. 가능한 한 확신이 있을 때만 클릭하세요.  
 
-    - **Q: 시간 제한이 있나요?**  
-  **A:** 대부분의 레벨은 일정 시간 제한을 두어 긴장감을 더합니다. 제한 시간
+*   **Q: 시간 제한이 있나요?**
+    *   **A:** 대부분의 레벨은 일정 시간 제한을 두어 긴장감을 더합니다. 제한 시간
   안에 모든 차이를 찾는 것이 목표입니다.  
 
-- **Q: 한 레벨에 보통 몇 개의 차이가 있나요?**  
-
-    - **A:** Typically, there are 5 differences to find in each pair of images.
-
-- **Q: How many differences are in each level?**
-
-    - **A:** Yes, most levels are timed to add an extra layer of challenge. Try to find all the differences before the time runs out.
-  **A:** 일반적으로 한 쌍의 그림마다 5개의 차이를 찾게 됩니다.  
-
+*   **Q: 한 레벨에 보통 몇 개의 차이가 있나요?**
+    *   **A:** 일반적으로 한 쌍의 그림마다 5개의 차이를 찾게 됩니다.

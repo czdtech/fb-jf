@@ -16,8 +16,6 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-
-
 ### 상세 게임 소개
 
 `Gym Stack`는 여러 개의 바(기둥) 위에 서로 다른 색과 크기의 웨이트가 쌓여
@@ -58,20 +56,14 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### 자주 묻는 질문(FAQ)
 
-- **Q: 웨이트는 어떻게 합쳐지나요?**  
-  **A:** 같은 색·같은 크기의 웨이트 더미를 서로 포개면 하나의 더 큰 웨이트로
+*   **Q: 웨이트는 어떻게 합쳐지나요?**
+    *   **A:** 같은 색·같은 크기의 웨이트 더미를 서로 포개면 하나의 더 큰 웨이트로
   병합됩니다.
 
-    - **Q: 게임의 최종 목표는 무엇인가요?**  
-  **A:** 막대가 가득 차 이동할 곳이 없어지기 전까지, 웨이트를 계속 병합해
+*   **Q: 게임의 최종 목표는 무엇인가요?**
+    *   **A:** 막대가 가득 차 이동할 곳이 없어지기 전까지, 웨이트를 계속 병합해
   최대한 높은 점수를 얻는 것입니다.
 
-- **Q: 시간 제한이 있나요?**  
-
-    - **A:** No, Gym Stack is a puzzle game that allows you to take your time and think through your moves strategically. There is no time pressure.
-
-- **Q: Is there a time limit?**
-
-    - **A:** The primary goal is to achieve the highest score possible by continuously merging weights and preventing the board from filling up.
-  **A:** 없습니다. `Gym Stack`은 충분히 고민하고 움직일 수 있는 퍼즐 게임이므로,
+*   **Q: 시간 제한이 있나요?**
+    *   **A:** 없습니다. `Gym Stack`은 충분히 고민하고 움직일 수 있는 퍼즐 게임이므로,
   서두르기보다 수를 깊게 읽는 것이 중요합니다.

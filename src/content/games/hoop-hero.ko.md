@@ -17,9 +17,6 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-
-
-
 ### 상세 게임 소개
 
 `Hoop Hero`는 타이밍과 반응 속도를 시험하는 미니멀 원터치 농구 아케이드입니다.
@@ -57,20 +54,14 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### 자주 묻는 질문(FAQ)
 
-- **Q: 게임의 목표는 무엇인가요?**  
-  **A:** 실수 없이 가능한 많은 연속 덩크를 성공시키는 것입니다. 한 번이라도
+*   **Q: 게임의 목표는 무엇인가요?**
+    *   **A:** 실수 없이 가능한 많은 연속 덩크를 성공시키는 것입니다. 한 번이라도
   놓치면 그 판은 종료됩니다.
 
-    - **Q: 점수를 더 많이 얻으려면 어떻게 해야 하나요?**  
-  **A:** 연속으로 성공시킨 덩크 수에 따라 점수가 올라가며, 일부 버전에서는
+*   **Q: 점수를 더 많이 얻으려면 어떻게 해야 하나요?**
+    *   **A:** 연속으로 성공시킨 덩크 수에 따라 점수가 올라가며, 일부 버전에서는
   골대를 직접 건드리지 않는 `퍼펙트` 샷에 추가 보너스를 줍니다.
 
-- **Q: 실수한 뒤 이어서 계속할 수 있나요?**  
-
-    - **A:** Typically, no. These hyper-casual games are designed for quick sessions, and a single miss means the game is over and you must start again.
-
-- **Q: Is there any way to continue after a miss?**
-
-    - **A:** Your score is based on the number of successful dunks you make in a row. Some versions also provide bonus points for "perfect" shots that go straight through the net.
-  **A:** 보통은 불가능합니다. 짧은 세션을 반복하는 하이퍼 캐주얼 구조라,
+*   **Q: 실수한 뒤 이어서 계속할 수 있나요?**
+    *   **A:** 보통은 불가능합니다. 짧은 세션을 반복하는 하이퍼 캐주얼 구조라,
   한 번의 실수가 곧 리셋을 의미합니다.

@@ -17,8 +17,6 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-
-
 ### 상세 게임 소개
 
 `Golf Fling`은 클럽 대신 손가락으로 공을 튕겨 보내는 방식으로 골프를 재해석한
@@ -62,21 +60,15 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### 자주 묻는 질문(FAQ)
 
-- **Q: 이 게임의 목표는 무엇인가요?**  
-  **A:** 각 레벨에서 가능한 적은 플링 수로 공을 홀에 넣는 것입니다. 파 이하의
+*   **Q: 이 게임의 목표는 무엇인가요?**
+    *   **A:** 각 레벨에서 가능한 적은 플링 수로 공을 홀에 넣는 것입니다. 파 이하의
   타수로 클리어할수록 높은 평가를 받습니다.
 
-    - **Q: 점수를 더 잘 받으려면 어떻게 해야 하나요?**  
-  **A:** 파보다 적은 샷으로 클리어하거나, 홀인원에 가까운 플레이를 할수록
+*   **Q: 점수를 더 잘 받으려면 어떻게 해야 하나요?**
+    *   **A:** 파보다 적은 샷으로 클리어하거나, 홀인원에 가까운 플레이를 할수록
   점수가 좋아집니다. 불필요한 안전 샷을 줄이고, 효율적인 루트를 찾는 연습을
   하세요.
 
-- **Q: 공에 커브나 스핀을 줄 수 있나요?**  
-
-    - **A:** In this type of game, you typically cannot add curve or spin after the ball has been flung. All the control comes from your initial aim and power selection.
-
-- **Q: Can I make the ball curve?**
-
-    - **A:** Your score is based on how many shots you take compared to the par for the hole. Getting a hole-in-one or coming in under par will give you the best score.
-  **A:** 이 타입의 게임에서는 보통 공이 날아간 뒤에 회전을 추가할 수 없습니다.
+*   **Q: 공에 커브나 스핀을 줄 수 있나요?**
+    *   **A:** 이 타입의 게임에서는 보통 공이 날아간 뒤에 회전을 추가할 수 없습니다.
   비거리는 오직 초기 조준 각도와 파워 선택에 의해 결정됩니다.

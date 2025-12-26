@@ -34,24 +34,27 @@ Fruit Chef는 공중으로 튀어 오르는 과일을 손가락/마우스 스와
    기회를 기다리세요. 점수보다 생존이 우선입니다.  
 4. **리듬 유지**  
 
-- Power‑ups: Save slow‑mo for dense volleys.
    너무 서두르기보다 일정한 박자로 스와이프하는 것이 정확도에 도움이 됩니다.  
+5. **파워업은 밀집 구간에 사용하기**  
+   슬로 모션 같은 보조 기능이 있다면 과일이 한꺼번에 많이 쏟아지는 구간에서
+   쓰면 콤보를 크게 늘리기 좋습니다.  
 
 ### 조작 방법
 
 - 마우스 드래그 또는 터치 스와이프로 화면 위의 과일을 가로질러 잘랩니다.  
 
-### 자주 묻는 질문(FAQ)
 - UI 버튼으로 일시정지/재시작을 할 수 있습니다.  
 
+### 자주 묻는 질문(FAQ)
 
+- Q: 폭탄을 자꾸 맞아요. 어떻게 줄일 수 있나요?
+  
+  A: 폭탄을 가로지르는 궤적이라면 스와이프를 끝까지 완성하지 말고 과감히 끊어 주세요. 항상 "깨끗한 각도"만 자른다는 느낌으로 안전하게 운영하는 것이 핵심입니다.
 
-A: If supported, multi‑finger arcs can cover more screen safely.
+- Q: 점수를 높이려면 무엇이 중요하나요?
+  
+  A: 길고 곧은 멀티 슬라이스로 콤보를 만들고, 일정한 리듬을 유지하는 것이 가장 효율적입니다.
 
-- Q: Multi‑touch helps?
-
-A: Long, straight combo cuts and consistent rhythm.
-
-- Q: Best way to score high?
-
-A: Slice only along clean angles; don’t complete swipes that intersect bombs.
+- Q: 멀티터치(여러 손가락)가 도움이 되나요?
+  
+  A: 지원되는 버전이라면 화면을 넓게 커버할 수 있어 안전한 경로로 여러 과일을 동시에 자르기 쉬워집니다.

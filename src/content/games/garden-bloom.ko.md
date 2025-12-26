@@ -15,9 +15,6 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-
-
-
 ### 상세 게임 소개
 
 `Garden Bloom`은 클래식한 매치‑3 퍼즐과 정원 꾸미기, 리모델링 요소를 자연스럽게
@@ -68,24 +65,18 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### 자주 묻는 질문(FAQ)
 
-- **Q: 별은 어떻게 얻나요?**  
-  **A:** 별은 매치‑3 퍼즐 레벨을 클리어해야만 획득할 수 있습니다. 대부분의
+*   **Q: 별은 어떻게 얻나요?**
+    *   **A:** 별은 매치‑3 퍼즐 레벨을 클리어해야만 획득할 수 있습니다. 대부분의
   레벨은 한 번 클리어할 때 별 1개를 주며, 특정 구간에서는 연속 클리어나 추가
   목표를 통해 더 많은 보상을 받을 수 있습니다.
 
-    - **Q: 퍼즐에서 이동 수를 다 쓰면 어떻게 되나요?**  
-  **A:** 지정된 이동 수 안에 목표를 달성하지 못하면 해당 시도는 실패로
+*   **Q: 퍼즐에서 이동 수를 다 쓰면 어떻게 되나요?**
+    *   **A:** 지정된 이동 수 안에 목표를 달성하지 못하면 해당 시도는 실패로
   처리되고, 생명(하트)을 1개 잃게 됩니다. 시간이 지나면서 생명이 자동으로
   회복되거나, 일부 버전에서는 게임 내 재화를 사용해 이동 수를 추가하거나
   생명을 즉시 회복할 수 있습니다.
 
-- **Q: 이미 선택한 정원 장식을 나중에 바꿀 수 있나요?**  
-
-    - **A:** In most games of this genre, once you have made a design choice, it is permanent. To change it, you usually have to press and hold the placed object and spend some coins.
-
-- **Q: Can I change the decorations I've chosen for the garden?**
-
-    - **A:** If you fail to complete the objective within the move limit, you will lose a life. You can either wait for your lives to regenerate over time or use in-game coins to get extra moves or a refill.
-  **A:** 많은 게임에서 한 번 고른 장식은 기본적으로 고정되지만, 마음이
+*   **Q: 이미 선택한 정원 장식을 나중에 바꿀 수 있나요?**
+    *   **A:** 많은 게임에서 한 번 고른 장식은 기본적으로 고정되지만, 마음이
   바뀌었을 때 장식을 길게 눌러 교체 메뉴를 열고, 일정량의 코인이나 재화를
   지불해 다른 스타일로 바꿀 수 있는 경우가 많습니다.

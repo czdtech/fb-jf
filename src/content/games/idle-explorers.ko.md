@@ -16,8 +16,6 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-
-
 ### 상세 게임 소개
 
 `Idle Explorers`는 플레이어가 광산 사업가가 되어 탐험가들을 지휘하는 방치형
@@ -59,21 +57,15 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### 자주 묻는 질문(FAQ)
 
-- **Q: 무엇을 가장 먼저 업그레이드해야 하나요?**  
-  **A:** 특정 파트만 극단적으로 올리는 것보다, 갱도·엘리베이터·창고를
+*   **Q: 무엇을 가장 먼저 업그레이드해야 하나요?**
+    *   **A:** 특정 파트만 극단적으로 올리는 것보다, 갱도·엘리베이터·창고를
   함께 올려 자원이 막힘없이 흐르도록 만드는 것이 좋습니다.
 
-    - **Q: 관리자는 어떤 역할을 하나요?**  
-  **A:** 관리자는 해당 구역의 작업을 자동으로 반복시켜, 플레이어가 접속해
+*   **Q: 관리자는 어떤 역할을 하나요?**
+    *   **A:** 관리자는 해당 구역의 작업을 자동으로 반복시켜, 플레이어가 접속해
   있지 않을 때도 수익이 계속 발생하도록 해 줍니다.
 
-- **Q: 돈을 모아 둘까요, 바로바로 써야 할까요?**  
-
-    - **A:** In idle games, it's almost always best to reinvest your money into upgrades as soon as you can afford them. Each upgrade increases your earning rate, which means you'll be able to afford the next upgrade even faster. This exponential growth is the core of the game.
-
-- **Q: Should I spend my money right away or save it?**
-
-    - **A:** Managers are essential for idle income. They automate the work of their respective departments, so you continue to earn money even when you are offline.
-  **A:** 대부분의 방치형 게임과 마찬가지로, 가능한 빨리 업그레이드에
+*   **Q: 돈을 모아 둘까요, 바로바로 써야 할까요?**
+    *   **A:** 대부분의 방치형 게임과 마찬가지로, 가능한 빨리 업그레이드에
   재투자하는 것이 가장 효율적입니다. 수익 속도가 빨라질수록 다음 업그레이드를
   더 빨리 살 수 있기 때문입니다.

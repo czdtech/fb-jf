@@ -48,22 +48,15 @@ Footchinko는 축구의 슈팅 감각과 파칭코/핀볼 메커니즘을 결합
 
 ### 자주 묻는 질문(FAQ)
 
-- **Q: 게임의 기본 목표는 무엇인가요?**  
-  **A:** 파칭코 스타일의 핀과 장애물 사이를 통과해 최대한 많은 골을 넣고,
+*   **Q: 게임의 기본 목표는 무엇인가요?**
+    *   **A:** 파칭코 스타일의 핀과 장애물 사이를 통과해 최대한 많은 골을 넣고,
   높은 점수를 얻는 것입니다.  
 
-    - **Q: 레벨이나 대회 모드가 있나요?**  
-  **A:** 여러 레벨과 챔피언십 형식이 준비되어 있으며, 진행할수록 필드
+*   **Q: 레벨이나 대회 모드가 있나요?**
+    *   **A:** 여러 레벨과 챔피언십 형식이 준비되어 있으며, 진행할수록 필드
   구성과 난이도가 다양해집니다.  
 
-- **Q: 점수를 많이 얻으려면 어떻게 해야 하나요?**  
-
-    - **A:** Score more goals, collect power-ups, and try to clear obstacles efficiently. Some games might also reward you for hitting specific targets or making combo shots.
-
-- **Q: How do I get a higher score?**
-
-    - **A:** Yes, Footchinko typically features multiple levels and championships, each with increasing difficulty and unique field layouts.
-  **A:** 골을 많이 넣는 것은 기본이고, 파워업을 잘 활용해 콤보를 만들고
+*   **Q: 점수를 많이 얻으려면 어떻게 해야 하나요?**
+    *   **A:** 골을 많이 넣는 것은 기본이고, 파워업을 잘 활용해 콤보를 만들고
   장애물을 효율적으로 처리하는 것이 중요합니다. 일부 모드에서는 특정
   타깃을 맞히거나 연속 샷을 성공시키면 추가 점수를 줍니다.  
-

@@ -16,9 +16,6 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
-
-
-
 ### 게임 개요
 
 `Geometry Dash Meltdown`은 지오메트리 대시 시리즈의 독립된 레벨 팩으로, 각

@@ -16,9 +16,6 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-
-
-
 ### 상세 게임 소개
 
 `Guns n' Bottles`는 타이밍과 정확도를 시험하는 중독성 강한 원터치 슈팅
@@ -49,26 +46,21 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### 조작 방법
 
+조작은 아래를 참고하세요.
+
 - **발사**: 마우스 왼쪽 버튼 클릭 또는 화면 아무 곳이나 탭하면 현재 각도로
   총알이 발사됩니다.
 
 
-- **Shoot:** Click the left mouse button or tap anywhere on the screen to fire the gun.
 ### 자주 묻는 질문(FAQ)
 
-- **Q: 게임의 주 목표는 무엇인가요?**  
-  **A:** 가능한 한 많은 초록 병을 연속으로 맞혀 최고 점수를 경신하는 것입니다.
+*   **Q: 게임의 주 목표는 무엇인가요?**
+    *   **A:** 가능한 한 많은 초록 병을 연속으로 맞혀 최고 점수를 경신하는 것입니다.
 
-    - **Q: 병을 놓치거나 빨간 병을 맞히면 어떻게 되나요?**  
-  **A:** 둘 중 어느 경우든 라운드는 즉시 종료되고 점수가 기록됩니다.
+*   **Q: 병을 놓치거나 빨간 병을 맞히면 어떻게 되나요?**
+    *   **A:** 둘 중 어느 경우든 라운드는 즉시 종료되고 점수가 기록됩니다.
   이후에는 처음부터 다시 시작해야 합니다.
 
-- **Q: 조준은 어떻게 하나요?**  
-
-    - **A:** You don't directly control the aim. The gun rotates automatically. Your skill is in timing the shot perfectly as the gun sweeps past your target.
-
-- **Q: How do I aim?**
-
-    - **A:** In either case, the game will end, and your score will be recorded. You must then start over.
-  **A:** 조준 방향은 직접 움직일 수 없고, 총이 자동으로 회전합니다.
+*   **Q: 조준은 어떻게 하나요?**
+    *   **A:** 조준 방향은 직접 움직일 수 없고, 총이 자동으로 회전합니다.
   플레이어는 회전 각도를 읽고 “언제 쏠지”를 선택하는 타이밍 실력으로 승부합니다.

@@ -16,9 +16,6 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
-
-
-
 ### 게임 개요
 
 `Google Feud`는 TV 쇼 `Family Feud` 형식을 본뜬 검색어 맞히기 게임입니다.

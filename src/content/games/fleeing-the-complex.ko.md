@@ -37,24 +37,14 @@ Fleeing the Complex는 Henry Stickmin 시리즈의 한 작품으로, 철통 경�
 
 - 한 루트에서 막혔다 싶으면, 완전히 다른 선택지로 진행해 보세요. 상당수
   장면은 여러 대체 해법을 갖고 있습니다.  
-- 엔딩과 실패 리스트를 모으는 것을 목표로 삼으면, 같은 장면도 여러 번
+- 엔딩 체크리스트를 만들어 이미 본 루트/엔딩을 표시해 두면, 같은 전개를 반복하는 일을 줄일 수 있습니다.
+- 엔딩과 실패 리스트를 모으는 것을 목표로 삼으면, 같은 장면도 여러 번 보는 재미가 있습니다.
 
-- Q: How many endings does the game include?
+### 자주 묻는 질문 (FAQ)
 
-### 자주 묻는 질문(FAQ)
-
-- Keep a checklist of endings to avoid repeats.
-  보는 재미가 있습니다.  
-
-
-
-A: Yes, many hosts provide scene selection for cleanup.
-
-- Q: Can I rewatch scenes to collect everything?
-
-A: Only some scenes require quick clicks; most are menu choices.
-
-- Q: Do I need to react quickly in every scene?
-
-
-A: Yes, many hosts provide scene selection for cleanup.
+- Q: 이 게임에는 엔딩이 몇 개나 있나요?  
+  A: 주요 루트 분기마다 여러 개의 성공 엔딩이 있습니다.
+- Q: 모든 장면에서 빠르게 반응해야 하나요?  
+  A: 일부 장면만 빠른 클릭이 필요하고, 대부분은 선택 메뉴로 진행됩니다.
+- Q: 장면을 다시 보고 수집 요소를 모을 수 있나요?  
+  A: 네, 많은 호스트 버전에서 장면 선택 기능을 제공해 정리 플레이가 가능합니다.

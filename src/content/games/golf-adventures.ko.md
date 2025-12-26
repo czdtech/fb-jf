@@ -16,9 +16,6 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-
-
-
 ### 상세 게임 소개
 
 `Golf Adventures`는 현실적인 골프 코스 대신, 상상력 넘치는 구조와 장애물로
@@ -58,21 +55,15 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### 자주 묻는 질문(FAQ)
 
-- **Q: 파(Par)는 무슨 뜻인가요?**  
-  **A:** 한 홀을 완주하는 데 숙련된 플레이어가 평균적으로 사용하는 기준
+*   **Q: 파(Par)는 무슨 뜻인가요?**
+    *   **A:** 한 홀을 완주하는 데 숙련된 플레이어가 평균적으로 사용하는 기준
   타수입니다. 예를 들어 Par 3라면, 3타 이내에 홀인하는 것을 목표로 합니다.
 
-    - **Q: 공이 물에 빠지면 어떻게 되나요?**  
-  **A:** 공은 이전 위치나 지정된 드롭 지점으로 돌아가며, 보통 1타 패널티가
+*   **Q: 공이 물에 빠지면 어떻게 되나요?**
+    *   **A:** 공은 이전 위치나 지정된 드롭 지점으로 돌아가며, 보통 1타 패널티가
   부과됩니다.
 
-- **Q: 큰 벽을 어떻게 넘어가나요?**  
-
-    - **A:** Look for ramps or other objects. Some levels require you to hit the ball up a ramp to launch it over an obstacle. Other times, you may need to bounce it off another wall to get around.
-
-- **Q: How do I get past a large wall?**
-
-    - **A:** Your ball will be returned to its previous position, and you will receive a one-stroke penalty.
-  **A:** 스테이지 곳곳에 있는 경사로나 발판을 활용해야 합니다. 벽 앞의 램프를
+*   **Q: 큰 벽을 어떻게 넘어가나요?**
+    *   **A:** 스테이지 곳곳에 있는 경사로나 발판을 활용해야 합니다. 벽 앞의 램프를
   타고 공을 띄워 넘기거나, 다른 벽에 한번 튕겨 각도를 바꿔 돌아가는 샷이
   필요할 수 있습니다.

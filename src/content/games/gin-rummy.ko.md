@@ -48,11 +48,11 @@ releaseDate: 2025-10-17T00:00:00.000Z
    손패의 데드우드 점수 합이 10 이하가 되면 라운드를 끝낼 수 있는 “낙”을
    선언할 수 있습니다. 낙을 할 때는 마지막으로 한 장을 버리고, 자신의 멜드와
    데드우드 카드를 모두 공개해 테이블에 펼칩니다. 이후 상대는 자신의 남은
-   데드우드 카드를 당신의 멜드에 이어 붙이는 “레이 오프(lay off)”를 할
+   데드우드 카드를 당신의 멜드에 이어 붙이는 “레이 오프(lay off 표기)”를 할
    기회를 얻습니다.
 
-5. **고 진(Go Gin)**  
-   손패 10장 전체를 멜드로 완벽하게 구성했다면 “고 진(Go Gin)”을 선언할 수
+5. **고 진(Go Gin 표기)**  
+   손패 10장 전체를 멜드로 완벽하게 구성했다면 “고 진(Go Gin 표기)”을 선언할 수
    있습니다. 이 경우 보너스 점수를 크게 얻고, 상대는 당신의 멜드에 카드를
    이어 붙일 수 없습니다.
 
@@ -76,22 +76,16 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### 자주 묻는 질문(FAQ)
 
-- **Q: “데드우드(deadwood)”가 무엇인가요?**  
-  **A:** 어떤 셋이나 런에도 포함되지 않은 채 손에 남아 있는 카드들을 말합니다.
+*   **Q: “데드우드(deadwood)”가 무엇인가요?**
+    *   **A:** 어떤 셋이나 런에도 포함되지 않은 채 손에 남아 있는 카드들을 말합니다.
   이 카드들의 점수 합을 최소화하는 것이 게임의 핵심입니다.
 
-    - **Q: 버림패 더미에서 카드를 항상 가져오는 게 좋나요?**  
-  **A:** 반드시 그렇지는 않습니다. 버림패에서 카드를 가져오면, 상대에게
+*   **Q: 버림패 더미에서 카드를 항상 가져오는 게 좋나요?**
+    *   **A:** 반드시 그렇지는 않습니다. 버림패에서 카드를 가져오면, 상대에게
   “어떤 멜드를 만들고 있는지” 힌트를 주게 됩니다. 멜드에 확실히 도움이 되는
   카드가 아니라면, 되도록 스톡에서 뽑는 편이 정보를 숨기기에 유리합니다.
 
-- **Q: 언더컷(undercut)은 무엇인가요?**  
-
-    - **A:** An undercut happens when you knock, but your opponent has a deadwood value equal to or less than yours after they lay off their cards. In this case, your opponent scores points instead of you.
-
-- **Q: What is an "undercut"?**
-
-    - **A:** Only if it helps you form a meld. Be aware that taking a card from the discard pile signals to your opponent what kind of meld you might be building.
-  **A:** 내가 낙을 선언했지만, 상대가 레이 오프까지 마친 후 데드우드 합이
+*   **Q: 언더컷(undercut)은 무엇인가요?**
+    *   **A:** 내가 낙을 선언했지만, 상대가 레이 오프까지 마친 후 데드우드 합이
   나보다 더 낮거나 같을 때를 말합니다. 이 경우 점수는 내가 아니라 상대에게
   돌아가며, 추가 언더컷 보너스까지 함께 주어집니다.

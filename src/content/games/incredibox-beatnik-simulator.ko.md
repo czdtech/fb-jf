@@ -17,10 +17,6 @@ releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 
-
-
-
-
 ### **게임 소개**
 
 `Incredibox Beatnik`은 음악 제작 게임 Incredibox를 기반으로 한 고퀄리티

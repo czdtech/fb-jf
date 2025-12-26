@@ -47,21 +47,14 @@ Farm Block Puzzle는 전통적인 10x10 퍼즐 방식에 농장 분위기를 더
 
 ### 자주 묻는 질문(FAQ)
 
-- **Q: 게임의 목표는 무엇인가요?**  
-  **A:** 줄을 지워 점수를 획득하면서, 더 이상 세 블록 중 어느 것도 놓을 자리가
+*   **Q: 게임의 목표는 무엇인가요?**
+    *   **A:** 줄을 지워 점수를 획득하면서, 더 이상 세 블록 중 어느 것도 놓을 자리가
   없어지기 전까지 가능한 한 오래 버티는 것입니다.  
 
-    - **Q: 블록을 회전할 수는 없나요?**  
-  **A:** 회전 기능은 없으며, 주어진 방향 그대로 사용해야 합니다. 이 제약 덕분에
+*   **Q: 블록을 회전할 수는 없나요?**
+    *   **A:** 회전 기능은 없으며, 주어진 방향 그대로 사용해야 합니다. 이 제약 덕분에
   배치 계획이 더 중요해집니다.  
 
-- **Q: 어떻게 하면 높은 점수를 받을 수 있나요?**  
-
-    - **A:** By surviving as long as possible and by creating combos. Clearing multiple lines with a single piece gives a significant score bonus.
-
-- **Q: How do I get the highest score?**
-
-    - **A:** No. The challenge comes from fitting the pieces exactly as they are presented to you.
-  **A:** 콤보를 많이 만들고, 보드를 깨끗하게 유지해 긴 시간 동안 플레이하는 것이
+*   **Q: 어떻게 하면 높은 점수를 받을 수 있나요?**
+    *   **A:** 콤보를 많이 만들고, 보드를 깨끗하게 유지해 긴 시간 동안 플레이하는 것이
   핵심입니다. 한 번에 여러 줄을 지우는 배치를 노려 보세요.  
-

@@ -26,6 +26,8 @@ score: 4.2/5  (94 votes)
 
 ### 어떻게 플레이하나요?
 
+아래 내용을 참고해 보세요.
+
 - **스프런키 스쿼드 고르기**  
   스프런키 테마로 재디자인된 캐릭터들 중 마음에 드는 캐릭터를 골라 무대에
   올립니다. 각 캐릭터는 고유한 루프 사운드와 애니메이션을 갖고 있습니다.  
@@ -37,7 +39,6 @@ score: 4.2/5  (94 votes)
   아주 좋은 패턴이 만들어지는 경우도 많습니다.  
 - **작품 저장 및 공유**  
 
-- **Share Your Masterpiece:** Once you've crafted a track you love, don't forget to save it and share it with both the Sprunki and Fiddlebops communities. Let everyone join the fun!
   마음에 드는 트랙이 완성되면 저장하거나, 스프런키·피들밥스 커뮤니티와
   공유해 다른 사람들과 함께 즐길 수도 있습니다.  
 
@@ -63,4 +64,3 @@ Fiddlebops나 Sprunki 둘 중 하나라도 좋아한다면, 이 Mod는 두 세�
 실험하고, 나만의 트랙을 만들어 보고 싶다면 **FiddleBops but Sprunki**를
 한 번 플레이해 보세요.  
 클래식과 새로움이 섞인 음악 놀이터가 기다리고 있습니다.
-

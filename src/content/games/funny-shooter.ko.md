@@ -39,26 +39,19 @@ Funny Shooter는 1인칭 시점에서 기괴한 적들을 상대하는 웨이브
 - 헤드샷을 노리면 탄약과 시간을 모두 아낄 수 있습니다.  
 - 엄폐물과 코너를 활용해 적을 한 방향으로만 몰리게 하면, 포위당할 위험을
   줄일 수 있습니다.  
-- 폭발 무기나 특수 스킬은 엘리트 웨이브나 적이 몰려 나오는 타이밍에 아껴
-
-- Q: How can I unlock better weapons?
+- 폭발 무기나 특수 스킬은 엘리트 웨이브나 적이 몰려 나오는 타이밍에 아껴 쓰는 것이
+  좋습니다.  
 
 ### 자주 묻는 질문(FAQ)
-  써야 효율이 좋습니다.  
 
+- **Q: 더 좋은 무기는 어떻게 해금하나요?**  
+  **A:** 웨이브를 클리어해 돈을 모은 뒤, 웨이브 사이 상점에서 무기와 업그레이드를
+  구매하면 됩니다.
 
+- **Q: 마우스 감도(센서티비티)를 바꿀 수 있나요?**  
+  **A:** 일부 버전은 옵션에서 감도를 조절할 수 있습니다. 옵션이 없다면 브라우저 또는
+  운영체제의 마우스 감도를 조정해 보세요.
 
-A: Most hosts include settings for sensitivity.
-
-- Q: Can I change mouse sensitivity?
-
-A: Some hosts feature periodic bosses that require burst damage.
-
-- Q: Does the game include boss encounters?
-
-
-A: Most hosts include settings for sensitivity.
-
-- Q: Can I change mouse sensitivity?
-
-A: Some hosts feature periodic bosses that require burst damage.
+- **Q: 보스전이 있나요?**  
+  **A:** 버전에 따라 주기적인 보스 또는 엘리트 웨이브가 등장할 수 있습니다. 이때는
+  폭발 무기나 강력한 스킬을 아껴 두면 유리합니다.

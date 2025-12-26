@@ -16,8 +16,6 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-
-
 ### 상세 게임 소개
 
 `Gold Miner Tom`은 타이밍과 정확한 클릭을 시험하는 고전 아케이드 스타일의
@@ -59,21 +57,15 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### 자주 묻는 질문(FAQ)
 
-- **Q: 각 레벨의 목표는 무엇인가요?**  
-  **A:** 제한 시간 안에 레벨마다 정해진 목표 금액 이상을 벌어야 다음 스테이지로
+*   **Q: 각 레벨의 목표는 무엇인가요?**
+    *   **A:** 제한 시간 안에 레벨마다 정해진 목표 금액 이상을 벌어야 다음 스테이지로
   넘어갈 수 있습니다.
 
-    - **Q: 집게가 너무 느리게 올라오는데 왜 그런가요?**  
-  **A:** 대부분 큰 돌처럼 무겁지만 가치가 낮은 물체를 잡았기 때문입니다.
+*   **Q: 집게가 너무 느리게 올라오는데 왜 그런가요?**
+    *   **A:** 대부분 큰 돌처럼 무겁지만 가치가 낮은 물체를 잡았기 때문입니다.
   가능하면 이런 돌은 피하고, 이미 잡았다면 다이너마이트로 터뜨려 시간을
   아끼는 것이 좋습니다.
 
-- **Q: 제한 시간 안에 목표 금액을 못 채우면 어떻게 되나요?**  
-
-    - **A:** If the timer runs out and you haven't met the goal, the game is over.
-
-- **Q: What happens if I don't reach the money goal in time?**
-
-    - **A:** You have likely grabbed a large, heavy rock. These are not worth much and should be avoided. If you have dynamite, it's a good time to use it.
-  **A:** 시간이 끝났을 때 목표 금액에 도달하지 못했다면 게임이 종료되며,
+*   **Q: 제한 시간 안에 목표 금액을 못 채우면 어떻게 되나요?**
+    *   **A:** 시간이 끝났을 때 목표 금액에 도달하지 못했다면 게임이 종료되며,
   해당 스테이지를 다시 도전해야 합니다.

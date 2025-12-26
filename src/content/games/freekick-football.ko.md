@@ -43,15 +43,10 @@ Freekick Football은 축구에서 가장 짜릿한 순간 중 하나인 프리�
 
 ### 자주 묻는 질문(FAQ)
 
-- **Q: 꾸준히 골을 넣으려면 어떻게 해야 하나요?**  
-  **A:** 파워와 스핀에 따른 궤적을 몸에 익히는 것이 중요합니다. 골대 네 구석을
+*   **Q: 꾸준히 골을 넣으려면 어떻게 해야 하나요?**
+    *   **A:** 파워와 스핀에 따른 궤적을 몸에 익히는 것이 중요합니다. 골대 네 구석을
   각각 노려 보며, 각 상황에서 어느 정도 세기로 차야 하는지 연습해 보세요.  
 
-    - **Q: 수비벽을 넘기기가 너무 어렵습니다.**  
-
-- **A:** Curling the ball over or around the wall is the most common technique. Look for gaps in the wall or try a powerful shot if you have a clear path.
-
-    - **Q: What's the best way to beat the wall?**
-  **A:** 공이 뜨기 시작하는 시점과 최고점 위치를 주의 깊게 보면 도움이 됩니다.
+*   **Q: 수비벽을 넘기기가 너무 어렵습니다.**
+    *   **A:** 공이 뜨기 시작하는 시점과 최고점 위치를 주의 깊게 보면 도움이 됩니다.
   처음에는 약간 더 높은 궤적으로 넘기는 연습부터 하는 편이 안정적입니다.  
-

@@ -16,8 +16,6 @@ releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 
-
-
 ### **게임 소개**
 
 *Incredibox Geek Dance Simulator*는 Incredibox 팬메이드 모드 중
@@ -93,4 +91,3 @@ Simulator 라인업에 속하는 작품으로, **긱·너드 문화**를 테마�
 공식 플랫폼에는 없으며, 보통 `playfiddlebops.com` 같은 모딩 사이트나
 Scratch 커뮤니티, 유튜브 소개 영상의 링크를 통해 웹 브라우저에서
 플레이할 수 있습니다.
-

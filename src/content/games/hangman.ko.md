@@ -15,9 +15,6 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
-
-
-
 ### **게임 소개**
 
 `Hangman`은 알파벳을 하나씩 추리해 숨겨진 영어 단어나 문장을 맞히는 클래식
@@ -70,26 +67,18 @@ releaseDate: 2025-08-16T00:00:00.000Z
 다른 모음(A, O, I, U)과 자주 쓰이는 자음(T, R, N, S, L)을 추천합니다.
 
 **2. 특히 풀기 어려운 단어에는 어떤 것들이 있나요?**  
+길이가 짧고 희귀 알파벳이 포함된 단어, 또는 일반적인 모음(A, E, I, O, U)이 없는 단어가 어렵습니다.
 
-- **Fjord, Gnat, Wry**: These words use uncommon letter combinations that are hard to deduce.
-
-- **Rhythm, Synth, Psych**: These words are difficult because they do not contain any of the standard A, E, I, O, U vowels, forcing players to guess 'Y'.
-
-- **Jazz**: It's short, which gives you fewer initial blanks, and uses two of the rarest letters, 'J' and 'Z'.
-길이가 짧고 희귀 알파벳이 포함된 단어, 또는 일반적인 모음이 없는 단어가
-어렵습니다. 예를 들어 J와 Z를 동시에 쓰는 `JAZZ`, 모음 없이 Y로만 이루어진
-
-- **Deductive Reasoning**: You use logic to deduce the next best guess based on the available information.
-
-- **Spelling**: You learn and reinforce correct spelling patterns.
-
-- **Vocabulary**: You are exposed to new words.
-`RHYTHM`, 독특한 철자 조합을 가진 `FJORD`, `GNAT`, `WRY` 등이 대표적입니다.
+*   **JAZZ**: 단어가 짧아 초기 빈칸이 적고, 희귀 글자 J와 Z가 함께 들어갑니다.
+*   **RHYTHM / SYNTH / PSYCH**: 일반 모음이 없어 Y를 떠올리기 전까지 추리가 까다롭습니다.
+*   **FJORD / GNAT / WRY**: 낯선 철자 조합이 많아 패턴을 잡기 어렵습니다.
 
 **3. Hangman을 통해 어떤 능력을 기를 수 있나요?**  
-새로운 단어를 접하며 **어휘력**이 늘고, 정확한 철자 패턴을 반복해 보며
-**철자 실력**이 향상됩니다. 또한 제한된 정보를 바탕으로 가장 가능성 높은
-다음 수를 고르는 **논리적 추리력**도 자연스럽게 훈련됩니다.
+Hangman은 다음과 같은 능력을 키우는 데 도움이 됩니다.
+
+*   **어휘력**: 새로운 단어를 접할 기회가 늘어납니다.
+*   **철자(스펠링)**: 철자 패턴을 학습하고 강화합니다.
+*   **논리적 추리력**: 제한된 정보로 가능한 답을 좁혀 나갑니다.
 
 **4. 틀린 글자를 고르면 정확히 어떤 일이 일어나나요?**  
 틀릴 때마다 행맨 그림에 머리, 몸통, 팔, 다리 등이 한 부분씩 추가됩니다.

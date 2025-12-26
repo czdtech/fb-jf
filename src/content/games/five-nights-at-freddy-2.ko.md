@@ -16,9 +16,6 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
-
-
-
 ### 개요
 
 속편인 *Five Nights at Freddy's 2*에서는 전작처럼 문을 닫는 대신, Freddy 마스크와 Puppet용

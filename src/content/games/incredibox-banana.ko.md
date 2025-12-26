@@ -15,9 +15,6 @@ releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 
-
-
-
 ### **게임 소개**
 
 이 인기 팬메이드 모드는 원작 Incredibox를, 대히트 VR 게임 **Incredibox Banana**

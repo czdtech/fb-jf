@@ -58,22 +58,16 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### 자주 묻는 질문(FAQ)
 
-- **Q: 이 게임의 목표는 무엇인가요?**  
-  **A:** 첫 번째 목표는 ‘10’ 타일을 만드는 것입니다. 그 이후에는 보드가 더 이상
+*   **Q: 이 게임의 목표는 무엇인가요?**
+    *   **A:** 첫 번째 목표는 ‘10’ 타일을 만드는 것입니다. 그 이후에는 보드가 더 이상
   움직일 수 없게 막히기 전까지 최대한 높은 숫자와 점수를 뽑아내는 것이 최종
   목표입니다.
 
-    - **Q: 게임은 언제 끝나나요?**  
-  **A:** 서로 인접한 같은 숫자 타일이 한 쌍도 남지 않아, 더 이상 합칠 수 있는
+*   **Q: 게임은 언제 끝나나요?**
+    *   **A:** 서로 인접한 같은 숫자 타일이 한 쌍도 남지 않아, 더 이상 합칠 수 있는
   그룹이 없을 때 게임이 종료됩니다.
 
-- **Q: 새로 생기는 타일의 위치는 랜덤인가요?**  
-
-    - **A:** No, the new, higher-numbered tile will appear in the specific spot within the group that you clicked on.
-
-- **Q: Does the new tile appear in a random spot?**
-
-    - **A:** The game ends when there are no more possible moves, which means there are no two adjacent tiles with the same number anywhere on the board.
-  **A:** 아닙니다. 새로 만들어지는 높은 숫자 타일은 항상 플레이어가 클릭/탭한
+*   **Q: 새로 생기는 타일의 위치는 랜덤인가요?**
+    *   **A:** 아닙니다. 새로 만들어지는 높은 숫자 타일은 항상 플레이어가 클릭/탭한
   위치에 생깁니다. 따라서 어디를 눌러 합칠지까지 고려해 두면 이후 전개를
   더 유리하게 만들 수 있습니다.

@@ -34,8 +34,10 @@ Fruit Chopper는 다양한 과일이 화면 곳곳에서 튀어 오르는 속도
    밖으로 나갈 위험도 줄어듭니다.  
 4. **터치 환경에서는 양손 활용**  
 
-- **Stay Focused:** The game gets faster and more frantic. Stay calm and focus on smooth, deliberate swipes rather than wild slashing.
    모바일에서 양손을 사용하면 좌우에 동시에 반응하기 편해집니다.  
+5. **침착하게 정확히 자르기**  
+   게임이 빨라질수록 무작정 휘두르기보다, 부드럽고 의도적인 스와이프를 유지하는
+   편이 폭탄 사고를 줄이고 점수도 안정적입니다.  
 
 ### 조작 방법
 
@@ -44,19 +46,11 @@ Fruit Chopper는 다양한 과일이 화면 곳곳에서 튀어 오르는 속도
 
 ### 자주 묻는 질문(FAQ)
 
-- **Q: 게임 목표가 무엇인가요?**  
-  **A:** 폭탄을 피하면서 가능한 한 많은 과일을 콤보로 잘라 최고 점수를
-  경신하는 것입니다.  
+*   **Q: 게임 목표가 무엇인가요?**
+    *   **A:** 폭탄을 피하면서 가능한 한 많은 과일을 콤보로 잘라 최고 점수를 경신하는 것이 목표입니다. 폭탄을 건드리거나 과일을 너무 많이 놓치면 게임이 끝납니다.
 
-    - **Q: 콤보 보너스는 어떻게 받나요?**  
+*   **Q: 콤보 보너스는 어떻게 받나요?**
+    *   **A:** 한 번의 스와이프로 세 개 이상의 과일을 동시에 자르면 콤보 보너스가 발생합니다. 동시에 자르는 과일이 많을수록 보너스가 커집니다.
 
-- **A:** Many fruit-slicing games feature different modes like Classic (avoid bombs and don't miss fruit), Arcade (a timed 60-second blitz with power-ups), or Zen (a relaxing mode with no bombs). Check the main menu to see what modes are available.
-
-    - **Q: Are there different game modes?**
-
-- **A:** You get a combo bonus by slicing three or more fruits in one single swipe. The more fruits you slice at once, the bigger the bonus.
-
-    - **Q: How do I get a combo bonus?**
-  **A:** 한 번의 스와이프로 세 개 이상의 과일을 동시에 자르면 콤보가
-  발생하며, 개수가 많을수록 보너스가 커집니다.  
-
+*   **Q: 다른 게임 모드가 있나요?**
+    *   **A:** 많은 과일 슬라이스 게임은 클래식(폭탄을 피하고 과일을 놓치면 안 되는 모드), 아케이드(60초 타임어택 + 파워업), 젠(폭탄 없이 편하게 즐기는 모드) 같은 다양한 모드를 제공합니다. 메인 메뉴에서 이용 가능한 모드를 확인해 보세요.

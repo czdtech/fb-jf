@@ -16,8 +16,6 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-
-
 ### 게임 상세 소개
 
 *Fruit Cube Blast*는 밝고 화려한 색감의 블록 퍼즐 게임으로, 같은 색 과일 큐브가
@@ -49,26 +47,21 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### 조작 방법
 
+조작은 아래를 참고하세요.
+
 - **큐브 터뜨리기:** 같은 색 큐브가 두 개 이상 붙어 있는 그룹을 마우스나 손가락으로
   탭해 제거합니다.
 - **부스터 사용:** 생성된 로켓, 폭탄, 컬러 휠 등 부스터를 탭하면 즉시 발동합니다.
 
 
-- **Activate Boosters:** Simply tap on a booster (Rocket, Bomb, etc.) to activate it.
 ### 자주 묻는 질문(FAQ)
 
-- **Q: 한 개짜리 큐브는 왜 선택이 안 되나요?**  
-  **A:** 이 게임은 최소 두 개 이상 붙어 있는 큐브 그룹만 터뜨릴 수 있습니다.
+*   **Q: 한 개짜리 큐브는 왜 선택이 안 되나요?**
+    *   **A:** 이 게임은 최소 두 개 이상 붙어 있는 큐브 그룹만 터뜨릴 수 있습니다.
 
-    - **Q: 로켓은 어떻게 만들 수 있나요?**  
-  **A:** 5~6개 정도의 같은 색 큐브를 한 번에 터뜨리면 로켓 부스터가 생성됩니다.
+*   **Q: 로켓은 어떻게 만들 수 있나요?**
+    *   **A:** 5~6개 정도의 같은 색 큐브를 한 번에 터뜨리면 로켓 부스터가 생성됩니다.
 
-- **Q: 이동 수가 적을 때는 어떻게 플레이하는 게 좋나요?**  
-
-    - **A:** Focus on creating boosters by matching large groups of cubes instead of many small groups. Then, try to maneuver two boosters next to each other and activate them together for a massive board-clearing effect. This is far more efficient than using single boosters.
-
-- **Q: What is the best way to clear a level with limited moves?**
-
-    - **A:** You create a Rocket by tapping on a connected group of 5 or 6 identical fruit cubes.
-  **A:** 많은 작은 그룹을 연속으로 없애기보다는, 큰 그룹을 만들어 부스터를 생성하고
+*   **Q: 이동 수가 적을 때는 어떻게 플레이하는 게 좋나요?**
+    *   **A:** 많은 작은 그룹을 연속으로 없애기보다는, 큰 그룹을 만들어 부스터를 생성하고
   부스터끼리 조합해 한 번에 넓은 구역을 지우는 것이 훨씬 효율적입니다.

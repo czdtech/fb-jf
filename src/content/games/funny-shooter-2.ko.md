@@ -42,24 +42,14 @@ Funny Shooter 2는 전작의 웨이브 슈터 구조를 유지하면서, 더 다
 
 - 라운드가 올라갈수록 적 체력이 두터워지므로, 헤드샷 위주 조준 습관을
   들이는 것이 중요합니다.  
-- 코너와 벽을 이용해 적들을 일렬로 세우면, 샷건이나 관통 무기의 효율이
-
-- Q: How do I unlock new guns?
+- 코너와 벽을 이용해 적들을 일렬로 세우면, 샷건이나 관통 무기의 효율이 크게 올라갑니다.
+- 폭발물(수류탄/로켓 등)은 적이 몰렸을 때 아껴서 쓰는 편이 효율이 좋습니다.
 
 ### 자주 묻는 질문(FAQ)
 
-- Save explosives for clustered spawns.
-  크게 올라갑니다.  
-
-
-
-A: Most hosts provide a settings menu for sensitivity and FOV.
-
-- Q: Can I change sensitivity?
-
-A: Many versions include periodic boss waves with unique mechanics.
-
-- Q: Are there bosses in the game?
-
-
-A: Most hosts provide a settings menu for sensitivity and FOV.
+- **Q: 새로운 총은 어떻게 해금하나요?**  
+  **A:** 라운드를 클리어해 얻는 코인으로 무기를 구매해 해금할 수 있습니다.
+- **Q: 보스가 나오나요?**  
+  **A:** 일부 버전에서는 특정 구간마다 보스 웨이브가 등장해 색다른 패턴을 보여 줍니다.
+- **Q: 마우스 감도 같은 설정을 바꿀 수 있나요?**  
+  **A:** 호스트에 따라 설정 메뉴에서 감도나 시야각(FOV) 등을 제공하기도 합니다.

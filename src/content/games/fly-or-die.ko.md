@@ -37,24 +37,14 @@ Fly or Die는 작은 생물체로 시작해, 먹을 수 있는 대상은 먹고 
 
 - 한 곳에 오래 머무르면 상위 포식자에게 눈에 띄기 쉽습니다. 먹을 것을
   어느 정도 모으면 다른 구역으로 이동해 리스크를 분산하세요.  
-- 체력이 낮을 때는 싸움을 피하고, 회복 아이템이 있는 구역이나 덜 붐비는
+- 형태에 따라 공중/지하 등 높낮이를 활용해 도망치세요. 위로 올라가거나 지하로 잠수하는 것만으로도 추격을 끊을 수 있습니다.
+- 체력이 낮을 때는 싸움을 피하고, 회복 아이템이 있는 구역이나 덜 붐비는 지역을 우선적으로 찾는 것이 좋습니다.
 
-- Q: How do I evolve to the next creature?
+### 자주 묻는 질문 (FAQ)
 
-### 자주 묻는 질문(FAQ)
-
-- Use verticality to escape—climb high or dive underground depending on form.
-  지역을 우선적으로 찾는 것이 좋습니다.  
-
-
-
-A: Most servers are FFA; some hosts rotate special modes.
-
-- Q: Is there team play?
-
-A: You lose progress or a life depending on the server rules.
-
-- Q: What happens when a predator catches me?
-
-
-A: Most servers are FFA; some hosts rotate special modes.
+- Q: 다음 생물로 진화하려면 어떻게 하나요?  
+  A: 화면에 표시된 먹이 아이콘에 해당하는 대상을 먹어 경험치를 채우면 진화합니다.
+- Q: 포식자에게 잡히면 어떻게 되나요?  
+  A: 서버/버전에 따라 진행도가 줄어들거나 목숨을 잃고 다시 시작할 수 있습니다.
+- Q: 팀 플레이가 있나요?  
+  A: 대부분은 개인전(FFA)이지만, 일부 호스트는 특별 모드를 제공하기도 합니다.
