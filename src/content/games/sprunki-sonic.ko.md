@@ -15,7 +15,6 @@ score: 4.0/5  (829 votes)
 ---
 
 
-
 ### Sprunki Sonic 소개
 
 "소닉이 음악을 만든다면?"이라는 상상을 현실로 옮긴 모드가 바로 Sprunki Sonic입니다.

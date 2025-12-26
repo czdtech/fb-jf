@@ -44,33 +44,27 @@ Brud가 정체불명의 "머스타드 소스"를 발견한 이후, 모든 것이
 
 ### 플레이 방법
 
-- **캐릭터 선택**: 각 캐릭터 아이콘을 클릭해 메인 작곡 영역으로 드래그합니다.
-- **사운드 배치**: 원하는 위치에 캐릭터를 놓으면 해당 사운드가 루프에 추가됩니다. 여러 캐릭터를
-  겹쳐 배치해 복잡한 곡을 만들 수 있습니다.
-- **실험하기**: 호러 모드와 특수 캐릭터 조합을 시도해, 숨겨진 연출이나 사운드를 직접 찾아보세요.
+**머스타드 테마 캐릭터 고르기:**
+
+- 각 캐릭터는 비트, 멜로디, 보컬, 효과음 같은 사운드 요소를 담당합니다.
+- 머스타드 컬러 테마로 꾸며져, 전체 분위기의 몰입감을 높입니다.
+
+**드래그 앤 드롭으로 사운드 배치하기:**
+
+- 캐릭터를 메인 작곡 영역으로 드래그해 사운드를 트랙에 추가합니다.
+- 여러 사운드를 레이어링해, 자신만의 조합을 만들어 보세요.
+
+**호러 요소 실험하기:**
+
+- 캐릭터 사운드를 섞어 섬뜩한 조합을 발견해 보세요.
+- 특정 배치가 숨겨진 애니메이션을 트리거할 수도 있습니다.
+
+**음악 만들고 공유하기:**
+
+- 원하는 조합이 완성되면, 친구나 온라인 커뮤니티에 공유해 보세요.
+- 다른 플레이어의 작품을 찾아보며 아이디어를 얻을 수도 있습니다.
 
 
-- Explore other players' creations for inspiration.
-
-- Once you're satisfied with your composition, share it with friends or the online community.
-
-**Create and Share Your Music:**
-
-- Certain arrangements may trigger hidden animations, adding depth to the haunting theme.
-
-- Mix different character sounds to uncover new, spooky combinations.
-
-**Experiment with Horror Elements:**
-
-- Layer different sounds to create your own unique musical composition.
-
-- Drag characters into the main composition area to add their sounds to your track.
-
-**Drag and Drop Sounds:**
-
-- The characters are stylized to match the mustard color scheme, enhancing the immersive experience.
-
-- Explore other players' creations for inspiration.
 ### 왜 Yojou Sprunki Mustard를 해봐야 할까?
 
 - **새로운 스프런키 경험**: 기존 스프런키/인크레디박스류 게임을 많이 즐겨본 플레이어에게도 색다른

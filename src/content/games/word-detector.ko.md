@@ -45,19 +45,13 @@ Word Detector는 어휘력과 순발력을 동시에 시험하는 단어 찾기 
 
 ### 자주 묻는 질문(FAQ)
 
-*   **Q. 최소 몇 글자부터 단어로 인정되나요?**  
-    **A:** 일반적으로 세 글자 이상인 단어만 유효한 답으로 인정되는 경우가 많습니다.
+*   **Q. 최소 몇 글자부터 단어로 인정되나요?**
+    *   **A:** 일반적으로 세 글자 이상인 단어만 유효한 답으로 인정되는 경우가 많습니다.
 
-    - **Q. 같은 글자 칸을 한 단어에서 두 번 쓸 수 있나요?**  
-    **A:** 한 번 선택한 글자 칸은 그 단어 안에서 다시 사용할 수 없습니다. 루프를 만들어 되돌아갈
+*   **Q. 같은 글자 칸을 한 단어에서 두 번 쓸 수 있나요?**
+    *   **A:** 한 번 선택한 글자 칸은 그 단어 안에서 다시 사용할 수 없습니다. 루프를 만들어 되돌아갈
     수 없으므로, 다른 경로를 찾아야 합니다.
 
-*   **Q. 시간이 다 되면 어떻게 되나요?**  
-
-    - **A:** If you don't reach the level's objective (like a target score) before the timer runs out, you will have to restart the level.
-
-- **Q: What happens if time runs out?**
-
-    - **A:** No. Once you use a letter tile for a word, you cannot loop back and use it again in the same word.
-    **A:** 제한 시간 안에 목표 점수나 요구 조건을 충족하지 못하면 해당 레벨을 실패하게 되고,
+*   **Q. 시간이 다 되면 어떻게 되나요?**
+    *   **A:** 제한 시간 안에 목표 점수나 요구 조건을 충족하지 못하면 해당 레벨을 실패하게 되고,
     다시 도전해야 합니다.

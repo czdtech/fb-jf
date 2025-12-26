@@ -14,7 +14,6 @@ score: 4.0/5  (829 votes)
 ---
 
 
-
 ### Sprunki Retake New Human 소개
 
 시각적인 변화를 원한다면, Sprunki Retake New Human이 딱 맞는 모드입니다.
@@ -56,20 +55,14 @@ Sprunki Retake New Human의 핵심은 클래식 Incredibox 경험을 새로운 �
 
 ### Sprunki Retake New Human 하이라이트
 
-- **새로운 비주얼 스타일:**
-  기존 캐릭터를 인간형으로 재해석해, 같은 사운드도 전혀 다른 분위기로
-  느껴지게 합니다.
-- **생동감 있는 애니메이션:**
-  인간적인 제스처와 표정이 더해져, 캐릭터를 보는 재미가 커집니다.
-- **익숙하지만 새로운 경험:**
+- **새로운 비주얼 스타일:** 기존 캐릭터를 인간형으로 재해석해, 같은 사운드도 전혀 다른 분위기로 느껴지게 합니다.
+- **생동감 있는 애니메이션:** 인간적인 제스처와 표정이 더해져, 캐릭터를 보는 재미가 커집니다.
+- **창의적인 디자인:** 업그레이드된 비주얼과 표현력 있는 연출로, 트랙 완성 과정이 더 몰입감 있게 느껴집니다.
+- **익숙한 게임 메커니즘:** Incredibox 특유의 드래그 앤 드롭 조작과 조합 방식은 그대로 즐길 수 있습니다.
 
+### Sprunki Retake New Human 이야기
 
-- **Familiar Game Mechanics:** Rediscover the beloved mechanics of Incredibox with a fresh twist in **Sprunki Retake New Human**.
-### The Story of Sprunki Retake New Human:
-
-- **Familiar Game Mechanics:** Rediscover the beloved mechanics of Incredibox with a fresh twist in **Sprunki Retake New Human**.
-  게임 시스템은 그대로이면서도 시각적 느낌이 크게 달라, 익숙함과 새로움을
-  동시에 느낄 수 있습니다.
+Sprunki Retake New Human은 클래식한 Incredibox 감성을 유지하면서도, 캐릭터를 인간형으로 재해석해 더 강한 몰입감을 주기 위해 탄생한 팬메이드 모드입니다. 익숙한 조작 위에 새로운 외형과 애니메이션을 더해, 같은 음악 제작을 전혀 다른 분위기로 즐길 수 있게 해 줍니다.
 
 Sprunki Retake New Human은 클래식한 Incredibox 구조를 사랑하지만, 완전히 새롭게
 꾸민 비주얼로 다시 즐겨 보고 싶은 유저에게 잘 어울리는 모드입니다.

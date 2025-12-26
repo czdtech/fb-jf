@@ -15,7 +15,6 @@ score: 4.3/5  (524 votes)
 ---
 
 
-
 ### Sprunkle Bops 소개
 
 Sprunkle Bops는 인기 음악 믹싱 게임 Incredibox를 기반으로 한 확장 모드로,

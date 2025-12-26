@@ -17,7 +17,6 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
-
 ### 게임 소개
 
 Stealing the Diamond는 Henry Stickmin 시리즈의 고전 인터랙티브 어드벤처 게임입니다.

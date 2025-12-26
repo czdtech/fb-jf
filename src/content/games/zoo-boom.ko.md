@@ -46,20 +46,14 @@ Zoo Boom은 알록달록한 동물 블록을 두 개 이상 모여 있는 그룹
 
 ### 자주 묻는 질문(FAQ)
 
-*   **Q. Zoo Boom의 기본 목표는 무엇인가요?**  
-    **A:** 각 레벨마다 제시되는 미션(특정 동물 개수 모으기, 장애물 제거, 목표 점수 달성 등)을
+*   **Q. Zoo Boom의 기본 목표는 무엇인가요?**
+    *   **A:** 각 레벨마다 제시되는 미션(특정 동물 개수 모으기, 장애물 제거, 목표 점수 달성 등)을
         제한된 이동 수 안에 달성하는 것입니다.
 
-    - **Q. 특수 부스터는 어떻게 얻을 수 있나요?**  
-    **A:** 한 번에 많은 수의 동물 블록을 터뜨리면 자동으로 부스터가 생성됩니다. 일반적으로 숫자가
+*   **Q. 특수 부스터는 어떻게 얻을 수 있나요?**
+    *   **A:** 한 번에 많은 수의 동물 블록을 터뜨리면 자동으로 부스터가 생성됩니다. 일반적으로 숫자가
         많을수록 더 강력한 부스터가 만들어집니다.
 
-*   **Q. 이동 수가 떨어져 실패하면 어떻게 되나요?**  
-
-    - **A:** If you run out of moves before completing the level's objectives, you will fail the level and may lose a life. You can then choose to retry the level.
-
-- **Q: What happens if I run out of moves?**
-
-    - **A:** Special boosters are created by matching a larger number of identical animal blocks in a single tap. The more blocks you match, the more powerful the booster.
-    **A:** 이동 수가 0이 되었는데도 목표를 달성하지 못하면 스테이지를 실패하게 되며, 다시 도전해야
+*   **Q. 이동 수가 떨어져 실패하면 어떻게 되나요?**
+    *   **A:** 이동 수가 0이 되었는데도 목표를 달성하지 못하면 스테이지를 실패하게 되며, 다시 도전해야
         합니다. 일부 버전에서는 추가 이동 수를 구매할 수 있는 옵션이 제공되기도 합니다.

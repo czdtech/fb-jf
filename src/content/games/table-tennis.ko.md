@@ -16,8 +16,6 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-
-
 ### 게임 상세 소개
 
 *Table Tennis*는 클래식 탁구 경기를 화면 속으로 옮겨 온 스포츠 게임입니다. 플레이어는
@@ -45,29 +43,20 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ### 조작 방법
 
 - **마우스 이동:** 패들은 마우스 커서의 좌우 움직임에 따라 이동합니다.
-- **패들 조작:** 별도의 버튼을 누를 필요 없이, 공이 패들에 닿으면 자동으로
-
-- **Hit the Ball:** There is no need to click. Position your paddle in the ball's path, and it will automatically hit it on contact. The angle and speed of the return are influenced by where and how fast you move your paddle into the ball.
-  되받아칩니다. 이때 패들을 얼마나 빠르게, 어느 방향으로 움직이고 있었는지에 따라
-  공의 속도와 각도가 달라집니다.
+- **패들 이동:** 마우스를 좌우로 움직여 테이블 위에서 패들을 원하는 위치로 옮깁니다.
+- **공 치기:** 별도의 클릭 없이 공이 패들에 닿으면 자동으로 되받아칩니다. 이때 패들을 얼마나 빠르게, 어느 방향으로 움직이고 있었는지에 따라 공의 속도와 각도가 달라집니다.
 
 ### 자주 묻는 질문(FAQ)
 
-- **Q: 어떻게 점수를 얻나요?**  
-  **A:** 상대가 공을 되받지 못하고 두 번 바운드시키거나, 네트에 걸리거나,
+*   **Q: 어떻게 점수를 얻나요?**
+    *   **A:** 상대가 공을 되받지 못하고 두 번 바운드시키거나, 네트에 걸리거나,
   테이블 밖으로 날려 버렸을 때 점수를 얻습니다.
 
-    - **Q: 공에 회전을 줄 수 있나요?**  
-  **A:** 별도의 회전 버튼은 없지만, 공을 칠 순간 패들을 빠르게 한쪽으로 움직이면
+*   **Q: 공에 회전을 줄 수 있나요?**
+    *   **A:** 별도의 회전 버튼은 없지만, 공을 칠 순간 패들을 빠르게 한쪽으로 움직이면
   공의 궤도와 속도가 변해 실제 회전 샷과 비슷한 효과를 낼 수 있습니다.
 
-- **Q: 몇 점까지 하면 승리인가요?**  
-
-    - **A:** Typically, a game is won by the first player to reach a set number of points (e.g., 11 or 21), but you must win by at least two points.
-
-- **Q: What is the winning score?**
-
-    - **A:** While the game may not have an explicit "spin" button, moving your paddle quickly as you strike the ball can influence its speed and angle, creating a similar effect and making it harder for the opponent to return.
-  **A:** 일반적으로 11점 또는 21점을 먼저 달성한 쪽이 이기며, 최소 2점 차이로
+*   **Q: 몇 점까지 하면 승리인가요?**
+    *   **A:** 일반적으로 11점 또는 21점을 먼저 달성한 쪽이 이기며, 최소 2점 차이로
   앞서야 승리하는 방식이 많이 사용됩니다. 실제 규칙은 게임 모드에 따라 달라질 수
   있습니다.

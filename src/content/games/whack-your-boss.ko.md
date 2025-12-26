@@ -27,6 +27,8 @@ Whack Your Boss는 사무실에서 상사에게 느끼는 답답함과 분노를
 
 ### 게임 플레이 가이드
 
+아래 팁을 참고해 보세요.
+
 - **탐색**: 사무실 배경을 천천히 훑어보며, 커서 모양이 바뀌거나 반응이 있는 물건을 찾아보세요.
 - **클릭**: 클릭 가능한 오브젝트를 누르면, 해당 물건을 이용해 상사를 처리하는 짧은 애니메이션이
   재생됩니다. 방법에 따라 연출과 대사가 조금씩 달라집니다.
@@ -34,9 +36,7 @@ Whack Your Boss는 사무실에서 상사에게 느끼는 답답함과 분노를
   화면 구석이나 예상치 못한 위치에 숨겨져 있으니 꼼꼼하게 탐색해야 합니다.
 - **리셋**: 한 번의 연출이 끝나면 보통 "청소부(Cleaner)" 버튼이나 비슷한 옵션이 나타나 장면을
 
-- **Reset:** After each animation, a "Cleaner" option typically appears, allowing you to reset the scene and try another object.
 
-- **Discover:** The main challenge and fun come from finding all the hidden ways to "whack" the boss. There are usually many methods to uncover.
   초기화하고 다시 탐색을 이어갈 수 있습니다.
 
 ### 조작 방법 안내

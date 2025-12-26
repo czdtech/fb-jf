@@ -13,7 +13,6 @@ score: 3.9/5  (132 votes)
 ---
 
 
-
 ### Sprunki Retake Bonus Characters의 특별한 점
 
 Sprunki Retake Bonus Characters는 단순한 추가 캐릭터 팩이 아니라, 고대 문화와

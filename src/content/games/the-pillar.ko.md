@@ -16,7 +16,6 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-
 ### 게임 소개
 
 The Pillar는 신비로운 세계를 1인칭 시점으로 탐험하며, 기둥과 벽에 새겨진
@@ -26,6 +25,8 @@ The Pillar는 신비로운 세계를 1인칭 시점으로 탐험하며, 기둥�
 
 ### 플레이 가이드
 
+아래 팁을 참고해 보세요.
+
 - **환경 관찰:**
   퍼즐의 답은 대개 주변 환경 어딘가에 힌트 형태로 숨어 있습니다. 벽, 바닥,
   나무, 섬 전체의 구조 등을 천천히 둘러보세요.
@@ -34,7 +35,6 @@ The Pillar는 신비로운 세계를 1인칭 시점으로 탐험하며, 기둥�
   두는 것이 좋습니다.
 - **기둥 상호작용:**
 
-- **Progression:** Successfully solving puzzles opens new areas or reveals critical information needed to advance.
   퍼즐 기둥에 다가가면 상호작용할 수 있으며, 올바른 순서나 모양을 입력하면
   새로운 길이 열립니다.
 
@@ -46,14 +46,14 @@ The Pillar는 신비로운 세계를 1인칭 시점으로 탐험하며, 기둥�
 
 ### 자주 묻는 질문(FAQ)
 
-**Q: 퍼즐이 너무 어려워서 막혔어요.**
+**어떤 종류의 퍼즐이 나오나요?**
 
-A: 퍼즐마다 바로 옆 또는 주변 공간에 힌트가 있는 경우가 많습니다.
-   잠시 돌아다니며 다른 시각에서 환경을 살펴보면 실마리가 보일 수 있습니다.
+퍼즐은 로직 퍼즐, 패턴 인식, 환경 조작, 때로는 소리를 활용하는 도전까지 폭넓게 구성되어 있습니다.
 
+**The Pillar에 스토리가 있나요?**
 
-The difficulty of the puzzles can range from straightforward to quite challenging, requiring players to think critically and sometimes experiment with solutions.
+게임은 퍼즐 중심으로 진행되지만, 진행할수록 환경 연출을 통해 서사/미스터리가 드러나는 방식으로 이야기가 이어집니다.
 
-**Is the game difficult?**
+**난이도는 어떤가요?**
 
-While the game is primarily puzzle-driven, there is an underlying narrative or mystery that unfolds as you progress and solve more puzzles, often revealed through environmental storytelling.
+퍼즐 난이도는 비교적 쉬운 것부터 꽤 어려운 것까지 다양합니다. 상황을 관찰해 단서를 모으고, 여러 방식으로 시도해 보는 것이 도움이 됩니다.

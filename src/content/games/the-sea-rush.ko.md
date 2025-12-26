@@ -16,7 +16,6 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-
 ### 게임 상세 소개
 
 The Sea Rush는 바다를 배경으로 한 매치-3 퍼즐 게임으로, 물결과 산호, 조개 사이에
@@ -43,20 +42,8 @@ The Sea Rush는 바다를 배경으로 한 매치-3 퍼즐 게임으로, 물결�
 
 ### 자주 묻는 질문(FAQ)
 
+*   **Q: 게임 목표가 무엇인가요?**
+    *   **A:** 같은 블록을 세 개 이상 맞춰 점수를 얻고, 스테이지 목표를 달성해 다음 레벨로 진행하는 것이 핵심입니다.
 
-- **A:** Clearing more than three animals at once or creating combos will award you with more points.
-
-    - **Q: How do I get more points?**
-
-- **A:** The main goal is to align three or more similar sea animals to score points and advance to the next level.
-
-    - **Q: What is the goal of the game?**
-**Q: 이동 횟수가 항상 부족해요.**
-
-A: 점수만 올리는 매치보다, 목표와 직접 관련된 매치를 우선하세요. 연쇄가 잘
-   발생하는 아래쪽이나 장애물 주변부터 정리하면 이동 수를 절약할 수 있습니다.
-
-**Q: 스페셜 보석 조합이 어렵습니다.**
-
-A: 스페셜끼리 인접했을 때 서로를 교환하는 습관을 들이면, 다양한 조합 효과를
-   자연스럽게 익힐 수 있습니다.
+*   **Q: 점수를 더 많이 얻는 방법이 있나요?**
+    *   **A:** 세 개보다 더 많이 한 번에 지우거나, 연쇄(콤보)를 만들면 더 많은 점수를 받을 수 있습니다.

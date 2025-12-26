@@ -13,7 +13,6 @@ score: 4.9/5  (509 votes)
 ---
 
 
-
 기계 굉음과 금속이 부딪히는 소리로 가득한 음악 세계로 들어가 보고 싶나요?
 Sprunki x SepBox Steel Factory는 그런 공장 테마의 세계를 무대로, 철과 기계의
 리듬으로 곡을 만드는 모드입니다.
@@ -56,14 +55,14 @@ Sprunki x SepBox Steel Factory는 스프룽키의 역동적인 아트 스타일�
 
 ### 왜 Sprunki x SepBox Steel Factory인가?
 
+아래 내용을 참고해 보세요.
+
 - 각 캐릭터가 실제 중장비와 금속 작업에서 온 듯한 소리를 들려 줍니다.
 - 실험적인 사운드 조합을 통해, 기존 음악 게임에서는 잘 다루지 않던
   인더스트리얼 스타일을 쉽게 구현할 수 있습니다.
 - 강렬한 공장 분위기 속에서 영감을 자유롭게 풀어낼 수 있는 창작 공간을
 
-- Immerse yourself in the creation of high-energy music tracks within the captivatingly gritty industrial environment, allowing the uninhibited release of inspiration and creativity.
 
-- Unlock exclusive rewards by discovering hidden sound combinations related to effects while exploring unique sounds.
   제공합니다.
 
 Sprunki x SepBox Steel Factory는 공장 특유의 리듬과 소리를 사랑하는 플레이어에게

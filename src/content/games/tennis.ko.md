@@ -16,7 +16,6 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
-
 ### 게임 소개
 
 이 게임은 테니스의 단순하면서도 중독성 강한 재미를 잘 살린 고전 아케이드
@@ -40,14 +39,13 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 ### 조작 방법 안내
 
+조작은 아래를 참고하세요.
+
 - **이동:** 방향키 또는 `WASD` 키로 코트 내에서 선수 위치를 조정합니다.
 - **스윙/타격:** `Spacebar` 또는 `X` 키로 라켓을 휘둘러 공을 칩니다.
   스윙 타이밍과 위치에 따라 공의 방향과 파워가 달라집니다.
 
 
-- **Swing / Hit:** `Spacebar` or `X` key to swing your racket and hit the ball. The timing of your swing can affect the power and direction of the shot.
-
-- **Movement:** `Arrow Keys` or `WASD` to move your player around your side of the court.
 ### 자주 묻는 질문(FAQ)
 
 **Q: 포인트는 어떻게 계산되나요?**

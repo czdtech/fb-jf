@@ -42,14 +42,10 @@ Word Pics는 두 장의 사진을 단서로, 그 둘을 이어 주는 공통 단
 
 ### 자주 묻는 질문(FAQ)
 
-*   **Q. 단어가 전혀 떠오르지 않을 때는 어떻게 하나요?**  
-    **A:** 우선 각각의 사진을 별개로 바라보고, 떠오르는 단어를 여러 개 적어 본 뒤 그중 공통되는
+*   **Q. 단어가 전혀 떠오르지 않을 때는 어떻게 하나요?**
+    *   **A:** 우선 각각의 사진을 별개로 바라보고, 떠오르는 단어를 여러 개 적어 본 뒤 그중 공통되는
     개념이 있는지 찾아보세요. 그래도 어렵다면 힌트를 사용해 글자 수나 일부 철자를 확인해 보세요.
 
-    - **Q. 난이도가 점점 어려워지나요?**  
-
-- **A:** The game has different modes, including an expert mode for a greater challenge. The puzzles also get progressively more difficult as you advance.
-
-    - **Q: Are there different difficulty levels?**
-    **A:** 네, 초반에는 직관적인 연결이 많지만, 뒤로 갈수록 추상적인 연관이나 언어 유희에 가까운
+*   **Q. 난이도가 점점 어려워지나요?**
+    *   **A:** 네, 초반에는 직관적인 연결이 많지만, 뒤로 갈수록 추상적인 연관이나 언어 유희에 가까운
     문제들이 등장해 난이도가 올라갑니다.

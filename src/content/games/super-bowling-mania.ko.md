@@ -16,7 +16,6 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-
 ### 게임 상세 소개
 
 Super Bowling Mania는 아케이드 감성의 10프레임 볼링 게임으로, 드래그 몇 번으로
@@ -33,39 +32,40 @@ Super Bowling Mania는 아케이드 감성의 10프레임 볼링 게임으로, �
     일부 버전에서는 스핀을 줄 수 있어, 레인 중앙이 아닌 약간 바깥을 향해
     던졌다가 안쪽으로 휘어 들어오도록 하는 플레이도 가능합니다.
 3.  **스페어 계산:**
-
-- **Picking Up Spares:** If you don't get a strike, you'll need to knock down the remaining pins. Aim carefully for the key pin in the remaining cluster to maximize your chances of clearing the lane.
     첫 투구 후 남은 핀의 위치를 잘 보고, 공의 시작 위치와 각도를 조정해
     최대한 한 번에 처리해 보세요.
+4.  **파워 일관성 유지:**
+    파워가 매번 크게 달라지면 궤적과 핀 반응이 들쭉날쭉해집니다. 자신이 잘 맞추는
+    파워 구간을 정해 두고, 그 범위에서 반복하는 연습이 도움이 됩니다.
 
 ### 조작 방법 안내
 
 - 마우스나 터치로 공을 드래그해 방향과 힘을 조절합니다.
 - 일부 버전에서는 드래그 궤적에 따라 스핀이 적용될 수 있습니다.
 
+- 일부 버전에서는 공이 굴러가는 동안 마우스를 움직여 커브(곡선)를 미세하게 조절할 수
+  있습니다.
 
-- **Spin/Curve:** While the ball is rolling, you may be able to move the mouse to influence its curve.
 ### 자주 묻는 질문(FAQ)
 
+*   **Q: 스트라이크를 더 많이 나오게 하려면 어떻게 해야 하나요?**
+    *   **A:** 매번 같은 시작 위치, 파워, 스핀을 안정적으로 반복하는 것이 중요합니다.
+  1번 핀 옆의 포켓 지점을 노리면 스트라이크 확률이 올라갑니다.
 
-- **A:** The key to getting strikes is consistency. Find a starting position, power level, and spin that works for you and try to replicate it. Aiming for the "pocket" just to the side of the head pin is generally the most effective strategy.
+*   **Q: 퍼펙트 게임은 무엇인가요?**
+    *   **A:** 10프레임 동안 연속 12 스트라이크를 기록해 300점을 만드는 것을 말합니다.
 
-    - **Q: How do I get more strikes?**
+*   **Q: 볼링 점수는 어떻게 계산되나요?**
+    *   **A:** 한 게임은 10프레임으로 구성됩니다. 스트라이크는 첫 공에 10핀을 모두
+  쓰러뜨린 것으로 10점에 더해 다음 두 번의 투구에서 쓰러뜨린 핀 수가 보너스로
+  더해집니다. 스페어는 두 번 안에 10핀을 모두 쓰러뜨린 것으로 10점에 더해 다음
+  한 번의 투구 핀 수가 보너스로 더해집니다.
 
-- **A:** A perfect game is a score of 300, which is achieved by bowling 12 strikes in a row in a single game.
+*   **Q: 항상 가운데를 맞추는데도 스트라이크가 잘 안 나요.**
+    *   **A:** 실제 볼링과 마찬가지로 핀은 약간 비스듬히 맞았을 때 연쇄적으로 잘
+  쓰러집니다. 1번 핀을 정면으로 치기보다 포켓 지점을 노리면 스트라이크 비율이
+  올라갑니다.
 
-    - **Q: What is a perfect game?**
-
-- **A:** A game consists of 10 frames. A strike (all 10 pins on the first ball) gives you 10 points plus a bonus of the pins knocked down on your next two balls. A spare (all 10 pins in two balls) gives you 10 points plus a bonus of the pins from your next one ball.
-
-    - **Q: How is bowling scored?**
-**Q: 항상 가운데를 맞추는데도 스트라이크가 잘 안 나요.**
-
-A: 실제 볼링과 마찬가지로, 볼링 핀은 약간 비스듬히 맞았을 때 연쇄적으로 잘
-   쓰러집니다. 1번 핀을 정면으로 치기보다, 포켓 지점을 노리는 습관을 들이면
-   스트라이크 비율이 올라갑니다.
-
-**Q: 스핀 조절이 어렵습니다.**
-
-A: 스핀을 크게 주기보다, 처음에는 직선에 가깝게 던지는 연습부터 충분히 한 뒤
-   조금씩 곡선을 시도해 보세요.
+*   **Q: 스핀 조절이 어렵습니다.**
+    *   **A:** 스핀을 크게 주기보다, 처음에는 직선에 가깝게 던지는 연습부터 충분히 한 뒤
+  조금씩 곡선을 시도해 보세요.

@@ -15,7 +15,6 @@ score: 4.9/5  (724 votes)
 ---
 
 
-
 ### Swap Sprunkgerny 소개
 
 손가락만으로 음악 마스터가 되어 보고 싶나요? Swap Sprunkgerny에서는 여러 색깔의

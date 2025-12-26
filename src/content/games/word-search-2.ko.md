@@ -45,20 +45,14 @@ Word Search는 문자 격자 속에 숨겨진 단어들을 찾아 표시하는 �
 
 ### 자주 묻는 질문(FAQ)
 
-*   **Q. 단어가 거꾸로도 나오나요?**  
-    **A:** 네, 많은 워드 서치 퍼즐에서 단어는 정방향뿐 아니라 역방향, 위/아래, 대각선까지 다양한
+*   **Q. 단어가 거꾸로도 나오나요?**
+    *   **A:** 네, 많은 워드 서치 퍼즐에서 단어는 정방향뿐 아니라 역방향, 위/아래, 대각선까지 다양한
         방향으로 숨겨질 수 있습니다.
 
-    - **Q. 어떻게 하면 더 빨리 찾을 수 있나요?**  
-    **A:** 단어 목록에서 글자 수가 길거나 독특한 철자를 가진 단어를 먼저 공략해 보세요. 또한,
+*   **Q. 어떻게 하면 더 빨리 찾을 수 있나요?**
+    *   **A:** 단어 목록에서 글자 수가 길거나 독특한 철자를 가진 단어를 먼저 공략해 보세요. 또한,
         위에서 말한 것처럼 희귀 알파벳을 기준으로 스캔하는 방법도 도움이 됩니다.
 
-*   **Q. 틀린 글자 조합을 선택하면 패널티가 있나요?**  
-
-    - **A:** No. If you highlight a selection of letters that is not a word on the list, it will simply un-highlight, and you can try again without penalty.
-
-- **Q: Is there a penalty for guessing wrong?**
-
-    - **A:** You win by finding and highlighting every single word from the provided list.
-    **A:** 일반적으로는 없습니다. 단어 리스트에 없는 조합을 선택하면 선택 표시만 사라지고, 다른
+*   **Q. 틀린 글자 조합을 선택하면 패널티가 있나요?**
+    *   **A:** 일반적으로는 없습니다. 단어 리스트에 없는 조합을 선택하면 선택 표시만 사라지고, 다른
         조합을 다시 시도할 수 있습니다.

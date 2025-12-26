@@ -16,7 +16,6 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-
 ### 게임 상세 소개
 
 Sudoku Plus는 고전 숫자 퍼즐 스도쿠를 깔끔한 화면과 다양한 편의 기능으로
@@ -47,33 +46,21 @@ Sudoku Plus는 고전 숫자 퍼즐 스도쿠를 깔끔한 화면과 다양한 �
 
 *   **칸 선택:** 원하는 칸을 클릭합니다.
 *   **숫자 입력:** 선택한 칸에 화면 키패드나 키보드 숫자를 눌러 숫자를 입력합니다.
-*   **메모 모드 전환:** "메모" 또는 "연필" 버튼을 눌러, 정답 숫자 대신 작은
-    후보 숫자를 적는 모드로 전환할 수 있습니다.
-*   **힌트/오류 체크:** 제공되는 버전에 따라 힌트 버튼이나 오류 표시 기능을
-
-- **Hint:** Click the hint button to reveal the correct number for a single cell.
-    사용할 수 있습니다.
+*   **메모 모드 전환:** "메모" 또는 "연필" 버튼을 눌러, 정답 숫자 대신 작은 후보 숫자를 적는 모드로 전환할 수 있습니다.
+*   **지우기:** 지우개(Erase) 도구로 선택한 칸의 입력을 지웁니다(제공되는 경우).
+*   **힌트:** 힌트 버튼을 누르면 한 칸의 정답 숫자를 확인할 수 있습니다(제공되는 경우).
 
 ### 자주 묻는 질문(FAQ)
 
 *   **Q: 막혔을 때는 어떻게 해야 하나요?**
-
-    A: 돌아가서 가장 단순한 칸부터 다시 보세요. 후보가 두 개뿐인 칸, 혹은
+    *   **A:** 돌아가서 가장 단순한 칸부터 다시 보세요. 후보가 두 개뿐인 칸, 혹은
     줄·칸·박스에서 특정 숫자가 거의 확실해 보이는 위치부터 재검토하는 것이
     좋습니다.
 
-    - **Q: 메모를 너무 많이 써서 판이 복잡해져요.**
-
-    A: 다른 칸이 풀릴 때마다 관련 칸의 후보를 바로 지워 주는 습관을 들이면,
+*   **Q: 메모를 너무 많이 써서 판이 복잡해져요.**
+    *   **A:** 다른 칸이 풀릴 때마다 관련 칸의 후보를 바로 지워 주는 습관을 들이면,
     전체 메모가 훨씬 깔끔해집니다.
 
 *   **Q: 난이도 차이가 큰가요?**
-
-
-    - **A:** Yes, most modern Sudoku games, including this one, have an error-checking feature that will highlight any duplicate numbers in a row, column, or box, allowing you to correct your mistake.
-
-- **Q: Will the game tell me if I make a mistake?**
-
-    - **A:** It allows you to pencil in small numbers as potential candidates for a cell, which is a key strategy for solving harder puzzles without having to rely on memory alone.
-    A: 보통 쉬움·보통·어려움 등으로 나뉘며, 어려운 모드일수록 메모와 고급
+    *   **A:** 보통 쉬움·보통·어려움 등으로 나뉘며, 어려운 모드일수록 메모와 고급
     기법(쌍/삼중 후보, 박스-라인 상호 작용 등)이 필요해집니다.

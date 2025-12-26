@@ -14,7 +14,6 @@ score: 4.3/5  (380 votes)
 ---
 
 
-
 ### Super Sprunki Brasil 소개
 
 뜨거운 브라질 감성으로 음악을 만들고 싶다면, Super Sprunki Brasil이 제격입니다.
@@ -76,7 +75,7 @@ score: 4.3/5  (380 votes)
 - **보너스 메커니즘:**
   특정 조합으로 해금되는 애니메이션과 스페셜 시퀀스가 있어, 실험할수록
 
-### Conclusion:
+### 마무리
   새로운 발견이 있습니다.
 
 Super Sprunki Brasil은 브라질의 열정과 스프룽키식 음악 만들기가 만나
