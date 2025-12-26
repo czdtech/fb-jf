@@ -16,7 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 ### 게임 소개
 
-Choir Game(Blob Opera)은 스테이지나 점수가 없는 실험형 음악 장난감에 가깝습니다.
+Choir Game(Blob Opera 표기)은 스테이지나 점수가 없는 실험형 음악 장난감에 가깝습니다.
 플레이어는 색색의 블롭 네 마리를 조작해 실시간으로 합창을 만들어 볼 수 있으며,
 각 블롭은 베이스, 테너, 메조 소프라노, 소프라노에 해당하는 서로 다른 음역대를
 담당합니다.
@@ -28,6 +28,8 @@ Choir Game(Blob Opera)은 스테이지나 점수가 없는 실험형 음악 장�
 즐기는 것이 목적입니다.
 
 ### 플레이 팁
+
+아래 팁을 참고해 보세요.
 
 1.  **조작 축 이해하기**  
     블롭을 위아래로 드래그하면 음 높이(피치)가, 앞뒤(좌우)로 드래그하면 모음
@@ -52,11 +54,12 @@ Choir Game(Blob Opera)은 스테이지나 점수가 없는 실험형 음악 장�
 
 6.  **테마 모드 살펴보기**  
 
-- **Explore Festive Modes**: The game often includes special themed modes (like a Christmas mode). Look for a toggle icon (e.g., a Christmas tree) to switch backgrounds, hats for the blobs, and a playlist of festive songs the blobs can harmonize with.
     크리스마스 등 특정 시즌에는 별도의 테마 모드가 추가되기도 합니다. 트리 모양
     아이콘 등 테마 토글을 눌러 배경과 블롭의 모자, 전용 곡 리스트를 바꿔 보세요.
 
 ### 조작 방법
+
+조작은 아래를 참고하세요.
 
 -   **블롭 드래그(위/아래):** 음 높이를 높이거나 낮춥니다.
 -   **블롭 드래그(앞/뒤 또는 좌/우):** 모음 색채를 바꿉니다.
@@ -69,11 +72,7 @@ Choir Game(Blob Opera)은 스테이지나 점수가 없는 실험형 음악 장�
     있습니다.
 -   **테마 토글:** 트리 등 아이콘을 눌러 시즌 테마로 전환하고, 전용 배경과 곡을
 
-- **Theme Toggle (e.g., Christmas Tree Icon)**: Switches the game to a different theme, often with new background music to sing along to.
 
-- **Share Button**: After you finish a recording, a share button will appear, allowing you to copy a link to your created performance.
-
-- **Record Button (Red Circle)**: Click this to start recording your composition. Click it again to stop.
     선택할 수 있습니다.
 
 ### 자주 묻는 질문 (FAQ)

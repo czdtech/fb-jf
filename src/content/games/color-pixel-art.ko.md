@@ -53,20 +53,14 @@ Color Pixel Art Classic은 픽셀로 이루어진 그림을 숫자에 따라 칠
 
 ### 자주 묻는 질문 (FAQ)
 
--   **Q. 특정 색의 픽셀을 다 찾기 어렵습니다.**  
-    A. 팔레트에서 색을 선택하면, 대부분의 버전에서 해당 번호 픽셀을 자동으로
+*   **Q. 특정 색의 픽셀을 다 찾기 어렵습니다.**
+    *   **A:** 팔레트에서 색을 선택하면, 대부분의 버전에서 해당 번호 픽셀을 자동으로
     강조 표시해 줍니다. 확대해 하이라이트 주변을 천천히 살펴보세요.
 
-    - **Q. 마지막 몇 픽셀을 못 찾아서 99%에서 막혔어요.**  
-    A. 최대한 확대해 그림 구석구석을 살펴보는 것이 가장 확실합니다. 특히
+*   **Q. 마지막 몇 픽셀을 못 찾아서 99%에서 막혔어요.**
+    *   **A:** 최대한 확대해 그림 구석구석을 살펴보는 것이 가장 확실합니다. 특히
     배경이나 눈·입 같은 작은 디테일에 한두 칸이 남아 있는 경우가 많습니다.
 
--   **Q. 시간 제한이나 패배 조건이 있나요?**  
-
-    - **A:** No. This is a purely relaxing game. There are no timers, scores, or penalties. You can take as much time as you need and even leave a puzzle and come back to it later.
-
-- **Q: Is there a time limit or a way to lose?**
-
-    - **A:** Zoom in! The remaining pixels are often very small or located in tricky spots. Zooming in as much as possible is the best way to find them.
-    A. 없습니다. 순수하게 휴식을 위한 게임으로, 타이머나 점수, 패널티가 없고,
+*   **Q. 시간 제한이나 패배 조건이 있나요?**
+    *   **A:** 없습니다. 순수하게 휴식을 위한 게임으로, 타이머나 점수, 패널티가 없고,
     언제든 중간에 나갔다가 다시 이어서 색칠할 수 있습니다.

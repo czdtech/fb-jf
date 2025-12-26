@@ -39,7 +39,7 @@ Chess(체스)는 8x8 체스보드 위에서 두 사람이 겨루는 턴제 전�
     형태로 이동합니다. 유일하게 다른 기물을 "점프"해 넘어갈 수 있는 기물입니다.
 -   **폰(Pawn):** 기본적으로 앞으로 한 칸 이동하지만, 상대 기물을 잡을 때는
     대각선 앞으로 한 칸을 사용합니다. 첫 움직임에 한해 두 칸 전진이 가능하며,
-    뒤로는 움직일 수도 잡을 수도 없습니다. 앙파상(En Passant), 승진(Promotion)
+    뒤로는 움직일 수도 잡을 수도 없습니다. 앙파상(En Passant 표기), 승진(Promotion)
     같은 특수 규칙도 존재합니다.
 
 ### 기본 전략
@@ -68,19 +68,17 @@ Chess(체스)는 8x8 체스보드 위에서 두 사람이 겨루는 턴제 전�
     교환하는 실수를 피하세요.
 
 2.  **전술 패턴 찾기**  
-    체스에는 포크, 핀, 스큐어, 디스커버드 어택 등 반복적으로 등장하는 전술
-    패턴이 많습니다. 상대가 마지막에 둔 수가 어떤 전술을 노리는지 항상 점검하고,
-    반대로 본인에게 유리한 전술 기회가 없는지 찾아보세요.
+    체스에는 반복적으로 등장하는 전술 패턴이 많습니다. 대표적인 패턴을 익혀 두면
+    상대의 실수를 빠르게 처벌할 수 있습니다.
+    -   **포크(Fork):** 한 기물이 동시에 두 개 이상의 상대 기물을 공격하는 전술입니다.
+    -   **핀(Pin):** 앞의 기물이 움직이면 더 가치 있는 기물이 노출되는 상황을 이용해,
+        상대 기물의 이동을 제한하는 전술입니다.
+    -   **스큐어(Skewer):** 가치 있는 기물을 먼저 공격해 이동시키고, 뒤에 있는 기물을
+        잡아내는 전술입니다.
 
-    - **상대 수 읽기**  
-
-    - **Always Think About Your Opponent's Move:** After your opponent moves, ask yourself: "What is their plan? What are they threatening?"
-
-    - **Skewer:** An attack on a valuable piece that, when it moves, exposes a less valuable piece behind it to capture.
-
-- **Pin:** An attack on a piece that cannot move without exposing a more valuable piece behind it.
+3.  **상대 수 읽기**  
     자신의 수만 생각하지 말고, 상대가 무엇을 위협하고 있는지 매번 확인하세요.
-    "상대의 마지막 한 수가 무엇을 노리는가?"를 자문하는 습관이 blunder(큰 실수)를
+    "상대의 마지막 한 수가 무엇을 노리는가?"를 자문하는 습관이 큰 실수를
     크게 줄여 줍니다.
 
 #### 엔드게임 원칙
@@ -91,10 +89,12 @@ Chess(체스)는 8x8 체스보드 위에서 두 사람이 겨루는 턴제 전�
 
 2.  **폰 승진 노리기**  
     엔드게임의 핵심은 종종 폰 하나를 끝까지 전진시켜 퀸으로 승진시키는 것입니다.
-    앞에 상대 폰이 없는 "통과폰(passed pawn)"은 큰 이점이 되므로, 통과폰을
+    앞에 상대 폰이 없는 "통과폰(passed pawn 표기)"은 큰 이점이 되므로, 통과폰을
     만들고 지원하는 계획을 세워 보세요.
 
 ### 조작 방법 (디지털 버전)
+
+조작은 아래를 참고하세요.
 
 -   **기물 이동:**  
     -   클릭 & 드래그: 기물을 클릭한 상태로 원하는 칸까지 끌어다 놓습니다.  
@@ -102,11 +102,7 @@ Chess(체스)는 8x8 체스보드 위에서 두 사람이 겨루는 턴제 전�
         이동합니다.
 -   **캐슬링:** 킹을 캐슬링할 방향으로 두 칸 움직이면, 룩이 자동으로 킹 옆 칸으로
 
-    - **Castling:** To castle, you simply move your king two squares towards the rook you are castling with. The rook will automatically move to its correct position.
 
-    - **Click and Click:** Click a piece to select it (legal moves are often highlighted), then click the destination square to move it.
-
-- **Click and Drag:** Click and hold a piece, drag it to the desired legal square, and release.
     이동해 캐슬링이 수행됩니다.
 
 ### 자주 묻는 질문 (FAQ)
@@ -125,7 +121,7 @@ Chess(체스)는 8x8 체스보드 위에서 두 사람이 겨루는 턴제 전�
 > 4. 킹이 현재 체크 상태가 아니며, 지나가는 칸과 도착 칸이 상대 기물의 공격 범위에
 >    포함되지 않아야 합니다.
 
-**3. "앙파상(En Passant)"은 무엇인가요?**  
+**3. "앙파상(En Passant 표기)"은 무엇인가요?**  
 > 앙파상은 폰만 사용할 수 있는 특수 잡기입니다. 상대 폰이 시작 위치에서 두 칸
 > 전진해 내 폰 옆 칸을 지나쳐 도착했을 때, 바로 그 다음 턴에만 그 폰을 마치 한
 > 칸만 전진한 것처럼 대각선으로 잡을 수 있습니다.

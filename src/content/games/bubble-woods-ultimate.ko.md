@@ -62,20 +62,14 @@ Bubble Woods Ultimate는 활기찬 숲을 배경으로 펼쳐지는 고속 버�
 
 ### 자주 묻는 질문 (FAQ)
 
--   **Q. 게임의 주요 목표는 무엇인가요?**  
-    A. 제한 시간 60초 안에 가능한 한 많은 점수를 얻는 것입니다. 버블을 다
+*   **Q. 게임의 주요 목표는 무엇인가요?**
+    *   **A:** 제한 시간 60초 안에 가능한 한 많은 점수를 얻는 것입니다. 버블을 다
     제거하는 것이 필수는 아니지만, 화면을 넓게 비울수록 콤보와 점수에 유리합니다.
 
-    - **Q. 시간을 늘릴 방법이 있나요?**  
-    A. 모래시계 모양의 특수 버블을 맞히면 타이머에 몇 초가 추가됩니다. 이 버블을
+*   **Q. 시간을 늘릴 방법이 있나요?**
+    *   **A:** 모래시계 모양의 특수 버블을 맞히면 타이머에 몇 초가 추가됩니다. 이 버블을
     얼마나 잘 활용하느냐가 기록 경쟁의 핵심입니다.
 
--   **Q. 캐넌 옆의 게이지 막대는 무엇인가요?**  
-
-    - **A:** That is your Fireball meter. It fills up with each successful shot. When you make 10 consecutive hits, it will be full, and your next shot will be a powerful Fireball.
-
-- **Q: What is the bar at the bottom next to the cannon?**
-
-    - **A:** The only way to get more time is by hitting the special Hourglass bubbles that appear on the board.
-    A. 파이어볼 게이지입니다. 성공적인 매치를 할 때마다 조금씩 차오르며, 연속
+*   **Q. 캐넌 옆의 게이지 막대는 무엇인가요?**
+    *   **A:** 파이어볼 게이지입니다. 성공적인 매치를 할 때마다 조금씩 차오르며, 연속
     10히트를 달성하면 가득 차 다음 한 발이 파이어볼로 발사됩니다.

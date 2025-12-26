@@ -36,10 +36,10 @@ Daily Sudoku는 매일 새로운 클래식 스도쿠 문제를 제공하는 숫�
    난도가 높은 퍼즐에서는 한 칸에 들어갈 수 있는 숫자가 여러 개일 수 있습니다.
    이때는 노트 기능을 사용해 후보 숫자를 작게 적어 두고, 다른 칸을 풀면서
    하나씩 지워 나가면 결국 한 숫자만 남게 됩니다.  
-4. **나켓 싱글(Naked Single) 찾기**  
+4. **나켓 싱글(Naked Single 표기) 찾기**  
    어떤 칸에 적힌 후보 숫자가 단 하나뿐이라면, 그 칸은 바로 그 숫자로 확정할 수
    있습니다. 이런 칸은 발견하는 즉시 채워 넣으세요.  
-5. **히든 싱글(Hidden Single) 찾기**  
+5. **히든 싱글(Hidden Single 표기) 찾기**  
    특정 행/열/박스 안에서, 어떤 숫자가 후보로 등장하는 칸이 단 한 곳뿐이라면,
    그 칸에는 반드시 그 숫자가 들어가야 합니다. 칸에 여러 후보가 써 있어도
    “해당 구역 기준으로는 유일한 숫자”라면 확정할 수 있습니다.  
@@ -54,22 +54,15 @@ Daily Sudoku는 매일 새로운 클래식 스도쿠 문제를 제공하는 숫�
 
 ### 자주 묻는 질문(FAQ)
 
-* **Q: 스도쿠를 하려면 수학을 잘해야 하나요?**  
-  **A:** 전혀 아닙니다. 스도쿠는 숫자를 사용할 뿐, 계산은 필요 없는 순수 논리 퍼즐입니다.
+*   **Q: 스도쿠를 하려면 수학을 잘해야 하나요?**
+    *   **A:** 전혀 아닙니다. 스도쿠는 숫자를 사용할 뿐, 계산은 필요 없는 순수 논리 퍼즐입니다.
   숫자 대신 기호나 색깔을 사용해도 동일한 게임이 될 정도로, 패턴 인식과 추론이
   중요합니다.  
 
-    - **Q: 틀린 숫자를 입력하면 어떻게 되나요?**  
-  **A:** 대부분의 디지털 스도쿠처럼, 이 버전도 잘못된 입력이 있을 경우 같은 숫자가
+*   **Q: 틀린 숫자를 입력하면 어떻게 되나요?**
+    *   **A:** 대부분의 디지털 스도쿠처럼, 이 버전도 잘못된 입력이 있을 경우 같은 숫자가
   겹치는 위치를 강조해 바로 수정할 수 있도록 도와줍니다.  
 
-* **Q: 왜 노트 기능을 써야 하나요?**  
-
-    - **A:** For easy puzzles, you might not need it. But for medium to hard puzzles, it's almost impossible to keep all the possibilities in your head. Making notes is a fundamental technique for systematically solving complex Sudoku puzzles.
-
-- **Q: Why should I use the "Notes" feature?**
-
-    - **A:** Most digital versions, including this one, will immediately highlight the mistake by showing you the conflicting numbers in red, allowing you to correct it right away.
-  **A:** 쉬운 퍼즐이라면 머릿속으로도 가능하지만, 중급 이상 난이도에서는 모든 후보를
+*   **Q: 왜 노트 기능을 써야 하나요?**
+    *   **A:** 쉬운 퍼즐이라면 머릿속으로도 가능하지만, 중급 이상 난이도에서는 모든 후보를
   외우기 어렵습니다. 노트는 복잡한 퍼즐을 체계적으로 풀기 위한 기본 도구입니다.  
-

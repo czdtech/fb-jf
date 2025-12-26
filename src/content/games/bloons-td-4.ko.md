@@ -23,7 +23,7 @@ Bloons TD 4는 Bloons Tower Defense 시리즈가 한 단계 도약하는 전환�
 끝지점까지 도달하지 못하게 막는 것이죠. 다만 BTD4에서는 그 과정에서 요구되는 전략의
 깊이가 크게 늘어났습니다.
 
-가장 큰 변화는 **분기형 업그레이드 경로(branching upgrade paths)**의 도입입니다.
+가장 큰 변화는 **분기형 업그레이드 경로(branching upgrade paths 표기)**의 도입입니다.
 이전처럼 한 타워에 준비된 업그레이드를 모두 사는 것이 아니라, 서로 배타적인 두 갈래의
 3단계·4단계 업그레이드 중 하나를 선택해 투자해야 합니다. 같은 타워라도 어떤 경로를
 선택했느냐에 따라 완전히 다른 역할을 수행하게 됩니다.
@@ -41,7 +41,7 @@ Bloons TD 4는 Bloons Tower Defense 시리즈가 한 단계 도약하는 전환�
     없습니다.
 -   **새로운 타워 추가**: **Dartling Gun**, **Spike Factory**, **Monkey Glue** 등
     이후 시리즈에서도 아이코닉한 타워들이 처음 등장합니다.
--   **새로운 비행선 BFB**: 붉은색 **B.F.B. (Brutal Flying Behemoth)**가
+-   **새로운 비행선 BFB**: 붉은색 **B.F.B. (Brutal Flying Behemoth 표기)**가
     데뷔합니다. 기존 MOAB보다 훨씬 단단하며, 터지면 내부에서 MOAB 네 대가
     튀어나오는 강력한 위협입니다.
 -   **플레이어 랭크 & 해금 요소**: 플레이를 거듭하며 랭크를 올려야 새로운
@@ -64,7 +64,7 @@ Bloons TD 4는 Bloons Tower Defense 시리즈가 한 단계 도약하는 전환�
     -   **Camo Bloon(카모 블룬)**: 감지 가능한 타워가 아니면 공격 자체가
         불가능합니다. 초반에는 2/2 업그레이드를 한 Dart Monkey(`Enhanced
         Eyesight`), 1/x 업그레이드를 한 Spike Factory, x/3 업그레이드의 Mortar
-        Tower(`Signal Flare`) 등이 대표적인 해답입니다.
+        Tower(`Signal Flare` 표기) 등이 대표적인 해답입니다.
     -   **Lead Bloon(리드 블룬)**: 폭발이나 특수 공격이 필요합니다. 2/x 단계의
         Bomb Tower나 `Glaive Thrower`(x/2) 업그레이드를 한 Boomerang Thrower가
         핵심 카운터이며, `Ring of Fire`로 성장한 Tack Shooter 역시 리드를
@@ -131,7 +131,7 @@ Bloons TD 4는 Bloons Tower Defense 시리즈가 한 단계 도약하는 전환�
 > 공격할 수 있습니다.
 
 **3. 파란 MOAB와 빨간 BFB의 차이는 무엇인가요?**  
-> BFB(Brutal Flying Behemoth)는 MOAB보다 훨씬 더 튼튼하고 체력이 높습니다.
+> BFB(Brutal Flying Behemoth 표기)는 MOAB보다 훨씬 더 튼튼하고 체력이 높습니다.
 > BFB를 터뜨리면 내부에서 MOAB 네 대가 한꺼번에 튀어나오므로, 이후 물량까지
 > 처리할 수 있는 방어선을 준비해야 합니다.
 

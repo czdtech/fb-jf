@@ -53,22 +53,15 @@ Diamond Rush는 인접한 다이아몬드를 서로 바꿔 3개 이상 한 줄�
 
 ### 자주 묻는 질문(FAQ)
 
-* **Q: 이 게임의 기본 목표는 무엇인가요?**  
-  **A:** 각 스테이지에서 요구하는 목표(점수, 특정 보석 제거, 장애물 파괴 등)를
+*   **Q: 이 게임의 기본 목표는 무엇인가요?**
+    *   **A:** 각 스테이지에서 요구하는 목표(점수, 특정 보석 제거, 장애물 파괴 등)를
   달성하는 것입니다. 대부분은 보드를 일정 수준 이상 정리하고 목표 점수에 도달하면
   클리어합니다.  
 
-    - **Q: 파워업이나 특수 다이아는 어떻게 만들 수 있나요?**  
-  **A:** 한 번의 이동으로 동일한 보석을 4개 이상 맞추거나, L/T 모양으로 배치하면
+*   **Q: 파워업이나 특수 다이아는 어떻게 만들 수 있나요?**
+    *   **A:** 한 번의 이동으로 동일한 보석을 4개 이상 맞추거나, L/T 모양으로 배치하면
   줄 지우기, 폭탄, 색상 제거 등 다양한 특수 보석이 생성됩니다.  
 
-* **Q: 모든 스테이지가 시간 제한이 있나요?**  
-
-    - **A:** Many levels in Diamond Rush are timed, requiring you to complete the objectives before the clock runs out. Some levels might be move-limited instead.
-
-- **Q: Is there a time limit in the game?**
-
-    - **A:** Power-ups are created by matching more than three diamonds in a single move. For example, matching four diamonds might create a line-clearing gem, and five might create a bomb or a color-clearing gem.
-  **A:** 아닙니다. 많은 스테이지가 시간 제한 또는 이동 횟수 제한 중 하나를
+*   **Q: 모든 스테이지가 시간 제한이 있나요?**
+    *   **A:** 아닙니다. 많은 스테이지가 시간 제한 또는 이동 횟수 제한 중 하나를
   사용하며, 일부는 보다 느긋하게 즐길 수 있는 이동 제한형으로 구성되어 있습니다.  
-

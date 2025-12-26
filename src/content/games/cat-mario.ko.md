@@ -15,9 +15,6 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
-
-
-
 ### 게임 소개
 
 *Cat Mario* 또는 *Syobon Action(しょぼんのアクション)* 은 클래식 *Super Mario Bros.*를

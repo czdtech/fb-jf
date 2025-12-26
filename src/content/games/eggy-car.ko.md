@@ -39,26 +39,13 @@ Eggy Car에서는 자동차 위에 올라간 달걀을 보호하며, 울퉁불�
   착지 후에 다시 속도를 붙이는 것이 좋습니다.  
 - 달걀이 크게 흔들리기 시작하면 잠깐 속도를 줄이거나 브레이크를 밟아 자세를
   안정시킨 뒤 다시 출발하세요.  
-- 초반 업그레이드는 서스펜션이나 차체 안정성을 올려 주는 요소에 투자하는 것이
-
-- Q: What ends a run?
+- 초반 업그레이드는 서스펜션이나 차체 안정성을 올려 주는 요소에 투자하는 것이 가장 체감 효과가 큽니다.
 
 ### 자주 묻는 질문(FAQ)
-  가장 체감 효과가 큽니다.  
 
-
-
-A: Drive slow; protect the egg—speed comes with smoother lines.
-
-- Q: Best early strategy?
-
-A: It’s a distance/high‑score chase in most hosts.
-
-- Q: Is there a finish line?
-
-
-A: Drive slow; protect the egg—speed comes with smoother lines.
-
-- Q: Best early strategy?
-
-A: It’s a distance/high‑score chase in most hosts.
+- Q: 한 판이 끝나는 조건은 무엇인가요?  
+  A: 달걀이 깨지거나, 연료가 떨어지면 주행이 종료됩니다.
+- Q: 결승선이 있나요?  
+  A: 대부분의 버전에서는 거리/하이스코어를 겨루는 방식입니다.
+- Q: 초반에 가장 좋은 운영은 무엇인가요?  
+  A: 속도보다 달걀 보호가 우선입니다. 부드럽게 주행하는 라인이 기록을 만들어 줍니다.

@@ -61,22 +61,16 @@ Bubble Shooter HD는 남녀노소 누구나 쉽게 즐길 수 있는 고전 버�
 
 ### 자주 묻는 질문 (FAQ)
 
--   **Q. 게임의 최종 목표는 무엇인가요?**  
-    A. 보드 위의 모든 버블을 제거하고 가능한 한 높은 점수를 얻는 것이 목표입니다.
+*   **Q. 게임의 최종 목표는 무엇인가요?**
+    *   **A:** 보드 위의 모든 버블을 제거하고 가능한 한 높은 점수를 얻는 것이 목표입니다.
     버블이 화면 하단의 제한선까지 내려오면 게임이 종료됩니다.
 
-    - **Q. 점수를 더 많이 얻으려면 어떻게 해야 하나요?**  
-    A. 한 번에 많은 버블을 떨어뜨릴수록 점수가 크게 오릅니다. 위쪽 연결부를
+*   **Q. 점수를 더 많이 얻으려면 어떻게 해야 하나요?**
+    *   **A:** 한 번에 많은 버블을 떨어뜨릴수록 점수가 크게 오릅니다. 위쪽 연결부를
     끊어 아래에 매달린 버블 덩어리를 통째로 떨어뜨리는 연쇄 반응을 노리는 것이
     고득점의 핵심입니다.
 
--   **Q. 현재 장전된 버블을 다음 버블과 바꿀 수 있나요?**  
-
-    - **A:** Some versions of Bubble Shooter allow you to swap the current bubble with the next one in the queue, but this feature is not always available. Check the game interface for a swap button.
-
-- **Q: Can I swap the bubble in my shooter?**
-
-    - **A:** You get more points by clearing large clusters of bubbles at once. Causing a chain reaction where many bubbles fall after you pop a small group above them is the best way to rack up a high score.
-    A. 일부 버전에서는 발사기 옆에 있는 스왑 버튼을 눌러 현재 버블과 다음 버블을
+*   **Q. 현재 장전된 버블을 다음 버블과 바꿀 수 있나요?**
+    *   **A:** 일부 버전에서는 발사기 옆에 있는 스왑 버튼을 눌러 현재 버블과 다음 버블을
     서로 교환할 수 있지만, 항상 가능한 것은 아닙니다. 게임 화면에 교환 아이콘이
     있는지 확인해 보세요.

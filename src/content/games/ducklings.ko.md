@@ -38,24 +38,15 @@ Ducklings에서는 엄마 오리가 되어 호수 위를 돌아다니며, 물 �
 
 - 호수 가장자리만 돌기보다, 맵 전체를 넓게 돌며 새끼 오리가 많이 모이는
   구역을 빠르게 찾아보세요.  
-- 장애물이 많은 구역에서는 속도를 줄이고, 큰 원을 그리듯 돌아 위험을 피하는
-
-- Q: Is there a time limit?
+- 장애물이 많은 구역에서는 속도를 줄이고, 큰 원을 그리듯 돌아 위험을 피하는 것이 좋습니다.
+- 무리가 너무 길어지면 뒤쪽이 장애물에 걸리기 쉬우니, 줄을 짧고 촘촘하게 유지하세요.
 
 ### 자주 묻는 질문(FAQ)
 
-- Keep your chain compact to avoid stragglers getting clipped.
-  것이 좋습니다.  
-
-
-
-A: Some hosts add boosts or cosmetics; core loop is rescuing and banking.
-
-- Q: Are there power‑ups?
-
-A: Losing followers to collisions reduces haul; the nest is safe.
-
-- Q: What ends a run?
-
-
-A: Some hosts add boosts or cosmetics; core loop is rescuing and banking.
+- Q: 시간 제한이 있나요?  
+  A: 보통은 없습니다. 급하게 하기보다 안전하게 데려오는 것이 중요합니다.
+- Q: 한 판이 끝나는 조건이 있나요?  
+  A: 충돌로 뒤따라오던 새끼 오리를 잃으면 수확이 줄어듭니다. 둥지는 안전 지대이므로
+  무리를 정리하고 다시 출발하면 됩니다.
+- Q: 파워업이 있나요?  
+  A: 호스트/버전에 따라 부스트나 코스메틱이 추가되기도 하지만, 기본 루프는 구조→귀환입니다.

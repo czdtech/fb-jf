@@ -65,23 +65,17 @@ Castle Craft는 작은 땅 조각에서 시작해 웅장한 중세 왕국을 건
 
 ### 자주 묻는 질문 (FAQ)
 
--   **Q. Castle Craft의 최종 목표는 무엇인가요?**  
-    A. 안개에 덮인 전 영역을 해제하고, 퀘스트를 완수하며 왕국을 최대한 발전시키는
+*   **Q. Castle Craft의 최종 목표는 무엇인가요?**
+    *   **A:** 안개에 덮인 전 영역을 해제하고, 퀘스트를 완수하며 왕국을 최대한 발전시키는
     것이 장기적인 목표입니다. 명확한 엔딩이 있다기보다, 점점 더 큰 왕국을
     꾸며 나가는 과정 자체가 게임의 재미입니다.
 
-    - **Q. 땅을 여는 데 필요한 열쇠는 어떻게 얻나요?**  
-    A. 대부분 특정 퀘스트를 완료하거나 시장·마을 사람들의 주문을 완료했을 때
+*   **Q. 땅을 여는 데 필요한 열쇠는 어떻게 얻나요?**
+    *   **A:** 대부분 특정 퀘스트를 완료하거나 시장·마을 사람들의 주문을 완료했을 때
     보상으로 지급됩니다. 필요한 열쇠가 부족하다면, 우선 퀘스트와 거래 주문을
     집중적으로 처리해 보세요.
 
--   **Q. 왜 모두 머지-5를 추천하나요? 머지-3과 뭐가 다른가요?**  
-
-    - **A:** Merging 3 items gives you one higher-level item. Merging 5 items gives you two higher-level items, effectively giving you one for free. It is always more efficient to wait until you have five items to merge.
-
-- **Q: What's the difference between merging 3 and merging 5?**
-
-    - **A:** Keys are primarily earned by completing specific quests and fulfilling trade orders from the marketplace or villagers. Focus on these tasks to gather the keys you need.
-    A. 머지-3은 상위 아이템을 1개 주지만, 머지-5는 상위 아이템을 2개 주어 결과적으로
+*   **Q. 왜 모두 머지-5를 추천하나요? 머지-3과 뭐가 다른가요?**
+    *   **A:** 머지-3은 상위 아이템을 1개 주지만, 머지-5는 상위 아이템을 2개 주어 결과적으로
     한 개를 덤으로 얻는 셈입니다. 동일한 자원으로 더 많은 결과를 얻을 수 있어,
     장기 플레이에서는 머지-5 중심 운영이 훨씬 효율적입니다.

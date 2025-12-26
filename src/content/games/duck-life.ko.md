@@ -38,24 +38,15 @@ Duck Life는 농장에서 태어난 작은 오리를 키워, 여러 지역의 �
 
 - 초반에는 모든 능력치를 골고루 조금씩 올리며, 첫 지역 레이스를 안정적으로
   클리어할 수 있도록 세팅하세요.  
-- 특정 구간에서 반복해 지는 경우, 그 구간이 요구하는 능력치(예: 수영 구간이
-
-- Q: Can I skip races?
+- 특정 구간에서 반복해 지는 경우, 그 구간이 요구하는 능력치(예: 수영 구간이 많다면 수영)를 집중적으로 훈련하면 됩니다.
+- 에너지는 사실상 지구력입니다. 씨앗/먹이를 아껴 두었다가 레이스 직전에 채워 두면
+  안정적으로 완주하기 좋습니다.
 
 ### 자주 묻는 질문(FAQ)
 
-- Keep energy high; it’s effectively endurance.
-  많다면 수영)를 집중적으로 훈련하면 됩니다.  
-
-
-
-A: Early areas cap stats until later unlocks.
-
-- Q: Are there level caps?
-
-A: Purely visual; training and energy drive results.
-
-- Q: Do cosmetics help?
-
-
-A: Early areas cap stats until later unlocks.
+- Q: 레이스를 건너뛸 수 있나요?  
+  A: 보통은 각 지역의 지정 레이스를 이겨야 다음 지역으로 진행할 수 있습니다.
+- Q: 코스메틱(외형) 아이템이 성능에 영향을 주나요?  
+  A: 대부분 외형용이며, 결과는 훈련과 에너지 관리가 좌우합니다.
+- Q: 능력치에 레벨 캡이 있나요?  
+  A: 초반 지역에서는 일정 구간에서 캡이 걸리기도 하며, 진행하면서 상한이 해제됩니다.

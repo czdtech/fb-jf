@@ -52,22 +52,15 @@ Domino Battle은 타일 게임 도미노를 디지털로 구현한 1대1 전략 
 
 ### 자주 묻는 질문(FAQ)
 
-* **Q: 게임의 최종 목표는 무엇인가요?**  
-  **A:** 각 라운드에서 손패를 가장 빨리 비워 점수를 얻고, 누적 점수가 먼저
+*   **Q: 게임의 최종 목표는 무엇인가요?**
+    *   **A:** 각 라운드에서 손패를 가장 빨리 비워 점수를 얻고, 누적 점수가 먼저
   목표치에 도달하는 쪽이 전체 승자가 됩니다.  
 
-    - **Q: 낼 카드가 없다면 어떻게 되나요?**  
-  **A:** 보니야드가 남아 있다면 계속 뽑아야 하고, 보니야드마저 비어 있다면
+*   **Q: 낼 카드가 없다면 어떻게 되나요?**
+    *   **A:** 보니야드가 남아 있다면 계속 뽑아야 하고, 보니야드마저 비어 있다면
   그 차례는 건너뛰게 됩니다.  
 
-* **Q: 상대를 어떻게 효과적으로 막을 수 있나요?**  
-
-    - **A:** Pay attention to the numbers on the open ends of the chain. If you know your opponent has a lot of a certain number (because you have most of the others), you can try to play tiles that avoid leaving that number open, potentially forcing them to draw from the boneyard.
-
-- **Q: How can I block my opponent?**
-
-    - **A:** You must draw from the boneyard. If the boneyard is empty, you pass your turn.
-  **A:** 열린 끝 숫자를 조절해 상대가 갖고 있을 법한 숫자를 최대한 열어주지
+*   **Q: 상대를 어떻게 효과적으로 막을 수 있나요?**
+    *   **A:** 열린 끝 숫자를 조절해 상대가 갖고 있을 법한 숫자를 최대한 열어주지
   않도록 플레이하세요. 예를 들어 특정 숫자 타일을 대부분 갖고 있다면, 그 숫자를
   끝에 남기지 않도록 관리해 상대를 막을 수 있습니다.  
-

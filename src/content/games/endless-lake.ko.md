@@ -48,21 +48,14 @@ Endless Lake는 미니멀한 그래픽으로 표현된 호수 위 발판을 달�
 
 ### 자주 묻는 질문(FAQ)
 
-- **Q: 게임의 목표는 무엇인가요?**  
-  **A:** 호수에 떨어지지 않고 가능한 한 멀리 달리는 것입니다. 전진 거리만큼
+*   **Q: 게임의 목표는 무엇인가요?**
+    *   **A:** 호수에 떨어지지 않고 가능한 한 멀리 달리는 것입니다. 전진 거리만큼
   점수가 오릅니다.  
 
-    - **Q: 언제 더블 점프를 써야 할지 모르겠습니다.**  
-  **A:** 눈으로 봐도 간격이 넓어 보이는 구간, 단점프로는 모자랄 것 같은 구간에서만
+*   **Q: 언제 더블 점프를 써야 할지 모르겠습니다.**
+    *   **A:** 눈으로 봐도 간격이 넓어 보이는 구간, 단점프로는 모자랄 것 같은 구간에서만
   사용하는 것이 좋습니다. 몇 번 떨어져 보면서 감을 익히는 과정이 필요합니다.  
 
-- **Q: 중간에 보이는 “거울 문”은 무엇인가요?**  
-
-    - **A:** Passing through these portals often creates a clone of your character, adding a fun visual twist to the gameplay where you control multiple runners at once.
-
-- **Q: What are the mirror doors?**
-
-    - **A:** You have to judge the distance of the gap visually. Wider gaps will require a double jump, while shorter gaps can be cleared with a single jump. This is the main skill the game tests.
-  **A:** 이 포탈을 통과하면 캐릭터가 복제되어 여러 명이 동시에 뛰는 연출이
+*   **Q: 중간에 보이는 “거울 문”은 무엇인가요?**
+    *   **A:** 이 포탈을 통과하면 캐릭터가 복제되어 여러 명이 동시에 뛰는 연출이
   나오기도 합니다. 조작은 동일하게 유지되지만, 시각적인 재미를 더해 주는 요소입니다.  
-

@@ -44,26 +44,13 @@ Drift Hunters는 정교한 드리프트 조작과 차량 튜닝에 초점을 맞
   피하세요.  
 - 저속 코너에서는 핸드브레이크를 가볍게 톡톡 쳐 주듯 사용해 차를 미끄러뜨리는
   것이 좋습니다.  
-- 도넛 연습을 통해 스티어링과 엑셀 밸런스를 익혀 두면, 실제 주행에서도
-
-- Q: Is there damage?
+- 도넛 연습을 통해 스티어링과 엑셀 밸런스를 익혀 두면, 실제 주행에서도 차 제어가 훨씬 쉬워집니다.
 
 ### 자주 묻는 질문(FAQ)
-  차 제어가 훨씬 쉬워집니다.  
 
-
-
-A: Yes; save presets for technical vs. high‑speed maps when supported.
-
-- Q: Can I tune per track?
-
-A: Tires first, then power and weight.
-
-- Q: Best starter upgrades?
-
-
-A: Yes; save presets for technical vs. high‑speed maps when supported.
-
-- Q: Can I tune per track?
-
-A: Tires first, then power and weight.
+- Q: 데미지가 있나요?  
+  A: 보통은 시각적 연출 수준이며, 충돌은 콤보를 끊는 방식으로 체감됩니다.
+- Q: 초반에 어떤 업그레이드가 좋나요?  
+  A: 먼저 타이어를 올리고, 이후 출력과 경량화를 챙기면 안정적으로 점수가 올라갑니다.
+- Q: 트랙별로 세팅을 바꿀 수 있나요?  
+  A: 가능한 버전이라면 트랙 성격에 맞춰 프리셋을 저장해 두는 것이 좋습니다.

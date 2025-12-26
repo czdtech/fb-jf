@@ -66,6 +66,8 @@ Bubble Trouble은 빠른 템포의 고전 아케이드 액션 게임입니다. �
 
 ### 조작 방법
 
+조작은 아래를 참고하세요.
+
 -   **플레이어 1**  
     -   **방향키 ←/→:** 캐릭터를 좌우로 이동합니다.  
     -   **스페이스바:** 위로 하푼을 발사합니다.
@@ -78,13 +80,11 @@ Bubble Trouble은 빠른 템포의 고전 아케이드 액션 게임입니다. �
 
 - **Q Key:** Shoot harpoon.
 
-    - **A and D Keys:** Move the character left and right.
 
     - **Player 2:**
 
 - **Spacebar:** Shoot harpoon.
 
-    - **Left/Right Arrow Keys:** Move the character left and right.
 
     - **Player 1:**
 W로 발사하는 식의 조합을 사용하기도 합니다.*

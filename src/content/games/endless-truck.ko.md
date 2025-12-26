@@ -56,26 +56,18 @@ Endless Truck은 속도 조절과 착지 각도 관리에 초점을 둔 횡스�
   접지력이 좋아져 속도 손실이 줄어듭니다.  
 - 미션을 확인해 한 번의 주행에서 여러 미션을 동시에 달성할 수 있는 루트를
   노려 보세요(예: 플립 n번 + 특정 거리 주행 등).  
-- 착지 각도가 좋지 않다고 느껴지면, 엑셀을 잠시 놓고 기울기를 부드럽게 조절해
-
-- Q: I always wipe out on landings — any fix?
+- 착지 각도가 좋지 않다고 느껴지면, 엑셀을 잠시 놓고 기울기를 부드럽게 조절해 전복을 최대한 피하세요.
 
 ### 자주 묻는 질문(FAQ)
-  전복을 최대한 피하세요.  
 
+- Q: 착지할 때 자꾸 전복돼요. 해결 방법이 있나요?
+  
+  A: 플립을 욕심내지 말고 바퀴가 지면에 평행하게 닿도록 착지하세요. 착지 직후에는 서스펜션이 안정될 때까지 엑셀을 살살 밟는 편이 안전합니다.
 
+- Q: 업그레이드는 무엇부터 올리면 좋나요?
+  
+  A: 초반에는 조작 안정성에 직결되는 서스펜션/타이어부터 올리고, 안정적으로 달릴 수 있게 된 뒤 엔진/부스트로 속도를 끌어올리는 것이 좋습니다.
 
-A: On flat ground after clean landings to extend speed without losing control.
-
-- Q: When should I use boost?
-
-A: Suspension/tires for handling; speed after stability.
-
-- Q: Best upgrade first?
-
-
-A: On flat ground after clean landings to extend speed without losing control.
-
-- Q: When should I use boost?
-
-A: Suspension/tires for handling; speed after stability.
+- Q: 부스트는 언제 쓰는 게 좋아요?
+  
+  A: 점프 중이 아니라, 깨끗하게 착지한 뒤 평지에서 사용하면 컨트롤을 잃지 않으면서 속도를 길게 유지할 수 있습니다.

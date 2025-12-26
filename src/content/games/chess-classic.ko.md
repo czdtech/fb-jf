@@ -57,23 +57,17 @@ Chess Classic은 전통적인 국제 체스 규칙을 그대로 따르는 디지
 
 ### 자주 묻는 질문 (FAQ)
 
--   **Q. 체스의 최종 목표는 무엇인가요?**  
-    A. 상대 킹을 체크메이트하는 것입니다. 즉, 킹이 공격(체크)을 받고 있고, 어떤
+*   **Q. 체스의 최종 목표는 무엇인가요?**
+    *   **A:** 상대 킹을 체크메이트하는 것입니다. 즉, 킹이 공격(체크)을 받고 있고, 어떤
     합법적인 수로도 그 공격을 피할 수 없는 상태를 만드는 것이 승리 조건입니다.
 
-    - **Q. 캐슬링이란 무엇인가요?**  
-    A. 캐슬링은 킹을 룩 쪽으로 두 칸 이동시키고, 그 룩을 킹의 반대편 바로 옆
+*   **Q. 캐슬링이란 무엇인가요?**
+    *   **A:** 캐슬링은 킹을 룩 쪽으로 두 칸 이동시키고, 그 룩을 킹의 반대편 바로 옆
     칸으로 옮기는 특수 수입니다. 킹과 해당 룩이 한 번도 움직인 적이 없고, 두
     기물 사이에 다른 기물이 없으며, 킹이 공격을 통과하거나 공격받는 칸으로
     지나가지 않을 때에만 가능합니다.
 
--   **Q. 양쪽 모두 이기기 힘든 상황에서는 어떻게 되나요?**  
-
-    - **A:** The game can end in a draw in several ways, including stalemate (a player has no legal moves, but their king is not in check), agreement between players, or if the same position is repeated three times.
-
-- **Q: What happens if no one can win?**
-
-    - **A:** Castling is a special move where you move your king two squares towards a rook, and then place the rook on the other side of the king. It's a great way to protect your king and activate your rook. You can only castle if neither the king nor the rook has moved, and there are no pieces between them.
-    A. 스테일메이트(킹이 체크는 아니지만 합법 수가 없는 경우), 같은 위치가 세 번
+*   **Q. 양쪽 모두 이기기 힘든 상황에서는 어떻게 되나요?**
+    *   **A:** 스테일메이트(킹이 체크는 아니지만 합법 수가 없는 경우), 같은 위치가 세 번
     반복되는 경우, 양측 합의 무승부 등 여러 방식으로 무승부가 성립할 수
     있습니다.

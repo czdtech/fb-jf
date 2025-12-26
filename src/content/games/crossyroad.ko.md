@@ -3,7 +3,7 @@ locale: ko
 urlstr: crossyroad
 title: "Crossy Road 크로시 로드 온라인 플레이"
 description: >-
-  8비트 스타일의 끝less 점프 아케이드 게임 Crossy Road입니다. 닭을 비롯한
+  8비트 스타일의 끝없는 점프 아케이드 게임 Crossy Road입니다. 닭을 비롯한
   다양한 캐릭터를 조종해 도로와 강, 철길을 안전하게 건너 보세요.
 iframeSrc: 'https://www.playfiddlebops.com/embed/crossyroad/index.html'
 thumbnail: /new-images/thumbnails/crossyroad.jpg
@@ -13,7 +13,7 @@ score: 4.8/5  (1104 votes)
 ---
 
 
-Crossy Road는 Hipster Whale이 개발·퍼블리싱한 끝less 아케이드 점프 게임으로,  
+Crossy Road는 Hipster Whale이 개발·퍼블리싱한 끝없는 아케이드 점프 게임으로,  
 모바일과 여러 플랫폼에서 큰 인기를 끌고 있는 작품입니다. 목표는 단순합니다.
 차량으로 붐비는 도로, 강, 철길을 가능한 한 멀리까지 **죽지 않고** 건너는 것입니다.  
 3D 픽셀처럼 보이는 복셀(voxel) 아트 스타일과 수십 종이 넘는 수집형 캐릭터 덕분에
@@ -69,7 +69,7 @@ Crossy Road는 Hipster Whale이 개발·퍼블리싱한 끝less 아케이드 점
 **Q: 새로운 캐릭터는 어떻게 언락하나요?**  
 **A:** 기본적으로 세 가지 방법이 있습니다.  
 1) 코인 100개를 모아 프라이즈 머신을 돌려 랜덤 캐릭터를 얻기  
-2) 일정 시간마다 제공되는 무료 선물(Free Gift)을 수령하기  
+2) 일정 시간마다 제공되는 무료 선물(Free Gift 표기)을 수령하기  
 3) 특정 캐릭터로 특정 행동을 수행해 숨겨진 시크릿 캐릭터를 해금하기  
 
 **Q: 코인은 어떤 용도로 쓰이나요?**  
@@ -80,4 +80,3 @@ Crossy Road는 Hipster Whale이 개발·퍼블리싱한 끝less 아케이드 점
 **A:** 한 자리에 너무 오래 머물거나, 뒤로만 계속 움직이면 독수리가 등장해
 게임을 강제 종료시킵니다. 게임 설계상 플레이어가 계속 앞으로 전진하도록 만드는
 장치라고 보면 됩니다.  
-

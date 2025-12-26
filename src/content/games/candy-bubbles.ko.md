@@ -57,22 +57,16 @@ Candy Bubbles는 알록달록한 사탕 버블로 가득한 보드를 단계별�
 
 ### 자주 묻는 질문 (FAQ)
 
--   **Q. 각 레벨의 목표는 무엇인가요?**  
-    A. 대부분은 화면의 모든 버블을 제거하는 것이 목표지만, 일부 레벨에서는
+*   **Q. 각 레벨의 목표는 무엇인가요?**
+    *   **A:** 대부분은 화면의 모든 버블을 제거하는 것이 목표지만, 일부 레벨에서는
     버블 안에 갇힌 오브젝트를 구출하는 등 특별 목표가 주어지기도 합니다.
 
-    - **Q. 점수를 많이 얻으려면 어떻게 해야 하나요?**  
-    A. 세 개만 간신히 맞추기보다는, 상단 연결부를 끊어 아래에 매달린 큰
+*   **Q. 점수를 많이 얻으려면 어떻게 해야 하나요?**
+    *   **A:** 세 개만 간신히 맞추기보다는, 상단 연결부를 끊어 아래에 매달린 큰
     덩어리를 떨어뜨리는 "어발란치" 상황을 자주 만드는 것이 중요합니다. 한 번에
     떨어지는 버블 수가 많을수록 콤보 보너스가 크게 올라갑니다.
 
--   **Q. 당장 쓸 데 없는 색 버블이 나왔을 때는 어떻게 하나요?**  
-
-    - **A:** Try to shoot it into a spot where it will be out of the way, or where it might be useful later. If the swap feature is available, check if your next bubble is a better option.
-
-- **Q: I have a bubble color I can't use. What should I do?**
-
-    - **A:** By causing large clusters of bubbles to fall. Popping just three bubbles gives you a base score, but dropping a dozen bubbles in one shot will give you a huge combo bonus.
-    A. 중앙의 좋은 자리를 막지 않는 선에서 구석이나 덜 중요한 위치에 붙여 두고,
+*   **Q. 당장 쓸 데 없는 색 버블이 나왔을 때는 어떻게 하나요?**
+    *   **A:** 중앙의 좋은 자리를 막지 않는 선에서 구석이나 덜 중요한 위치에 붙여 두고,
     나중에 같은 색이 더 나왔을 때 함께 정리하는 것이 좋습니다. 교체 기능이
     있다면 다음 버블을 먼저 쓰는 것도 좋은 방법입니다.

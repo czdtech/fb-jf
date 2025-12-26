@@ -37,17 +37,19 @@ Checkers Legend는 Draughts로도 알려진 고전 전략 보드게임 체커스
 
 3.  **킹(King) 승격**  
     자신의 말이 상대 진영의 마지막 줄까지 도달하면 왕(King)으로 승격되어
-    말 위에 왕관 표시가 생깁니다. 킹이 되면 앞·뒤 대각선 방향으로 모두 이동과
-    점프가 가능해져 훨씬 강력해집니다.
+    말 위에 왕관 표시가 생깁니다.
 
-4.  **센터 장악하기**  
+4.  **킹의 힘(이동/잡기)**  
+    일반 말은 전진 대각선으로만 이동·점프할 수 있지만, 킹은 전진·후진 대각선
+    모두 이동과 잡기가 가능해 훨씬 유리합니다.
+
+5.  **센터 장악하기**  
     보드 중앙을 장악하면 이동 옵션이 늘고, 상대의 선택지는 줄어듭니다.
     너무 한쪽 구석에만 말을 몰지 말고, 중앙부에 말을 배치해 공격·수비 모두에
     유리한 포지션을 잡는 것이 좋습니다.
 
-5.  **마지막 줄 수비 유지**  
+6.  **마지막 줄 수비 유지**  
 
-- **Protect Your Back Row:** Be careful not to leave your back row (the row closest to you) open for your opponent to easily get a King.
     자신의 맨 뒷줄을 너무 일찍 비워 두면, 상대가 쉽게 킹을 만들 수 있습니다.
     초반에는 최소 한두 개의 말을 뒷줄에 남겨 두어, 상대가 곧바로 승격하지 못하게
     막는 것이 안전합니다.
@@ -62,23 +64,17 @@ Checkers Legend는 Draughts로도 알려진 고전 전략 보드게임 체커스
 
 ### 자주 묻는 질문 (FAQ)
 
--   **Q. 점프할 수 있을 때 반드시 해야 하나요?**  
-    A. 대부분의 공식 체커스 룰에서는 잡을 수 있는 말이 있을 경우 반드시 점프해
+*   **Q. 점프할 수 있을 때 반드시 해야 하나요?**
+    *   **A:** 대부분의 공식 체커스 룰에서는 잡을 수 있는 말이 있을 경우 반드시 점프해
     잡아야 합니다. 이 규칙 때문에 일부러 상대에게 강제 점프를 강요하는 함정을
     놓는 전략도 가능합니다.
 
-    - **Q. 킹 말은 무엇이 다른가요?**  
-    A. 일반 말은 전진 대각선으로만 이동·점프할 수 있지만, 킹이 되면 후진 대각까지
+*   **Q. 킹 말은 무엇이 다른가요?**
+    *   **A:** 일반 말은 전진 대각선으로만 이동·점프할 수 있지만, 킹이 되면 후진 대각까지
     포함해 양방향으로 움직이고 잡을 수 있습니다. 따라서 킹을 얼마나 많이 확보하느냐가
     중후반 승부에 큰 영향을 줍니다.
 
--   **Q. 어떻게 하면 게임에서 이기나요?**  
-
-    - **A:** You win when your opponent has no pieces left, or when all of their remaining pieces are blocked and cannot make a legal move.
-
-- **Q: How do I win the game?**
-
-    - **A:** A regular piece can only move forward. A King can move and capture in both forward and backward diagonal directions, making it a much more powerful and flexible piece.
-    A. 상대 말이 하나도 남지 않거나, 남은 말이 더 이상 어떤 합법적인 이동도 할 수
+*   **Q. 어떻게 하면 게임에서 이기나요?**
+    *   **A:** 상대 말이 하나도 남지 않거나, 남은 말이 더 이상 어떤 합법적인 이동도 할 수
     없는 상태가 되면 승리합니다. 말 수 우위를 바탕으로 상대의 이동 선택지를
     점점 줄여 나가는 것이 정석적인 승리 패턴입니다.

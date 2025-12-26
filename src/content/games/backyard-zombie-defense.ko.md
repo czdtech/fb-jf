@@ -15,8 +15,6 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-
-
 ### 게임 상세 소개
 
 *Backyard Zombie Defense*는 가볍게 즐길 수 있는 타워 디펜스 게임으로, 각종 포탑을

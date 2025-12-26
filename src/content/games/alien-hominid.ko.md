@@ -16,8 +16,6 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
-
-
 ### 게임 상세 소개
 
 *Alien Hominid*는 The Behemoth가 개발한 속도감 있는 2D 횡스크롤 런앤건 슈팅 게임입니다.

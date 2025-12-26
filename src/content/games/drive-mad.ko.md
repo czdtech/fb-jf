@@ -41,25 +41,20 @@ Drive Mad는 점프대, 다리, 움직이는 발판 등 각종 장애물이 가�
 - 차가 뒤집힐 것 같다면 즉시 반대 방향으로 가속·감속을 눌러 차체를 바로
   세우려 해 보세요.  
 - 스테이지별로 “이 속도면 딱 좋다”는 구간이 있으니, 여러 번의 시도를 통해
-
-- Q: Are cars different?
-
-### 자주 묻는 질문(FAQ)
   적정 속도를 찾는 것이 중요합니다.  
 
+### 자주 묻는 질문(FAQ)
 
+- **Q: 차(차량)마다 성능이 다른가요?**  
+  **A:** 버전이나 스테이지에 따라 차량의 무게감이나 길이가 달라 조작 감각이 조금씩
+  달라질 수 있습니다. 다만 핵심은 언제나 속도와 차체 기울기를 제어해 뒤집히지 않게
+  만드는 것입니다.
 
-A: Excess speed compresses suspension and bounces you off.
+- **Q: 다리/좁은 구간에서는 왜 브레이크를 밟아야 하나요?**  
+  **A:** 속도가 너무 빠르면 서스펜션이 눌리며 반동이 커져 쉽게 튕겨 나가거나
+  뒤집힙니다. 구간 진입 전에 속도를 줄이고, 안정적으로 바퀴를 올린 뒤 다시
+  가속하는 것이 좋습니다.
 
-- Q: Why break on bridges?
-
-A: Certain hosts allow level select; otherwise master timing and tilt control.
-
-- Q: Can I skip hard levels?
-
-
-A: Excess speed compresses suspension and bounces you off.
-
-- Q: Why break on bridges?
-
-A: Certain hosts allow level select; otherwise master timing and tilt control.
+- **Q: 어려운 레벨을 건너뛸 수 있나요?**  
+  **A:** 일부 호스트는 레벨 선택을 제공하지만, 그렇지 않다면 점프 타이밍과 착지
+  직전의 미세한 가감속 조절을 익히는 것이 가장 확실한 방법입니다.

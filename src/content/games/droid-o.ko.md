@@ -2,82 +2,63 @@
 locale: ko
 urlstr: droid-o
 title: Droid-O 드로이드-O
-description: 원형 스테이지를 회전시키며 장애물을 피하는 아케이드 게임입니다. 드로이드를 안전한 길로 이끌어 가능한 한 오래 버텨 보세요.
-iframeSrc: 'https://g2.igroutka.ru/games/19/nkaOxcL9kDb2Q9BfG/droid-o/'
+description: >-
+  Droid-O는 템포 빠른 탑다운 아레나 슈팅 게임입니다. 카이팅과 스킬 시너지, 정교한 움직임으로 점점 거세지는 적 웨이브에서
+  살아남아 보세요.
+iframeSrc: 'https://6r2lv8eg0tif8.h5games.usercontent.goog/v/56d4ef8srjpfg/'
 thumbnail: /new-images/thumbnails/droid-o.png
 tags:
-  - arcade
-  - skill
-score: 4.3/5  (916 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+  - action
+  - shooting
+score: 4.0/5  (1789 votes)
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+### 게임 소개
 
-### 개요
+Droid-O는 반응성이 좋은 탑다운 아레나 슈팅 게임입니다. 플레이어는 민첩한 로봇을 조종해 점점 조여 오는 생존 웨이브를 버텨야 합니다. 이동하면서 사격하는 카이팅, 탄약/과열 관리, 그리고 대시·실드·설치형 스킬을 상황에 맞게 쓰는 것이 핵심입니다.
 
-Droid-O는 원형 트랙 위를 움직이는 작은 드로이드를 조종해, 다가오는 장애물을
-피하며 오래 살아남는 것을 목표로 하는 아케이드 스킬 게임입니다. 스테이지는
-자동으로 회전하거나, 플레이어가 직접 회전시키며 빈 공간을 찾아 드로이드를
-통과시켜야 합니다.
+아레나에는 좁은 통로, 시야를 끊어 주는 기둥, 이동을 방해하거나 피해를 주는 타일 등 환경 요소가 등장하기도 합니다. 단순한 조준 실력뿐 아니라 지형을 활용해 안전한 동선을 만드는 판단이 중요합니다.
 
-### 플레이 방법
+### 공략 & 플레이 팁
 
-- 화면을 탭/클릭하거나 좌우로 드래그해 링을 회전시키고, 드로이드가 장애물에
-  부딪히지 않도록 빈 틈으로 이동시킵니다.  
-- 시간이 지날수록 장애물의 속도와 패턴이 복잡해져, 빠른 판단과 손놀림이
-  필요해집니다.  
-- 일부 버전에서는 점수에 따라 배경이나 드로이드 스킨이 해금되기도 합니다.  
+1. **작게 돌기보다 크게 도는 편이 좋습니다.** 좁은 원을 그리면 코너에 몰리기 쉬우므로, 아레나 중앙을 가로지르는 큰 궤적으로 움직이면 수정할 여유가 생깁니다.
+2. **우선순위를 정해 처리하는 것이 좋습니다.** 빠르게 돌진하는 적과 원거리 위협을 먼저 정리하고, 느린 근접형은 후순위로 남겨 두면 안전합니다.
+3. **대시/실드는 ‘탈출용’으로 아껴 두는 편이 좋습니다.** 둘 다 동시에 써 버리면 다음 위기에 대응하기 어렵습니다.
+4. **연사보다 짧은 점사가 유리합니다.** 과열이나 탄약 부족을 피하고, 냉각 또는 재장전 타이밍에는 엄폐물을 이용해 위치를 재정비하는 것이 좋습니다.
+5. **병목 지형을 활용하는 것이 좋습니다.** 적 무리를 좁은 길로 유도해 관통 피해를 극대화하고, 기둥으로 시야를 끊어 적의 배치를 흔들 수 있습니다.
+6. **체력은 ‘한 번’이 큰 손해가 됩니다.** 후반 웨이브에서는 한 번의 피격이 연쇄 실수로 이어지기 쉬우니 안전한 타이밍에만 공격하는 것이 좋습니다.
 
+### 빌드 & 시너지(모드 지원 시)
 
-- Health economy: Take guaranteed safe shots; a single hit during late waves snowballs mistakes.
+- **관통 + 넉백:** 좁은 구간에서 여러 적을 동시에 맞히기 좋고, 넉백으로 근접 적을 떼어 놓을 수 있습니다.
+- **감속 + 치명타:** 감속으로 노출 시간을 늘린 뒤 치명타 버스트로 압박을 줄일 수 있습니다.
+- **드론/설치형 장비:** 동선의 꺾이는 지점에 미리 설치하면 추격하는 적에게 지속 피해를 누적시킬 수 있습니다.
 
-- Funnel fights: Pull packs through narrow lanes so bullets pierce multiple targets; reset aggro lines with pillars.
-
-- Ammunition/heat: Fire in short, accurate bursts; re‑engage while weapons cool or reload behind cover.
 ### 조작 방법
 
-- 마우스/터치: 링을 드래그해 회전시키거나, 좌우 탭으로 회전 방향을 조절합니다.  
+- 이동: WASD 또는 방향키
+- 조준: 마우스(또는 지원 시 스틱)
+- 사격: 마우스 왼쪽 클릭(또는 트리거)
+- 대시/스킬: Space/E/Q(버전에 따라 다름)
+- 일시정지/재시작: 화면 버튼
 
+### 고급 팁
 
-- Drone deployables: Drop drones before kite turns so they rake pursuing lines.
-
-- Slow + crit: Apply slows to create long exposure times for crit bursts.
-### 팁 & 전략
-
-- 장애물 바로 앞에서 급하게 돌리기보다, 미리 장애물 패턴을 보고 어느 쪽으로
-  피할지 계획하는 것이 좋습니다.  
-- 시계 방향·반시계 방향 회전을 적절히 섞어, 드로이드 위치가 화면 중앙에
-
-- Q: I keep getting cornered — how do I prevent this?
+- **동선을 미리 그려 두는 것이 좋습니다.** 보급이 있는 버전이라면 ‘8자’처럼 보급을 주기적으로 밟는 루트를 잡아 두면 안정적입니다.
+- **시야를 끊어 시간을 버는 것이 좋습니다.** 기둥 뒤로 잠깐 숨으면 원거리 적이 재배치하느라 재장전 시간을 확보할 수 있습니다.
+- **웨이브 속도를 조절하는 것도 방법입니다.** 잠시 처치 속도를 늦춰 적을 모았다가 관통 또는 광역 공격으로 한 번에 정리하면 효율이 좋습니다.
 
 ### 자주 묻는 질문(FAQ)
 
-- Wave pacing: Throttle kill speed briefly to lump spawns together, then clear them with pierce lines.
+- **Q: 자꾸 코너에 몰려요. 어떻게 해야 하나요?**  
+  **A:** 벽을 따라 작은 원을 도는 습관을 줄이고, 아레나 중앙을 가로지르는 큰 궤적으로 움직이는 것이 좋습니다. 동선이 좁아지기 시작하면 적이 얇은 구간을 골라 미리 대시로 빠져나가고, 기둥을 이용해 시야를 끊어 적의 배치를 흐트러뜨리면 도움이 됩니다.
 
-- LOS breaks: Step behind a pillar to force ranged foes to reposition, buying reload time.
+- **Q: 어떤 적을 먼저 처치해야 하나요?**  
+  **A:** 빠른 돌진형과 원거리 공격 적을 우선 처리하는 것이 좋습니다. 느린 근접형은 카이팅으로 안전하게 끌고 다니며 정리할 수 있습니다.
 
-- Pathing: Pre‑plan a figure‑eight route that revisits ammo/health pickups on cooldown.
+- **Q: 무기가 자꾸 과열돼요. 해결 방법이 있나요?**  
+  **A:** 길게 누르기보다 짧게 점사하고, 냉각/재장전 구간에는 엄폐 뒤로 이동해 시간을 벌어 보세요. 가능하다면 효율을 높이거나 과열을 줄이는 업그레이드를 우선 선택하는 것이 좋습니다.
 
-### Advanced Tips
-  가깝게 유지되도록 해 보세요.  
-
-
-
-A: Yes — pre‑place them along your kite path so they fire as enemies chase, multiplying damage without extra risk.
-
-- Q: Are deployables worth it?
-
-A: Fire in short bursts, reposition during cooldown, and stack efficiency upgrades if the mode supports them.
-
-- Q: My weapon overheats constantly — any fix?
-
-A: Fast chargers and ranged units. Slow melee can be kited safely while you thin priority targets.
-
-- Q: Which enemies should I kill first?
-
-
-A: Yes — pre‑place them along your kite path so they fire as enemies chase, multiplying damage without extra risk.
-
-- Q: Are deployables worth it?
-
-A: Fire in short bursts, reposition during cooldown, and stack efficiency upgrades if the mode supports them.
+- **Q: 드론 같은 설치형 장비는 쓸 만한가요?**  
+  **A:** 충분히 가치가 있습니다. 동선의 꺾이는 지점에 미리 설치해 두면 추격하는 적이 접근하는 동안 자동으로 피해를 누적시켜, 추가 위험 없이 화력을 올릴 수 있습니다.

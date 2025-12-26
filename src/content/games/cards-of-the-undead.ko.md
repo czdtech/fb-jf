@@ -59,23 +59,17 @@ Cards of the Undead는 뒤집힌 카드로 표현된 세계를 탐험하는 좀�
 
 ### 자주 묻는 질문 (FAQ)
 
--   **Q. 전투는 어떻게 진행되나요?**  
-    A. 별도의 조작 없이 자동으로 이루어집니다. 좀비 카드 위로 이동하면 곧바로
+*   **Q. 전투는 어떻게 진행되나요?**
+    *   **A:** 별도의 조작 없이 자동으로 이루어집니다. 좀비 카드 위로 이동하면 곧바로
     전투가 발생하고, 영웅의 체력·방어력과 좀비의 공격력에 따라 피해를 주고받은
     뒤, 살아남으면 좀비 카드는 사라집니다.
 
-    - **Q. 각 스테이지의 목표는 무엇인가요?**  
-    A. 기본적으로는 보드 위의 모든 좀비 카드를 처치하는 것이 1차 목표입니다.
+*   **Q. 각 스테이지의 목표는 무엇인가요?**
+    *   **A:** 기본적으로는 보드 위의 모든 좀비 카드를 처치하는 것이 1차 목표입니다.
     코인을 모두 모으는 것은 다음 영웅 해금 등을 위한 2차 목표로, 다음 플레이에서
     더 유리한 시작을 가능하게 해 줍니다.
 
--   **Q. 체력이 0이 되면 어떻게 되나요?**  
-
-    - **A:** If your hero's HP drops to zero, your run is over, and you must start again.
-
-- **Q: What happens if I run out of health?**
-
-    - **A:** The main goal is to defeat all the zombie cards on the board. Collecting all the coins is a secondary objective that helps you unlock new heroes for future runs.
-    A. 영웅의 체력이 0이 되는 순간 이번 런은 종료되며, 처음부터 다시 도전해야
+*   **Q. 체력이 0이 되면 어떻게 되나요?**
+    *   **A:** 영웅의 체력이 0이 되는 순간 이번 런은 종료되며, 처음부터 다시 도전해야
     합니다. 로그라이트 특성상, 한 번의 런으로 모든 것을 끝낸다는 생각보다 여러
     번의 시도로 점점 더 멀리 나아가는 구조에 가깝습니다.

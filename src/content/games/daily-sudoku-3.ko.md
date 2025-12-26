@@ -53,21 +53,14 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### 자주 묻는 질문(FAQ)
 
-* **Q: 스도쿠를 풀려면 수학을 잘해야 하나요?**  
-  **A:** 숫자를 사용하지만 계산은 필요 없습니다. 스도쿠는 전적으로 논리와
+*   **Q: 스도쿠를 풀려면 수학을 잘해야 하나요?**
+    *   **A:** 숫자를 사용하지만 계산은 필요 없습니다. 스도쿠는 전적으로 논리와
   패턴 인식에 기반한 퍼즐입니다.  
 
-    - **Q: 틀린 숫자를 넣으면 바로 알 수 있나요?**  
-  **A:** 이 버전을 포함한 많은 디지털 스도쿠는 잘못된 입력이 있을 경우 붉게
+*   **Q: 틀린 숫자를 넣으면 바로 알 수 있나요?**
+    *   **A:** 이 버전을 포함한 많은 디지털 스도쿠는 잘못된 입력이 있을 경우 붉게
   표시하거나 충돌하는 칸을 보여 줘, 빠르게 수정할 수 있도록 도와줍니다.  
 
-* **Q: 노트를 꼭 써야 하나요?**  
-
-    - **A:** For easy puzzles, you might not need it. But for medium to hard puzzles, it's almost impossible to keep all the possibilities in your head. Making notes is a fundamental technique for systematically solving complex Sudoku puzzles.
-
-- **Q: Why should I use the "Notes" feature?**
-
-    - **A:** Most digital versions, including this one, will immediately highlight the mistake by showing you the conflicting numbers in red, allowing you to correct it right away.
-  **A:** 쉬운 난이도라면 필요 없을 수 있지만, 중·고급 퍼즐에서는 노트 없이는
+*   **Q: 노트를 꼭 써야 하나요?**
+    *   **A:** 쉬운 난이도라면 필요 없을 수 있지만, 중·고급 퍼즐에서는 노트 없이는
   모든 경우의 수를 기억하기 어렵습니다. 노트는 체계적인 풀이를 위한 필수 도구입니다.  
-

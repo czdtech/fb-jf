@@ -50,21 +50,14 @@ Daily Solitaire는 클래식 클론다이크 솔리테어를 “하루 한 판�
 
 ### 자주 묻는 질문(FAQ)
 
-* **Q: 매일 나오는 문제는 항상 풀 수 있나요?**  
-  **A:** 대부분의 Daily Solitaire는 최소 한 가지 이상 승리 경로가 존재하도록
+*   **Q: 매일 나오는 문제는 항상 풀 수 있나요?**
+    *   **A:** 대부분의 Daily Solitaire는 최소 한 가지 이상 승리 경로가 존재하도록
   구성됩니다. 다만 정답을 찾기가 쉽지 않을 수 있습니다.  
 
-    - **Q: Draw 1 모드와 Draw 3 모드의 차이는 무엇인가요?**  
-  **A:** Draw 1은 스톡에서 한 장씩 넘겨 쉬운 편이고, Draw 3는 세 장씩 넘기되
+*   **Q: Draw 1 모드와 Draw 3 모드의 차이는 무엇인가요?**
+    *   **A:** Draw 1은 스톡에서 한 장씩 넘겨 쉬운 편이고, Draw 3는 세 장씩 넘기되
   가장 위 카드만 사용할 수 있어 난도가 훨씬 높습니다.  
 
-* **Q: 이전 날짜의 퍼즐도 다시 풀 수 있나요?**  
-
-    - **A:** Many daily puzzle games feature a calendar, allowing you to go back and play puzzles from previous dates that you may have missed.
-
-- **Q: Can I play previous days' puzzles?**
-
-    - **A:** In "Draw 1" mode, you turn over one card at a time from the stock, which is generally easier. In "Draw 3" mode, you turn over three cards at a time, but you can only play the top card of the three, making the game significantly more challenging.
-  **A:** 많은 데일리 퍼즐 게임이 캘린더 기능을 제공해, 놓쳤던 날짜의 퍼즐도
+*   **Q: 이전 날짜의 퍼즐도 다시 풀 수 있나요?**
+    *   **A:** 많은 데일리 퍼즐 게임이 캘린더 기능을 제공해, 놓쳤던 날짜의 퍼즐도
   다시 선택해 플레이할 수 있습니다.  
-

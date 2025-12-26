@@ -28,6 +28,8 @@ Cluster Rush는 앞만 보고 달리는 트럭 무리 위를 점프해 이동하
 
 ### 플레이 전략 & 팁
 
+아래 팁을 참고해 보세요.
+
 1.  **발밑보다 앞을 보기**  
     가장 중요한 규칙입니다. 자신의 발밑을 보느라 시야를 낮추기보다, 항상 두세
     대 앞의 트럭을 보며 다음 점프를 미리 계획하세요. 흐름을 유지해야 갑작스러운
@@ -59,7 +61,6 @@ Cluster Rush는 앞만 보고 달리는 트럭 무리 위를 점프해 이동하
 
 7.  **실패를 학습 기회로 받아들이기**  
 
-- **Embrace Failure**: You will fail hundreds, if not thousands, of times. Each failure is a learning opportunity. Don't get frustrated; instead, analyze why you failed (e.g., jumped too early, not enough speed) and adjust on your next attempt.
     이 게임에서는 수십, 수백 번의 실패가 자연스러운 과정입니다. 매번 떨어질 때마다
     "언제 점프가 너무 빨랐는지, 속도가 부족했는지"를 떠올리며 다음 시도에서 조금씩
     수정해 보세요.

@@ -17,7 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### 상세 게임 소개
 
-Addiction Mini는 Addiction/Monte Carlo 계열 인내(card patience) 게임을 간단하게
+Addiction Mini는 Addiction/Monte Carlo 계열 인내(card patience 표기) 게임을 간단하게
 축소한 버전입니다. 규칙에 따라 카드를 슬라이드하거나 옮겨, 같은 무늬나 색
 기준으로 오름차순 수열을 만들면서 줄을 정리하는 것이 목표입니다. 빈 칸을
 어떻게 만들고 활용하느냐가 판을 푸는 핵심입니다.

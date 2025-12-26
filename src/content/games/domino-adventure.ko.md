@@ -16,9 +16,6 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-
-
-
 ### 게임 소개
 
 *Domino Adventure*는 클래식 도미노 보드게임을 깔끔한 그래픽과 함께 즐길 수 있는 디지털
@@ -73,18 +70,15 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 **2. 점수는 어떻게 계산되나요?**  
 
-- In **Draw Mode**, if you don't have a playable tile, you must keep drawing new tiles from the reserve pile (the "boneyard") until you get a tile that can be played.
 
-- In **Block Mode**, if you don't have a playable tile, you do nothing and simply skip your turn.
 > 라운드 종료 후, 승자는 상대 손패에 남아 있는 도미노의 피프 합계를 모두 더한
 > 값만큼 점수를 얻습니다. 예를 들어 상대가 [6-5]와 [2-1]을 들고 끝났다면,
 > (6+5+2+1) = 14점을 얻게 됩니다.
 
 **3. Block 모드와 Draw 모드의 차이는 무엇인가요?**  
-> **Block 모드**에서는 낼 수 있는 타일이 없으면 아무 행동도 하지 못한 채 턴을
-> 넘기게 됩니다.  
-> **Draw 모드**에서는 낼 수 있는 타일이 나올 때까지 뼈무더기에서 타일을 계속
-> 뽑아야 합니다.
+
+*   **Block 모드:** 낼 수 있는 타일이 없으면 아무 행동도 하지 못한 채 턴을 넘깁니다.
+*   **Draw 모드:** 낼 수 있는 타일이 나올 때까지 뼈무더기에서 타일을 계속 뽑아야 합니다.
 
 **4. "Trophy Road"는 무엇인가요?**  
 > Trophy Road는 플레이를 통해 트로피를 모으고, 그에 따라 새로운 타일 세트나 기타

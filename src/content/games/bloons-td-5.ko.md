@@ -16,9 +16,6 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
-
-
-
 ### 게임 소개
 
 *Bloons TD 5*는 타워 디펜스 장르에서 중요한 이정표로 평가받는 작품입니다. 깊이 있는
@@ -41,7 +38,7 @@ BTD5에서는 다음과 같은 요소들이 새로 추가되어 세계관과 전
   구매할 수 있는 연구소입니다. 타워 성능을 조금씩 상향해 장기적으로 더 멀리
   진행할 수 있습니다.
 - **방대한 콘텐츠:** 수십 개의 맵과 특수 규칙이 걸린 Special Missions, Daily Challenges,
-  그리고 완성도 높은 협동(Co-op) 모드를 제공합니다.
+  그리고 완성도 높은 협동(코옵) 모드를 제공합니다.
 - **액티브 스킬:** 많은 4티어 업그레이드는 직접 발동하는 강력한 능력을 제공합니다.
   예를 들면 MOAB Assassin(폭탄 타워 x/4)의 미사일이나 Heli Pilot의 Downdraft 같은
   스킬로 위기 상황을 뒤집을 수 있습니다.
@@ -50,32 +47,33 @@ BTD5에서는 다음과 같은 요소들이 새로 추가되어 세계관과 전
 
 - **경제가 전부입니다:** BTD5에서 가장 중요한 전략은 강력한 경제 기반을 만드는
   것입니다. 가능한 한 빨리 **Banana Farm**을 짓는 것이 좋습니다. 가장 효율적인
-  업그레이드 경로는 4/2(`Banana Research Facility` + `More Bananas`)이며, 라운드마다
+  업그레이드 경로는 4/2(`Banana Research Facility` + `More Bananas` 표기)이며, 라운드마다
   큰 금액의 상자를 떨어뜨립니다.
 - **초반 방어:** 초반 라운드에서는 2/3 **Dartling Gun**이나 3/x **Ninja Monkey**가
   효율적으로 Bloon을 처리해 주므로, 그 사이에 Banana Farm을 집중적으로 늘리는 것이
   좋습니다.
 - **중반 필수 커버:** 방어 라인은 모든 특수 Bloon 유형을 처리할 수 있어야 합니다.
-    - **Camo Bloon:** 2/2(`Radar Scanner`)까지 업그레이드한 **Monkey Village**가
+    - **Camo Bloon:** 2/2(`Radar Scanner` 표기)까지 업그레이드한 **Monkey Village**가
       영역 내 모든 타워에 감지 능력을 부여하는 가장 안정적인 방법입니다.
       4/2 **Ninja Monkey**(`Bloonjitsu`) 역시 최고 수준의 카모 처리 타워입니다.
-    - **Lead Bloon:** 2/3 **Bomb Tower**(`Cluster Bombs`)나
-      `Monkey Intelligence Bureau`(x/3)까지 올린 Monkey Village를 활용하면,
-      주변 타워들이 모든 유형의 Bloon을 공격할 수 있습니다.
+    - **Lead Bloon:** 납(Lead) Bloon은 폭발 계열 타워로 처리하는 것이 안정적입니다.
+      2/3 **Bomb Tower**(`Cluster Bombs` 표기)가 대표적인 선택이며,
+      `Monkey Intelligence Bureau`(Monkey Village x/3 표기) 업그레이드를 활용하면 주변 타워가
+      모든 유형의 Bloon을 공격할 수 있어 특수 Bloon 대응이 훨씬 편해집니다.
     - **Regrow Bloon:** 재생 속도가 매우 빠르기 때문에 높은 DPS(초당 피해량)가
-      필수입니다. 2/3 **Tack Shooter**(`Blade Maelstrom`)나 4/x **Cannon Ship**
-      (Monkey Buccaneer)이 강력한 선택입니다.
+      필수입니다. 2/3 **Tack Shooter**(`Blade Maelstrom` 표기)나 4/x **Cannon Ship**
+      (Monkey Buccaneer 표기)이 강력한 선택입니다.
 - **Temple of the Monkey God 건설:** 최종 후반 게임 타워는 4/x Super Monkey인
   **Temple of the Monkey God** 입니다. 최대 성능을 끌어내려면 다른 타워들을
   "제물"로 바쳐야 합니다. 마지막 Temple 업그레이드를 누르기 전에 사거리 안에
-  여러 카테고리(Primary, Military, Magic)의 타워를 배치해 두세요. 카테고리별
+  여러 카테고리(Primary, Military, Magic 표기)의 타워를 배치해 두세요. 카테고리별
   일정 금액까지 희생할수록 Temple 능력치가 크게 올라갑니다.
 - **후반 핵심 타워들:**
-    - **Technological Terror (Super Monkey x/4):** "Bloon Annihilation" 스킬로
+    - **Technological Terror (Super Monkey x/4 표기):** "Bloon Annihilation" 스킬로
       화면 대부분의 Bloon을 순식간에 지울 수 있습니다.
     - **Supa-Vac (Bloonchipper 2/4):** 최강의 군중 제어 타워입니다. ZOMG급 Bloon까지
       빨아들여 제자리에서 묶어 두기 때문에 다른 타워들이 공격할 시간을 벌어 줍니다.
-    - **Sabotage Supply Lines (Ninja Monkey x/4):** 모든 화면 내 Bloon 속도를 절반으로
+    - **Sabotage Supply Lines (Ninja Monkey x/4 표기):** 모든 화면 내 Bloon 속도를 절반으로
       줄이는 스킬로, 후반 라운드 생존에 거의 필수 수준의 능력입니다.
 
 ### 조작 방법
@@ -108,12 +106,11 @@ BTD5에서는 다음과 같은 요소들이 새로 추가되어 세계관과 전
 > 타워를 배치해 두어야 합니다. 업그레이드를 진행하면 이 타워들이 제거되고
 > 그 가치가 Temple의 능력치로 흡수됩니다. 최대 성능을 위해서는 네 가지 카테고리
 > 중 세 가지에서 각각 최소 3만 달러 이상의 타워를 제물로 바치는 것이 좋습니다
-> (Primary, Bomb/Tack, Glue/Ice, Magic).
 
 **4. ZOMG가 무엇이고, 어떻게 상대해야 하나요?**  
 > ZOMG는 가장 단단한 블림입니다. 속도는 매우 느리지만 체력이 엄청납니다.  
 > 이를 상대하려면 극도로 높은 단일 타깃 화력이 필요합니다. Temple, 다수의
-> MOAB Assassin(Bomb Tower x/4) 스킬, 그리고 Ninja의 Sabotage Supply Lines 스킬
+> MOAB Assassin(Bomb Tower x/4 표기) 스킬, 그리고 Ninja의 Sabotage Supply Lines 스킬
 > 조합이 ZOMG를 처리하는 핵심 수단입니다.
 
 **5. Special Agents는 쓸 가치가 있나요?**  

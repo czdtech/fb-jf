@@ -53,21 +53,14 @@ Element Blocks는 10x10 보드 위에 테트리스처럼 생긴 블록을 올려
 
 ### 자주 묻는 질문(FAQ)
 
-- **Q: 별은 어떻게 모이나요?**  
-  **A:** 별 모양이 있는 블록이 포함된 줄을 지울 때마다 별을 얻을 수 있습니다.  
+*   **Q: 별은 어떻게 모이나요?**
+    *   **A:** 별 모양이 있는 블록이 포함된 줄을 지울 때마다 별을 얻을 수 있습니다.
 
-    - **Q: 블록을 회전할 수 없나요?**  
-  **A:** 네. 회전이 되지 않는 것이 이 퍼즐의 난이도와 전략의 핵심입니다.
+*   **Q: 블록을 회전할 수 없나요?**
+    *   **A:** 네. 회전이 되지 않는 것이 이 퍼즐의 난이도와 전략의 핵심입니다.
   제시된 모양 그대로 활용해야 합니다.  
 
-- **Q: 별은 언제 쓰는 것이 좋을까요?**  
-
-    - **A:** It's best to save your stars for emergency situations. When your board is getting dangerously full and you can't fit one of the upcoming pieces, using a power-up to clear a specific area can save your game and allow you to continue playing for a much higher score.
-
-- **Q: What is the best way to use my stars?**
-
-    - **A:** No, the inability to rotate the blocks is a core part of the challenge. You must plan your placements based on the shapes as they are given.
-  **A:** 보드는 넓을수록 좋기 때문에, 더 이상 세 블록을 모두 놓을 공간이
+*   **Q: 별은 언제 쓰는 것이 좋을까요?**
+    *   **A:** 보드는 넓을수록 좋기 때문에, 더 이상 세 블록을 모두 놓을 공간이
   보이지 않을 때, 파워업으로 특정 구역을 지워 공간을 확보하는 용도로
   사용하는 것이 가장 효율적입니다.  
-

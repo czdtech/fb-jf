@@ -63,21 +63,15 @@ Butterfly Shimai는 마작식 패 맞추기와 "연결하기" 규칙이 결합�
 
 ### 자주 묻는 질문 (FAQ)
 
--   **Q. Butterfly Shimai의 최종 목표는 무엇인가요?**  
-    A. 제한 시간 내에 같은 날개를 모두 짝지어 연결해, 보드 위의 나비 날개 타일을
+*   **Q. Butterfly Shimai의 최종 목표는 무엇인가요?**
+    *   **A:** 제한 시간 내에 같은 날개를 모두 짝지어 연결해, 보드 위의 나비 날개 타일을
     전부 제거하는 것입니다.
 
-    - **Q. 날개를 연결할 수 있는 구체적인 규칙이 궁금해요.**  
-    A. 두 타일 사이에 직선 또는 최대 두 번까지 꺾이는 경로를 그릴 수 있어야
+*   **Q. 날개를 연결할 수 있는 구체적인 규칙이 궁금해요.**
+    *   **A:** 두 타일 사이에 직선 또는 최대 두 번까지 꺾이는 경로를 그릴 수 있어야
     하며, 그 경로가 다른 타일을 관통해서는 안 됩니다. 이 조건을 만족할 때만
     연결이 허용됩니다.
 
--   **Q. 시간이 다 되면 어떻게 되나요?**  
-
-    - **A:** If the timer reaches zero before you clear the board, the game will end, and you will have to restart the level.
-
-- **Q: What happens if I run out of time?**
-
-    - **A:** Two identical wings can be connected if a line can be drawn between them that has no more than two 90-degree turns and does not pass through any other wings.
-    A. 타이머가 0이 되기 전에 모든 타일을 제거하지 못하면 스테이지 실패로
+*   **Q. 시간이 다 되면 어떻게 되나요?**
+    *   **A:** 타이머가 0이 되기 전에 모든 타일을 제거하지 못하면 스테이지 실패로
     처리되며, 해당 레벨을 다시 시작해야 합니다.

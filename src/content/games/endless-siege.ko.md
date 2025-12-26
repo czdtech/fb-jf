@@ -56,22 +56,15 @@ Endless Siege는 오크, 고블린 등 여러 몬스터의 물결을 막아내�
 
 ### 자주 묻는 질문(FAQ)
 
-- **Q: 가장 좋은 포탑은 무엇인가요?**  
-  **A:** 단일 “최강 포탑”은 없으며, 네 종류를 적절히 섞어 쓰는 것이 중요합니다.
+*   **Q: 가장 좋은 포탑은 무엇인가요?**
+    *   **A:** 단일 “최강 포탑”은 없으며, 네 종류를 적절히 섞어 쓰는 것이 중요합니다.
   캐논/토치는 무리 처리, 발리스타는 튼튼한 적, 타임워프는 전체 화력을
   받쳐 주는 역할을 합니다.  
 
-    - **Q: 왜 특정 위치에는 포탑을 못 짓나요?**  
-  **A:** 적이 지나가는 길가에 마련된 원형 지점에만 포탑을 지을 수 있습니다.
+*   **Q: 왜 특정 위치에는 포탑을 못 짓나요?**
+    *   **A:** 적이 지나가는 길가에 마련된 원형 지점에만 포탑을 지을 수 있습니다.
   배치 가능한 위치가 제한되어 있으므로, 그만큼 전략적 선택이 중요합니다.  
 
-- **Q: 어제랑 맵이 다른데 버그인가요?**  
-
-    - **A:** A unique feature of Endless Siege is that a new map is generated every day, offering a fresh strategic challenge for all players.
-
-- **Q: Why is the map different from yesterday?**
-
-    - **A:** You can only build on the designated circular plots found along the enemy path.
-  **A:** 이 게임의 특징으로, 매일 새로운 맵이 생성되도록 설계되어 있습니다.
+*   **Q: 어제랑 맵이 다른데 버그인가요?**
+    *   **A:** 이 게임의 특징으로, 매일 새로운 맵이 생성되도록 설계되어 있습니다.
   모든 플레이어가 같은 데일리 맵에서 전략을 겨루게 됩니다.  
-

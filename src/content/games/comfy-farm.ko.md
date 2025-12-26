@@ -58,29 +58,14 @@ Comfy Farm는 편안한 분위기 속에서 자신만의 농장을 운영하는 
     업그레이드를 구매합니다.
 
 ### 자주 묻는 질문 (FAQ)
+*   **Q: 돈을 더 빨리 벌려면 어떻게 해야 하나요?**
 
+    *   **A:** 가능한 많은 밭을 가동하고, 수확 가능 상태가 되면 바로바로 수확하는 것이 중요합니다. 이후에는 성장 시간이 길지만 수익이 큰 고급 씨앗으로 갈아타면 장기적으로 더 많은 수익을 얻을 수 있습니다.
 
-- **A:** A pest probably got to it! You need to be quick to click on any crows or flies that appear over your crops to prevent them from being eaten.
+*   **Q: 어떤 업그레이드를 먼저 사는 게 좋나요?**
 
-    - **Q: Why did one of my plants disappear?**
+    *   **A:** 물주기를 자동화해 주는 스프링클러가 가장 좋은 첫 업그레이드 후보입니다. 이후 농장 규모가 커질수록 해충이 늘어나므로, 허수아비처럼 해충을 자동으로 처리해 주는 업그레이드에도 투자하는 것이 좋습니다.
 
-- **A:** The sprinkler is an excellent first upgrade. It automates the watering process, saving you a lot of time and clicks, and allowing you to manage more plots эффекტიvely.
+*   **Q: 작물이 갑자기 사라졌어요. 왜 그런가요?**
 
-    - **Q: What is the best upgrade to get first?**
-
-- **A:** Plant as many crops as you can and harvest them as soon as they are ready. As you unlock more expensive seeds, plant those, as they typically yield a higher profit, even if they take longer to grow.
-
-    - **Q: How do I make money faster?**
-**1. 돈을 더 빨리 벌려면 어떻게 해야 하나요?**  
-> 가능한 많은 밭을 가동하고, 수확 가능 상태가 되면 바로바로 수확하는 것이
-> 중요합니다. 이후에는 성장 시간이 길지만 수익이 큰 고급 씨앗으로 갈아타면
-> 장기적으로 더 많은 수익을 얻을 수 있습니다.
-
-**2. 어떤 업그레이드를 먼저 사는 게 좋나요?**  
-> 물주기를 자동화해 주는 스프링클러가 가장 좋은 첫 업그레이드 후보입니다.
-> 이후 농장 규모가 커질수록 해충이 늘어나므로, 허수아비처럼 해충을 자동으로
-> 처리해 주는 업그레이드에도 투자하는 것이 좋습니다.
-
-**3. 작물이 갑자기 사라졌어요. 왜 그런가요?**  
-> 해충이 작물을 먹어 버렸을 가능성이 큽니다. 화면에 까마귀나 벌레가 보이면
-> 최대한 빨리 클릭해 쫓아내야 피해를 줄일 수 있습니다.
+    *   **A:** 해충이 작물을 먹어 버렸을 가능성이 큽니다. 화면에 까마귀나 벌레가 보이면 최대한 빨리 클릭해 쫓아내야 피해를 줄일 수 있습니다.

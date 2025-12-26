@@ -47,21 +47,14 @@ Cricket Hero는 가능한 한 많은 런을 뽑아 내는 것이 목표인 아�
 
 ### 자주 묻는 질문(FAQ)
 
-* **Q: 어떻게 점수를 얻나요?**  
-  **A:** 공을 방망이로 맞히면 런을 획득합니다. 타이밍이 좋을수록 한 번의 타격으로 더 많은
+*   **Q: 어떻게 점수를 얻나요?**
+    *   **A:** 공을 방망이로 맞히면 런을 획득합니다. 타이밍이 좋을수록 한 번의 타격으로 더 많은
   점수(4점, 6점 등)를 얻을 수 있습니다.  
 
-    - **Q: 게임은 언제 끝나나요?**  
-  **A:** 공이 스텀프를 맞혀 볼링 아웃이 되거나, 설정된 위켓(목숨) 수를 모두 소진하면
+*   **Q: 게임은 언제 끝나나요?**
+    *   **A:** 공이 스텀프를 맞혀 볼링 아웃이 되거나, 설정된 위켓(목숨) 수를 모두 소진하면
   게임이 종료됩니다.  
 
-* **Q: 볼러 종류가 여러 가지인가요?**  
-
-    - **A:** Yes, as you score more runs, you will likely face different bowlers who may bowl at different speeds or with different styles, adding to the challenge.
-
-- **Q: Are there different types of bowlers?**
-
-    - **A:** The game ends when you are bowled out, meaning the ball hits your wickets. You have a limited number of wickets (or lives) per game.
-  **A:** 네. 점수가 높아질수록 다양한 속도와 스타일을 가진 볼러가 등장해, 공의 궤적과
+*   **Q: 볼러 종류가 여러 가지인가요?**
+    *   **A:** 네. 점수가 높아질수록 다양한 속도와 스타일을 가진 볼러가 등장해, 공의 궤적과
   타이밍이 조금씩 달라지며 난이도가 올라갑니다.  
-

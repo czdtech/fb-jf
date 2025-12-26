@@ -58,9 +58,13 @@ Draughts라는 이름으로도 불립니다. 8x8 체커보드 위에서 한 플�
     지금 한 수가 다음 수에서 어떤 약점을 만드는지, 상대가 강제적으로 어떤 수를
     두게 되는지 생각해 보세요.
 
+-   **상대의 이동을 봉쇄하기**  
+    상대가 특정 방향으로만 움직이도록 유도하거나, 탈출로를 닫아 말의 움직임을
+    제한해 보세요. 이동 선택지가 줄어들면 결국 합법적인 수가 사라져 승리로
+    이어질 수 있습니다.
+
 -   **킹의 우위 활용**  
 
-- **The Power of Kings:** Getting the first King can be a game-changing advantage. A King is the most powerful piece on the board. Use it to hunt down your opponent's remaining pieces and control large areas of the board.
     첫 번째 킹을 확보하는 순간부터 판세가 크게 기울 수 있습니다. 왕은 전후 이동이
     가능하므로, 상대의 남은 말을 사냥하며 보드 전체를 장악하는 데 사용하세요.
 
@@ -70,11 +74,11 @@ Draughts라는 이름으로도 불립니다. 8x8 체커보드 위에서 한 플�
 
 -   **말 선택:** 이동 가능한 자신의 말을 클릭/탭하면 선택되며, 이동 가능한 칸이
     하이라이트로 표시됩니다.
--   **이동/점프:** 하이라이트된 칸을 클릭/탭해 말을 이동하거나, 점프해 상대 말을
-
-- **Jumping/Capturing:** If a capture is possible, the game will usually force you to select that piece. Click the piece and then the destination square to complete the jump. For multiple jumps, you simply continue clicking the next destination squares in the chain.
-    잡습니다. 여러 번 연속 점프가 가능하면, 이어지는 착지 칸들을 차례로 선택하면
-    됩니다.
+-   **말 이동:** 하이라이트된 목적지 칸을 클릭/탭해 선택한 말을 해당 위치로
+    이동합니다.
+-   **점프/잡기:** 잡기가 가능한 경우 게임이 해당 말을 선택하도록 유도하는 경우가
+    많습니다. 말을 선택한 뒤 착지 칸을 누르면 점프를 완료합니다. 연속 점프가
+    가능하면 이어지는 착지 칸을 차례로 선택하면 됩니다.
 
 ### 자주 묻는 질문 (FAQ)
 

@@ -17,8 +17,8 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ### 게임 소개
 
 Capybara Clicker는 "인터넷이 사랑하는 평온한 동물" 카피바라를 주인공으로 한
-아 idle/클릭커 게임입니다. 목표는 끝없이 증가하는 카피바라 개체 수를 만들어 내는
-것으로, 숫자가 크게 늘어나는 과정을眺보는 재미가 핵심입니다.
+방치형/클릭커 게임입니다. 목표는 끝없이 증가하는 카피바라 개체 수를 만들어 내는
+것으로, 숫자가 크게 늘어나는 과정을 지켜보는 재미가 핵심입니다.
 
 게임 초반에는 화면 중앙의 큰 카피바라를 클릭할 때마다 카피바라가 1마리씩
 생성되며, 이 수치가 곧 게임 내 화폐 역할을 합니다. 모아 둔 카피바라로
@@ -47,16 +47,17 @@ Capybara Clicker는 "인터넷이 사랑하는 평온한 동물" 카피바라를
     얻게 됩니다. 진행 속도가 눈에 띄게 느려지고, 다음 업그레이드까지 거리가
     너무 멀게 느껴질 때 한 번씩 프레스티지를 해 주면 이후 성장이 훨씬 빨라집니다.
 
-    - **클릭 업그레이드도 잊지 말기**  
+    - 프레스티지를 너무 두려워하지 마세요. 보너스 덕분에 이전 진행도를 훨씬 빠르게
+      회복할 수 있습니다.
+    - 진행이 확실히 느려지고, 다음 업그레이드가 터무니없이 멀게 느껴질 때가
+      프레스티지 타이밍입니다.
+
+-   **클릭 업그레이드도 잊지 말기**  
     자동 생산이 중요하더라도, 클릭당 생산량을 올려 주는 업그레이드는 초반 회복에
     큰 도움이 됩니다. 특히 프레스티지 직후에는 강력해진 클릭 한 번 한 번이
     초반 건물 복구를 빠르게 만들어 줍니다.
 
-    - **꾸미기 요소를 소목표로 삼기**  
-
-- **Unlock Everything:** Reaching population milestones will unlock new skins and hats for your capybara. These are cosmetic but are fun goals to aim for.
-
-- **Don't Forget Click Upgrades:** While passive income is key, don't completely ignore the "per click" upgrades. After you ascend, your powerful manual clicks can help you quickly buy back your first few auto-generating buildings.
+-   **꾸미기 요소 해금하기**  
     특정 개체 수(예: 10억, 1조 등)에 도달하면 새로운 모자와 스킨이 열립니다.
     단순히 큰 숫자를 보는 것 외에도, 이런 스킨 해금을 중간 목표로 삼으면
     플레이 동기가 더 커집니다.

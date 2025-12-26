@@ -51,22 +51,15 @@ Crazy Caves는 빠른 속도감과 긴장감을 강조한 아케이드 게임으
 
 ### 자주 묻는 질문(FAQ)
 
-* **Q: 바위에 맞으면 어떻게 되나요?**  
-  **A:** 한 번이라도 맞으면 그 즉시 게임 오버입니다. 처음부터 새 판을 시작해야 합니다.  
+*   **Q: 바위에 맞으면 어떻게 되나요?**
+    *   **A:** 한 번이라도 맞으면 그 즉시 게임 오버입니다. 처음부터 새 판을 시작해야 합니다.
 
-    - **Q: 처음에는 어떤 업그레이드를 우선해야 하나요?**  
-  **A:** 초반에는 곡괭이 공격력을 올려 위협적인 바위를 빠르게 처리할 수 있게 만드는 것이
+*   **Q: 처음에는 어떤 업그레이드를 우선해야 하나요?**
+    *   **A:** 초반에는 곡괭이 공격력을 올려 위협적인 바위를 빠르게 처리할 수 있게 만드는 것이
   좋습니다. 생존 시간이 길어질수록 자연스럽게 더 많은 보석과 금을 모을 수 있고, 이후에는
   수익 증가 업그레이드에 투자하면 다음 판에서 업그레이드 속도가 더 빨라집니다.  
 
-* **Q: 아주 큰 바위는 어떻게 상대해야 하나요?**  
-
-    - **A:** Large boulders require multiple hits to break. You need to quickly throw several pickaxes at them while continuously dodging other falling rocks. Try to start hitting them early before they get too close.
-
-- **Q: How do I deal with the really big boulders?**
-
-    - **A:** A good starting strategy is to upgrade your pickaxe damage. This helps you clear dangerous rocks more quickly, which directly contributes to longer survival times. After that, upgrading your earnings is also a great choice.
-  **A:** 거대한 바위는 여러 번의 타격이 필요합니다. 너무 가까이 다가오기 전에 곡괭이를
+*   **Q: 아주 큰 바위는 어떻게 상대해야 하나요?**
+    *   **A:** 거대한 바위는 여러 번의 타격이 필요합니다. 너무 가까이 다가오기 전에 곡괭이를
   연속으로 던져 미리 체력을 깎아 두고, 동시에 다른 바위의 낙하도 계속 피해야 합니다.
   화면 상단에서 내려오기 시작했을 때부터 일찍 타격을 시작하는 것이 중요합니다.  
-

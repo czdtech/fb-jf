@@ -61,22 +61,16 @@ Bubble Tower 3D는 고전 버블 슈터에 3D 타워 구조를 더한 변형 버
 
 ### 자주 묻는 질문 (FAQ)
 
--   **Q. 어떻게 해야 게임에서 승리하나요?**  
-    A. 타워에 붙어 있는 모든 버블을 제거하면 해당 스테이지를 클리어하게 됩니다.
+*   **Q. 어떻게 해야 게임에서 승리하나요?**
+    *   **A:** 타워에 붙어 있는 모든 버블을 제거하면 해당 스테이지를 클리어하게 됩니다.
 
-    - **Q. 제때 정리하지 못하면 어떻게 되나요?**  
-    A. 턴이 지나면서 버블 타워가 조금씩 아래로 내려옵니다. 어떤 버블이든 화면
+*   **Q. 제때 정리하지 못하면 어떻게 되나요?**
+    *   **A:** 턴이 지나면서 버블 타워가 조금씩 아래로 내려옵니다. 어떤 버블이든 화면
     하단의 기준선을 넘으면 게임 오버가 되니, 바닥 근처의 위험 구역은 우선적으로
     정리해야 합니다.
 
--   **Q. 캐넌에 든 버블로 만들 수 있는 매치가 없을 때는 어떻게 하나요?**  
-
-    - **A:** First, rotate the tower completely to make sure you haven't missed a potential match. If there are truly no matches, you will have to make a tactical shot, placing the bubble in a location where it will cause the least trouble or hopefully set up a future match.
-
-- **Q: I can't find a match for the bubble in my cannon. What should I do?**
-
-    - **A:** The tower of bubbles will slowly descend. If any bubble crosses the line at the bottom of the screen, the game is over.
-    A. 먼저 타워를 끝까지 회전시켜 혹시 놓친 매치가 없는지 확인하세요. 정말
+*   **Q. 캐넌에 든 버블로 만들 수 있는 매치가 없을 때는 어떻게 하나요?**
+    *   **A:** 먼저 타워를 끝까지 회전시켜 혹시 놓친 매치가 없는지 확인하세요. 정말
     연결할 곳이 없다면, 앞으로의 샷에 방해가 덜 되는 위치를 골라 버블을
     "임시 보관"하듯 배치해 두고, 이후 나올 버블과의 매치를 노리는 수밖에
     없습니다.

@@ -48,22 +48,15 @@ Emoji Fun은 연관성에 기반한 이모지 연결 퍼즐 게임입니다. 매
 
 ### 자주 묻는 질문(FAQ)
 
-- **Q: 이 게임의 목표는 무엇인가요?**  
-  **A:** 화면에 있는 모든 이모지 쌍을 올바르게 연결해 한 레벨을 완성하는
+*   **Q: 이 게임의 목표는 무엇인가요?**
+    *   **A:** 화면에 있는 모든 이모지 쌍을 올바르게 연결해 한 레벨을 완성하는
   것입니다.  
 
-    - **Q: 잘못된 이모지에 선을 그리면 어떻게 되나요?**  
-  **A:** 보통 선이 사라지거나, 빨간색으로 표시되어 틀렸음을 알려 줍니다.
+*   **Q: 잘못된 이모지에 선을 그리면 어떻게 되나요?**
+    *   **A:** 보통 선이 사라지거나, 빨간색으로 표시되어 틀렸음을 알려 줍니다.
   별다른 패널티 없이 다시 시도할 수 있는 경우가 많습니다.  
 
-- **Q: 두 이모지의 관계가 잘 이해되지 않습니다.**  
-
-    - **A:** Think outside the box! The link might be about an action (a ball and a goal), a cause and effect (a seed and a tree), or a shared concept (a dog and a bone).
-
-- **Q: I don't understand the connection between two emojis.**
-
-    - **A:** The line will typically disappear or turn red, indicating an incorrect match. You can then try again without penalty.
-  **A:** 단순한 물건-소유 관계뿐 아니라, 행동(공과 골대), 원인과 결과(씨앗과
+*   **Q: 두 이모지의 관계가 잘 이해되지 않습니다.**
+    *   **A:** 단순한 물건-소유 관계뿐 아니라, 행동(공과 골대), 원인과 결과(씨앗과
   나무), 같은 범주(개와 뼈) 등 다양한 연관성을 생각해 보세요. 상상력을 조금 더
   넓게 쓰는 것이 포인트입니다.  
-

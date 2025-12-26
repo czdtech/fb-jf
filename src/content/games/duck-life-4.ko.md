@@ -38,24 +38,15 @@ Duck Life 4는 작은 오리를 키워 각종 레이스에 출전시키는 육�
 
 - 특정 레이스에서 계속 지는 경우, 해당 코스에 많이 등장하는 장애물 종류를
   파악하고 그 능력치를 집중적으로 훈련하세요.  
-- 초반에는 골고루 올리는 것보다, 진행에 필요한 최소 능력치를 빠르게 확보한 후
-
-- Q: Do cosmetics affect speed?
+- 초반에는 골고루 올리는 것보다, 진행에 필요한 최소 능력치를 빠르게 확보한 후 레이스에서 상금을 벌어 나가는 것이 효율적입니다.
+- 막히는 구간이 있다면 이전 트랙을 반복해 안전하게 XP를 모은 뒤, 필요한 스탯을
+  올리고 다시 도전해 보세요.
 
 ### 자주 묻는 질문(FAQ)
 
-- Re‑run earlier tracks to grind safe XP if stuck.
-  레이스에서 상금을 벌어 나가는 것이 효율적입니다.  
-
-
-
-A: Usually low energy or one stat (e.g., climbing) is behind.
-
-- Q: Why am I losing photo‑finish races?
-
-A: No—just keep training the needed stat.
-
-- Q: Can I respec?
-
-
-A: Usually low energy or one stat (e.g., climbing) is behind.
+- Q: 모자 같은 코스메틱이 속도에 영향을 주나요?  
+  A: 대부분 외형용이며, 실제 진행은 스탯과 에너지 관리가 좌우합니다.
+- Q: 스탯을 다시 찍을 수 있나요?  
+  A: 보통은 불가능하므로, 부족한 스탯을 계속 훈련해 보완하는 방식이 일반적입니다.
+- Q: 결승선에서 근소하게 자주 지는 이유는 뭔가요?  
+  A: 에너지가 낮거나 특정 스탯(예: 등반)이 부족한 경우가 많습니다. 해당 부분을 보강하세요.
