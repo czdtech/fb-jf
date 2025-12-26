@@ -56,9 +56,5 @@ test-results/
 # Keep most local agent artifacts untracked, but version the i18n harmonization
 # specs (style guides, glossary, batches, progress) so work can continue across
 # machines.
-.kiro/*
-!.kiro/specs/
-.kiro/specs/*
-!.kiro/specs/i18n-style-harmonization-lite/
-!.kiro/specs/i18n-style-harmonization-lite/**
+
 .serena/
