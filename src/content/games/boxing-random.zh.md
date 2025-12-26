@@ -5,16 +5,17 @@ title: "Boxing Random 随机拳击对决"
 description: >-
   《Boxing Random 随机拳击对决》是一款物理系搞笑拳击游戏，双方角色动作与环境元素都充满随机性，考验你在混
   乱节奏中抓时机出拳与防守。
-iframeSrc: 'https://boxingrandom.h5games.usercontent.goog/v/1p3ojr23i4t40/'
+iframeSrc: 'https://app-197305.games.s3.yandex.net/197305/ymb675rkal3nz409zur9etesdbd74y4d/index.html'
 thumbnail: /new-images/thumbnails/boxing-random.jpg
 tags:
   - sports
   - action
-score: 3.8/5  (1964 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
+score: 4.1/5  (855 votes)
+releaseDate: 2025-08-16
 ---
 
 
+<!-- i18n:section:introduction -->
 ### 游戏介绍
 
 *Boxing Random* 是一款夸张的 ragdoll 拳击小游戏，只用一个按键就能让角色跳起、摆臂并出拳。目标很直接：谁先打中对方头部并拿到 5 分，谁就赢。  
@@ -28,6 +29,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 无穷无尽的随机性保证每一局都不同，也迫使玩家随时改变策略。
 
+<!-- i18n:section:tips -->
 ### 游戏策略
 
 - **拥抱混乱：** 别照搬传统拳击。开局先观察这一回合的特殊规则，再决定打法。  
@@ -37,6 +39,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 - **摆臂当盾：** 摆出去的手臂不只是进攻，也能挡住对方拳头，弹开后立刻反击。  
 - **适应手臂长度：** 长手臂保持距离慢慢 poke，短手臂则贴身缠斗。开局先看清自己这一回合的“手牌”。
 
+<!-- i18n:section:controls -->
 ### 操作指南
 
 本作以“一键操作”着称（不同版本可能略有调整）：
@@ -48,16 +51,22 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 > 小技巧：长按与点按的节奏不同，会影响挥拳弧线与落点，多试几次找准节拍。
 
+<!-- i18n:section:faq -->
 ### 常见问题解答（FAQ）
 
+<!-- i18n:faq:id=faq:boxing-random:how-do-i-win-a-e21b4f7d -->
 **1. 如何赢下一回合？**  
 > 先命中对方头部就能得分，先到 5 分者获胜。
 
+<!-- i18n:faq:id=faq:boxing-random:why-do-the-characters-look-21310768 -->
 **2. 为什么人物看起来这么奇怪？**  
 > 这是核心卖点。角色造型、手臂、重力、障碍都会随机化，让 ragdoll 动作更好笑。
 
+<!-- i18n:faq:id=faq:boxing-random:is-there-a-way-to-78bb8bae -->
 **3. 能防御吗？**  
 > 没有专门的防御键，但可以把摆臂当盾，用节奏把对手拳头打掉。
 
+<!-- i18n:faq:id=faq:boxing-random:can-i-play-this-game-0d71baf7 -->
 **4. 可以单人玩吗？**  
 > 可以。单人模式会匹配 AI，也能随时切换本地 2P 和朋友一起闹。
+

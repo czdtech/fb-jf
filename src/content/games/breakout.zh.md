@@ -3,17 +3,18 @@ locale: zh
 urlstr: breakout
 title: Breakout 经典打砖块
 description: 《Breakout 经典打砖块》复刻街机时代名作，通过移动挡板反弹小球打碎屏幕上的砖块，配合各种强化道具闯过一 关又一关。
-iframeSrc: 'https://ad-freegames.github.io/flash/game/breakout.html'
+iframeSrc: 'https://ad-freegames.github.io/flash/game/atari-breakout.html'
 thumbnail: /new-images/thumbnails/breakout.jpg
 tags:
   - action
   - casual
   - flash
-score: 4.3/5  (1744 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
+score: 3.8/5  (494 votes)
+releaseDate: 2025-08-16
 ---
 
 
+<!-- i18n:section:introduction -->
 ### 详细游戏介绍
 
 *Breakout* 是最具代表性的街机打砖块游戏之一。你的任务只有一个：控制屏幕底部的挡板，把小球不断打回去，让它撞击顶部的砖块，直到整面砖墙被完全清空。
@@ -22,6 +23,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 随着砖块越来越少，小球也会逐渐加速，容错率越来越低。真正的难点在于掌控击球角度、控制节奏，并在不漏球的情况下把屏幕彻底清空。
 
+<!-- i18n:section:tips -->
 ### 游戏策略与通关思路
 
 -   **掌握反弹角度是核心技能**  
@@ -35,6 +37,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 -   **最后一块砖时保持耐心**  
     清场最难的往往是最后一块砖。别急着猛追，反而要慢慢摆好挡板，制造理想角度再把它补掉。  
 
+<!-- i18n:section:controls -->
 ### 操作指南
 
 Breakout 的操作非常简单，不过不同平台的控制方式略有差异。
@@ -47,16 +50,22 @@ Breakout 的操作非常简单，不过不同平台的控制方式略有差异�
 -   **移动设备：**  
     - **触控拖拽：** 在屏幕底部长按并左右拖动即可移动挡板。  
 
+<!-- i18n:section:faq -->
 ### 常见问题解答（FAQ）
 
+<!-- i18n:faq:id=faq:breakout:how-can-i-control-where-e30770fd -->
 **1. 如何控制小球的方向？**  
 > 关键在于让小球击中挡板的不同部位。挡板中央会让球垂直向上，左/右边缘会把球送往对应方向，越靠近边缘角度越陡。  
 
+<!-- i18n:faq:id=faq:breakout:why-does-the-ball-speed-238960cd -->
 **2. 为什么球会越来越快？**  
 > 速度提升是核心难度机制。通常在击中一定数量的砖或击破某种颜色后，小球会自动加速，让后半段关卡更具挑战。  
 
+<!-- i18n:faq:id=faq:breakout:what-is-the-best-way-ce39b501 -->
 **3. 想快速通关有什么技巧？**  
 > 使用“打通侧边隧道”的策略。一旦小球进入砖墙上方，它会自动在顶部反弹并瞬间清掉大半层砖。  
 
+<!-- i18n:faq:id=faq:breakout:are-there-powerups-in-breakout-a7fa8400 -->
 **4. 原版 Breakout 有道具吗？**  
 > 没有。最初的 Breakout 只有挡板和小球。后来衍生的 Arkanoid 等作品才加入多球、加长挡板、激光等强化效果。  
+

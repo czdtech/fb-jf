@@ -15,6 +15,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### 游戏介绍
 
 *Bloons TD 4* 是系列一次重要的飞跃，不仅全面升级了画面，也引入了之后几代都沿用的核心机制。虽然“放置猴子塔戳爆气球”的目标没变，但策略深度被大幅拉高。
@@ -32,6 +33,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - **新模式：** 包括连续出怪、不会停顿的 **Apopalypse Mode**，以及可以无限金钱与生命自由测试阵容的 **Sandbox Mode**。  
 - **消耗品：** 可以在路面临时摆放的 Road Spikes、Monkey Glue 泥坑等一次性防御物。  
 
+<!-- i18n:section:tips -->
 ### 游戏策略
 
 -   **提前规划好每座塔要走哪条分支：** 由于高阶升级互斥，你不再能“全点满”。要在建塔时就想好其定位：Bomb Tower 是用于眩晕与对 MOAB 加伤，还是用于大范围控制。
@@ -43,13 +45,14 @@ releaseDate: 2025-08-16T00:00:00.000Z
     -   **Bomb Tower 2/3：** 对 MOAB/BFB 有额外伤害并附带控制，是后期必备。
     -   **Tack Shooter 2/4：** 超强范围清屏能力。
     -   **Monkey Glue 2/2：** 高效减速并融解多层陶瓷 / 飞艇外壳。
--   **一定要建立经济：Banana Farm 必不可少：** 在高难度和漫长对局中，尽早建农场并升到 `Banana Republic`（2/x），才能稳定产出金钱，支撑 Sun God、MOAB Mauler 群等昂贵组合。
+-   **一定要建立经济：Banana Farm 必不可少：** 在高难度和漫长对局中，尽早建农场并升到 `Banana Republic`（2/x），才能稳定产出金钱，支撑各种昂贵的 4 级升级、Sun God 和 MOAB Mauler 群等组合。
 -   **如何击破 BFB：** BFB 首次出现在第 65 波，推荐配置：
     -   多座 `MOAB Mauler` 集火并提供减速；
     -   一只 `Bloon Dissolver` 把飞艇与内部高阶气球减速、溶解；
     -   至少一只 Sun God 或其它高单点伤害塔作为主输出；
     -   Spike Factory 的 `Spike Storm` 能力在终点附近补刀。
 
+<!-- i18n:section:controls -->
 ### 操作指南
 
 游戏界面依旧是经典的点选式操作：
@@ -59,19 +62,25 @@ releaseDate: 2025-08-16T00:00:00.000Z
 -   **快捷键：** 塔图标上通常会标注对应热键；空格可开始下一波，加速按钮可以快进。  
 -   **使用消耗品：** 点击 Road Spikes 或 Glue Puddle 图标，再点击路径即可放置一次性防御。  
 
+<!-- i18n:section:faq -->
 ### 常见问题解答（FAQ）
 
+<!-- i18n:faq:id=faq:bloons-td-4:why-cant-i-buy-a-516616f9 -->
 **1. 为什么有些塔或升级无法购买？**  
 大部分塔，尤其是 3/4 级升级，都需要通过提升玩家 Rank 来解锁。多打几局攒经验，自然会逐步开放全部内容。
 
+<!-- i18n:faq:id=faq:bloons-td-4:how-do-i-pop-camo-a6b0ee8a -->
 **2. 如何处理 Camo 气球？**  
 需要具备 Camo 侦测能力的塔，如：2/2 Dart Monkey、带 `Signal Flare` 的 Mortar Tower（x/3）、或 1/x Spike Factory 等。Monkey Village 的部分升级在后续作品中也提供类似能力。
 
+<!-- i18n:faq:id=faq:bloons-td-4:whats-the-difference-between-t-6964db4a -->
 **3. 蓝色 MOAB 和红色 BFB 有什么区别？**  
 BFB比 MOAB 更耐打，血量更厚，被击破后会爆出 4 架 MOAB，因此需要更强的单点和群体输出组合。
 
+<!-- i18n:faq:id=faq:bloons-td-4:can-i-buy-all-the-a4f3b0b5 -->
 **4. 一只猴子能把两条升级线都点满吗？**  
 不行。这正是本作与前作最大的不同。你只能在一条分支上拿到高阶升级：例如 Super Monkey 的 `Sun God`（2/x）和 `Robo-Monkey`（x/2）不能同时出现在同一座塔上。
 
+<!-- i18n:faq:id=faq:bloons-td-4:what-is-apopalypse-mode-eb2eb7e1 -->
 **5. 什么是 Apopalypse 模式？**  
 Apopalypse 是一种特殊模式，气球会连续不断地刷新，没有回合间隙，也没有回合结算金钱，你只能依靠戳破气球获得收入，因此极具挑战性。  

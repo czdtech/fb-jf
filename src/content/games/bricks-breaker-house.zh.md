@@ -3,16 +3,17 @@ locale: zh
 urlstr: bricks-breaker-house
 title: Bricks Breaker House 打砖块小屋
 description: 《Bricks Breaker House》是一款以“装修小屋”为主题的打砖块游戏，通过每一关消除砖块获取星星和金币，逐步解锁 房间与家具装饰。
-iframeSrc: 'https://6223mpudgokdc.h5games.usercontent.goog/v/5r95vjlsg9ba8/'
+iframeSrc: 'https://1s6hqqts5ko6o.h5games.usercontent.goog/v/7n8ge2nvqqksg/'
 thumbnail: /new-images/thumbnails/bricks-breaker-house.png
 tags:
   - puzzle
   - casual
-score: 4.2/5  (2105 votes)
+score: 3.8/5  (1679 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### 详细游戏介绍
 
 *Bricks Breaker House* 将传统打砖块玩法与“装扮房间”系统结合在一起。你在关卡中通过控制挡板反弹小球来击碎砖块，完成关卡即可获得星星或金币，用于装修自己的小屋、购买家具和装饰品。
@@ -23,10 +24,11 @@ releaseDate: 2025-10-18T00:00:00.000Z
 还有的砖会作为障碍挡住你通往上层的路径。  
 你需要在“追求高分”与“稳定通关”之间取得平衡，才能持续为自己的小屋解锁新内容。
 
+<!-- i18n:section:tips -->
 ### 游戏策略与通关思路
 
 1.  **优先稳住球路，避免早早漏球**  
-    无论关卡如何变化，首要任务依旧是不要让小球从挡板下方掉出屏幕。尽量让挡板保持在球的运动轨迹正下方，避免在追道具时过度偏移导致来不及接球。
+    无论关卡如何变化，首要任务依旧是不要让小球从挡板下方掉出屏幕。出手角度尽量保持在 30–45° 的中等区间，让反弹轨迹更可预测。尽量让挡板保持在球的运动轨迹正下方，避免在追道具时过度偏移导致来不及接球。
 
 2.  **利用上层空间进行“自动清屏”**  
     想办法在砖堆中打开一条通道，让小球进入砖块上方的空间。此时球会在上方墙壁与砖块之间反复弹跳，你只需在下方准备接回即可，这往往能一次性清掉大量砖块。
@@ -40,22 +42,27 @@ releaseDate: 2025-10-18T00:00:00.000Z
 5.  **按自己的节奏建设房间**  
     完成关卡获得的资源有限，不必一口气把所有房间都解锁。可以先集中装修一两个喜欢的房间，把家具、墙纸等布置好，再继续向更高难关卡推进。
 
+<!-- i18n:section:controls -->
 ### 操作指南
 
 -   **移动挡板：** 使用鼠标左右移动来控制挡板位置。  
 -   **发射小球：** 在每一局开始时，点击鼠标左键或点击发射按钮，让小球从挡板上弹出。  
 -   **装修界面：** 在主菜单或关卡间隙进入小屋界面，使用获得的星星 / 金币解锁家具、摆件和新房间。  
 
+<!-- i18n:section:faq -->
 ### 常见问题解答（FAQ）
 
+<!-- i18n:faq:id=faq:bricks-breaker-house:which-upgrades-should-i-priori-68a6da2d -->
 - **问：进度是不是完全和打砖块表现绑定？**
   
   答：是的，通关效率越高、获得的星星越多，就越快解锁更多装饰和房间。但整体节奏偏悠闲，不需要每关都完美三星才能推进剧情。
 
+<!-- i18n:faq:id=faq:bricks-breaker-house:how-do-i-deal-with-3e27b52e -->
 - **问：不同道具效果具体有什么差别？**
   
   答：常见的有加宽挡板、多球、穿透球、火球、激光等，具体说明可在界面查看。建议多尝试几局，找到最适合自己手感的组合。
 
+<!-- i18n:faq:id=faq:bricks-breaker-house:is-there-a-best-serve-f67211f3 -->
 - **问：小屋布置会影响关卡内玩法吗？**
   
   答：一般不会。装修系统主要提供成就与收集乐趣，方便你直观查看成长轨迹，同时自由布置喜欢的房间主题。
