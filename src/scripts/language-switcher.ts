@@ -63,7 +63,7 @@ function getLocalizedListPath(selectedLang: string | undefined, currentPath: str
   if (segments.length === 0) return null;
 
   let baseIndex = 0;
-  if (PATH_LANG_SEGMENTS.has(segments[0])) {
+  if (isValidLocale(segments[0]) && PATH_LANG_SEGMENTS.has(segments[0])) {
     baseIndex = 1;
   }
 
@@ -119,7 +119,7 @@ function getLocalizedGamePath(selectedLang: string | undefined, currentPath: str
     if (segments.length === 1) {
       // `/slug/`
       gameSlug = segments[0];
-    } else if (segments.length === 2 && PATH_LANG_SEGMENTS.has(segments[0])) {
+    } else if (segments.length === 2 && isValidLocale(segments[0]) && PATH_LANG_SEGMENTS.has(segments[0])) {
       // `/lang/slug/`
       // Guardrail: avoid nested locale paths like `/fr/zh/`.
       if (isValidLocale(segments[1])) {

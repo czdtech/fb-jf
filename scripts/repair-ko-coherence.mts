@@ -268,7 +268,7 @@ async function fixFile(rel: string): Promise<{
 
 async function main() {
   const files = await fg(['src/content/games/*.ko.md'], { dot: false });
-  files.sort((a, b) => a.localeCompare(b));
+  files.sort((a: string, b: string) => a.localeCompare(b));
 
   let changedFiles = 0;
   let removedFaqHeadings = 0;

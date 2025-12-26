@@ -64,17 +64,17 @@ function parseArgs(): GenerationOptions {
 
     if (arg === '--lang' && i + 1 < args.length) {
       const langStr = args[++i];
-      const langs = langStr.split(',').map(l => l.trim()) as Locale[];
+      const langs = langStr.split(',').map(l => l.trim());
       
       // Validate languages
-      const invalid = langs.filter(l => !TARGET_LOCALES.includes(l));
+      const invalid = langs.filter(l => !TARGET_LOCALES.includes(l as any));
       if (invalid.length > 0) {
         console.error(`❌ Invalid language(s): ${invalid.join(', ')}`);
         console.error(`   Supported: ${TARGET_LOCALES.join(', ')}`);
         process.exit(1);
       }
       
-      options.languages = langs;
+      options.languages = langs as Locale[];
     } else if (arg === '--filter' && i + 1 < args.length) {
       options.filter = args[++i];
     } else if (arg === '--dry-run') {

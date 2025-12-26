@@ -221,7 +221,7 @@ async function generateMarkdownReport(reports: any) {
     if (stats.overallPercent < 100) {
       md += '### Complete Missing Translations\n\n';
       
-      const incompleteLangs = coverage.filter(c => c.percent < 100);
+      const incompleteLangs = coverage.filter((c: CoverageData) => c.percent < 100);
       if (incompleteLangs.length > 0) {
         md += 'Focus on completing these languages:\n\n';
         for (const lang of incompleteLangs) {

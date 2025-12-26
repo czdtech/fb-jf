@@ -23,7 +23,7 @@
 import crypto from 'node:crypto';
 import fs from 'node:fs/promises';
 import path from 'node:path';
-import { defaultLocale, locales } from '../src/i18n/routing';
+import { defaultLocale, locales, isValidLocale } from '../src/i18n/routing';
 
 type TrendingItem = { slug: string; score: number };
 type TrendingJson = {
@@ -124,7 +124,7 @@ function extractCanonicalSlugFromPath(pagePathRaw: string, canonicalSlugs: Set<s
 
   // Drop locale prefix if present.
   const first = parts[0];
-  const withoutLocale = LOCALE_PREFIXES.has(first) ? parts.slice(1) : parts;
+  const withoutLocale = isValidLocale(first) && LOCALE_PREFIXES.has(first) ? parts.slice(1) : parts;
   if (withoutLocale.length === 0) return null;
 
   const slug = withoutLocale[0];

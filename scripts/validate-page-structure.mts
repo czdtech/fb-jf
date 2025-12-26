@@ -60,7 +60,9 @@ function extractPageStructure(filePath: string): PageStructure | null {
     const headings: Array<{ level: number; text: string }> = [];
     $('h1, h2, h3, h4, h5, h6').each((_, elem) => {
       const $elem = $(elem);
-      const level = parseInt($elem.prop('tagName').substring(1));
+      const tagName = $elem.prop('tagName');
+      if (!tagName) return;
+      const level = parseInt(tagName.substring(1));
       const text = $elem.text().trim();
       headings.push({ level, text });
     });
