@@ -6,10 +6,12 @@ title: "AYOCS Sprunkr - 在线畅玩 AYOCS Sprunkr"
 description: "AYOCS Sprunkr 是一款时尚风格的 Sprunki 模组，为熟悉的音乐创作体验注入全新活力，带来现代感十足的角色设计和独特音效。"
 iframeSrc: "https://turbowarp.org/1114188520/embed"
 thumbnail: /new-images/thumbnails/ayocs-sprunkr.png
-score: "4.1/5  (54 票)"
+score: "4.1/5  (54 votes)"
 tags: ["ayocs sprunkr"]
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 嘿，Sprunkr 粉丝们！想给你的音乐创作增添一些时尚感吗？你一定要看看 AYOCS Sprunkr！这款模组为 Sprunki 宇宙带来了超级时髦的改造，为熟悉的音乐创作体验注入了全新活力。
  
 ### AYOCS Sprunkr 有什么特别之处？
@@ -33,3 +35,4 @@ tags: ["ayocs sprunkr"]
  
  
 AYOCS Sprunkr 是一次成功的风格进化，巧妙地将现代时尚美学融入 Sprunki 的音乐世界。如果你想体验更具当代风格和精致视觉效果的音乐创作，那么 AYOCS Sprunkr 绝对值得一试。快来加入 AYOCS Sprunkr 的行列，释放你内心的音乐造型师，今天就开始创作属于你的潮流节拍吧！
+

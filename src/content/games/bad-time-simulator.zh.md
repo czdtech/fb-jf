@@ -15,6 +15,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### 详细介绍
 
 *Bad Time Simulator（坏时间模拟器）* 是一款粉丝制作的网页游戏，用来高度还原《Undertale》屠杀路线中与 Sans 的最终 Boss 战。这场战斗以极端难度着称，目的是把玩家的反应速度、耐心以及对弹幕模式的记忆推到极限。
@@ -31,6 +32,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - 被击中后会出现名为 “KR” 的紫色条，相当于持续掉血的中毒效果；
 - 所有攻击都是脚本固定的，你面对的是一套设计好的“招式编排”。
 
+<!-- i18n:section:tips -->
 ### 游戏攻略思路
 
 想在 Bad Time Simulator 中获胜，靠的不是乱动，而是**记招 + 微操 + 心态**。
@@ -56,29 +58,39 @@ releaseDate: 2025-08-16T00:00:00.000Z
 7.  **善用练习模式：**  
    很多模拟器版本提供练习模式，可以单独练习某几段攻击，避免每次都从头打到那一段。优先把你最容易暴毙的几套招式练熟，会大幅提高通关几率。
 
+<!-- i18n:section:controls -->
 ### 操作指南
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `↑` `↓` `←` `→` `Z` `Enter` `[FIGHT]` `X` `Shift` `Up Arrow`
 
 Bad Time Simulator 的操作比较简单，主要是键盘：
 
-*   **方向键 `↑` `↓` `←` `→`：** 控制红色 SOUL 在小方框内移动。
-*   **`Z` / `Enter`：** 在菜单中确认（例如选择 `[FIGHT]`）。
-*   **`X` / `Shift`：** 菜单中的取消/返回（在模拟器中用得较少）。
+*   **方向键 ↑ ↓ ← →：** 控制红色 SOUL 在小方框内移动。
+*   **Z / Enter：** 在菜单中确认（例如选择 [FIGHT]）。
+*   **X / Shift：** 菜单中的取消/返回（在模拟器中用得较少）。
 
-在蓝色 SOUL 模式下，**`↑`** 作为跳跃键配合左右移动通过平台。
+在蓝色 SOUL 模式下，**↑** 作为跳跃键配合左右移动通过平台。
 
+<!-- i18n:section:faq -->
 ### 常见问题解答（FAQ）
 
+<!-- i18n:faq:id=faq:bad-time-simulator:why-is-this-game-so-87eab09d -->
 **1. 这游戏为什么这么难？**  
 这是对原作中 Sans 战的忠实还原，本身就被认为是近年游戏里最难的 Boss 战之一。极高难度是设计的一部分，面向的是已经打完屠杀线、想要挑战极限的玩家。
 
+<!-- i18n:faq:id=faq:bad-time-simulator:what-is-kr-karmic-retribution-a0c9bcbb -->
 **2. KR 到底是什么？**  
 KR 是一种持续性伤害效果。被攻击命中后，你不会只掉一块血，而是会在接下来的一小段时间内持续失血。命中次数越多，KR 叠加造成的总伤害就越高。
 
+<!-- i18n:faq:id=faq:bad-time-simulator:is-it-possible-to-actually-0b6df411 -->
 **3. 真的有可能打赢吗？**  
 可以，模拟器是可以通关的。但通常需要大量练习和死很多次，通过不断记住每一轮攻击的节奏来“肌肉记忆化”整个战斗流程。
 
+<!-- i18n:faq:id=faq:bad-time-simulator:why-cant-i-hit-sans-7f7251ec -->
 **4. 为什么我打不到 Sans？**  
 在这场战斗中，Sans 会躲掉你所有的攻击，直到战斗的最后阶段为止。`[FIGHT]` 选项更多是用来推进攻击轮次，而不是用来“打伤”他。整个战斗的重点是防御与生存。
 
+<!-- i18n:faq:id=faq:bad-time-simulator:what-is-the-difference-between-aa2c7edf -->
 **5. 模拟器和原作战斗有什么差别？**  
 大多数 Bad Time Simulator 版本都尽可能忠实于原作：攻击模式、节奏、KR 机制等都会保持一致。不同版本之间可能存在轻微差异，但整体体验目标是“和原作几乎一样”。
+
