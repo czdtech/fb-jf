@@ -2,6 +2,15 @@
 
 ## Phase 1: 基础设施与工具链
 
+### Task 1.0: 明确扫描范围与文件映射
+- [ ] 将扫描范围限定为 `src/content/games/`
+- [ ] 定义文件命名与映射：`src/content/games/<slug>.en.md` ↔ `src/content/games/<slug>.<locale>.md`
+- [ ] 将 orphan localized（非英文存在但缺少对应英文事实源）定义为 error
+- [ ] 将 missing localized（英文存在但缺少对应语言）定义为 warn，并在报告中标记
+
+**Acceptance Criteria:**
+- Requirement 0: AC1-5
+
 ### Task 1.1: 创建内容契约文档
 - [ ] 创建 `docs/i18n/games-content-contract-v1.md`
 - [ ] 定义 section 顺序和必填/可选规则
@@ -30,13 +39,13 @@
 - [ ] 集成 gray-matter 解析 frontmatter
 - [ ] 集成 unified/remark-parse 解析 Markdown AST
 - [ ] 实现 section 标记识别 (`<!-- i18n:section:... -->`)
-- [ ] 实现 Controls 键位抽取 (inline code 格式)
-- [ ] 实现数值 token 抽取 (仅在指定 section 内)
+- [ ] 实现 Controls 键位抽取（遍历 AST inlineCode 节点，不用正则扫原始 Markdown）
+- [ ] 实现数值 token 抽取（仅在指定 section 内；忽略列表序号；按 multiset 统计 tokenCounts）
 - [ ] 实现 FAQ ID 序列抽取
 - [ ] 输出 JSON 和人类可读格式
 
 **Acceptance Criteria:**
-- Requirement 4: AC1-6
+- Requirement 4: AC1-9
 
 ### Task 1.4: 实现差分报告生成器
 - [ ] 创建 `scripts/report-i18n-hardpoints-diff.mts`
@@ -194,6 +203,8 @@
 ## Dependencies
 
 ```
+Task 1.0 ─────────────────────────────────────────────────────────┐
+                                                                   │
 Task 1.1 ─────────────────────────────────────────────────────────┐
                                                                    │
 Task 1.2 ──┬──────────────────────────────────────────────────────┤

@@ -1,0 +1,15 @@
+{
+  "version": "1.0",
+  "updatedAt": "2025-12-26T00:00:00.000Z",
+  "entries": [
+    {
+      "slug": "simple-game",
+      "locale": "zh",
+      "kind": "iframeSrc",
+      "fingerprint": "deadbeefdead",
+      "note": "fixture entry",
+      "addedAt": "2025-12-26T00:00:00.000Z"
+    }
+  ]
+}
+

@@ -4,6 +4,10 @@
 
 本设计实现一套多语言内容"硬信息点"对齐系统，确保游戏页面中的关键技术信息（iframeSrc、Controls 键位、数值、FAQ 集合与顺序）在所有语言版本中与英文保持严格一致。
 
+范围（Scope）与文件映射约定：
+- 仅处理 `src/content/games/` 下的游戏内容文件
+- 映射规则：`src/content/games/<slug>.en.md` 为唯一事实源，对应 `src/content/games/<slug>.<locale>.md`
+
 系统采用"先契约→报告→再门禁"的渐进式策略：
 1. 定义内容契约和语义标记规范
 2. 开发抽取器和差分报告工具
@@ -179,6 +183,7 @@ interface ExtractedHardpoints {
   };
   numbers: {
     tokens: string[];              // e.g., ['100', '50%', '3s']
+    tokenCounts: Record<string, number>; // multiset: token -> count
     sections: string[];            // 来源 section 列表
   };
   faq: {
@@ -187,10 +192,14 @@ interface ExtractedHardpoints {
   };
 }
 
-// 抽取 Controls 键位的正则
-const CONTROL_KEY_PATTERN = /`([A-Z]|[0-9]|Space|Enter|Shift|Ctrl|Alt|Arrow\w+|Mouse\d?|Click|Drag)`/g;
+// Controls 抽取：遍历 controls section 内的 inlineCode 节点，取其 value 作为 key token（不从原始 Markdown 正则扫描）。
+function extractControlKeyTokensFromAst(ast: unknown, controlsSectionMarker: string): string[] {
+  void ast;
+  void controlsSectionMarker;
+  return [];
+}
 
-// 抽取数值的正则 (仅在指定 section 内)
+// 数值抽取：只在指定 section 内，对 text 节点 value 应用 NUMBER_PATTERN；比较使用 multiset（tokenCounts）以保留重复次数。
 const NUMBER_PATTERN = /\b(\d+(?:\.\d+)?(?:%|s|ms|x|px|hp|mp|pts?)?)\b/gi;
 ```
 
@@ -216,8 +225,8 @@ interface HardpointDiff {
 interface DiffItem {
   kind: 'iframeSrc' | 'controlsKeys' | 'faqOrder' | 'numbers' | 'frontmatter';
   field?: string;                  // for frontmatter diffs
-  expected: string | string[];
-  actual: string | string[];
+  expected: string | string[] | Record<string, number>;
+  actual: string | string[] | Record<string, number>;
   fingerprint: string;             // hash of diff details for baseline
 }
 
@@ -440,8 +449,8 @@ Chess is a two-player strategy board game...
 - **来源**: Requirement 7, AC2
 
 ### P6: 数值 Token 一致性
-- **属性**: 在指定 section 内，所有语言的数值 token 集合必须与英文一致
-- **验证**: `∀ locale: Set(numbers.tokens[locale]) === Set(numbers.tokens[en])`
+- **属性**: 在指定 section 内，所有语言的数值 token multiset（含重复次数）必须与英文一致
+- **验证**: `∀ locale: deepEqual(numbers.tokenCounts[locale], numbers.tokenCounts[en])`
 - **来源**: Requirement 7, AC3
 
 ### P7: Baseline 隔离性
@@ -460,6 +469,7 @@ Chess is a two-player strategy board game...
 
 | 错误类型 | 触发条件 | 处理策略 | 用户提示 |
 |---------|---------|---------|---------|
+| OrphanLocalized | 非英文文件存在但对应英文事实源缺失 | 在门禁模式下失败；report-only 模式下仅输出报告 | `[ERROR] Orphan localized: {slug}.{locale}.md (missing {slug}.en.md)` |
 | FileNotFound | 英文文件存在但对应语言文件缺失 | 记录为 missing，不阻塞其他文件 | `[WARN] Missing: {slug}.{locale}.md` |
 | ParseError | Markdown/frontmatter 解析失败 | 跳过该文件，记录错误 | `[ERROR] Parse failed: {file}: {reason}` |
 | InvalidMarker | i18n 标记格式不正确 | 记录为 warning，继续处理 | `[WARN] Invalid marker at {file}:{line}` |

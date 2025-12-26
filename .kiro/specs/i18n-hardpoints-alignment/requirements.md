@@ -16,6 +16,18 @@
 
 ## Requirements
 
+### Requirement 0: 范围与文件映射
+
+**User Story:** As a 开发者/CI 管理员, I want 明确本机制只作用于游戏内容且英文有唯一映射, so that 校验与对齐不会误扫其它页面，并且每个本地化文件都能找到唯一的英文事实源。
+
+#### Acceptance Criteria
+
+1. THE System (Extractor/Diff_Reporter/Validator/English_Normalizer) SHALL scan only files under `src/content/games/`
+2. THE canonical English file for a slug SHALL be `src/content/games/<slug>.en.md`
+3. THE localized file for a slug and locale SHALL be `src/content/games/<slug>.<locale>.md`
+4. WHEN a localized file exists but the English counterpart does not, THE Validator SHALL fail with an actionable error (OrphanLocalized)
+5. WHEN an English file exists but a localized file is missing, THE Diff_Reporter SHALL mark it as missing (warning) and continue processing other slugs/locales
+
 ### Requirement 1: 内容契约定义
 
 **User Story:** As a 内容编辑, I want 有一份明确的内容结构契约, so that 我知道每个游戏页面应该包含哪些 section 以及它们的格式要求。
@@ -50,6 +62,7 @@
 3. THE localizable category SHALL include: title, description, and content excerpts
 4. THE configurable category SHALL include: tags and keywords
 5. WHEN validating frontmatter, THE Validator SHALL report any hard-sync field that differs from English as an error
+6. WHEN validating frontmatter, THE Validator SHALL treat missing/extra hard-sync fields as errors (a locale MUST NOT omit a hard-sync field present in English, and MUST NOT add a hard-sync field absent in English)
 
 ### Requirement 4: 硬信息点抽取器
 
@@ -59,10 +72,13 @@
 
 1. THE Extractor SHALL parse Markdown AST using a locked parser version (unified/remark ecosystem)
 2. THE Extractor SHALL extract iframeSrc from frontmatter
-3. THE Extractor SHALL extract Controls key tokens (formatted as inline code like `W`, `A`, `S`, `D`) only from sections marked with `<!-- i18n:section:controls -->`
-4. THE Extractor SHALL extract numeric tokens (numbers, percentages, timings) only from sections marked with `<!-- i18n:section:how-to-play -->` or `<!-- i18n:section:rules -->` or `<!-- i18n:section:tips -->`
-5. THE Extractor SHALL extract FAQ ID sequences from `<!-- i18n:faq:id=... -->` annotations
-6. THE Extractor SHALL output results in both human-readable and JSON formats
+3. THE Extractor SHALL extract Controls key tokens by walking Markdown AST and collecting inlineCode node values only from sections marked with `<!-- i18n:section:controls -->`
+4. THE Extractor SHALL NOT extract Controls key tokens by regex-scanning raw Markdown text
+5. THE Extractor SHALL extract numeric tokens (numbers, percentages, timings) only from text nodes inside sections marked with `<!-- i18n:section:how-to-play -->` or `<!-- i18n:section:rules -->` or `<!-- i18n:section:tips -->`
+6. THE Extractor SHALL ignore ordered-list ordinals and other structural numbering (e.g., `1.` `2.` list markers) when extracting numeric tokens
+7. THE Extractor SHALL preserve numeric token multiplicity (multiset semantics): token counts MUST be representable in the output (either via repeated tokens or an explicit counts map)
+8. THE Extractor SHALL extract FAQ ID sequences from `<!-- i18n:faq:id=... -->` annotations
+9. THE Extractor SHALL output results in both human-readable and JSON formats
 
 ### Requirement 5: 差分报告生成
 
@@ -96,7 +112,7 @@
 
 1. WHEN aligning iframeSrc, THE Aligner SHALL copy the exact value from English (character-by-character match required)
 2. WHEN aligning Controls, THE Aligner SHALL ensure the key token set matches English exactly (localized descriptions are allowed, but key tokens like `W`, `A`, `S`, `D` must be identical)
-3. WHEN aligning numeric values, THE Aligner SHALL ensure number tokens match English exactly (unit names and word order may differ)
+3. WHEN aligning numeric values, THE Aligner SHALL ensure number tokens match English exactly as a multiset (token counts must match; unit names and word order may differ)
 4. WHEN aligning FAQ, THE Aligner SHALL ensure the same FAQ ID set and order as English; missing FAQs must be added with proper translations
 5. THE Aligner SHALL NOT modify any content during the "polish phase" (after hardpoints are aligned) except for wording improvements
 
@@ -122,7 +138,7 @@
 2. WHEN in baseline mode, THE CI_Gate SHALL allow issues listed in baseline and fail only on new issues
 3. WHEN in strict mode (after baseline is cleared), THE CI_Gate SHALL fail on any hardpoint mismatch
 4. THE CI_Gate SHALL output clear error messages indicating which file, field, and expected vs actual values
-5. WHEN a language's hardpoint diff report reaches zero, THE CI_Gate SHALL automatically enable strict mode for that language
+5. WHEN the baseline contains zero entries for a language, THE CI_Gate behavior for that language SHALL be equivalent to strict (no mismatches are allowed for that language)
 
 ### Requirement 10: 工具链测试
 
