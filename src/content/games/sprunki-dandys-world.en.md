@@ -33,6 +33,7 @@ Sprunki Dandy's World is super easy to play, guaranteeing you won't be able to s
  - **Share Your Creative Masterpiece:** After creating a satisfactory work, you can share it with your friends and family, or even post it online for more people to appreciate your talent!
  
  
+<!-- i18n:section:tips -->
 ### Tips and Tricks for Playing Sprunki Dandy's World:
  
  - **Be Bold and Try Different Combinations:** Don't be afraid to try out different combinations of instruments and sound effects. The more you try, the more unique and creative your works will be!
@@ -44,3 +45,4 @@ Sprunki Dandy's World is super easy to play, guaranteeing you won't be able to s
 ### Conclusion:
  
 Sprunki Dandy's World is a unique game that combines music, art, and storytelling. Here, you can unleash your creativity and create your own musical world. What are you waiting for? Come join Sprunki Dandy's World and start your musical graffiti journey!
+

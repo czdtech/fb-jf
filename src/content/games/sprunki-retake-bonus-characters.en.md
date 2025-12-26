@@ -17,6 +17,7 @@ releaseDate: 2025-12-04T00:00:00.000Z
  
 Sprunki Retake Bonus Characters isn't just a regular music game, it's a tribute to ancient cultures and an exploration of the endless possibilities of music. Here, you can not only create music, but also feel the heritage and fusion of cultures.
  
+<!-- i18n:section:tips -->
 ### The Core Gameplay of Sprunki Retake Bonus Characters:
  
  - **Become a Tribal Leader:** Lead your tribe of beatboxers and use your musical talent to make them play awe-inspiring melodies.
@@ -32,3 +33,4 @@ Sprunki Retake Bonus Characters isn't just a regular music game, it's a tribute 
  
  
 **Whether you're an experienced musician or a curious beginner, Sprunki Retake Bonus Characters offers endless fun, sparking creativity with its unique ethnic twist. Come and join Sprunki Retake Bonus Characters, and awaken the primal musical soul with ancient beats!**
+

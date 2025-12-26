@@ -26,6 +26,7 @@ Want to experience a psychedelic musical journey in the silence of the night? Sp
  
 Simply put, Sprunki Night Time is about using music to create a nighttime atmosphere. The neon-lit visuals, smooth animations, and cinematic feel make this game not only a hearing pleasure, but also a visual feast.
  
+<!-- i18n:section:how-to-play -->
 ### How to Play Sprunki Night Time?
  
 It's actually very simple, just master these points:
@@ -54,3 +55,4 @@ It's actually very simple, just master these points:
 ### Conclusion:
  
 Sprunki Night Time takes you into a dark world full of mystery and unknown, allowing you to experience a psychedelic musical journey in the silence of the night. Come and join Sprunki Night Time, and use your music to light up this deep and mysterious night!
+

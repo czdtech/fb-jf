@@ -24,6 +24,7 @@ Sprunki Basical is a back-to-basics music creation game that allows you to exper
  
 ---
  
+<!-- i18n:section:how-to-play -->
 ### How to Play Sprunki Basical?
  
 The gameplay is very simple, it can be done in a few steps:
@@ -51,3 +52,4 @@ The gameplay is very simple, it can be done in a few steps:
  - **New Sprunki Style:** Brings a series of new Sprunki-themed beats, melodies, and sound effects, giving you a sense of freshness.
  - **Real-Time Mixing:** Adjust your work at any time to make your music more perfect.
  - **Explore Fun:** Discover hidden animations and special effects, making your creation process full of surprises.
+

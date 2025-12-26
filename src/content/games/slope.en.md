@@ -20,6 +20,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 "Slope" is the original endless running game where players control a green ball rolling down a steep slope, avoiding red obstacles and trying to survive as long as possible in this addictive and challenging experience. The game is famous for its simple yet addictive gameplay, smooth physics engine, and gradually accelerating pace.
@@ -32,12 +33,14 @@ releaseDate: 2025-08-16T00:00:00.000Z
 4.  **Path Selection**: Choose the safest routes through complex obstacle combinations.
 5.  **Stay Calm**: Maintain composure at high speeds, avoiding panic-induced mistakes.
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 
 *   **Move Left**: Press A key or left arrow key to move the ball left.
 *   **Move Right**: Press D key or right arrow key to move the ball right.
 *   **Smooth Control**: Use smooth movements rather than abrupt direction changes.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions
 
 1.  **Q: How can I improve my high score?**
@@ -48,3 +51,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
     **A**: Yes, touching any red object will cause game over.
 4.  **Q: Does the game have an ending?**
     **A**: "Slope" is an endless game that can theoretically continue indefinitely; the challenge is seeing how long you can survive.
+

@@ -23,6 +23,7 @@ Sprunki Interactive BETA is not just a simple upgrade to the Sprunki game, it's 
  - **Unpredictable Interactions:** When these vibrant characters (including Sprunki and other partners) collide or interact, they generate unique sounds, creating a spontaneous and ever-changing soundscape.
  
  
+<!-- i18n:section:how-to-play -->
 ### How to Play the Game:
  
 In Sprunki Interactive BETA, the world starts out bright, colorful, and full of charm. You’re introduced to three lovable characters: Durple, a yellow creature with antennae; Brud, a purple character with wings; and Oren, a pink being with cat ears. Each character is equipped with its own timer: Durple's speed timer, Brud's wandering timer, and Oren's behavior timer. As a player, your task is to manage these timers effectively, adjusting them to ensure that each character's actions are executed at just the right moment.
@@ -41,3 +42,4 @@ This eerie transition adds a layer of intensity to the gameplay, combining playf
  
  
 So, dive into Sprunki Interactive BETA and let the chaos of sound and movement inspire your next musical masterpiece! Only the most strategic players can control the balance between cuteness and terror.
+

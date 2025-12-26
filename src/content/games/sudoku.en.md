@@ -14,6 +14,7 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 "Sudoku" is a classic number puzzle game where players fill a 9x9 grid with digits 1-9, ensuring each row, column, and 3x3 box contains all numbers exactly once. This logic-based brain teaser challenges players' reasoning abilities and patience.
@@ -26,6 +27,7 @@ releaseDate: 2025-08-16
 4.  **Find Hidden Singles**: Look for numbers that can only be placed in one position within a row, column, or box.
 5.  **Progressive Advancement**: After filling in each number, re-analyze the entire board to find new breakthrough points.
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 
 *   **Select Cell**: Click on empty cells to select them.
@@ -33,6 +35,7 @@ releaseDate: 2025-08-16
 *   **Delete Numbers**: Press delete key or click on filled numbers again to clear them.
 *   **Mark Candidates**: Some versions allow marking multiple possible candidate numbers in cells.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions
 
 1.  **Q: How do I know if a Sudoku has a solution?**

@@ -22,6 +22,7 @@ Sprunki Phase 5 is a fan-made music-creation game that blends rhythm-based creat
  
 ---
  
+<!-- i18n:section:tips -->
 ### Sprunki Phase 5 Gameplay
 
  
@@ -38,3 +39,4 @@ The enhanced sound library in Sprunki Phase 5 offers more diverse options for cr
 ### Unlock New Sounds and Effects
  
 Progressing in the Sprunki Phase 5 allows you to unlock more haunting sounds and expand your creative possibilities. Each new character brings a unique audio element, from deep, distorted bass to ghostly hums and eerie synths. These additions enable players to experiment with different styles, from suspenseful horror themes to hypnotic, atmospheric beats.
+

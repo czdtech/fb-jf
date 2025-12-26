@@ -27,6 +27,7 @@ The Sprunki Red Sun Mod plunges the familiar Sprunki universe into a dramatic, f
  - **High-Impact Interactions:** New sound effects and visual flares appear as you mix tracks, creating a dynamic and immersive musical journey.
  
  
+<!-- i18n:section:how-to-play -->
 ### How to Play Sprunki Red Sun Mod?
  
  - **Select Your Flame-Infused Characters:** Choose from a roster of Sprunki characters that have been reimagined with fiery designs and dynamic animations, each emitting heat-infused sounds.
@@ -43,3 +44,4 @@ The Sprunki Red Sun Mod plunges the familiar Sprunki universe into a dramatic, f
  
  
 If you crave a musical journey that challenges the limits of your senses, then Sprunki Red Sun is definitely the perfect choice for you! Come and join Sprunki Red Sun, and use your music to ignite this doomsday world and let the notes burn with raging flames!
+

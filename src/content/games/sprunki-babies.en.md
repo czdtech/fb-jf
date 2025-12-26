@@ -16,6 +16,7 @@ tags:
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 Ready for some seriously cute music-making that also sparks endless creativity? Say hello to Sprunki Babies! This charming music sandbox puts you in charge of a crew of adorable baby Sprunki characters, each ready to lend their unique musical voice to your compositions. Best part? No music theory degree required – just pure creativity and a love for fun!
  
 ### So, What's the Deal with Sprunki Babies?
@@ -45,3 +46,4 @@ It’s ridiculously easy!
 ### Bottom Line:
  
 Sprunki Babies is a delightful and incredibly creative musical playground. It throws traditional music-making barriers out the window, replacing complexity with intuitive fun and playful interaction. Watching the screen turn into a living canvas where sounds and cute characters dance together is just pure joy. Whether you're a kid discovering rhythm or an adult seeking a fun creative escape, Sprunki Babies has something special to offer. Ready to compose your next masterpiece with the help of these adorable Sprunki Babies?
+

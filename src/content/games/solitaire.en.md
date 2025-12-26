@@ -19,6 +19,7 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 "Solitaire" is the classic single-player card game where players arrange cards in specific sequences and suits, aiming to move all cards to foundation piles and clear the tableau. This timeless puzzle game is widely popular for its simple-to-learn but strategy-requiring characteristics.
@@ -31,6 +32,7 @@ releaseDate: 2025-08-16
 4.  **Foundation Pile Management**: Move cards to foundation piles at appropriate times, but be aware you might need these cards to help other moves.
 5.  **Utilize Waste Pile**: Make good use of cards in the waste pile to complete necessary moves.
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 
 *   **Move Cards**: Click and drag cards to appropriate positions.
@@ -38,6 +40,7 @@ releaseDate: 2025-08-16
 *   **Auto-move**: Double-clicking cards may automatically move them to appropriate foundation piles (if possible).
 *   **Undo**: Some versions provide undo functionality to reverse moves.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions
 
 1.  **Q: What are foundation piles?**
@@ -48,3 +51,4 @@ releaseDate: 2025-08-16
     **A**: Not all card layouts have solutions; when encountering unsolvable situations, you can start a new game.
 4.  **Q: How does the scoring system work?**
     **A**: Usually based on completion time, number of moves, and number of hints used.
+

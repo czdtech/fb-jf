@@ -17,6 +17,7 @@ tags:
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 Are you fond of Sprunkr's unique gameplay, and also have a soft spot for Sprunki's cute characters? Then Sprunkr But Sprunki Mod will definitely satisfy all your fantasies! This creative Mod cleverly combines Sprunkr's game mechanics with Sprunki's inspired designs, bringing a refreshing experience to fans of both universes.
  
 ### What is Sprunkr But Sprunki Mod?
@@ -31,6 +32,7 @@ Sprunkr But Sprunki Mod is a creative twist on the original Sprunkr mod, replaci
  - **Engaging Gameplay:** Combines the best of Sprunkr’s mechanics with the creativity of Sprunki characters.
  
  
+<!-- i18n:section:how-to-play -->
 ### How to Play Sprunkr But Sprunki Mod:
  
  - **Select Characters:** Choose from the Sprunki-themed roster, each offering unique sounds and animations.
@@ -42,3 +44,4 @@ Sprunkr But Sprunki Mod is a creative twist on the original Sprunkr mod, replaci
 ### Conclusion:
  
 Sprunkr But Sprunki Mod is a delightful crossover that adds a refreshing twist to the original gameplay. Dive into this mod and experience the best of both worlds! Whether you want to immerse yourself in the vibrant visuals of Sprunkr But Sprunki Mod or immerse yourself in its dynamic soundscapes, you will find endless happiness and satisfaction here!
+

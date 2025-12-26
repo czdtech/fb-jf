@@ -18,6 +18,7 @@ releaseDate: 2025-12-04T00:00:00.000Z
  
 This mod is a reworked version of an existing mod titled "Sprunki Cats Game."
  
+<!-- i18n:section:how-to-play -->
 ### How to Play Sprunki Meets The Cat Spell?
  
 The Sprunki Cats Mod takes the beloved Incredibox Sprunki gameplay and adds a charming twist by reimagining all characters with cat ears and a general feline design. This mod introduces 20 cat-themed Sprunki characters, each bringing their own unique sounds, vocals, effects, and beats to your musical creations. With seven avatars to customize, you can replace them with your favorite cat Sprunki characters, creating a harmonious blend of music and cuteness that is sure to captivate players of all ages. 🐾🎨🎶
@@ -30,3 +31,4 @@ The gameplay is very simple, you can get started in a few steps:
  - **Experiment and Adjust:** Remove or swap sounds by dragging icons off characters or replacing them with new ones. Listen to how the layers interact and tweak them to create a cohesive mix.
  - **Unlock Bonuses (Optional):** Certain sound combinations may trigger special animations or bonus tracks—experiment to discover these hidden features.
  - **Save and Share:** Once satisfied with your mix, use the game’s save or share feature to record your creation or share it with others.
+

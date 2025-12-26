@@ -28,6 +28,7 @@ Want to ignite your musical creativity with the passionate Brazilian flair? Supe
  
 Simply put, Super Sprunki Brasil is a music game that allows you to experience Brazilian flair. The game's bright colors, enthusiastic characters, and rich Brazilian musical elements will immerse you in a vibrant and culturally rich musical world.
  
+<!-- i18n:section:how-to-play -->
 ### How to Play Super Sprunki Brasil?
  
 The gameplay is very simple, master the following points, and you can also play the samba rhythm:
@@ -61,3 +62,4 @@ The gameplay is very simple, master the following points, and you can also play 
 ### Conclusion:
  
 Super Sprunki Brasil is an Incredibox Mod that allows you to ignite your musical creativity with the passionate Brazilian flair. Come and join Super Sprunki Brasil, and use your music to convey the passion and vitality of Brazil to the world!
+

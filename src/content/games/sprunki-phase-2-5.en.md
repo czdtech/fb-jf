@@ -13,6 +13,7 @@ tags:
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 Feeling like regular music games are a bit too predictable? Craving something unexpected and maybe a little wild? Then Sprunki Phase 2.5 (JOKE MOD) is guaranteed to grab your attention (or maybe give you a jump scare)! This isn't your average rhythm game; it's a fantastic adventure blending creativity, surprise, and even a dash of dark humor, designed to make you laugh and maybe even get your pulse racing!
  
 ### So, What's the Deal with Sprunki Phase 2.5 (JOKE MOD)?
@@ -44,3 +45,4 @@ The real kicker in Sprunki Phase 2.5 is its "JOKE MOD" mechanic. When you place 
 ### Wrapping Up:
  
 Sprunki Phase 2.5 (JOKE MOD) isn't just a game; it's a musical adventure packed with surprises and twists. It perfectly balances lighthearted fun with unexpected dark humor, giving you a uniquely thrilling experience while you compose. Get ready to dive into the world of Sprunki Phase 2.5 – drag, drop, mix, match, create awesome music, and always be prepared for that heart-pounding "surprise"!
+

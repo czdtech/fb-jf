@@ -17,6 +17,7 @@ tags:
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 Are you craving a musical journey that challenges the limits of your senses? Sprunki Virus will take you into a virus-infested Sprunki world, using eerie soundscapes, glitchy graphics, and intense gameplay mechanics to bring you an unprecedented thrilling experience!
  
 ### What is Sprunki Virus?
@@ -40,3 +41,4 @@ Sprunki Virus takes the familiar Sprunki universe and transforms it into a haunt
  
  
 If you like dark, immersive themes and enjoy pushing the boundaries of your music-making skills, then Sprunki Virus is definitely the perfect addition to your gaming library. Come and join Sprunki Virus, let the virus ignite your creative inspiration, and start a thrilling musical adventure!
+

@@ -28,6 +28,7 @@ Sprunki: Cool As Ice is more than just a skin change! It completely subverts you
  
 ---
  
+<!-- i18n:section:how-to-play -->
 ### How to Play Sprunki: Cool As Ice?
  
 It's actually very simple, just master these points:
@@ -60,3 +61,4 @@ It's actually very simple, just master these points:
 ### Conclusion:
  
 Sprunki: Cool As Ice is a major innovation in the Incredibox family, and it brings a new perspective to music creation through its unique winter theme. The engaging gameplay, unique sound library, and strong community interaction make Sprunki: Cool As Ice an essential experience for both Incredibox enthusiasts and newcomers! Come and join Sprunki: Cool As Ice, use your music to light up this cold winter!
+

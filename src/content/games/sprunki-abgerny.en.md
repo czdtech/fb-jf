@@ -19,6 +19,7 @@ releaseDate: 2025-12-04T00:00:00.000Z
  
 Sprunki Abgerny isn't just a regular music game, it's a tribute to ancient cultures and an exploration of the endless possibilities of music. Here, you can not only create music, but also feel the heritage and fusion of cultures.
  
+<!-- i18n:section:tips -->
 ### The Core Gameplay of Sprunki Abgerny:
  
  - **Become a Tribal Leader:** Lead your tribe of beatboxers and use your musical talent to make them play awe-inspiring melodies.
@@ -34,3 +35,4 @@ Sprunki Abgerny isn't just a regular music game, it's a tribute to ancient cultu
  
  
 **Whether you're an experienced musician or a curious beginner, Sprunki Abgerny offers endless fun, sparking creativity with its unique ethnic twist. Come and join Sprunki Abgerny, and awaken the primal musical soul with ancient beats!**
+

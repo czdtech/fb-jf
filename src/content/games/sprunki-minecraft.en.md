@@ -15,6 +15,7 @@ tags:
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 Ever dreamed that every block you place in Minecraft could not only build wonders but also compose music? Welcome to the amazing world of Sprunki Minecraft, where the freedom of building meets the pulse of music in a perfect blend, offering you an unprecedented sandbox gaming experience!
  
 ### What the Heck is Sprunki Minecraft?
@@ -49,3 +50,4 @@ The biggest difference? In most other games, music is just background ambiance. 
 Sprunki Minecraft stands as a groundbreaking fusion of block-building and musical creation. It takes the familiar voxel construction gameplay and radically transforms it with rhythm-based mechanics, injecting something genuinely new into the sandbox genre. When you dive in, building in sync with the beat, watching your creations pulse with life, there's an almost zen-like, magical experience to be had.
  
 Sprunki Minecraft proves that innovation can still flourish within familiar gameplay loops. If you're looking for a fresh, incredibly creative gaming experience, Sprunki Minecraft will definitely blow your mind and get you grooving!
+

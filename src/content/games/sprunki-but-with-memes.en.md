@@ -16,6 +16,7 @@ tags:
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 Meme lovers and music fans, get ready to welcome an unprecedented audio-visual feast! Sprunki but with memes is not just an ordinary music game, it is a revolution that combines memes and notes with passion, and is sweeping the entire Internet!
  
 ### What is Sprunki but with memes?
@@ -47,3 +48,4 @@ Y'ALL WON'T BELIEVE how AMAZING our Sprunki but with memes family is! We're talk
  
  
 Sprunki but with memes is a music game that allows you to create as much as you want in the sea of memes. Come and join Sprunki but with memes, and use your unique musical talents to ignite a meme craze!
+

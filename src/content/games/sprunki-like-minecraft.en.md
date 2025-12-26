@@ -16,6 +16,7 @@ tags:
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 Are you both a loyal fan of Incredibox Sprunki and a passionate lover of the pixel world of Minecraft? Then the Sprunki Like Minecraft Mod will definitely brighten your eyes! This unique Mod reimagines the Sprunki characters with Minecraft's iconic blocky elements, bringing a refreshing visual experience while retaining Sprunki's classic gameplay.
  
 ### What is Sprunki Like Minecraft Mod?
@@ -29,8 +30,10 @@ Sprunki Like Minecraft Mod is a creative fusion of Incredibox Sprunki and the ic
  - **Creative Musical Fun:** Experience endless sound combinations for an immersive experience.
  
  
+<!-- i18n:section:how-to-play -->
 ### How to Play the Music in Sprunki Like Minecraft Mod?
  
 This Incredibox Sprunki Like Minecraft Mod perfectly meets the needs of Minecraft and Sprunki fans, providing a fun and creative cross-border experience. Dive into this blocky world and start your musical creation journey now!
  
 What are you waiting for? Come to the world of Sprunki Like Minecraft, let the notes collide with pixels, and play your Minecraft melody at your fingertips! If you also want to try other Sprunki series Mods, such as Sprunki Interactive 1.0, Sprunki Kiss Edition and Sprunki Melodies, then act quickly!
+

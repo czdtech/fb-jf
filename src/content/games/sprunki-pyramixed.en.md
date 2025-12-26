@@ -17,6 +17,7 @@ tags:
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 Are you craving a music game that lets you experience the thrill of rhythm while showcasing your personality? Welcome to the world of Sprunkgerny Pyramixed 0.9! This game cleverly combines rhythm gameplay with character customization, allowing you to unleash your musical creativity while creating your own personalized avatar.
  
 ### What is Sprunkgerny Pyramixed 0.9?
@@ -31,6 +32,7 @@ Sprunkgerny Pyramixed 0.9 is an innovative music creation game that breaks the s
  - **Fun and Interesting Animation Effects:** When your musical work leaps onto the screen in Sprunkgerny Pyramixed 0.9, you will appreciate amazing animation effects that make your creation more vivid.
  
  
+<!-- i18n:section:how-to-play -->
 ### How to Play Sprunkgerny Pyramixed 0.9:
  
  - **Visit the Sprunkly Play Website:** First, you need to visit the Sprunkly Play website and then select Sprunkgerny Pyramixed 0.9 to start your musical creation journey.
@@ -48,3 +50,4 @@ The development of Sprunkgerny Pyramixed 0.9 focused on creating a perfect blend
 Today, Sprunkgerny Pyramixed 0.9 stands as a unique musical creation platform where character customization and rhythm-based gameplay combine to create an unforgettable interactive music experience.
  
 Join the vibrant Sprunkgerny Pyramixed 0.9 community and share your musical masterpieces. Whether you're a rhythm game enthusiast or a budding musician, this innovative platform offers endless possibilities for creative expression!
+

@@ -18,6 +18,7 @@ tags:
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 Do you dare to dive into the dark side of music? Are you craving a creative experience that gets your heart pounding and sends shivers down your spine? Sprunki Phase 8 is here, and it's more than just rhythm – it's a chilling adventure! This latest chapter takes you into a brand new Sprunki world filled with horror elements and an eerie atmosphere.
  
 ### What Exactly is Sprunki Phase 8?
@@ -38,3 +39,4 @@ If you're tired of run-of-the-mill music games and crave something more exciting
 ### Wrapping Up:
  
 Sprunki Phase 8 is a bold experiment that successfully marries music creation with horror aesthetics. It offers a platform brimming with mystery and creativity, allowing you to have fun with music while exploring the darker side. If you're curious about the evolution of the Sprunki universe, checking out previous chapters like the iconic Sprunki Phase 7 is also worthwhile. But for now, are you ready for the challenge? Jump into Sprunki Phase 8, unleash your inner dark artist, and compose your own thrilling symphony!
+

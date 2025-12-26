@@ -16,6 +16,7 @@ tags:
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 Hey! Remember those cool, slightly glitchy screens from 90s computers? Want to relive that vibe and maybe make some music while you're at it? Then Sprunki 1996 is totally gonna blow your mind! This fan-made Incredibox mod, crafted by the awesome Draker using Scratch, is like a time machine straight back to the golden age of pixel art and retro electronic tunes!
  
 ### So, What Exactly is Sprunki 1996?
@@ -47,3 +48,4 @@ Playing Sprunki 1996 is still super intuitive, but with double the fun:
 ### Let's Wrap It Up:
  
 Sprunki 1996 is a music game brimming with creativity and nostalgia. It uses a unique 90s retro computer aesthetic combined with simple, fun music creation gameplay to offer a fresh experience for fans of Sprunki and Incredibox. Whether you want to relive the golden days of the 90s or try a novel way of making music, Sprunki 1996 is definitely worth exploring. Go boot up your "old computer" and start creating your own retro beats in the pixelated world of Sprunki 1996! Have fun!
+

@@ -27,6 +27,7 @@ Simply put, Sprunki Play Random turns music creation into an adventure full of u
  
 ---
  
+<!-- i18n:section:how-to-play -->
 ### How to Play Sprunki Play Random?
  
 The operation is very simple, you can easily do it with a mouse or finger:
@@ -62,3 +63,4 @@ The operation is very simple, you can easily do it with a mouse or finger:
  - **Unique Randomness:** Each creation is a brand new experience, making you always full of expectations.
  - **Simple and Easy-to-Use Operation:** Continues the classic gameplay of Incredibox, allowing you to easily get started.
  - **Full of Exploration Fun:** Discover hidden sound combinations, unlock special animations and bonus tracks, making your creation process full of surprises.
+

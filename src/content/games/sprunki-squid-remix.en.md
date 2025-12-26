@@ -16,6 +16,7 @@ tags:
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 Hey, rhythm masters! Ready for a music challenge that gets your heart pounding and palms sweating? Sprunki Squid is here! This isn't your average music creation game; it's an electrifying crossover mod that perfectly blends Sprunki's musical magic with the intense suspense of the phenomenal series, Squid Game!
  
 ### What the Heck is Sprunki Squid?
@@ -41,3 +42,4 @@ Once you've crafted music that makes even *you* feel the tension, don't forget t
 ### Wrapping Up:
  
 Sprunki Squid is a brutal game of music and survival. It uniquely merges two vastly different cultural phenomena, bringing an experience that feels both familiar and refreshingly new. If you crave excitement and love a challenge, Sprunki Squid is an absolute must-try. Take a deep breath, step into the world of Sprunki Squid, and use your sense of rhythm to survive this musical life-or-death match! Good luck!
+

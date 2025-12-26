@@ -14,6 +14,7 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 "Smash Karts" is a multiplayer online kart racing game where players compete in fast-paced races, collect power-ups, and battle opponents while racing through various tracks in colorful 3D environments. The game combines classic kart racing with combat elements, providing players with exciting and fun multiplayer gaming experience.
@@ -26,6 +27,7 @@ releaseDate: 2025-08-16
 4.  **Tactical Cooperation**: Coordinate with teammates in team modes to fight against enemy players.
 5.  **Timing**: Choose the right moments to use power-ups and launch attacks.
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 
 *   **Movement**: Use WASD keys or arrow keys to control kart movement.
@@ -33,6 +35,7 @@ releaseDate: 2025-08-16
 *   **Use Power-ups**: Typically use spacebar or mouse click to use collected power-ups.
 *   **Drift**: Master drifting techniques to maintain speed while turning.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions
 
 1.  **Q: How do I get power-ups?**

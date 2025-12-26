@@ -31,6 +31,7 @@ The core of **Sprunki Retake New Human** is to reimagine the classic Incredibox 
  - **Vivid Animation Effects:** As you progress through the game, you'll find that **Sprunki Retake New Human** presents a variety of dynamic animations that capture human traits, making interactions more interesting and immersive.
  
  
+<!-- i18n:section:how-to-play -->
 ### How to Play Sprunki Retake New Human?
  
 Want to experience the charm of **Sprunki Retake New Human**? The operation is very simple:
@@ -54,3 +55,4 @@ Want to experience the charm of **Sprunki Retake New Human**? The operation is v
 The birth of **Sprunki Retake New Human** stems from the desire to inject new life into the classic Incredibox experience. This innovative Mod reimagines beloved characters in human form, offering a fresh perspective on the game. The development of **Sprunki Retake New Human** focused on creating unique humanoid designs for each character while preserving the core game mechanics that fans love.
  
 Today, **Sprunki Retake New Human** stands as a testament to creative Modding, where familiar gameplay meets innovative visual design for an engaging new experience. Join the growing **Sprunki Retake New Human** community and share your experiences with this exciting Mod! Whether you're a long-time fan or new to the series, this unique interpretation of the classic offers a brand new perspective!
+

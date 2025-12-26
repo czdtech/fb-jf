@@ -14,6 +14,7 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 "Stickman Hook" is a physics-based swinging game where players control a stickman character, using grappling hooks to swing through levels, avoiding obstacles and performing acrobatic moves to reach the finish line. The game is widely popular for its smooth swinging mechanics and addictive physics gameplay.
@@ -26,12 +27,14 @@ releaseDate: 2025-08-16
 4.  **Obstacle Prediction**: Observe obstacles ahead and plan safe swinging routes.
 5.  **Acrobatic Performance**: Try performing flips and spins for added fun.
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 
 *   **Grapple**: Click or hold to fire the hook and grab onto anchor points.
 *   **Release**: Release the button to let go of the hook and use inertia to continue forward.
 *   **Swing**: Use physics swinging mechanics to gain momentum and direction.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions
 
 1.  **Q: How do I get more swinging power?**

@@ -14,6 +14,7 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 "Snake Game" is the classic arcade game where players control a growing snake to eat food items while avoiding collisions with walls and the snake's own body, aiming to achieve the highest possible score. This game has become one of the most classic works in gaming history due to its simple yet addictive gameplay.
@@ -26,6 +27,7 @@ releaseDate: 2025-08-16
 4.  **Boundary Awareness**: Always be aware of game boundaries to avoid accidental wall collisions.
 5.  **Body Management**: As the snake body gets longer, manage the snake's body position more carefully.
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 
 *   **Move Up**: Press up arrow key or W key to move up.
@@ -33,6 +35,7 @@ releaseDate: 2025-08-16
 *   **Move Left**: Press left arrow key or A key to move left.
 *   **Move Right**: Press right arrow key or D key to move right.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions
 
 1.  **Q: Does the snake's movement speed change?**
