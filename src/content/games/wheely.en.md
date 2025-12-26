@@ -12,10 +12,12 @@ developer: ""
 releaseDate: 2025-08-16
 ---
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 Wheely is a beloved series of point-and-click puzzle adventure games starring an endearing red car named Wheely. Each game in the series presents a new journey for Wheely, filled with environmental puzzles that players must solve by interacting with various objects and mechanisms in the scene. The games are known for their charming visuals, intuitive controls, and clever challenges.
 
+<!-- i18n:section:tips -->
 ### Gameplay Guide
 
 The core gameplay involves observing the scene and figuring out the correct sequence of interactions to help Wheely progress.
@@ -24,6 +26,7 @@ The core gameplay involves observing the scene and figuring out the correct sequ
 - **Solve Puzzles:** Each level is a self-contained puzzle. You might need to open gates, build bridges, or clear paths by manipulating the environment.
 - **Collect Stars:** Many levels include optional stars to collect, adding an extra layer of challenge.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - **Mouse:** All interactions are done with the mouse.
@@ -31,6 +34,7 @@ The core gameplay involves observing the scene and figuring out the correct sequ
     - **Click on Wheely:** Click Wheely to start or stop his movement.
     - **Drag/Rotate:** Some puzzles may require clicking and dragging or rotating certain elements.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
 **What is the main objective of Wheely games?**
@@ -44,4 +48,5 @@ Yes, the Wheely series is generally considered family-friendly and suitable for 
 **How many Wheely games are there?**
 
 The Wheely series has many installments, each offering new adventures and puzzles for players to enjoy.
+
 

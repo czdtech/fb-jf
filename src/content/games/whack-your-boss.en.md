@@ -12,10 +12,12 @@ developer: ""
 releaseDate: 2025-08-16
 ---
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 Whack Your Boss is a popular and darkly humorous interactive animation game designed to let players vent their office frustrations in a comical way. The game presents a static office scene filled with various objects. Your goal is to click on these objects to discover different, often over-the-top and hilarious, animations of "whacking" your boss.
 
+<!-- i18n:section:tips -->
 ### Gameplay Guide
 
 The gameplay is simple:
@@ -24,10 +26,12 @@ The gameplay is simple:
 - **Discover:** The main challenge and fun come from finding all the hidden ways to "whack" the boss. There are usually many methods to uncover.
 - **Reset:** After each animation, a "Cleaner" option typically appears, allowing you to reset the scene and try another object.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - **Mouse:** Use your mouse to hover over and click on interactive objects in the scene.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
 **What is the objective of the game?**
@@ -41,4 +45,5 @@ Yes, there are several versions of "Whack Your Boss" and similar games, each off
 **Is the game violent?**
 
 While the theme involves "whacking" a boss, the animations are highly stylized, cartoonish, and often absurd, making them more humorous than genuinely violent.
+
 

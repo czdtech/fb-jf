@@ -12,10 +12,12 @@ developer: ""
 releaseDate: 2025-08-16
 ---
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 Word Connect is a popular and relaxing word puzzle game that challenges players to form words by connecting letters. Typically, a set of letters is arranged in a circular pattern, and players swipe their finger (or mouse) across them to spell out words. The goal is to find all the hidden words that fit into a crossword-style grid above.
 
+<!-- i18n:section:tips -->
 ### Gameplay Guide
 
 - **Forming Words:** Swipe your finger from one letter to the next in the circular arrangement to spell a word. Release to submit.
@@ -24,11 +26,13 @@ Word Connect is a popular and relaxing word puzzle game that challenges players 
 - **Shuffling:** Use the shuffle button to rearrange the letters, which can help you see new word combinations.
 - **Hints:** Use coins to get hints that reveal a letter in a word if you get stuck.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - **Swipe/Drag:** Use your finger (on mobile) or mouse (on PC) to drag across the letters to form words.
 - **Click:** Click on the shuffle or hint buttons.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
 **How do I earn coins?**
@@ -42,4 +46,5 @@ Most versions of Word Connect do not have a time limit, allowing players to solv
 **What makes a word valid?**
 
 Words must be at least three letters long and must be valid English words found in the game's dictionary.
+
 

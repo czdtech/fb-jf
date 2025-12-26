@@ -12,10 +12,12 @@ developer: ""
 releaseDate: 2025-08-16
 ---
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 Brain Test: Tricky Puzzles is a popular and innovative puzzle game that challenges players to think outside the box. Unlike traditional puzzles, this game often requires unconventional solutions, encouraging players to interact with elements on the screen in unexpected ways, including tapping, dragging, and even rotating their device. It's designed to test your creativity and lateral thinking.
 
+<!-- i18n:section:tips -->
 ### Gameplay Guide
 
 Each level presents a unique riddle or puzzle. The solution is rarely straightforward and often involves misdirection or humor.
@@ -24,12 +26,14 @@ Each level presents a unique riddle or puzzle. The solution is rarely straightfo
 - **Experimentation:** Don't be afraid to try anything. If a solution seems too obvious, it's probably a trick!
 - **Hints:** If you get stuck, hints are usually available, but try to solve it yourself first for the most satisfaction.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - **Tap:** Use your finger (on mobile) or mouse (on PC) to tap on objects.
 - **Drag:** Tap and hold, then move your finger/mouse to drag objects.
 - **Multi-touch/Device Rotation:** Some puzzles may require using two fingers or physically rotating your device.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
 **Why are the puzzles so "tricky"?**
@@ -43,4 +47,5 @@ Generally, there is no time limit for solving puzzles, allowing you to take your
 **How do I get hints?**
 
 Hints are typically available after watching an ad or using in-game currency. They provide clues to help you solve the puzzle without giving away the full answer immediately.
+
 

@@ -12,10 +12,12 @@ releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Tiny Football Cup condenses football into quick matches with snappy dribbling and simple set pieces. Offense favors through‑balls and across‑goal finishes; defense rewards shape and timely presses.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Two‑touch play: Pass‑shoot beats dribbling into traffic.
@@ -24,17 +26,22 @@ Tiny Football Cup condenses football into quick matches with snappy dribbling an
 4.  Corners: Mix short corners with box shots.
 5.  GK: Move late; attackers telegraph last‑second angles.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Move/Pass/Shoot per UI; some builds separate lob/ground.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- Q: I can’t get shots off.
+- <!-- i18n:faq:id=faq:tiny-football-cup:i-cant-get-shots-off-eeb8e4f7 -->
+  Q: I can’t get shots off.
   
   A: Pass earlier and shoot first time.
 
-- Q: Defense leaks.
+- <!-- i18n:faq:id=faq:tiny-football-cup:defense-leaks-257c004b -->
+  Q: Defense leaks.
   
   A: Hold shape; switch defenders; avoid chasing.
+
 

@@ -12,10 +12,12 @@ releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Tumble Towers is a stacker where each drop changes center of mass. Good play distributes weight, limits overhangs, and anticipates sway so the tower survives post‑drop jiggles.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Wide bases beat height rushes.
@@ -24,17 +26,22 @@ Tumble Towers is a stacker where each drop changes center of mass. Good play dis
 4.  Pause between drops; let sway settle.
 5.  Trim tops with small pieces for fine leveling.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Aim and drop; rotate if allowed; restart via UI.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- Q: Tower keeps swaying apart.
+- <!-- i18n:faq:id=faq:tumble-towers:tower-keeps-swaying-apart-daab0b88 -->
+  Q: Tower keeps swaying apart.
   
   A: You’re dropping too fast or stacking seam‑on‑seam; stagger and pause.
 
-- Q: Can I salvage a lean?
+- <!-- i18n:faq:id=faq:tumble-towers:can-i-salvage-a-lean-8fa4b483 -->
+  Q: Can I salvage a lean?
   
   A: Counter‑weight on the high side and shorten overhangs.
+
 

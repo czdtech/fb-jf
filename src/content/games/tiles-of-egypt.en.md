@@ -12,10 +12,12 @@ releaseDate: 2025-10-17
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Tiles of Egypt is a strategic, triple-tile matching puzzle game with a captivating ancient Egyptian theme. The game challenges you to clear a board stacked with intricately designed tiles. To do this, you must select three identical tiles and place them in a collection tray at the bottom. Once three matching tiles are in the tray, they disappear. The goal is to clear the entire board, but you must plan carefully, as the collection tray has limited space.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **The Rule of Three:** The entire game is about matching tiles in sets of three. You must select three identical tiles to remove them.
@@ -23,20 +25,26 @@ Tiles of Egypt is a strategic, triple-tile matching puzzle game with a captivati
 3.  **Think Ahead:** Don't just click on the first available match. Look at the tiles underneath and try to prioritize matches that will uncover the most new tiles. This will give you more options and prevent you from getting stuck.
 4.  **Use the Tray as a Buffer:** You can place tiles in the tray that don't immediately form a match. Use this to your advantage to temporarily store a tile while you dig for the other two you need. But be careful not to fill the tray with too many different types of tiles.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 The game is played with simple clicks or taps.
 
 *   **Select a Tile:** Click on any uncovered tile on the board to move it to the collection tray below.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: What is the goal of the game?**
+* <!-- i18n:faq:id=faq:tiles-of-egypt:q-what-is-the-goal-ab58581b -->
+  **Q: What is the goal of the game?**
     *   **A:** To clear all the tiles from the board by collecting them in sets of three in your tray.
 
-*   **Q: Why can't I click on a tile?**
+* <!-- i18n:faq:id=faq:tiles-of-egypt:q-why-cant-i-click-ef881ea9 -->
+  **Q: Why can't I click on a tile?**
     *   **A:** You can only select tiles that are on the top-most layer and are not covered by any other tile. You must clear the tiles above to access the ones below.
 
-*   **Q: What happens if my collection tray is full?**
+* <!-- i18n:faq:id=faq:tiles-of-egypt:q-what-happens-if-my-43071f48 -->
+  **Q: What happens if my collection tray is full?**
     *   **A:** If all the slots in your tray are filled and you cannot make a match of three, you are blocked and will lose the game. You must then restart the level.
+
 

@@ -12,10 +12,12 @@ developer: ""
 releaseDate: 2025-08-16
 ---
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 War of Sticks is a real-time strategy game where you lead a stickman army to liberate your kingdom from the oppressive "Red Empire." Developed by Shoom Games, this title combines resource management, unit training, and tactical combat. Your objective is to build a powerful force, manage your economy, and strategically defeat enemy armies to reclaim your land.
 
+<!-- i18n:section:tips -->
 ### Gameplay Guide
 
 - **Resource Management:** Train miners to gather gold, your primary resource for building units and defenses. You can also convert stone into gold.
@@ -26,10 +28,12 @@ War of Sticks is a real-time strategy game where you lead a stickman army to lib
     - **Wizards:** Support units with special abilities.
 - **Strategic Combat:** Deploy your units, build defensive towers, and observe enemy positions to plan your attacks. A balanced army composition is key to success.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - **Mouse:** Primarily used for all interactions: clicking buttons to train units, selecting units, and directing your army on the battlefield.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
 **What is the main goal of War of Sticks?**
@@ -43,3 +47,4 @@ Train more miners to gather gold. You can also convert collected stone into gold
 **What are the best units to use?**
 
 A diverse army is generally most effective. Shielders provide a strong front line, archers offer ranged support, and barbarians are good for close combat. Wizards can provide valuable crowd control.
+

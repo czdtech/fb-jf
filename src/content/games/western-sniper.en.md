@@ -12,10 +12,12 @@ releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Western Sniper delivers short missions with bandits, explosives, and moving targets. Success means calm reticles, priority picks (rifles/throwers first), and resource care (ammo/time/bonus objectives).
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Priority: Take out ranged threats and explosives.
@@ -24,17 +26,22 @@ Western Sniper delivers short missions with bandits, explosives, and moving targ
 4.  Ammo discipline: Don’t spam; reset aim between shots.
 5.  Optional goals: Attempt only when the field is safe.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Aim with mouse; fire with click; scope/hold breath if supported; reload per UI.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- Q: I miss moving targets.
+- <!-- i18n:faq:id=faq:western-sniper:i-miss-moving-targets-e6ff0d82 -->
+  Q: I miss moving targets.
   
   A: Lead slightly and fire at sway lows; practice pacing.
 
-- Q: Ammo runs out.
+- <!-- i18n:faq:id=faq:western-sniper:ammo-runs-out-7881997a -->
+  Q: Ammo runs out.
   
   A: Take measured shots; save bullets by using environment kills.
+
 

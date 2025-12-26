@@ -12,10 +12,12 @@ releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Tractor Mania is a physics hauler: throttle control and balance keep trailers steady over bumps. Spilled cargo costs rewards; smooth driving beats speed.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Gentle throttle on inclines; avoid wheel‑spin.
@@ -24,17 +26,22 @@ Tractor Mania is a physics hauler: throttle control and balance keep trailers st
 4.  Secure partial loads first on tough routes.
 5.  Upgrade tires/suspension before engines if available.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Throttle/Brake: W/S or Up/Down; Lean: A/D or Left/Right.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- Q: Cargo keeps spilling.
+- <!-- i18n:faq:id=faq:tractor-mania:cargo-keeps-spilling-cd103fe7 -->
+  Q: Cargo keeps spilling.
   
   A: You’re over‑throttling; slow and stabilize before bumps.
 
-- Q: Stuck on hills.
+- <!-- i18n:faq:id=faq:tractor-mania:stuck-on-hills-fee7029a -->
+  Q: Stuck on hills.
   
   A: Approach slower, keep traction, and lean forward gently.
+
 

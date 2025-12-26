@@ -12,10 +12,12 @@ developer: ""
 releaseDate: 2025-08-16
 ---
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 Word Scramble is a classic and engaging word puzzle game that challenges players to rearrange a set of jumbled letters to form a meaningful word. It's a test of vocabulary, pattern recognition, and quick thinking. The game often features various difficulty levels and categories, keeping the gameplay fresh and challenging.
 
+<!-- i18n:section:tips -->
 ### Gameplay Guide
 
 - **Objective:** The main goal is to correctly identify the original word from a given set of scrambled letters.
@@ -24,12 +26,14 @@ Word Scramble is a classic and engaging word puzzle game that challenges players
 - **Hints:** If you get stuck, hints might be available, such as revealing a letter or providing a definition.
 - **Scoring:** Points are typically awarded for correct answers, with bonuses for faster solutions.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - **Typing:** Use your keyboard to type the word you believe is correct.
 - **Rearrange Letters:** Some versions allow you to click and drag letters to rearrange them visually, or have a "shuffle" button.
 - **Submit:** Press `Enter` to submit your answer.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
 **How do I play Word Scramble?**
@@ -43,4 +47,5 @@ Most games offer hints or a "pass" option. You can also try shuffling the letter
 **Are there different types of Word Scramble games?**
 
 Yes, variations include games with different word lengths, categories (e.g., animals, countries), or competitive multiplayer modes where players race to solve the scramble first.
+
 

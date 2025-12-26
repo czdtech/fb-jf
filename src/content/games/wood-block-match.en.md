@@ -12,10 +12,12 @@ releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Wood Block Match is a 10×10‑style block placement game with wooden aesthetics. Each turn you receive a batch of shapes; place them to complete rows/columns and clear space. The session ends when none of the remaining pieces fit — so success is about preserving flexible lanes while engineering multi‑line clears.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Center breathing room: Keep the board center open; tidy edges to prevent single‑cell traps.
@@ -24,21 +26,27 @@ Wood Block Match is a 10×10‑style block placement game with wooden aesthetics
 4.  Double clears: Build two‑line setups so one piece clears both.
 5.  Undo discipline: If available, undo immediately after a placement that seals pockets.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Drag pieces into the grid; rotate if the mode supports it; clear rows/cols score points.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- Q: I run out of space very quickly — what should I change?
+- <!-- i18n:faq:id=faq:wood-block-match:i-run-out-of-space-d59ef83f -->
+  Q: I run out of space very quickly — what should I change?
   
   A: Protect the center, pre‑plan one pocket for awkward pieces, and prefer double‑clear setups over single clears.
 
-- Q: Can I rotate pieces?
+- <!-- i18n:faq:id=faq:wood-block-match:can-i-rotate-pieces-cd6fa3b2 -->
+  Q: Can I rotate pieces?
   
   A: Some variants disallow rotation — compensate with better pocketing.
 
-- Q: Any tip for high scores?
+- <!-- i18n:faq:id=faq:wood-block-match:any-tip-for-high-scores-87d58841 -->
+  Q: Any tip for high scores?
   
   A: Chain consecutive double clears and avoid emergency singles that break structure.
+
 

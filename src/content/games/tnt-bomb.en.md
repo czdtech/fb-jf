@@ -12,10 +12,12 @@ releaseDate: 2025-10-17
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 TNT Bomb is a strategic, physics-based puzzle game where your objective is demolition. In each level, you are presented with a structure and a limited inventory of explosives. Your task is to carefully place your bombs on the structure in a way that will cause the most damage. By identifying key support points and using the right bomb for the job, you must try to obliterate the entire structure to move on to the next challenge.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Analyze the Structure:** Before placing any bombs, examine the structure's design. Look for weak points, key support beams, and load-bearing blocks at the base.
@@ -23,20 +25,26 @@ TNT Bomb is a strategic, physics-based puzzle game where your objective is demol
 3.  **Know Your Explosives:** You will have different types of bombs. A standard TNT stick might be good for a single block, while a larger C4 bomb will have a much bigger blast radius. Use the right tool for the right job.
 4.  **Chain Reactions:** Think about how the explosion will travel. Placing a bomb that causes one part of the structure to fall onto another can create a chain reaction, leading to more destruction than the bomb could achieve on its own.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 *   **Select Bomb:** Click on the type of explosive you want to use from your inventory.
 *   **Place Bomb:** Click on a block within the structure to place the selected bomb.
 *   **Detonate:** Once you have placed all your available bombs, click the "Boom" or "Detonate" button to watch the fireworks.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: What is the goal of each level?**
+* <!-- i18n:faq:id=faq:tnt-bomb:q-what-is-the-goal-7ed4507e -->
+  **Q: What is the goal of each level?**
     *   **A:** The goal is to cause enough destruction to meet the level's requirement, which is usually to destroy a certain percentage of the blocks (often 100%).
 
-*   **Q: Why didn't the building fall down?**
+* <!-- i18n:faq:id=faq:tnt-bomb:q-why-didnt-the-building-60728056 -->
+  **Q: Why didn't the building fall down?**
     *   **A:** You likely placed your bombs in an ineffective location. Try placing them lower down on the main support blocks instead of on the outer walls or at the top.
 
-*   **Q: Can I place more than one bomb?**
+* <!-- i18n:faq:id=faq:tnt-bomb:q-can-i-place-more-9ba6a330 -->
+  **Q: Can I place more than one bomb?**
     *   **A:** Yes, you must place all the bombs provided in your inventory for that level before you can detonate them.
+
 

@@ -12,10 +12,12 @@ releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Slice veggies with sweeping lines, build combo chains, and avoid kitchen hazards (knives/bombs). Long straight cuts and calm rhythm top the scoreboards.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Long strokes through multiple veggies for combo value.
@@ -24,17 +26,22 @@ Slice veggies with sweeping lines, build combo chains, and avoid kitchen hazards
 4.  Use slow‑mo (if any) on dense volleys.
 5.  Reset posture after misses.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Swipe/click‑drag to cut; pause/retry in UI.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- Q: I hit hazards.
+- <!-- i18n:faq:id=faq:veggies-cut:i-hit-hazards-e2582509 -->
+  Q: I hit hazards.
   
   A: Choose clean angles; never finish a line through a hazard.
 
-- Q: How to score high?
+- <!-- i18n:faq:id=faq:veggies-cut:how-to-score-high-602cd322 -->
+  Q: How to score high?
   
   A: Focus on long multi‑cuts and consistent cadence.
+
 

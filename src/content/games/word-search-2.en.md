@@ -12,10 +12,12 @@ releaseDate: 2025-10-17
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Word Search is a classic and beloved word puzzle game. The objective is to find and mark all the words hidden inside a grid of letters. A list of words is provided, and players must scan the grid to locate them. The words can be placed horizontally, vertically, or diagonally, and can be spelled forwards or backwards, making it a fun challenge for your observation skills.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Scan Systematically:** Don't just look randomly. Scan the grid row by row, both forwards and backwards, for the first letter of a word on your list. Then do the same for each column.
@@ -23,20 +25,26 @@ Word Search is a classic and beloved word puzzle game. The objective is to find 
 3.  **Check All Directions:** Remember that words can be hidden in any of the eight directions. Once you find the first letter of a word, check all adjacent letters to see if they continue the word in any direction.
 4.  **Use Hints When Needed:** If you're truly stuck on a word, don't be afraid to use a hint if the game provides one. It will usually reveal the location of the word you're looking for.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 The game is played with a simple click-and-drag motion.
 
 *   **Highlight a Word:** When you find a word, click on the first letter, hold the mouse button down, and drag your cursor to the last letter of the word. Release the button to confirm the word.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: Can words be spelled backwards?**
+* <!-- i18n:faq:id=faq:word-search-2:q-can-words-be-spelled-c7f77602 -->
+  **Q: Can words be spelled backwards?**
     *   **A:** Yes. Words can be spelled forwards, backwards, up, down, and in all four diagonal directions.
 
-*   **Q: How do I win the game?**
+* <!-- i18n:faq:id=faq:word-search-2:q-how-do-i-win-9162cf32 -->
+  **Q: How do I win the game?**
     *   **A:** You win by finding and highlighting every single word from the provided list.
 
-*   **Q: Is there a penalty for guessing wrong?**
+* <!-- i18n:faq:id=faq:word-search-2:q-is-there-a-penalty-bbf14d60 -->
+  **Q: Is there a penalty for guessing wrong?**
     *   **A:** No. If you highlight a selection of letters that is not a word on the list, it will simply un-highlight, and you can try again without penalty.
+
 

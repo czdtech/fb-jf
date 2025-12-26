@@ -12,10 +12,12 @@ developer: ""
 releaseDate: 2025-08-16
 ---
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 Word Wipe is a dynamic and engaging word puzzle game that combines elements of word-finding with a falling-block mechanic. Players are presented with a grid of letters and must quickly find and connect letters to form words. Once a word is formed, the letters disappear, and new letters fall from above, creating a continuous and fast-paced challenge.
 
+<!-- i18n:section:tips -->
 ### Gameplay Guide
 
 - **Objective:** Form words to clear lines and progress through levels. The goal is to clear a certain number of rows within a time limit.
@@ -25,10 +27,12 @@ Word Wipe is a dynamic and engaging word puzzle game that combines elements of w
 - **Scoring:** Longer and more complex words yield higher scores. Speed also contributes to your score.
 - **Bonus Bombs:** Earn special "bombs" that can clear multiple tiles at once, helping you out of tight spots.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - **Mouse/Touch:** Click and drag (or swipe) across adjacent letters to form words.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
 **How do I win in Word Wipe?**
@@ -42,4 +46,5 @@ If you fail to clear the required number of rows before the timer runs out, the 
 **Are there any strategies for high scores?**
 
 Focus on finding longer words and clearing full rows. Try to create chain reactions where clearing one word leads to new opportunities. Use bonus bombs strategically when you're stuck or need to clear a large area.
+
 
