@@ -14,18 +14,22 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Overview
 Daily Crossword provides a new crossword each day with familiar American‑style rules: fill Across and Down answers so all letters cross‑check. Many hosts include timers, clue lists, and tools to check or reveal entries. 
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 - Select a clue or cell and type letters to fill the entry; arrow keys move the cursor.  
 - Use crossings to confirm uncertain answers; return to long entries later.  
 - Daily streaks and leaderboards may be supported depending on the host. 
 
+<!-- i18n:section:controls -->
 ### Controls
 - Type A–Z; arrow keys navigate; Backspace deletes; Enter/Tab switches direction or advances (site‑dependent). 
 
 ### Tips and Strategies
 - Start with short/easy clues, then expand using crossings.  
 - Use Check tools sparingly to avoid time penalties if a host tracks time. 
+
 

@@ -14,6 +14,7 @@ releaseDate: 2025-10-10
 
 
 
+<!-- i18n:section:introduction -->
 ### **Game Introduction**
 
 *Incredibox Andlbox Carol of the Bells* is a charming and festive fan-made mod for the music creation game Incredibox. This version is entirely dedicated to deconstructing and remixing the famous Christmas carol, **"Carol of the Bells."**
@@ -22,6 +23,7 @@ The game features a cast of characters dressed in winter and holiday attire, set
 
 The objective is to allow players to creatively reconstruct their own version of "Carol of the Bells" while also solving the puzzle of finding the three secret animated bonuses. These bonuses are, of course, themed around Christmas, offering delightful visual rewards for musical experimentation.
 
+<!-- i18n:section:tips -->
 ### **Gameplay Strategy & Tips**
 
 The strategy in this mod revolves around understanding how the classic carol is broken down and layering the parts to create a rich, festive sound.
@@ -40,6 +42,7 @@ The strategy in this mod revolves around understanding how the classic carol is 
 
 5.  **Systematic Bonus Hunting**: To find the three festive bonuses, be methodical. Once you have a core mix you enjoy, try swapping out the remaining icons one by one until you trigger one of the special Christmas-themed animations.
 
+<!-- i18n:section:controls -->
 ### **Controls Guide**
 
 The controls are the standard, intuitive drag-and-drop interface of the official Incredibox games.
@@ -49,5 +52,6 @@ The controls are the standard, intuitive drag-and-drop interface of the official
 *   **Mute / Unmute**: **Click** on a performing character to mute them; click again to unmute.
 *   **Solo**: Click the **small button** next to an active character to mute all other performers.
 *   **Record**: Click the **record button** to start and stop recording your festive creation.
+
 
 

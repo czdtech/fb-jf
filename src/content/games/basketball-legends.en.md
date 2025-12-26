@@ -15,12 +15,14 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Introduction
 
 *Basketball Legends* is a fast-paced, 2D arcade basketball game featuring exaggerated, caricature-style versions of famous basketball players. The game strips away the complexities of a simulation and focuses on pure, action-packed fun. Players can compete in 1-on-1 or 2-on-2 matches where the objective is simple: score more points than your opponent before the timer runs out.
 
 The gameplay is characterized by high-flying dunks, powerful blocks, and frantic movement. A key feature is the "Super Shot" mechanic: a special, unblockable shot that players can unleash after filling a power meter. With different modes available, including a quick match, a tournament, and a two-player mode, the game is designed for both solo players looking for a challenge and friends wanting to compete against each other on the same keyboard.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy
 
 Success in *Basketball Legends* is about mastering movement, timing, and the strategic use of your special abilities.
@@ -59,6 +61,7 @@ The game is well-known for its two-player setup on a single keyboard.
 *   **Jump:** `Up Arrow` key
 *   **Super Shot:** `K` key
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
 <!-- i18n:faq:id=faq:basketball-legends:how-do-i-perform-a-7374b543 -->
@@ -80,4 +83,5 @@ While the game features many different characters, their core abilities are gene
 <!-- i18n:faq:id=faq:basketball-legends:can-i-pass-the-ball-eea2c74f -->
 **5. Can I pass the ball in a 2-on-2 match?**
 In most versions of the game, the "shoot" button (`B` or `L`) acts as a "pass" button when your teammate does not have the ball.
+
 

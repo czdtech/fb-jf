@@ -22,6 +22,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 Minecraft is a sandbox video game developed by Mojang Studios. Players explore a 3D world made of blocks, collecting resources, building structures, crafting items, and interacting with various creatures. The game has no specific goals, allowing players to freely create and explore, thus offering a high degree of freedom. Game modes include Survival Mode, Creative Mode, Adventure Mode, and Spectator Mode.
@@ -34,6 +35,7 @@ Minecraft is a sandbox video game developed by Mojang Studios. Players explore a
 4.  **Explore the World**: Discover villages, caves, ruins, and other structures to find rare resources and experience.
 5.  **Develop Agriculture and Animal Husbandry**: Establish farms, raise animals, and fish to secure food sources.
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 
 *   **Movement**: W, A, S, D keys for moving forward, left, backward, and right.
@@ -43,6 +45,7 @@ Minecraft is a sandbox video game developed by Mojang Studios. Players explore a
 *   **Open Inventory**: E key to open the player's inventory for item management and crafting.
 *   **Sneak**: Shift key to sneak, preventing falls from high places.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions
 
 1.  **Q: What are the main game modes in Minecraft?**
@@ -53,3 +56,4 @@ Minecraft is a sandbox video game developed by Mojang Studios. Players explore a
     **A**: Diamonds typically generate deep underground at specific layers and require an iron pickaxe or higher to mine.
 4.  **Q: How do I build an automated farm?**
     **A**: Automated farms usually involve Redstone circuits, pistons, water flows, and other mechanisms to achieve automatic planting and harvesting of crops.
+

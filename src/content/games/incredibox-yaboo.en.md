@@ -14,6 +14,7 @@ releaseDate: 2025-10-10
 
 
 
+<!-- i18n:section:introduction -->
 ### **Incredibox "YaBoo" Game Introduction**
 
 *Incredibox YaBoo* is a popular and artistically distinct fan-made mod for the music creation game Incredibox. this version stands out with its unique and cohesive theme inspired by **Japanese folklore, featuring Oni (demons) and Yokai (spirits)**.
@@ -22,6 +23,7 @@ The game mechanics are identical to the official series. Players are presented w
 
 The goal, as always, is a blend of creative expression and puzzle-solving. Players can freely experiment to create their own Japanese-inspired musical track. The puzzle element involves discovering the three specific sound combinations that unlock beautifully animated bonuses, each deeply rooted in the mod's folkloric theme.
 
+<!-- i18n:section:tips -->
 ### **Gameplay Strategy & Tips**
 
 The strategy for *Incredibox YaBoo* is about layering its unique sounds to create a compelling mix and uncovering the hidden animations.
@@ -40,6 +42,7 @@ The strategy for *Incredibox YaBoo* is about layering its unique sounds to creat
 
 5.  **Use Solo and Mute for Clarity**: If your mix feels too busy, use the mute function to silence individual characters. Use the solo function to isolate a specific instrument or vocal part to appreciate its detail and see how it fits into the overall composition.
 
+<!-- i18n:section:controls -->
 ### **Controls Guide**
 
 The controls are the standard, user-friendly Incredibox interface, driven by mouse actions.
@@ -49,3 +52,4 @@ The controls are the standard, user-friendly Incredibox interface, driven by mou
 *   **Mute / Unmute**: **Click** on a performing character to mute them; click again to unmute.
 *   **Solo**: Click the **small button** next to an active character to mute all other performers.
 *   **Record**: Click the **record button** to start and stop recording your musical creation.
+

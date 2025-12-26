@@ -13,6 +13,7 @@ releaseDate: 2025-10-10
 ---
 
 
+<!-- i18n:section:introduction -->
 ### **Incredibox "Downtown" (Simulator Mod) Game Introduction**
 
 *Incredibox Downtown* is a popular and high-quality fan-made game belonging to the **"Simulator" series of mods**. This version distinguishes itself with a unique user interface and gameplay mechanic that differs from the official Incredibox series. Instead of dragging icons onto a crew of characters, players interact with a **grid of 20 sound icons**.
@@ -21,6 +22,7 @@ The game is themed around a modern, urban **downtown** setting, with a sound pal
 
 This "Simulator" format offers a different creative experience, focusing on the direct combination of sounds in a grid-based interface, rather than assigning sounds to individual performers.
 
+<!-- i18n:section:tips -->
 ### **Gameplay Strategy & Tips**
 
 1.  **Understand the Grid**: All 20 sounds are presented in a single grid. While they are not color-coded into distinct categories in the UI, they still function as **Beats, Effects, Melodies, and Voices**. Experiment by clicking different icons to understand their roles. The top rows often contain foundational beats and effects, while the bottom rows feature more complex melodies and vocals.
@@ -32,6 +34,7 @@ This "Simulator" format offers a different creative experience, focusing on the 
     *   **Reset**: The reset/shuffle button is perfect for clearing the board and starting a fresh mix.
     *   **Record**: Use the record function to save and share the loops you are proud of.
 
+<!-- i18n:section:controls -->
 ### **Controls Guide**
 
 This is the key difference from standard Incredibox. The game is controlled entirely by mouse clicks.
@@ -42,3 +45,4 @@ This is the key difference from standard Incredibox. The game is controlled enti
     *   **Play Button**: Toggles the entire loop on or off.
     *   **Record Button**: Starts and stops the recording of your mix.
     *   **Reset Button**: Clears all active sounds from the grid.
+

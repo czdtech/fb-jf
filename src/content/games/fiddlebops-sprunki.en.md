@@ -17,12 +17,14 @@ tags:
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Fiddlebops Sprunki Introduction
  
 The Fiddlebops Sprunki breathes new life into the original Sprunki game by adding a delightful twist. With its charming characters, vivid visuals, and lighthearted gameplay, it offers players a chance to enjoy a more whimsical and less stressful gaming experience.
  
 ---
  
+<!-- i18n:section:tips -->
 ### Fiddlebops Sprunki Gameplay
 
  - Start with Characters: Choose from a set of eerie yet charming characters, each with its own sound or vocal loop.
@@ -41,3 +43,4 @@ This mod shifts the focus from the intense mechanics of the original game to a m
 ### Perfect for All Ages
  
 One of the standout aspects of the Fiddlebops Sprunki is its universal appeal. The whimsical avatars and playful animations make it a hit with younger audiences, while its charm and humor can easily captivate adult players as well. Whether you're looking for a solo adventure or a shared experience with friends or family, this mod delivers endless entertainment.
+

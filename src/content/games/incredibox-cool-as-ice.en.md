@@ -29,6 +29,7 @@ In the Cool as Ice Mod, the familiar Incredibox characters have been transformed
  
 ---
  
+<!-- i18n:section:tips -->
 ### Icy Gameplay, Easy to Pick Up:
  
  - **Choose Icy Characters:** Start by selecting from the newly frosted lineup of characters. Each one brings a new twist on classic sounds, with a wintery chill. There are more than 20 unique ice-themed characters in the game, each with its own personality.
@@ -51,3 +52,4 @@ In the Cool as Ice Mod, the familiar Incredibox characters have been transformed
 ### Conclusion:
  
 The Incredibox Cool as Ice Mod is perfect for fans who love both music-making and seasonal themes. Dive into this frosty version to experience Incredibox like never before, bringing a cool twist to your sound creations. Come to Incredibox Cool as Ice now, add some ice to your music creation, and make this winter no longer monotonous! If you want to try more Sprunki games, such as Sprunki Infection or Sprunki CorruptBox: Cool As Ice, then go and explore them!
+

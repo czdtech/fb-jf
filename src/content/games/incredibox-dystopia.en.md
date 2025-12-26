@@ -14,6 +14,7 @@ releaseDate: 2025-10-10
 
 
 
+<!-- i18n:section:introduction -->
 ### **Incredibox "Dystopia" Game Introduction**
 
 *Incredibox Dystopia* is a highly acclaimed fan-made mod for the music creation game Incredibox. This version plunges players into a dark, neon-lit **dystopian or cyberpunk future**. The characters are stylized as futuristic figures, some wearing masks or hoods, fitting the oppressive, high-tech urban theme.
@@ -22,6 +23,7 @@ The game follows the classic Incredibox drag-and-drop gameplay. Players compose 
 
 The objective is to foster creativity while providing a puzzle challenge. Players can freely mix and layer sounds to produce their own cinematic, cyberpunk-themed track. The puzzle element involves discovering the three specific combinations that unlock the secret animated bonuses, each one visually representing a core aspect of the dystopian theme.
 
+<!-- i18n:section:tips -->
 ### **Gameplay Strategy & Tips**
 
 Strategy in *Incredibox Dystopia* is about building a powerful, driving electronic beat and layering atmospheric textures to create a cohesive futuristic vibe.
@@ -40,6 +42,7 @@ Strategy in *Incredibox Dystopia* is about building a powerful, driving electron
 
 5.  **Systematic Bonus Hunting**: As with other versions, the best way to find the hidden bonuses is to be methodical. Lock in a few core sounds that form a good base, then systematically try every other icon one by one until you trigger an animation.
 
+<!-- i18n:section:controls -->
 ### **Controls Guide**
 
 The controls are the standard, intuitive drag-and-drop interface of the official Incredibox games.
@@ -49,4 +52,5 @@ The controls are the standard, intuitive drag-and-drop interface of the official
 *   **Mute / Unmute**: **Click** on a performing character to mute them; click again to unmute.
 *   **Solo**: Click the **small button** next to an active character to mute all other performers.
 *   **Record**: Click the **record button** to start and stop recording your musical creation.
+
 

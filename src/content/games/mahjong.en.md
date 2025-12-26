@@ -19,6 +19,7 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 "Mahjongg Solitaire" is a single-player matching game based on traditional Chinese Mahjong tiles. The objective of the game is to clear the entire board by matching pairs of identical, open tiles. Due to its easy-to-understand rules and challenging gameplay, Mahjongg Solitaire is loved by players worldwide.
@@ -30,6 +31,7 @@ releaseDate: 2025-08-16
 3.  **Plan Multiple Moves**: Plan several moves ahead to ensure each step creates favorable conditions for subsequent matches.
 4.  **Use Hints and Shuffles**: Utilize in-game hints or shuffle features when stuck, but use them sparingly to maintain the game's challenge.
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 
 *   **Select Pairs**: Click on two identical and open tiles to remove them.
@@ -38,6 +40,7 @@ releaseDate: 2025-08-16
     *   It is not covered by any tiles above it.
 *   **Game End Conditions**: The game ends when all tiles are successfully removed or when there are no more possible matches.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions
 
 1.  **Q: What if the game doesn't load or start?**
@@ -50,3 +53,4 @@ releaseDate: 2025-08-16
     **A**: Some game versions provide a shuffle feature, allowing you to rearrange the tiles to continue playing.
 5.  **Q: How do I pause the game?**
     **A**: Click the pause button in the game interface to pause the game, and the timer will also stop.
+

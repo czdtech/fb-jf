@@ -14,6 +14,7 @@ releaseDate: 2025-10-10
 
 
 
+<!-- i18n:section:introduction -->
 ### **Incredibox "Creatophobos" Game Introduction**
 
 *Incredibox Creatophobos* is a dark and experimental fan-made mod for the music creation game Incredibox. The name itself is a portmanteau of "Creator" and "Phobos" (the Greek personification of fear), setting the stage for its core theme: **the fear of creation, monstrous beings, and unsettling horror**.
@@ -22,6 +23,7 @@ The game replaces the usual stylish beatboxers with a crew of monstrous, otherwo
 
 The objective, while still rooted in musical creation, shifts from creating a catchy tune to building a **terrifying and immersive soundscape**. The puzzle element of finding the three secret bonuses remains, with the unlocked animations perfectly reflecting the mod's grotesque and nightmarish aesthetic.
 
+<!-- i18n:section:tips -->
 ### **Gameplay Strategy & Tips**
 
 Strategy in *Incredibox Creatophobos* is about embracing the chaos and building tension, rather than harmony.
@@ -40,6 +42,7 @@ Strategy in *Incredibox Creatophobos* is about embracing the chaos and building 
 
 5.  **Use Solo to Deconstruct the Noise**: The soundscape can become very dense and overwhelming. Use the "solo" function to isolate individual sounds. This will help you understand what each monster is contributing to the overall chaos and allow you to make more deliberate creative choices.
 
+<!-- i18n:section:controls -->
 ### **Controls Guide**
 
 The controls are the standard, intuitive drag-and-drop interface of the official Incredibox games.
@@ -49,4 +52,5 @@ The controls are the standard, intuitive drag-and-drop interface of the official
 *   **Mute / Unmute**: **Click** on a performing character to mute them; click again to unmute.
 *   **Solo**: Click the **small button** next to an active character to mute all other performers.
 *   **Record**: Click the **record button** to start and stop recording your monstrous creation.
+
 

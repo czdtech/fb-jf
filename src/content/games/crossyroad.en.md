@@ -14,8 +14,10 @@ tags:
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 Crossy Road is an incredibly popular and addictive endless arcade-style video game developed and published by Hipster Whale. The objective of the game is simple: to cross a series of busy roads, rivers, and train tracks for as long as possible without dying. Its charming voxel art style (similar to 3D pixels) and a vast collection of unlockable characters have made it a global hit on mobile devices and other platforms. The name and concept of the game are a playful reference to the classic joke, "Why did the chicken cross the road?". 
  
+<!-- i18n:section:how-to-play -->
 ### How to Play Crossy Road
  
  -  **Movement:** Players control their character by tapping the screen to hop forward one lane at a time, or swiping left, right, and down to move in those directions. The goal is to keep moving forward. 
@@ -38,6 +40,7 @@ Crossy Road is an incredibly popular and addictive endless arcade-style video ga
  
 ---
  
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
  
  **Q: How do I get new characters?**  **A:** There are three main ways: 1) Use 100 coins in the prize machine for a random character. 2) Collect free gifts that appear every few hours. 3) Some secret characters are unlocked by performing specific actions in the game with certain characters. 
@@ -45,3 +48,4 @@ Crossy Road is an incredibly popular and addictive endless arcade-style video ga
  **Q: What's the point of the coins?**  **A:** Their only purpose is to be used in the prize machine to unlock new characters. They do not affect your score or gameplay abilities. 
  
  **Q: Why did an eagle take me away?**  **A:** This happens when you stay in one place for too long or move too many steps backward. The game is designed to keep you moving forward.
+

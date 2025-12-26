@@ -14,6 +14,7 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 "Minesweeper" is a classic single-player puzzle game. The objective is to uncover a grid of squares, find all hidden "mines" without detonating them. Through numerical clues, players can infer the number of mines hidden around each square, gradually clearing safe areas and marking minefields.
@@ -26,12 +27,14 @@ releaseDate: 2025-08-16
 4.  **Prioritize Certainty**: Focus on areas where mines or safe squares can be definitively determined.
 5.  **Handle Uncertainty**: In situations without clear clues, make reasonable guesses but try to minimize risk.
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 
 *   **Left-click**: Uncover a square.
 *   **Right-click (or long-press)**: Flag or unflag a mine.
 *   **Double-click Numbered Square**: When all mines around a numbered square have been correctly flagged, double-clicking that numbered square will instantly uncover all surrounding unrevealed safe squares.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions
 
 1.  **Q: Is there a guaranteed winning strategy for Minesweeper?**

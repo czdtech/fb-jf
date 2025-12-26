@@ -20,6 +20,7 @@ releaseDate: 2025-12-04T00:00:00.000Z
  
 Simply put, this remix version is like a cross-border collaboration in the music industry, letting the weird notes of Dandyrunki Retake to create unexpected sparks. Even better, you don't need to download anything, just open your browser and you can enjoy this creative game anytime, anywhere!
  
+<!-- i18n:section:tips -->
 ### Dandyrunki Retake Core Gameplay:
  
  - **Character Selection:** Choose your musical partners from the many characters in Dandyrunki Retake. Each character has unique sound and visual effects to make your creation full of personality.
@@ -39,3 +40,4 @@ Simply put, this remix version is like a cross-border collaboration in the music
 ### Easy to Operate, Endless Fun:
  
 In the Dandyrunki Retake, you can easily get started and effortlessly explore various rhythms and melodies. Whether you are a casual player or a music enthusiast, you can find your own fun in this remix version. Come and join Dandyrunki Retake and start your music creation journey!
+

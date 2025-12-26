@@ -13,6 +13,7 @@ tags:
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 Are you yearning to step into a musical kingdom brimming with fantastical charm? Fiddlebops But Dandy's World awaits your exploration! Imagine, you're not just sitting in front of a screen, but transforming into Dandys World's guide, leading a quirky crew of Fiddlebops companions through a series of surprising musical landscapes.
  
 ## Just what is so special about Fiddlebops But Dandy's World?
@@ -39,3 +40,4 @@ Just what sort of magic does this Mod possess, captivating so many?
 With the blessing of Dandys World, previously ordinary notes are now vibrantly alive. Every click feels like waving a magic wand, creating a musical world brimming with fantastical color.
  
 Come to Fiddlebops But Dandy's World, and let your musical inspiration bloom to its fullest potential under the fantastical power of Dandys World!
+

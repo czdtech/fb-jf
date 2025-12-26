@@ -16,8 +16,10 @@ tags:
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 *60 Second Burger Run* is an exciting and colorful speed-running platformer where your main goal is to reach a closing burger shop within a strict 60-second time limit! You control a cheerful, chubby hero who loves tasty fast food, and you must guide him through a series of challenging stages as quickly as possible. The game tests your reaction time, precision jumping, and ability to quickly memorize paths to pass as many levels as you can before the timer hits zero. 
  
+<!-- i18n:section:how-to-play -->
 ### How to Play 60 Second Burger Run
  
  -  **The Objective:** You have a total of 60 seconds to complete as many stages as possible. The ultimate goal of each stage is to run to the bus stop, get on the bus, and proceed to the next level. 
@@ -38,6 +40,7 @@ releaseDate: 2025-12-04T00:00:00.000Z
  
 ---
  
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
  
  **Q: How do I win the game?**  **A:** The game is an endless "time attack." The goal isn't to reach a final ending, but to see how many levels you can successfully complete within the 60-second time limit. A higher number of completed levels means a better score. 
@@ -45,3 +48,4 @@ releaseDate: 2025-12-04T00:00:00.000Z
  **Q: What happens if I hit a spike or fall?**  **A:** If you hit an obstacle, you will immediately restart the current level from its beginning. However, the main 60-second timer does NOT stop or reset, so mistakes are very costly. 
  
  **Q: How many levels are there in total?**  **A:** The game is designed to see how far you can get in one minute. While there may be a finite number of designed levels, the challenge is in completing as many as possible in a single run, not in reaching a specific final level.
+

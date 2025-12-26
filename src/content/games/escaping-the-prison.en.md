@@ -14,14 +14,17 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Overview
 Henry Stickmin is locked up—use branching choices and slapstick tools to escape. Most options fail hilariously; a few lead to successful endings.
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 - Pick an item/route when prompted; quick‑time moments require timely clicks.
 - Unlock three main endings (e.g., Sneaky, Badass, Legal) by finding the correct sequences.
 - Revisit scenes to collect all fails and bios if offered.
 
+<!-- i18n:section:controls -->
 ### Controls
 - Mouse: click choices and quick‑time prompts; Space for some interrupts (host dependent).
 
@@ -29,4 +32,5 @@ Henry Stickmin is locked up—use branching choices and slapstick tools to escap
 - If stuck, explore the other major route branches; many scenes have alternative solutions.
 - Bios (when present) trigger by clicking characters during scenes.
 - Use scene select (if available) to mop up missing fails.
+
 

@@ -22,6 +22,7 @@ releaseDate: 2025-12-04T00:00:00.000Z
  
 Want to create your own exclusive hit song with a group of quirky beatboxers? Incredibox can make your dream come true! This game is part game, part music creation tool, and offers musical fun for people of all ages. Today, let's step into the world of Incredibox and explore its various versions, gameplay mechanics, so you can easily get started and play a musical carnival at your fingertips!
  
+<!-- i18n:section:how-to-play -->
 ### How to Play Incredibox?
  
 Incredibox's core gameplay is delightfully simple:
@@ -63,3 +64,4 @@ While the core gameplay remains the same, each Incredibox version has its own un
 ### Conclusion:
  
 With its intuitive gameplay, vibrant graphics, and endless creative possibilities, Incredibox brings endless fun to music lovers and aspiring beatboxers. What are you waiting for? Come and unleash your inner musical genius!
+

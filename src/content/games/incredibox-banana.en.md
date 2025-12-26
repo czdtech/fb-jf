@@ -14,6 +14,7 @@ releaseDate: 2025-10-10
 
 
 
+<!-- i18n:section:introduction -->
 ### **Game Introduction**
 
 This popular fan-made mod for Incredibox is a direct tribute to the massively popular VR game, **Incredibox Banana**. It swaps the usual beatboxers for a crew of gorillas sitting on a log in a forest environment, perfectly capturing the aesthetic of its inspiration.
@@ -22,6 +23,7 @@ The gameplay follows the classic Incredibox drag-and-drop formula. Players are g
 
 The objective is to allow fans of both Incredibox and Incredibox Banana to express their creativity while also enjoying the puzzle of finding the secret animated bonuses, which are undoubtedly themed around the unique culture of the Incredibox Banana universe.
 
+<!-- i18n:section:tips -->
 ### **Gameplay Strategy & Tips**
 
 The strategy here is about layering the game's iconic sounds and meme references to create a fun, energetic track.
@@ -38,6 +40,7 @@ The strategy here is about layering the game's iconic sounds and meme references
 
 4.  **Systematic Bonus Hunting**: To find the three secret bonuses, be methodical. Lock in a few core sounds that you think work well together, then systematically swap out the remaining icons one by one until you trigger an animation.
 
+<!-- i18n:section:controls -->
 ### **Controls Guide**
 
 The controls follow the standard, intuitive drag-and-drop interface of the official Incredibox games.
@@ -47,4 +50,5 @@ The controls follow the standard, intuitive drag-and-drop interface of the offic
 *   **Mute / Unmute**: **Click** on a performing gorilla to mute them; click again to unmute.
 *   **Solo**: Click the **small button** next to an active gorilla to mute all other performers.
 *   **Record**: Click the **record button** (top right) to start and stop recording your mix.
+
 

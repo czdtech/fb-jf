@@ -16,6 +16,7 @@ tags:
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 Hey music trendsetters! Wanna inject some fresh excitement into your Incredibox sessions? Then you absolutely *have* to check out Fiddlebops Sprunksters! This super creative mod, brought to life by the talented Bismeowth, keeps the addictive Incredibox gameplay we love but throws in a whole bunch of cool new tricks!
  
 ### So, What's the Lowdown on Fiddlebops Sprunksters?
@@ -45,3 +46,4 @@ Ready for a cool surprise? Fiddlebops Sprunksters has an awesome easter egg! Whe
  
  
 Fiddlebops Sprunksters is an outstanding mod that perfectly blends creativity, rhythm, and visual charm. With its captivating character designs, novel sounds, and that super cool "dual world" feature, it offers a unique gaming experience for anyone who loves music and inventive gameplay. Don't hesitate! Dive into the world of Fiddlebops Sprunksters and just have a fun time making music!
+

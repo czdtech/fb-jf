@@ -14,6 +14,7 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 "Monkey Mart" is a charming and addictive simulation game where players manage a supermarket run by adorable monkeys. In the game, you need to harvest crops, produce goods, stock shelves, and serve customers to grow and expand your supermarket business. As the game progresses, you can unlock new products, upgrade equipment, and hire more monkey employees to improve efficiency.
@@ -26,12 +27,14 @@ releaseDate: 2025-08-16
 4.  **Serve Customers**: Customers will come to buy products; you need to respond quickly to ensure their satisfaction.
 5.  **Upgrade and Expand**: Use earned coins to upgrade farmlands, production equipment, and supermarket facilities, unlock new products, and expand the supermarket's size.
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 
 *   **Movement**: Use the virtual joystick or keyboard arrow keys to control your monkey character's movement.
 *   **Interaction**: When near crops, production equipment, or shelves, your character will automatically perform planting, crafting, or restocking actions.
 *   **Tap/Click**: Tap on screen icons to perform actions like upgrading, hiring employees, etc.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions
 
 1.  **Q: How can I earn money quickly in the game?**

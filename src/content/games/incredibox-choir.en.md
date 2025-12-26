@@ -14,6 +14,7 @@ releaseDate: 2025-10-10
 
 
 
+<!-- i18n:section:introduction -->
 ### **Incredibox "Choir" Game Introduction**
 
 *Incredibox Choir* is a highly acclaimed fan-made mod of the music creation game Incredibox. It distinguishes itself from official versions and other mods with its powerful and atmospheric sound palette centered around **choral, acapella, and classical music**.
@@ -22,6 +23,7 @@ The game transforms the usual beatboxing crew into a formal choir. Players are p
 
 The gameplay objective remains the creative and puzzle-solving experience Incredibox is known for. Players can freely combine sounds by dragging icons onto the characters to compose their own majestic choral pieces. The challenge lies in discovering the three specific combinations of sounds that unlock the secret animated bonuses, which are thematically designed to fit the grand, almost sacred, atmosphere of the mod.
 
+<!-- i18n:section:tips -->
 ### **Gameplay Strategy & Tips**
 
 The strategy for *Incredibox Choir* focuses on layering harmonies and exploring its unique vocal textures to create a cohesive piece and find the bonuses.
@@ -40,6 +42,7 @@ The strategy for *Incredibox Choir* focuses on layering harmonies and exploring 
 
 5.  **Use Solo to Appreciate the Detail**: The vocal work in this mod is often very detailed. Use the "solo" function to isolate individual voices and appreciate the nuances of each performance. This can also help you understand how each part contributes to the whole.
 
+<!-- i18n:section:controls -->
 ### **Controls Guide**
 
 The controls are identical to the official Incredibox game, relying on simple mouse actions.
@@ -49,4 +52,5 @@ The controls are identical to the official Incredibox game, relying on simple mo
 *   **Mute / Unmute**: **Click** an active character to silence them. Click again to bring them back into the mix.
 *   **Solo**: Click the **small button** that appears next to a performing character to mute all others.
 *   **Record**: Click the **record button** to start and stop a recording of your current mix.
+
 

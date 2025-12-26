@@ -21,6 +21,7 @@ releaseDate: 2025-12-04T00:00:00.000Z
  
 Incredibox Shatter Sprunk, a fan Mod, will take you into a musical world that combines the classic gameplay of Incredibox with the quirky style of Sprunki! Here, you will create your own music works with a group of unique animated characters.
  
+<!-- i18n:section:how-to-play -->
 ### How to Play Incredibox Shatter Sprunk?
  
 The gameplay is very simple, you can get started in a few steps:
@@ -35,6 +36,7 @@ The gameplay is very simple, you can get started in a few steps:
  
 **In Incredibox Shatter Sprunk, your goal is not to "win", but to create music works that you like.**
  
+<!-- i18n:section:controls -->
 ### Mouse Controls:
  
 The operation of Incredibox Shatter Sprunk is very simple, you can easily complete it with the mouse:
@@ -51,3 +53,4 @@ The operation of Incredibox Shatter Sprunk is very simple, you can easily comple
  - **Simple and Easy-to-Use Operation:** The mouse operation is simple and intuitive, allowing players of all ages and skill levels to easily get started.
  - **Unique Sprunki Style:** Combines the weird and innovative style of Sprunki, allowing you to experience a different Incredibox.
  - **Explore Fun:** Discover hidden animations and special effects, making your creation process full of surprises.
+

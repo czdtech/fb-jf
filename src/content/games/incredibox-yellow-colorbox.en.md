@@ -23,6 +23,7 @@ Incredibox Yellow Colorbox is a fan-created Incredibox mod music game. In this v
  
 ---
  
+<!-- i18n:section:tips -->
 ### Simple Gameplay, Endless Fun:
  
 Incredibox Yellow Colorbox has extremely simple operation methods. You only need to drag different musical sounds and rhythms onto the characters to make them "sing" and create your own music. This game is easy to pick up, but it is still challenging, and both novices and experienced music game players can find fun.
@@ -48,3 +49,4 @@ Each character in Incredibox Yellow Colorbox has a special appearance and color,
 ---
  
 Whether you want to create a simple beat or make a complex song, Incredibox Yellow Colorbox allows you to express your creativity in a unique and fun way. Join the world of Incredibox now and let your musical inspiration run wild!
+

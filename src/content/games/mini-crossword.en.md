@@ -14,6 +14,7 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 "Mini Crossword" is a compact daily crossword puzzle game. It offers a small yet challenging grid where players need to fill in the correct words based on the provided clues to complete the entire crossword. This game is suitable for quick sessions, both expanding vocabulary and providing puzzle-solving enjoyment.
@@ -25,6 +26,7 @@ releaseDate: 2025-08-16
 3.  **Utilize Intersecting Clues**: When some letters of a word are determined by other words, use these letters to guess and confirm the word.
 4.  **Gradually Narrow Down**: For uncertain words, you can first fill in the letters you know, then deduce based on the remaining blanks and clues.
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 
 *   **Select a Square**: Click an empty square to select it. You can switch between horizontal or vertical word entry modes by clicking again.
@@ -33,6 +35,7 @@ releaseDate: 2025-08-16
 *   **View Clues**: The game interface usually displays clue information for the currently selected word.
 *   **Check Answer**: Some games provide a "Check" function to verify if the entered words are correct.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions
 
 1.  **Q: Who is "Mini Crossword" suitable for?**

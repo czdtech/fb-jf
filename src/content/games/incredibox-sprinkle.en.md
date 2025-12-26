@@ -16,12 +16,14 @@ tags:
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
+<!-- i18n:section:how-to-play -->
 ### How to Play Sprinkle?
  
  - **Drag and Combine:** Drag and drop various music characters to designated positions, let them play unique notes. Each character will contribute a unique sound that layers with others to form a full musical arrangement.
  - **Experiment and Innovate:** The core fun of Sprinkle lies in trying different sound combinations. You can create endless variations of tracks simply by rearranging characters.
  
  
+<!-- i18n:section:controls -->
 ### Operation Guide:
  
  - **Mouse Operation:** The mouse is the primary control tool for the game. You can use the mouse to drag the characters at the bottom to the blank slots on the stage.
@@ -37,3 +39,4 @@ releaseDate: 2025-12-04T00:00:00.000Z
  
  
 Sprinkle is a music creation game that is simple to operate and full of fun. Whether you are a casual player or a fan interested in music production, you can find your own fun in the world of Sprinkle.Come to Sprinkle, unleash your remix creativity, and create unique musical works!
+

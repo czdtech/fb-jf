@@ -14,6 +14,7 @@ tags:
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 Hey Sprunkr fans! Want to give your music creation a seriously stylish edge? You've got to check out AYOCS Sprunkr! This mod gives the Sprunki universe a super slick makeover, breathing fresh life into the familiar music-making experience.
  
 ### So, What's the Hype About AYOCS Sprunkr?
@@ -37,3 +38,4 @@ Getting started is as simple and fun as always:
  
  
 AYOCS Sprunkr is a successful style evolution, cleverly integrating modern fashion aesthetics into the musical world of Sprunki. If you're looking to experience music creation with more contemporary flair and polished visuals, then AYOCS Sprunkr is definitely worth a try. Come join the ranks of AYOCS Sprunkr, unleash your inner music stylist, and start crafting your own trendy beats today!
+

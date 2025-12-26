@@ -14,10 +14,12 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 *4 Pics 1 Word* (German: *4 Bilder 1 Wort*) is a highly popular and straightforward word puzzle game developed by LOTUM GmbH. The core concept is to guess a single word that is common to four different pictures shown on the screen. The game tests your lateral thinking, vocabulary, and ability to find connections between visual cues. Its simple premise and engaging puzzles have made it a lasting hit on mobile devices.
 
 ---
 
+<!-- i18n:section:how-to-play -->
 ### How to Play 4 Pics 1 Word
 
 The gameplay is incredibly simple and intuitive, making it accessible to players of all ages.
@@ -60,6 +62,7 @@ While the game is simple, a few strategies can help you solve puzzles more effic
 
 ---
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
 <!-- i18n:faq:id=faq:4-pics-1-word:is-4-pics-1-word-adb8e06b -->
@@ -77,5 +80,6 @@ While the game is simple, a few strategies can help you solve puzzles more effic
 <!-- i18n:faq:id=faq:4-pics-1-word:is-the-game-available-in-27fc2a0d -->
 **Q: Is the game available in other languages?**
 **A:** Yes, *4 Pics 1 Word* is available in many different languages. The puzzles and answers are localized for each language.
+
 
 
