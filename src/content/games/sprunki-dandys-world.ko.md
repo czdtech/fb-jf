@@ -14,7 +14,6 @@ score: 4.4/5  (304 votes)
 ---
 
 
-
 ### Sprunki Dandy's World 소개
 
 똑같은 노트만 맞추는 리듬 게임이 지루하게 느껴질 때, Sprunki Dandy's World는

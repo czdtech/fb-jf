@@ -14,8 +14,7 @@ score: 3.9/5  (325 votes)
 ---
 
 
-
-### Sprunki Police and Prisoners Mod란?
+### 스프룽키 폴리스 앤 프리즈너즈 모드란?
 
 Sprunki Police and Prisoners Mod는 잘 알려진 Incredibox Sprunki 스타일을 기반으로,
 경찰과 수감자 테마의 캐릭터와 초현실적인 배경을 더한 모드입니다. 전체 화면이

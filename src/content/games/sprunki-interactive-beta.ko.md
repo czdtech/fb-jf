@@ -13,7 +13,6 @@ score: 4.0/5  (407 votes)
 ---
 
 
-
 ### Sprunki Interactive BETA란?
 
 Sprunki Interactive BETA는 기존 스프룽키에 단순히 사운드만 추가한 버전이 아니라,
@@ -53,9 +52,9 @@ Sprunki Interactive BETA는 기존 스프룽키에 단순히 사운드만 추가
 - 계속 움직이는 캐릭터와 그에 따라 변하는 사운드
 - 귀엽고 밝은 분위기에서 점차 공포로 변해 가는 연출
 - 캐릭터 충돌과 상호작용에서 나오는 독특한 즉흥 사운드
+- 사운드뿐 아니라 애니메이션과 리듬까지 즉흥적으로 변주되는 창의적인 경험
 
 
-- Unique sounds, animations, and rhythms added to your worldview with a lot of creativity and imagination
 Sprunki Interactive BETA는 통제와 혼돈 사이를 오가며, 소리와 연출을 동시에
 즐기는 실험적인 모드입니다. 귀여움과 섬뜩함이 동시에 존재하는 세계를 경험해
 보고 싶다면 한 번 도전해 보세요.

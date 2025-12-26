@@ -16,7 +16,6 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-
 ### 게임 상세 소개
 
 *Parking Jam*은 클래식 퍼즐 보드 게임 "Rush Hour"와 비슷한 방식의

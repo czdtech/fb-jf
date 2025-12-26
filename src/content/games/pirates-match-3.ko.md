@@ -17,7 +17,6 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-
 ### 게임 상세 소개
 
 *Pirates Match 3*는 해적선을 배경으로 한 클래식 3매치 퍼즐 게임입니다.
@@ -34,7 +33,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 1. **파워업 생성부터 노리기**  
    어려운 스테이지를 돌파하는 핵심은 세 칸 매치가 아니라,
    네 칸 이상을 이용해 **특수 아이템(파워업)**을 만드는 것입니다.
-   
+
     - **4개 매치**: 한 줄을 통째로 지우는 줄삭제 아이템을 만듭니다.  
     - **5개 매치(L 또는 T자)**: 주변을 크게 폭파하는 폭탄을 생성해
      넓은 범위를 한 번에 지울 수 있습니다.  
@@ -68,20 +67,16 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### 자주 묻는 질문(FAQ)
 
-- **Q: 나무판이나 쇠사슬 같은 장애물은 어떻게 부수나요?**  
-  **A:** 해당 타일 위에서 매치를 만들거나, 그 위를 폭탄·줄삭제
+*   **Q: 나무판이나 쇠사슬 같은 장애물은 어떻게 부수나요?**
+    *   **A:** 해당 타일 위에서 매치를 만들거나, 그 위를 폭탄·줄삭제
   파워업의 범위에 포함시키면 서서히 깨집니다. 일부 장애물은
   여러 번의 타격이 필요할 수 있습니다.
 
-    - **Q: 파워업을 언제 써야 할지 모르겠어요.**  
-
-- **A:** If you fail to complete the level's objective before running out of moves, you will have to restart the level.
-
-    - **Q: What happens if I run out of moves?**
-
-- **A:** Swapping two "Match 5 in a line" power-ups is usually the most powerful, as it clears the entire board. A bomb combined with a line-clearer is also extremely effective.
-
-    - **Q: What is the best power-up combination?**
-  **A:** 스테이지 목표와 가장 관련 있는 위치에서 사용하는 것이
+*   **Q: 파워업을 언제 써야 할지 모르겠어요.**
+    *   **A:** 스테이지 목표와 가장 관련 있는 위치에서 사용하는 것이
   좋습니다. 예를 들어, 바닥까지 내려야 하는 보물이 있다면 그
   위쪽 열을 중심으로 파워업을 터뜨려 길을 열어 주세요.
+
+*   **Q: 이동 횟수를 다 쓰면 어떻게 되나요?**
+    *   **A:** 이동 횟수 안에 스테이지 목표를 달성하지 못하면 해당 스테이지를
+  다시 시작해야 합니다.

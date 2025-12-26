@@ -14,7 +14,6 @@ score: 4.6/5  (601 votes)
 ---
 
 
-
 Incredibox Sprunki의 팬이면서 Minecraft의 픽셀 세계도 좋아하나요? 그렇다면
 *Sprunki Like Minecraft* 모드가 제격입니다. 이 독특한 모드는 Sprunki 캐릭터들을
 마인크래프트 특유의 각진 블록 스타일로 재해석해, 익숙하면서도 새로운 비주얼을

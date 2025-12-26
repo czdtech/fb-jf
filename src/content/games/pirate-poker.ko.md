@@ -14,7 +14,6 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-
 ### 게임 상세 소개
 
 *Pirate Poker*는 해적 배를 배경으로 한 클래식 5장 드로 포커 게임입니다.
@@ -69,21 +68,18 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### 자주 묻는 질문(FAQ)
 
-* **Q: 가장 좋은 시작 패는 무엇인가요?**  
-  **A:** 높은 페어(예: A,A 또는 K,K)나, 같은 무늬·연속 숫자를
+*   **Q: 가장 좋은 시작 패는 무엇인가요?**
+    *   **A:** 높은 페어(예: A,A 또는 K,K)나, 같은 무늬·연속 숫자를
   노릴 수 있는 카드들이 좋은 시작 패입니다. 하지만 포커에서는
   이후 드로와 상대의 베팅 방식에 따라 상황이 크게 달라질 수
   있습니다.
 
-    - **Q: 초보자에게 가장 중요한 팁은?**  
-
-- **A:** You should fold when you have a very weak hand (e.g., no pairs and no chance of a straight or flush) and another player has made a large bet. It's better to lose the small amount you've already bet than to risk losing much more on a bad hand.
-
-    - **Q: When should I fold?**
-
-- **A:** Bluffing is a key part of poker. It means you are pretending to have a strong hand by betting aggressively, hoping that your opponents will believe you and fold their (potentially better) hands.
-
-    - **Q: What does it mean to "bluff"?**
-  **A:** 너무 많은 판에 억지로 참여하지 말고, 애매한 패에서는
+*   **Q: 초보자에게 가장 중요한 팁은?**
+    *   **A:** 너무 많은 판에 억지로 참여하지 말고, 애매한 패에서는
   폴드를 아끼지 않는 것이 좋습니다. 족보를 완전히 외운 다음,
   천천히 베팅 패턴과 블러핑 감각을 익혀 나가 보세요.
+
+*   **Q: 언제 폴드하는 게 좋나요?**
+    *   **A:** 페어가 없고 스트레이트/플러시 가능성도 낮은 약한 패에서,
+  상대가 큰 금액으로 베팅/레이즈했다면 폴드하는 편이 안전합니다. 이미 걸어 둔
+  소액을 포기하는 것이 더 큰 손해를 막아 줍니다.

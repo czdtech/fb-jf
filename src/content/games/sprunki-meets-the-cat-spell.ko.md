@@ -14,7 +14,6 @@ score: 4.8/5  (649 votes)
 ---
 
 
-
 ### Sprunki Meets The Cat Spell 소개
 
 Sprunki Meets The Cat Spell은 기존 "Sprunki Cats Game" 모드를 리워크한 버전으로,

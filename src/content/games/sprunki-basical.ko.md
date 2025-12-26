@@ -15,7 +15,6 @@ score: 4.4/5  (420 votes)
 ---
 
 
-
 ### Sprunki Basical 소개
 
 Sprunki Basical은 "기본으로 돌아가기"를 콘셉트로 한 음악 제작 게임으로,

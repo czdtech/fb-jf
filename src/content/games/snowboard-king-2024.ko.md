@@ -16,7 +16,6 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-
 ### 게임 상세 소개
 
 *Snowboard King 2024*는 끊임없이 몰려오는 눈사태를 피해, 위험한
@@ -56,21 +55,15 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### 자주 묻는 질문(FAQ)
 
-- **Q: 주 목표는 무엇인가요?**  
-  **A:** 나무·바위 등에 부딪히거나 눈사태에 잡히지 않고 가능한 한
+*   **Q: 주 목표는 무엇인가요?**
+    *   **A:** 나무·바위 등에 부딪히거나 눈사태에 잡히지 않고 가능한 한
   멀리까지 내려가는 것입니다.
 
-    - **Q: 나무에 부딪히면 어떻게 되나요?**  
-  **A:** 나무나 큰 장애물에 부딪히면 즉시 넘어지며, 그 라운드가
+*   **Q: 나무에 부딪히면 어떻게 되나요?**
+    *   **A:** 나무나 큰 장애물에 부딪히면 즉시 넘어지며, 그 라운드가
   종료됩니다.
 
-- **Q: 점수를 올리는 가장 좋은 방법은 무엇인가요?**  
-
-    - **A:** Your score is based on the distance you travel. The farther you go, the higher your score. Upgrading your skills is the best way to improve your potential distance.
-
-- **Q: How do I get a higher score?**
-
-    - **A:** You will crash, and your run will be over.
-  **A:** 거리를 늘리는 것이 핵심입니다. 생존 시간을 늘리기 위해
+*   **Q: 점수를 올리는 가장 좋은 방법은 무엇인가요?**
+    *   **A:** 거리를 늘리는 것이 핵심입니다. 생존 시간을 늘리기 위해
   업그레이드를 적절히 투자하고, 위험한 지름길보다는 안정적인
   루트를 우선 선택해 보세요.

@@ -14,7 +14,6 @@ score: 3.9/5  (132 votes)
 ---
 
 
-
 ### Sprunki Abgerny만의 매력
 
 Sprunki Abgerny는 단순한 음악 게임을 넘어, 고대 문화에 대한 오마주이자 음악이

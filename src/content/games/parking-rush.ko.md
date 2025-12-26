@@ -17,8 +17,6 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-
-
 ### 게임 상세 소개
 
 *Parking Rush*는 색깔로 구분된 주차 칸에 대응되는 자동차들을, 서로 부딪히지 않도록 유도하는
@@ -40,26 +38,21 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### 조작 방법
 
+조작은 아래를 참고하세요.
+
 - 자동차를 클릭/터치한 뒤, 같은 색 주차 칸까지 마우스나 손가락으로 선을 그으면 해당
   경로가 설정됩니다. 손을 떼면 자동차가 움직이기 시작합니다.
 
 
-- **Draw a Path:** Click and hold on a car, then drag your mouse or finger to draw a line to its corresponding parking spot. The car will start moving as soon as you release.
 ### 자주 묻는 질문(FAQ)
 
-- **Q: 두 차량이 부딪히면 어떻게 되나요?**  
-  **A:** 충돌이 발생하면 해당 레벨은 실패 처리되며, 처음부터 다시 시도해야 합니다.
+*   **Q: 두 차량이 부딪히면 어떻게 되나요?**
+    *   **A:** 충돌이 발생하면 해당 레벨은 실패 처리되며, 처음부터 다시 시도해야 합니다.
 
-    - **Q: 경로가 교차하는 구간에서 충돌을 막으려면?**  
-  **A:** 한 차량의 경로를 길게 만들어 도착 시간을 늦추거나, 먼저 한 차량을 주차시킨 뒤
+*   **Q: 경로가 교차하는 구간에서 충돌을 막으려면?**
+    *   **A:** 한 차량의 경로를 길게 만들어 도착 시간을 늦추거나, 먼저 한 차량을 주차시킨 뒤
   다음 차량의 경로를 나중에 그리는 방식으로 타이밍을 분리하세요.
 
-- **Q: 모든 차를 주차시키지 않아도 되나요?**  
-
-    - **A:** Yes, the level is only complete when every car has been safely guided to its correct parking space.
-
-- **Q: Do I have to park all the cars?**
-
-    - **A:** You must manage the timing. Make one car's path much longer than the other's so that they arrive at the intersection at different times. You can also wait for one car to park completely before you even start drawing the path for the second car.
-  **A:** 아닙니다. 각 레벨의 모든 차량을 자신의 색에 맞는 주차 칸으로 안전하게 안내해야만
+*   **Q: 모든 차를 주차시키지 않아도 되나요?**
+    *   **A:** 아닙니다. 각 레벨의 모든 차량을 자신의 색에 맞는 주차 칸으로 안전하게 안내해야만
   스테이지를 클리어할 수 있습니다.

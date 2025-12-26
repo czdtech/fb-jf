@@ -17,7 +17,6 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
-
 ### 게임 소개
 
 *Snakes and Ladders*는 일부 지역에서 *Chutes and Ladders*라는 이름으로도

@@ -17,7 +17,6 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
-
 ### 게임 소개
 
 *"Pacman 30th Anniversary"*는 고전 아케이드 게임 "PAC-MAN"의 서른 번째 생일을 기념하는

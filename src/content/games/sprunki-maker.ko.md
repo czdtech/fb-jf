@@ -15,8 +15,7 @@ score: 4.8/5  (700 votes)
 ---
 
 
-
-### Sprunki Maker (BIG update) 소개
+### Sprunki Maker (BIG update 표기) 소개
 
 나만의 스프룽키 캐릭터를 갖고 싶었다면, Sprunki Maker에서 그 소원을 이룰 수
 있습니다. 이 모드는 머리 모양부터 표정, 체형, 의상까지 전부 직접 고를 수 있는

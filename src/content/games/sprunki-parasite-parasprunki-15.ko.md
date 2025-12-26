@@ -14,7 +14,6 @@ score: 4.3/5  (372 votes)
 ---
 
 
-
 으스스한 음악 세계로 한 걸음 들어갈 준비가 되었나요? Sprunki Parasite
 ParaSprunki 15(일명 Incredibox Sprunksters)는 평소의 밝은 Sprunki와는 전혀 다른,
 공포 분위기 가득한 팬 메이드 모드입니다. 제작자 mondaymuncher가 만든 이 모드는

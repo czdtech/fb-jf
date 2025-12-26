@@ -16,7 +16,6 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-
 ### 게임 상세 소개
 
 *Santa Magic Xmas*는 크리스마스 분위기가 가득한 매치3 퍼즐 게임입니다.
@@ -63,22 +62,16 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### 자주 묻는 질문(FAQ)
 
-- **Q: 얼음 블록은 어떻게 깨나요?**  
-  **A:** 얼음과 인접한 칸에서 매치를 만들거나, 폭탄·줄삭제 같은
+*   **Q: 얼음 블록은 어떻게 깨나요?**
+    *   **A:** 얼음과 인접한 칸에서 매치를 만들거나, 폭탄·줄삭제 같은
   파워업의 범위에 얼음을 포함시키면 서서히 깨집니다.
 
-    - **Q: 가장 강력한 콤보는 무엇인가요?**  
-  **A:** 컬러 폭탄 두 개를 서로 교환하면 보드 전체를 거의 싹
+*   **Q: 가장 강력한 콤보는 무엇인가요?**
+    *   **A:** 컬러 폭탄 두 개를 서로 교환하면 보드 전체를 거의 싹
   쓸어버리는 효과를 냅니다. 다만 만들기 어렵기 때문에, 평소에는
   다른 파워업 조합도 적극 활용하세요.
 
-- **Q: 이동 수를 다 쓰면 어떻게 되나요?**  
-
-    - **A:** If you don't complete the level's objective within the move limit, you will have to restart the level.
-
-- **Q: What happens if I run out of moves?**
-
-    - **A:** Swapping two color bombs together is the most powerful move, as it will clear every single item from the board.
-  **A:** 남은 이동 없이 목표를 달성하지 못하면 스테이지를 다시
+*   **Q: 이동 수를 다 쓰면 어떻게 되나요?**
+    *   **A:** 남은 이동 없이 목표를 달성하지 못하면 스테이지를 다시
   시작해야 합니다. 목표와 상관없는 매치는 최대한 줄이는 것이
   중요합니다.

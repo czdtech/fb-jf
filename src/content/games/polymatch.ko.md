@@ -14,7 +14,6 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-
 ### 게임 상세 소개
 
 *PolyMatch*는 관찰력과 계획성이 중요한 타일 매칭 퍼즐 게임입니다.
@@ -62,20 +61,14 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### 자주 묻는 질문(FAQ)
 
-- **Q: 한 스테이지를 클리어하려면 어떻게 하나요?**  
-  **A:** 메인 보드에 있는 모든 타일을 짝지어 제거하면 클리어입니다.
+*   **Q: 한 스테이지를 클리어하려면 어떻게 하나요?**
+    *   **A:** 메인 보드에 있는 모든 타일을 짝지어 제거하면 클리어입니다.
 
-    - **Q: 보관 슬롯이 가득 차면 어떻게 되나요?**  
-  **A:** 더 이상 타일을 담을 수 없고, 매치를 만들 수도 없다면
+*   **Q: 보관 슬롯이 가득 차면 어떻게 되나요?**
+    *   **A:** 더 이상 타일을 담을 수 없고, 매치를 만들 수도 없다면
   그 즉시 게임 오버가 됩니다. 슬롯 관리가 중요한 이유입니다.
 
-- **Q: 파워업이나 힌트가 있나요?**  
-
-    - **A:** Some versions of PolyMatch may offer power-ups or hints to help you when you're stuck. These might include a shuffle option or a hint to reveal a match.
-
-- **Q: Are there power-ups or hints?**
-
-    - **A:** If the holding area at the bottom of the screen becomes full (typically 6 tiles) and you cannot make any more matches, the game will end.
-  **A:** 일부 버전에서는 타일을 섞는 셔플, 힌트 표시 등 보조 기능을
+*   **Q: 파워업이나 힌트가 있나요?**
+    *   **A:** 일부 버전에서는 타일을 섞는 셔플, 힌트 표시 등 보조 기능을
   제공하기도 합니다. 난도가 높아질수록, 막힐 때 최소한으로
   활용해 보세요.

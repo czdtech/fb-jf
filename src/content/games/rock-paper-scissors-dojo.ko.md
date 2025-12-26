@@ -16,7 +16,6 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-
 ### 게임 상세 소개
 
 *Rock Paper Scissors Dojo*는 단순한 가위바위보를 가볍지만 깊이 있는

@@ -16,7 +16,6 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-
 ### 게임 상세 소개
 
 *Pocket Champs*는 레이스 자체는 자동으로 진행되지만, 그 이전의
@@ -68,24 +67,18 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### 자주 묻는 질문(FAQ)
 
-- **Q: 레이스 중에는 캐릭터를 조작할 수 없나요?**  
-  **A:** 네. 레이스는 전적으로 자동으로 진행됩니다. 플레이어의
+*   **Q: 레이스 중에는 캐릭터를 조작할 수 없나요?**
+    *   **A:** 네. 레이스는 전적으로 자동으로 진행됩니다. 플레이어의
   역할은 레이스 **이전**에 훈련과 장비 선택을 통해 최대한
   유리한 조건을 만들어 주는 것입니다.
 
-    - **Q: 더 자주 이기려면 어떻게 해야 하나요?**  
-  **A:** 챔프의 능력치를 꾸준히 올리는 것과, 레이스 코스에 맞는
+*   **Q: 더 자주 이기려면 어떻게 해야 하나요?**
+    *   **A:** 챔프의 능력치를 꾸준히 올리는 것과, 레이스 코스에 맞는
   장비를 선택하는 것이 핵심입니다. 어느 능력에서 밀리는지
   확인한 뒤 그 부분을 집중적으로 훈련해 주세요.
 
-- **Q: 가장 좋은 장비는 무엇인가요?**  
-
-    - **A:** There is no single "best" gadget. The best one is always the one that matches the next major obstacle on the track. A speedboat is useless on a running track, but essential on a water track.
-
-- **Q: What is the best gadget?**
-
-    - **A:** By having better stats and strategy than your opponents. Make sure your Champ's training levels are high and that you are choosing the correct gadgets that counter the obstacles in the upcoming race.
-  **A:** 절대적인 "최고의" 장비는 없습니다. 코스마다 중요한
+*   **Q: 가장 좋은 장비는 무엇인가요?**
+    *   **A:** 절대적인 "최고의" 장비는 없습니다. 코스마다 중요한
   장애물이 다르기 때문에, 다음 레이스에 가장 큰 영향을 주는
   장애물(물, 절벽, 비행 구간 등)에 맞는 장비가 그때그때 최고의
   선택이 됩니다.

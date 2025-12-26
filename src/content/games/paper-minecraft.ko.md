@@ -17,7 +17,6 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
-
 ### 게임 소개
 
 *Paper Minecraft*는 인기 샌드박스 게임 *Minecraft*를 2D 횡스크롤

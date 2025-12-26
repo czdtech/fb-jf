@@ -15,7 +15,6 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-
 ### 게임 상세 소개
 
 *Slime.io*는 인기 있는 .io 멀티플레이 장르를 3D 도심 환경에 옮겨온
@@ -51,30 +50,25 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### 조작 가이드
 
+조작은 아래를 참고하세요.
+
 - **슬라임 이동**: 마우스 왼쪽 버튼을 누른 채 드래그하거나,
   터치스크린에서 손가락을 끌어 원하는 방향으로 슬라임을 이동합니다.
 
 
-- **Move Slime:** Click and hold the left mouse button (or use your finger on a touch screen) and drag in the direction you want your slime to go.
 ### 자주 묻는 질문(FAQ)
 
-- **Q: 어떻게 하면 더 빨리 커질 수 있나요?**  
-  **A:** 초반에는 작은 물체를 끊임없이 먹으며 빠르게 몸집을 키우고,
+*   **Q: 어떻게 하면 더 빨리 커질 수 있나요?**
+    *   **A:** 초반에는 작은 물체를 끊임없이 먹으며 빠르게 몸집을 키우고,
   어느 정도 커지면 자동차·트럭·건물 등 큰 오브젝트 위주로 경로를
   잡는 것이 효율적입니다.
 
-    - **Q: 다른 플레이어도 먹을 수 있나요?**  
-  **A:** 네. 자신보다 작은 슬라임은 그대로 흡수해 큰 점수와 성장량을
+*   **Q: 다른 플레이어도 먹을 수 있나요?**
+    *   **A:** 네. 자신보다 작은 슬라임은 그대로 흡수해 큰 점수와 성장량을
   얻을 수 있습니다. 반대로 더 큰 슬라임에게는 먹히지 않도록 항상
   거리와 크기를 확인하세요.
 
-- **Q: 승리 조건은 무엇인가요?**  
-
-    - **A:** The player with the highest score at the end of the round is declared the winner. Your score is based on how many objects and players you have absorbed.
-
-- **Q: How do I win?**
-
-    - **A:** Yes, you can absorb any other player's slime that is smaller than you. This is a great way to get a lot of points quickly. But be careful, as bigger players can do the same to you.
-  **A:** 라운드 종료 시점에 가장 높은 점수를 가진 플레이어가 승리합니다.
+*   **Q: 승리 조건은 무엇인가요?**
+    *   **A:** 라운드 종료 시점에 가장 높은 점수를 가진 플레이어가 승리합니다.
   가능하면 많은 오브젝트와 플레이어를 흡수해 랭킹 최상단을
   차지해 보세요.

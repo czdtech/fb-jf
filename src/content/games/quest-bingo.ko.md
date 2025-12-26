@@ -16,7 +16,6 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-
 ### 게임 상세 소개
 
 *Quest Bingo*는 전통적인 빙고의 재미를 지도형 모험 구조와
@@ -68,22 +67,16 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### 자주 묻는 질문(FAQ)
 
-- **Q: "다브(daub)"는 무슨 뜻인가요?**  
-  **A:** 빙고에서 호출된 숫자를 카드 위에서 표시하는 행동을 전통적으로
+*   **Q: "다브(daub)"는 무슨 뜻인가요?**
+    *   **A:** 빙고에서 호출된 숫자를 카드 위에서 표시하는 행동을 전통적으로
   "다브"라고 부릅니다. 현실 빙고에서는 잉크 스탬프로 찍는 동작을
   말하며, 게임에서는 해당 칸을 눌러 체크하는 것을 의미합니다.
 
-    - **Q: 퍼즐 조각은 어디에 쓰이나요?**  
-  **A:** 특정 퍼즐 세트의 조각을 모두 모으면 한 장의 그림이 완성되며,
+*   **Q: 퍼즐 조각은 어디에 쓰이나요?**
+    *   **A:** 특정 퍼즐 세트의 조각을 모두 모으면 한 장의 그림이 완성되며,
   보너스 코인이나 추가 보상을 받는 경우가 많습니다.
 
-- **Q: 부스터는 어떻게 더 많이 얻을 수 있나요?**  
-
-    - **A:** Boosters are usually earned by daubing special numbers, completing levels, or through daily login rewards and bonus wheels.
-
-- **Q: How do I get more boosters?**
-
-    - **A:** Puzzle pieces are collectibles. When you collect all the pieces of a specific puzzle, you will typically unlock a beautiful picture and receive a bonus reward.
-  **A:** 특별 표시가 있는 숫자를 다브하거나, 레벨을 클리어하고
+*   **Q: 부스터는 어떻게 더 많이 얻을 수 있나요?**
+    *   **A:** 특별 표시가 있는 숫자를 다브하거나, 레벨을 클리어하고
   데일리 보상·보너스 룰렛 등을 이용하면 부스터를 추가로 획득할
   수 있습니다.

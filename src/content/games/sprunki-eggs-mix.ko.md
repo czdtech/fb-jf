@@ -14,7 +14,6 @@ score: 3.9/5  (125 votes)
 ---
 
 
-
 ### Sprunki Egg's Mix의 특별한 점
 
 Sprunki Egg's Mix의 매력은 예측하기 어려운 알 조합에서 나오는 연쇄 반응에

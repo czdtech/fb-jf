@@ -17,7 +17,6 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
-
 ### 게임 소개
 
 *Soccer Random*는 물리 엔진으로 움직이는 선수들을 한 키만으로 조종하는 카오스 축구 게임입니다.
@@ -36,19 +35,16 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 ### 조작 방법
 
+조작은 아래를 참고하세요.
+
 - **플레이어 1:** `W` 키
 - **플레이어 2:** `위쪽 방향키`
 
 각자의 키를 눌러 두 명의 선수가 동시에 점프·킥을 하게 됩니다.
 
 
-Press your key to make your players jump and kick.
-
-- **Player 2:** `Up Arrow` Key
-
 - **Player 1:** `W` Key
 
-Press your key to make your players jump and kick.
 ### 자주 묻는 질문(FAQ)
 
 **Q: Soccer Random의 목표는 무엇인가요?**  

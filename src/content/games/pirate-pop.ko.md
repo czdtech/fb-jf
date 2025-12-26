@@ -16,7 +16,6 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-
 ### 게임 상세 소개
 
 *Pirate Pop*은 해적선을 배경으로 하는 캐주얼 버블 슈터 게임입니다.
@@ -59,22 +58,16 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### 자주 묻는 질문(FAQ)
 
-- **Q: 게임의 최종 목표는 무엇인가요?**  
-  **A:** 제한선에 닿기 전에 모든 버블을 제거하거나, 가능한 한 많은
+*   **Q: 게임의 최종 목표는 무엇인가요?**
+    *   **A:** 제한선에 닿기 전에 모든 버블을 제거하거나, 가능한 한 많은
   버블을 떨어뜨려 높은 점수를 얻는 것이 목표입니다.
 
-    - **Q: 점수를 많이 얻는 가장 좋은 방법은?**  
-  **A:** 한 번의 샷으로 많은 버블이 떨어질수록 콤보 보너스가
+*   **Q: 점수를 많이 얻는 가장 좋은 방법은?**
+    *   **A:** 한 번의 샷으로 많은 버블이 떨어질수록 콤보 보너스가
   커집니다. 위쪽 연결부만 끊어 아래 버블 전체를 동시에 떨어뜨리는
   전략을 연습해 보세요.
 
-- **Q: 더 이상 맞출 곳이 없을 때는 어떻게 하나요?**  
-
-    - **A:** You'll have to make a tactical shot. Try to place the bubble in a spot where it won't get in the way, or where it can be easily cleared later on with another match.
-
-- **Q: What if I can't make a match?**
-
-    - **A:** By causing large clusters of bubbles to fall at once. The more bubbles you drop in a single shot, the higher your combo bonus will be.
-  **A:** 당장은 매치가 되지 않더라도, 나중에 같은 색이 모일 수 있는
+*   **Q: 더 이상 맞출 곳이 없을 때는 어떻게 하나요?**
+    *   **A:** 당장은 매치가 되지 않더라도, 나중에 같은 색이 모일 수 있는
   안전한 위치에 버블을 붙여 두세요. 이후 나오는 버블로 동시에
   지울 수 있는 큰 그룹을 만들어 두는 것이 좋습니다.

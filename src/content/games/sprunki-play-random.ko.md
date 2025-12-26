@@ -15,7 +15,6 @@ score: 4.5/5  (614 votes)
 ---
 
 
-
 ### Sprunki Play Random 소개
 
 Sprunki Play Random은 "예측할 수 없음"을 중심에 둔 음악 제작 모드입니다.

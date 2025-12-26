@@ -16,7 +16,6 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-
 ### 게임 상세 소개
 
 *Quest 21*은 클래식 블랙잭 규칙을 바탕으로 진행되는 카드 게임
@@ -71,22 +70,16 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### 자주 묻는 질문(FAQ)
 
-- **Q: 버스트(bust)는 무엇인가요?**  
-  **A:** 카드를 더 받은 결과 손패 합이 21을 초과하는 상황을 말합니다.
+*   **Q: 버스트(bust)는 무엇인가요?**
+    *   **A:** 카드를 더 받은 결과 손패 합이 21을 초과하는 상황을 말합니다.
   이때는 그 즉시 라운드를 패배하게 됩니다.
 
-    - **Q: 언제 스탠드하는 것이 좋나요?**  
-  **A:** 일반적으로 17 이상의 "하드 핸드"에서는 스탠드가 무난합니다.
+*   **Q: 언제 스탠드하는 것이 좋나요?**
+    *   **A:** 일반적으로 17 이상의 "하드 핸드"에서는 스탠드가 무난합니다.
   에이스를 11로 쓸 수 있는 "소프트 핸드"(예: A+6)의 경우에는
   한 장 더 받아 보는 전략도 자주 사용됩니다.
 
-- **Q: 비겼을 때는 어떻게 되나요?**  
-
-    - **A:** A tie is called a "push." In most casual versions of the game, this simply means no one wins or loses the hand, and you move on to the next round.
-
-- **Q: What happens if there is a tie?**
-
-    - **A:** A safe strategy is to stand on any hand worth 17 or more (a "hard 17"). For hands with an Ace that counts as 11 (a "soft 17"), it is often safe to hit.
-  **A:** 플레이어와 상대의 합이 같다면 **푸시(push)**라고 부르며,
+*   **Q: 비겼을 때는 어떻게 되나요?**
+    *   **A:** 플레이어와 상대의 합이 같다면 **푸시(push)**라고 부르며,
   대부분의 캐주얼 버전에서는 서로 승패 없이 다음 라운드로
   넘어갑니다.

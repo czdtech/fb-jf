@@ -17,7 +17,6 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
-
 ### 게임 소개
 
 *Pokemon Emerald*는 포켓몬 시리즈의 GBA용 RPG로, 호연(호엔) 지방을

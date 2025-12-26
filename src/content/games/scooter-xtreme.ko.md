@@ -17,7 +17,6 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-
 ### 게임 상세 소개
 
 *Scooter Xtreme 3D*는 다채로운 3D 스케이트 파크를 무대로 펼쳐지는
@@ -61,23 +60,17 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### 자주 묻는 질문(FAQ)
 
-- **Q: 고득점을 얻으려면 어떻게 해야 하나요?**  
-  **A:** 다양한 트릭을 끊기지 않게 콤보로 연결하는 것이 핵심입니다.
+*   **Q: 고득점을 얻으려면 어떻게 해야 하나요?**
+    *   **A:** 다양한 트릭을 끊기지 않게 콤보로 연결하는 것이 핵심입니다.
   같은 동작만 반복하기보다, 플립·그라인드·방향 전환 등을 섞어
   콤보 배수를 높여 보세요.
 
-    - **Q: 넘어지거나 충돌하면 어떻게 되나요?**  
-  **A:** 보통 마지막 체크포인트에서 다시 시작하게 되며, 지금까지
+*   **Q: 넘어지거나 충돌하면 어떻게 되나요?**
+    *   **A:** 보통 마지막 체크포인트에서 다시 시작하게 되며, 지금까지
   쌓인 콤보와 시간 일부를 잃게 됩니다. 안전하게 완주하는 것이
   때로는 과한 트릭보다 더 좋은 기록을 줍니다.
 
-- **Q: 새로운 스쿠터와 캐릭터는 어떻게 해금하나요?**  
-
-    - **A:** By collecting coins scattered throughout the levels. Once you have enough, you can visit the in-game shop to purchase new gear and riders.
-
-- **Q: How do I unlock new characters and scooters?**
-
-    - **A:** You will usually be reset to the last checkpoint you passed, but you will lose valuable time and your current combo streak.
-  **A:** 코스를 돌며 모은 코인을 사용해 상점에서 새로운 스쿠터와
+*   **Q: 새로운 스쿠터와 캐릭터는 어떻게 해금하나요?**
+    *   **A:** 코스를 돌며 모은 코인을 사용해 상점에서 새로운 스쿠터와
   라이더를 구매할 수 있습니다. 성능과 외형을 모두 고려해 원하는
   조합을 만들어 보세요.

@@ -16,7 +16,6 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-
 ### 게임 상세 소개
 
 *Smarty Bubbles 2*는 인기 버블 슈터 *Smarty Bubbles*의 후속작으로,
@@ -58,22 +57,16 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### 자주 묻는 질문(FAQ)
 
-- **Q: 왜 갑자기 윗줄이 내려왔나요?**  
-  **A:** 일정 횟수 이상 연속으로 버블을 터뜨리지 못했을 때, 게임이
+*   **Q: 왜 갑자기 윗줄이 내려왔나요?**
+    *   **A:** 일정 횟수 이상 연속으로 버블을 터뜨리지 못했을 때, 게임이
   난이도를 높이기 위해 새로운 줄을 추가합니다. 실패 샷을 줄이는
   연습이 필요합니다.
 
-    - **Q: 이 게임의 목표는 무엇인가요?**  
-  **A:** 보드 위의 모든 버블을 제거해 스테이지를 클리어하고,
+*   **Q: 이 게임의 목표는 무엇인가요?**
+    *   **A:** 보드 위의 모든 버블을 제거해 스테이지를 클리어하고,
   다음 레벨로 진행하는 것입니다.
 
-- **Q: 높은 점수를 얻으려면 어떻게 해야 하나요?**  
-
-    - **A:** By clearing levels efficiently and by causing large clusters of bubbles to drop at once. The more bubbles you clear in a single shot, the higher your score.
-
-- **Q: How do I get a high score?**
-
-    - **A:** To clear all the bubbles from the board to complete the level and move on to the next one.
-  **A:** 가능한 한 적은 횟수의 샷으로 많은 버블을 한꺼번에 떨어뜨리는
+*   **Q: 높은 점수를 얻으려면 어떻게 해야 하나요?**
+    *   **A:** 가능한 한 적은 횟수의 샷으로 많은 버블을 한꺼번에 떨어뜨리는
   것이 중요합니다. 지지 버블을 끊어 대량 낙하를 만들고, 실패
   샷을 줄여 보세요.

@@ -16,7 +16,6 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-
 ### 게임 상세 소개
 
 *Panda Pizza Parlor*는 판다 셰프가 주인공인 아기자기한 피자 가게
@@ -69,25 +68,19 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### 자주 묻는 질문(FAQ)
 
-- **Q: 주문을 틀리면 어떻게 되나요?**  
-  **A:** 토핑을 잘못 올리거나 피자를 태우면 손님이 화를 내고
+*   **Q: 주문을 틀리면 어떻게 되나요?**
+    *   **A:** 토핑을 잘못 올리거나 피자를 태우면 손님이 화를 내고
   그냥 떠나 버립니다. 그 주문에 대한 보상은 받지 못하고,
   가게 평판에도 좋지 않습니다.
 
-    - **Q: 손님을 더 빨리 처리하려면 어떻게 하나요?**  
-  **A:** 손님이 자주 찾는 기본 피자를 미리 준비해 두거나,
+*   **Q: 손님을 더 빨리 처리하려면 어떻게 하나요?**
+    *   **A:** 손님이 자주 찾는 기본 피자를 미리 준비해 두거나,
   도우를 여러 개 한 번에 깔아 두는 식으로 여유 시간에 미리
   작업해 두면 좋습니다. 게임에 익숙해질수록 동시에 여러 판을
   굽는 연습을 해 보세요.
 
-- **Q: 게임에 업그레이드 요소가 있나요?**  
-
-    - **A:** As you progress through the levels, you will unlock new toppings and menu items, which adds more complexity and challenge to the game.
-
-- **Q: Are there upgrades in the game?**
-
-    - **A:** Try to anticipate orders and prepare common pizza bases in advance during slower moments. As you get more comfortable, you can start making multiple pizzas at the same time.
-  **A:** 진행할수록 새로운 토핑과 메뉴가 해금되어 주문이 더
+*   **Q: 게임에 업그레이드 요소가 있나요?**
+    *   **A:** 진행할수록 새로운 토핑과 메뉴가 해금되어 주문이 더
   복잡해집니다. 어떤 버전에서는 오븐이나 주방 설비를 업그레이드해
   더 빠르게 굽거나, 한 번에 더 많은 피자를 처리할 수 있는 요소도
   포함될 수 있습니다.

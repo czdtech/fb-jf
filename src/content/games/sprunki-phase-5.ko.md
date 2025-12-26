@@ -15,7 +15,6 @@ score: 4.0/5  (604 votes)
 ---
 
 
-
 ### Sprunki Phase 5 소개
 
 Sprunki Phase 5는 팬이 제작한 음악 만들기 모드로, 기본적인 비트·멜로디 레이어링

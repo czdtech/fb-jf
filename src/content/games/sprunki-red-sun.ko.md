@@ -14,7 +14,6 @@ score: 4.4/5  (232 votes)
 ---
 
 
-
 ### Sprunki Red Sun이란?
 
 Sprunki Red Sun 모드는 익숙한 스프룽키 세계를, 뜨겁게 달궈진 붉은 태양 아래의

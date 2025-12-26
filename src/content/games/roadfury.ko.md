@@ -16,7 +16,6 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-
 ### 게임 상세 소개
 
 *Road Fury*는 혼란스러운 고속도로를 배경으로 한 탑다운 수직 스크롤
@@ -61,21 +60,15 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### 자주 묻는 질문(FAQ)
 
-- **Q: 총은 어떻게 쏘나요?**  
-  **A:** 수동 조작이 필요 없습니다. 기본 무기는 자동 사격되며,
+*   **Q: 총은 어떻게 쏘나요?**
+    *   **A:** 수동 조작이 필요 없습니다. 기본 무기는 자동 사격되며,
   플레이어는 회피와 파워업 수집에 집중하면 됩니다.
 
-    - **Q: 도로 위에 떠 있는 아이콘은 무엇인가요?**  
-  **A:** 보호막, 로켓, 체력 회복, 코인 자석 등 일시적인 파워업입니다.
+*   **Q: 도로 위에 떠 있는 아이콘은 무엇인가요?**
+    *   **A:** 보호막, 로켓, 체력 회복, 코인 자석 등 일시적인 파워업입니다.
   차량을 그 위로 지나가게 하면 효과가 발동합니다.
 
-- **Q: 가장 먼저 올려야 할 업그레이드는 무엇인가요?**  
-
-    - **A:** In the beginning, upgrading your main weapon's damage is a great investment as it helps you destroy enemies faster and earn coins more quickly. After that, increasing your armor to survive more hits is also very important.
-
-- **Q: What is the best upgrade?**
-
-    - **A:** These are temporary power-ups. Drive over them to collect shields, powerful special weapons like rockets, health repairs, and magnets that attract coins.
-  **A:** 초반에는 메인 무기 공격력을 먼저 올려 적을 빨리 처리하는
+*   **Q: 가장 먼저 올려야 할 업그레이드는 무엇인가요?**
+    *   **A:** 초반에는 메인 무기 공격력을 먼저 올려 적을 빨리 처리하는
   것이 좋습니다. 이후에는 피격을 버티기 위한 장갑 업그레이드를
   병행하면 안정적으로 더 먼 거리까지 갈 수 있습니다.

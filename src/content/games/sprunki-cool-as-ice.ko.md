@@ -15,7 +15,6 @@ score: 4.2/5  (324 votes)
 ---
 
 
-
 ### Sprunki Cool As Ice 소개
 
 평범한 음악 제작 게임이 지겨워졌다면, Sprunki: Cool As Ice에서 눈의 왕국 같은

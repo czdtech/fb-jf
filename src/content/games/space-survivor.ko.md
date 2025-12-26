@@ -17,7 +17,6 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-
 ### 게임 상세 소개
 
 Space Survivor는 "Vampire Survivors" 스타일의 로그라이크 생존 액션 게임입니다.

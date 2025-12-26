@@ -14,7 +14,6 @@ score: 4.2/5  (347 votes)
 ---
 
 
-
 ### Sprunki Mod BFDI란?
 
 Sprunki Mod BFDI, 즉 Sprunki Battle for Dream Island는 익숙한 Sprunki 음악 제작에
@@ -58,7 +57,7 @@ BFDI 분위기를 물씬 풍깁니다.
   인터페이스와 그래픽이 BFDI 스타일로 정돈되어, Sprunki와 BFDI의 분위기가
   자연스럽게 섞인 화면을 감상할 수 있습니다.
 - **보너스 콘텐츠:**
-  특定 사운드 조합으로 해금되는 전용 애니메이션과 효과가 있어, 탐색하는
+  특정 사운드 조합으로 해금되는 전용 애니메이션과 효과가 있어, 탐색하는
   재미가 큽니다.
 - **커뮤니티와의 교류:**
   직접 만든 트랙을 공유하고, 다른 유저의 작품을 듣고 의견을 나누며
@@ -83,9 +82,12 @@ Sprunki Mod BFDI는 Incredibox식 음악 제작의 재미에 BFDI 특유의 기�
   어울리는지 탐색하는 과정이 자연스러운 두뇌 훈련이 됩니다.
 - **스트레스 해소:** 부담 없이 캐릭터를 올렸다 내리며 소리를 섞다 보면,
   기분 전환과 가벼운 해방감을 느낄 수 있습니다.
-- **팬덤 교류:** BFDI와 Sprunki 팬들이 모인 커뮤니티에서 작품을 공유하며,
-
-- **Endless Fun:** With limitless remix options and dynamic storytelling elements, Sprunki Mod BFDI offers hours of creative and entertaining gameplay that never gets old.
-
-- **Accessibility:** Play Sprunki Mod BFDI online for free, anytime and anywhere, allowing everyone to join in the fun without any financial commitment.
+- **팬덤 교류:** BFDI와 Sprunki 팬들이 모인 커뮤니티에서 작품을 공유하고,
   공감과 피드백을 나눌 수 있습니다.
+- **접근성:** 별도 설치 없이 브라우저에서 무료로 바로 플레이할 수 있어,
+  언제 어디서든 가볍게 즐길 수 있습니다.
+- **끝없는 리믹스 재미:** 조합의 폭이 넓어, 매번 다른 트랙을 만드는 재미가
+  오래 이어집니다.
+
+지금 바로 Sprunki Mod BFDI에 접속해, 음악과 애니메이션이 결합된 독특한 믹스를
+직접 만들어 보세요.

@@ -17,7 +17,6 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
-
 ### 게임 소개
 
 *Pokemon Fire Red*는 초대작 *Pokémon Red*를 GBA로 리메이크한

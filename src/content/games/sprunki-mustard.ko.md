@@ -14,7 +14,6 @@ score: 3.9/5  (827 votes)
 ---
 
 
-
 ### Sprunki Mustard란?
 
 Sprunki Mustard는 단순히 색만 바꾼 모드가 아니라, 시각과 청각 전체를

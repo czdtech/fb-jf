@@ -14,7 +14,6 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-
 ### 게임 상세 소개
 
 *Poly Art* (또는 *Poly Puzzle*)는 눈이 즐거운 3D 관찰 퍼즐 게임입니다.
@@ -60,23 +59,17 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### 자주 묻는 질문(FAQ)
 
-- **Q: 게임의 목표는 무엇인가요?**  
-  **A:** 흩어진 3D 조각들이 하나의 완성된 그림으로 보이는 각도를
+*   **Q: 게임의 목표는 무엇인가요?**
+    *   **A:** 흩어진 3D 조각들이 하나의 완성된 그림으로 보이는 각도를
   찾는 것입니다. 정확한 각도에 도달하면 조각들이 자연스럽게
   하나의 일러스트처럼 보입니다.
 
-    - **Q: 아무리 돌려도 그림이 안 보여요. 힌트가 있나요?**  
-  **A:** 일부 버전에는 퍼즐을 정답 각도에 조금씩 가깝게 돌려 주거나,
+*   **Q: 아무리 돌려도 그림이 안 보여요. 힌트가 있나요?**
+    *   **A:** 일부 버전에는 퍼즐을 정답 각도에 조금씩 가깝게 돌려 주거나,
   완성 이미지를 잠깐 보여 주는 힌트 기능이 포함되어 있습니다.
   제공되는 경우 막혔을 때만 최소한으로 사용하는 것을 추천합니다.
 
-- **Q: 시간 제한이나 오답 패널티가 있나요?**  
-
-    - **A:** No. Poly Art games are designed to be stress-free. There are no time limits, scores, or penalties, allowing you to solve the puzzles at your own pace.
-
-- **Q: Is there a time limit or a penalty for wrong moves?**
-
-    - **A:** Many versions of Poly Art games include a hint system. If available, using a hint might slowly rotate the puzzle closer to the correct orientation or flash the final image for a second.
-  **A:** 대부분의 Poly Art류 게임은 시간 제한이 없고, 잘못 돌려도
+*   **Q: 시간 제한이나 오답 패널티가 있나요?**
+    *   **A:** 대부분의 Poly Art류 게임은 시간 제한이 없고, 잘못 돌려도
   페널티가 없습니다. 자신의 속도에 맞춰 자유롭게 퍼즐을 맞추면
   됩니다.

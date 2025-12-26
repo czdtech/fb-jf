@@ -16,7 +16,6 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-
 ### 게임 상세 소개
 
 *Roll This Ball*은 논리력과 계획력을 시험하는 고전 슬라이딩 블록
@@ -60,21 +59,15 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### 자주 묻는 질문(FAQ)
 
-- **Q: 이 게임의 최종 목표는 무엇인가요?**  
-  **A:** 공이 출발 블록에서 골 블록까지 멈추지 않고 굴러갈 수 있도록
+*   **Q: 이 게임의 최종 목표는 무엇인가요?**
+    *   **A:** 공이 출발 블록에서 골 블록까지 멈추지 않고 굴러갈 수 있도록
   모든 조각을 연결해 완전한 통로를 만드는 것입니다.
 
-    - **Q: 어떤 블록은 왜 움직이지 않나요?**  
-  **A:** 못이나 리벳이 박힌 블록은 고정 타일이라 움직일 수 없습니다.
+*   **Q: 어떤 블록은 왜 움직이지 않나요?**
+    *   **A:** 못이나 리벳이 박힌 블록은 고정 타일이라 움직일 수 없습니다.
   이들을 기준으로 나머지 경로를 설계해야 합니다.
 
-- **Q: 길이 연결된 것 같은데 공이 굴러가지 않아요.**  
-
-    - **A:** Make sure the path is truly continuous. It's easy to miss a small gap or have a piece facing the wrong direction. Double-check every connection from start to finish.
-
-- **Q: I've made a path, but the ball isn't rolling. Why?**
-
-    - **A:** Blocks with iron rivets on them are fixed in place and cannot be moved. You must build your path around these immovable obstacles.
-  **A:** 조각 방향이 살짝 틀어져 작은 틈이 생겼을 수 있습니다.
+*   **Q: 길이 연결된 것 같은데 공이 굴러가지 않아요.**
+    *   **A:** 조각 방향이 살짝 틀어져 작은 틈이 생겼을 수 있습니다.
   시작부터 끝까지 모든 연결 부분이 정확히 이어져 있는지, 블록
   방향이 맞게 놓여 있는지 다시 한 번 확인해 보세요.

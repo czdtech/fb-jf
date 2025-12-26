@@ -15,7 +15,6 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-
 ### 게임 상세 소개
 
 *Perfect Piano*는 인기 모바일 게임 "Piano Tiles"와 유사한 형식의
@@ -61,23 +60,17 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### 자주 묻는 질문(FAQ)
 
-- **Q: 타일을 놓치거나 엉뚱한 곳을 누르면 어떻게 되나요?**  
-  **A:** 대부분의 모드에서 한 번이라도 미스를 내면 곡이 바로
+*   **Q: 타일을 놓치거나 엉뚱한 곳을 누르면 어떻게 되나요?**
+    *   **A:** 대부분의 모드에서 한 번이라도 미스를 내면 곡이 바로
   종료되고 처음부터 다시 시작해야 합니다. 일부 모드는 제한된
   횟수의 실수를 허용하기도 합니다.
 
-    - **Q: 높은 점수를 얻으려면 어떻게 해야 하나요?**  
-  **A:** 모든 노트를 정확한 타이밍에 연속으로 맞추는 것이 가장
+*   **Q: 높은 점수를 얻으려면 어떻게 해야 하나요?**
+    *   **A:** 모든 노트를 정확한 타이밍에 연속으로 맞추는 것이 가장
   중요합니다. 콤보가 이어질수록 점수 배율이 올라가며, 한 번도
   실수하지 않는 "퍼펙트" 연주는 최고 점수에 가까워집니다.
 
-- **Q: 다른 곡도 플레이할 수 있나요?**  
-
-    - **A:** Yes, the game features a library of songs to choose from, often categorized by difficulty. You may need to unlock more difficult songs by successfully completing the easier ones first.
-
-- **Q: Can I play different songs?**
-
-    - **A:** By hitting every single note perfectly. The game tracks your combo, and your score multiplier increases as you hit more notes consecutively without a miss. A perfect run will yield the highest possible score.
-  **A:** 네. 게임에는 난이도별로 다양한 곡이 수록되어 있으며,
+*   **Q: 다른 곡도 플레이할 수 있나요?**
+    *   **A:** 네. 게임에는 난이도별로 다양한 곡이 수록되어 있으며,
   쉬운 곡을 클리어하거나 특정 점수를 달성하면 더 어려운 곡이
   차례대로 해금되는 방식이 일반적입니다.

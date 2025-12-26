@@ -14,7 +14,6 @@ score: 4.0/5  (89 votes)
 ---
 
 
-
 Pikmin의 기묘한 세계가 Sprunki 특유의 리듬 연출과 만나면 어떤
 느낌일까요? *Pikmin No Sprunki*는 바로 그 상상을 현실로 만든
 Scratch 기반 음악 게임입니다. Incredibox 같은 스타일의 사운드

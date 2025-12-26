@@ -17,7 +17,6 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-
 ### 게임 상세 소개
 
 *Pets Rush*는 귀여운 동물 아이콘으로 구성된 빠른 템포의 3매치 퍼즐
@@ -65,23 +64,17 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### 자주 묻는 질문(FAQ)
 
-- **Q: 게임은 언제 패배로 처리되나요?**  
-  **A:** 어느 한 열이라도 펫 블록이 화면 맨 위 칸에 닿는 순간,
+*   **Q: 게임은 언제 패배로 처리되나요?**
+    *   **A:** 어느 한 열이라도 펫 블록이 화면 맨 위 칸에 닿는 순간,
   그 즉시 게임이 종료됩니다. 한 줄이라도 너무 높이 쌓이지 않도록
   계속해서 정리해야 합니다.
 
-    - **Q: 고득점을 노리는 가장 좋은 방법은 무엇인가요?**  
-  **A:** 최대한 오래 버티는 것과 연쇄 콤보를 만드는 것이 핵심입니다.
+*   **Q: 고득점을 노리는 가장 좋은 방법은 무엇인가요?**
+    *   **A:** 최대한 오래 버티는 것과 연쇄 콤보를 만드는 것이 핵심입니다.
   한 번의 움직임으로 여러 줄을 지우거나, 연속해서 매치가 일어나면
   점수 배율이 올라가 최종 점수가 크게 상승합니다.
 
-- **Q: 올라오는 블록을 멈추게 할 수 있는 방법이 있나요?**  
-
-    - **A:** The only way to stop them is to continuously make matches. Every time you make a successful match, the rising wall will pause for a moment.
-
-- **Q: Is there a way to stop the blocks from rising?**
-
-    - **A:** Survival and combos. The longer you last, the more points you'll get. Creating chain reactions where multiple matches happen in one move will give you a score multiplier and significantly boost your final score.
-  **A:** 기본적으로 블록의 상승은 매치가 만들어질 때 잠시 멈춥니다.
+*   **Q: 올라오는 블록을 멈추게 할 수 있는 방법이 있나요?**
+    *   **A:** 기본적으로 블록의 상승은 매치가 만들어질 때 잠시 멈춥니다.
   따라서 계속해서 매치를 이어 가는 것이 곧 "속도를 늦추는" 유일한
   방법입니다. 연속 콤보를 만들수록 여유 시간을 더 많이 벌 수 있습니다.

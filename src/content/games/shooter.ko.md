@@ -17,7 +17,6 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
-
 ### 게임 소개
 
 *Five Nights at Freddy's Shooter*는 FNAF 시리즈의 애니매트로닉들을
