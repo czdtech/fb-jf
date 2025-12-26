@@ -11,10 +11,12 @@ developer: ""
 releaseDate: 2025-10-18
 ---
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Mergest Kingdom combines merge‑3 chains with kingdom building. Merge plants, stones, and artifacts to craft higher tiers, clear fog, and unlock new regions. Quests and events provide targets; energy and space limit reckless merging, rewarding planned ladders.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Merge‑3 vs 5: Save sets of 5 for extra yield when feasible.
@@ -23,21 +25,27 @@ Mergest Kingdom combines merge‑3 chains with kingdom building. Merge plants, s
 4.  Energy pacing: Spend in bursts on planned chains, then idle to regenerate.
 5.  Event prep: Stock partial sets before events for rapid progression.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Drag to merge items; tap buildings to collect; navigate regions via map.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- Q: I run out of space.
+- <!-- i18n:faq:id=faq:mergest-kingdom:i-run-out-of-space-28541d89 -->
+  Q: I run out of space.
   
   A: Consolidate into 5‑merges and sell clutter; expand land ASAP.
 
-- Q: Energy too slow?
+- <!-- i18n:faq:id=faq:mergest-kingdom:energy-too-slow-29048010 -->
+  Q: Energy too slow?
   
   A: Plan chains, collect daily rewards, and time boosts.
 
-- Q: Worth merging everything?
+- <!-- i18n:faq:id=faq:mergest-kingdom:worth-merging-everything-7820ba33 -->
+  Q: Worth merging everything?
   
   A: No — merge toward quests and buildings that unlock features.
+
 

@@ -12,10 +12,12 @@ releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 One line only: dot to dot follows the Euler path tradition: connect all points/edges with a single, unbroken stroke. Boards introduce bridges, forced turns, and parity tricks that require careful route planning and backtracking discipline.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Degree count: Start at odd‑degree nodes (0 or 2 exist for Euler trails); they suggest endpoints.
@@ -24,21 +26,27 @@ One line only: dot to dot follows the Euler path tradition: connect all points/e
 4.  Look‑ahead: Test two moves mentally; backtrack early when isolation appears.
 5.  Symmetry: Use symmetrical halves to mirror partial routes.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Drag to draw along segments; undo/clear via UI.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- Q: I end one step short — why?
+- <!-- i18n:faq:id=faq:one-line-only-dot-to-dot:i-end-one-step-short-2ba592fd -->
+  Q: I end one step short — why?
   
   A: You likely started at a wrong endpoint; try an odd‑degree node instead.
 
-- Q: Are crossings allowed?
+- <!-- i18n:faq:id=faq:one-line-only-dot-to-dot:are-crossings-allowed-127ec18f -->
+  Q: Are crossings allowed?
   
   A: Only along provided segments; no freehand crossings.
 
-- Q: Any hint system?
+- <!-- i18n:faq:id=faq:one-line-only-dot-to-dot:any-hint-system-83b1a6f0 -->
+  Q: Any hint system?
   
   A: Many builds provide hints or highlight bridges.
+
 

@@ -12,10 +12,12 @@ releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Parking Jam is a Rush‑Hour style puzzle: slide cars along their lanes to clear the path for the target vehicle. Higher levels cram lots with multi‑length cars, one‑way arrows, and blockers requiring precise order of operations.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Goal backchain: Work backward from the exit to identify cars that truly gate progress.
@@ -24,21 +26,27 @@ Parking Jam is a Rush‑Hour style puzzle: slide cars along their lanes to clear
 4.  Priority stack: Park non‑critical cars in dead zones to keep corridors free.
 5.  Undo early: If progress stalls, rewind before the last “dead shuffle” and choose a different unlock.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Drag cars along permitted axes; undo/reset via UI.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- Q: I spin wheels with no progress — advice?
+- <!-- i18n:faq:id=faq:parking-jam:i-spin-wheels-with-no-746ce5d3 -->
+  Q: I spin wheels with no progress — advice?
   
   A: Reassess which car blocks the exit chain; find a move that frees multiple cars.
 
-- Q: Are diagonal moves allowed?
+- <!-- i18n:faq:id=faq:parking-jam:are-diagonal-moves-allowed-b138326e -->
+  Q: Are diagonal moves allowed?
   
   A: No — cars slide only along their length.
 
-- Q: Any hints?
+- <!-- i18n:faq:id=faq:parking-jam:any-hints-0ea898ea -->
+  Q: Any hints?
   
   A: Many versions include step‑wise hints; use sparingly to preserve challenge.
+
 

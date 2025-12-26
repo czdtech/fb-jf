@@ -13,10 +13,12 @@ releaseDate: 2025-10-18
 
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Metal Guns Fury is a side‑scrolling run‑and‑gun in the spirit of arcade classics. Swap between rifles/shotguns/rockets, rescue hostages for power‑ups, and clear arenas packed with soldiers, turrets, and light vehicles. Clean jumps, slide‑dodges, and ammo discipline separate stable clears from messy deaths.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Target priority: Turrets and rockets first; basic grunts later.
@@ -25,21 +27,27 @@ Metal Guns Fury is a side‑scrolling run‑and‑gun in the spirit of arcade cl
 4.  Power‑ups: Route rescues to refresh HP/ammo before boss gates.
 5.  Boss patterns: Read phases; punish windows rather than face‑tank.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Move: Arrows/WASD; Shoot: J/Click; Jump: K/Space; Grenade/Ability: L/E (varies); Swap: Q.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- Q: I get shredded in crossfire.
+- <!-- i18n:faq:id=faq:metal-guns-fury:i-get-shredded-in-crossfire-3a6b6639 -->
+  Q: I get shredded in crossfire.
   
   A: Clear one lane at a time, abuse cover edges, and avoid standing mid‑screen.
 
-- Q: Ammo runs dry on bosses.
+- <!-- i18n:faq:id=faq:metal-guns-fury:ammo-runs-dry-on-bosses-b9e64dfd -->
+  Q: Ammo runs dry on bosses.
   
   A: Save heavy ammo for armor breaks; use burst fire on adds to conserve.
 
-- Q: Which weapon is best?
+- <!-- i18n:faq:id=faq:metal-guns-fury:which-weapon-is-best-8e684d4d -->
+  Q: Which weapon is best?
   
   A: Shotgun for close packs, rifle for mid‑range, rockets for heavies.
+
 

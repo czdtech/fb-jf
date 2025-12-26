@@ -13,10 +13,12 @@ releaseDate: 2025-10-18
 
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Mess on the Ranch is a charming organizational puzzle. Herd animals back to pens, place tools in the right sheds, fix broken fence segments, and clear debris — all within move or time limits. Levels emphasize route planning and prioritization.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Pen priority: Secure loose animals first to reduce chaos.
@@ -25,21 +27,27 @@ Mess on the Ranch is a charming organizational puzzle. Herd animals back to pens
 4.  Fence triage: Repair segments that unblock multiple tasks.
 5.  Bonus goals: Attempt optional cleanups only with spare moves.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Drag/tap to move and interact; context prompts for repair/deliver actions.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- Q: I run out of moves.
+- <!-- i18n:faq:id=faq:mess-on-the-ranch:i-run-out-of-moves-0e48d1a7 -->
+  Q: I run out of moves.
   
   A: Combine tasks in a single loop and avoid single‑purpose detours.
 
-- Q: Animals wander off.
+- <!-- i18n:faq:id=faq:mess-on-the-ranch:animals-wander-off-15c1e6e4 -->
+  Q: Animals wander off.
   
   A: Pen them first, then do tool/fence tasks.
 
-- Q: Timers too tight.
+- <!-- i18n:faq:id=faq:mess-on-the-ranch:timers-too-tight-628524e0 -->
+  Q: Timers too tight.
   
   A: Ignore optional litter and focus on objectives.
+
 

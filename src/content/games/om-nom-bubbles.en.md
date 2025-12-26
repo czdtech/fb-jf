@@ -13,10 +13,12 @@ releaseDate: 2025-10-18
 
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Om Nom Bubbles is a classic bubble‑shooter starring the beloved Om Nom. Aim and shoot colored bubbles to make matches of three or more and clear sections of the board. Strategic banking off the walls, color management, and planning for upcoming bubbles are key to keeping the ceiling from dropping too low.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Target anchors: Remove clusters that hold large sections; collapsing big groups accelerates clears.
@@ -25,15 +27,21 @@ Om Nom Bubbles is a classic bubble‑shooter starring the beloved Om Nom. Aim an
 4.  Look ahead: Many versions show the next bubble—pre‑plan two moves to avoid blocking your own lanes.
 5.  Don’t chase tiny groups: When the ceiling is low, clear access lanes first, then finish leftovers.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Aim: Move the cursor or drag to set trajectory; a guide may show the path.
 - Shoot: Click or release to fire.
 - Swap (if available): Some versions allow swapping the current and next bubble for flexibility.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- How do I reach covered clusters? Bank a shot off the side wall to approach from an angle.
-- What if the wrong color keeps coming? Use it to trim small groups or set up future collapses; swap if the mode allows.
-- Do I need all stars? No, but higher ratings unlock extra levels and are a fun mastery goal.
+- <!-- i18n:faq:id=faq:om-nom-bubbles:how-do-i-reach-covered-04be049c -->
+  How do I reach covered clusters? Bank a shot off the side wall to approach from an angle.
+- <!-- i18n:faq:id=faq:om-nom-bubbles:what-if-the-wrong-color-6ccf8d84 -->
+  What if the wrong color keeps coming? Use it to trim small groups or set up future collapses; swap if the mode allows.
+- <!-- i18n:faq:id=faq:om-nom-bubbles:do-i-need-all-stars-c6a73dae -->
+  Do I need all stars? No, but higher ratings unlock extra levels and are a fun mastery goal.
+
 

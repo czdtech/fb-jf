@@ -13,10 +13,12 @@ releaseDate: 2025-10-17
 
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Minesweeper is a classic single-player logic puzzle that has been a staple of personal computing for decades. The objective is to clear a rectangular grid containing hidden "mines" or bombs without detonating any of them. To do this, you use clues from revealed squares that tell you how many mines are in the adjacent eight squares. It's a game of pure deduction and careful risk assessment.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **The First Click:** Your first click is always safe. If you click a square that has no adjacent mines, it will open a large area, which is a great start.
@@ -25,19 +27,25 @@ Minesweeper is a classic single-player logic puzzle that has been a staple of pe
 4.  **Flag Your Mines:** When you are 100% certain a square contains a mine, right-click to "flag" it. This prevents you from accidentally clicking on it later and helps you keep track of where the dangers are.
 5.  **Chord-Clicking:** If a numbered square already has the correct number of flags touching it, you can click on the number itself (or often middle-click/left+right click) to automatically reveal all its other adjacent, un-flagged squares. This is a fast way to clear the board but be careful—if your flags are wrong, you will detonate a mine!
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 *   **Reveal a Square:** Left-click on a covered square.
 *   **Flag a Square:** Right-click on a covered square to place a flag. Right-click again to remove it.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: What do the numbers on the squares mean?**
+* <!-- i18n:faq:id=faq:minesweeper-2:q-what-do-the-numbers-c0ff8925 -->
+  **Q: What do the numbers on the squares mean?**
     *   **A:** A number indicates the exact count of mines in the eight squares immediately surrounding it.
 
-*   **Q: What happens if I click on a mine?**
+* <!-- i18n:faq:id=faq:minesweeper-2:q-what-happens-if-i-5fd42843 -->
+  **Q: What happens if I click on a mine?**
     *   **A:** The game ends instantly, and all the mine locations are revealed.
 
-*   **Q: Do I have to place flags to win?**
+* <!-- i18n:faq:id=faq:minesweeper-2:q-do-i-have-to-0533f6fd -->
+  **Q: Do I have to place flags to win?**
     *   **A:** No, flagging is just a tool to help you remember. The game is won by revealing all the squares that do *not* contain mines, regardless of whether you have flagged the mines or not.
+
 

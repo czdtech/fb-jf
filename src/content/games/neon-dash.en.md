@@ -13,10 +13,12 @@ releaseDate: 2025-10-18
 
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Neon Dash is a reflex‑driven runner filled with spikes, platforms, and pulsing traps. Levels emphasize clean timing—short hops, late jumps, and consistent rhythm help you pass tight obstacle sequences. Expect checkpointed stages or one‑shot clears depending on the mode.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Learn jump arcs: Practice short/long taps to fine‑tune distance; late jumps often clear spikes more safely.
@@ -25,14 +27,20 @@ Neon Dash is a reflex‑driven runner filled with spikes, platforms, and pulsing
 4.  Use sound cues: Music often maps to obstacles—let it guide your jump cadence.
 5.  Drill tough sections: Restart and isolate the hardest segment to build muscle memory.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Jump: Space/Click/Tap (press length may vary height in some versions).
 - Pause/Retry: On‑screen controls or keyboard shortcuts.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- Why do I clip spikes? You’re jumping too early—delay slightly and keep momentum smooth.
-- Is there double jump? Some levels introduce special pads or toggles; follow on‑screen hints.
-- Any tip for late‑game? Slow down mentally, count beats, and commit to practiced timing windows.
+- <!-- i18n:faq:id=faq:neon-dash:why-do-i-clip-spikes-7e728366 -->
+  Why do I clip spikes? You’re jumping too early—delay slightly and keep momentum smooth.
+- <!-- i18n:faq:id=faq:neon-dash:is-there-double-jump-295a4848 -->
+  Is there double jump? Some levels introduce special pads or toggles; follow on‑screen hints.
+- <!-- i18n:faq:id=faq:neon-dash:any-tip-for-lategame-36f88010 -->
+  Any tip for late‑game? Slow down mentally, count beats, and commit to practiced timing windows.
+
 

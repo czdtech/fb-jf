@@ -13,6 +13,7 @@ releaseDate: 2025-10-18
 
 
 
+<!-- i18n:section:introduction -->
 ### **Game Introduction**
 
 *Pin the UFO* is a charming and strategic "pull the pin" puzzle game set in outer space. The primary objective is to **safely guide a group of colorful alien "cubs" into their UFO spaceship at the bottom of the screen.**
@@ -26,6 +27,7 @@ The game introduces several key mechanics:
 
 The challenge lies in figuring out the precise sequence of pin-pulls to ensure all colorless aliens are colored, all hazards are avoided, and all aliens successfully reach the UFO.
 
+<!-- i18n:section:tips -->
 ### **Gameplay Strategy & Tips**
 
 1.  **Plan Before You Pull**: This is the most important rule. Do not pull pins randomly. Take a moment to look at the entire setup and mentally trace the path the aliens will take for each possible pin-pull.
@@ -34,23 +36,30 @@ The challenge lies in figuring out the precise sequence of pin-pulls to ensure a
 4.  **The Order Matters**: The sequence in which you pull the pins is everything. Pulling pin A before pin B might lead to success, while pulling B before A leads to failure. Think of it like a combination lock.
 5.  **Look for Separators**: Some pins are there just to keep things separate (e.g., bombs from aliens, colored aliens from colorless ones). Understand the function of each pin before you remove it.
 
+<!-- i18n:section:controls -->
 ### **Controls Guide**
 
 The controls are extremely simple and designed for one-touch mobile gameplay.
 
 *   **Pull a Pin**: **Click and drag** the pin you want to remove out of its slot. Alternatively, a simple **tap** on the end of the pin often works as well.
 
+<!-- i18n:section:faq -->
 ### **Frequently Asked questions (FAQ)**
 
+<!-- i18n:faq:id=faq:pin-the-ufo:why-did-i-lose-the-16a3165c -->
 **1. Why did I lose the level? All the aliens got to the UFO!**
 You likely failed to color all the colorless (grey/white) aliens. Only colored aliens count as being successfully "saved." Make sure every alien has been colored before they enter the spaceship.
 
+<!-- i18n:faq:id=faq:pin-the-ufo:i-pulled-a-pin-and-3d8783b1 -->
 **2. I pulled a pin, and everything exploded. What did I do wrong?**
 You allowed the aliens to come into contact with a bomb. The solution to these levels involves finding a way to get rid of the bombs first, or guiding the aliens along a path that safely avoids them.
 
+<!-- i18n:faq:id=faq:pin-the-ufo:the-level-seems-impossible-wha-2caf72de -->
 **3. The level seems impossible. What should I do?**
 Every level has a specific solution. If you are stuck, try to rethink the order of your pin-pulls. The solution is often counter-intuitive. Consider pulling a pin that doesn't seem to lead directly to the exit, but instead sets up a better flow for the aliens.
 
+<!-- i18n:faq:id=faq:pin-the-ufo:what-is-the-goal-of-c816fee5 -->
 **4. What is the goal of the game?**
 The goal is to successfully solve each puzzle level by getting all the colored aliens into the UFO, progressing through as many levels as possible.
+
 

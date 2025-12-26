@@ -12,10 +12,12 @@ releaseDate: 2025-10-17
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Parking Rush is a clever and addictive line-drawing puzzle game that puts you in control of a chaotic parking lot. Your job is to play the role of a parking attendant and guide each car to its designated, color-matched parking space. The challenge is to draw paths for all the cars without them crashing into each other. As the levels progress, the number of cars and obstacles increases, requiring careful planning and timing to succeed.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Plan Your Routes:** Before you draw a single line, take a look at the entire layout. Identify which cars have the shortest or most direct paths and which ones might need to take a longer route to avoid a collision.
@@ -23,20 +25,26 @@ Parking Rush is a clever and addictive line-drawing puzzle game that puts you in
 3.  **One Car at a Time:** For complex levels, it's often best to draw a path for one car, let it park, and then move on to the next one. This reduces the number of moving vehicles you have to worry about at any given moment.
 4.  **Use Open Space:** Don't be afraid to draw paths that loop around the edges or through empty parts of the parking lot. A longer path is better than a crash!
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 The game is played with a simple line-drawing mechanic.
 
 *   **Draw a Path:** Click and hold on a car, then drag your mouse or finger to draw a line to its corresponding parking spot. The car will start moving as soon as you release.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: What happens if two cars crash?**
+* <!-- i18n:faq:id=faq:parking-rush:q-what-happens-if-two-9ec11d97 -->
+  **Q: What happens if two cars crash?**
     *   **A:** You will fail the level and have to restart it from the beginning.
 
-*   **Q: How do I stop cars from crashing when their paths cross?**
+* <!-- i18n:faq:id=faq:parking-rush:q-how-do-i-stop-ac2876f6 -->
+  **Q: How do I stop cars from crashing when their paths cross?**
     *   **A:** You must manage the timing. Make one car's path much longer than the other's so that they arrive at the intersection at different times. You can also wait for one car to park completely before you even start drawing the path for the second car.
 
-*   **Q: Do I have to park all the cars?**
+* <!-- i18n:faq:id=faq:parking-rush:q-do-i-have-to-370e86e4 -->
+  **Q: Do I have to park all the cars?**
     *   **A:** Yes, the level is only complete when every car has been safely guided to its correct parking space.
+
 

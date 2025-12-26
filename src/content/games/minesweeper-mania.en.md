@@ -12,10 +12,12 @@ releaseDate: 2025-10-17
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Minesweeper Mania is a polished version of the timeless single-player logic puzzle, Minesweeper. The objective is to clear a rectangular grid containing hidden mines without detonating any of them. You must use the number clues revealed on the board to deduce where the mines are. Each number tells you how many mines are in the eight adjacent squares. This version offers multiple difficulty levels, providing a fresh challenge for both new players and seasoned veterans.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **The First Click is Free:** Your first click in any game is always safe and will never be a mine. A good start is to click a few times in the corners and center to open up the board.
@@ -24,19 +26,25 @@ Minesweeper Mania is a polished version of the timeless single-player logic puzz
 4.  **Chord-Clicking for Speed:** Once a numbered square is touching the correct number of flagged mines, you can click on the number itself (often a middle-click or left+right click) to automatically clear all other remaining adjacent squares. This is the fastest way to clear large safe areas.
 5.  **Process of Elimination:** If you can't find a definite safe square, use logic to eliminate possibilities. Ask yourself, "If this square were a mine, would it make sense with the numbers around it?" This can help you deduce safe squares to click.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 *   **Reveal a Square:** Left-click on a covered square.
 *   **Flag a Square:** Right-click on a covered square to place or remove a flag.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: What do the numbers mean?**
+* <!-- i18n:faq:id=faq:minesweeper-mania:q-what-do-the-numbers-72c417f7 -->
+  **Q: What do the numbers mean?**
     *   **A:** A number on a square indicates the exact number of mines in the eight squares immediately surrounding it (horizontally, vertically, and diagonally).
 
-*   **Q: What happens if I click on a mine?**
+* <!-- i18n:faq:id=faq:minesweeper-mania:q-what-happens-if-i-5fd42843 -->
+  **Q: What happens if I click on a mine?**
     *   **A:** The game ends immediately in a loss.
 
-*   **Q: Do I have to use flags?**
+* <!-- i18n:faq:id=faq:minesweeper-mania:q-do-i-have-to-f6cc0b4c -->
+  **Q: Do I have to use flags?**
     *   **A:** No, flags are not required to win. They are simply a tool to help you remember where you think the mines are. You win by revealing all the safe squares, not by flagging all the mines.
+
 

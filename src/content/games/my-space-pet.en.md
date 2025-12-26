@@ -12,10 +12,12 @@ releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 My Space Pet invites you to adopt and care for an adorable alien creature named Zuub. This charming virtual pet game combines elements of nurturing, mini-games, and customization. Your mission is to keep Zuub happy and healthy by fulfilling its basic needs: feeding it when hungry, washing it when dirty, and ensuring it gets enough rest. Beyond basic care, you can play engaging mini-games to earn coins, which can then be used to unlock a variety of stylish outfits and accessories to personalize your space pet.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Monitor Zuub's Needs:** Keep a close eye on Zuub's indicators for hunger, hygiene, and sleep. Addressing these needs promptly will keep Zuub happy and energetic.
@@ -23,18 +25,24 @@ My Space Pet invites you to adopt and care for an adorable alien creature named 
 3.  **Customize Zuub:** Use your earned coins to buy new outfits and accessories. Personalizing Zuub adds to the fun and can sometimes unlock special interactions.
 4.  **Explore and Interact:** Tap on different parts of the screen or interface elements to discover new interactions and activities with Zuub. A happy Zuub might even give you bonus rewards.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 *   **Click/Tap:** Use your mouse (on desktop) or finger (on mobile) to interact with Zuub, select menu options, and play mini-games.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: What happens if I don't care for Zuub?**
+* <!-- i18n:faq:id=faq:my-space-pet:q-what-happens-if-i-b6e995a0 -->
+  **Q: What happens if I don't care for Zuub?**
     *   **A:** If Zuub's needs are neglected, its happiness and energy levels will decrease, and it might become sad or sick. Regular care is important to keep your pet thriving.
 
-*   **Q: How do I earn coins in the game?**
+* <!-- i18n:faq:id=faq:my-space-pet:q-how-do-i-earn-8f5d70f3 -->
+  **Q: How do I earn coins in the game?**
     *   **A:** Coins are primarily earned by playing and succeeding in the various mini-games available within My Space Pet.
 
-*   **Q: Can I have more than one space pet?**
+* <!-- i18n:faq:id=faq:my-space-pet:q-can-i-have-more-f4d87843 -->
+  **Q: Can I have more than one space pet?**
     *   **A:** Typically, virtual pet games focus on one main pet. Check the game's specific features, but usually, the focus is on developing a strong bond with your single space companion.
+
 

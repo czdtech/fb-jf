@@ -12,10 +12,12 @@ releaseDate: 2025-10-17
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Pirate Poker is a classic five-card draw poker game with a swashbuckling pirate theme. You'll sit at a table with salty pirate opponents, betting your gold doubloons and trying to build the best possible five-card hand. The game involves rounds of betting, a chance to exchange your cards to improve your hand, and a final showdown to see who wins the pot. It's a game of strategy, psychology, and a little bit of luck.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Know the Hand Rankings:** The goal is to make the best five-card hand. From highest to lowest, the standard rankings are: Royal Flush, Straight Flush, Four of a Kind, Full House, Flush, Straight, Three of a Kind, Two Pair, One Pair, and High Card.
@@ -23,6 +25,7 @@ Pirate Poker is a classic five-card draw poker game with a swashbuckling pirate 
 3.  **Betting Strategy:** Don't be afraid to "Fold" if you have a very weak hand and the bets are getting high. Sometimes, you can "Bluff" by betting aggressively with a weak hand to try and scare your opponents into folding.
 4.  **Reading Your Opponents:** Pay attention to how your opponents are betting. If an opponent makes a very large bet, they likely have a strong hand (or are bluffing!). If they just "Check" (bet nothing), their hand might be weak.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 The game is played with on-screen buttons.
@@ -33,14 +36,19 @@ The game is played with on-screen buttons.
 *   **Fold:** Give up the hand, forfeiting any money already in the pot.
 *   **Discard:** During the draw phase, click on the cards you want to get rid of, then click the "Draw" button.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: What is the best hand in poker?**
+* <!-- i18n:faq:id=faq:pirate-poker:q-what-is-the-best-edb64428 -->
+  **Q: What is the best hand in poker?**
     *   **A:** A Royal Flush (A, K, Q, J, 10, all of the same suit) is the highest possible hand.
 
-*   **Q: What does it mean to "bluff"?**
+* <!-- i18n:faq:id=faq:pirate-poker:q-what-does-it-mean-6ead8536 -->
+  **Q: What does it mean to "bluff"?**
     *   **A:** Bluffing is a key part of poker. It means you are pretending to have a strong hand by betting aggressively, hoping that your opponents will believe you and fold their (potentially better) hands.
 
-*   **Q: When should I fold?**
+* <!-- i18n:faq:id=faq:pirate-poker:q-when-should-i-fold-d4d47b5c -->
+  **Q: When should I fold?**
     *   **A:** You should fold when you have a very weak hand (e.g., no pairs and no chance of a straight or flush) and another player has made a large bet. It's better to lose the small amount you've already bet than to risk losing much more on a bad hand.
+
 

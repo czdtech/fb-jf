@@ -13,10 +13,12 @@ releaseDate: 2025-10-18
 
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Join the adorable Om Nom in Om Nom Connect Xmas, a festive and fun tile-connecting puzzle game. The board is filled with Christmas-themed tiles featuring Om Nom, his friends, and delicious holiday treats. Your goal is to clear the board by finding and connecting pairs of identical tiles. With cheerful holiday music and cute graphics, it’s a relaxing yet challenging puzzle game perfect for the Christmas season.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Find Matching Pairs:** Scan the board for two identical tiles. The tiles must be connectable with a line that has no more than two turns (or corners).
@@ -24,19 +26,25 @@ Join the adorable Om Nom in Om Nom Connect Xmas, a festive and fun tile-connecti
 3.  **Think Ahead:** Sometimes you need to clear a specific pair of tiles to unblock a path for another match. Try to look a few moves ahead.
 4.  **Use Power-ups Wisely:** The game offers helpful tools if you get stuck. The magnifying glass will show you a possible match, and the shuffle button will rearrange all the tiles on the board, creating new opportunities.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 *   **Select Tiles:** Use your mouse to click on a tile to select it.
 *   **Connect Tiles:** Click on a second, identical tile to connect the pair. If the path is clear, the tiles will be removed from the board.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: What are the rules for connecting tiles?**
+* <!-- i18n:faq:id=faq:om-nom-connect-xmas:q-what-are-the-rules-cc82d104 -->
+  **Q: What are the rules for connecting tiles?**
     *   **A:** You can connect two identical tiles if the line connecting them has two or fewer right-angle turns. The line cannot pass through any other tiles.
 
-*   **Q: What should I do if I'm stuck and can't find a match?**
+* <!-- i18n:faq:id=faq:om-nom-connect-xmas:q-what-should-i-do-f7308610 -->
+  **Q: What should I do if I'm stuck and can't find a match?**
     *   **A:** First, take a moment to carefully scan the entire board. If you are still stuck, use the magnifying glass hint tool to reveal a match. If you feel completely blocked, use the shuffle power-up.
 
-*   **Q: Is there a time limit?**
+* <!-- i18n:faq:id=faq:om-nom-connect-xmas:q-is-there-a-time-c0411996 -->
+  **Q: Is there a time limit?**
     *   **A:** Yes, there is a timer for each level. You must clear the entire board before the time runs out to win.
+
 

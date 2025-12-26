@@ -12,10 +12,12 @@ releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Panenka Football focuses on the cheeky Panenka — a soft chip down the middle as the keeper dives. Mix chips with corners and height variations; success relies on late aim changes and reading keeper habits.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Keeper read: If the keeper dives early, chip middle; if he holds, pick corners.
@@ -24,21 +26,27 @@ Panenka Football focuses on the cheeky Panenka — a soft chip down the middle a
 4.  Rhythm: Don’t overuse Panenkas; rotate options.
 5.  Wind (if any): Offset shots slightly; keep chips low in strong wind.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Aim with mouse/keys; set power/height; optional swerve via drag if supported.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- Q: My Panenkas get saved.
+- <!-- i18n:faq:id=faq:panenka-football:my-panenkas-get-saved-51f6e2b6 -->
+  Q: My Panenkas get saved.
   
   A: Use them only when the keeper dives early; otherwise go corners.
 
-- Q: Best safe shot?
+- <!-- i18n:faq:id=faq:panenka-football:best-safe-shot-8caf83a6 -->
+  Q: Best safe shot?
   
   A: Firm low corners; they demand perfect keeper timing.
 
-- Q: How do I hide intent?
+- <!-- i18n:faq:id=faq:panenka-football:how-do-i-hide-intent-1f122414 -->
+  Q: How do I hide intent?
   
   A: Change aim late and vary run‑up tempo.
+
 

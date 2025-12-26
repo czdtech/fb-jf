@@ -13,10 +13,12 @@ releaseDate: 2025-10-18
 
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Northern Heights is a skiing game that takes you on an exciting journey over snow. Players navigate steep descents, perform gorgeous stunts for bonus points, and collect coins. The game emphasizes balancing speed and control, and offers customization options for characters, boards, and clothing.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Master the Controls:** Learn the controls for steering and stunt accuracy to navigate the slopes effectively.
@@ -25,14 +27,19 @@ Northern Heights is a skiing game that takes you on an exciting journey over sno
 4.  **Perform Stunts:** Use leaps and stunts strategically to earn bonus points.
 5.  **Collect Coins:** Collect coins to purchase accessories, boards, and clothing to customize your experience.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 *   **Arrow Keys/Mouse:** Use the arrow keys or mouse to steer your character down the slopes. Specific controls for stunts may vary.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: How do I score more points?**
+* <!-- i18n:faq:id=faq:northern-heights:q-how-do-i-score-147090df -->
+  **Q: How do I score more points?**
     *   **A:** Performing stunts, collecting coins, and finishing the course quickly will all contribute to a higher score.
-*   **Q: What can I do with the coins I collect?**
+* <!-- i18n:faq:id=faq:northern-heights:q-what-can-i-do-0eeda2c4 -->
+  **Q: What can I do with the coins I collect?**
     *   **A:** Coins can be used to purchase customization options for your character, including new boards and clothing.
+
 

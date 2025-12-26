@@ -12,10 +12,12 @@ releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Minesweeper 1000 is a modern take on the classic logic puzzle. Uncover all safe tiles without detonating mines: each revealed number shows how many bombs touch that tile (including diagonals). Larger boards emphasize pattern recognition, fast chording, and safe guessing minimization.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Core patterns: Master 1-2, 1-1, and 1-2-1 edge patterns to place flags deterministically.
@@ -24,21 +26,27 @@ Minesweeper 1000 is a modern take on the classic logic puzzle. Uncover all safe 
 4.  Frontier focus: Solve along the boundary between known and unknown; avoid random digs deep in fog.
 5.  Flag hygiene: Only flag when certain; otherwise keep candidate notes (if the build supports marks).
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Left‑click: reveal. Right‑click: flag. Middle/Chord: open around a satisfied number (implementation‑dependent). Quick restart from the menu.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- Q: I’m stuck with a 50/50 — what now?
+- <!-- i18n:faq:id=faq:minesweeper-1000:im-stuck-with-a-5050-da1033f7 -->
+  Q: I’m stuck with a 50/50 — what now?
   
   A: Scan for overlooked patterns elsewhere or pick the tile that reveals the largest new frontier if you must guess.
 
-- Q: What does chording do?
+- <!-- i18n:faq:id=faq:minesweeper-1000:what-does-chording-do-fe70e66d -->
+  Q: What does chording do?
   
   A: If a number’s adjacent flags equal its count, chording reveals all its other neighbors at once.
 
-- Q: Any tip for early game?
+- <!-- i18n:faq:id=faq:minesweeper-1000:any-tip-for-early-game-2a5266e2 -->
+  Q: Any tip for early game?
   
   A: Start in the center to maximize opening cascades; corners give less information.
+
 

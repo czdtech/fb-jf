@@ -12,10 +12,12 @@ releaseDate: 2025-10-17
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Pocket Champs is an idle multiplayer racing game where you don't directly control the race, but you control everything that leads to victory. Your role is to train your "Champ" in various disciplines like running, flying, and climbing. Before each race, you must strategically equip your Champ with the right gadgets for the course. Once the race begins, you watch as your preparation pays off and your Champ competes automatically to bring home the win.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Train, Train, Train:** The foundation of your success is training. Keep your Champ training at all times to level up their running, flying, climbing, and swimming skills. This is an idle game, so training continues even when you are offline.
@@ -23,6 +25,7 @@ Pocket Champs is an idle multiplayer racing game where you don't directly contro
 3.  **Watch and Learn:** Although the races are automatic, watch them to see where your Champ is struggling. Are they slow on the running sections? Are they losing time on the climbs? This will tell you what skills you need to focus on training next.
 4.  **Collect Your Rewards:** Winning races earns you chests and currency. Be sure to open these to get new gadgets and the resources needed to upgrade your Champ and existing gear.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 The game is played through a series of menus.
@@ -31,14 +34,19 @@ The game is played through a series of menus.
 *   **Gadget Selection:** Before a race, click on the gadget slots to choose which items your Champ will use.
 *   **Start Race:** Click the "Race" button to enter a competition.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: How do I control my character during the race?**
+* <!-- i18n:faq:id=faq:pocket-champions:q-how-do-i-control-84ef48a4 -->
+  **Q: How do I control my character during the race?**
     *   **A:** You don't! The race is fully automatic. Your job is to prepare your Champ *before* the race through training and gadget selection.
 
-*   **Q: How do I win more races?**
+* <!-- i18n:faq:id=faq:pocket-champions:q-how-do-i-win-16b4fad9 -->
+  **Q: How do I win more races?**
     *   **A:** By having better stats and strategy than your opponents. Make sure your Champ's training levels are high and that you are choosing the correct gadgets that counter the obstacles in the upcoming race.
 
-*   **Q: What is the best gadget?**
+* <!-- i18n:faq:id=faq:pocket-champions:q-what-is-the-best-a00d8be9 -->
+  **Q: What is the best gadget?**
     *   **A:** There is no single "best" gadget. The best one is always the one that matches the next major obstacle on the track. A speedboat is useless on a running track, but essential on a water track.
+
 

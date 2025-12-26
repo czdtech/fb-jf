@@ -12,10 +12,12 @@ releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Penalty Showdown alternates between shooting and goalkeeping phases. As the taker, disguise placement and height; as the keeper, read run‑ups and dive late. Winning relies on rhythm changes and mixed shot profiles rather than power alone.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Mix profiles: Alternate low corners, high corners, and center chips to avoid patterns.
@@ -24,21 +26,27 @@ Penalty Showdown alternates between shooting and goalkeeping phases. As the take
 4.  Wind: Offset aim and reduce height under strong wind (if modeled).
 5.  Mind games: Pause a beat before shots to bait early dives.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Shoot: aim + power + (optional) swerve. Keep: choose side/timing; some builds allow manual dives.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- Q: Shots keep getting saved.
+- <!-- i18n:faq:id=faq:penalty-showdown:shots-keep-getting-saved-9775b18f -->
+  Q: Shots keep getting saved.
   
   A: Vary height and delay aim; avoid predictable mid‑goal strikes.
 
-- Q: Keeper guesses me every time.
+- <!-- i18n:faq:id=faq:penalty-showdown:keeper-guesses-me-every-time-b1cc2316 -->
+  Q: Keeper guesses me every time.
   
   A: Change run‑up angles and add a brief pause before contact.
 
-- Q: Best keeper tip?
+- <!-- i18n:faq:id=faq:penalty-showdown:best-keeper-tip-a0ef2f0f -->
+  Q: Best keeper tip?
   
   A: Watch the last two steps — hips often telegraph shot side.
+
 

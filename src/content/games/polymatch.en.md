@@ -13,10 +13,12 @@ releaseDate: 2025-10-18
 
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 PolyMatch is an engaging tile-matching puzzle game that challenges your observation and strategic thinking. The game presents you with a board filled with various tiles, each featuring a unique image or pattern. Your objective is to clear the board by finding and matching pairs of identical tiles. The twist lies in the limited holding area at the bottom of the screen, which can only hold a few tiles. You must carefully select tiles to ensure you can make matches and prevent the holding area from filling up, which would lead to a game over.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Prioritize Visible Matches:** Always look for and make matches that are immediately visible and accessible. This helps to clear space and reveal more tiles.
@@ -25,18 +27,24 @@ PolyMatch is an engaging tile-matching puzzle game that challenges your observat
 4.  **Strategic Tapping:** If you have multiple options for a match, consider which one will open up the most possibilities or clear the most difficult sections of the board.
 5.  **Don't Rush:** There's no time limit in many versions of PolyMatch, so take your time to analyze the board and plan your moves carefully. A single wrong tap can lead to a game over.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 *   **Select Tile:** Click or tap on a tile on the main game board to move it to the holding area at the bottom.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: How do I win a level?**
+* <!-- i18n:faq:id=faq:polymatch:q-how-do-i-win-c06399aa -->
+  **Q: How do I win a level?**
     *   **A:** You win a level by successfully clearing all the tiles from the main game board.
 
-*   **Q: What happens if the holding area fills up?**
+* <!-- i18n:faq:id=faq:polymatch:q-what-happens-if-the-4bf40a80 -->
+  **Q: What happens if the holding area fills up?**
     *   **A:** If the holding area at the bottom of the screen becomes full (typically 6 tiles) and you cannot make any more matches, the game will end.
 
-*   **Q: Are there power-ups or hints?**
+* <!-- i18n:faq:id=faq:polymatch:q-are-there-powerups-or-2f471e8f -->
+  **Q: Are there power-ups or hints?**
     *   **A:** Some versions of PolyMatch may offer power-ups or hints to help you when you're stuck. These might include a shuffle option or a hint to reveal a match.
+
 
