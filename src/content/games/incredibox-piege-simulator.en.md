@@ -13,6 +13,7 @@ releaseDate: 2025-10-10
 ---
 
 
+<!-- i18n:section:introduction -->
 ### **Incredibox Piège Simulator Game Introduction**
 
 *Incredibox Piège Simulator* is a stylish and atmospheric fan-made game from the "Simulator" series of Incredibox mods. The title "Piège" is French for **"Trap,"** which perfectly describes the mod's musical focus on the modern **Trap music** genre.
@@ -20,6 +21,7 @@ releaseDate: 2025-10-10
 The game utilizes the signature **grid-based interface** of the Simulator mods. Instead of dragging icons onto characters, players are presented with a grid of 20 sound icons, color-coded in shades of green and blue. The objective is to create a dark, atmospheric trap loop by clicking these icons to activate or deactivate them.
 
 
+<!-- i18n:section:tips -->
 ### **Gameplay Strategy & Tips**
 
 1.  **Start with the Rhythm**: To create an authentic trap beat, begin with the blue icons. Activate a heavy kick drum, a snare, and a rapid hi-hat pattern to establish the core groove.
@@ -30,6 +32,7 @@ The game utilizes the signature **grid-based interface** of the Simulator mods. 
 
 4.  **Create Dynamics**: Use the click-on/click-off nature of the simulator to create dynamics. You can build up a beat, add a melody to create a hook, and then deactivate elements to create a breakdown, mimicking the structure of a real trap song.
 
+<!-- i18n:section:controls -->
 ### **Controls Guide**
 
 This mod uses the simple, click-based interface of the Simulator series.
@@ -41,16 +44,21 @@ This mod uses the simple, click-based interface of the Simulator series.
     *   **Record Button**: Starts and stops the recording of your mix.
     *   **Reset Button**: Clears all active sounds from the grid, allowing you to start fresh.
 
+<!-- i18n:section:faq -->
 ### **Frequently Asked Questions (FAQ)**
 
+<!-- i18n:faq:id=faq:incredibox-piege-simulator:is-this-an-official-incredibox-76f9ee93 -->
 **1. Is this an official Incredibox game?**
 
 No. The "Simulator" series, including *Piège*, are **fan-made mods** and are not affiliated with the official Incredibox creators, So Far So Good.
 
+<!-- i18n:faq:id=faq:incredibox-piege-simulator:why-is-the-gameplay-different-ad85e024 -->
 **2. Why is the gameplay different from the original?**
 
 The "Simulator" style is a creative choice by the modding community. Its grid-based interface is particularly well-suited for electronic genres like Trap, as it allows for the precise and complex layering of rhythmic elements.
 
+<!-- i18n:faq:id=faq:incredibox-piege-simulator:where-can-i-play-this-a4cf171c -->
 **3. Where can I play this mod?**
 
 You will not find it on official platforms. These mods are typically shared on gaming sites like **Newgrounds**, modding communities like **playfiddlebops.com**, or showcased on YouTube with links to play them in a web browser.
+

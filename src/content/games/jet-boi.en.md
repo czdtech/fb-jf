@@ -14,14 +14,17 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Overview
 Jet Boi is a compact versus shooter about aerial control. Two players rocket around platforms with short fuel bursts, pick up guns, and try to score ring‑outs or KOs. Mastering mid‑air taps, recoil control, and weapon timing is critical to secure the high ground and finish opponents.
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 - Feather boosts to hover; don’t burn fuel in one go.
 - Grab weapon spawns and pressure from above for safer angles.
 - Use knockback near edges; force ring‑outs instead of trading damage.
 
+<!-- i18n:section:controls -->
 ### Controls
 - Player‑specific movement/boost/shoot keys (host dependent); designed for local 2P.
 
@@ -30,11 +33,16 @@ Jet Boi is a compact versus shooter about aerial control. Two players rocket aro
 - Deny weapon crates even if you don’t need them.
 - Fight for top platforms—they dictate angles and safety.
 
+<!-- i18n:section:faq -->
 ### FAQ
-- Q: How do I conserve fuel effectively?  
+- <!-- i18n:faq:id=faq:jet-boi:how-do-i-conserve-fuel-bb29a5d2 -->
+  Q: How do I conserve fuel effectively?
   A: Use short, rhythmic taps to maintain altitude and adjust aim.
-- Q: What is the best way to finish opponents?  
+- <!-- i18n:faq:id=faq:jet-boi:what-is-the-best-way-8b95a599 -->
+  Q: What is the best way to finish opponents?
   A: Push them off stage with knockback rather than chasing raw damage.
-- Q: Can I remap keys for two players?  
+- <!-- i18n:faq:id=faq:jet-boi:can-i-remap-keys-for-f8be220d -->
+  Q: Can I remap keys for two players?
   A: Many hosts allow custom binds before matches.
+
 

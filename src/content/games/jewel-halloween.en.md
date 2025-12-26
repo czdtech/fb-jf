@@ -13,10 +13,12 @@ releaseDate: 2025-10-18
 
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Jewel Halloween is a seasonal match‑3. Swap adjacent gems to make lines of three or more, spawn power gems, and complete targets like score thresholds, limited moves, or clearing obstacles.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Work from bottom to trigger cascades.
@@ -25,14 +27,20 @@ Jewel Halloween is a seasonal match‑3. Swap adjacent gems to make lines of thr
 4.  Plan two moves ahead to avoid isolating colors.
 5.  Save strong combos for tight goals.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Swap: Drag adjacent gems to swap.
 - Power‑ups: Activate by matching or tapping per rules.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- Stuck on move limits? Focus on blockers and cascades rather than small matches.
-- Are diagonals allowed? Usually no—follow mode rules.
-- Hints available? Often yes; use sparingly.
+- <!-- i18n:faq:id=faq:jewel-halloween:stuck-on-move-limits-6d171cf2 -->
+  Stuck on move limits? Focus on blockers and cascades rather than small matches.
+- <!-- i18n:faq:id=faq:jewel-halloween:are-diagonals-allowed-37ab3fc0 -->
+  Are diagonals allowed? Usually no—follow mode rules.
+- <!-- i18n:faq:id=faq:jewel-halloween:hints-available-0dca1b1d -->
+  Hints available? Often yes; use sparingly.
+
 

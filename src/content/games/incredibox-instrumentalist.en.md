@@ -15,6 +15,7 @@ releaseDate: 2025-10-10
 
 
 
+<!-- i18n:section:introduction -->
 ### **Incredibox Instrumentalist Game Introduction**
 
 *Incredibox Instrumentalist* is a highly innovative and beautifully designed fan-made mod. It fundamentally changes the core Incredibox presentation: instead of dragging icons onto a crew of performers, **players summon the instruments themselves directly onto the stage**, where they come to life and perform.
@@ -23,6 +24,7 @@ The mod's theme is a celebration of **global musical instruments**, creating a *
 
 The objective is to allow players to compose rich, layered instrumental pieces by building their own unique orchestra. 
 
+<!-- i18n:section:tips -->
 ### **Gameplay Strategy & Tips**
 
 Strategy in *Incredibox Instrumentalist* revolves around understanding how different instruments complement each other to build a full-sounding ensemble.
@@ -41,6 +43,7 @@ Strategy in *Incredibox Instrumentalist* revolves around understanding how diffe
 
 5.  **Use Textural Instruments for Flavor**: Instruments like the güiro or kazoo are perfect for adding unique character and flavor to your mix. Drop them in to make your loop more interesting and dynamic.
 
+<!-- i18n:section:controls -->
 ### **Controls Guide**
 
 This mod features a unique take on the classic Incredibox controls.
@@ -49,17 +52,23 @@ This mod features a unique take on the classic Incredibox controls.
 *   **Remove an Instrument**: Simply **click** on the instrument on the stage to remove it.
 *   **Record**: Click the **record button** (top right) to start and stop recording your instrumental piece.
 
+<!-- i18n:section:faq -->
 ### **Frequently Asked Questions (FAQ)**
 
+<!-- i18n:faq:id=faq:incredibox-instrumentalist:is-this-an-official-incredibox-12056458 -->
 **1. Is this an official Incredibox version?**
 No. It is a highly creative **fan-made mod** created by Gabsoares04. It is not affiliated with the official Incredibox team, So Far So Good.
 
+<!-- i18n:faq:id=faq:incredibox-instrumentalist:what-makes-this-mod-so-5ae5fbac -->
 **2. What makes this mod so unique?**
 Its primary innovation is the "instruments as performers" gameplay. Instead of customizing characters, you are literally building an orchestra on stage. Furthermore, it is a **purely instrumental experience**, focusing entirely on the sounds of a diverse range of world instruments, which sets it apart from almost every other version.
 
+<!-- i18n:faq:id=faq:incredibox-instrumentalist:where-can-i-play-this-a4cf171c -->
 **3. Where can I play this mod?**
 You will not find it on official platforms. Mods like *Instrumentalist* are typically hosted on game modding websites like **playfiddlebops.com** or showcased on YouTube, often with a link provided to play the mod directly in a web browser.
 
+<!-- i18n:faq:id=faq:incredibox-instrumentalist:are-the-bonus-solutions-for-3062ed27 -->
 **4. Are the bonus solutions for "Instrumentalist" available online?**
 Yes. If you're having trouble finding the combinations for the animations, a quick search for "*Incredibox Instrumentalist combos*" on YouTube will likely provide you with the solutions.
+
 

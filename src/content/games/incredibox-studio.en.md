@@ -13,11 +13,13 @@ developer: ""
 releaseDate: 2025-10-10
 ---
 
+<!-- i18n:section:introduction -->
 ### Incredibox Studio Introduction
 
 Incredibox Studio is a fan-made project. Unlike the official Incredibox versions, which are based on pre-defined sets of sounds, this "Studio" version offers a sandbox-like experience. Players are given a wide array of sounds and effects to drag, drop, and mix, empowering them to create their own unique beats and musical compositions from scratch. It's a creative playground for fans of the original game who want to explore their own musical ideas.
 
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy / Creative Tips
 
 *   Since this is a sandbox, the "strategy" is about creativity.
@@ -27,6 +29,7 @@ Incredibox Studio is a fan-made project. Unlike the official Incredibox versions
     4.  **Use Mute/Solo**: Isolate specific tracks using the mute or solo buttons to fine-tune each part of your composition.
 
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 *   The game is controlled entirely with the mouse.
@@ -36,10 +39,14 @@ Incredibox Studio is a fan-made project. Unlike the official Incredibox versions
     *   **Record**: Click the record button (usually a red circle) at the top to start and stop recording your mix.
 
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: Can I save the music I create?**
+* <!-- i18n:faq:id=faq:incredibox-studio:q-can-i-save-the-c98a2c3b -->
+  **Q: Can I save the music I create?**
     *   **A**: Yes, most versions have a recording feature that allows you to save your mix and often provides a shareable link. However, the music is for personal, non-commercial use only.
-*   **Q: Where can I play it?**
+* <!-- i18n:faq:id=faq:incredibox-studio:q-where-can-i-play-fe36000d -->
+  **Q: Where can I play it?**
     *   **A**: It is playable directly in a web browser via the provided playfiddlebops.com link.
+
 

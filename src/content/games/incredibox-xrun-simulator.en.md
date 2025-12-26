@@ -13,6 +13,7 @@ releaseDate: 2025-10-10
 ---
 
 
+<!-- i18n:section:introduction -->
 ### **Incredibox Xrun Simulator Game Introduction**
 
 *Incredibox Xrun Simulator* is a dynamic and high-energy fan-made game belonging to the "Simulator" series of Incredibox mods. This version stands out with its futuristic aesthetic and a sound palette heavily inspired by modern **electronic dance music (EDM), dubstep, and trap**.
@@ -21,6 +22,7 @@ The gameplay departs from the official Incredibox series, utilizing the signatur
 
 As players layer more sounds, a progress bar at the top of the screen fills up, guiding them towards discovering the mod's hidden audio-visual bonuses. The experience is less about individual performers and more about the direct, hands-on creation of a complex electronic beat.
 
+<!-- i18n:section:tips -->
 ### **Gameplay Strategy & Tips**
 
 1.  **Understand the EDM Sound Grid**: The 20 icons represent all the core elements of an electronic track.
@@ -35,6 +37,7 @@ As players layer more sounds, a progress bar at the top of the screen fills up, 
 
 4.  **Experiment with Layers**: Don't be afraid to click many icons at once. The beauty of the simulator format is the ability to create dense, complex soundscapes. However, also learn which sounds are best used sparingly to punctuate the track.
 
+<!-- i18n:section:controls -->
 ### **Controls Guide**
 
 This mod uses the simple, click-based interface of the Simulator series.
@@ -46,13 +49,17 @@ This mod uses the simple, click-based interface of the Simulator series.
     *   **Record Button**: Starts and stops the recording of your mix.
     *   **Reset Button**: Clears all active sounds from the grid, allowing you to start fresh.
 
+<!-- i18n:section:faq -->
 ### **Frequently Asked Questions (FAQ)**
 
+<!-- i18n:faq:id=faq:incredibox-xrun-simulator:why-does-this-look-and-69cdf841 -->
 **1. Why does this look and play differently from the main games?**
 
 This is the signature style of the "Simulator" mods. The grid-based interface is a creative choice by modders to offer a more direct and layered approach to music creation, which is particularly well-suited for electronic music genres.**
 
+<!-- i18n:faq:id=faq:incredibox-xrun-simulator:where-can-i-play-this-a4cf171c -->
 **2. Where can I play this mod?**
 
 You will not find it on official platforms. These mods are typically shared on gaming sites like **Newgrounds**, modding communities like **playfiddlebops.com**, or showcased on YouTube with links to play them in a web browser.
+
 

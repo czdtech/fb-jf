@@ -13,10 +13,12 @@ releaseDate: 2025-10-18
 
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Jump With Justin 2 is a light platformer centered on springy jumps, moving platforms, and trap timing. Plan arcs, chain bounces, and keep momentum to reach exits with minimal mistakes.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Arc control: Commit to clean arcs; late jumps often clear hazards better.
@@ -25,14 +27,20 @@ Jump With Justin 2 is a light platformer centered on springy jumps, moving platf
 4.  Drill tough rooms: Restart segments to map exact jump windows.
 5.  Optional stars: Grab collectibles only on safe arcs.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Move/Jump: Arrow keys / WASD and Space; touch buttons on mobile.
 - Restart: Fast restart to practice sequences.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- Keep hitting spikes—why? You’re jumping too early; delay slightly and keep arcs smooth.
-- Is double jump available? Some stages include bounce pads or power‑ups to simulate it.
-- 100% collection tips? Clear the route first, then route collectibles.
+- <!-- i18n:faq:id=faq:jump-with-justin-2:keep-hitting-spikeswhy-466bc196 -->
+  Keep hitting spikes—why? You’re jumping too early; delay slightly and keep arcs smooth.
+- <!-- i18n:faq:id=faq:jump-with-justin-2:is-double-jump-available-1a6ad609 -->
+  Is double jump available? Some stages include bounce pads or power‑ups to simulate it.
+- <!-- i18n:faq:id=faq:jump-with-justin-2:100-collection-tips-0d1fc3ad -->
+  100% collection tips? Clear the route first, then route collectibles.
+
 

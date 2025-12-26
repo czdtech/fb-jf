@@ -12,10 +12,12 @@ releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Jewel Duel layers RPG elements onto match‑3 combat. Matching certain colors fuels attacks/defense/skills; enemy turns follow yours, so turn order matters. Some foes carry shields/absorbs that require specific match types, adding puzzle depth beyond raw damage.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Match intent: Prioritize color that fuels your needed action (attack vs heal vs shield).
@@ -24,21 +26,27 @@ Jewel Duel layers RPG elements onto match‑3 combat. Matching certain colors fu
 4.  Targeting: Focus one enemy at a time to remove damage sources.
 5.  Boss mechanics: Read tooltips; some require special matches or row clears.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Swap adjacent gems; trigger skills when charged; read enemy intents.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- Q: I do low damage — why?
+- <!-- i18n:faq:id=faq:jewel-duel:i-do-low-damage-why-08f47b3b -->
+  Q: I do low damage — why?
   
   A: You’re matching the wrong colors for your build; fuel attack gems or break shields first.
 
-- Q: Any tip for multi‑target fights?
+- <!-- i18n:faq:id=faq:jewel-duel:any-tip-for-multitarget-fights-656d4374 -->
+  Q: Any tip for multi‑target fights?
   
   A: Eliminate high‑threat targets first; use row/column clears for board control.
 
-- Q: Can I save skills?
+- <!-- i18n:faq:id=faq:jewel-duel:can-i-save-skills-d0873f10 -->
+  Q: Can I save skills?
   
   A: Yes — hold until you can chain with a big cascade or to interrupt enemy ultimates.
+
 

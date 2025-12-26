@@ -12,10 +12,12 @@ releaseDate: 2025-10-17
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Island Of Treasures is an action-packed 3D endless runner game that plunges you into a thrilling pirate adventure. You play as a daring buccaneer, constantly running through a dynamic and treacherous island environment. Your mission is to collect as much gleaming treasure as possible, dodge deadly traps, and outsmart rival pirates who are also after the riches. The game tests your reflexes and agility as you strive to achieve the highest score and become the legendary pirate of the forsaken island.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Collect Everything:** Your primary goal is to collect coins, jewels, and other treasures scattered along your path. These contribute to your score and can be used to unlock upgrades or new characters.
@@ -23,20 +25,26 @@ Island Of Treasures is an action-packed 3D endless runner game that plunges you 
 3.  **Utilize Power-ups:** Keep an eye out for power-ups like speed boosts, shields, or magnets. These temporary advantages can help you survive longer and collect more treasure. Use them strategically, especially in challenging sections.
 4.  **Avoid Collisions:** Hitting any obstacle or rival pirate will end your run. Always prioritize dodging over collecting if a collision is imminent.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 *   **Move Left/Right:** Use the **A/D keys** or **Left/Right Arrow keys** to change lanes.
 *   **Jump:** Press the **Spacebar** or **Up Arrow key** to jump.
 *   **Slide:** Press the **S key** or **Down Arrow key** to slide under obstacles.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: What is the main objective of the game?**
+* <!-- i18n:faq:id=faq:island-of-treasures:q-what-is-the-main-ea275212 -->
+  **Q: What is the main objective of the game?**
     *   **A:** To run as far as possible and collect the maximum amount of treasure to achieve the highest score.
 
-*   **Q: How do I attack rival pirates?**
+* <!-- i18n:faq:id=faq:island-of-treasures:q-how-do-i-attack-27175b1c -->
+  **Q: How do I attack rival pirates?**
     *   **A:** In most endless runners, direct combat is not the focus. You typically avoid rival pirates as they are obstacles. Some versions might have a specific power-up or action to temporarily stun them.
 
-*   **Q: What happens if I fall into the water or hit an obstacle?**
+* <!-- i18n:faq:id=faq:island-of-treasures:q-what-happens-if-i-aa313a6b -->
+  **Q: What happens if I fall into the water or hit an obstacle?**
     *   **A:** Your run ends immediately, and you will have to start over from the beginning.
+
 

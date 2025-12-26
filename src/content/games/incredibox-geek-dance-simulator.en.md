@@ -14,6 +14,7 @@ releaseDate: 2025-10-10
 
 
 
+<!-- i18n:section:introduction -->
 ### **Incredibox Geek Dance Simulator Game Introduction**
 
 *Incredibox Geek Dance Simulator* is a fan-made game that is part of the popular "Simulator" series of Incredibox mods. As a tribute to **"geek" and "nerd" culture**, its theme is heavily inspired by retro video games, early computing, and the iconic sounds of the 8-bit era.
@@ -22,6 +23,7 @@ The gameplay is fundamentally different from the official Incredibox series. It 
 
 As players layer more sounds and experiment with combinations, a progress bar at the top of the screen (labeled "LOOP") fills up, guiding them toward unlocking the mod's secret audio-visual bonuses. The experience is a direct, hands-on approach to composing retro game music.
 
+<!-- i18n:section:tips -->
 ### **Gameplay Strategy & Tips**
 
 1.  **Understand the Chiptune Grid**: The 20 icons represent the core channels of a retro sound chip.
@@ -36,6 +38,7 @@ As players layer more sounds and experiment with combinations, a progress bar at
 
 4.  **Create Dynamics by Toggling**: Use the click-on/click-off mechanic to your advantage. You can build up an intro with just a beat, bring in a melody for a "verse," and then add more layers for a "chorus," creating a full song structure within the loop.
 
+<!-- i18n:section:controls -->
 ### **Controls Guide**
 
 This mod uses the simple, click-based interface of the Simulator series.
@@ -47,19 +50,24 @@ This mod uses the simple, click-based interface of the Simulator series.
     *   **Record Button**: Starts and stops the recording of your mix.
     *   **Reset Button**: Clears all active sounds from the grid, allowing you to start fresh.
 
+<!-- i18n:section:faq -->
 ### **Frequently Asked Questions (FAQ)**
 
+<!-- i18n:faq:id=faq:incredibox-geek-dance-simulator:is-this-an-official-incredibox-76f9ee93 -->
 **1. Is this an official Incredibox game?**
 
 No. The "Simulator" series, including *Geek Dance Simulator*, are **fan-made mods** and are not affiliated with the official Incredibox creators, So Far So Good.
 
+<!-- i18n:faq:id=faq:incredibox-geek-dance-simulator:why-is-this-different-from-62cbcae5 -->
 **2. Why is this different from the other "Geek Dance" mod?**
 
 This is a crucial distinction. The Incredibox modding community has created at least two popular mods with this theme.
 *   **Geek Dance (Drag-and-Drop)**: Features characters on screen that you drag icons onto.
 *   **Geek Dance Simulator (Grid-Based)**: This version, which uses a grid of icons you click to activate, offering a different gameplay experience.
 
+<!-- i18n:faq:id=faq:incredibox-geek-dance-simulator:where-can-i-play-this-a4cf171c -->
 **3. Where can I play this mod?**
 
 You will not find it on official platforms. These mods are typically shared on gaming sites like **playfiddlebops.com**, modding communities like **scratch**, or showcased on YouTube with links to play them in a web browser.
+
 

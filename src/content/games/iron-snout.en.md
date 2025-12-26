@@ -14,14 +14,17 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Overview
 Iron Snout is a fast 2D brawler starring a martial‑arts pig fighting wolves. With simple directional inputs you punch, kick, duck, and jump to parry attacks, catch thrown axes, and reflect rockets. Survival hinges on reading telegraphed moves and maintaining a steady rhythm of counters.
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 - Watch enemy tells; jump‑kicks pop foes for multi‑hits, duck avoids overheads.
 - Catch airborne weapons and toss them back for bonus damage.
 - Keep the fight centered to react to both sides.
 
+<!-- i18n:section:controls -->
 ### Controls
 - Arrow/WASD directions trigger attacks, jumps, and ducks; no attack buttons needed.
 
@@ -30,11 +33,16 @@ Iron Snout is a fast 2D brawler starring a martial‑arts pig fighting wolves. W
 - Juggle light foes for score; finish heavies with weapon returns.
 - Don’t corner yourself—reset to mid‑screen often.
 
+<!-- i18n:section:faq -->
 ### FAQ
-- Q: How do I deal with multiple directions of attack at once?  
+- <!-- i18n:faq:id=faq:iron-snout:how-do-i-deal-with-e1aeb040 -->
+  Q: How do I deal with multiple directions of attack at once?
   A: Stay near center stage and respond to the closest telegraph first.
-- Q: Can I catch weapons in this game?  
+- <!-- i18n:faq:id=faq:iron-snout:can-i-catch-weapons-in-0213643a -->
+  Q: Can I catch weapons in this game?
   A: Yes—press toward flying weapons to grab and throw them back.
-- Q: Is there an end to the waves?  
+- <!-- i18n:faq:id=faq:iron-snout:is-there-an-end-to-742105ba -->
+  Q: Is there an end to the waves?
   A: Most modes are endless until you run out of health.
+
 

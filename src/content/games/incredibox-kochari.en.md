@@ -13,10 +13,12 @@ developer: ""
 releaseDate: 2025-10-10
 ---
 
+<!-- i18n:section:introduction -->
 ### Incredibox Kochari Introduction
 
 Incredibox Kochari is a unique, fan-made mod that beautifully merges the world of Incredibox with the rich traditions of Armenian folk culture. Inspired by the energetic and powerful Armenian dance "Kochari," this version allows players to experiment with a sound palette deeply rooted in folk music. It offers a rhythmic and engaging experience, where you can mix traditional percussion, melodies, and vocals to create a compelling fusion of age-old Armenian sounds and modern beatboxing. The characters and animations also reflect the theme, with visuals that mirror traditional folk dance movements.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy
 
 *   
@@ -24,6 +26,7 @@ Incredibox Kochari is a unique, fan-made mod that beautifully merges the world o
     2.  **Find the Bonus**: Like other Incredibox games, there are 3 hidden bonuses. Experiment with different 3-character combinations to unlock the special animated chorus scenes.
     3.  **Balance Rhythms**: Combine the strong percussive beats, which are central to Kochari, with melodic and vocal layers to create a balanced and powerful arrangement.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 *   The controls are standard for Incredibox.
@@ -32,12 +35,17 @@ Incredibox Kochari is a unique, fan-made mod that beautifully merges the world o
     *   **Bonuses**: Unlocking a bonus adds a special visual and audio element to your mix automatically.
 
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: What is Kochari?**
+* <!-- i18n:faq:id=faq:incredibox-kochari:q-what-is-kochari-25bf451f -->
+  **Q: What is Kochari?**
     *   **A**: Kochari is a traditional Armenian folk dance, known for its high-energy and strong, rhythmic movements. This mod is a tribute to that cultural heritage.
-*   **Q: Is this an official Incredibox version?**
+* <!-- i18n:faq:id=faq:incredibox-kochari:q-is-this-an-official-59ac97d1 -->
+  **Q: Is this an official Incredibox version?**
     *   **A**: No, this is a fan-made mod created with passion by community members.
-*   **Q: How many bonuses are there to unlock?**
+* <!-- i18n:faq:id=faq:incredibox-kochari:q-how-many-bonuses-are-2ecd0c81 -->
+  **Q: How many bonuses are there to unlock?**
     *   **A**: There are typically three unique bonus animations to discover by finding the correct sound combinations.
+
 

@@ -13,10 +13,12 @@ releaseDate: 2025-10-17
 
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Jewel Magic is a classic and captivating match-3 puzzle game that invites you into a world of sparkling gems and enchanting challenges. The core objective is to swap adjacent jewels to create a line of three or more identical gems, causing them to vanish and score points. With hundreds of levels, each presenting a unique goal, players must think strategically to create powerful special jewels, trigger dazzling chain reactions, and solve every puzzle presented to them.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Master the Special Gems:** To pass the toughest levels, you must create and utilize special gems. These are formed by matching more than three jewels at once:
@@ -30,20 +32,26 @@ Jewel Magic is a classic and captivating match-3 puzzle game that invites you in
 
 4.  **Start from the Bottom:** Making matches at the bottom of the grid increases the chance of causing a cascade, where new jewels fall into place and create automatic matches. This can help you clear the board and reach your goal much faster.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 The game is controlled using simple mouse or touch gestures.
 
 *   **Swap Jewels:** Click and drag a jewel to swap it with an adjacent one. The swap will only complete if it forms a valid match of three or more identical jewels.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: How do I get past levels with frozen or chained jewels?**
+* <!-- i18n:faq:id=faq:jewel-magic:q-how-do-i-get-a9b2c35f -->
+  **Q: How do I get past levels with frozen or chained jewels?**
     *   **A:** You must make a match that includes the frozen or chained jewel. This will break the ice or the chain, freeing the jewel to be used in future matches.
 
-*   **Q: What is the best way to get a high score?**
+* <!-- i18n:faq:id=faq:jewel-magic:q-what-is-the-best-4dc5a927 -->
+  **Q: What is the best way to get a high score?**
     *   **A:** Create as many special jewels and combos as possible. Triggering long chain reactions and clearing a large number of jewels in a single move will result in a much higher score.
 
-*   **Q: What happens when I run out of moves?**
+* <!-- i18n:faq:id=faq:jewel-magic:q-what-happens-when-i-e8e69d77 -->
+  **Q: What happens when I run out of moves?**
     *   **A:** If you don't complete the level's objective before your moves run out, you will lose a life and must restart the level.
+
 

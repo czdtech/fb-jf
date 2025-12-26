@@ -12,10 +12,12 @@ releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Jungle Match Puzzle is a colorful match‑3 with vines, crates, and sticky tiles as blockers. You must complete scene goals (score, collect idols, free animals) within move limits. Combining power‑ups (bomb + line, double line) wipes dense foliage and opens the board for cascading clears.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Objective‑first: Prioritize blocker clears and collect goals before pure scoring.
@@ -24,21 +26,27 @@ Jungle Match Puzzle is a colorful match‑3 with vines, crates, and sticky tiles
 4.  Move economy: Map 2–3 moves ahead; avoid isolating colors near walls.
 5.  Hazard awareness: Sticky tiles require adjacent matches; plan detours.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Drag to swap; activate power‑ups by matching/tapping; pause/retry via UI.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- Q: I fail on move limits — what should I change?
+- <!-- i18n:faq:id=faq:jungle-match-puzzle:i-fail-on-move-limits-5d14311f -->
+  Q: I fail on move limits — what should I change?
   
   A: Stop chasing points; clear blockers and chain combos to progress objectives per move.
 
-- Q: Best power‑up combo?
+- <!-- i18n:faq:id=faq:jungle-match-puzzle:best-powerup-combo-574c444a -->
+  Q: Best power‑up combo?
   
   A: Bomb + line for maximum coverage; double line for sweeping rows/cols.
 
-- Q: Are diagonals allowed?
+- <!-- i18n:faq:id=faq:jungle-match-puzzle:are-diagonals-allowed-37ab3fc0 -->
+  Q: Are diagonals allowed?
   
   A: Usually no; read the mode rules.
+
 

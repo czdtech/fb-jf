@@ -13,6 +13,7 @@ releaseDate: 2025-10-10
 ---
 
 
+<!-- i18n:section:introduction -->
 ### **Incredibox Vibin Game Introduction**
 
 *Incredibox Vibin'* is a popular fan-made mod for the music creation game Incredibox. This version sets itself apart with its incredibly **chill, relaxed, and cozy lo-fi hip-hop aesthetic**. The characters are stylized as cool, laid-back figures, perfectly capturing the "vibin'" mood suggested by the title.
@@ -21,6 +22,7 @@ The game uses the classic Incredibox drag-and-drop gameplay. Players are given 2
 
 The objective is to provide a relaxing creative outlet while also offering a puzzle to solve. Players can mix and match sounds to create their perfect study/relaxing track. The puzzle element involves discovering the three specific combinations that unlock the secret animated bonuses, which are thematically designed to fit the cozy and introspective vibe of the mod.
 
+<!-- i18n:section:tips -->
 ### **Gameplay Strategy & Tips**
 
 Strategy in *Incredibox Vibin'* is all about layering textures and creating a smooth, non-intrusive groove.
@@ -37,6 +39,7 @@ Strategy in *Incredibox Vibin'* is all about layering textures and creating a sm
 
 4.  **Systematic Bonus Hunting**: To find the three secret bonuses, a methodical approach is best. Once you have a core groove you enjoy, try swapping out the remaining icons one by one until you trigger one of the cozy animated bonuses.
 
+<!-- i18n:section:controls -->
 ### **Controls Guide**
 
 The controls follow the standard, intuitive drag-and-drop interface of the official Incredibox games.
@@ -47,21 +50,27 @@ The controls follow the standard, intuitive drag-and-drop interface of the offic
 *   **Solo**: Click the **small button** next to an active character to mute all other performers.
 *   **Record**: Click the **record button** to start and stop recording your chill creation.
 
+<!-- i18n:section:faq -->
 ### **Frequently Asked Questions (FAQ)**
 
+<!-- i18n:faq:id=faq:incredibox-vibin:is-incredibox-vibin-an-officia-483ff426 -->
 **1. Is *Incredibox Vibin'* an official version?**
 
 No. It is a **fan-made mod** created by MI. It is not affiliated with the official Incredibox team, So Far So Good.
 
+<!-- i18n:faq:id=faq:incredibox-vibin:where-can-i-play-this-a4cf171c -->
 **2. Where can I play this mod?**
 
 You will not find it on official platforms. Mods like *Vibin'* are typically hosted on game modding websites like **playfiddlebops.com** or showcased on YouTube, often with a link provided to play the mod directly in a web browser.
 
+<!-- i18n:faq:id=faq:incredibox-vibin:what-makes-the-vibin-mod-d01232b7 -->
 **3. What makes the "Vibin'" mod so popular?**
 
 Its popularity comes from its perfect execution of the lo-fi hip-hop theme, a massively popular music genre. It provides a uniquely relaxing and modern experience that resonates with many players looking for a chill creative outlet.
 
+<!-- i18n:faq:id=faq:incredibox-vibin:are-the-bonus-solutions-for-361d43d5 -->
 **4. Are the bonus solutions for "Vibin'" available online?**
 
 Yes. If you're having trouble finding the combinations for the animations, a quick search for "*Incredibox Vibin' combos*" on YouTube will show you the solutions.
+
 

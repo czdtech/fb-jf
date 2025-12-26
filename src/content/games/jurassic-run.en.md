@@ -12,10 +12,12 @@ releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Jurassic Run is a fast endless runner set among dinosaurs and jungle obstacles. Read the track ahead, switch lanes or jump/slide to avoid hazards, and chain coin pickups as speed increases.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Look far ahead to plan early lane changes.
@@ -24,14 +26,20 @@ Jurassic Run is a fast endless runner set among dinosaurs and jungle obstacles. 
 4.  Make small, crisp inputs at higher speeds.
 5.  Save shields/magnets for dense stretches if available.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Move: A/D or Left/Right; jump/slide with Space/Up and Down.
 - Pause/Retry via on‑screen UI.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- Keep clipping—why? Jump slightly later and avoid over‑steering.
-- Is there an end? Usually endless—chase personal bests.
-- Power‑ups? Many versions include shields, magnets, or slow‑mo.
+- <!-- i18n:faq:id=faq:jurassic-run:keep-clippingwhy-9a0fbd98 -->
+  Keep clipping—why? Jump slightly later and avoid over‑steering.
+- <!-- i18n:faq:id=faq:jurassic-run:is-there-an-end-0d3d5bd5 -->
+  Is there an end? Usually endless—chase personal bests.
+- <!-- i18n:faq:id=faq:jurassic-run:powerups-6996ef33 -->
+  Power‑ups? Many versions include shields, magnets, or slow‑mo.
+
 

@@ -13,6 +13,7 @@ releaseDate: 2025-10-10
 ---
 
 
+<!-- i18n:section:introduction -->
 ### **Incredibox Hijinks Game Introduction**
 
 *Incredibox Hijinks* is a popular and energetic fan-made mod for the music creation game Incredibox, created by the modder Bongo Cat. The name "Hijinks" perfectly captures the mod's theme of **mischievous, chaotic, and zany cartoon antics**. The characters are stylized as simple, expressive figures ready to cause some musical trouble.
@@ -21,6 +22,7 @@ The game utilizes the classic Incredibox drag-and-drop gameplay. Players are giv
 
 The objective is to allow players to have fun and create chaotic yet catchy tunes, while also solving the puzzle of finding the three secret animated bonuses, which are undoubtedly themed around cartoonish pranks and fun.
 
+<!-- i18n:section:tips -->
 ### **Gameplay Strategy & Tips**
 
 Strategy in *Incredibox Hijinks* is about embracing the fun and layering the energetic sounds to create a bouncy, infectious groove.
@@ -37,6 +39,7 @@ Strategy in *Incredibox Hijinks* is about embracing the fun and layering the ene
 
 4.  **Systematic Bonus Hunting**: To find the three secret bonuses, be methodical. Establish a core groove that you like, and then systematically swap out the other icons one by one until you trigger one of the mischievous animations.
 
+<!-- i18n:section:controls -->
 ### **Controls Guide**
 
 The controls follow the standard, intuitive drag-and-drop interface of the official Incredibox games.
@@ -47,21 +50,27 @@ The controls follow the standard, intuitive drag-and-drop interface of the offic
 *   **Solo**: Click the **small button** next to an active character to mute all other performers.
 *   **Record**: Click the **record button** to start and stop recording your fun-loving creation.
 
+<!-- i18n:section:faq -->
 ### **Frequently Asked Questions (FAQ)**
 
+<!-- i18n:faq:id=faq:incredibox-hijinks:is-this-an-official-incredibox-12056458 -->
 **1. Is this an official Incredibox version?**
 
 No. It is a **fan-made mod** created by Bongo Cat. It is not affiliated with the official Incredibox team, So Far So Good.
 
+<!-- i18n:faq:id=faq:incredibox-hijinks:where-can-i-play-this-a4cf171c -->
 **2. Where can I play this mod?**
 
 You will not find it on official platforms. Mods like *Hijinks* are typically hosted on game modding websites like **playfiddlebops.com** or showcased on YouTube, often with a link provided to play the mod directly in a web browser.
 
+<!-- i18n:faq:id=faq:incredibox-hijinks:what-makes-this-mod-special-f26277ef -->
 **3. What makes this mod special?**
 
 Its charm comes from its pure, unadulterated fun. The lighthearted cartoon theme and energetic, upbeat music provide a simple and joyful experience that is all about creating a smile.
 
+<!-- i18n:faq:id=faq:incredibox-hijinks:are-the-bonus-solutions-for-05cb83d2 -->
 **4. Are the bonus solutions for "Hijinks" available online?**
 
 Yes. If you're having trouble finding the combinations for the animations, a quick search for "*Incredibox Hijinks combos*" on YouTube will show you the solutions.
+
 
