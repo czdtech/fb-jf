@@ -24,10 +24,9 @@ Der Mod nimmt die Mechaniken von Sprunkr und tauscht die Cast gegen neu gestalte
 
 - **Sprunki-Cast:** Alle alten Figuren werden durch Sprunki-Charaktere mit eigenen Loops und Bewegungen ersetzt.
 - **Frische Soundkulisse:** Rhythmen und Melodien tragen klar die Handschrift der Sprunki-Mods.
+- **Helle Optik:** Sprunki‑Designs und Animationen geben dem Mod einen frischen, lebendigen Look.
 - **Bekanntes Gameplay:** Drag-and-drop, Loops schichten, Arrangements ausprobieren – alles bleibt vertraut.
 
-
-- **Engaging Gameplay:** Combines the best of Sprunkr’s mechanics with the creativity of Sprunki characters.
 ### So spielst du Sprunkr But Sprunki
 
 - **Figuren wählen:** Such dir Sprunki-Charaktere aus der Leiste aus.

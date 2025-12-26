@@ -25,47 +25,26 @@ und kannst daraus völlig eigene Kompositionen bauen.
 
 ### Kreativ- & Gameplay-Tipps
 
-1.  **Fundament legen**  
-    Starte mit einem soliden Beat und ggf. einer Bassspur – das gibt deinem
-    Track Struktur.
-
-    - **Schrittweise layern**  
-    Füge nach und nach Melodien, Harmonien und Vocals hinzu. Überfrachte nicht
-    alle Slots gleichzeitig, sonst wird es schnell unübersichtlich.
-
-    - **Experimentieren**  
-    Probiere Icons in Ruhe durch, ziehe sie auf verschiedene Figuren und hör dir
-    Kombinationen an. Manche Sets lösen besondere Animationen oder Chor-Effekte
-    aus.
-
-    - **Mute/Solo nutzen**  
-
-    - **Use Mute/Solo**: Isolate specific tracks using the mute or solo buttons to fine-tune each part of your composition.
-    Isoliere einzelne Spuren, um sie besser abzumischen oder zu entscheiden,
-    ob sie im Gesamtmix bleiben sollen.
+*   Da es eine Sandbox ist, besteht die „Strategie“ vor allem aus Kreativität.
+    1.  **Fundament legen:** Starte mit einem soliden Beat und ggf. einer Bassspur – das gibt deinem Track Struktur.
+    2.  **Schichtweise layern:** Füge nach und nach Melodien, Harmonien und Vocals hinzu. Überfrachte nicht alle Slots gleichzeitig, sonst wird es schnell unübersichtlich.
+    3.  **Experimentieren:** Probiere Icons in Ruhe durch, ziehe sie auf verschiedene Figuren und hör dir Kombinationen an. Manche Sets lösen besondere Animationen oder Chor‑Effekte aus.
+    4.  **Mute/Solo nutzen:** Isoliere einzelne Spuren per Mute‑ oder Solo‑Buttons, um sie besser abzumischen oder zu entscheiden, ob sie im Gesamtmix bleiben sollen.
 
 ### Steuerung
 
-- **Sound hinzufügen:** Icon aus der unteren Leiste auf eine Figur ziehen.  
-    - **Sound entfernen:** Icon wieder herunterziehen oder ersetzend ein neues
-  Icon auf dieselbe Figur legen.  
-    - **Mute/Solo:** Über Kopfhörer-/Lautsprecher-Symbole kannst du Spuren stummschalten
-  oder solo hören.  
-    - **Aufnehmen:** Mit dem Record-Button (roter Kreis) oben deinen Mix aufnehmen
+*   Das Spiel wird komplett mit der Maus gesteuert.
+    *   **Sound hinzufügen:** Icon aus der unteren Leiste auf eine Figur ziehen.
+    *   **Sound entfernen:** Icon wieder herunterziehen oder ersetzend ein neues Icon auf dieselbe Figur legen.
+    *   **Mute/Solo:** Über Kopfhörer-/Lautsprecher‑Symbole kannst du Spuren stummschalten oder solo hören.
+    *   **Aufnehmen:** Mit dem Record‑Button (meist ein roter Kreis) oben startest und stoppst du die Aufnahme deines Mixes und speicherst ihn (je nach Version) als Link oder Datei.
 
-    - **Record**: Click the record button (usually a red circle) at the top to start and stop recording your mix.
-  und als Link oder Datei speichern (je nach Version).
+### Häufige Fragen (FAQ)
 
-### Häufige Fragen
+*   **F: Kann ich meine Musik speichern?**
+    *   **A:** Ja, die meisten Versionen bieten eine Aufnahmefunktion mit Download oder
+Share-Link – in der Regel nur zur privaten, nicht-kommerziellen Nutzung.
 
-- **Kann ich meine Musik speichern?**  
-  Ja, die meisten Versionen bieten eine Aufnahmefunktion mit Download oder
-  Share-Link – in der Regel nur zur privaten, nicht-kommerziellen Nutzung.
-
-    - **Wo spiele ich den Mod?**  
-
-- **A**: It is playable directly in a web browser via the provided playfiddlebops.com link.
-
-    - **Q: Where can I play it?**
-  Üblicherweise direkt im Browser, z. B. über verlinkte Seiten wie
-  playfiddlebops.com.
+*   **F: Wo spiele ich den Mod?**
+    *   **A:** Üblicherweise direkt im Browser, z. B. über verlinkte Seiten wie
+playfiddlebops.com.

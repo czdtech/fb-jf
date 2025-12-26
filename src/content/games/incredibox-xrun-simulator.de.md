@@ -46,20 +46,17 @@ Elektronik-Loops baust.
 
 ### Steuerung
 
+Die Steuerung ist einfach — siehe unten.
+
 - **Sound an/aus:** Auf ein Icon im Raster klicken, um es zu aktivieren oder zu
   deaktivieren.  
 - **Kombinieren:** Mehrere Icons gleichzeitig aktivieren, um komplexe Patterns
   zu erzeugen.  
-- **Hauptsteuerung (oben):** Play/Pause, Record und Reset bedienen Loop,
-
-- **Reset Button**: Clears all active sounds from the grid, allowing you to start fresh.
-
-    - **Record Button**: Starts and stops the recording of your mix.
-
-    - **Play/Pause Button**: Toggles the entire loop on or off.
-
-    - **Main Controls (Top of Screen)**:
-  Aufnahme und Zurücksetzen des Grids.
+- **Hauptsteuerung (oben):**  
+    - **Play/Pause:** Startet bzw. pausiert den gesamten Loop.  
+    - **Record:** Startet und stoppt die Aufnahme deines Mixes.  
+    - **Reset:** Löscht alle aktiven Sounds aus dem Grid, damit du neu anfangen
+      kannst.
 
 ### Häufige Fragen
 

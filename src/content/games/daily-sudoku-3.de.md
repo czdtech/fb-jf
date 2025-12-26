@@ -39,23 +39,22 @@ Logik sind identisch: Jede Zeile, Spalte und Box muss die Ziffern 1–9 genau
 
 ### Steuerung
 
-*   Feld wählen und Zahl per Bildschirmnummern oder Tastatur eintragen.
-*   Notizmodus per Stift-Icon umschalten; Kandidaten erscheinen klein.
-*   Radiergummi für Zahl/Notizen löschen nutzen.
+*   **Zelle wählen:** Klicke auf ein leeres Feld im 9×9‑Gitter.
+*   **Zahl eingeben:** Wähle danach eine Zahl über das Zahlenfeld am Bildschirm oder per Tastatur.
+*   **Notizmodus:** Per Stift‑Icon zwischen Antwort‑ und Notizmodus umschalten; Kandidaten erscheinen klein.
+*   **Radiergummi:** Zahlen oder Notizen in einem Feld mit dem Radiergummi‑Tool löschen.
 
-
-- **Eraser:** Use the eraser tool to clear a number or notes from a cell.
 ### Häufige Fragen (FAQ)
 
 *   F: Brauche ich Mathekenntnisse?
-    *   A: Nein, es geht nur um Logik und Muster.
+    *   **A:** Nein, es geht nur um Logik und Muster.
 
 *   F: Markiert das Spiel Fehler?
-    *   A: Viele Online-Versionen zeigen Konflikte sofort an; nutze das als
+    *   **A:** Viele Online-Versionen zeigen Konflikte sofort an; nutze das als
         Lernhilfe, aber verlasse dich nicht nur darauf.
 
 *   F: Wann sollte ich raten?
-    *   A: Idealerweise gar nicht – gute Sudokus lassen sich logisch lösen.
+    *   **A:** Idealerweise gar nicht – gute Sudokus lassen sich logisch lösen.
         Sollte ein Rätsel wirklich festgefahren wirken, kann ein
         vorsichtiger "Guess" mit Notizen helfen, aber nutze diese Option nur
         als letztes Mittel.

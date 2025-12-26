@@ -44,22 +44,22 @@ Zugzahl musst du deine Swaps gut planen.
 
 ### Steuerung
 
+Die Steuerung ist einfach — siehe unten.
+
 - Klicke/Tippe zuerst auf den Buchstaben, den du bewegen möchtest, und danach
   auf die zweite Kachel zum Tauschen – die beiden Plätze werden vertauscht.
 
-
-- **Swap Letters:** Click on the first letter you want to move, and then click on the second letter you want to swap it with. They will then exchange places.
 ### Häufige Fragen (FAQ)
 
 *   F: Was bedeuten die Farben genau?
-    *   A: Grün = richtiger Buchstabe an richtiger Stelle, Gelb = richtiger
+    *   **A:** Grün = richtiger Buchstabe an richtiger Stelle, Gelb = richtiger
         Buchstabe an falscher Stelle, Grau/Weiß = falscher Buchstabe für diese
         Zeile.
 
 *   F: Was passiert, wenn mir die Züge ausgehen?
-    *   A: Ist das Zuglimit erreicht, bevor alle Wörter korrekt sind, gilt das
+    *   **A:** Ist das Zuglimit erreicht, bevor alle Wörter korrekt sind, gilt das
         Rätsel als nicht gelöst und du musst es erneut versuchen.
 
 *   F: Gibt es wirklich jeden Tag ein neues Rätsel?
-    *   A: Ja, wie der Name andeutet, wird dir täglich ein neues, einzigartiges
+    *   **A:** Ja, wie der Name andeutet, wird dir täglich ein neues, einzigartiges
         Wortpuzzle präsentiert.

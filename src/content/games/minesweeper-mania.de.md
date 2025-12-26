@@ -56,22 +56,15 @@ auch Profis immer neue Herausforderungen.
 - **Feld aufdecken:** Linksklick auf ein verdecktes Feld.  
 - **Mine markieren:** Rechtsklick, um eine Flagge zu setzen bzw. zu entfernen.
 
-### Häufige Fragen
+### Häufige Fragen (FAQ)
 
-*   **F: Was bedeuten die Zahlen genau?**  
-    **A:** Die Zahl gibt an, wie viele Minen in den acht angrenzenden Feldern
-    liegen.
+*   **F: Was bedeuten die Zahlen genau?**
+    *   **A:** Die Zahl gibt an, wie viele Minen in den acht angrenzenden Feldern liegen.
 
-    - **F: Was passiert, wenn ich auf eine Mine klicke?**  
-    **A:** Das Spiel ist sofort verloren und alle Minen werden angezeigt.
+*   **F: Was passiert, wenn ich auf eine Mine klicke?**
+    *   **A:** Das Spiel ist sofort verloren und alle Minen werden angezeigt.
 
-*   **F: Muss ich Flaggen setzen, um zu gewinnen?**  
-
-    - **A:** No, flags are not required to win. They are simply a tool to help you remember where you think the mines are. You win by revealing all the safe squares, not by flagging all the mines.
-
-- **Q: Do I have to use flags?**
-
-    - **A:** The game ends immediately in a loss.
-    **A:** Nein, Flaggen sind nur ein Hilfsmittel. Gewonnen hast du, sobald
-    alle sicheren Felder aufgedeckt sind – unabhängig davon, ob du alle Minen
-    markiert hast.
+*   **F: Muss ich Flaggen setzen, um zu gewinnen?**
+    *   **A:** Nein, Flaggen sind nur ein Hilfsmittel. Gewonnen hast du, sobald alle
+sicheren Felder aufgedeckt sind – unabhängig davon, ob du alle Minen markiert
+hast.

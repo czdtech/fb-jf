@@ -21,10 +21,10 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ### Spieleinführung
 
 "Raft Wars" ist ein rundenbasiertes Physik-Shooter. Zwei Brüder finden
- einen Schatz und müssen ihn fortan gegen Piraten, Wikinger und andere
- Schatzjäger verteidigen. Ausgerüstet mit Tennisbällen und später stärkeren
- Waffen schießt du von deinem Floß aus auf gegnerische Boote und versuchst, sie
- von ihren Plattformen ins Wasser zu befördern.
+einen Schatz und müssen ihn fortan gegen Piraten, Wikinger und andere
+Schatzjäger verteidigen. Ausgerüstet mit Tennisbällen und später stärkeren
+Waffen schießt du von deinem Floß aus auf gegnerische Boote und versuchst, sie
+von ihren Plattformen ins Wasser zu befördern.
 
 ### Spieltipps & Strategien
 
@@ -49,9 +49,9 @@ releaseDate: 2025-08-16T00:00:00.000Z
 *   **Feuern:** Lasse die Maustaste los oder klicke, um das Projektil
     abzufeuern.
 *   **Waffen wählen:** Wechsle zwischen verschiedenen Projektilen und Items, um
-
-- **Move**: In some levels, you may be able to move your raft position to get better shooting angles.
     für jede Situation das passende Werkzeug zu haben.
+*   **Floß bewegen (falls verfügbar):** In manchen Leveln kannst du deine
+    Floßposition verschieben, um bessere Schusswinkel zu bekommen.
 
 ### Häufige Fragen (FAQ)
 

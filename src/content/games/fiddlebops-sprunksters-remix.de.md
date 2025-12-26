@@ -28,15 +28,14 @@ Klang-Experimente.
 
 ### So entfesselst du den Sound von Fiddlebops Sprunksters
 
+Unten findest du weitere Hinweise.
+
 - **Sprite-Squad wählen:** Jede Figur verfügt über einen eigenen Sound und
   eine individuelle Optik.
 - **Ziehen, Droppen, Grooven:** Ziehe deine Auswahl auf die Bühne, und ihr
   Sound wird sofort Teil deines Tracks.
-- **Mixen und experimentieren:** Kombiniere verschiedene Charaktere,
-
-- **Mix, Match, Experiment:** Keep trying different character combos, layering various sounds and samples to craft tracks that totally reflect your personal style.
-  layer unterschiedliche Loops und samples, bis der Track genau zu deinem Stil
-  passt.
+- **Mixen und experimentieren:** Kombiniere verschiedene Charaktere, layer
+  unterschiedliche Loops und Samples, bis der Track genau zu deinem Stil passt.
 
 ### Das geheime Menü von Fiddlebops Sprunksters
 
@@ -55,9 +54,8 @@ werden.
 - **Altbewährtes Gameplay, neuer Flair:** Die Bedienung bleibt simpel, die
   Audio- und Grafiklage fühlt sich aber wie ein ganz eigenes Erlebnis an.
 - **Zwei Welten in einem Mod:** Das "Dual-World"-Feature sorgt für extra
-
-- **Play Anywhere, Anytime:** You can jump right into Fiddlebops Sprunksters online on sites like playfiddlebops.com – no downloads needed, super convenient!
   Wiederspielwert.
+- **Überall spielen:** Du kannst direkt im Browser loslegen (z. B. über modding‑Seiten) – ohne Download, super bequem.
 
 Fiddlebops Sprunksters verbindet Kreativität, Rhythmus und Style zu einem
 besonderen Mod-Erlebnis. Wenn du Musikspiele magst und gern neue Klangwelten

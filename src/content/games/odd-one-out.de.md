@@ -19,11 +19,10 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ### Ausführliche Spielbeschreibung
 
 Odd One Out ist ein Rätselspiel, das deine Fähigkeit zum Vergleichen und
- Sortieren von Objekten auf die Probe stellt. In jedem Level siehst du eine
- Gruppe von Gegenständen, von denen die meisten einem gemeinsamen Muster
- folgen – zum Beispiel derselben Kategorie, Farbe oder Form angehören. Deine
- Aufgabe ist es, den einen Gegenstand zu finden, der nicht in diese Gruppe
- passt.
+Sortieren von Objekten auf die Probe stellt. In jedem Level siehst du eine
+Gruppe von Gegenständen, von denen die meisten einem gemeinsamen Muster folgen
+– zum Beispiel derselben Kategorie, Farbe oder Form angehören. Deine Aufgabe
+ist es, den einen Gegenstand zu finden, der nicht in diese Gruppe passt.
 
 ### Strategien & Spieltipps
 
@@ -45,13 +44,10 @@ Odd One Out ist ein Rätselspiel, das deine Fähigkeit zum Vergleichen und
 ### Häufige Fragen (FAQ)
 
 *   **F: Was kann ich tun, wenn ich feststecke?**
-    **A:** Versuche, unterschiedliche Kriterien durchzugehen: Farbe,
-    Kategorie, Anzahl von Details und so weiter. Manchmal ist die gesuchte
-    Gemeinsamkeit sehr offensichtlich, manchmal versteckter.
-    - **F: Gibt es ein Zeitlimit?**
+    *   **A:** Versuche, unterschiedliche Kriterien durchzugehen: Farbe, Kategorie,
+Anzahl von Details und so weiter. Manchmal ist die gesuchte Gemeinsamkeit sehr
+offensichtlich, manchmal versteckter.
 
-- **A:** This can vary, but often these games are more about thinking and observation than speed.
-
-    - **Q: Is there a time limit?**
-    **A:** Je nach Version gibt es ein lockeres oder gar kein Zeitlimit.
-    Im Fokus stehen Beobachtungsgabe und ruhiges Nachdenken, nicht Reaktionstempo.
+*   **F: Gibt es ein Zeitlimit?**
+    *   **A:** Je nach Version gibt es ein lockeres oder gar kein Zeitlimit. Im Fokus
+stehen Beobachtungsgabe und ruhiges Nachdenken, nicht Reaktionstempo.

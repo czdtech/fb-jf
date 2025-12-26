@@ -15,7 +15,7 @@ tags:
 score: 3.7/5  (255 votes)
 ---
 
-### What's So Fun About Dandyrunki Retake?
+### Was macht Dandyrunki Retake so spaßig?
 
 Kurz gesagt ist diese Remix-Version wie eine verrückte musikalische
 Crossover-Kollaboration: Die schrägen Sounds von Dandyrunki Retake treffen auf
@@ -23,7 +23,7 @@ neue Kombinationen und sorgen für überraschende Funken. Das Beste daran: Du
 musst nichts herunterladen – öffne einfach deinen Browser und leg jederzeit los,
 um kreativ mit Sounds zu experimentieren.
 
-### Dandyrunki Retake Core Gameplay:
+### Kern-Gameplay von Dandyrunki Retake
 
 - **Charakterauswahl:** Wähle deine musikalischen Partner aus den vielen
   Charakteren in Dandyrunki Retake. Jede Figur bringt eigene Klänge,
@@ -38,7 +38,7 @@ um kreativ mit Sounds zu experimentieren.
   Sprunki-Community, damit andere deine musikalische Entdeckungsreise in
   Dandyrunki Retake erleben können.
 
-### What Are the Highlights of Sprunki Retake Meets Dandyrunki Retake?
+### Highlights von „Sprunki Retake trifft Dandyrunki Retake“
 
 - **Mehr Charaktere zur Auswahl:** Exklusive Figuren aus Dandyrunki Retake mit
   eigenen Animationen und Sound-Loops sorgen für noch mehr Abwechslung in deinen
@@ -52,7 +52,7 @@ um kreativ mit Sounds zu experimentieren.
   macht es Spielerinnen und Spielern jeden Alters leicht, einzusteigen und
   sofort Spaß am Musikbasteln zu haben.
 
-### Easy to Operate, Endless Fun:
+### Einfach zu bedienen, endloser Spaß
 
 In Dandyrunki Retake kommst du ohne lange Erklärungen direkt ins Spiel und
 kannst nach Belieben mit Rhythmen und Melodien spielen. Ob du nur ein paar

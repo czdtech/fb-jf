@@ -21,12 +21,12 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ### Spieleinführung
 
 "Pou Game" ist eine virtuelle Haustier-Simulation. Du nimmst das
- außerirdische Wesen Pou bei dir auf und sorgst dafür, dass es satt, sauber und
- glücklich bleibt. Du fütterst es, bringst es ins Bad, lässt es schlafen und
- spielst mit ihm. Zusätzlich kannst du Pou mit verschiedenen Outfits,
- Accessoires und Raumdekorationen nach deinem Geschmack gestalten. Zahlreiche
- Minispiele sorgen dafür, dass es nie langweilig wird und du nebenbei Münzen
- verdienen kannst.
+außerirdische Wesen Pou bei dir auf und sorgst dafür, dass es satt, sauber und
+glücklich bleibt. Du fütterst es, bringst es ins Bad, lässt es schlafen und
+spielst mit ihm. Zusätzlich kannst du Pou mit verschiedenen Outfits,
+Accessoires und Raumdekorationen nach deinem Geschmack gestalten. Zahlreiche
+Minispiele sorgen dafür, dass es nie langweilig wird und du nebenbei Münzen
+verdienen kannst.
 
 ### Spieltipps & Strategien
 
@@ -47,14 +47,14 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 ### Steuerung
 
-*   **Icon-Leiste nutzen:** Über die Symbole am unteren Bildschirmrand
-    wechselst du zwischen Füttern, Waschen, Spielen, Schlafen u. a.
-*   **Ziehen & Tippen:** Ziehe Futter oder Seife auf Pou, tippe auf Objekte im
-
-- **Customize**: Tap the wardrobe or room icon to enter the customization interface, select and apply decorations.
-
-- **Mini-games**: Tap the mini-game icon to enter the game list, select and start playing.
-    Zimmer oder starte Minispiele über die entsprechenden Icons.
+- **Icon-Leiste nutzen:** Über die Symbole am unteren Bildschirmrand wechselst
+  du zwischen Füttern, Waschen, Spielen, Schlafen u. a.
+- **Ziehen & Tippen:** Ziehe Futter oder Seife auf Pou, tippe auf Objekte im
+  Zimmer oder starte Minispiele über die entsprechenden Icons.
+- **Anpassen:** Tippe auf das Kleiderschrank- oder Raum-Icon, um Outfits und
+  Dekorationen auszuwählen und anzuwenden.
+- **Minispiele:** Tippe auf das Minigame-Icon, öffne die Spielliste und starte
+  ein Spiel.
 
 ### Häufige Fragen (FAQ)
 

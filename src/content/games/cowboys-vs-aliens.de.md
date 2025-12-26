@@ -29,6 +29,10 @@ besiegen.
 
 ### **Strategie & Tipps (Action/Shooter)**
 
+#### **Für Action/Shooter-Spiele:**
+
+Hier sind ein paar hilfreiche Tipps.
+
 1.  Bewegung ist Leben: Bleib nie stehen. Ständiges Bewegen erschwert es
     Gegnern, dich zu treffen. Lerne Angriffs-Patterns, um zu wissen, wann du
     springen, ducken oder ausweichen musst.
@@ -41,26 +45,16 @@ besiegen.
     für Nahkampf und Crowd-Control, Gewehre für Distanzziele. Wechsle deine
     Ausrüstung abhängig von der Situation.
 
-#### **Steuerung**
+### Steuerung
 
-*   **PC/Web:**
-- Bewegung: `W`, `A`, `S`, `D` oder Pfeiltasten
-- Zielen: Maus
-- Schießen: Linke Maustaste
+- **PC/Web:**  
+    - **Bewegung:** `W`, `A`, `S`, `D` oder Pfeiltasten  
+    - **Zielen:** Maus  
+    - **Schießen:** Linke Maustaste  
+    - **Springen:** `Leertaste`  
+    - **Waffen wechseln:** Nummerntasten (`1`, `2`, `3` …) oder Mausrad
 
-### **Steuerung**
-- Springen: `Leertaste`
-    *   Waffenwechsel: Nummerntasten (`1`, `2`, `3 …`) oder Mausrad
-
-    - **Mobile:**
-    *   Bewegung: Virtueller Joystick links
-    *   Zielen/Schießen: Buttons auf der rechten Seite – meist getrennte
-
-    - **Aim/Shoot**: Buttons on the right side of the screen. Often, a dedicated button for shooting, jumping, and special abilities.
-
-- **Movement**: Virtual joystick on the left side of the screen.
-
-    - **Mobile:**
-
-    - **Switch Weapon**: Number keys (`1`, `2`, `3...`) or Mouse Wheel.
-        Tasten für Schuss, Sprung und Spezialfähigkeiten.
+- **Mobile:**  
+    - **Bewegung:** Virtueller Joystick links  
+    - **Zielen/Schießen:** Buttons rechts (je nach Version getrennte Tasten für
+      Schuss, Sprung und Spezialfähigkeiten)

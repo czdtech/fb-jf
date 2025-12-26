@@ -35,20 +35,6 @@ The Jigsaw Game ist ein klassisches digitales Puzzle mit unterschiedlichen Bilde
 
 ### Häufige Fragen (FAQ)
 
-
-- Any photo variety? Usually landscapes, animals, and seasonal themes.
-
-- Can I change piece count? Typically yes; pick a difficulty that fits your session length.
-
-- Are there timers? Modes vary; many offer relaxed, untimed sessions.
-**Gibt es ein Zeitlimit?**
-
-Je nach Modus spielst du mit oder ohne Timer. Viele Varianten bieten komplett entspannte, ungetimte Sessions.
-
-**Kann ich die Anzahl der Teile einstellen?**
-
-In der Regel ja. Wähle eine niedrige Teilezahl für kurze Runden oder viele Teile, wenn du eine längere, anspruchsvollere Puzzle‑Session möchtest.
-
-**Welche Motive gibt es?**
-
-Meist findest du eine Mischung aus Landschaften, Tieren, Städten und saisonalen Bildern wie Winter‑ oder Feiertagsmotiven.
+- Gibt es ein Zeitlimit? Je nach Modus spielst du mit oder ohne Timer; viele Varianten sind entspannt und ungetimt.
+- Kann ich die Anzahl der Teile ändern? In der Regel ja – wähle eine Schwierigkeit, die zu deiner Sessionlänge passt.
+- Gibt es verschiedene Motive? Meist gibt es Landschaften, Tiere und saisonale Themen.

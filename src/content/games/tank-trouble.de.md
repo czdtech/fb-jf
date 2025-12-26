@@ -48,13 +48,10 @@ Tank Trouble ist ein schnelles Labyrinth‑Duell für zwei bis drei Spieler (ode
 - **Wie vermeide ich Treffer?**  
   Bleib nicht auf gerader Linie vor dem Gegner, nutze diagonale Wege und Wände als Blocker.
 
+- **Wie viele Spieler können gleichzeitig spielen?**  
+  Meist sind 2–3 Spieler im lokalen Mehrspielermodus möglich (je nach Variante und Tastenbelegung).
+
 - **Gibt es ein Zeitlimit?**  
-  Meist nicht – eine Runde endet, wenn alle gegnerischen Panzer zerstört sind.
-
-
-**A**: Some modes may have time limits, but the main goal is to defeat all opponents.
-
-- **Q: Is there a time limit?**
-
-
-**A**: Some modes may have time limits, but the main goal is to defeat all opponents.
+  In den meisten Modi nicht – eine Runde endet, wenn alle gegnerischen Panzer
+  zerstört sind. Manche Varianten können jedoch ein Zeitlimit haben; das Ziel
+  bleibt, alle Gegner zu besiegen.

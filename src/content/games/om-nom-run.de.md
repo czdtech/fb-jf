@@ -19,10 +19,10 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ### Ausführliche Spielbeschreibung
 
 Om Nom: Run ist ein farbenfroher, actionreicher Endless Runner mit dem
- beliebten Monster Om Nom aus der „Cut the Rope“-Reihe. Du jagst über Straßen,
- Dächer und durch Tunnel, weichst Hindernissen aus, sammelst Münzen und
- erledigst Missionen. Mit verschiedenen Power-ups kannst du weiter laufen,
- höhere Punktzahlen erreichen und nach und nach neue Inhalte freischalten.
+beliebten Monster Om Nom aus der „Cut the Rope“-Reihe. Du jagst über Straßen,
+Dächer und durch Tunnel, weichst Hindernissen aus, sammelst Münzen und
+erledigst Missionen. Mit verschiedenen Power-ups kannst du weiter laufen,
+höhere Punktzahlen erreichen und nach und nach neue Inhalte freischalten.
 
 ### Strategien & Spieltipps
 
@@ -55,21 +55,15 @@ Die Steuerung erfolgt über einfache Wischgesten.
 ### Häufige Fragen (FAQ)
 
 *   **F: Was ist das Hauptziel des Spiels?**
-    **A:** Du versuchst, so weit wie möglich zu laufen, um die höchste
-    Punktzahl zu erreichen. Erfüllte Missionen erhöhen deinen Multiplikator und
-    bringen zusätzliche Belohnungen.
+    *   **A:** Du versuchst, so weit wie möglich zu laufen, um die höchste Punktzahl zu
+erreichen. Erfüllte Missionen erhöhen deinen Multiplikator und bringen
+zusätzliche Belohnungen.
 
-    - **F: Was passiert, wenn ich ein Hindernis treffe?**
-    **A:** Dein Lauf endet. Oft kannst du jedoch eine Spezialwährung (z. B.
-    Schlüssel) einsetzen, um einmalig weiterzumachen und genau an der Stelle
-    fortzusetzen, an der du gestürzt bist.
+*   **F: Was passiert, wenn ich ein Hindernis treffe?**
+    *   **A:** Dein Lauf endet. Oft kannst du jedoch eine Spezialwährung (z. B.
+Schlüssel) einsetzen, um einmalig weiterzumachen und genau an der Stelle
+fortzusetzen, an der du gestürzt bist.
 
 *   **F: Wie schalte ich andere Figuren wie Om Nelle frei?**
-
-    - **A:** New characters can usually be unlocked by collecting a large number of coins or by gathering special character tokens that appear randomly during runs.
-
-- **Q: How do I unlock other characters like Om Nelle?**
-
-    - **A:** Your run ends. However, you often have the option to spend a special currency (like keys) to get a second chance and continue your run from where you crashed.
-    **A:** Neue Charaktere werden meist durch große Mengen an Münzen oder durch
-    spezielle Tokens freigeschaltet, die während der Läufe zufällig auftauchen.
+    *   **A:** Neue Charaktere werden meist durch große Mengen an Münzen oder durch
+spezielle Tokens freigeschaltet, die während der Läufe zufällig auftauchen.

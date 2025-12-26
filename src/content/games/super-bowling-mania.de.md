@@ -35,17 +35,15 @@ Super Bowling Mania bringt Zehn‑Pin‑Bowling auf deinen Bildschirm: Du positi
 
 ### Häufige Fragen (FAQ)
 
-- **Wie funktioniert die Wertung beim Bowling?**  
-  Ein Spiel hat 10 Frames. Ein Strike (alle 10 Pins im ersten Wurf) bringt 10 Punkte plus die Pins der nächsten zwei Würfe; ein Spare (alle 10 Pins in zwei Würfen) bringt 10 Punkte plus die Pins des nächsten Wurfs.
+*   **F: Wie funktioniert die Wertung beim Bowling?**
+    *   **A:** Ein Spiel hat 10 Frames. Ein Strike (alle 10 Pins im ersten Wurf) bringt
+10 Punkte plus die Pins der nächsten zwei Würfe; ein Spare (alle 10 Pins in zwei
+Würfen) bringt 10 Punkte plus die Pins des nächsten Wurfs.
 
-    - **Was ist ein perfektes Spiel?**  
-  12 Strikes in Folge – insgesamt 300 Punkte.
+*   **F: Was ist ein perfektes Spiel?**
+    *   **A:** 12 Strikes in Folge – insgesamt 300 Punkte.
 
-- **Wie bekomme ich mehr Strikes?**  
-
-    - **A:** The key to getting strikes is consistency. Find a starting position, power level, and spin that works for you and try to replicate it. Aiming for the "pocket" just to the side of the head pin is generally the most effective strategy.
-
-- **Q: How do I get more strikes?**
-
-    - **A:** A perfect game is a score of 300, which is achieved by bowling 12 strikes in a row in a single game.
-  Finde eine Kombination aus Startposition, Power und Spin, die gut funktioniert, und wiederhole sie möglichst konstant. Zielt meist knapp an der Kopfpin‑Seite vorbei in die Pocket.
+*   **F: Wie bekomme ich mehr Strikes?**
+    *   **A:** Der Schlüssel ist Konstanz: Finde eine Kombination aus Startposition,
+Power und Spin, die gut funktioniert, und wiederhole sie möglichst gleich. Am
+effektivsten ist meist ein Wurf knapp neben den Kopfpin in die „Pocket“.

@@ -22,8 +22,8 @@ Stick Fight ist ein schnelles, physikbasiertes Arena‑Prügelspiel. Du steuerst
 
 ### Spielanleitung
 
+Hier sind ein paar hilfreiche Tipps.
 
-The objective in each round is to eliminate your opponents by knocking them out of the arena or depleting their health.
 - **Kampf:** Nutze Faustschläge, Tritte und die zufällig auftauchenden Waffen. Von Pistolen über Schrotflinten bis hin zu aberwitzigen Spezialwaffen ist alles dabei.
 - **Physik:** Die Physik-Engine beeinflusst Sprünge, Rückstoß und Flugbahnen. Du kannst Gegner durch Waffenkickback von der Map schleudern oder selbst abstürzen, wenn du unvorsichtig bist.
 - **Arenen:** Jede Karte hat eigene Gefahren wie Stacheln, einstürzende Plattformen oder rutschige Flächen. Passe deine Taktik an das Layout an.

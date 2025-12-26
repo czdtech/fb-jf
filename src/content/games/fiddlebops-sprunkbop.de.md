@@ -32,14 +32,14 @@ bekommen einen neuen Anstrich.
 
 ### So spielst du Fiddlebops Sprunkbop
 
+Unten findest du weitere Hinweise.
+
 - **Charakter wählen:** Such dir eine Figur bzw. einen Soundeffekt aus. Jede
   bringt ihren eigenen Loop mit.
 - **Drag & Drop:** Ziehe sie auf die Bühne, und der Sound wird sofort Teil deines
   Tracks. Entfernen kannst du sie, indem du sie wieder herunterziehst oder
   je nach Host doppelklickst.
 - **Mixen & Layern:** Lege mehrere Figuren übereinander, passe Reihenfolge und
-
-- **Experiment Freely:** There's no right or wrong, only fun! Boldly try out different combinations to find your favorite Fiddlebops Sprunkbop style.
   Dichte an und finde deinen Lieblingsmix.
 
 ### Warum lohnt sich Fiddlebops Sprunkbop?
@@ -51,9 +51,9 @@ bekommen einen neuen Anstrich.
 - **Einfacher Einstieg:** Wer Incredibox oder Fiddlebops kennt, findet sich
   sofort zurecht – aber auch Neulinge kommen mit der simplen Steuerung klar.
 - **Unbegrenzte Kreativität:** Es gibt kein "richtig" oder "falsch" – jede
+  Session kann komplett anders klingen.
 
 ### Fazit:
-  Session kann komplett anders klingen.
 
 Fiddlebops Sprunkbop bleibt dem Kern von Fiddlebops treu und erweitert ihn um
 visuelle und musikalische Ideen. Wenn du Lust auf einen frischen Mod mit viel

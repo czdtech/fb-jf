@@ -23,8 +23,8 @@ Tanuki Sunset ist ein Third‑Person‑Longboard‑Spiel mit starkem Synthwave�
 
 ### Spielanleitung
 
-
-The main goal is to score as many points as possible before you reach the end of the track or crash.
+Dein Ziel ist es, vor dem Ziel oder einem Crash möglichst viele Punkte zu
+sammeln.
 - **Driften:** Herzstück des Spiels – driftet Tanuki sauber durch Kurven oder sogar auf Geraden, steigen deine Punkte.
 - **Tricks:** Über Rampen kannst du Flips und Spins ausführen, um Zusatzpunkte zu kassieren.
 - **Sammeln:** Die gelben „Tanuki Bits“ füllen eine Bonus‑Roulette‑Leiste; ein voller Balken gibt dir einen Spin mit Punktbonus.

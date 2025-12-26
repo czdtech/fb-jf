@@ -35,22 +35,11 @@ Trap the Cat ist ein rundenbasiertes Denkspiel auf einem sechseckigen Raster. In
 
 ### Häufige Fragen (FAQ)
 
-
-- **Q: How does the cat move?**
-**Wie bewegt sich die Katze genau?**  
-
-- **Q: Is there a time limit?**
-Sie versucht, auf dem kürzesten Weg einen Rand des Feldes zu erreichen und bewegt sich pro Runde nur ein Hex‑Feld.
-
-
-- **Q: Is there a limit to the number of obstacles?**
-**Gibt es ein Zeitlimit?**  
-
-- **Q: How can I improve success rate?**
-In der Regel nein – du kannst dir für jeden Zug so viel Zeit nehmen, wie du brauchst.
-
-**Sind meine Barrieren begrenzt?**  
-Meist hast du nur eine bestimmte Anzahl von Zügen bzw. Barrieren, um die Katze einzukesseln. Das macht vorausschauende Planung wichtig.
-
-**Wie erhöhe ich meine Erfolgsquote?**  
-Übe, das Raster als Netz aus möglichen Pfaden zu sehen, statt nur als Einzelfelder. Je besser du Engstellen und Schlüsselpunkte erkennst, desto schneller kannst du die Katze sicher einsperren.
+1.  **F: Wie bewegt sich die Katze genau?**
+    **A:** Sie versucht, auf dem kürzesten Weg einen Rand des Feldes zu erreichen und bewegt sich pro Runde nur ein Hex‑Feld.
+2.  **F: Gibt es ein Zeitlimit?**
+    **A:** In der Regel nein – du kannst dir für jeden Zug so viel Zeit nehmen, wie du brauchst.
+3.  **F: Sind meine Barrieren begrenzt?**
+    **A:** Meist hast du nur eine bestimmte Anzahl von Zügen bzw. Barrieren, um die Katze einzukesseln. Das macht vorausschauende Planung wichtig.
+4.  **F: Wie erhöhe ich meine Erfolgsquote?**
+    **A:** Übe, das Raster als Netz aus möglichen Pfaden zu sehen, statt nur als Einzelfelder. Je besser du Engstellen und Schlüsselpunkte erkennst, desto schneller kannst du die Katze sicher einsperren.

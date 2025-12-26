@@ -57,21 +57,15 @@ konkurrierst um den Tages-Highscore.
 
 ### Häufige Fragen (FAQ)
 
-- **F: Welcher Turm ist der beste?**  
-  **A:** Es gibt keinen einzelnen besten Turm. Erfolgreiche Verteidigung lebt
-  von Kombinationen: Cannons und Torches für Gruppen, Ballistas für zähe
-  Einzelgegner und Timewarp, um alles zu verlangsamen.
+*   **F: Welcher Turm ist der beste?**
+    *   **A:** Es gibt keinen einzelnen besten Turm. Erfolgreiche Verteidigung lebt von
+Kombinationen: Cannons und Torches für Gruppen, Ballistas für zähe Einzelgegner
+und Timewarp, um alles zu verlangsamen.
 
-    - **F: Warum kann ich an manchen Stellen nicht bauen?**  
-  **A:** Türme dürfen nur auf den markierten, runden Bauplätzen entlang des
-  Weges platziert werden.
+*   **F: Warum kann ich an manchen Stellen nicht bauen?**
+    *   **A:** Türme dürfen nur auf den markierten, runden Bauplätzen entlang des Weges
+platziert werden.
 
-- **F: Wieso sieht die Karte heute anders aus als gestern?**  
-
-    - **A:** A unique feature of Endless Siege is that a new map is generated every day, offering a fresh strategic challenge for all players.
-
-- **Q: Why is the map different from yesterday?**
-
-    - **A:** You can only build on the designated circular plots found along the enemy path.
-  **A:** Endless Siege generiert jeden Tag eine neue Karte und bietet so allen
-  Spielern täglich eine frische taktische Herausforderung.
+*   **F: Wieso sieht die Karte heute anders aus als gestern?**
+    *   **A:** Endless Siege generiert jeden Tag eine neue Karte und bietet so allen
+Spielern täglich eine frische taktische Herausforderung.

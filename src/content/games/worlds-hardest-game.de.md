@@ -31,28 +31,16 @@ World's Hardest Game gilt nicht ohne Grund als eines der schwierigsten Arcade‑
 ### Steuerung
 
 - **Bewegung:** `WASD` oder `Pfeiltasten`, um das rote Quadrat präzise zu steuern.
-- **Kurz stoppen:** In sicheren Zonen kurz stehen bleiben, um den nächsten Abschnitt zu planen.
+- **Präzise Positionierung:** Nutze kurze, kontrollierte Bewegungen für pixelgenaues Ausweichen.
+- **Pause & Planen:** In sicheren Zonen kurz stehen bleiben, um den nächsten Abschnitt zu planen.
 
-
-- **Pause and Think**: Stop in safe areas to plan the next move.
 ### Häufige Fragen (FAQ)
 
-
-- **Q: Why is it called the World's Hardest Game?**
-**Warum heißt es „World's Hardest Game“?**  
-
-- **Q: How many levels are there?**
-Weil bereits kleinste Timing‑ oder Richtungsfehler zum sofortigen Scheitern führen und viele Level extrem eng getaktet sind.
-
-
-- **Q: Can I save progress?**
-**Wie viele Level gibt es?**  
-
-- **F: Gibt es Tipps zum Durchspielen?**
-In den meisten Versionen rund 30, wobei jeder Abschnitt spürbar schwerer wird.
-
-**Kann ich meinen Fortschritt speichern?**  
-Viele Builds speichern automatisch, sodass du beim nächsten Start beim letzten freigeschalteten Level weitermachen kannst.
-
-**Gibt es Tricks, um es zu schaffen?**  
-Keine Abkürzungen – Beobachtung, Übung und Geduld sind der Schlüssel. Lerne, Bewegungsmuster vorauszusehen, und renne nicht unüberlegt los.
+1.  **F: Warum heißt es „World's Hardest Game“?**
+    **A:** Weil das Spiel extrem präzises Timing und pixelgenaue Bewegung verlangt – schon kleine Fehler führen zum Scheitern.
+2.  **F: Wie viele Level gibt es?**
+    **A:** In den meisten Versionen rund 30, wobei jeder Abschnitt spürbar schwerer wird.
+3.  **F: Kann ich meinen Fortschritt speichern?**
+    **A:** Viele Builds speichern automatisch, sodass du beim nächsten Start beim letzten freigeschalteten Level weitermachen kannst.
+4.  **F: Gibt es Tipps zum Durchspielen?**
+    **A:** Keine Abkürzungen – Übung, Geduld und Beobachtung sind der Schlüssel. Lerne, Bewegungsmuster vorauszusehen, und renne nicht unüberlegt los.

@@ -34,17 +34,6 @@ Ultimate Knife Smash ist ein timingbasiertes Arcade‑Spiel. Du wirfst Messer au
 
 ### Häufige Fragen (FAQ)
 
-
-- Are there power‑ups? Some versions grant multi‑knives or slows—use them on dense waves.
-
-- Does rotation change? Often yes; be ready for speed spikes and direction flips.
-
-- Why do I keep hitting knives? You’re desyncing—re‑establish rhythm and throw only when clear gaps return.
-**Warum treffe ich ständig andere Messer?**  
-Meist hast du deinen Wurfrhythmus verloren. Warte ein, zwei Umdrehungen, finde deinen Takt wieder und wirf nur noch auf klar erkennbare Lücken.
-
-**Ändert sich die Rotation wirklich so oft?**  
-Ja, viele Level variieren Geschwindigkeit und Richtung, um dich aus dem Konzept zu bringen – bleib aufmerksam.
-
-**Gibt es Power‑ups?**  
-Manche Versionen bieten Mehrfachmesser oder Zeitlupen‑Effekte. Heb dir solche Power‑ups für dichte Messerwände und Boss‑Phasen auf.
+- Warum treffe ich ständig andere Messer? Meist hast du deinen Wurfrhythmus verloren. Warte ein, zwei Umdrehungen, finde deinen Takt wieder und wirf nur noch auf klar erkennbare Lücken.
+- Ändert sich die Rotation wirklich so oft? Ja, viele Level variieren Geschwindigkeit und Richtung, um dich aus dem Konzept zu bringen – bleib aufmerksam.
+- Gibt es Power‑ups? Manche Versionen bieten Mehrfachmesser oder Zeitlupen‑Effekte. Heb dir solche Power‑ups für dichte Messerwände und Boss‑Phasen auf.

@@ -33,27 +33,15 @@ Tunnel Rush ist ein rasanter 3D‑Endless‑Runner, in dem du dich durch einen f
 
 - **Links/Rechts bewegen:** `A` / `D` oder `Pfeil links` / `Pfeil rechts`.
 - **Hindernissen ausweichen:** Wechsle rechtzeitig die Position, um nicht mit Wänden oder Barrieren zu kollidieren.
-
-
-- **Stay Centered**: Try to stay in the center of the tunnel when there are no obstacles.
+- **In der Mitte bleiben:** Wenn gerade keine Hindernisse kommen, halte dich
+  möglichst mittig im Tunnel.
 ### Häufige Fragen (FAQ)
 
-
-- **Q: Will the speed keep increasing?**
-**Wird das Spiel immer schneller?**  
-
-- **Q: How can I improve survival time?**
-Ja, die Geschwindigkeit steigt mit der Zeit und macht das Ausweichen zunehmend anspruchsvoller.
-
-
-- **Q: What happens if I hit an obstacle?**
-**Wie halte ich länger durch?**  
-
-- **Q: Does the game have an ending?**
-Spiele mehrere kurze Sessions, um deine Reaktion zu trainieren, und achte darauf, Muster in den Hinderniskombinationen zu erkennen.
-
-**Was passiert bei einer Kollision?**  
-Schon ein Treffer beendet den Run sofort – du startest wieder von vorne.
-
-**Gibt es ein richtiges Ende?**  
-Tunnel Rush ist als Endlos‑Spiel gedacht. Die Frage ist, wie lange du durchhältst und welchen Highscore du schaffst.
+1.  **F: Wird das Spiel immer schneller?**
+    **A:** Ja, die Geschwindigkeit steigt mit der Zeit und macht das Ausweichen zunehmend anspruchsvoller.
+2.  **F: Wie halte ich länger durch?**
+    **A:** Übe regelmäßig, trainiere Reaktionen und lerne Muster in den Hinderniskombinationen zu erkennen.
+3.  **F: Was passiert bei einer Kollision?**
+    **A:** Schon ein Treffer beendet den Run sofort – du startest wieder von vorne.
+4.  **F: Gibt es ein richtiges Ende?**
+    **A:** Tunnel Rush ist als Endlos‑Spiel gedacht. Die Herausforderung ist, wie lange du durchhältst und welchen Highscore du schaffst.

@@ -37,22 +37,11 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 ### Häufige Fragen (FAQ)
 
-
-- **Q: When do I need to shout UNO?**
-**Wann muss ich UNO sagen?**  
-
-- **Q: When is the best time to use wild cards?**
-Direkt nachdem du deine vorletzte Karte gelegt hast und nur noch eine auf der Hand hast – am besten sofort den UNO‑Button drücken.
-
-
-- **Q: What happens if I forget to shout UNO?**
-**Wann spiele ich Joker am besten?**  
-
-- **Q: Can I play multiple identical cards in succession?**
-Wenn du sonst nicht legen kannst oder um kurz vor Schluss die Farbe auf etwas zu ändern, das deinen Mitspielern weh tut und dir nutzt.
-
-**Was passiert, wenn ich UNO vergesse?**  
-Wirst du ertappt, musst du in vielen Varianten 2–4 Strafkarten ziehen.
-
-**Kann ich mehrere gleiche Karten in einem Zug spielen?**  
-Das hängt von den eingestellten Hausregeln ab. Im klassischen UNO ist pro Zug normalerweise nur eine Karte erlaubt.
+1.  **F: Wann muss ich UNO sagen?**
+    **A:** Direkt nachdem du deine vorletzte Karte gelegt hast und nur noch eine auf der Hand hast – am besten sofort den UNO‑Button drücken.
+2.  **F: Wann spiele ich Joker am besten?**
+    **A:** Wenn du sonst nicht legen kannst oder um kurz vor Schluss die Farbe auf etwas zu ändern, das dir nützt und den Mitspielern weh tut.
+3.  **F: Was passiert, wenn ich UNO vergesse?**
+    **A:** Wirst du ertappt, musst du in vielen Varianten 2–4 Strafkarten ziehen.
+4.  **F: Kann ich mehrere gleiche Karten in einem Zug spielen?**
+    **A:** Das hängt von den eingestellten Hausregeln ab. Im klassischen UNO ist pro Zug normalerweise nur eine Karte erlaubt.

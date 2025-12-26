@@ -50,9 +50,11 @@ Die Steuerung bleibt super intuitiv und du bist in Sekunden drin:
 - **Aufgefrischte Optik:** Überarbeitete Hintergründe und Effekte lassen FiddleBops
   but Sprunki visuell deutlich moderner wirken.
 - **Klassisches Gameplay, neues Gefühl:** Die Drag-and-Drop-Mechanik bleibt,
-
-### Why Should You Absolutely Try FiddleBops but Sprunki?
   aber das Gesamtpaket fühlt sich dank Sprunki-Vibe komplett anders an.
+
+### Warum solltest du FiddleBops but Sprunki unbedingt ausprobieren?
 
 Wenn du Fiddlebops oder Sprunki magst, ist FiddleBops but Sprunki genau dein
 Ding – ein frischer Mix aus zwei Welten, perfekt zum kreativen Ausprobieren.
+
+Kurz gesagt: FiddleBops but Sprunki ist ein musikalisches Abenteuer voller kleiner Überraschungen. Probier den Mod aus und lass dich von den skurrilen Sprunki-Figuren durch ein neues Fiddlebops-Kapitel begleiten.
