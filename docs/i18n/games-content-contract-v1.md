@@ -5,7 +5,7 @@
 > 核心原则：
 > - 英文 `*.en.md` 是唯一事实源（Single Source of Truth）。
 > - 各语言标题文本可以不同，但结构语义由 **i18n 注释标记**决定。
-> - 硬信息点（iframeSrc / 键位 / 数值 / FAQ 集合与顺序 / hard-sync frontmatter）必须严格一致。
+> - 硬信息点（iframeSrc / 键位 / 数值 / FAQ 集合与顺序 / hard-sync frontmatter）必须严格一致；**若英文未提供某类硬信息点，则视为“空”，其它语言不得新增**。
 
 ## 1. 范围与文件映射（Scope）
 
@@ -42,8 +42,8 @@
 | `how-to-play` | 2 | ✅（推荐） | 玩法步骤/规则说明（**数值抽取范围**） |
 | `rules` | 3 | ⛳️ 可选 | 更严格的规则说明（**数值抽取范围**） |
 | `tips` | 4 | ⛳️ 可选 | 策略/技巧（**数值抽取范围**） |
-| `controls` | 5 | ✅ | 操作方式（**键位抽取范围**） |
-| `faq` | 6 | ✅ | FAQ（**FAQ ID 序列抽取范围**） |
+| `controls` | 5 | ⛳️ 可选 | 操作方式（**键位抽取范围**）；若英文缺失则视为空 |
+| `faq` | 6 | ⛳️ 可选 | FAQ（**FAQ ID 序列抽取范围**）；若英文缺失则视为空 |
 
 > 说明：`how-to-play` / `rules` / `tips` 至少应有一个存在，用于承载“玩法硬信息点”；若该游戏确实无明确规则/数值，也可以留空但仍建议保留 `how-to-play`。
 
@@ -60,6 +60,7 @@
 **规则：**
 - FAQ ID 只在英文缺失时生成；一旦存在，不因问题文本修改而变化。
 - 其它语言必须使用与英文完全一致的 FAQ ID **集合与顺序**（顺序也属于硬信息点）。
+ - 若英文未提供 `faq` section（即没有 `<!-- i18n:section:faq -->`），则 FAQ 视为空：其它语言不得新增 FAQ。
 
 ## 3. Controls（键位）写法要求
 
@@ -82,6 +83,8 @@ Controls 中涉及的键位/动作 token 必须使用行内代码（反引号）
 - 鼠标动作：`Click` `LeftClick` `RightClick` `Drag`
 
 > 校验时以 token 集合为准：各语言 token 集合必须与英文一致（描述文本可本地化）。
+>
+> 若英文未提供 `controls` section（即没有 `<!-- i18n:section:controls -->`），则 Controls 视为空：其它语言不得新增键位 token。
 
 ## 4. 数值（Numbers）对齐规则
 
@@ -160,4 +163,3 @@ Win in 3 rounds within 60s.
 **1. How do I win?**
 ...
 ```
-

@@ -98,8 +98,8 @@
 
 #### Acceptance Criteria
 
-1. THE English_Normalizer SHALL add missing section markers (`<!-- i18n:section:... -->`) to all English game files
-2. THE English_Normalizer SHALL add missing FAQ ID annotations to all English FAQ questions
+1. THE English_Normalizer SHALL add missing section markers (`<!-- i18n:section:... -->`) to English game files **when the corresponding section exists and the insertion point is unambiguous**
+2. THE English_Normalizer SHALL add missing FAQ ID annotations to English FAQ questions **when a FAQ section exists** (if English has no FAQ section, it is treated as empty)
 3. WHEN adding markers, THE English_Normalizer SHALL run in dry-run mode first to report statistics before making changes
 4. IF the missing marker rate exceeds a configurable threshold, THE English_Normalizer SHALL fall back to a conservative mode (only insert where position is unambiguous)
 5. THE English_Normalizer SHALL process files in batches of 20-40 games per commit for reviewability
@@ -111,9 +111,9 @@
 #### Acceptance Criteria
 
 1. WHEN aligning iframeSrc, THE Aligner SHALL copy the exact value from English (character-by-character match required)
-2. WHEN aligning Controls, THE Aligner SHALL ensure the key token set matches English exactly (localized descriptions are allowed, but key tokens like `W`, `A`, `S`, `D` must be identical)
+2. WHEN aligning Controls, THE Aligner SHALL ensure the key token set matches English exactly; IF English has no Controls section/markers, Controls is treated as empty and locales MUST NOT add key tokens
 3. WHEN aligning numeric values, THE Aligner SHALL ensure number tokens match English exactly as a multiset (token counts must match; unit names and word order may differ)
-4. WHEN aligning FAQ, THE Aligner SHALL ensure the same FAQ ID set and order as English; missing FAQs must be added with proper translations
+4. WHEN aligning FAQ, THE Aligner SHALL ensure the same FAQ ID set and order as English; IF English has no FAQ section/markers, FAQ is treated as empty and locales MUST NOT add FAQs
 5. THE Aligner SHALL NOT modify any content during the "polish phase" (after hardpoints are aligned) except for wording improvements
 
 ### Requirement 8: Baseline 机制

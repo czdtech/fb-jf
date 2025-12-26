@@ -37,6 +37,11 @@ The system SHALL parse frontmatter and Markdown AST to extract hardpoints for ea
 - **WHEN** the extractor runs
 - **THEN** key tokens are collected from inlineCode nodes only
 
+#### Scenario: Missing markers yield empty hardpoints
+- **GIVEN** a game page has no i18n section markers
+- **WHEN** the extractor runs
+- **THEN** controls keys, numbers tokens, and FAQ IDs are all empty (no false positives)
+
 ### Requirement: Numbers extracted within allowed sections and compared as multiset
 The system SHALL extract numeric tokens only from allowed sections (e.g., how-to-play/rules/tips markers) and SHALL preserve token multiplicity for alignment.
 
@@ -58,4 +63,3 @@ The system SHALL include fixtures and automated tests covering common structures
 #### Scenario: Fixture coverage exists for key edge cases
 - **WHEN** running the test suite for the extractor/diff tooling
 - **THEN** fixtures cover missing markers, duplicate FAQ IDs, FAQ reorder, and numeric false-positive cases
-
