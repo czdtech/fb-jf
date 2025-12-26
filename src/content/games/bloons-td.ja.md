@@ -13,7 +13,7 @@ locale: ja
 
 ## ゲーム紹介
 
-*Bloons TD（Bloons Tower Defense）* は、Bloon（風船）たちが進むルートの脇にモンキー・タワーを配置し、出口に到達する前にすべて割り切ることを目指すシリーズの出発点です。
+*Bloons TD（正式名称：Bloons Tower Defense）* は、Bloon（風船）たちが進むルートの脇にモンキー・タワーを配置し、出口に到達する前にすべて割り切ることを目指すシリーズの出発点です。
 
 各タワーには独自の攻撃方法やアップグレードがあり、Bloon を割るたびに得られるゲーム内通貨で新たな戦力を整えていきます。ラウンドが進むほど Bloon のスピードや特殊能力が増し、戦略的な判断がより重要になります。
 
@@ -30,7 +30,7 @@ locale: ja
 
 -   **序盤の基盤づくり:** 低コストで効率の良いタワー（強化した Dart Monkey やカーブに置く Tack Shooter）から始め、初期ラウンドを安く乗り切りましょう。
 -   **バランス型の防衛網:** 1 種類だけではすべての Bloon に対応できません。
-    -   **Camo 対応:** Ninja Monkey、Sniper Monkey のカモ検知アップグレード、Monkey Village（Radar Scanner）などで視認可能に。  
+    -   **Camo 対応:** Ninja Monkey、Sniper Monkey のカモ検知アップグレード、Monkey Village（アップグレード：Radar Scanner）などで視認可能に。  
     -   **Lead 破壊:** Bomb Shooter、Mortar Monkey、あるいは火炎系アップグレードを備えたタワーを用意。  
     -   **群集処理:** Tack Shooter、Bomb Shooter、Wizard Monkey など範囲攻撃タワーで密集ラウンドを掃討。  
     -   **MOAB 対策:** Super Monkey や Spike Factory のような高単体 DPS タワーが後半には必須です。

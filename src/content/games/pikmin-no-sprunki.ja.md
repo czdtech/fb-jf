@@ -30,7 +30,7 @@ Pikmin no Sprunkiは、Pikminをテーマにした音楽作成ゲームです。
 ### 操作ガイド
 
 
-Pikmin No Sprunki is more than just a simple game; it's a creative platform that encourages exploration. It perfectly combines engaging gameplay, diverse mods, and an active community, standing out among many free games. Whether you're a seasoned Sprunki veteran or a player looking for a fresh experience, Pikmin No Sprunki is definitely worth a try! Come join this wonderful world, and use rhythm and creativity to compose your very own Pikmin No Sprunki symphony!
+Pikmin No Sprunkiは、ただのミニゲームではなく、試行錯誤しながら音を探せる“創作の場”です。遊びごたえのある仕組みやバリエーション、そしてコミュニティの盛り上がりが合わさり、無料ゲームの中でも印象に残る作品になっています。Sprunkiに慣れている人も、初めての人も、まずは気軽に試してみてください。リズムと発想で、自分だけのPikmin No Sprunkiを作りましょう。
 操作はシンプルで、キャラクターを配置して音を重ねるだけです。気に入った組み合わせを入れ替えながら、自分のリズムを作っていきます。
 - キャラクターをクリック/タップして選択および配置します。
 - サウンドをミックスして音楽を作成します。

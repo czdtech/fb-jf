@@ -9,7 +9,7 @@ tags: ["sprunki maker (big update)", "sprunki maker (big update) online"]
 locale: ja
 ---
 
-### Sprunki Maker (BIG update)の紹介
+### Sprunki Maker（大型アップデート）の紹介
  
 Sprunki Makerは、Sprunkiキャラクターの見た目をカスタマイズできる作成ツールです。パーツや色を組み合わせて、自分の好みに合わせたキャラクターを作れます。
  

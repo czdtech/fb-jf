@@ -21,24 +21,24 @@ BTD5 では以下の要素が追加・強化されています。
 
 -   **新タワー：** **Monkey Sub（モンキーサブ）**、**Heli Pilot（ヘリパイロット）**、**Monkey Engineer（モンキーエンジニア）**、**Bloonchipper** など、その後のシリーズでも定番になるユニットが参戦。
 -   **Special Agents：** ゲーム内通貨「Monkey Money」で購入する強力なエージェント。難所で一気に局面をひっくり返す切り札になります。
--   **Z.O.M.G. の登場：** 黒と緑の巨大飛行船 **Z.O.M.G.（Zeppelin Of Mighty Gargantuaness）** が初登場。非常に硬く、内部には 4 体の B.F.B. が潜んでいます。
+-   **Z.O.M.G. の登場：** 黒と緑の巨大飛行船 **Z.O.M.G.（正式名称：Zeppelin Of Mighty Gargantuaness）** が初登場。非常に硬く、内部には 4 体の B.F.B. が潜んでいます。
 -   **Monkey Lab：** Monkey Money を投資して全タワーを恒久的に強化できる研究施設。プレイを重ねるほど戦力が底上げされます。
 -   **膨大なコンテンツ：** 数十のトラック、特殊ルールの Special Mission、デイリーチャレンジ、そして協力プレイモードまで収録。
 -   **アクティブアビリティ：** 多くのティア4アップグレードが強力な発動型スキルを与えます（例：Bomb Tower の「MOAB Assassin」、Heli Pilot の「Downdraft」など）。
 
 ### ゲーム攻略と戦略
 
--   **経済がすべて：** 早期に Banana Farm を建てて資金源を確保するのが勝利への近道です。最終的には 4/2（`Banana Research Facility` + `More Bananas`）構成を目指し、毎ラウンド大量のキャッシュを得ましょう。
+-   **経済がすべて：** 早期に Banana Farm を建てて資金源を確保するのが勝利への近道です。最終的には 4/2（アップグレード：`Banana Research Facility` + `More Bananas`）構成を目指し、毎ラウンド大量のキャッシュを得ましょう。
 -   **序盤の防衛：** 2/3 の **Dartling Gun** や 3/x の **Ninja Monkey** が序盤～中盤を安定させてくれます。防衛を維持しつつ農園投資の時間を稼ぐのがポイント。
 -   **中盤の特殊 Bloon 対策：**
-    -   **Camo：** 2/2 の **Monkey Village**（`Radar Scanner`）で周囲のタワーに迷彩感知を付与。4/2 **Ninja Monkey**（`Bloonjitsu`）は迷彩処理の主力。
-    -   **Lead：** 2/3 **Bomb Tower**（`Cluster Bombs`）や x/3 **Monkey Village**（`Monkey Intelligence Bureau`）で全タワーに鉛破壊能力を与えます。
-    -   **Regrow：** 高 DPS のタワーで再生を許さないことが重要。2/3 **Tack Shooter**（`Blade Maelstrom`）や 4/x **Cannon Ship**（Monkey Buccaneer）が有効です。
+    -   **Camo：** 2/2 の **Monkey Village**（アップグレード：`Radar Scanner`）で周囲のタワーに迷彩感知を付与。4/2 **Ninja Monkey**（`Bloonjitsu`）は迷彩処理の主力。
+    -   **Lead：** 2/3 **Bomb Tower**（アップグレード：`Cluster Bombs`）や x/3 **Monkey Village**（アップグレード：`Monkey Intelligence Bureau`）で全タワーに鉛破壊能力を与えます。
+    -   **Regrow：** 高 DPS のタワーで再生を許さないことが重要。2/3 **Tack Shooter**（アップグレード：`Blade Maelstrom`）や 4/x **Cannon Ship**（ユニット：Monkey Buccaneer）が有効です。
 -   **Temple of the Monkey God（モンキーゴッド・テンプル）の建設：** Super Monkey の 4/x アップグレードは最強の後半タワーです。アップグレード前に射程内へ様々なカテゴリのタワーを配置して「献祭」すると、投入コストに応じて Temple の火力が大幅に上昇します。
 -   **終盤の主力候補：**
-    -   **Technological Terror（Super Monkey x/4）：** アクティブスキルで画面全体を一掃。
+    -   **Technological Terror（例：Super Monkey x/4）：** アクティブスキルで画面全体を一掃。
     -   **Supa-Vac（Bloonchipper 2/4）：** ZOMG クラスを吸い込み足止めできる究極のクラウドコントロール。
-    -   **Sabotage Supply Lines（Ninja Monkey x/4）：** 全 Bloon の速度を半減させ、最終ラウンドを生き残るための必須アビリティ。
+    -   **Sabotage Supply Lines（例：Ninja Monkey x/4）：** 全 Bloon の速度を半減させ、最終ラウンドを生き残るための必須アビリティ。
 
 ### 操作ガイド
 
@@ -61,7 +61,7 @@ BTD5 では以下の要素が追加・強化されています。
 > Sun God の射程内にあるタワーが、Temple へアップグレードする際に自動的に吸収されます。各カテゴリ（Primary / Military / Magic など）で約 30,000 ドルまで加算され、それぞれの上限まで捧げると Temple の火力が最大になります。
 
 **4. ZOMG とは何で、どう倒す？**  
-> ZOMG は最も硬い飛行船で、非常に遅い代わりに膨大な HP を持ちます。Temple や MOAB Assassin（Bomb Tower x/4）、Ninja Monkey の Sabotage Supply Lines など、高火力とスロウを組み合わせて集中攻撃しましょう。
+> ZOMG は最も硬い飛行船で、非常に遅い代わりに膨大な HP を持ちます。Temple や MOAB Assassin（例：Bomb Tower x/4）、Ninja Monkey の Sabotage Supply Lines など、高火力とスロウを組み合わせて集中攻撃しましょう。
 
 **5. Special Agents は買う価値がありますか？**  
 > あります。`Meerkat Spy` のように序盤の迷彩検知を補ってくれるものや、`Bloonsday Device` のように大量リークを回避できる切り札など、難関マップで大いに役立ちます。
