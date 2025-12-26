@@ -12,10 +12,12 @@ releaseDate: 2025-10-17
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Snowboard King 2024 is a thrilling, fast-paced arcade game where you snowboard down a treacherous, endless mountain slope. Your primary goal is to survive for as long as possible, skillfully navigating around obstacles like trees and rocks. Adding to the challenge, a deadly avalanche is constantly chasing you from behind, forcing you to maintain your speed and think fast. Collect coins along the way to upgrade your abilities and solidify your title as the Snowboard King.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Look Ahead:** The key to a long run is anticipation. Keep your eyes focused far down the slope to see upcoming obstacles and plan your path well in advance.
@@ -23,19 +25,25 @@ Snowboard King 2024 is a thrilling, fast-paced arcade game where you snowboard d
 3.  **Strategic Boosting:** Your boost gives you a burst of speed, which is essential for outrunning the avalanche. However, it also makes it harder to steer. Use your boost on long, clear stretches, not when you are navigating a dense forest of obstacles.
 4.  **Upgrade Your Skills:** Use the coins you collect to upgrade your snowboarder's abilities between runs. Improving your "Carve" (turning speed) and "Boost" will make subsequent runs much easier.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 *   **Steer:** Use the **A/D keys** or the **Left/Right Arrow keys** to steer your snowboarder.
 *   **Boost:** Press the **Spacebar** to activate a temporary speed boost.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: What is the main objective?**
+* <!-- i18n:faq:id=faq:snowboard-king-2024:q-what-is-the-main-212faaec -->
+  **Q: What is the main objective?**
     *   **A:** To survive as long as possible by snowboarding down the mountain without crashing or being caught by the avalanche behind you.
 
-*   **Q: What happens if I hit a tree?**
+* <!-- i18n:faq:id=faq:snowboard-king-2024:q-what-happens-if-i-39e62d3f -->
+  **Q: What happens if I hit a tree?**
     *   **A:** You will crash, and your run will be over.
 
-*   **Q: How do I get a higher score?**
+* <!-- i18n:faq:id=faq:snowboard-king-2024:q-how-do-i-get-698432e6 -->
+  **Q: How do I get a higher score?**
     *   **A:** Your score is based on the distance you travel. The farther you go, the higher your score. Upgrading your skills is the best way to improve your potential distance.
+
 

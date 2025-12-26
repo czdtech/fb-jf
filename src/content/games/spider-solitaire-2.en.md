@@ -12,10 +12,12 @@ releaseDate: 2025-10-17
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Spider Solitaire is one of the most popular and challenging variations of solitaire. Played with two full decks of cards, the objective is to clear the tableau by building eight complete descending sequences of a single suit, from King down to Ace. Once a full sequence is completed, it is removed from play. The game is renowned for its difficulty and the strategic depth required to win, especially when played with two or four suits.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **The Goal:** To build eight sequences of cards within the tableau, each from King to Ace in a single suit. Once a full K-to-A sequence is formed, it is automatically removed from the board. The game is won when the tableau is empty.
@@ -24,20 +26,26 @@ Spider Solitaire is one of the most popular and challenging variations of solita
 4.  **Empty Columns:** An empty column can be filled with any card or any valid sequence of cards. Use these empty spaces strategically to rearrange your tableau and organize your suits.
 5.  **Dealing from the Stock:** When you have no more productive moves, you can click the stock pile. This will deal one new face-up card to the bottom of each of the ten tableau columns. **Important:** You cannot deal new cards if any of your tableau columns are empty.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 *   **Move Cards:** Click and drag a card or a valid sequence to another column.
 *   **Deal Cards:** Click the stock pile in the corner to deal a new row of cards.
 *   **Auto-Move:** Many versions will automatically move a completed K-to-A sequence to the foundation area for you.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: What is the difference between 1, 2, and 4 suit Spider Solitaire?**
+* <!-- i18n:faq:id=faq:spider-solitaire-2:q-what-is-the-difference-c4626a5e -->
+  **Q: What is the difference between 1, 2, and 4 suit Spider Solitaire?**
     *   **A:** The difficulty. In 1-suit mode, all cards are of the same suit, making it easy to create sequences. In 2-suit and 4-suit modes, you must manage different suits, which makes it much harder to build the required single-suit sequences for removal.
 
-*   **Q: Why can't I deal new cards from the stock?**
+* <!-- i18n:faq:id=faq:spider-solitaire-2:q-why-cant-i-deal-276b71ba -->
+  **Q: Why can't I deal new cards from the stock?**
     *   **A:** You must have at least one card in every single one of the ten tableau columns. If you have an empty column, you must place a card in it before you can deal a new row.
 
-*   **Q: What is the best strategy for beginners?**
+* <!-- i18n:faq:id=faq:spider-solitaire-2:q-what-is-the-best-72397c7d -->
+  **Q: What is the best strategy for beginners?**
     *   **A:** Start with 1-suit mode to learn the mechanics. Focus on uncovering new cards and creating empty columns. Try to build sequences on cards that don't have many face-down cards underneath them.
+
 

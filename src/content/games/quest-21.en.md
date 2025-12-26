@@ -13,10 +13,12 @@ releaseDate: 2025-10-17
 
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Quest 21 is a fun and strategic card game adventure based on the rules of classic Blackjack. Instead of just playing at a casino table, you embark on a quest, facing off against a series of opponents. To defeat them and advance, you must win hands of 21. The goal in each hand is to get a card total closer to 21 than your opponent without going over. It combines the luck of the draw with simple, strategic decisions.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **The Goal:** Get your hand total as close to 21 as possible, without exceeding it. A hand over 21 is a "bust" and an automatic loss.
@@ -30,6 +32,7 @@ Quest 21 is a fun and strategic card game adventure based on the rules of classi
 4.  **Basic Strategy:** A simple rule of thumb is to always "Hit" if your hand total is 11 or less. If your hand is 17 or more, it is usually wise to "Stand," as the risk of busting is high.
 5.  **Blackjack:** If your first two cards are an Ace and a 10-value card, you have a "Blackjack" and typically win the hand instantly.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 The game is played with on-screen buttons.
@@ -37,14 +40,19 @@ The game is played with on-screen buttons.
 *   **Hit:** Click the "Hit" button to be dealt another card.
 *   **Stand:** Click the "Stand" button to end your turn and see what the opponent has.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: What does it mean to "bust"?**
+* <!-- i18n:faq:id=faq:quest-21:q-what-does-it-mean-e5ac60fa -->
+  **Q: What does it mean to "bust"?**
     *   **A:** If you take a card and your hand total goes over 21, you have "busted" and you immediately lose the round.
 
-*   **Q: When should I stand?**
+* <!-- i18n:faq:id=faq:quest-21:q-when-should-i-stand-c14c2328 -->
+  **Q: When should I stand?**
     *   **A:** A safe strategy is to stand on any hand worth 17 or more (a "hard 17"). For hands with an Ace that counts as 11 (a "soft 17"), it is often safe to hit.
 
-*   **Q: What happens if there is a tie?**
+* <!-- i18n:faq:id=faq:quest-21:q-what-happens-if-there-89d681b5 -->
+  **Q: What happens if there is a tie?**
     *   **A:** A tie is called a "push." In most casual versions of the game, this simply means no one wins or loses the hand, and you move on to the next round.
+
 

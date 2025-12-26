@@ -12,10 +12,12 @@ releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Solitaire 0-21 blends solitaire layout with arithmetic constraints. You place number cards to keep running totals within [0, 21]; modifiers (+/‑/×) and special effects complicate planning. Optimal play sequences safe placements while reserving room for spikes.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Buffer space: Leave headroom near 21; don’t push totals to edges early.
@@ -24,21 +26,27 @@ Solitaire 0-21 blends solitaire layout with arithmetic constraints. You place nu
 4.  Hold highs: Park high cards until you can offset with negatives.
 5.  Undo discipline: Undo immediately after noticing a boxed‑in row.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Click/drag to place cards; use undo/hints per UI.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- Q: Totals keep busting.
+- <!-- i18n:faq:id=faq:solitaire-0-21:totals-keep-busting-a8b7e346 -->
+  Q: Totals keep busting.
   
   A: You’re playing too close to 0/21 edges; leave cushion and pace modifiers.
 
-- Q: Best way to use negatives?
+- <!-- i18n:faq:id=faq:solitaire-0-21:best-way-to-use-negatives-0969db9d -->
+  Q: Best way to use negatives?
   
   A: Pair with highs to reset headroom on the same row.
 
-- Q: Is luck dominant?
+- <!-- i18n:faq:id=faq:solitaire-0-21:is-luck-dominant-bed2b357 -->
+  Q: Is luck dominant?
   
   A: Draws matter, but placement strategy heavily impacts outcomes.
+
 

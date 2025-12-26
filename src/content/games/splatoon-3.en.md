@@ -12,10 +12,12 @@ developer: ""
 releaseDate: 2025-08-16
 ---
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 Splatoon 3 is a vibrant and stylish third-person shooter where the goal isn't just to defeat opponents, but to cover the map with your team's colored ink. Players control unique characters called Inklings and Octolings who can instantly switch between a humanoid "kid" form to shoot ink and a "squid" form to swim through it.
 
+<!-- i18n:section:tips -->
 ### Gameplay Guide
 
 The most common game mode is Turf War, a 4v4 battle where the team that covers the highest percentage of the map with their ink in three minutes wins.
@@ -23,6 +25,7 @@ The most common game mode is Turf War, a 4v4 battle where the team that covers t
 - **Squid Form:** Dive into your own ink to become a squid. In this form, you move much faster, can swim up inked walls, and are hidden from enemies. Swimming in ink also reloads your ink tank.
 - **Teamwork:** Coordinate with your team to control key areas of the map and push back the enemy.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 While specific controls can vary, they are generally based on standard shooter layouts:
@@ -32,6 +35,7 @@ While specific controls can vary, they are generally based on standard shooter l
 - **Transform to Squid:** `Shift` or `Spacebar` (Hold to swim)
 - **Jump:** `Spacebar` (when in kid form)
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
 **What is the main objective?**
@@ -45,4 +49,5 @@ You cannot fire your main weapon when your ink tank is empty. To refill it, simp
 **Is it better to cover turf or splat opponents?**
 
 Both are important! Splatting opponents temporarily removes them from the field, giving your team an opportunity to cover more turf uncontested. However, the ultimate winner is decided by ink coverage, so don't neglect painting the ground.
+
 

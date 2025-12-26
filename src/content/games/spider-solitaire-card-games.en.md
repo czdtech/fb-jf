@@ -12,10 +12,12 @@ developer: ""
 releaseDate: 2025-08-16
 ---
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 Spider Solitaire is a challenging and popular variant of the classic solitaire card game, played with two standard decks of cards (104 cards total). The main goal is to clear the entire playing area by assembling eight complete same-suit sequences of cards, ordered from King down to Ace. Once a full sequence is built, it is removed from the game.
 
+<!-- i18n:section:tips -->
 ### Gameplay Guide
 
 - **Objective:** Build eight descending sequences of the same suit (King, Queen, Jack, ..., Ace).
@@ -23,10 +25,12 @@ Spider Solitaire is a challenging and popular variant of the classic solitaire c
 - **Empty Columns:** An empty column can be filled with any available card or a sequence of cards.
 - **Stock Pile:** When you have no more available moves on the tableau, you can deal a new row of 10 cards from the stock pile. You can only do this when there are no empty columns.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - **Mouse/Touch:** Click and drag cards to move them between columns. Most versions also support a single click to automatically move a card to a valid position if one exists.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
 **What do the different difficulty levels mean?**
@@ -43,4 +47,5 @@ The name comes from the eight sequences you need to build, corresponding to a sp
 **What is the main strategy?**
 
 Try to empty columns as quickly as possible to create free space for re-ordering cards. It's also crucial to uncover face-down cards to bring more options into play. Whenever possible, try to build sequences of the same suit.
+
 

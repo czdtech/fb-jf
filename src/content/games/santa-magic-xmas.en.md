@@ -12,10 +12,12 @@ releaseDate: 2025-10-17
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Santa Magic Xmas is a cheerful and festive match-3 puzzle game that immerses you in the holiday spirit. Your goal is to help Santa Claus by matching colorful Christmas items like bells, ornaments, and gingerbread men. Swap adjacent items to create lines of three or more, trigger powerful combos, and complete the objectives of each level to ensure all the presents are delivered on time!
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Create Festive Power-ups:** The best way to clear the board is by making special items from larger matches.
@@ -27,20 +29,26 @@ Santa Magic Xmas is a cheerful and festive match-3 puzzle game that immerses you
 3.  **Focus on the Goal:** Each level has a unique objective, such as clearing all the frozen ice tiles or dropping special gift boxes to the bottom. Always prioritize moves that help you achieve the specific goal before you run out of moves.
 4.  **Work from the Bottom:** Making matches near the bottom of the board can create cascades, where new items fall and create automatic matches, helping you clear the level more efficiently.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 The game is played with simple swap mechanics.
 
 *   **Swap Items:** Click and drag an item to swap it with an adjacent one. The swap will only be successful if it creates a valid match.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: How do I break the ice blocks?**
+* <!-- i18n:faq:id=faq:santa-magic-xmas:q-how-do-i-break-3176561d -->
+  **Q: How do I break the ice blocks?**
     *   **A:** You must make a match that includes a tile adjacent to the ice block. This will crack and eventually break the ice.
 
-*   **Q: What is the most powerful combo?**
+* <!-- i18n:faq:id=faq:santa-magic-xmas:q-what-is-the-most-eca73219 -->
+  **Q: What is the most powerful combo?**
     *   **A:** Swapping two color bombs together is the most powerful move, as it will clear every single item from the board.
 
-*   **Q: What happens if I run out of moves?**
+* <!-- i18n:faq:id=faq:santa-magic-xmas:q-what-happens-if-i-63c9772b -->
+  **Q: What happens if I run out of moves?**
     *   **A:** If you don't complete the level's objective within the move limit, you will have to restart the level.
+
 

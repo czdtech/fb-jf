@@ -12,14 +12,17 @@ developer: ""
 releaseDate: 2025-08-16
 ---
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 Snow Rider 3D is a fast-paced, winter-themed action game where you ride a sled down a vast, snowy mountain. The goal is to travel as far as possible while skillfully dodging a variety of obstacles, including trees, rocks, snowmen, and boulders. It's a test of reflexes and anticipation as the speed increases and the challenges become more intense.
 
+<!-- i18n:section:tips -->
 ### Gameplay Guide
 
 Your main objective is to get the highest score by surviving for as long as you can. Look ahead to anticipate upcoming obstacles and plan your path accordingly. Use the ramps scattered on the hill to your advantage by jumping over large obstacles or clusters of trees. Along the way, you can collect gifts which can be used to unlock new and cooler sleds in the shop.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 The controls are simple and responsive:
@@ -27,6 +30,7 @@ The controls are simple and responsive:
 - **Steer Right:** `D` or `Right Arrow` key
 - **Jump:** `W` or `Up Arrow` key
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
 **What is the main goal of Snow Rider 3D?**
@@ -40,4 +44,5 @@ You can unlock new sleds by collecting the gift boxes that appear on the slope a
 **What's the best strategy for a high score?**
 
 Focus on survival above all else. Make small, controlled movements instead of sharp turns. Look far ahead to anticipate obstacles and don't take unnecessary risks just to grab a gift. Mastering the timing of your jumps is also crucial for clearing difficult sections.
+
 

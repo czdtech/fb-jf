@@ -12,19 +12,23 @@ developer: ""
 releaseDate: 2025-08-16
 ---
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 Spacebar Clicker is a simple yet highly addictive incremental game centered around a single action: pressing the spacebar. The primary goal is to accumulate points by clicking, and then use those points to purchase upgrades. These upgrades enhance your clicking power or automate the process, creating a satisfying loop of progression where your numbers grow exponentially.
 
+<!-- i18n:section:tips -->
 ### Gameplay Guide
 
 Start by repeatedly pressing the spacebar to generate your first points. As you earn more, invest in upgrades from the shop. These upgrades might include auto-clickers that generate points for you over time, or multipliers that increase the points you get for each manual press. The key is to balance manual clicking with purchasing the right upgrades to maximize your points-per-second.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - **Main Action:** `Spacebar` - Press to generate points.
 - **Upgrades:** `Mouse Click` - Use your mouse to purchase upgrades from the in-game menu.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
 **What is the point of a Spacebar Clicker?**
@@ -38,4 +42,5 @@ Most clicker games, including Spacebar Clicker, are designed to be endless. The 
 **What's the best strategy?**
 
 In the beginning, focus on manual clicking to afford your first few upgrades. Prioritize upgrades that provide passive, automatic income. Once you have a steady stream of points, you can invest in more expensive upgrades that multiply your overall earnings.
+
 

@@ -12,10 +12,12 @@ developer: ""
 releaseDate: 2025-08-16
 ---
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 Klondike Solitaire is the most popular and well-known version of the single-player card game, often referred to simply as "Solitaire." Using a standard 52-card deck, the goal is to organize all the cards into four foundation piles, one for each suit, in ascending order. It's a game of patience, strategy, and a little bit of luck.
 
+<!-- i18n:section:tips -->
 ### Gameplay Guide
 
 The main objective is to build four foundation piles, starting with the Ace and ending with the King for each suit (e.g., A♣, 2♣, 3♣...).
@@ -24,10 +26,12 @@ The main objective is to build four foundation piles, starting with the Ace and 
 - **Stock Pile:** Draw cards from the stock pile to bring new cards into play via the waste pile.
 - **Empty Columns:** Only a King can be moved into an empty tableau column.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - **Mouse/Touch:** Click and drag cards to move them between piles. In most versions, you can also simply click a card, and it will automatically move to a valid position if one is available.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
 **What is the difference between Klondike and other types of Solitaire?**
@@ -41,4 +45,5 @@ The name is believed to have originated from the Klondike Gold Rush in Canada, p
 **Is every game of Klondike Solitaire winnable?**
 
 No, not every deal is winnable. The random shuffle of the cards means that some games are mathematically impossible to solve, which is part of the challenge.
+
 

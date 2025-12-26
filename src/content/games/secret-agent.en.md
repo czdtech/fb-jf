@@ -12,10 +12,12 @@ releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Secret Agent blends stealth with light puzzle routing. You’ll disable cameras, avoid cones of vision, hack doors, and collect intel before extraction. Clean routes and gadget timing trump brute force.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Vision cones: Move only when guard cones sweep away.
@@ -24,21 +26,27 @@ Secret Agent blends stealth with light puzzle routing. You’ll disable cameras,
 4.  Sound bait: Throw a decoy to pivot patrol routes, then slip through.
 5.  Fail forward: After detection, break line of sight and hide; don’t panic sprint.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - WASD/Arrows to move; number keys for gadgets; interact with terminals; restart via menu.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- Q: I’m always spotted.
+- <!-- i18n:faq:id=faq:secret-agent:im-always-spotted-afdb7849 -->
+  Q: I’m always spotted.
   
   A: Study patrol cycles and move on fixed beats; use cover transitions.
 
-- Q: Gadgets feel scarce.
+- <!-- i18n:faq:id=faq:secret-agent:gadgets-feel-scarce-dd404211 -->
+  Q: Gadgets feel scarce.
   
   A: Use them only to break impossible rooms; rely on timing elsewhere.
 
-- Q: Can I ghost levels?
+- <!-- i18n:faq:id=faq:secret-agent:can-i-ghost-levels-337f3b17 -->
+  Q: Can I ghost levels?
   
   A: Many builds award bonuses for zero detections.
+
 

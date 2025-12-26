@@ -12,10 +12,12 @@ releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Solitaire 2048 converts merge logic into a card stream. You place cards (2, 4, 8…) into columns; adjacent equals merge to the next value. The trick is sequencing so merges cascade and free space rather than clog lanes.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Anchor column: Keep the highest value centralized for lateral access.
@@ -24,21 +26,27 @@ Solitaire 2048 converts merge logic into a card stream. You place cards (2, 4, 8
 4.  Trigger timing: Drop the triggering card only after both neighbors are set.
 5.  Trash lane: Dedicate one edge to off‑cycle cards.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Click a column to place current card; undo/hints if available.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- Q: Columns keep locking.
+- <!-- i18n:faq:id=faq:solitaire-2048:columns-keep-locking-278e1f59 -->
+  Q: Columns keep locking.
   
   A: Spread staging across two side lanes and avoid premature triggers.
 
-- Q: Anchor corner or center?
+- <!-- i18n:faq:id=faq:solitaire-2048:anchor-corner-or-center-1911c10f -->
+  Q: Anchor corner or center?
   
   A: Center yields more merge routes.
 
-- Q: Can I recover from bad stacks?
+- <!-- i18n:faq:id=faq:solitaire-2048:can-i-recover-from-bad-12553781 -->
+  Q: Can I recover from bad stacks?
   
   A: Yes — flatten spikes and rebuild pairs before triggering.
+
 

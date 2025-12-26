@@ -13,10 +13,12 @@ releaseDate: 2025-10-18
 
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Quiz x presents rapid‑fire questions across general knowledge, pictures, and simple logic. Scoring favors speed and correctness; streaks yield bonuses. Broad thinking and elimination beat over‑specialization.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Eliminate: Remove obviously wrong options before committing.
@@ -25,21 +27,27 @@ Quiz x presents rapid‑fire questions across general knowledge, pictures, and s
 4.  Time buffer: Don’t spend the entire timer on one tough question.
 5.  Image prompts: Focus on distinctive features (flags, landmarks, animals).
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Click to choose answers; some variants allow keyboard shortcuts; pause between rounds if offered.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- Q: I freeze on tough questions.
+- <!-- i18n:faq:id=faq:quiz-x:i-freeze-on-tough-questions-28c454ad -->
+  Q: I freeze on tough questions.
   
   A: Use elimination and pick the most plausible; preserve streaks by skipping when permissible.
 
-- Q: Picture questions stump me.
+- <!-- i18n:faq:id=faq:quiz-x:picture-questions-stump-me-a21adfaf -->
+  Q: Picture questions stump me.
   
   A: Learn common flags and landmarks; look for unique colors/shapes.
 
-- Q: Multiplayer?
+- <!-- i18n:faq:id=faq:quiz-x:multiplayer-fc9199ff -->
+  Q: Multiplayer?
   
   A: Some builds offer head‑to‑head; read lobby rules.
+
 

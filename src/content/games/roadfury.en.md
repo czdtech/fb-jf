@@ -12,10 +12,12 @@ releaseDate: 2025-10-17
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Road Fury is a high-octane, top-down vertical scrolling shooter that puts you in the driver's seat of a heavily armed vehicle on a chaotic highway. Your mission is to survive for as long as possible against waves of enemy cars, trucks, and bosses. Weave through traffic, collect powerful boosters, and use the coins you earn from destroyed enemies to upgrade your car's weapons and armor to unleash maximum fury.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Constant Movement:** The key to survival is to never stop moving. Weave left and right to dodge enemy fire and collisions. Staying in one place is the fastest way to get destroyed.
@@ -23,6 +25,7 @@ Road Fury is a high-octane, top-down vertical scrolling shooter that puts you in
 3.  **Focus on Upgrades:** The coins you collect are crucial. Between runs, visit the garage to permanently upgrade your vehicle. Upgrading your main cannon's damage and your car's armor are excellent first choices.
 4.  **Learn Enemy Patterns:** Different enemy vehicles have different behaviors. Some will try to ram you, while others will shoot from a distance. Learn their patterns to anticipate their attacks and dodge them effectively.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 The game is played with simple drag controls.
@@ -30,14 +33,19 @@ The game is played with simple drag controls.
 *   **Move Vehicle:** Click and hold the left mouse button (or use your finger) and drag left and right on the screen to steer your car.
 *   **Shooting:** Your primary weapon fires automatically.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: How do I shoot my weapon?**
+* <!-- i18n:faq:id=faq:roadfury:q-how-do-i-shoot-c2825cb2 -->
+  **Q: How do I shoot my weapon?**
     *   **A:** You don't need to! Your main gun fires automatically, allowing you to focus completely on skillful driving and dodging.
 
-*   **Q: What are the floating icons on the road?**
+* <!-- i18n:faq:id=faq:roadfury:q-what-are-the-floating-4c959fb6 -->
+  **Q: What are the floating icons on the road?**
     *   **A:** These are temporary power-ups. Drive over them to collect shields, powerful special weapons like rockets, health repairs, and magnets that attract coins.
 
-*   **Q: What is the best upgrade?**
+* <!-- i18n:faq:id=faq:roadfury:q-what-is-the-best-3ed21c46 -->
+  **Q: What is the best upgrade?**
     *   **A:** In the beginning, upgrading your main weapon's damage is a great investment as it helps you destroy enemies faster and earn coins more quickly. After that, increasing your armor to survive more hits is also very important.
+
 

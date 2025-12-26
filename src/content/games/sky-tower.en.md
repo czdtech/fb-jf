@@ -12,10 +12,12 @@ releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Sky Tower challenges you to drop moving floors onto a growing tower. Misalignments shear off overhangs, shrinking the platform. Clean timing produces tall, stable towers; sloppiness shrinks floors and ends runs early.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Center cue: Align to a background landmark to release consistently.
@@ -24,21 +26,27 @@ Sky Tower challenges you to drop moving floors onto a growing tower. Misalignmen
 4.  Rhythm: Maintain a steady cadence rather than reacting frantically.
 5.  Patience: Ignore coins during wobble; stabilize first.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Tap/Click to drop floors; pause/replay via UI.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- Q: My tower shrinks fast.
+- <!-- i18n:faq:id=faq:sky-tower:my-tower-shrinks-fast-b1c4d991 -->
+  Q: My tower shrinks fast.
   
   A: You’re releasing early/late inconsistently; use a fixed visual cue.
 
-- Q: Any way to recover?
+- <!-- i18n:faq:id=faq:sky-tower:any-way-to-recover-d502538f -->
+  Q: Any way to recover?
   
   A: Yes — refocus on perfect centers for a few floors to rebuild width.
 
-- Q: Is speed important?
+- <!-- i18n:faq:id=faq:sky-tower:is-speed-important-fcd4f607 -->
+  Q: Is speed important?
   
   A: Consistency beats speed; height follows from clean centers.
+
 
