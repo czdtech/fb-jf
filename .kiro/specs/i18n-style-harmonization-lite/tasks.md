@@ -53,13 +53,13 @@
   - _Requirements: R5_
 
 - [x] 1.3 为每种语言建立 Glossary
-  - 在本目录创建/更新：
-    - `GLOSSARY.es.md`
-    - `GLOSSARY.ja.md`
-    - `GLOSSARY.fr.md`
-    - `GLOSSARY.de.md`
-    - `GLOSSARY.ko.md`
-    - 中文（zh）术语表维护在 `docs/i18n/GLOSSARY.zh.md`（不在 `.kiro`）
+  - 术语表维护在 `docs/i18n/`（不在 `.kiro`）：
+    - `docs/i18n/GLOSSARY.es.md`
+    - `docs/i18n/GLOSSARY.ja.md`
+    - `docs/i18n/GLOSSARY.fr.md`
+    - `docs/i18n/GLOSSARY.de.md`
+    - `docs/i18n/GLOSSARY.ko.md`
+    - `docs/i18n/GLOSSARY.zh.md`
   - 覆盖：类型词、UI 固定词、系统/玩法核心词；同术语整站一致。
   - _Requirements: R6_
 
