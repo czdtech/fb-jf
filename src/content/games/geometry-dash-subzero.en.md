@@ -14,14 +14,17 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Overview
 Winter‑styled set of Geometry Dash levels with unique songs and high‑contrast visuals; expect tight timing and quick ship transitions.
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 - Practice tricky ring timings; some require quick double taps.
 - Fly smoothly in ship sections; avoid over‑correction.
 - Memorize sync points where visuals and beats align.
 
+<!-- i18n:section:controls -->
 ### Controls
 - Tap/Space/Mouse to jump; hold to fly (host dependent).
 
@@ -29,11 +32,16 @@ Winter‑styled set of Geometry Dash levels with unique songs and high‑contras
 - Reduce visual clutter if effects distract from rhythm.
 - Use practice checkpoints to lock in muscle memory.
 
+<!-- i18n:section:faq -->
 ### FAQ
-- Q: How is SubZero different from other packs?  
+- <!-- i18n:faq:id=faq:geometry-dash-subzero:how-is-subzero-different-from-87a7bd41 -->
+  Q: How is SubZero different from other packs?
   A: It features its own music set and icy theming with challenging patterns.
-- Q: Can I play in practice mode?  
+- <!-- i18n:faq:id=faq:geometry-dash-subzero:can-i-play-in-practice-15fa8fa2 -->
+  Q: Can I play in practice mode?
   A: Yes, most hosts include practice with checkpoints.
-- Q: Are there user levels?  
+- <!-- i18n:faq:id=faq:geometry-dash-subzero:are-there-user-levels-a456c939 -->
+  Q: Are there user levels?
   A: SubZero focuses on built‑in tracks; UGC depends on host.
+
 

@@ -12,10 +12,12 @@ releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Fruit Chopper is a fast-paced and juicy arcade game that tests your reflexes and precision. Your screen will be filled with a variety of delicious fruits flying through the air. Your mission is to slice as many of them as you can with a swipe of your finger or mouse. But be careful! Dangerous bombs are mixed in with the fruit, and hitting one will end your game. Challenge yourself to get the highest score by creating impressive combos and surviving as long as possible.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Slice in Combos:** The key to a high score is slicing multiple fruits in a single, continuous swipe. A 3-fruit combo is good, but a 4 or 5-fruit combo will give you a massive score bonus.
@@ -24,18 +26,24 @@ Fruit Chopper is a fast-paced and juicy arcade game that tests your reflexes and
 4.  **Use Both Hands (on Mobile):** If you're playing on a touchscreen, using two hands can sometimes help you react faster to fruits appearing on both sides of the screen.
 5.  **Stay Focused:** The game gets faster and more frantic. Stay calm and focus on smooth, deliberate swipes rather than wild slashing.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 *   **Slice:** Click and drag your mouse across the fruit to slice it. On a mobile device, simply swipe your finger across the screen.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: What is the goal of the game?**
+* <!-- i18n:faq:id=faq:fruit-chopper:q-what-is-the-goal-ab58581b -->
+  **Q: What is the goal of the game?**
     *   **A:** The goal is to get the highest score possible by slicing fruit. The game ends if you hit a bomb or miss too many fruits.
 
-*   **Q: How do I get a combo bonus?**
+* <!-- i18n:faq:id=faq:fruit-chopper:q-how-do-i-get-d3288798 -->
+  **Q: How do I get a combo bonus?**
     *   **A:** You get a combo bonus by slicing three or more fruits in one single swipe. The more fruits you slice at once, the bigger the bonus.
 
-*   **Q: Are there different game modes?**
+* <!-- i18n:faq:id=faq:fruit-chopper:q-are-there-different-game-8575813d -->
+  **Q: Are there different game modes?**
     *   **A:** Many fruit-slicing games feature different modes like Classic (avoid bombs and don't miss fruit), Arcade (a timed 60-second blitz with power-ups), or Zen (a relaxing mode with no bombs). Check the main menu to see what modes are available.
+
 

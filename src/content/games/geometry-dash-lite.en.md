@@ -14,14 +14,17 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Overview
 Entry version of the rhythm platformer: clear curated levels with jump pads, gravity portals, and ship sections synced to music.
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 - Tap/jump on the beat to pass spikes and saws.
 - Hold to fly the ship smoothly; keep altitude steady.
 - Memorize tricky segments and practice mode if available.
 
+<!-- i18n:section:controls -->
 ### Controls
 - Space/Mouse/Touch to jump; hold to fly; practice toggles vary by host.
 
@@ -30,11 +33,16 @@ Entry version of the rhythm platformer: clear curated levels with jump pads, gra
 - Use music cues to predict upcoming jumps.
 - Keep ship inputs gentle; over‑correction causes crashes.
 
+<!-- i18n:section:faq -->
 ### FAQ
-- Q: How do I beat hard levels without memorizing everything?  
+- <!-- i18n:faq:id=faq:geometry-dash-lite:how-do-i-beat-hard-fd9aaf7b -->
+  Q: How do I beat hard levels without memorizing everything?
   A: Use practice mode to learn patterns, then switch to normal for a clean run.
-- Q: Why does my ship keep crashing?  
+- <!-- i18n:faq:id=faq:geometry-dash-lite:why-does-my-ship-keep-5d0666c3 -->
+  Q: Why does my ship keep crashing?
   A: You are oversteering; use small holds and release to settle.
-- Q: Are custom levels included?  
+- <!-- i18n:faq:id=faq:geometry-dash-lite:are-custom-levels-included-82002085 -->
+  Q: Are custom levels included?
   A: Lite focuses on built‑in tracks; custom levels depend on host.
+
 

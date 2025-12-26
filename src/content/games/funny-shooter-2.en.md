@@ -14,14 +14,17 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Overview
 Arena waves of oddball foes. Survive rounds, complete objectives, and spend earnings on better weapons and utilities.
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 - Keep moving; circle‑strafe and kite large groups.
 - Prioritize ranged threats and explosive carriers.
 - Buy DPS upgrades first, then survivability.
 
+<!-- i18n:section:controls -->
 ### Controls
 - WASD to move, Mouse to aim/shoot; R reload; 1–3 switch weapons; Shift sprint (host dependent).
 
@@ -30,11 +33,16 @@ Arena waves of oddball foes. Survive rounds, complete objectives, and spend earn
 - Use corners to funnel mobs; avoid getting surrounded.
 - Save explosives for clustered spawns.
 
+<!-- i18n:section:faq -->
 ### FAQ
-- Q: How do I unlock new guns?  
+- <!-- i18n:faq:id=faq:funny-shooter-2:how-do-i-unlock-new-7b12e9b8 -->
+  Q: How do I unlock new guns?
   A: Purchase them using coins gained from completing waves.
-- Q: Are there bosses in the game?  
+- <!-- i18n:faq:id=faq:funny-shooter-2:are-there-bosses-in-the-724c9f86 -->
+  Q: Are there bosses in the game?
   A: Many versions include periodic boss waves with unique mechanics.
-- Q: Can I change sensitivity?  
+- <!-- i18n:faq:id=faq:funny-shooter-2:can-i-change-sensitivity-ad10ce5c -->
+  Q: Can I change sensitivity?
   A: Most hosts provide a settings menu for sensitivity and FOV.
+
 

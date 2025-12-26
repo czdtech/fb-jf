@@ -12,10 +12,12 @@ releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Ghost Pro Racing emphasizes hot‑lap consistency against ghost replays. You’ll learn braking points, apex speeds, and throttle pickups while ghost cars show faster lines. Clean inputs and repeatable references beat risky dive‑bombs for stable PBs.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Landmarks: Pick fixed track markers for braking/turn‑in; avoid relying on speedometer alone.
@@ -24,21 +26,27 @@ Ghost Pro Racing emphasizes hot‑lap consistency against ghost replays. You’l
 4.  Exit priority: A good exit onto long straights dwarfs small entry gains.
 5.  Ghost study: Follow the ghost’s arc; find where you’re lifting or turning too early.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Steer: A/D or Left/Right.  Throttle/Brake: W/S or Up/Down.  Restart: R.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- Q: I keep sliding — fix?
+- <!-- i18n:faq:id=faq:ghost-pro-racing:i-keep-sliding-fix-2b360c75 -->
+  Q: I keep sliding — fix?
   
   A: You’re turning too much/too fast. Trail brake lightly and unwind steering sooner on exit.
 
-- Q: Can I beat the ghost?
+- <!-- i18n:faq:id=faq:ghost-pro-racing:can-i-beat-the-ghost-2fbda5cd -->
+  Q: Can I beat the ghost?
   
   A: Yes — focus one sector at a time; once you’re ahead, maintain safe exits.
 
-- Q: Best training drill?
+- <!-- i18n:faq:id=faq:ghost-pro-racing:best-training-drill-dfd798cf -->
+  Q: Best training drill?
   
   A: Ten laps at 90% pace without spins to lock references, then push.
+
 

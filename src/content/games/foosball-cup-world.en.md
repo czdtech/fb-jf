@@ -18,10 +18,12 @@ releaseDate: 2025-10-18
 
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Foosball Cup World is a quick table‑football simulation with responsive rods and crisp ball physics. Attack relies on angled passes, snap shots, and well‑timed spins; defense is about lane coverage and cutting cross‑shots. Matches are short, demanding precise control over frantic flailing.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Short passes: Tap to nudge the ball between adjacent rows, then snap‑shoot.
@@ -30,21 +32,27 @@ Foosball Cup World is a quick table‑football simulation with responsive rods a
 4.  Anti‑spin: For stability, avoid full‑rod spins that lose control.
 5.  Kickoffs: Shoot diagonally off kickoff before the opponent settles.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Move rods: WASD/Arrows/mouse drag (varies).  Shoot: Tap/flick; some builds separate tilt vs spin.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- Q: Are full 360° spins allowed?
+- <!-- i18n:faq:id=faq:foosball-cup-world:are-full-360-spins-allowed-179f55df -->
+  Q: Are full 360° spins allowed?
   
   A: Many foosball rules forbid them; the game often discourages them with poor control.
 
-- Q: Best basic defense?
+- <!-- i18n:faq:id=faq:foosball-cup-world:best-basic-defense-e0149f9d -->
+  Q: Best basic defense?
   
   A: Keep one defender centered and the goalie tracking the ball’s angle; avoid chasing.
 
-- Q: Two‑player support?
+- <!-- i18n:faq:id=faq:foosball-cup-world:twoplayer-support-8a28f667 -->
+  Q: Two‑player support?
   
   A: Commonly yes via shared keyboard or local hot‑seat.
+
 

@@ -12,10 +12,12 @@ developer: ""
 releaseDate: 2025-08-16
 ---
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 Geometry Dash Wave is a challenging, rhythm-based platformer that is a popular mode within the Geometry Dash universe. Players control a triangular icon that continuously moves forward through a hazardous course. The unique "wave" mechanic requires precise timing and rhythm to navigate obstacles by changing the icon's diagonal movement.
 
+<!-- i18n:section:tips -->
 ### Gameplay Guide
 
 - **Wave Mechanic:** Hold down the click/tap to make your icon move diagonally upwards. Release to make it move diagonally downwards. This creates a zigzag path.
@@ -23,11 +25,13 @@ Geometry Dash Wave is a challenging, rhythm-based platformer that is a popular m
 - **Obstacle Avoidance:** The core challenge is to avoid hitting any of the numerous spikes, walls, and other geometric obstacles.
 - **Gravity Inversion:** Some levels or sections may invert gravity, reversing the wave controls.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - **PC:** `Spacebar`, `Up Arrow Key`, or `Left Mouse Button` to control the wave.
 - **Mobile:** Tap and hold the screen to control the wave.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
 **What is the main goal of Geometry Dash Wave?**
@@ -41,4 +45,5 @@ The main goal is to complete each level by navigating your wave icon through a s
 **How can I improve my timing?**
 
 Practice is key. Pay attention to the music and the visual cues of the level. Start by playing slower levels to get a feel for the wave mechanic before attempting faster or more complex ones.
+
 

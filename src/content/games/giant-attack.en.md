@@ -13,10 +13,12 @@ releaseDate: 2025-10-17
 
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Giant Attack is a fast-paced and thrilling action game where you face off against colossal monsters. You control a hero who must defend against these towering threats. The key to victory lies not just in attacking, but in gathering allies scattered across the battlefield. Collecting these allies makes your character grow in size and strength, enabling you to unleash more powerful projectiles and take down the giants before they crush you.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Gather and Grow:** Your primary focus should be on moving your character to collect the small, colored allies that appear on the ground. Each one you pick up contributes to making your character bigger and stronger.
@@ -24,6 +26,7 @@ Giant Attack is a fast-paced and thrilling action game where you face off agains
 3.  **Dodge and Weave:** While you are focused on collecting allies, you must also pay attention to the giant's attacks. Dodge incoming projectiles or ground slams to stay in the fight.
 4.  **Focus Fire:** Your character attacks automatically. Your main job is to position yourself to collect allies while ensuring your projectiles are consistently hitting the giant to wear down its health bar.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 The controls are designed to be simple and intuitive.
@@ -31,14 +34,19 @@ The controls are designed to be simple and intuitive.
 *   **Move Character:** Use your mouse or finger to click and drag your character left and right across the battlefield to collect allies and dodge attacks.
 *   **Attacking:** Attacking is automatic. Your character will continuously throw weapons at the enemy as long as you are alive.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: How do I attack the giant?**
+* <!-- i18n:faq:id=faq:giant-attack:q-how-do-i-attack-4078c9e1 -->
+  **Q: How do I attack the giant?**
     *   **A:** You don't need to press a button to attack; your hero does it automatically. Your main task is to focus on movement—collecting allies and dodging.
 
-*   **Q: Why am I not doing much damage?**
+* <!-- i18n:faq:id=faq:giant-attack:q-why-am-i-not-380e63ac -->
+  **Q: Why am I not doing much damage?**
     *   **A:** You need to grow bigger! The more allies you collect, the larger and more powerful your character becomes, and the more damage you will deal. If you stay small, your attacks will be too weak.
 
-*   **Q: How do I win a level?**
+* <!-- i18n:faq:id=faq:giant-attack:q-how-do-i-win-c06399aa -->
+  **Q: How do I win a level?**
     *   **A:** You win by depleting the giant's health bar to zero before it defeats you.
+
 

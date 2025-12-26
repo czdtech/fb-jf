@@ -12,10 +12,12 @@ releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Go Escape is a minimalist room‑escape platformer: spikes, moving saws, and timed gates demand crisp inputs and patient reads. Levels are short but punishing; the fun lies in mastering each room’s rhythm, then executing a clean run.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Read cycles: Watch a full trap cycle before committing; move on predictable beats.
@@ -24,20 +26,26 @@ Go Escape is a minimalist room‑escape platformer: spikes, moving saws, and tim
 4.  Route safety: Take slower, safer lanes first for consistent clears.
 5.  Checkpoint mindset: Mentally segment rooms; reset focus after each success.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Move/Jump: Arrows/WASD + Space; some levels add wall‑jump/double‑jump.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- Q: I keep clipping traps — how to stop?
+- <!-- i18n:faq:id=faq:go-escape:i-keep-clipping-traps-how-f8dc2599 -->
+  Q: I keep clipping traps — how to stop?
   
   A: You’re moving on guesses. Watch cycles, count beats, and move only on consistent windows.
 
-- Q: Any tip for narrow gaps?
+- <!-- i18n:faq:id=faq:go-escape:any-tip-for-narrow-gaps-e2f81780 -->
+  Q: Any tip for narrow gaps?
   
   A: Use lightweight taps and approach from flatter angles.
 
-- Q: Is there a timer?
+- <!-- i18n:faq:id=faq:go-escape:is-there-a-timer-25fbcbdf -->
+  Q: Is there a timer?
   
   A: Many rooms are untimed; consistency beats speedruns until you learn layouts.
+

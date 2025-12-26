@@ -12,10 +12,12 @@ releaseDate: 2025-10-17
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Gin Rummy is a classic two-player card game that belongs to the Rummy family. The objective is to form your hand into valid combinations called "melds"—either sets of the same rank or runs of the same suit. The goal is to score points by having less "deadwood" (unmatched cards) than your opponent when a round ends. It's a game of skill, strategy, and memory, where you must pay close attention to what your opponent discards.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **The Goal:** To form your 10-card hand into melds and "knock" when the value of your unmatched cards (deadwood) is 10 or less.
@@ -29,6 +31,7 @@ Gin Rummy is a classic two-player card game that belongs to the Rummy family. Th
 5.  **Going Gin:** If you form melds with all 10 of your cards, you can "Go Gin." This results in a bonus, and your opponent is not allowed to lay off any cards.
 6.  **Scoring:** Card values are: Aces = 1, Face Cards (K, Q, J) = 10, Number Cards = face value. After a knock, if your deadwood value is lower than your opponent's, you score the difference. If your opponent's deadwood is lower (an "undercut"), they score the difference plus a bonus.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 The game is played with a mouse or touch screen.
@@ -37,14 +40,19 @@ The game is played with a mouse or touch screen.
 *   **Discard:** Click on a card in your hand to move it to the discard pile.
 *   **Knock/Go Gin:** A special button will usually appear when you are eligible to knock or go gin.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: What is "deadwood"?**
+* <!-- i18n:faq:id=faq:gin-rummy:q-what-is-deadwood-7965a4eb -->
+  **Q: What is "deadwood"?**
     *   **A:** Deadwood refers to any cards left in your hand that are not part of a valid set or run. The goal is to minimize the point value of your deadwood.
 
-*   **Q: Should I always take a card from the discard pile?**
+* <!-- i18n:faq:id=faq:gin-rummy:q-should-i-always-take-87b912c5 -->
+  **Q: Should I always take a card from the discard pile?**
     *   **A:** Only if it helps you form a meld. Be aware that taking a card from the discard pile signals to your opponent what kind of meld you might be building.
 
-*   **Q: What is an "undercut"?**
+* <!-- i18n:faq:id=faq:gin-rummy:q-what-is-an-undercut-5a7e2506 -->
+  **Q: What is an "undercut"?**
     *   **A:** An undercut happens when you knock, but your opponent has a deadwood value equal to or less than yours after they lay off their cards. In this case, your opponent scores points instead of you.
+
 

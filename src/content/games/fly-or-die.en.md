@@ -19,14 +19,17 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Overview
 Multiplayer survival with evolution: start as a small creature, consume specific items to level up into new forms, and avoid predators and environmental threats.
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 - Check your current diet icons; only those items grant XP.
 - Watch predator icons—higher tiers can kill you; hide or flee.
 - Manage water/oxygen (when applicable) and use thermals/updrafts.
 
+<!-- i18n:section:controls -->
 ### Controls
 - Mouse/Keyboard to move/fly; boost keys vary by host.
 
@@ -35,11 +38,16 @@ Multiplayer survival with evolution: start as a small creature, consume specific
 - Memorize the food chain so you can route upgrades quickly.
 - Use verticality to escape—climb high or dive underground depending on form.
 
+<!-- i18n:section:faq -->
 ### FAQ
-- Q: How do I evolve to the next creature?  
+- <!-- i18n:faq:id=faq:fly-or-die:how-do-i-evolve-to-dabd6fa3 -->
+  Q: How do I evolve to the next creature?
   A: Eat the items shown in your diet bar to earn XP and level up.
-- Q: What happens when a predator catches me?  
+- <!-- i18n:faq:id=faq:fly-or-die:what-happens-when-a-predator-675b6aae -->
+  Q: What happens when a predator catches me?
   A: You lose progress or a life depending on the server rules.
-- Q: Is there team play?  
+- <!-- i18n:faq:id=faq:fly-or-die:is-there-team-play-1c3a03db -->
+  Q: Is there team play?
   A: Most servers are FFA; some hosts rotate special modes.
+
 

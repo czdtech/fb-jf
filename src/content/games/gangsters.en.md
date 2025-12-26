@@ -14,14 +14,17 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Overview
 Wobbly rooftop shootouts for one or two players. Bullets and recoil affect your stance; the goal is to topple your opponent.
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 - Time jumps to dodge bullets and adjust aim height.
 - Use recoil to your advantage to tilt or slide the enemy’s stance.
 - Environmental props can block shots or cause ricochets.
 
+<!-- i18n:section:controls -->
 ### Controls
 - One‑button jump/shoot per player (host dependent) or separate keys for actions.
 
@@ -30,11 +33,16 @@ Wobbly rooftop shootouts for one or two players. Bullets and recoil affect your 
 - Aim at feet to pop opponents upward and off balance.
 - Watch wind or moving platforms when present.
 
+<!-- i18n:section:faq -->
 ### FAQ
-- Q: How do I win rounds consistently?  
+- <!-- i18n:faq:id=faq:gangsters:how-do-i-win-rounds-ffe989b8 -->
+  Q: How do I win rounds consistently?
   A: Control recoil and land shots that destabilize your opponent’s footing.
-- Q: Is there a two‑player mode on one keyboard?  
+- <!-- i18n:faq:id=faq:gangsters:is-there-a-twoplayer-mode-c4ec06d3 -->
+  Q: Is there a two‑player mode on one keyboard?
   A: Yes, most hosts provide side‑by‑side key bindings.
-- Q: Do headshots deal extra damage?  
+- <!-- i18n:faq:id=faq:gangsters:do-headshots-deal-extra-damage-658c8d69 -->
+  Q: Do headshots deal extra damage?
   A: Usually knockback/positioning matters more than raw damage.
+
 

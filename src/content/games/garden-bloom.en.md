@@ -13,10 +13,12 @@ releaseDate: 2025-10-17
 
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Garden Bloom is a relaxing and creative game that beautifully blends classic match-3 puzzles with garden design and restoration. Players are tasked with transforming a neglected garden back to its former glory. The core of the game involves completing match-3 levels, where you swap colorful flowers and other garden elements to achieve specific goals. Successfully beating a level rewards you with stars, which act as the currency to perform tasks in the garden, such as cleaning up, planting flowers, and placing beautiful decorations.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **The Two-Part Gameplay:**
@@ -31,19 +33,25 @@ Garden Bloom is a relaxing and creative game that beautifully blends classic mat
 3.  **Garden Design:**
     *   As you complete tasks, you will often be given a choice between three different styles for a decoration (e.g., three different types of benches). Choose the one that best fits your vision for the garden!
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 *   **In the Puzzle:** Use your mouse or finger to swap two adjacent items (like flowers or leaves). Click and drag one item onto the next, or click them one by one.
 *   **In the Garden:** Click on the task list (usually on the bottom left) to see what needs to be done. Click on a task to spend a star and complete it.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: How do I earn stars?**
+* <!-- i18n:faq:id=faq:garden-bloom:q-how-do-i-earn-8ce8a9aa -->
+  **Q: How do I earn stars?**
     *   **A:** You can only earn stars by successfully completing the match-3 puzzle levels. Each level you beat will typically award you one star.
 
-*   **Q: What happens if I run out of moves in a puzzle?**
+* <!-- i18n:faq:id=faq:garden-bloom:q-what-happens-if-i-11d5ea2b -->
+  **Q: What happens if I run out of moves in a puzzle?**
     *   **A:** If you fail to complete the objective within the move limit, you will lose a life. You can either wait for your lives to regenerate over time or use in-game coins to get extra moves or a refill.
 
-*   **Q: Can I change the decorations I've chosen for the garden?**
+* <!-- i18n:faq:id=faq:garden-bloom:q-can-i-change-the-e2a73e9c -->
+  **Q: Can I change the decorations I've chosen for the garden?**
     *   **A:** In most games of this genre, once you have made a design choice, it is permanent. To change it, you usually have to press and hold the placed object and spend some coins.
+
 

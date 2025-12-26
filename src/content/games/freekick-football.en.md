@@ -12,10 +12,12 @@ releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Freekick Football is a game that focuses on the art of the free kick in soccer. Players are challenged to score goals from various set-piece situations, navigating past defensive walls and the goalkeeper. The game tests your precision, timing, and understanding of ball physics.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Aiming:** Carefully aim your shot to find a path to the goal. Consider the position of the wall and the goalkeeper.
@@ -23,14 +25,19 @@ Freekick Football is a game that focuses on the art of the free kick in soccer. 
 3.  **Curve/Spin:** Use spin to bend the ball around the wall and away from the goalkeeper. This is key to scoring in difficult situations.
 4.  **Analyze the Situation:** Before each kick, assess the distance, the wall's position, and the keeper's stance to choose the best strategy.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 *   **Mouse/Touch:** Use the mouse or touch screen to aim, set power, and apply spin to the ball. The exact controls may vary slightly, but generally involve a sequence of clicks or swipes.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: How do I score more consistently?**
+* <!-- i18n:faq:id=faq:freekick-football:q-how-do-i-score-c88776e3 -->
+  **Q: How do I score more consistently?**
     *   **A:** Practice is key. Experiment with different levels of power and spin to understand how the ball behaves. Aim for the corners of the goal, as these are the hardest spots for the keeper to reach.
-*   **Q: What's the best way to beat the wall?**
+* <!-- i18n:faq:id=faq:freekick-football:q-whats-the-best-way-22903e83 -->
+  **Q: What's the best way to beat the wall?**
     *   **A:** Curling the ball over or around the wall is the most common technique. Look for gaps in the wall or try a powerful shot if you have a clear path.
+
 

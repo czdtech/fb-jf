@@ -12,10 +12,12 @@ releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Fruit Chef channels classic fruit‑slicing: flick clean lines through flying fruit, build combo chains, and avoid bombs. The scoring engine rewards long, straight multi‑fruit cuts and steady rhythm over frantic swipes.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Long strokes: Slice multiple fruits in a single straight line for combo bonuses.
@@ -24,21 +26,27 @@ Fruit Chef channels classic fruit‑slicing: flick clean lines through flying fr
 4.  Rhythm: Maintain a comfortable cadence; panic flutters reduce accuracy.
 5.  Power‑ups: Save slow‑mo for dense volleys.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Click‑drag or swipe to cut; avoid bombs; pause/retry via UI.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- Q: I keep hitting bombs — how do I stop?
+- <!-- i18n:faq:id=faq:fruit-chef:i-keep-hitting-bombs-how-e4b71e7c -->
+  Q: I keep hitting bombs — how do I stop?
   
   A: Slice only along clean angles; don’t complete swipes that intersect bombs.
 
-- Q: Best way to score high?
+- <!-- i18n:faq:id=faq:fruit-chef:best-way-to-score-high-c0f5b5b0 -->
+  Q: Best way to score high?
   
   A: Long, straight combo cuts and consistent rhythm.
 
-- Q: Multi‑touch helps?
+- <!-- i18n:faq:id=faq:fruit-chef:multitouch-helps-19d64a66 -->
+  Q: Multi‑touch helps?
   
   A: If supported, multi‑finger arcs can cover more screen safely.
+
 

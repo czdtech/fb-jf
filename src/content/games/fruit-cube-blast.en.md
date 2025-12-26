@@ -12,10 +12,12 @@ releaseDate: 2025-10-17
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Fruit Cube Blast is a vibrant and explosive "tap-to-blast" puzzle game. Unlike match-3 games where you swap items, in this game, you tap on groups of two or more adjacent, identical fruit cubes to blast them off the board. The goal is to complete level-specific objectives by strategically clearing cubes and creating powerful combos. By blasting larger groups of cubes, you can create special boosters like rockets and bombs to clear even more of the level in spectacular fashion.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Bigger is Better:** Always look for the largest possible group of matching cubes to tap. Tapping a small group of 2 or 3 is less efficient. Larger groups not only clear more space but are also the only way to create powerful boosters.
@@ -28,6 +30,7 @@ Fruit Cube Blast is a vibrant and explosive "tap-to-blast" puzzle game. Unlike m
 3.  **Plan for Objectives:** Pay attention to the goal. If you need to collect 30 red cubes, focus on matching red cubes. If you need to drop an item to the bottom, focus on clearing the cubes directly beneath it.
 4.  **Conserve Moves:** Each level has a limited number of moves. Don't waste them on small, insignificant matches. Try to set up large matches that will create boosters or cause large cascades.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 The controls are extremely simple.
@@ -35,14 +38,19 @@ The controls are extremely simple.
 *   **Blast Cubes:** Use your mouse or finger to tap on any group of two or more adjacent cubes of the same color to blast them.
 *   **Activate Boosters:** Simply tap on a booster (Rocket, Bomb, etc.) to activate it.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: Why can't I tap on a single cube?**
+* <!-- i18n:faq:id=faq:fruit-cube-blast:q-why-cant-i-tap-6043750c -->
+  **Q: Why can't I tap on a single cube?**
     *   **A:** The game requires you to tap on a cluster of at least two connected cubes of the same color.
 
-*   **Q: How do I create a Rocket?**
+* <!-- i18n:faq:id=faq:fruit-cube-blast:q-how-do-i-create-fcae3932 -->
+  **Q: How do I create a Rocket?**
     *   **A:** You create a Rocket by tapping on a connected group of 5 or 6 identical fruit cubes.
 
-*   **Q: What is the best way to clear a level with limited moves?**
+* <!-- i18n:faq:id=faq:fruit-cube-blast:q-what-is-the-best-610f5571 -->
+  **Q: What is the best way to clear a level with limited moves?**
     *   **A:** Focus on creating boosters by matching large groups of cubes instead of many small groups. Then, try to maneuver two boosters next to each other and activate them together for a massive board-clearing effect. This is far more efficient than using single boosters.
+
 
