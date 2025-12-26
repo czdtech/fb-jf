@@ -19,6 +19,7 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 "UNO Game" is the classic card game where players race to empty their hands by matching colors and numbers, using special action cards to block opponents and be the first to shout "UNO!" This game is famous worldwide for its simple-to-learn but strategically rich gameplay.
@@ -31,6 +32,7 @@ releaseDate: 2025-08-16
 4.  **Observe Opponents**: Pay attention to opponents' playing patterns and hand counts to predict their strategies.
 5.  **UNO Declaration**: Remember to shout "UNO" when you have one card left, or face penalty cards.
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 
 *   **Play Cards**: Click on playable cards in your hand to play them.
@@ -38,6 +40,7 @@ releaseDate: 2025-08-16
 *   **Choose Color**: Select the next color after playing a wild card.
 *   **UNO Button**: Click the UNO button to declare when you have one card remaining.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions
 
 1.  **Q: When do I need to shout UNO?**
@@ -48,3 +51,4 @@ releaseDate: 2025-08-16
     **A**: If caught by other players, you'll typically be penalized with 2-4 additional cards.
 4.  **Q: Can I play multiple identical cards in succession?**
     **A**: This depends on specific rule settings; standard UNO rules allow only one card per turn.
+

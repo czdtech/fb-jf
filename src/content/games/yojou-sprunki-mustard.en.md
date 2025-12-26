@@ -15,6 +15,7 @@ tags:
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 Ready to welcome a bizarre baptism of color and sound? Yojou Sprunki Mustard, this parody Mod, completely subverts the Sprunki world, with all characters being eroded by a mysterious "mustard sauce," creating a musical experience that's both chaotic and fun.
  
 ### What Exactly Happened to Yojou Sprunki Mustard?
@@ -35,6 +36,7 @@ Ever since Brud discovered that mysterious "mustard sauce," everything has chang
  - **New Horror Elements:** The Mod introduces an unsettling ambiance, encouraging players to experiment with unique sounds and embrace a new, eerie vibe.
  
  
+<!-- i18n:section:how-to-play -->
 ### How to Play Yojou Sprunki Mustard (Sprunkstard):
  
  **Choose Mustard-Themed Characters:** 
@@ -63,3 +65,4 @@ Ever since Brud discovered that mysterious "mustard sauce," everything has chang
  
  
 Join the bizarre world of Yojou Sprunki Mustard and let your music creation be infected with this magical yellow color!
+

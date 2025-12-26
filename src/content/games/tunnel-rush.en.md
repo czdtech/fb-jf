@@ -21,6 +21,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 "Tunnel Rush" is a fast-paced endless running game where players navigate through a colorful 3D tunnel, avoiding obstacles and barriers while traveling at high speeds. This thrilling reflex-testing experience challenges players' reaction speed and focus, with speeds increasing as the game progresses.
@@ -33,12 +34,14 @@ releaseDate: 2025-08-16T00:00:00.000Z
 4.  **Rhythm Awareness**: Adapt to the game's gradually accelerating pace and speed changes.
 5.  **Muscle Memory**: Build muscle memory through repeated practice to improve reaction accuracy.
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 
 *   **Left/Right Movement**: Use A/D keys or left/right arrow keys to control left and right movement.
 *   **Avoid Obstacles**: Move left or right in time to avoid obstacles in the tunnel.
 *   **Stay Centered**: Try to stay in the center of the tunnel when there are no obstacles.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions
 
 1.  **Q: Will the speed keep increasing?**
@@ -49,3 +52,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
     **A**: Hitting any obstacle will cause game over and require restarting.
 4.  **Q: Does the game have an ending?**
     **A**: This is an endless game that can theoretically continue indefinitely; the challenge is seeing how long you can survive.
+

@@ -14,6 +14,7 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 "Superhot" is an innovative first-person shooter where time moves only when you move, creating a unique tactical puzzle experience that combines action with strategic planning. Players need to precisely plan every move in a slow-motion world.
@@ -26,6 +27,7 @@ releaseDate: 2025-08-16
 4.  **Precise Shooting**: Aim for enemies' heads or vital body parts for one-hit kills.
 5.  **Environmental Usage**: Use cover and environmental objects for protection.
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 
 *   **Movement**: WASD keys control character movement.
@@ -33,6 +35,7 @@ releaseDate: 2025-08-16
 *   **Shooting**: Left click to shoot.
 *   **Pickup**: Automatically pick up weapons or items when close.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions
 
 1.  **Q: How does the time mechanism work?**

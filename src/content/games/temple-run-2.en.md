@@ -20,6 +20,7 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 "Temple Run 2" is an endless running adventure game where players navigate treacherous temple paths, collecting coins and power-ups while avoiding obstacles and the pursuing demon monkeys. The game unfolds in stunning environments, offering richer gameplay experience and visual effects than its predecessor.
@@ -32,6 +33,7 @@ releaseDate: 2025-08-16
 4.  **Gem Collection**: Collect special gems to unlock new characters and upgrade abilities.
 5.  **Mission Completion**: Complete daily missions to earn extra rewards and experience.
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 
 *   **Left/Right Swipe**: Swipe left or right on screen to turn.
@@ -39,6 +41,7 @@ releaseDate: 2025-08-16
 *   **Swipe Down to Slide**: Swipe down to slide under low obstacles.
 *   **Tilt Control**: Tilt device to collect more coins (in some versions).
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions
 
 1.  **Q: How can I get more coins?**
@@ -49,3 +52,4 @@ releaseDate: 2025-08-16
     **A**: By collecting them in-game, purchasing with coins, or completing specific missions.
 4.  **Q: Does the game have an ending?**
     **A**: This is an endless runner game that can theoretically continue indefinitely; the challenge is to run as far as possible.
+

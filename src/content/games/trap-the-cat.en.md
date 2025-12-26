@@ -14,6 +14,7 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 "Trap the Cat" is a strategic puzzle game where players must block a clever cat's escape routes by placing barriers on a hexagonal grid, using logic and planning to prevent the cat from reaching the edge. This game tests players' prediction abilities and strategic thinking.
@@ -26,12 +27,14 @@ releaseDate: 2025-08-16
 4.  **Predict Movement**: The cat will choose optimal paths; predict its next movement direction.
 5.  **Encirclement Strategy**: Form a complete encirclement without leaving any escape gaps.
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 
 *   **Place Barriers**: Click on hexagonal cells to place obstacles.
 *   **Observe Cat**: Watch the cat's current position and possible movement directions.
 *   **Restart**: If you fail, you can restart the challenge.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions
 
 1.  **Q: How does the cat move?**

@@ -14,4 +14,6 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 supernova game is an extremely cool parkour game. In the game, you need to avoid various obstacles and pass all kinds of levels.
+

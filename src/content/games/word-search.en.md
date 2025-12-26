@@ -14,6 +14,7 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 "Word Search" is a classic puzzle game where players find hidden words in a grid of letters, searching horizontally, vertically, and diagonally to complete themed word lists. This is a relaxing brain exercise game that helps improve vocabulary and observation skills.
@@ -26,6 +27,7 @@ releaseDate: 2025-08-16
 4.  **Marking Strategy**: Mark words immediately after finding them to avoid repeated searches.
 5.  **Theme Association**: Use theme hints to predict what types of words might appear.
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 
 *   **Select Words**: Use mouse drag or click to select found words.
@@ -33,6 +35,7 @@ releaseDate: 2025-08-16
 *   **View List**: Check the word list to see which words still need to be found.
 *   **Hint Feature**: Some versions provide hint features to help find difficult words.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions
 
 1.  **Q: What directions can words be in?**

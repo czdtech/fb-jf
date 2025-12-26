@@ -14,6 +14,7 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 "Wordle" is a popular daily word puzzle game where players have six attempts to guess a five-letter word, using color-coded feedback to deduce the correct letters and their positions. This addictive vocabulary challenge game has become globally popular due to its simple rules and daily puzzle design.
@@ -26,6 +27,7 @@ releaseDate: 2025-08-16
 4.  **Elimination Strategy**: Use gray letter information to eliminate impossible combinations.
 5.  **Vocabulary Building**: Expand vocabulary and familiarize yourself with more five-letter words.
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 
 *   **Input Letters**: Use keyboard or on-screen keyboard to input five letters.
@@ -33,6 +35,7 @@ releaseDate: 2025-08-16
 *   **View Feedback**: Observe color hints: Green (correct position), Yellow (exists but wrong position), Gray (doesn't exist).
 *   **Delete Letters**: Use backspace key to delete input letters.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions
 
 1.  **Q: Can I only play once per day?**

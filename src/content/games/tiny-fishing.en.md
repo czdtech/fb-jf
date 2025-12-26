@@ -14,6 +14,7 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 "Tiny Fishing" is a relaxing casual fishing game where players cast their line into the depths, catch various fish species, and upgrade their equipment to reach deeper waters and discover rare creatures. The game is beloved by players for its simple controls and relaxing gaming experience.
@@ -26,6 +27,7 @@ releaseDate: 2025-08-16
 4.  **Rare Fish**: Deep water areas contain more rare and valuable fish, making equipment upgrades worthwhile.
 5.  **Be Patient**: Fishing requires patience; wait for fish to bite, then reel in at the right time.
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 
 *   **Cast Line**: Click to start casting the fishing line into water.
@@ -33,6 +35,7 @@ releaseDate: 2025-08-16
 *   **Reel In**: When fish are hooked, click to reel them in.
 *   **Upgrade**: Use earned coins to upgrade equipment in the shop.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions
 
 1.  **Q: How can I get more coins?**

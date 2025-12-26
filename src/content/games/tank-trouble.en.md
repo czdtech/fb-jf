@@ -14,6 +14,7 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 "Tank Trouble" is a multiplayer tank battle game where players control tanks in a maze-like arena, shooting at opponents while navigating walls and obstacles to be the last tank standing. The game is popular for its fast-paced combat and strategic positioning gameplay.
@@ -26,12 +27,14 @@ releaseDate: 2025-08-16
 4.  **Predictive Shooting**: Predict opponents' movement directions and aim ahead.
 5.  **Collect Power-ups**: Gather special power-ups in the arena to gain advantages.
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 
 *   **Movement Control**: Use arrow keys or WASD to control tank movement and rotation.
 *   **Shooting**: Use designated keys (usually spacebar or specific keys) to shoot.
 *   **Multiplayer Mode**: Supports local multiplayer gaming with different key combinations for each player.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions
 
 1.  **Q: How do bullets ricochet?**

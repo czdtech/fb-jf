@@ -18,6 +18,7 @@ releaseDate: 2025-12-04T00:00:00.000Z
  
 Whether you're an experienced musician or a curious beginner, The Haze Pixelbox offers endless fun, sparking creativity with its unique ethnic twist.
  
+<!-- i18n:section:tips -->
 ### The Core Gameplay of The Haze Pixelbox:
  
  - **Become a Tribal Leader:** Lead your tribe of beatboxers and use your musical talent to make them play awe-inspiring melodies.
@@ -33,3 +34,4 @@ Whether you're an experienced musician or a curious beginner, The Haze Pixelbox 
  
  
 **Whether you're an experienced musician or a curious beginner, The Haze Pixelbox offers endless fun, sparking creativity with its unique ethnic twist. Come and join The Haze Pixelbox, and awaken the primal musical soul with ancient beats!**
+

@@ -25,6 +25,7 @@ Want to become a music master, creating unique musical works with just your fing
  
 Imagine a group of alien creatures standing in front of you, with exaggerated eyes and quirky personalities, waiting for you to bring them to life. And you are the conductor of this orchestra, using your fingers to make them play unique music!
  
+<!-- i18n:section:tips -->
 ### The Core Gameplay of SWAP SPRUNKGERNY:
  
 The core gameplay of SWAP SPRUNKGERNY is very simple: Drag! Drag! Drag!
@@ -47,3 +48,4 @@ The core gameplay of SWAP SPRUNKGERNY is very simple: Drag! Drag! Drag!
 In the world of SWAP SPRUNKGERNY, every action you take directly affects the music and atmosphere. As you place characters in their designated spots, a new, harmonious beat is born. These sounds are full of energy and fun, perfect for a relaxing and enjoyable gaming experience.
  
 The world of SWAP SPRUNKGERNY is far more than that, it also hides more unexpected surprises... Ready to explore this fun and mysterious musical world?
+

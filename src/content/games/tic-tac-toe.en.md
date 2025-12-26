@@ -14,6 +14,7 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 "Tic-Tac-Toe" is the classic strategy game where two players take turns placing X's and O's on a 3x3 grid, aiming to be the first to get three symbols in a row, column, or diagonal. While the rules are simple, the game contains rich strategic thinking.
@@ -26,12 +27,14 @@ releaseDate: 2025-08-16
 4.  **Corner Priority**: After the center is taken, corner positions are more advantageous than edge positions.
 5.  **First-Move Advantage**: As the first player, be aggressive; as the second player, focus on defense.
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 
 *   **Select Position**: Click on empty squares in the 3x3 grid to place your symbol.
 *   **Take Turns**: Alternate moves with AI or other players.
 *   **Observe Situation**: Carefully observe the current board state, looking for winning or blocking opportunities.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions
 
 1.  **Q: Does the first player have an advantage?**
