@@ -18,6 +18,7 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### **Grow a Garden Game Introduction**
 
 "Grow a Garden" is a general name for a category of relaxing simulation games. In these games, players take on the role of a gardener or farmer, with the core objective of creating, managing, and beautifying their own garden or farm by planting various plants (like flowers, vegetables, and fruits).
@@ -30,6 +31,7 @@ These games usually feature a slow pace and a relaxing atmosphere, emphasizing t
 *   **Quest and order system**: NPCs or an order board will post tasks, requiring players to submit specific quantities of crops for rewards.
 *   **Decoration and customization**: A rich selection of decorative items allows players to freely design and arrange the layout and appearance of their garden according to their preferences.
 
+<!-- i18n:section:tips -->
 ### **Gameplay Strategy & Tips**
 
 1.  **Manage Your Time and Resources**: In the early game, your money and energy (if the game has an energy system) are limited. Prioritize planting crops with **short growth times and quick returns**. This will help you quickly accumulate initial capital to unlock more land and features.
@@ -42,6 +44,7 @@ These games usually feature a slow pace and a relaxing atmosphere, emphasizing t
     *   **Upgrade Tools**: Allows you to till soil and harvest faster.
 6.  **Take Advantage of Special Events**: Many gardening games host regular special events, such as planting rare flowers or completing festive orders. Actively participating in these events can often yield high-value rewards that are difficult to obtain through normal gameplay.
 
+<!-- i18n:section:controls -->
 ### **Controls Guide**
 
 The controls for these games are typically based on simple clicks and drags.
@@ -56,16 +59,22 @@ The controls for these games are typically based on simple clicks and drags.
     *   Press and hold a tool like a watering can and drag it across multiple plots for continuous action (e.g., watering).
     *   Move and place decorations in your garden.
 
+<!-- i18n:section:faq -->
 ### **Frequently Asked questions (FAQ)**
 
+<!-- i18n:faq:id=faq:grow-a-garden:should-i-buy-seeds-or-11182d2c -->
 **1. Should I buy seeds or decorations first?**
 In the early game, **always prioritize buying seeds and expanding your land**. Decorations make your garden look nice, but they don't generate income. Only start focusing on beautification once you have a steady stream of income.
 
+<!-- i18n:faq:id=faq:grow-a-garden:why-did-my-plants-wither-ac609727 -->
 **2. Why did my plants wither?**
 In some games, if plants are not watered or harvested in time after they mature, they will wither. This can result in reduced profits or a total loss of the crop. Be sure to pay attention to the growth cycles and needs of each plant.
 
+<!-- i18n:faq:id=faq:grow-a-garden:how-can-i-make-money-e28ea240 -->
 **3. How can I make money quickly?**
 The fastest way is to focus on completing high-value orders and planting the most profitable crops required for those orders. Also, ensure your production chain (from planting to harvesting) is uninterrupted to maximize land-use efficiency.
 
+<!-- i18n:faq:id=faq:grow-a-garden:does-the-game-need-to-b46d6202 -->
 **4. Does the game need to be online all the time?**
 Most modern gardening games support **offline growth**. This means that after you plant your crops, time will continue to pass even if you close the game, and the plants will continue to grow. This is why it's recommended to plant long-cycle crops before you log off.
+

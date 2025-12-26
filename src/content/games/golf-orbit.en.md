@@ -12,10 +12,12 @@ releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Golf Orbit turns golf into a physics flight puzzle. You’ll pick a launch angle and power, then watch your ball arc across varied terrain and planetary bodies. Spin and bounce behavior, wind, and occasional gravity wells add depth: the best shots ride slopes, skim obstacles, and chain bounces to reach hidden targets.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Angle discipline: Shallow launches maximize roll; higher arcs clear hazards but lose rollout.
@@ -24,21 +26,27 @@ Golf Orbit turns golf into a physics flight puzzle. You’ll pick a launch angle
 4.  Terrain reads: Plan for first bounce, not just landing; slopes redirect momentum.
 5.  Par routing: Take safe two‑shot lines rather than risky one‑shot clears until consistent.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Tap to start the power bar; tap again to set power/angle; apply spin via swipe (if supported).
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- Q: My ball always overshoots — how to fix?
+- <!-- i18n:faq:id=faq:golf-orbit:my-ball-always-overshoots-how-20631a65 -->
+  Q: My ball always overshoots — how to fix?
   
   A: Lower the launch angle and reduce power; use backspin to stop on small greens.
 
-- Q: What’s the best all‑around angle?
+- <!-- i18n:faq:id=faq:golf-orbit:whats-the-best-allaround-angle-1bd9c6a0 -->
+  Q: What’s the best all‑around angle?
   
   A: Medium‑low angles (25–35°) with topspin for roll are consistent on open holes.
 
-- Q: Do gravity wells actually help?
+- <!-- i18n:faq:id=faq:golf-orbit:do-gravity-wells-actually-help-29e93e13 -->
+  Q: Do gravity wells actually help?
   
   A: Yes — enter on a tangent to slingshot outward with speed; practice the timing.
+
 

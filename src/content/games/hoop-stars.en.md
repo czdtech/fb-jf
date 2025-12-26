@@ -17,10 +17,12 @@ releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Hoop Stars is a rapid ring‑flip contest. You rotate a ring around a central peg and flip it to land past obstacles. Clean flips that settle over the peg score; misses costs time. Duels reward consistent timing and smart angle setups more than raw speed.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Pre‑spin: Rotate to a comfortable angle before flipping.
@@ -29,21 +31,27 @@ Hoop Stars is a rapid ring‑flip contest. You rotate a ring around a central pe
 4.  Mind rebounds: If a ring bounces, don’t re‑flip into chaos — reset.
 5.  PvP: Bait opponents by faking flips, then land a clean one.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Hold to spin; release to flip; some builds use two buttons for spin vs flip.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- Q: My flips always rim out — fix?
+- <!-- i18n:faq:id=faq:hoop-stars:my-flips-always-rim-out-2a8e4776 -->
+  Q: My flips always rim out — fix?
   
   A: Adjust release timing earlier/later and reduce pre‑spin speed for steadier arcs.
 
-- Q: Is button mashing viable?
+- <!-- i18n:faq:id=faq:hoop-stars:is-button-mashing-viable-93bc88e9 -->
+  Q: Is button mashing viable?
   
   A: Not really — consistent setups beat spam.
 
-- Q: Local multiplayer?
+- <!-- i18n:faq:id=faq:hoop-stars:local-multiplayer-e67a3592 -->
+  Q: Local multiplayer?
   
   A: Often available with mirrored controls.
+
 

@@ -12,10 +12,12 @@ releaseDate: 2025-10-17
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Gold Miner Tom is a classic arcade-style game that tests your timing and precision. As the ambitious miner Tom, you control a swinging claw and must cast it at the right moment to grab valuable treasures buried underground. Each level has a specific monetary goal you must reach within a time limit. Grab gold nuggets, sparkling diamonds, and mysterious goodie bags, but be careful to avoid worthless rocks that will waste your precious time!
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Timing is Everything:** The claw swings back and forth continuously. Your success depends entirely on clicking at the perfect moment to send the claw in the direction of a valuable item.
@@ -26,6 +28,7 @@ Gold Miner Tom is a classic arcade-style game that tests your timing and precisi
     *   **Mystery Bags:** These contain a random amount of money or a power-up.
 3.  **Shop Between Levels:** Use the money you've earned to buy helpful items in the shop between levels. Dynamite is essential for blowing up worthless rocks you accidentally grab. Strength potions help you reel in heavy objects faster.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 The game uses a simple, one-touch control scheme.
@@ -33,13 +36,18 @@ The game uses a simple, one-touch control scheme.
 *   **Cast Claw:** Click your mouse or tap the screen to launch the claw in its current direction.
 *   **Use Dynamite:** If you have dynamite and have grabbed an object, a dynamite button will appear. Click it to destroy the object on your claw.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: What is the goal of each level?**
+* <!-- i18n:faq:id=faq:gold-miner-tom:q-what-is-the-goal-7ed4507e -->
+  **Q: What is the goal of each level?**
     *   **A:** To earn enough money to meet the level's target amount before the timer runs out.
 
-*   **Q: Why is my claw reeling in so slowly?**
+* <!-- i18n:faq:id=faq:gold-miner-tom:q-why-is-my-claw-53378ca1 -->
+  **Q: Why is my claw reeling in so slowly?**
     *   **A:** You have likely grabbed a large, heavy rock. These are not worth much and should be avoided. If you have dynamite, it's a good time to use it.
 
-*   **Q: What happens if I don't reach the money goal in time?**
+* <!-- i18n:faq:id=faq:gold-miner-tom:q-what-happens-if-i-9e9ed57b -->
+  **Q: What happens if I don't reach the money goal in time?**
     *   **A:** If the timer runs out and you haven't met the goal, the game is over.
+

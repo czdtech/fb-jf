@@ -14,14 +14,17 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Overview
 House of Hazards is a couch‑multiplayer party game set in a trap‑filled home. Players race to finish everyday tasks—make coffee, water plants, head out the door—while opponents sabotage them by firing toasters, swinging lamps, or activating floor traps. Quick rounds, unpredictable physics, and map‑specific gags keep matches lively.
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 - In task mode, finish your checklist first; in sabotage mode, time traps for maximum chaos.
 - Learn trigger points for each room to catch runners at chokepoints.
 - Coordinate with partners in team variants to chain hazards.
 
+<!-- i18n:section:controls -->
 ### Controls
 - Simple move/jump/action keys; multiple local players with separate binds.
 
@@ -30,11 +33,16 @@ House of Hazards is a couch‑multiplayer party game set in a trap‑filled home
 - Jump before moving hazards to maintain momentum after hits.
 - As saboteur, bait movement then trigger late to catch jump arcs.
 
+<!-- i18n:section:faq -->
 ### FAQ
-- Q: How do I win consistently against multiple opponents?  
+- <!-- i18n:faq:id=faq:house-of-hazards:how-do-i-win-consistently-cf99b085 -->
+  Q: How do I win consistently against multiple opponents?
   A: Plan a task route with minimal room crossings and avoid known ambush spots.
-- Q: Can we customize rules or teams in this game?  
+- <!-- i18n:faq:id=faq:house-of-hazards:can-we-customize-rules-or-9c0a821c -->
+  Q: Can we customize rules or teams in this game?
   A: Many hosts allow team play and house rule tweaks.
-- Q: Is there a single‑player mode available?  
+- <!-- i18n:faq:id=faq:house-of-hazards:is-there-a-singleplayer-mode-d65a3d1d -->
+  Q: Is there a single‑player mode available?
   A: Some hosts include bot races or challenge runs, but the game shines in local multiplayer.
+
 

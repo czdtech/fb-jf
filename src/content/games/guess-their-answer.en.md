@@ -18,10 +18,12 @@ releaseDate: 2025-10-18
 
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Guess Their Answer plays like a family‑feud style survey game. Given a prompt (“Things you bring to the beach”), you must list common answers. Points scale by popularity; obscure answers score little. The meta is not niche knowledge but modeling average respondents.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Start with categories: People, objects, actions; then expand synonyms (e.g., sunglasses/shades).
@@ -30,21 +32,27 @@ Guess Their Answer plays like a family‑feud style survey game. Given a prompt 
 4.  Don’t overfit: If an answer flops, pivot quickly to a different sub‑theme.
 5.  Head‑to‑head: Block likely opponent picks early.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Type answers and submit; the game checks popularity lists.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- Q: My clever answers don’t score — why?
+- <!-- i18n:faq:id=faq:guess-their-answer:my-clever-answers-dont-score-f98a6e64 -->
+  Q: My clever answers don’t score — why?
   
   A: Scoring favors common responses. Switch to broadly familiar items/actions.
 
-- Q: Are misspellings accepted?
+- <!-- i18n:faq:id=faq:guess-their-answer:are-misspellings-accepted-30fab425 -->
+  Q: Are misspellings accepted?
   
   A: Some variants autocorrect; others require correct spelling or close matches.
 
-- Q: Any hint system?
+- <!-- i18n:faq:id=faq:guess-their-answer:any-hint-system-83b1a6f0 -->
+  Q: Any hint system?
   
   A: Some modes offer letter hints or reveal the category breadth.
+
 

@@ -18,10 +18,12 @@ releaseDate: 2025-10-18
 
 ## English Guide
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Golf and Friends is a casual mini‑golf experience with playful obstacles, ramps, and bank walls. Mastery revolves around pace control and angle selection — soft touches near cups prevent lip‑outs, and 45° bank lines make tight corners consistent. Multiplayer turns the course into a light party game.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Pace near cup: Under‑hit slightly at the rim to avoid lip‑outs.
@@ -30,21 +32,27 @@ Golf and Friends is a casual mini‑golf experience with playful obstacles, ramp
 4.  Two‑putt planning: Don’t force hero shots; set up a gimme second.
 5.  Camera work: Pan/zoom to preview hidden slopes.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Aim with mouse; pull to set power; release to putt. Reset/forfeit if stuck.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- Q: Why do my putts rim out?
+- <!-- i18n:faq:id=faq:golf-and-friends:why-do-my-putts-rim-2ead777a -->
+  Q: Why do my putts rim out?
   
   A: Too much pace or a poor entry angle; slow down near the cup.
 
-- Q: Best bank‑shot tip?
+- <!-- i18n:faq:id=faq:golf-and-friends:best-bankshot-tip-f267aa52 -->
+  Q: Best bank‑shot tip?
   
   A: Aim slightly inside 45° to account for speed loss.
 
-- Q: Multiplayer local?
+- <!-- i18n:faq:id=faq:golf-and-friends:multiplayer-local-7e9d7ed5 -->
+  Q: Multiplayer local?
   
   A: Often hot‑seat style; pass the device between turns.
+
 

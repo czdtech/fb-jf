@@ -13,10 +13,12 @@ releaseDate: 2025-10-17
 
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Guns n' Bottles is a simple yet highly addictive one-touch arcade game that tests your timing and precision. A gun continuously rotates in the center of the screen, and your goal is to tap at the perfect moment to fire a bullet and shatter the bottles that appear. The challenge lies in timing your shot perfectly with the gun's rotation. Hit the green bottles to score points, but be careful to avoid the red ones!
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Anticipate the Rotation:** Don't tap when your gun is aimed directly at the bottle. You need to lead your shot slightly. Fire just *before* the gun aligns with the target to account for the bullet's travel time and the gun's continuous rotation.
@@ -24,20 +26,26 @@ Guns n' Bottles is a simple yet highly addictive one-touch arcade game that test
 3.  **Avoid the Red Bottles:** Hitting a red bottle will end your game instantly. They are there to trick you and break your rhythm. Always prioritize avoiding them.
 4.  **Unlock New Guns:** Use the coins you earn from successful hits to unlock new and cooler-looking guns in the shop. While often cosmetic, they add a fun sense of progression.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 The game is played with a single action.
 
 *   **Shoot:** Click the left mouse button or tap anywhere on the screen to fire the gun.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: What is the objective of the game?**
+* <!-- i18n:faq:id=faq:guns-n-bottles:q-what-is-the-objective-0d640e0d -->
+  **Q: What is the objective of the game?**
     *   **A:** To hit as many green bottles as you can in a row to achieve the highest possible score.
 
-*   **Q: What happens if I miss a bottle or hit a red one?**
+* <!-- i18n:faq:id=faq:guns-n-bottles:q-what-happens-if-i-8db9dc54 -->
+  **Q: What happens if I miss a bottle or hit a red one?**
     *   **A:** In either case, the game will end, and your score will be recorded. You must then start over.
 
-*   **Q: How do I aim?**
+* <!-- i18n:faq:id=faq:guns-n-bottles:q-how-do-i-aim-4547fcfc -->
+  **Q: How do I aim?**
     *   **A:** You don't directly control the aim. The gun rotates automatically. Your skill is in timing the shot perfectly as the gun sweeps past your target.
+
 

@@ -14,14 +14,17 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Overview
 Guess the Kitty is a light quiz where you identify cat breeds or features from photos and prompts. Rounds may include multiple‑choice, fill‑in, or timed modes. Accuracy and streaks raise your score; hints cost points.
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 - Study visible traits (ear shape, coat pattern, color points, tail length).
 - Eliminate unlikely options before committing.
 - Use hints sparingly; save them for near‑misses.
 
+<!-- i18n:section:controls -->
 ### Controls
 - Mouse/touch to select answers; keyboard for text entries when applicable.
 
@@ -30,11 +33,16 @@ Guess the Kitty is a light quiz where you identify cat breeds or features from p
 - Compare head/ear silhouette to narrow families.
 - Don’t rush timed modes—streak bonuses outweigh one fast guess.
 
+<!-- i18n:section:faq -->
 ### FAQ
-- Q: How can I improve accuracy on similar breeds?  
+- <!-- i18n:faq:id=faq:guess-the-kitty:how-can-i-improve-accuracy-860e971e -->
+  Q: How can I improve accuracy on similar breeds?
   A: Focus on ear set, muzzle shape, and coat pattern rather than color alone.
-- Q: Are hints worth using in the game?  
+- <!-- i18n:faq:id=faq:guess-the-kitty:are-hints-worth-using-in-e737035e -->
+  Q: Are hints worth using in the game?
   A: Only when you’ve narrowed to two choices; otherwise they waste points.
-- Q: Does the game include a practice mode?  
+- <!-- i18n:faq:id=faq:guess-the-kitty:does-the-game-include-a-69b182f1 -->
+  Q: Does the game include a practice mode?
   A: Some hosts include casual/practice rounds without timers.
+
 

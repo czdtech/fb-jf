@@ -15,6 +15,7 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### **Game Introduction**
 
 "Highway Traffic" is a general name for a popular genre of arcade-style driving games. The core gameplay revolves around driving a car on a busy, seemingly endless highway. The primary objective is straightforward: **drive as long as possible to achieve the highest score and longest distance without crashing into other vehicles.**
@@ -26,6 +27,7 @@ Most versions of *Highway Traffic* include the following elements:
 *   **Vehicle Unlocks and Upgrades**: Players earn in-game currency to buy new cars that are faster or have better handling, or to upgrade the performance (speed, braking, handling) and appearance of their existing vehicles.
 *   **Varied Environments**: Offering different times of day (day, night) and weather conditions (sunny, rainy) to add challenge and visual diversity.
 
+<!-- i18n:section:tips -->
 ### **Gameplay Strategy & Tips**
 
 1.  **Drive Smoothly, Don't Jerk the Wheel**: At high speeds, small and smooth steering inputs are far more effective than sudden, sharp turns. Jerking the wheel can easily lead to losing control or overcorrecting, which often results in a crash.
@@ -35,6 +37,7 @@ Most versions of *Highway Traffic* include the following elements:
 5.  **Utilize the Oncoming Lane in Two-Way Mode**: In two-way traffic mode, the oncoming lane often has less traffic and is a prime opportunity for near misses and score boosting. However, it's extremely dangerous. You must constantly watch for approaching cars and be ready to merge back into your lane.
 6.  **Upgrade Your Ride**: Don't be stingy with your in-game currency. Prioritize upgrading your car's **Handling** and **Brakes** first. These two stats are vital for surviving in dense traffic. Speed is important, but it's useless if you can't control it.
 
+<!-- i18n:section:controls -->
 ### **Controls Guide**
 
 The controls for these games are usually very intuitive, especially on mobile devices.
@@ -48,11 +51,14 @@ The controls for these games are usually very intuitive, especially on mobile de
     *   **Acceleration**: `W` key or `Up Arrow` key.
     *   **Braking**: `S` key or `Down Arrow` key.
 
+<!-- i18n:section:faq -->
 ### **Frequently Asked Questions (FAQ)**
 
+<!-- i18n:faq:id=faq:highway-traffic:why-cant-i-seem-to-3bcfed79 -->
 **1. Why can't I seem to reach top speed?**
 In most versions, you need to hold the accelerator or maintain a high speed for a period to reach your car's maximum velocity. Frequent braking or minor collisions with other cars will cause your speed to drop.
 
+<!-- i18n:faq:id=faq:highway-traffic:how-do-i-earn-more-7e97df14 -->
 **2. How do I earn more in-game currency?**
 The primary ways to earn currency are:
 *   **Driving a longer distance**: The further you go, the higher the base reward.
@@ -60,10 +66,12 @@ The primary ways to earn currency are:
 *   **Maintaining high speed**: Driving above a certain speed (e.g., 100 km/h) continuously earns you extra points/cash.
 *   **Completing daily missions or challenges**.
 
+<!-- i18n:faq:id=faq:highway-traffic:which-car-is-the-best-2b470d3e -->
 **3. Which car is the best?**
 There's no single "best" car; it depends on your driving style.
 *   **Beginners**: Should choose cars with high **Handling** and **stability**, even if they aren't the fastest.
 *   **Experts**: Can opt for cars with the highest **Top Speed** and **Acceleration** to maximize their scoring potential.
 
+<!-- i18n:faq:id=faq:highway-traffic:whats-special-about-the-twoway-e8794308 -->
 **4. What's special about the "Two-Way" mode?**
 The two-way mode is more difficult but also more rewarding. You have to dodge traffic moving in both the same and the opposite direction. Driving in the oncoming lane usually rewards you with double or significantly higher scores.

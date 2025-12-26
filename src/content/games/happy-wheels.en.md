@@ -15,6 +15,7 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### **Game Introduction**
 
 Happy Wheels is a physics-based, side-scrolling platformer game known for its graphic violence and dark humor. The gameplay does not focus on simply winning, but on survival. Players control a variety of unconventional characters, each with a unique and often comically unsafe vehicle, such as a dad on a bicycle with his son, a man in a jet-powered wheelchair, or a person on a Segway.
@@ -23,6 +24,7 @@ The primary objective in most levels is to navigate a treacherous obstacle cours
 
 A defining feature of Happy Wheels is its extensive user-generated content. The game includes a powerful level editor, allowing players to create and share their own complex, creative, and often sadistic courses. This results in a virtually endless supply of levels, ranging from simple races to elaborate puzzle-solving adventures and impossible-to-survive death traps.
 
+<!-- i18n:section:tips -->
 ### **Gameplay Strategy & Tips**
 
 1.  **Control Your Speed**: Speed is not always your friend. Going too fast often leads to losing control and crashing into an obstacle. Learn to gently accelerate and decelerate to navigate tight spaces and unpredictable terrain.
@@ -35,6 +37,7 @@ A defining feature of Happy Wheels is its extensive user-generated content. The 
 5.  **Learn to Eject**: The 'Z' key allows most characters to eject from their vehicle. This is a last-ditch move that can be used to fling your character's body across a gap to the finish line when the vehicle is destroyed or stuck.
 6.  **Explore Different Level Types**: Don't just play the featured levels. Use the level browser to find different kinds of challenges. Search for terms like "puzzle," "rope swing," or "BMX" to find unique and creative maps made by the community.
 
+<!-- i18n:section:controls -->
 ### **Controls Guide**
 
 The controls are relatively standard but have specific functions for each character.
@@ -50,20 +53,27 @@ The controls are relatively standard but have specific functions for each charac
 *   **Secondary Special Abilities**: `Shift` and `Ctrl` keys (used for actions like moving legs or rotating arms after ejecting)
 *   **Eject**: `Z` key (abandons the vehicle)
 
+<!-- i18n:section:faq -->
 ### **Frequently Asked Questions (FAQ)**
 
+<!-- i18n:faq:id=faq:happy-wheels:why-is-this-game-so-d9b381ef -->
 **1. Why is this game so graphic and violent?**
 The over-the-top, graphic violence is a core part of the game's identity and its black humor. It's a defining feature of its physics-based ragdoll system, designed to be shocking and absurdly funny.
 
+<!-- i18n:faq:id=faq:happy-wheels:can-i-still-win-if-ad3eb2f5 -->
 **2. Can I still win if my character is badly injured?**
 Yes. The win condition for most levels is for the main character's torso to cross the finish line. You can win even after losing all limbs.
 
+<!-- i18n:faq:id=faq:happy-wheels:how-do-i-find-good-2ed6f973 -->
 **3. How do I find good or fun levels to play?**
 Use the in-game level browser. You can play the "Featured Levels," which are curated by the community, or browse the most played levels. You can also use the search function to look for specific types of levels or creators.
 
+<!-- i18n:faq:id=faq:happy-wheels:some-characters-or-levels-are-d0eea229 -->
 **4. Some characters or levels are not available. How do I unlock them?**
 In the free web version of the game, many characters and the level editor are often locked or limited. The full version of the game typically provides access to all characters and features.
 
+<!-- i18n:faq:id=faq:happy-wheels:the-game-is-running-very-d9ccdac3 -->
 **5. The game is running very slowly or lagging. What can I do?**
 Happy Wheels can be demanding on your computer, especially on very large or complex user-created levels with many objects. Try closing other browser tabs and applications to free up resources. Playing on a more powerful computer or using a different web browser can also help.
+
 

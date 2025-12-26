@@ -12,10 +12,12 @@ releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 He Likes The Darkness is a minimalist, high‑contrast platformer. Low visibility, moving traps, and collectible orbs define compact stages. Mastering hop length, short stalls, and momentum preservation produces clean clears with satisfying flow.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Light scouting: Use small hops to reveal platform edges without overcommitting.
@@ -24,21 +26,27 @@ He Likes The Darkness is a minimalist, high‑contrast platformer. Low visibilit
 4.  Orb routing: Grab orbs on safe passes; don’t force risky backtracks.
 5.  Retry rhythm: Fast restarts build muscle memory for tricky segments.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Move/Jump: Arrows/WASD + Space; occasional double‑jump per level rules.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- Q: I can’t see edges clearly — any tip?
+- <!-- i18n:faq:id=faq:he-likes-the-darkness:i-cant-see-edges-clearly-bc6539af -->
+  Q: I can’t see edges clearly — any tip?
   
   A: Feather short hops to probe boundaries; adjust brightness if available.
 
-- Q: Do I need all orbs?
+- <!-- i18n:faq:id=faq:he-likes-the-darkness:do-i-need-all-orbs-d830263b -->
+  Q: Do I need all orbs?
   
   A: Some levels require them; otherwise they’re optional mastery goals.
 
-- Q: Any trick for moving saws?
+- <!-- i18n:faq:id=faq:he-likes-the-darkness:any-trick-for-moving-saws-aa464e48 -->
+  Q: Any trick for moving saws?
   
   A: Count beats and move on the same phase each attempt to lock timing.
+
 
