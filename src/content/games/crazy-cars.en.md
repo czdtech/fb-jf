@@ -14,15 +14,18 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Overview
 Crazy Cars is a casual browser driving game on a free‑roam city map with ramps, jump spots, and event markers. Explore to find races and time trials, collect stars and wrenches across rooftops and hidden corners, and unlock additional cars. Some hosts also include local split‑screen.
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 - Explore the map to find activities: races, time trials, obstacle runs, and stunt areas.  
 - Collectibles (stars/wrenches) are scattered around rooftops, ramps, and hidden spots.  
 - Earn currency by completing events to unlock faster cars.  
 - Use nitro on straights; line up carefully before large jumps.  
 
+<!-- i18n:section:controls -->
 ### Controls
 - WASD or Arrow Keys: Drive / steer  
 - Space: Brake/handbrake (host‑dependent); Nitro where available  
@@ -36,10 +39,15 @@ Crazy Cars is a casual browser driving game on a free‑roam city map with ramps
 - Use the handbrake to initiate controlled drifts for tight corners.  
 - Grab nearby wrenches early to repair after heavy landings.  
 
+<!-- i18n:section:faq -->
 ### FAQ
-- Q: How do I unlock more cars?  
+- <!-- i18n:faq:id=faq:crazy-cars:how-do-i-unlock-more-beb74a0e -->
+  Q: How do I unlock more cars?
   A: Complete races and collect items to earn currency; spend it in the garage.  
-- Q: Is there multiplayer?  
+- <!-- i18n:faq:id=faq:crazy-cars:is-there-multiplayer-08f2086a -->
+  Q: Is there multiplayer?
   A: Some browser versions offer local split‑screen; online multiplayer is typically not included.  
-- Q: My car flipped over—what now?  
+- <!-- i18n:faq:id=faq:crazy-cars:my-car-flipped-overwhat-now-4f7d27ef -->
+  Q: My car flipped over—what now?
   A: Press R to reset near your last position.  
+

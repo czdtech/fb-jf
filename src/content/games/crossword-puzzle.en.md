@@ -13,15 +13,18 @@ releaseDate: 2025-08-16
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Overview
 A crossword puzzle is a word grid solved by filling Across and Down entries that match numbered clues. In American‑style crosswords, every letter is checked by an intersecting word and grids typically have rotational symmetry; daily puzzles are often 15×15 and Sunday‑size 21×21. British/cryptic styles feature different clue conventions and grid patterns. 
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 - Select a clue or cell, then type letters to fill the entry.  
 - Use arrow keys to move between cells; Backspace deletes; Enter or Tab often switches direction or advances to the next clue (varies by host).  
 - Cross‑checking: use intersecting letters to confirm uncertain answers.  
 - Many online versions provide Check/Reveal/Undo tools and timers.  
 
+<!-- i18n:section:controls -->
 ### Controls
 - Type A–Z to enter letters; arrow keys navigate.  
 - Backspace: delete previous letter.  
@@ -34,11 +37,16 @@ A crossword puzzle is a word grid solved by filling Across and Down entries that
 - Learn common abbreviations and crosswordese (abbr., init., alt. spellings).  
 - For cryptic/British styles, parse definition + wordplay components and indicator words.  
 
+<!-- i18n:section:faq -->
 ### FAQ
-- Q: What’s the difference between American and British crosswords?  
+- <!-- i18n:faq:id=faq:crossword-puzzle:whats-the-difference-between-a-05610f90 -->
+  Q: What’s the difference between American and British crosswords?
   A: American grids usually have all letters cross‑checked and rotational symmetry; British cryptics use wordplay‑based clues and often allow unchecked letters.  
-- Q: What size is a typical daily puzzle?  
+- <!-- i18n:faq:id=faq:crossword-puzzle:what-size-is-a-typical-766f0dc1 -->
+  Q: What size is a typical daily puzzle?
   A: Common sizes are 15×15 daily and 21×21 on Sundays (varies by publisher).  
-- Q: Are diacritics or punctuation required?  
+- <!-- i18n:faq:id=faq:crossword-puzzle:are-diacritics-or-punctuation-92188e66 -->
+  Q: Are diacritics or punctuation required?
   A: Most crosswords ignore punctuation and accents; fill letters only unless specified.  
+
 

@@ -12,10 +12,12 @@ releaseDate: 2025-10-17
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Crazy Caves is a fast-paced, action-packed arcade game that tests your reflexes and survival skills. You control a miner in a cart at the bottom of a dangerous cave where rocks of all sizes are constantly falling. Your mission is twofold: dodge the falling debris to survive, and simultaneously throw pickaxes to smash the rocks, collecting the valuable gems and gold that fall out. Use your earnings to upgrade your equipment and see how long you can last in the chaotic caverns.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Survival First:** Your absolute top priority is to not get hit. Always be moving and keep an eye on the trajectory of all falling rocks. It only takes one hit to end your run.
@@ -23,19 +25,25 @@ Crazy Caves is a fast-paced, action-packed arcade game that tests your reflexes 
 3.  **Efficient Mining:** Try to position yourself so that when you destroy a rock, you are in a safe place to continue attacking others. Don't get cornered while trying to break a single large boulder.
 4.  **Upgrade Smartly:** After each run, invest your collected gold and gems wisely. Upgrading your pickaxe damage allows you to destroy rocks faster, which is crucial for survival. Upgrading your income helps you earn more for future upgrades, creating a powerful feedback loop.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 *   **Move:** Use your mouse or finger to drag your mining cart left and right along the bottom of the screen.
 *   **Throw Pickaxe:** Click the left mouse button or tap anywhere on the screen to throw a pickaxe upwards.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: What happens if a rock hits me?**
+* <!-- i18n:faq:id=faq:crazy-caves:q-what-happens-if-a-3ec02fca -->
+  **Q: What happens if a rock hits me?**
     *   **A:** The game is over instantly. You will need to start a new run from the beginning.
 
-*   **Q: What should I focus on upgrading first?**
+* <!-- i18n:faq:id=faq:crazy-caves:q-what-should-i-focus-eac7837a -->
+  **Q: What should I focus on upgrading first?**
     *   **A:** A good starting strategy is to upgrade your pickaxe damage. This helps you clear dangerous rocks more quickly, which directly contributes to longer survival times. After that, upgrading your earnings is also a great choice.
 
-*   **Q: How do I deal with the really big boulders?**
+* <!-- i18n:faq:id=faq:crazy-caves:q-how-do-i-deal-a1e317c1 -->
+  **Q: How do I deal with the really big boulders?**
     *   **A:** Large boulders require multiple hits to break. You need to quickly throw several pickaxes at them while continuously dodging other falling rocks. Try to start hitting them early before they get too close.
+
 

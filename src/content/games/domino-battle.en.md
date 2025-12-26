@@ -12,10 +12,12 @@ releaseDate: 2025-10-17
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Domino Battle is a digital adaptation of the classic tile-based game, Dominoes. This version pits you against a computer opponent in a strategic battle of wits. The objective is to be the first player to get rid of all your domino tiles by matching them end-to-end with the layout on the board. It requires careful planning, as you must not only play your own tiles but also anticipate and potentially block your opponent's moves.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **The Basics:** Each player starts with a hand of dominoes. The player with the highest double-tile typically goes first. On your turn, you must place a tile from your hand so that one of its ends matches the number of pips on an open end of the domino chain.
@@ -24,19 +26,25 @@ Domino Battle is a digital adaptation of the classic tile-based game, Dominoes. 
 4.  **Winning a Round:** The round ends when one player plays their last domino. That player then scores points equal to the total number of pips on all the dominoes remaining in the opponent's hand.
 5.  **Blocking the Game:** If neither player can make a move and the boneyard is empty, the game is "blocked." In this case, the player with the lowest total pip count in their hand wins the round and scores points based on the opponent's hand.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 *   **Play a Tile:** Click and drag a domino from your hand to a valid open end on the board.
 *   **Draw a Tile:** If you have no valid moves, click on the face-down boneyard pile to draw a new domino.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: What is the main goal of the game?**
+* <!-- i18n:faq:id=faq:domino-battle:q-what-is-the-main-54696a60 -->
+  **Q: What is the main goal of the game?**
     *   **A:** To be the first player to play all of your dominoes and empty your hand. The overall game is usually won by being the first to reach a target score over several rounds.
 
-*   **Q: What happens if I can't make a move?**
+* <!-- i18n:faq:id=faq:domino-battle:q-what-happens-if-i-36e9def4 -->
+  **Q: What happens if I can't make a move?**
     *   **A:** You must draw from the boneyard. If the boneyard is empty, you pass your turn.
 
-*   **Q: How can I block my opponent?**
+* <!-- i18n:faq:id=faq:domino-battle:q-how-can-i-block-5f610509 -->
+  **Q: How can I block my opponent?**
     *   **A:** Pay attention to the numbers on the open ends of the chain. If you know your opponent has a lot of a certain number (because you have most of the others), you can try to play tiles that avoid leaving that number open, potentially forcing them to draw from the boneyard.
+
 

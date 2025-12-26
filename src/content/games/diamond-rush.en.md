@@ -12,10 +12,12 @@ releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Diamond Rush is a dazzling and addictive match-3 puzzle game that challenges your quick thinking and matching skills. The objective is to swap adjacent diamonds to create lines of three or more identical gems, clearing them from the board and earning points. With vibrant graphics, sparkling animations, and engaging sound effects, Diamond Rush offers a classic match-3 experience with a focus on fast-paced gameplay and high scores. Race against the clock or complete specific objectives to progress through exciting levels.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Look for Special Gem Combinations:** Matching four or five diamonds, or creating L/T shapes, will generate powerful special gems (like line clearers or bombs). These are crucial for clearing large sections of the board and achieving high scores.
@@ -24,18 +26,24 @@ Diamond Rush is a dazzling and addictive match-3 puzzle game that challenges you
 4.  **Work from the Bottom:** Making matches at the bottom of the board can cause a cascade effect, where new diamonds fall into place and potentially create new matches automatically. This can be a great way to rack up points and clear the board.
 5.  **Time Management (if applicable):** If the level has a time limit, try to make quick, efficient matches. Don't spend too much time deliberating over a single move.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 *   **Swap Diamonds:** Use your mouse to click and drag a diamond to an adjacent position to swap it with another. This action is only valid if it results in a match of three or more identical diamonds.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: What is the goal of Diamond Rush?**
+* <!-- i18n:faq:id=faq:diamond-rush:q-what-is-the-goal-0440a217 -->
+  **Q: What is the goal of Diamond Rush?**
     *   **A:** The goal is to complete the specific objectives of each level, which typically involve matching diamonds to clear them from the board, achieve a target score, or break obstacles.
 
-*   **Q: How do I get power-ups or special diamonds?**
+* <!-- i18n:faq:id=faq:diamond-rush:q-how-do-i-get-9db98676 -->
+  **Q: How do I get power-ups or special diamonds?**
     *   **A:** Power-ups are created by matching more than three diamonds in a single move. For example, matching four diamonds might create a line-clearing gem, and five might create a bomb or a color-clearing gem.
 
-*   **Q: Is there a time limit in the game?**
+* <!-- i18n:faq:id=faq:diamond-rush:q-is-there-a-time-71e1686c -->
+  **Q: Is there a time limit in the game?**
     *   **A:** Many levels in Diamond Rush are timed, requiring you to complete the objectives before the clock runs out. Some levels might be move-limited instead.
+
 

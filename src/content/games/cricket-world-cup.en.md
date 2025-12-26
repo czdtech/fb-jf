@@ -12,10 +12,12 @@ releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Cricket World Cup focuses on batting scenarios: judge line and length, choose ground shots or lofts, and place the ball through gaps to beat set targets over limited overs.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Shot selection by line: Leg‑side late glances vs pads; off‑side drives for wide lines.
@@ -24,21 +26,27 @@ Cricket World Cup focuses on batting scenarios: judge line and length, choose gr
 4.  Power plays: Attack gaps when field is up.
 5.  Watch bowler rhythm: Time swings from release, not only ball flight.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Aim with directional input; tap to swing; loft/ground toggles vary by build.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- Q: Keep getting caught?
+- <!-- i18n:faq:id=faq:cricket-world-cup:keep-getting-caught-154fccfa -->
+  Q: Keep getting caught?
   
   A: Reduce lofts into deep field; thread ground shots through gaps.
 
-- Q: Timing misses?
+- <!-- i18n:faq:id=faq:cricket-world-cup:timing-misses-99adbd62 -->
+  Q: Timing misses?
   
   A: Watch the release point and start the swing a hair earlier/later accordingly.
 
-- Q: Bowling available?
+- <!-- i18n:faq:id=faq:cricket-world-cup:bowling-available-edaee621 -->
+  Q: Bowling available?
   
   A: Most versions focus on batting only.
+
 

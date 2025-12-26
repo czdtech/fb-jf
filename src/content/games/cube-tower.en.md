@@ -17,10 +17,12 @@ releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Cube Tower is a tower defense game where your main objective is to protect a central "Cube Tower" from waves of enemy attacks. To achieve this, you strategically place and upgrade various types of defensive towers.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Strategic Placement:** Carefully consider where to place your towers to maximize their coverage and impact on incoming enemies.
@@ -28,13 +30,18 @@ Cube Tower is a tower defense game where your main objective is to protect a cen
 3.  **Upgrade Wisely:** Prioritize upgrading towers that are most effective against the current wave of enemies.
 4.  **Resource Management:** You'll need to manage your in-game currency to buy and upgrade towers. Replaying levels can help accumulate resources for upgrades.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 *   **Mouse/Touch:** Use the mouse or touch screen to select, place, and upgrade your towers.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: What's the best tower to use?**
+* <!-- i18n:faq:id=faq:cube-tower:q-whats-the-best-tower-fb7b92ec -->
+  **Q: What's the best tower to use?**
     *   **A:** Different towers are effective against different types of enemies. A good strategy is to use a mix of towers to cover all weaknesses. For example, Cannon Towers are good against groups of enemies, while Laser Towers can be effective against fast enemies.
-*   **Q: How do I get a 3-star rating?**
+* <!-- i18n:faq:id=faq:cube-tower:q-how-do-i-get-fd70a5ab -->
+  **Q: How do I get a 3-star rating?**
     *   **A:** You earn stars based on how many lives you have remaining at the end of each level. To get 3 stars, you need to prevent as many enemies as possible from reaching your Cube Tower.
+

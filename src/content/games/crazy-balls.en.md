@@ -12,10 +12,12 @@ releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Crazy Balls challenges you to send balls through obstacle‑filled stages, leveraging ricochets, bumpers, and moving elements. Precision angles and controlled power separate clean clears from chaotic misses.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Use side walls to bend trajectories into tight corridors.
@@ -24,22 +26,28 @@ Crazy Balls challenges you to send balls through obstacle‑filled stages, lever
 4.  Learn rebound distances to plan multi‑bank routes.
 5.  Reset quickly after bad lines to preserve time.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Drag to aim and set power; release to shoot.
 - Restart via UI when needed.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- Q: Shots feel random — how to control?
+- <!-- i18n:faq:id=faq:crazy-balls:shots-feel-random-how-to-edd8a905 -->
+  Q: Shots feel random — how to control?
   
   A: Lower power, use simpler angles, and learn consistent bank points on walls.
 
-- Q: Are there power‑ups?
+- <!-- i18n:faq:id=faq:crazy-balls:are-there-powerups-0fea9ab4 -->
+  Q: Are there power‑ups?
   
   A: Some modes include multiplies or slow‑mo; save for tricky sections.
 
-- Q: Timed levels?
+- <!-- i18n:faq:id=faq:crazy-balls:timed-levels-05d52f9e -->
+  Q: Timed levels?
   
   A: If timed, prioritize safe progress over risky trick shots.
+
 

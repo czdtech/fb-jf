@@ -14,6 +14,7 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### **Game Introduction**
 
 Cuphead is a classic run-and-gun action game heavily focused on boss battles. Visually and audibly, it is meticulously designed in the style of 1930s cartoons, featuring hand-drawn cel animation, watercolor backgrounds, and a live jazz soundtrack.
@@ -26,6 +27,7 @@ Gameplay is split into two main types of levels:
 
 The game is renowned for its high difficulty, demanding precise timing, quick reflexes, and a trial-and-error approach to learning enemy patterns.
 
+<!-- i18n:section:tips -->
 ### **Gameplay Strategy & Tips**
 
 1.  **Pattern Recognition is Everything**: This is not a game about brute force. Every boss has a set of predictable attack patterns for each of its phases. Your goal is to die, learn the pattern, and try again. Focus on dodging first and attacking second.
@@ -38,6 +40,7 @@ The game is renowned for its high difficulty, demanding precise timing, quick re
 5.  **Use the Lock Button**: The "Lock" button allows you to stand in place and aim in 8 directions. This is crucial for hitting bosses or weak points that are not directly in front of you, all while you focus on dodging projectiles.
 6.  **Co-op Can Be a Blessing and a Curse**: In two-player mode, you can revive your partner with a parry slap on their ghost. However, bosses have increased health, and the screen becomes much more chaotic. Communication is essential for success.
 
+<!-- i18n:section:controls -->
 ### **Controls Guide**
 
 The controls are responsive and precise. Below are the default keyboard controls.
@@ -50,20 +53,27 @@ The controls are responsive and precise. Below are the default keyboard controls
 *   **Switch Weapon**: `C` or `Tab`
 *   **EX Move / Super Art (when meter is full)**: `E` or `Q`
 
+<!-- i18n:section:faq -->
 ### **Frequently Asked Questions (FAQ)**
 
+<!-- i18n:faq:id=faq:cuphead:is-this-game-really-as-cc4cdaae -->
 **1. Is this game really as hard as people say?**
 Yes. Cuphead is a deliberately challenging game that harks back to the difficulty of classic arcade games. It requires patience and a willingness to learn from your mistakes. It is tough but fair.
 
+<!-- i18n:faq:id=faq:cuphead:what-is-the-best-weapon-e96e78fc -->
 **2. What is the best weapon and charm setup?**
 There is no single "best" setup, as it often depends on the boss. However, a highly effective and popular combination for beginners is the **Spread** shot (for high damage up close) and the **Chaser** shot (for when dodging is the priority), combined with the **Smoke Bomb** charm.
 
+<!-- i18n:faq:id=faq:cuphead:how-do-i-get-super-c96646ee -->
 **3. How do I get Super Arts?**
 You unlock Super Arts by completing the Mausoleum levels. In these levels, you must parry a series of pink ghosts to save an urn. There are three Mausoleums in total, each rewarding one Super Art.
 
+<!-- i18n:faq:id=faq:cuphead:what-is-the-point-of-08bd75a7 -->
 **4. What is the point of the Run & Gun levels?**
 Their primary purpose is to provide you with **coins**. You need these coins to buy essential weapons and charms from the shop (Porkrind's Emporium), which are critical for defeating the bosses.
 
+<!-- i18n:faq:id=faq:cuphead:is-twoplayer-coop-easier-75f09c78 -->
 **5. Is two-player co-op easier?**
 It depends on the players. The ability to revive a fallen partner is a huge advantage. However, bosses have more health, and with two characters and double the projectiles on screen, it can become visually overwhelming. It can be easier if you have good coordination with your partner.
+
 

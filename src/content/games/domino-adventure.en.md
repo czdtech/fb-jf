@@ -13,6 +13,7 @@ releaseDate: 2025-10-18
 
 
 
+<!-- i18n:section:introduction -->
 ### **Game Introduction**
 
 *Domino Adventure* is a beautifully presented digital version of the classic dominoes board game. The objective is to be the first player to **play all of your domino tiles** by strategically matching them to the ends of the domino chain on the table.
@@ -21,6 +22,7 @@ Each player starts with a hand of domino tiles. On your turn, you must place a t
 
 The winner of a round scores points equal to the total number of pips left in their opponents' hands. The game is played over several rounds until one player reaches a pre-set score target (e.g., 15 points as shown in the screenshot).
 
+<!-- i18n:section:tips -->
 ### **Gameplay Strategy & Tips**
 
 1.  **Play Your Doubles Early**: Double-sided tiles (like double-fives or double-threes) are less versatile because they only have one number to match. Playing them early prevents them from getting stuck in your hand later when you have fewer options.
@@ -31,24 +33,31 @@ The winner of a round scores points equal to the total number of pips left in th
     *   **Block Mode**: If you cannot play a tile, you must pass your turn. This mode is more about strategically blocking your opponent.
     *   **Draw Mode**: If you cannot play a tile, you must draw a new tile from the boneyard until you get one you can play. This mode involves more luck.
 
+<!-- i18n:section:controls -->
 ### **Controls Guide**
 
 The game is designed for simple, intuitive drag-and-drop or click-based gameplay.
 
 *   **Play a Tile**: **Click and drag** a domino from your rack to a valid matching end on the board. Alternatively, you can often just **click** the tile you want to play, and it will automatically move to a valid spot if one exists.
 
+<!-- i18n:section:faq -->
 ### **Frequently Asked Questions (FAQ)**
 
+<!-- i18n:faq:id=faq:domino-adventure:how-do-i-win-a-e21b4f7d -->
 **1. How do I win a round?**
 You win a round by being the first player to get rid of all the dominoes in your hand. You can also win if all players are blocked, and you have the lowest total number of pips remaining in your hand.
 
+<!-- i18n:faq:id=faq:domino-adventure:how-is-scoring-calculated-d2a2cb51 -->
 **2. How is scoring calculated?**
 After a round ends, the winner receives points equal to the **sum of all the pips on the dominoes left in the loser's hand**. For example, if your opponent has a [6-5] and a [2-1] tile left, you score (6+5+2+1) = 14 points.
 
+<!-- i18n:faq:id=faq:domino-adventure:whats-the-difference-between-b-e92d3a22 -->
 **3. What's the difference between "Block" and "Draw" mode?**
 *   In **Block Mode**, if you don't have a playable tile, you do nothing and simply skip your turn.
 *   In **Draw Mode**, if you don't have a playable tile, you must keep drawing new tiles from the reserve pile (the "boneyard") until you get a tile that can be played.
 
+<!-- i18n:faq:id=faq:domino-adventure:what-is-the-trophy-road-d3a9b95e -->
 **4. What is the "Trophy Road"?**
 The Trophy Road is a progression system where you earn exclusive rewards by playing the game. This likely includes new, collectible tile sets and other cosmetic items.
+
 

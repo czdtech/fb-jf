@@ -12,10 +12,12 @@ releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Crocword blends crossword patterns with letter‑link mechanics. Connect letters to form valid words that fill crossword slots. Bonus words grant coins or hints; difficulty rises with longer, trickier grids.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Fill singular‑fit slots first (rare letter positions).
@@ -24,22 +26,28 @@ Crocword blends crossword patterns with letter‑link mechanics. Connect letters
 4.  Don’t tunnel — change angles (prefix/middle/suffix) when stuck.
 5.  Build vocabulary lists (common digrams/trigrams) to speed solves.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Drag across letters to form words; release to submit.
 - Use hints to reveal letters/words sparingly.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- Q: A slot seems impossible — help?
+- <!-- i18n:faq:id=faq:crocword:a-slot-seems-impossible-help-e4dbe0d3 -->
+  Q: A slot seems impossible — help?
   
   A: Check crossing letters again; one mistake early can block several words.
 
-- Q: Are proper nouns allowed?
+- <!-- i18n:faq:id=faq:crocword:are-proper-nouns-allowed-c43148f9 -->
+  Q: Are proper nouns allowed?
   
   A: Most dictionaries disallow proper nouns; follow the game’s word list.
 
-- Q: Can I replay for bonus words?
+- <!-- i18n:faq:id=faq:crocword:can-i-replay-for-bonus-30158913 -->
+  Q: Can I replay for bonus words?
   
   A: Yes — revisit earlier grids to farm coins if the mode supports it.
+
 

@@ -12,10 +12,12 @@ releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Dalgona Game is a careful tracing challenge inspired by honeycomb candy. Carve out the stamped shape by following edges; too much pressure or off‑path cuts crack the candy and fail the round.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Slow and steady near corners; speed only on straight segments.
@@ -24,22 +26,28 @@ Dalgona Game is a careful tracing challenge inspired by honeycomb candy. Carve o
 4.  Save tight angles for last after stabilizing long edges.
 5.  Manage the timer by alternating quick/slow sections.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Drag to trace the outline; pressure/angle sensitivity varies by build.
 - Restart quickly on breaks.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- Q: I keep cracking near corners — how to fix?
+- <!-- i18n:faq:id=faq:dalgona-game:i-keep-cracking-near-corners-7c975395 -->
+  Q: I keep cracking near corners — how to fix?
   
   A: Reduce speed, take wider arcs if allowed, and pause before turning sharply.
 
-- Q: Is pressure modeled?
+- <!-- i18n:faq:id=faq:dalgona-game:is-pressure-modeled-5a61359e -->
+  Q: Is pressure modeled?
   
   A: Some builds simulate pressure; gentle drags are safer near delicate edges.
 
-- Q: Any tips for stars/umbrellas?
+- <!-- i18n:faq:id=faq:dalgona-game:any-tips-for-starsumbrellas-714927fc -->
+  Q: Any tips for stars/umbrellas?
   
   A: Do long straights first, then carve the tight inner curves last.
+
 

@@ -12,10 +12,12 @@ releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Daily Word Search hides words horizontally, vertically, and diagonally. Themes change daily; you can play timed for a challenge or untimed to unwind.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Scan for distinctive letter patterns and rare letters (Q, Z, X).
@@ -24,22 +26,28 @@ Daily Word Search hides words horizontally, vertically, and diagonally. Themes c
 4.  Use hints only after a full grid sweep.
 5.  In timed mode, take short breaks between clusters to avoid tunnel vision.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Drag across letters to select words; release to confirm.
 - Hints highlight a starting letter or full word depending on the build.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- Q: Do diagonals count?
+- <!-- i18n:faq:id=faq:daily-word-search:do-diagonals-count-bfdfb2f9 -->
+  Q: Do diagonals count?
   
   A: Yes, unless a mode restricts directions.
 
-- Q: Can words overlap?
+- <!-- i18n:faq:id=faq:daily-word-search:can-words-overlap-7ab3ba46 -->
+  Q: Can words overlap?
   
   A: Often yes; look for shared letters.
 
-- Q: Timed vs relaxed — which to pick?
+- <!-- i18n:faq:id=faq:daily-word-search:timed-vs-relaxed-which-to-bca123dc -->
+  Q: Timed vs relaxed — which to pick?
   
   A: Timed for speed practice; relaxed for unwinding.
+
 

@@ -16,12 +16,14 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### **Game Introduction**
 
 Cookie Clicker is the archetypal incremental (or "idle") game that revolves around a simple objective: generate as many cookies as possible. The game begins with the player clicking a large cookie on the screen, earning one cookie per click. These cookies are then used as currency to purchase assets, or "buildings," such as Cursors, Grandmas, and Farms, which automatically produce cookies over time, increasing your Cookies per Second (CpS).
 
 As you progress, you unlock a vast array of upgrades that boost the efficiency of your clicks and buildings. The core of the game is managing this exponential growth. The numbers quickly escalate from hundreds to thousands, then millions, billions, and into astronomical figures. Key mechanics like the "Ascension" (a prestige system), randomly appearing Golden Cookies, and various minigames add layers of strategy, transforming a simple clicking exercise into a deep and surprisingly complex optimization puzzle.
 
+<!-- i18n:section:tips -->
 ### **Gameplay Strategy & Tips**
 
 Strategy in Cookie Clicker is about efficiency and knowing when to make key decisions.
@@ -43,6 +45,7 @@ Strategy in Cookie Clicker is about efficiency and knowing when to make key deci
 *   **Minigames**: As you level up certain buildings with Sugar Lumps, you unlock complex minigames (the Garden, the Pantheon, the Grimoire). Mastering these provides huge long-term bonuses but requires active management.
 *   **Sugar Lumps**: You get one Sugar Lump about every 24 hours. These can be used to level up your buildings, with each level granting a permanent +1% CpS bonus to that building type. Use them wisely.
 
+<!-- i18n:section:controls -->
 ### **Controls Guide**
 
 The game is controlled almost entirely with the mouse, but a few key interface elements are important.
@@ -54,20 +57,27 @@ The game is controlled almost entirely with the mouse, but a few key interface e
     *   **CTRL + Click**: Buys 100 of a building/upgrade.
     *   **SHIFT + Click**: Buys 1000 of a building/upgrade.
 
+<!-- i18n:section:faq -->
 ### **Frequently Asked Questions (FAQ)**
 
+<!-- i18n:faq:id=faq:cookie-clicker:when-is-the-best-time-1f08eaaf -->
 **1. When is the best time to ascend?**
 For your first ascension, wait until you have at least 200-440 Prestige Levels. After that, ascend whenever your progress slows down significantly. An efficient run in the mid-to-late game might last a few hours or a day.
 
+<!-- i18n:faq:id=faq:cookie-clicker:what-is-the-point-of-83046206 -->
 **2. What is the point of the Grandmapocalypse? Should I activate it?**
 The Grandmapocalypse unlocks powerful upgrades and achievements. However, Wrath Cookies can be detrimental. Many players choose to stay in the first stage of it, which gives a mix of Golden and Wrath cookies, or they avoid it entirely until they are powerful enough to not care about the negative effects. It's a valid strategic choice either way.
 
+<!-- i18n:faq:id=faq:cookie-clicker:what-should-i-spend-my-947839c8 -->
 **3. What should I spend my Sugar Lumps on first?**
 A good strategy is to use your first Sugar Lump to upgrade your Farms to level 1 to unlock the Garden minigame. After that, upgrading Wizard Towers to unlock the Grimoire and Temples to unlock the Pantheon are high priorities.
 
+<!-- i18n:faq:id=faq:cookie-clicker:how-do-i-get-golden-ba541801 -->
 **4. How do I get Golden Cookie combos?**
 It's mostly based on luck. The spell "Force the Hand of Fate" from the Grimoire (Wizard Tower minigame) allows you to spawn an extra Golden Cookie, which is the primary method for intentionally creating powerful combos.
 
+<!-- i18n:faq:id=faq:cookie-clicker:is-there-an-end-to-ce958c6b -->
 **5. Is there an end to Cookie Clicker?**
 No. The game is designed to be effectively endless. The goal is to see the numbers go up and to unlock all achievements and upgrades, which is a monumental task.
+
 

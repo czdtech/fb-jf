@@ -13,15 +13,18 @@ releaseDate: 2025-08-16
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Overview
 Crash Bandicoot is a browser‑playable Flash/platformer tribute to the classic series. Make your way through a short set of themed stages, break crates, collect crystals and fruit, and avoid TNT hazards. After obtaining five crystals, you face Ripper Roo in a boss fight; spinning iron crates at him ends the game upon victory.  
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 - Progress through linear stages while gathering crystals and fruit.  
 - Break crates for items; avoid TNT and explosive crates.  
 - Use the spin attack to destroy certain obstacles and defeat light enemies.  
 - Reach the end of the level without falling into pits or traps.  
 
+<!-- i18n:section:controls -->
 ### Controls
 - Arrow Keys: Move / Jump (Up) / Duck (Down)  
 - Space: Spin attack (key may vary slightly by host)  
@@ -32,11 +35,16 @@ Crash Bandicoot is a browser‑playable Flash/platformer tribute to the classic 
 - Grab as many Wumpa fruit as possible for extra lives in some versions.  
 - Boss levels emphasize pattern recognition—wait for openings, then spin.  
 
+<!-- i18n:section:faq -->
 ### FAQ
-- Q: How many levels are there?  
+- <!-- i18n:faq:id=faq:crash-bandicoot:how-many-levels-are-there-74bf0cdd -->
+  Q: How many levels are there?
   A: Five main stages; after collecting five crystals you fight Ripper Roo, then the game ends.  
-- Q: Why doesn’t the jump or spin work?  
+- <!-- i18n:faq:id=faq:crash-bandicoot:why-doesnt-the-jump-or-c4d2ba16 -->
+  Q: Why doesn’t the jump or spin work?
   A: Make sure the game canvas is focused; keys may vary slightly between hosts.  
-- Q: Is progress saved?  
+- <!-- i18n:faq:id=faq:crash-bandicoot:is-progress-saved-2fd2b251 -->
+  Q: Is progress saved?
   A: Most Flash/browser versions do not save long‑term progress beyond the session.  
+
 

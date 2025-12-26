@@ -14,14 +14,17 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Overview
 Arcade classic (1981): climb girders and ladders as Mario, dodge barrels and fireballs, and use the hammer to smash hazards while you work through the four stage types (25m–100m) to rescue Pauline. Stages repeat with faster patterns after each level. 
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 - Clear the stage by reaching the top or removing rivets in the 100m stage.
 - Score by jumping barrels, smashing with the hammer, and collecting items.
 - Learn barrel patterns (straight vs. diagonal), conveyor timing, and elevator springs.
 
+<!-- i18n:section:controls -->
 ### Controls
 - Arrow keys: Move/Climb.  
 - Up: Climb ladders; Jump: usually with a mapped key (host dependent).  
@@ -32,11 +35,16 @@ Arcade classic (1981): climb girders and ladders as Mario, dodge barrels and fir
 - On 25m, steer barrels by briefly facing a ladder to influence spawns.
 - Grab the hammer when traffic is dense, but don’t get trapped near ladders.
 
+<!-- i18n:section:faq -->
 ### FAQ
-- Q: How many distinct stages are there?  
+- <!-- i18n:faq:id=faq:donkey-kong:how-many-distinct-stages-are-d050eca0 -->
+  Q: How many distinct stages are there?
   A: Four: Girders (25m), Conveyors (50m), Elevators (75m), and Rivets (100m).
-- Q: Does the game loop?  
+- <!-- i18n:faq:id=faq:donkey-kong:does-the-game-loop-23a181d7 -->
+  Q: Does the game loop?
   A: Yes, stages repeat at higher difficulty after each level.
-- Q: What ends a run?  
+- <!-- i18n:faq:id=faq:donkey-kong:what-ends-a-run-ed280e19 -->
+  Q: What ends a run?
   A: Collisions, falling too far, or the bonus timer reaching zero.
+
 

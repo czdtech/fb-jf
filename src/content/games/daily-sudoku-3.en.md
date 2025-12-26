@@ -12,10 +12,12 @@ releaseDate: 2025-10-17
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Daily Sudoku provides a fresh, classic Sudoku puzzle for you to solve every single day. Sudoku is a world-renowned logic-based, number-placement puzzle. The objective is to fill a 9x9 grid with digits so that each column, each row, and each of the nine 3x3 subgrids that compose the grid contain all of the digits from 1 to 9. It's a pure logic puzzle that requires no calculation or mathematical skills, only patience and concentration.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **The Basic Rule:** The golden rule of Sudoku is simple: 1 through 9, once per row, once per column, and once per 3x3 box.
@@ -24,6 +26,7 @@ Daily Sudoku provides a fresh, classic Sudoku puzzle for you to solve every sing
 4.  **Look for "Naked Singles":** This is when a cell has only one possible candidate number left in its notes. Fill that number in immediately.
 5.  **Look for "Hidden Singles":** This is when a candidate number appears only once within the notes of a specific row, column, or 3x3 box. Even if the cell itself has other candidates, that number must go in that cell for that specific row/column/box.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 *   **Select a Cell:** Click on any empty cell in the 9x9 grid.
@@ -31,14 +34,19 @@ Daily Sudoku provides a fresh, classic Sudoku puzzle for you to solve every sing
 *   **Notes/Pencil Mode:** Look for a button (often with a pencil icon) to toggle between "Answer" mode and "Notes" mode. In Notes mode, the numbers you enter will be small candidates.
 *   **Eraser:** Use the eraser tool to clear a number or notes from a cell.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: Do I need to be good at math to play Sudoku?**
+* <!-- i18n:faq:id=faq:daily-sudoku-3:q-do-i-need-to-99fa486b -->
+  **Q: Do I need to be good at math to play Sudoku?**
     *   **A:** Not at all. Sudoku is a logic puzzle, not a math puzzle. It uses numbers, but you could just as easily use nine different symbols or colors. It's all about pattern recognition and deduction.
 
-*   **Q: What happens if I enter a wrong number?**
+* <!-- i18n:faq:id=faq:daily-sudoku-3:q-what-happens-if-i-6503c463 -->
+  **Q: What happens if I enter a wrong number?**
     *   **A:** Most digital versions, including this one, will immediately highlight the mistake by showing you the conflicting numbers in red, allowing you to correct it right away.
 
-*   **Q: Why should I use the "Notes" feature?**
+* <!-- i18n:faq:id=faq:daily-sudoku-3:q-why-should-i-use-44fd4d40 -->
+  **Q: Why should I use the "Notes" feature?**
     *   **A:** For easy puzzles, you might not need it. But for medium to hard puzzles, it's almost impossible to keep all the possibilities in your head. Making notes is a fundamental technique for systematically solving complex Sudoku puzzles.
+
 

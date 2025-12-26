@@ -14,14 +14,17 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Overview
 Cut the Rope is a physics‑based puzzle game where you slice ropes to deliver a candy to Om Nom while collecting up to three stars per level. Later stages introduce mechanics like bubbles, air cushions, and hazards that change the candy’s trajectory and timing. 
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 - Swipe/click to cut ropes in the right order so the candy swings toward Om Nom.  
 - Collect stars on the way; time cuts to avoid spikes and other traps.  
 - Use interactive elements (e.g., bubbles that float the candy, air puffs that steer) when available. 
 
+<!-- i18n:section:controls -->
 ### Controls
 - Mouse/touch swipes to cut; buttons for level restart/next; some hosts add hint systems. 
 
@@ -30,8 +33,12 @@ Cut the Rope is a physics‑based puzzle game where you slice ropes to deliver a
 - Pop bubbles near target height so Om Nom can grab the candy.  
 - Grab at least two stars first; optimize for three once you understand the timing.  
 
+<!-- i18n:section:faq -->
 ### FAQ
-- Q: Do I need all stars to progress?  
+- <!-- i18n:faq:id=faq:cut-the-rope:do-i-need-all-stars-9ea07913 -->
+  Q: Do I need all stars to progress?
   A: You typically need a certain number of stars to unlock new level packs, not every single one.   
-- Q: Are there power‑ups?  
+- <!-- i18n:faq:id=faq:cut-the-rope:are-there-powerups-0fea9ab4 -->
+  Q: Are there power‑ups?
   A: Some versions include optional helpers/hints; availability varies by host. 
+
