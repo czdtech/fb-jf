@@ -12,10 +12,12 @@ releaseDate: 2025-10-17
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 2048 Fusion is a sleek and modern version of the classic 2048 sliding block puzzle. The game is played on a 4x4 grid where you must slide and combine numbered tiles. When two tiles with the same number touch, they merge into a single tile with their values added together. The primary objective is to create the elusive "2048" tile, but the game can continue beyond that for an even higher score. It's a game of foresight, strategy, and a little bit of luck.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **The Corner Strategy:** This is the most popular and effective strategy. Choose one corner of the grid (e.g., the top right) and make it your goal to always keep your highest-value tile in that spot. This provides a stable anchor to build towards.
@@ -23,18 +25,24 @@ releaseDate: 2025-10-17
 3.  **Build Chains:** Arrange your tiles in descending order leading away from your high-value corner. For example, if your 512 tile is in the corner, try to have the 256, 128, and 64 tiles in a line next to it. This makes it much easier to perform chain merges.
 4.  **Don't Chase Small Merges:** Avoid making small, isolated merges in the middle of the board. This can disrupt your structure and create tiles that are difficult to get rid of.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 *   **Desktop:** Use the **Up, Down, Left, and Right arrow keys** to move all tiles on the grid in the chosen direction.
 *   **Mobile:** **Swipe** Up, Down, Left, or Right on the screen.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: What is the goal of the game?**
+* <!-- i18n:faq:id=faq:2048-fusion:q-what-is-the-goal-ab58581b -->
+  **Q: What is the goal of the game?**
     *   **A:** The main goal is to combine tiles until you create the 2048 tile. After that, you can continue playing to see how high you can score.
 
-*   **Q: How do I lose?**
+* <!-- i18n:faq:id=faq:2048-fusion:q-how-do-i-lose-9549c6da -->
+  **Q: How do I lose?**
     *   **A:** The game ends when the grid is completely full of tiles and there are no possible moves left (i.e., no adjacent tiles have the same number).
 
-*   **Q: Where does the new tile appear?**
+* <!-- i18n:faq:id=faq:2048-fusion:q-where-does-the-new-6d8fd6f1 -->
+  **Q: Where does the new tile appear?**
     *   **A:** After every move, a new tile (either a 2 or a 4) will appear in a random empty spot on the grid.
+

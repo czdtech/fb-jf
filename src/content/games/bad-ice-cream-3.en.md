@@ -17,12 +17,14 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 *Bad Ice-Cream 3* is the third installment in the popular 2D pixel-art arcade puzzle series. It builds upon the successful formula of its predecessors, placing players in control of a sentient ice cream cone on a mission to collect all the fruit in each maze-like level.
 
 The core gameplay remains centered around the unique ability to create and destroy rows of ice blocks with a single command. This mechanic is essential for navigating the levels, defending against enemies, and solving environmental puzzles. *Bad Ice-Cream 3* introduces a host of new levels, more challenging layouts, and, most importantly, new types of enemies with unique behaviors. Some enemies are faster, some are larger, and some can even destroy the ice walls the player creates, forcing new strategies. The game retains its beloved single-player and two-player cooperative modes, making it an excellent game to play solo or with a friend on the same keyboard.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 Mastering *Bad Ice-Cream 3* requires adapting to the new threats while perfecting the core mechanics.
@@ -50,6 +52,7 @@ Don't wander aimlessly. Collect fruit in logical groups. Clear one area of the m
 *   **Cover Each Other:** Use your ice abilities to protect your partner if they get cornered. A well-timed wall can save a life.
 *   **Stay Apart:** To avoid getting trapped together and to cover more ground, it's generally best to work on opposite sides of the map.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 The controls remain consistent with the previous games, designed for easy sharing on one keyboard.
@@ -62,16 +65,22 @@ The controls remain consistent with the previous games, designed for easy sharin
     *   **Move:** `W`, `A`, `S`, `D` Keys
     *   **Action (Create/Destroy Ice):** `F` Key
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: What is the main difference between Bad Ice-Cream 2 and 3?**
+* <!-- i18n:faq:id=faq:bad-ice-cream-3:q-what-is-the-main-03fb4085 -->
+  **Q: What is the main difference between Bad Ice-Cream 2 and 3?**
     *   **A:** The biggest difference is the introduction of new enemy types with more complex behaviors. Some enemies can now destroy your ice walls, requiring you to adapt your strategies. The game also features 40 brand-new, more challenging levels.
 
-*   **Q: Can I finally kill the enemies in this game?**
+* <!-- i18n:faq:id=faq:bad-ice-cream-3:q-can-i-finally-kill-63145a61 -->
+  **Q: Can I finally kill the enemies in this game?**
     *   **A:** No, the core design remains the same. You cannot directly attack or kill enemies. You must rely on evasion and trapping them with your ice blocks.
 
-*   **Q: How do I beat the big monsters that break my ice walls?**
+* <!-- i18n:faq:id=faq:bad-ice-cream-3:q-how-do-i-beat-89425c2b -->
+  **Q: How do I beat the big monsters that break my ice walls?**
     *   **A:** You can't trap them permanently. The best strategy is to use ice walls as a momentary distraction. Place a wall to block them, then immediately use that brief window of time to escape or grab a nearby piece of fruit.
 
-*   **Q: Is there a way to get more lives?**
+* <!-- i18n:faq:id=faq:bad-ice-cream-3:q-is-there-a-way-adf9c295 -->
+  **Q: Is there a way to get more lives?**
     *   **A:** In the classic Flash game versions, there are no in-game items or ways to earn extra lives. You start with a set number of lives, and if you lose them all, you must start the level over.
+

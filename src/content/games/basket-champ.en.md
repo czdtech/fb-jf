@@ -12,10 +12,12 @@ releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Basket Champ is a minimal basketball timing game. Tap to set arc and power, thread shots through moving hoops or obstacles, and maintain streaks for big scores.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Aim above rim center for soft drops.
@@ -24,14 +26,20 @@ Basket Champ is a minimal basketball timing game. Tap to set arc and power, thre
 4.  Ignore risky coins when alignment is poor.
 5.  Use practice to nail specific obstacle patterns.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Tap/Click to set power/arc and release.
 - Pause/Retry via UI.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- Shots bounce out—fix? More arc and less power.
-- Endless? Typically yes—chase streak records.
-- Wind? Adjust for any side forces if present.
+- <!-- i18n:faq:id=faq:basket-champ:shots-bounce-outfix-25a5981f -->
+  Shots bounce out—fix? More arc and less power.
+- <!-- i18n:faq:id=faq:basket-champ:endless-ea2091be -->
+  Endless? Typically yes—chase streak records.
+- <!-- i18n:faq:id=faq:basket-champ:wind-e70091e7 -->
+  Wind? Adjust for any side forces if present.
+
 

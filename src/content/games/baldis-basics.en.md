@@ -15,12 +15,14 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Introduction
 
 *Baldi's Basics in Education and Learning* is a surreal survival horror game that masquerades as a low-budget 90s educational game. The player takes on the role of a student at Baldi's schoolhouse, with the initial objective of finding seven notebooks scattered throughout the classrooms to help a friend.
 
 The game starts innocently enough. The first notebook contains simple arithmetic problems. However, the game's true nature is revealed upon finding the second notebook, where the third question is a jumbled, unsolvable mess of numbers. Answering this question incorrectly—which is unavoidable—enrages the titular character, Baldi. Armed with a ruler, Baldi begins to hunt the player through the halls of the school. From this point on, the game becomes a tense cat-and-mouse chase. The primary goal shifts from education to survival: collect the remaining five notebooks while evading Baldi and a cast of other bizarre characters, each with their own unique way of impeding your progress, and ultimately find a way to escape the school.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy
 
 Success in *Baldi's Basics* relies on sound awareness, resource management, and understanding the behavior of each character.
@@ -41,6 +43,7 @@ Success in *Baldi's Basics* relies on sound awareness, resource management, and 
     *   **Quarter:** Can be used in vending machines to get a BSoda or on the payphone in the Principal's office to briefly distract Baldi.
 5.  **The Final Escape:** After collecting all seven notebooks, the school will turn red, an alarm will blare, and Baldi will move at his maximum speed. You must find three exits, which will initially be blocked. After touching all three fake exits, the fourth and final exit will open, allowing you to escape. This final phase is a pure test of speed, item usage, and luck.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 Controls are standard for first-person PC games.
@@ -53,14 +56,18 @@ Controls are standard for first-person PC games.
 *   **Mouse Scroll Wheel**: Cycle through your inventory items.
 *   **`Spacebar`**: Look behind you (in newer versions/updates).
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
+<!-- i18n:faq:id=faq:baldis-basics:how-do-i-solve-the-663e2116 -->
 **1. How do I solve the impossible math problem?**
 You can't. The garbled, impossible problem in the second (and subsequent) notebooks is a core game mechanic designed to be unsolvable. Answering it incorrectly is what triggers Baldi's chase.
 
+<!-- i18n:faq:id=faq:baldis-basics:why-does-baldi-get-faster-0d96165d -->
 **2. Why does Baldi get faster?**
 Baldi's speed increases with every notebook you successfully collect. This is the game's primary difficulty curve, forcing you to be more strategic as you progress.
 
+<!-- i18n:faq:id=faq:baldis-basics:what-are-the-school-rules-89dcb636 -->
 **3. What are the school rules that the Principal enforces?**
 The main rules are:
 *   No Running (he will catch you if he sees you).
@@ -68,9 +75,12 @@ The main rules are:
 *   No Drinking (using BSoda in front of him).
 *   No Bullying (this applies to the Bully character).
 
+<!-- i18n:faq:id=faq:baldis-basics:how-do-i-get-out-8f6e92ec -->
 **4. How do I get out of detention?**
 You have to wait for the timer to count down. The duration can vary. If you have the "Principal's Keys," you can use them on the door to escape instantly.
 
+<!-- i18n:faq:id=faq:baldis-basics:i-collected-all-7-notebooks-0a8ec16c -->
 **5. I collected all 7 notebooks. How do I win?**
 After getting all seven notebooks, you must find and touch three "fake" exits throughout the school. Once you've done that, a fourth, real exit will open up. You must reach that final exit to win the game.
+
 

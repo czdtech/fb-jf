@@ -13,6 +13,7 @@ releaseDate: 2025-08-16
 ---
 
 
+<!-- i18n:section:introduction -->
 *Brain Test 2: Tricky Stories* is a highly creative and challenging puzzle game developed and published by Unico Studio. It is the sequel to the widely popular *Brain Test: Tricky Puzzles*. Unlike its predecessor, which featured standalone levels, *Brain Test 2* introduces a story-driven model, organizing puzzles into coherent, character-focused chapters.
 
 The core gameplay revolves around "thinking outside the box." Players must solve a series of puzzles that appear simple but are filled with tricks and traps. These puzzles often defy conventional logic and require players to use their imagination and interact with on-screen elements in unexpected ways to find the solution.
@@ -27,6 +28,7 @@ The core gameplay revolves around "thinking outside the box." Players must solve
 
 ---
 
+<!-- i18n:section:how-to-play -->
 ### **2. How to Play**
 
 Since the essence of the game is independent thinking and the joy of discovery, providing a direct answer key for all levels would spoil the fun. Therefore, this section offers general strategies and a mindset for solving the puzzles.
@@ -48,6 +50,7 @@ Since the essence of the game is independent thinking and the joy of discovery, 
 
 ---
 
+<!-- i18n:section:controls -->
 ### **3. Operation Guide**
 
 The controls in *Brain Test 2* are intuitive and are often part of the puzzle itself. Here are the primary interaction methods:
@@ -64,14 +67,18 @@ The controls in *Brain Test 2* are intuitive and are often part of the puzzle it
 
 ---
 
+<!-- i18n:section:faq -->
 ### **4. Frequently Asked Questions (FAQ)**
 
+<!-- i18n:faq:id=faq:2-tricky-stories:im-stuck-on-a-level-cbe2e37f -->
 **Q: I'm stuck on a level. What should I do?**
 **A:** First, try all the general strategies mentioned in the "Walkthrough" section. Interact with every element, read the question carefully, and try using your phone's hardware features. If you're still clueless, use a "light bulb" hint for a clue. As a last resort, you can watch an ad to skip the level.
 
+<!-- i18n:faq:id=faq:2-tricky-stories:is-the-game-free-9403c1eb -->
 **Q: Is the game free?**
 **A:** Yes, *Brain Test 2* is a free-to-play game that contains ads. You can watch ads to get hints or skip levels. The game also offers an in-app purchase to remove all mandatory ads for a smoother gameplay experience.
 
+<!-- i18n:faq:id=faq:2-tricky-stories:how-do-i-get-more-0b80caeb -->
 **Q: How do I get more "light bulb" hints?**
 **A:** You can acquire hints in several ways:
 1.  As a reward for completing certain levels or chapters.
@@ -79,8 +86,11 @@ The controls in *Brain Test 2* are intuitive and are often part of the puzzle it
 3.  By watching optional rewarded video ads.
 4.  By purchasing them directly via in-app purchases.
 
+<!-- i18n:faq:id=faq:2-tricky-stories:what-is-the-difference-between-92bd2e3d -->
 **Q: What is the difference between Brain Test 1 and Brain Test 2?**
 **A:** The biggest difference is the structure. *Brain Test 1* consists of a series of unrelated, standalone puzzles. In contrast, *Brain Test 2* adopts a story-chapter format, where each chapter features a consistent main character and a continuous plot, making the puzzle-solving experience more engaging and goal-oriented.
 
+<!-- i18n:faq:id=faq:2-tricky-stories:does-the-game-require-an-b76f6b27 -->
 **Q: Does the game require an internet connection?**
 **A:** The game itself can be played offline. However, an internet connection is required if you want to use the hint system (watching ads for light bulbs or skipping levels).
+

@@ -61,17 +61,23 @@ The game is well-known for its two-player setup on a single keyboard.
 
 ### Frequently Asked Questions (FAQ)
 
+<!-- i18n:faq:id=faq:basketball-legends:how-do-i-perform-a-7374b543 -->
 **1. How do I perform a Super Shot?**
 You must first fill the blue power bar at the bottom of the screen by playing the game (shooting, stealing, blocking). Once the bar is full and flashing, press the designated Super Shot key (`V` for Player 1, `K` for Player 2) to perform an unblockable special shot.
 
+<!-- i18n:faq:id=faq:basketball-legends:what-is-the-best-way-fd358af9 -->
 **2. What is the best way to win a tournament?**
 Tournaments require you to win several games in a row against increasingly difficult opponents. The key is consistent defense. Focus on preventing your opponent from scoring, as your own points will come. Save your Super Shot for tie-breaking moments or to secure a lead near the end of the game.
 
+<!-- i18n:faq:id=faq:basketball-legends:why-cant-i-block-the-ef1c825d -->
 **3. Why can't I block the Super Shot?**
 The Super Shot is intentionally designed to be unblockable. It's a reward for skilled play and serves as a powerful comeback mechanic.
 
+<!-- i18n:faq:id=faq:basketball-legends:whats-the-difference-between-t-6394c71e -->
 **4. What's the difference between the characters?**
 While the game features many different characters, their core abilities are generally the same. The differences are mostly cosmetic, allowing you to play as your favorite legend.
 
+<!-- i18n:faq:id=faq:basketball-legends:can-i-pass-the-ball-eea2c74f -->
 **5. Can I pass the ball in a 2-on-2 match?**
 In most versions of the game, the "shoot" button (`B` or `L`) acts as a "pass" button when your teammate does not have the ball.
+

@@ -12,10 +12,12 @@ releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 2020 Connect is a calm, strategic number‑merge game. Draw connections between tiles of the same value to merge them into the next value, open space, and set up cascades. Smart spacing and future‑proofing keep the board alive for high scores.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Build centers: Keep higher values central so they can connect in multiple directions.
@@ -24,15 +26,21 @@ releaseDate: 2025-10-18
 4.  Space management: Always leave at least one flexible lane to escape bad spawns.
 5.  Incremental merges: Don’t rush to max a value—step merges maintain options.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Draw: Click/tap and drag to connect equal numbers per rules.
 - Undo (if available): Limited undos can salvage mis‑draws.
 - Restart: Start a fresh board at any time.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- I run out of space—what now? Focus on clearing a lane rather than chasing a single big merge.
-- Is there a win condition? Typically endless; aim for target values or high score milestones.
-- Any pattern tips? Centralize big tiles; keep small tiles near edges as feeders.
+- <!-- i18n:faq:id=faq:2020-connect:i-run-out-of-spacewhat-0acad0d6 -->
+  I run out of space—what now? Focus on clearing a lane rather than chasing a single big merge.
+- <!-- i18n:faq:id=faq:2020-connect:is-there-a-win-condition-81083b72 -->
+  Is there a win condition? Typically endless; aim for target values or high score milestones.
+- <!-- i18n:faq:id=faq:2020-connect:any-pattern-tips-24b51a6c -->
+  Any pattern tips? Centralize big tiles; keep small tiles near edges as feeders.
+
 

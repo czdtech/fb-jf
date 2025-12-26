@@ -14,6 +14,7 @@ releaseDate: 2025-08-16
  
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 *Bad Ice-Cream 2* is a charming 2D pixel-art arcade puzzle game. Players control a sentient cone of ice cream whose objective is to navigate through a series of icy, maze-like levels to collect all the scattered pieces of fruit.
@@ -43,6 +44,7 @@ There's a timer, so you can't be too slow. However, rushing recklessly will get 
 *   **Communicate:** Talk to your partner! Tell them if you're about to trap an enemy or break a wall. The biggest risk in 2-player mode is accidentally trapping your teammate.
 *   **Bait and Switch:** One player can act as a decoy to lure enemies away, while the other player safely collects the fruit.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 The game uses a shared keyboard for both single-player and two-player modes.
@@ -55,17 +57,23 @@ The game uses a shared keyboard for both single-player and two-player modes.
     *   **Move:** `W`, `A`, `S`, `D` Keys
     *   **Create/Destroy Ice:** `F` Key
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: Can I kill the enemies in the game?**
+* <!-- i18n:faq:id=faq:bad-ice-cream-2:q-can-i-kill-the-011ef9f4 -->
+  **Q: Can I kill the enemies in the game?**
     *   **A:** No, you cannot permanently kill or destroy the enemies. The only way to deal with them is to avoid them or temporarily trap them using your ice block ability.
 
-*   **Q: What happens if the timer runs out?**
+* <!-- i18n:faq:id=faq:bad-ice-cream-2:q-what-happens-if-the-b7a7f4d0 -->
+  **Q: What happens if the timer runs out?**
     *   **A:** If the timer at the top of the screen reaches zero before you have collected all the fruit, you will lose a life and have to restart the level.
 
-*   **Q: Is there a difference between the fruit types?**
+* <!-- i18n:faq:id=faq:bad-ice-cream-2:q-is-there-a-difference-89ee784c -->
+  **Q: Is there a difference between the fruit types?**
     *   **A:** No, in terms of gameplay, all fruits are the same. Your goal is simply to collect all of them, regardless of their appearance (bananas, cherries, grapes, etc.). The variety is purely cosmetic for each level's theme.
 
-*   **Q: How does the 2-player mode work? Do we have separate lives?**
+* <!-- i18n:faq:id=faq:bad-ice-cream-2:q-how-does-the-2player-8a760ff7 -->
+  **Q: How does the 2-player mode work? Do we have separate lives?**
     *   **A:** You play cooperatively on the same screen. Typically, players share a pool of lives, meaning if either player gets caught by an enemy, one life is deducted from the total. Your goal is to work together to clear the level.
+
 

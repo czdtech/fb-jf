@@ -15,6 +15,7 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Introduction
 
 *Basket Random* is a chaotic and hilarious physics-based basketball game defined by its extreme randomness. The game pits two teams of two ragdoll-like players against each other on a 2D court. The objective is simple: be the first team to score 5 points.
@@ -23,6 +24,7 @@ What makes the game unique is that almost everything changes with every point sc
 
 Players have extremely limited control over their characters, who move and jump in an unwieldy, floppy manner. The gameplay is less about precise skill and more about mastering the timing of a single button press to jump, flail, and hopefully guide the ball into the opponent's hoop. This unpredictable nature makes every match a frantic and comical experience.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy
 
 Winning in *Basket Random* is about taming the chaos, not controlling it.
@@ -35,6 +37,7 @@ Winning in *Basket Random* is about taming the chaos, not controlling it.
 4.  **Adapt Instantly to New Conditions:** After every point, take a split second to assess the new random elements. Is the court now covered in ice? Is the ball heavy? Are your arms comically long? Your strategy must change immediately. For example, on an icy court, you'll slide more, so you need to press the button earlier to account for the drift.
 5.  **Positional Awareness:** Despite the randomness, try to keep your players in a useful position. On defense, stay closer to your own basket. On offense, try to get under the ball to propel it toward the opponent's hoop.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 The game is famous for its extremely simple, single-button control scheme, designed for two players on one keyboard.
@@ -46,20 +49,27 @@ The game is famous for its extremely simple, single-button control scheme, desig
 *   **For Mobile / Touchscreen Devices:**
     *   Tap on the respective side of the screen (left side for Player 1, right side for Player 2).
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
+<!-- i18n:faq:id=faq:basket-random:how-do-i-properly-control-7c361830 -->
 **1. How do I properly control my character?**
 You don't—and that's the point of the game! You can only influence your character by timing your jumps. The ragdoll physics are designed to be clumsy and unpredictable for comedic effect.
 
+<!-- i18n:faq:id=faq:basket-random:why-does-the-courtballplayer-c-3e32a4e8 -->
 **2. Why does the court/ball/player change after every point?**
 This is the core "Random" mechanic of the game. It ensures that no two rounds are the same and keeps the gameplay fresh and unpredictable.
 
+<!-- i18n:faq:id=faq:basket-random:how-do-i-win-a-0ebcf537 -->
 **3. How do I win a match?**
 The first player (or team) to score 5 points wins the entire match.
 
+<!-- i18n:faq:id=faq:basket-random:can-i-play-this-game-0d71baf7 -->
 **4. Can I play this game by myself?**
 Yes, *Basket Random* includes a single-player mode where you can compete against a computer-controlled AI opponent.
 
+<!-- i18n:faq:id=faq:basket-random:what-is-the-best-random-b388b359 -->
 **5. What is the best "random" variation?**
 There is no "best" variation, as they are all designed to be chaotic. However, some players find the long-armed players useful for blocking and shooting, while others enjoy the challenge of a heavy bowling ball or an icy court. The fun comes from adapting to whatever the game throws at you.
+
 

@@ -12,10 +12,12 @@ releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Aqua Blocks is a relaxing block‑placement game. Place given shapes to fill lines or regions, make space with multi‑line clears, and avoid creating sealed cavities.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Keep edges tidy to prevent stray single cells.
@@ -24,13 +26,19 @@ Aqua Blocks is a relaxing block‑placement game. Place given shapes to fill lin
 4.  Save emergency slots for awkward shapes.
 5.  Use previews (if any) to plan sequences.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Drag shapes onto the grid; rotate if supported.
 - Undo/Reset via UI.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- No space left—what now? Undo and re‑plan; otherwise restart.
-- Rotations? Depends on the variant.
-- Endless? Typically yes.
+- <!-- i18n:faq:id=faq:aqua-blocks:no-space-leftwhat-now-de5570f7 -->
+  No space left—what now? Undo and re‑plan; otherwise restart.
+- <!-- i18n:faq:id=faq:aqua-blocks:rotations-634fab63 -->
+  Rotations? Depends on the variant.
+- <!-- i18n:faq:id=faq:aqua-blocks:endless-ea2091be -->
+  Endless? Typically yes.
+

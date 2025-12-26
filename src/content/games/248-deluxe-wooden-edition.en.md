@@ -12,10 +12,12 @@ releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 248 Deluxe Wooden edition offers tactile number‑merge play on a wooden‑style board. Link adjacent equal numbers to merge upward, creating room and chasing target values without clogging the grid.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Keep highs central and feeders at edges.
@@ -24,14 +26,20 @@ releaseDate: 2025-10-18
 4.  Clear space when crowded before chasing large merges.
 5.  Plan two turns ahead to preserve flexibility.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Drag across equal numbers to merge per rules.
 - Undo/Reset if provided.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- Board locks quickly—why? You’re isolating numbers; maintain lanes.
-- Infinite? Typically endless score‑chasing.
-- Hints? Often available; use sparingly.
+- <!-- i18n:faq:id=faq:248-deluxe-wooden-edition:board-locks-quicklywhy-c408395d -->
+  Board locks quickly—why? You’re isolating numbers; maintain lanes.
+- <!-- i18n:faq:id=faq:248-deluxe-wooden-edition:infinite-1937d7e2 -->
+  Infinite? Typically endless score‑chasing.
+- <!-- i18n:faq:id=faq:248-deluxe-wooden-edition:hints-27c5017f -->
+  Hints? Often available; use sparingly.
+
 

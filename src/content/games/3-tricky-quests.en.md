@@ -14,6 +14,7 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 *Brain Test 3: Tricky Quests* is the third installment in the series from Unico Studio. While preserving the core "think outside the box" and "break the rules" puzzle-solving gameplay, this title introduces a significant evolution by incorporating stronger adventure and narrative elements, making it feel more like a puzzle-adventure game.
 
 In the game, players take on the role of **Alyx**, who embarks on a journey to find six Power Gems to save her magically trapped father. Unlike the level-based structure of its predecessors, *Brain Test 3* features an interconnected game world and a complete, overarching storyline.
@@ -28,6 +29,7 @@ In the game, players take on the role of **Alyx**, who embarks on a journey to f
 
 ---
 
+<!-- i18n:section:tips -->
 ### **2. Game Walkthrough**
 
 The strategy for *Brain Test 3* not only inherits the mindset of the previous games but also requires a greater focus on resource management and exploration.
@@ -51,6 +53,7 @@ The strategy for *Brain Test 3* not only inherits the mindset of the previous ga
 
 ---
 
+<!-- i18n:section:controls -->
 ### **3. Operation Guide**
 
 The controls in *Brain Test 3* build upon the foundation of its predecessors, with the addition of inventory interactions.
@@ -66,19 +69,25 @@ The controls in *Brain Test 3* build upon the foundation of its predecessors, wi
 
 ---
 
+<!-- i18n:section:faq -->
 ### **4. Frequently Asked Questions (FAQ)**
 
+<!-- i18n:faq:id=faq:3-tricky-quests:how-do-i-use-the-b86c92eb -->
 **Q: How do I use the items in my backpack (inventory)?**
 **A:** Tap the backpack icon at the bottom of the screen to open it. Then, press and hold the item you want to use and drag it to the target location in the game scene. To combine items, drag one item onto another within the inventory screen.
 
+<!-- i18n:faq:id=faq:3-tricky-quests:what-is-the-fundamental-differ-4486966d -->
 **Q: What is the fundamental difference between Brain Test 3 and the first two games?**
 **A:** The main difference lies in the game structure. *Brain Test 1* is a collection of standalone puzzles. *Brain Test 2* introduced story-based chapters. *Brain Test 3* evolves into a full-fledged puzzle-adventure game with a complete main story, an inventory system, and an interconnected map, offering more freedom and continuity.
 
+<!-- i18n:faq:id=faq:3-tricky-quests:why-cant-i-get-past-522c207f -->
 **Q: Why can't I get past a certain area?**
 **A:** It's highly likely you are missing a key item. Try returning to previously visited scenes and search carefully for any collectible items you may have missed. Also, check if you can craft a new quest item in your workshop.
 
+<!-- i18n:faq:id=faq:3-tricky-quests:is-this-game-free-a3b0cc70 -->
 **Q: Is this game free?**
 **A:** Yes, *Brain Test 3* is free to download and play, but it contains ads. You can watch ads to receive hints. The game also offers an in-app purchase to remove ads.
 
+<!-- i18n:faq:id=faq:3-tricky-quests:what-is-the-workshop-for-ca2fadbe -->
 **Q: What is the Workshop for?**
 **A:** The workshop is a crucial location for advancing the main plot. When you collect specific quest items (like fragments of a Power Gem), you need to return to the workshop to assemble them or to craft/upgrade special tools necessary for your progress.

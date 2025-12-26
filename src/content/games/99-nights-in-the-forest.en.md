@@ -23,6 +23,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### **99 Nights in the Forest Game Introduction**
 
 *99 Nights in the Forest* is a first-person survival horror game focused on resource management and base defense. The player is trapped in a cursed forest with a single objective: survive for 99 consecutive nights by defending a dilapidated cabin from monstrous creatures that attack each night.
@@ -33,6 +34,7 @@ The game's core mechanic is its distinct **day-night cycle**:
 
 The game heavily emphasizes **preparation and planning**. Your efficiency during the day directly determines your chances of survival at night. As the days progress, the number and aggression of the enemies will increase, presenting a tougher challenge to your resource stockpile and defensive strategy. A key feature of the game is **permadeath**—if the player dies, they must start over from Day 1.
 
+<!-- i18n:section:tips -->
 ### **Gameplay Strategy & Tips**
 
 1.  **Day One Goal: Barricade All Windows**: Your sole objective on your first day should be to gather enough wood and scrap metal to craft planks and nails and board up every single window in the cabin before nightfall. This is the most basic requirement for surviving the early nights.
@@ -45,6 +47,7 @@ The game heavily emphasizes **preparation and planning**. Your efficiency during
 5.  **Combat is a Last Resort**: While you can fight back with tools like an axe, it is extremely risky. Your primary goal is to **keep the enemies out**, not to kill them. You are only forced to fight when a barricade is completely destroyed and an enemy enters the cabin.
 6.  **Upgrade Progressively**: Don't get complacent. As the game progresses, you must continuously reinforce your defenses. For example, use more planks and nails to upgrade your window barricades, making them more durable.
 
+<!-- i18n:section:controls -->
 ### **Controls Guide**
 
 The game uses standard first-person controls.
@@ -58,16 +61,22 @@ The game uses standard first-person controls.
 *   **Use Tool / Attack**: `Left Mouse Button`
 *   **Aim / Secondary Action**: `Right Mouse Button`
 
+<!-- i18n:section:faq -->
 ### **Frequently Asked Questions (FAQ)**
 
+<!-- i18n:faq:id=faq:99-nights-in-the-forest:can-the-enemies-in-the-599bfef0 -->
 **1. Can the enemies in the game be killed?**
 Yes. If an enemy breaches your defenses and enters the cabin, you can attack it with an axe or other weapons until it is dead. However, this usually means your defense has failed and you are in a very dangerous situation. Therefore, the core strategy should always be defense, not offense.
 
+<!-- i18n:faq:id=faq:99-nights-in-the-forest:what-happens-if-i-die-3fb01fbd -->
 **2. What happens if I die?**
 The game features a **permadeath** mechanic. This means that if you die, your save file is deleted, and you must start the entire game over from Night 1, losing all prior progress.
 
+<!-- i18n:faq:id=faq:99-nights-in-the-forest:how-do-i-survive-the-816fd603 -->
 **3. How do I survive the first night?**
 On the first day, chop down at least 2-3 trees to get enough logs and search the surrounding ground for scrap metal. Open your inventory to craft the logs into planks and the scrap metal into nails. Before sunset, use the planks and nails to barricade all the windows (usually by pressing `E` to interact). After dark, stay inside, close the door, and listen carefully to the sounds outside.
 
+<!-- i18n:faq:id=faq:99-nights-in-the-forest:where-can-i-find-scrap-7f8b30f6 -->
 **4. Where can I find Scrap Metal?**
 Scrap metal is usually found scattered on the forest floor or near certain landmarks. Its spawn locations are random, requiring players to explore carefully during the day. It is the only material for crafting nails and is therefore critically important.
+

@@ -12,10 +12,12 @@ releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 3D Football Mania condenses soccer fundamentals into short scenarios. Read defenders, choose passes, and time shots to beat the keeper in quick, replayable challenges.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Use through‑balls: Lead passes into space rather than feet.
@@ -24,18 +26,24 @@ releaseDate: 2025-10-18
 4.  Fake and shoot: Small feints open lanes.
 5.  Rebounds: Follow shots for tap‑ins.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Move/Pass/Shoot per on‑screen prompts; swipe or buttons.
 - Aim shots with drag; set power by hold length.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- Keeper blocks everything—tips? 
+- <!-- i18n:faq:id=faq:3d-football-mania:keeper-blocks-everythingtips-6ac4f81c -->
+  Keeper blocks everything—tips?
 Shoot across goal and keep shots low or curled.
 
-- Passing too slow? 
+- <!-- i18n:faq:id=faq:3d-football-mania:passing-too-slow-619ffb34 -->
+  Passing too slow?
 Lead into space and pass earlier.
 
-- Defenders crowd me—fix? 
+- <!-- i18n:faq:id=faq:3d-football-mania:defenders-crowd-mefix-a4cae96e -->
+  Defenders crowd me—fix?
 Pass and move; don’t dribble into traffic.
+

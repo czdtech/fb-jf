@@ -16,12 +16,14 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Introduction
 
 *Ballistic* is a modern, physics-based arcade game that blends strategy, skill, and satisfying action. The player is tasked with a simple yet challenging objective: clear a grid of numbered blocks by shooting a barrage of balls at them before the blocks descend to the bottom of the screen. Each block is marked with a number, indicating how many hits it must sustain before it is destroyed.
 
 The core of the game lies in its dynamic physics engine. Players don't just aim directly at blocks; they must strategically plan their shots to create ricochets off walls and other blocks, setting off massive chain reactions. After each shot, the entire grid of blocks moves down one row, increasing the pressure. The game becomes a tense battle of clearing the board efficiently while collecting special items like extra balls and power-ups to enhance your firepower. With its vibrant visuals, smooth controls, and endless replayability, *Ballistic* is designed to be an addictive experience for both casual players and high-score chasers.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy
 
 Mastering *Ballistic* is about thinking several steps ahead and making every shot count.
@@ -33,6 +35,7 @@ Mastering *Ballistic* is about thinking several steps ahead and making every sho
 5.  **Utilize Power-ups Strategically:** Keep an eye out for special power-up blocks. These can provide game-changing boosts, like clearing an entire row or providing a super-powerful shot. Hitting them at the right moment can save you from a losing situation.
 6.  **Maximize Chain Reactions:** Plan your shots to not only clear blocks but also to open up paths for subsequent bounces. A well-placed shot can trigger a satisfying cascade of destruction that clears a significant portion of the board.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 The game features intuitive controls that are easy to learn.
@@ -42,20 +45,27 @@ The game features intuitive controls that are easy to learn.
 *   **For Mobile / Touchscreen Devices:**
     *   **Touchscreen:** Tap and hold on the screen to activate the aiming guide. Drag your finger to aim, and release to shoot.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
+<!-- i18n:faq:id=faq:ballistic:what-do-the-numbers-on-03af9ef6 -->
 **1. What do the numbers on the blocks mean?**
 The number on each block represents its "health." It indicates the number of times a ball must hit that block before it is destroyed.
 
+<!-- i18n:faq:id=faq:ballistic:how-do-i-get-more-67101d1f -->
 **2. How do I get more balls to shoot?**
 You can increase the number of balls in your arsenal by hitting the special "extra ball" collectibles (usually a circle with a "+" inside) that appear on the grid.
 
+<!-- i18n:faq:id=faq:ballistic:what-happens-if-the-blocks-9a123cc9 -->
 **3. What happens if the blocks reach the bottom of the screen?**
 If any block touches the bottom line of the play area, the game is over.
 
+<!-- i18n:faq:id=faq:ballistic:is-every-round-of-the-80cb1e07 -->
 **4. Is every round of the game the same?**
 No. The placement of blocks and power-ups changes with each new game, ensuring that every round is a fresh and unique challenge.
 
+<!-- i18n:faq:id=faq:ballistic:what-is-the-best-strategy-0308231c -->
 **5. What is the best strategy for a high score?**
 The key to a high score is survival and efficiency. Last as long as possible by strategically clearing blocks, continuously increase your ball count, and use angled shots to create massive chain reactions that clear many blocks at once.
+
 

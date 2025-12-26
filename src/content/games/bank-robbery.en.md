@@ -14,6 +14,7 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Introduction
 
 *Bank Robbery 2* is a team-based, first-person shooter game where players are divided into two opposing factions: Cops and Robbers. The game revolves around a central, high-stakes objective: a bank heist.
@@ -24,6 +25,7 @@ As a **Cop**, the objective is to defend the bank and uphold the law. This invol
 
 The game takes place in an urban environment with the bank as the focal point. Players can use a variety of weapons, tools, and vehicles to achieve their team's goals, earning in-game currency to purchase better equipment for future rounds.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy
 
 Success is highly dependent on which team you are on.
@@ -44,6 +46,7 @@ Success is highly dependent on which team you are on.
 4.  **Prioritize Defusing the Drill:** If a drill is active, stopping it is your top priority. Provide cover for a teammate who is attempting to defuse it, as they will be completely vulnerable during the process.
 5.  **Cut Off the Escape:** If the robbers manage to grab the money, your objective shifts to interception. Use police cars to chase them down or set up roadblocks on the path to their getaway point.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 The game uses standard first-person shooter controls common on its platform (Roblox for PC).
@@ -59,19 +62,26 @@ The game uses standard first-person shooter controls common on its platform (Rob
 *   **Number Keys (`1`, `2`, `3`...)**: Switch between your equipped weapons and items.
 *   **`C` Key**: Crouch (if available in the specific version).
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
+<!-- i18n:faq:id=faq:bank-robbery:how-do-i-get-better-882d3244 -->
 **1. How do I get better weapons and equipment?**
 You earn in-game cash by completing objectives (stealing money as a robber, stopping robbers as a cop) and eliminating opponents. You can then use this cash in the game's shop to purchase a wide variety of new guns, armor, and tools.
 
+<!-- i18n:faq:id=faq:bank-robbery:as-a-robber-the-drill-14c81697 -->
 **2. As a Robber, the drill keeps getting defused. What should I do?**
 Teamwork is the only solution. You cannot leave the drill unattended. You need at least one or two teammates dedicated to defending the area while the drill is running.
 
+<!-- i18n:faq:id=faq:bank-robbery:as-a-cop-we-are-9863dae1 -->
 **3. As a Cop, we are always overwhelmed. How can we defend better?**
 Avoid grouping up in one predictable spot. Use the entire bank as your defense area. By spreading out, you can get early warnings of where the robbers are attacking from and flank them when they commit to drilling a specific vault.
 
+<!-- i18n:faq:id=faq:bank-robbery:what-is-the-best-way-05d6ac20 -->
 **4. What is the best way to enter the bank as a Robber?**
 There is no single "best" way, as it depends on how the Cops set up their defense. The most effective strategy is often a surprise attack. Using C4 on a side wall or finding an unguarded back entrance is usually more successful than a direct assault on the front doors.
 
+<!-- i18n:faq:id=faq:bank-robbery:can-i-switch-teams-during-61152304 -->
 **5. Can I switch teams during a game?**
 Typically, team selection happens before the round begins, and you are locked into that team until the next game to maintain balance.
+

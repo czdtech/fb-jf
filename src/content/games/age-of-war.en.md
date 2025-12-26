@@ -12,6 +12,7 @@ developer: ""
 releaseDate: 2025-08-16
 ---
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Age of War is a classic 2D side-scrolling strategy game that became widely popular during the Flash game era. The game's core concept is a battle between two bases, one belonging to the player and the other to an AI opponent. The unique and defining feature of the game is its "evolution" mechanic. Players start in the Stone Age (as cavemen) and must earn experience points (XP) to advance through five distinct eras: Stone Age, Middle Ages, Modern Age, and finally, the Future Age. Each evolution not only unlocks more powerful units and defensive turrets but also fully restores your base's health. The ultimate goal is simple: survive the enemy's onslaught and destroy their base.
@@ -35,6 +36,7 @@ Mastering Age of War requires a balance of offense, defense, and strategic timin
 *   **Advanced Turrets:** Fully upgrade your turrets. The final-era turrets deal massive damage and are essential for defending against the enemy's powerful futuristic units.
 *   **Final Push:** Coordinate your most powerful units with your special ability for a final, decisive push to destroy the enemy base.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 The game is controlled almost entirely with the mouse.
@@ -44,16 +46,22 @@ The game is controlled almost entirely with the mouse.
 *   **Use Special Ability:** Click the special ability icon on the top-right of the screen when it's ready (not on cooldown).
 *   **Evolve:** Click the "Evolve" button at the top-right of the screen once you have accumulated enough XP.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: How do I get XP?**
+* <!-- i18n:faq:id=faq:age-of-war:q-how-do-i-get-9279e7e6 -->
+  **Q: How do I get XP?**
     *   **A:** You gain Experience Points (XP) every time one of your units kills an enemy unit.
 
-*   **Q: What is the best unit in the game?**
+* <!-- i18n:faq:id=faq:age-of-war:q-what-is-the-best-94cf492b -->
+  **Q: What is the best unit in the game?**
     *   **A:** While it depends on the situation, the "Super Soldier" from the Future Age is widely considered the most powerful all-around unit due to its high health and damage. In the early game, the basic Club Man is the most effective for its cost.
 
-*   **Q: Is it better to build more turrets or train more units?**
+* <!-- i18n:faq:id=faq:age-of-war:q-is-it-better-to-f6ee451c -->
+  **Q: Is it better to build more turrets or train more units?**
     *   **A:** In the early game, a mix is best. One or two turrets provide stable defense, allowing you to save gold for a strong offensive army. In the late game, having fully upgraded turrets is crucial for survival.
 
-*   **Q: Where can I play Age of War now that Flash is gone?**
+* <!-- i18n:faq:id=faq:age-of-war:q-where-can-i-play-d6112852 -->
+  **Q: Where can I play Age of War now that Flash is gone?**
     *   **A:** Many gaming websites like CrazyGames, Armor Games, and Kongregate now host Age of War using Flash emulators (like Ruffle), making it fully playable in modern web browsers. There are also mobile versions available on iOS and Android app stores.
+

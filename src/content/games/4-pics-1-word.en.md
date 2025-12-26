@@ -62,15 +62,20 @@ While the game is simple, a few strategies can help you solve puzzles more effic
 
 ### Frequently Asked Questions (FAQ)
 
+<!-- i18n:faq:id=faq:4-pics-1-word:is-4-pics-1-word-adb8e06b -->
 **Q: Is *4 Pics 1 Word* free to play?**
 **A:** Yes, the game is free to download and play. It is supported by in-app purchases (where you can buy more coins for hints) and sometimes advertisements.
 
+<!-- i18n:faq:id=faq:4-pics-1-word:what-happens-if-i-run-226da951 -->
 **Q: What happens if I run out of coins and am stuck?**
 **A:** Your best free option is to use the "Ask a Friend" feature to share the puzzle. You also earn free coins for solving puzzles, so you can always go back to easier levels (if the version allows) or wait for a daily bonus, if available.
 
+<!-- i18n:faq:id=faq:4-pics-1-word:do-the-four-pictures-always-ed5f9c40 -->
 **Q: Do the four pictures always relate in the same way?**
 **A:** No, and that's the core challenge. Sometimes all four pictures show different examples of the same object (e.g., four types of balls). Other times, they represent a shared concept (e.g., pictures related to "cold": an ice cube, a person shivering, a thermometer showing a low temperature, and a snowy landscape).
 
+<!-- i18n:faq:id=faq:4-pics-1-word:is-the-game-available-in-27fc2a0d -->
 **Q: Is the game available in other languages?**
 **A:** Yes, *4 Pics 1 Word* is available in many different languages. The puzzles and answers are localized for each language.
+
 

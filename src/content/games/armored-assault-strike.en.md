@@ -12,10 +12,12 @@ releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Armored Assault Strike blends arcade shooting with light positioning. Circle tough foes, use terrain for cover, and chain abilities to break waves efficiently without overexposing your hull.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Kite elites and break line‑of‑sight when pressured.
@@ -24,13 +26,19 @@ Armored Assault Strike blends arcade shooting with light positioning. Circle tou
 4.  Route safe pickups and avoid mid‑fight crossovers.
 5.  Save escapes (dash/shield) for emergencies.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Move with WASD/Arrows; aim/fire per UI; trigger abilities on hotkeys.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- I melt fast—why? Overexposed in the open; use cover and kiting.
-- Ammo limited? Conserve on trash; burst elites.
-- Bosses? Learn patterns and break adds first.
+- <!-- i18n:faq:id=faq:armored-assault-strike:i-melt-fastwhy-994e5bc4 -->
+  I melt fast—why? Overexposed in the open; use cover and kiting.
+- <!-- i18n:faq:id=faq:armored-assault-strike:ammo-limited-9be95bd9 -->
+  Ammo limited? Conserve on trash; burst elites.
+- <!-- i18n:faq:id=faq:armored-assault-strike:bosses-5a57d05f -->
+  Bosses? Learn patterns and break adds first.
+
 

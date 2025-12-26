@@ -13,6 +13,7 @@ releaseDate: 2025-08-16
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Alien Hominid is a fast-paced 2D side-scrolling run-and-gun shooter developed by The Behemoth. It originated as a popular Flash game on the Newgrounds portal in 2002 before being expanded into a full console release for PlayStation 2, Nintendo GameCube, and Xbox. The game is renowned for its charming, hand-drawn art style by Dan Paladin, its chaotic and challenging gameplay, and its quirky sense of humor.
@@ -38,6 +39,7 @@ Alien Hominid is notoriously difficult. Success relies on reflexes, pattern memo
 *   **Prioritize Threats:** Always identify and eliminate the most dangerous enemies first—usually those with rapid-fire weapons or who launch projectiles.
 *   **Learn Boss Patterns:** Every boss follows a strict attack pattern. The key to victory is observation. Spend your first few attempts learning their moves and identifying safe spots and attack windows. Don't get greedy; land a few shots and then prepare to dodge again.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 Controls can vary slightly between the Flash version and console/HD versions, but the core functions remain the same.
@@ -52,17 +54,23 @@ Controls can vary slightly between the Flash version and console/HD versions, bu
     *   **Melee Attack:** Get close to an enemy and press the Shoot button.
     *   **Ride/Chomp:** Jump directly on top of an enemy's head.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: Why is Alien Hominid so difficult?**
+* <!-- i18n:faq:id=faq:alien-hominid:q-why-is-alien-hominid-691593a9 -->
+  **Q: Why is Alien Hominid so difficult?**
     *   **A:** The game's high difficulty is intentional, designed to emulate the challenge of classic 8-bit and 16-bit arcade games. The one-hit-kill system requires players to play with near-perfect execution.
 
-*   **Q: What is the difference between the original Flash game and the HD/console versions?**
+* <!-- i18n:faq:id=faq:alien-hominid:q-what-is-the-difference-f02af029 -->
+  **Q: What is the difference between the original Flash game and the HD/console versions?**
     *   **A:** The console and HD versions are greatly expanded. They feature more levels, additional enemies and bosses, improved graphics and sound, a 2-player co-op mode, and numerous mini-games and unlockable hats for your alien.
 
-*   **Q: How do I beat the final boss?**
+* <!-- i18n:faq:id=faq:alien-hominid:q-how-do-i-beat-1856fd4a -->
+  **Q: How do I beat the final boss?**
     *   **A:** The final boss is a multi-stage endurance fight. The key, like with all bosses, is to patiently learn the patterns of each phase. Focus on dodging first and only attack when you have a clear, safe opening.
 
-*   **Q: Is *Alien Hominid Invasion* the same game?**
+* <!-- i18n:faq:id=faq:alien-hominid:q-is-alien-hominid-invasion-6b18b22e -->
+  **Q: Is *Alien Hominid Invasion* the same game?**
     *   **A:** No. *Alien Hominid Invasion* is a modern follow-up and a "reimagining" of the original. It features co-op-focused, non-linear gameplay with rogue-lite elements, character progression, and different mechanics. It's a new game set in the same universe, not a remake.
+
 

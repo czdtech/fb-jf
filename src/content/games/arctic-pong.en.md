@@ -17,10 +17,12 @@ releaseDate: 2025-10-18
 
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Arctic Pong is a simple, chilly spin on classic Pong. Move your paddle to return the puck, angle shots off edges, and pressure your opponent with pace and placement.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Aim corners: Strike near paddle edges to change return angles.
@@ -29,14 +31,20 @@ Arctic Pong is a simple, chilly spin on classic Pong. Move your paddle to return
 4.  Read bounces: Predict wall angles to pre‑position earlier.
 5.  Serve control: Use serves to set early pressure.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Move paddle: Arrow keys / WASD or drag.
 - Modes: Local 2‑player and solo vs. AI are common.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- Is there spin? Some versions approximate angle via contact point; no complex spin.
-- Best defense? Stay centered and react to edge bounces.
-- Quick wins? Vary angles and tempo to force mistakes.
+- <!-- i18n:faq:id=faq:arctic-pong:is-there-spin-baa5b3bf -->
+  Is there spin? Some versions approximate angle via contact point; no complex spin.
+- <!-- i18n:faq:id=faq:arctic-pong:best-defense-827d0d94 -->
+  Best defense? Stay centered and react to edge bounces.
+- <!-- i18n:faq:id=faq:arctic-pong:quick-wins-c88c13f8 -->
+  Quick wins? Vary angles and tempo to force mistakes.
+
 
