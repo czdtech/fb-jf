@@ -38,6 +38,7 @@ tmp-*
 
 # test outputs
 test-results/
+visual-test-artifacts/
 
 # environment variables
 .env
