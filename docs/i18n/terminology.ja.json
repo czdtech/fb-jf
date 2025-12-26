@@ -1,0 +1,14 @@
+{
+  "locale": "ja",
+  "version": 1,
+  "rules": [
+    {
+      "id": "ja-idle-clicker-slash",
+      "kind": "regex",
+      "from": "放置\\s*/\\s*クリッカー",
+      "to": "放置系クリッカー",
+      "note": "统一写法：放置/クリッカー → 放置系クリッカー"
+    }
+  ]
+}
+

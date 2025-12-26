@@ -1,0 +1,14 @@
+{
+  "locale": "ko",
+  "version": 1,
+  "rules": [
+    {
+      "id": "ko-endless-mixless",
+      "kind": "regex",
+      "from": "끝less",
+      "to": "끝없는",
+      "note": "修复混写：끝less → 끝없는"
+    }
+  ]
+}
+
