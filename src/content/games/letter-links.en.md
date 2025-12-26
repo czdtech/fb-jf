@@ -12,10 +12,12 @@ releaseDate: 2025-10-17
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Letter Links is a strategic word-building game that shares similarities with Scrabble. Each day, you are given a new set of letter tiles, each with a point value. Your goal is to place these tiles on a game board to form valid, interconnected words, much like a crossword puzzle. By strategically utilizing high-value letters and special bonus squares on the board, you aim to achieve the highest possible score.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Know Your Bonuses:** The key to a high score is using the bonus squares effectively.
@@ -28,20 +30,26 @@ Letter Links is a strategic word-building game that shares similarities with Scr
 3.  **Create Overlaps:** Don't just build one long word. The best way to score is to make a move that forms multiple words at once. For example, placing a tile that simultaneously completes a horizontal word and forms a new vertical word.
 4.  **Use High-Value Letters Wisely:** Save your high-value letters (like Z, Q, J, X) to be placed on bonus squares like DL, TL, DW, or TW to maximize their impact.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 *   **Place Tiles:** Click and drag a letter tile from your rack at the bottom to a square on the game board.
 *   **Recall Tiles:** You can drag a placed tile back to your rack before submitting if you change your mind.
 *   **Submit:** Once you have placed your tiles, click the "Submit Words" button to lock them in and calculate your score.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: Why was my word rejected?**
+* <!-- i18n:faq:id=faq:letter-links:q-why-was-my-word-4bce7331 -->
+  **Q: Why was my word rejected?**
     *   **A:** There are a few possibilities: 1) It's not a valid word in the game's dictionary. 2) Not all of your placed tiles are connected in a single group. 3) The center star square was not used.
 
-*   **Q: How are points calculated?**
+* <!-- i18n:faq:id=faq:letter-links:q-how-are-points-calculated-9ad73a75 -->
+  **Q: How are points calculated?**
     *   **A:** The score for a word is the sum of the values of its letters, multiplied by any word bonuses (DW, TW). Letter bonuses (DL, TL) are applied to individual letters before the word multipliers.
 
-*   **Q: Can I play diagonally?**
+* <!-- i18n:faq:id=faq:letter-links:q-can-i-play-diagonally-9c4fe9aa -->
+  **Q: Can I play diagonally?**
     *   **A:** No. All words must be formed horizontally (left-to-right) or vertically (top-to-bottom).
+
 

@@ -13,10 +13,12 @@ releaseDate: 2025-10-18
 
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Mad Honey is a short, pick‑up‑and‑play adventure about gathering nectar while avoiding simple enemies and environmental hazards. Levels emphasize careful flight paths, timing through patrols, and safe returns to score.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Plot routes: Identify nectar clusters and patrol paths before committing.
@@ -25,15 +27,21 @@ Mad Honey is a short, pick‑up‑and‑play adventure about gathering nectar wh
 4.  Watch timers: Deposit nectar regularly if a timer or carry limit exists.
 5.  Risk vs. reward: Skip tight pickups when low on time or health.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Move: Arrow keys / WASD or analog drag.
 - Interact: Automatic pickups on contact.
 - Retry: Quick restart for clean runs.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- Enemies feel cheap—tips? Learn their patrol cycles; wait for clean windows rather than forcing gaps.
-- Is there scoring depth? Longer chains and clean returns typically grant bonuses.
-- Can I tank hits? Many modes penalize health harshly; prioritize survival.
+- <!-- i18n:faq:id=faq:mad-honey:enemies-feel-cheaptips-edf8f179 -->
+  Enemies feel cheap—tips? Learn their patrol cycles; wait for clean windows rather than forcing gaps.
+- <!-- i18n:faq:id=faq:mad-honey:is-there-scoring-depth-e44d6446 -->
+  Is there scoring depth? Longer chains and clean returns typically grant bonuses.
+- <!-- i18n:faq:id=faq:mad-honey:can-i-tank-hits-e3029f36 -->
+  Can I tank hits? Many modes penalize health harshly; prioritize survival.
+
 

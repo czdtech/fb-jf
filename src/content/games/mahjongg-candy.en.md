@@ -12,10 +12,12 @@ developer: ""
 releaseDate: 2025-08-16
 ---
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 Mahjongg Candy is a sweet and engaging tile-matching puzzle game that puts a colorful, candy-themed spin on the classic Mahjongg Solitaire. The objective is to clear the entire board by finding and matching identical pairs of candy tiles. It's a game that tests your observation skills, pattern recognition, and strategic thinking.
 
+<!-- i18n:section:tips -->
 ### Gameplay Guide
 
 - **Matching Pairs:** Click or tap on two identical candy tiles to remove them from the board.
@@ -24,10 +26,12 @@ Mahjongg Candy is a sweet and engaging tile-matching puzzle game that puts a col
 - **Strategy:** Look for matches that will free up more tiles, especially those that are blocking other tiles. Don't just match the first pair you see.
 - **Scoring:** Longer chains of matches or faster completion often lead to higher scores. Some tiles might offer score multipliers.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - **Mouse/Touch:** Use your mouse or finger to click/tap on the tiles to select them.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
 **What is the goal of Mahjongg Candy?**
@@ -41,4 +45,5 @@ Many Mahjongg games offer hints that can reveal a possible match, or a shuffle o
 **How can I improve my game?**
 
 Practice recognizing patterns and planning your moves several steps ahead. Prioritize clearing tiles that are blocking many other tiles. Try to create cascades of matches.
+
 

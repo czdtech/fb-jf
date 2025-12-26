@@ -12,10 +12,12 @@ releaseDate: 2025-10-17
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Merge the Gems is a simple, relaxing, and highly addictive puzzle game centered around merging identical gems to create new, more valuable ones. You start with basic, uncut stones and combine them to progressively form sparkling, elaborate jewels. The goal is to manage your game board, continuously merge to discover new gem types, and fulfill objectives to earn points and coins.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **The Merge Chain:** The core of the game is to drag one gem and drop it onto an identical gem. The two will then merge into a single, new gem of a higher level. The key is to keep merging to create more space and discover more valuable jewels.
@@ -23,6 +25,7 @@ Merge the Gems is a simple, relaxing, and highly addictive puzzle game centered 
 3.  **Use Coins to Accelerate:** While the game will periodically give you a free basic gem, the fastest way to progress is to use the coins you earn to buy more gems from the shop. This allows you to create high-level gems much more quickly.
 4.  **Fulfill Goals:** Pay attention to any goals or orders that may appear. Completing these challenges is the best way to earn large amounts of coins and advance in the game.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 The game is played with simple drag-and-drop controls.
@@ -30,14 +33,19 @@ The game is played with simple drag-and-drop controls.
 *   **Merge Gems:** Click and drag one gem and drop it onto another identical gem to merge them.
 *   **Buy Gems:** Click on the shop icon to purchase gems you have already discovered.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: How do I get new gems?**
+* <!-- i18n:faq:id=faq:merge-the-gems:q-how-do-i-get-a4e41d81 -->
+  **Q: How do I get new gems?**
     *   **A:** A new, basic gem will appear automatically on an empty spot after a short timer. You can also spend coins in the shop to buy gems directly.
 
-*   **Q: What is the main objective?**
+* <!-- i18n:faq:id=faq:merge-the-gems:q-what-is-the-main-212faaec -->
+  **Q: What is the main objective?**
     *   **A:** To discover all the different types of gems by merging them and to complete any given tasks to earn the highest score possible.
 
-*   **Q: My board is full and I can't make any moves. What should I do?**
+* <!-- i18n:faq:id=faq:merge-the-gems:q-my-board-is-full-6b64b9a8 -->
+  **Q: My board is full and I can't make any moves. What should I do?**
     *   **A:** You need to free up space. Double-check for any possible merges. If there are absolutely no moves, you may need to use an option to sell or delete a low-value gem to make room for a new one.
+
 

@@ -13,10 +13,12 @@ releaseDate: 2025-10-18
 
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Match Puzzle House pairs match‑3 gameplay with interior renovation. Clear blockers, collect items within move caps, and spend stars on decor. Boosters and power‑up merges are key on dense layouts.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Central control: Open the middle first for combo space.
@@ -25,21 +27,27 @@ Match Puzzle House pairs match‑3 gameplay with interior renovation. Clear bloc
 4.  Edge awareness: Don’t strand colors on walls.
 5.  Two‑turn plans: Map your next move to avoid breaking setups.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Drag to swap; use boosters via UI; decorate rooms between levels.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- Q: I’m stuck on a chain level.
+- <!-- i18n:faq:id=faq:match-puzzle-house:im-stuck-on-a-chain-bb594243 -->
+  Q: I’m stuck on a chain level.
   
   A: Prioritize detonations adjacent to chains; lines through chains speed clears.
 
-- Q: Do renovations help in‑game?
+- <!-- i18n:faq:id=faq:match-puzzle-house:do-renovations-help-ingame-9044bd81 -->
+  Q: Do renovations help in‑game?
   
   A: Mostly cosmetic; some unlock progression rewards.
 
-- Q: Best generic booster?
+- <!-- i18n:faq:id=faq:match-puzzle-house:best-generic-booster-8d54c24f -->
+  Q: Best generic booster?
   
   A: Color clear to reshape stubborn boards.
+
 

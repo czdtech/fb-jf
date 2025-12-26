@@ -12,10 +12,12 @@ releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Merge Fruit mixes gravity drops with merge‑2 rules. Drop fruits into a bin; touching identical fruits merge into a larger one. The challenge is stacking for future merges while preventing overflows at the top.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Center anchor: Keep the largest fruit near the center for multi‑side merges.
@@ -24,21 +26,27 @@ Merge Fruit mixes gravity drops with merge‑2 rules. Drop fruits into a bin; to
 4.  Sacrifice lane: Use one edge as a trash lane for off‑cycle fruits.
 5.  Patience: Don’t force drops during bounce chaos — wait a beat.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Move left/right to aim; tap to drop; some builds allow holds/undos.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- Q: Board keeps overflowing.
+- <!-- i18n:faq:id=faq:merge-fruit:board-keeps-overflowing-a2f828c1 -->
+  Q: Board keeps overflowing.
   
   A: Stop chasing big merges; first flatten columns and stage pairs.
 
-- Q: Best place to drop?
+- <!-- i18n:faq:id=faq:merge-fruit:best-place-to-drop-cb5fde7e -->
+  Q: Best place to drop?
   
   A: Center for flexibility; edges only for trash lane management.
 
-- Q: Are undos fair game?
+- <!-- i18n:faq:id=faq:merge-fruit:are-undos-fair-game-36977bd9 -->
+  Q: Are undos fair game?
   
   A: Use sparingly to fix genuine misdrops.
+
 

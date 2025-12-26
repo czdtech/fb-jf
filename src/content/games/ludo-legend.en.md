@@ -18,10 +18,12 @@ releaseDate: 2025-10-18
 
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Ludo Legend is a fantastic digital version of the beloved classic board game, Ludo. The game is a race to the finish! Each player has four tokens and the goal is to get all of them from the starting yard, around the entire board, and into the home column. Play against computer opponents, roll the dice, and use strategy to capture your opponents' tokens and send them back to the start. Become a Ludo Legend by being the first to get all your tokens home!
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Getting Out of the Yard:** You must roll a six to move a token from your starting yard onto the game board. Prioritize getting at least one token into play as soon as possible.
@@ -30,19 +32,25 @@ Ludo Legend is a fantastic digital version of the beloved classic board game, Lu
 4.  **Safety in Numbers:** Landing two of your own tokens on the same space creates a block. Opponents cannot pass a block, making it a powerful defensive strategy.
 5.  **The Home Stretch:** To win, you must move all four of your tokens into your colored home column and then into the final home triangle. You need an exact dice roll to move a token into the home triangle.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 *   **Roll Dice:** Click on the dice to roll it.
 *   **Move Token:** After rolling, the game will highlight your possible moves. Click on the token you wish to move.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: What is the objective of Ludo?**
+* <!-- i18n:faq:id=faq:ludo-legend:q-what-is-the-objective-c3cede21 -->
+  **Q: What is the objective of Ludo?**
     *   **A:** The objective is to be the first player to move all four of your tokens from your starting base to your home triangle.
 
-*   **Q: What happens when I roll a six?**
+* <!-- i18n:faq:id=faq:ludo-legend:q-what-happens-when-i-68ce1a26 -->
+  **Q: What happens when I roll a six?**
     *   **A:** Rolling a six gives you two advantages: you can move a token out of your yard, and you get an extra roll of the dice.
 
-*   **Q: Can I pass my own tokens?**
+* <!-- i18n:faq:id=faq:ludo-legend:q-can-i-pass-my-2134a96c -->
+  **Q: Can I pass my own tokens?**
     *   **A:** Yes, you can move past your own tokens. However, if you have two tokens on the same spot forming a block, even you cannot move a third token onto that spot.
+
 

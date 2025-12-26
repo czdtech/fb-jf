@@ -14,14 +14,17 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Overview
 Learn to Fly is a distance launcher about iterative improvement. Launch a penguin down a ramp, control pitch to maximize glide, and use boosters sparingly. Earnings buy better gliders, rockets, and payloads, unlocking new goals and challenge modes across days.
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 - Set launch angle; keep pitch near optimal to maintain speed.
 - Trigger boosters only when speed drops or to clear obstacles.
 - Spend on speed and glide upgrades first, then utility.
 
+<!-- i18n:section:controls -->
 ### Controls
 - Arrow keys adjust pitch; space/keys for boosters (host dependent).
 
@@ -30,11 +33,16 @@ Learn to Fly is a distance launcher about iterative improvement. Launch a pengui
 - Save fuel for late‑flight when drag slows you down.
 - Daily goals guide efficient upgrade order.
 
+<!-- i18n:section:faq -->
 ### FAQ
-- Q: What upgrades give the best early returns?  
+- <!-- i18n:faq:id=faq:learn-to-fly:what-upgrades-give-the-best-7dc9db4f -->
+  Q: What upgrades give the best early returns?
   A: Base speed and glide efficiency outperform fancy extras early.
-- Q: How do I hit distance targets consistently?  
+- <!-- i18n:faq:id=faq:learn-to-fly:how-do-i-hit-distance-ea8ac74c -->
+  Q: How do I hit distance targets consistently?
   A: Maintain optimal pitch and reserve boosts for late flight.
-- Q: Is there a hard cap on days?  
+- <!-- i18n:faq:id=faq:learn-to-fly:is-there-a-hard-cap-9670078b -->
+  Q: Is there a hard cap on days?
   A: You can keep improving until targets are met; challenge modes extend play.
+
 

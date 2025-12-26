@@ -13,10 +13,12 @@ releaseDate: 2025-10-18
 
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Maze Puzzle offers compact labyrinths with keys, doors, and occasional patrolling hazards. Optimal play finds safe, minimal routes that collect keys in efficient sequences while avoiding dead ends and patrol cones.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Key ordering: Plan an order that minimizes backtracking.
@@ -25,21 +27,27 @@ Maze Puzzle offers compact labyrinths with keys, doors, and occasional patrollin
 4.  Dead‑end pruning: Explore branches shallowly; abandon when they don’t progress keys.
 5.  Timer awareness: Don’t rush — precision saves more time than speed blunders.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Arrow/WASD movement; tap to interact; restart quickly from menu.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- Q: I get lost easily — tips?
+- <!-- i18n:faq:id=faq:maze-puzzle:i-get-lost-easily-tips-6c2392cb -->
+  Q: I get lost easily — tips?
   
   A: Mentally map junctions, or trace the right‑hand wall when safe.
 
-- Q: Guards catch me near doors.
+- <!-- i18n:faq:id=faq:maze-puzzle:guards-catch-me-near-doors-37ff5e3f -->
+  Q: Guards catch me near doors.
   
   A: Lure them long before door zones; doors take time to open.
 
-- Q: Are keys reusable?
+- <!-- i18n:faq:id=faq:maze-puzzle:are-keys-reusable-1e970fba -->
+  Q: Are keys reusable?
   
   A: Usually single‑use; check icons.
+
 

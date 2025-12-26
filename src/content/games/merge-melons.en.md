@@ -13,10 +13,12 @@ releaseDate: 2025-10-17
 
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Merge Melons is a delightful and addictive physics-based puzzle game, famously known as a "Suika Game" or "Watermelon Game." The premise is simple yet captivating: you drop various types of fruits into a container. When two identical fruits touch, they merge into a single, larger fruit of the next type in the evolution cycle. Your goal is to create the largest fruit possible—the watermelon—and achieve the highest score without letting the container overflow.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Understand the Fruit Cycle:** Memorize the order of fruit evolution. Knowing what two fruits will create next (e.g., two grapes make an orange) is crucial for planning your drops.
@@ -24,6 +26,7 @@ Merge Melons is a delightful and addictive physics-based puzzle game, famously k
 3.  **Set Up Chain Reactions:** The most satisfying part of the game is a chain reaction. Try to arrange fruits so that one merge will cause the newly formed fruit to roll or drop and create another merge, and so on. This is key to clearing space and racking up a high score.
 4.  **Manage Your Space:** The game ends when the fruits pile up and cross the line at the top. Always be mindful of how much space you have left. Sometimes it's better to make a less optimal merge just to clear some room.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 The controls are very straightforward.
@@ -32,14 +35,19 @@ The controls are very straightforward.
 *   **Drop the Fruit (Desktop):** Click the left mouse button to release the fruit.
 *   **Mobile Controls:** Move your finger left and right to aim, and lift your finger to drop the fruit.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: What is the goal of the game?**
+* <!-- i18n:faq:id=faq:merge-melons:q-what-is-the-goal-ab58581b -->
+  **Q: What is the goal of the game?**
     *   **A:** The main goal is to get the highest score possible by continuously merging fruits. The ultimate achievement within a game is to successfully create a watermelon by merging two of the second-largest fruits.
 
-*   **Q: How do I lose the game?**
+* <!-- i18n:faq:id=faq:merge-melons:q-how-do-i-lose-117fb252 -->
+  **Q: How do I lose the game?**
     *   **A:** You lose when the pile of fruit inside the container touches or crosses the line at the very top.
 
-*   **Q: Is there a way to control where the fruits go after they merge?**
+* <!-- i18n:faq:id=faq:merge-melons:q-is-there-a-way-69560315 -->
+  **Q: Is there a way to control where the fruits go after they merge?**
     *   **A:** Not directly, as the game is physics-based. However, by carefully considering where you drop your fruit, you can influence the direction it will roll and where the newly merged, larger fruit will settle.
+
 

@@ -12,10 +12,12 @@ releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Mazes offers a suite of labyrinths from simple grids to trap‑laden gauntlets. The challenge is route planning: finding shortest safe paths, avoiding trap tiles, and hitting switches to open gates while staying under par times.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Right/left‑hand rules: Use wall‑following on simply connected mazes; abandon on multi‑loops.
@@ -24,21 +26,27 @@ Mazes offers a suite of labyrinths from simple grids to trap‑laden gauntlets. 
 4.  Time splits: Don’t chase a perfect line first; secure a finish, then optimize.
 5.  Safe corridors: Favor wide lanes when precision is shaky.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Drag or WASD to move; restart/undo if supported.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- Q: I keep missing switches.
+- <!-- i18n:faq:id=faq:mazes:i-keep-missing-switches-044b1214 -->
+  Q: I keep missing switches.
   
   A: Route past every key junction; add a small detour rather than backtracking later.
 
-- Q: Are traps random?
+- <!-- i18n:faq:id=faq:mazes:are-traps-random-9e9cf148 -->
+  Q: Are traps random?
   
   A: Usually fixed; learn their positions.
 
-- Q: Any speedrun tip?
+- <!-- i18n:faq:id=faq:mazes:any-speedrun-tip-c8952bb3 -->
+  Q: Any speedrun tip?
   
   A: Hug inner walls on bends and cut diagonals where allowed.
+
 

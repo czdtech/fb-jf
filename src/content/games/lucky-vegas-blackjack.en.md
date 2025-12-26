@@ -12,10 +12,12 @@ releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Lucky Vegas Blackjack offers fast blackjack rounds with standard rules: reach 21 or best the dealer without busting. Face cards count as 10; aces as 1 or 11. Use basic strategy vs the dealer upcard and avoid risky side bets with higher house edges.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Basic chart: Stand hard 17+, hit ≤11, double 10–11 vs weak upcards.
@@ -24,21 +26,27 @@ Lucky Vegas Blackjack offers fast blackjack rounds with standard rules: reach 21
 4.  Bankroll: Flat bet sizing; stop after win target or loss limit.
 5.  Side bets: Treat as entertainment, not EV.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Hit/Stand/Double/Split via UI; adjust bet between hands.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- Q: Can I count cards here?
+- <!-- i18n:faq:id=faq:lucky-vegas-blackjack:can-i-count-cards-here-66efe273 -->
+  Q: Can I count cards here?
   
   A: Single‑shoe resets/auto shuffles often negate counting; play for fun.
 
-- Q: Insurance worth it?
+- <!-- i18n:faq:id=faq:lucky-vegas-blackjack:insurance-worth-it-f96cf9ff -->
+  Q: Insurance worth it?
   
   A: Generally no; it has high house edge.
 
-- Q: How to reduce variance?
+- <!-- i18n:faq:id=faq:lucky-vegas-blackjack:how-to-reduce-variance-4b56371b -->
+  Q: How to reduce variance?
   
   A: Use smaller flat bets and avoid side bets.
+
 

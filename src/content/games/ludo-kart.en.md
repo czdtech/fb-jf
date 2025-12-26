@@ -18,10 +18,12 @@ releaseDate: 2025-10-18
 
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Ludo Kart adapts classic Ludo into a quick, family‑friendly race. Roll dice to move tokens around the board, enter the final lane, and bring all tokens home before opponents do. Safe squares, captures, and lucky rolls create swings.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Token spread: Advance multiple tokens to reduce risk of a single capture wiping progress.
@@ -30,15 +32,21 @@ Ludo Kart adapts classic Ludo into a quick, family‑friendly race. Roll dice to
 4.  Counting ahead: Always check opponent threats within a dice range.
 5.  Don’t tunnel: If a lead token is blocked, switch to another to keep pressure.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Roll: Click/tap to roll the die.
 - Move: Select a legal token to advance.
 - Modes: Local multiplayer is common; solo vs. AI may be available.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- Is it pure luck? Dice matter, but token spread, safe‑square usage, and counting threats add strategy.
-- Can I block? Occupying certain squares can block lanes; observe mode rules.
-- How many players? Often 2–4; check mode options.
+- <!-- i18n:faq:id=faq:ludo-kart:is-it-pure-luck-6f4dc50f -->
+  Is it pure luck? Dice matter, but token spread, safe‑square usage, and counting threats add strategy.
+- <!-- i18n:faq:id=faq:ludo-kart:can-i-block-2a27c709 -->
+  Can I block? Occupying certain squares can block lanes; observe mode rules.
+- <!-- i18n:faq:id=faq:ludo-kart:how-many-players-ce44cd9b -->
+  How many players? Often 2–4; check mode options.
+
 

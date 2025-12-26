@@ -12,10 +12,12 @@ developer: ""
 releaseDate: 2025-08-16
 ---
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 Mahjongg Solitaire, also known as Mahjong Solitaire or Shanghai Solitaire, is a popular single-player tile-matching puzzle game. The game uses a set of Mahjong tiles arranged in various multi-layered layouts. The primary objective is to clear the entire board by finding and matching pairs of identical, "free" tiles.
 
+<!-- i18n:section:tips -->
 ### Gameplay Guide
 
 - **Matching Tiles:** Click or tap on two identical tiles to remove them.
@@ -23,10 +25,12 @@ Mahjongg Solitaire, also known as Mahjong Solitaire or Shanghai Solitaire, is a 
 - **Strategy:** Plan your moves carefully. Removing certain tiles might block others, making the game unsolvable. Prioritize removing tiles that are blocking many other tiles or those that are part of a critical stack.
 - **Special Tiles:** Flower and Season tiles can be matched with any other tile of their respective group, even if they are not identical.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - **Mouse/Touch:** Use your mouse or finger to click/tap on the tiles to select them.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
 **What is the goal of Mahjongg Solitaire?**
@@ -40,4 +44,5 @@ If there are no more available "free" pairs to match, and tiles still remain on 
 **Is there a time limit?**
 
 Some versions of Mahjongg Solitaire are timed, adding an element of urgency, while others allow for a more relaxed pace.
+
 

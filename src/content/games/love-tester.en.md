@@ -14,13 +14,16 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Overview
 Love Tester is a lighthearted name‑matching toy. You input two names and receive a whimsical “compatibility” percentage with occasional messages or animations. It’s purely for fun—results are random or based on simple hashing and do not represent real compatibility.
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 - Enter two names (or any words) and press test.
 - Share results or rerun with different inputs for laughs.
 
+<!-- i18n:section:controls -->
 ### Controls
 - Keyboard input and a single test button.
 
@@ -28,11 +31,16 @@ Love Tester is a lighthearted name‑matching toy. You input two names and recei
 - Use creative prompts (nicknames, team names) to vary outputs.
 - Treat results as a joke, not advice.
 
+<!-- i18n:section:faq -->
 ### FAQ
-- Q: Is the compatibility score scientifically accurate?  
+- <!-- i18n:faq:id=faq:love-tester:is-the-compatibility-score-sci-b44c618b -->
+  Q: Is the compatibility score scientifically accurate?
   A: No, it is for entertainment only.
-- Q: Can I save or share the results?  
+- <!-- i18n:faq:id=faq:love-tester:can-i-save-or-share-84d7af47 -->
+  Q: Can I save or share the results?
   A: Some hosts include share buttons or screenshots.
-- Q: Do spaces or punctuation matter in names?  
+- <!-- i18n:faq:id=faq:love-tester:do-spaces-or-punctuation-matte-b3361c39 -->
+  Q: Do spaces or punctuation matter in names?
   A: Behavior varies; stick to letters for consistent outputs.
+
 

@@ -13,10 +13,12 @@ releaseDate: 2025-10-17
 
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Merge Cakes is a sweet and relaxing puzzle game where you combine identical cakes to create new and more magnificent desserts. You start with basic cupcakes and merge your way up to elaborate, multi-layered creations. The goal is to fulfill customer orders, earn coins, and discover every delicious cake in your recipe book. It's a simple, satisfying, and endlessly charming game.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **The Merge Chain:** The core of the game is merging. Drag one cake and drop it onto an identical cake to create a new, higher-level cake. Two basic cupcakes might make a larger cupcake, which in turn can be merged to create a slice of cake, and so on.
@@ -24,6 +26,7 @@ Merge Cakes is a sweet and relaxing puzzle game where you combine identical cake
 3.  **Manage Your Board:** You only have a limited number of plates on your board. If it fills up, you won't be able to receive new cakes. Always try to make merges to keep space free.
 4.  **Use Your Coins:** Spend the coins you earn to buy more cakes from the shop. This is much faster than waiting for the free delivery box and is essential for creating high-level cakes to fill difficult orders.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 The game is played with simple drag-and-drop controls.
@@ -31,14 +34,19 @@ The game is played with simple drag-and-drop controls.
 *   **Merge Cakes:** Click and drag one cake and drop it onto another identical cake to merge them.
 *   **Buy Cakes:** Click on the shop icon and then click the cake you wish to purchase.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: How do I get new cakes?**
+* <!-- i18n:faq:id=faq:merge-cakes:q-how-do-i-get-e64c64d3 -->
+  **Q: How do I get new cakes?**
     *   **A:** A free delivery box will periodically drop a basic cake onto an empty plate. You can also use your coins to buy any type of cake you have previously discovered.
 
-*   **Q: What is the main goal?**
+* <!-- i18n:faq:id=faq:merge-cakes:q-what-is-the-main-20a3adad -->
+  **Q: What is the main goal?**
     *   **A:** To earn coins by fulfilling customer orders and to discover all the different cake recipes in the game.
 
-*   **Q: My board is full and I can't make any moves. What do I do?**
+* <!-- i18n:faq:id=faq:merge-cakes:q-my-board-is-full-2c9ccb4e -->
+  **Q: My board is full and I can't make any moves. What do I do?**
     *   **A:** You need to create space. Look carefully for any possible merges you might have missed. If there are none, you may have to use the trash can icon to sell a low-level cake to free up a plate.
+
 

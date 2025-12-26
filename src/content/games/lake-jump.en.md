@@ -13,10 +13,12 @@ releaseDate: 2025-10-18
 
 ## English Guide
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Lake Jump is a minimalist tap‑to‑jump challenge. Time taps to land on moving or spaced platforms, maintain rhythm, and rack up streaks without falling in the water.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Count beats: Use a steady rhythm for predictable jump timing.
@@ -25,14 +27,20 @@ Lake Jump is a minimalist tap‑to‑jump challenge. Time taps to land on moving
 4.  Skip greed: Ignore risky coins when alignment is poor.
 5.  Reset calmly: After a miss, re‑establish rhythm before chasing streaks.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Jump: Tap/Click at the right moment.
 - Pause/Retry: On‑screen buttons.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- I overshoot—why? You’re tapping too early; delay slightly and practice a steady cadence.
-- Are there power‑ups? Some modes include slow‑mo or bigger platforms temporarily.
-- Endless? Typically yes; set personal bests.
+- <!-- i18n:faq:id=faq:lake-jump:i-overshootwhy-80bb6c0d -->
+  I overshoot—why? You’re tapping too early; delay slightly and practice a steady cadence.
+- <!-- i18n:faq:id=faq:lake-jump:are-there-powerups-0fea9ab4 -->
+  Are there power‑ups? Some modes include slow‑mo or bigger platforms temporarily.
+- <!-- i18n:faq:id=faq:lake-jump:endless-ea2091be -->
+  Endless? Typically yes; set personal bests.
+
 
