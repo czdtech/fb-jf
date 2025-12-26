@@ -51,7 +51,7 @@ type PairResult = {
   localizedFile: string;
   changed: boolean;
   changes: {
-    frontmatterIframeSrc: boolean;
+    frontmatter: { syncedKeys: string[] };
     insertedSectionMarkers: string[];
     updatedFaqIds: { inserted: number; removed: number; expected: number; foundQuestions: number | null };
     controls: { updated: boolean; expectedTokens: number };
@@ -339,6 +339,7 @@ function findMarkerIndex(lines: string[], section: string): number | null {
 }
 
 function looksLikeFaqQuestionLine(locale: TargetLocale, line: string): boolean {
+  if (line == null) return false;
   const t = line.trim();
   if (!t) return false;
 
@@ -392,9 +393,11 @@ function applyFaqIdsToLocale(
     removed++;
   }
 
+  const endAfter = findNextSectionMarkerIndex(nextLines, markerIndex);
+
   // Re-scan question lines after removals.
   const questionLineIndices: number[] = [];
-  for (let i = markerIndex + 1; i < end; i++) {
+  for (let i = markerIndex + 1; i < endAfter; i++) {
     if (looksLikeFaqQuestionLine(locale, nextLines[i])) questionLineIndices.push(i);
   }
 
@@ -816,6 +819,15 @@ function updateScalarKey(
   return { nextLines: next, changed: true };
 }
 
+function normalizeHardSyncScalar(value: unknown): string | null {
+  if (value == null) return null;
+  if (value instanceof Date) return value.toISOString().slice(0, 10);
+  if (typeof value === 'string') return value.trim();
+  if (typeof value === 'number') return String(value);
+  if (typeof value === 'boolean') return value ? 'true' : 'false';
+  return JSON.stringify(value);
+}
+
 async function listEnglishFiles(): Promise<string[]> {
   const files = await fs.readdir(GAMES_DIR);
   return files
@@ -854,6 +866,7 @@ async function alignPair(
   const englishHardpoints = extractHardpointsFromMarkdown(enContent, enData as Record<string, unknown>, { filePath: englishRel });
 
   const localizedRaw = await fs.readFile(localizedAbs, 'utf8');
+  const parsedLocalized = matter(localizedRaw);
   const localizedLines = localizedRaw.split(/\r?\n/);
   const fmEnd = findFrontmatterEnd(localizedLines);
   const frontmatterLines = fmEnd ? localizedLines.slice(0, fmEnd) : [];
@@ -861,13 +874,22 @@ async function alignPair(
 
   const desiredMarkers = extractSectionMarkersInOrder(enContent.split(/\r?\n/));
 
-  // 1) frontmatter iframeSrc
+  // 1) frontmatter hard-sync keys (minimal set)
   let nextFrontmatterLines = frontmatterLines;
-  let frontmatterIframeSrcChanged = false;
-  if (englishHardpoints.iframeSrc) {
-    const updated = updateScalarKey(nextFrontmatterLines, 'iframeSrc', englishHardpoints.iframeSrc);
+  const frontmatterSyncedKeys: string[] = [];
+
+  const hardSyncKeys = ['urlstr', 'iframeSrc', 'thumbnail', 'releaseDate', 'score'] as const;
+  for (const key of hardSyncKeys) {
+    const raw = (enData as Record<string, unknown>)[key];
+    const normalized = normalizeHardSyncScalar(raw);
+    if (!normalized) continue;
+
+    const current = normalizeHardSyncScalar((parsedLocalized.data as Record<string, unknown>)[key]);
+    if (current === normalized) continue;
+
+    const updated = updateScalarKey(nextFrontmatterLines, key, normalized);
     nextFrontmatterLines = updated.nextLines;
-    frontmatterIframeSrcChanged = updated.changed;
+    if (updated.changed) frontmatterSyncedKeys.push(key);
   }
 
   // 2) section markers
@@ -919,7 +941,7 @@ async function alignPair(
     localizedFile: localizedRel,
     changed: options.apply ? changed : false,
     changes: {
-      frontmatterIframeSrc: frontmatterIframeSrcChanged,
+      frontmatter: { syncedKeys: frontmatterSyncedKeys },
       insertedSectionMarkers: sectionResult.inserted,
       updatedFaqIds: {
         inserted: faqResult.inserted,
