@@ -15,6 +15,7 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 Bullet Force is a fast-paced, modern multiplayer first-person shooter (FPS) that offers an action-packed combat experience reminiscent of popular AAA titles, but in a more accessible format for web browsers and mobile devices. Players engage in intense battles across a variety of maps, utilizing a wide range of customizable weapons.
@@ -27,6 +28,7 @@ The core of the game is its multiplayer mode, where players can join public matc
 -   **Conquest:** Teams fight to capture and hold specific points on the map to accumulate score.
 -   **Gun Game:** Players start with a basic pistol and are given a new weapon for every kill they get, progressing through a set list of firearms.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy
 
 -   **Master the Movement:** Bullet Force is an arcade-style shooter. Standing still is a quick way to get eliminated. Constantly be on the move, and learn to use mechanics like sprinting, crouching, and sliding to your advantage to be a harder target to hit.
@@ -41,6 +43,7 @@ The core of the game is its multiplayer mode, where players can join public matc
 -   **Use the Minimap:** The minimap is your best source of information. It shows the location of your teammates and reveals enemies who are firing without a suppressor or are spotted by a UAV killstreak.
 -   **Practice Offline:** The offline mode with bots is an excellent training ground. Use it to practice your aim, learn new maps, and test out different weapon builds without the pressure of a live multiplayer match.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 #### PC (Keyboard & Mouse)
@@ -60,17 +63,23 @@ The core of the game is its multiplayer mode, where players can join public matc
 -   **Aim/Look:** Swipe on the right side of the screen.
 -   **Shoot, ADS, Reload, Jump, Crouch:** Dedicated on-screen buttons, which can often be customized in the settings.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
+<!-- i18n:faq:id=faq:bullet-force:how-do-i-unlock-new-d90ff5bd -->
 **1. How do I unlock new weapons and attachments?**
 > You earn credits by playing matches (based on your performance, kills, and objectives). These credits can then be spent in the "Loadout" or "Armory" section of the game to purchase new primary weapons, secondary weapons, and a wide variety of attachments for them.
 
+<!-- i18n:faq:id=faq:bullet-force:what-are-killstreaks-and-how-78022d7b -->
 **2. What are killstreaks and how do I use them?**
 > Killstreaks are special abilities you earn by getting a certain number of kills in a row without dying. Once earned, an on-screen button will appear, allowing you to activate abilities like a **UAV** (reveals enemies on the minimap), **Haste** (increased movement speed), or an **Advanced UAV**.
 
+<!-- i18n:faq:id=faq:bullet-force:what-is-the-best-weapon-7c7a9090 -->
 **3. What is the "best" weapon in the game?**
 > There is no definitive "best" weapon as it largely depends on your playstyle and the map. However, some popular and highly effective choices include the FAMAS for its burst-fire accuracy, the M4A1 for its versatility, and the Vector for its incredibly high rate of fire in close combat.
 
+<!-- i18n:faq:id=faq:bullet-force:can-i-play-with-my-501f32fd -->
 **4. Can I play with my friends?**
 > Yes. You can create a custom match by going to the multiplayer menu and selecting "Create Room." You can set a password for the room and share the room name and password with your friends so they can join.
+
 

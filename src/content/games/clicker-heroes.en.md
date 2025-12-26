@@ -15,12 +15,14 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### **Game Introduction**
 
 Clicker Heroes is a quintessential "idle" or "incremental" game where the primary goal is to progress through an effectively infinite number of levels by defeating monsters. The game starts with the player actively clicking on a monster to deal damage and earn gold. This gold is then used to hire heroes who automatically attack monsters, generating Damage Per Second (DPS).
 
 As you purchase and level up more heroes, your DPS grows exponentially, allowing you to defeat monsters faster and earn even more gold. The core gameplay loop involves managing your hero upgrades, using character skills, and deciding when to perform a crucial reset known as "Ascension." This mechanic allows you to restart from level 1 but with powerful permanent bonuses (Hero Souls and Ancients) that drastically accelerate all future runs. The ultimate objective is to see how far you can progress and how powerful you can become.
 
+<!-- i18n:section:tips -->
 ### **Gameplay Strategy & Tips**
 
 The strategy for Clicker Heroes evolves as you play.
@@ -42,6 +44,7 @@ The strategy for Clicker Heroes evolves as you play.
 *   **Gilds**: After level 100, you will start receiving Gilds, which are damage multipliers assigned to random heroes. Early on, it's best to consolidate all your Gilds onto one powerful and efficient hero (like The Masked Samurai, Atlas, or Terra as you progress). This focuses your power dramatically.
 *   **Efficient Ascensions**: The core of the game is to perform many relatively quick ascensions. Do a run, push as far as you can quickly, ascend to collect Hero Souls, reinvest in Ancients, and repeat. Don't spend days on a single run if progress has stalled.
 
+<!-- i18n:section:controls -->
 ### **Controls Guide**
 
 The game is primarily mouse-driven, but keyboard shortcuts are essential for efficiency.
@@ -55,20 +58,27 @@ The game is primarily mouse-driven, but keyboard shortcuts are essential for eff
     *   **Q + Click**: Level up a hero to the maximum affordable amount.
     *   **A**: Progress to the next level (or toggle auto-progression).
 
+<!-- i18n:section:faq -->
 ### **Frequently Asked Questions (FAQ)**
 
+<!-- i18n:faq:id=faq:clicker-heroes:when-should-i-ascend-6f3e9f41 -->
 **1. When should I ascend?**
 For your very first run, aim for level 140 to get a handful of Hero Souls. After that, ascend whenever your progress slows down significantly. A good run might last anywhere from 30 to 60 minutes in the mid-game. The key is speed and efficiency.
 
+<!-- i18n:faq:id=faq:clicker-heroes:what-are-hero-souls-and-43462f28 -->
 **2. What are Hero Souls and what do I do with them?**
 Hero Souls (HS) are a permanent currency earned by defeating Primal Bosses (bosses on levels 100, 110, 120, etc.) and by leveling up heroes. Each one gives a passive +10% DPS bonus. Their primary use is to summon and level up Ancients.
 
+<!-- i18n:faq:id=faq:clicker-heroes:should-i-play-an-idle-f9aa781a -->
 **3. Should I play an Idle, Active, or Hybrid build?**
 For beginners, an **Idle** build is strongly recommended. It is simpler to manage and very powerful for making steady progress. You can switch to an Active or Hybrid build later in the game when you have a large bank of Hero Souls.
 
+<!-- i18n:faq:id=faq:clicker-heroes:all-my-gilds-are-on-960a26c7 -->
 **4. All my Gilds are on random, weak heroes. What should I do?**
 In the mid-game, you can spend Hero Souls to "de-gild" a hero and move that gild to another random hero. The goal is to consolidate all your Gilds onto one single, powerful hero to maximize your damage output. This process is called "re-gilding."
 
+<!-- i18n:faq:id=faq:clicker-heroes:is-there-an-end-to-16613676 -->
 **5. Is there an end to the game?**
 No, Clicker Heroes is designed to be an endless game. The levels and the amount of gold and damage required scale infinitely. The goal is personal progression and reaching ever-higher zones.
+
 

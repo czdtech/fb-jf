@@ -12,10 +12,12 @@ releaseDate: 2025-10-17
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Castle Craft is a captivating merge-and-build puzzle game where players embark on a journey to transform a modest plot of land into a magnificent medieval kingdom. The core gameplay revolves around the classic "merge-3" mechanic: combining three or more identical items to create a single, more advanced item. By strategically merging resources like wheat, wood, and stone, players can fulfill quests, earn valuable currency, and lift the fog to unlock new territories, gradually revealing a sprawling and prosperous empire.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Master the Merge-5:** While merging three items is the basic rule, always try to merge five identical items at once. A "merge-5" rewards you with a bonus, often an extra higher-level item, which significantly speeds up your progress.
@@ -24,6 +26,7 @@ Castle Craft is a captivating merge-and-build puzzle game where players embark o
 4.  **Resource Management:** At times, you will need to decide which resource to focus on. If a quest requires high-level stone, dedicate a portion of your board to merging stone from basic rocks up to the required level. Don't spread your efforts too thin.
 5.  **Unlock Land Wisely:** When you have enough keys, you can unlock a new patch of fog-covered land. Prioritize unlocking areas that give you the most building space or seem to lead towards critical quest items.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 The game is controlled entirely with a mouse or touch screen.
@@ -33,14 +36,19 @@ The game is controlled entirely with a mouse or touch screen.
 *   **View Item Info:** Click on an item to see its name and level.
 *   **Collect Resources:** Click on resources that spawn automatically (like wheat from a field) to collect them.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: What is the main goal of Castle Craft?**
+* <!-- i18n:faq:id=faq:castle-craft:q-what-is-the-main-0487282f -->
+  **Q: What is the main goal of Castle Craft?**
     *   **A:** The main goal is to restore and build your kingdom by merging items, completing quests for your villagers, and clearing the fog to expand your territory.
 
-*   **Q: How do I get more keys to unlock land?**
+* <!-- i18n:faq:id=faq:castle-craft:q-how-do-i-get-c938657e -->
+  **Q: How do I get more keys to unlock land?**
     *   **A:** Keys are primarily earned by completing specific quests and fulfilling trade orders from the marketplace or villagers. Focus on these tasks to gather the keys you need.
 
-*   **Q: What's the difference between merging 3 and merging 5?**
+* <!-- i18n:faq:id=faq:castle-craft:q-whats-the-difference-between-a7c4a0ac -->
+  **Q: What's the difference between merging 3 and merging 5?**
     *   **A:** Merging 3 items gives you one higher-level item. Merging 5 items gives you two higher-level items, effectively giving you one for free. It is always more efficient to wait until you have five items to merge.
+
 

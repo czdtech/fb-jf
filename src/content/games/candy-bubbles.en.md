@@ -13,10 +13,12 @@ releaseDate: 2025-10-17
 
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Candy Bubbles is a sweet and colorful twist on the classic bubble shooter genre. Set in a delightful candy-themed world, your goal is to clear the screen of vibrant candy bubbles. Aim your cannon, shoot, and match three or more bubbles of the same color to make them pop. With hundreds of levels, strategic challenges, and satisfying chain reactions, it’s a relaxing puzzle game perfect for all ages.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Aim High:** The most effective strategy in any bubble shooter is to aim for matches high up on the board. When you pop a cluster of bubbles, any bubbles that are only attached to that cluster (and nothing else) will also fall down, clearing large sections of the board at once and earning you massive bonus points.
@@ -24,20 +26,26 @@ Candy Bubbles is a sweet and colorful twist on the classic bubble shooter genre.
 3.  **Plan Your Shots:** Most versions of the game show you both your current bubble and the next one in the queue. Use this information to plan your moves. If you can't make a good match with your current bubble, perhaps you can set up a great match for the next one.
 4.  **Don't Let Them Reach the Bottom:** A line at the top of the screen will periodically drop, pushing the bubbles closer to your cannon. If any bubble crosses the line at the bottom, the game is over.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 *   **Aim:** Move your mouse to aim the cannon. A guideline will show you the trajectory of your shot.
 *   **Fire:** Click the left mouse button to shoot the bubble.
 *   **Swap (if available):** Some versions may have a button to swap your current bubble with the next one in the queue.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: What is the goal of each level?**
+* <!-- i18n:faq:id=faq:candy-bubbles:q-what-is-the-goal-7ed4507e -->
+  **Q: What is the goal of each level?**
     *   **A:** The primary goal is usually to clear all the bubbles from the screen. Some levels may have special objectives, like freeing items trapped inside bubbles.
 
-*   **Q: How do I get the highest score?**
+* <!-- i18n:faq:id=faq:candy-bubbles:q-how-do-i-get-da481c1b -->
+  **Q: How do I get the highest score?**
     *   **A:** By causing large clusters of bubbles to fall. Popping just three bubbles gives you a base score, but dropping a dozen bubbles in one shot will give you a huge combo bonus.
 
-*   **Q: I have a bubble color I can't use. What should I do?**
+* <!-- i18n:faq:id=faq:candy-bubbles:q-i-have-a-bubble-fd61d78a -->
+  **Q: I have a bubble color I can't use. What should I do?**
     *   **A:** Try to shoot it into a spot where it will be out of the way, or where it might be useful later. If the swap feature is available, check if your next bubble is a better option.
+
 

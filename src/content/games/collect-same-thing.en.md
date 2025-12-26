@@ -12,10 +12,12 @@ releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Collect Same Thing challenges you to match identical tiles or items under space/time limits. Removing pairs reveals deeper layers; success requires opening lanes, prioritizing scarce tiles, and avoiding isolated singles.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Open lanes first to expose hidden tiles.
@@ -24,21 +26,27 @@ Collect Same Thing challenges you to match identical tiles or items under space/
 4.  Avoid cornering singletons that have few partners.
 5.  Save shuffles/hints for emergencies.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Click/tap to select pairs per mode rules.
 - Use hint/shuffle (if available) sparingly.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- Q: I get stuck with no pairs — what now?
+- <!-- i18n:faq:id=faq:collect-same-thing:i-get-stuck-with-no-67b75068 -->
+  Q: I get stuck with no pairs — what now?
   
   A: Shuffle if allowed or restart with a different opening that preserves lanes.
 
-- Q: Timed or move limits?
+- <!-- i18n:faq:id=faq:collect-same-thing:timed-or-move-limits-5e0f38ca -->
+  Q: Timed or move limits?
   
   A: Modes vary; play faster for timers and plan deeper for move limits.
 
-- Q: Any scoring tips?
+- <!-- i18n:faq:id=faq:collect-same-thing:any-scoring-tips-98d70617 -->
+  Q: Any scoring tips?
   
   A: Chain quick pairs to maintain combo bonuses where supported.
+

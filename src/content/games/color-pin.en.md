@@ -12,10 +12,12 @@ releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Color Pin asks you to fire pins into a spinning circle. Avoid hitting existing pins, and in color modes, land on matching segments. Rotation speed and direction shifts keep timing tight, rewarding rhythm and patience over spam.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Identify rotation cycles and shoot at a consistent phase.
@@ -24,21 +26,27 @@ Color Pin asks you to fire pins into a spinning circle. Avoid hitting existing p
 4.  In color modes, pre‑aim the correct segment and shoot only on alignment.
 5.  Recover rhythm after misses before continuing.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Tap/Click to fire a pin; some variants allow holding to adjust.
 - Pause/Restart available via UI.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- Q: I keep colliding with pins — why?
+- <!-- i18n:faq:id=faq:color-pin:i-keep-colliding-with-pins-51e760a1 -->
+  Q: I keep colliding with pins — why?
   
   A: You’re desynced. Watch a full rotation, then resume at a consistent beat.
 
-- Q: Does speed change mid‑level?
+- <!-- i18n:faq:id=faq:color-pin:does-speed-change-midlevel-d7a54f14 -->
+  Q: Does speed change mid‑level?
   
   A: Often yes; be ready for step‑ups and direction flips.
 
-- Q: Any trick for color segments?
+- <!-- i18n:faq:id=faq:color-pin:any-trick-for-color-segments-a045face -->
+  Q: Any trick for color segments?
   
   A: Shoot only when your target color aligns; forcing shots creates avoidable crashes.
+

@@ -12,10 +12,12 @@ releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Color Jump is a minimalist reflex game where your character can pass only through matching‑color gates or platforms. Time jumps to align colors, avoid mismatched barriers, and maintain rhythm as speed increases.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Read two obstacles ahead; don’t fixate on the nearest gate.
@@ -24,22 +26,28 @@ Color Jump is a minimalist reflex game where your character can pass only throug
 4.  Practice color order patterns if they loop.
 5.  Use sound cues to stabilize timing on dense sets.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Tap/Click to jump; some variants allow double jumps.
 - Pause/Restart via UI.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- Q: I always hit the wrong color — any fix?
+- <!-- i18n:faq:id=faq:color-jump:i-always-hit-the-wrong-6bdde45c -->
+  Q: I always hit the wrong color — any fix?
   
   A: Focus on the next two gates and time jumps slightly later to line up with high platforms.
 
-- Q: Is there an end?
+- <!-- i18n:faq:id=faq:color-jump:is-there-an-end-0d3d5bd5 -->
+  Q: Is there an end?
   
   A: Often endless; set personal bests.
 
-- Q: Double jump?
+- <!-- i18n:faq:id=faq:color-jump:double-jump-53512d34 -->
+  Q: Double jump?
   
   A: Some builds include it; watch the tutorial prompt.
+
 

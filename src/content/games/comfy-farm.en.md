@@ -12,10 +12,12 @@ releaseDate: 2025-10-17
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Comfy Farm is a charming and relaxing farming simulation game where you get to build and manage your own virtual farm. The goal is to transform a small plot of land into a thriving agricultural enterprise. You'll plant seeds, water your crops, harvest them for profit, and protect them from pests. Use your earnings to buy new seeds and valuable upgrades to automate and expand your comfy farm.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **The Farming Cycle:** The core of the game is the planting and harvesting cycle. Click on an empty plot to prepare it, plant a seed, and then water it. After a set amount of time, the crop will be ready to harvest, earning you money.
@@ -23,6 +25,7 @@ Comfy Farm is a charming and relaxing farming simulation game where you get to b
 3.  **Invest in Upgrades:** Reinvest your profits wisely. Upgrades are key to growing your farm. Buying a sprinkler will automate watering, and a scarecrow will help deter pests, freeing you up to manage a larger farm.
 4.  **Expand Your Land:** As you earn more money, you can purchase new plots of land. Expanding your farm allows you to plant more crops simultaneously, dramatically increasing your income potential.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 The game is played entirely with mouse clicks or taps.
@@ -31,14 +34,19 @@ The game is played entirely with mouse clicks or taps.
 *   **Scare Pests:** Click directly on any pest that appears on your farm to get rid of it.
 *   **Buy Upgrades:** Click on the upgrade icons (like the sprinkler or scarecrow) to purchase them.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: How do I make money faster?**
+* <!-- i18n:faq:id=faq:comfy-farm:q-how-do-i-make-13459c2c -->
+  **Q: How do I make money faster?**
     *   **A:** Plant as many crops as you can and harvest them as soon as they are ready. As you unlock more expensive seeds, plant those, as they typically yield a higher profit, even if they take longer to grow.
 
-*   **Q: What is the best upgrade to get first?**
+* <!-- i18n:faq:id=faq:comfy-farm:q-what-is-the-best-30cbf0cf -->
+  **Q: What is the best upgrade to get first?**
     *   **A:** The sprinkler is an excellent first upgrade. It automates the watering process, saving you a lot of time and clicks, and allowing you to manage more plots эффекტიvely.
 
-*   **Q: Why did one of my plants disappear?**
+* <!-- i18n:faq:id=faq:comfy-farm:q-why-did-one-of-390e6ea6 -->
+  **Q: Why did one of my plants disappear?**
     *   **A:** A pest probably got to it! You need to be quick to click on any crows or flies that appear over your crops to prevent them from being eaten.
+
 

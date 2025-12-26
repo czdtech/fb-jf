@@ -12,10 +12,12 @@ releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Captain Gold follows the timeless gold‑miner formula: swing a hook across the screen and release at the right moment to snag gold nuggets and treasures. Heavy objects pull slowly, light ones reel in faster. Stages set cash targets and time limits, with shop upgrades between rounds.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Prioritize big nuggets and bags early for faster quota.
@@ -24,22 +26,28 @@ Captain Gold follows the timeless gold‑miner formula: swing a hook across the 
 4.  Shop smart: buy power‑reel or extra dynamite first; evaluate per stage layout.
 5.  Timing cues: Release slightly before the hook lines up due to swing momentum.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Tap/Click to release the hook; tap again to use dynamite if supported.
 - Navigate shop menus between levels.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- Q: I keep coming up short on cash — any tips?
+- <!-- i18n:faq:id=faq:captain-gold:i-keep-coming-up-short-82efa75e -->
+  Q: I keep coming up short on cash — any tips?
   
   A: Target the largest visible nuggets first and ignore rocks. Invest in reel speed upgrades early.
 
-- Q: Is dynamite worth it?
+- <!-- i18n:faq:id=faq:captain-gold:is-dynamite-worth-it-f0153112 -->
+  Q: Is dynamite worth it?
   
   A: Yes when layouts are rock‑heavy — it saves time otherwise lost on low‑value pulls.
 
-- Q: Can I control hook angle precisely?
+- <!-- i18n:faq:id=faq:captain-gold:can-i-control-hook-angle-a0dde751 -->
+  Q: Can I control hook angle precisely?
   
   A: Learn the swing rhythm; release a fraction early to account for motion.
+
 

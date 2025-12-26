@@ -17,10 +17,12 @@ releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Chess Mania offers a superb chess experience for enthusiasts of all levels. This game provides a clean interface and a powerful AI opponent with multiple difficulty settings. Whether you are learning the rules or a seasoned grandmaster, Chess Mania is the perfect place to practice your strategy, test new openings, and sharpen your tactical skills. The goal remains the same: outwit your opponent and place their king in checkmate.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Master the Opening:** Start the game by developing your pieces toward the center of the board. A strong opening sets the stage for the entire game.
@@ -29,19 +31,25 @@ Chess Mania offers a superb chess experience for enthusiasts of all levels. This
 4.  **Endgame Practice:** The endgame is where games are often won or lost. Practice common endgame scenarios to convert your advantage into a win.
 5.  **Always Be Alert:** Constantly ask yourself what your opponent is planning. Look for threats and tactical opportunities on every move.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 *   **Select and Move:** Click on a piece to see its legal moves highlighted, then click on the destination square to move it.
 *   **Game Menu:** Use the menu to choose your opponent's difficulty, start a new game, or get a hint if you're stuck.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: How do I win at Chess?**
+* <!-- i18n:faq:id=faq:chess-mania:q-how-do-i-win-7b045f7e -->
+  **Q: How do I win at Chess?**
     *   **A:** You win by checkmating the opponent's king. This means the king is under attack and has no legal moves to escape.
 
-*   **Q: What is a stalemate?**
+* <!-- i18n:faq:id=faq:chess-mania:q-what-is-a-stalemate-9d9fcfe6 -->
+  **Q: What is a stalemate?**
     *   **A:** A stalemate is a type of draw where a player is not in check but has no legal moves to make. The game ends immediately in a tie.
 
-*   **Q: How can I improve my chess skills?**
+* <!-- i18n:faq:id=faq:chess-mania:q-how-can-i-improve-f82d33e2 -->
+  **Q: How can I improve my chess skills?**
     *   **A:** The best way to improve is to play regularly, analyze your games to learn from your mistakes, and study basic chess principles and tactics.
+
 

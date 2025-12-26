@@ -14,6 +14,7 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 Chess is a two-player strategy board game played on an 8x8 grid called a chessboard. Each player begins with 16 pieces: one king, one queen, two rooks, two knights, two bishops, and eight pawns. The objective of the game is to **checkmate** the opponent's king. A checkmate happens when the king is in a position to be captured (in "check") and there is no legal move to escape the capture.
@@ -47,6 +48,7 @@ The game is one of the world's most popular, known for its deep strategy and tac
 1.  **Activate Your King:** In the endgame, with fewer pieces on the board, the king becomes a powerful attacking and defending piece. Move it towards the center.
 2.  **Pawn Promotion:** The goal of the endgame is often to advance one of your pawns to the other end of the board to promote it to a queen. A "passed pawn" (a pawn with no enemy pawns in front of it) is a major advantage.
 
+<!-- i18n:section:controls -->
 ### Controls Guide (Digital Versions)
 
 In digital chess (on a computer or mobile device), the controls are simple and intuitive.
@@ -55,13 +57,16 @@ In digital chess (on a computer or mobile device), the controls are simple and i
     -   **Click and Click:** Click a piece to select it (legal moves are often highlighted), then click the destination square to move it.
 -   **Castling:** To castle, you simply move your king two squares towards the rook you are castling with. The rook will automatically move to its correct position.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
+<!-- i18n:faq:id=faq:chess:what-is-the-difference-between-14a5d16a -->
 **1. What is the difference between Checkmate and Stalemate?**
 > This is a crucial distinction.
 > - **Checkmate** is a win. It occurs when a king is in check (under attack) and there is no legal move to get out of check.
 > - **Stalemate** is a draw. It occurs when a player is *not* in check, but has no legal moves to make. The game ends in a tie.
 
+<!-- i18n:faq:id=faq:chess:what-are-the-rules-for-46d19e24 -->
 **2. What are the rules for Castling?**
 > You can only castle if all of the following conditions are met:
 > 1.  It is that king's very first move.
@@ -69,9 +74,12 @@ In digital chess (on a computer or mobile device), the controls are simple and i
 > 3.  There are no pieces between the king and the rook.
 > 4.  The king is not currently in check, does not pass through a square that is under attack, and does not land on a square that is under attack.
 
+<!-- i18n:faq:id=faq:chess:what-is-en-passant-9ff233fd -->
 **3. What is "En Passant"?**
 > *En Passant* ("in passing" in French) is a special pawn capture. It can only occur immediately after an opponent's pawn moves two squares forward from its starting position, landing right beside your pawn. You can then capture that pawn as if it had only moved one square. This special capture must be done on the very next turn.
 
+<!-- i18n:faq:id=faq:chess:can-the-king-capture-pieces-c8c6f366 -->
 **4. Can the King capture pieces?**
 > Yes, the king can capture an opponent's piece by moving onto its square, just like any other piece. However, a king can never move into a square that is attacked by an opponent's piece (moving into check).
+
 

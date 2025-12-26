@@ -12,10 +12,12 @@ releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Clash of Warriors condenses card combat into short, tactical rounds. Build tempo with efficient plays, read enemy responses, and secure board control to win tight matches.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Curve discipline: Spend all resources cleanly each turn.
@@ -24,14 +26,20 @@ Clash of Warriors condenses card combat into short, tactical rounds. Build tempo
 4.  Tech picks: Include answers to common threats if deckbuilding exists.
 5.  Mulligan (if any): Seek early curve pieces.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Play cards by clicking/tapping; end turns via UI.
 - Hover/tap to inspect text.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- Is RNG decisive? Draws matter, but lines and sequencing win close games.
-- Pay‑to‑win? Browser versions are typically self‑contained.
-- Fast mode? Short matches suit quick sessions.
+- <!-- i18n:faq:id=faq:clash-of-warriors:is-rng-decisive-333feb22 -->
+  Is RNG decisive? Draws matter, but lines and sequencing win close games.
+- <!-- i18n:faq:id=faq:clash-of-warriors:paytowin-521c5563 -->
+  Pay‑to‑win? Browser versions are typically self‑contained.
+- <!-- i18n:faq:id=faq:clash-of-warriors:fast-mode-f7a3450e -->
+  Fast mode? Short matches suit quick sessions.
+
 

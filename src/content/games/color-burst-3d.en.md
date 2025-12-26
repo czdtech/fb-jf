@@ -14,6 +14,7 @@ releaseDate: 2025-10-18
 
 
 
+<!-- i18n:section:introduction -->
 ### **Game Introduction**
 
 *Color Burst 3D* is a fast-paced and addictive arcade game that tests your reflexes and timing. The objective is to **guide a continuously advancing colored ball through a series of rotating, multi-colored rings.**
@@ -22,6 +23,7 @@ To successfully pass through each ring, the player must maneuver the ball so tha
 
 As the game progresses, the speed increases, the rings rotate faster, and the patterns become more complex. The ball will often change color after passing through a ring, forcing the player to constantly adapt. The goal is to survive for as long as possible and pass through as many rings as you can to achieve the highest score.
 
+<!-- i18n:section:tips -->
 ### **Gameplay Strategy & Tips**
 
 1.  **Timing is Everything**: This is a game of rhythm and timing, not just positioning. You need to anticipate the ring's rotation and time your ball's entry to perfectly align with the correct color segment.
@@ -31,23 +33,30 @@ As the game progresses, the speed increases, the rings rotate faster, and the pa
 5.  **Adapt to Color Changes Instantly**: The moment your ball passes through a ring and changes color, your brain needs to immediately switch its target for the next ring. This is a core part of the challenge.
 6.  **Focus on the Gap**: Sometimes it's easier to focus on the "gap" you're aiming for rather than the entire rotating object. Keep your eyes on the prize—the single colored segment you need to hit.
 
+<!-- i18n:section:controls -->
 ### **Controls Guide**
 
 As shown in the "How to Play" tutorial, the controls are extremely simple and designed for one-touch gameplay.
 
 *   **Move the Ball**: **Touch and drag** your finger left and right on the slider at the bottom of the screen to control the ball's horizontal position.
 
+<!-- i18n:section:faq -->
 ### **Frequently Asked questions (FAQ)**
 
+<!-- i18n:faq:id=faq:color-burst-3d:what-happens-if-i-hit-8679a7a1 -->
 **1. What happens if I hit the wrong color?**
 The game ends immediately, and you will have to restart. The core rule is to only touch the color that matches your ball.
 
+<!-- i18n:faq:id=faq:color-burst-3d:does-the-ball-always-change-6c682eb1 -->
 **2. Does the ball always change color?**
 Yes, in most games of this type, the ball will change color after successfully passing through a ring or by hitting a special color-changing icon. You must always be prepared to adapt.
 
+<!-- i18n:faq:id=faq:color-burst-3d:how-do-i-get-a-06d67069 -->
 **3. How do I get a high score?**
 Your score is directly tied to the number of rings you successfully pass through. The longer you survive, the higher your score will be.
 
+<!-- i18n:faq:id=faq:color-burst-3d:is-this-game-endless-f7d8f28a -->
 **4. Is this game endless?**
 Yes, *Color Burst 3D* is designed as an endless arcade-style game. The goal is not to reach an end, but to challenge yourself and others to get the highest score possible.
+
 

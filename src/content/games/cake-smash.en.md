@@ -12,10 +12,12 @@ releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Cake Smash is a vibrant and engaging match-3 puzzle game. The objective is to swap adjacent cakes to create lines of three or more identical cakes, which then get "smashed" and removed from the board, with new cakes falling into place. Each level has a specific goal, such as reaching a certain score or clearing a certain number of a specific type of cake.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Identify Matches:** Look for opportunities to match three or more identical cakes by swapping two adjacent cakes.
@@ -23,14 +25,19 @@ Cake Smash is a vibrant and engaging match-3 puzzle game. The objective is to sw
 3.  **Combine Special Cakes:** For even bigger effects, try to swap two special cakes with each other.
 4.  **Focus on the Objective:** Pay attention to the level's goal. Sometimes you need to focus on clearing specific tiles or reaching a score target within a limited number of moves.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 *   **Mouse/Touch:** Use the mouse or touch screen to click and drag or tap on adjacent cakes to swap them.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: What do the special cakes do?**
+* <!-- i18n:faq:id=faq:cake-smash:q-what-do-the-special-511b22df -->
+  **Q: What do the special cakes do?**
     *   **A:** Special cakes, created by matching more than three regular cakes, have various effects like clearing entire rows, columns, or all cakes of a certain color.
-*   **Q: How do I beat difficult levels?**
+* <!-- i18n:faq:id=faq:cake-smash:q-how-do-i-beat-0ef45382 -->
+  **Q: How do I beat difficult levels?**
     *   **A:** Try to create as many special cakes as possible and combine them for maximum effect. Plan your moves ahead and focus on the level objective.
+
 

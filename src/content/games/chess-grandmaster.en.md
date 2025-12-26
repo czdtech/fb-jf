@@ -12,10 +12,12 @@ releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Chess Grandmaster is a feature‑complete browser chess experience against AI or local opponents. Master the three phases: openings (development and king safety), middlegame (tactics like forks, pins, skewers), and endgames (king activity, opposition, basic mates). Adjustable difficulty helps you train calculation and pattern recognition.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Openings: Develop minor pieces, castle early, and fight for the center (e4/d4).
@@ -24,22 +26,28 @@ Chess Grandmaster is a feature‑complete browser chess experience against AI or
 4.  Endgames: Activate your king; know basic mates (KQ vs K, KR vs K) and pawn endings (opposition/zugzwang).
 5.  Time control: Play simple, safe moves when low on time.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Click a piece to see legal moves; click a destination to move.
 - Offer draw/resign and set AI level in the UI.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- Q: How do I improve quickly?
+- <!-- i18n:faq:id=faq:chess-grandmaster:how-do-i-improve-quickly-c83ab99c -->
+  Q: How do I improve quickly?
   
   A: Solve tactics daily, review your blunders, and learn a simple opening repertoire to reach familiar middlegames.
 
-- Q: Any beginner opening tips?
+- <!-- i18n:faq:id=faq:chess-grandmaster:any-beginner-opening-tips-d190661c -->
+  Q: Any beginner opening tips?
   
   A: Play 1.e4 or 1.d4, develop knights before bishops, castle, and connect rooks.
 
-- Q: What endgames should I learn first?
+- <!-- i18n:faq:id=faq:chess-grandmaster:what-endgames-should-i-learn-b6cc754b -->
+  Q: What endgames should I learn first?
   
   A: Checkmates with KQ vs K, KR vs K, basic king‑pawn opposition, and rook endings like the Lucena/Philidor positions.
+
 

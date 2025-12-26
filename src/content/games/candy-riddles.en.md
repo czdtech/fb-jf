@@ -12,10 +12,12 @@ releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Candy Riddles is a colorful match‑3 puzzler where you swap adjacent candies to form lines of three or more. Matches clear tiles, charge power‑ups, and can free trapped cells or collect mission items. As stages progress, blockers (e.g., frosting, crates), limited moves, and special goals require planning and efficient cascades.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Work from the bottom to generate natural cascades that clear more tiles for free.
@@ -24,23 +26,29 @@ Candy Riddles is a colorful match‑3 puzzler where you swap adjacent candies to
 4.  Avoid isolating colors near walls; keep the board open for future matches.
 5.  On limited‑move stages, map two to three moves ahead to conserve steps.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Swap two neighboring candies by dragging; only valid matches are executed.
 - Activate power‑ups by matching or tapping them per rules.
 - Pause/Restart via UI.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- Q: I always fail move‑limit levels — what am I doing wrong?
+- <!-- i18n:faq:id=faq:candy-riddles:i-always-fail-movelimit-levels-44c6bd4c -->
+  Q: I always fail move‑limit levels — what am I doing wrong?
   
   A: You may be scoring without advancing the objective. Prioritize blockers/targets and combine power‑ups to maximize value per move.
 
-- Q: Do diagonals count?
+- <!-- i18n:faq:id=faq:candy-riddles:do-diagonals-count-bfdfb2f9 -->
+  Q: Do diagonals count?
   
   A: Typically no — most match‑3s only count orthogonal lines unless a special rule says otherwise.
 
-- Q: Any tip for stubborn blockers?
+- <!-- i18n:faq:id=faq:candy-riddles:any-tip-for-stubborn-blockers-ae2a8de4 -->
+  Q: Any tip for stubborn blockers?
   
   A: Detonate bombs next to them or chain line clears through the row/column to chip them down quickly.
+
 

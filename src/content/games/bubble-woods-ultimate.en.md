@@ -12,10 +12,12 @@ releaseDate: 2025-10-17
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Bubble Woods Ultimate is a high-energy, fast-paced bubble shooter that challenges you to score as many points as possible within a tight 60-second time limit. Set in a vibrant forest, you must shoot bubbles to create matches of three or more, triggering cascades and earning massive points. The game features a variety of powerful boosters and a level-up system that rewards skillful play, making every round an exciting race against the clock.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Speed is Everything:** With only 60 seconds on the clock, you need to be fast. Aim and shoot quickly. Don't spend too long deliberating on a single shot.
@@ -26,20 +28,26 @@ Bubble Woods Ultimate is a high-energy, fast-paced bubble shooter that challenge
     *   **Bomb Bubble:** Explodes on impact, clearing a small cluster.
     *   **Hourglass:** The most valuable one—hitting it adds a few precious seconds to your timer.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 *   **Aim:** Move your mouse to aim the bubble cannon.
 *   **Shoot:** Click the left mouse button to fire the bubble.
 *   **Swap:** You can often click on the cannon or the next bubble in the queue to swap between your current and next projectile.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: What is the main objective?**
+* <!-- i18n:faq:id=faq:bubble-woods-ultimate:q-what-is-the-main-212faaec -->
+  **Q: What is the main objective?**
     *   **A:** To score as many points as you can within the 60-second time limit.
 
-*   **Q: How do I get more time?**
+* <!-- i18n:faq:id=faq:bubble-woods-ultimate:q-how-do-i-get-dab4fb8d -->
+  **Q: How do I get more time?**
     *   **A:** The only way to get more time is by hitting the special Hourglass bubbles that appear on the board.
 
-*   **Q: What is the bar at the bottom next to the cannon?**
+* <!-- i18n:faq:id=faq:bubble-woods-ultimate:q-what-is-the-bar-7e10f73f -->
+  **Q: What is the bar at the bottom next to the cannon?**
     *   **A:** That is your Fireball meter. It fills up with each successful shot. When you make 10 consecutive hits, it will be full, and your next shot will be a powerful Fireball.
+
 

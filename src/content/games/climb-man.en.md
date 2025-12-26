@@ -13,6 +13,7 @@ releaseDate: 2025-10-18
 
 
 
+<!-- i18n:section:introduction -->
 ### **Game Introduction**
 
 *Climb Man: Walk to the Sky* is a fast-paced and addictive arcade climber that tests your timing and reflexes. The objective is to **climb an endless, zig-zagging staircase as high as possible without falling or being hit by obstacles.**
@@ -21,6 +22,7 @@ Players control a character who stands at the bottom of a staircase. By tapping 
 
 The challenge comes from the increasing speed and the appearance of various obstacles, such as ropes or other hazards, that you must avoid. A single mistimed tap or a wrong directional choice will cause your character to fall, ending the run. The goal is to climb as many steps as possible to achieve a high score, complete missions, and unlock new characters.
 
+<!-- i18n:section:tips -->
 ### **Gameplay Strategy & Tips**
 
 1.  **Find Your Rhythm**: This is a rhythm-based game at its core. Don't just react to each step as it comes. Try to get into a steady "tap-tap-tap" rhythm that matches the flow of the stairs.
@@ -30,6 +32,7 @@ The challenge comes from the increasing speed and the appearance of various obst
 5.  **Complete Missions and Daily Rewards**: As the screenshots show, the game has a meta-progression system with missions, daily check-ins ("Attendance Check"), and currency (gold and diamonds). Log in daily and focus on completing missions to earn currency, which can be used to unlock new characters (like the "Swordsman") and potentially power-ups.
 6.  **Use Two Thumbs**: For maximum speed and control, play with both thumbs, hovering over the left and right buttons, respectively. This is much faster and more accurate than using a single finger.
 
+<!-- i18n:section:controls -->
 ### **Controls Guide**
 
 The controls are extremely simple, designed for fast-paced mobile gameplay.
@@ -37,17 +40,23 @@ The controls are extremely simple, designed for fast-paced mobile gameplay.
 *   **Climb Left**: Tap the **"Left Climb!"** button on the bottom left of the screen.
 *   **Climb Right**: Tap the **"Right Climb!"** button on the bottom right of the screen.
 
+<!-- i18n:section:faq -->
 ### **Frequently Asked questions (FAQ)**
 
+<!-- i18n:faq:id=faq:climb-man:what-happens-if-i-press-e7206330 -->
 **1. What happens if I press the wrong button?**
 If you press "Left Climb!" when the next step is on the right (or vice versa), your character will jump into the empty space and fall, ending the game.
 
+<!-- i18n:faq:id=faq:climb-man:how-do-i-get-new-d286df2c -->
 **2. How do I get new characters?**
 As shown in the "Attendance Check" screen, you can unlock characters like the "Swordsman" by logging in for consecutive days. You can also likely purchase new characters from the "Shop" or unlock them through the "Character" menu using the gold and diamonds you earn from playing and completing missions.
 
+<!-- i18n:faq:id=faq:climb-man:what-is-the-goal-of-c816fee5 -->
 **3. What is the goal of the game?**
 The primary goal is to achieve the highest score possible by climbing the most steps in a single run. A secondary goal is to complete missions and collect all the available characters.
 
+<!-- i18n:faq:id=faq:climb-man:is-this-game-endless-f7d8f28a -->
 **4. Is this game endless?**
 Yes, the main gameplay mode is an endless climber where the stairs are procedurally generated, and you climb until you make a mistake.
+
 

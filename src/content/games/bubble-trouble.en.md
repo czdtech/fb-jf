@@ -15,6 +15,7 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 Bubble Trouble is a fast-paced arcade action game. The player controls a small, devil-like character at the bottom of the screen who can only move left and right. The objective is to clear the screen of all bouncing bubbles before the timer runs out.
@@ -23,6 +24,7 @@ The core mechanic involves shooting a harpoon-like projectile straight up. When 
 
 The main challenge is to avoid being touched by any of the bouncing bubbles. If a bubble hits the player's character, they lose a life. The game is lost if the player runs out of lives or if the timer reaches zero. As players progress, levels become more difficult with more bubbles, complex starting layouts, and shorter time limits. The game also features a popular two-player cooperative mode.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy
 
 -   **Prioritize the Largest Bubbles:** Always try to pop the biggest bubbles first. They are the most dangerous because they cover the most area and create the most subsequent smaller bubbles. Getting them out of the way early reduces the overall chaos.
@@ -36,6 +38,7 @@ The main challenge is to avoid being touched by any of the bouncing bubbles. If 
     -   **Dynamite:** Pops all bubbles of a certain size on the screen.
 -   **Two-Player Coordination:** In 2-player mode, communication is key. The best strategy is often to "divide and conquer." Each player takes one half of the screen. This prevents you from running into each other and provides much better screen coverage.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 The controls are simple and designed for quick arcade action.
@@ -50,17 +53,23 @@ The controls are simple and designed for quick arcade action.
 
 *(Note: Player 2 controls can sometimes vary slightly, e.g., using X and C for movement and W to shoot, depending on the version of the game.)*
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
+<!-- i18n:faq:id=faq:bubble-trouble:is-it-possible-to-shoot-be222ac0 -->
 **1. Is it possible to shoot diagonally?**
 > No, you can only shoot your harpoon straight up. The challenge comes from positioning your character correctly underneath the moving bubbles.
 
+<!-- i18n:faq:id=faq:bubble-trouble:how-do-powerups-work-75e3d639 -->
 **2. How do power-ups work?**
 > Power-ups are randomly dropped when you pop a bubble. You must physically move your character over the falling icon to collect it. Most power-ups are temporary.
 
+<!-- i18n:faq:id=faq:bubble-trouble:what-is-the-best-powerup-0ce3499e -->
 **3. What is the best power-up?**
 > This is subjective, but the **Shield** is arguably the most valuable as it prevents you from losing a life. The **Sticky Harpoon** is incredibly effective for clearing multiple bubbles at once.
 
+<!-- i18n:faq:id=faq:bubble-trouble:what-happens-when-the-timer-5c991ddc -->
 **4. What happens when the timer runs out?**
 > If the timer reaches zero before you have cleared all the bubbles, you lose a life and must restart the level. If you have no lives left, the game is over.
+
 

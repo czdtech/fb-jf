@@ -14,12 +14,14 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 Cat Mario, more formally known as Syobon Action (しょぼんのアクション), is a Japanese freeware game that is a parody of the classic *Super Mario Bros*. At first glance, it appears to be a simple, crudely drawn clone of Mario, featuring a white cat-like character in a familiar-looking world. However, the game is infamous for being an "unfair platformer" or "troll game."
 
 The entire game is designed to subvert player expectations and troll them in every way imaginable. The levels are filled with countless hidden traps, invisible blocks, ground that suddenly collapses, enemies that behave unpredictably, and background elements that are actually lethal. The core gameplay is based on trial and error, requiring players to die repeatedly to memorize the location and nature of each trap. The game's humor comes from the sheer absurdity and unfairness of the deaths, and the life counter, which often goes into negative numbers, serves as a running gag. The goal is simply to reach the flagpole at the end of each stage without rage-quitting.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough Principles
 
 There is no "strategy" in the traditional sense, only memorization. The game is a test of patience and memory, not skill.
@@ -38,6 +40,7 @@ There is no "strategy" in the traditional sense, only memorization. The game is 
     -   When you reach the final staircase, an enemy will spawn at the top. Be prepared.
     -   **Do not hit the flagpole.** You must jump *over* the flagpole to land on a hidden block and then walk to the end castle to complete the level. Hitting the pole itself is a trap.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 The controls are very simple and mimic classic 2D platformers.
@@ -46,17 +49,23 @@ The controls are very simple and mimic classic 2D platformers.
 
 There is no run button or fire button.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
+<!-- i18n:faq:id=faq:cat-mario:why-do-i-keep-dying-8804d489 -->
 **1. Why do I keep dying for no reason? This game is impossible!**
 > That is the entire point of the game. It is designed to be an "unfair" or "troll" game. Every trap is placed where a player would least expect it, breaking the conventional rules of platforming games. It is beatable, but only through memorization.
 
+<!-- i18n:faq:id=faq:cat-mario:how-many-lives-do-i-05175204 -->
 **2. How many lives do I have? My life counter is negative.**
 > You have infinite lives. The life counter going into negative numbers is a joke from the game developers. Each time you die, the counter decreases by one, but it will never cause a "Game Over."
 
+<!-- i18n:faq:id=faq:cat-mario:is-there-a-way-to-8a1027e6 -->
 **3. Is there a way to know where the traps are?**
 > No, not on your first try. The only way to learn the location of the traps is by triggering them and dying.
 
+<!-- i18n:faq:id=faq:cat-mario:whats-the-real-name-of-0cf1a388 -->
 **4. What's the real name of this game?**
 > The game is most commonly called "Cat Mario" by English-speaking players. Its original Japanese name is "Syobon Action" (しょぼんのアクション). It is also sometimes referred to as "Neko Mario."
+
 

@@ -12,10 +12,12 @@ releaseDate: 2025-10-17
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Classic Solitaire, also known as Klondike, is one of the most famous and beloved single-player card games in the world. The objective is to organize a shuffled 52-card deck into four foundation piles, one for each suit, in ascending order from Ace to King. The game requires strategy, patience, and a bit of luck as you manipulate cards on the tableau to uncover hidden cards and build your foundations.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Game Components:**
@@ -31,20 +33,26 @@ Classic Solitaire, also known as Klondike, is one of the most famous and beloved
     *   **Using the Stock Pile:** When you have no more moves on the tableau, draw from the Stock Pile. Use the revealed cards to make new moves on the tableau or to build on your foundations.
     *   **Empty Tableau Columns:** Only a King (or a sequence starting with a King) can be moved into an empty column on the tableau.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 *   **Move Cards:** Click and drag a card (or a valid sequence of cards) from one pile to another.
 *   **Draw from Stock:** Click on the face-down Stock Pile to draw a card (or three, depending on the game variant) to the Waste Pile.
 *   **Auto-Move to Foundation:** In many digital versions, you can double-click a card, and it will automatically move to the correct foundation pile if the move is valid.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: What is the goal of the game?**
+* <!-- i18n:faq:id=faq:classic-solitaire:q-what-is-the-goal-ab58581b -->
+  **Q: What is the goal of the game?**
     *   **A:** The goal is to move all 52 cards into the four foundation piles, sorted by suit and in order from Ace to King.
 
-*   **Q: What happens when I run out of moves?**
+* <!-- i18n:faq:id=faq:classic-solitaire:q-what-happens-when-i-e8e69d77 -->
+  **Q: What happens when I run out of moves?**
     *   **A:** If you cannot make any more moves on the tableau or to the foundations, you must draw from the stock pile. If the stock pile is also empty and no moves are possible, the game is lost.
 
-*   **Q: Can I move cards back from the foundation to the tableau?**
+* <!-- i18n:faq:id=faq:classic-solitaire:q-can-i-move-cards-a79d9fc6 -->
+  **Q: Can I move cards back from the foundation to the tableau?**
     *   **A:** Yes, in most versions of the game, you can move the top card of a foundation pile back onto the tableau if it helps you uncover other cards. This is often a key strategic move.
+
 
