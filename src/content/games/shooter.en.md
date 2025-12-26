@@ -14,6 +14,7 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 "Five Nights at Freddy's Shooter" is a horror action game where players fight against animatronic characters from the FNAF universe. Use various weapons to survive in shooting gameplay style, defending against waves of attacking robots. The game combines classic FNAF horror elements with fast-paced shooting action.
@@ -26,6 +27,7 @@ releaseDate: 2025-08-16
 4.  **Movement Strategy**: Keep moving to avoid enemy attacks and look for cover positions.
 5.  **Wave Preparation**: Use intervals between waves to reload and adjust position.
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 
 *   **Movement**: Use WASD keys or arrow keys to control character movement.
@@ -34,6 +36,7 @@ releaseDate: 2025-08-16
 *   **Reload**: Use R key to reload.
 *   **Weapon Switch**: Use number keys or scroll wheel to switch between different weapons.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions
 
 1.  **Q: How can I improve survival time?**
@@ -44,3 +47,4 @@ releaseDate: 2025-08-16
     **A**: The game typically contains multiple waves of enemies, with difficulty and enemy count gradually increasing each wave.
 4.  **Q: How do I handle multiple enemies attacking simultaneously?**
     **A**: Stay calm, prioritize defeating the closest threats, and use terrain advantages to separate enemies.
+

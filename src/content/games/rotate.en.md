@@ -14,6 +14,7 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 "Rotate" is a challenging puzzle game where players must rotate the game world to guide a ball through complex mazes and obstacles. The game utilizes the physics properties of gravity and momentum, requiring players to cleverly control rotation angles and timing to get the ball to reach the target position in each level.
@@ -26,12 +27,14 @@ releaseDate: 2025-08-16
 4.  **Utilize Momentum**: Learn to use the ball's movement momentum to pass through areas that are difficult to reach directly.
 5.  **Think from Multiple Angles**: Observing levels from different perspectives may reveal unexpected solutions.
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 
 *   **Rotation Control**: Typically use mouse dragging or keyboard arrow keys to rotate the game world.
 *   **Reset**: If the ball gets stuck or falls out of bounds, you can reset the current level to start over.
 *   **Pause**: You can pause the game while thinking of strategies and planning the next rotation operation.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions
 
 1.  **Q: What if the ball keeps falling out of bounds?**

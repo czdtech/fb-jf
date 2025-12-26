@@ -21,6 +21,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 "Slippery Slope" is a thrilling skiing or sliding game where players navigate down treacherous mountain slopes, avoiding obstacles and maintaining control while racing against time in challenging downhill courses. The game is famous for its fast-paced action and gameplay requiring precise control.
@@ -33,6 +34,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 4.  **Utilize Terrain**: Make good use of slopes and terrain changes to gain extra speed or better control.
 5.  **Risk Assessment**: Judge when to risk taking shortcuts and when to choose safe routes.
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 
 *   **Steering**: Use left/right arrow keys or A/D keys to control sliding direction.
@@ -40,6 +42,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 *   **Jump**: Use spacebar or up arrow key to jump (if supported).
 *   **Balance**: Maintain character balance, avoiding falls or loss of control.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions
 
 1.  **Q: How do I maintain control at high speeds?**
@@ -50,3 +53,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
     **A**: Typically includes multiple slopes with different difficulties and designs, each with unique challenges.
 4.  **Q: How can I achieve higher scores?**
     **A**: By completing quickly, avoiding collisions, collecting reward items, and performing special trick moves to improve scores.
+

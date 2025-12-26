@@ -19,6 +19,7 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 "Monopoly" is a classic real estate board game where players roll dice to move around the game board, buying, renting, and selling properties. The goal is to bankrupt other players and ultimately become the wealthiest tycoon. The game combines elements of strategy, negotiation, and luck, and is loved by players worldwide.
@@ -31,6 +32,7 @@ releaseDate: 2025-08-16
 4.  **Trade and Negotiate**: Engage in property or card trades with other players, negotiating to acquire a more advantageous asset portfolio.
 5.  **Manage Finances**: Plan your finances wisely to ensure you have enough cash flow to cover rents, taxes, and unforeseen events.
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 
 *   **Roll Dice**: Click the dice during your turn to roll them, determining how many spaces your token moves.
@@ -38,6 +40,7 @@ releaseDate: 2025-08-16
 *   **Trade**: Initiate trades with other players, selecting properties or cards you wish to exchange.
 *   **Pay**: When landing on a space that requires rent or tax payment, you will be prompted to pay automatically.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions
 
 1.  **Q: What is the ideal number of players for Monopoly?**
@@ -48,3 +51,4 @@ releaseDate: 2025-08-16
     **A**: Once you are unable to pay your debts (including rent, taxes, or bank loans), you go bankrupt and are out of the game.
 4.  **Q: What are the special squares on the board?**
     **A**: Special squares include "Chance," "Community Chest," "Go to Jail," and "Free Parking," which trigger various events and rules.
+

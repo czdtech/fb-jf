@@ -14,6 +14,7 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 "OvO Game" is a fast-paced and extremely challenging platformer. Players control a stickman character, using precise jumps, slides, and wall jumps to navigate complex levels, aiming to reach the finish line as quickly as possible. The game is known for its high difficulty and fluid controls, testing players' reaction speed and operational precision.
@@ -26,6 +27,7 @@ releaseDate: 2025-08-16
 4.  **Practice Repeatedly**: Due to the high difficulty, many levels require repeated attempts to find the optimal way to pass.
 5.  **Find Shortcuts**: Some levels might have hidden shortcuts or more efficient ways to complete them; exploration can reveal these.
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 
 *   **Move**: Use left/right arrow keys or A/D keys to control character movement.
@@ -33,6 +35,7 @@ releaseDate: 2025-08-16
 *   **Slide**: Use the down arrow key or S key to slide, which can be used to pass through narrow passages.
 *   **Wall Jump**: When the character is near a wall, pressing the jump key allows for a wall jump; continuous wall jumps can be used to climb upwards.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions
 
 1.  **Q: What is the difficulty level of "OvO Game"?**

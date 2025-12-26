@@ -20,6 +20,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 "Paper Minecraft" is a 2D re-imagining of the popular sandbox game "Minecraft," offering players a side-scrolling world to explore, mine resources, craft items, build structures, and survive against various monsters. This game retains the core gameplay of the original while providing a unique experience from a 2D perspective.
@@ -32,6 +33,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 4.  **Explore and Discover**: Explore different biomes, discover hidden caves, treasures, and resource points.
 5.  **Farming and Animal Husbandry**: Grow crops for food, and raise animals to provide meat, leather, and other resources.
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 
 *   **Movement**: Use A/D keys or left/right arrow keys to control horizontal character movement.
@@ -40,6 +42,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 *   **Place Blocks**: Select a block from your inventory, then click the right mouse button to place it.
 *   **Open Inventory/Crafting**: Use the E key to open your inventory, manage items, and craft.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions
 
 1.  **Q: What are the main differences between "Paper Minecraft" and the original "Minecraft"?**
@@ -50,3 +53,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
     **A**: By collecting higher-tier ores (e.g., iron, diamond) and processing them in a crafting table and furnace, you can create more durable and powerful tools and weapons.
 4.  **Q: Does the game have dimensions like "The Nether" or "The End"?**
     **A**: As a 2D re-imagining, it usually does not include all the dimensions of the original, but there might be simplified or adapted versions.
+

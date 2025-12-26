@@ -19,6 +19,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 "Slope 2" is the sequel to the popular endless running game where players control a ball rolling down a steep slope, avoiding obstacles and red blocks while trying to survive as long as possible in this fast-paced challenge. The game continues the core gameplay of the original while adding new features and more challenging level designs.
@@ -31,12 +32,14 @@ releaseDate: 2025-08-16T00:00:00.000Z
 4.  **Obstacle Recognition**: Quickly identify different types of obstacles, understanding which can be touched and which must be avoided.
 5.  **Focus Training**: Maintain high concentration to avoid mistakes due to distraction.
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 
 *   **Left/Right Control**: Use A/D keys or left/right arrow keys to control the ball's left and right movement.
 *   **Maintain Balance**: Avoid excessive steering that causes the ball to lose control.
 *   **Jump**: Some versions may support jumping functionality (if available).
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions
 
 1.  **Q: How can I improve survival time?**
@@ -47,3 +50,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
     **A**: "Slope 2" typically includes improved graphics, new obstacle types, and more challenging level designs.
 4.  **Q: Does the game keep high score records?**
     **A**: Yes, the game records your highest score, and you can challenge yourself to continuously break records.
+

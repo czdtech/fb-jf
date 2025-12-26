@@ -14,6 +14,7 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 "Moto X3M" is an exciting and challenging online motorcycle stunt racing game. Players ride motorcycles through treacherous tracks filled with obstacles, ramps, and explosions, performing various daring stunts. The goal is to cross the finish line as quickly as possible and complete as many flips and stunts as possible to earn higher scores.
@@ -26,12 +27,14 @@ releaseDate: 2025-08-16
 4.  **Master Acceleration and Braking**: Use acceleration and braking judiciously to adapt to different terrains and stunt requirements.
 5.  **Repeated Attempts**: Some levels may require multiple attempts to find the optimal route and stunt timing.
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 
 *   **Accelerate**: Typically using the W key, up arrow key, or mouse click.
 *   **Brake**: Typically using the S key, down arrow key, or mouse click.
 *   **Lean Forward/Backward**: Typically using the A/D keys, left/right arrow keys, or tilting the device to control the motorcycle's posture in the air or on slopes.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions
 
 1.  **Q: How can I achieve higher scores in the game?**

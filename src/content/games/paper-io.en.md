@@ -18,6 +18,7 @@ releaseDate: 2025-08-16
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 "Paper.io" is a popular multiplayer online territory-conquering game. Players control a colored block with the objective of claiming as much territory as possible by drawing lines and enclosing areas. In the game, you need to cleverly expand your territory while being wary of attacks from other players, as your line is your weakness; once touched, you fail. The game is fast-paced, highly strategic, and full of competitive fun.
@@ -30,10 +31,12 @@ releaseDate: 2025-08-16
 4.  **Cut Off Enemies**: If an enemy player is expanding their territory by drawing a line, you can eliminate them by cutting off their line.
 5.  **Utilize Map Edges**: The edges of the map can also be used as boundaries to enclose areas, which can save time and avoid risks.
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 
 *   **Movement**: Typically use the keyboard arrow keys or WASD keys to control your colored block's movement. Your block will automatically draw a line.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions
 
 1.  **Q: What is the objective of "Paper.io"?**
@@ -44,3 +47,4 @@ releaseDate: 2025-08-16
     **A**: "Paper.io" typically does not have a complex upgrade system; the core of the game lies in players' immediate strategy and execution.
 4.  **Q: How do I avoid being eliminated by other players?**
     **A**: Avoid staying outside your territory for too long, especially while drawing lines, and always be aware of nearby enemies. When enemies approach, quickly return to your own territory.
+

@@ -14,6 +14,7 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 "Pokemon Fire Red" is a faithful remake of the original "Pokémon Red" game. Players embark on an adventure through the Kanto region, catching and training Pokémon, battling Gym Leaders, and thwarting the plans of Team Rocket with the ultimate goal of becoming the Pokémon League Champion. The game retains the classic storyline and gameplay of the original, with visual and functional enhancements from the GBA era.
@@ -26,6 +27,7 @@ releaseDate: 2025-08-16
 4.  **Challenge Gyms**: Defeat the eight Gym Leaders and collect all badges, which are necessary to enter the Pokémon League.
 5.  **Confront Team Rocket**: Throughout your adventure, you will repeatedly encounter Team Rocket; thwart their evil schemes.
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 
 *   **Movement**: Use the arrow keys to control character movement.
@@ -34,6 +36,7 @@ releaseDate: 2025-08-16
 *   **Start Button (Open Menu)**: Open the main menu to view Pokémon, items, save the game, etc.
 *   **Select Button (Register Item)**: Register frequently used items in the bag for quick access.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions
 
 1.  **Q: What are the starter Pokémon in "Pokemon Fire Red"?**

@@ -20,6 +20,7 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 "Slither.io" is a popular multiplayer online game where players control a snake-like avatar, consuming glowing orbs to grow larger while avoiding collisions with other players. In this endless arena, players compete for dominance with the goal of becoming the biggest and longest snake.
@@ -32,12 +33,14 @@ releaseDate: 2025-08-16
 4.  **Border Utilization**: Use map boundaries to protect one side, reducing the risk of being surrounded.
 5.  **Patient Waiting**: Wait for other snakes to make mistakes, then collect the large amount of orbs they leave behind.
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 
 *   **Movement**: Use mouse to control snake movement direction; the snake head follows the mouse pointer.
 *   **Boost**: Hold left mouse button or spacebar to accelerate movement.
 *   **Observation**: Use mouse wheel or keys to zoom view (in some versions).
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions
 
 1.  **Q: How do I grow quickly?**
@@ -48,3 +51,4 @@ releaseDate: 2025-08-16
     **A**: Boosting consumes your body length, so use it cautiously at critical moments.
 4.  **Q: Is there a leaderboard in the game?**
     **A**: Yes, the game displays rankings of the largest snakes on the current server.
+

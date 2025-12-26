@@ -14,6 +14,7 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 "Rooftop Snipers" is the original physics-based shooting game where two pixel characters fight on rooftops, using simple controls to shoot and knock opponents off buildings. The game is famous for its hilarious ragdoll physics effects and simple yet challenging gameplay, laying the foundation for subsequent series games.
@@ -26,6 +27,7 @@ releaseDate: 2025-08-16
 4.  **Rhythm Mastery**: Find the optimal combination rhythm for shooting, moving, and jumping.
 5.  **Positional Strategy**: Use rooftop terrain advantages to find the best shooting positions.
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 
 *   **Movement**: Use A/D keys or left/right arrow keys to control character left and right movement.
@@ -33,6 +35,7 @@ releaseDate: 2025-08-16
 *   **Shoot**: Use S key or down arrow key to shoot.
 *   **Combination Actions**: Can simultaneously perform combinations of movement, jumping, and shooting.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions
 
 1.  **Q: Why do I always fall off first?**

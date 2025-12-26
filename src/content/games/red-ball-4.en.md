@@ -14,6 +14,7 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 "Red Ball 4" is a physics-based platformer game where players control a cute red ball on a mission to save the world from evil squares that want to turn everything into squares. The game features challenging levels where players must navigate through various obstacles and puzzles, using physics properties to solve problems and defeat enemies.
@@ -26,12 +27,14 @@ releaseDate: 2025-08-16
 4.  **Defeat Enemies**: Jump on square enemies to defeat them, but be careful of their attack patterns.
 5.  **Use Mechanisms**: Learn to use buttons, switches, and other mechanisms to open new paths.
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 
 *   **Move**: Use left and right arrow keys to control the red ball's left and right movement.
 *   **Jump**: Use the up arrow key or spacebar to make the red ball jump.
 *   **Roll**: Utilize gravity to naturally roll on slopes, or accelerate by continuously pressing arrow keys.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions
 
 1.  **Q: How do I defeat square enemies?**

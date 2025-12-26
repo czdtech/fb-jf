@@ -14,6 +14,7 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 "ShootZ" is an action-packed shooting game where players battle against zombies and other creatures. Use a variety of weapons to survive in fast-paced combat, facing increasingly challenging waves of enemies. The game is famous for its intense shooting action and diverse weapon systems.
@@ -26,6 +27,7 @@ releaseDate: 2025-08-16
 4.  **Resource Management**: Allocate ammunition and health wisely, look for supply items.
 5.  **Combo Attacks**: Learn to use combinations of different weapons to handle various situations.
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 
 *   **Movement**: Use WASD keys or arrow keys to control character movement.
@@ -34,6 +36,7 @@ releaseDate: 2025-08-16
 *   **Weapon Switch**: Use number keys to switch between different weapons.
 *   **Special Skills**: Some versions may include special skills or item usage.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions
 
 1.  **Q: How do I get better weapons?**

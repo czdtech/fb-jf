@@ -14,6 +14,7 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 "Retro Bowl" is a nostalgic American football game with retro 8-bit graphics where players act as both coach and quarterback, managing the team and controlling gameplay through play-calling, passing, and leading the team to championship glory. The game combines team management with real-time game control, providing players with a complete football experience.
@@ -26,6 +27,7 @@ releaseDate: 2025-08-16
 4.  **Timing Mastery**: In quarterback mode, master the optimal timing for passing and running.
 5.  **Season Planning**: Develop long-term team development strategies, nurture young players, and compete for playoff spots.
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 
 *   **Passing**: Drag to aim at receivers, release finger to pass.
@@ -33,6 +35,7 @@ releaseDate: 2025-08-16
 *   **Team Management**: Manage player contracts, trades, and roster settings in the menu.
 *   **Tactical Selection**: Choose different offensive and defensive tactics during games.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions
 
 1.  **Q: How can I improve passing accuracy?**

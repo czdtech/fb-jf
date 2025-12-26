@@ -14,6 +14,7 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 "Ping Pong" is a classic arcade sports game. Two players (or one player against AI) each control a paddle to hit a ball back and forth across the screen, aiming to score points by making the opponent miss the ball. The game is known for its simple and intuitive gameplay and fast pace, making it an excellent choice for casual entertainment and competitive matchups.
@@ -25,10 +26,12 @@ releaseDate: 2025-08-16
 3.  **Anticipate Opponent**: Observe your opponent's hitting habits and movement patterns to predict where the ball will land.
 4.  **Balance Offense and Defense**: While defending, look for opportunities to hit tricky shots that are difficult for your opponent to return.
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 
 *   **Move Paddle**: Typically use keyboard arrow keys (up/down) or the mouse to control the paddle's vertical movement on the screen.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions
 
 1.  **Q: What is the objective of the "Ping Pong" game?**

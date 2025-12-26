@@ -14,6 +14,7 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 "Rocket League" is a high-octane sports game that combines soccer with rocket-powered cars. Players drive vehicles equipped with rocket boosters, using driving, jumping, and boosting to hit a giant ball with the goal of scoring in the opponent's goal. The game is famous for its fast-paced aerial combat and exciting physics engine.
@@ -26,6 +27,7 @@ releaseDate: 2025-08-16
 4.  **Positional Awareness**: Maintain good field position, balancing offense with timely defensive returns.
 5.  **Boost Management**: Use rocket boost energy wisely, conserving energy for crucial moments and key plays.
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 
 *   **Movement**: Use arrow keys or WASD to control vehicle acceleration, reverse, and steering.
@@ -33,6 +35,7 @@ releaseDate: 2025-08-16
 *   **Rocket Boost**: Hold boost key for extra speed and aerial maneuverability.
 *   **Steering**: Use steering controls in the air to adjust vehicle attitude and direction.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions
 
 1.  **Q: How do I perform aerial hits?**

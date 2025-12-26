@@ -14,6 +14,7 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 "Raft Wars" is a turn-based strategy shooting game where players help two young brothers defend their discovered treasure from pirates and vikings who try to steal it. The game features physics-based shooting mechanics, requiring players to adjust angles and power to use tennis balls and other projectiles to defeat enemies by knocking them off their rafts into the water.
@@ -26,6 +27,7 @@ releaseDate: 2025-08-16
 4.  **Protect Yourself**: Ensure your characters don't get knocked off, making good use of cover and positional advantages.
 5.  **Upgrade Equipment**: As the game progresses, acquire more powerful weapons and items to enhance combat capabilities.
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 
 *   **Aim**: Use the mouse to adjust launch angle, typically by dragging to control direction and power.
@@ -33,6 +35,7 @@ releaseDate: 2025-08-16
 *   **Select Weapons**: Switch between available weapons, choosing the most suitable one for the current situation.
 *   **Move**: In some levels, you may be able to move your raft position to get better shooting angles.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions
 
 1.  **Q: How can I improve shooting accuracy?**

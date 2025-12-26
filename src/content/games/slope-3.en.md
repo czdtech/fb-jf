@@ -20,6 +20,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 "Slope 3" is the latest installment in the popular Slope series, featuring enhanced graphics and new challenging obstacles as players guide a ball down an endless slope while avoiding deadly barriers and red blocks. The game continues the series' core gameplay while introducing improved visuals and more complex level designs.
@@ -32,12 +33,14 @@ releaseDate: 2025-08-16T00:00:00.000Z
 4.  **Prediction Ability**: Anticipate complex obstacle combinations and path choices.
 5.  **Endurance Training**: Build the ability to maintain high concentration for extended periods.
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 
 *   **Left/Right Movement**: Use A/D keys or left/right arrow keys to control ball movement.
 *   **Precise Control**: Make small adjustments to precisely navigate through narrow passages.
 *   **Reaction Training**: Quickly respond to suddenly appearing obstacles and direction changes.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions
 
 1.  **Q: What new features does it have compared to previous games?**
@@ -48,3 +51,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
     **A**: Due to graphics improvements, it may have higher device performance requirements.
 4.  **Q: Does it save progress?**
     **A**: Most versions record high scores and achievements, but specific features depend on the game version.
+

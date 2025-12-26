@@ -14,6 +14,7 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 "OvO Dimensions" is an extension of the "OvO" series, a highly challenging 2D platformer. It introduces new mechanics and obstacles, requiring players to master precise jumps, wall slides, and momentum control to navigate complex levels and achieve the fastest clear times. The game maintains the series' high difficulty while offering richer level design and visual experiences.
@@ -26,6 +27,7 @@ releaseDate: 2025-08-16
 4.  **Memorize Level Layouts**: Through multiple attempts, familiarize yourself with the layout of each level and the characteristics of obstacles to plan the optimal route.
 5.  **Challenge Speed**: After mastering the basic methods of completing levels, try to optimize your operations to achieve faster clear times.
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 
 *   **Move**: Use left/right arrow keys or A/D keys to control horizontal character movement.
@@ -33,6 +35,7 @@ releaseDate: 2025-08-16
 *   **Slide/Crouch**: Use the down arrow key or S key to slide or crouch, passing through low passages or dodging obstacles.
 *   **Wall Jump**: When the character touches a wall, pressing the jump key allows for a wall jump; continuous wall jumps can be used to climb upwards.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions
 
 1.  **Q: What are the differences between "OvO Dimensions" and "OvO Game"?**

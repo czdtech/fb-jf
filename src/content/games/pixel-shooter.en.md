@@ -13,6 +13,7 @@ releaseDate: 2025-08-16
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 "Pixel Shooter" is a retro-style pixel art shooting game where players control a character to battle hordes of enemies across various levels, collecting power-ups and upgrading weapons to survive. The game attracts players with its classic pixel graphics and fast-paced shooting experience.
@@ -25,6 +26,7 @@ releaseDate: 2025-08-16
 4.  **Utilize Environment**: Some levels may offer cover or other environmental elements; utilize them wisely to avoid damage or ambush enemies.
 5.  **Master Enemy Patterns**: Different enemies have different attack patterns and movement speeds; familiarizing yourself with them can help you better cope.
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 
 *   **Movement**: Typically use WASD keys or arrow keys to control character movement.
@@ -32,6 +34,7 @@ releaseDate: 2025-08-16
 *   **Aim**: Use mouse movement to aim at enemies.
 *   **Switch Weapons**: Some game versions may offer a weapon switching function, usually via number keys or mouse scroll wheel.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions
 
 1.  **Q: What is the objective of "Pixel Shooter"?**

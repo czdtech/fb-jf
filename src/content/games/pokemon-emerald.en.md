@@ -14,6 +14,7 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 "Pokemon Emerald" is a role-playing video game in the Pokémon series where players embark on an adventure in the Hoenn region. The main goal is to catch and train Pokémon, battle various trainers, challenge Gym Leaders, and ultimately become the Pokémon League Champion. Concurrently, players will be drawn into the conflict between the villainous organizations "Team Magma" and "Team Aqua," attempting to stop their plans to reshape the world.
@@ -26,6 +27,7 @@ releaseDate: 2025-08-16
 4.  **Explore the World**: Explore the vast world of the Hoenn region, discovering new locations, items, and Pokémon.
 5.  **Strategic Team Building**: Assemble a balanced and strategic team based on Pokémon's types, abilities, and moves.
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 
 *   **Movement**: Use arrow keys to control character movement.
@@ -34,6 +36,7 @@ releaseDate: 2025-08-16
 *   **Start Button (Open Menu)**: Open the main menu to view Pokémon, items, save game, etc.
 *   **Select Button (Register Item)**: Register frequently used items in the bag for quick access.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions
 
 1.  **Q: Which Legendary Pokémon can be caught in "Pokemon Emerald"?**

@@ -16,6 +16,7 @@ tags:
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 Ready to dive into a vibrant, colorful world of music? Mundo Torajo Sprunki will take you on an unprecedented audio-visual feast! This unique Mod cleverly blends the whimsical universe of Mundo Torajo with the rhythmic creative fun of the Sprunki platform, letting you unleash endless creativity while you play.
  
 ### What Exactly is Mundo Torajo Sprunki?
@@ -43,3 +44,4 @@ Imagine the lively, quirky characters of Mundo Torajo jumping onto Sprunki's mus
 ### Wrapping Up:
  
 Mundo Torajo Sprunki offers a joyful, immersive musical experience that fans of both Sprunki and Mundo Torajo will adore. Even if you're new to rhythm games, its vibrant aesthetics and creative freedom make it a must-play. Mundo Torajo Sprunki strikes a perfect balance between challenge and creativity, giving you endless fun and satisfaction as you build your own music. Come dive into the world of Mundo Torajo Sprunki today and let your imagination run wild with music and color!
+

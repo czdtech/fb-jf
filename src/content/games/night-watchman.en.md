@@ -14,6 +14,7 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 "Night Watchman" is a horror-survival game where players work as a night guard in a dark, abandoned building. They must monitor security cameras and manage limited resources to survive against various mysterious threats until dawn. The game emphasizes atmosphere building and resource management, providing players with a tense and thrilling experience.
@@ -26,12 +27,14 @@ releaseDate: 2025-08-16
 4.  **Listen to Sounds**: Sound cues are very important in the game; use sounds to determine the location and type of threats.
 5.  **Devise Strategies**: Develop corresponding strategies based on the characteristics and movement patterns of different threats.
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 
 *   **Switch Cameras**: Click on the camera numbers on the screen or use keyboard keys to switch between different surveillance views.
 *   **Open/Close Doors/Lights**: Click on door or light buttons to control their on/off state.
 *   **View Map**: Some game versions might offer a map feature to help players understand the building layout.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions
 
 1.  **Q: What is the objective of the game?**

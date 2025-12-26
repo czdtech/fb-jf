@@ -14,6 +14,7 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 "Pou Game" is a virtual pet simulation game where players adopt and care for an alien pet named Pou. In the game, you need to feed Pou, clean it, play with it, and customize its appearance, helping it grow and stay healthy. The game also includes various mini-games and activities, allowing players to interact more with Pou and earn coins to buy items and decorations.
@@ -26,6 +27,7 @@ releaseDate: 2025-08-16
 4.  **Explore and Interact**: Unlock and explore different areas to interact more with Pou and discover hidden fun.
 5.  **Earn Coins**: Earn coins by playing mini-games and completing daily tasks, which is key to purchasing items.
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 
 *   **Tap Icons**: Multiple icons at the bottom of the screen represent functions like feeding, cleaning, playing, and sleeping. Tap to enter the corresponding interface.
@@ -33,6 +35,7 @@ releaseDate: 2025-08-16
 *   **Mini-games**: Tap the mini-game icon to enter the game list, select and start playing.
 *   **Customize**: Tap the wardrobe or room icon to enter the customization interface, select and apply decorations.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions
 
 1.  **Q: What should I do if Pou gets sick?**

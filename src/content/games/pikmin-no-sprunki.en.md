@@ -13,6 +13,7 @@ tags:
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 Ever wondered what happens when the quirky world of Pikmin crashes into the musical magic of Sprunki? Pikmin No Sprunki makes that thought a reality! This captivating Scratch game cleverly blends the familiar Incredibox creation fun with fresh gameplay mechanics, inviting you on a unique audio-visual adventure.
  
 ### What Exactly is Pikmin No Sprunki?
@@ -31,3 +32,4 @@ Simply put, Pikmin No Sprunki is a game that lets you become a music producer, u
 ### Wrapping Up:
  
 Pikmin No Sprunki is more than just a simple game; it's a creative platform that encourages exploration. It perfectly combines engaging gameplay, diverse mods, and an active community, standing out among many free games. Whether you're a seasoned Sprunki veteran or a player looking for a fresh experience, Pikmin No Sprunki is definitely worth a try! Come join this wonderful world, and use rhythm and creativity to compose your very own Pikmin No Sprunki symphony!
+

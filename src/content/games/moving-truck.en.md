@@ -14,6 +14,7 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 "Moving Truck" is a physics-based puzzle game. Players' task is to strategically load furniture and various items of different shapes and sizes into a moving truck, ensuring that the items remain balanced and secure during transit, and ultimately arrive safely at their destination. The game challenges players' spatial reasoning and planning abilities.
@@ -26,12 +27,14 @@ releaseDate: 2025-08-16
 4.  **Utilize Physics**: Sometimes items may slide or roll due to physics; you need to cleverly utilize or secure them beforehand.
 5.  **Repeated Attempts**: Some levels may require multiple attempts to find the most perfect loading solution.
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 
 *   **Pick Up Items**: Click on an item to pick it up.
 *   **Place Items**: Drag the item to a suitable position inside the truck, then release the mouse to place it down.
 *   **Rotate Items**: Some game versions might offer a function to rotate items for better fit (usually via mouse scroll wheel or specific keys).
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions
 
 1.  **Q: What is the objective of the game?**

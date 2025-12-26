@@ -14,6 +14,7 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 "PAC-MAN" is a classic arcade maze game. Players control the yellow Pac-Man, moving through a complex labyrinth with the objective of eating all the pellets. Simultaneously, players must evade four colorful ghosts—Blinky, Pinky, Inky, and Clyde. When Pac-Man eats a power pellet, he can temporarily turn the tables and pursue and eat the ghosts for extra points.
@@ -26,10 +27,12 @@ releaseDate: 2025-08-16
 4.  **Use Tunnels**: The tunnels at both ends of the maze allow Pac-Man to quickly move from one side to the other, useful for evading or counter-attacking ghosts.
 5.  **Prioritize Large Pellets**: Power pellets (large pellets) are crucial for turning the tide and should be prioritized.
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 
 *   **Movement**: Typically use the keyboard arrow keys (up, down, left, right) to control Pac-Man's movement direction in the maze.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions
 
 1.  **Q: How many levels are there in "PAC-MAN"?**

@@ -14,6 +14,7 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 "Murder" is a tense and exciting social deduction game. Among a group of players, one is secretly designated as the "murderer," whose goal is to secretly eliminate other players without being discovered. Other players, on the other hand, need to observe, deduce, and discuss to identify the murderer and stop them. The game is full of strategy and psychological warfare, with each game session full of uncertainty.
@@ -32,6 +33,7 @@ releaseDate: 2025-08-16
     *   **Maintain Communication**: Civilians need to communicate effectively and share information.
     *   **Utilize Environment**: Familiarity with the game map and mechanics can help the murderer hide better or civilians find clues faster.
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 
 *   **Movement**: Typically use keyboard arrow keys or WASD keys to control character movement.
@@ -39,6 +41,7 @@ releaseDate: 2025-08-16
 *   **Murderer Abilities**: The murderer will have specific abilities to eliminate targets; the exact operation depends on the game version (e.g., clicking on a target or using a skill key).
 *   **Civilian Self-defense**: In some game versions, civilians can defend themselves or fight back under certain conditions.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions
 
 1.  **Q: How do I determine who the murderer is?**

@@ -19,6 +19,7 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 "Run 3" is an endless running game set in space where players control an alien character running through a 3D tunnel, jumping over gaps and avoiding obstacles while defying gravity. The game is famous for its unique 3D perspective and gradually increasing difficulty, providing players with both simple and challenging gameplay experience.
@@ -31,12 +32,14 @@ releaseDate: 2025-08-16
 4.  **Plan Your Path**: Observe obstacles ahead and plan the optimal running route.
 5.  **Maintain Rhythm**: Keep a steady running rhythm, avoiding hasty operations that lead to mistakes.
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 
 *   **Movement**: Use left and right arrow keys to control character's left and right movement.
 *   **Jump**: Use spacebar or up arrow key to make the character jump.
 *   **Direction Change**: In the tunnel, you can change gravity direction to run on walls and ceilings.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions
 
 1.  **Q: How do I run on walls?**
@@ -47,3 +50,4 @@ releaseDate: 2025-08-16
     **A**: "Run 3" is an endless runner game, but there are multiple different levels and modes to explore.
 4.  **Q: How do I unlock new characters?**
     **A**: New playable characters can be unlocked by completing specific levels or achieving certain accomplishments.
+

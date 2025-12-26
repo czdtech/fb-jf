@@ -16,8 +16,10 @@ tags:
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 Sprunki Mountayonnaise is a surprisingly delightful Sprunki mod game where different animal figures appear based on the sound effects added. It boasts high replayability! Here, you will create your own music works with a group of unique animated characters.
  
+<!-- i18n:section:how-to-play -->
 ### How to Play Sprunki Mountayonnaise?
  
 The gameplay is very simple, it can be done in a few steps:
@@ -43,3 +45,4 @@ The gameplay is very simple, it can be done in a few steps:
  - **New Sprunki Style:** Brings a series of new Sprunki-themed beats, melodies, and sound effects, giving you a sense of freshness.
  - **Real-Time Mixing:** Adjust your work at any time to make your music more perfect.
  - **Explore Fun:** Discover hidden animations and special effects, making your creation process full of surprises.
+

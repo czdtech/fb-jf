@@ -14,6 +14,7 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Game Introduction
 
 "Pacman 30th Anniversary" is a special edition of the classic arcade game "Pac-Man," celebrating three decades of this iconic game. Players once again guide the yellow Pac-Man through a maze, eating all the pellets and power pellets while evading four ghosts. This version retains the original gameplay and incorporates nostalgic elements, allowing both new and old players to experience the classic fun.
@@ -25,10 +26,12 @@ releaseDate: 2025-08-16
 3.  **Evade and Pursue**: Skillfully use the maze's tunnels and corners to cleverly evade ghosts, and boldly pursue them after eating a power pellet.
 4.  **Prioritize Eating All Pellets**: The goal of the game is to eat all small pellets and power pellets in the maze to advance to the next level.
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 
 *   **Movement**: Typically use the keyboard arrow keys (up, down, left, right) to control Pac-Man's movement direction in the maze.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions
 
 1.  **Q: What are the differences between "Pacman 30th Anniversary" and the original "PAC-MAN"?**
