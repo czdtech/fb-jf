@@ -15,7 +15,6 @@ score: 4.5/5  (614 votes)
 ---
 
 
-
 ### Incredibox Yellow Colorbox란?
 
 *Incredibox Yellow Colorbox*는 Incredibox를 바탕으로 제작된
@@ -62,4 +61,3 @@ Yellow Colorbox에는 25명의 캐릭터가 준비되어 있으며,
 자신만의 음악을 만들고 싶은 모든 사람에게 열린 놀이터입니다.
 Incredibox 세계로 들어가, 노란 캐릭터들과 함께 자유롭게
 음악적 상상력을 펼쳐 보세요.
-

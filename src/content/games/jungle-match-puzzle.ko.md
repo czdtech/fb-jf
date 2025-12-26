@@ -16,7 +16,6 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-
 ### 게임 상세 소개
 
 *Jungle Match Puzzle*은 덩굴, 상자, 끈적이는 타일 등 다양한
@@ -69,4 +68,3 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 - Q: Are diagonals allowed?
   줄 + 줄 조합도 많은 줄을 한 번에 정리할 수 있어 좋습니다.
-

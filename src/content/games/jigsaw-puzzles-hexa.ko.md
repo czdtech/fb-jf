@@ -16,7 +16,6 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-
 ### 게임 상세 소개
 
 *Jigsaw Puzzles Hexa*는 전통적인 직소 퍼즐 대신, **육각형 블록
@@ -50,29 +49,23 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### 조작 가이드
 
+조작은 아래를 참고하세요.
+
 - **조각 선택 및 배치**: 인벤토리에서 헥사 조각을
   클릭·드래그해 메인 보드 위 빈 칸에 끌어다 놓습니다.
 
 
-- **Select and Place:** Use your mouse or finger to click and drag a hexagonal piece cluster from your inventory area and drop it onto the main puzzle board.
 ### 자주 묻는 질문(FAQ)
 
-- **Q: 조각을 회전할 수 있나요?**  
-  **A:** 아니요. 이 퍼즐은 정해진 방향 그대로 맞춰 넣어야
+*   **Q: 조각을 회전할 수 있나요?**
+    *   **A:** 아니요. 이 퍼즐은 정해진 방향 그대로 맞춰 넣어야
   하는 것이 특징입니다.
 
-    - **Q: 도저히 맞출 수 없는 조각이 있을 때는?**  
-  **A:** 이미 배치한 조각 중 하나가 잘못 놓여 있을 수 있습니다.
+*   **Q: 도저히 맞출 수 없는 조각이 있을 때는?**
+    *   **A:** 이미 배치한 조각 중 하나가 잘못 놓여 있을 수 있습니다.
   몇 개를 빼서 다른 위치에 시도해 보거나, 힌트 기능이 있다면
   활용해 보세요.
 
-- **Q: 시간 제한이 있나요?**  
-
-    - **A:** No, the game is designed to be a relaxing, stress-free experience. You can take as much time as you need to solve each puzzle.
-
-- **Q: Is there a time limit?**
-
-    - **A:** This usually means one of the pieces you have already placed is in the wrong spot. You may need to remove one or more pieces from the board and rethink your arrangement. If the game offers a hint system, now would be a good time to use it.
-  **A:** 없습니다. 마음대로 천천히 즐길 수 있도록 설계된
+*   **Q: 시간 제한이 있나요?**
+    *   **A:** 없습니다. 마음대로 천천히 즐길 수 있도록 설계된
   힐링 퍼즐입니다.
-

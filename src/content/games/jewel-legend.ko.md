@@ -16,7 +16,6 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-
 ### 게임 상세 소개
 
 *Jewel Legend*는 눈부신 보석들로 가득한 세계를 배경으로 한
@@ -56,30 +55,24 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### 조작 가이드
 
+조작은 아래를 참고하세요.
+
 - **보석 교환**: 보석을 클릭한 뒤 인접한 보석을 선택하거나,
   드래그해 위치를 바꾸면 3개 이상 매치가 되는 경우에만
 
-- **Swap Jewels:** Click and drag a jewel to an adjacent spot to swap it with the jewel there. You can also click the first jewel and then click the adjacent one you want to swap with. The swap will only be successful if it creates a match.
   교환이 성립합니다.
 
 ### 자주 묻는 질문(FAQ)
 
-- **Q: 얼음/사슬이 걸린 보석은 어떻게 풀리나요?**  
-  **A:** 해당 보석을 포함한 매치를 만들어야 얼음이나 사슬이
+*   **Q: 얼음/사슬이 걸린 보석은 어떻게 풀리나요?**
+    *   **A:** 해당 보석을 포함한 매치를 만들어야 얼음이나 사슬이
   깨집니다. 경우에 따라 여러 번 매치해야 완전히 해제됩니다.
 
-    - **Q: 가장 강력한 조합은 무엇인가요?**  
-  **A:** 컬러 보석 두 개를 서로 교환하는 조합입니다.
+*   **Q: 가장 강력한 조합은 무엇인가요?**
+    *   **A:** 컬러 보석 두 개를 서로 교환하는 조합입니다.
   보드 전체의 보석이 한 번에 제거되어, 매우 어려운
   스테이지에서 특히 유용합니다.
 
-- **Q: 이동 횟수를 다 쓰면 어떻게 되나요?**  
-
-    - **A:** If you fail to meet the level objective within the given number of moves, you will lose a life and have to try the level again. You can wait for lives to regenerate over time or sometimes acquire more through in-game means.
-
-- **Q: I'm out of moves, what now?**
-
-    - **A:** The most powerful combo is swapping two Color Jewels together. This will destroy every single jewel on the screen, which is extremely useful for very difficult levels.
-  **A:** 주어진 이동 수 안에 목표를 달성하지 못하면
+*   **Q: 이동 횟수를 다 쓰면 어떻게 되나요?**
+    *   **A:** 주어진 이동 수 안에 목표를 달성하지 못하면
   목숨을 잃고, 해당 레벨을 다시 도전해야 합니다.
-

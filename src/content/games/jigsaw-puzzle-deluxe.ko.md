@@ -16,7 +16,6 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-
 ### 게임 상세 소개
 
 *Jigsaw Puzzle Deluxe*는 클래식한 **조각 맞추기 퍼즐**을
@@ -47,31 +46,25 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### 조작 가이드
 
+조작은 아래를 참고하세요.
+
 - **조각 이동**: 마우스로 조각을 클릭해 끌어 올리고,
   원하는 위치에 두어 맞춰 봅니다.  
 - **조각 회전(해당 모드일 경우)**: 일부 난이도에서는 조각이
 
-- **Rotate a Piece (if applicable):** Some difficulty modes may include rotated pieces. There will typically be a button or keyboard key to rotate a selected piece.
   회전되어 있을 수 있습니다. 이때는 우클릭이나 별도의 회전 버튼으로
   각도를 맞출 수 있습니다.
 
 ### 자주 묻는 질문(FAQ)
 
-- **Q: 퍼즐 이미지는 어떻게 선택하나요?**  
-  **A:** 게임 내 갤러리에서 마음에 드는 이미지를 클릭한 뒤,
+*   **Q: 퍼즐 이미지는 어떻게 선택하나요?**
+    *   **A:** 게임 내 갤러리에서 마음에 드는 이미지를 클릭한 뒤,
   난이도(조각 수)를 선택하면 해당 그림으로 퍼즐이 시작됩니다.
 
-    - **Q: 시작할 때 무엇부터 하면 좋나요?**  
-  **A:** 테두리 조각부터 찾아 프레임을 만드는 것이 가장
+*   **Q: 시작할 때 무엇부터 하면 좋나요?**
+    *   **A:** 테두리 조각부터 찾아 프레임을 만드는 것이 가장
   일반적이고 효율적인 방법입니다.
 
-- **Q: 조각이 너무 뒤섞여 있는데, 정리할 방법이 있나요?**  
-
-    - **A:** Drag the pieces around the screen to create space. Group pieces of similar colors or textures together, which will make it easier to find the one you are looking for.
-
-- **Q: The pieces are all jumbled up. How can I organize them?**
-
-    - **A:** The most common strategy is to find all the pieces with a flat edge and assemble the border first. This creates a defined workspace.
-  **A:** 조각을 화면 주변으로 적당히 흩어 놓고, 색·무늬가
+*   **Q: 조각이 너무 뒤섞여 있는데, 정리할 방법이 있나요?**
+    *   **A:** 조각을 화면 주변으로 적당히 흩어 놓고, 색·무늬가
   비슷한 것끼리 모아 두면 원하는 조각을 찾기가 훨씬 쉬워집니다.
-

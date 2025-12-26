@@ -16,7 +16,6 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
-
 ### 게임 소개
 
 *Mahjongg Candy*는 클래식 Mahjongg Solitaire에 알록달록한 사탕 테마를 더한 타일 매칭

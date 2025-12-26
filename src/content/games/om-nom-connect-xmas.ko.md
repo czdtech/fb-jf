@@ -17,7 +17,6 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-
 ### 게임 상세 소개
 
 *Om Nom Connect Xmas*는 귀여운 옴놈과 친구들이 등장하는 크리스마스 한정 커넥트 퍼즐 게임입니다.
@@ -39,27 +38,19 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### 조작 방법
 
-* **타일 선택:** 마우스로 타일을 클릭해 선택한 뒤, 같은 그림의 다른 타일을 클릭하면
-
-- **Connect Tiles:** Click on a second, identical tile to connect the pair. If the path is clear, the tiles will be removed from the board.
-  규칙에 맞는 경로가 있을 때 두 타일이 제거됩니다.
+* **타일 선택:** 마우스로 타일을 클릭해 선택합니다.  
+* **타일 연결:** 같은 그림의 다른 타일을 클릭하면, 규칙에 맞는 경로가 있을 때 두 타일이 제거됩니다.
 
 ### 자주 묻는 질문(FAQ)
 
-* **Q: 타일을 연결할 수 있는 정확한 규칙이 뭐예요?**  
-  **A:** 두 타일을 잇는 선이 두 번 이하의 직각으로만 꺾일 수 있으며, 그 선 위에는 다른
+*   **Q: 타일을 연결할 수 있는 정확한 규칙이 뭐예요?**
+    *   **A:** 두 타일을 잇는 선이 두 번 이하의 직각으로만 꺾일 수 있으며, 그 선 위에는 다른
   타일이 있어서는 안 됩니다.
 
-    - **Q: 도저히 짝이 안 보일 때는 어떻게 하나요?**  
-  **A:** 먼저 보드를 천천히 다시 훑어보고, 그래도 찾지 못하면 돋보기 힌트로 한 쌍을
+*   **Q: 도저히 짝이 안 보일 때는 어떻게 하나요?**
+    *   **A:** 먼저 보드를 천천히 다시 훑어보고, 그래도 찾지 못하면 돋보기 힌트로 한 쌍을
   확인한 뒤, 필요하다면 섞기 기능으로 타일 배치를 새로 섞어 보세요.
 
-* **Q: 시간 제한이 있나요?**  
-
-    - **A:** Yes, there is a timer for each level. You must clear the entire board before the time runs out to win.
-
-- **Q: Is there a time limit?**
-
-    - **A:** First, take a moment to carefully scan the entire board. If you are still stuck, use the magnifying glass hint tool to reveal a match. If you feel completely blocked, use the shuffle power-up.
-  **A:** 각 스테이지마다 제한 시간이 있으며, 시간이 다 되기 전에 보드를 전부 비워야
+*   **Q: 시간 제한이 있나요?**
+    *   **A:** 각 스테이지마다 제한 시간이 있으며, 시간이 다 되기 전에 보드를 전부 비워야
   클리어할 수 있습니다.

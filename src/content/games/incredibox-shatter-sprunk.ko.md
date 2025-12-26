@@ -15,7 +15,6 @@ score: 4.5/5  (614 votes)
 ---
 
 
-
 ### Incredibox Shatter Sprunk의 재미 포인트
 
 *Incredibox Shatter Sprunk*는 Incredibox의 클래식한 게임 구조에
@@ -79,4 +78,3 @@ Sprunki 특유의 기괴하고 유쾌한 스타일을 더한 팬메이드 모드
   경험하게 해 줍니다.  
 - **탐색하는 재미**: 숨겨진 애니메이션과 특수 연출을 발견해 나가는
   과정 자체가 또 하나의 게임처럼 느껴집니다.
-

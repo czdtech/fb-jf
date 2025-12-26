@@ -16,7 +16,6 @@ releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 
-
 ### **게임 소개**
 
 *Incredibox Piège Simulator*는 Incredibox 시뮬레이터 시리즈 가운데,
@@ -84,4 +83,3 @@ releaseDate: 2025-10-10T00:00:00.000Z
 공식 앱이나 사이트에는 없고, 보통 **Newgrounds**나
 **playfiddlebops.com** 같은 모딩·게임 사이트, 혹은 유튜브
 소개 영상의 링크를 통해 웹 브라우저에서 플레이할 수 있습니다.
-

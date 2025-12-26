@@ -15,9 +15,6 @@ releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 
-
-
-
 ### Incredibox "YaBoo" 소개
 
 *Incredibox YaBoo*는 음악 제작 게임 Incredibox를 바탕으로 한 팬 메이드 모드로,

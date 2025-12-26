@@ -16,7 +16,6 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-
 ### 게임 상세 소개
 
 *Jewel Academy*는 화려한 보석과 마법 학교를 배경으로 펼쳐지는
@@ -65,23 +64,16 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### 자주 묻는 질문(FAQ)
 
-- **Q: 폭탄은 어떻게 만드나요?**  
-  **A:** L자나 T자 형태로 보석 5개를 매치하면 폭탄 보석이 생성됩니다.
+*   **Q: 폭탄은 어떻게 만드나요?**
+    *   **A:** L자나 T자 형태로 보석 5개를 매치하면 폭탄 보석이 생성됩니다.
   폭탄은 주변 3x3 범위를 한 번에 날려 버립니다.
 
-    - **Q: 무지개색 보석은 어떤 기능인가요?**  
-  **A:** 5개를 일직선으로 매치하면 만들어지는 컬러 폭탄입니다.
+*   **Q: 무지개색 보석은 어떤 기능인가요?**
+    *   **A:** 5개를 일직선으로 매치하면 만들어지는 컬러 폭탄입니다.
   인접한 보석과 교환하면, 그 색 보석이 보드 전체에서
   모두 제거됩니다.
 
-- **Q: 왜 움직임이 다 떨어지면 게임 오버가 되나요?**  
-
-    - **A:** Many levels in Jewel Academy are move-limited. You must complete the specific level objective before you use up all your allotted moves. If you fail to do so, you will have to use a life to try again.
-
-- **Q: Why did I run out of moves?**
-
-    - **A:** That is a Color Bomb, created by matching five jewels in a straight line (horizontal or vertical). Swap it with any adjacent jewel, and it will remove all jewels of that color from the entire board.
-  **A:** 많은 스테이지는 제한된 이동 횟수 내에 목표를 달성해야 합니다.
+*   **Q: 왜 움직임이 다 떨어지면 게임 오버가 되나요?**
+    *   **A:** 많은 스테이지는 제한된 이동 횟수 내에 목표를 달성해야 합니다.
   남은 이동 없이 목표를 채우지 못하면 생명을 하나 소모하고
   다시 도전해야 합니다.
-

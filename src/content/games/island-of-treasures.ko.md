@@ -3,7 +3,7 @@ locale: ko
 urlstr: island-of-treasures
 title: Island Of Treasures 해적 런 게임
 description: >-
-  3D 해적 테마 끝less 러너 'Island Of Treasures' 가이드입니다. 보석과 코인을 모으고, 함정을 피하며, 라이벌 해적을
+  3D 해적 테마 끝없는 러너 'Island Of Treasures' 가이드입니다. 보석과 코인을 모으고, 함정을 피하며, 라이벌 해적을
   따돌려 버려진 섬의 전설적인 부자가 되어 보세요.
 iframeSrc: 'https://5kvkrsasec6l8.h5games.usercontent.goog/v/7kfn10n6josho/'
 thumbnail: /new-images/thumbnails/island-of-treasures.png
@@ -16,10 +16,9 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-
 ### 게임 상세 소개
 
-*Island Of Treasures*는 해적 세계를 배경으로 한 3D 끝less 러너입니다.
+*Island Of Treasures*는 해적 세계를 배경으로 한 3D 끝없는 러너입니다.
 플레이어는 용감한 해적이 되어, 끊임없이 변화하는 위험한 섬을
 달리면서 반짝이는 보물을 모아야 합니다.
 
@@ -60,21 +59,14 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### 자주 묻는 질문(FAQ)
 
-- **Q: 이 게임의 주 목표는 무엇인가요?**  
-  **A:** 가능한 한 멀리 달리면서 최대한 많은 보물을 모아,
+*   **Q: 이 게임의 주 목표는 무엇인가요?**
+    *   **A:** 가능한 한 멀리 달리면서 최대한 많은 보물을 모아,
   최고 점수를 기록하는 것입니다.
 
-    - **Q: 라이벌 해적을 공격할 수 있나요?**  
-  **A:** 대부분의 끝less 러너와 마찬가지로, 직접적인 전투보다는
+*   **Q: 라이벌 해적을 공격할 수 있나요?**
+    *   **A:** 대부분의 끝없는 러너와 마찬가지로, 직접적인 전투보다는
   피하는 데 초점이 맞춰져 있습니다. 일부 버전에서는
   특수 파워업으로 잠시 기절시키는 기능이 있을 수 있습니다.
 
-- **Q: 물에 빠지거나 장애물에 부딪히면 어떻게 되나요?**  
-
-    - **A:** Your run ends immediately, and you will have to start over from the beginning.
-
-- **Q: What happens if I fall into the water or hit an obstacle?**
-
-    - **A:** In most endless runners, direct combat is not the focus. You typically avoid rival pirates as they are obstacles. Some versions might have a specific power-up or action to temporarily stun them.
-  **A:** 즉시 러닝이 종료되며, 처음부터 다시 시작해야 합니다.
-
+*   **Q: 물에 빠지거나 장애물에 부딪히면 어떻게 되나요?**
+    *   **A:** 즉시 러닝이 종료되며, 처음부터 다시 시작해야 합니다.

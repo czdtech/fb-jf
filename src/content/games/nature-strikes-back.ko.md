@@ -16,7 +16,6 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-
 ### 게임 상세 소개
 
 *Nature Strikes Back*은 머지 퍼즐의 재미와 타워 디펜스의 전략성을 결합한 게임입니다.
@@ -47,20 +46,14 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### 자주 묻는 질문(FAQ)
 
-* **Q: 더 강한 정령은 어떻게 얻나요?**  
-  **A:** 같은 레벨 정령 두 개를 합치면 한 단계 높은 정령이 됩니다. 예를 들어, 레벨 2
+*   **Q: 더 강한 정령은 어떻게 얻나요?**
+    *   **A:** 같은 레벨 정령 두 개를 합치면 한 단계 높은 정령이 됩니다. 예를 들어, 레벨 2
   정령 두 개를 머지하면 레벨 3 정령 한 개가 됩니다.
 
-    - **Q: 적이 길 끝까지 도달하면 어떻게 되나요?**  
-  **A:** 적이 경로 끝에 있는 자연의 심장에 닿으면 생명이 줄어들며, 생명이 0이 되면
+*   **Q: 적이 길 끝까지 도달하면 어떻게 되나요?**
+    *   **A:** 적이 경로 끝에 있는 자연의 심장에 닿으면 생명이 줄어들며, 생명이 0이 되면
   스테이지에 실패합니다.
 
-* **Q: 전장 슬롯을 가능한 빨리 채우는 게 좋나요?**  
-
-    - **A:** Not necessarily. It's often better to focus on merging to create one or two very powerful Guardians first, rather than deploying many weak ones. A single high-level Guardian can often do more damage than several low-level ones combined.
-
-- **Q: Should I fill all my deployment slots quickly?**
-
-    - **A:** If an enemy reaches the Heart of Nature at the end of the path, you will lose one life or health point. If your health reaches zero, you lose the level.
-  **A:** 꼭 그렇지는 않습니다. 약한 정령을 가득 채우기보다, 머지를 통해 먼저 한두 개의
+*   **Q: 전장 슬롯을 가능한 빨리 채우는 게 좋나요?**
+    *   **A:** 꼭 그렇지는 않습니다. 약한 정령을 가득 채우기보다, 머지를 통해 먼저 한두 개의
   강력한 정령을 만드는 편이 더 효율적일 때가 많습니다.

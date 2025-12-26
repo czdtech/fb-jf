@@ -17,7 +17,6 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-
 ### 게임 상세 소개
 
 *Om Nom Connect Classic*는 Cut the Rope 세계관의 옴놈과 친구들이 등장하는 커넥트식 타일
@@ -47,21 +46,15 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### 자주 묻는 질문(FAQ)
 
-* **Q: 같은 그림인데도 연결이 안 되는 이유가 뭔가요?**  
-  **A:** 두 타일 사이 경로에 다른 타일이 가로막혀 있거나, 경로가 세 번 이상 꺾여야만
+*   **Q: 같은 그림인데도 연결이 안 되는 이유가 뭔가요?**
+    *   **A:** 두 타일 사이 경로에 다른 타일이 가로막혀 있거나, 경로가 세 번 이상 꺾여야만
   연결될 수 있는 구조일 때는 매치가 허용되지 않습니다.
 
-    - **Q: 타이머가 끝나면 어떻게 되나요?**  
-  **A:** 제한 시간 안에 보드를 다 비우지 못하면 해당 레벨에 실패하며, 다시 도전해야
+*   **Q: 타이머가 끝나면 어떻게 되나요?**
+    *   **A:** 제한 시간 안에 보드를 다 비우지 못하면 해당 레벨에 실패하며, 다시 도전해야
   합니다. 빠르게 눈을 돌려 전체 보드를 보는 연습이 중요합니다.
 
-* **Q: 빠르게 매치를 찾는 요령이 있나요?**  
-
-    - **A:** Don't fixate on one tile for too long. Keep your eyes moving and scan the entire board. Sometimes the most obvious pairs are the ones you overlook when you're too focused on a specific area.
-
-- **Q: What's the best strategy for finding matches quickly?**
-
-    - **A:** You will fail the level and have to start over. Speed and quick recognition are key!
-  **A:** 한 구역에만 집착하지 말고, 눈을 계속 움직이며 전체 패턴을 보는 것이 좋습니다.
+*   **Q: 빠르게 매치를 찾는 요령이 있나요?**
+    *   **A:** 한 구역에만 집착하지 말고, 눈을 계속 움직이며 전체 패턴을 보는 것이 좋습니다.
   너무 어렵게 생각하기보다, 먼저 명확한 쌍부터 지우고 난 뒤 남은 구조를 보는 식으로
   접근해 보세요.

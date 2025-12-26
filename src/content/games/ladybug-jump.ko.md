@@ -15,7 +15,6 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-
 ### 게임 상세 소개
 
 *Ladybug Jump*는 가족 친화적인 가벼운 점프 액션 게임입니다.
@@ -62,4 +61,3 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 - Q: Controller supported?
   보스전은 드문 편입니다.
-

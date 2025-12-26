@@ -16,7 +16,6 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-
 ### 게임 상세 소개
 
 *Jewel Magic Xmas*는 클래식 3매치 퍼즐에 크리스마스 분위기를
@@ -52,30 +51,24 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### 조작 가이드
 
+조작은 아래를 참고하세요.
+
 - **장식 교환**: 마우스로 장식을 드래그해 인접한 칸과
   위치를 바꾸면, 유효한 3매치가 되는 경우에만 교환이
 
-- **Swap Ornaments:** Click and drag an ornament to swap it with an adjacent one. The swap will only work if it creates a valid match.
   성립합니다.
 
 ### 자주 묻는 질문(FAQ)
 
-- **Q: 얼어붙은 블록은 어떻게 없애나요?**  
-  **A:** 얼음 옆에서 매치를 만들거나, 얼음이 포함된
+*   **Q: 얼어붙은 블록은 어떻게 없애나요?**
+    *   **A:** 얼음 옆에서 매치를 만들거나, 얼음이 포함된
   매치를 만들어야 합니다. 경우에 따라 여러 번 맞춰야
   완전히 깨집니다.
 
-    - **Q: 가장 강력한 콤보는 무엇인가요?**  
-  **A:** 일직선 5개 매치로 만든 특수 장식 두 개를 서로
+*   **Q: 가장 강력한 콤보는 무엇인가요?**
+    *   **A:** 일직선 5개 매치로 만든 특수 장식 두 개를 서로
   교환하는 조합입니다. 보드 전체를 한 번에 지워 줄 수 있습니다.
 
-- **Q: 이동 횟수가 다 되면 어떻게 되나요?**  
-
-    - **A:** If you don't complete the level's objective within the move limit, you will have to restart the level.
-
-- **Q: What happens if I run out of moves?**
-
-    - **A:** Swapping two of the "Match 5 in a line" special items together is the most powerful move, as it will clear every single item from the board.
-  **A:** 목표를 달성하지 못한 상태에서 이동 횟수가 0이 되면
+*   **Q: 이동 횟수가 다 되면 어떻게 되나요?**
+    *   **A:** 목표를 달성하지 못한 상태에서 이동 횟수가 0이 되면
   스테이지 실패로, 레벨을 다시 시작해야 합니다.
-

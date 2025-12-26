@@ -16,7 +16,6 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-
 ### 게임 상세 소개
 
 *Jewel Pets Match*는 보석처럼 빛나는 귀여운 동물 캐릭터들이
@@ -46,30 +45,24 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### 조작 가이드
 
+조작은 아래를 참고하세요.
+
 - **펫 교환**: 마우스로 펫을 클릭 후 인접한 칸으로 드래그해
   위치를 바꾸면, 3마리 이상 매치가 되는 경우에만 교환이
 
-- **Swap Pets:** Click and drag a pet to swap it with an adjacent one. The swap will only be successful if it creates a valid match.
   성립합니다.
 
 ### 자주 묻는 질문(FAQ)
 
-- **Q: 자물쇠나 우리 안에 갇힌 펫은 어떻게 해방하나요?**  
-  **A:** 해당 펫을 포함해 매치를 만들면 우리가 깨지고,
+*   **Q: 자물쇠나 우리 안에 갇힌 펫은 어떻게 해방하나요?**
+    *   **A:** 해당 펫을 포함해 매치를 만들면 우리가 깨지고,
   자유롭게 이동할 수 있게 됩니다.
 
-    - **Q: 어떤 파워업이 가장 좋나요?**  
-  **A:** 일직선 5마리 매치로 만드는 레인보우 펫이
+*   **Q: 어떤 파워업이 가장 좋나요?**
+    *   **A:** 일직선 5마리 매치로 만드는 레인보우 펫이
   단일 색상을 모두 지울 수 있어 매우 강력하지만, 상황에 따라
   다른 파워업 조합이 더 효율적일 때도 있습니다.
 
-- **Q: 이동 수를 다 쓰면 어떻게 되나요?**  
-
-    - **A:** If you don't complete the level's objective before your moves run out, you will lose a life and have to restart the level.
-
-- **Q: What happens if I run out of moves?**
-
-    - **A:** The rainbow pet (from matching 5 in a line) is extremely useful for clearing many pets of one type. However, the best play is often to combine two power-ups for a major board-clearing effect.
-  **A:** 레벨 목표를 달성하지 못한 상태에서 이동 수가
+*   **Q: 이동 수를 다 쓰면 어떻게 되나요?**
+    *   **A:** 레벨 목표를 달성하지 못한 상태에서 이동 수가
   0이 되면 목숨을 잃고, 해당 레벨을 다시 도전해야 합니다.
-

@@ -15,7 +15,6 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-
 ### 게임 상세 소개
 
 *Om Nom: Run*은 "Cut the Rope" 시리즈의 귀여운 괴물 옴놈이 주인공인 러너 게임입니다.
@@ -42,28 +41,23 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### 조작 방법
 
+조작은 아래를 참고하세요.
 
-The game uses simple and intuitive swipe gestures.
+
 * **좌우 스와이프:** 세 개의 레인 사이를 이동합니다.
 * **위로 스와이프:** 장애물을 뛰어넘습니다.
 * **아래로 스와이프:** 장애물 아래로 미끄러져 통과합니다.
 
 ### 자주 묻는 질문(FAQ)
 
-* **Q: 게임의 주요 목표는 무엇인가요?**  
-  **A:** 가능한 한 멀리 달려 최고 점수를 기록하는 것입니다. 달리는 동안 미션을 많이
+*   **Q: 게임의 주요 목표는 무엇인가요?**
+    *   **A:** 가능한 한 멀리 달려 최고 점수를 기록하는 것입니다. 달리는 동안 미션을 많이
   완료할수록 점수 배수가 올라가 더 높은 점수를 얻을 수 있습니다.
 
-    - **Q: 장애물에 부딪히면 어떻게 되나요?**  
-  **A:** 바로 런이 종료됩니다. 다만, 열쇠 등 특수 자원을 사용해 한 번 더 이어서 달릴
+*   **Q: 장애물에 부딪히면 어떻게 되나요?**
+    *   **A:** 바로 런이 종료됩니다. 다만, 열쇠 등 특수 자원을 사용해 한 번 더 이어서 달릴
   수 있는 선택지가 제공되는 경우도 있습니다.
 
-* **Q: Om Nelle 같은 다른 캐릭터는 어떻게 해금하나요?**  
-
-    - **A:** New characters can usually be unlocked by collecting a large number of coins or by gathering special character tokens that appear randomly during runs.
-
-- **Q: How do I unlock other characters like Om Nelle?**
-
-    - **A:** Your run ends. However, you often have the option to spend a special currency (like keys) to get a second chance and continue your run from where you crashed.
-  **A:** 보통 일정량의 코인을 모으거나, 러닝 중에 등장하는 캐릭터 토큰을 모으면
+*   **Q: Om Nelle 같은 다른 캐릭터는 어떻게 해금하나요?**
+    *   **A:** 보통 일정량의 코인을 모으거나, 러닝 중에 등장하는 캐릭터 토큰을 모으면
   새로운 캐릭터가 해금됩니다.

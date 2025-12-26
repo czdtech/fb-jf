@@ -3,7 +3,7 @@ locale: ko
 urlstr: jurassic-run
 title: Jurassic Run 공룡 러너
 description: >-
-  공룡과 정글을 배경으로 한 끝less 러너 'Jurassic Run' 가이드입니다. 레인을 바꾸고 점프·슬라이드로 장애물을 피하며, 코인을
+  공룡과 정글을 배경으로 한 끝없는 러너 'Jurassic Run' 가이드입니다. 레인을 바꾸고 점프·슬라이드로 장애물을 피하며, 코인을
   모아 높은 점수를 노려 보세요.
 iframeSrc: 'https://260c4eej53igg.h5games.usercontent.goog/v/5h99gs1rujgk0/'
 thumbnail: /new-images/thumbnails/jurassic-run.png
@@ -15,11 +15,10 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-
 ### 게임 상세 소개
 
 *Jurassic Run*은 공룡 시대 정글을 무대로 한 빠른 속도의
-끝less 러너입니다. 길 앞을 미리 읽어 좌우 레인을 바꾸고,
+끝없는 러너입니다. 길 앞을 미리 읽어 좌우 레인을 바꾸고,
 점프·슬라이드로 바위와 장애물을 회피하며 가능한 한 멀리
 달리는 것이 목표입니다.
 
@@ -64,8 +63,8 @@ releaseDate: 2025-10-18T00:00:00.000Z
   입력 시간을 줄여 보세요.
 
 - **Q: 이 게임에 끝이 있나요?**  
-
-- Power‑ups? Many versions include shields, magnets, or slow‑mo.
-  **A:** 보통 끝less 모드로, 죽지 않는 한 계속 진행됩니다.
+  **A:** 보통 끝없는 모드로, 죽지 않는 한 계속 진행됩니다.
   최고 기록 경신을 목표로 하시면 됩니다.
 
+- **Q: 파워업이 있나요?**  
+  **A:** 버전에 따라 방어막, 자석, 슬로모션 같은 파워업이 제공되기도 합니다.

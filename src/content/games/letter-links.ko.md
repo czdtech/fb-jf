@@ -16,7 +16,6 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-
 ### 게임 상세 소개
 
 *Letter Links*는 스크래블류 보드 게임과 비슷한 **전략형
@@ -51,31 +50,21 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### 조작 가이드
 
-- **타일 배치**: 하단 랙에서 타일을 드래그해 보드 칸에
-  놓습니다. 마음이 바뀌면 다시 랙으로 끌어오면 됩니다.  
-- **제출**: 단어 배치를 마쳤다면 `Submit Words` 버튼을 눌러
-
-- **Submit:** Once you have placed your tiles, click the "Submit Words" button to lock them in and calculate your score.
-  점수를 확정합니다.
+- **타일 배치**: 하단 랙에서 타일을 드래그해 보드 칸에 놓습니다.  
+- **타일 되돌리기**: 제출하기 전이라면, 이미 놓은 타일을 다시 랙으로 끌어와 위치를 수정할 수 있습니다.  
+- **제출**: 단어 배치를 마쳤다면 `Submit Words` 버튼을 눌러 점수를 확정합니다.
 
 ### 자주 묻는 질문(FAQ)
 
-- **Q: 단어가 거부된 이유가 뭔가요?**  
-  **A:** 사전에 없는 단어이거나, 새로 놓은 타일들이 하나의
+*   **Q: 단어가 거부된 이유가 뭔가요?**
+    *   **A:** 사전에 없는 단어이거나, 새로 놓은 타일들이 하나의
   연결 그룹을 이루지 않았거나, 중앙 별 칸을 사용하지 않았을
   수 있습니다.
 
-    - **Q: 점수는 어떻게 계산되나요?**  
-  **A:** 각 글자 점수를 더한 뒤, DL/TL 등의 글자 보너스를
+*   **Q: 점수는 어떻게 계산되나요?**
+    *   **A:** 각 글자 점수를 더한 뒤, DL/TL 등의 글자 보너스를
   먼저 적용하고, 이후 DW/TW 같은 단어 보너스를 곱합니다.
 
-- **Q: 대각선 단어도 되나요?**  
-
-    - **A:** No. All words must be formed horizontally (left-to-right) or vertically (top-to-bottom).
-
-- **Q: Can I play diagonally?**
-
-    - **A:** The score for a word is the sum of the values of its letters, multiplied by any word bonuses (DW, TW). Letter bonuses (DL, TL) are applied to individual letters before the word multipliers.
-  **A:** 아니요. 모든 단어는 가로(왼→오) 또는 세로(위→아래)로만
+*   **Q: 대각선 단어도 되나요?**
+    *   **A:** 아니요. 모든 단어는 가로(왼→오) 또는 세로(위→아래)로만
   형성되어야 합니다.
-

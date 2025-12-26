@@ -16,7 +16,6 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-
 ### 게임 상세 소개
 
 *Jewel Blocks*는 겉보기에는 단순하지만, 생각보다 깊이가 있는
@@ -62,23 +61,16 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### 자주 묻는 질문(FAQ)
 
-- **Q: 블록을 회전하고 싶은데, 방법이 없나요?**  
-  **A:** 없습니다. 블록 회전 불가가 이 게임의 핵심 규칙이자
+*   **Q: 블록을 회전하고 싶은데, 방법이 없나요?**
+    *   **A:** 없습니다. 블록 회전 불가가 이 게임의 핵심 규칙이자
   난이도 요소입니다. 주어진 모양 그대로 사용할 수밖에 없기 때문에,
   배치 전략이 더욱 중요해집니다.
 
-    - **Q: 게임은 언제 끝나나요?**  
-  **A:** 새로운 세트의 세 블록 중 단 하나도 보드에 배치할 수
+*   **Q: 게임은 언제 끝나나요?**
+    *   **A:** 새로운 세트의 세 블록 중 단 하나도 보드에 배치할 수
   없는 순간 게임이 종료됩니다.
 
-- **Q: 고득점을 노릴 때 가장 중요한 점은 무엇인가요?**  
-
-    - **A:** The key to a high score is longevity and combos. Survive as long as possible by keeping your board clean and open. Prioritize moves that clear multiple lines at once to get combo bonuses. For example, clearing two lines at once is worth more than clearing two separate lines in different moves.
-
-- **Q: What is the best strategy for a high score?**
-
-    - **A:** The game ends when you are given a set of three blocks and there is no legal space on the grid to place any of them.
-  **A:** 최대한 오래 버티는 것과, 여러 줄을 동시에 지우는 콤보를
+*   **Q: 고득점을 노릴 때 가장 중요한 점은 무엇인가요?**
+    *   **A:** 최대한 오래 버티는 것과, 여러 줄을 동시에 지우는 콤보를
   자주 만드는 것입니다. 예를 들어, 두 줄을 따로따로 지우는 것보다
   한 번에 두 줄을 지우는 편이 점수가 더 높습니다.
-

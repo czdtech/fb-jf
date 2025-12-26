@@ -16,9 +16,6 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-
-
-
 ### 게임 상세 소개
 
 *Merge Cakes*는 동일한 케이크를 합쳐 상위 단계의 디저트를 만들어 내는 아기자기한 퍼즐
@@ -42,31 +39,24 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### 조작 방법
 
+조작은 아래를 참고하세요.
+
 - **케이크 머지:** 케이크를 클릭해 드래그한 뒤, 같은 케이크 위에 놓아 합칩니다.
 - **케이크 구매:** 상점 아이콘을 눌러 원하는 케이크를 선택해 코인으로 구매합니다
   (이미 발견한 케이크만 구매 가능).
 
 
-- **Buy Cakes:** Click on the shop icon and then click the cake you wish to purchase.
-
-- **Merge Cakes:** Click and drag one cake and drop it onto another identical cake to merge them.
 ### 자주 묻는 질문(FAQ)
 
-- **Q: 새로운 케이크는 어떻게 얻나요?**  
-  **A:** 일정 시간마다 무료 배송 상자에서 기본 케이크가 떨어지고, 머지하여 상위
+*   **Q: 새로운 케이크는 어떻게 얻나요?**
+    *   **A:** 일정 시간마다 무료 배송 상자에서 기본 케이크가 떨어지고, 머지하여 상위
   단계 케이크를 만들면서 새로운 레시피가 해금됩니다. 한 번 만든 케이크는 상점에서
   코인으로 다시 구매할 수 있습니다.
 
-    - **Q: 게임의 최종 목표는 무엇인가요?**  
-  **A:** 손님 주문을 완료해 코인을 벌고, 레시피 북에 있는 모든 케이크를 수집하는
+*   **Q: 게임의 최종 목표는 무엇인가요?**
+    *   **A:** 손님 주문을 완료해 코인을 벌고, 레시피 북에 있는 모든 케이크를 수집하는
   것이 주요 목표입니다.
 
-- **Q: 보드가 꽉 차서 아무 것도 할 수 없어요.**  
-
-    - **A:** You need to create space. Look carefully for any possible merges you might have missed. If there are none, you may have to use the trash can icon to sell a low-level cake to free up a plate.
-
-- **Q: My board is full and I can't make any moves. What do I do?**
-
-    - **A:** To earn coins by fulfilling customer orders and to discover all the different cake recipes in the game.
-  **A:** 합칠 수 있는 조합이 없는지 다시 한 번 꼼꼼히 확인해 보세요. 정말 없다면,
+*   **Q: 보드가 꽉 차서 아무 것도 할 수 없어요.**
+    *   **A:** 합칠 수 있는 조합이 없는지 다시 한 번 꼼꼼히 확인해 보세요. 정말 없다면,
   휴지통 아이콘을 사용해 저레벨 케이크를 팔고 공간을 확보해야 할 수 있습니다.

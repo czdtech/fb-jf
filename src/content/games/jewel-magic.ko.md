@@ -16,7 +16,6 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-
 ### 게임 상세 소개
 
 *Jewel Magic*은 반짝이는 보석과 마법 같은 연출이 특징인
@@ -50,29 +49,23 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### 조작 가이드
 
+조작은 아래를 참고하세요.
+
 - **보석 교환**: 마우스 또는 터치로 보석을 드래그해 인접한
   칸과 위치를 바꾸면, 3개 이상 매치가 되는 경우에만
 
-- **Swap Jewels:** Click and drag a jewel to swap it with an adjacent one. The swap will only complete if it forms a valid match of three or more identical jewels.
   교환이 성립합니다.
 
 ### 자주 묻는 질문(FAQ)
 
-- **Q: 얼음/사슬 보석은 어떻게 처리하나요?**  
-  **A:** 해당 보석을 포함한 매치를 만들면 얼음·사슬이 깨지고,
+*   **Q: 얼음/사슬 보석은 어떻게 처리하나요?**
+    *   **A:** 해당 보석을 포함한 매치를 만들면 얼음·사슬이 깨지고,
   여러 번 맞춰야 완전히 풀리는 경우도 있습니다.
 
-    - **Q: 높은 점수는 어떻게 얻나요?**  
-  **A:** 특수 보석과 콤보를 최대한 활용해 한 번에 많은 보석을
+*   **Q: 높은 점수는 어떻게 얻나요?**
+    *   **A:** 특수 보석과 콤보를 최대한 활용해 한 번에 많은 보석을
   없애는 것이 핵심입니다.
 
-- **Q: 이동 횟수가 다 되면 어떻게 되나요?**  
-
-    - **A:** If you don't complete the level's objective before your moves run out, you will lose a life and must restart the level.
-
-- **Q: What happens when I run out of moves?**
-
-    - **A:** Create as many special jewels and combos as possible. Triggering long chain reactions and clearing a large number of jewels in a single move will result in a much higher score.
-  **A:** 목표를 충족하지 못한 상태에서 이동 횟수를 모두
+*   **Q: 이동 횟수가 다 되면 어떻게 되나요?**
+    *   **A:** 목표를 충족하지 못한 상태에서 이동 횟수를 모두
   사용하면 레벨 실패로, 목숨을 소모하고 다시 도전해야 합니다.
-

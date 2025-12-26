@@ -15,8 +15,9 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+## 한국어 가이드
 
-## 게임 상세 소개
+### 게임 상세 소개
 
 *Lake Jump*는 미니멀한 연속 점프 챌린지 게임입니다.
 화면을 탭하는 간단한 조작만으로 움직이는 발판 사이를
@@ -52,11 +53,6 @@ releaseDate: 2025-10-18T00:00:00.000Z
 - **일시정지/재시작**: 화면 상의 버튼으로 조작합니다.
 
 
-- Reset calmly: After a miss, re‑establish rhythm before chasing streaks.
-
-- Skip greed: Ignore risky coins when alignment is poor.
-
-- Watch platform speed: Faster cycles require earlier taps; adjust quickly.
 ### 자주 묻는 질문(FAQ)
 
 - **Q: 자꾸 발판을 지나쳐 버립니다.**  
@@ -64,20 +60,8 @@ releaseDate: 2025-10-18T00:00:00.000Z
   살짝 늦게 탭해 발판 중앙을 겨냥해 보세요.
 
 - **Q: 파워업이 있나요?**  
-
-- Endless? Typically yes; set personal bests.
-
-- Are there power‑ups? Some modes include slow‑mo or bigger platforms temporarily.
-
-- I overshoot—why? You’re tapping too early; delay slightly and practice a steady cadence.
-
-### 자주 묻는 질문(FAQ)
-
-- Endless? Typically yes; set personal bests.
-
-- Are there power‑ups? Some modes include slow‑mo or bigger platforms temporarily.
-
-- I overshoot—why? You’re tapping too early; delay slightly and practice a steady cadence.
   **A:** 일부 모드에서는 잠시 속도를 늦추거나 발판을
   크게 만드는 파워업이 제공될 수 있습니다.
 
+- **Q: 무한 모드인가요?**  
+  **A:** 보통은 끝없는 모드로, 개인 최고 기록을 갱신하는 것을 목표로 하면 됩니다.

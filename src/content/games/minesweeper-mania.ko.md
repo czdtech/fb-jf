@@ -16,7 +16,6 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-
 ### 게임 상세 소개
 
 *Minesweeper Mania*는 고전 마인스위퍼를 보다 매끄럽게 다듬고, 여러 난이도 옵션을 추가한
@@ -48,19 +47,13 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### 자주 묻는 질문(FAQ)
 
-* **Q: 숫자는 정확히 무엇을 의미하나요?**  
-  **A:** 해당 칸을 둘러싼 8칸(가로·세로·대각선)에 몇 개의 지뢰가 있는지를 정확히
+*   **Q: 숫자는 정확히 무엇을 의미하나요?**
+    *   **A:** 해당 칸을 둘러싼 8칸(가로·세로·대각선)에 몇 개의 지뢰가 있는지를 정확히
   나타냅니다.
 
-    - **Q: 지뢰 칸을 클릭하면 어떻게 되나요?**  
-  **A:** 즉시 패배 처리되며, 전체 지뢰 위치가 공개됩니다.
+*   **Q: 지뢰 칸을 클릭하면 어떻게 되나요?**
+    *   **A:** 즉시 패배 처리되며, 전체 지뢰 위치가 공개됩니다.
 
-* **Q: 깃발을 꼭 사용해야 하나요?**  
-
-    - **A:** No, flags are not required to win. They are simply a tool to help you remember where you think the mines are. You win by revealing all the safe squares, not by flagging all the mines.
-
-- **Q: Do I have to use flags?**
-
-    - **A:** The game ends immediately in a loss.
-  **A:** 필수는 아닙니다. 깃발은 어디에 지뢰가 있을지 기억하기 위한 도구일 뿐이며,
+*   **Q: 깃발을 꼭 사용해야 하나요?**
+    *   **A:** 필수는 아닙니다. 깃발은 어디에 지뢰가 있을지 기억하기 위한 도구일 뿐이며,
   실제 승리 조건은 지뢰가 없는 모든 칸을 여는 것입니다.

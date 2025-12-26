@@ -16,7 +16,6 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-
 ### 게임 상세 소개
 
 *Kitty Match*는 고양이와 관련된 귀여운 아이콘들로 가득한
@@ -55,21 +54,14 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### 자주 묻는 질문(FAQ)
 
-- **Q: 각 레벨의 목표는 어디에서 확인하나요?**  
-  **A:** 레벨 시작 화면과 상단 UI에 목표 아이템·블록 수가
+*   **Q: 각 레벨의 목표는 어디에서 확인하나요?**
+    *   **A:** 레벨 시작 화면과 상단 UI에 목표 아이템·블록 수가
   표시됩니다.
 
-    - **Q: 이동 수를 다 쓰면 어떻게 되나요?**  
-  **A:** 목표를 달성하지 못한 상태에서 이동 수가 0이 되면
+*   **Q: 이동 수를 다 쓰면 어떻게 되나요?**
+    *   **A:** 목표를 달성하지 못한 상태에서 이동 수가 0이 되면
   목숨을 잃고, 해당 레벨을 다시 도전해야 합니다.
 
-- **Q: 폭탄은 어떻게 만들 수 있나요?**  
-
-    - **A:** You can typically create a bomb power-up by matching five identical items in an "L" or "T" shape. Bombs clear a large area of tiles around them when activated.
-
-- **Q: How do I create a bomb?**
-
-    - **A:** If you cannot complete the level's objective before you run out of moves, you will lose a life and have to try the level again.
-  **A:** L자 또는 T자 형태로 같은 아이템 5개를 매치하면
+*   **Q: 폭탄은 어떻게 만들 수 있나요?**
+    *   **A:** L자 또는 T자 형태로 같은 아이템 5개를 매치하면
   주변을 폭발시키는 폭탄 파워업이 생성됩니다.
-

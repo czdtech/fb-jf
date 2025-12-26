@@ -18,7 +18,6 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
-
 ### 게임 소개
 
 *Mahjongg Solitaire*는 Mahjong Solitaire, Shanghai Solitaire라는 이름으로도 널리 알려진

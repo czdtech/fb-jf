@@ -16,7 +16,6 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-
 ### 게임 상세 소개
 
 *Jewel Christmas Mania*는 반짝이는 보석과 함께 크리스마스 분위기를
@@ -64,23 +63,16 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### 자주 묻는 질문(FAQ)
 
-- **Q: 3매치 게임이란 무엇인가요?**  
-  **A:** 격자 위에서 인접한 조각을 바꾸어 같은 모양 3개 이상을
+*   **Q: 3매치 게임이란 무엇인가요?**
+    *   **A:** 격자 위에서 인접한 조각을 바꾸어 같은 모양 3개 이상을
   일렬로 맞추는 퍼즐 장르입니다. 매치가 되면 조각이 사라지고,
   위에서 새로운 조각이 떨어집니다.
 
-    - **Q: 부스터는 어떻게 사용하나요?**  
-  **A:** 레벨을 클리어하거나 출석 보상 등으로 얻을 수 있으며,
+*   **Q: 부스터는 어떻게 사용하나요?**
+    *   **A:** 레벨을 클리어하거나 출석 보상 등으로 얻을 수 있으며,
   일반적으로 아이콘을 클릭해 활성화합니다. 특정 줄을 지우거나
   장애물을 제거할 때 유용합니다.
 
-- **Q: 이동 횟수를 다 쓰면 어떻게 되나요?**  
-
-    - **A:** If you run out of moves before completing the level objective, you will fail the level and may lose a life. You can then choose to retry the level.
-
-- **Q: What happens if I run out of moves?**
-
-    - **A:** Boosters are special items that can help you clear difficult levels. They are usually activated by clicking on them. You might earn them by completing levels or through daily rewards.
-  **A:** 목표를 달성하기 전에 이동 횟수가 0이 되면 스테이지
+*   **Q: 이동 횟수를 다 쓰면 어떻게 되나요?**
+    *   **A:** 목표를 달성하기 전에 이동 횟수가 0이 되면 스테이지
   실패로 처리되며, 목숨을 하나 소모하고 다시 도전해야 합니다.
-

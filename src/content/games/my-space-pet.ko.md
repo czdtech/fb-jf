@@ -14,7 +14,6 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
-
 ### 게임 상세 소개
 
 *My Space Pet*는 Zuub이라는 귀여운 외계 생명체를 기르는 버추얼 펫 게임입니다. 배가 고프면
@@ -40,19 +39,13 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 ### 자주 묻는 질문(FAQ)
 
-* **Q: Zuub을 오래 방치하면 어떻게 되나요?**  
-  **A:** 배고픔과 피로, 위생 상태가 나빠지면 Zuub이 우울해 보이거나 아플 수 있습니다.
+*   **Q: Zuub을 오래 방치하면 어떻게 되나요?**
+    *   **A:** 배고픔과 피로, 위생 상태가 나빠지면 Zuub이 우울해 보이거나 아플 수 있습니다.
   꾸준히 돌봐 주면 다시 금방 회복합니다.
 
-    - **Q: 코인은 어떻게 모으나요?**  
-  **A:** 게임 내 다양한 미니게임을 플레이하고 좋은 성과를 내면 코인을 받을 수 있습니다.
+*   **Q: 코인은 어떻게 모으나요?**
+    *   **A:** 게임 내 다양한 미니게임을 플레이하고 좋은 성과를 내면 코인을 받을 수 있습니다.
 
-* **Q: 펫을 여러 마리 키울 수 있나요?**  
-
-    - **A:** Typically, virtual pet games focus on one main pet. Check the game's specific features, but usually, the focus is on developing a strong bond with your single space companion.
-
-- **Q: Can I have more than one space pet?**
-
-    - **A:** Coins are primarily earned by playing and succeeding in the various mini-games available within My Space Pet.
-  **A:** 대부분의 버추얼 펫 게임과 마찬가지로, 보통 한 마리의 메인 펫에 집중하는 구조를
+*   **Q: 펫을 여러 마리 키울 수 있나요?**
+    *   **A:** 대부분의 버추얼 펫 게임과 마찬가지로, 보통 한 마리의 메인 펫에 집중하는 구조를
   가지고 있습니다. 버전에 따라 다를 수 있으니, 게임 내 설명을 확인해 보세요.

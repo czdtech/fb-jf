@@ -16,7 +16,6 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-
 ### 게임 상세 소개
 
 *Onet Connect Classic*은 동물, 과일 등 귀여운 아이콘이
@@ -48,42 +47,30 @@ releaseDate: 2025-10-17T00:00:00.000Z
    셔플로 남은 타일 배치를 섞어 새로운 기회를
    만드는 것도 좋은 선택입니다(사용 횟수 제한 주의).
 
-    - **시간 관리**  
+    - **힌트**: 힌트 버튼은 가능한 한 쌍을 보여 줍니다.  
+    - **셔플**: 더 이상 움직일 수 없을 때 셔플 버튼으로 남은 타일을 재배치해 새로운 기회를 만듭니다.  
 
-    - **Race the Clock:** Each level is timed. Keep an eye on the timer and try to maintain a steady pace of matching to avoid running out of time.
-
-- **Shuffles:** If you run out of possible moves, the shuffle button will rearrange all the remaining tiles on the board, creating new opportunities.
-   각 레벨에는 제한 시간이 있으니, 일정한 속도로
-   매칭을 유지하면서 여유가 있을 때만 난해한 쌍을
-   찾는 것이 좋습니다.
+5. **시간 관리**  
+   각 레벨에는 제한 시간이 있으니, 일정한 속도로 매칭을 유지하며
+   여유가 있을 때만 난해한 쌍을 찾는 것이 좋습니다.
 
 ### 조작 가이드
 
-- **타일 선택**: 첫 번째 타일을 클릭한 뒤, 같은 그림의
-  두 번째 타일을 클릭합니다. 유효한 경로가 있으면 두 타일이
+조작은 아래를 참고하세요.
 
-- **Connect Pair:** Click on a second, identical tile. If the path between them is valid, both tiles will be removed from the board.
-
-- **Select Tiles:** Click on a tile to select it.
-  함께 사라집니다.
+- **타일 선택**: 첫 번째 타일을 클릭해 선택합니다.  
+- **짝 연결**: 같은 그림의 두 번째 타일을 클릭하면, 경로가 유효할 때 두 타일이 제거됩니다.
 
 ### 자주 묻는 질문(FAQ)
 
-- **Q: 같은 그림인데 연결이 안 됩니다.**  
-  **A:** 사이 경로가 다른 타일에 막혀 있거나, 선이 세 번
+*   **Q: 같은 그림인데 연결이 안 됩니다.**
+    *   **A:** 사이 경로가 다른 타일에 막혀 있거나, 선이 세 번
   이상 꺾여야만 연결되는 경우일 수 있습니다.
 
-    - **Q: 시간이 다 되면 어떻게 되나요?**  
-  **A:** 타이머가 0이 되기 전에 보드를 모두 지우지 못하면
+*   **Q: 시간이 다 되면 어떻게 되나요?**
+    *   **A:** 타이머가 0이 되기 전에 보드를 모두 지우지 못하면
   해당 레벨에서 패배하며, 다시 도전해야 합니다.
 
-- **Q: 힌트를 쓰면 패널티가 있나요?**  
-
-    - **A:** Usually, no, but you have a limited number of them. Use them when you are truly stuck to save valuable time.
-
-- **Q: Is there a penalty for using hints?**
-
-    - **A:** If the timer reaches zero before you have cleared all the tiles, you lose the level and will have to start over.
-  **A:** 보통 점수 패널티는 없지만, 사용 횟수가 제한적입니다.
+*   **Q: 힌트를 쓰면 패널티가 있나요?**
+    *   **A:** 보통 점수 패널티는 없지만, 사용 횟수가 제한적입니다.
   정말 막혔을 때만 활용하는 것이 좋습니다.
-

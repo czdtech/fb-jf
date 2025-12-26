@@ -16,7 +16,6 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-
 ### 게임 상세 소개
 
 *Jungle Bricks*는 정글을 배경으로 하는 현대식 브릭 브레이커 게임입니다.
@@ -52,27 +51,21 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### 조작 가이드
 
+조작은 아래를 참고하세요.
+
 - **조준**: 마우스 왼쪽 버튼(또는 터치)을 누른 상태로 드래그해
   발사 각도를 조절하면, 궤적 가이드가 나타납니다.  
 - **발사**: 버튼/손가락을 떼면 그 방향으로 공이 일제히 발사됩니다.
 
 
-- **Shoot:** Release the mouse button (or your finger) to fire the balls.
 ### 자주 묻는 질문(FAQ)
 
-- **Q: 블록에 적힌 숫자는 무엇인가요?**  
-  **A:** 그 블록이 제거되기까지 맞아야 하는 타격 횟수를 의미합니다.
+*   **Q: 블록에 적힌 숫자는 무엇인가요?**
+    *   **A:** 그 블록이 제거되기까지 맞아야 하는 타격 횟수를 의미합니다.
 
-    - **Q: 언제 게임이 끝나나요?**  
-  **A:** 어떤 블록이든 하단 라인에 닿는 순간 게임이 종료됩니다.
+*   **Q: 언제 게임이 끝나나요?**
+    *   **A:** 어떤 블록이든 하단 라인에 닿는 순간 게임이 종료됩니다.
 
-- **Q: 공을 더 늘릴 수 있나요?**  
-
-    - **A:** Look for special blocks with a "+" or similar icon on them. Hitting and destroying these blocks will often add more balls to your volley for the next shot.
-
-- **Q: How can I get more balls?**
-
-    - **A:** The game ends if any brick successfully reaches the bottom line of the play area.
-  **A:** `+` 등 특수 아이콘이 있는 블록을 맞혀 부수면,
+*   **Q: 공을 더 늘릴 수 있나요?**
+    *   **A:** `+` 등 특수 아이콘이 있는 블록을 맞혀 부수면,
   다음 턴부터 발사되는 공의 개수가 증가합니다.
-

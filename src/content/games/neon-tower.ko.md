@@ -16,7 +16,6 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
-
 ### 게임 상세 소개
 
 *Neon Tower*는 3D 나선형 타워를 회전시키며 튕기는 공을 아래층으로 내려 보내는 아케이드
@@ -47,21 +46,15 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 ### 자주 묻는 질문(FAQ)
 
-* **Q: 게임의 목표는 무엇인가요?**  
-  **A:** 플랫폼의 틈을 통해 공을 아래로 계속 떨어뜨려, 타워 최하단까지 무사히
+*   **Q: 게임의 목표는 무엇인가요?**
+    *   **A:** 플랫폼의 틈을 통해 공을 아래로 계속 떨어뜨려, 타워 최하단까지 무사히
   도달하는 것이 목표입니다.
 
-    - **Q: 빨간 플랫폼에 닿으면 어떻게 되나요?**  
-  **A:** 일반 상태에서 붉은 플랫폼에 닿으면 공이 깨지며 게임이 종료됩니다. 파이어볼
+*   **Q: 빨간 플랫폼에 닿으면 어떻게 되나요?**
+    *   **A:** 일반 상태에서 붉은 플랫폼에 닿으면 공이 깨지며 게임이 종료됩니다. 파이어볼
   모드일 때만 붉은 플랫폼을 부술 수 있습니다.
 
-* **Q: 파이어볼 모드는 어떻게 발동하나요?**  
-
-    - **A:** By falling through a sequence of multiple platforms without touching any of them. You will see your ball ignite, indicating that you can now safely smash through any platform, including the red ones.
-
-- **Q: How do I activate the fireball mode?**
-
-    - **A:** Your ball will shatter, and the game is over. You must avoid the red platforms at all costs, unless your fireball mode is active.
-  **A:** 발판에 닿지 않고 여러 층을 연속해서 통과하면 공이 점점 빨라지다가, 불꽃에
+*   **Q: 파이어볼 모드는 어떻게 발동하나요?**
+    *   **A:** 발판에 닿지 않고 여러 층을 연속해서 통과하면 공이 점점 빨라지다가, 불꽃에
   휩싸이는 연출과 함께 파이어볼 모드에 돌입합니다. 이때는 짧은 시간 동안 어떤 플랫폼도
   안전하게 부술 수 있습니다.

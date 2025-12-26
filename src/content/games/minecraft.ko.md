@@ -18,7 +18,6 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
-
 ### 게임 소개
 
 *Minecraft*는 Mojang Studios가 개발한 샌드박스 비디오 게임으로, 블록으로 이루어진 3D
