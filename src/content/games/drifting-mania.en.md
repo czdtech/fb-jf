@@ -12,10 +12,12 @@ releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Drifting mania is a lightweight top‑down drifter. Manage slip angle, throttle pulses, and tidy exits to chain corners and set clean lap times.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Enter slow, exit fast to keep momentum.
@@ -24,14 +26,20 @@ Drifting mania is a lightweight top‑down drifter. Manage slip angle, throttle 
 4.  Recover early if over‑rotated.
 5.  Drill layouts for consistent braking points.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Steer: A/D or Left/Right; Throttle/Brake: W/S or Up/Down.
 - Handbrake (if any): Space for rotation.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- Spinning out? Reduce throttle and counter‑steer sooner.
-- Can I upgrade cars? Some versions allow unlocks; focus on consistency first.
-- Best times? Clean lines beat reckless speed.
+- <!-- i18n:faq:id=faq:drifting-mania:spinning-out-802114ee -->
+  Spinning out? Reduce throttle and counter‑steer sooner.
+- <!-- i18n:faq:id=faq:drifting-mania:can-i-upgrade-cars-5957df0e -->
+  Can I upgrade cars? Some versions allow unlocks; focus on consistency first.
+- <!-- i18n:faq:id=faq:drifting-mania:best-times-55300466 -->
+  Best times? Clean lines beat reckless speed.
+
 

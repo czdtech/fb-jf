@@ -14,14 +14,17 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Overview
 Relaxed collect‑’em‑up on the water: rescue ducklings scattered around a pond and escort them safely back to your nest while avoiding boats and hazards.
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 - Swim near ducklings to have them follow; return to the nest to bank them.
 - Larger trains are riskier—boats can scatter your line; take safe routes.
 - Upgrade your nest between trips when offered.
 
+<!-- i18n:section:controls -->
 ### Controls
 - Mouse/Touch or Arrows to steer.
 
@@ -30,11 +33,16 @@ Relaxed collect‑’em‑up on the water: rescue ducklings scattered around a p
 - Cut diagonals behind slow boats; never cross a bow head‑on.
 - Keep your chain compact to avoid stragglers getting clipped.
 
+<!-- i18n:section:faq -->
 ### FAQ
-- Q: Is there a time limit?  
+- <!-- i18n:faq:id=faq:ducklings:is-there-a-time-limit-31247f0f -->
+  Q: Is there a time limit?
   A: Typically no—play at your pace.
-- Q: What ends a run?  
+- <!-- i18n:faq:id=faq:ducklings:what-ends-a-run-ed280e19 -->
+  Q: What ends a run?
   A: Losing followers to collisions reduces haul; the nest is safe.
-- Q: Are there power‑ups?  
+- <!-- i18n:faq:id=faq:ducklings:are-there-powerups-0fea9ab4 -->
+  Q: Are there power‑ups?
   A: Some hosts add boosts or cosmetics; core loop is rescuing and banking.
+
 

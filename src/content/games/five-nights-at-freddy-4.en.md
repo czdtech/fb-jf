@@ -14,14 +14,17 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Overview
 Home‑set horror focused on audio cues: you patrol bedroom doors, closet, and bed, using the flashlight and careful listening to avoid jumpscares.
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 - Approach a door and pause to listen; shut doors if you hear breathing.
 - Flash the hallway only when safe; check the closet and bed regularly.
 - Later nights increase speed and require tighter timing.
 
+<!-- i18n:section:controls -->
 ### Controls
 - Mouse/keyboard to move between locations; specific keys for doors and flashlight vary by host.
 
@@ -30,11 +33,16 @@ Home‑set horror focused on audio cues: you patrol bedroom doors, closet, and b
 - Build a loop (left door → right door → closet → bed) and repeat quickly.
 - Headphones help distinguish subtle breathing and footsteps.
 
+<!-- i18n:section:faq -->
 ### FAQ
-- Q: Why do I get jumpscared when I flash the light at the door?  
+- <!-- i18n:faq:id=faq:five-nights-at-freddy-4:why-do-i-get-jumpscared-a9ce8afc -->
+  Q: Why do I get jumpscared when I flash the light at the door?
   A: You likely flashed while breathing was present; close the door first.
-- Q: Do I need to check the bed?  
+- <!-- i18n:faq:id=faq:five-nights-at-freddy-4:do-i-need-to-check-ff1e78e4 -->
+  Q: Do I need to check the bed?
   A: Yes—ignoring the bed lets nightmares accumulate and increases risk.
-- Q: Does the game add extra nights?  
+- <!-- i18n:faq:id=faq:five-nights-at-freddy-4:does-the-game-add-extra-4e384ad2 -->
+  Q: Does the game add extra nights?
   A: Many hosts include later challenge nights beyond Night 5.
+
 

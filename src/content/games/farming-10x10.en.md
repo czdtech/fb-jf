@@ -12,10 +12,12 @@ releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Farming 10x10 is a calm shape‑placement puzzle on a 10×10 grid. You receive sets of three pieces; place them to complete rows/columns and score clears. The run ends when no legal placements remain, so the art is in preserving flexibility while constructing multi‑line clears.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Keep the center breathable; tidy edges gradually to avoid single‑cell traps.
@@ -24,22 +26,28 @@ Farming 10x10 is a calm shape‑placement puzzle on a 10×10 grid. You receive s
 4.  Build two‑line setups so one placement scores double clears.
 5.  Avoid creating 1×n “spines” that only fit sticks.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Drag pieces to the board; release to place; some modes allow rotate.
 - Undo/Reset if provided.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- Q: I keep running out of room — solutions?
+- <!-- i18n:faq:id=faq:farming-10x10:i-keep-running-out-of-53d7e049 -->
+  Q: I keep running out of room — solutions?
   
   A: Maintain a central open area, set aside an awkward‑piece pocket, and prioritize double clear setups.
 
-- Q: Rotate is missing?
+- <!-- i18n:faq:id=faq:farming-10x10:rotate-is-missing-47d28c13 -->
+  Q: Rotate is missing?
   
   A: Many 10×10 variants do not rotate; compensate with better pocketing.
 
-- Q: How to chase high scores?
+- <!-- i18n:faq:id=faq:farming-10x10:how-to-chase-high-scores-1161fbca -->
+  Q: How to chase high scores?
   
   A: Chain doubles and avoid “rescue” singles that break structure.
+
 

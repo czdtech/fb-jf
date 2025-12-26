@@ -12,6 +12,7 @@ releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Egg Maker distills time‑management cooking into rapid stations: crack, whisk, season, heat, plate, and serve. Each order specifies a style (scrambled, sunny‑side, omelet) and doneness windows. Items on heat continue cooking, so sequencing and pickup timing decide whether you hit “perfect” or burn.
@@ -24,6 +25,7 @@ Egg Maker distills time‑management cooking into rapid stations: crack, whisk, 
 4.  Multi‑orders: Group similar styles to reuse pan state and reduce clean cycles.
 5.  Upgrades: Prioritize extra pan and faster prep over décor.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Tap to crack/whisk/season; drag to pan/plate; tap customer to serve.
@@ -35,16 +37,21 @@ Egg Maker distills time‑management cooking into rapid stations: crack, whisk, 
 - Early cancel: If an item overcooks, toss quickly to keep flow rather than serve a penalty.
 - Combo routing: Serve 2–3 dishes back‑to‑back for a tip multiplier.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- Q: I keep burning items — how to fix?
+- <!-- i18n:faq:id=faq:egg-maker:i-keep-burning-items-how-483b18e0 -->
+  Q: I keep burning items — how to fix?
   
   A: Stagger pans by 3–4 seconds, do short prep during the gap, and focus on auditory sizzle cues.
 
-- Q: Which upgrade first?
+- <!-- i18n:faq:id=faq:egg-maker:which-upgrade-first-be077b24 -->
+  Q: Which upgrade first?
   
   A: Extra pan > faster prep > queue size. Décor is endgame.
 
-- Q: Any trick for omelets with fillings?
+- <!-- i18n:faq:id=faq:egg-maker:any-trick-for-omelets-with-7e3bef76 -->
+  Q: Any trick for omelets with fillings?
   
   A: Pre‑chop fillings during lulls, add early, and fold on the first “set” frame to avoid leaks.
+

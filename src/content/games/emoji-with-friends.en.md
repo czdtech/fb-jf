@@ -17,10 +17,12 @@ releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Emoji With Friends blends quick matching and light deduction using expressive emoji tiles. Depending on mode, you’ll connect sets, complete mini‑goals, or race an opponent to solve boards first. Short rounds, readable visuals, and low barrier to entry make it a friendly party pick.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Scan patterns: Identify frequent emoji sets to build quick chains.
@@ -29,15 +31,21 @@ Emoji With Friends blends quick matching and light deduction using expressive em
 4.  Keep the board open: Avoid cluttering the center; leave space for future matches.
 5.  Time your boosts: Save power‑ups for tight races or to break board stalls.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Select/Match: Click/tap emoji to make valid connections per mode rules.
 - Power‑ups (if any): Activate via on‑screen buttons.
 - Online/local: Modes vary; many are quick local sessions.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- Is it competitive or solo? Modes vary; local head‑to‑head is common.
-- Are there complex rules? Generally simple—read each mode’s objective before starting.
-- How long is a round? Usually under a couple of minutes, suitable for quick sessions.
+- <!-- i18n:faq:id=faq:emoji-with-friends:is-it-competitive-or-solo-1322eefd -->
+  Is it competitive or solo? Modes vary; local head‑to‑head is common.
+- <!-- i18n:faq:id=faq:emoji-with-friends:are-there-complex-rules-a27f7f09 -->
+  Are there complex rules? Generally simple—read each mode’s objective before starting.
+- <!-- i18n:faq:id=faq:emoji-with-friends:how-long-is-a-round-e41a29b3 -->
+  How long is a round? Usually under a couple of minutes, suitable for quick sessions.
+
 

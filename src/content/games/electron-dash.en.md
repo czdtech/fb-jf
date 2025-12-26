@@ -14,14 +14,17 @@ releaseDate: 2025-09-09
 
 
 
+<!-- i18n:section:introduction -->
 ### Overview
 Fast tunnel runner: sprint along cylinders and platforms, leap gaps, and dash across floating tiles while the pace steadily increases.
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 - Read tile patterns ahead; jump between lanes and dash across short voids.
 - Blue tiles may collapse; moving rings require precise timing.
 - Push for distance and gems where present.
 
+<!-- i18n:section:controls -->
 ### Controls
 - Arrows/WASD to move/jump; Space/X to dash (host dependent).
 
@@ -30,11 +33,16 @@ Fast tunnel runner: sprint along cylinders and platforms, leap gaps, and dash ac
 - Chain dash→jump to cross long gaps; don’t spam dash on unstable tiles.
 - Treat curves like lanes—switch early, not on the lip.
 
+<!-- i18n:section:faq -->
 ### FAQ
-- Q: Random or fixed levels?  
+- <!-- i18n:faq:id=faq:electron-dash:random-or-fixed-levels-bbc83643 -->
+  Q: Random or fixed levels?
   A: Many hosts use procedural sections, so runs differ.
-- Q: What counts as failure?  
+- <!-- i18n:faq:id=faq:electron-dash:what-counts-as-failure-4929d013 -->
+  Q: What counts as failure?
   A: Falling, hitting lasers, or being pushed off by rings.
-- Q: Any upgrades?  
+- <!-- i18n:faq:id=faq:electron-dash:any-upgrades-2e662d37 -->
+  Q: Any upgrades?
   A: Some hosts add gem unlocks or cosmetics; core loop is distance.
+
 

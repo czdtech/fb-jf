@@ -14,14 +14,17 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Overview
 Third entry focuses on faster flow, expanded exploration, and challenge rooms rewarding clean movement.
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 - Chain slides→jumps→wall‑runs to maintain speed.
 - Collect items to unlock optional rooms and cosmetics.
 - Read enemy timing; stomp or evade to keep momentum.
 
+<!-- i18n:section:controls -->
 ### Controls
 - Arrows/WASD to move/jump; Down to slide; Up to enter.
 
@@ -30,11 +33,16 @@ Third entry focuses on faster flow, expanded exploration, and challenge rooms re
 - Use slopes to convert vertical drops into forward velocity.
 - Learn level loops to route collectibles efficiently.
 
+<!-- i18n:section:faq -->
 ### FAQ
-- Q: Big differences from 1/2?  
+- <!-- i18n:faq:id=faq:fancy-pants-3:big-differences-from-12-1b17e3de -->
+  Q: Big differences from 1/2?
   A: Larger maps, more secrets, and tighter movement feel.
-- Q: Is combat necessary?  
+- <!-- i18n:faq:id=faq:fancy-pants-3:is-combat-necessary-0e61781d -->
+  Q: Is combat necessary?
   A: Minimal; platforming mastery is the focus.
-- Q: Are there hidden rooms?  
+- <!-- i18n:faq:id=faq:fancy-pants-3:are-there-hidden-rooms-702a71e0 -->
+  Q: Are there hidden rooms?
   A: Yes—watch for breakable walls and side paths.
+
 

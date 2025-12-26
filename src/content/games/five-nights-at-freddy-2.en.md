@@ -14,14 +14,17 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Overview
 Sequel shifts the loop: no power doors, but you manage a Freddy mask and a music box for the Puppet while watching hallways and vents.
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 - Keep the music box wound via the camera; failure releases the Puppet.
 - Use the Freddy mask when certain animatronics enter the office.
 - Flashlight checks the hallway and stuns Foxy briefly.
 
+<!-- i18n:section:controls -->
 ### Controls
 - Mouse/UI for cameras and mask; Ctrl/Space for flashlight (host dependent).
 
@@ -30,11 +33,16 @@ Sequel shifts the loop: no power doors, but you manage a Freddy mask and a music
 - Don’t over‑flash; conserve battery for hallway checks.
 - Recognize which characters require the mask versus lights.
 
+<!-- i18n:section:faq -->
 ### FAQ
-- Q: Why am I losing to the Puppet?  
+- <!-- i18n:faq:id=faq:five-nights-at-freddy-2:why-am-i-losing-to-c0f11b56 -->
+  Q: Why am I losing to the Puppet?
   A: Camera time too long elsewhere; prioritize winding the box.
-- Q: When do I use the mask?  
+- <!-- i18n:faq:id=faq:five-nights-at-freddy-2:when-do-i-use-the-cad7c233 -->
+  Q: When do I use the mask?
   A: Immediately when an animatronic is in the office (not in vents/hall).
-- Q: Is there door control?  
+- <!-- i18n:faq:id=faq:five-nights-at-freddy-2:is-there-door-control-a012fcd2 -->
+  Q: Is there door control?
   A: No—FNAF 2 relies on mask, vents, and flashlight management.
+
 

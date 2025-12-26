@@ -14,14 +14,17 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Overview
 Hand‑drawn platforming focused on momentum and flow: build speed on slopes, wall‑jump, and discover secret areas and collectibles.
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 - Keep momentum by timing jumps at slope exits.
 - Use wall‑runs and slides to chain movement.
 - Explore side paths for trophies and hidden rooms.
 
+<!-- i18n:section:controls -->
 ### Controls
 - Arrows/WASD: move/jump; S/Down to slide; Up to open doors (host dependent).
 
@@ -30,11 +33,16 @@ Hand‑drawn platforming focused on momentum and flow: build speed on slopes, wa
 - Slides into jumps preserve speed better than flat starts.
 - Revisit earlier levels with better mastery to reach secrets.
 
+<!-- i18n:section:faq -->
 ### FAQ
-- Q: Is there combat?  
+- <!-- i18n:faq:id=faq:fancy-pants:is-there-combat-82efacce -->
+  Q: Is there combat?
   A: Light—mainly stomps or simple swipes in some versions.
-- Q: Are there time trials?  
+- <!-- i18n:faq:id=faq:fancy-pants:are-there-time-trials-acf42297 -->
+  Q: Are there time trials?
   A: Many releases feature speed‑run or challenge rooms.
-- Q: Can I change pants colors?  
+- <!-- i18n:faq:id=faq:fancy-pants:can-i-change-pants-colors-a3a1c6f5 -->
+  Q: Can I change pants colors?
   A: Some versions unlock cosmetics.
+
 

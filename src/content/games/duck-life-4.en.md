@@ -18,14 +18,17 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Overview
 Train a racing duck across mini‑games (running, swimming, flying, climbing), then enter regional tournaments. Energy controls stamina; hats and evolutions change looks.
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 - Improve each stat via its training mini‑game; avoid obstacles to gain XP quickly.
 - Feed seeds to raise energy; low energy reduces race endurance.
 - Win qualifying heats to unlock new areas and tournaments.
 
+<!-- i18n:section:controls -->
 ### Controls
 - Arrows/Mouse depending on mini‑game; Space to jump in runners (host dependent).
 
@@ -34,11 +37,16 @@ Train a racing duck across mini‑games (running, swimming, flying, climbing), t
 - Keep energy topped off before tournaments.
 - Re‑run earlier tracks to grind safe XP if stuck.
 
+<!-- i18n:section:faq -->
 ### FAQ
-- Q: Do cosmetics affect speed?  
+- <!-- i18n:faq:id=faq:duck-life-4:do-cosmetics-affect-speed-87c8db5c -->
+  Q: Do cosmetics affect speed?
   A: Hats are cosmetic; progression comes from stats and energy.
-- Q: Can I respec?  
+- <!-- i18n:faq:id=faq:duck-life-4:can-i-respec-25269397 -->
+  Q: Can I respec?
   A: No—just keep training the needed stat.
-- Q: Why am I losing photo‑finish races?  
+- <!-- i18n:faq:id=faq:duck-life-4:why-am-i-losing-photofinish-6772e3f1 -->
+  Q: Why am I losing photo‑finish races?
   A: Usually low energy or one stat (e.g., climbing) is behind.
+
 

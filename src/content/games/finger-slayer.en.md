@@ -12,10 +12,12 @@ releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Finger Slayer is a single‑button reflex test: place your “finger” within a danger zone and yank it away right before a trap snaps shut. Rounds escalate with faster closures, fake telegraphs, and rhythm changes that punish anticipation. The goal is to commit to a single crisp pull at the last safe frame without flinching early (which scores lower) or waiting too long.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Read the tell: Most traps give a micro‑windup (sound/visual); key off that signal, not a mental count.
@@ -24,21 +26,27 @@ Finger Slayer is a single‑button reflex test: place your “finger” within a
 4.  Rhythm adaptation: After a few rounds, patterns shift; reset mentally between attempts.
 5.  Safe thresholds: Learn your personal reaction boundary and aim a hair earlier.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Hold to “place” and release to pull back; some builds use tap vs hold.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- Q: I always move too early — how do I stop?
+- <!-- i18n:faq:id=faq:finger-slayer:i-always-move-too-early-50520ef2 -->
+  Q: I always move too early — how do I stop?
   
   A: Focus on the trap’s pre‑animation or audio cue; suppress guessing and react to the real tell.
 
-- Q: Closures feel random — any tip?
+- <!-- i18n:faq:id=faq:finger-slayer:closures-feel-random-any-tip-b8f976ee -->
+  Q: Closures feel random — any tip?
   
   A: They’re pseudo‑random with patterned “tells.” Train a calm wait‑then‑snap reaction.
 
-- Q: Is there input lag?
+- <!-- i18n:faq:id=faq:finger-slayer:is-there-input-lag-f763cc99 -->
+  Q: Is there input lag?
   
   A: Minor delays exist on some devices; compensate by reacting on the cue’s first frame.
+
 

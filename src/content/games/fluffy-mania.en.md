@@ -12,10 +12,12 @@ releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Fluffy Mania is a colorful, relaxing connect‑puzzle. Link adjacent same‑color fluffies to clear them, set up chain reactions, and complete stage goals like score targets, limited moves, or special tile clears.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Make squares: If rules allow loops/squares, they usually clear all of that color—huge value.
@@ -24,14 +26,20 @@ Fluffy Mania is a colorful, relaxing connect‑puzzle. Link adjacent same‑colo
 4.  Think two moves ahead: Avoid isolating single tiles that clog progress.
 5.  Power‑ups: Trigger them when they open multiple goals at once.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 - Connect: Click/tap and drag through same‑color neighbors.
 - Undo/Retry (if available): Use with care on limited‑move stages.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-- Stuck with one move left—what now? Look for bottom‑side clears to open cascades.
-- Do loops matter? If enabled, loops are extremely strong—prioritize them.
-- Timed vs. moves? Tailor play: speed for timed, efficiency for limited‑move modes.
+- <!-- i18n:faq:id=faq:fluffy-mania:stuck-with-one-move-leftwhat-99502a85 -->
+  Stuck with one move left—what now? Look for bottom‑side clears to open cascades.
+- <!-- i18n:faq:id=faq:fluffy-mania:do-loops-matter-b566c568 -->
+  Do loops matter? If enabled, loops are extremely strong—prioritize them.
+- <!-- i18n:faq:id=faq:fluffy-mania:timed-vs-moves-23faa6a7 -->
+  Timed vs. moves? Tailor play: speed for timed, efficiency for limited‑move modes.
+
 

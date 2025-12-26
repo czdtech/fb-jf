@@ -18,14 +18,17 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Overview
 Two teams try to guess top answers from survey questions. Rounds award points based on answer popularity; Fast Money closes with rapid‑fire questions.
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 - Face‑off: first correct answer gains control; the team reveals remaining answers or passes play.
 - Three strikes pass control; the other team can steal with one correct answer.
 - Final “Fast Money” totals points from two players’ rapid answers.
 
+<!-- i18n:section:controls -->
 ### Controls
 - Keyboard entry for answers; Enter to submit; arrow/onscreen UI to navigate (host dependent).
 
@@ -34,11 +37,16 @@ Two teams try to guess top answers from survey questions. Rounds award points ba
 - Aim for synonyms if an obvious word is taken.
 - Short, common words often rank higher than niche terms.
 
+<!-- i18n:section:faq -->
 ### FAQ
-- Q: Do spelling variants count?  
+- <!-- i18n:faq:id=faq:family-feud:do-spelling-variants-count-f42ca59a -->
+  Q: Do spelling variants count?
   A: Hosts typically normalize common variants; try close synonyms.
-- Q: How many strikes?  
+- <!-- i18n:faq:id=faq:family-feud:how-many-strikes-c6a6fb36 -->
+  Q: How many strikes?
   A: Three per round before control passes.
-- Q: Is there single‑player?  
+- <!-- i18n:faq:id=faq:family-feud:is-there-singleplayer-7c220176 -->
+  Q: Is there single‑player?
   A: Most web versions support solo against survey results.
+
 

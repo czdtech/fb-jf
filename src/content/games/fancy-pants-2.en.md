@@ -14,14 +14,17 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Overview
 Build and preserve momentum through slopes and walls, collect trophies, and clear larger levels with optional challenge rooms.
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 - Use slides and wall‑jumps to chain movement across big gaps.
 - Explore for collectibles to open bonus doors.
 - Fight simple enemies with stomp or quick swipes (when available).
 
+<!-- i18n:section:controls -->
 ### Controls
 - WASD/Arrows to move/jump; Down to slide; Up to enter doors.
 
@@ -30,11 +33,16 @@ Build and preserve momentum through slopes and walls, collect trophies, and clea
 - Buffer jumps at edges for consistent long carries.
 - Use downhill slides before vertical climbs.
 
+<!-- i18n:section:faq -->
 ### FAQ
-- Q: Is there a story?  
+- <!-- i18n:faq:id=faq:fancy-pants-2:is-there-a-story-84006961 -->
+  Q: Is there a story?
   A: Light framing; focus is movement and level secrets.
-- Q: Are there speed runs?  
+- <!-- i18n:faq:id=faq:fancy-pants-2:are-there-speed-runs-4229c7b8 -->
+  Q: Are there speed runs?
   A: Time trials/challenges exist in many hosts.
-- Q: Progress saving?  
+- <!-- i18n:faq:id=faq:fancy-pants-2:progress-saving-eb5d3f79 -->
+  Q: Progress saving?
   A: Depends on host; some keep local progress.
+
 

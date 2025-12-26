@@ -14,14 +14,17 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Overview
 Set in a horror attraction years later, you face Springtrap while phantoms disrupt your systems. Manage cameras, audio lures, and ventilation.
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 - Use the audio lure to draw Springtrap away; avoid overusing it on cooldown.
 - Seal vents along his path to block shortcuts.
 - Reboot systems (video, audio, ventilation) when errors occur to restore control.
 
+<!-- i18n:section:controls -->
 ### Controls
 - Mouse/UI for cameras, audio, vent seals, and system reboots.
 
@@ -30,11 +33,16 @@ Set in a horror attraction years later, you face Springtrap while phantoms disru
 - Phantoms are distractions—avoid staring at them; recover and re‑establish control quickly.
 - Prioritize ventilation errors; long blackouts invite failures.
 
+<!-- i18n:section:faq -->
 ### FAQ
-- Q: Why does the audio stop working during a lure?  
+- <!-- i18n:faq:id=faq:five-nights-at-freddy-3:why-does-the-audio-stop-d632ed1d -->
+  Q: Why does the audio stop working during a lure?
   A: The audio system overheats or errors; reboot it from the maintenance panel.
-- Q: How do I prevent Springtrap from entering the office?  
+- <!-- i18n:faq:id=faq:five-nights-at-freddy-3:how-do-i-prevent-springtrap-b24f62ec -->
+  Q: How do I prevent Springtrap from entering the office?
   A: Chain lures and pre‑emptively seal vents on his likely routes.
-- Q: Which system should I reboot first when multiple fail?  
+- <!-- i18n:faq:id=faq:five-nights-at-freddy-3:which-system-should-i-reboot-ca9c5d65 -->
+  Q: Which system should I reboot first when multiple fail?
   A: Ventilation to stabilize view/effects, then video/audio as needed.
+
 

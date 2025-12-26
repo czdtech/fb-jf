@@ -14,14 +14,17 @@ releaseDate: 2025-08-16
 
 
 
+<!-- i18n:section:introduction -->
 ### Overview
 Balance a car carrying a fragile egg across hilly terrain. Sudden bumps crack the egg; smooth throttle wins.
 
+<!-- i18n:section:how-to-play -->
 ### How to Play
 - Keep speed low on downhill; accelerate gently uphill to avoid bouncing.
 - Grab fuel cans to extend runs; collect coins for vehicle upgrades (host dependent).
 - Long runs demand rhythmic throttle taps, not holds.
 
+<!-- i18n:section:controls -->
 ### Controls
 - A/D or Arrows to drive/brake; R: restart.
 
@@ -30,11 +33,16 @@ Balance a car carrying a fragile egg across hilly terrain. Sudden bumps crack th
 - If the egg wobbles, briefly brake to settle it.
 - Upgrades that improve suspension help the most early on.
 
+<!-- i18n:section:faq -->
 ### FAQ
-- Q: What ends a run?  
+- <!-- i18n:faq:id=faq:eggy-car:what-ends-a-run-ed280e19 -->
+  Q: What ends a run?
   A: Cracks (egg breaks) or running out of fuel.
-- Q: Is there a finish line?  
+- <!-- i18n:faq:id=faq:eggy-car:is-there-a-finish-line-46e35bd5 -->
+  Q: Is there a finish line?
   A: It’s a distance/high‑score chase in most hosts.
-- Q: Best early strategy?  
+- <!-- i18n:faq:id=faq:eggy-car:best-early-strategy-e4b1edd1 -->
+  Q: Best early strategy?
   A: Drive slow; protect the egg—speed comes with smoother lines.
+
 

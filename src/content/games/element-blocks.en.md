@@ -12,10 +12,12 @@ releaseDate: 2025-10-17
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
 Element Blocks is a calm yet strategic puzzle game that builds on the popular 10x10 block puzzle formula. Players place various Tetris-like shapes, themed as elemental blocks, onto a 10x10 grid. The goal is to fill and clear complete lines either horizontally or vertically. What sets this game apart is the addition of a star collection and power-up system, providing a strategic tool to get you out of difficult situations and extend your game.
 
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Standard 10x10 Rules:** You are given three block shapes at a time. You must place all three on the board before a new set appears. The blocks cannot be rotated.
@@ -24,19 +26,25 @@ Element Blocks is a calm yet strategic puzzle game that builds on the popular 10
 4.  **Think About Future Shapes:** Don't just place a block where it fits now. Look at the other two shapes you have and try to place the current one in a way that leaves room for the others. The game ends when you can't place any of the three given shapes.
 5.  **Maximize Combos:** Clearing multiple lines with a single block placement is called a combo and will grant you a significant score bonus. Always be on the lookout for combo opportunities.
 
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 *   **Place Blocks:** Use your mouse or finger to drag a block from the holding area at the bottom and drop it onto the main grid.
 *   **Use Power-ups:** Click on a power-up icon once you have enough stars, then click on the grid where you want to apply its effect.
 
+<!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
 
-*   **Q: How do I get stars?**
+* <!-- i18n:faq:id=faq:element-blocks:q-how-do-i-get-14eb2026 -->
+  **Q: How do I get stars?**
     *   **A:** You collect stars by clearing a line that contains one or more blocks with stars on them.
 
-*   **Q: Can I rotate the blocks?**
+* <!-- i18n:faq:id=faq:element-blocks:q-can-i-rotate-the-8b38e9ae -->
+  **Q: Can I rotate the blocks?**
     *   **A:** No, the inability to rotate the blocks is a core part of the challenge. You must plan your placements based on the shapes as they are given.
 
-*   **Q: What is the best way to use my stars?**
+* <!-- i18n:faq:id=faq:element-blocks:q-what-is-the-best-9bf06e71 -->
+  **Q: What is the best way to use my stars?**
     *   **A:** It's best to save your stars for emergency situations. When your board is getting dangerously full and you can't fit one of the upcoming pieces, using a power-up to clear a specific area can save your game and allow you to continue playing for a much higher score.
+
 
