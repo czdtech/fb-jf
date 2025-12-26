@@ -39,7 +39,6 @@ The game uses a simple and intuitive tap-and-swipe control system.
 
 -   **Tap Left Side of Screen:** Throw a jab with your left hand.
 -   **Tap Right Side of Screen:** Throw a cross/straight punch with your right hand.
--
 -   **Swipe Up:** Perform a powerful uppercut. This is effective for countering or breaking through an opponent's guard but is slower to execute.
 -   **Hold/Swipe Down:** Block. Hold your finger on the screen to raise your guard and block incoming punches. This is essential for defense.
 -   **"Big Shot" Button:** When your special meter is full, a button will appear on the screen. Tap it to unleash your "Big Shot" signature punch.
@@ -57,4 +56,3 @@ The game uses a simple and intuitive tap-and-swipe control system.
 
 **4. How does the "Big Shot" meter fill up?**
 > The meter fills as you successfully land punches and block incoming attacks. It fills faster with well-timed counters and powerful hits.
-
