@@ -1,18 +1,19 @@
 ---
 title: Slope 3
 description: Slope 3はエンドレスの3Dランナーです。ボールを転がして障害物を避け、できるだけ長く進みます。
-iframeSrc: 'https://slope3.h5games.usercontent.goog/v/5k9j2m8h7p3n8/'
+iframeSrc: 'https://games-online.io/game/Slope3/'
 thumbnail: /new-images/thumbnails/slope-3.jpg
 urlstr: slope-3
-score: 4.4/5  (3456 votes)
+score: 4.6/5  (1420 votes)
 tags:
   - action
   - casual
 developer: ''
-releaseDate: 2025-10-17T00:00:00.000Z
+releaseDate: 2025-08-16
 locale: ja
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Slope 3は、Slopeシリーズの最新作で、さらに挑戦的な障害物と改良されたグラフィックをもたらします。エンドレス3Dスロープを通してボールを転がし、レッドブロックを避け、できるだけ長く生き残ります。
@@ -31,6 +32,7 @@ Slope 3は、Slopeシリーズの最新作で、さらに挑戦的な障害物�
 - 障害物を避けます。
 - できるだけ長く生き残ります。
 
+<!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
 - **Q: Slope 2との違いは何ですか？**  
@@ -47,3 +49,4 @@ Slope 3は、Slopeシリーズの最新作で、さらに挑戦的な障害物�
 
 
 **A**: 多くのバージョンではハイスコアや実績が記録されますが、詳細はバージョンによって異なります。
+

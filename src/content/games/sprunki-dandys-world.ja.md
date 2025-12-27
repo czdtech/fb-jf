@@ -7,6 +7,7 @@ urlstr: "sprunki-dandys-world"
 score: "4.4/5  (304 votes)"
 tags: ["sprunki dandy"]
 locale: ja
+releaseDate: 2025-12-04
 ---
 
 ### Sprunki Dandy's Worldの紹介
@@ -27,6 +28,7 @@ Sprunki Dandy's Worldは直感的に遊べます：
  - **作品を共有：** 保存や共有ができるかどうかは、配信元やバージョンによって異なります。
  
  
+<!-- i18n:section:tips -->
 ### Sprunki Dandy's Worldをプレイするためのヒントとコツ：
 
  - **組み合わせを試す：** まずは少ない音で形にし、必要に応じて足していくと崩れにくいです。
@@ -38,3 +40,4 @@ Sprunki Dandy's Worldは直感的に遊べます：
 ### 結論：
 
 Sprunki Dandy's Worldは、音の組み合わせと演出で雰囲気を作る音楽作成ゲームです。まずはビートを置き、次にメロディや効果音を足して全体を整えていくと作りやすくなります。
+

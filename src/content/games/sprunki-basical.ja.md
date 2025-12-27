@@ -7,6 +7,7 @@ urlstr: "sprunki-basical"
 score: "4.4/5  (420 votes)"
 tags: ["sprunki basical", "sprunki basical online"]
 locale: ja
+releaseDate: 2025-12-04
 ---
 
 ### Sprunki Basicalの紹介
@@ -15,6 +16,7 @@ Sprunki Basicalは、基本に立ち返った音楽制作ゲームです。キ�
  
 ---
  
+<!-- i18n:section:how-to-play -->
 ### Sprunki Basicalのプレイ方法は？
 
 ゲームプレイは非常にシンプルで、いくつかのステップで完了できます：
@@ -42,3 +44,4 @@ Sprunki Basicalは、基本に立ち返った音楽制作ゲームです。キ�
  - **新しいSprunkiスタイル：** 一連の新しいSprunkiテーマのビート、メロディー、サウンドエフェクトをもたらし、新鮮な感覚を与えます。
  - **リアルタイムミキシング：** いつでも作品を調整して、音楽をより完璧にします。
  - **探索の楽しさ：** 隠されたアニメーションと特殊効果を発見し、創作プロセスをサプライズでいっぱいにします。
+

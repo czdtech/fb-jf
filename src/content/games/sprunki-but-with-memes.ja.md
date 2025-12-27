@@ -7,8 +7,10 @@ urlstr: "sprunki-but-with-memes"
 score: "4.2/5  (142 votes)"
 tags: ["sprunki but with memes"]
 locale: ja
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 Sprunki but with memesは、ミームの雰囲気を取り入れたサウンドやキャラクターで曲作りをする作品です。音の組み合わせで雰囲気が変わるので、いろいろ試しながら自分の好みを探せます。
  
 ### Sprunki but with memesとは何か？
@@ -40,3 +42,4 @@ Sprunki but with memesは、バージョンによって登場するキャラク�
  
  
 Sprunki but with memesは、ミーム風の音や演出を組み合わせて曲作りを楽しめる音楽ゲームです。まずはビートを置き、次に効果音やボーカルを足していくとまとまりやすくなります。
+

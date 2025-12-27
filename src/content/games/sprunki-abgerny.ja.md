@@ -7,6 +7,7 @@ urlstr: "sprunki-abgerny"
 score: "3.9/5  (132 votes)"
 tags: ["sprunki abgerny"]
 locale: ja
+releaseDate: 2025-12-04
 ---
 
 ### Sprunki Abgernyの特別なところは？
@@ -28,3 +29,4 @@ Sprunki Abgernyは、民族調のリズムやボーカル表現を思わせる�
  
  
 **経験者でも初心者でも、音を重ねて雰囲気を作る遊び方ができます。まずはビートから入れて、少しずつサウンドを追加しながら自分の好みに整えていきましょう。**
+

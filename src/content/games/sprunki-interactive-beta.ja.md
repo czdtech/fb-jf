@@ -7,6 +7,7 @@ urlstr: "sprunki-interactive-beta"
 score: "4.0/5  (407 votes)"
 tags: ["sprunki interactive beta"]
 locale: ja
+releaseDate: 2025-12-04
 ---
 
 ### Sprunki Interactive BETAとは何ですか？
@@ -19,6 +20,7 @@ Sprunki Interactive BETAは、従来のSprunkiにキャラクターの移動や�
  - **予測しにくい相互作用：** キャラクターが衝突・相互作用するとサウンドが変化し、即興的な展開になりやすいです。
  
  
+<!-- i18n:section:how-to-play -->
 ### ゲームのプレイ方法：
 
 Sprunki Interactive BETAでは、明るくカラフルな世界から始まります。登場するキャラクターは3体で、アンテナを持つ黄色い生き物Durple、翼を持つ紫のキャラクターBrud、猫耳を持つピンクの存在Orenです。各キャラクターにはタイマーがあり、Durpleはスピード、Brudは移動、Orenは行動に関わる設定になっています。プレイヤーはこれらのタイマーを調整し、キャラクターの動きやアクションのタイミングを管理します。
@@ -37,3 +39,4 @@ Sprunki Interactive BETAでは、明るくカラフルな世界から始まり�
  
  
 Sprunki Interactive BETAは、動きと相互作用の要素で展開が変わる作品です。タイマーを見ながら調整し、変化する演出とサウンドの流れを楽しみましょう。
+

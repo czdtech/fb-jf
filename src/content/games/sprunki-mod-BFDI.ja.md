@@ -7,6 +7,7 @@ urlstr: "sprunki-mod-BFDI"
 score: "4.2/5  (347 votes)"
 tags: ["sprunki mod bfdi"]
 locale: ja
+releaseDate: 2025-12-04
 ---
 
 ### Sprunki Mod BFDIとは何ですか？
@@ -52,3 +53,4 @@ Sprunki Mod BFDIは、BFDI風の見た目とSprunki系の音作りを組み合�
  
  
 Sprunki Mod BFDIは、音と演出の組み合わせを試行錯誤しながら作るのがコツです。まずはビートを置き、次にメロディや効果音を足して全体を整えましょう。
+

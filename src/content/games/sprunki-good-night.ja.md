@@ -7,6 +7,7 @@ urlstr: "sprunki-good-night"
 score: "4.2/5  (227 votes)"
 tags: ["sprunki good night"]
 locale: ja
+releaseDate: 2025-12-04
 ---
 
 ### Sprunki Good Nightで創作する方法は？
@@ -28,3 +29,4 @@ locale: ja
  
  
 Sprunki Good Nightは、落ち着いた雰囲気の音作りを楽しめるModです。まずはビートを控えめに置き、次にアンビエントや効果音を少しずつ足していくとまとまりやすくなります。
+

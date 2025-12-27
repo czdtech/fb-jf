@@ -7,6 +7,7 @@ urlstr: "sprunki-eggs-mix"
 score: "3.9/5  (125 votes)"
 tags: ["sprunki egg"]
 locale: ja
+releaseDate: 2025-12-04
 ---
 
 ### Sprunki Egg's Mixの特別なところは？
@@ -39,3 +40,4 @@ Sprunki Egg's Mixでは、Sprunki Eggsを戦略的に組み合わせて連鎖反
 ### 結論：
 
 Sprunki Egg's Mixは、エッグの特性を活かして連鎖を狙うパズルゲームです。ルールを理解していくほど効率よく消せるようになります。まずは簡単な連鎖から試して、安定してクリアできる手順を作っていきましょう。
+

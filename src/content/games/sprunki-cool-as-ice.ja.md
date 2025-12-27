@@ -7,6 +7,7 @@ urlstr: "sprunki-cool-as-ice"
 score: "4.2/5  (324 votes)"
 tags: ["sprunki cool as ice", "sprunki cool as ice online"]
 locale: ja
+releaseDate: 2025-12-04
 ---
 
 ### Sprunki Cool As Iceの紹介
@@ -21,6 +22,7 @@ Sprunki: Cool As Iceは見た目だけでなく、冬を意識したサウンド
  
 ---
  
+<!-- i18n:section:how-to-play -->
 ### Sprunki: Cool As Iceのプレイ方法は？
 
 実はとてもシンプルで、これらのポイントをマスターするだけです：
@@ -53,3 +55,4 @@ Sprunki: Cool As Iceは見た目だけでなく、冬を意識したサウンド
 ### 結論：
 
 Sprunki: Cool As Iceは、冬のテーマで音作りを楽しめるModです。ビート→メロディ→効果音の順に組み立て、全体のバランスを整えると作りやすくなります。
+

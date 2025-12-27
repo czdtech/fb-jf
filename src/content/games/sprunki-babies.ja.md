@@ -7,8 +7,10 @@ urlstr: "sprunki-babies"
 score: "4.0/5  (212 votes)"
 tags: ["sprunki babies"]
 locale: ja
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 Sprunki Babiesは、ベビーSprunkiキャラクターを使って音を重ね、曲を作っていく音楽サンドボックスです。キャラクターごとに音が違い、組み合わせ次第で雰囲気が変わります。難しい音楽理論がなくても、直感的に試せます。
  
 ### では、Sprunki Babiesの何が魅力なのか？
@@ -38,3 +40,4 @@ Sprunki Babiesは、Sprunkiキャラクターのベビーバージョンを使�
 ### まとめ：
 
 Sprunki Babiesは、かわいいキャラクターで音を重ねて曲作りを楽しめる作品です。まずはビートを置き、次にメロディや効果音を足していくとまとまりやすくなります。組み合わせを変えながら、自分の好みの雰囲気を探してみてください。
+

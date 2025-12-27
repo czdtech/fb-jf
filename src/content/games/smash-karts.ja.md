@@ -1,19 +1,20 @@
 ---
 title: Smash Karts
 description: Smash Kartsは対戦カートアクションです。レースしながらアイテムを使って戦い、順位やスコアを競います。
-iframeSrc: 'https://smashkarts.h5games.usercontent.goog/v/3k9j5m8h7p2n8/'
+iframeSrc: 'https://webgltest-17af1.firebaseapp.com/'
 thumbnail: /new-images/thumbnails/smash-karts.jpg
 urlstr: smash-karts
-score: 4.5/5  (4234 votes)
+score: 4.7/5  (277 votes)
 tags:
   - racing
   - action
   - 2 player
 developer: ''
-releaseDate: 2025-10-17T00:00:00.000Z
+releaseDate: 2025-08-16
 locale: ja
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Smash Kartsは、カートレースとアイテム戦を組み合わせたマルチプレイヤーゲームです。コースを走りながら武器を拾って相手を妨害し、順位やスコアを競います。
@@ -34,6 +35,7 @@ Smash Kartsは、カートレースとアイテム戦を組み合わせたマル
 
 
 - **ドリフト**: 曲がりながら速度を落としにくくするため、ドリフトの感覚をつかみます。
+<!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
 - **Q: マルチプレイヤーですか？**  
@@ -50,3 +52,4 @@ Smash Kartsは、カートレースとアイテム戦を組み合わせたマル
 
 
 **A**: 多くの場合、通常レース、バトル、チーム戦など複数のモードが用意されています。
+

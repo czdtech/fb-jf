@@ -7,8 +7,10 @@ urlstr: "sprunki-halloween"
 score: "4.2/5  (142 votes)"
 tags: ["sprunki halloween"]
 locale: ja
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 Sprunki Halloweenは、ハロウィンの雰囲気を取り入れたサウンドやキャラクターで曲作りを楽しめる作品です。不気味なビートや効果音を重ねて、季節テーマのトラックを作れます。
  
 ### Sprunki Halloweenとは何ですか？
@@ -22,6 +24,7 @@ Sprunki Halloweenは、ハロウィンの雰囲気の中で音楽の才能を解
  - **ダイナミックビジュアル：** あなたの音楽に反応するハロウィンテーマのアニメーション。
  
  
+<!-- i18n:section:how-to-play -->
 ### Sprunki Halloweenのプレイ方法は？
 
  - **キャラクターを組み合わせる：** 魔女、幽霊、吸血鬼などのハロウィンキャラクターを使用して、音楽作品を構築します。
@@ -39,3 +42,4 @@ Sprunki Halloweenは、ハロウィンの雰囲気の中で音楽の才能を解
  
  
 Sprunki Halloweenは、ハロウィンテーマの音作りを楽しめるModです。まずはビートを置き、次に効果音やメロディを足して全体を整えると作りやすくなります。
+

@@ -7,10 +7,13 @@ urlstr: "sprunki-christmas"
 score: "4.6/5  (486 votes)"
 tags: ["sprunki christmas"]
 locale: ja
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 Sprunki Christmasは、クリスマスの雰囲気を取り入れたSprunki系の音楽作成Modです。キャラクターにサウンドを割り当てて音を重ね、ホリデー風のビートやメロディを作っていきます。見た目やサウンドが季節テーマになっているのが特徴です。
  
+<!-- i18n:section:how-to-play -->
 ### Sprunki Christmasのプレイ方法は？
 
  - **目標：** クリスマステーマのサウンドを組み合わせて曲を作り、隠し演出がある場合は解放します。
@@ -34,3 +37,4 @@ Sprunki Christmasは、クリスマスの雰囲気を取り入れたSprunki系�
  
  
 Sprunki Christmasは、クリスマステーマの見た目とサウンドで音作りを楽しめるModです。まずはビートを置き、次にメロディや効果音を足しながら、全体のバランスを整えていきましょう。
+

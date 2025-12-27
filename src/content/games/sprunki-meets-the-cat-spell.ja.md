@@ -7,12 +7,14 @@ urlstr: "sprunki-meets-the-cat-spell"
 score: "4.8/5  (649 votes)"
 tags: ["sprunki meets the cat spell", "sprunki meets the cat spell online"]
 locale: ja
+releaseDate: 2025-12-04
 ---
 
 ### Sprunki Meets The Cat Spellの紹介
  
 このModは、「Sprunki Cats Game」というタイトルの既存のModのリワーク版です。
  
+<!-- i18n:section:how-to-play -->
 ### Sprunki Meets The Cat Spellのプレイ方法は？
 
 Sprunki Cats Modは、Incredibox Sprunki系の遊び方に「猫テーマ」を加えたModです。キャラクターが猫耳などのデザインになっており、サウンド、ボーカル、エフェクト、ビートを組み合わせて曲を作れます。カスタマイズできるアバター枠が用意されている場合は、好みのキャラクターに入れ替えて構成を調整します。
@@ -25,3 +27,4 @@ Sprunki Cats Modは、Incredibox Sprunki系の遊び方に「猫テーマ」を�
  - **実験して調整：** アイコンをキャラクターからドラッグしたり、新しいものと置き換えたりして、サウンドを削除または交換します。レイヤーがどのように相互作用するかを聞いて、調整してまとまりのあるミックスを作成します。
  - **ボーナスをアンロック（オプション）：** 特定のサウンドの組み合わせは、特別なアニメーションやボーナストラックをトリガーする可能性があります—これらの隠された機能を発見するために実験しましょう。
  - **保存して共有：** ミックスに満足したら、ゲームの保存または共有機能を使用して作成を録音したり、他の人と共有したりします。
+

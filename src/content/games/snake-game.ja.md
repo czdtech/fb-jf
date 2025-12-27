@@ -1,19 +1,20 @@
 ---
 title: Snake Game
 description: Snake Gameはクラシックなヘビゲームです。食べ物を食べて成長し、壁や自分の体に当たらないように進みます。
-iframeSrc: 'https://snakegame.h5games.usercontent.goog/v/2j9k5m8h7p3n8/'
+iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/snake/'
 thumbnail: /new-images/thumbnails/snake-game.jpg
 urlstr: snake-game
-score: 4.4/5  (3456 votes)
+score: 4.7/5  (1143 votes)
 tags:
   - action
   - casual
   - arcade
 developer: ''
-releaseDate: 2025-10-17T00:00:00.000Z
+releaseDate: 2025-08-16
 locale: ja
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Snake Gameは、ヘビを操作して食べ物を食べ、体を伸ばしていくクラシックなアーケードゲームです。壁や自分の体に当たらないように進み、できるだけ長く続けます。
@@ -34,6 +35,7 @@ Snake Gameは、ヘビを操作して食べ物を食べ、体を伸ばしてい�
 
 
 - **右移動**: 右矢印キー、またはDキーで右へ進みます。
+<!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
 - **Q: 最大の長さは何ですか？**  
@@ -50,3 +52,4 @@ Snake Gameは、ヘビを操作して食べ物を食べ、体を伸ばしてい�
 
 
 **A**: クラシック版はモードが1つだけのことが多いですが、最近の版ではチャレンジやバリエーションが用意されている場合があります。
+

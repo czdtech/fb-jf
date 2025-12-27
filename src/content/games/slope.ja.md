@@ -1,18 +1,19 @@
 ---
 title: Slope
 description: Slopeはエンドレスの3Dランナーです。ボールを転がして障害物を避け、できるだけ長く生き残ります。
-iframeSrc: 'https://slope.h5games.usercontent.goog/v/3k9j5m8h7p2n8/'
+iframeSrc: 'https://webglmath.github.io/slope/'
 thumbnail: /new-images/thumbnails/slope.jpg
 urlstr: slope
-score: 4.5/5  (4234 votes)
+score: 4.0/5  (1197 votes)
 tags:
   - action
   - casual
 developer: ''
-releaseDate: 2025-10-17T00:00:00.000Z
+releaseDate: 2025-08-16
 locale: ja
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Slopeは、下り坂の3Dコースをボールで進むエンドレスランナーです。赤いブロックを避け、コースから落ちないようにしながら、加速するスピードに対応して進みます。操作はシンプルですが反応が問われます。
@@ -31,6 +32,7 @@ Slopeは、下り坂の3Dコースをボールで進むエンドレスランナ�
 - レッドブロックと落下を避けます。
 - できるだけ長く生き残ります。
 
+<!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
 - **Q: スピードを制御できますか？**  
@@ -47,3 +49,4 @@ Slopeは、下り坂の3Dコースをボールで進むエンドレスランナ�
 
 
 **A**: Slopeはエンドレス形式で、理論上はどこまでも続きます。どれだけ長く生き残れるかが挑戦になります。
+

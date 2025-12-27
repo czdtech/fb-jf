@@ -7,8 +7,10 @@ urlstr: "sprunki-minecraft"
 score: "4.0/5  (212 votes)"
 tags: ["sprunki minecraft"]
 locale: ja
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 Sprunki Minecraftは、Minecraft風の見た目で遊べるSprunki系の作品です。ブロック調の世界観と音作りの要素を組み合わせて楽しめるようになっています（仕様はバージョンによって異なります）。
  
 ### Sprunki Minecraftとは一体何ですか？
@@ -43,3 +45,4 @@ Sprunki Minecraftは、ブロック調の見た目とサウンド要素を組み
 Sprunki Minecraftは、ブロック調の世界観に音の要素を組み合わせた作品です。見た目とサウンドの雰囲気を合わせながら、自分のペースで試行錯誤していきます。
  
 気になる要素を少しずつ試し、好みの雰囲気になるよう調整していくのがコツです。
+

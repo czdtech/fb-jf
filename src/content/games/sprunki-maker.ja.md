@@ -7,6 +7,7 @@ urlstr: "sprunki-maker"
 score: "4.8/5  (700 votes)"
 tags: ["sprunki maker (big update)", "sprunki maker (big update) online"]
 locale: ja
+releaseDate: 2025-12-04
 ---
 
 ### Sprunki Maker（大型アップデート）の紹介
@@ -29,3 +30,4 @@ Sprunki Makerは、Sprunkiキャラクターの見た目をカスタマイズで
 ### 一言でまとめると：
 
 Sprunki Makerは、見た目を調整して自分のキャラクターを作れるツールです。まずは大まかな雰囲気を決め、次に細部を詰めていくと作りやすくなります。
+

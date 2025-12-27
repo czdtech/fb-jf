@@ -7,8 +7,10 @@ urlstr: "sprunki-like-minecraft"
 score: "4.6/5  (601 votes)"
 tags: ["sprunki like minecraft"]
 locale: ja
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 Sprunki Like Minecraft Modは、Minecraftのブロック要素でSprunkiキャラクターを再解釈した音楽作成Modです。Sprunki系の基本的な遊び方はそのままに、見た目をMinecraft風にしたのが特徴です。
  
 ### Sprunki Like Minecraft Modとは何ですか？
@@ -27,3 +29,4 @@ Sprunki Like Minecraft Modは、Incredibox SprunkiとMinecraftの象徴的なブ
 このIncredibox Sprunki Like Minecraft Modでは、キャラクターをドラッグ＆ドロップして音を重ね、Minecraft風の雰囲気でトラックを作れます。
  
 組み合わせを変えて、ビートやメロディのまとまりを調整していくのがコツです。いくつかパターンを作り、聞き比べながら整えてみてください。
+
