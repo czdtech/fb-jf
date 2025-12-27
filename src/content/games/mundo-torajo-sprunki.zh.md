@@ -6,10 +6,12 @@ title: "Mundo Torajo Sprunki - 在线玩 Mundo Torajo Sprunki"
 description: "这款独特的 Mod 巧妙地将 Mundo Torajo 的奇幻宇宙与 Sprunki 平台的节奏创意乐趣相融合，让你在游戏中释放无限创意。"
 iframeSrc: "https://turbowarp.org/1096623350/embed"
 thumbnail: /new-images/thumbnails/mundo-torajo-sprunki.png
-score: "4.0/5  (112 票)"
+score: "4.0/5  (112 votes)"
 tags: ["mundo torajo sprunki"]
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 准备好跳入一个充满活力、色彩缤纷的音乐世界了吗？Mundo Torajo Sprunki 将带你踏上一场前所未有的视听盛宴！这款独特的 Mod 巧妙地将 Mundo Torajo 的奇幻宇宙与 Sprunki 平台的节奏创意乐趣相融合，让你在游戏中释放无限创意。
 
 ### Mundo Torajo Sprunki 到底是什么？
@@ -35,3 +37,4 @@ tags: ["mundo torajo sprunki"]
 ### 总结
 
 Mundo Torajo Sprunki 提供了一种快乐、沉浸式的音乐体验，Sprunki 和 Mundo Torajo 的粉丝都会喜欢。即使你是节奏游戏的新手，它充满活力的美学和创作自由也使它成为必玩之作。Mundo Torajo Sprunki 在挑战和创意之间取得了完美的平衡，在你构建自己的音乐时给你带来无尽的乐趣和满足感。今天就来跳入 Mundo Torajo Sprunki 的世界，让你的想象力在音乐和色彩中尽情驰骋吧！
+

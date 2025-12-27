@@ -10,10 +10,13 @@ tags:
   - sprunki mountayonnaise
   - sprunki mountayonnaise online
 score: 4.8/5  (649 votes)
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 《Sprunki Mountayonnaise》是一款非常有趣的 Sprunki 系列模组音乐游戏。根据你为角色分配的音效不同，屏幕上会出现各式各样的动物形象与演出效果，每次混音都像在解锁一组全新的小动画，因此拥有极高的重复游玩价值。在这里，你将和一群风格独特的动画角色一起创作属于自己的音乐作品。
 
+<!-- i18n:section:how-to-play -->
 ### Sprunki Mountayonnaise 怎么玩？
 
 本作玩法非常直观，只需要几个步骤：
