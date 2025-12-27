@@ -1,20 +1,22 @@
 ---
 title: "4 Pics 1 Word 4写真1単語"
 description: "世界中で大人気のパズルゲーム「4 Pics 1 Word」。4枚の写真に共通する1つの言葉を当てましょう。シンプルだけど奥が深い連想ゲームです！"
-iframeSrc: "https://www.playfiddlebops.com/embed/4-pics-1-word/index.html"
+iframeSrc: "https://previews.customer.envatousercontent.com/files/309288896/index.html"
 thumbnail: /new-images/thumbnails/4-pics-1-word.jpg
 urlstr: "4-pics-1-word"
-score: "4.5/5  (2300 votes)"
+score: "4.5/5  (144 votes)"
 tags: ["puzzle", "word"]
 developer: "So Far So Good"
 releaseDate: 2025-08-16
 locale: ja
 ---
 
+<!-- i18n:section:introduction -->
 *4 Pics 1 Word（4写真1単語、ドイツ語原題：4 Bilder 1 Wort）*は、LOTUM GmbHが開発した大人気で非常にわかりやすい言葉パズルゲームです。画面に表示される4枚の異なる写真に共通する「たった1つの単語」を当てるのがルールです。あなたの水平思考（ラテラルシンキング）、語彙力、そして視覚的なヒントを結びつける能力が試されます。そのシンプルな前提と夢中になれるパズルで、モバイルデバイスで長年愛され続けています。
 
 ---
 
+<!-- i18n:section:how-to-play -->
 ### 4 Pics 1 Word の遊び方
 
 操作はとてもシンプルで直感的なので、年齢を問わず楽しめます。
@@ -57,16 +59,22 @@ locale: ja
 
 ---
 
+<!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
+<!-- i18n:faq:id=faq:4-pics-1-word:is-4-pics-1-word-adb8e06b -->
 **Q: *4 Pics 1 Word* は無料で遊べますか？**
 **A:** はい、ダウンロードとプレイは無料です。アプリ内課金（ヒント用コインの購入）や広告によって運営されています。
 
+<!-- i18n:faq:id=faq:4-pics-1-word:what-happens-if-i-run-226da951 -->
 **Q: コインがなくなって詰んでしまったらどうすればいいですか？**
 **A:** 無料でできる最善の策は、「友達に聞く」機能を使ってパズルをシェアすることです。また、パズルを解くとコインがもらえるので、前のレベルに戻って稼いだり（可能なバージョンの場合）、デイリーボーナスを待ったりすることもできます。
 
+<!-- i18n:faq:id=faq:4-pics-1-word:do-the-four-pictures-always-ed5f9c40 -->
 **Q: 4枚の写真は常に関連性が同じですか？**
 **A:** いいえ、そこがこのゲームの難所です。4枚とも同じ物体（例：4種類のボール）の時もあれば、共通の概念（例：「寒い」に関連するもの：氷、震える人、温度計、雪景色）の時もあります。
 
+<!-- i18n:faq:id=faq:4-pics-1-word:is-the-game-available-in-27fc2a0d -->
 **Q: ゲームは日本語に対応していますか？**
 **A:** *4 Pics 1 Word* は多くの言語で展開されています。パズルの内容と答えは、それぞれの言語や文化に合わせてローカライズ（調整）されています。
+

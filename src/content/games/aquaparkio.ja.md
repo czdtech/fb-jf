@@ -1,16 +1,17 @@
 ---
 title: "Aquapark.io アクアパーク.io"
 description: "「Aquapark.io」は、巨大なウォータースライダーを舞台にしたハイパーカジュアル・レースゲーム。スライダーを飛び出し、ショートカットを決めて1位を目指せ！"
-iframeSrc: "https://www.playfiddlebops.com/embed/aquaparkio/index.html"
+iframeSrc: "https://bitlifeonline.github.io/class23523/aquaparkio/"
 thumbnail: /new-images/thumbnails/aquaparkio.jpg
 urlstr: "aquaparkio"
-score: "4.8/5  (7841 votes)"
+score: "4.9/5  (169 votes)"
 tags: ["casual", "racing", "multiplayer"]
 developer: "Voodoo"
 releaseDate: 2025-08-16
 locale: ja
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 *Aquapark.io（アクアパーク.io）*は、Voodooが開発した興奮度満点のスライディング・レースゲームです。「ハイパーカジュアルゲーム」のジャンルで大ヒットし、シンプルかつ中毒性のあるゲームプレイで知られています。プレイヤーは巨大で曲がりくねったウォータースライダーの一番上からスタートし、ゴールにあるプールに最初に飛び込むことを目指してレースを繰り広げます。
@@ -38,6 +39,7 @@ locale: ja
 #### 4. レースの序盤
 スタート直後は大混雑します。最初の団子状態に巻き込まれないように少し後ろに下がるか、みんなが押し合いへし合いしている間に、早めのショートカットのチャンスを伺うのが安全策です。
 
+<!-- i18n:section:controls -->
 ### 操作ガイド
 
 このゲームは極めてシンプルな操作で有名です。
@@ -45,16 +47,22 @@ locale: ja
 *   **移動（モバイル）：** 画面のどこでもいいので指を置き、左右にドラッグしてキャラクターを操作します。ボタンはありません。
 *   **移動（PC/ブラウザ）：** マウスの左ボタンを押し続け、左右にドラッグして操作します。
 
+<!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
+<!-- i18n:faq:id=faq:aquaparkio:q-are-the-other-players-67bf63b3 -->
 *   **Q: *Aquapark.io* の対戦相手は本当の人間ですか？**
     *   **A:** ほとんどの対戦相手はAI（ボット）です。これは「.io」系ゲームやハイパーカジュアルゲームでは一般的で、待ち時間をなくし、常に満員のレースを楽しめるようにするためです。稀に本物のプレイヤーと当たることもありますが、基本的にはレースをシミュレートしたボットです。
 
+<!-- i18n:faq:id=faq:aquaparkio:q-how-do-i-jump-8f1f10bf -->
 *   **Q: どうすればもっと高く、遠くへ飛べますか？**
     *   **A:** 飛距離と高さは、スライダーから飛び出す時の「スピード」と「角度」で決まります。加速パネルを利用し、急なカーブの手前で勢いよく飛び出しましょう。
 
+<!-- i18n:faq:id=faq:aquaparkio:q-what-are-the-coins-3599315e -->
 *   **Q: コインは何に使えますか？**
     *   **A:** レース終了後にもらえるコインは、ショップで新しいキャラクタースキンや浮き輪などの見た目アイテム（コスメティック）を購入するのに使えます。これらはゲームプレイの能力には影響しません。
 
+<!-- i18n:faq:id=faq:aquaparkio:q-i-landed-in-the-f1083c12 -->
 *   **Q: 水に落ちたらゲームオーバーですか？**
     *   **A:** いいえ。コースを外れて水に落ちても、落ちた場所の近くのコース上に自動的に復活します。ただし、数秒のタイムロスが発生します。
+

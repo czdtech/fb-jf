@@ -1,16 +1,17 @@
 ---
 title: "Bejeweled ビジュエルド"
 description: "「Bejeweled」を極めよう！宝石を3つ揃えて消す、元祖マッチ3パズルゲームの完全ガイド。ハイスコアを取るための戦略、各モードの特徴、ヒントを網羅。"
-iframeSrc: "https://bejeweled.h5games.usercontent.goog/v/9b83b167-93e1-482a-874f-c4e9702209d8/"
+iframeSrc: "https://files.acticdn.com/278374/30464/index.html"
 thumbnail: /new-images/thumbnails/bejeweled.png
 urlstr: "bejeweled"
-score: "4.6/5  (5120 votes)"
+score: "4.8/5  (654 votes)"
 tags: ["puzzle", "match-3", "classic"]
 developer: "PopCap Games"
-releaseDate: 2025-08-16
+releaseDate: 2025-12-04
 locale: ja
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 *Bejeweled（ビジュエルド）*は、PopCap Gamesが開発した、世界で最も有名で中毒性の高い「マッチ3パズル」ゲームです。何百万人ものプレイヤーを魅了してきました。
@@ -19,6 +20,7 @@ locale: ja
 
 ゲームには通常、いくつかのモードがあります。リラックスして永遠にプレイできる「ゼン（Zen）モード」や、制限時間内にハイスコアを目指すスリル満点のモードなど、プレイヤーの気分に合わせて楽しめます。
 
+<!-- i18n:section:how-to-play -->
 ### Bejeweled の遊び方
 
 -  **基本操作：** 隣り合う 2 つの宝石を入れ替え、入れ替え後に3マッチ（縦横 3 個以上のライン）が完成する場合のみ入れ替えが成立します。
@@ -47,6 +49,7 @@ locale: ja
 -  **PC / ブラウザ:** マウスで入れ替えたい宝石をクリックまたはドラッグして隣の宝石と交換します。
 -  **モバイル / タッチ:** 宝石をタップしてスワイプ、あるいはタップ→タップで入れ替えます。
 
+<!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
 **Q: 手詰まり（手がなくなる状態）になると？**
@@ -64,3 +67,4 @@ locale: ja
 **Q: どうしてそんなに人気？**
 
 **A:** シンプルな操作とキラキラ演出、そして「もう1回」と思わせる絶妙なゲームバランスが世界中で支持されています。
+

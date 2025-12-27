@@ -4,13 +4,14 @@ description: "「Bank Robbery」で究極の強盗劇、または正義の執行
 iframeSrc: "https://app-183971.games.s3.yandex.net/183971/l0eme2yqkthl0y8stmfuz0u8pdpux64m/index.html"
 thumbnail: /new-images/thumbnails/bank-robbery.jpg
 urlstr: "bank-robbery"
-score: "4.6/5  (2300 votes)"
+score: "4.2/5  (1331 votes)"
 tags: ["action", "fps", "multiplayer"]
 developer: ""
 releaseDate: 2025-08-16
 locale: ja
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 *Bank Robbery（銀行強盗）*は、プレイヤーが2つの対立する側、「強盗（Robbers）」と「警察（Cops）」のどちらかを選んで戦う、スリル満点のマルチプレイヤーFPS（一人称視点シューティング）ゲームです。
@@ -43,7 +44,10 @@ locale: ja
 4.  **最優先事項＝ドリルの停止：** ドリルが動いているなら、それを止めることが最優先です。ドリルを解除している味方は完全に無防備になるので、必ず他のメンバーが援護射撃を行ってください。
 5.  **逃走を阻止する：** もし強盗にお金を取られた場合、目標は「阻止」から「追跡」に変わります。パトカーを使って追跡するか、逃走ポイントに先回りして検問（ロードブロック）を敷きましょう。
 
+<!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `W` `A` `S` `D` `Left Mouse Button` `Right Mouse Button` `R` `Left-Shift` `Spacebar` `E` `F` `1` `2` `3` `C`
 
 PC（Roblox等のプラットフォーム）における標準的なFPS操作です。
 
@@ -58,24 +62,31 @@ PC（Roblox等のプラットフォーム）における標準的なFPS操作で
 *   **数字キー（1, 2, 3...）：** 武器やアイテムの切り替え
 *   **C キー：** しゃがむ（対応している場合）
 
+<!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
+<!-- i18n:faq:id=faq:bank-robbery:how-do-i-get-better-882d3244 -->
 **1. どうすれば強い武器を手に入れられますか？**
 
 強盗成功や逮捕の成功報酬でゲーム内マネーを稼ぎ、ラウンド間のショップでより高性能な銃・アーマー・爆薬を購入します。
 
+<!-- i18n:faq:id=faq:bank-robbery:as-a-robber-the-drill-14c81697 -->
 **2. 強盗側でドリルがすぐ解除されてしまいます。どうすれば？**
 
 ドリルを無防備に放置しないことが最優先です。最低2人は護衛につき、遮蔽物を使いながら投擲物や重火器を温存して「保護フェーズ」に集中しましょう。
 
+<!-- i18n:faq:id=faq:bank-robbery:as-a-cop-we-are-9863dae1 -->
 **3. 警官側が常に押し負けます。守り方のコツは？**
 
 一箇所に固まらず、銀行全体に防衛ラインを張って早期発見を心掛けます。奪還時は複数経路から同時突入し、ドリル解除役を守りながら交互に射線を作ると安定します。
 
+<!-- i18n:faq:id=faq:bank-robbery:what-is-the-best-way-05d6ac20 -->
 **4. 強盗はどこから入るのがベストですか？**
 
 唯一の正解はありません。防衛の手薄な側面・屋上・地下トンネルなどをC4で開ける奇襲が成功率は高めなので、開幕で偵察して柔軟に切り替えましょう。
 
+<!-- i18n:faq:id=faq:bank-robbery:can-i-switch-teams-during-61152304 -->
 **5. 試合の途中でチーム変更はできますか？**
 
 ほとんどのサーバーではラウンド前に陣営が固定され、試合中は変更できません。次のゲーム開始時に改めてチームが割り当てられます。
+

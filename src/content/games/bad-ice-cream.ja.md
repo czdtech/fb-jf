@@ -1,16 +1,17 @@
 ---
 title: "Bad Ice-Cream バッド・アイスクリーム"
 description: "「Bad Ice-Cream」で氷の迷宮を制覇しよう！氷の壁を作り、壊し、敵を閉じ込めながらフルーツを全部集める、人気のピクセルアート・アクションパズル。"
-iframeSrc: "https://badicecream.h5games.usercontent.goog/v/9b83b167-93e1-482a-874f-c4e9702209d8/"
+iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210128/x4/index.html"
 thumbnail: /new-images/thumbnails/bad-ice-cream.jpg
 urlstr: "bad-ice-cream"
-score: "4.5/5  (8245 votes)"
+score: "4.9/5  (1015 votes)"
 tags: ["puzzle", "action"]
 developer: "Nitrome"
 releaseDate: 2025-08-16
 locale: ja
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 *Bad Ice-Cream（バッド・アイスクリーム）*は、Nitromeが開発したレトロスタイルの名作2Dアーケードパズルゲームです。プレイヤーは意志を持った「アイスクリーム」のキャラクターを操作し、氷で覆われた迷路状のレベルを駆け巡ります。目的は、各ステージに散らばるすべてのフルーツを集めることです。
@@ -44,7 +45,10 @@ locale: ja
 *   **囮（デコイ）作戦：** 一人のプレイヤーが敵の注意を引きつけて逃げ回り、その間にもう一人が安全にフルーツを集めるという高度な戦術も有効です。
 *   **味方に注意：** 最も多いミスは、味方を氷の壁で閉じ込めてしまうことです！パートナーの位置には常に気を配りましょう。
 
+<!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `↑` `↓` `←` `→` `Spacebar` `W` `A` `S` `D` `F`
 
 2人で1つのキーボードを使って簡単に遊べるように設計されています。
 
@@ -56,16 +60,22 @@ locale: ja
     *   **移動：** W, A, S, D キー
     *   **アクション（氷を作る/壊す）：** F キー
 
+<!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
+<!-- i18n:faq:id=faq:bad-ice-cream:q-can-i-kill-the-a2865b98 -->
 *   **Q: 敵を倒すことはできますか？**
     *   **A:** いいえ。このゲームに攻撃手段はなく、敵を完全に倒すことはできません。できるのは「避ける」か、氷で「閉じ込める」ことだけです。
 
+<!-- i18n:faq:id=faq:bad-ice-cream:q-what-is-the-goal-7ed4507e -->
 *   **Q: 各レベルのクリア条件は何ですか？**
     *   **A:** 制限時間内に、画面に表示されているフルーツを100%すべて集めることです。
 
+<!-- i18n:faq:id=faq:bad-ice-cream:q-do-the-different-types-e6a9a3a2 -->
 *   **Q: フルーツの種類に違いはありますか？**
     *   **A:** いいえ。バナナ、チェリーなど色々なフルーツが出ますが、効果は同じです。見た目が違うだけで、とにかく全部集める必要があります。
 
+<!-- i18n:faq:id=faq:bad-ice-cream:q-how-does-the-2player-8a760ff7 -->
 *   **Q: 2人プレイモードの仕組みは？**
     *   **A:** 同じ画面内で同時に協力してフルーツを集めます。ライフ（ライフ）はチームで共有しているため、どちらか一方が敵に捕まると、チーム全体のライフが一つ減ります。
+

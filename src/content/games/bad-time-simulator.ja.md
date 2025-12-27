@@ -1,16 +1,17 @@
 ---
 title: "Bad Time Simulator (Sans Fight) サンズ戦シミュレーター"
 description: "「Bad Time Simulator」で、Undertale最難関のサンズ戦をブラウザで体験。すべての攻撃パターンや回避方法を練習して、悪夢のような弾幕を生き延びろ。"
-iframeSrc: "https://jcw87.github.io/c2-sans-fight/"
+iframeSrc: "https://gotoanddie.github.io/c2-sans-fight/"
 thumbnail: /new-images/thumbnails/bad-time-simulator.jpg
 urlstr: "bad-time-simulator"
-score: "4.8/5  (3500 votes)"
+score: "4.6/5  (1058 votes)"
 tags: ["action", "rhythm", "bullet-hell"]
 developer: "Jcw87"
 releaseDate: 2025-08-16
 locale: ja
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 *Bad Time Simulator（バッド・タイム・シミュレーター）*は、大人気インディーRPG『Undertale（アンダーテール）』の「Gルート（ジェノサイド・ルート）」におけるサンズ（Sans）との最終決戦を、ブラウザ上で忠実に再現したファンメイドゲームです。
@@ -51,19 +52,26 @@ PC/ブラウザ版の標準的なキーボード操作です。
 
 青いハート（重力）モードでは、**上矢印キー（↑）**でジャンプしながら骨やガスターブラスターを避けます。ジャンプの押し時間で高さが変わる点も本家と同じです。
 
+<!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
+<!-- i18n:faq:id=faq:bad-time-simulator:why-is-this-game-so-87eab09d -->
 **Q: なぜこのゲームはこんなに難しいのですか？**  
 これは現代ゲーム史上最も難しいボス戦の一つを忠実に再現しているからです。本編をやり込んだプレイヤーへの「最後の試練」として作られているため、難易度は意図的に理不尽なほど高く設定されています。
 
+<!-- i18n:faq:id=faq:bad-time-simulator:what-is-kr-karmic-retribution-a0c9bcbb -->
 **Q: KR（カルマ）とは何ですか？**  
 体力バーの横にある紫色のゲージです。サンズの攻撃を受けると、一度にHPが減るのではなく「KR」状態になり、毒のように徐々にHPが減っていきます。連続で被弾するほど、このスリップダメージは痛くなります。
 
+<!-- i18n:faq:id=faq:bad-time-simulator:is-it-possible-to-actually-0b6df411 -->
 **Q: 本当に勝てますか？**  
 はい、可能です。練習と根気、そして全パターンの暗記があれば必ずクリアできます。
 
+<!-- i18n:faq:id=faq:bad-time-simulator:why-cant-i-hit-sans-7f7251ec -->
 **Q: なぜサンズに攻撃が当たらないのですか？**  
 サンズは最後の瞬間まで、あなたの攻撃をすべて回避します。**[FIGHT]** コマンドは彼にダメージを与えるためではなく、会話と戦闘フェーズを進めるために選択します。あなたの仕事は倒すことではなく、生き延びることです。
 
+<!-- i18n:faq:id=faq:bad-time-simulator:what-is-the-difference-between-aa2c7edf -->
 **Q: 本編との違いはありますか？**  
 極めて正確に再現されていますが、シミュレーターのバージョンによっては微細な違いがあるかもしれません。しかし、主要な攻撃パターンや難易度の感覚は本物とほぼ同じです。
+

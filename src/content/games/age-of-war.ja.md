@@ -1,16 +1,17 @@
 ---
 title: "Age of War いにしえの戦争"
 description: "「Age of War」は、石器時代から未来へと進化しながら敵の基地を破壊する、クラシックな防衛戦略ゲームです。文明を発展させ、最強の軍隊を築き上げよう！"
-iframeSrc: "https://flash.8games.net/games/age-of-war.swf"
+iframeSrc: "https://app-196716.games.s3.yandex.net/196716/h5h3xwa1kxsz7wcma59tvvmko0zorc80/index.html"
 thumbnail: /new-images/thumbnails/age-of-war.jpg
 urlstr: "age-of-war"
-score: "4.5/5  (3421 votes)"
+score: "4.5/5  (525 votes)"
 tags: ["strategy", "defense", "war"]
 developer: ""
 releaseDate: 2025-08-16
 locale: ja
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 *Age of War（いにしえの戦争）*は、非常に人気の高い「進化型」戦略ディフェンスゲームです。あなたの目的は、自軍の基地を守り抜き、反対側にある敵の基地を破壊することです。
@@ -39,6 +40,7 @@ locale: ja
 *   **タレット強化:** すべてのタレットを最終段階までアップグレードし、敵の反撃をベースの手前で止めましょう。
 *   **総攻撃:** スペシャルとスーパーソルジャーの波を同時に投入し、敵基地へのトドメを刺します。
 
+<!-- i18n:section:controls -->
 ### 操作ガイド
 
 すべてマウス操作で行います。
@@ -48,16 +50,22 @@ locale: ja
 *   **特殊攻撃：** ゲージが溜まっている時にスペシャルアイコンをクリックして発動します。
 *   **進化：** 必要なXPが溜まったら、進化ボタンを押して次の時代へ進みます。
 
+<!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
+<!-- i18n:faq:id=faq:age-of-war:q-how-do-i-get-9279e7e6 -->
 *   **Q: XPはどうやって集めるの？**
     *   **A:** 自軍ユニットが敵を倒すたびにXPを獲得します。敵の波を素早く処理してXPを稼ぎ、進化やタレット強化に充てましょう。
 
+<!-- i18n:faq:id=faq:age-of-war:q-what-is-the-best-94cf492b -->
 *   **Q: 一番強いユニットは？**
     *   **A:** 状況次第ですが、未来時代の「スーパーソルジャー」は攻撃・耐久とも最高クラスで、終盤の押し込み役に最適です。
 
+<!-- i18n:faq:id=faq:age-of-war:q-is-it-better-to-f6ee451c -->
 *   **Q: タレットを増やすのとユニット量産、どちらが良い？**
     *   **A:** 序盤は1〜2基のタレットで防衛を固めつつ、前線へ継続的にユニットを送り込むバランスが最も安定します。
 
+<!-- i18n:faq:id=faq:age-of-war:q-where-can-i-play-d6112852 -->
 *   **Q: Flash終了後はどこで遊べる？**
     *   **A:** CrazyGames や Armor Games など、多くのサイトがHTML5版を公開しています。「Age of War HTML5」で検索すれば最新のプレイ先が見つかります。
+

@@ -1,16 +1,17 @@
 ---
 title: "Bad Ice-Cream 3 バッド・アイスクリーム3"
 description: "「Bad Ice-Cream 3」が登場！砂漠や宇宙を舞台に、新しい敵とギミックが満載。氷の壁を作り、フルーツを集め、最大の冒険に挑め！"
-iframeSrc: "https://badicecream.h5games.usercontent.goog/v/9b83b167-93e1-482a-874f-c4e9702209d8/"
+iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210128/x5/index.html"
 thumbnail: /new-images/thumbnails/bad-ice-cream-3.jpg
 urlstr: "bad-ice-cream-3"
-score: "4.7/5  (8125 votes)"
+score: "4.2/5  (660 votes)"
 tags: ["puzzle", "action"]
 developer: "Nitrome"
 releaseDate: 2025-08-16
 locale: ja
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 *Bad Ice-Cream 3（バッド・アイスクリーム3）*は、2Dドット絵で展開するアーケードパズルシリーズの第3作です。舞台は氷の迷宮だけでなく、砂漠や宇宙など多彩なステージへと広がります。おなじみのアイスクリームキャラを操作して、新しい敵やギミックが追加された40以上のレベルに挑戦しましょう。
@@ -45,7 +46,10 @@ locale: ja
 *   **互いをカバー:** 仲間が追い詰められたら氷の壁を素早く立てて逃げ道を作りましょう。1枚の壁でピンチを回避できます。
 *   **距離を保つ:** 2人が同じ場所に固まると同時に囲まれがちです。マップの反対側を分担して動き、視界と安全地帯を広げましょう。
 
+<!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `↑` `↓` `←` `→` `Spacebar` `W` `A` `S` `D` `F`
 
 前作同様、1つのキーボードで2人プレイが可能です。
 
@@ -57,16 +61,22 @@ locale: ja
     *   **移動：** W, A, S, D キー
     *   **アクション（氷）：** F キー（※バージョンにより異なる場合があります）
 
+<!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
+<!-- i18n:faq:id=faq:bad-ice-cream-3:q-what-is-the-main-03fb4085 -->
 *   **Q: 前作（1や2）をプレイしていなくても楽しめますか？**
     *   **A:** はい、全く問題ありません。ストーリーの繋がりはなく、システムも直感的なので、いきなり3から始めても楽しめます。
 
+<!-- i18n:faq:id=faq:bad-ice-cream-3:q-can-i-finally-kill-63145a61 -->
 *   **Q: 敵が氷の壁を壊してきました！バグですか？**
     *   **A:** いいえ、仕様です。今作の一部の上位モンスターは、プレイヤーが作った氷の壁を破壊する能力を持っています。彼らを閉じ込めるのは難しいため、逃げることに専念しましょう。
 
+<!-- i18n:faq:id=faq:bad-ice-cream-3:q-how-do-i-beat-89425c2b -->
 *   **Q: 全レベルクリア後の隠し要素はありますか？**
     *   **A:** 全てのレベルをクリアすると、達成感と共にエンディングが見られます。また、ハイスコアを目指して再挑戦するやり込み要素もあります。
 
+<!-- i18n:faq:id=faq:bad-ice-cream-3:q-is-there-a-way-adf9c295 -->
 *   **Q: ライフを増やす方法はありますか？**
     *   **A:** クラシックなFlash版では追加ライフを得る手段はほとんどありません。与えられたライフ内でミスを減らすことが最善策です。
+

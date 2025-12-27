@@ -1,16 +1,17 @@
 ---
 title: "Battleship バトルシップ：海戦ゲーム"
 description: "「Battleship」は戦略と運の古典的海戦ゲームです。敵艦隊を推測して攻撃し、自分の艦隊を守りながら相手の全艦を撃沈せよ。完全攻略とルール解説。"
-iframeSrc: "https://battleship.h5games.usercontent.goog/v/9b83b167-93e1-482a-874f-c4e9702209d8/"
+iframeSrc: "https://cdn.gamesnacks.com/battleship2/gameCode/index.html"
 thumbnail: /new-images/thumbnails/battleship.jpg
 urlstr: "battleship"
-score: "4.5/5  (2900 votes)"
+score: "4.4/5  (986 votes)"
 tags: ["puzzle", "strategy", "thinky"]
 developer: ""
 releaseDate: 2025-08-16
 locale: ja
 ---
 
+<!-- i18n:section:introduction -->
 ### 詳細なゲーム紹介
 
 *Battleship（バトルシップ）*は、2 人の指揮官が互いの艦隊を推理する古典的な海戦ゲームです。目標はシンプルで、相手の艦をすべて沈めた側が勝者となります。
@@ -43,6 +44,7 @@ locale: ja
 3.  **艦を確実に沈める:** 2 連続ヒットで方向が分かったら、一方の端に当たるまで一直線に撃ち続けます。
 4.  **論理で絞り込む:** 既に沈めた艦のサイズを把握しておけば、残るヒットがどの艦につながるか推定しやすくなります。
 
+<!-- i18n:section:controls -->
 ### 操作ガイド
 
 デジタル版では操作はシンプルなマウス／タッチ主体です。
@@ -55,16 +57,22 @@ locale: ja
     *   **砲撃:** 相手グリッドのマスをクリックして攻撃座標を指定します。
     *   **フィードバック:** ゲームが自動でヒット（赤など）やミス（白など）を表示して記録を助けます。
 
+<!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
+<!-- i18n:faq:id=faq:battleship:what-are-the-standard-ships-4cc4ec34 -->
 **1. 艦隊にはどんな船が含まれますか？**  
 標準ルールでは空母（5 マス）、戦艦（4 マス）、巡洋艦（3 マス）、潜水艦（3 マス）、駆逐艦（2 マス）の 5 隻です。
 
+<!-- i18n:faq:id=faq:battleship:can-i-place-ships-diagonally-ae341265 -->
 **2. 船を斜めに置けますか？**  
 いいえ。公式ルールでは艦は縦か横にのみ配置できます。
 
+<!-- i18n:faq:id=faq:battleship:is-it-better-to-place-8b4ddd62 -->
 **3. 船同士を接触させた方が良いですか？**  
 ほとんどの場合は距離を取る方が良いです。離しておけば、相手は毎回探索パターンをリセットしなければならず、手数を浪費します。
 
+<!-- i18n:faq:id=faq:battleship:is-the-game-just-pure-88a4cfc8 -->
 **4. 結局は運任せのゲームですか？**  
 初期探索には運も絡みますが、体系化されたサーチパターンと論理的な推理を使えるプレイヤーは、ランダムに撃つ相手より安定して勝てます。
+

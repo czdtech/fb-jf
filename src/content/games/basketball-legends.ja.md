@@ -1,16 +1,17 @@
 ---
 title: "Basketball Legends バスケットボール・レジェンド"
 description: "「Basketball Legends」でコートの伝説となれ！レジェンド選手たちを操り、1対1や2対2の対戦、トーナメントを勝ち抜くための完全攻略ガイド。スーパーショットの使い方が勝負を決める。"
-iframeSrc: "https://basketball-legends.h5games.usercontent.goog/v/9b83b167-93e1-482a-874f-c4e9702209d8/"
+iframeSrc: "https://webglmath.github.io/basketball-legends/"
 thumbnail: /new-images/thumbnails/basketball-legends.jpg
 urlstr: "basketball-legends"
-score: "4.8/5  (12543 votes)"
+score: "4.5/5  (832 votes)"
 tags: ["sports", "basketball", "multiplayer"]
 developer: "MadPuffers"
 releaseDate: 2025-08-16
 locale: ja
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 *Basketball Legends（バスケットボール・レジェンド）*は、MadPuffersが開発した大人気の2Dバスケットボールアーケードゲームです。歴代の有名なプロバスケットボール選手をコミカルにデフォルメしたキャラクターたちを操作し、白熱した試合を繰り広げます。
@@ -18,6 +19,7 @@ locale: ja
 このゲームの魅力は、スピーディーでアクロバティックなバスケットボール体験です。1対1のデュエル、またはCPUとチームを組んだ2対2の試合を楽しむことができます。「トーナメント」モードでは、勝ち抜き戦で優勝を目指し、「クイックマッチ」では手軽に試合を楽しめます。さらに、1つのキーボードを使って友達と対戦する2人プレイモードも搭載されており、友情（とライバル心）を育むのに最適です。豪快なダンクシュートや、必殺の「スーパーショット」を決めて、観客を沸かせましょう！
 このゲームの魅力は、スピーディーでアクロバティックなバスケットボール体験です。1対1のデュエル、またはCPUとチームを組んだ2対2の試合を楽しむことができます。「トーナメント」モードでは、勝ち抜き戦で優勝を目指し、「クイックマッチ」では手軽に試合を楽しめます。さらに、1つのキーボードを使って友達と対戦する2人プレイモードも搭載されており、友情（とライバル心）を育むのに最適です。豪快なダンクシュートや、必殺の「スーパーショット」を決めて、観客を沸かせましょう。
 
+<!-- i18n:section:tips -->
 ### ゲーム攻略と戦略
 
 *Basketball Legends* で勝つためには、「移動」「タイミング」、そして「スーパーショット」を使いこなす戦略性が必要です。
@@ -59,19 +61,26 @@ locale: ja
 *   **ジャンプ:** ↑ (上矢印) キー
 *   **スーパーショット:** K キー
 
+<!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
+<!-- i18n:faq:id=faq:basketball-legends:how-do-i-perform-a-7374b543 -->
 **1. どうやってスーパーショットを撃ちますか？**  
 シュートやブロック、スティールなどで画面下の青いゲージを溜め、点滅したら専用キー（P1=`V`、P2=`K`）を押します。ブロック不能の必殺技なので勝負所で使いましょう。
 
+<!-- i18n:faq:id=faq:basketball-legends:what-is-the-best-way-fd358af9 -->
 **2. トーナメントで勝つコツは？**  
 勝ち進むほど相手が強くなるため、堅実な守備で失点を抑え、スーパーショットを確実に決めて流れを引き寄せるのがコツです。
 
+<!-- i18n:faq:id=faq:basketball-legends:why-cant-i-block-the-ef1c825d -->
 **3. 相手のスーパーショットは止められますか？**  
 いいえ。仕様上ブロックできません。撃たれたら割り切って次の攻撃を準備しましょう。
 
+<!-- i18n:faq:id=faq:basketball-legends:whats-the-difference-between-t-6394c71e -->
 **4. キャラクターによって性能差はありますか？**  
 外見やモーションは違いますが、能力差はほぼありません。好きなレジェンドを選んでプレイしてください。
 
+<!-- i18n:faq:id=faq:basketball-legends:can-i-pass-the-ball-eea2c74f -->
 **5. 2対2の試合でパスはどうするのですか？**  
 味方がボールを持っていない時にシュートボタン（`B` または `L`）を押すとパスになります。ダブルチームされたら素早く預けましょう。
+
