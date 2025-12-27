@@ -3,21 +3,23 @@ locale: zh
 urlstr: the-pillar
 title: 《The Pillar》石柱解谜之旅
 description: 《The Pillar》是一款第一人称视角的环境解谜游戏。你将游走于神秘岛屿与高耸石柱之间，通过观察线索、解开机关谜题，逐步探索这个世界背后的秘密。
-iframeSrc: 'https://thepillar.h5games.usercontent.goog/v/1n7c3b9k4p2v0/'
+iframeSrc: 'https://m.igroutka.ru/g-1/53/ThePillar/'
 thumbnail: /new-images/thumbnails/the-pillar.jpg
 tags:
   - puzzle
   - exploration
   - first-person
-score: 4.1/5  (1800 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
+score: 3.8/5  (802 votes)
+releaseDate: 2025-08-16
 ---
 
 
+<!-- i18n:section:introduction -->
 ### 详细游戏介绍
 
 《The Pillar》采用上帝视角以外的第一人称视角，让你仿佛亲自站在空旷岛屿与古老石柱之间。每一处石柱、墙面和地面纹理中都藏有线索，你需要通过移动、观察与操作机关来解开图案谜题、路径谜题甚至顺序谜题。随着谜题被逐一解开，新的区域和故事碎片会被逐渐解锁。
 
+<!-- i18n:section:tips -->
 ### 游玩策略与解谜指引
 
 
@@ -27,12 +29,16 @@ releaseDate: 2025-10-18T00:00:00.000Z
 3.  **由易到难拆分谜题：** 将复杂谜题拆解成若干小部分，逐个解决。例如先确定起点与终点，再补完中间路径。
 4.  **适当休息再回来：** 若长时间卡在某个机关上，不妨先去探索其他区域或休息片刻，再回来往往会有新的思路。
 
+<!-- i18n:section:controls -->
 ### 操作说明
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `WASD` `Arrow Keys` `Left Mouse Button`
 
 *   **移动视角与行走：** 使用鼠标控制视角，用 WASD 或方向键控制移动；
 *   **互动：** 靠近机关、按钮或石柱时按互动键进行查看与操作；
 *   **菜单 / 提示：** 通过游戏界面打开菜单，部分版本可能提供提示或日志系统。
 
+<!-- i18n:section:faq -->
 ### 常见问题解答（FAQ）
 
 **问：游戏有明确的提示系统吗？****
@@ -46,3 +52,4 @@ releaseDate: 2025-10-18T00:00:00.000Z
 谜题难度从入门到颇具挑战都有，需要你认真思考，有时也要通过试错来验证思路。
 
 **游戏难度大吗？**
+

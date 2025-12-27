@@ -3,26 +3,28 @@ locale: zh
 urlstr: the-impossible-quiz
 title: 《The Impossible Quiz》坑爹问答
 description: 《The Impossible Quiz》是一款闻名已久的整蛊式答题游戏。题目看似简单却充满陷阱与脑洞，需要跳出常规思维才能找到正确答案。
-iframeSrc: 'https://syndicode.github.io/impossible.quiz/'
+iframeSrc: 'https://flash-cdn.blogspot.com/2021/06/the-impossible-quiz.html'
 thumbnail: /new-images/thumbnails/the-impossible-quiz.jpg
 tags:
   - quiz
   - puzzle
   - funny
-score: 3.9/5  (980 votes)
+score: 4.8/5  (1294 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### 游戏介绍
 
 《The Impossible Quiz》是一款经典“坑爹问答”，曾在 Flash 时代广为传播。游戏中会出现各种看似简单的选择题、判断题甚至交互题，但大多数题目都不是按常规逻辑出牌，而是依靠冷笑话、谐音、隐藏按钮或操作技巧来过关。稍有不慎就会选错并扣掉宝贵的生命次数。
 
+<!-- i18n:section:tips -->
 ### 游玩指南
 
 游戏会给你一连串选择题，你的目标是在不被淘汰的情况下答完全部 110 题。
 
-- **生命：** 开局通常有 3 条生命，答错会扣 1 条；生命耗尽即失败。
+- **生命：** 开局通常有三条生命，答错会扣一条；生命耗尽即失败。
 - **炸弹：** 部分题目带倒计时炸弹，时间到会直接判失败（即使你还有生命）。
 - **跳过（Skips）：** 你会获得有限次数的跳过机会，用来绕过某些几乎只能靠跳过才能通过的题目。建议留到后期，尤其是最后一题附近再用。
 - **检查点（存档点）：** 在某些版本里，它们相当于存档点：生命耗尽后可以从更靠后的题目重新开始。
@@ -36,11 +38,13 @@ releaseDate: 2025-08-16T00:00:00.000Z
 3.  **留意界面元素：** 某些题需要你点击画面中并未被标为选项的区域，甚至需要按键盘或进行拖拽操作。
 4.  **多次尝试并记录：** 将已经踩过的坑记下来，下一轮可以更快冲到新题目，逐步解锁全部内容。
 
+<!-- i18n:section:controls -->
 ### 操作说明
 
 *   **作答：** 用鼠标点击选项或指定区域；
 *   **特殊交互：** 少数题目会要求拖动、长按或键盘输入，需根据题目提示尝试。
 
+<!-- i18n:section:faq -->
 ### 常见问题解答（FAQ）
 
 **为什么叫《The Impossible Quiz》？**

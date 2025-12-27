@@ -5,17 +5,18 @@ title: 《There Is No Game》这里没有游戏
 description: >-
   《There Is No Game》是一款极具 meta
   风格的解谜/互动作品。屏幕上的“旁白”不断告诉你这里没有游戏，而你要通过各种反常操作打破规则，发现隐藏的玩法与故事。
-iframeSrc: 'https://thereisnogame.h5games.usercontent.goog/v/3g7d2n9c1b4k0/'
+iframeSrc: 'https://webglmath.github.io/there-is-no-game/'
 thumbnail: /new-images/thumbnails/there-is-no-game.jpg
 tags:
   - puzzle
   - meta
   - adventure
-score: 4.4/5  (2200 votes)
+score: 3.9/5  (1003 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### 游戏介绍
 
 《There Is No Game》并不是一款传统意义上的游戏——至少旁白是这么坚持的。整个过程充满自嘲与打破第四面墙的幽默，你需要在“这里没有游戏”的界面上，用各种出人意料的方式点击、拖拽、摔碎、移动界面元素，逐步解锁新的交互层和隐藏内容。可以把它看作是一场关于“游戏本身是什么”的小型恶作剧与解谜之旅。
@@ -29,11 +30,13 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - **多尝试异常操作：** 比如拖走文字、敲碎面板、关掉窗口等“玩家平时不会这么干”的行为，往往是推进剧情的关键；
 - **保持开放心态：** 本作很多谜题依赖创意和逆向思维，不要害怕试错，多动手、多乱点。
 
+<!-- i18n:section:controls -->
 ### 操作说明
 
 *   **鼠标交互：** 通过点击、拖动、长按、双击等多种操作与界面元素互动；
 *   **少量键盘操作：** 某些片段可能需要键盘输入或按键，具体以游戏提示为准。
 
+<!-- i18n:section:faq -->
 ### 常见问题解答（FAQ）
 
 **问：真的“没有游戏”吗？****
@@ -47,3 +50,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 原版《There Is No Game》流程相对较短，定位更像点选式解谜小品；此外还有更长、更完整的续作《There Is No Game: Wrong Dimension》（错误维度）。
 
 **游戏流程大概多久？**
+

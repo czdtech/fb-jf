@@ -3,28 +3,30 @@ locale: zh
 urlstr: text-twist-2
 title: 《Text Twist 2》英文拼词挑战 2
 description: 《Text Twist 2》是一款英文单词拼写益智游戏。根据给出的字母组合，在限定时间内尽可能拼出更多有效单词，并找出使用全部字母的关键单词以进入下一轮。
-iframeSrc: 'https://gamaverse.com/c/famobi-text-twist-2-game/'
+iframeSrc: 'https://games.cdn.famobi.com/html5games/t/text-twist-2/v110/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=40935b5f-cfef-4ac2-9179-549869282f4b&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=693&original_ref='
 thumbnail: /new-images/thumbnails/text-twist-2.jpg
 tags:
   - word-game
   - puzzle
   - brain-teaser
-score: 4.1/5  (120 votes)
+score: 4.5/5  (761 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### 游戏介绍
 
 《Text Twist 2》是广受欢迎的英文拼词游戏续作，更考验词汇量与反应速度。每一轮会给出一组被打乱顺序的英文字母，你需要在计时结束前，用这些字母拼出尽可能多的合法单词。更重要的是，必须至少拼出一个使用了全部字母的“关键单词”才能进入下一关。
 
 > 注：本游戏对英文词汇量有一定要求，更适合当作英语单词练习或词汇游戏来体验。
 
+<!-- i18n:section:tips -->
 ### 游玩指南
 
 
 核心玩法依旧：从给定的一组字母中尽可能拼出更多有效单词。
-- **目标：** 找出 3 个字母以上的单词，并优先找到使用全部字母的 Bingo 单词以进入下一轮。
+- **目标：** 找出三个字母以上的单词，并优先找到使用全部字母的 Bingo 单词以进入下一轮。
 - **新模式：** 《Text Twist 2》加入了多种玩法模式，包括：
     - **无计时模式：** 不受倒计时限制，按自己的节奏慢慢拼。
     - **闪电模式：** 以最短时间找出 Bingo 单词。
@@ -32,13 +34,17 @@ releaseDate: 2025-08-16T00:00:00.000Z
     - **每日挑战：** 每天都会有新的挑战内容。
 - **更大词库：** 词库更丰富，可以发现更多单词组合。
 - **“Twist” 功能：** 依然可以点击 `Twist`（或按 `Spacebar`）重新打乱字母顺序，帮助你换个角度找词。
+<!-- i18n:section:controls -->
 ### 操作说明
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Enter` `Spacebar` `Backspace`
 
 - **输入单词：** 直接使用键盘输入你想到的英文单词；
-- **提交单词：** 输入完成后按 `Enter` 提交；
-- **打乱字母：** 点击“Twist”按钮或按 `Spacebar` 重新排列字母；
-- **清空输入：** 点击“Clear”或按 `Backspace` 清除当前输入内容。
+- **提交单词：** 输入完成后按 Enter 提交；
+- **打乱字母：** 点击“Twist”按钮或按 Spacebar 重新排列字母；
+- **清空输入：** 点击“Clear”或按 Backspace 清除当前输入内容。
 
+<!-- i18n:section:faq -->
 ### 常见问题解答（FAQ）
 
 **问：什么是 Bingo word？****

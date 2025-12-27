@@ -3,17 +3,18 @@ locale: zh
 urlstr: temple-run-2
 title: 《Temple Run 2》神庙逃亡 2
 description: 《Temple Run 2》是一款经典的 3D 跑酷游戏。扮演探险者从诡异神庙中奔逃，躲避陷阱与障碍，收集金币与道具，一路甩开身后的怪物追击。
-iframeSrc: 'https://templerun2.h5games.usercontent.goog/v/4d7n2c1b9k3p0/'
+iframeSrc: 'https://sxiao.4399.com/4399swf//upload_swf/ftp35/gamehwq/20210119/11/index.html'
 thumbnail: /new-images/thumbnails/temple-run-2.jpg
 tags:
   - running
   - action
   - endless
-score: 4.6/5  (3000 votes)
+score: 4.0/5  (277 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### 详细游戏介绍
 
 《Temple Run 2》延续了前作“亡命逃亡”的核心设定，你从被诅咒的神庙中夺走神像后，必须沿着蜿蜒曲折的道路一路狂奔。途中会遇到断桥、火陷阱、旋转木桩、矿车轨道等各种机关，还要顺手收集金币与宝石，用于解锁新角色和升级能力。
@@ -35,6 +36,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 - **倾斜操作：** 在部分版本中，倾斜设备可更方便地左右收集金币。
+<!-- i18n:section:faq -->
 ### 常见问题解答（FAQ）
 
 
@@ -49,3 +51,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 - **问：游戏有终点吗？**  
     **答：** 这是无尽跑酷游戏，理论上可以一直跑下去；挑战在于尽可能跑得更远、拿到更高分。
+

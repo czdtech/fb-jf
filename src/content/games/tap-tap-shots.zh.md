@@ -3,21 +3,23 @@ locale: zh
 urlstr: tap-tap-shots
 title: 《Tap Tap Shots》连点投篮
 description: 《Tap Tap Shots》是一款简单却颇具挑战性的街机投篮游戏。通过连续点击控制篮球高度，在限时内不断命中篮筐刷分。
-iframeSrc: 'https://taptapshots.h5games.usercontent.goog/v/1m2n3b4v5c6p0/'
+iframeSrc: 'https://ubg77.github.io/game131022/tap-tap-shots/'
 thumbnail: /new-images/thumbnails/tap-tap-shots.jpg
 tags:
   - sports
   - arcade
   - clicker
-score: 3.9/5  (1550 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
+score: 4.9/5  (415 votes)
+releaseDate: 2025-08-16
 ---
 
 
+<!-- i18n:section:introduction -->
 ### 详细游戏介绍
 
 《Tap Tap Shots》采用极简像素风，你只需通过不断点击来控制篮球向上弹起的高度，让它刚好飞进篮筐。每投进一个球就会刷新计时条，未能在时间耗尽前命中则游戏结束。随着关卡推进，篮筐位置会不断改变，有时甚至会瞬间移动到另一侧，考验你的手速与节奏把握。
 
+<!-- i18n:section:tips -->
 ### 游玩策略与投篮指引
 
 1.  **找准点击节奏：** 连续点击会让球逐步爬升，过快易飞过篮筐，过慢又难以触达高度，建议在几次尝试后找到自己的舒适节奏。
@@ -27,7 +29,10 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 - **计时：** 每次投进后计时条会重置，但如果投丢，这一局就结束。
+<!-- i18n:section:controls -->
 ### 操作说明
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Left Mouse Button` `Spacebar`
 
 
 操作非常简单：
@@ -35,6 +40,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 - **移动端：** 轻触屏幕。
+<!-- i18n:section:faq -->
 ### 常见问题解答（FAQ）
 
 **问：必须连点才能投得更高吗？****
@@ -48,3 +54,4 @@ releaseDate: 2025-10-17T00:00:00.000Z
 关键全在时机。尽量在球弹到最高点或刚开始下落时点击，这通常能让你更好地控制出手并瞄准篮筐。
 
 **瞄准有什么小技巧吗？**
+

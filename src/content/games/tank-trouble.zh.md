@@ -3,17 +3,18 @@ locale: zh
 urlstr: tank-trouble
 title: 《Tank Trouble》坦克迷宫对战
 description: 《Tank Trouble》是一款俯视角坦克对战游戏。你需要在迷宫般的地图里驾驶小坦克，利用反弹炮弹击中对手，同时避免自己被爆炸波及。
-iframeSrc: 'https://tanktrouble.h5games.usercontent.goog/v/0l8n2k4c3b1v0/'
+iframeSrc: 'https://www.friv2018.com/games/html5/tank-trouble-2/'
 thumbnail: /new-images/thumbnails/tank-trouble.jpg
 tags:
   - tank
   - multiplayer
   - arcade
-score: 4.1/5  (1900 votes)
+score: 4.5/5  (525 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### 详细游戏介绍
 
 《Tank Trouble》主打小体量、强互动的坦克对战玩法。对战地图通常由墙体组成的迷宫构成，坦克发射的炮弹会在墙面上发生弹射，你既可以利用直射从正面命中对方，也可以通过反弹角度打出“拐角击中”的巧妙射击。支持单人对 AI 或本地多人同屏对战，非常适合作为派对或休闲小游戏。
@@ -33,6 +34,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 *   **开火：** 按下指定射击键发射炮弹，一般具有短暂冷却时间；
 *   **多人操作：** 本地多人模式下，不同玩家会分配到不同键位进行操作。
 
+<!-- i18n:section:faq -->
 ### 常见问题解答（FAQ）
 
 - **问：炮弹是如何反弹的？**  
@@ -46,3 +48,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 - **问：有时间限制吗？**  
     **答：** 部分模式可能有时间限制，但核心目标仍是击败所有对手并活到最后。
+

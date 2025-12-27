@@ -3,21 +3,23 @@ locale: zh
 urlstr: the-jigsaw-game
 title: 《The Jigsaw Game》拼图时光
 description: 《The Jigsaw Game》是一款休闲拼图游戏。将被打散的图块重新拼回完整图片，享受安静细致的拼图过程。
-iframeSrc: 'https://thejigsawgame.h5games.usercontent.goog/v/3k7d9c2b1v5p0/'
+iframeSrc: 'https://2avtkm5bj06f0.h5games.usercontent.goog/v/66fijarm4ldv0/'
 thumbnail: /new-images/thumbnails/the-jigsaw-game.png
 tags:
   - jigsaw
   - puzzle
   - casual
-score: 3.9/5  (1400 votes)
+score: 4.3/5  (2146 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### 详细游戏介绍
 
 《The Jigsaw Game》提供多张主题图片供你选择，例如风景、动物或静物等。进入关卡后，完整图像会被切割成若干不规则的拼图块并被打散，你需要通过拖拽和旋转（若支持）将它们重新拼回原图。这类游戏节奏缓慢，很适合作为放松大脑、打发时间的选择。
 
+<!-- i18n:section:tips -->
 ### 拼图策略与指引
 
 1.  **优先拼外框：** 和现实拼图一样，最好先从边缘和四角块入手，先搭出一个清晰的框架，后续填充会容易许多。
@@ -27,20 +29,20 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 - **缩放/拖动画布：** 在细节密集的区域多用放大与拖拽工具，提高对位精度。
+<!-- i18n:section:controls -->
 ### 操作说明
 
 *   **拖拽拼图块：** 点击并拖动拼图块到你认为正确的位置；
 *   **旋转（若有）：** 通过右键或专用按钮旋转拼图块，使其方向与整体图像一致；
 *   **预览原图：** 部分版本提供预览按钮，可随时查看目标完整图像。
 
+<!-- i18n:section:faq -->
 ### 常见问题解答（FAQ）
 
 
+<!-- i18n:faq:id=faq:the-jigsaw-game:are-there-timers-f350f01a -->
 - **图片题材多吗？** 通常会包含风景、动物、季节主题等多种类型。  
+<!-- i18n:faq:id=faq:the-jigsaw-game:can-i-change-piece-count-ac3c2e46 -->
 - **能调整拼图块数量吗？** 多数版本支持。建议按你的时间与耐心选择合适难度。  
+<!-- i18n:faq:id=faq:the-jigsaw-game:any-photo-variety-5449029a -->
 - **有计时吗？** 视模式而定，很多版本提供放松的无计时体验。  
-**问：有没有时间限制？****
-答：** 视模式而定，有的关卡会设置计时挑战，有的则完全不限制时间，让玩家慢慢享受拼图过程。
-
-**问：拼到最后只差几块却拼不起来怎么办？****
-答：** 可以尝试重新审视整体对比，有时只是某块在前面被放错了位置，适当拆回一部分重新调整即可。

@@ -3,21 +3,23 @@ locale: zh
 urlstr: tennis
 title: 《Tennis》网球对决
 description: 《Tennis》是一款简化操作的网球游戏。通过移动站位与挥拍时机，在虚拟球场上和对手展开来回对攻，力争破发并赢下比赛。
-iframeSrc: 'https://tennis.h5games.usercontent.goog/v/5l9n2c3b1k7p0/'
+iframeSrc: 'https://ad-freegames.github.io/flash/game/tennis.html'
 thumbnail: /new-images/thumbnails/tennis.jpg
 tags:
   - sports
   - 2 player
   - action
-score: 4.0/5  (1700 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
+score: 4.7/5  (793 votes)
+releaseDate: 2025-08-16
 ---
 
 
+<!-- i18n:section:introduction -->
 ### 详细游戏介绍
 
 《Tennis》以轻度街机方式呈现网球对决。你将与 AI 或本地玩家在网球场上交锋，通过移动到合适位置并在正确时机挥拍，将网球回击到对手场地并寻找得分机会。游戏弱化了复杂操作，重点放在跑位与击球节奏上，让更多玩家能轻松体验网球的攻防乐趣。
 
+<!-- i18n:section:tips -->
 ### 游玩策略与对战指引
 
 1.  **重视站位回中：** 每次击球后尽量向场地中央靠拢，这样无论对手打向哪一边都能更快做出反应。
@@ -25,13 +27,17 @@ releaseDate: 2025-10-17T00:00:00.000Z
 3.  **观察对手习惯：** 有的对手偏爱直线、有的喜欢对角，掌握其出球习惯后可以更有针对性地预判。
 4.  **发球抢攻：** 在自己的发球局中，可以尝试发出更刁钻的角度或速度，在对手接发不稳时抢攻得分。
 
+<!-- i18n:section:controls -->
 ### 操作说明
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Arrow Keys` `WASD` `Spacebar` `X`
 
 
 操作设计得简单直观：
 *   **移动：** 使用方向键或虚拟摇杆控制角色左右移动、前后站位；
 *   **击球：** 在球接近时按下击球键完成回球，不同按键或按压时机可能对应不同类型的击球（平击、高吊等）。
 
+<!-- i18n:section:faq -->
 ### 常见问题解答（FAQ）
 
 **问：这款网球更偏真实还是更偏街机？****
@@ -45,3 +51,4 @@ releaseDate: 2025-10-17T00:00:00.000Z
 不少网球游戏会提供双人模式，让你和朋友在同一键盘上对战。
 
 **可以和朋友进行双人对战吗？**
+
