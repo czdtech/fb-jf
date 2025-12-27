@@ -4,10 +4,10 @@ description: >-
   「Bubble Woods
   Ultimate」は60秒一本勝負の高速バブルシューター。魔法の森で可愛いリスと協力し、スペシャルバブルを駆使してハイスコアを叩き出せ。
 iframeSrc: >-
-  https://bubblewoods.h5games.usercontent.goog/v/9b83b167-93e1-482a-874f-c4e9702209d8/
+  https://bubblewoods4.h5games.usercontent.goog/v/4jslovpheann0/
 thumbnail: /new-images/thumbnails/bubble-woods-ultimate.png
 urlstr: bubble-woods-ultimate
-score: 4.5/5  (2150 votes)
+score: 4.4/5  (2500 votes)
 tags:
   - casual
   - puzzle
@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 locale: ja
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 *Bubble Woods Ultimate（バブル・ウッズ・アルティメット）*は、魔法の森を舞台にした、スピード感あふれるアクションパズルゲームです。プレイヤーは賢いリスと一緒に、60秒という制限時間内にできるだけ多くのスコアを稼ぐことに挑戦します。
@@ -31,6 +32,7 @@ locale: ja
     *   **ボムバブル:** 着弾した周囲のバブルを爆発させて消去します。
     *   **砂時計:** これが最も重要です。消すと制限時間を少しだけ延長できます。
 
+<!-- i18n:section:tips -->
 ### ゲーム攻略と戦略
 
 *   **スピードが命:** じっくり考える暇はありません。とにかく速く撃ちましょう。迷うくらいなら多少強引にでも撃って、次のバブルを回したほうが良い結果になることが多いです。
@@ -41,19 +43,25 @@ locale: ja
     *   **レインボーバブル:** どの色としても機能する万能バブルです。
     *   **ボムバブル:** 着弾した周囲のバブルを爆発させて消去します。
     *   **砂時計:** 最も重要です。消すと制限時間を少しだけ延長できます。
+<!-- i18n:section:controls -->
 ### 操作ガイド
 
 *   **狙う:** マウスカーソル（または指）で発射方向を定めます。
 *   **撃つ:** クリック（またはタップ）でバブルを発射します。
 *   **バブル交換:** 大砲の横などをクリックすると、今撃つバブルと次のバブルを入れ替えることができます。
 
+<!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
+<!-- i18n:faq:id=faq:bubble-woods-ultimate:q-what-is-the-main-212faaec -->
 *   **Q: ゲームの目的は？**
     *   **A:** 制限時間60秒以内に、可能な限り高いスコアを獲得することです。
 
+<!-- i18n:faq:id=faq:bubble-woods-ultimate:q-how-do-i-get-dab4fb8d -->
 *   **Q: どうすれば時間を増やせますか？**
     *   **A:** 盤面に現れる「砂時計」のアイコンが付いたバブルを消すことで、時間を延長できます。
 
+<!-- i18n:faq:id=faq:bubble-woods-ultimate:q-what-is-the-bar-7e10f73f -->
 *   **Q: 下にあるゲージは何ですか？**
     *   **A:** ファイアボールメーターです。バブルを消すたびに溜まり、満タンになると次のショットが貫通弾（ファイアボール）になります。逆にミスショットをすると減ってしまいます。
+

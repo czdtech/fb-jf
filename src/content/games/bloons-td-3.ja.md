@@ -4,13 +4,14 @@ description: "「Bloons TD 3」でシリーズは大きく飛躍！新マップ8
 iframeSrc: "https://1000freegames.github.io/swf/bloons-td-3.html"
 thumbnail: /new-images/thumbnails/bloons-td-3.jpg
 urlstr: "bloons-td-3"
-score: "4.3/5  (852 votes)"
+score: "4.9/5  (538 votes)"
 tags: ["casual", "strategy"]
 developer: ""
 releaseDate: 2025-08-16
 locale: ja
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 *Bloons TD 3* はシリーズの転換点となった作品で、モンキータワーを配置してブルーンをゴール前に撃破するという基本はそのままに、難易度と遊びの幅が大きく広がりました。複数のマップ・難易度に加え、各タワーに固有アップグレードが用意され、強化の自由度が大幅に向上しています。
@@ -25,6 +26,7 @@ locale: ja
 -   **フルアップグレード制:** すべてのアップグレードを 1 本のタワーに購入でき、後半は非常に強力なユニットが作れます。  
 -   **継続するブルーン耐性:** 鋭利攻撃無効の Lead、爆発無効の Black、凍結無効の White など、耐性ブルーンへの対策が戦略の要です。  
 
+<!-- i18n:section:tips -->
 ### ゲーム攻略と戦略
 
 -   **序盤はバランス良く:** ダーツモンキーとタックシューターで序盤を支え、早めに「Piercing Darts」へアップグレード。ブーメラン・スロワーは曲線区間の掃討役に最適です。  
@@ -37,6 +39,7 @@ locale: ja
     -   撃破後は複数のセラミックブルーンが出現するため、後衛の範囲火力も忘れずに。  
 -   **スパイク・オー・パルトは長い直線に:** 発射したスパイクボールが長い距離を転がるため、直線の序盤に置いて列をまとめて処理しましょう。  
 
+<!-- i18n:section:controls -->
 ### 操作ガイド
 
 このゲームは直感的なポイント＆クリック操作で完結します。
@@ -45,21 +48,28 @@ locale: ja
 -   **ラウンド操作:** 画面右下のボタンで次ラウンド開始や倍速を切り替え可能。
 -   **ショートカット:** 数字キー 1～8 でタワー選択、スペースキーで次ラウンド開始。
 
+<!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
+<!-- i18n:faq:id=faq:bloons-td-3:i-cant-pop-the-grey-99d90772 -->
 **1. 灰色（鉛）ブルーンが割れません。どうすれば？**  
 > 鉛ブルーンは鋭利攻撃を無効化します。ボムタワーや爆発系アップグレードを用意しましょう。  
 
+<!-- i18n:faq:id=faq:bloons-td-3:what-is-the-big-blue-a2bae815 -->
 **2. 最後に出てくる大きな青い飛行船は？**  
 > それが MOAB です。HP が高く移動は遅いですが、集中砲火で確実に倒せます。  
 
+<!-- i18n:faq:id=faq:bloons-td-3:why-should-i-use-the-23ed004c -->
 **3. モンキービーコンは攻撃しないのに必要？**  
 > ビーコンは射程強化や特殊能力付与を担当する支援タワーです。特にスーパーモンキーの隣に置くと効果絶大です。  
 
+<!-- i18n:faq:id=faq:bloons-td-3:how-many-rounds-are-there-64671d2f -->
 **4. ラウンド数は何ラウンド？**  
 > -   Easy：50 ラウンド  
 > -   Medium：50 ラウンド  
 > -   Hard：75 ラウンド  
 
+<!-- i18n:faq:id=faq:bloons-td-3:whats-the-difference-between-b-86ceeb66 -->
 **5. 黒いブルーンと白いブルーンの違いは？**  
 > Black Bloon は爆発無効、White Bloon は凍結無効です。飛び道具系タワーで対応しましょう。  
+

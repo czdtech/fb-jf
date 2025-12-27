@@ -1,16 +1,17 @@
 ---
 title: "Boxing Random ボクシング・ランダム"
 description: "「Boxing Random」は物理演算が予測不能なボクシングゲーム！ワンボタン操作でジャンプ＆パンチ。毎回変わるルールや環境に適応して、先に5勝した方が勝者だ。"
-iframeSrc: "https://boxingrandom.h5games.usercontent.goog/v/9b83b167-93e1-482a-874f-c4e9702209d8/"
+iframeSrc: "https://app-197305.games.s3.yandex.net/197305/ymb675rkal3nz409zur9etesdbd74y4d/index.html"
 thumbnail: /new-images/thumbnails/boxing-random.jpg
 urlstr: "boxing-random"
-score: "4.5/5  (1820 votes)"
+score: "4.1/5  (855 votes)"
 tags: ["sports", "action", "2-players"]
 developer: "RHM Interactive"
 releaseDate: 2025-08-16
 locale: ja
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 *Boxing Random（ボクシング・ランダム）*は、1つのボタンだけで操作するラグドール系ボクシングゲームです。先に5ポイントを獲ったプレイヤーが勝利します。
@@ -24,6 +25,7 @@ locale: ja
 
 この無限に近いランダム性のおかげで、まったく同じラウンドは二度と来ません。毎回の適応力が勝負です。
 
+<!-- i18n:section:tips -->
 ### ゲーム攻略と戦略
 
 運要素は強いものの、勝率を上げるテクニックもあります。
@@ -35,6 +37,7 @@ locale: ja
 - **腕を盾にする**：振り回す腕は攻撃だけでなく防御にもなる。敵のパンチコースに腕を置き、弾いた瞬間に反撃。  
 - **腕の長さに合わせる**：長い腕なら距離を保って刺し続け、短い腕なら密着して押し切る。
 
+<!-- i18n:section:controls -->
 ### 操作ガイド
 
 有名な「ワンボタン」操作システムです。
@@ -47,16 +50,22 @@ locale: ja
 
 **注意:** ジャンプも攻撃も1つのボタンで行われます。押すと自動的に体を動かして腕を振ります。
 
+<!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
+<!-- i18n:faq:id=faq:boxing-random:how-do-i-win-a-e21b4f7d -->
 **Q: どうすればラウンド勝利？**  
 > 相手の頭部に一発クリーンヒットさせればOK。先に5ポイント取ったほうが試合勝利です。
 
+<!-- i18n:faq:id=faq:boxing-random:why-do-the-characters-look-21310768 -->
 **Q: どうしてキャラの動きがヘンなの？**  
 > ラグドール物理＆ランダム要素が売り。腕・頭・重力が毎回変わるため、予想外の動きになるのが魅力です。
 
+<!-- i18n:faq:id=faq:boxing-random:is-there-a-way-to-78bb8bae -->
 **Q: ガードボタンは？**  
 > ありません。振り回す腕そのものが盾になるので、相手の拳の軌道に合わせて腕を差し込んでください。
 
+<!-- i18n:faq:id=faq:boxing-random:can-i-play-this-game-0d71baf7 -->
 **Q: 1人プレイは可能？**  
 > もちろん。CPUと対戦するソロモードがあり、ローカル2Pにも即切り替えられます。
+

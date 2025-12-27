@@ -1,16 +1,17 @@
 ---
 title: "Bloons TD 5 ブルーンズTD 5"
 description: "「Bloons TD 5」で防衛戦略を極めろ！8つのアップグレード、2つのパス、新登場のエージェント。タワーを育てて毎日変わるデイリーチャレンジに挑もう。"
-iframeSrc: "https://bloonstd5.h5games.usercontent.goog/v/9b83b167-93e1-482a-874f-c4e9702209d8/"
+iframeSrc: "https://1000freegames.github.io/swf/bloons-tower-defense-5.html"
 thumbnail: /new-images/thumbnails/bloons-td-5.jpg
 urlstr: "bloons-td-5"
-score: "4.5/5  (2300 votes)"
+score: "3.7/5  (628 votes)"
 tags: ["casual", "strategy"]
 developer: "Ninja Kiwi"
 releaseDate: 2025-08-16
 locale: ja
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 *Bloons TD 5* は、シリーズの核心だった“モンキータワーで Bloon を割る”というシンプルな魅力をさらに磨き上げた決定版です。鮮やかなビジュアルと膨大なコンテンツ量で、タワーディフェンスの定番として高く評価されています。
@@ -26,6 +27,7 @@ BTD5 では以下の要素が追加・強化されています。
 -   **膨大なコンテンツ：** 数十のトラック、特殊ルールの Special Mission、デイリーチャレンジ、そして協力プレイモードまで収録。
 -   **アクティブアビリティ：** 多くのティア4アップグレードが強力な発動型スキルを与えます（例：Bomb Tower の「MOAB Assassin」、Heli Pilot の「Downdraft」など）。
 
+<!-- i18n:section:tips -->
 ### ゲーム攻略と戦略
 
 -   **経済がすべて：** 早期に Banana Farm を建てて資金源を確保するのが勝利への近道です。最終的には 4/2（アップグレード：`Banana Research Facility` + `More Bananas`）構成を目指し、毎ラウンド大量のキャッシュを得ましょう。
@@ -40,6 +42,7 @@ BTD5 では以下の要素が追加・強化されています。
     -   **Supa-Vac（Bloonchipper 2/4）：** ZOMG クラスを吸い込み足止めできる究極のクラウドコントロール。
     -   **Sabotage Supply Lines（例：Ninja Monkey x/4）：** 全 Bloon の速度を半減させ、最終ラウンドを生き残るための必須アビリティ。
 
+<!-- i18n:section:controls -->
 ### 操作ガイド
 
 操作はシリーズ伝統のポイント＆クリック（タップ）方式です。
@@ -49,6 +52,7 @@ BTD5 では以下の要素が追加・強化されています。
 -   **アクティブアビリティ：** 該当タワーを建てると、画面左下にスキルボタンが出現。クールダウンが明け次第クリックして発動します。
 -   **ホットキー：** PC 版では各タワーとアビリティにショートカットキーが割り当てられており、ハイラウンドでは必須テクニックです。
 
+<!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
 **1. BTD5 で一番強いタワーは？**  
@@ -65,3 +69,4 @@ BTD5 では以下の要素が追加・強化されています。
 
 **5. Special Agents は買う価値がありますか？**  
 > あります。`Meerkat Spy` のように序盤の迷彩検知を補ってくれるものや、`Bloonsday Device` のように大量リークを回避できる切り札など、難関マップで大いに役立ちます。
+

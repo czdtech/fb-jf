@@ -1,16 +1,17 @@
 ---
 title: "Block Breaker King ブロック崩しキング"
 description: "「Block Breaker King」はブロックを配置して縦横のラインを消すパズルゲームです。ピースをはめ込んで盤面を整理し、手詰まりになる前にハイスコアを狙いましょう。"
-iframeSrc: "https://blockbreakerking.h5games.usercontent.goog/v/9b83b167-93e1-482a-874f-c4e9702209d8/"
+iframeSrc: "https://40p3ck71ovs88.h5games.usercontent.goog/v/36e5gjc5plhi8/"
 thumbnail: /new-images/thumbnails/block-breaker-king.png
 urlstr: "block-breaker-king"
-score: "4.3/5  (784 votes)"
+score: "3.8/5  (1631 votes)"
 tags: ["arcade", "casual"]
 developer: "Mobirix"
-releaseDate: 2025-08-16
+releaseDate: 2025-10-18
 locale: ja
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 *Block Breaker King* は、テトリス風のブロックを自由に配置してラインを消すシンプルなパズルです。画面下部に表示される複数のピースから1つを選び、グリッドにドラッグ＆ドロップして配置します。横一列、または縦一列を隙間なく埋めると、その列が消えてスペースが空きます。
@@ -19,6 +20,7 @@ locale: ja
 
 一部モードでは「ミッション」と呼ばれるステージ制があり、「〇ライン消す」「Xポイント到達」などの条件をクリアしながら進行します。終わりのないエンドレスと、目標付きのモードを行き来しながら遊べます。
 
+<!-- i18n:section:tips -->
 ### ゲーム攻略と戦略
 
 1.  **ライン消しを最優先にする：** 置き場所を決める際は、すぐに列を完成させるか、次のピースで完成させられる形を意識します。
@@ -28,6 +30,7 @@ locale: ja
 5.  **コンボに固執しない：** 多重ライン消しは気持ち良いですが、穴を作るなら単発消しで盤面を整える方が安全です。
 6.  **大型ピース用スペースを確保：** 3×3 や 1×5 のような大きな形を置けるスペースを常に少なくとも1つは残しておきましょう。
 
+<!-- i18n:section:controls -->
 ### 操作ガイド
 
 モバイルやタッチ操作を想定したワンタッチ操作です。
@@ -35,20 +38,25 @@ locale: ja
 *   **選択と配置：** 画面下部のピースを長押ししてドラッグし、配置したいマスに離します。
 *   **回転：** 一部バージョンでは配置前にタップして回転させられます（回転不可のモードもあります）。
 
+<!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
+<!-- i18n:faq:id=faq:block-breaker-king:is-there-a-time-limit-31247f0f -->
 **Q1. 制限時間はありますか？**
 
 通常はありません。盤面のスペース管理だけがプレッシャーです。
 
+<!-- i18n:faq:id=faq:block-breaker-king:can-i-rotate-the-blocks-5b286f35 -->
 **Q2. ピースは回転できますか？**
 
 モードによります。クラシックルールでは回転不可のことが多く、対称配置と余裕あるポケットが重要になります。
 
+<!-- i18n:faq:id=faq:block-breaker-king:what-is-the-goal-of-2c694d73 -->
 **Q3. 「ミッション」モードの目的は？**
 
 ステージごとに「10ライン消す」「X点達成」などの条件が設定されており、達成すると次のステージが解放されます。
 
+<!-- i18n:faq:id=faq:block-breaker-king:how-do-i-get-a-06d67069 -->
 **Q4. ハイスコアのコツは？**
 
 ハイスコアを狙うには以下を意識しましょう。
@@ -56,3 +64,4 @@ locale: ja
 *   複数ラインの同時消しでボーナスを得る
 *   長時間生存して配置数を増やす
 *   特殊ブロック（爆弾など）があるステージでは積極的に活用する
+
