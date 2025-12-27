@@ -6,10 +6,12 @@ title: "Sprunki Like Minecraft - 在线玩 Sprunki Like Minecraft"
 description: "你既是 Incredibox Sprunki 的忠实粉丝，又是 Minecraft 像素世界的狂热爱好者？那么 Sprunki Like Minecraft Mod 绝对会让你眼前一亮！"
 iframeSrc: "https://turbowarp.org/1095572358/embed"
 thumbnail: /new-images/thumbnails/sprunki-like-minecraft.png
-score: "4.6/5  (601 票)"
+score: "4.6/5  (601 votes)"
 tags: ["sprunki like minecraft"]
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 你既是 Incredibox Sprunki 的忠实粉丝，又是 Minecraft 像素世界的狂热爱好者？那么 Sprunki Like Minecraft Mod 绝对会让你眼前一亮！这款独特的 Mod 用 Minecraft 标志性的方块元素重新诠释了 Sprunki 角色，在保留 Sprunki 经典玩法的同时，带来焕然一新的视觉体验。
 
 ### 什么是 Sprunki Like Minecraft Mod？
@@ -27,3 +29,4 @@ Sprunki Like Minecraft Mod 是 Incredibox Sprunki 和 Minecraft 标志性方块�
 这款 Incredibox Sprunki Like Minecraft Mod 完美满足了 Minecraft 和 Sprunki 粉丝的需求，提供了一种有趣且富有创意的跨界体验。现在就跳入这个方块世界，开始你的音乐创作之旅吧！
 
 你还在等什么？来到 Sprunki Like Minecraft 的世界，让音符与像素碰撞，在指尖弹奏你的 Minecraft 旋律！如果你还想尝试其他 Sprunki 系列 Mod，比如 Sprunki Interactive 1.0、Sprunki Kiss Edition 和 Sprunki Melodies，那就赶快行动吧！
+

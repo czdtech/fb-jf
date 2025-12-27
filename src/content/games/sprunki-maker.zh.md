@@ -6,8 +6,9 @@ title: "Sprunki Maker (BIG update) - 在线玩 Sprunki Maker (BIG update)"
 description: "想拥有一个独一无二的 Sprunki 角色吗？现在机会来了！Sprunki Maker 让你释放想象力，从头到脚自定义你的专属 Sprunki，创造一个最能代表你的个性化角色！"
 iframeSrc: "https://www.playfiddlebops.com/embed/sprunki-marker/index.html"
 thumbnail: /new-images/thumbnails/sprunki-maker.png
-score: "4.8/5  (700 票)"
+score: "4.8/5  (700 votes)"
 tags: ["sprunki maker (big update)", "sprunki maker (big update) online"]
+releaseDate: 2025-12-04
 ---
 
 ### Sprunki Maker  介绍）
@@ -29,3 +30,4 @@ tags: ["sprunki maker (big update)", "sprunki maker (big update) online"]
 ### 一句话总结
 
 Sprunki Maker 让你告别千篇一律，创造一个独一无二的 Sprunki 角色。在 Sprunki 的世界里，你的 Sprunki 由你做主！快来加入 Sprunki Maker，释放你的创造力，创造一个最能代表你的个性化角色！
+

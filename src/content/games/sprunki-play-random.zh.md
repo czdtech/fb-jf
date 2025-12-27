@@ -6,8 +6,9 @@ title: "Sprunki Play Random - 在线玩 Sprunki Play Random"
 description: "Sprunki Play Random 是一款充满惊喜和乐趣的音乐创作游戏。如果你喜欢挑战和探索，那么 Sprunki Play Random 绝对适合你！"
 iframeSrc: "https://turbowarp.org/1148555262/embed"
 thumbnail: /new-images/thumbnails/sprunki-play-random.png
-score: "4.5/5  (614 票)"
+score: "4.5/5  (614 votes)"
 tags: ["sprunki play random", "sprunki play random online"]
+releaseDate: 2025-12-04
 ---
 
 ### Sprunki Play Random 介绍
@@ -20,6 +21,7 @@ Sprunki Play Random 是一款充满惊喜和乐趣的音乐创作游戏。如果
 
 ---
 
+<!-- i18n:section:how-to-play -->
 ### 如何玩 Sprunki Play Random？
 
 操作非常简单，用鼠标或手指就能轻松完成：
@@ -52,3 +54,4 @@ Sprunki Play Random 是一款充满惊喜和乐趣的音乐创作游戏。如果
 - **独特的随机性：** 每次创作都是全新的体验，让你始终充满期待。
 - **简单易用的操作：** 延续 Incredibox 的经典玩法，让你轻松上手。
 - **充满探索乐趣：** 发现隐藏的声音组合，解锁特殊动画和奖励曲目，让你的创作过程充满惊喜。
+

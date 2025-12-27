@@ -6,8 +6,9 @@ title: "Sprunki Dandy's World - 在线玩 Sprunki Dandy's World"
 description: "Sprunki Dandy's World 是一款独特的游戏，将音乐、艺术和故事融为一体。在这里，你可以释放你的创造力，创造属于你自己的音乐世界。"
 iframeSrc: "https://turbowarp.org/1075503895/embed"
 thumbnail: /new-images/thumbnails/sprunki-dandys-world.png
-score: "4.4/5  (304 票)"
+score: "4.4/5  (304 votes)"
 tags: ["sprunki dandy"]
+releaseDate: 2025-12-04
 ---
 
 ### Sprunki Dandy's World 介绍
@@ -27,6 +28,7 @@ Sprunki Dandy's World 玩起来超级简单，保证你一上手就停不下来�
 - **看你的角色嗨翻舞台：** 随着你不断添加乐器，你的角色会开始随着音乐表演和跳舞。看着他们生动地演绎你的作品，是不是很有成就感？
 - **分享你的创意杰作：** 创作出满意的作品后，你可以分享给你的朋友和家人，甚至发布到网上让更多人欣赏你的才华！
 
+<!-- i18n:section:tips -->
 ### Sprunki Dandy's World 游戏技巧
 
 - **大胆尝试不同组合：** 不要害怕尝试不同的乐器和音效组合。你尝试得越多，你的作品就会越独特、越有创意！
@@ -37,3 +39,4 @@ Sprunki Dandy's World 玩起来超级简单，保证你一上手就停不下来�
 ### 总结
 
 Sprunki Dandy's World 是一款独特的游戏，将音乐、艺术和故事融为一体。在这里，你可以释放你的创造力，创造属于你自己的音乐世界。你还在等什么？快来加入 Sprunki Dandy's World，开始你的音乐涂鸦之旅吧！
+

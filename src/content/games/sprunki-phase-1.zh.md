@@ -6,10 +6,12 @@ title: "Sprunki Phase 1 - 在线玩 Sprunki Phase 1"
 description: "Sprunki Phase 1 是进入奇妙 Sprunki 宇宙的完美入口。它提供了一种简单、直观的方式来体验音乐创作的乐趣，看看这个充满活力的创意世界在最初是什么样子。"
 iframeSrc: "https://turbowarp.org/1127823859/embed"
 thumbnail: /new-images/thumbnails/sprunki-phase-1.png
-score: "4.3/5  (96 票)"
+score: "4.3/5  (96 votes)"
 tags: ["sprunki phase 1"]
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 有没有想过那个让人完全上瘾的 Sprunki 音乐之旅最初是从哪里开始的？没错！一切都始于 Sprunki Phase 1！这款 Mod 带你回到最初，让你体验建立在经典 Incredibox 玩法基础上的 Sprunki 宇宙原始而充满活力的魅力。
 
 ### Sprunki Phase 1 到底有什么特别之处？
@@ -38,3 +40,4 @@ Sprunki Phase 1 不仅仅是简单的复制粘贴；它保持了核心乐趣的�
 ### 总结一下
 
 Sprunki Phase 1 是进入奇妙 Sprunki 宇宙的完美入口。它提供了一种简单、直观的方式来体验音乐创作的乐趣，看看这个充满活力的创意世界在最初是什么样子。无论你是 Sprunki 的老粉丝还是完全的新手，Sprunki Phase 1 都保证带来一段精彩有趣的音乐之旅。快来跳入 Sprunki Phase 1，只用指尖就能创作你的第一首 Sprunki 杰作，并与大家分享你的创作！🎧✨
+

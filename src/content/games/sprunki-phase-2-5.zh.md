@@ -6,10 +6,12 @@ title: "Sprunki Phase 2.5 - 在线玩 Sprunki Phase 2.5"
 description: "Sprunki Phase 2.5 (JOKE MOD) 不仅仅是一款游戏；它是一场充满惊喜和转折的音乐冒险。"
 iframeSrc: "https://html-classic.itch.zone/html/14324321/index.html"
 thumbnail: /new-images/thumbnails/sprunki-phase-2-5.png
-score: "4.3/5  (218 票)"
+score: "4.3/5  (218 votes)"
 tags: ["sprunki phase 2.5"]
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 觉得普通的音乐游戏有点太可预测了？渴望一些意想不到的、也许有点疯狂的东西？那么 Sprunki Phase 2.5  保证会吸引你的注意力（或者可能给你一个跳跃惊吓）！这不是你普通的节奏游戏；它是一场融合了创意、惊喜甚至一点黑色幽默的奇妙冒险，旨在让你发笑，甚至可能让你心跳加速！
 
 ### 那么，Sprunki Phase 2.5  是怎么回事？?）
@@ -39,3 +41,4 @@ Sprunki Phase 2.5 真正的亮点是它的「JOKE MOD」机制。当你把第 20
 ### 总结
 
 Sprunki Phase 2.5  不仅仅是一款游戏；它是一场充满惊喜和转折的音乐冒险。它完美地平衡了轻松的乐趣和意想不到的黑色幽默，在你创作的同时给你带来独特的刺激体验。准备好跳入 Sprunki Phase 2.5 的世界——拖动、放下、混合、搭配、创作精彩的音乐，并随时准备迎接那令人心跳加速的「惊喜」！
+

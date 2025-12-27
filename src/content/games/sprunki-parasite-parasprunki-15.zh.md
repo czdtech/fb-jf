@@ -6,10 +6,12 @@ title: "Incredibox Sprunksters - 在线玩 Incredibox Sprunksters"
 description: "准备好迎接 Sprunki Parasite ParaSprunki 15 了吗！这不是你可能习惯的阳光明媚的 Sprunki；它是由才华横溢的 mondaymuncher 制作的粉丝 Mod，充满了惊悚元素。"
 iframeSrc: "https://kdata1.com/2025/03/paraSprunki-update-15-0-part-222/"
 thumbnail: /new-images/thumbnails/sprunki-parasite-parasprunki-15.png
-score: "4.3/5  (372 票)"
+score: "4.3/5  (372 votes)"
 tags: ["incredibox sprunksters"]
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 你敢踏入一个笼罩着诡异氛围的音乐世界吗？准备好迎接 Sprunki Parasite ParaSprunki 15 了吗！这不是你可能习惯的阳光明媚的 Sprunki；它是由才华横溢的 mondaymuncher 制作的粉丝 Mod，充满了惊悚元素。它将熟悉的音乐创作体验扭曲成一场令人愉悦的恐怖冒险。
 
 ### Sprunki Parasite ParaSprunki 15 到底是什么？
@@ -34,3 +36,4 @@ tags: ["incredibox sprunksters"]
 ### 总结
 
 如果你喜欢有点恐怖、悬疑，同时还能发挥创意的游戏，那么 Sprunki Parasite ParaSprunki 15 绝对适合你。它成功地将音乐创作与惊悚氛围融合在一起，带来真正独特的体验。你可以在 playfiddlebops.com 等网站上轻松找到并玩这款 Mod。你准备好了吗？跳入 Sprunki Parasite ParaSprunki 15 的世界，感受被音乐「附身」的刺激吧！希望你玩得「开心」！
+

@@ -6,10 +6,12 @@ title: "Sprunki Halloween - 在线玩 Sprunki Halloween"
 description: "Sprunki Halloween 是一款让你在万圣节氛围中释放音乐才华的 Mod。快来加入 Sprunki Halloween，用惊悚有趣的音符迎接万圣节的到来！"
 iframeSrc: "https://turbowarp.org/1087683438/embed"
 thumbnail: /new-images/thumbnails/sprunki-halloween.png
-score: "4.2/5  (142 票)"
+score: "4.2/5  (142 votes)"
 tags: ["sprunki halloween"]
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 准备好迎接一场令人毛骨悚然的有趣音乐冒险了吗？Sprunki Halloween 来了！这个 Sprunki 系列的特别版结合了令人脊背发凉的节拍、诡异的音景和万圣节主题角色，让你创作属于自己的恐怖曲目。跳入最诡异的音乐游乐场，用乐趣和惊吓的混合来庆祝万圣节。
 
 ### 什么是 Sprunki Halloween？
@@ -22,6 +24,7 @@ Sprunki Halloween 是一款让你在万圣节氛围中释放音乐才华的 Mod�
 - **主题角色：** 与女巫、幽灵、吸血鬼等一起表演。
 - **动态视觉：** 万圣节主题动画会随着你的音乐做出反应。
 
+<!-- i18n:section:how-to-play -->
 ### 如何玩 Sprunki Halloween？
 
 - **组合角色：** 使用女巫、幽灵和吸血鬼等万圣节角色来构建你的音乐作品。
@@ -37,3 +40,4 @@ Sprunki Halloween 是一款让你在万圣节氛围中释放音乐才华的 Mod�
 - **时尚地庆祝：** 一场与众不同的万圣节音乐庆典。
 
 Sprunki Halloween 是一款让你在万圣节氛围中释放音乐才华的 Mod。快来加入 Sprunki Halloween，用惊悚有趣的音符迎接万圣节的到来！这是一款与众不同的万圣节主题音乐游戏——准备好时尚地庆祝吧！
+

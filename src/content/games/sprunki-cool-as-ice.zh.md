@@ -6,8 +6,9 @@ title: "Sprunki Cool As Ice - 在线玩 Sprunki Cool As Ice"
 description: "Sprunki: Cool As Ice 是 Incredibox 家族的一次重大创新，它通过独特的冬季主题为音乐创作带来了全新视角。"
 iframeSrc: "https://turbowarp.org/1114795409/embed"
 thumbnail: /new-images/thumbnails/sprunki-cool-as-ice.png
-score: "4.2/5  (324 票)"
+score: "4.2/5  (324 votes)"
 tags: ["sprunki cool as ice", "sprunki cool as ice online"]
+releaseDate: 2025-12-04
 ---
 
 ### Sprunki Cool As Ice 介绍
@@ -22,6 +23,7 @@ Sprunki: Cool As Ice 不仅仅是换个皮肤！它用迷人的冰雪视觉效�
 
 ---
 
+<!-- i18n:section:how-to-play -->
 ### 如何玩 Sprunki: Cool As Ice？
 
 其实很简单，只需掌握这几点：
@@ -51,3 +53,4 @@ Sprunki: Cool As Ice 不仅仅是换个皮肤！它用迷人的冰雪视觉效�
 ### 总结
 
 Sprunki: Cool As Ice 是 Incredibox 家族的一次重大创新，它通过独特的冬季主题为音乐创作带来了全新视角。引人入胜的玩法、独特的声音库和强大的社区互动，使 Sprunki: Cool As Ice 成为 Incredibox 爱好者和新手必须体验的作品！快来加入 Sprunki: Cool As Ice，用你的音乐点亮这个寒冷的冬天！
+

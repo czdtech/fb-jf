@@ -6,10 +6,12 @@ title: "Sprunki Pyramixed - 在线玩 Sprunki Pyramixed"
 description: "Sprunki Pyramixed 是一个出色的音乐创作平台，巧妙地平衡了易用性和深度，让每个人都能享受制作音乐的乐趣。"
 iframeSrc: "https://turbowarp.org/1133167510/embed"
 thumbnail: /new-images/thumbnails/sprunki-pyramixed-version.png
-score: "4.0/5  (254 票)"
+score: "4.0/5  (254 votes)"
 tags: ["sprunki pyramixed"]
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 准备好进入一个既有深度又极其有趣的音乐创作新领域了吗？来认识一下 Sprunki Pyramixed 吧！这个创新平台巧妙地将复杂的声音设计与直观、引人入胜的游戏玩法相结合。无论你是完全的音乐新手还是经验丰富的作曲家，你都会在这里找到你的创意乐园。
 
 ### 那么，这个 Sprunki Pyramixed 到底是什么？
@@ -31,6 +33,7 @@ tags: ["sprunki pyramixed"]
 - **活跃的社区连接：** 加入 Sprunki Pyramixed 大家庭，与其他音乐人建立联系，分享想法，一起探索无限的音乐可能性。
 - **易于上手却有深度：** Sprunki Pyramixed 为初学者提供了简单的入口，同时为经验丰富的玩家保持了足够的深度进行复杂的音乐探索。
 
+<!-- i18n:section:tips -->
 ### Sprunki Pyramixed 游戏技巧
 
 - **从简单开始：** 从基本模式开始，随着你掌握工具并在 Sprunki Pyramixed 中发现新的音乐视野，逐渐增加复杂性。
@@ -41,3 +44,4 @@ tags: ["sprunki pyramixed"]
 ### 总结
 
 Sprunki Pyramixed 是一个出色的音乐创作平台，巧妙地平衡了易用性和深度，让每个人都能享受制作音乐的乐趣。无论你只是想玩玩还是认真作曲，Sprunki Pyramixed 都能满足你。快来加入这个充满活力的社区，今天就开始建造你自己的声音奇迹吧！
+

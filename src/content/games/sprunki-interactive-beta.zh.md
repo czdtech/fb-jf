@@ -6,8 +6,9 @@ title: "Sprunki Interactive BETA - 在线玩 Sprunki Interactive BETA"
 description: "Sprunki Interactive BETA 不仅仅是 Sprunki 游戏的简单升级，它是一次打破规则的创新尝试。"
 iframeSrc: "https://turbowarp.org/1090663998/embed"
 thumbnail: /new-images/thumbnails/sprunki-interactive-beta.png
-score: "4.0/5  (407 票)"
+score: "4.0/5  (407 votes)"
 tags: ["sprunki interactive beta"]
+releaseDate: 2025-12-04
 ---
 
 ### 什么是 Sprunki Interactive BETA？
@@ -19,6 +20,7 @@ Sprunki Interactive BETA 不仅仅是 Sprunki 游戏的简单升级，它是一�
 - **动态角色移动：** 与传统的固定模型不同，Sprunki Interactive BETA 中的角色会不断在屏幕上移动，创造出令人兴奋的混乱。
 - **不可预测的互动：** 当这些充满活力的角色（包括 Sprunki 和其他伙伴）碰撞或互动时，它们会产生独特的声音，创造出自发且不断变化的音景。
 
+<!-- i18n:section:how-to-play -->
 ### 如何玩这款游戏
 
 在 Sprunki Interactive BETA 中，世界一开始是明亮、多彩且充满魅力的。你会认识三个可爱的角色：Durple，一个有触角的黄色生物；Brud，一个有翅膀的紫色角色；还有 Oren，一个有猫耳的粉色生物。每个角色都配备了自己的倒计时：Durple 的速度倒计时、Brud 的漫游倒计时和 Oren 的行为倒计时。作为玩家，你的任务是有效地管理这些倒计时，调整它们以确保每个角色的动作在恰当的时刻执行。
@@ -36,3 +38,4 @@ Sprunki Interactive BETA 不仅仅是 Sprunki 游戏的简单升级，它是一�
 - 用大量创意和想象力为你的世界观添加独特的声音、动画和节奏
 
 所以，跳入 Sprunki Interactive BETA，让声音和运动的混乱激发你的下一个音乐杰作！只有最具策略性的玩家才能控制可爱与恐怖之间的平衡。
+

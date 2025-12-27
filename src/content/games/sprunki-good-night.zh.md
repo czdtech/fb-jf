@@ -6,8 +6,9 @@ title: "Sprunki Good Night - 在线玩 Sprunki Good Night"
 description: "Sprunki Good Night 是一款让你在疲惫的一天后彻底放松身心的 Mod。来到 Sprunki Good Night，用温柔平和的节拍创作一首完美的摇篮曲，迎接甜美的梦乡！"
 iframeSrc: "https://turbowarp.org/1178264025/embed"
 thumbnail: /new-images/thumbnails/sprunki-good-night.png
-score: "4.2/5  (227 票)"
+score: "4.2/5  (227 votes)"
 tags: ["sprunki good night"]
+releaseDate: 2025-12-04
 ---
 
 ### 如何在 Sprunki Good Night 中创作？
@@ -27,3 +28,4 @@ tags: ["sprunki good night"]
 - **平和宁静的视觉效果：** 平和宁静的视觉效果（如月光、闪烁的萤火虫和温暖的夜晚氛围）让你感觉仿佛置身于星空之下。
 
 Sprunki Good Night 是一款让你在疲惫的一天后彻底放松身心的 Mod。来到 Sprunki Good Night，用温柔平和的节拍创作一首完美的摇篮曲，迎接甜美的梦乡！进入 Sprunki Good Night Mod，为完美的音乐之夜创作放松、平和的节拍！
+

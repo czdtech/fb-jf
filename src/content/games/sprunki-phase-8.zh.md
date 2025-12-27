@@ -6,10 +6,12 @@ title: "Sprunki Phase 8 - 在线 Sprunki Phase 8 游戏"
 description: "Sprunki Phase 8 是一次大胆的实验，将音乐创作与恐怖美学成功融合在一起。在这里，你可以一边享受创作音乐的乐趣，一边探索黑暗而神秘的世界。"
 iframeSrc: "https://turbowarp.org/1140266189/embed"
 thumbnail: /new-images/thumbnails/sprunki-phase-8.png
-score: "4.2/5  (396 票)"
+score: "4.2/5  (396 votes)"
 tags: ["sprunki phase 8"]
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 你敢真正跳入音乐的黑暗面吗？你是否渴望一种能让心跳加速、背脊发凉的创意体验？Sprunki Phase 8 就是为此而来，它远不止是一个节奏游戏——而是一场令人毛骨悚然的冒险！这一最新章节将你带入一个全新的 Sprunki 世界，其中充满了恐怖元素和诡异氛围。
 
 ### Sprunki Phase 8 到底是什么？
@@ -29,3 +31,4 @@ tags: ["sprunki phase 8"]
 ### 总结
 
 Sprunki Phase 8 是一次大胆的实验，将音乐创作与恐怖美学成功结合在一起。它为你提供了一个充满神秘与创意的平台，让你在探索黑暗面的同时，依然能享受音乐带来的乐趣。如果你对 Sprunki 世界的演化感到好奇，不妨回头体验一下之前的经典章节，比如标志性的 Sprunki Phase 7。当然，现在最重要的问题是：你准备好迎接挑战了吗？立即跳入 Sprunki Phase 8，释放内心的暗黑艺术家，谱写属于你的惊悚交响曲吧！
+

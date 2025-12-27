@@ -6,8 +6,9 @@ title: "Sprunki Egg's Mix - 在线玩 Sprunki Egg's Mix"
 description: "Sprunki Egg's Mix 是一款视觉惊艳、智力刺激的益智游戏，适合益智游戏爱好者、休闲玩家以及欣赏独特游戏体验的人。"
 iframeSrc: "https://turbowarp.org/1102648676/embed"
 thumbnail: /new-images/thumbnails/sprunki-eggs-mix.png
-score: "3.9/5  (125 票)"
+score: "3.9/5  (125 votes)"
 tags: ["sprunki egg"]
+releaseDate: 2025-12-04
 ---
 
 ### Sprunki Egg's Mix 有什么特别之处？
@@ -38,3 +39,4 @@ Sprunki Egg's Mix 最大的魅力在于 Sprunki Egg 组合的不可预测性。�
 ### 总结
 
 Sprunki Egg's Mix 是一款视觉惊艳、智力刺激的益智游戏，适合益智游戏爱好者、休闲玩家以及欣赏独特游戏体验的人。它明亮、欢快的美学和直观的控制使各种技能水平的玩家都能轻松上手，而其具有挑战性的谜题为经验丰富的益智游戏老手提供了令人满意的成就感。让我们在 Sprunki Egg's Mix 中开始你的蛋蛋冒险吧！
+

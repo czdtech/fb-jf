@@ -6,12 +6,15 @@ title: "Sprunki Christmas - 在线玩 Sprunki Christmas"
 description: "Sprunki Christmas 是一款让你在节日氛围中尽情享受游戏乐趣的 Mod。来到 Sprunki Christmas 的世界，用充满活力的音乐点亮你的圣诞节！"
 iframeSrc: "https://turbowarp.org/1104040581/embed"
 thumbnail: /new-images/thumbnails/sprunki-christmas.png
-score: "4.6/5  (486 票)"
+score: "4.6/5  (486 votes)"
 tags: ["sprunki christmas"]
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 准备好迎接一场充满节日氛围的音乐冒险了吗？Sprunki Christmas 将带你进入一个充满欢乐和兴奋的 Sprunki 宇宙，在这里你将踏上一段有趣的冒险，包括谜题、挑战和圣诞主题的收藏品。这款游戏结合了充满活力的视觉效果、迷人的角色和引人入胜的玩法，为所有年龄段的玩家带来愉悦的体验。
 
+<!-- i18n:section:how-to-play -->
 ### 如何玩 Sprunki Christmas？
 
  - **目标：** 帮助 Sprunki 角色通过完成关卡、收集礼物和克服冬季主题挑战来传播节日欢乐。
@@ -33,3 +36,4 @@ tags: ["sprunki christmas"]
 - **社区挑战：** 在节日活动期间与朋友组队或在排行榜上竞争。
 
 Sprunki Christmas 是一款让你在节日氛围中尽情享受游戏乐趣的 Mod。来到 Sprunki Christmas 的世界，用充满活力的音乐点亮你的圣诞节！无论你是想沉浸在精美的冬季仙境中，还是体验与朋友和社区一起玩耍的刺激，Sprunki Christmas 都能满足你的需求！
+

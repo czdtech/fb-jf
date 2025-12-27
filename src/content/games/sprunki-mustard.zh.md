@@ -6,8 +6,9 @@ title: "Sprunki Mustard - 在线玩 Sprunki Mustard"
 description: "在这款 Sprunki Mustard Mod 中，所有角色都被重新塑造，呈现出统一的芥末黄配色方案，为原本充满活力的画面增添了一种挥之不去的诡异感。"
 iframeSrc: "https://html-classic.itch.zone/html/14281578/index.html"
 thumbnail: /new-images/thumbnails/sprunki-mustard.png
-score: "3.9/5  (827 票)"
+score: "3.9/5  (827 votes)"
 tags: ["sprunki mustard"]
+releaseDate: 2025-12-04
 ---
 
 ### 什么是 Sprunki Mustard？
@@ -34,3 +35,4 @@ Sprunki Mustard 的操作简单直接。Incredibox 系列的粉丝肯定不会�
 ### 为什么要玩 Sprunki Mustard？
 
 Incredibox 和 Sprunki 的粉丝一定会喜欢 Sprunki Mustard Mod 带来的角色美学新诠释，以及这款 Mod 为音乐制作玩法带来的新奇诡异氛围。如果你敢于挑战自己，就来到 Sprunki Mustard 的世界，用怪诞的音符演奏属于你自己的恐怖乐章吧！
+

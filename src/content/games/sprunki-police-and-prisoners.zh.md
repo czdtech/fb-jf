@@ -6,8 +6,9 @@ title: "Sprunki Police And Prisoners - 在线玩 Sprunki Police And Prisoners"
 description: "Sprunki Police and Prisoners Mod 是对著名 Incredibox Sprunki 现实的一次引人入胜且创新的修改。"
 iframeSrc: "https://turbowarp.org/1113493234/embed"
 thumbnail: /new-images/thumbnails/sprunki-police-and-prisoners.png
-score: "3.9/5  (325 票)"
+score: "3.9/5  (325 votes)"
 tags: ["sprunki police and prisoners"]
+releaseDate: 2025-12-04
 ---
 
 ### 什么是 Sprunki Police and Prisoners Mod？
@@ -32,3 +33,4 @@ Sprunki Police and Prisoners Mod 是对著名 Incredibox Sprunki 现实的一次
 无论你是展示你的音乐才华还是只是享受放松的时光，Sprunki Police and Prisoners Mod 都承诺带来无尽的娱乐。快来拖动、放下和组合声音，用一群可爱的怪物角色创作令人难忘的朗朗上口的曲调！
 
 沉浸在这段奇幻的旅程中，Sprunki Police and Prisoners 将音乐创作与一群视觉迷人的角色和丰富、沉浸式的音景融为一体。加入这场音乐和色彩的狂欢，让你的创造力自由流淌！
+

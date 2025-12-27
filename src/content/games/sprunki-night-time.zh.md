@@ -6,8 +6,9 @@ title: "Sprunki Night Time - 在线玩 Sprunki Night Time"
 description: "Sprunki Night Time 带你进入一个充满神秘和未知的黑暗世界，让你在夜晚的寂静中体验一场迷幻的音乐之旅。快来加入 Sprunki Night Time，用你的音乐点亮这深邃而神秘的夜晚！"
 iframeSrc: "https://turbowarp.org/1100659044/embed"
 thumbnail: /new-images/thumbnails/sprunki-night-time.png
-score: "4.2/5  (324 票)"
+score: "4.2/5  (324 votes)"
 tags: ["sprunki night time", "sprunki night time online"]
+releaseDate: 2025-12-04
 ---
 
 ### Sprunki Night Time 介绍
@@ -18,6 +19,7 @@ tags: ["sprunki night time", "sprunki night time online"]
 
 简单来说，Sprunki Night Time 就是用音乐来营造夜间氛围。霓虹灯照亮的视觉效果、流畅的动画和电影般的感觉使这款游戏不仅是听觉享受，也是视觉盛宴。
 
+<!-- i18n:section:how-to-play -->
 ### 如何玩 Sprunki Night Time？
 
 其实很简单，只需掌握这几点：
@@ -43,3 +45,4 @@ tags: ["sprunki night time", "sprunki night time online"]
 ### 总结
 
 Sprunki Night Time 带你进入一个充满神秘和未知的黑暗世界，让你在夜晚的寂静中体验一场迷幻的音乐之旅。快来加入 Sprunki Night Time，用你的音乐点亮这深邃而神秘的夜晚！
+
