@@ -37,6 +37,7 @@ type TargetLocale = 'zh' | 'ja' | 'es' | 'fr' | 'de' | 'ko';
 type Options = {
   apply: boolean;
   conservative: boolean;
+  trimFaqExtras: boolean;
   offset: number;
   limit: number | null;
   locales: TargetLocale[];
@@ -97,6 +98,7 @@ function parseArgs(argv: string[]): Options {
 
   const apply = args.includes('--apply');
   const conservative = args.includes('--conservative') || !args.includes('--no-conservative');
+  const trimFaqExtras = args.includes('--trim-faq-extras');
 
   const offsetFlag = args.indexOf('--offset');
   const limitFlag = args.indexOf('--limit');
@@ -128,6 +130,7 @@ function parseArgs(argv: string[]): Options {
   return {
     apply,
     conservative,
+    trimFaqExtras,
     offset: Number.isFinite(offset) && offset >= 0 ? offset : 0,
     limit: limit != null && Number.isFinite(limit) && limit > 0 ? limit : null,
     locales,
@@ -372,7 +375,8 @@ function looksLikeFaqQuestionLine(locale: TargetLocale, line: string): boolean {
 function applyFaqIdsToLocale(
   contentLines: string[],
   locale: TargetLocale,
-  expectedIds: string[]
+  expectedIds: string[],
+  options: { trimFaqExtras: boolean }
 ): { nextLines: string[]; inserted: number; removed: number; foundQuestions: number | null; skippedReasons: string[] } {
   const skippedReasons: string[] = [];
   const nextLines = contentLines.slice();
@@ -402,8 +406,43 @@ function applyFaqIdsToLocale(
   }
 
   if (questionLineIndices.length !== expectedIds.length) {
-    skippedReasons.push(`faq-question-count-mismatch:expected=${expectedIds.length}:found=${questionLineIndices.length}`);
-    return { nextLines, inserted: 0, removed, foundQuestions: questionLineIndices.length, skippedReasons };
+    if (options.trimFaqExtras && questionLineIndices.length > expectedIds.length) {
+      // Trim extra FAQ entries beyond expected count (English is canonical). Remove whole Q/A blocks.
+      const keep = expectedIds.length;
+      const extra = questionLineIndices.slice(keep);
+      // Remove from bottom to top to keep indices stable.
+      for (let idx = extra.length - 1; idx >= 0; idx--) {
+        const qi = extra[idx];
+        const nextQi = idx + 1 < extra.length ? extra[idx + 1] : endAfter;
+        nextLines.splice(qi, Math.max(0, nextQi - qi));
+      }
+
+      // Recompute question lines after trimming.
+      const endAfterTrim = findNextSectionMarkerIndex(nextLines, markerIndex);
+      const trimmedQuestionLineIndices: number[] = [];
+      for (let i = markerIndex + 1; i < endAfterTrim; i++) {
+        if (looksLikeFaqQuestionLine(locale, nextLines[i])) trimmedQuestionLineIndices.push(i);
+      }
+
+      if (trimmedQuestionLineIndices.length !== expectedIds.length) {
+        skippedReasons.push(
+          `faq-question-count-mismatch:expected=${expectedIds.length}:found=${trimmedQuestionLineIndices.length}`
+        );
+        return {
+          nextLines,
+          inserted: 0,
+          removed,
+          foundQuestions: trimmedQuestionLineIndices.length,
+          skippedReasons,
+        };
+      }
+
+      // Use the trimmed indices from here on.
+      questionLineIndices.splice(0, questionLineIndices.length, ...trimmedQuestionLineIndices);
+    } else {
+      skippedReasons.push(`faq-question-count-mismatch:expected=${expectedIds.length}:found=${questionLineIndices.length}`);
+      return { nextLines, inserted: 0, removed, foundQuestions: questionLineIndices.length, skippedReasons };
+    }
   }
 
   let inserted = 0;
@@ -901,7 +940,7 @@ async function alignPair(
   const faqExpected = englishHardpoints.faq.ids;
   const faqResult =
     faqExpected.length > 0
-      ? applyFaqIdsToLocale(nextContentLines, locale, faqExpected)
+      ? applyFaqIdsToLocale(nextContentLines, locale, faqExpected, { trimFaqExtras: options.trimFaqExtras })
       : { nextLines: nextContentLines, inserted: 0, removed: 0, foundQuestions: null, skippedReasons: [] as string[] };
   nextContentLines = faqResult.nextLines;
   skippedReasons.push(...faqResult.skippedReasons);
