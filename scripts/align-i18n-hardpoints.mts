@@ -262,10 +262,31 @@ function findSectionInsertIndex(
     return { index: firstNonEmptyIndex(lines) };
   }
 
-  const candidates = headings
+  const aliasesFor = (target: string): string[] => {
+    // Some templates use "Gameplay Guide" under tips in English, while locales may translate it
+    // closer to "How to Play". Use a conservative fallback mapping to reduce skipped insertions.
+    if (target === 'tips') return ['how-to-play'];
+    return [];
+  };
+
+  const primary = headings
     .filter((h) => h.index >= startAt)
     .filter((h) => classifyHeading(locale, h.text) === section)
     .map((h) => h.index);
+
+  const candidates = (() => {
+    if (primary.length > 0) return primary;
+    const aliases = aliasesFor(section);
+    if (aliases.length === 0) return primary;
+
+    return headings
+      .filter((h) => h.index >= startAt)
+      .filter((h) => {
+        const c = classifyHeading(locale, h.text);
+        return c != null && aliases.includes(c);
+      })
+      .map((h) => h.index);
+  })();
 
   if (candidates.length === 0) return { index: null, reason: `missing-heading:${section}` };
   if (candidates.length > 1 && options.conservative) return { index: null, reason: `ambiguous-heading:${section}` };
