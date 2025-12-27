@@ -7,6 +7,7 @@ urlstr: "dandyrunki-retake"
 score: "3.7/5  (255 votes)"
 tags: ["dandyrunki retake", "dandyrunki retake online"]
 locale: ja
+releaseDate: 2025-12-04
 ---
 
 ### Dandyrunki Retake の魅力とは？
@@ -32,3 +33,4 @@ locale: ja
 ### 簡単操作で無限の楽しさ
  
 Dandyrunki Retakeでは、誰でも簡単に始めて、様々なリズムやメロディを自由に探索できます。カジュアルなプレイヤーでも、熱心な音楽ファンでも、このリミックスバージョンで自分だけの楽しみを見つけることができるでしょう。Dandyrunki Retakeに参加して、あなたの音楽制作の旅を始めましょう！
+

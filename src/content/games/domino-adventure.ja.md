@@ -1,10 +1,10 @@
 ---
 title: Domino Adventure ドミノ・アドベンチャー
 description: 「Domino Adventure」は世界を旅するドミノゲーム。戦略的に牌を並べて対戦相手を出し抜き、勝利を重ねてトロフィーロードを進もう。
-iframeSrc: 'https://dominoadventure.h5games.usercontent.goog/v/9sskl4s1clbk0/'
+iframeSrc: 'https://28vlnkkhq8gjg.h5games.usercontent.goog/v/4mi9k9oin4dn8/'
 thumbnail: /new-images/thumbnails/domino-adventure.png
 urlstr: domino-adventure
-score: 4.4/5  (2200 votes)
+score: 4.3/5  (2144 votes)
 tags:
   - card
   - puzzle
@@ -14,6 +14,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 *Domino Adventure（ドミノ・アドベンチャー）*は、古典的なドミノ・ゲームに冒険と進行要素（プログレッション）を加えた、現代的なデジタル・ドミノゲームです。
@@ -21,6 +22,7 @@ locale: ja
 
 
 ラウンドの勝者は、相手の手元に残った牌のピップ（目）の合計を得点として獲得します。これを複数ラウンド繰り返し、先に目標スコア（例：画面に表示される15点など）に到達したプレイヤーが勝利です。
+<!-- i18n:section:tips -->
 ### ゲーム攻略と戦略
 
 1.  **ダブル牌は早めに:** 左右同じ目の牌（ダブル・ファイブなど）は、繋げる場所が1つしかないため使いにくいです。手元に残ると不利になるので、早めに処理しましょう。
@@ -31,24 +33,31 @@ locale: ja
     *   **ブロックモード:** 出せる牌がない時はパスします。相手の手を封じる戦略が重要です。
     *   **ドローモード:** 出せる牌がない時は、出せる牌が出るまで山（ボーンヤード）から引き続けなければなりません。運要素が強くなります。
 
+<!-- i18n:section:controls -->
 ### 操作ガイド
 
 
 このゲームは、ドラッグ＆ドロップまたはクリックだけで直感的にプレイできるように設計されています。
 *   **牌を出す:** 自分のラックから出したい牌をクリックまたはドラッグして、場の繋がる場所に置きます。有効な場所があれば自動的に吸着します。
 
+<!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
 
+<!-- i18n:faq:id=faq:domino-adventure:how-do-i-win-a-e21b4f7d -->
 **1. ラウンドの勝利条件は？**
 手配を最初にすべて出し切ったプレイヤーが勝ちです。また、全員がブロック（出せる牌がない状態）になった場合は、手元に残ったピップ（目）の合計が最も少ないプレイヤーが勝利になります。
 
+<!-- i18n:faq:id=faq:domino-adventure:how-is-scoring-calculated-d2a2cb51 -->
 **2. 得点はどう計算されますか？**
 ラウンド終了時、勝者は敗者（相手）の手元に残った牌のピップ（目）の合計を得点として獲得します。例えば相手に[6-5]と[2-1]が残っていれば、(6+5+2+1)=14点になります。
 
+<!-- i18n:faq:id=faq:domino-adventure:whats-the-difference-between-b-e92d3a22 -->
 **3. 「ブロックモード」と「ドローモード」の違いは？**
 *   **ブロックモード:** 出せる牌がない時は何もせず、そのままターンをパスします。
 *   **ドローモード:** 出せる牌がない時は、出せる牌が引けるまで山（ボーンヤード）から牌を引き続けます。
 
+<!-- i18n:faq:id=faq:domino-adventure:what-is-the-trophy-road-d3a9b95e -->
 **4. トロフィーロードとは何ですか？**
 プレイや勝利で報酬を獲得できる進行システムです。新しい牌セットなどのコレクション要素やコスメティック報酬が含まれることがあります。
+
