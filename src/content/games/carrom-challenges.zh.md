@@ -3,17 +3,18 @@ locale: zh
 urlstr: carrom-challenges
 title: Carrom Challenges 卡罗姆挑战
 description: 《Carrom Challenges 卡罗姆挑战》以桌上卡罗姆为核心，通过设计各类练习与挑战关卡，考验你用 Striker 击打棋子 入袋的精度与角度控制。
-iframeSrc: 'https://carromchallenges.h5games.usercontent.goog/v/42tup4vbvgto0/'
+iframeSrc: 'https://6m4vq4nu17rto.h5games.usercontent.goog/v/1g4ai19abgj0g/'
 thumbnail: /new-images/thumbnails/carrom-challenges.png
 tags:
   - sports
   - puzzle
   - action
-score: 4.2/5  (1980 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
+score: 4.1/5  (1979 votes)
+releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### 详细游戏介绍
 
 *Carrom Challenges* 以南亚地区流行的桌面游戏 Carrom 为基础，做成了更偏单人练习与技巧挑战的模式。你需要使用较大的击球圆片 **Striker**，通过弹射让自己的棋子（通常为黑 / 白小圆片）进入四个角袋。
@@ -35,6 +36,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
    - Queen 可在你已合法入袋至少一枚己方棋子后击入；  
    - 击入 Queen 后，必须在**同一回合的下一击**再入袋一枚己方棋子，才算成功“Cover Queen”，否则 Queen 会被放回棋盘中央。  
 
+<!-- i18n:section:tips -->
 ### 挑战策略与技巧
 
 -   **从简单直线球开始建立手感**  
@@ -49,21 +51,26 @@ releaseDate: 2025-10-17T00:00:00.000Z
 -   **在 Queen 相关关卡中谨慎规划顺序**  
     若某一挑战要求击入 Queen 并 Cover，必须提前规划好那枚“Cover 用”的棋子位置，避免先打进 Queen，却因下一杆没有可用目标而功亏一篑。
 
+<!-- i18n:section:controls -->
 ### 操作指南
 
 -   **摆放 Striker：** 在己方底线允许范围内左右移动 Striker，选择出球位置。  
-
-答：击入 Queen 后，你必须在下一杆再入袋一枚己方棋子；否则 Queen 会被放回棋盘。
 -   **瞄准与发射：** 按住并拖动 Striker，拉出瞄准线；拉得越长力度越大，松开即完成击球。  
-
-
-答：部分版本提供摩擦/滑行速度设置；如果没有，就用更轻的力度来适应台面速度。
-
-- 问：台面速度可以调整吗？
-
-答：控制反弹角度，并在薄擦击球时降低力度，能减少 Striker 自己入袋的风险。
+<!-- i18n:section:faq -->
 ### 常见问题解答（FAQ）
-*   **问：什么是“Cover Queen”？**  
-    *   **答：** 在合法击入红色 Queen 后，必须在同一回合紧接着再入袋一枚己方棋子，Queen 才算成功“Cover”；否则会被放回中心。
-*   **问：击入 Striker 算犯规吗？**  
-    *   **答：** 是的。Striker 入袋通常被视为犯规，你会失去本轮机会，并被罚将一枚已入袋棋子放回棋盘中央（具体视关卡规则而定）。
+
+<!-- i18n:faq:id=faq:carrom-challenges:what-is-covering-the-queen-e8147197 -->
+- 问：什么是“Cover Queen”（覆盖皇后）？
+  
+  答：击入 Queen 后，你必须在下一杆再入袋一枚自己的棋子；否则 Queen 会被放回棋盘。
+
+<!-- i18n:faq:id=faq:carrom-challenges:how-to-avoid-scratches-565f01b5 -->
+- 问：如何避免自杀（Scratch）？
+  
+  答：控制反弹角度，并在薄擦击球时降低力度，减少 Striker 自己入袋的风险。
+
+<!-- i18n:faq:id=faq:carrom-challenges:are-board-speeds-adjustable-6dcdff99 -->
+- 问：台面速度可以调整吗？
+  
+  答：部分版本提供摩擦/滑行速度设置；如果没有，就用更轻的力度来适应台面速度。
+

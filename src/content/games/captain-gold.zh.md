@@ -3,22 +3,24 @@ locale: zh
 urlstr: captain-gold
 title: Captain Gold 黄金船长
 description: 《Captain Gold 黄金船长》中，你要操控海盗船长抛出钩爪，在限定时间或次数内抓回尽可能多的金块与宝石，避开 石头和炸药。
-iframeSrc: 'https://captaingold.h5games.usercontent.goog/v/2b7dhu3jscc90/'
+iframeSrc: 'https://5djvqvgrgqc0o.h5games.usercontent.goog/v/58gqt26rjid7o/'
 thumbnail: /new-images/thumbnails/captain-gold.png
 tags:
   - puzzle
   - casual
-score: 4.0/5  (1720 votes)
+score: 3.9/5  (1683 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### 详细游戏介绍
 
 *Captain Gold* 是一款类似“黄金矿工”玩法的休闲游戏。画面中，黄金船长会在船边挥动挂钩，钩爪以固定的速度左右摆动。当你按下按键时，钩爪会沿当前方向伸出去，一旦碰到金块、宝石或其他物品，就会将其拉回船上并获得相应的得分或效果。
 
 关卡通常会有时间或目标分数限制，一些大型金块需要更长时间拉回，而石头价值低且浪费时间，炸药甚至会直接扣分或中断当前抓取。
 
+<!-- i18n:section:tips -->
 ### 游戏策略与通关思路
 
 1.  **优先瞄准高价值目标**  
@@ -36,20 +38,26 @@ releaseDate: 2025-10-18T00:00:00.000Z
 5.  **善用道具与特殊物品**  
     某些版本提供炸药、加速、时间延长等道具；也会有加时间的特殊物品。尽可能保证在关键时刻使用这些资源，例如在剩余时间不多但仍有高价值目标未抓取时。
 
+<!-- i18n:section:controls -->
 ### 操作指南
 
 -   **抛出钩爪：** 当钩爪摆动到合适角度时，点击鼠标或按下指定键即可让钩爪伸出。  
 -   **使用道具：** 若界面有炸药 / 加速等道具按钮，在钩爪拉回过程中点击即可生效（例如炸掉已抓住的石块）。  
 
+<!-- i18n:section:faq -->
 ### 常见问题解答（FAQ）
+<!-- i18n:faq:id=faq:captain-gold:i-keep-coming-up-short-82efa75e -->
 - 问：我总是差一点达不到目标金额，怎么办？
   
   答：优先抓最大的金块/宝袋，尽量忽略石头等低价值目标；如果关卡间有商店升级，前期优先提升“拉回速度/收卷速度”等关键能力。
 
+<!-- i18n:faq:id=faq:captain-gold:is-dynamite-worth-it-f0153112 -->
 - 问：炸药值得买吗/用吗？
   
   答：值得，尤其是石头很多的关卡。误抓到低价值但很耗时的物品时，用炸药丢掉能显着节省时间。
 
+<!-- i18n:faq:id=faq:captain-gold:can-i-control-hook-angle-a0dde751 -->
 - 问：能不能更精准地控制钩爪角度？
   
   答：关键是熟悉摆动节奏。由于摆动惯性，通常要比“正对目标”的时刻稍微早一点出手，命中率会更高。
+
