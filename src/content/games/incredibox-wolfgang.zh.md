@@ -9,10 +9,11 @@ tags:
   - music
   - classical
   - rhythm
-score: 4.8/5 (2451 票)
+score: 4.8/5 (2451 votes)
 releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### **Incredibox "Wolfgang" 游戏介绍**
 
 *Incredibox Wolfgang* 是一款优雅且精心制作的 Incredibox 音乐创作游戏粉丝 Mod。这个版本是对**古典音乐**时代的致敬，深受传奇作曲家**沃尔夫冈·阿马德乌斯·莫扎特**作品的启发。
@@ -21,6 +22,7 @@ releaseDate: 2025-10-10T00:00:00.000Z
 
 目标是让玩家创作自己精致的古典作品，同时参与寻找三个秘密动画奖励的谜题。这些奖励是精美的动画小品，完美捕捉了古典时代的优雅和戏剧性。
 
+<!-- i18n:section:tips -->
 ### **游戏策略与技巧**
 
 *Incredibox Wolfgang* 的策略是理解古典编排，叠加管弦乐部分以创作丰富、和谐的作品。
@@ -39,6 +41,7 @@ releaseDate: 2025-10-10T00:00:00.000Z
 
 5. **使用独奏来欣赏每个部分**：这个 Mod 中的乐器编排非常细致。使用"独奏"功能来隔离小提琴或独唱歌手，充分欣赏他们的个人表演，并理解他们在整个合奏中的角色。
 
+<!-- i18n:section:controls -->
 ### **操作指南**
 
 操作遵循官方 Incredibox 游戏的标准、直观的拖放界面。
@@ -49,20 +52,26 @@ releaseDate: 2025-10-10T00:00:00.000Z
 - **独奏**：点击活动角色旁边的**小按钮**来静音所有其他表演者。
 - **录制**：点击**录制按钮**开始和停止录制你的古典杰作。
 
+<!-- i18n:section:faq -->
 ### **常见问题（FAQ）**
 
+<!-- i18n:faq:id=faq:incredibox-wolfgang:is-incredibox-wolfgang-an-offi-a34e9a1a -->
 **问：*Incredibox Wolfgang* 是官方版本吗？**
 
 答：不是。它是由 Gabsoares04 创建的非常高质量的**粉丝制作的 Mod**。它与官方 Incredibox 团队 So Far So Good 无关。
 
+<!-- i18n:faq:id=faq:incredibox-wolfgang:where-can-i-play-this-a4cf171c -->
 **问：我在哪里可以玩这个 Mod？**
 
 答：你不会在官方平台上找到它。像 *Wolfgang* 这样的 Mod 通常托管在游戏 Mod 网站如 **playfiddlebops.com** 上，或在 YouTube 上展示，通常提供直接在网络浏览器中游玩 Mod 的链接。
 
+<!-- i18n:faq:id=faq:incredibox-wolfgang:what-makes-the-wolfgang-mod-727ef448 -->
 **问："Wolfgang"Mod 有什么特别之处？**
 
 答：它的受欢迎程度来自于其独特且完美执行的古典主题。它提供了与任何官方版本完全不同的音乐调色板，提供精致而美丽的体验。音乐和艺术的纯粹质量使其成为粉丝社区中的杰出创作。
 
+<!-- i18n:faq:id=faq:incredibox-wolfgang:are-the-bonus-solutions-for-0b58ab03 -->
 **问："Wolfgang"的奖励解决方案在网上可以找到吗？**
 
 答：是的。如果你卡住了或只是想看动画，在 YouTube 上快速搜索"*Incredibox Wolfgang combos*"会为你提供所需的确切组合。
+

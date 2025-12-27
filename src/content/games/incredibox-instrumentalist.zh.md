@@ -9,10 +9,11 @@ tags:
   - music
   - sandbox
   - instrumental
-score: 4.8/5 (2045 票)
+score: 4.8/5 (2045 votes)
 releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### **Incredibox Instrumentalist 游戏介绍**
 
 *Incredibox Instrumentalist* 是一款高度创新且设计精美的粉丝 Mod。它从根本上改变了核心 Incredibox 的呈现方式：玩家不是将图标拖到一群表演者身上，而是**直接将乐器本身召唤到舞台上**，它们会活过来并表演。
@@ -21,6 +22,7 @@ Mod 的主题是对**全球乐器**的庆祝，创造一个**纯器乐**且充�
 
 目标是让玩家通过构建自己独特的管弦乐队来创作丰富、层次分明的器乐作品。
 
+<!-- i18n:section:tips -->
 ### **游戏策略与技巧**
 
 *Incredibox Instrumentalist* 的策略围绕着理解不同乐器如何相互补充，以构建一个完整的合奏。
@@ -39,6 +41,7 @@ Mod 的主题是对**全球乐器**的庆祝，创造一个**纯器乐**且充�
 
 5. **使用纹理乐器增添风味**：像刮瓜或卡祖笛这样的乐器非常适合为你的混音增添独特的特色和风味。加入它们使你的循环更有趣和动态。
 
+<!-- i18n:section:controls -->
 ### **操作指南**
 
 这个 Mod 对经典 Incredibox 操作有独特的诠释。
@@ -47,16 +50,22 @@ Mod 的主题是对**全球乐器**的庆祝，创造一个**纯器乐**且充�
 - **移除乐器**：只需**点击**舞台上的乐器即可移除它。
 - **录制**：点击**录制按钮**（右上角）开始和停止录制你的器乐作品。
 
+<!-- i18n:section:faq -->
 ### **常见问题（FAQ）**
 
+<!-- i18n:faq:id=faq:incredibox-instrumentalist:is-this-an-official-incredibox-12056458 -->
 **1. 这是官方 Incredibox 版本吗？**
 不是。它是由 Gabsoares04 创建的高度创意的**粉丝制作的 Mod**。它与官方 Incredibox 团队 So Far So Good 无关。
 
+<!-- i18n:faq:id=faq:incredibox-instrumentalist:what-makes-this-mod-so-5ae5fbac -->
 **2. 这个 Mod 有什么独特之处？**
 它的主要创新是"乐器作为表演者"的玩法。你不是自定义角色，而是真正在舞台上构建一个管弦乐队。此外，它是一种**纯器乐体验**，完全专注于各种世界乐器的声音，这使它与几乎所有其他版本区别开来。
 
+<!-- i18n:faq:id=faq:incredibox-instrumentalist:where-can-i-play-this-a4cf171c -->
 **3. 我在哪里可以玩这个 Mod？**
 你不会在官方平台上找到它。像 *Instrumentalist* 这样的 Mod 通常托管在游戏 Mod 网站如 **playfiddlebops.com** 上，或在 YouTube 上展示，通常提供直接在网络浏览器中游玩 Mod 的链接。
 
+<!-- i18n:faq:id=faq:incredibox-instrumentalist:are-the-bonus-solutions-for-3062ed27 -->
 **4. "Instrumentalist"的奖励解决方案在网上可以找到吗？**
 是的。如果你在寻找动画组合时遇到困难，在 YouTube 上快速搜索"*Incredibox Instrumentalist combos*"可能会为你提供解决方案。
+

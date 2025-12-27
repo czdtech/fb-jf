@@ -8,10 +8,11 @@ thumbnail: /new-images/thumbnails/incredibox-melophobia.png
 tags:
   - music
   - rhythm
-score: 4.7/5 (1987 票)
+score: 4.7/5 (1987 votes)
 releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### **Incredibox Melophobia 游戏介绍**
 
 *Incredibox Melophobia* 是一款高度创意和超现实的 Incredibox 音乐创作游戏粉丝 Mod。"Melophobia"这个名字意为"对音乐的恐惧"，完美地为 Mod 的**奇异、实验性和折衷主题**奠定了基调。
@@ -20,6 +21,7 @@ releaseDate: 2025-10-10T00:00:00.000Z
 
 目标是鼓励玩家跳出传统音乐结构，构建独特的、超凡脱俗的音景。解锁的动画承诺与角色本身一样超现实和富有想象力。
 
+<!-- i18n:section:tips -->
 ### **游戏策略与技巧**
 
 *Incredibox Melophobia* 的策略是拥抱怪异，将不同的声音组合成令人惊讶的连贯整体。
@@ -36,6 +38,7 @@ releaseDate: 2025-10-10T00:00:00.000Z
 
 4. **系统性地寻找奖励**：奖励组合可能不如其他 Mod 那么直观。最好的方法是有条理。锁定几个创造有趣基础的核心声音，然后系统地逐一替换剩余的图标，直到触发奖励。
 
+<!-- i18n:section:controls -->
 ### **操作指南**
 
 操作遵循官方 Incredibox 游戏的标准、直观的拖放界面。
@@ -46,13 +49,18 @@ releaseDate: 2025-10-10T00:00:00.000Z
 - **独奏**：点击活动角色旁边的**小按钮**来静音所有其他表演者。
 - **录制**：点击**录制按钮**（右上角）开始和停止录制你独特的创作。
 
+<!-- i18n:section:faq -->
 ### **常见问题（FAQ）**
 
+<!-- i18n:faq:id=faq:incredibox-melophobia:is-this-an-official-incredibox-12056458 -->
 **1. 这是官方 Incredibox 版本吗？**
 不是。它是一款高度富有想象力的**粉丝制作的 Mod**。它与官方 Incredibox 团队 So Far So Good 无关。
 
+<!-- i18n:faq:id=faq:incredibox-melophobia:where-can-i-play-this-a4cf171c -->
 **2. 我在哪里可以玩这个 Mod？**
 你不会在官方平台上找到它。像 *Melophobia* 这样的 Mod 通常托管在游戏 Mod 网站如 **playfiddlebops.com** 上，或在 YouTube 上展示，通常提供直接在网络浏览器中游玩 Mod 的链接。
 
+<!-- i18n:faq:id=faq:incredibox-melophobia:what-makes-the-melophobia-mod-7ef46b11 -->
 **3. "Melophobia"Mod 有什么特别之处？**
 它的主要吸引力来自于对超现实和实验性的无畏拥抱。它突破了 Incredibox 声音设计的界限，提供了一个奇异、不可预测且最终非常有创意的调色板。对于想要创造真正独特和非传统作品的玩家来说，这是一个完美的 Mod。
+

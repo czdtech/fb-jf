@@ -6,14 +6,16 @@ title: "Incredibox Shatter Sprunk - 在线畅玩 Incredibox Shatter Sprunk"
 description: "Incredibox Shatter Sprunk 是一款粉丝创作的 Incredibox 模组音乐游戏。在这个版本中，所有角色都以醒目的黄色呈现，每个角色都有独特且不可重复的音效。"
 iframeSrc: "https://turbowarp.org/1144858827/embed"
 thumbnail: /new-images/thumbnails/incredibox-shatter-sprunk.png
-score: "4.5/5  (614 票)"
+score: "4.5/5  (614 votes)"
 tags: ["incredibox shatter sprunk", "incredibox shatter sprunk online"]
+releaseDate: 2025-12-04
 ---
 
 ### Incredibox Shatter Sprunk 有什么好玩的？
  
 Incredibox Shatter Sprunk 是一款粉丝模组，将带你进入一个融合了 Incredibox 经典玩法和 Sprunki 古怪风格的音乐世界！在这里，你将与一群独特的动画角色一起创作属于自己的音乐作品。
  
+<!-- i18n:section:how-to-play -->
 ### 如何玩 Incredibox Shatter Sprunk？
  
 玩法非常简单，几步就能上手：
@@ -28,6 +30,7 @@ Incredibox Shatter Sprunk 是一款粉丝模组，将带你进入一个融合了
  
 **在 Incredibox Shatter Sprunk 中，你的目标不是"获胜"，而是创作你喜欢的音乐作品。**
  
+<!-- i18n:section:controls -->
 ### 鼠标操作
  
 Incredibox Shatter Sprunk 的操作非常简单，你可以轻松用鼠标完成：
@@ -44,3 +47,4 @@ Incredibox Shatter Sprunk 的操作非常简单，你可以轻松用鼠标完成
  - **简单易用的操作：** 鼠标操作简单直观，让所有年龄和技能水平的玩家都能轻松上手。
  - **独特的 Sprunki 风格：** 结合了 Sprunki 的古怪创新风格，让你体验不一样的 Incredibox。
  - **探索乐趣：** 发现隐藏的动画和特效，让你的创作过程充满惊喜。
+

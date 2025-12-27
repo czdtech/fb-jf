@@ -9,10 +9,11 @@ tags:
   - music
   - electronic
   - simulator
-score: 4.5/5 (1055 票)
+score: 4.5/5 (1055 votes)
 releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### **Incredibox Xrun Simulator 游戏介绍**
 
 *Incredibox Xrun Simulator* 是一款动态且高能量的粉丝制作游戏，属于 Incredibox Mod 的"模拟器"系列。这个版本以其未来主义美学和深受现代**电子舞曲（EDM）、Dubstep 和 Trap**启发的音色调色板而脱颖而出。
@@ -21,6 +22,7 @@ releaseDate: 2025-10-10T00:00:00.000Z
 
 当玩家叠加更多声音时，屏幕顶部的进度条会填满，引导他们发现 Mod 的隐藏视听奖励。这种体验不太关注单个表演者，而更多关注直接、亲身参与的复杂电子节拍创作。
 
+<!-- i18n:section:tips -->
 ### **游戏策略与技巧**
 
 1.  **了解 EDM 声音网格**：20 个图标代表电子曲目的所有核心元素。
@@ -33,6 +35,7 @@ releaseDate: 2025-10-10T00:00:00.000Z
 3.  **创造积累和落点**：EDM 的精髓是能量转换。使用上升器效果和滤波器扫描来建立紧张感。然后，释放你的主合成器主旋律或沉重的贝斯线来创造令人满意的"落点"。你可以通过按顺序激活和停用不同的图标来模拟这一点。
 4.  **尝试叠加**：不要害怕同时点击许多图标。模拟器格式的美妙之处在于能够创造密集、复杂的音景。然而，也要学习哪些声音最好少量使用来点缀曲目。
 
+<!-- i18n:section:controls -->
 ### **操作指南**
 
 这个 Mod 使用模拟器系列简单的基于点击的界面。
@@ -44,12 +47,16 @@ releaseDate: 2025-10-10T00:00:00.000Z
     *   **录制按钮**：开始和停止录制你的混音。
     *   **重置按钮**：清除网格中所有活动的声音，让你重新开始。
 
+<!-- i18n:section:faq -->
 ### **常见问题（FAQ）**
 
+<!-- i18n:faq:id=faq:incredibox-xrun-simulator:why-does-this-look-and-69cdf841 -->
 **1. 为什么这看起来和玩起来与主游戏不同？**
 
 这是"模拟器"Mod 的标志性风格。基于网格的界面是 Mod 制作者的创意选择，提供更直接和分层的音乐创作方法，特别适合电子音乐流派。
 
+<!-- i18n:faq:id=faq:incredibox-xrun-simulator:where-can-i-play-this-a4cf171c -->
 **2. 我在哪里可以玩这个 Mod？**
 
 你不会在官方平台上找到它。这些 Mod 通常在游戏网站如 **Newgrounds**、Mod 社区如 **playfiddlebops.com** 上分享，或在 YouTube 上展示并提供在网络浏览器中游玩的链接。
+

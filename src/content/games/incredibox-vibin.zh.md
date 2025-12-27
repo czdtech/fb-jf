@@ -9,10 +9,11 @@ tags:
   - music
   - rhythm
   - sandbox
-score: 4.7/5 (1754 票)
+score: 4.7/5 (1754 votes)
 releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### **Incredibox Vibin 游戏介绍**
 
 *Incredibox Vibin'* 是一款流行的 Incredibox 音乐创作游戏粉丝 Mod。这个版本以其令人难以置信的**轻松、放松和舒适的 lo-fi 嘻哈美学**而与众不同。角色被设计成酷炫、悠闲的人物，完美捕捉了标题所暗示的"vibin'"氛围。
@@ -21,6 +22,7 @@ releaseDate: 2025-10-10T00:00:00.000Z
 
 目标是提供一个放松的创意出口，同时也提供一个需要解决的谜题。玩家可以混合搭配声音来创作他们完美的学习/放松曲目。谜题元素涉及发现三种特定的组合，解锁秘密动画奖励，这些奖励在主题上设计为符合 Mod 的舒适和内省氛围。
 
+<!-- i18n:section:tips -->
 ### **游戏策略与技巧**
 
 *Incredibox Vibin'* 的策略完全在于叠加纹理和创造流畅、不突兀的律动。
@@ -37,6 +39,7 @@ releaseDate: 2025-10-10T00:00:00.000Z
 
 4. **系统性地寻找奖励**：要找到三个秘密奖励，有条理的方法是最好的。一旦你有了一个喜欢的核心律动，尝试逐一替换剩余的图标，直到触发一个舒适的动画奖励。
 
+<!-- i18n:section:controls -->
 ### **操作指南**
 
 操作遵循官方 Incredibox 游戏的标准、直观的拖放界面。
@@ -47,20 +50,26 @@ releaseDate: 2025-10-10T00:00:00.000Z
 - **独奏**：点击活动角色旁边的**小按钮**来静音所有其他表演者。
 - **录制**：点击**录制按钮**开始和停止录制你轻松的创作。
 
+<!-- i18n:section:faq -->
 ### **常见问题（FAQ）**
 
+<!-- i18n:faq:id=faq:incredibox-vibin:is-incredibox-vibin-an-officia-483ff426 -->
 **1. *Incredibox Vibin'* 是官方版本吗？**
 
 不是。它是由 MI 创建的**粉丝制作的 Mod**。它与官方 Incredibox 团队 So Far So Good 无关。
 
+<!-- i18n:faq:id=faq:incredibox-vibin:where-can-i-play-this-a4cf171c -->
 **2. 我在哪里可以玩这个 Mod？**
 
 你不会在官方平台上找到它。像 *Vibin'* 这样的 Mod 通常托管在游戏 Mod 网站如 **playfiddlebops.com** 上，或在 YouTube 上展示，通常提供直接在网络浏览器中游玩 Mod 的链接。
 
+<!-- i18n:faq:id=faq:incredibox-vibin:what-makes-the-vibin-mod-d01232b7 -->
 **3. "Vibin'"Mod 为什么如此受欢迎？**
 
 它的受欢迎程度来自于对 lo-fi 嘻哈主题的完美执行，这是一个非常流行的音乐流派。它提供了独特的放松和现代体验，与许多寻找轻松创意出口的玩家产生共鸣。
 
+<!-- i18n:faq:id=faq:incredibox-vibin:are-the-bonus-solutions-for-361d43d5 -->
 **4. "Vibin'"的奖励解决方案在网上可以找到吗？**
 
 是的。如果你在寻找动画组合时遇到困难，在 YouTube 上快速搜索"*Incredibox Vibin' combos*"会显示解决方案。
+

@@ -9,16 +9,18 @@ tags:
   - music
   - fan-Made
   - simulator
-score: 4.5/5 (889 票)
+score: 4.5/5 (889 votes)
 releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### **Incredibox Piège Simulator 游戏介绍**
 
 *Incredibox Piège Simulator* 是一款时尚且富有氛围的粉丝制作游戏，来自 Incredibox Mod 的"模拟器"系列。标题"Piège"是法语中的**"陷阱"**，完美地描述了 Mod 对现代 **Trap 音乐**流派的音乐关注。
 
 游戏使用模拟器 Mod 标志性的**基于网格的界面**。玩家不是将图标拖到角色身上，而是面对一个包含 20 个声音图标的网格，以绿色和蓝色色调进行颜色编码。目标是通过点击这些图标来激活或停用它们，创建一个黑暗、富有氛围的陷阱循环。
 
+<!-- i18n:section:tips -->
 ### **游戏策略与技巧**
 
 1. **从节奏开始**：要创作真实的陷阱节拍，从蓝色图标开始。激活一个沉重的底鼓、一个军鼓和一个快速的踩镲模式来建立核心律动。
@@ -29,6 +31,7 @@ releaseDate: 2025-10-10T00:00:00.000Z
 
 4. **创造动态**：利用模拟器的点击开/关特性来创造动态。你可以构建一个节拍，添加旋律来创建一个钩子，然后停用元素来创建一个分解，模仿真正陷阱歌曲的结构。
 
+<!-- i18n:section:controls -->
 ### **操作指南**
 
 这个 Mod 使用模拟器系列简单的基于点击的界面。
@@ -40,16 +43,21 @@ releaseDate: 2025-10-10T00:00:00.000Z
     *   **录制按钮**：开始和停止录制你的混音。
     *   **重置按钮**：清除网格中所有活动的声音，让你重新开始。
 
+<!-- i18n:section:faq -->
 ### **常见问题（FAQ）**
 
+<!-- i18n:faq:id=faq:incredibox-piege-simulator:is-this-an-official-incredibox-76f9ee93 -->
 **1. 这是官方 Incredibox 游戏吗？**
 
 不是。"模拟器"系列，包括 *Piège*，是**粉丝制作的 Mod**，与官方 Incredibox 创作者 So Far So Good 无关。
 
+<!-- i18n:faq:id=faq:incredibox-piege-simulator:why-is-the-gameplay-different-ad85e024 -->
 **2. 为什么玩法与原版不同？**
 
 "模拟器"风格是 Mod 社区的创意选择。其基于网格的界面特别适合像 Trap 这样的电子流派，因为它允许精确和复杂的节奏元素叠加。
 
+<!-- i18n:faq:id=faq:incredibox-piege-simulator:where-can-i-play-this-a4cf171c -->
 **3. 我在哪里可以玩这个 Mod？**
 
 你不会在官方平台上找到它。这些 Mod 通常在游戏网站如 **Newgrounds**、Mod 社区如 **playfiddlebops.com** 上分享，或在 YouTube 上展示并提供在网络浏览器中游玩的链接。
+

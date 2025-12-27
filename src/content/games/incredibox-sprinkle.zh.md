@@ -7,14 +7,17 @@ iframeSrc: 'https://g.sprinkleincredibox.com/web-game/SprinkleIncredibox/index.h
 thumbnail: /new-images/thumbnails/incredibox-sprinkle.png
 tags:
   - incredibox sprinkle
-score: 3.8/5 (387 票)
+score: 3.8/5  (387 votes)
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:how-to-play -->
 ### 如何玩 Sprinkle？
 
 - **拖放组合：** 将各种音乐角色拖放到指定位置，让他们演奏独特的音符。每个角色都会贡献独特的声音，与其他声音叠加形成完整的音乐编排。
 - **实验与创新：** Sprinkle 的核心乐趣在于尝试不同的声音组合。你可以通过重新排列角色来创造无尽的曲目变化。
 
+<!-- i18n:section:controls -->
 ### 操作指南：
 
 - **鼠标操作：** 鼠标是游戏的主要控制工具。你可以使用鼠标将底部的角色拖到舞台上的空白槽位。
@@ -28,3 +31,4 @@ score: 3.8/5 (387 票)
 - **键盘辅助操作：** 某些版本支持键盘快捷键，让你的混音操作更加便捷。
 
 Sprinkle 是一款操作简单、充满乐趣的音乐创作游戏。无论你是休闲玩家还是对音乐制作感兴趣的粉丝，都能在 Sprinkle 的世界中找到属于自己的乐趣。来到 Sprinkle，释放你的混音创意，创作独特的音乐作品吧！
+

@@ -8,10 +8,11 @@ thumbnail: /new-images/thumbnails/incredibox-fruity.jpg
 tags:
   - strategy
   - action
-score: 4.5/5 (525 票)
+score: 4.5/5  (525 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### 详细游戏介绍
 
 Incredibox Fruity 是一款经典的 2D 横向卷轴策略游戏，在 Flash 游戏时代广受欢迎。游戏的核心概念是两个基地之间的战斗，一个属于玩家，另一个属于 AI 对手。游戏独特的定义特征是其"进化"机制。玩家从石器时代（作为穴居人）开始，必须赚取经验值（XP）才能通过五个不同的时代：石器时代、中世纪、现代，最后是未来时代。每次进化不仅解锁更强大的单位和防御炮塔，还会完全恢复你基地的生命值。最终目标很简单：在敌人的猛攻中生存下来并摧毁他们的基地。
@@ -35,6 +36,7 @@ Incredibox Fruity 是一款经典的 2D 横向卷轴策略游戏，在 Flash 游
 *   **高级炮塔：** 完全升级你的炮塔。最终时代的炮塔造成巨大伤害，对于防御敌人强大的未来主义单位至关重要。
 *   **最终推进：** 协调你最强大的单位和你的特殊能力，进行最后的决定性推进，摧毁敌人的基地。
 
+<!-- i18n:section:controls -->
 ### 操作指南
 
 游戏几乎完全用鼠标控制。
@@ -44,16 +46,22 @@ Incredibox Fruity 是一款经典的 2D 横向卷轴策略游戏，在 Flash 游
 *   **使用特殊能力：** 当特殊能力准备好（不在冷却中）时，点击屏幕右上角的特殊能力图标。
 *   **进化：** 一旦你积累了足够的 XP，点击屏幕右上角的"进化"按钮。
 
+<!-- i18n:section:faq -->
 ### 常见问题（FAQ）
 
+<!-- i18n:faq:id=faq:incredibox-fruity:q-how-do-i-get-9279e7e6 -->
 *   **问：我如何获得 XP？**
     *   **答：** 每当你的一个单位杀死一个敌方单位时，你就会获得经验值（XP）。
 
+<!-- i18n:faq:id=faq:incredibox-fruity:q-what-is-the-best-94cf492b -->
 *   **问：游戏中最好的单位是什么？**
     *   **答：** 虽然这取决于情况，但来自未来时代的"超级战士"被广泛认为是最强大的全能单位，因为它的高生命值和伤害。在早期游戏中，基本的棍棒人对于其成本来说是最有效的。
 
+<!-- i18n:faq:id=faq:incredibox-fruity:q-is-it-better-to-f6ee451c -->
 *   **问：建造更多炮塔还是训练更多单位更好？**
     *   **答：** 在早期游戏中，混合是最好的。一两个炮塔提供稳定的防御，让你为强大的进攻军队存金币。在后期游戏中，拥有完全升级的炮塔对于生存至关重要。
 
+<!-- i18n:faq:id=faq:incredibox-fruity:q-where-can-i-play-adcbe59e -->
 *   **问：Flash 消失后我在哪里可以玩 Incredibox Fruity？**
     *   **答：** 许多游戏网站如 CrazyGames、Armor Games 和 Kongregate 现在使用 Flash 模拟器（如 Ruffle）托管 Incredibox Fruity，使其可以在现代网络浏览器中完全游玩。iOS 和 Android 应用商店也有移动版本。
+

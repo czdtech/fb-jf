@@ -8,10 +8,11 @@ thumbnail: /new-images/thumbnails/incredibox-hijinks.png
 tags:
   - music
   - rhythm
-score: 4.7/5 (2250 票)
+score: 4.7/5 (2250 votes)
 releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### **Incredibox Hijinks 游戏介绍**
 
 *Incredibox Hijinks* 是一款流行且充满活力的 Incredibox 音乐创作游戏粉丝 Mod，由 Mod 制作者 Bongo Cat 创建。"Hijinks"这个名字完美地捕捉了 Mod 的主题：**恶作剧、混乱和古怪的卡通滑稽动作**。角色被设计成简单、富有表现力的人物，准备制造一些音乐麻烦。
@@ -20,6 +21,7 @@ releaseDate: 2025-10-10T00:00:00.000Z
 
 目标是让玩家玩得开心，创作混乱但朗朗上口的曲调，同时解决寻找三个秘密动画奖励的谜题，这些奖励无疑围绕着卡通恶作剧和乐趣的主题。
 
+<!-- i18n:section:tips -->
 ### **游戏策略与技巧**
 
 *Incredibox Hijinks* 的策略是拥抱乐趣，叠加充满活力的声音以创造弹跳、感染力强的律动。
@@ -36,6 +38,7 @@ releaseDate: 2025-10-10T00:00:00.000Z
 
 4. **系统性地寻找奖励**：要找到三个秘密奖励，要有条理。建立一个你喜欢的核心律动，然后系统地逐一替换其他图标，直到触发一个恶作剧动画。
 
+<!-- i18n:section:controls -->
 ### **操作指南**
 
 操作遵循官方 Incredibox 游戏的标准、直观的拖放界面。
@@ -46,20 +49,26 @@ releaseDate: 2025-10-10T00:00:00.000Z
 - **独奏**：点击活动角色旁边的**小按钮**来静音所有其他表演者。
 - **录制**：点击**录制按钮**开始和停止录制你充满乐趣的创作。
 
+<!-- i18n:section:faq -->
 ### **常见问题（FAQ）**
 
+<!-- i18n:faq:id=faq:incredibox-hijinks:is-this-an-official-incredibox-12056458 -->
 **1. 这是官方 Incredibox 版本吗？**
 
 不是。它是由 Bongo Cat 创建的**粉丝制作的 Mod**。它与官方 Incredibox 团队 So Far So Good 无关。
 
+<!-- i18n:faq:id=faq:incredibox-hijinks:where-can-i-play-this-a4cf171c -->
 **2. 我在哪里可以玩这个 Mod？**
 
 你不会在官方平台上找到它。像 *Hijinks* 这样的 Mod 通常托管在游戏 Mod 网站如 **playfiddlebops.com** 上，或在 YouTube 上展示，通常提供直接在网络浏览器中游玩 Mod 的链接。
 
+<!-- i18n:faq:id=faq:incredibox-hijinks:what-makes-this-mod-special-f26277ef -->
 **3. 这个 Mod 有什么特别之处？**
 
 它的魅力来自于纯粹、无拘无束的乐趣。轻松的卡通主题和充满活力、欢快的音乐提供了一种简单而快乐的体验，一切都是为了创造微笑。
 
+<!-- i18n:faq:id=faq:incredibox-hijinks:are-the-bonus-solutions-for-05cb83d2 -->
 **4. "Hijinks"的奖励解决方案在网上可以找到吗？**
 
 是的。如果你在寻找动画组合时遇到困难，在 YouTube 上快速搜索"*Incredibox Hijinks combos*"会显示解决方案。
+

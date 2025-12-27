@@ -8,7 +8,8 @@ thumbnail: /new-images/thumbnails/incredibox-yellow-colorbox.png
 tags:
   - incredibox yellow colorbox
   - incredibox yellow colorbox online
-score: 4.5/5 (614 票)
+score: 4.5/5  (614 votes)
+releaseDate: 2025-12-04
 ---
 
 ### 什么是 Incredibox Yellow Colorbox？
@@ -17,6 +18,7 @@ Incredibox Yellow Colorbox 是一款粉丝创作的 Incredibox Mod 音乐游戏�
 
 ---
 
+<!-- i18n:section:tips -->
 ### 简单玩法，无尽乐趣：
 
 Incredibox Yellow Colorbox 的操作方法极其简单。你只需要将不同的音乐声音和节奏拖到角色身上，让他们"唱歌"，创作你自己的音乐。这款游戏易于上手，但仍然具有挑战性，无论是新手还是经验丰富的音乐游戏玩家都能找到乐趣。

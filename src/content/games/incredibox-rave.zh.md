@@ -9,16 +9,18 @@ tags:
   - music
   - rave
   - rhythm
-score: 4.7/5 (1888 票)
+score: 4.7/5 (1888 votes)
 releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### **Incredibox Rave 游戏介绍**
 
 *Incredibox Rave* 是一款视觉效果惊艳的 Incredibox 音乐创作游戏粉丝 Mod。这个版本将玩家直接带入**锐舞或夜店**的充满活力的氛围中，配有大型扬声器、迪斯科球和动态聚光灯。角色被设计成剪影或霓虹轮廓的人物，类似于 DJ 和夜店常客。
 
 游戏使用经典的 Incredibox 拖放玩法。玩家获得 20 个声音图标的调色板，由抽象几何形状和风格化的嘴唇表示。通过将这些图标分配给七名表演者，玩家可以创作自己受各种**电子舞曲（EDM）流派启发的高能量曲目，如 Techno、House 和 Disco**。
 
+<!-- i18n:section:tips -->
 ### **游戏策略与技巧**
 
 *Incredibox Rave* 的策略是叠加不同的电子元素，构建一首可以在真正夜店播放的曲目。
@@ -37,6 +39,7 @@ releaseDate: 2025-10-10T00:00:00.000Z
 
 5. **系统性地寻找奖励**：要找到秘密奖励，要有条理。建立一个坚实的节拍和贝斯线，然后系统地逐一替换旋律和人声图标，直到触发一个锐舞主题的动画。
 
+<!-- i18n:section:controls -->
 ### **操作指南**
 
 操作遵循官方 Incredibox 游戏的标准、直观的拖放界面。
@@ -47,20 +50,26 @@ releaseDate: 2025-10-10T00:00:00.000Z
 - **独奏**：点击活动角色旁边的**小按钮**来静音所有其他表演者。
 - **录制**：点击**录制按钮**开始和停止录制你的锐舞圣歌。
 
+<!-- i18n:section:faq -->
 ### **常见问题（FAQ）**
 
+<!-- i18n:faq:id=faq:incredibox-rave:is-this-an-official-incredibox-12056458 -->
 **1. 这是官方 Incredibox 版本吗？**
 
 不是。根据其独特的风格和分发方式，它是一款**粉丝制作的 Mod**。它与官方 Incredibox 团队 So Far So Good 无关。
 
+<!-- i18n:faq:id=faq:incredibox-rave:where-can-i-play-this-a4cf171c -->
 **2. 我在哪里可以玩这个 Mod？**
 
 你不会在官方平台上找到它。像 *Rave* 这样的 Mod 通常托管在游戏 Mod 网站如 **playfiddlebops.com** 上，或在 YouTube 上展示，通常提供直接在网络浏览器中游玩 Mod 的链接。
 
+<!-- i18n:faq:id=faq:incredibox-rave:what-makes-the-rave-mod-87025ce1 -->
 **3. "Rave"Mod 有什么特别之处？**
 
 它的主要吸引力是其高能量、沉浸式的夜店主题。霓虹视觉效果、类似 DJ 的角色和精心制作的电子音乐调色板的结合，为舞曲粉丝创造了现代而令人兴奋的体验。
 
+<!-- i18n:faq:id=faq:incredibox-rave:are-the-bonus-solutions-for-8ff5fe53 -->
 **4. "Rave"的奖励解决方案在网上可以找到吗？**
 
 是的。如果你在寻找动画组合时遇到困难，在 YouTube 上快速搜索"*Incredibox Rave combos*"可能会为你提供解决方案。
+

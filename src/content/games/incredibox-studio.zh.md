@@ -8,14 +8,16 @@ thumbnail: /new-images/thumbnails/incredibox-studio.png
 tags:
   - music
   - sandbox
-score: 4.8/5 (1842 票)
+score: 4.8/5 (1842 votes)
 releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Incredibox Studio 介绍
 
 Incredibox Studio 是一个粉丝制作的项目。与基于预定义声音集的官方 Incredibox 版本不同，这个"Studio"版本提供了类似沙盒的体验。玩家获得大量声音和效果可以拖放和混合，使他们能够从头开始创作自己独特的节拍和音乐作品。对于想要探索自己音乐想法的原版游戏粉丝来说，这是一个创意游乐场。
 
+<!-- i18n:section:tips -->
 ### 游戏策略/创意技巧
 
 *   由于这是一个沙盒，"策略"是关于创造力的。
@@ -24,6 +26,7 @@ Incredibox Studio 是一个粉丝制作的项目。与基于预定义声音集�
     3.  **实验**：关键是实验。拖放不同的声音，看看什么配合得好。某些组合可能会解锁特殊动画或合唱效果。
     4.  **使用静音/独奏**：使用静音或独奏按钮隔离特定轨道，以微调作品的每个部分。
 
+<!-- i18n:section:controls -->
 ### 操作指南
 
 *   游戏完全用鼠标控制。
@@ -32,9 +35,13 @@ Incredibox Studio 是一个粉丝制作的项目。与基于预定义声音集�
     *   **静音/独奏**：点击角色旁边的耳机或扬声器图标来独奏或静音他们的声音。
     *   **录制**：点击顶部的录制按钮（通常是红色圆圈）开始和停止录制你的混音。
 
+<!-- i18n:section:faq -->
 ### 常见问题（FAQ）
 
+<!-- i18n:faq:id=faq:incredibox-studio:q-can-i-save-the-c98a2c3b -->
 *   **问：我可以保存我创作的音乐吗？**
     *   **答**：是的，大多数版本都有录制功能，允许你保存混音，通常还提供可分享的链接。但是，音乐仅供个人非商业使用。
+<!-- i18n:faq:id=faq:incredibox-studio:q-where-can-i-play-fe36000d -->
 *   **问：我在哪里可以玩？**
     *   **答**：可以通过提供的 playfiddlebops.com 链接直接在网络浏览器中游玩。
+

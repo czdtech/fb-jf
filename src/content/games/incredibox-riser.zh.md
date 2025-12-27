@@ -9,14 +9,16 @@ tags:
   - music
   - electronic
   - rhythm
-score: 4.6/5 (1490 票)
+score: 4.6/5 (1490 votes)
 releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### **Incredibox Riser 游戏介绍**
 
 *Incredibox Riser* 是一款流行且富有氛围的 Incredibox 音乐创作游戏粉丝 Mod。游戏使用经典的 Incredibox 拖放玩法。玩家获得 20 个独特的声音图标调色板，分配给七名表演者。声音库是**环境电子音乐、高亢的合成器旋律和未来主义音效**的电影般融合，旨在创造一种惊奇和探索的感觉。
 
+<!-- i18n:section:tips -->
 ### **游戏策略与技巧**
 
 *Incredibox Riser* 的策略是建立规模感和旅程感，叠加声音以创作史诗般的电影曲目。
@@ -31,6 +33,7 @@ releaseDate: 2025-10-10T00:00:00.000Z
 
 3. **系统性地寻找奖励**：要找到三个秘密奖励，要有条理。建立一个核心的氛围和节奏基础，然后系统地逐一替换旋律和人声图标，直到触发一个科幻动画。
 
+<!-- i18n:section:controls -->
 ### **操作指南**
 
 操作遵循官方 Incredibox 游戏的标准、直观的拖放界面。
@@ -41,13 +44,18 @@ releaseDate: 2025-10-10T00:00:00.000Z
 - **独奏**：点击活动角色旁边的**小按钮**来静音所有其他表演者。
 - **录制**：点击**录制按钮**开始和停止录制你的宇宙之旅。
 
+<!-- i18n:section:faq -->
 ### **常见问题（FAQ）**
 
+<!-- i18n:faq:id=faq:incredibox-riser:is-this-an-official-incredibox-12056458 -->
 **1. 这是官方 Incredibox 版本吗？**
 不是。它是由 BadSnacks 创建的**粉丝制作的 Mod**。它与官方 Incredibox 团队 So Far So Good 无关。
 
+<!-- i18n:faq:id=faq:incredibox-riser:where-can-i-play-this-a4cf171c -->
 **2. 我在哪里可以玩这个 Mod？**
 你不会在官方平台上找到它。像 *Riser* 这样的 Mod 通常托管在游戏 Mod 网站如 **Scratch** 上，或在 YouTube 上展示，通常提供直接在网络浏览器中游玩 Mod 的链接。
 
+<!-- i18n:faq:id=faq:incredibox-riser:are-the-bonus-solutions-for-3d646fa2 -->
 **3. "Riser"的奖励解决方案在网上可以找到吗？**
 是的。如果你在寻找动画组合时遇到困难，在 YouTube 上快速搜索"*Incredibox Riser combos*"会显示解决方案。
+

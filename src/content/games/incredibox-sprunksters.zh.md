@@ -6,10 +6,12 @@ title: "Incredibox Sprunksters - 在线畅玩 Incredibox Sprunksters"
 description: "告别千篇一律的声音！Incredibox Sprunksters 带来全新的采样和效果，让你的音乐感觉独特而富有创意。"
 iframeSrc: "https://turbowarp.org/1129395199/embed"
 thumbnail: /new-images/thumbnails/incredibox-sprunksters.png
-score: "4.3/5  (185 票)"
+score: "4.3/5  (185 votes)"
 tags: ["incredibox sprunksters"]
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 嘿，音乐创作者们！想给你的音乐创作日常增添一些新意吗？让我向你介绍 Incredibox Sprunksters！这不是你标准的 Incredibox 风格；这是由超棒的 Bismeowth 制作的超级有创意的模组，将 Sprunki 的古怪精神与音乐创作融合在一起，开启无限可能！
  
 ### Incredibox Sprunksters 是什么？
@@ -42,3 +44,4 @@ tags: ["incredibox sprunksters"]
 ### 总结
  
 Incredibox Sprunksters 是一个充满创意、乐趣和惊喜的绝佳平台。凭借其迷人的角色、新鲜的声音和超棒的"平行世界"功能，它提供了真正独特的游戏体验。别犹豫了！跳入 Incredibox Sprunksters 的世界，现在就开始创作属于你自己的古怪节拍吧！🎶✨ 玩得开心！
+
