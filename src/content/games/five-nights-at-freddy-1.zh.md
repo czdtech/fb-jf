@@ -16,18 +16,21 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### 概览
 
 你是 Freddy Fazbear's Pizza 的夜班保全，独自在昏暗办公室里守夜。
 通过监视器画面追踪店内的机械玩偶动向，一边管理有限的电力资源，
 一边阻止 Bonnie、Chica、Freddy 和 Foxy 等角色趁你不注意时走进办公室。
 
+<!-- i18n:section:how-to-play -->
 ### 如何游玩
 
 - 经常切换监视器，掌握每个机械玩偶的位置，同时留心脚步声、呼吸声等音效提示。
 - 合理使用门与灯光开关——任何操作都会消耗电力，所以只能在必要时关门或开灯确认。
 - 每一夜的值勤时间为凌晨 12 点到早上 6 点，后面几夜 AI 会变得更快、更激进。
 
+<!-- i18n:section:controls -->
 ### 操作
 
 - 使用鼠标与画面上的 UI 操作监视器切换、门与灯光开关；
@@ -39,15 +42,19 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - 不要一直挂在监视画面上，短促而有目的的查视可以大幅节省电力。
 - 善用音效判断何时需要用门边灯查看，有声音再开灯，比不停点灯安全省电。
 
+<!-- i18n:section:faq -->
 ### 常见问题（FAQ）
 
+<!-- i18n:faq:id=faq:five-nights-at-freddy-1:is-6thcustom-night-included-54d98919 -->
 - 问：这个版本有第 6 夜或自订夜晚吗？  
   答：很多线上版本会附带第 6 夜，甚至提供自订 AI 难度的 Custom Night 模式。
 
+<!-- i18n:faq:id=faq:five-nights-at-freddy-1:why-did-i-run-out-453c2598 -->
 - 问：为什么我总是提前没电？  
   答：最常见原因是过度频繁地切监视器、关门与开灯。试着设计一个固定巡视节奏，
   仅在必要时操作，就能让电力撑得更久。
 
+<!-- i18n:faq:id=faq:five-nights-at-freddy-1:can-i-mute-calls-952aac8b -->
 - 问：电话语音可以关掉吗？  
   答：部分版本在夜班一开始会有 Phone Guy 的来电说明，通常会提供静音按钮，
   让熟悉玩法的玩家可以直接跳过。

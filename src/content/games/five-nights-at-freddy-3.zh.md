@@ -16,12 +16,14 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### 概览
 
 故事来到多年后的恐怖游乐设施，你在老旧的监控室里对上实体化的 Springtrap，
 还得同时面对各种幻影干扰系统。你的工作是管理监视器、声音引诱装置与通风系统，
 让真正会杀人的 Springtrap 尽量待在远离办公室的房间。
 
+<!-- i18n:section:how-to-play -->
 ### 如何游玩
 
 - 使用「音频引诱」在特定房间播放声音，将 Springtrap 从办公室附近引开，
@@ -30,6 +32,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - 当画面出现 Video、Audio 或 Vent 错误时，通过维护面板一一重启对应系统，
   以恢复监视与引诱能力。
 
+<!-- i18n:section:controls -->
 ### 操作
 
 - 使用鼠标操作监视器、音频播放、通风口封锁与系统重启按钮。
@@ -41,14 +44,18 @@ releaseDate: 2025-08-16T00:00:00.000Z
   一旦被吓中，立刻专心重启系统并迅速恢复掌控。
 - 通风故障优先处理，长时间缺氧视觉会变得模糊、闪烁，更容易出错。
 
+<!-- i18n:section:faq -->
 ### 常见问题（FAQ）
 
+<!-- i18n:faq:id=faq:five-nights-at-freddy-3:why-does-the-audio-stop-d632ed1d -->
 - 问：为什么引诱声音突然没反应了？  
   答：通常是音频系统过热或出错，打开维护面板重启 Audio 装置即可恢复。
 
+<!-- i18n:faq:id=faq:five-nights-at-freddy-3:how-do-i-prevent-springtrap-b24f62ec -->
 - 问：要怎么防止 Springtrap 直接冲进办公室？  
   答：尽可能连续利用声音把他拉往远处，并事先封锁他常用的通风管线，
   让他只能循着你预期的长路线移动。
 
+<!-- i18n:faq:id=faq:five-nights-at-freddy-3:which-system-should-i-reboot-ca9c5d65 -->
 - 问：多个系统同时挂了先修哪个？  
   答：先重启 Ventilation，稳定视觉与状态，再依需要依序修复 Video 与 Audio。
