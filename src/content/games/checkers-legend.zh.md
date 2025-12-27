@@ -5,15 +5,16 @@ title: Checkers Legend 西洋跳棋传奇
 description: >-
   《Checkers Legend 西洋跳棋传奇》是一款规则正统的西洋跳棋游戏，支持不同难度 AI 与本地对战，让你在简洁界面
   下体验经典"吃子与升王"的对局。
-iframeSrc: 'https://checkerslegend.h5games.usercontent.goog/v/7mitt2tdntllg/'
+iframeSrc: 'https://checkerslegend.h5games.usercontent.goog/v/43mkj41ari948/'
 thumbnail: /new-images/thumbnails/checkers-legend.png
 tags:
   - board
   - puzzle
-score: 4.1/5  (1830 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
+score: 4.6/5  (2900 votes)
+releaseDate: 2025-10-17
 ---
 
+<!-- i18n:section:introduction -->
 ### 详细游戏介绍
 
 *Checkers Legend* 复刻了经典西洋跳棋的玩法。游戏在 8×8 棋盘上进行，每位玩家各执 12 枚棋子，摆在自己靠近的一侧三个黑格行上。双方轮流移动棋子，只能在深色格子上沿斜线前进与吃子。
@@ -25,6 +26,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 - **多重跳吃：** 若跳吃后仍存在连续可吃子机会，必须继续跳。
 - **升王（King）：** 当普通棋子走到对方底线行时，会升为王，之后可向前后两个方向斜走与吃子。
 
+<!-- i18n:section:tips -->
 ### 游戏策略与对局思路
 
 1.  **控制中心与前线，不要一味退守**
@@ -45,6 +47,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 6.  **残局中王棋要慎用"贪吃"**
     王棋可以前后移动，但也可能因为过于激进的吃子路径陷入对方包围圈。残局时要兼顾进攻与安全，避免让王棋成为被围攻目标。
 
+<!-- i18n:section:controls -->
 ### 操作指南
 
 游戏使用简单的点击操作。
@@ -53,13 +56,18 @@ releaseDate: 2025-10-18T00:00:00.000Z
 *   **落子：** 再次点击目标格子完成走子或跳吃。若有连续可吃子，系统会提示继续跳。
 *   **模式选择：** 进入游戏前可选择 AI 难度或本地双人模式。
 
+<!-- i18n:section:faq -->
 ### 常见问题（FAQ）
 
+<!-- i18n:faq:id=faq:checkers-legend:q-do-i-have-to-63209821 -->
 *   **问：是否必须吃子？**
     *   **答：** 是的。在大多数官方西洋跳棋规则中，吃子是强制性的。如果你有合法的跳吃机会，你必须执行。
 
+<!-- i18n:faq:id=faq:checkers-legend:q-what-makes-a-king-ed0245a6 -->
 *   **问：王棋有什么特别之处？**
     *   **答：** 普通棋子只能向前移动。王可以向前和向后的对角线方向移动和吃子，使其成为更强大和灵活的棋子。
 
+<!-- i18n:faq:id=faq:checkers-legend:q-how-do-i-win-9162cf32 -->
 *   **问：如何赢得比赛？**
     *   **答：** 当对手没有棋子剩余，或者所有剩余棋子都被阻挡无法走出合法步数时，你就获胜了。
+

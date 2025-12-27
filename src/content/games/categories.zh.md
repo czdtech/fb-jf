@@ -3,16 +3,17 @@ locale: zh
 urlstr: categories
 title: Categories 分类猜词
 description: 《Categories 分类猜词》是一款文字与分类结合的益智小游戏，在限定时间或次数内，为给定开头字母想出属于不同分类 的词语。
-iframeSrc: 'https://categories.h5games.usercontent.goog/v/67ofcg5to9hj0/'
+iframeSrc: 'https://1ssgr48qrfod0.h5games.usercontent.goog/v/20nv9be906iho/'
 thumbnail: /new-images/thumbnails/categories.png
 tags:
   - puzzle
   - word
-score: 3.8/5  (1120 votes)
+score: 4.0/5  (1855 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### 详细游戏介绍
 
 *Categories* 的核心玩法类似经典桌游“分类填字”：每一局会给出一个或多个首字母，同时提供若干个类别（例如：动物、水果、国家、职业等），你需要在限定时间或轮数内填入满足条件的单词。
@@ -21,6 +22,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 > 注：由于本游戏以英文词汇为主，在中文环境中游玩会更适合把它当作英语词汇练习工具使用。  
 
+<!-- i18n:section:tips -->
 ### 游戏策略与小技巧
 
 1.  **先解决自己最熟悉的类别**  
@@ -38,19 +40,27 @@ releaseDate: 2025-10-18T00:00:00.000Z
 5.  **用“排除法”区分类别**  
     当两个类别很容易混淆时，先想清楚它们各自“不能包含什么”，再回头检查每个词是否更贴合其中一类。
 
+<!-- i18n:section:controls -->
 ### 操作指南
 
 -   **输入单词：** 用键盘在对应分类的输入框中直接键入单词，按回车或确认键提交。  
 -   **提交整局：** 在时间结束前或填写完毕后，点击“Submit”按钮由系统进行判分。  
 
+<!-- i18n:section:faq -->
 ### 常见问题解答（FAQ）
 
- 
-- **有计时吗？** 很多版本会有轻量计时，用来让节奏更紧凑。  
-- **有提示吗？** 不少版本提供提示功能，建议在卡死时再用，别一开始就依赖。  
-- **答案是唯一的吗？** 通常不止一个可行答案，但要尽量贴合题目给定的分类与首字母要求。  
-**问：必须输入英文单词吗？****
-答：** 是。由于游戏内置的是英文字典和英文分类，只有满足拼写与分类的英文单词才会被认可。
+<!-- i18n:faq:id=faq:categories:are-there-multiple-solutions-a0470b63 -->
+- 问：答案是唯一的吗？
+  
+  答：通常只有一套预期解法。尽量按题目意图与主题去分组，别被“看起来也像”的干扰项带偏。
 
-**问：适合什么水平的玩家？****
-答：** 对有一定基础的英文学习者很适合作为词汇拓展练习；英语基础较弱的玩家也可以把它当作查词记词的小挑战。
+<!-- i18n:faq:id=faq:categories:hints-27c5017f -->
+- 问：有提示吗？
+  
+  答：很多版本会提供提示功能，建议必要时再用，避免一开始就依赖。
+
+<!-- i18n:faq:id=faq:categories:timed-95aa06a5 -->
+- 问：有计时吗？
+  
+  答：不少版本会有轻量计时，用来让节奏更紧凑。
+
