@@ -1,17 +1,19 @@
 ---
 title: Tile Journey
 description: Tile Journeyは、タイルパズルアドベンチャーゲームです。タイルを並べてパスを作り、ゴールを目指しましょう。
-iframeSrc: 'https://ubg98.github.io/TileJourney/'
+iframeSrc: 'https://0i1jh8boqif48.h5games.usercontent.goog/v/1643ot8on0v9g/'
 thumbnail: /new-images/thumbnails/tile-journey.png
 urlstr: tile-journey
-score: 4.2/5  (1876 votes)
+score: 4.5/5  (2650 votes)
 tags:
   - puzzle
   - adventure
   - strategy
 locale: ja
+releaseDate: 2025-10-17
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Tile Journeyは、タイルを配置してパスを作成し、キャラクターをゴールまで導くパズルアドベンチャーゲームです。戦略的にタイルを並べましょう。
@@ -23,38 +25,33 @@ Tile Journeyは、タイルを配置してパスを作成し、キャラクタ�
  - **障害物を避ける：** 危険なタイルや障害物を避けます
  - **ゴールに到達：** キャラクターを安全にゴールまで導きます
 
+<!-- i18n:section:controls -->
 ### 操作ガイド
 
 
 操作はクリック/タップ中心で進められます。
  - **マウス：** タイルをドラッグして配置
 
+<!-- i18n:section:faq -->
 ### よくある質問（FAQ）
 
 
 - **A:** バージョンによっては、Undo（戻す）やHint（ヒント）などの補助機能が用意されている場合があります。
 
+<!-- i18n:faq:id=faq:tile-journey:q-what-is-the-objective-0d640e0d -->
     - **Q: パワーアップはありますか？**
 
 - **A:** 手数やタイルが尽きる、または行き詰まるとレベルをやり直すことがあります（ルールはバージョンによって異なります）。
 
+<!-- i18n:faq:id=faq:tile-journey:q-why-cant-i-select-a816e385 -->
     - **Q: 行き詰まったらどうなりますか？**
 
 - **A:** 置けない/選べない場合は、他のタイルや障害物でスペースが塞がれている、または条件が合っていない可能性があります。
 
+<!-- i18n:faq:id=faq:tile-journey:q-what-happens-if-my-c4a2860f -->
     - **Q: なぜ特定のタイルが選べませんか？**
 
 - **A:** タイルを配置してルートを作り、キャラクターをゴールまで導くことです。
 
+<!-- i18n:faq:id=faq:tile-journey:q-are-there-powerups-a56519dd -->
     - **Q: ゲームの目的は何ですか？**
-**ゲームの目標は何ですか？**
-
-タイルを配置してパスを作り、キャラクターをゴールまで導くことです。
-
-**タイルの数は制限されていますか？**
-
-はい、各レベルで使えるタイルの数には制限があります。
-
-**難易度は高いですか？**
-
-徐々に難しくなり、より複雑なパズルと制約が追加されます。

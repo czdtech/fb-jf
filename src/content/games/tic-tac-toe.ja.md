@@ -1,17 +1,19 @@
 ---
 title: Tic Tac Toe
 description: Tic Tac Toeは、クラシックな三目並べゲームです。3つのマークを縦、横、斜めに揃えて勝ちましょう。
-iframeSrc: 'https://ubg98.github.io/TicTacToe/'
+iframeSrc: 'https://edit.coolmathgames.com//sites/cmatgame/files/public_games/32511/'
 thumbnail: /new-images/thumbnails/tic-tac-toe.jpg
 urlstr: tic-tac-toe
-score: 4.2/5  (1987 votes)
+score: 4.6/5  (216 votes)
 tags:
   - strategy
   - classic
   - board
 locale: ja
+releaseDate: 2025-08-16
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Tic Tac Toeは、シンプルだが戦略的なクラシックボードゲームです。2人のプレイヤーが交互にX とOを配置し、先に3つ揃えた方が勝ちです。
@@ -33,6 +35,7 @@ Tic Tac Toeは、シンプルだが戦略的なクラシックボードゲーム
 - 状況確認：盤面を見て、勝ち筋やブロックすべき場所を探します。
 
 - 交互に手番：AIや他プレイヤーと交互に手を打ちます。
+<!-- i18n:section:faq -->
 ### よくある質問（FAQ）
 
 
@@ -54,3 +57,4 @@ Tic Tac Toeは、シンプルだが戦略的なクラシックボードゲーム
 **戦略はありますか？**
 
 中央と角のマスを取ることが有利です。
+

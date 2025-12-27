@@ -1,17 +1,19 @@
 ---
 title: There Is No Game
 description: There Is No Gameは、メタゲームパズルです。ゲームがないと言われますが、実際には予想外のパズルがあります。
-iframeSrc: 'https://ubg98.github.io/ThereIsNoGame/'
+iframeSrc: 'https://webglmath.github.io/there-is-no-game/'
 thumbnail: /new-images/thumbnails/there-is-no-game.jpg
 urlstr: there-is-no-game
-score: 4.6/5  (4123 votes)
+score: 3.9/5  (1003 votes)
 tags:
   - puzzle
   - meta
   - humor
 locale: ja
+releaseDate: 2025-08-16
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 There Is No Gameは、ユニークなメタゲームパズルです。タイトルが示すように「ゲームはない」と言われますが、実際にはゲームをプレイしないよう説得するナレーターとの面白いやり取りがあります。
@@ -25,10 +27,12 @@ There Is No Gameは、ユニークなメタゲームパズルです。タイト�
  - **パズルを解く：** 隠されたパズルを見つけて解きます
  - **創造的に考える：** 明白でない方法で進みます
 
+<!-- i18n:section:controls -->
 ### 操作ガイド
 
  - **マウス：** クリックして相互作用
 
+<!-- i18n:section:faq -->
 ### よくある質問（FAQ）
 
 **本当にゲームはないのですか？**
@@ -42,3 +46,4 @@ There Is No Gameは、ユニークなメタゲームパズルです。タイト�
 **ナレーターは何ですか？**
 
 ゲームの一部で、あなたがプレイしないよう説得しようとします。
+

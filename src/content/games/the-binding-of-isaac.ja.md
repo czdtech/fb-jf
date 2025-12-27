@@ -1,17 +1,19 @@
 ---
 title: The Binding of Isaac
 description: The Binding of Isaacは、ローグライクダンジョンクローラーゲームです。ランダムに生成される部屋を探索して生き残りましょう。
-iframeSrc: 'https://ubg98.github.io/TheBindingOfIsaac/'
+iframeSrc: 'https://flash-cdn.blogspot.com/2021/06/the-binding-of-isaac.html'
 thumbnail: /new-images/thumbnails/the-binding-of-isaac.jpg
 urlstr: the-binding-of-isaac
-score: 4.6/5  (4892 votes)
+score: 4.1/5  (186 votes)
 tags:
   - roguelike
   - dungeon
   - adventure
 locale: ja
+releaseDate: 2025-08-16
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 The Binding of Isaacは、ランダムに生成されるダンジョンを探索するローグライクアクションゲームです。アイテムを集め、敵と戦い、深い地下室を生き残りましょう。
@@ -25,7 +27,10 @@ The Binding of Isaacは、ランダムに生成されるダンジョンを探索
  - **アイテム収集：** パワーアップとアイテムを集めます
  - **生き残る：** できるだけ深くまで進みます
 
+<!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `WASD` `Arrow Keys` `Spacebar` `Shift` `E` `Q`
 
  - **WASD：** 移動
  - **矢印キー：** 射撃方向
@@ -33,7 +38,8 @@ The Binding of Isaacは、ランダムに生成されるダンジョンを探索
  - **E：** ボム設置
 
 
-- **カード/ピル使用：** `Q`
+- **カード/ピル使用：** Q
+<!-- i18n:section:faq -->
 ### よくある質問（FAQ）
 
 **ゲームの目標は何ですか？**
@@ -47,3 +53,4 @@ The Binding of Isaacは、ランダムに生成されるダンジョンを探索
 **どれくらいの長さですか？**
 
 各プレイスルーは異なりますが、通常は30分から1時間程度です。
+

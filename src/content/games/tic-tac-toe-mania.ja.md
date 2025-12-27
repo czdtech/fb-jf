@@ -1,17 +1,19 @@
 ---
 title: Tic Tac Toe Mania
 description: Tic Tac Toe Maniaは、クラシックな三目並べゲームの拡張版です。様々なモードと難易度で楽しめます。
-iframeSrc: 'https://ubg98.github.io/TicTacToeMania/'
+iframeSrc: 'https://7dcsid310v1u8.h5games.usercontent.goog/v/13cfdat69ufug/'
 thumbnail: /new-images/thumbnails/tic-tac-toe-mania.png
 urlstr: tic-tac-toe-mania
-score: 4.3/5  (2345 votes)
+score: 3.8/5  (1678 votes)
 tags:
   - strategy
   - classic
   - board
 locale: ja
+releaseDate: 2025-10-18
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Tic Tac Toe Maniaは、クラシックな三目並べゲームに新しいモードと挑戦を加えた拡張版です。AIまたは友達と対戦しましょう。
@@ -25,24 +27,18 @@ Tic Tac Toe Maniaは、クラシックな三目並べゲームに新しいモー
 
 
 - 変則ルール：盤面が大きい場合は、角の先取りよりも伸びやすいラインを意識します。
+<!-- i18n:section:controls -->
 ### 操作ガイド
 
  - **マウス：** マスをクリックして配置
 
+<!-- i18n:section:faq -->
 ### よくある質問（FAQ）
 
 
+<!-- i18n:faq:id=faq:tic-tac-toe-mania:is-33-always-a-draw-d6efca07 -->
 - Q: 3×3は必ず引き分けになりますか？
+<!-- i18n:faq:id=faq:tic-tac-toe-mania:best-first-move-64c2de4e -->
 **ゲームの目標は何ですか？**
 
 
-- Q: 最善の初手は？
-縦、横、または斜めに3つのマークを揃えることです。
-
-**誰と対戦できますか？**
-
-AIまたは別のプレイヤーと対戦できます。
-
-**難易度は選べますか？**
-
-はい、AIの難易度を選択できます。

@@ -1,17 +1,19 @@
 ---
 title: Tank Trouble
 description: Tank Troubleは、マルチプレイヤー戦車戦闘ゲームです。迷路で戦車を操作して相手を倒しましょう。
-iframeSrc: 'https://ubg98.github.io/TankTrouble/'
+iframeSrc: 'https://www.friv2018.com/games/html5/tank-trouble-2/'
 thumbnail: /new-images/thumbnails/tank-trouble.jpg
 urlstr: tank-trouble
-score: 4.5/5  (3892 votes)
+score: 4.5/5  (525 votes)
 tags:
   - action
   - multiplayer
   - tanks
 locale: ja
+releaseDate: 2025-08-16
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Tank Troubleは、迷路内で戦車を操作し、跳ね返る弾丸で相手を倒すエキサイティングなマルチプレイヤー戦車ゲームです。友達と対戦するか、AIと戦いましょう。
@@ -31,6 +33,7 @@ Tank Troubleは、迷路内で戦車を操作し、跳ね返る弾丸で相手�
  - **WASD + E：** プレイヤー2の移動と射撃
  - **マウス：** メニュー操作
 
+<!-- i18n:section:faq -->
 ### よくある質問（FAQ）
 
 
@@ -52,3 +55,4 @@ Tank Troubleは、迷路内で戦車を操作し、跳ね返る弾丸で相手�
 **弾丸はどう動きますか？**
 
 弾丸は壁で跳ね返り続け、誰かに当たるまで消えません。
+

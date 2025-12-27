@@ -1,17 +1,19 @@
 ---
 title: Thruline
 description: Thrulineは、線をつなぐパズルゲームです。すべての点を一筆書きでつなぎましょう。
-iframeSrc: 'https://ubg98.github.io/Thruline/'
+iframeSrc: 'https://4bl9sdeaqndto.h5games.usercontent.goog/v/4qierjmnf0kng/'
 thumbnail: /new-images/thumbnails/thruline.jpg
 urlstr: thruline
-score: 4.2/5  (1765 votes)
+score: 4.1/5  (1983 votes)
 tags:
   - puzzle
   - logic
   - drawing
 locale: ja
+releaseDate: 2025-10-18
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Thrulineは、すべての点を一筆書きの線でつなぐ論理パズルゲームです。シンプルなルールですが、段階的に難しくなる挑戦的なパズルです。
@@ -25,24 +27,18 @@ Thrulineは、すべての点を一筆書きの線でつなぐ論理パズルゲ
 
 
 - 対称性を利用：対称な配置では、途中までの形を左右反転して考えると見つけやすいです。
+<!-- i18n:section:controls -->
 ### 操作ガイド
 
  - **マウス：** ドラッグして線を描く
 
+<!-- i18n:section:faq -->
 ### よくある質問（FAQ）
 
 
+<!-- i18n:faq:id=faq:thruline:i-end-one-edge-short-f4943235 -->
 - Q: いつも最後が1本足りません。
+<!-- i18n:faq:id=faq:thruline:are-crossings-legal-f8260708 -->
 **ゲームの目標は何ですか？**
 
 
-- Q: 線は交差してもいいですか？
-すべての点を一筆書きの線でつなぐことです。
-
-**線を戻すことはできますか？**
-
-いいえ、各点は一度だけ通れます。
-
-**難易度は高いですか？**
-
-最初は簡単ですが、徐々に複雑なパターンが必要になります。

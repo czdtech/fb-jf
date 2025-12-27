@@ -1,17 +1,19 @@
 ---
 title: Thief Puzzle
 description: Thief Puzzleは、泥棒をテーマにしたパズルゲームです。伸びる腕を使ってアイテムを盗みましょう。
-iframeSrc: 'https://ubg98.github.io/ThiefPuzzle/'
+iframeSrc: 'https://5mubkj30k8998.h5games.usercontent.goog/v/79n1cktk92370/'
 thumbnail: /new-images/thumbnails/thief-puzzle.png
 urlstr: thief-puzzle
-score: 4.4/5  (2876 votes)
+score: 4.0/5  (1876 votes)
 tags:
   - puzzle
   - strategy
   - casual
 locale: ja
+releaseDate: 2025-10-18
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Thief Puzzleは、伸びる腕を持つ泥棒を操作して、さまざまなアイテムを盗むパズルゲームです。捕まらずに目標を達成しましょう。
@@ -25,24 +27,18 @@ Thief Puzzleは、伸びる腕を持つ泥棒を操作して、さまざまな�
 
 
 - 連続回収：安全に取れるものは、引き戻す前にまとめて狙います。
+<!-- i18n:section:controls -->
 ### 操作ガイド
 
  - **マウス：** ドラッグして腕の経路を描く
 
+<!-- i18n:section:faq -->
 ### よくある質問（FAQ）
 
 
+<!-- i18n:faq:id=faq:thief-puzzle:i-trip-alarms-153ade3a -->
 - Q: アラームが鳴ってしまいます。
+<!-- i18n:faq:id=faq:thief-puzzle:timing-feels-tight-a5d830e2 -->
 **ゲームの目標は何ですか？**
 
 
-- Q: タイミングがシビアです。
-捕まらずに各レベルのアイテムを盗むことです。
-
-**捕まったらどうなりますか？**
-
-レベルを再スタートする必要があります。
-
-**レベルは難しくなりますか？**
-
-はい、より多くの障害物と複雑な経路が必要になります。

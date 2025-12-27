@@ -1,17 +1,19 @@
 ---
 title: Tumble Towers
 description: Tumble Towersは、タワー崩しゲームです。ブロックを引き抜いて塔が倒れないようにしましょう。
-iframeSrc: 'https://ubg98.github.io/TumbleTowers/'
+iframeSrc: 'https://786ndsslg99r8.h5games.usercontent.goog/v/70bavan56u08g/'
 thumbnail: /new-images/thumbnails/tumble-towers.png
 urlstr: tumble-towers
-score: 4.3/5  (2123 votes)
+score: 3.9/5  (1742 votes)
 tags:
   - puzzle
   - physics
   - strategy
 locale: ja
+releaseDate: 2025-10-18
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Tumble Towersは、ジェンガスタイルのブロック引き抜きゲームです。タワーが倒れないように慎重にブロックを引き抜き、できるだけ長く続けましょう。
@@ -25,24 +27,18 @@ Tumble Towersは、ジェンガスタイルのブロック引き抜きゲーム�
 
 
 - 微調整：小さなブロックで上面を整えると安定しやすいです。
+<!-- i18n:section:controls -->
 ### 操作ガイド
 
  - **マウス：** ブロックをドラッグして引き抜く
 
+<!-- i18n:section:faq -->
 ### よくある質問（FAQ）
 
 
+<!-- i18n:faq:id=faq:tumble-towers:tower-keeps-swaying-apart-daab0b88 -->
 - Q: タワーがぐらつきます。
+<!-- i18n:faq:id=faq:tumble-towers:can-i-salvage-a-lean-8fa4b483 -->
 **ゲームの目標は何ですか？**
 
 
-- Q: 傾きを立て直せますか？
-タワーを倒さずにできるだけ多くのブロックを引き抜くことです。
-
-**どのブロックを引き抜くべきですか？**
-
-構造的に重要でないブロックを選ぶのが安全です。
-
-**タワーが倒れたらどうなりますか？**
-
-ゲームオーバーです。スコアが記録されます。

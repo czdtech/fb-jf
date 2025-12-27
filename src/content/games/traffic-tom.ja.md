@@ -1,17 +1,19 @@
 ---
 title: Traffic Tom
 description: Traffic Tomは、道路横断ゲームです。車を避けて安全に道路を渡りましょう。
-iframeSrc: 'https://ubg98.github.io/TrafficTom/'
+iframeSrc: 'https://traffictom.h5games.usercontent.goog/v/7c1a9fb2-2097-4c14-b7b1-052d80d41adb/'
 thumbnail: /new-images/thumbnails/traffic-tom.jpg
 urlstr: traffic-tom
-score: 4.2/5  (1987 votes)
+score: 4.3/5  (2400 votes)
 tags:
   - arcade
   - casual
   - timing
 locale: ja
+releaseDate: 2025-10-17
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Traffic Tomは、忙しい道路を横断するタイミングゲームです。車を避けながら安全に道路を渡り、できるだけ遠くまで進みましょう。
@@ -23,34 +25,28 @@ Traffic Tomは、忙しい道路を横断するタイミングゲームです。
  - **安全に渡る：** 車にぶつからないようにします
  - **スコア獲得：** 渡った道路の数でスコアを獲得します
 
+<!-- i18n:section:controls -->
 ### 操作ガイド
 
  - **上矢印/W：** 前進
  - **下矢印/S：** 後退
  - **左/右矢印/A/D：** 左右移動
 
+<!-- i18n:section:faq -->
 ### よくある質問（FAQ）
 
 
 - **A:** 多くの場合、移動速度自体は固定です。焦らず車の流れを見て、安全に渡れる隙を作るのがコツです。
 
+<!-- i18n:faq:id=faq:traffic-tom:q-what-happens-if-i-94a0550a -->
     - **Q: もっと速く進む方法はありますか？**
 
 - **A:** バージョンによっては、集めたコインで見た目の変更や要素の解放ができる場合があります。
 
+<!-- i18n:faq:id=faq:traffic-tom:q-how-do-i-get-25ad1844 -->
     - **Q: コインは何に使えますか？**
 
 - **A:** その場でゲームオーバーになり、最初からやり直しになります。
 
+<!-- i18n:faq:id=faq:traffic-tom:q-is-there-a-way-2e68a91b -->
     - **Q: 車にぶつかるとどうなりますか？**
-**ゲームの目標は何ですか？**
-
-車にぶつからずにできるだけ多くの道路を横断することです。
-
-**車にぶつかったらどうなりますか？**
-
-ゲームオーバーになり、最初からやり直しです。
-
-**難易度は上がりますか？**
-
-はい、車の数とスピードが徐々に増えます。

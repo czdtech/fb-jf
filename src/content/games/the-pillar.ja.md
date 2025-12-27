@@ -1,17 +1,19 @@
 ---
 title: The Pillar
 description: The Pillarは、パズルアドベンチャーゲームです。謎を解いて柱の秘密を明らかにしましょう。
-iframeSrc: 'https://ubg98.github.io/ThePillar/'
+iframeSrc: 'https://m.igroutka.ru/g-1/53/ThePillar/'
 thumbnail: /new-images/thumbnails/the-pillar.jpg
 urlstr: the-pillar
-score: 4.2/5  (1543 votes)
+score: 3.8/5  (802 votes)
 tags:
   - puzzle
   - adventure
   - mystery
 locale: ja
+releaseDate: 2025-08-16
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 The Pillarは、美しいビジュアルと挑戦的なパズルを特徴とするアドベンチャーゲームです。神秘的な柱の周りの謎を解き明かしましょう。
@@ -25,12 +27,16 @@ The Pillarは、美しいビジュアルと挑戦的なパズルを特徴とす�
  - **手がかり収集：** 重要な手がかりを見つけます
  - **謎を明らかに：** ストーリーを進めて真実を発見します
 
+<!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `WASD` `Arrow Keys` `Left Mouse Button`
 
  - **WASD/矢印キー：** 移動
  - **マウス：** 相互作用とパズル操作
  - **E：** アクション
 
+<!-- i18n:section:faq -->
 ### よくある質問（FAQ）
 
 **ゲームの目標は何ですか？**
@@ -44,3 +50,4 @@ The Pillarは、美しいビジュアルと挑戦的なパズルを特徴とす�
 **どれくらいの長さですか？**
 
 パズル解決スキルによって異なりますが、数時間のゲームプレイが楽しめます。
+

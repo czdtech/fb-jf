@@ -1,17 +1,19 @@
 ---
 title: Tanuki Sunset
 description: Tanuki Sunsetは、スタイリッシュなスケートボードゲームです。たぬきを操作して美しい夕日の中を滑りましょう。
-iframeSrc: 'https://ubg98.github.io/TanukiSunset/'
+iframeSrc: 'https://ubg100.github.io/games/tanuki/index.html'
 thumbnail: /new-images/thumbnails/tanuki-sunset.jpg
 urlstr: tanuki-sunset
-score: 4.6/5  (4234 votes)
+score: 4.5/5  (300 votes)
 tags:
   - skateboard
   - arcade
   - retro
 locale: ja
+releaseDate: 2025-08-16
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Tanuki Sunsetは、レトロな80年代のビジュアルスタイルを持つスタイリッシュなスケートボードゲームです。たぬきを操作して曲がりくねった道を滑り降り、トリックを実行してポイントを獲得しましょう。
@@ -25,17 +27,21 @@ Tanuki Sunsetは、レトロな80年代のビジュアルスタイルを持つ�
  - **トリック：** ジャンプやドリフトでトリックを実行します
  - **ポイント獲得：** スタイリッシュな動きでポイントを集めます
 
+<!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `A` `D` `Left` `Right Arrow Keys` `Spacebar` `S` `Down Arrow Key` `W` `Up Arrow Key` `Esc`
 
  - **A/D または 左/右矢印：** 左右に傾く
  - **スペースバー：** ドリフト
 
 
-- **一時停止：** `Esc`
+- **一時停止：** Esc
 
-- **スピード姿勢：** `W` または `↑`（押し続けると一部の障害物を突破できる場合があります）
+- **スピード姿勢：** W または ↑（押し続けると一部の障害物を突破できる場合があります）
 
-- **180スライド / 減速：** `S` または `↓`
+- **180スライド / 減速：** S または ↓
+<!-- i18n:section:faq -->
 ### よくある質問（FAQ）
 
 **ゲームの目標は何ですか？**
@@ -49,3 +55,4 @@ Tanuki Sunsetは、レトロな80年代のビジュアルスタイルを持つ�
 **ゲームのスタイルは何ですか？**
 
 レトロな80年代のビジュアルと音楽を特徴としています。
+

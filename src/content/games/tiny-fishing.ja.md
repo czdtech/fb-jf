@@ -1,17 +1,19 @@
 ---
 title: Tiny Fishing
 description: Tiny Fishingは、リラックスできる釣りゲームです。魚を釣って、ロッドをアップグレードしましょう。
-iframeSrc: 'https://ubg98.github.io/TinyFishing/'
+iframeSrc: 'https://webglmath.github.io/tiny-fishing/'
 thumbnail: /new-images/thumbnails/tiny-fishing.jpg
 urlstr: tiny-fishing
-score: 4.5/5  (3892 votes)
+score: 4.7/5  (322 votes)
 tags:
   - fishing
   - casual
   - relaxing
 locale: ja
+releaseDate: 2025-08-16
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Tiny Fishingは、シンプルで楽しい釣りゲームです。釣り竿を投げて魚を釣り、お金を稼いで装備をアップグレードしましょう。
@@ -34,6 +36,7 @@ Tiny Fishingは、シンプルで楽しい釣りゲームです。釣り竿を�
 - **アップグレード：** 稼いだコインで装備を強化できます。
 
 - **巻き上げ：** 魚がかかったらクリックして引き上げます。
+<!-- i18n:section:faq -->
 ### よくある質問（FAQ）
 
 
@@ -55,3 +58,4 @@ Tiny Fishingは、シンプルで楽しい釣りゲームです。釣り竿を�
 **アップグレードは何がありますか？**
 
 より長いライン、より強いロッド、より良い針などがあります。
+

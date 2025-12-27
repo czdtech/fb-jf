@@ -1,12 +1,13 @@
 ---
 title: "Treasure Hunter"
 description: "Treasure Hunterは、宝探しアドベンチャーゲームです。宝を見つけて障害物を避けましょう。"
-iframeSrc: "https://ubg98.github.io/TreasureHunter/"
+iframeSrc: "https://m.igroutka.ru/g-1/149/TreasureHunter/"
 thumbnail: /new-images/thumbnails/treasure-hunter.jpg
 urlstr: "treasure-hunter"
-score: "4.3/5  (2456 votes)"
+score: "4.6/5  (1294 votes)"
 tags: ["adventure", "puzzle", "exploration"]
 locale: ja
+releaseDate: 2025-08-16
 ---
 
 ### ゲーム紹介
@@ -39,3 +40,4 @@ Treasure Hunterは、古代遺跡を探索して宝を見つけるアドベン�
 **レベルは何個ありますか？**
 
 複数のレベルがあり、それぞれ異なる遺跡と宝物があります。
+

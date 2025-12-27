@@ -1,17 +1,19 @@
 ---
 title: Tunnel Rush
 description: Tunnel Rushは、高速トンネルラッシュゲームです。障害物を避けてトンネルを駆け抜けましょう。
-iframeSrc: 'https://ubg98.github.io/TunnelRush/'
+iframeSrc: 'https://szhong.4399.com/4399swf//upload_swf/ftp44/gamehwq/20230830/12a/index.html'
 thumbnail: /new-images/thumbnails/tunnel-rush.jpg
 urlstr: tunnel-rush
-score: 4.6/5  (4567 votes)
+score: 4.6/5  (919 votes)
 tags:
   - arcade
   - endless
   - speed
 locale: ja
+releaseDate: 2025-08-16
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Tunnel Rushは、カラフルなトンネルを高速で駆け抜ける息をのむようなアーケードゲームです。左右に動いて障害物を避け、できるだけ遠くまで進みましょう。
@@ -33,6 +35,7 @@ Tunnel Rushは、カラフルなトンネルを高速で駆け抜ける息をの
 - **中央を意識：** 障害物がないときは、中央寄りに戻しておくと対応しやすいです。
 
 - **障害物を回避：** タイミングよく左右に動いて避けます。
+<!-- i18n:section:faq -->
 ### よくある質問（FAQ）
 
 
@@ -54,3 +57,4 @@ Tunnel Rushは、カラフルなトンネルを高速で駆け抜ける息をの
 **ゲームは終わりがありますか？**
 
 いいえ、エンドレスゲームで、障害物に当たるまで続きます。
+

@@ -1,17 +1,19 @@
 ---
 title: UNO
 description: UNOは、クラシックなカードゲームです。カードを出して先に手札をなくしましょう。
-iframeSrc: 'https://ubg98.github.io/UNO/'
+iframeSrc: 'https://www.xpgameplus.com/games/uno/default.html'
 thumbnail: /new-images/thumbnails/uno.jpg
 urlstr: uno
-score: 4.5/5  (4123 votes)
+score: 4.4/5  (1083 votes)
 tags:
   - cards
   - classic
   - multiplayer
 locale: ja
+releaseDate: 2025-08-16
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 UNOは、世界中で愛されているクラシックなカードゲームです。色または数字が一致するカードを出し、先に手札をすべてなくした人が勝ちです。
@@ -35,6 +37,7 @@ UNOは、世界中で愛されているクラシックなカードゲームで�
 - **色を選ぶ：** ワイルドカードの後、次の色を選びます。
 
 - **ドロー：** 出せるカードがないときは、山札をクリックして引きます。
+<!-- i18n:section:faq -->
 ### よくある質問（FAQ）
 
 
@@ -56,3 +59,4 @@ UNOは、世界中で愛されているクラシックなカードゲームで�
 **UNOを言い忘れたらどうなりますか？**
 
 ペナルティとして追加のカードを引く必要があります。
+

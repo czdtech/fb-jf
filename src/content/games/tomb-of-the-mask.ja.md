@@ -1,17 +1,19 @@
 ---
 title: Tomb of the Mask
 description: Tomb of the Maskは、迷路を駆け抜けるアーケードゲームです。マスクをつけた冒険者を操作して墓を探索しましょう。
-iframeSrc: 'https://ubg98.github.io/TombOfTheMask/'
+iframeSrc: 'https://w8.snokido.com/games/unity-webgl/tomb-run/index.html'
 thumbnail: /new-images/thumbnails/tomb-of-the-mask.jpg
 urlstr: tomb-of-the-mask
-score: 4.5/5  (4123 votes)
+score: 3.7/5  (843 votes)
 tags:
   - arcade
   - maze
   - action
 locale: ja
+releaseDate: 2025-08-16
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Tomb of the Maskは、古代の墓の迷路を探索する速いペースのアーケードゲームです。マスクの力で壁に沿って移動し、宝物を集め、罠を避けましょう。
@@ -25,11 +27,15 @@ Tomb of the Maskは、古代の墓の迷路を探索する速いペースのア�
 
 
 - **洪水から逃げる：** 画面下から色のついた波が迫ることがあり、素早く上へ進む必要があります。
+<!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Arrow Keys` `WASD`
 
  - **矢印キー/WASD：** 移動方向
  - **スワイプ：** モバイルでの移動
 
+<!-- i18n:section:faq -->
 ### よくある質問（FAQ）
 
 **ゲームの目標は何ですか？**
@@ -43,3 +49,4 @@ Tomb of the Maskは、古代の墓の迷路を探索する速いペースのア�
 **難易度は高いですか？**
 
 徐々に難しくなり、速い反応と戦略が必要になります。
+

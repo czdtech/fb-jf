@@ -1,17 +1,19 @@
 ---
 title: Trap the Cat
 description: Trap the Catは、猫を囲むパズルゲームです。タイルをブロックして猫が逃げられないようにしましょう。
-iframeSrc: 'https://ubg98.github.io/TrapTheCat/'
+iframeSrc: 'https://freeonlinegames.github.io/cat-trap.html'
 thumbnail: /new-images/thumbnails/trap-the-cat.jpg
 urlstr: trap-the-cat
-score: 4.4/5  (3234 votes)
+score: 4.0/5  (972 votes)
 tags:
   - puzzle
   - strategy
   - logic
 locale: ja
+releaseDate: 2025-08-16
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Trap the Catは、猫が六角形のグリッドから逃げないように囲むパズル戦略ゲームです。タイルをブロックして猫の逃げ道を塞ぎましょう。
@@ -33,6 +35,7 @@ Trap the Catは、猫が六角形のグリッドから逃げないように囲�
 - **リスタート：** 失敗したらやり直せます。
 
 - **猫の動きを観察：** 現在位置と、次に動ける方向を見ます。
+<!-- i18n:section:faq -->
 ### よくある質問（FAQ）
 
 
@@ -54,3 +57,4 @@ Trap the Catは、猫が六角形のグリッドから逃げないように囲�
 **戦略はありますか？**
 
 中心から囲み始め、猫の動きを予測することが重要です。
+

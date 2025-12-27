@@ -1,12 +1,13 @@
 ---
 title: "The Haze Pixelbox"
 description: "The Haze Pixelboxは、ピクセルアートスタイルのアドベンチャーゲームです。霧に覆われた世界を探索しましょう。"
-iframeSrc: "https://ubg98.github.io/TheHazePixelbox/"
+iframeSrc: "https://turbowarp.org/1020955547/embed"
 thumbnail: /new-images/thumbnails/the-haze-pixelbox.png
 urlstr: "the-haze-pixelbox"
-score: "4.2/5  (1743 votes)"
+score: "3.9/5  (132 votes)"
 tags: ["adventure", "pixel", "exploration"]
 locale: ja
+releaseDate: 2025-12-04
 ---
 
 ### ゲーム紹介
@@ -39,3 +40,4 @@ The Haze Pixelboxは、美しいピクセルアートスタイルのアドベン
 **難易度は高いですか？**
 
 謎解きには思考が必要ですが、段階的に難しくなります。
+
