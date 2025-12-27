@@ -11,6 +11,7 @@ releaseDate: 2025-10-10
 locale: ja
 ---
 
+<!-- i18n:section:introduction -->
 ### **Incredibox Instrumentalistゲーム紹介**
 
 *Incredibox Instrumentalist*は、非常に革新的で美しくデザインされたファン作成モッドです。コアのIncrediboxプレゼンテーションを根本的に変更します。パフォーマーのクルーにアイコンをドラッグする代わりに、**プレイヤーは楽器自体をステージに直接召喚**し、生き生きとしてパフォーマンスします。
@@ -19,6 +20,7 @@ locale: ja
 
 目的は、プレイヤーが独自のユニークなオーケストラを構築することで、豊かでレイヤー化されたインストゥルメンタルピースを作曲できるようにすることです。
 
+<!-- i18n:section:tips -->
 ### **ゲームプレイ戦略とヒント**
 
 *Incredibox Instrumentalist*の戦略は、異なる楽器がどのように互いを補完してフルサウンドのアンサンブルを構築するかを理解することにあります。
@@ -39,6 +41,7 @@ locale: ja
 
 5.  **テクスチャー楽器をフレーバーに使用する**: グイロやカズーのような楽器は、ミックスにユニークなキャラクターとフレーバーを追加するのに最適です。それらを落として、ループをより興味深くダイナミックにします。
 
+<!-- i18n:section:controls -->
 ### **操作ガイド**
 
 このモッドは、クラシックなIncredibox操作のユニークなアレンジを特徴としています。
@@ -47,16 +50,22 @@ locale: ja
 *   **楽器を削除**: ステージ上の楽器を単に**クリック**して削除します。
 *   **レコード**: **レコードボタン**（右上）をクリックして、インストゥルメンタルピースのレコーディングを開始および停止します。
 
+<!-- i18n:section:faq -->
 ### **よくある質問 (FAQ)**
 
+<!-- i18n:faq:id=faq:incredibox-instrumentalist:is-this-an-official-incredibox-12056458 -->
 **1. これは公式のIncrediboxバージョンですか？**
 いいえ。これはGabsoares04によって作成された非常にクリエイティブな**ファン作成モッド**です。公式のIncrediboxチームSo Far So Goodとは提携していません。
 
+<!-- i18n:faq:id=faq:incredibox-instrumentalist:what-makes-this-mod-so-5ae5fbac -->
 **2. このモッドのユニークな点は何ですか？**
 その主な革新は「パフォーマーとしての楽器」ゲームプレイです。キャラクターをカスタマイズする代わりに、文字通りステージ上でオーケストラを構築しています。さらに、これは**純粋にインストゥルメンタル体験**で、多様な範囲のワールド楽器のサウンドに完全に焦点を当てており、ほぼすべての他のバージョンと区別しています。
 
+<!-- i18n:faq:id=faq:incredibox-instrumentalist:where-can-i-play-this-a4cf171c -->
 **3. このモッドはどこでプレイできますか？**
 公式プラットフォームでは見つかりません。*Instrumentalist*のようなモッドは通常、**playfiddlebops.com**のようなゲームモッディングサイトでホストされているか、YouTubeで紹介され、多くの場合、ウェブブラウザでモッドを直接プレイするためのリンクが提供されます。
 
+<!-- i18n:faq:id=faq:incredibox-instrumentalist:are-the-bonus-solutions-for-3062ed27 -->
 **4. 「Instrumentalist」のボーナス解決策はオンラインで利用可能ですか？**
 はい。アニメーションの組み合わせを見つけるのに苦労している場合、YouTubeで「*Incredibox Instrumentalist combos*」を素早く検索すると、解決策が提供される可能性があります。
+

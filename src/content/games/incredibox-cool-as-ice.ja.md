@@ -7,6 +7,7 @@ urlstr: "incredibox-cool-as-ice"
 score: "4.9/5  (724 votes)"
 tags: ["incredibox cool as ice", "incredibox cool as ice online"]
 locale: ja
+releaseDate: 2025-12-04
 ---
 
 ### Incredibox Cool As Iceの紹介
@@ -43,3 +44,4 @@ Cool as Ice Modでは、おなじみのIncrediboxキャラクターが冬テー�
 ### まとめ:
  
 Incredibox Cool as Ice Modは、冬（氷）テーマの見た目とサウンドでミックスを組み立てられるのが特徴です。まずはビートを置き、次にメロディやエフェクトを足しながら、全体の冷たい質感が揃うように調整してみてください。
+

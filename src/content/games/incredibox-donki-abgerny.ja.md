@@ -7,8 +7,10 @@ urlstr: "incredibox-donki-abgerny"
 score: "4.3/5  (154 votes)"
 tags: ["incredibox donki abgerny"]
 locale: ja
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 Incredibox Donki Abgernyは、部族的なパーカッションやチャント、ディジュリドゥを想起させる音色でミックスを作るファンメイドModです。雰囲気のあるループを、アイコンの組み合わせで組み立てていきます。
  
 ### Incredibox Donki Abgernyとは何ですか？
@@ -37,3 +39,4 @@ Incredibox Donki Abgernyは、Incrediboxの基本操作（ドラッグ＆ドロ�
 ### まとめ:
  
 Incredibox Donki Abgernyは、部族的な質感のサウンドでミックスを組み立てられるModです。まずはビートを置き、次にボイスやエフェクトを少しずつ足しながら、全体のグルーヴが崩れない範囲で重ねていきましょう。
+

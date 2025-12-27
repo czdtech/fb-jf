@@ -7,12 +7,14 @@ urlstr: "incredibox"
 score: "4.9/5  (724 votes)"
 tags: ["incredibox", "incredibox online"]
 locale: ja
+releaseDate: 2025-12-04
 ---
 
 ### Incrediboxの紹介
  
 Incrediboxは、ビートボクサーに「ビート/メロディ/エフェクト」などのサウンドを割り当てて、短いループ音楽を組み立てるゲームです。複雑な操作は不要で、試しながら組み合わせを整えていけます。
  
+<!-- i18n:section:how-to-play -->
 ### Incrediboxの遊び方
  
 基本の遊び方はシンプルです：
@@ -54,3 +56,4 @@ Incrediboxは、ビートボクサーに「ビート/メロディ/エフェク�
 ### まとめ:
  
 Incrediboxは、難しい前提知識なしでループ音楽を組み立てられるのが特徴です。まずはビートを置き、次にメロディやエフェクトを少しずつ足していくと作りやすくなります。
+

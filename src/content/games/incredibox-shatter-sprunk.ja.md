@@ -7,12 +7,14 @@ urlstr: "incredibox-shatter-sprunk"
 score: "4.5/5  (614 votes)"
 tags: ["incredibox shatter sprunk", "incredibox shatter sprunk online"]
 locale: ja
+releaseDate: 2025-12-04
 ---
 
 ### Incredibox Shatter Sprunkの面白さとは？
  
 Incredibox Shatter Sprunkは、Incrediboxのクラシックなドラッグ＆ドロップ操作に、Sprunki由来のスタイルを組み合わせたファンモッドです。キャラクターとサウンドを組み合わせて、ループ音楽を作っていきます。
  
+<!-- i18n:section:how-to-play -->
 ### Incredibox Shatter Sprunkの遊び方は？
  
 ゲームプレイは非常にシンプルで、いくつかのステップで始めることができます：
@@ -27,6 +29,7 @@ Incredibox Shatter Sprunkは、Incrediboxのクラシックなドラッグ＆ド
  
 **Incredibox Shatter Sprunkでは、目標は「勝つ」ことではなく、あなたが好きな音楽作品を作成することです。**
  
+<!-- i18n:section:controls -->
 ### マウス操作：
  
 Incredibox Shatter Sprunkの操作は非常にシンプルで、マウスで簡単に完了できます：
@@ -43,3 +46,4 @@ Incredibox Shatter Sprunkの操作は非常にシンプルで、マウスで簡�
  - **シンプルで使いやすい操作:** マウス操作はシンプルで直感的で、すべての年齢とスキルレベルのプレイヤーが簡単に始めることができます。
  - **ユニークなSprunkiスタイル:** Sprunkiのスタイル要素を取り入れ、通常のIncrediboxとは違う雰囲気で遊べます。
  - **楽しみの探索:** 隠されたアニメーションと特殊効果を発見し、作成プロセスを驚きでいっぱいにします。
+

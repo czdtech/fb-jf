@@ -7,8 +7,10 @@ urlstr: "incredibox-sprunksters"
 score: "4.3/5  (185 votes)"
 tags: ["incredibox sprunksters"]
 locale: ja
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 Incredibox Sprunkstersは、Incrediboxの操作感にSprunki系の雰囲気を加えたファンメイドModです。キャラクターやサウンドの組み合わせを試しながら、ループ音楽を組み立てていきます。
  
 ### Incredibox Sprunkstersの概要
@@ -41,3 +43,4 @@ Incredibox Sprunkstersは、Incrediboxの操作感にSprunki系の雰囲気を�
 ### 結論：
  
 Incredibox Sprunkstersは、サウンドと演出のテーマ性を活かしながらミックスを作れるファンメイドModです。ビートを土台にして少しずつ重ね、聴きやすいバランスを探してみてください。
+

@@ -7,6 +7,7 @@ urlstr: "incredibox-yellow-colorbox"
 score: "4.5/5  (614 votes)"
 tags: ["incredibox yellow colorbox", "incredibox yellow colorbox online"]
 locale: ja
+releaseDate: 2025-12-04
 ---
 
 ### Incredibox Yellow Colorboxとは？
@@ -40,3 +41,4 @@ Incredibox Yellow Colorboxの各キャラクターには特別な外観と色が
 ---
  
 シンプルなビートを作成したいか、複雑な曲を作りたいかにかかわらず、Incredibox Yellow Colorboxはドラッグ＆ドロップで気軽にミックスを試せます。
+
