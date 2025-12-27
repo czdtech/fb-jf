@@ -3,9 +3,9 @@
  * Analytics Component
  * Contains Google Analytics (gtag.js) and Google AdSense code.
  *
- * EU/UK 合规最小集：
- * - 在用户同意前不加载第三方脚本（GA/AdSense）
- * - 同意后再动态注入脚本
+ * 合规策略（按地区）：
+ * - EEA/UK/CH：未同意前不加载第三方脚本（GA/AdSense）
+ * - 其他地区：用户未选择时默认加载（提升 AdSense 展示/收入）
  */
 ---
 
@@ -16,12 +16,36 @@
     const GA_ID = 'G-9JME3P55QJ';
     const ADSENSE_CLIENT = 'ca-pub-1444054360166733';
     const CONSENT_KEY = 'fb_cookie_consent_v1';
+    const GEO_KEY = 'fb_geo_country_v1';
+    const GEO_TTL_MS = 12 * 60 * 60 * 1000; // 12h（session cache，尽量减少跨地区误判）
+
+    // EEA + UK + CH（Google 广告/分析常见需要同意的地区集合）
+    const EEA_UK_CH = new Set([
+      'AT','BE','BG','HR','CY','CZ','DK','EE','FI','FR','DE','GR','HU','IE','IT','LV','LT','LU','MT','NL','PL','PT','RO','SK','SI','ES','SE',
+      'IS','LI','NO', // EEA
+      'GB','UK',      // UK（部分系统可能回传 UK）
+      'CH',           // Switzerland
+    ]);
 
     function getConsent() {
       try {
         return localStorage.getItem(CONSENT_KEY);
       } catch {
         return null;
+      }
+    }
+
+    function publishConsentScope(detail) {
+      try {
+        window.__fbConsentRequired = Boolean(detail && detail.consentRequired);
+        window.__fbConsentCountry = detail && detail.country ? String(detail.country) : null;
+      } catch {
+        // ignore
+      }
+      try {
+        window.dispatchEvent(new CustomEvent('fb:consent-scope', { detail }));
+      } catch {
+        // ignore
       }
     }
 
@@ -76,12 +100,82 @@
       );
     }
 
+    function isConsentRequiredForCountry(country) {
+      if (!country) return true; // 保守：未知就要求同意（避免误放行）
+      return EEA_UK_CH.has(String(country).toUpperCase());
+    }
+
+    function getGeoCache() {
+      try {
+        const raw = sessionStorage.getItem(GEO_KEY);
+        if (!raw) return null;
+        const parsed = JSON.parse(raw);
+        if (!parsed || typeof parsed !== 'object') return null;
+        const country = typeof parsed.country === 'string' ? parsed.country : null;
+        const ts = typeof parsed.ts === 'number' ? parsed.ts : 0;
+        if (!country) return null;
+        if (!ts || Date.now() - ts > GEO_TTL_MS) return null;
+        return country;
+      } catch {
+        return null;
+      }
+    }
+
+    function setGeoCache(country) {
+      try {
+        sessionStorage.setItem(GEO_KEY, JSON.stringify({ country, ts: Date.now() }));
+      } catch {
+        // ignore
+      }
+    }
+
+    function fetchCountryByCloudflareTrace() {
+      return fetch('https://www.cloudflare.com/cdn-cgi/trace', { cache: 'no-store' })
+        .then((res) => (res && res.ok ? res.text() : ''))
+        .then((txt) => {
+          const m = String(txt || '').match(/(?:^|\\n)loc=([A-Z]{2})(?:\\n|$)/);
+          return m ? m[1] : null;
+        })
+        .catch(() => null);
+    }
+
     window.__fbLoadAnalytics = loadGA;
     window.__fbLoadAdsense = loadAdsense;
 
-    if (getConsent() === 'accepted') {
+    const consent = getConsent();
+
+    if (consent === 'accepted') {
+      publishConsentScope({ consentRequired: false, country: null, source: 'user-accepted' });
       loadGA();
       loadAdsense();
+      return;
     }
+
+    if (consent === 'rejected') {
+      publishConsentScope({ consentRequired: true, country: null, source: 'user-rejected' });
+      return;
+    }
+
+    // 未做选择：仅在 EEA/UK/CH 强制同意；其余地区默认加载（提升 AdSense 展示/收入）
+    const cachedCountry = getGeoCache();
+    if (cachedCountry) {
+      const consentRequired = isConsentRequiredForCountry(cachedCountry);
+      publishConsentScope({ consentRequired, country: cachedCountry, source: 'geo-cache' });
+      if (!consentRequired) {
+        loadGA();
+        loadAdsense();
+      }
+      return;
+    }
+
+    fetchCountryByCloudflareTrace().then((country) => {
+      if (country) setGeoCache(country);
+      const consentRequired = isConsentRequiredForCountry(country);
+      publishConsentScope({ consentRequired, country, source: country ? 'cloudflare-trace' : 'geo-unknown' });
+      if (!consentRequired) {
+        loadGA();
+        loadAdsense();
+      }
+    });
   })();
 </script>

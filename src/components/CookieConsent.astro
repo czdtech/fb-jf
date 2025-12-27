@@ -159,7 +159,34 @@ const privacyHref = getLocalizedPath('/privacy/', locale);
 
   // init
   if (!getConsent()) {
-    showBanner();
+    // 默认不弹；由 Analytics 计算“是否需要强制同意(EEA/UK/CH)”后再决定是否展示
+    const required = typeof window.__fbConsentRequired === 'boolean' ? window.__fbConsentRequired : null;
+
+    if (required === true) showBanner();
+    else if (required === false) hideBanner();
+    else {
+      // 等待 Analytics 发布结果
+      window.addEventListener(
+        'fb:consent-scope',
+        (e) => {
+          const detail = e && e.detail ? e.detail : null;
+          const need = detail && typeof detail.consentRequired === 'boolean' ? detail.consentRequired : null;
+          if (need === true) showBanner();
+          else if (need === false) hideBanner();
+          else showBanner(); // 兜底：无法判断就弹出（保守合规）
+        },
+        { once: true }
+      );
+
+      // 再兜底一次：如果 Geo 判断一直失败/被拦截，避免永远不提示
+      setTimeout(() => {
+        if (getConsent()) return;
+        const now = typeof window.__fbConsentRequired === 'boolean' ? window.__fbConsentRequired : null;
+        if (now === true) showBanner();
+        else if (now === false) hideBanner();
+        else showBanner();
+      }, 2500);
+    }
   }
 
   function onDocClick(e) {
