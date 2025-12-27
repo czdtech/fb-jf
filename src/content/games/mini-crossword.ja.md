@@ -1,19 +1,20 @@
 ---
 title: Mini Crossword
 description: Mini Crosswordはコンパクトなクロスワードパズルです。手がかりを解き、短時間でグリッドを埋めます。
-iframeSrc: 'https://minicrossword.h5games.usercontent.goog/v/04sf2s4bnkkk0/'
+iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/daily-crossword-mini/'
 thumbnail: /new-images/thumbnails/mini-crossword.jpg
 urlstr: mini-crossword
-score: 4.3/5  (2089 votes)
+score: 4.9/5  (363 votes)
 tags:
   - puzzle
   - thinky
   - casual
 developer: ''
-releaseDate: 2025-10-17T00:00:00.000Z
+releaseDate: 2025-08-16
 locale: ja
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Mini Crosswordは、短時間で解けるコンパクトなクロスワードパズルです。手がかりから単語を推測し、グリッドを埋めていきます。語彙や知識を使って解くタイプのワードパズルです。
@@ -36,6 +37,7 @@ Mini Crosswordは、短時間で解けるコンパクトなクロスワードパ
 - **答え合わせ**: 一部のゲームでは、入力した単語が正しいか確認できる「Check」機能があります。
 
 - **手がかり表示**: 画面には、選択中の単語に対応する手がかりが表示されます。
+<!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
 - **Q: 毎日新しいパズルがありますか？**  
@@ -52,3 +54,4 @@ Mini Crosswordは、短時間で解けるコンパクトなクロスワードパ
 
 
 **A**: デイリーパズルはダウンロードや更新のためにインターネット接続が必要なことが多いです。ただし一度取得すれば、オフラインでも遊べる場合があります。
+

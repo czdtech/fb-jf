@@ -1,10 +1,10 @@
 ---
 title: Om Nom Run
 description: Om Nom Runはエンドレスランナーです。走ってキャンディやコインを集め、障害物を避けながら距離とスコアを伸ばします。
-iframeSrc: 'https://omnomrun.h5games.usercontent.goog/v/5h9k2m7j8p3n8/'
+iframeSrc: 'https://omnomrun.h5games.usercontent.goog/v/38udj70raubl0/'
 thumbnail: /new-images/thumbnails/om-nom-run.png
 urlstr: om-nom-run
-score: 4.4/5  (2567 votes)
+score: 4.5/5  (3400 votes)
 tags:
   - action
   - casual
@@ -13,10 +13,12 @@ releaseDate: 2025-10-17T00:00:00.000Z
 locale: ja
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Om Nom Runは、Cut the RopeシリーズのOm Nomが登場するエンドレスランナーです。走り、ジャンプやスライドで障害物を避けながらキャンディを集めます。パワーアップを活用して距離やスコアを伸ばします。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **パターンを学ぶ:** 一般的な障害物のシーケンスを記憶します。
@@ -29,6 +31,7 @@ Om Nom Runは、Cut the RopeシリーズのOm Nomが登場するエンドレス�
 - **ブースターを強化:** 集めたコインでパワーアップの効果時間や性能を強化できる場合があります。マグネットやロケットの持続が伸びるとスコアが安定します。
 
 - **ミッションを意識:** 走行中に提示されるミッション（例：「10回ジャンプ」「コインを200枚集める」）を達成すると、スコア倍率や報酬が伸びやすくなります。
+<!-- i18n:section:controls -->
 ### 操作ガイド
 
 
@@ -37,18 +40,17 @@ Om Nom Runは、Cut the RopeシリーズのOm Nomが登場するエンドレス�
 - スワイプダウン：スライドします。
 - スワイプ左/右：レーンを変更します。
 
+<!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
+<!-- i18n:faq:id=faq:om-nom-run:q-what-is-the-main-54696a60 -->
 - **Q: 最高のパワーアップは何ですか？**  
   A: マグネット（キャンディ用）とシールド（安全用）。
+<!-- i18n:faq:id=faq:om-nom-run:q-what-happens-when-i-5d8deb07 -->
     - **Q: エンドレスですか？**  
   A: はい、できるだけ遠くへ走ります。
+<!-- i18n:faq:id=faq:om-nom-run:q-how-do-i-unlock-9f47880d -->
 - **Q: より多くのキャンディを獲得するにはどうすればよいですか？**  
 
     - **A:** ミッション達成やパワーアップの活用で走行距離を伸ばし、取り逃しを減らすのが近道です。
 
-- **Q: 他のキャラクターの解放や、失敗したときの続行はできますか？**
-
-    - **A:** 新しいキャラクターは、コインを一定数集めたり、走行中に出現するトークンを集めたりして解放することが多いです。
-    - **A:** 障害物に当たると走行が終了しますが、キーなどの特殊通貨を使ってその場から続行できる場合があります。
-  A: マグネットパワーアップをアップグレードし、慎重に収集します。

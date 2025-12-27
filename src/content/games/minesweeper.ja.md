@@ -1,19 +1,20 @@
 ---
 title: Minesweeper
 description: クラシックなMinesweeperです。数字の手がかりから地雷を推理し、安全なマスをすべて開けます。
-iframeSrc: 'https://minesweeper.h5games.usercontent.goog/v/33ufbh64kv9s8/'
+iframeSrc: 'https://freeonlinegames.github.io/games/minesweeper/'
 thumbnail: /new-images/thumbnails/minesweeper.jpg
 urlstr: minesweeper
-score: 4.5/5  (2678 votes)
+score: 3.6/5  (289 votes)
 tags:
   - puzzle
   - thinky
   - casual
 developer: ''
-releaseDate: 2025-10-17T00:00:00.000Z
+releaseDate: 2025-08-16
 locale: ja
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Minesweeperは、数字の手がかりから地雷の位置を推理するクラシックなパズルゲームです。地雷を踏まないように注意しながら安全なタイルを開き、地雷はフラグでマークして盤面をクリアします。
@@ -32,6 +33,7 @@ Minesweeperは、数字の手がかりから地雷の位置を推理するクラ
 - 右クリック/長押しでフラグを配置/削除します。
 - 両ボタンクリック（該当する場合）：周囲のタイルを和音クリア。
 
+<!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
 - **Q: すべてのゲームは勝てますか？**  
@@ -48,3 +50,4 @@ Minesweeperは、数字の手がかりから地雷の位置を推理するクラ
 
 
 **A**: タイマーはクリアまでの時間を記録するためのものです。難易度ごとに自己ベスト更新を狙えます。
+

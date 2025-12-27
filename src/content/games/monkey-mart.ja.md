@@ -1,19 +1,20 @@
 ---
 title: Monkey Mart
 description: Monkey Martはストア管理ゲームです。商品を補充して販売し、設備をアップグレードしながら店を拡大します。
-iframeSrc: 'https://monkeymart.h5games.usercontent.goog/v/23sjt6hqspr00/'
+iframeSrc: 'https://szhong.4399.com/4399swf//upload_swf/ftp41/gamehwq/20221216/09/index.htm'
 thumbnail: /new-images/thumbnails/monkey-mart.jpg
 urlstr: monkey-mart
-score: 4.5/5  (3123 votes)
+score: 4.4/5  (592 votes)
 tags:
   - casual
   - thinky
   - strategy
 developer: ''
-releaseDate: 2025-10-17T00:00:00.000Z
+releaseDate: 2025-08-16
 locale: ja
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Monkey Martは、サルがストアを運営する管理ゲームです。商品を補充して販売し、収益で設備をアップグレードしながら店を広げていきます。新しい商品や設備をアンロックして、運営を効率化します。
@@ -32,6 +33,7 @@ Monkey Martは、サルがストアを運営する管理ゲームです。商品
 - 自動インタラクション（補充、販売、収集）。
 - ストアをアップグレードおよび拡大するためにクリック/タップします。
 
+<!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
 - **Q: 最初に何をアップグレードすべきですか？**  
@@ -48,3 +50,4 @@ Monkey Martは、サルがストアを運営する管理ゲームです。商品
 
 
 **A**: 多くの場合、厳密な時間制限はありません。ただしタスクやチャレンジによっては時間条件があることがあります。
+

@@ -1,19 +1,20 @@
 ---
 title: Monopoly
 description: クラシックなMonopolyボードゲームをプレイします。不動産を購入し、家を建設し、レントを収集し、対戦相手を破産させます。
-iframeSrc: 'https://monopoly.h5games.usercontent.goog/v/2bpqb8kd0b628/'
+iframeSrc: 'https://w8.snokido.com/games/html5/monopoly/index.html'
 thumbnail: /new-images/thumbnails/monopoly.jpg
 urlstr: monopoly
-score: 4.4/5  (2789 votes)
+score: 3.7/5  (1329 votes)
 tags:
   - card
   - 2 player
   - casual
 developer: ''
-releaseDate: 2025-10-17T00:00:00.000Z
+releaseDate: 2025-08-16
 locale: ja
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Monopolyは、不動産取引と戦略のクラシックなボードゲームです。ダイスを振り、プロパティを購入し、家やホテルを建設し、レントを収集します。目標は、対戦相手を破産させ、ボードを支配することです。
@@ -34,6 +35,7 @@ Monopolyは、不動産取引と戦略のクラシックなボードゲームで
 
 
 - **支払い**: 家賃や税金のマスに止まると、支払いが求められます（多くの場合は自動処理）。
+<!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
 - **Q: 最高のプロパティは何ですか？**  
@@ -50,3 +52,4 @@ Monopolyは、不動産取引と戦略のクラシックなボードゲームで
 
 
 **A**: 「Chance」「Community Chest」「Go to Jail」「Free Parking」などがあり、止まるとイベントやルールが発動します。
+

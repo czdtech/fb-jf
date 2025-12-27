@@ -1,19 +1,20 @@
 ---
 title: Mountayonnaise
 description: Mountayonnaiseは物理挙動のある登山ゲームです。マヨネーズの山を登り、滑りやすい足場と障害物を越えて頂上を目指します。
-iframeSrc: 'https://mountayonnaise.h5games.usercontent.goog/v/1ks8r51g6qsqg/'
+iframeSrc: 'https://turbowarp.org/1135773023/embed'
 thumbnail: /new-images/thumbnails/mountayonnaise.png
 urlstr: mountayonnaise
-score: 3.8/5  (1456 votes)
+score: 4.8/5  (649 votes)
 tags:
   - casual
   - novelty
 developer: ''
-releaseDate: 2025-10-18T00:00:00.000Z
+releaseDate: 2025-12-04
 locale: ja
 ---
 
 
+<!-- i18n:section:introduction -->
 Mountayonnaiseは、マヨネーズでできた山を登って頂上を目指す、少し変わった物理アクションゲームです。滑りやすい斜面や障害物に引っかからないように、慎重に位置取りをしながら進みます。
 ### ゲーム紹介
 
@@ -51,3 +52,4 @@ Mountayonnaiseは、マヨネーズでできた山を登る物理ベースのア
   A: 小さな調整と忍耐。過度に修正しないでください。
 - **Q: 本当にマヨネーズでできていますか？**  
   A: 世界観上はそういう設定です。
+

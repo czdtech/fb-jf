@@ -1,19 +1,20 @@
 ---
 title: Ovo
 description: Ovoはミニマリストなプラットフォーマーです。ジャンプやスライドで障害物を避け、正確な移動でステージを進みます。
-iframeSrc: 'https://ovo.h5games.usercontent.goog/v/5k9j2m8h7p3n8/'
+iframeSrc: 'https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20230129/1/index.html'
 thumbnail: /new-images/thumbnails/ovo.jpg
 urlstr: ovo
-score: 4.4/5  (2789 votes)
+score: 4.6/5  (773 votes)
 tags:
   - action
   - platformer
   - casual
 developer: ''
-releaseDate: 2025-10-17T00:00:00.000Z
+releaseDate: 2025-08-16
 locale: ja
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Ovoは、精密な移動と正確なタイミングに焦点を当てたミニマリストプラットフォーマーです。スパイク、ギャップ、移動プラットフォームを通してナビゲートします。シンプルなコントロール、挑戦的なレベル、満足のいくゲームプレイ。
@@ -34,6 +35,7 @@ Ovoは、精密な移動と正確なタイミングに焦点を当てたミニ�
 
 
 - **壁ジャンプ**: 壁際でジャンプすると壁ジャンプでき、連続で上に登れます。
+<!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
 - **Q: 継続的に死にます。ヒントは？**  
@@ -50,3 +52,4 @@ Ovoは、精密な移動と正確なタイミングに焦点を当てたミニ�
 
 
 **A**: 多くの場合、ブラウザでそのまま遊べます。バージョンによってはモバイルに対応していることもあります。
+

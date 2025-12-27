@@ -1,19 +1,20 @@
 ---
 title: Ovo Dimensions
 description: Ovo Dimensionsは次元切り替え要素のあるプラットフォーマーです。次元を切り替えて障害物を越え、パズルを解きながら進みます。
-iframeSrc: 'https://ovodimensions.h5games.usercontent.goog/v/4j9k5m8h7p3n8/'
+iframeSrc: 'https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221219/8/index.html'
 thumbnail: /new-images/thumbnails/ovo-dimensions.jpg
 urlstr: ovo-dimensions
-score: 4.3/5  (2167 votes)
+score: 4.9/5  (278 votes)
 tags:
   - action
   - platformer
   - thinky
 developer: ''
-releaseDate: 2025-10-17T00:00:00.000Z
+releaseDate: 2025-08-16
 locale: ja
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Ovo Dimensionsは、次元切り替えメカニクスを追加したプラットフォーマーです。2つの次元間を切り替えて障害物をナビゲートし、パズルを解決し、ゴールに到達します。各次元には独自のレイアウトと挑戦があります。
@@ -34,6 +35,7 @@ Ovo Dimensionsは、次元切り替えメカニクスを追加したプラット
 
 
 - **壁ジャンプ**: 壁に触れているときにジャンプすると壁ジャンプでき、連続で上に登れます。
+<!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
 - **Q: 次元をいつ切り替えるべきですか？**  
@@ -50,3 +52,4 @@ Ovo Dimensionsは、次元切り替えメカニクスを追加したプラット
 
 
 **A**: バージョンによっては、コミュニティやオンラインのランキングが用意されている場合があります。
+

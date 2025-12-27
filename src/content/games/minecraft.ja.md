@@ -1,19 +1,20 @@
 ---
 title: Minecraft
 description: Minecraftはサンドボックス型の冒険ゲームです。ブロックの世界で建築や探索を行い、素材を集めて生き延びます。
-iframeSrc: 'https://minecraft.h5games.usercontent.goog/v/5h14j8ljr0lk0/'
+iframeSrc: 'https://app-167027.games.s3.yandex.net/167027/tnn3wq0qkjwhvr1271tszdhl82lm97e6/index.html'
 thumbnail: /new-images/thumbnails/minecraft.jpg
 urlstr: minecraft
-score: 4.7/5  (5234 votes)
+score: 4.5/5  (671 votes)
 tags:
   - adventure
   - sandbox
   - casual
 developer: ''
-releaseDate: 2025-10-17T00:00:00.000Z
+releaseDate: 2025-08-16
 locale: ja
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Minecraftは、建築・探索・サバイバルを組み合わせたサンドボックスゲームです。ブロックの世界を探索して資源を集め、拠点を作り、状況に合わせて生き延びます。何を目指すかはプレイスタイル次第です。
@@ -37,6 +38,7 @@ Minecraftは、建築・探索・サバイバルを組み合わせたサンド�
 - **スニーク**: Shiftキーでスニークし、高所からの落下を防ぎます。
 
 - **インベントリを開く**: Eキーでインベントリを開き、アイテム管理やクラフトを行います。
+<!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
 - **Q: これは完全なMinecraftですか？**  
@@ -53,3 +55,4 @@ Minecraftは、建築・探索・サバイバルを組み合わせたサンド�
 
 
 **A**: 自動農場は、レッドストーン回路やピストン、水流などを組み合わせて、作物の植え付けや収穫を自動化する仕組みで作るのが一般的です。
+

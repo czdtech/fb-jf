@@ -1,10 +1,10 @@
 ---
 title: Perfect Piano
 description: Perfect Pianoは音楽リズムゲームです。ノートをタップし、メロディを演奏し、曲をマスターし、バーチャルピアノスキルを楽しみます。
-iframeSrc: 'https://perfectpiano.h5games.usercontent.goog/v/3k9j5m8h7p2n8/'
+iframeSrc: 'https://perfectpiano.h5games.usercontent.goog/v/48c3ch9soa7cg/'
 thumbnail: /new-images/thumbnails/perfect-piano.png
 urlstr: perfect-piano
-score: 4.3/5  (2456 votes)
+score: 4.5/5  (2950 votes)
 tags:
   - casual
 developer: ''
@@ -12,10 +12,12 @@ releaseDate: 2025-10-17T00:00:00.000Z
 locale: ja
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Perfect Pianoは、画面を降りてくるノートをタップして曲を演奏します。正しいタイミングでキーをタップして、正確にメロディを演奏します。簡単な曲から難しいクラシックまで。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **リズムを聞く:** 音楽が指を導きます。
@@ -24,6 +26,7 @@ Perfect Pianoは、画面を降りてくるノートをタップして曲を演�
 4.  **簡単から始める:** より簡単な曲で構築します。
 5.  **両手を使用:** より複雑な曲のために。
 
+<!-- i18n:section:controls -->
 ### 操作ガイド
 
 
@@ -32,17 +35,17 @@ Perfect Pianoは、画面を降りてくるノートをタップして曲を演�
 - 正しいタイミングでキーをタップします。
 - より高いスコアのために精度を目指します。
 
+<!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
+<!-- i18n:faq:id=faq:perfect-piano:q-what-happens-if-i-81ab4a89 -->
 - **Q: 音楽知識が必要ですか？**  
   A: いいえ。タイミングに従うだけです。
+<!-- i18n:faq:id=faq:perfect-piano:q-how-do-i-get-73fd7840 -->
     - **Q: どれくらいの曲がありますか？**  
   A: バージョンによって異なります。多くは数十。
+<!-- i18n:faq:id=faq:perfect-piano:q-can-i-play-different-3e2a64ff -->
 - **Q: より良くなるにはどうすればよいですか？**  
 
     - **A:** 多くの場合、難易度別の曲リストがあります。簡単な曲をクリアすると、より難しい曲が解放されることがあります。
 
-- **Q: 高得点を出すコツはありますか？**
-
-    - **A:** できるだけミスを減らし、コンボを途切れさせないのが重要です。連続で成功するとスコア倍率が上がり、精度が高いほど得点が伸びます。
-  A: より簡単な曲を練習し、徐々に難易度を上げます。

@@ -1,19 +1,20 @@
 ---
 title: Pac-Man
 description: クラシックなPac-Manをプレイします。ドットを食べて迷路を進み、ゴーストを避けながら次の面を目指します。
-iframeSrc: 'https://pacman.h5games.usercontent.goog/v/6k9j2m8h7p4n8/'
+iframeSrc: 'https://bward2.github.io/pacman-js/'
 thumbnail: /new-images/thumbnails/pac-man.jpg
 urlstr: pac-man
-score: 4.7/5  (5678 votes)
+score: 5.0/5  (1241 votes)
 tags:
   - action
   - casual
   - arcade
 developer: ''
-releaseDate: 2025-10-17T00:00:00.000Z
+releaseDate: 2025-08-16
 locale: ja
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Pac-Manは、ビデオゲーム史上最も象徴的なアーケードゲームです。迷路を通してPac-Manを導き、すべてのドットを食べながら、4つのカラフルなゴースト（Blinky、Pinky、Inky、Clyde）を避けます。パワーペレットを食べてゴーストを追いかけることができます。
@@ -32,6 +33,7 @@ Pac-Manは、ビデオゲーム史上最も象徴的なアーケードゲーム�
 - すべてのドットを食べてレベルをクリアします。
 - ゴーストを避けます（パワーアップされていない限り）。
 
+<!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
 - **Q: ゴーストには異なる動作がありますか？**  
@@ -48,3 +50,4 @@ Pac-Manは、ビデオゲーム史上最も象徴的なアーケードゲーム�
 
 
 **A**: はい。迷路内の小さなドットとパワーペレットをすべて食べると次の面に進みます。
+

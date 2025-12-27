@@ -1,18 +1,19 @@
 ---
 title: Moving Truck
 description: Moving Truckは駐車パズルゲームです。トラックを操縦し、障害物を避け、狭いスペースに駐車し、運転スキルをマスターします。
-iframeSrc: 'https://movingtruck.h5games.usercontent.goog/v/45pq94rnc5e78/'
+iframeSrc: 'https://g.igroutka.ru/games/164/JgHSvhdBMa5pf4WZ/moving_truck/'
 thumbnail: /new-images/thumbnails/moving-truck.jpg
 urlstr: moving-truck
-score: 3.9/5  (1623 votes)
+score: 3.6/5  (650 votes)
 tags:
   - casual
   - thinky
 developer: ''
-releaseDate: 2025-10-18T00:00:00.000Z
+releaseDate: 2025-08-16
 locale: ja
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Moving Truckは、トラックを狭いスペースに駐車することに挑戦します。障害物をナビゲートし、他の車両を避け、損傷なしで駐車スポットに到達します。各レベルは、より困難な駐車シナリオを提示します。
@@ -31,6 +32,7 @@ Moving Truckは、トラックを狭いスペースに駐車することに挑�
 - スペース：ブレーキ（該当する場合）。
 - 慎重に操縦してクラッシュを避けます。
 
+<!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
 - **Q: 継続的にクラッシュします。ヒントは？**  
@@ -47,3 +49,4 @@ Moving Truckは、トラックを狭いスペースに駐車することに挑�
 
 
 **A**: 空間を意識して配置する練習をし、うまくいった例を観察しながら、いろいろな置き方を試してみてください。
+

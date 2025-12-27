@@ -1,16 +1,17 @@
 ---
 title: "Minecraft Cave Escape"
 description: "Minecraft Cave Escapeは脱出チャレンジです。洞窟をナビゲートし、パズルを解決し、障害物を避け、Minecraftスタイルで自由への道を見つけます。"
-iframeSrc: "https://4h50khfj52i7g.h5games.usercontent.goog/v/1c5clb0ufdft8/"
+iframeSrc: "https://turbowarp.org/1189417610/embed"
 thumbnail: /new-images/thumbnails/minecraft-cave-escape.png
 urlstr: "minecraft-cave-escape"
-score: "4.1/5  (1892 votes)"
+score: "4.7/5  (354 votes)"
 tags: ["adventure", "puzzle", "thinky"]
 developer: ""
-releaseDate: 2025-10-18
+releaseDate: 2025-12-04
 locale: ja
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Minecraft Cave Escapeは、洞窟を探索しながら脱出を目指すパズルゲームです。スイッチやレバーで道を開き、障害物を避けつつ必要なアイテムを集めます。レベルごとに洞窟の構造が変わり、新しい仕掛けが登場します。
@@ -37,3 +38,4 @@ Minecraft Cave Escapeは、洞窟を探索しながら脱出を目指すパズ�
   A: 通常、回避が優先されますが、一部のバージョンには武器があります。
 - **Q: 複数の出口がありますか？**  
   A: レベルによって異なります。一部には代替ルートがあります。
+

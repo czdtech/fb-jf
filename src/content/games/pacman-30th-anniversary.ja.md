@@ -1,19 +1,20 @@
 ---
 title: Pacman 30th Anniversary
 description: Pacman 30th Anniversaryはクラシックアーケードゲームの記念版です。迷路を通してナビゲートし、ドットを食べ、ゴーストを避けます。
-iframeSrc: 'https://pacman30thanniversary.h5games.usercontent.goog/v/3k9j5m8h7p2n8/'
+iframeSrc: 'https://pacman-30thanniversary.com/game/doodle-pacman/pacman.html'
 thumbnail: /new-images/thumbnails/pacman-30th-anniversary.jpg
 urlstr: pacman-30th-anniversary
-score: 4.6/5  (4234 votes)
+score: 3.6/5  (745 votes)
 tags:
   - action
   - casual
   - arcade
 developer: ''
-releaseDate: 2025-10-17T00:00:00.000Z
+releaseDate: 2025-08-16
 locale: ja
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Pacman 30th Anniversaryは、象徴的なPac-Manの30周年を祝います。オリジナルのゲームプレイに、更新されたグラフィック、特別なレベル、記念機能を追加します。すべてのドットを食べ、ゴーストを避け、パワーペレットで反撃します。
@@ -32,6 +33,7 @@ Pacman 30th Anniversaryは、象徴的なPac-Manの30周年を祝います。オ
 - すべてのドットを食べてレベルをクリアします。
 - パワーペレットでゴーストを食べます。
 
+<!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
 - **Q: オリジナルと何が違いますか？**  
@@ -48,3 +50,4 @@ Pacman 30th Anniversaryは、象徴的なPac-Manの30周年を祝います。オ
 
 
 **A**: バージョンによってはローカルまたはオンラインのスコアボードがあり、ハイスコアを競えます。
+

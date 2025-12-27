@@ -1,10 +1,10 @@
 ---
 title: Onet Connect Classic
 description: Onet Connect Classicはマッチングパズルです。同じタイルのペアを接続し、ルール内のパスでボードを消していきます。
-iframeSrc: 'https://onetconnectclassic.h5games.usercontent.goog/v/5k8j9m2h7p3n8/'
+iframeSrc: 'https://onetconnectclassic.h5games.usercontent.goog/v/0q8248mt11l3g/'
 thumbnail: /new-images/thumbnails/onet-connect-classic.png
 urlstr: onet-connect-classic
-score: 4.4/5  (2456 votes)
+score: 4.3/5  (1840 votes)
 tags:
   - puzzle
   - thinky
@@ -14,10 +14,12 @@ releaseDate: 2025-10-17T00:00:00.000Z
 locale: ja
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Onet Connect Classicは、同じタイルのペアを接続するマッチングパズルゲームです。パスは最大3ターンまで曲がることができ、他のタイルを通過できません。すべてのタイルをクリアして勝ちます。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **外側のタイルを優先:** エッジから始めてスペースを開きます。
@@ -36,6 +38,7 @@ Onet Connect Classicは、同じタイルのペアを接続するマッチング
     - **ツールを使う**: 詰まったときは、ヒントやシャッフルを使うのも手です。
 
 - **先を読む**: ペアを消すと他のタイルの道が開きます。目先の1組だけでなく、重要な場所が空く消し方を意識すると安定します。
+<!-- i18n:section:controls -->
 ### 操作ガイド
 
 
@@ -44,17 +47,17 @@ Onet Connect Classicは、同じタイルのペアを接続するマッチング
 - パスは最大3ターンまで。
 - すべてのタイルをクリアしてレベルを完了します。
 
+<!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
+<!-- i18n:faq:id=faq:onet-connect-classic:q-why-cant-i-connect-c548c2f6 -->
 - **Q: これは麻雀コネクトと同じですか？**  
   A: 似ていますが、異なるタイルデザインと3ターンルールがあります。
+<!-- i18n:faq:id=faq:onet-connect-classic:q-what-happens-when-i-d9559b94 -->
     - **Q: タイムリミットはありますか？**  
   A: 一部のレベルにはタイマーがあります。
+<!-- i18n:faq:id=faq:onet-connect-classic:q-is-there-a-penalty-2dc7b42f -->
 - **Q: 行き詰まることはありますか？**  
 
     - **A:** 通常は解けるように作られていますが、ヒントやシャッフルの回数が限られる場合があります。本当に詰まったときに使うのが安全です。
 
-- **Q: ヒントを使うとペナルティはありますか？**
-
-    - **A:** 多くの場合、明確なペナルティはありません。ただし回数制限があったり、スコアに影響したりする場合があります。
-  A: はい。シャッフルを使うか、最初からやり直します。

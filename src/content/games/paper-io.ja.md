@@ -1,19 +1,20 @@
 ---
 title: Paper.io
 description: Paper.ioは領土征服ゲームです。エリアを主張し、対戦相手を避け、ボードを支配し、戦略的に拡大します。
-iframeSrc: 'https://paperio.h5games.usercontent.goog/v/4k9j5m8h7p3n8/'
+iframeSrc: 'https://mathgames66.github.io/games/html5/paperio2/'
 thumbnail: /new-images/thumbnails/paper-io.jpg
 urlstr: paper-io
-score: 4.5/5  (3456 votes)
+score: 4.2/5  (496 votes)
 tags:
   - action
   - 2 player
   - casual
 developer: ''
-releaseDate: 2025-10-17T00:00:00.000Z
+releaseDate: 2025-08-16
 locale: ja
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Paper.ioは、ボード上の領土を広げて競うマルチプレイヤーゲームです。自分の領土から外に出て線を引き、領土内に戻ると囲んだ範囲が自分のものになります。ただし、線を引いている最中に攻撃されると倒されます。
@@ -32,6 +33,7 @@ Paper.ioは、ボード上の領土を広げて競うマルチプレイヤーゲ
 - 主張するために安全なエリアに戻ります。
 - 対戦相手のトレールを切断して排除します。
 
+<!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
 - **Q: どのように殺されますか？**  
@@ -48,3 +50,4 @@ Paper.ioは、ボード上の領土を広げて競うマルチプレイヤーゲ
 
 
 **A**: 自分の領土の外に長く留まらないようにし、周囲の敵の位置を常に意識しましょう。敵が近づいたら、素早く自分の領土に戻るのが安全です。
+

@@ -1,19 +1,20 @@
 ---
 title: One Line
 description: One Lineは一筆書きパズルゲームです。形を一筆でなぞり、ルールを満たすルートを見つけます。
-iframeSrc: 'https://oneline.h5games.usercontent.goog/v/6m9k2j8h7p3n8/'
+iframeSrc: 'https://g2.igroutka.ru/games/3/JLgd70b3BNafhVq5/10/igra-odna-liniya/game.html'
 thumbnail: /new-images/thumbnails/one-line.jpg
 urlstr: one-line
-score: 4.3/5  (2234 votes)
+score: 3.9/5  (549 votes)
 tags:
   - puzzle
   - thinky
   - casual
 developer: ''
-releaseDate: 2025-10-17T00:00:00.000Z
+releaseDate: 2025-08-16
 locale: ja
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 One Lineは、単一の連続した線で形状を描く一筆書きパズルです。すべての線（エッジ）をなぞりますが、引き直しや交差はできません。ルールはシンプルですが、考えどころがあります。
@@ -32,6 +33,7 @@ One Lineは、単一の連続した線で形状を描く一筆書きパズルで
 - すべてのエッジを一筆でトレースします。
 - 線を引き直さないでください。
 
+<!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
 - **Q: すべてのパズルは解決可能ですか？**  
@@ -48,3 +50,4 @@ One Lineは、単一の連続した線で形状を描く一筆書きパズルで
 
 
 **A**: はい。論理的思考や問題解決の練習になり、年齢を問わず遊べます。
+

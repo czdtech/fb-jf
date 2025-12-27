@@ -1,19 +1,20 @@
 ---
 title: Paper Minecraft
 description: Paper MinecraftはMinecraftを2D風にしたサンドボックスゲームです。採掘やクラフト、建築をしながら探索します。
-iframeSrc: 'https://paperminecraft.h5games.usercontent.goog/v/6j9k5m8h7p3n8/'
+iframeSrc: 'https://scratch.mit.edu/projects/10128407/embed'
 thumbnail: /new-images/thumbnails/paper-minecraft.jpg
 urlstr: paper-minecraft
-score: 4.4/5  (3123 votes)
+score: 3.6/5  (848 votes)
 tags:
   - adventure
   - sandbox
   - casual
 developer: ''
-releaseDate: 2025-10-17T00:00:00.000Z
+releaseDate: 2025-08-16
 locale: ja
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Paper Minecraftは、Minecraftのゲームプレイを2Dの紙風アートスタイルで再現したゲームです。ブロックを採掘し、ツールをクラフトし、拠点を作って敵から生き残ります。探索と収集を進めながら遊び方を広げていきます。
@@ -36,6 +37,7 @@ Paper Minecraftは、Minecraftのゲームプレイを2Dの紙風アートスタ
 - **インベントリ/クラフト**: Eキーでインベントリを開き、アイテム管理やクラフトを行います。
 
 - **ブロック設置**: インベントリからブロックを選び、右クリックで設置します。
+<!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
 - **Q: これは3D Minecraftと同じですか？**  
@@ -52,3 +54,4 @@ Paper Minecraftは、Minecraftのゲームプレイを2Dの紙風アートスタ
 
 
 **A**: 2D版のため、原作のすべての次元（ネザーやエンドなど）がそのまま入っているとは限りませんが、簡略化された形で用意されている場合があります。
+

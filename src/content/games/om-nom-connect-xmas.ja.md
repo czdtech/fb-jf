@@ -3,23 +3,25 @@ title: Om Nom Connect Xmas
 description: >-
   Om Nom Connect Xmasはホリデーマッチングパズルです。クリスマステーマのタイルを接続し、フェスティブなレベルをクリアし、Om
   Nomと祝います。
-iframeSrc: 'https://omnomconnectxmas.h5games.usercontent.goog/v/2m8k5j9h7p3n8/'
+iframeSrc: 'https://omnomconnectxmas.h5games.usercontent.goog/v/88a6b2cf-1027-4490-a613-9a135cf869ce/'
 thumbnail: /new-images/thumbnails/om-nom-connect-xmas.jpg
 urlstr: om-nom-connect-xmas
-score: 4.3/5  (2123 votes)
+score: 4.6/5  (2765 votes)
 tags:
   - puzzle
   - thinky
   - casual
 developer: ''
-releaseDate: 2025-10-17T00:00:00.000Z
+releaseDate: 2025-10-18
 locale: ja
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Om Nom Connect Xmasは、Om Nom Connectのルールで遊べるクリスマステーマのマッチングパズルです。同じタイルをルール内のパスでつなぎ、ボード上のタイルをすべて消していきます。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **外側から作業:** エッジタイルを最初にクリアします。
@@ -28,23 +30,24 @@ Om Nom Connect Xmasは、Om Nom Connectのルールで遊べるクリスマス�
 4.  **先を計画:** ペアをブロックしないようにします。
 5.  **ヒントを節約:** 本当に必要なときにのみ使用します。
 
+<!-- i18n:section:controls -->
 ### 操作ガイド
 
 - 同じクリスマステーマのタイルをクリック/タップします。
 - 有効なパス（≤2ターン）で接続します。
 - ボードをクリアします。
 
+<!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
+<!-- i18n:faq:id=faq:om-nom-connect-xmas:q-what-are-the-rules-cc82d104 -->
 - **Q: これはクラシックバージョンと何が違いますか？**  
   A: クリスマステーマのグラフィックとサウンド。同じゲームプレイ。
+<!-- i18n:faq:id=faq:om-nom-connect-xmas:q-what-should-i-do-f7308610 -->
     - **Q: 季節限定ですか？**  
   A: いいえ、年中プレイできます。
+<!-- i18n:faq:id=faq:om-nom-connect-xmas:q-is-there-a-time-c0411996 -->
 - **Q: レベルはいくつありますか？**  
 
     - **A:** バージョンによって異なりますが、通常は数十レベル程度です。
 
-- **Q: 時間制限はありますか？**
-
-    - **A:** まず盤面全体をざっと確認し、それでも詰まったらヒント（虫眼鏡）を使って1組分の手掛かりを出します。手詰まりならシャッフルを使うのも有効です。
-  A: はい。レベルごとにタイマーがあり、時間内にボードをすべて消す必要がある場合があります。

@@ -1,18 +1,19 @@
 ---
 title: Night Watchman
 description: Night Watchmanはホラーサバイバルゲームです。施設をパトロールし、異変を確認しながら朝まで生き延びます。
-iframeSrc: 'https://nightwatchman.h5games.usercontent.goog/v/5s4t9m2k6h3j8/'
+iframeSrc: 'https://g2.igroutka.ru/lib/crazy/games/night-watchman/'
 thumbnail: /new-images/thumbnails/night-watchman.jpg
 urlstr: night-watchman
-score: 4.0/5  (1745 votes)
+score: 4.5/5  (1344 votes)
 tags:
   - horror
   - casual
 developer: ''
-releaseDate: 2025-10-18T00:00:00.000Z
+releaseDate: 2025-08-16
 locale: ja
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Night Watchmanは、夜間警備員として施設をパトロールする緊張感のあるホラーゲームです。異常をチェックし、侵入者を避け、朝まで生き延びます。限られた視界と不気味なサウンドが緊張を高めます。
@@ -31,6 +32,7 @@ Night Watchmanは、夜間警備員として施設をパトロールする緊張
 - マウス：見回し、ライトを制御します。
 - E：インタラクト（ドア、スイッチ）。
 
+<!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
 - **Q: 継続的に捕まります。ヒントは？**  
@@ -47,3 +49,4 @@ Night Watchmanは、夜間警備員として施設をパトロールする緊張
 
 
 **A**: バージョンによっては、行動や選択次第で複数の結末が用意されていることがあります。
+

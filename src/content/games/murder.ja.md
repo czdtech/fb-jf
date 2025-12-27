@@ -1,19 +1,20 @@
 ---
 title: Murder
 description: Murderは戦略的な暗殺ゲームです。王を暗殺し、衛兵を避け、王位を掌握します。慎重に計画し、検出されずに成功します。
-iframeSrc: 'https://murder.h5games.usercontent.goog/v/5jq9h0d5vkbr8/'
+iframeSrc: 'https://ubg77.github.io/fix/murder/'
 thumbnail: /new-images/thumbnails/murder.jpg
 urlstr: murder
-score: 4.2/5  (2167 votes)
+score: 4.0/5  (1485 votes)
 tags:
   - casual
   - thinky
   - strategy
 developer: ''
-releaseDate: 2025-10-17T00:00:00.000Z
+releaseDate: 2025-08-16
 locale: ja
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Murderは、王を暗殺しようとする緊張感のある戦略ゲームです。王の背後から忍び寄り、適切なタイミングで攻撃します。しかし注意してください：王があなたを見ると、即座にゲームオーバーです。成功すれば、新しい王になりますが、今度はあなたが暗殺者から身を守る必要があります。
@@ -46,6 +47,7 @@ Murderは、王を暗殺しようとする緊張感のある戦略ゲームで�
 
 
 - **王としての防衛**: 背後に近づかれないように、こまめに確認して暗殺者を止めます。
+<!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
 - **Q: 継続的に捕まります。ヒントは？**  
@@ -62,3 +64,4 @@ Murderは、王を暗殺しようとする緊張感のある戦略ゲームで�
 
 
 **A**: このゲームは基本的に1人用です。人数の条件はありません。
+

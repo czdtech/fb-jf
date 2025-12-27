@@ -1,18 +1,19 @@
 ---
 title: Only Up
 description: Only Upは垂直方向に登るアクションです。ジャンプで足場を渡り、落下を避けながら上を目指します。
-iframeSrc: 'https://onlyup.h5games.usercontent.goog/v/2k7j9m5h8p3n8/'
+iframeSrc: 'https://szhong.4399.com/4399swf//upload_swf/ftp44/chenling/20230826/01/index.htm'
 thumbnail: /new-images/thumbnails/only-up.jpg
 urlstr: only-up
-score: 4.1/5  (1934 votes)
+score: 3.5/5  (1311 votes)
 tags:
   - action
   - casual
 developer: ''
-releaseDate: 2025-10-18T00:00:00.000Z
+releaseDate: 2025-08-16
 locale: ja
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Only Upは、プラットフォームとオブジェクトを登ることに挑戦します。一つのルール：上にのみ移動します。落下すると、すべての進行を失います。正確なジャンプ、慎重な計画、鉄の意志が必要です。
@@ -33,6 +34,7 @@ Only Upは、プラットフォームとオブジェクトを登ることに挑�
 
 
 - **カメラ操作**: マウスでカメラを動かし、周囲の確認やルート選びに役立てます。
+<!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
 - **Q: 落下した場合はどうなりますか？**  
@@ -49,3 +51,4 @@ Only Upは、プラットフォームとオブジェクトを登ることに挑�
 
 
 **A**: 難易度は高めで、最初は難しく感じることがあります。ただし焦らず練習すれば、少しずつ慣れていけます。
+
