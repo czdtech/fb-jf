@@ -1,22 +1,24 @@
 ---
 title: Mahjongg Candy
 description: Mahjongg Candyはキャンディテーマの麻雀ソリティアです。タイルをペアで消し、ボーナスを狙いながら盤面をクリアします。
-iframeSrc: 'https://mahjonggcandy.h5games.usercontent.goog/v/5n1hfvph2fdug/'
+iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-candy-mahjongg/'
 thumbnail: /new-images/thumbnails/mahjongg-candy.jpg
 urlstr: mahjongg-candy
-score: 4.3/5  (2150 votes)
+score: 4.8/5  (1096 votes)
 tags:
   - puzzle
   - casual
 developer: ''
-releaseDate: 2025-10-17T00:00:00.000Z
+releaseDate: 2025-08-16
 locale: ja
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Mahjongg Candyは、麻雀ソリティアをキャンディ風のタイルで遊べるパズルです。同じ絵柄のフリータイルをペアで消し、ボーナスやスコアを狙いながらレベルを進めます。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **絵柄を覚える:** タイルの見分けが早いほど、迷う時間が減ります。
@@ -26,11 +28,13 @@ Mahjongg Candyは、麻雀ソリティアをキャンディ風のタイルで遊
 
 
 - **スコア:** 連続マッチや素早いクリアは高得点につながりやすいです。タイルによってはスコア倍率が付く場合があります。
+<!-- i18n:section:controls -->
 ### 操作ガイド
 
 - フリーキャンディタイルをクリック/タップして選択およびマッチします。
 - ヒント/シャッフルボタンが必要に応じて利用可能です。
 
+<!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
 - **Q: 通常の麻雀と何が違いますか？**  
@@ -46,3 +50,4 @@ Mahjongg Candyは、麻雀ソリティアをキャンディ風のタイルで遊
 **Q: うまくなるにはどうすればいいですか？**
 
 多くのMahjonggゲームには、可能なペアを示すヒントや、手がないときに残りタイルを並べ替えるシャッフルがあります。バージョンによっては、使用するとスコアに影響する場合があります。
+

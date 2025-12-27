@@ -1,10 +1,10 @@
 ---
 title: "Merge Haven"
 description: "Merge Havenは庭づくり要素のあるマージゲームです。アイテムをマージして庭園を整え、エリアを広げていきます。"
-iframeSrc: "https://5fs3h6kbffbi8.h5games.usercontent.goog/v/5tpspujuocl28/"
+iframeSrc: "https://1jjan0u3n07qg.h5games.usercontent.goog/v/5aruivrappsfg/"
 thumbnail: /new-images/thumbnails/merge-haven.png
 urlstr: "merge-haven"
-score: "4.2/5  (1923 votes)"
+score: "4.1/5  (1989 votes)"
 tags: ["casual", "thinky"]
 developer: ""
 releaseDate: 2025-10-18
@@ -37,3 +37,4 @@ Merge Havenは、アイテムをマージして庭園を整えていくマージ
   A: はい、いつでもアイテムを移動して再配置できます。
 - **Q: 最高のクエスト戦略は何ですか？**  
   A: より大きな報酬のために高価値のクエストを優先します。
+

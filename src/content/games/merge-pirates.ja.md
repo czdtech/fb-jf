@@ -1,23 +1,25 @@
 ---
 title: Merge Pirates
 description: Merge Piratesは海賊テーマのマージゲームです。海賊や船をマージして強化し、島を探索してアイテムを集めます。
-iframeSrc: 'https://5q8b0jkp2dtf8.h5games.usercontent.goog/v/62plg0rb93ob8/'
+iframeSrc: 'https://mergepirates.h5games.usercontent.goog/v/2rugbh8p4845g/'
 thumbnail: /new-images/thumbnails/merge-pirates.png
 urlstr: merge-pirates
-score: 4.2/5  (1987 votes)
+score: 4.4/5  (2400 votes)
 tags:
   - casual
   - adventure
   - thinky
 developer: ''
-releaseDate: 2025-10-18T00:00:00.000Z
+releaseDate: 2025-10-17
 locale: ja
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Merge Piratesは、海賊や船、アイテムをマージして強化していくマージゲームです。島を探索して宝物を集め、クエストを進めながらエリアを広げていきます。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **賢くマージ:** より強力な海賊と船のためにマージします。
@@ -26,6 +28,7 @@ Merge Piratesは、海賊や船、アイテムをマージして強化してい�
 4.  **船をアップグレード:** より良い船は、より遠くへ航海できます。
 5.  **クエストを完了:** 報酬と進行のために。
 
+<!-- i18n:section:controls -->
 ### 操作ガイド
 
 
@@ -34,17 +37,17 @@ Merge Piratesは、海賊や船、アイテムをマージして強化してい�
 - 島をクリック/タップして探索します。
 - ストアでアイテムを購入およびアップグレードします。
 
+<!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
+<!-- i18n:faq:id=faq:merge-pirates:q-how-do-i-get-f4f63323 -->
 - **Q: 最高の海賊の組み合わせは何ですか？**  
   A: 戦闘、航海、宝探しのスキルをバランスさせます。
+<!-- i18n:faq:id=faq:merge-pirates:q-what-is-the-main-20a3adad -->
     - **Q: 新しい島をアンロックするにはどうすればよいですか？**  
   A: 船をアップグレードして遠くへ航海します。
+<!-- i18n:faq:id=faq:merge-pirates:q-my-board-is-full-2c9ccb4e -->
 - **Q: 宝物を使用して何をすべきですか？**  
 
     - **A:** 船や海賊のアップグレード、島の拡張などに使います。まずは進行に直結する強化から回すのが無難です。
 
-- **Q: ボードがいっぱいで動けません。どうすればいいですか？**
-
-    - **A:** 見落としたマージがないか確認し、なければ低レベルのアイテムを売ってスペースを空けます。
-  A: スペースが空いたら、優先度の高いアイテムからマージして整理しましょう。

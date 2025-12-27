@@ -1,23 +1,25 @@
 ---
 title: Merge Heroes
 description: Merge Heroesはヒーローをマージして強化するRPG系マージゲームです。編成を整え、敵と戦います。
-iframeSrc: 'https://1jbrmb0iocnh0.h5games.usercontent.goog/v/5i9k4ocr75fn8/'
+iframeSrc: 'https://mergeheroes.h5games.usercontent.goog/v/7i7m361ib4vr8/'
 thumbnail: /new-images/thumbnails/merge-heroes.png
 urlstr: merge-heroes
-score: 4.3/5  (2234 votes)
+score: 4.4/5  (2350 votes)
 tags:
   - strategy
   - casual
   - thinky
 developer: ''
-releaseDate: 2025-10-18T00:00:00.000Z
+releaseDate: 2025-10-17
 locale: ja
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Merge Heroesは、ヒーローをマージして強化しながら戦うRPG系のマージゲームです。同じヒーローを合体させて戦力を上げ、配置を工夫して敵を倒していきます。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **ヒーローをマージ:** より強力なバージョンのために同じヒーローをマージします。
@@ -26,6 +28,7 @@ Merge Heroesは、ヒーローをマージして強化しながら戦うRPG系�
 4.  **賢くアップグレード:** 多目的なヒーローに焦点を当てます。
 5.  **リソースを管理:** 重要なアップグレードのためにゴールド/宝石を保存します。
 
+<!-- i18n:section:controls -->
 ### 操作ガイド
 
 
@@ -34,17 +37,17 @@ Merge Heroesは、ヒーローをマージして強化しながら戦うRPG系�
 - ヒーローをクリック/タップして統計とアビリティを表示します。
 - ストアで新しいヒーローを購入します。
 
+<!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
+<!-- i18n:faq:id=faq:merge-heroes:q-how-do-i-create-41948c83 -->
 - **Q: 最高のヒーローの組み合わせは何ですか？**  
   A: バランスの取れたチーム：タンク、DPS、サポート。
+<!-- i18n:faq:id=faq:merge-heroes:q-should-i-fill-my-0ce2bd18 -->
     - **Q: 戦闘を失った場合はどうすればよいですか？**  
   A: ヒーローをアップグレードしてマージし、戦略を調整します。
+<!-- i18n:faq:id=faq:merge-heroes:q-why-did-my-heroes-50347d7c -->
 - **Q: レアヒーローを獲得するにはどうすればよいですか？**  
 
     - **A:** 入手方法はモードによって異なりますが、報酬やステージ進行、ショップなどから獲得できる場合があります。
 
-- **Q: 敵に押し切られてしまいます。どうすればいいですか？**
-
-    - **A:** 低レベルを並べるより、少数でも高レベルまでマージした方が安定しやすいです。可能な限り上位まで強化していきましょう。
-  A: ヒーローをマージして強化し、編成と配置を見直しましょう。

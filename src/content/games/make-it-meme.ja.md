@@ -1,19 +1,20 @@
 ---
 title: Make It Meme
 description: Make It Memeはキャプションを作って投票するパーティーゲームです。画像にひと言を付けてミームを作り、みんなで投票します。
-iframeSrc: 'https://makeitmeme.h5games.usercontent.goog/v/6rb2cjp54vlg0/'
+iframeSrc: 'https://artedu1808.github.io/g177/make-it-meme/'
 thumbnail: /new-images/thumbnails/make-it-meme.jpg
 urlstr: make-it-meme
-score: 4.4/5  (2250 votes)
+score: 4.4/5  (1458 votes)
 tags:
   - casual
   - 2 player
   - novelty
 developer: ''
-releaseDate: 2025-10-18T00:00:00.000Z
+releaseDate: 2025-08-16
 locale: ja
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Make It Memeは、画像にキャプションを付けてミームを作り、みんなで投票するパーティーゲームです。友達や他のプレイヤーと作品を共有し、どれが一番ウケるかを競います。
@@ -34,6 +35,7 @@ Make It Memeは、画像にキャプションを付けてミームを作り、�
 
 
 - **作品を評価:** 評価画面で他のプレイヤーの作品を見て、評価を選び、「Submit」ボタンで送信します。
+<!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
 - **Q: 何人のプレイヤーが必要ですか？**  
@@ -42,3 +44,4 @@ Make It Memeは、画像にキャプションを付けてミームを作り、�
   A: 遊ぶ相手に合わせて、ラインを越えない内容にしましょう。
 - **Q: 勝つための秘訣は？**  
   A: 創造性、タイミング、観客を知ることです。
+

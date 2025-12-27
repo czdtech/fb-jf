@@ -3,23 +3,25 @@ title: Mahjongg Solitaire
 description: >-
   Mahjongg
   Solitaireでタイルのペアを消しながら盤面をクリアしていく、クラシックな麻雀ソリティアです。
-iframeSrc: 'https://mahjoggsoliatire.h5games.usercontent.goog/v/6k4jlb69s90go/'
+iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-mahjongg-solitaire/'
 thumbnail: /new-images/thumbnails/mahjongg-solitaire.jpg
 urlstr: mahjongg-solitaire
-score: 4.6/5  (2900 votes)
+score: 4.5/5  (256 votes)
 tags:
   - puzzle
   - thinky
   - casual
 developer: ''
-releaseDate: 2025-10-17T00:00:00.000Z
+releaseDate: 2025-08-16
 locale: ja
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Mahjongg Solitaireは、積み重ねられたレイアウトから同じ絵柄のフリータイルをペアで消し、盤面をクリアしていく麻雀ソリティアです。どのペアを先に消すかで次の手が変わるため、観察と順番選びが重要になります。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **フリータイルルールを理解:** 左右がブロックされておらず、その上にタイルがないタイルのみをマッチできます。
@@ -27,11 +29,13 @@ Mahjongg Solitaireは、積み重ねられたレイアウトから同じ絵柄�
 3.  **同一タイルのペアを計画:** 3つ以上の同一タイルがある場合、長期戦略のためにどのペアをマッチするかを慎重に選択します。
 4.  **フラワー/シーズン:** これらの特別なタイルは、同じカテゴリの任意のタイルとマッチできます。
 
+<!-- i18n:section:controls -->
 ### 操作ガイド
 
 - マウス/タッチでフリータイルをクリック/タップして選択し、その一致するフリーパートナーをクリック/タップします。
 - ヒント、元に戻す、シャッフルオプションが通常利用可能です。
 
+<!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
 - **Q: すべてのレベルは解決可能ですか？**  
@@ -47,3 +51,4 @@ Mahjongg Solitaireには、制限時間があるバージョンと、時間を�
 **Q: 制限時間はありますか？**
 
 フリーなペアがもう見つからず、盤面にタイルが残っている場合は手詰まりになります。デジタル版によっては「shuffle」や「hint」が用意されていることもあります。
+

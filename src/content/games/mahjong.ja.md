@@ -1,19 +1,20 @@
 ---
 title: Mahjong
 description: クラシックな麻雀ソリティアです。同じ絵柄のフリータイルをペアで消し、順番を考えながら盤面をクリアしていきます。
-iframeSrc: 'https://mahjonghr.h5games.usercontent.goog/v/25h00jjlcksj8/'
+iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-mahjong/'
 thumbnail: /new-images/thumbnails/mahjong.jpg
 urlstr: mahjong
-score: 4.5/5  (2650 votes)
+score: 4.8/5  (888 votes)
 tags:
   - puzzle
   - thinky
   - casual
 developer: ''
-releaseDate: 2025-10-17T00:00:00.000Z
+releaseDate: 2025-08-16
 locale: ja
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 麻雀（麻雀ソリティア）は、積み重ねられたタイルから「フリー」なペアを見つけて取り除き、盤面をクリアしていくパズルです。見えているペアだけでなく、次に開くタイルを意識して順番を選ぶのがポイントです。
@@ -36,6 +37,7 @@ locale: ja
     - 上に他のタイルが載っていない。
 
 - ゲーム終了条件：すべてのタイルを取り除くか、これ以上マッチできなくなると終了です。
+<!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
 - **Q: どのタイルが「フリー」ですか？**  
@@ -56,3 +58,4 @@ locale: ja
 
 
 **A**: シャッフルがない場合は、その時点で手詰まり（ゲーム終了）になります。
+

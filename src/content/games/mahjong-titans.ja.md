@@ -1,19 +1,20 @@
 ---
 title: Mahjong Titans
 description: 麻雀タイルのペアを消してレイアウトをクリアする、定番のタイルマッチパズルです。複数の難易度で遊べます。
-iframeSrc: 'https://mahjongtitans.h5games.usercontent.goog/v/5vg84jk4dcir8/'
+iframeSrc: 'https://ad-freegames.github.io/flash/game/mahjong-titans.html'
 thumbnail: /new-images/thumbnails/mahjong-titans.jpg
 urlstr: mahjong-titans
-score: 4.6/5  (3100 votes)
+score: 4.0/5  (628 votes)
 tags:
   - puzzle
   - thinky
   - casual
 developer: ''
-releaseDate: 2025-10-17T00:00:00.000Z
+releaseDate: 2025-08-16
 locale: ja
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 麻雀タイタンズは、麻雀タイルを使ったクラシックな麻雀ソリティアです。複数のレイアウトと難易度があり、ペアを消しながら盤面をクリアしていきます。
@@ -25,6 +26,7 @@ locale: ja
 3.  **先を見る:** ペアを消す前に、次の手が減らないか確認します。
 4.  **リソースを節約:** ヒントとシャッフルは温存し、本当に行き詰まった場合にだけ使います。
 
+<!-- i18n:section:controls -->
 ### 操作ガイド
 
 - マウス/タッチでフリータイルをクリック/タップして選択およびマッチします。
@@ -58,3 +60,4 @@ A: 選択肢を複数残し、早い段階で孤立したタイルを作らな�
 - Q: 手詰まりを避けるにはどうすればいいですか？
 
 A: はい。シーズンはシーズン同士、フラワーはフラワー同士でどれでもマッチできます。
+
