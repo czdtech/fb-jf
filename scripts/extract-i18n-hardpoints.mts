@@ -206,6 +206,12 @@ export function extractHardpointsFromMarkdown(
           if (/^\d$/.test(token)) continue;
           // Skip plain numbers that appear in the slug (usually just part of the title).
           if (/^\d+$/.test(token) && ignoredPlainNumbers.has(token)) continue;
+          // Avoid false positives where the trailing "s" is plural (e.g., "match-3s", "'4s'") rather than seconds.
+          if (/^\d+s$/i.test(token)) {
+            const start = typeof m.index === 'number' ? m.index : -1;
+            const prev = start > 0 ? normalized[start - 1] : '';
+            if (/[-‐‑–—'’]/.test(prev)) continue;
+          }
 
           numberTokens.push(token);
           addCount(numberCounts, token);
