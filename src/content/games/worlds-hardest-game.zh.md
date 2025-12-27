@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### 游戏介绍
 
 《World's Hardest Game》是一款难度极高的街机挑战游戏，
@@ -57,6 +58,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 *   **暂停思考：** 在中途到达安全区域时，
     可以停下来仔细规划接下来的路线与节奏。
 
+<!-- i18n:section:faq -->
 ### 常见问题
 
 1.  **问：为什么叫“World's Hardest Game”？**  

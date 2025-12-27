@@ -6,10 +6,12 @@ title: "Yojou Sprunki Mustard - 在线玩 Yojou Sprunki Mustard"
 description: "Yojou Sprunki Mustard，这款恶搞 Mod，彻底颠覆了 Sprunki 世界，所有角色都被一种神秘的「芥末酱」侵蚀，创造出一种既混乱又有趣的音乐体验。"
 iframeSrc: "https://turbowarp.org/1153723334/embed"
 thumbnail: /new-images/thumbnails/yojou-sprunki-mustard.png
-score: "4.5/5  (322 票)"
+score: "4.5/5  (322 votes)"
 tags: ["yojou sprunki mustard"]
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 准备好迎接一场色彩和声音的奇异洗礼了吗？Yojou Sprunki Mustard，这款恶搞 Mod，彻底颠覆了 Sprunki 世界，所有角色都被一种神秘的「芥末酱」侵蚀，创造出一种既混乱又有趣的音乐体验。
 
 ### Yojou Sprunki Mustard 到底发生了什么？
@@ -28,6 +30,7 @@ tags: ["yojou sprunki mustard"]
 - **扭曲的界面：** 游戏界面也被芥末色调包围，创造出一种超现实而紧张的氛围，既奇幻又诡异。
 - **新恐怖元素：** 这款 Mod 引入了令人不安的氛围，鼓励玩家尝试独特的声音并拥抱新的诡异氛围。
 
+<!-- i18n:section:how-to-play -->
 ### 如何玩 Yojou Sprunki Mustard (Sprunkstard)）
 
 **选择芥末主题角色：**
@@ -53,3 +56,4 @@ tags: ["yojou sprunki mustard"]
 - **释放创造力：** 尝试独特的声音和视觉效果，创作反映你个人风格的作品。
 
 加入 Yojou Sprunki Mustard 的奇异世界，让你的音乐创作被这种神奇的黄色感染吧！
+
