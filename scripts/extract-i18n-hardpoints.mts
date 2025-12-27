@@ -88,6 +88,20 @@ function normalizeKeyToken(raw: string): string {
   return token;
 }
 
+function normalizeFullwidthDigits(s: string): string {
+  return s.replace(/[０-９]/g, (c) => String.fromCharCode(c.charCodeAt(0) - 0xff10 + 0x30));
+}
+
+function normalizeNumberTextForExtraction(s: string): string {
+  let out = normalizeFullwidthDigits(s);
+  out = out.replace(/％/g, '%');
+  // Normalize multiplication sign so "3×3" can yield an "3x" token.
+  out = out.replace(/(\d)\s*×\s*(\d)/g, '$1x$2');
+  // Normalize uppercase suffix variants to keep tokens stable.
+  out = out.replace(/(\d)X\b/g, '$1x');
+  return out;
+}
+
 function addCount(map: Record<string, number>, token: string): void {
   map[token] = (map[token] ?? 0) + 1;
 }
@@ -126,6 +140,17 @@ export function extractHardpointsFromMarkdown(
     typeof frontmatterData.iframeSrc === 'string' && frontmatterData.iframeSrc.trim()
       ? frontmatterData.iframeSrc.trim()
       : null;
+
+  // Numbers that appear in the slug are often part of the game name (e.g., "2048", "2", "v09").
+  // Treat them as non-hardpoint numbers so locales can mention the title without failing alignment.
+  const ignoredPlainNumbers = new Set<string>();
+  {
+    const re = /\d+/g;
+    let m: RegExpExecArray | null = null;
+    while ((m = re.exec(slug))) {
+      ignoredPlainNumbers.add(m[0]);
+    }
+  }
 
   const tree = unified().use(remarkParse).use(remarkGfm).parse(markdown) as MdastNode;
 
@@ -170,10 +195,18 @@ export function extractHardpointsFromMarkdown(
         const raw = typeof n.value === 'string' ? n.value : '';
         if (!raw) return;
 
+        const normalized = normalizeNumberTextForExtraction(raw);
+
         NUMBER_TOKEN_RE.lastIndex = 0;
         let m: RegExpExecArray | null = null;
-        while ((m = NUMBER_TOKEN_RE.exec(raw))) {
+        while ((m = NUMBER_TOKEN_RE.exec(normalized))) {
           const token = m[1];
+
+          // Skip plain single-digit numbers (too noisy across locales and often written as words in English).
+          if (/^\d$/.test(token)) continue;
+          // Skip plain numbers that appear in the slug (usually just part of the title).
+          if (/^\d+$/.test(token) && ignoredPlainNumbers.has(token)) continue;
+
           numberTokens.push(token);
           addCount(numberCounts, token);
         }
