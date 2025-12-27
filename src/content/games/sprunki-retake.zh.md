@@ -6,8 +6,9 @@ title: "Sprunki Retake 🔥 在线玩 Sprunki Retake"
 description: "如果你热爱节奏游戏，又对恐怖元素情有独钟，Sprunki Retake 绝对会让你欲罢不能！"
 iframeSrc: "https://www.minijuegos.com/embed/sprunki-retake"
 thumbnail: /new-images/thumbnails/sprunki-retake.png
-score: "4.3/5  (524 票)"
+score: "4.3/5  (524 votes)"
 tags: ["sprunki retake", "sprunki retake online"]
+releaseDate: 2025-12-04
 ---
 
 ### Sprunki Retake 介绍
@@ -50,3 +51,4 @@ Sprunki Retake 将你投入一个色彩缤纷却又危机四伏的世界。你�
 ### 一句话总结
 
 Sprunki Retake 成功继承了前作的精髓，同时带来了更多新鲜刺激的元素。无论你是 Sprunki 的老粉丝还是新玩家，都能在 Sprunki Retake 的世界中找到属于自己的乐趣！准备好尖叫了吗？出发吧！
+

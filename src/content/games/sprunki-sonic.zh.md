@@ -6,8 +6,9 @@ title: "Sprunki Sonic 🔥 在线玩 Sprunki Sonic"
 description: "无论你是节奏游戏爱好者还是 Sonic 系列的忠实粉丝，你都能在 Sprunki Sonic 中找到你的乐趣。这款游戏易学难精，非常适合各种技能水平的玩家。"
 iframeSrc: "https://turbowarp.org/1114980098/embed"
 thumbnail: /new-images/thumbnails/sprunki-sonic.png
-score: "4.0/5  (829 票)"
+score: "4.0/5  (829 votes)"
 tags: ["sprunki sonic", "sprunki sonic online"]
+releaseDate: 2025-12-04
 ---
 
 ### Sprunki Sonic 介绍
@@ -38,3 +39,4 @@ Sprunki Sonic 的玩法非常简单，但充满乐趣：
 ### 为什么你应该玩 Sprunki Sonic？
 
 无论你是节奏游戏爱好者还是 Sonic 系列的忠实粉丝，你都能在 Sprunki Sonic 中找到你的乐趣。这款游戏易学难精，非常适合各种技能水平的玩家。更重要的是，Sprunki Sonic 还能激发你的创造力，让你通过音乐表达自己。如果你正在寻找一款有趣、具有挑战性且富有创意的节奏游戏，那么 Sprunki Sonic 绝对是你的最佳选择！
+

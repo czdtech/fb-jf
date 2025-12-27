@@ -6,10 +6,12 @@ title: "Sprunki Swapped Horror - 在线玩 Sprunki Swapped Horror"
 description: "Sprunki Swapped Horror 是一款创意 Incredibox Mod，通过其创新的角色交换机制为游戏带来了新的维度。在这款 Mod 中，你会看到熟悉的角色以意想不到的形象出现，并使用他们的新声音和节奏来创作令人惊叹的音乐作品。"
 iframeSrc: "https://turbowarp.org/1132681434/embed"
 thumbnail: /new-images/thumbnails/sprunki-swapped-horror.png
-score: "4.4/5  (395 票)"
+score: "4.4/5  (395 votes)"
 tags: ["sprunki swapped horror", "sprunki swapped horror online"]
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 你是否厌倦了千篇一律的 Incredibox 体验？你是否渴望一场充满惊喜的音乐冒险？那就试试 Sprunki Swapped Horror 吧！这款创新的 Mod 将带你进入一个角色交换的平行世界，让你用全新的音景和节奏创作独特的恐怖音乐！
 
 ### 什么是 Sprunki Swapped Horror？
@@ -22,6 +24,7 @@ Sprunki Swapped Horror 是一款创意 Incredibox Mod，通过其创新的角色
 - **全新的音景和节奏：** 每个角色都带来新的音景和节奏，给你无限的创作可能性。随意尝试不同的角色组合，创作独特的音乐作品！
 - **焕新的角色动画：** 游戏还添加了新设计的角色动画，生动地展示每个角色的变形身份，让你的音乐在视觉上也令人惊叹。
 
+<!-- i18n:section:how-to-play -->
 ### 如何玩 Sprunki Swapped Horror？
 
 想要体验 Sprunki Swapped Horror 的独特魅力？操作非常简单：
@@ -46,3 +49,4 @@ Sprunki Swapped Horror 的开发专注于通过角色交换创造令人惊喜和
 如今，Sprunki Swapped Horror 是一款独特的混音 Mod，重新构想的角色和创新的交换机制相结合，带来引人入胜的音乐之旅。
 
 加入不断壮大的 Sprunki Swapped Horror 社区，分享你对这款精彩 Mod 的体验吧！
+

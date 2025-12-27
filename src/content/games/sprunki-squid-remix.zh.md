@@ -6,10 +6,12 @@ title: "Sprunki Squid Remix - 在线玩 Sprunki Squid Remix"
 description: "Sprunki Squid 提供了一种真正独特而刺激的体验。它将鱿鱼游戏的标志性主题和视觉效果与 Sprunki 的创作自由相结合，带来前所未有的跨界玩法。"
 iframeSrc: "https://turbowarp.org/1123885023/embed"
 thumbnail: /new-images/thumbnails/sprunki-squid-remix.png
-score: "4.1/5  (92 票)"
+score: "4.1/5  (92 votes)"
 tags: ["sprunki squid remix"]
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 嘿，节奏大师们！准备好迎接一场让你心跳加速、手心出汗的音乐挑战了吗？Sprunki Squid 来了！这不是你普通的音乐创作游戏；它是一款令人兴奋的跨界 Mod，完美地将 Sprunki 的音乐魔力与现象级剧集《鱿鱼游戏》的紧张悬疑相融合！
 
 ### Sprunki Squid 到底是什么？
@@ -34,3 +36,4 @@ Sprunki Squid 提供了一种真正独特而刺激的体验。它将鱿鱼游戏
 ### 总结
 
 Sprunki Squid 是一场音乐与生存的残酷游戏。它独特地融合了两种截然不同的文化现象，带来既熟悉又令人耳目一新的体验。如果你渴望刺激并热爱挑战，Sprunki Squid 绝对是必试之作。深呼吸，踏入 Sprunki Squid 的世界，用你的节奏感在这场音乐生死战中生存下来！祝你好运！
+

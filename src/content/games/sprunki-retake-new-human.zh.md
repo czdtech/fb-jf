@@ -6,8 +6,9 @@ title: "Sprunki Retake New Human 🔥 在线玩 Sprunki Retake New Human"
 description: "Sprunki Retake New Human 的核心是通过全新的人形角色设计，重新诠释经典的 Incredibox 体验。"
 iframeSrc: "https://turbowarp.org/1139615160/embed"
 thumbnail: /new-images/thumbnails/sprunki-retake-new-human.png
-score: "4.0/5  (829 票)"
+score: "4.0/5  (829 votes)"
 tags: ["sprunki retake new human", "musical mod"]
+releaseDate: 2025-12-04
 ---
 
 ### Sprunki Retake New Human 介绍
@@ -24,6 +25,7 @@ tags: ["sprunki retake new human", "musical mod"]
 - **沉浸式游戏体验：** 这些人形角色设计增强了玩家与游戏之间的情感连接，让你更容易沉浸在音乐创作的世界中。
 - **生动的动画效果：** 随着游戏的进行，你会发现 **Sprunki Retake New Human** 呈现出各种捕捉人类特征的动态动画，让互动更加有趣和沉浸。
 
+<!-- i18n:section:how-to-play -->
 ### 如何玩 Sprunki Retake New Human？
 
 想要体验 **Sprunki Retake New Human** 的魅力？操作非常简单：
@@ -45,3 +47,4 @@ tags: ["sprunki retake new human", "musical mod"]
 **Sprunki Retake New Human** 的诞生源于为经典 Incredibox 体验注入新生命的愿望。这款创新的 Mod 以人形重新诠释了深受喜爱的角色，为游戏提供了全新的视角。**Sprunki Retake New Human** 的开发专注于为每个角色创造独特的人形设计，同时保留粉丝们喜爱的核心游戏机制。
 
 如今，**Sprunki Retake New Human** 是创意 Mod 的典范，熟悉的游戏玩法与创新的视觉设计相结合，带来引人入胜的全新体验。加入不断壮大的 **Sprunki Retake New Human** 社区，分享你对这款精彩 Mod 的体验吧！无论你是系列的老粉丝还是新玩家，这种对经典的独特诠释都能为你提供全新的视角！
+

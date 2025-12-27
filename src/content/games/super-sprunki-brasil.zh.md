@@ -6,8 +6,9 @@ title: "Super Sprunki Brasil V1.3 - 在线玩 Super Sprunki Brasil"
 description: "Super Sprunki Brasil 是一款 Incredibox Mod，让你用热情的巴西风情点燃你的音乐创造力。快来加入 Super Sprunki Brasil，用你的音乐向世界传递巴西的热情与活力！"
 iframeSrc: "https://turbowarp.org/1080827660/embed"
 thumbnail: /new-images/thumbnails/super-sprunki-brasil.png
-score: "4.3/5  (380 票)"
+score: "4.3/5  (380 votes)"
 tags: ["super sprunki brasil", "super sprunki brasil online"]
+releaseDate: 2025-12-04
 ---
 
 ### Super Sprunki Brasil 介绍
@@ -20,6 +21,7 @@ tags: ["super sprunki brasil", "super sprunki brasil online"]
 
 简单来说，Super Sprunki Brasil 是一款让你体验巴西风情的音乐游戏。游戏明亮的色彩、热情的角色和丰富的巴西音乐元素会让你沉浸在一个充满活力和文化底蕴的音乐世界中。
 
+<!-- i18n:section:how-to-play -->
 ### 如何玩 Super Sprunki Brasil？
 
 玩法非常简单，掌握以下几点，你也能玩出桑巴节奏：
@@ -50,3 +52,4 @@ tags: ["super sprunki brasil", "super sprunki brasil online"]
 ### 总结
 
 Super Sprunki Brasil 是一款 Incredibox Mod，让你用热情的巴西风情点燃你的音乐创造力。快来加入 Super Sprunki Brasil，用你的音乐向世界传递巴西的热情与活力！
+

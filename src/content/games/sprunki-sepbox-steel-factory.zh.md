@@ -6,10 +6,12 @@ title: "Sprunki x Sepbox Steel Factory - 在线玩 Sprunki x Sepbox Steel Factor
 description: "Sprunki x SepBox Steel Factory 是一次独特的合作，将 Sprunki 的动态艺术性与钢铁和机械的原始机械力量相结合，为传统音乐创作带来真正独特的转折。"
 iframeSrc: "https://turbowarp.org/1099071172/embed"
 thumbnail: /new-images/thumbnails/sprunki-sepbox-steel-factory.png
-score: "4.9/5  (509 票)"
+score: "4.9/5  (509 votes)"
 tags: ["sprunki x sepbox steel factory"]
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 准备好踏入一个充满机械轰鸣和金属碰撞的音乐世界了吗？Sprunki x SepBox Steel Factory 将带你进入一个工厂主题的宇宙，这里的每一个元素都旨在激发你的创造力。这款 Mod 引入了一系列工厂风格的角色，每个角色都能产生独特的声音，回响着金属的叮当声、机械的嗡嗡声和工业环境的节奏节拍。
 
 ### 什么是 Sprunki x SepBox Steel Factory？
@@ -39,3 +41,4 @@ Sprunki X Steel Factory [Sepbox] 凭借其独特的功能在工业音乐主题�
 - 沉浸在迷人的粗犷工业环境中创作高能量音乐曲目，让灵感和创造力无拘无束地释放。
 
 Sprunki x SepBox Steel Factory 是一款让你在工业节奏中释放音乐创造力的 Mod。来到 Sprunki x SepBox Steel Factory，用钢铁般的音符创作属于你自己的工业交响曲！这款 Mod 将让你在一个迷人的工厂主题宇宙中与动态的音符和火花碰撞！
+

@@ -24,9 +24,9 @@ Sprunki Like Minecraft Mod 是 Incredibox Sprunki 和 Minecraft 标志性方块�
 - **互动式玩法：** 拖放 Minecraft 主题的 Sprunki 角色来创作独特的曲目。
 - **创意音乐乐趣：** 体验无尽的声音组合，获得沉浸式体验。
 
+<!-- i18n:section:how-to-play -->
 ### 如何在 Sprunki Like Minecraft Mod 中玩音乐？
 
 这款 Incredibox Sprunki Like Minecraft Mod 完美满足了 Minecraft 和 Sprunki 粉丝的需求，提供了一种有趣且富有创意的跨界体验。现在就跳入这个方块世界，开始你的音乐创作之旅吧！
 
 你还在等什么？来到 Sprunki Like Minecraft 的世界，让音符与像素碰撞，在指尖弹奏你的 Minecraft 旋律！如果你还想尝试其他 Sprunki 系列 Mod，比如 Sprunki Interactive 1.0、Sprunki Kiss Edition 和 Sprunki Melodies，那就赶快行动吧！
-

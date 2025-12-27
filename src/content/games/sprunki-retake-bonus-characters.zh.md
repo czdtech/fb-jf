@@ -6,8 +6,9 @@ title: "Sprunki Retake Bonus Characters - 在线玩 Sprunki Retake Bonus Charact
 description: "Sprunki Retake Bonus Characters 不仅仅是一款普通的音乐游戏，它是对古老文化的致敬，也是对音乐无限可能性的探索。"
 iframeSrc: "https://turbowarp.org/1107905149/embed"
 thumbnail: /new-images/thumbnails/sprunki-retake-bonus-characters.png
-score: "3.9/5  (132 票)"
+score: "3.9/5  (132 votes)"
 tags: ["sprunki retake bonus characters"]
+releaseDate: 2025-12-04
 ---
 
 ### Sprunki Retake Bonus Characters 有什么特别之处？
@@ -27,3 +28,4 @@ Sprunki Retake Bonus Characters 不仅仅是一款普通的音乐游戏，它是
 - 你可以与朋友和家人分享你的作品，共同感受音乐的魅力。
 
 **无论你是经验丰富的音乐人还是充满好奇心的初学者，Sprunki Retake Bonus Characters 都能带来无尽的乐趣，以其独特的民族风情激发你的创造力。快来加入 Sprunki Retake Bonus Characters，用古老的节拍唤醒原始的音乐灵魂吧！**
+

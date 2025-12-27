@@ -6,10 +6,12 @@ title: "Sprunki Rotrizi 5.0 - 在线玩 Sprunki Rotrizi 5.0"
 description: "Sprunki Rotrizi 5.0 是一款令人兴奋的免费音乐混音体验，让你释放创造力并创作电气化的节拍。它凭借先进的失真算法和沉浸式视觉效果在 Sprunki Mod 中脱颖而出。"
 iframeSrc: "https://turbowarp.org/1126764795/embed"
 thumbnail: /new-images/thumbnails/sprunki-rotrizi-5.png
-score: "4.0/5  (232 票)"
+score: "4.0/5  (232 votes)"
 tags: ["sprunki rotrizi 5.0"]
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 你准备好踏入一个充满尖端声音和无限可能的音乐领域了吗？Sprunki Rotrizi 5.0 来颠覆你对音乐创作的认知！这款最先进的音乐混音 Mod 将原始的 Rotrizi 概念提升了好几个档次，让你沉浸在复杂的声音分层、迷幻的故障效果和震撼人心的深沉低音失真中。
 
 ### Sprunki Rotrizi 5.0 是怎么回事？
@@ -32,6 +34,7 @@ tags: ["sprunki rotrizi 5.0"]
 - **释放故障魔法：** 想要疯狂一下？尝试右键点击来激活那些疯狂的故障效果，为你的混音添加意想不到的转折和令人愉悦的失真！
 - **重置一切：** 玩得太疯狂想要重新开始？按空格键清空舞台，重新开始。
 
+<!-- i18n:section:tips -->
 ### Sprunki Rotrizi 5.0 游戏技巧
 
 - **大胆实验：** 不要犹豫，尝试各种角色组合。你永远不知道会擦出什么独特的声音火花！
@@ -45,3 +48,4 @@ tags: ["sprunki rotrizi 5.0"]
 ### 总结
 
 Sprunki Rotrizi 5.0 是一款令人兴奋的免费音乐混音体验，让你释放创造力并创作电气化的节拍。它凭借先进的失真算法和沉浸式视觉效果在 Sprunki Mod 中脱颖而出。无论你是经验丰富的混音高手还是刚刚起步的音乐爱好者，Sprunki Rotrizi 5.0 都提供了一个具有挑战性和乐趣的创作平台。今天就加入混音革命，突破你音乐想象力的极限！如果你渴望更多音乐创作乐趣，别忘了看看其他 Sprunki 游戏，比如 Sprunki Specimen！
+

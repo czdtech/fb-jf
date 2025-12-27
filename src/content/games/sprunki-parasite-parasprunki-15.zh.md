@@ -24,6 +24,7 @@ releaseDate: 2025-12-04
 - **令人难忘的音景：** 准备好迎接一些洗脑的旋律了吗？Sprunki Parasite ParaSprunki 15 中的音乐充满了令人不安的节拍、令人难忘的旋律和各种故障效果，让你沉浸在一个濒临崩溃的黑暗世界中。
 - **隐藏的诡异彩蛋：** 大胆尝试不同的声音组合！你可能会解锁隐藏的、更加恐怖的动画和音效。发现这些秘密是 Sprunki Parasite ParaSprunki 15 乐趣的重要组成部分。
 
+<!-- i18n:section:how-to-play -->
 ### 如何在 Sprunki Parasite ParaSprunki 15 中「玩耍」？
 
 核心玩法仍然是熟悉的拖放，但感觉完全不同：
@@ -36,4 +37,3 @@ releaseDate: 2025-12-04
 ### 总结
 
 如果你喜欢有点恐怖、悬疑，同时还能发挥创意的游戏，那么 Sprunki Parasite ParaSprunki 15 绝对适合你。它成功地将音乐创作与惊悚氛围融合在一起，带来真正独特的体验。你可以在 playfiddlebops.com 等网站上轻松找到并玩这款 Mod。你准备好了吗？跳入 Sprunki Parasite ParaSprunki 15 的世界，感受被音乐「附身」的刺激吧！希望你玩得「开心」！
-

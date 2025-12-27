@@ -6,8 +6,9 @@ title: "Swap Sprunkgerny - 在线畅玩 Swap Sprunkgerny"
 description: "想象一群外星生物站在你面前，有着夸张的眼睛和古怪的个性，等待你赋予它们生命。而你就是这支乐队的指挥，用你的手指让它们演奏出独特的音乐！"
 iframeSrc: "https://turbowarp.org/1141050651/embed"
 thumbnail: /new-images/thumbnails/swap-sprunkgerny.png
-score: "4.9/5  (724 票)"
+score: "4.9/5  (724 votes)"
 tags: ["swap sprunkgerny", "swap sprunkgerny online"]
+releaseDate: 2025-12-04
 ---
 
 ### Swap Sprunkgerny 游戏介绍
@@ -17,7 +18,8 @@ tags: ["swap sprunkgerny", "swap sprunkgerny online"]
 ### SWAP SPRUNKGERNY 有什么精彩之处？
  
 想象一群外星生物站在你面前，有着夸张的眼睛和古怪的个性，等待你赋予它们生命。而你就是这支乐队的指挥，用你的手指让它们演奏出独特的音乐！
- 
+
+<!-- i18n:section:tips -->
 ### SWAP SPRUNKGERNY 核心玩法
  
 SWAP SPRUNKGERNY 的核心玩法非常简单：拖拽！拖拽！拖拽！

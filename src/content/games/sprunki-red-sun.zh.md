@@ -6,8 +6,9 @@ title: "Sprunki Red Sun - 在线玩 Sprunki Red Sun"
 description: "Sprunki Red Sun Mod 将熟悉的 Sprunki 宇宙投入一个戏剧性的、火热的领域，由强烈的红色色调和有力的节奏节拍主导。"
 iframeSrc: "https://kdata1.com/2025/02/sprunki-x-redsun/"
 thumbnail: /new-images/thumbnails/sprunki-red-sun.png
-score: "4.4/5  (232 票)"
+score: "4.4/5  (232 votes)"
 tags: ["sprunki red sun"]
+releaseDate: 2025-12-04
 ---
 
 ### 什么是 Sprunki Red Sun？
@@ -21,6 +22,7 @@ Sprunki Red Sun Mod 将熟悉的 Sprunki 宇宙投入一个戏剧性的、火热
 - **视觉震撼的环境：** 游戏具有灼热的背景、阳光耀斑和戏剧性的灯光，让玩家沉浸在一个充满热量和强度的世界中。
 - **高冲击力的互动：** 当你混音曲目时，会出现新的音效和视觉耀斑，创造出动态而沉浸式的音乐之旅。
 
+<!-- i18n:section:how-to-play -->
 ### 如何玩 Sprunki Red Sun Mod？
 
 - **选择你的火焰注入角色：** 从一排以火热设计和动态动画重新构想的 Sprunki 角色中选择，每个角色都发出热量注入的声音。
@@ -35,3 +37,4 @@ Sprunki Red Sun Mod 将熟悉的 Sprunki 宇宙投入一个戏剧性的、火热
 - **为了新鲜的挑战：** Red Sun Mod 为 Sprunki 增添了强度和戏剧性，提供了一种在灼热、动态环境中参与音乐创作的新方式。
 
 如果你渴望一段挑战感官极限的音乐之旅，那么 Sprunki Red Sun 绝对是你的完美选择！快来加入 Sprunki Red Sun，用你的音乐点燃这个末日世界，让音符随着熊熊烈火燃烧吧！
+

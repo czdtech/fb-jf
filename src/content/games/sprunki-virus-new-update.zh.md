@@ -6,10 +6,12 @@ title: "Sprunki Virus New Update - 在线玩 Sprunki Virus New Update"
 description: "你是否渴望一段挑战感官极限的音乐之旅？Sprunki Virus 将带你进入一个被病毒感染的 Sprunki 世界，用诡异的音景、故障的画面和紧张的游戏机制为你带来前所未有的刺激体验！"
 iframeSrc: "https://turbowarp.org/1104064786/embed"
 thumbnail: /new-images/thumbnails/sprunki-virus-new-update.png
-score: "4.0/5  (407 票)"
+score: "4.0/5  (407 votes)"
 tags: ["sprunki virus new update"]
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 你是否渴望一段挑战感官极限的音乐之旅？Sprunki Virus 将带你进入一个被病毒感染的 Sprunki 世界，用诡异的音景、故障的画面和紧张的游戏机制为你带来前所未有的刺激体验！
 
 ### 什么是 Sprunki Virus？
@@ -31,3 +33,4 @@ Sprunki Virus 将熟悉的 Sprunki 宇宙转变为一种令人难忘的、充满
 - **分享你的混乱：** 一旦你的曲目准备好了，就与 Sprunki 社区分享。展示你令人难忘的创意才华，并欣赏其他人的诡异作品。
 
 如果你喜欢黑暗、沉浸式的主题，并享受突破音乐创作技能极限的乐趣，那么 Sprunki Virus 绝对是你游戏库的完美补充。快来加入 Sprunki Virus，让病毒点燃你的创意灵感，开始一段刺激的音乐冒险吧！
+
