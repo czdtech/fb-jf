@@ -7,8 +7,10 @@ urlstr: "geometry-dash"
 score: "4.5/5  (604 votes)"
 tags: ["geometry dash"]
 locale: ja
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 Geometry Dash Wave Spamは、ウェーブフォームだけに絞った高難度レベルです。ポータルやパッド、コインなどの要素を最小限にし、狭いトンネルを正確な入力で抜けていく練習に向いています。
 
 ### ウェーブ操作の集中トレーニング
