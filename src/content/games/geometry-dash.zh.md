@@ -10,8 +10,10 @@ thumbnail: /new-images/thumbnails/geometry-dash.png
 tags:
   - geometry dash
 score: 4.5/5  (604 votes)
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 忘掉一切「点缀关卡」的包装。这里没有重力门、没有跳板、没有金币收集，
 只有你、你的波形飞船，以及一条像刮刀刃一样窄的死亡走廊。
 
