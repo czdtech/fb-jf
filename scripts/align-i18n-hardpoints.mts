@@ -415,6 +415,9 @@ function looksLikeFaqQuestionLine(locale: TargetLocale, line: string): boolean {
     if (!isAnswerLike && afterList.startsWith('**') && afterList.includes('**')) return true;
   }
 
+  // Another common FAQ format: bold paragraph lines, often numbered ("**1. ...**").
+  if (looksBold && /^\d+[\).]/.test(normalizedStart)) return true;
+
   if (looksBold && (hasQPrefix || hasQuestionMark)) return true;
   if (looksList && (hasQPrefix || hasQuestionMark)) return true;
   if (hasQPrefix && (looksBold || looksList)) return true;
