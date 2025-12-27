@@ -7,9 +7,11 @@ iframeSrc: 'https://turbowarp.org/1135326100/embed'
 thumbnail: /new-images/thumbnails/incredibox-donki-abgerny.png
 tags:
   - incredibox donki abgerny
-score: 4.3/5 (154 票)
+score: 4.3/5  (154 votes)
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 嘿，厌倦了千篇一律的电子节拍？想要踏上一场穿越时空的音乐冒险，感受来自大地深处的原始脉动？那么 Incredibox Donki Abgerny 绝对会让你大开眼界！这款独特的 Incredibox 体验将带你踏上一段沉浸式的音乐之旅，让你感觉仿佛置身于古老部落的中心。
 
 ### Incredibox Donki Abgerny 是怎么回事？
@@ -36,3 +38,4 @@ score: 4.3/5 (154 票)
 ### 总结：
 
 Incredibox Donki Abgerny 是一场充满创意和挑战的音乐冒险。它不仅让你体验部落文化的独特魅力，还通过其动态节奏玩法将音乐创作提升到新的维度。无论你是 Incredibox 的老粉丝还是寻求新鲜刺激的节奏游戏爱好者，Incredibox Donki Abgerny 都将带你踏上一段充满律动和惊喜的难忘旅程。你准备好加入这个古老而充满活力的音乐部落，用你的节奏感征服挑战了吗？🎶🎤🎼
+

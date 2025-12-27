@@ -8,10 +8,11 @@ thumbnail: /new-images/thumbnails/incredibox-creatophobos.png
 tags:
   - music
   - horror
-score: 4.6/5 (1342 票)
+score: 4.6/5 (1342 votes)
 releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### **Incredibox "Creatophobos" 游戏介绍**
 
 *Incredibox Creatophobos* 是一款黑暗而实验性的 Incredibox 音乐创作游戏粉丝 Mod。名字本身是"Creator"（创造者）和"Phobos"（希腊恐惧之神）的混成词，为其核心主题奠定了基调：**对创造的恐惧、怪物般的存在和令人不安的恐怖**。
@@ -20,6 +21,7 @@ releaseDate: 2025-10-10T00:00:00.000Z
 
 目标虽然仍然植根于音乐创作，但从创作朗朗上口的曲调转变为构建**恐怖而沉浸式的音景**。寻找三个秘密奖励的解谜元素仍然存在，解锁的动画完美反映了 Mod 的怪诞和噩梦般的美学。
 
+<!-- i18n:section:tips -->
 ### **游戏策略与技巧**
 
 *Incredibox Creatophobos* 的策略是拥抱混乱和建立紧张感，而不是和谐。
@@ -38,6 +40,7 @@ releaseDate: 2025-10-10T00:00:00.000Z
 
 5. **使用独奏来解构噪音**：音景可能变得非常密集和压倒性。使用"独奏"功能来隔离单个声音。这将帮助你理解每个怪物对整体混乱的贡献，并允许你做出更有意识的创意选择。
 
+<!-- i18n:section:controls -->
 ### **操作指南**
 
 操作是官方 Incredibox 游戏的标准、直观的拖放界面。
@@ -47,3 +50,4 @@ releaseDate: 2025-10-10T00:00:00.000Z
 - **静音/取消静音**：**点击**正在表演的角色来静音；再次点击取消静音。
 - **独奏**：点击活动角色旁边的**小按钮**来静音所有其他表演者。
 - **录制**：点击**录制按钮**开始和停止录制你的怪物创作。
+

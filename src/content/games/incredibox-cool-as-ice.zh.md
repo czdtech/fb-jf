@@ -8,7 +8,8 @@ thumbnail: /new-images/thumbnails/incredibox-cool-as-ice.png
 tags:
   - incredibox cool as ice
   - incredibox cool as ice online
-score: 4.9/5 (724 票)
+score: 4.9/5  (724 votes)
+releaseDate: 2025-12-04
 ---
 
 ### Incredibox Cool As Ice 介绍
@@ -23,6 +24,7 @@ score: 4.9/5 (724 票)
 
 ---
 
+<!-- i18n:section:tips -->
 ### 冰冷玩法，轻松上手：
 
 - **选择冰冷角色：** 从新冻结的角色阵容中选择开始。每个角色都为经典声音带来新的转折，带着冬日的寒意。游戏中有超过 20 个独特的冰雪主题角色，每个都有自己的个性。
