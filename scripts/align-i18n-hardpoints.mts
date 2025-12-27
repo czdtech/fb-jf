@@ -351,6 +351,20 @@ function looksLikeFaqQuestionLine(locale: TargetLocale, line: string): boolean {
   if (lower.startsWith('**a:') || lower.startsWith('**a：') || lower.startsWith('**answer')) return false;
   if (t.startsWith('答：') || t.startsWith('답:') || t.startsWith('답：')) return false;
 
+  // Accept plain Q-lines (not necessarily bold/list) when they clearly start with a question prefix.
+  // This helps avoid "foundQuestions < expected" caused by formatting variance.
+  const normalizedStart = (() => {
+    // Strip list marker, then strip leading bold markers.
+    let s = t.replace(/^[-*+]\s+/, '').trim();
+    s = s.replace(/^\*\*/, '').trim();
+    return s;
+  })();
+
+  if (/^q[:：]/i.test(normalizedStart)) return true;
+  if (locale === 'zh' && /^(问|問)：/.test(normalizedStart)) return true;
+  if (locale === 'ja' && /^質問/.test(normalizedStart)) return true;
+  if (locale === 'ko' && /^질문/.test(normalizedStart)) return true;
+
   const hasQPrefix = (() => {
     if (lower.includes('**q:') || lower.includes('**q：') || lower.startsWith('q:')) return true;
     if (locale === 'zh' && (t.includes('问：') || t.includes('問：') || t.includes('**问：') || t.includes('**問：'))) return true;
