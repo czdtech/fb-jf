@@ -3,10 +3,10 @@ title: Cookie Clicker 2 クッキークリッカー2
 description: >-
   「Cookie Clicker
   2」でクッキー帝国を築き上げよう。クリックしてクッキーを焼き、施設をアップグレードし、ゴールデンクッキーを集めて、無限に広がる放置ゲームの傑作。
-iframeSrc: 'https://cookie-clicker2.github.io/'
+iframeSrc: 'https://games-online.io/game/cake-maker/'
 thumbnail: /new-images/thumbnails/cookie-clicker-2.jpg
 urlstr: cookie-clicker-2
-score: 4.5/5  (5178 votes)
+score: 4.1/5  (1344 votes)
 tags:
   - clicker
   - idle
@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 *Cookie Clicker 2（クッキークリッカー2）*は、放置系ゲーム（クリッカーゲーム）というジャンルを確立した伝説的なゲームの続編（および拡張版）です。目的はシンプルです。**クッキーを焼くこと。それも、天文学的な数のクッキーを。**
@@ -23,6 +24,7 @@ locale: ja
 最初は大きなクッキーをクリックして1枚ずつ焼くところから始まります。しかし、すぐに「カーソル」などの自動クリックアイテムや、「おばあちゃん（Grandma）」、「農場」、「鉱山」、「工場」、「銀行」、そして「魔法の塔」や「タイムマシン」といった施設を購入し、クッキーの生産を自動化・加速させていきます。
 ゲームが進むにつれて、「名声（プレステージ）」システムによる転生、「ゴールデンクッキー」による爆発的なブースト、そして不気味な「グランマポカリプス」など、驚くべき深みと中毒性が明らかになります。
 
+<!-- i18n:section:tips -->
 ### ゲーム攻略と戦略
 
 クッキークリッカーはマラソンのようなゲームですが、いくつかの段階があります。
@@ -43,6 +45,7 @@ locale: ja
 *   **グランマポカリプス:** 特定の研究を進めると、おばあちゃんが激怒し、ゲームの見た目とシステムが変貌します。リスクはありますが、強大なリターンも得られます。
 *   **ミニゲーム:** 施設をレベルアップさせると、畑（Garden）、神殿（Pantheon）、魔法（Grimoire）などの複雑なミニゲームが解放され、さらなるブーストが可能になります。
 *   **角砂糖（英: Sugar Lumps）:** 約24時間に1個手に入ります。施設をレベルアップさせ、CpSを永続的に1%上げる貴重なアイテムです。
+<!-- i18n:section:controls -->
 ### 操作ガイド
 
 基本的にマウスのみですが、効率化のためのショートカットがあります。
@@ -54,19 +57,26 @@ locale: ja
     *   **Ctrl + クリック:** 100個購入
     *   **Shift + クリック:** 1000個購入
 
+<!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
+<!-- i18n:faq:id=faq:cookie-clicker-2:when-is-the-best-time-1f08eaaf -->
 **1. 最初の転生はいつが良いですか？**
 初回は名声レベル（英: Prestige Levels）が200〜440程度貯まってからが目安です。その後は進行が明確に鈍ったら転生し、効率の良い周回を重ねましょう。
 
+<!-- i18n:faq:id=faq:cookie-clicker-2:what-is-the-point-of-83046206 -->
 **2. グランマポカリプスの目的は？発動すべき？**
 強力なアップグレードや実績が解放されますが、デメリットのある「Wrath Cookies」が混ざるなどリスクもあります。中盤以降に戦略として受け入れるのも、抑制するのもどちらも有効です。
 
+<!-- i18n:faq:id=faq:cookie-clicker-2:what-should-i-spend-my-947839c8 -->
 **3. 角砂糖は最初に何に使うべき？**
 最初は「農場（Farms）」をレベル1にしてミニゲーム「畑（Garden）」を解放するのが定番です。その後は「魔法の塔（英: Wizard Towers）」で「魔法書（Grimoire）」を、「神殿（Temples）」で「パンテオン（Pantheon）」を解放するのが優先候補になります。
 
+<!-- i18n:faq:id=faq:cookie-clicker-2:how-do-i-get-golden-ba541801 -->
 **4. ゴールデンクッキーのコンボはどう作る？**
 基本は運ですが、Grimoire（魔法の塔ミニゲーム）の「Force the Hand of Fate」で追加のゴールデンクッキーを出せます。FrenzyとClick Frenzyを重ねるなど、強い組み合わせを狙いましょう。
 
+<!-- i18n:faq:id=faq:cookie-clicker-2:is-there-an-end-to-ce958c6b -->
 **5. ゲームに終わりはありますか？**
 ありません。数字を伸ばし続け、実績やアップグレードを集めていく「終わりのない」放置ゲームです。
+

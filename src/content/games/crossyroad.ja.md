@@ -1,21 +1,23 @@
 ---
 title: Crossy Road クロッシーロード
 description: 「Crossy Road」は簡単操作で奥深い横断アクションゲーム。車や川、電車を避けて、キャラクターをどこまでも遠くへ進めよう。
-iframeSrc: 'https://bitlifeonline.github.io/crossy-road/'
+iframeSrc: 'https://www.playfiddlebops.com/embed/crossyroad/index.html'
 thumbnail: /new-images/thumbnails/crossyroad.jpg
 urlstr: crossyroad
-score: 4.5/5  (8125 votes)
+score: 4.8/5  (1104 votes)
 tags:
   - arcade
   - casual
   - endless
 developer: Hipster Whale
-releaseDate: 2025-08-16T00:00:00.000Z
+releaseDate: 2025-12-04
 locale: ja
 ---
 
+<!-- i18n:section:introduction -->
 *Crossy Road（クロッシーロード）*は、Hipster Whaleが開発した人気の高いエンドレス・アーケードゲームです。車が行き交う道路、丸太が流れる川、電車が走る線路を渡りながら、できるだけ長く生き残って前進し続けることが目的です。ボクセル風の可愛いビジュアルと、多数のアンロック可能なキャラクターが魅力で、「なぜニワトリは道を渡るのか？」という有名なジョークへのオマージュでもあります。
 
+<!-- i18n:section:how-to-play -->
 ### Crossy Roadの遊び方
  
 -  **移動:** 画面をタップして1マス前進し、左右・下へのスワイプで移動します。基本は前進し続けることです。
@@ -38,6 +40,7 @@ locale: ja
  
 ---
  
+<!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
  
 **Q: 新しいキャラクターはどうやって手に入れますか？**  **A:** 主に3つあります。1) コイン100枚でプライズマシン（ガチャ）を回してランダム解放。2) 数時間おきに出る無料ギフトを回収。3) 特定のキャラで特定の行動をすると解放される隠しキャラ。
@@ -45,3 +48,4 @@ locale: ja
 **Q: コインには何の意味がありますか？**  **A:** プライズマシンで新キャラクターをアンロックするためだけに使います。スコアや性能には直接影響しません。
  
 **Q: なぜワシに連れ去られたのですか？**  **A:** 同じ場所に長く留まったり、後退をしすぎると発生します。常に前へ進ませるための仕組みです。
+

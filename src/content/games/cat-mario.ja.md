@@ -1,10 +1,10 @@
 ---
 title: Cat Mario キャットマリオ（しょぼんのアクション）
 description: 別名「しょぼんのアクション」。「マリオ」のような見た目でプレイヤーを絶望させる、史上最も理不尽で有名なトラップアクションゲーム。
-iframeSrc: 'https://cat-mario.github.io/'
+iframeSrc: 'https://tiwb.github.io/catmario/'
 thumbnail: /new-images/thumbnails/cat-mario.jpg
 urlstr: cat-mario
-score: 4.8/5  (5120 votes)
+score: 4.6/5  (1147 votes)
 tags:
   - platformer
   - action
@@ -14,6 +14,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 *Cat Mario（キャットマリオ）*、日本では**「しょぼんのアクション（ローマ字表記：Syobon Action）」**として知られるこのゲームは、カルト的な人気を誇る2Dプラットフォーマーです。一見すると、どこかで見たことのある有名な配管工のゲームにそっくりですが、その中身は全くの別物です。
@@ -22,6 +23,7 @@ locale: ja
 
 不条理な死に様を楽しむユーモアと、「マイナス数百」まで平気でカウントされるライフカウンターが特徴です。怒らずにステージの最後の旗（ゴール）にたどり着くことが唯一の目的です。
 
+<!-- i18n:section:tips -->
 ### ゲーム攻略と戦略
 
 このゲームに従来の戦略は通用しません。あるのは「記憶」のみです。
@@ -40,6 +42,7 @@ locale: ja
     *   最後の階段を登りきると敵が降ってきます。
     *   **ゴールの旗に触れてはいけません。** 旗を飛び越えて、その奥にある隠しブロックに乗り、さらに奥にある城に入って初めてクリアとなります。
 
+<!-- i18n:section:controls -->
 ### 操作ガイド
 
 操作はクラシックなアクションゲームと同じです。
@@ -48,6 +51,7 @@ locale: ja
 
 ※ダッシュボタンはありません。
 
+<!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
 
@@ -62,3 +66,4 @@ locale: ja
 
 **4. このゲームの正式名称は？**
 > 英語圏では「Cat Mario」と呼ばれることが多いですが、元の日本語名は「しょぼんのアクション（ローマ字表記：Syobon Action）」です。「Neko Mario」と呼ばれることもあります。
+
