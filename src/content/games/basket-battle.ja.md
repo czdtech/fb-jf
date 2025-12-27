@@ -34,10 +34,14 @@ locale: ja
 <!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
+<!-- i18n:faq:id=faq:basket-battle:shots-rim-outwhy-4f70cb40 -->
 *   **シュートが弾かれてばかりです。**
     *   軌道が低すぎる（フラット）か、力が強すぎます。もっと高い山なりのボールを意識し、パワーを少し抑えてください。
+<!-- i18n:faq:id=faq:basket-battle:can-i-dunk-dcf98d86 -->
 *   **ダンクシュートはできますか？**
     *   モードによりますが、ゴール付近でジャンプすれば可能な場合があります。
+<!-- i18n:faq:id=faq:basket-battle:multiplayer-fc9199ff -->
 *   **マルチプレイはできますか？**
     *   多くのバージョンでは、ローカル（1台の端末）での対戦モードが搭載されています。
+
 

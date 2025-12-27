@@ -34,10 +34,14 @@ locale: ja
 <!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
+<!-- i18n:faq:id=faq:basket-champ:shots-bounce-outfix-25a5981f -->
 *   **よくゴールに嫌われます（弾かれます）。**
     *   もっと高い軌道（アーチ）を描き、パワーを少し弱めてみてください。
+<!-- i18n:faq:id=faq:basket-champ:endless-ea2091be -->
 *   **終わりはありますか？**
     *   基本的にはエンドレスです。自分の最高連勝記録に挑戦し続けましょう。
+<!-- i18n:faq:id=faq:basket-champ:wind-e70091e7 -->
 *   **風の影響はありますか？**
     *   風があるステージでは、風向きに合わせて左右に狙いを調整してください。
+
 

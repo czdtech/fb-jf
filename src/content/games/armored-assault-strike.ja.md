@@ -33,10 +33,10 @@ locale: ja
 <!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
+<!-- i18n:faq:id=faq:armored-assault-strike:i-melt-fastwhy-994e5bc4 -->
 *   **すぐにやられてしまいます。なぜ？**
+<!-- i18n:faq:id=faq:armored-assault-strike:ammo-limited-9be95bd9 -->
     *   開けた場所に長時間いませんか？ 遮蔽物を使い、敵との距離を保ちながら戦う「引き撃ち（カイト）」を徹底してください。
+<!-- i18n:faq:id=faq:armored-assault-strike:bosses-5a57d05f -->
 *   **弾が足りなくなります。**
     *   弱い敵に無駄弾を使わないようにしましょう。正確に狙い、強力な敵のためにリソースを節約してください。
-*   **ボスが倒せません。**
-    *   ボスの動きをよく見てパターンを覚えましょう。また、ボスと同時に出てくるザコ敵を放置するとジリ貧になるので、先に倒すのが定石です。
-

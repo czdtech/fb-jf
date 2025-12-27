@@ -35,10 +35,14 @@ locale: ja
 <!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
+<!-- i18n:faq:id=faq:backyard-zombie-defense:keep-leakingwhat-to-do-70297790 -->
 *   **バリケードがすぐに壊されます。**
     *   バリケードの後ろに立って撃つだけでなく、積極的に動き回って敵の注意（アグロ）を引き、バリケードへの負担を減らしましょう。
+<!-- i18n:faq:id=faq:backyard-zombie-defense:best-openers-9443fd68 -->
 *   **お金が足りません。**
     *   ヘッドショット（頭を撃つ）を狙うと、より効率的に敵を倒せます。また、無駄な弾薬消費を控えることも節約になります。
+<!-- i18n:faq:id=faq:backyard-zombie-defense:speed-toggle-3e55cb8a -->
 *   **ウェーブいくつまでありますか？**
     *   通常、エンドレスモードか、特定のウェーブ数（例：20〜50）を生き残ることが目標になります。後半は敵の数が圧倒的になるので、範囲攻撃できる武器が必須になります。
+
 

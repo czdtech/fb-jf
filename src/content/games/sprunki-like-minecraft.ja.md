@@ -24,9 +24,11 @@ Sprunki Like Minecraft Modは、Incredibox SprunkiとMinecraftの象徴的なブ
  - **創造的な音楽の楽しさ：** 没入型体験のための無限のサウンドの組み合わせを体験します。
  
  
+<!-- i18n:section:how-to-play -->
 ### Sprunki Like Minecraft Modで音楽をプレイする方法は？
 
 このIncredibox Sprunki Like Minecraft Modでは、キャラクターをドラッグ＆ドロップして音を重ね、Minecraft風の雰囲気でトラックを作れます。
  
 組み合わせを変えて、ビートやメロディのまとまりを調整していくのがコツです。いくつかパターンを作り、聞き比べながら整えてみてください。
+
 

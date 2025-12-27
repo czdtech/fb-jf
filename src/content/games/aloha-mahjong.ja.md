@@ -34,10 +34,14 @@ locale: ja
 <!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
+<!-- i18n:faq:id=faq:aloha-mahjong:no-pairs-fd17fa86 -->
 *   **ペアが見つかりません。**
     *   可能な場合はシャッフルを使うか、リスタート（やり直し）を検討してください。
+<!-- i18n:faq:id=faq:aloha-mahjong:what-is-an-open-tile-2fbf8293 -->
 *   **「オープンな牌」とは何ですか？**
     *   左右の少なくともどちらか一方が他の牌に接しておらず、かつ上に牌が乗っていない状態の牌のことです。
+<!-- i18n:faq:id=faq:aloha-mahjong:multiple-layouts-6bfba2f8 -->
 *   **レイアウトは一つだけですか？**
     *   通常、難易度や形の異なる複数のレイアウト（積み方）が用意されています。
+
 

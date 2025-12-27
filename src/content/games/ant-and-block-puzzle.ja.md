@@ -34,10 +34,14 @@ locale: ja
 <!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
+<!-- i18n:faq:id=faq:ant-and-block-puzzle:no-fits-leftwhat-now-5a203cd7 -->
 *   **置ける場所がなくなりました。**
     *   アンドゥで少し戻って違う書き方を試すか、リスタートして新しい配置から始めましょう。
+<!-- i18n:faq:id=faq:ant-and-block-puzzle:rotations-634fab63 -->
 *   **回転はできますか？**
     *   ゲームのバリエーションによります。UIに回転ボタンがあるか確認してください。
+<!-- i18n:faq:id=faq:ant-and-block-puzzle:endless-ea2091be -->
 *   **終わりはありますか？**
     *   多くのバージョンはスコアアタック形式のエンドレスゲームです。
+
 
