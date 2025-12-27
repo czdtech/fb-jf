@@ -372,7 +372,6 @@ function looksLikeFaqQuestionLine(locale: TargetLocale, line: string): boolean {
   const t = raw.trim();
   if (!t) return false;
   const lower = t.toLowerCase();
-  const leadingSpaces = /^(\s*)/.exec(raw)?.[1]?.length ?? 0;
 
   // Accept plain Q-lines (not necessarily bold/list) when they clearly start with a question prefix.
   // This helps avoid "foundQuestions < expected" caused by formatting variance.
@@ -417,10 +416,6 @@ function looksLikeFaqQuestionLine(locale: TargetLocale, line: string): boolean {
     if (!isAnswerLike && afterList.startsWith('**') && afterList.includes('**')) return true;
   }
 
-  // Another common FAQ format: a flat list where each top-level bullet is a Q(+A) entry.
-  // Treat top-level list items as questions to avoid under-counting when punctuation varies across locales.
-  if (looksList && leadingSpaces === 0) return true;
-
   // Another common FAQ format: bold paragraph lines, often numbered ("**1. ...**").
   if (looksBold && /^\d+[\).]/.test(normalizedStart)) return true;
 
@@ -457,11 +452,44 @@ function applyFaqIdsToLocale(
 
   const endAfter = findNextSectionMarkerIndex(nextLines, markerIndex);
 
+  const looksLikeFaqQuestionLineRelaxed = (line: string): boolean => {
+    if (looksLikeFaqQuestionLine(locale, line)) return true;
+    if (line == null) return false;
+    const raw = line;
+    const t = raw.trim();
+    if (!t) return false;
+
+    const leadingSpaces = /^(\s*)/.exec(raw)?.[1]?.length ?? 0;
+    if (leadingSpaces !== 0) return false;
+    if (!/^[-*+]\s+/.test(t)) return false;
+
+    // Exclude obvious answers (including list/bold variants).
+    const normalizedStart = (() => {
+      // Strip list marker, then strip leading bold markers.
+      let s = t.replace(/^[-*+]\s+/, '').trim();
+      s = s.replace(/^\*\*/, '').trim();
+      return s;
+    })();
+
+    const normalizedLower = normalizedStart.toLowerCase();
+    if (/^a[:：]/.test(normalizedLower) || normalizedLower.startsWith('answer')) return false;
+    if (/^(答|답)[:：]/.test(normalizedStart)) return false;
+
+    return true;
+  };
+
+  const scanQuestionLineIndices = (mode: 'strict' | 'relaxed'): number[] => {
+    const out: number[] = [];
+    const end = findNextSectionMarkerIndex(nextLines, markerIndex);
+    for (let i = markerIndex + 1; i < end; i++) {
+      const ok = mode === 'strict' ? looksLikeFaqQuestionLine(locale, nextLines[i]) : looksLikeFaqQuestionLineRelaxed(nextLines[i]);
+      if (ok) out.push(i);
+    }
+    return out;
+  };
+
   // Re-scan question lines after removals.
-  const questionLineIndices: number[] = [];
-  for (let i = markerIndex + 1; i < endAfter; i++) {
-    if (looksLikeFaqQuestionLine(locale, nextLines[i])) questionLineIndices.push(i);
-  }
+  let questionLineIndices = scanQuestionLineIndices('strict');
 
   if (questionLineIndices.length !== expectedIds.length) {
     if (options.trimFaqExtras && questionLineIndices.length > expectedIds.length) {
@@ -475,28 +503,22 @@ function applyFaqIdsToLocale(
         nextLines.splice(qi, Math.max(0, nextQi - qi));
       }
 
-      // Recompute question lines after trimming.
-      const endAfterTrim = findNextSectionMarkerIndex(nextLines, markerIndex);
-      const trimmedQuestionLineIndices: number[] = [];
-      for (let i = markerIndex + 1; i < endAfterTrim; i++) {
-        if (looksLikeFaqQuestionLine(locale, nextLines[i])) trimmedQuestionLineIndices.push(i);
+      // Recompute question lines after trimming (strict only).
+      questionLineIndices = scanQuestionLineIndices('strict');
+      if (questionLineIndices.length !== expectedIds.length) {
+        skippedReasons.push(`faq-question-count-mismatch:expected=${expectedIds.length}:found=${questionLineIndices.length}`);
+        return { nextLines, inserted: 0, removed, foundQuestions: questionLineIndices.length, skippedReasons };
       }
-
-      if (trimmedQuestionLineIndices.length !== expectedIds.length) {
+    } else if (questionLineIndices.length < expectedIds.length) {
+      // Relaxed fallback: accept flat top-level list items when punctuation/formatting varies too much.
+      const relaxed = scanQuestionLineIndices('relaxed');
+      if (relaxed.length !== expectedIds.length) {
         skippedReasons.push(
-          `faq-question-count-mismatch:expected=${expectedIds.length}:found=${trimmedQuestionLineIndices.length}`
+          `faq-question-count-mismatch:expected=${expectedIds.length}:foundStrict=${questionLineIndices.length}:foundRelaxed=${relaxed.length}`
         );
-        return {
-          nextLines,
-          inserted: 0,
-          removed,
-          foundQuestions: trimmedQuestionLineIndices.length,
-          skippedReasons,
-        };
+        return { nextLines, inserted: 0, removed, foundQuestions: relaxed.length, skippedReasons };
       }
-
-      // Use the trimmed indices from here on.
-      questionLineIndices.splice(0, questionLineIndices.length, ...trimmedQuestionLineIndices);
+      questionLineIndices = relaxed;
     } else {
       skippedReasons.push(`faq-question-count-mismatch:expected=${expectedIds.length}:found=${questionLineIndices.length}`);
       return { nextLines, inserted: 0, removed, foundQuestions: questionLineIndices.length, skippedReasons };
