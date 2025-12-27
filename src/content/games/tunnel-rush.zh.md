@@ -3,17 +3,18 @@ locale: zh
 urlstr: tunnel-rush
 title: 《Tunnel Rush》隧道疾驰
 description: 《Tunnel Rush》是一款一人称视角的高速隧道躲避游戏。你将在色彩斑斓的三维隧道中一路狂飙，躲避迎面而来的障碍物，考验反应与手眼协调。
-iframeSrc: 'https://tunnelrush.h5games.usercontent.goog/v/4g7d2n9c1b5k0/'
+iframeSrc: 'https://szhong.4399.com/4399swf//upload_swf/ftp44/gamehwq/20230830/12a/index.html'
 thumbnail: /new-images/thumbnails/tunnel-rush.jpg
 tags:
   - running
   - reflex
   - 3d
-score: 4.2/5  (2200 votes)
+score: 4.6/5  (919 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### 详细游戏介绍
 
 《Tunnel Rush》以炫目的几何图形和霓虹色彩打造了一个无尽的 3D 隧道。你以第一人称视角在隧道中飞驰，前方会不断出现各种形状和方向各异的障碍，有的静止，有的旋转或突然出现。你的唯一目标就是在越来越快的速度下尽可能长时间不撞墙。
@@ -34,6 +35,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 - **保持居中：** 没有障碍时尽量保持在隧道中央，方便下一步左右闪避。
+<!-- i18n:section:faq -->
 ### 常见问题解答（FAQ）
 
 
@@ -48,3 +50,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 - **问：游戏有终点吗？**  
     **答：** 这是无尽模式，理论上可以一直玩下去；挑战在于你能坚持多久、拿到多高分。
+

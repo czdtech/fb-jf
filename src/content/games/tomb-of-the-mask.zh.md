@@ -3,21 +3,23 @@ locale: zh
 urlstr: tomb-of-the-mask
 title: 《Tomb of the Mask》面具之墓
 description: 《Tomb of the Mask》是一款复古像素风的迷宫动作游戏。你戴上神秘面具在地牢中高速滑行，避开陷阱与敌人，收集金币并不断深入墓穴。
-iframeSrc: 'https://tombofthemask.h5games.usercontent.goog/v/6h2d3n9c1b5k0/'
+iframeSrc: 'https://w8.snokido.com/games/unity-webgl/tomb-run/index.html'
 thumbnail: /new-images/thumbnails/tomb-of-the-mask.jpg
 tags:
   - arcade
   - maze
   - action
-score: 4.3/5  (2300 votes)
+score: 3.7/5  (843 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### 详细游戏介绍
 
 《Tomb of the Mask》以竖版像素关卡呈现，你操控角色在狭窄的迷宫通道中“直线冲刺”：每次选择一个方向后，角色会一直滑行到撞上墙壁或障碍物才会停下。关卡中布满尖刺、陷坑、飞行敌人和机关，你需要利用这种“滑行到尽头”的规则来规划路径，同时收集星星与金币，解锁新的面具与能力。
 
+<!-- i18n:section:tips -->
 ### 游玩策略与通关指引
 
 1.  **先观察再冲刺：** 在改变方向前快速浏览整个屏幕，预判直线滑行会经过哪些陷阱或敌人，避免一头扎进死路。
@@ -27,11 +29,15 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 - **躲避洪水：** 彩色洪水会从屏幕底部不断上升，逼你快速向上推进。
+<!-- i18n:section:controls -->
 ### 操作说明
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Arrow Keys` `WASD`
 
 *   **移动：** 通过方向键或滑动屏幕，向上/下/左/右划动一次即可让角色朝该方向滑行直到受阻；
 *   **互动与道具：** 路上拾取的能量或特殊道具会自动生效，具体效果以关卡提示为准。
 
+<!-- i18n:section:faq -->
 ### 常见问题解答（FAQ）
 
 **问：为什么总感觉停不下来？****
@@ -45,3 +51,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 有的。随着推进并收集金币，你可以解锁多种面具；不同面具可能带来独特能力或加成，让跑关更有策略性。
 
 **有不同的面具可以解锁吗？**
+

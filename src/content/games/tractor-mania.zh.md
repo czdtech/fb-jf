@@ -3,21 +3,23 @@ locale: zh
 urlstr: tractor-mania
 title: 《Tractor Mania》拖拉机运货
 description: 《Tractor Mania》是一款物理驾驶+运货闯关游戏。驾驶拖拉机穿越颠簸山路，小心控制油门与车身平衡，把货物尽量完整地运到终点。
-iframeSrc: 'https://tractormania.h5games.usercontent.goog/v/5g9d2n3c1b7p0/'
+iframeSrc: 'https://4agtsfcp8ur38.h5games.usercontent.goog/v/35kskpc4lmtig/'
 thumbnail: /new-images/thumbnails/tractor-mania.png
 tags:
   - driving
   - physics
   - delivery
-score: 3.9/5  (1500 votes)
+score: 4.0/5  (1880 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### 详细游戏介绍
 
 《Tractor Mania》中，你扮演乡村拖拉机司机，需要在起伏不平的山路上运输农产品或货箱。道路布满坡道、坑洼与突起，车厢里的货物在颠簸中随时可能掉落。你必须在“开得足够快以保证时间”和“稳住货物不掉光”之间找到平衡。
 
+<!-- i18n:section:tips -->
 ### 游玩策略与驾驶指引
 
 1.  **控速为先：** 在强烈坡度或连续坑洼前减速通过，以免车尾大幅弹起，把货物甩出车厢。
@@ -27,17 +29,22 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 - **升级顺序：** 如果有升级系统，优先升轮胎/悬挂，再考虑引擎。
+<!-- i18n:section:controls -->
 ### 操作说明
 
 *   **加速 / 减速：** 使用方向键或相应按键控制拖拉机前进与刹车；
 *   **重试关卡：** 如果货物掉得只剩零星几件，可以选择重新开始追求更高评分。
 
+<!-- i18n:section:faq -->
 ### 常见问题解答（FAQ）
 
+<!-- i18n:faq:id=faq:tractor-mania:cargo-keeps-spilling-cd103fe7 -->
 - 问：货物总是一直在掉，怎么办？
   
   答：多半是油门太猛、过坑时没稳住车身。遇到颠簸前先减速并让车厢姿态稳定，再缓慢通过会明显好很多。
 
+<!-- i18n:faq:id=faq:tractor-mania:stuck-on-hills-fee7029a -->
 - 问：上坡总是爬不上去怎么办？
   
   答：不要高速硬冲，改用更稳的速度接近坡面，保持抓地并轻微前倾，避免打滑导致失速。
+

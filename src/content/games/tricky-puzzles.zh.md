@@ -3,21 +3,23 @@ locale: zh
 urlstr: tricky-puzzles
 title: 《Tricky Puzzles》脑洞益智合集
 description: 《Tricky Puzzles》是一款集合多种脑洞题与机关谜题的益智游戏。看似简单的问题背后往往藏着反常规思路，需要你跳出惯性思考才能通关。
-iframeSrc: 'https://trickypuzzles.h5games.usercontent.goog/v/2h7d3n9c1b5k0/'
+iframeSrc: 'https://rebemanae.github.io/brain-test-tricky-puzzles/'
 thumbnail: /new-images/thumbnails/tricky-puzzles.jpg
 tags:
   - puzzle
   - brain-teaser
   - funny
-score: 3.9/5  (1550 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
+score: 4.1/5  (713 votes)
+releaseDate: 2025-08-16
 ---
 
 
+<!-- i18n:section:introduction -->
 ### 详细游戏介绍
 
 《Tricky Puzzles》并不是传统意义上那种“只靠公式就能解”的纯逻辑题，而是一套充满恶作剧和反转的脑洞谜题合集。每一关都有独特的设定，有的要你在画面中寻找隐藏按钮，有的要你移动看似“装饰”的物体，还有的需要你利用手机或电脑的系统交互方式才能解开。
 
+<!-- i18n:section:tips -->
 ### 解谜思路与提示
 
 
@@ -27,6 +29,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 3.  **留意文案与图像细节：** 题目说明、对话气泡和插画细节中常常藏有关键提示或双关信息。
 4.  **多试错，不怕失败：** 这类游戏本身就鼓励“乱点乱试”，失败通常也会配上有趣的反馈动画，记住教训再来一次即可。
 
+<!-- i18n:section:controls -->
 ### 操作说明
 
 *   **基础交互：** 通过点击、拖拽、长按等方式与界面元素互动；
@@ -34,6 +37,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 - **多点触控/旋转设备：** 某些谜题可能需要双指操作，或需要你实际旋转设备。
+<!-- i18n:section:faq -->
 ### 常见问题解答（FAQ）
 
 **问：有提示系统吗？****
@@ -47,3 +51,4 @@ releaseDate: 2025-10-17T00:00:00.000Z
 提示通常需要观看广告或消耗游戏内货币获取。它会给出关键线索，帮助你推进思路，但不会直接把答案一次性告诉你。
 
 **怎么获取提示？**
+

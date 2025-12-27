@@ -3,21 +3,23 @@ locale: zh
 urlstr: timber-guy
 title: 《Timber Guy》伐木达人
 description: 《Timber Guy》是一款一键式反应游戏。你扮演伐木工，在限定时间内疯狂砍树，同时要不断切换站位，避免被树枝砸到。
-iframeSrc: 'https://timberguy.h5games.usercontent.goog/v/3k8n2c1b5d9p0/'
+iframeSrc: 'https://timberguy.h5games.usercontent.goog/v/2ke6osh59ras0/'
 thumbnail: /new-images/thumbnails/timber-guy.png
 tags:
   - arcade
   - reflex
   - casual
-score: 3.8/5  (1400 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
+score: 3.8/5  (1659 votes)
+releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### 详细游戏介绍
 
 《Timber Guy》操作极其简单，却很考验反应速度和节奏感。你需要不断敲击左右键（或点击屏幕两侧）来挥斧砍树，每砍一下树干就会变短，同时树上会随机生成新的树枝。如果你恰好站在树枝所在那一侧，就会被砸中并立刻结束游戏。
 
+<!-- i18n:section:tips -->
 ### 游玩策略与节奏指引
 
 1.  **眼睛看树枝，不看角色：** 把注意力集中在树干上方即将出现的树枝位置，提前决定下一击是否需要换边。
@@ -27,19 +29,19 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 - **冲高分：** 小失误会不断累积；如果开局节奏已经乱了，果断重开往往更划算。
+<!-- i18n:section:controls -->
 ### 操作说明
 
 *   **切换方向并砍树：** 使用键盘左右方向键（或 A/D），或在移动端点击屏幕左右两侧即可切换伐木工站位并完成砍树动作；
 *   **计时：** 随着你砍树，时间条会略微回填，停止砍太久则时间耗尽游戏结束。
 
+<!-- i18n:section:faq -->
 ### 常见问题解答（FAQ）
 
 
+<!-- i18n:faq:id=faq:timber-guy:why-do-i-get-hit-86f64afd -->
 - **有道具吗？** 部分版本会提供增益道具，但核心还是保持稳定节奏与命中率。  
+<!-- i18n:faq:id=faq:timber-guy:does-speed-ramp-f258838f -->
 - **速度会越来越快吗？** 通常会。用节奏感来操作，比纯拼手速更容易适应提速。  
+<!-- i18n:faq:id=faq:timber-guy:any-powerups-49499345 -->
 - **为什么我总被砸到？** 多半是换边太晚。看到树枝位置后要更早切换到安全的一侧。  
-**问：总是被突然出现的树枝砸到怎么办？****
-答：** 放慢一点点击频率，多给自己半秒时间看清下一段树干情况，熟悉树枝出现规律后就能提前预判。
-
-**问：游戏有终点吗？****
-答：** 属于无尽街机型，目标是尽可能多砍几刀、刷出更高分。

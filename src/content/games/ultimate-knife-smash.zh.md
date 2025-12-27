@@ -3,21 +3,23 @@ locale: zh
 urlstr: ultimate-knife-smash
 title: 《Ultimate Knife Smash》终极飞刀挑战
 description: 《Ultimate Knife Smash》是一款节奏明快的飞刀投掷游戏。瞄准旋转靶心，将手中的飞刀一把把扎上去，避免击中已有刀刃或障碍。
-iframeSrc: 'https://ultimateknifesmash.h5games.usercontent.goog/v/2k7d3n9c1b5p0/'
+iframeSrc: 'https://ultimateknifesmash.h5games.usercontent.goog/v/5ifrmqkiihdj0/'
 thumbnail: /new-images/thumbnails/ultimate-knife-smash.png
 tags:
   - arcade
   - reflex
   - clicker
-score: 3.9/5  (1500 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
+score: 4.0/5  (1749 votes)
+releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### 详细游戏介绍
 
 《Ultimate Knife Smash》中，圆形木靶会不断旋转，有时速度与方向还会发生变化。你需要在合适的时机点击屏幕，将手中的飞刀精确投掷到木靶上。每一关通常要求将所有飞刀都插在靶子上，同时不能碰到已经插上的刀刃或特定障碍物，一旦碰撞即宣告失败。
 
+<!-- i18n:section:tips -->
 ### 游玩策略与投掷指引
 
 1.  **观察旋转节奏：** 不要急着上手，先看几圈木靶的旋转速度和方向变化，再决定投掷节奏。
@@ -27,20 +29,20 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 - **Boss 靶：** 后期关卡可能需要额外命中次数，别一味连点，控制节奏更稳。
+<!-- i18n:section:controls -->
 ### 操作说明
 
 *   **投掷飞刀：** 点击屏幕或按下指定按键即可投掷一把飞刀；
 *   **关卡进度：** 界面通常会显示剩余飞刀数量与当前关卡进度；
 *   **重来：** 失败后可以立即重启关卡，重新掌握节奏。
 
+<!-- i18n:section:faq -->
 ### 常见问题解答（FAQ）
 
 
+<!-- i18n:faq:id=faq:ultimate-knife-smash:why-do-i-keep-hitting-76b02e8a -->
 - **有道具吗？** 部分版本会提供多发飞刀、减速等增益，建议留到空隙最密集、最容易翻车的阶段使用。  
+<!-- i18n:faq:id=faq:ultimate-knife-smash:does-rotation-change-5056f76a -->
 - **旋转会变化吗？** 通常会。要随时准备应对突然加速、减速或反向。  
+<!-- i18n:faq:id=faq:ultimate-knife-smash:are-there-powerups-0fea9ab4 -->
 - **我为什么老是扎到已有刀刃？** 多半是节奏乱了。先停一下重新观察旋转规律，等明显空档出现时再出手。  
-**问：总是撞到已有的刀刃怎么办？****
-答：** 可以尝试放慢频率，专注观察木靶一整圈，确认最宽的空档位置后再投掷，不要连点。
-
-**问：后期木靶转得很乱怎么办？****
-答：** 许多关卡都在考验你适应突然变速或反向的能力，多观察两秒再投掷往往比急着丢刀更安全。

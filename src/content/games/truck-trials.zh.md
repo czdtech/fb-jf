@@ -3,21 +3,23 @@ locale: zh
 urlstr: truck-trials
 title: 《Truck Trials》越野卡车试炼
 description: 《Truck Trials》是一款基于物理的越野卡车闯关游戏。驾驶重型卡车通过崎岖不平的地形，控制油门与重心，在不翻车的前提下顺利抵达终点。
-iframeSrc: 'https://trucktrials.h5games.usercontent.goog/v/4g9d2n3c1b7p0/'
+iframeSrc: 'https://trucktrials.h5games.usercontent.goog/v/4u5cado14l780/'
 thumbnail: /new-images/thumbnails/truck-trials.png
 tags:
   - driving
   - physics
   - stunt
-score: 3.9/5  (1500 votes)
+score: 4.1/5 (1123 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### 详细游戏介绍
 
 《Truck Trials》中，赛道布满陡坡、断层、木箱、轮胎堆等障碍，你需要一边保持前进动力，一边利用油门和重心控制让卡车稳稳爬坡、下坡和跳跃。车身过于前倾或后仰都可能导致翻车，需要你根据路况灵活调整节奏。
 
+<!-- i18n:section:tips -->
 ### 游玩策略与驾驶指引
 
 1.  **慢就是快：** 在复杂障碍区宁可放慢速度细致调整，也不要企图一脚油门冲过去，翻车一次损失的时间远比慢一点通过更多。
@@ -25,14 +27,19 @@ releaseDate: 2025-10-18T00:00:00.000Z
 3.  **预判地形变化：** 多留意前方赛道起伏，提前减速或加速，以免在坡顶或坡底时出现难以挽回的姿态。
 4.  **熟悉每辆车特性：** 不同卡车在重量、悬挂和加速表现上有所区别，找到适合自己手感的一辆会让闯关顺利许多。
 
+<!-- i18n:section:controls -->
 ### 操作说明
 
 *   **加速 / 刹车：** 使用上/下方向键或对应按键控制卡车前进与减速；
 *   **前倾 / 后仰：** 使用左/右方向键控制车身重心，帮助卡车在空中或坡面上保持平衡；
 *   **重试：** 若翻车或被卡住，可通过界面按钮重开关卡。
 
+<!-- i18n:section:faq -->
 ### 常见问题解答（FAQ）
+<!-- i18n:faq:id=faq:truck-trials:q-how-do-i-avoid-2be9dd82 -->
 *   **问：总是卡在同一个坡怎么办？****
     *   答：** 可以尝试换种节奏：先倒退一点加速起步，或者在坡脚先稳住车身再一鼓作气冲上去。
+<!-- i18n:faq:id=faq:truck-trials:q-what-is-the-differential-664dd98f -->
 *   **问：这款游戏更看重操作还是升级？****
     *   答：** 操作与路线选择更为关键，即便车辆性能一般，只要掌握好油门与重心控制，大部分关卡都能通过。
+

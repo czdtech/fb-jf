@@ -3,14 +3,14 @@ locale: zh
 urlstr: treasure-hunter
 title: 《Treasure Hunter》古墓寻宝者
 description: 《Treasure Hunter》是一款以探险寻宝为主题的动作/解谜游戏。你将深入古遗迹、神秘洞穴和丛林废墟，寻找传说中的宝物并躲避机关与竞争对手。
-iframeSrc: 'https://treasurehunter.h5games.usercontent.goog/v/4d7n3c1b9k2p0/'
+iframeSrc: 'https://m.igroutka.ru/g-1/149/TreasureHunter/'
 thumbnail: /new-images/thumbnails/treasure-hunter.jpg
 tags:
   - adventure
   - puzzle
   - action
-score: 3.9/5  (1600 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
+score: 4.6/5  (1294 votes)
+releaseDate: 2025-08-16
 ---
 
 
@@ -38,4 +38,5 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 **问：游戏更偏动作还是解谜？****
 答：** 两者都有，既需要一定操作基础，也要仔细观察线索、推理机关逻辑。
+
 
