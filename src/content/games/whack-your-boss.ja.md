@@ -1,17 +1,19 @@
 ---
 title: Whack Your Boss
 description: Whack Your Bossは、ストレス発散ゲームです。様々な方法でボスにストレスをぶつけましょう。
-iframeSrc: 'https://ubg98.github.io/WhackYourBoss/'
+iframeSrc: 'https://flash-cdn.blogspot.com/2021/06/whack-your-boss-24-ways.html'
 thumbnail: /new-images/thumbnails/whack-your-boss.jpg
 urlstr: whack-your-boss
-score: 4.2/5  (2234 votes)
+score: 4.7/5  (899 votes)
 tags:
   - casual
   - stress relief
   - humor
 locale: ja
+releaseDate: 2025-08-16
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Whack Your Bossは、オフィスでのストレスを発散するユーモラスなゲームです。オフィスにあるアイテムを使って、様々な創造的な方法を発見しましょう。
@@ -25,10 +27,12 @@ Whack Your Bossは、オフィスでのストレスを発散するユーモラ�
  - **すべて発見：** すべての隠されたアイテムを見つけます
  - **ストレス発散：** ユーモアを楽しみます
 
+<!-- i18n:section:controls -->
 ### 操作ガイド
 
  - **マウス：** アイテムをクリック
 
+<!-- i18n:section:faq -->
 ### よくある質問（FAQ）
 
 **このゲームは何ですか？**
@@ -42,3 +46,4 @@ Whack Your Bossは、オフィスでのストレスを発散するユーモラ�
 **このゲームは暴力的ですか？**
 
 漫画的なユーモアです。深刻に受け取らないでください。
+

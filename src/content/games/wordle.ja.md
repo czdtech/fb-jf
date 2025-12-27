@@ -1,17 +1,19 @@
 ---
 title: Wordle
 description: Wordleは、大人気の単語推測ゲームです。6回の試行で5文字の単語を推測しましょう。
-iframeSrc: 'https://ubg98.github.io/Wordle/'
+iframeSrc: 'https://ext.minijuegos.com/wordle/'
 thumbnail: /new-images/thumbnails/wordle.jpg
 urlstr: wordle
-score: 4.7/5  (5234 votes)
+score: 4.8/5  (515 votes)
 tags:
   - puzzle
   - word
   - logic
 locale: ja
+releaseDate: 2025-08-16
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Wordleは、世界中で大人気の単語推測パズルゲームです。6回の試行で正しい5文字の単語を推測し、色のヒントを使って答えを見つけましょう。
@@ -35,6 +37,7 @@ Wordleは、世界中で大人気の単語推測パズルゲームです。6回�
 - **フィードバックを見る：** 色のヒントを確認します。緑（位置も正しい）、黄（単語に含まれるが位置が違う）、灰（含まれない）。
 
 - **送信：** `Enter` で現在の推測を送信します。
+<!-- i18n:section:faq -->
 ### よくある質問（FAQ）
 
 
@@ -56,3 +59,4 @@ Wordleは、世界中で大人気の単語推測パズルゲームです。6回�
 **毎日新しい単語ですか？**
 
 はい、通常は1日1つの新しい単語があります。
+

@@ -1,17 +1,19 @@
 ---
 title: Veggies Cut
 description: Veggies Cutは、野菜切りゲームです。タイミングよく野菜を切ってスライスしましょう。
-iframeSrc: 'https://ubg98.github.io/VeggiesCut/'
+iframeSrc: 'https://01pgt4aflffvo.h5games.usercontent.goog/v/2kpv41q3jen50/'
 thumbnail: /new-images/thumbnails/veggies-cut.jpg
 urlstr: veggies-cut
-score: 4.2/5  (1987 votes)
+score: 4.0/5  (1867 votes)
 tags:
   - arcade
   - casual
   - slicing
 locale: ja
+releaseDate: 2025-10-18
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Veggies Cutは、シンプルで楽しい野菜切りゲームです。タイミングよくスワイプして野菜をスライスし、高得点を目指しましょう。
@@ -25,24 +27,18 @@ Veggies Cutは、シンプルで楽しい野菜切りゲームです。タイミ
 
 
 - ミス後は立て直す：外した後はいったんリズムを戻してから続けます。
+<!-- i18n:section:controls -->
 ### 操作ガイド
 
  - **マウス/タッチ：** スワイプして野菜を切る
 
+<!-- i18n:section:faq -->
 ### よくある質問（FAQ）
 
 
+<!-- i18n:faq:id=faq:veggies-cut:i-hit-hazards-e2582509 -->
 - Q: 危険物に当たってしまいます。
+<!-- i18n:faq:id=faq:veggies-cut:how-to-score-high-602cd322 -->
 **ゲームの目標は何ですか？**
 
 
-- Q: ハイスコアのコツはありますか？
-野菜を切って高得点を獲得することです。
-
-**爆弾に当たったらどうなりますか？**
-
-ゲームオーバーまたはポイントが減ります。
-
-**コンボはどう作りますか？**
-
-野菜を連続で素早く切るとコンボになります。

@@ -1,17 +1,19 @@
 ---
 title: Word Wipe
 description: Word Wipeは、単語消去パズルゲームです。隣接する文字から単語を作って消しましょう。
-iframeSrc: 'https://ubg98.github.io/WordWipe/'
+iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-word-wipe/'
 thumbnail: /new-images/thumbnails/word-wipe.jpg
 urlstr: word-wipe
-score: 4.4/5  (2765 votes)
+score: 4.8/5  (1384 votes)
 tags:
   - puzzle
   - word
   - strategy
 locale: ja
+releaseDate: 2025-08-16
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Word Wipeは、隣接する文字をつないで単語を作り、グリッドをクリアする戦略的な単語パズルゲームです。できるだけ長い単語を作って高得点を目指しましょう。
@@ -27,10 +29,12 @@ Word Wipeは、隣接する文字をつないで単語を作り、グリッド�
 - **ボーナス爆弾：** 複数のタイルをまとめて消せる「爆弾」を獲得できる場合があります。行き詰まりの立て直しに役立ちます。
 
 - **スコア：** 長く複雑な単語ほど高得点になりやすいです。スピードが評価に影響する場合もあります。
+<!-- i18n:section:controls -->
 ### 操作ガイド
 
  - **マウス：** 文字をドラッグしてつなぐ
 
+<!-- i18n:section:faq -->
 ### よくある質問（FAQ）
 
 **ゲームの目標は何ですか？**
@@ -44,3 +48,4 @@ Word Wipeは、隣接する文字をつないで単語を作り、グリッド�
 **時間制限はありますか？**
 
 はい、制限時間内にできるだけ多くの列をクリアします。
+

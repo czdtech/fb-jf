@@ -1,17 +1,19 @@
 ---
 title: We Become What We Behold
 description: We Become What We Beholdは、社会実験ゲームです。メディアと人間行動の関係を探索しましょう。
-iframeSrc: 'https://ubg98.github.io/WeBecomeWhatWeBehold/'
+iframeSrc: 'https://html5.iclouds.io/we-become-behold/index.html'
 thumbnail: /new-images/thumbnails/we-become-what-we-behold.jpg
 urlstr: we-become-what-we-behold
-score: 4.6/5  (3892 votes)
+score: 4.0/5  (987 votes)
 tags:
   - experimental
   - story
   - social
 locale: ja
+releaseDate: 2025-08-16
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 We Become What We Beholdは、メディアと社会行動の関係を探るユニークな実験的ゲームです。カメラで写真を撮り、メディアが人々の行動にどう影響するかを観察します。
@@ -25,10 +27,12 @@ We Become What We Beholdは、メディアと社会行動の関係を探るユ�
  - **連鎖反応：** メディアがどう社会を変えるかを体験します
  - **メッセージを理解：** ゲームの深いメッセージを考えます
 
+<!-- i18n:section:controls -->
 ### 操作ガイド
 
  - **マウス：** カメラを動かして撮影
 
+<!-- i18n:section:faq -->
 ### よくある質問（FAQ）
 
 **このゲームは何ですか？**
@@ -42,3 +46,4 @@ We Become What We Beholdは、メディアと社会行動の関係を探るユ�
 **どれくらいの長さですか？**
 
 短いですが、非常に印象的な体験です（約5-10分）。
+

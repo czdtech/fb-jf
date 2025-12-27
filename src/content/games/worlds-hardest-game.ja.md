@@ -1,17 +1,19 @@
 ---
 title: World's Hardest Game
 description: World's Hardest Gameは、世界で最も難しいゲームです。赤い四角を避けて緑のゾーンに到達しましょう。
-iframeSrc: 'https://ubg98.github.io/WorldsHardestGame/'
+iframeSrc: 'https://ad-freegames.github.io/flash/game/the-worlds-hardest-game.html'
 thumbnail: /new-images/thumbnails/worlds-hardest-game.jpg
 urlstr: worlds-hardest-game
-score: 4.5/5  (4892 votes)
+score: 4.9/5  (1070 votes)
 tags:
   - arcade
   - skill
   - difficult
 locale: ja
+releaseDate: 2025-08-16
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 World's Hardest Gameは、その名の通り非常に難しいスキルベースのアーケードゲームです。動く赤い四角を避けながら、青い四角をゴールまで導きましょう。
@@ -33,6 +35,7 @@ World's Hardest Gameは、その名の通り非常に難しいスキルベース
 - **立ち止まって考える：** 安全地帯でいったん止まり、次の一手を考えます。
 
 - **正確に動かす：** 小さな動きで隙間を抜けるなど、細かい操作が必要になります。
+<!-- i18n:section:faq -->
 ### よくある質問（FAQ）
 
 
@@ -54,3 +57,4 @@ World's Hardest Gameは、その名の通り非常に難しいスキルベース
 **何レベルありますか？**
 
 30レベル以上の極めて挑戦的なステージがあります。
+

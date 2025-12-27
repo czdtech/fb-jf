@@ -1,17 +1,19 @@
 ---
 title: Who Is?
 description: Who Is?は、推理パズルゲームです。謎を解いて正しい答えを見つけましょう。
-iframeSrc: 'https://ubg98.github.io/WhoIs/'
+iframeSrc: 'https://rebemanae.github.io/who-is/'
 thumbnail: /new-images/thumbnails/who-is.jpg
 urlstr: who-is
-score: 4.3/5  (2543 votes)
+score: 4.1/5  (907 votes)
 tags:
   - puzzle
   - brain
   - detective
 locale: ja
+releaseDate: 2025-08-16
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Who Is?は、観察力と推理力をテストするパズルゲームです。各レベルで謎を解き、正しい答えを見つけましょう。
@@ -25,6 +27,7 @@ Who Is?は、観察力と推理力をテストするパズルゲームです。�
  - **推理する：** 論理的に考えて答えを導きます
  - **選択する：** 正しい答えを選びます
 
+<!-- i18n:section:controls -->
 ### 操作ガイド
 
  - **マウス：** クリックして選択と相互作用
@@ -33,6 +36,7 @@ Who Is?は、観察力と推理力をテストするパズルゲームです。�
 - **マルチタッチ：** パズルによっては、2本指操作が必要になる場合があります。
 
 - **ドラッグ：** 押したまま動かして、オブジェクトを動かしたり隠れた場所を見つけたりします。
+<!-- i18n:section:faq -->
 ### よくある質問（FAQ）
 
 **ゲームの目標は何ですか？**
@@ -46,3 +50,4 @@ Who Is?は、観察力と推理力をテストするパズルゲームです。�
 **難易度は高いですか？**
 
 いくつかのレベルは創造的思考が必要です。
+

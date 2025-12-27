@@ -1,17 +1,19 @@
 ---
 title: Word Search
 description: Word Searchは、クラシックな単語検索パズルゲームです。グリッドから隠された単語を見つけましょう。
-iframeSrc: 'https://ubg98.github.io/WordSearch/'
+iframeSrc: 'https://cdn.gamesnacks.com/wordsearch1/gameCode/index.html'
 thumbnail: /new-images/thumbnails/word-search.jpg
 urlstr: word-search
-score: 4.3/5  (2543 votes)
+score: 3.8/5  (1143 votes)
 tags:
   - puzzle
   - word
   - classic
 locale: ja
+releaseDate: 2025-08-16
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Word Searchは、時代を超えて愛されるクラシックな単語検索パズルゲームです。文字のグリッドから隠された単語を見つけて、語彙力を楽しみましょう。
@@ -35,6 +37,7 @@ Word Searchは、時代を超えて愛されるクラシックな単語検索パ
 - **リスト確認：** 単語リストを見て、未発見の単語を確認します。
 
 - **多方向に選択：** 前後・上下・斜めなど、さまざまな方向の単語を選べます。
+<!-- i18n:section:faq -->
 ### よくある質問（FAQ）
 
 
@@ -56,3 +59,4 @@ Word Searchは、時代を超えて愛されるクラシックな単語検索パ
 **難易度は様々ですか？**
 
 はい、簡単なパズルから難しいパズルまであります。
+

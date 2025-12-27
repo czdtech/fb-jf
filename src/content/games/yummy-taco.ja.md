@@ -1,18 +1,20 @@
 ---
 title: Yummy Taco
 description: Yummy Tacoは、タコス作りゲームです。お客様の注文通りにタコスを作りましょう。
-iframeSrc: 'https://ubg98.github.io/YummyTaco/'
+iframeSrc: 'https://g2.igroutka.ru/games/7/K6bHUF2pdiz30Aam/4399swf/upload_swf/ftp40/chenling/20220916/6/'
 thumbnail: /new-images/thumbnails/yummy-taco.jpg
 urlstr: yummy-taco
-score: 4.3/5  (2234 votes)
+score: 4.1/5  (1206 votes)
 tags:
   - cooking
   - casual
   - time management
 locale: ja
+releaseDate: 2025-08-16
 ---
 
 
+<!-- i18n:section:introduction -->
 Yummy Tacoは、タコスを作って提供する料理シミュレーションゲームです。材料の管理、組み立て、提供を素早く行い、時間内に注文をさばいてスコアを伸ばします。
 ### ゲーム紹介
 
@@ -35,6 +37,7 @@ Yummy Tacoは、タコススタンドで注文をさばく料理ゲームです�
     - **タコスを作る：** 注文通りに組み立てます
  - **素早く提供：** 時間内に完成させます
 
+<!-- i18n:section:controls -->
 ### 操作ガイド
 
 
@@ -51,6 +54,7 @@ Yummy Tacoは、タコススタンドで注文をさばく料理ゲームです�
 **Yummy Tacoの主な目的は何ですか？**
  - **マウス：** 材料をクリックして選択
 
+<!-- i18n:section:faq -->
 ### よくある質問（FAQ）
 
 **ゲームの目標は何ですか？**
@@ -64,3 +68,4 @@ Yummy Tacoは、タコススタンドで注文をさばく料理ゲームです�
 **間違えたらどうなりますか？**
 
 スコアが減り、お客様の満足度が下がります。
+

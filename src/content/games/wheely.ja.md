@@ -1,17 +1,19 @@
 ---
 title: Wheely
 description: Wheelyは、車のパズルアドベンチャーゲームです。赤い車を助けてゴールまで導きましょう。
-iframeSrc: 'https://ubg98.github.io/Wheely/'
+iframeSrc: 'https://www.friv.com/z/games/wheely/index-x.html'
 thumbnail: /new-images/thumbnails/wheely.jpg
 urlstr: wheely
-score: 4.5/5  (3234 votes)
+score: 4.8/5  (695 votes)
 tags:
   - puzzle
   - adventure
   - car
 locale: ja
+releaseDate: 2025-08-16
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Wheelyは、可愛い赤い車が主人公のパズルアドベンチャーゲームです。パズルを解いて障害物を取り除き、Wheelyをゴールまで導きましょう。
@@ -25,6 +27,7 @@ Wheelyは、可愛い赤い車が主人公のパズルアドベンチャーゲ�
  - **ゴールに到達：** 各レベルのゴールまで導きます
  - **星を集める：** 追加のチャレンジで星を集めます
 
+<!-- i18n:section:controls -->
 ### 操作ガイド
 
  - **マウス：** オブジェクトをクリックして相互作用
@@ -35,6 +38,7 @@ Wheelyは、可愛い赤い車が主人公のパズルアドベンチャーゲ�
     - **Wheelyをクリック：** Wheelyをクリックして、動きの開始/停止を切り替えます。
 
     - **クリック：** オブジェクトをクリックして作動させます。
+<!-- i18n:section:faq -->
 ### よくある質問（FAQ）
 
 **ゲームの目標は何ですか？**
@@ -48,3 +52,4 @@ Wheelyは、可愛い赤い車が主人公のパズルアドベンチャーゲ�
 **レベルは何個ありますか？**
 
 複数のレベルとシリーズがあります。
+

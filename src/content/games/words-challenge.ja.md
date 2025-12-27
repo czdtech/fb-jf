@@ -1,17 +1,19 @@
 ---
 title: Words Challenge
 description: Words Challengeは、単語チャレンジゲームです。様々な単語パズルに挑戦しましょう。
-iframeSrc: 'https://ubg98.github.io/WordsChallenge/'
+iframeSrc: 'https://60p1t41kumli8.h5games.usercontent.goog/v/7pss7j2tdq7io/'
 thumbnail: /new-images/thumbnails/words-challenge.jpg
 urlstr: words-challenge
-score: 4.3/5  (2345 votes)
+score: 4.1/5  (1982 votes)
 tags:
   - puzzle
   - word
   - challenge
 locale: ja
+releaseDate: 2025-10-18
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Words Challengeは、様々な単語パズルとチャレンジを提供するゲームです。語彙力と問題解決能力をテストしましょう。
@@ -25,24 +27,18 @@ Words Challengeは、様々な単語パズルとチャレンジを提供する�
 
 
 - 連続正解：一定のペースで解くと倍率を維持しやすいです。
+<!-- i18n:section:controls -->
 ### 操作ガイド
 
  - **マウス/キーボード：** チャレンジのタイプに応じて操作
 
+<!-- i18n:section:faq -->
 ### よくある質問（FAQ）
 
 
+<!-- i18n:faq:id=faq:words-challenge:i-stall-on-anagrams-ea8ca34e -->
 - Q: アナグラムで止まってしまいます。
+<!-- i18n:faq:id=faq:words-challenge:are-proper-nouns-allowed-c43148f9 -->
 **ゲームの目標は何ですか？**
 
 
-- Q: 固有名詞は使えますか？
-様々な単語パズルチャレンジを完了することです。
-
-**どんなチャレンジがありますか？**
-
-単語検索、アナグラム、単語形成など、様々なパズルがあります。
-
-**難易度は上がりますか？**
-
-はい、より難しいチャレンジが段階的にアンロックされます。

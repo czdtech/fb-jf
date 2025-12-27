@@ -1,17 +1,19 @@
 ---
 title: Wordler
 description: Wordlerは、Wordle風の単語推測ゲームです。ヒントを使って単語を推測しましょう。
-iframeSrc: 'https://ubg98.github.io/Wordler/'
+iframeSrc: 'https://30mv2rsaljhjo.h5games.usercontent.goog/v/0hb0g2c5b4m9o/'
 thumbnail: /new-images/thumbnails/wordler.png
 urlstr: wordler
-score: 4.4/5  (2876 votes)
+score: 4.2/5  (2054 votes)
 tags:
   - puzzle
   - word
   - guessing
 locale: ja
+releaseDate: 2025-10-18
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Wordlerは、人気のWordleにインスパイアされた単語推測ゲームです。色のヒントを使って制限された試行回数で単語を推測しましょう。
@@ -25,24 +27,18 @@ Wordlerは、人気のWordleにインスパイアされた単語推測ゲーム�
 
 
 - 終盤の絞り込み：最後の数手は候補を整理して、無駄な推測を減らします。
+<!-- i18n:section:controls -->
 ### 操作ガイド
 
  - **キーボード：** 文字をタイプ
 
+<!-- i18n:section:faq -->
 ### よくある質問（FAQ）
 
 
+<!-- i18n:faq:id=faq:wordler:i-get-multiple-possibles-late-1ce30564 -->
 - Q: 終盤で候補が複数残ります。どう選べばいいですか？
+<!-- i18n:faq:id=faq:wordler:are-plurals-allowed-409748db -->
 **Wordleとの違いは何ですか？**
 
 
-- Q: 複数形は使えますか？
-似たゲームプレイですが、独自の単語セットと機能があります。
-
-**何回試行できますか？**
-
-通常、6回の試行があります。
-
-**ヒントの色は何ですか？**
-
-Wordleと同様に、緑、黄、灰の色でヒントが表示されます。

@@ -1,17 +1,19 @@
 ---
 title: Zombie Gun
 description: Zombie Gunは、ゾンビシューティングゲームです。ゾンビの群れを撃って生き残りましょう。
-iframeSrc: 'https://ubg98.github.io/ZombieGun/'
+iframeSrc: 'https://5bcvrmoqria48.h5games.usercontent.goog/v/7cfakbl479q6o/'
 thumbnail: /new-images/thumbnails/zombie-gun.png
 urlstr: zombie-gun
-score: 4.4/5  (2876 votes)
+score: 4.0/5  (1898 votes)
 tags:
   - shooting
   - zombie
   - survival
 locale: ja
+releaseDate: 2025-10-18
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Zombie Gunは、ゾンビの襲撃から生き残るシューティングゲームです。様々な武器を使ってゾンビの群れを撃退し、できるだけ長く生き残りましょう。
@@ -25,25 +27,19 @@ Zombie Gunは、ゾンビの襲撃から生き残るシューティングゲー�
 
 
 - 装甲ゾンビ：遮蔽物や距離を使って、安全な位置から削るのが基本です。
+<!-- i18n:section:controls -->
 ### 操作ガイド
 
  - **マウス：** 狙いと射撃
  - **キーボード：** 武器の切り替えと移動
 
+<!-- i18n:section:faq -->
 ### よくある質問（FAQ）
 
 
+<!-- i18n:faq:id=faq:zombie-gun:i-run-out-of-ammo-19e6836d -->
 - Q: 弾が足りません。
+<!-- i18n:faq:id=faq:zombie-gun:armored-ones-dont-die-09eee214 -->
 **ゲームの目標は何ですか？**
 
 
-- Q: 装甲の敵が倒せません。
-ゾンビの襲撃からできるだけ長く生き残ることです。
-
-**武器はアップグレードできますか？**
-
-はい、ポイントを使って武器を強化できます。
-
-**ゲームは終わりがありますか？**
-
-エンドレスモードで、倒されるまで続きます。

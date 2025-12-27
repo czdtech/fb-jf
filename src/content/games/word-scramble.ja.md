@@ -1,17 +1,19 @@
 ---
 title: Word Scramble
 description: Word Scrambleは、単語アナグラムゲームです。シャッフルされた文字から単語を作りましょう。
-iframeSrc: 'https://ubg98.github.io/WordScramble/'
+iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/word-scramble/'
 thumbnail: /new-images/thumbnails/word-scramble.jpg
 urlstr: word-scramble
-score: 4.3/5  (2234 votes)
+score: 3.5/5  (764 votes)
 tags:
   - puzzle
   - word
   - anagram
 locale: ja
+releaseDate: 2025-08-16
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Word Scrambleは、シャッフルされた文字を並べ替えて単語を作るアナグラムパズルゲームです。素早く正しい単語を見つけましょう。
@@ -25,13 +27,17 @@ Word Scrambleは、シャッフルされた文字を並べ替えて単語を作�
 
 
 - **スコア：** 正解すると得点になり、早く解くほどボーナスが付く場合があります。
+<!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Enter`
 
  - **キーボード：** 文字をタイプ
  - **マウス：** 文字をクリックして並べ替え
 
 
-- **送信：** `Enter` で回答を送信します。
+- **送信：** Enter で回答を送信します。
+<!-- i18n:section:faq -->
 ### よくある質問（FAQ）
 
 **ゲームの目標は何ですか？**
@@ -45,3 +51,4 @@ Word Scrambleは、シャッフルされた文字を並べ替えて単語を作�
 **ヒントはありますか？**
 
 一部のバージョンでは、文字のヒントや定義が提供されます。
+
