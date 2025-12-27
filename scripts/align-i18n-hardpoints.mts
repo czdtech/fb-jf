@@ -83,6 +83,10 @@ function stripBom(s: string): string {
   return s.replace(/^\uFEFF/, '');
 }
 
+function normalizeFullwidthDigits(s: string): string {
+  return s.replace(/[０-９]/g, (c) => String.fromCharCode(c.charCodeAt(0) - 0xff10 + 0x30));
+}
+
 function findFrontmatterEnd(lines: string[]): number {
   if (!lines.length) return 0;
   const first = stripBom(lines[0]).trim();
@@ -205,23 +209,23 @@ function classifyHeading(locale: TargetLocale, text: string): string | null {
     ja: {
       faq: ['よくある質問', 'FAQ'],
       controls: ['操作', '操作方法', '操作ガイド', 'コントロール', '操作手順'],
-      'how-to-play': ['遊び方', 'プレイ方法', '遊ぶ', 'やり方'],
+      'how-to-play': ['遊び方', 'プレイ方法', /プレイ.*方法/, '遊ぶ', 'やり方'],
       rules: ['ルール', '規則'],
-      tips: ['コツ', 'ヒント', '攻略', '戦略', 'テクニック'],
+      tips: ['ゲームプレイ', 'コツ', 'ヒント', '攻略', '戦略', 'テクニック'],
     },
     es: {
       faq: ['preguntas frecuentes', 'faq'],
       controls: ['controles', 'guía de controles', 'control'],
       'how-to-play': ['cómo jugar', 'como jugar', 'cómo se juega', 'como se juega', 'modo de juego', 'jugar'],
       rules: ['reglas'],
-      tips: ['consejos', 'estrategias', 'trucos', 'tips'],
+      tips: ['consejos', 'estrategia', 'estrategias', 'trucos', 'tips'],
     },
     fr: {
       faq: ['questions fréquentes', 'questions frequentes', 'faq'],
       controls: ['commandes', 'contrôles', 'controles', 'contrôle', 'controle'],
       'how-to-play': ['comment jouer', 'mode de jeu', 'jouer'],
       rules: ['règles', 'regles'],
-      tips: ['astuces', 'conseils', 'stratégies', 'strategies', 'tips'],
+      tips: ['astuces', 'conseils', 'stratégie', 'strategie', 'stratégies', 'strategies', 'tips'],
     },
     de: {
       faq: ['häufig gestellte fragen', 'haeufig gestellte fragen', 'faq'],
@@ -366,11 +370,7 @@ function looksLikeFaqQuestionLine(locale: TargetLocale, line: string): boolean {
   if (line == null) return false;
   const t = line.trim();
   if (!t) return false;
-
-  // Exclude obvious answers.
   const lower = t.toLowerCase();
-  if (lower.startsWith('**a:') || lower.startsWith('**a：') || lower.startsWith('**answer')) return false;
-  if (t.startsWith('答：') || t.startsWith('답:') || t.startsWith('답：')) return false;
 
   // Accept plain Q-lines (not necessarily bold/list) when they clearly start with a question prefix.
   // This helps avoid "foundQuestions < expected" caused by formatting variance.
@@ -380,6 +380,11 @@ function looksLikeFaqQuestionLine(locale: TargetLocale, line: string): boolean {
     s = s.replace(/^\*\*/, '').trim();
     return s;
   })();
+
+  // Exclude obvious answers (including list/bold variants).
+  const normalizedLower = normalizedStart.toLowerCase();
+  if (/^a[:：]/.test(normalizedLower) || normalizedLower.startsWith('answer')) return false;
+  if (/^(答|답)[:：]/.test(normalizedStart)) return false;
 
   if (/^q[:：]/i.test(normalizedStart)) return true;
   if (locale === 'zh' && /^(问|問)：/.test(normalizedStart)) return true;
@@ -400,6 +405,15 @@ function looksLikeFaqQuestionLine(locale: TargetLocale, line: string): boolean {
   const hasQuestionMark = t.includes('?') || t.includes('？');
   const looksBold = t.startsWith('**') && t.includes('**');
   const looksList = /^[-*+]\s+/.test(t);
+
+  // Common FAQ formatting across locales: list item whose leading segment is bold, without an explicit "Q:" prefix.
+  // Treat it as a question line as long as it doesn't look like an "A:" line.
+  if (looksList) {
+    const afterList = t.replace(/^[-*+]\s+/, '').trim();
+    const afterListLower = afterList.toLowerCase();
+    const isAnswerLike = /^(\*\*)?\s*a[:：]/.test(afterListLower) || afterListLower.startsWith('**answer');
+    if (!isAnswerLike && afterList.startsWith('**') && afterList.includes('**')) return true;
+  }
 
   if (looksBold && (hasQPrefix || hasQuestionMark)) return true;
   if (looksList && (hasQPrefix || hasQuestionMark)) return true;
@@ -598,8 +612,18 @@ function normalizeNumberTokensInRange(
   line: string,
   expectedTokens: Set<string>
 ): string {
+  // Normalize fullwidth digits and common punctuation before applying locale rules.
+  line = normalizeFullwidthDigits(line).replace(/．/g, '.').replace(/，/g, ',');
+
   // Only perform replacements when the resulting token exists in English, to avoid unintended edits.
   const replaceIfExpected = (value: string, token: string) => (expectedTokens.has(token) ? value : null);
+
+  // Normalize decimal comma when English expects a dot-based token (e.g., "1,0" -> "1.0").
+  line = line.replace(/(\d+),(\d+)/g, (m, a, b) => {
+    const token = `${a}.${b}`;
+    const repl = replaceIfExpected(token, token);
+    return repl ?? m;
+  });
 
   // Normalize fullwidth percent.
   if (line.includes('％') && expectedTokens.has('%')) {
