@@ -7,8 +7,10 @@ urlstr: "sprunki-pyramixed"
 score: "4.7/5  (455 votes)"
 tags: ["sprunki pyramixed 0.9", "sprunki pyramixed 0.9 online"]
 locale: ja
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 Sprunki Pyramixed 0.9は、音作りと見た目のカスタマイズ要素を組み合わせた作品です。サウンドを重ねてトラックを作りつつ、キャラクターの見た目を調整できる場合があります。
  
 ### Sprunki Pyramixed 0.9とは何ですか？
@@ -23,6 +25,7 @@ Sprunki Pyramixed 0.9は、サウンドを重ねて曲を作る音楽制作ゲ�
  - **アニメーション：** 組み合わせによって演出が変化する場合があります。
  
  
+<!-- i18n:section:how-to-play -->
 ### Sprunki Pyramixed 0.9のプレイ方法：
 
  - **ゲームを開く：** 配信サイトでSprunki Pyramixed 0.9を開いて開始します。
@@ -40,3 +43,4 @@ Sprunki Pyramixed 0.9は、音作りにカスタマイズ要素を組み合わ�
 Sprunki Pyramixed 0.9は、キャラクターの要素と音作りを合わせて楽しめる音楽制作プラットフォームです。
 
 保存・共有機能がある場合は、作ったトラックを見せ合って楽しめます。まずは少ない音で土台を作り、必要に応じて足していくと整えやすくなります。
+

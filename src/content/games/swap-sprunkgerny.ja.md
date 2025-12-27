@@ -1,15 +1,16 @@
 ---
 title: Swap Sprunkgerny
 description: Swap Sprunkgernyは、キャラクターが入れ替わるユニークなSprunkiModです。新しいサウンドの組み合わせを発見しましょう。
-iframeSrc: 'https://turbowarp.org/1152743892/embed'
+iframeSrc: 'https://turbowarp.org/1141050651/embed'
 thumbnail: /new-images/thumbnails/swap-sprunkgerny.png
 urlstr: swap-sprunkgerny
-score: 4.1/5  (324 votes)
+score: 4.9/5  (724 votes)
 tags:
   - sprunki
   - music
   - swap
 locale: ja
+releaseDate: 2025-12-04
 ---
 
 ### Swap Sprunkgernyの紹介
@@ -66,3 +67,4 @@ SWAP SPRUNKGERNYでは、配置や入れ替えで音と雰囲気が変わりま�
 - **音と演出：** 空き枠に配置すると音が鳴り、演出が動く場合があります。
 
 - **キャラクターをドラッグ：** 画面下のボタンからキャラクターを選び、上部の空き枠にドラッグして配置します。
+

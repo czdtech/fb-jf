@@ -1,14 +1,16 @@
 ---
 title: "Supernova"
 description: "Supernovaは、宇宙をテーマにした戦略ゲームです。銀河を探索し、資源を管理し、帝国を構築しましょう。"
-iframeSrc: "https://ubg98.github.io/Supernova/"
+iframeSrc: "https://rebemanae.github.io/supernova/"
 thumbnail: /new-images/thumbnails/supernova.jpg
 urlstr: "supernova"
-score: "4.4/5  (2234 votes)"
+score: "4.5/5  (915 votes)"
 tags: ["strategy", "space", "simulation"]
 locale: ja
+releaseDate: 2025-08-16
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Supernovaは、広大な宇宙を舞台にした戦略シミュレーションゲームです。惑星を探索し、資源を収集し、宇宙帝国を構築して拡大しましょう。
@@ -38,3 +40,4 @@ Supernovaは、広大な宇宙を舞台にした戦略シミュレーション�
 **戦略は重要ですか？**
 
 はい、資源管理と拡大計画が成功の鍵です。
+

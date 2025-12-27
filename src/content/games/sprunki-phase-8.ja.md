@@ -9,8 +9,10 @@ score: 4.2/5  (396 votes)
 tags:
   - sprunki phase 8
 locale: ja
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 Sprunki Phase 8は、ホラー要素と不気味な雰囲気を取り入れたSprunki系の章です。暗めのサウンドや演出で雰囲気を作りながら、曲作りを楽しめます。
  
 ### Sprunki Phase 8とは一体何ですか？
@@ -36,3 +38,4 @@ Sprunki Phase 8では、いつもの音楽制作に不穏な雰囲気が加わ�
 ### まとめ
 
 Sprunki Phase 8は、音楽制作とホラー美学を成功裏に融合させた大胆な実験です。神秘と創造性に満ちたプラットフォームを提供し、音楽を楽しみながらダークサイドを探索できます。
+

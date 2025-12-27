@@ -8,6 +8,7 @@ score: 3.9/5  (325 votes)
 tags:
   - sprunki police and prisoners
 locale: ja
+releaseDate: 2025-12-04
 ---
 
 ### Sprunki Police and Prisoners Modとは何ですか？
@@ -38,3 +39,4 @@ Sprunki Police and Prisonersは、テーマ性のあるキャラクターとサ�
 気軽にドラッグ＆ドロップで音を重ね、好みのまとまりになるまで調整できます。まずはビートを置き、次にメロディや効果音を足していくと作りやすくなります。
  - 隠されたコンテンツとイースターエッグ
  - コミュニティ共有とコラボレーション
+

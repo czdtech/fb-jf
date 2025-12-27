@@ -1,17 +1,19 @@
 ---
 title: Stick Fight
 description: Stick Fightは、スティックマンキャラクターとの激しい戦闘アクションゲームです。戦って生き残りましょう。
-iframeSrc: 'https://ubg98.github.io/StickFight/'
+iframeSrc: 'https://ext.minijuegosgratis.com/stick-fighter-2/index.html'
 thumbnail: /new-images/thumbnails/stick-fight.jpg
 urlstr: stick-fight
-score: 4.3/5  (2892 votes)
+score: 3.6/5  (1015 votes)
 tags:
   - action
   - fighting
   - multiplayer
 locale: ja
+releaseDate: 2025-08-16
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Stick Fightは、スティックマンキャラクターを使った激しい戦闘アクションゲームです。さまざまな武器を使って相手と戦い、最後まで生き残りましょう。
@@ -25,7 +27,10 @@ Stick Fightは、スティックマンキャラクターを使った激しい戦
  - **生き残る：** 最後のスティックマンが立っているまで生き残ります
  - **環境を利用：** 環境を戦闘に有利に使用します
 
+<!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `A` `D` `Left/Right Arrow Keys` `W` `Up Arrow` `S` `Down Arrow` `Left Mouse Button` `F` `Right Mouse Button` `G`
 
 
 操作は一般的に2Dアクションの基本配置に近いです：
@@ -34,9 +39,10 @@ Stick Fightは、スティックマンキャラクターを使った激しい戦
  - **キーボード：** 武器の選択と特別なアクション
 
 
-- **ガード：** `右クリック` または `G`
+- **ガード：** 右クリック または G
 
-- **攻撃：** `左クリック` または `F`
+- **攻撃：** 左クリック または F
+<!-- i18n:section:faq -->
 ### よくある質問（FAQ）
 
 **ゲームの目標は何ですか？**
@@ -50,3 +56,4 @@ Stick Fightは、スティックマンキャラクターを使った激しい戦
 **どのような武器が利用できますか？**
 
 近接武器から銃まで、さまざまな武器が利用可能です。
+

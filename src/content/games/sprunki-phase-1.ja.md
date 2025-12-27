@@ -1,16 +1,18 @@
 ---
 title: Sprunki Phase 1 - Play Sprunki Phase 1 Online
 description: Sprunki Phase 1は、音楽制作にホラー系の雰囲気を加えたSprunki系Modです。
-iframeSrc: 'https://turbowarp.org/1093598129/embed'
+iframeSrc: 'https://turbowarp.org/1127823859/embed'
 thumbnail: /new-images/thumbnails/sprunki-phase-1.png
 urlstr: sprunki-phase-1
-score: 4.1/5  (542 votes)
+score: 4.3/5  (96 votes)
 tags:
   - sprunki phase 1
 locale: ja
+releaseDate: 2025-12-04
 ---
 
 
+<!-- i18n:section:introduction -->
 Sprunkiの音楽作りがどこから始まったのかをたどるなら、このPhase 1が入口になります。クラシックなIncredibox系の遊び方を土台に、Sprunkiの初期の雰囲気で音を重ねていくModです。
 ### Sprunki Phase 1の紹介
 
@@ -43,3 +45,4 @@ Sprunki Phase 1は、音楽制作の楽しさとホラー要素を融合させ�
 ### なぜSprunki Phase 1をプレイするのか？
 
 音楽制作が好きで、少しホラーの雰囲気を楽しみたい人には、Sprunki Phase 1が完璧です。創造性とスリルが融合したユニークな体験を提供します。
+

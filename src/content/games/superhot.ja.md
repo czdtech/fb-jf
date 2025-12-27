@@ -1,17 +1,19 @@
 ---
 title: SUPERHOT
 description: SUPERHOTは、時間があなたの動きと共に動く革新的なFPSゲームです。戦略的に動いて敵を倒しましょう。
-iframeSrc: 'https://ubg98.github.io/SUPERHOT/'
+iframeSrc: 'https://superhotgame.com/superhot-prototype-iframe'
 thumbnail: /new-images/thumbnails/superhot.jpg
 urlstr: superhot
-score: 4.7/5  (5678 votes)
+score: 3.9/5  (1186 votes)
 tags:
   - fps
   - strategy
   - innovative
 locale: ja
+releaseDate: 2025-08-16
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 SUPERHOTは、「時間があなたが動くときだけ動く」という革新的なメカニクスを持つユニークなFPSゲームです。戦略的に動いて計画を立て、敵を倒しましょう。
@@ -32,6 +34,7 @@ SUPERHOTは、「時間があなたが動くときだけ動く」という革新
  - **左クリック：** 射撃/投げる
  - **右クリック：** 武器を拾う
 
+<!-- i18n:section:faq -->
 ### よくある質問（FAQ）
 
 
@@ -53,3 +56,4 @@ SUPERHOTは、「時間があなたが動くときだけ動く」という革新
 **難易度は高いですか？**
 
 ユニークなメカニクスには慣れが必要ですが、マスターすると非常に満足感があります。
+

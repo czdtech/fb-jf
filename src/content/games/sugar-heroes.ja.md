@@ -1,17 +1,19 @@
 ---
 title: Sugar Heroes
 description: Sugar Heroesは、甘いキャンディーをマッチするパズルゲームです。3つ以上の同じキャンディーを揃えてレベルをクリアしましょう。
-iframeSrc: 'https://ubg98.github.io/SugarHeroes/'
+iframeSrc: 'https://2f4eprapfvtoo.h5games.usercontent.goog/v/4bc5h26thvau8/'
 thumbnail: /new-images/thumbnails/sugar-heroes.png
 urlstr: sugar-heroes
-score: 4.4/5  (2543 votes)
+score: 4.1/5  (1986 votes)
 tags:
   - puzzle
   - match-3
   - casual
 locale: ja
+releaseDate: 2025-10-18
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Sugar Heroesは、カラフルで楽しいマッチ3パズルゲームです。同じ色のキャンディーを3つ以上揃えて消し、目標を達成してレベルをクリアしましょう。
@@ -25,24 +27,18 @@ Sugar Heroesは、カラフルで楽しいマッチ3パズルゲームです。�
 
 
 - 2手先を意識：次の一手まで考えて、仕掛け（盤面）を崩さないようにします。
+<!-- i18n:section:controls -->
 ### 操作ガイド
 
  - **マウス/タッチ：** キャンディーをクリックまたはタップしてスワップ
 
+<!-- i18n:section:faq -->
 ### よくある質問（FAQ）
 
 
+<!-- i18n:faq:id=faq:sugar-heroes:i-hit-move-limits-e64192d0 -->
 - Q: 手数制限に引っかかります。
+<!-- i18n:faq:id=faq:sugar-heroes:strong-opener-13100d3b -->
 **ゲームの目標は何ですか？**
 
 
-- Q: 強い初手はありますか？
-制限された動きの中でレベルの目標を達成することです。
-
-**特別なキャンディーは何ですか？**
-
-4つ以上のキャンディーを揃えると、より強力な効果を持つ特別なキャンディーが作られます。
-
-**レベルは何個ありますか？**
-
-多くのレベルがあり、それぞれ異なる目標とチャレンジがあります。

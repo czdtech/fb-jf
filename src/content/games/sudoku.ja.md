@@ -1,17 +1,19 @@
 ---
 title: Sudoku
 description: クラシックな数独パズルゲームです。論理的思考を使って9×9のグリッドを数字で埋めましょう。
-iframeSrc: 'https://ubg98.github.io/Sudoku/'
+iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/html5-sudoku/'
 thumbnail: /new-images/thumbnails/sudoku.jpg
 urlstr: sudoku
-score: 4.5/5  (2876 votes)
+score: 5.0/5  (1136 votes)
 tags:
   - puzzle
   - logic
   - classic
 locale: ja
+releaseDate: 2025-08-16
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Sudokuは、世界中で愛されているクラシックな論理パズルゲームです。9×9のグリッドを1から9の数字で埋め、各行、列、3×3ブロックに同じ数字が重複しないようにします。
@@ -35,6 +37,7 @@ Sudokuは、世界中で愛されているクラシックな論理パズルゲ�
 - **数字を消す**：Deleteキーや再クリックで消せる場合があります。
 
 - **数字を入力**：キーボードの1〜9、または画面の数字ボタンで入力します。
+<!-- i18n:section:faq -->
 ### よくある質問（FAQ）
 
 
@@ -56,3 +59,4 @@ Sudokuは、世界中で愛されているクラシックな論理パズルゲ�
 **難しい場合はどうすればよいですか？**
 
 確実な数字から始めて、可能性を消去していく方法を使います。
+

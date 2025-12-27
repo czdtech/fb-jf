@@ -1,7 +1,7 @@
 ---
 title: "Sprunki Retake \U0001F525 Play Sprunki Retake Online"
 description: Sprunki Retakeは音作りにホラー演出を加えたSprunki系Modです。キャラクターを組み合わせて不穏な雰囲気のトラックを作れます。
-iframeSrc: 'https://turbowarp.org/1116819798/embed'
+iframeSrc: 'https://www.minijuegos.com/embed/sprunki-retake'
 thumbnail: /new-images/thumbnails/sprunki-retake.png
 urlstr: sprunki-retake
 score: 4.3/5  (524 votes)
@@ -9,6 +9,7 @@ tags:
   - sprunki retake
   - sprunki retake online
 locale: ja
+releaseDate: 2025-12-04
 ---
 
 ### Sprunki Retakeの紹介
@@ -82,3 +83,4 @@ Sprunki Retakeはシリーズの遊び方を踏襲しつつ、ホラー寄りの
 - **試行錯誤：** 組み合わせを変えて、サウンドのまとまりや隠し演出を探します。
 
 - **探索：** いろいろなサウンドの並べ方を試して、雰囲気の違いを聞き比べます。
+

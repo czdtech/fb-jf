@@ -1,17 +1,19 @@
 ---
 title: Steal a Brainrot
 description: Steal a Brainrotは、戦略とステルスのユニークなブレンドのゲームです。計画を立て、実行し、捕まらないようにしましょう。
-iframeSrc: 'https://ubg98.github.io/StealABrainrot/'
+iframeSrc: 'https://st.8games.net/7/8g/igra-ukradi-brejnrot-100-original/'
 thumbnail: /new-images/thumbnails/steal-a-brainrot.webp
 urlstr: steal-a-brainrot
-score: 4.2/5  (1874 votes)
+score: 4.7/5  (3719 votes)
 tags:
   - strategy
   - stealth
   - puzzle
 locale: ja
+releaseDate: 2025-08-16
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Steal a Brainrotは、戦略的思考とステルスメカニクスを組み合わせたエキサイティングなゲームです。さまざまなレベルを通じて目標を達成し、検出されないようにする必要があります。
@@ -39,7 +41,10 @@ Steal a Brainrotは、戦略的思考とステルスメカニクスを組み合�
 - **アイテムを使い分ける：** フラッシュで視界を奪ったり、短時間の透明化などのアイテムがある場合は、使うタイミングが重要です。
 
 - **Runner**：最速の役割として、道が開けたタイミングで回収を担当します（チーム要素がある場合）。
+<!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `W` `A` `S` `D` `Space Bar` `Shift` `Ctrl` `C` `E` `F` `1` `2` `3` `Q`
 
 
 （Roblox系の作品である場合）操作はプラットフォーム標準の形式に近いことが多いです。
@@ -47,23 +52,27 @@ Steal a Brainrotは、戦略的思考とステルスメカニクスを組み合�
  - **マウス：** 相互作用とアクション
 
 
-- **アイテム使用**：数字キー `1`, `2`, `3`... または `Q`
+- **アイテム使用**：数字キー 1, 2, 3... または Q
 
-- **相互作用 / 回収**：`E` または `F`
+- **相互作用 / 回収**：E または F
 
-- **しゃがむ / 忍び足**：`Ctrl` または `C`
+- **しゃがむ / 忍び足**：Ctrl または C
 
-- **ダッシュ**：`Shift` を押し続ける
+- **ダッシュ**：Shift を押し続ける
+<!-- i18n:section:faq -->
 ### よくある質問（FAQ）
 
+<!-- i18n:faq:id=faq:steal-a-brainrot:where-can-i-play-this-4bfcb29e -->
 **ゲームの目標は何ですか？**
 
 検出されずに各レベルの目標を達成することです。
 
+<!-- i18n:faq:id=faq:steal-a-brainrot:is-this-game-singleplayer-or-c4933735 -->
 **捕まったらどうなりますか？**
 
 捕まった場合、レベルを再スタートする必要があります。
 
+<!-- i18n:faq:id=faq:steal-a-brainrot:what-exactly-is-a-brainrot-6c62ff59 -->
 **どうやって成功しますか？**
 
 慎重な計画、タイミング、ステルスの組み合わせが成功の鍵です。
@@ -71,4 +80,6 @@ Steal a Brainrotは、戦略的思考とステルスメカニクスを組み合�
 
 一般的には、制限時間内に「Brainrot」を回収して拠点へ持ち帰る回数を競う形式が多いです。ほかにも、完全ステルスでの達成を目的とするモードがある場合があります。
 
+<!-- i18n:faq:id=faq:steal-a-brainrot:what-is-the-objective-to-b300ad36 -->
 **4. 勝利条件は何ですか？**
+

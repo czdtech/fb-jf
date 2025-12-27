@@ -2,15 +2,17 @@
 title: Sprunki Rotrizi 5.0 - Play Sprunki Rotrizi 5.0 Online
 description: >-
   Sprunki Rotrizi 5.0はグリッチ系の演出や重い低音を特徴とする音楽制作Modです。サウンドを重ねて実験的なトラックを作れます。
-iframeSrc: 'https://turbowarp.org/1122419942/embed'
+iframeSrc: 'https://turbowarp.org/1126764795/embed'
 thumbnail: /new-images/thumbnails/sprunki-rotrizi-5.png
 urlstr: sprunki-rotrizi-5
-score: 4.2/5  (347 votes)
+score: 4.0/5  (232 votes)
 tags:
   - sprunki rotrizi 5.0
 locale: ja
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 Sprunki Rotrizi 5.0は、グリッチ系の効果や重い低音を使って音作りをするModです。サウンドを重ねて、実験的な雰囲気のトラックに整えていきます。
  
 ### Sprunki Rotrizi 5.0とは何ですか？
@@ -66,6 +68,7 @@ Sprunki Rotrizi 5.0はブラウザで遊べる場合があります。必要な�
 
 - **いろいろ試す：** 組み合わせを変えて、違いを聞き比べます。
 
+<!-- i18n:section:tips -->
 ### Sprunki Rotrizi 5.0のヒント：
 
 
@@ -79,3 +82,4 @@ Sprunki Rotrizi 5.0は、グリッチ系の効果や低音を活かしてトラ�
 - **キャラクターを配置：** 読み込み後、メニューから選んでミキシングエリアにドラッグします。
 
 - **読み込み時間：** 起動や読み込みに時間がかかる場合があります（環境によって異なります）。
+

@@ -1,13 +1,14 @@
 ---
 title: Sprunki Sonic - Play Sprunki Sonic Online
 description: Sprunki SonicはSonic風キャラクターで音作りを楽しめるSprunki系Modです。ドラッグ＆ドロップでサウンドを重ね、トラックを作れます。
-iframeSrc: 'https://turbowarp.org/1115154925/embed'
+iframeSrc: 'https://turbowarp.org/1114980098/embed'
 thumbnail: /new-images/thumbnails/sprunki-sonic.png
 urlstr: sprunki-sonic
-score: 4.4/5  (532 votes)
+score: 4.0/5  (829 votes)
 tags:
   - sprunki sonic
 locale: ja
+releaseDate: 2025-12-04
 ---
 
 ### Sprunki Sonicの紹介
@@ -43,3 +44,4 @@ Sprunki Sonicのゲームプレイは非常にシンプルですが、楽しさ�
 
 
 Sonic風の見た目で音作りをしたい人や、Sprunki系の遊び方が好きな人に向いています。いろいろ試して、落ち着く形を探してみてください。
+

@@ -1,17 +1,19 @@
 ---
 title: Stick Fighter
 description: Stick Fighterは、スティックマン戦闘ゲームです。技を使って相手を倒しましょう。
-iframeSrc: 'https://ubg98.github.io/StickFighter/'
+iframeSrc: 'https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221209/4/index.html'
 thumbnail: /new-images/thumbnails/stick-fighter.jpg
 urlstr: stick-fighter
-score: 4.2/5  (2167 votes)
+score: 3.6/5  (1444 votes)
 tags:
   - action
   - fighting
   - arcade
 locale: ja
+releaseDate: 2025-08-16
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Stick Fighterは、スティックマンキャラクターを使ったアーケードスタイルの戦闘ゲームです。さまざまな技やコンボを使って相手を倒しましょう。
@@ -25,7 +27,10 @@ Stick Fighterは、スティックマンキャラクターを使ったアーケ�
  - **進行：** レベルを進めてより強い相手と戦います
  - **コンボ：** 技を組み合わせて強力なコンボを作成します
 
+<!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `A` `D` `Left/Right Arrow Keys` `W` `Up Arrow` `S` `Down Arrow` `Left Mouse Button` `F` `Right Mouse Button` `G`
 
 
 操作は一般的に2Dアクションの基本配置に近いです：
@@ -34,9 +39,10 @@ Stick Fighterは、スティックマンキャラクターを使ったアーケ�
  - **スペースバー：** ジャンプ/特別な技
 
 
-- **ガード：** `右クリック` または `G`
+- **ガード：** 右クリック または G
 
-- **攻撃：** `左クリック` または `F`
+- **攻撃：** 左クリック または F
+<!-- i18n:section:faq -->
 ### よくある質問（FAQ）
 
 **ゲームの目標は何ですか？**
@@ -50,3 +56,4 @@ Stick Fighterは、スティックマンキャラクターを使ったアーケ�
 **難易度は高いですか？**
 
 ゲームは徐々に難しくなり、より多くの技とタイミングが必要になります。
+

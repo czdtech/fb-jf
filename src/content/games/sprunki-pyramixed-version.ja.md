@@ -8,8 +8,10 @@ score: 4.0/5  (254 votes)
 tags:
   - sprunki pyramixed
 locale: ja
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 Sprunki Pyramixedは、サウンド要素を組み合わせて曲を作っていく作品です。少ない音から始めて、必要に応じて足しながら全体のバランスを整えます。
  
 ### では、このSprunki Pyramixedとは一体何ですか？
@@ -44,5 +46,7 @@ Sprunki Pyramixedは、サウンド要素を組み合わせて曲を作ってい
 
 - **シンプルに始める：** まず土台を作り、慣れてきたら少しずつ要素を足します。
 
+<!-- i18n:section:tips -->
 ### Sprunki Pyramixedのヒント：
 Sprunki Pyramixedは、音を重ねて曲を作る音楽制作プラットフォームです。少ない音で形にしてから足すと、崩れにくくなります。
+

@@ -5,14 +5,16 @@ description: >-
 iframeSrc: 'https://ubg98.github.io/StickmanHook/'
 thumbnail: /new-images/thumbnails/stickman-hook.jpg
 urlstr: stickman-hook
-score: 4.5/5  (3892 votes)
+score: 3.7/5  (994 votes)
 tags:
   - arcade
   - physics
   - skill
 locale: ja
+releaseDate: 2025-08-16
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Stickman Hookは、スティックマンキャラクターがフックを使ってスイングし、障害物を避けてゴールに到達するシンプルだが中毒性のあるゲームです。
@@ -34,6 +36,7 @@ Stickman Hookは、スティックマンキャラクターがフックを使っ�
 - **スイング：** 物理的な振り子の勢いを使って、スピードと方向を作ります。
 
 - **リリース：** ボタンを離してフックを放し、慣性で前進します。
+<!-- i18n:section:faq -->
 ### よくある質問（FAQ）
 
 
@@ -55,3 +58,4 @@ Stickman Hookは、スティックマンキャラクターがフックを使っ�
 **ゲームは難しいですか？**
 
 最初はシンプルですが、レベルが進むにつれてタイミングと精度がより重要になります。
+

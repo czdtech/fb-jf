@@ -1,17 +1,19 @@
 ---
 title: Stud Rider
 description: Stud Riderは、バイクレーシングゲームです。スタントを実行し、障害物を避けてレースに勝ちましょう。
-iframeSrc: 'https://ubg98.github.io/StudRider/'
+iframeSrc: 'https://0mm8l94jf1g88.h5games.usercontent.goog/v/6fo3rapem7uio/'
 thumbnail: /new-images/thumbnails/stud-rider.png
 urlstr: stud-rider
-score: 4.2/5  (2134 votes)
+score: 3.9/5  (1707 votes)
 tags:
   - racing
   - motorcycle
   - stunt
 locale: ja
+releaseDate: 2025-10-18
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Stud Riderは、エキサイティングなバイクスタントレーシングゲームです。障害物を乗り越え、スタントを実行し、レースに勝利しましょう。
@@ -25,6 +27,7 @@ Stud Riderは、エキサイティングなバイクスタントレーシング�
 
 
 - ジャンプ距離を把握すると、つなぎが安定します。
+<!-- i18n:section:controls -->
 ### 操作ガイド
 
  - **矢印キー：** バイクのコントロール
@@ -32,20 +35,13 @@ Stud Riderは、エキサイティングなバイクスタントレーシング�
  - **下矢印：** ブレーキ
  - **左/右矢印：** バランス調整
 
+<!-- i18n:section:faq -->
 ### よくある質問（FAQ）
 
 
+<!-- i18n:faq:id=faq:stud-rider:i-keep-tucking-the-front-1c01e1e1 -->
 - Q: フロントが沈んで転びやすいです。
+<!-- i18n:faq:id=faq:stud-rider:flips-kill-my-speed-75e9869e -->
 **ゲームの目標は何ですか？**
 
 
-- Q: 回転するとスピードが落ちます。
-障害物を避けてスタントを実行しながら、レースに勝つことです。
-
-**スタントはどうやって実行しますか？**
-
-ジャンプ中に矢印キーを使ってトリックを実行します。
-
-**バランスは重要ですか？**
-
-はい、特にジャンプやスタント中はバイクのバランスを保つことが重要です。

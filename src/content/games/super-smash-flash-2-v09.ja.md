@@ -1,17 +1,19 @@
 ---
 title: Super Smash Flash 2 v0.9
 description: Super Smash Flash 2 v0.9は、最新版のファン製格闘ゲームです。新しいキャラクターと改善された機能で楽しめます。
-iframeSrc: 'https://ubg98.github.io/SuperSmashFlash2v09/'
+iframeSrc: 'https://kdata1.com/games/SSF9_2011/?kbhgames'
 thumbnail: /new-images/thumbnails/super-smash-flash-2-v09.jpg
 urlstr: super-smash-flash-2-v09
-score: 4.7/5  (5124 votes)
+score: 4.2/5  (265 votes)
 tags:
   - fighting
   - multiplayer
   - action
 locale: ja
+releaseDate: 2025-08-16
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Super Smash Flash 2 v0.9は、人気のファン製格闘ゲームの最新版です。新しいキャラクター、ステージ、改善されたメカニクスで、さらに楽しい戦闘体験を提供します。
@@ -25,7 +27,10 @@ Super Smash Flash 2 v0.9は、人気のファン製格闘ゲームの最新版�
  - **改善された戦闘：** よりバランスの取れた戦闘メカニクス
  - **競争的プレイ：** 友達と対戦して技術を競います
 
+<!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `A` `D` `W` `S` `Spacebar` `J` `K` `L` `U` `Enter`
 
 
 操作はカスタマイズ可能で、プレイヤー1の一般的な初期配置は次のとおりです：
@@ -34,17 +39,18 @@ Super Smash Flash 2 v0.9は、人気のファン製格闘ゲームの最新版�
  - **スペースバー：** ジャンプとダブルジャンプ
 
 
-- **一時停止：** `Enter`
+- **一時停止：** Enter
 
-- **つかみ：** `U`
+- **つかみ：** U
 
-- **シールド：** `L`
+- **シールド：** L
 
-- **必殺技：** `K`
+- **必殺技：** K
 
-- **通常攻撃：** `J`
+- **通常攻撃：** J
 
-- **ジャンプ：** `Spacebar`
+- **ジャンプ：** Spacebar
+<!-- i18n:section:faq -->
 ### よくある質問（FAQ）
 
 **v0.9の新機能は何ですか？**
@@ -58,3 +64,4 @@ Super Smash Flash 2 v0.9は、人気のファン製格闘ゲームの最新版�
 **どれくらいキャラクターがいますか？**
 
 40以上のプレイ可能なキャラクターから選択できます。
+

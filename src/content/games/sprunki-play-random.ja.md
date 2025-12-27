@@ -10,6 +10,7 @@ tags:
   - sprunki play random
   - sprunki play random online
 locale: ja
+releaseDate: 2025-12-04
 ---
 
 ### Sprunki Play Randomの紹介
@@ -66,3 +67,4 @@ Sprunki Play Randomは、ランダムに出るサウンドを使って曲作り�
 
 - **並べ方を試す：** キャラクターの配置で印象が変わる場合があります。いくつか並べ替えて聞き比べます。
 Sprunki Play Randomは、ランダムなサウンドを使って組み合わせを試すのがポイントです。
+

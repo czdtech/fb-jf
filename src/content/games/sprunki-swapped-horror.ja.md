@@ -2,15 +2,17 @@
 title: Sprunki Swapped Horror - Play Sprunki Swapped Horror Online
 description: >-
   Sprunki Swapped Horrorはキャラクターを入れ替えて音を組み合わせるホラー系Modです。新しいサウンドでトラックを作れます。
-iframeSrc: 'https://turbowarp.org/1122932869/embed'
+iframeSrc: 'https://turbowarp.org/1132681434/embed'
 thumbnail: /new-images/thumbnails/sprunki-swapped-horror.png
 urlstr: sprunki-swapped-horror
-score: 4.2/5  (368 votes)
+score: 4.4/5  (395 votes)
 tags:
   - sprunki swapped horror
 locale: ja
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 Sprunki Swapped Horrorは、キャラクターが入れ替わる設定で音作りをするホラー系Modです。組み合わせを変えることで、新しいサウンドスケープやリズムを試せます。
  
 ### Sprunki Swapped Horrorとは何ですか？
@@ -24,6 +26,7 @@ Sprunki Swapped Horrorは、キャラクタースワップ要素で音作りの�
  - **リフレッシュされたキャラクターアニメーション：** ゲームは新しくデザインされたキャラクターアニメーションも追加し、各キャラクターの変身したアイデンティティを生き生きと示し、音楽を視覚的に美しくします。
  
  
+<!-- i18n:section:how-to-play -->
 ### Sprunki Swapped Horrorのプレイ方法は？
 
  - スワップされたキャラクターを選択
@@ -75,3 +78,4 @@ Sprunki Swapped Horrorは、入れ替え要素で展開が変わるリミック�
 - **独自のサウンドスケープ：** 組み合わせを変えて、雰囲気の違うトラックを作れます。
 
 - **キャラクターを選ぶ：** 入れ替わったキャラクターから選び、音の材料をそろえます。
+

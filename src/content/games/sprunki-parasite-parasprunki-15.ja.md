@@ -7,8 +7,10 @@ urlstr: "sprunki-parasite-parasprunki-15"
 score: "4.3/5  (372 votes)"
 tags: ["incredibox sprunksters"]
 locale: ja
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 Sprunki Parasite ParaSprunki 15は、不穏な雰囲気に寄せたSprunki系のファン製Modです。いつもの明るい雰囲気とは違い、サウンドやビジュアルが暗めに調整されている場合があります。基本はドラッグ＆ドロップで音を重ねていく遊び方です。
  
 ### Sprunki Parasite ParaSprunki 15とは一体何ですか？
@@ -35,3 +37,4 @@ Sprunki Parasite ParaSprunki 15は、不穏な雰囲気に寄せたSprunki系の
 ### まとめ：
 
 Sprunki Parasite ParaSprunki 15は、ホラー寄りの雰囲気で音作りを楽しめるSprunki系Modです。まずはビートを置き、次に効果音やメロディを足していくとまとまりやすくなります。
+

@@ -1,7 +1,7 @@
 ---
 title: Stars Aligned
 description: Stars Alignedは、落ち着いた星座パズラーです — フラグメントを回転させ、線をつなぎ、完全な星のパターンを形成します。
-iframeSrc: 'https://ubg98.github.io/StarsAligned/'
+iframeSrc: 'https://starsaligned.h5games.usercontent.goog/v/3i88p78sohtig/'
 thumbnail: /new-images/thumbnails/stars-aligned.jpg
 urlstr: stars-aligned
 score: 4.4/5  (2183 votes)
@@ -10,8 +10,10 @@ tags:
   - relaxing
   - casual
 locale: ja
+releaseDate: 2025-10-18
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Stars Alignedは、美しくリラックスできる星座パズルゲームです。フラグメントを回転させて線をつなぎ、夜空に完全な星のパターンを形成しましょう。
@@ -25,28 +27,22 @@ Stars Alignedは、美しくリラックスできる星座パズルゲームで�
 
 
 - 精密に合わせる：拡大して、線がわずかにずれていないか確認します。
+<!-- i18n:section:controls -->
 ### 操作ガイド
 
  - **マウス/タッチ：** フラグメントをクリックまたはタップして回転させます
 
 
 - 必要に応じて戻す/リセットして、パターンを試します。
+<!-- i18n:section:faq -->
 ### よくある質問（FAQ）
 
 
+<!-- i18n:faq:id=faq:stars-aligned:a-line-wont-connectbug-b2371a41 -->
 - ヒントはありますか？ モードによってはヒントがあります。使いすぎないのがコツです。
 
+<!-- i18n:faq:id=faq:stars-aligned:timers-f7f052c1 -->
 - 時間制限はありますか？ 多くの場合はゆったりした作りなので、落ち着いて進められます。
 
+<!-- i18n:faq:id=faq:stars-aligned:hints-27c5017f -->
 - 線がつながらない（バグ？）：ほとんどは回転がわずかに足りません。もう1段階回してみてください。
-**ゲームの目標は何ですか？**
-
-フラグメントを回転させて線をつなぎ、完全な星座パターンを形成することです。
-
-**ゲームは難しいですか？**
-
-このゲームはリラックスするようにデザインされており、穏やかな難易度曲線があります。時間制限やプレッシャーはありません。
-
-**どれくらいレベルがありますか？**
-
-ゲームには多くの星座パズルがあり、それぞれが独自のパターンとチャレンジを提供します。

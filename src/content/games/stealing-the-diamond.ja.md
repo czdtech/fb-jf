@@ -2,17 +2,19 @@
 title: Stealing the Diamond
 description: >-
   Stealing the Diamondは、選択によって展開が分岐するインタラクティブアドベンチャーゲームです。ダイヤモンドを盗むための手段を選び、結果の違いを楽しみます。
-iframeSrc: 'https://ubg98.github.io/StealingTheDiamond/'
+iframeSrc: 'https://bitlifeonline.github.io/stealing-the-diamond/'
 thumbnail: /new-images/thumbnails/stealing-the-diamond.jpg
 urlstr: stealing-the-diamond
-score: 4.5/5  (3127 votes)
+score: 3.5/5  (951 votes)
 tags:
   - adventure
   - interactive
   - comedy
 locale: ja
+releaseDate: 2025-08-16
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Stealing the Diamondは、人気のあるHenry Stickminシリーズの一部です。このインタラクティブアドベンチャーでは、ダイヤモンドを盗むために選択を行い、さまざまな面白い結果につながります。
@@ -26,10 +28,12 @@ Stealing the Diamondは、人気のあるHenry Stickminシリーズの一部で�
  - **複数のエンディング：** さまざまな選択がさまざまな結果につながります
  - **すべてを試す：** すべてのパスとエンディングを発見するために実験します
 
+<!-- i18n:section:controls -->
 ### 操作ガイド
 
  - **マウス：** 選択肢と相互作用をクリック
 
+<!-- i18n:section:faq -->
 ### よくある質問（FAQ）
 
 **何エンディングがありますか？**
@@ -49,3 +53,4 @@ Stealing the Diamondは、人気のあるHenry Stickminシリーズの一部で�
 **ゲーム全体をクリアするのにどれくらいかかりますか？**
 
 すべてのエンディングを見つけるには、複数のプレイスルーが必要です。各プレイスルーは比較的短いです。
+

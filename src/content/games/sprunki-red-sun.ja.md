@@ -7,6 +7,7 @@ urlstr: "sprunki-red-sun"
 score: "4.4/5  (232 votes)"
 tags: ["sprunki red sun"]
 locale: ja
+releaseDate: 2025-12-04
 ---
 
 ### Sprunki Red Sunとは何ですか？
@@ -21,6 +22,7 @@ Sprunki Red Sun Modは、赤い配色のビジュアルと重めのビートで�
  - **相互作用：** 組み合わせ次第でサウンドや演出が変化することがあります。
  
  
+<!-- i18n:section:how-to-play -->
 ### Sprunki Red Sun Modのプレイ方法は？
 
  - **キャラクターを選択：** キャラクターを選び、サウンドの材料をそろえます。
@@ -37,3 +39,4 @@ Sprunki Red Sun Modは、赤い配色のビジュアルと重めのビートで�
  
  
 Sprunki Red Sunは、赤い配色と重いビートの雰囲気で音作りをしたい人向けのModです。まずは低音とリズムを固め、次に効果音やメロディを足していくとまとまりやすくなります。
+

@@ -1,16 +1,18 @@
 ---
 title: Sprunki Phase 2.5 - Play Sprunki Phase 2.5 Online
 description: Sprunki Phase 2.5は「JOKE MOD」メカニクスを備えた、音楽制作体験に予測不可能なホラーのひねりを加えた革新的なゲームです。
-iframeSrc: 'https://turbowarp.org/1097172337/embed'
+iframeSrc: 'https://html-classic.itch.zone/html/14324321/index.html'
 thumbnail: /new-images/thumbnails/sprunki-phase-2-5.png
 urlstr: sprunki-phase-2-5
-score: 4.2/5  (437 votes)
+score: 4.3/5  (218 votes)
 tags:
   - sprunki phase 2.5
 locale: ja
+releaseDate: 2025-12-04
 ---
 
 
+<!-- i18n:section:introduction -->
 普通の音楽ゲームが予測できてしまい、少し意外性が欲しい人向けのJOKE MODです。音作りの途中で雰囲気が切り替わる仕掛けがあり、驚きやブラックユーモア要素が含まれる場合があります。
 ### Sprunki Phase 2.5の紹介
 
@@ -46,3 +48,4 @@ Sprunki Phase 2.5（ジョークMOD）は、音作りに「サプライズ演出
 
 
 Sprunki Phase 2.5（ジョークMOD）は、音作りに「サプライズ演出」を加えた作品です。ドラッグ＆ドロップでミックスを作りつつ、切り替わりのタイミングや雰囲気の変化も含めて調整していきます。
+

@@ -1,15 +1,16 @@
 ---
 title: Super Sprunki Brasil
 description: Super Sprunki Brasilは、ブラジルテーマの音楽制作Modです。ブラジルのリズムとサウンドで音楽を作成しましょう。
-iframeSrc: 'https://turbowarp.org/1172495803/embed'
+iframeSrc: 'https://turbowarp.org/1080827660/embed'
 thumbnail: /new-images/thumbnails/super-sprunki-brasil.png
 urlstr: super-sprunki-brasil
-score: 4.3/5  (412 votes)
+score: 4.3/5  (380 votes)
 tags:
   - sprunki
   - music
   - brasil
 locale: ja
+releaseDate: 2025-12-04
 ---
 
 ### Super Sprunki Brasilの紹介
@@ -82,3 +83,4 @@ Super Sprunki Brasilは、ブラジル風のサウンドで音作りを楽しめ
 - **サウンドを組み合わせる：** さまざまな要素をミックスして、ブラジルテーマのトラックに整えます。
 
 - **ドラッグ＆ドロップ：** 音アイコンをキャラクターにドラッグして音を鳴らします。
+

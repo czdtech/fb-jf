@@ -7,6 +7,7 @@ urlstr: "sprunki-night-time"
 score: "4.2/5  (324 votes)"
 tags: ["sprunki night time", "sprunki night time online"]
 locale: ja
+releaseDate: 2025-12-04
 ---
 
 ### Sprunki Night Timeの紹介
@@ -17,6 +18,7 @@ Sprunki Night Timeは、夜の静けさを意識したサウンドで曲作り�
 
 簡単に言えば、Sprunki Night Timeは音で夜の雰囲気を作ることに重点があります。ネオン調のビジュアルやアニメーションなど、見た目の演出も含めて雰囲気を整えます。
  
+<!-- i18n:section:how-to-play -->
 ### Sprunki Night Timeのプレイ方法は？
 
 操作はシンプルで、基本はドラッグ＆ドロップです：
@@ -45,3 +47,4 @@ Sprunki Night Timeは、夜の静けさを意識したサウンドで曲作り�
 ### 結論：
 
 Sprunki Night Timeは、夜の雰囲気で音作りを楽しめるModです。まずはビートを控えめに置き、次にアンビエントや効果音を足して全体を整えると作りやすくなります。
+

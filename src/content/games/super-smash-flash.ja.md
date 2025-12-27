@@ -1,17 +1,19 @@
 ---
 title: Super Smash Flash
 description: Super Smash Flashは、オリジナルのファン製格闘ゲームです。様々なゲームキャラクターで戦う楽しい体験を提供します。
-iframeSrc: 'https://ubg98.github.io/SuperSmashFlash/'
+iframeSrc: 'https://ad-freegames.github.io/flash/game/super-smash-flash.html'
 thumbnail: /new-images/thumbnails/super-smash-flash.jpg
 urlstr: super-smash-flash
-score: 4.5/5  (3876 votes)
+score: 3.5/5  (679 votes)
 tags:
   - fighting
   - classic
   - action
 locale: ja
+releaseDate: 2025-08-16
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Super Smash Flashは、Super Smash Bros.にインスパイアされたオリジナルのFlashベース格闘ゲームです。様々なゲームフランチャイズからのキャラクターで戦いましょう。
@@ -25,7 +27,10 @@ Super Smash Flashは、Super Smash Bros.にインスパイアされたオリジ�
  - **ステージ戦闘：** 様々なステージで戦います
  - **ノスタルジックな体験：** クラシックなFlashゲームの感覚
 
+<!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `O` `P` `A` `S` `D` `W` `F` `G` `Backspace`
 
 
 このゲームは同じキーボードで2人プレイできる場合があります。
@@ -34,17 +39,18 @@ Super Smash Flashは、Super Smash Bros.にインスパイアされたオリジ�
     - **スペースバー：** ジャンプ
 
 
-    - **一時停止：** `Backspace`
+    - **一時停止：** Backspace
 
-- **必殺技：** `G`
+- **必殺技：** G
 
-    - **攻撃：** `F`
+    - **攻撃：** F
 
-    - **移動：** `A`, `S`, `D`, `W`（Wはジャンプ）
+    - **移動：** A, S, D, W（Wはジャンプ）
 
     - **プレイヤー2：**
 
-- **攻撃：** `P`
+- **攻撃：** P
+<!-- i18n:section:faq -->
 ### よくある質問（FAQ）
 
 **このゲームは何ですか？**
@@ -58,3 +64,4 @@ Super Smash Bros.スタイルのオリジナルのファン製Flashゲームで�
 **どのキャラクターがいますか？**
 
 マリオ、リンク、カービィなど、様々な任天堂キャラクターが登場します。
+
