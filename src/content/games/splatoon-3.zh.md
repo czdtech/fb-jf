@@ -3,31 +3,36 @@ locale: zh
 urlstr: splatoon-3
 title: 《Splatoon 3》泼墨对战 3
 description: 《Splatoon 3》是一款风格鲜明的射击对战游戏，你将操控喷墨小乌贼在战场上泼洒颜料，占领地盘并击退对手，体验快节奏的涂地对抗。
-iframeSrc: 'https://splatoon3.h5games.usercontent.goog/v/0e7vd4ltn2j00/'
+iframeSrc: 'https://bitlifeonline.github.io/splatoon-3/'
 thumbnail: /new-images/thumbnails/splatoon-3.jpg
 tags:
   - shooter
   - multiplayer
   - action
-score: 4.6/5  (2600 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
+score: 4.3/5  (955 votes)
+releaseDate: 2025-08-16
 ---
 
 
+<!-- i18n:section:introduction -->
 ### 游戏介绍
 
 《Splatoon 3》延续了系列独特的“涂地当输出”的核心机制。玩家以喷墨小乌贼或章鱼的形态加入对战，通过各式各样的颜料武器（喷枪、滚筒、狙击墨枪等）在地图上大面积涂色，占据地盘。多数模式下，回合结束时场地上自己队伍颜料覆盖率更高的一方获胜，同时你也可以用墨水攻击对手，让其暂时退场，为己方争取宝贵时间。
 
+<!-- i18n:section:tips -->
 ### 游玩策略
 
 
-最常见的模式是 Turf War（涂地对战）：4v4 对抗，在 3 分钟内把更多地面涂成己方颜色的一队获胜。
+最常见的模式是 Turf War（涂地对战）：4v4 对抗，在三分钟内把更多地面涂成己方颜色的一队获胜。
 1.  **涂地优先于刚枪：** 在常规涂地模式中，占地面积通常比单纯击杀更重要。没必要全场追着人打，优先把关键区域刷上自家颜色。
 2.  **善用墨水移动：** 在己方颜料中可以潜行移动，速度快且不易被发现，还能快速回复弹药。多利用地面上的自家墨水进行突击与撤退。
 3.  **根据武器定位站位：** 近战武器更偏向前排压制与抢点，远程狙墨则适合在制高点提供火力支援和区域封锁，根据手中武器决定自己的站位和节奏。
 4.  **留意大招与资源点：** 合理利用大招、特殊武器或地图中的关键资源点（如高台、交通点），能在关键时刻左右战局。
 
+<!-- i18n:section:controls -->
 ### 操作说明
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `WASD` `Arrow Keys` `Left Mouse Button` `Right Mouse Button` `G` `Shift` `Spacebar` `Spacebar`
 
 
 具体按键可能因版本不同而变化，但整体遵循常见射击游戏布局：
@@ -37,7 +42,8 @@ releaseDate: 2025-10-18T00:00:00.000Z
 *   **大招 / 特殊武器：** 在能量条充满后按下相应按键释放强力大招。
 
 
-- **跳跃：** `Spacebar`（人形状态）
+- **跳跃：** Spacebar（人形状态）
+<!-- i18n:section:faq -->
 ### 常见问题解答（FAQ）
 
 **问：打不过对面怎么办？****

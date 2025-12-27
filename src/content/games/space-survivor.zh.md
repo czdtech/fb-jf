@@ -3,21 +3,23 @@ locale: zh
 urlstr: space-survivor
 title: 《Space Survivor》太空生存射击
 description: 《Space Survivor》是一款俯视角太空生存射击游戏。驾驶你的飞船在宇宙中躲避敌人攻击、收集升级道具，对抗一波波来袭的敌舰与陨石，尽可能活得更久。
-iframeSrc: 'https://spacesurvivor.h5games.usercontent.goog/v/6s5p6ou2ep2io/'
+iframeSrc: 'https://76sb7kgqtg5kg.h5games.usercontent.goog/v/5s72d5756n840/'
 thumbnail: /new-images/thumbnails/space-survivor.png
 tags:
   - shooting
   - survival
   - space
-score: 4.0/5  (1800 votes)
+score: 4.5/5  (2900 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### 详细游戏介绍
 
 《Space Survivor》让你扮演孤身一人的宇宙飞行员，被包围在充满敌舰、陨石和子弹的外太空战场。你的目标不是冲关，而是在无尽的敌浪中尽可能生存更久。通过击毁敌人和收集掉落的强化道具，你可以提高火力、提升护盾或改善机动性，从而应对愈发密集的攻击。
 
+<!-- i18n:section:tips -->
 ### 游玩策略与通关指引
 
 1.  **生存优先，输出其次：** 在弹幕和敌人密集区域，优先考虑寻找安全走位，而不是盲目追求多打几艘敌舰。
@@ -29,6 +31,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 - **把握捡经验的时机：** 有时立刻去捡经验宝石反而更危险。更稳的打法是先清出一片安全区域，再回头把宝石一次性收掉。
 
 - **保持移动：** 别站着不动。敌人会向你最后的位置聚集。持续移动是生存关键，尤其后期满屏怪时更要保持走位。
+<!-- i18n:section:controls -->
 ### 操作说明
 
 
@@ -37,22 +40,21 @@ releaseDate: 2025-10-17T00:00:00.000Z
 *   **射击：** 多数版本支持自动射击，也有部分需要按住鼠标或按键持续开火，具体以游戏提示为准。
 *   **拾取道具：** 接近漂浮的强化道具即可自动拾取，生效方式视图标类型而定。
 
+<!-- i18n:section:faq -->
 ### 常见问题解答（FAQ）
 
 
 - **答：** 目标是在规定时间内存活（例如 15 或 30 分钟）；在无尽模式中，则尽可能在无限敌潮下活得更久。
 
+<!-- i18n:faq:id=faq:space-survivor:q-how-do-i-shoot-412141d1 -->
     - **问：游戏目标是什么？**
 
 - **答：** 通过收集敌人掉落的蓝色经验宝石。顶部的经验条满了就会升级，并从随机出现的新武器或升级中选择其一。
 
+<!-- i18n:faq:id=faq:space-survivor:q-how-do-i-get-ee237827 -->
     - **问：如何获得新武器和能力？**
 
 - **答：** 你不需要手动射击！“幸存者”玩法的乐趣就在于武器会自动开火。你只需要专注走位与躲弹。
 
+<!-- i18n:faq:id=faq:space-survivor:q-what-is-the-goal-ab58581b -->
     - **问：我怎么射击？**
-**问：游戏的最终目标是什么？**  
-**答：** 在不断增强的敌浪中尽可能存活更长时间，刷出更高的生存时长和击毁数量记录。
-
-**问：被击毁后还有保留要素吗？**  
-**答：** 视具体版本而定，有的会在局间保留部分升级或解锁新飞船，有的则是纯粹的单局生存挑战。

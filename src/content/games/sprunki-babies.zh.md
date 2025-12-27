@@ -6,10 +6,12 @@ title: "Sprunki Babies - 在线玩 Sprunki Babies"
 description: "这款迷人的音乐沙盒游戏让你掌控一群可爱的 Sprunki 宝宝角色，每个角色都准备好为你的作品贡献独特的音乐声音。"
 iframeSrc: "https://turbowarp.org/1110888906/embed"
 thumbnail: /new-images/thumbnails/sprunki-babies.png
-score: "4.0/5  (212 票)"
+score: "4.0/5  (212 votes)"
 tags: ["sprunki babies"]
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 准备好体验超级可爱的音乐创作，同时激发无限创意了吗？来认识一下 Sprunki Babies 吧！这款迷人的音乐沙盒游戏让你掌控一群可爱的 Sprunki 宝宝角色，每个角色都准备好为你的作品贡献独特的音乐声音。最棒的是？不需要音乐理论学位——只需要纯粹的创意和对乐趣的热爱！
 
 ### Sprunki Babies 是什么？
@@ -37,3 +39,4 @@ tags: ["sprunki babies"]
 ### 总结
 
 Sprunki Babies 是一个令人愉悦且极具创意的音乐游乐场。它打破了传统音乐创作的障碍，用直观的乐趣和有趣的互动取代了复杂性。看着屏幕变成一个活生生的画布，声音和可爱的角色一起跳舞，简直是纯粹的快乐。无论你是发现节奏的孩子，还是寻求有趣创意逃避的成年人，Sprunki Babies 都有特别的东西提供给你。准备好在这些可爱的 Sprunki Babies 的帮助下创作你的下一个杰作了吗？
+

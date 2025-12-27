@@ -6,10 +6,12 @@ title: "Sprunki 1996 - 在线玩 Sprunki 1996"
 description: "Sprunki 1996 是一款充满创意和怀旧感的音乐游戏。它采用独特的 90 年代复古电脑美学，结合简单有趣的音乐创作玩法，为 Sprunki 和 Incredibox 的粉丝带来全新体验。"
 iframeSrc: "https://html-classic.itch.zone/html/14634762/index.html"
 thumbnail: /new-images/thumbnails/sprunki-1996.png
-score: "4.0/5  (122 票)"
+score: "4.0/5  (122 votes)"
 tags: ["sprunki 1996"]
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 嘿！还记得 90 年代电脑那些酷炫又略带故障感的屏幕吗？想重温那种氛围，顺便创作点音乐吗？那 Sprunki 1996 绝对会让你大开眼界！这款由 Draker 使用 Scratch 制作的粉丝自制 Incredibox mod，就像一台时光机，直接把你带回像素艺术和复古电子音乐的黄金时代！
 
 ### Sprunki 1996 到底是什么？
@@ -39,3 +41,4 @@ tags: ["sprunki 1996"]
 ### 总结一下
 
 Sprunki 1996 是一款充满创意和怀旧感的音乐游戏。它采用独特的 90 年代复古电脑美学，结合简单有趣的音乐创作玩法，为 Sprunki 和 Incredibox 的粉丝带来全新体验。无论你是想重温 90 年代的黄金岁月，还是想尝试一种新颖的音乐创作方式，Sprunki 1996 绝对值得探索。快去启动你的"老电脑"，在 Sprunki 1996 的像素世界中开始创作属于你的复古节拍吧！玩得开心！
+

@@ -3,34 +3,38 @@ locale: zh
 urlstr: spider-solitaire-card-games
 title: 《Spider Solitaire Card Games》蜘蛛纸牌合集
 description: 《Spider Solitaire Card Games》是一款集合多种蜘蛛纸牌规则的接龙游戏。通过不同花色与难度组合，挑战从简单到高阶的蜘蛛纸牌玩法。
-iframeSrc: 'https://spidersolitairecardgames.h5games.usercontent.goog/v/37t4nclnk0ov0/'
+iframeSrc: 'https://ubg98.github.io/SpiderSolitaire/'
 thumbnail: /new-images/thumbnails/spider-solitaire-card-games.jpg
 tags:
   - card
   - solitaire
   - puzzle
-score: 4.0/5  (1750 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
+score: 4.2/5  (1141 votes)
+releaseDate: 2025-08-16
 ---
 
 
+<!-- i18n:section:introduction -->
 ### 详细游戏介绍
 
 《Spider Solitaire Card Games》将多种蜘蛛纸牌变体集中在一款游戏中。你可以选择单花色入门局、双花色标准局，甚至四花色高难度挑战。无论哪种模式，核心目标相同：在桌面上将纸牌按从 K 到 A 的递减顺序整理成完整序列，并在完成后将其从牌面中清除，直到所有牌堆被清空。
 
+<!-- i18n:section:tips -->
 ### 游玩策略与通关指引
 
 1.  **根据水平选择花色数：** 新手可以从单花色模式开始熟悉规则，逐步过渡到双花色、四花色，难度会有明显跃升。
-2.  **优先制造同花色长链：** 即使规则允许混花色叠放，也尽量把同花色牌连成长序列，便于一次性整体移动和最终清除。
-3.  **控制发牌节奏：** 每次从牌库发新牌前，尽可能整理现有牌列并翻开更多暗牌，避免在局面拥挤时进一步“塞爆”。
+2.  **优先制造同花色长链：** 即使规则允许混花色叠放，也尽量把同花色牌连成长序列，便于一次性整体移动和最终清除；在桌面叠牌时，小一档可以压在大一档上，例如把 7 压在 8 上。
+3.  **控制发牌节奏：** 每次从牌库发新牌前，尽可能整理现有牌列并翻开更多暗牌，避免在局面拥挤时进一步“塞爆”（通常会发一排 10 张新牌）。
 4.  **充分利用空列：** 空列是蜘蛛纸牌中最强的资源之一，可以用来暂存长序列、重排错乱列，为组合同花色创造空间。
 
+<!-- i18n:section:controls -->
 ### 操作说明
 
 *   **移动牌组：** 拖动按点数递减且颜色允许的连续牌组，将其移动到目标列；
 *   **发牌：** 在所有列都非空的前提下点击牌库，为每列发一张新牌；
 *   **选择模式：** 在主菜单中挑选不同花色/难度模式进入游戏。
 
+<!-- i18n:section:faq -->
 ### 常见问题解答（FAQ）
 
 **不同难度模式之间的主要差别是什么？**

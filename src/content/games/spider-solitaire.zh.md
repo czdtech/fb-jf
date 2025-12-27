@@ -3,34 +3,38 @@ locale: zh
 urlstr: spider-solitaire
 title: 《Spider Solitaire》蜘蛛纸牌
 description: 《Spider Solitaire》是一款经典的纸牌接龙游戏，你需要按从 K 到 A 的顺序整理同花色序列，将完整序列从牌面移除，最终清空所有牌堆。
-iframeSrc: 'https://spidersolitaire.h5games.usercontent.goog/v/1mq07b3dnbgm0/'
+iframeSrc: 'https://www.squidbyte.com/games_third/spider/en/spider-solitaire-halloween/'
 thumbnail: /new-images/thumbnails/spider-solitaire.jpg
 tags:
   - card
   - solitaire
   - puzzle
-score: 4.1/5  (1850 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
+score: 4.8/5  (331 votes)
+releaseDate: 2025-08-16
 ---
 
 
+<!-- i18n:section:introduction -->
 ### 详细游戏介绍
 
 《Spider Solitaire》是最知名的蜘蛛纸牌玩法之一。与 Klondike 接龙不同，它的核心目标是不停在桌面上重排纸牌，将同花色的 K→Q→J→…→A 整套顺序牌组装出来。一旦完成一整套同花色序列，这组牌就会从桌面移除。当所有牌都被整理并清除后，这一局获胜。
 
+<!-- i18n:section:tips -->
 ### 游玩策略与通关指引
 
-1.  **优先形成完整序列：** 虽然短期内可以跨花色叠放牌来暂存，但最终要移除的必须是“同花色的完整 K 到 A 序列”，因此在可行的情况下尽量优先组合同花色长链。
+1.  **优先形成完整序列：** 虽然短期内可以跨花色叠放牌来暂存，但最终要移除的必须是“同花色的完整 K 到 A 序列”，因此在可行的情况下尽量优先组合同花色长链。在桌面上叠牌时，小一档可以压在大一档上，例如把 7 压在 8 上。
 2.  **尽量翻开暗牌：** 每翻开一张暗牌就多一份选择，优先挪动那些能翻出新牌的列，让桌面信息尽可能完整。
 3.  **空列是关键资源：** 能空出一整列时，不要急着立刻填满。空列可用于暂存长牌组或重排花色，是打破僵局的核心工具。
-4.  **慎重发新牌：** 从牌库向每列发新牌之前，尽量将当前可移动的牌组合好，避免新牌直接压在杂乱结构之上，让局面更加难处理。
+4.  **慎重发新牌：** 从牌库向每列发新牌之前，尽量将当前可移动的牌组合好，避免新牌直接压在杂乱结构之上，让局面更加难处理（发牌时会给每列补一张，共 10 张）。
 
+<!-- i18n:section:controls -->
 ### 操作说明
 
 *   **移动纸牌：** 点击并拖拽按点数递减排列的连续牌组，将其拖动到符合规则的目标列上；
 *   **发牌：** 在所有列至少有一张牌的前提下，点击牌库为每列发一张新牌；
 *   **撤销：** 若游戏提供悔棋功能，可以用来回退误操作或重新尝试其他路径。
 
+<!-- i18n:section:faq -->
 ### 常见问题解答（FAQ）
 
 **不同难度（1 花色 / 2 花色 / 4 花色）有什么区别？**

@@ -6,10 +6,12 @@ title: "Sprunki But With Memes - 在线玩 Sprunki But With Memes"
 description: "Sprunki but with memes 是一款让你在梗图海洋中尽情创作的音乐游戏。快来加入 Sprunki but with memes，用你独特的音乐才华点燃梗图狂潮！"
 iframeSrc: "https://kdata1.com/5000/2024/sprunki-retake-memes/"
 thumbnail: /new-images/thumbnails/sprunki-but-with-memes.png
-score: "4.2/5  (142 票)"
+score: "4.2/5  (142 votes)"
 tags: ["sprunki but with memes"]
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 梗图爱好者和音乐粉丝们，准备好迎接一场前所未有的视听盛宴吧！Sprunki but with memes 不仅仅是一款普通的音乐游戏，它是一场将梗图和音符激情结合的革命，正在席卷整个互联网！
 
 ### 什么是 Sprunki but with memes？
@@ -39,3 +41,4 @@ tags: ["sprunki but with memes"]
 - 海量的用户创作 Sprunki but with memes 内容库，让你娱乐好几天！
 
 Sprunki but with memes 是一款让你在梗图海洋中尽情创作的音乐游戏。快来加入 Sprunki but with memes，用你独特的音乐才华点燃梗图狂潮！
+

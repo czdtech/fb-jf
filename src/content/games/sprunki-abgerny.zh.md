@@ -6,14 +6,16 @@ title: "Sprunki Abgerny - 在线玩 Sprunki Abgerny"
 description: "Sprunki Abgerny 不仅仅是一款普通的音乐游戏，它是对古老文化的致敬，也是对音乐无限可能性的探索。"
 iframeSrc: "https://turbowarp.org/1095335052/embed"
 thumbnail: /new-images/thumbnails/sprunki-abgerny.png
-score: "3.9/5  (132 票)"
+score: "3.9/5  (132 votes)"
 tags: ["sprunki abgerny"]
+releaseDate: 2025-12-04
 ---
 
 ### Sprunki Abgerny 有什么特别之处？
 
 Sprunki Abgerny 不仅仅是一款普通的音乐游戏，它是对古老文化的致敬，也是对音乐无限可能性的探索。在这里，你不仅可以创作音乐，还能感受文化的传承与融合。
 
+<!-- i18n:section:tips -->
 ### Sprunki Abgerny 的核心玩法
 
 - **成为部落首领：** 带领你的口技部落，用你的音乐才华让他们演奏出令人敬畏的旋律。

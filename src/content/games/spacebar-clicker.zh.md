@@ -3,21 +3,23 @@ locale: zh
 urlstr: spacebar-clicker
 title: 《Spacebar Clicker》空格键点击器
 description: 《Spacebar Clicker》是一款极简的点击/放置类小游戏。不断敲击空格键或点击按钮来增加计数，解锁升级与自动化加成，看数字一路飙升。
-iframeSrc: 'https://spacebarclicker.h5games.usercontent.goog/v/2n07n01g2leio/'
+iframeSrc: 'https://spacebarclicker.co/game/spacebar-counter/'
 thumbnail: /new-images/thumbnails/spacebar-clicker.jpg
 tags:
   - clicker
   - idle
   - casual
-score: 3.8/5  (1500 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
+score: 4.1/5  (866 votes)
+releaseDate: 2025-08-16
 ---
 
 
+<!-- i18n:section:introduction -->
 ### 详细游戏介绍
 
 《Spacebar Clicker》是一款典型的数值成长型点击游戏，你的主要任务就是“让数值更大”。一开始，你需要手动按空格键或点击屏幕来增加计数；随着数值增长，你可以解锁各种升级项目，例如每次点击增加更多、自动每秒增加一定数值等。最终，你几乎可以靠自动化系统挂机看数字飞升，体验从“手搓”到“躺赢”的过程。
 
+<!-- i18n:section:tips -->
 ### 游玩策略与成长指引
 
 
@@ -27,11 +29,15 @@ releaseDate: 2025-10-17T00:00:00.000Z
 3.  **注意投资回报：** 不同升级的成本和收益差异较大，观察每项升级带来的增量是否值得当前投入，避免盲目点满某一个条目。
 4.  **中后期以被动收益为主：** 当被动增长速度足够高时，可以把更多资源投入到倍率、解锁新阶段等长期增幅项目上，进一步滚雪球。
 
+<!-- i18n:section:controls -->
 ### 操作说明
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Spacebar` `Mouse Click`
 
 *   **点击/敲击：** 使用空格键或鼠标点击指定按钮来增加计数。
 *   **升级：** 在升级面板中点击对应项目，即可消耗当前资源提升各类加成效果。
 
+<!-- i18n:section:faq -->
 ### 常见问题解答（FAQ）
 
 **问：这款游戏有“通关”吗？****
@@ -44,3 +50,4 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 **问：有没有通用的最佳策略？**
 答：** 前期先靠手动点击凑齐前几项升级资金；随后优先购买能带来被动、自动收益的升级，让增长“自己跑起来”。当你有稳定的点数来源后，再逐步投入更贵的倍率类升级，把整体收益放大。
+

@@ -3,21 +3,23 @@ locale: zh
 urlstr: sortworks
 title: 《SortWorks》多列颜色排序
 description: 《SortWorks》是一款瓶装/列式的颜色排序益智游戏。通过在不同列之间倒换彩色元素，把同色块整理到同一列中，考验你的规划与空间管理能力。
-iframeSrc: 'https://sortworks.h5games.usercontent.goog/v/3o6mp3ahks0oo/'
+iframeSrc: 'https://293f3i461vfvo.h5games.usercontent.goog/v/31blvf8tg44g0/'
 thumbnail: /new-images/thumbnails/sortworks.png
 tags:
   - puzzle
   - sorting
   - casual
-score: 4.0/5  (1700 votes)
+score: 4.0/5  (1889 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### 详细游戏介绍
 
 《SortWorks》延续了热门“倒瓶子/颜色排序”类游戏的核心玩法。屏幕上会出现多个装满彩色方块或液体的列，每列可容纳的格数有限，你一次只能把最上层的一段颜色挪到另一列顶部。目标是在不给任意一列“挤爆”的前提下，通过不断搬移，让每一列最终只留下同一种颜色。
 
+<!-- i18n:section:tips -->
 ### 游玩策略与通关指引
 
 1.  **先找“纯色列”与“缓冲列”：** 早期优先把已经接近纯色的列整理干净，并留出至少一列尽量空的作为临时缓冲用。这样后续移动会轻松很多。
@@ -25,20 +27,26 @@ releaseDate: 2025-10-18T00:00:00.000Z
 3.  **避免无意义来回搬运：** 每次移动前先想清楚这一步是否明确接近最终解，而不是只是“腾个地方”。无谓的往返会让局面越来越乱。
 4.  **遇到卡局要敢于回退：** 如果发现某种颜色被压在难以处理的位置，可以尝试倒回前几步，重新调整缓冲列和目标列的分配策略。
 5.  **视线放远：** 先扫一遍整体列结构，别只盯着眼前最容易搬的那一块。
+<!-- i18n:section:controls -->
 ### 操作说明
 
 *   **选择与倒入：** 点击某一列的顶部颜色，再点击目标列，即可将能倒出的那段颜色转移过去（前提是目标列还有空间且顶部颜色兼容规则允许）。
 
+<!-- i18n:section:faq -->
 ### 常见问题解答（FAQ）
 
+<!-- i18n:faq:id=faq:sortworks:i-jam-belts-b1436b35 -->
 - 问：传送带/队列总是被堵住怎么办？
   
   答：多半是缓冲位被你消耗光了。先清掉一批容易处理的物品，重新腾出空间，再回头处理难分类的内容。
 
+<!-- i18n:faq:id=faq:sortworks:similar-icons-confuse-me-62335c3e -->
 - 问：图标太像分不清怎么办？
   
   答：给每类记 2–3 个“锚点特征”（形状/边缘/颜色），先按锚点做第一轮筛分，再处理相似项会轻松很多。
 
+<!-- i18n:faq:id=faq:sortworks:do-streaks-matter-a57f4782 -->
 - 问：连击/连串重要吗？
   
   答：重要。连击通常会提高得分或倍率，可以用容易分拣的物品来维持连击，再找机会处理难点。
+

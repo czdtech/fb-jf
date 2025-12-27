@@ -6,8 +6,9 @@ title: "Sprunkgerny - 在线畅玩 Sprunkgerny"
 description: "如果你正在寻找一种独特的音乐体验，那么 Sprunkgerny 绝对不容错过！它打破了传统节奏游戏的束缚，鼓励你拥抱不完美与随机性，让你在探索与乐趣中尽情释放音乐灵感。"
 iframeSrc: "https://turbowarp.org/1107761681/embed"
 thumbnail: /new-images/thumbnails/sprunkgerny.png
-score: "4.9/5  (724 票)"
+score: "4.9/5  (724 votes)"
 tags: ["sprunkgerny", "sprunkgerny online"]
+releaseDate: 2025-12-04
 ---
 
 ### Sprunkgerny 游戏介绍
@@ -35,3 +36,4 @@ tags: ["sprunkgerny", "sprunkgerny online"]
 如果你正在寻找一种独特的音乐体验，那么 Sprunkgerny 绝对不容错过！它打破了传统节奏游戏的束缚，鼓励你拥抱不完美与随机性，让你在探索与乐趣中尽情释放音乐灵感。无论你是节奏游戏老手还是音乐创作新手，都能在 Sprunkgerny 的世界里找到属于自己的快乐！
  
 Sprunkgerny 就像一个古怪的音乐实验室，它鼓励你打破规则，尝试一切，拥抱混乱，创作独一无二的音乐作品。准备好迎接这场令人惊叹的视听盛宴了吗？来到 Sprunkgerny 的世界，让你的节奏彻底疯狂起来吧！
+
