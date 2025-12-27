@@ -6,10 +6,12 @@ title: "Pikmin No Sprunki - 在线玩 Pikmin No Sprunki"
 description: "Pikmin No Sprunki 不仅仅是一款简单的游戏；它是一个鼓励探索的创意平台。"
 iframeSrc: "https://img.sprunki.net/game/pikmin-no-sprunki.html"
 thumbnail: /new-images/thumbnails/pikmin-no-sprunki.png
-score: "4.0/5  (89 票)"
+score: "4.0/5  (89 votes)"
 tags: ["pikmin no sprunki"]
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 有没有想过当 Pikmin 的古怪世界与 Sprunki 的音乐魔法相撞会发生什么？Pikmin No Sprunki 让这个想法成为现实！这款迷人的 Scratch 游戏巧妙地将熟悉的 Incredibox 创作乐趣与新鲜的游戏机制相融合，邀请你踏上一场独特的视听冒险。
 
 ### Pikmin No Sprunki 到底是什么？
@@ -27,3 +29,4 @@ tags: ["pikmin no sprunki"]
 ### 总结
 
 Pikmin No Sprunki 不仅仅是一款简单的游戏；它是一个鼓励探索的创意平台。它完美地结合了引人入胜的玩法、多样化的 Mod 和活跃的社区，在众多免费游戏中脱颖而出。无论你是经验丰富的 Sprunki 老手还是寻找新鲜体验的玩家，Pikmin No Sprunki 绝对值得一试！快来加入这个美妙的世界，用节奏和创意谱写属于你自己的 Pikmin No Sprunki 交响曲吧！
+

@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### **游戏简介：什么是 Plants vs Brainrots？**
 
 《Plants vs Brainrots》是一款基于 Roblox 平台的病毒级热门塔防游戏，可以看作是对经典《Plants vs. Zombies》的现代整活版。游戏把当下互联网上各种“脑腐”式迷因内容具象化成敌人，你不再是对抗一波波僵尸，而是要守住自家院子和“脑细胞”，阻挡一大群 Skibidi Toilet、Sigma 等网络梗拟人怪物的侵袭。
@@ -24,6 +25,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 本作之所以爆火，很大一部分原因在于角色阵容既有梗又持续更新，紧贴不断变化的网络文化，让玩家获得幽默又有参与感的体验。
+<!-- i18n:section:tips -->
 ### **玩法策略与上手技巧**
 
 1.  **建立“专注值”经济：** 游戏中的主要资源并非阳光，而是类似“专注值 / 理智点”的资源，由类似向日葵的 **Focus Flowers** 负责产出。通常开局优先在后排铺出至少两行 Focus Flowers，保证后续有稳定收入来铺场其它攻击与防御植物。
@@ -40,28 +42,38 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 4.  **善用“Touch Grass” 机关：** 和原作一样，每一路草坪前往往有一个“最后防线”机关，本作将其包装为“Touch Grass 草坪机”。一旦有 Brainrot 突破所有防线，它会自动冲出清空整条路线，但只触发一次，不能长期依赖。
 
+<!-- i18n:section:controls -->
 ### **操作与控制说明（Roblox 版）**
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `W, A, S, D`
 
 作为 Roblox 游戏，本作的操作以鼠标和键盘为主：
 
 *   **选择植物：** 用鼠标点击界面上方或侧边的植物卡牌。  
 *   **种植植物：** 选中卡牌后，在草坪上可用格子点击，即可种下对应植物。  
 *   **收集专注值：** 当 Focus Flowers 产生专注/理智图标时，用鼠标点击进行收集。  
-*   **视角移动：** 使用 `W, A, S, D` 或鼠标拖动调整视角和镜头，方便查看整片草坪。
+*   **视角移动：** 使用 W, A, S, D 或鼠标拖动调整视角和镜头，方便查看整片草坪。
 
+<!-- i18n:section:faq -->
 ### **常见问题（FAQ）**
 
+<!-- i18n:faq:id=faq:plants-vs-brainrots:where-can-i-play-plants-78142c08 -->
 **1. 在哪里可以玩《Plants vs Brainrots》？**  
 游戏仅在 **Roblox 平台**提供体验，你可以在 Roblox 官网或 App 内搜索“Plants vs Brainrots”进入游戏大厅，免费游玩。
 
+<!-- i18n:faq:id=faq:plants-vs-brainrots:is-this-an-official-plants-dfe9ebe6 -->
 **2. 这是官方的《植物大战僵尸》续作吗？**  
 不是。本作为玩家自制恶搞作品，与 PopCap / EA 等《Plants vs. Zombies》官方团队没有任何隶属关系或授权关系。
 
+<!-- i18n:faq:id=faq:plants-vs-brainrots:is-the-game-free-9403c1eb -->
 **3. 游戏是免费的吗？**  
 是的，基础内容免费游玩。但和多数 Roblox 游戏一样，可能会提供使用 Robux 购买皮肤、特殊植物或其他增值内容的选项。
 
+<!-- i18n:faq:id=faq:plants-vs-brainrots:what-is-brain-rot-5af00241 -->
 **4. 游戏里说的“Brain Rot”是什么意思？**  
 “Brain Rot”是一种网络俚语，用来形容沉迷刷短视频等低质量内容后，大脑像被腐蚀一样变得迟钝的状态。游戏把这些“脑腐内容”拟人化为敌人，让你用理智植物把它们统统击退。
 
+<!-- i18n:faq:id=faq:plants-vs-brainrots:how-do-i-stay-updated-eae93b2e -->
 **5. 想关注新迷因敌人与新植物更新怎么做？**  
 通常可以加入游戏官方的 **Discord 服务器**或关注相关社群，开发者会在其中发布更新公告、兑换码和活动信息，也会听取玩家反馈。
+
