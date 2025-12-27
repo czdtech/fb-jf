@@ -3,21 +3,23 @@ locale: zh
 urlstr: smarty-bubbles-2
 title: 《Smarty Bubbles 2》聪明泡泡 2
 description: 《Smarty Bubbles 2》是一款经典泡泡龙续作。发射彩色泡泡，将三个及以上同色泡泡连成一片并消除，清空屏幕赢得关卡胜利。
-iframeSrc: 'https://smartybubbles2.h5games.usercontent.goog/v/4h72msq50h860/'
+iframeSrc: 'https://smartybubbles2.h5games.usercontent.goog/v/1u280qojm9oq0/'
 thumbnail: /new-images/thumbnails/smarty-bubbles-2.png
 tags:
   - bubble shooter
   - puzzle
   - casual
-score: 4.3/5  (2150 votes)
+score: 4.4/5  (2600 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### 详细游戏介绍
 
 《Smarty Bubbles 2》承接了前作“瞄准发射 + 三消消除”的经典泡泡龙玩法，并在关卡节奏和画面表现上做了升级。屏幕上方堆满了不同颜色的泡泡，你需要从下方发射手中的泡泡，使其与相同颜色的泡泡连成三个及以上的组合即可消除。当成片泡泡被打断连接时，它们也会整串掉落，为你腾出更多空间。
 
+<!-- i18n:section:tips -->
 ### 游玩策略与通关指引
 
 1. **优先处理危急区域：** 关注最接近下边界的泡泡层，优先清理这些即将压下来的区域，避免被压到发射线以下导致失败。
@@ -25,15 +27,21 @@ releaseDate: 2025-10-17T00:00:00.000Z
 3. **学会空隙穿插：** 熟练之后可以通过小角度和边缘弹射，把泡泡打进狭窄缝隙中，完成更巧妙的连锁消除。
 4. **控制颜色池：** 当某种颜色所剩泡泡很少时，可以优先清理它们，让该颜色从池子中消失，之后出现的颜色种类就会减少，整体局面会更易于控制。
 
+<!-- i18n:section:controls -->
 ### 操作说明
 
 *   **瞄准发射：** 拖动或移动鼠标调整发射方向，点击或轻触屏幕即可射出当前泡泡。
 *   **切换泡泡（如有）：** 某些版本允许暂存一个备用泡泡，可通过点击交换来应对不合适的颜色。
 
+<!-- i18n:section:faq -->
 ### 常见问题解答（FAQ）
+<!-- i18n:faq:id=faq:smarty-bubbles-2:q-why-did-a-new-be29edcb -->
 *   **问：总被上方泡泡压到线怎么办？****
     *   答：** 尽量优先清掉最低、最靠近你的一排，同时注意利用“挂链”结构一次性打掉大块泡泡。
+<!-- i18n:faq:id=faq:smarty-bubbles-2:q-what-is-the-goal-ab58581b -->
 *   **问：有没有时间或步数限制？****
     *   答：** 视模式而定，有的走“无限步但逐渐下压”的经典模式，有的会限定步数或时间，需要根据关卡要求调整节奏。
+<!-- i18n:faq:id=faq:smarty-bubbles-2:q-how-do-i-get-73fd7840 -->
 *   **问：和初代《Smarty Bubbles》相比有什么不同？****
     *   答：** 《Smarty Bubbles 2》通常在美术、动画和关卡节奏上更精致，部分版本还会增加特殊泡泡或新的挑战规则。
+

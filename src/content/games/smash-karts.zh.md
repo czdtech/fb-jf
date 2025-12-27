@@ -3,17 +3,18 @@ locale: zh
 urlstr: smash-karts
 title: 《Smash Karts》武装卡丁车大乱斗
 description: 《Smash Karts》是一款多人实时卡丁车对战游戏。驾驶小车在立体场景中飞驰，拾取武器箱，用火箭、地雷等各种道具互相攻击，争夺排行榜第一。
-iframeSrc: 'https://smashkartsio.h5games.usercontent.goog/v/1jvggp08o4bj0/'
+iframeSrc: 'https://webgltest-17af1.firebaseapp.com/'
 thumbnail: /new-images/thumbnails/smash-karts.jpg
 tags:
   - kart
   - multiplayer
   - action
-score: 4.4/5  (2400 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
+score: 4.7/5  (277 votes)
+releaseDate: 2025-08-16
 ---
 
 
+<!-- i18n:section:introduction -->
 ### 游戏介绍
 
 《Smash Karts》把卡丁车竞速与轻度射击融合在一起。每一局中，玩家驾驶卡丁车在封闭的竞技场内高速穿梭，通过赛道上的随机武器箱获得火箭、机枪、地雷、油漆弹等各种搞怪武器。你的目标不是单纯比谁跑得快，而是在计时结束前尽可能多地击败其他玩家，累积分数、登顶排行榜。
@@ -27,6 +28,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 - **把握时机：** 选择合适时机使用道具并发起进攻。
+<!-- i18n:section:how-to-play -->
 ### 操作说明
 
 *   **驾驶：** 使用方向键或 WASD 控制卡丁车前进、后退和转向。
@@ -36,6 +38,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 - **漂移：** 练好漂移技巧，在转弯时也能保持速度。
 
 - **使用道具：** 通常按空格键或点击鼠标使用已获得的道具。
+<!-- i18n:section:faq -->
 ### 常见问题解答（FAQ）
 
 

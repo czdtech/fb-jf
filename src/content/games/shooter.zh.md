@@ -3,17 +3,18 @@ locale: zh
 urlstr: shooter
 title: 《Shooter》经典街机射击挑战
 description: 《Shooter》是一款节奏快速的街机风射击游戏。操控你的飞船或角色在弹雨中穿梭，精准击落敌人、躲避子弹，并通过拾取强化道具不断提升火力。
-iframeSrc: 'https://shooter.h5games.usercontent.goog/v/2g7r9t1p9q3mg/'
+iframeSrc: 'https://bitlifeonline.github.io/fnaf-shooter/'
 thumbnail: /new-images/thumbnails/shooter.jpg
 tags:
   - shooting
   - arcade
   - action
-score: 3.9/5  (1800 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
+score: 4.1/5  (805 votes)
+releaseDate: 2025-08-16
 ---
 
 
+<!-- i18n:section:introduction -->
 ### 详细游戏介绍
 
 《Shooter》回归了最纯粹的街机射击体验——简单的移动+射击，却能在密集的敌人编队与弹幕中激发出高强度操作感。你将驾驶小型战机或持枪角色，在不断刷新的敌浪和偶尔出现的 Boss 面前生存下来，一边躲避交叉火力，一边寻找输出窗口，用灵活走位和火力压制刷新高分记录。
@@ -27,6 +28,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 - **波次准备：** 利用两波之间的间隙换弹并调整站位。
+<!-- i18n:section:how-to-play -->
 ### 操作说明
 
 *   **移动：** 使用键盘方向键或鼠标/触控拖拽控制角色移动。
@@ -37,6 +39,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 - **切换武器：** 使用数字键或鼠标滚轮在不同武器之间切换。
 
 - **换弹：** 按 `R` 键换弹。
+<!-- i18n:section:faq -->
 ### 常见问题解答（FAQ）
 
 

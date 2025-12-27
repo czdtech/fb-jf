@@ -3,21 +3,23 @@ locale: zh
 urlstr: slither-io
 title: 《Slither.io》贪吃蛇大作战
 description: 《Slither.io》是一款极受欢迎的在线多人贪吃蛇游戏。操控你的彩色小蛇吞食能量点、围杀其他玩家，让自己变成场上最长的一条蛇。
-iframeSrc: 'https://slitherio.org/slitherio/'
+iframeSrc: 'https://app-165910.games.s3.yandex.net/165910/rm0dpvrwyxo0cakog5vc1sr4c8b6xj1s/index.html'
 thumbnail: /new-images/thumbnails/slither-io.jpg
 tags:
   - io-games
   - snake
   - multiplayer
-score: 4.1/5  (980 votes)
+score: 4.8/5  (1149 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### 游戏介绍
 
 《Slither.io》是在经典贪吃蛇玩法基础上的多人对战进化版。你将控制一条会不断变长的彩色小蛇，在布满发光能量点的战场上与其他玩家同场竞技。通过不断吞食地图上的能量点和其他玩家死亡后留下的大量能量，你可以快速变大变长；同时利用走位把对手逼到你的身体上，让对方“头撞蛇身”自爆，为你提供一大串养分。
 
+<!-- i18n:section:how-to-play -->
 ### 游玩指南
 
 1.  **核心目标：** 持续吃能量点让蛇变长。击败其他玩家后留下的能量比普通散落能量更值钱，是快速成长的关键。
@@ -37,6 +39,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 **移动端：**
 - 使用屏幕虚拟摇杆或在屏幕上拖动手指来控制蛇的移动方向。
 
+<!-- i18n:section:faq -->
 ### 常见问题解答（FAQ）
 
 - **问：怎样快速变大？**  
@@ -53,3 +56,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 **问：可以和朋友一起玩吗？**  
 **答：** 可以在同一服务器中匹配，彼此比拼谁能存活更久、变得更长，也可以约定自我挑战目标，比如谁先上榜等。
+

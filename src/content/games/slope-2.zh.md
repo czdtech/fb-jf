@@ -3,17 +3,18 @@ locale: zh
 urlstr: slope-2
 title: 《Slope 2》极限斜坡 2
 description: 《Slope 2》是经典斜坡跑酷的进化续作。你将操控一颗高速滚动的球，在充满斜坡、缺口和陷阱的平台上一路下滑，挑战更快节奏和更高难度的生存极限。
-iframeSrc: 'https://slope2.h5games.usercontent.goog/v/49i8bhhk3hlt0/'
+iframeSrc: 'https://raw.githack.com/lioxryt/lioxryt-assets/main/other/slope-2/index.html'
 thumbnail: /new-images/thumbnails/slope-2.jpg
 tags:
   - 3d
   - running
   - reflex
-score: 4.4/5  (2100 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
+score: 3.8/5  (790 votes)
+releaseDate: 2025-08-16
 ---
 
 
+<!-- i18n:section:introduction -->
 ### 游戏介绍
 
 《Slope 2》延续了前作的核心玩法——在无尽的绿黑科幻赛道上控制滚动小球高速下滑。赛道由各种斜坡、狭窄平台、突然出现的缺口和移动障碍组成，球的速度会随着下滑不断上升，你必须通过极其细腻的左右控制来避免坠落或撞毁。相较初代，本作在关卡结构和障碍设计上更具变化，节奏更紧张。
@@ -26,6 +27,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 4.  **避开“陷阱块”：** 记住哪些平台看起来宽但边缘断裂、或带有移动方块的区域，必要时宁可走窄一点的安全线。
 5.  **节奏优先于贪心：** 游戏本质上是生存挑战，不必刻意追求某条“最帅路线”。活得久自然分数就会上去。
 
+<!-- i18n:section:how-to-play -->
 ### 操作说明
 
 *   **左右移动：** 使用键盘左右方向键或 A/D 控制球在赛道上左右偏移。
@@ -33,6 +35,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 - **跳跃：** 部分版本可能支持跳跃功能（如有）。
+<!-- i18n:section:faq -->
 ### 常见问题解答（FAQ）
 
 

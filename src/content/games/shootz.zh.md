@@ -3,17 +3,18 @@ locale: zh
 urlstr: shootz
 title: 《Shootz》简约塔防射击
 description: 《Shootz》是一款轻量级塔防+射击结合的小游 戏。你需要操控炮台或防御塔，射击从四面八方涌来的敌人，防止它们接近你的核心基地。
-iframeSrc: 'https://shootz.h5games.usercontent.goog/v/1jh7x9p2mzb3g/'
+iframeSrc: 'https://g.igroutka.ru/games/17/9IsudOxakgP0EVKC/shootz/'
 thumbnail: /new-images/thumbnails/shootz.jpg
 tags:
   - tower defense
   - shooting
   - casual
-score: 3.8/5  (1600 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
+score: 3.7/5  (1015 votes)
+releaseDate: 2025-08-16
 ---
 
 
+<!-- i18n:section:introduction -->
 ### 详细游戏介绍
 
 《Shootz》采用极简画面，将塔防与射击的核心乐趣提炼出来。敌人会沿着既定路线或从屏幕边缘不断涌入，你的任务是在适当位置架设或操控火力点，持续射击来袭目标，在有限时间内守住基地不被攻破。随着波次推进，敌人的血量、速度与数量都会提升，需要你不断升级武器、调整防线布局。
@@ -27,6 +28,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 - **组合攻击：** 学会搭配不同武器的组合来应对各种情况。
+<!-- i18n:section:how-to-play -->
 ### 操作说明
 
 *   **瞄准与射击：** 使用鼠标移动瞄准光标，点击或按住进行射击；若为自动塔防，则负责放置炮塔位置即可。
@@ -38,6 +40,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 - **切换武器：** 使用数字键在不同武器之间切换。
 
 - **换弹：** 按 `R` 键换弹。
+<!-- i18n:section:faq -->
 ### 常见问题解答（FAQ）
 
 

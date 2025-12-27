@@ -3,17 +3,18 @@ locale: zh
 urlstr: slice-master
 title: 《Slice Master》切割大师
 description: 《Slice Master》是一款节奏爽快的切割游戏。控制飞刀或利刃在关卡中不断弹跳、切碎沿途的物体和障碍，享受连击与清屏的快感。
-iframeSrc: 'https://slicemaster.h5games.usercontent.goog/v/0gmp1z65f4pq8/'
+iframeSrc: 'https://bitlifeonline.github.io/slice-master/'
 thumbnail: /new-images/thumbnails/slice-master.jpg
 tags:
   - arcade
   - action
   - casual
-score: 4.2/5  (2200 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
+score: 4.3/5  (480 votes)
+releaseDate: 2025-08-16
 ---
 
 
+<!-- i18n:section:introduction -->
 ### 详细游戏介绍
 
 《Slice Master》是一款“看着就很解压”的轻度动作游戏。你操控一把飞刀或刀刃，在狭长的关卡中跳跃弹射，切碎一路上的水果、木板、障碍物甚至金币箱。每一次精准的切割都会带来连击数和得分飙升，而失误落地或碰到陷阱则可能终止连击。简洁的画面配合清脆的切割音效，是非常适合碎片时间上手的爽快小游戏。
@@ -27,6 +28,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 - **收集物品：** 在关卡中收集特殊物品和金币，用于提升能力或获取更多奖励。
+<!-- i18n:section:how-to-play -->
 ### 操作说明
 
 *   **弹跳 / 出刀：** 通过点击或轻触屏幕控制刀刃的弹跳节奏，让它在空中反复反弹并划过目标。
@@ -35,6 +37,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 - **角度调整：** 拖拽以调整刀刃角度与轨迹。
 
 - **切割动作：** 点击或滑动执行切割。
+<!-- i18n:section:faq -->
 ### 常见问题解答（FAQ）
 
 

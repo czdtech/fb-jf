@@ -3,21 +3,23 @@ locale: zh
 urlstr: santas-quest
 title: 《Santa's Quest》圣诞老人的消除之旅
 description: 《Santa's Quest》是一款节日主题的三消益智游戏。通过交换拼图块完成匹配、收集礼物与糖果，帮助圣诞老人完成他的送礼任务。
-iframeSrc: 'https://santasquest.h5games.usercontent.goog/v/49upjh0ur3tas/'
+iframeSrc: 'https://santasquest.h5games.usercontent.goog/v/737gsbva7bkqo/'
 thumbnail: /new-images/thumbnails/santas-quest.png
 tags:
   - puzzle
   - match 3
   - christmas
-score: 4.1/5  (2100 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
+score: 3.9/5  (1688 votes)
+releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### 详细游戏介绍
 
 《Santa's Quest》是一款节日气氛浓厚的轻度解谜小游戏。你需要引导圣诞老人完成一关关简短的格子/路线挑战：收集指定物品、清理通路，并抵达出口，在有限步数或轻度限制条件下过关。关卡节奏快，很适合随时来一局。
 
+<!-- i18n:section:tips -->
 ### 游玩策略与通关指引
 
 1.  **先规划路线：** 先观察钥匙、开关或收集物在哪，再决定行动顺序，避免走到一半才发现漏拿关键道具。
@@ -26,14 +28,20 @@ releaseDate: 2025-10-17T00:00:00.000Z
 4.  **注意计时（如有）：** 时间紧时优先完成必做目标，星星等可选项可以留到后面再补。
 5.  **走错就快重开：** 关卡很短，犯错时快速重试往往比硬撑更高效。
 
+<!-- i18n:section:controls -->
 ### 操作指南
 
-- 移动：方向键 / `WASD`，或在移动端滑动。
+- 移动：方向键 / WASD，或在移动端滑动。
 - 互动：多数情况下接触即可触发，或按屏幕提示操作。
 - 暂停/重开：通过屏幕上的 UI 按钮。
 
+<!-- i18n:section:faq -->
 ### 常见问题（FAQ）
 
+<!-- i18n:faq:id=faq:santas-quest:stuck-behind-a-blockwhat-now-2e016d68 -->
 - 被方块卡住出不来怎么办？重开并调整行动顺序，尽量让通道保持畅通。
+<!-- i18n:faq:id=faq:santas-quest:are-there-enemies-0f202e8a -->
 - 有敌人吗？部分关卡会有轻度的危险/巡逻，需要把握时机绕过即可。
+<!-- i18n:faq:id=faq:santas-quest:do-i-need-all-stars-c6a73dae -->
 - 一定要把星星都收集吗？不强制；想要满完成度再去补收即可。
+

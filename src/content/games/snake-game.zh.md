@@ -3,21 +3,23 @@ locale: zh
 urlstr: snake-game
 title: 《Snake Game》经典贪吃蛇
 description: 《Snake Game》是一款复刻经典的贪吃蛇小游戏。控制蛇在方格中移动，吃掉食物让身体不断变长，同时避免撞到墙壁或自己的身体。
-iframeSrc: 'https://snakegameclassic.h5games.usercontent.goog/v/5g71zf4ytjvq0/'
+iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/snake/'
 thumbnail: /new-images/thumbnails/snake-game.jpg
 tags:
   - snake
   - classic
   - arcade
-score: 4.0/5  (1900 votes)
+score: 4.7/5  (1143 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### 游戏介绍
 
 《Snake Game》是最纯粹意义上的经典贪吃蛇体验。你在规则方格或像素地图中操控一条小蛇，通过不断吃掉出现的食物来增长长度。随着蛇身变得越来越长，转弯和绕行的难度也随之增加，你要小心不要撞到边界或自己的身体，否则游戏就会立即结束。
 
+<!-- i18n:section:how-to-play -->
 ### 游玩指南
 
 1.  **核心目标：** 吃掉尽可能多的食物，让蛇变得更长，从而获得更高分数。
@@ -36,6 +38,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - **向右移动：** 按右方向键或 `D` 键向右。
 
 - **向左移动：** 按左方向键或 `A` 键向左。
+<!-- i18n:section:faq -->
 ### 常见问题解答（FAQ）
 
 
@@ -50,3 +53,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 - **问：有不同游戏模式吗？**  
     **答：** 经典版本通常只有一种模式，但现代版本可能加入不同挑战与变体。
+

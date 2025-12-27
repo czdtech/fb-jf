@@ -5,17 +5,18 @@ title: 《Slope 3》极限斜坡 3
 description: >-
   《Slope 3》是在高速斜坡跑酷基础上的进一步升级作品。你操控一颗炫光小球在更加复杂多变的 3D
   斜坡赛道上狂奔，下滑速度更快、障碍更密集，对反应与操作要求更高。
-iframeSrc: 'https://slope3.h5games.usercontent.goog/v/3t7c13v0m2elg/'
+iframeSrc: 'https://games-online.io/game/Slope3/'
 thumbnail: /new-images/thumbnails/slope-3.jpg
 tags:
   - 3d
   - running
   - reflex
-score: 4.5/5  (2300 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
+score: 4.6/5  (1420 votes)
+releaseDate: 2025-08-16
 ---
 
 
+<!-- i18n:section:introduction -->
 ### 游戏介绍
 
 《Slope 3》延续了“在无尽斜坡上控制小球下滑”的核心机制，但在赛道设计上更加立体、多变。你会遇到急转弯、连续断层、移动方块和突然收窄的通道，随着距离的增加，小球会以近乎失控的速度滑落，稍有不慎就会冲出平台或直接撞毁。游戏节奏紧张，非常适合追求高 APM 和反应测试的玩家。
@@ -29,6 +30,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 - **耐力训练：** 培养长时间保持高度专注的能力。
+<!-- i18n:section:how-to-play -->
 ### 操作说明
 
 *   **左右控制：** 使用左右方向键或 A/D 键控制小球在赛道上的左右移动。
@@ -36,6 +38,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 - **反应训练：** 快速应对突然出现的障碍与方向变化。
+<!-- i18n:section:faq -->
 ### 常见问题解答（FAQ）
 
 

@@ -3,21 +3,23 @@ locale: zh
 urlstr: sky-tower
 title: 《Sky Tower》高空叠塔挑战
 description: 《Sky Tower》是一款操作简单但极考反应与节奏感的叠塔游戏。通过在恰当时机放下楼层方块，把摩天大楼一层层堆上天空。
-iframeSrc: 'https://skytower.h5games.usercontent.goog/v/3z9qf1d4n8kpg/'
+iframeSrc: 'https://11bhsd7s4hdbg.h5games.usercontent.goog/v/7a58l0501ebp8/'
 thumbnail: /new-images/thumbnails/sky-tower.png
 tags:
   - arcade
   - one button
   - casual
-score: 4.0/5  (1850 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
+score: 3.9/5  (1731 votes)
+releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### 详细游戏介绍
 
 《Sky Tower》是一款极具节奏感的竖向叠塔小游戏。屏幕上方的楼层方块会左右来回移动，你需要在最佳位置按下按钮，让方块刚好落在已有楼层之上。放偏的部分会被削掉，使下一块变得更小，叠得越高容错就越低。最终目标是在有限的宽度下，把摩天大楼尽可能堆得又高又稳，挑战自己的极限手速与精准度。
 
+<!-- i18n:section:tips -->
 ### 游玩策略与通关指引
 
 1.  **追求“完美叠放”：** 尽量让每一层都与下方完全对齐，这样楼层不会被削薄，可以为后续高层保留更宽的安全边界。
@@ -25,20 +27,26 @@ releaseDate: 2025-10-17T00:00:00.000Z
 3.  **失误后及时调整：** 一旦某层明显偏移，下一层就要相应微调落点，尽量把偏差拉回到中间位置，避免越叠越歪。
 4.  **接受上层高风险：** 塔越高，可用面积越小，这时宁可冷静多等一轮移动，也不要急于按下导致整塔坍塌。
 5.  **耐心为先：** 塔身晃动或节奏不稳时先稳住再考虑拿金币，别为了贪奖励把塔带崩。
+<!-- i18n:section:controls -->
 ### 操作说明
 
 *   **放置楼层：** 当方块在目标位置上方时，点击屏幕或按下指定按键即可让楼层下落并叠加到塔上。
 
+<!-- i18n:section:faq -->
 ### 常见问题解答（FAQ）
 
+<!-- i18n:faq:id=faq:sky-tower:my-tower-shrinks-fast-b1c4d991 -->
 - 问：方块为什么会越来越小？
   
   答：每次放置偏移，下方悬空的部分都会被削掉，剩下的可用面积就会缩小，所以前期的精准叠放非常重要。
 
+<!-- i18n:faq:id=faq:sky-tower:any-way-to-recover-d502538f -->
 - 问：叠歪了还有办法补救吗？
   
   答：可以。失误后别急着抢节奏，连续几次争取“居中完美落点”，把平台宽度慢慢稳回来。
 
+<!-- i18n:faq:id=faq:sky-tower:is-speed-important-fcd4f607 -->
 - 问：游戏有没有终点？
   
   答：通常没有固定终点，更像是“无限挑战高度”的街机得分玩法，以叠到多高、得分多高作为主要目标。
+
