@@ -3,21 +3,23 @@ locale: zh
 urlstr: stick-war
 title: 《Stick War》火柴人战争
 description: 《Stick War》是一款战略向的火柴人战争游戏。指挥你的火柴人士兵采集资源、训练部队、占领阵地，与敌对部落展开大规模对战。
-iframeSrc: 'https://stickwar.h5games.usercontent.goog/v/0p4k3s2b5m9n8/'
+iframeSrc: 'https://www.gamenora.com/upload/games/swf/stick_war/'
 thumbnail: /new-images/thumbnails/stick-war.jpg
 tags:
   - strategy
   - war
   - stickman
-score: 4.2/5  (2200 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
+score: 3.6/5  (1080 votes)
+releaseDate: 2025-08-16
 ---
 
 
+<!-- i18n:section:introduction -->
 ### 详细游戏介绍
 
 《Stick War》把经典即时策略玩法与火柴人风格结合在一起。你扮演一方部落的统帅，需要安排工人开采资源，用资源训练不同类型的战斗单位（如剑士、弓手、长枪兵、法师等），再合理编组进攻或防守，以打破敌人的防线并摧毁其雕像/基地。
 
+<!-- i18n:section:tips -->
 ### 游玩策略与战术指引
 
 
@@ -27,12 +29,16 @@ releaseDate: 2025-10-17T00:00:00.000Z
 3.  **掌握进攻节奏：** 不要在兵力太少时就盲目冲锋，也不要在优势时过长时间拖延。根据双方兵力对比，在对你有利的时间点发起总攻。
 4.  **适时转守为攻：** 遇到敌人来犯时，可以先利用防守地形和塔防优势拖垮对方，待其兵力消耗殆尽，再立刻组织反击。
 
+<!-- i18n:section:controls -->
 ### 操作说明
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `A` `D` `Spacebar`
 
 *   **单位控制：** 通过鼠标或快捷键选中工人或士兵，执行移动、攻击或驻守等指令；
 *   **训练与升级：** 在营地界面消耗资源训练新单位或升级现有单位属性；
 *   **技能释放：** 部分高级单位或英雄拥有主动技能，可在关键战斗中释放扭转局势。
 
+<!-- i18n:section:faq -->
 ### 常见问题解答（FAQ）
 
 **问：总是前期被敌人快速 rush 掉怎么办？****
@@ -45,3 +51,4 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 **问：优先升级什么比较划算？**
 答：** 通常建议把第一批升级点投入到矿工的采集效率（例如矿袋容量）和基地/雕像的经济收益上，让经济尽快起飞。之后再重点强化你最常用的兵种，把资源投入到最能打出效果的单位上。
+

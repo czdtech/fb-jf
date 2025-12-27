@@ -3,21 +3,23 @@ locale: zh
 urlstr: stick-fight
 title: 《Stick Fight》火柴人乱斗
 description: 《Stick Fight》是一款节奏明快的火柴人对战游戏。在物理效果夸张的场景中拳打脚踢、拾取武器，把对手击飞出场成为最后的赢家。
-iframeSrc: 'https://stickfight.h5games.usercontent.goog/v/4gqf1m7v9ce90/'
+iframeSrc: 'https://ext.minijuegosgratis.com/stick-fighter-2/index.html'
 thumbnail: /new-images/thumbnails/stick-fight.jpg
 tags:
   - fighting
   - physics
   - multiplayer
-score: 4.2/5  (2100 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
+score: 3.6/5  (1015 votes)
+releaseDate: 2025-08-16
 ---
 
 
+<!-- i18n:section:introduction -->
 ### 详细游戏介绍
 
 《Stick Fight》是一款以火柴人角色为主角的混战格斗游戏。你和其他玩家将被投放到各种千奇百怪的关卡中，有的地形会不断坍塌，有的会出现随机武器，还有的充满移动平台与致命陷阱。借助夸张的物理引擎，每一次跳跃、击打或被击飞都充满笑点与不可预知性。
 
+<!-- i18n:section:tips -->
 ### 游玩策略与对战指引
 
 
@@ -27,7 +29,10 @@ releaseDate: 2025-10-17T00:00:00.000Z
 3.  **充分利用地形：** 有些关卡会有会坍塌的平台、可反弹的墙面或会移动的障碍，学会利用环境来逼对手失足，比硬刚更有效。
 4.  **保持冷静：** 多人混战中，往往不是输出最高的人赢，而是最后活下来的人。必要时可以暂时“猥琐发育”，等待其他人互相消耗。
 
+<!-- i18n:section:controls -->
 ### 操作说明
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `A` `D` `Left/Right Arrow Keys` `W` `Up Arrow` `S` `Down Arrow` `Left Mouse Button` `F` `Right Mouse Button` `G`
 
 
 操作通常沿用常见的 2D 平台动作布局：
@@ -36,9 +41,10 @@ releaseDate: 2025-10-17T00:00:00.000Z
 *   **特殊动作：** 部分武器或关卡会提供额外能力，具体以游戏内提示为准。
 
 
-- **格挡：** 鼠标右键 或 `G`
+- **格挡：** 鼠标右键 或 G
 
-- **攻击：** 鼠标左键 或 `F`
+- **攻击：** 鼠标左键 或 F
+<!-- i18n:section:faq -->
 ### 常见问题解答（FAQ）
 
 **这款游戏的核心目标是什么？**
@@ -52,3 +58,4 @@ releaseDate: 2025-10-17T00:00:00.000Z
 **游戏里有哪些武器？**
 
 武器库非常丰富，从剑、矛等近战武器，到手枪、霰弹枪等远程武器，甚至还有能发射蛇的火箭筒等“整活”装备。
+

@@ -3,17 +3,18 @@ locale: zh
 urlstr: superhot
 title: 《SUPERHOT》子弹时间战术射击
 description: 《SUPERHOT》是一款极具创意的第一人称战术射击游戏：时间只在你移动时流动。在白色极简场景中规划走位与射击，用最少的动作解决所有敌人。
-iframeSrc: 'https://superhot.h5games.usercontent.goog/v/7d1p4s9k2l3m0/'
+iframeSrc: 'https://superhotgame.com/superhot-prototype-iframe'
 thumbnail: /new-images/thumbnails/superhot.jpg
 tags:
   - shooting
   - strategy
   - action
-score: 4.5/5  (2100 votes)
+score: 3.9/5  (1186 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### 详细游戏介绍
 
 《SUPERHOT》以极简的色彩与独特的时间机制闻名：在游戏中，只有当你移动、转身或开火时，时间才会真正流动；当你完全静止时，时间几乎停滞。你面对的是手持枪械或冷兵器的红色玻璃人敌人，一颗子弹、一记近战击打都可能让你当场阵亡，因此如何在慢速的“子弹时间”里规划每一步行动，是通关的关键。
@@ -34,6 +35,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 *   **拾取 / 换武器：** 靠近武器时按互动键捡起；
 *   **近战与投掷：** 根据当前武器和键位提示进行挥击或投掷。
 
+<!-- i18n:section:faq -->
 ### 常见问题解答（FAQ）
 
 - **问：时间机制是怎么运作的？**  
@@ -47,3 +49,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 - **问：原型版大概有多少关？**  
     **答：** 原型版通常包含若干关卡，每关的敌人配置与挑战点不同，通关更多依赖你的节奏掌控与战术规划。
+

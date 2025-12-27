@@ -3,21 +3,23 @@ locale: zh
 urlstr: stick-fighter
 title: 《Stick Fighter》火柴人格斗
 description: 《Stick Fighter》是一款以火柴人为主角的横版格斗游戏。运用连招、跳跃和防御，在各种场景中与敌人展开一对一或一对多的战斗。
-iframeSrc: 'https://stickfighter.h5games.usercontent.goog/v/2d1k2v0l9xzq0/'
+iframeSrc: 'https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221209/4/index.html'
 thumbnail: /new-images/thumbnails/stick-fighter.jpg
 tags:
   - fighting
   - action
   - stickman
-score: 3.9/5  (1600 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
+score: 3.6/5  (1444 votes)
+releaseDate: 2025-08-16
 ---
 
 
+<!-- i18n:section:introduction -->
 ### 详细游戏介绍
 
 《Stick Fighter》延续了火柴人系列“简单线条却动作夸张”的风格。玩家操控火柴人战士，在不同关卡中与敌人互相搏斗，可以使用拳脚、武器以及简单连招来击败对手。游戏节奏较快，考验你对攻击时机、位移和防御的把握。
 
+<!-- i18n:section:tips -->
 ### 游玩策略与战斗指引
 
 
@@ -27,7 +29,10 @@ releaseDate: 2025-10-17T00:00:00.000Z
 3.  **善用位移：** 通过跳跃、后撤或翻滚躲开高伤害技能，再趁对方落地或收招时贴身输出，可以极大提高安全性。
 4.  **注意多敌人夹击：** 在一对多场景中，不要被集中到角落。适当风筝敌人、分批处理，避免被多段攻击连在一起。
 
+<!-- i18n:section:controls -->
 ### 操作说明
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `A` `D` `Left/Right Arrow Keys` `W` `Up Arrow` `S` `Down Arrow` `Left Mouse Button` `F` `Right Mouse Button` `G`
 
 
 操作通常沿用常见的 2D 平台动作布局：
@@ -36,9 +41,10 @@ releaseDate: 2025-10-17T00:00:00.000Z
 *   **防御 / 闪避：** 通过防御键或闪避键减少伤害或完全避开攻击，节奏感强的玩家可以尝试“读招后闪避”。
 
 
-- **格挡：** 鼠标右键 或 `G`
+- **格挡：** 鼠标右键 或 G
 
-- **攻击：** 鼠标左键 或 `F`
+- **攻击：** 鼠标左键 或 F
+<!-- i18n:section:faq -->
 ### 常见问题解答（FAQ）
 
 **这款游戏的核心目标是什么？**
@@ -52,3 +58,4 @@ releaseDate: 2025-10-17T00:00:00.000Z
 **游戏里有哪些武器？**
 
 武器库非常丰富，从剑、矛等近战武器，到手枪、霰弹枪等远程武器，甚至还有能发射蛇的火箭筒等“整活”装备。
+

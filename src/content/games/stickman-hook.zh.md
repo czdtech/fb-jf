@@ -3,17 +3,18 @@ locale: zh
 urlstr: stickman-hook
 title: 《Stickman Hook》火柴人荡绳
 description: 《Stickman Hook》是一款基于物理的火柴人荡绳闯关游戏。抓住钩点、甩动身体、把握松手时机，通过一连串荡秋千般的动作抵达终点。
-iframeSrc: 'https://stickmanhook.h5games.usercontent.goog/v/2ndv6g92q9oco/'
+iframeSrc: 'https://ubg98.github.io/StickmanHook/'
 thumbnail: /new-images/thumbnails/stickman-hook.jpg
 tags:
   - physics
   - platformer
   - stickman
-score: 4.3/5  (2300 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
+score: 3.7/5  (994 votes)
+releaseDate: 2025-08-16
 ---
 
 
+<!-- i18n:section:introduction -->
 ### 详细游戏介绍
 
 《Stickman Hook》是一款极具手感的物理闯关游戏。你操控的火柴人可以用绳索勾住前方的固定点，然后依靠惯性与重力进行摆荡，通过精准的松手与再次勾挂，在空中连贯地从一个支点飞向下一个，最终安全落到终点区域。关卡中会有不同高度与间距的钩点，有些还会搭配弹垫或移动平台，需要你灵活利用速度与角度。
@@ -33,6 +34,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 *   **松手飞行：** 松开按键即可让火柴人松开绳索，按当前速度和方向飞出；
 *   **重复上述动作：** 在空中不断重复勾住—松手—再勾住的节奏，直至到达终点。
 
+<!-- i18n:section:faq -->
 ### 常见问题解答（FAQ）
 
 
@@ -47,3 +49,4 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 - **问：游戏大概有多少关？**  
     **答：** 通常包含数十个关卡，每关的钩点布局与障碍组合都不同。
+

@@ -3,21 +3,23 @@ locale: zh
 urlstr: stickman-fighter-mega
 title: 《Stickman Fighter Mega》火柴人搏击：终极版
 description: 《Stickman Fighter Mega》是一款节奏紧凑的火柴人动作游戏。通过快速连击、格挡和反应，在一波又一波敌人中杀出重围，成为终极搏击大师。
-iframeSrc: 'https://stickmanfightermega.h5games.usercontent.goog/v/5e2h2p4u8l7g0/'
+iframeSrc: 'https://0f2fr1ttejsng.h5games.usercontent.goog/v/6dfsqbbtglo48/'
 thumbnail: /new-images/thumbnails/stickman-fighter-mega.jpg
 tags:
   - fighting
   - action
   - stickman
-score: 4.0/5  (1800 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
+score: 4.1/5  (1975 votes)
+releaseDate: 2025-10-18
 ---
 
 
+<!-- i18n:section:introduction -->
 ### 详细游戏介绍
 
 《Stickman Fighter Mega》以火柴人激烈肉搏为核心。敌人会从左右两侧不断涌来，你需要在极短时间内作出攻击或防御决策，用一连串拳脚和武器招式将所有敌人击倒。随着关卡推进，敌人的速度和数量都会提高，你也可以解锁更酷的武器、连招和外观。
 
+<!-- i18n:section:tips -->
 ### 游玩策略与战斗指引
 
 1.  **先练手感与节奏：** 游戏偏重节奏感，一味乱按容易打空或在硬直中被反击。建议先熟悉攻击判定节奏，再追求华丽连段。
@@ -27,22 +29,28 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 - **连招路线：** 轻击→重击→挑空→空中连段的收益很高。
+<!-- i18n:section:controls -->
 ### 操作说明
 
 *   **攻击：** 使用左右对应的按键（或点击屏幕两侧）向相应方向出拳/挥武器；
 *   **防御 / 特殊技：** 如有防御或技能键，可在敌人攻击前及时按下进行防御或反击；
 *   **升级：** 在关卡间的升级界面使用金币或点数强化角色和武器。
 
+<!-- i18n:section:faq -->
 ### 常见问题解答（FAQ）
 
+<!-- i18n:faq:id=faq:stickman-fighter-mega:i-get-stunlocked-61b761c8 -->
 - 问：我总是被连晕到动不了，怎么办？
   
   答：在连击间隙按住格挡，抓到空档立刻位移/翻滚脱离；不要在对方霸体或护甲期间硬按连打。
 
+<!-- i18n:faq:id=faq:stickman-fighter-mega:specials-feel-weak-6b9b414f -->
 - 问：大招感觉不够强，怎么用更有效？
   
   答：把大招留给怪群或多怪同时刷新的波次当作收割手段，不要浪费在单个目标上。
 
+<!-- i18n:faq:id=faq:stickman-fighter-mega:best-starter-combo-4e356e70 -->
 - 问：有没有一套通用的开局连招？
   
   答：轻击×2 → 重击 → 挑空 → 空中轻击×2（按版本键位调整），稳定且收益高。
+

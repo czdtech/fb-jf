@@ -3,21 +3,23 @@ locale: zh
 urlstr: stud-rider
 title: 《Stud Rider》山地越野骑手
 description: 《Stud Rider》是一款横版摩托越野游戏。驾驶你的摩托在起伏的山地上飞驰，控制油门与重心，在不翻车的前提下完成远距离跳跃和特技。
-iframeSrc: 'https://studrider.h5games.usercontent.goog/v/0q8l2v3a9d1g0/'
+iframeSrc: 'https://0mm8l94jf1g88.h5games.usercontent.goog/v/6fo3rapem7uio/'
 thumbnail: /new-images/thumbnails/stud-rider.png
 tags:
   - racing
   - motorcycle
   - stunt
-score: 3.9/5  (1500 votes)
+score: 3.9/5  (1707 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### 详细游戏介绍
 
 《Stud Rider》主打轻量级的摩托越野体验。场景中布满坡道、山丘和坑洼，你需要一边保持速度、一边通过重心控制来保证摩托在落地时保持稳定，避免前翻或后仰翻车。连续完成漂亮的起跳与落地，可以获得更高的得分与连击奖励。
 
+<!-- i18n:section:tips -->
 ### 游玩策略与通关指引
 
 1.  **控制油门节奏：** 在上坡前适当加速，在飞跃落点不明时则可以稍微收一点油门，保证有足够时间调整重心。
@@ -27,18 +29,23 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 - **记住跳跃距离：** 熟悉每个坡道的起跳距离，才能把连跳衔接得更顺。
+<!-- i18n:section:controls -->
 ### 操作说明
 
 *   **加速 / 减速：** 使用方向键或指定按键控制摩托前进与减速；
 *   **调整重心：** 使用左右方向键或对应按键控制骑手前倾/后仰；
 *   **跳跃（若支持）：** 在特定坡道或按跳跃键起跳，配合重心调整完成特技。
 
+<!-- i18n:section:faq -->
 ### 常见问题解答（FAQ）
 
+<!-- i18n:faq:id=faq:stud-rider:i-keep-tucking-the-front-1c01e1e1 -->
 - 问：我总是前翻/前轮栽地怎么办？
   
   答：起跳前稍微收一点油门，空中略微后仰，落地前再把车身拉平，让两轮尽量同时接地。
 
+<!-- i18n:faq:id=faq:stud-rider:flips-kill-my-speed-75e9869e -->
 - 问：做特技总是掉速怎么办？
   
   答：特技只在高度足够、落点明确时再做；大多数时候把重心放在“平稳落地”会更快更稳。
+
