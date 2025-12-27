@@ -11,6 +11,7 @@ tags:
   - dandyrunki retake
   - dandyrunki retake online
 score: 3.7/5  (255 votes)
+releaseDate: 2025-12-04
 ---
 
 ### Dandyrunki Retake 有什么好玩之处？
@@ -19,6 +20,7 @@ score: 3.7/5  (255 votes)
 撞出意想不到的火花。更棒的是，你完全不需要安装或下载，打开浏览器就能随时随地体验这款
 充满创意的音乐玩具。
  
+<!-- i18n:section:tips -->
 ### Dandyrunki Retake 核心玩法：
  
 - **角色选择：** 从 Dandyrunki Retake 提供的众多角色中挑选你的“乐队成员”。每个角色都有自
