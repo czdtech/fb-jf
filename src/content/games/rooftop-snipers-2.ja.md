@@ -1,19 +1,20 @@
 ---
 title: Rooftop Snipers 2
 description: Rooftop Snipers 2は物理挙動のある対戦シューティングです。屋上で撃ち合い、相手を落とした方が勝ちになります。
-iframeSrc: 'https://rooftopsnipers2.h5games.usercontent.goog/v/2j9k5m8h7p3n8/'
+iframeSrc: 'https://rebemanae.github.io/rooftop-snipers-2/'
 thumbnail: /new-images/thumbnails/rooftop-snipers-2.jpg
 urlstr: rooftop-snipers-2
-score: 4.3/5  (2567 votes)
+score: 4.1/5  (546 votes)
 tags:
   - action
   - 2 player
   - casual
 developer: ''
-releaseDate: 2025-10-17T00:00:00.000Z
+releaseDate: 2025-08-16
 locale: ja
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Rooftop Snipers 2は、屋上での物理ベース対戦を楽しめる続編です。狙い、射撃し、ジャンプしながらバランスを取り、相手を屋根から落とします。操作はシンプルですが、物理のクセで展開が変わります。
@@ -34,6 +35,7 @@ Rooftop Snipers 2は、屋上での物理ベース対戦を楽しめる続編で
 
 
 - **武器切り替え**: モードによっては、複数の武器を切り替えられます。
+<!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
 - **Q: これはオリジナルとどう違いますか？**  
@@ -50,3 +52,4 @@ Rooftop Snipers 2は、屋上での物理ベース対戦を楽しめる続編で
 
 
 **A**: バージョンによっては、複数の屋上マップが用意され、それぞれ配置や難しさが異なります。
+

@@ -1,19 +1,20 @@
 ---
 title: Ragdoll Archers
 description: Ragdoll Archersは物理ベースのアーチェリーゲームです。角度とパワーを調整して矢を放ち、相手を倒します。
-iframeSrc: 'https://ragdollarchers.h5games.usercontent.goog/v/5k9j2m8h7p3n8/'
+iframeSrc: 'https://bitlifeonline.github.io/ragdoll-archers/'
 thumbnail: /new-images/thumbnails/ragdoll-archers.jpg
 urlstr: ragdoll-archers
-score: 4.2/5  (2234 votes)
+score: 4.4/5  (466 votes)
 tags:
   - action
   - casual
   - 2 player
 developer: ''
-releaseDate: 2025-10-17T00:00:00.000Z
+releaseDate: 2025-08-16
 locale: ja
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Ragdoll Archersは、ラグドール物理を取り入れたアーチェリー対戦ゲームです。角度とパワーを調整して矢を放ち、相手を倒します。シングルプレイや対戦モードが用意されている場合があります。
@@ -34,6 +35,7 @@ Ragdoll Archersは、ラグドール物理を取り入れたアーチェリー�
 
 
 - **リロード**: バージョンによっては、矢の装填を手動で行う必要があります。
+<!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
 - **Q: マルチプレイヤーモードはありますか？**  
@@ -50,3 +52,4 @@ Ragdoll Archersは、ラグドール物理を取り入れたアーチェリー�
 
 
 **A**: モードによって異なります。矢に上限があるモードもあれば、無制限のモードもあります。
+

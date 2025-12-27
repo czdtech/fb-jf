@@ -1,19 +1,20 @@
 ---
 title: Run 3
 description: Run 3は宇宙トンネルを走るアクションです。壁で重力を切り替えながら落下を避け、先へ進みます。
-iframeSrc: 'https://run3.h5games.usercontent.goog/v/2j9k5m8h7p3n8/'
+iframeSrc: 'https://lekug.github.io/tn6pS9dCf37xAhkJv/index.html'
 thumbnail: /new-images/thumbnails/run-3.jpg
 urlstr: run-3
-score: 4.6/5  (5234 votes)
+score: 4.5/5  (650 votes)
 tags:
   - platformer
   - action
   - casual
 developer: ''
-releaseDate: 2025-10-17T00:00:00.000Z
+releaseDate: 2025-08-16
 locale: ja
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Run 3は、宇宙トンネルを走り抜けるRunシリーズの作品です。壁にジャンプして重力を切り替え、ギャップを避けながら先へ進みます。探索モードとエンドレスモードが用意されています。
@@ -32,6 +33,7 @@ Run 3は、宇宙トンネルを走り抜けるRunシリーズの作品です。
 - スペース：一時停止します。
 - トンネルから落ちないでください。
 
+<!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
 - **Q: これはエンドレスですか？**  
@@ -48,3 +50,4 @@ Run 3は、宇宙トンネルを走り抜けるRunシリーズの作品です。
 
 
 **A**: 特定のレベルをクリアしたり、条件を達成したりすると新しいキャラクターが解放されることがあります。
+

@@ -1,19 +1,20 @@
 ---
 title: Rooftop Snipers
 description: Rooftop Snipersは物理挙動のある対戦シューティングです。屋上で撃ち合い、相手を落とした方が勝ちになります。
-iframeSrc: 'https://rooftopsnipers.h5games.usercontent.goog/v/5k9j2m8h7p3n8/'
+iframeSrc: 'https://webglmath.github.io/rooftop-snipers/'
 thumbnail: /new-images/thumbnails/rooftop-snipers.jpg
 urlstr: rooftop-snipers
-score: 4.3/5  (2789 votes)
+score: 3.8/5  (995 votes)
 tags:
   - action
   - 2 player
   - casual
 developer: ''
-releaseDate: 2025-10-17T00:00:00.000Z
+releaseDate: 2025-08-16
 locale: ja
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Rooftop Snipersは、屋上で行われるシンプルですが陽気な物理ベースのスナイパーゲームです。2つのボタンコントロール：ジャンプとショット。対戦相手を屋根からノックするか、自分で落ちないようにします。
@@ -34,6 +35,7 @@ Rooftop Snipersは、屋上で行われるシンプルですが陽気な物理�
 
 
 - **同時操作**: 移動・ジャンプ・射撃を同時に使うと有利な場面があります。
+<!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
 - **Q: 2ボタンだけですか？**  
@@ -50,3 +52,4 @@ Rooftop Snipersは、屋上で行われるシンプルですが陽気な物理�
 
 
 **A**: 多くは2人対戦が中心ですが、AIと戦えるシングルプレイが用意されている場合もあります。
+

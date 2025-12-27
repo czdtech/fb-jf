@@ -1,19 +1,20 @@
 ---
 title: Retro Bowl
 description: Retro Bowlはアメフトのチーム運営ゲームです。編成や戦術を決め、試合に勝って優勝を目指します。
-iframeSrc: 'https://retrobowl.h5games.usercontent.goog/v/3k9j5m8h7p2n8/'
+iframeSrc: 'https://game316009.konggames.com/gamez/0031/6009/live/index.html'
 thumbnail: /new-images/thumbnails/retro-bowl.jpg
 urlstr: retro-bowl
-score: 4.6/5  (5678 votes)
+score: 3.5/5  (637 votes)
 tags:
   - sports
   - strategy
   - casual
 developer: ''
-releaseDate: 2025-10-17T00:00:00.000Z
+releaseDate: 2025-08-16
 locale: ja
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Retro Bowlは、レトロなピクセルアートでアメリカンフットボールの運営と試合を楽しめるゲームです。チームを編成し、選手を獲得し、試合中はプレイを選んでチームを優勝へ導きます。
@@ -34,6 +35,7 @@ Retro Bowlは、レトロなピクセルアートでアメリカンフットボ�
 
 
 - **戦術選択**: 試合中に攻守の戦術を切り替えられる場合があります。
+<!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
 - **Q: これは完全なフットボールシミュレーションですか？**  
@@ -50,3 +52,4 @@ Retro Bowlは、レトロなピクセルアートでアメリカンフットボ�
 
 
 **A**: 試合中にケガをして能力が下がることがあります。その場合はローテーションや選手管理が重要です。
+

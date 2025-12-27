@@ -1,18 +1,19 @@
 ---
 title: Shootz
 description: Shootzはターゲットを素早く撃つシューティングです。反射神経と正確さでスコアを伸ばします。
-iframeSrc: 'https://shootz.h5games.usercontent.goog/v/2j9k5m8h7p3n8/'
+iframeSrc: 'https://g.igroutka.ru/games/17/9IsudOxakgP0EVKC/shootz/'
 thumbnail: /new-images/thumbnails/shootz.jpg
 urlstr: shootz
-score: 4.0/5  (1723 votes)
+score: 3.7/5  (1015 votes)
 tags:
   - action
   - casual
 developer: ''
-releaseDate: 2025-10-18T00:00:00.000Z
+releaseDate: 2025-08-16
 locale: ja
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Shootzは、ターゲットを素早く正確に撃つことに挑戦します。ターゲットが現れ、消える前にそれらを撃ちます。反射神経と精度が高得点の鍵です。
@@ -35,6 +36,7 @@ Shootzは、ターゲットを素早く正確に撃つことに挑戦します�
 - **特殊スキル**: バージョンによってはスキルやアイテムが使える場合があります。
 
 - **武器切り替え**: 数字キーで武器を切り替えられる場合があります。
+<!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
 - **Q: タイムリミットはありますか？**  
@@ -51,3 +53,4 @@ Shootzは、ターゲットを素早く正確に撃つことに挑戦します�
 
 
 **A**: 狙いの練習を重ね、動くターゲットは少し先を撃つ意識を持つと当てやすくなります。可能ならマウス感度も調整します。
+

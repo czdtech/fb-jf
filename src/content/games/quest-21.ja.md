@@ -1,23 +1,25 @@
 ---
 title: Quest 21
 description: Quest 21はカード戦略ゲームです。21を目指し、バストを避け、対戦相手を打ち負かし、カードマスターになります。
-iframeSrc: 'https://quest21.h5games.usercontent.goog/v/3k9j5m8h7p2n8/'
+iframeSrc: 'https://7h2pln0tgo8q0.h5games.usercontent.goog/v/004k30od8uvog/'
 thumbnail: /new-images/thumbnails/quest-21.png
 urlstr: quest-21
-score: 4.1/5  (1834 votes)
+score: 4.5/5  (2700 votes)
 tags:
   - card
   - thinky
   - casual
 developer: ''
-releaseDate: 2025-10-18T00:00:00.000Z
+releaseDate: 2025-10-17
 locale: ja
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Quest 21は、ブラックジャックスタイルのゲームプレイと戦略要素を組み合わせます。21に到達するか、それに近づくことを目指しますが、バストしないでください。対戦相手と戦い、賢く賭け、各ラウンドで勝ちます。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **バストを避ける:** 21を超えないようにします。
@@ -36,6 +38,7 @@ Quest 21は、ブラックジャックスタイルのゲームプレイと戦略
 - **ヒット**: もう1枚引いて21に近づけます。
 
 - **ヒットかスタンドか**: 自分のターンは主にこの2択です。
+<!-- i18n:section:controls -->
 ### 操作ガイド
 
 
@@ -44,17 +47,17 @@ Quest 21は、ブラックジャックスタイルのゲームプレイと戦略
 - カードを管理し、決定を下します。
 - 対戦相手を打ち負かします。
 
+<!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
+<!-- i18n:faq:id=faq:quest-21:q-what-does-it-mean-e5ac60fa -->
 - **Q: これは通常のブラックジャックですか？**  
   A: 似ていますが、追加の戦略要素があります。
+<!-- i18n:faq:id=faq:quest-21:q-when-should-i-stand-c14c2328 -->
     - **Q: マルチプレイヤーですか？**  
   A: 一部のバージョンは対戦を提供します。
+<!-- i18n:faq:id=faq:quest-21:q-what-happens-if-there-89d681b5 -->
 - **Q: 引き分け（tie）や基本戦略は？**  
 
     - **A:** 引き分けは「プッシュ（push）」と呼ばれることがあります。多くの場合、勝ち負けは発生せず次のラウンドへ進みます。
 
-- **Q: ヒット／スタンドの判断はどうすればいいですか？**
-
-    - **A:** 目安として合計17以上（ハード17以上）はスタンドが安全寄りです。Aを11として数える「ソフト17」のような手では、ヒットが有効になる場合もあります。
-  A: バストを避け、賢く賭け、対戦相手を読みます。

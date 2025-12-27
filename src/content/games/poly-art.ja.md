@@ -1,10 +1,10 @@
 ---
 title: Poly Art
 description: Poly Artは3Dパズルゲームです。角度を回転させ、隠れた画像を見つけ、ポリゴンアートをマスターし、視覚的なパズルを解決します。
-iframeSrc: 'https://polyart.h5games.usercontent.goog/v/2j9k5m8h7p3n8/'
+iframeSrc: 'https://polyart.h5games.usercontent.goog/v/47aiosp2dbqgg/'
 thumbnail: /new-images/thumbnails/poly-art.png
 urlstr: poly-art
-score: 4.3/5  (2345 votes)
+score: 4.6/5  (2540 votes)
 tags:
   - puzzle
   - thinky
@@ -14,10 +14,12 @@ releaseDate: 2025-10-17T00:00:00.000Z
 locale: ja
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Poly Artは、3Dポリゴンクラウドを回転させて隠れた画像を見つけることに挑戦します。適切な角度から、ランダムな形状が認識可能なオブジェクトまたはシーンに変わります。リラックスしながら満足のいくパズル体験。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **ゆっくり回転:** 急いで回転しないでください。
@@ -26,6 +28,7 @@ Poly Artは、3Dポリゴンクラウドを回転させて隠れた画像を見�
 4.  **忍耐強く:** 一部のパズルはトリッキーです。
 5.  **ヒントを使用:** 行き詰まった場合、ヒントは正しい角度を示します。
 
+<!-- i18n:section:controls -->
 ### 操作ガイド
 
 
@@ -34,17 +37,17 @@ Poly Artは、3Dポリゴンクラウドを回転させて隠れた画像を見�
 - 適切な角度を見つけて画像を明らかにします。
 - 次のレベルに進みます。
 
+<!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
+<!-- i18n:faq:id=faq:poly-art:q-what-is-the-objective-0d640e0d -->
 - **Q: 画像が見つかりません。ヒントは？**  
   A: すべての角度を試してください。ヒントを使用します（利用可能な場合）。
+<!-- i18n:faq:id=faq:poly-art:q-im-stuck-and-cant-a8146d41 -->
     - **Q: どれくらいのレベルがありますか？**  
   A: バージョンによって異なります。多くは数百。
+<!-- i18n:faq:id=faq:poly-art:q-is-there-a-time-6feb9409 -->
 - **Q: タイムリミットはありますか？**  
 
     - **A:** 通常ありません。多くのPoly Art系は焦らず解けるように作られており、時間制限やスコア、ミスのペナルティがない場合があります。
 
-- **Q: ヒントはありますか？**
-
-    - **A:** バージョンによってはヒント機能があります。正しい向きに近づくように回転させたり、完成図を一瞬表示したりすることがあります。
-  A: 通常いいえ。リラックスした自分のペースのゲームです。

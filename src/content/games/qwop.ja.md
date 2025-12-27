@@ -1,19 +1,20 @@
 ---
 title: QWOP
 description: QWOPはランニングゲームです。太ももやふくらはぎを個別に操作して走らせる、独特の操作感が特徴です。
-iframeSrc: 'https://qwop.h5games.usercontent.goog/v/3k9j5m8h7p2n8/'
+iframeSrc: 'https://kdata1.com/2020/01/QWOP1/?webgl=true'
 thumbnail: /new-images/thumbnails/qwop.jpg
 urlstr: qwop
-score: 4.3/5  (3456 votes)
+score: 4.7/5  (808 votes)
 tags:
   - action
   - casual
   - novelty
 developer: ''
-releaseDate: 2025-10-17T00:00:00.000Z
+releaseDate: 2025-08-16
 locale: ja
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 QWOPは、個々の太ももとふくらはぎの筋肉を制御してランナーを走らせる悪名高く挑戦的なゲームです。物理ベースの動きは非常に難しく、100メートルを完成させることは重要な成果です。フラストレーションと陽気さの完璧なブレンド。
@@ -33,6 +34,7 @@ QWOPは、個々の太ももとふくらはぎの筋肉を制御してランナ�
 - O：左ふくらはぎ。
 - P：右ふくらはぎ。
 
+<!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
 - **Q: なぜこんなに難しいのですか？**  
@@ -49,3 +51,4 @@ QWOPは、個々の太ももとふくらはぎの筋肉を制御してランナ�
 
 
 **A**: はい。見た目は単純な「走る」動作でも、実際は精密な協調が必要であることを体感させる意図で作られています。
+

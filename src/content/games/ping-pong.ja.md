@@ -1,19 +1,20 @@
 ---
 title: Ping Pong
 description: Ping Pongは卓球ゲームです。パドルを動かしてボールを打ち返し、相手より多く得点します。
-iframeSrc: 'https://pingpong.h5games.usercontent.goog/v/3k9j5m8h7p2n8/'
+iframeSrc: 'https://ranimania.com/Games/pingpong/ping_pong/'
 thumbnail: /new-images/thumbnails/ping-pong.jpg
 urlstr: ping-pong
-score: 4.2/5  (2234 votes)
+score: 4.6/5  (193 votes)
 tags:
   - sports
   - casual
   - 2 player
 developer: ''
-releaseDate: 2025-10-17T00:00:00.000Z
+releaseDate: 2025-08-16
 locale: ja
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Ping Pongは、クラシックな卓球をデジタル形式で再現します。パドルを制御してボールを打ち返し、対戦相手を打ち負かし、ポイントを獲得します。シンプルなゲームプレイ、挑戦的なマスタリー。
@@ -32,6 +33,7 @@ Ping Pongは、クラシックな卓球をデジタル形式で再現します�
 - ボールを打ち返します。
 - ポイントを獲得するためにパスします。
 
+<!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
 - **Q: シングルプレイヤーモードはありますか？**  
@@ -48,3 +50,4 @@ Ping Pongは、クラシックな卓球をデジタル形式で再現します�
 
 
 **A**: 多くの卓球ゲームは、同じ端末で2人対戦できるローカル対戦に対応しています。
+

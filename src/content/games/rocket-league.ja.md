@@ -1,19 +1,20 @@
 ---
 title: Rocket League
 description: Rocket Leagueはカーサッカーゲームです。車を運転してボールを打ち、ゴールを決めて勝利を目指します。
-iframeSrc: 'https://rocketleague.h5games.usercontent.goog/v/5k9j2m8h7p3n8/'
+iframeSrc: 'https://ubg77.github.io/edit/rocket-soccer-derby/'
 thumbnail: /new-images/thumbnails/rocket-league.jpg
 urlstr: rocket-league
-score: 4.5/5  (4567 votes)
+score: 4.7/5  (530 votes)
 tags:
   - sports
   - action
   - 2 player
 developer: ''
-releaseDate: 2025-10-17T00:00:00.000Z
+releaseDate: 2025-08-16
 locale: ja
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Rocket Leagueは、サッカーとロケットパワード車を組み合わせます。アリーナを運転し、空中アクロバットを実行し、ボールをゴールに打ち込みます。チームプレイ、スキル、戦略が勝利の鍵です。
@@ -34,6 +35,7 @@ Rocket Leagueは、サッカーとロケットパワード車を組み合わせ�
 
 
 - **空中操作**: 空中でも操作して車体の向きや進行方向を調整します。
+<!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
 - **Q: これは完全なRocket Leagueですか？**  
@@ -50,3 +52,4 @@ Rocket Leagueは、サッカーとロケットパワード車を組み合わせ�
 
 
 **A**: 基本操作を繰り返し練習し、上手い人のプレイを見ながら、少しずつ応用テクニックを覚えるのが近道です。
+

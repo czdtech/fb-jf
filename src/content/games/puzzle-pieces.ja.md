@@ -1,20 +1,22 @@
 ---
 title: "Puzzle Pieces"
 description: "Puzzle Piecesはクラシックなジグソーパズルです。ピースを配置し、画像を完成させ、リラックスしたパズルを楽しみます。"
-iframeSrc: "https://puzzlepieces.h5games.usercontent.goog/v/5k9j2m8h7p3n8/"
+iframeSrc: "https://05c9vfh919cbg.h5games.usercontent.goog/v/0ki2bua5asq00/"
 thumbnail: /new-images/thumbnails/puzzle-pieces.png
 urlstr: "puzzle-pieces"
-score: "4.2/5  (2089 votes)"
+score: "4.0/5  (1888 votes)"
 tags: ["puzzle", "casual"]
 developer: ""
-releaseDate: 2025-10-17
+releaseDate: 2025-10-18
 locale: ja
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Puzzle Piecesは、デジタル形式のクラシックなジグソーパズルです。ピースをドラッグして正しい位置に配置し、美しい画像を完成させます。エッジから始め、色とパターンをマッチングするためにパズルを構築します。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **エッジから始める:** 最初にボーダーピースを見つけて配置します。
@@ -23,17 +25,23 @@ Puzzle Piecesは、デジタル形式のクラシックなジグソーパズル�
 4.  **セクションで作業:** 一度に小さなエリアを完成させます。
 5.  **忍耐強く:** リラックスして楽しんでください。
 
+<!-- i18n:section:controls -->
 ### 操作ガイド
 
 - ピースをドラッグ＆ドロップして配置します。
 - 回転（利用可能な場合）：右クリックまたはボタン。
 - 画像を完成させます。
 
+<!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
+<!-- i18n:faq:id=faq:puzzle-pieces:a-piece-never-fitsbug-03363afc -->
 - **Q: どれくらいのパズルがありますか？**  
   A: バージョンによって異なります。多くは複数の画像を持っています。
+<!-- i18n:faq:id=faq:puzzle-pieces:timers-f7f052c1 -->
 - **Q: 難易度を変更できますか？**  
   A: 一部のバージョンには異なるピースカウントがあります。
+<!-- i18n:faq:id=faq:puzzle-pieces:hints-27c5017f -->
 - **Q: 進行状況を保存できますか？**  
   A: 多くのバージョンは自動保存を提供します。
+

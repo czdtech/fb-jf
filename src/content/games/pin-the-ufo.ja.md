@@ -1,10 +1,10 @@
 ---
 title: Pin the UFO
 description: Pin the UFOは物理パズルです。ピンを抜く順番を考え、重力の動きを利用してUFOまで導きます。
-iframeSrc: 'https://pintheufo.h5games.usercontent.goog/v/5k9j2m8h7p3n8/'
+iframeSrc: 'https://pintheufo.h5games.usercontent.goog/v/08ukqv01ac45o/'
 thumbnail: /new-images/thumbnails/pin-the-ufo.jpeg
 urlstr: pin-the-ufo
-score: 4.0/5  (1723 votes)
+score: 3.8/5 (750 votes)
 tags:
   - puzzle
   - thinky
@@ -14,6 +14,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Pin the UFOは、ピンを引いてUFOを着陸パッドに導く物理ベースのパズルです。重力、障害物、タイミングが重要な役割を果たします。各レベルは、ますます複雑な配置を提示します。
@@ -36,6 +37,7 @@ Pin the UFOは、ピンを引いてUFOを着陸パッドに導く物理ベース
 
 - **色の伝播**: まず色を付けてからUFOへ流す順序を意識します。
 各レベルは、ピンで区切られた容器の中にエイリアンが入った構造です。ピンを抜く順序を分析し、重力で流れるようにしてUFOへ導きます。
+<!-- i18n:section:tips -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **先を計画:** ピンを引く前に物理を視覚化します。
@@ -44,6 +46,7 @@ Pin the UFOは、ピンを引いてUFOを着陸パッドに導く物理ベース
 4.  **障害物を避ける:** スパイクと危険に注意してください。
 5.  **タイミング:** 一部のレベルには移動部品があります。
 
+<!-- i18n:section:controls -->
 ### 操作ガイド
 
 
@@ -52,22 +55,24 @@ Pin the UFOは、ピンを引いてUFOを着陸パッドに導く物理ベース
 - 物理がUFOを導きます。
 - 着陸パッドに到達してレベルをクリアします。
 
+<!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
+<!-- i18n:faq:id=faq:pin-the-ufo:why-did-i-lose-the-16a3165c -->
 - **Q: UFOがクラッシュし続けます。ヒントは？**  
   A: ピンシーケンスを計画し、物理を視覚化し、タイミングを使用します。
+<!-- i18n:faq:id=faq:pin-the-ufo:i-pulled-a-pin-and-3d8783b1 -->
 - **Q: レベルをスキップできますか？**  
   A: 一部のバージョンでは可能ですが、順番にプレイすることが推奨されます。
+<!-- i18n:faq:id=faq:pin-the-ufo:the-level-seems-impossible-wha-2caf72de -->
 - **Q: どれくらいのレベルがありますか？**  
   A: バージョンによって異なります。多くは数十。
 
 
 目的は、色付きのエイリアンをすべてUFOに入れて各レベルを解くことです。クリアしながら先のレベルへ進みます。
 
+<!-- i18n:faq:id=faq:pin-the-ufo:what-is-the-goal-of-c816fee5 -->
 **4. ゲームの目的は何ですか？**
 
 どのレベルにも解法があります。詰まったらピンを抜く順序を見直してみてください。いきなり出口に向かうのではなく、流れを作るためのピンから抜くのが有効な場合もあります。
 
-**3. 不可能に見えるレベルはどうすればいいですか？**
-
-エイリアンが爆弾に触れてしまった状態です。まず爆弾を処理する手順を探すか、爆弾を避ける流れになるようにピンの順序を組み立てましょう。

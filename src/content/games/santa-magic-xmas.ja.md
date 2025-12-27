@@ -1,22 +1,24 @@
 ---
 title: Santa Magic Xmas
 description: Santa Magic Xmasはサンタのアドベンチャーゲームです。魔法を使いながらプレゼントを配達し、時間内のクリアを目指します。
-iframeSrc: 'https://santamagicxmas.h5games.usercontent.goog/v/5k9j2m8h7p3n8/'
+iframeSrc: 'https://santamagicxmas.h5games.usercontent.goog/v/27gpp489kce80/'
 thumbnail: /new-images/thumbnails/santa-magic-xmas.png
 urlstr: santa-magic-xmas
-score: 4.0/5  (1723 votes)
+score: 4.4/5  (2250 votes)
 tags:
   - casual
   - adventure
 developer: ''
-releaseDate: 2025-10-18T00:00:00.000Z
+releaseDate: 2025-10-17
 locale: ja
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Santa Magic Xmasは、サンタが魔法を使ってプレゼントを配達するホリデーアドベンチャーです。障害物を避けながら進み、時間内に配達を終えることを目指します。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **魔法を賢く使う:** 魔法は必要な場面で使います。
@@ -29,6 +31,7 @@ Santa Magic Xmasは、サンタが魔法を使ってプレゼントを配達す�
 - **近場から片付ける:** まず近い配達先や安全なルートから進めると、失敗が減ります。
 
 - **目標を優先:** ステージごとの目標（配達数、制限時間、到達地点など）を確認し、達成に直結する行動を優先します。
+<!-- i18n:section:controls -->
 ### 操作ガイド
 
 
@@ -37,17 +40,17 @@ Santa Magic Xmasは、サンタが魔法を使ってプレゼントを配達す�
 - スペース/特定のキー：魔法を使用します。
 - すべてのプレゼントを配達します。
 
+<!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
+<!-- i18n:faq:id=faq:santa-magic-xmas:q-how-do-i-break-3176561d -->
 - **Q: これは季節限定ですか？**  
   A: いいえ、年中プレイできます。
+<!-- i18n:faq:id=faq:santa-magic-xmas:q-what-is-the-most-eca73219 -->
     - **Q: どのような魔法の力がありますか？**  
   A: テレポート、スピードブースト、障害物除去など。
+<!-- i18n:faq:id=faq:santa-magic-xmas:q-what-happens-if-i-63c9772b -->
 - **Q: 制限内に目標を達成できないとどうなりますか？**  
 
     - **A:** 制限（時間や手数など）内に目標を達成できない場合は、レベルをやり直しになります。
 
-- **Q: 強力な魔法や有利な動きはありますか？**
-
-    - **A:** バージョンによっては、強力な魔法や効果を組み合わせると障害をまとめて処理できることがあります。
-  A: バージョンによって異なります。状況に合わせて使い分けるのが大切です。

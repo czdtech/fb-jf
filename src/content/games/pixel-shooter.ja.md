@@ -1,18 +1,19 @@
 ---
 title: Pixel Shooter
 description: Pixel Shooterはレトロ風のアクションシューターです。敵の波をしのぎ、武器を強化しながら生き残りを目指します。
-iframeSrc: 'https://pixelshooter.h5games.usercontent.goog/v/2j9k5m8h7p3n8/'
+iframeSrc: 'https://a.onlineigry.net/games3/igra-piksel-shuter/index.htm'
 thumbnail: /new-images/thumbnails/pixel-shooter.jpg
 urlstr: pixel-shooter
-score: 4.1/5  (1867 votes)
+score: 3.9/5  (682 votes)
 tags:
   - action
   - shooter
 developer: ''
-releaseDate: 2025-10-18T00:00:00.000Z
+releaseDate: 2025-08-16
 locale: ja
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Pixel Shooterは、レトロなピクセルアートスタイルのアクションシューターです。敵の波と戦い、武器をアップグレードし、弾薬を管理し、できるだけ長く生き残ります。ノスタルジックなグラフィックと激しいアクション。
@@ -33,6 +34,7 @@ Pixel Shooterは、レトロなピクセルアートスタイルのアクショ�
 
 
 - **武器切り替え**: バージョンによっては、数字キーやマウスホイールで武器を切り替えられます。
+<!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
 - **Q: 継続的に殺される。ヒントは？**  
@@ -49,3 +51,4 @@ Pixel Shooterは、レトロなピクセルアートスタイルのアクショ�
 
 
 **A**: 回復アイテム（ヘルスパック）は体力を回復し、戦闘を継続しやすくします。
+

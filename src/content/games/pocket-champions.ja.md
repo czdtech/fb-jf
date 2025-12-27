@@ -1,23 +1,25 @@
 ---
 title: Pocket Champions
 description: Pocket Championsは格闘ゲームです。キャラクターを選び、攻防の読み合いとコンボで相手に勝ちます。
-iframeSrc: 'https://pocketchampions.h5games.usercontent.goog/v/2j9k5m8h7p3n8/'
+iframeSrc: 'https://pocketchampions.h5games.usercontent.goog/v/24houhjfrhfi8/'
 thumbnail: /new-images/thumbnails/pocket-champions.png
 urlstr: pocket-champions
-score: 4.0/5  (1723 votes)
+score: 4.4/5  (2600 votes)
 tags:
   - action
   - 2 player
   - casual
 developer: ''
-releaseDate: 2025-10-18T00:00:00.000Z
+releaseDate: 2025-10-17
 locale: ja
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Pocket Championsは、さまざまなファイターで戦う格闘ゲームです。キャラクターごとに技や動きが異なり、コンボや必殺技を使い分けて相手を倒します。操作はシンプルですが、距離感とタイミングが重要です。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **キャラクターを学ぶ:** 各チャンピオンの移動を知ります。
@@ -26,6 +28,7 @@ Pocket Championsは、さまざまなファイターで戦う格闘ゲームで�
 4.  **スペシャルのタイミング:** 適切な瞬間に強力な移動を使用します。
 5.  **距離を管理:** 範囲とタイミングを制御します。
 
+<!-- i18n:section:controls -->
 ### 操作ガイド
 
 
@@ -34,17 +37,17 @@ Pocket Championsは、さまざまなファイターで戦う格闘ゲームで�
 - 特定のキー：攻撃、ブロック、スペシャル（バージョンによる）。
 - コンボのために攻撃を連鎖させます。
 
+<!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
+<!-- i18n:faq:id=faq:pocket-champions:q-how-do-i-control-84ef48a4 -->
 - **Q: 最高のチャンピオンは何ですか？**  
   A: プレイスタイルによって異なります。すべてを試してください。
+<!-- i18n:faq:id=faq:pocket-champions:q-how-do-i-win-16b4fad9 -->
     - **Q: マルチプレイヤーモードはありますか？**  
   A: 一部のバージョンはローカルまたはオンライン対戦を提供します。
+<!-- i18n:faq:id=faq:pocket-champions:q-what-is-the-best-a00d8be9 -->
 - **Q: コンボをどのように実行しますか？**  
 
     - **A:** 万能な手はありません。相手の動きや距離に合わせて、当てやすい技やつなぎやすい連係を選びます。
 
-- **Q: 勝つためのコツはありますか？**
-
-    - **A:** 距離を管理しつつ、無理に攻めすぎないことが大切です。相手の癖を見て、ガードや回避を混ぜながら確実に当てられる場面で攻めましょう。
-  A: タイミングで攻撃を連鎖させます。チュートリアルを確認してください。

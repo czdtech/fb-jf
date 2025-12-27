@@ -1,10 +1,10 @@
 ---
 title: Slime.io
 description: Slime.ioはスライムの成長ゲームです。小さい相手やアイテムを吸収して成長し、大きい相手を避けます。
-iframeSrc: 'https://slimeio.h5games.usercontent.goog/v/2j9k5m8h7p3n8/'
+iframeSrc: 'https://slime-io.h5games.usercontent.goog/v/3p2ufrjemduhg/'
 thumbnail: /new-images/thumbnails/slime-io.png
 urlstr: slime-io
-score: 4.2/5  (2234 votes)
+score: 4.3/5  (2500 votes)
 tags:
   - action
   - 2 player
@@ -14,10 +14,12 @@ releaseDate: 2025-10-17T00:00:00.000Z
 locale: ja
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Slime.ioは、より小さなスライムやアイテムを吸収して成長する成長ゲームです。大きい相手を避けつつ小さい相手を狙い、ランキング上位を目指します。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **小さく始める:** 最初に小さなスライムを食べます。
@@ -26,6 +28,7 @@ Slime.ioは、より小さなスライムやアイテムを吸収して成長す
 4.  **端を利用:** 壁際は追い込みやすい反面、逃げにくくもなります。
 5.  **焦らない:** 無理な突っ込みは狙われやすくなります。
 
+<!-- i18n:section:controls -->
 ### 操作ガイド
 
 
@@ -34,17 +37,17 @@ Slime.ioは、より小さなスライムやアイテムを吸収して成長す
 - スペース/ボタン：より速いスライムに分割します。
 - より小さなスライムを食べます。
 
+<!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
+<!-- i18n:faq:id=faq:slime-io:q-how-do-i-grow-2d51df97 -->
 - **Q: 分割はいつ使用すべきですか？**  
   A: 小さなスライムを捕まえるため、または危険から逃れるため。
+<!-- i18n:faq:id=faq:slime-io:q-can-i-eat-other-10258eb5 -->
     - **Q: 最大サイズはありますか？**  
   A: いいえ、成長し続けることができます。
+<!-- i18n:faq:id=faq:slime-io:q-how-do-i-win-82c5f7c2 -->
 - **Q: マルチプレイヤーですか？**  
 
     - **A:** はい。リアルタイムで他のプレイヤーと同じフィールドで競います（バージョンによって仕様が異なる場合があります）。
 
-- **Q: 勝つにはどうすればいいですか？**
-
-    - **A:** 自分より小さい相手は吸収できます。大量に吸収すると一気に伸びますが、さらに大きい相手に狙われるので注意が必要です。
-  A: ラウンド制の場合は、終了時にスコアが高いプレイヤーが勝者になります。スコアは吸収した量（アイテムや相手）に応じて増えます。

@@ -1,18 +1,19 @@
 ---
 title: Pokemon Fire Red
 description: Pokemon Fire Redはポケモンのアドベンチャーゲームです。カントー地方を冒険し、ポケモンを捕獲してジムバッジを集めます。
-iframeSrc: 'https://pokemonfirered.h5games.usercontent.goog/v/3k9j5m8h7p2n8/'
+iframeSrc: 'https://picklekid31.github.io/GBA-unblocked-games/launcher.html#pokemonred'
 thumbnail: /new-images/thumbnails/pokemon-fire-red.jpg
 urlstr: pokemon-fire-red
-score: 4.7/5  (7234 votes)
+score: 4.0/5  (705 votes)
 tags:
   - adventure
   - casual
 developer: ''
-releaseDate: 2025-10-17T00:00:00.000Z
+releaseDate: 2025-08-16
 locale: ja
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Pokemon Fire Redは、オリジナルのポケモンレッド/グリーンのリメイクです。カントー地方を旅し、151のオリジナルポケモンを捕獲して訓練し、8つのジムバッジを獲得し、エリート4に挑戦します。ノスタルジックで、改良された機能があります。
@@ -34,6 +35,7 @@ Pokemon Fire Redは、オリジナルのポケモンレッド/グリーンのリ
 
 
 - **Select（アイテム登録）**: よく使う道具をバッグで登録し、すぐ使えるようにします。
+<!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
 - **Q: これはオリジナルとどう違いますか？**  
@@ -50,3 +52,4 @@ Pokemon Fire Redは、オリジナルのポケモンレッド/グリーンのリ
 
 
 **A**: 『ファイアレッド』と『リーフグリーン』は同世代の別バージョンで、一部の野生ポケモンの出現や、NPCの台詞などに違いがあります。
+

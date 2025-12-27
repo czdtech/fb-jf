@@ -1,19 +1,20 @@
 ---
 title: Rotate
 description: Rotateは回転パズルゲームです。世界を回転させ、障害物をナビゲートし、ゴールに到達し、視点をマスターします。
-iframeSrc: 'https://rotate.h5games.usercontent.goog/v/3k9j5m8h7p2n8/'
+iframeSrc: 'https://rebemanae.github.io/rotate/'
 thumbnail: /new-images/thumbnails/rotate.jpg
 urlstr: rotate
-score: 4.1/5  (1867 votes)
+score: 4.9/5  (1155 votes)
 tags:
   - puzzle
   - thinky
   - platformer
 developer: ''
-releaseDate: 2025-10-18T00:00:00.000Z
+releaseDate: 2025-08-16
 locale: ja
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Rotateは、世界全体を回転させて障害物をナビゲートするユニークなパズルプラットフォーマーです。重力を使用してキャラクターを移動し、ギャップをジャンプし、ゴールに到達します。視点と空間認識が重要です。
@@ -32,6 +33,7 @@ Rotateは、世界全体を回転させて障害物をナビゲートするユ�
 - Q/E（またはマウス）：世界を回転させます。
 - ゴールに到達します。
 
+<!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
 - **Q: 回転は何度ですか？**  
@@ -48,3 +50,4 @@ Rotateは、世界全体を回転させて障害物をナビゲートするユ�
 
 
 **A**: Rotateは複数のワールドや多数のレベルで構成されることが多く、進むほど難しくなっていきます。
+

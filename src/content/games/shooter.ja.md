@@ -1,18 +1,19 @@
 ---
 title: Shooter
 description: Shooterはアクションシューターです。敵の波をしのぎ、武器を強化しながら生き残りを目指します。
-iframeSrc: 'https://shooter.h5games.usercontent.goog/v/3k9j5m8h7p2n8/'
+iframeSrc: 'https://bitlifeonline.github.io/fnaf-shooter/'
 thumbnail: /new-images/thumbnails/shooter.jpg
 urlstr: shooter
-score: 4.1/5  (1934 votes)
+score: 4.1/5  (805 votes)
 tags:
   - action
   - shooter
 developer: ''
-releaseDate: 2025-10-18T00:00:00.000Z
+releaseDate: 2025-08-16
 locale: ja
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Shooterは、敵の波と戦うアクションシューターです。武器をアップグレードし、弾薬を管理しながら正確に撃って生き残ります。操作はシンプルですが、立ち回りが重要です。
@@ -35,6 +36,7 @@ Shooterは、敵の波と戦うアクションシューターです。武器を�
 - **武器切り替え**: 数字キーやマウスホイールで武器を切り替えます（対応している場合）。
 
 - **リロード**: Rキーでリロードします（対応している場合）。
+<!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
 - **Q: エンドレスですか？**  
@@ -51,3 +53,4 @@ Shooterは、敵の波と戦うアクションシューターです。武器を�
 
 
 **A**: 落ち着いて、まず近い脅威から処理します。地形や遮蔽物を使って敵の集団を分断すると戦いやすくなります。
+

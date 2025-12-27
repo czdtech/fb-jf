@@ -1,18 +1,19 @@
 ---
 title: Slice Master
 description: Slice Masterはスライシングアクションゲームです。果物を切って得点し、爆弾を避けながらコンボをつなぎます。
-iframeSrc: 'https://slicemaster.h5games.usercontent.goog/v/3k9j5m8h7p2n8/'
+iframeSrc: 'https://bitlifeonline.github.io/slice-master/'
 thumbnail: /new-images/thumbnails/slice-master.jpg
 urlstr: slice-master
-score: 4.2/5  (2156 votes)
+score: 4.3/5  (480 votes)
 tags:
   - action
   - casual
 developer: ''
-releaseDate: 2025-10-17T00:00:00.000Z
+releaseDate: 2025-08-16
 locale: ja
 ---
 
+<!-- i18n:section:introduction -->
 ### ゲーム紹介
 
 Slice Masterは、画面を横切って飛んでくる果物をスライスすることに挑戦します。爆弾を避け、コンボを構築し、高得点を獲得します。Fruit Ninjaスタイルのゲームプレイで、反射神経と精度が必要です。
@@ -31,6 +32,7 @@ Slice Masterは、画面を横切って飛んでくる果物をスライスす�
 - 爆弾を避けます。
 - コンボでより高いスコア。
 
+<!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
 - **Q: これはFruit Ninjaと同じですか？**  
@@ -47,3 +49,4 @@ Slice Masterは、画面を横切って飛んでくる果物をスライスす�
 
 
 **A**: 連続で成功させてコンボを伸ばし、報酬アイテムがある場合は回収しつつ、爆弾などの危険物を避けるのが基本です。
+
