@@ -7,6 +7,7 @@ urlstr: "fiddlebops-polos"
 score: "4.6/5  (217 votes)"
 tags: ["fiddlebops polos"]
 locale: ja
+releaseDate: 2025-12-04
 ---
 
 ### Fiddlebops Polosの特徴
@@ -32,3 +33,4 @@ Fiddlebops Polosは、オリジナルキャラクターとサウンドを使っ�
 まずは気になるサウンドから試し、曲の骨格を作っていくと進めやすいです。短い時間でも遊べるので、気分転換にも向いています。
 
 Fiddlebops Polosで、ループを組み合わせた音作りを楽しんでみてください。
+

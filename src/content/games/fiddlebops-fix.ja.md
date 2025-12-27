@@ -7,6 +7,7 @@ urlstr: "fiddlebops-fix"
 score: "4.6/5  (217 votes)"
 tags: ["fiddlebops fix"]
 locale: ja
+releaseDate: 2025-12-04
 ---
 
 ### Fiddlebops Fixは何が特別なの？
@@ -32,3 +33,4 @@ Fiddlebops Fixは、オリジナルキャラクターとサウンドを使って
 まずは気になるサウンドから試し、曲の骨格を作っていくと進めやすいです。短い時間でも遊べるので、気分転換にも向いています。
 
 Fiddlebops Fixで、ループを組み合わせた音作りを楽しんでみてください。
+

@@ -7,8 +7,10 @@ urlstr: "fiddlebops-sprunkbop"
 score: "4.1/5  (308 votes)"
 tags: ["fiddlebops sprunkbop"]
 locale: ja
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 Fiddlebops Sprunkbopは、Incredibox系のドラッグ＆ドロップ型音楽制作をリミックスしたファン製Modです。公式作品ではありませんが、新しいキャラクターとサウンドでループを重ね、雰囲気の違うトラックを作れます。
 
 ### Fiddlebops SprunkbopはどんなMod？
@@ -37,3 +39,4 @@ Fiddlebops Sprunkbopは、Incredibox系のドラッグ＆ドロップ型音楽�
 ### まとめ：
 
 Fiddlebops Sprunkbopは、ドラッグ＆ドロップでループを組み立てる音楽制作Modです。サウンドとキャラクターの組み合わせを変えながら、自分好みのトラックを作ってみてください。
+

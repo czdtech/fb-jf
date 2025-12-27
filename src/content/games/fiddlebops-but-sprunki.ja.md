@@ -7,8 +7,10 @@ urlstr: "fiddlebops-but-sprunki"
 score: "4.2/5  (94 votes)"
 tags: ["fiddlebops but sprunki"]
 locale: ja
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 FiddleBops but Sprunkiは、Fiddlebopsの定番の音楽制作に、Sprunkiのキャラクターと演出を組み合わせたModです。操作はシンプルなまま、見た目とサウンドがSprunki仕様になっています。
 
 ### そもそもFiddleBops but Sprunkiって何？
@@ -38,3 +40,4 @@ FiddleBops but Sprunkiは、Fiddlebopsの音楽制作の流れを保ちつつ、
 FiddlebopsやSprunkiが好きなら、雰囲気違いの音作りを試すのにちょうどいいModです。曲作りをしたい人にも、見た目の変化を楽しみたい人にも向いています。
 
 まとめると、FiddleBops but Sprunkiは「Fiddlebopsの作り方 × Sprunkiの見た目と音」を楽しむクロスオーバーModです。組み合わせを変えながら、自分好みのループを作ってみてください。
+

@@ -7,8 +7,10 @@ urlstr: "fiddlebops-but-dandys-world"
 score: "4.6/5  (27 votes)"
 tags: ["fiddlebops but dandy"]
 locale: ja
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 Fiddlebops But Dandy's Worldは、Incredibox系の音楽制作をベースに、Dandy's Worldの雰囲気を組み合わせたModです。Dandyの案内役と一緒に、個性的なFiddlebopsメンバーへサウンドを割り当てて、ループを重ねながら曲を作っていきます。
 
 ## このModの特徴
@@ -35,3 +37,4 @@ Fiddlebops But Dandy's Worldは、Incredibox系の音楽制作をベースに、
 Dandy's Worldの要素が加わることで、同じ操作でも見た目と音の印象が変わります。気になる組み合わせを試しながら、自分だけのループを作ってみてください。
 
 Fiddlebops But Dandy's Worldで、Dandy's Worldの雰囲気を取り入れた音作りを楽しみましょう。
+

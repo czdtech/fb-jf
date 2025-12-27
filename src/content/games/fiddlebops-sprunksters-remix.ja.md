@@ -7,8 +7,10 @@ urlstr: "fiddlebops-sprunksters-remix"
 score: "4.1/5  (127 votes)"
 tags: ["fiddlebops sprunksters remix"]
 locale: ja
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 Fiddlebops Sprunkstersは、Incredibox系の音楽制作をベースにしたファン製Modです。キャラクターとサウンドが刷新され、ドラッグ＆ドロップでループを重ねて曲を作れます。
 
 ### Fiddlebops Sprunkstersとは？
@@ -38,3 +40,4 @@ Fiddlebops Sprunkstersにはイースターエッグもあります。黒い帽�
 
 
 Fiddlebops Sprunkstersは、見た目とサウンドが刷新された音楽制作Modです。まずはキャラクターを入れ替えながら、気に入るループを探してみてください。
+
