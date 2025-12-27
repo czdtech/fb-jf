@@ -10,11 +10,12 @@ thumbnail: /new-images/thumbnails/elite-chess.png
 tags:
   - thinky
   - puzzle
-score: 4.4/5  (2326 票)
+score: 4.4/5  (2326 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### 详细游戏介绍
 
 《Elite Chess》提供一个精简干净的国际象棋体验，你可以对战可调强度的电脑 AI，
@@ -28,6 +29,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 内建的习题与可调等级能帮助你训练计算深度、记忆典型格局与战术模式。
 
+<!-- i18n:section:tips -->
 ### 玩法策略与通关思路
 
 1.  **开局：** 优先用兵占据中心（例如 e4 / d4 / c4），先出马再出象，及早王车易位，
@@ -41,6 +43,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 5.  **时间管理：** 时间紧张时，尽量选择稳健、简单、无明显缺点的招法，
     避免进入复杂计算却容易失误的变化。
 
+<!-- i18n:section:controls -->
 ### 操作指南
 
 - 点击棋子可以高亮所有合法走法，再点击目的格完成落子。
@@ -52,19 +55,24 @@ releaseDate: 2025-10-18T00:00:00.000Z
 - 10 分钟回顾自己对局中的重大失误，
 - 10 分钟用固定开局下完整一盘专注练习局，三者循环即可稳定进步。
 
+<!-- i18n:section:faq -->
 ### 常见问题（FAQ）
 
+<!-- i18n:faq:id=faq:elite-chess:how-do-i-stop-blundering-55a7e759 -->
 - 问：怎么才能减少「送子」的低级失误？
   
   答：在每一步落子前，用几秒检查自己王的安全与「无保护的子力」，
   同时替双方都跑一遍 CCT（将军、吃子、威胁），把所有战术招法看过一轮再决定。
 
+<!-- i18n:faq:id=faq:elite-chess:which-openings-should-i-start-f6481df6 -->
 - 问：新手该从哪些开局开始学？
   
   答：拿白棋时可以尝试义大利开局或后翼弃兵（1.d4 d5 2.c4）；
   拿黑棋对 1.e4 可以学 Caro-Kann 或西西里防御，对 1.d4 则可使用斯拉夫或拒守后翼弃兵。
 
+<!-- i18n:faq:id=faq:elite-chess:what-endgames-give-fastest-rat-d96221ee -->
 - 问：哪类残局最值得优先研究？
   
   答：王兵基本残局与车兵残局，这些在实战中出现频率最高，
   能让你把优势稳稳转化成胜势，对积分提升最有帮助。
+

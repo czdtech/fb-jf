@@ -6,16 +6,19 @@ title: "Fiddlebops Sprunki - 在线玩 Fiddlebops Sprunki"
 description: "Fiddlebops Sprunki 通过添加令人愉悦的转折为原版 Sprunki 游戏注入了新的生命。它为玩家提供了一个享受更加奇幻、压力更小的游戏体验的机会。"
 iframeSrc: "https://67ce9d735e0d2d9051c65366--kaleidoscopic-sundae-181ab2.netlify.app/"
 thumbnail: /new-images/thumbnails/fiddlebops-sprunki.png
-score: "4.3/5 (684 票)"
+score: "4.3/5 (684 votes)"
 tags: ["fiddlebops sprunki", "sprunki phase 5 online"]
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 ### Fiddlebops Sprunki 介绍
 
 Fiddlebops Sprunki 通过添加令人愉悦的转折为原版 Sprunki 游戏注入了新的生命。凭借其迷人的角色、生动的视觉效果和轻松的玩法，它为玩家提供了一个享受更加奇幻、压力更小的游戏体验的机会。
 
 ---
 
+<!-- i18n:section:tips -->
 ### Fiddlebops Sprunki 玩法
 
 - 从角色开始：从一组诡异却迷人的角色中选择，每个角色都有自己的声音或人声循环。

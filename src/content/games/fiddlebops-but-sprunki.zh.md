@@ -6,10 +6,12 @@ title: "FiddleBops but Sprunki - 在线玩 FiddleBops but Sprunki"
 description: "FiddleBops but Sprunki 是一次精彩的跨界活动！它保留了 Fiddlebops 令人上瘾的音乐创作核心，但用标志性的 Sprunki 角色替换了所有原始角色。"
 iframeSrc: "https://turbowarp.org/1114915532/embed"
 thumbnail: /new-images/thumbnails/fiddlebops-but-sprunki.png
-score: "4.2/5  (94 票)"
+score: "4.2/5  (94 votes)"
 tags: ["fiddlebops but sprunki"]
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 嘿，音乐创作者们！有没有想过如果把你喜欢的 Fiddlebops 经典玩法和 Sprunki 古怪、充满活力的世界放进搅拌机会发生什么？好吧，不用再想了，因为 FiddleBops but Sprunki 来把这个疯狂的想法变成现实了！这款独特的 Mod 让你在体验 Sprunki 新鲜、充满活力的魅力的同时，跟着熟悉的节奏摇摆。
 
 ### FiddleBops but Sprunki 到底是怎么回事？
@@ -37,3 +39,4 @@ tags: ["fiddlebops but sprunki"]
 如果你是 Fiddlebops 或 Sprunki 的粉丝，那么这个 FiddleBops but Sprunki 体验绝对适合你！它完美地融合了两个深受喜爱的世界，提供了一场全新的音乐冒险。无论你是想创作独一无二的曲目还是只是对焕新的视觉效果感到好奇，FiddleBops but Sprunki 都保证带来充满创意和乐趣的时光。
 
 总之：FiddleBops but Sprunki 是一场充满惊喜的精彩音乐冒险，证明了经典与创意的结合可以非常有趣。快去试试 FiddleBops but Sprunki，让这些古怪的 Sprunki 角色帮你谱写全新的 Fiddlebops 篇章吧！
+

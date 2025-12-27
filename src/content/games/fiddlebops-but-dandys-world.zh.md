@@ -7,9 +7,11 @@ iframeSrc: 'https://turbowarp.org/1114551059/embed'
 thumbnail: /new-images/thumbnails/fiddlebops-but-dandys-world.png
 tags:
   - fiddlebops but dandy
-score: 4.6/5 (27 票)
+score: 4.6/5  (27 votes)
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 你是否渴望踏入一个充满奇幻魅力的音乐王国？Fiddlebops But Dandy's World 正等待着你的探索！想象一下，你不仅仅是坐在屏幕前，而是化身为 Dandy's World 的向导，带领一群古灵精怪的 Fiddlebops 伙伴穿越一系列令人惊喜的音乐场景。
 
 ## Fiddlebops But Dandy's World 究竟有何特别之处？
@@ -34,3 +36,4 @@ score: 4.6/5 (27 票)
 在 Dandy's World 的祝福下，曾经平凡的音符现在变得生机勃勃。每一次点击都像是挥动魔法棒，创造出一个充满奇幻色彩的音乐世界。
 
 来到 Fiddlebops But Dandy's World，让你的音乐灵感在 Dandy's World 的奇幻力量下尽情绽放吧！
+

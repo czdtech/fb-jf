@@ -7,7 +7,8 @@ iframeSrc: 'https://turbowarp.org/1149630445/embed'
 thumbnail: /new-images/thumbnails/fiddlebops-polos.png
 tags:
   - fiddlebops polos
-score: 4.6/5 (217 票)
+score: 4.6/5  (217 votes)
+releaseDate: 2025-12-04
 ---
 
 ### Fiddlebops Polos 有何独特之处？
@@ -31,3 +32,4 @@ Fiddlebops Polos 绝非泛泛之辈，它是一款创新的在线音乐创作游
 有了 Fiddlebops Polos，现在是你成为音乐大师的时候了，这里有适合每个人的内容。如果这正是你一直在寻找的旅程类型，我强烈建议你今天就试一试！它充满热情，拥有一个所有玩家都能沉浸其中的充满活力的创意世界！
 
 现在是你登上舞台、以 Fiddlebops Polos 风格点燃世界的时候了。
+

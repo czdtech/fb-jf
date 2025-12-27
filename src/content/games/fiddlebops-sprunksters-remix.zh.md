@@ -6,10 +6,12 @@ title: "Fiddlebops Sprunksters Remix - 在线畅玩 Fiddlebops Sprunksters Remix
 description: "Fiddlebops Sprunksters 是一款出色的模组，完美融合了创意、节奏和视觉魅力。凭借其迷人的角色设计、新颖的声音和超酷的双世界功能，为音乐爱好者带来独特的游戏体验。"
 iframeSrc: "https://turbowarp.org/1149194527/embed"
 thumbnail: /new-images/thumbnails/fiddlebops-sprunksters-remix.png
-score: "4.1/5  (127 票)"
+score: "4.1/5  (127 votes)"
 tags: ["fiddlebops sprunksters remix"]
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 嘿，音乐潮人们！想给你的 Incredibox 体验注入一些新鲜的刺激吗？那你*必须*看看 Fiddlebops Sprunksters！这款超级有创意的模组由才华横溢的 Bismeowth 制作，保留了我们喜爱的令人上瘾的 Incredibox 玩法，同时加入了一大堆酷炫的新花样！
  
 ### Fiddlebops Sprunksters 是什么？
@@ -39,3 +41,4 @@ tags: ["fiddlebops sprunksters remix"]
  
  
 Fiddlebops Sprunksters 是一款出色的模组，完美融合了创意、节奏和视觉魅力。凭借其迷人的角色设计、新颖的声音和超酷的"双世界"功能，它为任何热爱音乐和创意玩法的人提供了独特的游戏体验。别犹豫了！跳入 Fiddlebops Sprunksters 的世界，尽情享受音乐创作的乐趣吧！
+

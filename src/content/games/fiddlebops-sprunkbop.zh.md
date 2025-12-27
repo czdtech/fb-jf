@@ -6,10 +6,12 @@ title: "Fiddlebops Sprunkbop - 在线畅玩 Fiddlebops Sprunkbop"
 description: "Fiddlebops Sprunkbop 是一次精彩的跨界联动！它保留了 Fiddlebops 令人上瘾的音乐创作核心，但将所有原创角色换成了标志性的 Sprunki 团队。"
 iframeSrc: "https://turbowarp.org/1114551059/embed"
 thumbnail: /new-images/thumbnails/fiddlebops-sprunkbop.png
-score: "4.1/5  (308 票)"
+score: "4.1/5  (308 votes)"
 tags: ["fiddlebops sprunkbop"]
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 嘿，音乐爱好者们！想用一些新鲜的东西来打破你平时的 Incredibox 套路吗？那你绝对要看看 Fiddlebops Sprunkbop！这不是官方发布的版本，而是由超级有才华的粉丝制作的自定义模组。它完全重新混音了经典游戏的音乐，将其转变为一种全新的风格，在 Incredibox 社区中变得非常受欢迎！
  
 ### Fiddlebops Sprunkbop 的魔力在哪里？
@@ -38,3 +40,4 @@ tags: ["fiddlebops sprunkbop"]
 ### 总结
  
 通过这些创新元素，Fiddlebops Sprunkbop 在保持原版精髓的同时，提供了更自由、更丰富的音乐创作体验。无论你已经是 Fiddlebops Sprunkbop 的粉丝，还是第一次听到这个名字，你一定能在这个充满活力的模组中找到属于自己的音乐乐趣。试试 Fiddlebops Sprunkbop，用你的创意混出最酷的节拍吧！
+
