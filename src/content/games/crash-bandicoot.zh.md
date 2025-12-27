@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### 概览
 
 《Crash Bandicoot 古惑狼 浏览器版》是对经典主机系列的 Flash/平台动作致敬之作，你可以
@@ -23,6 +24,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 收集水晶和沃帕果，同时躲避 TNT 炸药箱等危险障碍。当你集齐五颗水晶后，就会进入 BOSS
 战，对决 Ripper Roo；通过旋转攻击反弹铁箱击中 BOSS，即可完成通关。
 
+<!-- i18n:section:how-to-play -->
 ### 如何游玩
 
 - 在关卡中沿着既定路线前进，尽可能收集沿途的水晶与沃帕果。  
@@ -30,6 +32,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - 使用旋转攻击来打碎特定木箱、击退轻型敌人或弹飞铁箱。  
 - 避免掉入深坑、落差或隐蔽陷阱，安全到达终点即算通过当前关卡。  
 
+<!-- i18n:section:controls -->
 ### 操作
 
 - 方向键：移动 / 跳跃（上键）/ 下蹲（下键）  
@@ -43,16 +46,21 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - BOSS 关更强调“记套路”：先熟悉 Ripper Roo 的跳跃与攻击模式，等其露出破绽后再用旋转
   攻击铁箱进行反击。  
 
+<!-- i18n:section:faq -->
 ### 常见问题（FAQ）
 
+<!-- i18n:faq:id=faq:crash-bandicoot:how-many-levels-are-there-74bf0cdd -->
 - **Q: 一共有多少关？**  
   **A：** 一般包含五个主要关卡，收集完五颗水晶后会进入 Ripper Roo BOSS 战，击败后本作
   的流程即告结束。  
 
+<!-- i18n:faq:id=faq:crash-bandicoot:why-doesnt-the-jump-or-c4d2ba16 -->
 - **Q: 为什么跳跃或旋转有时没有反应？**  
   **A：** 先确认游戏画面（Canvas）已被点击并处于焦点状态；不同托管站点可能对键位映射
   略有调整，若不生效可在帮助/设置中查看当前按键说明。  
 
+<!-- i18n:faq:id=faq:crash-bandicoot:is-progress-saved-2fd2b251 -->
 - **Q: 进度可以自动保存吗？**  
   **A：** 大部分 Flash/浏览器版移植只在当前游玩会话内保留进度，关闭页面或刷新后通常需
   要重新开始，建议在有时间完成一轮时再开局。  
+

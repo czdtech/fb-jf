@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### **游戏介绍**
 
 《Cookie Clicker 曲奇点击器》是增量（Incremental）/放置（Idle）类游戏的代表作，核心
@@ -29,6 +30,7 @@ Grandmas 奶奶、Farms 农场等），这些建筑会自动生产饼干，从�
 （Ascension）这种“声望系统”、随机出现的 Golden Cookies（黄金曲奇）以及一系列小型玩法
 （Minigames）都会不断加入，为这款看似只是“点饼干”的游戏增添大量策略与优化空间。
 
+<!-- i18n:section:tips -->
 ### **玩法策略与实用技巧**
 
 《Cookie Clicker》中最关键的是效率，理解关键决策点何时出现。
@@ -37,7 +39,7 @@ Grandmas 奶奶、Farms 农场等），这些建筑会自动生产饼干，从�
 
 *   **起步点击：** 一开始先手动疯狂点击大曲奇，直到你能购买第一个 Cursor。 
 *   **购买建筑：** 之后尽量保持饼干不闲着，优先购买当前“性价比”最高的建筑。比较常见的
-    做法是，每解锁一种新建筑，至少买上 1 个看看能解锁哪些新升级。
+    做法是，每解锁一种新建筑，至少买上一个看看能解锁哪些新升级。
 *   **一定要点 Golden Cookies（黄金曲奇）：** 这是初期最重要的技巧。黄金曲奇会每隔几分
     钟随机出现在屏幕上，点击后可获得强力临时增益，例如：
 - **Frenzy：** 临时将 CpS 乘以 7；
@@ -50,7 +52,7 @@ Grandmas 奶奶、Farms 农场等），这些建筑会自动生产饼干，从�
 
 *   **什么是 Ascension？**  
     Ascension 是本作的“转生/声望”系统。你可以选择重置游戏：失去当前的饼干、建筑与升级
-    ，换取 Heavenly Chips 和 Prestige 等级。每 1 点 Prestige 等级都会为未来所有周目提供
+    ，换取 Heavenly Chips 和 Prestige 等级。每一级 Prestige 等级都会为未来所有周目提供
     永久的 +1% CpS 加成。
 *   **第一次转生大概什么时候合适？**  
     社区普遍建议：首次 Ascension 至少等到拥有 **200–440 级 Prestige** 再进行。太早转生
@@ -74,9 +76,10 @@ Grandmas 奶奶、Farms 农场等），这些建筑会自动生产饼干，从�
     。
 *   **Minigames 与 Sugar Lumps：** 当某些建筑被用 Sugar Lumps 升到一定等级后，会解锁对
     应的小玩法。这些 Minigames 在长期
-    来看能带来可观增益，但需要一定的主动管理。Sugar Lumps 大约每 24 小时自然生成 1 个
+    来看能带来可观增益，但需要一定的主动管理。Sugar Lumps 大约每 24 小时自然生成一个
     ，可用于给建筑升级，每级为该建筑类型提供永久 +1% CpS。
 
+<!-- i18n:section:controls -->
 ### **操作指南**
 
 游戏主要通过鼠标操作完成，但熟悉界面与快捷键能显着提升效率。
@@ -89,28 +92,34 @@ Grandmas 奶奶、Farms 农场等），这些建筑会自动生产饼干，从�
     *   **Ctrl + 点击：** 一次购买 100 个建筑/升级；
     *   **Shift + 点击：** 一次购买 1000 个建筑/升级（具体以游戏版本为准）。
 
+<!-- i18n:section:faq -->
 ### **常见问题（FAQ）**
 
+<!-- i18n:faq:id=faq:cookie-clicker-2:when-is-the-best-time-1f08eaaf -->
 **1. 什么时候转生最划算？**  
 对于第一次 Ascension，一般建议至少等到 200–440 Prestige 左右再转。之后每一轮可根据自
 己节奏调整：当你发现升级成本飙升、CpS 增长明显放缓、短期内难以获得里程碑升级时，就
 可以考虑开启下一次转生。中后期一轮效率较高的周目通常持续数小时到一天左右。
 
+<!-- i18n:faq:id=faq:cookie-clicker-2:what-is-the-point-of-83046206 -->
 **2. Grandmapocalypse（奶奶末日）到底要不要开启？**  
 奶奶末日会解锁一系列强力升级与成就，但 Wrath Cookies 也可能带来负面效果。很多玩家选
 择停留在第一阶段，既获得部分收益，又保留一定比例的黄金曲奇；也有人完全不碰，等到
 自己足够强大再开启。无论选择哪种路线，只要理解利弊，都是合理策略。
 
+<!-- i18n:faq:id=faq:cookie-clicker-2:what-should-i-spend-my-947839c8 -->
 **3. Sugar Lumps 应该先点在哪里？**  
 比较通用的建议是：第一颗 Sugar Lump 先升 Farm 至 1 级，解锁 Garden 小玩法；之后优先考
 虑升级 Wizard Tower（解锁 Grimoire）和 Temple（解锁 Pantheon），这些 Minigames 的收益
 都比较可观。
 
+<!-- i18n:faq:id=faq:cookie-clicker-2:how-do-i-get-golden-ba541801 -->
 **4. 怎样更稳地打出 Golden Cookie 组合？**  
 本质上依然有运气成分，但通过解锁 Grimoire 并使用“Force the Hand of Fate”法术，可以人为
 地制造额外黄金曲奇，从而提高刷出“Frenzy + Click Frenzy”等组合的概率。高级玩家通常会配
 合时间线与 Buff 持续时间做更精细的规划。
 
+<!-- i18n:faq:id=faq:cookie-clicker-2:is-there-an-end-to-ce958c6b -->
 **5. 这游戏有真正的结局吗？**  
 没有。《Cookie Clicker》被设计成一款几乎无限延展的游戏。目标更多是解锁尽可能多的成就
 与升级、不断刷新历史最高产量，以及尝试不同的玩法流派与“周目节奏”，而不是打到某个固

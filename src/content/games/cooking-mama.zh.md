@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### **游戏介绍**
 
 **先强调：这并不是官方的 Cooking Mama 游戏。**  
@@ -33,6 +34,7 @@ Cooking Mama 中永远不会出现的屠宰过程。PETA 的目的不是“好�
 ，传达其素食主义与反肉食的倡导信息。在完成血腥的火鸡料理后，Mama 会流下眼泪并表示
 再也不做肉食，转而制作豆腐火鸡（Tofurkey）等素食替代品。
 
+<!-- i18n:section:tips -->
 ### **玩法策略与实用技巧**
 
 这款作品本质上是一段线性的“互动宣传片”，几乎不存在传统意义上的“攻略”，设计目标是
@@ -47,6 +49,7 @@ Cooking Mama 中永远不会出现的屠宰过程。PETA 的目的不是“好�
     照提示依次完成所有步骤，就一定能看到最后 Mama 转向素食的结局和 PETA 希望你看到的
     宣传信息。
 
+<!-- i18n:section:controls -->
 ### **操作指南**
 
 本游戏最初以 Flash 网页游戏形式存在，操作非常简单。
@@ -54,20 +57,25 @@ Cooking Mama 中永远不会出现的屠宰过程。PETA 的目的不是“好�
 *   **鼠标点击与拖拽：** 绝大部分操作（拔毛、切割、移动食材等）都是通过点击目标对象，
     然后按照屏幕箭头提示方向拖动鼠标完成的。无需额外按键。
 
+<!-- i18n:section:faq -->
 ### **常见问题（FAQ）**
 
+<!-- i18n:faq:id=faq:cooking-mama:is-this-a-real-official-38f41088 -->
 **1. 这真的是官方 Cooking Mama 新作吗？**  
 不是。它完全是 PETA 自行制作的恶搞/抗议作品，与官方 Cooking Mama 系列及其开发商没有
 任何官方合作或授权关系。官方系列依旧是主打轻松做菜的家庭向游戏。
 
+<!-- i18n:faq:id=faq:cooking-mama:why-is-this-game-so-8eedc3a7 -->
 **2. 为什么这款游戏要做得这么血腥？**  
 这是刻意的设计。PETA 想用极端的视觉冲击，对比官方 Cooking Mama 中“干净、快乐”的做菜
 画面，强调现实肉类加工的残酷一面，借此让玩家思考自己食物的来源与动物福利问题。
 
+<!-- i18n:faq:id=faq:cooking-mama:is-there-an-official-vegetaria-a3392ef5 -->
 **3. 官方有没有做过更偏素食或不杀生的 Cooking Mama？**  
 有。部分官方作品在一定
 程度上回应了相关讨论，提供了更偏向蔬食或园艺主题的玩法选项。
 
+<!-- i18n:faq:id=faq:cooking-mama:where-can-i-play-this-4bfcb29e -->
 **4. 现在还能在哪玩到这款恶搞游戏？**  
 它最早可以在 PETA 官网免费游玩，但由于基于 Adobe Flash 技术，而 Flash 现已停止支持，
 在现代浏览器中直接运行会比较困难。你可能需要依赖 Flash 保存项目或互联网档案馆等平
