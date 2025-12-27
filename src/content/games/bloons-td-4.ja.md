@@ -60,18 +60,24 @@ locale: ja
 <!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
+<!-- i18n:faq:id=faq:bloons-td-4:why-cant-i-buy-a-516616f9 -->
 **1. あるタワー／アップグレードが購入できません。**  
 > 今作ではプレイヤーランクによる解放が必要です。XP を稼いでランクを上げれば使えるようになります。
 
+<!-- i18n:faq:id=faq:bloons-td-4:how-do-i-pop-camo-a6b0ee8a -->
 **2. 迷彩（Camo）気球はどうやって倒しますか？**  
 > 迷彩を看破できるタワー（2/2 ダーツモンキー、Signal Flare 付き迫撃砲、スパイクファクトリー等）を配置してください。
 
+<!-- i18n:faq:id=faq:bloons-td-4:whats-the-difference-between-t-6964db4a -->
 **3. 青い MOAB と赤い BFB の違いは？**  
 > BFB は MOAB より耐久が高く、破壊すると MOAB を 4 体産みます。より強力な単体火力と群体処理が必要です。
 
+<!-- i18n:faq:id=faq:bloons-td-4:can-i-buy-all-the-a4f3b0b5 -->
 **4. 1 つのタワーで両方のルートを MAX まで上げられますか？**  
 > できません。`Sun God` か `Robo-Monkey` のように、ティア3/4 は一方だけ選択できます。
 
+<!-- i18n:faq:id=faq:bloons-td-4:what-is-apopalypse-mode-eb2eb7e1 -->
 **5. Apopalypse モードとは？**  
 > ラウンドの合間がなく、報酬金も入らないモードです。気球を倒した分だけが収入になるので非常にシビアです。
+
 

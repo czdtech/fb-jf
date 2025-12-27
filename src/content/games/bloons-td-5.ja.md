@@ -55,18 +55,24 @@ BTD5 では以下の要素が追加・強化されています。
 <!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
+<!-- i18n:faq:id=faq:bloons-td-5:what-is-the-best-tower-e969f316 -->
 **1. BTD5 で一番強いタワーは？**  
 > 絶対的な最強タワーは存在しませんが、十分に献祭した **Temple of the Monkey God** と 2/3 **Monkey Village** の組み合わせは最高峰の火力として知られています。
 
+<!-- i18n:faq:id=faq:bloons-td-5:how-do-i-get-the-fd098d0c -->
 **2. Temple of the Monkey God がアップグレード欄にありません。**  
 > Temple は **Super Monkey** の最終（4/x）アップグレードです。まず 3/x の「Sun God」を購入すると、次に Temple が選べるようになります。
 
+<!-- i18n:faq:id=faq:bloons-td-5:how-does-sacrificing-for-the-b26fb21a -->
 **3. 献祭の仕組みは？**  
 > Sun God の射程内にあるタワーが、Temple へアップグレードする際に自動的に吸収されます。各カテゴリ（Primary / Military / Magic など）で約 30,000 ドルまで加算され、それぞれの上限まで捧げると Temple の火力が最大になります。
 
+<!-- i18n:faq:id=faq:bloons-td-5:what-is-a-zomg-and-0d537e0a -->
 **4. ZOMG とは何で、どう倒す？**  
 > ZOMG は最も硬い飛行船で、非常に遅い代わりに膨大な HP を持ちます。Temple や MOAB Assassin（例：Bomb Tower x/4）、Ninja Monkey の Sabotage Supply Lines など、高火力とスロウを組み合わせて集中攻撃しましょう。
 
+<!-- i18n:faq:id=faq:bloons-td-5:are-special-agents-worth-it-5a39ac6f -->
 **5. Special Agents は買う価値がありますか？**  
 > あります。`Meerkat Spy` のように序盤の迷彩検知を補ってくれるものや、`Bloonsday Device` のように大量リークを回避できる切り札など、難関マップで大いに役立ちます。
+
 

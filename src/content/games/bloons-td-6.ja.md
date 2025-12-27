@@ -55,18 +55,24 @@ PC（マウス）でもモバイル（タップ）でも直感的に遊べます
 <!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
+<!-- i18n:faq:id=faq:bloons-td-6:what-is-the-best-hero-fd93e6b7 -->
 **1. 初心者におすすめのヒーローは？**  
 **Sauda** が最も扱いやすいとされています。コストが安く、序盤の大半を単騎で抑えられるため、資金を経済構築に回せます。
 
+<!-- i18n:faq:id=faq:bloons-td-6:how-do-i-beat-ddts-4a5c8219 -->
 **2. DDT に防衛線を突破されます。どう止めれば良いですか？**  
 DDT は迷彩・鉛・ブラック特性と高速移動を併せ持ちます。**Monkey Intelligence Bureau** を備えた Monkey Village で周囲の塔に万能攻撃を付与し、2/0/5 Tack Shooter や 0/2/5 Perma-Spike など高 DPS タワーを組み合わせましょう。
 
+<!-- i18n:faq:id=faq:bloons-td-6:why-cant-i-damage-the-906554ad -->
 **3. パープル Bloon にダメージが入りません。**  
 紫色の Bloon はエネルギー / 炎 / プラズマ攻撃を完全無効化します。Crossbow Master（0/2/5）や Juggernaut（5/x/x）など、物理弾を撃つタワーを編成に加えてください。
 
+<!-- i18n:faq:id=faq:bloons-td-6:how-do-i-make-a-07bea3d1 -->
 **4. パラゴンはどう作るのですか？**  
 同じ系統の 3 つのティア 5 タワーをマップ上に同時配置すると、どれか 1 体のアップグレードボタンが Paragon へ変化します。犠牲にするタワーの数・総コスト・撃破数が多いほど、完成する Paragon の等級が上がります。
 
+<!-- i18n:faq:id=faq:bloons-td-6:what-is-chimps-mode-3b6712c1 -->
 **5. CHIMPS モードとは？**  
 BTD6 最高難度のモードです。**C**ontinues なし、**H**earts Lost なし、**I**ncome なし（ポップ収入のみ）、**M**onkey Knowledge なし、**P**owers なし、**S**elling なしという制約下で勝利しなければならず、純粋な戦略と操作が試されます。
+
 

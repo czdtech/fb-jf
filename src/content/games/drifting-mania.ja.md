@@ -35,7 +35,11 @@ locale: ja
 <!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
+<!-- i18n:faq:id=faq:drifting-mania:spinning-out-802114ee -->
 - すぐにスピンしてしまう？ アクセルを開けすぎています。少し緩めて、カウンターを早めに当ててください。
+<!-- i18n:faq:id=faq:drifting-mania:can-i-upgrade-cars-5957df0e -->
 - 車のアップグレードはできますか？ 版によってはアンロックがありますが、まずは安定して周回できることが先決です。
+<!-- i18n:faq:id=faq:drifting-mania:best-times-55300466 -->
 - タイムが縮まりません。 無理に飛ばすより、出口を意識したきれいなラインの方が速くなります。
+
 

@@ -50,18 +50,24 @@ locale: ja
 <!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
+<!-- i18n:faq:id=faq:basket-random:how-do-i-properly-control-7c361830 -->
 **1. キャラクターを思い通りに動かせません！**  
 それがこのゲームの醍醐味です。操作はジャンプ＆腕振りのみなので、ジャンプのタイミングで流れをコントロールしましょう。
 
+<!-- i18n:faq:id=faq:basket-random:why-does-the-courtballplayer-c-3e32a4e8 -->
 **2. なぜゴールが決まるたびに環境が変わるのですか？**  
 「ランダム」要素はゲームの核です。コートや重力、ボールが変わることで毎回違うシチュエーションを楽しめます。
 
+<!-- i18n:faq:id=faq:basket-random:how-do-i-win-a-0ebcf537 -->
 **3. 勝利条件は？**  
 基本ルールでは先に5ポイント取ったチームが勝利します（モードによって変更される場合があります）。
 
+<!-- i18n:faq:id=faq:basket-random:can-i-play-this-game-0d71baf7 -->
 **4. 一人で遊べますか？**  
 はい。CPU と戦えるシングルプレイや協力モードが用意されています。
 
+<!-- i18n:faq:id=faq:basket-random:what-is-the-best-random-b388b359 -->
 **5. どのランダムパターンが強いですか？**  
 「腕が長い」「低重力」などは人気ですが、どの環境にも利点と欠点があります。自分が得意なパターンを見つけて練習しましょう。
+
 

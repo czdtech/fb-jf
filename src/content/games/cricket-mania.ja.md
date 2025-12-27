@@ -37,7 +37,11 @@ locale: ja
 <!-- i18n:section:faq -->
 ### よくある質問 (FAQ)
 
+<!-- i18n:faq:id=faq:cricket-mania:keep-getting-caught-154fccfa -->
 - キャッチアウトばかりになります。守備がいる方向へロフトを上げすぎています。グラウンドショット（ゴロ）を増やし、守備の隙間を狙いましょう。
+<!-- i18n:faq:id=faq:cricket-mania:miss-timing-c2820bfd -->
 - タイミングが合いません。ボールだけを追うのではなく、投手のリリースポイントを見てリズムを取ると安定します。
+<!-- i18n:faq:id=faq:cricket-mania:can-i-bowl-b3542147 -->
 - 守備や投球はできますか？ いいえ。このゲームはバッティング（打撃）に特化しており、守備や投球はできません。
+
 
