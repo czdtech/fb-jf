@@ -368,9 +368,11 @@ function findMarkerIndex(lines: string[], section: string): number | null {
 
 function looksLikeFaqQuestionLine(locale: TargetLocale, line: string): boolean {
   if (line == null) return false;
-  const t = line.trim();
+  const raw = line;
+  const t = raw.trim();
   if (!t) return false;
   const lower = t.toLowerCase();
+  const leadingSpaces = /^(\s*)/.exec(raw)?.[1]?.length ?? 0;
 
   // Accept plain Q-lines (not necessarily bold/list) when they clearly start with a question prefix.
   // This helps avoid "foundQuestions < expected" caused by formatting variance.
@@ -414,6 +416,10 @@ function looksLikeFaqQuestionLine(locale: TargetLocale, line: string): boolean {
     const isAnswerLike = /^(\*\*)?\s*a[:：]/.test(afterListLower) || afterListLower.startsWith('**answer');
     if (!isAnswerLike && afterList.startsWith('**') && afterList.includes('**')) return true;
   }
+
+  // Another common FAQ format: a flat list where each top-level bullet is a Q(+A) entry.
+  // Treat top-level list items as questions to avoid under-counting when punctuation varies across locales.
+  if (looksList && leadingSpaces === 0) return true;
 
   // Another common FAQ format: bold paragraph lines, often numbered ("**1. ...**").
   if (looksBold && /^\d+[\).]/.test(normalizedStart)) return true;
