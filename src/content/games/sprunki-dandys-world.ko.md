@@ -11,6 +11,7 @@ thumbnail: /new-images/thumbnails/sprunki-dandys-world.png
 tags:
   - sprunki dandy
 score: 4.4/5  (304 votes)
+releaseDate: 2025-12-04
 ---
 
 
@@ -45,6 +46,7 @@ Sprunki Dandy's World는 상상력을 마음껏 펼칠 수 있는 음악 놀이�
   마음에 드는 구성이 완성되면 친구나 가족과 함께 감상하거나, 녹화 기능이
   있다면 온라인에 올려 더 많은 사람들과 나눌 수도 있습니다.
 
+<!-- i18n:section:tips -->
 ### Sprunki Dandy's World 공략 & 팁
 
 - **조합을 두려워하지 않기:**
@@ -65,3 +67,4 @@ Sprunki Dandy's World는 음악, 아트, 이야기를 한 번에 즐길 수 있�
 스프룽키 모드입니다. 클릭 몇 번으로 색다른 장면과 사운드를 만들어 볼 수 있어,
 창의력을 발휘하고 싶은 플레이어에게 특히 잘 어울립니다. 지금 스프룽키 댄디의
 월드에 들어가, 당신만의 뮤직 비디오를 연출해 보세요.
+

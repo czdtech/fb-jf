@@ -11,9 +11,11 @@ thumbnail: /new-images/thumbnails/sprunki-parasite-parasprunki-15.png
 tags:
   - incredibox sprunksters
 score: 4.3/5  (372 votes)
+releaseDate: 2025-12-04
 ---
 
 
+<!-- i18n:section:introduction -->
 으스스한 음악 세계로 한 걸음 들어갈 준비가 되었나요? Sprunki Parasite
 ParaSprunki 15(일명 Incredibox Sprunksters)는 평소의 밝은 Sprunki와는 전혀 다른,
 공포 분위기 가득한 팬 메이드 모드입니다. 제작자 mondaymuncher가 만든 이 모드는
@@ -41,6 +43,7 @@ Parasprunki, 또는 Sprunki Parasite는 전체 스프룽키 세계에 "기생" �
   등장하기도 합니다. 이 비밀 요소를 찾는 것이 ParaSprunki 15의 큰 재미 중
   하나입니다.
 
+<!-- i18n:section:how-to-play -->
 ### Sprunki Parasite ParaSprunki 15 플레이 방법
 
 기본적인 조작은 다른 스프룽키 모드와 같습니다. 하지만 전체 분위기와 연출이
@@ -64,3 +67,4 @@ Sprunki Parasite ParaSprunki 15는 꼭 한 번 경험해 볼 만한 모드입니
 음악 제작과 호러 연출을 자연스럽게 결합해, 기존 스프룽키와는 완전히 다른
 몰입감을 제공합니다. 인크레디박스 스프렁크스터즈 세계로 들어가, 음악에
 "빨려 들어가는" 기묘한 공포를 직접 느껴 보세요.
+

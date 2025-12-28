@@ -11,9 +11,11 @@ thumbnail: /new-images/thumbnails/sprunki-1996.png
 tags:
   - sprunki 1996
 score: 4.0/5  (122 votes)
+releaseDate: 2025-12-04
 ---
 
 
+<!-- i18n:section:introduction -->
 90년대 컴퓨터 특유의 약간 깨진 화면과 거친 그래픽이 그립나요? 그 시절 감성을
 음악과 함께 다시 느껴 보고 싶다면 Sprunki 1996이 딱 맞는 선택입니다. 팬 메이드
 Incredibox 모드인 이 작품은, Draker가 Scratch로 제작한 게임으로 마치 시간
@@ -71,3 +73,4 @@ Incredibox를 좋아하는 유저들에게 새로운 재미를 제공합니다. 
 분명 한 번쯤 경험해 볼 가치가 있는 작품입니다. 지금 "옛날 컴퓨터"를
 켜는 마음으로 스프룽키 1996을 실행해, 픽셀 세계 속에서 나만의 레트로 비트를
 만들어 보세요!
+

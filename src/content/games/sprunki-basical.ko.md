@@ -12,6 +12,7 @@ tags:
   - sprunki basical
   - sprunki basical online
 score: 4.4/5  (420 votes)
+releaseDate: 2025-12-04
 ---
 
 
@@ -24,6 +25,7 @@ Sprunki Basical은 "기본으로 돌아가기"를 콘셉트로 한 음악 제작
 
 ---
 
+<!-- i18n:section:how-to-play -->
 ### Sprunki Basical 플레이 방법
 
 게임 방식은 매우 단순하며, 몇 가지 단계만 익히면 됩니다.
@@ -62,3 +64,4 @@ Sprunki Basical은 "기본으로 돌아가기"를 콘셉트로 한 음악 제작
   있어, 곧바로 결과를 확인하면서 수정할 수 있습니다.
 - **발견하는 재미:** 숨겨진 연출과 이스터에그를 찾는 즐거움이 있어,
   단순 반복이 아닌 탐험하는 느낌으로 플레이할 수 있습니다.
+

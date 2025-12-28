@@ -11,9 +11,11 @@ thumbnail: /new-images/thumbnails/sprunki-phase-1.png
 tags:
   - sprunki phase 1
 score: 4.3/5  (96 votes)
+releaseDate: 2025-12-04
 ---
 
 
+<!-- i18n:section:introduction -->
 완전 중독적인 Sprunki 음악 여정이 어디서 시작되었는지 궁금했나요? 바로 여기,
 *Sprunki Phase 1*에서 모든 것이 출발했습니다. 이 모드는 클래식 Incredibox 스타일의
 게임 플레이 위에 스프룽키 특유의 색감을 더해, 시리즈 초창기의 활기찬 매력을 다시
@@ -62,3 +64,4 @@ Sprunki Phase 1은 Sprunki 유니버스에 입문하기에 가장 좋은 관문�
 경험해 볼 수 있습니다. 오래된 팬이든 완전 초보든, Sprunki Phase 1은 모두에게 즐거운
 음악 놀이를 선사할 것입니다. 지금 바로 Sprunki Phase 1을 플레이해, 손끝으로 첫 번째
 스프룽키 마스터피스를 만들어 보고, 그 결과물을 모두와 공유해 보세요! 🎧✨
+

@@ -10,9 +10,11 @@ thumbnail: /new-images/thumbnails/sprunki-christmas.png
 tags:
   - sprunki christmas
 score: 4.6/5  (486 votes)
+releaseDate: 2025-12-04
 ---
 
 
+<!-- i18n:section:introduction -->
 풍성한 연말 분위기가 가득한 음악 어드벤처를 즐길 준비가 되었나요?
 Sprunki Christmas는 설레는 크리스마스 세계로 여러분을 초대합니다. 퍼즐과
 도전 요소, 그리고 크리스마스 수집 아이템이 어우러진 이 게임에서, 플레이어는
@@ -20,6 +22,7 @@ Sprunki Christmas는 설레는 크리스마스 세계로 여러분을 초대합�
 됩니다. 밝은 색감의 그래픽과 사랑스러운 캐릭터, 그리고 따뜻한 사운드트랙이
 어우러져 남녀노소 모두 즐길 수 있는 작품입니다.
 
+<!-- i18n:section:how-to-play -->
 ### Sprunki Christmas 플레이 방법
 
 - **목표:** 스프룽키 캐릭터들과 함께 여러 스테이지를 클리어하고,
@@ -55,3 +58,4 @@ Sprunki Christmas는 크리스마스의 따뜻한 분위기 속에서 스프룽�
 게임성을 모두 즐길 수 있는 모드입니다. 섬세하게 꾸며진 겨울 마을을 천천히
 감상하고 싶든, 친구들과 도전 과제를 깨며 경쟁하고 싶든, Sprunki Christmas는
 다양한 방식으로 연말의 즐거움을 선물해 줄 것입니다.
+

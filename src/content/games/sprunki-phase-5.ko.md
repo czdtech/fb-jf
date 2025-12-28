@@ -12,6 +12,7 @@ tags:
   - sprunki phase 5
   - sprunki phase 5 online
 score: 4.0/5  (604 votes)
+releaseDate: 2025-12-04
 ---
 
 
@@ -55,3 +56,4 @@ Sprunki Phase 5에는 더욱 확장된 사운드 라이브러리가 준비되어
 Sprunki Phase 5는 Sprunki 세계관을 좀 더 어두운 방향으로 확장한 모드로,
 기본 Sprunki에 익숙한 플레이어라면 부담 없이 새로운 분위기의 곡 만들기에
 도전해 볼 수 있습니다.
+

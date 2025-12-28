@@ -11,9 +11,11 @@ thumbnail: /new-images/thumbnails/sprunki-babies.png
 tags:
   - sprunki babies
 score: 4.0/5  (212 votes)
+releaseDate: 2025-12-04
 ---
 
 
+<!-- i18n:section:introduction -->
 엄청난 귀여움과 끝없는 창의력을 동시에 느끼고 싶나요? 그렇다면 Sprunki Babies를
 한번 플레이해 보세요! 이 사랑스러운 음악 샌드박스 게임에서는 아기 Sprunki
 캐릭터들을 무대에 올려, 각기 다른 목소리와 소리를 섞어 나만의 곡을 만들 수
@@ -65,3 +67,4 @@ Sprunki Babies는 직관적인 인터페이스와 사랑스러운 연출로, 남
 즐거움을 줍니다. 리듬을 처음 접하는 아이에게도, 가볍게 머리를 식히고 싶은
 어른에게도 잘 어울리는 게임입니다. 지금 스프룽키 베이비즈와 함께, 당신만의
 귀여운 합창단을 만들어 보세요!
+

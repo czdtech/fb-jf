@@ -10,9 +10,11 @@ thumbnail: /new-images/thumbnails/sprunki-phase-2-5.png
 tags:
   - sprunki phase 2.5
 score: 4.3/5  (218 votes)
+releaseDate: 2025-12-04
 ---
 
 
+<!-- i18n:section:introduction -->
 평범한 음악 게임이 너무 뻔하게 느껴질 때, Sprunki Phase 2.5(JOKE MOD 표기)는
 완전히 다른 방향의 장난스러운 경험을 제공합니다. 귀엽고 발랄한 분위기로
 시작했다가, 어느 순간 공포 테마로 뒤집히는 반전이 이 모드의 핵심 재미입니다.
@@ -69,3 +71,4 @@ Sprunki Phase 2.5(JOKE MOD 표기)는 단순한 리듬 게임을 넘어, 웃음�
 작은 이벤트 같은 모드입니다. 가볍게 장난을 치듯 음악을 만들면서도, 마지막에
 찾아오는 반전 덕분에 매번 새롭게 긴장하게 됩니다. 스프룽키 페이즈 2.5 세계로
 들어가 드래그하고, 섞고, 깜짝 놀라게 하는 트랙을 직접 만들어 보세요.
+

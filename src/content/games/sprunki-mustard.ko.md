@@ -11,6 +11,7 @@ thumbnail: /new-images/thumbnails/sprunki-mustard.png
 tags:
   - sprunki mustard
 score: 3.9/5  (827 votes)
+releaseDate: 2025-12-04
 ---
 
 
@@ -63,3 +64,4 @@ Incredibox와 Sprunki를 좋아하면서도, 조금 더 어둡고 기묘한 분�
 이상한 공포 사운드가 어우러져, 익숙한 시스템으로도 전혀 새로운 감각의 곡을
 만들 수 있게 해 줍니다. 약간의 스릴과 독특한 미감을 좋아한다면, 스프룽키
 머스터드 세계에 들어가 당신만의 괴이한 트랙을 만들어 보세요.
+

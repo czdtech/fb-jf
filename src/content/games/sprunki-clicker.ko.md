@@ -11,9 +11,11 @@ thumbnail: /new-images/thumbnails/sprunki-clicker.png
 tags:
   - sprunki clicker
 score: 4.7/5  (524 votes)
+releaseDate: 2025-12-04
 ---
 
 
+<!-- i18n:section:introduction -->
 클릭 한 번으로 살아 숨 쉬는 음악 세계에 들어가 보고 싶나요? Sprunki Clicker에서는
 모든 클릭이 새로운 소리를 불러오고, 점점 풍성해지는 사운드가 하나의 곡처럼
 완성되어 갑니다. 이 게임은 단순한 클릭 수 올리기 게임을 넘어, 리듬과 상상력이
@@ -66,3 +68,4 @@ Sprunki Clicker는 클릭마다 점수를 얻고, 그 점수로 새로운 사운
 Sprunki Clicker는 리듬, 클릭, 성장이 하나로 어우러진 독특한 음악 경험을
 제공합니다. 지금 스프룽키 클릭커를 실행해, 당신만의 하모니 트리를 키우고
 세상에 없던 밈-뮤직 심포니를 만들어 보세요!
+

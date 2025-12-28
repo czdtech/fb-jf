@@ -12,9 +12,11 @@ tags:
   - sprunki pyramixed 0.9
   - sprunki pyramixed 0.9 online
 score: 4.7/5  (455 votes)
+releaseDate: 2025-12-04
 ---
 
 
+<!-- i18n:section:introduction -->
 리듬의 짜릿함과 나만의 개성을 동시에 표현할 수 있는 음악 게임을 찾고 있다면,
 *Sprunkgerny Pyramixed 0.9*의 세계에 오신 것을 환영합니다. 이 게임은 리듬 게임 특유의
 박진감과 캐릭터 커스터마이징 요소를巧妙하게 결합해, 나만의 음악을 만들면서 동시에
@@ -40,6 +42,7 @@ Sprunkgerny Pyramixed 0.9는 기존 음악 게임의 틀을 벗어나, **리듬 
 - **재미있는 애니메이션 효과:** 음악이 진행될수록 캐릭터와 배경이 생동감 있게
   변화하며, 완성된 곡에 맞춰 등장하는 시각 효과가 몰입감을 더욱 높여 줍니다.
 
+<!-- i18n:section:how-to-play -->
 ### Sprunkgerny Pyramixed 0.9 플레이 방법
 
 - **Sprunkly Play 접속:** 먼저 Sprunkly Play 사이트에 접속해 Sprunkgerny Pyramixed 0.9를
@@ -62,3 +65,4 @@ Sprunkgerny Pyramixed 0.9는 누구나 쉽게 접근할 수 있으면서도 깊�
 독특한 음악 플랫폼으로 자리 잡았습니다. 리듬 게임 팬이든, 막 음악에 입문한
 초보자든, 누구나 이곳에서 자신만의 음악을 만들고 공유하며 창의력을 마음껏 펼칠 수
 있습니다.
+

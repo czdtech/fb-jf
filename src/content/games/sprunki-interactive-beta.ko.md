@@ -10,6 +10,7 @@ thumbnail: /new-images/thumbnails/sprunki-interactive-beta.png
 tags:
   - sprunki interactive beta
 score: 4.0/5  (407 votes)
+releaseDate: 2025-12-04
 ---
 
 
@@ -58,3 +59,4 @@ Sprunki Interactive BETA는 기존 스프룽키에 단순히 사운드만 추가
 Sprunki Interactive BETA는 통제와 혼돈 사이를 오가며, 소리와 연출을 동시에
 즐기는 실험적인 모드입니다. 귀여움과 섬뜩함이 동시에 존재하는 세계를 경험해
 보고 싶다면 한 번 도전해 보세요.
+

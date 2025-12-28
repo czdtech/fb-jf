@@ -11,6 +11,7 @@ thumbnail: /new-images/thumbnails/sprunki-mod-BFDI.png
 tags:
   - sprunki mod bfdi
 score: 4.2/5  (347 votes)
+releaseDate: 2025-12-04
 ---
 
 
@@ -91,3 +92,4 @@ Sprunki Mod BFDI는 Incredibox식 음악 제작의 재미에 BFDI 특유의 기�
 
 지금 바로 Sprunki Mod BFDI에 접속해, 음악과 애니메이션이 결합된 독특한 믹스를
 직접 만들어 보세요.
+

@@ -12,6 +12,7 @@ tags:
   - sprunki play random
   - sprunki play random online
 score: 4.5/5  (614 votes)
+releaseDate: 2025-12-04
 ---
 
 
@@ -30,6 +31,7 @@ Sprunki Play Random은 "예측할 수 없음"을 중심에 둔 음악 제작 모
 
 ---
 
+<!-- i18n:section:how-to-play -->
 ### Sprunki Play Random 플레이 방법
 
 마우스나 터치만으로 쉽게 조작할 수 있습니다.
@@ -88,3 +90,4 @@ Sprunki Play Random은 "예측할 수 없음"을 중심에 둔 음악 제작 모
 - **탐험의 재미:**
   숨겨진 사운드 조합과 보너스를 찾는 과정이, 단순한 음악 만들기를 넘는
   탐험 같은 경험을 제공합니다.
+

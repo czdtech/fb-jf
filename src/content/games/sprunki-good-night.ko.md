@@ -11,6 +11,7 @@ thumbnail: /new-images/thumbnails/sprunki-good-night.png
 tags:
   - sprunki good night
 score: 4.2/5  (227 votes)
+releaseDate: 2025-12-04
 ---
 
 
@@ -41,3 +42,4 @@ score: 4.2/5  (227 votes)
 Sprunki Good Night는 지친 하루를 마친 뒤, 부드러운 비트와 멜로디로 스스로에게
 휴식을 선물할 수 있는 모드입니다. 가볍게 몇 가지 사운드를 섞어 나만의
 자장가를 만든 다음, 눈을 감고 편안한 밤을 맞이해 보세요.
+

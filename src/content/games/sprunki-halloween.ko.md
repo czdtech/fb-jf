@@ -10,9 +10,11 @@ thumbnail: /new-images/thumbnails/sprunki-halloween.png
 tags:
   - sprunki halloween
 score: 4.2/5  (142 votes)
+releaseDate: 2025-12-04
 ---
 
 
+<!-- i18n:section:introduction -->
 무시무시하면서도 즐거운 음악 모험을 즐길 준비가 되셨나요? Sprunki Halloween은
 소름 돋는 비트와 괴기스러운 효과음, 그리고 할로윈 전용 캐릭터들을 한데 모아
 직접 공포 분위기의 트랙을 만들 수 있는 모드입니다.
@@ -32,6 +34,7 @@ Sprunki Halloween은 할로윈 분위기 속에서 음악적 상상력을 마음
 - **동적인 비주얼:** 곡에 반응하는 호박, 박쥐, 안개 등 할로윈 연출이 화면을
   가득 채웁니다.
 
+<!-- i18n:section:how-to-play -->
 ### Sprunki Halloween 플레이 방법
 
 - **캐릭터 조합:** 마녀·유령·뱀파이어 같은 캐릭터를 골라 무대에 올리고,
@@ -56,3 +59,4 @@ Sprunki Halloween은 할로윈 분위기 속에서 음악적 상상력을 마음
 Sprunki Halloween은 다른 어떤 게임과도 다른 할로윈 전용 음악 놀이터입니다.
 올해 할로윈을 조금 더 특별하게 보내고 싶다면, 스프룽키 할로윈에서 직접 만든
 공포 트랙으로 분위기를 한껏 끌어올려 보세요.
+

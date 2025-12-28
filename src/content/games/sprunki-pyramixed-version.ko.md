@@ -11,9 +11,11 @@ thumbnail: /new-images/thumbnails/sprunki-pyramixed-version.png
 tags:
   - sprunki pyramixed
 score: 4.0/5  (254 votes)
+releaseDate: 2025-12-04
 ---
 
 
+<!-- i18n:section:introduction -->
 새로운 방식으로 음악을 만들고 싶나요? Sprunki Pyramixed는 깊이 있으면서도
 쉽게 다가갈 수 있는 음악 제작 환경을 제공하는 스프룽키 모드입니다. 초보든,
 이미 음악에 익숙한 사람이든, 모두 자신의 스타일대로 트랙을 만들 수 있습니다.
@@ -58,6 +60,7 @@ Sprunki Pyramixed에서는 단순히 음표를 놓는 것이 아니라, 여러 �
   입문자에게는 쉬운 출발선을 제공하고, 경험자에게는 충분한 실험 공간을
   제공하는 밸런스를 갖추고 있습니다.
 
+<!-- i18n:section:tips -->
 ### Sprunki Pyramixed 플레이 팁
 
 - **기본 패턴부터 시작:**
@@ -79,3 +82,4 @@ Sprunki Pyramixed는 쉽고 직관적인 운영과 깊이 있는 사운드 구�
 누구나 음악 만들기의 즐거움을 느낄 수 있게 해 줍니다. 가볍게 놀듯이 믹스를
 만들고 싶든, 진지하게 곡 작업을 해 보고 싶든, 이 모드는 충분한 도구와 공간을
 제공해 줄 것입니다.
+

@@ -11,9 +11,11 @@ thumbnail: /new-images/thumbnails/sprunki-but-with-memes.png
 tags:
   - sprunki but with memes
 score: 4.2/5  (142 votes)
+releaseDate: 2025-12-04
 ---
 
 
+<!-- i18n:section:introduction -->
 밈을 사랑하고 음악도 좋아한다면, Sprunki but with memes에서 진정한
 오디오·비주얼 파티를 경험해 보세요! 이 게임은 단순한 리듬 게임이 아니라,
 각종 밈과 사운드를 섞어 새로운 "밈 음악"을 만들어 내는 실험실 같은 공간입니다.
@@ -62,3 +64,4 @@ Sprunki but with memes의 가장 큰 장점 중 하나는 열정적인 커뮤니
 Sprunki but with memes는 끝없는 밈의 바다에서 마음껏 음악을 만들어 볼 수
 있는 게임입니다. 지금 스프룽키 밈 에디션 세계에 들어와, 당신만의 밈 감성과
 음악적 감각을 폭발시켜 보세요!
+

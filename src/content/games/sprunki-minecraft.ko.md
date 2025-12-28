@@ -11,9 +11,11 @@ thumbnail: /new-images/thumbnails/sprunki-minecraft.png
 tags:
   - sprunki minecraft
 score: 4.0/5  (212 votes)
+releaseDate: 2025-12-04
 ---
 
 
+<!-- i18n:section:introduction -->
 어떤 블록을 어디에 두느냐가 곧 음악이 되는 세계를 상상해 본 적 있나요?
 Sprunki Minecraft는 바로 그런 세계를 그려낸 콘셉트로, 마인크래프트식 블록 쌓기와
 리듬 기반 음악 만들기를 결합한 독특한 샌드박스 경험을 제공합니다.
@@ -69,3 +71,4 @@ Sprunki Minecraft는 친숙한 블록 쌓기 게임 방식에 리듬 메커니�
 짓고, 음악과 함께 숨 쉬는 세계를 바라보고 있으면, 묘한 몰입감과 해방감을
 동시에 느낄 수 있습니다. 색다른 창의적 경험을 찾고 있다면, 스프룽키
 마인크래프트라는 아이디어를 꼭 한 번 경험해 보세요.
+

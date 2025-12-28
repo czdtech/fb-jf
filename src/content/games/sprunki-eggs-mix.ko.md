@@ -11,6 +11,7 @@ thumbnail: /new-images/thumbnails/sprunki-eggs-mix.png
 tags:
   - sprunki egg
 score: 3.9/5  (125 votes)
+releaseDate: 2025-12-04
 ---
 
 
@@ -65,3 +66,4 @@ Sprunki Egg's Mix는 직관적인 규칙과 눈에 즐거운 연출을 결합한
 모드입니다. 가볍게 손을 풀고 싶은 퍼즐 팬부터, 조금 더 깊이 있는 전략을
 원하는 유저까지 두루 만족시킬 수 있는 구성을 갖추고 있습니다. 알 조합의
 묘미를 익혀, 나만의 완벽한 에그 믹스를 완성해 보세요!
+

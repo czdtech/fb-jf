@@ -11,9 +11,11 @@ thumbnail: /new-images/thumbnails/sprunki-phase-8.png
 tags:
   - sprunki phase 8
 score: 4.2/5  (396 votes)
+releaseDate: 2025-12-04
 ---
 
 
+<!-- i18n:section:introduction -->
 음악의 어두운 면으로 뛰어들 준비가 되었나요? Sprunki Phase 8은 단순한 리듬 게임을
 넘어, 심장을 두근거리게 만드는 공포 연출과 음악 제작을 동시에 즐길 수 있는
 모드입니다.
@@ -47,3 +49,4 @@ Sprunki Phase 8은 딱 맞는 선택입니다. 상상력을 최대한 끌어올�
 Sprunki Phase 8은 음악 제작과 호러 미학을 절묘하게 결합한 실험적인 모드입니다.
 미스터리와 창의성이 공존하는 무대 위에서, 공포의 분위기를 마음껏 탐험하며
 나만의 다크 심포니를 작곡해 보세요.
+

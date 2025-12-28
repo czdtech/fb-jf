@@ -12,6 +12,7 @@ tags:
   - sprunki night time
   - sprunki night time online
 score: 4.2/5  (324 votes)
+releaseDate: 2025-12-04
 ---
 
 
@@ -29,6 +30,7 @@ Night Time 시리즈의 연장선에 있는 이 모드는 스프룽키의 판타
 네온사인이 비추는 어두운 배경, 부드러운 애니메이션, 영화 같은 연출 덕분에
 귀뿐 아니라 눈으로도 즐길 수 있는 경험을 제공합니다.
 
+<!-- i18n:section:how-to-play -->
 ### Sprunki Night Time 플레이 방법
 
 조작은 단순하지만, 조합에 따라 무드가 크게 달라집니다.
@@ -67,3 +69,4 @@ Night Time 시리즈의 연장선에 있는 이 모드는 스프룽키의 판타
 Sprunki Night Time은 신비롭고 어두운 밤의 공기를 음악으로 표현해 보고 싶은
 플레이어에게 잘 맞는 모드입니다. 조용한 밤에 헤드폰을 끼고, 자신만의
 나이트 트랙을 만들어 깊고 신비로운 밤을 밝혀 보세요.
+

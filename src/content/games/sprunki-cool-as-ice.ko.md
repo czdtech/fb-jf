@@ -12,6 +12,7 @@ tags:
   - sprunki cool as ice
   - sprunki cool as ice online
 score: 4.2/5  (324 votes)
+releaseDate: 2025-12-04
 ---
 
 
@@ -33,6 +34,7 @@ Sprunki: Cool As Ice는 단순한 스킨 교체가 아니라, 눈과 얼음 연�
 
 ---
 
+<!-- i18n:section:how-to-play -->
 ### Sprunki: Cool As Ice 플레이 방법
 
 조작은 간단하지만, 조합에 따라 분위기가 크게 달라집니다.
@@ -81,3 +83,4 @@ Sprunki: Cool As Ice는 Incredibox 계열 모드 가운데에서도 겨울 테�
 커뮤니티와의 교류까지 더해져, 겨울 시즌에 특히 잘 어울리는 음악 놀이 공간을
 제공합니다. 차가운 계절에 어울리는 나만의 트랙을 만들어, 음악으로 겨울밤을
 밝혀 보세요.
+

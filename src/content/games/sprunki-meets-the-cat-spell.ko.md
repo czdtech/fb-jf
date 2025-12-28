@@ -11,6 +11,7 @@ tags:
   - sprunki meets the cat spell
   - sprunki meets the cat spell online
 score: 4.8/5  (649 votes)
+releaseDate: 2025-12-04
 ---
 
 
@@ -20,6 +21,7 @@ Sprunki Meets The Cat Spell은 기존 "Sprunki Cats Game" 모드를 리워크한
 모든 캐릭터를 고양이 귀와 고양이 컨셉으로 재해석한 작품입니다. 고양이와 음악을
 모두 좋아하는 플레이어라면, 한눈에 빠져들 수 있는 귀여운 연출이 가득합니다.
 
+<!-- i18n:section:how-to-play -->
 ### Sprunki Meets The Cat Spell 플레이 방법
 
 이 모드는 기본적인 Sprunki 방식에 고양이 테마만 덧입힌 것이어서, 조작은
@@ -53,3 +55,4 @@ Sprunki Cats 스타일의 20여 종 고양이 캐릭터가 등장하며, 각 캐
 
 귀여운 고양이 캐릭터와 스프룽키식 음악 제작이 결합된 Sprunki Meets The Cat Spell에서,
 당신만의 "냥이 오케스트라"를 지휘해 보세요.
+

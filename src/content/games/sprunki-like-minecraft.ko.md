@@ -11,9 +11,11 @@ thumbnail: /new-images/thumbnails/sprunki-like-minecraft.png
 tags:
   - sprunki like minecraft
 score: 4.6/5  (601 votes)
+releaseDate: 2025-12-04
 ---
 
 
+<!-- i18n:section:introduction -->
 Incredibox Sprunki의 팬이면서 Minecraft의 픽셀 세계도 좋아하나요? 그렇다면
 *Sprunki Like Minecraft* 모드가 제격입니다. 이 독특한 모드는 Sprunki 캐릭터들을
 마인크래프트 특유의 각진 블록 스타일로 재해석해, 익숙하면서도 새로운 비주얼을
@@ -35,6 +37,7 @@ Sprunki Like Minecraft는 Incredibox Sprunki와 마인크래프트의 블록 월
 - **창의적인 사운드 조합:** 끝없이 다양한 사운드 조합을 통해, 블록 세계에 어울리는
   독특한 리듬과 분위기를 연출할 수 있습니다.
 
+<!-- i18n:section:how-to-play -->
 ### Sprunki Like Minecraft 모드 플레이 방법
 
 이 모드는 마인크래프트와 Sprunki 팬 모두를 만족시키는 크로스오버 경험을 제공합니다.
@@ -42,3 +45,4 @@ Sprunki Like Minecraft는 Incredibox Sprunki와 마인크래프트의 블록 월
 멜로디를 만들어 보세요. Sprunki Interactive 1.0, Sprunki Kiss Edition,
 Sprunki Melodies 같은 다른 Sprunki 시리즈 모드에도 관심이 있다면, 이 모드를 시작점으로
 다양한 버전을 차례로 경험해 보는 것도 좋습니다.
+

@@ -11,6 +11,7 @@ thumbnail: /new-images/thumbnails/sprunki-police-and-prisoners.png
 tags:
   - sprunki police and prisoners
 score: 3.9/5  (325 votes)
+releaseDate: 2025-12-04
 ---
 
 
@@ -55,3 +56,4 @@ Sprunki Police and Prisoners Mod는 잘 알려진 Incredibox Sprunki 스타일�
 힐링하고 싶을 때 Sprunki Police and Prisoners Mod는 좋은 선택입니다. 괴이하면서도
 매력적인 캐릭터들과 함께, 색채와 리듬이 춤추는 추상적인 음악 세계로
 떠나 보세요.
+
