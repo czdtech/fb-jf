@@ -13,12 +13,14 @@ score: 4.1/5  (1986 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation détaillée
 
 Sugar Heroes propose un gameplay match‑3 à base de bonbons et de héros
 animés. Tes objectifs peuvent aller de la suppression de gelées à la collecte
 d’ingrédients, avec des niveaux de plus en plus denses en blocs et obstacles.
 
+<!-- i18n:section:tips -->
 ### Stratégie de jeu
 
 1. **Joue pour l’objectif :** priorise la destruction des bloqueurs ou la
@@ -32,16 +34,21 @@ d’ingrédients, avec des niveaux de plus en plus denses en blocs et obstacles.
 5. **Planifie deux coups à l’avance :** prépare tes matches pour ne pas
    détruire ton prochain combo.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - fais glisser pour échanger deux pièces adjacentes ;
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
+<!-- i18n:faq:id=faq:sugar-heroes:i-hit-move-limits-e64192d0 -->
 - touche / clique les bonus pour les activer ;
 
 A: Chain bonus and prioritize clears that unlock space.
+<!-- i18n:faq:id=faq:sugar-heroes:strong-opener-13100d3b -->
 - utilise la pause ou le redémarrage via l’interface.
 
 
 
 A: Bottom clears; they spawn cascades.
+

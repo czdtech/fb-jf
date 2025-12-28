@@ -11,8 +11,10 @@ thumbnail: /new-images/thumbnails/sprunki-rotrizi-5.png
 tags:
   - sprunki rotrizi 5.0
 score: 4.0/5  (232 votes)
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 Prêt à plonger dans un univers musical rempli de sons futuristes et de possibilités infinies ? Sprunki Rotrizi 5.0 pousse le concept Rotrizi encore plus loin : superposition de pistes complexes, effets glitch hypnotiques et distorsions de basses capables de faire trembler tes enceintes.
 
 ### Le concept de Sprunki Rotrizi 5.0
@@ -25,11 +27,12 @@ Imagine‑toi comme un alchimiste du son : Sprunki Rotrizi 5.0 devient ton labor
 - **Glitches et distorsions :** des effets numériques qui injectent immédiatement une ambiance sci‑fi et un côté expérimental à ton mix.
 - **Basses profondes :** une section grave conçue pour donner du punch et de l’impact à chaque morceau.
 
+<!-- i18n:section:tips -->
 ### Comment jouer à Sprunki Rotrizi 5.0 ?
 
 Démarrer ton exploration sonore est très simple :
 
-- **Patience au chargement :** le jeu peut prendre 30 à 45 secondes pour préparer tous les éléments audio ; l’attente en vaut souvent la peine.
+- **Patience au chargement :** le jeu peut prendre quelques dizaines de secondes pour préparer tous les éléments audio ; l’attente en vaut souvent la peine.
 - **Glisse les personnages :** une fois chargé, utilise la souris pour prendre des personnages dans le menu et les déposer sur la zone de mixage.
 - **Teste des combos :** si un son ne te plaît pas, clique sur le personnage pour le retirer et remplace‑le par un autre.
 - **Déchaîne la magie des glitches :** essaie le clic droit pour activer des effets glitch et ajouter des distorsions surprenantes à ton mix.

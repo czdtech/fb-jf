@@ -11,8 +11,10 @@ thumbnail: /new-images/thumbnails/sprunkr-but-sprunki.png
 tags:
   - sprunkr but sprunki
 score: 4.5/5  (541 votes)
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 Tu apprécies le gameplay de Sprunkr mais tu préfères le style des personnages
 Sprunki ? Sprunkr But Sprunki combine les deux.
 
@@ -35,6 +37,7 @@ Ce Mod :
   l’ensemble plus vivant.
 - **Gameplay engageant :** toujours basé sur le drag‑and‑drop pour construire des compositions complètes.
 
+<!-- i18n:section:how-to-play -->
 ### Comment jouer ?
 
 - choisis tes personnages Sprunki préférés ;
@@ -46,3 +49,4 @@ Ce Mod :
 ### En conclusion:
 Sprunkr But Sprunki est un excellent choix pour les fans des deux univers qui
 veulent profiter du meilleur des deux mondes.
+

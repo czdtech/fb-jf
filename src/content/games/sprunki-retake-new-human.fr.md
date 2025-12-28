@@ -12,6 +12,7 @@ tags:
   - sprunki retake new human
   - musical mod
 score: 4.0/5  (829 votes)
+releaseDate: 2025-12-04
 ---
 
 ### Présentation de Sprunki Retake New Human
@@ -28,6 +29,7 @@ Le cœur de **Sprunki Retake New Human** est de réimaginer l’expérience Incr
 - **Expérience plus immersive :** ces designs renforcent la connexion émotionnelle avec le jeu et rendent la création musicale plus engageante.
 - **Animations plus vivantes :** au fil de ta progression, tu découvres des animations dynamiques inspirées de gestes et attitudes humaines, qui rendent les interactions plus intéressantes.
 
+<!-- i18n:section:how-to-play -->
 ### Comment jouer à Sprunki Retake New Human ?
 
 Envie de tester **Sprunki Retake New Human** ? La prise en main est très simple :
@@ -49,3 +51,4 @@ Envie de tester **Sprunki Retake New Human** ? La prise en main est très simple
 La naissance de **Sprunki Retake New Human** vient de l’envie d’insuffler une nouvelle vie à l’expérience Incredibox. En réimaginant des personnages appréciés sous forme humaine, le mod apporte un regard neuf sur un gameplay déjà culte.
 
 Aujourd’hui, **Sprunki Retake New Human** illustre bien ce que le modding créatif peut produire : un gameplay familier associé à un design innovant, pour une expérience renouvelée. Que tu sois fan de longue date ou nouveau venu, cette interprétation offre une perspective différente et très agréable à découvrir.
+

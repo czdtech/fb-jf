@@ -12,12 +12,14 @@ score: 4.1/5  (1975 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation détaillée
 
 Stickman Fighter Mega est un beat ’em up en vue de côté basé sur le timing et
 le placement. Les ennemis télégraphient leurs attaques : à toi de les punir
 avec des parades bien placées, des jongles en l’air et des attaques de zone.
 
+<!-- i18n:section:tips -->
 ### Stratégie de jeu
 
 1. **Fenêtre de parade :** apprends le timing de contre pour infliger des
@@ -30,25 +32,28 @@ avec des parades bien placées, des jongles en l’air et des attaques de zone.
 5. **Routes de combos :** par exemple : légers → lourd → launcher → enchaînement
    aérien.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
-- déplacement : flèches ou A/D  
+- Déplacement : flèches ou A/D  
+- Attaque : J/K  
+- Spéciale : L  
+- Bloc/parade : I (selon la version)  
+- Pause / Recommencer : via l’interface  
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
-- attaque : J/K  
-- spéciale : L  
-- bloc/parade : I (selon la version)
 
-Stickman Fighter Mega récompense les joueurs qui observent, temporisent et
+<!-- i18n:faq:id=faq:stickman-fighter-mega:i-get-stunlocked-61b761c8 -->
+**1. Je me fais enchaîner (stun‑lock), que faire ?**
+Garde le bloc entre les coups et recule dès que possible. Évite de marteler les
+attaques contre des ennemis en armure : attends une ouverture, puis punis.
 
-- Q: Specials feel weak.
-punissent au bon moment plutôt que de bourrer les touches.
+<!-- i18n:faq:id=faq:stickman-fighter-mega:specials-feel-weak-6b9b414f -->
+**2. Mes attaques spéciales semblent faibles.**
+Utilise‑les plutôt comme finishers ou sur des vagues groupées, pas sur une
+seule cible. Bien placées, elles font surtout gagner du temps et du contrôle.
 
-
-
-A: Light×2→Heavy→Launcher→Air Light×2.
-
-- Q: Best starter combo?
-
-
-A: Light×2→Heavy→Launcher→Air Light×2.
+<!-- i18n:faq:id=faq:stickman-fighter-mega:best-starter-combo-4e356e70 -->
+**3. Un combo simple pour débuter ?**
+Léger×2 → Lourd → Launcher → Léger aérien×2.

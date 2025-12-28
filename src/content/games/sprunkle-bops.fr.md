@@ -11,6 +11,7 @@ tags:
   - sprunkle bops
   - sprunkle bops online
 score: "4.3/5  (524 votes)"
+releaseDate: 2025-12-04
 ---
 
 ### Présentation de Sprunkle Bops
@@ -35,4 +36,5 @@ parfait pour tester leurs réflexes.
 
 Sprunkle Bops est idéal si tu aimes les jeux de rythme compétitifs, avec une
 mise en scène inspirée des battles de rap.
+
 

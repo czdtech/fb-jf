@@ -12,6 +12,7 @@ tags:
   - sprunki sonic
   - sprunki sonic online
 score: 4.0/5  (829 votes)
+releaseDate: 2025-12-04
 ---
 
 ### Présentation de Sprunki Sonic
@@ -57,3 +58,4 @@ Le gameplay est simple à comprendre, mais demande du timing :
 
 Sprunki Sonic est un excellent Mod si tu veux mixer deux passions : la musique
 et la vitesse.
+

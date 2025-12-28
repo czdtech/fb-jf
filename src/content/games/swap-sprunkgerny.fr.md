@@ -11,8 +11,10 @@ tags:
   - swap sprunkgerny
   - swap sprunkgerny online
 score: 4.9/5  (724 votes)
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:tips -->
 ### Présentation de Swap Sprunkgerny
 
 Envie de devenir un maestro et de créer un morceau juste avec tes doigts ? SWAP SPRUNKGERNY te donne cette opportunité. Le jeu te fait diriger une bande de personnages colorés, tout en t’immergeant dans un univers musical fun et plein de surprises.

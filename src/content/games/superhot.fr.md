@@ -16,6 +16,7 @@ score: 3.9/5  (1186 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Superhot est un FPS innovant où le temps n’avance que lorsque tu bouges, créant une expérience de puzzle tactique qui mélange action et planification. Chaque mouvement doit être pensé avec précision dans un monde au ralenti.
@@ -28,6 +29,7 @@ Superhot est un FPS innovant où le temps n’avance que lorsque tu bouges, cré
 4.  **Tirs précis :** vise la tête ou des zones vitales pour éliminer vite.
 5.  **Utilise le décor :** abrite‑toi et sers‑toi d’objets de l’environnement pour te protéger.
 
+<!-- i18n:section:how-to-play -->
 ### Comment jouer
 
 - **Déplacement :** ZQSD / WASD
@@ -45,3 +47,4 @@ Superhot est un FPS innovant où le temps n’avance que lorsque tu bouges, cré
     **R :** utilise le ralenti pour lire la trajectoire des balles et te déplacer au bon moment.
 4.  **Q : Combien de niveaux contient le jeu ?**
     **R :** la version prototype contient généralement plusieurs niveaux, chacun avec des défis et des placements d’ennemis différents.
+

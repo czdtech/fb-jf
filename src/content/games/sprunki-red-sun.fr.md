@@ -11,6 +11,7 @@ thumbnail: /new-images/thumbnails/sprunki-red-sun.png
 tags:
   - sprunki red sun
 score: 4.4/5  (232 votes)
+releaseDate: 2025-12-04
 ---
 
 ### Qu’est‑ce que Sprunki Red Sun ?
@@ -28,6 +29,7 @@ parfait pour composer des morceaux intenses, lourds et explosifs.
 - **Interactions percutantes :** de nouveaux effets sonores et éclats visuels apparaissent quand tu mixes, pour un voyage musical dynamique et immersif.
 - **Environnement frappant :** fonds rouges, éclairs de lumière et ambiance de fin du monde.
 
+<!-- i18n:section:how-to-play -->
 ### Comment jouer à Sprunki Red Sun ?
 
 - **Choisis tes personnages « en fusion » :** chacun apporte un son chargé
@@ -47,3 +49,4 @@ parfait pour composer des morceaux intenses, lourds et explosifs.
 
 Si tu veux une expérience Sprunki « à haute température », Sprunki Red Sun
 est clairement un Mod à tester.
+

@@ -13,8 +13,10 @@ thumbnail: /new-images/thumbnails/sprunki-sepbox-steel-factory.png
 tags:
   - sprunki x sepbox steel factory
 score: 4.9/5  (509 votes)
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 Prépare‑toi à entrer dans une usine musicale où chaque bruit de métal devient
 une note. Sprunki x SepBox Steel Factory transforme l’univers Sprunki en
 fabrique géante, avec des personnages inspirés de machines et d’ouvriers
@@ -57,3 +59,4 @@ Ce Mod se démarque par son ambiance d’usine et sa liberté de création :
 - Chaque personnage propose des sons distincts inspirés des machines lourdes et du travail du métal.
 Sprunki x SepBox Steel Factory est idéal si tu aimes les ambiances industrielles
 et les sons mécaniques puissants.
+

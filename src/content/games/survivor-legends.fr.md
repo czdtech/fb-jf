@@ -15,12 +15,14 @@ score: 4.1/5  (2019 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation détaillée
 
 Survivor Legends reprend la formule des jeux de survie auto‑attaque : ton
 personnage tire automatiquement, tu te contentes de te déplacer, d’esquiver
 et de choisir les améliorations à chaque montée de niveau.
 
+<!-- i18n:section:tips -->
 ### Stratégie de jeu
 
 1. **Grandes trajectoires de kite :** fais des boucles larges pour garder des
@@ -34,17 +36,22 @@ et de choisir les améliorations à chaque montée de niveau.
 5. **Gardes tes ultimes :** réserve les compétences actives pour les pics de
    vagues et les élites.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - déplacement : WASD / flèches ;  
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
+<!-- i18n:faq:id=faq:survivor-legends:i-get-cornered-e450951e -->
 - activations spéciales : chiffres (selon version).
 
 
 
 A: Pickup radius/XP, then core damage and survivability.
 
+<!-- i18n:faq:id=faq:survivor-legends:which-upgrades-first-03b66ce2 -->
 - Q: Which upgrades first?
 
 A: Re‑route to midmap and dash through thin gaps early.
+

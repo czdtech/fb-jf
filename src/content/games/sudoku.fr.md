@@ -13,6 +13,7 @@ score: 5.0/5  (1136 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Introduction du jeu
 
 "Sudoku" est un jeu de puzzle classique où les joueurs remplissent une grille 9×9 avec les chiffres de 1 à 9, en s'assurant que chaque ligne, colonne et carré 3×3 contienne tous les chiffres exactement une fois. Ce casse-tête basé sur la logique met à l'épreuve les capacités de raisonnement et la patience des joueurs.
@@ -25,6 +26,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 4.  **Trouver les singles cachés :** cherche les chiffres qui ne peuvent être placés qu'à une seule position dans une ligne, colonne ou carré.
 5.  **Progression :** après avoir rempli chaque chiffre, réanalyse toute la grille pour trouver de nouveaux points de progression.
 
+<!-- i18n:section:how-to-play -->
 ### Comment jouer
 
 *   **Sélectionner une case :** clique sur les cases vides pour les sélectionner.
@@ -42,3 +44,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
     **R :** Généralement divisé en différents niveaux comme facile, moyen, difficile et expert.
 4.  **Q : Dois-je deviner ?**
     **R :** Le Sudoku standard devrait être résolvable par raisonnement logique pur sans deviner.
+

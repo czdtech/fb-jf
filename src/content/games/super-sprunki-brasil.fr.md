@@ -9,6 +9,7 @@ tags:
   - super sprunki brasil
   - super sprunki brasil online
 score: 4.3/5  (380 votes)
+releaseDate: 2025-12-04
 ---
 
 ### Présentation de Super Sprunki Brasil
@@ -21,6 +22,7 @@ Tu veux enflammer ta créativité musicale avec la passion brésilienne ? Super 
  
 En termes simples, Super Sprunki Brasil est un jeu musical qui te permet de ressentir l'ambiance brésilienne. Les couleurs vives du jeu, les personnages enthousiastes et les riches éléments musicaux brésiliens t'immergeront dans un monde musical vibrant et culturellement riche.
  
+<!-- i18n:section:how-to-play -->
 ### Comment jouer à Super Sprunki Brasil ?
  
 Le gameplay est très simple, maîtrise les points suivants et tu pourras aussi jouer le rythme de la samba :
@@ -54,3 +56,4 @@ Le gameplay est très simple, maîtrise les points suivants et tu pourras aussi 
 ### En conclusion:
  
 Super Sprunki Brasil est un Mod Incredibox qui te permet d'enflammer ta créativité musicale avec la passion brésilienne. Viens rejoindre Super Sprunki Brasil, et utilise ta musique pour transmettre la passion et la vitalité du Brésil au monde !
+

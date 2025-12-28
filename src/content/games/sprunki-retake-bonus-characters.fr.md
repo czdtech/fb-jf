@@ -11,6 +11,7 @@ thumbnail: /new-images/thumbnails/sprunki-retake-bonus-characters.png
 tags:
   - sprunki retake bonus characters
 score: "3.9/5  (132 votes)"
+releaseDate: 2025-12-04
 ---
 
 ### Qu’a de spécial Sprunki Retake Bonus Characters ?
@@ -40,4 +41,5 @@ l’impression de diriger un petit cercle de percussionnistes autour d’un feu.
 Que tu sois musicien confirmé ou simple curieux, Sprunki Retake Bonus
 Characters t’offre un terrain de jeu original pour réveiller ton « instinct
 rythmique ».
+
 

@@ -12,8 +12,10 @@ tags:
   - sprunki swapped horror
   - sprunki swapped horror online
 score: 4.4/5  (395 votes)
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 Marre de l’expérience Incredibox habituelle ? Tu as envie d’une aventure musicale pleine de surprises ? Alors essaie Sprunki Swapped Horror. Ce mod innovant t’emmène dans un monde alternatif où les personnages sont « swap », pour créer une musique d’horreur unique avec de nouveaux paysages sonores et de nouveaux rythmes.
 
 ### Qu’est‑ce que Sprunki Swapped Horror ?
@@ -26,6 +28,7 @@ Sprunki Swapped Horror est un mod Incredibox créatif qui apporte une nouvelle d
 - **Nouveaux paysages sonores et rythmes :** chaque personnage apporte des sons inédits, ce qui ouvre des possibilités de création quasi infinies. Teste des combinaisons et crée des morceaux uniques.
 - **Animations retravaillées :** de nouvelles animations mettent en valeur les identités « transformées » des personnages, rendant ta musique encore plus spectaculaire visuellement.
 
+<!-- i18n:section:how-to-play -->
 ### Comment jouer à Sprunki Swapped Horror ?
 
 Envie de découvrir le charme de Sprunki Swapped Horror ? La prise en main est simple :
@@ -50,3 +53,4 @@ Son développement s’est concentré sur la création de combinaisons surprenan
 Aujourd’hui, Sprunki Swapped Horror s’impose comme un mod de remix à part, où personnages revisités et mécanique d’échange se combinent pour un voyage musical aussi étrange qu’addictif.
 
 Rejoins la communauté Sprunki Swapped Horror et partage ton expérience avec ce mod.
+

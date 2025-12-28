@@ -12,6 +12,7 @@ tags:
   - sprunki retake
   - sprunki retake online
 score: 4.3/5  (524 votes)
+releaseDate: 2025-12-04
 ---
 
 ### Présentation de Sprunki Retake
@@ -74,3 +75,4 @@ les Mods purement « mixage ».
 Sprunki Retake réussit à conserver l’ADN musical de Sprunki tout en y
 injectant une bonne dose de frisson. Idéal si tu veux un Mod à la fois
 créatif et un peu effrayant.
+

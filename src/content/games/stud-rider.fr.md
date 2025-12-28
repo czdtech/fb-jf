@@ -13,12 +13,14 @@ score: 3.9/5  (1707 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation détaillée
 
 Stud Rider mise sur le flow : petits coups de gaz, atterrissages à plat et
 figures mesurées pour garder ta vitesse. Le relief punit les plongeons de la
 roue avant et les flips en excès.
 
+<!-- i18n:section:tips -->
 ### Stratégie de jeu
 
 1. **Atterris à plat** pour garder l’adhérence.
@@ -30,17 +32,22 @@ roue avant et les flips en excès.
 5. **Mémorise la longueur des sauts** pour enchaîner les sections sans casser
    le rythme.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - Accélérer / freiner : W/S ou Haut/Bas  
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
+<!-- i18n:faq:id=faq:stud-rider:i-keep-tucking-the-front-1c01e1e1 -->
 - S’incliner : A/D ou Gauche/Droite
 
 
 
 A: Use only when certain; focus on clean landings.
 
+<!-- i18n:faq:id=faq:stud-rider:flips-kill-my-speed-75e9869e -->
 - Q: Flips kill my speed.
 
 A: Ease off before lips and lean back slightly, then level out.
+

@@ -12,6 +12,7 @@ score: 4.7/5  (3719 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation de Steal a Brainrot
 
 *Steal a Brainrot* est un jeu d’action‑infiltration multijoueur populaire sur la plateforme Roblox. Son objectif est aussi absurde que drôle : **infiltrer une zone lourdement gardée, voler un personnage‑meme (« Brainrot »), puis le ramener à ta base.**
@@ -22,6 +23,7 @@ La carte est généralement un espace complexe rempli d’obstacles, de pièges 
 
 Le fun vient surtout du chaos multijoueur imprévisible et du contraste entre un gameplay d’infiltration « sérieux » et des memes complètement ridicules.
 
+<!-- i18n:section:tips -->
 ### Conseils de gameplay et tactiques
 
 1.  **Reconnaissance avant tout :** n’entre pas tête baissée. Observe la carte, les trajets des gardes, les angles morts des caméras et les cachettes.
@@ -34,31 +36,40 @@ Le fun vient surtout du chaos multijoueur imprévisible et du contraste entre un
 5.  **Prévois une route de sortie différente :** au retour, tu peux être ralenti ou déclencher une alarme. Choisis un chemin plus direct ou plus couvert que l’aller.
 6.  **Connais ton « Brainrot » :** selon la version, certains Brainrots peuvent être plus lourds, plus bruyants ou avoir des contraintes qui changent ta stratégie.
 
+<!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `W` `A` `S` `D` `Space Bar` `Shift` `Ctrl` `C` `E` `F` `1` `2` `3` `Q`
 
 Comme c’est un jeu Roblox, les commandes suivent le standard de la plateforme :
 
-- **Déplacement :** `W`, `A`, `S`, `D`
-- **Saut :** `Espace`
-- **Sprint :** maintenir `Shift`
-- **Accroupir / discrétion :** `Ctrl` ou `C`
-- **Interagir / voler :** `E` ou `F`
-- **Utiliser un objet :** touches `1`, `2`, `3`… ou `Q`
+- **Déplacement :** W, A, S, D
+- **Saut :** Espace
+- **Sprint :** maintenir Shift
+- **Accroupir / discrétion :** Ctrl ou C
+- **Interagir / voler :** E ou F
+- **Utiliser un objet :** touches 1, 2, 3… ou Q
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:steal-a-brainrot:where-can-i-play-this-4bfcb29e -->
 **1. Où puis‑je jouer à ce jeu ?**
 
 Le jeu est disponible gratuitement sur **Roblox**. Cherche **« Steal a Brainrot »** dans l’application ou sur le site, puis choisis une version populaire.
 
+<!-- i18n:faq:id=faq:steal-a-brainrot:is-this-game-singleplayer-or-c4933735 -->
 **2. C’est un jeu solo ou multijoueur ?**
 
 Il est conçu principalement pour le **multijoueur**, en coopération ou en compétition. On peut parfois rejoindre seul, mais l’intérêt du gameplay vient surtout des interactions avec d’autres joueurs.
 
+<!-- i18n:faq:id=faq:steal-a-brainrot:what-exactly-is-a-brainrot-6c62ff59 -->
 **3. « Brainrot », ça veut dire quoi ?**
 
 C’est un terme d’argot Internet pour parler de contenus viraux « bas de gamme ». Le jeu transforme ce concept abstrait en objet/personnage que tu peux littéralement « voler », et c’est ce qui fait une grande partie de l’humour.
 
+<!-- i18n:faq:id=faq:steal-a-brainrot:what-is-the-objective-to-b300ad36 -->
 **4. Quel est l’objectif pour gagner ?**
 
 En général, une équipe doit voler et ramener le Brainrot à sa base le plus de fois possible dans une limite de temps. D’autres modes peuvent exister, comme réussir le casse sans se faire repérer.
+

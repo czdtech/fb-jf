@@ -10,8 +10,10 @@ thumbnail: /new-images/thumbnails/sprunki-squid-remix.png
 tags:
   - sprunki squid remix
 score: 4.1/5  (92 votes)
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 Prêt pour un défi musical qui fait monter l’adrénaline ? Sprunki Squid Remix
 reprend les mécaniques de création de Sprunki et les transpose dans un univers
 inspiré de Squid Game : masques, épreuves et tension permanente.
@@ -47,4 +49,5 @@ Sprunki Squid Remix est parfait si tu veux un Mod musical avec un vrai côté
 
 ### En résumé:
 thriller.
+
 

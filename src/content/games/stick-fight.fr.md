@@ -15,6 +15,7 @@ score: 3.6/5  (1015 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Stick Fight est un jeu de combat rapide basé sur la physique, où tu contrôles un stickman dans des arènes dangereuses. Le but est d’être le dernier debout. Entre pièges de l’environnement et armes qui apparaissent, les rounds deviennent vite chaotiques et hilarants.
@@ -27,16 +28,20 @@ L’objectif de chaque manche est d’éliminer tes adversaires en les faisant t
 - **Physique :** le moteur physique influence les mouvements et le recul des armes ; sers‑t’en pour faire des tirs malins ou projeter tes ennemis.
 - **Arènes :** chaque niveau a son propre layout et ses dangers (pics, blocs qui tombent, glace, etc.) ; adapte‑toi au terrain.
 
+<!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `A` `D` `Left/Right Arrow Keys` `W` `Up Arrow` `S` `Down Arrow` `Left Mouse Button` `F` `Right Mouse Button` `G`
 
 Les commandes reprennent celles d’un jeu de plate‑forme 2D classique :
 
-- **Déplacement :** `A` et `D` ou `Flèches gauche/droite`
-- **Saut :** `W` ou `Flèche haut`
-- **Accroupi :** `S` ou `Flèche bas`
-- **Attaque :** clic gauche ou `F`
-- **Blocage :** clic droit ou `G`
+- **Déplacement :** A et D ou Flèches gauche/droite
+- **Saut :** W ou Flèche haut
+- **Accroupi :** S ou Flèche bas
+- **Attaque :** clic gauche ou F
+- **Blocage :** clic droit ou G
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
 **Quel est le but principal de Stick Fight ?**
@@ -50,3 +55,4 @@ Oui. Stick Fight est surtout un jeu multijoueur, souvent jouable à 2–4 joueur
 **Quels types d’armes trouve‑t‑on dans le jeu ?**
 
 Le jeu propose un grand arsenal : armes de mêlée (épées, lances) et armes à distance (pistolets, fusils à pompe…), jusqu’à des lance‑roquettes absurdes.
+

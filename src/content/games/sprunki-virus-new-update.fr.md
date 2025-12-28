@@ -11,8 +11,10 @@ thumbnail: /new-images/thumbnails/sprunki-virus-new-update.png
 tags:
   - sprunki virus new update
 score: 4.0/5  (407 votes)
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 Sprunki Virus propose une plongée dans un Sprunki « corrompu » : les
 personnages semblent infectés, les graphismes se déforment et les sons
 deviennent de plus en plus inquiétants.
@@ -45,3 +47,4 @@ Le Mod revisite Sprunki en :
 
 Sprunki Virus New Update est parfait si tu aimes les ambiances corrompues,
 les glitchs et les expériences sonores un peu extrêmes.
+
