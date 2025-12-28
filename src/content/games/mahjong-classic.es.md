@@ -19,6 +19,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Mahjong Classic es el puzle para un solo jugador de toda la vida, basado
@@ -28,6 +29,7 @@ fichas apiladas encontrando y emparejando parejas idénticas. Es un juego que
 pone a prueba tu capacidad de observación y tu pensamiento estratégico,
 ofreciendo una experiencia relajante pero mentalmente estimulante.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **La regla de las fichas libres:** solo puedes seleccionar y emparejar
@@ -47,6 +49,7 @@ ofreciendo una experiencia relajante pero mentalmente estimulante.
     fichas de Estaciones. No necesitan ser idénticas. Aprovecha esta flexibilidad,
     sobre todo cuando estés a punto de quedarte sin movimientos.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 El juego se maneja con simples clics de ratón o toques en pantalla.
@@ -57,17 +60,22 @@ El juego se maneja con simples clics de ratón o toques en pantalla.
     que te muestra una posible pareja y un botón de "Barajar" que reorganiza
     las fichas si ya no hay movimientos disponibles.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:mahjong-classic:q-why-cant-i-click-ef881ea9 -->
 *   **P: ¿Por qué no puedo hacer clic en una ficha?**
     *   **R:** La ficha no está "libre". Puede estar bloqueada por ambos lados
         por otras fichas o tener otra ficha apilada encima.
 
+<!-- i18n:faq:id=faq:mahjong-classic:q-what-is-the-goal-ab58581b -->
 *   **P: ¿Cuál es el objetivo del juego?**
     *   **R:** Limpiar el 100% de las fichas del tablero emparejándolas de dos
         en dos.
 
+<!-- i18n:faq:id=faq:mahjong-classic:q-i-have-no-more-9db97c8a -->
 *   **P: Me he quedado sin movimientos, ¿la partida ha terminado?**
     *   **R:** No necesariamente. Si ya no hay parejas posibles, el juego suele
         ofrecerte una opción de "Barajar" para reorganizar las fichas restantes
         y generar nuevos movimientos.
+

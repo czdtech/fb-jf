@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Match Puzzle House mezcla el clásico mach-3 con la renovación de interiores.
@@ -24,6 +25,7 @@ Limpia bloqueos, recoge los objetos objetivo dentro del límite de movimientos y
 usa las estrellas para decorar. Los potenciadores y las combinaciones entre
 ellos son la clave para superar los tableros más cargados.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  Control del centro: abre primero la zona central para ganar espacio de
@@ -36,21 +38,27 @@ ellos son la clave para superar los tableros más cargados.
 5.  Plan a dos turnos: piensa siempre en la siguiente jugada para no romper una
     buena preparación.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - Arrastra para intercambiar fichas adyacentes; activa los potenciadores desde
   la interfaz; decora las habitaciones entre partidas.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:match-puzzle-house:im-stuck-on-a-chain-bb594243 -->
 - P: Me he quedado atascado en un nivel con cadenas.  
   R: Prioriza detonaciones junto a las cadenas; los rayos que las atraviesan
   ayudan a romperlas rápido.
 
+<!-- i18n:faq:id=faq:match-puzzle-house:do-renovations-help-ingame-9044bd81 -->
 - P: ¿Las reformas influyen en las partidas?  
   R: Principalmente son cosméticas, aunque algunas decoraciones pueden
   desbloquear recompensas de progresión.
 
+<!-- i18n:faq:id=faq:match-puzzle-house:best-generic-booster-8d54c24f -->
 - P: ¿Cuál es el mejor potenciador genérico?  
   R: El limpiador de color, porque permite remodelar un tablero que se ha
   quedado atascado.
+

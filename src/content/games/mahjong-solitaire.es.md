@@ -19,6 +19,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Mahjong Solitaire es un juego de emparejar fichas para un solo jugador que usa
@@ -30,6 +31,7 @@ planificación: un mal movimiento puede bloquear futuras parejas. Es un
 puzle relajante pero exigente a nivel mental, disfrutado por millones de
 personas.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Entender las fichas "libres":** la regla más importante es que solo
@@ -56,6 +58,7 @@ personas.
     "Barajar" que reorganiza las fichas restantes para generar nuevas
     combinaciones.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 El juego se controla con ratón o pantalla táctil.
@@ -64,18 +67,23 @@ El juego se controla con ratón o pantalla táctil.
 *   **Emparejar:** haz clic en una segunda ficha idéntica y libre para formar
     la pareja. Ambas fichas desaparecerán del tablero.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:mahjong-solitaire:q-why-cant-i-select-ea37982f -->
 *   **P: ¿Por qué no puedo seleccionar una ficha?**
     *   **R:** La ficha no está "libre". Probablemente esté bloqueada por ambos
         lados o tenga otra ficha parcial o totalmente encima.
 
+<!-- i18n:faq:id=faq:mahjong-solitaire:q-what-do-i-do-546f0328 -->
 *   **P: ¿Qué hago si me quedo sin parejas visibles?**
     *   **R:** Si estás seguro de que no quedan parejas, busca un botón de
         "Barajar" o "Reorganizar". Si el juego no ofrece barajado y ya no hay
         movimientos, la partida se considera perdida.
 
+<!-- i18n:faq:id=faq:mahjong-solitaire:q-are-the-seasonflower-tiles-bd5c0f97 -->
 *   **P: ¿Las fichas de Estaciones y Flores son todas diferentes?**
     *   **R:** Sí, sus ilustraciones varían, pero pertenecen al mismo grupo.
         Puedes emparejar cualquier ficha del grupo de Estaciones con otra del
         mismo grupo, y lo mismo ocurre con el grupo de Flores.
+

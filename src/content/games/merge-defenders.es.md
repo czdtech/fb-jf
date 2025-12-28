@@ -18,6 +18,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Merge Defenders es un juego estratégico y dinámico que mezcla la adicción de
@@ -26,6 +27,7 @@ oleadas constantes de enemigos. No solo colocarás torres: comprarás unidades
 básicas, fusionarás dos iguales para crear defensores de nivel superior y los
 posicionarás en los puntos clave del campo de batalla.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Ciclo de fusión:** el corazón del juego es la mecánica de merge. Empiezas
@@ -44,6 +46,7 @@ posicionarás en los puntos clave del campo de batalla.
     unidad puede cubrir el camino durante más tiempo. Reserva esos puntos para
     tus defensores más potentes.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 El juego se controla por completo con ratón o táctil.
@@ -55,19 +58,24 @@ El juego se controla por completo con ratón o táctil.
 *   **Desplegar unidad:** arrastra una unidad desde la reserva hasta una casilla
     libre de la línea defensiva.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:merge-defenders:q-how-do-i-get-41092844 -->
 *   **P: ¿Cómo consigo defensores realmente fuertes?**
     *   **R:** Mediante fusiones continuas. Dos unidades de nivel 1 forman una
         de nivel 2, dos de nivel 2 una de nivel 3, y así sucesivamente. La
         clave es comprar y fusionar de forma constante.
 
+<!-- i18n:faq:id=faq:merge-defenders:q-why-cant-i-place-0b1445b0 -->
 *   **P: ¿Es mejor llenar el tablero con muchas unidades débiles o pocas
     fuertes?**
     *   **R:** Normalmente unas pocas unidades de nivel alto rinden mejor que
         muchas de nivel bajo. Prioriza subir de nivel a tus mejores defensores.
 
+<!-- i18n:faq:id=faq:merge-defenders:q-im-being-overwhelmed-by-34515d67 -->
 *   **P: Me desbordan las oleadas, ¿qué hago?**
     *   **R:** Asegúrate de que todas las casillas defensivas estén ocupadas,
         fusiona siempre que puedas y coloca tus unidades de nivel más alto en
         las posiciones de mayor impacto.
+

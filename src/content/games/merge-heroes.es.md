@@ -18,6 +18,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Merge Heroes combina de forma atractiva mecánicas de puzle de fusión con
@@ -26,6 +27,7 @@ monstruos. Para ello no solo reclutas héroes: fusionas copias idénticas para
 hacerlos evolucionar y luego los colocas de forma estratégica en el campo de
 batalla para que defiendan automáticamente tus fronteras.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Comprar y fusionar:** utiliza el oro para comprar héroes básicos, que
@@ -44,6 +46,7 @@ batalla para que defiendan automáticamente tus fronteras.
     Reinviértelo cuanto antes en comprar más héroes básicos para seguir
     fusionando y mantener tu ejército a la altura de las oleadas.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 El juego se maneja con controles sencillos de arrastrar y soltar.
@@ -55,18 +58,23 @@ El juego se maneja con controles sencillos de arrastrar y soltar.
     vacía del campo de batalla para desplegarlo, o devuélvelo a la reserva para
     intercambiarlo por otro.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:merge-heroes:q-how-do-i-create-41948c83 -->
 *   **P: ¿Cómo creo un héroe realmente fuerte?**
     *   **R:** A base de fusiones en cadena. Dos héroes de nivel 1 forman uno de
         nivel 2, dos de nivel 2 uno de nivel 3, etc. Mantén siempre el ciclo de
         compra y fusión en marcha.
 
+<!-- i18n:faq:id=faq:merge-heroes:q-should-i-fill-my-0ce2bd18 -->
 *   **P: ¿Me compensa llenar el tablero de héroes débiles o pocos héroes
     fuertes?**
     *   **R:** Normalmente unos pocos héroes de nivel alto rinden mejor que
         muchos de nivel bajo. Prioriza subir de nivel a tus mejores unidades.
 
+<!-- i18n:faq:id=faq:merge-heroes:q-why-did-my-heroes-50347d7c -->
 *   **P: Mis héroes dejan de atacar de repente, ¿es un bug?**
     *   **R:** Suele ocurrir entre oleadas. Cuando aparezca la siguiente, tus
         héroes volverán a entrar en acción automáticamente.
+

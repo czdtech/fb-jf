@@ -18,6 +18,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Mahjong Connect se diferencia del mahjong solitario clásico: aquí tienes que
@@ -26,6 +27,7 @@ recto y que no atraviese otras fichas. Las misiones añaden fichas bloqueadas,
 niebla y bombas que exigen priorizar objetivos y mantener el tablero bien
 controlado.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  Búsqueda en los bordes: los bordes y las esquinas ofrecen la mayoría de
@@ -39,20 +41,26 @@ controlado.
 5.  Gestión del tiempo: usa las pistas solo cuando el tablero se estanque y
     te cueste encontrar nuevas parejas.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - Haz clic en dos fichas idénticas para conectarlas si existe un camino legal;
   las opciones de pista y barajado dependen de la interfaz.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:mahjong-connect-mission:no-moves-is-it-over-eb2a95e6 -->
 - P: No veo movimientos, ¿la partida ha terminado?  
   R: Si el modo lo permite, usa el barajado; de lo contrario, tendrás que
   reiniciar y planificar mejor para evitar callejones sin salida.
 
+<!-- i18n:faq:id=faq:mahjong-connect-mission:do-diagonals-connect-fb9ae333 -->
 - P: ¿Se conectan las diagonales?  
   R: No, solo se permiten caminos ortogonales con hasta dos giros.
 
+<!-- i18n:faq:id=faq:mahjong-connect-mission:any-symbol-confusion-tips-cd295f6b -->
 - P: ¿Algún truco para no confundir símbolos?  
   R: Familiarízate con los palos y las fichas de flores/estaciones; hacer zoom
   ayuda mucho en diseños con arte muy detallado.
+

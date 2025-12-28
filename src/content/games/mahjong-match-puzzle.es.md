@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Mahjong Match Puzzle utiliza pilas en capas donde solo se pueden emparejar las
@@ -24,6 +25,7 @@ niveles añaden caminos de conexión o fichas especiales. La clave está en libe
 las "tapas" superiores, conservar opciones y evitar emparejar demasiado pronto
 parejas que sellan las fichas más profundas.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  Quitar las tapas: libera y elimina primero las fichas de la parte superior
@@ -37,21 +39,27 @@ parejas que sellan las fichas más profundas.
 5.  Ritmo: no tengas prisa; las decisiones meditadas valen más que la velocidad
     pura.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - Selecciona dos fichas libres iguales para retirarlas; usa las opciones de
   pista o barajado según lo permita la interfaz.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:mahjong-match-puzzle:no-moves-available-7839c24d -->
 - P: No me quedan movimientos, ¿qué hago?  
   R: Si el modo lo permite, usa el barajado; si no, reinicia el nivel con un
   plan que priorice las fichas superiores.
 
+<!-- i18n:faq:id=faq:mahjong-match-puzzle:do-seasonsflowers-match-crosss-e46bd232 -->
 - P: ¿Las fichas de estaciones y flores se pueden mezclar entre sí?  
   R: En muchos conjuntos se pueden emparejar fichas dentro del grupo de
   estaciones o dentro del grupo de flores aunque el dibujo no sea idéntico.
 
+<!-- i18n:faq:id=faq:mahjong-match-puzzle:timed-95aa06a5 -->
 - P: ¿Hay niveles cronometrados?  
   R: Algunos tableros tienen límite de tiempo; en ellos, prioriza las tapas y
   los símbolos raros.
+

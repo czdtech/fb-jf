@@ -18,6 +18,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Ludo Legend es una fantástica versión digital del querido juego de mesa clásico
@@ -28,6 +29,7 @@ controlados por la máquina, lanza el dado y usa la estrategia para capturar las
 fichas de tus rivales y devolverlas a su base. ¡Conviértete en una leyenda del
 Ludo siendo el primero en llevar a casa las cuatro fichas!
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Salir de la base:** necesitas sacar un seis para mover una ficha desde tu
@@ -46,23 +48,29 @@ Ludo siendo el primero en llevar a casa las cuatro fichas!
     columna de llegada del color correspondiente y luego al triángulo final de
     casa. Necesitas una tirada exacta para entrar en la casilla final.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 *   **Lanzar dado:** haz clic en el dado para tirarlo.
 *   **Mover ficha:** después de tirar, el juego resaltará tus movimientos
     posibles. Haz clic en la ficha que quieras mover.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:ludo-legend:q-what-is-the-objective-c3cede21 -->
 *   **P: ¿Cuál es el objetivo de Ludo?**
     *   **R:** Ser el primer jugador en llevar las cuatro fichas desde la base
         de salida hasta el triángulo final de casa.
 
+<!-- i18n:faq:id=faq:ludo-legend:q-what-happens-when-i-68ce1a26 -->
 *   **P: ¿Qué pasa cuando saco un seis?**
     *   **R:** Tirar un seis te da dos ventajas: puedes sacar una ficha de la
         base al tablero y además obtienes una tirada extra.
 
+<!-- i18n:faq:id=faq:ludo-legend:q-can-i-pass-my-2134a96c -->
 *   **P: ¿Puedo pasar por encima de mis propias fichas?**
     *   **R:** Sí, puedes pasar por tus propias fichas. Sin embargo, si tienes
         dos fichas en la misma casilla formando un bloqueo, ni siquiera tú
         mismo podrás colocar una tercera ficha en ese punto.
+

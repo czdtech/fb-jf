@@ -15,6 +15,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 En Light Line debes dibujar caminos que no se crucen y conecten nodos
@@ -23,6 +24,7 @@ limitada, pasos obligatorios o interruptores que abren y cierran compuertas. En
 los niveles avanzados aparecen tableros por capas donde varias líneas comparten
 energía.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  Empieza por los cuellos de botella: rellena primero los pasillos estrechos,
@@ -36,22 +38,28 @@ energía.
 5.  Deshaz pronto: si ves que los caminos se van a cruzar sí o sí, deshaz y
     replantea la ruta cuanto antes.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - Arrastra para dibujar o borrar líneas, toca los interruptores y acerca/aleja o
   desplaza la vista en tableros muy densos.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:light-line:lines-always-collide-how-to-b8738577 -->
 - Q: Mis líneas siempre chocan entre sí, ¿cómo lo evito?  
   A: Traza primero los pasillos estrechos y usa esas rutas como estructura
   principal; evita los patrones en espiral que encierran espacio.
 
+<!-- i18n:faq:id=faq:light-line:are-diagonal-moves-allowed-b138326e -->
 - Q: ¿Se permiten movimientos en diagonal?  
   A: Normalmente los movimientos son ortogonales en cuadrícula; revisa las
   reglas de cada nivel.
 
+<!-- i18n:faq:id=faq:light-line:is-there-a-hint-system-23e35ede -->
 - Q: ¿Hay sistema de pistas?  
   A: Muchas versiones incluyen pistas paso a paso o soluciones completas que
   puedes consultar si te bloqueas.
+
 

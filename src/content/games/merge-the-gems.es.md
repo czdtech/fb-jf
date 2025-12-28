@@ -18,6 +18,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Merge the Gems es un puzle sencillo, relajante y altamente adictivo
@@ -27,6 +28,7 @@ vez más brillantes y elaboradas. El objetivo es gestionar el tablero, fusionar
 sin parar para descubrir nuevos tipos de gemas y cumplir objetivos para ganar
 puntos y monedas.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Cadena de fusión:** el núcleo del juego es arrastrar una gema y soltarla
@@ -43,6 +45,7 @@ puntos y monedas.
     apareciendo. Completarlos es la mejor manera de conseguir grandes cantidades
     de monedas y avanzar.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 El juego se maneja con controles sencillos de arrastrar y soltar.
@@ -52,19 +55,24 @@ El juego se maneja con controles sencillos de arrastrar y soltar.
 *   **Comprar gemas:** entra en la tienda y compra gemas que ya hayas
     descubierto.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:merge-the-gems:q-how-do-i-get-a4e41d81 -->
 *   **P: ¿Cómo consigo gemas nuevas?**
     *   **R:** Cada cierto tiempo aparecerá automáticamente una gema básica en
         un hueco libre. También puedes gastar monedas en la tienda para
         comprarlas directamente.
 
+<!-- i18n:faq:id=faq:merge-the-gems:q-what-is-the-main-212faaec -->
 *   **P: ¿Cuál es el objetivo principal?**
     *   **R:** Descubrir todos los tipos de gemas posibles mediante fusiones y
         completar las tareas que te proponga el juego para lograr la máxima
         puntuación.
 
+<!-- i18n:faq:id=faq:merge-the-gems:q-my-board-is-full-6b64b9a8 -->
 *   **P: El tablero está lleno y no puedo mover nada, ¿qué hago?**
     *   **R:** Necesitas liberar espacio. Revisa si hay merges disponibles; si
         de verdad no queda ninguno, utiliza la opción de vender o eliminar una
         gema de poco valor para abrir un hueco.
+

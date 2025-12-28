@@ -16,18 +16,21 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Descripción general
 La tercera entrega afina todavía más las plataformas con ventanas de tiempo más
 exigentes, peligros móviles y rutas secretas adicionales. Encontrarás puzles de
 interruptores, llaves ocultas y pasadizos fuera de la pantalla que recompensan
 la exploración cuidadosa y las rutas eficientes.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 - Primero céntrate en superar la salida principal y luego vuelve para buscar
   secretos y medallas de tiempo.
 - Usa las plataformas móviles para preparar saltos más largos y seguros.
 - Recuerda qué llave abre cada puerta para evitar retrocesos innecesarios.
 
+<!-- i18n:section:controls -->
 ### Controles
 - Flechas/WASD para moverte y saltar; los botones de ataque o interacción
   dependen de la plataforma donde juegues.
@@ -39,13 +42,18 @@ la exploración cuidadosa y las rutas eficientes.
   límite del nivel.
 - Presta atención a posibles pistas sonoras que sugieran zonas ocultas.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
+<!-- i18n:faq:id=faq:lows-adventures-3:how-do-i-find-hidden-b9ce61ea -->
 - P: ¿Cómo encuentro las salidas ocultas del juego?  
   R: Revisa techos, paredes falsas y salientes fuera de la pantalla; busca
   pequeñas diferencias en las baldosas.
+<!-- i18n:faq:id=faq:lows-adventures-3:are-there-difficulty-spikes-co-6b97a496 -->
 - P: ¿Hay picos de dificultad respecto a la segunda parte?  
   R: Sí, los saltos son más ajustados y los peligros están más densos; conviene
   practicar las salas complicadas.
+<!-- i18n:faq:id=faq:lows-adventures-3:can-i-replay-levels-quickly-0e7d248b -->
 - P: ¿Puedo repetir niveles rápido para conseguir medallas?  
   R: Sí, la mayoría de menús permiten reinicios rápidos para hacer intentos de
   ruta una y otra vez.
+

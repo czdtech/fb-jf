@@ -18,6 +18,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Merge Pirates es un puzle relajante y altamente adictivo en el que encarnas a
@@ -27,6 +28,7 @@ versiones más poderosas y de nivel superior. Tu objetivo es completar los
 encargos de la tripulación, ganar monedas de oro y descubrir todo el equipamiento
 legendario para convertirte en el capitán más famoso de los siete mares.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Cadena de merges:** arrastra un objeto y suéltalo sobre otro idéntico para
@@ -42,6 +44,7 @@ legendario para convertirte en el capitán más famoso de los siete mares.
     tienda. Es mucho más rápido que esperar a la caja gratuita y fundamental
     para crear objetos de alto nivel y cumplir pedidos difíciles.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 El juego se maneja mediante arrastrar y soltar.
@@ -51,18 +54,23 @@ El juego se maneja mediante arrastrar y soltar.
 *   **Comprar objetos:** abre la tienda y haz clic en el objeto que quieras
     adquirir.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:merge-pirates:q-how-do-i-get-f4f63323 -->
 *   **P: ¿Cómo consigo objetos nuevos?**
     *   **R:** Cada cierto tiempo aparece una caja gratuita con un objeto básico
         en una casilla libre. También puedes gastar oro para comprar cualquier
         tipo de objeto que ya hayas descubierto.
 
+<!-- i18n:faq:id=faq:merge-pirates:q-what-is-the-main-20a3adad -->
 *   **P: ¿Cuál es el objetivo principal del juego?**
     *   **R:** Ganar oro completando pedidos y desbloquear todos los objetos
         pirata disponibles.
 
+<!-- i18n:faq:id=faq:merge-pirates:q-my-board-is-full-2c9ccb4e -->
 *   **P: El tablero está lleno y no puedo mover nada, ¿qué hago?**
     *   **R:** Necesitas liberar espacio. Busca merges posibles; si no quedan,
         usa el icono de papelera para vender un objeto de nivel bajo y recuperar
         una casilla.
+

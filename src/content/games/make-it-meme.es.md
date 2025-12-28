@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 Make It Meme es un party game multijugador en línea desarrollado por Prealpha
@@ -41,6 +42,7 @@ para quedadas con amigos.
     puntuaciones y muestra la clasificación. Quien tenga la puntuación total
     más alta gana la ronda.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 *   **Crear sala:** haz clic en "Create Room", define el nombre de la sala y el
@@ -52,6 +54,7 @@ para quedadas con amigos.
 *   **Valorar memes:** en la fase de votación, revisa las creaciones de los
     demás jugadores, elige la puntuación que consideres y pulsa "Submit".
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes
 
 1.  **P: ¿Cómo invito a mis amigos a jugar conmigo?**  
@@ -63,3 +66,4 @@ para quedadas con amigos.
 3.  **P: ¿Hay sistema de reporte dentro del juego?**  
     **R:** Si ves contenido inapropiado, utiliza la función de reporte (si está
     disponible) o abandona la sala y únete a otra distinta.
+

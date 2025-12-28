@@ -19,6 +19,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 Mahjongg Candy es un puzle de emparejar fichas dulce y adictivo que pone
@@ -43,11 +44,13 @@ reconocimiento de patrones y tu forma de pensar estratégicamente.
   suelen otorgar más puntos. Algunas fichas pueden dar multiplicadores de
   puntuación.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - **Ratón/táctil:** usa el ratón o el dedo para hacer clic o tocar las fichas y
   seleccionarlas.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
 **¿Cuál es el objetivo de Mahjongg Candy?**
@@ -66,3 +69,4 @@ movimientos. Usarlas puede reducir tu puntuación.
 Practica el reconocimiento de patrones y planifica tus jugadas con varios pasos
 de antelación. Prioriza eliminar las fichas que bloquean muchas otras y busca
 crear cadenas de emparejamientos.
+

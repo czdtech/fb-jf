@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Liquid puzzle sort colors adapta la fórmula viral de ordenar botellas: viertes
@@ -25,6 +26,7 @@ sobre el mismo color o en una botella vacía. Para ganar tendrás que planificar
 tus botellas de reserva y el orden de los vertidos para evitar bloqueos en los
 que ya no quede ningún movimiento útil.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  Mantén dos botellas de reserva vacías siempre que puedas; son tus válvulas
@@ -38,23 +40,29 @@ que ya no quede ningún movimiento útil.
 5.  Revisa si hay bloqueo: si todos los movimientos parecen deshacer progreso,
     deshaz y cambia el orden de los vertidos.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - Toca una botella de origen y luego una de destino para verter; usa deshacer o
   reiniciar si están disponibles; el sistema de pistas puede sugerir un
   movimiento.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:liquid-puzzle-sort-colors:i-reach-unwinnable-states-how-1db31f65 -->
 - Q: Llego a estados imposibles de ganar, ¿cómo lo evito?  
   A: Conserva siempre alguna botella de reserva, evita enterrar colores
   sueltos y completa una botella en cuanto tenga un solo color.
 
+<!-- i18n:faq:id=faq:liquid-puzzle-sort-colors:any-universal-opener-e01c2302 -->
 - Q: ¿Hay una apertura universal que siempre funcione?  
   A: Suele ayudar empezar por el color más frecuente; libera espacio de
   reservas más deprisa.
 
+<!-- i18n:faq:id=faq:liquid-puzzle-sort-colors:are-hints-reliable-20d3f0b9 -->
 - Q: ¿Son fiables las pistas?  
   A: Van bien en las primeras jugadas, pero los niveles profundos siguen
   necesitando planificación propia.
+
 

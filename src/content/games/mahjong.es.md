@@ -18,6 +18,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 Mahjongg Solitaire es un juego de emparejar fichas para un solo jugador basado
@@ -39,6 +40,7 @@ por jugadores de todo el mundo.
     barajado solo cuando estés realmente bloqueado; así mantendrás el reto del
     juego y aprenderás mejores patrones.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 *   **Seleccionar parejas:** haz clic en dos fichas idénticas y abiertas para
@@ -49,6 +51,7 @@ por jugadores de todo el mundo.
 *   **Condiciones de fin de partida:** la partida termina cuando has retirado
     todas las fichas o cuando ya no quedan emparejamientos posibles.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes
 
 1.  **P: ¿Qué hago si el juego no carga o no arranca?**  
@@ -66,3 +69,4 @@ por jugadores de todo el mundo.
 5.  **P: ¿Cómo se pausa la partida?**  
     **R:** Usa el botón de pausa en la interfaz del juego; el temporizador se
     detendrá mientras esté activa la pausa.
+

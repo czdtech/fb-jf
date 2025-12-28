@@ -18,6 +18,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Descripción general
 Love Tester es un juguete de compatibilidad muy ligero basado en nombres. Escribe
 dos nombres y el juego te devuelve un porcentaje de "compatibilidad" acompañado
@@ -25,11 +26,13 @@ de mensajes o pequeñas animaciones. Todo es puro entretenimiento: los
 resultados son aleatorios o se basan en reglas muy simples y no representan en
 absoluto una compatibilidad real.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 - Escribe dos nombres (o cualquier palabra) y pulsa el botón de prueba.
 - Comparte el resultado o repite con combinaciones distintas para reírte con
   amigos.
 
+<!-- i18n:section:controls -->
 ### Controles
 - Introducción de texto con teclado y un único botón para realizar la prueba.
 
@@ -38,12 +41,17 @@ absoluto una compatibilidad real.
   resultados más divertidos.
 - Toma el resultado siempre como un chiste, nunca como un consejo real.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
+<!-- i18n:faq:id=faq:love-tester:is-the-compatibility-score-sci-b44c618b -->
 - P: ¿La puntuación de compatibilidad es científicamente precisa?  
   R: No, es solo para entretenimiento.
+<!-- i18n:faq:id=faq:love-tester:can-i-save-or-share-84d7af47 -->
 - P: ¿Puedo guardar o compartir los resultados?  
   R: En algunas versiones hay botones de compartir o siempre puedes hacer una
   captura de pantalla.
+<!-- i18n:faq:id=faq:love-tester:do-spaces-or-punctuation-matte-b3361c39 -->
 - P: ¿Importan los espacios o los signos de puntuación en los nombres?  
   R: Puede variar según la versión; usa solo letras si quieres resultados más
   consistentes.
+

@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Lollipop World es un colorido match‑3 con glaseado, envoltorios y chocolate
@@ -25,6 +26,7 @@ hasta recoger caramelos concretos o limpiar gelatina. Las combinaciones de
 potenciadores (bomba + línea, caramelos de color que limpian el tablero) son
 esenciales en los tableros más densos.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  Enfócate en el objetivo: limpia primero bloqueadores y objetos que hay que
@@ -38,21 +40,27 @@ esenciales en los tableros más densos.
 5.  Planifica movimientos: piensa 2–3 jugadas por adelantado para mantener
     abiertas varias opciones.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - Arrastra para intercambiar piezas, toca los potenciadores y usa los botones
   de pausa/reintento de la interfaz.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:lollipop-world-match-3:i-hit-move-limits-what-646c4819 -->
 - Q: Siempre me quedo sin movimientos, ¿qué puedo hacer?  
   A: Encadena potenciadores y prioriza los bloqueadores que abren espacio nuevo
   en el tablero.
 
+<!-- i18n:faq:id=faq:lollipop-world-match-3:best-opener-59fb2430 -->
 - Q: ¿Cuál es la mejor forma de empezar un nivel?  
   A: Suele ser buena idea limpiar desde la parte inferior para provocar
   cascadas.
 
+<!-- i18n:faq:id=faq:lollipop-world-match-3:are-diagonals-allowed-37ab3fc0 -->
 - Q: ¿Se permiten movimientos en diagonal?  
   A: Normalmente no; revisa las reglas de cada modo de juego.
+
 

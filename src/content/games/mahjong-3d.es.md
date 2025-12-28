@@ -19,6 +19,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ## Guía del juego
 
 ### Introducción detallada
@@ -30,6 +31,7 @@ mismo: encontrar y emparejar parejas de fichas idénticas y libres para limpiar
 el tablero. Este giro tridimensional añade un nuevo nivel de desafío y exige
 usar la visión espacial para observar el puzle desde todos los ángulos.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Gira, gira, gira:** la habilidad más importante es rotar el puzle
@@ -49,6 +51,7 @@ usar la visión espacial para observar el puzle desde todos los ángulos.
     revelar un posible emparejamiento. Si no quedan movimientos, la opción de
     barajar reorganizará las fichas restantes para darte nuevas oportunidades.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 *   **Seleccionar fichas:** haz clic en una ficha libre para seleccionarla y
@@ -56,19 +59,24 @@ usar la visión espacial para observar el puzle desde todos los ángulos.
 *   **Rotar el puzle:** usa las flechas de la pantalla o haz clic y
     arrastra el fondo para girar toda la estructura 3D a izquierda o derecha.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:mahjong-3d:q-what-makes-this-different-777b6574 -->
 *   **P: ¿En qué se diferencia de un Mahjong Solitaire normal?**
     *   **R:** La diferencia principal es la presentación en 3D. Poder girar el
         puzle para encontrar parejas en todos los lados añade un
         desafío importante frente al diseño 2D tradicional.
 
+<!-- i18n:faq:id=faq:mahjong-3d:q-i-see-two-identical-783e7611 -->
 *   **P: Veo dos fichas iguales, pero no puedo unirlas. ¿Por qué?**
     *   **R:** Una o ambas fichas no están "libres". Probablemente estén
         bloqueadas a izquierda y derecha por otras fichas. Primero tendrás que
         eliminar las fichas que las bloquean.
 
+<!-- i18n:faq:id=faq:mahjong-3d:q-what-do-the-flower-d1c2f5f1 -->
 *   **P: ¿Qué hacen las fichas de Flores y Estaciones?**
     *   **R:** Son fichas especiales. Cualquier ficha de Flor se puede emparejar
         con otra ficha de Flor, y lo mismo ocurre con las fichas de Estaciones.
         No necesitan tener el mismo dibujo exacto.
+

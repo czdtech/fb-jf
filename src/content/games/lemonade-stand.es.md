@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Panorama general
 
 Lemonade Stand simula un pequeño puesto de limonada. Cada día compras
@@ -25,6 +26,7 @@ la demanda; tu beneficio depende de ajustar precios y stock a las condiciones
 del día mientras minimizas el desperdicio (hielo derretido, limones
 sobrantes).
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 - Revisa la previsión meteorológica; sube el precio en los días calurosos y
@@ -32,6 +34,7 @@ sobrantes).
 - Ajusta la receta (más azúcar o más limón) para equilibrar coste y demanda.
 - Lleva un control de beneficios/pérdidas y ajusta tu estrategia cada día.
 
+<!-- i18n:section:controls -->
 ### Controles
 
 - Usa el ratón o la interfaz para fijar cantidades, precios y pasar al día
@@ -46,17 +49,22 @@ sobrantes).
 - Prueba pequeños cambios de precio para entender la sensibilidad de tus
   clientes.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:lemonade-stand:how-do-i-avoid-running-a6f30dbf -->
 - Q: ¿Cómo evito quedarme sin stock en las horas punta?  
   A: Compra un pequeño colchón extra de vasos y hielo cuando se pronostique
   calor y sube ligeramente los precios.
 
+<!-- i18n:faq:id=faq:lemonade-stand:does-advertising-matter-in-thi-4d371f22 -->
 - Q: ¿La publicidad marca alguna diferencia?  
   A: Puede aumentar la demanda, pero gastar demasiado se vuelve ineficiente si
   no tienes suficiente producto para vender.
 
+<!-- i18n:faq:id=faq:lemonade-stand:what-is-the-most-important-96f81904 -->
 - Q: ¿Cuál es el indicador más importante?  
   A: Fíjate en el beneficio diario y en el inventario sobrante; intenta que
   ambos muestren una tendencia ascendente estable.
+
 

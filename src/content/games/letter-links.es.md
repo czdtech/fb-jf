@@ -18,6 +18,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Letter Links es un juego estratégico de crear palabras que recuerda a Scrabble.
@@ -27,6 +28,7 @@ interconectadas, como en un crucigrama. Aprovechando letras de alto valor y las
 casillas especiales de bonificación del tablero, intentas conseguir la mayor
 puntuación posible.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Conoce tus bonificaciones:** La clave para puntuar alto es usar bien las
@@ -48,6 +50,7 @@ puntuación posible.
     Q, J, X) para colocarlas en casillas de bonificación como DL, TL, DW o TW
     y multiplicar su impacto.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 *   **Colocar fichas:** Haz clic y arrastra una ficha de letra desde tu atril
@@ -57,19 +60,24 @@ puntuación posible.
 *   **Enviar jugada:** Cuando estés conforme con tus palabras, haz clic en el
     botón «Submit Words» para confirmarlas y calcular la puntuación.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:letter-links:q-why-was-my-word-4bce7331 -->
 *   **P: ¿Por qué han rechazado mi palabra?**
     *   **R:** Puede ser por varios motivos: 1) No es una palabra válida en el
         diccionario del juego. 2) No todas tus fichas colocadas están conectadas
         en un solo grupo. 3) No has utilizado la casilla central con estrella.
 
+<!-- i18n:faq:id=faq:letter-links:q-how-are-points-calculated-9ad73a75 -->
 *   **P: ¿Cómo se calculan los puntos?**
     *   **R:** La puntuación de una palabra es la suma del valor de sus letras,
         multiplicada por los bonus de palabra (DW, TW). Los bonus de letra (DL,
         TL) se aplican primero a letras concretas y luego se calculan los
         multiplicadores de palabra.
 
+<!-- i18n:faq:id=faq:letter-links:q-can-i-play-diagonally-9c4fe9aa -->
 *   **P: ¿Puedo formar palabras en diagonal?**
     *   **R:** No. Todas las palabras deben formarse en horizontal (de izquierda
         a derecha) o en vertical (de arriba abajo).
+

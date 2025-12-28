@@ -19,6 +19,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 Mahjongg Solitaire, también conocido como Mahjong Solitaire o Shanghai
@@ -40,11 +41,13 @@ completo encontrando y emparejando parejas de fichas idénticas que estén
 - **Fichas especiales:** las fichas de Flores y Estaciones pueden emparejarse
   con cualquier ficha de su mismo grupo, incluso si el dibujo no es idéntico.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - **Ratón/táctil:** usa el ratón o el dedo para hacer clic o tocar las fichas y
   seleccionarlas.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
 **¿Cuál es el objetivo de Mahjongg Solitaire?**
@@ -61,3 +64,4 @@ da por perdida. Algunas versiones digitales ofrecen un botón de "barajar" o
 
 Algunas versiones de Mahjongg Solitaire son cronometradas y añaden urgencia, y
 otras permiten jugar a un ritmo más relajado.
+

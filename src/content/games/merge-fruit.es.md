@@ -18,6 +18,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Merge Fruit mezcla caídas con gravedad y reglas de fusión de 2 en 2. Suelta
@@ -25,6 +26,7 @@ frutas dentro de un contenedor: cuando dos frutas idénticas se tocan, se fusion
 en una pieza más grande. El reto está en apilar pensando en merges futuros sin
 permitir que la pila rebose por la parte superior.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  Ancla central: intenta mantener la fruta más grande cerca del centro para
@@ -38,21 +40,27 @@ permitir que la pila rebose por la parte superior.
 5.  Paciencia: no fuerces lanzamientos mientras todo rebota; espera un segundo
     a que la pila se estabilice.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - Mueve a izquierda y derecha para apuntar; toca o haz clic para soltar la
   fruta; algunas versiones permiten guardar piezas o deshacer un movimiento.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:merge-fruit:board-keeps-overflowing-a2f828c1 -->
 - P: El contenedor se me llena todo el rato.  
   R: Deja de perseguir solo fusiones grandes: primero aplana columnas y prepara
   parejas antes de apuntar a un gran combo.
 
+<!-- i18n:faq:id=faq:merge-fruit:best-place-to-drop-cb5fde7e -->
 - P: ¿Dónde es mejor soltar la fruta?  
   R: El centro suele dar más flexibilidad; reserva los bordes para gestionar el
   carril de descarte.
 
+<!-- i18n:faq:id=faq:merge-fruit:are-undos-fair-game-36977bd9 -->
 - P: ¿Es justo usar el deshacer?  
   R: Úsalo con moderación para corregir lanzamientos claramente fallidos, no en
   cada jugada.
+

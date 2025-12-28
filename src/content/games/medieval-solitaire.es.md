@@ -18,6 +18,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Medieval Solitaire traslada el atractivo atemporal del solitario Klondike a un
@@ -27,6 +28,7 @@ y fondos personalizados. El objetivo sigue siendo despejar toda la baraja
 colocando las cartas en cuatro pilas de base por palo, en orden ascendente de
 As a Rey.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Objetivo:** mueve las 52 cartas a las cuatro pilas de base, empezando
@@ -44,6 +46,7 @@ As a Rey.
 5.  **Mazo de robo:** cuando ya no tengas más movimientos en el tableau, roba
     del mazo para poner nuevas cartas en juego.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 *   **Mover cartas:** haz clic y arrastra para mover cartas entre columnas del
@@ -54,19 +57,24 @@ As a Rey.
     automáticamente una carta a la pila de base correcta si el movimiento es
     válido.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:medieval-solitaire:q-what-is-the-difference-4901907e -->
 *   **P: ¿En qué se diferencia de un Solitario clásico?**
     *   **R:** Las reglas y el funcionamiento son los mismos que en el solitario
         Klondike. La diferencia está en la temática visual, con arte y música
         medieval.
 
+<!-- i18n:faq:id=faq:medieval-solitaire:q-i-cant-make-any-76dd8504 -->
 *   **P: No puedo hacer más movimientos, ¿qué hago?**
     *   **R:** Revisa primero si queda algún movimiento posible en el tableau.
         Si no lo hay, roba del mazo. Si el mazo también se ha agotado y no hay
         movimientos, la partida está perdida.
 
+<!-- i18n:faq:id=faq:medieval-solitaire:q-can-i-undo-a-fe1ffcbf -->
 *   **P: ¿Puedo deshacer jugadas?**
     *   **R:** La mayoría de solitarios digitales incluyen un botón de "Deshacer"
         que permite revertir una o varias jugadas, muy útil para corregir
         errores o probar estrategias distintas.
+

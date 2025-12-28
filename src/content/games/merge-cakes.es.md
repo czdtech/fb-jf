@@ -18,6 +18,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Merge Cakes es un puzle dulce y relajante donde combinas tartas
@@ -26,6 +27,7 @@ básicas y, a fuerza de merges, vas desbloqueando tartas de varias capas. El
 objetivo es cumplir los pedidos de los clientes, ganar monedas y descubrir cada
 receta del libro. Es un juego sencillo, satisfactorio y con mucho encanto.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Cadena de merges:** el núcleo del juego es fusionar. Arrastra una tarta y
@@ -42,6 +44,7 @@ receta del libro. Es un juego sencillo, satisfactorio y con mucho encanto.
     tienda. Es mucho más rápido que esperar a la caja de reparto gratuita y es
     esencial para llegar a niveles altos y atender pedidos complicados.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 El juego se maneja con un sencillo sistema de arrastrar y soltar.
@@ -51,18 +54,23 @@ El juego se maneja con un sencillo sistema de arrastrar y soltar.
 *   **Comprar tartas:** haz clic en el icono de la tienda y después en el tipo
     de tarta que quieras adquirir.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:merge-cakes:q-how-do-i-get-e64c64d3 -->
 *   **P: ¿Cómo consigo tartas nuevas?**
     *   **R:** Cada cierto tiempo, una caja gratuita deja una tarta básica en
         un plato vacío. También puedes usar monedas para comprar cualquier tipo
         de tarta que ya hayas descubierto.
 
+<!-- i18n:faq:id=faq:merge-cakes:q-what-is-the-main-20a3adad -->
 *   **P: ¿Cuál es el objetivo principal?**
     *   **R:** Ganar monedas completando pedidos y desbloquear todas las recetas
         de tartas del juego.
 
+<!-- i18n:faq:id=faq:merge-cakes:q-my-board-is-full-2c9ccb4e -->
 *   **P: Mi tablero está lleno y no puedo mover nada, ¿qué hago?**
     *   **R:** Necesitas liberar espacio. Busca merges que hayas pasado por
         alto. Si no hay ninguno, quizá debas usar el icono de la papelera para
         vender una tarta de nivel bajo y así recuperar un plato.
+
