@@ -13,6 +13,7 @@ score: 4.0/5  (100 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 Text Twist es un juego de puzle de palabras muy popular que pone a prueba tu vocabulario y tu velocidad. Se te presenta un conjunto de letras mezcladas y debes formar tantas palabras válidas como sea posible antes de que se acabe el tiempo. Las palabras largas dan más puntos y encontrar la "palabra Bingo" (la que usa todas las letras) es obligatorio para pasar de ronda.
@@ -25,13 +26,17 @@ Text Twist es un juego de puzle de palabras muy popular que pone a prueba tu voc
 - **Puntuación:** los puntos se asignan en función de la longitud de la palabra; las palabras más largas valen más. Completar todas las palabras de una ronda suele otorgar un bonus adicional.
 - **Botón "Twist":** utiliza el botón "Twist" (o la barra espaciadora) para barajar las letras y descubrir nuevas combinaciones.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Enter` `Spacebar` `Backspace`
 
 - **Escritura:** usa el teclado para escribir las palabras que vayas encontrando.
-- **Confirmar palabra:** pulsa `Enter` para enviar la palabra.
-- **Mezclar letras:** haz clic en "Twist" o pulsa la `Barra espaciadora`.
-- **Borrar:** haz clic en "Clear" o pulsa `Retroceso` para vaciar la entrada.
+- **Confirmar palabra:** pulsa Enter para enviar la palabra.
+- **Mezclar letras:** haz clic en "Twist" o pulsa la Barra espaciadora.
+- **Borrar:** haz clic en "Clear" o pulsa Retroceso para vaciar la entrada.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
 **¿Qué es una "palabra Bingo"?**
@@ -45,4 +50,5 @@ Concéntrate en descubrir palabras largas, ya que otorgan más puntos. Intenta t
 **¿Hay distintos niveles de dificultad?**
 
 A medida que avanzas, los desafíos se vuelven más complejos: tendrás que encontrar palabras más largas, más combinaciones y resolver rondas con letras menos obvias.
+
 

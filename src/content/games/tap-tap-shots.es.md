@@ -13,6 +13,7 @@ score: 4.9/5  (415 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 Tap Tap Shots es un juego de baloncesto arcade minimalista y muy adictivo. Tu objetivo es anotar tantas canastas seguidas como puedas tocando la pantalla para hacer que la pelota rebote hacia el aro. El desafío viene del movimiento del aro y de la presión del temporizador, por lo que necesitas un gran sentido del ritmo y del tiempo para mantener la racha.
@@ -25,12 +26,16 @@ Tap Tap Shots es un juego de baloncesto arcade minimalista y muy adictivo. Tu ob
 - **Combos:** anotar varias canastas seguidas hace que el balón se encienda en llamas y activa un multiplicador de puntuación. Los tiros limpios que no tocan el aro también otorgan puntos extra.
 - **Temporizador:** tras cada canasta el tiempo se reinicia, pero si fallas o dejas que el contador llegue a cero, la partida termina.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Left Mouse Button` `Spacebar`
 
 Los controles son extremadamente sencillos:
-- **PC:** haz clic con el botón izquierdo del ratón o pulsa la `Barra espaciadora` para hacer botar la pelota.
+- **PC:** haz clic con el botón izquierdo del ratón o pulsa la Barra espaciadora para hacer botar la pelota.
 - **Móvil:** toca la pantalla.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
 **¿Cómo consigo una puntuación alta?**
@@ -44,4 +49,5 @@ Cuando el balón arde, significa que estás en una racha de combo. Cada canasta 
 **¿Hay algún truco para apuntar mejor?**
 
 Todo se basa en el tiempo. Prueba a tocar cuando la pelota esté cerca del punto más alto de su salto o justo cuando empiece a bajar; así tendrás más control sobre la trayectoria hacia el aro.
+
 

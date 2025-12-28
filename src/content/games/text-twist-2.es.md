@@ -13,6 +13,7 @@ score: 4.5/5  (761 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 Text Twist 2 es la esperada secuela del popular juego de puzle de palabras, y ofrece una experiencia mejorada con nuevas funciones y modos. Sigues teniendo que descifrar un conjunto de letras desordenadas para formar el mayor número posible de palabras, pero ahora con más variedad y flexibilidad. Es perfecto para amantes del vocabulario y para quien busque un buen entrenamiento mental.
@@ -29,13 +30,17 @@ La mecánica principal se mantiene: formar palabras a partir de un conjunto de l
 - **Diccionario ampliado:** el juego incorpora un diccionario más amplio, lo que permite descubrir muchas más combinaciones.
 - **Función "Twist":** el clásico botón de mezclar sigue ahí para barajar las letras y ayudarte a ver nuevas palabras.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Enter` `Spacebar` `Backspace`
 
 - **Escritura:** usa el teclado para teclear las palabras que encuentres.
-- **Enviar palabra:** pulsa `Enter`.
-- **Mezclar letras:** haz clic en el botón "Twist" o pulsa la `Barra espaciadora`.
-- **Borrar palabra:** haz clic en "Clear" o pulsa `Retroceso`.
+- **Enviar palabra:** pulsa Enter.
+- **Mezclar letras:** haz clic en el botón "Twist" o pulsa la Barra espaciadora.
+- **Borrar palabra:** haz clic en "Clear" o pulsa Retroceso.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
 **¿Cuáles son las principales mejoras de Text Twist 2?**
@@ -49,4 +54,5 @@ Sí, en la mayoría de modos estándar necesitas encontrar la palabra Bingo (la 
 **¿Puedo jugar sin conexión?**
 
 Muchas versiones de Text Twist 2 se pueden descargar y jugar sin conexión, para que puedas disfrutar del juego incluso sin internet.
+
 

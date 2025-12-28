@@ -14,10 +14,12 @@ score: 4.1/5  (1974 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Tile Guru utiliza la fórmula clásica de bandeja para tríos: seleccionas fichas y las envías a una bandeja con espacio limitado; cuando reúnes tres iguales, se eliminan. El reto real está en gestionar las pilas para no enterrar fichas importantes ni bloquear la bandeja.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  Controla los pares: evita abrir demasiados conjuntos a la vez; resuelve los pares que ya tienes antes de empezar nuevos.
@@ -26,16 +28,21 @@ Tile Guru utiliza la fórmula clásica de bandeja para tríos: seleccionas ficha
 4.  Usa el deshacer a tiempo: si una elección empieza a atascar la bandeja, deshazla de inmediato antes de complicar más la situación.
 5.  Reserva los poderes: guarda barajados y ayudas para cuando estés cerca de un bloqueo total.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - Haz clic en una ficha para enviarla a la bandeja; cuando haya tres iguales, se eliminan automáticamente.
 - Utiliza los botones de pista, deshacer o barajar desde la interfaz si la versión los ofrece.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:tile-guru:my-tray-fills-too-fast-e2a2b50d -->
 - **Q: ¿Mi bandeja se llena demasiado rápido?**  
   **A:** Limita la cantidad de conjuntos abiertos; intenta completar tríos con las fichas que ya tienes antes de traer más tipos nuevos.
 
+<!-- i18n:faq:id=faq:tile-guru:which-tiles-first-6dd9b763 -->
 - **Q: ¿Qué fichas debería coger primero?**  
   **A:** Las más expuestas y poco profundas, que al retirarlas liberen otras fichas sin bloquear sus parejas.
+
 

@@ -18,10 +18,12 @@ score: 4.8/5  (1294 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 The Impossible Quiz es un juego de preguntas y respuestas extremadamente difícil y poco convencional, diseñado para engañarte y ponerte a prueba con cuestiones ilógicas y respuestas inesperadas. A diferencia de un trivial normal, aquí el éxito depende de pensar de forma lateral, fijarte en pistas sutiles en la pantalla y, a veces, aceptar que el ensayo y error forma parte de la experiencia.
 
+<!-- i18n:section:tips -->
 ### Guía de juego
 
 El juego te presenta una serie de preguntas de opción múltiple. Tu objetivo es responder correctamente las 110 preguntas.
@@ -30,10 +32,12 @@ El juego te presenta una serie de preguntas de opción múltiple. Tu objetivo es
 - **Skips:** dispones de un número limitado de "Skips" para saltarte preguntas. Úsalos con inteligencia, porque hay cuestiones diseñadas para ser prácticamente imposibles sin gastar uno.
 - **Moron Marks:** en algunas versiones sirven como puntos de control, permitiéndote reanudar desde una pregunta más avanzada si pierdes todas las vidas.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - **Ratón:** usa el ratón para hacer clic en la respuesta que creas correcta o para interactuar con elementos especiales en la pantalla.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
 **¿Por qué se llama “The Impossible Quiz”?**

@@ -17,6 +17,7 @@ score: 3.7/5  (843 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 Tomb of the Mask es un arcade extremadamente adictivo y rápido que combina laberintos con la presión de un runner infinito. Controlas a un personaje que se mueve deslizando el dedo: cada gesto lo lanza en línea recta hasta chocar con una pared. Tu misión es recoger monedas y potenciadores mientras huyes de una marea de tinta o lava que sube desde el fondo del nivel.
@@ -29,10 +30,14 @@ Tomb of the Mask es un arcade extremadamente adictivo y rápido que combina labe
 - **Evita los peligros:** esquiva pinchos, trampas, enemigos y proyectiles; un solo impacto puede acabar con la partida.
 - **Corre más que la marea:** una franja de color asciende desde la parte inferior de la pantalla; si te alcanza, se termina la run, así que mantén siempre un rumbo hacia arriba.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Arrow Keys` `WASD`
 
-- **Deslizar:** en móvil, mueve el dedo en la dirección deseada para que el personaje se lance; en PC, usa las teclas de dirección o `WASD` para indicar el movimiento.
+- **Deslizar:** en móvil, mueve el dedo en la dirección deseada para que el personaje se lance; en PC, usa las teclas de dirección o WASD para indicar el movimiento.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
 **¿Cómo consigo una puntuación alta?**
@@ -46,4 +51,5 @@ La mayoría de trampas provocan muerte instantánea y la partida termina. Alguno
 **¿Hay distintas máscaras?**
 
 Sí. A medida que avanzas y acumulas monedas podrás desbloquear nuevas máscaras. Muchas otorgan habilidades o bonificaciones únicas, añadiendo una capa estratégica a cada intento.
+
 

@@ -8,6 +8,7 @@ thumbnail: /new-images/thumbnails/the-haze-pixelbox.png
 tags:
   - the haze pixelbox
 score: 3.9/5  (132 votes)
+releaseDate: 2025-12-04
 ---
 
 ### ¿Qué tiene de especial The Haze Pixelbox?
@@ -27,4 +28,5 @@ Tanto si eres un músico con experiencia como si estás dando tus primeros pasos
 - Puedes compartir tus creaciones con amigos y familiares para disfrutar juntos del poder de la música.
 
 **Da igual si eres un músico veterano o un principiante curioso: The Haze Pixelbox ofrece diversión sin límites y despierta tu creatividad con su inconfundible toque étnico. Entra en The Haze Pixelbox y deja que los ritmos ancestrales despierten tu lado más tribal.**
+
 

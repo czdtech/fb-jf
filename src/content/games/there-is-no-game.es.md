@@ -17,6 +17,7 @@ score: 3.9/5  (1003 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 "There is no game" es una aventura de puzles meta muy particular que cuestiona constantemente tu percepción de lo que es un juego. Un narrador sarcástico insiste en que no hay nada que jugar, mientras tú buscas formas poco convencionales de interactuar con la pantalla, romper las reglas y avanzar a través de una serie de puzles ingeniosos y llenos de humor.
@@ -31,10 +32,12 @@ muchas de las instrucciones directas del narrador. Cada "nivel" plantea una
 nueva situación en la que debes encontrar la forma de sabotear los intentos del
 narrador de impedir que juegues.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - **Botón izquierdo del ratón:** se usa para casi todo: hacer clic en objetos, arrastrar elementos y ejecutar las acciones necesarias para resolver los puzles.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
 **¿De verdad esto es un juego?**
@@ -50,3 +53,4 @@ Son puzles poco convencionales que suelen implicar manipular la propia interfaz,
 La versión original de "There is no game" es relativamente corta y está
 planteada como una aventura point-and-click compacta. Además existe una secuela
 más larga y completa llamada "There Is No Game: Wrong Dimension".
+

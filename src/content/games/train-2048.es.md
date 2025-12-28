@@ -17,10 +17,12 @@ score: 4.1/5  (1120 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Train 2048 es un puzle muy entretenido que reimagina la fórmula de 2048 con temática ferroviaria. En lugar de casillas numeradas, deslizas y combinas vagones del mismo tipo sobre una cuadrícula de vías. Cada fusión convierte dos vagones idénticos en uno de nivel superior. El objetivo es gestionar al milímetro el espacio disponible, seguir encadenando fusiones y, finalmente, crear el codiciado vagón "2048".
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Estrategia de esquina:** una táctica clásica que encaja a la perfección aquí. Intenta mantener tu vagón de mayor valor en una de las esquinas del tablero. Así evitas que quede atrapado en el centro y puedes construir el resto de la cadena a su alrededor.
@@ -28,21 +30,27 @@ Train 2048 es un puzle muy entretenido que reimagina la fórmula de 2048 con tem
 3.  **Crea cadenas:** ordena los vagones en filas o columnas con valores crecientes o decrecientes. Por ejemplo, un 4 junto a un 8 y luego un 16. Esto facilita las reacciones en cadena y te permite alimentar tu vagón principal de alto valor.
 4.  **Piensa por adelantado:** antes de mover, visualiza dónde aparecerá el nuevo vagón y cómo se desplazarán los que ya hay. Un solo movimiento mal calculado puede deshacer toda tu estrategia.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 Los controles son sencillos e intuitivos:
 
-*   **Teclas de dirección (PC):** usa `Arriba`, `Abajo`, `Izquierda` y `Derecha` para deslizar todos los vagones en la dirección elegida.
+*   **Teclas de dirección (PC):** usa Arriba, Abajo, Izquierda y Derecha para deslizar todos los vagones en la dirección elegida.
 *   **Gestos táctiles (móvil):** desliza el dedo en cualquiera de las cuatro direcciones para mover los coches.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:train-2048:q-how-do-you-win-bab07623 -->
 *   **Q: ¿Cómo se gana la partida?**
     *   **A:** El objetivo principal es fusionar vagones hasta conseguir el coche "2048". Después, puedes seguir jugando para batir tu propia marca.
 
+<!-- i18n:faq:id=faq:train-2048:q-how-do-you-lose-7ba43fb1 -->
 *   **Q: ¿Cómo se pierde?**
     *   **A:** Pierdes cuando la cuadrícula se llena por completo de vagones y ya no quedan movimientos ni fusiones posibles.
 
+<!-- i18n:faq:id=faq:train-2048:q-which-corner-is-best-6321e15b -->
 *   **Q: ¿Qué esquina es mejor para el vagón más alto?**
     *   **A:** Cualquier esquina sirve, siempre que seas constante. Una vez elijas una (por ejemplo, arriba a la derecha), mantente fiel a ella. Muchos jugadores prefieren una esquina inferior porque resulta más natural evitar deslizar hacia abajo.
+
 

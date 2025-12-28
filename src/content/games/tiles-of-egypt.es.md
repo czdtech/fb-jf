@@ -17,10 +17,12 @@ score: 4.4/5  (2350 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Tiles of Egypt es un puzle estratégico de fichas triples con un cautivador tema del antiguo Egipto. Debes despejar un tablero lleno de losetas decoradas, seleccionando tres fichas iguales que se envían a la bandeja inferior. Cuando se juntan, desaparecen. El reto está en limpiar todo el tablero sin rebasar el espacio limitado de la bandeja.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  La regla de tres: todo gira en torno a formar grupos de tres. Solo al reunir tres fichas idénticas podrás eliminarlas.
@@ -28,19 +30,25 @@ Tiles of Egypt es un puzle estratégico de fichas triples con un cautivador tema
 3.  Piensa varios pasos por delante: no pulses el primer trío que veas. Observa qué fichas destapas debajo y prioriza los movimientos que abran más opciones de futuro.
 4.  Usa la bandeja como búfer: puedes guardar fichas que aún no formen trío mientras buscas las otras dos. Eso sí, evita saturarla con demasiados tipos distintos o te quedarás sin combinaciones posibles.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 El juego se maneja con clics o toques:
 
 *   **Seleccionar ficha:** haz clic en cualquier ficha descubierta del tablero para enviarla a la bandeja inferior.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:tiles-of-egypt:q-what-is-the-goal-ab58581b -->
 *   **Q: ¿Cuál es el objetivo del juego?**
     *   **A:** Vaciar el tablero reuniendo las fichas en tríos dentro de la bandeja.
 
+<!-- i18n:faq:id=faq:tiles-of-egypt:q-why-cant-i-click-ef881ea9 -->
 *   **Q: ¿Por qué no puedo pulsar una ficha?**
     *   **A:** Solo puedes seleccionar fichas de la capa superior que no estén cubiertas por otras. Primero tienes que despejar las que hay encima.
 
+<!-- i18n:faq:id=faq:tiles-of-egypt:q-what-happens-if-my-43071f48 -->
 *   **Q: ¿Qué pasa si la bandeja de colección se llena?**
     *   **A:** Si se ocupan todos los huecos y no puedes completar un trío, te quedas bloqueado y perderás la partida. Tendrás que reiniciar el nivel.
+

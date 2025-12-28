@@ -18,6 +18,7 @@ score: 3.8/5  (802 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 The Pillar es un juego inmersivo de puzles y escape que te reta con una serie de puzle ambientales complejos. Explorarás lugares misteriosos y bellamente diseñados, interactuando con objetos y mecanismos para abrir nuevos caminos y desenterrar los secretos escondidos en el mundo del juego. Es una experiencia que premia la observación cuidadosa, la lógica y el pensamiento creativo.
@@ -29,11 +30,15 @@ La jugabilidad principal consiste en resolver puzles para seguir avanzando. Cada
 - **Resolución de puzles:** enfréntate a mecanismos, secuencias lógicas, patrones visuales y otros tipos de puzle.
 - **Progresión:** al resolver los puzles, desbloquearás nuevas zonas o conseguirás información clave para seguir adelante.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `WASD` `Arrow Keys` `Left Mouse Button`
 
-- **Movimiento:** teclas `WASD` o `Flechas` para mover a tu personaje.
+- **Movimiento:** teclas WASD o Flechas para mover a tu personaje.
 - **Interacción:** botón izquierdo del ratón para examinar objetos, activar mecanismos y resolver puzles.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
 **¿Qué tipo de puzles me voy a encontrar?**
@@ -47,4 +52,5 @@ Aunque el juego se centra en los puzles, existe una narrativa de fondo que se va
 **¿Es muy difícil el juego?**
 
 La dificultad varía entre puzles más sencillos y otros que exigen varios intentos. Muchas veces necesitarás observar con calma, probar combinaciones y no tener miedo a experimentar.
+
 

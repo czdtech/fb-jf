@@ -13,10 +13,12 @@ score: 3.9/5  (1761 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Tiny Football Cup reduce el fútbol a partidos muy ágiles, con conducción sencilla y jugadas a balón parado básicas. En ataque, el juego premia los pases al hueco y los disparos cruzados; en defensa, la clave está en mantener la forma y presionar en el momento oportuno.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  Juega a dos toques: un pase y tiro rápido suele funcionar mejor que intentar regatear a todo el equipo rival.
@@ -25,15 +27,20 @@ Tiny Football Cup reduce el fútbol a partidos muy ágiles, con conducción senc
 4.  Córners variados: alterna saques en corto con centros directos al área para sorprender a la defensa.
 5.  Portero paciente: mueve al guardameta tarde; muchos delanteros telegrafían el ángulo en el último segundo.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - Mover/pasar/disparar según los botones indicados en la interfaz; algunas versiones separan globos y pases rasos.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:tiny-football-cup:i-cant-get-shots-off-eeb8e4f7 -->
 - **Q: ¿No consigo encontrar hueco para disparar?**  
   **A:** Intenta soltar el balón antes, buscando paredes y tiros de primera en lugar de conducir demasiado.
 
+<!-- i18n:faq:id=faq:tiny-football-cup:defense-leaks-257c004b -->
 - **Q: ¿Mi defensa hace agua?**  
   **A:** Mantén la línea, cambia de defensor para cerrar espacios y evita perseguir la pelota sin plan.
+
 

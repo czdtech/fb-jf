@@ -13,6 +13,7 @@ score: 4.0/5  (277 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 Temple Run 2 es un juego de carrera infinita en el que corres por antiguos templos llenos de trampas, precipicios y curvas imposibles. Mientras el monstruo te persigue, recoges monedas y potenciadores, esquivas troncos, acantilados y minas, y te deslizas por tirolinas o vagonetas. Ofrece escenarios más ricos y efectos visuales más elaborados que el juego original.
@@ -25,6 +26,7 @@ Temple Run 2 es un juego de carrera infinita en el que corres por antiguos templ
 4.  Junta gemas: recoge gemas especiales para continuar una carrera tras un error, desbloquear personajes y mejorar habilidades.
 5.  Completa misiones: las misiones diarias y objetivos especiales dan recompensas adicionales y aceleran tu progreso.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 *   Deslizar a izquierda/derecha: desliza el dedo (o el ratón) hacia los lados para girar en las intersecciones.
@@ -32,6 +34,7 @@ Temple Run 2 es un juego de carrera infinita en el que corres por antiguos templ
 *   Deslizar hacia abajo para deslizarte: pasa por debajo de obstáculos bajos como barreras o llamas.
 *   Inclinación: en algunas versiones puedes inclinar el dispositivo para recoger más monedas o cambiar ligeramente de carril.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes
 
 1.  **P: ¿Cómo puedo conseguir más monedas?**  
@@ -42,3 +45,4 @@ Temple Run 2 es un juego de carrera infinita en el que corres por antiguos templ
     **R:** Puedes recogerlos durante la carrera, adquirirlos con monedas o desbloquear versiones mejoradas desde el menú de mejoras.
 4.  **P: ¿El juego tiene final?**  
     **R:** No, es una carrera infinita. El reto consiste en llegar lo más lejos posible sin caer ni chocar, mejorando tus marcas en cada intento.
+

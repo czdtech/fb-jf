@@ -13,6 +13,7 @@ score: 4.5/5  (300 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 Tanuki Sunset es un juego de longboard en tercera persona en el que controlas a Tanuki, un mapache que se desliza por una espectacular carretera de montaña junto al mar, llena de luces neón y ambiente synthwave. El juego premia el estilo y la fluidez: cuanto mejores sean tus derrapes, saltos y aproximaciones arriesgadas al tráfico, más puntos acumularás.
@@ -25,14 +26,18 @@ El objetivo principal es conseguir la máxima puntuación posible antes de llega
 - **Coleccionables:** recoge los "Tanuki Bits" amarillos para llenar el medidor de la Ruleta de Bonificación, que te dará una tirada con una gran recompensa de puntos.
 - **Near Misses:** pasa muy cerca de coches y otros obstáculos para ganar puntos de "casi choque" y elevar tu multiplicador.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `A` `D` `Left` `Right Arrow Keys` `Spacebar` `S` `Down Arrow Key` `W` `Up Arrow Key` `Esc`
 
-- **Mover / girar:** `A` / `D` o `Flechas izquierda/derecha` para inclinar la tabla.
-- **Derrapar:** `Barra espaciadora` para iniciar un derrape controlado en las curvas.
-- **Derrape 180 / frenar:** `S` o `Flecha abajo` para reducir velocidad o cambiar bruscamente de dirección.
-- **Posición de velocidad:** `W` o `Flecha arriba` para adoptar una postura más aerodinámica y atravesar ciertos obstáculos.
-- **Pausa:** `Esc` para abrir el menú de pausa.
+- **Mover / girar:** A / D o Flechas izquierda/derecha para inclinar la tabla.
+- **Derrapar:** Barra espaciadora para iniciar un derrape controlado en las curvas.
+- **Derrape 180 / frenar:** S o Flecha abajo para reducir velocidad o cambiar bruscamente de dirección.
+- **Posición de velocidad:** W o Flecha arriba para adoptar una postura más aerodinámica y atravesar ciertos obstáculos.
+- **Pausa:** Esc para abrir el menú de pausa.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
 **¿Cómo consigo una puntuación alta?**
@@ -46,4 +51,5 @@ Al llenar el medidor con Tanuki Bits, se activa una ruleta en la parte superior 
 **¿Puedo personalizar a Tanuki?**
 
 Sí. Al ganar puntos y completar objetivos desbloquearás nuevas prendas, cascos y piezas de longboard para cambiar el aspecto de Tanuki y su tabla.
+
 

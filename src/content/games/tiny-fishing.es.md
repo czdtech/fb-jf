@@ -16,6 +16,7 @@ score: 4.7/5  (322 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 Tiny Fishing es un juego de pesca casual y relajante en el que lanzas tu sedal al fondo del mar, capturas peces de todo tipo y mejoras tu equipo para alcanzar aguas más profundas y encontrar especies cada vez más valiosas. Es muy querido por su control sencillo y su experiencia tranquila y adictiva.
@@ -28,6 +29,7 @@ Tiny Fishing es un juego de pesca casual y relajante en el que lanzas tu sedal a
 4.  Busca peces raros: las aguas profundas suelen esconder especies especiales con grandes recompensas, por lo que las mejoras se amortizan rápido.
 5.  Ten paciencia: la pesca requiere tiempo; espera a que piquen y recoge la línea en el momento adecuado.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 *   **Lanzar el sedal:** haz clic para empezar a lanzar la línea al agua.
@@ -35,6 +37,7 @@ Tiny Fishing es un juego de pesca casual y relajante en el que lanzas tu sedal a
 *   **Recoger:** cuando tengas peces enganchados, haz clic para recoger la línea y cobrar tus capturas.
 *   **Mejorar:** usa las monedas obtenidas para mejorar tu caña, el anzuelo y otras características en la tienda.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes
 
 1.  **Q: ¿Cómo gano más monedas?**  
@@ -48,4 +51,5 @@ Tiny Fishing es un juego de pesca casual y relajante en el que lanzas tu sedal a
 
 4.  **Q: ¿El juego tiene final?**  
     **A:** No como tal. Es una experiencia casual infinita en la que puedes seguir mejorando tu equipo y explorando aguas más profundas.
+
 

@@ -16,6 +16,7 @@ score: 4.0/5  (972 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 Trap the Cat es un juego de puzles estratégicos en el que debes cortar todas las rutas de escape de un gato muy escurridizo. Colocando obstáculos en las casillas de una cuadrícula hexagonal, tendrás que anticipar sus movimientos y cerrar el paso antes de que alcance el borde del tablero.
@@ -28,12 +29,14 @@ Trap the Cat es un juego de puzles estratégicos en el que debes cortar todas la
 4.  **Predice su movimiento:** el gato tiende a elegir el camino más eficiente; intenta adivinar hacia dónde se dirigirá en el siguiente turno.
 5.  **Cierre completo:** tu objetivo final es formar un anillo cerrado de obstáculos sin dejar fisuras.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 *   **Colocar barreras:** haz clic en las celdas hexagonales para colocar obstáculos.
 *   **Observar al gato:** vigila su posición actual y las direcciones posibles en las que puede moverse.
 *   **Reiniciar:** si el gato consigue escapar, puedes reiniciar y probar una estrategia distinta.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes
 
 1.  **Q: ¿Cómo se mueve el gato?**  
@@ -47,4 +50,5 @@ Trap the Cat es un juego de puzles estratégicos en el que debes cortar todas la
 
 4.  **Q: ¿Cómo puedo mejorar mi porcentaje de éxito?**  
     **A:** Practica la lectura de patrones de movimiento del gato y aprende a detectar los puntos clave que debes bloquear primero.
+
 

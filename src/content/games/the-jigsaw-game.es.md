@@ -16,10 +16,12 @@ score: 4.3/5  (2146 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 The Jigsaw Game es un clásico puzle digital con imágenes y número de piezas configurables. Empieza construyendo el marco, agrupa las piezas por colores o patrones y ve ensamblando pequeñas secciones antes de unirlas en la imagen final.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  Borde primero: completa el marco cuanto antes para anclar el resto de grupos.
@@ -28,15 +30,21 @@ The Jigsaw Game es un clásico puzle digital con imágenes y número de piezas c
 4.  Rotación cuando toque: en algunos modos deberás girar las piezas; mantén una orientación coherente.
 5.  Zoom y panorámica: usa las herramientas de acercar/alejar y moverte por el tablero para trabajar con precisión en áreas densas.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - Arrastra para mover piezas; gira si el modo lo permite.
 - Usa las opciones de zoom y desplazamiento de la interfaz o gestos táctiles.
 - En la mayoría de versiones, las piezas encajan automáticamente cuando se colocan en la posición correcta.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:the-jigsaw-game:are-there-timers-f350f01a -->
 - ¿Hay temporizadores? Algunos modos incluyen tiempo, pero muchos ofrecen sesiones relajadas sin límite.
+<!-- i18n:faq:id=faq:the-jigsaw-game:can-i-change-piece-count-ac3c2e46 -->
 - ¿Puedo cambiar el número de piezas? Normalmente sí; elige la dificultad en función del tiempo del que dispongas.
+<!-- i18n:faq:id=faq:the-jigsaw-game:any-photo-variety-5449029a -->
 - ¿Hay variedad de imágenes? Suelen incluir paisajes, animales, escenas de temporada y otras ilustraciones temáticas.
+
 

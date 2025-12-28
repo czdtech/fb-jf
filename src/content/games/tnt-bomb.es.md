@@ -17,10 +17,12 @@ score: 4.3/5  (2200 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 TNT Bomb es un puzle estratégico basado en físicas en el que tu objetivo es la demolición total. En cada nivel te enfrentas a una estructura y a un inventario limitado de explosivos. Debes colocar las cargas en los puntos clave para causar el máximo daño posible. Identificando soportes, puntos débiles y el tipo de bomba adecuado, intentarás reducir la construcción a escombros para pasar al siguiente desafío.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  Analiza la estructura: antes de poner ninguna bomba, estudia el diseño. Busca columnas clave, vigas de soporte y bloques que sostengan la mayor parte del peso.
@@ -28,19 +30,25 @@ TNT Bomb es un puzle estratégico basado en físicas en el que tu objetivo es la
 3.  Conoce tus explosivos: dispones de distintos tipos de bombas. La dinamita estándar sirve para un bloque concreto; cargas mayores tienen un radio de explosión mucho más amplio. Usa cada tipo donde mejor rinda.
 4.  Cadenas de reacción: piensa cómo se propagará la explosión. Una bomba que hace caer una parte de la estructura sobre otra puede desencadenar una reacción en cadena mucho más destructiva.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 *   **Elegir bomba:** haz clic en el tipo de explosivo que quieras usar desde tu inventario.
 *   **Colocar bomba:** haz clic en el bloque de la estructura donde quieras colocarla.
 *   **Detonar:** cuando hayas usado todas las bombas disponibles, pulsa el botón de "Boom" o "Detonar" y observa el resultado.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:tnt-bomb:q-what-is-the-goal-7ed4507e -->
 *   **Q: ¿Cuál es el objetivo de cada nivel?**
     *   **A:** Provocar suficiente destrucción para cumplir el requisito de la fase, normalmente destruir un porcentaje de los bloques (a menudo el 100 %).
 
+<!-- i18n:faq:id=faq:tnt-bomb:q-why-didnt-the-building-60728056 -->
 *   **Q: ¿Por qué el edificio no se cae?**
     *   **A:** Seguramente colocaste las bombas en un punto poco eficaz. Prueba a ponerlas más abajo, en los bloques de soporte principales, en lugar de en las paredes exteriores o en la parte superior.
 
+<!-- i18n:faq:id=faq:tnt-bomb:q-can-i-place-more-9ba6a330 -->
 *   **Q: ¿Puedo colocar más de una bomba?**
     *   **A:** Sí. Debes colocar todas las bombas disponibles para ese nivel antes de poder detonarlas y ver el efecto combinado.
+
