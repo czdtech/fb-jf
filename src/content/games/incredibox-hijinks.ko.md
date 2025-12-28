@@ -15,6 +15,7 @@ releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### **게임 소개**
 
 *Incredibox Hijinks*는 모더 Bongo Cat이 제작한, 매우 에너지 넘치는
@@ -29,6 +30,7 @@ releaseDate: 2025-10-10T00:00:00.000Z
 비트, 장난스러운 효과음, 재기발랄한 보컬**로 구성되어 있어, 현대
 카툰 BGM 같은 발랄한 트랙을 만들기에 좋습니다.
 
+<!-- i18n:section:tips -->
 ### **플레이 전략 & 팁**
 
 이 모드의 전략은 최대한 **재미와 에너지**를 살리는 방향으로
@@ -62,12 +64,13 @@ releaseDate: 2025-10-10T00:00:00.000Z
    하면 장난기 넘치는 보너스 애니메이션 3가지를 비교적 빠르게
    모두 확인할 수 있습니다.
 
+<!-- i18n:section:controls -->
 ### **조작 가이드**
 
 조작은 공식 Incredibox와 동일한 드래그 앤 드롭 방식입니다.
 
 - **사운드 추가**: 하단의 아이콘을 드래그해 캐릭터 위에 올려놓습니다.
-- **사운드 제거**: 하단 활성 아이콘의 `X`를 누르거나, 다른 아이콘을
+- **사운드 제거**: 하단 활성 아이콘의 X를 누르거나, 다른 아이콘을
   덮어써 교체합니다.
 - **뮤트/해제**: 연주 중인 캐릭터를 클릭해 해당 파트를 끄거나 다시
   켤 수 있습니다.
@@ -76,26 +79,32 @@ releaseDate: 2025-10-10T00:00:00.000Z
 - **녹음**: 상단의 녹음 버튼으로 완성된 장난기 넘치는 트랙을
   녹음·저장할 수 있습니다.
 
+<!-- i18n:section:faq -->
 ### **자주 묻는 질문(FAQ)**
 
+<!-- i18n:faq:id=faq:incredibox-hijinks:is-this-an-official-incredibox-12056458 -->
 **1. 공식 Incredibox 버전인가요?**  
 
 아니요. *Hijinks*는 모더 Bongo Cat이 만든 **비공식 팬메이드 모드**이며,
 공식 개발사 So Far So Good과는 관련이 없습니다.
 
+<!-- i18n:faq:id=faq:incredibox-hijinks:where-can-i-play-this-a4cf171c -->
 **2. 이 모드는 어디에서 플레이할 수 있나요?**  
 
 주로 `playfiddlebops.com` 같은 모딩 웹사이트나, 유튜브 소개 영상의
 플레이 링크를 통해 브라우저에서 즐길 수 있습니다. 공식 앱이나
 스토어에서는 제공되지 않습니다.
 
+<!-- i18n:faq:id=faq:incredibox-hijinks:what-makes-this-mod-special-f26277ef -->
 **3. 이 모드만의 매력은 무엇인가요?**  
 
 진지한 테마보다 **순수하게 웃고 즐기기 위한 음악**을 만들고 싶을 때
 딱 맞는 모드입니다. 가벼운 카툰 분위기와 발랄한 전자음 덕분에,
 잠깐씩 켜서 기분 전환용으로 플레이하기 좋습니다.
 
+<!-- i18n:faq:id=faq:incredibox-hijinks:are-the-bonus-solutions-for-05cb83d2 -->
 **4. 보너스 조합 공략을 어디서 볼 수 있나요?**  
 
 `Incredibox Hijinks combos` 같은 키워드로 유튜브를 검색하면, 각
 보너스를 여는 조합을 정리해 둔 영상들을 쉽게 찾을 수 있습니다.
+

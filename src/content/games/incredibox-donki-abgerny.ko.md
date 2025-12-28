@@ -11,9 +11,11 @@ thumbnail: /new-images/thumbnails/incredibox-donki-abgerny.png
 tags:
   - incredibox donki abgerny
 score: 4.3/5  (154 votes)
+releaseDate: 2025-12-04
 ---
 
 
+<!-- i18n:section:introduction -->
 늘 비슷한 전자음 비트만 듣느라 지쳤나요? 땅속 깊은 곳에서 울려 나오는 원초적인
 리듬을 느끼며 시간 여행을 떠나 보고 싶다면,
 *Incredibox Donki Abgerny(인크레디박스 돈키 아브게르니)* 가 딱 맞는 선택입니다.
@@ -72,3 +74,4 @@ Incredibox Donki Abgerny는 창의성과 도전 정신이 가득 담긴 음악 �
 이 버전은 강렬한 그루브와 놀라움으로 가득한 잊지 못할 여정을 선사할 것입니다.  
 지금, 고대이면서도 살아 숨 쉬는 이 음악 부족에 합류해 당신만의 리듬 감각으로
 도전을 정복할 준비가 되었나요?
+

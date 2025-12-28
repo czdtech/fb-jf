@@ -16,6 +16,7 @@ releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### **게임 소개**
 
 *Incredibox Geek Dance Simulator*는 Incredibox 팬메이드 모드 중
@@ -29,6 +30,7 @@ Simulator 라인업에 속하는 작품으로, **긱·너드 문화**를 테마�
 루프**를 만드는 것입니다. 상단의 `LOOP` 게이지를 채우면 숨겨진
 보너스 연출도 감상할 수 있습니다.
 
+<!-- i18n:section:tips -->
 ### **게임 플레이 전략 & 팁**
 
 1. **칩튠 그리드 이해하기**  
@@ -58,6 +60,7 @@ Simulator 라인업에 속하는 작품으로, **긱·너드 문화**를 테마�
    예를 들어, 처음에는 드럼만, 이후 베이스를 추가하고, 마지막에
    리드 멜로디를 더하면 짧지만 완성도 있는 곡처럼 들립니다.
 
+<!-- i18n:section:controls -->
 ### **조작 가이드**
 
 이 모드는 시뮬레이터 시리즈 특유의 클릭 기반 인터페이스를 사용합니다.
@@ -71,13 +74,16 @@ Simulator 라인업에 속하는 작품으로, **긱·너드 문화**를 테마�
     - **녹음 버튼**: 현재 믹스를 녹음·저장합니다.  
     - **리셋 버튼**: 활성화된 사운드를 모두 꺼서 처음 상태로 되돌립니다.
 
+<!-- i18n:section:faq -->
 ### **자주 묻는 질문(FAQ)**
 
+<!-- i18n:faq:id=faq:incredibox-geek-dance-simulator:is-this-an-official-incredibox-76f9ee93 -->
 **1. 이 게임은 공식 Incredibox인가요?**  
 
 아니요. *Geek Dance Simulator*를 포함한 Simulator 시리즈는 모두
 팬이 만든 모드이며, 공식 개발사인 So Far So Good과는 관련이 없습니다.
 
+<!-- i18n:faq:id=faq:incredibox-geek-dance-simulator:why-is-this-different-from-62cbcae5 -->
 **2. 다른 Geek Dance 모드와 무엇이 다른가요?**  
 
 커뮤니티에서는 비슷한 이름의 모드가 최소 두 개 존재합니다.  
@@ -86,8 +92,10 @@ Simulator 라인업에 속하는 작품으로, **긱·너드 문화**를 테마�
 - **Geek Dance Simulator (그리드 방식)**: 이 페이지에서 다루는
   버전으로, 아이콘 그리드를 클릭해 루프를 만드는 시뮬레이터 형식입니다.
 
+<!-- i18n:faq:id=faq:incredibox-geek-dance-simulator:where-can-i-play-this-a4cf171c -->
 **3. 이 모드는 어디에서 플레이할 수 있나요?**  
 
 공식 플랫폼에는 없으며, 보통 `playfiddlebops.com` 같은 모딩 사이트나
 Scratch 커뮤니티, 유튜브 소개 영상의 링크를 통해 웹 브라우저에서
 플레이할 수 있습니다.
+

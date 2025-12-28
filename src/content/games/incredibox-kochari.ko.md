@@ -15,6 +15,7 @@ releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Incredibox Kochari 소개
 
 Incredibox Kochari는 Incredibox 특유의 음악 만들기 시스템에
@@ -28,6 +29,7 @@ Incredibox Kochari는 Incredibox 특유의 음악 만들기 시스템에
 연출로 꾸며져 있습니다. 그 결과, 단순한 리듬 게임을 넘어 **문화
 오마주에 가까운 음악 체험**을 제공하는 모드가 되었습니다.
 
+<!-- i18n:section:tips -->
 ### 게임 플레이 전략
 
 *   **핵심 포인트**
@@ -35,6 +37,7 @@ Incredibox Kochari는 Incredibox 특유의 음악 만들기 시스템에
     2. **보너스 찾기**: 이 모드에도 숨겨진 보너스 애니메이션이 있습니다. 3명의 캐릭터 조합을 다양하게 바꿔 보며 어떤 구성에서 보너스가 발동하는지 실험해 보세요.
     3. **리듬 밸런스 맞추기**: Kochari의 강한 타악 리듬을 중심에 두고, 그 위에 멜로디·보컬을 얹어 균형을 맞추면 춤 특유의 에너지가 살아납니다.
 
+<!-- i18n:section:controls -->
 ### 조작 가이드
 
 *   조작 방식은 다른 Incredibox와 동일합니다.
@@ -42,17 +45,22 @@ Incredibox Kochari는 Incredibox 특유의 음악 만들기 시스템에
     *   **녹음**: 상단의 녹음 버튼으로 자신이 만든 Kochari 스타일 믹스를 저장할 수 있습니다.
     *   **보너스**: 올바른 조합을 찾으면 보너스 애니메이션이 자동 재생되며, 믹스에 시각·사운드 연출이 추가됩니다.
 
+<!-- i18n:section:faq -->
 ### 자주 묻는 질문(FAQ)
 
+<!-- i18n:faq:id=faq:incredibox-kochari:q-what-is-kochari-25bf451f -->
 *   **Q: Kochari가 무엇인가요?**
     *   **A:** Kochari는 강한 발동작과 리듬감으로 유명한 아르메니아 전통
   민속 춤입니다. 이 모드는 그 문화를 기념하기 위한 오마주로
   제작되었습니다.
 
+<!-- i18n:faq:id=faq:incredibox-kochari:q-is-this-an-official-59ac97d1 -->
 *   **Q: 공식 Incredibox 버전인가요?**
     *   **A:** 아니요. 커뮤니티에서 열정을 가지고 만든 **팬메이드 모드**이며,
   공식 개발사와는 직접적인 관련이 없습니다.
 
+<!-- i18n:faq:id=faq:incredibox-kochari:q-how-many-bonuses-are-2ecd0c81 -->
 *   **Q: 보너스는 몇 개나 있나요?**
     *   **A:** 일반적으로 3개의 보너스 애니메이션이 준비되어 있으며, 서로 다른
   사운드 조합을 찾으면서 모두 해금할 수 있습니다.
+

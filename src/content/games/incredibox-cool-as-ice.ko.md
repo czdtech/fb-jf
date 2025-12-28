@@ -11,6 +11,7 @@ tags:
   - incredibox cool as ice
   - incredibox cool as ice online
 score: 4.9/5  (724 votes)
+releaseDate: 2025-12-04
 ---
 
 ### Incredibox Cool As Ice 소개
@@ -25,6 +26,7 @@ Cool as Ice 모드에서 익숙한 Incredibox 캐릭터들은 얼음처럼 반�
 
 ---
 
+<!-- i18n:section:tips -->
 ### 얼음 게임플레이, 쉽게 시작하기:
 
 - **얼음 캐릭터 선택:** 새롭게 서리가 내린 캐릭터 라인업에서 선택하여 시작하세요. 각각은 겨울의 냉기와 함께 클래식 사운드에 새로운 변화를 가져옵니다. 게임에는 20개 이상의 독특한 얼음 테마 캐릭터가 있으며, 각각 고유한 개성을 가지고 있습니다.

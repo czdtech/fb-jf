@@ -12,6 +12,7 @@ tags:
   - incredibox shatter sprunk
   - incredibox shatter sprunk online
 score: 4.5/5  (614 votes)
+releaseDate: 2025-12-04
 ---
 
 
@@ -28,6 +29,7 @@ Sprunki 특유의 기괴하고 유쾌한 스타일을 더한 팬메이드 모드
 있습니다. 승패를 가리는 게임이라기보다는, **마음에 드는 사운드를
 마음껏 섞어 보는 놀이용 음악 툴**에 가깝습니다.
 
+<!-- i18n:section:how-to-play -->
 ### Incredibox Shatter Sprunk 플레이 방법
 
 플레이 방법은 간단하며, 몇 가지 단계만 알면 바로 시작할 수 있습니다.
@@ -52,6 +54,7 @@ Sprunki 특유의 기괴하고 유쾌한 스타일을 더한 팬메이드 모드
 **Incredibox Shatter Sprunk에서는 “이기는 것”이 목표가 아니라,  
 본인이 좋아하는 음악을 만드는 것이 목표입니다.**
 
+<!-- i18n:section:controls -->
 ### 마우스 조작법
 
 조작은 거의 전부 마우스로 이루어지며, 매우 직관적입니다.
@@ -78,3 +81,4 @@ Sprunki 특유의 기괴하고 유쾌한 스타일을 더한 팬메이드 모드
   경험하게 해 줍니다.  
 - **탐색하는 재미**: 숨겨진 애니메이션과 특수 연출을 발견해 나가는
   과정 자체가 또 하나의 게임처럼 느껴집니다.
+

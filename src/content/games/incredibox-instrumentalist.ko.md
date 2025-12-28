@@ -16,6 +16,7 @@ releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### **게임 소개**
 
 *Incredibox Instrumentalist*는 기존 Incredibox의 구성을 과감히 바꾼
@@ -32,12 +33,14 @@ releaseDate: 2025-10-10T00:00:00.000Z
 플레이어의 목표는 여러 악기를 조합해 자신만의 합주단을 만들고,
 풍부한 레이어를 가진 연주곡을 완성하는 것입니다.
 
+<!-- i18n:section:tips -->
 ### **게임 플레이 전략 & 팁**
 
 이 모드에서의 전략은 악기들 간의 역할을 이해하고, 밸런스 있게
 오케스트라를 쌓는 것입니다.
 
 1. **악기 섹션 이해하기**  
+    20개의 아이콘이 전체 오케스트라를 구성합니다.  
     - **리듬 섹션(퍼커션)**: 핸드 드럼, 클라베스, 마라카스, 탬버린,
      트라이앵글, 축구공처럼 생긴 쉐이커 등, 기본 리듬을 담당하는
      타악기가 여기에 해당합니다.  
@@ -69,6 +72,7 @@ releaseDate: 2025-10-10T00:00:00.000Z
    특정 구간을 강조하는 데 유용합니다. 전체 밸런스를 해치지 않는
    선에서 살짝씩 더해 곡에 개성을 부여해 보세요.
 
+<!-- i18n:section:controls -->
 ### **조작 가이드**
 
 조작은 Incredibox 기본 방식과 비슷하지만, “악기를 소환한다”는 연출이
@@ -80,24 +84,29 @@ releaseDate: 2025-10-10T00:00:00.000Z
 - **녹음**: 화면 상단의 녹음 버튼을 눌러 지금 연주 중인 오케스트라
   연주를 녹음·저장할 수 있습니다.
 
+<!-- i18n:section:faq -->
 ### **자주 묻는 질문(FAQ)**
 
+<!-- i18n:faq:id=faq:incredibox-instrumentalist:is-this-an-official-incredibox-12056458 -->
 **1. 공식 Incredibox 버전인가요?**  
 
 아니요. *Instrumentalist*는 모더 Gabsoares04가 제작한 **팬메이드 모드**이며,
 공식 개발사 So Far So Good과는 관련이 없습니다.
 
+<!-- i18n:faq:id=faq:incredibox-instrumentalist:what-makes-this-mod-so-5ae5fbac -->
 **2. 이 모드가 특히 독특한 이유는 무엇인가요?**  
 
 가장 큰 차별점은 **캐릭터가 아니라 악기를 배치한다**는 점입니다.
 또한 보컬 없이 세계 각지의 악기들만으로 곡을 만드는 **순수 기악 모드**
 라는 점 덕분에, 다른 Incredibox 버전과 완전히 다른 감성을 제공합니다.
 
+<!-- i18n:faq:id=faq:incredibox-instrumentalist:where-can-i-play-this-a4cf171c -->
 **3. 이 모드는 어디에서 플레이할 수 있나요?**  
 
 공식 사이트나 앱에는 없고, 보통 `playfiddlebops.com` 같은 모딩 사이트나
 유튜브 영상 설명란의 링크를 통해 브라우저에서 플레이할 수 있습니다.
 
+<!-- i18n:faq:id=faq:incredibox-instrumentalist:are-the-bonus-solutions-for-3062ed27 -->
 **4. 보너스 조합 공략은 어디에서 볼 수 있나요?**  
 
 `Incredibox Instrumentalist combos` 같은 키워드로 유튜브를 검색하면,

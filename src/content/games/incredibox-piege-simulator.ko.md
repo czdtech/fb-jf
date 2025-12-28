@@ -16,6 +16,7 @@ releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### **게임 소개**
 
 *Incredibox Piège Simulator*는 Incredibox 시뮬레이터 시리즈 가운데,
@@ -29,6 +30,7 @@ releaseDate: 2025-10-10T00:00:00.000Z
 어두운 멜로디를 조합해 **어둡고 긴장감 있는 트랩 루프**를
 완성하는 것입니다.
 
+<!-- i18n:section:tips -->
 ### **플레이 전략 & 팁**
 
 1. **리듬부터 잡기**  
@@ -53,6 +55,7 @@ releaseDate: 2025-10-10T00:00:00.000Z
    멜로디를 한꺼번에 켜면 실제 트랩 곡처럼 폭발하는 구간을 만들
    수 있습니다.
 
+<!-- i18n:section:controls -->
 ### **조작 가이드**
 
 이 모드는 시뮬레이터 시리즈의 단순한 클릭 조작을 그대로 사용합니다.
@@ -66,20 +69,25 @@ releaseDate: 2025-10-10T00:00:00.000Z
     - **녹음 버튼**: 현재 믹스를 녹음·저장합니다.  
     - **리셋 버튼**: 활성화된 모든 사운드를 초기화해 새로 시작합니다.
 
+<!-- i18n:section:faq -->
 ### **자주 묻는 질문(FAQ)**
 
+<!-- i18n:faq:id=faq:incredibox-piege-simulator:is-this-an-official-incredibox-76f9ee93 -->
 **1. 공식 Incredibox 게임인가요?**  
 아니요. 시뮬레이터 시리즈, 그리고 *Piège* 모드는 모두 커뮤니티에서
 만든 **팬메이드 모드**이며, 공식 개발사 So Far So Good과는 관련이
 없습니다.
 
+<!-- i18n:faq:id=faq:incredibox-piege-simulator:why-is-the-gameplay-different-ad85e024 -->
 **2. 왜 원작과 조작 방식이 다른가요?**  
 시뮬레이터 스타일은 모딩 커뮤니티가 만든 변형 규칙입니다.
 트랩 같은 전자 음악 장르는 **그리드 기반 온·오프 방식**이 비트
 레이어를 섬세하게 다루기에 적합하기 때문에, 이러한 UI가 특히
 잘 어울립니다.
 
+<!-- i18n:faq:id=faq:incredibox-piege-simulator:where-can-i-play-this-a4cf171c -->
 **3. 어디에서 이 모드를 플레이할 수 있나요?**  
 공식 앱이나 사이트에는 없고, 보통 **Newgrounds**나
 **playfiddlebops.com** 같은 모딩·게임 사이트, 혹은 유튜브
 소개 영상의 링크를 통해 웹 브라우저에서 플레이할 수 있습니다.
+
