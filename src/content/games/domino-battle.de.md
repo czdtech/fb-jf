@@ -16,6 +16,7 @@ score: 4.5/5  (2700 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Domino Battle ist eine digitale Umsetzung des klassischen Dominospiels mit
@@ -25,6 +26,7 @@ Steine mit passenden Zahlen an die offenen Enden der Kette an. Neben gutem
 Timing brauchst du auch Voraussicht, um Züge des Gegners zu erahnen und ihn im
 besten Fall zu blockieren.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1. **Grundregeln:** Beide Spieler starten mit einer Hand voller Steine. Meist
@@ -47,6 +49,7 @@ besten Fall zu blockieren.
    der niedrigeren Gesamtaugenzahl und erhält Punkte basierend auf der Hand des
    Gegners.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Stein legen:** Klicke einen Domino in deiner Hand an und ziehe ihn auf ein
@@ -54,19 +57,24 @@ besten Fall zu blockieren.
 - **Stein ziehen:** Hast du keinen gültigen Zug, klicke auf den verdeckten
   Stapel, um einen neuen Stein zu ziehen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:domino-battle:q-what-is-the-main-54696a60 -->
 *   **F: Was ist das Hauptziel des Spiels?**
     *   **A:** Du willst als erster alle deine Dominosteine ausspielen und deine Hand
         leeren. Über mehrere Runden hinweg gewinnst du das Match, indem du als
         erster eine Zielpunktzahl erreichst.
 
+<!-- i18n:faq:id=faq:domino-battle:q-what-happens-if-i-36e9def4 -->
 *   **F: Was passiert, wenn ich nicht legen kann?**
     *   **A:** Du musst so lange aus dem Boneyard nachziehen, bis du einen passenden
         Stein auf der Hand hast. Ist der Stapel leer, musst du deinen Zug passen.
 
+<!-- i18n:faq:id=faq:domino-battle:q-how-can-i-block-5f610509 -->
 *   **F: Wie blockiere ich meinen Gegner?**
     *   **A:** Achte auf die Zahlen an den offenen Enden. Wenn du anhand der gespielten
         Steine vermutest, dass dein Gegner eine bestimmte Zahl kaum oder gar nicht
         besitzt, vermeide es, diese Zahl offen liegen zu lassen. So zwingst du ihn
         eher zum Nachziehen oder Passen.
+

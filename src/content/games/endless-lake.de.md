@@ -16,6 +16,7 @@ score: 4.2/5  (1900 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Endless Lake ist ein minimalistischer, aber fordernder Endless Runner, der dein
@@ -25,6 +26,7 @@ sich auf eine Mechanik: den Sprung. Mit präzisem Timing bei Einzel- und
 Doppelsprüngen überwindest du immer neue Abstände und versuchst, so weit wie
 möglich zu kommen.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1. **Doppelsprung meistern:** Die wichtigste Fähigkeit ist der Doppelsprung.
@@ -42,6 +44,7 @@ möglich zu kommen.
    vorne, um früh zu erkennen, ob als Nächstes ein Einzel- oder Doppelsprung
    nötig ist.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Das Spiel verwendet eine einfache One-Touch-Steuerung.
@@ -51,18 +54,23 @@ Das Spiel verwendet eine einfache One-Touch-Steuerung.
 - **Doppelsprung:** Starte erst einen Sprung und tippe dann ein zweites Mal,
   während die Figur in der Luft ist.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:endless-lake:q-what-is-the-goal-ab58581b -->
 *   **F: Was ist das Ziel des Spiels?**
     *   **A:** So weit wie möglich zu laufen, ohne in den See zu fallen. Deine
         Punktzahl richtet sich nach der zurückgelegten Distanz.
 
+<!-- i18n:faq:id=faq:endless-lake:q-how-do-i-know-da3ae9a5 -->
 *   **F: Woran erkenne ich, wann ein Doppelsprung nötig ist?**
     *   **A:** Du musst die Lückengröße visuell einschätzen – weite Abstände
         verlangen einen Doppelsprung, kurze kannst du mit einem einfachen Hopser
         schaffen. Genau diese Einschätzung macht den Kern der Herausforderung aus.
 
+<!-- i18n:faq:id=faq:endless-lake:q-what-are-the-mirror-488e84f5 -->
 *   **F: Was hat es mit den Spiegelportalen auf sich?**
     *   **A:** Wenn du sie durchquerst, tauchen häufig Klone deiner Figur auf. Dann
         steuerst du mehrere Runner gleichzeitig – ein reiner, aber spaßiger
         visueller Effekt, der den Run chaotischer wirken lässt.
+

@@ -16,10 +16,12 @@ score: 4.4/5  (2100 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Detaillierte Spieleinführung
 
 Dice Puzzle ist ein cleveres und strategisches Puzzle-Spiel, das Logik mit einem Hauch von Glück verbindet. Das Ziel ist es, Würfel auf einem 5×5-Gitter zu platzieren und sie zu verschmelzen, um höherwertige Würfel zu erstellen. Indem du drei oder mehr benachbarte Würfel mit derselben Zahl zusammenbringst, kombinierst du sie zu einem einzelnen Würfel mit der nächsthöheren Zahl. Das ultimative Ziel ist es, spezielle Juwelenwürfel zu erstellen, indem du Würfel mit der Zahl 6 verschmelzt, was hilft, das Brett zu räumen und einen hohen Punktestand zu erreichen. Das Spiel endet, wenn das Brett voll ist und du keinen Würfel mehr platzieren kannst.
 
+<!-- i18n:section:tips -->
 ### Spielstrategie & Walkthrough
 
 1.  **Die Verschmelzungsregel:** Der Kern des Spiels ist das Zusammenbringen von drei oder mehr identischen Würfeln, die nebeneinander liegen (in einer Linie oder einem Cluster). Sie werden dann zu einem einzelnen Würfel mit der nächsten Zahl verschmelzen (z.B. werden drei '4er' zu einer '5').
@@ -27,18 +29,24 @@ Dice Puzzle ist ein cleveres und strategisches Puzzle-Spiel, das Logik mit einem
 3.  **Drehen für bessere Passform:** Du kannst den Würfel drehen, bevor du ihn platzierst. Nutze dies zu deinem Vorteil, um ihn perfekt für eine Verschmelzung zu positionieren.
 4.  **Auf den Juwelenwürfel zielen:** Der mächtigste Zug ist, drei Würfel mit der Zahl 6 zu verschmelzen. Dies erstellt einen speziellen Juwelenwürfel, der explodiert und einen 3×3-Bereich um ihn herum räumt. Dies ist entscheidend, um Platz auf dem Brett freizumachen und dein Spiel zu verlängern.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 *   **Würfel drehen:** Klicke auf den Würfel im Haltebereich, um ihn vor dem Platzieren zu drehen.
 *   **Würfel platzieren:** Klicke auf ein leeres Feld auf dem 5×5-Gitter, um den aktuellen Würfel zu platzieren.
 
+<!-- i18n:section:faq -->
 ### Häufig gestellte Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:dice-puzzle:q-how-do-i-merge-532c1910 -->
 *   **F: Wie verschmelze ich Würfel?**
     *   **A:** Platziere mindestens drei Würfel mit derselben Zahl so, dass sie sich horizontal oder vertikal berühren. Sie werden automatisch verschmelzen.
 
+<!-- i18n:faq:id=faq:dice-puzzle:q-what-is-the-goal-ab58581b -->
 *   **F: Was ist das Ziel des Spiels?**
     *   **A:** Das Ziel ist, den höchstmöglichen Punktestand zu erreichen, indem du so lange wie möglich überlebst. Du tust dies, indem du kontinuierlich Würfel verschmelzt und Platz räumst, um zu verhindern, dass das Brett sich füllt.
 
+<!-- i18n:faq:id=faq:dice-puzzle:q-what-happens-when-i-68b2ff3c -->
 *   **F: Was passiert, wenn ich drei '6er'-Würfel verschmelze?**
     *   **A:** Das Verschmelzen von drei 6-Punkte-Würfeln erstellt einen speziellen Juwelenwürfel. Bei deiner nächsten Verschmelzung, die dieses Juwel einbezieht, wird es eine kleine Explosion auslösen, die den 3×3-Bereich um es herum räumt und dir einen großen Punktebonus gibt.
+

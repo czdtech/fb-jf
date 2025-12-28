@@ -16,6 +16,7 @@ score: 4.1/5  (1924 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Dices 2048 3D ist eine physikbasierte Variante des bekannten 2048-Puzzles. Du
@@ -25,6 +26,7 @@ aufeinandertreffen und zu einem Würfel mit dem nächsthöheren Wert verschmelze
 für neue Taktiken rund um Stapel, Abstände und das Verhindern unerwünschter
 Kettenreaktionen.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1. **Spalten sauber halten:** Reserviere dir eine Spalte zum Kombinieren und
@@ -43,6 +45,7 @@ Kettenreaktionen.
    kleinen Fusionen Platz, statt krampfhaft auf die perfekte Mega-Kombo zu
    warten.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Zielen/Platzieren:** Bewege den Cursor oder ziehe, um die
@@ -52,17 +55,21 @@ Kettenreaktionen.
 - **Rückgängig/Wiederholen (falls verfügbar):** Einige Varianten bieten
   begrenzte Rückgängig-Züge – ideal, um einen missglückten Drop zu retten.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:dices-2048-3d:how-do-dice-merge-305e836e -->
 - **F: Wie verschmelzen die Würfel genau?**  
   **A:** Treffen zwei Würfel mit demselben Wert zusammen, werden sie zu einem
   einzigen Würfel mit dem nächsthöheren Wert (z.B. zwei 8er ergeben einen 16er).
 
+<!-- i18n:faq:id=faq:dices-2048-3d:i-keep-causing-accidental-merg-71e8bba5 -->
 - **F: Ich löse ständig ungewollte Fusionen aus – was tun?**  
   **A:** Reduziere die Fallhöhe, warte, bis alle Würfel vollständig zur Ruhe
   gekommen sind, und vermeide schräge Abpraller, bei denen Würfel in Gruppen
   hineinrutschen.
 
+<!-- i18n:faq:id=faq:dices-2048-3d:is-there-an-end-0d3d5bd5 -->
 - **F: Wann ist das Spiel vorbei?**  
   **A:** Die Partie endet, wenn du keinen Würfel mehr sinnvoll platzieren kannst
   oder das Gefäß überläuft. Dein Ziel ist es, mindestens die 2048 zu erreichen –

@@ -15,6 +15,7 @@ score: 4.2/5  (905 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Überblick
 
 DogeMiner ist ein inkrementelles Idle-/Clicker-Spiel rund ums Münzschürfen.
@@ -23,6 +24,7 @@ du bessere Spitzhacken, fleißige Shibes, hilfreiche Werkzeuge und Fabriken, die
 für dich arbeiten und dein Einkommen automatisieren. Später kannst du sogar
 Raketen bauen, um zum Mond und darüber hinaus zu reisen.
 
+<!-- i18n:section:how-to-play -->
 ### So spielst du
 
 - Klicke zunächst manuell, um deine ersten Münzen zu sammeln, und investiere
@@ -32,6 +34,7 @@ Raketen bauen, um zum Mond und darüber hinaus zu reisen.
 - Nutze Prestigesysteme oder späte Resets (falls verfügbar), um dauerhafte
   Multiplikatoren zu erhalten, die zukünftige Runs deutlich beschleunigen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Maus/Touch: Klicke auf den großen Mining-Button für manuelles Schürfen und
@@ -47,13 +50,16 @@ Raketen bauen, um zum Mond und darüber hinaus zu reisen.
   Weltraumreisen freischalten, statt dich nur auf kleine, kurzfristige Boosts
   zu konzentrieren.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:dogeminer:is-it-playable-offline-b3756a46 -->
 - **F: Läuft das Spiel offline weiter?**  
   **A:** Manche Hosts speichern deinen Fortschritt lokal und zählen Einkommen,
   solange der Tab geöffnet bleibt. Vollständiger Offline-Fortschritt hängt von
   der jeweiligen Version ab.
 
+<!-- i18n:faq:id=faq:dogeminer:whats-the-longterm-goal-72afeb99 -->
 - **F: Was ist das langfristige Ziel?**  
   **A:** Du willst deine Produktion so weit steigern, dass du Raketen zum Mond
   starten kannst und anschließend weitere Gebiete und Inhalte freischaltest.

@@ -15,6 +15,7 @@ score: 4.1/5  (1914 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Farming 10x10 ist ein ruhiges Legespiel auf einem 10×10-Raster. Du erhältst
@@ -24,6 +25,7 @@ aktuellen Formen mehr legal gesetzt werden kann – die Kunst liegt also darin,
 Flexibilität zu bewahren und gleichzeitig gezielt Mehrfach-Löschungen
 vorzubereiten.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1. **Zentrum offen halten:** Lass die Mitte möglichst frei und räume Kanten
@@ -38,22 +40,27 @@ vorzubereiten.
 5. **Lange, schmale "Spines" vermeiden:** Erzeuge möglichst keine langen
    1×n-Streifen, in die praktisch nur noch Stabteile passen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Ziehe Formen per Drag & Drop auf das Brett und lasse sie los, um sie zu
   platzieren.  
 - Einige Varianten erlauben Drehen, andere nicht – das hängt vom Host ab.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:farming-10x10:i-keep-running-out-of-53d7e049 -->
 - **F: Mir geht ständig der Platz aus – was kann ich tun?**  
   **A:** Halte die Mitte flexibel, reserviere eine Ecke für schwierige Teile
   und plane Doppel-Löschungen, statt nur spontane Einzelreihen zu machen.
 
+<!-- i18n:faq:id=faq:farming-10x10:rotate-is-missing-47d28c13 -->
 - **F: Warum kann ich nicht drehen?**  
   **A:** Viele 10×10-Varianten verzichten bewusst auf Rotation. Plane dafür mit
   klaren Taschen und offenen Bereichen.
 
+<!-- i18n:faq:id=faq:farming-10x10:how-to-chase-high-scores-1161fbca -->
 - **F: Wie erreiche ich hohe Scores?**  
   **A:** Kette möglichst viele Doppel- oder Mehrfach-Löschungen und vermeide
   "Rettungszüge", die zwar kurz helfen, aber deine Struktur langfristig

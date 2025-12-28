@@ -15,6 +15,7 @@ score: 4.3/5  (691 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Überblick
 
 Diner Dash ist ein klassisches Zeitmanagement-Spiel rund um einen kleinen
@@ -25,6 +26,7 @@ Farbe hintereinander setzen oder besonders schnell bedienen) sammelst du
 Kombos und verdienst Geld, das du zwischen den Leveln in Upgrades investieren
 kannst.
 
+<!-- i18n:section:how-to-play -->
 ### So spielst du
 
 - Setze ankommende Gäste möglichst schnell an passende Tische und achte dabei
@@ -34,6 +36,7 @@ kannst.
 - Nutze Upgrades wie schnellere Schuhe, zusätzliche Tische oder bessere
   Ausstattung, um die höheren Zielvorgaben in späteren Leveln zu schaffen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Maus/Touch: Klicke oder tippe nacheinander auf Zielorte und Objekte, um
@@ -49,12 +52,15 @@ kannst.
 - Plane deine Route: Sammle z.B. in einem Durchgang mehrere Bestellungen ein
   und serviere sie in einem weiteren, statt ständig hin und her zu laufen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:diner-dash:what-do-color-matches-do-e02c86b1 -->
 - **F: Was bringen Farb-Matches?**  
   **A:** Wenn du Gäste derselben Farbe an entsprechend markierte Tische setzt,
   erhältst du zusätzliche Punkte und Kombos.
 
+<!-- i18n:faq:id=faq:diner-dash:can-i-retry-for-a-50ebea6e -->
 - **F: Kann ich Level für eine bessere Wertung wiederholen?**  
   **A:** Ja, das erneute Spielen von Leveln, um Wege und Aktionsketten zu
   optimieren, gehört zum Kern von Diner Dash und hilft dir, höhere Scores und

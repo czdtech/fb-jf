@@ -15,6 +15,7 @@ score: 3.9/5  (1517 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Emoji With Friends kombiniert schnelles Matching mit leichter Deduktion und
@@ -23,6 +24,7 @@ erfüllst kleine Zwischenziele oder lieferst dir ein Kopf-an-Kopf-Rennen darum,
 wer das Board zuerst löst. Kurze Runden, klare Symbole und ein niedriger
 Einstieg machen das Spiel ideal für zwischendurch oder kleine Partyrunden.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1. **Muster scannen:** Achte auf häufig wiederkehrende Emojis und baue daraus
@@ -37,6 +39,7 @@ Einstieg machen das Spiel ideal für zwischendurch oder kleine Partyrunden.
 5. **Boosts timen:** Heb dir Power-ups für enge Rennen auf oder nutze sie, um
    festgefahrene Boards wieder in Bewegung zu bringen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Auswählen/Matchen:** Klicke oder tippe Emojis an, um sie gemäß den
@@ -46,14 +49,18 @@ Einstieg machen das Spiel ideal für zwischendurch oder kleine Partyrunden.
 - **Online/Lokal:** Je nach Host gibt es Solo-, Online- oder lokale
   Zwei-Spieler-Modi mit kurzen Sessions.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:emoji-with-friends:is-it-competitive-or-solo-1322eefd -->
 - **F: Ist das Spiel kompetitiv oder solo?**  
   **A:** Es gibt unterschiedliche Modi; lokale Duelle sind sehr verbreitet.
 
+<!-- i18n:faq:id=faq:emoji-with-friends:are-there-complex-rules-a27f7f09 -->
 - **F: Sind die Regeln kompliziert?**  
   **A:** In der Regel sind sie einfach – lies vor Rundenstart kurz das
   jeweilige Ziel des Modus.
 
+<!-- i18n:faq:id=faq:emoji-with-friends:how-long-is-a-round-e41a29b3 -->
 - **F: Wie lange dauert eine Runde?**  
   **A:** Meist nur ein bis zwei Minuten, perfekt für kurze Spielsessions.

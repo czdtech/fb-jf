@@ -14,6 +14,7 @@ score: 3.9/5  (1641 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Egg Maker reduziert Zeitmanagement-Kochen auf schnelle Stationen: aufschlagen,
@@ -36,6 +37,7 @@ ihren eigenen Stil (Rührei, Spiegelei, Omelett) und ein enges Zeitfenster für
 5. **Upgrades mit Bedacht:** Investiere zuerst in eine zusätzliche Pfanne und
    schnellere Vorbereitung, Dekoration ist Luxus.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Tippen, um Eier aufzuschlagen/zu verquirlen/zu würzen; ziehen, um sie in die
@@ -51,17 +53,21 @@ ihren eigenen Stil (Rührei, Spiegelei, Omelett) und ein enges Zeitfenster für
 - **Komborouten:** Serviere zwei bis drei Gerichte direkt hintereinander, um
   Trinkgeld-Multiplikatoren mitzunehmen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:egg-maker:i-keep-burning-items-how-483b18e0 -->
 - **F: Ich lasse Essen ständig anbrennen – was mache ich falsch?**  
   **A:** Versetze deine Pfannen um 3–4 Sekunden, erledige kurze Vorbereitungen
   in den Pausen und höre auf das Brutzeln, um den richtigen Moment zu
   erwischen.
 
+<!-- i18n:faq:id=faq:egg-maker:which-upgrade-first-be077b24 -->
 - **F: Welches Upgrade zuerst?**  
   **A:** Zusätzliche Pfanne > schnellere Vorbereitung > größere Warteschlange.
   Deko ist eher fürs Endgame.
 
+<!-- i18n:faq:id=faq:egg-maker:any-trick-for-omelets-with-7e3bef76 -->
 - **F: Gibt es einen Trick für Omeletts mit Füllung?**  
   **A:** Schneide Füllungen in ruhigen Phasen vor, gib sie früh in die Pfanne
   und falte das Omelett beim ersten "gestockt"-Moment, damit nichts herausläuft.

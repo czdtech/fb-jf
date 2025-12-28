@@ -16,18 +16,21 @@ score: 4.7/5  (778 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Überblick
 
 Fancy Pants setzt ganz auf handgezeichnetes Platforming mit Schwerpunkt auf
 Momentum und Flow. Du baust auf Schrägen Geschwindigkeit auf, springst an
 Wänden hoch und entdeckst geheime Bereiche sowie Sammelitems.
 
+<!-- i18n:section:how-to-play -->
 ### So spielst du
 
 - Halte deinen Schwung, indem du Sprünge genau am Ende von Schrägen timst.
 - Nutze Wallruns und Slides, um Bewegungen über große Lücken zu verketten.
 - Erkunde Seitenwege, um Trophäen und versteckte Räume zu finden.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Pfeiltasten/WASD zum Bewegen und Springen.  
@@ -43,14 +46,18 @@ Wänden hoch und entdeckst geheime Bereiche sowie Sammelitems.
 - Spiele frühere Levels noch einmal, wenn du die Steuerung besser beherrschst –
   so erreichst du zusätzliche Geheimnisse.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:fancy-pants:is-there-combat-82efacce -->
 - **F: Gibt es Kämpfe?**  
   **A:** Nur leicht – meist simples Draufspringen oder kurze Nahkampfswipes,
   sofern die Version das unterstützt.
 
+<!-- i18n:faq:id=faq:fancy-pants:are-there-time-trials-acf42297 -->
 - **F: Gibt es Time-Trials?**  
   **A:** Viele Versionen bieten Speedrun- oder Challenge-Räume.
 
+<!-- i18n:faq:id=faq:fancy-pants:can-i-change-pants-colors-a3a1c6f5 -->
 - **F: Kann ich die Hosenfarbe ändern?**  
   **A:** In einigen Varianten lassen sich kosmetische Anpassungen freischalten.

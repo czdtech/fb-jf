@@ -11,14 +11,17 @@ tags:
   - arcade
   - runner
 score: 4.4/5  (1386 votes)
+releaseDate: 2025-09-09
 ---
 
+<!-- i18n:section:introduction -->
 ### Überblick
 
 Electron Dash ist ein rasanter Runner in einem futuristischen Tunnel. Du rennst
  über Röhren und Plattformen, springst über Abgründe und dashst über schwebende
  Kacheln, während das Tempo immer weiter anzieht.
 
+<!-- i18n:section:how-to-play -->
 ### So spielst du
 
 - Lies die Kachelmuster frühzeitig und wechsle rechtzeitig die Bahn, um Löcher
@@ -27,6 +30,7 @@ Electron Dash ist ein rasanter Runner in einem futuristischen Tunnel. Du rennst
   Timing.
 - Sammle Distanz und ggf. Edelsteine, falls dein Host sie anbietet.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Pfeiltasten/WASD zum Bewegen und Springen.  
@@ -40,16 +44,20 @@ Electron Dash ist ein rasanter Runner in einem futuristischen Tunnel. Du rennst
   ständiges Dashen auf instabilen Kacheln.
 - Behandle Kurven wie Spurenwechsel – wechsle früh, nicht erst am Rand.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:electron-dash:random-or-fixed-levels-bbc83643 -->
 - **F: Sind die Level zufällig oder fest?**  
   **A:** Viele Hosts setzen auf prozedurale Abschnitte, daher fühlt sich jeder
   Run etwas anders an.
 
+<!-- i18n:faq:id=faq:electron-dash:what-counts-as-failure-4929d013 -->
 - **F: Woran scheitere ich?**  
   **A:** Ein Lauf endet, wenn du in den Abgrund fällst, von Lasern getroffen
   wirst oder Ringe dich von der Plattform schieben.
 
+<!-- i18n:faq:id=faq:electron-dash:any-upgrades-2e662d37 -->
 - **F: Gibt es Upgrades?**  
   **A:** Manche Versionen bieten Freischaltungen über gesammelte Edelsteine
   oder kosmetische Anpassungen; der Kern bleibt jedoch die Distanzjagd.

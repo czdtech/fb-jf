@@ -15,6 +15,7 @@ score: 4.0/5  (1789 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Droid-O ist ein reaktionsschneller Top-Down-Arena-Shooter. Du steuerst einen
@@ -56,6 +57,7 @@ Gefahrenzonen meidest und gleichzeitig hohe Prioritätsziele fokussierst.
 - **Drohnen-Deployables:** Platziere Drohnen früh an Wendepunkten deiner
   Laufroute, damit sie Gegner automatisch beschießen, während diese dir folgen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Bewegung: WASD oder Pfeiltasten.  
@@ -74,22 +76,27 @@ Gefahrenzonen meidest und gleichzeitig hohe Prioritätsziele fokussierst.
   damit neue Spawns gebündelt erscheinen und du sie mit durchschnellenden
   Projektilen in einem Schwung abräumen kannst.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:droid-o:i-keep-getting-cornered-how-6205b082 -->
 - **F: Ich werde ständig in eine Ecke gedrängt – was mache ich falsch?**  
   **A:** Laufe nicht in engen Kreisen an der Wand. Halte dich eher in der
   Arenamitte, nutze weite Bögen und dashi frühzeitig durch die dünnste Lücke,
   statt zu warten, bis alles voll ist.
 
+<!-- i18n:faq:id=faq:droid-o:which-enemies-should-i-kill-1787e5bd -->
 - **F: Welche Gegner sollte ich zuerst angreifen?**  
   **A:** Immer Stürmer und Fernkämpfer, die dich schnell treffen können. Langsame
   Nahkämpfer kannst du im Kreis ausmanövrieren.
 
+<!-- i18n:faq:id=faq:droid-o:my-weapon-overheats-constantly-19a29573 -->
 - **F: Meine Waffe überhitzt ständig – wie kann ich das vermeiden?**  
   **A:** Schieße in kurzen Salven, wechsle zwischen Schießen und Bewegen und
   investiere – falls möglich – in Upgrades, die Effizienz oder Abkühlrate
   verbessern.
 
+<!-- i18n:faq:id=faq:droid-o:are-deployables-worth-it-039fa7d3 -->
 - **F: Lohnen sich Deployables wirklich?**  
   **A:** Ja, besonders wenn du sie vor Kurven oder Engstellen deiner Route
   platzierst. So verursachen sie konstant Schaden, während du dich auf Ausweichen

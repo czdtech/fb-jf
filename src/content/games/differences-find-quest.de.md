@@ -16,6 +16,7 @@ score: 4.0/5  (1876 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Differences Find Quest fordert deine Beobachtungsgabe heraus: Du bekommst zwei
@@ -25,6 +26,7 @@ veränderte Größen. In späteren Leveln kommen mehr Unterschiede, kniffligere
 Perspektiven und sanfter Zeitdruck hinzu, sodass du immer genauer hinschauen
 musst.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1. **Rasterblick nutzen:** Teile das Bild gedanklich in 4–6 Bereiche auf und
@@ -39,6 +41,7 @@ musst.
 5. **Kurze Pausen machen:** Wenn deine Augen müde werden, leg eine kurze Pause
    ein – danach erkennst du Details oft viel schneller.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Tippe oder klicke auf die Stelle, an der du einen Unterschied entdeckt hast
@@ -46,17 +49,21 @@ musst.
 - Nutze Hinweise sparsam – in manchen Modi werden Zeit oder Punkte abgezogen,
   wenn du zu viele benutzt.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:differences-find-quest:im-stuck-on-the-last-408b77b6 -->
 - **F: Ich finde den letzten Unterschied nicht – was soll ich tun?**  
   **A:** Lehn dich kurz zurück, scanne anschließend die Bildränder und
   wiederkehrende Muster noch einmal bewusst durch und setze notfalls einen
   Hinweis ein, wenn er verfügbar ist.
 
+<!-- i18n:faq:id=faq:differences-find-quest:do-i-lose-time-for-7a46e512 -->
 - **F: Verliere ich Zeit bei Fehlklicks?**  
   **A:** Viele Spielmodi ziehen bei falschen Klicks Zeit oder Punkte ab. Sei
   daher lieber etwas vorsichtiger, statt wahllos zu tippen.
 
+<!-- i18n:faq:id=faq:differences-find-quest:any-trick-for-tiny-color-3d274161 -->
 - **F: Gibt es einen Trick für minimale Farbunterschiede?**  
   **A:** Ein leichtes Zusammenkneifen der Augen oder ein Zoom kann Kontraste
   hervorheben und winzige Farbverschiebungen sichtbarer machen.

@@ -16,6 +16,7 @@ score: 4.4/5  (2400 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Farm Block Puzzle ist ein entspannendes, aber schnell süchtig machendes
@@ -26,6 +27,7 @@ oder Spalte vollständig zu füllen, wird sie gelöscht. Die Herausforderung: So
 lange wie möglich Platz für neue Formen zu behalten und dabei einen hohen Score
 zu erzielen.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1. **Mit allen drei Formen planen:** Du bekommst immer drei Blöcke auf einmal.
@@ -41,6 +43,7 @@ zu erzielen.
    der vorgegebenen Ausrichtung unterbringen. Genau darin liegt der Reiz des
    Puzzles.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Das Spiel nutzt eine einfache Drag-and-drop-Steuerung.
@@ -48,17 +51,22 @@ Das Spiel nutzt eine einfache Drag-and-drop-Steuerung.
 - **Blöcke platzieren:** Ziehe mit Maus oder Finger eine Form aus der unteren
   Leiste auf das 10x10-Gitter und lasse sie auf einem freien Bereich los.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:farm-block-puzzle:q-what-is-the-objective-0d640e0d -->
 *   **F: Was ist das Ziel des Spiels?**
     *   **A:** Möglichst viele Punkte zu erzielen, indem du Blöcke so platzierst,
         dass Linien gelöscht werden. Das Spiel endet, wenn keiner der drei aktuellen
         Blöcke mehr auf das Feld passt.
 
+<!-- i18n:faq:id=faq:farm-block-puzzle:q-can-i-rotate-the-8b38e9ae -->
 *   **F: Kann ich Blöcke drehen?**
     *   **A:** Nein. Die Herausforderung besteht gerade darin, die Teile in ihrer
         festen Ausrichtung clever einzubauen.
 
+<!-- i18n:faq:id=faq:farm-block-puzzle:q-how-do-i-get-da481c1b -->
 *   **F: Wie komme ich zu hohen Punktzahlen?**
     *   **A:** Überlebe möglichst lange und spiele gezielt auf Kombos. Mehrere Linien
         auf einmal zu löschen bringt deutlich mehr Punkte als viele einzelne Clears.
+

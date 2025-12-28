@@ -14,12 +14,14 @@ score: 4.9/5  (297 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Überblick
 
 In Eggy Car balancierst du ein Auto mit einem empfindlichen Ei auf dem Dach
 über hügeliges Gelände. Zu harte Stöße lassen die Schale springen – nur mit
 feinem Gasfinger schaffst du lange Distanzen.
 
+<!-- i18n:section:how-to-play -->
 ### So spielst du
 
 - Fahre bergab langsam und kontrolliert; bergauf gibst du nur sanft Gas, damit
@@ -29,6 +31,7 @@ feinem Gasfinger schaffst du lange Distanzen.
 - Für lange Runs brauchst du einen Rhythmus aus kurzen Gasstößen statt
   dauerhaft voll durchgedrücktem Pedal.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - A/D oder Pfeiltasten zum Fahren/Bremsen.  
@@ -43,15 +46,19 @@ feinem Gasfinger schaffst du lange Distanzen.
 - Upgrades, die Federung und Fahrstabilität verbessern, bringen am Anfang den
   größten Vorteil.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:eggy-car:what-ends-a-run-ed280e19 -->
 - **F: Wodurch endet ein Run?**  
   **A:** Entweder das Ei zerbricht oder dir geht der Sprit aus.
 
+<!-- i18n:faq:id=faq:eggy-car:is-there-a-finish-line-46e35bd5 -->
 - **F: Gibt es ein richtiges Ziel?**  
   **A:** Meist handelt es sich um eine Distanz- bzw. Highscore-Jagd ohne feste
   Ziellinie.
 
+<!-- i18n:faq:id=faq:eggy-car:best-early-strategy-e4b1edd1 -->
 - **F: Was ist die beste Early-Game-Strategie?**  
   **A:** Fahre lieber zu langsam als zu schnell – Hauptsache, das Ei bleibt
   intakt. Geschwindigkeit kommt automatisch, wenn du die Strecke besser lesen

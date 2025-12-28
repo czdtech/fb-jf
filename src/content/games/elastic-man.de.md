@@ -14,12 +14,14 @@ score: 3.7/5  (959 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Überblick
 
 Elastic Man ist ein simples, aber sehr befriedigendes Gesichts-Stretch-Spiel.
 Du greifst ein gummiges Gesicht, ziehst es in alle Richtungen und beobachtest,
 wie die Haut mit federnder Physik wieder in ihre Ausgangsposition zurückwobbelt.
 
+<!-- i18n:section:how-to-play -->
 ### So spielst du
 
 - Zieh, stupse, kneife und lass wieder los – je nachdem, wo du zugreifst,
@@ -27,6 +29,7 @@ wie die Haut mit federnder Physik wieder in ihre Ausgangsposition zurückwobbelt
 - Manche Hosts bieten Regler für "Squish"-Stärke oder Auflösung, mit denen du
   das Verhalten anpassen kannst.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Maus/Touch: Ziehen und Loslassen per Drag & Drop; zusätzliche Einstellungen

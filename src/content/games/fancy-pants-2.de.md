@@ -15,12 +15,14 @@ score: 4.3/5  (582 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Überblick
 
 Fancy Pants 2 baut das Momentum-Gameplay des ersten Teils aus. Du läufst durch
 handgezeichnete Levels, nutzt Hänge, Wände und Slides, sammelst Trophäen und
 entdeckst optionale Herausforderungsräume.
 
+<!-- i18n:section:how-to-play -->
 ### So spielst du
 
 - Nutze Rutschen und Walljumps, um über große Abgründe zu kommen und deinen
@@ -30,6 +32,7 @@ entdeckst optionale Herausforderungsräume.
 - Einfache Gegner kannst du durch Draufspringen oder schnelle Angriffe
   ausschalten (je nach Host-Version).
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - WASD oder Pfeiltasten zum Bewegen und Springen.  
@@ -43,16 +46,20 @@ entdeckst optionale Herausforderungsräume.
 - Buffere Sprünge am Plattformrand, damit lange Sprünge konsistent klappen.
 - Nutze Abwärtsschrägen, um vor steilen Anstiegen noch einmal Schwung zu holen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:fancy-pants-2:is-there-a-story-84006961 -->
 - **F: Gibt es eine richtige Story?**  
   **A:** Es gibt eine leichte Rahmenhandlung, aber der Fokus liegt klar auf
   Bewegung, Leveldesign und Secrets.
 
+<!-- i18n:faq:id=faq:fancy-pants-2:are-there-speed-runs-4229c7b8 -->
 - **F: Kann man Speedruns spielen?**  
   **A:** Viele Hosts bieten Time-Trials oder Challenge-Räume, die sich perfekt
   für Speedruns eignen.
 
+<!-- i18n:faq:id=faq:fancy-pants-2:progress-saving-eb5d3f79 -->
 - **F: Wird der Fortschritt gespeichert?**  
   **A:** Das hängt vom Host ab – einige Versionen speichern lokal, andere
   setzen bei jedem Besuch neu an.

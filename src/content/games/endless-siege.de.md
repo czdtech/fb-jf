@@ -16,6 +16,7 @@ score: 4.6/5  (3100 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Endless Siege ist ein intensives Tower-Defense-Spiel, in dem du dein Reich
@@ -25,6 +26,7 @@ bleibt jede Partie frisch. Mit einer Auswahl an Verteidigungstürmen platzierst
 und verbesserst du dein Abwehrnetz, überstehst möglichst viele Wellen und
 konkurrierst um den Tages-Highscore.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1. **Türme kennen:** Verstehe die Stärken deiner Verteidigung.  
@@ -46,6 +48,7 @@ konkurrierst um den Tages-Highscore.
    voll aufzurüsten, als viele schwache zu verteilen. Investiere dein Gold in
    die Türme, die besonders lange Schussfenster auf den Pfad haben.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Turm bauen:** Klicke auf einen leeren, runden Bauplatz am Weg, um das
@@ -55,17 +58,22 @@ konkurrierst um den Tages-Highscore.
 - **Nächste Welle starten:** Klicke auf den "Next Wave"-Button, sobald du bereit
   bist.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:endless-siege:q-what-is-the-best-5882ea25 -->
 *   **F: Welcher Turm ist der beste?**
     *   **A:** Es gibt keinen einzelnen besten Turm. Erfolgreiche Verteidigung lebt von
 Kombinationen: Cannons und Torches für Gruppen, Ballistas für zähe Einzelgegner
 und Timewarp, um alles zu verlangsamen.
 
+<!-- i18n:faq:id=faq:endless-siege:q-why-cant-i-build-6d8922f5 -->
 *   **F: Warum kann ich an manchen Stellen nicht bauen?**
     *   **A:** Türme dürfen nur auf den markierten, runden Bauplätzen entlang des Weges
 platziert werden.
 
+<!-- i18n:faq:id=faq:endless-siege:q-why-is-the-map-c5353526 -->
 *   **F: Wieso sieht die Karte heute anders aus als gestern?**
     *   **A:** Endless Siege generiert jeden Tag eine neue Karte und bietet so allen
 Spielern täglich eine frische taktische Herausforderung.
+

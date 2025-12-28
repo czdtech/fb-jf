@@ -15,6 +15,7 @@ score: 4.3/5  (2100 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Emoji Fun ist ein kreatives, zum Nachdenken anregendes Puzzlespiel rund um
@@ -24,6 +25,7 @@ den passenden Paaren zu ziehen. Die Verbindungen können ganz wörtlich sein
 (z.B. Socke und Fuß) oder eher abstrakt (z.B. Geist und Spukhaus). So testet
 Emoji Fun spielerisch deine Logik, dein Allgemeinwissen und dein Querdenken.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1. **Starte mit offensichtlichen Paaren:** Suche zuerst nach den klarsten,
@@ -40,6 +42,7 @@ Emoji Fun spielerisch deine Logik, dein Allgemeinwissen und dein Querdenken.
 4. **Kein Zeitdruck:** Emoji Fun ist eher entspannt. Nimm dir die Zeit, in Ruhe
    über die Beziehungen zwischen den Bildern nachzudenken.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Das Spiel wird komplett per Drag-and-Drop gesteuert.
@@ -48,12 +51,15 @@ Das Spiel wird komplett per Drag-and-Drop gesteuert.
   halte gedrückt und ziehe die Linie zum passenden Emoji in der anderen
   Spalte.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:emoji-fun:q-what-is-the-goal-ab58581b -->
 *   **F: Was ist das eigentliche Ziel?**
     *   **A:** Du musst alle zusammengehörigen Emojis korrekt verbinden, um das
         Level abzuschließen.
 
+<!-- i18n:faq:id=faq:emoji-fun:q-what-happens-if-i-12882b89 -->
 *   **F: Was passiert bei einem falschen Paar?**
     *   **A:** In der Regel verschwindet die Linie oder färbt sich rot – ein Hinweis
         auf einen Fehler. Du kannst es ohne Strafe erneut versuchen.
@@ -62,3 +68,4 @@ Das Spiel wird komplett per Drag-and-Drop gesteuert.
     *   **A:** Denke „out of the box“ – die Beziehung kann auf einer Aktion (Ball und
         Tor), Ursache/Wirkung (Samen und Baum) oder einem gemeinsamen Konzept (Hund
         und Knochen) basieren.
+

@@ -15,12 +15,14 @@ score: 3.9/5  (534 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Überblick
 
 Dumb Ways to Die besteht aus vielen kurzen, sicherheitsbezogenen
 Reaktionsspielen. In jeder Runde bekommst du eine andere Mikroaufgabe, während
  das Tempo stetig anzieht. Wenn du drei Mal scheiterst, ist der Run vorbei.
 
+<!-- i18n:section:how-to-play -->
 ### So spielst du
 
 - In jeder Runde erscheint ein neues Minispiel mit einer kurzen Anweisung.
@@ -29,6 +31,7 @@ Reaktionsspielen. In jeder Runde bekommst du eine andere Mikroaufgabe, während
 - In späteren Runden wechseln die Spiele schneller durch, und die Prompts
   werden gemeiner.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Maus/Touch: Wischen, Tippen oder Halten, je nach Minispiel; einige Hosts
@@ -43,15 +46,19 @@ Reaktionsspielen. In jeder Runde bekommst du eine andere Mikroaufgabe, während
 - Übertreibe es nicht mit langen Wischgesten – Präzision ist wichtiger als
   rohe Geschwindigkeit.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:dumb-ways-to-die:how-many-lives-do-i-14e9824f -->
 - **F: Wie viele Leben habe ich?**  
   **A:** Meistens drei Versuche pro Run.
 
+<!-- i18n:faq:id=faq:dumb-ways-to-die:can-i-practice-a-single-37a5bc98 -->
 - **F: Kann ich ein einzelnes Minispiel üben?**  
   **A:** Manche Hosts bieten Übungslisten, ansonsten lernst du sie on the fly
   während regulärer Runs.
 
+<!-- i18n:faq:id=faq:dumb-ways-to-die:is-there-progression-d558b0b6 -->
 - **F: Gibt es Fortschritt über Highscores hinaus?**  
   **A:** Der Fokus liegt auf Highscore-Jagd; einige Versionen schalten zusätzliche
   Figuren oder Kosmetiksachen frei.

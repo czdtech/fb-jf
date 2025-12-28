@@ -14,6 +14,7 @@ score: 4.2/5  (915 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Überblick
 
 Doodle Jump ist ein endloser, vertikaler Platformer. Deine Figur hüpft
@@ -22,6 +23,7 @@ Unterwegs weichst du Monstern, zerbrechlichen Brettern und anderen Gefahren aus
 und nutzt Power-ups wie Federn, Propeller-Caps oder Jetpacks, um große
 Sprünge hinzulegen und noch höher zu kommen.
 
+<!-- i18n:section:how-to-play -->
 ### So spielst du
 
 - Halte den Doodler ungefähr in der Bildschirmmitte und lande nacheinander auf
@@ -31,6 +33,7 @@ Sprünge hinzulegen und noch höher zu kommen.
 - Bewege dich vorsichtig über bewegliche oder zerbrechende Plattformen und
   plane immer schon den nächsten und übernächsten Sprung mit ein.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Links/Rechts (oder Kippen auf Mobilgeräten): Bewegen; gesprungen wird
@@ -47,16 +50,20 @@ Sprünge hinzulegen und noch höher zu kommen.
   herausfliegen und rechts wieder auftauchen (Wraparound), um Fallen zu
   entkommen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:doodle-jump:are-levels-finite-f5dae8c6 -->
 - **F: Gibt es feste Level?**  
   **A:** Nein, Doodle Jump ist als Endlosspiel gedacht – dein Score steigt, bis
   du eine Plattform verfehlst oder an einem Gegner scheiterst.
 
+<!-- i18n:faq:id=faq:doodle-jump:do-platforms-differ-7165c597 -->
 - **F: Unterscheiden sich die Plattformen?**  
   **A:** Ja, es gibt statische, bewegliche, verschwindende/zerbrechliche
   Plattformen sowie spezielle Federn oder Trampoline für Extrasprünge.
 
+<!-- i18n:faq:id=faq:doodle-jump:are-there-bosses-119f5f21 -->
 - **F: Gibt es Bosskämpfe?**  
   **A:** In der Regel nicht. Der Fokus liegt auf der Highscore-Jagd und immer
   schwierigeren Sprungkombinationen.

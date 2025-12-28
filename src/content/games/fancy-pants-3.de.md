@@ -16,12 +16,14 @@ score: 4.3/5  (1419 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Überblick
 
 Im dritten Teil liegt der Fokus noch stärker auf flüssigen Bewegungsabläufen,
 erweiterter Erkundung und Herausforderungsräumen, die sauberes Movement
 belohnen.
 
+<!-- i18n:section:how-to-play -->
 ### So spielst du
 
 - Kette Slides → Sprünge → Wallruns aneinander, um dein Tempo durch ganze
@@ -31,6 +33,7 @@ belohnen.
   drüberspringst, sie stompst oder sie komplett umgehst, um kein Momentum zu
   verlieren.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Pfeiltasten oder WASD zum Bewegen und Springen.  
@@ -46,16 +49,20 @@ belohnen.
 - Lerne Level-Schleifen und Abkürzungen, damit du Sammelobjekte in einer
   effizienten Route mitnehmen kannst.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:fancy-pants-3:big-differences-from-12-1b17e3de -->
 - **F: Worin unterscheidet es sich von Teil 1/2?**  
   **A:** Größere Karten, mehr Geheimnisse und ein insgesamt straffer
   Bewegungsfluss.
 
+<!-- i18n:faq:id=faq:fancy-pants-3:is-combat-necessary-0e61781d -->
 - **F: Muss ich kämpfen?**  
   **A:** Kämpfe sind eher minimal – im Mittelpunkt steht das Platforming und die
   Bewegung.
 
+<!-- i18n:faq:id=faq:fancy-pants-3:are-there-hidden-rooms-702a71e0 -->
 - **F: Gibt es versteckte Räume?**  
   **A:** Ja, halte Ausschau nach brüchigen Wänden, geheimen Seitengängen und
   verdächtigen Nischen.

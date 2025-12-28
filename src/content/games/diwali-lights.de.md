@@ -15,6 +15,7 @@ score: 4.1/5  (1835 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Diwali Lights ist ein von Diwali inspiriertes Licht-Puzzle, in dem du kleine
@@ -24,6 +25,7 @@ Regeln zu verletzen. In späteren Stufen kommen Einschränkungen wie begrenzte
 Züge, Schalterfelder oder Zeitdruck dazu, sodass du jeden Schritt genau planen
 musst.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1. **Regeln verstehen:** Manche Bretter verbieten Überlappungen, andere
@@ -39,6 +41,7 @@ musst.
    davor, nach einem Fehler schnell neu zu starten und eine bessere Lösung zu
    finden.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Tippe oder klicke auf Diyas, Schalter oder Felder entsprechend den Regeln
@@ -46,16 +49,20 @@ musst.
 - Nutze gegebenenfalls Zurück- oder Reset-Funktionen, wenn der Modus sie
   anbietet.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:diwali-lights:i-keep-failing-on-move-cedc706f -->
 - **F: Warum scheitere ich ständig an der Zugbegrenzung?**  
   **A:** Meistens ist dein Weg zu lang. Versuche, das Muster noch einmal neu zu
   zeichnen und unnötige Schritte zu streichen.
 
+<!-- i18n:faq:id=faq:diwali-lights:timed-boards-de29568d -->
 - **F: Wie gehe ich mit zeitbegrenzten Leveln um?**  
   **A:** Konzentriere dich zuerst auf Motive oder Bereiche, die mit Timern
   verknüpft sind, damit dir am Ende nicht die Zeit ausgeht.
 
+<!-- i18n:faq:id=faq:diwali-lights:are-hints-available-6c76ed5b -->
 - **F: Gibt es Hinweise im Spiel?**  
   **A:** In vielen Versionen kannst du Hinweise nutzen. Verwende sie aber
   sparsam, um dir den Rätselspaß nicht zu nehmen.

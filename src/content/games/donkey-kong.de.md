@@ -15,6 +15,7 @@ score: 4.0/5  (537 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Überblick
 
 Arcade-Klassiker von 1981: Du spielst Mario, kletterst über Stahlträger und
@@ -24,6 +25,7 @@ Bühnen (25m–100m), durch die du dich kämpfen musst, um Pauline zu retten.
 Nachdem du alle Stages eines Levels geschafft hast, beginnen sie erneut – nur
 schneller und schwieriger.
 
+<!-- i18n:section:how-to-play -->
 ### So spielst du
 
 - Räume eine Stage, indem du die Spitze erreichst oder in der 100m-Stage alle
@@ -33,6 +35,7 @@ schneller und schwieriger.
 - Lerne Muster: Erkenne, wann Fässer gerade oder diagonal rollen, wie sich
   Förderbänder verhalten und wann Springs auf den Aufzugsbühnen sicher sind.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Pfeiltasten: Bewegen und Klettern.  
@@ -50,15 +53,19 @@ schneller und schwieriger.
 - Nutze den Hammer, wenn besonders viel los ist, aber achte darauf, dich nicht
   direkt neben Leitern oder am Rand einzusperren.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:donkey-kong:how-many-distinct-stages-are-d050eca0 -->
 - **F: Wie viele unterschiedliche Stages gibt es?**  
   **A:** Vier: Träger (25m), Förderbänder (50m), Aufzüge (75m) und Nieten (100m).
 
+<!-- i18n:faq:id=faq:donkey-kong:does-the-game-loop-23a181d7 -->
 - **F: Läuft das Spiel endlos?**  
   **A:** Ja, nach jeder abgeschlossenen Runde starten die Stages erneut – mit
   höherer Geschwindigkeit und schwierigeren Mustern.
 
+<!-- i18n:faq:id=faq:donkey-kong:what-ends-a-run-ed280e19 -->
 - **F: Wodurch endet ein Run?**  
   **A:** Durch Kollisionen mit Gegnern, einen zu langen Sturz oder wenn der
   Bonustimer auf null fällt.

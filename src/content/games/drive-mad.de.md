@@ -15,6 +15,7 @@ score: 3.7/5  (1285 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Überblick
 
 Drive Mad ist ein Physik-Fahrspiel mit verrückten Hindernissen. Du steuerst
@@ -23,6 +24,7 @@ ständig, dein Gefährt auf den Rädern zu halten. Mit jeder Stage kommen neue
 Elemente wie bewegliche Plattformen oder brüchige Brücken dazu, die gutes
 Timing und Feingefühl beim Gasgeben erfordern.
 
+<!-- i18n:section:how-to-play -->
 ### So spielst du
 
 - Kontrolliere Geschwindigkeit und Gewichtsverlagerung, damit du sicher über
@@ -32,6 +34,7 @@ Timing und Feingefühl beim Gasgeben erfordern.
 - Manche Level verlangen gezielte Flips: Ein kontrollierter Überschlag kann
   nötig sein, solange du am Ende wieder auf den Rädern landest.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Pfeiltasten/WASD: Vorwärts, rückwärts und Neigen des Fahrzeugs.  
@@ -47,16 +50,20 @@ Timing und Feingefühl beim Gasgeben erfordern.
 - Lerne das Timing von Fallen und beweglichen Plattformen – Geduld und
   präzises Steuern sind wichtiger als reine Geschwindigkeit.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:drive-mad:are-cars-different-d07bd214 -->
 - **F: Fahren sich die Fahrzeuge unterschiedlich?**  
   **A:** Ja, einige Fahrzeugpakete verändern Gewicht und Länge, was das
   Gleichgewicht spürbar beeinflusst.
 
+<!-- i18n:faq:id=faq:drive-mad:can-i-skip-hard-levels-df0d83f2 -->
 - **F: Kann ich besonders schwere Level überspringen?**  
   **A:** Manche Hosts bieten eine Levelauswahl. Ansonsten hilft nur Übung – vor
   allem Timing und Neigekontrolle.
 
+<!-- i18n:faq:id=faq:drive-mad:why-break-on-bridges-01cab9f5 -->
 - **F: Warum breche ich auf Brücken so oft ein?**  
   **A:** Zu hohe Geschwindigkeit belastet die Federung zu stark und lässt dich
   abprallen oder durchbrechen. Fahre langsamer und gleichmäßiger, um sicher

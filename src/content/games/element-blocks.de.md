@@ -16,6 +16,7 @@ score: 4.5/5  (2500 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Element Blocks ist ein ruhiges, aber taktisches Puzzlespiel auf Basis des
@@ -25,6 +26,7 @@ Reihen oder Spalten zu füllen und damit vom Feld zu löschen. Das Besondere:
 Ein Sternesystem und Power-ups geben dir zusätzliche Werkzeuge, um dich aus
 engen Situationen zu befreien und deine Partie zu verlängern.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1. **Standard-10x10-Regeln:** Du erhältst immer drei Blockformen gleichzeitig
@@ -45,6 +47,7 @@ engen Situationen zu befreien und deine Partie zu verlängern.
    Spalten gleichzeitig löschst, erhältst du einen Kombobonus. Plane deine Züge
    so, dass du solche Mehrfachlöschungen vorbereitest.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Blöcke platzieren:** Ziehe mit Maus oder Finger einen Block aus der
@@ -52,18 +55,23 @@ engen Situationen zu befreien und deine Partie zu verlängern.
 - **Power-ups nutzen:** Klicke ein Power-up an, sobald du genügend Sterne hast,
   und klicke dann auf das Feld, auf das seine Wirkung angewendet werden soll.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:element-blocks:q-how-do-i-get-14eb2026 -->
 *   **F: Wie bekomme ich Sterne?**
     *   **A:** Jedes Mal, wenn du eine Reihe oder Spalte löschst, in der sich ein
         Sternblock befindet, wandert dieser Stern auf dein Konto.
 
+<!-- i18n:faq:id=faq:element-blocks:q-can-i-rotate-the-8b38e9ae -->
 *   **F: Kann ich Blöcke drehen?**
     *   **A:** Nein, die fehlende Drehfunktion gehört zur Kernherausforderung. Du
         musst mit den Formen so planen, wie sie dir angeboten werden.
 
+<!-- i18n:faq:id=faq:element-blocks:q-what-is-the-best-9bf06e71 -->
 *   **F: Wie setze ich meine Sterne am besten ein?**
     *   **A:** Spare Sterne lieber für Notfälle auf. Wenn das Feld fast voll ist und
         du absehbar keinen der nächsten Steine unterbekommst, kann ein gezieltes
         Power‑up dir den entscheidenden Freiraum verschaffen, um weiterzuspielen
         und deinen Highscore zu steigern.
+
