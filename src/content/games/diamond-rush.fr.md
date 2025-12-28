@@ -3,18 +3,19 @@ locale: fr
 urlstr: diamond-rush
 title: Diamond Rush
 description: "Diamond Rush est un match‑3 dynamique\_: aligne des gemmes, déclenche des combos et termine les objectifs avant la fin du temps ou des coups."
-iframeSrc: 'https://diamondrush.h5games.usercontent.goog/v/7dafab8ct86ag/'
+iframeSrc: 'https://diamondrush.h5games.usercontent.goog/v/63ok750qri670/'
 thumbnail: /new-images/thumbnails/diamond-rush.png
 tags:
   - puzzle
   - casual
   - thinky
-score: 4.2/5  (1900 votes)
+score: 4.3/5  (2010 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Diamond Rush est un jeu de match‑3 où tu échanges des gemmes adjacentes pour
@@ -24,6 +25,7 @@ explosent et de nouvelles tombent, créant parfois des cascades.
 Chaque niveau propose des objectifs : atteindre un certain score, casser des
 blocs, faire descendre des objets, etc.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1.  **Commence par le bas**  
@@ -43,6 +45,7 @@ blocs, faire descendre des objets, etc.
     objectif. Sur les niveaux chronométrés, joue de façon fluide et cadence tes
     décisions.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - **Échanger des gemmes** : fais glisser une gemme vers une voisine pour tenter
@@ -50,28 +53,22 @@ blocs, faire descendre des objets, etc.
 - **Activer un bonus** : réalise un match avec la gemme spéciale ou touche‑la
   selon les règles de la version.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:diamond-rush:q-what-is-the-goal-0440a217 -->
+**Q : Quel est l’objectif de Diamond Rush ?**  
+R : Le but est de remplir les objectifs propres à chaque niveau : aligner des
+gemmes pour nettoyer la grille, atteindre un score cible, casser des obstacles,
+etc.
 
-- **R :** Beaucoup de niveaux sont chronométrés : tu dois remplir l’objectif avant
-  la fin du temps. D’autres niveaux sont plutôt limités en nombre de coups.
+<!-- i18n:faq:id=faq:diamond-rush:q-how-do-i-get-9db98676 -->
+**Q : Comment obtenir des bonus ou des gemmes spéciales ?**  
+R : Les bonus se créent en alignant plus de trois gemmes en un seul coup. Par
+exemple, un alignement de quatre peut créer une gemme qui nettoie une ligne, et
+cinq peut créer une bombe ou un bonus qui nettoie une couleur.
 
-    - **Q : Y a‑t‑il une limite de temps ?**
-
-- **R :** Les bonus se créent en alignant plus de trois gemmes en un seul coup.
-  Par exemple, un alignement de 4 peut créer une gemme “ligne”, et 5 peut créer
-  une bombe ou un bonus qui nettoie une couleur.
-
-    - **Q : Comment obtenir des bonus ou des gemmes spéciales ?**
-
-- **R :** Le but est de remplir les objectifs de chaque niveau : faire des matchs
-  pour nettoyer la grille, atteindre un score cible, casser des obstacles, etc.
-
-    - **Q : Quel est l’objectif de Diamond Rush ?**
-**Q : Les diagonales comptent‑elles ?**  
-R : En général, seules les lignes horizontales et verticales sont valides, sauf
-indication contraire.
-
-**Q : Comment passer un niveau bloqué ?**  
-R : Concentre‑toi sur les objectifs (blocs, objets à descendre) et économise les
-bombes ou gros bonus pour les zones difficiles.
+<!-- i18n:faq:id=faq:diamond-rush:q-is-there-a-time-71e1686c -->
+**Q : Y a‑t‑il une limite de temps dans le jeu ?**  
+R : Beaucoup de niveaux sont chronométrés : tu dois remplir l’objectif avant la
+fin du temps. D’autres niveaux sont plutôt limités en nombre de coups.

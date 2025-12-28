@@ -15,6 +15,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Daily Solitaire te propose chaque jour une nouvelle donne de solitaire Klondike.
@@ -24,10 +25,12 @@ fondation, une par couleur, en ordre croissant de l’As au Roi.
 Chaque puzzle quotidien est conçu pour être gagnable, ce qui en fait un bon
 exercice pour affiner ta stratégie et suivre ta progression au fil du temps.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1.  **Objectif**  
-    Déplacer toutes les cartes sur les fondations, par couleur, de l’As au Roi.
+    Déplacer toutes les cartes sur les fondations, par couleur, de l’As au Roi,
+    avec un paquet standard de 52 cartes.
 2.  **Gestion du tableau**  
     Sur le tableau, tu construis des colonnes en ordre décroissant en alternant
     les couleurs (par exemple un Valet rouge sur une Dame noire). L’objectif
@@ -41,6 +44,7 @@ exercice pour affiner ta stratégie et suivre ta progression au fil du temps.
     la placer dans la défausse, puis essaie de l’utiliser sur le tableau ou les
     fondations.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - **Déplacer les cartes** : clique‑glisse une carte ou une séquence valide
@@ -50,34 +54,22 @@ exercice pour affiner ta stratégie et suivre ta progression au fil du temps.
 - **Auto‑move** : dans certaines versions, un double‑clic sur une carte la place
   automatiquement sur la fondation si le coup est légal.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:daily-solitaire:q-is-the-daily-puzzle-4d76bbae -->
+**Q : Le puzzle quotidien est‑il toujours gagnable ?**  
+R : Oui. La plupart des Daily Solitaire proposent des donnes garantissant au
+moins un chemin gagnant, même s’il peut être difficile à trouver.
 
-- **R :** Beaucoup de jeux de puzzle quotidiens proposent un calendrier qui permet
-  de rejouer les puzzles des jours précédents que tu as manqués.
+<!-- i18n:faq:id=faq:daily-solitaire:q-what-is-the-difference-0e309ec5 -->
+**Q : Quelle est la différence entre les modes "piocher 1" et "piocher 3" ?**  
+R : En mode "piocher 1", tu retournes une carte à la fois, ce qui est
+généralement plus simple. En mode "piocher 3", tu retournes trois cartes, mais
+tu ne peux jouer que celle du dessus, ce qui rend la partie nettement plus
+difficile.
 
-    - **Q : Puis‑je jouer aux puzzles des jours précédents ?**
-
-- **R :** En mode "piocher 1", tu retournes une carte à la fois, ce qui est
-  généralement plus simple. En mode "piocher 3", tu retournes trois cartes, mais
-  tu ne peux jouer que celle du dessus, ce qui rend la partie nettement plus
-  difficile.
-
-    - **Q : Différence entre "piocher 1" et "piocher 3" ?**
-
-- **R :** Oui. La plupart des Daily Solitaire proposent une donne construite pour
-  avoir au moins un chemin gagnant, même s’il peut être difficile à trouver.
-
-    - **Q : Le puzzle quotidien est‑il toujours gagnable ?**
-**Q : Les grilles quotidiennes sont‑elles toujours gagnables ?**  
-R : En général, oui : chaque donne quotidienne est construite pour avoir au
-moins une solution, même si elle peut être difficile à trouver.
-
-**Q : Différence entre les modes "piocher 1" et "piocher 3" ?**  
-R : En mode "1 carte", tu retournes une carte à la fois, ce qui rend la partie
-plus abordable. En mode "3 cartes", tu retournes trois cartes et ne peux jouer
-que celle du dessus, ce qui augmente nettement la difficulté.
-
-**Q : Puis‑je rejouer les puzzles des jours précédents ?**  
-R : De nombreux Daily Solitaire offrent un calendrier permettant de revenir sur
-les jours passés que tu aurais manqués.
+<!-- i18n:faq:id=faq:daily-solitaire:q-can-i-play-previous-f5b5cc34 -->
+**Q : Puis‑je jouer aux puzzles des jours précédents ?**  
+R : Souvent oui : beaucoup de jeux quotidiens proposent un calendrier permettant
+de rejouer les puzzles des dates précédentes que tu as manquées.

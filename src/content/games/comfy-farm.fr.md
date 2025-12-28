@@ -3,17 +3,18 @@ locale: fr
 urlstr: comfy-farm
 title: Comfy Farm
 description: "Comfy Farm est une ferme cozy à gérer à ton rythme\_: plante, arrose, récolte et complète des commandes pour faire prospérer ton petit domaine."
-iframeSrc: 'https://1hjdl8ff4msl0.h5games.usercontent.goog/v/4o9it1lbm7h80/'
+iframeSrc: 'https://comfyfarm.h5games.usercontent.goog/v/73m7i3ndifhg0/'
 thumbnail: /new-images/thumbnails/comfy-farm.png
 tags:
   - casual
   - puzzle
-score: 4.3/5  (1905 votes)
+score: 4.3/5  (2000 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Comfy Farm est un jeu de ferme détendu où tu gères un petit terrain, des
@@ -25,6 +26,7 @@ Le jeu met l’accent sur la détente plutôt que sur la compétition : tu peux
 prendre le temps d’organiser tes champs, d’optimiser tes cycles de culture ou
 simplement de regarder ta ferme grandir.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1.  **Commence par des cultures rapides**  
@@ -45,6 +47,7 @@ simplement de regarder ta ferme grandir.
     cultures ou améliorer tes outils, ce qui simplifie la gestion à long
     terme.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - **Planter / Arroser / Récolter** : touche ou clique sur une parcelle pour
@@ -59,6 +62,7 @@ simplement de regarder ta ferme grandir.
   mouche, etc.) quand il apparaît sur ta ferme pour l’éloigner.
 Selon la version, ces améliorations peuvent automatiser une partie des actions.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
 
@@ -79,14 +83,18 @@ Selon la version, ces améliorations peuvent automatiser une partie des actions.
   généralement plus, même si elles poussent plus lentement.
 
     - **Q : Comment gagner de l’argent plus vite ?**
+<!-- i18n:faq:id=faq:comfy-farm:q-how-do-i-make-13459c2c -->
 **Q : Le jeu est‑il chronométré ?**  
 R : En général non, tu peux jouer à ton rythme, même si certaines commandes
 peuvent être limitées dans le temps.
 
+<!-- i18n:faq:id=faq:comfy-farm:q-what-is-the-best-30cbf0cf -->
 **Q : Puis‑je perdre ma ferme ?**  
 R : Rarement. Le jeu est avant tout pensé pour la relaxation ; au pire, tu
 progresses plus lentement si tu ne t’occupes pas de tes cultures.
 
+<!-- i18n:faq:id=faq:comfy-farm:q-why-did-one-of-390e6ea6 -->
 **Q : Y a‑t‑il une fin ?**  
 R : La plupart des jeux de ferme sont ouverts. Ton objectif principal est de
 faire grandir ta ferme et de débloquer le plus de contenus possible.
+

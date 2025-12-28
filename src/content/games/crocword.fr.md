@@ -14,6 +14,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Crocword mélange les mécaniques de mots croisés et de jeux de lettres à
@@ -25,6 +26,7 @@ Des mots bonus hors grille peuvent te rapporter des pièces ou des indices
 supplémentaires. Les grilles deviennent progressivement plus longues et plus
 complexes.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1.  **Remplis d’abord les emplacements évidents**  
@@ -43,6 +45,7 @@ complexes.
     Crocword est aussi un bon moyen d’apprendre ou réviser des mots : n’hésite
     pas à noter ceux que tu découvres.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - **Former un mot** : fais glisser ton doigt ou ta souris sur les lettres dans
@@ -50,22 +53,16 @@ complexes.
 - **Indices** : utilise les boutons d’aide pour révéler une lettre ou un mot
   complet en échange de pièces.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
 
+<!-- i18n:faq:id=faq:crocword:a-slot-seems-impossible-help-e4dbe0d3 -->
 - Q: Un emplacement semble impossible — aide ?
+<!-- i18n:faq:id=faq:crocword:are-proper-nouns-allowed-c43148f9 -->
 **Q : Un mot semble impossible à trouver, que faire ?**  
 
+<!-- i18n:faq:id=faq:crocword:can-i-replay-for-bonus-30158913 -->
 - Q: Les noms propres sont‑ils acceptés ?
 R : Vérifie les lettres déjà placées dans la grille : une erreur précédente peut
 
-- Q: Puis‑je rejouer pour trouver des mots bonus ?
-bloquer plusieurs mots à la fois.
-
-**Q : Les noms propres sont‑ils acceptés ?**  
-R : La plupart des dictionnaires intégrés n’acceptent pas les noms propres ;
-concentre‑toi sur les mots communs.
-
-**Q : Puis‑je rejouer les anciennes grilles ?**  
-R : Oui, certains modes te laissent revisiter les niveaux pour compléter des
-mots bonus et gagner davantage de pièces.

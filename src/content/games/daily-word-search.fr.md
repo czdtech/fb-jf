@@ -3,17 +3,18 @@ locale: fr
 urlstr: daily-word-search
 title: Daily Word Search
 description: "Daily Word Search te propose une nouvelle grille de mots mêlés chaque jour\_: retrouve les mots cachés horizontalement, verticalement et en diagonale."
-iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/daily-word-search/'
+iframeSrc: 'https://1i20ele8n07u0.h5games.usercontent.goog/v/1n8osodo9gs80/'
 thumbnail: /new-images/thumbnails/daily-word-search.png
 tags:
   - word
   - puzzle
-score: 4.0/5  (1500 votes)
+score: 4.1/5  (1984 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Daily Word Search est un jeu de mots mêlés quotidien. Une liste de mots à
@@ -22,6 +23,7 @@ trouver est affichée et tu dois les repérer dans la grille de lettres.
 Les mots peuvent être cachés horizontalement, verticalement, en diagonale et
 parfois à l’envers.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1.  **Repère d’abord les mots longs**  
@@ -36,23 +38,23 @@ parfois à l’envers.
 - N’utilise un indice qu’après avoir balayé toute la grille.
     Certaines combinaisons (TH, QU, OU…) sautent plus facilement aux yeux.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - **Sélectionner un mot** : clique et fais glisser (ou glisse du doigt) de la
   première à la dernière lettre du mot.  
 - **Navigation** : utilise la souris ou le tactile pour parcourir la grille.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
 
+<!-- i18n:faq:id=faq:daily-word-search:do-diagonals-count-bfdfb2f9 -->
 - Q: Les diagonales comptent‑elles ?
+<!-- i18n:faq:id=faq:daily-word-search:can-words-overlap-7ab3ba46 -->
 **Q : Puis‑je rejouer la grille du jour ?**  
 
+<!-- i18n:faq:id=faq:daily-word-search:timed-vs-relaxed-which-to-bca123dc -->
 - Q: Les mots peuvent‑ils se chevaucher ?
 R : Oui, mais les mots seront déjà connus ; c’est surtout utile pour t’entraîner
 
-- Q: Chronométré ou relax — lequel choisir ?
-au repérage rapide.
-
-**Q : Les mots sont‑ils en anglais ?**  
-R : Dans cette version, la liste de mots est généralement en anglais.

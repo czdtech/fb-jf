@@ -3,18 +3,19 @@ locale: fr
 urlstr: coloring-match
 title: Coloring Match
 description: "Coloring Match est un jeu d’observation et de couleurs\_: mélange des teintes pour recréer exactement la couleur cible, puis applique‑la sur les objets en 3D."
-iframeSrc: 'https://7gu7c52bmveu0.h5games.usercontent.goog/v/42u1biq6ere80/'
+iframeSrc: 'https://21t5l4ct88d8g.h5games.usercontent.goog/v/6kels35kspngg/'
 thumbnail: /new-images/thumbnails/coloring-match.jpg
 tags:
   - puzzle
   - casual
   - thinky
-score: 4.5/5  (2300 votes)
+score: 4.1/5  (1968 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Dans Coloring Match, chaque niveau te propose un objet ou une scène en 3D à
@@ -25,6 +26,7 @@ Tu joues donc à l’apprenti peintre : modifier la teinte, la saturation et la
 luminosité jusqu’à ce que ta couleur soit presque identique au modèle, puis
 l’appliquer sur l’objet.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1.  **Commence par la teinte générale**  
@@ -41,6 +43,7 @@ l’appliquer sur l’objet.
     Le but est d’expérimenter ; n’aie pas peur de refaire complètement ton
     mélange si tu t’es trop éloigné de la couleur voulue.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - **Mélanger les couleurs** : déplace les curseurs de teinte, saturation et
@@ -50,23 +53,16 @@ l’appliquer sur l’objet.
 - **Niveau suivant / Réessayer** : utilise les boutons de l’interface pour
   passer au prochain défi ou refaire le même.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
 
+<!-- i18n:faq:id=faq:coloring-match:hue-matches-but-still-fails-443fa345 -->
 - Q : La teinte est bonne mais j’échoue quand même — pourquoi ?
+<!-- i18n:faq:id=faq:coloring-match:any-shortcut-for-browngray-f7412523 -->
 **Q : Dois‑je atteindre 100 % de correspondance ?**  
 
+<!-- i18n:faq:id=faq:coloring-match:do-tiny-tweaks-matter-67374069 -->
 - Q : Un raccourci pour les bruns/gris ?
 R : Pas forcément. La plupart des niveaux se valident à partir d’un certain seuil de similarité (par exemple 80–90 %). Les 100 % sont surtout là pour les perfectionnistes.
 
-- Q : Les micro‑ajustements comptent‑ils ?
-R : Pour les bruns, pars d’une teinte chaude puis baisse la luminosité et la saturation ; pour les gris, baisse surtout la saturation.
-R : Oui. De minuscules ajustements (saturation/luminosité) peuvent faire grimper le pourcentage de similarité.
-
-**Q : Comment gérer les couleurs très sombres ou très claires ?**  
-R : Commence par régler la luminosité, puis affine la teinte et la saturation.
-Les nuances sombres peuvent être trompeuses si la luminosité est mal réglée.
-
-**Q : Y a‑t‑il un temps limite ?**  
-R : Le plus souvent, non. Coloring Match est pensé comme un jeu chill, à ton
-rythme.

@@ -9,12 +9,13 @@ thumbnail: /new-images/thumbnails/crossword-puzzles.jpg
 tags:
   - word
   - puzzle
-score: 4.2/5  (1320 votes)
+score: 4.1/5  (697 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Crossword Puzzles te propose une collection de grilles de mots croisés, souvent
@@ -44,6 +45,7 @@ avancer progressivement même si certaines définitions sont difficiles.
     Les mots croisés utilisent fréquemment des sigles, abréviations et variantes
     orthographiques – les connaître aide beaucoup.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - **Saisir une réponse** : clique/tape sur une case ou une définition, puis
@@ -53,9 +55,11 @@ avancer progressivement même si certaines définitions sont difficiles.
 - **Outils** : selon la version, des boutons permettent de vérifier, révéler ou
   effacer des lettres/mots, ainsi que d’afficher un chronomètre.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
 
+<!-- i18n:faq:id=faq:crossword-puzzles:are-the-puzzles-timed-3fdc09d2 -->
 - Q: Les grilles sont‑elles chronométrées ?
 
 
@@ -72,16 +76,6 @@ avancer progressivement même si certaines définitions sont difficiles.
 
 - Commence par les indices faciles (phrases à trous, pluriels) et les
   abréviations courantes.
+<!-- i18n:faq:id=faq:crossword-puzzles:can-i-play-past-themes-10b18b21 -->
 **Q : Puis‑je vérifier une seule lettre sans tout révéler ?**  
 
-- Q: Puis‑je rejouer les thèmes passés ?
-R : La plupart des versions proposent un bouton de vérification par lettre ou
-par mot pour garder le défi tout en ayant un peu d’aide.
-
-**Q : Les grilles sont‑elles chronométrées ?**  
-R : Souvent oui, mais le chrono est surtout là pour le score ; tu peux
-simplement l’ignorer si tu joues pour te détendre.
-
-**Q : Les thèmes influencent‑ils toutes les réponses ?**  
-R : En général, seules quelques entrées principales sont directement liées au
-thème, le reste de la grille restant plus générique.

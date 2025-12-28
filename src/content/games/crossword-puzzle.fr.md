@@ -14,6 +14,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Les mots croisés consistent à remplir une grille de lettres à partir de
@@ -25,6 +26,7 @@ Les grilles de style américain ont souvent une symétrie et peu de cases noires
 avec chaque lettre vérifiée par un mot croisé. Les grilles britanniques ou
 cryptiques utilisent d’autres conventions de définitions et de motifs.
 
+<!-- i18n:section:how-to-play -->
 ### Comment jouer
 
 - Sélectionne une définition ou une case de la grille, puis tape ta réponse.  
@@ -36,6 +38,7 @@ cryptiques utilisent d’autres conventions de définitions et de motifs.
 - De nombreux jeux en ligne proposent des outils **Check/Reveal/Undo** ainsi
   qu’un chronomètre.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - **A–Z** : saisir des lettres dans la grille.  
@@ -55,23 +58,16 @@ cryptiques utilisent d’autres conventions de définitions et de motifs.
 - Pour les grilles cryptiques, apprends à repérer la partie définition et la
   partie jeu de mots dans chaque indice.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
 
+<!-- i18n:faq:id=faq:crossword-puzzle:whats-the-difference-between-a-05610f90 -->
 - Q: Quelle est la différence entre mots croisés américains et britanniques ?
+<!-- i18n:faq:id=faq:crossword-puzzle:what-size-is-a-typical-766f0dc1 -->
 **Q : Différence entre mots croisés américains et britanniques ?**  
 
+<!-- i18n:faq:id=faq:crossword-puzzle:are-diacritics-or-punctuation-92188e66 -->
 - Q: Quelle taille fait une grille quotidienne typique ?
 R : Les grilles américaines ont généralement toutes les lettres croisées et une
 
-- Q: Faut‑il mettre les accents ou la ponctuation ?
-symétrie stricte, alors que les grilles britanniques, surtout cryptiques,
-reposent sur des jeux de mots complexes et des motifs plus libres.
-
-**Q : Quelle taille fait une grille quotidienne typique ?**  
-R : Beaucoup de grilles quotidiennes font 15×15, et les grandes grilles du
-week‑end montent souvent à 21×21 (selon le journal).
-
-**Q : Doit‑on mettre les accents ou la ponctuation ?**  
-R : Le plus souvent, non : seuls les lettres comptent, les accents et
-ponctuations sont ignorés, sauf indication contraire du jeu.

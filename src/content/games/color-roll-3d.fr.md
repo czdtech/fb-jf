@@ -3,18 +3,19 @@ locale: fr
 urlstr: color-roll-3d
 title: Color Roll 3D
 description: "Color Roll 3D est un puzzle de rouleaux colorés\_: déroule les bandes dans le bon ordre pour reconstituer le motif cible sans chevauchements inutiles."
-iframeSrc: 'https://1hjdl8ff4msl0.h5games.usercontent.goog/v/4qm1c7u2jlvg0/'
+iframeSrc: 'https://63vakb2ehqof8.h5games.usercontent.goog/v/381au2qko6no0/'
 thumbnail: /new-images/thumbnails/color-roll-3d.png
 tags:
   - puzzle
   - thinky
   - casual
-score: 4.2/5  (2100 votes)
+score: 4.0/5  (1812 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Color Roll 3D te propose de reconstituer une image en déroulant des bandes
@@ -25,6 +26,7 @@ modèle.
 Ton objectif est de trouver la bonne séquence de déroulage pour superposer les
 bandes exactement comme dans l’exemple affiché en haut ou en arrière‑plan.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1.  **Observe d’abord le motif cible**  
@@ -44,6 +46,7 @@ des couleurs dans l’image finale.
     Certains emplacements n’acceptent logiquement qu’une seule bande. Utilise
     ces indices pour déduire l’ordre global.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - **Dérouler un rouleau** : touche ou clique sur un rouleau pour le dérouler
@@ -51,22 +54,16 @@ des couleurs dans l’image finale.
 - **Annuler / Recommencer** : emploie les boutons fournis pour revenir en
   arrière ou réinitialiser complètement le puzzle.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
 
+<!-- i18n:faq:id=faq:color-roll-3d:i-always-end-with-one-47d606aa -->
 - Q : Il me reste toujours une case non couverte — qu’est‑ce qui cloche ?
+<!-- i18n:faq:id=faq:color-roll-3d:are-multiple-orders-valid-5e255e74 -->
 **Q : Je suis bloqué, comment trouver l’ordre ?**  
 
+<!-- i18n:faq:id=faq:color-roll-3d:is-there-a-hint-system-23e35ede -->
 - Q : Y a‑t‑il plusieurs ordres valides ?
 R : Analyse quelles couleurs doivent se retrouver visibles en surface et où. Les couches inférieures doivent être posées en premier, les détails par‑dessus.
 
-- Q : Y a‑t‑il un système d’indices ?
-R : Selon la version, il peut y avoir des indices ou des boutons d’annulation. Sinon, l’essai‑erreur (et le reset du niveau) reste la méthode.
-
-**Q : Le temps est‑il limité ?**  
-R : En général non. Color Roll 3D se joue sans chrono, l’accent étant mis sur
-la détente et la réflexion.
-
-**Q : Y a‑t‑il plusieurs solutions possibles ?**  
-R : La plupart des niveaux n’ont qu’un ordre optimal, même si quelques variantes
-peuvent tolérer plusieurs chemins proches.

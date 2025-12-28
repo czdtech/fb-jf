@@ -3,17 +3,18 @@ locale: fr
 urlstr: cookie-clicker
 title: Cookie Clicker
 description: "Cookie Clicker est le clicker culte\_: clique pour cuire des cookies, achète des bâtiments automatiques, débloque des upgrades et fais monter ton compteur à des nombres absurdes."
-iframeSrc: 'https://6ig44rn7j23o0.h5games.usercontent.goog/v/7hrljgmep8mf0/'
+iframeSrc: 'https://freeonlinegames.github.io/cookie-clicker/'
 thumbnail: /new-images/thumbnails/cookie-clicker.jpg
 tags:
   - casual
   - clicker
-score: 4.7/5  (2100 votes)
+score: 4.6/5  (1437 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Cookie Clicker est un jeu idle / incremental où ton but est simple : produire
@@ -25,6 +26,7 @@ une multitude d’améliorations.
 Plus ta production augmente, plus tu débloques de nouvelles unités, upgrades et
 succès, ainsi que des mécaniques avancées comme les parties ascendées.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1.  **Clique pour démarrer**  
@@ -37,11 +39,13 @@ succès, ainsi que des mécaniques avancées comme les parties ascendées.
     Les upgrades qui augmentent la production globale (CPS) ou améliorent
     plusieurs bâtiments à la fois sont souvent plus rentables que celles qui ne
     touchent qu’une petite partie de ta chaîne.
-4.  **Gère les clics dorés (si présents)**  
-    Certains cookies spéciaux apparaissent aléatoirement et offrent des bonus
-    temporaires ou des gains instantanés. Clique‑les dès que tu les vois.
+4.  **Gère les cookies dorés**  
+    Un cookie doré peut apparaître aléatoirement et donner un bonus temporaire
+    (par exemple « Click Frenzy », qui multiplie la puissance de clic par 777).
+    Clique‑le dès que tu le vois.
 5.  **Découvre l’Ascension**  
     Plus tard, tu pourras "reset" ta partie via l’ascension, en échange de
+    Heavenly Chips et de niveaux de prestige.
 
 - **Dépenser les Heavenly Chips** : après une ascension, tu arrives sur un écran
   où tu peux dépenser tes Heavenly Chips dans des améliorations célestes
@@ -57,12 +61,12 @@ succès, ainsi que des mécaniques avancées comme les parties ascendées.
 - **Qu’est‑ce que l’Ascension ?** : l’Ascension est la mécanique de prestige du
   jeu. Tu réinitialises ta partie (cookies, bâtiments, améliorations), et tu
   gagnes des Heavenly Chips et des niveaux de prestige. Chaque niveau de prestige
-  donne en général **+1 %** permanent à ton CpS pour les runs suivantes.
+  donne en général **+1%** permanent à ton CpS pour les runs suivantes.
     Ces bonus permanents rendent les runs suivantes beaucoup plus rapides.
 
 - **Sugar Lumps** : tu obtiens environ un Sugar Lump toutes les 24 h. Ils servent
   à monter le niveau de certains bâtiments ; chaque niveau donne souvent
-  **+1 %** permanent de CpS pour ce bâtiment. Utilise‑les avec soin.
+  **+1%** permanent de CpS pour ce bâtiment. Utilise‑les avec soin.
 
 - **Mini‑jeux** : en améliorant certains bâtiments avec des Sugar Lumps, tu
   débloques des mini‑jeux (Garden, Pantheon, Grimoire). Ils peuvent offrir de
@@ -80,6 +84,7 @@ succès, ainsi que des mécaniques avancées comme les parties ascendées.
   ré‑ascendre pour gagner encore du prestige.
     À force, tu accumules du prestige et tu atteins des niveaux de production encore plus élevés.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - **Produire des cookies** : clique sur le gros cookie au centre de l’écran.  
@@ -101,17 +106,25 @@ succès, ainsi que des mécaniques avancées comme les parties ascendées.
       pour accélérer les achats en fin de partie.
   (les libellés exacts varient selon la version).
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
-**Q : Le jeu a‑t‑il une fin ?**  
-R : Pas vraiment. Cookie Clicker est conçu pour laisser le compteur grimper à
-l’infini. Le but est surtout de voir jusqu’où tu peux pousser ta production.
+<!-- i18n:faq:id=faq:cookie-clicker:when-is-the-best-time-1f08eaaf -->
+**1. Quand est‑il préférable de faire une ascension ?**
+Pour ta première ascension, attends d’avoir au moins 200–440 niveaux de prestige. Ensuite, fais une ascension quand ta progression ralentit nettement. Une run efficace en milieu/fin de jeu peut durer quelques heures ou une journée.
 
-**Q : Dois‑je rester devant l’écran pour progresser ?**  
-R : Non, une fois assez de bâtiments achetés, ta production automatique fera le
-travail pendant que tu es AFK. Reviens régulièrement dépenser tes biscuits dans
-de nouvelles améliorations.
+<!-- i18n:faq:id=faq:cookie-clicker:what-is-the-point-of-83046206 -->
+**2. À quoi sert la Grandmapocalypse ? Dois‑je l’activer ?**
+La Grandmapocalypse débloque des améliorations et des succès. En contrepartie, les Wrath Cookies peuvent être pénalisants. Beaucoup de joueurs restent au premier stade (mélange de Golden et de Wrath) ou l’évitent jusqu’à être assez puissants pour ignorer les effets négatifs. Les deux approches se défendent.
 
-**Q : L’Ascension est‑elle obligatoire ?**  
-R : Non, mais elle devient très rentable à long terme. Les bonus qu’elle
-apporte rendent chaque nouvelle partie bien plus rapide que la précédente.
+<!-- i18n:faq:id=faq:cookie-clicker:what-should-i-spend-my-947839c8 -->
+**3. Sur quoi dépenser mes Sugar Lumps en priorité ?**
+Une bonne stratégie est d’utiliser ton premier Sugar Lump pour passer tes Fermes au niveau 1 et débloquer le mini‑jeu du Garden. Ensuite, monter les Wizard Towers (Grimoire) et les Temples (Pantheon) est généralement prioritaire.
+
+<!-- i18n:faq:id=faq:cookie-clicker:how-do-i-get-golden-ba541801 -->
+**4. Comment obtenir des combos de Golden Cookies ?**
+C’est surtout une question de chance. Le sort « Force the Hand of Fate » du Grimoire (mini‑jeu des Wizard Towers) permet de faire apparaître un Golden Cookie supplémentaire ; c’est le meilleur moyen de provoquer des combos intentionnellement.
+
+<!-- i18n:faq:id=faq:cookie-clicker:is-there-an-end-to-ce958c6b -->
+**5. Y a‑t‑il une fin à Cookie Clicker ?**
+Non. Le jeu est conçu pour être pratiquement infini. L’objectif est de faire grimper les chiffres et de débloquer l’ensemble des succès et améliorations, ce qui peut prendre énormément de temps.

@@ -3,17 +3,18 @@ locale: fr
 urlstr: crazy-cars
 title: Crazy Cars
 description: "Crazy Cars est un jeu de course arcade déjanté\_: évite le trafic, ramasse les bonus et slalome à toute vitesse pour aller le plus loin possible."
-iframeSrc: 'https://s3.eu-west-1.amazonaws.com/1001spiele/files/html5-games/134700.html'
+iframeSrc: 'https://g.igroutka.ru/games/164/2afwOT8yZFmeYWGJ/2/crazy_cars/'
 thumbnail: /new-images/thumbnails/crazy-cars.jpg
 tags:
   - racing
   - casual
-score: 3.9/5  (1475 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
+score: 3.6/5  (197 votes)
+releaseDate: 2025-08-16
 ---
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Crazy Cars te met au volant d’une voiture lancée sur une route sans fin, pleine
@@ -40,6 +41,7 @@ ta vitesse ou ton score.
     Chaque version a une réactivité légèrement différente. Fais quelques essais
     pour t’habituer avant de chercher le record.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - **Diriger la voiture** : utilise les touches fléchées, A/D ou le gyroscope
@@ -49,9 +51,9 @@ ta vitesse ou ton score.
 
 - Mode écran partagé : le deuxième joueur utilise l’autre jeu de touches.
 
-- `Esc`/`P` : pause/menu
+- Esc/P : pause/menu
 
-- `R` : réinitialiser le véhicule
+- R : réinitialiser le véhicule
   (selon la version).
 
 ### Conseils et stratégies
@@ -65,6 +67,7 @@ ta vitesse ou ton score.
 - Utilise le frein à main pour initier des drifts contrôlés dans les virages serrés.
 
 - Aborde les gros tremplins bien droit et avec de la vitesse ; évite de corriger la direction en l’air.
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
 - Récupère des clés à molette proches pour réparer après de gros atterrissages.
@@ -74,15 +77,15 @@ ta vitesse ou ton score.
 - Aborde les gros tremplins bien droit et avec de la vitesse ; évite de corriger la direction en l’air.
 
 - Dose l’accélérateur dans les virages serrés pour réduire le sous‑virage.
+<!-- i18n:faq:id=faq:crazy-cars:how-do-i-unlock-more-beb74a0e -->
 **Q : Le jeu propose‑t‑il des niveaux ou seulement un mode infini ?**  
 
+<!-- i18n:faq:id=faq:crazy-cars:is-there-multiplayer-08f2086a -->
 - Q: Y a‑t‑il du multijoueur ?
 R : Certaines versions proposent un écran partagé local (split‑screen) ; le
 multijoueur en ligne est généralement absent.
 
+<!-- i18n:faq:id=faq:crazy-cars:my-car-flipped-overwhat-now-4f7d27ef -->
 - Q: Ma voiture s’est retournée — je fais quoi ?
 R : Appuie sur `R` pour réinitialiser le véhicule près de ta dernière position.
 
-**Q : Puis‑je améliorer ma voiture ?**  
-R : Selon le port, tu peux débloquer de nouveaux véhicules ou améliorations
-  esthétiques/performances en accumulant des pièces.

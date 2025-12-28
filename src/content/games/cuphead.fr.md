@@ -3,17 +3,18 @@ locale: fr
 urlstr: cuphead
 title: Cuphead
 description: "Cuphead est un run & gun ultra exigeant inspiré des dessins animés des années 30\_: esquive, tire et apprends les patterns de boss spectaculaires."
-iframeSrc: 'https://tiwb.github.io/cuphead/'
+iframeSrc: 'https://bitlifeonline.github.io/cuphead/'
 thumbnail: /new-images/thumbnails/cuphead.jpg
 tags:
   - action
   - casual
-score: 4.7/5  (2300 votes)
+score: 4.0/5  (957 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Dans cette version web non officielle de Cuphead, tu retrouves l’univers graphique
@@ -31,6 +32,7 @@ run & gun et affrontements de boss.
 Le gameplay repose sur la mémorisation des patterns d’attaque et un timing
 parfait pour esquiver, tirer et utiliser tes capacités spéciales.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1.  **Apprends les patterns de chaque boss**  
@@ -67,7 +69,10 @@ parfait pour esquiver, tirer et utiliser tes capacités spéciales.
     Cuphead est fait pour être dur : chaque échec t’apprend un peu mieux le
     combat.
 
+<!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Arrow Keys` `W, A, S, D` `Z` `Space Bar` `X` `Left Ctrl` `Left Shift` `V` `Right Ctrl` `C` `Tab` `E` `Q`
 
 - **Déplacement / Saut / Tir / Dash** : selon la version, utilise les touches
   directionnelles ou ZQSD, la barre d’espace, les clics et quelques touches
@@ -75,36 +80,48 @@ parfait pour esquiver, tirer et utiliser tes capacités spéciales.
 - **Pause / Options** : via le menu du jeu.
 
 
-- **EX Move / Super (jauge pleine)** : `E` ou `Q`
+- **EX Move / Super (jauge pleine)** : E ou Q
 
-- **Changer d’arme** : `C` ou `Tab`
+- **Changer d’arme** : C ou Tab
 
-- **Lock (maintenir pour rester en place)** : `V` ou `Ctrl` droite
+- **Lock (maintenir pour rester en place)** : V ou Ctrl droite
 
-- **Dash / esquive** : `Shift` gauche
+- **Dash / esquive** : Shift gauche
 
-- **Tirer** : `X` ou `Ctrl` gauche
+- **Tirer** : X ou Ctrl gauche
 
-- **Sauter** : `Z` ou `Espace`
+- **Sauter** : Z ou Espace
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
-**Q : Cette version contient‑elle le jeu complet ?**  
-R : Les versions navigateur sont souvent des adaptations partielles ou des
-niveaux inspirés de l’original.
+<!-- i18n:faq:id=faq:cuphead:is-this-game-really-as-cc4cdaae -->
+**1. Ce jeu est‑il vraiment aussi difficile qu’on le dit ?**
+Oui. Cuphead est volontairement exigeant, dans l’esprit des jeux d’arcade
+classiques. Il demande de la patience et d’accepter d’apprendre en échouant :
+c’est dur, mais globalement "juste".
 
-**Q : Peut‑on jouer à deux ?**  
-R : Certaines versions web ne gèrent pas bien le coop, contrairement au jeu
-original sur PC/console.
+<!-- i18n:faq:id=faq:cuphead:what-is-the-best-weapon-e96e78fc -->
+**2. Quelle est la meilleure combinaison d’armes et de charmes ?**
+Il n’y a pas une seule meilleure combinaison : ça dépend souvent du boss.
+Cependant, un duo très efficace pour débuter est **Spread** (gros dégâts de près)
+et **Chaser** (utile quand tu dois surtout esquiver), avec le charme **Smoke Bomb**
+(dash invincible).
 
+<!-- i18n:faq:id=faq:cuphead:how-do-i-get-super-c96646ee -->
+**3. Comment débloquer les Super Arts ?**
+Tu débloques les Super Arts en terminant les niveaux de Mausoleum. Dans ces
+niveaux, tu dois parer une série de fantômes roses pour sauver une urne. Il y a
+trois Mausoleums au total, chacun offrant un Super Art.
+
+<!-- i18n:faq:id=faq:cuphead:what-is-the-point-of-08bd75a7 -->
+**4. À quoi servent les niveaux Run & Gun ?**
+Leur rôle principal est de te fournir des **pièces**. Tu en as besoin pour
+acheter des armes et des charmes importants dans la boutique (Porkrind’s
+Emporium), qui peuvent faire la différence contre les boss.
+
+<!-- i18n:faq:id=faq:cuphead:is-twoplayer-coop-easier-75f09c78 -->
+**5. Le coop à deux joueurs est‑il plus facile ?**
 Ça dépend des joueurs. Pouvoir ranimer un partenaire est un gros avantage. En
 revanche, les boss ont plus de vie et, avec deux personnages et plus de
 projectiles à l’écran, ça peut devenir difficile à lire. Avec une bonne
 coordination, ça peut être plus simple.
-
-**5. Le coop à deux joueurs est‑il plus facile ?**
-
-Leur rôle principal est de te fournir des **pièces**. Tu en as besoin pour
-acheter des armes et des charmes importants dans la boutique (Porkrind’s
-Emporium), qui peuvent être décisifs pour battre les boss.
-
-**4. À quoi servent les niveaux Run & Gun ?**

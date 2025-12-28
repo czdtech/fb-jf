@@ -3,17 +3,18 @@ locale: fr
 urlstr: cricket-mania
 title: Cricket Mania
 description: "Cricket Mania condense le cricket en défis de batting rapides\_: lis chaque lancer, choisis ton tir et poursuis les objectifs de score."
-iframeSrc: 'https://6m4vq4nu17rto.h5games.usercontent.goog/v/1gcjh6v2j0ltg/'
+iframeSrc: 'https://73lnk17f84iog.h5games.usercontent.goog/v/1p7sdm5buflt0/'
 thumbnail: /new-images/thumbnails/cricket-mania.png
 tags:
   - sports
   - casual
-score: 4.1/5  (1780 votes)
+score: 4.0/5  (1897 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Cricket Mania regroupe des mini‑défis où tu dois marquer un certain nombre de
@@ -23,6 +24,7 @@ et éventuellement des effets.
 Tu dois adapter ton style de jeu : coups prudents pour garder ton guichet,
 frappes puissantes pour rattraper un retard au score.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1.  **Connais l’objectif du niveau**  
@@ -41,27 +43,22 @@ frappes puissantes pour rattraper un retard au score.
     Si tu as pris de l’avance au score, repasse sur des coups plus sûrs pour ne
     pas perdre ton guichet inutilement.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - **Sélection du tir** : direction ou bouton pour choisir la zone de frappe.  
 - **Timing** : touche l’écran ou clique au moment optimal pour envoyer la balle
   dans la direction voulue.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
 
+<!-- i18n:faq:id=faq:cricket-mania:keep-getting-caught-154fccfa -->
 - Puis‑je jouer en bowling ? La plupart des versions se concentrent sur la frappe (batting).
 
+<!-- i18n:faq:id=faq:cricket-mania:miss-timing-c2820bfd -->
 - Timing raté ? Observe le relâchement du bowler, pas seulement la trajectoire.
 
+<!-- i18n:faq:id=faq:cricket-mania:can-i-bowl-b3542147 -->
 - Trop de catches ? Tu joues trop de balles levées en profondeur : privilégie les coups au sol.
-**Q : Je n’atteins jamais l’objectif, que faire ?**  
-R : Essaie d’alterner coups sûrs et attaques plus risquées au lieu de viser le
-6 à chaque balle.
-
-**Q : Le bowling est‑il jouable ?**  
-R : La plupart des modes de Cricket Mania se concentrent sur le batting.
-
-**Q : Y a‑t‑il un mode infini ?**  
-R : Certaines versions incluent un mode survie ou score illimité en plus des
-niveaux à objectif.

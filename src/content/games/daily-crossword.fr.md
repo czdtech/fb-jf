@@ -3,17 +3,18 @@ locale: fr
 urlstr: daily-crossword
 title: Daily Crossword
 description: "Résous un nouveau mot croisé chaque jour\_: lis les définitions, complète la grille et entraîne ton vocabulaire."
-iframeSrc: 'https://crosswordgames.io/game/dailiesamerican_crossword/index.html'
+iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/daily-crossword/'
 thumbnail: /new-images/thumbnails/daily-crossword.jpg
 tags:
   - word
   - puzzle
-score: 4.1/5  (1300 votes)
+score: 4.4/5  (1181 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Daily Crossword te propose une grille de mots croisés différente chaque jour.
@@ -34,6 +35,7 @@ sens de la déduction.
     Un petit mot croisé par jour est une bonne habitude pour entretenir ta
     logique linguistique.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - **Saisie** : clique/tape dans une case, puis entre les lettres au clavier.  
@@ -54,3 +56,4 @@ puzzles.
 
 **Q : Les grilles sont‑elles en anglais ?**  
 R : Oui, ce jeu particulier propose des mots croisés anglophones.
+

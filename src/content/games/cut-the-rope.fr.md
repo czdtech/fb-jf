@@ -3,17 +3,18 @@ locale: fr
 urlstr: cut-the-rope
 title: Cut the Rope
 description: "Cut the Rope est un puzzle physique culte\_: coupe les cordes dans le bon ordre pour faire tomber le bonbon dans la bouche d’Om Nom."
-iframeSrc: 'https://6godz55q900to.h5games.usercontent.goog/v/0llluc2ekfil0/'
+iframeSrc: 'https://games.cdn.famobi.com/html5games/c/cut-the-rope/v020/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=4531b37c-a8e0-4a67-9ebd-e8d3190b6277&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=467&original_ref='
 thumbnail: /new-images/thumbnails/cut-the-rope.jpg
 tags:
   - puzzle
   - casual
-score: 4.6/5  (2400 votes)
+score: 3.9/5  (1483 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Cut the Rope te met face à de petits niveaux où un bonbon est suspendu par des
@@ -42,6 +43,7 @@ pour un score parfait.
     Tu peux d’abord viser la simple réussite du niveau, puis revenir plus tard
     pour optimiser le trajet et récupérer toutes les étoiles.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - **Couper une corde** : fais glisser ton doigt ou la souris sur la corde pour
@@ -60,6 +62,7 @@ pour un score parfait.
 
 - Fais éclater les bulles près de la bonne hauteur pour qu’Om Nom puisse attraper
   le bonbon.
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
 - Commence par viser au moins deux étoiles ; cherche les trois étoiles une fois
@@ -70,12 +73,11 @@ pour un score parfait.
 
 - Visualise l’arc de balancement du bonbon avant de couper ; enchaîne parfois deux
   coupes rapides pour rediriger le mouvement.
+<!-- i18n:faq:id=faq:cut-the-rope:do-i-need-all-stars-9ea07913 -->
 **Q : Dois‑je forcément prendre les trois étoiles ?**  
 
+<!-- i18n:faq:id=faq:cut-the-rope:are-there-powerups-0fea9ab4 -->
 - Q: Y a‑t‑il des bonus (bonus) ?
 R : Non, une seule réussite du niveau suffit pour progresser, mais les étoiles
 servent souvent à débloquer de nouveaux chapitres.
 
-**Q : Les niveaux deviennent‑ils très difficiles ?**  
-R : Oui, certains demandent un timing précis et une bonne compréhension de la
-physique, mais tu peux toujours les rejouer autant que tu veux.

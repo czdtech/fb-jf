@@ -3,13 +3,13 @@ locale: fr
 urlstr: dandyrunki-retake
 title: Dandyrunki Retake
 description: "Dandyrunki Retake est un platformer rétro exigeant\_: cours, saute et évite les pièges dans des niveaux précis au pixel près."
-iframeSrc: 'https://tiwb.github.io/dandyrunki-retake/'
+iframeSrc: 'https://turbowarp.org/1126924449/embed'
 thumbnail: /new-images/thumbnails/dandyrunki-retake.png
 tags:
   - platformer
   - casual
-score: 4.2/5  (1500 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+score: 3.7/5  (255 votes)
+releaseDate: 2025-12-04
 ---
 
 
@@ -23,6 +23,7 @@ piques, ennemis et pièges cachés.
 Le gameplay repose sur des sauts millimétrés et beaucoup d’essais‑erreurs :
 tu vas souvent recommencer, mais chaque tentative te fait progresser.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1.  **Étudie le niveau**  
@@ -58,3 +59,4 @@ permettent généralement de ne pas tout refaire.
 **Q : Combien de niveaux y a‑t‑il ?**  
 R : Cela dépend de la version, mais attends‑toi à plusieurs mondes avec
 plusieurs stages chacun.
+

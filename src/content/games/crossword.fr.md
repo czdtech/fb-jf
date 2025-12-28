@@ -3,17 +3,18 @@ locale: fr
 urlstr: crossword
 title: Crossword
 description: "Résous des grilles de mots croisés en ligne\_: lis les définitions, remplis les mots horizontaux et verticaux et utilise les lettres croisées pour t’aider."
-iframeSrc: 'https://crosswordgames.io/game/dailyamerican_crossword/index.html'
+iframeSrc: 'https://ad-freegames.github.io/flash/game/crossword.html'
 thumbnail: /new-images/thumbnails/crossword.jpg
 tags:
   - word
   - puzzle
-score: 4.1/5  (1200 votes)
+score: 4.8/5  (195 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Crossword est une version en ligne de mots croisés de style américain. Tu y
@@ -43,6 +44,7 @@ quotidiens peuvent influencer quelques réponses clés.
     Attention aux abréviations, aux sens figurés et aux jeux de mots légers
     fréquents dans les définitions.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - **Saisie** : tape les lettres directement dans les cases sélectionnées.  
@@ -62,6 +64,7 @@ quotidiens peuvent influencer quelques réponses clés.
 
 - Remplis les longues entrées thématiques après avoir récupéré des lettres via
   les réponses proches.
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
 - Apprends les abréviations et conventions de définitions courantes dans les
@@ -72,16 +75,11 @@ quotidiens peuvent influencer quelques réponses clés.
 
 - Commence par les indices faciles (phrases à trous, marqueurs de pluriel/temps)
   pour obtenir des croisements.
+<!-- i18n:faq:id=faq:crossword:what-sizes-are-typical-8c5e081e -->
 **Q : Les grilles sont‑elles uniquement en anglais ?**  
 
+<!-- i18n:faq:id=faq:crossword:do-all-letters-cross-26e76996 -->
 - Q: Toutes les lettres se croisent‑elles ?
 R : Ce jeu spécifique est basé sur des mots croisés anglophones, il faudra donc
 un minimum de vocabulaire en anglais.
 
-**Q : Puis‑je revenir sur une grille précédente ?**  
-R : Selon le site, il est parfois possible de rejouer les grilles des jours
-précédents via un calendrier ou un historique.
-
-**Q : Les accents sont‑ils pris en compte ?**  
-R : Non, comme dans la plupart des mots croisés numériques, seuls les lettres
-A–Z sont utilisées, sans accents.

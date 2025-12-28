@@ -3,17 +3,18 @@ locale: fr
 urlstr: crazy-balls
 title: Crazy Balls
 description: "Crazy Balls est un jeu d’arcade chaotique avec des balles rebondissantes\_: vise, tire et provoque des réactions en chaîne pour nettoyer l’écran."
-iframeSrc: 'https://g2.forcegame.ru/game/15/FG2232_2/crazy_balls.html'
+iframeSrc: 'https://05hi0oufvrcro.h5games.usercontent.goog/v/0qeok5765gar8/'
 thumbnail: /new-images/thumbnails/crazy-balls.png
 tags:
   - action
   - casual
-score: 3.9/5  (1500 votes)
+score: 3.8/5  (1617 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Crazy Balls te place face à un champ rempli de balles et de blocs à détruire.
@@ -24,6 +25,7 @@ obstacles.
 Le but est de provoquer un maximum de collisions pour faire disparaître toutes
 les cibles avant d’être submergé ou à court de tirs.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1.  **Anticipe les rebonds**  
@@ -41,6 +43,7 @@ les cibles avant d’être submergé ou à court de tirs.
 5.  **Répète les niveaux difficiles**  
     Certains patterns demandent plusieurs essais pour trouver l’angle parfait.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - **Viser / Tirer** : clique et fais glisser pour choisir l’angle, puis relâche
@@ -49,18 +52,19 @@ les cibles avant d’être submergé ou à court de tirs.
 - **Pause / Rejouer** : utilise l’interface pour mettre en pause ou relancer un
   niveau.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
 
+<!-- i18n:faq:id=faq:crazy-balls:shots-feel-random-how-to-edd8a905 -->
 - Q: Les tirs semblent aléatoires — comment garder le contrôle ?
   A: Baisse la puissance, vise des angles simples et repère des points de rebond réguliers sur les murs.
 
+<!-- i18n:faq:id=faq:crazy-balls:are-there-powerups-0fea9ab4 -->
 - Q: Y a‑t‑il des bonus ?
   A: Certaines versions proposent des bonus (multiplicateur, ralenti, etc.) ; garde‑les pour les sections délicates.
 
+<!-- i18n:faq:id=faq:crazy-balls:timed-levels-05d52f9e -->
 - Q: Niveaux chronométrés ?
   A: S’il y a un chrono, privilégie une progression sûre plutôt que des tirs risqués.
 
-**Q : Comment gérer les niveaux avec très peu d’espace ?**  
-R : Vise des angles très serrés le long des murs pour faire remonter les balles
-et dégager les blocs du bas avant qu’ils n’atteignent la ligne fatidique.

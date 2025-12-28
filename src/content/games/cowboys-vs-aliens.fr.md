@@ -3,17 +3,18 @@ locale: fr
 urlstr: cowboys-vs-aliens
 title: Cowboys vs Aliens
 description: "Cowboys vs Aliens mélange western et science‑fiction\_: défends ta ville avec ton revolver, vise vite et élimine les envahisseurs venus de l’espace."
-iframeSrc: 'https://cowboysvsaliens.h5games.usercontent.goog/v/3e45cncqb6d4g/'
+iframeSrc: 'https://app-183000.games.s3.yandex.net/183000/ej1ob1cdiuv0fq3vw88l1k7pakdngmk7/index.html'
 thumbnail: /new-images/thumbnails/cowboys-vs-aliens.jpg
 tags:
   - action
   - shooting
-score: 4.0/5  (1600 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
+score: 3.7/5  (1185 votes)
+releaseDate: 2025-08-16
 ---
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Cowboys vs Aliens est un jeu de tir arcade où tu incarnes un cow‑boy qui doit
@@ -25,6 +26,7 @@ Le gameplay repose sur la rapidité, la précision et la gestion des munitions
 ou du temps de rechargement. Plus tu avances, plus les ennemis sont nombreux,
 rapides et résistants.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1.  **Vise la tête ou les points faibles**  
@@ -44,7 +46,10 @@ rapides et résistants.
     Beaucoup d’aliens se déplacent selon des trajectoires répétitives.
     Mémorise‑les pour anticiper leurs mouvements.
 
+<!-- i18n:section:controls -->
 #### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `W` `A` `S` `D` `Left Mouse Button` `Space Bar` `1` `2` `3...`
 
 - **Viser / Tirer** : déplace la souris ou ton doigt pour viser, clique ou tape
   pour tirer.  
@@ -68,15 +73,15 @@ rapides et résistants.
 
     - **Mobile :**
 
-    - **Changer d’arme** : touches (`1`, `2`, `3...`) ou molette.
+    - **Changer d’arme** : touches (1, 2, 3...) ou molette.
 
-    - **Sauter** : `Espace`.
+    - **Sauter** : Espace.
 
     - **Tirer** : clic gauche.
 
 - **Viser** : souris.
 
-    - **Déplacement** : `W`, `A`, `S`, `D` ou flèches.
+    - **Déplacement** : W, A, S, D ou flèches.
 
     - **PC/Web :**
 **Q : Le jeu est‑il uniquement en solo ?**  
@@ -90,3 +95,4 @@ progressant ou en gagnant de la monnaie en jeu.
 **Q : Y a‑t‑il une fin ?**  
 R : Certaines campagnes ont un nombre de niveaux fini, d’autres enchaînent les
 vagues de plus en plus difficiles pour un score infini.
+

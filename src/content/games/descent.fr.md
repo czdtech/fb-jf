@@ -4,17 +4,18 @@ urlstr: descent
 title: Descent
 description: "Descent est un jeu de chute libre arcade\_: fais descendre ta bille à travers des plateformes mobiles sans te faire écraser."
 iframeSrc: >-
-  https://g2.igroutka.ru/games/23/FDBv4Wr8CdGFvkH1/rvvASMiM/3b6cb72a285c4178adc1a0809e19ccce/
+  https://g2.igroutka.ru/games/17/4tWRaCD7AOzxbTsE/descent/
 thumbnail: /new-images/thumbnails/descent.jpg
 tags:
   - action
   - casual
-score: 4.0/5  (1500 votes)
+score: 5.0/5  (1486 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Dans Descent, tu contrôles une bille ou un petit personnage qui tombe à travers
@@ -37,6 +38,7 @@ Plus tu descends, plus la vitesse augmente et plus les obstacles se compliquent.
     Piques, zones fragiles ou plateformes qui disparaissent exigent un timing
     précis.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - **Déplacement** : inclinaison (sur mobile) ou touches/flèches pour bouger à
@@ -54,6 +56,7 @@ Plus tu descends, plus la vitesse augmente et plus les obstacles se compliquent.
 
 - Saute plus tôt pour un déplacement latéral plus long ; plus tard pour un saut
   court et plus vertical.
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
 - Profite des moments où tu t’accroches au mur pour repérer les deux écrans
@@ -64,12 +67,11 @@ Plus tu descends, plus la vitesse augmente et plus les obstacles se compliquent.
 
 - Ne te précipite pas : de petits délais désynchronisent souvent les pièges et
   créent des ouvertures.
+<!-- i18n:faq:id=faq:descent:is-progress-endless-or-levelba-a930a1f6 -->
 **Q : Le jeu a‑t‑il des niveaux ou est‑il infini ?**  
 
+<!-- i18n:faq:id=faq:descent:are-there-powerups-0fea9ab4 -->
 - Q: Y a‑t‑il des bonus (bonus) ?
 R : La plupart des versions sont de type endless, avec une difficulté croissante
 et un score basé sur la profondeur atteinte.
 
-**Q : Y a‑t‑il des bonus ?**  
-R : Certaines variantes ajoutent des bonus (invincibilité temporaire, ralentis,
- etc.).

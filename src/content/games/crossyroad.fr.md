@@ -6,18 +6,19 @@ description: >-
   Dans Crossy Road, fais traverser routes et rivières à ton personnage sans te
   faire renverser ni tomber à l’eau, et va le plus loin possible.
 iframeSrc: >-
-  https://1vjadoaf5akkp9ka31qtljt9pkuo8ojs-a-sites-opensocial.googleusercontent.com/gadgets/ifr?url=https://markotopkok.github.io/pokiunblocked-games/crossy-road.xml
+  https://www.playfiddlebops.com/embed/crossyroad/index.html
 thumbnail: /new-images/thumbnails/crossyroad.jpg
 tags:
   - action
   - casual
-score: 4.3/5  (2000 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+score: 4.8/5  (1104 votes)
+releaseDate: 2025-12-04
 ---
 
 
 
 
+<!-- i18n:section:introduction -->
 Crossy Road est un jeu d’arcade infini très populaire, développé par Hipster Whale. L’objectif est simple : traverser routes, rivières et voies ferrées le plus longtemps possible sans mourir. Son style « voxel » (des pixels en 3D) et sa grande collection de personnages à débloquer en ont fait un hit sur mobile et ailleurs. Le nom fait référence à la blague classique : « Pourquoi le poulet a‑t‑il traversé la route ? ».
 ### Présentation du jeu
 
@@ -65,6 +66,7 @@ véhicules s’accélère, et plus il devient difficile de trouver le bon timing
 
 
 **Q : Pourquoi un aigle m’a emporté ?**  **R :** Cela arrive si tu restes immobile trop longtemps ou si tu recules trop. Le jeu est conçu pour te pousser à avancer.
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
 **Q : Le jeu a‑t‑il une fin ?**  
@@ -74,3 +76,4 @@ R : Non, Crossy Road est conçu comme un runner infini. L’objectif est de bat
 **Q : Les personnages changent‑ils le gameplay ?**  
 R : La plupart sont surtout cosmétiques, même si certains ajoutent de légers
  effets visuels ou sonores.
+

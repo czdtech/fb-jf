@@ -3,17 +3,18 @@ locale: fr
 urlstr: crash-bandicoot
 title: Crash Bandicoot
 description: "Retrouve Crash Bandicoot dans un runner 3D plein de caisses\_: cours, saute, fais des tours sur toi‑même et évite les pièges pour atteindre la fin des niveaux."
-iframeSrc: 'https://tiwb.github.io/crashbandicoot/'
+iframeSrc: 'https://ad-freegames.github.io/flash/game/crash-bandicoot.html'
 thumbnail: /new-images/thumbnails/crash-bandicoot.jpg
 tags:
   - action
   - casual
-score: 4.4/5  (2100 votes)
+score: 4.8/5  (820 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Cette version web de Crash Bandicoot reprend les codes classiques de la série :
@@ -42,6 +43,7 @@ sans perdre toutes tes vies.
     Selon le contrôle, ralentir légèrement peut aider à mieux ajuster tes
     sauts ou tes changements de direction.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - **Déplacements / Sauts / Attaques** : selon la version, utilise les flèches
@@ -63,6 +65,7 @@ sans perdre toutes tes vies.
 
 - Brise les caisses au spin depuis une distance sûre ; ne reste jamais près d’une
   caisse TNT une fois activée.
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
 - Les boss demandent surtout de reconnaître les patterns : attends une ouverture,
@@ -75,20 +78,16 @@ sans perdre toutes tes vies.
   caisse TNT une fois activée.
 
 - Calibre tes sauts pour franchir plateformes mobiles et fossés.
+<!-- i18n:faq:id=faq:crash-bandicoot:how-many-levels-are-there-74bf0cdd -->
 **Q : Le gameplay est‑il identique aux jeux console ?**  
 
+<!-- i18n:faq:id=faq:crash-bandicoot:why-doesnt-the-jump-or-c4d2ba16 -->
 - Q: Pourquoi le saut ou le spin ne marche pas ?
 R : Assure‑toi que la fenêtre du jeu est bien active (clique dans le jeu). Selon
 le site/hébergeur, certaines touches peuvent varier.
 
+<!-- i18n:faq:id=faq:crash-bandicoot:is-progress-saved-2fd2b251 -->
 - Q: La progression est‑elle sauvegardée ?
 R : La plupart des versions web ne sauvegardent pas une progression durable au‑delà
 de la session.
 
-**Q : Que se passe‑t‑il si je tombe ou me fais toucher sans masque ?**  
-R : Tu perds une vie et recommences depuis le dernier point de contrôle ou le
- début du niveau, selon le cas.
-
-**Q : Y a‑t‑il des boss ?**  
-R : Certaines versions incluent des affrontements de fin de monde, d’autres se
-limitent à des niveaux de course classiques.

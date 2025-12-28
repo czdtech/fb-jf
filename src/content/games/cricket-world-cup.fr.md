@@ -14,6 +14,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Cricket World Cup se concentre sur des phases de batting inspirées des grandes
@@ -24,6 +25,7 @@ Le challenge vient de la variété des lancers (lignes, longueurs, effets) et de
 la nécessité de gérer le risque : jouer au sol pour assurer, ou lever la balle
 pour viser les limites.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1.  **Adapte tes tirs à la ligne**  
@@ -44,6 +46,7 @@ pour viser les limites.
     Conserve ton agressivité pour les overs plus faibles (bowler moins précis)
     et joue plus serré contre les meilleurs lanceurs.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - **Aimer le tir** : utilise les touches directionnelles ou les boutons pour
@@ -51,21 +54,18 @@ pour viser les limites.
 - **Frappes** : appuie au bon moment pour déclencher ton swing, la précision du
   timing déterminant la puissance et la trajectoire.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
 
+<!-- i18n:faq:id=faq:cricket-world-cup:keep-getting-caught-154fccfa -->
 - Q: Je me fais attraper trop souvent en profondeur — que faire ?
   A: Privilégie les coups au sol quand le champ est profond et vise les gaps plutôt que de lever la balle.
 
+<!-- i18n:faq:id=faq:cricket-world-cup:timing-misses-99adbd62 -->
 - Q: Je rate mon timing — un conseil ?
   A: Calibre ton swing sur le relâchement du bowler (et la longueur) plutôt que seulement sur le vol de la balle.
 
 
+<!-- i18n:faq:id=faq:cricket-world-cup:bowling-available-edaee621 -->
 - Q: Le jeu gère‑t‑il les différents formats (T20, ODI…) ?
-**Q : Le jeu gère‑t‑il les différents formats (T20, ODI…) ?**  
-R : Cela dépend de la version, mais la plupart des scénarios s’inspirent de
-situations de limited overs.
-
-**Q : Puis‑je jouer en bowling ?**  
-R : La majorité des modes se focalisent sur le batting, sans phase de lancer
-complète.

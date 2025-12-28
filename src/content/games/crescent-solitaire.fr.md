@@ -3,18 +3,19 @@ locale: fr
 urlstr: crescent-solitaire
 title: Crescent Solitaire
 description: "Crescent Solitaire est une variante du solitaire en croissant\_: réorganise les cartes autour des As et des Rois pour vider l’arc de cartes."
-iframeSrc: 'https://g2.forcegame.ru/game/14/FG2157_1/index.html'
+iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/crescent-solitaire-phaser/'
 thumbnail: /new-images/thumbnails/crescent-solitaire.jpg
 tags:
   - card
   - puzzle
   - casual
-score: 4.2/5  (1800 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
+score: 4.4/5  (944 votes)
+releaseDate: 2025-08-16
 ---
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Crescent Solitaire est une variante du solitaire dans laquelle les cartes sont
@@ -43,6 +44,7 @@ mouvements ou remélanges autorisés.
     Comme dans les autres solitaires, réfléchir à l’avance aux conséquences d’un
     déplacement t’évitera de te bloquer trop vite.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - **Déplacer une carte** : clique‑glisse une carte depuis l’arc vers l’une des
@@ -66,6 +68,7 @@ mouvements ou remélanges autorisés.
 
 - Avant un remélange, essaie de dévoiler un maximum de cartes utiles en haut des
   piles.
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
 - Après un remélange, re‑scanne toutes les piles : des cartes utiles reviennent
@@ -79,19 +82,15 @@ mouvements ou remélanges autorisés.
 
 - Construis les couleurs de façon équilibrée pour qu’une seule couleur ne bloque
   pas ses deux fondations.
+<!-- i18n:faq:id=faq:crescent-solitaire:how-many-redeals-are-allowed-1aabe151 -->
 **Q : Toutes les parties sont‑elles gagnables ?**  
 
+<!-- i18n:faq:id=faq:crescent-solitaire:can-empty-spaces-be-filled-58017c44 -->
 - Q: Peut‑on remplir les emplacements vides ?
 R : Comme pour beaucoup de solitaires, certaines dispositions sont très
 
+<!-- i18n:faq:id=faq:crescent-solitaire:what-is-foundation-transfer-c079b0e6 -->
 - Q: Qu’est‑ce que le “transfert de fondation” ?
 compliquées voire impossibles. Le défi consiste à maximiser ton taux de
 victoire.
 
-**Q : Puis‑je repasser d’un As à un Roi (ou l’inverse) ?**  
-R : Cela dépend des règles de la version. Vérifie l’aide en jeu : certaines
-acceptent le "bouclage", d’autres non.
-
-**Q : Le temps est‑il limité ?**  
-R : Parfois, un chrono ou un score basé sur la vitesse ajoutent un défi
-supplémentaire, mais tu peux généralement jouer à ton rythme.

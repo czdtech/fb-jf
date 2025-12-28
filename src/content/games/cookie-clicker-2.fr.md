@@ -3,17 +3,18 @@ locale: fr
 urlstr: cookie-clicker-2
 title: Cookie Clicker 2
 description: "Cookie Clicker 2 reprend la folie des cookies\_: clique, achète encore plus de bâtiments, débloque de nouvelles mécaniques et fais exploser ton CPS."
-iframeSrc: 'https://4jenf2md9fc6o.h5games.usercontent.goog/v/4rij4hgvecd30/'
+iframeSrc: 'https://games-online.io/game/cake-maker/'
 thumbnail: /new-images/thumbnails/cookie-clicker-2.jpg
 tags:
   - casual
   - clicker
-score: 4.6/5  (1870 votes)
+score: 4.1/5  (1344 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Cookie Clicker 2 pousse encore plus loin le concept du premier opus. Tu
@@ -24,6 +25,7 @@ Tu dois toujours optimiser l’équilibre entre clic manuel, production
 automatique et investissements à long terme, tout en gérant les événements
 spéciaux et les bonus temporaires.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1.  **Relance ta production de base**  
@@ -38,7 +40,9 @@ spéciaux et les bonus temporaires.
     augmente le plus ton CPS global au fil du temps.
 4.  **Profite des événements et bonus**  
     Certains événements temporaires boostent fortement ta production. Prépare
-    quelques améliorations ou achats à déclencher pendant ces fenêtres.
+    quelques améliorations ou achats à déclencher pendant ces fenêtres. Les Golden
+    Cookies peuvent aussi déclencher des boosts comme « Click Frenzy », qui
+    multiplie la puissance de clic par 777.
 5.  **Utilise la progression à long terme**  
     Les systèmes de prestige/ascension de cette suite te donnent des bonus
     permanents d’une run à l’autre.
@@ -57,12 +61,12 @@ spéciaux et les bonus temporaires.
 - **Qu’est‑ce que l’Ascension ?** : l’Ascension est la mécanique de prestige du
   jeu. Tu réinitialises ta partie (cookies, bâtiments, améliorations), et tu
   gagnes des Heavenly Chips et des niveaux de prestige. Chaque niveau de prestige
-  donne en général **+1 %** permanent à ton CpS pour les runs suivantes.
+  donne en général **+1%** permanent à ton CpS pour les runs suivantes.
     Exploite‑le pour augmenter ton potentiel de production sur le long terme.
 
 - **Sugar Lumps** : tu obtiens environ un Sugar Lump toutes les 24 h. Ils servent
   à monter le niveau de certains bâtiments ; chaque niveau donne souvent
-  **+1 %** permanent de CpS pour ce bâtiment. Utilise‑les avec soin.
+  **+1%** permanent de CpS pour ce bâtiment. Utilise‑les avec soin.
 
 - **Mini‑jeux** : en améliorant certains bâtiments avec des Sugar Lumps, tu
   débloques des mini‑jeux (Garden, Pantheon, Grimoire). Ils peuvent offrir de
@@ -80,6 +84,7 @@ spéciaux et les bonus temporaires.
   ré‑ascendre pour gagner encore du prestige.
     À force, tu accumules du prestige et augmentes ta production.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - **Cliquer pour produire** : tape ou clique sur le cookie principal.  
@@ -101,17 +106,25 @@ spéciaux et les bonus temporaires.
       pour accélérer les achats en fin de partie.
   (les libellés exacts varient selon la version).
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
-**Q : Quelle est la différence principale avec le premier Cookie Clicker ?**  
-R : La suite ajoute généralement plus de contenu, de bâtiments et de systèmes
-profonds (prestige, talents, événements), ce qui donne plus d’options
-stratégiques.
+<!-- i18n:faq:id=faq:cookie-clicker-2:when-is-the-best-time-1f08eaaf -->
+**1. Quand est‑il préférable de faire une ascension ?**
+Pour ta première ascension, attends d’avoir au moins 200–440 niveaux de prestige. Ensuite, fais une ascension quand ta progression ralentit nettement. Une run efficace en milieu/fin de jeu peut durer quelques heures ou une journée.
 
-**Q : Faut‑il avoir joué au 1 pour comprendre le 2 ?**  
-R : Non, mais connaître les bases du genre clicker/idle rend la prise en main
-encore plus rapide.
+<!-- i18n:faq:id=faq:cookie-clicker-2:what-is-the-point-of-83046206 -->
+**2. À quoi sert la Grandmapocalypse ? Dois‑je l’activer ?**
+La Grandmapocalypse débloque des améliorations et des succès. En contrepartie, les Wrath Cookies peuvent être pénalisants. Beaucoup de joueurs restent au premier stade (mélange de Golden et de Wrath) ou l’évitent jusqu’à être assez puissants pour ignorer les effets négatifs. Les deux approches se défendent.
 
-**Q : Le jeu est‑il fait pour être laissé en arrière‑plan ?**  
-R : Oui, comme tout bon idle, Cookie Clicker 2 continue souvent à produire des
-cookies même quand tu n’es pas actif, tant que la fenêtre reste ouverte.
+<!-- i18n:faq:id=faq:cookie-clicker-2:what-should-i-spend-my-947839c8 -->
+**3. Sur quoi dépenser mes Sugar Lumps en priorité ?**
+Une bonne stratégie est d’utiliser ton premier Sugar Lump pour passer tes Fermes au niveau 1 et débloquer le mini‑jeu du Garden. Ensuite, monter les Wizard Towers (Grimoire) et les Temples (Pantheon) est généralement prioritaire.
+
+<!-- i18n:faq:id=faq:cookie-clicker-2:how-do-i-get-golden-ba541801 -->
+**4. Comment obtenir des combos de Golden Cookies ?**
+C’est surtout une question de chance. Le sort « Force the Hand of Fate » du Grimoire (mini‑jeu des Wizard Towers) permet de faire apparaître un Golden Cookie supplémentaire ; c’est le meilleur moyen de provoquer des combos intentionnellement.
+
+<!-- i18n:faq:id=faq:cookie-clicker-2:is-there-an-end-to-ce958c6b -->
+**5. Y a‑t‑il une fin à Cookie Clicker ?**
+Non. Le jeu est conçu pour être pratiquement infini. L’objectif est de faire grimper les chiffres et de débloquer l’ensemble des succès et améliorations, ce qui peut prendre énormément de temps.
