@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 "Snake Game" ist die zeitlose Arcade-Variante von Snake. Du steuerst eine
@@ -45,6 +46,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 *   **Nach links:** Pfeil nach links oder **A**.
 *   **Nach rechts:** Pfeil nach rechts oder **D**.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
 1.  **F: Wird die Schlange schneller?**
@@ -59,3 +61,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 4.  **F: Gibt es verschiedene Modi?**
     **A:** Klassiker haben meist nur einen Modus, moderne Varianten bieten
     zusätzliche Herausforderungen, kleinere Spielfelder oder Spezialregeln.
+

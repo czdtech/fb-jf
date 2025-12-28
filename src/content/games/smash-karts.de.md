@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 "Smash Karts" verbindet klassisches Kart-Racing mit Arena-Kämpfen. Du steuerst
@@ -50,6 +51,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 *   **Driften (falls verfügbar):** Eine zusätzliche Taste ermöglicht Drifts,
     um Geschwindigkeit in Kurven zu halten.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
 1.  **F: Wie bekomme ich Power-ups?**
@@ -64,3 +66,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 4.  **F: Welche Modi gibt es?**
     **A:** Meist klassische Deathmatch-/Battle-Modi, teambasierte Kämpfe und
     je nach Version auch Renn- oder Zielpunkt-Varianten.
+

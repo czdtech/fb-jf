@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 "Run 3" ist ein Endlos-Laufspiel im All. Du steuerst eine kleine Alienfigur
@@ -46,6 +47,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 *   **Schwerkraftwechsel:** An Wänden/Decke läuft dein Charakter automatisch
     weiter, sobald du sie erreichst.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
 1.  **F: Wie komme ich an Wände oder die Decke?**
@@ -60,3 +62,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 4.  **F: Wie schalte ich neue Charaktere frei?**
     **A:** In der Regel durch das Abschließen bestimmter Level oder das Erreichen
     von Meilensteinen im Spielverlauf.
+

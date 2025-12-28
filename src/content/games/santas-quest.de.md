@@ -15,6 +15,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Santa's Quest ist ein leicht zugängliches, weihnachtliches Puzzlespiel. Du
@@ -24,6 +25,7 @@ Santa's Quest ist ein leicht zugängliches, weihnachtliches Puzzlespiel. Du
  erwischt zu werden. Die kurzen Level eignen sich ideal für eine schnelle
  Runde zwischendurch.
 
+<!-- i18n:section:tips -->
 ### Strategien & Spieltipps
 
 1.  **Route zuerst planen:** Schau dir vor dem ersten Schritt an, wo
@@ -40,6 +42,7 @@ Santa's Quest ist ein leicht zugängliches, weihnachtliches Puzzlespiel. Du
 5.  **Schnell neu starten:** Da die Level kurz sind, lohnt sich ein schneller
     Neustart, wenn du dich verrannt hast.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Bewegen:** Mit Pfeiltasten oder WASD steuerst du Santa über das Gitter.
@@ -48,18 +51,23 @@ Santa's Quest ist ein leicht zugängliches, weihnachtliches Puzzlespiel. Du
 - **Pause/Neustart:** Über die UI pausierst du das Spiel oder startest das
   Level neu.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:santas-quest:stuck-behind-a-blockwhat-now-2e016d68 -->
 - **F: Ich stecke hinter einem Block fest – was nun?**
   
   Starte das Level neu und passe deine Route so an, dass du Engstellen nicht
   zustellst.
 
+<!-- i18n:faq:id=faq:santas-quest:are-there-enemies-0f202e8a -->
 - **F: Gibt es Gegner?**
   
   Einige Level enthalten leichte Gefahren wie patrouillierende Figuren oder
   Fallen. Mit gutem Timing kannst du sie problemlos umgehen.
 
+<!-- i18n:faq:id=faq:santas-quest:do-i-need-all-stars-c6a73dae -->
 - **F: Muss ich alle Sterne sammeln?**
   
   Nein, Sterne sind meist optional und dienen der 100%-Vervollständigung.
+

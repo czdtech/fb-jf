@@ -19,6 +19,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 "Slither.io" gehört zu den Klassikern der .io-Spiele. Du steuerst einen Wurm
@@ -52,6 +53,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 *   **Sicht anpassen (falls vorhanden):** Mit Mausrad oder Tasten kannst du je
     nach Version heraus- oder hereinzoomen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
 1.  **F: Wie wachse ich am schnellsten?**
@@ -66,3 +68,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 4.  **F: Gibt es eine Rangliste?**
     **A:** Ja, am Bildschirmrand siehst du die größten Spieler der aktuellen
     Runde – ein gutes Ziel, wenn du die Spitze angreifen willst.
+

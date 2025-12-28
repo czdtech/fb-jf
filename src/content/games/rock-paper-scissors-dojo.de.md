@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Rock Paper Scissors Dojo verwandelt das einfache Schere-Stein-Papier in ein
@@ -24,6 +25,7 @@ Rock Paper Scissors Dojo verwandelt das einfache Schere-Stein-Papier in ein
  wechselt – und mit gemischten Strategien zu antworten, ohne selbst
  berechenbar zu werden.
 
+<!-- i18n:section:tips -->
 ### Strategien & Spieltipps
 
 1.  **Ausgewogener Start-Mix:** Nutze zu Beginn eine annähernd zufällige
@@ -39,24 +41,30 @@ Rock Paper Scissors Dojo verwandelt das einfache Schere-Stein-Papier in ein
     Best-of-5 zählt vor allem das Timing – spiele in entscheidenden Runden
     besonders konzentriert.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Wähle in jeder Runde Stein, Papier oder Schere per Klick oder Tipp. In vielen
   Versionen gibt es auch einen lokalen Zwei-Spieler-Modus am selben Gerät.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:rock-paper-scissors-dojo:isnt-rps-random-bad2327f -->
 - **F: Ist Schere-Stein-Papier nicht reiner Zufall?**
   
   Menschen haben Vorlieben und Muster. Wer sie erkennt, kann über viele Runden
   seine Gewinnrate deutlich steigern.
 
+<!-- i18n:faq:id=faq:rock-paper-scissors-dojo:any-unbeatable-strategy-a4b15560 -->
 - **F: Gibt es eine unbesiegbare Strategie?**
   
   Nein, aber ein ausgewogener Mix und schnelles Anpassen an das Verhalten des
   Gegners sind sehr robuste Ansätze.
 
+<!-- i18n:faq:id=faq:rock-paper-scissors-dojo:twoplayer-bff3ba91 -->
 - **F: Kann ich zu zweit spielen?**
   
   Viele Versionen bieten einen lokalen 2‑Spieler-Modus, bei dem ihr gleichzeitig
   am selben Gerät antretet.
+

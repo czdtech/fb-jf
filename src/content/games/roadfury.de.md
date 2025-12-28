@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Road Fury ist ein rasanter Top-Down-Vertical-Shooter, in dem du ein schwer
@@ -26,6 +27,7 @@ Road Fury ist ein rasanter Top-Down-Vertical-Shooter, in dem du ein schwer
  nutze die erbeuteten Münzen nach jeder Runde, um Waffen und Panzerung deines
  Wagens dauerhaft zu verbessern.
 
+<!-- i18n:section:tips -->
 ### Strategien & Spieltipps
 
 1.  **Ständig in Bewegung bleiben:** Wechsle permanent die Spur, um gegnerischem
@@ -41,6 +43,7 @@ Road Fury ist ein rasanter Top-Down-Vertical-Shooter, in dem du ein schwer
     Distanz. Wenn du ihre Muster kennst, kannst du frühzeitig ausweichen und
     gezielt kontern.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Die Steuerung erfolgt per einfacher Ziehbewegung.
@@ -50,15 +53,20 @@ Die Steuerung erfolgt per einfacher Ziehbewegung.
 *   **Schießen:** Deine Standardwaffe feuert automatisch, damit du dich ganz auf
     Ausweichen und Sammeln konzentrieren kannst.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:roadfury:q-how-do-i-shoot-c2825cb2 -->
 *   **F: Wie feuere ich meine Waffe?**
     *   **A:** Gar nicht – dein Auto schießt automatisch. Du kümmerst dich nur
         um Positionierung.
+<!-- i18n:faq:id=faq:roadfury:q-what-are-the-floating-4c959fb6 -->
 *   **F: Was sind die schwebenden Symbole auf der Straße?**
     *   **A:** Das sind Power-ups. Fahre darüber, um Schilde, Raketen,
         Reparatur-Kits oder Münzmagnete zu erhalten.
+<!-- i18n:faq:id=faq:roadfury:q-what-is-the-best-3ed21c46 -->
 *   **F: Was ist das wichtigste Upgrade?**
     *   **A:** Zu Beginn lohnt es sich, den Schaden deiner Hauptwaffe zu
         erhöhen, damit du Gegner schneller zerstörst und mehr Münzen bekommst.
         Danach ist zusätzliche Panzerung entscheidend, um länger durchzuhalten.
+

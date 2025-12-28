@@ -18,6 +18,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 "Rocket League" ist ein rasantes Mix aus Fußball und Rennspiel. Du steuerst
@@ -50,6 +51,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 *   **Flugkontrolle:** Mit Lenk- und Kippkontrollen kannst du dein Auto in der
     Luft ausrichten, um den Ball optimal zu treffen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
 1.  **F: Wie treffe ich den Ball in der Luft?**
@@ -66,3 +68,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
     **A:** Trainiere gezielt Grundmechaniken, spiele Free-Play zum Ballgefühl,
     schau dir Replays starker Spieler an und konzentriere dich auf gutes
     Positions- und Boost-Management.
+

@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Reversi Mania ist eine klassische Umsetzung von Reversi, auch bekannt als
@@ -26,6 +27,7 @@ Reversi Mania ist eine klassische Umsetzung von Reversi, auch bekannt als
  passen. Das Spiel endet, wenn keiner mehr legen kann – meist, wenn das Brett
  voll ist –, und wer dann mehr Steine besitzt, gewinnt.
 
+<!-- i18n:section:tips -->
 ### Strategien & Spieltipps
 
 1.  **Ecken sind König:** Steine in den vier Ecken können nicht mehr gedreht
@@ -44,6 +46,7 @@ Reversi Mania ist eine klassische Umsetzung von Reversi, auch bekannt als
     letzten Zug zu haben. Wer die Parität (gerade/ungerade Anzahl freier
     Felder) kontrolliert, entscheidet oft die Schlussphase.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Stein setzen:** Klicke oder tippe auf ein gültiges Feld. Ein gültiger Zug
@@ -53,23 +56,29 @@ Reversi Mania ist eine klassische Umsetzung von Reversi, auch bekannt als
 - **Modi:** Üblich sind Einzelspieler gegen KI und lokaler 2‑Spieler-Modus am
   selben Gerät.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:reversi-mania:what-makes-a-move-legal-086cedf1 -->
 - **F: Wann ist ein Zug gültig?**
   
   Wenn du mit deinem Stein in mindestens einer Richtung eine ununterbrochene
   Reihe gegnerischer Steine einkesselst, die an einen deiner Steine angrenzt.
 
+<!-- i18n:faq:id=faq:reversi-mania:what-if-neither-side-can-cabe279e -->
 - **F: Was passiert, wenn keiner mehr ziehen kann?**
   
   Das Spiel endet und die Farbe mit mehr Steinen auf dem Brett gewinnt.
 
+<!-- i18n:faq:id=faq:reversi-mania:is-going-first-stronger-cfd85fbd -->
 - **F: Hat der Startspieler einen Vorteil?**
   
   Der erste Zug bringt Initiative, aber Entscheidung bringen vor allem
   Eckenbesitz, Mobilität und Paritätskontrolle.
 
+<!-- i18n:faq:id=faq:reversi-mania:any-quick-tip-for-beginners-955da046 -->
 - **F: Ein Tipp für Anfänger?**
   
   Drehe nicht zu früh „alles“, sondern halte das Brett flexibel, meide
   X-Felder, bis du Ecken sicher übernehmen kannst.
+

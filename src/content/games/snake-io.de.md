@@ -18,6 +18,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 Snake.io setzt auf das bekannte Snake-Konzept, aber als Echtzeit-Online-Duell.
@@ -35,11 +36,14 @@ Dein Hauptziel ist Wachstum. Normale Pellets bringen stetig Länge, die
  deinen Körper zu fahren. Stirbt eine Schlange, bleibt eine lange Spur aus
  Pellets zurück – ein begehrter Hotspot, aber auch ein gefährlicher.
 
+<!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `WASD`
 
 **PC/Browser:**
 - **Maus:** Deine Schlange folgt dem Mauszeiger.
-- **Tastatur:** Alternativ kannst du mit `WASD` oder den Pfeiltasten steuern.
+- **Tastatur:** Alternativ kannst du mit WASD oder den Pfeiltasten steuern.
 - **Speed-Boost:** Halte die linke Maustaste oder die Leertaste gedrückt, um
   kurzzeitig zu beschleunigen. Der Boost verbraucht allerdings Masse.
 
@@ -47,6 +51,7 @@ Dein Hauptziel ist Wachstum. Normale Pellets bringen stetig Länge, die
 - Nutze das virtuelle Steuerkreuz bzw. ziehe den Finger auf dem Screen, um die
   Schlange zu lenken.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
 **Ist Snake.io echtes Multiplayer?**
@@ -62,3 +67,4 @@ Das Grundprinzip ist ähnlich, Snake.io bietet aber je nach Version andere
 
 Ihr könnt euch in dieselbe Runde einloggen und um den höchsten Score wetteifern
  – wer die größte Schlange wird, gewinnt das inoffizielle Duell.
+

@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 "Rooftop Snipers 2" ist ein herrlich chaotischer, physikbasierter Shooter.
@@ -50,6 +51,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 *   **Waffenwechsel (je nach Modus):** In manchen Varianten rotieren Waffen
     automatisch oder lassen sich aktiv wechseln.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
 1.  **F: Wie verhindere ich, dass ich selbst vom Dach falle?**
@@ -64,3 +66,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 4.  **F: Gibt es unterschiedliche Karten?**
     **A:** In der Regel ja – verschiedene Dachlandschaften bieten unterschiedliche
     Plattformgrößen, Höhen und Hindernisse.
+

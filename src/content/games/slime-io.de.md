@@ -16,6 +16,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Slime.io ist ein 3D-Arcadespiel aus der beliebten .io-Reihe. Du startest als
@@ -25,6 +26,7 @@ Slime.io ist ein 3D-Arcadespiel aus der beliebten .io-Reihe. Du startest als
  bis hin zu ganzen Gebäuden. Gleichzeitig triffst du auf andere Spieler, die
  du fressen kannst oder vor denen du fliehen musst.
 
+<!-- i18n:section:tips -->
 ### Strategien & Spieltipps
 
 1.  **Klein anfangen:** Am Anfang bist du verletzlich. Konzentriere dich auf
@@ -40,6 +42,7 @@ Slime.io ist ein 3D-Arcadespiel aus der beliebten .io-Reihe. Du startest als
     die meisten Punkte hat, gewinnt. Nutze deine Zeit effizient und verbringe
     nicht zu lange in bereits leergefegten Bereichen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Die Steuerung erfolgt per einfacher Ziehbewegung.
@@ -48,14 +51,19 @@ Die Steuerung erfolgt per einfacher Ziehbewegung.
     Touchscreen) und ziehe in die Richtung, in die sich dein Slime bewegen
     soll.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:slime-io:q-how-do-i-grow-2d51df97 -->
 *   **F: Wie werde ich schnell groß?**
     *   **A:** Suche nach Objektansammlungen oder den Resten gerade gestorbener
         Großschleime – dort liegen viele Punkte auf engem Raum.
+<!-- i18n:faq:id=faq:slime-io:q-can-i-eat-other-10258eb5 -->
 *   **F: Kann ich andere Spieler fressen?**
     *   **A:** Ja, solange sie deutlich kleiner sind als du. Umgekehrt können
         dich größere Slimes genauso verschlingen.
+<!-- i18n:faq:id=faq:slime-io:q-how-do-i-win-82c5f7c2 -->
 *   **F: Wie gewinne ich eine Runde?**
     *   **A:** Indem du am Ende der Zeit den höchsten Punktestand hast – also
         mehr Objekte und Spieler verschlungen hast als deine Konkurrenz.
+

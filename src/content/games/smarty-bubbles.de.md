@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Smarty Bubbles ist ein sauber gestalteter, sehr süchtig machender
@@ -26,6 +27,7 @@ Smarty Bubbles ist ein sauber gestalteter, sehr süchtig machender
  oder mehr Blasen derselben Farbe, platzen diese und verschwinden. Fehlschüsse
  lassen die Decke nach unten wandern und erhöhen den Druck.
 
+<!-- i18n:section:tips -->
 ### Strategien & Spieltipps
 
 1.  **Fehlschüsse im Blick:** Nach einer bestimmten Anzahl von Schüssen ohne
@@ -41,23 +43,29 @@ Smarty Bubbles ist ein sauber gestalteter, sehr süchtig machender
     deine Schüsse so, dass du mit der zukünftigen Blase gute Anschlusszüge
     hast.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 *   **Zielen:** Bewege die Maus, um die Kanone auszurichten; eine Linie
     markiert die Flugbahn.
 *   **Schießen:** Klicke mit der linken Maustaste, um eine Blase zu feuern.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:smarty-bubbles:q-why-did-a-new-84bb895b -->
 *   **F: Warum erscheint plötzlich eine neue Blasenreihe?**
     *   **A:** Du hast zu viele Schüsse ohne Treffer abgegeben. Nach einer gewissen
     Anzahl an Misses schiebt das Spiel eine neue Reihe von oben nach.
 
+<!-- i18n:faq:id=faq:smarty-bubbles:q-what-is-the-goal-ab58581b -->
 *   **F: Was ist das Ziel des Spiels?**
     *   **A:** Alle Blasen vom Spielfeld zu entfernen. Das Spiel ist endlos – dein
     eigentliches Ziel ist es, so lange wie möglich durchzuhalten und dabei
     einen hohen Score zu erreichen.
 
+<!-- i18n:faq:id=faq:smarty-bubbles:q-how-do-i-get-73fd7840 -->
 *   **F: Wie bekomme ich viele Punkte?**
     *   **A:** Versuche, mit einem Schuss große Bereiche zum Einsturz zu bringen.
     Je mehr Blasen in einer Kettenreaktion fallen, desto höher dein Bonus.
+

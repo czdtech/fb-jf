@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 "Slope 3" führt die bekannte Formel der Reihe fort und legt bei Optik und
@@ -49,6 +50,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 *   **Schnell reagieren:** Reagiere früh auf absehbare Hindernisse – spätes
     Ausweichen ist bei hoher Geschwindigkeit selten erfolgreich.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
 1.  **F: Was ist neu im Vergleich zu früheren Teilen?**
@@ -63,3 +65,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 4.  **F: Wird mein Fortschritt gespeichert?**
     **A:** Üblicherweise werden Highscores und Achievements gespeichert, der
     Endloslauf selbst beginnt aber bei jedem Start von vorn.
+

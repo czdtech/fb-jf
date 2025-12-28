@@ -19,6 +19,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 Snow Rider 3D ist ein schneller Winter-Arcade-Runner, in dem du mit einem
@@ -35,13 +36,17 @@ Dein Score hängt von der zurückgelegten Strecke ab. Schaue weit nach vorn, um
  über große Hindernisfelder zu springen oder riskante Stellen zu umgehen. Die
  gesammelten Geschenke dienen als Währung für neue Schlitten mit frischem Look.
 
+<!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `A` `Left Arrow` `D` `Right Arrow` `W` `Up Arrow`
 
 Die Steuerung ist einfach und direkt:
-- **Links lenken:** `A` oder Pfeil nach links.
-- **Rechts lenken:** `D` oder Pfeil nach rechts.
-- **Springen:** `W` oder Pfeil nach oben.
+- **Links lenken:** A oder Pfeil nach links.
+- **Rechts lenken:** D oder Pfeil nach rechts.
+- **Springen:** W oder Pfeil nach oben.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
 **Was ist das Hauptziel in Snow Rider 3D?**
@@ -59,3 +64,4 @@ Sammle die Geschenke, die auf der Piste verteilt sind. Mit genug Geschenken
 Konzentriere dich zuerst auf sauberes Ausweichen. Kleine, kontrollierte
  Steuerbewegungen sind besser als harte Richtungswechsel. Riskiere Sprünge über
  Rampen nur, wenn du die Landung gut einschätzen kannst.
+

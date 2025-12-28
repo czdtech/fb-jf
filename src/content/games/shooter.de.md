@@ -18,6 +18,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 "Five Nights at Freddy's Shooter" ist ein Spin-off im FNAF-Universum und
@@ -49,6 +50,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 *   **Waffen wechseln:** Mit Zahlentasten oder Mausrad wechselst du zwischen
     deinen Waffen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
 1.  **F: Wie überlebe ich länger?**
@@ -64,3 +66,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 4.  **F: Was tue ich bei vielen Gegnern auf einmal?**
     **A:** Halte die Nerven, arbeite dich von den nächsten Zielen nach außen
     vor und nutze Engstellen oder Deckung, um sie zu bündeln.
+

@@ -13,10 +13,12 @@ score: 4.0/5  (1885 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Detaillierte Spieleinführung
 
 Solitaire 0-21 kombiniert das Layout eines Solitaire-Spiels mit strengen Zahlenlimits. Du legst Zahlenkarten in Reihen, wobei die laufenden Summen immer im Bereich von 0 bis 21 bleiben müssen. Modifikatoren wie Plus-, Minus- oder Multiplikationskarten und spezielle Effekte machen die Planung knifflig. Gute Züge schaffen sichere Zwischenschritte und lassen zugleich Platz für spätere, größere Sprünge.
 
+<!-- i18n:section:tips -->
 ### Spielstrategie & Walkthrough
 
 1.  **Puffer lassen:** Spiele deine Reihen nicht direkt an die Grenzen 0 oder 21 heran. Ein bisschen Spielraum verhindert, dass du dich früh blockierst.
@@ -25,20 +27,26 @@ Solitaire 0-21 kombiniert das Layout eines Solitaire-Spiels mit strengen Zahlenl
 4.  **Hohe Karten zurückhalten:** Behalte hohe Werte zunächst auf der Hand beziehungsweise im Vorrat, bis du genug negative Karten hast, um sie auszugleichen.
 5.  **Rückgängig-Funktion klug nutzen:** Wenn du merkst, dass eine Reihe „zugenagelt“ ist, nutze sofort Rückgängig, statt den Fehler mitzuschleppen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Klicke oder ziehe Karten auf die gewünschte Reihe und nutze bei Bedarf die Undo- oder Hinweis-Funktionen im Interface.
 
+<!-- i18n:section:faq -->
 ### Häufig gestellte Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:solitaire-0-21:totals-keep-busting-a8b7e346 -->
 - **F: Meine Reihen gehen ständig über 21 oder unter 0.**
   
   **A:** Du spielst zu nah an den Grenzen. Lass immer etwas Luft und setze Modifikatoren überlegt ein, statt sie sofort zu verschwenden.
 
+<!-- i18n:faq:id=faq:solitaire-0-21:best-way-to-use-negatives-0969db9d -->
 - **F: Wie nutze ich Negativkarten am besten?**
   
   **A:** Kombiniere sie mit hohen Karten in derselben Reihe, um wieder mehr Spielraum nach oben zu bekommen.
 
+<!-- i18n:faq:id=faq:solitaire-0-21:is-luck-dominant-bed2b357 -->
 - **F: Ist das Spiel hauptsächlich glücksabhängig?**
   
   **A:** Die Ziehung der Karten enthält Zufall, aber deine Platzierungsstrategie hat großen Einfluss darauf, wie oft du ein Level schaffst.
+

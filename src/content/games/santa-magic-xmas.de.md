@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Santa Magic Xmas ist ein fröhliches Weihnachts-Match-3, das dich direkt in
@@ -26,6 +27,7 @@ Santa Magic Xmas ist ein fröhliches Weihnachts-Match-3, das dich direkt in
  des Spielfelds ab und erfüllst Levelziele, damit alle Geschenke pünktlich
  ankommen.
 
+<!-- i18n:section:tips -->
 ### Strategien & Spieltipps
 
 1.  **Power-ups erzeugen:** Größere Kombinationen erzeugen Spezialsteine.
@@ -45,6 +47,7 @@ Santa Magic Xmas ist ein fröhliches Weihnachts-Match-3, das dich direkt in
     Kettenreaktionen, weil neue Steine nachfallen und automatisch weitere
     Kombinationen bilden.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Gespielt wird mit einer einfachen Tausch-Mechanik.
@@ -52,16 +55,21 @@ Gespielt wird mit einer einfachen Tausch-Mechanik.
 *   **Tauschen:** Klicke auf ein Symbol und ziehe es auf ein benachbartes. Der
     Tausch findet nur statt, wenn dabei ein gültiges Match entsteht.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:santa-magic-xmas:q-how-do-i-break-3176561d -->
 *   **F: Wie entferne ich Eisblöcke?**
     *   **A:** Erzeuge ein Match direkt neben dem Eis oder darauf. Mehrere Treffer
         sind nötig, um dickes Eis komplett zu entfernen.
 
+<!-- i18n:faq:id=faq:santa-magic-xmas:q-what-is-the-most-eca73219 -->
 *   **F: Was ist die stärkste Kombination?**
     *   **A:** Zwei Farb‑Bomben zusammen räumen in der Regel das gesamte Board –
         perfekt, wenn du kurz vor dem Scheitern stehst.
 
+<!-- i18n:faq:id=faq:santa-magic-xmas:q-what-happens-if-i-63c9772b -->
 *   **F: Was passiert, wenn mir die Züge ausgehen?**
     *   **A:** Hast du das Ziel bis dahin nicht erreicht, musst du das Level neu
         starten (oder je nach Version zusätzliche Züge kaufen).
+

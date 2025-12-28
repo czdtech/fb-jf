@@ -18,6 +18,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 "Slope" ist der erste Teil der Reihe und ein purer, minimalistischer
@@ -46,6 +47,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 *   **Weiche Bewegungen:** Nutze kleine, stetige Korrekturen statt abrupter
     Richtungswechsel.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
 1.  **F: Wie verbessere ich meinen Highscore?**
@@ -61,3 +63,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 4.  **F: Hat das Spiel ein Ende?**
     **A:** Nein, Slope ist ein Endlosspiel. Ziel ist es, möglichst lange zu
     überleben und immer neue Bestwerte aufzustellen.
+

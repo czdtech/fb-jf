@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 "Retro Bowl" kombiniert Teammanagement mit Arcade-Football. Du agierst sowohl
@@ -54,6 +55,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 *   **Play-Calling:** Vor jedem Down wählst du einen Spielzug aus
     (Pass-/Laufspiel, Defense-Varianten je nach Version).
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
 1.  **F: Wie verbessere ich meine Passgenauigkeit?**
@@ -68,3 +70,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 4.  **F: Können sich Spieler verletzen?**
     **A:** Ja, Verletzungen beeinflussen Leistung und Verfügbarkeit. Plane
     genügend Tiefe im Kader ein und rotiere angeschlagene Spieler rechtzeitig.
+

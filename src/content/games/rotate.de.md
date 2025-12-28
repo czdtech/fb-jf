@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 "Rotate" ist ein Physik-Puzzle, bei dem du nicht direkt die Kugel, sondern die
@@ -49,6 +50,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 *   **Pause:** Nutze die Pausefunktion, um in Ruhe über den nächsten Schritt
     nachzudenken.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
 1.  **F: Die Kugel fällt ständig aus dem Level – was mache ich falsch?**
@@ -66,3 +68,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 4.  **F: Wie viele Level gibt es?**
     **A:** Rotate umfasst in der Regel mehrere Welten mit dutzenden Leveln, deren
     Schwierigkeit nach und nach anzieht.
+

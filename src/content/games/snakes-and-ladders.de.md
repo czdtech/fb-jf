@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 Snakes and Ladders ist ein zeitloser Brettspiel-Klassiker (in manchen Regionen
@@ -24,8 +25,9 @@ Snakes and Ladders ist ein zeitloser Brettspiel-Klassiker (in manchen Regionen
  Spieler würfeln reihum und versuchen, als Erste das letzte Feld des Brettes zu
  erreichen. Leitern bringen dich in einem Zug weit nach vorne, während Schlangen
  dich schmerzhaft nach unten rutschen lassen – der Ausgang hängt ganz vom Glück
- deiner Würfe ab.
+deiner Würfe ab.
 
+<!-- i18n:section:tips -->
 ### Gameplay-Guide
 
 Ziel ist es, als Erster das Zielfeld – meist Feld 100 – zu erreichen.
@@ -34,11 +36,13 @@ Ziel ist es, als Erster das Zielfeld – meist Feld 100 – zu erreichen.
  sofort zum oberen Ende der Leiter auf. Landest du auf einem Feld mit
  Schlangenkopf, rutschst du hinunter zum Feld am Schwanzende.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Maus/Touch:** Tippe oder klicke auf das Würfelfeld, um zu würfeln. Die
   Spielfiguren bewegen sich automatisch.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
 **Was ist das Ziel von Snakes and Ladders?**

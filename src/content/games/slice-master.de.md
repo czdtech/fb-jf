@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 "Slice Master" ist ein Physik-basiertes Geschicklichkeitsspiel, in dem du ein
@@ -46,6 +47,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 *   **Winkel anpassen:** Durch Ziehen oder Halten bestimmst du, wie das Messer
     auftrifft und welche Bahn es nimmt.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
 1.  **F: Wie gelingen perfekte Schnitte?**
@@ -61,3 +63,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 4.  **F: Wie steigere ich meine Punktzahl?**
     **A:** Baue lange Kombos ohne Fehlschlag auf, sammle Bonusobjekte und
     vermeide Kollisionen, damit dein Multiplikator nicht abbricht.
+

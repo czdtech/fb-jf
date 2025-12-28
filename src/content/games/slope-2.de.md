@@ -18,6 +18,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 "Slope 2" knüpft direkt an den Originalhit „Slope“ an: Du kontrollierst eine
@@ -48,6 +49,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 *   **Sprung (falls vorhanden):** In manchen Varianten kannst du mit einer
     Sprungtaste kleine Lücken überspringen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
 1.  **F: Wie überlebe ich länger?**
@@ -62,3 +64,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 4.  **F: Gibt es Highscore-Listen?**
     **A:** Ja, deine Bestwerte werden gespeichert – ideal, um dich selbst oder
     Freunde zu übertreffen.
+

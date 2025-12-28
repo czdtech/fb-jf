@@ -13,23 +13,29 @@ score: 4.1/5  (594 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 Soccer Random ist ein witziges, physikbasiertes Fußballspiel mit extrem einfachem Ein-Tasten-Gameplay. Dein Ziel ist simpel: Schieße fünf Tore, bevor dein Gegner es schafft. Der Clou: Nach fast jedem Tor ändern sich Spielfeld, Balltyp und sogar die Spielerfigur – du musst dich ständig neu an die verrückten Bedingungen anpassen.
 
+<!-- i18n:section:tips -->
 ### Spielanleitung
 
 Die erste Person bzw. das erste Team, das 5 Tore erzielt, gewinnt das Match. Du kannst deine beiden Spieler nur gleichzeitig springen und schießen lassen – mehr Kontrolle hast du nicht. Die Herausforderung kommt durch die überdrehte Physik und die unberechenbaren Situationen: Mal spielst du auf rutschigem Eis, kurz darauf vielleicht am Strand. Nutze deine Taste im richtigen Timing, um den Ball anzugreifen, aber auch, um dein Tor zu verteidigen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `W` `Up Arrow`
 
 Das Spiel ist sehr einfach zu bedienen und kann allein oder zu zweit an einer Tastatur gespielt werden.
 
-- **Spieler 1:** Taste `W`
-- **Spieler 2:** `Pfeil nach oben`
+- **Spieler 1:** Taste W
+- **Spieler 2:** Pfeil nach oben
 
 Drücke deine Taste, damit deine Spieler springen und gleichzeitig schießen.
 
+<!-- i18n:section:faq -->
 ### Häufig gestellte Fragen (FAQ)
 
 **Was ist das Ziel von Soccer Random?**
@@ -43,3 +49,4 @@ Du kannst alleine gegen den Computer antreten oder im 2-Spieler-Modus zusammen m
 **Warum ändert sich das Spiel ständig?**
 
 Genau das macht den Reiz aus! Spielfelder, Spieler und Bälle können nach jedem Tor wechseln. Dadurch gleicht kein Match dem anderen, und das Chaos bleibt immer lustig und unvorhersehbar.
+

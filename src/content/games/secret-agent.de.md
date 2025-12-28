@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Secret Agent verbindet Stealth-Gameplay mit leichten Routen-Puzzles. Du
@@ -23,6 +24,7 @@ Secret Agent verbindet Stealth-Gameplay mit leichten Routen-Puzzles. Du
  Informationen ein, bevor du unauffällig entkommst. Saubere Laufwege und
  gut getimte Gadget-Einsätze sind wichtiger als rohe Gewalt.
 
+<!-- i18n:section:tips -->
 ### Strategien & Spieltipps
 
 1.  **Sichtkegel lesen:** Bewege dich nur, wenn die Blickfelder der Wachen sich
@@ -36,6 +38,7 @@ Secret Agent verbindet Stealth-Gameplay mit leichten Routen-Puzzles. Du
 5.  **Nach Alarm ruhig bleiben:** Wirst du entdeckt, suche zuerst Deckung und
     brich die Sichtlinie, statt kopflos loszurennen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Bewegen:** Mit WASD oder Pfeiltasten steuerst du deinen Agenten.
@@ -46,20 +49,25 @@ Secret Agent verbindet Stealth-Gameplay mit leichten Routen-Puzzles. Du
 - **Neustart:** Über das Menü kannst du ein Level schnell neu starten, wenn ein
   Plan schiefgeht.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:secret-agent:im-always-spotted-afdb7849 -->
 - **F: Ich werde ständig entdeckt – Tipps?**
   
   Beobachte zunächst eine Weile nur die Patrouillen und bewege dich im Takt
   ihrer Zyklen. Nutze Ecken und Schatten, um dich zwischen Sichtkegeln zu
   bewegen.
 
+<!-- i18n:faq:id=faq:secret-agent:gadgets-feel-scarce-dd404211 -->
 - **F: Meine Gadgets reichen nie aus.**
   
   Nutze sie nur in Räumen, die sich ohne Hilfsmittel kaum lösen lassen, und
   verlasse dich ansonsten auf Timing und Positionierung.
 
+<!-- i18n:faq:id=faq:secret-agent:can-i-ghost-levels-337f3b17 -->
 - **F: Kann ich Level komplett „ghosten“?**
   
   Viele Versionen belohnen dich mit Boni, wenn du ein Level ohne Alarm oder
   Treffer abschließt – ein gutes Ziel, wenn du die Grundlagen drauf hast.
+

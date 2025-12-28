@@ -18,6 +18,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Scooter Xtreme 3D ist ein actionreicher Stunt- und Rennspaß auf dem Roller.
@@ -26,6 +27,7 @@ Scooter Xtreme 3D ist ein actionreicher Stunt- und Rennspaß auf dem Roller.
  bis ins Ziel vor. Mit deinen Einnahmen schaltest du neue Scooter und Fahrer
  frei und wirst nach und nach zum ultimativen Scooter-Champion.
 
+<!-- i18n:section:tips -->
 ### Strategien & Spieltipps
 
 1.  **Grundsteuerung meistern:** Bevor du komplexe Tricks versuchst, übe
@@ -41,6 +43,7 @@ Scooter Xtreme 3D ist ein actionreicher Stunt- und Rennspaß auf dem Roller.
     (z. B. Geschwindigkeit oder Trick-Fähigkeit). Wähle das Modell, das am
     besten zu deinem Stil und zum Levelziel passt.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 *   **Gas geben:** Mit **W** oder Pfeil hoch beschleunigst du.
@@ -51,17 +54,22 @@ Scooter Xtreme 3D ist ein actionreicher Stunt- und Rennspaß auf dem Roller.
 *   **Tricks:** In der Luft oder auf Rails kannst du über eingeblendete
     Tastenbelegungen verschiedene Stunts ausführen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:scooter-xtreme:q-how-do-i-get-698432e6 -->
 *   **F: Wie bekomme ich mehr Punkte?**
     *   **A:** Verbinde mehrere Tricks zu langen Combos und lande sauber, ohne zu
         stürzen. Dein Multiplikator steigt mit der Länge und Vielfalt der
         Trickabfolge.
 
+<!-- i18n:faq:id=faq:scooter-xtreme:q-what-happens-if-i-6bc9b5f2 -->
 *   **F: Was passiert bei einem Sturz?**
     *   **A:** Du wirst meist zum letzten Checkpoint zurückgesetzt, verlierst
         wertvolle Zeit und deine aktuelle Combo.
 
+<!-- i18n:faq:id=faq:scooter-xtreme:q-how-do-i-unlock-513b69ba -->
 *   **F: Wie schalte ich neue Charaktere und Scooter frei?**
     *   **A:** Sammle Münzen, die in den Leveln verteilt sind. Wenn du genug
         hast, kannst du im Ingame‑Shop neue Scooter und Fahrer kaufen.
+

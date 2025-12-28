@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Snowboard King 2024 ist ein rasanter Arcade-Ride den Berg hinunter. Du fährst
@@ -26,6 +27,7 @@ Snowboard King 2024 ist ein rasanter Arcade-Ride den Berg hinunter. Du fährst
  du Münzen, mit denen du deine Fähigkeiten verbessern und dir den Titel des
  Snowboard King verdienen kannst.
 
+<!-- i18n:section:tips -->
 ### Strategien & Spieltipps
 
 1.  **Weit voraus schauen:** Richte den Blick möglichst weit nach unten, um
@@ -40,6 +42,7 @@ Snowboard King 2024 ist ein rasanter Arcade-Ride den Berg hinunter. Du fährst
     Werte wie Carve (Lenkgeschwindigkeit) und Boost-Dauer, damit spätere Runs
     leichter fallen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 *   **Lenken:** Mit **A/D** oder den Pfeiltasten links/rechts steuerst du dein
@@ -47,15 +50,20 @@ Snowboard King 2024 ist ein rasanter Arcade-Ride den Berg hinunter. Du fährst
 *   **Boost:** Mit der **Leertaste** aktivierst du einen temporären
     Geschwindigkeitsschub.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:snowboard-king-2024:q-what-is-the-main-212faaec -->
 *   **F: Was ist das Hauptziel?**
     *   **A:** So weit wie möglich den Berg hinabzufahren, ohne zu stürzen oder von
     der Lawine eingeholt zu werden.
 
+<!-- i18n:faq:id=faq:snowboard-king-2024:q-what-happens-if-i-39e62d3f -->
 *   **F: Was passiert bei einem Crash?**
     *   **A:** Du prallst gegen das Hindernis und dein Lauf ist beendet.
 
+<!-- i18n:faq:id=faq:snowboard-king-2024:q-how-do-i-get-698432e6 -->
 *   **F: Wie steigere ich meinen Score?**
     *   **A:** Dein Punktestand richtet sich nach der Distanz. Upgrades, gutes
     Ausweichen und klug eingesetzter Boost helfen, weiter zu kommen.
+

@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Retro Drift ist ein minimalistisches Rennspiel aus der Vogelperspektive mit
@@ -25,6 +26,7 @@ Retro Drift ist ein minimalistisches Rennspiel aus der Vogelperspektive mit
  Gaspedal-Management, richtiges Gegenlenken und eine saubere Kurvenausfahrt
  entscheiden über Rundenzeiten und Punktemultiplikatoren.
 
+<!-- i18n:section:tips -->
 ### Strategien & Spieltipps
 
 1.  **Langsam rein, schnell raus:** Nimm am Kurveneingang lieber etwas Tempo
@@ -39,6 +41,7 @@ Retro Drift ist ein minimalistisches Rennspiel aus der Vogelperspektive mit
 5.  **Strecken lernen:** Wiederholung hilft, Bremspunkte, Apex und ideale
     Linien zu verinnerlichen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Lenken:** A/D oder Pfeil links/rechts.
@@ -46,20 +49,25 @@ Retro Drift ist ein minimalistisches Rennspiel aus der Vogelperspektive mit
 - **Handbremse (wenn verfügbar):** Mit Leertaste kannst du das Auto schärfer
   anrotieren, um enge Kurven einzuleiten.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:retro-drift:i-keep-spinningwhy-68807685 -->
 - **F: Ich drehe mich ständig – warum?**
   
   Wahrscheinlich gibst du zu früh oder zu viel Gas und lenkst zu spät gegen.
   Versuche weichere Eingaben und früheres Gegenlenken.
 
+<!-- i18n:faq:id=faq:retro-drift:best-way-to-link-corners-be5683e8 -->
 - **F: Wie verknüpfe ich mehrere Kurven?**
   
   Konzentriere dich auf die Kurvenausfahrt von Kurve A, damit du direkt in
   einer passenden Linie in Kurve B hineinrutschst – vermeide, dazwischen völlig
   auszubeschleunigen.
 
+<!-- i18n:faq:id=faq:retro-drift:are-upgrades-available-67e52001 -->
 - **F: Gibt es Upgrades?**
   
   Manche Versionen bieten neue Fahrzeuge oder leichte Upgrades – der wichtigste
   „Boost“ bleibt aber deine fahrerische Konstanz.
+

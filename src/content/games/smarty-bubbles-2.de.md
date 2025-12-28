@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Smarty Bubbles 2 knüpft an den Klassiker an und erweitert ihn um ein
@@ -26,6 +27,7 @@ Smarty Bubbles 2 knüpft an den Klassiker an und erweitert ihn um ein
  setzt stärker auf Planung, Kettenreaktionen und ein gutes Miss-Management, um
  zu verhindern, dass die Decke zu weit nach unten rutscht.
 
+<!-- i18n:section:tips -->
 ### Strategien & Spieltipps
 
 1.  **Fehlschüsse vermeiden:** Jeder Schuss, der keine Blasen platzen lässt,
@@ -42,22 +44,28 @@ Smarty Bubbles 2 knüpft an den Klassiker an und erweitert ihn um ein
     diese Information, um ein oder zwei Züge im Voraus zu denken. Manchmal lohnt
     sich ein „mittelguter“ Schuss jetzt, um den perfekten nächsten vorzubereiten.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 *   **Zielen:** Bewege die Maus, um die Kanone auszurichten. Eine Hilfslinie
     zeigt dir die Flugbahn.
 *   **Schießen:** Klicke mit der linken Maustaste, um die Blase abzufeuern.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:smarty-bubbles-2:q-why-did-a-new-be29edcb -->
 *   **F: Warum erscheinen neue Reihen am oberen Rand?**
     *   **A:** Du hast zu viele Schüsse ohne Treffer abgegeben. Nach einer festen
     Anzahl von Fehlschüssen fügt das Spiel eine neue Reihe hinzu.
 
+<!-- i18n:faq:id=faq:smarty-bubbles-2:q-what-is-the-goal-ab58581b -->
 *   **F: Was ist das Ziel des Spiels?**
     *   **A:** Alle Blasen auf dem Spielfeld zu entfernen, um das Level
     abzuschließen und zum nächsten zu gelangen.
 
+<!-- i18n:faq:id=faq:smarty-bubbles-2:q-how-do-i-get-73fd7840 -->
 *   **F: Wie erreiche ich hohe Punktzahlen?**
     *   **A:** Indem du in wenigen Schüssen große Cluster zum Einsturz bringst.
     Je mehr Blasen gleichzeitig fallen, desto höher dein Score.
+

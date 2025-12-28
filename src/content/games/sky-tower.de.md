@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Sky Tower fordert dich heraus, Stockwerke präzise aufeinander zu stapeln. Ein
@@ -26,6 +27,7 @@ Sky Tower fordert dich heraus, Stockwerke präzise aufeinander zu stapeln. Ein
  zentriert, baut einen hohen, stabilen Turm – wer ungenau ist, schrumpft das
  Fundament und endet schnell im Game Over.
 
+<!-- i18n:section:tips -->
 ### Strategien & Spieltipps
 
 1.  **Fixpunkte nutzen:** Orientiere dich an Details im Hintergrund (z. B.
@@ -43,6 +45,7 @@ Sky Tower fordert dich heraus, Stockwerke präzise aufeinander zu stapeln. Ein
 5.  **Geduldig mit Boni:** Jag nicht bei wackeligem Turm nebenbei Münzen oder
     Extras – stabilisiere zuerst, dann sammle.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Stockwerk abwerfen:** Tippe oder klicke, um das aktuelle Stockwerk fallen
@@ -50,19 +53,24 @@ Sky Tower fordert dich heraus, Stockwerke präzise aufeinander zu stapeln. Ein
 - **Menü/Neustart:** Über die UI kannst du pausieren oder einen neuen Versuch
   starten.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:sky-tower:my-tower-shrinks-fast-b1c4d991 -->
 - **F: Mein Turm wird schnell immer kleiner – warum?**
   
   Deine Drops sind zu früh oder zu spät. Such dir einen festen visuellen
   Anhaltspunkt und versuche, immer im gleichen Moment zu klicken.
 
+<!-- i18n:faq:id=faq:sky-tower:any-way-to-recover-d502538f -->
 - **F: Kann ich mich nach einem misslungenen Drop erholen?**
   
   Ja – konzentriere dich ein paar Stockwerke lang auf perfekte Zentrierung,
   damit die Plattform wieder etwas breiter wird.
 
+<!-- i18n:faq:id=faq:sky-tower:is-speed-important-fcd4f607 -->
 - **F: Muss ich schnell spielen?**
   
   Nein, wichtig ist Präzision. Wer konstant gut zentriert, baut automatisch
   einen hohen Turm.
+

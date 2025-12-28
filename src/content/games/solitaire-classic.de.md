@@ -16,10 +16,12 @@ score: 4.7/5  (3100 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Detaillierte Spieleinführung
 
 Solitaire Classic, auch als Klondike bekannt, ist eines der bekanntesten und beliebtesten Einzelspieler-Kartenspiele der Welt. Dein Ziel ist es, ein gemischtes 52-Karten-Deck in vier Ablagestapel zu sortieren – einen pro Farbe – in aufsteigender Reihenfolge von Ass bis König. Dabei brauchst du Strategie, Geduld und ein bisschen Glück: Auf dem Tableau musst du geschickt Karten verschieben, verdeckte Karten freilegen und Schritt für Schritt deine Ablagen aufbauen.
 
+<!-- i18n:section:tips -->
 ### Spielstrategie & Walkthrough
 
 1.  **Spielelemente verstehen:**
@@ -35,19 +37,25 @@ Solitaire Classic, auch als Klondike bekannt, ist eines der bekanntesten und bel
     *   **Nachziehstapel nutzen:** Wenn keine sinnvollen Züge mehr im Tableau möglich sind, ziehst du Karten vom Stock. Nutze die aufgedeckten Karten, um neue Reihen zu bauen oder deine Ablagen zu füllen.
     *   **Leere Tableau-Spalten:** Nur ein König oder eine geordnete Sequenz, die mit einem König beginnt, darf auf eine leere Spalte gelegt werden.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Karten bewegen:** Klicke und ziehe eine einzelne Karte oder eine gültige Sequenz von einem Stapel zum anderen.
 - **Vom Stock ziehen:** Klicke auf den verdeckten Nachziehstapel, um eine (oder je nach Variante drei) Karte(n) aufzudecken, die auf den Waste-Stapel gelegt werden.
 - **Automatisch auf Ablagen legen:** In vielen digitalen Versionen kannst du eine Karte doppelklicken, damit sie automatisch auf einen gültigen Ablagestapel gelegt wird.
 
+<!-- i18n:section:faq -->
 ### Häufig gestellte Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:solitaire-classic:q-what-is-the-goal-ab58581b -->
 *   **F: Was ist das Ziel des Spiels?**
     *   **A:** Du musst alle 52 Karten auf die vier Ablagestapel legen, nach Farbe sortiert und in Reihenfolge von Ass bis König.
 
+<!-- i18n:faq:id=faq:solitaire-classic:q-what-happens-when-i-e8e69d77 -->
 *   **F: Was passiert, wenn ich keine Züge mehr habe?**
     *   **A:** Wenn du weder auf dem Tableau noch auf den Ablagen weitere Züge machen kannst, musst du Karten vom Nachziehstapel ziehen. Sind auch dort alle Karten aufgedeckt und es gibt trotzdem keine möglichen Züge mehr, ist die Runde verloren.
 
+<!-- i18n:faq:id=faq:solitaire-classic:q-can-i-move-cards-a79d9fc6 -->
 *   **F: Kann ich Karten von den Ablagestapeln zurück auf das Tableau legen?**
     *   **A:** Ja, in den meisten Versionen kannst du die oberste Karte eines Ablagestapels zurück auf das Tableau legen, wenn dir das hilft, verdeckte Karten freizulegen. Das ist oft ein wichtiger strategischer Kniff.
+

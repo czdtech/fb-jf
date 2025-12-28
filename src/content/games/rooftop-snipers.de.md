@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 "Rooftop Snipers" ist der erste Teil der Reihe und ein einfaches, aber
@@ -48,6 +49,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 *   **Kombos:** Bewegen, Springen und Schießen lassen sich gleichzeitig nutzen,
     um schwer vorhersehbare Manöver auszuführen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
 1.  **F: Warum falle immer ich zuerst runter?**
@@ -63,3 +65,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 4.  **F: Gibt es einen Singleplayer-Modus?**
     **A:** Einige Versionen bieten Kämpfe gegen eine einfache KI, der
     Hauptspaß entsteht aber im lokalen Versus-Modus.
+

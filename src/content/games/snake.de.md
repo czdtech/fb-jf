@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 Snake ist einer der bekanntesten Arcade-Klassiker überhaupt. Du steuerst eine
@@ -32,14 +33,18 @@ Die Mechanik ist simpel: Lenke die Schlange zum Futter, ohne dich selbst
  dich selbst läufst. Ziel ist es, so viele Punkte wie möglich zu sammeln, bevor
  das passiert.
 
+<!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `W` `A` `S` `D` `Spacebar`
 
 Die Steuerung ist einfach und intuitiv:
 - **Pfeiltasten:** Steuere die Schlange mit Oben, Unten, Links, Rechts.
-- **WASD:** In vielen Versionen kannst du alternativ `W`, `A`, `S`, `D` nutzen.
+- **WASD:** In vielen Versionen kannst du alternativ W, A, S, D nutzen.
 - **Pause:** Häufig pausierst du das Spiel mit der Leertaste (abhängig von der
   konkreten Variante).
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
 **Was ist das Hauptziel von Snake?**
@@ -57,3 +62,4 @@ Viele Spieler fahren lange Schleifen entlang des Randes oder nutzen ein
 
 Die Idee geht bis auf das Arcade-Spiel „Blockade“ von 1976 zurück, weltberühmt
  wurde Snake aber vor allem durch die Nokia-Handys ab 1998.
+

@@ -13,20 +13,26 @@ score: 4.7/5  (870 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 SocCar ist ein rasantes Hybrid-Sportspiel, das die Geschwindigkeit eines Rennspiels mit dem klassischen Ziel eines Fußballmatches verbindet. Du steuerst ein Auto über ein großes Spielfeld und versuchst, einen riesigen Ball ins Tor deines Gegners zu schießen. Schnelle Reaktionen, clevere Positionierung und gezielte Boosts entscheiden darüber, wer gewinnt.
 
+<!-- i18n:section:tips -->
 ### Spielanleitung
 
 Dein Ziel ist es, innerhalb des Zeitlimits mehr Tore zu erzielen als dein Gegner. In 1-gegen-1- oder 2-gegen-2-Duellen arbeitest du mit deinem Team zusammen, um die andere Seite auszuspielen. Nutze dein Auto, um den Ball zu "dribbeln" oder ihn mit voller Wucht für einen kraftvollen Schuss zu treffen. Entscheidend ist, wann du angreifst und wann du rechtzeitig zurückfährst, um dein eigenes Tor zu verteidigen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `WASD` `Arrow Keys` `Shift` `Spacebar` `Right Mouse Button`
 
-- **Bewegung:** Steuere dein Auto mit `WASD` oder den `Pfeiltasten` über das Feld.
-- **Boost/Dash:** Drücke `Shift` oder die `Leertaste`, um einen Geschwindigkeitsschub zu bekommen – ideal, um zuerst am Ball zu sein oder eine Rettungsaktion vor dem Tor zu machen.
-- **Sprung:** Nutze die `rechte Maustaste` oder die dafür vorgesehene Taste, um dein Auto springen zu lassen und hohe oder fliegende Bälle zu treffen.
+- **Bewegung:** Steuere dein Auto mit WASD oder den Pfeiltasten über das Feld.
+- **Boost/Dash:** Drücke Shift oder die Leertaste, um einen Geschwindigkeitsschub zu bekommen – ideal, um zuerst am Ball zu sein oder eine Rettungsaktion vor dem Tor zu machen.
+- **Sprung:** Nutze die rechte Maustaste oder die dafür vorgesehene Taste, um dein Auto springen zu lassen und hohe oder fliegende Bälle zu treffen.
 
+<!-- i18n:section:faq -->
 ### Häufig gestellte Fragen (FAQ)
 
 **Was ist das Ziel in SocCar?**
@@ -40,3 +46,4 @@ Teamwork und Positionierung sind entscheidend. Lass nicht alle Spieler gleichzei
 **Worin unterscheidet sich SocCar von normalem Fußball?**
 
 In SocCar steuerst du ein Auto statt eines Spielers. Dadurch kannst du mit hoher Geschwindigkeit, Boosts und Sprüngen mit dem Ball interagieren – das sorgt für spektakuläre Aktionen, die im echten Fußball unmöglich wären.
+

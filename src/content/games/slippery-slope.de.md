@@ -18,6 +18,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 "Slippery Slope" ist ein schneller Abfahrtslauf: Du gleitest einen steilen
@@ -49,6 +50,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 *   **Balance halten:** Achte auf die Balance deiner Figur, um Stürze oder
     Kontrollverlust zu vermeiden.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
 1.  **F: Wie bleibe ich bei hoher Geschwindigkeit kontrollierbar?**
@@ -63,3 +65,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 4.  **F: Wie bekomme ich mehr Punkte?**
     **A:** Fahre die Strecke möglichst schnell und sauber, sammle eventuell
     verteilte Bonusobjekte ein und vermeide Zusammenstöße.
+

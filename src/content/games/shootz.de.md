@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 "ShootZ" ist ein intensiver Arcade-Shooter, in dem du dich Horden von Zombies
@@ -48,6 +49,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 *   **Spezialfähigkeiten:** Einige Versionen bieten Spezialskills oder Items,
     die du per zusätzlicher Tasten aktivierst.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
 1.  **F: Wie bekomme ich bessere Waffen?**
@@ -63,3 +65,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 4.  **F: Wie verbessere ich meine Treffsicherheit?**
     **A:** Passe ggf. die Maus-Empfindlichkeit an, übe kurze kontrollierte
     Feuerstöße und versuche, Bewegungen der Gegner vorauszusehen.
+
