@@ -19,6 +19,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 Stick Fighter bebe del mismo espíritu que Stick Fight: es un juego de lucha
@@ -40,15 +41,19 @@ acabando con su barra de vida.
   bloques que caen o superficies resbaladizas. Adapta tu estilo de juego a cada
   mapa.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `A` `D` `Left/Right Arrow Keys` `W` `Up Arrow` `S` `Down Arrow` `Left Mouse Button` `F` `Right Mouse Button` `G`
 
 Controles típicos de plataformas 2D:
-- **Mover:** `A` y `D` o flechas izquierda/derecha.
-- **Saltar:** `W` o flecha arriba.
-- **Agacharse:** `S` o flecha abajo.
-- **Atacar:** clic izquierdo del ratón o tecla `F`.
-- **Bloquear:** clic derecho del ratón o tecla `G`.
+- **Mover:** A y D o flechas izquierda/derecha.
+- **Saltar:** W o flecha arriba.
+- **Agacharse:** S o flecha abajo.
+- **Atacar:** clic izquierdo del ratón o tecla F.
+- **Bloquear:** clic derecho del ratón o tecla G.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
 **¿Cuál es el objetivo principal?**  
@@ -62,3 +67,4 @@ para 2–4 jugadores.
 **¿Qué tipo de armas incluye?**  
 Desde armas cuerpo a cuerpo como espadas y lanzas hasta armas de fuego y gadgets
 más locos; el arsenal es amplio y cambia por completo el ritmo de cada ronda.
+

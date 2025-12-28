@@ -12,9 +12,11 @@ thumbnail: /new-images/thumbnails/sprunki-virus-new-update.png
 tags:
   - sprunki virus new update
 score: 4.0/5  (407 votes)
+releaseDate: 2025-12-04
 ---
 
 
+<!-- i18n:section:introduction -->
 ¿Te apetece un viaje musical que lleve tus sentidos al límite? Sprunki Virus te
 mete en un mundo de Sprunki infectado, con paisajes sonoros inquietantes,
 gráficos glitch y mecánicas intensas para ofrecerte una experiencia tan rara
@@ -60,3 +62,4 @@ Si te gustan las temáticas oscuras e inmersivas y disfrutas llevando al límite
 lo que puedes hacer con un mezclador, Sprunki Virus es un mod imprescindible en
 tu biblioteca. Entra, deja que el virus encienda tu inspiración y lánzate a una
 aventura musical tan extraña como adictiva.
+

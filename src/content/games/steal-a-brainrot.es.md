@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción a Steal a Brainrot
 
 *Steal a Brainrot* es un juego multijugador de acción y sigilo muy popular en
@@ -38,6 +39,7 @@ Buena parte de la diversión viene del caos multijugador, de las jugadas
 imprevisibles y del contraste entre mecánicas de sigilo bastante serias y la
 naturaleza ridícula de los memes.
 
+<!-- i18n:section:tips -->
 ### Estrategias y consejos de juego
 
 1.  **El reconocimiento es media batalla:** no entres corriendo sin más. Tómate
@@ -62,36 +64,45 @@ naturaleza ridícula de los memes.
     propiedades únicas: unos te ralentizan, otros hacen ruido constantemente y
     delatan tu posición.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `W` `A` `S` `D` `Space Bar` `Shift` `Ctrl` `C` `E` `F` `1` `2` `3` `Q`
 
 Como juego de Roblox, los controles siguen el esquema estándar de la
 plataforma:
 
-- **Mover:** teclas `W`, `A`, `S`, `D`
+- **Mover:** teclas W, A, S, D
 - **Saltar:** barra espaciadora
-- **Correr:** mantener `Shift`
-- **Agacharse / sigilo:** `Ctrl` o `C`
-- **Interactuar / robar:** `E` o `F`
-- **Usar objeto:** teclas numéricas `1`, `2`, `3`… o `Q`
+- **Correr:** mantener Shift
+- **Agacharse / sigilo:** Ctrl o C
+- **Interactuar / robar:** E o F
+- **Usar objeto:** teclas numéricas 1, 2, 3… o Q
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:steal-a-brainrot:where-can-i-play-this-4bfcb29e -->
 **1. ¿Dónde puedo jugar a Steal a Brainrot?**  
 El juego está disponible gratis en **Roblox**. Solo tienes que buscar
 "Steal a Brainrot" en la app o en la web y entrar en alguna de las versiones
 más populares.
 
+<!-- i18n:faq:id=faq:steal-a-brainrot:is-this-game-singleplayer-or-c4933735 -->
 **2. ¿Es un juego para un jugador o multijugador?**  
 Principalmente está diseñado para **multijugador**, tanto cooperativo como
 competitivo. Puedes entrar solo a un servidor, pero lo divertido es jugar con
 más gente.
 
+<!-- i18n:faq:id=faq:steal-a-brainrot:what-exactly-is-a-brainrot-6c62ff59 -->
 **3. ¿Qué es exactamente un «Brainrot»?**  
 Es jerga de internet para referirse a contenido viral de baja calidad que «te
 reblandece el cerebro». El juego convierte ese concepto abstracto en un objeto
 físico que puedes robar, de ahí parte de su gracia.
 
+<!-- i18n:faq:id=faq:steal-a-brainrot:what-is-the-objective-to-b300ad36 -->
 **4. ¿Cuál es el objetivo para ganar?**  
 Lo más habitual es que gane el equipo que robe y devuelva más Brainrots a su
 base dentro del tiempo límite. En otros modos, puede que el reto sea completar
 el golpe sin que te detecten.
+

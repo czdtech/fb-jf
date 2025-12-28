@@ -10,6 +10,7 @@ thumbnail: /new-images/thumbnails/sprunki-red-sun.png
 tags:
   - sprunki red sun
 score: 4.4/5  (232 votes)
+releaseDate: 2025-12-04
 ---
 
 
@@ -35,6 +36,7 @@ intensidad de un mundo bajo un sol rojo implacable.
   visuales se activan mientras mezclas, creando un viaje musical industrial y
   volcánico.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar a Sprunki Red Sun Mod
 
 - **Elige personajes «llameantes»:** selecciona un elenco de personajes
@@ -60,4 +62,5 @@ intensidad de un mundo bajo un sol rojo implacable.
 Si buscas un viaje musical que lleve tus sentidos al límite, Sprunki Red Sun es
 una elección perfecta. Entra, deja que tu música incendie este mundo al borde
 del colapso y haz que cada nota arda como una llamarada.
+
 

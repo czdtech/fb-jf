@@ -18,6 +18,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 Super Smash Flash 2 es la esperadísima secuela del mítico fangame de lucha. Es
@@ -38,19 +39,23 @@ pantalla aumentando su porcentaje de daño.
 - **Modos de juego:** cuenta con modos para un jugador y multijugador, desde el
   modo Versus estándar hasta retos especiales por eventos.
 
+<!-- i18n:section:controls -->
 ### Guía de controles (configurables)
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `A` `D` `W` `S` `Spacebar` `J` `K` `L` `U` `Enter`
 
 Un esquema habitual por defecto para el Jugador 1 es:
-- **Moverse:** `A` y `D`  
-- **Arriba / Apuntar arriba:** `W`  
-- **Agacharse / Apuntar abajo:** `S`  
+- **Moverse:** A y D  
+- **Arriba / Apuntar arriba:** W  
+- **Agacharse / Apuntar abajo:** S  
 - **Saltar:** barra espaciadora  
-- **Ataque normal:** `J`  
-- **Ataque especial:** `K`  
-- **Escudo:** `L`  
-- **Agarre:** `U`  
-- **Pausa:** `Enter`
+- **Ataque normal:** J  
+- **Ataque especial:** K  
+- **Escudo:** L  
+- **Agarre:** U  
+- **Pausa:** Enter
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
 **¿En qué se diferencia del primer Super Smash Flash?**  
@@ -65,3 +70,4 @@ desde el menú de opciones.
 **¿Se sigue actualizando?**  
 Sí. El equipo de McLeodGaming continúa publicando versiones con nuevos
 personajes, escenarios y mejoras.
+

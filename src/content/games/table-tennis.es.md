@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Table Tennis es una recreación rápida y sencilla del tenis de mesa. Te enfrentas
@@ -26,6 +27,7 @@ pase al otro lado de la mesa sin que el rival pueda devolverla, siguiendo las
 reglas básicas del ping‑pong. Con controles intuitivos y físicas creíbles, ofrece
 una experiencia accesible pero retadora para cualquier nivel.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Saque y devolución:** cada punto empieza con el saque. Debes golpear la
@@ -40,6 +42,7 @@ una experiencia accesible pero retadora para cualquier nivel.
 4.  **Lee al rival:** fíjate en dónde se coloca y qué patrones usa; a veces
     podrás anticipar su siguiente golpe y ganar ventaja.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - **Movimiento del ratón:** la pala sigue a tu cursor.  
@@ -49,15 +52,20 @@ una experiencia accesible pero retadora para cualquier nivel.
   trayectoria de la bola y el contacto hará el resto. El ángulo y la velocidad
   del golpe dependen de cómo y cuán rápido muevas la pala al impactar.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:table-tennis:q-how-do-i-score-a66490e5 -->
 *   **P: ¿Cómo anoto un punto?**
     *   **R:** Anotas cuando el rival no puede devolver tu golpe: si la pelota bota
         dos veces en su lado, pega en la red o sale fuera.
+<!-- i18n:faq:id=faq:table-tennis:q-can-i-put-a-358d6ec5 -->
 *   **P: ¿Se puede dar efecto a la pelota?**
     *   **R:** No hay un botón específico, pero mover la pala con rapidez al golpear
         influye en la velocidad y el ángulo, generando un efecto similar y
         complicando la devolución.
+<!-- i18n:faq:id=faq:table-tennis:q-what-is-the-winning-84866485 -->
 *   **P: ¿Cuántos puntos necesito para ganar?**
     *   **R:** Depende de la versión; lo habitual es que gane el primero en llegar a
         un número de puntos (por ejemplo, 11 o 21) con al menos dos tantos de ventaja.
+

@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Sudoku Plus ofrece una experiencia «premium» del clásico puzle lógico de
@@ -26,6 +27,7 @@ contengan todos los dígitos del 1 al 9. Esta versión añade funciones útiles
 como pistas, modo notas y comprobación de errores, por lo que es ideal tanto
 para principiantes como para jugadores avanzados que buscan una interfaz fluida.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Regla de oro:** en cada fila, columna y caja 3x3 deben aparecer todos los
@@ -40,6 +42,7 @@ para principiantes como para jugadores avanzados que buscan una interfaz fluida.
     single). También fíjate en números que solo pueden ir en una casilla
     concreta dentro de una fila, columna o caja (hidden single).
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - **Seleccionar casilla:** haz clic en cualquier casilla vacía.  
@@ -51,17 +54,22 @@ para principiantes como para jugadores avanzados que buscan una interfaz fluida.
 - **Pista:** pulsa el botón de pista para rellenar la respuesta correcta de una
   casilla.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:sudoku-plus:q-do-i-need-to-0a4037d5 -->
 *   **P: ¿Necesito ser bueno en matemáticas?**
     *   **R:** No. Sudoku es un juego de lógica y patrones, no de operaciones.
 
+<!-- i18n:faq:id=faq:sudoku-plus:q-what-does-the-notes-92a47c6f -->
 *   **P: ¿Para qué sirven las "notas"?**
     *   **R:** Te permite anotar candidatos en una casilla sin comprometerte. Es una
         herramienta clave para resolver puzles difíciles sin depender solo de la
         memoria.
 
+<!-- i18n:faq:id=faq:sudoku-plus:q-will-the-game-tell-928da71e -->
 *   **P: ¿El juego me avisa si me equivoco?**
     *   **R:** Sí. Muchos sudokus modernos, incluido este, tienen comprobación de
         errores para resaltar duplicados en fila, columna o caja, de modo que puedas
         corregir antes de seguir.
+

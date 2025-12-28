@@ -18,6 +18,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 Stealing the Diamond es un clásico juego de aventura interactiva de la serie
@@ -35,10 +36,12 @@ lo que sucede a continuación. La mayoría de combinaciones terminan en un "Fail
 llevan a uno de los tres finales exitosos. Parte del encanto del juego está en
 explorar todos los caminos y ver qué ocurre.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - **Ratón:** utiliza el ratón para hacer clic en la opción que quieras escoger.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
 **¿Cuántas formas hay de ganar?**  
@@ -55,3 +58,4 @@ necesario para el 100 % de completado.
 **¿Forma parte de una saga?**  
 Sí. Stealing the Diamond es la tercera entrega de la serie Henry Stickmin, tras
 *Breaking the Bank* y *Escaping the Prison*.
+

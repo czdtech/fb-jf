@@ -11,6 +11,7 @@ tags:
   - sprunkle bops
   - sprunkle bops online
 score: 4.3/5  (524 votes)
+releaseDate: 2025-12-04
 ---
 
 
@@ -37,3 +38,4 @@ melodías mientras exploran distintos temas y personajes.
 - **Mantén el ritmo:** conforme la base se acelera, toca concentrarse. Cada
   contrincante tiene habilidades de rap potentes, y solo quien domine el ritmo
   se quedará con la victoria. Si fallas demasiadas notas, perderás la batalla.
+

@@ -11,9 +11,11 @@ thumbnail: /new-images/thumbnails/sprunki-squid-remix.png
 tags:
   - sprunki squid remix
 score: 4.1/5  (92 votes)
+releaseDate: 2025-12-04
 ---
 
 
+<!-- i18n:section:introduction -->
 ¿Listo para un desafío musical que acelere el corazón y ponga las manos a sudar?
 Sprunki Squid está aquí. No es un simple juego de creación musical: es un
 crossover eléctrico que mezcla la magia sonora de Sprunki con la tensión extrema
@@ -64,3 +66,4 @@ fenómenos culturales muy distintos para crear una experiencia a la vez conocida
 y totalmente nueva. Si te gusta la emoción fuerte y los desafíos, es un título
 imprescindible. Respira hondo, entra en el mundo de Sprunki Squid y usa tu
 sentido del ritmo para superar esta partida musical a vida o muerte.
+

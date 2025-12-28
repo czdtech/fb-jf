@@ -12,6 +12,7 @@ tags:
   - sprunki retake
   - sprunki retake online
 score: 4.3/5  (524 votes)
+releaseDate: 2025-12-04
 ---
 
 
@@ -82,4 +83,5 @@ Sprunki Retake hereda todo lo mejor de las entregas anteriores, pero añade
 capas nuevas de tensión y frescura. Tanto si llevas tiempo en la saga como si
 acabas de descubrirla, aquí vas a encontrar tu propio tipo de diversión. ¿Listo
 para gritar un poco? Adelante.
+
 

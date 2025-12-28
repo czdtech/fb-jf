@@ -11,6 +11,7 @@ thumbnail: /new-images/thumbnails/sprunki-retake-bonus-characters.png
 tags:
   - sprunki retake bonus characters
 score: 3.9/5  (132 votes)
+releaseDate: 2025-12-04
 ---
 
 
@@ -47,4 +48,5 @@ Retake Bonus Characters ofrece diversión casi infinita y despierta la
 creatividad con su giro étnico tan particular. Entra en Sprunki Retake Bonus
 Characters y deja que los ritmos ancestrales despierten tu «alma musical
 primigenia».
+
 

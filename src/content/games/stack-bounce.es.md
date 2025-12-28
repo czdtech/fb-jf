@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Stack Bounce es un arcade 3D vibrante y adictivo que pone a prueba tu
@@ -27,6 +28,7 @@ indestructibles: tocarlas significa perder al instante. Con controles de un solo
 botón y físicas de destrucción muy satisfactorias, es fácil de entender pero
 complicado de dominar.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Mantener para romper:** el núcleo del juego es sencillo: mantén pulsada la
@@ -46,6 +48,7 @@ complicado de dominar.
     ir demasiado rápido. Deja que aparezcan varios niveles seguidos de color
     antes de mantener pulsado para ganar velocidad y combos.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - **PC:** mantén pulsado el **botón izquierdo del ratón** para atravesar
@@ -53,22 +56,28 @@ complicado de dominar.
 - **Móvil/tablet:** mantén el **dedo en la pantalla** para romper; levántalo
   para detener el descenso.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:stack-bounce:q-what-happens-if-i-61ab38c7 -->
 *   **P: ¿Qué pasa si golpeo una plataforma negra?**
     *   **R:** La bola se rompe y la partida termina; tendrás que empezar de nuevo el
         nivel.
 
+<!-- i18n:faq:id=faq:stack-bounce:q-how-do-i-activate-858b0571 -->
 *   **P: ¿Cómo activo el modo Fiebre?**
     *   **R:** Se activa automáticamente al encadenar una buena racha rompiendo
         plataformas de color sin parar. Un medidor circular indica tu progreso;
         cuando se llena, entras en Fiebre.
 
+<!-- i18n:faq:id=faq:stack-bounce:q-can-i-break-black-604a1dcf -->
 *   **P: ¿Puedo romper plataformas negras en el modo Fiebre?**
     *   **R:** Sí. Durante el modo Fiebre, la bola es invencible y puede destruir
         cualquier plataforma, incluidas las negras, sin penalización.
 
+<!-- i18n:faq:id=faq:stack-bounce:q-is-there-an-end-efd8fcf4 -->
 *   **P: ¿El juego tiene final?**
     *   **R:** El juego es por niveles. Tu objetivo es llegar al fondo de la torre
         para completar el nivel actual y pasar al siguiente, que suele ser más largo o
         complejo.
+

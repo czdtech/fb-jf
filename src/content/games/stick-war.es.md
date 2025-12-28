@@ -18,6 +18,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 Stick War es uno de los juegos web de estrategia más populares y mejor valorados
@@ -40,12 +41,16 @@ El núcleo del juego gira en torno a gestionar recursos y comandar a tu ejércit
   precisas. El objetivo final es destruir la estatua enemiga al otro lado del
   mapa.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `A` `D` `Spacebar`
 
 - **Ratón:** seleccionar unidades, entrenar soldados y dar órdenes.
-- **Movimiento (controlando una unidad):** teclas `A` y `D`.
+- **Movimiento (controlando una unidad):** teclas A y D.
 - **Ataque (controlando una unidad):** barra espaciadora.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
 **¿Cuál es una buena estrategia inicial?**  
@@ -63,3 +68,4 @@ y Magikill son unidades de late game capaces de decidir grandes batallas.
 Es muy recomendable invertir los primeros puntos en las bolsas de tus Miners y
 en la generación de oro de tu estatua. A partir de ahí, mejora las unidades que
 uses con más frecuencia.
+

@@ -18,6 +18,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 Stick Fight es un juego de lucha rápido y basado en físicas en el que controlas
@@ -39,15 +40,19 @@ agotando su vida.
   pinchos, bloques que se desploman o plataformas resbaladizas. Ajusta tu
   estrategia a cada entorno.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `A` `D` `Left/Right Arrow Keys` `W` `Up Arrow` `S` `Down Arrow` `Left Mouse Button` `F` `Right Mouse Button` `G`
 
 Los controles suelen seguir el esquema típico de un plataformas 2D:
-- **Mover:** `A` y `D` o flechas izquierda/derecha.
-- **Saltar:** `W` o flecha arriba.
-- **Agacharse:** `S` o flecha abajo.
-- **Atacar:** clic izquierdo del ratón o tecla `F`.
-- **Bloquear:** clic derecho del ratón o tecla `G`.
+- **Mover:** A y D o flechas izquierda/derecha.
+- **Saltar:** W o flecha arriba.
+- **Agacharse:** S o flecha abajo.
+- **Atacar:** clic izquierdo del ratón o tecla F.
+- **Bloquear:** clic derecho del ratón o tecla G.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
 **¿Cuál es el objetivo principal de Stick Fight?**  
@@ -61,3 +66,4 @@ para partidas locales u online de 2 a 4 jugadores.
 **¿Qué tipo de armas hay en el juego?**  
 El arsenal es enorme: armas cuerpo a cuerpo como espadas y lanzas, armas de
 fuego como pistolas y escopetas, e incluso bazucas que disparan serpientes.
+

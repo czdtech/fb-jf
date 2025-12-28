@@ -12,9 +12,11 @@ thumbnail: /new-images/thumbnails/sprunki-rotrizi-5.png
 tags:
   - sprunki rotrizi 5.0
 score: 4.0/5  (232 votes)
+releaseDate: 2025-12-04
 ---
 
 
+<!-- i18n:section:introduction -->
 ¿Listo para entrar en un reino sonoro lleno de efectos de vanguardia y
 posibilidades infinitas? Sprunki Rotrizi 5.0 llega para cambiar tu forma de ver
 la creación musical. Este mod lleva el concepto original de Rotrizi varios
@@ -55,6 +57,7 @@ Empezar tu experimento sonoro es muy fácil:
 - **Reinicia cuando quieras:** si el caos se te va de las manos, pulsa la barra
   espaciadora para limpiar el escenario y empezar de cero.
 
+<!-- i18n:section:tips -->
 ### Consejos para jugar a Sprunki Rotrizi 5.0
 
 - **Experimenta sin miedo:** prueba todo tipo de combinaciones de personajes;
@@ -81,3 +84,4 @@ remixes como si acabas de empezar, aquí tienes un escenario perfecto para
 experimentar. Únete a la revolución y lleva tu imaginación sonora un paso más
 allá; y si te quedas con ganas de más, siempre puedes pasar por otros mods como
 Sprunki Specimen.
+

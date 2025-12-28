@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 «Sudoku» es un puzle numérico de lógica pura. El objetivo es rellenar una
@@ -37,6 +38,7 @@ prueba de razonamiento, paciencia y atención al detalle.
 5.  **Avance progresivo:** cada vez que coloques un número, vuelve a revisar el
     tablero; esa nueva información suele desbloquear otras casillas.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo se juega
 
 - **Seleccionar casilla:** haz clic en una casilla vacía.  
@@ -47,6 +49,7 @@ prueba de razonamiento, paciencia y atención al detalle.
 - **Notas:** en algunas versiones puedes activar un modo de «notas» para anotar
   varios candidatos en pequeño.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes
 
 1.  **P: ¿Cómo sé si un Sudoku tiene solución?**  
@@ -66,3 +69,4 @@ prueba de razonamiento, paciencia y atención al detalle.
 4.  **P: ¿Hay que adivinar en algún momento?**  
   **R:** En un Sudoku estándar bien hecho no deberías necesitar suposiciones;
   todo se puede resolver con lógica.
+

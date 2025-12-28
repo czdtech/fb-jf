@@ -12,9 +12,11 @@ thumbnail: /new-images/thumbnails/sprunkr-but-sprunki.png
 tags:
   - sprunkr but sprunki
 score: 4.5/5  (541 votes)
+releaseDate: 2025-12-04
 ---
 
 
+<!-- i18n:section:introduction -->
 Si te gusta la jugabilidad tan particular de Sprunkr y, a la vez, te encanta el
 estilo de Sprunki, este mod es justo lo que buscas.
 
@@ -39,6 +41,7 @@ con animaciones, loops y timbres que encajan con el mundo Sprunki.
 - **Jugabilidad atractiva:** une lo mejor de las mecánicas de Sprunkr con la
   creatividad de los personajes Sprunki.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar a Sprunkr But Sprunki
 
 - **Selecciona personajes:** elige tu plantel favorito dentro del elenco
@@ -56,3 +59,4 @@ Sprunkr But Sprunki Mod es un crossover muy disfrutable que añade una capa de
 frescura a la jugabilidad original. Sumérgete en él para disfrutar de lo mejor
 de ambos mundos: la inmediatez de Sprunkr y el encanto inconfundible de
 Sprunki.
+

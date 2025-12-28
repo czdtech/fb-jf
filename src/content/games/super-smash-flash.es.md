@@ -18,6 +18,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 Super Smash Flash es un fangame legendario inspirado en la saga oficial Super
@@ -39,19 +40,23 @@ con los golpes.
 - **Objetos:** periódicamente aparecen ítems que pueden darte ventaja si los
   usas bien.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `O` `P` `A` `S` `D` `W` `F` `G` `Backspace`
 
 Puedes jugar hasta dos personas en el mismo teclado.
 - **Jugador 1:**  
     - Mover: flechas de dirección.  
-    - Saltar: `O`.  
-    - Atacar: `P`.  
+    - Saltar: O.  
+    - Atacar: P.  
 - **Jugador 2:**  
-    - Mover: `A`, `S`, `D`, `W` (W para saltar).  
-    - Ataque: `F`.  
-    - Movimiento especial: `G`.  
-- **Pausa:** `Backspace`.
+    - Mover: A, S, D, W (W para saltar).  
+    - Ataque: F.  
+    - Movimiento especial: G.  
+- **Pausa:** Backspace.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
 **¿Cómo gano una partida?**  
@@ -66,3 +71,4 @@ para descubrir todo el moveset de tu personaje.
 **¿Es un juego oficial de Nintendo?**  
 No. Super Smash Flash es un proyecto fan sin ánimo de lucro creado por
 McLeodGaming, un homenaje a la saga Super Smash Bros.
+

@@ -12,6 +12,7 @@ tags:
   - sprunki sonic
   - sprunki sonic online
 score: 4.0/5  (829 votes)
+releaseDate: 2025-12-04
 ---
 
 
@@ -65,4 +66,5 @@ algo para engancharse en Sprunki Sonic. El juego es muy fácil de entender, pero
 dominarlo requiere práctica y buen oído. Además, es una excusa perfecta para
 expresarte a través de la música. Si buscas un título divertido, exigente y
 creativo a partes iguales, Sprunki Sonic es una apuesta segura.
+
 

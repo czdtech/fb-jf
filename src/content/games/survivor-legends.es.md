@@ -15,6 +15,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Survivor Legends sigue la fórmula de los survivors de autoataque: tú solo te
@@ -23,6 +24,7 @@ escoger armas y pasivas, y tu misión es sobrevivir a oleadas cada vez más
 intensas. Lo que marca la diferencia son las sinergias entre mejoras, la gestión
 de área y control de masas y el radio de recogida de experiencia.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Kiting amplio:** haz círculos grandes; te dan margen para corregir ruta y
@@ -36,18 +38,23 @@ de área y control de masas y el radio de recogida de experiencia.
 5.  **Guarda ultimates:** reserva habilidades activas para picos de oleadas o
     minibosses, no las gastes en grupos pequeños.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
-- Movimiento: `WASD` o flechas.  
+- Movimiento: WASD o flechas.  
 - Habilidades activas: teclas numéricas.  
 - Pausa: desde la interfaz.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:survivor-legends:i-get-cornered-e450951e -->
 - **P: Me acaban acorralando siempre.**  
   **R:** evita las esquinas, mantente en zonas centrales y atraviesa huecos
   pequeños cuando la oleada aún es manejable; no esperes al último segundo.
 
+<!-- i18n:faq:id=faq:survivor-legends:which-upgrades-first-03b66ce2 -->
 - **P: ¿Qué mejoras cojo primero?**  
   **R:** suele compensar subir primero radio de recogida/XP y luego centrarte en
   daño principal y supervivencia (vida, armadura, regeneración).
+

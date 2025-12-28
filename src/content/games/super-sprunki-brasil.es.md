@@ -12,6 +12,7 @@ tags:
   - super sprunki brasil
   - super sprunki brasil online
 score: 4.3/5  (380 votes)
+releaseDate: 2025-12-04
 ---
 
 
@@ -29,6 +30,7 @@ Brasil. Colores vivos, personajes expresivos y una paleta de sonidos muy
 brasileña te sumergen en un mundo musical vibrante y lleno de referencias
 culturales.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo se juega a Super Sprunki Brasil
 
 La jugabilidad es muy sencilla; con dominar lo siguiente, ya estarás marcando
@@ -72,3 +74,4 @@ ritmos de samba:
 Super Sprunki Brasil es el mod ideal si quieres experimentar con ritmos
 latinoamericanos dentro del universo Sprunki. Entra y deja que tus mezclas
 hablen en «portuñol musical» al mundo.
+

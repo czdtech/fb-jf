@@ -18,6 +18,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 Super Smash Flash 2 v0.9 es otra versión de la esperada secuela del legendario
@@ -37,19 +38,23 @@ lanzarlos fuera de la pantalla.
 - **Modos de juego:** modos para un jugador y multijugador local, con Versus,
   retos especiales y más.
 
+<!-- i18n:section:controls -->
 ### Guía de controles (configurables)
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `A` `D` `W` `S` `Spacebar` `J` `K` `L` `U` `Enter`
 
 Distribución típica para el Jugador 1:
-- **Moverse:** `A` y `D`  
-- **Arriba / apuntar arriba:** `W`  
-- **Agacharse / apuntar abajo:** `S`  
+- **Moverse:** A y D  
+- **Arriba / apuntar arriba:** W  
+- **Agacharse / apuntar abajo:** S  
 - **Saltar:** barra espaciadora  
-- **Ataque normal:** `J`  
-- **Ataque especial:** `K`  
-- **Escudo:** `L`  
-- **Agarre:** `U`  
-- **Pausa:** `Enter`
+- **Ataque normal:** J  
+- **Ataque especial:** K  
+- **Escudo:** L  
+- **Agarre:** U  
+- **Pausa:** Enter
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
 **¿En qué mejora respecto al primer Super Smash Flash?**  
@@ -63,3 +68,4 @@ opciones.
 **¿Sigue recibiendo actualizaciones?**  
 El equipo de McLeodGaming ha seguido publicando parches y contenido durante
 mucho tiempo, añadiendo personajes, escenarios y ajustes de balance.
+

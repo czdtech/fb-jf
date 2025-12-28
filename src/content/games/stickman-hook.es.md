@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 Stickman Hook es un juego de balanceo con físicas muy pulidas en el que manejas
@@ -38,6 +39,7 @@ balanceo suave y su física adictiva lo han convertido en un éxito.
 5.  **Añade acrobacias por diversión:** giros y volteretas no siempre son
     necesarios, pero hacen la experiencia más entretenida.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo se juega
 
 - **Lanzar el gancho:** haz clic o mantén pulsado para lanzar el gancho y agarrar
@@ -46,6 +48,7 @@ balanceo suave y su física adictiva lo han convertido en un éxito.
 - **Balancear:** deja que las físicas hagan su trabajo y ajusta el momento del
   siguiente enganche para dirigir el movimiento.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes
 
 1.  **P: ¿Cómo consigo más impulso en el balanceo?**  
@@ -63,3 +66,4 @@ balanceo suave y su física adictiva lo han convertido en un éxito.
 4.  **P: ¿Cuántos niveles tiene el juego?**  
   **R:** suele incluir decenas de niveles, cada uno con retos y disposiciones de
   obstáculos diferentes.
+

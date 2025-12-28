@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Super Bowling Mania lleva la experiencia clásica de bolos de 10 pinos a tu
@@ -26,6 +27,7 @@ strike perfecto. El reto es derribar los diez bolos en cada frame, gestionar
 spares complicados y soñar con el ansiado 300. Es una forma ideal de disfrutar
 de los bolos en cualquier momento.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Coloca bien al jugador:** antes de lanzar, ajusta tu posición sobre el
@@ -42,6 +44,7 @@ de los bolos en cualquier momento.
     restantes. Apunta al bolo clave del grupo que queda para maximizar tus
     opciones de limpiar la calle.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - **Apuntar:** mueve el ratón a izquierda o derecha para ajustar tu posición y
@@ -51,20 +54,25 @@ de los bolos en cualquier momento.
 - **Efecto/curva:** mientras la bola rueda, en algunas versiones puedes mover el
   ratón para influir en su trayectoria.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:super-bowling-mania:q-how-is-bowling-scored-6bad3f29 -->
 *   **P: ¿Cómo se puntúa una partida de bolos?**
     *   **R:** Una partida tiene 10 frames. Un strike (derribar los 10 bolos en el
         primer tiro) vale 10 puntos más los bolos de tus dos siguientes lanzamientos.
         Un spare (derribar los 10 en dos tiros) vale 10 puntos más los bolos del
         siguiente lanzamiento.
 
+<!-- i18n:faq:id=faq:super-bowling-mania:q-what-is-a-perfect-ee68da5c -->
 *   **P: ¿Qué es una partida perfecta?**
     *   **R:** Una partida perfecta son 300 puntos, que se consiguen con 12 strikes
         seguidos en una misma partida.
 
+<!-- i18n:faq:id=faq:super-bowling-mania:q-how-do-i-get-b98f9727 -->
 *   **P: ¿Cómo puedo conseguir más strikes?**
     *   **R:** La clave es la consistencia. Encuentra una combinación de posición,
         potencia y efecto que funcione para ti e intenta repetirla. Apuntar al
         pocket (justo a un lado del bolo delantero) suele ser la estrategia más
         efectiva.
+

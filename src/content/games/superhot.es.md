@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 Superhot es un shooter en primera persona muy particular: el tiempo casi se
@@ -37,6 +38,7 @@ resuelves con precisión quirúrgica.
 5.  **Usa el entorno:** columnas, paredes y objetos del escenario pueden servir
     de cobertura o distracción.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo se juega
 
 - **Movimiento:** teclas `W`, `A`, `S`, `D`.  
@@ -45,6 +47,7 @@ resuelves con precisión quirúrgica.
 - **Recoger armas/objetos:** acércate a ellos; en muchas versiones se toman
   automáticamente o con una tecla de acción.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes
 
 1.  **P: ¿Cómo funciona exactamente el tiempo?**  
@@ -62,3 +65,4 @@ resuelves con precisión quirúrgica.
 4.  **P: ¿Cuántos niveles tiene el prototipo?**  
   **R:** la versión prototype incluye varios niveles cortos, cada uno con
   disposiciones de enemigos y retos distintos.
+

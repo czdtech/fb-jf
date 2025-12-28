@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 Supernova recupera la esencia de los shooters espaciales clásicos: controlas una
@@ -50,3 +51,4 @@ progresivamente.
 - **P: ¿Hay final o es puntuación infinita?**  
   **R:** suele funcionar por oleadas infinitas; el objetivo es lograr la máxima
   puntuación posible antes de ser destruido.
+

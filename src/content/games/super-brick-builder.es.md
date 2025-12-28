@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Super Brick Builder se juega como un puzle de construcción con físicas:
@@ -24,6 +25,7 @@ debes colocar ladrillos para completar siluetas sin que la estructura se venga
 abajo. Un buen apoyo y colocaciones limpias pesan más que rellenar huecos a lo
 loco.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Empieza por la base:** construye cimientos simétricos y estables antes de
@@ -37,16 +39,21 @@ loco.
 5.  **Aprovecha los reinicios:** si una idea no funciona, reinicia rápido y
     prueba otra configuración en base a lo que has aprendido.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - Arrastra y rota ladrillos; suéltalos para fijarlos en su sitio.  
 - Reinicia el nivel desde los controles de la interfaz.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:super-brick-builder:structures-topple-62d97714 -->
 - **P: Mis estructuras se caen todo el rato.**  
   **R:** refuerza las bases, evita voladizos largos y reparte el peso.
 
+<!-- i18n:faq:id=faq:super-brick-builder:run-out-of-fitting-pieces-581ced9c -->
 - **P: Me quedo sin piezas que encajen bien.**  
   **R:** intenta guardar los ladrillos pequeños para ajustes finos en las capas
   superiores y no malgastarlos al principio.
+

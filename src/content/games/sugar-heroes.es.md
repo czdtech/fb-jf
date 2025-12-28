@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Sugar Heroes se centra en combos y cadenas en un entorno match-3 lleno de
@@ -24,6 +25,7 @@ limpiar gelatina hasta entregar ingredientes o romper ciertos tipos de piezas.
 Las fusiones de potenciadores (bomba + línea, caramelos de color, etc.) son
 imprescindibles en tableros muy densos.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Prioriza el objetivo:** limpia primero los bloqueadores o recoge los
@@ -37,18 +39,23 @@ imprescindibles en tableros muy densos.
 5.  **Planifica 2 jugadas vista:** piensa tu movimiento actual y el siguiente
     para conservar setups interesantes.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - Arrastra para intercambiar piezas.  
 - Toca o haz clic en los potenciadores para activarlos.  
 - Pausa y reinicio desde la interfaz.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:sugar-heroes:i-hit-move-limits-e64192d0 -->
 - **P: Siempre me quedo sin movimientos.**  
   **R:** encadena potenciadores y centra tus primeros movimientos en abrir
   espacio y eliminar bloqueadores.
 
+<!-- i18n:faq:id=faq:sugar-heroes:strong-opener-13100d3b -->
 - **P: ¿Cuál es una buena apertura?**  
   **R:** empezar despejando desde la parte inferior del tablero para provocar
   cascadas suele ser la opción más eficiente.
+

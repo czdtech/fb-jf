@@ -13,6 +13,7 @@ tags:
   - swap sprunkgerny
   - swap sprunkgerny online
 score: 4.9/5  (724 votes)
+releaseDate: 2025-12-04
 ---
 
 
@@ -30,6 +31,7 @@ exagerados, esperando tu señal. Tú llevas la batuta: decides quién entra, qui
 sale y cómo se mezclan los sonidos. Cada personaje es un instrumento más en tu
 pequeña banda.
 
+<!-- i18n:section:tips -->
 ### Mecánica básica de Swap Sprunkgerny
 
 El corazón del juego es muy sencillo: ¡arrastrar, arrastrar y arrastrar!

@@ -11,6 +11,7 @@ tags:
   - sprunki retake new human
   - musical mod
 score: 4.0/5  (829 votes)
+releaseDate: 2025-12-04
 ---
 
 
@@ -41,6 +42,7 @@ estilo visual nuevo que entra por los ojos.
   movimientos humanos, haciendo que las interacciones se sientan mucho más
   vivas.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo se juega a Sprunki Retake New Human
 
 Probar **Sprunki Retake New Human** es tan sencillo como suena:
@@ -78,3 +80,4 @@ Hoy en día, **Sprunki Retake New Human** es un buen ejemplo de cómo el modding
 puede unir una jugabilidad familiar con una estética innovadora. Únete a la
 comunidad, comparte tus sesiones y, tanto si llevas años en la saga como si
 acabas de llegar, disfruta de esta nueva forma de ver (y escuchar) Sprunki.
+
