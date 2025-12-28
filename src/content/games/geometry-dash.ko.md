@@ -11,9 +11,11 @@ thumbnail: /new-images/thumbnails/geometry-dash.png
 tags:
   - geometry dash
 score: 4.5/5  (604 votes)
+releaseDate: 2025-12-04
 ---
 
 
+<!-- i18n:section:introduction -->
 불필요한 요소는 모두 던져 버리세요. 이건 평범한 Geometry Dash 산책 코스가
 아닙니다. 오로지 웨이브만으로 구성된 순수한 가시밭 레벨로, 당신을 부수고 다시
 강하게 단련하기 위해 존재합니다. 포탈도, 패드도, 코인도 없습니다. 남는 건
@@ -41,3 +43,4 @@ score: 4.5/5  (604 votes)
 - **짧지만 고강도 러닝**: 빠르게 도전하고, 즉시 리트라이를 반복하도록
   설계된 구조입니다. 패턴을 학습하고, 실수를 분석하며, 매 시도마다 조금씩 더
   멀리 나아가 보세요.
+

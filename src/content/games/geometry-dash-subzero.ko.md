@@ -16,12 +16,14 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### 게임 개요
 
 `Geometry Dash SubZero`는 겨울 분위기의 스테이지들로 구성된 지오메트리 대시
 레벨 팩입니다. 눈과 얼음으로 꾸며진 배경, 높은 대비의 이펙트, 고유한 곡들이
 어우러져 빠른 패턴과 촘촘한 비행 전환을 요구합니다.
 
+<!-- i18n:section:how-to-play -->
 ### 플레이 방법
 
 - 링을 통과하는 타이밍을 연습하세요. 일부 구간은 매우 빠른 연속 탭이나
@@ -31,6 +33,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - 배경 이펙트와 음악의 비트가 맞물리는 지점을 외우면, 다음 점프나 링 타이밍을
   미리 예측하는 데 큰 도움이 됩니다.
 
+<!-- i18n:section:controls -->
 ### 조작 방법
 
 - 탭/스페이스바/마우스 클릭으로 점프하거나 Ship 구간에서 상승합니다.
@@ -44,14 +47,19 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - 연습 모드에서 체크포인트를 활용해 어려운 구간을 반복 연습하면, 손에
   근육 기억이 생겨 본 모드 클리어가 훨씬 수월해집니다.
 
+<!-- i18n:section:faq -->
 ### 자주 묻는 질문(FAQ)
 
+<!-- i18n:faq:id=faq:geometry-dash-subzero:how-is-subzero-different-from-87a7bd41 -->
 - Q: SubZero는 다른 팩과 무엇이 다른가요?  
   A: SubZero는 자체적인 음악 세트와 얼음·눈을 강조한 테마, 그리고 도전적인
   패턴으로 구성된 독립 레벨 팩입니다.
+<!-- i18n:faq:id=faq:geometry-dash-subzero:can-i-play-in-practice-15fa8fa2 -->
 - Q: 이 버전에서도 연습 모드를 사용할 수 있나요?  
   A: 네. 대부분의 호스트에서 체크포인트를 둘 수 있는 연습 모드를 제공하며,
   이를 통해 난이도 높은 구간을 반복 연습할 수 있습니다.
+<!-- i18n:faq:id=faq:geometry-dash-subzero:are-there-user-levels-a456c939 -->
 - Q: 유저 제작 레벨도 있나요?  
   A: SubZero는 기본적으로 내장 레벨에 중점을 두며, 사용자 제작 콘텐츠 제공
   여부는 사용하는 호스트 사이트에 따라 달라집니다.
+
