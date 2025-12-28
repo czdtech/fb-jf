@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 Big Shot Boxing es un juego de boxeo arcade con estética retro y un fuerte
@@ -30,6 +31,7 @@ estadísticas diferentes. El objetivo final es derrotar a todos los oponentes y
 levantar el cinturón de campeón. Es fácil de entender, pero ofrece un reto
 satisfactorio de dominar.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego
 
 -   **Paciencia y defensa primero:** No repitas golpes sin parar; gastarás la
@@ -57,6 +59,7 @@ satisfactorio de dominar.
     pelear contra rivales anteriores. Ganarás dinero extra para entrenar y
     mejorar estadísticas antes de intentarlo de nuevo.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 El juego usa un sistema de toques y deslizamientos muy simple.
@@ -71,20 +74,26 @@ El juego usa un sistema de toques y deslizamientos muy simple.
 -   **Botón "Big Shot":** Aparece cuando la barra especial está llena; tócalo
     para lanzar tu puñetazo insignia.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:big-shot-boxing:what-are-the-best-stats-43c2c76e -->
 **1. ¿Qué estadísticas subo primero?**
 
 Empieza equilibrando Fuerza, Velocidad y Chin. Luego, especialízate: Fuerza si buscas KOs, Velocidad si prefieres sumar puntos, y Chin para resistir más castigo.
 
+<!-- i18n:faq:id=faq:big-shot-boxing:how-do-i-beat-an-5c2f4853 -->
 **2. ¿Cómo venzo a un rival mucho más rápido?**
 
 Bloquea, deja que se agote contra tu guardia y aprovecha el descanso para responder con una combinación o un gancho ascendente que corte su ritmo.
 
+<!-- i18n:faq:id=faq:big-shot-boxing:my-punches-dont-seem-to-38034a29 -->
 **3. Mis golpes apenas hacen daño, ¿por qué?**
 
 Tu Fuerza puede ser inferior a su Chin o quizá estás sin resistencia. Entrena más y, en el combate, retrocede un momento para recuperar energía antes de volver al ataque.
 
+<!-- i18n:faq:id=faq:big-shot-boxing:how-does-the-big-shot-26d69f2e -->
 **4. ¿Cómo se llena la barra de Big Shot?**
 
 Golpeando y bloqueando con éxito. Los contraataques limpios y los golpes fuertes llenan la barra con mayor rapidez.
+

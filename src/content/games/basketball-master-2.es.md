@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada
 
 Basketball Master 2 es un juego deportivo centrado en el tiro a canasta. La
@@ -24,6 +25,7 @@ ajustar la potencia, intentando que el balón entre limpiamente en el aro. En
 algunos niveles también debes romper bloques de madera o hielo disparando con
 más fuerza.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego y recorrido
 
 1.  **Apunta y lanza con precisión:** Mantén pulsado y arrastra para controlar
@@ -36,14 +38,19 @@ más fuerza.
     con la trayectoria y el comportamiento del balón. Cuanto más juegues, mejor
     intuición tendrás sobre qué ángulo y fuerza usar.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 *   **Ratón / Pantalla táctil:** Mantén pulsado, arrastra para apuntar y suelta
     para lanzar el balón.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:basketball-master-2:q-how-do-i-get-62133937 -->
 *   **Q: ¿Cómo consigo más puntos?**
     *   **A:** Encadenar tiros limpios y romper los obstáculos del nivel aumenta el multiplicador de puntuación.
+<!-- i18n:faq:id=faq:basketball-master-2:q-what-is-the-best-c93a41c7 -->
 *   **Q: ¿Cuál es la mejor forma de tirar?**
     *   **A:** Depende del diseño del nivel: usa parábolas altas para superar barreras y tiros más rectos cuando necesites atravesar bloques.
+

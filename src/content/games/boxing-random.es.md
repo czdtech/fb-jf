@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 Boxing Random es un juego de lucha con físicas alocadas y un esquema de control
@@ -41,6 +42,7 @@ movimientos tambaleantes e impactos imprevisibles que provocan muchos momentos
 cómicos. Puedes jugar en solitario contra la IA o localmente con un segundo
 jugador.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego
 
 -   **Abraza el caos:** No intentes jugar como si fuera un simulador de boxeo
@@ -64,6 +66,7 @@ jugador.
     mantén la distancia y golpea desde lejos. Con brazos cortos, en cambio,
     deberás acercarte y jugar de forma más agresiva.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 El juego es famoso por su esquema de un solo botón.
@@ -77,23 +80,29 @@ El juego es famoso por su esquema de un solo botón.
 **Nota:** El mismo botón controla todas las acciones. Al pulsarlo, tu personaje
 salta o se inclina y, automáticamente, balancea el brazo para lanzar el golpe.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:boxing-random:how-do-i-win-a-e21b4f7d -->
 **1. ¿Cómo gano una ronda?**
 > Ganarás la ronda si consigues conectar un golpe limpio en la cabeza del rival.
 > El primer jugador que gana 5 rondas se lleva el combate completo.
 
+<!-- i18n:faq:id=faq:boxing-random:why-do-the-characters-look-21310768 -->
 **2. ¿Por qué los personajes se ven y se mueven de forma tan rara?**
 > Es parte del encanto del juego. Personajes y físicas se randomizan en cada
 > ronda: puedes tener brazos larguísimos, fondos diferentes u obstáculos nuevos.
 > Las físicas estilo "ragdoll" son las responsables de los movimientos torpes y
 > los K.O. imprevisibles.
 
+<!-- i18n:faq:id=faq:boxing-random:is-there-a-way-to-78bb8bae -->
 **3. ¿Hay forma de bloquear?**
 > No existe un botón de bloqueo como tal, pero puedes usar tu propio brazo como
 > escudo improvisado para desviar o absorber el golpe rival; eso sí, requiere
 > buena sincronización.
 
+<!-- i18n:faq:id=faq:boxing-random:can-i-play-this-game-0d71baf7 -->
 **4. ¿Puedo jugar solo?**
 > Sí, Boxing Random incluye un modo para un jugador en el que te enfrentas a un
 > oponente controlado por la IA.
+

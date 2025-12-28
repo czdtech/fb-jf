@@ -18,6 +18,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Brain Trainer es una recopilación de minijuegos pensados para poner en forma tus
@@ -27,6 +28,7 @@ retos breves pero exigentes, pondrás a prueba tu agilidad mental, mejorarás la
 concentración y podrás seguir la evolución de tu rendimiento con el tiempo. Es
 una forma perfecta de mantener la mente despierta mientras te diviertes.
 
+<!-- i18n:section:tips -->
 ### Estrategia y tipos de prueba
 
 Brain Trainer incluye distintos tipos de minijuegos. Algunos ejemplos:
@@ -45,6 +47,7 @@ Brain Trainer incluye distintos tipos de minijuegos. Algunos ejemplos:
     para encajarlos en una silueta concreta o guiar un elemento a través de un
     laberinto.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 Los controles son muy simples y cambian ligeramente según el minijuego, pero
@@ -53,18 +56,23 @@ siempre se basan en clics o toques.
 *   **Seleccionar/Responder:** Haz clic o toca sobre el objeto, número o
     secuencia correctos según lo que pida la prueba actual.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:brain-trainer:q-what-is-the-goal-ab58581b -->
 *   **P: ¿Cuál es el objetivo del juego?**
     *   **R:** Conseguir la mayor puntuación posible en cada minijuego. Muchos
         Brain Trainer ofrecen además una puntuación global del "cerebro" o una
         estimación de "edad mental" basada en tus resultados en todas las
         categorías.
 
+<!-- i18n:faq:id=faq:brain-trainer:q-are-the-games-timed-d1306c73 -->
 *   **P: ¿Las pruebas están cronometradas?**
     *   **R:** Sí, la mayoría de minijuegos tienen límite de tiempo. Tu
         puntuación suele depender de una combinación de velocidad y precisión.
 
+<!-- i18n:faq:id=faq:brain-trainer:q-how-can-i-improve-1e0919f0 -->
 *   **P: ¿Cómo puedo mejorar mis resultados?**
     *   **R:** Con práctica. Cuanto más juegues, más familiar te volverás con los
         tipos de retos y más rápido y preciso responderás.
+

@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 BlockDrop es un puzle atemporal y envolvente que pone a prueba tu pensamiento
@@ -27,6 +28,7 @@ espacio y te otorga puntos. Al no haber límite de tiempo, es un juego relajante
 pero exigente en el que debes planear bien cada movimiento para que el tablero
 no se llene.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego y recorrido
 
 1.  **Planifica para las tres piezas:** El juego te ofrece tres formas a la vez.
@@ -44,6 +46,7 @@ no se llene.
     bloques. Aprende a reconocer las formas y cómo encajan entre sí en sus
     orientaciones fijas.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 El juego utiliza un esquema de control sencillo de arrastrar y soltar.
@@ -52,20 +55,25 @@ El juego utiliza un esquema de control sencillo de arrastrar y soltar.
     formas desde la parte inferior y suéltala en un espacio vacío de la
     cuadrícula de 10x10.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:blockdrop:q-can-i-rotate-the-93ca2109 -->
 *   **P: ¿Puedo rotar las piezas?**
     *   **R:** No, los bloques no se pueden rotar. Debes usarlos en la
         orientación en la que aparecen.
 
+<!-- i18n:faq:id=faq:blockdrop:q-how-does-the-game-f20a1993 -->
 *   **P: ¿Cómo termina la partida?**
     *   **R:** La partida termina cuando ya no queda ningún espacio disponible
         en la cuadrícula donde puedas colocar cualquiera de las tres piezas
         actuales.
 
+<!-- i18n:faq:id=faq:blockdrop:q-whats-the-best-way-04ea0c4b -->
 *   **P: ¿Cuál es la mejor forma de conseguir una puntuación alta?**
     *   **R:** Las puntuaciones altas dependen de dos factores: aguantar mucho
         tiempo y encadenar combos. Mantén el tablero limpio para prolongar la
         partida y, sobre todo, prepara el terreno para limpiar dos, tres o
         incluso cuatro líneas con una sola pieza y conseguir enormes bonificaciones
         de combo.
+

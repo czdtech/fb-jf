@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 Breaking the Bank es un juego corto, interactivo y basado en decisiones, y la
@@ -51,6 +52,7 @@ Verás seis opciones en la parte inferior de la pantalla:
 > una pantalla de FAIL muy divertida. Lo ideal es hacer clic en todas las demás
 > primero para disfrutar de los gags antes de encontrar la solución.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 El juego se maneja íntegramente con el ratón.
@@ -59,17 +61,21 @@ El juego se maneja íntegramente con el ratón.
 -   **Clic izquierdo:** Selecciona el método que quieres probar y observa el
     resultado.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:breaking-the-bank:is-there-more-than-one-8d64b7de -->
 **1. ¿Hay más de una forma de ganar?**
 > No, solo hay una elección concreta (la pala, **Shovel**) que permite a Henry
 > tener éxito. El resto están diseñadas para ser fallos cómicos.
 
+<!-- i18n:faq:id=faq:breaking-the-bank:why-is-the-game-so-327082bc -->
 **2. ¿Por qué el juego es tan corto?**
 > Breaking the Bank fue el primer experimento de la serie, una especie de
 > prueba de concepto del sistema de decisiones tipo "elige tu propia aventura".
 > Las entregas posteriores son bastante más largas y complejas.
 
+<!-- i18n:faq:id=faq:breaking-the-bank:is-this-game-part-of-663d818e -->
 **3. ¿Forma parte de una serie más grande?**
 > Sí, es el primer juego de la icónica saga **Henry Stickmin**. El orden
 > cronológico es:
@@ -81,7 +87,9 @@ El juego se maneja íntegramente con el ratón.
 > Más tarde se remasterizaron y reunieron junto a un capítulo final, "Completing
 > the Mission", en **The Henry Stickmin Collection**.
 
+<!-- i18n:faq:id=faq:breaking-the-bank:where-is-the-gameplay-i-dc81522e -->
 **4. Solo tengo una decisión, ¿dónde está el "gameplay"?**
 > El juego consiste precisamente en ver todos los desenlaces posibles. La idea
 > no es ganar a la primera, sino ir probando cada opción para disfrutar de las
 > animaciones y chistes de cada FAIL antes de llegar a la elección correcta.
+

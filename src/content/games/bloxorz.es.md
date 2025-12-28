@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 Bloxorz es un exigente juego de puzles 3D en el que el objetivo es mover un
@@ -42,6 +43,7 @@ interruptores:
     -   **Interruptores de división (`<>`):** Si el bloque se tumba sobre ellos,
         se divide en dos cubos independientes de 1x1.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego
 
 -   **Piensa y planifica con anticipación:** Bloxorz es un juego de visión a
@@ -67,6 +69,7 @@ interruptores:
 -   **Apunta los códigos de nivel:** Cada fase tiene un código propio. Anótalos
     para poder volver a un nivel concreto sin empezar siempre desde el principio.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 El control se basa en las teclas de dirección del teclado.
@@ -78,22 +81,28 @@ El control se basa en las teclas de dirección del teclado.
 -   **Barra espaciadora:** Cambia el control entre los dos cubos cuando el bloque
     está dividido.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:bloxorz:why-did-i-fall-through-02b3bb8a -->
 **1. ¿Por qué me caigo a través del suelo naranja?**
 > Porque el bloque está de pie sobre una baldosa naranja. Esas baldosas son
 > frágiles y solo aguantan el bloque cuando está tumbado, repartiendo su peso en
 > dos casillas.
 
+<!-- i18n:faq:id=faq:bloxorz:the-x-switch-is-not-3bcd7a15 -->
 **2. El interruptor 'X' no funciona. ¿Qué estoy haciendo mal?**
 > El interruptor 'X' es un conmutador "duro". Necesita el peso concentrado del
 > bloque en vertical para activarse. Debes colocarte de pie encima; si pasas
 > tumbado, no se activará.
 
+<!-- i18n:faq:id=faq:bloxorz:how-do-i-get-my-4d324308 -->
 **3. ¿Cómo vuelvo a juntar los dos bloques pequeños?**
 > Coloca ambos cubos en casillas adyacentes (una junto a la otra). Luego mueve
 > uno hacia el otro y se fusionarán de nuevo en el bloque original.
 
+<!-- i18n:faq:id=faq:bloxorz:how-can-i-return-to-46010fe6 -->
 **4. ¿Cómo regreso a un nivel que ya superé?**
 > Al completar cada nivel, el juego muestra un código de 6 caracteres. Puedes
 > introducirlo en el menú principal para empezar directamente desde esa fase.
+

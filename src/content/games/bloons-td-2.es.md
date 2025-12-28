@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 Bloons TD 2 es la segunda entrega de la clásica saga de defensa de torres. Parte
@@ -52,6 +53,7 @@ específicas.
     -   **Rainbow Bloons:** El Bloon más resistente del juego. Al reventar,
         suelta dos Zebra Bloons.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego
 
 -   **La defensa equilibrada es esencial:** Esta es la idea más importante en
@@ -82,6 +84,7 @@ específicas.
     de visión larga. Es tu mejor defensa contra las densas oleadas de Rainbow
     Bloons de las últimas rondas (46–50).
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 Los controles son los sencillos de apuntar y hacer clic, típicos de los juegos
@@ -97,27 +100,34 @@ Flash de su época.
 -   **Atajos de teclado:** Puedes usar las teclas numéricas (1–5) como acceso
     rápido para seleccionar las torres correspondientes.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:bloons-td-2:why-isnt-my-bomb-tower-b290ce7b -->
 **1. ¿Por qué mi Bomb Tower no revienta los globos negros?**
 > Los Black Bloons son inmunes a las explosiones. Necesitas ataques "cortantes"
 > de torres como Dart Monkey o Tack Shooter para reventarlos.
 
+<!-- i18n:faq:id=faq:bloons-td-2:why-are-the-white-balloons-e75769ed -->
 **2. ¿Por qué los globos blancos atraviesan el congelamiento de mi Ice Tower?**
 > Los White Bloons son inmunes a los efectos de congelación. No pueden ser
 > ralentizados ni detenidos por las Ice Towers.
 
+<!-- i18n:faq:id=faq:bloons-td-2:what-is-the-best-tower-548c67b5 -->
 **3. ¿Cuál es la mejor torre del juego?**
 > No hay una única "mejor" torre, porque el juego se basa en el equilibrio. El
 > Super Monkey tiene la mayor potencia bruta, pero no ganarás sin Bomb Towers
 > para los Lead Bloons ni sin una defensa equilibrada para los Bloons negros y
 > blancos. Lo óptimo es siempre una combinación de torres.
 
+<!-- i18n:faq:id=faq:bloons-td-2:how-many-rounds-are-there-bc36dc0a -->
 **4. ¿Cuántas rondas hay en Bloons TD 2?**
 > El juego consta de 50 rondas. Las últimas incluyen grandes oleadas de Rainbow
 > Bloons.
 
+<!-- i18n:faq:id=faq:bloons-td-2:how-do-i-make-extra-07b6fc14 -->
 **5. ¿Cómo consigo dinero extra?**
 > En Bloons TD 2 la única forma de ganar dinero es reventando Bloons. A
 > diferencia de entregas posteriores de la saga, aquí no hay Banana Farms ni
 > otras habilidades para generar ingresos adicionales.
+

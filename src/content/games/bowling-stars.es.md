@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Bowling Stars es un simulador casual de bolos de diez pinos centrado en la
@@ -23,6 +24,7 @@ puntería, la potencia y el control del efecto. La clave para las puntuaciones
 altas está en la consistencia y en convertir los spares: ajusta tu suelta y
 adáptate al comportamiento de la pista para encadenar tiradas perfectas.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Golpea el bolsillo:** Si lanzas con mano derecha, apunta entre los bolos
@@ -36,6 +38,7 @@ adáptate al comportamiento de la pista para encadenar tiradas perfectas.
 5.  **Ajusta con rapidez:** Si dejas splits con frecuencia, corrige tu línea de
     salida o reduce ligeramente el hook.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - **Apuntar:** Arrastra a izquierda/derecha para fijar la línea.
@@ -43,16 +46,21 @@ adáptate al comportamiento de la pista para encadenar tiradas perfectas.
 - **Efecto:** Arrastra/inclina mientras la bola rueda o ajusta un parámetro de
   giro antes de lanzar, según el modo.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:bowling-stars:how-to-reduce-splits-22c680ef -->
 - **¿Cómo reduzco la cantidad de splits?**
   Entra en el bolsillo con un ángulo controlado; si la bola llega demasiado
   recta o demasiado cerrada, aumentan las probabilidades de split.
 
+<!-- i18n:faq:id=faq:bowling-stars:any-tip-for-710-5365d339 -->
 - **¿Algún consejo para el 7/10?**
   Usa lanzamientos cruzados con suficiente ángulo y prioriza la consistencia en
   los spares por encima de jugadas "milagro".
 
+<!-- i18n:faq:id=faq:bowling-stars:why-do-i-miss-lightheavy-a1826eba -->
 - **¿Por qué a veces pego demasiado flojo o demasiado fuerte?**
   Ajusta poco a poco tu posición inicial o la intensidad del hook en lugar de
   hacer cambios grandes entre tiros.
+

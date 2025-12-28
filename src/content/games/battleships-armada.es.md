@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada
 
 Battleships Armada es una versión digital del clásico juego de mesa de combate
@@ -25,6 +26,7 @@ Cada jugador coloca en secreto su flota en una cuadrícula y, por turnos, dispar
 sobre las coordenadas del tablero rival intentando localizar y hundir todos sus
 barcos. El primero en hacerlo gana.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego y recorrido
 
 1.  **Colocación estratégica:** La partida comienza con la fase de despliegue.
@@ -42,6 +44,7 @@ barcos. El primero en hacerlo gana.
     segundo impacto alineado), sigue disparando en esa línea hasta hundirlo.
     Después, vuelve a tu patrón general de búsqueda para encontrar el siguiente.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 *   **Colocar barcos:** Durante la preparación, arrastra los barcos a tu
@@ -50,13 +53,18 @@ barcos. El primero en hacerlo gana.
 *   **Disparar:** En combate, haz clic en una casilla del tablero enemigo para
     lanzar un disparo a esa coordenada.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:battleships-armada:q-how-do-i-know-593c9265 -->
 *   **P: ¿Cómo sé dónde están los barcos del rival?**
     *   **R:** No lo sabes; ése es el reto. Debes deducir su posición a partir de tus "tocados" y "agua".
 
+<!-- i18n:faq:id=faq:battleships-armada:q-what-happens-after-i-73af1860 -->
 *   **P: ¿Qué hago tras un primer impacto?**
     *   **R:** Dispara a las casillas que lo rodean. Al conseguir un segundo impacto alineado sabrás si el barco es horizontal o vertical.
 
+<!-- i18n:faq:id=faq:battleships-armada:q-how-do-i-win-82c5f7c2 -->
 *   **P: ¿Cómo gano la partida?**
     *   **R:** Hundiendo todos los barcos de la flota enemiga antes de que el rival hunda los tuyos.
+

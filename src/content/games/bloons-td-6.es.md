@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 Bloons TD 6 es la entrega más reciente y ambiciosa de la aclamada saga de
@@ -51,6 +52,7 @@ especializados para cada torre.
     las tres torres de nivel 5 de un mismo tipo de mono, puedes sacrificarlas
     para crear una versión Paragon increíblemente poderosa.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego
 
 -   **La sinergia manda:** BTD6 va de combinaciones entre torres. Una de las más
@@ -88,6 +90,7 @@ especializados para cada torre.
     muchos pops con ellas e invertir una gran cantidad de dinero en la mejora
     final.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 Los controles son intuitivos tanto en PC (ratón) como en móvil (táctil).
@@ -102,13 +105,16 @@ Los controles son intuitivos tanto en PC (ratón) como en móvil (táctil).
     acceso rápido (por ejemplo, Q para Dart Monkey, 1/2/3 para las rutas). Esto
     permite un juego muy rápido a los jugadores expertos.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:bloons-td-6:what-is-the-best-hero-fd93e6b7 -->
 **1. ¿Cuál es el mejor héroe para empezar?**
 > **Sauda** suele considerarse el héroe más amigable para principiantes: es
 > relativamente barata y puede encargarse casi sola de las primeras 20–30
 > rondas en mapas sencillos, dejándote libre para construir tu economía.
 
+<!-- i18n:faq:id=faq:bloons-td-6:how-do-i-beat-ddts-4a5c8219 -->
 **2. ¿Cómo paro a los DDTs? Siempre rompen mi defensa.**
 > Los DDTs requieren una defensa multifacética: torres con detección de Camo,
 > capacidad de dañar Lead/Black y mucho daño. Un Monkey Village con **Monkey
@@ -116,12 +122,14 @@ Los controles son intuitivos tanto en PC (ratón) como en móvil (táctil).
 > las torres cercanas dañen cualquier tipo de Bloon. Acompáñalo con torres de
 > alto daño como un Tack Shooter 2/0/5 o una Perma‑Spike factory 0/2/5.
 
+<!-- i18n:faq:id=faq:bloons-td-6:why-cant-i-damage-the-906554ad -->
 **3. ¿Por qué no puedo dañar a los Purple Bloons?**
 > Los Purple Bloons son inmunes a ataques de energía, plasma, fuego y magia. Eso
 > incluye muchas mejoras del Wizard Monkey y de ciertas rutas del Super Monkey.
 > Debes usar torres que disparen proyectiles físicos, como un Crossbow Master
 > (Dart Monkey 0/2/5) o un Juggernaut (Dart Monkey 5/x/x).
 
+<!-- i18n:faq:id=faq:bloons-td-6:how-do-i-make-a-07bea3d1 -->
 **4. ¿Cómo creo un Paragon?**
 > Primero necesitas tener en el mapa las tres torres de nivel 5 de un mismo
 > tipo de mono (por ejemplo, los tres Tier 5 de Dart Monkey). Cuando lo
@@ -129,8 +137,10 @@ Los controles son intuitivos tanto en PC (ratón) como en móvil (táctil).
 > fuerza del Paragon depende del número de torres sacrificadas, sus pops totales
 > y el dinero invertido.
 
+<!-- i18n:faq:id=faq:bloons-td-6:what-is-chimps-mode-3b6712c1 -->
 **5. ¿Qué es el modo CHIMPS?**
 > CHIMPS es el modo más difícil de BTD6. El nombre recoge sus reglas en inglés:
 > **N**o **C**ontinues, **N**o **H**earts Lost, **N**o **I**ncome extra, **N**o
 > **M**onkey Knowledge, **N**o **P**owers y **N**o **S**elling. Es la prueba
 > definitiva de la estrategia de cualquier jugador.
+

@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Bricks Breaker es una versión moderna del rompebloques arcade de toda la vida.
@@ -26,6 +27,7 @@ ayudan a limpiar los niveles más rápido. Con numerosos niveles, formaciones de
 ladrillos desafiantes y potenciadores variados, Bricks Breaker ofrece diversión
 sin fin.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Controla la pala:** Tu tarea principal es colocar la pala en el sitio
@@ -43,6 +45,7 @@ sin fin.
 5.  **Usa las paredes:** Aprovecha las paredes laterales para generar ángulos
     complicados y llegar a zonas difíciles.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 *   **Mover la pala:** Mueve el ratón a izquierda y derecha para posicionar la
@@ -50,17 +53,22 @@ sin fin.
 *   **Lanzar la bola:** Haz clic con el botón izquierdo para lanzar la bola desde
     la pala al inicio de cada vida.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:bricks-breaker:q-what-is-the-goal-ab58581b -->
 *   **P: ¿Cuál es el objetivo del juego?**
     *   **R:** Romper todos los ladrillos destruibles de cada nivel para pasar
         al siguiente.
 
+<!-- i18n:faq:id=faq:bricks-breaker:q-what-happens-if-i-156836d4 -->
 *   **P: ¿Qué ocurre si fallo la bola?**
     *   **R:** Si la bola cae por debajo de la pala, pierdes una vida. La
         partida termina cuando te quedas sin vidas.
 
+<!-- i18n:faq:id=faq:bricks-breaker:q-what-do-the-different-b6a457e3 -->
 *   **P: ¿Qué hace cada potenciador?**
     *   **R:** Depende del icono, pero los más comunes amplían la pala, dividen
         la bola en tres (multi‑bola), convierten la bola en un proyectil que
         atraviesa varios ladrillos o equipan la pala con láseres.
+

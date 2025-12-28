@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada
 
 Basketball Serial Shooter es un reto de baloncesto tipo "score‑attack" centrado
@@ -28,6 +29,7 @@ reboten fuera.
 A medida que avanzas, aparecen obstáculos, tableros móviles y cambios en la
 altura de la canasta que exigen una mecánica cada vez más pulida.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego y recorrido
 
 1.  **Construye una forma repetible:** Elige una posición del cursor y un ritmo
@@ -48,6 +50,7 @@ altura de la canasta que exigen una mecánica cada vez más pulida.
 7.  **Gestiona tus objetivos:** En modos con tiempo, ignora monedas o dianas
     laterales arriesgadas si no se alinean bien con tu parábola estándar.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - **Apuntar y potencia:** Arrastra para fijar ángulo y fuerza y suelta para
@@ -58,26 +61,33 @@ altura de la canasta que exigen una mecánica cada vez más pulida.
 - **Pausa / Reiniciar:** Usa los botones de la interfaz; algunas versiones
   permiten reinicio rápido.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:basketball-serial-shooter:why-do-my-shots-keep-ebf33bb9 -->
 - **P: Mis tiros siempre rebotan en el aro, ¿por qué?**  
   **R:** Seguramente tu arco es demasiado plano o usas demasiada potencia.
   Sube el punto más alto de la parábola y reduce ligeramente la fuerza para que
   el balón caiga más vertical.
 
+<!-- i18n:faq:id=faq:basketball-serial-shooter:how-do-i-handle-moving-9460d31b -->
 - **P: ¿Cómo enfrento aros en movimiento?**  
   **R:** Mira un ciclo completo, elige una fase concreta (por ejemplo, el punto
   de máxima altura o el extremo izquierdo) y acostúmbrate a soltar siempre en
   ese momento.
 
+<!-- i18n:faq:id=faq:basketball-serial-shooter:does-wind-matter-in-this-2843bdec -->
 - **P: ¿El viento influye de verdad?**  
   **R:** En las variantes con viento, sí. Apunta un poco hacia el lado desde el
   que sopla y añade algo de arco; practica unos tiros para ajustarte.
 
+<!-- i18n:faq:id=faq:basketball-serial-shooter:any-tip-for-streaks-and-926f54cf -->
 - **P: ¿Algún consejo para mantener rachas y multiplicadores?**  
   **R:** Empieza con tiros cercanos y seguros para construir combo y, una vez
   tengas el ritmo, ve alejándote poco a poco.
 
+<!-- i18n:faq:id=faq:basketball-serial-shooter:should-i-go-for-coin-be4a4fb3 -->
 - **P: ¿Merece la pena ir a por monedas o tiros especiales?**  
   **R:** Solo si su trayectoria coincide con tu arco habitual; de lo contrario,
   perderás más tiempo y racha de lo que ganarás en puntos.
+

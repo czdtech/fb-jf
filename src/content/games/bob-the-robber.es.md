@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 Bob the Robber es una serie de juegos 2D que mezclan sigilo, puzles y
@@ -34,6 +35,7 @@ invisible a Bob para la mayoría de amenazas. Superar un nivel suele implicar
 resolver pequeños puzles, como encontrar códigos de teclados o forzar cerraduras,
 siempre procurando que nadie te vea.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego
 
 -   **La paciencia es tu mejor herramienta:** No te precipites. El error más
@@ -64,6 +66,7 @@ siempre procurando que nadie te vea.
     de fajos de billetes escondidos en cajones, estanterías o detrás de cuadros.
     Encontrarlos mejora tu puntuación final.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 Los controles se mantienen bastante consistentes en toda la serie y son muy
@@ -82,25 +85,31 @@ sencillos.
 -   **Z, X, C (en entregas posteriores):** Utilizar gadgets especiales cuando
     estén disponibles.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:bob-the-robber:a-guard-saw-me-even-193e00f0 -->
 **1. Un guardia me vio aunque estaba en las sombras. ¿Por qué?**
 > Si un guardia choca directamente contigo, te detectará aunque estés en una
 > zona oscura. Las sombras te protegen de la línea de visión, pero no del
 > contacto físico.
 
+<!-- i18n:faq:id=faq:bob-the-robber:how-do-i-get-past-ebedded9 -->
 **2. ¿Cómo atravieso las barreras láser?**
 > Normalmente tienes que encontrar un interruptor o panel de control en el nivel
 > para desactivarlas. A veces implica un pequeño minijuego; otras, basta con una
 > sola interacción.
 
+<!-- i18n:faq:id=faq:bob-the-robber:i-knocked-out-a-guard-e2235057 -->
 **3. Noqueé a un guardia y aun así me atraparon. ¿Qué pasó?**
 > Seguramente otro guardia vio el cuerpo y dio la alarma. Cuando noquees a
 > alguien, procura que quede tumbado fuera de las rutas de patrulla de los
 > demás.
 
+<!-- i18n:faq:id=faq:bob-the-robber:is-it-better-to-knock-522a4adb -->
 **4. ¿Es mejor noquear guardias o colarse sin que se den cuenta?**
 > Lo más seguro casi siempre es colarse sin hacer ruido. Noquear debería ser la
 > última opción o usarse solo cuando estés seguro de que ningún otro guardia
 > encontrará el cuerpo. Es una herramienta para abrir huecos puntuales, no una
 > estrategia base.
+

@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Blocks Puzzle es un puzle clásico y muy entretenido que pone a prueba tu
@@ -25,6 +26,7 @@ línea se limpia, libera espacio y te da puntos. La partida termina cuando ya no
 puedes colocar ninguna de las piezas disponibles. Como no hay límite de tiempo,
 puedes pensar cada jugada con calma para alcanzar la máxima puntuación.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego y recorrido
 
 1.  **Planifica con antelación:** Observa las tres piezas que tienes en mano.
@@ -44,6 +46,7 @@ puedes pensar cada jugada con calma para alcanzar la máxima puntuación.
     larga necesitan mucho espacio. Intenta usarlas en cuanto tengas un buen
     hueco o reserva una zona para ellas. Guardarlas demasiado tiempo es arriesgado.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 *   **Arrastrar y soltar:** Usa el ratón para hacer clic y arrastrar un bloque
@@ -53,18 +56,23 @@ puedes pensar cada jugada con calma para alcanzar la máxima puntuación.
 *   **Sin rotación:** En esta versión del juego, los bloques no se pueden rotar.
     Debes utilizarlos en la orientación en la que se presentan.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:blocks-puzzle:q-can-i-rotate-the-8b38e9ae -->
 *   **P: ¿Puedo rotar los bloques?**
     *   **R:** No, en esta versión clásica del puzle de bloques no existe la
         rotación. Esa limitación forma parte del reto.
 
+<!-- i18n:faq:id=faq:blocks-puzzle:q-how-do-i-get-698432e6 -->
 *   **P: ¿Cómo consigo una puntuación más alta?**
     *   **R:** Céntrate en limpiar varias líneas a la vez para aprovechar los
         combos. Cuantas más líneas limpies con una sola pieza, más puntos
         obtendrás.
 
+<!-- i18n:faq:id=faq:blocks-puzzle:q-what-happens-when-i-e8e69d77 -->
 *   **P: ¿Qué ocurre cuando me quedo sin movimientos?**
     *   **R:** La partida termina cuando ninguna de las tres piezas disponibles
         puede colocarse en la cuadrícula. En ese momento se registra tu
         puntuación final.
+

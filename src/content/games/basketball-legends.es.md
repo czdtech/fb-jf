@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada
 
 *Basketball Legends* es un juego de baloncesto arcade en 2D muy dinámico, con
@@ -30,6 +31,7 @@ llenar una barra de energía. Con modos como partido rápido, torneo y juego a 2
 jugadores en el mismo teclado, es perfecto tanto para jugar solo como para picar
 te con amigos.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego
 
 Ganar en *Basketball Legends* requiere dominar el movimiento, la sincronización y el uso
@@ -88,26 +90,33 @@ El juego está optimizado para dos personas en un solo teclado.
 *   **Salto:** Flecha `↑`.  
 *   **Super Shot:** tecla `K`.  
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:basketball-legends:how-do-i-perform-a-7374b543 -->
 **1. ¿Cómo hago el Super Shot?**  
 Primero debes llenar la barra azul en la parte inferior realizando acciones
 (tiros, tapones, robos). Cuando esté llena y parpadeando, pulsa la tecla de
 supertiro (`V` para J1, `K` para J2) para lanzar un tiro especial imparable.
 
+<!-- i18n:faq:id=faq:basketball-legends:what-is-the-best-way-fd358af9 -->
 **2. ¿La mejor forma de ganar un torneo?**  
 En torneos debes encadenar varias victorias contra rivales cada vez más duros.
 La clave es la defensa constante: si concedes pocos puntos, los tuyos terminarán
 llegando. Guarda el Super Shot para romper empates o asegurar ventaja al final.
 
+<!-- i18n:faq:id=faq:basketball-legends:why-cant-i-block-the-ef1c825d -->
 **3. ¿Por qué no puedo taponar el Super Shot?**  
 Porque está diseñado para ser imparable. Es la recompensa por jugar bien y un
 mecanismo de remontada.
 
+<!-- i18n:faq:id=faq:basketball-legends:whats-the-difference-between-t-6394c71e -->
 **4. ¿En qué se diferencian los personajes?**  
 Aunque hay muchas estrellas distintas, sus habilidades básicas son muy similares.
 Las diferencias son sobre todo estéticas, así que elige a tu leyenda favorita.
 
+<!-- i18n:faq:id=faq:basketball-legends:can-i-pass-the-ball-eea2c74f -->
 **5. ¿Puedo pasar el balón en 2 vs 2?**  
 En la mayoría de versiones, el botón de tiro (`B` o `L`) actúa como pase cuando
 el compañero no tiene el balón.
+

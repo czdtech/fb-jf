@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 Bloons TD 5 es un título clave dentro del género de defensa de torres, muy
@@ -46,6 +47,7 @@ BTD5 amplía el universo del juego con varias incorporaciones clave:
     activas muy poderosas, como el misil de **MOAB Assassin** o el "Downdraft"
     del Heli Pilot.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego
 
 -   **La economía lo es todo:** La clave para triunfar en BTD5 es construir una
@@ -83,6 +85,7 @@ BTD5 amplía el universo del juego con varias incorporaciones clave:
         velocidad de todos los Bloons en pantalla, algo crítico en las últimas
         rondas.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 El juego utiliza una interfaz estándar de apuntar‑y‑clic o toque.
@@ -99,17 +102,21 @@ El juego utiliza una interfaz estándar de apuntar‑y‑clic o toque.
 -   **Atajos de teclado:** En PC hay atajos tanto para colocar torres como para
     usar habilidades; se muestran sobre los iconos.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:bloons-td-5:what-is-the-best-tower-e969f316 -->
 **1. ¿Cuál es la mejor torre de Bloons TD 5?**
 > No existe una torre "mejor" de forma aislada; el juego va de sinergias. Aun
 > así, un **Temple of the Monkey God** totalmente sacrificado, apoyado por un
 > **Monkey Village** 2/3, se considera la combinación más potente en daño bruto.
 
+<!-- i18n:faq:id=faq:bloons-td-5:how-do-i-get-the-fd098d0c -->
 **2. ¿Cómo consigo el Temple of the Monkey God? No lo veo en la lista.**
 > El Templo es la mejora final (4/x) del **Super Monkey**. Primero necesitas
 > comprar la mejora "Sun God" (3/x). Después se habilitará el Templo.
 
+<!-- i18n:faq:id=faq:bloons-td-5:how-does-sacrificing-for-the-b26fb21a -->
 **3. ¿Cómo funciona el sacrificio para el Templo?**
 > Antes de pulsar el botón de mejora final del Templo, asegúrate de tener otras
 > torres dentro del rango de ataque del Sun God. El juego las "sacrificará"
@@ -117,6 +124,7 @@ El juego utiliza una interfaz estándar de apuntar‑y‑clic o toque.
 > potencial, debes sacrificar al menos 30.000 $ en torres de tres de las cuatro
 > categorías: Primaria, Bomb/Tack, Glue/Ice y Magic.
 
+<!-- i18n:faq:id=faq:bloons-td-5:what-is-a-zomg-and-0d537e0a -->
 **4. ¿Qué es un ZOMG y cómo lo derroto?**
 > El ZOMG es el dirigible más resistente. Es muy lento pero tiene una vida
 > enorme. Para derrotarlo necesitas daño concentrado altísimo: un Templo,
@@ -124,8 +132,10 @@ El juego utiliza una interfaz estándar de apuntar‑y‑clic o toque.
 > Sabotage Supply Lines de un Ninja suelen ser el núcleo de cualquier estrategia
 > anti‑ZOMG.
 
+<!-- i18n:faq:id=faq:bloons-td-5:are-special-agents-worth-it-5a39ac6f -->
 **5. ¿Merecen la pena los Agentes Especiales?**
 > Sí, sobre todo si estás empezando o en mapas muy difíciles. Un `Meerkat Spy`
 > bien colocado puede darte detección de Camo desde el principio, y un
 > `Bloonsday Device` puede salvarte de una fuga enorme. Son herramientas muy
 > potentes para asegurar la victoria.
+

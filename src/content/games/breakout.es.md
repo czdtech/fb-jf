@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 Breakout es un arcade clásico e increíblemente influyente. El concepto es tan
@@ -34,6 +35,7 @@ A medida que despejas ladrillos, la bola suele ir ganando velocidad y el reto
 crece. La dificultad está en controlar la trayectoria de la bola y limpiar la
 pantalla sin quedarte sin vidas.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego
 
 -   **Domina el control de ángulos:** Es la habilidad más importante en
@@ -57,6 +59,7 @@ pantalla sin quedarte sin vidas.
     ser acertar al último ladrillo que queda. No te pongas nervioso: concéntrate
     en la posición de la pala y busca el ángulo adecuado para terminar el nivel.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 Los controles de Breakout son famosos por su sencillez (aunque cambian un poco
@@ -75,26 +78,32 @@ según la plataforma).
     -   **Tocar y arrastrar:** Desliza el dedo por la parte inferior de la
         pantalla para mover la pala.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:breakout:how-can-i-control-where-e30770fd -->
 **1. ¿Cómo controlo hacia dónde va la bola?**
 > Variando el punto de impacto en la pala. Si la bola golpea el centro, subirá
 > recta. Si impacta más hacia la izquierda, saldrá hacia ese lado; si lo hace
 > hacia la derecha, irá hacia la derecha. Cuanto más cerca del borde la golpees,
 > más cerrado será el ángulo.
 
+<!-- i18n:faq:id=faq:breakout:why-does-the-ball-speed-238960cd -->
 **2. ¿Por qué la bola se acelera?**
 > Es una mecánica básica de dificultad. La bola acelera tras cierto número de
 > impactos o al alcanzar determinadas filas de ladrillos. Así el juego se vuelve
 > más exigente a medida que avanzas.
 
+<!-- i18n:faq:id=faq:breakout:what-is-the-best-way-ce39b501 -->
 **3. ¿Cuál es la mejor forma de limpiar un nivel rápido?**
 > Usa la estrategia de "túnel": céntrate en abrir un hueco en una de las
 > columnas laterales. Una vez la bola está detrás del muro, ella sola se encargará
 > de la mayor parte del trabajo rebotando en la zona superior.
 
+<!-- i18n:faq:id=faq:breakout:are-there-powerups-in-breakout-a7fa8400 -->
 **4. ¿Hay potenciadores en Breakout?**
 > El Breakout clásico no incluía potenciadores. Sin embargo, inspiró todo un género
 > de juegos rompebloques, y muchos sucesores modernos (como *Arkanoid*) sí
 > incorporan potenciadores como multi‑bola, pala más larga, cañones láser, bola
 > lenta, pala pegajosa, etc.
+

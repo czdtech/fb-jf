@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada
 
 Bird Sort Quest es un puzle lógico tranquilo del estilo de los juegos de
@@ -27,6 +28,7 @@ La dificultad viene de que tienes pocas perchas libres y solo puedes colocar un
 pájaro sobre otro del mismo color (o en un hueco vacío). Eso te obliga a usar
 perchas de reserva y aparcamientos temporales para reorganizar las pilas.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego y recorrido
 
 1.  **Reserva perchas de reserva:** Intenta mantener al menos una percha vacía
@@ -44,6 +46,7 @@ perchas de reserva y aparcamientos temporales para reorganizar las pilas.
     más desorden, deshaz unos pasos y prueba otra secuencia mientras aún tienes
     perchas de reserva disponibles.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - **Seleccionar percha:** Toca o haz clic en una percha para coger el pájaro de
@@ -51,24 +54,31 @@ perchas de reserva y aparcamientos temporales para reorganizar las pilas.
 - **Deshacer/Reiniciar:** Usa las opciones de deshacer o reiniciar si el modo las ofrece;
   guarda las pistas para los puzles más avanzados.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:bird-sort-quest:im-stuck-with-no-legal-a899e92b -->
 - **P: Me he quedado sin movimientos legales, ¿qué hago?**  
   **R:** Retrocede unos cuantos movimientos para recuperar una percha libre y
   prioriza sacar a la superficie los colores enterrados.
 
+<!-- i18n:faq:id=faq:bird-sort-quest:is-there-a-guaranteed-strategy-2c0534b0 -->
 - **P: ¿Hay una estrategia garantizada para todos los niveles?**  
   **R:** No siempre, pero mantener al menos un buffer y consolidar pilas del
   mismo color pronto resuelve la mayoría de diseños.
 
+<!-- i18n:faq:id=faq:bird-sort-quest:should-i-finish-one-color-699693b3 -->
 - **P: ¿Debo terminar un color antes de tocar otros?**  
   **R:** Es eficiente fijar un color cuando se presenta la oportunidad, pero no
   lo fuerces si consume todas tus perchas de reserva.
 
+<!-- i18n:faq:id=faq:bird-sort-quest:are-extra-perches-ever-added-1b15261b -->
 - **P: ¿Se añaden perchas extra en niveles difíciles?**  
   **R:** En algunos conjuntos aparecen perchas de bonus; úsalas como aparcamiento
   temporal para simplificar el puzle.
 
+<!-- i18n:faq:id=faq:bird-sort-quest:do-move-counts-matter-9c003484 -->
 - **P: ¿Importa el número de movimientos?**  
   **R:** En ciertos modos sí; intenta minimizar movimientos innecesarios para
   optimizar tu puntuación.
+

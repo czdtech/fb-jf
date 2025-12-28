@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### **Introducción al juego**
 
 *Block Breaker King: Mission* es un juego de puzles de bloques estratégico, con
@@ -36,6 +37,7 @@ más despejado posible durante el mayor tiempo, intentando alcanzar la máxima
 puntuación. El modo "Mission", como se ve en las capturas, sugiere un sistema de
 progresión por niveles con objetivos específicos en cada fase.
 
+<!-- i18n:section:tips -->
 ### **Estrategia de juego y consejos**
 
 1.  **Prioriza limpiar líneas:** Tu objetivo principal debe ser siempre limpiar
@@ -61,6 +63,7 @@ progresión por niveles con objetivos específicos en cada fase.
     siempre una zona amplia libre para poder colocarlas. Si no puedes colocar
     una de estas piezas, la partida puede terminar muy rápido.
 
+<!-- i18n:section:controls -->
 ### **Guía de controles**
 
 El juego está pensado para un manejo sencillo con un solo toque en móviles.
@@ -72,24 +75,29 @@ El juego está pensado para un manejo sencillo con un solo toque en móviles.
     arrastrarla para rotarla. Esto puede estar disponible o no según la versión
     concreta.
 
+<!-- i18n:section:faq -->
 ### **Preguntas frecuentes (FAQ)**
 
+<!-- i18n:faq:id=faq:block-breaker-king:is-there-a-time-limit-31247f0f -->
 **1. ¿Hay límite de tiempo?**
 Normalmente, en este tipo de puzles no hay límite de tiempo por movimiento. La
 presión viene del espacio limitado en el tablero, no de un reloj. Por eso es un
 juego de pura estrategia más que de velocidad.
 
+<!-- i18n:faq:id=faq:block-breaker-king:can-i-rotate-the-blocks-5b286f35 -->
 **2. ¿Puedo rotar las piezas?**
 Depende del modo de juego o de la versión específica. En el modo clásico de este
 tipo de puzle, las piezas no se pueden girar, lo que añade dificultad. Algunas
 versiones pueden incluir un modo donde sí se permite la rotación.
 
+<!-- i18n:faq:id=faq:block-breaker-king:what-is-the-goal-of-2c694d73 -->
 **3. ¿Cuál es el objetivo del modo "Mission"?**
 Como se ve en la primera captura, el modo "Mission" es una serie de niveles
 predefinidos (Stage 1, 2, 3, etc.). Es probable que cada nivel tenga un objetivo
 concreto, como "limpia 10 líneas", "consigue X puntos" o "sobrevive a un número
 mínimo de piezas", que debes completar para desbloquear la siguiente fase.
 
+<!-- i18n:faq:id=faq:block-breaker-king:how-do-i-get-a-06d67069 -->
 **4. ¿Cómo consigo una puntuación alta?**
 Las puntuaciones altas se consiguen:
 *   **Limpiando varias líneas a la vez:** Los combos otorgan muchos más puntos
@@ -99,3 +107,4 @@ Las puntuaciones altas se consiguen:
 *   **Usando bloques especiales:** Algunos niveles incluyen bloques especiales
     (como la bomba que aparece en una de las capturas) que limpian una zona más
     amplia cuando completas su línea.
+

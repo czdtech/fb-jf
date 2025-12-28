@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ## Introducción al juego
 
 Bloons TD (Tower Defense) es una de las series de defensa de torres más
@@ -51,6 +52,7 @@ Entre las características clave de la serie se incluyen:
 El objetivo es sobrevivir a todas las rondas de un mapa y dificultad sin perder
 todas tus vidas.
 
+<!-- i18n:section:tips -->
 ## Estrategia de juego
 
 -   **El inicio de la partida es clave:** Empieza con torres eficientes en coste. Un par
@@ -84,6 +86,7 @@ todas tus vidas.
     es vital. Las Banana Farms son torres dedicadas exclusivamente a producir
     dinero cada ronda, lo que te permite pagar las mejoras más caras y potentes.
 
+<!-- i18n:section:controls -->
 ## Guía de controles
 
 El juego se controla principalmente con ratón o pantalla táctil, por lo que es
@@ -102,8 +105,10 @@ muy intuitivo.
     (por ejemplo, Q para Dart Monkey, coma y punto para subir/bajar mejoras), lo
     que permite colocar y mejorar torres muy rápido a los jugadores expertos.
 
+<!-- i18n:section:faq -->
 ## Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:bloons-td:why-are-my-towers-not-9734821b -->
 **1. ¿Por qué mis torres no atacan a ciertos Bloons?**
 > Normalmente se debe a propiedades especiales de los Bloons. Si ves un Bloon
 > verde con patrón de camuflaje, es un **Camo Bloon** y solo ciertas torres o
@@ -111,6 +116,7 @@ muy intuitivo.
 > metálico, es un **Lead Bloon** y es inmune a proyectiles cortantes como dardos
 > o púas; necesitas ataques explosivos o mágicos para dañarlo.
 
+<!-- i18n:faq:id=faq:bloons-td:what-is-a-moab-bfb-6c34da0f -->
 **2. ¿Qué son MOAB, BFB, ZOMG, DDT o BAD?**
 > Son todos dirigibles de clase MOAB que aparecen en las últimas rondas. Son muy
 > resistentes y se mueven despacio. De más débil a más fuerte:
@@ -122,13 +128,16 @@ muy intuitivo.
 - **BAD** (dirigible morado): el más resistente del juego; contiene ZOMGs y
   DDTs.
 
+<!-- i18n:faq:id=faq:bloons-td:what-is-the-best-tower-548c67b5 -->
 **3. ¿Cuál es la "mejor" torre del juego?**
 > No hay una torre única que sea la mejor en todas las situaciones. La fuerza de
 > Bloons TD está en el equilibrio y la sinergia. Una torre increíble en un mapa
 > puede ser casi inútil en otro. Lo ideal es construir un equipo variado de
 > torres que se complementen y cubran todas las debilidades.
 
+<!-- i18n:faq:id=faq:bloons-td:how-do-i-make-more-29f9db80 -->
 **4. ¿Cómo gano más dinero?**
 > La fuente principal es reventar Bloons. Si quieres un extra considerable, levanta
 > y mejora Banana Farms. Algunas torres, como el Alchemist o el Monkey Buccaneer,
 > también tienen rutas de mejora que generan dinero.
+

@@ -15,6 +15,7 @@ score: 4.0/5  (372 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada
 
 *Big Shark* es un juego de supervivencia submarina rápido y con una premisa muy
@@ -30,6 +31,7 @@ más grandes, minas marinas y otros peligros que pueden terminar tu partida al
 instante. Es una experiencia arcade infinita centrada en batir tu propio récord
 de puntuación.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego
 
 Tener éxito en *Big Shark* es una mezcla de agresividad controlada y prudencia.
@@ -56,6 +58,7 @@ Tener éxito en *Big Shark* es una mezcla de agresividad controlada y prudencia.
     comerte varios peces seguidos en poco tiempo. Muchas veces eso activa
     bonificaciones de combo que multiplican tus puntos y aceleran el crecimiento.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 Los controles se basan sobre todo en el ratón.
@@ -64,24 +67,30 @@ Los controles se basan sobre todo en el ratón.
 *   **Impulso / Dash:** Pulsa el **botón izquierdo** para activar un breve
     sprint. Suele tener coste en puntos o un tiempo de recarga.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:big-shark:how-do-i-grow-bigger-5bd12f8d -->
 **1. ¿Cómo crezco en el juego?**  
 Comiendo. Cuantas más presas devoras, más grande se hace tu tiburón y más tipos
 de criaturas podrás tragar.
 
+<!-- i18n:faq:id=faq:big-shark:why-did-my-game-end-463e6f7a -->
 **2. ¿Por qué ha terminado la partida de golpe?**  
 Lo normal es que hayas chocado con un peligro que no podías comer, como un
    tiburón mayor o una mina.
 
+<!-- i18n:faq:id=faq:big-shark:is-there-an-end-to-16613676 -->
 **3. ¿Tiene final el juego?**  
 No, *Big Shark* es infinito. El objetivo es sobrevivir y batir tu mejor
    puntuación.
 
+<!-- i18n:faq:id=faq:big-shark:what-is-the-best-way-52f8b54e -->
 **4. ¿Consejo para un marcador alto?**  
 Prioriza seguir con vida el tiempo suficiente para crecer mucho. Una vez eres
    enorme, casi todo es comestible y los puntos llegan solos.
 
+<!-- i18n:faq:id=faq:big-shark:can-i-eat-the-swimmers-b3b03c55 -->
 **5. ¿Puedo comerme a los bañistas?**  
 Sí, pero solo cuando seas suficientemente grande. Suelen dar muchos puntos y son
    una de las presas más valiosas.

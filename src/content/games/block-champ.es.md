@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 Block Champ es un juego de puzles estratégico que se juega en una cuadrícula de
@@ -43,6 +44,7 @@ Lo que diferencia a Block Champ son sus bloques especiales:
 El juego exige previsión y una buena gestión del espacio para alcanzar una
 puntuación alta.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego
 
 -   **Mantén abiertas tus opciones:** Evita crear casillas vacías sueltas. Esos
@@ -69,6 +71,7 @@ puntuación alta.
     más fácil, sino posicionar una de forma que abra huecos perfectos para las
     otras dos.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 El juego utiliza controles de arrastrar y soltar muy sencillos, aptos tanto para
@@ -85,26 +88,32 @@ ratón como para pantallas táctiles.
 **Nota importante:** Las piezas no se pueden rotar. Debes utilizarlas siempre en
 la orientación en la que aparecen.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:block-champ:can-i-rotate-the-blocks-5b286f35 -->
 **1. ¿Puedo rotar los bloques?**
 > No, en Block Champ no existe la opción de rotar bloques. Es una parte
 > fundamental del reto: trabajar con las piezas exactamente tal y como llegan.
 
+<!-- i18n:faq:id=faq:block-champ:what-do-the-lightning-bolts-d0045a3f -->
 **2. ¿Qué hacen exactamente los rayos?**
 > El rayo aparece en un solo cuadrado dentro de una pieza mayor. Cuando completas
 > la línea (fila o columna) en la que está ese cuadrado, el rayo se activa. Si
 > completas una fila, limpiará toda la columna en la que estaba; si completas
 > una columna, limpiará toda la fila.
 
+<!-- i18n:faq:id=faq:block-champ:how-do-i-get-rid-35d6c38b -->
 **3. ¿Cómo elimino los bloques congelados o de hielo?**
 > Debes limpiar la línea que contiene el bloque de hielo dos veces. La primera
 > vez que completes la línea, el hielo se rompe pero el bloque debajo permanece.
 > La segunda vez que limpies esa misma línea, el bloque se eliminará como en
 > cualquier limpieza normal.
 
+<!-- i18n:faq:id=faq:block-champ:why-did-the-game-end-c2ae1a32 -->
 **4. ¿Por qué la partida terminó si todavía quedaba espacio en el tablero?**
 > El juego termina cuando no hay ninguna posición válida para NINGUNA de las
 > tres piezas que tienes en la mano. Aunque el tablero parezca bastante vacío,
 > si ninguna de las formas actuales encaja en los huecos disponibles, la partida
 > ha terminado.
+

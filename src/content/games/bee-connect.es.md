@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 *Bee Connect* es un puzle numérico exigente y estratégico sobre una cuadrícula
@@ -32,6 +33,7 @@ un movimiento no provoca una fusión, entran nuevos números desde la cola super
 llenando huecos preciosos. Las fichas totalmente rodeadas no se pueden mover. El
 juego acaba cuando el panal se llena y ya no quedan movimientos posibles.
 
+<!-- i18n:section:tips -->
 ### Estrategia y consejos
 
 1.  **Planifica siempre para fusionar:** Regla de oro. Cada movimiento debería,
@@ -55,6 +57,7 @@ juego acaba cuando el panal se llena y ya no quedan movimientos posibles.
     críticos en los que necesites liberar una casilla concreta para evitar el
     bloqueo o habilitar una fusión importante.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 El juego está pensado para un control sencillo de arrastrar y soltar.
@@ -63,21 +66,27 @@ El juego está pensado para un control sencillo de arrastrar y soltar.
     adyacente vacía. En algunas versiones puedes usar un sistema de
     "seleccionar y luego hacer clic para colocar".
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:bee-connect:why-did-new-numbers-suddenly-4d28e900 -->
 **1. ¿Por qué aparecen de repente nuevos números en el tablero?**  
 Es la mecánica de penalización central: ocurre siempre que mueves una ficha y
 ese movimiento **no** genera un grupo de cuatro o más iguales.
 
+<!-- i18n:faq:id=faq:bee-connect:why-cant-i-move-a-b10849df -->
 **2. ¿Por qué no puedo mover cierta ficha?**  
 Está "atrapada". Solo puedes mover fichas que tengan al menos una celda libre
 adyacente. Si están completamente rodeadas, no se pueden desplazar.
 
+<!-- i18n:faq:id=faq:bee-connect:how-many-tiles-do-i-fcf90e01 -->
 **3. ¿Cuántas fichas necesito para hacer una fusión?**  
 Debes crear un grupo adyacente de **al menos cuatro** fichas iguales. Tres
 juntas no son suficientes.
 
+<!-- i18n:faq:id=faq:bee-connect:what-is-the-goal-of-c816fee5 -->
 **4. ¿Cuál es el objetivo final?**  
 Sobrevivir el máximo tiempo posible y conseguir la mayor puntuación. Como reto
 secundario, puedes intentar llegar al número más alto posible (1024, 2048,
 etc.) mediante fusiones sucesivas.
+

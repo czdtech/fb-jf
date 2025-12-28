@@ -15,6 +15,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Bonanza Shooter Bubble es un bubble shooter clásico con rebotes generosos y
@@ -23,6 +24,7 @@ del mismo color, limpiar grupos y hacer que las secciones colgantes se vengan
 abajo. El éxito depende de controlar bien los ángulos, gestionar los colores que
 quedan en pantalla y planificar con qué burbuja vas a disparar a continuación.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Usa los rebotes:** Apóyate en las paredes laterales para llegar a grupos
@@ -36,26 +38,32 @@ quedan en pantalla y planificar con qué burbuja vas a disparar a continuación.
 5.  **Controla el ritmo:** Cuando el techo empieza a bajar, prioriza limpiezas
     seguras antes que disparos arriesgados que solo buscan una gran jugada.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - Apunta con ratón o pantalla táctil y haz clic/toque para disparar; en algunos
   modos podrás intercambiar la burbuja actual con la siguiente.
 - Pausar/Reiniciar desde los botones de la interfaz.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:bonanza-shooter-bubble:i-cant-hit-a-covered-b59b46c1 -->
 - **P: No consigo golpear un grupo que está cubierto, ¿algún truco?**
 
   R: Intenta un disparo con rebote en la pared lateral para entrar con un ángulo
   más suave.
 
+<!-- i18n:faq:id=faq:bonanza-shooter-bubble:wrong-colors-keep-comingwhat-s-f2f5d3ac -->
 - **P: No paran de salirme colores que no necesito, ¿qué hago?**
 
   R: Recorta pequeños grupos y prepara futuras caídas grandes; si el modo lo
   permite, usa el intercambio de burbujas para gestionar mejor el color que
   disparas.
 
+<!-- i18n:faq:id=faq:bonanza-shooter-bubble:do-i-need-to-collect-b99d43db -->
 - **P: ¿Es obligatorio recoger estrellas?**
 
   R: Las estrellas suelen ser objetivos opcionales, pero ayudan a desbloquear
   niveles extra; intenta conseguirlas cuando no comprometan tu partida.
+

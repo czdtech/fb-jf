@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada
 
 *Battleship* (Hundir la flota) es un juego clásico de estrategia para dos
@@ -76,6 +77,7 @@ lógica.
     otra zona deberá pertenecer a un barco más grande, lo que te ayuda a
     deducir su forma.
 
+<!-- i18n:section:controls -->
 ### Guía de controles (versión digital)
 
 En versiones digitales, los controles suelen ser con ratón y muy intuitivos.
@@ -92,19 +94,24 @@ En versiones digitales, los controles suelen ser con ratón y muy intuitivos.
     *   **Feedback:** El juego marcará automáticamente la casilla como acierto
         o fallo (por ejemplo, con explosión o símbolo de agua).  
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:battleship:what-are-the-standard-ships-4cc4ec34 -->
 **1. ¿Cuáles son los barcos estándar de Battleship?**  
 Portaaviones (5), Acorazado (4), Crucero (3), Submarino (3) y Destructor (2
 casillas).
 
+<!-- i18n:faq:id=faq:battleship:can-i-place-ships-diagonally-ae341265 -->
 **2. ¿Puedo colocar barcos en diagonal?**  
 No. Según las reglas clásicas solo se colocan en horizontal o vertical.
 
+<!-- i18n:faq:id=faq:battleship:is-it-better-to-place-8b4ddd62 -->
 **3. ¿Es mejor juntar los barcos o separarlos?**  
 Casi siempre es mejor separarlos. Si están pegados, tu rival necesitará menos
 turnos para descubrir toda tu flota.
 
+<!-- i18n:faq:id=faq:battleship:is-the-game-just-pure-88a4cfc8 -->
 **4. ¿Es solo cuestión de suerte?**  
 No. Aunque hay algo de azar al principio, la diferencia real la marca usar buenos
 patrones de búsqueda y razonar los disparos. Un jugador que piensa ganará casi

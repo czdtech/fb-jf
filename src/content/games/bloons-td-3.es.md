@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 Bloons TD 3 es una entrega clave de la saga de defensa de torres que amplía de
@@ -48,6 +49,7 @@ unidad, a diferencia de los juegos posteriores con ramas exclusivas.
     proyectiles cortantes), **Black** (inmunes a explosiones) y **White**
     (inmunes al congelamiento) son centrales para la estrategia.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego
 
 -   **Inicio equilibrado:** Empieza con Dart Monkeys y Tack Shooters. Mejora tus
@@ -77,6 +79,7 @@ unidad, a diferencia de los juegos posteriores con ramas exclusivas.
     largos y rectos. Sus bolas con pinchos recorren mucha distancia y pueden
     reventar múltiples Bloons en línea.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 El juego utiliza una interfaz simple de apuntar y hacer clic.
@@ -90,27 +93,34 @@ El juego utiliza una interfaz simple de apuntar y hacer clic.
 -   **Atajos de teclado:** Usa las teclas numéricas (1–8) para seleccionar
     torres. La barra espaciadora inicia la siguiente ronda.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:bloons-td-3:i-cant-pop-the-grey-99d90772 -->
 **1. No puedo reventar los Bloons grises (Lead). ¿Qué hago?**
 > Los Lead Bloons son inmunes a todos los proyectiles cortantes (dardos, púas,
 > boomerangs). Necesitas una Bomb Tower para poder dañarlos.
 
+<!-- i18n:faq:id=faq:bloons-td-3:what-is-the-big-blue-a2bae815 -->
 **2. ¿Qué es el gran dirigible azul del final?**
 > Es el M.O.A.B. (Massive Ornary Air Blimp), un Bloon jefe muy resistente. Se
 > mueve despacio, pero aguanta muchísimo daño antes de explotar.
 
+<!-- i18n:faq:id=faq:bloons-td-3:why-should-i-use-the-23ed004c -->
 **3. ¿Por qué debería usar el Monkey Beacon si no ataca?**
 > Porque es una torre de apoyo fundamental. Aumenta el alcance de todas las
 > torres cercanas. Un Super Monkey junto a un Beacon puede cubrir casi todo el
 > mapa y rinde muchísimo mejor.
 
+<!-- i18n:faq:id=faq:bloons-td-3:how-many-rounds-are-there-64671d2f -->
 **4. ¿Cuántas rondas hay?**
 > -   **Easy:** 50 rondas.
 > -   **Medium:** 50 rondas.
 > -   **Hard:** 75 rondas.
 
+<!-- i18n:faq:id=faq:bloons-td-3:whats-the-difference-between-b-86ceeb66 -->
 **5. ¿En qué se diferencian los Bloons negros y blancos?**
 > Los Black Bloons son inmunes a explosiones (Bomb Towers). Los White Bloons son
 > inmunes al congelamiento (Ice Towers). Necesitas otras torres como Dart
 > Monkeys o Boomerangs para encargarte de ellos.
+

@@ -11,10 +11,11 @@ thumbnail: /new-images/thumbnails/bejeweled.png
 tags:
   - bejeweled
 score: 4.8/5  (654 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+releaseDate: 2025-12-04
 ---
 
 
+<!-- i18n:section:introduction -->
 *Bejeweled* es un videojuego de puzles de combinar fichas considerado ya un
 clásico. El objetivo es intercambiar dos gemas adyacentes para formar líneas de
 3 o más gemas del mismo color, en horizontal o vertical. Cuando haces una
@@ -22,6 +23,7 @@ combinación, las gemas desaparecen, caen nuevas desde la parte superior y a
 menudo se producen cadenas automáticas ("cascadas"). Su bucle de juego sencillo
 pero tremendamente adictivo lo convirtió en pionero del género match‑3.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo se juega a Bejeweled
 
 -  **Acción básica:** Solo puedes intercambiar dos gemas adyacentes (en línea
@@ -64,6 +66,7 @@ son la clave para puntuaciones altas:
    analizar todo el tablero antes de mover. Casi todas las versiones tienen un
    botón de "pista" si te quedas bloqueado.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
 **P: ¿Bejeweled es gratuito?**  
@@ -80,3 +83,4 @@ automáticamente las gemas.
 **R:** *Classic* es una experiencia más pausada, estratégica y sin límite de
    tiempo. *Blitz* es un modo de 60 segundos donde compites por la máxima
    puntuación, a menudo contra amigos mediante tablas de clasificación.
+

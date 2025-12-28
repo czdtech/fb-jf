@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Bricks Breaker Crush dispara ráfagas de bolas que rebotan entre ladrillos
@@ -25,6 +26,7 @@ el valor del ladrillo. Dominar el juego consiste en diseñar recorridos largos d
 rebotes, maximizar el número de contactos por ráfaga y evitar que el muro
 numérico llegue a la parte inferior.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Ángulos poco pronunciados:** Empieza con ángulos moderados para fomentar
@@ -41,26 +43,32 @@ numérico llegue a la parte inferior.
 6.  **Gestión de potenciadores:** Guarda los limpia‑líneas para momentos críticos y,
     si puedes, encadénalos con ráfagas grandes para maximizar su efecto.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - Arrastra para apuntar y suelta para disparar la ráfaga.
 - Los potenciadores se activan al recogerlos o tocarlos, según la versión.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:bricks-breaker-crush:my-shots-feel-too-randomhow-50c1bbd0 -->
 - **P: Mis disparos parecen aleatorios, ¿cómo gano control?**
 
   R: Usa ángulos más suaves y diseña carriles que mantengan las bolas rebotando
   cerca del techo. Evita los tiros muy verticales, que generan carambolas
   caóticas.
 
+<!-- i18n:faq:id=faq:bricks-breaker-crush:what-should-i-prioritize-ball-bc4d1014 -->
 - **P: ¿Qué es más importante, conseguir +bola o limpiar filas?**
 
   R: Al principio, los +bola son oro y hacen que cada ráfaga sea más potente. Si
   estás en peligro, prioriza limpiar las columnas críticas aunque sacrifiques
   alguna bonificación.
 
+<!-- i18n:faq:id=faq:bricks-breaker-crush:the-wall-keeps-droppingany-fix-0147ce52 -->
 - **P: El muro baja sin parar, ¿algún consejo?**
 
   R: Deja de construir trampas de rebote y céntrate en disparos quirúrgicos
   contra los números más altos que estén cerca del borde inferior.
+

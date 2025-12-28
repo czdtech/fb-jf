@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 Bloons TD 4 supone una evolución importante dentro de la serie Bloons Tower
@@ -52,6 +53,7 @@ modos de juego, creando una sensación de progresión constante.
 -   **Consumibles:** Road Spikes y charcos de Monkey Glue que puedes colocar en
     el camino como defensas de un solo uso.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego
 
 -   **Planifica tus mejoras:** Como ya no puedes comprar todas las mejoras,
@@ -86,6 +88,7 @@ modos de juego, creando una sensación de progresión constante.
     -   La habilidad `Spike Storm` (Spike Factory) como recurso de emergencia si
         se acerca demasiado a la salida.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 La interfaz es el clásico sistema de apuntar y hacer clic.
@@ -102,29 +105,36 @@ La interfaz es el clásico sistema de apuntar y hacer clic.
 -   **Consumibles:** Haz clic en el icono de Road Spikes o Glue Puddle en la
     parte inferior y luego haz clic sobre el camino para colocarlos.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:bloons-td-4:why-cant-i-buy-a-516616f9 -->
 **1. ¿Por qué no puedo comprar cierta torre o mejora?**
 > En Bloons TD 4, la mayoría de torres y todas las mejoras de nivel 3 y 4 deben
 > desbloquearse subiendo tu rango de jugador. Juega más partidas para ganar XP y
 > acabarás desbloqueándolo todo.
 
+<!-- i18n:faq:id=faq:bloons-td-4:how-do-i-pop-camo-a6b0ee8a -->
 **2. ¿Cómo reviento los Camo Bloons?**
 > Necesitas torres con detección de camuflaje. Por ejemplo, Dart Monkeys con
 > `Enhanced Eyesight` (2/2), Mortar Towers con `Signal Flare` (x/3) o Spike
 > Factories con `Bigger Stacks` (1/x).
 
+<!-- i18n:faq:id=faq:bloons-td-4:whats-the-difference-between-t-6964db4a -->
 **3. ¿En qué se diferencian el MOAB azul y el BFB rojo?**
 > El BFB (Brutal Flying Behemoth) es mucho más resistente que un MOAB. Cuando un
 > BFB explota, libera cuatro MOABs.
 
+<!-- i18n:faq:id=faq:bloons-td-4:can-i-buy-all-the-a4f3b0b5 -->
 **4. ¿Puedo comprar todas las mejoras para un mismo mono?**
 > No. Este es el mayor cambio de BTD4. Solo puedes elegir uno de los dos caminos
 > finales de mejora para cada torre. Por ejemplo, puedes convertir a un Super
 > Monkey en `Sun God` (2/x) o en `Robo‑Monkey` (x/2), pero no ambas cosas en la
 > misma unidad.
 
+<!-- i18n:faq:id=faq:bloons-td-4:what-is-apopalypse-mode-eb2eb7e1 -->
 **5. ¿Qué es el modo Apopalypse?**
 > Es un modo especial en el que los Bloons llegan en oleadas continuas y
 > solapadas, sin descansos entre rondas. No ganas dinero al final de cada ronda,
 > solo reventando Bloons, así que es un desafío mucho más duro.
+

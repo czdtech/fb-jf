@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 En Blockbuster Puzzle debes encajar las piezas que van llegando para activar
@@ -24,6 +25,7 @@ mantener varias "vías" de construcción abiertas, preparar turnos tipo "bomba"
 que limpien grandes zonas y no gastar tu último bolsillo de emergencia salvo que
 asegure una buena cadena de limpiezas.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego y recorrido
 
 1.  **Mantén dos vías libres:** Procura conservar al menos dos columnas o filas
@@ -38,27 +40,33 @@ asegure una buena cadena de limpiezas.
     buscar limpiezas de varias líneas a la vez y generar un efecto bola de nieve
     de espacio libre.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - Arrastra y suelta las piezas sobre el tablero; rota si el juego lo permite.
 - Las opciones de Deshacer/Reiniciar te ayudan a corregir colocaciones demasiado
   ambiciosas.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:blockbuster-puzzle:why-do-i-keep-losing-4221c529 -->
 - Q: ¿Por qué sigo perdiendo aunque al principio limpio líneas con facilidad?
 
   A: Probablemente te estás comprometiendo demasiado con un solo lado del
   tablero y pierdes flexibilidad. Reequilibra la construcción y mantén siempre
   un bolsillo de emergencia.
 
+<!-- i18n:faq:id=faq:blockbuster-puzzle:is-rotation-required-to-win-7544547c -->
 - Q: ¿Es obligatorio rotar las piezas para ganar?
 
   A: No, pero ayuda. Cuando la rotación es limitada, confía en las formas
   simétricas y en mantener carriles amplios y abiertos.
 
+<!-- i18n:faq:id=faq:blockbuster-puzzle:should-i-place-big-shapes-9ac1a059 -->
 - Q: ¿Debo colocar las piezas grandes primero o al final?
 
   A: Cuando la cuadrícula está apretada, coloca primero la pieza más difícil.
   Cuando está abierta, usa las grandes para preparar limpiezas de varias líneas
   en un solo turno.
+

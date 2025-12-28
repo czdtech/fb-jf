@@ -16,6 +16,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada
 
 Billiards Classic adapta el billar americano de 8 bolas a una simulación
@@ -24,6 +25,7 @@ asignadas (lisas o rayadas) y, después, meter legalmente la bola 8 para ganar l
 partida. Con físicas razonablemente realistas y controles intuitivos, es una
 buena forma de disfrutar de este clásico de bar.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego y recorrido
 
 1.  **El saque (break):** La partida empieza con el saque. Apunta a la bola
@@ -41,6 +43,7 @@ buena forma de disfrutar de este clásico de bar.
     cabeza, en la versión digital) el bolsillo de la bola 8 y embocarla de forma
     legal. Si metes la 8 antes de tiempo o haces scratch al tirarla, pierdes.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 *   **Apuntar:** Mueve el ratón para orientar el taco.
@@ -50,16 +53,21 @@ buena forma de disfrutar de este clásico de bar.
     la blanca.
 *   **Disparar:** Suelta el botón del ratón para ejecutar el tiro.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:billiards-classic:q-what-happens-if-i-63f35f02 -->
 *   **P: ¿Qué pasa si meto la bola 8 en el saque?**
 
     *   **R:** Con la mayoría de reglas puedes elegir entre volver a colocar la 8 y continuar o repetir el saque. Si la embocas antes de limpiar tu grupo o haces scratch al tirarla, pierdes automáticamente.
 
+<!-- i18n:faq:id=faq:billiards-classic:q-what-is-a-foul-11e47ab0 -->
 *   **P: ¿Qué se considera falta?**
 
     *   **R:** Hacer scratch (embocar la blanca), golpear primero una bola del rival o no golpear ninguna. Tras una falta, el oponente obtiene bola en mano y puede colocar la blanca donde quiera.
 
+<!-- i18n:faq:id=faq:billiards-classic:q-which-balls-are-mine-e6a32756 -->
 *   **P: ¿Cómo sé qué bolas son mías?**
 
     *   **R:** La mesa sigue “abierta” hasta que alguien emboca la primera bola legal. Si metes una lisa, te quedas con las lisas; si metes una rayada, serás rayadas.
+
