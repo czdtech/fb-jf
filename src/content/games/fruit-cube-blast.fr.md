@@ -17,10 +17,12 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Fruit Cube Blast est un puzzle « tap‑to‑blast » explosif et coloré. Contrairement aux match‑3 classiques où tu échanges les pièces, ici tu tapes sur des groupes de deux cubes de fruits identiques ou plus pour les faire exploser. Ton objectif est de remplir les missions propres à chaque niveau en vidant les bons cubes et en déclenchant de puissants combos. En faisant exploser de grands groupes, tu crées des boosters spéciaux comme des fusées et des bombes qui nettoient de larges zones du plateau.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu et stratégies
 
 1.  Plus c'est gros, mieux c'est : cherche toujours les plus grands groupes de cubes de même couleur avant de taper. Déclencher un petit groupe de 2 ou 3 est rarement rentable ; les gros groupes libèrent plus d'espace et sont les seuls à générer des boosters.
@@ -32,6 +34,7 @@ Fruit Cube Blast est un puzzle « tap‑to‑blast » explosif et coloré. Contr
 3.  Joue pour l'objectif : regarde toujours le but du niveau. Si tu dois collecter 30 cubes rouges, concentre‑toi sur les groupes rouges. Si tu dois faire descendre un objet en bas, nettoie surtout les cubes juste en dessous.
 4.  Économise tes coups : chaque niveau dispose d'un nombre de mouvements limité. Évite de gaspiller des coups sur des petits groupes sans impact ; prépare plutôt de grands groupes qui génèrent des boosters et des cascades.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 Les commandes sont très simples.
@@ -39,13 +42,18 @@ Les commandes sont très simples.
 *   **Faire exploser des cubes :** utilise ta souris ou ton doigt pour taper sur un groupe de deux cubes adjacents ou plus de la même couleur.
 *   **Activer un booster :** tape simplement sur la fusée, la bombe, etc. pour déclencher son effet.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:fruit-cube-blast:q-why-cant-i-tap-6043750c -->
 *   **Q : Pourquoi je ne peux pas taper un cube isolé ?**
     *   **R :** Le jeu exige un groupe d'au moins deux cubes connectés de la même couleur pour autoriser une explosion.
 
+<!-- i18n:faq:id=faq:fruit-cube-blast:q-how-do-i-create-fcae3932 -->
 *   **Q : Comment créer une fusée ?**
     *   **R :** En tapant sur un groupe de 5 ou 6 cubes identiques adjacents.
 
+<!-- i18n:faq:id=faq:fruit-cube-blast:q-what-is-the-best-610f5571 -->
 *   **Q : Comment réussir un niveau avec très peu de coups ?**
     *   **R :** Priorise la création de boosters via de grands groupes au lieu de multiplier les petites explosions. Essaie ensuite de rapprocher deux boosters pour les activer ensemble et nettoyer une grande partie du plateau en un seul coup.
+

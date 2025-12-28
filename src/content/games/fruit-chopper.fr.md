@@ -16,10 +16,12 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Fruit Chopper est un jeu d'arcade nerveux et juteux qui teste tes réflexes et ta précision. L'écran se remplit de fruits de toutes sortes projetés en l'air. Ta mission : en trancher un maximum d'un simple swipe de doigt ou de souris. Attention cependant, des bombes dangereuses sont mélangées aux fruits ; en toucher une peut mettre fin à ta partie. Le défi est de créer de gros combos, de survivre le plus longtemps possible et de battre ton record.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu et stratégies
 
 1.  Tranche en combos : la clé d'un gros score, c'est de couper plusieurs fruits en un seul mouvement continu. Un combo de 3 fruits est correct, mais 4 ou 5 d'un coup rapportent un énorme bonus.
@@ -28,17 +30,23 @@ Fruit Chopper est un jeu d'arcade nerveux et juteux qui teste tes réflexes et t
 4.  Sur mobile, utilise deux mains : si tu joues sur écran tactile, deux doigts peuvent t'aider à réagir plus vite aux fruits qui arrivent des deux côtés.
 5.  Reste concentré : le rythme s'accélère au fil du temps. Garde ton calme et privilégie les gestes fluides et précis plutôt que les mouvements désordonnés.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 *   **Trancher :** clique et fais glisser ta souris à travers les fruits, ou passe ton doigt sur l'écran pour les couper.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:fruit-chopper:q-what-is-the-goal-ab58581b -->
 *   **Q : Quel est l'objectif exact du jeu ?**
     *   **R :** Obtenir le score le plus élevé possible en tranchant des fruits. La partie s'arrête si tu touches une bombe ou si tu laisses passer trop de fruits (selon le mode).
 
+<!-- i18n:faq:id=faq:fruit-chopper:q-how-do-i-get-d3288798 -->
 *   **Q : Comment obtenir les bonus de combo ?**
     *   **R :** En tranchant trois fruits ou plus avec un seul swipe. Plus tu coupes de fruits d'un coup, plus le bonus de score est important.
 
+<!-- i18n:faq:id=faq:fruit-chopper:q-are-there-different-game-8575813d -->
 *   **Q : Y a‑t‑il plusieurs modes de jeu ?**
     *   **R :** De nombreux jeux de découpe proposent plusieurs modes comme Classic (éviter les bombes et ne pas rater de fruits), Arcade (60 secondes chronométrées avec des bonus) ou Zen (sans bombes, plus relax). Vérifie le menu principal pour voir ce qui est disponible dans ta version.
+

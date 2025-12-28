@@ -13,10 +13,12 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Football Stars est un jeu de foot arcade léger, avec des dribbles réactifs et une logique de coups de pied arrêtés simplifiée. Pour gagner, tu dois faire circuler le ballon rapidement, exploiter les espaces libres et tirer avant que la défense n’ait le temps de se replacer. Le jeu met surtout l’accent sur le timing et le placement plutôt que sur des tactiques complexes.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu et stratégies
 
 1.  Privilégie les passes rapides : deux touches bien enchaînées valent mieux qu’un dribble tête baissée dans la défense.
@@ -25,21 +27,27 @@ Football Stars est un jeu de foot arcade léger, avec des dribbles réactifs et 
 4.  Presse intelligemment : déclenche le pressing après un mauvais contrôle adverse pour récupérer le ballon haut.
 5.  Sur coups de pied arrêtés : alterne corners courts, centres et frappes pour rester imprévisible.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - Déplacements, passes et frappes sont indiqués à l’écran ; certaines versions séparent les tirs en lobbé et au sol.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:football-stars:i-cant-get-shots-off-20e83d4e -->
 - Q : Je n’arrive jamais à tirer, des conseils ?
   
   R : Fais circuler plus vite, repique vers l’intérieur et tente des frappes en première intention pour surprendre la défense.
 
+<!-- i18n:faq:id=faq:football-stars:defense-feels-leaky-how-to-8e841e82 -->
 - Q : Ma défense se fait toujours ouvrir, comment corriger ça ?
   
   R : Garde ta ligne compacte et change rapidement de joueur pour contrôler celui le plus proche du porteur de balle, au lieu de courir avec un seul défenseur.
 
+<!-- i18n:faq:id=faq:football-stars:any-reliable-finish-e52f8ff0 -->
 - Q : Y a‑t‑il un tir fiable ?
   
   R : Les frappes à ras de terre croisées vers le second poteau sont généralement les plus indulgentes.
+
 

@@ -8,9 +8,11 @@ thumbnail: /new-images/thumbnails/fiddlebops-but-sprunki.png
 tags:
   - fiddlebops but sprunki
 score: 4.2/5  (94 votes)
+releaseDate: 2025-12-04
 ---
 
 
+<!-- i18n:section:introduction -->
 Salut les créateurs de musique ! Tu t’es déjà demandé ce qui se passerait si tu mélangeais le gameplay classique que tu adores dans Fiddlebops avec l’univers déjanté et coloré de Sprunki ? Plus besoin d’imaginer : FiddleBops but Sprunki est là pour donner vie à cette idée folle ! Ce mod unique te permet de groover sur des rythmes familiers tout en profitant du charme frais et énergique de Sprunki.
 
 ### C’est quoi, au juste, FiddleBops but Sprunki ?
@@ -38,3 +40,4 @@ Le gameplay reste très intuitif : tu seras dans le rythme en quelques secondes.
 Que tu sois fan de Fiddlebops, de Sprunki ou des deux, ce mod FiddleBops but Sprunki est fait pour toi. Il fusionne deux univers adorés en une aventure musicale toute fraîche. Que tu veuilles composer des tracks vraiment uniques ou juste découvrir les nouveaux visuels, FiddleBops but Sprunki t’assure un moment créatif et fun.
 
 En bref : FiddleBops but Sprunki est une aventure musicale pleine de surprises qui prouve qu’on peut mélanger classique et originalité avec beaucoup de style. Lance‑toi, essaie FiddleBops but Sprunki et laisse ces personnages Sprunki déjantés t’aider à écrire un tout nouveau chapitre Fiddlebops !
+

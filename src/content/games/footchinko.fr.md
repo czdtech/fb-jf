@@ -16,10 +16,12 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Footchinko est un jeu d'arcade original et très accrocheur qui mélange l'intensité du football (soccer) avec les mécaniques classiques du pachinko et du flipper. Ton but est de guider un ballon de foot à travers un terrain rempli de picots, bumpers et autres obstacles, pour marquer. Chaque niveau propose une disposition et des défis différents, ce qui t'oblige à viser avec précision et à réfléchir à la meilleure trajectoire pour contourner les défenseurs et trouver le filet. Des bonus et bonus viennent pimenter la partie et t'aident à atteindre des scores élevés.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu et stratégies
 
 1.  **La visée est essentielle :** avant chaque tir, réfléchis à la trajectoire du ballon. Cherche les chemins qui lui permettront de toucher plusieurs picots ou bonus avant de filer vers le but.
@@ -28,17 +30,23 @@ Footchinko est un jeu d'arcade original et très accrocheur qui mélange l'inten
 4.  **Récupère les bonus :** garde un œil sur les bonus qui offrent des avantages (ballons supplémentaires, tirs plus puissants, invulnérabilité temporaire, etc.). Utilise‑les au bon moment pour maximiser tes points.
 5.  **Anticipe les rebonds :** comme dans un flipper, comprendre comment le ballon réagit aux différents angles de rebond est crucial. À force de jouer, tu développeras un bon feeling pour la physique du jeu.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 *   **Lancer le ballon :** clique ou tape sur l'écran pour lancer. Selon la version, la position ou le timing de ton clic détermine la direction et parfois la puissance du tir.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:footchinko:q-what-is-the-main-da416039 -->
 *   **Q : Quel est l'objectif principal dans Footchinko ?**
     *   **R :** Marquer des buts en envoyant le ballon dans la cage adverse, tout en naviguant dans un terrain rempli d'obstacles façon pachinko.
 
+<!-- i18n:faq:id=faq:footchinko:q-are-there-different-levels-18c8734d -->
 *   **Q : Y a‑t‑il plusieurs niveaux ou championnats ?**
     *   **R :** Oui, la plupart des versions proposent de nombreux niveaux et tournois, avec une difficulté croissante et des terrains de plus en plus variés.
 
+<!-- i18n:faq:id=faq:footchinko:q-how-do-i-get-698432e6 -->
 *   **Q : Comment obtenir de meilleurs scores ?**
     *   **R :** En marquant souvent, en ramassant les bonus et en détruisant les obstacles efficacement. Certains niveaux récompensent aussi les tirs combo et les trajectoires spectaculaires.
+

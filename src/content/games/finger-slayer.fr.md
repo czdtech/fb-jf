@@ -13,10 +13,12 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Finger Slayer est un test de réflexes à un seul bouton : tu poses ton « doigt » dans une zone dangereuse, puis tu le retires au tout dernier moment avant que le piège ne se referme. Les manches deviennent de plus en plus difficiles avec des fermetures plus rapides, de faux signaux visuels/sonores et des changements de rythme qui punissent ceux qui anticipent trop. Le but est d’effectuer un retrait net et précis au dernier instant possible, sans flancher trop tôt (ce qui donne un moins bon score) ni attendre trop longtemps.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu et stratégies
 
 1.  Lis les indices : la plupart des pièges ont un micro‑signe avant de se refermer (son, vibration visuelle). Base‑toi sur ce signal plutôt que sur un simple comptage dans ta tête.
@@ -25,21 +27,27 @@ Finger Slayer est un test de réflexes à un seul bouton : tu poses ton « doigt
 4.  Adapte‑toi au rythme : après quelques manches, les motifs changent. Prends une seconde pour te recentrer entre deux essais et ne mémorise pas un seul timing.
 5.  Connais ta limite : apprends à sentir ta propre frontière de réaction, puis vise légèrement avant ce point pour garder une marge de sécurité.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - Maintiens pour « poser » ton doigt et relâche pour le retirer ; sur certaines versions, le jeu distingue simplement entre toucher et relâcher.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:finger-slayer:i-always-move-too-early-50520ef2 -->
 - Q : Je retire toujours mon doigt trop tôt, comment corriger ça ?
   
   R : Concentre‑toi sur la pré‑animation ou le son du piège, et non sur un compte mental. Attends ce signe précis avant d’agir.
 
+<!-- i18n:faq:id=faq:finger-slayer:closures-feel-random-any-tip-b8f976ee -->
 - Q : Les fermetures ont l’air totalement aléatoires, c’est normal ?
   
   R : Elles sont pseudo‑aléatoires avec des motifs récurrents. Entraîne‑toi à rester calme, à attendre le signal, puis à réagir d’un coup.
 
+<!-- i18n:faq:id=faq:finger-slayer:is-there-input-lag-f763cc99 -->
 - Q : Y a‑t‑il du lag sur les commandes ?
   
   R : Il peut y avoir un léger délai sur certains appareils. Si tu le ressens, essaie de réagir dès la première frame du signal visuel ou sonore.
+
 

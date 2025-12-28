@@ -16,10 +16,12 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Freekick Football est un jeu entièrement dédié à l'art du coup franc. Tu dois marquer depuis différentes positions, en contournant le mur et le gardien. Chaque tentative met à l'épreuve ta précision, ton timing et ta compréhension de la trajectoire du ballon.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu et stratégies
 
 1.  Vise avec soin : trouve la meilleure trajectoire vers le but en tenant compte de la position du mur et du gardien.
@@ -27,14 +29,19 @@ Freekick Football est un jeu entièrement dédié à l'art du coup franc. Tu doi
 3.  Utilise l'effet : applique une courbe pour contourner le mur et éloigner la balle du gardien. C'est souvent la clé pour marquer sur les situations difficiles.
 4.  Analyse la situation : avant chaque tir, estime la distance, la hauteur du mur et la position du gardien pour choisir ta stratégie (frappe en force, enroulée, ras de terre, etc.).
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 *   **Souris / écran tactile :** vise, règle la puissance et applique l'effet au ballon. Selon la version, cela se fait via une succession de clics, glissements ou pressions maintenues.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:freekick-football:q-how-do-i-score-c88776e3 -->
 *   **Q : Comment marquer plus régulièrement ?**
     *   **R :** En t'entraînant. Teste différents niveaux de puissance et d'effet pour comprendre comment la balle se comporte. Vise les coins du but, ce sont les zones les plus difficiles à atteindre pour le gardien.
 
+<!-- i18n:faq:id=faq:freekick-football:q-whats-the-best-way-22903e83 -->
 *   **Q : Quelle est la meilleure façon de battre le mur ?**
     *   **R :** Les frappes enroulées au‑dessus ou autour du mur sont les plus efficaces. Cherche les espaces entre les joueurs ou utilise une frappe puissante si la trajectoire est dégagée.
+

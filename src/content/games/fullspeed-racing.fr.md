@@ -14,10 +14,12 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 FullSpeed Racing propose des courses sur circuit accessibles mais exigeantes. Pour gagner, tu dois apprendre le tracé des circuits, freiner en ligne droite, prendre les cordes proprement et réaccélérer tôt sans patiner. Des dépassements propres et une conduite régulière te rapportent bien plus que la simple vitesse de pointe.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu et stratégies
 
 1.  Freine tôt : mieux vaut entrer moins vite et ressortir plus fort. Évite de freiner en plein milieu du virage.
@@ -26,23 +28,29 @@ FullSpeed Racing propose des courses sur circuit accessibles mais exigeantes. Po
 4.  Surveille la mini‑carte : anticipe les retardataires, les dépassements et les voitures plus rapides qui arrivent derrière (blue flag).
 5.  Vise la régularité : enchaîner des tours propres sans erreurs vaut mieux que quelques passages ultra rapides suivis de sorties de piste.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
-- Direction : `A` / `D` ou flèches gauche/droite.  
-- Accélération / freinage : `W` / `S` ou flèches haut/bas.  
+- Direction : A / D ou flèches gauche/droite.  
+- Accélération / freinage : W / S ou flèches haut/bas.  
 - Nitro / frein à main (si disponible) : touche indiquée selon le mode ; à utiliser avec modération.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:fullspeed-racing:i-understeer-off-trackwhy-d3fd36c4 -->
 - Q : Je tire tout droit dans les virages, pourquoi ?
   
   R : Tu arrives trop vite au point de braquage. Freine plus tôt et entre avec moins de vitesse, tu auras plus d’adhérence pour tourner.
 
+<!-- i18n:faq:id=faq:fullspeed-racing:how-to-pass-cleanly-d48663c5 -->
 - Q : Comment dépasser proprement ?
   
   R : Prépare le dépassement à la sortie de virage : prends une meilleure trajectoire, profite de l’aspiration sur la ligne droite, puis décale‑toi au freinage lorsque tu es déjà à côté.
 
+<!-- i18n:faq:id=faq:fullspeed-racing:do-upgrades-matter-fdef2f50 -->
 - Q : Les améliorations de voiture sont‑elles importantes ?
   
   R : Dans certains modes, tu peux débloquer de nouveaux véhicules ou réglages. Choisis ceux qui correspondent le mieux au type de circuit (vitesse de pointe pour les longues lignes droites, accélération et grip pour les tracés sinueux).
+
 

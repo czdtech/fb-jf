@@ -13,10 +13,12 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Fluffy Mania est un puzzle de connexion coloré et relaxant. Tu dois relier des fluffies de même couleur adjacents pour les faire disparaître, déclencher des réactions en chaîne et atteindre les objectifs de chaque niveau : score minimum, nombre de coups limité, cases spéciales à nettoyer, etc.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu et stratégies
 
 1.  Forme des boucles si les règles le permettent : réaliser un carré ou une boucle d’une couleur donnée efface souvent tous les fluffies de cette couleur à l’écran – un énorme gain.
@@ -25,22 +27,28 @@ Fluffy Mania est un puzzle de connexion coloré et relaxant. Tu dois relier des 
 4.  Pense à deux coups d’avance : évite de laisser des cases isolées qui ne pourront plus être connectées à d’autres éléments.
 5.  Utilise les bonus intelligemment : déclenche les bonus quand ils permettent de viser plusieurs objectifs à la fois (par exemple libérer une zone + compléter un score).
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - Connexion : clique/tape sur un fluffy, puis fais glisser ton doigt ou ta souris à travers les voisins de même couleur pour former une chaîne.
 - Annuler/Relancer (si disponible) : utile sur les niveaux avec nombre de coups limité, mais à utiliser avec modération.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:fluffy-mania:stuck-with-one-move-leftwhat-99502a85 -->
 - Q : Il me reste un seul coup et je suis bloqué, que faire ?
   
   R : Cherche d’abord des groupes en bas de l’écran ; une cascade peut débloquer de nouvelles connexions plus haut.
 
+<!-- i18n:faq:id=faq:fluffy-mania:do-loops-matter-b566c568 -->
 - Q : Les boucles sont‑elles vraiment importantes ?
   
   R : Oui, si le mode les autorise, elles sont extrêmement puissantes. Essaie de les préparer dès que possible.
 
+<!-- i18n:faq:id=faq:fluffy-mania:timed-vs-moves-23faa6a7 -->
 - Q : Y a‑t‑il une différence entre niveaux à temps et niveaux à coups ?
   
   R : Oui. En mode chronométré, joue plus vite et prends ce qui vient ; en mode coups limités, privilégie la qualité des enchaînements et l’efficacité de chaque mouvement.
+
 

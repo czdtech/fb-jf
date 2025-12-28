@@ -13,10 +13,12 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Football Penalty se concentre sur l’exercice le plus stressant du football : le penalty. En tant que tireur, tu dois choisir la zone, la hauteur et la puissance de ta frappe tout en masquant ton intention. En mode gardien (selon les modes), tu lis la course du tireur et plonges au bon endroit. Les frappes en lucarne, les tirs ras du sol et une bonne dose de bluff te permettent de battre une IA moyenne.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu et stratégies
 
 1.  Vise les coins : les bas de poteau sont plus difficiles à arrêter ; les lucarnes sont puissantes mais plus risquées (barre ou sortie).
@@ -25,21 +27,27 @@ Football Penalty se concentre sur l’exercice le plus stressant du football : l
 4.  En mode gardien : déplace‑toi tard et plonge du côté du pied de frappe ou de l’ouverture du corps.
 5.  Tiens compte du vent (si présent) : compense légèrement ta visée et réduis la hauteur en cas de forte rafale.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - Vise avec la souris ; règle la puissance en maintenant/relâchant ; ajoute éventuellement de l’effet en faisant glisser (si la version le permet).
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:football-penalty:my-shots-always-get-saved-373b371a -->
 - Q : Tous mes tirs sont arrêtés, que faire ?
   
   R : Change de zone et de hauteur, et décale ton choix final le plus tard possible. Évite les frappes prévisibles plein centre.
 
+<!-- i18n:faq:id=faq:football-penalty:best-safe-shot-8caf83a6 -->
 - Q : Quel est le tir « sûr » le plus efficace ?
   
   R : Un tir fort et tendu dans le petit filet, ras du sol, est à la fois rapide et difficile à atteindre pour le gardien.
 
+<!-- i18n:faq:id=faq:football-penalty:how-do-i-read-the-27e23605 -->
 - Q : Comment mieux lire l’IA en gardien ?
   
   R : Observe les deux dernières foulées de la course ; beaucoup de tireurs ouvrent les hanches dans la direction où ils vont frapper.
+
 

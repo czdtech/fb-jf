@@ -13,16 +13,19 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Football Legends est un jeu de foot arcade rapide, jouable en 1v1 ou 2v2, avec une physique exagérée et des tirs spéciaux spectaculaires. Tu peux enchaîner les matchs rapides ou te lancer dans un tournoi à élimination.
 
+<!-- i18n:section:how-to-play -->
 ### Comment jouer
 
 - Place ton joueur pour des têtes et volées efficaces, et déclenche les tirs puissants quand la jauge spéciale est pleine.
 - Utilise les rebonds sur les murs et le sol pour créer des angles de tir surprenants, et protège bien ton but juste après les engagements.
 - En mode 2 joueurs, répartis les rôles : l’un presse l’adversaire, l’autre reste en couverture.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - Flèches ou WASD pour se déplacer et sauter ; les touches de tir/passe et de tir spécial varient selon l’hébergeur (affichées à l’écran).
@@ -33,17 +36,22 @@ Football Legends est un jeu de foot arcade rapide, jouable en 1v1 ou 2v2, avec u
 - Garde tes tirs spéciaux pour les situations où le but est bien ouvert plutôt que dans les mêlées.
 - En défense, recule en gardant l’angle plutôt que de foncer en ligne droite ; bloque la trajectoire plutôt que le joueur.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:football-legends:how-do-i-activate-a-5be5f6a8 -->
 - Q : Comment activer un tir spécial ?
   
   R : Remplis la jauge en jouant, puis appuie sur la touche spéciale indiquée par ton hébergeur.
 
+<!-- i18n:faq:id=faq:football-legends:does-2player-work-on-one-1cf93e87 -->
 - Q : Peut‑on jouer à deux sur le même clavier ?
   
   R : Oui, la plupart des versions proposent deux schémas de touches distincts pour le mode local à deux joueurs.
 
+<!-- i18n:faq:id=faq:football-legends:are-there-teams-with-different-49fd2ac3 -->
 - Q : Les équipes ont‑elles des stats différentes ?
   
   R : Certains hébergeurs proposent surtout des skins d’équipes ; la physique et le gameplay restent généralement identiques.
+
 

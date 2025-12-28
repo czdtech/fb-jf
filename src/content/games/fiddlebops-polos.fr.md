@@ -8,6 +8,7 @@ thumbnail: /new-images/thumbnails/fiddlebops-polos.png
 tags:
   - fiddlebops polos
 score: 4.6/5  (217 votes)
+releaseDate: 2025-12-04
 ---
 
 
@@ -32,3 +33,4 @@ Fiddlebops Polos n’est pas juste un énième jeu musical ; c’est un jeu de c
 Avec Fiddlebops Polos, c’est le moment ou jamais d’essayer de devenir un véritable maître de la musique. Si tu cherchais une aventure créative pleine de cœur et de couleur, ce mod est fait pour toi. Plonge‑y et découvre un univers de créativité dans lequel tout le monde peut trouver sa place.
 
 Il est temps de monter sur scène et d’enflammer le public… version Fiddlebops Polos !
+

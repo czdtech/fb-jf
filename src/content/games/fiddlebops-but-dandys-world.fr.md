@@ -8,9 +8,11 @@ thumbnail: /new-images/thumbnails/fiddlebops-but-dandys-world.png
 tags:
   - fiddlebops but dandy
 score: 4.6/5  (27 votes)
+releaseDate: 2025-12-04
 ---
 
 
+<!-- i18n:section:introduction -->
 Tu rêves d’entrer dans un royaume musical débordant de charme fantastique ? Fiddlebops But Dandy's World t’attend ! Imagine : tu n’es plus seulement assis devant l’écran, tu deviens le guide de Dandys World, à la tête d’une bande de compagnons Fiddlebops un peu déjantés, à travers une série de paysages musicaux surprenants.
 
 ## Qu’est‑ce qui rend Fiddlebops But Dandy's World si spécial ?
@@ -37,3 +39,4 @@ Qu’est‑ce qui rend ce mod aussi captivant pour autant de joueurs ?
 Avec la bénédiction de Dandys World, les notes autrefois ordinaires prennent vie. Chaque clic ressemble à un coup de baguette magique qui façonne un monde musical haut en couleurs.
 
 Rejoins Fiddlebops But Dandy's World et laisse ton inspiration musicale s’épanouir pleinement sous la magie de Dandys World !
+

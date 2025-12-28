@@ -8,9 +8,11 @@ thumbnail: /new-images/thumbnails/fiddlebops-sprunkbop.png
 tags:
   - fiddlebops sprunkbop
 score: 4.1/5  (308 votes)
+releaseDate: 2025-12-04
 ---
 
 
+<!-- i18n:section:introduction -->
 Salut les amoureux de musique ! Tu veux casser ta routine Incredibox avec quelque chose de plus frais ? Alors tu dois absolument essayer Fiddlebops Sprunkbop ! Ce n’est pas une sortie officielle, mais un mod créé par des fans ultra talentueux. Il remixe entièrement la musique du jeu classique pour lui donner un style totalement nouveau, devenu très populaire dans la communauté Incredibox.
 
 ### Quelle est la magie derrière Fiddlebops Sprunkbop ?
@@ -37,3 +39,4 @@ Pas de panique côté commandes : Fiddlebops Sprunkbop garde ce que l’original
 ### En résumé
 
 Grâce à ces ajouts, Fiddlebops Sprunkbop propose une expérience de création musicale plus libre et plus riche tout en conservant l’essence du jeu original. Que tu sois déjà fan de Fiddlebops Sprunkbop ou que tu découvres le mod pour la première fois, tu y trouveras forcément ta propre façon de t’amuser avec la musique. Donne sa chance à Fiddlebops Sprunkbop et mélange les beats les plus stylés avec ta créativité !
+
