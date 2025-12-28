@@ -11,8 +11,10 @@ thumbnail: /new-images/thumbnails/fiddlebops-but-dandys-world.png
 tags:
   - fiddlebops but dandy
 score: 4.6/5  (27 votes)
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 Stell dir vor, du betrittst ein musikalisches Königreich voller fantastischer
 Atmosphäre: Fiddlebops But Dandy's World wartet darauf, von dir entdeckt zu
 werden! Du sitzt nicht nur vor dem Bildschirm, sondern wirst zum Guide durch

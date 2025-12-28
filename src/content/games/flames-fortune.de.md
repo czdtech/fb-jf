@@ -14,6 +14,7 @@ score: 4.0/5  (1776 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Flames & Fortune ist ein kompaktes, rundenbasiertes Kampfspiel, das sich an
@@ -21,6 +22,7 @@ Kartenspiele anlehnt. Du spielst Effekte in möglichst effizienten Sequenzen,
 verwaltet begrenzte Ressourcen und reagierst auf die Absichten deiner Gegner,
 um den Kampfverlauf zu deinen Gunsten zu drehen.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1. **Zugkurve planen:** Versuche, deine Ressourcen pro Runde möglichst komplett
@@ -35,6 +37,7 @@ um den Kampfverlauf zu deinen Gunsten zu drehen.
    tausche langsame Hände gegen schnellere Optionen, vor allem gegen aggressive
    Gegner.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Karten ausspielen und Zug beenden: Karte anklicken/antippen und die Aktion
@@ -42,16 +45,20 @@ um den Kampfverlauf zu deinen Gunsten zu drehen.
 - Effekte einsehen: Karte mit Maushover oder Tipp halten, um den Text zu
   lesen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:flames-fortune:rng-heavy-d7511a10 -->
 - **F: Ist das Spiel sehr glückslastig?**  
   **A:** Zufall spielt eine Rolle, wird aber durch saubere Sequenzen und
   Ressourcenplanung abgemildert.
 
+<!-- i18n:faq:id=faq:flames-fortune:best-builds-311691b0 -->
 - **F: Was sind starke Builds?**  
   **A:** Konzentriere dich auf wenige Synergien (z.B. Burn, Rüstungsaufbau,
   Kontrollpaket), statt alles ein bisschen zu machen.
 
+<!-- i18n:faq:id=faq:flames-fortune:can-i-recover-from-bad-64761be7 -->
 - **F: Kann ich mich von schlechten Draws erholen?**  
   **A:** Ja – stabilisiere mit defensiven Zügen und plane
   Zwei-Runden-Powerplays, statt jeden Zug einzeln zu denken.

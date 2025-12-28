@@ -15,6 +15,7 @@ score: 4.3/5  (2098 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Futoshiki ("nicht gleich") ist ein Logikrätsel ähnlich wie Sudoku, basiert aber
@@ -24,6 +25,7 @@ und jede Spalte jede Zahl genau einmal enthält und zugleich jedes
 Ungleichheitszeichen erfüllt ist. Die Zeichen bilden Ketten, mit denen sich
 starke Schlussfolgerungen ableiten lassen.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1. **Ungleichheitsketten auswerten:** Aus A > B > C folgt z.B. A ≥ C + 2. Setze
@@ -39,22 +41,27 @@ starke Schlussfolgerungen ableiten lassen.
 5. **Symmetrien nutzen:** Viele Rätsel sind symmetrisch aufgebaut; oft lassen
    sich auf einer Seite gefundene Strukturen auf die andere übertragen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Tippe ein Feld an, um Kandidaten oder feste Werte einzutragen; wechsle in den
   Notizmodus nach Bedarf; Rückgängig/Wiederherstellen über Buttons.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:futoshiki:i-cant-progress-any-tip-26670f59 -->
 - **F: Ich komme nicht weiter – irgendein Tipp?**  
   **A:** Wandle Ungleichheitsketten explizit in Grenzen um (z.B. wenn 5 > □ > 3,
   dann kann das mittlere Feld nur 4 sein) und kombiniere das mit Zeilen-/
   Spaltenausschlüssen.
 
+<!-- i18n:faq:id=faq:futoshiki:are-guesses-required-13834711 -->
 - **F: Muss ich raten?**  
   **A:** Gut gestaltete Futoshiki-Rätsel sind rein logisch lösbar. Im Notfall
   helfen kontrollierte Annahmen mit schnellem Backtracking.
 
+<!-- i18n:faq:id=faq:futoshiki:difference-vs-sudoku-89f94240 -->
 - **F: Worin unterscheidet es sich von Sudoku?**  
   **A:** Die Ungleichheitszeichen geben gerichtete Zusatzinfos, mit denen du
   stärker erzwungene Züge findest als nur über Kandidatenzählung.

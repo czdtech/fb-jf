@@ -15,6 +15,7 @@ score: 4.5/5  (2230 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Footchinko ist ein innovatives Arcade-Spiel, das Fußball mit Pachinko- und
@@ -24,6 +25,7 @@ erzielen. Jedes Level hat eigene Layouts und Herausforderungen; du musst
 gezielt zielen, Rebounds einplanen und Verteidiger umgehen. Power-ups und Boni
 verstärken deine Schüsse oder bringen Zusatzbälle und Extra-Punkte.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1. **Zielen ist alles:** Überlege dir vor jedem Schuss die wahrscheinliche
@@ -41,22 +43,28 @@ verstärken deine Schüsse oder bringen Zusatzbälle und Extra-Punkte.
    wie der Ball von verschiedenen Flächen zurückprallt. Mit der Zeit bekommst
    du ein Gefühl für die Physik und kannst gezielter spielen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Ball abfeuern:** Klicke oder tippe auf den Bildschirm, um den Ball
   loszuschicken. Position und eventuell gezogener Winkel bestimmen Richtung und
   Stärke.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:footchinko:q-what-is-the-main-da416039 -->
 *   **F: Was ist das Hauptziel von Footchinko?**
     *   **A:** Du willst Tore erzielen, indem du den Ball trotz Pachinko‑Hindernissen
         im Netz des Gegners versenkst.
 
+<!-- i18n:faq:id=faq:footchinko:q-are-there-different-levels-18c8734d -->
 *   **F: Gibt es verschiedene Cups oder Ligen?**
     *   **A:** Ja, in der Regel gibt es mehrere Level, Ligen oder Meisterschaften mit
         steigender Schwierigkeit und neuen Feldaufbauten.
 
+<!-- i18n:faq:id=faq:footchinko:q-how-do-i-get-698432e6 -->
 *   **F: Wie erziele ich höhere Punktzahlen?**
     *   **A:** Triff möglichst viele Pins, sammle Power‑ups, räume gezielt Hindernisse
         aus dem Weg und versuche Kombos und Trickschüsse ins Tor.
+

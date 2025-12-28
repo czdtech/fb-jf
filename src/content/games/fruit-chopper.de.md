@@ -15,6 +15,7 @@ score: 4.2/5  (2345 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Fruit Chopper ist ein schnelles, saftiges Arcade-Spiel für deine Reflexe. Über
@@ -23,6 +24,7 @@ möglich mit einem Wisch zu zerteilen – ohne die Bomben zu treffen, die
 zwischen ihnen versteckt sind. Je besser deine Kombos und je länger du
 überlebst, desto höher fällt dein Score aus.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1. **Auf Kombos spielen:** Hohe Punktzahlen bekommst du, wenn du mehrere
@@ -38,23 +40,29 @@ zwischen ihnen versteckt sind. Je besser deine Kombos und je länger du
 5. **Ruhe bewahren:** Mit Fortschritt wird das Spiel hektischer. Konzentriere
    dich auf glatte, kontrollierte Swipes statt wildem Wischen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Schneiden:** Ziehe mit der Maus über Früchte oder wische mit dem Finger
   darüber, um sie zu zerteilen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:fruit-chopper:q-what-is-the-goal-ab58581b -->
 *   **F: Was ist das eigentliche Ziel?**
     *   **A:** So viele Punkte wie möglich zu sammeln, bevor du eine Bombe triffst
         oder zu viele Früchte durchrutschen lässt (je nach Modus).
 
+<!-- i18n:faq:id=faq:fruit-chopper:q-how-do-i-get-d3288798 -->
 *   **F: Wie bekomme ich Kombo‑Boni?**
     *   **A:** Indem du drei oder mehr Früchte mit einem einzigen Wisch triffst.
         Je mehr Früchte du auf einmal schneidest, desto größer der Bonus.
 
+<!-- i18n:faq:id=faq:fruit-chopper:q-are-there-different-game-8575813d -->
 *   **F: Gibt es mehrere Spielmodi?**
     *   **A:** Viele Frucht‑Slicer bieten Modi wie Classic (Bomben meiden, Früchte
         nicht verpassen), Arcade (Zeitmodus mit Power‑ups) oder Zen (entspannt,
         ohne Bomben). Schau im Hauptmenü nach, welche Varianten der Host hier
         unterstützt.
+

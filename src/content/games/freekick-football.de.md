@@ -15,6 +15,7 @@ score: 4.2/5 (1876 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Freekick Football konzentriert sich ganz auf die Kunst des Freistoßes im
@@ -22,6 +23,7 @@ Fußball. Aus unterschiedlichen Distanzen und Winkeln versuchst du, den Ball an
 Mauer und Torwart vorbeizuschlenzen. Das Spiel fordert dein Gefühl für
 Platzierung, Timing und Ballflug.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1. **Zielen:** Suche dir vor jedem Schuss eine klare Bahn zum Tor. Beziehe
@@ -35,19 +37,24 @@ Platzierung, Timing und Ballflug.
    Stand des Keepers, um dich für Flachschuss, Bananenball oder Vollspann zu
    entscheiden.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Maus/Touch:** Zielen, Schusskraft und Effet werden meist über eine
   Kombination aus Klicken/Tippen und Ziehen eingestellt (Details hängen vom
   Host ab).
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:freekick-football:q-how-do-i-score-c88776e3 -->
 *   **F: Wie treffe ich konstanter?**
     *   **A:** Übung ist alles. Probiere unterschiedliche Kombinationen aus Kraft und
         Spin und halte dich bevorzugt an Ecken, die der Torwart schwer erreicht.
 
+<!-- i18n:faq:id=faq:freekick-football:q-whats-the-best-way-22903e83 -->
 *   **F: Wie überwinde ich die Mauer am besten?**
     *   **A:** Entweder mit einem gezielten Curl über oder um die Mauer oder mit einem
         harten, flachen Schuss durch eine Lücke – such dir je nach Maueraufstellung
         die Variante mit der größten Trefferchance aus.
+

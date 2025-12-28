@@ -11,8 +11,10 @@ thumbnail: /new-images/thumbnails/fiddlebops-sprunksters-remix.png
 tags:
   - fiddlebops sprunksters remix
 score: 4.1/5  (127 votes)
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 Hey Musik-Trendsetter! Lust auf frischen Wind in deinen Incredibox-Sessions?
 Dann solltest du Fiddlebops Sprunksters ausprobieren. Der von Bismeowth
 entwickelte Mod behält das süchtigmachende Drag-and-Drop-Gameplay bei, bringt
@@ -60,3 +62,4 @@ werden.
 Fiddlebops Sprunksters verbindet Kreativität, Rhythmus und Style zu einem
 besonderen Mod-Erlebnis. Wenn du Musikspiele magst und gern neue Klangwelten
 entdeckst, solltest du diesem Remix unbedingt eine Chance geben.
+

@@ -15,12 +15,14 @@ score: 3.7/5  (697 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Überblick
 
 Im Nachfolger verschiebt sich der Spielablauf: Es gibt keine Stromtüren mehr,
 stattdessen jonglierst du Freddy-Maske und Spieluhr für die Puppet und
 überwachst Flure und Lüftungsschächte.
 
+<!-- i18n:section:how-to-play -->
 ### So spielst du
 
 - Halte die Spieluhr über die Kameras aufgezogen – läuft sie ab, greift die
@@ -29,6 +31,7 @@ stattdessen jonglierst du Freddy-Maske und Spieluhr für die Puppet und
 - Nutze die Taschenlampe, um den Flur zu prüfen und Foxy kurzzeitig
   zurückzuschrecken.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Maus/UI zum Bedienen von Kameras und Maske.  
@@ -43,16 +46,20 @@ stattdessen jonglierst du Freddy-Maske und Spieluhr für die Puppet und
 - Lerne, welche Figuren auf die Maske reagieren und welche eher über Licht
   gehandhabt werden.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:five-nights-at-freddy-2:why-am-i-losing-to-c0f11b56 -->
 - **F: Warum verliere ich ständig gegen die Puppet?**  
   **A:** Du verbringst zu viel Zeit in anderen Kameransichten – die Music Box
   hat oberste Priorität.
 
+<!-- i18n:faq:id=faq:five-nights-at-freddy-2:when-do-i-use-the-cad7c233 -->
 - **F: Wann soll ich die Maske tragen?**  
   **A:** Sofort, wenn ein Animatronic im Büro steht; für Flur und Vent-Schächte
   reicht meist Lichtkontrolle.
 
+<!-- i18n:faq:id=faq:five-nights-at-freddy-2:is-there-door-control-a012fcd2 -->
 - **F: Gibt es wieder Türen?**  
   **A:** Nein, FNAF 2 setzt komplett auf Maske, Schachtkontrolle und
   Taschenlampe statt klassischer Türen.

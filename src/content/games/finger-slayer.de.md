@@ -15,6 +15,7 @@ score: 3.8/5  (1690 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Finger Slayer ist ein simples, aber gnadenloses Reaktionsspiel. Du legst deinen
@@ -23,6 +24,7 @@ bevor die Falle zuschnappt. Mit jeder Runde werden die Schließgeschwindigkeiten
 höher, Täuschungsanimationen gemeiner und Rhythmuswechsel unangenehmer.
 Ziel ist es, so spät wie möglich – aber noch rechtzeitig – zu reagieren.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1. **Auf das Signal achten:** Die meisten Fallen haben einen kurzen
@@ -40,22 +42,27 @@ Ziel ist es, so spät wie möglich – aber noch rechtzeitig – zu reagieren.
    Zuschnappen herankommst, ohne getroffen zu werden, und peile dann minimal
    früher an.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Halten, um den Finger zu platzieren, und Loslassen, um ihn zurückzuziehen;
   manche Builds unterscheiden zwischen Tippen und Halten.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:finger-slayer:i-always-move-too-early-50520ef2 -->
 - **F: Ich ziehe immer zu früh weg – wie kann ich mir das abgewöhnen?**  
   **A:** Konzentriere dich auf die Voranimation oder das Geräusch der Falle und
   blende dein inneres Zählen aus. Reagiere auf das echte Signal, nicht auf
   Vermutungen.
 
+<!-- i18n:faq:id=faq:finger-slayer:closures-feel-random-any-tip-b8f976ee -->
 - **F: Die Schließzeiten wirken zufällig – stimmt das?**  
   **A:** Meist handelt es sich um pseudozufällige Muster mit wiederkehrenden
   "Tells". Trainiere eine ruhige Warte-und-Schnapp-Reaktion.
 
+<!-- i18n:faq:id=faq:finger-slayer:is-there-input-lag-f763cc99 -->
 - **F: Gibt es Eingabeverzögerung?**  
   **A:** Kleine Delays sind je nach Gerät möglich. Reagiere im Zweifel schon im
   ersten Frame des Signals, um das auszugleichen.

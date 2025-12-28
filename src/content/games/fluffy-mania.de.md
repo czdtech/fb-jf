@@ -14,6 +14,7 @@ score: 4.0/5  (1729 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Fluffy Mania ist ein farbenfrohes, entspanntes Connect-Puzzle. Du verbindest
@@ -21,6 +22,7 @@ benachbarte Fluffies derselben Farbe, um sie vom Brett zu räumen,
 Kettenreaktionen zu erzeugen und Levelziele zu erfüllen – etwa Punktvorgaben,
 Zugbegrenzungen oder das Freilegen spezieller Felder.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1. **Quadrate bilden:** Falls Loops/Quadrate erlaubt sind, räumen sie oft alle
@@ -34,6 +36,7 @@ Zugbegrenzungen oder das Freilegen spezieller Felder.
 5. **Power-ups gezielt zünden:** Löse sie aus, wenn sie mehrere Zielvorgaben
    auf einmal voranbringen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Verbinden: Klicke/tippe auf einen Fluffy und ziehe über benachbarte
@@ -41,16 +44,20 @@ Zugbegrenzungen oder das Freilegen spezieller Felder.
 - Rückgängig/Neustart (falls verfügbar): Mit Bedacht einsetzen, besonders in
   Leveln mit begrenzten Zügen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:fluffy-mania:stuck-with-one-move-leftwhat-99502a85 -->
 - **F: Ich stecke mit einem Zug fest – was tun?**  
   **A:** Versuche, am unteren Rand zu räumen, um neue Steine nachfallen zu
   lassen und so frische Kombos zu eröffnen.
 
+<!-- i18n:faq:id=faq:fluffy-mania:do-loops-matter-b566c568 -->
 - **F: Bringen Loops wirklich etwas?**  
   **A:** Wenn sie aktiviert sind, zählen sie zu den stärksten Zügen im Spiel –
   priorisiere sie, wann immer möglich.
 
+<!-- i18n:faq:id=faq:fluffy-mania:timed-vs-moves-23faa6a7 -->
 - **F: Gibt es einen Unterschied zwischen Zeit- und Zugleveln?**  
   **A:** Ja – in Zeitleveln spielt Tempo eine größere Rolle, in
   Zugbegrenzungsleveln zählt vor allem effiziente Planung.

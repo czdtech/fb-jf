@@ -16,6 +16,7 @@ score: 4.2/5  (1770 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Fruit Cube Blast ist ein knallbuntes "Tap-to-Blast"-Puzzlespiel. Anders als in
@@ -26,6 +27,7 @@ sammeln oder Hindernisse abzuräumen – indem du Würfel clever entfernst und
 starke Kombos erzeugst. Große Gruppen erzeugen Booster wie Raketen oder Bomben,
 mit denen du riesige Teile des Felds leeren kannst.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Je größer, desto besser:** Suche nach den größten möglichen Gruppen. Kleine
@@ -40,13 +42,14 @@ mit denen du riesige Teile des Felds leeren kannst.
     *   **Kombinieren:** Noch stärker werden Booster, wenn du zwei davon
         nebeneinander aktivierst – z. B. Rakete + Bombe für eine riesige
         Explosion.
-3.  **Auf Missionsziele achten:** Schau immer nach, ob du z. B. eine bestimmte
-    Anzahl roter Würfel sammeln oder ein Objekt nach unten bringen musst, und
-    richte deine Züge entsprechend aus.
+3.  **Auf Missionsziele achten:** Schau immer nach, ob du z. B. 30 rote Würfel
+    sammeln oder ein Objekt nach unten bringen musst, und richte deine Züge
+    entsprechend aus.
 4.  **Züge sparen:** Da deine Züge begrenzt sind, solltest du sie nicht an
     Mini‑Gruppen verschwenden. Plane lieber ein, zwei Züge voraus, um große
     Gruppen oder Booster‑Combos vorzubereiten.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Die Steuerung ist extrem einfach.
@@ -55,16 +58,20 @@ Die Steuerung ist extrem einfach.
   verbundenen Würfeln derselben Farbe.
 - **Booster aktivieren:** Tippe/klicke einfach auf einen Booster (Rakete, Bombe usw.) – er löst seinen Effekt aus.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:fruit-cube-blast:q-why-cant-i-tap-6043750c -->
 *   **F: Warum kann ich einzelne Würfel nicht antippen?**
     *   **A:** Es müssen immer mindestens zwei gleichfarbige, benachbarte Würfel
         sein, damit ein Zug gültig ist.
 
+<!-- i18n:faq:id=faq:fruit-cube-blast:q-how-do-i-create-fcae3932 -->
 *   **F: Wie erstelle ich eine Rakete?**
     *   **A:** Eine Rakete entsteht, wenn du eine zusammenhängende Gruppe von 5
         oder 6 identischen Fruchtwürfeln antippst.
 
+<!-- i18n:faq:id=faq:fruit-cube-blast:q-what-is-the-best-610f5571 -->
 *   **F: Was ist die beste Strategie bei Leveln mit wenig Zügen?**
     *   **A:** Fokussiere dich darauf, Booster zu bauen und sie miteinander zu
         kombinieren, statt viele kleine Gruppen wegzuklicken – so holst du das

@@ -11,6 +11,7 @@ thumbnail: /new-images/thumbnails/fiddlebops-fix.png
 tags:
   - fiddlebops fix
 score: 4.6/5  (217 votes)
+releaseDate: 2025-12-04
 ---
 
 ### Was macht Fiddlebops Fix so besonders?

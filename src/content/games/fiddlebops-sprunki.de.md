@@ -12,8 +12,10 @@ tags:
   - fiddlebops sprunki
   - sprunki phase 5 online
 score: 4.3/5 (684 votes)
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 ### Einführung in Fiddlebops Sprunki
 
 Fiddlebops Sprunki haucht dem ursprünglichen Sprunki-Spiel neues Leben ein und

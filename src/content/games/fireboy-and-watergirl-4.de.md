@@ -15,6 +15,7 @@ score: 4.6/5  (117 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 *Fireboy and Watergirl 4: The Crystal Temple* ist der vierte Teil der beliebten
@@ -37,6 +38,7 @@ Um den Crystal Temple zu meistern, müsst ihr verstehen, wie ihr die Portale
 nutzt, um Hindernisse zu umgehen, höher gelegene Bereiche zu erreichen und
 Bewegungen über die ganze Karte hinweg zu koordinieren.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1. **Portale zuerst lesen:** Schau dir vor dem Loslaufen an, wohin jedes Portal
@@ -59,41 +61,50 @@ Bewegungen über die ganze Karte hinweg zu koordinieren.
    ein Einbahnportal schickst. Stelle sicher, dass es für sie danach einen
    sinnvollen Weiterweg oder eine spätere Rückroute gibt.
 
+<!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `A` `D` `W` `Left Arrow` `Right Arrow` `Up Arrow`
 
 Standardmäßig spielen zwei Personen an einer Tastatur:
 
 **Fireboy**  
-- Links: `A`  
-- Rechts: `D`  
-- Springen: `W`
+- Links: A  
+- Rechts: D  
+- Springen: W
 
 **Watergirl**  
 - Links: Pfeil links  
 - Rechts: Pfeil rechts  
 - Springen: Pfeil hoch
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:fireboy-and-watergirl-4:how-do-the-crystal-portals-2b86b453 -->
 - **F: Wie funktionieren die Kristallportale genau?**  
   **A:** Sie teleportieren dich sofort zum passenden Portal. Weiße Rahmen
   bedeuten Hin- und Rückweg, farbige (z.B. schwarz) sind nur in eine Richtung
   passierbar.
 
+<!-- i18n:faq:id=faq:fireboy-and-watergirl-4:can-i-play-this-game-d8da43ec -->
 - **F: Kann ich alleine spielen?**  
   **A:** Ja, aber es ist deutlich schwerer. Du steuerst beide Figuren parallel
   mit beiden Händen. Am meisten Spaß macht es mit einem Partner.
 
+<!-- i18n:faq:id=faq:fireboy-and-watergirl-4:why-cant-i-finish-the-c38e695a -->
 - **F: Wieso endet das Level nicht, obwohl ich am Ausgang stehe?**  
   **A:** Fireboy und Watergirl müssen gleichzeitig an ihren farblich markierten
   Türen stehen, damit das Level abgeschlossen wird.
 
+<!-- i18n:faq:id=faq:fireboy-and-watergirl-4:what-is-the-difference-between-414f4676 -->
 - **F: Was unterscheidet Teil 4 von den anderen Spielen?**  
   **A:** Teil 1 (*Forest Temple*) ist relativ geradlinig, Teil 2 (*Light
   Temple*) bringt Lichtstrahlen und Sensoren, Teil 3 (*Ice Temple*) Eis- und
   Schneephysik. *The Crystal Temple* ergänzt das Ganze um das komplexe
   Portalsystem.
 
+<!-- i18n:faq:id=faq:fireboy-and-watergirl-4:are-the-gems-necessary-to-a8c4af3c -->
 - **F: Muss ich alle Edelsteine einsammeln?**  
   **A:** Nein, sie sind optional und dienen der Wertung. Wenn du alle Gems
   sammelst und schnell im Ziel bist, bekommst du die beste Bewertung.

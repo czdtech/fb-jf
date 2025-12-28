@@ -15,6 +15,7 @@ score: 3.9/5  (1234 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Find 500 Differences ist ein klassisches Such-die-Unterschiede-Spiel, das deine
@@ -25,6 +26,7 @@ die sie voneinander abheben. Mit Motiven von Landschaften bis zu detailreichen
 Szenerien bietet das Spiel viele Stunden entspannter, aber fordernder
 Knobelei für alle Altersgruppen.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1. **Systematisch scannen:** Starte z.B. links oben und arbeite dich wie beim
@@ -42,6 +44,7 @@ Knobelei für alle Altersgruppen.
    Hinweise nutzen. Heb sie dir aber lieber für die letzten ein bis zwei
    Unterschiede auf, um die Herausforderung zu erhalten.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Klick/Tippen:** Klicke oder tippe in den Bereich des Bildes (egal in
@@ -49,15 +52,20 @@ Knobelei für alle Altersgruppen.
 - **Zoom (falls verfügbar):** Einige Versionen erlauben Heranzoomen, um
   Details besser zu erkennen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:find-500-differences:q-what-happens-if-i-59a6213b -->
 *   **F: Was passiert bei einem Fehlklick?**
     *   **A:** In vielen Varianten kostet ein falscher Klick Zeit oder Punkte. Sei
         dir daher möglichst sicher, bevor du klickst.
 
+<!-- i18n:faq:id=faq:find-500-differences:q-is-there-a-time-c0411996 -->
 *   **F: Gibt es ein Zeitlimit?**
     *   **A:** Meist läuft eine Uhr mit und setzt dich leicht unter Druck. Versuche,
         alle Unterschiede zu finden, bevor die Zeit abläuft.
 
+<!-- i18n:faq:id=faq:find-500-differences:q-how-many-differences-are-303ffe69 -->
 *   **F: Wie viele Unterschiede gibt es pro Level?**
     *   **A:** Typischerweise musst du pro Bildpaar fünf Unterschiede finden.
+

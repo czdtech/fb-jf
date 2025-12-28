@@ -15,12 +15,14 @@ score: 4.3/5  (222 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Überblick
 
 Football Legends bietet schnelle 1v1- oder 2v2-Partien mit überzeichneter
 Physik und Spezialschüssen. Du kannst spontane Spiele oder ganze
 Turnierbäume spielen.
 
+<!-- i18n:section:how-to-play -->
 ### So spielst du
 
 - Positioniere dich für Kopfbälle und Volleys; nutze Powerschüsse, sobald die
@@ -30,6 +32,7 @@ Turnierbäume spielen.
 - Im 2-Spieler-Modus lohnt sich Rollenteilung: Einer presst, der andere
   sichert hinten.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Pfeiltasten/WASD zum Laufen und Springen.  
@@ -44,15 +47,19 @@ Turnierbäume spielen.
 - In der Defensive lieber zurückweichen und Winkel schließen, als wild
   herauszustürmen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:football-legends:how-do-i-activate-a-5be5f6a8 -->
 - **F: Wie aktiviere ich einen Spezialschuss?**  
   **A:** Fülle die Spezialleiste durch aktives Spiel und drücke dann die
   eingeblendete Spezialtaste deines Hosts.
 
+<!-- i18n:faq:id=faq:football-legends:does-2player-work-on-one-1cf93e87 -->
 - **F: Funktioniert 2-Spieler an einer Tastatur?**  
   **A:** Ja, die meisten Versionen bieten zwei getrennte Tastenbelegungen.
 
+<!-- i18n:faq:id=faq:football-legends:are-there-teams-with-different-49fd2ac3 -->
 - **F: Haben Teams unterschiedliche Werte?**  
   **A:** Oft sind die Unterschiede vor allem kosmetisch; die Physik bleibt in
   vielen Hosts gleich.

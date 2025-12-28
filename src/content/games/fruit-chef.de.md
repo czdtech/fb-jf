@@ -14,6 +14,7 @@ score: 4.1/5  (1948 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Fruit Chef baut auf dem klassischen Frucht-Slicing-Prinzip auf: Mit einem
@@ -21,6 +22,7 @@ Wisch zerschneidest du fliegende Früchte, baust Komboketten auf und wehrst
 Bomben ab. Das Punktesystem belohnt lange, gerade Schnitte über mehrere Früchte
 und einen gleichmäßigen Rhythmus statt hektischer Wischbewegungen.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1. **Lange Striche:** Versuche, mehrere Früchte mit einer geraden Linie zu
@@ -34,20 +36,25 @@ und einen gleichmäßigen Rhythmus statt hektischer Wischbewegungen.
 5. **Power-ups sparen:** Heb Zeitlupen oder ähnliche Effekte für sehr dichte
    Fruchtwellen auf.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Klicken und Ziehen oder Wischen, um Früchte zu schneiden; Bomben meiden;
   Pause/Neustart über die UI.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:fruit-chef:i-keep-hitting-bombs-how-e4b71e7c -->
 - **F: Ich treffe ständig Bomben – wie vermeide ich das?**  
   **A:** Schneide nur in klaren Winkeln und brich Bewegungen ab, sobald du
   siehst, dass eine Bombe im Weg liegt.
 
+<!-- i18n:faq:id=faq:fruit-chef:best-way-to-score-high-c0f5b5b0 -->
 - **F: Wie erziele ich hohe Punktzahlen?**  
   **A:** Setze auf lange, saubere Kombos und einen konstanten Rhythmus.
 
+<!-- i18n:faq:id=faq:fruit-chef:multitouch-helps-19d64a66 -->
 - **F: Hilft Multi-Touch?**  
   **A:** Falls unterstützt, können zwei Finger dir helfen, in breiten Bögen
   große Bereiche sicher abzudecken.

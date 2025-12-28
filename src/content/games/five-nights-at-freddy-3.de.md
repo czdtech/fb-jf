@@ -15,12 +15,14 @@ score: 3.8/5  (149 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Überblick
 
 Im dritten Teil, viele Jahre später, befindest du dich in einer Horrorattraktion
 und hast es mit Springtrap zu tun, während Phantom-Animatronics deine
 Systeme stören. Du jonglierst Kameras, Audiolockrufe und die Belüftung.
 
+<!-- i18n:section:how-to-play -->
 ### So spielst du
 
 - Nutze den Audio-Lockruf, um Springtrap von deinem Büro wegzulocken, ohne das
@@ -30,6 +32,7 @@ Systeme stören. Du jonglierst Kameras, Audiolockrufe und die Belüftung.
 - Starte Video-, Audio- oder Lüftungssysteme im Wartungsmenü neu, sobald
   Fehler auftreten.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Maus/UI für Kameras, Audio, Lüftungs-Siegel und System-Reboots.
@@ -43,16 +46,20 @@ Systeme stören. Du jonglierst Kameras, Audiolockrufe und die Belüftung.
 - Lüftungsfehler haben höchste Priorität; zu lange Blackouts erhöhen die
   Fehlerquote und Jump-Scare-Gefahr.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:five-nights-at-freddy-3:why-does-the-audio-stop-d632ed1d -->
 - **F: Warum funktioniert der Audio-Lockruf plötzlich nicht mehr?**  
   **A:** Das Audiosystem ist überlastet oder abgestürzt – starte es im
   Wartungsmenü neu.
 
+<!-- i18n:faq:id=faq:five-nights-at-freddy-3:how-do-i-prevent-springtrap-b24f62ec -->
 - **F: Wie halte ich Springtrap von meinem Büro fern?**  
   **A:** Kette Lockrufe und verschließe Lüftungsschächte auf seinen
   Hauptwegen, bevor er zu nah herankommt.
 
+<!-- i18n:faq:id=faq:five-nights-at-freddy-3:which-system-should-i-reboot-ca9c5d65 -->
 - **F: Welche Systeme sollte ich zuerst neu starten, wenn mehrere ausfallen?**  
   **A:** Zuerst die Lüftung, um Sicht und Effekte zu stabilisieren, dann Video
   und Audio nach Bedarf.

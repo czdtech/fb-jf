@@ -14,6 +14,7 @@ score: 3.6/5  (1527 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Fruit Slot Machine simuliert einen einfachen Drei-Walzen-Automaten mit
@@ -22,6 +23,7 @@ unabhängig, Auszahlungen richten sich nach Auszahlungstabelle und aktiven
 Gewinnlinien. Sieh das Spiel als leichte Unterhaltung – nicht als
 Strategietitel.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1. **Budget festlegen:** Setze dir vorab ein Einsatzlimit pro Sitzung und halte
@@ -35,21 +37,26 @@ Strategietitel.
 5. **Stoppregeln:** Hör auf, wenn du dein Gewinnziel oder dein Verlustlimit
    erreicht hast.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Einsatz und Linien (falls vorhanden) einstellen, dann "Spin" drücken; oft gibt
   es auch Auto-Spin.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:fruit-slot-machine:can-i-influence-outcomes-f98dae04 -->
 - **F: Kann ich das Ergebnis eines Spins beeinflussen?**  
   **A:** Nein, Spins sind zufallsbasiert. Konzentriere dich auf Einsatz- und
   Geldmanagement, nicht auf vermeintliche Systeme.
 
+<!-- i18n:faq:id=faq:fruit-slot-machine:whats-the-best-bet-22b1405b -->
 - **F: Was ist die beste Einsatzstrategie?**  
   **A:** Ein kleiner, gleichbleibender Einsatz verlängert die Spielzeit und
   damit auch den Unterhaltungswert.
 
+<!-- i18n:faq:id=faq:fruit-slot-machine:do-features-increase-rtp-27af40bb -->
 - **F: Machen Bonusfeatures den Slot lukrativer?**  
   **A:** Features verändern vor allem die Volatilität; der langfristige
   Erwartungswert bleibt in der Regel ähnlich.

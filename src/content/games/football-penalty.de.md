@@ -14,6 +14,7 @@ score: 4.0/5  (1881 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Football Penalty dreht sich ganz um Strafstöße. Als Schütze bestimmst du
@@ -22,6 +23,7 @@ Modi spielst du auch als Torwart, liest den Anlauf und entscheidest dich für
 die richtige Ecke. Platziert geschossene Bälle ins Eck, flache Schüsse und
 spät verratene Richtungswechsel sind meist erfolgreicher als rohe Gewalt.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1. **Ecken anvisieren:** Flache Schüsse in die Ecken sind schwerer zu halten;
@@ -35,21 +37,26 @@ spät verratene Richtungswechsel sind meist erfolgreicher als rohe Gewalt.
 5. **Wind bedenken (falls vorhanden):** Korrigiere bei starkem Wind leicht die
    Zielrichtung und halte Bälle flacher.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Mit der Maus zielen; Power über Halten der Taste bestimmen; je nach Version
   kannst du durch Ziehen Effet hinzufügen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:football-penalty:my-shots-always-get-saved-373b371a -->
 - **F: Meine Schüsse werden ständig gehalten – was tun?**  
   **A:** Wechsle Höhe und Ecke, verzögere das finale Zielen ein wenig und
   meide vorhersehbare Schüsse in die Tormitte.
 
+<!-- i18n:faq:id=faq:football-penalty:best-safe-shot-8caf83a6 -->
 - **F: Was ist der sicherste Schuss?**  
   **A:** Kräftige, flache Schüsse in die Ecke sind meist am schwersten zu
   erreichen.
 
+<!-- i18n:faq:id=faq:football-penalty:how-do-i-read-the-27e23605 -->
 - **F: Wie lese ich als Keeper die KI?**  
   **A:** Achte auf die letzten Schritte des Anlaufs; viele Schützen drehen Hüfte
   und Oberkörper in Richtung der geplanten Schussseite.

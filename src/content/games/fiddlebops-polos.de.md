@@ -11,6 +11,7 @@ thumbnail: /new-images/thumbnails/fiddlebops-polos.png
 tags:
   - fiddlebops polos
 score: 4.6/5  (217 votes)
+releaseDate: 2025-12-04
 ---
 
 ### Was hebt Fiddlebops Polos hervor?

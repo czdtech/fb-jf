@@ -16,6 +16,7 @@ score: 4.3/5  (2100 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Find the Difference ist ein klassisches Beobachtungspuzzle, das deine
@@ -24,6 +25,7 @@ zwei Bilder präsentiert, die auf den ersten Blick gleich aussehen, aber
 feinere Unterschiede verbergen. Deine Aufgabe ist es, alle Abweichungen zu
 finden, bevor die Zeit abläuft – entspannt, aber durchaus anspruchsvoll.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1. **Strukturiert vorgehen:** Starte in einer Ecke (z.B. oben links) und
@@ -43,23 +45,29 @@ finden, bevor die Zeit abläuft – entspannt, aber durchaus anspruchsvoll.
 4. **Wildes Klicken vermeiden:** Zufällige Klicks werden häufig mit
    Zeitabzug oder anderen Strafen geahndet. Klicke nur, wenn du dir sicher bist.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Unterschied markieren:** Wenn du eine Abweichung entdeckt hast, klicke mit
   der Maus auf die entsprechende Stelle in einem der beiden Bilder. Liegt du
   richtig, wird der Unterschied markiert.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:find-the-difference:q-what-kind-of-differences-cb6259ef -->
 *   **F: Worauf sollte ich generell achten?**
     *   **A:** Auf alles, was hinzugefügt, entfernt, farblich verändert, in der
         Größe angepasst oder leicht verschoben wurde.
 
+<!-- i18n:faq:id=faq:find-the-difference:q-what-happens-if-i-3e2f3236 -->
 *   **F: Was passiert bei einem Fehlklick?**
     *   **A:** In vielen Versionen verlierst du Zeit oder kannst kurzzeitig nicht
         weiterklicken – also vorsichtig sein.
 
+<!-- i18n:faq:id=faq:find-the-difference:q-i-cant-find-the-93991e8a -->
 *   **F: Ich finde den letzten Unterschied nicht, was tun?**
     *   **A:** Lege kurz eine Pause ein, schau weg und komme mit frischem Blick
         zurück. Scanne das Bild diesmal in einer anderen Reihenfolge oder benutze –
         falls vorhanden – einen Hinweis.
+

@@ -16,12 +16,14 @@ score: 4.1/5  (539 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Überblick
 
 Fuzzies ist ein Match-3-Bubble-Shooter mit niedlichen, flauschigen Kugeln.
 Du schießt Fuzzies nach oben, bildest Dreiergruppen gleicher Farbe und löst
 Kettenreaktionen aus, während die Decke langsam nach unten rutscht.
 
+<!-- i18n:section:how-to-play -->
 ### So spielst du
 
 - Ziele und schieße so, dass mindestens drei Fuzzies derselben Farbe
@@ -29,6 +31,7 @@ Kettenreaktionen aus, während die Decke langsam nach unten rutscht.
 - Nutze Banden-Schüsse an den Wänden, um schwer erreichbare Ecken zu treffen.
 - Setze Spezialblasen und Booster ein, um große Bereiche auf einmal zu räumen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Maus/Touch zum Zielen und Schießen; je nach Version kannst du die nächste
@@ -42,16 +45,20 @@ Kettenreaktionen aus, während die Decke langsam nach unten rutscht.
 - Heb Bomben oder Regenbogenbälle für Rettungsschüsse auf, wenn dir die
   Optionen ausgehen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:fuzzies:how-do-i-clear-unreachable-ad57de93 -->
 - **F: Wie räume ich scheinbar unerreichbare Gruppen ab?**  
   **A:** Nutze Banden-Schüsse oder trenne sie von ihren Ankerblasen, indem du
   die tragenden Fuzzies darüber entfernst.
 
+<!-- i18n:faq:id=faq:fuzzies:can-i-change-the-next-767533c3 -->
 - **F: Kann ich die nächste Farbe wechseln?**  
   **A:** Viele Versionen erlauben das Tauschen der wartenden Blase – ein Blick
   auf den UI-Hinweis lohnt sich.
 
+<!-- i18n:faq:id=faq:fuzzies:what-ends-the-level-616d217e -->
 - **F: Wann ist ein Level verloren?**  
   **A:** Entweder wenn die Wand den unteren Bildschirmrand berührt oder wenn dir
   die Schüsse ausgehen – je nach Spielmodus.
