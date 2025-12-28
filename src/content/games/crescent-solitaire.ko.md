@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### 개요
 
 Crescent Solitaire는 두 벌의 카드를 사용하는 인내심(solitaire) 게임으로, 16개의
@@ -33,6 +34,7 @@ K 다음에 A처럼 래핑도 허용됩니다. 빈 자리는 새 카드로 채�
 기초 더미 사이에서도 카드를 옮길 수 있지만, 맨 아래에 놓인 기본 A와 K는 옮길 수
 없습니다.
 
+<!-- i18n:section:how-to-play -->
 ### 플레이 방법
 
 - 테이블로 더미 맨 위 카드 중 규칙에 맞는 카드를 기초 더미로 옮겨 기초 패를
@@ -44,6 +46,7 @@ K 다음에 A처럼 래핑도 허용됩니다. 빈 자리는 새 카드로 채�
 - 더 이상 유효한 이동이 없다고 느껴질 때 `Redeal` 버튼을 눌러 각 테이블로 더미의
   맨 아래 카드를 맨 위로 돌립니다. 보통 한 게임에서 최대 세 번까지 사용 가능합니다.  
 
+<!-- i18n:section:controls -->
 ### 조작법
 
 - 마우스/터치로 카드를 선택하거나 드래그해 옮깁니다.  
@@ -63,17 +66,22 @@ K 다음에 A처럼 래핑도 허용됩니다. 빈 자리는 새 카드로 채�
 - Redeal 후에는 모든 더미를 다시 천천히 훑어보세요. 이전에는 닿지 않던 중요한 카드가
   새로 맨 위로 올라와 있는 경우가 많습니다.  
 
+<!-- i18n:section:faq -->
 ### 자주 묻는 질문(FAQ)
 
+<!-- i18n:faq:id=faq:crescent-solitaire:how-many-redeals-are-allowed-1aabe151 -->
 - **Q: 재분배(Redeal)는 몇 번까지 할 수 있나요?**  
   **A:** 일반적인 Crescent 규칙에서는 세 번까지 재분배가 허용됩니다. (초기 배치를 포함하면
   총 네 번의 배치)  
 
+<!-- i18n:faq:id=faq:crescent-solitaire:can-empty-spaces-be-filled-58017c44 -->
 - **Q: 빈 자리에 카드를 채울 수 있나요?**  
   **A:** 아니요. Crescent Solitaire에서는 테이블로에 생긴 빈 공간을 다른 카드로 채우지
   않습니다.  
 
+<!-- i18n:faq:id=faq:crescent-solitaire:what-is-foundation-transfer-c079b0e6 -->
 - **Q: “기초 더미 간 이동(Foundation Transfer 표기)”이란 무엇인가요?**  
   **A:** 같은 무늬의 A 더미와 K 더미에 놓인 카드들이 연속된 숫자 관계를 이룰 때,
   (기본 A/K를 제외한) 위쪽 카드를 한쪽 기초 더미에서 다른 쪽 기초 더미로 옮겨 계속해서
   쌓을 수 있는 규칙을 말합니다. 막힌 기초 더미를 풀어 주는 중요한 테크닉입니다.  
+

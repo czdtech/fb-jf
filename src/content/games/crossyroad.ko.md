@@ -10,9 +10,11 @@ thumbnail: /new-images/thumbnails/crossyroad.jpg
 tags:
   - crossy road
 score: 4.8/5  (1104 votes)
+releaseDate: 2025-12-04
 ---
 
 
+<!-- i18n:section:introduction -->
 Crossy Road는 Hipster Whale이 개발·퍼블리싱한 끝없는 아케이드 점프 게임으로,  
 모바일과 여러 플랫폼에서 큰 인기를 끌고 있는 작품입니다. 목표는 단순합니다.
 차량으로 붐비는 도로, 강, 철길을 가능한 한 멀리까지 **죽지 않고** 건너는 것입니다.  
@@ -20,6 +22,7 @@ Crossy Road는 Hipster Whale이 개발·퍼블리싱한 끝없는 아케이드 �
 전 세계적으로 사랑받고 있으며, 제목과 콘셉트는 “왜 닭이 길을 건넜을까?”라는
 클래식 농담에서 따 왔습니다.
 
+<!-- i18n:section:how-to-play -->
 ### Crossy Road 플레이 방법
 
 - **이동**:  
@@ -64,6 +67,7 @@ Crossy Road는 Hipster Whale이 개발·퍼블리싱한 끝없는 아케이드 �
 
 ---
 
+<!-- i18n:section:faq -->
 ### 자주 묻는 질문(FAQ)
 
 **Q: 새로운 캐릭터는 어떻게 언락하나요?**  
@@ -80,3 +84,4 @@ Crossy Road는 Hipster Whale이 개발·퍼블리싱한 끝없는 아케이드 �
 **A:** 한 자리에 너무 오래 머물거나, 뒤로만 계속 움직이면 독수리가 등장해
 게임을 강제 종료시킵니다. 게임 설계상 플레이어가 계속 앞으로 전진하도록 만드는
 장치라고 보면 됩니다.  
+
