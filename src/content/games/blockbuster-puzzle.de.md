@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 In Blockbuster Puzzle platzierst du nach und nach ankommende Formen, um
@@ -24,6 +25,7 @@ Du möchtest mehrere "Spuren" offenhalten, Züge vorbereiten, die große Bereich
 auf einmal leeren, und dir immer einen Fluchtpuffer aufheben, falls eine
 ungünstige Teilekombination erscheint.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Zwei Bahnen frei halten:** Versuche, immer mindestens zwei flexible
@@ -39,6 +41,7 @@ ungünstige Teilekombination erscheint.
     nutze die Chance, aggressive Mehrfach‑Clears vorzubereiten, statt nur
     defensiv zu füllen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Teile setzen:** Ziehe die Blöcke per Drag‑and‑Drop an ihre Position; je
@@ -46,17 +49,21 @@ ungünstige Teilekombination erscheint.
 - **Rückgängig/Neustart:** Nutze Undo bzw. Reset, wenn ein riskanter Zug das
   Brett unspielbar macht.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:blockbuster-puzzle:why-do-i-keep-losing-4221c529 -->
 - **F: Warum verliere ich trotz guter Starts oft im späteren Verlauf?**  
   **A:** Häufig konzentrierst du dich zu stark auf eine Seite und verlierst
   Flexibilität. Versuche, das Feld gleichmäßiger zu nutzen und immer eine
   Ausweichfläche frei zu halten.
 
+<!-- i18n:faq:id=faq:blockbuster-puzzle:is-rotation-required-to-win-7544547c -->
 - **F: Ist Rotation zwingend nötig?**  
   **A:** Nein, sie erleichtert nur manches. Wenn Rotation eingeschränkt ist,
   setze auf symmetrische Strukturen und breite, offene Bahnen.
 
+<!-- i18n:faq:id=faq:blockbuster-puzzle:should-i-place-big-shapes-9ac1a059 -->
 - **F: Sollte ich große Teile zuerst oder zuletzt spielen?**  
   **A:** Wird das Feld eng, setze zuerst das schwierigste Teil. Wenn du viel
   Platz hast, nutze große Teile, um gezielt Mehrfach‑Clears vorzubereiten.

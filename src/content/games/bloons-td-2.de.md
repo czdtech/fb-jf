@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 Bloons TD 2 ist der zweite Teil der klassischen Bloons‑Tower‑Defense. Du platzierst Affentürme entlang des Pfads und verhinderst so, dass 50 Bloon‑Wellen das Ziel erreichen. Neu gegenüber dem Erstling: Jede Einheit verfügt über **Upgrades**, mit denen du Reichweite, Angriffstempo oder Spezialeffekte verbesserst.
@@ -37,6 +38,7 @@ Das Spiel läuft über 50 immer schwierigere Runden. Jeder zerplatzte Bloon brin
     -   **Zebra‑Bloons:** kombinieren beide Immunitäten und teilen sich beim Platzen in einen schwarzen und einen weißen Bloon.  
     -   **Rainbow‑Bloons:** sehr widerstandsfähig und spawnen zwei Zebra‑Bloons.  
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 -   **Ausgewogene Verteidigung:** Verlasse dich nie nur auf Bomben oder Eis – schwarze und weiße Bloons erfordern immer scharfen Schaden durch Dart Monkeys, Tack Shooter oder Super Monkeys.  
@@ -49,6 +51,7 @@ Das Spiel läuft über 50 immer schwierigere Runden. Jeder zerplatzte Bloon brin
 -   **Schwarze & weiße Bloons kontern:** Upgrade deine scharfen Angriffe, denn Bomben und Eis fallen jeweils gegen eine der beiden Farben aus.  
 -   **Auf den Super Monkey sparen:** Im späten Spiel räumt ein Super Monkey auf einer langen Sichtlinie komplette Rainbow‑Wellen in Runde 46–50 ab.  
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Die Steuerung ist klassisches Point‑and‑Click:
@@ -58,19 +61,26 @@ Die Steuerung ist klassisches Point‑and‑Click:
 -   **Turm upgraden:** Klicke auf einen bestehenden Turm, wähle das Upgrade und bezahle es.  
 -   **Hotkeys:** Die Zahlentasten 1–5 wählen die jeweiligen Türme direkt aus.  
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:bloons-td-2:why-isnt-my-bomb-tower-b290ce7b -->
 **1. Warum platzen meine Bomben keine schwarzen Bloons?**  
 > Schwarze Bloons sind explosionsimmun. Du brauchst Darts, Tacks oder Super Monkeys, um sie zuerst aufzubrechen.
 
+<!-- i18n:faq:id=faq:bloons-td-2:why-are-the-white-balloons-e75769ed -->
 **2. Wieso laufen weiße Bloons einfach durch meinen Ice Tower?**  
 > Weiße Bloons sind gegen Einfrieren immun. Nutze Ice Towers nur zur Kontrolle anderer Farben.
 
+<!-- i18n:faq:id=faq:bloons-td-2:what-is-the-best-tower-548c67b5 -->
 **3. Welcher Turm ist der beste?**  
 > Es gibt keinen Alleskönner: Der Super Monkey liefert die höchste DPS, aber ohne Bomb Towers für Leads und ohne ausgewogenes Setup scheiterst du.
 
+<!-- i18n:faq:id=faq:bloons-td-2:how-many-rounds-are-there-bc36dc0a -->
 **4. Wie viele Runden gibt es?**  
 > Bloons TD 2 umfasst 50 Runden, die letzten davon bestehen aus extrem dichten Rainbow‑Wellen.
 
+<!-- i18n:faq:id=faq:bloons-td-2:how-do-i-make-extra-07b6fc14 -->
 **5. Wie verdiene ich mehr Geld?**  
 > Geld erhältst du ausschließlich durch geplatzte Bloons – Banana Farms oder andere Einkommensquellen gibt es noch nicht.
+

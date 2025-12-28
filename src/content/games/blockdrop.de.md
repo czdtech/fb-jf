@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 BlockDrop ist ein zeitloses 10×10‑Puzzlespiel, das dein strategisches Denken
@@ -26,6 +27,7 @@ Spalten zu bilden. Jede komplette Linie verschwindet, bringt Punkte und schafft
 neuen Platz. Es gibt keinen Timer – du verlierst erst, wenn keiner der aktuell
 angebotenen Blöcke mehr auf das Brett passt.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Alle drei Blöcke einplanen:** Du siehst immer drei Formen gleichzeitig.
@@ -40,17 +42,23 @@ angebotenen Blöcke mehr auf das Brett passt.
 4.  **Keine Rotation:** Die Teile lassen sich nicht drehen. Lerne, ihre feste
     Form zu erkennen und typischen Muster zu bauen, in die sie gut hineinpassen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Das Spiel nutzt ein simples Drag‑and‑Drop‑Schema.
 
 -   **Blöcke platzieren:** Ziehe eine Form mit Maus oder Finger aus dem Auswahlbereich nach oben auf das 10×10‑Raster und lasse sie los.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:blockdrop:q-can-i-rotate-the-93ca2109 -->
 -   **F: Kann ich Formen drehen?**
     -   **A:** Nein, Rotation ist nicht vorgesehen – das macht den Reiz der Platzierung aus.
+<!-- i18n:faq:id=faq:blockdrop:q-how-does-the-game-f20a1993 -->
 -   **F: Wann ist das Spiel vorbei?**
     -   **A:** Sobald keiner der drei aktuellen Blöcke mehr irgendwo auf das Brett passt, endet die Runde.
+<!-- i18n:faq:id=faq:blockdrop:q-whats-the-best-way-04ea0c4b -->
 -   **F: Wie erreiche ich hohe Punktzahlen?**
     -   **A:** Spiele möglichst lange, halte das Brett sauber und bereite Kombozüge vor, bei denen du mehrere Linien mit einem Block leeren kannst.
+

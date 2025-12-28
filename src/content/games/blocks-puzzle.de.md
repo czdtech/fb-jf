@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 Blocks Puzzle ist ein schlichtes, aber anspruchsvolles 10×10‑Puzzlespiel.
@@ -26,6 +27,7 @@ geleert, bringt Punkte und schafft neuen Platz. Die Partie endet, sobald keiner
  der drei aktuellen Blöcke mehr auf das Feld passt – also lautet die Devise:
 Platz sparen und vorausschauend denken.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Züge vorausplanen:** Schau dir immer alle drei verfügbaren Blöcke an.
@@ -44,6 +46,7 @@ Platz sparen und vorausschauend denken.
     viel Raum. Nutze sie möglichst früh oder halte bewusst eine passende Lücke
     frei.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Drag & Drop:** Klicke/tippe einen Block unten an und ziehe ihn auf das
@@ -53,11 +56,16 @@ Platz sparen und vorausschauend denken.
 - **Keine Rotation:** Blöcke können nicht gedreht werden und müssen in ihrer
   Standardausrichtung verwendet werden.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:blocks-puzzle:q-can-i-rotate-the-8b38e9ae -->
 -   **F: Kann ich die Blöcke drehen?**
     -   **A:** Nein. Du arbeitest mit festen Formen, was die Planung anspruchsvoller macht.
+<!-- i18n:faq:id=faq:blocks-puzzle:q-how-do-i-get-698432e6 -->
 -   **F: Wie bekomme ich mehr Punkte?**
     -   **A:** Setze auf Kombos – mehrere Linien mit einem Block zu räumen bringt große Punkteschübe.
+<!-- i18n:faq:id=faq:blocks-puzzle:q-what-happens-when-i-e8e69d77 -->
 -   **F: Was passiert, wenn keine Züge mehr möglich sind?**
     -   **A:** Sobald keiner der drei Blöcke mehr passt, endet die Partie und dein Endscore wird gewertet.
+

@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 Battleships Armada orientiert sich eng am Brettspielklassiker Battleship.
@@ -25,6 +26,7 @@ anschließend abwechselnd Koordinaten‑Schüsse, um die Schiffe des Gegners
 aufzuspüren und zu versenken. Wer zuerst alle gegnerischen Schiffe zerstört,
 gewinnt.
 
+<!-- i18n:section:tips -->
 ### Strategie & Walkthrough
 
 1.  **Schiffe klug platzieren:** Vermeide es, die gesamte Flotte am Rand zu
@@ -41,6 +43,7 @@ gewinnt.
     dich der Länge nach vor, bis alle Felder getroffen sind und das Schiff als
     "versenkt" gilt. Erst danach gehst du zurück in dein globales Suchmuster.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Schiffe platzieren:** Ziehe deine Schiffe in der Setupphase auf das eigene
@@ -49,13 +52,18 @@ gewinnt.
   Raster, um dort zu feuern. Das Spiel markiert automatisch Treffer oder
   Fehlschüsse.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:battleships-armada:q-how-do-i-know-593c9265 -->
 *   **F: Woher weiß ich, wo die gegnerischen Schiffe sind?**
     *   **A:** Du weißt es nicht – du musst aus Treffern und Fehlschüssen ableiten, wo Schiffe liegen können und wo nicht.
 
+<!-- i18n:faq:id=faq:battleships-armada:q-what-happens-after-i-73af1860 -->
 *   **F: Was soll ich nach meinem ersten Treffer tun?**
     *   **A:** Beschieße die Nachbarfelder des Treffers, bis du die Ausrichtung kennst, und arbeite das Schiff dann Feld für Feld ab.
 
+<!-- i18n:faq:id=faq:battleships-armada:q-how-do-i-win-82c5f7c2 -->
 *   **F: Wie gewinne ich eine Partie?**
     *   **A:** Indem du alle Schiffe deines Gegners versenkst, bevor er deine Flotte vollständig zerstört.
+

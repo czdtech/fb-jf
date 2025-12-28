@@ -15,6 +15,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 Bolly Beat ist ein leicht zugängliches Tap‑Rhythmusspiel mit
@@ -23,6 +24,7 @@ musst im richtigen Moment tippen, um den Beat zu treffen und deine Combo zu
 halten. Gute Genauigkeit bringt höhere Scores und Sterne, lange Serien schalten
 Multiplikatoren und anspruchsvollere Muster frei.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Timing‑Fenster lernen:** Konzentriere dich darauf, so nah wie möglich auf
@@ -38,6 +40,7 @@ Multiplikatoren und anspruchsvollere Muster frei.
 5.  **Ruhig neu aufbauen:** Wenn du eine Combo verlierst, fokussiere dich erst
     wieder auf sauberes Timing, statt krampfhaft Max‑Stars zu jagen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Tippen/Klicken:** Tippe oder klicke, wenn Noten die Trefferzone erreichen;
@@ -45,16 +48,20 @@ Multiplikatoren und anspruchsvollere Muster frei.
 - **Pause/Neustart:** Über die UI kannst du Songs pausieren oder neu starten.
 - **Lautstärke:** Passe Musik/SFX so an, dass du den Beat gut hörst.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:bolly-beat:do-i-need-headphones-15fb1a29 -->
 - **F: Brauche ich Kopfhörer?**  
   **A:** Sehr empfehlenswert – klarer Sound erleichtert das Timing und stabilere
   Kombos.
 
+<!-- i18n:faq:id=faq:bolly-beat:why-do-i-miss-on-cdfa8f0e -->
 - **F: Warum treffe ich dichte Passagen so schlecht?**  
   **A:** Reduziere ggf. die Notengeschwindigkeit und konzentriere dich auf den
   Grundschlag; übe problematische Stellen mehrfach.
 
+<!-- i18n:faq:id=faq:bolly-beat:how-to-increase-score-978e8dec -->
 - **F: Wie steigere ich meine Punktzahl?**  
   **A:** Halte lange Kombos, vermeide "Miss"‑Treffer und ziele auf möglichst
   viele "Perfects", um den Multiplikator hochzutreiben.

@@ -15,6 +15,7 @@ score: 4.0/5  (372 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 *Big Shark* ist ein schnelles 2D‑Unterwasser‑Survival‑Spiel mit einem simplen
@@ -28,6 +29,7 @@ mittelgroße Fische, andere Haie und irgendwann sogar Schwimmer verspeisen.
 Gleichzeitig lauern überall Gefahren: größere Haie, Minen und andere
 Hindernisse beenden deinen Lauf sofort.
 
+<!-- i18n:section:tips -->
 ### Strategie
 
 Erfolg in *Big Shark* ist ein Balanceakt zwischen Aggression und Vorsicht.
@@ -55,6 +57,7 @@ Erfolg in *Big Shark* ist ein Balanceakt zwischen Aggression und Vorsicht.
     fressen. Oft gibt es Komboboni, die deine Punktzahl und dein Wachstum
     deutlich beschleunigen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Die Bedienung ist bewusst simpel gehalten und funktioniert fast überall gleich.
@@ -62,24 +65,31 @@ Die Bedienung ist bewusst simpel gehalten und funktioniert fast überall gleich.
 *   **Bewegung:** Der Hai folgt in den meisten Browserversionen automatisch der Position deines Mauszeigers (oder deines Fingers auf Mobilgeräten).
 *   **Boost/Dash:** Per Linksklick, Tipp oder Wisch aktivierst du einen kurzen Geschwindigkeitsschub (oft mit Cooldown oder Punktkosten verbunden).
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:big-shark:how-do-i-grow-bigger-5bd12f8d -->
 **F: Wie werde ich größer?**
 
 **A:** Indem du Beute frisst. Je mehr du isst, desto stärker wächst dein Hai und desto größere Ziele kannst du attackieren.
 
+<!-- i18n:faq:id=faq:big-shark:why-did-my-game-end-463e6f7a -->
 **F: Warum ist mein Run plötzlich zu Ende?**
 
 **A:** Meist bist du in einen größeren Hai oder eine Mine geschwommen – beide führen sofort zum Game Over.
 
+<!-- i18n:faq:id=faq:big-shark:is-there-an-end-to-16613676 -->
 **F: Gibt es ein echtes Spielende?**
 
 **A:** Nein, Big Shark ist ein Endlosspiel. Ziel ist es, so lange wie möglich zu überleben und dabei deinen Highscore zu steigern.
 
+<!-- i18n:faq:id=faq:big-shark:what-is-the-best-way-52f8b54e -->
 **F: Wie erreiche ich besonders hohe Punktzahlen?**
 
 **A:** Überlebe lange genug, um sehr groß zu werden. Als Riesenhai kannst du fast alles fressen und Punkte extrem schnell sammeln – aber nur, wenn du trotzdem aufmerksam bleibst.
 
+<!-- i18n:faq:id=faq:big-shark:can-i-eat-the-swimmers-b3b03c55 -->
 **F: Kann ich Schwimmer fressen?**
 
 **A:** Ja, sobald du groß genug bist. Sie zählen meist als besonders wertvolle Beute mit vielen Punkten.
+

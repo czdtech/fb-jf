@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 Bob the Robber ist eine 2D‑Reihe aus Stealth‑ und Puzzle‑Plattformspieln. Du
@@ -32,6 +33,7 @@ Türen und mehr. Du beobachtest Muster, wartest auf Lücken und nutzt Schatten,
 um unsichtbar zu bleiben. Nebenbei löst du kleine Rätsel, findest Codes und
 knackst Schlösser – immer mit dem Ziel, keinen Alarm auszulösen.
 
+<!-- i18n:section:tips -->
 ### Strategie
 
 - **Geduld vor Hektik:** Renn nicht blind los. Die meisten Fehler passieren,
@@ -66,39 +68,46 @@ knackst Schlösser – immer mit dem Ziel, keinen Alarm auszulösen.
   Schränken oder hinter Bildern zusätzliche Geldbündel. Sie sind optional,
   verbessern aber deine Wertung.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Die Steuerung ist simpel und bleibt in fast allen Teilen identisch.
 
 - **W/A/S/D oder Pfeiltasten:** Bob nach links/rechts bewegen, Treppen und
   Leitern hoch‑/runtersteigen.
-- **`W` bzw. Pfeil nach oben:** Mit Objekten interagieren.  
+- **W bzw. Pfeil nach oben:** Mit Objekten interagieren.  
     - Türen öffnen.  
     - Schlösser knacken.  
     - Schränke oder Safes durchsuchen.  
     - Codes eingeben.  
     - Leitern und Treppen benutzen.
-- **`Leertaste`:** Schlag von hinten, um Wachen bewusstlos zu schlagen.
-- **`Z`/`X`/`C` (spätere Teile):** Spezielle Gadgets einsetzen.
+- **Leertaste:** Schlag von hinten, um Wachen bewusstlos zu schlagen.
+- **Z/X/C (spätere Teile):** Spezielle Gadgets einsetzen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:bob-the-robber:a-guard-saw-me-even-193e00f0 -->
 - **F: Eine Wache hat mich im Schatten gesehen – warum?**  
   **A:** Läuft eine Wache direkt in dich hinein, wirst du auch im Schatten
   entdeckt. Schatten schützen nur vor Blickrichtung, nicht vor Körperkontakt.
 
+<!-- i18n:faq:id=faq:bob-the-robber:how-do-i-get-past-ebedded9 -->
 - **F: Wie komme ich durch Laser‑Barrieren?**  
   **A:** Meist gibt es irgendwo im Level einen Schalter oder ein Panel, mit dem
   du die Laser deaktivieren kannst – manchmal verbunden mit einem kleinen
   Minispiel.
 
+<!-- i18n:faq:id=faq:bob-the-robber:i-knocked-out-a-guard-e2235057 -->
 - **F: Ich habe eine Wache ausgeschaltet und wurde später trotzdem erwischt –
   wieso?**  
   **A:** Eine andere Wache hat den Körper entdeckt. Schalte nur dort aus, wo
   niemand zufällig vorbeikommt, oder plane den Rückweg so, dass niemand die
   Stelle erneut patrouilliert.
 
+<!-- i18n:faq:id=faq:bob-the-robber:is-it-better-to-knock-522a4adb -->
 - **F: Ist es besser, Wachen auszuschalten oder vorbeizuschleichen?**  
   **A:** Schleichen ist fast immer sicherer. Ausschalten sollte die Ausnahme
   bleiben, wenn sich sonst kein Fenster öffnet und du sicherstellen kannst,
   dass der Körper unentdeckt bleibt.
+

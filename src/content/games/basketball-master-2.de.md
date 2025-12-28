@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 Basketball Master 2 ist ein Geschicklichkeits‑Basketballspiel, das sich ganz
@@ -25,6 +26,7 @@ Kraft deines Schusses und versuchst, den Ball trotz Hindernissen im Korb zu
 versenken. Je nach Level musst du über oder durch Holz‑ und Eisblöcke
 hindurchwerfen, Banden nutzen oder enge Winkel treffen.
 
+<!-- i18n:section:tips -->
 ### Strategie & Walkthrough
 
 1.  **Zielen und Gefühl entwickeln:** Ziehe Linie und Kraft immer ähnlich auf,
@@ -43,15 +45,20 @@ hindurchwerfen, Banden nutzen oder enge Winkel treffen.
     besser du das physikalische Verhalten verinnerlichst, desto einfacher werden
     spätere Stages.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Maus/Touch:** Tippe oder klicke auf den Ball, ziehe in die Gegenrichtung
   deines gewünschten Schusses, justiere den Bogen und lasse los, um zu werfen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:basketball-master-2:q-how-do-i-get-62133937 -->
 *   **F: Wie bekomme ich mehr Punkte?**
     *   **A:** Saubere Treffer in Folge, besonders ohne den Ring zu berühren, bringen oft Bonuspunkte. Das Zerstören von Hindernissen kann in manchen Leveln zusätzliche Punkte geben.
 
+<!-- i18n:faq:id=faq:basketball-master-2:q-what-is-the-best-c93a41c7 -->
 *   **F: Was ist die beste Wurftechnik?**
     *   **A:** Das hängt vom Level ab. Hohe Bögen eignen sich, um über Blöcke zu kommen, kräftige, flachere Schüsse sind besser, um Holz oder Eis gezielt zu zerschlagen.
+

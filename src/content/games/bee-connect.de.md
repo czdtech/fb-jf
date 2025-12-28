@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 *Bee Connect* ist ein strategisches Zahlenspiel auf einem hexagonalen
@@ -29,6 +30,7 @@ benachbarte Felder mit derselben Zahl** zu einer Gruppe verbinden, damit sie zu
 Merge‑Gruppe zu bilden, erscheinen neue Zahlen aus der Warteschlange oben im
 Bild und füllen freie Zellen – das Brett läuft langsam voll.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Zug immer mit Merge planen:** Jeder Zug ohne Fusion kostet dich Platz.
@@ -51,22 +53,29 @@ Bild und füllen freie Zellen – das Brett läuft langsam voll.
     existiert, nutze es sparsam – am besten dann, wenn du sonst keine sinnvollen
     Züge mehr hast oder eine bestimmte Blockade unbedingt lösen musst.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Das Spiel setzt auf einfache Drag-and-drop- oder Klicksteuerung.
 
 *   **Stein bewegen:** Klicke/tippe auf eine Zahl und ziehe sie auf eine benachbarte, leere Wabe. Manche Versionen bieten Auswahl → Zielklick statt Drag.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:bee-connect:why-did-new-numbers-suddenly-4d28e900 -->
 **1. Warum erscheinen plötzlich neue Zahlen?**  
 Immer wenn ein Zug keine Gruppe aus mindestens vier gleichen Zahlen erzeugt, füllt das Spiel freie Felder mit neuen Steinen aus der Warteschlange auf.
 
+<!-- i18n:faq:id=faq:bee-connect:why-cant-i-move-a-b10849df -->
 **2. Warum kann ich manchen Stein nicht bewegen?**  
 Das Feld ist komplett umschlossen. Ein Stein lässt sich nur bewegen, wenn mindestens eine angrenzende Wabe frei ist.
 
+<!-- i18n:faq:id=faq:bee-connect:how-many-tiles-do-i-fcf90e01 -->
 **3. Wie viele gleiche Zahlen brauche ich für eine Fusion?**  
 Mindestens vier direkt benachbarte Felder mit demselben Wert. Drei Steine allein reichen nicht.
 
+<!-- i18n:faq:id=faq:bee-connect:what-is-the-goal-of-c816fee5 -->
 **4. Was ist das eigentliche Ziel?**  
 So lange wie möglich zu überleben, den Highscore zu steigern und immer größere Zahlenwerte zu bauen, bevor die Wabe voll ist.
+

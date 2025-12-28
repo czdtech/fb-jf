@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 *Bloons TD 3* führt die Reihe auf ein neues Level: Du platzierst weiterhin Affentürme, um Bloons entlang einer Strecke aufzuhalten, bekommst aber deutlich mehr Inhalte – darunter der **Boomerang Thrower**, das **Spike‑o‑pult**, der Support‑Turm **Monkey Beacon** und erstmals der große Boss‑Blimp **MOAB**.
@@ -29,6 +30,7 @@ Der Titel bietet mehrere Strecken und drei Schwierigkeitsgrade (Easy, Medium, Ha
 -   **Vollständige Upgrade‑Sets:** Jede Einheit kann alle verfügbaren Upgrades stapeln und so zum Late‑Game‑Monster werden.
 -   **Beständige Immunitäten:** Lead‑ (scharf‑immun), Black‑ (explosions‑immun) und White‑Bloons (frost‑immun) bleiben zentrale Puzzle‑Elemente der Strategie.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 -   **Ausgewogener Start:** Beginne mit Dart Monkeys und Tack Shooters, hole dir schnell das Upgrade „Piercing Darts“ und setzte einen Boomerang Thrower in Kurven, damit seine Wurfbögen viele Bloons treffen.
@@ -41,6 +43,7 @@ Der Titel bietet mehrere Strecken und drei Schwierigkeitsgrade (Easy, Medium, Ha
     -   genug Flächenschaden, um die Ceramic Bloons nach dem Platzen aufzuräumen.
 -   **Spike‑o‑pults auf Geraden:** Stelle sie am Anfang langer Geraden auf – ihre Stachelbälle rollen weit und durchbohren viele Bloons hintereinander.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Das Spiel nutzt eine einfache Point‑and‑Click‑Steuerung.
@@ -50,21 +53,28 @@ Das Spiel nutzt eine einfache Point‑and‑Click‑Steuerung.
 -   **Runde starten / vorspulen:** Buttons unten rechts starten die nächste Welle oder beschleunigen das Spiel.
 -   **Hotkeys:** Zahlentasten 1–8 wählen Türme direkt, die Leertaste startet die nächste Runde.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:bloons-td-3:i-cant-pop-the-grey-99d90772 -->
 **1. Ich bekomme die grauen (Lead) Bloons nicht kaputt – warum?**  
 > Lead‑Bloons sind immun gegen scharfe Projektile wie Darts, Tacks oder Boomerangs. Du brauchst Bomb Towers oder andere explosive Effekte.
 
+<!-- i18n:faq:id=faq:bloons-td-3:what-is-the-big-blue-a2bae815 -->
 **2. Was ist der große blaue Blimp am Ende?**  
 > Das ist der **M.O.A.B.**. Er bewegt sich langsam, steckt aber enorm viel Schaden weg und platzt erst nach konzentriertem Feuer.
 
+<!-- i18n:faq:id=faq:bloons-td-3:why-should-i-use-the-23ed004c -->
 **3. Warum soll ich Monkey Beacons bauen, wenn sie nicht angreifen?**  
 > Der Beacon ist ein Support‑Turm, der Reichweite (und je nach Upgrade weitere Buffs) für alle Türme in seinem Radius liefert. Ein Super Monkey daneben erreicht fast die ganze Map.
 
+<!-- i18n:faq:id=faq:bloons-td-3:how-many-rounds-are-there-64671d2f -->
 **4. Wie viele Runden gibt es?**  
 > -   **Easy:** 50 Runden.  
 > -   **Medium:** 50 Runden.  
 > -   **Hard:** 75 Runden – deutlich fordernder zum Schluss.
 
+<!-- i18n:faq:id=faq:bloons-td-3:whats-the-difference-between-b-86ceeb66 -->
 **5. Was unterscheidet schwarze und weiße Bloons?**  
 > Schwarze Bloons sind immun gegen Explosionen, weiße lassen sich nicht einfrieren. Setze Dart Monkeys, Boomerangs oder andere neutrale Schadensquellen ein, um sie zu besiegen.
+

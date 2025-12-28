@@ -12,6 +12,7 @@ score: 4.4/5  (986 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Einführung
 
 *Battleship* ist ein zeitloses Ratespiel für zwei Kommandanten. Jeder Spieler besitzt zwei Raster: eines zum geheimen Platzieren der eigenen Schiffe und eines, um seine Schüsse auf die gegnerische Flotte zu protokollieren. Wer zuerst alle gegnerischen Schiffe zerstört, gewinnt.
@@ -44,6 +45,7 @@ Erfolg verlangt clevere Platzierung und systematisches Ableiten.
 3.  **Konsequent versenken:** Zwei Treffer in einer Linie zeigen die Richtung – arbeite sie ab, bis das Schiff vollständig zerstört ist.
 4.  **Logisch kombinieren:** Behalte versenkte Schiffstypen im Blick. Bleibt nur noch ein Großschiff übrig, kannst du vereinzelte Treffer schnell zuordnen.
 
+<!-- i18n:section:controls -->
 ### Steuerungsleitfaden
 
 Digitale Versionen lassen sich komplett mit Maus oder Touch bedienen.
@@ -56,16 +58,22 @@ Digitale Versionen lassen sich komplett mit Maus oder Touch bedienen.
     *   **Schuss abgeben:** Klicke ein Feld auf dem gegnerischen Raster an, um eine Salve zu feuern.
     *   **Feedback lesen:** Das Spiel markiert Treffer meist rot und Fehlschüsse weiß, sodass du dein Muster bequem weiterführen kannst.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:battleship:what-are-the-standard-ships-4cc4ec34 -->
 **1. Welche Schiffe gehören zur Standardflotte?**  
 Flugzeugträger (5), Schlachtschiff (4), Kreuzer (3), U-Boot (3) und Zerstörer (2 Felder).
 
+<!-- i18n:faq:id=faq:battleship:can-i-place-ships-diagonally-ae341265 -->
 **2. Darf ich Schiffe diagonal platzieren?**  
 Nein, regulär sind nur horizontale oder vertikale Ausrichtungen erlaubt.
 
+<!-- i18n:faq:id=faq:battleship:is-it-better-to-place-8b4ddd62 -->
 **3. Ist es besser, Schiffe aneinander zu legen oder zu trennen?**  
 Trenne sie. Wenn jedes Schiff isoliert steht, muss der Gegner nach jedem Abschuss erneut mit dem Suchmuster beginnen.
 
+<!-- i18n:faq:id=faq:battleship:is-the-game-just-pure-88a4cfc8 -->
 **4. Ist Battleship reines Glück?**  
 Die ersten Schüsse enthalten Zufall, aber strukturierte Suchmuster und logisches Kombinieren geben dir langfristig einen klaren Vorteil gegenüber blindem Raten.
+

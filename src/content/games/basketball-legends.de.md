@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 *Basketball Legends* ist ein schnelles 2D‑Arcade‑Basketballspiel mit
@@ -29,6 +30,7 @@ Ein zentrales Element ist der **Super‑Shot**: Füllst du deine Energieleiste,
 steht dir ein unblockbarer Spezialwurf zur Verfügung, der dir in engen Spielen
 leicht die Führung bringen kann.
 
+<!-- i18n:section:tips -->
 ### Strategie
 
 Erfolg in *Basketball Legends* hängt vor allem von Bewegung, Timing und
@@ -80,19 +82,26 @@ Das Spiel ist auf zwei Spieler an einem Keyboard ausgelegt.
 *   Sprung: Pfeil nach oben
 *   Super‑Shot: `K`
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:basketball-legends:how-do-i-perform-a-7374b543 -->
 **1. Wie führe ich einen Super‑Shot aus?**  
 Fülle die blaue Energieleiste durch Würfe, Blocks und Steals und drücke dann `V` (Spieler 1) oder `K` (Spieler 2), um den Superschuss zu aktivieren.
 
+<!-- i18n:faq:id=faq:basketball-legends:what-is-the-best-way-fd358af9 -->
 **2. Wie gewinne ich Turniere am zuverlässigsten?**  
 Spiele diszipliniert in der Defense, nutze den Dash zum Zurücklaufen und spare deinen Super‑Shot für enge Situationen kurz vor Schluss.
 
+<!-- i18n:faq:id=faq:basketball-legends:why-cant-i-block-the-ef1c825d -->
 **3. Warum kann ich den Super‑Shot nicht blocken?**  
 Er ist bewusst unblockbar und belohnt aktives Spiel – konzentriere dich lieber darauf, danach sofort zu kontern.
 
+<!-- i18n:faq:id=faq:basketball-legends:whats-the-difference-between-t-6394c71e -->
 **4. Unterscheiden sich die Charaktere spielerisch?**  
 Nur geringfügig; die meisten Unterschiede sind kosmetisch. Du kannst also deinen Lieblingsspieler ohne Nachteile wählen.
 
+<!-- i18n:faq:id=faq:basketball-legends:can-i-pass-the-ball-eea2c74f -->
 **5. Kann ich im 2‑gegen‑2 passen?**  
 Ja. Wenn dein Mitspieler frei ist, fungiert die Wurf‑Taste (`B` oder `L`) als Pass, solange du selbst den Ball hältst.
+

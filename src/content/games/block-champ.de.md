@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 Block Champ ist ein strategisches Puzzlespiel auf einem 10×10‑Raster. Du
@@ -29,6 +30,7 @@ Besonders sind die Spezialblöcke:
 
 Um hohe Punktzahlen zu erzielen, brauchst du Vorausplanung und sehr sorgfältiges Flächenmanagement.
 
+<!-- i18n:section:tips -->
 ### Strategie
 
 -   **Optionen offen halten:** Vermeide Einzellöcher, die sich nur mit 1×1‑Blöcken schließen lassen, und halte das Raster so eben wie möglich.
@@ -38,6 +40,7 @@ Um hohe Punktzahlen zu erzielen, brauchst du Vorausplanung und sehr sorgfältige
 -   **Eis priorisieren:** Eiskacheln blockieren Platz und brauchen doppelte Arbeit. Plane sie früh ein und räume ihre Linien gezielt zweimal.
 -   **Immer alle drei Teile bedenken:** Schau jede Runde auf das komplette Trio und plane so, dass die nachfolgenden Formen ebenfalls Platz finden.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Block Champ nutzt eine sehr einfache Drag‑and‑Drop‑Steuerung, die mit Maus und Touch gleich gut funktioniert.
@@ -48,16 +51,22 @@ Block Champ nutzt eine sehr einfache Drag‑and‑Drop‑Steuerung, die mit Maus
 
 **Wichtig:** Formen können nicht rotiert werden und müssen in der vorgegebenen Ausrichtung gespielt werden.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:block-champ:can-i-rotate-the-blocks-5b286f35 -->
 **1. Kann ich die Blöcke drehen?**  
 > Nein. Rotationen sind absichtlich deaktiviert und gehören zur Kernschwierigkeit: Du musst die Formen so verwenden, wie sie geliefert werden.
 
+<!-- i18n:faq:id=faq:block-champ:what-do-the-lightning-bolts-d0045a3f -->
 **2. Was genau bewirken Blitzzellen?**  
 > Jede Blitzmarkierung sitzt auf einem bestimmten Feld eines Teils. Löschst du die Reihe oder Spalte mit diesem Feld, entfernt der Blitz zusätzlich die komplette orthogonale Linie und erzeugt so einen Kreuz‑Clear.
 
+<!-- i18n:faq:id=faq:block-champ:how-do-i-get-rid-35d6c38b -->
 **3. Wie entferne ich Eisblöcke?**  
 > Du musst dieselbe Linie zweimal räumen. Beim ersten Clear zerspringt nur das Eis, beim zweiten verschwindet der Block und der Platz wird frei.
 
+<!-- i18n:faq:id=faq:block-champ:why-did-the-game-end-c2ae1a32 -->
 **4. Warum ist das Spiel vorbei, obwohl noch viel Platz ist?**  
 > Die Partie endet, sobald keine der drei aktuellen Formen mehr ins Raster passt. Selbst mit sichtbaren Lücken ist Schluss, wenn ihre Formen nicht zu den freien Bereichen passen.
+

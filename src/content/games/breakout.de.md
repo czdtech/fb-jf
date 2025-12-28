@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 Breakout ist ein einflussreicher Arcade‑Klassiker mit schlichtem, aber
@@ -31,6 +32,7 @@ vorbei fallen, verlierst du ein Leben. Meist verfügst du nur über wenige Leben
 Je mehr Steine du abräumst, desto schneller wird der Ball und desto
 anspruchsvoller wird das Timing.
 
+<!-- i18n:section:tips -->
 ### Strategie
 
 - **Winkelkontrolle meistern:** Entscheidend ist, *wo* der Ball dein Paddle
@@ -52,12 +54,13 @@ anspruchsvoller wird das Timing.
   sein. Konzentriere dich auf dein Paddle und bereite gezielt einen Winkel vor,
   statt hektische Zufallsschläge zu machen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Breakout wird fast ausschließlich über horizontale Paddle‑Bewegungen gesteuert; die Eingabegeräte unterscheiden sich je nach Plattform nur leicht.
 
 - **PC/Browser:**  
-    - Pfeiltasten `←`/`→` bewegen das Paddle links/rechts.  
+    - Pfeiltasten ←/→ bewegen das Paddle links/rechts.  
     - Viele moderne Ports erlauben auch reine Maussteuerung.  
 
 - **Original‑Arcade:**  
@@ -66,20 +69,26 @@ Breakout wird fast ausschließlich über horizontale Paddle‑Bewegungen gesteue
 - **Mobile:**  
     - Am unteren Displayrand tippen und horizontal wischen, um das Paddle zu versetzen.  
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:breakout:how-can-i-control-where-e30770fd -->
 **1. Wie kontrolliere ich genau, wohin der Ball fliegt?**
 
 > Indem du steuerst, an welcher Stelle des Paddles er ankommt: Mitte für einen geraden Flug, Außenbereiche für steile Winkel nach links oder rechts.
 
+<!-- i18n:faq:id=faq:breakout:why-does-the-ball-speed-238960cd -->
 **2. Warum wird der Ball im Laufe des Levels schneller?**
 
 > Die zunehmende Geschwindigkeit ist ein Kernbestandteil des Schwierigkeitsgrads – je weniger Steine übrig sind, desto stärker soll dein Reaktionsvermögen gefordert werden.
 
+<!-- i18n:faq:id=faq:breakout:what-is-the-best-way-ce39b501 -->
 **3. Wie räume ich ein Level am schnellsten?**
 
 > Baue an einer Seite einen Tunnel nach oben und lass den Ball hinter der Steinwand arbeiten; oben räumt er ganze Reihen quasi automatisch ab.
 
+<!-- i18n:faq:id=faq:breakout:are-there-powerups-in-breakout-a7fa8400 -->
 **4. Gibt es Power‑ups?**
 
 > Das Original‑Breakout hatte keine. Spätere Block‑Breaker wie Arkanoid ergänzten aber Extras wie Multi‑Ball, größere Paddles oder Laser – je nach Version, die du spielst.
+

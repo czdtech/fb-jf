@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 Billiards Classic bringt das traditionelle 8‑Ball‑Pool auf deinen Bildschirm.
@@ -25,6 +26,7 @@ Du trittst gegen eine Computer‑KI an und versuchst, als Erster deine Kugelgrup
 lochen. Realistische Physik und einfache Bedienung machen das Spiel zu einer
 entspannten, aber fordernden Billard‑Simulation.
 
+<!-- i18n:section:tips -->
 ### Strategie & Walkthrough
 
 1.  **Der Anstoß:** Triff beim Break die vordere Kugel möglichst voll, damit sich das Rack öffnet und vielleicht schon eine Kugel fällt.
@@ -33,6 +35,7 @@ entspannten, aber fordernden Billard‑Simulation.
 4.  **Effet gezielt nutzen:** Ein wenig Rückläufer stoppt oder zieht die Weiße zurück, Topspin lässt sie nachlaufen und Seiteneffet verändert den Winkel nach der Bande – verwende nur so viel wie nötig.
 5.  **Spiel auf die 8:** Hast du deine sieben Kugeln versenkt, musst du die Schwarze in eine angesagte Tasche spielen. Zu frühes Versenken oder ein Scratch auf die 8 kostet die Partie.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 *   **Zielen:** Bewege die Maus, um den Queue auszurichten.
@@ -40,16 +43,21 @@ entspannten, aber fordernden Billard‑Simulation.
 *   **Effet setzen:** Wähle auf dem Cue‑Ball‑Symbol den Treffpunkt, um Rückläufer, Vorläufer oder Seiteneffet zu geben.
 *   **Stoß ausführen:** Lasse die Maustaste los, um zu schlagen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:billiards-classic:q-what-happens-if-i-63f35f02 -->
 *   **F: Was passiert, wenn ich die 8 beim Anstoß versenke?**
 
     *   **A:** Je nach Regel wird neu aufgebaut oder die 8 wieder aufgesetzt. Versenkst du sie später, bevor du deine Gruppe abgeräumt hast, oder machst dabei ein Foul, verlierst du.
 
+<!-- i18n:faq:id=faq:billiards-classic:q-what-is-a-foul-11e47ab0 -->
 *   **F: Was gilt als Foul?**
 
     *   **A:** Scratch (Weiße fällt), zuerst die gegnerische Kugel treffen oder gar keine Kugel treffen. Danach bekommt der Gegner Ball‑in‑Hand und darf die Weiße frei platzieren.
 
+<!-- i18n:faq:id=faq:billiards-classic:q-which-balls-are-mine-e6a32756 -->
 *   **F: Wie weiß ich, ob ich Volle oder Halbe spiele?**
 
     *   **A:** Die erste legal gelochte Kugel nach dem Break legt die Gruppe fest – lochst du eine Volle, gehören dir die Volle; bei einer Halben spielst du Halbe.
+

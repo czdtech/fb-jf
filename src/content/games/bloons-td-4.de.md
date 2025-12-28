@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 Bloons TD 4 markiert einen großen Sprung für die Reihe: Neue Grafik, deutlich
@@ -45,6 +46,7 @@ auf und schaltest neue Türme, Upgrades und Modi frei.
 - **Verbrauchsgegenstände:** Einmal‑Items wie Road Spikes und Monkey Glue
   lassen sich direkt auf der Strecke platzieren.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 -   **Upgrade‑Pfad bewusst wählen:** Da du nicht alles auf einem Turm maxen kannst, lege früh fest, welche Rolle er erfüllen soll – z. B. Bomb Tower als `MOAB Mauler` oder für Flächenschaden (`Bloon Impact`).
@@ -63,6 +65,7 @@ auf und schaltest neue Türme, Upgrades und Modi frei.
     -   ein `Sun God` oder andere starke Single‑Target‑Türme,
     -   `Spike Storm` (Spike Factory) als Notfall-Schadensspitze kurz vorm Ausgang.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Die Bedienung bleibt klassisch point‑and‑click:
@@ -72,24 +75,31 @@ Die Bedienung bleibt klassisch point‑and‑click:
 -   **Hotkeys:** Zahlentasten wählen Türme, Leertaste startet Runden, Fast‑Forward beschleunigt das Spiel.
 -   **Consumables:** Road Spikes oder Monkey Glue unten auswählen und direkt auf der Strecke platzieren.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:bloons-td-4:why-cant-i-buy-a-516616f9 -->
 - **F: Warum kann ich bestimmte Türme/Upgrades nicht kaufen?**  
   **A:** Viele Türme und alle Tier‑3/‑4‑Upgrades sind an deinen Spielerrang
   gekoppelt. Spiele weiter, sammle XP und schalte sie frei.
 
+<!-- i18n:faq:id=faq:bloons-td-4:how-do-i-pop-camo-a6b0ee8a -->
 - **F: Wie knackt man Camo‑Bloons am besten?**  
   **A:** Über Dart Monkeys mit `Enhanced Eyesight`, Mortar mit
   `Signal Flare` oder Spike Factory‑Upgrades, die Tarnsicht gewähren.
 
+<!-- i18n:faq:id=faq:bloons-td-4:whats-the-difference-between-t-6964db4a -->
 - **F: Worin unterscheiden sich MOAB und BFB?**  
   **A:** Der BFB ist größer, hält deutlich mehr aus und zerplatzt in vier MOABs,
   die wiederum Keramik‑Bloons freisetzen.
 
+<!-- i18n:faq:id=faq:bloons-td-4:can-i-buy-all-the-a4f3b0b5 -->
 - **F: Kann ich alle Upgrades auf einem Affen kaufen?**  
   **A:** Nein, du musst einen Endpfad wählen – z. B. `Sun God` **oder**
   `Robo‑Monkey` beim Super Monkey.
 
+<!-- i18n:faq:id=faq:bloons-td-4:what-is-apopalypse-mode-eb2eb7e1 -->
 - **F: Was ist Apopalypse‑Mode?**  
   **A:** Ein Modus mit durchgehenden, ineinander übergehenden Wellen ohne
   Pausen; Geld gibt es nur durch Zerplatzen von Bloons, nicht durch Rundenboni.
+

@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 Block Dimension ist ein eingängiges Block‑Puzzlespiel, das die klassische
@@ -26,6 +27,7 @@ vertikale Spalte gefüllt ist, wird sie gelöscht, schafft Platz und bringt
 Punkte. Die Partie endet, sobald keiner der aktuell verfügbaren Blöcke mehr auf
  das Brett passt – also ist vorausschauende Planung entscheidend.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Alle drei Teile mitdenken:** Du siehst im Normalfall drei Formen
@@ -44,6 +46,7 @@ Punkte. Die Partie endet, sobald keiner der aktuell verfügbaren Blöcke mehr au
     benötigen viel Raum. Versuche, sie früh zu verbauen oder dir bewusst
     Freiflächen dafür zu reservieren.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Block ziehen:** Klicke oder tippe auf einen Block im Auswahlbereich und
@@ -51,11 +54,16 @@ Punkte. Die Partie endet, sobald keiner der aktuell verfügbaren Blöcke mehr au
 - **Block platzieren:** Lasse die Maustaste / den Finger los, um den Block an
   der markierten Position abzulegen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:block-dimension:q-can-i-rotate-the-8b38e9ae -->
 -   **F: Kann ich Blöcke drehen?**  
     -   **A:** In typischen 10×10‑Blockspielen wie diesem lassen sich Blöcke nicht drehen. Du musst sie in der vorgegebenen Ausrichtung einbauen.
+<!-- i18n:faq:id=faq:block-dimension:q-how-do-i-clear-02391945 -->
 -   **F: Wie werden Linien gelöscht?**  
     -   **A:** Sobald eine vollständige Reihe oder Spalte aus 10 Feldern gefüllt ist, verschwindet sie und schafft neuen Raum.
+<!-- i18n:faq:id=faq:block-dimension:q-what-is-the-best-03413fee -->
 -   **F: Was ist die beste Strategie für hohe Scores?**  
     -   **A:** Spiele auf Mehrfach‑Clears, halte das Brett lange offen und vermeide unnötige Lücken. So stapeln sich Punkte am schnellsten.
+

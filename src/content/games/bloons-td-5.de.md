@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 Bloons TD 5 ist ein Meilenstein des Tower‑Defense‑Genres: enorme Spieltiefe, farbenfrohe Grafik und eine gigantische Menge an Inhalten. Wie immer platzierst du Affentürme mit einzigartigen Fähigkeiten, um immer härtere Bloon‑Wellen zu stoppen.
@@ -31,6 +32,7 @@ BTD5 erweitert das Universum unter anderem um:
 -   **Enorme Content‑Menge:** Dutzende Karten, Special Missions, Daily Challenges und ein ausgebauter Koop‑Modus.  
 -   **Aktive Fähigkeiten:** Viele Tier‑4‑Upgrades gewähren mächtige, manuell auslösbare Skills (MOAB Assassin, Downdraft usw.).
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 -   **Wirtschaft zuerst:** Eine solide Economy entscheidet das Spiel. Baue so früh wie möglich **Banana Farms** und strebe 4/2 (`Banana Research Facility` + `More Bananas`) an – jede Runde landet dann eine Geldkiste auf dem Feld.
@@ -45,6 +47,7 @@ BTD5 erweitert das Universum unter anderem um:
     -   **Supa‑Vac (Bloonchipper 2/4):** Fängt sogar ZOMGs kurz ein und verschafft deinen DPS‑Türmen Luft.  
     -   **Sabotage Supply Lines (Ninja x/4):** Halbiert die Bloon‑Geschwindigkeit und ist in späten Runden unverzichtbar.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Das Interface funktioniert klassisch per Maus oder Touch.
@@ -54,19 +57,26 @@ Das Interface funktioniert klassisch per Maus oder Touch.
 -   **Aktive Fähigkeiten:** Relevante Türme blenden unten links Buttons ein; ein Klick aktiviert sie nach Ablauf der Abklingzeit.  
 -   **Hotkeys:** Die PC‑Version zeigt auf jedem Icon die zugehörige Taste an – perfekt, um im Lategame schnell zu reagieren.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:bloons-td-5:what-is-the-best-tower-e969f316 -->
 **1. Was ist der stärkste Turm in BTD5?**  
 > Es gibt keinen alleinigen „Besten“. Ein vollständig geopferter **Temple of the Monkey God** neben einem 2/3‑Monkey Village gilt jedoch als stärkste DPS‑Kombination.
 
+<!-- i18n:faq:id=faq:bloons-td-5:how-do-i-get-the-fd098d0c -->
 **2. Wie erhalte ich den Tempel?**  
 > Der Tempel ist das finale (4/x) Upgrade des Super Monkey. Zuerst `Sun God` (3/x) kaufen, danach erscheint die Tempel‑Option.
 
+<!-- i18n:faq:id=faq:bloons-td-5:how-does-sacrificing-for-the-b26fb21a -->
 **3. Wie funktioniert das Opfern?**  
 > Alle Türme innerhalb der Reichweite des Sun God werden beim Upgrade geopfert. Investiere in mehrere Kategorien (Primary/Military/Magic) – jeweils bis etwa 30.000 $ – um die maximale Tempel‑Power zu erreichen.
 
+<!-- i18n:faq:id=faq:bloons-td-5:what-is-a-zomg-and-0d537e0a -->
 **4. Was ist ein ZOMG und wie besiege ich ihn?**  
 > Der ZOMG ist der zäheste Blimp und enthält vier B.F.B.s. Konzentrierter Schaden durch Tempel, mehrere MOAB Assassin‑Bombentürme und die Fähigkeit `Sabotage Supply Lines` sind der Schlüssel.
 
+<!-- i18n:faq:id=faq:bloons-td-5:are-special-agents-worth-it-5a39ac6f -->
 **5. Lohn sich der Einsatz von Special Agents?**  
 > Ja. Ein `Meerkat Spy` liefert z. B. frühe Tarnsicht, ein `Bloonsday Device` rettet dich vor großen Leaks – ideal für schwere Karten oder Einsteiger.
+

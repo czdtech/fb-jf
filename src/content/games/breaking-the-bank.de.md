@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 Breaking the Bank ist ein kurzes, interaktives Cartoon‑Abenteuer und der erste
@@ -51,6 +52,7 @@ Fehlschlägen.
 > FAIL‑Szene und sind Teil des Gag‑Formats – am besten klickst du sie der
 > Reihe nach durch.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Das komplette Spiel wird mit der Maus gesteuert.
@@ -58,16 +60,20 @@ Das komplette Spiel wird mit der Maus gesteuert.
 - **Maus bewegen:** Fahre mit dem Cursor über eine Option, um eine Option zu markieren.  
 - **Linksklick:** Wähle die gewünschte Methode und sieh dir den Ausgang an.  
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:breaking-the-bank:is-there-more-than-one-8d64b7de -->
 **F: Gibt es mehrere Wege zum Sieg?**
 
 > Nein, nur die Schaufel führt zum „richtigen“ Ende. Alle anderen Möglichkeiten sind bewusst als Fehlschläge inszeniert.
 
+<!-- i18n:faq:id=faq:breaking-the-bank:why-is-the-game-so-327082bc -->
 **F: Warum ist das Spiel so kurz?**
 
 > Breaking the Bank war der Prototyp für das Entscheidungs-Prinzip; spätere Teile sind wesentlich länger und verzweigter.
 
+<!-- i18n:faq:id=faq:breaking-the-bank:is-this-game-part-of-663d818e -->
 **F: In welcher Reihenfolge spielt man die Henry-Spiele?**
 
 > Ja, Breaking the Bank ist der Auftakt der Reihe. Die empfohlene Reihenfolge lautet:
@@ -78,6 +84,8 @@ Das komplette Spiel wird mit der Maus gesteuert.
 > 5.  Fleeing the Complex  
 > Diese Titel wurden später remastered und zusammen mit Completing the Mission im **Henry Stickmin Collection**-Bundle veröffentlicht.
 
+<!-- i18n:faq:id=faq:breaking-the-bank:where-is-the-gameplay-i-dc81522e -->
 **F: Wo ist hier das „Gameplay“, wenn ich nur einmal klicke?**
 
 > Der Spaß besteht darin, alle Optionen samt ihrer Fail-Gags zu sehen, bevor du die richtige findest – es ist eher ein interaktiver Cartoon.
+

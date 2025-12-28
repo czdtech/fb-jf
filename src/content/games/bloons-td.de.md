@@ -14,6 +14,7 @@ score: 4.1/5  (812 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ## Spielübersicht
 
 *Bloons TD* ist das Fundament der Bloons Tower Defense‑Serie. Auf jeder Karte folgen die Bloons einem festgelegten Pfad; deine Aufgabe besteht darin, Monkey Towers so zu platzieren und aufzurüsten, dass kein Bloon lebend durchkommt.
@@ -29,6 +30,7 @@ Wichtige Serienmerkmale:
 
 Ziel jeder Partie ist es, alle Runden eines Schwierigkeitsgrads zu überleben, ohne sämtliche Leben zu verlieren.
 
+<!-- i18n:section:tips -->
 ## Strategie & Tipps
 
 -   **Starker Frühstart:** Nutze kosteneffiziente Türme. Ein paar gut platzierte Dart Monkeys oder ein Tack Shooter an einer Kurve reichen oft für die ersten Wellen, während du Kapital für spätere Upgrades sammelst.  
@@ -41,6 +43,7 @@ Ziel jeder Partie ist es, alle Runden eines Schwierigkeitsgrads zu überleben, o
 -   **Maplayout ausspielen:** Stelle Türme an Stellen mit möglichst viel Wegabdeckung (S‑Kurven, Kreuzungen, Schleifen). Langstrecken‑Einheiten wie Sniper Monkeys gehören an Orte mit freier Sicht.  
 -   **In Wirtschaft investieren:** Auf schweren Maps sind Banana Farms oder geldgenerierende Upgrades Pflicht, um teure Tier‑4/5‑Türme bezahlen zu können.  
 
+<!-- i18n:section:controls -->
 ## Steuerung
 
 Bloons TD lässt sich komplett mit Maus oder Touch bedienen.
@@ -50,11 +53,14 @@ Bloons TD lässt sich komplett mit Maus oder Touch bedienen.
 -   **Fähigkeiten aktivieren:** Manche Upgrades geben aktive Skills; ihre Buttons erscheinen im Turm‑Panel oder am unteren Bildschirmrand.  
 -   **Hotkeys (PC):** Viele Türme besitzen Schnellwahltasten (z. B. Q für Dart Monkey, 1/2/3 für Upgrades) und erlauben so extrem schnelle Platzierungen.  
 
+<!-- i18n:section:faq -->
 ## Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:bloons-td:why-are-my-towers-not-9734821b -->
 **1. Warum greifen meine Türme bestimmte Bloons nicht an?**  
 > Meist liegt es an Spezialattributen. **Camo Bloons** sind für Türme ohne Tarnsicht unsichtbar, **Lead Bloons** ignorieren scharfe Projektile. Passe deine Upgrades entsprechend an.  
 
+<!-- i18n:faq:id=faq:bloons-td:what-is-a-moab-bfb-6c34da0f -->
 **2. Was bedeuten MOAB, BFB, ZOMG, DDT und BAD?**  
 > Das sind die Blimps der MOAB‑Klasse, die spät im Spiel erscheinen. Vom schwächsten zum stärksten:  
 > - **MOAB** (blau): enthält 4 Ceramic Bloons.  
@@ -63,8 +69,11 @@ Bloons TD lässt sich komplett mit Maus oder Touch bedienen.
 - **DDT** (schneller schwarzer Blimp): kombiniert Camo‑, Lead‑ und Black‑Eigenschaften und ist extrem gefährlich.  
 - **BAD** (violett): der Endboss unter den Blimps; nach dem Platzen entlässt er ZOMGs und DDTs.  
 
+<!-- i18n:faq:id=faq:bloons-td:what-is-the-best-tower-548c67b5 -->
 **3. Gibt es den „besten“ Turm?**  
 > Nein. Bloons TD lebt von Balance und Synergien. Ein Turm kann auf einer Map fantastisch und auf einer anderen nutzlos sein – kombiniere verschiedene Rollen, um alle Schwächen abzudecken.  
 
+<!-- i18n:faq:id=faq:bloons-td:how-do-i-make-more-29f9db80 -->
 **4. Wie verdiene ich mehr Geld?**  
 > Standardmäßig durch das Platzenlassen von Bloons. Für deutlich mehr Einkommen baust und verbesserst du Banana Farms oder nutzt spezielle Geld‑Upgrades (z. B. Monkey Buccaneer, Alchemist).  
+

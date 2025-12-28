@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 *Bricks Breaker* ist eine moderne Variante des zeitlosen Arcade-Klassikers.
@@ -30,6 +31,7 @@ zusätzliche Bälle oder besondere Effekte des Balls. Durch viele Level,
 abwechslungsreiche Block-Formationen und spannende Power-ups bietet Bricks
 Breaker langanhaltenden Spielspaß.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  Schläger gezielt einsetzen: Deine Hauptaufgabe ist es, den Schläger so zu
@@ -49,6 +51,7 @@ Breaker langanhaltenden Spielspaß.
 5.  Wände ausnutzen: Nutze die Seitenwände zu deinem Vorteil. Scharfe Winkel an
     den Rändern helfen dabei, schwer erreichbare Stellen zu treffen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 *   Schläger bewegen: Bewege die Maus nach links oder rechts, um die Position
@@ -56,19 +59,24 @@ Breaker langanhaltenden Spielspaß.
 *   Ball starten: Klicke mit der linken Maustaste, um den Ball am Anfang eines
     Lebens vom Schläger aus zu starten.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:bricks-breaker:q-what-is-the-goal-ab58581b -->
 *   F: Was ist das Ziel des Spiels?
     *   A: Du musst alle zerstörbaren Blöcke in einem Level abräumen, um in das
         nächste Level vorzurücken.
 
+<!-- i18n:faq:id=faq:bricks-breaker:q-what-happens-if-i-156836d4 -->
 *   F: Was passiert, wenn ich den Ball verpasse?
     *   A: Fällt der Ball am Schläger vorbei nach unten, verlierst du ein
         Leben. Sind alle Leben aufgebraucht, ist das Spiel vorbei.
 
+<!-- i18n:faq:id=faq:bricks-breaker:q-what-do-the-different-b6a457e3 -->
 *   F: Was machen die verschiedenen Power-ups?
     *   A: Die Effekte sind unterschiedlich, aber typische Power-ups sind zum
         Beispiel ein verlängerter Schläger, Multi-Ball (der Ball teilt sich in
         drei), ein feuriger Ball, der mehrere Blöcke hintereinander
         durchschlägt, oder Laser, mit denen du direkt auf Blöcke schießen
         kannst.
+

@@ -11,9 +11,11 @@ thumbnail: /new-images/thumbnails/bejeweled.png
 tags:
   - bejeweled
 score: 4.8/5  (654 votes)
+releaseDate: 2025-12-04
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 *Bejeweled* ist eines der bekanntesten Kachel‑ und Edelstein‑Puzzlespiele
@@ -25,6 +27,7 @@ weitere Kettenreaktionen (Cascades) auslösen.
 Die einfache, aber sehr süchtig machende Spielschleife machte Bejeweled zum
 Wegbereiter des Match‑3‑Genres und zu einem der erfolgreichsten Casual‑Games.
 
+<!-- i18n:section:how-to-play -->
 ### So spielst du Bejeweled
 
 - **Grundaktion:** Du darfst immer nur zwei benachbarte Steine horizontal oder
@@ -69,6 +72,7 @@ für hohe Punktzahlen entscheidend sind:
   Ruhe zu scannen, bevor du einen Zug machst. Wenn du nicht weiterweißt, hilft
   meist eine Hinweis‑Funktion.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
 - **F: Ist Bejeweled kostenlos spielbar?**  

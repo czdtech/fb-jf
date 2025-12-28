@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 In *Bricks Breaker Crush* schießt du ganze Salven von Bällen auf nummerierte
@@ -31,6 +32,7 @@ Blockreihen den unteren Bildschirmrand erreichen. Je besser du Winkel, Tempo
 und Power-ups kombinierst, desto länger überlebst du und desto höher wird dein
 Score.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  Flache Winkel bevorzugen: Starte deine Schüsse eher flach, damit die Bälle
@@ -52,6 +54,7 @@ Score.
     Notfälle auf und kombiniere sie idealerweise mit einer großen Ballsalve,
     um ganze Bereiche auf einmal zu leeren.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Ziehe mit gedrückter Maustaste oder dem Finger, um die Schussrichtung der
@@ -60,22 +63,27 @@ Score.
 - Power-ups werden je nach Variante automatisch beim Einsammeln oder per Tippen
   ausgelöst.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:bricks-breaker-crush:my-shots-feel-too-randomhow-50c1bbd0 -->
 - F: Meine Schüsse wirken zufällig – wie bekomme ich mehr Kontrolle?
   
   A: Nutze eher flache Winkel und baue gezielt Bahnen, in denen die Bälle oben
   im Spielfeld kreisen. So entstehen berechenbare Abpraller, statt chaotischer
   Steilschüsse.
 
+<!-- i18n:faq:id=faq:bricks-breaker-crush:what-should-i-prioritize-ball-bc4d1014 -->
 - F: Was ist wichtiger: +Ball-Symbole oder Lösch-Power-ups?
   
   A: Zu Beginn sind +Ball-Symbole meist am wertvollsten, weil sie jeden
   zukünftigen Zug stärken. Wenn eine Reihe kurz vor dem Auslösen des Game
   Over steht, haben Notfall-Clears aber Vorrang.
 
+<!-- i18n:faq:id=faq:bricks-breaker-crush:the-wall-keeps-droppingany-fix-0147ce52 -->
 - F: Die Wand rückt immer weiter nach unten – was mache ich falsch?
   
   A: Wahrscheinlich verlierst du zu viele Züge mit riskanten Winkeln. Schieße
   direkter auf die höchsten Zahlen nahe am unteren Rand und nutze starke
   Power-ups, um kritische Spalten schnell zu entfernen.
+

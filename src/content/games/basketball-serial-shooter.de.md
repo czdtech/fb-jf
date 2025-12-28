@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 Basketball serial shooter ist ein rasantes Punkte‑Jagd‑Spiel, bei dem es ganz
@@ -25,6 +26,7 @@ manchen Varianten) und Hindernisse oder verstellbare Backboards ins Spiel
 kommen. Ziel ist es, einen stabilen Wurfrhythmus zu finden und möglichst viele
 Treffer hintereinander zu landen.
 
+<!-- i18n:section:tips -->
 ### Strategie & Walkthrough
 
 1.  **Wiederholbare Form entwickeln:** Suche dir eine angenehme Cursor‑Position
@@ -47,6 +49,7 @@ Treffer hintereinander zu landen.
     Bonusziele nur anspielen, wenn sie ohnehin auf deiner Standardbahn liegen –
     sonst kostet dich der Fehlwurf mehr als der Bonus bringt.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Zielen & Kraft:** Ziehe mit Maus oder Finger, um Winkel und Power
@@ -57,23 +60,30 @@ Treffer hintereinander zu landen.
 - **Pause/Retry:** Nutze die Bildschirm‑Buttons für Pause oder schnellen
   Neustart.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:basketball-serial-shooter:why-do-my-shots-keep-ebf33bb9 -->
 - **F: Warum rollen meine Würfe ständig vom Ring runter?**
   **A:** Wahrscheinlich ist dein Bogen zu flach oder die Schusskraft zu hoch.
   Erhöhe den höchsten Punkt der Flugbahn und nimm etwas Power heraus.
 
+<!-- i18n:faq:id=faq:basketball-serial-shooter:how-do-i-handle-moving-9460d31b -->
 - **F: Wie gehe ich mit beweglichen Körben um?**
   **A:** Schau dir den Bewegungstakt an, wähle einen festen Zeitpunkt im Zyklus
   und wirf immer dann – Konsistenz ist wichtiger als perfekte Intuition.
 
+<!-- i18n:faq:id=faq:basketball-serial-shooter:does-wind-matter-in-this-2843bdec -->
 - **F: Macht der Wind wirklich etwas aus?**
   **A:** In Varianten mit Wind unbedingt kompensieren: Ziele leicht gegen die Windrichtung und erhöhe den Bogen minimal. Ein paar Probeschüsse helfen, die Drift abzuschätzen.
 
+<!-- i18n:faq:id=faq:basketball-serial-shooter:any-tip-for-streaks-and-926f54cf -->
 - **F: Tipps für Serien und Multiplikatoren?**
   **A:** Starte mit sicheren Kurzdistanzwürfen, baue damit deine Serie auf und verlängere erst danach die Distanz, wenn der Rhythmus sitzt.
 
+<!-- i18n:faq:id=faq:basketball-serial-shooter:should-i-go-for-coin-be4a4fb3 -->
 - **F: Lohnt es sich, auf Münzen zu gehen?**
   **A:** Nur, wenn sie sich mit deiner Standardkurve treffen lassen. Wenn du
   dafür stark umstellen musst, verlierst du meist mehr Zeit und Serienbonus als
   du gewinnst.
+

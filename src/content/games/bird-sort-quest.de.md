@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 Bird Sort Quest gehört zur Familie der Sortier‑Puzzles (ähnlich wie
@@ -30,6 +31,7 @@ nur auf leere Stangen oder auf Vögel derselben Farbe setzen darfst. Dadurch
 musst du dir Pufferstangen freihalten und Zwischenparkplätze für Farben
 schaffen.
 
+<!-- i18n:section:tips -->
 ### Strategie & Walkthrough
 
 1.  **Puffer reservieren:** Halte nach Möglichkeit mindestens eine Stange leer,
@@ -49,6 +51,7 @@ schaffen.
     erzeugt, nutze Undo (falls vorhanden), solange deine Pufferstangen noch
     nicht komplett blockiert sind.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Vogel bewegen:** Tippe/Klicke zuerst auf eine Stange, um den obersten
@@ -56,25 +59,31 @@ schaffen.
 - **Rückgängig/Neustart:** Nutze Undo und Restart, wenn du dich in eine Ecke
   manövriert hast (falls der Modus das anbietet).
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:bird-sort-quest:im-stuck-with-no-legal-a899e92b -->
 - **F: Ich habe keine legalen Züge mehr – was jetzt?**  
   **A:** Gehe einige Züge per Undo zurück und öffne wieder eine Pufferstange.
   Versuche, zuerst vereinzelt vergrabene Farben freizulegen.
 
+<!-- i18n:faq:id=faq:bird-sort-quest:is-there-a-guaranteed-strategy-2c0534b0 -->
 - **F: Gibt es eine garantierte Lösung für jedes Level?**  
   **A:** Nicht zwingend, aber mit mindestens einem Puffer und frühzeitigem
   Zusammenführen von Teilstapeln sind die meisten Layouts lösbar.
 
+<!-- i18n:faq:id=faq:bird-sort-quest:should-i-finish-one-color-699693b3 -->
 - **F: Sollte ich eine Farbe immer komplett fertig sortieren, bevor ich an die
   nächste gehe?**  
   **A:** Wenn es ohne Pufferverlust möglich ist, ja – aber fixe dich nicht darauf
   fest, wenn dir dadurch alle Zwischenablagen verloren gehen.
 
+<!-- i18n:faq:id=faq:bird-sort-quest:are-extra-perches-ever-added-1b15261b -->
 - **F: Bekomme ich später mehr Stangen?**  
   **A:** In manchen Levelsets werden zusätzliche Stangen freigeschaltet. Nutze
   sie konsequent als Parksplatz, um komplexe Muster aufzubrechen.
 
+<!-- i18n:faq:id=faq:bird-sort-quest:do-move-counts-matter-9c003484 -->
 - **F: Zählen Züge für die Wertung?**  
   **A:** Einige Modi belohnen möglichst wenige Züge. Versuche unnötiges Hin‑ und
   Herbewegen zu vermeiden, wenn du auf Highscores spielst.

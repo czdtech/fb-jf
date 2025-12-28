@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 Bloxorz ist ein anspruchsvolles 3D‑Knobelspiel. Du steuerst einen 1×2×1
@@ -42,6 +43,7 @@ Wichtige Elemente sind Spezialfelder und Schalter:
     - **Split‑Schalter `<>`**: Liegt der Block flach auf ihnen, teilt er sich in
       zwei kleinere 1×1‑Würfel.
 
+<!-- i18n:section:tips -->
 ### Strategie
 
 - **Züge vorausdenken:** Bloxorz erfordert vorausschauendes Planen. Überlege
@@ -73,6 +75,7 @@ Wichtige Elemente sind Spezialfelder und Schalter:
   ihn dir, um später direkt in dieses Level springen zu können, ohne von vorn
   zu beginnen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Die Bedienung ist unkompliziert und basiert vollständig auf den Pfeiltasten
@@ -85,20 +88,26 @@ Wichtige Elemente sind Spezialfelder und Schalter:
 - **Leertaste:** Zwischen den beiden Würfeln wechseln, nachdem der Block
   geteilt wurde.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:bloxorz:why-did-i-fall-through-02b3bb8a -->
 - **F: Warum bin ich durch einen orangefarbenen Boden gefallen?**  
   **A:** Du standest hochkant auf einem fragilen Feld. Diese halten nur, wenn
   der Block flach liegt und sein Gewicht auf zwei Felder verteilt.
 
+<!-- i18n:faq:id=faq:bloxorz:the-x-switch-is-not-3bcd7a15 -->
 - **F: Der `X`‑Schalter reagiert nicht – wieso?**  
   **A:** `X` ist ein Hard‑Schalter und braucht das volle Gewicht des Blocks.
   Du musst ihn hochkant genau darauf abstellen.
 
+<!-- i18n:faq:id=faq:bloxorz:how-do-i-get-my-4d324308 -->
 - **F: Wie setze ich die beiden kleinen Blöcke wieder zusammen?**  
   **A:** Stelle sie auf zwei benachbarte Felder und bewege einen Würfel in den
   anderen – sie fusionieren automatisch.
 
+<!-- i18n:faq:id=faq:bloxorz:how-can-i-return-to-46010fe6 -->
 - **F: Wie komme ich zu einem bereits geschafften Level zurück?**  
   **A:** Gib den Level‑Code, den du nach Abschluss erhalten hast, im Hauptmenü
   ein, um direkt zu diesem Level zu springen.
+

@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 Blob Opera ist weniger klassisches Spiel als interaktives Musik‑Experiment.
@@ -30,6 +31,7 @@ passen sich die anderen drei automatisch an und harmonisieren dazu. Ziel ist
 nicht ein Highscore, sondern das Entdecken und Ausprobieren – vom ernsthaften
 Mini‑Chor bis zur komplett albernen Blob‑Kakofonie.
 
+<!-- i18n:section:tips -->
 ### Kreativ‑Tipps & Strategien
 
 Ohne Score dreht sich alles darum, interessante Klangfarben zu basteln. Diese Hinweise bieten eine gute Ausgangsbasis:
@@ -42,6 +44,7 @@ Ohne Score dreht sich alles darum, interessante Klangfarben zu basteln. Diese Hi
 -   **Aufnahmefunktion nutzen:** Mit dem Record‑Button nimmst du deine Performance auf und kannst sie per Link teilen.
 -   **Holiday‑Modus aktivieren:** Über das kleine Weihnachtsbaum‑Icon wechselst du in ein Festtags‑Theme mit Mützen und Weihnachtsliedern.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Die Bedienung ist komplett auf Maus oder Touch ausgelegt.
@@ -53,20 +56,26 @@ Die Bedienung ist komplett auf Maus oder Touch ausgelegt.
 -   **Play‑Button:** Spielt die letzte Aufnahme ab.
 -   **Share‑Button:** Erstellt nach einer Aufnahme einen teilbaren Link.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:blob-opera:is-there-a-goal-or-d93493e0 -->
 **F: Gibt es ein Ziel oder ein Ende?**
 
 > Nein. Blob Opera ist ein Sandbox‑Erlebnis ohne Punkte, Level oder Siegbedingung.
 
+<!-- i18n:faq:id=faq:blob-opera:can-i-make-the-blobs-ec18d48b -->
 **F: Können die Blobs echte Worte singen?**
 
 > Nein, sie beherrschen nur Vokallaute – Ausdruck entsteht durch Tonhöhe, Vokalformung und Timing.
 
+<!-- i18n:faq:id=faq:blob-opera:are-those-real-human-voices-717f42e1 -->
 **F: Sind das echte Stimmen?**
 
 > Das ML‑Modell wurde auf vier realen Opernsängern trainiert, erzeugt aber jeden Ton live und nicht aus Samples.
 
+<!-- i18n:faq:id=faq:blob-opera:how-do-i-save-my-af5e6d66 -->
 **F: Wie speichere ich meine Komposition?**
 
 > Ein direkter MP3‑Export ist nicht vorgesehen. Nutze den Record/Share‑Workflow oder eine Bildschirmaufnahme als Alternative.
+

@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 *Bricks Breaker House* ist ein liebevoll gestalteter Brick-Breaker, bei dem
@@ -28,6 +29,7 @@ Mit jedem Treffer verschwindet ein Teil der Wand, während sich neue
 Konstellationen ergeben. Je besser du Winkel, Tempo und Power-ups kombinierst,
  desto entspannter kannst du selbst schwierige Wellen meistern.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  Kontrollierte Winkel wählen: Schieße den Ball in etwa 30–45 Grad, um
@@ -44,6 +46,7 @@ Konstellationen ergeben. Je besser du Winkel, Tempo und Power-ups kombinierst,
 5.  Enge Bretter auflockern: In sehr dichten Leveln solltest du zuerst Blöcke
     entfernen, die dir neue Winkel und Flugbahnen eröffnen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Bewege den Schläger mit den Tasten A/D oder den Pfeiltasten Links/Rechts;
@@ -51,21 +54,26 @@ Konstellationen ergeben. Je besser du Winkel, Tempo und Power-ups kombinierst,
 - Starte den Ball mit der Leertaste oder einem Klick/Tap.
 - Fange Power-ups mit dem Schläger, um ihre Effekte zu aktivieren.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:bricks-breaker-house:which-upgrades-should-i-priori-68a6da2d -->
 - F: Welche Upgrades sind am wichtigsten?
   
   A: Ein breiterer Schläger und Multi-Ball sind meist am sichersten, weil sie
   dir mehr Kontrolle und Fehlerfreiheit geben. Geschwindigkeits-Boosts sind
   stärker, aber auch deutlich riskanter.
 
+<!-- i18n:faq:id=faq:bricks-breaker-house:how-do-i-deal-with-3e27b52e -->
 - F: Wie komme ich mit sehr engen Tunneln zurecht?
   
   A: Serviere mit einem moderaten Winkel und bereite dich auf schnelle,
   rhythmische Fänge vor. Versuche, den Ball im Tunnel gefangen zu halten, statt
   ihn sofort wieder nach unten zu schicken.
 
+<!-- i18n:faq:id=faq:bricks-breaker-house:is-there-a-best-serve-f67211f3 -->
 - F: Gibt es einen "besten" Startwinkel?
   
   A: Mittlere Winkel zwischen 30 und 45 Grad bieten meist den besten Kompromiss
   aus Kontrolle und Flächenabdeckung.
+

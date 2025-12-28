@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 Boxing Random ist ein herrlich chaotisches Boxspiel mit ragdoll‑basierten
@@ -41,6 +42,7 @@ Dies zwingt dich dazu, ständig deine Herangehensweise anzupassen. Die
 wackeligen Bewegungen führen zu vielen, oft unerwarteten Knockouts – perfekt
 für lokale Duelle.
 
+<!-- i18n:section:tips -->
 ### Strategie
 
 - **Chaos annehmen:** Versuche nicht, wie in einer ernsthaften Boxsimulation zu
@@ -66,6 +68,7 @@ für lokale Duelle.
 - **An Armlängen anpassen:** Mit sehr langen Armen spielst du eher auf Distanz,
   mit kurzen musst du aggressiv in den Nahkampf.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Das Spiel ist berühmt für seine Ein-Tasten-Steuerung.
@@ -73,24 +76,30 @@ Das Spiel ist berühmt für seine Ein-Tasten-Steuerung.
 - **Spieler 1:**  
     - **Pfeiltaste nach oben:** Sprung/Zurücklehnen & Schlag.
 - **Spieler 2:**  
-    - **Taste `W`:** Sprung/Zurücklehnen & Schlag.
+    - **Taste W:** Sprung/Zurücklehnen & Schlag.
 
 Dieselbe Taste steuert alle Aktionen – es gibt keinen separaten Block‑Button.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:boxing-random:how-do-i-win-a-e21b4f7d -->
 - **F: Wie gewinne ich eine Runde?**  
   **A:** Ein sauberer Treffer auf den Kopf des Gegners reicht. Wer zuerst 5
   Runden gewinnt, entscheidet das Match.
 
+<!-- i18n:faq:id=faq:boxing-random:why-do-the-characters-look-21310768 -->
 - **F: Warum bewegen sich die Figuren so komisch?**  
   **A:** Das ist Absicht – Ragdoll‑Physik plus zufällige Modifikatoren pro Runde
   machen den Reiz des Spiels aus.
 
+<!-- i18n:faq:id=faq:boxing-random:is-there-a-way-to-78bb8bae -->
 - **F: Kann ich blocken?**  
   **A:** Es gibt keinen Block‑Knopf, aber dein Schlagarm kann gegnerische
   Schläge abfangen, wenn du gut timst.
 
+<!-- i18n:faq:id=faq:boxing-random:can-i-play-this-game-0d71baf7 -->
 - **F: Kann ich alleine spielen?**  
   **A:** Ja, du kannst gegen eine KI antreten oder lokal im 2‑Spieler‑Modus
   spielen.
+

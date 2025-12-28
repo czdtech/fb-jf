@@ -18,6 +18,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Detaillierte Spielbeschreibung
 
 Brain Trainer ist eine Sammlung kurzer, aber fordernder Mini‑Spiele, die
@@ -40,19 +41,25 @@ Brain Trainer bietet mehrere Kategorien von Mini-Spielen; typische Beispiele:
 4.  **Räumliches Denken:** Aufgaben wie das Drehen von Formen, um sie in eine
     Zielkontur zu setzen, oder das Navigieren durch kleine Labyrinthe.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Die Bedienung bleibt in allen Mini‑Games simpel und erfolgt per Maus oder Touch.
 
 - **Auswahl / Antwort:** Klicke oder tippe auf Zahl, Feld, Karte oder Objekt, das der gefragten Lösung entspricht; die meisten Aufgaben werten sofort aus, andernfalls erscheint ein „OK“-Knopf und das Resultat zeigt Score, Genauigkeit sowie Bestwerte.  
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:brain-trainer:q-what-is-the-goal-ab58581b -->
 - **F: Was ist das eigentliche Ziel?**  
     - **A:** Möglichst hohe Punktzahlen in den einzelnen Mini‑Spielen. Oft erhältst du daraus einen Gesamt‑„Brain Score“ oder eine Einordnung deiner Leistungsbereiche.
 
+<!-- i18n:faq:id=faq:brain-trainer:q-are-the-games-timed-d1306c73 -->
 - **F: Sind die Spiele zeitlich begrenzt?**  
     - **A:** Ja, meistens laufen sie gegen einen Timer; gewertet werden sowohl Geschwindigkeit als auch Genauigkeit.
 
+<!-- i18n:faq:id=faq:brain-trainer:q-how-can-i-improve-1e0919f0 -->
 - **F: Wie verbessere ich mich am besten?**  
     - **A:** Regelmäßiges Spielen ist der Schlüssel. Je besser du die Aufgabentypen kennst, desto schneller und sicherer reagierst du.  
+

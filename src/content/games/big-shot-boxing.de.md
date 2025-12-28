@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 Big Shot Boxing ist ein Retro‑Arcade‑Boxspiel mit Karrierefokus. Du schlüpfst
@@ -30,6 +31,7 @@ Gürtel zu sichern. Die Steuerung ist leicht zu lernen, aber schwer zu
 perfektionieren – perfekte Voraussetzungen für eine lange, motivierende
 Karriere.
 
+<!-- i18n:section:tips -->
 ### Strategie
 
 - **Geduld & Deckung zuerst:** Dauerndes Schlag‑Spammen leert nur deine
@@ -58,6 +60,7 @@ Karriere.
   einmal gegen schwächere Boxer, um Geld für zusätzliches Training zu
   verdienen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Die Steuerung ist auf einfaches Tippen und Wischen ausgelegt (Touch oder Maus).
@@ -71,16 +74,22 @@ Die Steuerung ist auf einfaches Tippen und Wischen ausgelegt (Touch oder Maus).
 - **"Big Shot"‑Button:** Wird sichtbar, wenn die Spezialleiste voll ist; ein
   Tipp löst den Big‑Shot‑Schlag aus.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:big-shot-boxing:what-are-the-best-stats-43c2c76e -->
 **F: Welche Werte sollte ich zuerst trainieren?**  
 > Starte ausgewogen mit Stärke, Speed und Chin. Später kannst du dich auf Knockouts (Stärke) oder Punkteboxen (Speed) spezialisieren – Chin bleibt deine Lebensversicherung.
 
+<!-- i18n:faq:id=faq:big-shot-boxing:how-do-i-beat-an-5c2f4853 -->
 **F: Wie schlage ich schnellere Gegner?**  
 > Bleib in der Deckung, lass sie ihre Kondition verheizen und kontere am Ende ihrer Kombination. Ein Uppercut im richtigen Moment stoppt viele Flurries.
 
+<!-- i18n:faq:id=faq:big-shot-boxing:my-punches-dont-seem-to-38034a29 -->
 **F: Warum richten meine Schläge kaum Schaden an?**  
 > Entweder ist deine Stärke zu niedrig oder deine Ausdauer leer. Trainiere mehr und nimm dir im Kampf kurze Pausen zum Durchatmen.
 
+<!-- i18n:faq:id=faq:big-shot-boxing:how-does-the-big-shot-26d69f2e -->
 **F: Wie füllt sich die "Big Shot"‑Leiste?**  
 > Durch Treffer und Blocks. Präzise Konter und harte Schläge lassen den Balken besonders schnell anwachsen.
+

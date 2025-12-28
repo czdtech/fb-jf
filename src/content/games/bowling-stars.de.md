@@ -15,6 +15,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 Bowling Stars ist eine unkomplizierte Zehn‑Pin‑Bowling‑Simulation mit Fokus auf
@@ -22,6 +23,7 @@ Zielen, Kraft und Hook‑Kontrolle. Konstanz und Spare‑Spiel entscheiden über
 hohe Punktzahlen – je besser du Anlauf und Abgabepunkt reproduzieren kannst,
  desto länger wird deine Strike‑Serie.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Pocket anvisieren:** Rechtshänder zielen auf die Tasche zwischen Pin 1–3,
@@ -36,6 +38,7 @@ hohe Punktzahlen – je besser du Anlauf und Abgabepunkt reproduzieren kannst,
 5.  **Schnell anpassen:** Lässt du häufig Splits stehen, verändere Startposition
     oder Hook‑Stärke in kleinen Schritten.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Zielen:** Links/rechts ziehen, um die Linie einzustellen.
@@ -43,16 +46,20 @@ hohe Punktzahlen – je besser du Anlauf und Abgabepunkt reproduzieren kannst,
 - **Hook:** Je nach Version während des Wurfs ziehen/neigen oder vorab eine
   Spinkurve einstellen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:bowling-stars:how-to-reduce-splits-22c680ef -->
 - **F: Wie reduziere ich Splits?**  
   **A:** Achte darauf, die Tasche mit moderatem Winkel zu treffen – nicht zu
   flach, nicht zu steil. Feintuning über Startposition und Hook.
 
+<!-- i18n:faq:id=faq:bowling-stars:any-tip-for-710-5365d339 -->
 - **F: Tipps für 7/10‑Pins?**  
   **A:** Nutze cross‑lane‑Würfe mit deutlichem Winkel; wichtiger als der
   "Hero‑Shot" ist konstantes Spare‑Spiel bei allen anderen Spares.
 
+<!-- i18n:faq:id=faq:bowling-stars:why-do-i-miss-lightheavy-a1826eba -->
 - **F: Warum gehe ich oft zu leicht oder zu voll auf die Tasche?**  
   **A:** Passe pro Frame nur eine Variable leicht an (Startposition ODER Hook),
   statt beides gleichzeitig stark zu verändern.
