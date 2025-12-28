@@ -16,6 +16,7 @@ releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 *Incredibox Creatophobos* est un mod fan‑made sombre et expérimental. Son nom vient de « Creator » et de **Phobos**, la personnification grecque de la peur : tout tourne autour de la crainte, des créatures monstrueuses et d'une horreur oppressante.
@@ -24,6 +25,7 @@ Les beatboxers stylés sont remplacés par des figures mutantes et inquiétantes
 
 Le but n'est plus de créer un tube catchy, mais un **paysage sonore terrifiant**. Les trois bonus cachés prolongent cette esthétique grotesque via des animations cauchemardesques.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu et conseils
 
 Ici, il s'agit moins de chercher l'harmonie que de construire la tension.
@@ -46,6 +48,7 @@ Ici, il s'agit moins de chercher l'harmonie que de construire la tension.
 5.  **Utilise le solo pour décortiquer le bruit**
     Quand le mix devient trop dense, isole un personnage pour comprendre ce qu'il apporte. Cela t'aide à épurer ou renforcer certaines couches.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 Les commandes reprennent l'interface glisser‑déposer classique d'Incredibox.
@@ -66,3 +69,4 @@ Les commandes reprennent l'interface glisser‑déposer classique d'Incredibox.
 
 - **Q : Les bonus sont‑ils difficiles à trouver ?**
   R : Ils demandent un peu de patience, mais une fois que tu as identifié quelques bonnes bases, tu pourras les déclencher en testant calmement différentes combinaisons.
+

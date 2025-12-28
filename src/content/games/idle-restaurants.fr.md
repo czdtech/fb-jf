@@ -17,10 +17,12 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Idle Restaurants est un jeu de gestion idle où tu construis un empire culinaire à partir d'un petit restaurant de quartier. Tu commences avec quelques tables et une équipe modeste, et tu dois réinvestir intelligemment tes bénéfices pour développer ton affaire. En améliorant tes tables, tes chefs et tes serveurs, tu augmentes ton efficacité et tes profits. L'objectif ultime est d'automatiser au maximum la chaîne de service grâce à des managers, puis d'étendre ton empire en ouvrant de nouveaux restaurants toujours plus lucratifs.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu et progression
 
 1.  **Comprendre le flux du restaurant :** les clients arrivent et sont installés → le chef prépare leur plat → le serveur le leur apporte → ils paient l'addition. Chaque étape de cette chaîne peut être améliorée pour augmenter la vitesse ou le montant gagné.
@@ -28,6 +30,7 @@ Idle Restaurants est un jeu de gestion idle où tu construis un empire culinaire
 3.  **Tout automatiser :** la force d'un idle game, c'est de gagner de l'argent même quand tu es absent. Dès que tu le peux, engage des managers pour chaque poste clé. Ils récupéreront les gains et lanceront les actions automatiquement, ce qui assure un revenu constant.
 4.  **Savoir quand s'étendre :** à long terme, ton but est de mettre suffisamment de côté pour ouvrir un nouveau restaurant. Chaque nouvel établissement offre un plafond de revenus bien plus élevé que le précédent. Quand les upgrades dans ton restaurant actuel deviennent très coûteuses pour un gain marginal, commence à économiser pour débloquer le suivant.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 Tout se joue en cliquant ou en touchant des boutons.
@@ -36,13 +39,18 @@ Tout se joue en cliquant ou en touchant des boutons.
 *   **Engager un manager :** clique sur l'icône de manager d'un poste pour l'automatiser.
 *   **Naviguer :** utilise la carte ou la liste de restaurants pour passer rapidement d'un établissement à l'autre.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:idle-restaurants:q-what-is-the-fastest-f3f8e267 -->
 *   **Q : Quelle est la façon la plus rapide de gagner de l'argent ?**
     *   **R :** Réinvestir tes bénéfices dans les améliorations le plus vite possible. Plus tu améliores tôt, plus vite tes revenus augmentent, ce qui accélère toute ta progression — la croissance exponentielle est au cœur du jeu.
 
+<!-- i18n:faq:id=faq:idle-restaurants:q-what-should-i-upgrade-131ac75d -->
 *   **Q : Que dois‑je améliorer en priorité ?**
     *   **R :** Au tout début, ouvre quelques tables supplémentaires et améliore un peu ton chef pour assurer un flux constant de clients servis. Ensuite, essaie de garder cuisine, service et capacité de places à un niveau comparable.
 
+<!-- i18n:faq:id=faq:idle-restaurants:q-why-should-i-buy-17b1a728 -->
 *   **Q : Pourquoi acheter un nouveau restaurant ?**
     *   **R :** Chaque nouvel établissement donne un énorme coup de pouce à ton revenu global et apporte souvent un multiplicateur permanent qui profite aussi aux anciens. C'est le principal moyen de progresser dans le end‑game.
+

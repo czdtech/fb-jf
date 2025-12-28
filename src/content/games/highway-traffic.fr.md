@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Highway Traffic représente un genre populaire de jeux de conduite arcade. Le principe est simple : tu roules sur une autoroute très fréquentée et ton objectif est de parcourir la plus grande distance possible sans entrer en collision avec les autres véhicules, tout en réalisant le meilleur score.
@@ -28,6 +29,7 @@ La plupart des jeux de ce type proposent :
 - **Des véhicules à débloquer et à améliorer** : dépense l’argent gagné pour acheter de nouvelles voitures plus rapides ou avec une meilleure tenue de route, ou pour améliorer vitesse, freinage, maniabilité et apparence.  
 - **Des environnements variés** : différents moments de la journée (jour/nuit) et conditions météo (soleil, pluie…) pour diversifier le challenge.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu et astuces
 
 1.  **Conduis en douceur, pas en à‑coups**  
@@ -48,7 +50,10 @@ La plupart des jeux de ce type proposent :
 6.  **Améliore les bonnes statistiques en premier**  
     Ne sois pas trop avare avec ton argent en jeu. Améliore en priorité la **maniabilité** et les **freins** de ta voiture pour survivre dans la circulation dense. La vitesse est importante, mais ne sert à rien si tu ne peux pas la contrôler.
 
+<!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `A` `D` `Left/Right Arrow` `W` `Up Arrow` `S` `Down Arrow`
 
 Les commandes sont généralement très intuitives, surtout sur mobile.
 
@@ -58,15 +63,18 @@ Les commandes sont généralement très intuitives, surtout sur mobile.
     - **Freinage** : pédale de frein virtuelle à gauche.
 
 - **Sur PC / navigateur :**  
-    - **Direction** : touches `A` / `D` ou `Flèche gauche` / `Flèche droite`.  
-    - **Accélérer** : touche `W` ou `Flèche haut`.  
-    - **Freiner** : touche `S` ou `Flèche bas`.
+    - **Direction** : touches A / D ou Flèche gauche / Flèche droite.  
+    - **Accélérer** : touche W ou Flèche haut.  
+    - **Freiner** : touche S ou Flèche bas.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:highway-traffic:why-cant-i-seem-to-3bcfed79 -->
 **1. Pourquoi je n’atteins jamais la vitesse maximale ?**  
 Dans la plupart des versions, tu dois maintenir l’accélérateur ou rouler vite suffisamment longtemps pour atteindre la vitesse de pointe. Les freinages fréquents ou les petits chocs avec d’autres voitures réduisent ta vitesse.
 
+<!-- i18n:faq:id=faq:highway-traffic:how-do-i-earn-more-7e97df14 -->
 **2. Comment gagner plus d’argent en jeu ?**  
 Les méthodes principales sont :  
 - **Parcourir une grande distance** : plus tu vas loin, plus la récompense de base est élevée.  
@@ -74,11 +82,14 @@ Les méthodes principales sont :
 - **Garder une vitesse élevée** : rester au‑dessus d’une certaine vitesse (par exemple 100 km/h) pendant longtemps rapporte des points/cash supplémentaires.  
 - **Terminer des missions ou défis quotidiens**.
 
+<!-- i18n:faq:id=faq:highway-traffic:which-car-is-the-best-2b470d3e -->
 **3. Quelle est la meilleure voiture ?**  
 Il n’y a pas de voiture parfaite : tout dépend de ton style de conduite.  
 - **Débutants** : privilégie les véhicules avec une bonne maniabilité et une grande stabilité, même s’ils ne sont pas les plus rapides.  
 - **Joueurs expérimentés** : peuvent choisir les voitures les plus rapides, avec une excellente accélération, pour maximiser le potentiel de score.
 
+<!-- i18n:faq:id=faq:highway-traffic:whats-special-about-the-twoway-e8794308 -->
 **4. Qu’a de spécial le mode « Two‑Way » (double sens) ?**  
 Le mode double sens est plus difficile mais souvent plus rentable. Tu dois éviter le trafic circulant dans le même sens que toi et en sens inverse. Rouler longtemps sur la voie opposée rapporte généralement un bonus de score ou un multiplicateur.
+
 

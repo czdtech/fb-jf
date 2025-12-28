@@ -15,6 +15,7 @@ score: 4.5/5  (525 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Introduction détaillée du jeu
 
 Incredibox Fruity est un jeu de stratégie classique en 2D à défilement latéral qui est devenu très populaire pendant l'ère des jeux Flash. Le concept central du jeu est une bataille entre deux bases, l'une appartenant au joueur et l'autre à un adversaire IA. La caractéristique unique et définissante du jeu est son mécanisme d'« évolution ». Les joueurs commencent à l'Âge de pierre (comme des hommes des cavernes) et doivent gagner des points d'expérience (XP) pour progresser à travers cinq ères distinctes : Âge de pierre, Moyen Âge, Ère moderne et finalement l'Ère du futur. Chaque évolution débloque non seulement des unités et tourelles défensives plus puissantes, mais restaure également complètement la vie de ta base. L'objectif ultime est simple : survivre à l'assaut ennemi et détruire leur base.
@@ -38,6 +39,7 @@ Maîtriser Incredibox Fruity nécessite un équilibre entre offensive, défense 
 *   **Tourelles avancées :** Améliore complètement tes tourelles. Les tourelles de dernière ère infligent des dégâts massifs et sont essentielles pour se défendre contre les unités futuristes puissantes de l'ennemi.
 *   **Poussée finale :** Coordonne tes unités les plus puissantes avec ta capacité spéciale pour une poussée finale et décisive pour détruire la base ennemie.
 
+<!-- i18n:section:controls -->
 ### Guide des commandes
 
 Le jeu est presque entièrement contrôlé à la souris.
@@ -47,16 +49,22 @@ Le jeu est presque entièrement contrôlé à la souris.
 *   **Utiliser la capacité spéciale :** Clique sur l'icône de capacité spéciale en haut à droite de l'écran quand elle est prête (pas en recharge).
 *   **Évoluer :** Clique sur le bouton « Evolve » en haut à droite de l'écran une fois que tu as accumulé assez d'XP.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:incredibox-fruity:q-how-do-i-get-9279e7e6 -->
 *   **Q : Comment gagner de l'XP ?**
     *   **R :** Tu gagnes des Points d'Expérience (XP) chaque fois qu'une de tes unités tue une unité ennemie.
 
+<!-- i18n:faq:id=faq:incredibox-fruity:q-what-is-the-best-94cf492b -->
 *   **Q : Quelle est la meilleure unité du jeu ?**
     *   **R :** Bien que cela dépende de la situation, le « Super Soldier » de l'Ère du futur est largement considéré comme l'unité polyvalente la plus puissante grâce à sa haute vie et ses dégâts. En début de partie, le Club Man de base est le plus efficace pour son coût.
 
+<!-- i18n:faq:id=faq:incredibox-fruity:q-is-it-better-to-f6ee451c -->
 *   **Q : Vaut‑il mieux construire plus de tourelles ou entraîner plus d'unités ?**
     *   **R :** En début de partie, un mélange est préférable. Une ou deux tourelles fournissent une défense stable, te permettant d'économiser de l'or pour une armée offensive forte. En fin de partie, avoir des tourelles entièrement améliorées est crucial pour la survie.
 
+<!-- i18n:faq:id=faq:incredibox-fruity:q-where-can-i-play-adcbe59e -->
 *   **Q : Où puis‑je jouer à Incredibox Fruity maintenant que Flash est abandonné ?**
     *   **R :** De nombreux sites de jeux comme CrazyGames, Armor Games et Kongregate hébergent maintenant Incredibox Fruity en utilisant des émulateurs Flash (comme Ruffle), le rendant entièrement jouable dans les navigateurs web modernes. Il existe aussi des versions mobiles disponibles sur les app stores iOS et Android.
+

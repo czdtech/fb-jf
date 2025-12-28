@@ -15,10 +15,12 @@ score: 4.7/5 (2198 votes)
 releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation d'Incredibox Kochari
 
 Incredibox Kochari est un mod fan‑made unique qui fusionne magnifiquement le monde d'Incredibox avec les riches traditions de la culture folklorique arménienne. Inspiré par la danse arménienne énergique et puissante « Kochari », cette version permet aux joueurs d'expérimenter avec une palette sonore profondément ancrée dans la musique folklorique. Elle offre une expérience rythmique et engageante, où tu peux mixer percussions traditionnelles, mélodies et voix pour créer une fusion captivante de sons arméniens ancestraux et de beatbox moderne. Les personnages et animations reflètent également le thème, avec des visuels qui reprennent les mouvements de danse folklorique traditionnelle.
 
+<!-- i18n:section:tips -->
 ### Stratégie de jeu
 
 *   
@@ -26,6 +28,7 @@ Incredibox Kochari est un mod fan‑made unique qui fusionne magnifiquement le m
     2.  **Trouve les bonus** : Comme dans les autres jeux Incredibox, il y a 3 bonus cachés. Expérimente différentes combinaisons de 3 personnages pour débloquer les scènes de chœur animées spéciales.
     3.  **Équilibre les rythmes** : Combine les beats percussifs puissants, qui sont au cœur du Kochari, avec les couches mélodiques et vocales pour créer un arrangement équilibré et puissant.
 
+<!-- i18n:section:controls -->
 ### Guide des commandes
 
 *   Les commandes sont standard pour Incredibox.
@@ -34,11 +37,16 @@ Incredibox Kochari est un mod fan‑made unique qui fusionne magnifiquement le m
     *   **Bonus** : Débloquer un bonus ajoute automatiquement un élément visuel et audio spécial à ton mix.
 
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:incredibox-kochari:q-what-is-kochari-25bf451f -->
 *   **Q : Qu'est‑ce que le Kochari ?**
     *   **R** : Le Kochari est une danse folklorique traditionnelle arménienne, connue pour son énergie et ses mouvements rythmiques puissants. Ce mod est un hommage à ce patrimoine culturel.
+<!-- i18n:faq:id=faq:incredibox-kochari:q-is-this-an-official-59ac97d1 -->
 *   **Q : Est‑ce une version officielle d'Incredibox ?**
     *   **R** : Non, c'est un mod fan‑made créé avec passion par des membres de la communauté.
+<!-- i18n:faq:id=faq:incredibox-kochari:q-how-many-bonuses-are-2ecd0c81 -->
 *   **Q : Combien de bonus y a‑t‑il à débloquer ?**
     *   **R** : Il y a généralement trois animations bonus uniques à découvrir en trouvant les bonnes combinaisons de sons.
+

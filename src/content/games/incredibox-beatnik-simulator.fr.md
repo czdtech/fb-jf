@@ -14,12 +14,14 @@ releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 *Incredibox Beatnik Simulator* est un mod fan‑made très soigné pour le jeu de création musicale Incredibox. Il t’emmène dans les clubs de jazz enfumés des années 1950‑60, avec une esthétique inspirée de la **sous‑culture Beatnik** : jazz, poésie parlée et esprit anticonformiste.
 
 Comme dans Incredibox, tu fais glisser des icônes sur les personnages pour empiler les sons et composer ton propre morceau de jazz cool. L’objectif n’est pas seulement de créer un groove détendu, mais aussi de découvrir les trois combinaisons de sons qui déclenchent les bonus animés secrets, chacun rendant hommage à l’univers Beatnik.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu et conseils
 
 La stratégie dans *Beatnik* consiste à installer une ambiance (« vibe ») fluide et cohérente, puis à traquer les bonus cachés.
@@ -36,6 +38,7 @@ La stratégie dans *Beatnik* consiste à installer une ambiance (« vibe ») flu
 4.  **Ressens l’ambiance**  
     Imagine un café sombre où l’on lit de la poésie en sirotant un espresso. Compose un morceau que tu aimerais entendre dans ce décor. Plus tu entres dans cette esthétique « cool », plus les bonnes combinaisons te viendront naturellement.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 Les commandes reprennent l’interface drag‑and‑drop classique d’Incredibox.
@@ -56,4 +59,5 @@ Les commandes reprennent l’interface drag‑and‑drop classique d’Incredibo
 
 - **Q : Est‑ce un mod officiel ?**  
   R : Non, c’est un mod créé par des fans et non un contenu officiel des développeurs d’Incredibox.
+
 

@@ -13,10 +13,12 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 House Flip est un petit simulateur de rénovation. Tu évalues les problèmes d’une maison (circulation des pièces, équipements abîmés, déco dépassée), tu choisis des travaux dans la limite de ton budget, puis tu revends avec profit. Les flips efficaces trouvent le bon équilibre entre coût et valeur ajoutée : cuisine/salle de bain, peinture et façade offrent souvent le meilleur retour sur investissement.
 
+<!-- i18n:section:tips -->
 ### Comment jouer
 
 1.  **Tri par retour sur investissement** : privilégie la cuisine, les salles de bain, les sols et la peinture ; repousse les pièces secondaires qui ont peu d’impact sur le prix de revente.  
@@ -25,18 +27,24 @@ House Flip est un petit simulateur de rénovation. Tu évalues les problèmes d�
 4.  **Mise en scène** : ajoute quelques éléments de déco pour donner de la chaleur et augmenter la valeur perçue sans exploser le budget.  
 5.  **Contrôle du budget** : garde une marge de sécurité pour les imprévus et évite d’investir plus que ce que le quartier peut raisonnablement absorber.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - Inspecte les pièces, choisis les travaux, place les objets puis valide. Certaines versions imposent un temps d’attente pour la réalisation de gros chantiers.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:house-flip:my-profit-is-low-what-e74a045b -->
 - Q : Mes bénéfices sont faibles, que dois‑je changer ?  
   R : Concentre‑toi sur les travaux à fort retour (cuisine, salles de bain, peinture, façade) et évite les personnalisations trop spécifiques qui n’intéresseront pas tous les acheteurs.
 
+<!-- i18n:faq:id=faq:house-flip:which-upgrade-first-be077b24 -->
 - Q : Par quelle amélioration commencer ?  
   R : En général par la cuisine (plans de travail, électroménager) ou les salles de bain (sanitaires, carrelage), selon leur état de base.
 
+<!-- i18n:faq:id=faq:house-flip:does-exterior-matter-e46af2dd -->
 - Q : L’extérieur a‑t‑il vraiment beaucoup d’importance ?  
   R : Oui. Une couche de peinture, quelques plantes et un bon éclairage d’entrée offrent un gros gain d’attrait pour un coût limité.
+
 

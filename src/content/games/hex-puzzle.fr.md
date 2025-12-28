@@ -17,10 +17,12 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Hex Puzzle revisite le genre des puzzles de blocs sur une grille hexagonale. Ton objectif est de placer différentes formes constituées d'hexagones sur le plateau pour créer des lignes complètes et ininterrompues. Les lignes peuvent se former dans trois directions : horizontale et les deux diagonales. Lorsqu'une ligne est complète, elle disparaît, libérant de la place et te rapportant des points. Sans limite de temps, c'est un jeu de pure stratégie et de planification spatiale.
 
+<!-- i18n:section:tips -->
 ### Comment jouer
 
 1.  **Pense en trois directions :** contrairement à une grille carrée, une grille hexagonale permet de former des lignes dans trois axes. Scrute toujours le plateau non seulement à l'horizontal, mais aussi le long des deux diagonales.
@@ -28,19 +30,25 @@ Hex Puzzle revisite le genre des puzzles de blocs sur une grille hexagonale. Ton
 3.  **Planifie en fonction de tes trois pièces :** tu reçois toujours trois pièces à la fois. Avant d'en poser une, vérifie rapidement si les deux autres ont aussi un emplacement possible. Beaucoup de parties se terminent parce qu'on bloque sans le vouloir la pièce suivante.
 4.  **Cherche les combos :** effacer plusieurs lignes en un seul placement rapporte un bonus de combo. Repère les emplacements qui peuvent compléter deux ou trois lignes en même temps pour un gros gain de score.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 Le jeu se contrôle entièrement en glisser‑déposer.
 
 *   **Placer un bloc :** utilise ta souris ou ton doigt pour faire glisser une pièce depuis l'inventaire en bas de l'écran vers une zone libre de la grille hexagonale.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:hex-puzzle:q-can-i-rotate-the-8b38e9ae -->
 *   **Q : Puis‑je faire pivoter les pièces ?**
     *   **R :** Non. L'impossibilité de les faire pivoter fait partie intégrante du challenge. Tu dois apprendre à les intégrer telles qu'elles sont proposées.
 
+<!-- i18n:faq:id=faq:hex-puzzle:q-how-does-the-game-f20a1993 -->
 *   **Q : Quand la partie se termine‑t‑elle ?**
     *   **R :** La partie s'arrête quand tu reçois un nouveau set de trois pièces et qu'aucune d'elles ne peut être placée sur le plateau.
 
+<!-- i18n:faq:id=faq:hex-puzzle:q-what-is-the-best-4dc5a927 -->
 *   **Q : Comment obtenir un score élevé ?**
     *   **R :** Survis le plus longtemps possible en évitant que la grille ne se remplisse, et privilégie les placements qui effacent plusieurs lignes simultanément afin de profiter au maximum des combos.
+

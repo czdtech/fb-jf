@@ -13,16 +13,19 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 House Of Hazards est un party game multijoueur local qui se déroule dans une maison truffée de pièges. Les joueurs se disputent pour accomplir des tâches toutes simples — faire un café, arroser les plantes, sortir de la maison — pendant que les autres essaient de les envoyer valser en actionnant des toasters catapultes, des lampes qui tombent ou des dalles piégées. Les manches sont courtes, la physique est imprévisible et chaque pièce possède ses propres gags.
 
+<!-- i18n:section:how-to-play -->
 ### Comment jouer
 
 - En mode tâches, termine ta liste d’objectifs avant les autres ; en mode sabotage, déclenche les pièges au moment parfait pour provoquer un maximum de chaos.  
 - Apprends où se trouvent les déclencheurs dans chaque pièce afin de viser les couloirs, portes et escaliers où les joueurs passent forcément.  
 - En équipe, coordonne‑toi avec tes partenaires pour enchaîner plusieurs pièges d’affilée sur la même victime.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - Commandes simples de déplacement/saut/action (touches exactes indiquées par l’hébergeur). Chaque joueur utilise un ensemble de touches différent sur le même clavier ou manette.
@@ -33,14 +36,19 @@ House Of Hazards est un party game multijoueur local qui se déroule dans une ma
 - Saute juste avant les obstacles mobiles pour conserver un peu de vitesse après l’impact au lieu de t’arrêter net.  
 - En saboteur, fais semblant de ne pas déclencher un piège pour pousser les autres à s’avancer, puis active‑le au dernier moment.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:house-of-hazards:how-do-i-win-consistently-cf99b085 -->
 - Q : Comment gagner régulièrement contre plusieurs adversaires ?  
   R : Planifie un itinéraire de tâches qui traverse le moins de pièces piégées possible et évite les zones d’embuscade évidentes.
 
+<!-- i18n:faq:id=faq:house-of-hazards:can-we-customize-rules-or-9c0a821c -->
 - Q : Peut‑on personnaliser les règles ou les équipes ?  
   R : Beaucoup d’hébergeurs proposent des options pour jouer en équipes ou adapter certaines règles de partie.
 
+<!-- i18n:faq:id=faq:house-of-hazards:is-there-a-singleplayer-mode-d65a3d1d -->
 - Q : Existe‑t‑il un mode solo ?  
   R : Certaines versions ajoutent des courses contre des bots ou des défis, mais le jeu reste surtout pensé pour le multijoueur local.
+
 

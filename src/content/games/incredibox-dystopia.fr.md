@@ -17,6 +17,7 @@ releaseDate: 2025-10-10T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### **Introduction au jeu Incredibox « Dystopia »**
 
 *Incredibox Dystopia* est un mod fan‑made très acclamé pour le jeu de création musicale Incredibox. Cette version plonge les joueurs dans un **futur dystopique ou cyberpunk** sombre et éclairé au néon. Les personnages sont stylisés comme des figures futuristes, certains portant des masques ou des capuches, correspondant au thème urbain oppressant et high‑tech.
@@ -25,6 +26,7 @@ Le jeu suit le gameplay classique de glisser‑déposer d'Incredibox. Les joueur
 
 L'objectif est de stimuler la créativité tout en proposant un défi de puzzle. Les joueurs peuvent librement mélanger et superposer les sons pour produire leur propre piste cinématographique au thème cyberpunk. L'élément puzzle consiste à découvrir les trois combinaisons spécifiques qui débloquent les bonus animés secrets, chacun représentant visuellement un aspect central du thème dystopique.
 
+<!-- i18n:section:tips -->
 ### **Stratégies de jeu et astuces**
 
 La stratégie dans *Incredibox Dystopia* consiste à construire un beat électronique puissant et entraînant et à superposer des textures atmosphériques pour créer une ambiance futuriste cohérente.
@@ -43,6 +45,7 @@ La stratégie dans *Incredibox Dystopia* consiste à construire un beat électro
 
 5.  **Chasse aux bonus systématique** : Comme avec les autres versions, la meilleure façon de trouver les bonus cachés est d'être méthodique. Verrouille quelques sons de base qui forment une bonne fondation, puis essaie systématiquement chaque autre icône une par une jusqu'à déclencher une animation.
 
+<!-- i18n:section:controls -->
 ### **Guide des commandes**
 
 Les commandes sont l'interface standard et intuitive de glisser‑déposer des jeux officiels Incredibox.
@@ -52,3 +55,4 @@ Les commandes sont l'interface standard et intuitive de glisser‑déposer des j
 *   **Mute / Unmute** : **Clique** sur un personnage qui joue pour le couper ; clique à nouveau pour le réactiver.
 *   **Solo** : Clique sur le **petit bouton** à côté d'un personnage actif pour couper tous les autres interprètes.
 *   **Enregistrer** : Clique sur le **bouton d'enregistrement** pour démarrer et arrêter l'enregistrement de ta création musicale.
+

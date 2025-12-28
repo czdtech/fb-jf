@@ -18,6 +18,7 @@ releaseDate: 2025-10-10T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### **Présentation du jeu Incredibox Melophobia**
 
 *Incredibox Melophobia* est un mod fan‑made très créatif et surréaliste pour le jeu de création musicale Incredibox. Le nom « Melophobia » signifie « peur de la musique », ce qui pose parfaitement le décor pour le thème **bizarre, expérimental et éclectique** du mod.
@@ -26,6 +27,7 @@ Le jeu remplace les personnages habituels par une galerie d'êtres étranges et 
 
 L'objectif est d'encourager les joueurs à sortir des structures musicales traditionnelles et construire un paysage sonore unique et d'un autre monde. Les animations débloquées promettent d'être aussi surréalistes et imaginatives que les personnages eux‑mêmes.
 
+<!-- i18n:section:tips -->
 ### **Stratégies de jeu et conseils**
 
 La stratégie dans *Incredibox Melophobia* consiste à embrasser l'étrangeté et combiner des sons disparates en un tout étonnamment cohérent.
@@ -42,6 +44,7 @@ La stratégie dans *Incredibox Melophobia* consiste à embrasser l'étrangeté e
 
 4.  **Chasse aux bonus systématique** : Les combos bonus peuvent être moins intuitifs que dans d'autres mods. La meilleure approche est d'être méthodique. Verrouille quelques sons de base qui créent une base intéressante, puis change systématiquement les icônes restantes une par une jusqu'à déclencher un bonus.
 
+<!-- i18n:section:controls -->
 ### **Guide des commandes**
 
 Les commandes suivent l'interface intuitive de glisser‑déposer standard des jeux Incredibox officiels.
@@ -52,13 +55,18 @@ Les commandes suivent l'interface intuitive de glisser‑déposer standard des j
 *   **Solo** : Clique sur le **petit bouton** à côté d'un personnage actif pour couper tous les autres interprètes.
 *   **Enregistrer** : Clique sur le **bouton d'enregistrement** (en haut à droite) pour démarrer et arrêter l'enregistrement de ta création unique.
 
+<!-- i18n:section:faq -->
 ### **Foire aux questions (FAQ)**
 
+<!-- i18n:faq:id=faq:incredibox-melophobia:is-this-an-official-incredibox-12056458 -->
 **1. Est‑ce une version officielle d'Incredibox ?**
 Non. C'est un **mod fan‑made** très imaginatif. Il n'est pas affilié à l'équipe officielle d'Incredibox, So Far So Good.
 
+<!-- i18n:faq:id=faq:incredibox-melophobia:where-can-i-play-this-a4cf171c -->
 **2. Où puis‑je jouer à ce mod ?**
 Tu ne le trouveras pas sur les plateformes officielles. Les mods comme *Melophobia* sont généralement hébergés sur des sites de modding comme **playfiddlebops.com** ou présentés sur YouTube, souvent avec un lien fourni pour jouer au mod directement dans un navigateur web.
 
+<!-- i18n:faq:id=faq:incredibox-melophobia:what-makes-the-melophobia-mod-7ef46b11 -->
 **3. Qu'est‑ce qui rend le mod « Melophobia » spécial ?**
 Son attrait principal vient de son acceptation intrépide du surréel et de l'expérimental. Il repousse les limites du sound design d'Incredibox, offrant une palette bizarre, imprévisible et finalement très créative. C'est un mod parfait pour les joueurs qui veulent créer quelque chose de vraiment unique et non conventionnel.
+

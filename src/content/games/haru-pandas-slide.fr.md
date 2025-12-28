@@ -14,10 +14,12 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Haru Pandas Slide propose des puzzles coulissants basés sur des images. Chaque niveau affiche une illustration de pandas découpée en tuiles mélangées. Tu dois faire glisser ces tuiles le long des lignes et colonnes pour reconstituer l’image d’origine. Les niveaux avancés ajoutent davantage de cases et parfois des tuiles verrouillées qui ne peuvent pas bouger, ce qui oblige à planifier soigneusement tes séquences de déplacement au lieu de jouer au hasard.
 
+<!-- i18n:section:tips -->
 ### Comment jouer
 
 1.  **Commence par le cadre**  
@@ -35,19 +37,25 @@ Haru Pandas Slide propose des puzzles coulissants basés sur des images. Chaque 
 5.  **Vise le minimum de coups**  
     Même si beaucoup de modes ne sont pas chronométrés, le jeu compte souvent tes mouvements. Prends une seconde pour visualiser plusieurs déplacements à l’avance et évite de revenir sans cesse en arrière.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - **Déplacer une tuile** : fais glisser une tuile avec la souris ou ton doigt dans une direction autorisée (ligne ou colonne) jusqu’à la case libre.  
 - Si le jeu le propose, utilise les boutons **Annuler** ou **Reset** pour revenir en arrière ou recommencer un puzzle.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:haru-pandas-slide:i-break-my-solved-area-98f081d0 -->
 - **Q : Chaque fois que j’avance, je défais une zone déjà résolue. Comment éviter ça ?**  
   R : Essaie d’utiliser des cycles de trois tuiles pour faire tourner un petit groupe sans casser la bande déjà en place. Ne bouge pas une tuile bien placée si tu n’as pas prévu comment la remettre rapidement.
 
+<!-- i18n:faq:id=faq:haru-pandas-slide:any-hint-system-83b1a6f0 -->
 - **Q : Y a‑t‑il un système d’indices ?**  
   R : Beaucoup de versions proposent des indices, un aperçu de l’image complète ou des tuiles qui se mettent brièvement à la bonne position. Utilise‑les avec parcimonie pour ne pas gâcher la satisfaction de la résolution.
 
+<!-- i18n:faq:id=faq:haru-pandas-slide:is-there-a-timer-25fbcbdf -->
 - **Q : Le jeu est‑il chronométré ?**  
   R : Souvent, le mode principal est relax, sans compte à rebours strict. Certaines variantes suivent plutôt le nombre de coups ou proposent des défis de temps pour les joueurs qui veulent optimiser leurs solutions.
+
 

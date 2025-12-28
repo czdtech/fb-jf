@@ -17,6 +17,7 @@ releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 *Incredibox Choir* est un mod fan‑made très apprécié d’Incredibox, entièrement centré sur la **musique chorale, l’a cappella et les couleurs classiques**. Les beatboxers habituels laissent la place à un chœur formel, avec des chanteurs en tenue de concert.
@@ -25,6 +26,7 @@ Tu retrouves l’interface classique : une rangée de personnages prêts à chan
 
 Ton objectif est de composer des pièces majestueuses en superposant les voix, tout en découvrant les trois bonus animés cachés qui prolongent l’ambiance grandiose, parfois quasi sacrée, du mod.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu et conseils
 
 L’idée est de travailler les harmonies et les textures vocales plutôt que la rythmique brute.
@@ -47,6 +49,7 @@ L’idée est de travailler les harmonies et les textures vocales plutôt que la
 5.  **Utilise souvent le mode solo**  
     Isole une voix pour écouter ses détails, puis réintègre‑la dans le mix. Cela t’aide à comprendre le rôle de chaque partie dans l’ensemble.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 Les commandes sont identiques au jeu Incredibox officiel.
@@ -67,4 +70,5 @@ Les commandes sont identiques au jeu Incredibox officiel.
 
 - **Q : Y a‑t‑il des paroles compréhensibles ?**  
   R : Certaines voix utilisent des syllabes neutres ou pseudo‑latin typiques des musiques chorales, ce qui laisse plus de liberté à ton imagination.
+
 

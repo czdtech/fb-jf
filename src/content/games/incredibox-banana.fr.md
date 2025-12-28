@@ -13,6 +13,7 @@ releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Ce mod fan‑made très populaire pour Incredibox rend hommage au jeu VR à succès **Incredibox Banana**. Les beatboxers habituels sont remplacés par une bande de gorilles assis sur un tronc au milieu de la jungle, ce qui reprend parfaitement l’esthétique de l’œuvre originale.
@@ -21,6 +22,7 @@ Le gameplay suit la formule classique d’Incredibox : tu disposes d’une vingt
 
 L’objectif est de permettre aux fans d’Incredibox et d’Incredibox Banana d’exprimer leur créativité tout en s’amusant à débloquer les bonus animés secrets, eux aussi inspirés de la culture et des légendes du mod Banana.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu et conseils
 
 La clé est de superposer intelligemment les sons emblématiques et les références mème pour créer un morceau fun et énergique.
@@ -40,6 +42,7 @@ La clé est de superposer intelligemment les sons emblématiques et les référe
 4.  **Chasse méthodiquement les bonus**  
     Pour trouver les trois bonus animés, adopte une approche systématique : verrouille d’abord quelques sons de base que tu aimes, puis remplace progressivement les autres icônes un par un jusqu’à déclencher une animation. Note les combinaisons qui fonctionnent pour les retrouver facilement.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 Les commandes reprennent l’interface drag‑and‑drop intuitive des jeux Incredibox officiels.
@@ -49,4 +52,5 @@ Les commandes reprennent l’interface drag‑and‑drop intuitive des jeux Incr
 - **Mute / Unmute** : clique sur un gorille pour le couper, clique à nouveau pour le réactiver.  
 - **Solo** : utilise le petit bouton à côté d’un gorille pour ne faire entendre que lui.  
 - **Enregistrer** : clique sur le bouton d’enregistrement (en haut à droite) pour démarrer et arrêter la capture de ton mix.
+
 

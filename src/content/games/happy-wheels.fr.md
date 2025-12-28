@@ -13,6 +13,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Happy Wheels est un jeu de plateforme à défilement horizontal basé sur la physique, connu pour sa violence graphique et son humour noir. Le but n’est pas seulement de « gagner », mais de survivre. Tu contrôles différents personnages improbables, chacun avec un véhicule aussi dangereux que ridicule : un père à vélo avec son fils, un homme en fauteuil roulant à réaction, un utilisateur de Segway, etc.
@@ -21,6 +22,7 @@ Dans la plupart des niveaux, ton objectif est de traverser un parcours d’obsta
 
 Un autre aspect culte de Happy Wheels est la quantité énorme de contenus créés par les joueurs. Grâce à un éditeur de niveaux très puissant, la communauté conçoit et partage des parcours complexes, créatifs… et souvent sadiques. Résultat : une quasi infinité de niveaux, allant de simples courses à des puzzles élaborés et des pièges « impossibles ».
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu et astuces
 
 1.  **Contrôle ta vitesse**  
@@ -44,35 +46,45 @@ Un autre aspect culte de Happy Wheels est la quantité énorme de contenus cré�
 6.  **Explore les différents types de niveaux**  
     Ne te limite pas aux niveaux mis en avant. Utilise le navigateur pour découvrir d’autres cartes. Cherche des mots‑clés comme « puzzle », « rope swing » ou « BMX » pour trouver des créations plus originales de la communauté.
 
+<!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Up Arrow` `Down Arrow` `Left Arrow` `Right Arrow` `Space Bar` `Shift` `Ctrl` `Z`
 
 Les commandes de base sont similaires pour tous les personnages, même si certaines capacités spéciales varient.
 
 **Contrôles principaux :**
-- **Accélérer** : `Flèche haut`  
-- **Freiner / Reculer** : `Flèche bas`  
-- **Se pencher vers la gauche / l’arrière** : `Flèche gauche`  
-- **Se pencher vers la droite / l’avant** : `Flèche droite`  
+- **Accélérer** : Flèche haut  
+- **Freiner / Reculer** : Flèche bas  
+- **Se pencher vers la gauche / l’arrière** : Flèche gauche  
+- **Se pencher vers la droite / l’avant** : Flèche droite  
 
 **Touches d’action :**
-- **Capacité spéciale principale** : `Espace` (par exemple, le jet du fauteuil roulant ou le saut du Segway)  
-- **Capacités secondaires** : `Shift` et `Ctrl` (utilisées pour bouger les jambes ou les bras après l’éjection, selon le personnage)  
-- **Éjection** : `Z` (abandonner le véhicule)  
+- **Capacité spéciale principale** : Espace (par exemple, le jet du fauteuil roulant ou le saut du Segway)  
+- **Capacités secondaires** : Shift et Ctrl (utilisées pour bouger les jambes ou les bras après l’éjection, selon le personnage)  
+- **Éjection** : Z (abandonner le véhicule)  
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:happy-wheels:why-is-this-game-so-d9b381ef -->
 **1. Pourquoi le jeu est‑il aussi violent ?**  
 La violence graphique fait partie de l’identité de Happy Wheels et de son humour noir. Le moteur de ragdoll basé sur la physique est conçu pour être à la fois choquant et absurde.
 
+<!-- i18n:faq:id=faq:happy-wheels:can-i-still-win-if-ad3eb2f5 -->
 **2. Puis‑je gagner même si mon personnage est gravement blessé ?**  
 Oui. Dans la plupart des niveaux, il suffit que le torse du personnage principal franchisse la ligne d’arrivée. Tu peux donc terminer un niveau après avoir perdu tous tes membres.
 
+<!-- i18n:faq:id=faq:happy-wheels:how-do-i-find-good-2ed6f973 -->
 **3. Comment trouver des niveaux amusants ou populaires ?**  
 Utilise le navigateur de niveaux intégré. Tu peux jouer aux niveaux « Featured » sélectionnés par la communauté, parcourir les niveaux les plus joués ou rechercher des cartes par mot‑clé ou par créateur.
 
+<!-- i18n:faq:id=faq:happy-wheels:some-characters-or-levels-are-d0eea229 -->
 **4. Certains personnages ou niveaux ne sont pas disponibles, comment les débloquer ?**  
 Sur certaines versions gratuites en ligne, certains personnages ou l’éditeur peuvent être limités. La version complète du jeu offre généralement l’accès à tous les personnages et à l’éditeur de niveaux.
 
+<!-- i18n:faq:id=faq:happy-wheels:the-game-is-running-very-d9ccdac3 -->
 **5. Le jeu rame ou lag, que puis‑je faire ?**  
 Les grands niveaux remplis d’objets peuvent être gourmands en ressources. Ferme les autres onglets et applications pour libérer de la mémoire. Essaye un autre navigateur ou un ordinateur plus puissant si le problème persiste.
+
 

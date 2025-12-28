@@ -14,10 +14,12 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Hoop Stars est un duel d’anneaux rapide. Tu fais tourner un cerceau autour d’un piquet central puis tu le lances pour qu’il franchisse les obstacles et vienne se poser proprement autour du piquet. Les flips réussis marquent des points, alors que les ratés te font perdre un temps précieux. En affrontement, ce sont la régularité du timing et de bons angles de lancement qui font la différence, plus que le simple spam de touches.
 
+<!-- i18n:section:tips -->
 ### Comment jouer
 
 1.  **Pré‑rotation** : fais tourner ton anneau jusqu’à un angle confortable avant de le lancer, plutôt que de flipper depuis une position aléatoire.  
@@ -26,18 +28,24 @@ Hoop Stars est un duel d’anneaux rapide. Tu fais tourner un cerceau autour d�
 4.  **Gère les rebonds** : si un anneau rebondit et part dans tous les sens, évite de relancer immédiatement dans le chaos ; reprends une position stable avant de tenter un nouveau flip.  
 5.  **PvP** : en duel, feinte des lancers pour pousser ton adversaire à rater, puis place ton flip au moment où il est désynchronisé.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - Maintiens pour faire tourner le cerceau, relâche pour le lancer. Certaines versions utilisent deux boutons distincts pour la rotation et le flip.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:hoop-stars:my-flips-always-rim-out-2a8e4776 -->
 - Q : Mes lancers finissent toujours sur le bord du piquet, que faire ?  
   R : Ajuste le moment où tu relâches (plus tôt ou plus tard) et réduis la vitesse de rotation avant le lancer pour obtenir des arcs plus réguliers.
 
+<!-- i18n:faq:id=faq:hoop-stars:is-button-mashing-viable-93bc88e9 -->
 - Q : Est‑ce que marteler les boutons fonctionne ?  
   R : Pas vraiment. Des préparations propres et un timing constant sont bien plus efficaces que le spam.  
 
+<!-- i18n:faq:id=faq:hoop-stars:local-multiplayer-e67a3592 -->
 - Q : Y a‑t‑il un multijoueur local ?  
   R : Sur beaucoup d’hébergeurs, un mode 2 joueurs local est disponible avec des commandes miroir pour chaque joueur.
+
 

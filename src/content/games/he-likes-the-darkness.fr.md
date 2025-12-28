@@ -13,10 +13,12 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 He Likes The Darkness est un platformer minimaliste à fort contraste, où la pénombre et les pièges mobiles définissent de petits niveaux exigeants. La visibilité réduite, les scies et piques en mouvement et les orbes à collecter te forcent à maîtriser la longueur de tes sauts, les micro‑pauses et la gestion de la vitesse pour garder un bon flux de jeu.
 
+<!-- i18n:section:tips -->
 ### Comment jouer
 
 1.  **Repère le terrain avec de petits sauts**  
@@ -34,18 +36,24 @@ He Likes The Darkness est un platformer minimaliste à fort contraste, où la p�
 5.  **Enchaîne les essais rapides**  
     Les niveaux sont courts : accepte de mourir souvent et relance immédiatement. Les redémarrages rapides construisent ta mémoire musculaire pour les segments difficiles.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
-- **Déplacement / Saut** : touches fléchées ou `WASD` pour bouger, `Espace` pour sauter (certains niveaux permettent un double saut selon les règles du stage).
+- **Déplacement / Saut** : touches fléchées ou WASD pour bouger, Espace pour sauter (certains niveaux permettent un double saut selon les règles du stage).
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:he-likes-the-darkness:i-cant-see-edges-clearly-bc6539af -->
 - **Q : Je ne vois pas bien les bords de plateformes, des conseils ?**  
   R : Utilise de très petits sauts pour « sonder » le vide et ajuste la luminosité de ton écran ou les options du jeu si elles existent.
 
+<!-- i18n:faq:id=faq:he-likes-the-darkness:do-i-need-all-orbs-d830263b -->
 - **Q : Dois‑je ramasser toutes les orbes ?**  
   R : Certains niveaux les rendent obligatoires pour ouvrir la sortie, d’autres les laissent comme objectif secondaire. Si tu veux le 100 %, il faudra toutes les récupérer.
 
+<!-- i18n:faq:id=faq:he-likes-the-darkness:any-trick-for-moving-saws-aa464e48 -->
 - **Q : Comment gérer les scies en mouvement ?**  
   R : Compte mentalement les battements pendant leurs allers‑retours et engage‑toi toujours sur la même phase du cycle. Cela stabilise ton timing et réduit les erreurs.
+
 

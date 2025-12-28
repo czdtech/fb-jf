@@ -12,7 +12,7 @@ tags:
   - incredibox cool as ice
   - incredibox cool as ice online
 score: 4.9/5  (724 votes)
-releaseDate: 2025-10-10T00:00:00.000Z
+releaseDate: 2025-12-04
 ---
 
 ### Introduction à Incredibox Cool As Ice
@@ -27,6 +27,7 @@ Dans le mod Cool as Ice, les personnages familiers d'Incredibox ont été transf
  
 ---
  
+<!-- i18n:section:tips -->
 ### Comment jouer, facile à prendre en main :
  
  - **Choisis tes personnages glacés :** Commence par sélectionner parmi la nouvelle gamme de personnages givrés. Chacun apporte une nouvelle variation des sons classiques, avec un frisson hivernal. Il y a plus de 20 personnages au thème glacé dans le jeu, chacun avec sa propre personnalité.
@@ -49,3 +50,4 @@ Dans le mod Cool as Ice, les personnages familiers d'Incredibox ont été transf
 ### En conclusion:
  
 Le mod Incredibox Cool as Ice est parfait pour les fans qui aiment à la fois la création musicale et les thèmes saisonniers. Plonge dans cette version givrée pour découvrir Incredibox comme jamais auparavant, apportant une touche fraîche à tes créations sonores. Si tu veux essayer d'autres jeux Sprunki, comme Sprunki Infection ou Sprunki CorruptBox : Cool As Ice, va les explorer !
+

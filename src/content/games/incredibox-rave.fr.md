@@ -16,12 +16,14 @@ releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### **Présentation du jeu Incredibox Rave**
 
 *Incredibox Rave* est un mod fan‑made visuellement frappant pour le jeu de création musicale Incredibox. Cette version transporte les joueurs directement dans l'atmosphère énergique d'une **rave ou d'une boîte de nuit**, complète avec de grandes enceintes, une boule disco et des spots dynamiques. Les personnages sont stylisés comme des silhouettes ou des figures aux contours néon, ressemblant à des DJs et des clubbers.
 
 Le jeu utilise le gameplay classique de glisser‑déposer d'Incredibox. Les joueurs disposent d'une palette de 20 icônes sonores, représentées par des formes géométriques abstraites et des lèvres stylisées. En assignant ces icônes aux sept interprètes, les joueurs peuvent composer leurs propres pistes haute énergie inspirées de divers genres de **musique électronique dance (EDM), comme la techno, la house et le disco**.
 
+<!-- i18n:section:tips -->
 ### **Stratégies de jeu et conseils**
 
 La stratégie dans *Incredibox Rave* consiste à superposer les différents éléments électroniques pour construire une piste qui pourrait être jouée dans un vrai club.
@@ -40,6 +42,7 @@ La stratégie dans *Incredibox Rave* consiste à superposer les différents él�
 
 5.  **Chasse aux bonus systématique** : Pour trouver les bonus secrets, sois méthodique. Établis un beat et une basse solides, puis change systématiquement les icônes de mélodie et de voix une par une jusqu'à déclencher une des animations à thème rave.
 
+<!-- i18n:section:controls -->
 ### **Guide des commandes**
 
 Les commandes suivent l'interface intuitive de glisser‑déposer standard des jeux Incredibox officiels.
@@ -50,20 +53,26 @@ Les commandes suivent l'interface intuitive de glisser‑déposer standard des j
 *   **Solo** : Clique sur le **petit bouton** à côté d'un personnage actif pour couper tous les autres interprètes.
 *   **Enregistrer** : Clique sur le **bouton d'enregistrement** pour démarrer et arrêter l'enregistrement de ton hymne rave.
 
+<!-- i18n:section:faq -->
 ### **Foire aux questions (FAQ)**
 
+<!-- i18n:faq:id=faq:incredibox-rave:is-this-an-official-incredibox-12056458 -->
 **1. Est‑ce une version officielle d'Incredibox ?**
 
 Non. D'après son style unique et sa distribution, c'est un **mod fan‑made**. Il n'est pas affilié à l'équipe officielle d'Incredibox, So Far So Good.
 
+<!-- i18n:faq:id=faq:incredibox-rave:where-can-i-play-this-a4cf171c -->
 **2. Où puis‑je jouer à ce mod ?**
 
 Tu ne le trouveras pas sur les plateformes officielles. Les mods comme *Rave* sont généralement hébergés sur des sites de modding comme **playfiddlebops.com** ou présentés sur YouTube, souvent avec un lien fourni pour jouer au mod directement dans un navigateur web.
 
+<!-- i18n:faq:id=faq:incredibox-rave:what-makes-the-rave-mod-87025ce1 -->
 **3. Qu'est‑ce qui rend le mod « Rave » spécial ?**
 
 Son attrait principal est son thème de boîte de nuit immersif et haute énergie. La combinaison des visuels néon, des personnages style DJ et d'une palette de musique électronique bien produite crée une expérience moderne et excitante pour les fans de musique dance.
 
+<!-- i18n:faq:id=faq:incredibox-rave:are-the-bonus-solutions-for-8ff5fe53 -->
 **4. Les solutions des bonus pour « Rave » sont‑elles disponibles en ligne ?**
 
 Oui. Si tu as du mal à trouver les combinaisons pour les animations, une recherche rapide de « *Incredibox Rave combos* » sur YouTube te fournira probablement les solutions.
+
