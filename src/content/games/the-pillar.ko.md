@@ -5,17 +5,18 @@ title: The Pillar 더 필라
 description: >-
   The Pillar는 신비로운 섬과 탑을 돌아다니며 각종 기둥 퍼즐을 푸는 1인칭 퍼즐 어드벤처 게임입니다. 환경에 숨은 힌트를 찾아 기호와
   패턴을 해독하세요.
-iframeSrc: 'https://pillar.h5games.usercontent.goog/v/demo/'
+iframeSrc: 'https://m.igroutka.ru/g-1/53/ThePillar/'
 thumbnail: /new-images/thumbnails/the-pillar.jpg
 tags:
   - puzzle
   - adventure
   - exploration
-score: 4.0/5  (540 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
+score: 3.8/5  (802 votes)
+releaseDate: 2025-08-16
 ---
 
 
+<!-- i18n:section:introduction -->
 ### 게임 소개
 
 The Pillar는 신비로운 세계를 1인칭 시점으로 탐험하며, 기둥과 벽에 새겨진
@@ -38,12 +39,16 @@ The Pillar는 신비로운 세계를 1인칭 시점으로 탐험하며, 기둥�
   퍼즐 기둥에 다가가면 상호작용할 수 있으며, 올바른 순서나 모양을 입력하면
   새로운 길이 열립니다.
 
+<!-- i18n:section:controls -->
 ### 조작 방법 안내
+<!-- i18n:controls:keys -->
+- 키(정렬)： `WASD` `Arrow Keys` `Left Mouse Button`
 
-- 이동: `WASD`
+- 이동: WASD
 - 시점 이동: 마우스
-- 상호작용: `E` 또는 클릭
+- 상호작용: E 또는 클릭
 
+<!-- i18n:section:faq -->
 ### 자주 묻는 질문(FAQ)
 
 **어떤 종류의 퍼즐이 나오나요?**
@@ -57,3 +62,4 @@ The Pillar는 신비로운 세계를 1인칭 시점으로 탐험하며, 기둥�
 **난이도는 어떤가요?**
 
 퍼즐 난이도는 비교적 쉬운 것부터 꽤 어려운 것까지 다양합니다. 상황을 관찰해 단서를 모으고, 여러 방식으로 시도해 보는 것이 도움이 됩니다.
+

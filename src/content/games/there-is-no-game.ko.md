@@ -5,17 +5,18 @@ title: 'There Is No Game: Classic 디어 이즈 노 게임: 클래식'
 description: >-
   There Is No Game: Classic은 "게임이 아니다"라고 우기며 플레이어를 막는 화면과
   장난스러운 내레이션을 특징으로 하는 메타 퍼즐 게임입니다.
-iframeSrc: 'https://thereisnogame.h5games.usercontent.goog/v/web/'
+iframeSrc: 'https://webglmath.github.io/there-is-no-game/'
 thumbnail: /new-images/thumbnails/there-is-no-game.jpg
 tags:
   - puzzle
   - meta
   - funny
-score: 4.8/5  (1500 votes)
+score: 3.9/5  (1003 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### 게임 소개
 
 There Is No Game: Classic은 제목 그대로 "이건 게임이 아니다"라고 주장하는
@@ -34,12 +35,14 @@ There Is No Game: Classic은 제목 그대로 "이건 게임이 아니다"라고
   화면 요소를 드래그하거나 떨어뜨리고, 여러 번 클릭해 보는 등 다양한
   상호작용을 시도해 보세요.
 
+<!-- i18n:section:controls -->
 ### 조작 방법 안내
 
 - 마우스로 화면 곳곳을 클릭·드래그해 상호작용합니다.
 - 일부 퍼즐은 여러 번 반복 클릭이나, 예상치 못한 위치를 건드리는 행동이
   필요할 수 있습니다.
 
+<!-- i18n:section:faq -->
 ### 자주 묻는 질문(FAQ)
 
 **Q: 정말로 "게임이 아닌" 건가요?**
@@ -49,3 +52,4 @@ A: 이름은 그렇지만, 사실은 매우 창의적인 퍼즐 게임입니다.
 **Q: 막혔을 때는 어떻게 해야 하나요?**
 A: 화면에 보이는 거의 모든 요소를 의심해 보세요. 텍스트, 버튼, 테두리 등
    평소에는 꾸미기 요소로 보이는 것들도 실제로는 퍼즐의 일부일 수 있습니다.
+

@@ -5,21 +5,23 @@ title: The Jigsaw Game 더 직소 게임
 description: >-
   The Jigsaw Game은 다양한 난이도의 그림 퍼즐을 맞추는 직소 퍼즐 게임입니다. 조각을 돌려 제자리로 옮기며, 완성된 일러스트를
   감상해 보세요.
-iframeSrc: 'https://jigsawgame.h5games.usercontent.goog/v/1a2b3c4d5e6f/'
+iframeSrc: 'https://2avtkm5bj06f0.h5games.usercontent.goog/v/66fijarm4ldv0/'
 thumbnail: /new-images/thumbnails/the-jigsaw-game.png
 tags:
   - jigsaw
   - puzzle
   - casual
-score: 4.1/5  (760 votes)
+score: 4.3/5  (2146 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### 게임 상세 소개
 
 The Jigsaw Game은 다양한 이미지와 조각 수를 고를 수 있는 디지털 직소 퍼즐입니다. 먼저 테두리를 맞추고, 색/패턴별로 조각을 모아 구역을 완성한 뒤 합치면 효율적입니다.
 
+<!-- i18n:section:tips -->
 ### 플레이 전략 & 공략
 
 1.  테두리부터: 가장자리 조각으로 외곽 프레임을 먼저 완성합니다.
@@ -28,14 +30,20 @@ The Jigsaw Game은 다양한 이미지와 조각 수를 고를 수 있는 디지
 4.  회전이 필요하면: 회전이 있는 모드에서는 방향을 맞추며 진행합니다.
 5.  확대/이동 활용: 보드가 복잡할수록 확대/이동 기능으로 정확도를 높입니다.
 
+<!-- i18n:section:controls -->
 ### 조작 가이드
 
 - 조각을 드래그해 이동합니다. 모드가 지원하면 회전도 가능합니다.
 - UI 버튼이나 제스처로 확대/이동(팬)을 할 수 있습니다.
 - 스냅: 올바른 위치에 두면 조각이 자동으로 붙는 경우가 많습니다.
 
+<!-- i18n:section:faq -->
 ### 자주 묻는 질문(FAQ)
 
+<!-- i18n:faq:id=faq:the-jigsaw-game:are-there-timers-f350f01a -->
 - 타이머가 있나요? 모드마다 다르며, 대부분은 시간 제한 없이 즐길 수 있습니다.
+<!-- i18n:faq:id=faq:the-jigsaw-game:can-i-change-piece-count-ac3c2e46 -->
 - 조각 개수를 바꿀 수 있나요? 보통 가능합니다. 세션 길이에 맞는 난이도를 고르세요.
+<!-- i18n:faq:id=faq:the-jigsaw-game:any-photo-variety-5449029a -->
 - 이미지 종류가 다양하나요? 풍경, 동물, 계절 테마 등 다양한 그림이 제공되는 경우가 많습니다.
+

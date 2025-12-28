@@ -5,14 +5,14 @@ title: 'The Haze Pixelbox 더 헤이즈 픽셀박스'
 description: >-
   The Haze Pixelbox는 픽셀 아트 스타일의 어두운 퍼즐/플랫폼 게임으로, 안개 낀
   세계를 탐험하며 장치를 작동시키고 길을 찾아 나가는 게임입니다.
-iframeSrc: 'https://haze-pixelbox.h5games.usercontent.goog/v/demo/'
+iframeSrc: 'https://turbowarp.org/1020955547/embed'
 thumbnail: /new-images/thumbnails/the-haze-pixelbox.png
 tags:
   - puzzle
   - platformer
   - adventure
-score: 4.0/5  (210 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+score: 3.9/5  (132 votes)
+releaseDate: 2025-12-04
 ---
 
 
@@ -40,3 +40,4 @@ The Haze Pixelbox는 안개와 그림자로 가득한 세계를 탐험하는 픽
 
 **Q: 어디로 가야 할지 모르겠어요.**
 A: 이미 지나친 구역에 사용하지 않은 스위치나 레버가 없는지 다시 확인해 보세요. 화면 가장자리 쪽 어두운 부분을 꼼꼼히 살펴보면 새로운 길이 보일 수 있습니다.
+

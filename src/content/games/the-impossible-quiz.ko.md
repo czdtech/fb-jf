@@ -5,17 +5,18 @@ title: The Impossible Quiz 디 임파서블 퀴즈
 description: >-
   The Impossible Quiz는 의도적으로 말도 안 되는 함정과 트릭 문제로 가득한 퀴즈 게임입니다. 상식에만 의존하지 말고, 엉뚱한
   발상과 눈치로 정답을 찾아내야 합니다.
-iframeSrc: 'https://www.crazygames.com/embed/the-impossible-quiz'
+iframeSrc: 'https://flash-cdn.blogspot.com/2021/06/the-impossible-quiz.html'
 thumbnail: /new-images/thumbnails/the-impossible-quiz.jpg
 tags:
   - quiz
   - puzzle
   - funny
-score: 4.0/5  (1200 votes)
+score: 4.8/5  (1294 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### 게임 소개
 
 The Impossible Quiz는 제목 그대로 "불가능해 보이는" 문제들로 구성된 퀴즈 게임입니다.
@@ -31,10 +32,12 @@ The Impossible Quiz는 제목 그대로 "불가능해 보이는" 문제들로 �
 - **스킵(Skips):** 제한된 횟수의 스킵으로 문제를 건너뛸 수 있습니다. 마지막 문제 등 꼭 필요한 구간에 아껴 두세요.
 - **체크포인트(모론 마크):** 일부 버전에서는 체크포인트처럼 작동해, 실패해도 특정 지점부터 다시 시작할 수 있습니다.
 
+<!-- i18n:section:controls -->
 ### 조작 방법 안내
 
 - **마우스:** 보기 또는 화면의 요소를 클릭해 정답을 선택합니다.
 
+<!-- i18n:section:faq -->
 ### 자주 묻는 질문(FAQ)
 
 **Q: 정말로 풀 수 있는 게임인가요?**
@@ -45,3 +48,4 @@ A: 네, 대부분의 문제는 힌트와 시행착오를 통해 풀 수 있도�
 **Q: 정답이 너무 말도 안 되는데요?**
 A: 이 게임의 묘미가 바로 그 황당함에 있습니다. 논리 대신 장난기와 유머를
    즐긴다고 생각하고 플레이하면 더 재밌게 느껴집니다.
+
