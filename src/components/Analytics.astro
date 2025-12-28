@@ -129,14 +129,24 @@
       }
     }
 
-    function fetchCountryByCloudflareTrace() {
-      return fetch('https://www.cloudflare.com/cdn-cgi/trace', { cache: 'no-store' })
+    function extractCountryFromTrace(txt) {
+      const m = String(txt || '').match(/(?:^|\r?\n)loc=([A-Z]{2})(?:\r?\n|$)/);
+      return m ? m[1] : null;
+    }
+
+    function fetchCountryFromTraceUrl(url) {
+      return fetch(url, { cache: 'no-store' })
         .then((res) => (res && res.ok ? res.text() : ''))
-        .then((txt) => {
-          const m = String(txt || '').match(/(?:^|\\n)loc=([A-Z]{2})(?:\\n|$)/);
-          return m ? m[1] : null;
-        })
+        .then(extractCountryFromTrace)
         .catch(() => null);
+    }
+
+    function fetchCountryByTrace() {
+      // 优先同域（减少被拦截概率；prod 一定在 Cloudflare 上）；本地开发再回退到 cloudflare.com
+      return fetchCountryFromTraceUrl('/cdn-cgi/trace').then((country) => {
+        if (country) return country;
+        return fetchCountryFromTraceUrl('https://www.cloudflare.com/cdn-cgi/trace');
+      });
     }
 
     window.__fbLoadAnalytics = loadGA;
@@ -168,10 +178,10 @@
       return;
     }
 
-    fetchCountryByCloudflareTrace().then((country) => {
+    fetchCountryByTrace().then((country) => {
       if (country) setGeoCache(country);
       const consentRequired = isConsentRequiredForCountry(country);
-      publishConsentScope({ consentRequired, country, source: country ? 'cloudflare-trace' : 'geo-unknown' });
+      publishConsentScope({ consentRequired, country, source: country ? 'trace' : 'geo-unknown' });
       if (!consentRequired) {
         loadGA();
         loadAdsense();
