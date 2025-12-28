@@ -18,6 +18,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada
 
 2048 Giant es una variante del clásico 2048, pero jugada en una cuadrícula más
@@ -25,6 +26,7 @@ amplia. El objetivo sigue siendo el mismo: deslizar fichas numeradas para
 fusionarlas y crear la casilla 2048. Sin embargo, el tablero grande añade una
 capa extra de dificultad y exige una planificación más profunda.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 Las estrategias básicas de 2048 siguen funcionando aquí, pero hay que
@@ -42,6 +44,7 @@ adaptarlas al tamaño del tablero.
     posibilidades… y más maneras de cometer errores. Antes de deslizar, imagina
     cómo se recolocarán las fichas.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 *   **Teclado:** Usa las teclas de flecha para mover todas las fichas de la
@@ -49,10 +52,14 @@ adaptarlas al tamaño del tablero.
 *   **Pantalla táctil:** En dispositivos móviles, desliza en la dirección en la
     que quieras que se muevan las fichas.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:2048-giant:q-what-is-the-goal-f678de2f -->
 *   **P: ¿Cuál es el objetivo de 2048 Giant?**
     *   **R:** Fusionar fichas del mismo número hasta crear la casilla 2048. Después puedes seguir jugando para intentar conseguir una puntuación aún más alta.
 
+<!-- i18n:faq:id=faq:2048-giant:q-how-is-it-different-ae89eec7 -->
 *   **P: ¿En qué se diferencia del 2048 clásico?**
     *   **R:** Se juega en una cuadrícula más grande, lo que alarga la partida y exige más planificación y control del tablero.
+

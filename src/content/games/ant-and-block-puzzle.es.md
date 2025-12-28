@@ -16,12 +16,14 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada
 
 Ant and Block Puzzle es un desafío casual de colocación de formas. Recibes
 bloques con distintas siluetas y debes encajarlos en el tablero, completando
 filas o zonas para liberar espacio y evitando que el tablero se llene.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego y recorrido
 
 1.  **Reserva las esquinas para piezas en L o T:** Estas formas encajan muy bien
@@ -38,6 +40,7 @@ filas o zonas para liberar espacio y evitando que el tablero se llene.
     corregir un par de jugadas temprano que descubrir un bloqueo inevitable más
     adelante.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - **Colocar bloques:** Arrastra las piezas hasta su posición. Si el modo lo
@@ -45,15 +48,20 @@ filas o zonas para liberar espacio y evitando que el tablero se llene.
 - **Deshacer/Reiniciar:** Usa los botones de la interfaz para deshacer un turno
   o comenzar una partida nueva.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:ant-and-block-puzzle:no-fits-leftwhat-now-5a203cd7 -->
 - **No me queda ningún hueco válido, ¿qué hago?**  
   Usa la función de deshacer si está disponible o reinicia la partida probando
   una apertura distinta.
 
+<!-- i18n:faq:id=faq:ant-and-block-puzzle:rotations-634fab63 -->
 - **¿Siempre se pueden rotar las piezas?**  
   Depende de la variante; revisa los iconos o el tutorial del juego.
 
+<!-- i18n:faq:id=faq:ant-and-block-puzzle:endless-ea2091be -->
 - **¿El modo es infinito?**  
   En muchas versiones sí: el objetivo es conseguir la máxima puntuación posible
   antes de quedarte sin sitio.
+

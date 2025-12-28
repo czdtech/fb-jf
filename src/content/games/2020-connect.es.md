@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada
 
 2020 Connect es un juego de combinar números tranquilo pero muy estratégico.
@@ -24,6 +25,7 @@ siguiente, abrir huecos en el tablero y preparar reacciones en cadena. Una buena
 planificación del espacio y "pensar a futuro" son la clave para mantener la
 partida viva y alcanzar puntuaciones muy altas.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego y recorrido
 
 1.  **Construye un centro fuerte:** Mantén los valores altos cerca del centro
@@ -37,6 +39,7 @@ partida viva y alcanzar puntuaciones muy altas.
 5.  **Fusiona paso a paso:** No te obsesiones con llegar al valor máximo de
     golpe; las fusiones intermedias conservan más opciones de movimiento.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - **Dibujar:** Haz clic o toca y arrastra para conectar números iguales siguiendo
@@ -45,16 +48,20 @@ partida viva y alcanzar puntuaciones muy altas.
   para corregir un trazo mal hecho.
 - **Reiniciar:** Puedes empezar una nueva partida en cualquier momento.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:2020-connect:i-run-out-of-spacewhat-0acad0d6 -->
 - **Me quedo sin espacio, ¿qué hago?**  
   En lugar de perseguir siempre una sola gran fusión, céntrate en limpiar una
   fila o columna para recuperar movilidad.
 
+<!-- i18n:faq:id=faq:2020-connect:is-there-a-win-condition-81083b72 -->
 - **¿Tiene condición de victoria?**  
   Normalmente el modo es infinito; el objetivo es alcanzar ciertos valores
   objetivo o superar tus mejores puntuaciones.
 
+<!-- i18n:faq:id=faq:2020-connect:any-pattern-tips-24b51a6c -->
 - **¿Algún consejo de patrones?**  
   Mantén las fichas grandes en el centro y usa los números pequeños en los
   bordes como "alimentadores" para preparar nuevas fusiones.

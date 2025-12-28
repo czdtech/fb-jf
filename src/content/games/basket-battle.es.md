@@ -15,12 +15,14 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada
 
 Basket Battle es un minijuego de baloncesto rápido con un fuerte componente de
 física. Tu objetivo es encadenar mejores tiros que tu oponente en rondas cortas
 y caóticas, ajustando la parábola, el momento del lanzamiento y los rebotes.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego y recorrido
 
 1.  **Ajusta bien el arco:** Los tiros con arco alto caen más suaves y tienen
@@ -34,6 +36,7 @@ y caóticas, ajustando la parábola, el momento del lanzamiento y los rebotes.
 5.  **Ten en cuenta el viento (si aparece):** En modos con viento, compensa el
     desvío ajustando el ángulo de la parábola.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - **Apuntar/Potencia:** Arrastra para definir dirección y fuerza del tiro y
@@ -41,16 +44,20 @@ y caóticas, ajustando la parábola, el momento del lanzamiento y los rebotes.
 - **Mover/Saltar (si está disponible):** Usa flechas o botones en pantalla según
   la versión.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:basket-battle:shots-rim-outwhy-4f70cb40 -->
 - **Mis tiros tocan aro y salen, ¿por qué?**  
   Probablemente estás lanzando demasiado plano o con demasiada potencia. Prueba
   a subir un poco el arco y a reducir la fuerza.
 
+<!-- i18n:faq:id=faq:basket-battle:can-i-dunk-dcf98d86 -->
 - **¿Se puede hacer mate?**  
   Depende del modo concreto; en algunas versiones, un salto cercano al aro puede
   convertirse en un mate.
 
+<!-- i18n:faq:id=faq:basket-battle:multiplayer-fc9199ff -->
 - **¿Tiene multijugador?**  
   Muchas variantes ofrecen enfrentamientos locales 1 vs 1 en el mismo
   dispositivo.

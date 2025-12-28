@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada
 
 2048 Fusion es una versión elegante y moderna del clásico puzle de
@@ -27,6 +28,7 @@ principal es crear la esquiva casilla "2048", aunque puedes seguir jugando más
 allá para conseguir una puntuación todavía mayor. Es un juego de previsión,
 estrategia y un pequeño toque de suerte.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Estrategia de la esquina:** Es la táctica más popular y efectiva. Elige
@@ -47,6 +49,7 @@ estrategia y un pequeño toque de suerte.
     mitad del tablero sin un plan. Eso rompe la estructura y genera fichas
     difíciles de recolocar.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 *   **PC:** Usa las teclas de flecha **Arriba, Abajo, Izquierda y Derecha** para
@@ -54,13 +57,18 @@ estrategia y un pequeño toque de suerte.
 *   **Móvil:** Desliza el dedo hacia **Arriba, Abajo, Izquierda o Derecha**
     sobre la pantalla.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:2048-fusion:q-what-is-the-goal-ab58581b -->
 *   **P: ¿Cuál es el objetivo del juego?**
     *   **R:** El objetivo principal es combinar fichas hasta crear la casilla 2048. A partir de ahí, puedes seguir jugando para ver hasta dónde llega tu puntuación.
 
+<!-- i18n:faq:id=faq:2048-fusion:q-how-do-i-lose-9549c6da -->
 *   **P: ¿Cómo se pierde?**
     *   **R:** La partida termina cuando la cuadrícula se llena por completo y ya no quedan movimientos posibles (es decir, no hay fichas adyacentes con el mismo número).
 
+<!-- i18n:faq:id=faq:2048-fusion:q-where-does-the-new-6d8fd6f1 -->
 *   **P: ¿Dónde aparece la ficha nueva?**
     *   **R:** Después de cada movimiento, aparece una nueva ficha (normalmente un 2 o un 4) en una casilla vacía al azar del tablero.
+

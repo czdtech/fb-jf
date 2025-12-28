@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada
 
 Air Traffic Control es un juego de gestión en tiempo real, con un enfoque casi
@@ -28,6 +29,7 @@ mismo tiempo. El bucle central es detectar y resolver conflictos: ver las rutas
 que convergen con antelación, ajustar rumbos y distancias y alimentar la pista
 con un flujo estable y seguro.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego y recorrido
 
 1.  **Prioriza los conflictos inminentes:** Resuelve primero las trayectorias
@@ -47,6 +49,7 @@ con un flujo estable y seguro.
     puede generar nuevos conflictos. Es mejor dar pocos vectores pero claros y
     decisivos.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 Los controles exactos pueden variar según la versión, pero suelen incluir:
@@ -59,20 +62,25 @@ Los controles exactos pueden variar según la versión, pero suelen incluir:
 - **Asignar pista o aproximación (si está disponible):** Elige la pista o punto
   de entrada cuando secuencies a final.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:air-traffic-control:how-do-i-avoid-collisions-87cdf52e -->
 - **¿Cómo evito colisiones?**  
   Mantén separación horizontal dando vectores con antelación y, si el modo lo
   permite, combina pequeñas diferencias de velocidad para abrir huecos.
 
+<!-- i18n:faq:id=faq:air-traffic-control:what-does-a-conflict-alert-554e11d0 -->
 - **¿Qué es una alerta de conflicto?**  
   Señala una posible pérdida de separación prevista. Ajusta de inmediato el
   rumbo de uno o ambos aviones para que sus trayectorias diverjan.
 
+<!-- i18n:faq:id=faq:air-traffic-control:can-i-pause-or-change-01568980 -->
 - **¿Puedo pausar o cambiar la velocidad del juego?**  
   Muchas versiones de navegador incluyen pausa o control de tiempo. Úsalos para
   planificar la secuencia cuando el tráfico esté muy cargado.
 
+<!-- i18n:faq:id=faq:air-traffic-control:any-tip-for-heavy-traffic-b3840a28 -->
 - **¿Algún consejo para tráfico intenso?**  
   Estandariza el patrón y regula las entradas. Resuelve los conflictos lejos de
   la pista para que el tramo final se mantenga lo más estable y predecible

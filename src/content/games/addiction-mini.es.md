@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada
 
 Addiction Mini es una versión condensada de la familia de solitarios tipo
@@ -24,6 +25,7 @@ Addiction/Monte Carlo. Tu objetivo es deslizar o colocar cartas para formar
 secuencias crecientes, según el modo, por palo o por color, creando espacios
 libres y rompiendo bloqueos con buena planificación.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego y recorrido
 
 1.  **Genera espacios libres pronto:** Intenta crear huecos desde el principio
@@ -38,6 +40,7 @@ libres y rompiendo bloqueos con buena planificación.
 5.  **Piensa varios pasos por delante:** Visualiza dos o tres colocaciones
     futuras antes de mover una carta.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - **Mover cartas:** Arrastra o haz clic para desplazar cartas siguiendo las
@@ -47,16 +50,20 @@ libres y rompiendo bloqueos con buena planificación.
 - **Deshacer/Reiniciar:** Algunas versiones permiten deshacer o reiniciar la
   partida.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:addiction-mini:no-moves-leftwhat-now-1eeb0c6f -->
 - **No me quedan movimientos, ¿qué hago?**  
   Usa un intercambio o barajado si está disponible. Si no, lo habitual es tener
   que reiniciar la partida.
 
+<!-- i18n:faq:id=faq:addiction-mini:strict-rules-0d752ccf -->
 - **¿Las reglas son muy estrictas?**  
   Depende de la variante. Lee las reglas específicas de cada modo para saber qué
   secuencias son válidas.
 
+<!-- i18n:faq:id=faq:addiction-mini:is-it-winnable-1ea66daa -->
 - **¿Se puede ganar siempre?**  
   Muchas partidas son resolubles si planificas bien, pero, como en cualquier
   solitario, también existe un componente de azar en la distribución inicial.

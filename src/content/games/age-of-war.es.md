@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada
 
 Age of War es un clásico juego de estrategia 2D de desplazamiento lateral que se
@@ -74,6 +75,7 @@ Dominar Age of War requiere equilibrar ataque, defensa y el momento de evolucion
 *   **Empuje final:** Coordina tus unidades más fuertes con la habilidad
     especial de la era para lanzar un empuje final y destruir la base enemiga.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 El juego se controla casi por completo con el ratón.
@@ -88,16 +90,22 @@ El juego se controla casi por completo con el ratón.
 *   **Evolucionar:** Pulsa el botón "Evolve" en la esquina superior derecha una
     vez acumules suficiente XP.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:age-of-war:q-how-do-i-get-9279e7e6 -->
 *   **P: ¿Cómo consigo XP?**
     *   **R:** Obtienes experiencia cada vez que una unidad tuya elimina a una unidad enemiga; cuanto más constantes sean tus ataques, más rápido evolucionarás.
 
+<!-- i18n:faq:id=faq:age-of-war:q-what-is-the-best-94cf492b -->
 *   **P: ¿Cuál es la mejor unidad del juego?**
     *   **R:** Depende de la situación, pero el "Super Soldier" de la Era del Futuro combina muchísima vida y daño, así que suele decidir las partidas tardías.
 
+<!-- i18n:faq:id=faq:age-of-war:q-is-it-better-to-f6ee451c -->
 *   **P: ¿Es mejor invertir en torretas o en unidades?**
     *   **R:** Al principio conviene mantener 1-2 torretas para defender mientras produces un flujo estable de unidades ofensivas; así obtienes defensa y presión al mismo tiempo.
 
+<!-- i18n:faq:id=faq:age-of-war:q-where-can-i-play-d6112852 -->
 *   **P: ¿Dónde puedo jugar Age of War ahora que Flash ha desaparecido?**
     *   **R:** Portales como CrazyGames, Armor Games o Kongregate alojan versiones HTML5/emuladas; busca "Age of War HTML5" en tu navegador y podrás jugarlo sin Flash.
+

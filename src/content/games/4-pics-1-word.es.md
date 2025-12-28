@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 *4 Pics 1 Word* (alemán: *4 Bilder 1 Wort*) es un juego de puzles de palabras
 muy popular y a la vez muy sencillo. La idea central es adivinar una única
 palabra común a cuatro imágenes distintas que aparecen en pantalla. El juego
@@ -26,6 +27,7 @@ lo adictivo de los puzles, lo ha convertido en un clásico en móviles.
 
 ---
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar a 4 Pics 1 Word
 
 La mecánica es muy simple e intuitiva, apta para jugadores de todas las edades.
@@ -94,23 +96,28 @@ rápido.
 
 ---
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:4-pics-1-word:is-4-pics-1-word-adb8e06b -->
 **P: ¿4 Pics 1 Word es gratuito?**  
 **R:** Sí. El juego se puede descargar y jugar gratis. Se financia con compras
 integradas (para comprar más monedas) y, en ocasiones, con anuncios.
 
+<!-- i18n:faq:id=faq:4-pics-1-word:what-happens-if-i-run-226da951 -->
 **P: ¿Qué pasa si me quedo sin monedas y no sé la respuesta?**  
 **R:** Lo mejor es usar la función de "Preguntar a un amigo" y compartir el
 puzle. También ganas monedas resolviendo otros niveles, y algunas versiones
 ofrecen bonos diarios.
 
+<!-- i18n:faq:id=faq:4-pics-1-word:do-the-four-pictures-always-ed5f9c40 -->
 **P: ¿Las cuatro imágenes siempre se relacionan de la misma manera?**  
 **R:** No. A veces las cuatro fotos muestran ejemplos diferentes del mismo
 objeto (por ejemplo, varios tipos de pelotas). Otras veces representan un
 concepto compartido (como "frío": un cubito de hielo, una persona tiritando, un
 termómetro marcando baja temperatura y un paisaje nevado).
 
+<!-- i18n:faq:id=faq:4-pics-1-word:is-the-game-available-in-27fc2a0d -->
 **P: ¿Existe en otros idiomas?**  
 **R:** Sí, *4 Pics 1 Word* está disponible en muchos idiomas, y los puzles se
 han adaptado para cada uno de ellos.

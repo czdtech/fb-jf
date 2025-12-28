@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada
 
 Armored Assault Strike combina disparos arcade con un toque de posicionamiento
@@ -23,6 +24,7 @@ estratégico. Controlas un vehículo blindado visto desde arriba, rodeas enemigo
 peligrosos, usas el terreno como cobertura y encadenas habilidades para limpiar
 oleadas con eficacia sin dejar tu casco a merced del fuego rival.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego y recorrido
 
 1.  **Mantén a los élites a distancia y corta su línea de fuego cuando te presionen:**
@@ -39,6 +41,7 @@ oleadas con eficacia sin dejar tu casco a merced del fuego rival.
 5.  **Guarda tus escapes para emergencias:** Habilidades de impulso rápido,
     escudos o acelerones son tu seguro de vida; no las gastes en situaciones triviales.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - **Movimiento:** Teclas WASD o flechas para desplazar el vehículo.
@@ -47,16 +50,21 @@ oleadas con eficacia sin dejar tu casco a merced del fuego rival.
 - **Habilidades:** Usa las teclas rápidas para activar habilidades especiales
   con enfriamiento.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:armored-assault-strike:i-melt-fastwhy-994e5bc4 -->
 - **Me derriten muy rápido, ¿por qué?**  
   Probablemente estás demasiado expuesto en campo abierto. Usa coberturas y haz
   kiting en lugar de quedarte quieto intercambiando disparos.
 
+<!-- i18n:faq:id=faq:armored-assault-strike:ammo-limited-9be95bd9 -->
 - **¿La munición es limitada?**  
   En algunos modos sí. Ahorra balas contra enemigos débiles y reserva ráfagas
   largas para élites o jefes.
 
+<!-- i18n:faq:id=faq:armored-assault-strike:bosses-5a57d05f -->
 - **¿Cómo enfrento a los jefes?**  
   Aprende sus patrones de ataque, limpia primero a los enemigos menores que los
   acompañan y aprovecha las ventanas seguras para hacer daño concentrado.
+

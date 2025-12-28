@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada
 
 Atari Breakout es un juego arcade clásico que se ha convertido en piedra
@@ -46,7 +47,10 @@ lanzarla a ese hueco. La bola rebotará entre la pared superior y la parte alta
 de los ladrillos, destruyendo muchos de forma automática y sin riesgo de que
 pierdas la pala. Es la manera más rápida de limpiar la pantalla.
 
+<!-- i18n:section:controls -->
 #### 2. Domina la pala para controlar el ángulo
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `←` `→`
 
 El ángulo de rebote de la bola no es aleatorio; depende de **dónde** impacta en
 la pala.
@@ -75,19 +79,25 @@ Los controles de Breakout son tan sencillos como icónicos.
 
 *   **Movimiento:**
     *   **Arcade original:** Se usaba un dial giratorio (spinner) para mover la pala a izquierda y derecha.
-    *   **PC / Navegador:** Normalmente controlas la pala moviendo el **ratón** a izquierda y derecha, y en muchas versiones también sirven las teclas **Flecha Izquierda/Derecha** (`←` y `→`).
+    *   **PC / Navegador:** Normalmente controlas la pala moviendo el **ratón** a izquierda y derecha, y en muchas versiones también sirven las teclas **Flecha Izquierda/Derecha** (← y →).
 *   **Lanzar la bola:** Al inicio de cada vida, la bola descansa sobre la pala. Pulsa el botón de "disparo" (suele ser la **barra espaciadora** o un **clic izquierdo**) para liberarla.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:atari-breakout:q-how-can-i-control-e6335da8 -->
 *   **P: ¿Cómo controlo la dirección de la bola?**
     *   **R:** Ajusta el punto de impacto en la pala. Golpes centrados devuelven la bola casi recta; golpes en los bordes la envían hacia los laterales con ángulos más cerrados.
 
+<!-- i18n:faq:id=faq:atari-breakout:q-what-is-the-fastest-9eaaaeff -->
 *   **P: ¿Cuál es la forma más rápida de limpiar un nivel?**
     *   **R:** Usa la estrategia del "túnel": abre un hueco lateral para que la bola quede rebotando por encima de los ladrillos y los destruya sola.
 
+<!-- i18n:faq:id=faq:atari-breakout:q-do-the-different-colored-645f3f76 -->
 *   **P: ¿Los colores de los ladrillos significan algo?**
     *   **R:** Sí. En el original, el color indica el valor en puntos. De abajo a arriba, los ladrillos suelen valer cada vez más.
 
+<!-- i18n:faq:id=faq:atari-breakout:q-where-can-i-play-d7aa3e3b -->
 *   **P: ¿Dónde puedo jugar hoy a Atari Breakout?**
     *   **R:** Hay muchas versiones web disponibles en sitios de juegos clásicos y archivos retro. Durante un tiempo incluso existió un "huevo de pascua" en Google Imágenes al buscar "Atari Breakout", aunque la función puede variar.
+

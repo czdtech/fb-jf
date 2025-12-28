@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada
 
 *Ballistic* es un arcade con física que combina estrategia, habilidad y mucha
@@ -34,6 +35,7 @@ poder de fuego. Visuales vivos, controles suaves y partidas siempre distintas lo
 convierten en un juego muy adictivo tanto para partidas casuales como para
 cazar récords.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego
 
 Dominar *Ballistic* consiste en pensar varios tiros por delante y aprovechar
@@ -60,6 +62,7 @@ cada lanzamiento.
     bloques, sino para abrir rutas que provoquen más rebotes después. Un buen
     lanzamiento puede desencadenar una cascada que borre gran parte del tablero.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 Los controles son muy intuitivos.
@@ -72,23 +75,29 @@ Los controles son muy intuitivos.
     *   **Táctil:** Mantén el dedo sobre la pantalla para activar la mira, arrastra
         para apuntar y suelta para disparar.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:ballistic:what-do-the-numbers-on-03af9ef6 -->
 **1. ¿Qué significan los números de los bloques?**  
 Indican la "vida" del bloque, es decir, cuántos impactos necesita para
 destruirse.
 
+<!-- i18n:faq:id=faq:ballistic:how-do-i-get-more-67101d1f -->
 **2. ¿Cómo consigo más bolas para disparar?**  
 Golpeando las fichas de bola extra (normalmente un círculo con "+") que
 aparecen en la cuadrícula.
 
+<!-- i18n:faq:id=faq:ballistic:what-happens-if-the-blocks-9a123cc9 -->
 **3. ¿Qué pasa si un bloque llega al fondo de la pantalla?**  
 Si cualquier bloque toca la línea inferior, la partida termina.
 
+<!-- i18n:faq:id=faq:ballistic:is-every-round-of-the-80cb1e07 -->
 **4. ¿Cada partida es igual?**  
 No. La disposición de bloques y potenciadores cambia en cada partida, así que
 cada ronda plantea un reto distinto.
 
+<!-- i18n:faq:id=faq:ballistic:what-is-the-best-strategy-0308231c -->
 **5. ¿Cuál es la mejor estrategia para hacer muchos puntos?**  
 Sobrevivir el máximo de rondas, aumentar continuamente tu número de bolas y
 aprovechar tiros angulados que desencadenen grandes reacciones en cadena.

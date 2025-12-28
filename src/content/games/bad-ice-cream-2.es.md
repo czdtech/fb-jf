@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
  
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada
 
 *Bad Ice-Cream 2* es un simpático arcade de puzles en 2D con estética pixel‑art. Controlas a un cucurucho de helado viviente que recorre laberintos helados para recoger todas las piezas de fruta del mapa.
@@ -51,27 +52,36 @@ Hay un temporizador, así que no puedes ir demasiado despacio, pero precipitarte
 *   **Comunicación constante:** Avisad antes de atrapar enemigos o romper muros para no encerrar por error a tu compañero.  
 *   **Cebo y recolector:** Uno puede actuar de señuelo mientras el otro aprovecha para recoger fruta con seguridad.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `↑` `↓` `←` `→` `Spacebar` `W` `A` `S` `D` `F`
 
 El juego se controla con un teclado compartido, tanto en modo 1 jugador como en cooperativo.
 
 *   **Jugador 1:**
-    *   **Moverse:** Flechas (`↑`, `↓`, `←`, `→`)
-    *   **Crear/Destruir hielo:** `Barra espaciadora`
+    *   **Moverse:** Flechas (↑, ↓, ←, →)
+    *   **Crear/Destruir hielo:** Barra espaciadora
 *   **Jugador 2:**
-    *   **Moverse:** Teclas `W`, `A`, `S`, `D`
-    *   **Crear/Destruir hielo:** Tecla `F`
+    *   **Moverse:** Teclas W, A, S, D
+    *   **Crear/Destruir hielo:** Tecla F
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:bad-ice-cream-2:q-can-i-kill-the-011ef9f4 -->
 *   **P: ¿Puedo matar a los enemigos?**
     *   **R:** No puedes eliminarlos de forma permanente; solo evitarlos o atraparlos temporalmente con tus muros de hielo.
 
+<!-- i18n:faq:id=faq:bad-ice-cream-2:q-what-happens-if-the-b7a7f4d0 -->
 *   **P: ¿Qué pasa si se acaba el tiempo?**
     *   **R:** Si el temporizador llega a cero antes de que recojas toda la fruta, perderás una vida y tendrás que repetir el nivel.
 
+<!-- i18n:faq:id=faq:bad-ice-cream-2:q-is-there-a-difference-89ee784c -->
 *   **P: ¿Las distintas frutas hacen algo diferente?**
     *   **R:** No, jugablemente todas las frutas son iguales. Tu meta es recogerlas todas sin importar su aspecto.
 
+<!-- i18n:faq:id=faq:bad-ice-cream-2:q-how-does-the-2player-8a760ff7 -->
 *   **P: En 2 jugadores, ¿tenemos vidas separadas?**
     *   **R:** Normalmente compartís un mismo contador de vidas. Si cualquiera de los dos es alcanzado, se resta una vida del total, así que colaborad para protegerse mutuamente.
+

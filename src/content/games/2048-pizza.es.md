@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada
 
 2048 Pizza mantiene la fórmula clásica de deslizar y fusionar, pero con un
@@ -23,6 +24,7 @@ vestido mucho más apetitoso. Deslizas las fichas en cuatro direcciones para que
 los valores iguales choquen y se combinen, mientras planificas cadenas y evitas
 que el tablero se quede sin huecos.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego y recorrido
 
 1.  **Usa una esquina como ancla:** Elige una esquina del tablero y procura que
@@ -36,6 +38,7 @@ que el tablero se quede sin huecos.
 5.  **Cuando estés atrapado, libera espacio:** En lugar de forzar una gran
     fusión, prioriza limpiar filas o columnas para recuperar movilidad.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - **Deslizar:** Usa las teclas de flecha o gestos de deslizamiento para mover
@@ -43,15 +46,20 @@ que el tablero se quede sin huecos.
 - **Deshacer (si está disponible):** Algunas versiones ofrecen deshacer limitado
   para corregir errores puntuales.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:2048-pizza:board-clogs-fastwhy-aa239cf3 -->
 - **El tablero se llena muy rápido, ¿por qué?**  
   Probablemente estés moviéndote en todas las direcciones. Intenta ceñirte a un
   plan de dos direcciones para mantener la estructura.
 
+<!-- i18n:faq:id=faq:2048-pizza:win-condition-029bdfd9 -->
 - **¿Cuál es la condición de victoria?**  
   Alcanzar la ficha objetivo (por ejemplo, 2048) o simplemente superar tus
   mejores puntuaciones.
 
+<!-- i18n:faq:id=faq:2048-pizza:random-spawns-9976230b -->
 - **¿Los generadores son aleatorios?**  
   Por lo general aparecen 2 y 4, con probabilidades ponderadas a favor del 2.
+

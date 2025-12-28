@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada
 
 8x8 Match Tiles es un puzle de emparejar fichas sobre una cuadrícula ordenada de
@@ -23,6 +24,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 movimientos, manteniendo el tablero despejado y evitando que queden fichas
 sueltas imposibles de emparejar.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego y recorrido
 
 1.  **Abre pasillos:** Mantén algunos caminos despejados para poder acceder a
@@ -36,6 +38,7 @@ sueltas imposibles de emparejar.
 5.  **Usa las pistas con moderación:** Si el modo ofrece pistas o ayudas, guárdalas
     para momentos en los que realmente estés sin opciones.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - **Seleccionar parejas:** Toca o haz clic en dos fichas iguales siguiendo las
@@ -43,16 +46,21 @@ sueltas imposibles de emparejar.
 - **Deshacer/Reiniciar:** Si el juego incluye estas opciones, puedes usarlas para
   corregir errores o empezar una nueva partida.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:8x8-match-tiles:no-moves-leftrestart-b7b91cb3 -->
 - **No me quedan movimientos, ¿tengo que reiniciar?**  
   En muchas versiones, sí: deberás empezar de nuevo y plantear una apertura
   distinta.
 
+<!-- i18n:faq:id=faq:8x8-match-tiles:timed-or-moves-aa08d3bd -->
 - **¿El límite es de tiempo o de movimientos?**  
   Depende del modo. Algunos se basan en cronómetro y otros en un número máximo de
   jugadas, así que adapta tu estrategia.
 
+<!-- i18n:faq:id=faq:8x8-match-tiles:shuffle-187dc570 -->
 - **¿Puedo barajar el tablero?**  
   Algunas variantes permiten barajar las fichas. Reserva esa opción para
   situaciones de emergencia en las que no queden parejas visibles.
+

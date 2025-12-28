@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada
 
 Basket Champ es un juego de timing de baloncesto muy sencillo en apariencia. Con
@@ -23,6 +24,7 @@ un solo toque defines la potencia y el arco del lanzamiento para colar la
 pelota en aros que pueden estar quietos, en movimiento o rodeados de obstáculos.
 Tu objetivo es mantener rachas de aciertos para lograr puntuaciones altas.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego y recorrido
 
 1.  **Apunta ligeramente por encima del centro del aro:** Así consigues una
@@ -36,22 +38,27 @@ Tu objetivo es mantener rachas de aciertos para lograr puntuaciones altas.
 5.  **Practica patrones de obstáculos concretos:** Algunos niveles repiten
     configuraciones. Aprovecha para memorizar el ángulo y potencia óptimos.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - **Toque/Clic:** Mantén pulsado para cargar potencia y ajustar el arco y suelta
   para lanzar.
 - **Pausa/Reintentar:** Usa los botones de la interfaz.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:basket-champ:shots-bounce-outfix-25a5981f -->
 - **Mis tiros rebotan en el aro y salen, ¿cómo lo corrijo?**  
   Prueba con un poco más de arco y algo menos de potencia para que la pelota
   caiga más vertical.
 
+<!-- i18n:faq:id=faq:basket-champ:endless-ea2091be -->
 - **¿Es un modo infinito?**  
   En la mayoría de versiones sí; el objetivo es encadenar el mayor número de
   canastas seguidas.
 
+<!-- i18n:faq:id=faq:basket-champ:wind-e70091e7 -->
 - **¿Hay viento u otros efectos?**  
   Algunas variantes pueden incluir fuerzas laterales; si es el caso, ajusta
   ligeramente el ángulo para compensarlas.

@@ -18,6 +18,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada
 
 Archery World Tour es un simulador de tiro con arco exigente y bastante
@@ -27,6 +28,7 @@ diana. No basta con tener buen pulso: también tienes que tener en cuenta
 factores ambientales como la velocidad y dirección del viento, así como la
 distancia al objetivo.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego y recorrido
 
 1.  **Compensa el viento:** Antes de cada disparo, fíjate en el indicador de
@@ -42,6 +44,7 @@ distancia al objetivo.
     círculo amarillo) da la puntuación máxima —suele ser 10 puntos—. Encadenar
     varios centros es la clave para un marcador alto.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 *   **Apuntar:** Mueve el ratón para orientar el arco. El cursor indica hacia
@@ -50,13 +53,18 @@ distancia al objetivo.
     ratón para tensar la cuerda. A medida que mantienes pulsado, puede cambiar
     el indicador de potencia o la mira. Suelta el botón para disparar.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:archery:q-how-do-i-aim-982ee8c1 -->
 *   **P: ¿Cómo apunto teniendo en cuenta el viento?**
     *   **R:** Apunta en sentido contrario al viento. Si sopla hacia la derecha, compensa apuntando algo a la izquierda; cuanto más fuerte, mayor compensación.
 
+<!-- i18n:faq:id=faq:archery:q-why-did-my-arrow-40c5ad4d -->
 *   **P: ¿Por qué mi flecha ha caído baja?**
     *   **R:** Es la gravedad, sobre todo en tiros lejanos. Eleva ligeramente el punto de mira para que la flecha caiga donde quieres.
 
+<!-- i18n:faq:id=faq:archery:q-what-is-the-goal-ab58581b -->
 *   **P: ¿Cuál es el objetivo del juego?**
     *   **R:** Lograr la máxima puntuación posible con un número limitado de flechas; los impactos en el centro dan el valor más alto.
+

@@ -12,10 +12,11 @@ thumbnail: /new-images/thumbnails/60s-burger-run.jpg
 tags:
   - 60 seconds burger run
 score: 4.6/5  (1344 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+releaseDate: 2025-12-04
 ---
 
 
+<!-- i18n:section:introduction -->
 *60 Second Burger Run* es un juego de plataformas de "speed‑run" rápido y
 colorido en el que tu misión es llegar a una hamburguesería que está a punto de
 cerrar, todo dentro de un estricto límite de 60 segundos. Controlas a un héroe
@@ -24,6 +25,7 @@ serie de niveles cada vez más complicados lo más rápido posible. El juego pon
 prueba tu tiempo de reacción, la precisión de tus saltos y tu capacidad para
 memorizar caminos.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar a 60 Second Burger Run
 
 -  **Objetivo:** Tienes 60 segundos en total para completar tantos niveles como
@@ -61,6 +63,7 @@ memorizar caminos.
 
 ---
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
 **P: ¿Cómo se "gana" el juego?**  

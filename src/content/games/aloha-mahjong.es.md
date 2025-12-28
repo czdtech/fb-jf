@@ -16,12 +16,14 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada
 
 Aloha Mahjong ofrece la experiencia clásica de mahjong solitario. Debes
 combinar fichas "libres" para limpiar estructuras apiladas, administrar barajados
 y pistas limitadas y resolver cada tablero sin dejar parejas clave atrapadas.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego y recorrido
 
 1.  **Abre la estructura:** Prioriza fichas que, al eliminarlas, liberen el
@@ -36,6 +38,7 @@ y pistas limitadas y resolver cada tablero sin dejar parejas clave atrapadas.
     decisiones seguras; algunos segundos extra bien usados valen más que un
     error que arruina el tablero.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - **Seleccionar fichas:** Toca o haz clic en dos fichas iguales que estén
@@ -43,16 +46,20 @@ y pistas limitadas y resolver cada tablero sin dejar parejas clave atrapadas.
 - **Pistas/Barajados:** Utiliza los botones de la interfaz si el modo los
   ofrece.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:aloha-mahjong:no-pairs-fd17fa86 -->
 - **No veo más parejas, ¿qué hago?**  
   Si el modo lo permite, usa un barajado. Si no, probablemente tengas que
   reiniciar la disposición.
 
+<!-- i18n:faq:id=faq:aloha-mahjong:what-is-an-open-tile-2fbf8293 -->
 - **¿Qué se considera una ficha "abierta"?**  
   Una ficha que no está cubierta por otra y que tiene al menos un lado libre
   (izquierdo o derecho).
 
+<!-- i18n:faq:id=faq:aloha-mahjong:multiple-layouts-6bfba2f8 -->
 - **¿Hay varios tableros?**  
   Sí, normalmente se incluyen varias disposiciones con distintos niveles de
   dificultad.

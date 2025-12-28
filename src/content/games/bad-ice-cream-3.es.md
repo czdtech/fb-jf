@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada
 
 *Bad Ice-Cream 3* es la tercera parte de la popular serie arcade de puzles en
@@ -33,6 +34,7 @@ otros más grandes e incluso hay quienes pueden romper los muros de hielo que
 creas, obligándote a adaptar tus tácticas. El juego mantiene sus modos de juego
 para un jugador y cooperativo para dos jugadores en el mismo teclado.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego y recorrido
 
 Dominar *Bad Ice-Cream 3* consiste en adaptarse a las nuevas amenazas y
@@ -87,29 +89,38 @@ así que procura no hacer acciones innecesarias.
 *   **Trabajad separados:** Para cubrir más terreno y evitar quedaros ambos
     atrapados, suele ser mejor operar en lados opuestos del mapa.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `↑` `↓` `←` `→` `Spacebar` `W` `A` `S` `D` `F`
 
 Los controles se mantienen respecto a los juegos anteriores, pensados para
 compartir teclado.
 
 *   **Jugador 1:**  
-    *   **Mover:** Flechas (`↑`, `↓`, `←`, `→`).  
-    *   **Acción (Crear/Destruir hielo):** `Barra espaciadora`.  
+    *   **Mover:** Flechas (↑, ↓, ←, →).  
+    *   **Acción (Crear/Destruir hielo):** Barra espaciadora.  
 
 *   **Jugador 2:**  
-    *   **Mover:** Teclas `W`, `A`, `S`, `D`.  
-    *   **Acción (Crear/Destruir hielo):** Tecla `F`.  
+    *   **Mover:** Teclas W, A, S, D.  
+    *   **Acción (Crear/Destruir hielo):** Tecla F.  
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:bad-ice-cream-3:q-what-is-the-main-03fb4085 -->
 *   **P: ¿En qué se diferencia Bad Ice-Cream 3 de la segunda parte?**
     *   **R:** La mayor diferencia está en los nuevos tipos de enemigos con comportamientos más complejos, incluidos algunos que destruyen tus muros de hielo. Además, incorpora unos 40 niveles nuevos y más desafiantes.
 
+<!-- i18n:faq:id=faq:bad-ice-cream-3:q-can-i-finally-kill-63145a61 -->
 *   **P: ¿Ahora sí puedo matar a los enemigos?**
     *   **R:** No. El diseño base no cambia: no puedes atacarlos directamente. Sigues dependiendo de esquivar y atrapar de manera temporal.
 
+<!-- i18n:faq:id=faq:bad-ice-cream-3:q-how-do-i-beat-89425c2b -->
 *   **P: ¿Cómo lidio con los monstruos grandes que rompen mis muros?**
     *   **R:** No puedes encerrarlos para siempre. Usa el hielo como distracción momentánea: levanta una pared para frenarlos un instante y aprovecha ese tiempo para huir o recoger una fruta cercana.
 
+<!-- i18n:faq:id=faq:bad-ice-cream-3:q-is-there-a-way-adf9c295 -->
 *   **P: ¿Hay forma de conseguir más vidas?**
     *   **R:** En las versiones clásicas tipo Flash no hay objetos de vida extra. Si te quedas sin vidas, tendrás que repetir el nivel desde el principio.
+

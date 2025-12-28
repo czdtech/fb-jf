@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada
 
 *Basket Random* es un juego de baloncesto en 2D con físicas ragdoll y un nivel
@@ -36,6 +37,7 @@ algo torpe. La jugabilidad se basa menos en la precisión y más en dominar el
 mandar la bola al aro rival. Ese caos calculado hace que cada partida sea un
 espectáculo frenético y muy divertido.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego
 
 Ganar en *Basket Random* consiste en domar el caos, no en controlarlo del todo.
@@ -66,35 +68,44 @@ Ganar en *Basket Random* consiste en domar el caos, no en controlarlo del todo.
     aro. En ataque, sitúate debajo del balón para impulsarlo hacia la canasta
     contraria.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `W` `Up Arrow` `Up Arrow` `W`
 
 El juego usa un esquema de un botón por jugador, pensado para dos personas en el
 mismo teclado.
 
 *   **Jugador 1:**  
-    *   **Tecla `W` o Flecha Arriba:** Saltar / agitar brazos.  
+    *   **Tecla W o Flecha Arriba:** Saltar / agitar brazos.  
 *   **Jugador 2:**  
-    *   **Tecla `↑` o `W` (según versión):** Saltar / agitar brazos.  
+    *   **Tecla ↑ o W (según versión):** Saltar / agitar brazos.  
 *   **Móvil / táctil:**  
     *   Toca el lado izquierdo de la pantalla para el Jugador 1 y el derecho
         para el Jugador 2.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:basket-random:how-do-i-properly-control-7c361830 -->
 **1. ¿Cómo controlo bien al personaje?**  
 Realmente no puedes, y esa es la gracia. Solo influyes en él con el timing del
 salto; el resto lo decide la física ragdoll.
 
+<!-- i18n:faq:id=faq:basket-random:why-does-the-courtballplayer-c-3e32a4e8 -->
 **2. ¿Por qué cambia la pista, el balón o los jugadores en cada punto?**  
 Es la mecánica central "Random" del juego, que garantiza que ninguna ronda sea
 igual y mantiene la experiencia fresca y sorprendente.
 
+<!-- i18n:faq:id=faq:basket-random:how-do-i-win-a-0ebcf537 -->
 **3. ¿Cómo se gana un partido?**  
 El primer jugador o equipo que llegue a 5 puntos se lleva la victoria.
 
+<!-- i18n:faq:id=faq:basket-random:can-i-play-this-game-0d71baf7 -->
 **4. ¿Puedo jugar solo?**  
 Sí, *Basket Random* incluye modo para un jugador contra la IA.
 
+<!-- i18n:faq:id=faq:basket-random:what-is-the-best-random-b388b359 -->
 **5. ¿Cuál es la mejor variación aleatoria?**  
 No hay una mejor; todas están pensadas para ser caóticas. A algunos les gustan
 los brazos largos para tapar tiros, otros disfrutan el reto de un balón pesado o

@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada
 
 *Doodle Baseball* es un juego de béisbol arcade tan sencillo como adictivo, con
@@ -32,6 +33,7 @@ velocidades y trayectorias (rectas rápidas, curvas, lanzamientos lentos), y
 necesitas ajustar el momento de cada swing. La partida termina cuando acumulas
 tres strikeouts, y tu meta es firmar la puntuación más alta posible.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego
 
 Aunque solo usas un botón, dominarlo exige concentración y buena sincronización.
@@ -62,6 +64,7 @@ Aunque solo usas un botón, dominarlo exige concentración y buena sincronizaci�
     calibrar el momento de las curvas lentas. Batear a lo loco es la forma más
     rápida de consumir tus tres outs.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 Los controles no pueden ser más accesibles.
@@ -73,27 +76,34 @@ Los controles no pueden ser más accesibles.
 
 No hay controles para correr bases ni para el campo.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:baseball:how-do-i-hit-a-62d08c4f -->
 **1. ¿Cómo hago un jonrón?**  
 Depende por completo del momento. Debes batear y contactar con la bola justo en
 el momento ideal, cuando pasa sobre el plato.
 
+<!-- i18n:faq:id=faq:baseball:is-it-possible-to-win-41cb03d5 -->
 **2. ¿Se puede "ganar" la partida?**  
 *Doodle Baseball* funciona como un arcade infinito: no hay una última entrada ni
 un rival final. El objetivo es anotar tantas carreras como puedas antes de
 acumular tres outs y superar tu propio récord.
 
+<!-- i18n:faq:id=faq:baseball:why-do-i-keep-striking-d0e18c50 -->
 **3. ¿Por qué fallo tanto los lanzamientos lentos?**  
 Es el núcleo de la dificultad. Tu cerebro se acostumbra al ritmo de las rectas
 rápidas, así que cuando llega una bola lenta tiendes a mover el bate igual de
 pronto. Debes obligarte a esperar más de lo que crees.
 
+<!-- i18n:faq:id=faq:baseball:can-i-choose-my-character-337cae71 -->
 **4. ¿Puedo elegir personaje o equipo?**  
 No. Los bateadores se van alternando de forma automática y todos pertenecen al
 mismo equipo; no hay diferencias jugables entre ellos.
 
+<!-- i18n:faq:id=faq:baseball:does-the-game-get-harder-3eb63b93 -->
 **5. ¿El juego se vuelve más difícil?**  
 Sí. Cuantas más carreras haces, más variado y exigente se vuelve el repertorio
 de lanzamientos: rectas más rápidas y curvas más engañosas que ponen a prueba
 tu sincronización.
+

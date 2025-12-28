@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada
 
 Aqua Blocks es un juego de colocación de bloques con estética acuática. Debes
@@ -23,6 +24,7 @@ situar las formas que se te entregan sobre la cuadrícula para completar líneas
 regiones, provocar despejes múltiples y mantener el tablero con suficiente
 espacio para seguir jugando.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego y recorrido
 
 1.  **Mantén los bordes ordenados:** Evita dejar celdas sueltas pegadas a los
@@ -37,6 +39,7 @@ espacio para seguir jugando.
     piezas, planifica una pequeña secuencia de jugadas en lugar de pensar solo
     en el siguiente bloque.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - **Colocar bloques:** Arrastra las piezas hasta el tablero. Si el modo lo
@@ -44,15 +47,19 @@ espacio para seguir jugando.
 - **Deshacer/Reiniciar:** Usa los botones de la interfaz para corregir jugadas o
   empezar una partida nueva.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:aqua-blocks:no-space-leftwhat-now-de5570f7 -->
 - **No me queda espacio para ningún bloque, ¿qué hago?**  
   Si hay opción de deshacer, úsala para replantear las últimas jugadas; de lo
   contrario, tendrás que reiniciar.
 
+<!-- i18n:faq:id=faq:aqua-blocks:rotations-634fab63 -->
 - **¿Siempre se puede girar las piezas?**  
   Depende de la variante concreta; revisa los iconos o las instrucciones.
 
+<!-- i18n:faq:id=faq:aqua-blocks:endless-ea2091be -->
 - **¿El juego acaba o es infinito?**  
   En muchas versiones es un modo infinito de puntuación: juegas hasta que te
   quedas sin movimientos.

@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### **Introducción al juego 99 Nights in the Forest**
 
 *99 Nights in the Forest* es un juego de terror y supervivencia en primera
@@ -44,6 +45,7 @@ los enemigos, poniendo a prueba tus reservas y tu estrategia defensiva. Una
 característica clave es la **muerte permanente**: si mueres, comienzas de nuevo
 desde el Día 1.
 
+<!-- i18n:section:tips -->
 ### **Estrategia y consejos de juego**
 
 1.  **Objetivo del Día 1: barricadas en todas las ventanas**  
@@ -85,31 +87,38 @@ desde el Día 1.
     defensas. Por ejemplo, añade más tablones y clavos a las ventanas para que
     aguanten más daño.
 
+<!-- i18n:section:controls -->
 ### **Guía de controles**
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `W` `A` `S` `D` `Shift` `Space Bar` `E` `I` `Tab` `Left Mouse Button` `Right Mouse Button`
 
 El juego utiliza un esquema estándar de controles en primera persona.
 
-*   **Moverse:** teclas `W`, `A`, `S`, `D`
+*   **Moverse:** teclas W, A, S, D
 *   **Mirar:** ratón
-*   **Correr:** mantener pulsado `Shift`
+*   **Correr:** mantener pulsado Shift
 *   **Saltar:** barra espaciadora
-*   **Interactuar / Recoger / Abrir puerta:** tecla `E`
-*   **Inventario / Menú de crafteo:** `I` o `Tab`
+*   **Interactuar / Recoger / Abrir puerta:** tecla E
+*   **Inventario / Menú de crafteo:** I o Tab
 *   **Usar herramienta / Atacar:** botón izquierdo del ratón
 *   **Apuntar / Acción secundaria:** botón derecho del ratón
 
+<!-- i18n:section:faq -->
 ### **Preguntas frecuentes (FAQ)**
 
+<!-- i18n:faq:id=faq:99-nights-in-the-forest:can-the-enemies-in-the-599bfef0 -->
 **1. ¿Se puede matar a los enemigos?**  
 Sí. Si un enemigo rompe tus defensas y entra en la cabaña, puedes atacarlo con
 un hacha u otras armas hasta acabar con él. Pero eso suele significar que tu
 barrera ha fallado y estás en peligro serio; por eso la estrategia principal
 siempre debe ser defensiva.
 
+<!-- i18n:faq:id=faq:99-nights-in-the-forest:what-happens-if-i-die-3fb01fbd -->
 **2. ¿Qué pasa si muero?**  
 El juego incluye **muerte permanente**: si mueres, tu partida se elimina y debes
 empezar de nuevo desde la Noche 1, perdiendo todo el progreso.
 
+<!-- i18n:faq:id=faq:99-nights-in-the-forest:how-do-i-survive-the-816fd603 -->
 **3. ¿Cómo sobrevivo a la primera noche?**  
 Durante el primer día, tala al menos 2‑3 árboles para conseguir madera y busca
 chatarra por el suelo cercano. Usa el inventario para convertir los troncos en
@@ -118,6 +127,7 @@ clavos para reforzar todas las ventanas (habitualmente con la tecla `E`). Tras
 la puesta de sol, quédate dentro, cierra la puerta y escucha los sonidos del
 exterior.
 
+<!-- i18n:faq:id=faq:99-nights-in-the-forest:where-can-i-find-scrap-7f8b30f6 -->
 **4. ¿Dónde encuentro chatarra metálica?**  
 Suele aparecer esparcida por el suelo del bosque o cerca de ciertos puntos de
 interés. Sus ubicaciones son aleatorias, así que tendrás que explorar con

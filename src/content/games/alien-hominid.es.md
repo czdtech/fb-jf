@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada
 
 Alien Hominid es un shooter 2D de desplazamiento lateral rápido y caótico
@@ -54,30 +55,37 @@ memoria de patrones y dominar todo el repertorio de movimientos del alien.
 *   **Prioriza amenazas:** Elimina primero a los enemigos más peligrosos, como los de disparo rápido o proyectiles especiales.
 *   **Aprende los patrones de los jefes:** Cada jefe sigue un patrón fijo; dedica los primeros intentos a observar, identificar zonas seguras y atacar solo cuando sea realmente seguro.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 Los controles cambian ligeramente entre la versión Flash y las de consola/HD, pero las funciones básicas son las mismas.
 
 *   **Movimiento:** Flechas / cruceta / stick analógico para ir a izquierda y derecha.
-*   **Saltar:** Tecla `A` en teclado / botón A o X en mando.
-*   **Disparar:** Tecla `S` en teclado / botón X o Cuadrado en mando; mantén pulsado para disparo cargado.
-*   **Granada:** Tecla `D` en teclado / botón B o Círculo en mando.
+*   **Saltar:** Tecla A en teclado / botón A o X en mando.
+*   **Disparar:** Tecla S en teclado / botón X o Cuadrado en mando; mantén pulsado para disparo cargado.
+*   **Granada:** Tecla D en teclado / botón B o Círculo en mando.
 *   **Agacharse/Rodar:** Flecha abajo / abajo en la cruceta.
 *   **Movimientos especiales:**
     *   **Excavar:** Pulsa Abajo + Saltar sobre terreno blando (arena, tierra).
     *   **Ataque cuerpo a cuerpo:** Acércate a un enemigo y pulsa Disparar.
     *   **Montar/Morder:** Salta directamente sobre la cabeza de un enemigo.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:alien-hominid:q-why-is-alien-hominid-691593a9 -->
 *   **P: ¿Por qué Alien Hominid es tan difícil?**
     *   **R:** La dificultad alta es intencionada y busca reproducir el reto de los arcades de 8 y 16 bits. El sistema de muerte de un solo golpe obliga a jugar con mucha precisión.
 
+<!-- i18n:faq:id=faq:alien-hominid:q-what-is-the-difference-f02af029 -->
 *   **P: ¿En qué se diferencia la versión Flash de las versiones HD/consola?**
     *   **R:** Las versiones de consola y HD están muy ampliadas: más niveles, enemigos y jefes, gráficos y sonido mejorados, cooperativo para 2 jugadores, minijuegos y muchos sombreros desbloqueables para el alien.
 
+<!-- i18n:faq:id=faq:alien-hominid:q-how-do-i-beat-1856fd4a -->
 *   **P: ¿Cómo derroto al jefe final?**
     *   **R:** Es un combate de varias fases. Igual que con el resto de jefes, la clave es aprender patrones. Prioriza esquivar y ataca solo cuando haya una ventana clara y segura.
 
+<!-- i18n:faq:id=faq:alien-hominid:q-is-alien-hominid-invasion-6b18b22e -->
 *   **P: ¿Alien Hominid Invasion es el mismo juego?**
     *   **R:** No. *Alien Hominid Invasion* es una reinterpretación moderna centrada en el cooperativo, con progreso de personaje y elementos rogue‑lite. Comparte universo, pero es un juego nuevo.
+

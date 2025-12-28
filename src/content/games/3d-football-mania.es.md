@@ -16,12 +16,14 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada
 
 3D Football Mania comprime los fundamentos del fútbol en secuencias cortas.
 Debes leer la posición de los defensas, decidir si pasar o encarar y ajustar el
 momento del disparo para superar al portero en desafíos rápidos y rejugables.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego y recorrido
 
 1.  **Aprovecha los pases al hueco:** Prioriza los pases al espacio en lugar de
@@ -36,6 +38,7 @@ momento del disparo para superar al portero en desafíos rápidos y rejugables.
 5.  **Atento a los rechaces:** Después de disparar, sigue la jugada. Muchos
     goles fáciles llegan tras un rebote del portero.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - **Mover/Pasar/Chutar:** Sigue las indicaciones en pantalla; según la versión,
@@ -43,16 +46,20 @@ momento del disparo para superar al portero en desafíos rápidos y rejugables.
 - **Apuntar:** Arrastra para orientar el disparo.
 - **Potencia:** Mantén pulsado más tiempo para cargar un tiro más fuerte.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:3d-football-mania:keeper-blocks-everythingtips-6ac4f81c -->
 - **El portero lo para todo, ¿algún consejo?**  
   Prueba a disparar cruzado, ajustado al segundo palo, y mantén los tiros bajos
   o con efecto.
 
+<!-- i18n:faq:id=faq:3d-football-mania:passing-too-slow-619ffb34 -->
 - **Los pases salen muy lentos, ¿qué hago?**  
   Suelta el balón antes y dirige el pase al espacio, no directamente al cuerpo
   del compañero.
 
+<!-- i18n:faq:id=faq:3d-football-mania:defenders-crowd-mefix-a4cae96e -->
 - **Los defensas me rodean siempre, ¿cómo lo evito?**  
   No te obsesiones con regatear entre varios rivales. Pasa y muévete; utiliza
   paredes y cambios de lado para generar huecos.

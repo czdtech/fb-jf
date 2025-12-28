@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada
 
 *Bank Robbery 2* es un shooter en primera persona por equipos donde los jugadores
@@ -40,6 +41,7 @@ variedad de armas, herramientas y vehículos que puedes usar para apoyar la
 estrategia de tu equipo, y ganas dinero en partidas para comprar mejor equipo en
 las siguientes rondas.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego
 
 La forma de jugar cambia bastante según el bando.
@@ -81,45 +83,54 @@ La forma de jugar cambia bastante según el bando.
     interceptar. Usa coches de policía para perseguirlos o montad bloqueos en la
     ruta al punto de escape.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `W` `A` `S` `D` `Left Mouse Button` `Right Mouse Button` `R` `Left-Shift` `Spacebar` `E` `F` `1` `2` `3` `C`
 
 Los controles siguen el estándar de shooters en primera persona (p.ej. estilo
 Roblox en PC).
 
-*   **`W`, `A`, `S`, `D`:** Mover al personaje.
+*   **W, A, S, D:** Mover al personaje.
 *   **Ratón:** Apuntar y mover la cámara.
 *   **Clic izquierdo:** Disparar.
 *   **Clic derecho:** Apuntar con la mira (ADS).
-*   **`R`:** Recargar.
-*   **`Shift` izquierdo:** Correr.
-*   **`Espacio`:** Saltar.
-*   **`E` o `F`:** Interactuar (colocar/desactivar taladros, recoger dinero,
+*   **R:** Recargar.
+*   **Shift izquierdo:** Correr.
+*   **Espacio:** Saltar.
+*   **E o F:** Interactuar (colocar/desactivar taladros, recoger dinero,
     entrar en vehículos, etc.).
-*   **Números (`1`, `2`, `3`...):** Cambiar de arma u objeto.
-*   **`C`:** Agacharse (si la versión lo soporta).
+*   **Números (1, 2, 3...):** Cambiar de arma u objeto.
+*   **C:** Agacharse (si la versión lo soporta).
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:bank-robbery:how-do-i-get-better-882d3244 -->
 **1. ¿Cómo consigo mejores armas y equipo?**  
 Ganando dinero en las partidas: completando objetivos (robar como ladrón,
 frustrar el atraco como policía) y eliminando rivales. Luego lo inviertes en la
 tiendita del juego para comprar nuevos fusiles, armaduras y herramientas.
 
+<!-- i18n:faq:id=faq:bank-robbery:as-a-robber-the-drill-14c81697 -->
 **2. Como ladrón, siempre me desactivan el taladro. ¿Qué hago?**  
 La única respuesta es el equipo: no puedes dejarlo solo. Necesitas al menos uno
 o dos compañeros dedicados a defender la zona mientras el taladro trabaja.
 
+<!-- i18n:faq:id=faq:bank-robbery:as-a-cop-we-are-9863dae1 -->
 **3. Como policía, siempre nos superan. ¿Cómo defendemos mejor?**  
 No os amontonéis en un solo punto predecible. Usad todo el banco como zona de
 defensa. Repartiéndoos, podréis detectar antes por dónde entran y flanquearlos
 cuando se comprometan con una cámara concreta.
 
+<!-- i18n:faq:id=faq:bank-robbery:what-is-the-best-way-05d6ac20 -->
 **4. ¿Cuál es la mejor forma de entrar al banco como ladrón?**  
 No hay una única respuesta: depende de cómo coloquen los polis su defensa. A
 menudo funciona mejor un ataque sorpresa, usando C4 en una pared lateral o
 aprovechando una entrada trasera poco vigilada, que ir de frente por la puerta
 principal.
 
+<!-- i18n:faq:id=faq:bank-robbery:can-i-switch-teams-during-61152304 -->
 **5. ¿Puedo cambiar de equipo a mitad de partida?**  
 En la mayoría de versiones eliges bando antes de empezar la ronda y te quedas en
 él hasta la siguiente, para mantener el equilibrio.

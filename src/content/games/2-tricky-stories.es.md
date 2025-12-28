@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 *Brain Test 2: Tricky Stories* es un juego de puzles muy creativo y desafiante
 creado por Unico Studio. Es la secuela del popular *Brain Test: Tricky Puzzles*.
 A diferencia de su predecesor, que ofrecía niveles sueltos, *Brain Test 2* adopta
@@ -50,6 +51,7 @@ de la pantalla de formas inesperadas para encontrar la solución.
 
 ---
 
+<!-- i18n:section:how-to-play -->
 ### **2. Cómo jugar**
 
 Como la esencia del juego es pensar por tu cuenta y disfrutar de descubrir las
@@ -91,6 +93,7 @@ pensar que te ayudarán en casi todos los niveles.
 
 ---
 
+<!-- i18n:section:controls -->
 ### **3. Guía de controles**
 
 Los controles de *Brain Test 2* son muy intuitivos y, de hecho, forman parte de
@@ -108,8 +111,10 @@ muchos puzles. Estas son las formas principales de interactuar con el juego:
 
 ---
 
+<!-- i18n:section:faq -->
 ### **4. Preguntas frecuentes (FAQ)**
 
+<!-- i18n:faq:id=faq:2-tricky-stories:im-stuck-on-a-level-cbe2e37f -->
 **Q: Estoy atascado en un nivel. ¿Qué debería hacer?**
 **A:** Primero prueba todas las estrategias generales mencionadas en la sección
 "Cómo jugar". Interactúa con cada elemento de la pantalla, lee con atención el
@@ -117,12 +122,14 @@ enunciado y prueba también las funciones físicas del móvil. Si sigues sin ver
 solución, usa una pista con bombilla para obtener una gran pista. Y, como último
 recurso, siempre puedes ver un anuncio para saltarte el nivel.
 
+<!-- i18n:faq:id=faq:2-tricky-stories:is-the-game-free-9403c1eb -->
 **Q: ¿El juego es gratuito?**
 **A:** Sí, *Brain Test 2* es un juego free-to-play con anuncios. Puedes ver
 anuncios para conseguir pistas o saltarte niveles. También hay una compra dentro
 de la app que elimina los anuncios obligatorios y hace que la experiencia sea
 más fluida.
 
+<!-- i18n:faq:id=faq:2-tricky-stories:how-do-i-get-more-0b80caeb -->
 **Q: ¿Cómo consigo más pistas con bombilla?**
 **A:** Puedes obtener pistas de varias maneras:
 1.  Como recompensa por completar ciertos niveles o capítulos.
@@ -130,6 +137,7 @@ más fluida.
 3.  Viendo anuncios de vídeo opcionales recompensados.
 4.  Comprándolas directamente mediante compras dentro de la aplicación.
 
+<!-- i18n:faq:id=faq:2-tricky-stories:what-is-the-difference-between-92bd2e3d -->
 **Q: ¿Cuál es la diferencia entre Brain Test 1 y Brain Test 2?**
 **A:** La mayor diferencia está en la estructura. *Brain Test 1* ofrece una
 serie de puzles sueltos sin relación entre sí. En cambio, *Brain Test 2* utiliza
@@ -137,7 +145,9 @@ un formato de capítulos con historia, donde cada capítulo tiene un protagonist
 fijo y una trama continua, lo que hace que la experiencia de resolver puzles sea
 más envolvente y con mayor sensación de progreso.
 
+<!-- i18n:faq:id=faq:2-tricky-stories:does-the-game-require-an-b76f6b27 -->
 **Q: ¿El juego necesita conexión a internet?**
 **A:** El juego se puede jugar sin conexión. Sin embargo, necesitas conexión si
 quieres usar el sistema de pistas (ver anuncios para conseguir bombillas o para
 saltar niveles).
+

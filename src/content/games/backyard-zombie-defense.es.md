@@ -15,6 +15,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada
 
 Backyard Zombie Defense es un juego de defensa de torres sencillo y directo.
@@ -22,6 +23,7 @@ Debes construir y mejorar una combinación de torretas de objetivo único y dañ
 en área, ralentizar enemigos cerca de la salida y gestionar bien la economía
 para seguir el ritmo de unas oleadas cada vez más fuertes.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego y recorrido
 
 1.  **Cubre los trayectos largos y carriles compartidos:** Coloca torretas en
@@ -38,6 +40,7 @@ para seguir el ritmo de unas oleadas cada vez más fuertes.
     el presupuesto al inicio; a veces necesitas una mejora rápida o una nueva
     torre para responder a un pico de dificultad.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - **Colocar/Mejorar/Vender:** Usa la interfaz para seleccionar torretas, ubicarlas
@@ -45,16 +48,21 @@ para seguir el ritmo de unas oleadas cada vez más fuertes.
 - **Iniciar oleadas:** Pulsa el botón de inicio cuando estés listo para la
   siguiente oleada.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:backyard-zombie-defense:keep-leakingwhat-to-do-70297790 -->
 - **Los zombis siempre se me cuelan, ¿qué hago?**  
   Añade torres de ralentización y daño en área en los cuellos de botella y cerca
   de la salida, y mejora las torres que más impacto tienen.
 
+<!-- i18n:faq:id=faq:backyard-zombie-defense:best-openers-9443fd68 -->
 - **¿Cuál es una buena apertura?**  
   Suele funcionar bien empezar con una torre fuerte situada en un punto donde
   cubra un tramo largo del camino.
 
+<!-- i18n:faq:id=faq:backyard-zombie-defense:speed-toggle-3e55cb8a -->
 - **¿Puedo acelerar la partida?**  
   Muchas versiones incluyen un botón de "avance rápido" para acelerar el tiempo
   entre oleadas o durante las más sencillas.
+

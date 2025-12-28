@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada
 
 *Bad Ice-Cream* es el primer juego de la querida serie arcade de puzles en
@@ -70,29 +71,38 @@ interior, rompe una salida y pasa a construir tu siguiente refugio.
 *   **El señuelo:** Uno puede atraer la atención de varios enemigos y llevarlos de paseo mientras el otro recoge fruta con tranquilidad.  
 *   **Cuidado al usar el hielo:** Vigila no encerrar por accidente a tu compañero con un muro; la comunicación es clave.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `↑` `↓` `←` `→` `Spacebar` `W` `A` `S` `D` `F`
 
 El juego está pensado para que dos personas puedan jugar cómodamente en el mismo
 teclado.
 
 *   **Jugador 1:**  
-    *   **Mover:** Flechas (`↑`, `↓`, `←`, `→`).  
-    *   **Acción (Crear/Eliminar hielo):** `Barra espaciadora`.  
+    *   **Mover:** Flechas (↑, ↓, ←, →).  
+    *   **Acción (Crear/Eliminar hielo):** Barra espaciadora.  
 
 *   **Jugador 2:**  
-    *   **Mover:** Teclas `W`, `A`, `S`, `D`.  
-    *   **Acción (Crear/Eliminar hielo):** Tecla `F`.  
+    *   **Mover:** Teclas W, A, S, D.  
+    *   **Acción (Crear/Eliminar hielo):** Tecla F.  
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:bad-ice-cream:q-can-i-kill-the-a2865b98 -->
 *   **P: ¿Puedo matar a los enemigos?**
     *   **R:** No. No puedes dañarlos de forma directa; solo esquivarlos o atraparlos temporalmente con tus bloques de hielo.
 
+<!-- i18n:faq:id=faq:bad-ice-cream:q-what-is-the-goal-7ed4507e -->
 *   **P: ¿Cuál es el objetivo de cada nivel?**
     *   **R:** Recoger el 100% de la fruta indicada en la parte superior de la pantalla antes de que se agote el tiempo.
 
+<!-- i18n:faq:id=faq:bad-ice-cream:q-do-the-different-types-e6a9a3a2 -->
 *   **P: ¿Las frutas tienen efectos distintos?**
     *   **R:** No. Plátanos, cerezas, uvas, etc. solo cambian la apariencia; todas cuentan igual y debes recogerlas todas.
 
+<!-- i18n:faq:id=faq:bad-ice-cream:q-how-does-the-2player-8a760ff7 -->
 *   **P: ¿Cómo funciona el modo de 2 jugadores?**
     *   **R:** Los dos compartís pantalla y trabajáis juntos para recoger la fruta. Normalmente compartís un mismo contador de vidas, así que si cualquiera es tocado por un enemigo, el equipo pierde una vida.
+

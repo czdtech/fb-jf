@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 *Brain Test 3: Tricky Quests* es la tercera entrega de Unico Studio. Mantiene el ADN de "pensar fuera de lo común" y romper las reglas típicas de los puzles, ahora envuelto en una aventura con narrativa completa.
 
 En esta historia acompañas a **Alyx**, que busca seis Gemas de Poder para liberar a su padre. En lugar de niveles aislados, exploras un mundo interconectado con una trama continua.
@@ -54,6 +55,7 @@ La estrategia de *Brain Test 3* hereda la mentalidad de los juegos anteriores, p
 
 ---
 
+<!-- i18n:section:controls -->
 ### **3. Guía de controles**
 
 Los controles de *Brain Test 3* se basan en los de las entregas anteriores, pero
@@ -70,14 +72,17 @@ añaden la interacción con el inventario.
 
 ---
 
+<!-- i18n:section:faq -->
 ### **4. Preguntas frecuentes (FAQ)**
 
+<!-- i18n:faq:id=faq:3-tricky-quests:how-do-i-use-the-b86c92eb -->
 **P: ¿Cómo uso los objetos de la mochila (inventario)?**  
 **R:** Toca el icono de la mochila en la parte inferior de la pantalla para
 abrirla. Luego mantén pulsado el objeto que quieras usar y arrástralo hasta el
 lugar adecuado en la escena. Para combinar objetos, arrastra uno sobre otro
 mientras tengas el inventario abierto.
 
+<!-- i18n:faq:id=faq:3-tricky-quests:what-is-the-fundamental-differ-4486966d -->
 **P: ¿En qué se diferencia Brain Test 3 de los dos primeros juegos?**  
 **R:** La diferencia principal está en la estructura. *Brain Test 1* es una
 colección de puzles independientes. *Brain Test 2* introdujo capítulos con
@@ -85,18 +90,22 @@ historia. *Brain Test 3* da un paso más y se convierte en una aventura de puzle
 con una historia principal completa, inventario y un mapa interconectado, lo que
 ofrece más libertad y continuidad.
 
+<!-- i18n:faq:id=faq:3-tricky-quests:why-cant-i-get-past-522c207f -->
 **P: No puedo avanzar en cierta zona, ¿por qué?**  
 **R:** Lo más probable es que te falte un objeto clave. Prueba a volver a zonas
 anteriores y busca con calma elementos que puedas recoger. También revisa si
 puedes fabricar un objeto de misión nuevo en el taller.
 
+<!-- i18n:faq:id=faq:3-tricky-quests:is-this-game-free-a3b0cc70 -->
 **P: ¿El juego es gratuito?**  
 **R:** Sí, *Brain Test 3* se puede descargar y jugar gratis, pero contiene
 anuncios. Puedes ver anuncios para obtener pistas. También existe una compra
 integrada para eliminar la publicidad.
 
+<!-- i18n:faq:id=faq:3-tricky-quests:what-is-the-workshop-for-ca2fadbe -->
 **P: ¿Para qué sirve el taller?**  
 **R:** El taller es un lugar clave para avanzar en la historia principal. Cuando
 reúnes ciertos objetos de misión (como fragmentos de una Gema de Poder), debes
 volver al taller para ensamblarlos o crear/mejorar herramientas especiales
 necesarias para progresar.
+

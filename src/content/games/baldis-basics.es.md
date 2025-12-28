@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada
 
 *Baldi's Basics in Education and Learning* es un surrealista juego de terror y
@@ -32,6 +33,7 @@ un tenso juego del gato y el ratón: debes conseguir los cinco cuadernos
 restantes evitando a Baldi y a un elenco de personajes extraños que intentarán
 entorpecerte, y al final encontrar una salida de la escuela.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego
 
 Para tener éxito en *Baldi's Basics* necesitas buen oído, gestionar bien los
@@ -85,28 +87,35 @@ recursos y entender el comportamiento de cada personaje.
     Esta fase final es una prueba pura de velocidad, uso de objetos y algo de
     suerte.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `W` `A` `S` `D` `Left-Shift` `Left Mouse Button` `Right Mouse Button` `Spacebar`
 
 Los controles siguen el estándar de los juegos en primera persona en PC.
 
-*   **`W`, `A`, `S`, `D`:** Moverse.
+*   **W, A, S, D:** Moverse.
 *   **Ratón:** Mirar alrededor.
-*   **`Shift` izquierdo:** Mantener para correr (consume resistencia).
+*   **Shift izquierdo:** Mantener para correr (consume resistencia).
 *   **Clic izquierdo:** Abrir puertas y recoger objetos.
 *   **Clic derecho:** Usar el objeto seleccionado.
 *   **Rueda del ratón:** Cambiar de objeto en el inventario.
-*   **`Espacio`:** Mirar hacia atrás (en versiones más recientes).
+*   **Espacio:** Mirar hacia atrás (en versiones más recientes).
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:baldis-basics:how-do-i-solve-the-663e2116 -->
 **1. ¿Se puede resolver el problema de mates imposible?**  
 No. Ese tercer ejercicio ilegible está diseñado para ser irresoluble. Fallarlo
 es lo que activa la fase de persecución de Baldi.
 
+<!-- i18n:faq:id=faq:baldis-basics:why-does-baldi-get-faster-0d96165d -->
 **2. ¿Por qué Baldi se vuelve cada vez más rápido?**  
 Su velocidad aumenta con cada cuaderno que consigues. Es la principal curva de
 Dificultad del juego.
 
+<!-- i18n:faq:id=faq:baldis-basics:what-are-the-school-rules-89dcb636 -->
 **3. ¿Qué normas vigila el Director?**  
 Las principales son:  
 *   No correr por los pasillos.  
@@ -114,11 +123,14 @@ Las principales son:
 *   No beber (usar BSoda) delante de él.  
 *   No acosar (aplicable al Bully).  
 
+<!-- i18n:faq:id=faq:baldis-basics:how-do-i-get-out-8f6e92ec -->
 **4. ¿Cómo salgo de detención?**  
 Debes esperar a que termine el contador. Si tienes las "Principal's Keys",
 puedes usarlas en la puerta para salir al instante.
 
+<!-- i18n:faq:id=faq:baldis-basics:i-collected-all-7-notebooks-0a8ec16c -->
 **5. Ya tengo los 7 cuadernos, ¿cómo gano?**  
 Tras conseguirlos, debes encontrar y tocar tres salidas "falsas" repartidas por
 la escuela. Cuando lo logres, se abrirá una cuarta salida real; llegar a ella es
 la condición de victoria.
+

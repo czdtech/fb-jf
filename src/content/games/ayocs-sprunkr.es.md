@@ -11,10 +11,11 @@ thumbnail: /new-images/thumbnails/ayocs-sprunkr.png
 tags:
   - ayocs sprunkr
 score: 4.1/5  (54 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+releaseDate: 2025-12-04
 ---
 
 
+<!-- i18n:section:introduction -->
 ¡Hey, fans de Sprunkr! Si quieres darle a tus composiciones un toque realmente
 estiloso, tienes que probar **AYOCS Sprunkr**. Este mod le da un lavado de cara
 muy pulido al universo Sprunki y renueva por completo la experiencia de crear
