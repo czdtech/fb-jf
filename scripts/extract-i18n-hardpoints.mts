@@ -204,6 +204,8 @@ export function extractHardpointsFromMarkdown(
 
           // Skip plain single-digit numbers (too noisy across locales and often written as words in English).
           if (/^\d$/.test(token)) continue;
+          // Skip bare decimals without a unit (often version numbers or stylistic, too noisy to hard-enforce).
+          if (/^\d+\.\d+$/.test(token)) continue;
           // Skip plain numbers that appear in the slug (usually just part of the title).
           if (/^\d+$/.test(token) && ignoredPlainNumbers.has(token)) continue;
           // Avoid false positives where the trailing "s" is plural (e.g., "match-3s", "'4s'") rather than seconds.
