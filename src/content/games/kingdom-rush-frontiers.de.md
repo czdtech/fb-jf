@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Übersicht
 
 Frontiers verfeinert die bekannte Kingdom-Rush-Formel mit neuen Biomen,
@@ -28,6 +29,7 @@ Helden stoppst du durchbrechende Gegner. Gleichzeitig musst du auf Rüstungs- un
 Magieresistenzen achten, damit deine Schadensarten zu den anrückenden Wellen
 passen.
 
+<!-- i18n:section:how-to-play -->
 ### So spielst du
 
 - **Rüstungstypen erkennen:** Nutze Magier gegen stark gepanzerte Gegner und
@@ -38,6 +40,7 @@ passen.
 - **Helden & Specials timen:** Heb dir Heldenskills und Meteore für Elitewellen
   oder große Flugformationen auf.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Baue, verbessere und verkaufe Türme per Maus oder Touch.
@@ -53,17 +56,22 @@ passen.
 - **Flugrouten im Blick behalten:** Baue rechtzeitig Türme mit Flugabwehr
   entlang der Luftwege – sonst rutschen dir fliegende Gegner durch.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:kingdom-rush-frontiers:which-tower-upgrades-should-i-211d8680 -->
 - **F: Welche Turm-Upgrades sollte ich zuerst priorisieren?**  
   **A:** Konzentriere dein Gold auf ein bis zwei Kerntürme in der Nähe des
   Hauptengpasses und bring sie auf hohe Stufen, statt überall kleine Türme zu
   verteilen.
 
+<!-- i18n:faq:id=faq:kingdom-rush-frontiers:how-do-i-counter-heavy-dfc7df04 -->
 - **F: Wie kontere ich Wellen mit schwer gepanzerten Gegnern?**  
   **A:** Investiere in Magiertürme und Fähigkeiten, die Rüstung schwächen oder
   ignorieren. Stelle sie an Stellen auf, an denen Gegner lange im Feuer stehen.
 
+<!-- i18n:faq:id=faq:kingdom-rush-frontiers:are-heroes-necessary-to-win-7dad505c -->
 - **F: Sind Helden zwingend nötig, um Levels zu schaffen?**  
   **A:** Streng genommen nicht, aber sie helfen enorm, Lücken zu stopfen,
   Elitegegner zu erledigen und kritische Stellen kurzfristig zu stabilisieren.
+

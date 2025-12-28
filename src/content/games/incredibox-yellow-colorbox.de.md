@@ -12,6 +12,7 @@ tags:
   - incredibox yellow colorbox
   - incredibox yellow colorbox online
 score: 4.5/5  (614 votes)
+releaseDate: 2025-12-04
 ---
 
 
@@ -22,6 +23,7 @@ Figuren komplett gelb designt und jeder Charakter besitzt einen **einzigartigen
 Loop oder Effekt**. Mit einfachen Drag-and-drop-Aktionen kombinierst du diese
 Bausteine zu deinem eigenen Track.
 
+<!-- i18n:section:tips -->
 ### Einfaches Gameplay, viel Spielraum
 
 - **Ziehen & Ablegen:** Ziehe die gelben Figuren auf die freien Slots, damit

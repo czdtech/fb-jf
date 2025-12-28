@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Jewel Duel kombiniert klassisches Match-3-Gameplay mit rundenbasierten
@@ -30,6 +31,7 @@ bestimmte Match-Arten gebrochen werden können. Dadurch fühlt sich jeder Kampf
 wie ein kleines Rätsel an: Du musst nicht nur möglichst viel Schaden machen,
 sondern auch zur richtigen Zeit die passenden Farben verbinden.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Farben gezielt wählen**  
@@ -59,6 +61,7 @@ sondern auch zur richtigen Zeit die passenden Farben verbinden.
     Match-Arten verwundbar werden oder reagieren empfindlich auf Reihen- bzw.
     Flächenangriffe. Wer die Mechanik versteht, spart Züge und Lebenspunkte.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Juwelen tauschen:** Zwei benachbarte Steine mit Maus oder Touch
@@ -70,20 +73,25 @@ sondern auch zur richtigen Zeit die passenden Farben verbinden.
 - **Gegner-Absichten lesen:** Achte auf Symbole oder Hinweise über den Köpfen
   der Gegner, um ihren nächsten Zug besser einschätzen zu können.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:jewel-duel:i-do-low-damage-why-08f47b3b -->
 - **F: Ich mache kaum Schaden – woran liegt das?**  
   **A:** Häufig matchst du die falschen Farben für deinen Build oder ignorierst
   gegnerische Schilde. Konzentriere dich auf Juwelen, die deinen Angriff
   verstärken, und brich zuerst Barrieren, bevor du reinen Schaden stapelst.
 
+<!-- i18n:faq:id=faq:jewel-duel:any-tip-for-multitarget-fights-656d4374 -->
 - **F: Hast du Tipps für Kämpfe mit mehreren Zielen?**  
   **A:** Schalte gefährliche Gegner zuerst aus – etwa jene mit starken
   Einzelangriffen oder nervigen Debuffs. Flächenangriffe und Reihen-Clears
   eignen sich gut, um das Feld aufzuräumen, aber ein fokussierter Kill nimmt
   dir am meisten Druck.
 
+<!-- i18n:faq:id=faq:jewel-duel:can-i-save-skills-d0873f10 -->
 - **F: Kann ich aufgeladene Fähigkeiten aufsparen?**  
   **A:** Ja. Oft lohnt es sich, Skills nicht sofort zu zünden, sondern sie für
   einen großen Kombozug oder zum Unterbrechen eines gegnerischen Ultimates
   aufzuheben.
+

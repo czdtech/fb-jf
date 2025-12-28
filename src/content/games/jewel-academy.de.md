@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Jewel Academy ist ein liebevoll gestaltetes Match-3-Puzzlespiel. Als Schüler
@@ -26,6 +27,7 @@ um Reihen aus drei oder mehr gleichen Steinen zu bilden. Durch clevere Züge
 erschaffst du Spezialjuwelen, überwindest Hindernisse und knackst nach und nach
 hunderte knifflige Aufgaben.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Auf Spezialkombos achten**  
@@ -50,6 +52,7 @@ hunderte knifflige Aufgaben.
     Kettenreaktionen. So erledigst du oft zusätzliche Aufgaben,
     ohne extra Züge zu investieren.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Das Spiel wird mit Maus oder Touchscreen gespielt.
@@ -60,18 +63,23 @@ Das Spiel wird mit Maus oder Touchscreen gespielt.
 - **Power-ups auslösen:** Spezialsteine wie normale Juwelen tauschen; um zwei
   Power-ups zu kombinieren, vertausche sie direkt miteinander.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:jewel-academy:q-how-do-i-create-1a7733b7 -->
 *   **F: Wie erstelle ich eine Bombe?**
     *   **A:** Durch ein Match aus fünf Juwelen in „L“- oder „T“-Form – die Bombe
         explodiert im 3x3‑Bereich.
 
+<!-- i18n:faq:id=faq:jewel-academy:q-what-does-the-rainbowcolored-6d75b550 -->
 *   **F: Was macht der regenbogenfarbene Stein?**
     *   **A:** Das ist eine Farb‑Bombe. Du erhältst sie durch fünf gleiche Juwelen in
         einer Linie. Tausch sie mit einem beliebigen Stein, um alle Juwelen dieser
         Farbe vom Feld zu entfernen.
 
+<!-- i18n:faq:id=faq:jewel-academy:q-why-did-i-run-4ac7a2e7 -->
 *   **F: Warum sind mir die Züge ausgegangen?**
     *   **A:** Viele Level haben ein Zuglimit. Du musst das Ziel erreichen, bevor
         deine Züge aufgebraucht sind – sonst verlierst du ein Leben und musst den
         Versuch wiederholen.
+

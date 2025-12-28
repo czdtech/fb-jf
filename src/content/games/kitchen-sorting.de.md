@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Kitchen Sorting ist ein schnelles, visuelles Logikspiel, in dem du Gegenstände
@@ -29,6 +30,7 @@ korrekt sortieren“ und empfindliche Strafsysteme für falsche Zuordnungen oder
 langes Zögern. Später laufen mehrere Förderbänder gleichzeitig und strengere
 Hygieneregeln bestrafen jede Form von Kreuzkontamination.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Die wichtigsten Regeln zuerst**  
@@ -54,25 +56,31 @@ Hygieneregeln bestrafen jede Form von Kreuzkontamination.
     Wenn du unsicher bist, lass einen Gegenstand lieber kurz liegen, statt
     ihn in den falschen Behälter zu werfen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Sortieren:** Ziehe oder tippe Gegenstände in die beschrifteten Behälter.
 - **Bedienoberfläche:** Über die UI kannst du pausieren, neu starten oder
   Hinweise aktivieren, die dir die korrekte Kategorie zeigen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:kitchen-sorting:i-confuse-recyclables-and-tras-17ec2e05 -->
 - **F: Ich verwechsle ständig Recycling und Restmüll – was kann ich tun?**  
   **A:** Präge dir ein paar „sichere“ Beispiele ein: Glas, Dosen und Karton
   gehören fast immer in den Recyclingbehälter. Unsichere Kunststoffe kannst du
   im Zweifel eher zum Restmüll geben, sofern sie nicht eindeutig markiert sind.
 
+<!-- i18n:faq:id=faq:kitchen-sorting:combo-streaks-keep-breaking-1bfd2d80 -->
 - **F: Meine Komboserien brechen ständig ab.**  
   **A:** Sortiere zuerst leichte, eindeutige Gegenstände, um deine Serie zu
   stabilisieren. Schwierige Objekte verschiebst du auf Momente mit weniger
   Andrang.
 
+<!-- i18n:faq:id=faq:kitchen-sorting:are-penalties-harsh-cf63957f -->
 - **F: Sind die Strafen wirklich so hart?**  
   **A:** In späteren Levels werden Hygieneverstöße stark geahndet. Es ist oft
   besser, einen Gegenstand kurz zu überspringen, als durch eine Fehlzuordnung
   eine hohe Strafe zu kassieren.
+

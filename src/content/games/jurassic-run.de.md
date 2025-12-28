@@ -15,6 +15,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Jurassic Run ist ein schneller Endless-Runner vor der Kulisse von Dinosauriern
@@ -27,6 +28,7 @@ Je länger du überlebst, desto dichter werden die Fallen und desto wichtiger
 werden sauberes Timing und schnelle Reaktionen. Das Ziel ist es, deinen
 persönlichen Rekord immer weiter nach oben zu schrauben.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Weit voraus schauen**  
@@ -53,6 +55,7 @@ persönlichen Rekord immer weiter nach oben zu schrauben.
     mit vielen Hindernissen oder dichter Münzverteilung, um das Maximum
     herauszuholen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Bewegen:** A/D oder Pfeil links/rechts, um die Spur zu wechseln.
@@ -61,18 +64,23 @@ persönlichen Rekord immer weiter nach oben zu schrauben.
 - **Pause/Neustart:** Über die Bildschirm-Buttons kannst du pausieren oder den
   Lauf neu starten.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:jurassic-run:keep-clippingwhy-9a0fbd98 -->
 - **F: Ich stoße ständig an Hindernisse – woran liegt das?**  
   **A:** Oft springst du zu früh oder lenkst zu stark. Versuche, Sprünge einen
   Moment später auszulösen und steuere nur so viel wie nötig, um auf der
   sicheren Spur zu bleiben.
 
+<!-- i18n:faq:id=faq:jurassic-run:is-there-an-end-0d3d5bd5 -->
 - **F: Gibt es ein festes Ende?**  
   **A:** In der Regel handelt es sich um einen Endlosmodus. Du spielst auf
   Highscore und versuchst, deine Bestleistung immer wieder zu übertreffen.
 
+<!-- i18n:faq:id=faq:jurassic-run:powerups-6996ef33 -->
 - **F: Welche Power-ups gibt es?**  
   **A:** Viele Versionen bieten Schilde, Magnete oder Zeitlupen-Effekte, die dir
   das Einsammeln von Münzen erleichtern oder dich kurzzeitig vor Fehlern
   schützen.
+

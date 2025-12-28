@@ -15,6 +15,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Krishna Jump ist ein Ein-Knopf-Runner nach oben. Mit dem richtigen Timing
@@ -23,6 +24,7 @@ Gegnern aus und sammelst unterwegs Bonus-Objekte ein. In späteren Levels
 verschwinden Plattformen, Geschwindigkeiten ändern sich und du brauchst einen
 konstanten Rhythmus sowie schnelle Reaktionen.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Im Takt bleiben**  
@@ -45,22 +47,28 @@ konstanten Rhythmus sowie schnelle Reaktionen.
     Nach einem Absturz lohnt es sich, kurz durchzuatmen und wieder einen sauberen
     Takt aufzubauen, statt sofort hektisch weiterzutippen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Springen:** Tippen/Klicken, um zu springen; in manchen Versionen sorgt
   langes Halten für höhere Sprünge.  
 - **Pause:** Über die Benutzeroberfläche kannst du pausieren oder neu starten.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:krishna-jump:i-overshoot-platforms-fix-7e0e06bb -->
 - **F: Ich springe ständig über Plattformen hinaus – was tun?**  
   **A:** Setze kürzere Tipp-Impulse und ziele auf mittlere Sprunghöhen. Nutze
   Vollsprünge nur, wenn du wirklich viel Höhe brauchst.
 
+<!-- i18n:faq:id=faq:krishna-jump:are-double-jumps-available-c534c670 -->
 - **F: Gibt es einen Doppelsprung?**  
   **A:** In einigen Stufen bekommst du temporäre Power-ups für Doppelsprünge.
   Achte auf Anzeigen im HUD oder Einblendungen im Level.
 
+<!-- i18n:faq:id=faq:krishna-jump:endless-or-levelbased-5a8b7709 -->
 - **F: Ist das Spiel endlos oder levelbasiert?**  
   **A:** Je nach Modus. Viele Kampagnen bestehen aus handgebauten, kurzen
   Leveln, während es zusätzlich oft einen Endlosmodus für Highscores gibt.
+

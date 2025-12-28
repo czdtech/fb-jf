@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Kitty Scramble präsentiert dir Buchstabengitter zu unterschiedlichen Themen
@@ -27,6 +28,7 @@ Mit der Zeit steigen die Anforderungen: Die Wörter werden länger, diagonale
 Wege wichtiger und viele Zielwörter überlagern sich, sodass du flexible Pfade
 finden und deinen Wortschatz gut einsetzen musst.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Thema vorab durchdenken**  
@@ -50,6 +52,7 @@ finden und deinen Wortschatz gut einsetzen musst.
     Gehe das Gitter Reihe für Reihe und Spalte für Spalte durch, damit dir
     keine offensichtlichen Wörter entgehen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Wörter bilden:** Wische mit gedrückter Maustaste oder dem Finger über
@@ -58,16 +61,21 @@ finden und deinen Wortschatz gut einsetzen musst.
 - **Hinweise:** Nutze Hinweise sparsam, sie helfen vor allem bei den letzten
   fehlenden Wörtern.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:kitty-scramble:i-see-the-word-but-7f27f651 -->
 - **F: Ich sehe ein Wort, kann es aber nicht zeichnen – warum?**  
   **A:** Vermutlich liegen die Buchstaben nicht direkt nebeneinander. Prüfe, ob
   du das Wort diagonal oder über eine Zickzack-Linie verbinden kannst, falls
   das Spiel solche Wege erlaubt.
 
+<!-- i18n:faq:id=faq:kitty-scramble:are-plurals-allowed-409748db -->
 - **F: Sind Mehrzahlformen erlaubt?**  
   **A:** In vielen Leveln ja, außer das Wörterbuch schließt sie explizit aus.
 
+<!-- i18n:faq:id=faq:kitty-scramble:can-i-replay-for-coins-f9e57132 -->
 - **F: Kann ich Levels erneut spielen, um mehr Münzen zu verdienen?**  
   **A:** Ja, du kannst frühere Tafeln wiederholen und zusätzliche Wörter finden,
   um dir ein Polster an Hinweisen aufzubauen.
+

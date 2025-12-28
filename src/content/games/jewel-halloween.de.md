@@ -15,6 +15,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Jewel Halloween ist ein saisonales Match-3-Puzzlespiel mit gruseligem
@@ -24,6 +25,7 @@ erschaffst du Spezialjuwelen, startest Kettenreaktionen und erfüllst
 verschiedene Ziele – etwa Punktvorgaben, Zuglimits oder das Beseitigen
 bestimmter Hindernisse auf dem Spielfeld.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Von unten arbeiten**  
@@ -50,6 +52,7 @@ bestimmter Hindernisse auf dem Spielfeld.
     Heb dir besonders mächtige Kombinationen für Levelabschnitte auf, in denen
     du wenig Züge übrig hast oder noch große Blocker im Weg stehen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Tauschen:** Ziehe zwei benachbarte Steine mit der Maus oder per Touch
@@ -57,18 +60,23 @@ bestimmter Hindernisse auf dem Spielfeld.
 - **Power-ups:** Spezialsteine werden durch Matches aktiviert oder – je nach
   Regel – per Antippen ausgelöst. Achte auf die In-Game-Beschreibungen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:jewel-halloween:stuck-on-move-limits-6d171cf2 -->
 - **F: Ich scheitere ständig am Zuglimit – was kann ich tun?**  
   **A:** Konzentriere dich auf Blocker und Kettenreaktionen. Kleine
   Dreierkombos ohne Effekt auf das Levelziel verbrauchen Züge, ohne dich
   wirklich voranzubringen.
 
+<!-- i18n:faq:id=faq:jewel-halloween:are-diagonals-allowed-37ab3fc0 -->
 - **F: Kann ich diagonal kombinieren?**  
   **A:** In der Regel zählen nur horizontale und vertikale Reihen. Halte dich an
   die angezeigten Levelregeln.
 
+<!-- i18n:faq:id=faq:jewel-halloween:hints-available-0dca1b1d -->
 - **F: Gibt es Hinweise oder Tipps im Spiel?**  
   **A:** Viele Match-3-Spiele zeigen dir nach einer Weile automatisch mögliche
   Züge an. Nutze diese Hinweise sparsam und versuche trotzdem, eigene starke
   Kombos zu finden.
+

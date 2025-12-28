@@ -16,6 +16,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Jungle Bricks ist eine moderne Variante des klassischen Brick-Breaker-Genres.
@@ -30,6 +31,7 @@ Dein Ziel ist es, so lange wie möglich zu überleben, indem du deine Schüsse
 clever planst und die Blöcke zerstörst, bevor sie den unteren Bildschirmrand
 berühren.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Winkel ausnutzen**  
@@ -54,6 +56,7 @@ berühren.
     in wenigen Runden kritisch werden, wenn du nicht entschlossen genug
     aufräumst.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Das Spiel nutzt einfache Ein-Knopf-Steuerung.
@@ -64,17 +67,22 @@ Das Spiel nutzt einfache Ein-Knopf-Steuerung.
 *   **Schießen:** Lass die Maustaste oder deinen Finger los, um die Bälle
     abzufeuern.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:jungle-bricks:q-what-do-the-numbers-8d6a66fb -->
 *   **F: Was bedeuten die Zahlen auf den Blöcken?**
     *   **A:** Die Zahl ist so etwas wie die „Lebenspunkte“ des Blocks – sie gibt an,
         wie oft er von einem Ball getroffen werden muss, bevor er verschwindet.
 
+<!-- i18n:faq:id=faq:jungle-bricks:q-how-do-you-lose-7ba43fb1 -->
 *   **F: Wie bekomme ich mehr Bälle?**
     *   **A:** Achte auf spezielle Blöcke mit einem „+“ oder einem ähnlichen Symbol.
         Zerstörst du sie, erhältst du für den nächsten Zug zusätzliche Bälle in
         deiner Salve.
 
+<!-- i18n:faq:id=faq:jungle-bricks:q-how-can-i-get-90ff761e -->
 *   **F: Wie verliere ich das Spiel?**
     *   **A:** Die Runde endet, sobald ein Block die unterste Linie des Spielfelds
         erreicht. Halte die Front also so weit oben wie möglich.
+

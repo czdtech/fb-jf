@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Kings and Queens verknüpft eine Schloss-Renovierungsstory mit klassischem
@@ -28,6 +29,7 @@ Mit den Sternen, die du in den Levels verdienst, renovierst du Räume und
 schaltest Booster frei, die dir auf schwierigeren Brettern helfen. So arbeitest
 du dich Raum für Raum durch das Schloss und gestaltest es nach und nach neu.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Spielfeldkontrolle in der Mitte**  
@@ -54,6 +56,7 @@ du dich Raum für Raum durch das Schloss und gestaltest es nach und nach neu.
     wie viele Züge du hast. Spiele auf das Levelziel hin – Punkte kommen dabei
     meist automatisch.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Tauschen:** Ziehe zwei benachbarte Steine, um sie zu vertauschen.
@@ -62,17 +65,22 @@ du dich Raum für Raum durch das Schloss und gestaltest es nach und nach neu.
 - **Renovieren:** Im Szenenmenü gibst du Sterne aus, um Möbel, Dekor und Räume
   aufzuwerten.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:kings-and-queens:im-stuck-on-a-marble-aed5c258 -->
 - **F: Ich hänge an einem Level mit vielen Marmorplatten fest – Tipps?**  
   **A:** Nutze Bomben in der Nähe der Platten und kombiniere Linien-Clears, um
   mehrere Schichten gleichzeitig zu beschädigen.
 
+<!-- i18n:faq:id=faq:kings-and-queens:should-i-hoard-boosters-c44e2837 -->
 - **F: Sollte ich Booster aufsparen?**  
   **A:** Ein kleines Polster ist sinnvoll, aber spare nicht alles auf – setze
   Booster gezielt ein, um echte „Wand-Level“ zu knacken und im Spiel
   voranzukommen.
 
+<!-- i18n:faq:id=faq:kings-and-queens:renovations-affect-gameplay-b116edd0 -->
 - **F: Haben Renovierungen Einfluss auf das Gameplay?**  
   **A:** Viele Verbesserungen sind hauptsächlich kosmetisch, einige schalten
   aber zusätzliche Booster-Slots oder tägliche Belohnungen frei.
+

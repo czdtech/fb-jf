@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Jigsaw Puzzles Hexa bietet eine moderne Variante des klassischen Puzzles. Statt
@@ -28,6 +29,7 @@ Zielbildes passen.
 Ohne Zeitlimit eignet sich das Spiel ideal zum Entspannen und zugleich, um dein
 räumliches Vorstellungsvermögen zu trainieren.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Formen genau betrachten**  
@@ -51,6 +53,7 @@ räumliches Vorstellungsvermögen zu trainieren.
     oft durch Ausprobieren lernen müssen. Wenn eine Form nicht passt, ziehe sie
     einfach zurück in den Vorrat und teste eine andere – ganz ohne Strafe.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Jigsaw Puzzles Hexa wird mit einem einfachen Drag-and-drop-System gespielt.
@@ -59,18 +62,23 @@ Jigsaw Puzzles Hexa wird mit einem einfachen Drag-and-drop-System gespielt.
     aus deinem Vorrat und ziehe ihn auf das Hauptfeld. Lasse los, um ihn
     abzulegen – passt die Form nicht, springt sie automatisch zurück.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:jigsaw-puzzles-hexa:q-can-i-rotate-the-93ca2109 -->
 *   **F: Kann ich die Teile drehen?**
     *   **A:** Nein. Die Hexa‑Blöcke haben eine feste Ausrichtung. Die Herausforderung
         besteht darin, sie genau so zu platzieren, wie sie sind.
 
+<!-- i18n:faq:id=faq:jigsaw-puzzles-hexa:q-im-stuck-and-a-3753159d -->
 *   **F: Ich finde keinen Platz für ein Teil – was nun?**
     *   **A:** Häufig liegt dann bereits ein anderer Block an einer falschen Stelle.
         Entferne ein oder zwei Teile vom Board und probiere neue Kombinationen aus.
         Falls das Spiel ein Hinweissystem anbietet, kannst du es in solchen
         Situationen nutzen.
 
+<!-- i18n:faq:id=faq:jigsaw-puzzles-hexa:q-is-there-a-time-c0411996 -->
 *   **F: Gibt es ein Zeitlimit?**
     *   **A:** Nein, das Spiel ist bewusst entspannt gestaltet. Du kannst dir so viel
         Zeit nehmen, wie du möchtest, um jedes Puzzle in Ruhe zu lösen.
+

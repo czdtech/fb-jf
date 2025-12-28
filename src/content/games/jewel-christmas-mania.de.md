@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Jewel Christmas Mania ist ein funkelndes Match-3-Puzzlespiel im
@@ -26,6 +27,7 @@ räumst du das Spielfeld, sammelst Punkte und erfüllst unterschiedliche
 Levelziele. Hunderte Level mit glitzernden Steinen, Hindernissen und starken
 Boostern sorgen für langen Rätselspaß in stimmungsvoller Weihnachtsatmosphäre.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Auf Spezialjuwelen achten**  
@@ -55,27 +57,33 @@ Boostern sorgen für langen Rätselspaß in stimmungsvoller Weihnachtsatmosphär
     und versuche, Kombinationen vorzubereiten, mit denen du später mehrere
     Ziele auf einmal triffst.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Juwelen tauschen:** Mit der Maus (oder per Touch) auf ein Juwel tippen und
   es mit einem benachbarten Stein vertauschen. Der Tausch klappt nur, wenn
   dabei mindestens drei gleiche Juwelen in einer Reihe oder Spalte entstehen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:jewel-christmas-mania:q-what-is-a-match3-cece0f08 -->
 *   **F: Was ist ein Match‑3‑Spiel?**
     *   **A:** In Match‑3‑Spielen vertauschst du benachbarte Spielsteine, um Reihen
         aus mindestens drei gleichen Symbolen zu bilden. Diese verschwinden dann
         vom Spielfeld, neue Steine rücken nach, und du erhältst Punkte oder erfüllst
         Levelziele.
 
+<!-- i18n:faq:id=faq:jewel-christmas-mania:q-how-do-i-use-06ae073e -->
 *   **F: Wie benutze ich Booster?**
     *   **A:** Booster sind besondere Hilfsobjekte, die dir bei schweren Leveln helfen.
         Du aktivierst sie in der Regel per Klick oder durch ein Match mit ihnen.
         Viele Booster erhältst du als Belohnung für abgeschlossene Level oder
         tägliche Login‑Boni.
 
+<!-- i18n:faq:id=faq:jewel-christmas-mania:q-what-happens-if-i-63c9772b -->
 *   **F: Was passiert, wenn mir die Züge ausgehen?**
     *   **A:** Schaffst du das Levelziel nicht innerhalb der vorgegebenen Zuganzahl,
         gilt das Level als verloren und du verlierst ein Leben. Danach kannst du den
         Versuch erneut starten und es noch einmal probieren.
+

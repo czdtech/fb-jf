@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 King Rugni Tower Conquest ist ein schlankes Tower-Defense-Spiel, bei dem du
@@ -28,6 +29,7 @@ Je nach Karte kannst du die Laufwege der Creeps beeinflussen und so lange,
 in der richtigen Mischung aus Turmtypen, sinnvollen Upgrades und einer klugen
 Platzierung entlang der Wegkreuzungen.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Abdeckung zuerst**  
@@ -54,6 +56,7 @@ Platzierung entlang der Wegkreuzungen.
     profitieren deine Türme von den Upgrades – das summiert sich über die Zeit
     enorm.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Türme platzieren/verbessern/verkaufen:** Über die Benutzeroberfläche
@@ -62,17 +65,22 @@ Platzierung entlang der Wegkreuzungen.
 - **Pause:** Nutze die Pausefunktion, um deine nächsten Schritte in Ruhe zu
   planen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:king-rugni-tower-conquest:leaks-keep-happeningfix-774938e6 -->
 - **F: Immer wieder kommen Gegner durch – was kann ich tun?**  
   **A:** Platziere Verlangsamungs- oder Flächenschadenstürme in der Nähe des
   Ausgangs und achte darauf, sowohl gegen Massen als auch gegen starke
   Einzelgegner gewappnet zu sein.
 
+<!-- i18n:faq:id=faq:king-rugni-tower-conquest:best-first-tower-ae985bba -->
 - **F: Welcher Turm eignet sich am besten für den Start?**  
   **A:** Wähle einen Turm, der ein langes Wegstück abdeckt, und rüste ihn früh
   auf. Ein starker Kern-Turm ist oft effektiver als viele schwache.
 
+<!-- i18n:faq:id=faq:king-rugni-tower-conquest:fastforward-e3b94416 -->
 - **F: Gibt es eine Vorspulfunktion?**  
   **A:** Viele Versionen des Spiels bieten einen Geschwindigkeitsregler, mit dem
   du langweilige Wellen etwas beschleunigen kannst.
+

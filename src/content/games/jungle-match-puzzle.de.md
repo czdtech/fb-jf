@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Jungle Match Puzzle ist ein farbenfrohes Match-3-Puzzlespiel mit typischen
@@ -30,6 +31,7 @@ Laub im großen Stil wegräumen. Wenn du Bomben mit Linien-Power-ups kombinierst
 oder doppelte Linien-Clears auslöst, öffnest du das Spielfeld und sorgst für
 mächtige Kettenreaktionen.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Ziele zuerst, Punkte später**  
@@ -56,6 +58,7 @@ mächtige Kettenreaktionen.
     Plane Umwege und räume sie frühzeitig, damit sie dir nicht in den letzten
     Zügen den Weg versperren.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Tauschen:** Ziehe zwei benachbarte Steine gegeneinander, um sie zu
@@ -65,17 +68,22 @@ mächtige Kettenreaktionen.
 - **Pause/Neustart:** Über die Benutzeroberfläche kannst du das Spiel pausieren
   oder ein Level neu starten.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:jungle-match-puzzle:i-fail-on-move-limits-5d14311f -->
 - **F: Ich scheitere ständig am Zuglimit – was mache ich falsch?**  
   **A:** Richte deine Züge konsequent am Ziel aus, statt nur auf hohe Scores zu
   spielen. Räume Blocker und nutze Kombos, die mehrere Hindernisse gleichzeitig
   treffen.
 
+<!-- i18n:faq:id=faq:jungle-match-puzzle:best-powerup-combo-574c444a -->
 - **F: Welche Power-up-Kombination ist am stärksten?**  
   **A:** Eine Bombe zusammen mit einem Linien-Power-up deckt viel Fläche ab,
   während zwei Linien-Power-ups mehrere Reihen und Spalten auf einmal räumen.
 
+<!-- i18n:faq:id=faq:jungle-match-puzzle:are-diagonals-allowed-37ab3fc0 -->
 - **F: Sind diagonale Matches erlaubt?**  
   **A:** In der Regel nicht – meistens zählen nur horizontale und vertikale
   Reihen. Halte dich an die Levelregeln, die im Spiel angezeigt werden.
+

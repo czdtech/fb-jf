@@ -15,6 +15,7 @@ score: 4.5/5 (999 votes)
 releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### **Incredibox Trillybox – Spielvorstellung**
 
 *Incredibox Trillybox* ist ein beliebter, energiegeladener Fan‑Mod für das
@@ -31,6 +32,7 @@ Dein Ziel ist es, eigene Trap‑Banger zu bauen und nebenbei die drei geheimen
 Bonus‑Animationen zu finden, die thematisch an Hip‑Hop‑ und Trap‑Kultur
 angelehnt sind.
 
+<!-- i18n:section:tips -->
 ### **Gameplay‑Strategie & Tipps**
 
 Strategie in *Incredibox Trillybox* heißt: die Grundbausteine von Trap
@@ -50,7 +52,7 @@ beherrschen und daraus einen druckvollen, rhythmischen Track bauen.
     Snare auf den Off‑Beats und ein schneller Hi‑Hat‑Groove sind die Grundlage.
 
 3.  **808s sind Bass und Drums:** In Trap übernimmt die 808 oft beides – Kick
-    und Bassline. Finde den ikonischen, tiefen 808‑Sound und baue den Rest
+    und Bassline. Finde den ikonischen, tiefen Basssound und baue den Rest
     darum herum.
 
 4.  **Einfache Melodien layern:** Überfrachte den Mix nicht. Trap lebt von
@@ -62,6 +64,7 @@ beherrschen und daraus einen druckvollen, rhythmischen Track bauen.
     tausche Melodie‑ und Vocal‑Icons Schritt für Schritt, bis eine Animation
     triggert.
 
+<!-- i18n:section:controls -->
 ### **Steuerung**
 
 Die Steuerung folgt dem bekannten Drag‑and‑Drop‑Interface der offiziellen
@@ -77,25 +80,30 @@ Incredibox‑Versionen:
 *   **Aufnehmen:** Klicke auf den Aufnahme‑Button, um die Aufnahme zu starten
     oder zu stoppen.
 
+<!-- i18n:section:faq -->
 ### **Häufige Fragen (FAQ)**
 
+<!-- i18n:faq:id=faq:incredibox-trillybox:is-this-an-official-incredibox-12056458 -->
 **1. Ist das eine offizielle Incredibox‑Version?**
 
 Nein. Es ist ein **Fan‑Mod**, erstellt von Andlbox, und nicht mit dem offiziellen
 Incredibox‑Team „So Far So Good“ verbunden.
 
+<!-- i18n:faq:id=faq:incredibox-trillybox:where-can-i-play-this-a4cf171c -->
 **2. Wo kann ich diesen Mod spielen?**
 
 Auf offiziellen Plattformen findest du ihn nicht. Mods wie *Trillybox* werden
 oft auf Modding‑Seiten (z. B. rund um Scratch/TurboWarp) geteilt oder auf YouTube
 vorgestellt – häufig inklusive Link zum direkten Spielen im Browser.
 
+<!-- i18n:faq:id=faq:incredibox-trillybox:what-makes-this-mod-special-f26277ef -->
 **3. Was macht diesen Mod besonders?**
 
 Die Stärke liegt in der authentischen, hochwertigen Trap‑Ausrichtung: eine moderne,
 energiegeladene Soundpalette, die sich deutlich von den offiziellen Versionen
 unterscheidet und Fans von aktuellem Hip‑Hop anspricht.
 
+<!-- i18n:faq:id=faq:incredibox-trillybox:are-the-bonus-solutions-for-2039ad95 -->
 **4. Gibt es die Lösungen für die Bonus‑Animationen online?**
 
 Ja. Wenn du die Kombinationen nicht findest, hilft oft eine kurze Suche nach

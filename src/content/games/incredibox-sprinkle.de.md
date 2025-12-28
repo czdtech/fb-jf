@@ -11,9 +11,11 @@ thumbnail: /new-images/thumbnails/incredibox-sprinkle.png
 tags:
   - incredibox sprinkle
 score: 3.8/5  (387 votes)
+releaseDate: 2025-12-04
 ---
 
 
+<!-- i18n:section:how-to-play -->
 ### Wie spielt man Sprinkle?
 
 - **Ziehen & Kombinieren:** Ziehe verschiedene Musik-Charaktere auf die freien
@@ -23,6 +25,7 @@ score: 3.8/5  (387 votes)
   Kombinationen zu testen. Durch einfaches Umstellen der Charaktere entstehen
   immer wieder neue Tracks.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Maus:** Nutze die Maus, um Figuren aus der Leiste unten auf die Bühne zu

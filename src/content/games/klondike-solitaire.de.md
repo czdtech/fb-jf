@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Übersicht
 
 In Klondike Solitaire spielst du mit sieben Tableau-Spalten, einem Stock-Stapel
@@ -26,6 +27,7 @@ König oder einem Stapel, der mit einem König beginnt, gefüllt werden. Die
 Variante mit **Zieh-1** ist etwas gnädiger, während **Zieh-3** mehr Planung und
 Zyklus-Kontrolle verlangt.
 
+<!-- i18n:section:how-to-play -->
 ### So spielst du
 
 - Decke verdeckte Karten auf, indem du Kartenstapel verschiebst, und beginne die
@@ -35,6 +37,7 @@ Zyklus-Kontrolle verlangt.
 - In der Zieh-3-Variante solltest du dir merken, in welcher Reihenfolge die
   Karten aus dem Stock kommen, damit du wichtige Karten nicht „einsperrst“.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Ziehen und Ablegen per Drag-and-drop oder Tippen/Klicken; auf vielen Hosts
@@ -49,17 +52,22 @@ Zyklus-Kontrolle verlangt.
 - Setze einen König nur dann in eine leere Spalte, wenn dir der dabei
   entstehende Stapel wirklich neue Möglichkeiten eröffnet.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:klondike-solitaire:what-can-i-place-in-a8e274d4 -->
 - **F: Was darf ich in eine leere Tableau-Spalte legen?**  
   **A:** Nur einen König oder einen Kartenstapel, der mit einem König beginnt.
 
+<!-- i18n:faq:id=faq:klondike-solitaire:should-i-always-play-cards-f3edb2f3 -->
 - **F: Sollte ich Karten immer sofort auf die Ablage legen?**  
   **A:** Nicht unbedingt. Manche Karten sind auf dem Tableau wertvoller, weil
   sie dir weitere Züge ermöglichen. Lege sie erst ab, wenn sie keine wichtigen
   Kombinationen mehr blockieren.
 
+<!-- i18n:faq:id=faq:klondike-solitaire:how-does-draw3-change-strategy-016e7d05 -->
 - **F: Wie ändert die Zieh-3-Regel meine Strategie?**  
   **A:** Du musst die Dreiergruppen im Stock mitdenken und über mehrere
   Durchgänge planen. Versuche, unwichtige Karten „durchzuscrollen“, ohne
   entscheidende Karten zu verbauen.
+

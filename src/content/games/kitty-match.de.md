@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Kitty Match ist ein charmantes, süchtig machendes Match-3-Puzzlespiel voller
@@ -29,6 +30,7 @@ schaltest du Belohnungen frei und reist durch eine verspielte Katzenwelt.
 Das Spiel ist entspannt und eignet sich für alle Altersgruppen, besonders
 für Puzzle- und Katzenfans.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Auf große Matches achten**  
@@ -51,24 +53,30 @@ für Puzzle- und Katzenfans.
     und automatisch neue Reihen bilden. So räumst du das Feld effizient und
     nutzt Kettenreaktionen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 *   **Felder tauschen:** Klicke ein Symbol an und ziehe es auf ein benachbartes
     Feld, um die Position zu vertauschen. Der Zug ist nur gültig, wenn dabei
     mindestens drei gleiche Symbole in einer Reihe oder Spalte entstehen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:kitty-match:q-what-is-the-goal-7ed4507e -->
 *   **F: Was ist das Ziel eines Levels?**
     *   **A:** Am Anfang jedes Levels wird das Ziel eingeblendet – zum Beispiel eine
         bestimmte Anzahl einer Farbe zu sammeln, alle Gelee‑Felder zu entfernen oder
         spezielle Items bis nach unten zu bringen.
 
+<!-- i18n:faq:id=faq:kitty-match:q-what-happens-if-i-63c9772b -->
 *   **F: Was passiert, wenn mir die Züge ausgehen?**
     *   **A:** Erreichst du das Levelziel nicht, bevor deine Züge aufgebraucht sind,
         verlierst du ein Leben und musst das Level erneut versuchen.
 
+<!-- i18n:faq:id=faq:kitty-match:q-how-do-i-create-1a7733b7 -->
 *   **F: Wie erstelle ich eine Bombe?**
     *   **A:** In der Regel erhältst du eine Bomben‑Kachel, wenn du fünf gleiche Symbole
         in L‑ oder T‑Form verbindest. Beim Auslösen räumt sie ein größeres Gebiet um
         sich herum.
+

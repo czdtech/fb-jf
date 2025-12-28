@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Jigsaw Puzzle Deluxe bringt das zeitlose, beruhigende Puzzeln auf deinen
@@ -28,6 +29,7 @@ bestimmt, in wie viele Teile das Bild zerlegt wird.
 Dein Ziel ist es, alle verstreuten Teile Schritt für Schritt an die richtige
 Position zu setzen, bis das komplette Bild wieder vor dir liegt.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Zuerst den Rahmen legen**  
@@ -51,6 +53,7 @@ Position zu setzen, bis das komplette Bild wieder vor dir liegt.
     Funktion (falls vorhanden). Ein kurzer Blick auf das komplette Bild kann
     dir neue Anhaltspunkte geben, wo bestimmte Farben oder Formen hingehören.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Das Spiel wird ganz intuitiv per Drag-and-drop bedient.
@@ -62,19 +65,24 @@ Das Spiel wird ganz intuitiv per Drag-and-drop bedient.
     Teile gedreht sein. Üblicherweise gibt es dafür einen Button oder eine
     Taste, mit der du das aktuell ausgewählte Teil rotieren kannst.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:jigsaw-puzzle-deluxe:q-how-do-i-choose-15b0afa3 -->
 *   **F: Wie wähle ich ein neues Puzzle aus?**
     *   **A:** Durchstöbere die Galerie im Spiel und klicke auf ein Motiv, das dir
         gefällt. Anschließend kannst du normalerweise den Schwierigkeitsgrad
         auswählen, also wie viele Teile das Puzzle haben soll.
 
+<!-- i18n:faq:id=faq:jigsaw-puzzle-deluxe:q-what-is-the-best-2713af7e -->
 *   **F: Wie starte ich ein Puzzle am besten?**
     *   **A:** Die meisten Spieler beginnen mit dem Rahmen, also allen Teilen mit
         gerader Kante. Dadurch erhältst du einen klaren Rand und kannst das Innere
         des Bildes leichter füllen.
 
+<!-- i18n:faq:id=faq:jigsaw-puzzle-deluxe:q-the-pieces-are-all-2d20e446 -->
 *   **F: Alles wirkt chaotisch – wie kann ich die Teile besser ordnen?**
     *   **A:** Schiebe die Teile über den Bildschirm, um mehr Übersicht zu schaffen,
         und lege Gruppen gleicher Farben oder Texturen an. So findest du die
         benötigten Teile schneller wieder.
+

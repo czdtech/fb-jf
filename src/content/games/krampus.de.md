@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Übersicht
 
 Krampus ist ein saisonaler Horror-Plattformspiel mit spärlich beleuchteten
@@ -24,6 +25,7 @@ Schlüssel, Schalter und sichere Wege zu finden, während du unheimlichen Wesen
 entgehst. Begrenzte Sichtweite und Soundeffekte sorgen für eine dichte
 Atmosphäre und belohnen vorsichtige Bewegung und genaues Beobachten.
 
+<!-- i18n:section:how-to-play -->
 ### So spielst du
 
 - Bewege dich langsam vorwärts, beobachte Fallen und präge dir sichere
@@ -33,6 +35,7 @@ Atmosphäre und belohnen vorsichtige Bewegung und genaues Beobachten.
 - Wenn du verfolgt wirst, nutze Höhenunterschiede, Leitern und Türen, um die
   Sichtlinie zu unterbrechen und Abstand zu gewinnen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Mit Pfeiltasten oder WASD bewegen und springen; Aktion-/Interaktions-Tasten
@@ -46,17 +49,22 @@ Atmosphäre und belohnen vorsichtige Bewegung und genaues Beobachten.
 - Lausche auf Geräusche wie Knurren oder Schritte – sie kündigen nahende Gefahr
   an, sodass du rechtzeitig stehen bleiben oder ausweichen kannst.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:krampus:how-do-i-progress-when-c9e86dca -->
 - **F: Wie komme ich weiter, wenn der Level wie eine Sackgasse wirkt?**  
   **A:** Suche nach Hebeln, versteckten Durchgängen oder brüchigen Wänden, die
   du zerstören oder öffnen kannst.
 
+<!-- i18n:faq:id=faq:krampus:can-i-fight-the-monsters-7be69ddf -->
 - **F: Kann ich die Monster bekämpfen?**  
   **A:** In den meisten Versionen steht Ausweichen im Vordergrund. Nutze Wege,
   Türen und Höhenunterschiede, um Gegner abzuschütteln, statt die Konfrontation
   zu suchen.
 
+<!-- i18n:faq:id=faq:krampus:are-there-checkpoints-in-stage-c1be2023 -->
 - **F: Gibt es Checkpoints im Level?**  
   **A:** Viele Hosts bieten Zwischen-Checkpoints. Achte auf Symbole im HUD oder
   kurze Speicher-Animationen, die dir einen gespeicherten Fortschritt anzeigen.
+

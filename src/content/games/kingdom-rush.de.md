@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Übersicht
 
 Kingdom Rush hat die Mischung aus Lanes kontrollieren und Helden-Mikro für die
@@ -28,6 +29,7 @@ Flächen-Spezialangriffe, um kritische Wellen zu stabilisieren. Die
 Gegnerformationen kombinieren Rüstung, Magieresistenz, fliegende Einheiten und
 Spawn-Mechaniken, sodass du flexibel bauen musst.
 
+<!-- i18n:section:how-to-play -->
 ### So spielst du
 
 - **Engpässe sichern:** Baue deine Kernverteidigung an Kurven und
@@ -38,6 +40,7 @@ Spawn-Mechaniken, sodass du flexibel bauen musst.
 - **Globale Fähigkeiten timen:** Spare starke Spezialangriffe für Boss-Phasen
   oder besonders dichte Wellen auf.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Sämtliche Turm- und Heldenaktionen steuerst du mit Maus oder Touch; Hotkeys
@@ -56,16 +59,21 @@ Spawn-Mechaniken, sodass du flexibel bauen musst.
   Stelle Infanterie so, dass sie Gegner bündelt und diese unter den
   Flächenschaden deiner Artillerie festhält.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:kingdom-rush:what-is-a-good-early-ac32c6a7 -->
 - **F: Was ist eine gute Build-Order für den frühen Spielverlauf?**  
   **A:** Ein Kaserne-Turm plus ein Flächenturm und ein Magierturm nahe des
   Hauptengpasses sind ein stabiler Start. Danach nach Bedarf aufrüsten.
 
+<!-- i18n:faq:id=faq:kingdom-rush:how-do-i-handle-mixed-ea452215 -->
 - **F: Wie gehe ich mit gemischten Gegnerwellen um?**  
   **A:** Kombiniere Magier (gegen Rüstung) mit Bogentürmen/Artillerie (gegen
   Schwärme) und nutze den Helden als Finisher für starke Einzelgegner.
 
+<!-- i18n:faq:id=faq:kingdom-rush:are-heroes-required-for-comple-d9ad2da1 -->
 - **F: Sind Helden notwendig, um Levels abzuschließen?**  
   **A:** Nicht zwingend, aber sie machen das Spiel deutlich verzeihender und
   helfen, gefährliche Spitzen an den Engpässen abzufangen.
+

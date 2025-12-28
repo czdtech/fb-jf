@@ -16,6 +16,7 @@ releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### **Spieleinführung zu Incredibox Vibin**
 
 *Incredibox Vibin'* ist ein beliebter Fan-Mod für das Musikerstellungsspiel Incredibox. Diese Version hebt sich durch ihre unglaublich **chillige, entspannte und gemütliche Lo-fi-Hip-Hop-Ästhetik** ab. Die Charaktere sind als coole, zurückgelehnte Figuren gestaltet, die perfekt die „Vibin'"-Stimmung einfangen, die der Titel suggeriert.
@@ -24,6 +25,7 @@ Das Spiel nutzt das klassische Incredibox-Drag-and-Drop-Gameplay. Spieler erhalt
 
 Das Ziel ist es, ein entspannendes kreatives Ventil zu bieten und gleichzeitig ein Rätsel zu lösen. Spieler können Sounds mischen und kombinieren, um ihren perfekten Lern-/Entspannungs-Track zu erstellen. Das Rätsel-Element besteht darin, die drei spezifischen Kombinationen zu entdecken, die die geheimen animierten Boni freischalten, die thematisch zur gemütlichen und introspektiven Stimmung des Mods passen.
 
+<!-- i18n:section:tips -->
 ### **Gameplay-Strategie & Tipps**
 
 Strategie bei *Incredibox Vibin'* dreht sich darum, Texturen zu schichten und einen smoothen, unaufdringlichen Groove zu kreieren.
@@ -40,6 +42,7 @@ Strategie bei *Incredibox Vibin'* dreht sich darum, Texturen zu schichten und ei
 
 4.  **Systematische Bonus-Suche**: Um die drei geheimen Boni zu finden, ist ein methodischer Ansatz am besten. Sobald du einen Kern-Groove hast, der dir gefällt, versuche die verbleibenden Icons einzeln auszutauschen, bis du einen der gemütlichen animierten Boni auslöst.
 
+<!-- i18n:section:controls -->
 ### **Steuerungsanleitung**
 
 Die Steuerung folgt dem standardmäßigen, intuitiven Drag-and-Drop-Interface der offiziellen Incredibox-Spiele.
@@ -50,20 +53,26 @@ Die Steuerung folgt dem standardmäßigen, intuitiven Drag-and-Drop-Interface de
 *   **Solo**: Klicke den **kleinen Button** neben einem aktiven Charakter, um alle anderen Performer stumm zu schalten.
 *   **Aufnehmen**: Klicke den **Aufnahme-Button**, um die Aufnahme deiner chilligen Kreation zu starten und zu stoppen.
 
+<!-- i18n:section:faq -->
 ### **Häufig gestellte Fragen (FAQ)**
 
+<!-- i18n:faq:id=faq:incredibox-vibin:is-incredibox-vibin-an-officia-483ff426 -->
 **1. Ist *Incredibox Vibin'* eine offizielle Version?**
 
 Nein. Es ist ein **Fan-Mod**, erstellt von MI. Er ist nicht mit dem offiziellen Incredibox-Team, So Far So Good, verbunden.
 
+<!-- i18n:faq:id=faq:incredibox-vibin:where-can-i-play-this-a4cf171c -->
 **2. Wo kann ich diesen Mod spielen?**
 
 Du findest ihn nicht auf offiziellen Plattformen. Mods wie *Vibin'* werden typischerweise auf Spiel-Modding-Websites wie **playfiddlebops.com** gehostet oder auf YouTube präsentiert, oft mit einem Link, um den Mod direkt im Webbrowser zu spielen.
 
+<!-- i18n:faq:id=faq:incredibox-vibin:what-makes-the-vibin-mod-d01232b7 -->
 **3. Was macht den „Vibin'"-Mod so beliebt?**
 
 Seine Beliebtheit kommt von der perfekten Umsetzung des Lo-fi-Hip-Hop-Themas, einem massiv beliebten Musikgenre. Er bietet ein einzigartig entspannendes und modernes Erlebnis, das bei vielen Spielern Anklang findet, die ein chilliges kreatives Ventil suchen.
 
+<!-- i18n:faq:id=faq:incredibox-vibin:are-the-bonus-solutions-for-361d43d5 -->
 **4. Sind die Bonus-Lösungen für „Vibin'" online verfügbar?**
 
 Ja. Wenn du Probleme hast, die Kombinationen für die Animationen zu finden, zeigt dir eine schnelle Suche nach „*Incredibox Vibin' combos*" auf YouTube die Lösungen.
+

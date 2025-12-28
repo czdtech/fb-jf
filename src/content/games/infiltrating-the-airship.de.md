@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Übersicht
 
 In dieser Henry-Stickmin-Episode dreht sich alles um einen verzweigten
@@ -25,6 +26,7 @@ entweder zum Erfolg oder zu herrlich schiefgehenden Szenen führen. In
 Actionsequenzen tauchen Quick-Time-Events auf, und über eine Szenenkarte kannst
 du frühere Abschnitte erneut spielen, um alle Fails und Enden zu sammeln.
 
+<!-- i18n:section:how-to-play -->
 ### So spielst du
 
 - Wähle an Entscheidungsstellen Items oder Aktionen; in Verfolgungen kommt es
@@ -33,6 +35,7 @@ du frühere Abschnitte erneut spielen, um alle Fails und Enden zu sammeln.
 - Nutze die Szenenauswahl (falls verfügbar), um verpasste Fails bequem
   nachzuholen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Meist Maus für Entscheidungen; je nach Host gelegentlich Tasten für QTEs.
@@ -44,16 +47,20 @@ du frühere Abschnitte erneut spielen, um alle Fails und Enden zu sammeln.
 - Klicke Figuren während Szenen an, falls der Host Bios oder Extras unterstützt.
 - Notiere dir die bereits gesehenen Enden, um Dopplungen zu vermeiden.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:infiltrating-the-airship:how-many-endings-are-available-f90a710c -->
 - **F: Wie viele Enden gibt es?**  
   **A:** Es gibt mehrere, an bestimmte Routen geknüpfte Enden; die genaue Zahl
   hängt von der jeweiligen Version ab.
 
+<!-- i18n:faq:id=faq:infiltrating-the-airship:do-i-need-fast-reactions-a5e50917 -->
 - **F: Brauche ich überall schnelle Reaktionen?**  
   **A:** Nur in einigen QTE-Passagen – der Großteil basiert auf deinen
   Entscheidungen.
 
+<!-- i18n:faq:id=faq:infiltrating-the-airship:can-i-replay-scenes-to-2b23b4a1 -->
 - **F: Kann ich Szenen erneut spielen, um alles zu sammeln?**  
   **A:** Ja, über die Szenenauswahl kannst du gezielt in bestimmte Abschnitte
   springen und fehlende Fails nachholen.

@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Überblick
 
 In Iron Snout schlüpfst du in die Rolle eines martial-arts-erprobten Schweins,
@@ -25,6 +26,7 @@ Angriffe zu parieren, fliegende Äxte zu fangen und Raketen zurückzulenken.
 Überleben hängt davon ab, Angriffe richtig zu lesen und im richtigen Rhythmus
 zu kontern.
 
+<!-- i18n:section:how-to-play -->
 ### So spielst du
 
 - Achte auf die **Bewegungshinweise der Gegner** – Sprungtritte katapultieren
@@ -35,6 +37,7 @@ zu kontern.
 - Halte den Kampf möglichst in der Mitte des Bildschirms, damit du Angriffe von
   beiden Seiten rechtzeitig siehst.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Pfeiltasten/WASD**: Richtungsangaben lösen gleichzeitig Angriffe,
@@ -48,16 +51,20 @@ zu kontern.
 - Lass dich nicht in eine Ecke drängen – bewege dich regelmäßig zurück in die
   Mitte.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:iron-snout:how-do-i-deal-with-e1aeb040 -->
 - **F: Wie reagiere ich auf Angriffe aus mehreren Richtungen?**  
   **A:** Bleib möglichst zentral und fokussiere immer den am nächsten stehenden
   Gegner oder das gefährlichste Projektil.
 
+<!-- i18n:faq:id=faq:iron-snout:can-i-catch-weapons-in-0213643a -->
 - **F: Kann ich Waffen fangen?**  
   **A:** Ja. Drücke in Richtung einer fliegenden Waffe, um sie zu greifen, und
   anschließend, um sie zurückzuwerfen.
 
+<!-- i18n:faq:id=faq:iron-snout:is-there-an-end-to-742105ba -->
 - **F: Gibt es ein Ende der Wellen?**  
   **A:** Die meisten Modi sind endlos – du spielst, bis deine Lebenspunkte
   aufgebraucht sind.

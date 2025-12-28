@@ -12,7 +12,7 @@ tags:
   - incredibox
   - incredibox online
 score: 4.9/5  (724 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+releaseDate: 2025-12-04
 ---
 
 
@@ -22,6 +22,7 @@ Mit Incredibox kannst du im Handumdrehen eigene Tracks mit einer Gruppe
 Beatboxer bauen. Das Spiel ist Mischung aus **Musikspiel und
 Beatbox-Studio** – eine einfache Oberfläche, viele kreative Möglichkeiten.
 
+<!-- i18n:section:how-to-play -->
 ### Wie spielt man Incredibox?
 
 Das Kernprinzip ist erfreulich einfach:
@@ -82,3 +83,4 @@ Mit ein paar Kniffen holst du mehr aus deinen Tracks heraus:
 Mit der leicht verständlichen Bedienung, dem starken Artstyle und den vielen
 Klangvarianten ist Incredibox ein idealer Einstieg ins Musizieren – egal, ob du
 Beatbox-Fan oder einfach nur neugierig bist.
+

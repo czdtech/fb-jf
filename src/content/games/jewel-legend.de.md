@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Jewel Legend ist ein farbenfrohes, sehr süchtig machendes
@@ -30,6 +31,7 @@ erreichen, mal spezielle Felder freilegen oder Items nach unten fallen lassen.
 Entscheidend ist, dass du durch clevere Züge Spezialjuwelen erzeugst – ohne sie
 sind die schwersten Aufgaben kaum zu schaffen.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Spezialjuwelen gezielt erstellen**  
@@ -62,6 +64,7 @@ sind die schwersten Aufgaben kaum zu schaffen.
     Solche Cascades räumen oft große Bereiche auf, ohne dass du zusätzliche
     Züge einsetzen musst.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Jewel Legend wird mit einfachen Maus- oder Touchgesten gespielt.
@@ -70,20 +73,25 @@ Jewel Legend wird mit einfachen Maus- oder Touchgesten gespielt.
     benachbarten Stein, oder tippe nacheinander auf zwei angrenzende Juwelen.
     Der Tausch findet nur statt, wenn dadurch eine gültige Kombination entsteht.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:jewel-legend:q-how-do-i-break-d2308d36 -->
 *   **F: Wie breche ich Eis oder Ketten auf den Juwelen?**
     *   **A:** Du musst ein Match bilden, das den eingefrorenen oder angeketteten
         Stein enthält. Manchmal sind mehrere Treffer nötig, bis das Hindernis
         vollständig verschwindet.
 
+<!-- i18n:faq:id=faq:jewel-legend:q-what-is-the-most-a829d6c0 -->
 *   **F: Was ist die stärkste Kombination im Spiel?**
     *   **A:** Am mächtigsten ist es, zwei Farbjuwelen miteinander zu vertauschen.
         Dadurch wird (je nach Version) fast das komplette Spielfeld geleert – ideal
         für extrem schwierige Level.
 
+<!-- i18n:faq:id=faq:jewel-legend:q-im-out-of-moves-374d349b -->
 *   **F: Was passiert, wenn mir die Züge ausgehen?**
     *   **A:** Erreichst du das Levelziel nicht innerhalb der vorgegebenen Zuganzahl,
         verlierst du ein Leben und musst das Level erneut starten. Oft kannst du
         Leben mit der Zeit regenerieren oder sie über In‑Game‑Mechaniken wieder
         auffüllen.
+

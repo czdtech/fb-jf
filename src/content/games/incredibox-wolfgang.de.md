@@ -18,6 +18,7 @@ releaseDate: 2025-10-10T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### **Spieleinführung zu Incredibox „Wolfgang"**
 
 *Incredibox Wolfgang* ist ein eleganter und meisterhaft gestalteter Fan-Mod für das Musikerstellungsspiel Incredibox. Diese Version ist eine Hommage an die Ära der **klassischen Musik**, stark inspiriert von den Werken des legendären Komponisten **Wolfgang Amadeus Mozart**.
@@ -26,6 +27,7 @@ Das Spiel verwandelt die üblichen Beatboxer in eine Truppe von Performern aus d
 
 Das Ziel ist es, Spielern zu ermöglichen, ihre eigenen anspruchsvollen klassischen Stücke zu kreieren und gleichzeitig das Rätsel zu lösen, die drei geheimen animierten Boni zu finden. Diese Boni sind wunderschön animierte Vignetten, die perfekt die Grazie und Dramatik der klassischen Ära einfangen.
 
+<!-- i18n:section:tips -->
 ### **Gameplay-Strategie & Tipps**
 
 Strategie bei *Incredibox Wolfgang* dreht sich darum, klassische Arrangements zu verstehen und orchestrale Parts zu schichten, um eine reiche, harmonische Komposition zu kreieren.
@@ -44,6 +46,7 @@ Strategie bei *Incredibox Wolfgang* dreht sich darum, klassische Arrangements zu
 
 5.  **Solo nutzen, um jeden Part zu würdigen**: Die Instrumentierung in diesem Mod ist sehr detailliert. Nutze die „Solo"-Funktion, um die Violine oder einen Solosänger zu isolieren, um deren individuelle Performance vollständig zu würdigen und ihre Rolle im Gesamtensemble zu verstehen.
 
+<!-- i18n:section:controls -->
 ### **Steuerungsanleitung**
 
 Die Steuerung folgt dem standardmäßigen, intuitiven Drag-and-Drop-Interface der offiziellen Incredibox-Spiele.
@@ -54,20 +57,26 @@ Die Steuerung folgt dem standardmäßigen, intuitiven Drag-and-Drop-Interface de
 *   **Solo**: Klicke den **kleinen Button** neben einem aktiven Charakter, um alle anderen Performer stumm zu schalten.
 *   **Aufnehmen**: Klicke den **Aufnahme-Button**, um die Aufnahme deines klassischen Meisterwerks zu starten und zu stoppen.
 
+<!-- i18n:section:faq -->
 ### **Häufig gestellte Fragen (FAQ)**
 
+<!-- i18n:faq:id=faq:incredibox-wolfgang:is-incredibox-wolfgang-an-offi-a34e9a1a -->
 **F: Ist *Incredibox Wolfgang* eine offizielle Version?**
 
 A: Nein. Es ist ein sehr hochwertiger **Fan-Mod**, erstellt von Gabsoares04. Er ist nicht mit dem offiziellen Incredibox-Team, So Far So Good, verbunden.
 
+<!-- i18n:faq:id=faq:incredibox-wolfgang:where-can-i-play-this-a4cf171c -->
 **F: Wo kann ich diesen Mod spielen?**
 
 A: Du findest ihn nicht auf offiziellen Plattformen. Mods wie *Wolfgang* werden typischerweise auf Spiel-Modding-Websites wie **playfiddlebops.com** gehostet oder auf YouTube präsentiert, oft mit einem Link, um den Mod direkt im Webbrowser zu spielen.
 
+<!-- i18n:faq:id=faq:incredibox-wolfgang:what-makes-the-wolfgang-mod-727ef448 -->
 **F: Was macht den „Wolfgang"-Mod so besonders?**
 
 A: Seine Beliebtheit kommt von seinem einzigartigen und makellos umgesetzten klassischen Thema. Er bietet eine völlig andere musikalische Palette als jede offizielle Version und liefert ein anspruchsvolles und schönes Erlebnis. Die schiere Qualität der Musik und Kunst macht ihn zu einer herausragenden Kreation in der Fan-Community.
 
+<!-- i18n:faq:id=faq:incredibox-wolfgang:are-the-bonus-solutions-for-0b58ab03 -->
 **F: Sind die Bonus-Lösungen für „Wolfgang" online verfügbar?**
 
 A: Ja. Wenn du nicht weiterkommst oder einfach die Animationen sehen möchtest, liefert dir eine schnelle Suche nach „*Incredibox Wolfgang combos*" auf YouTube die genauen Kombinationen.
+

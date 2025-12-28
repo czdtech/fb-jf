@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Jewel Pets Match ist ein buntes Match-3-Puzzlespiel voller niedlicher,
@@ -26,6 +27,7 @@ So räumst du das Board auf, sammelst Punkte und arbeitest an Levelzielen wie
 Mindestpunktzahl, dem Entfernen spezieller Blöcke oder dem Einsammeln bestimmter
 Tierarten – und das alles mit nur begrenzt vielen Zügen.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Power-ups erstellen**  
@@ -54,6 +56,7 @@ Tierarten – und das alles mit nur begrenzt vielen Zügen.
     nach Zügen, die Kettenreaktionen auslösen oder dir im nächsten Zug eine
     starke Kombo ermöglichen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Das Spiel nutzt einfache Swap-Mechaniken.
@@ -62,17 +65,22 @@ Das Spiel nutzt einfache Swap-Mechaniken.
     um die Position zu wechseln. Der Tausch wird nur durchgeführt, wenn eine
     gültige Kombination entsteht.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:jewel-pets-match:q-how-do-i-get-cbe9a9b9 -->
 *   **F: Wie befreie ich gesperrte oder eingesperrte Pets?**
     *   **A:** Du musst ein Match bilden, an dem das eingesperrte Tier beteiligt ist.
         Dadurch zerbrichst du den Käfig nach und nach, bis das Pet wieder frei ist.
 
+<!-- i18n:faq:id=faq:jewel-pets-match:q-what-is-the-best-4ae55889 -->
 *   **F: Welches Power‑up ist am nützlichsten?**
     *   **A:** Das Regenbogen‑Pet aus einer Fünfer‑Kombo in einer Linie ist sehr mächtig,
         weil es alle Tiere einer Art entfernt. Am stärksten sind jedoch Kombinationen
         aus zwei Power‑ups, die einen Großteil des Boards auf einmal räumen.
 
+<!-- i18n:faq:id=faq:jewel-pets-match:q-what-happens-if-i-63c9772b -->
 *   **F: Was passiert, wenn ich keine Züge mehr habe?**
     *   **A:** Erreichst du das Levelziel nicht innerhalb der vorgegebenen Züge,
         verlierst du ein Leben und musst das Level erneut spielen.
+

@@ -16,6 +16,7 @@ releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 *Incredibox YaBoo* ist ein beliebter, künstlerisch eigenständiger Fan-Mod für
@@ -31,6 +32,7 @@ Ziel ist es, einen eigenen Track mit japanischem Flair zu kreieren und zugleich
 die drei Bonus-Kombinationen zu finden, die aufwendig animierte Szenen aus der
 Sagenwelt freischalten.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 Die Strategie in *Incredibox YaBoo* besteht darin, die einzigartigen Sounds zu
@@ -65,6 +67,7 @@ Bonus‑Animationen zu entdecken.
     isolierst du eine Stimme oder ein Instrument, um Details besser zu hören
     und zu prüfen, wie es in den Track passt.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Die Steuerung entspricht der üblichen, benutzerfreundlichen Incredibox-
@@ -80,3 +83,4 @@ Oberfläche und wird vor allem per Maus bedient.
     anderen Performer stummzuschalten.
 *   **Aufnehmen:** Klicke auf den Record‑Button, um die Aufnahme zu starten und
     zu stoppen.
+

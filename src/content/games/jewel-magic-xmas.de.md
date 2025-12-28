@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Jewel Magic Xmas ist ein stimmungsvolles Match-3-Puzzlespiel im
@@ -26,6 +27,7 @@ Weihnachtsobjekte bildest du Reihen aus drei oder mehr gleichen Symbolen,
 räumst das Spielfeld und erfüllst unterschiedliche Ziele – vom Befreien
 vereister Felder bis hin zum Einsammeln von Geschenken.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Weihnachtliche Power-ups erstellen**  
@@ -55,6 +57,7 @@ vereister Felder bis hin zum Einsammeln von Geschenken.
     denen neue Symbole nachrutschen und automatisch weitere Reihen bilden. Das
     spart Züge und räumt das Feld effizient.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Das Spiel wird bequem mit Maus oder Touch bedient.
@@ -63,18 +66,23 @@ Das Spiel wird bequem mit Maus oder Touch bedient.
     benachbartes Feld, um es zu vertauschen. Der Tausch klappt nur, wenn dabei
     eine gültige Kombination entsteht.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:jewel-magic-xmas:q-how-do-i-break-fe27293f -->
 *   **F: Wie entferne ich gefrorene Eisblöcke?**
     *   **A:** Du musst ein Match direkt neben einem Eisblock bilden oder ihn in eine
         Kombination einbeziehen. Manche Blöcke benötigen mehrere Treffer, bis sie
         vollständig verschwinden.
 
+<!-- i18n:faq:id=faq:jewel-magic-xmas:q-what-is-the-best-fadcb28d -->
 *   **F: Was ist die stärkste Kombination?**
     *   **A:** Zwei Spezialobjekte aus Fünfer‑Matches in einer Linie sind besonders
         mächtig. Vertauschst du sie miteinander, wird (je nach Version) praktisch
         das ganze Spielfeld auf einmal geräumt.
 
+<!-- i18n:faq:id=faq:jewel-magic-xmas:q-what-happens-if-i-63c9772b -->
 *   **F: Was passiert, wenn mir die Züge ausgehen?**
     *   **A:** Schaffst du das Levelziel nicht innerhalb des Zuglimits, musst du das
         Level neu starten und es erneut versuchen.
+

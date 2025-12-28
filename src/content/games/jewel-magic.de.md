@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Jewel Magic ist ein klassisches Match-3-Puzzlespiel, das dich in eine Welt aus
@@ -29,6 +30,7 @@ Mit hunderten Leveln und unterschiedlichen Zielen musst du vorausschauend
 spielen, Spezialjuwelen erzeugen und mächtige Kettenreaktionen auslösen, um auch
 schwierige Puzzles zu knacken.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Spezialjuwelen meistern**  
@@ -59,6 +61,7 @@ schwierige Puzzles zu knacken.
     denen neue Juwelen nachfallen und automatisch weitere Reihen bilden. So
     räumst du das Feld effizienter und erreichst deine Ziele schneller.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Das Spiel wird mit einfachen Maus- oder Touchgesten gesteuert.
@@ -67,18 +70,23 @@ Das Spiel wird mit einfachen Maus- oder Touchgesten gesteuert.
     benachbarten, um die Position zu tauschen. Der Zug wird nur ausgeführt,
     wenn eine gültige Dreier- (oder größere) Kombi entsteht.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:jewel-magic:q-how-do-i-get-a9b2c35f -->
 *   **F: Wie komme ich an Level mit gefrorenen oder gefesselten Juwelen vorbei?**
     *   **A:** Du musst ein Match bilden, an dem der gefrorene oder angekettete Stein
         beteiligt ist. Dadurch brichst du nach und nach Eis oder Ketten und kannst
         den Stein später normal nutzen.
 
+<!-- i18n:faq:id=faq:jewel-magic:q-what-is-the-best-4dc5a927 -->
 *   **F: Wie erziele ich eine besonders hohe Punktzahl?**
     *   **A:** Versuche, möglichst viele Spezialjuwelen zu erzeugen und zu kombinieren.
         Lange Kettenreaktionen und große Bereiche, die in einem Zug verschwinden,
         bringen besonders viele Punkte.
 
+<!-- i18n:faq:id=faq:jewel-magic:q-what-happens-when-i-e8e69d77 -->
 *   **F: Was passiert, wenn ich keine Züge mehr habe?**
     *   **A:** Wenn du das Levelziel nicht vor Ablauf der verfügbaren Züge erreichst,
         verlierst du ein Leben und musst das Level von vorn beginnen.
+
