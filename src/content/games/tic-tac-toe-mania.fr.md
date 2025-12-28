@@ -15,10 +15,12 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Presentation du jeu
 
 Tic Tac Toe Mania modernise le morpion avec des visuels epures et des variantes (plateaux plus grands, misere). Le jeu de base consiste a forcer des lignes ou neutraliser les menaces ; un jeu parfait en 3x3 mene au match nul sauf erreur.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1.  **Centre d abord :** En 3x3, le centre maximise les fourches ; les coins ensuite.
@@ -27,14 +29,19 @@ Tic Tac Toe Mania modernise le morpion avec des visuels epures et des variantes 
 4.  **Anti-fourche :** Joue pour briser les schemas de fourche adverses.
 5.  **Variantes :** Sur les plateaux plus grands, priorise les lignes flexibles plutot que les coins precoces.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 -   Clique sur les cases pour placer des marques ; 2J local courant ; difficultes IA varient.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:tic-tac-toe-mania:is-33-always-a-draw-d6efca07 -->
 -   **Q : Le 3x3 est-il toujours nul ?**
     **R :** Avec un jeu parfait, oui ; les victoires reposent sur les erreurs adverses.
 
+<!-- i18n:faq:id=faq:tic-tac-toe-mania:best-first-move-64c2de4e -->
 -   **Q : Meilleur premier coup ?**
     **R :** Centre, puis coin.
+

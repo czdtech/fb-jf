@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Presentation du jeu
 
 Tic-Tac-Toe est le jeu de strategie classique ou deux joueurs placent alternativement des X et des O sur une grille 3x3, visant a etre le premier a aligner trois symboles en ligne, colonne ou diagonale. Bien que les regles soient simples, le jeu contient une riche reflexion strategique.
@@ -44,3 +45,4 @@ Tic-Tac-Toe est le jeu de strategie classique ou deux joueurs placent alternativ
     **R :** Apprends les strategies de base comme prioriser le centre, bloquer les adversaires et creer des menaces de fourche.
 4.  **Q : Existe-t-il des regles variantes ?**
     **R :** Certaines versions offrent des grilles plus grandes (4x4 ou 5x5) ou necessitent plus de symboles alignes pour gagner.
+

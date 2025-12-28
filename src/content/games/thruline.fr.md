@@ -16,10 +16,12 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Presentation du jeu
 
 Thruline te demande de tracer un chemin continu qui visite tous les noeuds requis tout en obeissant aux regles sur les virages, croisements et couverture. Les grilles avancees ajoutent des portes, ponts et astuces de parite qui recompensent le placement precoce des goulots d etranglement.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1.  **Goulots d abord :** Revendique les couloirs etroits avant qu ils ne se ferment.
@@ -28,14 +30,19 @@ Thruline te demande de tracer un chemin continu qui visite tous les noeuds requi
 4.  **Retour arriere precoce :** Annule des qu une isolation apparait.
 5.  **Exploitation de symetrie :** Reflete les solutions partielles dans les dispositions symetriques.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 -   Glisse pour dessiner ; annuler/effacer via l interface ; certaines versions montrent les conflits.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:thruline:i-end-one-edge-short-f4943235 -->
 -   **Q : Je finis a un bord pres.**
     **R :** Tu as probablement mal utilise un virage ; reroute un long segment plus droit.
 
+<!-- i18n:faq:id=faq:thruline:are-crossings-legal-f8260708 -->
 -   **Q : Les croisements sont-ils legaux ?**
     **R :** Seulement sur les ponts marques.
+

@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Tiny Fishing est un jeu de pêche casual relaxant où tu lances ta ligne dans les profondeurs, attrapes différentes espèces de poissons et améliores ton équipement pour atteindre des eaux plus profondes et découvrir des créatures rares. Le jeu est adoré des joueurs pour ses contrôles simples et son expérience de jeu relaxante.
@@ -46,3 +47,4 @@ Tiny Fishing est un jeu de pêche casual relaxant où tu lances ta ligne dans le
     **R :** Selon ton niveau d'équipement actuel et ton efficacité de pêche ; plus de temps hors ligne = plus de gains (avec des limites).
 4.  **Q : Le jeu a-t-il une fin ?**
     **R :** C'est un jeu casual sans fin où tu peux continuellement améliorer l'équipement pour explorer des eaux plus profondes.
+

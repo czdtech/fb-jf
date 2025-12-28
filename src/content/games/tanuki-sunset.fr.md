@@ -16,10 +16,12 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Presentation du jeu
 
 Tanuki Sunset est un jeu de longboard a la troisieme personne ou tu joues un raton laveur nomme Tanuki, glissant sur une magnifique chaine de montagnes cotieres d'inspiration synthwave. Le jeu se concentre sur un gameplay fluide et stylise, recompensant les joueurs pour leurs drifts elegants, gros sauts et quasi-accidents avec le trafic.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 L'objectif principal est de scorer le maximum de points avant d'atteindre la fin de la piste ou de te crasher.
@@ -28,14 +30,18 @@ L'objectif principal est de scorer le maximum de points avant d'atteindre la fin
 -   **Collecte :** Ramasse les « Tanuki Bits » jaunes pour remplir ton compteur de Roulette Bonus, qui te donne un tour pour un bonus massif.
 -   **Quasi-accidents :** Passe dangereusement pres des voitures et obstacles pour obtenir des points de « quasi-accident ».
 
+<!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `A` `D` `Left` `Right Arrow Keys` `Spacebar` `S` `Down Arrow Key` `W` `Up Arrow Key` `Esc`
 
--   **Deplacement/Direction :** `A` / `D` ou `Fleches Gauche` / `Droite`
--   **Drift :** `Espace`
--   **Glissade 180 / Ralentir :** `S` ou `Fleche Bas`
--   **Position vitesse :** `W` ou `Fleche Haut` (Maintiens pour traverser certains obstacles)
--   **Pause :** `Echap`
+-   **Deplacement/Direction :** A / D ou Fleches Gauche / Droite
+-   **Drift :** Espace
+-   **Glissade 180 / Ralentir :** S ou Fleche Bas
+-   **Position vitesse :** W ou Fleche Haut (Maintiens pour traverser certains obstacles)
+-   **Pause :** Echap
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
 **Comment obtenir un bon score ?**
@@ -46,3 +52,4 @@ Quand tu collectes assez de Tanuki Bits, une roue de roulette tourne en haut de 
 
 **Puis-je personnaliser mon raton laveur ?**
 Oui, en gagnant des points et completant des objectifs, tu peux debloquer de nouveaux vetements et pieces de longboard pour personnaliser le look de Tanuki.
+

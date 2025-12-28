@@ -16,10 +16,12 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Presentation du jeu
 
 Tap-Tap Shots est un jeu de basket arcade simple, minimaliste et hautement addictif. L'objectif est de marquer autant de points que possible en tapant sur l'ecran pour faire rebondir le ballon dans le panier. Le defi vient du panier en mouvement et de la pression du chronometre, necessitant un timing parfait et un rythme regulier pour reussir.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 -   **Objectif :** Marque autant de paniers consecutifs que possible.
@@ -28,12 +30,16 @@ Tap-Tap Shots est un jeu de basket arcade simple, minimaliste et hautement addic
 -   **Combos :** Marquer des paniers consecutifs enflammera le ballon, ce qui active un multiplicateur de score pour des points bonus. Les tirs propres qui ne touchent pas l'anneau rapportent aussi des points supplementaires.
 -   **Chronometre :** Apres chaque tir reussi, le chronometre se reinitialise, mais si tu rates, la partie est terminee.
 
+<!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Left Mouse Button` `Spacebar`
 
 Les controles sont extremement simples :
--   **PC :** `Bouton gauche de la souris` ou `Espace` pour taper.
+-   **PC :** Bouton gauche de la souris ou Espace pour taper.
 -   **Mobile :** Tape sur l'ecran.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
 **Comment obtenir un bon score ?**
@@ -44,3 +50,4 @@ Quand le ballon est en feu, tu es en serie de combo. Chaque panier que tu marque
 
 **Y a-t-il une astuce pour viser ?**
 Tout est question de timing. Essaie de taper juste quand le ballon atteint le sommet de son rebond ou commence a descendre. Cela te donne souvent le meilleur controle pour viser le panier.
+

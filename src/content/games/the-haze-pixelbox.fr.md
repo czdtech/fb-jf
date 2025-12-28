@@ -10,7 +10,7 @@ thumbnail: /new-images/thumbnails/the-haze-pixelbox.png
 tags:
   - the haze pixelbox
 score: 3.9/5  (132 votes)
-releaseDate: 2025-01-01T00:00:00.000Z
+releaseDate: 2025-12-04
 ---
 
 
@@ -33,3 +33,4 @@ Que tu sois un musicien experimente ou un debutant curieux, The Haze Pixelbox of
 ### En conclusion
 
 Que tu sois un musicien experimente ou un debutant curieux, The Haze Pixelbox offre un plaisir infini, stimulant la creativite avec sa touche ethnique unique. Viens rejoindre The Haze Pixelbox et reveille l ame musicale primitive avec des rythmes anciens !
+

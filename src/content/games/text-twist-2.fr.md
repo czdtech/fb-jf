@@ -16,10 +16,12 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Presentation du jeu
 
 Text Twist 2 est la suite tres attendue du populaire jeu de puzzle de mots, offrant une experience amelioree avec de nouvelles fonctionnalites et modes de jeu. Les joueurs sont toujours defies de demeler un ensemble de lettres pour former autant de mots que possible, mais avec plus de flexibilite et de variete. C'est un jeu parfait pour les passionnes de vocabulaire et ceux cherchant un exercice mental.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 Le gameplay de base reste le meme : forme des mots a partir d'un ensemble de lettres.
@@ -32,13 +34,17 @@ Le gameplay de base reste le meme : forme des mots a partir d'un ensemble de let
 -   **Dictionnaire elargi :** Le jeu propose un dictionnaire etendu permettant plus de decouvertes de mots.
 -   **Fonction « Twist » :** Le bouton classique « Twist » est toujours disponible pour melanger les lettres et inspirer de nouvelles idees.
 
+<!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Enter` `Spacebar` `Backspace`
 
 -   **Taper :** Utilise ton clavier pour taper les mots.
--   **Soumettre le mot :** Appuie sur `Entree`.
--   **Melanger les lettres :** Clique sur le bouton « Twist » ou appuie sur `Espace`.
--   **Effacer le mot :** Clique sur le bouton « Clear » ou appuie sur `Retour arriere`.
+-   **Soumettre le mot :** Appuie sur Entree.
+-   **Melanger les lettres :** Clique sur le bouton « Twist » ou appuie sur Espace.
+-   **Effacer le mot :** Clique sur le bouton « Clear » ou appuie sur Retour arriere.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
 **Quelles sont les principales ameliorations de Text Twist 2 ?**
@@ -49,3 +55,4 @@ Oui, dans la plupart des modes standard, trouver le « mot Bingo » (un mot util
 
 **Puis-je jouer hors ligne ?**
 Beaucoup de versions de Text Twist 2 sont telechargeables et peuvent etre jouees hors ligne, offrant du divertissement sans connexion internet.
+

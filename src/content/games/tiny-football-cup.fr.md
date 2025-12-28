@@ -15,10 +15,12 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Presentation du jeu
 
 Tiny Football Cup condense le football en matchs rapides avec des dribbles vifs et des coups de pied arretes simples. L'attaque favorise les passes en profondeur et les tirs croises ; la defense recompense le placement et les pressings opportuns.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1.  **Jeu a deux touches :** Passe-tire bat le dribble dans le trafic.
@@ -27,14 +29,19 @@ Tiny Football Cup condense le football en matchs rapides avec des dribbles vifs 
 4.  **Corners :** Alterne corners courts et tirs dans la surface.
 5.  **Gardien :** Bouge tard ; les attaquants telegraphient les angles de derniere seconde.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 -   Deplacement/Passe/Tir selon l'interface ; certaines versions separent lob/sol.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:tiny-football-cup:i-cant-get-shots-off-eeb8e4f7 -->
 -   **Q : Je n'arrive pas a tirer.**
     **R :** Passe plus tot et tire du premier touche.
 
+<!-- i18n:faq:id=faq:tiny-football-cup:defense-leaks-257c004b -->
 -   **Q : La defense prend l'eau.**
     **R :** Garde la formation ; change de defenseur ; evite de poursuivre.
+

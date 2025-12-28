@@ -15,10 +15,12 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Presentation du jeu
 
 Train Miner te demande de placer des pieces de voie pour qu'un train minier collecte des ressources et sorte en securite. Les virages coutent de l'elan/carburant ; les mauvais trajets creent des impasses. Des traces intelligentes collectent les extras sans pieger le train.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1.  **Sortie d'abord :** Assure un chemin de sortie viable avant le minerai optionnel.
@@ -27,14 +29,19 @@ Train Miner te demande de placer des pieces de voie pour qu'un train minier coll
 4.  **Trajets tests :** Simule les routes mentalement avant de lancer.
 5.  **Annule rapidement apres avoir repere une impasse.**
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 -   Place/tourne les pieces de voie ; lance le train ; pause/recommence via l'interface.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:train-miner:i-deadend-near-the-exit-c4f385e0 -->
 -   **Q : Je finis en impasse pres de la sortie.**
     **R :** Tu as depense des virages plus tot ; reroutage des segments plus droits.
 
+<!-- i18n:faq:id=faq:train-miner:can-i-collect-everything-44e658f5 -->
 -   **Q : Puis-je tout collecter ?**
     **R :** Souvent oui avec des embranchements intelligents ; priorise la securite d'abord.
+

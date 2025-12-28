@@ -15,10 +15,12 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Timber Guy est un jeu de timing à un seul bouton. Coupe le tronc tout en changeant de côté pour éviter les branches qui arrivent. Le rythme s'accélère, exigeant des changements de côté propres et un rythme régulier.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1.  **Lis à l'avance :** Regarde les prochaines branches et planifie tes changements à l'avance.
@@ -27,13 +29,19 @@ Timber Guy est un jeu de timing à un seul bouton. Coupe le tronc tout en change
 4.  **Ne panique pas :** Manque un temps si tu n'es pas sûr ; la sécurité vaut mieux qu'un coup.
 5.  **Score élevé :** Les petites erreurs s'accumulent — recommence après un mauvais départ.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 -   **Couper/Changer :** Tape à gauche/droite pour couper de ce côté.
 -   **Pause/Réessayer via l'interface.**
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:timber-guy:why-do-i-get-hit-86f64afd -->
 -   **Pourquoi je me fais toucher ?** Changements tardifs — change de côté plus tôt.
+<!-- i18n:faq:id=faq:timber-guy:does-speed-ramp-f258838f -->
 -   **La vitesse augmente-t-elle ?** Oui ; le rythme aide à l'adaptation.
+<!-- i18n:faq:id=faq:timber-guy:any-powerups-49499345 -->
 -   **Des bonus ?** Certaines versions incluent des boosters ; concentre-toi sur la constance.
+

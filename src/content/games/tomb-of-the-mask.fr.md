@@ -16,10 +16,12 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Presentation du jeu
 
 Tomb of the Mask est un jeu arcade hautement addictif et rapide qui combine navigation de labyrinthe et runner infini. Tu controles un personnage qui se deplace en balayant, glissant de mur en mur dans un labyrinthe pixel-art. L'objectif principal est de collecter des pieces et des bonus tout en fuyant une maree montante d'encre ou de lave qui monte par le bas.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 -   **Deplacement :** Balaie dans l'une des quatre directions cardinales (haut, bas, gauche, droite). Ton personnage glissera dans cette direction jusqu'a toucher un obstacle.
@@ -28,10 +30,14 @@ Tomb of the Mask est un jeu arcade hautement addictif et rapide qui combine navi
 -   **Eviter les obstacles :** Esquive les piques, les pieges et les ennemis.
 -   **Fuir la maree :** Une maree coloree monte du bas de l'ecran, te forcant a monter rapidement.
 
+<!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Arrow Keys` `WASD`
 
--   **Balayer :** Balaie ton doigt sur l'ecran (mobile) ou utilise les `Fleches` / `WASD` (PC) pour controler le mouvement de ton personnage.
+-   **Balayer :** Balaie ton doigt sur l'ecran (mobile) ou utilise les Fleches / WASD (PC) pour controler le mouvement de ton personnage.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
 **Comment obtenir un bon score ?**
@@ -42,3 +48,4 @@ Toucher un obstacle resulte generalement en une mort instantanee, terminant ta c
 
 **Y a-t-il differents masques ?**
 Oui, en progressant et collectant des pieces, tu peux debloquer differents masques. Chaque masque peut offrir une capacite unique ou un bonus, ajoutant une couche strategique a tes courses.
+

@@ -17,10 +17,12 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Tile Puzzle est un jeu de tuiles moderne et captivant qui défie ta planification et ta stratégie. L'objectif est de vider un plateau empilé de tuiles variées. Tu fais ça en sélectionnant une tuile et en l'envoyant vers un plateau de collection en bas. Quand tu as trois tuiles identiques dans le plateau, elles matchent et disparaissent, libérant de l'espace. Tu dois vider tout le plateau pour gagner, mais attention—si tu remplis le plateau complètement, tu perds !
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1.  **Réfléchis avant de taper :** Le plateau de collection a une capacité très limitée (généralement sept emplacements). Avant de taper sur une tuile, aie un plan. Ne tape pas au hasard en espérant le meilleur.
@@ -28,19 +30,25 @@ Tile Puzzle est un jeu de tuiles moderne et captivant qui défie ta planificatio
 3.  **Utilise le plateau comme stockage temporaire :** Tu peux placer des tuiles qui ne forment pas encore de match. Utilise ça à ton avantage. Si tu as besoin d'une tuile spécifique qui est bloquée, tu peux déplacer d'autres tuiles dans le plateau pour les garder pendant que tu libères celle dont tu as besoin.
 4.  **Identifie les tuiles piégées :** Cherche les situations où un type de tuile est empilé directement sur un autre du même type. Tu devras effacer celle du dessus d'abord, ce qui signifie trouver ses deux partenaires pendant que celle du dessous reste bloquée.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 Le jeu se joue avec de simples clics ou taps.
 
 *   **Sélectionner une tuile :** Clique sur n'importe quelle tuile qui n'est pas grisée (c'est-à-dire pas couverte par une autre) pour la déplacer vers le plateau de collection en bas.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:tile-puzzle:q-what-is-the-main-212faaec -->
 *   **Q : Quel est l'objectif principal ?**
     *   **R :** Vider 100% des tuiles du plateau en les collectant par sets de trois dans ton plateau.
 
+<!-- i18n:faq:id=faq:tile-puzzle:q-why-are-some-tiles-03c87e73 -->
 *   **Q : Pourquoi certaines tuiles sont grises et non cliquables ?**
     *   **R :** Une tuile ne devient disponible que quand aucune autre tuile ne la chevauche d'une couche supérieure. Tu dois d'abord effacer celles du dessus.
 
+<!-- i18n:faq:id=faq:tile-puzzle:q-what-happens-if-the-8c2c9a37 -->
 *   **Q : Que se passe-t-il si le plateau est plein ?**
     *   **R :** Si les sept emplacements sont remplis et que tu n'as pas fait de match de trois, tu ne peux plus jouer et la partie est terminée.
+

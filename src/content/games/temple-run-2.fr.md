@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Presentation du jeu
 
 Temple Run 2 est un jeu d'aventure de course infinie ou tu navigues sur des chemins de temple perilleux, collectant des pieces et bonus tout en evitant les obstacles et les singes demons qui te poursuivent. Le jeu se deroule dans des environnements magnifiques, offrant une experience de jeu et des effets visuels plus riches que son predecesseur.
@@ -46,3 +47,4 @@ Temple Run 2 est un jeu d'aventure de course infinie ou tu navigues sur des chem
     **R :** En les collectant en jeu, les achetant avec des pieces ou completant des missions specifiques.
 4.  **Q : Le jeu a-t-il une fin ?**
     **R :** C'est un jeu de course infinie qui peut theoriquement continuer indefiniment ; le defi est de courir le plus loin possible.
+

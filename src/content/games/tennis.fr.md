@@ -16,10 +16,12 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Presentation du jeu
 
 C'est un jeu de tennis arcade classique qui capture le fun simple et addictif de ce sport. Tu controles un joueur de tennis sur le court, affrontant un adversaire controle par l'ordinateur dans un match rapide. L'objectif est de renvoyer la balle et de marquer des points quand ton adversaire ne reussit pas a la retourner.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 -   **Objectif :** Sois le premier joueur a gagner le nombre de points ou sets requis pour remporter le match.
@@ -27,12 +29,16 @@ C'est un jeu de tennis arcade classique qui capture le fun simple et addictif de
 -   **Echange :** Apres le service, renvoie la balle avec ton adversaire. Tu dois retourner la balle avant qu'elle ne rebondisse deux fois de ton cote.
 -   **Score :** Tu marques un point si ton adversaire envoie la balle hors limites, dans le filet ou ne reussit pas a la retourner avant deux rebonds.
 
+<!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Arrow Keys` `WASD` `Spacebar` `X`
 
 Les controles sont concus pour etre simples et intuitifs :
--   **Deplacement :** `Fleches` ou `WASD` pour deplacer ton joueur sur ton cote du court.
--   **Frapper :** `Espace` ou touche `X` pour frapper la balle. Le timing de ta frappe peut affecter la puissance et la direction du tir.
+-   **Deplacement :** Fleches ou WASD pour deplacer ton joueur sur ton cote du court.
+-   **Frapper :** Espace ou touche X pour frapper la balle. Le timing de ta frappe peut affecter la puissance et la direction du tir.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
 **Comment marque-t-on des points au tennis ?**
@@ -43,3 +49,4 @@ Dans la plupart des jeux de tennis classiques, la direction de ton tir est deter
 
 **Puis-je jouer contre une autre personne ?**
 Beaucoup de jeux de tennis classiques proposent un mode 2 joueurs ou tu peux affronter un ami sur le meme clavier.
+

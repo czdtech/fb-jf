@@ -15,10 +15,12 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Presentation du jeu
 
 Etends un bras elastique pour voler des objets tout en esquivant les lasers, gardes et scies circulaires. Les niveaux recompensent la planification de chemin : contourne les declencheurs, exploite les fenetres de timing et retracte vite quand les dangers se reinitalisent.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1.  **Sonde le chemin :** Bouge lentement pour tester les portees des declencheurs.
@@ -27,14 +29,19 @@ Etends un bras elastique pour voler des objets tout en esquivant les lasers, gar
 4.  **Controle du risque :** Abandonne les arcs gourmands quand les cycles se desynchronisent.
 5.  **Multi-grab :** Enchaine les ramassages surs avant de retracter.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 -   Glisse pour etendre le bras ; relache pour retracter ; redemarre via l interface.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:thief-puzzle:i-trip-alarms-153ade3a -->
 -   **Q : Je declenche les alarmes.**
     **R :** Ralentis pres des capteurs et contourne les coins pour couper la ligne de vue.
 
+<!-- i18n:faq:id=faq:thief-puzzle:timing-feels-tight-a5d830e2 -->
 -   **Q : Le timing semble serre.**
     **R :** Attends un cycle complet ; la plupart des salles ont des fenetres relaxees.
+
