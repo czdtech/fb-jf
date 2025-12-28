@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Droid-O es un juego de disparos de arena en vista cenital, ágil y muy preciso, en
@@ -60,6 +61,7 @@ importante como la puntería, sobre todo cuando aparecen múltiples tiradores.
 - **Drones desplegables:** Suéltalos antes de los giros de tu ruta de evasión
   para que barran las filas de perseguidores.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - Movimiento: WASD/Flechas.
@@ -77,22 +79,28 @@ importante como la puntería, sobre todo cuando aparecen múltiples tiradores.
 - **Ritmo de oleadas:** A veces conviene no matar tan rápido para agrupar
   apariciones y luego limpiar a muchos enemigos de golpe con disparos perforantes.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:droid-o:i-keep-getting-cornered-how-6205b082 -->
 - **P: Siempre acabo acorralado, ¿cómo lo evito?**  
   **R:** Evita girar en círculos pequeños cerca de los bordes. Traza arcos
   amplios que crucen el centro de la arena, usa la esquiva rápida pronto por la rendija
   más estrecha y apóyate en los pilares para cortar disparos enemigos.
 
+<!-- i18n:faq:id=faq:droid-o:which-enemies-should-i-kill-1787e5bd -->
 - **P: ¿A quién debo eliminar primero?**  
   **R:** A los cargadores rápidos y a los enemigos a distancia. Los cuerpo a
   cuerpo lentos se pueden mantener a raya mientras limpias las amenazas
   prioritarias.
 
+<!-- i18n:faq:id=faq:droid-o:my-weapon-overheats-constantly-19a29573 -->
 - **P: Mi arma se sobrecalienta todo el rato, ¿qué hago?**  
   **R:** Limita las ráfagas, muévete mientras enfría y, si el juego lo permite,
   invierte en mejoras de eficiencia.
 
+<!-- i18n:faq:id=faq:droid-o:are-deployables-worth-it-039fa7d3 -->
 - **P: ¿Merece la pena usar desplegables?**  
   **R:** Sí. Colócalos en tu ruta de escape para que disparen automáticamente a
   los enemigos que te persiguen sin que tengas que exponerte más.
+

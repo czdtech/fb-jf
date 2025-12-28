@@ -17,12 +17,14 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Descripción general
 
 Fancy Pants es un juego de plataformas dibujado a mano centrado en el impulso y la fluidez.
 Construye velocidad en las pendientes, encadena saltos en pared y descubre áreas
 secretas y coleccionables escondidos por el mapa.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 - Mantén el impulso cronometrando bien los saltos al salir de cada pendiente.
@@ -30,6 +32,7 @@ secretas y coleccionables escondidos por el mapa.
   grandes.
 - Explora caminos secundarios para encontrar trofeos y habitaciones ocultas.
 
+<!-- i18n:section:controls -->
 ### Controles
 
 - Flechas o WASD para moverte y saltar.
@@ -45,15 +48,20 @@ secretas y coleccionables escondidos por el mapa.
 - Vuelve a niveles anteriores cuando domines mejor el movimiento; llegarás a
   secretos que antes parecían imposibles.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:fancy-pants:is-there-combat-82efacce -->
 - **P: ¿Hay combate?**  
   **R:** Muy ligero; normalmente basta con pisar enemigos o usar golpes simples
   en algunas versiones.
 
+<!-- i18n:faq:id=faq:fancy-pants:are-there-time-trials-acf42297 -->
 - **P: ¿Hay pruebas de tiempo?**  
   **R:** Muchas ediciones incluyen desafíos de speedrun (contrarreloj) o salas de reto.
 
+<!-- i18n:faq:id=faq:fancy-pants:can-i-change-pants-colors-a3a1c6f5 -->
 - **P: ¿Puedo cambiar el color de los pantalones?**  
   **R:** En ciertas versiones puedes desbloquear cosméticos para personalizar el
   aspecto del personaje.
+

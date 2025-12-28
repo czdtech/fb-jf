@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Endless Truck es un runner lateral centrado en el control de la velocidad y el
@@ -38,6 +39,7 @@ velocidad o estrellarte. Las monedas y misiones te permiten desbloquear mejoras
 5.  **Orden de mejoras:** Empieza por suspensión y neumáticos para ganar control,
     luego invierte en motor y nitro cuando domines la conducción.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - Acelerar/Frenar: W/S o Flechas arriba/abajo.
@@ -53,16 +55,21 @@ velocidad o estrellarte. Las monedas y misiones te permiten desbloquear mejoras
 - **Recuperación tras un casi accidente:** Si entras con mal ángulo, suelta gas y ajusta
   suavemente la inclinación para salvar el aterrizaje.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:endless-truck:i-always-wipe-out-on-9c9698af -->
 - **P: Siempre me estrello al aterrizar, ¿qué puedo hacer?**  
   **R:** Reduce el número de volteretas, procura caer con las ruedas niveladas y no
   aceleres fuerte hasta que la suspensión se haya asentado.
 
+<!-- i18n:faq:id=faq:endless-truck:best-upgrade-first-23f8ce2f -->
 - **P: ¿Qué mejora compro primero?**  
   **R:** Suspensión y neumáticos para tener control; la velocidad extra es útil
   solo cuando puedes manejarla.
 
+<!-- i18n:faq:id=faq:endless-truck:when-should-i-use-boost-4e692488 -->
 - **P: ¿Cuándo es mejor usar el nitro?**  
   **R:** En rectas o justo tras un aterrizaje limpio, nunca en mitad de un salto
   grande o antes de una caída complicada.
+

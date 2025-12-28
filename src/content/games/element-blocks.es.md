@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Element Blocks es un puzle calmado pero muy estratégico que parte de la fórmula
@@ -27,6 +28,7 @@ eliminarlas. La novedad está en el sistema de estrellas y potenciadores, que te
 ofrece herramientas tácticas para salir de situaciones complicadas y alargar la
 partida.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Reglas estándar 10x10:** Siempre tendrás tres piezas disponibles a la vez.
@@ -47,6 +49,7 @@ partida.
     una gran bonificación de puntuación. Siempre que puedas, prepara el tablero para
     limpiar más de una fila o columna a la vez.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 *   **Colocar bloques:** Arrastra con el ratón o el dedo una pieza desde la
@@ -54,18 +57,23 @@ partida.
 *   **Usar potenciadores:** Haz clic en el icono del potenciador cuando tengas
     suficientes estrellas y después en la casilla o línea donde quieras aplicarlo.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:element-blocks:q-how-do-i-get-14eb2026 -->
 *   **P: ¿Cómo consigo estrellas exactamente?**  
     - **R:** Cada vez que limpias una línea que contiene uno o más bloques con
       estrella, las añades a tu reserva.
 
+<!-- i18n:faq:id=faq:element-blocks:q-can-i-rotate-the-8b38e9ae -->
 *   **P: ¿Se pueden rotar las piezas?**  
     - **R:** No. La imposibilidad de rotarlas es parte del reto: debes planear tus
       colocaciones según las formas tal y como aparecen.
 
+<!-- i18n:faq:id=faq:element-blocks:q-what-is-the-best-9bf06e71 -->
 - **P: ¿Cuál es la mejor forma de gastar las estrellas?**
 
     - **R:** Lo mejor es guardarlas para emergencias. Cuando el tablero esté casi lleno
       y veas que una de las próximas piezas no encaja, usa un potenciador para limpiar
       un área o una línea clave y ganar margen para seguir sumando puntos.
+

@@ -11,15 +11,18 @@ tags:
   - arcade
   - runner
 score: 4.4/5  (1386 votes)
+releaseDate: 2025-09-09
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Descripción general
 
 Electron Dash es un runner en túnel muy rápido. Corres por cilindros y
 plataformas suspendidas, saltas huecos y haces impulsos rápidos sobre baldosas flotantes
 mientras la velocidad aumenta de forma constante.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 - Lee con antelación los patrones de baldosas; cambia de carril a tiempo y usa
@@ -29,6 +32,7 @@ mientras la velocidad aumenta de forma constante.
 - Tu objetivo es llegar lo más lejos posible y, cuando existan, recoger gemas
   por el camino.
 
+<!-- i18n:section:controls -->
 ### Controles
 
 - Flechas/WASD para moverte y saltar.
@@ -42,16 +46,21 @@ mientras la velocidad aumenta de forma constante.
   baldosas inestables.
 - Trata las curvas como si fueran carriles: cambia pronto, no al borde mismo.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:electron-dash:random-or-fixed-levels-bbc83643 -->
 - **P: ¿Los niveles son aleatorios o fijos?**  
   **R:** Muchos portales usan secciones generadas de forma procedural, así que
   cada carrera puede ser distinta.
 
+<!-- i18n:faq:id=faq:electron-dash:what-counts-as-failure-4929d013 -->
 - **P: ¿Qué se considera fallo?**  
   **R:** Caerte, tocar láseres o que un anillo en movimiento te saque de la
   plataforma.
 
+<!-- i18n:faq:id=faq:electron-dash:any-upgrades-2e662d37 -->
 - **P: ¿Hay mejoras permanentes?**  
   **R:** Algunas versiones añaden desbloqueos de gemas o cosméticos; el bucle
   central sigue siendo llegar lo más lejos posible.
+

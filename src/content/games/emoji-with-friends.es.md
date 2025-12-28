@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Emoji With Friends mezcla emparejamiento rápido y deducción ligera usando
@@ -25,6 +26,7 @@ panel. Las rondas son cortas, los símbolos se leen de un vistazo y las reglas
 son sencillas, lo que lo convierte en una buena opción para partidas rápidas con
 amigos.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Escanea patrones:** Identifica rápidamente grupos de emojis frecuentes para
@@ -39,6 +41,7 @@ amigos.
     sprints finales o para desbloquear el tablero cuando se quede sin jugadas
     claras.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - Selección/Match: toca o haz clic sobre los emojis siguiendo las reglas del
@@ -48,16 +51,21 @@ amigos.
 - Modo local/en línea: según el portal, podrás jugar contra la IA, contra amigos
   en el mismo dispositivo o en partidas rápidas.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:emoji-with-friends:is-it-competitive-or-solo-1322eefd -->
 - **P: ¿Es siempre competitivo o hay modos en solitario?**  
   **R:** Depende del portal; muchos incluyen tanto duelos locales como modos más
   relajados para un solo jugador.
 
+<!-- i18n:faq:id=faq:emoji-with-friends:are-there-complex-rules-a27f7f09 -->
 - **P: ¿Las reglas son complicadas?**  
   **R:** Suelen ser muy sencillas; basta con leer el objetivo de cada modo antes
   de empezar.
 
+<!-- i18n:faq:id=faq:emoji-with-friends:how-long-is-a-round-e41a29b3 -->
 - **P: ¿Cuánto dura una ronda típica?**  
   **R:** Generalmente menos de un par de minutos, ideal para partidas rápidas o
   "rellenar huecos" entre otras actividades.
+

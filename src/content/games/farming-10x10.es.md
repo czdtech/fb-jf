@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Farming 10x10 es un puzle relajado de colocación de piezas sobre una cuadrícula
@@ -24,6 +25,7 @@ columnas y conseguir limpiezas. La partida termina cuando ya no queda ningún
 movimiento legal, así que la clave está en conservar la flexibilidad mientras
 preparas jugadas que limpien varias líneas a la vez.
 
+<!-- i18n:section:tips -->
 ### Estrategia y guía de juego
 
 1. Mantén el centro despejado y ve ordenando los bordes poco a poco para evitar
@@ -34,25 +36,31 @@ preparas jugadas que limpien varias líneas a la vez.
    doble.
 5. Evita crear "columnas" de 1×n que solo aceptan piezas alargadas.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - Arrastra las piezas al tablero y suéltalas para colocarlas; en algunos modos
   puedes girarlas.
 - Usa las opciones de Deshacer/Restablecer si el juego las ofrece.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:farming-10x10:i-keep-running-out-of-53d7e049 -->
 - **P:** Siempre me quedo sin espacio, ¿qué puedo hacer?
   
   **R:** Mantén una zona central abierta, guarda un hueco de reserva para las
   piezas más raras y prioriza las jugadas que limpian dos líneas a la vez.
 
+<!-- i18n:faq:id=faq:farming-10x10:rotate-is-missing-47d28c13 -->
 - **P:** ¿Por qué no puedo girar las piezas?
   
   **R:** Muchos juegos de 10×10 no permiten rotar; compensa con una mejor
   gestión de los huecos y de las piezas difíciles.
 
+<!-- i18n:faq:id=faq:farming-10x10:how-to-chase-high-scores-1161fbca -->
 - **P:** ¿Cómo puedo conseguir puntuaciones más altas?
   
   **R:** Encadena limpiezas dobles y evita las jugadas de "rescate" de una sola
   línea que rompen por completo tu estructura.
+

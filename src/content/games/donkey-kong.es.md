@@ -15,6 +15,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Descripción general
 
 Clásico de recreativa de 1981: controla a Mario mientras subes andamios y
@@ -22,6 +23,7 @@ escaleras, esquivas barriles y bolas de fuego y usas el martillo para destrozar
 peligros mientras atraviesas los cuatro tipos de fase (25m–100m) para rescatar a
 Pauline. Después de cada nivel, las fases se repiten con patrones más rápidos.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 - Completa la fase llegando a la parte superior o retirando todos los remaches
@@ -31,6 +33,7 @@ Pauline. Después de cada nivel, las fases se repiten con patrones más rápidos
 - Aprende los patrones de los barriles (rectos vs. diagonales), el ritmo de las
   cintas transportadoras y los resortes de los ascensores.
 
+<!-- i18n:section:controls -->
 ### Controles
 
 - Flechas: mover y trepar.
@@ -48,16 +51,21 @@ Pauline. Después de cada nivel, las fases se repiten con patrones más rápidos
 - Usa el martillo cuando haya mucho tráfico de barriles, pero evita quedarte
   atrapado cerca de las escaleras sin escapatoria.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:donkey-kong:how-many-distinct-stages-are-d050eca0 -->
 - **P: ¿Cuántos tipos de fase distintas hay?**  
   **R:** Cuatro: Andamios (25m), Cintas (50m), Ascensores (75m) y Remaches
   (100m).
 
+<!-- i18n:faq:id=faq:donkey-kong:does-the-game-loop-23a181d7 -->
 - **P: ¿El juego se repite en bucle?**  
   **R:** Sí, los cuatro escenarios se repiten con mayor dificultad tras cada
   nivel.
 
+<!-- i18n:faq:id=faq:donkey-kong:what-ends-a-run-ed280e19 -->
 - **P: ¿Qué puede terminar mi partida?**  
   **R:** Chocar con un enemigo o barril, caer desde demasiada altura o agotar el
   temporizador de bonus.
+

@@ -15,12 +15,14 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Descripción general
 
 Elastic Man es un pequeño juguete interactivo en el que puedes retorcer una
 cara de goma. Agarra y estira distintas zonas del rostro y suéltalas para ver
 cómo la "piel" vuelve a su sitio con un efecto de gelatina.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 - Arrastra, toca y pellizca distintas partes de la cara para provocar todo tipo
@@ -28,6 +30,7 @@ cómo la "piel" vuelve a su sitio con un efecto de gelatina.
 - En algunas versiones puedes ajustar la fuerza del aplastamiento o la resolución de
   la simulación.
 
+<!-- i18n:section:controls -->
 ### Controles
 
 - Ratón/táctil: arrastra y suelta para deformar; usa el panel de opciones cuando
@@ -41,3 +44,4 @@ cómo la "piel" vuelve a su sitio con un efecto de gelatina.
   la animación fluida.
 - Varios tirones cortos seguidos mantienen el efecto de temblor activo más
   tiempo.
+

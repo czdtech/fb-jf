@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Egg Maker condensa la cocina de gestión de tiempo en una cadena rápida de
@@ -39,6 +40,7 @@ consigues un plato "perfecto" o lo quemas.
 5.  **Mejoras:** Prioriza una sartén extra y mayor velocidad de preparación por
     encima de la decoración del local.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - Toca para romper huevos, batir y sazonar; arrastra hacia la sartén o el plato
@@ -54,17 +56,22 @@ consigues un plato "perfecto" o lo quemas.
 - **Rutas de combo:** Entregar 2–3 platos seguidos sin fallo suele otorgar
   multiplicadores de propina.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:egg-maker:i-keep-burning-items-how-483b18e0 -->
 - **P: Quemo siempre los huevos, ¿cómo lo evito?**  
   **R:** Escalona el inicio de cada sartén 3–4 segundos, haz las tareas de mesa
   en ese hueco y fíate más del sonido del chisporroteo que del reloj.
 
+<!-- i18n:faq:id=faq:egg-maker:which-upgrade-first-be077b24 -->
 - **P: ¿Qué mejora debería comprar primero?**  
   **R:** Una segunda sartén y luego velocidad de preparación; ampliar cola o
   decoración puede esperar.
 
+<!-- i18n:faq:id=faq:egg-maker:any-trick-for-omelets-with-7e3bef76 -->
 - **P: ¿Algún truco para tortillas con relleno?**  
   **R:** Ten los ingredientes picados durante los momentos tranquilos, añádelos
   pronto y pliega la tortilla en cuanto veas que cuaja para evitar que se
   desborde.
+

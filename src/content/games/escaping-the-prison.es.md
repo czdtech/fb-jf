@@ -15,6 +15,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Descripción general
 
 Henry Stickmin está encerrado en la cárcel y tú decides cómo intenta escapar.
@@ -22,6 +23,7 @@ La gracia del juego está en las rutas ramificadas y en los objetos absurdos que
 puedes usar: la mayoría de elecciones acaban en fracasos hilarantes, pero unas
 pocas combinaciones te llevan a finales exitosos.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 - Cuando se te presente una situación, elige un objeto o ruta entre varias
@@ -31,6 +33,7 @@ pocas combinaciones te llevan a finales exitosos.
 - Repite escenas para descubrir todos los fallos y, cuando exista, completar la
   colección de biografías de personajes.
 
+<!-- i18n:section:controls -->
 ### Controles
 
 - Ratón: haz clic en las opciones de objetos/ruta y en las indicaciones de
@@ -46,3 +49,4 @@ pocas combinaciones te llevan a finales exitosos.
   durante las escenas.
 - Usa el selector de escenas, si está disponible, para revisar solo los
   fragmentos donde te faltan fallos o biografías en lugar de repetir toda la partida.
+

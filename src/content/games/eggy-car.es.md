@@ -15,12 +15,14 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Descripción general
 
 Eggy Car te pide que equilibres un coche que transporta un huevo delicado a lo
 largo de un terreno lleno de colinas. Un bache brusco puede romper la cáscara;
 la clave está en un acelerador suave y en anticipar el relieve.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 - Reduce la velocidad en las bajadas y acelera con cuidado en las subidas para
@@ -30,6 +32,7 @@ la clave está en un acelerador suave y en anticipar el relieve.
 - Las partidas largas se basan más en toques rítmicos de acelerador que en
   mantenerlo pulsado.
 
+<!-- i18n:section:controls -->
 ### Controles
 
 - A/D o flechas para avanzar/retroceder y modular la velocidad.
@@ -44,15 +47,20 @@ la clave está en un acelerador suave y en anticipar el relieve.
 - Las mejoras de suspensión y control (cuando existan) son las que más se notan
   al principio.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:eggy-car:what-ends-a-run-ed280e19 -->
 - **P: ¿Qué puede terminar la carrera?**  
   **R:** Romper el huevo por un golpe fuerte o quedarte sin combustible.
 
+<!-- i18n:faq:id=faq:eggy-car:is-there-a-finish-line-46e35bd5 -->
 - **P: ¿Hay línea de meta?**  
   **R:** Normalmente es un juego de distancia y récord: lo importante es ver
   hasta dónde llegas.
 
+<!-- i18n:faq:id=faq:eggy-car:best-early-strategy-e4b1edd1 -->
 - **P: ¿Cuál es la mejor estrategia al inicio?**  
   **R:** Conduce despacio y prioriza proteger el huevo; la velocidad vendrá sola
   cuando aprendas el ritmo de las colinas.
+

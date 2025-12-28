@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### **Introducción al juego**
 
 *Domino Adventure* es una cuidada adaptación digital del clásico juego de
@@ -33,6 +34,7 @@ El ganador de la ronda suma puntos equivalentes al total de pips que queden en
 las manos de los rivales. La partida suele jugarse a varias rondas hasta que
 alguien alcanza una puntuación objetivo (por ejemplo, 15 puntos).
 
+<!-- i18n:section:tips -->
 ### **Estrategia y consejos de juego**
 
 1.  **Juega tus dobles pronto:** Las fichas dobles (como el doble cinco o doble
@@ -54,6 +56,7 @@ alguien alcanza una puntuación objetivo (por ejemplo, 15 puntos).
     *   **Modo Draw:** Si no puedes jugar, debes robar fichas del "boneyard"
         hasta conseguir una jugable. Aquí el azar tiene más influencia.
 
+<!-- i18n:section:controls -->
 ### **Guía de controles**
 
 El juego está pensado para un control intuitivo con ratón o táctil.
@@ -62,23 +65,29 @@ El juego está pensado para un control intuitivo con ratón o táctil.
     extremo válido de la cadena. En algunas versiones, basta con hacer clic en
     la ficha y el juego la coloca automáticamente en un sitio legal.
 
+<!-- i18n:section:faq -->
 ### **Preguntas frecuentes (FAQ)**
 
+<!-- i18n:faq:id=faq:domino-adventure:how-do-i-win-a-e21b4f7d -->
 **1. ¿Cómo se gana una ronda?**  
 Ganas cuando eres el primero en quedarte sin fichas. Si la partida queda
 bloqueada y nadie puede jugar, gana quien tenga la suma de pips más baja en la
 mano.
 
+<!-- i18n:faq:id=faq:domino-adventure:how-is-scoring-calculated-d2a2cb51 -->
 **2. ¿Cómo se puntúa exactamente?**  
 Al terminar la ronda, el ganador suma tantos puntos como la **suma de todos los
 pips** de las fichas que queden en las manos de los rivales. Por ejemplo, si el
 contrincante se queda con [6‑5] y [2‑1], recibes (6+5+2+1) = 14 puntos.
 
+<!-- i18n:faq:id=faq:domino-adventure:whats-the-difference-between-b-e92d3a22 -->
 **3. ¿En qué se diferencian los modos "Block" y "Draw"?**  
 *   En **Block**, si no tienes jugada simplemente pasas turno.  
 *   En **Draw**, si no puedes jugar debes robar del montón hasta conseguir una
     ficha válida (o hasta que se agote el montón).
 
+<!-- i18n:faq:id=faq:domino-adventure:what-is-the-trophy-road-d3a9b95e -->
 **4. ¿Qué es el "Trophy Road"?**  
 Es un sistema de progresión en el que desbloqueas recompensas al jugar
 partidas: nuevos sets de fichas, aspectos y otros extras cosméticos.
+

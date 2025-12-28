@@ -15,6 +15,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Descripción general
 
 DogeMiner es un juego incremental de tipo idle/clicker con temática de minería
@@ -24,6 +25,7 @@ mejoran estadísticas, fábricas, etc.) que automatizan la producción y
 multiplican tus ingresos. En fases posteriores también podrás viajar a la Luna y
 más allá mediante cohetes.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 - Haz clic para conseguir las primeras monedas y reinviértelas en mejoras que
@@ -33,6 +35,7 @@ más allá mediante cohetes.
 - Cuando esté disponible, usa el sistema de prestigio o reinicios tardíos para
   obtener multiplicadores permanentes de cara a futuras partidas.
 
+<!-- i18n:section:controls -->
 ### Controles
 
 - Ratón/táctil: haz clic para minar manualmente y usa los botones de la
@@ -47,13 +50,17 @@ más allá mediante cohetes.
 - Ahorra para edificios clave que desbloquean contenido nuevo (por ejemplo, los
   relacionados con los viajes espaciales).
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:dogeminer:is-it-playable-offline-b3756a46 -->
 - **P: ¿Se puede jugar sin conexión?**  
   **R:** Algunas versiones guardan el progreso de forma local y siguen generando
   monedas mientras la pestaña está abierta en segundo plano; el soporte de
   progreso totalmente offline depende del portal.
 
+<!-- i18n:faq:id=faq:dogeminer:whats-the-longterm-goal-72afeb99 -->
 - **P: ¿Cuál es el objetivo a largo plazo?**  
   **R:** Escalar tu producción lo suficiente como para lanzar cohetes, llegar a
   la Luna y seguir desbloqueando nuevas zonas y mejoras.
+

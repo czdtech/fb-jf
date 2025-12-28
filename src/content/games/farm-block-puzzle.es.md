@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Farm Block Puzzle es un puzle de ritmo tranquilo y muy adictivo basado en la
@@ -26,6 +27,7 @@ Cuando completas una línea entera, ya sea horizontal o vertical, esa fila o
 columna se borra. El reto está en seguir colocando piezas y despejando líneas el
 máximo tiempo posible para lograr la mejor puntuación.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Planifica según las piezas disponibles:** Siempre tienes tres piezas a la
@@ -41,6 +43,7 @@ máximo tiempo posible para lograr la mejor puntuación.
     límite forma parte del reto, así que tienes que aprender a visualizar cómo
     encajan tal y como aparecen.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 El juego se controla con arrastrar y soltar.
@@ -48,17 +51,22 @@ El juego se controla con arrastrar y soltar.
 *   **Colocar bloques:** Usa el ratón o el dedo para arrastrar una pieza desde la
     barra inferior y suéltala sobre un hueco válido de la cuadrícula 10x10.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:farm-block-puzzle:q-what-is-the-objective-0d640e0d -->
 *   **P: ¿Cuál es el objetivo exacto del juego?**  
     - **R:** Conseguir la mayor puntuación posible completando líneas. La partida
       termina cuando ya no puedes colocar ninguna de las tres piezas actuales.
 
+<!-- i18n:faq:id=faq:farm-block-puzzle:q-can-i-rotate-the-8b38e9ae -->
 *   **P: ¿Se pueden rotar las piezas?**  
 
     - **R:** No. El reto está en encajarlas en la orientación en la que aparecen.
 
+<!-- i18n:faq:id=faq:farm-block-puzzle:q-how-do-i-get-da481c1b -->
 *   **P: ¿Cómo consigo la mejor puntuación?**
 
     - **R:** Aguanta el máximo tiempo posible y busca combos: limpiar varias líneas con
       una sola pieza da una bonificación de puntuación importante.
+

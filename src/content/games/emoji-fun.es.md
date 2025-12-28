@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Emoji Fun es un puzle de asociaciones visuales, creativo y sorprendentemente
@@ -26,6 +27,7 @@ conexiones pueden ser literales (un calcetín y un pie) o más conceptuales (un
 fantasma y una casa encantada), así que tendrás que combinar lógica con
 pensamiento lateral.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Empieza por las parejas evidentes:** Recorre rápidamente las columnas en
@@ -40,6 +42,7 @@ pensamiento lateral.
 4.  **Sin presión de tiempo:** El juego es relajado; tómate tu tiempo para
     reflexionar sobre las conexiones antes de trazar una línea.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 El control se basa en arrastrar y soltar.
@@ -48,18 +51,17 @@ El control se basa en arrastrar y soltar.
     columna, luego arrastra el cursor o el dedo hasta el emoji relacionado de la
     otra columna para dibujar la línea.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:emoji-fun:q-what-is-the-goal-ab58581b -->
 *   **P: ¿Cuál es el objetivo exacto?**  
     - **R:** Conectar correctamente todas las parejas de emojis relacionados que
       aparecen en la pantalla para completar el nivel.
 
+<!-- i18n:faq:id=faq:emoji-fun:q-what-happens-if-i-12882b89 -->
 *   **P: ¿Qué pasa si uno la línea con un emoji incorrecto?**  
 
     - **R:** Normalmente la línea se borra o se marca en rojo, indicando una
       pareja incorrecta. Puedes intentarlo de nuevo sin penalización fuerte.
 
-- **P: No entiendo la conexión entre dos emojis, ¿qué hago?**
-
-    - **R:** Piensa fuera de lo común: la relación puede ser una acción (balón ↔ gol),
-      una causa‑efecto (semilla ↔ árbol) o un concepto compartido (perro ↔ hueso).

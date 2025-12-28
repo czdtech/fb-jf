@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Domino Battle es una adaptación digital del clásico juego de fichas. Aquí te
@@ -25,6 +26,7 @@ objetivo es ser el primer jugador en quedarse sin fichas, enlazándolas con los
 extremos de la cadena sobre el tablero. No basta con jugar tus piezas: tendrás
 que planear a largo plazo y, cuando puedas, bloquear los movimientos del rival.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Conceptos básicos:** Cada jugador empieza con una mano de fichas. Normalmente
@@ -44,6 +46,7 @@ que planear a largo plazo y, cuando puedas, bloquear los movimientos del rival.
     la ronda queda "bloqueada". En ese caso, gana quien tenga la suma de puntos
     más baja en sus fichas y anota la diferencia.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 *   **Jugar una ficha:** Haz clic y arrastra una ficha desde tu mano hasta uno
@@ -51,19 +54,24 @@ que planear a largo plazo y, cuando puedas, bloquear los movimientos del rival.
 *   **Robar ficha:** Si no tienes jugadas, haz clic en el montón boca abajo para
     robar un nuevo dominó.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:domino-battle:q-what-is-the-main-54696a60 -->
 *   **P: ¿Cuál es el objetivo principal?**
     *   **R:** Ser el primero en quedarte sin fichas. La partida completa suele
         jugarse a varios rondas, ganando quien alcanza primero una puntuación
         objetivo.
 
+<!-- i18n:faq:id=faq:domino-battle:q-what-happens-if-i-36e9def4 -->
 *   **P: ¿Qué pasa si no puedo jugar?**
     *   **R:** Debes robar del pozo. Si ya no quedan fichas por robar, pasas el
         turno hasta que vuelva a haber un movimiento posible o la partida se
         bloquee.
 
+<!-- i18n:faq:id=faq:domino-battle:q-how-can-i-block-5f610509 -->
 *   **P: ¿Cómo puedo bloquear al rival?**
     *   **R:** Observa qué números quedan en los extremos. Si intuyes que tu
         oponente tiene muchas fichas de un valor concreto, intenta evitar que
         ese número quede abierto en los extremos, obligándole a robar o pasar.
+

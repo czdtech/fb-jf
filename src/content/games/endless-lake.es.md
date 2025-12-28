@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Endless Lake es un runner infinito minimalista y exigente que pone a prueba tu
@@ -26,6 +27,7 @@ torno a un único gesto: el salto. Tendrás que cronometrar a la perfección tus
 saltos simples y dobles para superar los huecos cambiantes entre plataformas y
 ver hasta dónde eres capaz de llegar.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Domina el doble salto:** La habilidad más importante es el doble salto.
@@ -44,6 +46,7 @@ ver hasta dónde eres capaz de llegar.
     delante de tu personaje; así tendrás más margen para decidir si el próximo
     hueco pide salto normal o doble salto.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 El juego usa un sistema de control de un solo toque.
@@ -53,19 +56,24 @@ El juego usa un sistema de control de un solo toque.
 *   **Doble salto:** Toca o haz clic para iniciar el salto y vuelve a pulsar
     mientras el personaje esté en el aire para ganar altura y distancia extra.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:endless-lake:q-what-is-the-goal-ab58581b -->
 *   **P: ¿Cuál es el objetivo del juego?**  
     - **R:** Correr lo más lejos posible sin caer al lago. Tu puntuación se basa
       en la distancia recorrida.
 
+<!-- i18n:faq:id=faq:endless-lake:q-how-do-i-know-da3ae9a5 -->
 *   **P: ¿Cómo sé cuándo usar el doble salto?**  
 
     - **R:** Debes juzgar visualmente el tamaño del hueco. Los más anchos
       necesitan doble salto, los cortos se superan con uno solo. Esa lectura de
       distancias es precisamente la habilidad que el juego quiere entrenar.
 
+<!-- i18n:faq:id=faq:endless-lake:q-what-are-the-mirror-488e84f5 -->
 - **P: ¿Qué son las puertas espejo?**
 
     - **R:** Al atravesarlas suele aparecer un clon de tu personaje, añadiendo un
       giro visual divertido en el que controlas varios corredores en paralelo.
+

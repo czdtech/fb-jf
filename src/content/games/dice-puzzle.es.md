@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Dice Puzzle es un puzle estratégico que combina lógica con un toque de azar. Tu
@@ -27,6 +28,7 @@ es crear cubos de joya fusionando dados de valor 6: limpian el tablero a tu
 alrededor y disparan la puntuación. La partida termina cuando el tablero se
 llena y ya no puedes colocar más dados.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Regla de fusión:** El corazón del juego está en crear grupos de tres o más
@@ -44,6 +46,7 @@ llena y ya no puedes colocar más dados.
     limpia un área de 3x3 a su alrededor. Es fundamental para liberar espacio y
     alargar la partida.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 *   **Girar el dado:** Haz clic sobre el dado en la zona de espera para rotarlo
@@ -51,18 +54,23 @@ llena y ya no puedes colocar más dados.
 *   **Colocar el dado:** Haz clic en una casilla vacía de la cuadrícula 5x5 para
     soltar el dado actual.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:dice-puzzle:q-how-do-i-merge-532c1910 -->
 *   **P: ¿Cómo fusiono dados exactamente?**
     *   **R:** Debes colocar al menos tres dados con el mismo número de forma
         que se toquen en horizontal o vertical. La fusión es automática.
 
+<!-- i18n:faq:id=faq:dice-puzzle:q-what-is-the-goal-ab58581b -->
 *   **P: ¿Cuál es el objetivo del juego?**
     *   **R:** Sobrevivir el máximo número de turnos posible y conseguir la mayor
         puntuación. Para ello debes fusionar dados y liberar espacio antes de que
         la cuadrícula se llene.
 
+<!-- i18n:faq:id=faq:dice-puzzle:q-what-happens-when-i-68b2ff3c -->
 *   **P: ¿Qué ocurre al fusionar tres dados de valor 6?**
     *   **R:** Obtienes un cubo de joya. En la siguiente fusión en la que
         participe, desencadena una pequeña explosión que limpia el área 3x3 que
         lo rodea y otorga un gran bonus de puntos.
+

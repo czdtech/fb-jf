@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Descripción general
 
 Fancy Pants 2 continúa la fórmula de plataformas basada en el impulso del
@@ -23,6 +24,7 @@ original, pero con niveles más amplios, nuevos enemigos y salas de reto
 opcionales. El foco sigue siendo correr, deslizarte y encadenar saltos fluidos
 por escenarios dibujados a mano mientras recoges trofeos.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 - Usa las pendientes y los saltos en pared para enlazar movimientos y superar grandes
@@ -32,6 +34,7 @@ por escenarios dibujados a mano mientras recoges trofeos.
 - Enfréntate a enemigos simples con pisotones o golpes rápidos (según la
   versión), intentando no perder el ritmo de movimiento.
 
+<!-- i18n:section:controls -->
 ### Controles
 
 - WASD o Flechas para moverte y saltar.
@@ -46,15 +49,20 @@ por escenarios dibujados a mano mientras recoges trofeos.
   saltos largos, incluso si tu sincronización no es perfecta.
 - Aprovecha las bajadas largas para ganar impulso antes de un tramo vertical.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:fancy-pants-2:is-there-a-story-84006961 -->
 - **P: ¿Tiene mucha historia?**  
   **R:** La narrativa es muy ligera; el foco está en el movimiento y los
   secretos de los niveles.
 
+<!-- i18n:faq:id=faq:fancy-pants-2:are-there-speed-runs-4229c7b8 -->
 - **P: ¿Hay modo contrarreloj?**  
   **R:** Muchas versiones incorporan desafíos de tiempo y salas especiales para
   speedruns (contrarreloj).
 
+<!-- i18n:faq:id=faq:fancy-pants-2:progress-saving-eb5d3f79 -->
 - **P: ¿Se guarda el progreso?**  
   **R:** Depende del portal; algunos guardan tu avance de forma local.
+

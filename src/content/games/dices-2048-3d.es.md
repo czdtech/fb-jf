@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Dices 2048 3D es una versión con físicas del clásico puzle de fusiones 2048.
@@ -24,6 +25,7 @@ choquen y se fusionen en el número siguiente (2→4→8, etc.). La gravedad, lo
 rebotes y la colocación en 3D añaden capas nuevas de estrategia: hay que pensar
 en cómo apilar, dejar espacios y evitar fusiones accidentales.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Mantén carriles limpios:** Reserva una columna para combinar y otra como
@@ -40,6 +42,7 @@ en cómo apilar, dejar espacios y evitar fusiones accidentales.
     seguras para abrir huecos, aunque no sean las cadenas perfectas que
     buscabas.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - **Apuntar/colocar:** Mueve el cursor o arrastra para elegir la posición de
@@ -48,16 +51,21 @@ en cómo apilar, dejar espacios y evitar fusiones accidentales.
 - **Deshacer/Reintentar (si existe):** Algunas versiones ofrecen deshacer
   limitado; guárdalo para corregir caídas que arruinan el tablero.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:dices-2048-3d:how-do-dice-merge-305e836e -->
 - **P: ¿Cómo se fusionan los dados?**  
   **R:** Cuando dos dados con el mismo valor entran en contacto, se combinan en
   un dado del valor siguiente (por ejemplo, dos 8 se convierten en un 16).
 
+<!-- i18n:faq:id=faq:dices-2048-3d:i-keep-causing-accidental-merg-71e8bba5 -->
 - **P: Provoco fusiones accidentales todo el rato, ¿cómo las evito?**  
   **R:** Lanza las piezas desde menor altura, espera a que todo se estabilice y
   evita ángulos de caída que provoquen rebotes diagonales.
 
+<!-- i18n:faq:id=faq:dices-2048-3d:is-there-an-end-0d3d5bd5 -->
 - **P: ¿Cuándo termina la partida?**  
   **R:** Cuando ya no quedan posiciones legales o el contenedor se desborda.
   Tu objetivo es alcanzar al menos 2048, y si puedes, seguir subiendo.
+
