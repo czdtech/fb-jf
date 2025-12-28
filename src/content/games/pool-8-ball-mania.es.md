@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Pool 8 Ball Mania simula partidas casuales de bola 8 con una puntería muy
@@ -24,6 +25,7 @@ sobre la bola blanca: colocarla en la zona ideal para el siguiente tiro, usar
 Efecto Arriba para que acompañe, Efecto Abajo para que retroceda y efecto
 lateral sobre las bandas para ajustar ángulos y líneas de tiro.
 
+<!-- i18n:section:tips -->
 ### Estrategias de juego y recorrido
 
 1.  **Planifica la posición antes de tirar:** Antes de embocar una bola, piensa
@@ -39,6 +41,7 @@ lateral sobre las bandas para ajustar ángulos y líneas de tiro.
     valora hacer un golpe de seguridad que deje a tu rival en una posición
     incómoda en lugar de regalarle la mesa.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - **Apuntar:** Arrastra para alinear el taco con la bola y el objetivo.
@@ -48,20 +51,25 @@ lateral sobre las bandas para ajustar ángulos y líneas de tiro.
 - **Cámara:** Si el juego lo permite, mueve y haz zoom en la cámara para ver
   mejor los ángulos.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:pool-8-ball-mania:pots-rattle-out-why-536afde4 -->
 - **P: Mis bolas botan en la tronera y no entran, ¿por qué?**
   
   **R:** Normalmente usas demasiada fuerza o no apuntas por el centro de la
   tronera. Baja la potencia y apunta a una línea limpia hacia el centro del
   bolsillo.
 
+<!-- i18n:faq:id=faq:pool-8-ball-mania:how-to-hold-position-c1f77f55 -->
 - **P: ¿Cómo mantengo buena posición para el siguiente tiro?**
   
   **R:** Usa pequeños efectos de seguir o retroceder (follow/draw) y apóyate en
   las bandas para ir frenando la blanca en la zona ideal.
 
+<!-- i18n:faq:id=faq:pool-8-ball-mania:break-tips-45524360 -->
 - **P: ¿Algún consejo para el saque inicial (break)?**
   
   **R:** Impacta lo más cuadrado posible en la bola de cabeza, usa una potencia
   moderada y céntrate en mantener la bola blanca cerca del centro de la mesa.
+

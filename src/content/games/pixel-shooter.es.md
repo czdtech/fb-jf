@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 «Pixel Shooter» es un shooter de estilo retro con gráficos pixel art en el que
@@ -40,6 +41,7 @@ ritmo de acción muy rápido.
 5.  **Dominar los patrones enemigos**: cada tipo de enemigo tiene sus propios
     patrones de ataque y velocidad; conocerlos te ayuda a reaccionar mejor.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 *   **Movimiento**: normalmente se usan las teclas WASD o las flechas para
@@ -50,6 +52,7 @@ ritmo de acción muy rápido.
 *   **Cambiar de arma**: algunas versiones permiten cambiar de arma mediante
     las teclas numéricas o la rueda del ratón.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
 1.  **P: ¿Cuál es el objetivo de Pixel Shooter?**  
@@ -65,4 +68,5 @@ ritmo de acción muy rápido.
 4.  **P: ¿Para qué sirven los botiquines?**  
     **R**: Los botiquines restauran la vida de tu personaje y te ayudan a
     aguantar más tiempo en las batallas más intensas.
+
 

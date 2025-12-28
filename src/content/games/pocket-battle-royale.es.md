@@ -16,6 +16,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Pocket Battle Royale es un shooter en 2D con vista cenital que concentra toda la
@@ -26,6 +27,7 @@ de salud mientras la zona segura se va reduciendo y obliga a todos a enfrentarse
 cada vez más de cerca. Es una prueba pura de supervivencia, reflejos y
 estrategia.
 
+<!-- i18n:section:tips -->
 ### Estrategias de juego y guía paso a paso
 
 1.  **Saquea rápido:** Tu prioridad al comenzar la partida es conseguir un arma.
@@ -42,6 +44,7 @@ estrategia.
     sí mientras tú sigues saqueando y buscas una mejor posición para el combate
     final.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 *   **Movimiento:** Usa las teclas **W, A, S, D** para mover a tu personaje hacia
@@ -51,17 +54,22 @@ estrategia.
 *   **Disparar:** Haz clic con el **botón izquierdo del ratón** para disparar tu
     arma.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:pocket-battle-royale:q-what-is-the-shrinking-1d59f948 -->
 *   **P: ¿Qué es el círculo que se encoge en el mapa?**
     *   **R:** Es la zona segura. Debes permanecer dentro de ese círculo. Si te
         quedas fuera, recibirás daño de forma continua hasta que vuelvas a
         entrar.
 
+<!-- i18n:faq:id=faq:pocket-battle-royale:q-how-do-i-get-1b802cf4 -->
 *   **P: ¿Cómo consigo mejores armas o más salud?**
     *   **R:** Todos los objetos se encuentran en el mapa. Explora bien la zona
         para encontrar armas, munición y botiquines repartidos por el suelo.
 
+<!-- i18n:faq:id=faq:pocket-battle-royale:q-what-is-the-objective-0d640e0d -->
 *   **P: ¿Cuál es el objetivo del juego?**
     *   **R:** Ser el último jugador con vida. Elimina a todos tus oponentes para
         ganar la partida.
+

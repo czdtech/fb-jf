@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Parking Jam es un puzle al estilo Rush Hour: debes deslizar los coches a lo
@@ -24,6 +25,7 @@ avanzados el aparcamiento se llena de coches de distintas longitudes, flechas de
 un solo sentido y bloqueadores que obligan a seguir un orden de movimientos muy
 concreto.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Trabajar desde la salida hacia atrás:** analiza primero el carril de
@@ -39,21 +41,27 @@ concreto.
     antes de encadenar demasiados movimientos inútiles y prueba una ruta
     distinta.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - Arrastra los coches a lo largo del eje permitido (solo en la dirección en la
   que están orientados); usa los botones de deshacer o reinicio de la interfaz
   para corregir o empezar de nuevo.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:parking-jam:i-spin-wheels-with-no-746ce5d3 -->
 - **P: ¿Muevo coches y coches pero no avanzo, algún consejo?**  
   **R:** Replantea qué vehículo está bloqueando de verdad la salida y busca un
   movimiento que libere a varios coches, no solo uno.
 
+<!-- i18n:faq:id=faq:parking-jam:are-diagonal-moves-allowed-b138326e -->
 - **P: ¿Se pueden mover los coches en diagonal?**  
   **R:** No, solo pueden deslizarse a lo largo de su propia longitud.
 
+<!-- i18n:faq:id=faq:parking-jam:any-hints-0ea898ea -->
 - **P: ¿Hay sistema de pistas?**  
   **R:** Muchas versiones incluyen pistas paso a paso; úsalas con moderación si
   quieres mantener el reto.
+

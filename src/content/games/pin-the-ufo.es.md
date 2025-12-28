@@ -18,6 +18,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 *Pin the UFO* es un simpático y estratégico puzle de "tirar del pin"
@@ -42,6 +43,7 @@ El reto está en encontrar la secuencia exacta de pines para que todos los alien
 sin color se tiñan, todos los peligros queden neutralizados y todos lleguen a la
 nave.
 
+<!-- i18n:section:tips -->
 ### Estrategia y consejos
 
 1.  **Planificar antes de tirar:** nunca extraigas pines al azar. Observa todo
@@ -61,6 +63,7 @@ nave.
     separados a bombas y aliens o a aliens grises y de color; entiende bien el
     papel de cada pin antes de quitarlo.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 Los controles son muy simples y pensados para pantallas táctiles.
@@ -68,23 +71,29 @@ Los controles son muy simples y pensados para pantallas táctiles.
 *   **Tirar de un pin:** haz clic y arrastra el pin que quieras extraer de su
     ranura, o simplemente tócala para retirarlo si la versión lo permite.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:pin-the-ufo:why-did-i-lose-the-16a3165c -->
 **1. ¿He perdido aunque todos los aliens han llegado a la nave, por qué?**  
 Es probable que algunos aliens llegaran sin haberse teñido de color; solo los
 que están coloreados cuentan como "salvados". Asegúrate de que todos se tiñen
 antes de entrar en la nave.
 
+<!-- i18n:faq:id=faq:pin-the-ufo:i-pulled-a-pin-and-3d8783b1 -->
 **2. ¿Tiro de un pin y todo explota. Qué hago mal?**  
 Has permitido que los aliens entren en contacto con una bomba. Busca una forma
 alternativa de soltar primero los explosivos en una zona segura o de trazar un
 camino que los evite.
 
+<!-- i18n:faq:id=faq:pin-the-ufo:the-level-seems-impossible-wha-2caf72de -->
 **3. ¿El nivel parece imposible. Algún consejo?**  
 Cada nivel tiene una solución concreta. Si te bloqueas, replantea el orden de
 los pines. Muchas veces la respuesta pasa por tirar primero de un pin que no
 parece acercarte a la salida, pero que prepara mejor el flujo posterior.
 
+<!-- i18n:faq:id=faq:pin-the-ufo:what-is-the-goal-of-c816fee5 -->
 **4. ¿Cuál es el objetivo final del juego?**  
 Superar cada puzle llevando a todos los aliens coloreados hasta el UFO y avanzar
 por el mayor número de niveles posible.
+

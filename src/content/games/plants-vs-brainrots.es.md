@@ -18,6 +18,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### **Introducción a Plants vs Brainrots**
 
 *Plants vs Brainrots* es un juego de defensa de torres viral desarrollado en la
@@ -39,6 +40,7 @@ cultura viral puede convertirse en un nuevo enemigo o planta, lo que mantiene
 la experiencia fresca, divertida y muy reconocible para la nueva generación de
 jugadores.
 
+<!-- i18n:section:tips -->
 ### **Estrategias de juego y consejos**
 
 1.  **Construye tu economía de «Focus»**:  
@@ -71,7 +73,10 @@ jugadores.
     supera todas tus defensas, la podadora limpiará la calle una vez… pero no
     conviene depender de ella.
 
+<!-- i18n:section:controls -->
 ### **Guía de controles**
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `W, A, S, D`
 
 Al ser un juego de Roblox, los controles son sencillos y centrados en el ratón.
 
@@ -81,33 +86,40 @@ Al ser un juego de Roblox, los controles son sencillos y centrados en el ratón.
     césped para colocar la planta.
 *   **Recoger Focus**: haz clic sobre los iconos de Focus que generan tus Focus
     Flowers.
-*   **Mover la cámara**: usa las teclas `W, A, S, D` o el ratón para ajustar la
+*   **Mover la cámara**: usa las teclas W, A, S, D o el ratón para ajustar la
     vista del jardín.
 
+<!-- i18n:section:faq -->
 ### **Preguntas frecuentes (FAQ)**
 
+<!-- i18n:faq:id=faq:plants-vs-brainrots:where-can-i-play-plants-78142c08 -->
 **1. ¿Dónde puedo jugar a *Plants vs Brainrots*?**  
 El juego está disponible exclusivamente en la plataforma **Roblox**. Puedes
 disfrutarlo gratis buscando «Plants vs Brainrots» en la web de Roblox o en la
 app oficial.
 
+<!-- i18n:faq:id=faq:plants-vs-brainrots:is-this-an-official-plants-dfe9ebe6 -->
 **2. ¿Es un juego oficial de *Plants vs. Zombies*?**  
 No. Tanto la web como el propio juego dejan claro que se trata de una **parodia
 fan‑made** y que no está afiliado a PopCap ni a Electronic Arts (EA), los
 creadores del *PvZ* original.
 
+<!-- i18n:faq:id=faq:plants-vs-brainrots:is-the-game-free-9403c1eb -->
 **3. ¿Es un juego gratuito?**  
 Sí, el juego es free‑to‑play. Como muchos juegos de Roblox, puede incluir
 compras opcionales con Robux para aspectos cosméticos, plantas especiales u
 otras ventajas.
 
+<!-- i18n:faq:id=faq:plants-vs-brainrots:what-is-brain-rot-5af00241 -->
 **4. ¿Qué significa exactamente «Brain Rot»?**  
 «Brain Rot» es jerga de internet para referirse a esa sensación de que el
 cerebro se derrite después de consumir demasiado contenido viral de baja
 calidad. El juego convierte a los personajes de ese contenido en tus enemigos.
 
+<!-- i18n:faq:id=faq:plants-vs-brainrots:how-do-i-stay-updated-eae93b2e -->
 **5. ¿Cómo me entero de las nuevas plantas y memes que se añaden?**  
 Lo más recomendable es unirte al **servidor oficial de Discord** del juego. Ahí
 los desarrolladores anuncian actualizaciones, comparten códigos para objetos
 gratuitos e interactúan con la comunidad.
+
 

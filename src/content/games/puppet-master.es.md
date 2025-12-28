@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 "Puppet Master" es un peculiar juego de puzles con físicas en el que controlas
@@ -44,6 +45,7 @@ momentos muy torpes con retos realmente desafiantes.
     más eficaces. Prueba rutas alternativas o movimientos poco convencionales si
     el camino directo no funciona.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 *   **Control del cuerpo:** Normalmente usarás ratón o teclado para manejar las
@@ -55,6 +57,7 @@ momentos muy torpes con retos realmente desafiantes.
 *   **Saltos e impulsos:** Usa la combinación de piernas y brazos para saltar o
     impulsarte desde plataformas y salientes.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes
 
 1.  **P: Controlar al muñeco es muy difícil, ¿algún consejo?**
@@ -72,3 +75,4 @@ momentos muy torpes con retos realmente desafiantes.
     **R:** El juego suele empezar con niveles tipo tutorial y va aumentando la
     dificultad poco a poco, para que te acostumbres progresivamente al sistema
     de control.
+

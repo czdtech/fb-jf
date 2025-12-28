@@ -11,11 +11,12 @@ thumbnail: /new-images/thumbnails/pikmin-no-sprunki.png
 tags:
   - pikmin no sprunki
 score: 4.0/5  (89 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+releaseDate: 2025-12-04
 ---
 
 
 
+<!-- i18n:section:introduction -->
 ¿Alguna vez te has preguntado qué pasaría si el mundo extraño de Pikmin chocara
 con la magia musical de Sprunki? Pikmin No Sprunki convierte esa idea en
 realidad. Este cautivador juego creado en Scratch mezcla la mecánica creativa de

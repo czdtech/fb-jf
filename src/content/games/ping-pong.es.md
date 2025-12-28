@@ -18,6 +18,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 "Ping Pong" es un clásico juego deportivo de arcade. Dos jugadores (o un jugador
@@ -37,11 +38,13 @@ opción tanto para partidas casuales como para duelos competitivos.
 4.  **Equilibrar ataque y defensa:** mientras te proteges, busca ocasiones para
     devolver la pelota con ángulos difíciles que el oponente no pueda alcanzar.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 *   **Mover la pala:** normalmente se usan las flechas arriba/abajo o el ratón
     para mover la pala en vertical.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes
 
 1.  **P: Cuál es el objetivo del juego?**  
@@ -60,3 +63,4 @@ opción tanto para partidas casuales como para duelos competitivos.
 4.  **P: Se puede jugar a dos jugadores?**  
     **R:** Sí, la mayoría de versiones clásicas incluyen modo local para dos
     jugadores en el mismo dispositivo.
+

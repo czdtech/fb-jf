@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Quiz x te lanza preguntas rápidas sobre cultura general, imágenes y lógica
@@ -25,6 +26,7 @@ aciertos; las rachas de respuestas correctas activan bonificaciones. Pensar de
 forma amplia y descartar opciones imposibles suele ser más efectivo que saber
 mucho de un solo tema.
 
+<!-- i18n:section:tips -->
 ### Estrategias de juego y recorrido
 
 1.  **Eliminación primero:** Antes de responder, descarta las opciones que
@@ -40,6 +42,7 @@ mucho de un solo tema.
 5.  **Preguntas con imágenes:** Fíjate en los rasgos distintivos: colores de una
     bandera, silueta de un monumento, forma de un animal, etc.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - **Elegir respuesta:** Haz clic en la opción que quieras seleccionar. Algunas
@@ -47,20 +50,25 @@ mucho de un solo tema.
 - **Pausa:** Si el juego ofrece pausa entre rondas, utilízala para respirar y
   prepararte para la siguiente tanda.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:quiz-x:i-freeze-on-tough-questions-28c454ad -->
 - **P: Me bloqueo con las preguntas difíciles.**
   
   **R:** Usa la eliminación de opciones y quédate con la que parezca más
   razonable. Si el modo lo permite, saltar una pregunta también puede ayudar a
   conservar tus rachas.
 
+<!-- i18n:faq:id=faq:quiz-x:picture-questions-stump-me-a21adfaf -->
 - **P: Se me dan mal las preguntas con imágenes.**
   
   **R:** Aprende algunos elementos clave como banderas habituales, monumentos
   famosos y colores característicos. Céntrate en formas y detalles únicos.
 
+<!-- i18n:faq:id=faq:quiz-x:multiplayer-fc9199ff -->
 - **P: ¿Hay modo multijugador?**
   
   **R:** Algunas versiones incluyen duelos contra otros jugadores. Revisa las
   reglas de la sala o lobby antes de entrar.
+

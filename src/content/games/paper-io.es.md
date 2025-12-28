@@ -18,6 +18,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 "Paper.io" es un juego multijugador en línea centrado en la conquista de
@@ -41,12 +42,14 @@ roza, pierdes. Es un juego rápido, estratégico y muy competitivo.
     límite natural para cerrar áreas, lo que puede ahorrarte tiempo y reducir
     el riesgo.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 *   **Movimiento:** usa las flechas del teclado o las teclas WASD para mover tu
     bloque de color. La estela se dibuja automáticamente mientras te alejas de
     tu territorio.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes
 
 1.  **P: Cuál es el objetivo en Paper.io?**  
@@ -62,3 +65,4 @@ roza, pierdes. Es un juego rápido, estratégico y muy competitivo.
     **R:** No permanezcas demasiado tiempo fuera de tu territorio mientras
     dibujas líneas y vigila siempre el minimapa y los rivales cercanos; si
     alguien se acerca, vuelve rápido a tu zona segura.
+

@@ -17,12 +17,14 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Pics Word Game es un juego de puzles de palabras en el que se te muestran varias
 imágenes y debes deducir una sola palabra que las conecte. Es una forma divertida
 de poner a prueba tu vocabulario y tu capacidad de asociación.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Revisar las imágenes:** observa con atención todas las fotos del puzle;
@@ -35,18 +37,23 @@ de poner a prueba tu vocabulario y tu capacidad de asociación.
 4.  **Usar pistas:** si te bloqueas, la mayoría de versiones permiten gastar
     monedas para revelar letras correctas o eliminar letras sobrantes.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 *   **Ratón/táctil:** utiliza el ratón o la pantalla táctil para pulsar letras y
     navegar por los menús del juego.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:pics-word-game:q-what-if-i-cant-ab9afc13 -->
 *   **P: ¿Qué pasa si no consigo adivinar la palabra?**
     *   **R:** Usa las pistas del juego para revelar alguna letra o eliminar
         letras sobrantes. También ayuda descansar un rato y volver al puzle con
         la mente fresca.
 
+<!-- i18n:faq:id=faq:pics-word-game:q-how-can-i-get-b6dd4933 -->
 *   **P: ¿Cómo consigo más monedas para pistas?**
     *   **R:** Normalmente, completando niveles con éxito. Algunas versiones
         también ofrecen monedas por ver anuncios opcionales.
+

@@ -18,6 +18,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 "Pokémon Rojo Fuego" es un remake fiel del juego original "Pokémon Rojo". Te
@@ -44,6 +45,7 @@ mejoras visuales y de calidad de vida propias de la era de Game Boy Advance.
     otra vez con el Team Rocket. Derrota a sus miembros y detén sus planes
     criminales.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 *   **Movimiento:** Usa las teclas de **dirección** para mover al personaje.
@@ -56,6 +58,7 @@ mejoras visuales y de calidad de vida propias de la era de Game Boy Advance.
 *   **Botón Select (objeto registrado):** Registra un objeto del bolso para
     acceder a él rápidamente sin tener que navegar por todos los menús.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes
 
 1.  **P: ¿Cuáles son los Pokémon iniciales en "Pokémon Rojo Fuego"?**
@@ -71,3 +74,4 @@ mejoras visuales y de calidad de vida propias de la era de Game Boy Advance.
     **R:** Son dos versiones de la misma generación. Las diferencias principales
     están en qué Pokémon salvajes aparecen y con qué frecuencia, además de
     algunos cambios menores en diálogos y eventos.
+

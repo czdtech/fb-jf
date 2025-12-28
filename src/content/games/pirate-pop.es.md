@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Pirate Pop es un divertido y adictivo bubble shooter con temática pirata. Tu
@@ -25,6 +26,7 @@ formando grupos de tres o más burbujas del mismo color. Apunta con cuidado, usa
 las paredes para hacer tiros con rebote y crea grandes reacciones en cadena
 para soltar enormes racimos de burbujas y hacerte con el tesoro.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Apunta alto para grandes caídas:** La forma más eficaz de conseguir
@@ -40,6 +42,7 @@ para soltar enormes racimos de burbujas y hacerte con el tesoro.
 4.  **No dejes que te alcancen:** Las filas de burbujas descienden poco a poco.
     Si alguna cruza la línea inferior de la pantalla, tu viaje se hunde.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 *   **Apuntar:** Mueve el ratón para orientar el cañón; una guía te muestra la
@@ -47,18 +50,23 @@ para soltar enormes racimos de burbujas y hacerte con el tesoro.
 *   **Disparar:** Haz clic con el botón izquierdo del ratón para lanzar la
     burbuja.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:pirate-pop:q-what-is-the-goal-ab58581b -->
 *   **P: ¿Cuál es el objetivo del juego?**
     *   **R:** Limpiar todas las burbujas del tablero y conseguir la mayor
         puntuación posible.
 
+<!-- i18n:faq:id=faq:pirate-pop:q-how-do-i-get-da481c1b -->
 *   **P: ¿Cómo obtengo la máxima puntuación?**
     *   **R:** Haciendo que caigan grandes racimos de burbujas de una sola vez.
         Cuantas más burbujas derribes con un disparo, mayor será el bonus de
         combo.
 
+<!-- i18n:faq:id=faq:pirate-pop:q-what-if-i-cant-c345ad93 -->
 *   **P: ¿Qué pasa si no puedo hacer una combinación?**
     *   **R:** Te tocará hacer un disparo táctico. Intenta colocar la burbuja en
         un sitio donde no estorbe o donde puedas eliminarla fácilmente más tarde
         con otra combinación.
+

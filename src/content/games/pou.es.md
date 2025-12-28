@@ -18,6 +18,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 "Pou Game" es un juego de mascota virtual en el que adoptas y cuidas a un
@@ -45,6 +46,7 @@ monedas para comprar comida, medicinas y decoración.
     tareas diarias; son clave para comprar objetos y mantener a Pou siempre bien
     atendido.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 *   **Tocar iconos:** Los iconos de la parte inferior de la pantalla representan
@@ -57,6 +59,7 @@ monedas para comprar comida, medicinas y decoración.
 *   **Personalizar:** Toca el icono del armario o de la habitación para abrir el
     menú de personalización y aplicar nuevos looks o decoraciones.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes
 
 1.  **P: ¿Qué hago si Pou se pone enfermo?**
@@ -74,3 +77,4 @@ monedas para comprar comida, medicinas y decoración.
     **R:** La mayoría de las funciones básicas se pueden jugar sin conexión, pero
     comprar ciertos objetos, participar en rankings online o actualizar el juego
     puede requerir conexión.
+

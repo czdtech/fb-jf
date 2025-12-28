@@ -18,6 +18,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Pick a Lock es un juego minimalista de ritmo y sincronización. Una aguja gira
@@ -26,6 +27,7 @@ marcadores iluminados. Las cerraduras avanzadas añaden varios marcadores,
 ventanas de tiempo más ajustadas e incluso giros en sentido inverso, por lo que
 la calma y el enfoque son fundamentales.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  Contar el ritmo: sincronízate con el compás de la aguja y pulsa siguiendo el
@@ -39,21 +41,27 @@ la calma y el enfoque son fundamentales.
 5.  Mejor tarde que pronto: en muchas versiones es más seguro errar ligeramente
     tarde que demasiado pronto.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - Toca o haz clic cuando la aguja se superponga al marcador; algunas variantes
   permiten usar teclas en lugar del ratón.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:pick-a-lock:im-always-early-fix-fb245eab -->
 - **P: ¿Siempre pulso demasiado pronto, cómo lo corrijo?**  
   **R:** Añade una micro pausa a tu conteo interno; piensa "uno‑y‑pulso" en vez
   de "uno‑pulso".
 
+<!-- i18n:faq:id=faq:pick-a-lock:markers-stack-fast-7f2aa7b7 -->
 - **P: Los marcadores aparecen muy seguidos, me agobio.**  
   **R:** Concéntrate solo en el siguiente marcador; no intentes memorizar varios
   por adelantado.
 
+<!-- i18n:faq:id=faq:pick-a-lock:does-fps-matter-c4d00307 -->
 - **P: ¿Importa la tasa de FPS?**  
   **R:** Un framerate estable ayuda; cierra otras aplicaciones si notas que el
   ritmo se vuelve irregular.
+

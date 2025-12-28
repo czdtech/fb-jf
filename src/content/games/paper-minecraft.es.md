@@ -18,6 +18,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 "Paper Minecraft" es una versión 2D del popular sandbox "Minecraft" que te
@@ -41,6 +42,7 @@ sensación distinta.
 5.  **Agricultura y ganadería:** cultiva alimentos y cría animales para
     garantizar una fuente estable de comida y materiales como cuero o lana.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 *   **Movimiento:** teclas A/D o flechas izquierda/derecha para desplazarte.  
@@ -52,6 +54,7 @@ sensación distinta.
 *   **Inventario/crafteo:** tecla E para abrir el inventario, gestionar objetos
     y fabricar.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes
 
 1.  **P: En qué se diferencia Paper Minecraft del Minecraft original?**  
@@ -70,3 +73,4 @@ sensación distinta.
     **R:** Al ser una reinterpretación 2D, normalmente no incluye todas las
     dimensiones del juego original, aunque algunas versiones pueden ofrecer
     variantes simplificadas.
+

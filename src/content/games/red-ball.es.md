@@ -18,6 +18,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 "Red Ball" es el juego de plataformas con físicas que dio origen a la saga. El
@@ -39,6 +40,7 @@ de entender pero sorprendentemente desafiante.
 5.  **Explora y recoge:** Busca objetos ocultos y estrellas para conseguir
     puntuaciones más altas y completar el juego al 100 %.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 *   **Moverse:** Usa las flechas izquierda y derecha para desplazar la bola en
@@ -47,6 +49,7 @@ de entender pero sorprendentemente desafiante.
 *   **Aprovechar la física:** Usa las pendientes y la gravedad para ganar
     velocidad extra o alcanzar plataformas más altas.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes
 
 1.  **P: ¿En qué se diferencia el primer Red Ball de las entregas posteriores?**
@@ -63,3 +66,4 @@ de entender pero sorprendentemente desafiante.
 4.  **P: ¿Hay límite de tiempo?**
     **R:** La mayoría de niveles no tiene un límite de tiempo estricto, pero
     terminarlos rápido puede darte mejores valoraciones.
+

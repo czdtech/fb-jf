@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Quest Bingo toma la diversión atemporal del Bingo clásico y la convierte en una
@@ -26,6 +27,7 @@ completar los patrones ganadores. Al mismo tiempo irás cumpliendo misiones,
 activando poderosos boosters y reuniendo piezas de puzle ocultas para desbloquear
 ilustraciones, añadiendo una capa extra de coleccionismo al juego de siempre.
 
+<!-- i18n:section:tips -->
 ### Estrategias de juego y recorrido
 
 1.  **Fundamentos del Bingo:** La base es el Bingo tradicional. Se canta un
@@ -43,6 +45,7 @@ ilustraciones, añadiendo una capa extra de coleccionismo al juego de siempre.
     de puzle u otros coleccionables asociados. Marcarlos es la clave para
     completar colecciones y obtener recompensas adicionales.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 El manejo es muy sencillo, a base de clics o toques.
@@ -54,16 +57,21 @@ El manejo es muy sencillo, a base de clics o toques.
 *   **Activar boosters:** Haz clic en los iconos de potenciadores cargados (suelen
     estar en la parte inferior de la pantalla) para usarlos.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:quest-bingo:q-what-does-it-mean-664542c2 -->
 *   **P: ¿Qué significa "marcar" o "daubear" un número?**
     *   **R:** Es el término clásico del Bingo para señalar un número en el
         cartón después de que ha sido cantado.
 
+<!-- i18n:faq:id=faq:quest-bingo:q-what-are-the-puzzle-4c9acfcf -->
 *   **P: ¿Para qué sirven las piezas de puzle?**
     *   **R:** Son coleccionables. Cuando completas todas las piezas de un puzle,
         sueles desbloquear una ilustración y recibir una recompensa extra.
 
+<!-- i18n:faq:id=faq:quest-bingo:q-how-do-i-get-05e56569 -->
 *   **P: ¿Cómo consigo más boosters?**
     *   **R:** Normalmente se obtienen marcando números especiales, superando
         niveles o a través de recompensas diarias y ruletas de bonus.
+

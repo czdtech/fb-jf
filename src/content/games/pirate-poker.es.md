@@ -18,6 +18,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Pirate Poker es un póker clásico de cinco cartas (five‑card draw) con temática
@@ -27,6 +28,7 @@ incluye apuestas, una fase de descarte y robo para mejorar la mano y un showdown
 final para ver quién se lleva el bote. Es un juego de estrategia, psicología y
 un toque de suerte.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Conocer la jerarquía de manos:** el objetivo es formar la mejor mano de
@@ -42,6 +44,7 @@ un toque de suerte.
     indicar una mano fuerte (o un farol), mientras que limitarse a pasar (Check)
     puede delatar debilidad.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 El juego se maneja con botones en pantalla.
@@ -53,19 +56,24 @@ El juego se maneja con botones en pantalla.
 *   **Discard:** en la fase de descarte, haz clic en las cartas que quieras
     tirar y luego en "Draw" para robar nuevas.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:pirate-poker:q-what-is-the-best-edb64428 -->
 *   **P: ¿Cuál es la mejor mano en póker?**
     *   **R:** La Escalera real (A, K, Q, J y 10 del mismo palo) es la mejor mano
         posible.
 
+<!-- i18n:faq:id=faq:pirate-poker:q-what-does-it-mean-6ead8536 -->
 *   **P: ¿Qué significa farolear?**
     *   **R:** Farolear es apostar con agresividad como si tuvieras una mano
         fuerte cuando en realidad no lo es, con la esperanza de que los rivales
         te crean y se retiren (aunque puedan tener mejores cartas).
 
+<!-- i18n:faq:id=faq:pirate-poker:q-when-should-i-fold-d4d47b5c -->
 *   **P: ¿Cuándo debería retirarme (Fold)?**
     *   **R:** Cuando llevas una mano muy débil (por ejemplo, sin parejas y sin
         opciones claras de Escalera o Color) y otro jugador hace una apuesta
         grande. Suele ser mejor perder lo ya apostado que arriesgar mucho más en
         una mano mala.
+

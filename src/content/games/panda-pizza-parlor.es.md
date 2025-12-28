@@ -18,6 +18,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Bienvenido a Panda Pizza Parlor, un encantador y dinámico juego de cocina en el
@@ -27,6 +28,7 @@ justo y servirlas a una clientela de animales hambrientos. Administra bien tu
  tiempo para que los clientes estén contentos, gana dinero y haz crecer tu
 negocio desde un pequeño local de barrio hasta una pizzería de fama mundial.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Revisar el pedido:** en cuanto llegue un cliente, fíjate en el bocadillo
@@ -42,6 +44,7 @@ negocio desde un pequeño local de barrio hasta una pizzería de fama mundial.
     varios pedidos a la vez. Diseña una rutina que te permita preparar varias
     pizzas en paralelo para no quedarte atrás.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 *   **Apuntar y hacer clic:** el juego se controla íntegramente con el ratón.  
@@ -52,17 +55,22 @@ negocio desde un pequeño local de barrio hasta una pizzería de fama mundial.
 *   **Servir al cliente:** haz clic en la pizza terminada y luego en el cliente
     correspondiente.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:panda-pizza-parlor:q-what-happens-if-i-6fc3c2cb -->
 *   **P: ¿Qué pasa si preparo mal un pedido o quemo la pizza?**
     *   **R:** Si usas ingredientes incorrectos o la pizza sale quemada, el
         cliente se enfadará y se irá. No cobrarás ese pedido.
 
+<!-- i18n:faq:id=faq:panda-pizza-parlor:q-how-can-i-serve-678be2c0 -->
 *   **P: ¿Cómo puedo atender más rápido?**
     *   **R:** Anticipa pedidos y prepara bases comunes durante los momentos más
         tranquilos. Con práctica, podrás llevar varias pizzas a la vez sin
         cometer errores.
 
+<!-- i18n:faq:id=faq:panda-pizza-parlor:q-are-there-upgrades-in-cdf9735d -->
 *   **P: ¿Hay mejoras o desbloqueos en el juego?**
     *   **R:** Sí. A medida que avanzas irás desbloqueando nuevos ingredientes y
         elementos del menú, lo que añade variedad y aumenta el desafío.
+

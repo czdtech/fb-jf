@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 PolyMatch es un adictivo juego de combinar fichas que pone a prueba tu
@@ -28,6 +29,7 @@ contener unas pocas fichas. Tendrás que elegir muy bien qué fichas envías all
 para asegurarte de poder hacer parejas antes de que se llene; si la reserva se
 satura, la partida termina.
 
+<!-- i18n:section:tips -->
 ### Estrategias de juego y recorrido
 
 1.  **Prioriza las parejas visibles:** Empieza siempre por las coincidencias que
@@ -46,22 +48,28 @@ satura, la partida termina.
     tiempo, así que tómate el tuyo para analizar el tablero y planear cada
     movimiento. Un solo toque mal pensado puede llevarte al game over.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 *   **Seleccionar ficha:** Haz clic o toca una ficha del tablero principal para
     enviarla a la zona de reserva de la parte inferior.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:polymatch:q-how-do-i-win-c06399aa -->
 *   **P: ¿Cómo gano un nivel?**
     *   **R:** Superas el nivel cuando consigues despejar todas las fichas del
         tablero principal.
 
+<!-- i18n:faq:id=faq:polymatch:q-what-happens-if-the-4bf40a80 -->
 *   **P: ¿Qué pasa si se llena la zona de reserva?**
     *   **R:** Si la zona de reserva (normalmente hasta 6 fichas) se llena y no
         puedes hacer más parejas, la partida termina.
 
+<!-- i18n:faq:id=faq:polymatch:q-are-there-powerups-or-2f471e8f -->
 *   **P: ¿Hay potenciadores o pistas?**
     *   **R:** Algunas versiones de PolyMatch incluyen ayudas como un botón de
         barajar o una pista que resalta una posible combinación cuando te
         quedas atascado.
+

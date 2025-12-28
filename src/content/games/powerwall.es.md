@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Powerwall es un juego arcade minimalista y cargado de energía que pone a prueba
@@ -26,6 +27,7 @@ que se mueve cada vez más rápido. A medida que la bola rebota por la arena, su
 velocidad aumenta y te exige reaccionar con más precisión. Cuanto más tiempo
 consigas aguantar sin que la pelota cruce tu portería, mayor será tu puntuación.
 
+<!-- i18n:section:tips -->
 ### Estrategias de juego y recorrido
 
 1.  **El tiempo lo es todo:** La mecánica central consiste en activar el
@@ -42,23 +44,29 @@ consigas aguantar sin que la pelota cruce tu portería, mayor será tu puntuaci�
     en las paredes. Entender esas líneas te ayudará a predecir a dónde irá
     después y a preparar el siguiente bloqueo.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 *   **Activar Powerwall:** Haz clic con el **botón izquierdo del ratón** o toca
     la pantalla para activar tu muro de energía. La barrera solo permanece
     activa durante un instante, así que la precisión en el tiempo es crucial.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:powerwall:q-how-do-i-score-174052a6 -->
 *   **P: ¿Cómo consigo puntos?**
     *   **R:** Ganas puntos por cada bloqueo exitoso con tu Powerwall. Cada
         defensa consecutiva aumenta tu marcador.
 
+<!-- i18n:faq:id=faq:powerwall:q-is-there-any-way-55f7dab3 -->
 *   **P: ¿Hay alguna forma de ralentizar la pelota?**
     *   **R:** En el modo estándar, la bola solo puede ir más rápido. No hay
         potenciadores para frenarla; el reto está en adaptarte a su velocidad
         creciente.
 
+<!-- i18n:faq:id=faq:powerwall:q-what-is-the-goal-ab58581b -->
 *   **P: ¿Cuál es el objetivo del juego?**
     *   **R:** Sobrevivir el mayor tiempo posible y conseguir la máxima
         puntuación bloqueando la pelota una y otra vez.
+

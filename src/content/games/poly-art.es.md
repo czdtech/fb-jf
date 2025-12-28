@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Poly Art (también conocido como Poly Puzzle) es un juego de puzles en 3D
@@ -27,6 +28,7 @@ exacto en el que todos los fragmentos se alinean y revelan una obra de arte
 clara y reconocible: un animal, un objeto, un personaje… Es un juego de
 percepción, paciencia y descubrimiento.
 
+<!-- i18n:section:tips -->
 ### Estrategias de juego y guía
 
 1.  **Gira despacio y con calma:** No des golpes de ratón al azar. Gira el
@@ -45,6 +47,7 @@ percepción, paciencia y descubrimiento.
     colores y las formas, y saborea el momento en que la imagen encaja por
     completo.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 Los controles son mínimos e intuitivos.
@@ -55,18 +58,23 @@ Los controles son mínimos e intuitivos.
 *   **Girar el puzle (móvil):** Desliza el dedo por la pantalla en cualquier
     dirección para rotar la figura.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:poly-art:q-what-is-the-objective-0d640e0d -->
 *   **P: ¿Cuál es el objetivo del juego?**
     *   **R:** Girar la colección de fragmentos 3D hasta que se alineen y formen
         una imagen completa y reconocible.
 
+<!-- i18n:faq:id=faq:poly-art:q-im-stuck-and-cant-a8146d41 -->
 *   **P: Me he atascado y no veo la imagen. ¿Hay pistas?**
     *   **R:** Muchas versiones de Poly Art incluyen un sistema de pistas. Si
         está disponible, la pista puede girar poco a poco el puzle hacia la
         orientación correcta o mostrar brevemente la imagen final.
 
+<!-- i18n:faq:id=faq:poly-art:q-is-there-a-time-6feb9409 -->
 *   **P: ¿Hay límite de tiempo o castigo por equivocarse?**
     *   **R:** No. Poly Art está diseñado para ser libre de estrés. No hay
         límite de tiempo, ni puntuaciones, ni penalizaciones; puedes resolver
         cada puzle a tu propio ritmo.
+

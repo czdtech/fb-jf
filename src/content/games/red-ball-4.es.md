@@ -18,6 +18,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 "Red Ball 4" es un juego de plataformas basado en físicas en el que controlas a
@@ -42,6 +43,7 @@ en tu camino.
 5.  **Usa mecanismos:** Aprende a activar botones, palancas y otros mecanismos
     para abrir caminos, mover plataformas o desactivar trampas.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 *   **Moverse:** Usa las teclas de flecha izquierda y derecha para rodar la bola
@@ -50,6 +52,7 @@ en tu camino.
 *   **Rodar por pendientes:** Deja que la gravedad haga su trabajo en las
     cuestas o acelera pulsando las flechas para ganar impulso.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes
 
 1.  **P: ¿Cómo derroto a los enemigos cuadrados?**
@@ -65,3 +68,4 @@ en tu camino.
 4.  **P: ¿Cuántos niveles tiene el juego?**
     **R:** Red Ball 4 suele estar dividido en varios capítulos, cada uno con
     varios niveles, sumando varias decenas de fases desafiantes en total.
+

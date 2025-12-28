@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 "Raft Wars" es un juego de estrategia y disparos por turnos en el que dos
@@ -43,6 +44,7 @@ enemigos al agua.
     potentes y objetos especiales. Invertir bien en mejoras facilita los niveles
     posteriores.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 *   **Apuntar:** Usa el ratón para ajustar el ángulo del disparo. Normalmente se
@@ -54,6 +56,7 @@ enemigos al agua.
 *   **Mover la balsa:** En ciertas fases es posible recolocar la balsa para
     conseguir mejores ángulos de disparo y cobertura.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes
 
 1.  **P: ¿Cómo puedo mejorar mi precisión?**
@@ -69,3 +72,4 @@ enemigos al agua.
 4.  **P: ¿Qué pasa si me tiran al agua?**
     **R:** Si uno de tus personajes cae al agua perderá salud o incluso tendrás
     que reiniciar el nivel, según la versión del juego.
+

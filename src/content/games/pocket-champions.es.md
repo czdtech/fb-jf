@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Pocket Champs es un juego multijugador de carreras idle en el que no controlas
@@ -27,6 +28,7 @@ con los gadgets adecuados para el recorrido. Cuando la carrera comienza, solo te
 queda ver cómo tu preparación da sus frutos mientras tu Campeón compite de
 forma automática para cruzar la meta en primer lugar.
 
+<!-- i18n:section:tips -->
 ### Estrategias de juego y guía paso a paso
 
 1.  **Entrena sin parar:** La base de tu éxito es el entrenamiento. Mantén a tu
@@ -46,6 +48,7 @@ forma automática para cruzar la meta en primer lugar.
     No olvides abrirlos para conseguir nuevos gadgets y recursos con los que
     mejorar a tu Champ y su equipo actual.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 El juego se maneja mediante menús e iconos.
@@ -57,21 +60,26 @@ El juego se maneja mediante menús e iconos.
 *   **Empezar carrera:** Pulsa el botón **"Race"** para entrar en una
     competición.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:pocket-champions:q-how-do-i-control-84ef48a4 -->
 *   **P: ¿Cómo controlo a mi personaje durante la carrera?**
     *   **R:** ¡No lo controlas! La carrera es totalmente automática. Tu trabajo
         es preparar a tu Champ *antes* de la carrera mediante el entrenamiento y
         la elección de gadgets.
 
+<!-- i18n:faq:id=faq:pocket-champions:q-how-do-i-win-16b4fad9 -->
 *   **P: ¿Cómo gano más carreras?**
     *   **R:** Teniendo mejores estadísticas y una mejor estrategia que tus
         rivales. Asegúrate de que el nivel de entrenamiento de tu Champ sea alto
         y de que eliges los gadgets que mejor contrarrestan los obstáculos del
         próximo circuito.
 
+<!-- i18n:faq:id=faq:pocket-champions:q-what-is-the-best-a00d8be9 -->
 *   **P: ¿Cuál es el mejor gadget?**
     *   **R:** No existe un único "mejor" gadget. El mejor siempre será el que
         se adapte al próximo gran obstáculo del circuito. Una lancha rápida no
         sirve de nada en una pista de carrera seca, pero es esencial en un
         tramo lleno de agua.
+

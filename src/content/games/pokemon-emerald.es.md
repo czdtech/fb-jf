@@ -18,6 +18,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 "Pokémon Esmeralda" es un videojuego de rol de la serie Pokémon en el que te
@@ -46,6 +47,7 @@ sus planes para alterar el equilibrio del mundo.
     cuenta los tipos, habilidades y movimientos de tus Pokémon para cubrir tus
     debilidades y aprovechar las resistencias.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 *   **Movimiento:** Usa las teclas de **dirección** para mover al personaje por
@@ -59,6 +61,7 @@ sus planes para alterar el equilibrio del mundo.
 *   **Botón Select (objeto rápido):** Registra un objeto del bolso para usarlo
     rápidamente sin entrar en todos los menús.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes
 
 1.  **P: ¿Qué Pokémon legendarios se pueden capturar en "Pokémon Esmeralda"?**
@@ -75,3 +78,4 @@ sus planes para alterar el equilibrio del mundo.
     **R:** "Esmeralda" introduce la **Zona Batalla (Battle Frontier)**, una gran
     área de desafío final con múltiples instalaciones que ofrecen distintos
     formatos de combate avanzados.
+

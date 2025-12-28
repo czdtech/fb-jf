@@ -16,6 +16,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Quest 21 es una divertida y estratégica aventura de cartas basada en las reglas
@@ -25,6 +26,7 @@ en una misión en la que te enfrentas a una serie de oponentes. Para derrotarlos
 mano se acerque más a 21 que la de tu rival sin superarlo. El juego combina la
 suerte del reparto con decisiones tácticas muy sencillas de entender.
 
+<!-- i18n:section:tips -->
 ### Estrategias de juego y recorrido
 
 1.  **El objetivo:** Acercar la suma de tu mano a 21 sin pasarte. Si superas 21,
@@ -42,6 +44,7 @@ suerte del reparto con decisiones tácticas muy sencillas de entender.
 5.  **Blackjack:** Si tus dos primeras cartas son un As y una carta de valor 10,
     tienes un **Blackjack** y normalmente ganas la mano al instante.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 El juego se maneja mediante botones en pantalla.
@@ -50,18 +53,23 @@ El juego se maneja mediante botones en pantalla.
 *   **Plantarse (Stand):** Haz clic en **"Stand"** para terminar tu turno y ver
     qué tiene el rival.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:quest-21:q-what-does-it-mean-e5ac60fa -->
 *   **P: ¿Qué significa hacer "bust"?**
     *   **R:** Que has pedido una carta y la suma de tu mano supera 21. En ese
         momento pierdes la ronda automáticamente.
 
+<!-- i18n:faq:id=faq:quest-21:q-when-should-i-stand-c14c2328 -->
 *   **P: ¿Cuándo debería plantarme?**
     *   **R:** Una estrategia segura es plantarse con manos de 17 o más (un
         "hard 17"). Si tu mano es "blanda" (soft), es decir, con un As que
         cuenta como 11, a veces puedes permitirte arriesgar y pedir una carta
         extra.
 
+<!-- i18n:faq:id=faq:quest-21:q-what-happens-if-there-89d681b5 -->
 *   **P: ¿Qué ocurre si hay un empate?**
     *   **R:** El empate se llama **push**. En la mayoría de versiones casuales
         nadie gana ni pierde esa mano y simplemente pasas a la siguiente ronda.
+

@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 "Ragdoll Archers" es un juego de tiro con arco con físicas en el que controlas
@@ -39,6 +40,7 @@ de los personajes añade mucho humor y situaciones impredecibles a cada duelo.
 5.  **Reacciona rápido:** El ritmo de la partida puede ser muy alto. Decide
     rápido cuándo disparar y cuándo reposicionarte.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 *   **Apuntar:** Normalmente se apunta arrastrando con el ratón para ajustar el
@@ -50,6 +52,7 @@ de los personajes añade mucho humor y situaciones impredecibles a cada duelo.
 *   **Recargar:** En algunas ediciones tendrás que recargar flechas de forma
     manual entre disparos.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes
 
 1.  **P: ¿Por qué mi personaje está siempre tambaleándose?**
@@ -66,3 +69,4 @@ de los personajes añade mucho humor y situaciones impredecibles a cada duelo.
 4.  **P: ¿Hay límite de flechas?**
     **R:** Depende del modo. Algunos tienen munición limitada y otros te dejan
     disparar sin restricciones.
+

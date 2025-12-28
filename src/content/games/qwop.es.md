@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 "QWOP Game" es un juego de carrera con físicas extremadamente difícil. Solo
@@ -41,6 +42,7 @@ fenómeno de internet y un clásico de los retos imposibles.
     única forma de mejorar es practicar y no rendirte por los constantes
     tropiezos.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 *   **Tecla Q:** Controla el muslo de la pierna izquierda.
@@ -48,6 +50,7 @@ fenómeno de internet y un clásico de los retos imposibles.
 *   **Tecla O:** Controla el muslo de la pierna derecha.
 *   **Tecla P:** Controla la pantorrilla de la pierna derecha.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes
 
 1.  **P: ¿Por qué el personaje siempre cae hacia atrás?**
@@ -65,3 +68,4 @@ fenómeno de internet y un clásico de los retos imposibles.
     **R:** Sí. QWOP se diseñó para mostrar lo compleja que es la locomoción
     humana y cómo correr, algo que parece sencillo, en realidad requiere una
     coordinación finísima.
+

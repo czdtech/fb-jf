@@ -19,6 +19,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Pets Rush es un match-3 trepidante con temática de mascotas. A diferencia de
@@ -28,6 +29,7 @@ inferior de la pantalla y debes encadenar combinaciones sin parar para evitar
 que llegue arriba. Intercambia mascotas adyacentes para formar líneas de tres o
 más, provoca combos y mantén el tablero a raya para lograr una puntuación alta.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Controlar las columnas altas:** tu objetivo principal es impedir que
@@ -42,6 +44,7 @@ más, provoca combos y mantén el tablero a raya para lograr una puntuación alt
     especiales que puedan aparecer; son ideales para limpiar zonas grandes en
     situaciones de emergencia.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 El juego emplea controles sencillos de intercambio.
@@ -50,18 +53,23 @@ El juego emplea controles sencillos de intercambio.
     para intercambiarlas, o arrastra una sobre otra. Solo se permitirá el
     intercambio si genera una combinación de tres o más.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:pets-rush:q-how-do-i-lose-117fb252 -->
 *   **P: ¿Cómo termina la partida?**
     *   **R:** La partida acaba en cuanto cualquier columna de bloques alcanza
         la parte superior de la pantalla.
 
+<!-- i18n:faq:id=faq:pets-rush:q-what-is-the-best-4dc5a927 -->
 *   **P: ¿Cómo consigo la puntuación más alta?**
     *   **R:** Aguantando más tiempo y encadenando combos. Las reacciones en
         cadena que limpian varios grupos en un solo movimiento aumentan el
         multiplicador y disparan la puntuación.
 
+<!-- i18n:faq:id=faq:pets-rush:q-is-there-a-way-d880d766 -->
 *   **P: ¿Hay forma de evitar que el muro suba?**
     *   **R:** La única manera es seguir haciendo combinaciones. Cada match
         exitoso pausa el avance del muro durante un instante y te da un pequeño
         respiro.
+

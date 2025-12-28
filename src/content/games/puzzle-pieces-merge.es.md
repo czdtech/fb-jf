@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Puzzle Pieces Merge ofrece un giro sereno e innovador al clásico puzle de
@@ -27,6 +28,7 @@ para que se unan y formen segmentos cada vez más grandes de la imagen final. Co
 la posibilidad de rotar piezas y usar potenciadores de forma estratégica, es una
 experiencia tan relajante como adictiva para amantes de los puzles.
 
+<!-- i18n:section:tips -->
 ### Estrategias de juego y recorrido
 
 1.  **Empieza por los bordes:** Igual que en un puzle físico, una buena idea es
@@ -44,6 +46,7 @@ experiencia tan relajante como adictiva para amantes de los puzles.
     mostrar la posición correcta de una ficha o darte otras ayudas para superar
     los tramos más complicados.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 *   **Mover pieza:** Haz clic y arrastra una ficha desde tu inventario hasta el
@@ -51,19 +54,24 @@ experiencia tan relajante como adictiva para amantes de los puzles.
 *   **Rotar pieza:** Según la versión, podrás girar la pieza pulsando un botón
     específico, con el botón derecho del ratón o usando una tecla del teclado.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:puzzle-pieces-merge:q-how-do-the-pieces-82b1ddc1 -->
 *   **P: ¿Cómo se fusionan las piezas?**
     *   **R:** Coloca una ficha en la posición correcta, junto a otra con la que
         encaje. Si la colocación es buena, se unirán automáticamente formando un
         bloque mayor.
 
+<!-- i18n:faq:id=faq:puzzle-pieces-merge:q-i-cant-find-where-a5983254 -->
 *   **P: No encuentro adónde va una pieza, ¿qué hago?**
     *   **R:** Empieza probando a rotarla. Si sigues atascado, déjala a un lado y
         céntrate en otra zona del puzle. Muchas veces, completar alrededores
         hace evidente el hueco donde encaja esa ficha difícil. Si tienes pistas
         disponibles, úsalas como último recurso.
 
+<!-- i18n:faq:id=faq:puzzle-pieces-merge:q-what-is-the-goal-ab58581b -->
 *   **P: ¿Cuál es el objetivo del juego?**
     *   **R:** Colocar todas las piezas que se te ofrecen hasta completar la
         imagen al 100 %.
+
