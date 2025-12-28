@@ -371,7 +371,15 @@ function looksLikeFaqQuestionLine(locale: TargetLocale, line: string): boolean {
   const raw = line;
   const t = raw.trim();
   if (!t) return false;
+  const leadingSpaces = /^(\s*)/.exec(raw)?.[1]?.length ?? 0;
   const lower = t.toLowerCase();
+
+  const looksBold = t.startsWith('**') && t.includes('**');
+  const looksList = /^[-*+]\s+/.test(t);
+
+  // Nested list items inside FAQ sections are overwhelmingly answer blocks or lists within answers.
+  // Treat only top-level list items as candidate questions.
+  if (looksList && leadingSpaces > 0) return false;
 
   // Accept plain Q-lines (not necessarily bold/list) when they clearly start with a question prefix.
   // This helps avoid "foundQuestions < expected" caused by formatting variance.
@@ -379,12 +387,22 @@ function looksLikeFaqQuestionLine(locale: TargetLocale, line: string): boolean {
     // Strip list marker, then strip leading bold markers.
     let s = t.replace(/^[-*+]\s+/, '').trim();
     s = s.replace(/^\*\*/, '').trim();
+    // Normalize common bold label forms like "A:** ..." / "R:** ..." to "A: ..." / "R: ...".
+    s = s.replace(/^([a-z])\s*[:：]\s*\*\*/i, '$1:');
     return s;
   })();
 
   // Exclude obvious answers (including list/bold variants).
   const normalizedLower = normalizedStart.toLowerCase();
-  if (/^a[:：]/.test(normalizedLower) || normalizedLower.startsWith('answer')) return false;
+  if (
+    /^([ar])[:：]/.test(normalizedLower) ||
+    normalizedLower.startsWith('answer') ||
+    normalizedLower.startsWith('respuesta') ||
+    normalizedLower.startsWith('réponse') ||
+    normalizedLower.startsWith('reponse') ||
+    normalizedLower.startsWith('antwort')
+  )
+    return false;
   if (/^(答|답)[:：]/.test(normalizedStart)) return false;
 
   if (/^q[:：]/i.test(normalizedStart)) return true;
@@ -404,17 +422,6 @@ function looksLikeFaqQuestionLine(locale: TargetLocale, line: string): boolean {
   })();
 
   const hasQuestionMark = t.includes('?') || t.includes('？');
-  const looksBold = t.startsWith('**') && t.includes('**');
-  const looksList = /^[-*+]\s+/.test(t);
-
-  // Common FAQ formatting across locales: list item whose leading segment is bold, without an explicit "Q:" prefix.
-  // Treat it as a question line as long as it doesn't look like an "A:" line.
-  if (looksList) {
-    const afterList = t.replace(/^[-*+]\s+/, '').trim();
-    const afterListLower = afterList.toLowerCase();
-    const isAnswerLike = /^(\*\*)?\s*a[:：]/.test(afterListLower) || afterListLower.startsWith('**answer');
-    if (!isAnswerLike && afterList.startsWith('**') && afterList.includes('**')) return true;
-  }
 
   // Another common FAQ format: bold paragraph lines, often numbered ("**1. ...**").
   if (looksBold && /^\d+[\).]/.test(normalizedStart)) return true;
@@ -468,11 +475,20 @@ function applyFaqIdsToLocale(
       // Strip list marker, then strip leading bold markers.
       let s = t.replace(/^[-*+]\s+/, '').trim();
       s = s.replace(/^\*\*/, '').trim();
+      s = s.replace(/^([a-z])\s*[:：]\s*\*\*/i, '$1:');
       return s;
     })();
 
     const normalizedLower = normalizedStart.toLowerCase();
-    if (/^a[:：]/.test(normalizedLower) || normalizedLower.startsWith('answer')) return false;
+    if (
+      /^([ar])[:：]/.test(normalizedLower) ||
+      normalizedLower.startsWith('answer') ||
+      normalizedLower.startsWith('respuesta') ||
+      normalizedLower.startsWith('réponse') ||
+      normalizedLower.startsWith('reponse') ||
+      normalizedLower.startsWith('antwort')
+    )
+      return false;
     if (/^(答|답)[:：]/.test(normalizedStart)) return false;
 
     return true;
