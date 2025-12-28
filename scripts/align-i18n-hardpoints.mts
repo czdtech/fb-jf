@@ -225,7 +225,7 @@ function classifyHeading(locale: TargetLocale, text: string): string | null {
       controls: ['commandes', 'contrôles', 'controles', 'contrôle', 'controle'],
       'how-to-play': ['comment jouer', 'mode de jeu', 'jouer'],
       rules: ['règles', 'regles'],
-      tips: ['astuces', 'conseils', 'stratégie', 'strategie', 'stratégies', 'strategies', 'tips'],
+      tips: ['guide de jeu', 'astuces', 'conseils', 'stratégie', 'strategie', 'stratégies', 'strategies', 'tips'],
     },
     de: {
       faq: ['häufig gestellte fragen', 'haeufig gestellte fragen', 'faq'],
