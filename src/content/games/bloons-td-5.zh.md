@@ -42,9 +42,9 @@ releaseDate: 2025-08-16T00:00:00.000Z
     -   **Regrow：** 需要高 DPS 塔避免“再生农场”，如 2/3 Tack Shooter或 4/x Cannon Ship。
 -   **猴神神庙 Temple of the Monkey God 的建造：** Super Monkey 的 4/x 形态是终极后期塔。升级前先在其射程内摆满不同类别的高额塔并投入足够资金，升级时这些塔会被“献祭”，其价值会永久转化为神庙的额外火力。
 -   **后期强力组合示例：**
-    -   **Technological Terror（Super Monkey x/4）：** 主动技能可在瞬间清空屏幕上大部分气球。
+    -   **Technological Terror（超级猴 4级）：** 主动技能可在瞬间清空屏幕上大部分气球。
     -   **Supa-Vac（Bloonchipper 2/4）：** 顶级控场工具，主动技能甚至可以短暂吸入 ZOMG 级飞艇，为其他塔争取输出时间。
-    -   **Sabotage Supply Lines（Ninja Monkey x/4）：** 将全图气球整体减速一半，是极后期生存的关键辅助技能。
+    -   **Sabotage Supply Lines（忍者猴 4级）：** 将全图气球整体减速一半，是极后期生存的关键辅助技能。
 
 <!-- i18n:section:controls -->
 ### 操作指南
