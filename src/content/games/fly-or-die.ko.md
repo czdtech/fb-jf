@@ -3,16 +3,17 @@ locale: ko
 urlstr: fly-or-die
 title: Fly or Die 플라이 오어 다이
 description: '먹이사슬을 따라 진화해 나가는 .io 스타일 생존 게임입니다. 다른 생물을 먹고 피하며, 점점 더 강한 형태로 진화해 보세요.'
-iframeSrc: 'https://flyordie.1games.io/'
+iframeSrc: 'https://app-96679.games.s3.yandex.net/96679/jshypemnvrae6bchv5d2nej2892owe69/index.html'
 thumbnail: /new-images/thumbnails/fly-or-die.jpg
 tags:
   - multiplayer
   - survival
-score: 4.1/5  (964 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
+score: 4.6/5  (260 votes)
+releaseDate: 2025-08-16
 ---
 
 
+<!-- i18n:section:introduction -->
 ### 개요
 
 Fly or Die는 작은 생물체로 시작해, 먹을 수 있는 대상은 먹고 자신을 잡아먹는
@@ -20,6 +21,7 @@ Fly or Die는 작은 생물체로 시작해, 먹을 수 있는 대상은 먹고 
 공중, 지상, 지하 등 여러 레이어가 존재하며, 진화 단계에 따라 이동 가능한
 영역과 먹이/위협 대상이 달라집니다.
 
+<!-- i18n:section:how-to-play -->
 ### 플레이 방법
 
 - 자신의 아이콘 옆에 표시된 먹이 목록을 참고해, 먹을 수 있는 생물만
@@ -29,6 +31,7 @@ Fly or Die는 작은 생물체로 시작해, 먹을 수 있는 대상은 먹고 
 - 다른 플레이어와의 경쟁이 치열하므로, 무리하게 싸움을 거는 것보다
   먹잇감이 많은 안전 구역을 찾아다니는 것이 중요합니다.  
 
+<!-- i18n:section:controls -->
 ### 조작 방법
 
 - 방향키/WASD로 이동, 클릭/특정 키로 공격(버전에 따라 상이)  
@@ -40,11 +43,16 @@ Fly or Die는 작은 생물체로 시작해, 먹을 수 있는 대상은 먹고 
 - 형태에 따라 공중/지하 등 높낮이를 활용해 도망치세요. 위로 올라가거나 지하로 잠수하는 것만으로도 추격을 끊을 수 있습니다.
 - 체력이 낮을 때는 싸움을 피하고, 회복 아이템이 있는 구역이나 덜 붐비는 지역을 우선적으로 찾는 것이 좋습니다.
 
+<!-- i18n:section:faq -->
 ### 자주 묻는 질문 (FAQ)
 
+<!-- i18n:faq:id=faq:fly-or-die:how-do-i-evolve-to-dabd6fa3 -->
 - Q: 다음 생물로 진화하려면 어떻게 하나요?  
   A: 화면에 표시된 먹이 아이콘에 해당하는 대상을 먹어 경험치를 채우면 진화합니다.
+<!-- i18n:faq:id=faq:fly-or-die:what-happens-when-a-predator-675b6aae -->
 - Q: 포식자에게 잡히면 어떻게 되나요?  
   A: 서버/버전에 따라 진행도가 줄어들거나 목숨을 잃고 다시 시작할 수 있습니다.
+<!-- i18n:faq:id=faq:fly-or-die:is-there-team-play-1c3a03db -->
 - Q: 팀 플레이가 있나요?  
   A: 대부분은 개인전(FFA)이지만, 일부 호스트는 특별 모드를 제공하기도 합니다.
+

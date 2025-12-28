@@ -5,13 +5,15 @@ title: Fiddlebops Sprunksters Remix
 description: >-
   Fiddlebops 스타일과 Sprunksters 테마를 섞은 리믹스 음악 Mod입니다. 다양한 캐릭터 루프를 섞어 자신만의
   Sprunksters 리믹스를 만들어 보세요.
-iframeSrc: 'https://turbowarp.org/1149630445/embed'
+iframeSrc: 'https://turbowarp.org/1149194527/embed'
 thumbnail: /new-images/thumbnails/fiddlebops-sprunksters-remix.png
 tags:
   - fiddlebops sprunksters remix
-score: 4.6/5  (217 votes)
+score: 4.1/5  (127 votes)
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 Fiddlebops Sprunksters Remix는 Fiddlebops식 드래그 앤 드롭 인터페이스에 Sprunksters 테마를 결합한 팬 메이드 리믹스 모드입니다. 캐릭터를 무대에 올려 각자의 루프와 사운드를 겹치며, 나만의 트랙을 만드는 과정 자체가 핵심 재미입니다. 마음에 들지 않는 파트는 언제든 내려서 다시 조합할 수 있어 부담 없이 실험할 수 있습니다.
 
 ### Fiddlebops Sprunksters Remix은 무엇인가요?
@@ -41,3 +43,4 @@ Fiddlebops Sprunksters Remix는 Fiddlebops식 드래그 앤 드롭 인터페이�
 ### 마무리
 
 Fiddlebops Sprunksters Remix는 “듣기 좋은 한 곡”을 만드는 과정이 즐거운 리믹스 모드입니다. 캐릭터를 올리고 빼는 간단한 조작으로도 분위기가 크게 달라지니, 여러 조합을 실험하며 자신만의 Sprunksters 리믹스를 만들어 보세요.
+

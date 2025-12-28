@@ -10,9 +10,11 @@ thumbnail: /new-images/thumbnails/fiddlebops-but-sprunki.png
 tags:
   - fiddlebops but sprunki
 score: 4.2/5  (94 votes)
+releaseDate: 2025-12-04
 ---
 
 
+<!-- i18n:section:introduction -->
 음악을 만드는 걸 좋아한다면, **FiddleBops but Sprunki**는 꼭 한 번
 해 볼 만한 크로스오버입니다. Fiddlebops 특유의 중독적인 음악 제작 방식을
 그대로 유지하면서, 캐릭터와 사운드는 모두 스프런키 세계관으로 교체되어
@@ -64,3 +66,4 @@ Fiddlebops나 Sprunki 둘 중 하나라도 좋아한다면, 이 Mod는 두 세�
 실험하고, 나만의 트랙을 만들어 보고 싶다면 **FiddleBops but Sprunki**를
 한 번 플레이해 보세요.  
 클래식과 새로움이 섞인 음악 놀이터가 기다리고 있습니다.
+

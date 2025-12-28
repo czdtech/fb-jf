@@ -3,16 +3,17 @@ locale: ko
 urlstr: foosball-cup-world
 title: Foosball Cup World 테이블 축구 월드컵
 description: 월드컵 분위기 속에서 테이블 축구를 즐기는 게임입니다. 팀을 선택하고 막대를 회전시켜 슛과 수비를 하며 골을 넣어 승리를 노려 보세요.
-iframeSrc: 'https://foosballcup.h5games.usercontent.goog/v/6lg92qtk2nf2g/'
+iframeSrc: 'https://7ak26cf4bf850.h5games.usercontent.goog/v/6jmmp78dbnp50/'
 thumbnail: /new-images/thumbnails/foosball-cup-world.png
 tags:
   - sports
   - football
-score: 4.1/5  (2100 votes)
+score: 4.0/5  (1852 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### 개요
 
 Foosball Cup World는 실제 테이블 축구(푸즈볼)를 디지털로 구현한 게임으로,
@@ -31,20 +32,25 @@ Foosball Cup World는 실제 테이블 축구(푸즈볼)를 디지털로 구현�
 
 - 키보드/마우스로 막대 회전 및 좌우 이동(버전에 따라 조작법 상이)  
 
+<!-- i18n:section:faq -->
 ### 자주 묻는 질문(FAQ)
 
+<!-- i18n:faq:id=faq:foosball-cup-world:are-full-360-spins-allowed-179f55df -->
 - Q: 막대를 360°로 계속 회전해도 되나요?
   
   A: 실제 푸즈볼 규칙에서는 금지되는 경우가 많고, 게임에서도 과한 회전은 컨트롤이 떨어지도록 설계된 경우가 많습니다.
 
+<!-- i18n:faq:id=faq:foosball-cup-world:best-basic-defense-e0149f9d -->
 - Q: 기본 수비 팁이 있나요?
   
   A: 수비수 한 명은 중앙에 두고, 골키퍼는 공의 각도를 따라가듯 움직이세요. 공만 쫓아다니면 빈 공간이 생기기 쉽습니다.
 
+<!-- i18n:faq:id=faq:foosball-cup-world:twoplayer-support-8a28f667 -->
 - Q: 2인 플레이가 가능한가요?
   
   A: 버전에 따라 다르지만, 보통 키보드 공유나 로컬 번갈아 하기(핫시트) 방식으로 지원되는 경우가 많습니다.
 
+<!-- i18n:section:tips -->
 ### 팁
 
 - 무작정 강하게만 회전시키기보다, 공의 위치와 각도를 보고 정확한 방향으로

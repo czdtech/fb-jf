@@ -10,9 +10,11 @@ thumbnail: /new-images/thumbnails/fiddlebops-sprunkbop.png
 tags:
   - fiddlebops sprunkbop
 score: 4.1/5  (308 votes)
+releaseDate: 2025-12-04
 ---
 
 
+<!-- i18n:section:introduction -->
 음악을 새롭게 즐기고 싶다면 팬들이 만든 Mod인 **Fiddlebops Sprunkbop**을
 한 번 경험해 보세요. 정식 발매작은 아니지만, Incredibox 스타일의 게임성을
 바탕으로 완전히 다른 분위기의 음악과 비주얼을 선보여 커뮤니티에서 큰
@@ -56,3 +58,4 @@ Fiddlebops Sprunkbop은 원작의 쉬운 드래그 앤 드롭 인터페이스를
 
 창의력을 마음껏 발휘하고 싶다면, Fiddlebops Sprunkbop을 실행해 가장
 멋진 비트를 만들어 보세요.
+

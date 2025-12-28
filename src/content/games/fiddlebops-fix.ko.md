@@ -11,6 +11,7 @@ thumbnail: /new-images/thumbnails/fiddlebops-fix.png
 tags:
   - fiddlebops fix
 score: 4.6/5  (217 votes)
+releaseDate: 2025-12-04
 ---
 
 
@@ -54,3 +55,4 @@ Fiddlebops Fix는 단순한 음악 게임을 넘어, 개성 넘치는 캐릭터�
 
 지금 바로 Fiddlebops Fix에서 무대 위에 첫 캐릭터를 올려 보세요.  
 당신만의 피들밥스 사운드를 만들 시간이 왔습니다.
+

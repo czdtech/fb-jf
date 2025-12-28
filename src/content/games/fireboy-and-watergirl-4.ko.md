@@ -15,6 +15,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### **게임 소개**
 
 *Fireboy and Watergirl 4: The Crystal Temple*은 인기 협동 퍼즐 플랫포머
@@ -32,6 +33,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - **색 포탈(예: 검은 테두리)**: 일방향 포탈로, 한쪽 방향으로만 이동이 가능해
   잘못 들어가면 다른 플레이어의 도움이 필요할 수 있습니다.  
 
+<!-- i18n:section:tips -->
 ### **플레이 전략 & 팁**
 
 1. **포탈 구조 먼저 파악하기**  
@@ -58,42 +60,52 @@ releaseDate: 2025-08-16T00:00:00.000Z
    일방향 포탈에 들어가기 전에, 그 이후의 경로가 있는지 혹은 다른 플레이어가
    새로운 길을 열어 줄 수 있는지 꼭 확인하세요.  
 
+<!-- i18n:section:controls -->
 ### **조작 방법**
+<!-- i18n:controls:keys -->
+- 키(정렬)： `A` `D` `W` `Left Arrow` `Right Arrow` `Up Arrow`
 
 한 키보드에서 두 명이 동시에 플레이하는 전통적인 방식입니다.
 
 **Fireboy 조작**  
-* 이동 왼쪽: `A`  
-* 이동 오른쪽: `D`  
-* 점프: `W`  
+* 이동 왼쪽: A  
+* 이동 오른쪽: D  
+* 점프: W  
 
 **Watergirl 조작**  
-* 이동 왼쪽: `←`  
-* 이동 오른쪽: `→`  
-* 점프: `↑`  
+* 이동 왼쪽: ←  
+* 이동 오른쪽: →  
+* 점프: ↑  
 
+<!-- i18n:section:faq -->
 ### **자주 묻는 질문(FAQ)**
 
+<!-- i18n:faq:id=faq:fireboy-and-watergirl-4:how-do-the-crystal-portals-2b86b453 -->
 **1. 크리스털 포탈은 정확히 어떻게 작동하나요?**  
 입구와 같은 모양의 출구 포탈로 즉시 이동합니다. 흰 테두리는 양방향,
 검은색 등 다른 색 포탈은 일방향인 경우가 많으니, 테두리 색을 잘
 확인하세요.  
 
+<!-- i18n:faq:id=faq:fireboy-and-watergirl-4:can-i-play-this-game-d8da43ec -->
 **2. 혼자서도 플레이할 수 있나요?**  
 가능하지만 난이도가 크게 올라갑니다. 양손으로 키보드 양쪽을 동시에
 조작해야 하므로, 원래는 두 사람이 함께 플레이하는 것을 전제로
 디자인된 게임입니다.  
 
+<!-- i18n:faq:id=faq:fireboy-and-watergirl-4:why-cant-i-finish-the-c38e695a -->
 **3. 출구 앞에 서 있는데도 레벨이 끝나지 않습니다. 왜죠?**  
 불boy와 물girl이 각각 자신의 색으로 표시된 문 앞에 동시에 서 있어야
 레벨 클리어가 됩니다. 한 캐릭터만 도착해 있어서는 끝나지 않습니다.  
 
+<!-- i18n:faq:id=faq:fireboy-and-watergirl-4:what-is-the-difference-between-414f4676 -->
 **4. 다른 Fireboy & Watergirl 시리즈와의 차이는 무엇인가요?**  
 1편 Forest Temple은 비교적 단순한 퍼즐로 구성되어 있고, 2편 Light Temple은
 빛 반사와 센서, 3편 Ice Temple은 얼음/눈 물리 기믹을 추가했습니다.
 4편 Crystal Temple은 포탈을 이용한 순간이동 퍼즐이 핵심입니다.  
 
+<!-- i18n:faq:id=faq:fireboy-and-watergirl-4:are-the-gems-necessary-to-a8c4af3c -->
 **5. 보석은 꼭 다 먹어야 하나요?**  
 아니요. 레벨 클리어 자체에는 필수가 아니며, 더 높은 점수와 랭크를 노릴
 때 중요합니다. 모든 보석을 모으고 빠르게 클리어하면 최고 등급을 받을 수
 있습니다.  
+

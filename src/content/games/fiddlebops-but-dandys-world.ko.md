@@ -10,9 +10,11 @@ thumbnail: /new-images/thumbnails/fiddlebops-but-dandys-world.png
 tags:
   - fiddlebops but dandy
 score: 4.6/5  (27 votes)
+releaseDate: 2025-12-04
 ---
 
 
+<!-- i18n:section:introduction -->
 당신을 환상적인 매력으로 가득한 음악 왕국으로 초대하는 Mod, **Fiddlebops But
 Dandy''s World**! 단순히 화면 앞에 앉아 있는 것이 아니라, Dandy가 되어
 피들밥스 친구들을 이끌고 기묘한 음악 풍경을 탐험하는 안내자가 됩니다.
@@ -61,3 +63,4 @@ Dandy''s World의 힘으로 평범한 음표들이 생동감 넘치는 색을 �
 만들어 냅니다.  
 이제 Fiddlebops But Dandy''s World 속으로 들어가, Dandy''s World의
 환상적인 힘 아래에서 당신의 음악적 영감을 마음껏 폭발시켜 보세요!
+
