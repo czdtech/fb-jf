@@ -3,23 +3,25 @@ locale: ko
 urlstr: duck-life-4
 title: Duck Life 4 덕 라이프 4
 description: '오리들을 훈련시켜 달리기·수영·비행 실력을 키우고, 레이스에서 우승을 노리는 육성 레이싱 게임입니다.'
-iframeSrc: 'https://ad-freegames.github.io/flash/game/duck-life-4.html'
+iframeSrc: 'https://webglmath.github.io/ducklife-4/'
 thumbnail: /new-images/thumbnails/duck-life-4.jpg
 tags:
   - racing
   - animal
   - upgrade
-score: 4.7/5  (1078 votes)
+score: 4.8/5  (1295 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### 개요
 
 Duck Life 4는 작은 오리를 키워 각종 레이스에 출전시키는 육성 게임 시리즈의
 네 번째 작품입니다. 플레이어는 오리의 달리기, 점프, 수영, 비행 등 여러 능력치를
 훈련 미니게임으로 올려 주고, 대회에 참가해 우승을 노릴 수 있습니다.
 
+<!-- i18n:section:how-to-play -->
 ### 플레이 방법
 
 - 훈련 모드에서 각 능력치에 해당하는 미니게임을 반복해 레벨을 올립니다.  
@@ -28,6 +30,7 @@ Duck Life 4는 작은 오리를 키워 각종 레이스에 출전시키는 육�
 - 레이스에서 승리하면 상금과 새로운 모자를 얻어 능력치를 강화하거나 외형을
   꾸밀 수 있습니다.  
 
+<!-- i18n:section:controls -->
 ### 조작 방법
 
 - 훈련 미니게임: 방향키와 스페이스 바 등 간단한 조작(모드별 상이)  
@@ -42,11 +45,16 @@ Duck Life 4는 작은 오리를 키워 각종 레이스에 출전시키는 육�
 - 막히는 구간이 있다면 이전 트랙을 반복해 안전하게 XP를 모은 뒤, 필요한 스탯을
   올리고 다시 도전해 보세요.
 
+<!-- i18n:section:faq -->
 ### 자주 묻는 질문(FAQ)
 
+<!-- i18n:faq:id=faq:duck-life-4:do-cosmetics-affect-speed-87c8db5c -->
 - Q: 모자 같은 코스메틱이 속도에 영향을 주나요?  
   A: 대부분 외형용이며, 실제 진행은 스탯과 에너지 관리가 좌우합니다.
+<!-- i18n:faq:id=faq:duck-life-4:can-i-respec-25269397 -->
 - Q: 스탯을 다시 찍을 수 있나요?  
   A: 보통은 불가능하므로, 부족한 스탯을 계속 훈련해 보완하는 방식이 일반적입니다.
+<!-- i18n:faq:id=faq:duck-life-4:why-am-i-losing-photofinish-6772e3f1 -->
 - Q: 결승선에서 근소하게 자주 지는 이유는 뭔가요?  
   A: 에너지가 낮거나 특정 스탯(예: 등반)이 부족한 경우가 많습니다. 해당 부분을 보강하세요.
+

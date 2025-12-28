@@ -3,23 +3,25 @@ locale: ko
 urlstr: duck-life
 title: Duck Life 덕 라이프
 description: 작은 오리를 훈련시켜 다양한 레이스에 참가시키는 육성 레이싱 게임입니다. 달리기·점프·수영·비행 능력을 키워 챔피언을 만들어 보세요.
-iframeSrc: 'https://ad-freegames.github.io/flash/game/duck-life.html'
+iframeSrc: 'https://games.wixgames.co.uk/games/ducklife1/webgl/'
 thumbnail: /new-images/thumbnails/duck-life.jpg
 tags:
   - racing
   - animal
   - upgrade
-score: 4.7/5  (677 votes)
+score: 4.2/5  (1164 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### 개요
 
 Duck Life는 농장에서 태어난 작은 오리를 키워, 여러 지역의 레이스 대회에 출전시키는
 육성형 레이싱 게임입니다. 플레이어는 훈련 미니게임을 통해 오리의 능력치를 올리고,
 경주에서 우승해 더 강한 상대와 겨루는 식으로 진행합니다.
 
+<!-- i18n:section:how-to-play -->
 ### 플레이 방법
 
 - 훈련 모드에서 달리기, 점프, 수영, 비행 등 각 능력에 해당하는 미니게임을 반복해
@@ -29,6 +31,7 @@ Duck Life는 농장에서 태어난 작은 오리를 키워, 여러 지역의 �
 - 레이스에서 얻은 상금으로 먹이를 사 능력치 회복·강화에 쓰거나, 외형 커스터마이징
   아이템을 구입할 수 있습니다.  
 
+<!-- i18n:section:controls -->
 ### 조작 방법
 
 - 훈련 미니게임: 방향키, 스페이스 바 등 간단한 조작(모드별 상이)  
@@ -42,11 +45,16 @@ Duck Life는 농장에서 태어난 작은 오리를 키워, 여러 지역의 �
 - 에너지는 사실상 지구력입니다. 씨앗/먹이를 아껴 두었다가 레이스 직전에 채워 두면
   안정적으로 완주하기 좋습니다.
 
+<!-- i18n:section:faq -->
 ### 자주 묻는 질문(FAQ)
 
+<!-- i18n:faq:id=faq:duck-life:can-i-skip-races-e630c3b0 -->
 - Q: 레이스를 건너뛸 수 있나요?  
   A: 보통은 각 지역의 지정 레이스를 이겨야 다음 지역으로 진행할 수 있습니다.
+<!-- i18n:faq:id=faq:duck-life:do-cosmetics-help-088a95f4 -->
 - Q: 코스메틱(외형) 아이템이 성능에 영향을 주나요?  
   A: 대부분 외형용이며, 결과는 훈련과 에너지 관리가 좌우합니다.
+<!-- i18n:faq:id=faq:duck-life:are-there-level-caps-81ed8f45 -->
 - Q: 능력치에 레벨 캡이 있나요?  
   A: 초반 지역에서는 일정 구간에서 캡이 걸리기도 하며, 진행하면서 상한이 해제됩니다.
+
