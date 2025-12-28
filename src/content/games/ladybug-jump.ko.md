@@ -15,6 +15,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### 게임 상세 소개
 
 *Ladybug Jump*는 가족 친화적인 가벼운 점프 액션 게임입니다.
@@ -22,6 +23,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 거미 등을 피해 전진해야 합니다. 스테이지가 진행될수록
 움직이는 발판과 바람 효과가 더해져 타이밍 난도가 올라갑니다.
 
+<!-- i18n:section:tips -->
 ### 플레이 전략 & 공략
 
 1. **짧은 점프로 정밀하게**  
@@ -44,20 +46,26 @@ releaseDate: 2025-10-18T00:00:00.000Z
    실패 시 빠른 재시작을 통해 해당 구간만 여러 번
    연습해 점프 타이밍을 몸에 익히는 것이 좋습니다.
 
+<!-- i18n:section:controls -->
 ### 조작 가이드
 
 - **점프**: 탭/클릭으로 점프하며, 지원하는 빌드에서는
   길게 눌러 더 높이 뛸 수 있습니다.  
 - **일시정지/재시작**: 화면 UI 버튼으로 조작합니다.
 
+<!-- i18n:section:faq -->
 ### 자주 묻는 질문(FAQ)
 
+<!-- i18n:faq:id=faq:ladybug-jump:i-keep-falling-off-small-5d8961dc -->
 - **Q: 작은 잎사귀에서 자꾸 떨어집니다.**  
   **A:** 점프 높이를 줄이고, 잎사귀 중앙을 노려 착지하면
   다음 점프를 조정할 여유가 생깁니다.
 
+<!-- i18n:faq:id=faq:ladybug-jump:are-there-boss-stages-6a0c74d0 -->
 - **Q: 보스 스테이지가 있나요?**  
   **A:** 대부분은 짧은 장애물 코스를 이어 뛰는 구조이며,
 
+<!-- i18n:faq:id=faq:ladybug-jump:controller-supported-4ec31a1d -->
 - Q: Controller supported?
   보스전은 드문 편입니다.
+
