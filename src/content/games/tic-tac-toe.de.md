@@ -13,6 +13,7 @@ score: 4.6/5  (216 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 „Tic-Tac-Toe“ ist ein einfaches, aber überraschend taktisches Duell für zwei Personen. Ihr setzt abwechselnd X und O auf ein 3×3‑Raster und versucht, als Erste/r drei gleiche Symbole in einer waagerechten Reihe, senkrechten Spalte oder Diagonale zu bilden. Die Regeln sind schnell erklärt, aber wer vorausschauend denkt, hat klare Vorteile.
@@ -31,6 +32,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - **Abwechseln:** Du machst einen Zug, dann ist die KI oder dein Mitspieler an der Reihe.
 - **Brett lesen:** Schau nach Mustern, bestehenden Zweierreihen und offenen Linien, die du vollenden oder blockieren kannst.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
 1. **Hat der erste Spieler einen Vorteil?**  

@@ -15,6 +15,7 @@ score: 4.0/5  (972 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 Trap the Cat ist ein rundenbasiertes Denkspiel auf einem sechseckigen Raster. In der Mitte sitzt eine Katze, die Runde für Runde versucht, zum Spielfeldrand zu entkommen. Du setzt Barrieren auf freie Felder und versuchst so, die möglichen Laufwege nach und nach zu schließen, bis der Kater vollständig eingekreist ist.
@@ -33,6 +34,7 @@ Trap the Cat ist ein rundenbasiertes Denkspiel auf einem sechseckigen Raster. In
 - **Katze beobachten:** Nach deinem Zug bewegt sich die Katze automatisch ein Feld in Richtung ihres bevorzugten Fluchtwegs.
 - **Neustart:** Wenn sie doch entkommt, kannst du das Level jederzeit neu starten und eine andere Taktik ausprobieren.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
 1.  **F: Wie bewegt sich die Katze genau?**
@@ -43,3 +45,4 @@ Trap the Cat ist ein rundenbasiertes Denkspiel auf einem sechseckigen Raster. In
     **A:** Meist hast du nur eine bestimmte Anzahl von Zügen bzw. Barrieren, um die Katze einzukesseln. Das macht vorausschauende Planung wichtig.
 4.  **F: Wie erhöhe ich meine Erfolgsquote?**
     **A:** Übe, das Raster als Netz aus möglichen Pfaden zu sehen, statt nur als Einzelfelder. Je besser du Engstellen und Schlüsselpunkte erkennst, desto schneller kannst du die Katze sicher einsperren.
+

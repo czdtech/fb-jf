@@ -16,10 +16,12 @@ score: 4.9/5  (415 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 Tap Tap Shots ist ein minimalistisches, aber stark suchterzeugendes Arcade‑Basketballspiel. Du lässt den Ball mit kurzen Taps springen und versuchst, ihn im Korb zu versenken – immer wieder, bevor die Zeit abläuft.
 
+<!-- i18n:section:tips -->
 ### Spielanleitung
 
 - **Ziel:** So viele Körbe in Serie wie möglich erzielen.
@@ -28,12 +30,16 @@ Tap Tap Shots ist ein minimalistisches, aber stark suchterzeugendes Arcade‑Bas
 - **Combos:** Mehrere Treffer hintereinander setzen den Ball „in Flammen“ und aktivieren einen Punktemultiplikator. Perfekte Würfe ohne Ringkontakt bringen zusätzliche Punkte.
 - **Timer:** Nach jedem Treffer wird die Zeitleiste zurückgesetzt – verfehlst du, ist die Runde vorbei.
 
+<!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Left Mouse Button` `Spacebar`
 
 Die Steuerung ist extrem einfach:
-- **PC:** `Linke Maustaste` oder `Leertaste` zum Tippen.
+- **PC:** Linke Maustaste oder Leertaste zum Tippen.
 - **Mobil:** Bildschirm antippen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
 **Wie erreiche ich hohe Punktzahlen?**  
@@ -44,3 +50,4 @@ Treffer in dieser Phase zählen mit Multiplikator – ideal, um deinen Score sch
 
 **Gibt es ein Ziel außer Highscore?**  
 Der Fokus liegt ganz auf dem Endlos‑Highscore – viele Spieler jagen ihre eigene Bestleistung oder die von Freunden.
+

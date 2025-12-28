@@ -13,10 +13,12 @@ score: 4.7/5  (793 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 Dieses klassische Arcade‑Tennisspiel fängt den einfachen, aber süchtig machenden Spaß des Sports ein. Du steuerst eine/n Tennisspieler/in auf dem Court und trittst in schnellen Ballwechseln gegen einen Computergegner an. Dein Ziel ist es, den Ball immer wieder über das Netz zu spielen und Punkte zu machen, wenn dein Gegner ihn nicht mehr zurückbringt.
 
+<!-- i18n:section:tips -->
 ### Spielanleitung
 
 - **Ziel:** Sei als Erste/r bei der benötigten Punkt‑ oder Satzanzahl und gewinne das Match.
@@ -24,13 +26,17 @@ Dieses klassische Arcade‑Tennisspiel fängt den einfachen, aber süchtig mache
 - **Rallyes:** Nach dem Aufschlag spielst du den Ball hin und her. Du musst den Ball zurückschlagen, bevor er zweimal auf deiner Spielfeldhälfte aufkommt.
 - **Punkte:** Du bekommst Punkte, wenn dein Gegner den Ball ins Aus schlägt, ins Netz haut oder ihn nicht rechtzeitig zurückbringt.
 
+<!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Arrow Keys` `WASD` `Spacebar` `X`
 
 Die Steuerung ist bewusst simpel gehalten:
 
-- **Bewegung:** `Pfeiltasten` oder `WASD`, um dich auf deiner Platzhälfte zu bewegen.
-- **Schlag/Aufschlag:** `Leertaste` oder Taste `X`, um den Schläger zu schwingen und den Ball zu schlagen. Das Timing deines Schlages beeinflusst Kraft und Richtung.
+- **Bewegung:** Pfeiltasten oder WASD, um dich auf deiner Platzhälfte zu bewegen.
+- **Schlag/Aufschlag:** Leertaste oder Taste X, um den Schläger zu schwingen und den Ball zu schlagen. Das Timing deines Schlages beeinflusst Kraft und Richtung.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
 **Wie wird in diesem Tennis‑Spiel gepunktet?**

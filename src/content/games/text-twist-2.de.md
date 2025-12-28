@@ -17,10 +17,12 @@ score: 4.5/5  (761 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 Text Twist 2 ist die heiß erwartete Fortsetzung des beliebten Wortpuzzles. Wie im Original bekommst du einen Satz durcheinander gewürfelter Buchstaben und sollst daraus so viele gültige Wörter wie möglich bilden. Neu sind zusätzliche Spielmodi, ein größerer Wortschatz und mehr Komfort – ideal für alle, die gerne mit Sprache spielen und ihr Vokabular trainieren.
 
+<!-- i18n:section:tips -->
 ### Spielanleitung
 
 Das Grundprinzip bleibt gleich: Bilde Wörter aus den vorgegebenen Buchstaben.
@@ -34,13 +36,17 @@ Das Grundprinzip bleibt gleich: Bilde Wörter aus den vorgegebenen Buchstaben.
 - **Größeres Wörterbuch:** Durch das erweiterte Dictionary gibt es deutlich mehr mögliche Wörter zu entdecken.
 - **„Twist“-Funktion:** Mit der klassischen „Twist“-Taste mischst du die Buchstaben neu, um frische Ideen zu bekommen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Enter` `Spacebar` `Backspace`
 
 - **Eingabe:** Tippe Wörter direkt über die Tastatur ein.
-- **Wort bestätigen:** Drücke `Enter`, um ein Wort einzureichen.
-- **Buchstaben mischen:** Klicke auf die „Twist“-Schaltfläche oder drücke die `Leertaste`.
-- **Eingabe löschen:** Klicke auf „Clear“ oder nutze `Backspace`, um das aktuelle Wort zu löschen.
+- **Wort bestätigen:** Drücke Enter, um ein Wort einzureichen.
+- **Buchstaben mischen:** Klicke auf die „Twist“-Schaltfläche oder drücke die Leertaste.
+- **Eingabe löschen:** Klicke auf „Clear“ oder nutze Backspace, um das aktuelle Wort zu löschen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
 **Was sind die wichtigsten Neuerungen in Text Twist 2?**
@@ -54,3 +60,4 @@ Ja, in den meisten Standard‑Modi musst du ein Bingo‑Wort (ein Wort mit allen
 **Kann ich das Spiel offline spielen?**
 
 Viele Versionen von Text Twist 2 gibt es als Download oder App. Diese kannst du auch ohne Internetverbindung spielen und hast so ein perfektes Worträtsel für unterwegs.
+

@@ -17,10 +17,12 @@ score: 4.5/5  (300 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 Tanuki Sunset ist ein Third‑Person‑Longboard‑Spiel mit starkem Synthwave‑Look. Du steuerst den Waschbären Tanuki eine Küstenstraße entlang, driftest Kurven, springst über Rampen und fährst möglichst stylisch, ohne zu crashen.
 
+<!-- i18n:section:tips -->
 ### Spielanleitung
 
 Dein Ziel ist es, vor dem Ziel oder einem Crash möglichst viele Punkte zu
@@ -30,14 +32,18 @@ sammeln.
 - **Sammeln:** Die gelben „Tanuki Bits“ füllen eine Bonus‑Roulette‑Leiste; ein voller Balken gibt dir einen Spin mit Punktbonus.
 - **Near Misses:** Dicht an Autos und Hindernissen vorbeizuschrammen bringt Extra‑Punkte, ist aber riskant.
 
+<!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `A` `D` `Left` `Right Arrow Keys` `Spacebar` `S` `Down Arrow Key` `W` `Up Arrow Key` `Esc`
 
-- **Lenken:** `A` / `D` oder `Links` / `Rechts`
-- **Drift:** `Leertaste`
-- **180‑Slide / Bremsen:** `S` oder `Pfeil nach unten`
-- **Speed‑Stance:** `W` oder `Pfeil nach oben` (halten, um bestimmte Hindernisse zu durchbrechen)
-- **Pause:** `Esc`
+- **Lenken:** A / D oder Links / Rechts
+- **Drift:** Leertaste
+- **180‑Slide / Bremsen:** S oder Pfeil nach unten
+- **Speed‑Stance:** W oder Pfeil nach oben (halten, um bestimmte Hindernisse zu durchbrechen)
+- **Pause:** Esc
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
 **Wie bekomme ich hohe Scores?**  
@@ -48,3 +54,4 @@ Ist die Leiste voll, startet ein Roulette – mit etwas Glück bekommst du eine 
 
 **Kann ich Tanuki anpassen?**  
 Ja, durch Punkte und erfüllte Aufgaben schaltest du neue Outfits und Board‑Teile frei.
+

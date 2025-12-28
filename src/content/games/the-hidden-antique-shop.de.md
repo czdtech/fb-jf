@@ -16,10 +16,12 @@ score: 4.1/5  (1988 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Detaillierte Spieleinführung
 
 The Hidden Antique Shop ist ein entspanntes Wimmelbild‑Spiel in einem alten Antiquitätenladen voller Kuriositäten. Du durchsuchst Regale, Kisten und Vitrinen, findest versteckte Gegenstände, ordnest Schattenrisse zu und öffnest nach und nach neue Bereiche des Ladens.
 
+<!-- i18n:section:tips -->
 ### Spielstrategie & Walkthrough
 
 1. **Raster‑Scan:** Teile die Szene gedanklich in mehrere Zonen und scanne sie nacheinander, statt planlos herumzuklicken.
@@ -28,21 +30,19 @@ The Hidden Antique Shop ist ein entspanntes Wimmelbild‑Spiel in einem alten An
 4. **Hinweise sparen:** Nutze Hinweise erst für die letzten ein bis zwei hartnäckigen Objekte oder wenn du wirklich feststeckst.
 5. **Kontrast‑Tricks:** Zoome heran (falls verfügbar) oder lehne dich etwas zurück, um kleine Kontrastunterschiede besser zu erkennen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Tippe oder klicke auf Objekte, um sie zu sammeln.
 - Zoomen/Scrollen und Hinweise nutzt du über die UI‑Schaltflächen (falls vom Build unterstützt).
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
 
+<!-- i18n:faq:id=faq:the-hidden-antique-shop:im-missing-one-last-item-4a8bdf9a -->
 - Q: I’m missing one last item.
+<!-- i18n:faq:id=faq:the-hidden-antique-shop:do-mistakes-penalize-199191ba -->
 **Ich finde das letzte Objekt nicht – was tun?**
 
 
-- Q: Do mistakes penalize?
-Geh die Szene noch einmal systematisch von den Rändern zur Mitte durch und achte auf wiederkehrende Muster wie Bücherreihen oder Fliesen. Erst wenn du alles abgesucht hast, solltest du einen Hinweis verbrauchen.
-
-**Werden Fehlklicks bestraft?**
-
-Viele Versionen ziehen dir bei zu vielen Fehltreffern etwas Zeit ab. Klicke deshalb lieber gezielt statt hektisch über den Bildschirm zu spammen.

@@ -13,10 +13,12 @@ score: 3.8/5  (802 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 The Pillar ist ein atmosphärisches Puzzle‑ und Escape‑Room‑Spiel, in dem du eine Reihe mysteriöser Umgebungen erkundest. Du aktivierst Mechanismen, entschlüsselst Muster und Codes und öffnest neue Bereiche, während sich nach und nach eine rätselhafte Geschichte entfaltet.
 
+<!-- i18n:section:tips -->
 ### Spielanleitung
 
 Der Kern des Gameplays besteht darin, Umgebungsrätsel zu lösen, um voranzukommen. Jede Zone bringt neue Herausforderungen mit sich.
@@ -25,11 +27,15 @@ Der Kern des Gameplays besteht darin, Umgebungsrätsel zu lösen, um voranzukomm
 - **Rätsellösung:** Du begegnest Schieberätseln, Muster‑Puzzles, Schaltern und anderen Mechanismen, die du in der richtigen Reihenfolge bedienen musst.
 - **Fortschritt:** Gelöste Rätsel öffnen Türen, aktivieren Brücken oder schalten neue Hinweise frei, die dich tiefer in die Welt von The Pillar führen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `WASD` `Arrow Keys` `Left Mouse Button`
 
-- **Bewegung:** `WASD` oder `Pfeiltasten`, um deine Figur zu steuern.
-- **Interaktion:** `Linke Maustaste`, um Objekte anzuklicken, Schalter zu betätigen und Rätseloberflächen zu bedienen.
+- **Bewegung:** WASD oder Pfeiltasten, um deine Figur zu steuern.
+- **Interaktion:** Linke Maustaste, um Objekte anzuklicken, Schalter zu betätigen und Rätseloberflächen zu bedienen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
 **Welche Arten von Rätseln erwarten mich?**

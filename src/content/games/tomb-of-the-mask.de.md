@@ -13,10 +13,12 @@ score: 3.7/5  (843 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 Tomb of the Mask ist ein rasantes Arcade‑Spiel, das Labyrinth‑Navigation mit Endless‑Runner‑Gefühl kombiniert. Du steuerst eine Figur im Pixel‑Look, die sich per Wischgeste von Wand zu Wand katapultiert. Auf dem Weg sammelst du Münzen und Power‑ups – während von unten eine gefährliche Flut aus Tinte oder Lava stetig nach oben steigt.
 
+<!-- i18n:section:tips -->
 ### Spielanleitung
 
 - **Bewegung:** Wische in eine der vier Richtungen (oben, unten, links, rechts). Deine Figur schießt in diese Richtung, bis sie auf ein Hindernis prallt.
@@ -25,10 +27,14 @@ Tomb of the Mask ist ein rasantes Arcade‑Spiel, das Labyrinth‑Navigation mit
 - **Hindernissen ausweichen:** Umgehe Stacheln, Fallen und Gegner, die dich bei Kontakt sofort ausschalten.
 - **Flut abhängen:** Die farbige Flut steigt kontinuierlich von unten – bleib in Bewegung und arbeite dich nach oben.
 
+<!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Arrow Keys` `WASD`
 
-- **Wischen:** Auf dem Handy wischst du in die gewünschte Richtung. Am PC steuerst du je nach Version mit `Pfeiltasten` oder `WASD`.
+- **Wischen:** Auf dem Handy wischst du in die gewünschte Richtung. Am PC steuerst du je nach Version mit Pfeiltasten oder WASD.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
 **Wie bekomme ich eine hohe Punktzahl?**  

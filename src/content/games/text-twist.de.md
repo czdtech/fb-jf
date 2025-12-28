@@ -13,10 +13,12 @@ score: 4.0/5  (100 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 Text Twist ist ein beliebtes Wortpuzzlespiel, das deinen Wortschatz und deine Schnelligkeit testet. Du bekommst einen Satz durcheinander gewürfelter Buchstaben und musst daraus so viele gültige Wörter wie möglich bilden, bevor die Zeit abläuft. Längere Wörter bringen mehr Punkte – und ohne das Bingo‑Wort kommst du nicht in die nächste Runde.
 
+<!-- i18n:section:tips -->
 ### Spielanleitung
 
 - **Ziel:** Bilde Wörter aus den vorgegebenen Buchstaben. Versuche, alle möglichen Wörter zu finden und unbedingt das Bingo‑Wort, das alle Buchstaben verwendet.
@@ -25,13 +27,17 @@ Text Twist ist ein beliebtes Wortpuzzlespiel, das deinen Wortschatz und deine Sc
 - **Punkte:** Je länger das Wort, desto mehr Punkte gibt es. Wenn du alle Wörter einer Runde schaffst, bekommst du oft einen Bonus.
 - **Twist‑Taste:** Mit der „Twist“-Funktion (oder der Leertaste) mischst du die Buchstaben neu und bekommst neue Ideen für Wörter.
 
+<!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Enter` `Spacebar` `Backspace`
 
 - **Tippen:** Gib die gefundenen Wörter direkt über die Tastatur ein.
-- **Wort bestätigen:** Drücke `Enter`, um ein Wort einzureichen.
-- **Buchstaben mischen:** Klicke auf die „Twist“-Schaltfläche oder drücke die `Leertaste`.
-- **Wort löschen:** Klicke auf „Clear“ oder nutze `Backspace`, um die aktuelle Eingabe zu löschen.
+- **Wort bestätigen:** Drücke Enter, um ein Wort einzureichen.
+- **Buchstaben mischen:** Klicke auf die „Twist“-Schaltfläche oder drücke die Leertaste.
+- **Wort löschen:** Klicke auf „Clear“ oder nutze Backspace, um die aktuelle Eingabe zu löschen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
 **Was ist ein Bingo‑Wort?**

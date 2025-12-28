@@ -13,10 +13,12 @@ score: 3.9/5  (1003 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 „There is no game“ ist ein ungewöhnliches Meta‑Puzzle‑Abenteuer, das ständig mit deinen Erwartungen spielt. Ein spöttischer Erzähler behauptet die ganze Zeit, es gäbe hier gar kein Spiel – während du heimlich versuchst, genau dieses „Nicht‑Spiel“ doch zu spielen. Du musst Regeln brechen, unerwartete Interaktionen ausprobieren und Hinweise in Text und Interface lesen, um weiterzukommen.
 
+<!-- i18n:section:tips -->
 ### Spielanleitung
 
 Das Gameplay basiert im Kern auf Point‑and‑Click‑Mechaniken. Du klickst, ziehst und verschiebst Elemente auf dem Bildschirm, oft auf Arten, die in klassischen Spielen gar nicht vorgesehen wären.
@@ -25,10 +27,12 @@ Das Gameplay basiert im Kern auf Point‑and‑Click‑Mechaniken. Du klickst, z
 - **Vierte Wand durchbrechen:** Der Erzähler redet direkt mit dir, kommentiert deine Aktionen und versucht, dich vom „Spielen“ abzuhalten. Oft ist der richtige Weg genau das Gegenteil von dem, was er dir rät.
 - **Level‑Struktur:** Jede Szene bringt ein neues Szenario und eigene Regeln mit sich, die du erst durch Herumprobieren verstehst.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Linke Maustaste:** Klicken, Ziehen, Loslassen – alle Interaktionen laufen über einen einfachen Mausknopf.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
 **Ist das wirklich ein Spiel?**

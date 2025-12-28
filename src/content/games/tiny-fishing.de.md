@@ -16,6 +16,7 @@ score: 4.7/5  (322 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 Tiny Fishing ist ein ruhiges Casual‑Angelspiel. Du wirfst deine Leine ins Wasser, ziehst verschiedene Fischarten an Land und investierst deine Einnahmen in Upgrades. Mit jeder Verbesserung kommst du tiefer hinab und hast die Chance auf seltene, besonders wertvolle Fische.
@@ -35,6 +36,7 @@ Tiny Fishing ist ein ruhiges Casual‑Angelspiel. Du wirfst deine Leine ins Wass
 - **Einholen:** Wenn genügend Fische am Haken sind oder du am Ende der Leine bist, klickst du erneut und holst sie ein.
 - **Upgrades kaufen:** Nutze die verdienten Münzen im Shop, um Schnurlänge, Hakenwert und andere Werte zu verbessern.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
 
@@ -56,3 +58,4 @@ Je besser deine Ausrüstung und dein Fortschritt, desto mehr Münzen sammelst du
 
 **Hat das Spiel ein Ende?**  
 Tiny Fishing ist als Endlos‑Spiel gedacht. Du kannst immer weiter angeln, neue Tiefen erreichen und deine Ausrüstung maximal ausbauen.
+

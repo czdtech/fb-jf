@@ -8,6 +8,7 @@ thumbnail: /new-images/thumbnails/the-haze-pixelbox.png
 tags:
   - the haze pixelbox
 score: 3.9/5  (132 votes)
+releaseDate: 2025-12-04
 ---
 
 ### Was ist das Besondere an The Haze Pixelbox?

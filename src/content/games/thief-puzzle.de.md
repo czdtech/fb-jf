@@ -14,10 +14,12 @@ score: 4.0/5  (1876 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Detaillierte Spieleinführung
 
 In Thief Puzzle steuerst du einen extrem dehnbaren Arm, mit dem du Gegenstände stiehlst, ohne Alarme auszulösen. Dabei musst du Lasern, Wachen, Sägeblättern und anderen Fallen geschickt ausweichen. Gute Planung und sauberes Timing werden mit schnellen, befriedigenden Level‑Lösungen belohnt.
 
+<!-- i18n:section:tips -->
 ### Spielstrategie & Walkthrough
 
 1. **Weg testen:** Bewege den Arm zuerst langsam nach vorn, um herauszufinden, wann Sensoren oder Fallen auslösen.
@@ -26,22 +28,20 @@ In Thief Puzzle steuerst du einen extrem dehnbaren Arm, mit dem du Gegenstände 
 4. **Risiko abwägen:** Wenn ein geplanter Bogen zu gefährlich aussieht, zieh den Arm lieber zurück und suche eine sicherere Route.
 5. **Mehrfach‑Beute:** In manchen Leveln kannst du mehrere Ziele in einem Zug mitnehmen, bevor du den Arm zurückziehst – das spart Zeit, ist aber riskanter.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Ziehe mit der Maus oder dem Finger, um den Arm zu strecken.
 - Lass los, um den Arm samt Beute wieder zurückschnellen zu lassen.
 - Über die UI kannst du Level bei Bedarf schnell neu starten.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
 
+<!-- i18n:faq:id=faq:thief-puzzle:i-trip-alarms-153ade3a -->
 - Q: I trip alarms.
+<!-- i18n:faq:id=faq:thief-puzzle:timing-feels-tight-a5d830e2 -->
 **Warum löse ich ständig den Alarm aus?**
 
 
-- Q: Timing feels tight.
-Reduziere die Geschwindigkeit, wenn du dich Sensoren näherst, und nutze Ecken, um die direkte Sichtlinie zu unterbrechen. Schon kleine Kursänderungen können reichen.
-
-**Die Zeitfenster wirken sehr knapp – was tun?**
-
-Beobachte mindestens einen kompletten Zyklus von Lasern oder Wachen, bevor du loslegst. Viele Level geben dir großzügige Zeitfenster, wenn du nicht zu früh startest.

@@ -13,10 +13,12 @@ score: 4.1/5  (713 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 Brain Test: Tricky Puzzles ist ein innovatives Rätselspiel, das dich ständig dazu bringt, außerhalb gewohnter Denkmuster zu denken. Statt klassischer Aufgaben erwarten dich Level, die mit Wortspielen, optischen Täuschungen und unerwarteten Interaktionen arbeiten. Du tippst, ziehst Objekte über den Bildschirm, kombinierst Dinge oder drehst sogar dein Gerät, um die Lösung zu entdecken.
 
+<!-- i18n:section:tips -->
 ### Spielanleitung
 
 Jedes Level präsentiert dir ein eigenes kleines Rätsel. Die offensichtliche Antwort ist fast nie richtig – oft steckt der Trick im Detail.
@@ -26,12 +28,14 @@ Jedes Level präsentiert dir ein eigenes kleines Rätsel. Die offensichtliche An
 - **Experimentieren:** Probiere ruhig „verrückte“ Aktionen aus. Wenn eine Lösung zu offensichtlich wirkt, ist sie wahrscheinlich genau deshalb falsch.
 - **Hinweise:** Wenn du feststeckst, kannst du dir Hinweise holen – am meisten Spaß macht es aber, die Lösung selbst zu knacken.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Tippen:** Mit Finger (Mobil) oder Maus (PC) auf Objekte tippen.
 - **Ziehen:** Gedrückt halten und bewegen, um Elemente zu verschieben.
 - **Multitouch / Drehen:** Manche Rätsel verlangen zwei Finger oder das physische Drehen/Schütteln deines Geräts.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
 **Warum sind die Rätsel so „tricky“?**  

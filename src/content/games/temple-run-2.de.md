@@ -17,6 +17,7 @@ score: 4.0/5  (277 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 Temple Run 2 ist der Nachfolger des klassischen Tempel‑Runners. Du sprintest über bröckelnde Wege, fährst mit Loren, rutschst über Seile und wirst dabei unablässig von Dämonenaffen verfolgt. Ziel ist es, so weit wie möglich zu kommen und unterwegs Münzen und Edelsteine einzusammeln.
@@ -38,6 +39,7 @@ Temple Run 2 ist der Nachfolger des klassischen Tempel‑Runners. Du sprintest �
 - **Rutschen:** Wischen nach unten
 - **Neigen:** In manchen Versionen kippt man das Gerät, um Münzreihen besser zu treffen
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
 
@@ -56,3 +58,4 @@ Sie haben meist eigene Looks und teilweise unterschiedliche Start‑ oder Spezia
 
 **Gibt es ein richtiges Ende?**  
 Nein, Temple Run 2 ist als Endlos‑Runner gedacht – die Herausforderung besteht darin, immer weiter zu laufen und neue Rekorde aufzustellen.
+

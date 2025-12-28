@@ -13,10 +13,12 @@ score: 4.1/5  (186 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 The Binding of Isaac ist ein vielfach gelobtes Roguelike‑Action‑RPG mit Twin‑Stick‑Shooter‑Elementen. Du spielst Isaac, einen kleinen Jungen, der vor seiner fanatisch religiösen Mutter in den monsterverseuchten Keller flieht. Jeder Durchlauf bietet neue Räume, Gegner und Item‑Kombinationen – mal wirst du zum unaufhaltsamen Damage‑Monster, mal kämpfst du ums nackte Überleben.
 
+<!-- i18n:section:tips -->
 ### Spielanleitung
 
 Jeder Run ist einzigartig. Du bewegst dich Raum für Raum durch den Keller, besiegst Gegner mit deinen Tränen, sammelst Items ein und stellst dich Bossen.
@@ -26,14 +28,18 @@ Jeder Run ist einzigartig. Du bewegst dich Raum für Raum durch den Keller, besi
 - **Bosskämpfe:** Jede Etage endet mit einem Boss. Hier zeigt sich, wie gut dein aktueller Build wirklich ist.
 - **Permadeath:** Stirbst du, ist der Run vorbei und du startest von vorn – nur freigeschaltete Items und Charaktere bleiben dauerhaft.
 
+<!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `WASD` `Arrow Keys` `Spacebar` `Shift` `E` `Q`
 
-- **Bewegung:** `WASD`
-- **Tränen schießen:** `Pfeiltasten` (in manchen Versionen auch mit der Maus zielen)
-- **Aktives Item benutzen:** `Leertaste`
-- **Bombe legen:** `Shift` oder `E`
-- **Karte/Pille nutzen:** `Q`
+- **Bewegung:** WASD
+- **Tränen schießen:** Pfeiltasten (in manchen Versionen auch mit der Maus zielen)
+- **Aktives Item benutzen:** Leertaste
+- **Bombe legen:** Shift oder E
+- **Karte/Pille nutzen:** Q
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
 **Was ist ein Roguelike?**

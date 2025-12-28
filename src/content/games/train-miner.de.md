@@ -15,10 +15,12 @@ score: 4.1/5  (1970 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Detaillierte Spieleinführung
 
 In Train Miner platzierst du Gleisteile so, dass ein kleiner Grubenzug Erz einsammelt und anschließend sicher den Ausgang erreicht. Jede Kurve kostet Schwung und oft auch Treibstoff, und eine schlecht geplante Route endet in einer Sackgasse. Gute Strecken schaffen es, möglichst viele Extras mitzunehmen, ohne den Zug in eine ausweglose Ecke zu schicken.
 
+<!-- i18n:section:tips -->
 ### Spielstrategie & Walkthrough
 
 1. **Ausgang zuerst planen:** Sorge immer zuerst dafür, dass es überhaupt einen sauberen Weg zum Ausgang gibt und kümmere dich erst dann um optionale Erzadern.
@@ -27,18 +29,17 @@ In Train Miner platzierst du Gleisteile so, dass ein kleiner Grubenzug Erz einsa
 4. **Route im Kopf testen:** Geh die geplante Strecke gedanklich einmal durch, bevor du den Zug losfahren lässt, und prüfe auf offensichtliche Sackgassen.
 5. **Fehler früh korrigieren:** Wenn du beim Testlauf erkennst, dass du dich festfährst, ändere ein paar Gleisteile sofort, statt die Strecke nachträglich kompliziert zu „flicken“.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Über die UI platzierst und drehst du Gleisteile, startest den Zug und kannst das Level bei Bedarf pausieren oder neu beginnen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
 
+<!-- i18n:faq:id=faq:train-miner:i-deadend-near-the-exit-c4f385e0 -->
 - Q: I dead‑end near the exit.
+<!-- i18n:faq:id=faq:train-miner:can-i-collect-everything-44e658f5 -->
 **Ich lande kurz vor dem Ausgang in einer Sackgasse – warum?**  
 
-- Q: Can I collect everything?
-Du hast vermutlich zu viele Kurven oder Umwege früher im Level eingebaut. Versuche, einige Abschnitte gerader zu planen, damit du am Ende mehr Flexibilität hast.
-
-**Kann ich wirklich jedes Erz einsammeln?**  
-In vielen Leveln ja – mit cleveren Abzweigungen. Wichtig ist aber, zuerst eine sichere Hauptstrecke zu haben und Bonuswege nur so zu bauen, dass du wieder problemlos einspuren kannst.
