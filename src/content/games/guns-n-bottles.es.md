@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Guns n' Bottles es un arcade de un solo toque, sencillo pero muy adictivo, que
@@ -26,6 +27,7 @@ adecuado para hacer añicos las botellas que aparecen. El reto consiste en
 sincronizar el disparo con la rotación. Rompe las botellas verdes para sumar
 puntos, pero evita a toda costa las rojas.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1. **Anticípate a la rotación:** No dispares cuando el cañón apunte exactamente
@@ -42,6 +44,7 @@ puntos, pero evita a toda costa las rojas.
    pistolas con apariencias distintas en la tienda. Aunque muchas son solo
    estéticas, le dan variedad y sensación de progreso.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 El juego se maneja con un solo gesto.
@@ -49,16 +52,21 @@ El juego se maneja con un solo gesto.
 - **Disparar:** Haz clic con el botón izquierdo del ratón o toca cualquier
   parte de la pantalla para disparar.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:guns-n-bottles:q-what-is-the-objective-0d640e0d -->
 *   **P: ¿Cuál es el objetivo del juego?**
     *   **R:** Acierta el mayor número posible de botellas verdes seguidas para lograr
         la máxima puntuación.
 
+<!-- i18n:faq:id=faq:guns-n-bottles:q-what-happens-if-i-8db9dc54 -->
 *   **P: ¿Qué pasa si fallo una botella o le doy a una roja?**
     *   **R:** En ambos casos la partida termina, se registra tu puntuación y tendrás
         que empezar de nuevo.
 
+<!-- i18n:faq:id=faq:guns-n-bottles:q-how-do-i-aim-4547fcfc -->
 *   **P: ¿Cómo apunto exactamente?**
     *   **R:** No controlas directamente la mira: la pistola gira sola. Tu habilidad
         está en disparar justo cuando el cañón pasa por el ángulo adecuado.
+

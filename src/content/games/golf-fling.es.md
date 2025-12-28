@@ -18,6 +18,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Golf Fling es un divertido y exigente puzle de física que reinventa la forma de
@@ -27,6 +28,7 @@ objetivo es meter la bola en el hoyo con el menor número de lanzamientos
 posible. Esquiva obstáculos, aprovecha el terreno y domina el arte del fling
 para convertirte en un auténtico campeón.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1. **Apunta con cuidado:** Antes de lanzar, una línea indicadora muestra la
@@ -44,22 +46,28 @@ para convertirte en un auténtico campeón.
 5. **Busca el Par:** Cada nivel tiene un par, el número de lanzamientos
    previstos. Intenta igualarlo o mejorarlo para conseguir la mejor puntuación.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - **Apuntar y fijar potencia:** Haz clic y mantén pulsado sobre la bola. Arrastra
   hacia atrás para definir potencia y dirección.
 - **Lanzar:** Suelta el botón del ratón para ejecutar el disparo.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:golf-fling:q-what-is-the-goal-ab58581b -->
 *   **P: ¿Cuál es el objetivo del juego?**
     *   **R:** Meter la bola en el hoyo de cada nivel usando el menor número de
         lanzamientos posible.
 
+<!-- i18n:faq:id=faq:golf-fling:q-how-do-i-get-4db2f6d0 -->
 *   **P: ¿Cómo mejoro la puntuación?**
     *   **R:** Tu puntuación se basa en los golpes que usas frente al par del hoyo.
         Hacer hoyo en uno o quedar por debajo del par te da los mejores resultados.
 
+<!-- i18n:faq:id=faq:golf-fling:q-can-i-make-the-b0b9a190 -->
 *   **P: ¿Puedo hacer que la bola curve?**
     *   **R:** En este tipo de juego normalmente no puedes añadir efecto después del
         lanzamiento; todo el control viene del ángulo y la potencia iniciales.
+

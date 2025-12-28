@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Guess Their Answer funciona como un juego de encuestas tipo "Family Feud".
@@ -26,6 +27,7 @@ la popularidad: las respuestas muy comunes puntúan mucho, mientras que las
 respuestas ingeniosas pero poco frecuentes apenas suman. La clave no es el
 conocimiento nicho, sino **pensar como la media** de los encuestados.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1. **Empieza por grandes categorías:** Personas, objetos, acciones… y luego
@@ -40,21 +42,27 @@ conocimiento nicho, sino **pensar como la media** de los encuestados.
 5. **En duelo directo:** Intenta “bloquear” pronto las respuestas evidentes que
    tu rival también intentaría.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - Escribe tus respuestas con el teclado y pulsa Enter para enviarlas; el juego
   las contrasta con su lista de popularidad.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:guess-their-answer:my-clever-answers-dont-score-f98a6e64 -->
 - **P: Mis respuestas ingeniosas no puntúan, ¿por qué?**  
   **R:** El sistema premia las respuestas comunes. Cambia el enfoque hacia
   objetos, acciones o conceptos muy familiares.
 
+<!-- i18n:faq:id=faq:guess-their-answer:are-misspellings-accepted-30fab425 -->
 - **P: ¿Acepta faltas de ortografía?**  
   **R:** Algunas variantes corrigen automáticamente; otras exigen que la
   ortografía sea correcta o muy aproximada.
 
+<!-- i18n:faq:id=faq:guess-their-answer:any-hint-system-83b1a6f0 -->
 - **P: ¿Hay sistema de pistas?**  
   **R:** En ciertos modos se ofrecen pistas de letras o indicaciones sobre la
   amplitud de la categoría.
+

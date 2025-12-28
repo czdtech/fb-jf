@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Descripción general
 
 Gold Miner es un juego arcade basado en el timing: una garra oscilante cae
@@ -25,6 +26,7 @@ diamantes son ligeros y valiosos. Cada nivel tiene un objetivo de dinero con
 límite de tiempo, y la tienda ofrece dinamita, pociones de fuerza y tréboles de
 la suerte para las fases más difíciles.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 - Suelta la garra cuando el arco se alinee con el objeto que quieres.
@@ -32,6 +34,7 @@ la suerte para las fases más difíciles.
   rocas que no te interesen.
 - Compra mejoras entre rondas para alcanzar metas de dinero más altas.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - Una tecla o clic para soltar la garra; teclas adicionales para usar objetos
@@ -46,14 +49,19 @@ la suerte para las fases más difíciles.
 - Diamantes y bolsas misteriosas suelen tener el mejor retorno; ajusta tus
   prioridades según la distribución del nivel.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:gold-miner:how-do-i-reach-high-9711f37a -->
 - **P: ¿Cómo llego a los objetivos tan altos de los últimos niveles?**  
   **R:** Compra fuerza y bombas, y céntrate en rutas con varios diamantes.
 
+<!-- i18n:faq:id=faq:gold-miner:does-dynamite-refund-time-on-abeb9737 -->
 - **P: ¿La dinamita me devuelve el tiempo perdido con las rocas?**  
   **R:** Anula el arrastre de ese objeto y te permite volver a jugar más rápido.
 
+<!-- i18n:faq:id=faq:gold-miner:are-layouts-random-each-run-07e876fe -->
 - **P: ¿Los objetos se colocan siempre igual?**  
   **R:** Muchas versiones aleatorizan la distribución dentro de ciertos límites
   de dificultad.
+

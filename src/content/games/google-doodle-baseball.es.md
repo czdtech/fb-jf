@@ -15,6 +15,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Descripción general
 
 El doodle de béisbol de Google te pone en la piel del bateador frente a una
@@ -23,6 +24,7 @@ sencillos, dobles o jonrones, mientras unos jardineros cómicos intentan atrapar
 los elevados. No hay defensa que gestionar: céntrate solo en batear con
 consistencia y elegir bien dónde mandar la bola.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 - Observa el movimiento del lanzador y la velocidad de la pelota; batea cuando
@@ -32,6 +34,7 @@ consistencia y elegir bien dónde mandar la bola.
 - Evita los globos; las líneas rasas encuentran los huecos con mucha más
   frecuencia.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - Toca, haz clic o pulsa la barra espaciadora para hacer swing.
@@ -44,15 +47,20 @@ consistencia y elegir bien dónde mandar la bola.
   pasando por encima del infield.
 - Tras un fallo, recobra el ritmo; si te precipitas, encadenarás más errores.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:google-doodle-baseball:how-do-i-hit-consistent-4a31e439 -->
 - **P: ¿Cómo puedo conectar jonrones de forma constante?**  
   **R:** Contacta con la bola un poco adelantado y a la altura de la cintura;
   si golpeas demasiado alto, será un elevado fácil.
 
+<!-- i18n:faq:id=faq:google-doodle-baseball:does-pitch-speed-change-during-147f3a73 -->
 - **P: ¿La velocidad de los lanzamientos cambia durante la partida?**  
   **R:** Sí, la velocidad varía; ajusta tu punto de inicio del swing según el
   ritmo de cada lanzamiento.
 
+<!-- i18n:faq:id=faq:google-doodle-baseball:is-progress-saved-2fd2b251 -->
 - **P: ¿Se guarda el progreso?**  
   **R:** Las puntuaciones suelen quedar solo en la sesión actual.
+

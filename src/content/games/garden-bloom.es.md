@@ -16,6 +16,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Garden Bloom es un juego relajante y creativo que mezcla de forma muy cuidada
@@ -27,6 +28,7 @@ concretos. Superar un nivel te otorga estrellas, que funcionan como moneda para
 realizar tareas en el jardín: limpiar zonas, plantar flores y colocar
 decoraciones.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego y recorrido
 
 1. **Una experiencia en dos partes:**  
@@ -53,6 +55,7 @@ decoraciones.
       distintos para cada decoración (por ejemplo, tres tipos de bancos). Escoge
       la opción que mejor encaje con la visión que tienes para tu jardín.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - **En los puzles:** Usa el ratón o el dedo para intercambiar dos piezas
@@ -62,18 +65,23 @@ decoraciones.
   izquierda) para ver qué queda por hacer. Haz clic en una tarea para gastar
   una estrella y completarla.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:garden-bloom:q-how-do-i-earn-8ce8a9aa -->
 *   **P: ¿Cómo consigo estrellas?**
     *   **R:** Solo puedes ganar estrellas superando niveles de puzle. Normalmente
         cada nivel completado te da una estrella.
 
+<!-- i18n:faq:id=faq:garden-bloom:q-what-happens-if-i-11d5ea2b -->
 *   **P: ¿Qué pasa si me quedo sin movimientos en un nivel?**
     *   **R:** Si no logras el objetivo dentro del límite de movimientos, pierdes una
         vida. Puedes esperar a que se recarguen con el tiempo o gastar monedas del
         juego para conseguir movimientos extra o recuperar vidas.
 
+<!-- i18n:faq:id=faq:garden-bloom:q-can-i-change-the-e2a73e9c -->
 *   **P: ¿Puedo cambiar una decoración que ya coloqué?**
     *   **R:** En muchos juegos de este tipo, una vez eliges un diseño queda fijado.
         Para cambiarlo, normalmente debes mantener pulsado el objeto y gastar monedas
         para sustituirlo.
+

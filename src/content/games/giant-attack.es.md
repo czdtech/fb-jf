@@ -16,6 +16,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Giant Attack es un trepidante juego de acción en el que te enfrentas a
@@ -26,6 +27,7 @@ recoges hace que tu personaje crezca en tamaño y fuerza, permitiéndote lanzar
 proyectiles cada vez más poderosos y derribar a los gigantes antes de que te
 aplasten.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1. **Reúne y crece:** Tu objetivo principal es mover al personaje para recoger
@@ -43,6 +45,7 @@ aplasten.
    tus proyectiles impacten de forma constante en el gigante para vaciar su
    barra de vida.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 Los controles son muy sencillos e intuitivos.
@@ -53,18 +56,23 @@ Los controles son muy sencillos e intuitivos.
 - **Ataque:** Los ataques son automáticos; mientras estés vivo, tu personaje
   lanzará armas continuamente contra el enemigo.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:giant-attack:q-how-do-i-attack-4078c9e1 -->
 *   **P: ¿Cómo ataco al gigante?**
     *   **R:** No hace falta pulsar ningún botón para atacar; tu héroe lo hace
         automáticamente. Tu tarea es centrarte en el movimiento: recoger aliados
         y esquivar.
 
+<!-- i18n:faq:id=faq:giant-attack:q-why-am-i-not-380e63ac -->
 *   **P: ¿Por qué hago tan poco daño?**
     *   **R:** Necesitas hacerte más grande. Cuantos más aliados recojas, más grande y
         poderoso será tu personaje y más daño infligirán tus ataques. Si te mantienes
         pequeño, tus golpes serán demasiado débiles.
 
+<!-- i18n:faq:id=faq:giant-attack:q-how-do-i-win-c06399aa -->
 *   **P: ¿Cómo gano un nivel?**
     *   **R:** Ganas cuando reduces la barra de vida del gigante a cero antes de que él
         te derrote.
+

@@ -16,6 +16,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Get 10 Ultimate es un juego de puzle numérico sencillo en apariencia pero muy
@@ -27,6 +28,7 @@ primer reto es alcanzar el número 10, pero el verdadero objetivo es seguir
 fusionando durante el mayor tiempo posible para lograr la cifra y la
 puntuación máximas.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1. **Piensa antes de pulsar:** Cada toque cambia por completo la disposición
@@ -43,6 +45,7 @@ puntuación máximas.
    que se desplacen más casillas, lo que aumenta las posibilidades de generar
    nuevas combinaciones de forma accidental.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 El juego se maneja con un solo clic o toque.
@@ -51,17 +54,22 @@ El juego se maneja con un solo clic o toque.
   adyacentes con el mismo número. El grupo se fusionará en la posición sobre la
   que has pulsado.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:get-10-ultimate:q-what-is-the-goal-ab58581b -->
 *   **P: ¿Cuál es el objetivo del juego?**
     *   **R:** El primer objetivo es crear una casilla con el número 10. Después,
         se trata de seguir fusionando para conseguir el número y la puntuación
         más altos posibles antes de que el tablero se bloquee.
 
+<!-- i18n:faq:id=faq:get-10-ultimate:q-how-does-the-game-f20a1993 -->
 *   **P: ¿Cuándo termina la partida?**
     *   **R:** Cuando ya no quedan movimientos posibles, es decir, cuando no hay dos
         casillas adyacentes con el mismo número en todo el tablero.
 
+<!-- i18n:faq:id=faq:get-10-ultimate:q-does-the-new-tile-b1b15db8 -->
 *   **P: ¿La nueva casilla aparece en un lugar aleatorio?**
     *   **R:** No. La casilla resultante aparece exactamente en la posición del grupo
         en la que hiciste clic.
+

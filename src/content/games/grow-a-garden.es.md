@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### **Introducción del juego Grow a Garden**
 
 "Grow a Garden" es un nombre general para una categoría de juegos de simulación
@@ -42,6 +43,7 @@ menudo incluyen los siguientes elementos:
 *   **Decoración y personalización**: una selección amplia de objetos decorativos te
     permite diseñar y organizar la distribución del jardín a tu gusto.
 
+<!-- i18n:section:tips -->
 ### **Estrategia y consejos**
 
 1.  **Gestiona tu tiempo y recursos**: al principio, tu dinero y energía (si el juego
@@ -70,6 +72,7 @@ menudo incluyen los siguientes elementos:
     periódicos (flores raras, pedidos festivos). Participar suele dar recompensas
     valiosas difíciles de conseguir en el juego normal.
 
+<!-- i18n:section:controls -->
 ### **Guía de controles**
 
 Los controles suelen basarse en clics y arrastres sencillos.
@@ -84,24 +87,30 @@ Los controles suelen basarse en clics y arrastres sencillos.
     *   Mantén pulsada una herramienta como la regadera y arrástrala sobre varias parcelas para realizar la acción de forma continua (por ejemplo, regar).
     *   Mueve y coloca decoraciones en tu jardín.
 
+<!-- i18n:section:faq -->
 ### **Preguntas frecuentes (FAQ)**
 
+<!-- i18n:faq:id=faq:grow-a-garden:should-i-buy-seeds-or-11182d2c -->
 **1. ¿Debería comprar semillas o decoraciones primero?**
 En las primeras horas, **prioriza siempre las semillas y la expansión del terreno**.
 Las decoraciones hacen que el jardín se vea bien, pero no generan ingresos. Deja la
 estética para cuando tengas un flujo de dinero estable.
 
+<!-- i18n:faq:id=faq:grow-a-garden:why-did-my-plants-wither-ac609727 -->
 **2. ¿Por qué se marchitaron mis plantas?**
 En algunos juegos, si las plantas no se riegan o no se cosechan a tiempo tras madurar,
 se marchitan. Esto reduce beneficios o incluso hace perder la cosecha. Presta atención
 a los ciclos de crecimiento y necesidades de cada planta.
 
+<!-- i18n:faq:id=faq:grow-a-garden:how-can-i-make-money-e28ea240 -->
 **3. ¿Cómo puedo ganar dinero rápidamente?**
 La forma más rápida es completar pedidos de alto valor y plantar los cultivos más
 rentables que esos pedidos requieran. Además, procura que tu cadena de producción
 (plantar -> cuidar -> cosechar) no se interrumpa para maximizar el uso del terreno.
 
+<!-- i18n:faq:id=faq:grow-a-garden:does-the-game-need-to-b46d6202 -->
 **4. ¿El juego necesita estar siempre online?**
 La mayoría de juegos modernos de jardinería permiten **crecimiento offline**: el tiempo
 sigue avanzando aunque cierres el juego, y las plantas continúan creciendo. Por eso se
 recomienda plantar cultivos de ciclo largo antes de desconectarte.
+

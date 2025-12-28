@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Descripción general
 
 Getaway Shootout es un plataformas competitivo con físicas locas en el que los
@@ -26,6 +27,7 @@ artilugios de humor físico para fastidiar a tus rivales. El control torpe es
 parte del encanto: dominar la sincronización de los saltos, el impulso en las cuestas y
 los cambios de dirección en el aire es lo que gana carreras.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 - Alterna los saltos para ganar velocidad; usa toques cortos para pasos
@@ -34,6 +36,7 @@ los cambios de dirección en el aire es lo que gana carreras.
   utilízalos con cabeza.
 - Aprende atajos y ciclos de plataformas móviles para mantener la ventaja.
 
+<!-- i18n:section:controls -->
 ### Controles
 
 - Dos teclas para saltar hacia la izquierda/derecha y otras teclas separadas
@@ -49,16 +52,21 @@ los cambios de dirección en el aire es lo que gana carreras.
 - Practica las salidas; una aceleración temprana suele decidir las carreras más
   igualadas.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:getaway-shootout:how-do-i-move-faster-14a9bc8f -->
 - **P: ¿Cómo me muevo más rápido con controles tan torpes?**  
   **R:** Alterna saltos largos y cortos y aprovecha las pendientes para ganar
   inercia.
 
+<!-- i18n:faq:id=faq:getaway-shootout:can-i-play-with-a-869ffc2c -->
 - **P: ¿Puedo jugar con un amigo en el mismo teclado?**  
   **R:** Sí, la mayoría de versiones asignan un segundo esquema de controles
   para multijugador local.
 
+<!-- i18n:faq:id=faq:getaway-shootout:do-weapons-respawn-during-a-dd5eee55 -->
 - **P: ¿Las armas reaparecen durante la ronda?**  
   **R:** Las cajas suelen reaparecer tras un tiempo; memoriza sus posiciones
   para planificar la ruta.
+

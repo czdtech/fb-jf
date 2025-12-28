@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Gold Miner Tom es un arcade clásico que pone a prueba tu timing y tu precisión.
@@ -27,6 +28,7 @@ límite de tiempo. Atrapando pepitas de oro, diamantes brillantes y misteriosas
 bolsas sorpresa llenarás tu bolsa, pero ten cuidado con las rocas sin valor que
 solo harán que pierdas segundos preciosos.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1. **El tiempo lo es todo:** La garra se balancea de un lado a otro sin parar.
@@ -46,6 +48,7 @@ solo harán que pierdas segundos preciosos.
    atrapado por error. Las pociones de fuerza te ayudan a subir objetos pesados
    más rápido.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 El juego utiliza un esquema de control muy sencillo de un solo toque.
@@ -55,16 +58,21 @@ El juego utiliza un esquema de control muy sencillo de un solo toque.
 - **Usar dinamita:** Si tienes dinamita y has enganchado un objeto, aparecerá
   un botón. Haz clic para destruir lo que llevas en la garra.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:gold-miner-tom:q-what-is-the-goal-7ed4507e -->
 *   **P: ¿Cuál es el objetivo de cada nivel?**
     *   **R:** Ganar suficiente dinero para alcanzar la cantidad objetivo antes de que
         se acabe el tiempo.
 
+<!-- i18n:faq:id=faq:gold-miner-tom:q-why-is-my-claw-53378ca1 -->
 *   **P: ¿Por qué mi garra sube tan despacio?**
     *   **R:** Seguramente hayas atrapado una roca grande y pesada. Valen muy poco y
         deberías evitarlas. Si tienes dinamita, es un buen momento para usarla.
 
+<!-- i18n:faq:id=faq:gold-miner-tom:q-what-happens-if-i-9e9ed57b -->
 *   **P: ¿Qué pasa si no llego al objetivo de dinero a tiempo?**
     *   **R:** Si el temporizador llega a cero y no has alcanzado la meta, la partida
         termina.
+

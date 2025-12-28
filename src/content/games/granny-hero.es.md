@@ -15,6 +15,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Granny Hero es un runner desenfadado en el que una abuela sorprendentemente
@@ -23,6 +24,7 @@ para ayudar a sus vecinos. Te esperan cambios de carril, timings de salto y
 deslizamiento y gadgets ocasionales (patinetes, paraguas, sartenes…) que te
 dan invulnerabilidad temporal o control de masas.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1. **Visión de carril:** Mantén la vista dos obstáculos por delante para
@@ -36,6 +38,7 @@ dan invulnerabilidad temporal o control de masas.
 5. **Recuperación:** Tras un error, vuelve a centrarte en recuperar el ritmo
    antes de volver a arriesgar por puntuación.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - Cambiar de carril: A/D o Flechas Izquierda/Derecha.  
@@ -43,16 +46,21 @@ dan invulnerabilidad temporal o control de masas.
 - Deslizarse: Flecha Abajo.  
 - Gadgets: teclas dedicadas según el portal.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:granny-hero:i-keep-clipping-cones-any-dacced33 -->
 - **P: Siempre me llevo por delante conos y pequeños obstáculos, ¿algún truco?**  
   **R:** Salta un pelín más tarde y vuelve al centro del carril tras cada
   obstáculo para mantener más opciones.
 
+<!-- i18n:faq:id=faq:granny-hero:are-gadgets-necessary-d17244e9 -->
 - **P: ¿Son imprescindibles los gadgets?**  
   **R:** Funcionan como red de seguridad; úsalos en zonas donde la densidad de
   obstáculos se dispare.
 
+<!-- i18n:faq:id=faq:granny-hero:endless-ea2091be -->
 - **P: ¿El modo principal es infinito?**  
   **R:** En la mayoría de versiones sí, con misiones que se van apilando sobre
   el recorrido infinito.
+

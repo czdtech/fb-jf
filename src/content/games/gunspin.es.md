@@ -15,6 +15,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Descripción general
 
 Gunspin convierte el retroceso en movimiento: cada disparo hace girar y
@@ -23,6 +24,7 @@ monedas y peligros. Gestionar bien el ángulo y el momento del disparo te
 permite planear grandes distancias y encadenar recogidas; las mejoras añaden
 potencia de fuego y control.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 - Dispara con ángulos bajos para mantener la velocidad hacia delante.
@@ -30,6 +32,7 @@ potencia de fuego y control.
 - Usa las monedas para comprar armas que encajen con tu estilo (dispersión vs.
   precisión).
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - Ratón o barra espaciadora para disparar; el timing y la dirección del disparo
@@ -42,14 +45,19 @@ potencia de fuego y control.
   delante sin frenar en seco.
 - Aprovecha las superficies de rebote para corregir y refrescar la trayectoria.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:gunspin:how-do-i-keep-momentum-033bdb85 -->
 - **P: ¿Cómo mantengo el impulso sin quedarme parado?**  
   **R:** Dispara con ángulos poco inclinados hacia atrás y usando pulsaciones
   cortas.
 
+<!-- i18n:faq:id=faq:gunspin:what-upgrades-help-most-early-26d182f8 -->
 - **P: ¿Qué mejoras conviene comprar al principio?**  
   **R:** Más capacidad de munición y retroceso más controlable.
 
+<!-- i18n:faq:id=faq:gunspin:is-there-an-end-to-5b0d22c9 -->
 - **P: ¿Los niveles tienen final?**  
   **R:** Es un juego basado en distancia; el objetivo es batir tu mejor marca.
+

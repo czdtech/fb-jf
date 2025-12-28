@@ -11,9 +11,11 @@ thumbnail: /new-images/thumbnails/geometry-dash.png
 tags:
   - geometry dash
 score: 4.5/5  (604 votes)
+releaseDate: 2025-12-04
 ---
 
 
+<!-- i18n:section:introduction -->
 Olvídate de los adornos. Esto no es un paseíto cualquiera por Geometry Dash.
 Es un desafío puro, solo en modo Wave, diseñado para destrozarte y volverte a
 forjar más fino que nunca. Hemos eliminado portales, pads de salto y monedas:
@@ -41,3 +43,4 @@ concentración.
 - **Intentos cortos e intensos:** El nivel está pensado para intentos rápidos y
   explosivos. Aprende, adáptate y vuelve a intentarlo una y otra vez, cada vez
   más rápido y preciso.
+

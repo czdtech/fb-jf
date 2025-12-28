@@ -17,12 +17,14 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Descripción general
 
 G-Switch es un runner automático en el que cambias la gravedad. Con cada pulsación
 inviertes la gravedad para aterrizar en la siguiente superficie mientras el
 ritmo se acelera.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 - Cambia justo antes de los bordes para superar los huecos con limpieza.
@@ -30,6 +32,7 @@ ritmo se acelera.
   demasiado tarde.
 - Suelen existir tanto modos infinitos como niveles diseñados.
 
+<!-- i18n:section:controls -->
 ### Controles
 
 - Una tecla o toque para invertir la gravedad; en multijugador cada jugador
@@ -42,16 +45,21 @@ ritmo se acelera.
 - En multijugador, observa los cambios de tus rivales para predecir las
   trampas que vienen.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:g-switch:why-do-i-miss-short-7fedeaef -->
 - **P: ¿Por qué fallo tanto en las plataformas cortas?**  
   **R:** Sueles cambiar demasiado tarde; prueba a invertir la gravedad un poco
   antes del borde.
 
+<!-- i18n:faq:id=faq:g-switch:does-the-game-support-multipla-5008154d -->
 - **P: ¿El juego tiene multijugador?**  
   **R:** Muchas versiones incluyen multijugador local con varias teclas
   asignadas.
 
+<!-- i18n:faq:id=faq:g-switch:are-level-layouts-fixed-a5df4df6 -->
 - **P: ¿Los niveles son siempre iguales?**  
   **R:** Algunos modos usan niveles diseñados a mano y otros ofrecen tramos
   infinitos generados de forma procedimental.
+

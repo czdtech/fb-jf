@@ -19,6 +19,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 Geometry Dash Wave es un exigente juego de plataformas de ritmo que representa uno de los
@@ -40,12 +41,16 @@ para sortear obstáculos cambiando la trayectoria diagonal del icono.
 - **Inversión de gravedad:** En algunos niveles o secciones la gravedad se
   invierte, lo que invierte también el comportamiento del wave.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Spacebar` `Up Arrow Key` `Left Mouse Button`
 
-- **PC:** `Barra espaciadora`, `Flecha Arriba` o clic con el ratón para
+- **PC:** Barra espaciadora, Flecha Arriba o clic con el ratón para
   controlar el movimiento en wave.
 - **Móvil:** Toca y mantén el dedo sobre la pantalla para controlar el wave.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
 **¿Cuál es el objetivo principal de Geometry Dash Wave?**  
@@ -60,3 +65,4 @@ Geometry Dash, muy usado en niveles creados por la comunidad.
 La práctica es fundamental. Presta atención tanto a la música como a las pistas
 visuales del nivel. Empieza con niveles más lentos para familiarizarte con la
 mecánica wave antes de intentar pistas más rápidas o complejas.
+

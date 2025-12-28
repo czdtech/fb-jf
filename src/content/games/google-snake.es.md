@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Descripción general
 
 Google Snake actualiza la fórmula clásica con gráficos limpios y modos
@@ -23,6 +24,7 @@ opcionales. Come fruta para crecer mientras evitas las paredes y tu propia cola.
 La velocidad aumenta cuanto más tiempo sobrevives, y las variantes modifican el
 tamaño del tablero, los obstáculos y los efectos de algunos ítems.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 - Traza rutas que dejen siempre vías de escape; nunca te encierres a ti mismo.
@@ -30,6 +32,7 @@ tamaño del tablero, los obstáculos y los efectos de algunos ítems.
   solo para recoger comida.
 - Adáptate a los ítems especiales y modos que tenga activados cada portal.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - Flechas o WASD para dirigir la serpiente; pausa y reinicio desde la interfaz.
@@ -40,16 +43,21 @@ tamaño del tablero, los obstáculos y los efectos de algunos ítems.
 - Mantén la cola lo más recta posible para conservar más opciones de ruta.
 - Cuando el juego vaya rápido, introduce los giros una casilla antes.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:google-snake:how-can-i-avoid-running-bf744697 -->
 - **P: ¿Cómo evito chocar con mi propia cola?**  
   **R:** Mantén la cola compacta con tramos rectos y evita espirales demasiado
   cerradas.
 
+<!-- i18n:faq:id=faq:google-snake:does-the-game-get-faster-e76218ed -->
 - **P: ¿El juego se acelera con el tiempo?**  
   **R:** Sí, la mayoría de versiones incrementan la velocidad a medida que sube
   tu puntuación.
 
+<!-- i18n:faq:id=faq:google-snake:are-there-different-board-setu-40b930d4 -->
 - **P: ¿Hay distintos tipos de tablero?**  
   **R:** Muchos portales ofrecen varios tamaños de mapa, diferentes obstáculos y
   variaciones de ítems.
+

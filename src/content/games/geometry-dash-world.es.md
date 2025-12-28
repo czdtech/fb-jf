@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Descripción general
 
 Geometry Dash World destila la esencia del juego de plataformas de ritmo en dos
@@ -28,6 +29,7 @@ secciones con puntos de control antes de intentar una pasada perfecta. Aunque es
 corto que la serie principal, World apuesta por la iteración rápida, patrones
 claros y la persecución de récords con monedas y tiempos.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 - Toca/salta exactamente al compás para superar pinchos y sierras; mantén
@@ -37,6 +39,7 @@ claros y la persecución de récords con monedas y tiempos.
 - Usa el modo práctica para dividir las secciones difíciles en tramos
   repetibles.
 
+<!-- i18n:section:controls -->
 ### Controles
 
 - Barra espaciadora, ratón o pantalla táctil para saltar; mantén pulsado para
@@ -51,14 +54,19 @@ claros y la persecución de récords con monedas y tiempos.
 - Activa el modo práctica para memorizar la sincronización de anillos difíciles y
   luego haz una carrera limpia en modo normal.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:geometry-dash-world:does-geometry-dash-world-inclu-a591d92b -->
 - **P: ¿Geometry Dash World incluye niveles creados por usuarios?**  
   **R:** Se centra en niveles curados; algunos portales muestran niveles diarios
   y selecciones de la comunidad.
 
+<!-- i18n:faq:id=faq:geometry-dash-world:how-do-i-unlock-gated-9239b0e4 -->
 - **P: ¿Cómo desbloqueo los nodos bloqueados?**  
   **R:** Gastando orbes y llaves que obtienes al completar niveles y desafíos diarios.
 
+<!-- i18n:faq:id=faq:geometry-dash-world:can-i-place-checkpoints-fd7bb868 -->
 - **P: ¿Puedo colocar puntos de control?**  
   **R:** El modo práctica sí permite puntos de control; las pasadas en modo normal no.
+
