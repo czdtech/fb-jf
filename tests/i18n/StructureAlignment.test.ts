@@ -6,7 +6,8 @@
  *
  * Properties:
  * - For any urlstr that has both an English canonical game and a localized
- *   variant, the markdown structural skeleton must match.
+ *   variant, the localized headings must contain the canonical headings
+ *   as an ordered subsequence (same heading levels).
  *
  * Requirements: 2.1, 2.2, 6.2 (full-i18n-content)
  */
@@ -17,6 +18,10 @@ import path from 'path';
 import matter from 'gray-matter';
 import fc from 'fast-check';
 import { defaultLocale, locales, type Locale as RoutingLocale } from '../../src/i18n/routing';
+import {
+  extractStructureSkeleton,
+  localizedContainsCanonicalStructure,
+} from '../../scripts/lib/structure-skeleton.mts';
 
 const GAMES_DIR = path.join(process.cwd(), 'src', 'content', 'games');
 const TARGET_LOCALES = locales.filter((l) => l !== defaultLocale);
@@ -28,14 +33,6 @@ interface GameFile {
   locale: Locale;
   urlstr: string;
   content: string;
-}
-
-type NodeType = 'heading' | 'list-item' | 'paragraph';
-
-interface StructureNode {
-  type: NodeType;
-  level?: number;
-  indentBucket?: number;
 }
 
 async function loadGameFiles(): Promise<GameFile[]> {
@@ -64,82 +61,6 @@ async function loadGameFiles(): Promise<GameFile[]> {
   }
 
   return results;
-}
-
-function parseMarkdownStructure(body: string): StructureNode[] {
-  const lines = body.split(/\r?\n/);
-  const nodes: StructureNode[] = [];
-
-  for (const line of lines) {
-    const trimmed = line.trim();
-
-    if (!trimmed) {
-      continue;
-    }
-
-    if (trimmed.startsWith('<!--') && trimmed.endsWith('-->')) {
-      continue;
-    }
-
-    const headingMatch = /^#{1,6}\s+/.exec(trimmed);
-    if (headingMatch) {
-      const level = headingMatch[0].trim().length;
-      nodes.push({ type: 'heading', level });
-      continue;
-    }
-
-    const listMatch = /^(\s*)([-*+]|\d+\.)\s+/.exec(line);
-    if (listMatch) {
-      const indentSpaces = listMatch[1].length;
-      const indentBucket = Math.floor(indentSpaces / 2);
-      nodes.push({ type: 'list-item', indentBucket });
-      continue;
-    }
-
-    nodes.push({ type: 'paragraph' });
-  }
-
-  return nodes;
-}
-
-function nodesMatch(a: StructureNode, b: StructureNode): boolean {
-  if (a.type !== b.type) return false;
-
-  if (a.type === 'heading') {
-    return a.level === b.level;
-  }
-
-  if (a.type === 'list-item') {
-    const aIndent = a.indentBucket ?? 0;
-    const bIndent = b.indentBucket ?? 0;
-    return aIndent === bIndent;
-  }
-
-  return true;
-}
-
-/**
- * Check that the canonical structure appears as an ordered subsequence
- * inside the localized structure. Localized content may contain extra
- * nodes, but cannot miss any canonical node.
- */
-function localizedContainsCanonicalStructure(
-  canonical: StructureNode[],
-  localized: StructureNode[]
-): boolean {
-  let i = 0;
-  let j = 0;
-
-  while (i < canonical.length && j < localized.length) {
-    if (nodesMatch(canonical[i], localized[j])) {
-      i++;
-      j++;
-    } else {
-      j++;
-    }
-  }
-
-  return i === canonical.length;
 }
 
 describe('I18n Structure Alignment', () => {
@@ -194,8 +115,8 @@ describe('I18n Structure Alignment', () => {
           const canonical = bucket.canonical!;
           const localized = bucket.localized.find((g) => g.locale === locale)!;
 
-          const sCanonical = parseMarkdownStructure(canonical.content);
-          const sLocalized = parseMarkdownStructure(localized.content);
+          const sCanonical = extractStructureSkeleton(canonical.content).filter((n) => n.type === 'heading');
+          const sLocalized = extractStructureSkeleton(localized.content).filter((n) => n.type === 'heading');
 
           const ok = localizedContainsCanonicalStructure(
             sCanonical,

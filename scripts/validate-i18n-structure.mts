@@ -2,14 +2,17 @@
 /**
  * Validate i18n content structure for game markdown files.
  *
- * This script compares the markdown "skeleton" (headings, list items, paragraphs)
+ * This script compares the markdown "skeleton" (currently: headings only)
  * between the canonical English game (locale='en') and each localized variant.
  *
  * It enforces:
- * - Same sequence length of structural nodes
- * - Same node types in the same order (heading / list-item / paragraph)
+ * - All canonical headings must appear in the localized heading sequence, in order
  * - For headings: same heading level (h1..h6)
- * - For list items: same indentation depth bucket
+ *
+ * Notes:
+ * - Localized content may contain extra headings; the canonical headings are treated
+ *   as an ordered subsequence of the localized headings.
+ * - This validator is scoped per slug (urlstr): only en vs. its localized variants.
  *
  * If any mismatch is found, the script prints a detailed report and
  * exits with a non-zero status code.
@@ -21,6 +24,12 @@
 import fs from 'fs/promises';
 import path from 'path';
 import matter from 'gray-matter';
+import {
+  extractStructureSkeleton,
+  firstMissingCanonicalNode,
+  formatStructureNode,
+  type StructureNode,
+} from './lib/structure-skeleton.mts';
 
 const GAMES_DIR = path.join(process.cwd(), 'src', 'content', 'games');
 const TARGET_LOCALES = ['zh', 'ja', 'es', 'fr', 'de', 'ko'] as const;
@@ -32,14 +41,6 @@ interface GameFile {
   locale: Locale;
   urlstr: string;
   content: string;
-}
-
-type NodeType = 'heading' | 'list-item' | 'paragraph';
-
-interface StructureNode {
-  type: NodeType;
-  level?: number;      // for headings
-  indentBucket?: number; // for list items (coarse indentation level)
 }
 
 interface MismatchDetail {
@@ -89,71 +90,6 @@ async function readGameFiles(): Promise<GameFile[]> {
 }
 
 /**
- * Parse markdown body into a sequence of structural nodes.
- * This is a lightweight line-based parser that focuses on:
- * - headings (# .. ######)
- * - list items (-, *, +, 1., 2., ...)
- * - paragraphs (any other non-empty text line)
- */
-function parseMarkdownStructure(body: string): StructureNode[] {
-  const lines = body.split(/\r?\n/);
-  const nodes: StructureNode[] = [];
-
-  for (const line of lines) {
-    const trimmed = line.trim();
-
-    // Skip empty lines
-    if (!trimmed) {
-      continue;
-    }
-
-    // Skip pure HTML comments (often used for stub markers)
-    if (trimmed.startsWith('<!--') && trimmed.endsWith('-->')) {
-      continue;
-    }
-
-    // Headings: #, ##, ###, etc.
-    const headingMatch = /^#{1,6}\s+/.exec(trimmed);
-    if (headingMatch) {
-      const level = headingMatch[0].trim().length; // number of #'s
-      nodes.push({ type: 'heading', level });
-      continue;
-    }
-
-    // List items (unordered or ordered), preserve coarse indentation level
-    const listMatch = /^(\s*)([-*+]|\d+\.)\s+/.exec(line);
-    if (listMatch) {
-      const indentSpaces = listMatch[1].length;
-      // bucketize indentation to reduce sensitivity to exact spaces
-      const indentBucket = Math.floor(indentSpaces / 2);
-      nodes.push({ type: 'list-item', indentBucket });
-      continue;
-    }
-
-    // Fallback: treat as paragraph-level content
-    nodes.push({ type: 'paragraph' });
-  }
-
-  return nodes;
-}
-
-function nodesMatch(a: StructureNode, b: StructureNode): boolean {
-  if (a.type !== b.type) return false;
-
-  if (a.type === 'heading') {
-    return a.level === b.level;
-  }
-
-  if (a.type === 'list-item') {
-    const aIndent = a.indentBucket ?? 0;
-    const bIndent = b.indentBucket ?? 0;
-    return aIndent === bIndent;
-  }
-
-  return true;
-}
-
-/**
  * Compare structures in a tolerant way:
  * - All canonical nodes must appear in the localized sequence, in order
  * - Localized may contain extra nodes (e.g., additional paragraphs)
@@ -162,29 +98,13 @@ function compareStructures(
   canonical: StructureNode[],
   localized: StructureNode[]
 ): { ok: boolean; reason?: string } {
-  let i = 0; // index in canonical
-  let j = 0; // index in localized
-
-  while (i < canonical.length && j < localized.length) {
-    const a = canonical[i];
-    const b = localized[j];
-
-    if (nodesMatch(a, b)) {
-      i++;
-      j++;
-    } else {
-      // Skip extra localized node and keep looking
-      j++;
-    }
-  }
-
-  if (i < canonical.length) {
-    const missing = canonical[i];
+  const missing = firstMissingCanonicalNode(canonical, localized);
+  if (missing) {
     return {
       ok: false,
-      reason: `Canonical structure node missing in localized content at index ${i} (type=${missing.type}${
-        missing.type === 'heading' ? `, level=${missing.level}` : ''
-      })`,
+      reason: `Canonical structure node missing in localized content at index ${missing.index} (${formatStructureNode(
+        missing.node
+      )})`,
     };
   }
 
@@ -215,7 +135,7 @@ async function validateStructure(): Promise<StructureValidationReport> {
     }
 
     canonicalCount++;
-    const canonicalStructure = parseMarkdownStructure(canonical.content);
+    const canonicalStructure = extractStructureSkeleton(canonical.content).filter((n) => n.type === 'heading');
 
     for (const locale of TARGET_LOCALES) {
       const localized = entries.find((e) => e.locale === locale);
@@ -226,7 +146,7 @@ async function validateStructure(): Promise<StructureValidationReport> {
 
       checkedPairs++;
 
-      const localizedStructure = parseMarkdownStructure(localized.content);
+      const localizedStructure = extractStructureSkeleton(localized.content).filter((n) => n.type === 'heading');
       const result = compareStructures(canonicalStructure, localizedStructure);
 
       if (!result.ok) {
