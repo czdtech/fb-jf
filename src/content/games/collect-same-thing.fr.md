@@ -3,22 +3,24 @@ locale: fr
 urlstr: collect-same-thing
 title: Collect Same Thing
 description: "Collect Same Thing est un puzzle d’association\_: fais correspondre les mêmes objets, vide la grille par paires et gère l’espace pour ne pas te bloquer."
-iframeSrc: 'https://jsfyqug4ktpe0.h5games.usercontent.goog/v/4pc1fn7u23qlg/'
+iframeSrc: 'https://01cqom45rtuoo.h5games.usercontent.goog/v/6t1iulpqr6t5g/'
 thumbnail: /new-images/thumbnails/collect-same-thing.png
 tags:
   - puzzle
   - thinky
   - casual
-score: 4.0/5  (1603 votes)
+score: 3.8/5  (1582 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation détaillée du jeu
 
 Collect Same Thing te met au défi d’associer des tuiles/objets identiques sous des contraintes d’espace ou de temps. Retirer des paires révèle souvent des couches plus profondes ; la réussite dépend de l’ouverture des « couloirs », de la priorité aux objets rares et de la gestion des singles isolés.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu et progression
 
 1.  Ouvre d’abord les lignes pour révéler les tuiles cachées.
@@ -27,21 +29,27 @@ Collect Same Thing te met au défi d’associer des tuiles/objets identiques sou
 4.  Évite de coincer des tuiles « seules » dans un coin avec peu de partenaires.
 5.  Garde les mélanges/indices pour les urgences.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - Clique/tape pour sélectionner des paires selon les règles du mode.
 - Utilise indice/mélange (si disponible) avec parcimonie.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:collect-same-thing:i-get-stuck-with-no-67b75068 -->
 - Q: Je suis bloqué sans paire — que faire ?
   
   A: Mélange si c’est autorisé, ou recommence avec une ouverture différente qui préserve des couloirs.
 
+<!-- i18n:faq:id=faq:collect-same-thing:timed-or-move-limits-5e0f38ca -->
 - Q: Temps limité ou nombre de coups ?
   
   A: Ça dépend du mode ; joue plus vite pour les chronos et planifie plus profondément quand les coups sont limités.
 
+<!-- i18n:faq:id=faq:collect-same-thing:any-scoring-tips-98d70617 -->
 - Q: Des astuces pour le score ?
   
   A: Enchaîne des paires rapidement pour maintenir des bonus de combo quand le mode en propose.
+

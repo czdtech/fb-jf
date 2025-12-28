@@ -13,10 +13,12 @@ score: 4.8/5  (2345 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation détaillée du jeu
 
 Chess Classic offre l'expérience intemporelle du jeu d'échecs stratégique directement dans ton navigateur. Que tu sois débutant ou joueur expérimenté, tu peux tester tes compétences contre un adversaire informatique avec des niveaux de difficulté ajustables. Le jeu suit les règles internationales standard des échecs, fournissant une plateforme parfaite pour apprendre, pratiquer et maîtriser l'art de l'échec et mat.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu et progression
 
 1.  **Contrôle le centre :** dans l'ouverture, utilise tes pions et pièces pour exercer un contrôle sur les cases centrales (e4, d4, e5, d5). Les pièces au centre ont plus de mobilité et d'influence sur la partie.
@@ -25,19 +27,25 @@ Chess Classic offre l'expérience intemporelle du jeu d'échecs stratégique dir
 4.  **Réfléchis avant de jouer :** vérifie toujours les menaces de ton adversaire avant de faire un coup. Demande-toi ce que le dernier coup de ton adversaire a accompli et ce qu'il pourrait faire ensuite.
 5.  **Connais la valeur des pièces :** comprends la valeur relative des pièces (Pion=1, Cavalier=3, Fou=3, Tour=5, Dame=9). Cela t'aidera à faire de bons échanges et éviter les gaffes.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 *   **Sélection de pièce :** clique sur une pièce pour la sélectionner. Les coups possibles seront surlignés sur le plateau.
 *   **Déplacer une pièce :** clique sur une des cases surlignées pour y déplacer ta pièce sélectionnée.
 *   **Options de partie :** utilise le menu en jeu pour sélectionner le niveau de difficulté, annuler un coup ou commencer une nouvelle partie.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:chess-classic:q-what-is-the-goal-6d35f14b -->
 *   **Q : Quel est le but des échecs ?**
     *   **R :** Le but ultime est de mettre en échec et mat le roi de ton adversaire. Cela signifie que le roi est en position d'être capturé (en "échec") et ne peut pas échapper à la capture.
 
+<!-- i18n:faq:id=faq:chess-classic:q-what-is-castling-a21a9b5d -->
 *   **Q : Qu'est-ce que le roque ?**
     *   **R :** Le roque est un coup spécial où tu déplaces ton roi de deux cases vers une tour, puis places la tour de l'autre côté du roi. C'est un excellent moyen de protéger ton roi et d'activer ta tour. Tu ne peux roquer que si ni le roi ni la tour n'ont bougé, et qu'il n'y a pas de pièces entre eux.
 
+<!-- i18n:faq:id=faq:chess-classic:q-what-happens-if-no-33cac195 -->
 *   **Q : Que se passe-t-il si personne ne peut gagner ?**
     *   **R :** La partie peut se terminer par une nulle de plusieurs façons, notamment le pat (un joueur n'a pas de coups légaux, mais son roi n'est pas en échec), un accord entre les joueurs, ou si la même position est répétée trois fois.
+

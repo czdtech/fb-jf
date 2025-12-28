@@ -12,6 +12,7 @@ score: 3.9/5  (951 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 *Bullet Force* est un FPS multijoueur moderne jouable en navigateur ou sur mobile. Tu y retrouves des modes classiques (Team Deathmatch, FFA, Conquête, Gun Game), un large choix de cartes et une grosse bibliothèque d’armes personnalisables (viseurs, silencieux, camouflages…).
@@ -36,6 +37,7 @@ Tu peux jouer en ligne dans des salons publics ou privés, ou t’entraîner hor
 - **Free For All (FFA) :** chacun pour soi. Le joueur avec le plus d’éliminations à la fin gagne.
 
 - **Team Deathmatch (TDM) :** deux équipes s’affrontent pour obtenir le plus d’éliminations avant la fin du temps.
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 - **Toujours en mouvement**  
@@ -58,27 +60,30 @@ Tu peux jouer en ligne dans des salons publics ou privés, ou t’entraîner hor
 - **S’entraîner hors ligne :** le mode bots est un bon terrain d’entraînement. Utilise‑le pour travailler ta visée, apprendre les cartes et tester des configurations d’armes sans la pression du multijoueur en live.
   Garde un œil sur la minimap pour repérer tirs non silencieux et positions alliées. Utilise tes killstreaks (UAV, etc.) dès que disponibles pour l’info ou le tempo.
 
+<!-- i18n:section:controls -->
 ### Commandes (PC)
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `W` `A` `S` `D` `Spacebar` `Shift` `C` `Right Mouse Button` `Left Mouse Button` `R` `1` `2` `3` `E` `Tab`
 
 
 #### PC (Keyboard & Mouse)
-- `W/A/S/D` : se déplacer  
+- W/A/S/D : se déplacer  
 - Souris gauche : tirer  
 - Souris droite : viser (ADS)  
-- `R` : recharger  
-- `Shift` : sprint, `C` : accroupi/glissade  
-- `1/2/3` ou molette : changer d’arme
+- R : recharger  
+- Shift : sprint, C : accroupi/glissade  
+- 1/2/3 ou molette : changer d’arme
 
 
 
 
-- **Afficher le tableau des scores :** `Tab`
+- **Afficher le tableau des scores :** Tab
 
-- **Interagir :** `E`
+- **Interagir :** E
 
-- **Changer d’arme :** `1`, `2`, `3` ou molette
+- **Changer d’arme :** 1, 2, 3 ou molette
 
-- **Recharger :** `R`
+- **Recharger :** R
 > Oui. Tu peux créer une partie personnalisée depuis le menu multijoueur en sélectionnant « Create Room ». Tu peux définir un mot de passe, puis partager le nom de la salle et le mot de passe avec tes amis.
 
 **4. Puis‑je jouer avec mes amis ?**
@@ -95,6 +100,7 @@ Tu peux jouer en ligne dans des salons publics ou privés, ou t’entraîner hor
 
 **1. Comment débloquer de nouvelles armes et accessoires ?**
 
+<!-- i18n:section:faq -->
 #### Foire aux questions (FAQ)
 
 - **Tirer, viser (ADS), recharger, sauter, s’accroupir :** boutons dédiés à l’écran, souvent personnalisables dans les réglages.
@@ -108,18 +114,22 @@ Tu peux jouer en ligne dans des salons publics ou privés, ou t’entraîner hor
 
 > Oui. Tu peux créer une partie personnalisée depuis le menu multijoueur en sélectionnant « Create Room ». Tu peux définir un mot de passe, puis partager le nom de la salle et le mot de passe avec tes amis.
 
+<!-- i18n:faq:id=faq:bullet-force:how-do-i-unlock-new-d90ff5bd -->
 **4. Puis‑je jouer avec mes amis ?**
 
 > Il n’existe pas d’arme « meilleure » dans l’absolu : tout dépend de ton style de jeu et de la carte. Parmi les choix populaires et efficaces, on cite souvent la FAMAS (précision en rafales), la M4A1 (polyvalence) et la Vector (cadence très élevée en combat rapproché).
 
+<!-- i18n:faq:id=faq:bullet-force:what-are-killstreaks-and-how-78022d7b -->
 **3. Quelle est la « meilleure » arme du jeu ?**
 
 > Les killstreaks sont des capacités obtenues en réalisant un certain nombre d’éliminations d’affilée sans mourir. Une fois gagnées, un bouton apparaît à l’écran pour activer des effets comme un **UAV** (révèle les ennemis sur la minimap), **Haste** (augmente la vitesse de déplacement) ou un **Advanced UAV**.
 
+<!-- i18n:faq:id=faq:bullet-force:what-is-the-best-weapon-7c7a9090 -->
 **2. Que sont les killstreaks et comment les utiliser ?**
 
 > Tu gagnes des crédits en jouant (selon tes performances, éliminations et objectifs). Tu peux ensuite les dépenser dans les sections « Loadout » ou « Armory » pour acheter de nouvelles armes principales, secondaires et des accessoires.
 
+<!-- i18n:faq:id=faq:bullet-force:can-i-play-with-my-501f32fd -->
 **1. Comment débloquer de nouvelles armes et accessoires ?**
 - **Afficher le tableau des scores :** `Tab`
 
@@ -128,3 +138,5 @@ Tu peux jouer en ligne dans des salons publics ou privés, ou t’entraîner hor
 - **Changer d’arme :** `1`, `2`, `3` ou molette
 
 - **Recharger :** `R`
+
+

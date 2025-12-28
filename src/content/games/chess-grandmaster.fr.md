@@ -14,6 +14,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Chess Grandmaster offre une expérience d’échecs complète jouable directement
@@ -25,6 +26,7 @@ Le jeu met l’accent sur les trois grandes phases d’une partie : **l’ouver
 et calcul de variantes) et la **finale** (activité du roi, pions passés et
 positions de mat fondamentales).
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1.  **Soigne tes ouvertures**  
@@ -48,6 +50,7 @@ positions de mat fondamentales).
     Si la cadence est rapide, privilégie des coups simples, solides, sans trop
     de calcul au lieu de chercher à tout évaluer en profondeur à chaque tour.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - **Jouer un coup** : clique sur une pièce pour afficher ses déplacements
@@ -55,25 +58,17 @@ positions de mat fondamentales).
 - **Options de partie** : règle le niveau de l’IA, change la couleur que tu
   joues, propose nulle ou abandonne via le menu.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
 
+<!-- i18n:faq:id=faq:chess-grandmaster:how-do-i-improve-quickly-c83ab99c -->
 - Q : Comment progresser rapidement ?
+<!-- i18n:faq:id=faq:chess-grandmaster:any-beginner-opening-tips-d190661c -->
 **Q : Comment progresser rapidement aux échecs ?**  
 
+<!-- i18n:faq:id=faq:chess-grandmaster:what-endgames-should-i-learn-b6cc754b -->
 - Q : Des conseils d’ouverture pour débuter ?
 R : Joue régulièrement, résous des exercices tactiques et analyse tes parties perdues pour comprendre tes erreurs. Construis un petit répertoire d’ouvertures simples pour arriver en milieu de jeu dans des positions que tu connais.
 
-- Q : Quelles finales dois‑je apprendre en premier ?
-R : Commence par les mats de base (Dame+Roi vs Roi, Tour+Roi vs Roi) et les finales de pions
-avec opposition du roi.
 
-**Q : Des conseils d’ouverture pour débuter ?**  
-R : Commence par des ouvertures classiques et simples, comme 1.e4 ou 1.d4 côté
-Blanc, et réponds par …e5 ou …e6/…c6 côté Noir. Développe tes pièces, roque, et
-connecte tes tours.
-
-**Q : Quelles finales dois‑je connaître en priorité ?**  
-R : Les mats de base (Dame+Roi vs Roi, Tour+Roi vs Roi), les finales de pions
-avec opposition du roi, ainsi que quelques finales de tours courantes (idées de
-position de Lucena et de Philidor).

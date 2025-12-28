@@ -12,10 +12,12 @@ score: 4.1/5  (1881 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 *Bunny Quest* est un jeu de casse‑tête où tu dois réorganiser des tuiles de chemin pour relier le point de départ à l’arrivée. Le lapin suivra la route que tu as construite, en ramassant éventuellement des objets bonus.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1. **Dessine d’abord la route principale**  
@@ -32,6 +34,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 - Optional items: Route them only when they don’t explode move counts.
    Beaucoup de niveaux limitent tes glissements : si tu sens que tu tournes en rond, mieux vaut réinitialiser tôt.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - Fais glisser une tuile dans une rangée/colonne pour la déplacer selon les règles de glissement du niveau.  
@@ -45,11 +48,17 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 - Stuck with one tile off? Backtrack earlier; try anchoring start and end first.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
 
+<!-- i18n:faq:id=faq:bunny-quest:stuck-with-one-tile-off-e56af2b3 -->
 - Hints? Many versions include hints; use sparingly.
 
+<!-- i18n:faq:id=faq:bunny-quest:timers-f7f052c1 -->
 - Timers? Some stages use move limits, not strict timers.
 
+<!-- i18n:faq:id=faq:bunny-quest:hints-27c5017f -->
 - Stuck with one tile off? Backtrack earlier; try anchoring start and end first.
+
+

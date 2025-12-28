@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Carrom Challenges simule le jeu de carrom, un cousin du billard joué avec des
@@ -29,6 +30,7 @@ et gérer des règles spéciales comme la **dame** (la reine) qu’il faut couvr
 les fautes et un nombre limité de tirs. Comme au billard, la réussite dépend de
 la précision de ton tir, de l’angle choisi et de la gestion des rebonds.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1.  **Soigne l’ouverture**  
@@ -52,6 +54,7 @@ la précision de ton tir, de l’angle choisi et de la gestion des rebonds.
     de manière à compliquer la vie de ton adversaire, par exemple en bloquant
     la ligne directe vers un trou.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - **Viser et régler la puissance** : fais glisser le striker pour le placer sur
@@ -62,24 +65,17 @@ la précision de ton tir, de l’angle choisi et de la gestion des rebonds.
 - **Consulter les règles** : utilise le panneau d’aide en jeu pour voir les
   règles exactes de fautes et de couverture de la dame pour le mode courant.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
 
+<!-- i18n:faq:id=faq:carrom-challenges:what-is-covering-the-queen-e8147197 -->
 - Q : Que veut dire « couvrir la dame » ?
+<!-- i18n:faq:id=faq:carrom-challenges:how-to-avoid-scratches-565f01b5 -->
 **Q : Que veut dire "couvrir la dame" ?**  
 
+<!-- i18n:faq:id=faq:carrom-challenges:are-board-speeds-adjustable-6dcdff99 -->
 - Q : Comment « couvrir » la dame ?
 R : Quand tu empoches la dame, tu dois impérativement rentrer l’un de tes pions au coup suivant pour la valider. Si tu échoues, la dame est remise sur le plateau.
 
-- Q : Peut‑on modifier la vitesse du plateau ?
-R : Certaines versions permettent d’ajuster la friction ou la sensibilité. Si ce
-n’est pas possible, adapte simplement la force de tes tirs en conséquence.
 
-**Q : Comment éviter que le striker tombe dans un trou ?**  
-R : Contrôle mieux la puissance et l’angle. Évite les tirs trop droits vers les
-coins et préfère des trajectoires légèrement décalées. Avec un peu de pratique,
-le risque de "scratch" diminue fortement.
-
-**Q : Puis‑je modifier la vitesse du plateau ?**  
-R : Certaines versions permettent d’ajuster la friction ou la sensibilité. Si ce
-n’est pas possible, adapte simplement la force de tes tirs en conséquence.

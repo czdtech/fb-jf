@@ -13,10 +13,12 @@ score: 4.7/5  (2950 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation détaillée du jeu
 
 Classic Solitaire, aussi connu sous le nom de Klondike, est l'un des jeux de cartes en solo les plus célèbres et appréciés au monde. L'objectif est d'organiser un paquet de 52 cartes mélangées en quatre piles de fondation, une pour chaque couleur, en ordre croissant de l'As au Roi. Le jeu nécessite stratégie, patience et un peu de chance alors que tu manipules les cartes sur le tableau pour révéler les cartes cachées et construire tes fondations.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu et progression
 
 1.  **Composants du jeu :**
@@ -32,19 +34,25 @@ Classic Solitaire, aussi connu sous le nom de Klondike, est l'un des jeux de car
     *   **Utiliser la pioche :** quand tu n'as plus de coups sur le tableau, pioche. Utilise les cartes révélées pour faire de nouveaux coups sur le tableau ou pour construire sur tes fondations.
     *   **Colonnes vides du tableau :** seul un Roi (ou une séquence commençant par un Roi) peut être déplacé dans une colonne vide du tableau.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 *   **Déplacer des cartes :** clique et fais glisser une carte (ou une séquence valide de cartes) d'une pile à une autre.
 *   **Tirer de la pioche :** clique sur la pioche face cachée pour tirer une carte (ou trois, selon la variante du jeu) vers la défausse.
 *   **Déplacement auto vers la fondation :** dans beaucoup de versions numériques, tu peux double-cliquer sur une carte, et elle se déplacera automatiquement vers la bonne pile de fondation si le coup est valide.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:classic-solitaire:q-what-is-the-goal-ab58581b -->
 *   **Q : Quel est le but du jeu ?**
     *   **R :** Le but est de déplacer les 52 cartes dans les quatre piles de fondation, triées par couleur et en ordre de l'As au Roi.
 
+<!-- i18n:faq:id=faq:classic-solitaire:q-what-happens-when-i-e8e69d77 -->
 *   **Q : Que se passe-t-il quand je n'ai plus de coups ?**
     *   **R :** Si tu ne peux plus faire de coups sur le tableau ou vers les fondations, tu dois tirer de la pioche. Si la pioche est aussi vide et qu'aucun coup n'est possible, la partie est perdue.
 
+<!-- i18n:faq:id=faq:classic-solitaire:q-can-i-move-cards-a79d9fc6 -->
 *   **Q : Puis-je redescendre des cartes de la fondation vers le tableau ?**
     *   **R :** Oui, dans la plupart des versions du jeu, tu peux déplacer la carte du dessus d'une pile de fondation vers le tableau si cela t'aide à révéler d'autres cartes. C'est souvent un coup stratégique clé.
+

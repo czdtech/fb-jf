@@ -14,10 +14,12 @@ score: 4.6/5  (2900 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation détaillée du jeu
 
 Checkers Legend est une version numérique du jeu de stratégie classique, aussi connu sous le nom de Dames. Le jeu se joue sur un damier 8×8 entre deux adversaires. L'objectif est simple mais nécessite une stratégie profonde : capturer toutes les pièces de ton adversaire ou les bloquer pour qu'elles n'aient plus de coups légaux. C'est un jeu intemporel de prévoyance et de tactique.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu et progression
 
 1.  **Mouvement de base :** tes pièces, ou "pions", ne peuvent se déplacer que d'une case en diagonale vers l'avant sur une case sombre vide.
@@ -27,6 +29,7 @@ Checkers Legend est une version numérique du jeu de stratégie classique, aussi
 5.  **Contrôle le centre :** une bonne stratégie est de contrôler le centre du plateau. Cela donne à tes pièces plus de mobilité et limite les options de ton adversaire.
 6.  **Protège ta dernière rangée :** fais attention à ne pas laisser ta dernière rangée (la rangée la plus proche de toi) ouverte pour que ton adversaire obtienne facilement une dame.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 Le jeu se joue avec de simples clics.
@@ -34,13 +37,18 @@ Le jeu se joue avec de simples clics.
 *   **Sélectionner une pièce :** clique sur une de tes pièces pour la sélectionner. Les coups valides seront surlignés.
 *   **Déplacer une pièce :** clique sur une case vide surlignée pour y déplacer ta pièce sélectionnée.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:checkers-legend:q-do-i-have-to-63209821 -->
 *   **Q : Dois-je sauter si je peux ?**
     *   **R :** Oui. Dans la plupart des règles officielles des dames, la capture est obligatoire. Si tu as un saut légal disponible, tu dois le prendre.
 
+<!-- i18n:faq:id=faq:checkers-legend:q-what-makes-a-king-ed0245a6 -->
 *   **Q : Qu'est-ce qui rend une dame si spéciale ?**
     *   **R :** Une pièce normale ne peut se déplacer que vers l'avant. Une dame peut se déplacer et capturer en diagonale vers l'avant et vers l'arrière, ce qui en fait une pièce beaucoup plus puissante et flexible.
 
+<!-- i18n:faq:id=faq:checkers-legend:q-how-do-i-win-9162cf32 -->
 *   **Q : Comment gagner la partie ?**
     *   **R :** Tu gagnes quand ton adversaire n'a plus de pièces, ou quand toutes ses pièces restantes sont bloquées et ne peuvent pas faire de coup légal.
+

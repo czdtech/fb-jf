@@ -18,6 +18,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Candy Riddles est un jeu de réflexion de type match‑3 où tu alignes des rangées
@@ -30,6 +31,7 @@ faire tomber des objets spéciaux tout en gérant un nombre de coups limité.
 Plus tu crées de longues lignes et de grosses réactions en chaîne, plus tu
 remplis les objectifs rapidement et plus ton score explose.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1.  **Commence par le bas du plateau**  
@@ -53,6 +55,7 @@ remplis les objectifs rapidement et plus ton score explose.
     l’avance. Cherche les coups qui avancent plusieurs objectifs en même temps
     (par exemple casser un bloc et préparer un futur combo).
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - **Échanger deux bonbons** : fais glisser un bonbon vers une case adjacente
@@ -63,23 +66,17 @@ remplis les objectifs rapidement et plus ton score explose.
 - **Pause / Recommencer** : utilise les boutons de l’interface pour mettre le
   jeu en pause, relancer un niveau ou consulter les objectifs.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
 
+<!-- i18n:faq:id=faq:candy-riddles:i-always-fail-movelimit-levels-44c6bd4c -->
 - Q : Je rate toujours les niveaux à coups limités — qu’est‑ce que je fais de travers ?
+<!-- i18n:faq:id=faq:candy-riddles:do-diagonals-count-bfdfb2f9 -->
 **Q : Je rate toujours les niveaux à coups limités, que faire ?**  
 
+<!-- i18n:faq:id=faq:candy-riddles:any-tip-for-stubborn-blockers-ae2a8de4 -->
 - Q : Les diagonales comptent‑elles ?
 R : Tu te concentres sans doute trop sur le score pur. Vise en priorité les objectifs de mission (casser des blocs, libérer des cases, récupérer des objets) et combine plusieurs bonus pour rentabiliser chaque coup.
 
-- Q : Des conseils pour les bloqueurs difficiles ?
-R : Pour les bloqueurs tenaces, essaie de faire exploser des bombes ou des bonus de ligne au contact des blocs à casser, plutôt que de perdre des coups en matches simples.
 
-**Q : Les diagonales comptent‑elles comme des lignes ?**  
-R : En général non. La plupart des jeux match‑3 ne comptent que les lignes
-horizontales ou verticales, sauf règle spéciale indiquée dans l’interface.
-
-**Q : Comment gérer les blocs difficiles à casser ?**  
-R : Essaie de faire exploser des bombes ou des bonus de ligne au contact de ces
-blocs. Un combo de bonus vaut souvent plusieurs coups simples et permet de
-nettoyer des zones qui semblaient bloquées.

@@ -15,6 +15,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Les échecs sont un jeu de stratégie à deux joueurs joué sur un échiquier de
@@ -123,6 +124,7 @@ les plus connus au monde.
     adverse devant lui sur la même colonne ou les colonnes voisines) est une
     grande force.
 
+<!-- i18n:section:controls -->
 ### Commandes (version numérique)
 
 Dans une version en ligne ou sur mobile, les contrôles restent très simples :
@@ -154,13 +156,16 @@ Dans une version en ligne ou sur mobile, les contrôles restent très simples :
 **2. Quelles sont les règles du roque ?**
 
 > - Le **pat** est une nulle. Il survient quand le joueur n’est *pas* en échec mais n’a aucun coup légal ; la partie se termine sur une égalité.
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:chess:what-is-the-difference-between-14a5d16a -->
 **1. Quelle différence entre échec et mat, et pat ?**  
 R : L’**échec et mat** est une victoire : le roi est attaqué et ne peut échapper
 à l’attaque. Le **pat** est une nulle : le joueur au trait n’a plus de coup
 légal mais son roi n’est pas en échec.
 
+<!-- i18n:faq:id=faq:chess:what-are-the-rules-for-46d19e24 -->
 **2. Quelles sont les conditions pour roquer ?**  
 R : Tu peux roquer uniquement si :  
 - ni le roi ni la tour concernée n’ont encore bougé ;  
@@ -168,12 +173,15 @@ R : Tu peux roquer uniquement si :
 - le roi n’est pas en échec, ne traverse pas et n’atterrit pas sur une case
   attaquée par une pièce adverse.
 
+<!-- i18n:faq:id=faq:chess:what-is-en-passant-9ff233fd -->
 **3. Qu’est‑ce que la prise en passant ?**  
 R : Si un pion adverse avance de deux cases depuis sa rangée de départ et
 atterrit à côté de l’un de tes pions, tu peux, au coup immédiatement suivant,
 le capturer **comme s’il n’avait avancé que d’une case**. Cette prise spéciale
 n’est possible qu’au tour directement après ce double pas.
 
+<!-- i18n:faq:id=faq:chess:can-the-king-capture-pieces-c8c6f366 -->
 **4. Le roi peut‑il capturer une pièce ?**  
 R : Oui, tant que la case de destination n’est pas contrôlée par une pièce
 adverse. Le roi ne peut jamais se mettre lui‑même en échec en capturant.
+

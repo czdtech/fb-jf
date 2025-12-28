@@ -16,10 +16,12 @@ score: 4.3/5  (2104 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation détaillée du jeu
 
 Castle Craft est un jeu de puzzle captivant de fusion et construction où les joueurs se lancent dans un voyage pour transformer un modeste terrain en un magnifique royaume médiéval. Le gameplay principal tourne autour de la mécanique classique "merge-3" : combiner trois objets identiques ou plus pour créer un seul objet plus avancé. En fusionnant stratégiquement des ressources comme le blé, le bois et la pierre, les joueurs peuvent accomplir des quêtes, gagner de la monnaie précieuse et lever le brouillard pour débloquer de nouveaux territoires, révélant progressivement un empire vaste et prospère.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu et progression
 
 1.  **Maîtrise la fusion par 5 :** bien que fusionner trois objets soit la règle de base, essaie toujours de fusionner cinq objets identiques à la fois. Une "fusion par 5" te récompense avec un bonus, souvent un objet de niveau supérieur supplémentaire, ce qui accélère significativement ta progression.
@@ -28,6 +30,7 @@ Castle Craft est un jeu de puzzle captivant de fusion et construction où les jo
 4.  **Gestion des ressources :** parfois, tu devras décider sur quelle ressource te concentrer. Si une quête nécessite de la pierre de haut niveau, consacre une partie de ton plateau à fusionner de la pierre depuis les roches de base jusqu'au niveau requis. Ne disperse pas tes efforts.
 5.  **Débloque les terres sagement :** quand tu as assez de clés, tu peux débloquer une nouvelle parcelle de terre couverte de brouillard. Priorise le déblocage des zones qui te donnent le plus d'espace de construction ou qui semblent mener vers des objets de quête critiques.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 Le jeu se contrôle entièrement avec une souris ou un écran tactile.
@@ -37,13 +40,18 @@ Le jeu se contrôle entièrement avec une souris ou un écran tactile.
 *   **Voir les infos de l'objet :** clique sur un objet pour voir son nom et son niveau.
 *   **Collecter des ressources :** clique sur les ressources qui apparaissent automatiquement (comme le blé d'un champ) pour les collecter.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:castle-craft:q-what-is-the-main-0487282f -->
 *   **Q : Quel est l'objectif principal de Castle Craft ?**
     *   **R :** L'objectif principal est de restaurer et construire ton royaume en fusionnant des objets, en complétant des quêtes pour tes villageois et en dissipant le brouillard pour étendre ton territoire.
 
+<!-- i18n:faq:id=faq:castle-craft:q-how-do-i-get-c938657e -->
 *   **Q : Comment obtenir plus de clés pour débloquer des terres ?**
     *   **R :** Les clés s'obtiennent principalement en complétant des quêtes spécifiques et en remplissant des commandes commerciales du marché ou des villageois. Concentre-toi sur ces tâches pour rassembler les clés dont tu as besoin.
 
+<!-- i18n:faq:id=faq:castle-craft:q-whats-the-difference-between-a7c4a0ac -->
 *   **Q : Quelle est la différence entre fusionner 3 et fusionner 5 ?**
     *   **R :** Fusionner 3 objets te donne un objet de niveau supérieur. Fusionner 5 objets t'en donne deux, t'en offrant effectivement un gratuitement. Il est toujours plus efficace d'attendre d'avoir cinq objets à fusionner.
+

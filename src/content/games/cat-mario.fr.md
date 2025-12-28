@@ -14,6 +14,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Cat Mario, aussi connu sous le nom de **Syobon Action** (しょぼんのアクション), est un
@@ -31,6 +32,7 @@ c’est voulu.
 Ton seul véritable objectif est de mémoriser chaque traquenard pour réussir à
 atteindre le drapeau de fin de niveau… qui, lui aussi, peut cacher un piège.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 Il n’y a pas vraiment de "stratégie avancée" : Cat Mario est avant tout un test
@@ -68,6 +70,7 @@ Il n’y a pas vraiment de "stratégie avancée" : Cat Mario est avant tout un t
   atterrir sur un bloc caché et marcher jusqu’au château. Toucher le drapeau
   déclenche un dernier troll.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 Les commandes sont proches des jeux de plates‑formes 2D classiques :
@@ -78,25 +81,32 @@ Les commandes sont proches des jeux de plates‑formes 2D classiques :
 Il n’y a ni bouton de course, ni tir de projectiles ; tout repose sur ton
 positionnement et ton timing.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:cat-mario:why-do-i-keep-dying-8804d489 -->
 **1. Pourquoi je meurs tout le temps, c’est impossible !**  
 R : C’est précisément le but du jeu. Cat Mario est conçu comme un "troll
 platformer" : il casse toutes les attentes que tu as apprises dans les autres
 jeux de plates‑formes. Il est finissable, mais uniquement grâce à la
 mémorisation.
 
+<!-- i18n:faq:id=faq:cat-mario:how-many-lives-do-i-05175204 -->
 **2. Combien de vies ai‑je ? Mon compteur est négatif…**  
 R : Tu as en pratique des vies infinies. Le compteur qui descend dans les
 nombres négatifs est un gag des développeurs ; il ne déclenche jamais de "Game
 Over" définitif.
 
+<!-- i18n:faq:id=faq:cat-mario:is-there-a-way-to-8a1027e6 -->
 **3. Peut‑on deviner où sont les pièges ?**  
 R : Pas vraiment. Lors de ta première partie, tu ne peux qu’expérimenter et
 te faire surprendre. À force d’essais, tu finiras par connaître par cœur la
 position de chaque piège.
 
+<!-- i18n:faq:id=faq:cat-mario:whats-the-real-name-of-0cf1a388 -->
 **4. Quel est le véritable nom du jeu ?**  
 R : Les joueurs occidentaux l’appellent souvent "Cat Mario", mais son nom
 original est **Syobon Action** (しょぼんのアクション). On le trouve parfois aussi sous le
 nom "Neko Mario".
+
+

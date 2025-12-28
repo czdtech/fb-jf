@@ -12,10 +12,12 @@ score: 4.2/5  (1931 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 *Cake Slice Ninja* reprend le principe des jeux de découpe : des parts de gâteau sont propulsées à l’écran, et tu dois les trancher en un ou plusieurs glissements rapides. Rater trop de morceaux ou toucher une bombe peut mettre fin à la partie ou casser ton combo, selon le mode.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1. **Privilégie les grandes diagonales**  
@@ -33,6 +35,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 5. **Récupère vite**  
    Si ton combo tombe, reprends une posture stable et reconstruis avec des doubles sûrs.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - Souris ou tactile : clique/glisse à travers les gâteaux pour les trancher.  
@@ -40,8 +43,14 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:cake-slice-ninja:missed-a-piecebig-penalty-e1895685 -->
 - Part ratée — grosse pénalité ? Les modes varient ; souvent tu perds ton combo (ou du temps), pas ton score total.
+<!-- i18n:faq:id=faq:cake-slice-ninja:any-twofinger-tricks-50c2fa17 -->
 - Astuces à deux doigts ? Sur mobile, les glissements multi‑doigts peuvent couvrir plus de surface si la version le gère.
+<!-- i18n:faq:id=faq:cake-slice-ninja:how-to-avoid-bombs-afbe5ed8 -->
 - Comment éviter les bombes ? Suis leurs trajectoires ; ne termine jamais un geste qui traverse une bombe.
+
+

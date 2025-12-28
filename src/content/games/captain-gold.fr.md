@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Dans Captain Gold, tu incarnes un chercheur d’or installé devant une
@@ -31,6 +32,7 @@ rapportent presque rien tout en te faisant perdre de précieuses secondes. Entre
 les manches, tu peux acheter des améliorations ou de la dynamite pour optimiser
 les prochains runs.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1.  **Vise les grosses pépites et les sacs**  
@@ -54,6 +56,7 @@ les prochains runs.
     oscillations au début du niveau pour repérer le moment exact où appuyer
     pour atteindre une zone précise.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - **Lancer le crochet** : clique ou touche l’écran pour faire descendre le
@@ -63,27 +66,17 @@ les prochains runs.
 - **Naviguer dans la boutique** : utilise les boutons de l’interface pour
   acheter des bonus, de la dynamite ou des améliorations entre les niveaux.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
 
+<!-- i18n:faq:id=faq:captain-gold:i-keep-coming-up-short-82efa75e -->
 - Q : Je n’atteins jamais le quota d’argent — des conseils ?
+<!-- i18n:faq:id=faq:captain-gold:is-dynamite-worth-it-f0153112 -->
 **Q : Je n’atteins jamais le quota d’or, des conseils ?**  
 
+<!-- i18n:faq:id=faq:captain-gold:can-i-control-hook-angle-a0dde751 -->
 - Q : La dynamite vaut‑elle le coup ?
 R : Concentre‑toi sur les plus grosses pépites et sacs de valeur, surtout au milieu du niveau.
 
-- Q : Puis‑je contrôler précisément l’angle du grappin ?
-Évite les rochers, investis tôt dans la puissance de
-remontée, et n’hésite pas à sacrifier un objet grâce à la dynamite si cela te
-fait gagner beaucoup de temps.
 
-**Q : La dynamite vaut‑elle vraiment le coup ?**  
-R : Oui, surtout sur les niveaux remplis de rochers. Faire exploser un objet
-peu rentable te permet de relancer le grappin immédiatement, ce qui peut
-rapporter bien plus que la petite somme perdue.
-
-**Q : Comment viser plus précisément ?**  
-R : Regarde le rythme d’oscillation du crochet et choisis un repère visuel sur
-l’écran (par exemple une pierre ou un bloc en arrière‑plan). Appuie
-systématiquement quand le crochet passe devant ce repère pour reproduire le
-même angle.

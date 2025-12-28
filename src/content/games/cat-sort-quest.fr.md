@@ -18,6 +18,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Cat Sort Quest reprend le principe des jeux de tri de couleurs, mais avec des
@@ -31,6 +32,7 @@ ne contenant qu’une seule couleur de chat. Plus tu avances, plus il y a de
 couleurs, de piles hautes et peu d’emplacements vides, ce qui demande une vraie
 planification.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1.  **Garde toujours un perchoir en buffer**  
@@ -53,6 +55,7 @@ planification.
     que possible pour libérer rapidement de l’espace et clarifier la situation
     sur le plateau.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - **Choisir un perchoir** : touche ou clique un perchoir pour prendre le chat
@@ -63,24 +66,17 @@ planification.
 - **Annuler / réinitialiser** : dans certaines versions, tu peux annuler les
   derniers coups ou recommencer entièrement le niveau.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
 
+<!-- i18n:faq:id=faq:cat-sort-quest:im-out-of-moves-what-8be51906 -->
 - Q : Je n’ai plus de coup possible — que faire ?
+<!-- i18n:faq:id=faq:cat-sort-quest:is-there-an-optimal-order-2773f269 -->
 **Q : Je n’ai plus de coup possible, que faire ?**  
 
+<!-- i18n:faq:id=faq:cat-sort-quest:do-i-need-every-move-7fdeaf28 -->
 - Q : Y a‑t‑il un ordre optimal pour terminer les couleurs ?
 R : Utilise la fonction d’annulation si elle existe, puis reviens quelques mouvements en arrière pour libérer à nouveau un perchoir vide.
 
-- Q : Dois‑je viser le coup parfait à chaque mouvement ?
-R : Pas forcément. L’important est de garder un ou deux perchoirs "buffer" libres et d’éviter d’enterrer une couleur rare trop tôt.
 
-**Q : Y a‑t‑il un ordre optimal pour terminer les couleurs ?**  
-R : Priorise les couleurs qui, une fois complétées, libèrent un perchoir entier
-et celles qui occupent beaucoup de place sur le plateau. Moins il reste de
-piles mixtes, plus la fin du niveau devient simple.
-
-**Q : Dois‑je chercher le coup parfait à chaque fois ?**  
-R : Pas nécessairement. L’important est de garder un ou deux buffers libres et
-de rester flexible. N’hésite pas à tester, annuler et retester des séquences de
-coups jusqu’à trouver une organisation qui fonctionne.

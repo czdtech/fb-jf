@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Cards‑21 reprend les règles de base du blackjack dans une version rapide et
@@ -30,6 +31,7 @@ proposent plusieurs mains à la fois, des options comme le **double** (doubler
 la mise contre une carte supplémentaire), le **split** (séparer une paire) ou
 des **side bets** aux règles spécifiques.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1.  **Connais les valeurs de base**  
@@ -53,6 +55,7 @@ des **side bets** aux règles spécifiques.
     marge plus élevée pour le casino. Ne compte pas sur eux pour être rentable
     à long terme.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - **Tirer (Hit)** : clique sur le bouton correspondant pour recevoir une carte
@@ -63,23 +66,21 @@ des **side bets** aux règles spécifiques.
 - **Side bets** : coche ou active les paris secondaires avant de distribuer les
   cartes lorsque l’option existe.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
 
+<!-- i18n:faq:id=faq:cards-21:when-should-i-split-pairs-741a3181 -->
 - Q : Quand faut‑il séparer (split) une paire ?
-**Q : Quand est‑ce une bonne idée de séparer (split) une paire ?**  
+  
+  R : On recommande souvent de séparer les paires d’as et de 8 ; évite de séparer les 10 et les 5. Suis la stratégie de base indiquée par la table si elle est affichée.
 
+<!-- i18n:faq:id=faq:cards-21:do-aces-count-as-1-7608a361 -->
 - Q : Les as valent‑ils 1 ou 11 ?
-R : On recommande souvent de séparer les paires d’as et de 8, car elles s’améliorent beaucoup quand elles sont divisées. À l’inverse, il vaut mieux ne pas séparer les 10 ou les 5, qui sont déjà de bonnes bases.
+  
+  R : Les as sont flexibles : la valeur s’ajuste pour éviter de dépasser 21 lorsque c’est possible.
 
-- Q : Peut‑on être gagnant à long terme ?
-R : Une stratégie correcte réduit fortement l’avantage de la maison, mais celui‑ci reste positif sur la durée. Prends donc le jeu comme une gestion de risque, pas comme une source de gains.
-
-**Q : Les as valent‑ils 1 ou 11 ?**  
-R : Les as sont "flexibles". Le jeu les compte automatiquement comme 11 tant que
-cela ne te fait pas dépasser 21, puis les redescend à 1 si nécessaire.
-
-**Q : Peut‑on gagner à long terme au blackjack ?**  
-R : Une stratégie correcte réduit fortement l’avantage de la maison, mais celui‑
-ci reste positif. Prends donc Cards‑21 comme un jeu de gestion de risque et de
-prise de décision, plutôt que comme une source de gains garantis.
+<!-- i18n:faq:id=faq:cards-21:is-this-beatable-longterm-aab16428 -->
+- Q : Peut‑on gagner sur le long terme ?
+  
+  R : Avec une stratégie parfaite, tu réduis l’avantage de la maison, mais il reste généralement positif sur la durée.

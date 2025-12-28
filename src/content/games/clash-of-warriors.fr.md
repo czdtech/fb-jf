@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Clash of Warriors condense les combats de cartes en manches courtes et
@@ -28,6 +29,7 @@ Selon la version, tu peux construire ton deck ou jouer avec des paquets
 prédéfinis. Le cœur du jeu reste la gestion du **tempo** : utiliser chaque tour
 pour poser la menace la plus efficace possible sans gaspiller de ressources.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1.  **Respecte ta courbe de mana/ressources**  
@@ -49,6 +51,7 @@ pour poser la menace la plus efficace possible sans gaspiller de ressources.
     Garde les cartes de début de partie qui te permettent de jouer des tours 1,
     2, 3 solides, et renvoie les cartes trop lourdes.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - **Jouer une carte** : clique ou touche une carte depuis ta main puis la zone
@@ -57,16 +60,21 @@ pour poser la menace la plus efficace possible sans gaspiller de ressources.
 - **Lire le texte** : survole ou touche une carte pour afficher ses effets en
   détail.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:clash-of-warriors:is-rng-decisive-333feb22 -->
 - **La chance (RNG) décide‑t‑elle de tout ?**  
   La pioche a toujours un rôle, mais la manière dont tu séquences tes coups et
   gères tes ressources décide souvent de l’issue des parties serrées.
 
+<!-- i18n:faq:id=faq:clash-of-warriors:paytowin-521c5563 -->
 - **Est‑ce pay‑to‑win ?**  
   Les versions navigateur sont généralement auto‑contenues, sans boutique
   intrusive.
 
+<!-- i18n:faq:id=faq:clash-of-warriors:fast-mode-f7a3450e -->
 - **Les parties sont‑elles rapides ?**  
   Oui, les manches sont conçues pour des sessions courtes, parfaites pour une
   pause.
+

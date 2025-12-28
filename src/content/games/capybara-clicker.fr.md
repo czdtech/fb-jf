@@ -18,6 +18,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Capybara Clicker est un jeu idle / clicker très zen dans lequel tu fais grossir
@@ -31,6 +32,7 @@ capybaras automatiquement par seconde. En progressant, tu débloques aussi des
 chapeaux, des skins et la possibilité de changer la météo, ce qui joue le rôle
 de système de prestige pour booster définitivement ta production.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1.  **Commence par cliquer activement**  
@@ -59,6 +61,7 @@ de système de prestige pour booster définitivement ta production.
     si ces objets sont purement décoratifs, ils donnent des mini‑objectifs
     motivants entre deux gros sauts de progression.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - **Générer des capybaras** : clique répétitivement sur le gros capybara au
@@ -72,27 +75,34 @@ de système de prestige pour booster définitivement ta production.
 - **Prestige :** clique sur l’icône météo en haut de l’écran.
   pour lancer une nouvelle ère avec un multiplicateur de production.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:capybara-clicker:what-is-the-point-of-e675f3f2 -->
 **Q : Quel est le but du jeu ?**  
 R : Il n’y a pas vraiment de fin. L’idée est de voir les nombres grimper, de
 faire grossir ta population de capybaras à des valeurs absurdes et de débloquer
 un maximum de bonus et de cosmétiques.
 
+<!-- i18n:faq:id=faq:capybara-clicker:should-i-keep-clicking-or-54f7c23f -->
 **Q : Dois‑je privilégier les clics ou la génération automatique ?**  
 R : Au début, les clics sont indispensables. Une fois quelques générateurs
 achetés, ton revenu passif prend le relais. L’idéal est de combiner les deux :
 cliquer pour démarrer vite, puis laisser la production automatique travailler
 pendant que tu gères tes upgrades.
 
+<!-- i18n:faq:id=faq:capybara-clicker:what-does-changing-the-weather-b6224f4a -->
 **Q : Que fait exactement le changement de météo ?**  
 R : C’est la mécanique de prestige du jeu. Tu redémarres quasiment de zéro, mais
 avec un multiplicateur permanent sur tes gains. Chaque prestige rend les runs
 suivants plus rapides et permet d’atteindre des paliers de population
 inaccessibles auparavant.
 
+<!-- i18n:faq:id=faq:capybara-clicker:how-do-i-unlock-the-008a68ac -->
 **Q : Comment débloquer de nouveaux chapeaux et skins ?**  
 R : Ils se débloquent en atteignant certains seuils de population ou après un
 nombre donné de prestiges. Continue simplement à produire des capybaras et
 surveille les notifications quand un nouvel objet cosmétique devient
 disponible.
+
+

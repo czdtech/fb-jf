@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Categories est un jeu de réflexion léger basé sur le tri par catégories.
@@ -28,6 +29,7 @@ En fonction du mode, tu disposes d’un nombre de tentatives limité ou d’un
 compte à rebours. L’objectif est de découvrir tous les groupes avant d’être à
 court de temps ou d’essais.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1.  **Commence par les groupes évidents**  
@@ -48,6 +50,7 @@ court de temps ou d’essais.
     qu’elles **n**’incluent pas. En éliminant les mauvaises options, tu
     clarifies les bonnes.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - **Placer un élément** : fais glisser un mot/une icône vers un groupe ou
@@ -55,16 +58,21 @@ court de temps ou d’essais.
 - **Annuler / réinitialiser** : utilise les boutons prévus pour effacer un
   groupe ou recommencer la grille si tu t’es emmêlé.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:categories:are-there-multiple-solutions-a0470b63 -->
 - **Y a‑t‑il plusieurs solutions possibles ?**  
   En général non : la plupart des grilles ont une solution unique prévue par le
   jeu.
 
+<!-- i18n:faq:id=faq:categories:hints-27c5017f -->
 - **Le jeu propose‑t‑il des indices ?**  
   Beaucoup de versions offrent des indices ou une mise en évidence des erreurs.
   Utilise‑les avec parcimonie pour ne pas gâcher le plaisir de la déduction.
 
+<!-- i18n:faq:id=faq:categories:timed-95aa06a5 -->
 - **Les niveaux sont‑ils chronométrés ?**  
   Souvent, oui, mais les timers restent légers pour garder un rythme dynamique
   sans trop de pression.
+

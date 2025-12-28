@@ -15,6 +15,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Le jeu de dames (ou *checkers* en anglais) est un classique du jeu de
@@ -56,6 +57,7 @@ les capturer et, une fois la dernière rangée adverse atteinte, un pion devient
   **dame** : il peut alors se déplacer et capturer en diagonale vers l’avant
   **et** vers l’arrière.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 - **Contrôle le centre**  
@@ -82,6 +84,7 @@ les capturer et, une fois la dernière rangée adverse atteinte, un pion devient
   placée peut contrôler de longues diagonales, soutenir tes attaques et
   menacer plusieurs pièces en même temps.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 Dans cette version numérique, tout se joue au clic ou au toucher :
@@ -100,22 +103,29 @@ Dans cette version numérique, tout se joue au clic ou au toucher :
 > Non. Un pion simple ne se déplace qu’en diagonale vers l’avant, vers le camp adverse. Seule une dame peut se déplacer vers l’avant et vers l’arrière.
 
 **3. Un pion peut‑il reculer ?**
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:checkers:is-capturing-an-opponents-piec-f43fe0d8 -->
 **1. La prise est‑elle vraiment obligatoire ?**  
 R : Oui, dans les règles standard, si une capture est possible, tu dois la
 jouer. C’est ce qui crée la plupart des combinaisons tactiques en dames.
 
+<!-- i18n:faq:id=faq:checkers:what-happens-if-i-have-78e1801d -->
 **2. Que se passe‑t‑il si j’ai plusieurs options de capture ?**  
 R : Si plusieurs pièces peuvent capturer, tu choisis laquelle jouer. En
 revanche, une fois que tu as commencé une séquence de prises multiples avec une
 pièce, tu dois la terminer.
 
+<!-- i18n:faq:id=faq:checkers:can-a-regular-piece-a-825cd49d -->
 **3. Un pion peut‑il reculer ?**  
 R : Non, les pions simples ne se déplacent qu’en diagonale vers l’avant. Seules
 les dames peuvent aller vers l’arrière.
 
+<!-- i18n:faq:id=faq:checkers:how-does-a-piece-become-a5ba0aca -->
 **4. Comment devient‑on dame ?**  
 R : Dès qu’un pion atteint la rangée la plus éloignée de son camp (la rangée de
 départ de l’adversaire), il est promu en dame et gagne la possibilité de se
 mouvoir dans les deux sens.
+
+
