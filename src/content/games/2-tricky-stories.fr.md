@@ -12,6 +12,7 @@ score: 4.0/5  (1166 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 *Brain Test 2: Tricky Stories* est la suite de *Brain Test: Tricky Puzzles*, cette fois sous forme d’histoires. Au lieu d’énigmes isolées, tu suis des petits scénarios autour de personnages récurrents (Agent Smith, Emily à la ferme, le chasseur de monstres Joe, etc.). Chaque chapitre raconte une mini‑aventure que tu fais avancer en résolvant des puzzles.
 
 Le principe reste le même : penser « en dehors du cadre ». Les niveaux ont l’air simples, mais sont remplis de pièges, de jeux de mots et de solutions totalement inattendues. Il faut observer attentivement l’écran et interagir avec tout ce qui bouge (ou ne bouge pas) pour trouver la bonne idée.
@@ -47,6 +48,7 @@ Le jeu est conçu autour de la découverte – donner un « corrigé complet �
 
 ---
 
+<!-- i18n:section:controls -->
 ### **3. Commandes**
 
 Les contrôles sont simples, mais font partie des énigmes :
@@ -63,14 +65,18 @@ Les contrôles sont simples, mais font partie des énigmes :
 
 ---
 
+<!-- i18n:section:faq -->
 ### **4. Foire aux questions (FAQ)**
 
+<!-- i18n:faq:id=faq:2-tricky-stories:im-stuck-on-a-level-cbe2e37f -->
 **Q : Je suis bloqué sur un niveau, que faire ?**  
 **R :** Reprends calmement : essaye de toucher et de faire glisser tous les éléments, relis la question et pense à utiliser les fonctions physiques de ton téléphone (secouer, incliner, retourner). Si vraiment rien ne marche, utilise une ampoule pour obtenir un indice, ou en dernier recours la fonction de saut de niveau.
 
+<!-- i18n:faq:id=faq:2-tricky-stories:is-the-game-free-9403c1eb -->
 **Q : Le jeu est‑il gratuit ?**  
 **R :** Oui, *Brain Test 2* est gratuit et financé par des publicités. Tu peux regarder des pubs pour obtenir des indices ou passer un niveau, et éventuellement acheter la suppression de certains affichages pour jouer plus confortablement.
 
+<!-- i18n:faq:id=faq:2-tricky-stories:how-do-i-get-more-0b80caeb -->
 **Q : Comment obtenir plus d’indices ?**  
 **R :** Voici les sources les plus courantes :
 1.  Récompenses en terminant des niveaux ou des chapitres.
@@ -78,8 +84,11 @@ Les contrôles sont simples, mais font partie des énigmes :
 3.  Visionnage de publicités récompensées.
 4.  Achats intégrés pour acheter directement des ampoules.
 
+<!-- i18n:faq:id=faq:2-tricky-stories:what-is-the-difference-between-92bd2e3d -->
 **Q : Quelle est la différence avec Brain Test 1 ?**  
 **R :** Le premier jeu propose une suite d’énigmes indépendantes, alors que *Brain Test 2* organise les puzzles en chapitres scénarisés autour de personnages, ce qui donne plus de contexte et de continuité.
 
+<!-- i18n:faq:id=faq:2-tricky-stories:does-the-game-require-an-b76f6b27 -->
 **Q : Faut‑il une connexion Internet ?**  
 **R :** Tu peux jouer à la plupart des niveaux hors‑ligne, mais une connexion est nécessaire pour certaines fonctions : indices via pub, saut de niveau, offres spéciales, etc.
+

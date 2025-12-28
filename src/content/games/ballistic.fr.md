@@ -12,6 +12,7 @@ score: 4.5/5  (764 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 *Ballistic* est un jeu arcade moderne qui combine réflexion, adresse et réactions en chaîne. Une grille de blocs descend peu à peu depuis le haut de l’écran ; chaque bloc porte un nombre qui indique combien de fois il doit être touché pour être détruit. Depuis le bas, tu tires une rafale de petites balles qui rebondissent sur les murs et les blocs.
@@ -29,6 +30,7 @@ Pour progresser longtemps, anticipe plusieurs tirs à l’avance et exploite au 
 5.  **Active les bonus au bon moment :** certains blocs déclenchent des effets puissants (ligne détruite, tir spécial, etc.). Vise‑les quand plusieurs blocs menacent d’atteindre le bas pour inverser la situation.
 6.  **Prépare des réactions en chaîne :** pense au rebond suivant plutôt qu’au premier impact. En alignant plusieurs murs, tu crées des cascades de dégâts qui vident une grande partie de la grille en un seul tir.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 Le jeu se maîtrise facilement, que ce soit à la souris ou au tactile.
@@ -38,19 +40,26 @@ Le jeu se maîtrise facilement, que ce soit à la souris ou au tactile.
 *   **Mobile / tactile :**
     *   **Écran tactile :** pose le doigt pour faire apparaître le viseur, fais glisser pour ajuster l’angle puis relâche pour lancer la salve.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:ballistic:what-do-the-numbers-on-03af9ef6 -->
 **1. Que signifient les nombres sur les blocs ?**  
 Chaque nombre indique la « vie » d’un bloc : il doit être touché autant de fois pour disparaître.
 
+<!-- i18n:faq:id=faq:ballistic:how-do-i-get-more-67101d1f -->
 **2. Comment obtenir plus de balles par tir ?**  
 Toucher les icônes circulaires « + » ajoute définitivement une balle supplémentaire à ta salve.
 
+<!-- i18n:faq:id=faq:ballistic:what-happens-if-the-blocks-9a123cc9 -->
 **3. Que se passe‑t‑il si un bloc atteint le bas ?**  
 La partie se termine aussitôt, quel que soit ton score ou le nombre de balles restantes.
 
+<!-- i18n:faq:id=faq:ballistic:is-every-round-of-the-80cb1e07 -->
 **4. Les parties sont‑elles toujours identiques ?**  
 Non. La disposition des blocs, des valeurs et des bonus change à chaque nouvelle run, ce qui renouvelle le défi.
 
+<!-- i18n:faq:id=faq:ballistic:what-is-the-best-strategy-0308231c -->
 **5. Quelle est la meilleure stratégie pour un gros score ?**  
 Survis le plus longtemps possible : nettoie les blocs bas, augmente constamment ton nombre de balles et utilise les tirs en angle pour créer de longues réactions en chaîne.
+

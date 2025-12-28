@@ -13,6 +13,7 @@ score: 4.2/5  (1846 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Voici ce qui t’attend dans *Air Traffic Control* et comment t’organiser pour éviter les incidents tout en gardant la piste fluide.
@@ -28,6 +29,7 @@ Voici ce qui t’attend dans *Air Traffic Control* et comment t’organiser pour
 5. **Garde la piste dégagée :** n’envoie pas un nouvel appareil en courte finale si un autre n’a pas encore décollé ou quitté la piste.
 6. **Évite le sur‑vectoring :** chaque virage inutile allonge la trajectoire et augmente la charge de travail; limite les corrections au strict nécessaire.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 Les contrôles exacts varient selon les versions, mais on retrouve toujours les actions suivantes :
@@ -38,16 +40,22 @@ Les contrôles exacts varient selon les versions, mais on retrouve toujours les 
 - Assignation piste / approche : lorsque l’interface le propose, choisis la piste exacte ou la procédure d’approche avant que l’avion n’entre en finale.
 - Assignation approche : quand c’est possible, affecte explicitement la piste ou la procédure d’approche avant de laisser l’avion entrer en finale.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:air-traffic-control:how-do-i-avoid-collisions-87cdf52e -->
 - **Q : Comment éviter les collisions ?**  
   **R :** Anticipe. Repère les avions qui convergent et donne‑leur rapidement des caps divergents ou des vitesses différentes pour recréer de l’espacement horizontal.
 
+<!-- i18n:faq:id=faq:air-traffic-control:what-does-a-conflict-alert-554e11d0 -->
 - **Q : Que signifie une alerte de conflit ?**  
   **R :** C’est un avertissement de perte de séparation prévue. Tu dois immédiatement modifier la trajectoire d’au moins un avion.
 
+<!-- i18n:faq:id=faq:air-traffic-control:can-i-pause-or-change-01568980 -->
 - **Q : Puis‑je mettre le jeu en pause ?**  
   **R :** Beaucoup de versions navigateur proposent une pause ou un contrôle de vitesse. Profites‑en pour planifier tranquillement tes séquences quand le trafic est dense.
 
+<!-- i18n:faq:id=faq:air-traffic-control:any-tip-for-heavy-traffic-b3840a28 -->
 - **Q : Des conseils pour gérer un trafic très dense ?**  
   **R :** Imposes un circuit standard (vent arrière → base → finale), espace les entrées et résous les conflits dès qu’ils apparaissent plutôt qu’en courte finale.
+

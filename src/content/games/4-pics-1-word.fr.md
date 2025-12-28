@@ -13,6 +13,7 @@ developer: So Far So Good
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 *4 Pics 1 Word* est un jeu de mots très populaire au principe ultra simple : quatre images sont affichées, et un seul mot les relie toutes. À toi de deviner ce mot en t’appuyant sur les indices visuels. Le jeu met à l’épreuve ta capacité à faire des liens, ton vocabulaire et ton sens de l’observation.
 
 ---
@@ -52,16 +53,22 @@ Même si le principe est simple, ces astuces t’aideront à trouver la bonne r�
 
 ---
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:4-pics-1-word:is-4-pics-1-word-adb8e06b -->
 **Q : Le jeu est‑il gratuit ?**  
 **R :** Oui, le jeu est gratuit avec des achats intégrés pour obtenir des pièces supplémentaires et parfois quelques publicités.
 
+<!-- i18n:faq:id=faq:4-pics-1-word:what-happens-if-i-run-226da951 -->
 **Q : Que faire si je n’ai plus de pièces et que je suis bloqué ?**  
 **R :** Utilise la fonction de partage pour demander de l’aide à des amis, ou continue de résoudre d’autres énigmes/bonus pour regagner des pièces.
 
+<!-- i18n:faq:id=faq:4-pics-1-word:do-the-four-pictures-always-ed5f9c40 -->
 **Q : Les 4 images sont‑elles toujours liées de la même manière ?**  
 **R :** Non. Parfois elles montrent quatre versions du même objet, parfois elles illustrent une idée commune plus subtile.
 
+<!-- i18n:faq:id=faq:4-pics-1-word:is-the-game-available-in-27fc2a0d -->
 **Q : Le jeu existe‑t‑il dans d’autres langues ?**  
 **R :** Oui, 4 Pics 1 Word est disponible dans plusieurs langues, avec des énigmes adaptées au vocabulaire de chaque langue.
+

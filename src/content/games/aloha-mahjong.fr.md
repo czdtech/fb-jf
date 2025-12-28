@@ -12,6 +12,7 @@ score: 4.1/5  (1956 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 *Aloha Mahjong* reprend la formule classique du mahjong solitaire : un ensemble de tuiles empilées forme une structure que tu dois démanteler en trouvant des paires identiques. Seules les tuiles « ouvertes » (non recouvertes et libres sur au moins un côté) peuvent être sélectionnées. L’objectif est de vider complètement la grille sans te retrouver bloqué.
@@ -24,19 +25,25 @@ releaseDate: 2025-10-18T00:00:00.000Z
 4. **Utilise les mélanges avec parcimonie :** si tu es bloqué, un mélange ou un indice peut relancer la partie, mais ces aides sont souvent limitées.  
 5. **Mode chronométré :** si un temps limite s’applique, trouve un équilibre entre vitesse et coups réfléchis pour ne pas te piéger.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - Clique/tape sur deux tuiles identiques et ouvertes pour les retirer.  
 - Utilise les boutons d’indice, de mélange ou de réinitialisation si ton mode les propose.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:aloha-mahjong:no-pairs-fd17fa86 -->
 - **Q : Que faire s’il n’y a plus de paires ?**  
   **R :** Utilise un mélange si le jeu en propose. Sinon, tu devras recommencer le niveau avec une nouvelle disposition.
 
+<!-- i18n:faq:id=faq:aloha-mahjong:what-is-an-open-tile-2fbf8293 -->
 - **Q : Qu’est‑ce qu’une tuile « ouverte » ?**  
   **R :** C’est une tuile qui n’est pas recouverte par une autre et qui est libre au moins sur un côté (gauche ou droit).
 
+<!-- i18n:faq:id=faq:aloha-mahjong:multiple-layouts-6bfba2f8 -->
 - **Q : Y a‑t‑il plusieurs plateaux ?**  
   **R :** Oui, la plupart des versions incluent plusieurs configurations avec des difficultés variées, de petites pyramides simples à des structures plus complexes.
+
 

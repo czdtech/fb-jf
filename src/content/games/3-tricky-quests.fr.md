@@ -12,6 +12,7 @@ score: 3.6/5  (787 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 *Brain Test 3: Tricky Quests* est le troisième épisode de la série signée Unico Studio. On y retrouve l’ADN de Brain Test – des énigmes qui cassent les codes – mais avec une dimension aventure beaucoup plus forte.
 
 Tu incarnes **Alyx**, partie en quête de six Gemmes de Pouvoir pour libérer son père prisonnier d’un sortilège. Les niveaux sont reliés entre eux, les scènes forment un petit monde connecté et une histoire principale.
@@ -49,6 +50,7 @@ La stratégie reprend l’esprit des précédents Brain Test tout en demandant d
 
 ---
 
+<!-- i18n:section:controls -->
 ### **3. Guide des commandes**
 
 Les commandes reprennent la base des précédents Brain Test tout en ajoutant des interactions avec l’inventaire.
@@ -64,19 +66,26 @@ Les commandes reprennent la base des précédents Brain Test tout en ajoutant de
 
 ---
 
+<!-- i18n:section:faq -->
 ### **4. Foire aux questions (FAQ)**
 
+<!-- i18n:faq:id=faq:3-tricky-quests:how-do-i-use-the-b86c92eb -->
 **Q : Comment utiliser les objets de mon inventaire ?**  
 **R :** Appuie sur l’icône du sac pour l’ouvrir, maintiens un objet puis fais‑le glisser vers la cible. Pour combiner, fais glisser un objet sur un autre directement dans le sac.
 
+<!-- i18n:faq:id=faq:3-tricky-quests:what-is-the-fundamental-differ-4486966d -->
 **Q : En quoi Brain Test 3 est‑il différent des deux premiers ?**  
 **R :** Les deux premiers épisodes alignent des énigmes relativement indépendantes (le 2 ajoute des chapitres). Brain Test 3 devient une aventure avec histoire continue, inventaire persistant et atelier.
 
+<!-- i18n:faq:id=faq:3-tricky-quests:why-cant-i-get-past-522c207f -->
 **Q : Je n’arrive pas à passer une zone, pourquoi ?**  
 **R :** Il te manque sans doute un objet clé ou une fabrication d’atelier. Revisite les anciennes scènes, fouille chaque recoin et vérifie si tu peux assembler un nouvel outil.
 
+<!-- i18n:faq:id=faq:3-tricky-quests:is-this-game-free-a3b0cc70 -->
 **Q : Le jeu est‑il gratuit ?**  
 **R :** Oui, il est free‑to-play avec des publicités (pour obtenir des indices) et des achats intégrés pour retirer les annonces.
 
+<!-- i18n:faq:id=faq:3-tricky-quests:what-is-the-workshop-for-ca2fadbe -->
 **Q : À quoi sert l’atelier ?**  
 **R :** C’est l’endroit où tu assembles les fragments de Gemme de Pouvoir ou crées des outils spéciaux indispensables pour avancer dans l’histoire principale.
+

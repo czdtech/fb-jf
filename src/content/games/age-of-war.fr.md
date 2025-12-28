@@ -12,6 +12,7 @@ score: 4.5/5  (525 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 *Age of War* est un jeu de stratégie en 2D où deux bases se font face : la tienne et celle de l’ennemi contrôlé par l’IA. Tu commences à l’âge de pierre avec des hommes des cavernes armés de massues, puis tu accumules de l’expérience (XP) pour faire évoluer ta civilisation à travers plusieurs ères (âge de pierre, Moyen Âge, époque moderne, futur, etc.).  
@@ -39,6 +40,7 @@ Chaque évolution débloque de nouvelles unités, des tourelles plus puissantes 
 - **Tourelles finales :** améliore tes tourelles au maximum. Les versions futuristes infligent d’énormes dégâts et sont indispensables pour arrêter les unités avancées de l’ennemi.  
 - **Assaut final :** combine une vague de tes unités les plus puissantes avec ta capacité spéciale pour briser la ligne ennemie et détruire sa base en une seule poussée.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 Le jeu se joue presque entièrement à la souris :
@@ -48,16 +50,22 @@ Le jeu se joue presque entièrement à la souris :
 - **Lancer la capacité spéciale :** clique sur l’icône de pouvoir en haut à droite lorsqu’elle est disponible.  
 - **Évoluer d’ère :** clique sur le bouton « Evolve » quand tu as accumulé suffisamment d’XP.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:age-of-war:q-how-do-i-get-9279e7e6 -->
 *   **Q : Comment gagner de l’XP ?**
     *   **R :** Chaque fois qu’une de tes unités élimine un ennemi, tu récupères de l’XP; enchaîne les vagues pour faire grimper la jauge et débloquer l’évolution suivante.
 
+<!-- i18n:faq:id=faq:age-of-war:q-what-is-the-best-94cf492b -->
 *   **Q : Quelle est la meilleure unité ?**
     *   **R :** Cela dépend du contexte, mais le « Super Soldier » de l’Âge du Futur combine une énorme réserve de PV et des dégâts monstrueux, ce qui en fait l’option la plus fiable en fin de partie.
 
+<!-- i18n:faq:id=faq:age-of-war:q-is-it-better-to-f6ee451c -->
 *   **Q : Faut‑il privilégier les tourelles ou les unités ?**
     *   **R :** En début de partie, vise un équilibre : 1 à 2 tourelles assurent la défense pendant que tu maintiens un flot constant d’unités offensives.
 
+<!-- i18n:faq:id=faq:age-of-war:q-where-can-i-play-d6112852 -->
 *   **Q : Où jouer à Age of War maintenant que Flash n’existe plus ?**
     *   **R :** Des sites comme CrazyGames, Armor Games ou Kongregate proposent des versions HTML5/émulées. Cherche « Age of War HTML5 » pour y accéder depuis ton navigateur actuel.
+

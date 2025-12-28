@@ -12,6 +12,7 @@ score: 4.0/5  (1930 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 *Armored Assault Strike* mélange shoot ’em up arcade et gestion de position. Tu contrôles un véhicule blindé vu du dessus, dois contourner les ennemis les plus dangereux, utiliser le décor comme couverture et déclencher tes capacités au bon moment pour survivre aux vagues.
@@ -24,20 +25,26 @@ releaseDate: 2025-10-18T00:00:00.000Z
 4. **Planifie les ramassages :** ramasse les bonus de vie/munitions quand le champ est relativement sûr, pas en plein milieu d’une grosse vague.  
 5. **Garde une échappatoire :** conserve une compétence d’esquive (dash, bouclier, etc.) pour t’en sortir quand tu es coincé.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - Déplacement avec les touches WASD ou flèches.  
 - Vise et tire avec la souris ou les boutons d’action indiqués dans l’interface.  
 - Active les capacités spéciales via les touches de raccourci (par exemple 1–4).
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:armored-assault-strike:i-melt-fastwhy-994e5bc4 -->
 - **Q : Pourquoi mon char se fait‑il détruire si vite ?**  
   **R :** Rester à découvert face à plusieurs ennemis concentrés est très dangereux. Utilise le décor comme couverture et n’hésite pas à reculer.  
 
+<!-- i18n:faq:id=faq:armored-assault-strike:ammo-limited-9be95bd9 -->
 - **Q : Les munitions sont‑elles limitées ?**  
   **R :** Selon la version, tu peux avoir des chargeurs ou de la chaleur à gérer. Tire en rafales et garde tes gros tirs pour les ennemis résistants.  
 
+<!-- i18n:faq:id=faq:armored-assault-strike:bosses-5a57d05f -->
 - **Q : Comment battre les boss ?**  
   **R :** Observe leurs patterns, détruis les sbires qui les accompagnent en priorité et profite des fenêtres d’attaque pour vider tes compétences sur le boss.
+
 

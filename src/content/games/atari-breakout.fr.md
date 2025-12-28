@@ -12,6 +12,7 @@ score: 3.7/5  (602 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 *Atari Breakout* est l’un des jeux de casse‑briques les plus célèbres. Tu contrôles une raquette au bas de l’écran, qui ne se déplace qu’horizontalement. Une balle rebondit en continu sur les murs et les briques situées en haut de l’écran. À chaque impact, la brique touchée disparaît et la balle change de direction. Tu dois empêcher la balle de tomber en dessous de ta raquette tout en détruisant toutes les briques pour passer au niveau suivant.
@@ -26,7 +27,10 @@ Même si *Breakout* paraît minimaliste, exploiter quelques tactiques bien rodé
 
 La technique la plus efficace consiste à percer un **tunnel vertical** sur un côté de l’écran (gauche ou droit). Une fois la brèche ouverte, ton but est d’envoyer la balle dans cette ouverture pour qu’elle se retrouve **au‑dessus** des briques. Là‑haut, elle rebondira entre le plafond et la couche supérieure, détruisant de nombreuses briques sans que tu aies à la rattraper à chaque fois.
 
+<!-- i18n:section:controls -->
 #### 2. Contrôler l’angle avec la raquette
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `←` `→`
 
 La trajectoire de la balle dépend de l’endroit où elle touche la raquette :
 
@@ -52,16 +56,22 @@ Les commandes sont très simples et accessibles à tous les joueurs.
     - Sur PC/navigateur, tu la déplaces généralement avec la **souris** (gauche/droite) ou les **flèches gauche et droite**.
 - **Lancer la balle :** au début d’une vie, la balle est collée à la raquette. Appuie sur **Espace** ou clique pour la lancer.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:atari-breakout:q-how-can-i-control-e6335da8 -->
 - **Q : Comment contrôler précisément la direction de la balle ?**
     - **R :** Choisis le point d’impact sur ta raquette. Vise le centre pour un rebond plus droit, les bords pour envoyer la balle vers les extrémités et creuser ton tunnel.
 
+<!-- i18n:faq:id=faq:atari-breakout:q-what-is-the-fastest-9eaaaeff -->
 - **Q : Quelle est la façon la plus rapide de nettoyer un niveau ?**
     - **R :** Réussis le tunnel sur un côté. Une fois la balle coincée au‑dessus des briques, elle en détruira un grand nombre sans risque de chute immédiate.
 
+<!-- i18n:faq:id=faq:atari-breakout:q-do-the-different-colored-645f3f76 -->
 - **Q : Les couleurs de briques changent‑elles quelque chose ?**
     - **R :** Dans la version originale, chaque couleur correspond à une valeur de points différente : plus la rangée est haute, plus elle rapporte de points.
 
+<!-- i18n:faq:id=faq:atari-breakout:q-where-can-i-play-d7aa3e3b -->
 - **Q : Où peut-on encore jouer à Atari Breakout aujourd’hui ?**
     - **R :** Sur de nombreux sites de jeux rétro ou d’arcade en ligne. Pendant longtemps, une version jouable existait même dans Google Images en tapant « Atari Breakout », mais cette astuce peut varier selon les régions.
+

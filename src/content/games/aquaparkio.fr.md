@@ -12,12 +12,14 @@ score: 4.9/5  (169 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 *aquapark.io* est un jeu de course hyper‑casual développé par Voodoo. Tu y affronteras un flot d’adversaires sur un immense toboggan aquatique suspendu dans les airs. L’objectif est simple : être le premier à plonger dans la piscine à la fin du parcours.
 
 La vraie particularité du jeu vient de la possibilité de **sauter hors du toboggan** pour couper le circuit. En prenant assez de vitesse, tu peux te lancer dans le vide et essayer d’atterrir plus bas sur la piste, gagnant ainsi plusieurs virages d’avance. Tu peux également pousser d’autres joueurs pour les faire tomber.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu et stratégies
 
 Gagner une course dans *aquapark.io* demande de maîtriser les raccourcis aériens et de bien doser la prise de risque.
@@ -45,6 +47,7 @@ C’est la condition n°1 pour gagner : apprendre à bondir hors du toboggan san
 
 Le départ est souvent très chaotique. Plutôt que de te battre au milieu de la masse, tu peux parfois rester légèrement en retrait et attendre une bonne opportunité de saut pendant que les autres se gênent.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 Les contrôles d’*aquapark.io* sont volontairement minimalistes, que tu joues sur mobile ou au navigateur.
@@ -52,16 +55,22 @@ Les contrôles d’*aquapark.io* sont volontairement minimalistes, que tu joues 
 - **Sur mobile :** pose le doigt sur l’écran et fais‑le glisser à gauche ou à droite pour diriger ton personnage.  
 - **Sur PC/navigateur :** clique et maintiens le bouton gauche, puis déplace la souris pour tourner.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:aquaparkio:q-are-the-other-players-67bf63b3 -->
 *   **Q : Les autres joueurs sont‑ils réels ?**
     *   **R :** La plupart sont des bots IA pour assurer des courses pleines et un matchmaking instantané, même si quelques joueurs humains peuvent apparaître.
 
+<!-- i18n:faq:id=faq:aquaparkio:q-how-do-i-jump-8f1f10bf -->
 *   **Q : Comment sauter plus haut et plus loin ?**
     *   **R :** Tout dépend de ta vitesse et de l’angle de sortie. Utilise les plaques jaunes et vise les virages très pentus pour prendre de l’élan avant de t’envoler.
 
+<!-- i18n:faq:id=faq:aquaparkio:q-what-are-the-coins-3599315e -->
 *   **Q : À quoi servent les pièces ?**
     *   **R :** Elles servent uniquement à débloquer des skins, bouées et autres cosmétiques; elles n’offrent pas d’avantages de gameplay.
 
+<!-- i18n:faq:id=faq:aquaparkio:q-i-landed-in-the-f1083c12 -->
 *   **Q : Que se passe‑t‑il si je tombe dans l’eau ?**
     *   **R :** Tu réapparaîtras sur le toboggan près du point de chute, mais tu perdras plusieurs secondes précieuses.
+

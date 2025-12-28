@@ -12,6 +12,7 @@ score: 4.9/5  (1015 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 *Bad Ice‑Cream* est le premier jeu de la série d’arcade en pixel‑art. Tu contrôles une glace « méchante » qui doit traverser 40 niveaux glacés remplis de fruits à ramasser. L’objectif de chaque niveau est simple : récupérer 100 % des fruits avant la fin du temps, sans te faire toucher par les monstres qui patrouillent.
@@ -49,7 +50,10 @@ Le chronomètre te met la pression, mais te précipiter sans regarder est la mei
 - **Leurre et soutien :** un joueur peut attirer plusieurs ennemis et les enfermer pendant que l’autre ramasse tranquillement les fruits.  
 - **Attention aux murs :** surveille ton partenaire pour éviter de l’enfermer ou de l’exposer en cassant la glace au mauvais moment.
 
+<!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `↑` `↓` `←` `→` `Spacebar` `W` `A` `S` `D` `F`
 
 Le jeu est conçu pour être joué facilement par deux personnes sur un même clavier.
 
@@ -57,19 +61,25 @@ Le jeu est conçu pour être joué facilement par deux personnes sur un même cl
     *   **Déplacement :** flèches directionnelles
     *   **Créer/détruire la glace :** barre d’espace
 *   **Joueur 2 :**
-    *   **Déplacement :** touches `W`, `A`, `S`, `D`
-    *   **Créer/détruire la glace :** touche `F`
+    *   **Déplacement :** touches W, A, S, D
+    *   **Créer/détruire la glace :** touche F
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:bad-ice-cream:q-can-i-kill-the-a2865b98 -->
 *   **Q : Puis‑je tuer les ennemis ?**
     *   **R :** Non. Tu ne peux pas les éliminer définitivement. Tu peux seulement les éviter ou les coincer derrière des murs de glace.
 
+<!-- i18n:faq:id=faq:bad-ice-cream:q-what-is-the-goal-7ed4507e -->
 *   **Q : Que se passe‑t‑il quand le temps est écoulé ?**
     *   **R :** Si le chronomètre atteint zéro avant que tu aies ramassé tous les fruits, tu perds une vie et dois recommencer le niveau.
 
+<!-- i18n:faq:id=faq:bad-ice-cream:q-do-the-different-types-e6a9a3a2 -->
 *   **Q : Les différents fruits changent‑ils le gameplay ?**
     *   **R :** Non, les types de fruits sont purement cosmétiques. Tu dois simplement tous les collecter, quelle que soit leur apparence.
 
+<!-- i18n:faq:id=faq:bad-ice-cream:q-how-does-the-2player-8a760ff7 -->
 *   **Q : Comment fonctionne le mode 2 joueurs ?**
     *   **R :** Vous partagez le même écran et, en général, le même stock de vies. Si l’un des deux se fait toucher, c’est toute l’équipe qui perd une vie.
+

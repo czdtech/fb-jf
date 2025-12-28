@@ -12,6 +12,7 @@ score: 3.9/5  (1035 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 *Bad Ice‑Cream 2* est un jeu d’arcade en pixel‑art où tu contrôles une glace vivante qui doit ramasser tous les fruits disséminés dans des niveaux labyrinthiques. Ta capacité spéciale est de **créer ou détruire des rangées de blocs de glace** devant toi, ce qui te permet de bloquer les monstres, de te frayer un passage ou de te construire de petits abris.
@@ -48,7 +49,10 @@ Tu es limité par le temps, mais te précipiter dans un couloir sans regarder es
 - **Communiquer :** préviens ton partenaire quand tu crées ou détruis un mur, pour éviter de l’enfermer par accident.  
 - **Leurre et collecte :** un joueur peut attirer et enfermer les ennemis pendant que l’autre ramasse les fruits.
 
+<!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `↑` `↓` `←` `→` `Spacebar` `W` `A` `S` `D` `F`
 
 Le jeu est pensé pour être joué facilement à deux sur le même clavier.
 
@@ -56,19 +60,25 @@ Le jeu est pensé pour être joué facilement à deux sur le même clavier.
     *   **Déplacement :** flèches directionnelles
     *   **Créer / casser la glace :** barre d’espace
 *   **Joueur 2 :**
-    *   **Déplacement :** touches `W`, `A`, `S`, `D`
-    *   **Créer / casser la glace :** touche `F`
+    *   **Déplacement :** touches W, A, S, D
+    *   **Créer / casser la glace :** touche F
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:bad-ice-cream-2:q-can-i-kill-the-011ef9f4 -->
 *   **Q : Peut‑on tuer définitivement les ennemis ?**
     *   **R :** Non. Tu peux seulement les éviter ou les coincer avec tes murs de glace pour les empêcher de circuler.
 
+<!-- i18n:faq:id=faq:bad-ice-cream-2:q-what-happens-if-the-b7a7f4d0 -->
 *   **Q : Que se passe‑t‑il si le temps est écoulé ?**
     *   **R :** Si le chronomètre arrive à zéro avant que tu aies ramassé tous les fruits, tu perds une vie et dois recommencer le niveau.
 
+<!-- i18n:faq:id=faq:bad-ice-cream-2:q-is-there-a-difference-89ee784c -->
 *   **Q : Les différents fruits ont‑ils un effet particulier ?**
     *   **R :** Non, ils ont tous la même fonction : tu dois simplement tous les collecter. Leur variété est surtout cosmétique.
 
+<!-- i18n:faq:id=faq:bad-ice-cream-2:q-how-does-the-2player-8a760ff7 -->
 *   **Q : Les vies sont‑elles partagées en coop ?**
     *   **R :** En général, les joueurs partagent un pool de vies commun. Si l’un des deux se fait toucher, une vie est retirée pour l’équipe entière.
+

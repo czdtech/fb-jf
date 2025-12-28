@@ -12,6 +12,7 @@ score: 4.2/5  (284 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 *Basket Random* est un jeu de basket 2D très déjanté où tu contrôles deux joueurs « poupées de chiffon » avec un seul bouton. Ton objectif : inscrire 5 points avant l’adversaire dans un duel rapide.
@@ -40,30 +41,40 @@ Gagner consiste moins à contrôler parfaitement tes joueurs qu’à apprivoiser
 5.  **Positionnement simple mais utile**
    Essaie malgré tout de garder un joueur proche de ton panier en défense, et l’autre davantage vers le ballon en attaque.
 
+<!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `W` `Up Arrow` `Up Arrow` `W`
 
 Le jeu est célèbre pour sa prise en main à un seul bouton adaptée aussi bien aux claviers qu’aux écrans tactiles.
 
 *   **Joueur 1 (PC) :**
-    *   **Touche `W`** ou flèche `↑` pour sauter / agiter les bras.
+    *   **Touche W** ou flèche ↑ pour sauter / agiter les bras.
 *   **Joueur 2 (PC) :**
-    *   **Touche `↑`** ou `W` (selon le mapping) pour effectuer les mêmes actions.
+    *   **Touche ↑** ou W (selon le mapping) pour effectuer les mêmes actions.
 *   **Mobile / tactile :**
     *   Tape sur la moitié gauche (J1) ou droite (J2) de l’écran pour déclencher les sauts.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:basket-random:how-do-i-properly-control-7c361830 -->
 **1. Comment bien contrôler mon personnage ?**  
 Tu ne le contrôles jamais totalement : tu joues uniquement sur le timing des sauts et des moulinets de bras. Accepte cette part de chaos.
 
+<!-- i18n:faq:id=faq:basket-random:why-does-the-courtballplayer-c-3e32a4e8 -->
 **2. Pourquoi le terrain et la balle changent-ils tout le temps ?**  
 Parce que c’est la mécanique « Random » : chaque panier recharge la partie avec un nouvel environnement (glace, ballons géants, gravité modifiée…).
 
+<!-- i18n:faq:id=faq:basket-random:how-do-i-win-a-0ebcf537 -->
 **3. Comment gagne-t-on un match ?**  
 Le plus souvent, la première équipe à cinq points remporte la rencontre. Certains modes personnalisés permettent de modifier ce total.
 
+<!-- i18n:faq:id=faq:basket-random:can-i-play-this-game-0d71baf7 -->
 **4. Peut-on y jouer en solo ?**  
 Oui, un mode contre l’IA existe, mais le jeu est plus fun en duel local sur le même appareil.
 
+<!-- i18n:faq:id=faq:basket-random:what-is-the-best-random-b388b359 -->
 **5. Quel est le “random” le plus avantageux ?**  
 Il n’y en a pas vraiment : bras géants = contres faciles, faible gravité = dunks improbables. Teste chaque variation pour trouver celle qui correspond à ton style.
+

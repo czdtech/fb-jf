@@ -12,6 +12,7 @@ score: 4.2/5  (660 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 *Bad Ice‑Cream 3* est le troisième épisode de la série. Tu contrôles toujours une glace vivante dans des niveaux labyrinthiques remplis de fruits à collecter, mais cette fois les cartes sont plus retorses et les ennemis plus variés. Certains monstres sont énormes, d’autres brisent tes murs, d’autres encore te poursuivent plus agressivement.
@@ -52,7 +53,10 @@ Ne casse pas et ne reconstruis pas des murs au hasard : chaque action prend du t
 - **Se protéger mutuellement :** si ton partenaire est coincé, crée un mur entre lui et un ennemi pour lui ouvrir une échappatoire.  
 - **Éviter de se gêner :** restez plutôt sur des zones séparées de la carte pour ne pas vous bloquer avec vos propres murs.
 
+<!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `↑` `↓` `←` `→` `Spacebar` `W` `A` `S` `D` `F`
 
 Les commandes restent proches des épisodes précédents et sont pensées pour partager un même clavier à deux.
 
@@ -60,19 +64,25 @@ Les commandes restent proches des épisodes précédents et sont pensées pour p
     *   **Déplacement :** flèches directionnelles
     *   **Créer / casser la glace :** barre d’espace
 *   **Joueur 2 :**
-    *   **Déplacement :** touches `W`, `A`, `S`, `D`
-    *   **Créer / casser la glace :** touche `F`
+    *   **Déplacement :** touches W, A, S, D
+    *   **Créer / casser la glace :** touche F
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:bad-ice-cream-3:q-what-is-the-main-03fb4085 -->
 - **Q : En quoi Bad Ice‑Cream 3 est‑il différent de Bad Ice‑Cream 2 ?**
     - **R :** Il ajoute de nouveaux types d’ennemis (dont certains qui détruisent la glace), des niveaux plus nombreux et plus difficiles, ainsi que des patterns de déplacement plus complexes.
 
+<!-- i18n:faq:id=faq:bad-ice-cream-3:q-can-i-finally-kill-63145a61 -->
 - **Q : Peut‑on tuer les monstres cette fois‑ci ?**
     - **R :** Non. Le cœur de la série reste basé sur l’évitement et le contrôle de terrain, pas sur le combat direct.
 
+<!-- i18n:faq:id=faq:bad-ice-cream-3:q-how-do-i-beat-89425c2b -->
 - **Q : Comment gérer les gros monstres qui brisent la glace ?**
     - **R :** Utilise la glace comme distraction temporaire : place un mur pour les ralentir, puis profite de cette fenêtre pour t’échapper ou saisir un fruit important.
 
+<!-- i18n:faq:id=faq:bad-ice-cream-3:q-is-there-a-way-adf9c295 -->
 - **Q : Y a‑t‑il des vies ou des continues supplémentaires ?**
     - **R :** La plupart des versions te donnent un nombre fixe de vies. Une fois toutes perdues, tu dois recommencer le niveau ou la progression prévue par le jeu.
+

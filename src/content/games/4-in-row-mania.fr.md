@@ -12,6 +12,7 @@ score: 4.1/5  (1993 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 4 In Row MANIA reprend le principe du Puissance 4 dans une version dynamique. À tour de rôle, tu fais tomber des jetons dans une grille verticale. Le but : être le premier à aligner quatre jetons de ta couleur à l’horizontale, verticale ou en diagonale, tout en bloquant les tentatives de ton adversaire.
@@ -24,18 +25,23 @@ releaseDate: 2025-10-18T00:00:00.000Z
 4. **Éviter les pièges :** fais attention à ne pas empiler des jetons qui offrent une fourchette gagnante à ton opposant au coup suivant.
 5. **Fin de partie :** calcule précisément le nombre de coups avant que certaines colonnes ne soient pleines pour préparer ton coup décisif.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - Clique ou touche la colonne dans laquelle tu veux laisser tomber un jeton.
 - Modes 2 joueurs en local ou contre l’IA sont souvent disponibles.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:4-in-row-mania:firstmove-advantage-fe17634b -->
 - **Q : Le premier joueur est‑il avantagé ?**  \
   **R :** Légèrement, mais une bonne défense et une bonne gestion de la parité peuvent équilibrer la partie.
 
+<!-- i18n:faq:id=faq:4-in-row-mania:draws-59d8410d -->
 - **Q : Y a‑t‑il souvent des matchs nuls ?**  \
   **R :** Sur une grille standard, les parties se terminent généralement par une victoire d’un des deux joueurs si chacun joue sérieusement.
 
+<!-- i18n:faq:id=faq:4-in-row-mania:best-opening-a27e9124 -->
 - **Q : Quel est le meilleur coup de départ ?**  \
   **R :** Jouer au centre est généralement le plus fort, car cela ouvre le plus de lignes potentielles.

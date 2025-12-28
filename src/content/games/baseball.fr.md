@@ -12,6 +12,7 @@ score: 4.4/5  (525 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 *Doodle Baseball* est un jeu d’arcade ultra simple et mignon, avec un style crayonné. Tu joues le batteur d’une équipe composée de snacks et de hot‑dogs, face à un lanceur cacahuète. Ton seul objectif : frapper la balle envoyée par le lanceur et marquer le plus de points possible.
@@ -33,6 +34,7 @@ Même si *Doodle Baseball* se joue avec un seul bouton, progresser demande d’a
     *   **Trop tôt / trop tard :** foul ball ou strike.
 5.  **Accepte de laisser passer un lancer :** prendre un strike volontaire aide à recalibrer ton timing, surtout après plusieurs fastballs.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 Les contrôles sont réduits au strict minimum pour que tout le monde puisse jouer.
@@ -44,24 +46,31 @@ Les contrôles sont réduits au strict minimum pour que tout le monde puisse jou
 
 Il n’y a aucune commande supplémentaire pour courir ou défendre : le jeu gère automatiquement ces actions selon la qualité de ta frappe.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:baseball:how-do-i-hit-a-62d08c4f -->
 **1. Comment réussir un home run ?**
 
 Tout est une question de timing. Clique exactement au moment où la balle traverse le centre de la zone de strike pour toucher le “sweet spot” et déclencher un home run.
 
+<!-- i18n:faq:id=faq:baseball:is-it-possible-to-win-41cb03d5 -->
 **2. Le jeu a-t-il une fin ?**
 
 Non. *Doodle Baseball* est un mode arcade infini : la partie s’arrête après trois retraits et tu cherches simplement à battre ton record personnel.
 
+<!-- i18n:faq:id=faq:baseball:why-do-i-keep-striking-d0e18c50 -->
 **3. Pourquoi les lancers lents me piègent-ils toujours ?**
 
 Parce que ton cerveau reste calé sur le rythme des fastballs. Lorsqu’une balle flotte plus longtemps, attends consciemment une fraction de seconde avant de swinguer.
 
+<!-- i18n:faq:id=faq:baseball:can-i-choose-my-character-337cae71 -->
 **4. Puis-je choisir mon personnage ou mon équipe ?**
 
 Non. Les batteurs (hot-dog, burger, pastèque, etc.) tournent automatiquement et n’apportent que des changements visuels.
 
+<!-- i18n:faq:id=faq:baseball:does-the-game-get-harder-3eb63b93 -->
 **5. Le jeu devient-il plus difficile ?**
 
 Oui. Plus ton score augmente, plus le lanceur diversifie ses vitesses et ses effets, ce qui t’oblige à ajuster ton timing à chaque frappe.
+

@@ -8,8 +8,10 @@ thumbnail: /new-images/thumbnails/ayocs-sprunkr.png
 tags:
   - ayocs sprunkr
 score: 4.1/5  (54 votes)
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 Un mod idéal pour les fans de Sprunki qui veulent un relooking complet, entre mode et effets sonores plus luxueux.
 
 ### Présentation du jeu
@@ -42,3 +44,4 @@ AYOCS Sprunkr est donc une évolution « mode » de Sprunki : même accessibil
 
 - **Q : Puis‑je sauvegarder mes compositions ?**  
   **R :** Selon la version, tu peux enregistrer ton projet ou le partager en ligne. Vérifie les options proposées dans l’interface d’AYOCS Sprunkr.
+

@@ -12,6 +12,7 @@ score: 3.8/5  (1524 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 *Ant and Block Puzzle* est un puzzle de type « block‑fitter ». On te propose en permanence de nouvelles formes que tu dois placer sur une grille. Lorsque tu complètes une ligne ou une zone entière, ces blocs disparaissent et libèrent de l’espace. La partie se termine lorsque plus aucune des pièces proposées ne peut être posée.
@@ -24,19 +25,25 @@ releaseDate: 2025-10-18T00:00:00.000Z
 4. **Ouvre le centre :** privilégie les placements qui dégagent le cœur du plateau plutôt que de le boucher.  
 5. **Annule tôt :** si une pièce te semble « forcée », n’hésite pas à utiliser l’annulation tant qu’il est encore simple de revenir en arrière.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - Fais glisser les pièces sur la grille pour les placer.  
 - Utilise les boutons d’annulation, de rotation (si disponibles) ou de réinitialisation selon la version.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:ant-and-block-puzzle:no-fits-leftwhat-now-5a203cd7 -->
 - **Q : Que faire si aucune pièce ne rentre ?**  
   **R :** Si tu disposes encore d’annulations, reviens quelques coups en arrière et choisis une autre configuration. Sinon, la partie est terminée.
 
+<!-- i18n:faq:id=faq:ant-and-block-puzzle:rotations-634fab63 -->
 - **Q : Peut‑on faire pivoter les pièces ?**  
   **R :** Certaines variantes le permettent, d’autres non. Regarde l’interface pour repérer un bouton de rotation.
 
+<!-- i18n:faq:id=faq:ant-and-block-puzzle:endless-ea2091be -->
 - **Q : Le jeu a‑t‑il une fin ?**  
   **R :** La plupart des versions sont sans fin et se jouent au score : le but est de tenir le plus longtemps possible.
+
 

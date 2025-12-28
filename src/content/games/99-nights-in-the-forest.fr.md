@@ -12,6 +12,7 @@ score: 4.7/5  (2765 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 *99 Nights in the Forest* est un jeu d’horreur de survie à la première personne centré sur la gestion des ressources et la défense de base. Bloqué dans une forêt maudite, tu dois tenir 99 nuits consécutives en protégeant une vieille cabane contre des créatures qui attaquent chaque soir.
@@ -22,6 +23,7 @@ Le jeu s’articule autour d’un cycle **jour/nuit** très marqué :
 
 La préparation est essentielle : ton efficacité en journée détermine tes chances de survie la nuit. Plus les nuits passent, plus les ennemis deviennent nombreux, rapides et agressifs. Le jeu utilise aussi un système de **mort permanente** : si tu meurs, ta partie est effacée et tu recommences depuis la première nuit.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu et stratégies
 
 1. **Première journée : barricader toutes les fenêtres**  
@@ -46,30 +48,39 @@ La préparation est essentielle : ton efficacité en journée détermine tes cha
 6. **Améliore progressivement ta défense**  
    Ne te repose jamais sur tes succès des premières nuits. Au fur et à mesure, renforce les fenêtres les plus exposées avec plus de planches et prépare des stocks de ressources pour les nuits difficiles.
 
+<!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `W` `A` `S` `D` `Shift` `Space Bar` `E` `I` `Tab` `Left Mouse Button` `Right Mouse Button`
 
 Le jeu utilise des commandes classiques de jeu à la première personne :
 
-- **Se déplacer :** touches `W`, `A`, `S`, `D`  
+- **Se déplacer :** touches W, A, S, D  
 - **Regarder autour de soi :** souris  
-- **Sprinting :** maintenir `Shift`  
-- **Sauter :** `Espace`  
-- **Interagir / ramasser / ouvrir une porte :** touche `E`  
-- **Inventaire / fabrication :** `I` ou `Tab`  
+- **Sprinting :** maintenir Shift  
+- **Sauter :** Espace  
+- **Interagir / ramasser / ouvrir une porte :** touche E  
+- **Inventaire / fabrication :** I ou Tab  
 - **Attaquer / utiliser un outil :** clic gauche  
 - **Viser / action secondaire :** clic droit
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:99-nights-in-the-forest:can-the-enemies-in-the-599bfef0 -->
 **Q : Peut‑on tuer les ennemis ?**  
 **R :** Oui, tu peux tuer les créatures si elles parviennent à entrer dans la cabane, en les attaquant avec ta hache ou d’autres armes. Mais cela signifie que tes défenses ont été brisées ; l’idéal est de les maintenir à l’extérieur.
 
+<!-- i18n:faq:id=faq:99-nights-in-the-forest:what-happens-if-i-die-3fb01fbd -->
 **Q : Que se passe‑t‑il si je meurs ?**  
 **R :** Le jeu utilise un système de mort permanente. Si tu meurs, ta sauvegarde est supprimée et tu dois recommencer depuis la Nuit 1.
 
+<!-- i18n:faq:id=faq:99-nights-in-the-forest:how-do-i-survive-the-816fd603 -->
 **Q : Comment survivre à la première nuit ?**  
 **R :** Coupe plusieurs arbres pour récupérer du bois, fouille les alentours pour trouver de la ferraille, puis fabrique des planches et des clous via l’inventaire. Avant la nuit, barricade toutes les fenêtres, ferme la porte et reste à l’intérieur en écoutant les bruits pour savoir où les ennemis frappent.
 
+<!-- i18n:faq:id=faq:99-nights-in-the-forest:where-can-i-find-scrap-7f8b30f6 -->
 **Q : Où trouver de la ferraille ?**  
 **R :** Elle apparaît généralement au sol dans la forêt ou près de certains points d’intérêt. Les emplacements sont en grande partie aléatoires, ce qui t’oblige à explorer pendant la journée.
+
 

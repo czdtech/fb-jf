@@ -12,6 +12,7 @@ score: 4.2/5  (1965 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 2020 Connect est un jeu de réflexion zen basé sur la fusion de nombres. Sur la grille, tu relies des tuiles de même valeur pour les fusionner en une tuile de valeur supérieure. Chaque fusion libère de la place et peut déclencher des réactions en chaîne. Le but est de garder le plateau jouable le plus longtemps possible tout en atteignant des valeurs toujours plus grandes.
@@ -22,6 +23,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 - **Libérer de l’espace :** chaque fusion enlève des tuiles du plateau et te donne un peu de respiration pour les coups suivants.
 - **Préparer des cascades :** place les nombres de façon à ce qu’une fusion en déclenche d’autres aussitôt.
 
+<!-- i18n:section:tips -->
 #### Conseils de stratégie
 
 1. **Construis un centre fort :** essaie de garder tes valeurs les plus élevées vers le centre de la grille pour qu’elles puissent se connecter dans plusieurs directions.
@@ -30,14 +32,20 @@ releaseDate: 2025-10-18T00:00:00.000Z
 4. **Gère l’espace :** conserve au moins une « ligne de secours » relativement libre pour pouvoir absorber de mauvaises apparitions de tuiles.
 5. **Fusionne par étapes :** ne cherche pas à pousser une valeur au maximum en un coup – des petites fusions régulières gardent le plateau flexible.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - **Tracer une ligne :** clique ou touche une tuile, puis glisse sur les autres tuiles de même valeur pour les relier, puis relâche pour valider.
 - **Annuler (si disponible) :** certaines versions offrent un bouton d’annulation pour corriger une mauvaise ligne.
 - **Redémarrer :** tu peux à tout moment recommencer une partie sur un nouveau plateau.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:2020-connect:i-run-out-of-spacewhat-0acad0d6 -->
 - **Je n’ai plus de place, que faire ?** Concentre‑toi sur le dégagement d’une colonne ou d’une ligne complète, même si cela signifie faire des fusions moins optimales à court terme.
+<!-- i18n:faq:id=faq:2020-connect:is-there-a-win-condition-81083b72 -->
 - **Y a‑t‑il une condition de victoire ?** C’est plutôt un jeu sans fin. Tu peux te fixer des objectifs de valeur maximale ou de score à battre.
+<!-- i18n:faq:id=faq:2020-connect:any-pattern-tips-24b51a6c -->
 - **Des astuces de disposition ?** Regroupe les grosses valeurs vers le centre et laisse les petites tuiles vers les bords comme « nourriture » pour de futures fusions.
+

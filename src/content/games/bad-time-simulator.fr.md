@@ -12,6 +12,7 @@ score: 4.6/5  (1058 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 *Bad Time Simulator* est un jeu de navigateur créé par des fans qui reproduit fidèlement le combat final contre Sans dans la route Génocide d’*Undertale*. Tu y contrôles un cœur rouge (ton âme) dans une petite zone blanche, et tu dois survivre à une longue série d’attaques scriptées extrêmement exigeantes.
@@ -43,29 +44,39 @@ Réussir ce combat demande avant tout de l’endurance et une excellente mémori
 7. **Utiliser le mode entraînement**  
    Si la version que tu joues propose un mode Practice, sers‑t’en pour travailler spécifiquement les patterns qui te posent problème, sans devoir refaire tout le combat depuis le début à chaque fois.
 
+<!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `↑` `↓` `←` `→` `Z` `Enter` `[FIGHT]` `X` `Shift` `Up Arrow`
 
 Les commandes restent très proches de la version navigateur : tout se joue au clavier.
 
-*   **Déplacement de l’âme**: flèches `↑`, `↓`, `←`, `→`
-*   **Valider dans les menus (FIGHT, ACT, etc.)**: touche `Z` ou `Entrée`
-*   **Annuler / retour**: touche `X` ou `Shift`
+*   **Déplacement de l’âme**: flèches ↑, ↓, ←, →
+*   **Valider dans les menus (FIGHT, ACT, etc.)**: touche Z ou Entrée
+*   **Annuler / retour**: touche X ou Shift
 
-En mode âme bleue (gravité activée), la **flèche `↑`** sert à sauter pour éviter les os et les rafales de *Gaster Blasters*.
+En mode âme bleue (gravité activée), la **flèche ↑** sert à sauter pour éviter les os et les rafales de *Gaster Blasters*.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:bad-time-simulator:why-is-this-game-so-87eab09d -->
 **Q : Pourquoi le jeu est‑il aussi difficile ?**  
 **R :** Le combat contre Sans est pensé comme l’épreuve ultime de la route Génocide dans *Undertale*. Le simulateur essaie d’être aussi fidèle que possible, donc la difficulté élevée est volontaire.
 
+<!-- i18n:faq:id=faq:bad-time-simulator:what-is-kr-karmic-retribution-a0c9bcbb -->
 **Q : C’est quoi exactement le KR ?**  
 **R :** Le *Karmic Retribution* est un effet de dégâts sur la durée : chaque coup appliqué te fait perdre des PV petit à petit. Plus tu te fais toucher, plus tu perds de vie à cause de ce poison.
 
+<!-- i18n:faq:id=faq:bad-time-simulator:is-it-possible-to-actually-0b6df411 -->
 **Q : Est‑ce réellement faisable ?**  
 **R :** Oui, le combat est difficile mais pas impossible. Avec assez de pratique, de mémorisation des patterns et de sang‑froid, tu peux le terminer.
 
+<!-- i18n:faq:id=faq:bad-time-simulator:why-cant-i-hit-sans-7f7251ec -->
 **Q : Pourquoi Sans esquive‑t‑il toutes mes attaques ?**  
 **R :** Dans ce combat, tes attaques servent surtout à faire avancer les phases. Sans évite tous les coups jusqu’aux dernières secondes, donc concentre‑toi sur la défense et la survie.
 
+<!-- i18n:faq:id=faq:bad-time-simulator:what-is-the-difference-between-aa2c7edf -->
 **Q : Quelles sont les différences avec le combat original d’Undertale ?**  
 **R :** Selon la version du simulateur, il peut y avoir de légères différences visuelles ou de rythme, mais l’ordre, le style d’attaque et la difficulté générale restent très proches du combat original.
+
