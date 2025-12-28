@@ -9,6 +9,7 @@ score: 4.9/5  (724 votes)
 tags:
   - sprunki craft
   - sprunki craft online
+releaseDate: 2025-12-04
 ---
 
 ### Présentation de Sprunki Craft
@@ -68,4 +69,5 @@ Sprunki Craft convient aussi bien :
 
 Sprunki Craft est un terrain de jeu créatif où blocs, personnages et musique
 se rejoignent. Rejoins‑le et compose ta propre bande‑son cubique !
+
 

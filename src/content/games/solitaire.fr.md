@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Solitaire est le jeu de cartes solo classique où tu organises les cartes en
@@ -40,6 +41,7 @@ chance et de stratégie.
 5.  **Exploiter la défausse :** utilise intelligemment les cartes de la
     défausse pour compléter les séquences dont tu as besoin.
 
+<!-- i18n:section:how-to-play -->
 ### Comment jouer
 
 *   **Déplacer des cartes :** clique‑dépose les cartes vers les positions
@@ -67,3 +69,4 @@ chance et de stratégie.
 4.  **Q : Comment fonctionne le score ?**  
    R : Cela dépend de la version, mais il est souvent lié au temps
    d’achèvement, au nombre de coups et aux éventuels indices utilisés.
+

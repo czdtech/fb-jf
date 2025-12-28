@@ -12,8 +12,10 @@ tags:
   - sprunki pyramixed 0.9
   - sprunki pyramixed 0.9 online
 score: 4.7/5  (455 votes)
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 Tu cherches un jeu musical qui combine le plaisir du rythme et une vraie personnalisation ? Bienvenue dans Sprunkgerny Pyramixed 0.9. Ce jeu mélange gameplay rythmique et création d’avatar, pour que tu puisses composer tout en mettant ta patte visuelle.
 
 ### Qu’est‑ce que Sprunkgerny Pyramixed 0.9 ?
@@ -27,6 +29,7 @@ Sprunkgerny Pyramixed 0.9 est un jeu de création musicale qui casse les codes d
 - **Sound design en couches :** superpose beats et effets pour construire des morceaux plus complexes.
 - **Animations fun :** des animations rendent tes créations plus vivantes et plus spectaculaires.
 
+<!-- i18n:section:how-to-play -->
 ### Comment jouer à Sprunkgerny Pyramixed 0.9 ?
 
 - **Lance le jeu :** ouvre Sprunkgerny Pyramixed 0.9 dans ton navigateur et démarre ta session de création.
@@ -43,3 +46,4 @@ Le développement a cherché à trouver un équilibre entre visuel et audio, pou
 Aujourd’hui, Sprunkgerny Pyramixed 0.9 s’impose comme une plateforme de création interactive où personnalisation et rythme se combinent pour une expérience musicale mémorable.
 
 Rejoins la communauté Sprunkgerny Pyramixed 0.9 et partage tes morceaux. Que tu sois fan de jeux de rythme ou musicien en herbe, cette plateforme offre de nombreuses possibilités pour t’exprimer.
+

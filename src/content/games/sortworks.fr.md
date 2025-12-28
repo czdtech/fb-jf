@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Présentation détaillée du jeu
 
 SortWorks mélange tri visuel et contraintes de bacs (couleur / forme /
@@ -25,6 +26,7 @@ vers les bons bacs en utilisant des emplacements tampons pour éviter les
 embouteillages. Les niveaux avancés accélèrent le rythme et ajoutent des
 catégories plus vicieuses.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu
 
 1.  **Hiérarchie des règles :** applique d’abord les règles critiques (par
@@ -38,21 +40,27 @@ catégories plus vicieuses.
 5.  **Flux du regard :** regarde en avance sur le tapis, ne te fixe pas
     uniquement sur l’objet le plus proche.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - Fais glisser ou tape sur les objets pour les envoyer dans les bacs ;
   pause / relance via l’UI ; les indices peuvent parfois surligner la
   destination.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:sortworks:i-jam-belts-b1436b35 -->
 - **Je bloque tout le tapis, que faire ?**  
   Tu satur es tes tampons ; vide d’abord une série d’objets simples pour
   rouvrir de la place avant de t’attaquer aux difficiles.
 
+<!-- i18n:faq:id=faq:sortworks:similar-icons-confuse-me-62335c3e -->
 - **Les icônes qui se ressemblent me perdent…**  
   Apprends 2–3 caractéristiques clés par catégorie (forme, bord, couleur)
   et trie selon ces repères en priorité.
 
+<!-- i18n:faq:id=faq:sortworks:do-streaks-matter-a57f4782 -->
 - **Les séries (streaks) sont‑elles importantes ?**  
   Oui, elles augmentent le score ; nourris‑les avec les objets faciles.
+

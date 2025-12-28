@@ -6,13 +6,15 @@ description: >-
   Sprunki Clicker est un jeu idle/clicker musical où chaque clic fait évoluer
   ton univers sonore. Accumule de l’énergie, débloque de nouveaux personnages
   et fais grandir ton arbre d’harmonie au rythme de tes mélodies.
-iframeSrc: 'https://turbowarp.org/1112468571/embed'
+iframeSrc: 'https://1games.io/game/sprunki-clicker/'
 thumbnail: /new-images/thumbnails/sprunki-clicker.png
 tags:
   - sprunki clicker
-score: "4.5/5  (389 votes)"
+score: "4.7/5  (524 votes)"
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 Sprunki Clicker transforme chaque clic en note de musique. Tu entres dans un
 monde où rythmes, personnages mignons et effets visuels se développent au fur
 et à mesure que tu joues. Plus tu cliques, plus ta composition se complexifie,
@@ -52,4 +54,5 @@ motif en véritable symphonie.
 
 Sprunki Clicker, c’est plus qu’un simple clicker : c’est un petit laboratoire
 musical où tu fais naître ta propre ambiance sonore, à ton rythme.
+
 

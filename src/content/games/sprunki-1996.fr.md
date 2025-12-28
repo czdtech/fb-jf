@@ -12,9 +12,11 @@ thumbnail: /new-images/thumbnails/sprunki-1996.png
 tags:
   - sprunki 1996
 score: 4.0/5  (122 votes)
+releaseDate: 2025-12-04
 ---
 
 
+<!-- i18n:section:introduction -->
 Hey ! Tu te souviens des écrans un peu buggés des vieux PC des années 90 ?
 Tu veux retrouver cette ambiance tout en faisant du son ? Sprunki 1996 va
 te plaire. Ce mod Incredibox créé par le talentueux Draker avec Scratch
@@ -73,3 +75,4 @@ d’Incredibox. Que tu veuilles revivre l’époque des années 90 ou découvrir
 une nouvelle façon de faire de la musique, Sprunki 1996 mérite clairement
 le détour. Démarre ton « vieux » PC virtuel et commence à composer tes
 beats rétro dans l’univers pixelisé de Sprunki 1996 !
+

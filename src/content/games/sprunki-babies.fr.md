@@ -10,8 +10,10 @@ thumbnail: /new-images/thumbnails/sprunki-babies.png
 tags:
   - sprunki babies
 score: 4.0/5  (212 votes)
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 Envie de faire de la musique ultra mignonne tout en stimulant ta créativité ? Bienvenue dans Sprunki Babies ! Ce bac à sable musical te confie une bande de bébés Sprunki, chacun prêt à apporter sa petite touche sonore unique à tes morceaux. Pas besoin de connaître le solfège : juste de l'imagination et l'envie de t'amuser.
  
 ### Sprunki Babies, c'est quoi au juste ?
@@ -41,3 +43,4 @@ C'est très simple !
 ### En résumé
  
 Sprunki Babies est un terrain de jeu musical délicieux et incroyablement créatif. Il brise les barrières traditionnelles de la création musicale, remplaçant la complexité par du fun intuitif et de l'interaction ludique. Que tu sois un enfant découvrant le rythme ou un adulte en quête d'évasion créative, Sprunki Babies a quelque chose de spécial à offrir. Prêt à composer ton prochain chef‑d'œuvre avec ces adorables Sprunki Babies ?
+

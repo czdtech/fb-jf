@@ -18,6 +18,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Spacebar Clicker est un incremental / clicker très simple mais
@@ -27,6 +28,7 @@ pour acheter des améliorations qui renforcent la valeur de chaque pression
 ou automatisent la génération de points. Tu obtiens ainsi une boucle de
 progression où les nombres grossissent de plus en plus vite.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 Commence par marteler la barre d’espace pour récolter tes premiers points.
@@ -36,11 +38,15 @@ d’autres multiplient les points gagnés à chaque pression manuelle. L’idée
 est de trouver un bon équilibre entre clic manuel et upgrades passives pour
 maximiser tes points par seconde.
 
+<!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Spacebar` `Mouse Click`
 
-- **Action principale :** `Espace` – chaque pression génère des points.  
+- **Action principale :** Espace – chaque pression génère des points.  
 - **Améliorations :** clic souris – achète des upgrades dans les menus.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
 **À quoi sert un Spacebar Clicker ?**  
@@ -57,3 +63,4 @@ améliorations.
 Au début, mise beaucoup sur le clic manuel pour acheter rapidement tes
 premières améliorations. Donne ensuite la priorité aux revenus passifs
 avant de passer aux upgrades chères qui multiplient massivement tes gains.
+

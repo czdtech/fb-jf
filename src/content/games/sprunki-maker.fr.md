@@ -12,6 +12,7 @@ tags:
   - sprunki maker (big update)
   - sprunki maker (big update) online
 score: "4.8/5  (700 votes)"
+releaseDate: 2025-12-04
 ---
 
 ### Présentation de Sprunki Maker (BIG update)
@@ -53,4 +54,5 @@ galerie entière de Sprunki tous plus originaux les uns que les autres.
 Sprunki Maker (BIG update) est l’outil idéal pour dire adieu aux personnages
 génériques. Crée un Sprunki qui te ressemble vraiment, ou invente une icône
 totalement nouvelle pour l’univers Sprunki. À toi de jouer !
+
 

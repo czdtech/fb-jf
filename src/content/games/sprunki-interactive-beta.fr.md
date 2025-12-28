@@ -12,6 +12,7 @@ thumbnail: /new-images/thumbnails/sprunki-interactive-beta.png
 tags:
   - sprunki interactive beta
 score: 4.0/5  (407 votes)
+releaseDate: 2025-12-04
 ---
 
 ### Qu’est‑ce que Sprunki Interactive BETA ?
@@ -65,3 +66,4 @@ transformation ne prenne totalement le dessus ?
 Plonge dans Sprunki Interactive BETA et laisse ce chaos musical t’inspirer.
 Seuls les joueurs les plus stratèges réussiront à garder l’équilibre entre
 mignonnerie et terreur.
+

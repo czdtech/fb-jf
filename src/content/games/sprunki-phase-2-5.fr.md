@@ -11,8 +11,10 @@ thumbnail: /new-images/thumbnails/sprunki-phase-2-5.png
 tags:
   - sprunki phase 2.5
 score: 4.3/5  (218 votes)
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 Tu trouves les jeux musicaux classiques trop prévisibles ? Sprunki Phase 2.5
 (Joke Mod) va clairement te réveiller. Au début, tout ressemble à un Mod
 Sprunki « normal » : des personnages mignons, des sons rythmés, une ambiance
@@ -62,3 +64,4 @@ Chaque partie devient donc une petite mise en scène entre humour et frisson.
 ### En résumé:
 Sprunki Phase 2.5, ce n’est pas juste un Mod de plus : c’est une petite
 expérience interactive où tu composes, tu ris… et tu sursautes.
+

@@ -11,6 +11,7 @@ thumbnail: /new-images/thumbnails/sprunki-police-and-prisoners.png
 tags:
   - sprunki police and prisoners
 score: 3.9/5  (325 votes)
+releaseDate: 2025-12-04
 ---
 
 ### Qu’est‑ce que Sprunki Police and Prisoners ?
@@ -47,4 +48,5 @@ d’art animée.
 
 Si tu veux un Mod Sprunki qui sorte de l’ordinaire, Sprunki Police and
 Prisoners est un excellent terrain de jeu pour ton oreille… et pour tes yeux.
+
 

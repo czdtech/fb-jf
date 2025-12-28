@@ -8,6 +8,7 @@ thumbnail: /new-images/thumbnails/sprunki-dandys-world.png
 score: 4.4/5  (304 votes)
 tags:
   - sprunki dandy
+releaseDate: 2025-12-04
 ---
 
 ### Découvrir Sprunki Dandy's World
@@ -40,6 +41,7 @@ Le principe est simple : tu ajoutes des sons, puis tu regardes ta scène prendre
   la scène s’anime et ton personnage se met à performer.
 - **Partage ton clip :** une fois satisfait, partage ta création avec ton entourage ou sur les réseaux, selon les options du site.
 
+<!-- i18n:section:tips -->
 ### Astuces pour bien profiter de Sprunki Dandy's World
 
 - **Ose les mélanges :** varie les instruments et effets pour trouver une
@@ -53,3 +55,4 @@ Le principe est simple : tu ajoutes des sons, puis tu regardes ta scène prendre
 
 Sprunki Dandy's World est idéal si tu veux mélanger musique, narration et
 esthétique. Lance‑toi et crée ton premier court‑métrage musical Sprunki !
+

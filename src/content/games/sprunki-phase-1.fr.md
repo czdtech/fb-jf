@@ -11,8 +11,10 @@ thumbnail: /new-images/thumbnails/sprunki-phase-1.png
 tags:
   - sprunki phase 1
 score: 4.3/5  (96 votes)
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 Tu t’es déjà demandé où a commencé le voyage musical Sprunki ? C’est ici : Sprunki Phase 1. Ce mod te ramène au tout début et te permet de retrouver le charme original de l’univers Sprunki, construit sur les bases d’Incredibox.
 
 ### Qu’a de spécial Sprunki Phase 1 ?
@@ -41,3 +43,4 @@ C’est vraiment simple :
 ### Pour conclure
 
 Sprunki Phase 1 est la porte d’entrée parfaite dans l’univers Sprunki. Le mod propose une expérience simple et intuitive pour créer de la musique et découvrir ce qu’était ce monde créatif à ses débuts. Que tu sois fan de longue date ou tout nouveau, Sprunki Phase 1 promet une belle balade musicale. Lance‑toi, compose ton premier morceau du bout des doigts et partage tes créations ! 🎧✨
+

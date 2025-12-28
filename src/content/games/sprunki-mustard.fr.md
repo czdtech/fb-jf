@@ -11,6 +11,7 @@ thumbnail: /new-images/thumbnails/sprunki-mustard.png
 tags:
   - sprunki mustard
 score: 3.9/5  (827 votes)
+releaseDate: 2025-12-04
 ---
 
 ### Qu’est‑ce que Sprunki Mustard ?
@@ -49,4 +50,5 @@ volontairement troublant.
 Sprunki Mustard s’adresse aux joueurs qui aiment les Mods un peu dérangeants
 et qui veulent voir jusqu’où on peut pousser l’univers Sprunki. Ose composer
 ta propre « symphonie moutarde » !
+
 

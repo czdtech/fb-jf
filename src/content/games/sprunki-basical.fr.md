@@ -13,6 +13,7 @@ tags:
   - sprunki basical
   - sprunki basical online
 score: "4.4/5  (420 votes)"
+releaseDate: 2025-12-04
 ---
 
 ### Présentation de Sprunki Basical
@@ -26,6 +27,7 @@ musicale illuminer ton quotidien !
 
 ---
 
+<!-- i18n:section:how-to-play -->
 ### Comment jouer à Sprunki Basical ?
 
 Le gameplay est très simple, tu peux créer un morceau en quelques étapes :
@@ -67,4 +69,5 @@ Le gameplay est très simple, tu peux créer un morceau en quelques étapes :
   trouver le son parfait.
 - **Exploration amusante :** la chasse aux bonus et animations cachées rend la
   création musicale encore plus ludique.
+
 

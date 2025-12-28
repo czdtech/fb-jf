@@ -11,8 +11,10 @@ thumbnail: /new-images/thumbnails/sprunki-like-minecraft.png
 tags:
   - sprunki like minecraft
 score: "4.6/5  (601 votes)"
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 Tu aimes autant le style musical de Sprunki que l’esthétique cubique de
 Minecraft ? Sprunki Like Minecraft est fait pour toi. Ce Mod réinvente les
 personnages Sprunki avec un look tout en blocs, tout en conservant le gameplay
@@ -35,6 +37,7 @@ Minecraft vivante.
 - **Créativité musicale :** comme dans Sprunki, tu peux expérimenter des
   dizaines de combinaisons sonores pour obtenir la piste parfaite.
 
+<!-- i18n:section:how-to-play -->
 ### Comment jouer à Sprunki Like Minecraft ?
 
 - Choisis les personnages Sprunki au style Minecraft qui te plaisent.
@@ -45,4 +48,5 @@ Minecraft vivante.
 Ce Mod est idéal si tu veux réunir tes deux passions : la construction
 block‑par‑block et la composition musicale. Laisse les notes se mêler aux
 pixels et joue ta propre mélodie Minecraft au bout des doigts !
+
 

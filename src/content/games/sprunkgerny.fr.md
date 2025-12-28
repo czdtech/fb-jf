@@ -13,6 +13,7 @@ tags:
   - sprunkgerny
   - sprunkgerny online
 score: 4.9/5  (724 votes)
+releaseDate: 2025-12-04
 ---
 
 
@@ -63,3 +64,4 @@ Sprunkgerny, c’est comme un laboratoire musical décalé : on t’encourage �
 briser les règles, tout essayer, embrasser le chaos et créer des morceaux
 vraiment uniques. Prêt pour ce grand huit audio‑visuel ? Plonge dans le
 monde de Sprunkgerny et laisse ton rythme partir en vrille !
+

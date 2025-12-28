@@ -11,8 +11,10 @@ thumbnail: /new-images/thumbnails/sprunki-but-with-memes.png
 tags:
   - sprunki but with memes
 score: 4.2/5  (142 votes)
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 Les amateurs de memes et les fans de musique vont adorer Sprunki But With
 Memes ! Ce n’est pas un simple jeu de rythme, mais une explosion d’énergie où
 références Internet, personnages absurdes et boucles musicales se mélangent
@@ -64,4 +66,5 @@ insensés.
 Sprunki But With Memes est le jeu parfait si tu veux mêler humour, créativité
 et musique. Lance‑toi, combine tes memes préférés, et crée la bande‑son la plus
 drôle que tu aies jamais entendue !
+
 

@@ -11,8 +11,10 @@ thumbnail: /new-images/thumbnails/sprunki-phase-8.png
 tags:
   - sprunki phase 8
 score: 4.2/5  (396 votes)
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 Tu veux explorer le côté obscur de Sprunki ? Sprunki Phase 8 te plonge dans un
 univers rempli de personnages inquiétants, de décors angoissants et de sons
 fait pour donner des frissons.
@@ -47,4 +49,5 @@ Sprunki Phase 8 est un Mod parfait si tu veux voir jusqu’où l’univers Sprun
 
 ### En résumé:
 peut aller du côté horreur, sans perdre le plaisir de la création musicale.
+
 

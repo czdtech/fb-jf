@@ -11,6 +11,7 @@ thumbnail: /new-images/thumbnails/sprunki-abgerny.png
 tags:
   - sprunki abgerny
 score: 3.9/5  (132 votes)
+releaseDate: 2025-12-04
 ---
 
 
@@ -45,3 +46,4 @@ l’héritage et le mélange des traditions.
 terrain de jeu infini. Son twist ethnique original stimule la créativité :
 rejoins‑le et réveille la musique primitive qui sommeille en toi au rythme
 de beats ancestraux !**
+

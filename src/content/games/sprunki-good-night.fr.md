@@ -11,6 +11,7 @@ thumbnail: /new-images/thumbnails/sprunki-good-night.png
 score: 4.2/5  (227 votes)
 tags:
   - sprunki good night
+releaseDate: 2025-12-04
 ---
 
 ### Comment créer dans Sprunki Good Night ?
@@ -38,3 +39,4 @@ Le principe est simple : tu composes une ambiance sonore douce et rassurante.
 Sprunki Good Night est parfait si tu cherches un Mod Sprunki pour décompresser.
 Installe‑toi confortablement, mets un casque et compose la bande‑son de ta
 propre nuit paisible.
+

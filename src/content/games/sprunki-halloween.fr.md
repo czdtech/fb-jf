@@ -11,8 +11,10 @@ thumbnail: /new-images/thumbnails/sprunki-halloween.png
 score: 4.2/5  (142 votes)
 tags:
   - sprunki halloween
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 Prépare‑toi pour une aventure musicale délicieusement terrifiante avec
 Sprunki Halloween ! Ce Mod spécial mélange beats inquiétants, bruitages
 fantomatiques et personnages monstrueux pour te permettre de créer ta propre
@@ -33,6 +35,7 @@ créatures de la nuit se retrouvent sur scène pour interpréter ta composition.
 - **Visuels dynamiques :** animations qui réagissent à ta musique, citrouilles
   lumineuses, manoirs hantés et lune pleine.
 
+<!-- i18n:section:how-to-play -->
 ### Comment jouer à Sprunki Halloween ?
 
 - **Assemble ton casting monstrueux :** choisis les personnages les plus
@@ -57,3 +60,4 @@ créatures de la nuit se retrouvent sur scène pour interpréter ta composition.
 Sprunki Halloween est le choix parfait si tu veux célébrer Halloween en
 musique. Lance le Mod, allume les citrouilles virtuelles et compose une piste
 aussi amusante qu’effrayante !
+

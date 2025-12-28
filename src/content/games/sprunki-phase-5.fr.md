@@ -12,6 +12,7 @@ tags:
   - sprunki phase 5
   - sprunki phase 5 online
 score: "4.0/5  (604 votes)"
+releaseDate: 2025-12-04
 ---
 
 ### Présentation de Sprunki Phase 5
@@ -62,4 +63,5 @@ Sprunki Phase 5 est parfait si tu veux :
 
 Si tu aimes l’univers Sprunki mais avec une touche d’horreur en plus, Sprunki
 Phase 5 mérite clairement une place dans ta playlist.
+
 

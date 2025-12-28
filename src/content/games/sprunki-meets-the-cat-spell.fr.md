@@ -12,6 +12,7 @@ tags:
   - sprunki meets the cat spell
   - sprunki meets the cat spell online
 score: 4.8/5  (649 votes)
+releaseDate: 2025-12-04
 ---
 
 ### Présentation de Sprunki Meets The Cat Spell
@@ -21,9 +22,10 @@ un thème 100 % chats. Les personnages sont redessinés avec des oreilles
 felines, des mimiques adorables et des animations pleines de douceur. Résultat
 : un Mod où musique et mignonnerie vont de pair. 🐾🎨🎶
 
+<!-- i18n:section:how-to-play -->
 ### Comment jouer à Sprunki Meets The Cat Spell ?
 
-Dans ce mod, chaque avatar « chat‑Sprunki » correspond à une catégorie de sons (beat, mélodie, effet, voix…). À toi de les combiner pour créer une piste à la fois mignonne et groovy.
+Dans ce mod, chaque avatar « chat‑Sprunki » correspond à une catégorie de sons (beat, mélodie, effet, voix…). Il y a 20 personnages thématiques, chacun avec ses propres sons. À toi de les combiner pour créer une piste à la fois mignonne et groovy.
 
 Le principe reste très simple :
 

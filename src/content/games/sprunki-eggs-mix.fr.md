@@ -8,6 +8,7 @@ thumbnail: /new-images/thumbnails/sprunki-eggs-mix.png
 score: 3.9/5  (125 votes)
 tags:
   - sprunki egg
+releaseDate: 2025-12-04
 ---
 
 ### Qu’est‑ce qui rend Sprunki Egg's Mix spécial ?
@@ -38,3 +39,4 @@ Dans Sprunki Egg's Mix, tu plonges dans un univers coloré d’œufs Sprunki et 
 ### En conclusion
 
 Sprunki Egg's Mix est un puzzle visuellement réussi et stimulant, parfait pour les fans de puzzles, les joueurs occasionnels et ceux qui aiment les expériences originales. Son esthétique lumineuse et ses contrôles intuitifs rendent la prise en main facile, tandis que ses niveaux plus difficiles offrent une vraie satisfaction. Prêt pour une aventure « egg‑cellente » ?
+

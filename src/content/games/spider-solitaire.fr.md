@@ -19,6 +19,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Spider Solitaire est une variante de solitaire exigeante, jouée avec deux
@@ -26,6 +27,7 @@ paquets standards (104 cartes). Le but est de vider la zone de jeu en
 reconstituant huit suites complètes d’une même couleur, ordonnées du Roi
 jusqu’à l’As. Une fois la suite formée, elle est retirée du plateau.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 - **Objectif :** construire huit suites descendantes de même couleur (Roi,
@@ -40,12 +42,14 @@ jusqu’à l’As. Une fois la suite formée, elle est retirée du plateau.
   distribuer une nouvelle rangée de 10 cartes depuis le talon, à condition
   que toutes les colonnes contiennent au moins une carte.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - **Souris / tactile :** clique et fais glisser les cartes pour les
   déplacer entre colonnes. La plupart des versions proposent aussi un clic
   simple pour envoyer une carte vers une position valide.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
 **Que signifient les niveaux de difficulté ?**  
@@ -65,3 +69,4 @@ araignée.
 Essaie de vider des colonnes pour créer des emplacements où réorganiser tes
 cartes, et retourne rapidement les cartes face cachée pour multiplier les
 options. Dès que possible, privilégie les suites mono‑couleur.
+

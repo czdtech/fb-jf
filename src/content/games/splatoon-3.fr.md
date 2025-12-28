@@ -20,6 +20,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Splatoon 3 est un TPS (third‑person shooter) ultra stylé où l’objectif n’est
@@ -28,6 +29,7 @@ de la carte avec l’encre de ton équipe. Tu incarnes des Inklings et
 Octolings capables de passer instantanément d’une forme humanoïde pour
 tirer de l’encre à une forme de calamar pour nager dedans.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 Le mode phare est le **Guerre de territoire** (4v4) : l’équipe qui a
@@ -41,17 +43,21 @@ recouvert le plus de surface de la carte avec sa couleur d’encre au bout de
 - **Teamplay :** coordonne‑toi avec ton équipe pour contrôler les zones
   clés et repousser l’ennemi.
 
+<!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `WASD` `Arrow Keys` `Left Mouse Button` `Right Mouse Button` `G` `Shift` `Spacebar` `Spacebar`
 
 (Les contrôles exacts dépendent de la version, mais restent proches des
 shooters classiques.)  
-- **Déplacement :** `WASD` ou flèches.  
+- **Déplacement :** WASD ou flèches.  
 - **Tir principal :** clic gauche.  
-- **Sous‑arme :** clic droit ou `G`.  
-- **Transformation en calamar :** `Shift` ou barre d’espace (maintenir pour
+- **Sous‑arme :** clic droit ou G.  
+- **Transformation en calamar :** Shift ou barre d’espace (maintenir pour
   nager).  
 - **Saut :** barre d’espace en forme humanoïde.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
 **Quel est l’objectif principal ?**  
@@ -66,3 +72,4 @@ quelques secondes dans l’encre de ton équipe.
 Les deux comptent : splatter un adversaire le retire temporairement du
 terrain et te donne une fenêtre pour peindre, mais au final, seule la
 surface recouverte d’encre décide du vainqueur.***
+

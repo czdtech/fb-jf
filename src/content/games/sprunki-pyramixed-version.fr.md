@@ -11,14 +11,17 @@ thumbnail: /new-images/thumbnails/sprunki-pyramixed-version.png
 tags:
   - sprunki pyramixed
 score: 4.0/5  (254 votes)
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 Prêt à entrer dans un nouveau monde de création musicale, à la fois profond et très fun ? Bienvenue dans Sprunki Pyramixed. Cette plateforme innovante mélange un sound design riche et une prise en main intuitive. Que tu débutes ou que tu composes déjà, tu peux y trouver ton terrain de jeu créatif.
 
 ### Découvrir Sprunki Pyramixed
 
 Imagine que tu ne fais pas seulement glisser des notes : tu construis une pyramide musicale, en utilisant des éléments sonores comme des « briques ». Sprunki Pyramixed propose une interface réfléchie et une bibliothèque de sons généreuse, pour que ta créativité puisse s’exprimer naturellement.
 
+<!-- i18n:section:tips -->
 ### Comment jouer à Sprunki Pyramixed ?
 
 C’est plus simple qu’il n’y paraît :
@@ -46,3 +49,4 @@ C’est plus simple qu’il n’y paraît :
 ### Pour conclure
 
 Sprunki Pyramixed est une excellente plateforme de création musicale qui équilibre simplicité et profondeur. Que tu veuilles t’amuser rapidement ou composer plus sérieusement, le mod a de quoi te plaire. Rejoins la communauté et commence à construire ton propre monument sonore.
+
