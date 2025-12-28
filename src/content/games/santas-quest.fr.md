@@ -18,6 +18,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Santa's Quest est un jeu de réflexion casual sur le thème des fêtes. Tu
@@ -26,6 +27,7 @@ les objets requis et atteindre la sortie tout en évitant les pièges légers
 ou les impasses. Les niveaux sont courts, parfaits pour de rapides
 sessions hivernales.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu
 
 1.  **Planifier l’itinéraire :** repère d’abord les clés, interrupteurs ou
@@ -41,6 +43,7 @@ sessions hivernales.
 5.  **Relancer rapidement :** les niveaux très courts encouragent à
     redémarrer instantanément dès qu’une erreur bloque ton chemin.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - **Déplacement :** flèches directionnelles / WASD ou glissement au doigt
@@ -49,16 +52,21 @@ sessions hivernales.
   invite.  
 - **Pause / Redémarrage :** via les boutons de l’interface à l’écran.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:santas-quest:stuck-behind-a-blockwhat-now-2e016d68 -->
 - **Coincé derrière un bloc, que faire ?**  
   Redémarre le niveau et replanifie ton trajet pour garder les couloirs
   ouverts.
 
+<!-- i18n:faq:id=faq:santas-quest:are-there-enemies-0f202e8a -->
 - **Y a‑t‑il des ennemis ?**  
   Certains niveaux comportent des dangers légers ou des patrouilles ; c’est
   surtout une question de timing.
 
+<!-- i18n:faq:id=faq:santas-quest:do-i-need-all-stars-c6a73dae -->
 - **Dois‑je forcément récupérer toutes les étoiles ?**  
   Non, elles sont optionnelles. Elles servent surtout pour le 100 % de
   complétion.
+

@@ -19,6 +19,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Sky Tower te met au défi de laisser tomber des étages mobiles sur une tour
@@ -27,6 +28,7 @@ déborde est tranchée et ta plateforme rétrécit. Un bon timing te permet de
 construire une tour haute et stable ; des placements approximatifs réduisent
 rapidement la largeur et écourtent la partie.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu
 
 1.  **Repère central :** choisis un élément de décor en arrière‑plan comme
@@ -41,21 +43,27 @@ rapidement la largeur et écourtent la partie.
 5.  **Prioriser la stabilité :** ignore les pièces ou bonus quand la tour
     vacille ; stabilise‑la d’abord.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - Tape / clique pour faire tomber les étages ; mise en pause et relance via
   l’interface.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:sky-tower:my-tower-shrinks-fast-b1c4d991 -->
 - **Ma tour rétrécit très vite, pourquoi ?**  
   Tu lâches les étages trop tôt ou trop tard de façon irrégulière ; utilise
   un repère visuel fixe pour t’aider.
 
+<!-- i18n:faq:id=faq:sky-tower:any-way-to-recover-d502538f -->
 - **Puis‑je récupérer après plusieurs mauvais placements ?**  
   Oui : vise quelques centres parfaits d’affilée pour élargir un peu la
   plateforme avant de pousser plus haut.
 
+<!-- i18n:faq:id=faq:sky-tower:is-speed-important-fcd4f607 -->
 - **La vitesse est‑elle importante ?**  
   La régularité compte plus que la vitesse ; la hauteur viendra
   naturellement avec de bons centrages.
+

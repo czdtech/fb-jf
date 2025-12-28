@@ -21,6 +21,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Slither.io est un jeu .io compétitif où chaque joueur dirige un serpent qui
@@ -42,6 +43,7 @@ récupérer une pluie d’orbes et grimper au classement.
 5.  **Attendre les erreurs :** laisse les autres serpents se piéger eux‑mêmes
     et ramasse les gros tas d’orbes qu’ils laissent derrière eux.
 
+<!-- i18n:section:how-to-play -->
 ### Comment jouer
 
 *   **Déplacement :** la tête de ton serpent suit le pointeur de la souris.  
@@ -67,3 +69,4 @@ récupérer une pluie d’orbes et grimper au classement.
 4.  **Q : Y a‑t‑il un classement ?**  
    R : Oui, un tableau affiche les plus gros serpents connectés sur le
    serveur.
+

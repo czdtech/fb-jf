@@ -20,6 +20,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Run 3 est un jeu de course infinie dans l’espace. Tu contrôles un petit
@@ -42,6 +43,7 @@ simple à comprendre et difficile à maîtriser.
 5.  **Garder le rythme :** conserve une cadence de déplacement régulière et
     évite les mouvements brusques qui entraînent des erreurs.
 
+<!-- i18n:section:how-to-play -->
 ### Comment jouer
 
 *   **Déplacement :** utilise les flèches gauche/droite pour te déplacer
@@ -68,3 +70,4 @@ simple à comprendre et difficile à maîtriser.
 4.  **Q : Comment débloquer de nouveaux personnages ?**  
    R : Tu peux en débloquer en terminant certains niveaux ou en réalisant
    des objectifs précis.
+

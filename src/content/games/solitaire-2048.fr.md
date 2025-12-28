@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Présentation détaillée du jeu
 
 Solitaire 2048 transforme la logique de fusion de 2048 en flux de cartes.
@@ -25,6 +26,7 @@ de même valeur fusionnent pour donner la valeur suivante. Toute la
 difficulté consiste à ordonner les poses pour déclencher des cascades de
 fusions qui libèrent de la place au lieu de bloquer les colonnes.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu
 
 1.  **Colonne d’ancrage :** garde ta plus haute valeur vers le centre pour
@@ -38,20 +40,26 @@ fusions qui libèrent de la place au lieu de bloquer les colonnes.
 5.  **Colonne poubelle :** réserve un bord pour les cartes « hors cycle »
     qui ne s’intègrent pas à tes plans immédiats.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - Clique sur une colonne pour y poser la carte en cours ; utilise les
   fonctions d’annulation / indices si l’interface le permet.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:solitaire-2048:columns-keep-locking-278e1f59 -->
 - **Mes colonnes se bloquent sans arrêt, que faire ?**  
   Répartis la préparation des paires sur les deux côtés et évite de
   déclencher les fusions trop tôt.
 
+<!-- i18n:faq:id=faq:solitaire-2048:anchor-corner-or-center-1911c10f -->
 - **Vaut‑il mieux ancrer dans un coin ou au centre ?**  
   Le centre offre plus de routes de fusion et donc plus de flexibilité.
 
+<!-- i18n:faq:id=faq:solitaire-2048:can-i-recover-from-bad-12553781 -->
 - **Puis‑je me remettre d’une mauvaise pile ?**  
   Oui : commence par aplatir les colonnes les plus hautes puis reconstruis
   des paires avant de relancer des fusions.
+

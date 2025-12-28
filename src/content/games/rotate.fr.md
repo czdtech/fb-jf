@@ -20,6 +20,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Rotate est un jeu de réflexion basé sur la physique où tu fais pivoter tout
@@ -41,6 +42,7 @@ timing de chaque rotation pour amener la bille sur la case d’arrivée.
 5.  **Changer de point de vue :** regarder le niveau sous différents angles
     peut faire apparaître des solutions auxquelles tu n’avais pas pensé.
 
+<!-- i18n:section:how-to-play -->
 ### Comment jouer
 
 *   **Rotation du monde :** en général, tu utilises le clic/drag de la
@@ -69,3 +71,4 @@ timing de chaque rotation pour amener la bille sur la case d’arrivée.
 4.  **Q : Combien de niveaux le jeu propose‑t‑il ?**  
    R : Rotate comporte généralement plusieurs mondes et des dizaines de
    niveaux, avec une difficulté qui augmente progressivement.
+

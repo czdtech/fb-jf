@@ -18,6 +18,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Secret Agent mélange infiltration et petits casse‑têtes de trajet. Tu dois
@@ -25,6 +26,7 @@ neutraliser des caméras, éviter les cônes de vision, pirater des portes et
 collecter des informations avant l’exfiltration. Un bon tracé de route et
 un usage précis de tes gadgets valent mieux que la force brute.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu
 
 1.  **Gérer les cônes de vision :** ne te déplace que lorsque les cônes des
@@ -39,6 +41,7 @@ un usage précis de tes gadgets valent mieux que la force brute.
 5.  **Bien réagir en cas d’alerte :** si tu es repéré, casse rapidement la
     ligne de vue et cache‑toi au lieu de sprinter au hasard.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - Déplacement : WASD ou flèches directionnelles.  
@@ -46,16 +49,21 @@ un usage précis de tes gadgets valent mieux que la force brute.
 - Interaction : approche‑toi des terminaux ou objets interactifs.  
 - Redémarrage : via le menu en jeu.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:secret-agent:im-always-spotted-afdb7849 -->
 - **Je me fais toujours repérer, que faire ?**  
   Étudie les cycles de patrouille, cale tes déplacements sur leur rythme et
   utilise les couvertures pour passer d’une zone à l’autre.
 
+<!-- i18n:faq:id=faq:secret-agent:gadgets-feel-scarce-dd404211 -->
 - **Les gadgets semblent trop rares…**  
   Utilise‑les seulement pour débloquer les salles vraiment impossibles.
   Dans les autres, repose‑toi surtout sur le timing et les déplacements.
 
+<!-- i18n:faq:id=faq:secret-agent:can-i-ghost-levels-337f3b17 -->
 - **Puis‑je finir un niveau sans être détecté ?**  
   Oui, et beaucoup de versions offrent des bonus si tu termines un niveau
   sans déclencher d’alerte.
+

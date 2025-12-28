@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 SocCar est un jeu de sport hybride qui combine la vitesse des jeux de
@@ -25,6 +26,7 @@ sur un grand terrain et tu dois frapper un ballon géant pour le pousser
 dans les buts adverses. Le gameplay repose sur des réflexes rapides, un bon
 placement et une bonne gestion de ton boost.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 Ton objectif principal est de marquer plus de buts que ton adversaire avant
@@ -34,14 +36,18 @@ terrain ou pour décocher des frappes puissantes. La maîtrise du ballon est
 essentielle, tout comme le choix du bon moment pour attaquer ou revenir
 protéger ton but.
 
+<!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `WASD` `Arrow Keys` `Shift` `Spacebar` `Right Mouse Button`
 
-- **Déplacement :** `WASD` ou flèches directionnelles pour conduire.  
-- **Boost / Dash :** `Shift` ou barre d’espace pour un sprint, utile pour
+- **Déplacement :** WASD ou flèches directionnelles pour conduire.  
+- **Boost / Dash :** Shift ou barre d’espace pour un sprint, utile pour
   arriver sur le ballon en premier ou sauver ton but.  
 - **Saut :** clic droit ou touche dédiée pour faire sauter la voiture, très
   utile sur les balles aériennes.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
 **Quel est l’objectif de SocCar ?**  
@@ -58,3 +64,4 @@ bon moment est aussi essentiel.
 Dans SocCar, tu es une voiture : tu peux donc utiliser la vitesse, les
 boosts et les sauts pour frapper la balle d’une façon impossible dans un
 match de foot normal, ce qui rend le jeu explosif et très spectaculaire.
+

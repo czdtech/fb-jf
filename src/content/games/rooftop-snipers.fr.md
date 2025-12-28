@@ -20,6 +20,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Rooftop Snipers est le tout premier épisode de cette série de shooters
@@ -41,6 +42,7 @@ drôles et son gameplay aussi simple que punitif.
 5.  **Exploiter le terrain :** certains toits offrent des petits reliefs ou
     abris ; utilise‑les pour obtenir de meilleurs angles de tir.
 
+<!-- i18n:section:how-to-play -->
 ### Comment jouer
 
 *   **Déplacement :** utilise A/D ou les flèches gauche/droite pour te
@@ -68,3 +70,4 @@ drôles et son gameplay aussi simple que punitif.
 4.  **Q : Existe‑t‑il un mode solo ?**  
    R : Le cœur du jeu reste le 1v1 local, mais certaines versions
    proposent un mode contre l’IA.
+

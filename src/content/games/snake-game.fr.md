@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Snake Game est le jeu d’arcade emblématique dans lequel tu diriges un
@@ -38,6 +39,7 @@ incontournable de l’histoire du jeu vidéo.
 5.  **Gérer la longueur :** quand le serpent est très long, fais attention
     à la façon dont tu boucles sur toi‑même pour ne pas te coincer.
 
+<!-- i18n:section:how-to-play -->
 ### Comment jouer
 
 *   **Monter :** flèche haut ou touche W.  
@@ -62,3 +64,4 @@ incontournable de l’histoire du jeu vidéo.
 4.  **Q : Y a‑t‑il plusieurs modes de jeu ?**  
    R : Les versions classiques n’ont souvent qu’un mode, mais les versions
    modernes proposent parfois des variantes et défis supplémentaires.
+

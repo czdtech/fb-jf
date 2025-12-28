@@ -18,6 +18,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Rocket League est un jeu de sport à haute intensité qui combine football et
@@ -40,6 +41,7 @@ spectaculaire.
     garde‑en pour les moments clés (sauvetages, contre‑attaques, duels
     aériens).
 
+<!-- i18n:section:how-to-play -->
 ### Comment jouer
 
 *   **Déplacement :** utilise les flèches ou les touches WASD pour
@@ -70,3 +72,4 @@ spectaculaire.
    R : Entraîne‑toi aux bases, utilise le mode entraînement, regarde des
    replays de joueurs de haut niveau et ajoute progressivement de nouvelles
    techniques à ton jeu.
+

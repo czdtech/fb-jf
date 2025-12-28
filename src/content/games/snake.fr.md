@@ -18,6 +18,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Snake est un jeu d’arcade classique où tu contrôles une ligne qui s’allonge
@@ -25,6 +26,7 @@ progressivement. Le but est de manger les bonus qui apparaissent à l’écran 
 chaque item avalé allonge ton serpent. Le défi consiste à éviter les murs
 et ton propre corps qui devient de plus en plus encombrant.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 Le principe est simple : guide le serpent vers la nourriture. À mesure que
@@ -33,16 +35,20 @@ tu manges, tu deviens plus long, et souvent plus rapide, ce qui augmente la
 obstacle. Ton objectif est de faire le meilleur score possible avant la
 collision fatale.
 
+<!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `W` `A` `S` `D` `Spacebar`
 
 Les commandes sont généralement très simples :  
 - **Flèches directionnelles :** Haut, Bas, Gauche, Droite pour orienter le
   serpent.  
-- **Touches WASD :** la plupart des versions acceptent aussi `W`, `A`, `S`,
-  `D` pour les mêmes actions.  
+- **Touches WASD :** la plupart des versions acceptent aussi W, A, S,
+  D pour les mêmes actions.  
 - **Pause :** la barre d’espace permet souvent de mettre le jeu en pause et
   de le reprendre.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
 **Quel est l’objectif principal de Snake ?**  
@@ -58,3 +64,4 @@ de prévoir tes déplacements à l’avance.
 **D’où vient Snake ?**  
 Le concept vient du jeu d’arcade « Blockade » de 1976, mais il a explosé en
 popularité lorsqu’il a été intégré aux téléphones Nokia à partir de 1998.
+

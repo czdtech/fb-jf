@@ -20,6 +20,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Soccer Random est un jeu de foot chaotique et hilarant basé sur la
@@ -29,6 +30,7 @@ vient du fait que tout peut changer après chaque but : type de ballon,
 apparence des joueurs, terrain (glace, plage, terrain classique, etc.),
 ce qui t’oblige à t’adapter en permanence.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 Le premier joueur ou la première équipe à marquer 5 buts remporte le
@@ -38,14 +40,18 @@ imprévisible du jeu. Une manche peut se jouer sur neige, la suivante sur
 une plage. Utilise le bouton unique pour caler tes sauts au bon moment,
 frapper le ballon et défendre ton but.
 
+<!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `W` `Up Arrow`
 
 Le jeu est pensé pour être ultra simple, jouable à un ou deux joueurs sur
 le même clavier.  
-- **Joueur 1 :** touche `W`.  
+- **Joueur 1 :** touche W.  
 - **Joueur 2 :** flèche **Haut**.  
 Appuie sur ta touche pour faire sauter/ tirer tes joueurs.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
 **Quel est l’objectif de Soccer Random ?**  
@@ -58,3 +64,4 @@ Tu peux jouer seul contre l’ordinateur ou à deux sur le même appareil.
 C’est le principe du jeu ! Le terrain, les joueurs et les ballons qui
 changent après chaque but rendent chaque match unique et gardent la partie
 fun et imprévisible.
+

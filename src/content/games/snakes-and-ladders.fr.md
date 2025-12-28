@@ -18,6 +18,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Snakes and Ladders est un jeu de plateau intemporel, aussi appelé Chutes
@@ -26,6 +27,7 @@ jeu de pur hasard où les joueurs se disputent la première place pour
 atteindre la case finale du plateau. Les échelles t’aident à grimper vers
 la victoire, tandis que les serpents te font glisser en arrière.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 Le but est d’être le premier joueur à atteindre la dernière case (souvent
@@ -34,11 +36,13 @@ indiqué. Si tu termines sur une case au pied d’une échelle, tu montes
 immédiatement jusqu’à la case de son sommet. À l’inverse, si tu atterris
 sur une case avec une tête de serpent, tu dois redescendre jusqu’à sa queue.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - **Souris / Tactile :** clique ou touche la zone prévue pour lancer le
   dé. Le jeu déplace ton pion automatiquement.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
 **Quel est l’objectif principal de Snakes and Ladders ?**  
@@ -57,3 +61,4 @@ Dans beaucoup de variantes, un six te donne un tour supplémentaire.
 Cela dépend des règles de la version jouée. Dans les règles classiques, il
 faut généralement tomber exactement sur la case finale. Si ton jet dépasse,
 tu rebondis en arrière du nombre de cases excédentaires.
+

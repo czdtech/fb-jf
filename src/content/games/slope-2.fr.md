@@ -19,6 +19,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Slope 2 reprend le principe du premier Slope : tu diriges une bille qui
@@ -41,6 +42,7 @@ types d’obstacles et des parcours encore plus exigeants.
 5.  **Concentration :** reste très attentif ; la moindre distraction se
     paye immédiatement.
 
+<!-- i18n:section:how-to-play -->
 ### Comment jouer
 
 *   **Gauche/Droite :** touches A/D ou flèches gauche/droite pour déplacer
@@ -68,3 +70,4 @@ types d’obstacles et des parcours encore plus exigeants.
 4.  **Q : Le jeu garde‑t‑il les meilleurs scores ?**  
    R : Oui, ton record est enregistré et tu peux essayer de le battre à
    chaque run.
+

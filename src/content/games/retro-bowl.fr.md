@@ -20,6 +20,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Retro Bowl est un jeu de football américain à l’esthétique 8‑bit dans lequel
@@ -43,6 +44,7 @@ offrir une expérience de foot US complète.
 5.  **Planifier la saison :** pense à long terme, développe les jeunes
     joueurs et vise une place en playoffs, puis le trophée Retro Bowl.
 
+<!-- i18n:section:how-to-play -->
 ### Comment jouer
 
 *   **Passes :** fais glisser pour viser un receveur puis relâche pour
@@ -71,3 +73,4 @@ offrir une expérience de foot US complète.
 4.  **Q : Les joueurs peuvent‑ils se blesser ?**  
     R : Oui, des blessures peuvent survenir et affecter leurs performances,
     ce qui t’oblige à faire tourner l’effectif et à gérer ton banc.
+

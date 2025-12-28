@@ -20,6 +20,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Slope 3 poursuit la formule nerveuse de la série : tu guides une bille qui
@@ -41,6 +42,7 @@ expérimentés.
 5.  **Tenir sur la durée :** entraîne‑toi à rester concentré longtemps,
     car les meilleures runs demandent une attention continue.
 
+<!-- i18n:section:how-to-play -->
 ### Comment jouer
 
 *   **Mouvement gauche/droite :** touches A/D ou flèches gauche/droite.  
@@ -66,3 +68,4 @@ expérimentés.
 4.  **Q : La progression est‑elle sauvegardée ?**  
    R : La plupart des versions enregistrent au minimum ton meilleur score et
    parfois certains succès, selon l’implémentation.
+

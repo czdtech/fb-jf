@@ -20,6 +20,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Five Nights at Freddy's Shooter est un spin‑off de tir qui reprend les
@@ -43,6 +44,7 @@ l’ambiance horrifique classique de FNAF avec le rythme d’un shooter arcade.
 5.  **Préparation entre les vagues :** profite des pauses pour recharger,
     changer d’arme et te replacer avant la vague suivante.
 
+<!-- i18n:section:how-to-play -->
 ### Comment jouer
 
 *   **Déplacement :** touches WASD ou flèches directionnelles.  
@@ -69,3 +71,4 @@ l’ambiance horrifique classique de FNAF avec le rythme d’un shooter arcade.
 4.  **Q : Comment gérer plusieurs ennemis qui attaquent en même temps ?**  
    R : Reste calme, focus les menaces les plus proches et utilise le décor
    pour scinder les groupes au lieu de les affronter tous en face.
+

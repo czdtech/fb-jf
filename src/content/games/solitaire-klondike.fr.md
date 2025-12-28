@@ -18,6 +18,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Klondike Solitaire est la variante de solitaire la plus célèbre, souvent
@@ -26,6 +27,7 @@ objectif est de tout ranger dans quatre piles de fondation, une pour
 chaque couleur, en ordre croissant. C’est un jeu de patience, de stratégie
 et d’un peu de chance.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 L’objectif principal est de construire quatre piles de fondation en
@@ -41,12 +43,14 @@ commençant par l’As et en terminant par le Roi pour chaque couleur (A♣, 2�
 - **Colonnes vides :** seul un Roi peut être déplacé sur une colonne
   vide du tableau.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - **Souris / tactile :** clique‑dépose les cartes pour les déplacer entre
   les piles. Dans la plupart des versions, un simple clic peut aussi
   envoyer automatiquement une carte vers une position valide.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
 **Quelle différence entre Klondike et les autres solitaires ?**  
@@ -61,3 +65,4 @@ probablement été populaire parmi les chercheurs d’or.
 **Toutes les parties de Klondike sont‑elles gagnables ?**  
 Non. Le mélange aléatoire fait que certaines distributions sont
 mathématiquement impossibles à résoudre, ce qui fait partie du défi.
+

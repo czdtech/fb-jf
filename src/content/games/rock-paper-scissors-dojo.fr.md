@@ -18,6 +18,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Rock Paper Scissors Dojo transforme le classique « pierre‑feuille‑ciseaux »
@@ -27,6 +28,7 @@ exemple, certains répètent après une victoire, d’autres changent après une
 défaite) et tu adaptes ta stratégie en conséquence sans devenir toi‑même
 prévisible.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu
 
 1.  **Mélange de base :** commence avec un mix relativement équilibré
@@ -44,21 +46,27 @@ prévisible.
 5.  **Gestion de la série :** dans un « best‑of N », resserre ton jeu
     lorsque tu approches des manches décisives.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - Choisis pierre, feuille ou ciseaux à chaque manche. De nombreux modes
   proposent aussi un jeu à 2 joueurs en local.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:rock-paper-scissors-dojo:isnt-rps-random-bad2327f -->
 - **Q : Pierre‑feuille‑ciseaux n’est‑il pas purement aléatoire ?**  
   R : En théorie oui, mais les humains ont des biais. Les exploiter peut
   te donner un avantage sur le long terme.
 
+<!-- i18n:faq:id=faq:rock-paper-scissors-dojo:any-unbeatable-strategy-a4b15560 -->
 - **Q : Existe‑t‑il une stratégie imbattable ?**  
   R : Non, mais un mélange équilibré et une adaptation rapide face aux
   tendances de l’adversaire restent des approches solides.
 
+<!-- i18n:faq:id=faq:rock-paper-scissors-dojo:twoplayer-bff3ba91 -->
 - **Q : Peut‑on jouer à deux ?**  
   R : Oui, beaucoup de versions incluent un mode 2 joueurs sur le même
   appareil.
+

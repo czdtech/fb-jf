@@ -18,6 +18,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Retro Drift est un jeu de course minimaliste en vue de dessus entièrement
@@ -26,6 +27,7 @@ fluides et les enchaînements de virages : la douceur sur l’accélérateur, l
 bon timing du contre‑braquage et la vitesse en sortie déterminent tes
 chronos et tes multiplicateurs de score.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu
 
 1.  **Entrer lentement, sortir vite :** accepte de sacrifier un peu de
@@ -42,6 +44,7 @@ chronos et tes multiplicateurs de score.
     pour les points de freinage et le moment où il faut tourner vers
     l’apex.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - Direction : A/D ou Gauche/Droite.  
@@ -49,17 +52,22 @@ chronos et tes multiplicateurs de score.
 - Frein à main (si disponible) : barre d’espace pour faire pivoter la
   voiture plus brutalement.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:retro-drift:i-keep-spinningwhy-68807685 -->
 - **Je pars tout le temps en tête‑à‑queue, pourquoi ?**  
   Tu mets probablement trop de gaz ou tu contre‑braques trop tard. Assouplis
   tes entrées et réagis un peu plus tôt.
 
+<!-- i18n:faq:id=faq:retro-drift:best-way-to-link-corners-be5683e8 -->
 - **Comment bien enchaîner les virages ?**  
   Concentre‑toi sur la sortie du virage A pour te placer naturellement dans
   le virage B, sans revenir complètement en pleine adhérence entre les
   deux.
 
+<!-- i18n:faq:id=faq:retro-drift:are-upgrades-available-67e52001 -->
 - **Y a‑t‑il des améliorations de voiture ?**  
   Certains modes permettent de débloquer de nouveaux véhicules, mais la
   vraie progression vient surtout de ta maîtrise et de ta régularité.
+

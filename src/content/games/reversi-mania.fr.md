@@ -19,6 +19,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Reversi Mania est une adaptation fidèle et accessible du Reversi (aussi
@@ -30,6 +31,7 @@ qui retourne au moins un pion, il doit passer. La partie se termine
 lorsqu’aucun des deux joueurs ne peut jouer (généralement lorsque le
 plateau est rempli) ; le joueur possédant le plus de pions l’emporte.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu
 
 1.  **Priorité aux coins :** un pion placé dans un coin ne peut plus être
@@ -46,6 +48,7 @@ plateau est rempli) ; le joueur possédant le plus de pions l’emporte.
     chaque région du plateau. Contrôler si une zone a un nombre pair ou
     impair de cases libres peut te donner l’avantage final.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - **Poser un pion :** clique ou tape sur une case légale (la plupart des
@@ -56,20 +59,26 @@ plateau est rempli) ; le joueur possédant le plus de pions l’emporte.
 - **Modes :** souvent disponibles en solo (contre l’IA) ou à 2 joueurs
   sur le même appareil.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:reversi-mania:what-makes-a-move-legal-086cedf1 -->
 - **Qu’est‑ce qui rend un coup légal ?**  
   Il doit encadrer un ou plusieurs pions adverses en ligne droite ; tous
   ces pions sont alors retournés.
 
+<!-- i18n:faq:id=faq:reversi-mania:what-if-neither-side-can-cabe279e -->
 - **Que se passe‑t‑il si aucun des joueurs ne peut jouer ?**  
   La partie se termine et le joueur ayant le plus de pions sur le plateau
   gagne.
 
+<!-- i18n:faq:id=faq:reversi-mania:is-going-first-stronger-cfd85fbd -->
 - **Jouer en premier est‑ce un avantage ?**  
   L’initiative aide, mais la clé reste la gestion des coins, de la
   mobilité et de la parité en fin de partie.
 
+<!-- i18n:faq:id=faq:reversi-mania:any-quick-tip-for-beginners-955da046 -->
 - **Un conseil rapide pour débuter ?**  
   Ne retourne pas trop de pions au début ; privilégie la mobilité et évite
   les cases « X » tant que tu ne peux pas sécuriser les coins.
+

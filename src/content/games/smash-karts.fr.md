@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Smash Karts est un jeu de kart en ligne multijoueur où tu t’affrontes dans
@@ -38,6 +39,7 @@ fun.
 5.  **Sens du timing :** choisis soigneusement le moment où tu utilises
     tes objets pour surprendre ou renverser la situation.
 
+<!-- i18n:section:how-to-play -->
 ### Comment jouer
 
 *   **Déplacement :** touches WASD ou flèches pour diriger ton kart.  
@@ -65,3 +67,4 @@ fun.
 4.  **Q : Y a‑t‑il plusieurs modes de jeu ?**  
    R : Oui, on trouve généralement des courses classiques, des modes
    bataille, des combats en équipe, etc.
+

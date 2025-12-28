@@ -21,6 +21,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Slope est le premier endless runner de la série. Tu y diriges une bille
@@ -42,6 +43,7 @@ qui rend chaque seconde de plus en plus intense.
 5.  **Rester calme :** garde la tête froide à haute vitesse pour limiter
     les erreurs de panique.
 
+<!-- i18n:section:how-to-play -->
 ### Comment jouer
 
 *   **Aller à gauche :** touche A ou flèche gauche.  
@@ -66,3 +68,4 @@ qui rend chaque seconde de plus en plus intense.
 4.  **Q : Le jeu a‑t‑il une fin ?**  
    R : Slope est un jeu infini qui peut, en théorie, durer sans limite ; le
    but est de voir combien de temps tu peux tenir.
+

@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Présentation détaillée du jeu
 
 Solitaire 0‑21 mélange une mise en page de solitaire avec des contraintes
@@ -26,6 +27,7 @@ totaux de chaque ligne restent dans l’intervalle [0, 21]. Des modificateurs
 partie consiste à alterner placements sûrs et gestion de « pics » pour
 garder de la marge.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu
 
 1.  **Garder une marge :** laisse toujours un peu d’espace avant 21 ; évite
@@ -40,21 +42,27 @@ garder de la marge.
 5.  **Bien utiliser l’annulation :** dès que tu vois qu’une ligne est
     bloquée, annule immédiatement et repense ton placement.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - Clique ou fais glisser pour poser les cartes ; utilise les boutons
   d’annulation / indice proposés par l’interface.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:solitaire-0-21:totals-keep-busting-a8b7e346 -->
 - **Mes totaux dépassent sans arrêt la limite, que faire ?**  
   Tu joues trop près des bords 0/21 ; laisse une zone tampon et utilise les
   modificateurs avec plus de parcimonie.
 
+<!-- i18n:faq:id=faq:solitaire-0-21:best-way-to-use-negatives-0969db9d -->
 - **Quelle est la meilleure façon d’utiliser les cartes négatives ?**  
   Associe‑les avec les grosses valeurs sur la même ligne pour « réinitialiser »
   l’espace disponible.
 
+<!-- i18n:faq:id=faq:solitaire-0-21:is-luck-dominant-bed2b357 -->
 - **La chance est‑elle plus importante que la stratégie ?**  
   Le tirage compte, mais la façon dont tu places les cartes influence
   énormément le résultat.
+

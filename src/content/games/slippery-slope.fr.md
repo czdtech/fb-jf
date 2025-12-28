@@ -21,6 +21,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Slippery Slope est un jeu de descente où tu dévales des pistes enneigées
@@ -42,6 +43,7 @@ demande.
 5.  **Évaluer le risque :** choisis quand tenter des raccourcis plus
     dangereux et quand rester sur la trajectoire sûre.
 
+<!-- i18n:section:how-to-play -->
 ### Comment jouer
 
 *   **Direction :** flèches gauche/droite ou touches A/D pour orienter ta
@@ -70,3 +72,4 @@ demande.
    R : Descends le plus vite possible sans te crasher, ramasse les objets
    bonus et, si le jeu le permet, exécute quelques figures pour gagner des
    points supplémentaires.
+

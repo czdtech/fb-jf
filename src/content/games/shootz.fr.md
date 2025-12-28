@@ -20,6 +20,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 ShootZ est un jeu de tir intense dans lequel tu affrontes vagues après
@@ -41,6 +42,7 @@ d’armement varié et évolutif.
 5.  **Combiner les armes :** apprends à alterner entre plusieurs armes pour
     t’adapter à chaque situation (horde proche, ennemi résistant, etc.).
 
+<!-- i18n:section:how-to-play -->
 ### Comment jouer
 
 *   **Déplacement :** touches WASD ou flèches pour bouger ton personnage.  
@@ -69,3 +71,4 @@ d’armement varié et évolutif.
 4.  **Q : Comment améliorer ma précision ?**  
    R : Entraîne‑toi à viser, anticipe les déplacements des ennemis en
    mouvement et ajuste la sensibilité de ta souris.
+

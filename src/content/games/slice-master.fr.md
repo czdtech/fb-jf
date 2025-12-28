@@ -21,6 +21,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Slice Master est un jeu de découpe très fluide où tu diriges un couteau qui
@@ -41,6 +42,7 @@ de ramasser un maximum de récompenses sans heurter les obstacles.
 5.  **Collecter les bonus :** récupère les pièces et objets spéciaux sur
     ton chemin pour améliorer tes capacités ou débloquer du contenu.
 
+<!-- i18n:section:how-to-play -->
 ### Comment jouer
 
 *   **Contrôler la direction :** utilise la souris ou le tactile pour
@@ -67,3 +69,4 @@ de ramasser un maximum de récompenses sans heurter les obstacles.
 4.  **Q : Comment améliorer mon score ?**  
    R : Enchaîne les coupes sans erreur, ramasse les bonus et évite les
    collisions pour maintenir ton combo et ton multiplicateur.
+

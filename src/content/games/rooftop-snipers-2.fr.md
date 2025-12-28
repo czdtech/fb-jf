@@ -20,6 +20,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Rooftop Snipers 2 est un jeu de tir complètement loufoque basé sur la
@@ -43,6 +44,7 @@ chaque manche imprévisible et très drôle.
 5.  **Jouer sur le mental :** feinte, sautille, avance puis recule pour
     brouiller les pistes et créer des ouvertures de tir.
 
+<!-- i18n:section:how-to-play -->
 ### Comment jouer
 
 *   **Déplacement :** utilise les touches gauche/droite pour déplacer ton
@@ -72,3 +74,4 @@ chaque manche imprévisible et très drôle.
 4.  **Q : Y a‑t‑il plusieurs cartes ?**  
    R : En général, tu peux te battre sur différents toits, chacun avec sa
    propre disposition et ses petits pièges.
+
