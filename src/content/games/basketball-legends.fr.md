@@ -12,6 +12,7 @@ score: 4.5/5  (832 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 *Basketball Legends* est un jeu de basket 2D rapide mettant en scène des versions caricaturales de stars de la NBA. Tout est orienté arcade : sauts immenses, contres spectaculaires, dunks en chaîne et tirs spéciaux impossibles à bloquer.
@@ -74,19 +75,26 @@ Le jeu permet à deux joueurs de partager le même clavier en utilisant chacun u
 - Feinte / voler la balle : flèche bas  
 - Super Shoot : `K`
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:basketball-legends:how-do-i-perform-a-7374b543 -->
 **1. Comment lancer un Super Shoot ?**  
 Remplis la jauge bleue en attaque/défense. Quand elle clignote, appuie sur `V` (J1) ou `K` (J2) pour déclencher un tir imparable.
 
+<!-- i18n:faq:id=faq:basketball-legends:what-is-the-best-way-fd358af9 -->
 **2. Comment gagner un tournoi ?**  
 Priorise la défense, utilise le dash pour couper les contre‑attaques et garde le Super Shoot pour changer le momentum.
 
+<!-- i18n:faq:id=faq:basketball-legends:why-cant-i-block-the-ef1c825d -->
 **3. Pourquoi je ne peux pas contrer le Super Shoot adverse ?**  
 Il est volontairement imbloquable. Prépare plutôt ta contre‑attaque juste après.
 
+<!-- i18n:faq:id=faq:basketball-legends:whats-the-difference-between-t-6394c71e -->
 **4. Les personnages ont‑ils des stats différentes ?**  
 Presque pas : les écarts sont surtout esthétiques, donc choisis ton basketteur favori sans crainte.
 
+<!-- i18n:faq:id=faq:basketball-legends:can-i-pass-the-ball-eea2c74f -->
 **5. Comment faire une passe en 2v2 ?**  
 Quand ton coéquipier n’a pas le ballon, appuie sur le bouton de tir (`B` ou `L`) et l’action sera convertie en passe.
+

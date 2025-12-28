@@ -13,6 +13,7 @@ score: 3.8/5  (1432 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Dans *Block Dimension*, tu places des pièces de différentes formes sur une grille 10×10. Dès qu’une ligne horizontale ou verticale est entièrement remplie, elle disparaît et te rapporte des points.
@@ -34,16 +35,22 @@ La partie s’achève lorsque tu ne peux plus poser aucune des trois pièces pro
 5.  **Gère les grosses formes**  
     Les blocs 3×3 ou les lignes longues doivent être planifiés à l’avance ; garde toujours un espace où ils pourront rentrer.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 -   **Glisser-déposer :** clique/tape sur une pièce puis fais‑la glisser sur la grille pour la déposer.  
 -   **Valider la pose :** relâche pour confirmer lorsque la zone est surlignée. Les pièces ne se **tournent pas**, il faut composer avec leur orientation.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:block-dimension:q-can-i-rotate-the-8b38e9ae -->
 -   **Q : Puis‑je faire tourner les pièces ?**  
     -   **R :** Non, tu dois les utiliser telles qu’elles apparaissent, ce qui rend la gestion de l’espace encore plus importante.
+<!-- i18n:faq:id=faq:block-dimension:q-how-do-i-clear-02391945 -->
 -   **Q : Comment effacer une ligne ?**  
     -   **R :** Dès que les 10 cases d’une rangée ou d’une colonne sont occupées, elles disparaissent automatiquement et libèrent de la place.
+<!-- i18n:faq:id=faq:block-dimension:q-what-is-the-best-03413fee -->
 -   **Q : Quelle est la meilleure stratégie pour scorer ?**  
     -   **R :** Prépare des combos de lignes multiples et évite de te précipiter. Plus tu maintiens la grille propre longtemps, plus ton score grimpe.
+

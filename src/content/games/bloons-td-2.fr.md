@@ -12,6 +12,7 @@ score: 4.9/5  (574 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 *Bloons TD 2* reprend la formule du premier opus et y ajoute la possibilité **d’améliorer chaque tour**. L’objectif reste d’empêcher 50 vagues de bloons d’atteindre la sortie en plaçant et en faisant évoluer tes tours singes le long du parcours.
@@ -33,6 +34,7 @@ La partie s’étend sur 50 manches à difficulté croissante : chaque bloon éc
     -   **Zébrés :** mélangent les deux immunités et libèrent un noir + un blanc lorsqu’ils éclatent.  
     -   **Arc‑en‑ciel :** très résistants, libèrent deux zébrés.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 -   **Défense équilibrée obligatoire :** impossible de se reposer uniquement sur les bombes (bloons noirs) ou la glace (bloons blancs). Garde toujours des tours « tranchantes » (Dart Monkey, Tack Shooter, Super Monkey) actives.
@@ -43,8 +45,9 @@ La partie s’étend sur 50 manches à difficulté croissante : chaque bloon éc
     -   Positionne les Ice Towers dans le champ d’autres tours pour maximiser le temps d’exposition au feu ennemi.
 -   **Préparer la manche 28 (bloons de plomb) :** ce sont les premiers bloons qui exigent des explosions, donc construis au moins une Bomb Tower avant cette vague.
 -   **Gérer les vagues de noirs/blancs :** upgrade tes tours tranchantes (Dart, Tack, Super) pour entamer ces types pendant que les bombes/glaces s’occupent du reste.
--   **Économiser pour un Super Monkey :** c’est ton arme principale contre les dernières vagues arc‑en‑ciel, donc réserve-lui une longue ligne de tir.
+-   **Économiser pour un Super Monkey :** c’est ton arme principale contre les dernières vagues arc‑en‑ciel (46–50), donc réserve-lui une longue ligne de tir.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 Le jeu se contrôle intégralement à la souris :
@@ -54,19 +57,25 @@ Le jeu se contrôle intégralement à la souris :
 -   **Améliorer :** clique sur une tour déjà posée pour afficher ses upgrades puis achète-les.  
 -   **Raccourcis :** les touches 1–5 sélectionnent directement les tours correspondantes.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:bloons-td-2:why-isnt-my-bomb-tower-b290ce7b -->
 **1. Pourquoi ma Bomb Tower n’éclate-t-elle pas les bloons noirs ?**  
 > Ils sont immunisés aux explosions. Utilise des Dart Monkeys, Tack Shooters ou le Super Monkey pour entamer leurs PV.
 
+<!-- i18n:faq:id=faq:bloons-td-2:why-are-the-white-balloons-e75769ed -->
 **2. Pourquoi les bloons blancs traversent-ils ma tour de glace ?**  
 > Les blancs ne peuvent pas être gelés. Ta glace doit servir à ralentir les autres couleurs pendant que tes tours offensives finissent le travail.
 
+<!-- i18n:faq:id=faq:bloons-td-2:what-is-the-best-tower-548c67b5 -->
 **3. Quelle est la meilleure tour ?**  
 > Il n’y a pas de tour miracle : le Super Monkey est très puissant, mais tu resteras vulnérable sans bombes pour les leads ni tours tranchantes pour les noirs/blancs.
 
+<!-- i18n:faq:id=faq:bloons-td-2:how-many-rounds-are-there-bc36dc0a -->
 **4. Combien de manches y a-t-il ?**  
 > Bloons TD 2 comporte 50 manches, avec des vagues d’arc-en-ciel extrêmement denses en fin de partie.
 
+<!-- i18n:faq:id=faq:bloons-td-2:how-do-i-make-extra-07b6fc14 -->
 **5. Peut-on gagner de l’argent autrement ?**  
 > Non. Contrairement aux épisodes ultérieurs, seul l’éclatement des bloons rapporte de l’argent dans Bloons TD 2.

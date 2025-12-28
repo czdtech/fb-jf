@@ -8,12 +8,15 @@ thumbnail: /new-images/thumbnails/bejeweled.png
 tags:
   - bejeweled
 score: 4.8/5  (654 votes)
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 *Bejeweled* est un jeu de réflexion emblématique du genre match‑3. Tu dois échanger deux gemmes adjacentes pour former une ligne horizontale ou verticale d’au moins trois gemmes de la même couleur. Les gemmes alignées disparaissent, celles du dessus tombent pour combler les trous et peuvent créer des réactions en chaîne.
 
+<!-- i18n:section:how-to-play -->
 ### Comment jouer à Bejeweled
 
 - **Action principale :** tu peux uniquement échanger deux gemmes voisines (horizontalement ou verticalement). L’échange n’est validé que s’il crée au moins un alignement de trois.  
@@ -36,6 +39,7 @@ score: 4.8/5  (654 votes)
 - **Garde les Hyper Cubes pour les bons moments :** ne les gaspille pas dès que tu en obtiens un. Attends qu’une couleur domine le plateau ou combine‑les avec une gemme spéciale pour un effet massif (selon la version).  
 - **En mode classique, prends ton temps :** observe tout le plateau avant de jouer et utilise le bouton d’indice seulement si tu es vraiment bloqué.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
 **Q : Bejeweled est‑il gratuit ?**  
@@ -46,3 +50,4 @@ score: 4.8/5  (654 votes)
 
 **Q : Différence entre Bejeweled Classic et Bejeweled Blitz ?**  
 **R :** Classic est un jeu posé et stratégique sans limite de temps. Blitz est un mode ultra rapide de 60 secondes orienté score et classement entre amis.
+

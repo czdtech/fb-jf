@@ -12,6 +12,7 @@ score: 4.3/5  (1837 votes)
 releaseDate: 2025-10-18
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 *Bee Connect* est un puzzle de fusion numérique situé sur une ruche hexagonale. L’objectif est d’assembler des tuiles numérotées pour créer des valeurs toujours plus élevées.
@@ -20,6 +21,7 @@ Contrairement aux jeux 2048 classiques, tu dois relier **au moins quatre** tuile
 
 Tu déplaces les tuiles une par une vers une cellule voisine vide. Attention : **si un déplacement n’entraîne pas de fusion, une nouvelle tuile issue de la file supérieure est ajoutée**, ce qui réduit l’espace disponible. Les tuiles entourées de toutes parts sont immobiles, et la partie se termine lorsque plus aucun mouvement n’est possible.
 
+<!-- i18n:section:tips -->
 ### Conseils et stratégie
 
 1.  **Toujours viser une fusion :** Chaque déplacement devrait idéalement générer une fusion. Un mouvement « gratuit » ajoute des nombres parasites et saturera vite la ruche.
@@ -29,22 +31,29 @@ Tu déplaces les tuiles une par une vers une cellule voisine vide. Attention : 
 5.  **Aérer le centre :** Déplace les fusions vers les bords pour garder le centre libre et disposer de voies de circulation.
 6.  **Garder les bonus pour les urgences :** Les pouvoirs (comme l’éclair) peuvent supprimer une tuile critique. Ne les consomme que pour débloquer une situation ou sauver une série de fusions.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 Le jeu se joue au clic ou au glisser-déposer.
 
 *   **Déplacer une tuile :** Clique et fais glisser une tuile vers une alvéole vide adjacente. Certains portages utilisent un clic de sélection puis un clic de destination.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:bee-connect:why-did-new-numbers-suddenly-4d28e900 -->
 **1. Pourquoi de nouvelles tuiles apparaissent-elles soudainement ?**  
 Parce que chaque déplacement sans fusion déclenche une pénalité qui ajoute des nombres aléatoires sur la ruche.
 
+<!-- i18n:faq:id=faq:bee-connect:why-cant-i-move-a-b10849df -->
 **2. Pourquoi une tuile refuse-t-elle de bouger ?**  
 Elle est piégée : aucune cellule voisine n’est libre, donc elle est immobile jusqu’à ce que tu libères de l’espace.
 
+<!-- i18n:faq:id=faq:bee-connect:how-many-tiles-do-i-fcf90e01 -->
 **3. Combien de tuiles identiques faut-il pour fusionner ?**  
 Il faut un groupe d’au moins quatre tuiles adjacentes. Trois tuiles côte à côte ne fusionnent pas.
 
+<!-- i18n:faq:id=faq:bee-connect:what-is-the-goal-of-c816fee5 -->
 **4. Quel est l’objectif final ?**  
 Survivre le plus longtemps possible pour battre ton record, et pour les joueurs experts, créer les plus grosses valeurs (1024, 2048, etc.) en multipliant les fusions.
+

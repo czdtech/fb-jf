@@ -13,6 +13,7 @@ score: 4.2/5  (1765 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Dans *Blocks Puzzle*, tu dois placer des formes sur une grille 10×10 pour former des lignes complètes. À chaque tour, trois pièces te sont proposées ; une fois posées, tu en reçois trois nouvelles. Le jeu s’arrête lorsque tu ne peux plus poser aucune des pièces.
@@ -30,6 +31,7 @@ Dans *Blocks Puzzle*, tu dois placer des formes sur une grille 10×10 pour forme
 5.  **Gère les formes difficiles**  
     Caser rapidement les 3×3 ou les barres longues évite qu’elles ne te bloquent plus tard.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 Le jeu utilise un simple glisser-déposer.
@@ -38,11 +40,16 @@ Le jeu utilise un simple glisser-déposer.
 -   **Poser :** relâche pour fixer la pièce à l’emplacement surligné.  
 -   **Pas de rotation :** les blocs gardent toujours leur orientation initiale.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:blocks-puzzle:q-can-i-rotate-the-8b38e9ae -->
 -   **Q : Puis‑je tourner les blocs ?**
     -   **R :** Non, il faut respecter l’orientation fournie.  
+<!-- i18n:faq:id=faq:blocks-puzzle:q-how-do-i-get-698432e6 -->
 -   **Q : Comment améliorer mon score ?**
     -   **R :** Vise les combos et garde la grille la plus propre possible pour prolonger la partie.  
+<!-- i18n:faq:id=faq:blocks-puzzle:q-what-happens-when-i-e8e69d77 -->
 -   **Q : Que se passe‑t‑il quand je n’ai plus de place ?**
     -   **R :** Si aucune des trois pièces ne peut être posée, la partie s’arrête et ton score est enregistré.
+

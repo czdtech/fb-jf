@@ -12,6 +12,7 @@ score: 4.8/5  (1401 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 *Big Shot Boxing* est un jeu de boxe arcade en pixel‑art centré sur la carrière. Tu commences comme inconnu total, participes à des combats de bas de carte, gagnes de l’argent et l’investis pour améliorer les statistiques de ton boxeur, jusqu’à affronter les meilleurs et décrocher la ceinture de champion.
@@ -29,6 +30,7 @@ Chaque adversaire a son style : certains tapent très fort mais sont lents, d�
 -   **Bien utiliser le “Big Shot” :** garde cette frappe spéciale pour finir un adversaire groggy ou très entamé afin d’assurer le KO.
 -   **Revenir grinder si besoin :** si un adversaire te bloque, refais quelques combats plus faciles pour gagner de l’argent et renforcer tes stats avant de retenter ta chance.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 (Varient selon la plateforme, mais généralement) :
@@ -40,16 +42,22 @@ Chaque adversaire a son style : certains tapent très fort mais sont lents, d�
 -   **Maintenir / glisser vers le bas :** garde haute pour bloquer les coups.
 -   **Bouton Big Shot :** apparaît quand la jauge spéciale est pleine.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:big-shot-boxing:what-are-the-best-stats-43c2c76e -->
 **Q : Quelles stats monter en premier ?**  
 > Commence par répartir les points équitablement (Force, Vitesse, Chin). Quand tu as trouvé ton style, spécialise‑toi : Force pour les KO, Vitesse pour le jeu aux points.
 
+<!-- i18n:faq:id=faq:big-shot-boxing:how-do-i-beat-an-5c2f4853 -->
 **Q : Comment battre un adversaire beaucoup plus rapide ?**  
 > Reste en garde, laisse‑le frapper et gaspiller son endurance, puis place une combinaison ou un uppercut de contre lorsqu’il ralentit.
 
+<!-- i18n:faq:id=faq:big-shot-boxing:my-punches-dont-seem-to-38034a29 -->
 **Q : Pourquoi mes coups ne font‑ils presque pas de dégâts ?**  
 > Ta Force est peut‑être trop basse ou ton endurance est vide. Fais une pause, récupère, puis investis dans l’entraînement pour hausser ton punch.
 
+<!-- i18n:faq:id=faq:big-shot-boxing:how-does-the-big-shot-26d69f2e -->
 **Q : Comment se remplit la jauge “Big Shot” ?**  
 > Elle monte en touchant ton adversaire et en bloquant ses attaques. Les contres bien timés et les gros coups font grimper la jauge plus vite.
+

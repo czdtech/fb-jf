@@ -12,6 +12,7 @@ score: 4.6/5  (926 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 *Block Champ* se joue sur une grille 10×10. Tu dois placer des pièces de formes variées pour remplir complètement des lignes horizontales ou verticales ; ces lignes se suppriment alors et libèrent de l’espace. Tu as toujours trois pièces en main, et la partie s’arrête dès qu’aucune ne peut être placée.
@@ -34,6 +35,7 @@ Pour viser le haut du classement, il faut anticiper plusieurs coups à l’avanc
 -   **Traite vite la glace :** les blocs de glace bloquent la grille plus longtemps que les autres. Cible leurs lignes en priorité pour ne pas te retrouver acculé.
 -   **Réfléchis aux trois pièces :** observe toujours les trois blocs disponibles avant de jouer. Parfois, poser une pièce sert surtout à préparer un emplacement parfait pour les deux suivantes.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 Le gameplay repose sur un glisser-déposer très simple, compatible souris et tactile.
@@ -44,16 +46,22 @@ Le gameplay repose sur un glisser-déposer très simple, compatible souris et ta
 
 **Note importante :** les pièces ne peuvent pas être pivotées. Il faut les utiliser exactement dans l’orientation fournie.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:block-champ:can-i-rotate-the-blocks-5b286f35 -->
 **1. Puis‑je tourner les blocs ?**  
 > Non. L’absence de rotation fait partie intégrante du challenge : tu dois exploiter les formes telles qu’elles arrivent.
 
+<!-- i18n:faq:id=faq:block-champ:what-do-the-lightning-bolts-d0045a3f -->
 **2. Que font exactement les blocs éclair ?**  
 > Le symbole d’éclair n’apparaît que sur un carré précis d’une pièce. Quand tu complètes la ligne qui contient ce carré, l’éclair supprime aussi toute la ligne perpendiculaire correspondante, créant un nettoyage en croix.
 
+<!-- i18n:faq:id=faq:block-champ:how-do-i-get-rid-35d6c38b -->
 **3. Comment éliminer les blocs de glace ?**  
 > Il faut effacer deux fois la ligne qui les contient. Le premier clear casse la glace, le second retire enfin le bloc et libère la case.
 
+<!-- i18n:faq:id=faq:block-champ:why-did-the-game-end-c2ae1a32 -->
 **4. Pourquoi la partie se termine alors qu’il reste de la place ?**  
 > La partie s’arrête dès qu’aucune des trois pièces proposées ne peut entrer sur la grille. Même avec des trous visibles, si aucune forme n’y rentre, c’est game over.
+

@@ -12,6 +12,7 @@ score: 4.3/5  (852 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 *Bloons TD 4* représente une grosse évolution pour la série : les tours disposent désormais de **deux chemins d’amélioration exclusifs** et tu dois choisir lequel pousser jusqu’au niveau 3/4.
@@ -28,6 +29,7 @@ Autre innovation majeure : le **système de rang de joueur**. En accumulant de 
 -   **Nouveaux modes :** notamment **Apopalypse** (vagues continues sans pause) et **Sandbox** pour tester librement.
 -   **Consommables :** Road Spikes et flaques de Monkey Glue posables directement sur la piste.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 -   **Planifie la branche de chaque tour :** comme tu ne peux plus tout acheter, décide dès le placement si une tour servira d’arme anti‑MOAB (`MOAB Mauler`) ou de contrôle de foule (`Bloon Impact`).
@@ -46,6 +48,7 @@ Autre innovation majeure : le **système de rang de joueur**. En accumulant de 
     -   un `Sun God` (ou autre tour à gros DPS) pour finir le travail ;
     -   l’aptitude `Spike Storm` de la Spike Factory en solution d’urgence proche de l’arrivée.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 L’interface reste du pur point‑and‑click :
@@ -55,19 +58,25 @@ L’interface reste du pur point‑and‑click :
 -   **Raccourcis :** les touches affichées sur les icônes sélectionnent rapidement les tours ; barre d’espace pour lancer la vague, bouton de fast‑forward pour accélérer.
 -   **Consommables :** sélectionne Road Spikes ou Monkey Glue en bas de l’écran puis clique sur la piste pour les poser.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:bloons-td-4:why-cant-i-buy-a-516616f9 -->
 **1. Pourquoi certaines tours ou upgrades sont-elles verrouillées ?**  
 > Elles nécessitent un rang de joueur plus élevé. Continue à jouer pour gagner de l’XP et les débloquer.
 
+<!-- i18n:faq:id=faq:bloons-td-4:how-do-i-pop-camo-a6b0ee8a -->
 **2. Comment éliminer les Camo Bloons ?**  
 > Utilise des tours capables de détecter les camouflés (Dart Monkey 2/2, Mortar `Signal Flare`, Spike Factory avec upgrade de détection, etc.).
 
+<!-- i18n:faq:id=faq:bloons-td-4:whats-the-difference-between-t-6964db4a -->
 **3. C’est quoi la différence entre le MOAB bleu et le BFB rouge ?**  
 > Le BFB est beaucoup plus résistant et, une fois détruit, libère quatre MOAB supplémentaires.
 
+<!-- i18n:faq:id=faq:bloons-td-4:can-i-buy-all-the-a4f3b0b5 -->
 **4. Puis-je acheter toutes les upgrades d’une même tour ?**  
 > Non. Dans Bloons TD 4 tu dois choisir une seule branche Tier 3/4 (ex. `Sun God` **ou** `Robo-Monkey` pour le Super Monkey).
 
+<!-- i18n:faq:id=faq:bloons-td-4:what-is-apopalypse-mode-eb2eb7e1 -->
 **5. Qu’est-ce que le mode Apopalypse ?**  
 > Un mode spécial où les Bloons arrivent sans pause ni bonus de fin de manche ; tes revenus viennent uniquement des Bloons détruits, ce qui rend la partie très exigeante.

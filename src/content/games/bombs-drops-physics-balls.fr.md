@@ -13,6 +13,7 @@ score: 3.9/5  (1598 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Dans *Bombs Drops Physics balls*, tu dois utiliser la gravité et les collisions pour faire s’effondrer des constructions. Tu disposes d’un certain nombre de bombes ou de balles à lâcher ; à toi de choisir l’endroit et le timing pour provoquer les plus gros dégâts avec le moins de lancers possible.
@@ -34,18 +35,24 @@ Dans *Bombs Drops Physics balls*, tu dois utiliser la gravité et les collisions
 5. **Resette souvent**  
    N’hésite pas à recommencer immédiatement pour ajuster ton timing ou l’angle du lancer ; les itérations rapides mènent aux meilleures solutions.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - Positionne ton curseur (ou ton doigt) puis tape/clique pour lâcher une bombe/ball.  
 - Utilise les boutons de reset/undo si disponibles pour retenter un niveau avec un autre angle.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:bombs-drops-physics-balls:my-drops-barely-move-anythingw-5a38213b -->
 - **Q : Mes bombes ne bougent presque rien, que faire ?**  
   **R :** Tu frappes probablement trop au centre. Vise les bords, les supports et les articulations pour créer des basculements.
 
+<!-- i18n:faq:id=faq:bombs-drops-physics-balls:is-there-scoring-for-fewer-b037b813 -->
 - **Q : Est‑ce que le jeu récompense les solutions économiques ?**  
   **R :** Dans beaucoup de niveaux, oui : terminer avec des bombes non utilisées améliore ton score ou ton rang.
 
+<!-- i18n:faq:id=faq:bombs-drops-physics-balls:do-levels-require-perfect-timi-f97050ff -->
 - **Q : Faut‑il un timing parfait ?**  
   **R :** Quelques niveaux demandent des déclenchements précis, mais la majorité privilégie la planification et la compréhension de la physique plus que les réflexes millimétrés.
+

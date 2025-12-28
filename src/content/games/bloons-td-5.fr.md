@@ -12,6 +12,7 @@ score: 3.7/5  (628 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 *Bloons TD 5* est l’épisode qui a affiné la formule : graphismes colorés, quantité de contenu et tours plus variées que jamais.
@@ -41,6 +42,7 @@ BTD5 apporte notamment :
     -   **Supa‑Vac (Bloonchipper 2/4)**, contrôle de foule capable d’aspirer même les ZOMG.  
     -   **Sabotage Supply Lines (Ninja x/4)**, qui ralentit tous les Bloons de moitié.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 Le gameplay reste un pur point‑and‑click.
@@ -50,19 +52,26 @@ Le gameplay reste un pur point‑and‑click.
 -   **Capacités actives :** leurs boutons apparaissent en bas à gauche et se déclenchent d’un clic.  
 -   **Raccourcis clavier :** les icônes affichent la touche associée pour gagner en réactivité.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:bloons-td-5:what-is-the-best-tower-e969f316 -->
 **1. Quel est le meilleur tour dans BTD5 ?**  
 > Aucun tour n’est « le meilleur », mais un **Temple of the Monkey God** entièrement sacrifié soutenu par un Monkey Village 2/3 est considéré comme la combinaison la plus puissante.
 
+<!-- i18n:faq:id=faq:bloons-td-5:how-do-i-get-the-fd098d0c -->
 **2. Comment débloquer le Temple ?**  
 > Le Temple est l’upgrade finale (4/x) du Super Monkey. Achète d’abord `Sun God` (3/x), la dernière upgrade apparaîtra ensuite.
 
+<!-- i18n:faq:id=faq:bloons-td-5:how-does-sacrificing-for-the-b26fb21a -->
 **3. Comment fonctionne le sacrifice pour le Temple ?**  
 > Place des tours de différentes catégories dans la portée du Sun God avant d’acheter l’upgrade ; elles seront détruites et converties en bonus. Investir ~30 000 $ par catégorie (Primary/Military/Magic) donne la puissance maximale.
 
+<!-- i18n:faq:id=faq:bloons-td-5:what-is-a-zomg-and-0d537e0a -->
 **4. Qu’est‑ce que le ZOMG et comment le battre ?**  
 > C’est le dirigeable le plus résistant. Il avance lentement mais possède énormément de PV. Temple, Bomb Towers x/4 (MOAB Assassin) et capacité Sabotage Supply Lines sont les meilleurs outils pour le détruire.
 
+<!-- i18n:faq:id=faq:bloons-td-5:are-special-agents-worth-it-5a39ac6f -->
 **5. Les Special Agents valent‑ils la peine ?**  
 > Oui. `Meerkat Spy` offre une détection camo précoce et `Bloonsday Device` peut sauver une partie mal engagée, surtout sur les cartes difficiles.
+

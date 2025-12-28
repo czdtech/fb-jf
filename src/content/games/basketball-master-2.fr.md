@@ -13,6 +13,7 @@ score: 4.5/5 (2345 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 *Basketball Master 2* est un jeu de tir au panier basé sur la physique. Tu dois viser et doser la puissance de ton tir pour faire passer la balle dans le panier, parfois en contournant des obstacles ou en les brisant à coups de tirs puissants.
@@ -28,13 +29,18 @@ releaseDate: 2025-10-18T00:00:00.000Z
 3. **Prends le temps de sentir la physique**  
    Plus tu joues, mieux tu évalues la courbe pour une distance donnée. Essaie plusieurs fois sur les premiers niveaux pour t’habituer à la sensation des tirs.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - **Souris / tactile :** touche et fais glisser pour viser et régler la puissance, puis relâche pour tirer.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:basketball-master-2:q-how-do-i-get-62133937 -->
 *   **Q : Comment marquer plus de points ?**
     *   **R :** Enchaîner les tirs réussis et détruire certains obstacles dans les niveaux te donne souvent des points bonus.
+<!-- i18n:faq:id=faq:basketball-master-2:q-what-is-the-best-c93a41c7 -->
 *   **Q : Quelle est la meilleure manière de tirer ?**
     *   **R :** Ça dépend du niveau. Un arc haut permet de passer par‑dessus les obstacles, alors qu’un tir plus tendu et puissant peut servir à les casser.
+

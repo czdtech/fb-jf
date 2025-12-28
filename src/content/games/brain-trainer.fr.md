@@ -13,6 +13,7 @@ score: 4.6/5  (3100 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 *Brain Trainer* est une compilation de mini‑jeux rapides conçus pour stimuler différentes capacités cognitives : mémoire, logique, calcul, perception spatiale, etc. Chaque manche te propose un petit puzzle chronométré, et tes performances sont agrégées pour donner une sorte de « score cérébral ».
@@ -33,19 +34,25 @@ Le jeu alterne plusieurs catégories; voici quelques exemples emblématiques :
 4. **Épreuves spatiales**  
     Mentalement faire tourner des formes, deviner comment des blocs s’assemblent ou te repérer dans un petit labyrinthe.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 Les commandes sont uniformes : tout se joue à la souris ou au tactile.
 
 - **Sélection / réponse :** clique (ou touche) l’objet, le nombre ou la séquence demandée ; les puzzles qui nécessitent un glisser-déposer l’indiquent clairement, et l’écran de fin récapitule automatiquement score et précision.  
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:brain-trainer:q-what-is-the-goal-ab58581b -->
 - **Objectif principal ?**  
     - **R :** Atteindre le meilleur score global possible tout en progressant dans chaque catégorie (mémoire, logique, calcul…).  
 
+<!-- i18n:faq:id=faq:brain-trainer:q-are-the-games-timed-d1306c73 -->
 - **Les jeux sont-ils chronométrés ?**  
     - **R :** Oui, la majorité évaluent vitesse **et** précision, donc attention aux fautes.  
 
+<!-- i18n:faq:id=faq:brain-trainer:q-how-can-i-improve-1e0919f0 -->
 - **Comment progresser ?**  
     - **R :** En revenant régulièrement. Plus tu répètes un type de casse-tête, plus il devient naturel et rapide.  
+

@@ -12,10 +12,12 @@ score: 4.0/5  (1743 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 *Bowling Stars* te met sur une piste de bowling classique en vue 3D. Tu choisis ta ligne, ta vitesse et la courbe de ta boule pour renverser les 10 quilles en un minimum de lancers.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1. **Vise la poche**  
@@ -33,19 +35,24 @@ releaseDate: 2025-10-18T00:00:00.000Z
 5. **Ajuste rapidement**  
    Si tu laisses souvent les mêmes quilles, déplace légèrement ta position de départ ou réduis/augmentes ton effet.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - Déplacement de la ligne : fais glisser à gauche/droite.  
 - Puissance : maintiens puis relâche pour lancer.  
 - Effet : selon la version, règle la courbe avant le lancer ou incline pendant la course.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:bowling-stars:how-to-reduce-splits-22c680ef -->
 - **Q : Comment réduire les splits ?**  
   **R :** Fais entrer la boule dans la poche avec un angle contrôlé. Trop plat = quilles latérales qui restent, trop prononcé = balle qui traverse sans tout emporter.
 
+<!-- i18n:faq:id=faq:bowling-stars:any-tip-for-710-5365d339 -->
 - **Q : Quel conseil pour les spares 7/10 ?**  
   **R :** Tire en travers de la piste depuis le côté opposé pour créer un angle suffisant. L’objectif est de sécuriser le spare, pas de tenter des coups spectaculaires à faible probabilité.
 
+<!-- i18n:faq:id=faq:bowling-stars:why-do-i-miss-lightheavy-a1826eba -->
 - **Q : Pourquoi certaines boules partent trop léger ou trop fort ?**  
   **R :** Ajuste légèrement ta position de départ ou la quantité d’effet. Un petit changement de vitesse/ligne suffit souvent à corriger les lancers trop « light » ou trop « heavy ».

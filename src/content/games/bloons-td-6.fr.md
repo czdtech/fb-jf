@@ -12,6 +12,7 @@ score: 4.8/5  (1057 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 *Bloons TD 6* est l’épisode le plus ambitieux de la série tower-defense de Ninja Kiwi. Avec ses cartes entièrement modélisées en 3D, il élève la formule classique — placer et améliorer des tours pour éclater chaque vague de Bloons — à un niveau de complexité inédit.
@@ -41,6 +42,7 @@ La principale révolution vient des **trois chemins d’amélioration** disponib
 -   **Construis une économie solide :** les Banana Farms restent la source de revenus n°1. La voie 2/3/0 `Marketplace` génère de l’argent sans collecte manuelle ; la voie 4/2/0 `Central Market` maximise tes profits pour financer le late game.
 -   **Prépare tes Paragons :** dans les manches extrêmes et contre les Boss, ce sont tes conditions de victoire. Pose plusieurs tours du même type, laisse-les accumuler des pops, puis sacrifie-les pour obtenir un Paragon de degré élevé.
 
+<!-- i18n:section:controls -->
 ### Guide des commandes
 
 Les contrôles restent simples sur PC (souris) comme sur mobile (tactile), mais la 3D impose de surveiller la ligne de vue.
@@ -50,19 +52,26 @@ Les contrôles restent simples sur PC (souris) comme sur mobile (tactile), mais 
 -   **Capacités de tours :** regroupées en bas à gauche, pratiques pour enchaîner plusieurs activations.
 -   **Raccourcis clavier (PC) :** chaque singe a sa touche (Q pour Dart Monkey, etc.) et les upgrades s’achètent avec 1/2/3, ce qui rend la micro beaucoup plus rapide.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:bloons-td-6:what-is-the-best-hero-fd93e6b7 -->
 **1. Quel héros choisir en premier ?**  
 **Sauda** est la plus accessible : elle coûte peu cher et élimine les premières vagues à elle seule, ce qui te laisse investir dans ton économie.
 
+<!-- i18n:faq:id=faq:bloons-td-6:how-do-i-beat-ddts-4a5c8219 -->
 **2. Comment arrêter les DDT ?**  
 Ils combinent toutes les immunités. Utilise un Monkey Village avec **Monkey Intelligence Bureau** pour donner des dégâts universels à tes tours, puis ajoute un Tack Shooter 2/0/5 ou une usine Perma-Spike 0/2/5 pour les achever.
 
+<!-- i18n:faq:id=faq:bloons-td-6:why-cant-i-damage-the-906554ad -->
 **3. Pourquoi les Bloons violets ignorent-ils mes attaques ?**  
 Ils sont immunisés à l’énergie, au feu et au plasma. Place des tours à projectiles physiques comme Crossbow Master ou Juggernaut pour les gérer.
 
+<!-- i18n:faq:id=faq:bloons-td-6:how-do-i-make-a-07bea3d1 -->
 **4. Comment créer un Paragon ?**  
 Il faut avoir les trois tours Tier 5 d’un même singe sur le terrain. L’un d’eux proposera alors l’upgrade Paragon. La puissance finale dépend du coût sacrifié et du nombre de pops accumulés.
 
+<!-- i18n:faq:id=faq:bloons-td-6:what-is-chimps-mode-3b6712c1 -->
 **5. Qu’est-ce que le mode CHIMPS ?**  
 C’est le défi ultime : pas de Continues, pas de vies perdues, pas de revenus bonus, pas de Monkey Knowledge, pas de Powers et pas de Selling. Seule une stratégie parfaite te mènera à la victoire.
+

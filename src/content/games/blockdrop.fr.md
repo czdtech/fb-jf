@@ -13,6 +13,7 @@ score: 4.3/5  (2200 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 *BlockDrop* est un classique du puzzle : tu disposes de trois blocs à la fois et dois les placer sur une grille 10×10. Dès qu’une ligne entière est remplie, elle disparaît et tu gagnes des points. La partie s’arrête quand aucune des trois pièces ne peut être posée.
@@ -28,17 +29,23 @@ releaseDate: 2025-10-17T00:00:00.000Z
 4.  **Pas de rotation**  
     Les pièces ne tournent pas ; conserve donc des zones assez larges pour accueillir les formes longues ou asymétriques.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 Le jeu repose sur un simple glisser‑déposer.
 
 -   **Placer un bloc :** clique/tape sur l’une des trois pièces en bas, fais‑la glisser sur la grille 10×10 puis relâche pour la déposer.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:blockdrop:q-can-i-rotate-the-93ca2109 -->
 -   **Q : Puis‑je faire tourner les pièces ?**
     -   **R :** Non, elles doivent être utilisées telles quelles. Anticipe leur orientation avant de les poser.
+<!-- i18n:faq:id=faq:blockdrop:q-how-does-the-game-f20a1993 -->
 -   **Q : Quand la partie se termine‑t‑elle ?**
     -   **R :** Dès qu’aucune des trois pièces affichées ne peut être placée sur la grille, même s’il reste des cases vides.
+<!-- i18n:faq:id=faq:blockdrop:q-whats-the-best-way-04ea0c4b -->
 -   **Q : Comment améliorer mon score ?**
     -   **R :** Reste en vie le plus longtemps possible avec une grille propre et déclenche des combos qui effacent plusieurs lignes d’un coup.
+

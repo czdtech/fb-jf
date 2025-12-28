@@ -12,6 +12,7 @@ score: 4.2/5  (2217 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 *Billiard Hustlers* est un jeu de billard qui met l’accent sur le réalisme des trajectoires et le contrôle de la bille blanche. Que tu joues en 8‑ball, 9‑ball ou en défis de séries de poches, l’objectif reste de rentrer les bonnes billes tout en positionnant la blanche idéalement pour le coup suivant.
@@ -25,6 +26,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 5.  **Les bandes sont tes alliées :** mémorise les trajectoires à deux ou trois bandes pour revenir au centre ou approcher une bille clé.
 6.  **Joue la sécurité quand il le faut :** si le pourcentage de réussite est bas, cache la blanche derrière une bille ou sur une bande pour compliquer la riposte adverse.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - **Visée :** déplace la souris pour orienter la queue.  
@@ -32,24 +34,31 @@ releaseDate: 2025-10-18T00:00:00.000Z
 - **Effet :** clique sur le schéma de bille blanche pour placer le point d’impact (top, rétro, latéral).  
 - **Caméra :** certaines versions permettent de zoomer ou de déplacer la vue.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:billiard-hustlers:my-pots-keep-rattling-outwhats-b2a14f22 -->
 -   **Q : Pourquoi mes billes “rattent” souvent dans le trou ?**
 
     **R :** Tu tires probablement trop fort ou avec un angle approximatif. Diminue la puissance, vise le centre exact de la poche et limite l’effet latéral sur les coups très fins.
 
+<!-- i18n:faq:id=faq:billiard-hustlers:how-do-i-control-the-22890c8f -->
 -   **Q : Comment mieux contrôler la blanche ?**
 
     **R :** Priorise la vitesse avant tout. Une fois le dosage acquis, ajoute un peu de topspin ou de rétro pour ajuster la course après impact, et sers‑toi des bandes pour amortir la vitesse.
 
+<!-- i18n:faq:id=faq:billiard-hustlers:when-should-i-play-safe-84d772d4 -->
 -   **Q : Quand faut‑il privilégier un coup défensif ?**
 
     **R :** Si la probabilité de rentrer la bille est faible (40–50 % ou moins) et que tu risques d’offrir une table ouverte à l’adversaire, préfère un safety qui colle la blanche à une bande ou derrière un bloc.
 
+<!-- i18n:faq:id=faq:billiard-hustlers:any-tip-for-breaking-clusters-3ab2b80d -->
 -   **Q : Astuces pour ouvrir un paquet de billes collées ?**
 
     **R :** Attaque les clusters tôt, tant que tu as des billes “assurance” proches. Utilise une vitesse contrôlée pour éviter que la blanche reste collée au paquet après l’impact.
 
+<!-- i18n:faq:id=faq:billiard-hustlers:8ball-vs-9ball-patternswhats-t-73dec2b1 -->
 -   **Q : Différences entre patterns 8‑ball et 9‑ball ?**
 
     **R :** En 8‑ball, on résout vite les billes problématiques et on planifie la fin de table. En 9‑ball, on suit l’ordre numérique et on trace des trajectoires naturelles entre chaque numéro consécutif.
+

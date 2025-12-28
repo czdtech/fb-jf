@@ -12,6 +12,7 @@ score: 4.7/5  (1071 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 *Breaking the Bank* est un très court jeu interactif à choix, premier volet de la série **Henry Stickmin**. Henry se tient devant une banque en plein désert et doit décider comment tenter de la braquer.
@@ -34,6 +35,7 @@ L’écran affiche six méthodes possibles :
 **Solution :**  
 > Seule **Shovel** mène à la “réussite”. Toutes les autres méthodes sont volontairement conçues comme des FAILs hilarants : un vrai travail de collectionneur de gags.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 Le jeu se contrôle exclusivement à la souris.
@@ -41,14 +43,18 @@ Le jeu se contrôle exclusivement à la souris.
 - **Curseur souris :** survole les différentes icônes pour voir leur descriptif.  
 - **Clic gauche :** sélectionne une option et laisse l’animation se dérouler.  
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:breaking-the-bank:is-there-more-than-one-8d64b7de -->
 **Q : Existe-t-il plusieurs fins victorieuses ?**  
 > Non. Uniquement Shovel débloque la scène “réussie”, tout le reste est fait pour te faire rire.  
 
+<!-- i18n:faq:id=faq:breaking-the-bank:why-is-the-game-so-327082bc -->
 **Q : Pourquoi c’est si court ?**  
 > Parce que c’est le prototype de la série Henry Stickmin. Les épisodes suivants sont nettement plus longs et plus complexes.  
 
+<!-- i18n:faq:id=faq:breaking-the-bank:is-this-game-part-of-663d818e -->
 **Q : Quelle est la chronologie de la série ?**
 
 > Oui, *Breaking the Bank* est le point de départ officiel de la saga Henry Stickmin. Voici l’ordre recommandé :
@@ -59,5 +65,7 @@ Le jeu se contrôle exclusivement à la souris.
 > 5.  Fleeing the Complex  
 > Ces jeux ont ensuite été remasterisés et regroupés avec l’ultime chapitre Completing the Mission dans *The Henry Stickmin Collection*.  
 
+<!-- i18n:faq:id=faq:breaking-the-bank:where-is-the-gameplay-i-dc81522e -->
 **Q : Où est le “gameplay” si je ne fais qu’un choix ?**  
 > Le gameplay, c’est de collectionner tous les FAILs. On joue pour l’animation et les blagues, pas pour un run parfait.  
+

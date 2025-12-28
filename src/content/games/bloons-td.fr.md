@@ -12,6 +12,7 @@ score: 4.1/5  (812 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ## Présentation du jeu
 
 *Bloons TD (Bloons Tower Defense)* est le point de départ d’une des séries de tower-defense les plus connues. Sur chaque carte, des Bloons empruntent un trajet fixe ; à toi de placer des tours singes pour les éclater avant qu’ils n’atteignent la sortie.
@@ -27,6 +28,7 @@ Traits communs de la série :
 
 L’objectif est de survivre à toutes les manches d’une carte et d’un niveau de difficulté sans perdre l’intégralité de tes vies.
 
+<!-- i18n:section:tips -->
 ## Stratégie de jeu
 
 -   **Soigne ton early game :** commence par des tours rentables (Dart Monkey amélioré, Tack Shooter placé sur une courbe serrée) pour passer les premières vagues sans te ruiner.  
@@ -39,6 +41,7 @@ L’objectif est de survivre à toutes les manches d’une carte et d’un nivea
 -   **Exploite la carte :** place les tours aux intersections, virages serrés ou boucles pour maximiser le temps de tir. Les tours longue portée doivent profiter d’une grande ligne de vue.  
 -   **Investis dans l’économie :** sur les modes difficiles, construire quelques Banana Farms garantit l’argent nécessaire aux upgrades les plus coûteuses.  
 
+<!-- i18n:section:controls -->
 ## Guide des commandes
 
 Bloons TD se joue principalement à la souris ou au tactile, ce qui le rend très intuitif.
@@ -48,11 +51,14 @@ Bloons TD se joue principalement à la souris ou au tactile, ce qui le rend trè
 -   **Utiliser les capacités :** certaines upgrades ajoutent un pouvoir actif. Ses boutons apparaissent sur le panneau de la tour ou en bas de l’écran.  
 -   **Raccourcis clavier (PC) :** la plupart des tours disposent d’une touche de sélection (ex. Q pour Dart Monkey) et les upgrades se prennent avec 1/2/3 pour accélérer les actions.  
 
+<!-- i18n:section:faq -->
 ## Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:bloons-td:why-are-my-towers-not-9734821b -->
 **1. Pourquoi mes tours n’attaquent-elles pas certains Bloons ?**  
 > C’est presque toujours lié aux propriétés spéciales des Bloons. Les Bloons **Camo** ne peuvent être vus que par des tours disposant de la détection camo. Les Bloons **Lead** sont insensibles aux projectiles tranchants et exigent des attaques explosives ou magiques.
 
+<!-- i18n:faq:id=faq:bloons-td:what-is-a-moab-bfb-6c34da0f -->
 **2. Que signifient MOAB, BFB, ZOMG, DDT et BAD ?**  
 > Ce sont les différents dirigeables de classe MOAB qui apparaissent en fin de partie. Ils se déplacent lentement mais possèdent énormément de points de vie. Du plus faible au plus fort :  
 > - **MOAB** (bleu) : contient 4 Bloons Ceramic.  
@@ -61,8 +67,11 @@ Bloons TD se joue principalement à la souris ou au tactile, ce qui le rend trè
 - **DDT** (noir et très rapide) : combine les propriétés Camo, Lead et Black, ce qui le rend redoutable.  
 - **BAD** (violet) : le dirigeable le plus résistant du jeu ; il lâche des ZOMG et des DDT quand il explose.  
 
+<!-- i18n:faq:id=faq:bloons-td:what-is-the-best-tower-548c67b5 -->
 **3. Y a‑t‑il une tour « ultime » ?**  
 > Non. L’identité de Bloons TD repose sur l’équilibre et les synergies. Une tour peut être exceptionnelle sur une carte mais inutile sur une autre. La meilleure approche consiste à utiliser un mélange de tours qui se complètent.  
 
+<!-- i18n:faq:id=faq:bloons-td:how-do-i-make-more-29f9db80 -->
 **4. Comment gagner plus d’argent ?**  
 > La plupart des revenus proviennent des Bloons éclatés. Pour booster sérieusement ton économie, construis et améliore des Banana Farms, ou utilise les quelques upgrades génératrices d’argent (Monkey Buccaneer, Alchemist, etc.).  
+

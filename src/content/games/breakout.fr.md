@@ -12,6 +12,7 @@ score: 3.8/5  (494 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Dans *Breakout*, tu contrôles une raquette horizontale en bas de l’écran pour renvoyer la balle vers le mur de briques situé en haut.
@@ -20,6 +21,7 @@ Chaque brique touchée disparaît et te rapporte des points. Si la balle passe d
 
 Plus tu détruis de briques, plus la balle accélère, ce qui demande des réflexes de plus en plus précis.
 
+<!-- i18n:section:tips -->
 ### Stratégies
 
 - **Contrôler l’angle de rebond**  
@@ -37,6 +39,7 @@ Plus tu détruis de briques, plus la balle accélère, ce qui demande des réfle
 - **Dernière brique ? Reste calme**  
   La dernière brique est souvent la plus frustrante. Prends ton temps pour calibrer l’angle idéal au lieu de tenter des mouvements brusques.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 Breakout se contrôle presque uniquement via un mouvement latéral de la raquette, avec de légères variantes selon la plateforme.
@@ -49,16 +52,22 @@ Breakout se contrôle presque uniquement via un mouvement latéral de la raquett
 - **Mobiles et tablettes :**  
     - Glisse ton doigt en bas de l’écran pour faire bouger la raquette.  
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:breakout:how-can-i-control-where-e30770fd -->
 **1. Comment contrôler la trajectoire de la balle ?**  
 > En changeant le point de contact sur la raquette. Le centre renvoie droit vers le haut, les bords dévient vers la gauche ou la droite, avec un angle d’autant plus prononcé que tu te rapproches des extrémités.
 
+<!-- i18n:faq:id=faq:breakout:why-does-the-ball-speed-238960cd -->
 **2. Pourquoi la balle accélère‑t‑elle ?**  
 > C’est une mécanique de difficulté : après un certain nombre de coups, la balle gagne en vitesse pour maintenir la tension du niveau.
 
+<!-- i18n:faq:id=faq:breakout:what-is-the-best-way-ce39b501 -->
 **3. Quelle est la meilleure méthode pour finir un niveau rapidement ?**  
 > La technique du « tunnel ». Ouvre un passage sur un côté pour que la balle rebondisse au‑dessus des briques et rase tout en quelques secondes.
 
+<!-- i18n:faq:id=faq:breakout:are-there-powerups-in-breakout-a7fa8400 -->
 **4. Y a‑t‑il des bonus dans Breakout ?**  
 > Dans le Breakout d’origine, non. Les bonus (multi‑ball, laser, raquette plus longue, etc.) sont apparus plus tard dans Arkanoid et les autres casse‑briques inspirés de ce classique.  
+
