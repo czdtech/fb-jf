@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Spider Solitaire es una de las variantes de solitario más populares y
@@ -26,6 +27,7 @@ Rey a As. Cuando completas una secuencia entera, se retira del juego. Es famoso
 por su dificultad y la profundidad estratégica necesaria para ganar, sobre todo
 con dos o cuatro palos.
 
+<!-- i18n:section:tips -->
 ### Estrategias de juego y recorrido
 
 1.  **Objetivo:** Construir ocho secuencias dentro del tableau, cada una de Rey
@@ -45,6 +47,7 @@ con dos o cuatro palos.
     las diez columnas. **Importante:** no puedes repartir nuevas cartas si
     alguna columna está vacía.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 *   **Mover cartas:** Haz clic y arrastra una carta o una secuencia válida a
@@ -54,20 +57,25 @@ con dos o cuatro palos.
 *   **Auto‑mover:** Muchas versiones moverán automáticamente las secuencias
     completas de K a A a la zona de fundación.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:spider-solitaire-2:q-what-is-the-difference-c4626a5e -->
 *   **P: ¿Qué diferencia hay entre jugar con 1, 2 o 4 palos?**
     *   **R:** La dificultad. Con 1 palo todas las cartas son iguales, lo que
         facilita crear secuencias. En 2 y 4 palos debes gestionar colores
         distintos, lo que complica mucho poder formar secuencias puras para
         retirarlas.
 
+<!-- i18n:faq:id=faq:spider-solitaire-2:q-why-cant-i-deal-276b71ba -->
 *   **P: ¿Por qué no puedo repartir nuevas cartas del mazo?**
     *   **R:** Necesitas tener al menos una carta en cada una de las diez
         columnas del tableau. Si alguna está vacía, debes rellenarla antes de
         poder repartir.
 
+<!-- i18n:faq:id=faq:spider-solitaire-2:q-what-is-the-best-72397c7d -->
 *   **P: ¿Cuál es la mejor estrategia para principiantes?**
     *   **R:** Empieza con el modo de 1 palo para aprender la mecánica. Céntrate
         en destapar cartas nuevas y en crear columnas vacías. Intenta construir
         secuencias en columnas que no tengan muchas cartas boca abajo.
+

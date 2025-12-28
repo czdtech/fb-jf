@@ -11,9 +11,11 @@ thumbnail: /new-images/thumbnails/sprunki-minecraft.png
 tags:
   - sprunki minecraft
 score: 4.0/5  (212 votes)
+releaseDate: 2025-12-04
 ---
 
 
+<!-- i18n:section:introduction -->
 ¿Alguna vez has soñado con que cada bloque que colocas en Minecraft no solo
 construya maravillas, sino que también componga música? Bienvenido al mundo de
 Sprunki Minecraft, donde la libertad de construir se une al pulso de la música
@@ -79,3 +81,4 @@ Sprunki Minecraft demuestra que aún es posible innovar sobre bucles de juego
 que ya conocemos. Si buscas una experiencia creativa distinta y muy original,
 Sprunki Minecraft te hará explotar la cabeza… y también mover el pie al ritmo
 de la música.
+

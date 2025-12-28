@@ -11,6 +11,7 @@ thumbnail: /new-images/thumbnails/sprunki-good-night.png
 tags:
   - sprunki good night
 score: 4.2/5  (227 votes)
+releaseDate: 2025-12-04
 ---
 
 
@@ -43,4 +44,5 @@ un día cansado. Entra en Sprunki Good Night, combina ritmos suaves y sonidos
 en paz para crear la nana perfecta y dar la bienvenida a los sueños más
 agradables. ¡Explora el mod Sprunki Good Night y compón la banda sonora ideal
 para tu noche!
+
 

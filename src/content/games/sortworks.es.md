@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 SortWorks mezcla clasificación visual con restricciones de contenedores
@@ -25,6 +26,7 @@ redirigirlos al contenedor correcto usando casillas de buffer para evitar
 atascos. En niveles avanzados la cinta acelera y aparecen categorías más
 complicadas.
 
+<!-- i18n:section:tips -->
 ### Estrategias de juego y recorrido
 
 1.  **Jerarquía de reglas:** Aplica primero las reglas críticas (por ejemplo,
@@ -38,26 +40,32 @@ complicadas.
 5.  **Flujo de mirada:** Mira siempre un poco por delante de la cinta; no te
     obsesiones solo con el elemento más cercano.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - Arrastra o toca los objetos para enviarlos a los contenedores; pausa y reinicia
   desde la interfaz; algunas versiones ofrecen pistas resaltando el destino
   correcto.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:sortworks:i-jam-belts-b1436b35 -->
 - **P: Se me atascan las cintas todo el rato.**
   
   **R:** Probablemente estás llenando demasiado los buffers. Limpia primero un
   lote de objetos fáciles para liberar espacio antes de enfrentarte a los más
   difíciles.
 
+<!-- i18n:faq:id=faq:sortworks:similar-icons-confuse-me-62335c3e -->
 - **P: Los iconos parecidos me confunden.**
   
   **R:** Aprende 2–3 rasgos clave por categoría (forma, bordes, color) y clasifica
   basándote primero en esos anclajes visuales.
 
+<!-- i18n:faq:id=faq:sortworks:do-streaks-matter-a57f4782 -->
 - **P: ¿Importan las rachas?**
   
   **R:** Sí, las rachas aumentan la puntuación. Aliméntalas priorizando objetos
   sencillos cuando necesites subir el multiplicador.
+

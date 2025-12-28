@@ -12,6 +12,7 @@ tags:
   - sprunki maker (big update)
   - sprunki maker (big update) online
 score: 4.8/5  (700 votes)
+releaseDate: 2025-12-04
 ---
 
 
@@ -46,4 +47,5 @@ Sprunki Maker te permite decir adiós a los personajes genéricos y crear un
 Sprunki verdaderamente tuyo. En el mundo de Sprunki, tu personaje lo decides
 tú. Entra en Sprunki Maker, libera tu creatividad y diseña el avatar que mejor
 te representa.
+
 

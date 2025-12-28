@@ -17,6 +17,7 @@ score: 4.8/5  (331 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 Spider Solitaire es una variante compleja y popular del solitario clásico que se
@@ -24,6 +25,7 @@ juega con dos barajas estándar (104 cartas). El objetivo principal es limpiar
 toda la zona de juego formando ocho secuencias completas del mismo palo,
 ordenadas de Rey a As. Cuando completes una secuencia, se retirará del tablero.
 
+<!-- i18n:section:tips -->
 ### Guía de juego
 
 - **Objetivo:** Construir ocho secuencias descendentes del mismo palo (Rey,
@@ -38,12 +40,14 @@ ordenadas de Rey a As. Cuando completes una secuencia, se retirará del tablero.
   repartir una nueva fila de 10 cartas desde el mazo, siempre que no haya
   columnas vacías.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - **Ratón/Táctil:** Haz clic y arrastra las cartas para moverlas entre columnas.
   La mayoría de versiones permiten también un clic simple para mover una carta a
   una posición válida si existe.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
 **¿Qué significan los distintos niveles de dificultad?**

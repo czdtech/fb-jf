@@ -11,7 +11,7 @@ thumbnail: /new-images/thumbnails/sprunki-dandys-world.png
 tags:
   - sprunki dandy
 score: 4.4/5  (304 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+releaseDate: 2025-12-04
 ---
 
 
@@ -30,6 +30,7 @@ imaginación manda. Ya no te limitas a pulsar notas que vienen dadas: aquí pued
 construir tu propio universo sonoro desde cero. La gracia está en probar,
 combinar y sorprenderte con el resultado.
 
+<!-- i18n:section:tips -->
 ### ¿Cómo se juega?
 
 Sprunki Dandy's World es muy fácil de entender y engancha enseguida:
@@ -66,3 +67,4 @@ Sprunki Dandy's World es un juego singular que mezcla música, arte y pequeños
 relatos visuales. Es el sitio perfecto para soltar tu creatividad y levantar tu
 propio mundo musical. ¿A qué esperas? Entra en Sprunki Dandy's World y empieza tu
 propio viaje de grafiti sonoro.
+

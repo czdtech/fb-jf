@@ -11,6 +11,7 @@ thumbnail: /new-images/thumbnails/sprunki-interactive-beta.png
 tags:
   - sprunki interactive beta
 score: 4.0/5  (407 votes)
+releaseDate: 2025-12-04
 ---
 
 
@@ -31,6 +32,7 @@ hasta el punto de que transforma por completo el mundo que ya conoces.
   Sprunki y sus compañeros) chocan o interactúan entre sí, generan sonidos
   únicos, construyendo un paisaje sonoro espontáneo y en constante cambio.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo se juega
 
 En Sprunki Interactive BETA, el mundo comienza siendo luminoso, colorido y
@@ -70,4 +72,5 @@ se apodere por completo del mundo?
 Sumérgete en Sprunki Interactive BETA y deja que el caos de movimiento y sonido
 inspire tu próxima obra musical. Solo los jugadores más estratégicos lograrán
 mantener el equilibrio entre ternura y terror.
+
 

@@ -12,9 +12,11 @@ tags:
   - sprunki pyramixed 0.9
   - sprunki pyramixed 0.9 online
 score: 4.7/5  (455 votes)
+releaseDate: 2025-12-04
 ---
 
 
+<!-- i18n:section:introduction -->
 ¿Buscas un juego musical que te deje sentir el ritmo y, al mismo tiempo, reflejar
 tu propia personalidad? Bienvenido al mundo de Sprunki Pyramixed 0.9. Este
 título combina con mucha gracia la jugabilidad rítmica con la personalización
@@ -43,6 +45,7 @@ musical» ideal.
   Sprunki Pyramixed 0.9 lo acompaña con animaciones muy llamativas que
   hacen tu creación aún más viva.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo se juega a Sprunki Pyramixed 0.9
 
 - **Entra en la web de Sprunkly Play:** primero accede al sitio de Sprunkly Play
@@ -66,3 +69,4 @@ creación musical donde la personalización y el ritmo se fusionan en una
 experiencia interactiva inolvidable. Únete a su comunidad, comparte tus temas y,
 tanto si eres fan de los juegos de ritmo como si estás empezando en la música,
 aprovecha este espacio lleno de posibilidades para expresarte.
+

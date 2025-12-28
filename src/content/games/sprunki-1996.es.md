@@ -12,11 +12,12 @@ thumbnail: /new-images/thumbnails/sprunki-1996.png
 tags:
   - sprunki 1996
 score: 4.0/5  (122 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+releaseDate: 2025-12-04
 ---
 
 
 
+<!-- i18n:section:introduction -->
 ¿Recuerdas esas pantallas noventeras, un poco glitch y llenas de encanto? Si te
 apetece revivir esa vibra y, de paso, montar tu propia mezcla, Sprunki 1996 te
 va a encantar. Este mod fan de Incredibox, creado por Draker con Scratch, es
@@ -79,3 +80,4 @@ música. Si te atrae la mezcla de nostalgia, estética pixel art y experimentaci
 sonora, merece la pena que lo pruebes. Enciende tu "viejo ordenador" virtual y
 empieza a componer tus propias pistas retro en el mundo pixelado de Sprunki
 1996.
+

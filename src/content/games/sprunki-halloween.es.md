@@ -12,9 +12,11 @@ thumbnail: /new-images/thumbnails/sprunki-halloween.png
 tags:
   - sprunki halloween
 score: 4.2/5  (142 votes)
+releaseDate: 2025-12-04
 ---
 
 
+<!-- i18n:section:introduction -->
 Prepárate para una aventura musical tan divertida como escalofriante con
 Sprunki Halloween. Esta edición especial de la serie Sprunki combina ritmos que
 ponen los pelos de punta, paisajes sonoros tenebrosos y personajes temáticos de
@@ -37,6 +39,7 @@ musical único a cualquier fiesta de Halloween.
 - **Visuales dinámicos:** animaciones temáticas que reaccionan a tu música y
   llenan la pantalla de energía espeluznante.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar a Sprunki Halloween
 
 - **Combina personajes:** usa brujas, fantasmas, vampiros y otros personajes de
@@ -64,4 +67,5 @@ Sprunki Halloween es un mod que te permite liberar tu lado creativo en clave de
 terror. Únete a Sprunki Halloween y usa notas vibrantes y misteriosas para
 celebrar la llegada de Halloween. Este juego musical temático es diferente a
 cualquier otro: ¡prepárate para disfrutar de una fiesta realmente embrujada!
+
 

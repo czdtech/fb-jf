@@ -11,6 +11,7 @@ thumbnail: /new-images/thumbnails/sprunki-mod-BFDI.png
 tags:
   - sprunki mod bfdi
 score: 4.2/5  (347 votes)
+releaseDate: 2025-12-04
 ---
 
 
@@ -95,3 +96,4 @@ Mod BFDI ofrece una experiencia tan fresca como memorable.
 ¿A qué esperas? Entra ya en el mundo de Sprunki Mod BFDI y deja que la fusión
 perfecta entre música y animación te ofrezca una experiencia de juego
 totalmente nueva.
+

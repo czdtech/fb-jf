@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Space Survivor es un roguelike de supervivencia cargado de acción al estilo
@@ -27,6 +28,7 @@ suelan, subes de nivel y puedes elegir entre un abanico de nuevas armas y
 mejoras. Cada partida es distinta y te reta a construir una combinación única y
 exageradamente poderosa para sobrevivir el máximo tiempo posible.
 
+<!-- i18n:section:tips -->
 ### Estrategias de juego y recorrido
 
 1.  **Prioriza la supervivencia:** Al principio, lo más importante es no recibir
@@ -48,6 +50,7 @@ exageradamente poderosa para sobrevivir el máximo tiempo posible.
     caer. Puede ser mejor limpiar primero un área amplia y luego volver para
     recogerlos con seguridad.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 El juego utiliza controles de movimiento muy simples.
@@ -56,18 +59,23 @@ El juego utiliza controles de movimiento muy simples.
     ratón para desplazar la nave.
 *   **Ataque:** Todas las armas disparan de forma automática.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:space-survivor:q-how-do-i-shoot-412141d1 -->
 *   **P: ¿Cómo disparo?**
     *   **R:** No hace falta; en los juegos tipo "survivor" las armas disparan
         solas. Tu trabajo es moverte y esquivar con precisión.
 
+<!-- i18n:faq:id=faq:space-survivor:q-how-do-i-get-ee237827 -->
 *   **P: ¿Cómo consigo nuevas armas y habilidades?**
     *   **R:** Recoge los cristales de experiencia que dejan los enemigos. Cuando
         se llena la barra de XP, subes de nivel y puedes elegir una arma o
         mejora aleatoria de entre varias opciones.
 
+<!-- i18n:faq:id=faq:space-survivor:q-what-is-the-goal-ab58581b -->
 *   **P: ¿Cuál es el objetivo del juego?**
     *   **R:** Sobrevivir durante un tiempo determinado (por ejemplo, 15 o 30
         minutos) o, en modo infinito, aguantar tanto como puedas frente a
         oleadas sin fin.
+

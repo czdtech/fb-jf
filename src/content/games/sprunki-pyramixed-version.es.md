@@ -11,9 +11,11 @@ thumbnail: /new-images/thumbnails/sprunki-pyramixed-version.png
 tags:
   - sprunki pyramixed
 score: 4.0/5  (254 votes)
+releaseDate: 2025-12-04
 ---
 
 
+<!-- i18n:section:introduction -->
 ¿Listo para entrar en un nuevo tipo de juego musical, profundo y muy divertido
 a la vez? Bienvenido a Sprunki Pyramixed. Esta plataforma innovadora combina un
 diseño de sonido muy cuidado con una jugabilidad intuitiva. Tanto si eres
@@ -56,6 +58,7 @@ natural.
 - **Asequible pero profundo:** es fácil empezar, pero ofrece suficiente
   profundidad para quien quiera explorar formas musicales más complejas.
 
+<!-- i18n:section:tips -->
 ### Consejos para jugar a Sprunki Pyramixed
 
 - **Empieza sencillo:** arranca con patrones básicos y ve añadiendo capas a
@@ -75,4 +78,5 @@ muy fino entre ser accesible y ofrecer profundidad. Tanto si solo quieres
 «trastear» un rato como si quieres tomarte la composición en serio, aquí tienes
 un buen punto de partida. Únete a la comunidad y empieza a levantar tu propia
 maravilla sonora hoy mismo.
+
 

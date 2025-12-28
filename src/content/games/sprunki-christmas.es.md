@@ -11,16 +11,18 @@ thumbnail: /new-images/thumbnails/sprunki-christmas.png
 tags:
   - sprunki christmas
 score: 4.6/5  (486 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+releaseDate: 2025-12-04
 ---
 
 
+<!-- i18n:section:introduction -->
 ¿Listo para una aventura musical cargada de espíritu festivo? Sprunki Christmas
 te lleva a un universo Sprunki lleno de alegría y emoción, donde te espera una
 aventura con puzles, desafíos y coleccionables navideños. Combina gráficos
 llamativos, personajes encantadores y mecánicas muy accesibles para ofrecer una
 experiencia ideal para todas las edades.
 
+<!-- i18n:section:how-to-play -->
 ### ¿Cómo se juega a Sprunki Christmas?
 
 - **Objetivo:** Ayudar a los personajes de Sprunki a repartir alegría navideña
@@ -55,3 +57,4 @@ Sprunki Christmas es un mod ideal para quienes quieren mezclar el encanto de
 Sprunki con la magia de la Navidad. Tanto si quieres sumergirte en un precioso
 paisaje invernal como si buscas partidas festivas con amigos y comunidad,
 Sprunki Christmas tiene algo para ti.
+

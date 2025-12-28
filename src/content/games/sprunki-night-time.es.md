@@ -13,6 +13,7 @@ tags:
   - sprunki night time
   - sprunki night time online
 score: 4.2/5  (324 votes)
+releaseDate: 2025-12-04
 ---
 
 
@@ -32,6 +33,7 @@ atmósfera nocturna. Sus luces de neón, animaciones fluidas y toque casi
 cinematográfico convierten la experiencia en mucho más que un placer sonoro: es
 también un espectáculo visual.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar a Sprunki Night Time
 
 Es muy sencillo; solo tienes que tener presentes estos puntos:
@@ -71,4 +73,5 @@ Sprunki Night Time te abre la puerta a un mundo nocturno cargado de misterio,
 en el que puedes vivir un viaje musical psicodélico en pleno silencio de la
 noche. Únete a Sprunki Night Time y deja que tu música sea la luz que atraviesa
 la oscuridad.
+
 

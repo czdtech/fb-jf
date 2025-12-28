@@ -12,9 +12,11 @@ thumbnail: /new-images/thumbnails/sprunki-like-minecraft.png
 tags:
   - sprunki like minecraft
 score: 4.6/5  (601 votes)
+releaseDate: 2025-12-04
 ---
 
 
+<!-- i18n:section:introduction -->
 Si eres a la vez fan fiel de Incredibox Sprunki y un apasionado del mundo
 pixelado de Minecraft, Sprunki Like Minecraft Mod está hecho para ti. Este mod
 único reimagina a los personajes de Sprunki con el estilo de bloques icónico de
@@ -49,4 +51,5 @@ viaje de creación musical ahora mismo.
 choquen con los píxeles y toca tu propia melodía de Minecraft con solo unos
 clics. Y si quieres seguir explorando, puedes probar otros mods de la serie,
 como Sprunki Interactive 1.0, Sprunki Kiss Edition o Sprunki Melodies.
+
 

@@ -11,6 +11,7 @@ thumbnail: /new-images/thumbnails/sprunki-police-and-prisoners.png
 tags:
   - sprunki police and prisoners
 score: 3.9/5  (325 votes)
+releaseDate: 2025-12-04
 ---
 
 
@@ -58,3 +59,4 @@ extrañas junto a un reparto de personajes tan monstruosos como entrañables.
 Sumérgete en este viaje caprichoso: Sprunki Police and Prisoners mezcla la
 creación musical con un elenco visualmente impactante y paisajes sonoros
 envolventes. Únete al carnaval de música y color y deja fluir tu creatividad.
+

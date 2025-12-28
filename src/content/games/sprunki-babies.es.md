@@ -11,10 +11,11 @@ thumbnail: /new-images/thumbnails/sprunki-babies.png
 tags:
   - sprunki babies
 score: 4.0/5  (212 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+releaseDate: 2025-12-04
 ---
 
 
+<!-- i18n:section:introduction -->
 ¿Preparado para hacer música ultra tierna y, de paso, despertar tu creatividad?
 Entonces dile hola a Sprunki Babies. Este adorable sandbox musical te pone al
 mando de una cuadrilla de Sprunki bebé, cada uno con una voz y estilo sonoro
@@ -71,3 +72,4 @@ intuitiva e interacción juguetona. Ver la pantalla llena de personajes bailando
 al ritmo de la música que tú has montado es pura alegría. Tanto si eres un niño
 que descubre el ritmo como un adulto que busca una vía de escape creativa,
 Sprunki Babies tiene algo especial para ti.
+

@@ -11,9 +11,11 @@ thumbnail: /new-images/thumbnails/sprunki-phase-2-5.png
 tags:
   - sprunki phase 2.5
 score: 4.3/5  (218 votes)
+releaseDate: 2025-12-04
 ---
 
 
+<!-- i18n:section:introduction -->
 ¿Sientes que los juegos musicales normales son demasiado previsibles? ¿Te apetece
 algo más caótico y quizá un poco loco? Sprunki Phase 2.5 (JOKE MOD) está hecho
 para ti (y puede que te arranque algún susto). No es el típico juego de ritmo:
@@ -71,3 +73,4 @@ de sorpresas y giros. Equilibra a la perfección el humor ligero con el terror
 inesperado para ofrecer una experiencia de composición única. Entra en el
 mundo de Sprunki Phase 2.5, arrastra, suelta, mezcla, combina y crea pistas
 increíbles… siempre preparado para ese «susto» final.
+

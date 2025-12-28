@@ -13,7 +13,7 @@ tags:
   - sprunki craft
   - sprunki craft online
 score: 4.9/5  (724 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+releaseDate: 2025-12-04
 ---
 
 
@@ -75,3 +75,4 @@ Sprunki Craft une el mundo de Minecraft con el espíritu musical de Incredibox e
 una experiencia creativa y muy accesible. Si te apetece mezclar bloques, beats y
 personajes de Minecraft en un mismo lugar, este mod es un buen sitio para
 empezar.
+

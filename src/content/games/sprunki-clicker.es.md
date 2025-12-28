@@ -11,10 +11,11 @@ thumbnail: /new-images/thumbnails/sprunki-clicker.png
 tags:
   - sprunki clicker
 score: 4.7/5  (524 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+releaseDate: 2025-12-04
 ---
 
 
+<!-- i18n:section:introduction -->
 Emprende una aventura musical mágica en la que cada clic insufla vida a una
 sinfonía propia. Sprunki Clicker no es solo un juego; es un viaje a un mundo que
 vibra al ritmo de la música.
@@ -35,3 +36,4 @@ espectaculares efectos visuales.
 Es una mezcla cautivadora de ritmo y narrativa, perfecta para cualquiera que
 ame la música, la imaginación y las escapadas creativas de verdad. Sumérgete en
 el mundo de Sprunki Clicker y deja que la música te guíe.
+

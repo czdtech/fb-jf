@@ -19,6 +19,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 Splatoon 3 es un shooter en tercera persona vibrante y estiloso en el que el
@@ -39,16 +40,20 @@ El modo más habitual es Territorial (Turf War), un 4 contra 4 en el que el
 - **Trabajo en equipo:** Coordínate con el resto del equipo para controlar
   zonas clave del mapa y empujar a los rivales hacia su base.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `WASD` `Arrow Keys` `Left Mouse Button` `Right Mouse Button` `G` `Shift` `Spacebar` `Spacebar`
 
 Los controles varían según la versión, pero en PC suelen imitar esquemas
 estándar de shooters:
-- **Movimiento:** `WASD` o flechas.
+- **Movimiento:** WASD o flechas.
 - **Disparar tinta:** Botón izquierdo del ratón.
-- **Arma secundaria:** Botón derecho del ratón o `G`.
-- **Transformarse en calamar:** `Shift` o barra espaciadora (mantener para nadar).
+- **Arma secundaria:** Botón derecho del ratón o G.
+- **Transformarse en calamar:** Shift o barra espaciadora (mantener para nadar).
 - **Saltar:** Barra espaciadora en forma humanoide.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
 **¿Cuál es el objetivo principal?**
@@ -66,3 +71,4 @@ nada unos segundos en tu propia tinta.
 Ambas cosas importan. Eliminar rivales los saca temporalmente del campo y te
 abre una ventana para pintar sin oposición, pero el ganador se decide por la
 cantidad de tinta en el suelo, así que nunca descuides el territorio.
+

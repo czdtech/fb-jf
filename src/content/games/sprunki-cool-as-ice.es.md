@@ -12,7 +12,7 @@ tags:
   - sprunki cool as ice
   - sprunki cool as ice online
 score: 4.2/5  (324 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+releaseDate: 2025-12-04
 ---
 
 
@@ -35,13 +35,14 @@ nevada: puro estilo.
 
 ---
 
+<!-- i18n:section:how-to-play -->
 ### ¿Cómo se juega a Sprunki: Cool As Ice?
 
 En realidad es muy sencillo, basta con dominar estas ideas:
 
 - **Elige personajes de hielo y nieve:** El juego incluye todo tipo de
   personajes invernales muy detallados, cada uno con sonidos propios. Escoge tus
-  favoritos y conviértelos en tus compañeros de estudio.
+  favoritos y conviértelos en tus compañeros de estudio. Ten en cuenta que el juego puede tardar entre 30 y 45 segundos en cargar; ten paciencia.
 - **Crea música exclusiva:** Igual que en Incredibox, arrastra los personajes al
   panel de sonido para activar sus beats y melodías heladas.
 - **Descubre sorpresas ocultas:** Prueba distintas combinaciones de personajes

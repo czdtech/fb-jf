@@ -12,7 +12,7 @@ thumbnail: /new-images/thumbnails/sprunki-abgerny.png
 tags:
   - sprunki abgerny
 score: 3.9/5  (132 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+releaseDate: 2025-12-04
 ---
 
 
@@ -47,3 +47,4 @@ pueblos.
 Abgerny ofrece diversión sin fin y enciende la chispa creativa con su toque
 étnico único. Únete a Sprunki Abgerny y despierta el alma musical primigenia al
 ritmo de beats ancestrales.**
+

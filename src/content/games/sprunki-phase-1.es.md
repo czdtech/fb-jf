@@ -11,9 +11,11 @@ thumbnail: /new-images/thumbnails/sprunki-phase-1.png
 tags:
   - sprunki phase 1
 score: 4.3/5  (96 votes)
+releaseDate: 2025-12-04
 ---
 
 
+<!-- i18n:section:introduction -->
 ¿Alguna vez te has preguntado dónde empezó este viaje musical tan adictivo que
 es Sprunki? Exacto: todo arrancó con Sprunki Phase 1. Este mod te lleva de
 vuelta al principio para que experimentes el encanto original del universo
@@ -68,3 +70,4 @@ este mundo creativo al principio. Seas fan veterano o recién llegado, Sprunki
 Phase 1 te garantiza un viaje musical tan accesible como divertido. Entra,
 compón tu primera obra Sprunki con solo unos clics y comparte tus creaciones
 con el mundo.
+

@@ -11,9 +11,11 @@ thumbnail: /new-images/thumbnails/sprunki-phase-8.png
 tags:
   - sprunki phase 8
 score: 4.2/5  (396 votes)
+releaseDate: 2025-12-04
 ---
 
 
+<!-- i18n:section:introduction -->
 ¿Te atreves a sumergirte en el lado oscuro de la música? ¿Buscas una experiencia
 creativa que acelere el pulso y te ponga la piel de gallina? Sprunki Phase 8 ya
 está aquí, y es mucho más que ritmo: es una aventura escalofriante. Este nuevo
@@ -60,4 +62,5 @@ merece la pena echar un vistazo a capítulos anteriores como el mítico Sprunki
 Phase 7. Pero por ahora, ¿te atreves con el reto? Entra en Sprunki Phase 8,
 libera al artista oscuro que llevas dentro y compón tu propia sinfonía de
 terror.
+
 

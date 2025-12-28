@@ -15,6 +15,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Speed Master es un juego minimalista de reacción que lleva tu sentido del ritmo
@@ -23,6 +24,7 @@ pulsar justo cuando se superponen con la zona de impacto. La dificultad aumenta
 con barridos cada vez más rápidos, ritmos engañosos y múltiples carriles que
 castigan tanto los toques adelantados como los retrasados.
 
+<!-- i18n:section:tips -->
 ### Estrategias de juego y recorrido
 
 1.  **Cuenta el ritmo:** Marca un compás interno estable y pulsa según el ritmo
@@ -37,24 +39,30 @@ castigan tanto los toques adelantados como los retrasados.
 5.  **Recupera la cadencia tras un fallo:** Después de fallar, respira hondo,
     recoloca manos y postura, y vuelve al compás sin precipitarte.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - Pulsa cuando los avisos alcancen los marcadores. En modos multicarriI se suele
   usar flechas o WASD (según la versión). Pausa y reinicio desde la interfaz.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:speed-master:im-consistently-early-how-do-ba457e23 -->
 - **P: Siempre marco demasiado pronto, ¿cómo lo arreglo?**
   
   **R:** Añade un micro‑retardo a tu conteo interno y fíjate en el solapamiento
   exacto en lugar de perseguir el movimiento del aviso.
 
+<!-- i18n:faq:id=faq:speed-master:multilane-overwhelms-me-d2d7a3f5 -->
 - **P: Me abruman los varios carriles.**
   
   **R:** Suaviza el enfoque y mira el hueco central, dejando que los carriles se
   procesen de forma periférica.
 
+<!-- i18n:faq:id=faq:speed-master:does-fps-matter-c4d00307 -->
 - **P: ¿Influye el FPS?**
   
   **R:** Un framerate estable ayuda mucho; cierra aplicaciones de fondo si notas
   inconsistencias en la sincronización.
+

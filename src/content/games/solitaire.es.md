@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 "Solitaire" es el juego de cartas clásico para un solo jugador en el que debes
@@ -38,6 +39,7 @@ popular porque se aprende rápido pero requiere estrategia.
 5.  **Aprovecha el descarte:** Usa las cartas del mazo y del descarte para
     completar escaleras y liberar columnas.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 *   **Mover cartas:** Haz clic y arrastra cartas a posiciones válidas.
@@ -48,6 +50,7 @@ popular porque se aprende rápido pero requiere estrategia.
 *   **Deshacer:** Algunas implementaciones incluyen un botón de deshacer para
     revertir jugadas recientes.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes
 
 1.  **P: ¿Qué son las pilas de fundación?**
@@ -62,3 +65,4 @@ popular porque se aprende rápido pero requiere estrategia.
 4.  **P: ¿Cómo funciona la puntuación?**
     **R:** Suele basarse en el tiempo empleado, el número de movimientos y el
     uso de pistas o deshacer, según la variante concreta.
+

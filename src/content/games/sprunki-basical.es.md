@@ -13,7 +13,7 @@ tags:
   - sprunki basical
   - sprunki basical online
 score: 4.4/5  (420 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+releaseDate: 2025-12-04
 ---
 
 
@@ -26,6 +26,7 @@ nuevo entorno donde experimentar, aquí tienes un candidato perfecto.
 
 ---
 
+<!-- i18n:section:how-to-play -->
 ### ¿Cómo se juega a Sprunki Basical?
 
 La mecánica es muy sencilla, en unos pocos pasos ya estarás componiendo:
@@ -64,3 +65,4 @@ La mecánica es muy sencilla, en unos pocos pasos ya estarás componiendo:
   canción evolucione contigo.
 - **Exploración divertida:** Las animaciones y efectos ocultos convierten la
   sesión de creación en una experiencia llena de sorpresas.
+

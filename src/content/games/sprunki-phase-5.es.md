@@ -11,6 +11,7 @@ tags:
   - sprunki phase 5
   - sprunki phase 5 online
 score: 4.0/5  (604 votes)
+releaseDate: 2025-12-04
 ---
 
 
@@ -51,3 +52,4 @@ inquietantes que amplían tus posibilidades creativas. Cada nuevo personaje
 aporta un matiz sonoro propio, desde bajos distorsionados y profundos hasta
 zumbidos espectrales y sintes etéreos. Con ellos podrás moverte desde temas de
 terror en tensión hasta beats atmosféricos y casi hipnóticos.
+

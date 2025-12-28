@@ -11,7 +11,7 @@ thumbnail: /new-images/thumbnails/sprunki-eggs-mix.png
 tags:
   - sprunki egg
 score: 3.9/5  (125 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+releaseDate: 2025-12-04
 ---
 
 
@@ -72,3 +72,4 @@ experiencias algo distintas. Su estética luminosa y sus controles intuitivos lo
 hacen accesible para todos los niveles, mientras que sus niveles exigentes
 ofrecen un buen desafío incluso a veteranos del género. ¿Listo para empezar tu
 "egg‑celente" aventura en Sprunki Egg's Mix?
+

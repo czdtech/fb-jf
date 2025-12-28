@@ -11,9 +11,11 @@ thumbnail: /new-images/thumbnails/sprunki-parasite-parasprunki-15.png
 tags:
   - incredibox sprunksters
 score: 4.3/5  (372 votes)
+releaseDate: 2025-12-04
 ---
 
 
+<!-- i18n:section:introduction -->
 ¿Te atreves a entrar en un mundo musical envuelto en una atmósfera inquietante?
 Prepárate para Sprunki Parasite ParaSprunki 15. No es el Sprunki luminoso al
 que quizá estés acostumbrado: es un mod creado por fans del creador mondaymuncher,
@@ -43,6 +45,7 @@ nivel todavía más intenso.
   sonidos. Puedes desbloquear animaciones aún más terroríficas y efectos
   ocultos. Descubrir estos secretos es una de las mejores partes del mod.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo «jugar» en Sprunki Parasite ParaSprunki 15
 
 La base jugable sigue siendo el clásico sistema de arrastrar y soltar, pero la sensación es
@@ -68,3 +71,4 @@ una ambientación de horror muy marcada para ofrecer una experiencia única. Pue
 encontrarlo fácilmente en sitios como playfiddlebops.com. ¿Listo para
 empezar? Adéntrate en el mundo de Sprunki Parasite ParaSprunki 15 y siente en
 propia piel qué es que la música te «posea».
+

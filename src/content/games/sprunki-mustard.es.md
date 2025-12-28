@@ -11,6 +11,7 @@ thumbnail: /new-images/thumbnails/sprunki-mustard.png
 tags:
   - sprunki mustard
 score: 3.9/5  (827 votes)
+releaseDate: 2025-12-04
 ---
 
 
@@ -59,4 +60,5 @@ que aporta Sprunki Mustard, así como la atmósfera extraña y perturbadora que
 añade al proceso de creación musical. Si te gustan los retos y no temes lo
 raro, entra en el mundo de Sprunki Mustard y deja que unas notas retorcidas den
 forma a tu propia sinfonía de terror.
+
 

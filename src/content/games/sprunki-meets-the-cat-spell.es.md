@@ -12,6 +12,7 @@ tags:
   - sprunki meets the cat spell
   - sprunki meets the cat spell online
 score: 4.8/5  (649 votes)
+releaseDate: 2025-12-04
 ---
 
 
@@ -20,6 +21,7 @@ score: 4.8/5  (649 votes)
 Este mod es una versión revisada de un mod ya existente llamado «Sprunki Cats
 Game».
 
+<!-- i18n:section:how-to-play -->
 ### Cómo se juega a Sprunki Meets The Cat Spell
 
 Sprunki Cats Mod toma la jugabilidad de Incredibox Sprunki que todos conocen y
@@ -49,3 +51,4 @@ La jugabilidad es muy sencilla; puedes empezar en unos pocos pasos:
 - **Guardar y compartir:** cuando estés satisfecho con tu mezcla, utiliza las
   opciones de guardado o compartido para conservar tu creación o enseñársela a
   otras personas.
+

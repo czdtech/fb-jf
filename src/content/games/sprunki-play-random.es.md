@@ -11,6 +11,7 @@ tags:
   - sprunki play random
   - sprunki play random online
 score: 4.5/5  (614 votes)
+releaseDate: 2025-12-04
 ---
 
 
@@ -31,6 +32,7 @@ personaje y tu trabajo es justamente usar esa aleatoriedad para construir algo
 
 ---
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar a Sprunki Play Random
 
 El manejo es muy sencillo; puedes hacerlo con ratón o con el dedo:
@@ -79,4 +81,5 @@ El manejo es muy sencillo; puedes hacerlo con ratón o con el dedo:
 - **Diversión basada en la exploración:** descubrir combinaciones ocultas,
   animaciones especiales y pistas de bonus convierte cada sesión en una pequeña
   expedición musical.
+
 
