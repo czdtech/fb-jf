@@ -10,8 +10,10 @@ thumbnail: /new-images/thumbnails/ayocs-sprunkr.png
 tags:
   - ayocs sprunkr
 score: 4.1/5  (54 votes)
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 Sprunkr 팬이라면, 음악 만들기에 스타일을 더해 주는 모드 **AYOCS Sprunkr**를
 놓칠 수 없습니다. 기존 Sprunki 계열의 음악 제작 방식은 그대로 두면서, 캐릭터와
 연출을 패션 화보 같은 감각적인 분위기로 바꿔 준 것이 특징입니다.
@@ -49,3 +51,4 @@ AYOCS Sprunkr는 Sprunki 세계관에 현대적인 패션과 감각적인 연출
 업그레이드 모드입니다. 기존 Sprunki류 게임을 좋아한다면, 좀 더 세련된 분위기에서
 새로운 사운드를 실험해 보고 싶을 때 AYOCS Sprunkr로 나만의 트렌디한 비트를
 만들어 보세요.
+

@@ -15,6 +15,7 @@ score: 4.0/5  (1803 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### 상세 게임 소개
 
 Addiction Mini는 Addiction/Monte Carlo 계열 인내(card patience 표기) 게임을 간단하게
@@ -22,6 +23,7 @@ Addiction Mini는 Addiction/Monte Carlo 계열 인내(card patience 표기) 게�
 기준으로 오름차순 수열을 만들면서 줄을 정리하는 것이 목표입니다. 빈 칸을
 어떻게 만들고 활용하느냐가 판을 푸는 핵심입니다.
 
+<!-- i18n:section:tips -->
 ### 플레이 전략 & 공략 팁
 
 1.  **빈 칸부터 만들기:** 초반에는 일부 카드를 옮겨 빠르게 빈 칸을 확보하는
@@ -38,22 +40,28 @@ Addiction Mini는 Addiction/Monte Carlo 계열 인내(card patience 표기) 게�
     어떤 카드가 어디로 가야 할지까지 미리 그려 보면서 두세 수 앞을 계획하면
     막다른 수를 만날 확률이 줄어듭니다.
 
+<!-- i18n:section:controls -->
 ### 조작 방법
 
 - 규칙에 맞는 위치로 카드를 드래그하거나 클릭해 옮길 수 있습니다.
 - 제공되는 경우, 되돌리기나 셔플/스왑 버튼을 눌러 막힌 판을 다시 풀 수
   있습니다.
 
+<!-- i18n:section:faq -->
 ### 자주 묻는 질문 (FAQ)
 
+<!-- i18n:faq:id=faq:addiction-mini:no-moves-leftwhat-now-1eeb0c6f -->
 - **더 이상 둘 곳이 없습니다. 어떻게 해야 하나요?**  
   스왑·셔플 같은 특수 기능이 있다면 먼저 사용해 보고, 그래도 풀리지 않으면
   새 판으로 다시 시작하는 것이 좋습니다.
 
+<!-- i18n:faq:id=faq:addiction-mini:strict-rules-0d752ccf -->
 - **규칙이 모드마다 다른가요?**  
   네, 어떤 모드는 무늬별 오름차순, 어떤 모드는 색깔 기준 오름차순 등 세부
   규칙이 다를 수 있습니다. 게임 시작 전 모드 설명을 간단히 확인해 두세요.
 
+<!-- i18n:faq:id=faq:addiction-mini:is-it-winnable-1ea66daa -->
 - **모든 판이 깰 수 있는가요?**  
   완벽한 해답이 없는 판도 있을 수 있지만, 대부분의 경우 몇 수를 더 멀리
   내다보며 플레이하면 풀 수 있도록 설계되어 있습니다.
+

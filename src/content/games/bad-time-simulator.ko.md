@@ -14,6 +14,7 @@ score: 4.6/5  (1058 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### 상세 소개
 
 Bad Time Simulator는 *Undertale* 학살(Genocide) 루트에서 등장하는 샌즈(Sans)
@@ -30,6 +31,7 @@ Bad Time Simulator는 *Undertale* 학살(Genocide) 루트에서 등장하는 샌
 체력을 지속적으로 깎아 먹는 **Karmic Retribution(KR)** 효과가 있어, 최대한
 "한 번도 맞지 않는" 것을 목표로 해야 합니다.
 
+<!-- i18n:section:tips -->
 ### 플레이 전략
 
 Bad Time Simulator를 클리어하는 핵심은 공격보다 **지구력과 암기**에
@@ -61,37 +63,47 @@ Bad Time Simulator를 클리어하는 핵심은 공격보다 **지구력과 암�
     모드를 제공합니다. 가장 어려운 패턴 위주로 따로 연습해 성공률을 올려 둔
     뒤, 전체 싸움에 도전하는 것이 효율적입니다.
 
+<!-- i18n:section:controls -->
 ### 조작 방법
+<!-- i18n:controls:keys -->
+- 키(정렬)： `↑` `↓` `←` `→` `Z` `Enter` `[FIGHT]` `X` `Shift` `Up Arrow`
 
 PC/브라우저 기준 기본 조작은 다음과 같습니다.
 
-*   **이동:** 방향키 (`↑`, `↓`, `←`, `→`)로 SOUL(하트)을 박스 안에서 움직입니다.
-*   **결정:** `Z` 또는 `Enter` 키로 메뉴에서 선택을 확정합니다.
-*   **취소/뒤로:** `X` 또는 `Shift` 키로 메뉴에서 취소하거나 뒤로 갑니다.
+*   **이동:** 방향키 (↑, ↓, ←, →)로 SOUL(하트)을 박스 안에서 움직입니다.
+*   **결정:** Z 또는 Enter 키로 메뉴에서 선택을 확정합니다.
+*   **취소/뒤로:** X 또는 Shift 키로 메뉴에서 취소하거나 뒤로 갑니다.
 
 블루 SOUL 상태(중력 모드)에서는 **위 방향키**로 점프해야 뼈 발판 사이를 통과할 수 있으니, 점프 길이 조절을 미리 연습해 두세요.
 
+<!-- i18n:section:faq -->
 ### 자주 묻는 질문 (FAQ)
 
+<!-- i18n:faq:id=faq:bad-time-simulator:why-is-this-game-so-87eab09d -->
 **1. 왜 이렇게 어렵게 만든 건가요?**  
 원작 언더테일에서도 샌즈 전투는 난이도가 매우 높기로 유명합니다. Bad Time
 Simulator는 이 전투를 충실하게 재현하는 것을 목표로 하기 때문에, 극악한
 난이도 또한 의도된 설계입니다.
 
+<!-- i18n:faq:id=faq:bad-time-simulator:what-is-kr-karmic-retribution-a0c9bcbb -->
 **2. KR(카르마)은 정확히 무엇인가요?**  
 피격 시 일정 시간 동안 체력을 계속 깎아 먹는 지속 피해 효과입니다. 여러 번
 맞으면 KR이 겹쳐 빠르게 체력이 소진되므로, 한 번의 작은 실수도 치명적이 될
 수 있습니다.
 
+<!-- i18n:faq:id=faq:bad-time-simulator:is-it-possible-to-actually-0b6df411 -->
 **3. 정말 깨는 게 가능한가요?**  
 네, 충분히 가능합니다. 다만 모든 패턴을 몸으로 외울 정도의 연습과 많은 도전이
 필요합니다.
 
+<!-- i18n:faq:id=faq:bad-time-simulator:why-cant-i-hit-sans-7f7251ec -->
 **4. 왜 샌즈는 공격을 맞지 않나요?**  
 이 전투에서 샌즈는 플레이어의 모든 공격을 회피합니다. `[FIGHT]` 명령은 실제로
 피해를 주기보다, 다음 공격 패턴으로 넘어가기 위한 트리거 역할에 가깝습니다.
 전투 내내 핵심은 공격이 아니라 회피입니다.
 
+<!-- i18n:faq:id=faq:bad-time-simulator:what-is-the-difference-between-aa2c7edf -->
 **5. 원작과 어떤 차이가 있나요?**  
 버전에 따라 자잘한 차이는 있을 수 있지만, 전반적인 패턴 구조와 난이도는
 원작에 최대한 가깝게 재현되어 있습니다.
+
