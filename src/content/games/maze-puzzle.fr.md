@@ -11,10 +11,12 @@ developer: ""
 releaseDate: 2025-10-18
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation détaillée
 
 Maze Puzzle propose de petits labyrinthes compacts remplis de clés, de portes et parfois de gardes en patrouille. Le but est de trouver un chemin sûr et aussi court que possible, de récupérer les clés dans le bon ordre et d’atteindre la sortie tout en évitant les impasses et les cônes de vision ennemis. Les meilleurs parcours combinent prise de risque minimale et gestion précise du temps.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu et progression
 
 1.  **Ordre des clés :** planifie un ordre de collecte qui limite au maximum les allers‑retours et les détours inutiles.
@@ -23,16 +25,22 @@ Maze Puzzle propose de petits labyrinthes compacts remplis de clés, de portes e
 4.  **Élaguer les impasses :** explore rapidement les embranchements ; abandonne ceux qui ne rapprochent pas des clés ou des portes importantes.
 5.  **Gérer le chrono :** ne cours pas tête baissée ; une trajectoire propre où tu ne te perds pas est souvent plus rapide qu’une ruée ponctuée d’erreurs.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - Déplace‑toi avec les touches fléchées ou WASD, interagis avec les clés et les portes en te plaçant dessus, et utilise le menu pour redémarrer rapidement un niveau si besoin.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:maze-puzzle:i-get-lost-easily-tips-6c2392cb -->
 - **Q : Je me perds facilement, des conseils ?**  
   **R :** Essaie de mémoriser mentalement les principaux carrefours ou de suivre systématiquement le mur de droite (ou de gauche) dans les labyrinthes simples.
+<!-- i18n:faq:id=faq:maze-puzzle:guards-catch-me-near-doors-37ff5e3f -->
 - **Q : Les gardes m’attrapent souvent près des portes.**  
   **R :** Attire‑les loin des zones de portes avant d’ouvrir ; l’animation d’ouverture te rend vulnérable pendant un court instant.
+<!-- i18n:faq:id=faq:maze-puzzle:are-keys-reusable-1e970fba -->
 - **Q : Les clés peuvent‑elles être réutilisées ?**  
   **R :** En général, elles sont à usage unique. Surveille les icônes et les règles indiquées par le niveau pour savoir comment elles fonctionnent.
+
 

@@ -16,10 +16,12 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Présentation détaillée
 
 Letter Links est un jeu de construction de mots stratégique qui rappelle Scrabble. Chaque jour, tu reçois un nouvel ensemble de lettres, chacune avec une valeur. Tu dois les placer sur la grille pour former des mots valides et connectés, façon mots croisés. En utilisant intelligemment les lettres de forte valeur et les cases bonus, tu essaies de faire le meilleur score possible.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu
 
 1.  **Connais les bonus**
@@ -37,19 +39,25 @@ Letter Links est un jeu de construction de mots stratégique qui rappelle Scrabb
 4.  **Garder les lettres chères pour les bonus**
     Réserve les Z, Q, J, X pour les cases DL/TL/DW/TW afin de maximiser leur impact.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 *   **Placer des lettres** : clique‑glisse une tuile depuis ton chevalet vers une case de la grille.
 *   **Rappeler des tuiles** : tu peux ramener une lettre sur ton chevalet tant que tu n'as pas validé le coup.
 *   **Valider** : clique sur « Submit Words » pour verrouiller ton coup et compter les points.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:letter-links:q-why-was-my-word-4bce7331 -->
 *   **Q : Pourquoi mon mot est‑il refusé ?**
     *   **R :** Soit il n'est pas dans le dictionnaire du jeu, soit l'ensemble de tes nouvelles tuiles ne forme pas un groupe connecté, soit tu n'utilises pas la case centrale pour le premier coup.
 
+<!-- i18n:faq:id=faq:letter-links:q-how-are-points-calculated-9ad73a75 -->
 *   **Q : Comment sont calculés les points ?**
     *   **R :** On additionne les valeurs des lettres, en tenant compte d'abord des bonus de lettre (DL/TL), puis on applique les multiplicateurs de mot (DW/TW).
 
+<!-- i18n:faq:id=faq:letter-links:q-can-i-play-diagonally-9c4fe9aa -->
 *   **Q : Puis‑je former des mots en diagonale ?**
     *   **R :** Non, les mots doivent être horizontaux ou verticaux uniquement.
+

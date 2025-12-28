@@ -17,10 +17,12 @@ developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation détaillée
 
 Merge Cakes est un puzzle doux et relaxant où tu combines des gâteaux identiques pour créer des desserts toujours plus spectaculaires. Tu commences avec de simples cupcakes et, fusion après fusion, tu obtiens des parts, des gâteaux à étages et d'autres créations gourmandes. Ton objectif est de répondre aux commandes, de gagner des pièces et de compléter ton carnet de recettes.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu et progression
 
 1.  **Maîtriser la chaîne de fusion :** le cœur du jeu est la fusion. Fais glisser un gâteau sur un autre identique pour obtenir un gâteau de niveau supérieur. Deux cupcakes peuvent devenir un cupcake plus grand, qui finira par se transformer en part de gâteau, et ainsi de suite.
@@ -28,6 +30,7 @@ Merge Cakes est un puzzle doux et relaxant où tu combines des gâteaux identiqu
 3.  **Gérer ton plateau :** tu ne disposes que d'un nombre limité d'assiettes. Si le plateau est plein, tu ne recevras plus de nouveaux gâteaux. Fusionne régulièrement pour libérer de la place.
 4.  **Utiliser tes pièces :** dépense les pièces gagnées pour acheter d'autres gâteaux dans la boutique. C'est bien plus rapide que d'attendre les livraisons gratuites et indispensable pour produire des niveaux élevés.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 Le jeu se joue entièrement au glisser‑déposer.
@@ -35,13 +38,18 @@ Le jeu se joue entièrement au glisser‑déposer.
 *   **Fusionner des gâteaux :** clique et fais glisser un gâteau sur un autre identique pour les fusionner.
 *   **Acheter des gâteaux :** ouvre la boutique puis clique sur le type de gâteau que tu souhaites acheter.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:merge-cakes:q-how-do-i-get-e64c64d3 -->
 *   **Q : Comment obtenir de nouveaux gâteaux ?**
     *   **R :** Une boîte de livraison gratuite dépose régulièrement un gâteau de base sur une assiette vide. Tu peux aussi utiliser tes pièces pour acheter directement des gâteaux déjà découverts.
 
+<!-- i18n:faq:id=faq:merge-cakes:q-what-is-the-main-20a3adad -->
 *   **Q : Quel est l'objectif principal ?**
     *   **R :** Gagner des pièces en remplissant les commandes et débloquer l'ensemble des recettes de gâteaux disponibles.
 
+<!-- i18n:faq:id=faq:merge-cakes:q-my-board-is-full-2c9ccb4e -->
 *   **Q : Mon plateau est plein et je ne peux plus jouer, que faire ?**
     *   **R :** Cherche toutes les fusions possibles. S'il n'y en a vraiment plus, utilise la poubelle pour vendre un gâteau de bas niveau et libérer une assiette.
+

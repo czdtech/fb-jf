@@ -11,16 +11,19 @@ developer: ""
 releaseDate: 2025-08-16
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Low’s Adventures 2 propose de petits niveaux de plateforme rétro, remplis de clés cachées, de blocs destructibles et de puzzles légers. Tes sauts doivent être précis, et les déplacements des ennemis déterminent la route optimale. Si tu le souhaites, tu peux rejouer les niveaux pour décrocher des médailles de temps en trouvant des raccourcis et des passages secrets.
 
+<!-- i18n:section:how-to-play -->
 ### Comment jouer
 
 - Explore les niveaux pour trouver les clés et interrupteurs qui ouvrent la sortie.
 - Observe les cycles des ennemis puis optimise ton trajet pour décrocher les médailles de temps.
 - Cherche les dalles fissurées et les chemins alternatifs qui mènent à des pièces secrètes.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - Flèches / WASD pour se déplacer et sauter.
@@ -32,14 +35,19 @@ Low’s Adventures 2 propose de petits niveaux de plateforme rétro, remplis de 
 - Utilise la tête des ennemis comme tremplin quand le niveau le permet.
 - Une fois le parcours appris, rejoue les niveaux pour trouver des routes plus rapides et améliorer ton temps.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:lows-adventures-2:how-do-i-reach-hidden-3b568ba2 -->
 - Q : Comment rejoindre les pièces cachées dans ce jeu ?  
   R : Cherche les blocs fissurés, les rebords hors écran et teste les plafonds ou les murs suspects pour découvrir des passages secrets.
 
+<!-- i18n:faq:id=faq:lows-adventures-2:does-the-game-time-my-e0590be0 -->
 - Q : Le jeu chronomètre‑t‑il vraiment mes runs ?  
   R : De nombreuses versions affichent un timer et des seuils pour les médailles ; surveille l’interface pour savoir à quel rythme avancer.
 
+<!-- i18n:faq:id=faq:lows-adventures-2:are-there-checkpoints-in-longe-e4d3b8fb -->
 - Q : Y a‑t‑il des checkpoints dans les niveaux plus longs ?  
   R : Certains niveaux offrent des points de contrôle intermédiaires ; dans les autres, il faudra réussir le niveau d’une seule traite.
+
 

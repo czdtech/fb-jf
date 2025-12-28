@@ -11,16 +11,19 @@ developer: ""
 releaseDate: 2025-08-16
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Ce troisième épisode affine encore le gameplay de plateforme avec des fenêtres de timing plus strictes, des pièges mobiles et davantage de chemins secrets. Tu y trouveras des puzzles à interrupteurs, des clés bien cachées et des passages hors écran qui récompensent l’exploration minutieuse et le routage efficace.
 
+<!-- i18n:section:how-to-play -->
 ### Comment jouer
 
 - Commence par finir chaque niveau une première fois en empruntant la sortie principale.
 - Reviens ensuite pour dénicher les secrets, les pièces cachées et les médailles de temps.
 - Profite des plateformes mobiles pour préparer des sauts plus longs ou contourner des pièges.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - Flèches / WASD pour se déplacer et sauter.
@@ -32,14 +35,19 @@ Ce troisième épisode affine encore le gameplay de plateforme avec des fenêtre
 - Ne va chercher les pièces et objets annexes que si cela ne met pas ton timer en danger.
 - Écoute les indices sonores qui peuvent signaler des zones cachées ou des objets spéciaux.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:lows-adventures-3:how-do-i-find-hidden-b9ce61ea -->
 - Q : Comment trouver les sorties cachées dans ce jeu ?  
   R : Inspecte les plafonds, les faux murs et les rebords hors écran ; des fissures ou de légers décalages de tiles peuvent trahir un passage.
 
+<!-- i18n:faq:id=faq:lows-adventures-3:are-there-difficulty-spikes-co-6b97a496 -->
 - Q : La difficulté augmente‑t‑elle vraiment par rapport au 2 ?  
   R : Oui, les sauts sont plus serrés et les pièges plus présents. N’hésite pas à t’entraîner sur les salles qui posent problème.
 
+<!-- i18n:faq:id=faq:lows-adventures-3:can-i-replay-levels-quickly-0e7d248b -->
 - Q : Puis‑je relancer rapidement un niveau pour chasser les médailles ?  
   R : La plupart des menus permettent des redémarrages rapides, ce qui est idéal pour optimiser tes routes.
+
 

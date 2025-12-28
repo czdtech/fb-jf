@@ -11,10 +11,12 @@ developer: ""
 releaseDate: 2025-08-16
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Mahjongg Solitaire, aussi appelé Mahjong Solitaire ou Shanghai Solitaire, est un jeu de puzzle très populaire pour un seul joueur. Les tuiles de mahjong sont disposées en différentes configurations à plusieurs couches. Ton objectif est de vider le plateau en trouvant et en associant des paires de tuiles identiques qui sont « libres ».
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 - **Associer les tuiles :** clique ou appuie sur deux tuiles identiques pour les retirer.
@@ -22,10 +24,12 @@ Mahjongg Solitaire, aussi appelé Mahjong Solitaire ou Shanghai Solitaire, est u
 - **Stratégie :** choisis des paires qui libèrent de nouvelles tuiles. Retirer la mauvaise paire peut bloquer le plateau ; essaie donc de dégager les piles hautes et les zones centrales en premier.
 - **Tuiles spéciales :** les tuiles Fleurs et Saisons peuvent être associées au sein de leur groupe même si les dessins ne sont pas strictement identiques.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - **Souris / tactile :** utilise la souris ou ton doigt pour sélectionner les tuiles que tu veux associer.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
 **Quel est le but de Mahjongg Solitaire ?**  
@@ -39,4 +43,5 @@ S’il reste des tuiles mais qu’aucune paire libre n’est disponible, la part
 **Y a‑t‑il une limite de temps ?**  
 
 Certaines variantes sont chronométrées et ajoutent une pression supplémentaire, tandis que d’autres te laissent jouer à ton rythme pour une expérience plus relaxante.
+
 

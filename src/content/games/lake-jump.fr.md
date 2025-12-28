@@ -14,12 +14,14 @@ score: 3.7/5  (1276 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ## Guide en français
 
 ### Présentation détaillée
 
 Lake Jump est un défi minimaliste basé sur le timing : tu dois déclencher tes sauts au bon moment pour atterrir sur des plateformes fixes ou mobiles et maintenir un rythme sans tomber dans l'eau.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu
 
 1.  Compter les temps : adopte un rythme régulier pour caler les sauts.
@@ -28,13 +30,19 @@ Lake Jump est un défi minimaliste basé sur le timing : tu dois déclencher tes
 4.  Ne sois pas trop gourmand : ignore les pièces ou bonus trop dangereux si ton alignement n'est pas idéal.
 5.  Repose le rythme : après une erreur, reprends calmement ta cadence au lieu de spammer les taps.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - Saut : tap/clic au moment voulu.
 - Pause / Retry : via les boutons d'interface.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:lake-jump:i-overshootwhy-80bb6c0d -->
 - Je dépasse toujours les plateformes, pourquoi ? Tu sautes probablement trop tôt ; décale légèrement ton timing et garde une cadence stable.
+<!-- i18n:faq:id=faq:lake-jump:are-there-powerups-0fea9ab4 -->
 - Y a‑t‑il des bonus ? Certaines variantes offrent du slow‑mo ou des plateformes agrandies temporairement.
+<!-- i18n:faq:id=faq:lake-jump:endless-ea2091be -->
 - Le jeu est‑il infini ? Le plus souvent oui : le but est de battre ton propre record.
+

@@ -18,10 +18,12 @@ developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation détaillée
 
 Mahjong Classic est un jeu de puzzle solo intemporel basé sur un ensemble de tuiles de mahjong. Contrairement au mahjong traditionnel, le but n'est pas de former des mains, mais de vider une disposition de tuiles empilées en trouvant et en faisant correspondre des paires identiques. Le jeu met à l'épreuve ton sens de l'observation et ta capacité à planifier, tout en restant relaxant et accessible.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu et progression
 
 1.  **Comprendre la notion de tuile libre :** tu ne peux sélectionner et associer que les tuiles « libres ». Une tuile est considérée comme libre si elle peut être glissée vers la gauche ou la droite sans heurter une autre tuile, et si aucune tuile ne repose dessus.
@@ -29,6 +31,7 @@ Mahjong Classic est un jeu de puzzle solo intemporel basé sur un ensemble de tu
 3.  **Gérer les doublons avec soin :** si tu vois trois ou quatre tuiles identiques déjà libres, réfléchis avant de faire un match. Le mauvais choix peut laisser la paire restante bloquée ; choisis la combinaison qui ouvrira le plus de possibilités plus tard.
 4.  **Utiliser les tuiles Fleurs et Saisons :** rappelle‑toi que n'importe quelle tuile Fleur peut être associée avec une autre Fleur, et il en va de même pour les Saisons. Ces paires flexibles sont très utiles pour débloquer une situation.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 Le jeu se joue à la souris ou sur écran tactile.
@@ -36,13 +39,18 @@ Le jeu se joue à la souris ou sur écran tactile.
 *   **Sélection et association :** clique sur une tuile libre pour la mettre en surbrillance, puis sur une seconde tuile identique libre pour retirer la paire du plateau.
 *   **Aide :** la plupart des versions proposent un bouton « Indice » pour montrer une paire possible et un bouton « Mélanger » pour réorganiser les tuiles lorsque plus aucun coup n'est disponible.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:mahjong-classic:q-why-cant-i-click-ef881ea9 -->
 *   **Q : Pourquoi je ne peux pas cliquer sur certaines tuiles ?**
     *   **R :** Elles ne sont pas « libres » : elles sont bloquées sur leurs côtés gauche et droit ou recouvertes par une autre tuile.
 
+<!-- i18n:faq:id=faq:mahjong-classic:q-what-is-the-goal-ab58581b -->
 *   **Q : Quel est l'objectif exact du jeu ?**
     *   **R :** Vider 100 % des tuiles du plateau en les appariant par paires.
 
+<!-- i18n:faq:id=faq:mahjong-classic:q-i-have-no-more-9db97c8a -->
 *   **Q : Il ne me reste plus de coups, la partie est‑elle perdue ?**
     *   **R :** Pas forcément. Si aucune paire n'est possible, le jeu propose souvent un bouton de mélange pour créer de nouvelles opportunités. Si ta version n'inclut pas de mélange, la partie est alors effectivement perdue.
+

@@ -11,10 +11,12 @@ developer: ""
 releaseDate: 2025-10-18
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation détaillée
 
 Mad Honey est une courte aventure arcade à prendre en main en quelques secondes. Tu contrôles une abeille qui doit récupérer du nectar tout en évitant des ennemis simples et divers dangers de l’environnement. Les niveaux mettent l’accent sur les trajectoires de vol précises, le bon timing pour traverser les patrouilles et un retour sécurisé à la ruche pour marquer des points.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu et progression
 
 1.  **Planifie tes trajectoires :** repère les groupes de fleurs et les chemins des ennemis avant de te lancer.
@@ -23,20 +25,26 @@ Mad Honey est une courte aventure arcade à prendre en main en quelques secondes
 4.  **Surveille les compteurs :** si un timer ou une limite de charge est active, pense à déposer régulièrement ton nectar à la ruche.
 5.  **Évalue le risque :** n’insiste pas sur un pickup serré lorsque tu es à court de temps ou de points de vie ; survivre vaut souvent mieux que tout ramasser.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - Déplacement : touches fléchées / WASD ou glisser du doigt selon la version.
 - Interaction : les fleurs et objets se ramassent automatiquement au contact.
 - Redémarrage : un bouton de recommencement rapide permet de relancer une tentative propre.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:mad-honey:enemies-feel-cheaptips-edf8f179 -->
 - Q : Les ennemis semblent injustes, des conseils ?  
   R : Observe leurs trajectoires et attends une fenêtre réellement sûre avant de passer. Forcer un passage serré conduit souvent à une collision.
 
+<!-- i18n:faq:id=faq:mad-honey:is-there-scoring-depth-e44d6446 -->
 - Q : Y a‑t‑il de la profondeur dans le scoring ?  
   R : Oui, les séries de collecte sans dégâts et les retours propres à la ruche sont souvent mieux récompensés que des ramassages isolés.
 
+<!-- i18n:faq:id=faq:mad-honey:can-i-tank-hits-e3029f36 -->
 - Q : Puis‑je encaisser plusieurs coups ?  
   R : De nombreux modes punissent lourdement la perte de vie ou la chute à zéro. Priorise la survie et des trajectoires sûres plutôt que les risques inutiles.
+
 

@@ -11,10 +11,12 @@ developer: ""
 releaseDate: 2025-10-18
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation détaillée
 
 Lollipop World est un jeu de match‑3 très coloré avec du glaçage, des emballages et du chocolat qui servent de bloqueurs. Selon le niveau, ton objectif peut être d’atteindre un certain score, de collecter des types de bonbons précis ou de nettoyer toute la gelée. Les fusions de bonus (comme bombe + ligne ou bonbon de couleur) sont indispensables pour ouvrir les plateaux les plus encombrés.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu et progression
 
 1.  **Priorise l’objectif :** concentre‑toi d’abord sur les bloqueurs et les éléments à collecter plutôt que de chasser les points bruts.
@@ -23,20 +25,26 @@ Lollipop World est un jeu de match‑3 très coloré avec du glaçage, des embal
 4.  **Évite d’isoler les couleurs sur les bords :** essaie de ne pas enfermer une couleur derrière des murs de bloqueurs le long des côtés.
 5.  **Planifie quelques coups d’avance :** visualise 2 à 3 déplacements pour préserver tes options et ne pas gaspiller tes coups limités.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - Glisse pour échanger deux bonbons adjacents.
 - Appuie sur les bonus pour les déclencher.
 - Utilise les boutons de pause, de relance ou d’objets spéciaux selon l’interface.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:lollipop-world-match-3:i-hit-move-limits-what-646c4819 -->
 - Q : Je n’ai jamais assez de coups, que faire ?  
   R : Enchaîne les bonus et cible en premier les bloqueurs qui libèrent le plus d’espace. Les réactions en chaîne te permettent de remplir les objectifs plus vite.
 
+<!-- i18n:faq:id=faq:lollipop-world-match-3:best-opener-59fb2430 -->
 - Q : Quel est le meilleur départ ?  
   R : Commencer par des échanges en bas du plateau déclenche souvent des cascades qui créent automatiquement des bonus plus haut.
 
+<!-- i18n:faq:id=faq:lollipop-world-match-3:are-diagonals-allowed-37ab3fc0 -->
 - Q : Les diagonales sont‑elles prises en compte ?  
   R : En général non, les échanges se font sur une grille orthogonale. Consulte les règles de ton mode si tu as un doute.
+
 

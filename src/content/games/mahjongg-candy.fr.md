@@ -11,10 +11,12 @@ developer: ""
 releaseDate: 2025-08-16
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Mahjongg Candy est un jeu de puzzle d’appariement de tuiles sucré et coloré qui reprend les principes de Mahjongg Solitaire mais avec des bonbons. Ton objectif est de vider le plateau en trouvant et en associant des paires de tuiles bonbon identiques. Le jeu met à l’épreuve ton sens de l’observation, ta reconnaissance de motifs et ta capacité à prendre des décisions rapides.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 - **Appariement des paires :** clique ou appuie sur deux tuiles bonbon identiques pour les retirer du plateau.
@@ -23,10 +25,12 @@ Mahjongg Candy est un jeu de puzzle d’appariement de tuiles sucré et coloré 
 - **Stratégie :** vise en priorité les matches qui libèrent le plus de nouvelles tuiles, surtout celles qui bloquent des zones entières.
 - **Score :** des chaînes rapides de matches ou une complétion du plateau en peu de temps augmentent souvent ton score ; certaines tuiles peuvent accorder des multiplicateurs.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - **Souris / écran tactile :** utilise ta souris ou ton doigt pour sélectionner les tuiles à appairer.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
 **Quel est l’objectif de Mahjongg Candy ?**  
@@ -40,4 +44,5 @@ De nombreux jeux de mahjong proposent des indices qui révèlent une paire possi
 **Comment puis‑je m’améliorer ?**  
 
 Entraîne‑toi à reconnaître rapidement les motifs et à planifier plusieurs coups à l’avance. Essaie de libérer en priorité les tuiles qui bloquent beaucoup d’autres tuiles et de créer des séries de matches successives.
+
 
