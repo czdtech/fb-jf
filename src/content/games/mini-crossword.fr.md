@@ -11,6 +11,7 @@ developer: ""
 releaseDate: 2025-08-16
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Mini Crossword est un jeu de mots croisés quotidien au format compact. Tu y retrouves une petite grille mais des définitions parfois corsées : il faut remplir chaque mot à partir des indices horizontaux et verticaux. Idéal pour une courte pause, le jeu permet d’enrichir ton vocabulaire tout en profitant d’un casse‑tête rapide.
@@ -22,6 +23,7 @@ Mini Crossword est un jeu de mots croisés quotidien au format compact. Tu y ret
 3.  **Exploiter les croisements :** dès qu’un mot partage des lettres avec un autre, utilise ces lettres pour confirmer ou ajuster ta proposition.
 4.  **Raffiner progressivement :** pour un mot incertain, commence par placer les lettres probables, puis ajuste au fur et à mesure que tu complètes les autres mots.
 
+<!-- i18n:section:how-to-play -->
 ### Comment jouer
 
 - **Sélectionner une case :** clique sur une case vide pour la mettre en surbrillance ; un second clic alterne entre saisie horizontale et verticale.  
@@ -43,4 +45,5 @@ Mini Crossword est un jeu de mots croisés quotidien au format compact. Tu y ret
 
 4.  **Q : Faut‑il une connexion internet ?**  
    **R :** La récupération des nouvelles grilles nécessite souvent une connexion, mais une fois téléchargées, certaines versions peuvent se jouer hors‑ligne.
+
 

@@ -11,10 +11,12 @@ developer: ""
 releaseDate: 2025-10-18
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation détaillée
 
 Metal Guns Fury est un run‑and‑gun en défilement horizontal inspiré des grands classiques d’arcade. Tu alternes entre fusils, fusils à pompe et lance‑roquettes, sauves des otages pour obtenir des bonus et traverses des zones remplies de soldats, tourelles et véhicules légers. Des sauts propres, des glissades bien timées et une bonne gestion des munitions font la différence entre une mission maîtrisée et une défaite rapide.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu et progression
 
 1.  **Prioriser les cibles :** élimine en premier les tourelles fixes et les ennemis à roquettes, puis occupe‑toi de l’infanterie basique.
@@ -23,6 +25,7 @@ Metal Guns Fury est un run‑and‑gun en défilement horizontal inspiré des gr
 4.  **Gérer les bonus :** planifie le sauvetage des otages et la récupération des bonus juste avant les sections difficiles ou les portes de boss pour partir avec la barre de vie et les munitions au maximum.
 5.  **Lire les patterns des boss :** observe les phases, repère les moments où tu peux attaquer sans risque plutôt que de tirer en permanence en prenant tous les dégâts.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - Déplacement : flèches ou WASD.  
@@ -31,12 +34,17 @@ Metal Guns Fury est un run‑and‑gun en défilement horizontal inspiré des gr
 - Grenade / aptitude : L ou E (selon la version).  
 - Changer d’arme : Q.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:metal-guns-fury:i-get-shredded-in-crossfire-3a6b6639 -->
 - **Q : Je me fais détruire dès qu’il y a du tir croisé.**  
   **R :** Essaie de nettoyer un côté de l’écran à la fois, utilise les couvertures et évite de rester au milieu de la zone de tir trop longtemps.
+<!-- i18n:faq:id=faq:metal-guns-fury:ammo-runs-dry-on-bosses-b9e64dfd -->
 - **Q : Je n’ai plus de munitions sur les boss.**  
   **R :** Garde tes munitions lourdes pour briser l’armure et utilise des rafales contrôlées sur les petits ennemis pour économiser tes balles.
+<!-- i18n:faq:id=faq:metal-guns-fury:which-weapon-is-best-8e684d4d -->
 - **Q : Quelle arme est la plus efficace ?**  
   **R :** Le fusil à pompe excelle contre les groupes proches, le fusil d’assaut est polyvalent à moyenne distance et les roquettes sont réservées aux cibles lourdes et aux boss.
+
 

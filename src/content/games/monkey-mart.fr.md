@@ -18,6 +18,7 @@ developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Monkey Mart est un jeu de simulation charmant dans lequel tu gères un supermarché dirigé par de adorables singes. Tu dois planter et récolter des cultures, transformer les produits, remplir les rayons et servir les clients pour faire prospérer ton magasin. Au fil de la progression, tu débloques de nouveaux articles, améliores les équipements et engages davantage d'employés simiesques pour automatiser une partie du travail.
@@ -30,6 +31,7 @@ Monkey Mart est un jeu de simulation charmant dans lequel tu gères un supermarc
 4.  **Servir rapidement :** les clients impatients quittent le magasin si l'attente est trop longue. Priorise les actions qui améliorent le flux (réassort, caisses).
 5.  **Améliorer et agrandir :** investis tes bénéfices dans l'upgrade des champs, des machines et du magasin, et embauche des employés pour automatiser la récolte ou le remplissage.
 
+<!-- i18n:section:how-to-play -->
 ### Comment jouer
 
 *   **Déplacement :** déplace ton singe avec un joystick virtuel ou les touches directionnelles.
@@ -49,3 +51,4 @@ Monkey Mart est un jeu de simulation charmant dans lequel tu gères un supermarc
 
 4.  **Q : Y a‑t‑il une limite de temps dans le jeu ?**
     **R :** Le jeu n'impose généralement pas de limite de temps stricte, tu peux gérer à ton rythme, mais certaines missions ou défis peuvent avoir des contraintes temporelles.
+

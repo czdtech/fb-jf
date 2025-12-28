@@ -11,6 +11,7 @@ developer: ""
 releaseDate: 2025-08-16
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Minesweeper est un jeu de puzzle classique pour un seul joueur. Ton objectif est de dévoiler une grille de cases et de trouver toutes les mines cachées sans les faire exploser. À l’aide d’indices numériques, tu peux déduire combien de mines se trouvent autour de chaque case et ainsi dégager progressivement les zones sûres tout en marquant les emplacements dangereux.
@@ -23,6 +24,7 @@ Minesweeper est un jeu de puzzle classique pour un seul joueur. Ton objectif est
 4.  **Prioriser la certitude :** commence par les situations où la logique permet de trancher sans ambiguïté avant d’affronter les zones plus ambiguës.
 5.  **Gérer l’incertitude :** quand aucune case n’est clairement sûre, choisis les guesses qui apportent le plus d’information tout en limitant le risque de tout perdre.
 
+<!-- i18n:section:how-to-play -->
 ### Comment jouer
 
 - **Clic gauche :** découvrir une case.  
@@ -42,4 +44,5 @@ Minesweeper est un jeu de puzzle classique pour un seul joueur. Ton objectif est
 
 4.  **Q : À quoi sert le chronomètre ?**  
    **R :** Il enregistre ton temps de résolution pour chaque niveau de difficulté, ce qui te permet de battre tes propres records ou ceux d’amis.
+
 

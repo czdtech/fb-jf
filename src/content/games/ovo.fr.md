@@ -3,17 +3,18 @@ locale: fr
 urlstr: ovo
 title: OvO
 description: "OvO est un platformer nerveux basé sur la vitesse\_: glisse, rebondis et enchaîne les sauts pour franchir des niveaux courts mais très techniques."
-iframeSrc: 'https://ovo.h5games.usercontent.goog/v/4aa458c7-7476-4da6-a2c6-604918fce4a5/'
+iframeSrc: 'https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20230129/1/index.html'
 thumbnail: /new-images/thumbnails/ovo.jpg
 tags:
   - platformer
   - speedrun
   - skill
-score: 4.5/5  (2600 votes)
+score: 4.6/5  (773 votes)
 developer: ''
-releaseDate: 2025-10-18T00:00:00.000Z
+releaseDate: 2025-08-16
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 OvO Game est un platformer rapide et extrêmement exigeant. Les joueurs contrôlent un personnage en forme de bonhomme allumette, utilisant des sauts précis, des glissades et des rebonds muraux pour naviguer dans des niveaux complexes, visant à atteindre la ligne d'arrivée le plus vite possible. Le jeu est réputé pour sa haute difficulté et ses contrôles fluides, testant la vitesse de réaction et la précision de mouvement des joueurs.
@@ -26,6 +27,7 @@ OvO Game est un platformer rapide et extrêmement exigeant. Les joueurs contrôl
 4.  **Pratiquer répétitivement :** en raison de la haute difficulté, de nombreux niveaux nécessitent des tentatives répétées pour trouver la meilleure façon de passer.
 5.  **Chercher les raccourcis :** certains niveaux peuvent avoir des raccourcis cachés ou des moyens plus efficaces de les compléter ; l'exploration peut les révéler.
 
+<!-- i18n:section:how-to-play -->
 ### Comment jouer
 
 *   **Déplacement :** utilise les touches fléchées gauche/droite ou A/D pour contrôler le déplacement du personnage.
@@ -43,3 +45,4 @@ OvO Game est un platformer rapide et extrêmement exigeant. Les joueurs contrôl
     **R :** Les nouveaux personnages ou skins sont généralement débloqués en complétant des niveaux spécifiques, en atteignant certains scores ou en collectant des objets cachés.
 4.  **Q : Sur quelles plateformes peut‑on jouer ?**
     **R :** OvO Game peut généralement être joué directement dans les navigateurs web, et certaines versions supportent aussi les appareils mobiles.
+

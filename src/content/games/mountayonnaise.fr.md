@@ -7,10 +7,13 @@ iframeSrc: "https://turbowarp.org/1135773023/embed"
 thumbnail: /new-images/thumbnails/mountayonnaise.png
 tags: ["sprunki mountayonnaise", "sprunki mountayonnaise online"]
 score: "4.8/5  (649 votes)"
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 Sprunki Mountayonnaise est un mod Sprunki étonnamment réjouissant où différents animaux apparaissent en fonction des effets sonores que tu ajoutes. La rejouabilité est énorme ! Tu crées ici tes propres morceaux avec une troupe de personnages animés uniques.
 
+<!-- i18n:section:how-to-play -->
 ### Comment jouer à Sprunki Mountayonnaise ?
 
 Le gameplay est très simple et tient en quelques étapes :
@@ -34,4 +37,5 @@ Le gameplay est très simple et tient en quelques étapes :
 - **Nouvelle ambiance Sprunki :** apporte une palette de beats, de mélodies et d’effets inédits au style Sprunki.  
 - **Mixage temps réel :** modifie ton morceau à tout moment pour le perfectionner.  
 - **Exploration amusante :** cherche les personnages cachés, les animations secrètes et les combos de sons surprenants.
+
 

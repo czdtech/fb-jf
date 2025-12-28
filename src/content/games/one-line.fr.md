@@ -5,16 +5,17 @@ title: One Line
 description: >-
   One Line est un jeu de réflexion minimaliste où tu dois relier tous les points
   d'une figure avec un seul trait continu, sans lever le stylo.
-iframeSrc: 'https://1lin.h5games.usercontent.goog/v/6f1fc4c4-c24e-4d1d-83ca-863f3990f0f7/'
+iframeSrc: 'https://g2.igroutka.ru/games/3/JLgd70b3BNafhVq5/10/igra-odna-liniya/game.html'
 thumbnail: /new-images/thumbnails/one-line.jpg
 tags:
   - puzzle
   - thinky
-score: 4.0/5  (1721 votes)
+score: 3.9/5  (549 votes)
 developer: ''
-releaseDate: 2025-10-18T00:00:00.000Z
+releaseDate: 2025-08-16
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation détaillée
 
 One Line reprend le principe du dessin d'un seul trait : chaque niveau présente une figure géométrique faite de segments et de points d'intersection. Ton but est de tracer la figure entière en un mouvement continu, sans repasser deux fois sur le même segment. C'est simple à comprendre, mais les figures compliquées demandent une vraie gymnastique mentale.
@@ -33,6 +34,7 @@ One Line reprend le principe du dessin d'un seul trait : chaque niveau présente
 *   **Connecter les points :** assure‑toi que chaque mouvement relie un nouveau point non visité.
 *   **Réinitialiser le niveau :** si tu fais une erreur ou que tu es bloqué, clique sur le bouton de reset pour recommencer le niveau en cours.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
 1.  **Q : Quel est l'objectif du jeu ?**
@@ -46,3 +48,4 @@ One Line reprend le principe du dessin d'un seul trait : chaque niveau présente
 
 4.  **Q : Ce jeu est‑il adapté aux enfants ?**
     **R :** Oui, ce jeu aide à développer la pensée logique et les compétences de résolution de problèmes des enfants, et convient aux joueurs de tous âges.
+

@@ -17,6 +17,7 @@ developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Night Watchman est un jeu d'horreur‑survie inspiré des gardiens de nuit de films et de séries. Tu es seul dans un bâtiment sombre et abandonné, à surveiller un réseau de caméras de sécurité tout en gérant une alimentation électrique limitée. Chaque nuit, des présences étranges se rapprochent de ton bureau. Ta seule chance de survie : repérer leurs mouvements à temps, couper ou allumer les bonnes lumières et verrouiller les accès jusqu'au lever du jour.
@@ -29,12 +30,14 @@ Night Watchman est un jeu d'horreur‑survie inspiré des gardiens de nuit de fi
 4.  **Écouter les sons :** les bruits de pas, grincements ou respirations donnent souvent plus d'informations que l'image ; sers‑toi du son pour savoir d'où vient le danger.
 5.  **Adapter ta stratégie :** chaque type de créature a ses habitudes ; observe leurs schémas de déplacement et ajuste ton cycle de caméras et de portes en conséquence.
 
+<!-- i18n:section:how-to-play -->
 ### Comment jouer
 
 *   **Changer de caméra :** clique sur les numéros de caméras ou utilise les touches dédiées pour passer d'une vue à l'autre.
 *   **Portes et lumières :** clique sur les boutons associés aux portes ou aux lumières pour les ouvrir/fermer ou les allumer/éteindre.
 *   **Carte du bâtiment :** certaines versions proposent une mini‑carte pour visualiser le plan et la position des caméras.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
 1.  **Q : Quel est l'objectif du jeu ?**
@@ -48,3 +51,4 @@ Night Watchman est un jeu d'horreur‑survie inspiré des gardiens de nuit de fi
 
 4.  **Q : Le jeu a‑t‑il plusieurs fins ?**
     **R :** Généralement oui, selon tes performances et certaines décisions prises au fil des nuits.
+

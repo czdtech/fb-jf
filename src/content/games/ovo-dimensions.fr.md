@@ -6,17 +6,18 @@ description: >-
   OvO Dimensions est un platformer de précision : enchaîne sauts muraux,
   glissades et dashs à travers des niveaux rapides et exigeants.
 iframeSrc: >-
-  https://ovo-dimensions.h5games.usercontent.goog/v/41ed0fea-d982-43f1-bfce-2e88aa6e255f/
+  https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221219/8/index.html
 thumbnail: /new-images/thumbnails/ovo-dimensions.jpg
 tags:
   - platformer
   - speedrun
   - skill
-score: 4.5/5  (2500 votes)
+score: 4.9/5  (278 votes)
 developer: ''
-releaseDate: 2025-10-18T00:00:00.000Z
+releaseDate: 2025-08-16
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 OvO Dimensions est une extension de la série OvO, un platformer 2D extrêmement exigeant. Il introduit de nouvelles mécaniques et obstacles, nécessitant que les joueurs maîtrisent les sauts précis, les glissades murales et le contrôle de l'élan pour naviguer dans des niveaux complexes et atteindre les temps de passage les plus rapides. Le jeu maintient la haute difficulté de la série tout en offrant un design de niveaux plus riche et des expériences visuelles améliorées.
@@ -29,6 +30,7 @@ OvO Dimensions est une extension de la série OvO, un platformer 2D extrêmement
 4.  **Mémoriser les plans des niveaux :** à travers de multiples tentatives, familiarise‑toi avec la disposition de chaque niveau et les caractéristiques des obstacles pour planifier l'itinéraire optimal.
 5.  **Viser la vitesse :** une fois les méthodes de base maîtrisées pour compléter les niveaux, optimise tes mouvements pour réaliser des temps de passage plus rapides.
 
+<!-- i18n:section:how-to-play -->
 ### Comment jouer
 
 *   **Déplacement :** utilise les touches fléchées gauche/droite ou A/D pour contrôler le déplacement horizontal du personnage.
@@ -46,3 +48,4 @@ OvO Dimensions est une extension de la série OvO, un platformer 2D extrêmement
     **R :** Les niveaux difficiles demandent plus de pratique et de patience. Essaie de décomposer les niveaux en petites sections pour t'entraîner, et regarde des vidéos de gameplay d'autres joueurs pour t'inspirer.
 4.  **Q : Le jeu a‑t‑il une communauté ou des classements ?**
     **R :** De nombreux platformers de haute difficulté ont des communautés actives et des classements en ligne où les joueurs partagent leurs expériences et se disputent les meilleures places.
+

@@ -7,8 +7,10 @@ iframeSrc: "https://turbowarp.org/1096623350/embed"
 thumbnail: /new-images/thumbnails/mundo-torajo-sprunki.png
 tags: ["mundo torajo sprunki"]
 score: "4.0/5  (112 votes)"
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 Prêt à plonger dans un monde musical haut en couleur ? Mundo Torajo Sprunki t’emmène dans un véritable festin audio‑visuel. Ce mod original fusionne l’univers loufoque de Mundo Torajo avec le gameplay musical de Sprunki, afin que tu puisses composer librement tout en t’amusant.
 
 ### Qu’est‑ce que Mundo Torajo Sprunki ?
@@ -34,4 +36,5 @@ Imagine les personnages excentriques de Mundo Torajo propulsés sur la scène mu
 ### En conclusion
 
 Mundo Torajo Sprunki offre une expérience musicale joyeuse et immersive, parfaite pour les fans de Sprunki comme de Mundo Torajo. Même si tu es débutant en jeux rythmiques, son univers coloré et sa liberté créative en font un incontournable. C’est un terrain de jeu idéal pour expérimenter, relever quelques défis et créer ta propre bande‑son.
+
 

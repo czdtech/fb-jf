@@ -14,6 +14,7 @@ developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Pacman 30th Anniversary est une édition spéciale du jeu d'arcade classique PAC‑MAN, célébrant trois décennies de ce jeu iconique. Les joueurs guident une nouvelle fois le Pac‑Man jaune à travers un labyrinthe, mangeant toutes les pastilles et super pastilles tout en évitant quatre fantômes. Cette version conserve le gameplay original et incorpore des éléments nostalgiques, permettant aux nouveaux joueurs comme aux anciens de vivre le plaisir classique.
@@ -25,6 +26,7 @@ Pacman 30th Anniversary est une édition spéciale du jeu d'arcade classique PAC
 3.  **Fuir et poursuivre :** utilise habilement les tunnels et coins du labyrinthe pour esquiver intelligemment les fantômes, et poursuis‑les hardiment après avoir mangé une super pastille.
 4.  **Priorité à manger toutes les pastilles :** l'objectif du jeu est de manger toutes les petites pastilles et super pastilles du labyrinthe pour passer au niveau suivant.
 
+<!-- i18n:section:how-to-play -->
 ### Comment jouer
 
 *   **Déplacement :** généralement, utilise les touches fléchées du clavier (haut, bas, gauche, droite) pour contrôler la direction de déplacement de Pac‑Man dans le labyrinthe.
@@ -39,3 +41,4 @@ Pacman 30th Anniversary est une édition spéciale du jeu d'arcade classique PAC
     **R :** L'effet de la super pastille dure un temps limité ; les fantômes reviendront à la normale après un moment et redeviendront dangereux.
 4.  **Q : Le jeu a‑t‑il un tableau des scores ?**
     **R :** De nombreuses versions de Pacman 30th Anniversary proposent des tableaux de scores locaux ou en ligne, permettant aux joueurs de se disputer les meilleurs scores.
+

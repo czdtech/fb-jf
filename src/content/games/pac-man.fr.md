@@ -17,6 +17,7 @@ developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 PAC‑MAN est un jeu d'arcade de labyrinthe classique. Les joueurs contrôlent le Pac‑Man jaune, se déplaçant dans un labyrinthe complexe avec l'objectif de manger toutes les pastilles. En même temps, tu dois éviter quatre fantômes colorés — Blinky, Pinky, Inky et Clyde. Quand Pac‑Man mange une super pastille, il peut temporairement inverser les rôles et poursuivre les fantômes pour les dévorer et marquer des points bonus.
@@ -29,10 +30,12 @@ PAC‑MAN est un jeu d'arcade de labyrinthe classique. Les joueurs contrôlent l
 4.  **Utiliser les tunnels :** les tunnels aux deux extrémités du labyrinthe permettent à Pac‑Man de passer rapidement d'un côté à l'autre, utile pour fuir ou contre‑attaquer les fantômes.
 5.  **Priorité aux grosses pastilles :** les super pastilles sont cruciales pour renverser la situation et doivent être utilisées stratégiquement.
 
+<!-- i18n:section:how-to-play -->
 ### Comment jouer
 
 *   **Déplacement :** généralement, utilise les touches fléchées du clavier (haut, bas, gauche, droite) pour contrôler la direction de déplacement de Pac‑Man dans le labyrinthe.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions
 
 1.  **Q : Combien y a‑t‑il de niveaux dans PAC‑MAN ?**

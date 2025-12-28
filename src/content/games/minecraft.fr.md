@@ -11,6 +11,7 @@ developer: ""
 releaseDate: 2025-08-16
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Minecraft est un jeu vidéo sandbox développé par Mojang Studios. Tu explores un monde 3D constitué de blocs, récupères des ressources, construis des structures, fabriques des objets et interagis avec de nombreuses créatures. Le jeu ne te fixe pas d’objectif précis : tu es libre de créer, d’explorer et de te fixer tes propres défis. Les principaux modes incluent Survie, Créatif, Aventure et Spectateur, chacun offrant une façon différente de jouer.
@@ -23,6 +24,7 @@ Minecraft est un jeu vidéo sandbox développé par Mojang Studios. Tu explores 
 4.  **Explorer le monde :** pars à la découverte des villages, grottes, ruines et autres structures pour trouver des ressources rares et de l’expérience.
 5.  **Développer agriculture et élevage :** mets en place des fermes, élève des animaux et pêche pour assurer une source de nourriture stable.
 
+<!-- i18n:section:how-to-play -->
 ### Comment jouer
 
 - **Déplacement :** touches W, A, S, D pour avancer, aller à gauche, reculer et aller à droite.
@@ -32,6 +34,7 @@ Minecraft est un jeu vidéo sandbox développé par Mojang Studios. Tu explores 
 - **Inventaire :** touche E pour ouvrir ton inventaire, gérer tes objets et crafter.
 - **S’accroupir / se faufiler :** touche Shift pour te déplacer prudemment et éviter de tomber des rebords.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
 1.  **Q : Quels sont les principaux modes de jeu de Minecraft ?**  
@@ -42,4 +45,5 @@ Minecraft est un jeu vidéo sandbox développé par Mojang Studios. Tu explores 
     **R :** Les diamants apparaissent en général profondément sous terre à certaines couches ; il te faut au minimum une pioche en fer pour les miner.
 4.  **Q : Comment construire une ferme automatique ?**  
     **R :** La plupart des fermes automatisées reposent sur la Redstone, les pistons, les courants d’eau et d’autres mécanismes qui permettent de planter, récolter et transporter les cultures sans intervention manuelle.
+
 

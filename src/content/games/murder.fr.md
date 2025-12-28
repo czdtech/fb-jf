@@ -6,17 +6,18 @@ description: >-
   Murder est un jeu de déduction et de trahison où un meurtrier se cache parmi
   les joueurs. Observe, enquête ou élimine discrètement pour remporter la
   partie.
-iframeSrc: 'https://68kbro4a20sgg.h5games.usercontent.goog/v/3jgh63oisp2uo/'
+iframeSrc: 'https://ubg77.github.io/fix/murder/'
 thumbnail: /new-images/thumbnails/murder.jpg
 tags:
   - party game
   - strategy
   - social
-score: 4.1/5  (1894 votes)
+score: 4.0/5  (1485 votes)
 developer: ''
-releaseDate: 2025-10-18T00:00:00.000Z
+releaseDate: 2025-08-16
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Murder est un jeu multijoueur de déduction sociale. Une partie des joueurs sont de simples civils, un ou plusieurs jouent le rôle de meurtriers. Les meurtriers doivent éliminer leurs cibles sans se faire repérer, tandis que les civils tentent d'identifier le coupable grâce à l'observation, aux indices et aux discussions. Suspicion, bluff et raisonnements logiques sont au cœur de l'expérience.
@@ -37,6 +38,7 @@ Murder est un jeu multijoueur de déduction sociale. Une partie des joueurs sont
     *   **Communiquer :** les civils doivent échanger efficacement et partager leurs informations.
     *   **Utiliser l'environnement :** connaître la carte et les mécaniques peut aider le meurtrier à mieux se cacher ou les civils à trouver des indices plus vite.
 
+<!-- i18n:section:how-to-play -->
 ### Comment jouer
 
 *   **Déplacement :** touches directionnelles ou WASD.
@@ -44,6 +46,7 @@ Murder est un jeu multijoueur de déduction sociale. Une partie des joueurs sont
 *   **Capacités du meurtrier :** le meurtrier dispose d'aptitudes spécifiques pour éliminer ses cibles ; les commandes exactes dépendent de la version.
 *   **Défense des civils :** dans certaines versions, les civils peuvent se défendre ou contre‑attaquer sous certaines conditions.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
 1.  **Q : Comment reconnaître le meurtrier ?**
@@ -57,3 +60,4 @@ Murder est un jeu multijoueur de déduction sociale. Une partie des joueurs sont
 
 4.  **Q : Combien de joueurs faut‑il pour une bonne partie ?**
     **R :** Ces jeux nécessitent généralement au moins 4 à 6 joueurs pour une bonne expérience, selon la version et les paramètres de règles.
+

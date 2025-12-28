@@ -16,10 +16,12 @@ developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation détaillée
 
 Northern Heights t'embarque sur des pistes enneigées à grande vitesse. Tu y contrôles un skieur qui enchaîne descentes vertigineuses, sauts spectaculaires et figures pour gagner des points bonus. En cours de route, tu peux récupérer des pièces pour débloquer de nouveaux équipements et personnalisations. Le jeu repose sur un équilibre subtil entre vitesse, contrôle et prise de risque.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu et progression
 
 1.  **Maîtriser les commandes :** apprends d'abord à tourner proprement et à gérer la réception des sauts avant de chercher les gros scores.
@@ -28,15 +30,20 @@ Northern Heights t'embarque sur des pistes enneigées à grande vitesse. Tu y co
 4.  **Enchaîner les figures :** utilise les tremplins pour réaliser des flips ou rotations, mais seulement si tu vois clairement ta zone de réception.
 5.  **Ramasser les pièces :** vise les pièces situées sur des trajectoires sûres ; n'expose pas toute ta descente pour une seule pièce.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 *   **Déplacement / carving :** touches fléchées ou souris suivant la version.
 *   **Figures :** certaines versions permettent des combinaisons supplémentaires en l'air ; consulte l'écran d'aide.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:northern-heights:q-how-do-i-score-147090df -->
 *   **Q : Comment marquer davantage de points ?**
     *   **R :** En combinant vitesse, figures réussies et collecte de pièces, tout en minimisant les chutes.
 
+<!-- i18n:faq:id=faq:northern-heights:q-what-can-i-do-0eeda2c4 -->
 *   **Q : À quoi servent les pièces ?**
     *   **R :** Elles permettent généralement de débloquer de nouveaux skis, planches, tenues ou effets cosmétiques.
+

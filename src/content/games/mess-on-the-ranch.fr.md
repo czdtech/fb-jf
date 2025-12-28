@@ -11,10 +11,12 @@ developer: ""
 releaseDate: 2025-10-18
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation détaillée
 
 Mess on the Ranch est un puzzle d’organisation mignon qui se déroule dans un ranch en désordre. Tu dois ramener les animaux dans les bons enclos, ranger les outils dans les bonnes remises, réparer les sections de clôture cassées et nettoyer les débris — le tout avec un nombre de déplacements ou un temps limité. Chaque niveau met l’accent sur la planification de ton trajet et l’ordre dans lequel tu exécutes les tâches.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu et progression
 
 1.  **Priorité aux enclos :** sécurise d’abord les animaux en liberté pour éviter qu’ils ne bloquent ton chemin ou ne créent davantage de chaos.
@@ -23,16 +25,22 @@ Mess on the Ranch est un puzzle d’organisation mignon qui se déroule dans un 
 4.  **Réparer les clôtures clés :** commence par les segments de clôture qui rouvrent l’accès à plusieurs zones ou objectifs à la fois.
 5.  **Objectifs bonus :** ne vise les nettoyages optionnels que si tu as réellement des mouvements ou du temps en réserve.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - Glisse ou touche l’écran pour déplacer ton personnage et interagir avec les animaux, les outils, les clôtures et les tas de débris ; des invites contextuelles apparaissent pour les actions de réparation et de livraison.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:mess-on-the-ranch:i-run-out-of-moves-0e48d1a7 -->
 - **Q : Je n’ai plus de déplacements disponibles.**  
   **R :** Essaie de regrouper plusieurs tâches sur un seul trajet et évite les détours qui ne servent qu’à une seule action.
+<!-- i18n:faq:id=faq:mess-on-the-ranch:animals-wander-off-15c1e6e4 -->
 - **Q : Les animaux continuent de se disperser.**  
   **R :** Ramène‑les dans leurs enclos dès le début du niveau, puis occupe‑toi des outils et des clôtures une fois le ranch stabilisé.
+<!-- i18n:faq:id=faq:mess-on-the-ranch:timers-too-tight-628524e0 -->
 - **Q : Les timers sont trop serrés.**  
   **R :** Concentre‑toi uniquement sur les objectifs obligatoires et ignore les détritus ou bonus secondaires tant que tu n’es pas à l’aise avec la carte.
+
 
