@@ -12,6 +12,7 @@ tags:
   - incredibox cool as ice
   - incredibox cool as ice online
 score: 4.9/5  (724 votes)
+releaseDate: 2025-12-04
 ---
 
 ### Einführung in Incredibox Cool As Ice
@@ -29,6 +30,7 @@ Sound-Palette mischt klassische Incredibox-Beats mit **Eis-, Schnee- und
 Glockenklängen**, kalten Synths und halligen Effekten. So entsteht ein eigener,
 frischer Stil, der sich perfekt für Winter- und Chillout-Tracks eignet.
 
+<!-- i18n:section:tips -->
 ### Gameplay – Frostig, aber simpel
 
 - **Icy Characters wählen:** Wähle aus über 20 eisig gestalteten Charakteren,

@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Idle Explorers ist ein Idle-Management- und Clicker-Spiel, in dem du als
@@ -27,6 +28,7 @@ und mit Managern Prozesse automatisieren. Mit der Zeit schaltest du neue,
 profitablere Minen in anderen Gebieten frei und erweiterst dein Reich Schritt
 für Schritt.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Den Kern-Loop verstehen**  
@@ -51,6 +53,7 @@ für Schritt.
     System, bei dem du deinen Fortschritt zurücksetzt und im Gegenzug permanente
     Einkommens-Boni erhältst.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Das Spiel wird komplett mit Maus oder Touch gesteuert.
@@ -62,18 +65,22 @@ Das Spiel wird komplett mit Maus oder Touch gesteuert.
 *   **Navigation:** Nutze Karte oder Welten-Buttons, um zwischen unterschiedlichen
     Minen zu wechseln.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:idle-explorers:q-what-should-i-upgrade-131ac75d -->
 *   **F: Was sollte ich zuerst aufrüsten?**
     *   **A:** Am besten entwickelst du Schacht, Aufzug und Lager **gleichmäßig**.
         Ein extrem schneller Schacht bringt nichts, wenn der Aufzug die Erze
         nicht abtransportieren kann.
 
+<!-- i18n:faq:id=faq:idle-explorers:q-what-do-managers-do-7a09155e -->
 *   **F: Wozu brauche ich Manager?**
     *   **A:** Manager sorgen dafür, dass ihre Station dauerhaft arbeitet – auch
         dann, wenn du nicht klickst oder das Spiel geschlossen hast (je nach
         Host). Sie sind die Basis für echtes Idle-Einkommen.
 
+<!-- i18n:faq:id=faq:idle-explorers:q-should-i-spend-my-45d69fa9 -->
 *   **F: Soll ich Geld sparen oder direkt ausgeben?**
     *   **A:** In Idle-Games lohnt es sich fast immer, Geld sofort in Upgrades
         zu stecken. Jede Verbesserung steigert deine Einnahmen und beschleunigt

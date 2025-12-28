@@ -17,6 +17,7 @@ releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 *Incredibox Rave* ist ein farbintensiver Fan-Mod, der dich direkt in die
@@ -28,6 +29,7 @@ Du nutzt das klassische Incredibox-Drag-and-drop: 20 abstrakte Icons (Quadrate,
 Kreise, Dreiecke, Lippen) werden auf sieben Performer gezogen und ergeben
 zusammen energetische EDM-Tracks aus **Techno, House und Disco**.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 Bei *Incredibox Rave* geht es darum, verschiedene elektronische Elemente zu schichten und einen echten Clubtrack zu bauen.
@@ -57,6 +59,7 @@ Bei *Incredibox Rave* geht es darum, verschiedene elektronische Elemente zu schi
     Wenn Beat und Bass stehen, tausche Melodie- und Vocal-Icons nacheinander,
     bis du die Rave-Bonusanimationen triffst.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Die Steuerung folgt dem intuitiven Drag-and-drop des offiziellen Incredibox:
@@ -67,21 +70,27 @@ Die Steuerung folgt dem intuitiven Drag-and-drop des offiziellen Incredibox:
 - **Solo:** Mit dem kleinen Button neben einer Figur alle anderen stummschalten.
 - **Aufnehmen:** Mit dem Record-Button deinen Rave-Track aufnehmen.
 
+<!-- i18n:section:faq -->
 ### **Häufige Fragen (FAQ)**
 
+<!-- i18n:faq:id=faq:incredibox-rave:is-this-an-official-incredibox-12056458 -->
 - **F: Ist das ein offizielles Incredibox-Spiel?**  
   **A:** Nein, *Rave* ist ein Fan-Mod und nicht mit den offiziellen
   Entwicklern verbunden.
 
+<!-- i18n:faq:id=faq:incredibox-rave:where-can-i-play-this-a4cf171c -->
 - **F: Wo kann ich den Mod spielen?**  
   **A:** Üblicherweise über Modding-Seiten oder Links aus YouTube-Videos, die
   auf Browser-Versionen verweisen.
 
+<!-- i18n:faq:id=faq:incredibox-rave:what-makes-the-rave-mod-87025ce1 -->
 - **F: Was macht diesen Mod besonders?**  
   **A:** Sein Reiz liegt im energiegeladenen Nightclub-Thema. Neon-Optik,
   DJ-artige Figuren und eine gut produzierte elektronische Klangpalette
   bieten ein modernes, mitreißendes Erlebnis für EDM-Fans.
 
+<!-- i18n:faq:id=faq:incredibox-rave:are-the-bonus-solutions-for-8ff5fe53 -->
 - **F: Gibt es Lösungen für die Boni online?**  
   **A:** Ja, bei YouTube findest du unter "Incredibox Rave combos" die
   Lösungen für die Bonus-Animationen.
+

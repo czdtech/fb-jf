@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Hex Puzzle ist eine frische Variante des klassischen Blockpuzzles, gespielt auf
@@ -27,6 +28,7 @@ Richtungen. Schließt du eine Linie, verschwindet sie, schafft Platz und bringt
 Punkte. Da es kein Zeitlimit gibt, geht es nur um clevere Planung und gutes
 Raumgefühl.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **In drei Richtungen denken**  
@@ -48,6 +50,7 @@ Raumgefühl.
     bekommst du Combo-Boni. Suche nach Positionen, an denen du zwei oder sogar
     drei Linien auf einmal vervollständigen kannst.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Das Spiel wird komplett per Drag-and-drop gesteuert.
@@ -56,18 +59,22 @@ Das Spiel wird komplett per Drag-and-drop gesteuert.
     Auslage am unteren Bildschirmrand auf das Hexagon-Feld und lasse sie auf
     einer passenden freien Position los.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:hex-puzzle:q-can-i-rotate-the-8b38e9ae -->
 *   **F: Kann ich die Blöcke drehen?**
     *   **A:** Nein. Dass sich die Teile nicht drehen lassen, ist ein
         wesentlicher Teil der Herausforderung – du musst sie so nutzen, wie sie
         dir angeboten werden.
 
+<!-- i18n:faq:id=faq:hex-puzzle:q-how-does-the-game-f20a1993 -->
 *   **F: Wann ist das Spiel vorbei?**
     *   **A:** Die Runde endet, wenn du einen Dreier-Satz an neuen Teilen
         bekommst und für keines davon mehr eine gültige Position auf dem Brett
         findest.
 
+<!-- i18n:faq:id=faq:hex-puzzle:q-what-is-the-best-4dc5a927 -->
 *   **F: Wie erreiche ich hohe Punktzahlen?**
     *   **A:** Halte das Feld so frei wie möglich, vermeide isolierte Lücken und
         priorisiere Züge, die mehrere Linien gleichzeitig auflösen, um

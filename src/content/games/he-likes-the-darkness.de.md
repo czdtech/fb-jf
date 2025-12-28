@@ -15,6 +15,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 He Likes The Darkness ist ein minimalistischer Platformer mit starkem
@@ -23,6 +24,7 @@ Sphären prägen kompakte, kurze Levels. Wer Sprungweite, kleine Anlaufschritte
 und das Halten von Schwung meistert, schafft saubere Runs mit flüssigem
 Spielfluss.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Vorsichtig auskundschaften**  
@@ -47,6 +49,7 @@ Spielfluss.
     Scheitere lieber früh und oft: Kurze Restart-Zeiten helfen dir, schwierige
     Passagen im Muskelgedächtnis zu verankern.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Bewegen/Springen:** Pfeiltasten oder WASD plus Sprungtaste (häufig
@@ -54,16 +57,20 @@ Spielfluss.
 - Manche Level erlauben **Doppelsprünge** oder andere Sonderfähigkeiten – achte
   auf die Hinweise im Spiel.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:he-likes-the-darkness:i-cant-see-edges-clearly-bc6539af -->
 - **F: Ich kann die Plattformkanten kaum erkennen – was hilft?**  
   **A:** Probiere kurze Test-Sprünge, um Abstände abzuschätzen, und erhöhe
   gegebenenfalls die Bildschirmhelligkeit.
 
+<!-- i18n:faq:id=faq:he-likes-the-darkness:do-i-need-all-orbs-d830263b -->
 - **F: Muss ich alle Sphären einsammeln?**  
   **A:** Einige Level verlangen alle Sphären als Siegbedingung, in anderen sind
   sie optionale Zusatzziele für 100 %-Runs oder Extras.
 
+<!-- i18n:faq:id=faq:he-likes-the-darkness:any-trick-for-moving-saws-aa464e48 -->
 - **F: Gibt es einen Trick für bewegliche Sägen?**  
   **A:** Zähle innerlich den Takt mit und betritt die Gefahrenzone immer im
   gleichen Rhythmus. So kannst du dein Timing von Versuch zu Versuch

@@ -12,12 +12,14 @@ tags:
   - incredibox shatter sprunk
   - incredibox shatter sprunk online
 score: 4.5/5  (614 votes)
+releaseDate: 2025-12-04
 ---
 
 ### Was macht Incredibox Shatter Sprunk so spaßig?
 
 Incredibox Shatter Sprunk, ein Fan-Mod, nimmt dich mit in eine musikalische Welt, die das klassische Incredibox-Gameplay mit dem schrägen Sprunki-Stil verbindet! Hier erstellst du deine eigenen Musikwerke mit einer Gruppe einzigartiger animierter Charaktere.
 
+<!-- i18n:section:how-to-play -->
 ### Wie spielt man Incredibox Shatter Sprunk?
 
 Das Gameplay ist sehr einfach, du kannst in wenigen Schritten loslegen:
@@ -32,6 +34,7 @@ Das Gameplay ist sehr einfach, du kannst in wenigen Schritten loslegen:
 
 **Bei Incredibox Shatter Sprunk geht es nicht darum, zu „gewinnen", sondern Musikwerke zu erschaffen, die dir gefallen.**
 
+<!-- i18n:section:controls -->
 ### Maus-Steuerung:
 
 Die Bedienung von Incredibox Shatter Sprunk ist sehr einfach – du kannst alles bequem mit der Maus erledigen:
@@ -48,3 +51,4 @@ Die Bedienung von Incredibox Shatter Sprunk ist sehr einfach – du kannst alles
  - **Einfache und benutzerfreundliche Bedienung:** Die Maussteuerung ist simpel und intuitiv, sodass Spieler aller Altersgruppen und Fähigkeitsstufen leicht einsteigen können.
  - **Einzigartiger Sprunki-Stil:** Kombiniert den skurrilen und innovativen Stil von Sprunki für ein anderes Incredibox-Erlebnis.
  - **Entdeckerspaß:** Entdecke versteckte Animationen und Spezialeffekte, die deinen Kreationsprozess voller Überraschungen machen.
+

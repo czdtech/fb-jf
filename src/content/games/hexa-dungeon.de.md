@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Hexa Dungeon ist ein innovatives Puzzle-RPG, das **Match-3-Mechaniken** mit
@@ -27,6 +28,7 @@ länger die Kette, desto stärker dein Angriff. Dabei musst du immer abwägen, o
 du jetzt maximalen Schaden machst oder das Brett für stärkere Züge in den
 nächsten Runden vorbereitest.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Lange Ketten = hoher Schaden**  
@@ -51,6 +53,7 @@ nächsten Runden vorbereitest.
     Kette ein, lösen sie oft Flächenangriffe oder andere starke Effekte aus, die
     das Board aufräumen oder Zusatzschaden verursachen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Die Steuerung basiert auf einfachem Ziehen oder Wischen.
@@ -60,17 +63,21 @@ Die Steuerung basiert auf einfachem Ziehen oder Wischen.
     Felder derselben Farbe, um eine Kette zu bilden, und lasse dann los, um den
     Zug zu bestätigen und deinen Angriff auszulösen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:hexa-dungeon:q-how-do-i-attack-2e37b986 -->
 *   **F: Wie greife ich die Skelette an?**
     *   **A:** Indem du auf dem Hex-Feld Matches bildest. Verbinde mindestens
         drei benachbarte Felder derselben Farbe mit einer Linie.
 
+<!-- i18n:faq:id=faq:hexa-dungeon:q-how-can-i-do-f8714760 -->
 *   **F: Wie mache ich mehr Schaden?**
     *   **A:** Je mehr Felder du in einem Zug verbindest, desto stärker wird
         dein Angriff. Eine Kette aus 7 Steinen ist um ein Vielfaches mächtiger
         als eine aus 3.
 
+<!-- i18n:faq:id=faq:hexa-dungeon:q-can-i-connect-tiles-f4174e27 -->
 *   **F: Kann ich diagonal verbinden?**
     *   **A:** Ja. Da das Spielfeld aus Hexagonen besteht, kannst du in **sechs
         Richtungen** zu jedem angrenzenden, gleichfarbigen Feld weiterziehen.

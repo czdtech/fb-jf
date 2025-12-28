@@ -18,6 +18,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Hoop Hero ist ein minimalistisches, aber süchtig machendes One-Touch-Arcadespiel,
@@ -27,6 +28,7 @@ fluchtet, damit er als Dunk durchgeht. Mit der Zeit werden Bewegung und Muster
 immer schneller und kniffliger. Dein Ziel ist es, möglichst viele Dunks in
 Folge zu erzielen und deinen Highscore zu knacken.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Timing ist alles**  
@@ -49,6 +51,7 @@ Folge zu erzielen und deinen Highscore zu knacken.
     wechselnde Geschwindigkeiten oder Bögen und passe dein Timing entsprechend
     an.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Das Spiel wird mit genau einer Eingabe gespielt.
@@ -56,17 +59,21 @@ Das Spiel wird mit genau einer Eingabe gespielt.
 *   **Dunk:** Klicke mit der Maus oder tippe irgendwo auf den Bildschirm, um den
     Ball fallen zu lassen bzw. den Dunk auszulösen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:hoop-hero:q-what-is-the-objective-0d640e0d -->
 *   **F: Was ist das Ziel des Spiels?**
     *   **A:** So viele Dunks wie möglich hintereinander zu treffen. Nach dem
         ersten Fehlversuch ist die Runde vorbei.
 
+<!-- i18n:faq:id=faq:hoop-hero:q-how-do-i-get-698432e6 -->
 *   **F: Wie erhöhe ich meine Punktzahl?**
     *   **A:** Deine Punkte basieren auf der Anzahl aufeinanderfolgender Dunks.
         Zusätzliche Punkte gibt es häufig für "perfekte" Würfe, die sauber durch
         das Netz gehen.
 
+<!-- i18n:faq:id=faq:hoop-hero:q-is-there-any-way-629d32d0 -->
 *   **F: Kann ich nach einem Fehler weiterspielen?**
     *   **A:** Normalerweise nein. Wie viele Hyper-Casual-Games setzt Hoop Hero
         auf kurze Sessions – ein Fehlschuss bedeutet, dass du neu starten musst.

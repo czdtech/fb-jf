@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Überblick
 
 Hole io wirft dich als wandelndes Schwarzes Loch in eine zerstörbare Stadt.
@@ -25,6 +26,7 @@ schließlich ganze Straßenblöcke einsaugen. Je nach Modus spielst du auf Zeit 
 Punkte oder in Battle-Varianten, in denen du andere Spieler direkt vom Feld
 schlucken kannst.
 
+<!-- i18n:section:how-to-play -->
 ### So spielst du
 
 - Konzentriere dich zu Beginn auf **dichte Ansammlungen kleiner Objekte**, um
@@ -34,6 +36,7 @@ schlucken kannst.
 - Wenn du groß genug bist, umkreise Gebäude, damit sie in kleinere Teile
   zerbrechen, die du leichter aufnehmen kannst.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Steuere das Loch mit **Maus/Touch-Drag** oder **WASD/Pfeiltasten**, je nach
@@ -49,16 +52,20 @@ schlucken kannst.
 - Wenn du größer bist als deine Gegner, nutze Ecken und Engstellen, um sie in
   dein Loch zu treiben.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:hole-io:how-can-i-grow-quickly-d04c6dc9 -->
 - **F: Wie wachse ich am Anfang am schnellsten?**  
   **A:** Ignoriere zunächst große Objekte und konzentriere dich auf viele kleine
   Dinge wie Poller, Schilder und Menschen – Masse zählt mehr als Einzelwert.
 
+<!-- i18n:faq:id=faq:hole-io:can-bigger-holes-eat-me-e6498f5c -->
 - **F: Können mich größere Löcher fressen?**  
   **A:** Ja. Gehe direkten Konfrontationen aus dem Weg, bis du selbst groß
   genug bist, um andere in dich hineinzuziehen.
 
+<!-- i18n:faq:id=faq:hole-io:what-mode-should-i-pick-fcbe42da -->
 - **F: Welcher Modus eignet sich zum Üben?**  
   **A:** Der klassische FFA-Punkte-Modus ist meist am verzeihendsten – du kannst
   Routen testen, ohne ständig im direkten PvP zu stehen.

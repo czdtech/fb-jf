@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Haru Pandas Slide bietet bildbasierte Schiebepuzzles mit süßen Panda-Motiven.
@@ -25,6 +26,7 @@ wiederherzustellen. In späteren Leveln werden die Puzzles größer und es komme
 fixierte Kacheln hinzu, die sich nicht bewegen lassen und deine Zugwege
 zusätzlich einschränken – gute Planung schlägt hier reines Ausprobieren.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Rahmen zuerst vervollständigen**  
@@ -50,6 +52,7 @@ zusätzlich einschränken – gute Planung schlägt hier reines Ausprobieren.
     Überlege vor jedem Zug, welche Kacheln du mitbewegst. Vermeide es, große,
     bereits korrekte Bereiche immer wieder aufzubrechen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Ziehe Kacheln mit der Maus oder per Touch-Eingabe entlang der erlaubten
@@ -57,16 +60,20 @@ zusätzlich einschränken – gute Planung schlägt hier reines Ausprobieren.
 - Viele Versionen bieten **Rückgängig**- und **Neustart**-Funktionen, falls du
   dich verrannt hast.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:haru-pandas-slide:i-break-my-solved-area-98f081d0 -->
 - **F: Ich zerstöre ständig bereits gelöste Bereiche – wie verhindere ich das?**  
   **A:** Nutze gezielte Drei-Kachel-Zyklen, bei denen du nur einen kleinen
   Ausschnitt rotierst, statt große Bereiche zu verschieben.
 
+<!-- i18n:faq:id=faq:haru-pandas-slide:any-hint-system-83b1a6f0 -->
 - **F: Gibt es ein Hinweissystem?**  
   **A:** Viele Varianten bieten Hinweise oder eine transparente
   Bild-Vorschau. Nutze sie sparsam, damit das Puzzlegefühl erhalten bleibt.
 
+<!-- i18n:faq:id=faq:haru-pandas-slide:is-there-a-timer-25fbcbdf -->
 - **F: Gibt es einen Timer?**  
   **A:** In der Regel ist der Zeitdruck gering oder gar nicht vorhanden. Manche
   Modi zählen eher die Anzahl deiner Züge als die Zeit.

@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 Hangman ist ein klassisches Wortspiel, bei dem du ein geheimes Wort oder eine
@@ -33,6 +34,7 @@ Viele digitale Versionen vergeben zusätzlich Punkte – etwa für richtige
 Buchstaben, die Geschwindigkeit beim Lösen oder die Anzahl der verbleibenden
 "Leben" (Fehlversuche).
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Mit Vokalen beginnen**  
@@ -59,6 +61,7 @@ Buchstaben, die Geschwindigkeit beim Lösen oder die Anzahl der verbleibenden
     „_UNG“ oder „_EN“, kannst du daraus weitere Buchstaben ableiten. Auch
     Buchstabenkombinationen wie "SCH" oder "ST" sind häufig.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 In der digitalen Version ist die Bedienung sehr einfach:
@@ -66,25 +69,31 @@ In der digitalen Version ist die Bedienung sehr einfach:
 *   **Buchstaben wählen:** Klicke auf die Buchstaben im Bildschirm-Alphabet oder
     tippe den gewünschten Buchstaben direkt auf deiner Tastatur ein.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:hangman:what-is-the-best-letter-6dbfacbe -->
 **1. Mit welchem Buchstaben sollte ich anfangen?**  
 Statistisch ist **E** einer der häufigsten Buchstaben. Danach bieten sich andere
 Vokale (A, O, I, U) und häufige Konsonanten (R, N, S, T) an.
 
+<!-- i18n:faq:id=faq:hangman:what-are-some-of-the-fc3b890c -->
 **2. Was macht ein Wort besonders schwer?**
 Kurze Wörter mit seltenen Buchstaben oder ohne klassische Vokale sind schwierig.
 *   **Jazz:** Sehr kurz und nutzt zwei der seltensten Buchstaben, J und Z.
 *   **Rhythm, Synth:** Enthalten keine klassischen Vokale (A, E, I, O, U) und zwingen dich, Y zu raten.
 *   **Fjord, Gnat:** Ungewöhnliche Buchstabenkombinationen, bei denen Muster schwer zu erkennen sind.
 
+<!-- i18n:faq:id=faq:hangman:what-skills-can-you-learn-94f8f5e3 -->
 **3. Was lerne ich durch Hangman?**
 Hangman ist ein hervorragendes Lernwerkzeug:
 *   **Wortschatz:** Du wirst mit neuen Wörtern konfrontiert.
 *   **Rechtschreibung:** Du lernst und festigst korrekte Schreibmuster.
 *   **Logisches Denken:** Du nutzt Schlussfolgerungen, um den nächsten besten Tipp abzuleiten.
 
+<!-- i18n:faq:id=faq:hangman:what-happens-when-i-guess-9ead5b0e -->
 **4. Was passiert bei einem falschen Buchstaben?**  
 Für jeden falschen Versuch wird ein weiterer Teil der Strichfigur gezeichnet –
 zuerst der Kopf, dann Körper, Arme und Beine. Erlaubst du dir zu viele Fehler,
 wird die Figur komplett und die Runde ist verloren.
+

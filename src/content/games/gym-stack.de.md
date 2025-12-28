@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Gym Stack ist ein süchtig machendes 3D-Puzzlespiel, das deine Fähigkeiten im
@@ -27,6 +28,7 @@ Gelingt es dir, zwei identische Scheiben zu kombinieren, entstehen größere
 Gewichte und du schaffst neuen Platz. Ziel ist es, durch clevere Züge möglichst
 viele Punkte zu machen, bevor alle Stangen überfüllt sind.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Nach Farben sortieren**  
@@ -53,24 +55,29 @@ viele Punkte zu machen, bevor alle Stangen überfüllt sind.
     mehr hast. Denke bei jedem Schritt daran, dir Raum für die nächsten Gewichte
     zu lassen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 *   **Auswählen & Bewegen:** Klicke mit der Maus auf einen Gewichtstapel, um ihn
     zu markieren, und danach auf eine freie Position oder einen passenden Stapel,
     um ihn dorthin zu verschieben.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:gym-stack:q-how-do-i-merge-63761b4c -->
 *   **F: Wie genau verschmelzen Gewichte?**
     *   **A:** Lege einen Stapel einer bestimmten Größe und Farbe auf einen
         Stapel mit **genau derselben** Größe und Farbe. Daraus entsteht eine
         größere Scheibe dieser Farbe.
 
+<!-- i18n:faq:id=faq:gym-stack:q-what-is-the-goal-ab58581b -->
 *   **F: Was ist das Hauptziel des Spiels?**
     *   **A:** Du willst so viele Punkte wie möglich erzielen, indem du
         kontinuierlich Gewichte kombinierst und verhinderst, dass das Feld voll
         läuft.
 
+<!-- i18n:faq:id=faq:gym-stack:q-is-there-a-time-c0411996 -->
 *   **F: Gibt es ein Zeitlimit?**
     *   **A:** Nein, Gym Stack ist rundenbasiert. Du kannst dir für deine Züge
         Zeit lassen und in Ruhe vorausplanen.

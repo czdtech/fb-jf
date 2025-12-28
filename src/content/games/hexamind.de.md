@@ -15,6 +15,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 HexaMind spielt auf einem sechseckigen Gitter, auf dem Zahlen, Farben oder
@@ -23,6 +24,7 @@ Nachbarn" oder vorgegebene Summen entlang Strahlen. Durch die sechs
 Richtungen, in die ein Feld Nachbarn haben kann, entstehen reichhaltige
 Schlussfolgerungen über Fächerlinien und Ringe.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Hotspots mit vielen Nachbarn zuerst**  
@@ -48,22 +50,27 @@ Schlussfolgerungen über Fächerlinien und Ringe.
     Nutze Kandidatenmarkierungen konsequent und lösche veraltete Notizen, damit
     du nicht in alten Annahmen hängenbleibst oder im Kreis schließt.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Tippe/Klicke auf Felder, um Werte oder Farben zu setzen, wechsle in den
   **Notizmodus**, um Kandidaten zu markieren, und nutze Rückgängig/Wiederholen,
   wenn verfügbar.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:hexamind:im-stuck-where-to-look-d8c5a1a2 -->
 - **F: Ich komme nicht weiter – wo soll ich suchen?**  
   **A:** Kehre zu Feldern mit vielen Nachbarn zurück und kombiniere Ring- mit
   Strahlenbedingungen. Oft übersehen wir gerade dort einen logischen Zwang.
 
+<!-- i18n:faq:id=faq:hexamind:is-guessing-required-8f5e96ed -->
 - **F: Muss ich raten, um das Puzzle zu lösen?**  
   **A:** Gut gestaltete Sets sind rein logisch lösbar. Falls doch eine Annahme
   nötig ist, halte sie flach und leicht zurücknehmbar.
 
+<!-- i18n:faq:id=faq:hexamind:how-is-it-different-from-c5ce884b -->
 - **F: Worin unterscheidet sich HexaMind von Rätseln auf Quadratraster?**  
   **A:** Sechs Nachbarn statt vier verstärken Ring- und Strahlenlogik und
   ermöglichen Schlussfolgerungen, die du in klassischen Quadraträtseln so nicht

@@ -16,6 +16,7 @@ releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 *Incredibox Creatophobos* ist ein düsterer, experimenteller Fan-Mod für
@@ -33,6 +34,7 @@ Ziel ist weniger ein Ohrwurm, sondern ein **bedrückendes, intensives
 Klangbild**. Die drei versteckten Boni bleiben als Puzzle erhalten und greifen
 optisch voll in die groteske, albtraumhafte Ästhetik des Mods ein.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 Hier geht es darum, Chaos und Spannung aufzubauen – nicht um Harmonien.
@@ -70,6 +72,7 @@ Hier geht es darum, Chaos und Spannung aufzubauen – nicht um Harmonien.
     Gesamtatmosphäre leistet. So kannst du gezielter entscheiden, was bleibt
     und was weichen muss.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Steuerung wie im Original-Incredibox:

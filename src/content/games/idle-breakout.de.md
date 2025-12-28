@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Überblick
 
 Idle Breakout kombiniert das Gefühl eines Breakout-Spiels mit einem
@@ -26,6 +27,7 @@ Die Lebenspunkte der Blöcke steigen stetig an, regelmäßig erscheinen Bosse un
 über das **Prestige**-System kannst du Läufe zurücksetzen, um dauerhafte
 Multiplikatoren freizuschalten, die spätere Runs drastisch beschleunigen.
 
+<!-- i18n:section:how-to-play -->
 ### So spielst du
 
 - Investiere anfangs vor allem in **günstige Standardbälle**, um eine solide
@@ -37,6 +39,7 @@ Multiplikatoren freizuschalten, die spätere Runs drastisch beschleunigen.
   kumulierten Multiplikatoren sind langfristig wichtiger als ein einzelner,
   zäher Run.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Maus:** Klicke direkt auf Blöcke, um Schaden zu verursachen, und verwende
@@ -51,17 +54,21 @@ Multiplikatoren freizuschalten, die spätere Runs drastisch beschleunigen.
 - Wenn dein Host Offline-Fortschritt unterstützt, lohnt es sich, vor Pausen
   noch einmal Upgrades zu kaufen, damit die Idle-Zeit maximal genutzt wird.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:idle-breakout:when-should-i-trigger-a-d8a2ff2f -->
 - **F: Wann ist ein guter Zeitpunkt für Prestige?**  
   **A:** Wenn sich Level-Clears wie zäher Grind anfühlen und neue Upgrades
   unverhältnismäßig teuer wirken. Frühe und häufige Resets bringen oft mehr
   Gesamtfortschritt als ein einziger sehr langer Run.
 
+<!-- i18n:faq:id=faq:idle-breakout:which-ball-types-are-best-23f3d15a -->
 - **F: Welche Bälle sind am Anfang am stärksten?**  
   **A:** Günstige, schnelle Bälle für Flächendeckung; ergänze sie um einen
   Sniper- oder Powerball, der Bosse gezielt schmilzt.
 
+<!-- i18n:faq:id=faq:idle-breakout:does-the-game-progress-offline-f8c04faa -->
 - **F: Läuft das Spiel weiter, wenn ich offline bin?**  
   **A:** Das hängt vom Host ab. Viele Versionen simulieren Einkünfte während du
   weg bist, andere nur, solange das Fenster offen ist.

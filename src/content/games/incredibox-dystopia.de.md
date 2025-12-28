@@ -18,6 +18,7 @@ releaseDate: 2025-10-10T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### **Spieleinführung zu Incredibox „Dystopia"**
 
 *Incredibox Dystopia* ist ein hochgelobter Fan-Mod für das Musikerstellungsspiel Incredibox. Diese Version versetzt Spieler in eine dunkle, neonbeleuchtete **dystopische oder Cyberpunk-Zukunft**. Die Charaktere sind als futuristische Figuren gestaltet, manche tragen Masken oder Kapuzen, passend zum bedrückenden Hightech-Urban-Thema.
@@ -26,6 +27,7 @@ Das Spiel folgt dem klassischen Incredibox-Drag-and-Drop-Gameplay. Spieler kompo
 
 Das Ziel ist es, Kreativität zu fördern und gleichzeitig eine Puzzle-Herausforderung zu bieten. Spieler können Sounds frei mischen und schichten, um ihren eigenen cinematischen, Cyberpunk-thematisierten Track zu produzieren. Das Puzzle-Element besteht darin, die drei spezifischen Kombinationen zu entdecken, die die geheimen animierten Boni freischalten, wobei jeder visuell einen Kernaspekt des dystopischen Themas darstellt.
 
+<!-- i18n:section:tips -->
 ### **Gameplay-Strategie & Tipps**
 
 Strategie bei *Incredibox Dystopia* dreht sich darum, einen kraftvollen, treibenden elektronischen Beat aufzubauen und atmosphärische Texturen zu schichten, um einen kohärenten futuristischen Vibe zu schaffen.
@@ -44,6 +46,7 @@ Strategie bei *Incredibox Dystopia* dreht sich darum, einen kraftvollen, treiben
 
 5.  **Systematische Bonus-Suche**: Wie bei anderen Versionen ist der beste Weg, die versteckten Boni zu finden, methodisch vorzugehen. Fixiere ein paar Kernsounds, die eine gute Basis bilden, dann probiere systematisch jedes andere Icon einzeln durch, bis du eine Animation auslöst.
 
+<!-- i18n:section:controls -->
 ### **Steuerungsanleitung**
 
 Die Steuerung ist das standardmäßige, intuitive Drag-and-Drop-Interface der offiziellen Incredibox-Spiele.
@@ -53,3 +56,4 @@ Die Steuerung ist das standardmäßige, intuitive Drag-and-Drop-Interface der of
 *   **Stummschalten/Entstummen**: **Klicke** auf einen performenden Charakter, um ihn stumm zu schalten; klicke erneut, um ihn zu entstummen.
 *   **Solo**: Klicke den **kleinen Button** neben einem aktiven Charakter, um alle anderen Performer stumm zu schalten.
 *   **Aufnehmen**: Klicke den **Aufnahme-Button**, um die Aufnahme deiner musikalischen Kreation zu starten und zu stoppen.
+

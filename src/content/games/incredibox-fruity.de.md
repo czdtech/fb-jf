@@ -15,6 +15,7 @@ score: 4.5/5  (525 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spieleinführung
 
 Incredibox Fruity ist ein klassisches seitlich scrollendes 2D-Strategiespiel, das in der Flash-Ära sehr beliebt war. Das Kernkonzept des Spiels ist ein Kampf zwischen zwei Basen, eine gehört dem Spieler und die andere einem KI-Gegner. Das einzigartige und definierende Feature des Spiels ist sein „Evolutions"-Mechanismus. Spieler starten in der Steinzeit (als Höhlenmenschen) und müssen Erfahrungspunkte (XP) sammeln, um durch fünf verschiedene Epochen voranzuschreiten: Steinzeit, Mittelalter, Moderne und schließlich die Zukunfts-Ära. Jede Evolution schaltet nicht nur mächtigere Einheiten und Verteidigungstürme frei, sondern stellt auch die Gesundheit deiner Basis vollständig wieder her. Das ultimative Ziel ist einfach: Überlebe den Ansturm des Feindes und zerstöre seine Basis.
@@ -38,6 +39,7 @@ Incredibox Fruity zu meistern erfordert ein Gleichgewicht aus Angriff, Verteidig
 *   **Fortgeschrittene Türme:** Rüste deine Türme voll auf. Die Türme der letzten Ära verursachen massiven Schaden und sind essentiell, um dich gegen die mächtigen futuristischen Einheiten des Feindes zu verteidigen.
 *   **Finaler Vorstoß:** Koordiniere deine mächtigsten Einheiten mit deiner Spezialfähigkeit für einen finalen, entscheidenden Vorstoß, um die feindliche Basis zu zerstören.
 
+<!-- i18n:section:controls -->
 ### Steuerungsanleitung
 
 Das Spiel wird fast vollständig mit der Maus gesteuert.
@@ -47,16 +49,22 @@ Das Spiel wird fast vollständig mit der Maus gesteuert.
 *   **Spezialfähigkeit nutzen:** Klicke auf das Spezialfähigkeit-Icon oben rechts auf dem Bildschirm, wenn es bereit ist (nicht im Cooldown).
 *   **Evolvieren:** Klicke den „Evolve"-Button oben rechts auf dem Bildschirm, sobald du genug XP gesammelt hast.
 
+<!-- i18n:section:faq -->
 ### Häufig gestellte Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:incredibox-fruity:q-how-do-i-get-9279e7e6 -->
 *   **F: Wie bekomme ich XP?**
     *   **A:** Du erhältst Erfahrungspunkte (XP) jedes Mal, wenn eine deiner Einheiten eine feindliche Einheit tötet.
 
+<!-- i18n:faq:id=faq:incredibox-fruity:q-what-is-the-best-94cf492b -->
 *   **F: Was ist die beste Einheit im Spiel?**
     *   **A:** Obwohl es von der Situation abhängt, wird der „Super-Soldat" aus der Zukunfts-Ära weithin als die mächtigste Allround-Einheit betrachtet, aufgrund seiner hohen Gesundheit und seines Schadens. Im frühen Spiel ist der einfache Keulenmann der effektivste für seine Kosten.
 
+<!-- i18n:faq:id=faq:incredibox-fruity:q-is-it-better-to-f6ee451c -->
 *   **F: Ist es besser, mehr Türme zu bauen oder mehr Einheiten auszubilden?**
     *   **A:** Im frühen Spiel ist eine Mischung am besten. Ein oder zwei Türme bieten stabile Verteidigung und erlauben dir, Gold für eine starke offensive Armee zu sparen. Im späten Spiel ist es entscheidend, voll aufgerüstete Türme zu haben.
 
+<!-- i18n:faq:id=faq:incredibox-fruity:q-where-can-i-play-adcbe59e -->
 *   **F: Wo kann ich Incredibox Fruity spielen, jetzt wo Flash weg ist?**
     *   **A:** Viele Gaming-Websites wie CrazyGames, Armor Games und Kongregate hosten Incredibox Fruity jetzt mit Flash-Emulatoren (wie Ruffle), was es in modernen Webbrowsern vollständig spielbar macht. Es gibt auch mobile Versionen in den iOS- und Android-App-Stores.
+

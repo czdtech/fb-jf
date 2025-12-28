@@ -17,6 +17,7 @@ releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 *Incredibox Choir* ist ein viel gelobter Fan-Mod von Incredibox mit
@@ -30,6 +31,7 @@ Dein Ziel ist es, aus diesen Bausteinen ein wuchtiges oder getragenes
 Chorstück zu bauen und nebenbei die drei geheimen Bonus-Kombinationen zu
 entdecken, die atmosphärisch an sakrale oder epische Szenen angelehnt sind.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 Der Fokus bei *Incredibox Choir* liegt auf dem Schichten von Harmonien und dem Erkunden der einzigartigen vokalen Texturen.
@@ -63,6 +65,7 @@ Der Fokus bei *Incredibox Choir* liegt auf dem Schichten von Harmonien und dem E
     Isoliere einzelne Stimmen per Solo, um die Details zu hören und besser zu
     verstehen, wie jede Spur in das Gesamtstück einzahlt.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Die Steuerung entspricht der Standard-Incredibox-Bedienung.
@@ -76,3 +79,4 @@ Die Steuerung entspricht der Standard-Incredibox-Bedienung.
     Stimmen stumm.
 *   **Aufnehmen:** Mit dem Record-Button kannst du deinen Chor-Mix aufnehmen
     und später erneut anhören.
+

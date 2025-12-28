@@ -17,6 +17,7 @@ releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 *Incredibox Instrumentalist* ist ein innovativer Fan-Mod, der die Präsentation
@@ -29,9 +30,10 @@ Der Mod feiert **Instrumente aus aller Welt** – von Keyboards und Akkordeons
 Alle 20 Icons stehen für echte Instrumentklänge, daraus entsteht eine bunte
 World-Music-Band ganz ohne Vocals.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
-Bei *Incredibox Instrumentalist* geht es darum, zu verstehen, wie verschiedene Instrumente zusammenspielen, um ein vollständiges Ensemble zu bilden.
+Bei *Incredibox Instrumentalist* geht es darum, zu verstehen, wie verschiedene Instrumente zusammenspielen, um ein vollständiges Ensemble zu bilden. Alle 20 Icons zusammen wirken wie ein komplettes Orchester.
 
 1.  **Sektionen kennen**  
     *   **Rhythmus (Percussion):** Handtrommel, Claves, Maracas, Tamburin,
@@ -57,6 +59,7 @@ Bei *Incredibox Instrumentalist* geht es darum, zu verstehen, wie verschiedene I
     Setze Güiro, Kazoo und ähnliche Sounds sparsam ein, damit sie Highlights
     bleiben und den Mix nicht überladen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Dieser Mod bietet eine leicht abgewandelte Steuerung:
@@ -66,21 +69,26 @@ Dieser Mod bietet eine leicht abgewandelte Steuerung:
 - **Instrument entfernen:** Direkt auf das Instrument auf der Bühne klicken.  
 - **Aufnehmen:** Über den Record-Button nimmst du dein Orchesterstück auf.
 
+<!-- i18n:section:faq -->
 ### **Häufige Fragen (FAQ)**
 
+<!-- i18n:faq:id=faq:incredibox-instrumentalist:is-this-an-official-incredibox-12056458 -->
 - **F: Ist das ein offizielles Incredibox-Spiel?**  
   **A:** Nein, *Instrumentalist* ist ein Fan-Mod von Gabsoares04 und nicht mit
   den offiziellen Entwicklern verbunden.
 
+<!-- i18n:faq:id=faq:incredibox-instrumentalist:what-makes-this-mod-so-5ae5fbac -->
 - **F: Was macht diesen Mod so einzigartig?**  
   **A:** Hier treten die Instrumente selbst als Performer auf – du baust
   buchstäblich ein Orchester auf der Bühne. Außerdem ist es ein rein
   instrumentales Erlebnis ohne Vocals.
 
+<!-- i18n:faq:id=faq:incredibox-instrumentalist:where-can-i-play-this-a4cf171c -->
 - **F: Wo kann ich den Mod spielen?**  
   **A:** Üblicherweise über Modding-Seiten oder Links aus YouTube-Videos, die
   auf Browser-Versionen verweisen.
 
+<!-- i18n:faq:id=faq:incredibox-instrumentalist:are-the-bonus-solutions-for-3062ed27 -->
 - **F: Gibt es Lösungen für die Boni online?**  
   **A:** Ja, bei YouTube findest du unter "Incredibox Instrumentalist combos"
   die Lösungen für die Bonus-Animationen.

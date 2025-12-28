@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Idle Restaurants ist ein klassisches Idle-Management-Spiel, in dem du dir ein
@@ -26,6 +27,7 @@ an Tischen, Köchen und Kellnern steigerst du Effizienz und Umsatz. Langfristige
 Ziel ist es, alle Abläufe zu automatisieren, indem du Manager anheuerst, und
 immer mehr, deutlich profitablere Restaurants zu eröffnen.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Den Restaurant-Workflow verstehen**  
@@ -49,6 +51,7 @@ immer mehr, deutlich profitablere Restaurants zu eröffnen.
     höhere Einnahmen und oft permanente Multiplikatoren für dein gesamtes
     Imperium.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Das Spiel wird komplett per Klick oder Tap bedient.
@@ -60,19 +63,23 @@ Das Spiel wird komplett per Klick oder Tap bedient.
 *   **Navigation:** Wechsle über Karte oder Restaurantliste zwischen deinen
     Standorten.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:idle-restaurants:q-what-is-the-fastest-f3f8e267 -->
 *   **F: Wie verdiene ich am schnellsten Geld?**
     *   **A:** Indem du Einnahmen konsequent in Upgrades steckst. Je schneller
         du aufrüstest, desto stärker steigt dein Einkommen – das typische
         exponentielle Wachstum von Idle-Spielen.
 
+<!-- i18n:faq:id=faq:idle-restaurants:q-what-should-i-upgrade-131ac75d -->
 *   **F: Was sollte ich zuerst verbessern?**
     *   **A:** Zu Beginn lohnt es sich, einige Tische freizuschalten und den
         Koch ein- bis zweimal zu verbessern, um einen stabilen Flow zu
         bekommen. Danach ist ein **gleichmäßiger Ausbau** aller Stationen am
         effizientesten.
 
+<!-- i18n:faq:id=faq:idle-restaurants:q-why-should-i-buy-17b1a728 -->
 *   **F: Warum sollte ich ein neues Restaurant kaufen?**
     *   **A:** Neue Restaurants erhöhen dein Gesamteinkommen massiv und bringen
         oft dauerhafte Boni für deine komplette Kette. Sie sind der wichtigste

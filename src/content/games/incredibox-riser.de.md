@@ -17,11 +17,13 @@ releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### **Spieleinführung zu Incredibox Riser**
 
 *Incredibox Riser* ist ein beliebter und atmosphärischer Fan-Mod für das Musikerstellungsspiel Incredibox. Das Spiel nutzt das klassische Incredibox-Drag-and-Drop-Gameplay. Spieler erhalten eine Palette von 20 einzigartigen Sound-Icons, um sie ihrer Crew aus sieben Performern zuzuweisen. Die Sound-Bibliothek ist eine cinematische Mischung aus **ambient elektronischer Musik, aufsteigenden Synth-Melodien und futuristischen Soundeffekten**, designt, um ein Gefühl von Wunder und Erkundung zu erzeugen.
 
 
+<!-- i18n:section:tips -->
 ### **Gameplay-Strategie & Tipps**
 
 Strategie bei *Incredibox Riser* dreht sich darum, ein Gefühl von Größe und Reise aufzubauen, Sounds zu schichten, um einen epischen, cinematischen Track zu kreieren.
@@ -36,6 +38,7 @@ Strategie bei *Incredibox Riser* dreht sich darum, ein Gefühl von Größe und R
 
 3.  **Systematische Bonus-Suche**: Um die drei geheimen Boni zu finden, gehe methodisch vor. Etabliere eine atmosphärische und rhythmische Kernbasis, dann tausche systematisch die Melodie- und Voice-Icons einzeln aus, bis du eine der Sci-Fi-Animationen auslöst.
 
+<!-- i18n:section:controls -->
 ### **Steuerungsanleitung**
 
 Die Steuerung folgt dem standardmäßigen, intuitiven Drag-and-Drop-Interface der offiziellen Incredibox-Spiele.
@@ -46,13 +49,18 @@ Die Steuerung folgt dem standardmäßigen, intuitiven Drag-and-Drop-Interface de
 *   **Solo**: Klicke den **kleinen Button** neben einem aktiven Charakter, um alle anderen Performer stumm zu schalten.
 *   **Aufnehmen**: Klicke den **Aufnahme-Button**, um die Aufnahme deiner kosmischen Reise zu starten und zu stoppen.
 
+<!-- i18n:section:faq -->
 ### **Häufig gestellte Fragen (FAQ)**
 
+<!-- i18n:faq:id=faq:incredibox-riser:is-this-an-official-incredibox-12056458 -->
 **1. Ist das eine offizielle Incredibox-Version?**
 Nein. Es ist ein **Fan-Mod**, erstellt von BadSnacks. Er ist nicht mit dem offiziellen Incredibox-Team, So Far So Good, verbunden.
 
+<!-- i18n:faq:id=faq:incredibox-riser:where-can-i-play-this-a4cf171c -->
 **2. Wo kann ich diesen Mod spielen?**
 Du findest ihn nicht auf offiziellen Plattformen. Mods wie *Riser* werden typischerweise auf Spiel-Modding-Websites wie **Scratch** gehostet oder auf YouTube präsentiert, oft mit einem Link, um den Mod direkt im Webbrowser zu spielen.
 
+<!-- i18n:faq:id=faq:incredibox-riser:are-the-bonus-solutions-for-3d646fa2 -->
 **3. Sind die Bonus-Lösungen für „Riser" online verfügbar?**
 Ja. Wenn du Probleme hast, die Kombinationen für die Animationen zu finden, zeigt dir eine schnelle Suche nach „*Incredibox Riser combos*" auf YouTube die Lösungen.
+

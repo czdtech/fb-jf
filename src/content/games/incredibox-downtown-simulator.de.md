@@ -16,6 +16,7 @@ releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### **Spieleinführung zu Incredibox „Downtown" (Simulator-Mod)**
 
 *Incredibox Downtown* ist ein beliebtes und hochwertiges Fan-Spiel aus der **„Simulator"-Reihe von Mods**. Diese Version zeichnet sich durch ein einzigartiges Benutzerinterface und eine Spielmechanik aus, die sich von der offiziellen Incredibox-Serie unterscheidet. Statt Icons auf eine Crew von Charakteren zu ziehen, interagieren die Spieler mit einem **Raster aus 20 Sound-Icons**.
@@ -24,6 +25,7 @@ Das Spiel ist thematisch um eine moderne, urbane **Downtown**-Kulisse aufgebaut,
 
 Dieses „Simulator"-Format bietet ein anderes kreatives Erlebnis und konzentriert sich auf die direkte Kombination von Sounds in einem rasterbasierten Interface, anstatt Sounds einzelnen Performern zuzuweisen.
 
+<!-- i18n:section:tips -->
 ### **Gameplay-Strategie & Tipps**
 
 1.  **Raster verstehen**: Alle 20 Sounds werden in einem einzelnen Raster präsentiert. Obwohl sie im UI nicht farblich in verschiedene Kategorien unterteilt sind, fungieren sie dennoch als **Beats, Effekte, Melodien und Stimmen**. Experimentiere, indem du verschiedene Icons anklickst, um ihre Rollen zu verstehen. Die oberen Reihen enthalten oft grundlegende Beats und Effekte, während die unteren Reihen komplexere Melodien und Vocals zeigen.
@@ -35,6 +37,7 @@ Dieses „Simulator"-Format bietet ein anderes kreatives Erlebnis und konzentrie
     *   **Reset**: Der Reset-/Shuffle-Button ist perfekt, um das Board zu leeren und einen frischen Mix zu starten.
     *   **Record**: Nutze die Aufnahmefunktion, um Loops zu speichern und zu teilen, auf die du stolz bist.
 
+<!-- i18n:section:controls -->
 ### **Steuerungsanleitung**
 
 Dies ist der Hauptunterschied zum Standard-Incredibox. Das Spiel wird komplett per Mausklicks gesteuert.
@@ -45,3 +48,4 @@ Dies ist der Hauptunterschied zum Standard-Incredibox. Das Spiel wird komplett p
     *   **Play-Button**: Schaltet den gesamten Loop ein oder aus.
     *   **Record-Button**: Startet und stoppt die Aufnahme deines Mixes.
     *   **Reset-Button**: Löscht alle aktiven Sounds aus dem Raster.
+

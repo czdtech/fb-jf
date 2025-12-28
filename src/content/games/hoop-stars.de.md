@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Hoop Stars ist ein schnelles Duell um den besseren Ringwurf. Du drehst einen
@@ -25,6 +26,7 @@ Nur saubere Landungen zählen als Punkt, Fehlwürfe kosten Zeit. Wer seine
 Würfe konstant timet und gute Ausgangswinkel vorbereitet, gewinnt mehr Spiele
 als reines Button-Mashing.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Vorrotation einstellen**  
@@ -49,23 +51,28 @@ als reines Button-Mashing.
     In Duellen kannst du Flips antäuschen, um den Gegner nervös zu machen, und
     dann in einem ruhigen Moment einen präzisen Treffer landen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Halte die Taste (oder den Bildschirm) gedrückt, um den Ring zu drehen, und
   lasse los, um den Flip auszuführen.  
 - Manche Versionen trennen Rotations- und Flip-Befehl auf zwei Buttons.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:hoop-stars:my-flips-always-rim-out-2a8e4776 -->
 - **F: Meine Würfe springen ständig vom Pfosten ab – was tun?**  
   **A:** Reduziere die Drehgeschwindigkeit, bevor du loslässt, und experimentiere
   mit einem etwas früheren oder späteren Release, um eine stabilere Flugkurve
   zu bekommen.
 
+<!-- i18n:faq:id=faq:hoop-stars:is-button-mashing-viable-93bc88e9 -->
 - **F: Bringt schnelles Dauerdrücken einen Vorteil?**  
   **A:** Nein. Konstante, gut vorbereitete Würfe sind deutlich erfolgreicher als
   hektisches Spammen.
 
+<!-- i18n:faq:id=faq:hoop-stars:local-multiplayer-e67a3592 -->
 - **F: Gibt es lokalen Multiplayer?**  
   **A:** Viele Versionen bieten 1‑gegen‑1 an einem Gerät, bei dem beide Spieler
   spiegelverkehrte Steuerungen nutzen.

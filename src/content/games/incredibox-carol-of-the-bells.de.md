@@ -17,6 +17,7 @@ releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 *Incredibox Andlbox Carol of the Bells* ist ein liebevoller, festlicher Fan-Mod
@@ -33,6 +34,7 @@ Ziel ist es, deine ganz eigene Version von „Carol of the Bells“ zusammenzuse
 und dabei die drei geheimen animierten Boni zu finden, die alle weihnachtlich
 inszeniert sind.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 Der Trick besteht darin, zu verstehen, wie der Song zerlegt ist, und die Teile
@@ -66,6 +68,7 @@ so zu schichten, dass ein voller, festlicher Sound entsteht.
     tausche die übrigen Symbole nach und nach aus, um die drei Weihnachtsspecials
     auszulösen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Die Bedienung entspricht dem offiziellen Incredibox.

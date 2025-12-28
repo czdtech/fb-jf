@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Überblick
 
 Hide and Seek! verwandelt das Pausenhof-Spiel Fangen in ein Top-down-Stealth-
@@ -25,6 +26,7 @@ erfüllst Aufgaben, während du den Patrouillen des Suchenden ausweichst. Als
 Suchender beobachtest du Bewegungsmuster, nutzt Sprints oder Gadgets und deckst
 verdächtige Spieler auf, bevor der Timer abläuft.
 
+<!-- i18n:section:how-to-play -->
 ### So spielst du
 
 - **Als Verstecker:** Bewege dich im Strom der NPCs, erledige deine Aufgaben
@@ -34,6 +36,7 @@ verdächtige Spieler auf, bevor der Timer abläuft.
 - Power-ups bieten je nach Modus kurzzeitige Unsichtbarkeit, Speedboosts oder
   Aufklärungs-Effekte.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Bewegung mit **WASD** oder Pfeiltasten.  
@@ -49,17 +52,21 @@ verdächtige Spieler auf, bevor der Timer abläuft.
 - Achte auf visuelle und akustische Hinweise wie plötzliche Richtungswechsel
   oder hektische Bewegungen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:hide-and-seek:how-do-i-avoid-being-eac0f170 -->
 - **F: Wie kann ich als Verstecker am besten entkommen?**  
   **A:** Versuche, in Gruppen zu bleiben, nutze Ecken und Hindernisse, um die
   Sichtlinie zu brechen, und wechsle danach ruhig wieder in unauffällige
   Bewegung.
 
+<!-- i18n:faq:id=faq:hide-and-seek:what-is-the-best-seeker-a875faa2 -->
 - **F: Was ist eine gute Sucher-Strategie auf neuen Karten?**  
   **A:** Laufe zuerst Hotspots wie Aufgabenorte und Engstellen ab und
   kontrolliere erst danach offene Bereiche.
 
+<!-- i18n:faq:id=faq:hide-and-seek:do-powerups-respawn-during-a-d1c2e219 -->
 - **F: Erscheinen Power-ups während einer Runde neu?**  
   **A:** In vielen Modi spawnen Items in Intervallen nach – lerne ihre
   Positionen, um dir regelmäßig Vorteile zu sichern.

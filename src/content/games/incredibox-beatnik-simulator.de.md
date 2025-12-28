@@ -17,6 +17,7 @@ releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 *Incredibox Beatnik* ist ein stilvoller, sehr stimmiger Fan-Mod für das
@@ -29,6 +30,7 @@ aktivieren und deinen eigenen, lässigen Jazz-Groove zu bauen. Gleichzeitig gilt
 es, die drei geheimen Kombos zu finden, die stilvolle Beatnik-Boni und
 Animationen freischalten.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 In *Incredibox Beatnik* geht es darum, einen runden, entspannten Vibe zu bauen
@@ -53,6 +55,7 @@ und dabei die versteckten Boni aufzuspüren.
     einen Track, den du dort selbst hören würdest – diese Haltung führt meist
     zu den besten Mixes.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Die Steuerung entspricht der gewohnten Incredibox-Bedienung.

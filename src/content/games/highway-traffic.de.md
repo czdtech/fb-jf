@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 "Highway Traffic" steht im Allgemeinen für ein ganzes Genre von Arcade-
@@ -44,6 +45,7 @@ Typische Elemente von Highway-Traffic-Spielen:
     und Wetterbedingungen (Sonne, Regen) sorgen für zusätzliche Herausforderungen
     und Abwechslung.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Lenke ruhig statt ruckartig**  
@@ -75,7 +77,10 @@ Typische Elemente von Highway-Traffic-Spielen:
     Investiere dein Geld zuerst in **Handling** und **Bremskraft**. Hohe
     Geschwindigkeit bringt nichts, wenn du sie nicht kontrollieren kannst.
 
+<!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `A` `D` `Left/Right Arrow` `W` `Up Arrow` `S` `Down Arrow`
 
 Die Steuerung ist intuitiv und auf Mobilgeräten wie auf PC schnell erlernt.
 
@@ -86,17 +91,20 @@ Die Steuerung ist intuitiv und auf Mobilgeräten wie auf PC schnell erlernt.
         rechten Seite.
     *   **Bremse:** eigenes Pedal-Symbol auf der linken Seite.
 *   **PC/Web:**
-    *   **Lenken:** `A`/`D` oder Pfeiltasten links/rechts.
-    *   **Gas:** `W` oder Pfeil nach oben.
-    *   **Bremse:** `S` oder Pfeil nach unten.
+    *   **Lenken:** A/D oder Pfeiltasten links/rechts.
+    *   **Gas:** W oder Pfeil nach oben.
+    *   **Bremse:** S oder Pfeil nach unten.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:highway-traffic:why-cant-i-seem-to-3bcfed79 -->
 **1. Warum erreiche ich nie die Höchstgeschwindigkeit?**  
 In vielen Versionen musst du eine Zeit lang durchgehend beschleunigen, um die
 Maximalgeschwindigkeit zu erreichen. Häufiges Bremsen oder leichte Kollisionen
 werfen dich zurück.
 
+<!-- i18n:faq:id=faq:highway-traffic:how-do-i-earn-more-7e97df14 -->
 **2. Wie verdiene ich mehr Ingame-Geld?**  
 Du bekommst mehr Währung, wenn du
 
@@ -105,6 +113,7 @@ Du bekommst mehr Währung, wenn du
 *   dauerhaft mit hoher Geschwindigkeit fährst und
 *   tägliche Missionen oder Herausforderungen abschließt.
 
+<!-- i18n:faq:id=faq:highway-traffic:which-car-is-the-best-2b470d3e -->
 **3. Welches Auto ist das beste?**  
 Es gibt selten ein absolut bestes Auto – es hängt von deinem Fahrstil ab:
 
@@ -113,6 +122,7 @@ Es gibt selten ein absolut bestes Auto – es hängt von deinem Fahrstil ab:
 *   **Profis:** greifen zu sehr schnellen Wagen mit starkem Anzug, holen aber
     nur dann das Maximum heraus, wenn sie die Kontrolle behalten.
 
+<!-- i18n:faq:id=faq:highway-traffic:whats-special-about-the-twoway-e8794308 -->
 **4. Was ist das Besondere am Zwei-Wege-Modus?**  
 Du musst Verkehr in beiden Richtungen ausweichen. Fahrten im Gegenverkehr
 bringen meist deutlich mehr Punkte, sind aber auch der riskanteste Teil des

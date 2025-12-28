@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Überblick
 
 Hobo ist ein seitlich scrollendes Beat ’em up, das für Slapstick-Gewalt und
@@ -26,6 +27,7 @@ Abwechslung, während Bosskämpfe dein Timing und dein Crowd-Control fordern.
 Wer Lebenspunkte, Ausdauer und Gegner-Tells im Blick behält, räumt ganze Wellen
 weg, ohne überrannt zu werden.
 
+<!-- i18n:section:how-to-play -->
 ### So spielst du
 
 - Verknüpfe leichte und schwere Angriffe zu Kombos, die Gegner länger
@@ -35,6 +37,7 @@ weg, ohne überrannt zu werden.
 - Lerne Bossmuster: Weiche Eröffnungsangriffen aus und bestrafe sie in ihren
   Erholungsfenstern.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Bewegung mit den **Pfeiltasten**.  
@@ -50,17 +53,21 @@ weg, ohne überrannt zu werden.
 - Hebe Heilgegenstände bis nach einer großen Welle auf, statt sie mitten im
   Gedränge zu nehmen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:hobo:how-do-i-unlock-new-a135500c -->
 - **F: Wie schalte ich neue Kombos frei?**  
   **A:** Im Verlauf der Stages werden auf Hinweisschildern oder Splash-Screens
   neue Tastenkombinationen angezeigt. Probiere sie direkt danach aus, damit du
   sie dir merkst.
 
+<!-- i18n:faq:id=faq:hobo:what-is-the-best-way-c10f3f07 -->
 - **F: Wie gehe ich am besten mit großen Gegnergruppen um?**  
   **A:** Zieh die Gegner zu einer Bildschirmkante, nutze Würfe und Waffen, um
   die Masse zu lichten, und picke dir Nachzügler gezielt heraus.
 
+<!-- i18n:faq:id=faq:hobo:are-there-checkpoints-between-c66ff120 -->
 - **F: Gibt es Checkpoints?**  
   **A:** In den meisten Versionen wird beim Übergang zwischen Stages
   gespeichert. Ob es Zwischen-Checkpoints innerhalb eines Levels gibt, hängt

@@ -18,6 +18,7 @@ releaseDate: 2025-10-10T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### **Spieleinführung zu Incredibox Geek Dance Simulator**
 
 *Incredibox Geek Dance Simulator* ist ein Fan-Spiel aus der beliebten „Simulator"-Reihe der Incredibox-Mods. Als Hommage an **„Geek"- und „Nerd"-Kultur** ist sein Thema stark von Retro-Videospielen, früher Computertechnik und den ikonischen Sounds der 8-Bit-Ära inspiriert.
@@ -26,6 +27,7 @@ Das Gameplay unterscheidet sich grundlegend von der offiziellen Incredibox-Serie
 
 Während Spieler mehr Sounds schichten und mit Kombinationen experimentieren, füllt sich eine Fortschrittsleiste am oberen Bildschirmrand (beschriftet mit „LOOP"), die sie zum Freischalten der geheimen audiovisuellen Boni des Mods führt. Das Erlebnis ist ein direkter, praktischer Ansatz zum Komponieren von Retro-Spielemusik.
 
+<!-- i18n:section:tips -->
 ### **Gameplay-Strategie & Tipps**
 
 1.  **Das Chiptune-Raster verstehen**: Die 20 Icons repräsentieren die Kernkanäle eines Retro-Soundchips.
@@ -40,6 +42,7 @@ Während Spieler mehr Sounds schichten und mit Kombinationen experimentieren, f�
 
 4.  **Dynamik durch Ein-/Ausschalten erstellen**: Nutze die Klick-an/Klick-aus-Mechanik zu deinem Vorteil. Du kannst ein Intro nur mit einem Beat aufbauen, eine Melodie für eine „Strophe" hinzufügen und dann mehr Schichten für einen „Refrain" ergänzen, um eine vollständige Songstruktur innerhalb des Loops zu schaffen.
 
+<!-- i18n:section:controls -->
 ### **Steuerungsanleitung**
 
 Dieser Mod nutzt das einfache, klickbasierte Interface der Simulator-Reihe.
@@ -51,18 +54,23 @@ Dieser Mod nutzt das einfache, klickbasierte Interface der Simulator-Reihe.
     *   **Record-Button**: Startet und stoppt die Aufnahme deines Mixes.
     *   **Reset-Button**: Löscht alle aktiven Sounds aus dem Raster und ermöglicht dir einen Neustart.
 
+<!-- i18n:section:faq -->
 ### **Häufig gestellte Fragen (FAQ)**
 
+<!-- i18n:faq:id=faq:incredibox-geek-dance-simulator:is-this-an-official-incredibox-76f9ee93 -->
 **1. Ist das ein offizielles Incredibox-Spiel?**
 
 Nein. Die „Simulator"-Reihe, einschließlich *Geek Dance Simulator*, sind **Fan-Mods** und nicht mit den offiziellen Incredibox-Entwicklern, So Far So Good, verbunden.
 
+<!-- i18n:faq:id=faq:incredibox-geek-dance-simulator:why-is-this-different-from-62cbcae5 -->
 **2. Warum ist das anders als der andere „Geek Dance"-Mod?**
 
 Das ist eine wichtige Unterscheidung. Die Incredibox-Modding-Community hat mindestens zwei beliebte Mods mit diesem Thema erstellt.
 *   **Geek Dance (Drag-and-Drop)**: Zeigt Charaktere auf dem Bildschirm, auf die du Icons ziehst.
 *   **Geek Dance Simulator (Rasterbasiert)**: Diese Version, die ein Raster aus Icons nutzt, die du zum Aktivieren anklickst, bietet ein anderes Gameplay-Erlebnis.
 
+<!-- i18n:faq:id=faq:incredibox-geek-dance-simulator:where-can-i-play-this-a4cf171c -->
 **3. Wo kann ich diesen Mod spielen?**
 
 Du findest ihn nicht auf offiziellen Plattformen. Diese Mods werden typischerweise auf Gaming-Seiten wie **playfiddlebops.com**, Modding-Communities wie **Scratch** geteilt oder auf YouTube mit Links zum Spielen im Webbrowser präsentiert.
+

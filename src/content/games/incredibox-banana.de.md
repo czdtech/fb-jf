@@ -16,6 +16,7 @@ releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 Der beliebte Fan-Mod **Incredibox Banana** ist eine direkte Hommage an das
@@ -34,6 +35,7 @@ Ziel ist es, Fans von Incredibox und Incredibox Banana kreativ werden zu lassen
 und gleichzeitig das Rätsel um die drei geheimen Bonus-Kombinationen zu lösen –
 animierte Specials, die voll im Stil der Banana-Community gehalten sind.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 Der Schlüssel liegt darin, die ikonischen Sounds und Meme-Referenzen so zu
@@ -64,6 +66,7 @@ layern, dass ein runder, energiegeladener Mix entsteht.
     stehen und tausche die übrigen Icons nach und nach aus, bis du eine der
     Bonus-Animationen auslöst.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Die Steuerung entspricht der offiziellen Incredibox-Version.
