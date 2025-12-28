@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 *Cake Smash* ist ein farbenfrohes, mitreißendes Match-3-Puzzlespiel. Du tauschst
@@ -25,6 +26,7 @@ Solche Matches lassen die Kuchen explodieren und vom Brett verschwinden, währen
 von oben neue nachrutschen. Jedes Level hat eigene Ziele – etwa eine bestimmte
 Punktzahl oder das Entfernen einer definierten Anzahl spezieller Kuchen.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  Matches erkennen: Halte Ausschau nach Möglichkeiten, drei oder mehr
@@ -38,20 +40,25 @@ gleiche Kuchen durch einen einfachen Tausch nebeneinander zu bringen.
     wichtiger, bestimmte Felder zu säubern oder spezielle Kuchen zu sammeln,
     statt nur Punkte zu jagen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 *   Maus/Touch: Klicke oder tippe auf zwei benachbarte Kuchen und ziehe, um
     sie zu vertauschen. Nur gültige Tauschvorgänge, die ein Match erzeugen,
     werden ausgeführt.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:cake-smash:q-what-do-the-special-511b22df -->
 *   F: Was bewirken die Spezialkuchen?
     *   A: Spezialkuchen, die durch Matches mit mehr als drei normalen Kuchen
         entstehen, haben verschiedene Effekte – sie räumen zum Beispiel ganze
         Reihen, Spalten oder alle Kuchen einer bestimmten Farbe ab.
 
+<!-- i18n:faq:id=faq:cake-smash:q-how-do-i-beat-0ef45382 -->
 *   F: Wie schaffe ich schwierige Level?
     *   A: Versuche, möglichst viele Spezialkuchen zu erzeugen und sie
         miteinander zu kombinieren. Plane deine Züge voraus und konzentriere
         dich immer auf das Levelziel statt nur auf Einzelmatches.
+

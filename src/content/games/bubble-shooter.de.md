@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 *Bubble Shooter* ist ein klassischer, stark süchtig machender Puzzler. Dein
@@ -33,6 +34,7 @@ erzielen, bevor die Blasen die untere Linie erreichen. Nach einer bestimmten
 Anzahl von Schüssen, die keine Gruppe lösen, erscheint oben eine neue Reihe –
 und erhöht den Druck.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 -   Auf hohe Blasen zielen: Wichtig ist nicht nur, überhaupt Treffer zu landen,
@@ -57,6 +59,7 @@ und erhöht den Druck.
     Stelle ab, an der sie dir zukünftige Wege nicht verbaut – zum Beispiel
     seitlich an einer größeren Gruppe einer anderen Farbe.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Die Steuerung ist sehr einfach und intuitiv und eignet sich ideal für Maus oder
@@ -69,27 +72,33 @@ Touch-Eingabe.
     es dir, per Taste (z. B. die Leertaste) oder Symbol die aktuelle Blase mit
     der nächsten im Puffer zu tauschen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:bubble-shooter:what-is-the-goal-of-c816fee5 -->
 **1. Was ist das Ziel des Spiels?**
 > In den meisten klassischen Versionen geht es darum, das gesamte Spielfeld von
 > Blasen zu befreien. In Endlos-Modi versuchst du, so lange wie möglich zu
 > überleben und eine möglichst hohe Punktzahl zu erreichen.
 
+<!-- i18n:faq:id=faq:bubble-shooter:what-happens-if-i-miss-7e8207a8 -->
 **2. Was passiert, wenn ich "danebenschieße"?**
 > Ein Fehlversuch ist ein Schuss, der keine Blasen entfernt. Nach einer festen
 > Anzahl solcher Fehlschüsse (oft als kleine Blasenanzeige am unteren Rand
 > dargestellt) wird oben eine neue Reihe an das Spielfeld angehängt und schiebt
 > alles weiter nach unten.
 
+<!-- i18n:faq:id=faq:bubble-shooter:are-there-special-bubbles-or-5def06f6 -->
 **3. Gibt es Spezialblasen oder Power-ups?**
 > In der ursprünglichen klassischen Version von Bubble Shooter gibt es keine
 > Spezialblasen. Viele moderne Varianten fügen jedoch Power-ups wie Bomben-
 > Blasen (räumen einen Bereich auf), Regenbogenblasen (passen zu jeder Farbe)
 > oder Feuerbälle (zerstören alles auf ihrem Weg) hinzu.
 
+<!-- i18n:faq:id=faq:bubble-shooter:what-is-the-best-strategy-46032367 -->
 **4. Was ist die beste Strategie für einen hohen Score?**
 > Am effektivsten ist es, große Blasencluster in einem einzigen Zug fallen zu
 > lassen. Je mehr Blasen mit herunterfallen, die nicht direkt Teil der
 > Dreiergruppe waren, desto mehr Bonuspunkte erhältst du. Konzentriere dich auf
 > präzise Bank-Schüsse auf hohe Stellen, um solche Kettenreaktionen auszulösen.
+

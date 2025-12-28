@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### **Spielübersicht**
 
 *Cluster Rush* ist ein schneller First-Person-3D-Platformer mit einem
@@ -31,6 +32,7 @@ jedes neue Level bringt zusätzliche Hindernisse und komplexere
 Truckbewegungen. Es geht um reines Skill-Gameplay, Trial & Error und das
 Meistern der Bewegung, um scheinbar unmögliche Passagen zu knacken.
 
+<!-- i18n:section:tips -->
 ### **Strategie & Tipps**
 
 Erfolg in Cluster Rush basiert auf der Beherrschung der Bewegung und dem Erlernen der Level.
@@ -40,8 +42,8 @@ Erfolg in Cluster Rush basiert auf der Beherrschung der Bewegung und dem Erlerne
     Nur so kannst du Sprünge rechtzeitig planen und im Flow bleiben.
 2.  Momentum ist alles: Deine Sprungweite hängt direkt von deiner
     Laufgeschwindigkeit ab. Nutze Sprint für weite Sprünge, nimm aber bei
-    kurzen Hüpfern rechtzeitig Tempo heraus – permanentes Sprinten ist selten
-    optimal.
+    kurzen Hüpfern rechtzeitig Tempo heraus – du musst nicht 100% der Zeit
+    sprinten.
 3.  Doppelsprung beherrschen: Der Doppelsprung ist dein vielseitigstes Tool.
     Nutze ihn, um zusätzliche Höhe zu gewinnen, in der Luft Zeit zu schinden,
     bis der nächste Truck an der richtigen Stelle ist, oder um eine schlechte
@@ -61,40 +63,49 @@ Erfolg in Cluster Rush basiert auf der Beherrschung der Bewegung und dem Erlerne
     Designs. Analysiere jeden Fehlversuch (zu früh gesprungen, zu langsam,
     falscher Winkel) und passe deinen Ablauf an, statt dich zu ärgern.
 
+<!-- i18n:section:controls -->
 ### **Steuerung**
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `W` `A` `S` `D` `Space Bar` `Space Bar` `Shift` `Esc`
 
 Die Steuerung orientiert sich an gängigen PC-Ego-Spielen.
 
-*   Bewegen: `W`, `A`, `S`, `D`
+*   Bewegen: W, A, S, D
 *   Umschauen: Maus
-*   Springen: `Leertaste`
-*   Doppelsprung: In der Luft erneut `Leertaste`
-*   Sprinten: `Shift` (halten für mehr Tempo)
-*   Pause/Menü: `Esc`
+*   Springen: Leertaste
+*   Doppelsprung: In der Luft erneut Leertaste
+*   Sprinten: Shift (halten für mehr Tempo)
+*   Pause/Menü: Esc
 
 Hinweis: Das Festhalten oder Rutschen an Truckseiten passiert automatisch,
 wenn du in der Luft Kontakt mit der Seitenfläche bekommst – es ist kein
 separater Tastendruck nötig.
 
+<!-- i18n:section:faq -->
 ### **Häufige Fragen (FAQ)**
 
+<!-- i18n:faq:id=faq:cluster-rush:are-the-truck-movements-random-be617a70 -->
 **1. Sind die Truck-Bewegungen zufällig?**
 > Nein. Jede Stage hat feste Muster. Auch wenn alles chaotisch wirkt, fahren
 > die Trucks bei jedem Versuch dieselbe Route, sodass du Abläufe auswendig
 > lernen kannst.
 
+<!-- i18n:faq:id=faq:cluster-rush:i-keep-falling-short-on-649d9d33 -->
 **2. Ich komme bei weiten Sprüngen ständig zu kurz – warum?**
 > Fast immer ist zu wenig Anlauf oder fehlender Sprint schuld. Sorge dafür,
 > dass du ein paar Schritte Anlauf hast und `Shift` gedrückt hältst, bevor du
 > abspringst.
 
+<!-- i18n:faq:id=faq:cluster-rush:is-there-a-way-to-6e9d3d04 -->
 **3. Gibt es Checkpoints innerhalb eines Levels?**
 > Nein, Levels müssen in einem Rutsch geschafft werden. Das gehört zum
 > Schwierigkeitsgrad des Spiels.
 
+<!-- i18n:faq:id=faq:cluster-rush:how-do-i-unlock-new-53282a9c -->
 **4. Wie schalte ich neue Level/Welten frei?**
 > Indem du die vorherigen Level der Reihe nach abschließt.
 
+<!-- i18n:faq:id=faq:cluster-rush:some-levels-seem-impossible-an-f5bf51b6 -->
 **5. Ein Level wirkt unmöglich – was tun?**
 > Mach eine Pause und versuche es später erneut. Schau dir bei Bedarf ein
 > Video zu genau diesem Level an, um alternative Routen oder spezielle Tricks

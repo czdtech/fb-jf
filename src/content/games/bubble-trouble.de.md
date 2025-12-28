@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 *Bubble Trouble* ist ein rasantes Arcade-Actionspiel. Du steuerst eine kleine,
@@ -36,6 +37,7 @@ läuft die Zeit auf null, ist die Runde verloren. Mit jedem Level steigen Zahl
 und Geschwindigkeit der Blasen, die Startaufstellungen werden komplexer und die
 Zeitlimits knapper. Beliebt ist außerdem der kooperative Zweispieler-Modus.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 -   Größte Blasen zuerst: Konzentriere dich möglichst früh auf die größten
@@ -65,6 +67,7 @@ Zeitlimits knapper. Beliebt ist außerdem der kooperative Zweispieler-Modus.
     seine Seite. So rennt ihr euch nicht gegenseitig in die Quere und deckt den
     Bildschirm besser ab.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Die Steuerung ist einfach gehalten und auf schnelle Reaktionen ausgelegt.
@@ -80,24 +83,30 @@ Die Steuerung ist einfach gehalten und auf schnelle Reaktionen ausgelegt.
 *(Hinweis: In manchen Versionen können sich die Tasten für Spieler 2 leicht
 unterscheiden, z. B. X und C für Bewegung und W zum Schießen.)*
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:bubble-trouble:is-it-possible-to-shoot-be222ac0 -->
 **1. Kann ich auch diagonal schießen?**
 > Nein, du kannst die Harpune nur senkrecht nach oben schießen. Die
 > Herausforderung besteht darin, deine Figur so zu positionieren, dass der
 > Schuss unter den bewegten Blasen hindurchgeht.
 
+<!-- i18n:faq:id=faq:bubble-trouble:how-do-powerups-work-75e3d639 -->
 **2. Wie funktionieren Power-ups?**
 > Power-ups erscheinen zufällig, wenn du Blasen platzen lässt. Du musst mit
 > deiner Figur über das fallende Symbol laufen, um es einzusammeln. In der
 > Regel wirken Power-ups nur für kurze Zeit.
 
+<!-- i18n:faq:id=faq:bubble-trouble:what-is-the-best-powerup-0ce3499e -->
 **3. Welches Power-up ist am besten?**
 > Das ist Geschmackssache, aber der Shield ist besonders wertvoll, weil er dich
 > vor Lebensverlust schützt. Die Sticky Harpoon ist ebenfalls extrem stark, um
 > viele Blasen auf einmal zu beseitigen.
 
+<!-- i18n:faq:id=faq:bubble-trouble:what-happens-when-the-timer-5c991ddc -->
 **4. Was passiert, wenn der Timer abläuft?**
 > Läuft die Zeit ab, bevor du alle Blasen zerstört hast, verlierst du ein Leben
 > und musst das Level neu starten. Hast du keine Leben mehr übrig, ist das
 > Spiel vorbei.
+

@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 *Bullet Force* ist ein schneller, moderner Mehrspieler-Ego-Shooter (FPS), der
@@ -41,6 +42,7 @@ möchte, nutzt den Offline-Modus mit anpassbaren KI-Bots.
 -   **Gun Game:** Du startest mit einer einfachen Pistole und erhältst mit
     jedem Kill automatisch die nächste Waffe in einer festgelegten Liste.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 -   Bewegung meistern: Bullet Force spielt sich eher arcadelastig. Wer still
@@ -69,19 +71,22 @@ möchte, nutzt den Offline-Modus mit anpassbaren KI-Bots.
     kennenzulernen oder frische Waffenbuilds zu testen – ganz ohne Druck in
     echten Matches.
 
+<!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `W` `A` `S` `D` `Spacebar` `Shift` `C` `Right Mouse Button` `Left Mouse Button` `R` `1` `2` `3` `E` `Tab`
 
 #### PC (Tastatur & Maus)
--   Bewegung: `W`, `A`, `S`, `D`
--   Springen: `Leertaste`
--   Sprinten: `Shift`
--   Ducken/Slide: `C`
--   Zielen (ADS): `Rechte Maustaste`
--   Schießen: `Linke Maustaste`
--   Nachladen: `R`
--   Waffe wechseln: `1`, `2`, `3` oder Mausrad
--   Interagieren: `E`
--   Scoreboard anzeigen: `Tab`
+-   Bewegung: W, A, S, D
+-   Springen: Leertaste
+-   Sprinten: Shift
+-   Ducken/Slide: C
+-   Zielen (ADS): Rechte Maustaste
+-   Schießen: Linke Maustaste
+-   Nachladen: R
+-   Waffe wechseln: 1, 2, 3 oder Mausrad
+-   Interagieren: E
+-   Scoreboard anzeigen: Tab
 
 #### Mobile (Touchscreen)
 -   Bewegung: Virtueller Joystick auf der linken Bildschirmseite.
@@ -89,14 +94,17 @@ möchte, nutzt den Offline-Modus mit anpassbaren KI-Bots.
 -   Schießen, Zielen, Nachladen, Springen, Ducken: Eigene Bildschirmbuttons,
     die du in den Optionen oft anpassen kannst.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:bullet-force:how-do-i-unlock-new-d90ff5bd -->
 **1. Wie schalte ich neue Waffen und Aufsätze frei?**
 > Durch gespielte Matches erhältst du Credits – abhängig von Kills,
 > abgeschlossenen Zielen und deiner Gesamtleistung. Diese Credits kannst du im
 > "Loadout"- oder "Armory"-Menü ausgeben, um neue Primär- und Sekundärwaffen
 > sowie eine Vielzahl an Aufsätzen freizuschalten.
 
+<!-- i18n:faq:id=faq:bullet-force:what-are-killstreaks-and-how-78022d7b -->
 **2. Was sind Killstreaks und wie nutze ich sie?**
 > Killstreaks sind Spezialfähigkeiten, die du erhältst, wenn du mehrere Kills
 > in Folge ohne Tod erzielst. Sobald du sie freigeschaltet hast, erscheint ein
@@ -104,13 +112,16 @@ möchte, nutzt den Offline-Modus mit anpassbaren KI-Bots.
 > Gegner auf der Minimap), **Haste** (schnelleres Laufen) oder einen
 > **Advanced UAV** aktivieren.
 
+<!-- i18n:faq:id=faq:bullet-force:what-is-the-best-weapon-7c7a9090 -->
 **3. Welche Waffe ist die "beste" im Spiel?**
 > Es gibt keine absolut beste Waffe – viel hängt von deiner Spielweise und der
 > aktuellen Karte ab. Beliebt und effektiv sind etwa die FAMAS mit ihrem
 > präzisen Burst-Feuer, die M4A1 als vielseitiges Allround-Gewehr oder die
 > Vector mit extrem hoher Feuerrate im Nahkampf.
 
+<!-- i18n:faq:id=faq:bullet-force:can-i-play-with-my-501f32fd -->
 **4. Kann ich mit Freunden zusammenspielen?**
 > Ja. Im Multiplayer-Menü kannst du über "Create Room" einen eigenen Raum
 > erstellen, Optionen und Passwort festlegen und Name sowie Passwort an deine
 > Freunde weitergeben, damit sie beitreten können.
+

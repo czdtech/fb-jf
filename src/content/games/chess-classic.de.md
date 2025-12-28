@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 *Chess Classic* bringt das zeitlose Schach-Erlebnis direkt in deinen Browser.
@@ -25,6 +26,7 @@ KI mit einstellbaren Schwierigkeitsgraden testen. Gespielt wird nach den
 international üblichen Schachregeln – eine ideale Umgebung, um Mattbilder zu
 lernen, Eröffnungen zu üben und Endspiele zu trainieren.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  Zentrum kontrollieren: In der Eröffnung solltest du mit Bauern und Figuren
@@ -44,6 +46,7 @@ lernen, Eröffnungen zu üben und Endspiele zu trainieren.
     Läufer=3, Turm=5, Dame=9). So kannst du besser einschätzen, ob ein Tausch
     günstig oder ungünstig ist.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 *   Figur wählen: Klicke auf eine Figur, um sie auszuwählen. Gültige Züge
@@ -53,13 +56,16 @@ lernen, Eröffnungen zu üben und Endspiele zu trainieren.
 *   Optionen: Über das In-Game-Menü kannst du die Schwierigkeit wählen, Züge
     zurücknehmen oder eine neue Partie starten.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:chess-classic:q-what-is-the-goal-6d35f14b -->
 *   F: Was ist das Ziel beim Schach?
     *   A: Ziel ist es, den gegnerischen König schachmatt zu setzen – also ihn
         so anzugreifen, dass er im Schach steht und keinen legalen Zug mehr hat,
         um dem Schach zu entkommen.
 
+<!-- i18n:faq:id=faq:chess-classic:q-what-is-castling-a21a9b5d -->
 *   F: Was ist die Rochade?
     *   A: Die Rochade ist ein Sonderzug, bei dem sich König und Turm
         gleichzeitig bewegen: Der König zieht zwei Felder Richtung Turm, dieser
@@ -67,8 +73,10 @@ lernen, Eröffnungen zu üben und Endspiele zu trainieren.
         zwischen den beiden, keiner der beiden ist zuvor gezogen, und der König
         steht weder im Schach noch zieht er durch ein angegriffenes Feld.
 
+<!-- i18n:faq:id=faq:chess-classic:q-what-happens-if-no-33cac195 -->
 *   F: Wie endet eine Partie remis?
     *   A: Es gibt mehrere Wege zum Remis – z. B. Patt (kein legaler Zug, aber
         König nicht im Schach), dreifache Stellungswiederholung, unzureichendes
         Material zum Mattsetzen oder wenn beide Spieler sich auf ein Unentschieden
         einigen.
+

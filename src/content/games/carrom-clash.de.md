@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 *Carrom Clash* ist eine realistische digitale Umsetzung des beliebten
@@ -26,6 +27,7 @@ versuchst du mit einem größeren Spielstein, dem Striker, deine eigenen Steine
 Gefühl für Winkel und kluge Taktik entscheiden darüber, wer seine Steine zuerst
 vollständig abräumt.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  Ziel des Spiels: Sei der erste Spieler, der alle eigenen Steine versenkt –
@@ -43,6 +45,7 @@ vollständig abräumt.
 5.  Banden nutzen: Nutze die Brettkanten wie beim Billard. Über Bandenstöße
     erreichst du auch ungünstig liegende Steine oder legst taktische Safeties.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 *   Striker positionieren: Ziehe den Striker mit der Maus oder per Touch an die
@@ -51,17 +54,22 @@ vollständig abräumt.
     Ziellinie zeigt Richtung und Stärke an. Je weiter du ziehst, desto stärker
     der Stoß. Lass los, um zu schießen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:carrom-clash:q-what-does-it-mean-26e80b2b -->
 *   F: Was bedeutet es, die Dame zu "decken"?
     *   A: Hast du die rote Dame regelkonform versenkt, musst du im nächsten
         Stoß derselben Runde einen eigenen Stein lochen. Gelingt das nicht,
         wird die Dame zurück in die Mitte gelegt.
 
+<!-- i18n:faq:id=faq:carrom-clash:q-what-happens-if-i-e017b31e -->
 *   F: Was passiert, wenn ich den Striker versenke?
     *   A: Das gilt als Foul. Du verlierst deinen Zug und musst meist einen
         bereits versenkten eigenen Stein zurück ins Spiel bringen.
 
+<!-- i18n:faq:id=faq:carrom-clash:q-what-if-i-pocket-632057db -->
 *   F: Was, wenn ich einen gegnerischen Stein loche?
     *   A: In der Regel endet dein Zug sofort. Du erhältst keinen Bonusstoß –
         weiter geht es erst wieder, wenn du eigene Steine versenkst.
+

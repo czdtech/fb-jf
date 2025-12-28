@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### **Spielübersicht**
 
 *Color Burst 3D* ist ein schnelles, reflexlastiges Arcade-Spiel. Du steuerst
@@ -31,6 +32,7 @@ Mit der Zeit erhöht sich die Geschwindigkeit, die Ringe drehen schneller und
  sodass du dich ständig umstellen musst. Ziel ist es, möglichst lange zu
 überleben, viele Ringe zu passieren und deinen Highscore zu knacken.
 
+<!-- i18n:section:tips -->
 ### **Strategie & Tipps**
 
 1.  Timing vor Position: Das Spiel ist stärker zeit- als positionsbasiert.
@@ -52,6 +54,7 @@ Mit der Zeit erhöht sich die Geschwindigkeit, die Ringe drehen schneller und
     treffen willst, statt den ganzen Ring im Blick zu behalten. So lenkst du
     deinen Fokus auf das Wesentliche.
 
+<!-- i18n:section:controls -->
 ### **Steuerung**
 
 Die Steuerung ist auf Ein-Finger-Bedienung ausgelegt.
@@ -60,20 +63,26 @@ Die Steuerung ist auf Ein-Finger-Bedienung ausgelegt.
     Bildschirmrand und ziehe nach links oder rechts, um die horizontale
     Position des Balls anzupassen.
 
+<!-- i18n:section:faq -->
 ### **Häufige Fragen (FAQ)**
 
+<!-- i18n:faq:id=faq:color-burst-3d:what-happens-if-i-hit-8679a7a1 -->
 **1. Was passiert, wenn ich die falsche Farbe berühre?**
 > Die Runde endet sofort. Grundregel: Nur das Segment in Ballfarbe ist
 > "sicher".
 
+<!-- i18n:faq:id=faq:color-burst-3d:does-the-ball-always-change-6c682eb1 -->
 **2. Wechselt der Ball immer die Farbe?**
 > In den meisten Varianten ändert der Ball nach einem Ring oder nach speziellen
 > Farb-Icons seine Farbe. Du musst also permanent aufmerksam bleiben.
 
+<!-- i18n:faq:id=faq:color-burst-3d:how-do-i-get-a-06d67069 -->
 **3. Wie erreiche ich hohe Scores?**
 > Dein Score basiert direkt auf der Anzahl der durchquerten Ringe – je länger
 > du fehlerfrei spielst, desto höher wird er.
 
+<!-- i18n:faq:id=faq:color-burst-3d:is-this-game-endless-f7d8f28a -->
 **4. Hat das Spiel ein Ende?**
 > Nein, *Color Burst 3D* ist als Endlos-Arcade-Spiel angelegt. Es geht darum,
 > immer wieder neue persönliche Bestleistungen aufzustellen.
+

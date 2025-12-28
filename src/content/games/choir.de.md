@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### **Spielübersicht**
 
 *Blob Opera* ist kein klassisches Spiel mit Leveln oder Siegbedingungen,
@@ -32,6 +33,7 @@ Ziel ist weniger das Gewinnen, sondern das kreative Ausprobieren und der Spaß
 daran, auch ohne musikalische Vorkenntnisse schöne (oder herrlich absurde)
 Chorstücke zu bauen.
 
+<!-- i18n:section:tips -->
 ### **Strategie & Tipps**
 
 Da es keine Punkte oder Ziele gibt, dreht sich alles darum, interessante Musik
@@ -60,6 +62,7 @@ zu erschaffen.
     thematischen Liedern. Achte auf Symbole wie einen Weihnachtsbaum, um
     den Modus zu wechseln.
 
+<!-- i18n:section:controls -->
 ### **Steuerung**
 
 Die Bedienung ist auf Maus oder Touch ausgelegt und sehr intuitiv.
@@ -77,27 +80,34 @@ Die Bedienung ist auf Maus oder Touch ausgelegt und sehr intuitiv.
 *   Themen-Umschalter (z. B. Tannenbaum): Wechselt in spezielle Themenmodi mit
     neuen Hintergründen und Playlists.
 
+<!-- i18n:section:faq -->
 ### **Häufige Fragen (FAQ)**
 
+<!-- i18n:faq:id=faq:choir:is-there-a-goal-or-4d6a8e01 -->
 **1. Gibt es ein Ziel oder ein Ende?**
 > Nein, Blob Opera ist ein Sandbox-Erlebnis ohne Punkte oder Level. Das "Ziel"
 > ist, zu experimentieren, Spaß zu haben und Klänge zu erzeugen, die dir
 > gefallen.
 
+<!-- i18n:faq:id=faq:choir:are-the-voices-from-real-aac0e838 -->
 **2. Sind die Stimmen echt?**
 > Die Klänge werden von einem Modell erzeugt, das auf vielen Stunden
 > Aufnahmen vier echter Opernsänger basiert. Du hörst also keine direkten
 > Mitschnitte, aber die Klangfarbe stammt von realen Stimmen.
 
+<!-- i18n:faq:id=faq:choir:can-i-make-the-blobs-905393c0 -->
 **3. Können die Blobs echte Worte singen?**
 > Nein. Du steuerst nur Tonhöhe und Vokale. Da keine Konsonanten erzeugt
 > werden, können sie keine richtigen Texte singen.
 
+<!-- i18n:faq:id=faq:choir:how-do-i-save-my-0366db22 -->
 **4. Wie speichere ich meine Musik?**
 > Es gibt keinen direkten Export als Datei wie MP3. Stattdessen nimmst du im
 > Spiel auf und erhältst einen Link, über den deine Komposition jederzeit
 > abspielbar ist.
 
+<!-- i18n:faq:id=faq:choir:is-the-game-free-to-dc95d7ac -->
 **5. Kostet das Spiel etwas?**
 > Nein, Blob Opera ist ein kostenloses Web-Experiment und läuft in jedem
 > modernen Browser.
+

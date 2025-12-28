@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 *Cannon Balls 3D* ist ein physikbasiertes Puzzlespiel, in dem du mit einer
@@ -26,6 +27,7 @@ begrenzten Zahl an Kanonenkugeln zerstören musst. Entscheidend ist nicht nur
 präzises Zielen, sondern vor allem ein gutes Auge für statische Schwachstellen,
 um mit wenigen Schüssen größtmögliche Kettenreaktionen auszulösen.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  Struktur analysieren: Schau dir das Gebäude vor dem ersten Schuss genau an.
@@ -41,6 +43,7 @@ um mit wenigen Schüssen größtmögliche Kettenreaktionen auszulösen.
     Spezialblöcken. Ein gut platzierter Treffer dort kann große Teile der
     Struktur wegsprengen und dir mehrere Schüsse ersparen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Die Steuerung ist simpel und direkt.
@@ -49,19 +52,24 @@ Die Steuerung ist simpel und direkt.
     drehen und den Abschusswinkel nach oben/unten einzustellen.
 *   Feuern: Klicke mit der linken Maustaste, um eine Kanonenkugel abzufeuern.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:cannon-balls-3d:q-how-do-i-know-1fe9eb55 -->
 *   F: Woran erkenne ich, dass ich ein Level geschafft habe?
     *   A: Meist ist ein Ziel, etwa eine horizontale Linie, markiert. Du musst
         die Konstruktion so weit zum Einsturz bringen, dass alle verbleibenden
         Teile unterhalb dieser Linie liegen – dann gilt das Level als
         bestanden.
 
+<!-- i18n:faq:id=faq:cannon-balls-3d:q-i-ran-out-of-92a66517 -->
 *   F: Ich habe keine Kugeln mehr, die Struktur steht aber noch – was nun?
     *   A: In diesem Fall musst du das Level neu starten und eine andere
         Schussfolge ausprobieren.
 
+<!-- i18n:faq:id=faq:cannon-balls-3d:q-is-it-better-to-964b6eec -->
 *   F: Bringt schnelles Schießen einen Vorteil?
     *   A: Nein, sorgfältig gezielte Schüsse sind fast immer besser. Da deine
         Munition begrenzt ist, ist ein einziges, perfekt platziertes Projektil
         wertvoller als mehrere zufällige Treffer.
+

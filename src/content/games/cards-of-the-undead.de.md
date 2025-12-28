@@ -18,6 +18,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 *Cards of the Undead* ist ein rundenbasiertes Roguelike-Puzzlespiel in einer
@@ -30,6 +31,7 @@ Dein Ziel ist es, dich möglichst clever über das Feld zu bewegen, deine
 Lebenspunkte im Blick zu behalten, alle Zombies zu besiegen und dabei so lange
 wie möglich zu überleben.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  Vor dem Zug prüfen: Vergleiche vor jedem Zug auf eine Zombie-Karte die
@@ -46,6 +48,7 @@ wie möglich zu überleben.
     Ein Stufenaufstieg füllt deine Lebenspunkte auf und verbessert deine
     Werte, wodurch du auf kommende Begegnungen besser vorbereitet bist.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Das Spiel wird vollständig mit Maus oder Touch bedient.
@@ -54,18 +57,23 @@ Das Spiel wird vollständig mit Maus oder Touch bedient.
     vertikal oder diagonal), um deinen Helden auf dieses Feld zu ziehen und die
     Karte aufzudecken.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:cards-of-the-undead:q-how-does-combat-work-9d54cfd9 -->
 *   F: Wie funktioniert der Kampf?
     *   A: Der Kampf läuft automatisch ab. Betrittst du eine Zombie-Karte,
         kämpfst du sofort. Du erleidest Schaden, aber wenn du überlebst,
         verschwindet der Zombie dauerhaft vom Brett.
 
+<!-- i18n:faq:id=faq:cards-of-the-undead:q-what-is-the-goal-3d50112b -->
 *   F: Was ist das Ziel eines Levels?
     *   A: In der Regel sollst du alle Zombie-Karten auf dem Feld besiegen.
         Münzen mitzunehmen ist ein wichtiges Neben-Ziel, weil du damit neue
         Helden für spätere Durchläufe freischaltest.
 
+<!-- i18n:faq:id=faq:cards-of-the-undead:q-what-happens-if-i-3bdd7c15 -->
 *   F: Was passiert, wenn meine Lebenspunkte auf 0 fallen?
     *   A: Dann ist der Run vorbei und du musst einen neuen Versuch starten –
         idealerweise mit dem Wissen aus deinem letzten Durchgang.
+

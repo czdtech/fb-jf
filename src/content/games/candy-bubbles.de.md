@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 *Candy Bubbles* ist eine süße, bonbonbunte Variante des klassischen
@@ -26,6 +27,7 @@ bildest Gruppen aus mindestens drei Blasen derselben Farbe, damit sie platzen.
 Mit vielen Leveln, kleinen Rätselkniffen und befriedigenden Kettenreaktionen
 ist es ein entspannendes Puzzle für jedes Alter.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  Hoch zielen: Wie in jedem Bubble-Shooter bringt es am meisten, möglichst
@@ -44,6 +46,7 @@ ist es ein entspannendes Puzzle für jedes Alter.
     obere Linie und schiebt die Blasen näher an deine Kanone. Erreicht eine
     Blase die untere Begrenzung, ist die Runde verloren.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 *   Zielen: Bewege die Maus, um die Kanone auszurichten. Eine Hilfslinie zeigt
@@ -52,19 +55,24 @@ ist es ein entspannendes Puzzle für jedes Alter.
 *   Tauschen (falls verfügbar): In manchen Versionen kannst du per Button die
     aktuelle mit der nächsten Blase in der Warteschlange tauschen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:candy-bubbles:q-what-is-the-goal-7ed4507e -->
 *   F: Was ist das Ziel eines Levels?
     *   A: In der Regel musst du alle Blasen vom Bildschirm entfernen. Einige
         Level haben Sonderziele, etwa bestimmte Objekte zu befreien, die in
         Blasen eingeschlossen sind.
 
+<!-- i18n:faq:id=faq:candy-bubbles:q-how-do-i-get-da481c1b -->
 *   F: Wie bekomme ich die höchste Punktzahl?
     *   A: Indem du große Blasencluster auf einmal fallen lässt. Drei Blasen zu
         treffen bringt nur Basispunkte – wenn du aber mit einem Schuss ein
         Dutzend mit herunterreißt, erhältst du riesige Komboboni.
 
+<!-- i18n:faq:id=faq:candy-bubbles:q-i-have-a-bubble-fd61d78a -->
 *   F: Ich habe eine Blasenfarbe, die ich nicht gebrauchen kann – was tun?
     *   A: Versuche, sie an eine Stelle zu schießen, an der sie später nicht
         stört oder sogar nützlich werden könnte. Wenn es eine Tauschfunktion
         gibt, prüfe, ob die nächste Blase besser passt.
+

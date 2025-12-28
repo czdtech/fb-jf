@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 *Cat Sort Quest* übernimmt das beliebte Sortier-Puzzle-Prinzip: Auf jeder
@@ -28,6 +29,7 @@ auf jeder Stange nur noch eine Farbe zu haben.
 Die wenigen freien Sitzstangen dienen als Puffer, weshalb vorausschauendes
 Planen entscheidend ist.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  Einen Puffer freihalten: Versuche, zumindest eine Sitzstange so lange wie
@@ -44,6 +46,7 @@ Planen entscheidend ist.
 5.  Teilstapel zusammenführen: Sobald es möglich ist, solltest du
     Teilstapel derselben Farbe zusammenlegen, um Sitzstangen freizuräumen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Tippe oder klicke auf eine Sitzstange, um die oberste Katze aufzunehmen, und
@@ -52,21 +55,26 @@ Planen entscheidend ist.
 - Nutze Rückgängig/Reset, falls verfügbar; in späten Rätseln können Hinweise
   helfen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:cat-sort-quest:im-out-of-moves-what-8be51906 -->
 - Keine Züge mehr – was jetzt?
   
   Mache einige Schritte rückgängig, bis wieder eine Pufferstange frei wird.
   Konzentriere dich darauf, vergrabene Einzelkatzen freizulegen und
   Teilstapel gleicher Farbe zusammenzuführen.
 
+<!-- i18n:faq:id=faq:cat-sort-quest:is-there-an-optimal-order-2773f269 -->
 - Gibt es eine optimale Reihenfolge für die Farben?
   
   Priorisiere Farben, bei denen du mit wenigen Zügen eine ganze Stange
   aufräumen kannst, und kümmere dich danach um die höchsten Mischstapel.
 
+<!-- i18n:faq:id=faq:cat-sort-quest:do-i-need-every-move-7fdeaf28 -->
 - Muss wirklich jeder Zug perfekt sein?
   
   Nein. Wichtig ist, flexibel zu bleiben. Kurze Backtracks und clevere Nutzung
   der Puffer bringen mehr als der Versuch, jeden Zug im Voraus zu
   perfektionieren.
+

@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 *Cat Mario*, ursprünglich bekannt als *Syobon Action* (しょぼんのアクション), ist
@@ -35,6 +36,7 @@ Absurdität und Gemeinheit vieler Tode – der Lebenszähler, der gerne in den
 negativen Bereich rutscht, ist Teil des Witzes. Dein einziges Ziel: Irgendwie
 die Zielflagge am Ende jeder Stage erreichen, ohne vor Frust aufzugeben.
 
+<!-- i18n:section:tips -->
 ### Strategie & Walkthrough-Grundlagen
 
 Eine klassische Strategie gibt es kaum – entscheidend sind Geduld und
@@ -66,6 +68,7 @@ Gedächtnis.
         hinüberspringen, auf einem versteckten Block landen und von dort aus
         zur Burg laufen. Die Fahne selbst ist eine Falle.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Die Steuerung ist sehr schlicht und ähnelt klassischen 2D-Plattformspieln.
@@ -75,24 +78,30 @@ Die Steuerung ist sehr schlicht und ähnelt klassischen 2D-Plattformspieln.
 
 Es gibt keinen separaten Sprint- oder Feuerschuss-Button.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:cat-mario:why-do-i-keep-dying-8804d489 -->
 **1. Warum sterbe ich ständig "grundlos"? Das Spiel ist doch unmöglich!**
 > Genau darin liegt der Reiz. *Cat Mario* ist bewusst unfair gestaltet und
 > bricht alle üblichen Plattforming-Regeln. Jede Falle sitzt dort, wo du sie am
 > wenigsten erwartest. Es ist schaffbar – aber nur mit viel Geduld und
 > Auswendiglernen.
 
+<!-- i18n:faq:id=faq:cat-mario:how-many-lives-do-i-05175204 -->
 **2. Wie viele Leben habe ich? Mein Zähler ist bereits negativ.**
 > Du hast faktisch unendlich viele Leben. Dass der Zähler ins Minus rutscht, ist
 > ein Running Gag der Entwickler. Er zählt nur deine Tode mit, ohne jemals ein
 > "Game Over" zu erzwingen.
 
+<!-- i18n:faq:id=faq:cat-mario:is-there-a-way-to-8a1027e6 -->
 **3. Kann ich Fallen irgendwie vorhersehen?**
 > Beim ersten Durchlauf nicht. Du lernst ihre Position nur, indem du sie
 > auslöst. Beim nächsten Versuch weißt du dann, was dich erwartet.
 
+<!-- i18n:faq:id=faq:cat-mario:whats-the-real-name-of-0cf1a388 -->
 **4. Wie heißt das Spiel eigentlich wirklich?**
 > Im englischen Sprachraum ist "Cat Mario" üblich. Der ursprüngliche japanische
 > Titel lautet "Syobon Action" (しょぼんのアクション), gelegentlich wird es auch
 > "Neko Mario" genannt.
+

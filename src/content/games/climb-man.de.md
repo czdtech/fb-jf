@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### **Spielübersicht**
 
 *Climb Man: Walk to the Sky* ist ein schneller, süchtig machender
@@ -33,6 +34,7 @@ oder Fallen tauchen auf. Schon ein einziger Fehlklick beendet deinen Lauf.
 Ziel ist, möglichst viele Stufen zu erklimmen, Missionen abzuschließen und
 neue Charaktere freizuschalten.
 
+<!-- i18n:section:tips -->
 ### **Strategie & Tipps**
 
 1.  Rhythmus finden: Das Spiel folgt einem klaren Takt. Versuche, in einen
@@ -54,6 +56,7 @@ neue Charaktere freizuschalten.
     dem linken, einer über dem rechten Button. So reagierst du schneller und
     präziser als mit nur einem Finger.
 
+<!-- i18n:section:controls -->
 ### **Steuerung**
 
 Die Steuerung ist auf schnelle Mobile-Sessions ausgelegt.
@@ -63,21 +66,27 @@ Die Steuerung ist auf schnelle Mobile-Sessions ausgelegt.
 *   **Right Climb!**: Tippe auf den rechten Button, um die nächste rechte
     Stufe zu erreichen.
 
+<!-- i18n:section:faq -->
 ### **Häufige Fragen (FAQ)**
 
+<!-- i18n:faq:id=faq:climb-man:what-happens-if-i-press-e7206330 -->
 **1. Was passiert bei einem falschen Tastendruck?**
 > Springst du nach links, obwohl die nächste Stufe rechts liegt (oder umgekehrt),
 > landest du im Nichts und stürzt ab – der Lauf ist sofort vorbei.
 
+<!-- i18n:faq:id=faq:climb-man:how-do-i-get-new-d286df2c -->
 **2. Wie schalte ich neue Charaktere frei?**
 > Über tägliche Login-Belohnungen, Missionsziele und die Ingame-Währung kannst
 > du im Shop bzw. Charakter-Menü neue Figuren kaufen oder freischalten.
 
+<!-- i18n:faq:id=faq:climb-man:what-is-the-goal-of-c816fee5 -->
 **3. Was ist das eigentliche Ziel?**
 > In erster Linie geht es um den höchsten Score: Steige so viele Stufen wie
 > möglich in einem Run. Zweitens kannst du versuchen, alle Missionen zu
 > erfüllen und den gesamten Charakterkader freizuschalten.
 
+<!-- i18n:faq:id=faq:climb-man:is-this-game-endless-f7d8f28a -->
 **4. Ist das Spiel endlos?**
 > Ja, die Treppe wird prozedural generiert und endet nicht – du spielst, bis dir
 > ein Fehler unterläuft.
+

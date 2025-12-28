@@ -15,6 +15,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 *Chess Grandmaster* ist ein voll ausgestattetes Schacherlebnis im Browser –
@@ -24,6 +25,7 @@ Gabeln, Fesselungen, Spieße) und Endspiel (Königsaktivität, Opposition,
 Grundmattbilder). Über anpassbare Schwierigkeitsstufen trainierst du sowohl
 Berechnung als auch Mustererkennung.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  Eröffnung: Entwickle deine Leichtfiguren, rochiere früh und kämpfe um das
@@ -38,6 +40,7 @@ Berechnung als auch Mustererkennung.
 5.  Zeitmanagement: Wenn du wenig Zeit hast, bevorzuge solide, einfache Züge
     statt komplizierter Berechnungen mit hohem Fehlerrisiko.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Klicke eine Figur an, um ihre legalen Züge anzuzeigen, und anschließend das
@@ -45,21 +48,26 @@ Berechnung als auch Mustererkennung.
 - Remis anbieten, aufgeben und die KI-Stufe stellst du über die
   Bildschirmmenüs ein.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:chess-grandmaster:how-do-i-improve-quickly-c83ab99c -->
 - F: Wie werde ich schneller besser?
   
   A: Löse täglich Taktikaufgaben, analysiere deine groben Patzer und lerne ein
   kleines, solides Eröffnungsrepertoire, um immer wieder vertraute
   Mittelspielstellungen zu erreichen.
 
+<!-- i18n:faq:id=faq:chess-grandmaster:any-beginner-opening-tips-d190661c -->
 - F: Tipps für Eröffnungen für Einsteiger?
   
   A: Spiele mit Weiß oft 1.e4 oder 1.d4, entwickle Springer vor Läufern,
   rochiere früh und verbinde deine Türme im Mittelspiel.
 
+<!-- i18n:faq:id=faq:chess-grandmaster:what-endgames-should-i-learn-b6cc754b -->
 - F: Welche Endspiele sollte ich zuerst lernen?
   
   A: Zunächst Mattbilder mit K+D gegen K, K+T gegen K, dann einfache
   König–Bauer-Endspiele mit Opposition sowie Grundideen in Turmendspielen
   (z. B. Lucena- und Philidor-Stellung).
+

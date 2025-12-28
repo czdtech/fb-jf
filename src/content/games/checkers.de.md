@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 Checkers, in vielen Ländern auch als Draughts oder Dame bekannt, ist ein
@@ -42,6 +43,7 @@ Spieler langfristig zu fordern.
 -   Ein **King** darf diagonal sowohl vorwärts als auch rückwärts ziehen und
     schlagen.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 -   Zentrum kontrollieren: Wer die Mitte des Brettes kontrolliert, hat mehr
@@ -58,6 +60,7 @@ Spieler langfristig zu fordern.
 -   Macht der Könige: Der erste König ist oft ein Wendepunkt. Nutze Könige, um
     gegnerische Steine zu jagen und große Teile des Brettes zu kontrollieren.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 In der digitalen Version erfolgt die Bedienung per Mausklick oder Touch.
@@ -70,23 +73,29 @@ In der digitalen Version erfolgt die Bedienung per Mausklick oder Touch.
     Zielfeld; für Kettenschläge klickst du nacheinander auf die weiteren
     Ziel-Felder, bis keine Sprünge mehr möglich sind.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:checkers:is-capturing-an-opponents-piec-f43fe0d8 -->
 **1. Sind Schlagzüge optional?**
 > Nein. Nach gängigen Checkers-Regeln musst du einen Schlag ausführen, wenn er
 > möglich ist. Diese Pflichtschlagregel ist ein zentraler Bestandteil der
 > Taktik.
 
+<!-- i18n:faq:id=faq:checkers:what-happens-if-i-have-78e1801d -->
 **2. Was, wenn ich mehrere Schlagoptionen habe?**
 > Kannst du mit verschiedenen Steinen schlagen, darfst du wählen, welchen du
 > nimmst. Hat einer davon eine längere Schlagkette, muss diese komplette Kette
 > ausgeführt werden.
 
+<!-- i18n:faq:id=faq:checkers:can-a-regular-piece-a-825cd49d -->
 **3. Dürfen normale Steine rückwärts ziehen?**
 > Nein, nur vorwärts in Richtung gegnerische Seite. Rückwärts ziehen und
 > schlagen können ausschließlich Könige.
 
+<!-- i18n:faq:id=faq:checkers:how-does-a-piece-become-a5ba0aca -->
 **4. Wie wird ein Stein zum König?**
 > Sobald ein Stein die gegenüberliegende Grundreihe erreicht, wird er gekrönt.
 > Im Brettspiel legt man oft einen zweiten Stein darauf, in der digitalen
 > Version wird dies durch ein Krönungssymbol dargestellt.
+

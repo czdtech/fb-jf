@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 *Classic Solitaire* (Klondike) ist eines der bekanntesten Solitärspiele der
@@ -50,6 +51,7 @@ freilegen und mit etwas Glück und Planung alle Karten auf die Ablagen bringen.
     *   **Leere Spalten:** Nur ein König (oder eine gültige Sequenz mit einem
         König oben) darf in eine leere Tableau-Spalte gelegt werden.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 *   Karten bewegen: Ziehe per Maus oder Touch eine Karte (oder eine gültige
@@ -59,17 +61,22 @@ den Ablagestapel (Waste) zu legen.
 *   Auto-Move: In vielen Versionen kannst du Karten mit Doppelklick automatisch
     auf die passende Ablage verschieben.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:classic-solitaire:q-what-is-the-goal-ab58581b -->
 *   F: Was ist das eigentliche Ziel?
     *   A: Alle 52 Karten müssen auf den vier Ablagestapeln landen, nach Farbe
         sortiert und von Ass bis König aufgebaut.
 
+<!-- i18n:faq:id=faq:classic-solitaire:q-what-happens-when-i-e8e69d77 -->
 *   F: Was, wenn keine Züge mehr möglich sind?
     *   A: Ziehe zunächst aus dem Talon. Sind auch dort alle Karten verbraucht
         und es gibt keinen legalen Zug mehr, ist die Partie verloren.
 
+<!-- i18n:faq:id=faq:classic-solitaire:q-can-i-move-cards-a79d9fc6 -->
 *   F: Darf ich Karten von der Ablage zurück ins Tableau legen?
     *   A: In den meisten digitalen Varianten ja – zumindest die oberste Karte
         jeder Ablage. Das ist oft wichtig, um weitere verdeckte Karten im
         Tableau aufzudecken.
+

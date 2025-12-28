@@ -15,6 +15,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 *Bunny Quest* ist ein Wegbau-Schiebepuzzle. Du verschiebst Kacheln, um eine
@@ -22,6 +23,7 @@ ununterbrochene Route vom Start bis zum Ziel zu legen. Unterwegs kannst du
 optionale Sammelobjekte einsammeln, solltest aber Sackgassen vermeiden – in
 späteren Leveln sind die verfügbaren Züge begrenzt, sodass jeder Schritt zählt.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  Ecken und Geraden zuerst: Platziere Kurven- und Geraden-Kacheln so, dass
@@ -37,6 +39,7 @@ späteren Leveln sind die verfügbaren Züge begrenzt, sodass jeder Schritt zäh
     sie deine Zugzahl nicht explodieren lassen. Erst das Ziel sichern, dann
     Bonus einsammeln.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Ziehe Kacheln mit der Maus oder per Touch, um sie in Reihen oder Spalten zu
@@ -44,19 +47,24 @@ späteren Leveln sind die verfügbaren Züge begrenzt, sodass jeder Schritt zäh
 - Nutze Rückgängig/Reset, falls verfügbar, um unterschiedliche Routen
   auszuprobieren.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:bunny-quest:stuck-with-one-tile-off-e56af2b3 -->
 - Nur eine Kachel sitzt falsch – was tun?
   
   Versuche, weiter vorne im Pfad umzubauen. Oft hilft es, Start und Ziel zuerst
   zu fixieren und dann den Mittelteil neu zu legen.
 
+<!-- i18n:faq:id=faq:bunny-quest:timers-f7f052c1 -->
 - Gibt es Zeitdruck?
   
   Viele Level arbeiten mit Zugbegrenzungen statt harter Echtzeit-Timer. Du
   kannst also in Ruhe planen, solltest aber keine Züge verschwenden.
 
+<!-- i18n:faq:id=faq:bunny-quest:hints-27c5017f -->
 - Gibt es Hinweise?
   
   In vielen Versionen gibt es ein Hinweissystem. Nutze es sparsam – je mehr du
   selbst tüftelst, desto besser wirst du im Erkennen von Pfaden.
+

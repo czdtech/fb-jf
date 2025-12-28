@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 *Butterfly Shimai* ist ein beruhigendes Puzzlespiel, das Elemente aus Mahjong
@@ -31,6 +32,7 @@ zwei 90-Grad-Knicke hat und nicht durch andere Flügel verläuft. Zusätzlich
 arbeitest du meist gegen ein Zeitlimit – du musst also aufmerksam und zügig
 kombinieren.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  Offensichtliche Paare zuerst: Suche zu Beginn nach Flügeln, die direkt
@@ -49,23 +51,29 @@ kombinieren.
     zurück. Schnelles und kontinuierliches Verbinden ist der Schlüssel, um
     Level rechtzeitig abzuschließen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 *   Auswählen und verbinden: Klicke mit der Maus (oder tippe) zuerst auf einen
     Flügel und anschließend auf seinen identischen Partner. Existiert ein
     gültiger Pfad, entsteht ein Schmetterling und fliegt davon.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:butterfly-shimai:q-what-is-the-goal-d050996d -->
 *   F: Was ist das Ziel von Butterfly Shimai?
     *   A: Du musst alle Flügelpaare finden und verbinden, bevor die Zeit
         abläuft, sodass das komplette Spielfeld leer wird.
 
+<!-- i18n:faq:id=faq:butterfly-shimai:q-what-are-the-rules-0158d4fd -->
 *   F: Welche Verbindungsregeln gelten genau?
     *   A: Zwei identische Flügel dürfen nur verbunden werden, wenn eine Linie
         mit maximal zwei 90-Grad-Knicken zwischen ihnen gezeichnet werden kann
         und diese Linie keine anderen Fliesen schneidet.
 
+<!-- i18n:faq:id=faq:butterfly-shimai:q-what-happens-if-i-b351c844 -->
 *   F: Was passiert, wenn mir die Zeit ausgeht?
     *   A: Läuft der Timer auf null, bevor alle Paare entfernt sind, ist das
         Level verloren und du musst es neu starten.
+

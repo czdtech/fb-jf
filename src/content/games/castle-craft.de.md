@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 *Castle Craft* ist ein fesselndes Merge-und-Aufbau-Puzzlespiel, in dem du ein
@@ -29,6 +30,7 @@ Indem du Ressourcen wie Weizen, Holz oder Stein geschickt zusammenführst,
 erfüllst du Quests, verdienst Währung und lichtest den Nebel, der neue
 Gebiete verbirgt. So wächst dein Reich mit jeder Fusion weiter.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  Merge-5 meistern: Auch wenn das Kombinieren von drei Objekten die
@@ -50,6 +52,7 @@ Gebiete verbirgt. So wächst dein Reich mit jeder Fusion weiter.
     Nebelfelder öffnen. Bevorzuge Bereiche, die dir viel Baufläche geben oder
     klar erkennbare Questobjekte freilegen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Das Spiel wird komplett mit Maus oder Touch gesteuert.
@@ -62,20 +65,25 @@ Das Spiel wird komplett mit Maus oder Touch gesteuert.
 *   Ressourcen einsammeln: Klicke auf automatisch erscheinende Ressourcen (z.
     B. Weizen vom Feld), um sie deinem Vorrat hinzuzufügen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:castle-craft:q-what-is-the-main-0487282f -->
 *   F: Was ist das Hauptziel in Castle Craft?
     *   A: Du sollst dein Königreich wiederaufbauen, indem du Items mergst,
         Quests für deine Bewohner erfüllst und den Nebel vertreibst, um neue
         Gebiete freizuschalten.
 
+<!-- i18n:faq:id=faq:castle-craft:q-how-do-i-get-c938657e -->
 *   F: Wie bekomme ich mehr Schlüssel zum Freischalten von Land?
     *   A: Schlüssel erhältst du hauptsächlich durch abgeschlossene Quests und
         Handelsaufträge. Konzentriere dich auf diese Aufgaben, wenn du neue
         Sektoren öffnen möchtest.
 
+<!-- i18n:faq:id=faq:castle-craft:q-whats-the-difference-between-a7c4a0ac -->
 *   F: Worin liegt der Unterschied zwischen Merge-3 und Merge-5?
     *   A: Merge-3 gibt dir ein einziges höherstufiges Item. Bei Merge-5
         erhältst du zwei davon und damit effektiv eines gratis. Wann immer es
         möglich ist, lohnt es sich zu warten, bis du fünf gleiche Objekte
         zusammenführen kannst.
+

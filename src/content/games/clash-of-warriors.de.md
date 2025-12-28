@@ -15,6 +15,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 *Clash of Warriors* destilliert Kartengefechte in kurze, taktische Runden. Du
@@ -22,6 +23,7 @@ spielst Einheiten und Zauber aus, baust Zug um Zug Tempo auf und versuchst,
 mit effizienten Trades und gutem Ressourcenmanagement das Brett zu
 kontrollieren.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  Kurve einhalten: Versuche, in jedem Zug deine verfügbaren Ressourcen (z. B.
@@ -40,6 +42,7 @@ kontrollieren.
     die ersten Runden Ausschau – zu teure Karten in der Starthand solltest du
     meist abwerfen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Spiele Karten per Klick oder Tap aus deiner Hand aufs Spielfeld.
@@ -48,18 +51,23 @@ kontrollieren.
 - Halte den Mauszeiger über Karten bzw. tippe sie an, um ihre Effekte zu
   lesen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:clash-of-warriors:is-rng-decisive-333feb22 -->
 - Ist Zufall (RNG) entscheidend?
   
   Ziehglück spielt eine Rolle, aber in knappen Partien entscheiden vor allem
   Linienwahl, Sequencing deiner Züge und das Verständnis deines Decks.
 
+<!-- i18n:faq:id=faq:clash-of-warriors:paytowin-521c5563 -->
 - Ist das Spiel Pay-to-Win?
   
   Browservarianten sind meist in sich abgeschlossene Erlebnisse ohne harte
   Monetarisierung – dein Erfolg hängt primär von deinen Entscheidungen ab.
 
+<!-- i18n:faq:id=faq:clash-of-warriors:fast-mode-f7a3450e -->
 - Eignet es sich für kurze Sessions?
   
   Ja, Partien sind in der Regel kurz und damit ideal für zwischendurch.
+

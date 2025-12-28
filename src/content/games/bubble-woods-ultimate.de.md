@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 *Bubble Woods Ultimate* ist ein energiegeladener, temporeicher Bubble-Shooter,
@@ -28,6 +29,7 @@ auszulösen und massenhaft Punkte einzuheimsen.
 Dank mächtiger Booster und eines Levelsystems, das präzises und schnelles Spiel
 belohnt, wird jede Runde zu einem kleinen Sprint um den Highscore.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  Tempo ist alles: Mit nur 60 Sekunden auf der Uhr zählt jede Aktion. Zögere
@@ -49,6 +51,7 @@ belohnt, wird jede Runde zu einem kleinen Sprint um den Highscore.
     *   Hourglass (Stundenglas): Das wertvollste Symbol – ein Treffer fügt
         deiner Uhr einige wertvolle Sekunden hinzu.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 *   Zielen: Bewege die Maus, um die Kanone auszurichten.
@@ -57,16 +60,21 @@ belohnt, wird jede Runde zu einem kleinen Sprint um den Highscore.
     Blase in der Warteschlange klicken, um zwischen der aktuellen und der
     kommenden Blase zu wechseln.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:bubble-woods-ultimate:q-what-is-the-main-212faaec -->
 *   F: Was ist das Hauptziel?
     *   A: Innerhalb von 60 Sekunden so viele Punkte wie möglich zu erzielen.
 
+<!-- i18n:faq:id=faq:bubble-woods-ultimate:q-how-do-i-get-dab4fb8d -->
 *   F: Wie bekomme ich mehr Zeit?
     *   A: Zusätzliche Sekunden erhältst du ausschließlich über die speziellen
         Hourglass-Blasen, die auf dem Spielfeld auftauchen.
 
+<!-- i18n:faq:id=faq:bubble-woods-ultimate:q-what-is-the-bar-7e10f73f -->
 *   F: Was bedeutet die Leiste unten neben der Kanone?
     *   A: Das ist deine Fireball-Anzeige. Sie füllt sich mit jedem erfolgreichen
         Treffer. Nach 10 Treffern in Folge ist sie voll und dein nächster
         Schuss wird zu einem mächtigen Fireball.
+

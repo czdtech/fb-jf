@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 *Chess Mania* bietet ein komfortables Schacherlebnis für alle, die das Spiel
@@ -26,6 +27,7 @@ für starke Spieler geeignet. Du kannst neue Eröffnungen ausprobieren, Taktiken
 trainieren und deine Partien Schritt für Schritt verbessern – mit dem ewigen
 Ziel, den gegnerischen König mattzusetzen.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  Eröffnung meistern: Entwickle deine Figuren in Richtung Zentrum und bringe
@@ -42,6 +44,7 @@ Ziel, den gegnerischen König mattzusetzen.
 5.  Wachsam bleiben: Frage dich bei jedem Zug, was dein Gegner droht und welche
     Taktiken (Gabeln, Fesselungen, Spieße) im Raum stehen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 *   Auswählen & Ziehen: Klicke eine Figur an, um ihre legalen Züge anzeigen zu
@@ -49,18 +52,23 @@ Ziel, den gegnerischen König mattzusetzen.
 *   Spielmenü: Über das Menü stellst du die KI-Stärke ein, startest eine neue
     Partie oder holst dir – falls vorhanden – einen Hinweis.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:chess-mania:q-how-do-i-win-7b045f7e -->
 *   F: Wie gewinne ich im Schach?
     *   A: Indem du den gegnerischen König schachmatt setzt – er steht im
         Schach und hat keinen legalen Zug mehr, um zu entkommen.
 
+<!-- i18n:faq:id=faq:chess-mania:q-what-is-a-stalemate-9d9fcfe6 -->
 *   F: Was ist Patt?
     *   A: Patt ist ein Unentschieden: Der Spieler, der am Zug ist, steht
         zwar nicht im Schach, hat aber keinen legalen Zug mehr. Die Partie endet
         sofort remis.
 
+<!-- i18n:faq:id=faq:chess-mania:q-how-can-i-improve-f82d33e2 -->
 *   F: Wie verbessere ich mich am besten?
     *   A: Spiele regelmäßig, analysiere deine Partien (vor allem Niederlagen),
         studiere Grundprinzipien und Taktikmotive und versuche, typische
         Fehler bewusst zu vermeiden.
+

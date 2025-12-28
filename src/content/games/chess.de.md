@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 Schach ist ein Strategiespiel für zwei Personen auf einem 8×8-Brett. Jeder
@@ -79,6 +80,7 @@ anders; ihre Bewegungen zu verstehen, ist die Grundlage für jede Partie.
     gegnerischen Grundreihe zu führen und in eine Dame umzuwandeln. Ein
     "Freibauer" ohne gegnerische Bauern davor ist dabei besonders wertvoll.
 
+<!-- i18n:section:controls -->
 ### Steuerung (digitale Version)
 
 In der Browser- oder Mobile-Version ist die Bedienung intuitiv.
@@ -91,13 +93,16 @@ In der Browser- oder Mobile-Version ist die Bedienung intuitiv.
 -   Rochade: Bewege den König einfach zwei Felder in Richtung des Turms; der
     Turm wird automatisch auf das richtige Feld daneben gesetzt.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:chess:what-is-the-difference-between-14a5d16a -->
 **1. Was ist der Unterschied zwischen Matt und Patt?**
 > **Matt** bedeutet Sieg: Der König steht im Schach und kann nicht entkommen.
 > **Patt** ist ein Unentschieden: Der Spieler am Zug steht *nicht* im Schach,
 > hat aber keinen legalen Zug mehr – die Partie endet remis.
 
+<!-- i18n:faq:id=faq:chess:what-are-the-rules-for-46d19e24 -->
 **2. Welche Bedingungen gelten für die Rochade?**
 > Du darfst nur rochieren, wenn:
 > 1.  König und der beteiligte Turm noch nie gezogen haben.
@@ -105,6 +110,7 @@ In der Browser- oder Mobile-Version ist die Bedienung intuitiv.
 > 3.  Der König nicht im Schach steht, kein vom Gegner angegriffenes Feld
 >     überschreitet und nicht auf einem angegriffenen Feld landet.
 
+<!-- i18n:faq:id=faq:chess:what-is-en-passant-9ff233fd -->
 **3. Was ist "En Passant"?**
 > *En Passant* ist eine Sonderregel für Bauern: Zieht ein gegnerischer Bauer
 > von seiner Grundreihe aus zwei Felder nach vorne und landet direkt
@@ -112,7 +118,9 @@ In der Browser- oder Mobile-Version ist die Bedienung intuitiv.
 > nur ein Feld vorgerückt. Dieser Schlag ist nur sofort im darauffolgenden Zug
 > erlaubt.
 
+<!-- i18n:faq:id=faq:chess:can-the-king-capture-pieces-c8c6f366 -->
 **4. Darf der König selbst schlagen?**
 > Ja, der König darf gegnerische Figuren schlagen, solange das Zielfeld nicht
 > von einer gegnerischen Figur gedeckt ist – er darf sich niemals selbst ins
 > Schach stellen.
+

@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 *Collect Same Thing* fordert dich heraus, identische Kacheln oder Gegenstände
@@ -23,6 +24,7 @@ unter Zeit- oder Platzbeschränkungen zu paaren. Durch das Entfernen von Paaren
 werden tiefere Ebenen sichtbar; Erfolg hängt davon ab, Wege zu öffnen, seltene
 Symbole rechtzeitig abzuräumen und keine einzelnen "Waisen" einzusperren.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  Wege freischalten: Räum zuerst Reihen und Spalten frei, die viele verdeckte
@@ -38,25 +40,31 @@ Symbole rechtzeitig abzuräumen und keine einzelnen "Waisen" einzusperren.
 5.  Shuffle/Hints aufsparen: Nutze Mischen und Hinweise nur in echten
     Notfällen – idealerweise, wenn das Brett sichtbar "tot" ist.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Klicke oder tippe auf zwei passende Kacheln bzw. Objekte, um sie zu paaren –
   die genauen Regeln (Linien, Wege etc.) hängen vom Modus ab.
 - Setze Hinweis- oder Shuffle-Buttons gezielt ein, falls vorhanden.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:collect-same-thing:i-get-stuck-with-no-67b75068 -->
 - Keine Paare mehr – was nun?
   
   Falls erlaubt, mische das Feld neu oder starte mit einer anderen Eröffnung,
   bei der du Wege und Freiflächen länger erhältst.
 
+<!-- i18n:faq:id=faq:collect-same-thing:timed-or-move-limits-5e0f38ca -->
 - Gibt es Zeit- oder Zuglimits?
   
   Das hängt vom Modus ab. Bei Timern ist Geschwindigkeit wichtig, bei
   Zugbeschränkungen solltest du jeden Schritt stärker vorausplanen.
 
+<!-- i18n:faq:id=faq:collect-same-thing:any-scoring-tips-98d70617 -->
 - Tipps für hohe Punktzahlen?
   
   Versuche, Paare schnell hintereinander zu finden, um mögliche Komboboni in
   Varianten zu nutzen, die Serien belohnen.
+

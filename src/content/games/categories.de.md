@@ -15,6 +15,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 *Categories* ist ein leichtes Logikspiel, bei dem du Begriffe in thematische
@@ -22,6 +23,7 @@ Gruppen sortierst. Du suchst nach gemeinsamen Merkmalen, trennst
 Täuschungsmanöver heraus und löst die Sets unter sanftem Zeit- oder
 Zugdruck.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  Einfache Gruppen zuerst: Sichere dir offensichtliche Sets früh, um die
@@ -35,25 +37,31 @@ Zugdruck.
 5.  Über Ausschluss arbeiten: Wenn sich zwei Kategorien ähneln, hilft es, sie
     darüber zu definieren, was ausdrücklich *nicht* hineingehört.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Ziehe Begriffe per Drag & Drop in Kategorien oder tippe/klicke sie an, um sie
   per UI einer Gruppe zuzuweisen.
 - Rückgängig/Reset nutzen, falls vorhanden.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:categories:are-there-multiple-solutions-a0470b63 -->
 - Gibt es mehrere Lösungen?
   
   Meist ist nur eine Aufteilung vorgesehen – orientiere dich an den
   beabsichtigten Themen.
 
+<!-- i18n:faq:id=faq:categories:hints-27c5017f -->
 - Gibt es Hinweise?
   
   Viele Versionen bieten Hinweise an. Nutze sie sparsam, damit der Knobelspaß
   erhalten bleibt.
 
+<!-- i18n:faq:id=faq:categories:timed-95aa06a5 -->
 - Ist das Spiel immer auf Zeit?
   
   Oft gibt es milde Zeitlimits, die das Tempo hochhalten, ohne allzu viel
   Druck aufzubauen.
+

@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 Bridge ist ein klassisches, sehr strategisches Stichkartenspiel für vier
@@ -31,6 +32,7 @@ Kontraktpartei (der Alleinspieler mit seinem Partner), genau diesen Kontrakt zu
 erfüllen, während die Gegenspieler dies verhindern wollen. Bridge gilt zu
 Recht als eine der anspruchsvollsten Denksportarten der Welt.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  Das Reizen verstehen: Beim Reizen geben die Spieler reihum Gebote ab. Ein
@@ -55,6 +57,7 @@ Recht als eine der anspruchsvollsten Denksportarten der Welt.
     Gegenspieler Punkte. Gute Partnerschaftskommunikation über das Reizen ist
     entscheidend, um realistische Kontrakte zu bieten.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 *   Reizen: Klicke auf die gewünschte Kombination aus Zahl und Farbe oder wähle
@@ -62,19 +65,24 @@ Recht als eine der anspruchsvollsten Denksportarten der Welt.
 *   Karte ausspielen: Klicke auf die Karte aus deiner Hand (oder der Dummy-Hand,
     falls du Alleinspieler bist), die du in den aktuellen Stich legen willst.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:bridge:q-what-is-a-trick-41ac59d8 -->
 *   F: Was ist ein "Stich"?
     *   A: Ein Stich besteht aus vier Karten – jede Karte wird nacheinander von
         einem Spieler ausgespielt. Die höchste Karte im Stich gewinnt ihn.
 
+<!-- i18n:faq:id=faq:bridge:q-what-is-a-trump-9658e13c -->
 *   F: Was ist eine "Trumpffarbe"?
     *   A: Die Trumpffarbe wird im Reizen festgelegt und sticht alle anderen
         Farben. Ist zum Beispiel Herz Trumpf, schlägt selbst die 2 in Herz das
         Ass jeder anderen Farbe.
 
+<!-- i18n:faq:id=faq:bridge:q-what-does-it-mean-90d6e773 -->
 *   F: Was bedeutet "Farbe bedienen"?
     *   A: Wenn die erste Karte eines Stichs etwa Pik ist, müssen alle anderen
         Spieler ebenfalls Pik spielen, sofern sie diese Farbe auf der Hand
         haben. Wer keine Karte in dieser Farbe besitzt, darf eine andere Farbe
         oder auch Trumpf abwerfen.
+

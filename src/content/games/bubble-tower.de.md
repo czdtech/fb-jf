@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 *Bubble Tower 3D* erweitert das klassische Bubble-Shooter-Prinzip um eine
@@ -29,6 +30,7 @@ Die Möglichkeit, den Turm zu drehen, macht jeden Schuss zu einer kleinen
 Denkaufgabe: Du suchst dir den besten Winkel, erzeugst große Kettenreaktionen
 und lässt ganze Blöcke auf einmal herabfallen.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  Drehen und überblicken: Nimm dir vor jedem Schuss einen Moment Zeit, den
@@ -45,6 +47,7 @@ und lässt ganze Blöcke auf einmal herabfallen.
     wertvollsten, wenn du feststeckst oder einen kritischen Abschnitt retten
     musst.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 *   Turm drehen:
@@ -54,17 +57,22 @@ und lässt ganze Blöcke auf einmal herabfallen.
     *   Maus: Deine Kanone richtet sich nach der Position des Mauszeigers.
         Klicke mit der linken Maustaste, um eine Blase abzufeuern.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:bubble-tower:q-how-do-i-win-9162cf32 -->
 *   F: Wie gewinne ich das Spiel?
     *   A: Du gewinnst, wenn alle Blasen vom Turm entfernt wurden.
 
+<!-- i18n:faq:id=faq:bubble-tower:q-what-happens-if-i-048a5939 -->
 *   F: Was passiert, wenn ich die Blasen nicht rechtzeitig räume?
     *   A: Der Blasenturm sinkt nach und nach nach unten. Erreicht eine Blase
         die Markierung am unteren Bildschirmrand, ist die Runde verloren.
 
+<!-- i18n:faq:id=faq:bubble-tower:q-i-cant-find-a-19045f66 -->
 *   F: Ich finde keine passende Farbe für die Blase in meiner Kanone. Was tun?
     *   A: Drehe den Turm zuerst komplett, um sicherzugehen, dass du keinen
         möglichen Treffer übersehen hast. Gibt es wirklich keine passende
         Stelle, platziere die Blase taktisch so, dass sie möglichst wenig
         stört oder dir später eine neue Kombination ermöglicht.
+

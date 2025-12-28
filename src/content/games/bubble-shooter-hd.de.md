@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 *Bubble Shooter HD* ist eine rundum überarbeitete, hochauflösende Version des
@@ -25,6 +26,7 @@ Gruppen aus mindestens drei gleichfarbigen Blasen bildest. Dank einfacher,
 intuitiver Steuerung, klarer Grafik und befriedigender Kettenreaktionen eignet
 sich das Spiel für Einsteiger wie Profis gleichermaßen.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  Genau zielen: Nutze die Hilfslinie, die dir beim Zielen angezeigt wird.
@@ -43,26 +45,32 @@ sich das Spiel für Einsteiger wie Profis gleichermaßen.
     bestimmten Anzahl nicht passender Schüsse zusätzliche Reihen oben am
     Spielfeld. Versuche daher, jeden Schuss sinnvoll einzusetzen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 *   Zielen: Bewege die Maus, um die Richtung des Blasenwerfers festzulegen.
 *   Schießen: Klicke mit der linken Maustaste, um eine Blase abzufeuern.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:bubble-shooter-hd:q-what-is-the-objective-0d640e0d -->
 *   F: Was ist das Ziel des Spiels?
     *   A: Du sollst alle Blasen vom Spielfeld entfernen und dabei möglichst
         viele Punkte erzielen. Das Spiel ist verloren, wenn die Blasen die
         untere Linie erreichen.
 
+<!-- i18n:faq:id=faq:bubble-shooter-hd:q-how-do-i-get-62133937 -->
 *   F: Wie bekomme ich mehr Punkte?
     *   A: Je größer die Gruppen sind, die du in einem Zug entfernst, desto
         höher ist deine Punktzahl. Am effektivsten sind Kettenreaktionen, bei
         denen du eine kleine Gruppe oben platzen lässt und große Blasenfelder
         darunter mit abfallen.
 
+<!-- i18n:faq:id=faq:bubble-shooter-hd:q-can-i-swap-the-9bcb99fa -->
 *   F: Kann ich die Blase im Werfer tauschen?
     *   A: Manche Versionen von Bubble Shooter erlauben dir, die aktuelle
         Blase mit der nächsten zu tauschen, andere nicht. Sieh dir die
         Benutzeroberfläche an – ein Tausch-Symbol oder zweites Blasenfeld
         zeigt dir, ob diese Funktion verfügbar ist.
+

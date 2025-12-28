@@ -18,6 +18,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 *Checkers Legend* ist eine digitale Version des klassischen
@@ -26,6 +27,7 @@ Brett zwischen zwei Kontrahenten. Das Ziel ist einfach, aber strategisch
 anspruchsvoll: Schlage alle gegnerischen Steine oder blockiere sie so, dass
 kein legaler Zug mehr möglich ist.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  Grundbewegung: Deine normalen Steine ("Men") ziehen jeweils ein Feld
@@ -45,6 +47,7 @@ kein legaler Zug mehr möglich ist.
 6.  Hinterreihe schützen: Lass deine Grundreihe möglichst lange geschlossen, um
     deinem Gegner den Weg zu frühen Königen zu versperren.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Die Bedienung ist klickbasiert.
@@ -54,17 +57,22 @@ Die Bedienung ist klickbasiert.
 *   Zug ausführen: Klicke auf ein hervorgehobenes Feld, um den Stein dorthin zu
     bewegen oder zu schlagen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:checkers-legend:q-do-i-have-to-63209821 -->
 *   F: Muss ich schlagen, wenn ich kann?
     *   A: Ja. In den meisten offiziellen Damm-Regeln ist Schlagen Pflicht. Wenn
         ein Schlagzug möglich ist, musst du ihn ausführen.
 
+<!-- i18n:faq:id=faq:checkers-legend:q-what-makes-a-king-ed0245a6 -->
 *   F: Was macht einen König so stark?
     *   A: Normale Steine ziehen nur vorwärts. Ein König darf diagonal vor- und
         zurückziehen und schlagen und ist dadurch extrem flexibel.
 
+<!-- i18n:faq:id=faq:checkers-legend:q-how-do-i-win-9162cf32 -->
 *   F: Wie gewinne ich das Spiel?
     *   A: Du siegst, wenn dein Gegner keine Steine mehr hat oder seine
         verbleibenden Steine vollständig blockiert sind und keinen legalen Zug
         ausführen können.
+

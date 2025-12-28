@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 *Cards-21* ist eine schnelle Blackjack-Variante: Du ziehst Karten und versuchst,
@@ -23,6 +24,7 @@ so nah wie möglich an 21 Punkte zu kommen, ohne darüber zu liegen. Bildkarten
 zählen 10 Punkte, Asse je nach Situation 1 oder 11. In manchen Modi gibt es
 mehrere Hände gleichzeitig, Versicherungen oder Side Bets.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  Grundwahrscheinlichkeiten: Stehe in der Regel auf harten 17 oder mehr,
@@ -40,6 +42,7 @@ mehrere Hände gleichzeitig, Versicherungen oder Side Bets.
 5.  Side Bets mit Vorsicht: Nebenwetten können Spaß machen, haben aber meist
     einen deutlich höheren Hausvorteil – nur in Maßen nutzen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Aktionen wie Hit, Stand, Double oder Split führst du über die
@@ -47,19 +50,24 @@ mehrere Hände gleichzeitig, Versicherungen oder Side Bets.
 - Side Bets kannst du, falls vorhanden, über entsprechende Schaltflächen
   aktivieren oder deaktivieren.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:cards-21:when-should-i-split-pairs-741a3181 -->
 - Wann sollte ich Paare splitten?
   
   Üblich ist, Asse und 8er zu splitten, 10er und 5er dagegen nicht. Wenn eine
   Basistabelle eingeblendet wird, halte dich möglichst genau daran.
 
+<!-- i18n:faq:id=faq:cards-21:do-aces-count-as-1-7608a361 -->
 - Zählen Asse als 1 oder 11?
   
   Asse sind flexibel – das Spiel passt ihren Wert meist automatisch so an, dass
   du möglichst nicht über 21 kommst.
 
+<!-- i18n:faq:id=faq:cards-21:is-this-beatable-longterm-aab16428 -->
 - Ist das Spiel langfristig schlagbar?
   
   Mit perfekter Strategie kannst du den Hausvorteil stark reduzieren, ganz
   eliminieren lässt er sich aber nicht – über lange Sicht bleibt er positiv.
+

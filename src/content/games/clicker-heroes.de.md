@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### **Spielübersicht**
 
 *Clicker Heroes* ist ein typisches "Idle"- oder "Incremental"-Spiel. Dein Ziel
@@ -30,6 +31,7 @@ für einen Neustart – die **Ascension** – zu wählen. Dabei beginnst du wied
 Level 1, erhältst aber dauerhafte Boni (Hero Souls und Ancients), die alle
 zukünftigen Durchläufe massiv beschleunigen.
 
+<!-- i18n:section:tips -->
 ### **Strategie & Tipps**
 
 Die Strategie bei Clicker Heroes entwickelt sich im Spielverlauf.
@@ -54,7 +56,7 @@ Die Strategie bei Clicker Heroes entwickelt sich im Spielverlauf.
 **2. Nach der Ascension (das eigentliche Spiel):**
 
 *   **Hero Souls verstehen:** Hero Souls (HS) sind die wichtigste Ressource.
-    Jede HS bringt passiv +10 % DPS. Gib sie nicht kopflos aus.
+    Jede HS bringt passiv +10% DPS. Gib sie nicht kopflos aus.
 *   **Ancients:** Mächtige Wesen, die du mit HS beschwörst und levelst. Sie
     geben permanente, spielverändernde Boni und definieren deinen Spielstil.
 *   **Idle vs. Active Build wählen:**
@@ -73,6 +75,7 @@ Die Strategie bei Clicker Heroes entwickelt sich im Spielverlauf.
     sinnvollen Peak pushen, ascenden, HS in Ancients investieren und von vorn –
     statt tagelang an einem zähen Run zu hängen.
 
+<!-- i18n:section:controls -->
 ### **Steuerung**
 
 Das Spiel wird überwiegend mit der Maus gespielt, Tastenkürzel erhöhen jedoch
@@ -82,33 +85,39 @@ Das Spiel wird überwiegend mit der Maus gespielt, Tastenkürzel erhöhen jedoch
     Heldenkauf, Level-ups und Skills bedienen.
 *   **Zifferntasten 1–9:** Aktivieren Spieler-Skills.
 *   **Helden-Shortcuts:**
-    *   `SHIFT` + Klick: Held 10 Stufen leveln.
-    *   `Z` + Klick: 25 Stufen.
-    *   `CTRL` + Klick: 100 Stufen.
-    *   `Q` + Klick: Maximal mögliche Stufen auf einmal.
-    *   `A`: Nächste Zone bzw. Auto-Progress umschalten.
+    *   SHIFT + Klick: Held 10 Stufen leveln.
+    *   Z + Klick: 25 Stufen.
+    *   CTRL + Klick: 100 Stufen.
+    *   Q + Klick: Maximal mögliche Stufen auf einmal.
+    *   A: Nächste Zone bzw. Auto-Progress umschalten.
 
+<!-- i18n:section:faq -->
 ### **Häufige Fragen (FAQ)**
 
+<!-- i18n:faq:id=faq:clicker-heroes:when-should-i-ascend-6f3e9f41 -->
 **1. Wann sollte ich ascenden?**
 > Beim ersten Mal idealerweise um Zone 140 herum. Später immer dann, wenn dein
 > Fortschritt deutlich langsamer wird und ein weiterer Zonenaufstieg mehr Zeit
 > als einen frischen, schnelleren Run kostet.
 
+<!-- i18n:faq:id=faq:clicker-heroes:what-are-hero-souls-and-43462f28 -->
 **2. Was genau sind Hero Souls?**
 > Hero Souls erhältst du durch Primal Bosse (ab Zone 100 in Zehnerschritten)
-> und durch das Leveln von Helden. Jede HS gibt +10 % DPS und dient als
+> und durch das Leveln von Helden. Jede HS gibt +10% DPS und dient als
 > Währung für Ancients.
 
+<!-- i18n:faq:id=faq:clicker-heroes:should-i-play-an-idle-f9aa781a -->
 **3. Idle, Active oder Hybrid?**
 > Für den Einstieg ist ein Idle-Build am angenehmsten: wenig Klickarbeit, gute
 > Skalierung. Später kannst du auf Active oder Hybrid umsteigen, wenn du viele
 > HS hast und aktiv spielen möchtest.
 
+<!-- i18n:faq:id=faq:clicker-heroes:all-my-gilds-are-on-960a26c7 -->
 **4. Meine Gilds liegen auf schwachen Helden – was tun?**
 > Im Midgame kannst du mit HS Gilds umverteilen. Ziel ist, alle Gilds auf einem
 > starken Carry zu sammeln, um dessen Schaden massiv zu erhöhen.
 
+<!-- i18n:faq:id=faq:clicker-heroes:is-there-an-end-to-16613676 -->
 **5. Hat das Spiel ein Ende?**
 > Nein, Clicker Heroes ist prinzipiell endlos. Zonen, Gold- und Schadenswerte
 > skalieren unbegrenzt – dein persönliches Ziel ist, immer weiter hinaus zu
