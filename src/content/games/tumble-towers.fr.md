@@ -16,10 +16,12 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Tumble Towers est un jeu d'empilement où chaque bloc déposé modifie le centre de gravité. Un bon jeu consiste à répartir le poids, limiter les débordements et anticiper les oscillations pour que la tour survive aux secousses après chaque pose.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1.  Les bases larges l'emportent sur les constructions en hauteur.
@@ -28,14 +30,19 @@ Tumble Towers est un jeu d'empilement où chaque bloc déposé modifie le centre
 4.  Fais une pause entre les poses ; laisse les oscillations se stabiliser.
 5.  Affine le sommet avec de petites pièces pour niveler.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 -   Vise et dépose ; tourne si autorisé ; redémarre via l'interface.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:tumble-towers:tower-keeps-swaying-apart-daab0b88 -->
 -   **Q : La tour oscille sans cesse et s'effondre.**
     **R :** Tu poses trop vite ou tu empiles joint sur joint ; décale et fais des pauses.
 
+<!-- i18n:faq:id=faq:tumble-towers:can-i-salvage-a-lean-8fa4b483 -->
 -   **Q : Puis-je rattraper une inclinaison ?**
     **R :** Contre-poids du côté haut et réduis les débordements.
+

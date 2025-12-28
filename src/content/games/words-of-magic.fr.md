@@ -16,10 +16,12 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Words of Magic est un jeu de puzzle de mots relaxant et enchanteur conçu pour tester ton vocabulaire et tes compétences en anagrammes. À chaque niveau, tu disposes d'un cercle de lettres et d'une grille de mots croisés. Ton objectif est de trouver tous les mots cachés formables avec les lettres données et de remplir entièrement la grille. C'est le jeu parfait pour se détendre tout en faisant travailler doucement ton cerveau.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1.  **Commence par l'évident :** Cherche d'abord les mots les plus courts et les plus évidents (généralement trois lettres). Les placer peut te donner des indices pour les mots plus longs et complexes.
@@ -27,17 +29,23 @@ Words of Magic est un jeu de puzzle de mots relaxant et enchanteur conçu pour t
 3.  **Utilise les indices avec parcimonie :** Le bouton « Indice » révèle une lettre aléatoire dans la grille, ce qui peut être très utile. Cependant, les indices sont limités, garde-les pour les moments de vrai blocage.
 4.  **Trouve les mots bonus :** Ne t'arrête pas une fois la grille remplie ! La plupart des niveaux ont des « Mots Bonus » : des mots valides avec les lettres qui ne rentrent pas dans le puzzle principal. Les trouver t'accorde des pièces ou points supplémentaires.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 *   **Former un mot :** Clique et glisse ta souris (ou balaie avec ton doigt) sur les lettres du cercle dans le bon ordre pour épeler un mot. Relâche pour valider.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:words-of-magic:q-what-is-the-goal-ab58581b -->
 *   **Q : Quel est l'objectif du jeu ?**
     *   **R :** Trouver tous les mots cachés avec les lettres données et les utiliser pour remplir complètement la grille de mots croisés.
 
+<!-- i18n:faq:id=faq:words-of-magic:q-i-found-a-real-64532286 -->
 *   **Q : J'ai trouvé un vrai mot, mais il n'est pas apparu sur la grille. Pourquoi ?**
     *   **R :** C'était probablement un « Mot Bonus ». Tu gagnes quand même des points, mais il ne fait pas partie du puzzle principal de ce niveau.
 
+<!-- i18n:faq:id=faq:words-of-magic:q-how-do-i-get-e7bf4c44 -->
 *   **Q : Comment obtenir plus d'indices ?**
     *   **R :** Tu peux généralement gagner des indices en terminant des niveaux, en trouvant des mots bonus, ou via les récompenses de connexion quotidienne.
+

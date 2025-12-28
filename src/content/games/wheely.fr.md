@@ -16,10 +16,12 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Wheely est une série adorée de jeux d'aventure puzzle point-and-click mettant en vedette une attachante petite voiture rouge nommée Wheely. Chaque jeu de la série présente un nouveau voyage pour Wheely, rempli d'énigmes environnementales que les joueurs doivent résoudre en interagissant avec divers objets et mécanismes de la scène. Les jeux sont connus pour leurs visuels charmants, leurs contrôles intuitifs et leurs défis malins.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 Le gameplay principal consiste à observer la scène et trouver la bonne séquence d'interactions pour aider Wheely à progresser.
@@ -28,6 +30,7 @@ Le gameplay principal consiste à observer la scène et trouver la bonne séquen
 -   **Résoudre les puzzles :** Chaque niveau est un puzzle autonome. Tu devras peut-être ouvrir des portes, construire des ponts ou dégager des chemins en manipulant l'environnement.
 -   **Collecter les étoiles :** Beaucoup de niveaux incluent des étoiles optionnelles à collecter, ajoutant une couche de défi supplémentaire.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 -   **Souris :** Toutes les interactions se font à la souris.
@@ -35,6 +38,7 @@ Le gameplay principal consiste à observer la scène et trouver la bonne séquen
     -   **Clic sur Wheely :** Clique sur Wheely pour démarrer ou arrêter son mouvement.
     -   **Glisser/Tourner :** Certains puzzles peuvent nécessiter de cliquer-glisser ou de tourner certains éléments.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
 **Quel est l'objectif principal des jeux Wheely ?**
@@ -45,3 +49,4 @@ Oui, la série Wheely est généralement considérée comme familiale et adapté
 
 **Combien de jeux Wheely existe-t-il ?**
 La série Wheely compte de nombreux épisodes, chacun offrant de nouvelles aventures et puzzles pour les joueurs.
+

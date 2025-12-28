@@ -16,10 +16,12 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 YoHoHo.io est un jeu .io de type battle royale sur le thème des pirates, rapide et intense. Les joueurs s'affrontent pour être le dernier pirate debout sur une île dont la zone sûre rétrécit. Tu commences petit et dois collecter de l'or, grossir en taille et en force, et éliminer les autres joueurs pour dominer le classement. Le jeu combine des contrôles simples avec un gameplay compétitif et addictif.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 -   **Collecte de l'or :** Ton objectif principal est de ramasser l'or dispersé sur l'île. L'or augmente la taille de ton pirate, sa portée d'attaque et ses dégâts.
@@ -27,13 +29,17 @@ YoHoHo.io est un jeu .io de type battle royale sur le thème des pirates, rapide
 -   **Carte qui rétrécit :** La zone sûre de l'île se réduit continuellement, forçant les joueurs à se rapprocher et intensifiant les combats. Reste dans la zone sûre pour éviter de subir des dégâts.
 -   **Capacité de dash :** Utilise ton dash stratégiquement pour te rapprocher rapidement, fuir le danger ou esquiver les attaques.
 
+<!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `WASD` `Arrow Keys` `Left Click` `Spacebar` `Left Click` `Spacebar` `Right Click`
 
--   **Déplacement :** `WASD` ou `Flèches directionnelles` (Clavier) / Glisser la souris ou le doigt (Souris/Tactile)
--   **Attaque :** `Clic gauche` ou `Barre d'espace` (Clavier) / Tap (Tactile)
--   **Attaque chargée :** Maintiens `Clic gauche` ou `Barre d'espace` pour charger une attaque plus puissante.
--   **Dash :** `Clic droit` (Souris) / Bouton de dash dédié (Mobile)
+-   **Déplacement :** WASD ou Flèches directionnelles (Clavier) / Glisser la souris ou le doigt (Souris/Tactile)
+-   **Attaque :** Clic gauche ou Barre d'espace (Clavier) / Tap (Tactile)
+-   **Attaque chargée :** Maintiens Clic gauche ou Barre d'espace pour charger une attaque plus puissante.
+-   **Dash :** Clic droit (Souris) / Bouton de dash dédié (Mobile)
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
 **Comment devenir plus gros et plus fort ?**
@@ -44,3 +50,4 @@ Si tu sors de la zone sûre (indiquée en rouge), ton pirate commence à subir d
 
 **Y a-t-il différents personnages pirates ?**
 Oui, tu peux débloquer différents personnages pirates, chacun avec une apparence unique et parfois des stats ou capacités de départ différentes, en progressant et en gagnant plus d'or.
+

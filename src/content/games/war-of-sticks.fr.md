@@ -16,10 +16,12 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 War of Sticks est un jeu de stratégie en temps réel où tu diriges une armée de stickmen pour libérer ton royaume de l'oppressif « Empire Rouge ». Développé par Shoom Games, ce titre combine gestion des ressources, entraînement d'unités et combat tactique. Ton objectif est de bâtir une force puissante, gérer ton économie et vaincre stratégiquement les armées ennemies pour reconquérir tes terres.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 -   **Gestion des ressources :** Entraîne des mineurs pour collecter de l'or, ta ressource principale pour construire des unités et des défenses. Tu peux aussi convertir la pierre en or.
@@ -30,10 +32,12 @@ War of Sticks est un jeu de stratégie en temps réel où tu diriges une armée 
     -   **Sorciers :** Unités de soutien avec des capacités spéciales.
 -   **Combat stratégique :** Déploie tes unités, construis des tours défensives et observe les positions ennemies pour planifier tes attaques. Une composition d'armée équilibrée est la clé du succès.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 -   **Souris :** Utilisée principalement pour toutes les interactions : cliquer sur les boutons pour entraîner des unités, sélectionner des unités et diriger ton armée sur le champ de bataille.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
 **Quel est l'objectif principal de War of Sticks ?**
@@ -44,3 +48,4 @@ Entraîne plus de mineurs pour collecter de l'or. Tu peux aussi convertir la pie
 
 **Quelles sont les meilleures unités à utiliser ?**
 Une armée diversifiée est généralement la plus efficace. Les boucliers offrent une ligne de front solide, les archers un soutien à distance, et les barbares sont bons au corps à corps. Les sorciers peuvent fournir un précieux contrôle de foule.
+

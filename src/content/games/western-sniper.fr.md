@@ -15,10 +15,12 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Western Sniper propose des missions courtes avec des bandits, des explosifs et des cibles mobiles. Le succès repose sur un réticule calme, des choix de cibles prioritaires (fusils/lanceurs en premier) et la gestion des ressources (munitions/temps/objectifs bonus).
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1.  **Priorité :** Élimine d'abord les menaces à distance et les explosifs.
@@ -27,14 +29,19 @@ Western Sniper propose des missions courtes avec des bandits, des explosifs et d
 4.  **Discipline des munitions :** Ne spamme pas ; réajuste ta visée entre les tirs.
 5.  **Objectifs optionnels :** Tente-les uniquement quand le terrain est sécurisé.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 -   Vise avec la souris ; tire avec un clic ; lunette/retiens ta respiration si supporté ; recharge via l'interface.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:western-sniper:i-miss-moving-targets-e6ff0d82 -->
 -   **Q : Je rate les cibles mobiles.**
     **R :** Anticipe légèrement et tire au minimum du balancement ; pratique le timing.
 
+<!-- i18n:faq:id=faq:western-sniper:ammo-runs-out-7881997a -->
 -   **Q : Je tombe à court de munitions.**
     **R :** Fais des tirs mesurés ; économise les balles en utilisant les kills environnementaux.
+

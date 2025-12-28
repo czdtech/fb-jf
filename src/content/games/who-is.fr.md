@@ -17,10 +17,12 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Who Is? Game est un jeu d'énigmes populaire et captivant qui défie les joueurs avec une série de devinettes et scénarios stimulants. Développé par Unico Studio, il demande de penser de façon critique, d'observer les détails et souvent d'utiliser une logique non conventionnelle pour résoudre chaque niveau. Le jeu est connu pour ses puzzles variés, allant de l'identification d'imposteurs à la recherche d'objets cachés.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 Chaque niveau présente une situation ou question unique, et ton objectif est de trouver la bonne réponse ou solution.
@@ -29,12 +31,14 @@ Chaque niveau présente une situation ou question unique, et ton objectif est de
 -   **Penser différemment :** Beaucoup de puzzles sont conçus pour te piéger. La réponse la plus évidente n'est souvent pas la bonne. Sois prêt à expérimenter et essayer des solutions non conventionnelles.
 -   **Résoudre des énigmes :** Certains niveaux sont des devinettes directes, d'autres impliquent des scénarios plus complexes où tu dois déduire des informations.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 -   **Tap/Clic :** Utilise ton doigt (mobile) ou ta souris (PC) pour taper ou cliquer sur les éléments à l'écran.
 -   **Glisser :** Tape et maintiens, puis glisse pour déplacer des objets ou révéler des zones cachées.
 -   **Multi-touch :** Certains puzzles peuvent nécessiter l'utilisation de deux doigts simultanément.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
 **Quels types de puzzles sont dans le jeu ?**
@@ -45,3 +49,4 @@ Oui, si tu bloques sur un niveau, des indices sont généralement disponibles. I
 
 **Le jeu est-il adapté à tous les âges ?**
 Bien que les puzzles puissent être stimulants, le contenu est généralement familial, le rendant adapté à un large éventail de joueurs qui apprécient les casse-tête.
+

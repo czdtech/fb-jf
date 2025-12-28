@@ -16,10 +16,12 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Yummy Taco est un jeu de simulation de cuisine fun et rythmé où tu deviens chef de tacos. Ta mission : préparer de délicieux tacos pour un flot de clients affamés, gérant les ingrédients, l'assemblage et le service avec rapidité et précision. Le jeu met à l'épreuve tes compétences en gestion du temps et ta capacité à suivre la demande.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 -   **Prends les commandes :** Les clients apparaissent avec des bulles indiquant les ingrédients souhaités pour leur taco.
@@ -28,12 +30,14 @@ Yummy Taco est un jeu de simulation de cuisine fun et rythmé où tu deviens che
 -   **Gagne de l'argent :** Un service rapide et réussi te fait gagner de l'argent, utilisable pour acheter de nouveaux ingrédients, améliorer ta cuisine ou débloquer de nouvelles recettes.
 -   **Gère les stocks :** Surveille tes réserves d'ingrédients et réapprovisionne au besoin.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 -   **Souris/Tactile :** Toutes les interactions se font avec des clics de souris ou des gestes tactiles.
     -   **Clic :** Sélectionne les ingrédients, clique sur les clients ou interagis avec les menus.
     -   **Glisser-déposer :** Glisse les ingrédients pour assembler les tacos ou glisse les tacos terminés vers les clients.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
 **Quel est l'objectif principal de Yummy Taco ?**
@@ -44,3 +48,4 @@ Sers les clients rapidement et avec précision. Évite les erreurs de commande. 
 
 **Puis-je améliorer ma cuisine ou mes recettes ?**
 Oui, comme dans beaucoup de jeux de simulation de cuisine, tu peux utiliser l'argent gagné pour améliorer ton équipement, débloquer de nouveaux ingrédients ou apprendre des recettes plus complexes pour attirer plus de clients.
+

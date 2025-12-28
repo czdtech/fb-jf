@@ -15,10 +15,12 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Tranche des légumes avec des mouvements amples, construis des chaînes de combo et évite les dangers de cuisine (couteaux/bombes). Les longues coupes droites et un rythme calme dominent les tableaux de scores.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1.  Longs traits à travers plusieurs légumes pour la valeur combo.
@@ -27,14 +29,19 @@ Tranche des légumes avec des mouvements amples, construis des chaînes de combo
 4.  Utilise le ralenti (si disponible) sur les vagues denses.
 5.  Repositionne-toi après les ratés.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 -   Glisse/clique-glisse pour couper ; pause/réessayer via l'interface.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:veggies-cut:i-hit-hazards-e2582509 -->
 -   **Q : Je touche les dangers.**
     **R :** Choisis des angles propres ; ne termine jamais une ligne à travers un danger.
 
+<!-- i18n:faq:id=faq:veggies-cut:how-to-score-high-602cd322 -->
 -   **Q : Comment scorer haut ?**
     **R :** Concentre-toi sur les longues multi-coupes et une cadence constante.
+

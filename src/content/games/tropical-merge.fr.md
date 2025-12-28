@@ -16,10 +16,12 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Fusionne des objets par groupes de 3 ou 5 pour améliorer les ressources, dissiper le brouillard et débloquer des îles. Les quêtes guident ta progression ; l'énergie et l'espace limité récompensent la planification plutôt que les fusions à l'aveugle.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1.  Privilégie les fusions de 5 pour un meilleur rendement quand c'est possible.
@@ -28,14 +30,19 @@ Fusionne des objets par groupes de 3 ou 5 pour améliorer les ressources, dissip
 4.  Dépense l'énergie en rafales planifiées ; collecte les récompenses quotidiennes.
 5.  Fais des stocks avant les événements.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 -   Glisse pour fusionner ; tape sur les bâtiments pour collecter ; navigue via la carte.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:tropical-merge:no-space-left-1b7b43b7 -->
 -   **Q : Plus de place.**
     **R :** Consolide en fusions de 5, vends le bazar et agrandis ton terrain.
 
+<!-- i18n:faq:id=faq:tropical-merge:energy-too-slow-29048010 -->
 -   **Q : L'énergie se régénère trop lentement.**
     **R :** Planifie tes sessions avec la régénération et les récompenses.
+

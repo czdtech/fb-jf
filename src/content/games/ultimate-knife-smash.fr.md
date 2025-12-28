@@ -15,10 +15,12 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Ultimate Knife Smash est un jeu d'arcade basé sur le timing. Lance des couteaux dans une cible tournante sans toucher les lames déjà plantées. La vitesse de rotation et la direction changent souvent, exigeant un timing précis, du rythme et un bon contrôle du risque pour les étapes combo.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1.  **Observe les rotations :** Note les changements de vitesse et les inversions de direction avant de lancer.
@@ -27,13 +29,19 @@ Ultimate Knife Smash est un jeu d'arcade basé sur le timing. Lance des couteaux
 4.  **Ne te précipite pas :** Manquer un cycle vaut mieux que forcer un lancer risqué.
 5.  **Cibles boss :** Les étapes avancées peuvent nécessiter plus de coups — rythme tes lancers.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 -   **Lancer :** Clique/tape pour lancer un couteau quand l'écart s'aligne.
 -   **Pause/Réessayer :** Utilise les contrôles de l'interface pour redémarrer.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:ultimate-knife-smash:why-do-i-keep-hitting-76b02e8a -->
 -   **Pourquoi je touche toujours les couteaux ?** Tu te désynchronises — retrouve le rythme et lance seulement quand les écarts sont clairs.
+<!-- i18n:faq:id=faq:ultimate-knife-smash:does-rotation-change-5056f76a -->
 -   **La rotation change-t-elle ?** Souvent oui ; sois prêt pour les accélérations et inversions de direction.
+<!-- i18n:faq:id=faq:ultimate-knife-smash:are-there-powerups-0fea9ab4 -->
 -   **Y a-t-il des bonus ?** Certaines versions donnent des multi-couteaux ou des ralentis — utilise-les sur les vagues denses.
+

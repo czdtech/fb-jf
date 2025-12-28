@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 UNO est le jeu de cartes classique où les joueurs font la course pour vider leur main en associant couleurs et numéros, utilisant des cartes d'action spéciales pour bloquer leurs adversaires et être le premier à crier « UNO ! ». Ce jeu est mondialement célèbre pour son gameplay simple à apprendre mais riche en stratégie.
@@ -45,3 +46,4 @@ UNO est le jeu de cartes classique où les joueurs font la course pour vider leu
     **R :** Si d'autres joueurs te remarquent, tu seras généralement pénalisé de 2 à 4 cartes supplémentaires.
 4.  **Q : Puis-je jouer plusieurs cartes identiques d'affilée ?**
     **R :** Cela dépend des règles spécifiques ; les règles standard de UNO n'autorisent qu'une carte par tour.
+

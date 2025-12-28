@@ -10,15 +10,18 @@ thumbnail: /new-images/thumbnails/yojou-sprunki-mustard.png
 tags:
   - yojou sprunki mustard
 score: 4.5/5  (322 votes)
+releaseDate: 2025-12-04
 ---
 
 
+<!-- i18n:section:introduction -->
 Prêt pour un baptême bizarre de couleurs et de sons ? Yojou Sprunki Mustard est un mod parodique qui subvertit complètement le monde Sprunki, avec tous les personnages érodés par une mystérieuse « sauce moutarde », créant une expérience musicale à la fois chaotique et amusante.
 
 ### Qu'est-il arrivé à Yojou Sprunki Mustard ?
 
 Depuis que Brud a découvert cette mystérieuse « sauce moutarde », tout a changé ! Tous les personnages ont été transformés en version teintée de jaune, équipés d'effets sonores uniques et de voix maniaques inspirées de FNF, et les mélodies familières sont devenues étrangement drôles.
 
+<!-- i18n:section:how-to-play -->
 ### Comment jouer à Yojou Sprunki Mustard
 
 -   **Choisis ton avatar moutarde :** Sélectionne parmi les personnages transformés, chacun avec des sons et effets uniques.
@@ -56,3 +59,4 @@ Depuis que Brud a découvert cette mystérieuse « sauce moutarde », tout a cha
 -   **Libère ta créativité :** Expérimente avec des sons et des visuels uniques pour créer des compositions qui reflètent ton style personnel.
 
 Rejoins le monde bizarre de Yojou Sprunki Mustard et laisse ta création musicale être infectée par cette couleur jaune magique !
+

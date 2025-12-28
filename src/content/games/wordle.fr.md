@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Wordle est un jeu de devinette de mots quotidien devenu viral. Tu as six tentatives pour trouver un mot de cinq lettres. Après chaque essai, les cases changent de couleur pour t'indiquer si les lettres sont correctes et bien placées. Simple à comprendre, difficile à maîtriser, c'est le défi vocabulaire parfait pour se creuser les méninges chaque jour.
@@ -45,3 +46,4 @@ Wordle est un jeu de devinette de mots quotidien devenu viral. Tu as six tentati
     **R :** En général, seuls les noms communs du dictionnaire standard sont acceptés, pas les noms propres ni les formes plurielles.
 4.  **Q : Comment progresser plus vite ?**
     **R :** Joue régulièrement, apprends les combinaisons de lettres fréquentes et élargis ton vocabulaire.
+

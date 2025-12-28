@@ -16,10 +16,12 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Word Scramble est un jeu de puzzle de mots classique et captivant qui te défie de réarranger un ensemble de lettres mélangées pour former un mot cohérent. C'est un test de vocabulaire, de reconnaissance de motifs et de réflexion rapide. Le jeu propose souvent différents niveaux de difficulté et catégories, gardant le gameplay frais et stimulant.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 -   **Objectif :** Le but principal est d'identifier le mot original à partir d'un ensemble de lettres mélangées.
@@ -28,12 +30,16 @@ Word Scramble est un jeu de puzzle de mots classique et captivant qui te défie 
 -   **Indices :** Si tu bloques, des indices peuvent être disponibles, comme révéler une lettre ou fournir une définition.
 -   **Score :** Les points sont généralement attribués pour les bonnes réponses, avec des bonus pour les solutions rapides.
 
+<!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Enter`
 
 -   **Saisie :** Utilise ton clavier pour taper le mot que tu penses être correct.
 -   **Réarranger les lettres :** Certaines versions te permettent de cliquer-glisser les lettres pour les réarranger visuellement, ou proposent un bouton « mélanger ».
--   **Valider :** Appuie sur `Entrée` pour soumettre ta réponse.
+-   **Valider :** Appuie sur Entrée pour soumettre ta réponse.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
 **Comment jouer à Word Scramble ?**
@@ -44,3 +50,4 @@ La plupart des jeux proposent des indices ou une option « passer ». Tu peux au
 
 **Existe-t-il différents types de Word Scramble ?**
 Oui, les variantes incluent des jeux avec différentes longueurs de mots, catégories (ex. : animaux, pays), ou des modes multijoueurs compétitifs où les joueurs s'affrontent pour résoudre l'anagramme en premier.
+

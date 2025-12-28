@@ -16,10 +16,12 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Whack Your Boss est un jeu d'animation interactive populaire à l'humour noir, conçu pour permettre aux joueurs d'évacuer leurs frustrations de bureau de façon comique. Le jeu présente une scène de bureau statique remplie de divers objets. Ton objectif est de cliquer sur ces objets pour découvrir différentes animations, souvent exagérées et hilarantes, de « cassage » de ton patron.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 Le gameplay est simple :
@@ -28,10 +30,12 @@ Le gameplay est simple :
 -   **Découvrir :** Le défi principal et le fun viennent de la recherche de toutes les façons cachées de « casser » le patron. Il y a généralement de nombreuses méthodes à découvrir.
 -   **Réinitialiser :** Après chaque animation, une option « Nettoyeur » apparaît généralement, te permettant de réinitialiser la scène et d'essayer un autre objet.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 -   **Souris :** Utilise ta souris pour survoler et cliquer sur les objets interactifs de la scène.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
 **Quel est l'objectif du jeu ?**
@@ -42,3 +46,4 @@ Oui, il existe plusieurs versions de « Whack Your Boss » et jeux similaires, c
 
 **Le jeu est-il violent ?**
 Bien que le thème implique de « casser » un patron, les animations sont très stylisées, cartoonesques et souvent absurdes, les rendant plus humoristiques que véritablement violentes.
+

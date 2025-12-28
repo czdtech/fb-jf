@@ -16,10 +16,12 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Zombie Ragdoll est un puzzle shooter où tu lances des ragdolls pour déclencher des leviers, toucher des explosifs et faire s'effondrer des structures. Maîtriser les angles de tir et l'enchaînement des pièges offre des éliminations en chaîne très satisfaisantes.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1.  Le premier tir sert à repérer la physique ; ajuste l'angle et la puissance après observation.
@@ -28,14 +30,19 @@ Zombie Ragdoll est un puzzle shooter où tu lances des ragdolls pour déclencher
 4.  Garde les tirs directs et puissants pour les points d'ancrage.
 5.  Moins de tirs = plus de bonus — planifie avant de tirer.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 -   Glisse pour définir l'angle et la puissance, puis relâche pour lancer ; redémarre via l'interface.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:zombie-ragdoll:i-barely-move-structures-dbdc043c -->
 -   **Q : Je n'arrive pas à bouger les structures.**
     **R :** Vise les supports ou utilise les explosifs pour créer un effet de levier.
 
+<!-- i18n:faq:id=faq:zombie-ragdoll:shots-feel-random-2886f531 -->
 -   **Q : Mes tirs semblent aléatoires.**
     **R :** Fais un tir de repérage, puis affine avec de petits ajustements d'angle et de puissance.
+

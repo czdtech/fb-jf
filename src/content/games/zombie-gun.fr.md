@@ -15,10 +15,12 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Zombie Gun met l'accent sur les tirs d'angle : fais ricocher les balles sur les murs, touche des barils explosifs et fais tomber des objets pour éliminer les zombies avec peu de tirs. Les salles avancées ajoutent des ennemis blindés qui nécessitent des éliminations environnementales.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1.  **Tirs en rebond :** Utilise les murs pour atteindre les cibles cachées.
@@ -27,14 +29,19 @@ Zombie Gun met l'accent sur les tirs d'angle : fais ricocher les balles sur les 
 4.  **Discipline des munitions :** Planifie tes trajectoires avant de tirer.
 5.  **Règle des blindés :** Utilise l'environnement contre les zombies blindés.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 -   Vise et clique pour tirer ; redémarre via l'interface ; certaines versions limitent les munitions par salle.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:zombie-gun:i-run-out-of-ammo-19e6836d -->
 -   **Q : Je tombe à court de munitions.**
     **R :** Planifie une trajectoire de rebond/explosion avant le premier tir.
 
+<!-- i18n:faq:id=faq:zombie-gun:armored-ones-dont-die-09eee214 -->
 -   **Q : Les blindés ne meurent pas.**
     **R :** Fais tomber des objets ou explose des barils près d'eux.
+

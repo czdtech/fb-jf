@@ -16,10 +16,12 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Word Wipe est un jeu de puzzle de mots dynamique qui combine la recherche de mots avec une mécanique de chute de blocs. Tu fais face à une grille de lettres et dois rapidement trouver et relier des lettres pour former des mots. Une fois un mot formé, les lettres disparaissent et de nouvelles lettres tombent d'en haut, créant un défi continu et rapide.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 -   **Objectif :** Forme des mots pour effacer des lignes et progresser dans les niveaux. Le but est d'effacer un certain nombre de lignes dans le temps imparti.
@@ -29,10 +31,12 @@ Word Wipe est un jeu de puzzle de mots dynamique qui combine la recherche de mot
 -   **Score :** Les mots plus longs et plus complexes rapportent plus de points. La vitesse compte aussi.
 -   **Bombes bonus :** Gagne des « bombes » spéciales qui peuvent effacer plusieurs tuiles d'un coup et te sortir de situations difficiles.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 -   **Souris/Tactile :** Clique et fais glisser (ou balaie) sur les lettres adjacentes pour former des mots.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
 **Comment gagner dans Word Wipe ?**
@@ -43,3 +47,4 @@ Si tu n'as pas effacé le nombre de lignes requis avant la fin du chrono, la par
 
 **Des conseils pour un score élevé ?**
 Concentre-toi sur les mots longs et l'effacement de lignes complètes. Essaie de créer des réactions en chaîne où un mot en révèle d'autres. Utilise les bombes bonus stratégiquement quand tu es bloqué ou que tu dois dégager une grande zone.
+
