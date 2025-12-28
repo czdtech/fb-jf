@@ -15,6 +15,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Descripción general
 
 Daily Crossword propone un crucigrama nuevo cada día siguiendo las reglas
@@ -23,6 +24,7 @@ modo que todas las letras queden comprobadas por otra palabra que las cruza.
 Muchos portales incluyen temporizador, lista de pistas y herramientas para
 comprobar o revelar entradas.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 - Selecciona una pista o una casilla y escribe letras para completar la
@@ -31,6 +33,7 @@ comprobar o revelar entradas.
   las entradas largas.
 - Según la web, puede haber rachas diarias y tablas de clasificación.
 
+<!-- i18n:section:controls -->
 ### Controles
 
 - Teclea A–Z; usa las flechas para moverte; Backspace borra; Enter/Tab cambia de
@@ -41,3 +44,4 @@ comprobar o revelar entradas.
 - Empieza por pistas cortas y fáciles y amplía a partir de las letras cruzadas.
 - Si el sitio mide el tiempo, utiliza las herramientas de Comprobar/Revelar con
   moderación para evitar penalizaciones.
+

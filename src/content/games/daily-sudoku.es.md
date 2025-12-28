@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Descripción general
 
 Daily Sudoku propone una cuadrícula 9×9 nueva cada día. Debes colocar los
@@ -23,6 +24,7 @@ números del 1 al 9 de forma que cada fila, columna y caja 3×3 contenga todos l
 valores sin repetir. Muchas versiones ofrecen distintos niveles de dificultad,
 modo de notas y herramientas de validación.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 - Selecciona una casilla y escribe un dígito; utiliza las notas para anotar
@@ -32,6 +34,7 @@ modo de notas y herramientas de validación.
 - En dificultades altas, puedes necesitar patrones avanzados (parejas,
   X‑Wing, etc.).
 
+<!-- i18n:section:controls -->
 ### Controles
 
 - Teclas numéricas para introducir dígitos; Shift o clic derecho suelen activar
@@ -46,14 +49,18 @@ modo de notas y herramientas de validación.
 - Evita adivinar; si la aplicación lo permite, usa el resaltado de errores solo
   como apoyo puntual.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:daily-sudoku:what-difficulties-are-availabl-c1b071f3 -->
 - P: ¿Qué niveles de dificultad hay?
   
   R: Lo más habitual es contar con Fácil/Medio/Difícil; los sets diarios pueden
   rotar entre ellos.
 
+<!-- i18n:faq:id=faq:daily-sudoku:do-online-versions-support-pen-d6254fae -->
 - P: ¿Las versiones online permiten notas?
   
   R: Casi todas las implementaciones modernas incluyen modo de candidatos y
   marcado de notas.
+

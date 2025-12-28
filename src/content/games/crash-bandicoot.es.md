@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Descripción general
 
 Crash Bandicoot es un homenaje jugable en navegador, al estilo Flash, a la
@@ -26,6 +27,7 @@ reunir cinco cristales, te enfrentarás a Ripper Roo en una batalla contra jefe;
 si logras golpearle lanzándole cajas de hierro mediante tu giro, completarás la
 partida.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 - Avanza por niveles lineales recogiendo cristales y frutas.
@@ -34,6 +36,7 @@ partida.
 - Usa el giro para destruir ciertos obstáculos y derrotar a enemigos ligeros.
 - Llega al final de cada fase sin caer en precipicios ni trampas.
 
+<!-- i18n:section:controls -->
 ### Controles
 
 - Flechas de dirección: moverse / saltar (Arriba) / agacharse (Abajo).
@@ -50,19 +53,24 @@ partida.
 - En los jefes, céntrate en aprender el patrón de ataque: espera la ventana de
   oportunidad y luego usa el giro.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:crash-bandicoot:how-many-levels-are-there-74bf0cdd -->
 - P: ¿Cuántos niveles tiene el juego?
   
   R: Esta versión suele incluir cinco fases principales; tras reunir cinco
   cristales luchas contra Ripper Roo y, al derrotarlo, la partida termina.
 
+<!-- i18n:faq:id=faq:crash-bandicoot:why-doesnt-the-jump-or-c4d2ba16 -->
 - P: No me funcionan el salto o el giro, ¿qué hago?
   
   R: Asegúrate de que el foco esté en el lienzo del juego y ten en cuenta que
   las teclas pueden variar ligeramente según la web donde lo juegues.
 
+<!-- i18n:faq:id=faq:crash-bandicoot:is-progress-saved-2fd2b251 -->
 - P: ¿Se guarda el progreso?
   
   R: La mayoría de versiones Flash o de navegador no guardan el progreso más
   allá de la sesión actual.
+

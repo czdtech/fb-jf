@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Descripción general
 
 Cut the Rope es un juego de puzles basado en físicas en el que debes cortar
@@ -23,6 +24,7 @@ cuerdas para entregar un caramelo a Om Nom mientras intentas recoger hasta tres
 estrellas por nivel. En fases avanzadas aparecen burbujas, cojines de aire y
 peligros que alteran la trayectoria y el tiempo de caída del caramelo.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 - Desliza o haz clic para cortar las cuerdas en el orden correcto de forma que
@@ -32,6 +34,7 @@ peligros que alteran la trayectoria y el tiempo de caída del caramelo.
 - Usa los elementos interactivos (por ejemplo, burbujas que hacen flotar el
   caramelo o chorros de aire que lo desvían) cuando estén disponibles.
 
+<!-- i18n:section:controls -->
 ### Controles
 
 - Desliza con el ratón o el dedo para cortar; usa los botones de la interfaz
@@ -47,14 +50,18 @@ peligros que alteran la trayectoria y el tiempo de caída del caramelo.
 - Al principio basta con asegurarte dos estrellas; cuando domines la sincronización,
   vuelve a por la tercera.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:cut-the-rope:do-i-need-all-stars-9ea07913 -->
 - P: ¿Necesito todas las estrellas para avanzar?
   
   R: Normalmente solo hace falta un número mínimo de estrellas para desbloquear
   nuevos paquetes de niveles, no es obligatorio conseguirlas todas.
 
+<!-- i18n:faq:id=faq:cut-the-rope:are-there-powerups-0fea9ab4 -->
 - P: ¿Hay potenciadores?
   
   R: Algunas versiones incluyen ayudas opcionales o pistas; su disponibilidad
   depende de la página donde juegues.
+

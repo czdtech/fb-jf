@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Cricket Hero es un juego de críquet de estilo arcade, sencillo pero muy
@@ -27,6 +28,7 @@ el golpe para pegarla y sumar carreras. Todo gira en torno al tiempo de
 reacción: si fallas el golpe o te derriban los palos, tu turno termina. ¿Cuántas
 carreras podrás conseguir antes de caer?
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Sigue la pelota:** Es la regla fundamental del críquet, y también de este
@@ -43,24 +45,30 @@ carreras podrás conseguir antes de caer?
     patrones se complican con el tiempo. Necesitas mantener la calma y la
     atención para acompañar ese aumento de dificultad.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 *   **Golpear la pelota:** Haz clic con el botón izquierdo del ratón o toca la
     pantalla para balancear el bate. El momento del clic es tu único control,
     así que cada golpe cuenta.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:cricket-hero:q-how-do-i-score-e3ee1485 -->
 *   **P: ¿Cómo se anotan carreras?**
     *   **R:** Sumas carreras cada vez que golpeas la pelota con el bate. Cuanto
         mejor sea la sincronización, más carreras puede otorgar un solo golpe (por
         ejemplo, 4 o 6).
 
+<!-- i18n:faq:id=faq:cricket-hero:q-how-does-the-game-f20a1993 -->
 *   **P: ¿Cuándo termina la partida?**
     *   **R:** El juego acaba cuando te derriban los palos, es decir, cuando la
         pelota golpea el wicket. Sueles disponer de un número limitado de
         palos/vidas por partida.
 
+<!-- i18n:faq:id=faq:cricket-hero:q-are-there-different-types-62d850aa -->
 *   **P: ¿Hay distintos tipos de lanzadores?**
     *   **R:** Sí, a medida que sumas carreras irás enfrentándote a lanzadores
         con distintas velocidades y estilos, lo que aumenta el desafío.
+

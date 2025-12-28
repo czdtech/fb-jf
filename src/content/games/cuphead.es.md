@@ -15,6 +15,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### **Introducción al juego**
 
 Cuphead es un clásico juego de acción run‑and‑gun centrado casi por completo en
@@ -39,6 +40,7 @@ La experiencia se divide en dos tipos principales de niveles:
 El juego es famoso por su alta dificultad: exige precisión, reflejos rápidos y
 una mentalidad de prueba‑y‑error para aprender cada patrón enemigo.
 
+<!-- i18n:section:tips -->
 ### **Estrategia y consejos de juego**
 
 1.  **Reconocer patrones lo es todo:** Aquí no gana quien más dispara, sino quien
@@ -71,40 +73,50 @@ una mentalidad de prueba‑y‑error para aprender cada patrón enemigo.
     tienen más vida y la pantalla se llena de proyectiles y personajes, así que
     la coordinación es imprescindible.
 
+<!-- i18n:section:controls -->
 ### **Guía de controles**
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Arrow Keys` `W, A, S, D` `Z` `Space Bar` `X` `Left Ctrl` `Left Shift` `V` `Right Ctrl` `C` `Tab` `E` `Q`
 
 Los controles son muy precisos. Estos son los mapeos de teclado más habituales:
 
-*   **Moverse:** `Flechas` o `W, A, S, D`
-*   **Saltar:** `Z` o `Barra espaciadora`
-*   **Disparar:** `X` o `Ctrl` izquierdo
-*   **Dash / Esquiva:** `Shift` izquierdo
-*   **Fijar posición (Lock):** `V` o `Ctrl` derecho
-*   **Cambiar de arma:** `C` o `Tab`
-*   **Ataque EX / Súper (con medidor lleno):** `E` o `Q`
+*   **Moverse:** Flechas o W, A, S, D
+*   **Saltar:** Z o Barra espaciadora
+*   **Disparar:** X o Ctrl izquierdo
+*   **Dash / Esquiva:** Shift izquierdo
+*   **Fijar posición (Lock):** V o Ctrl derecho
+*   **Cambiar de arma:** C o Tab
+*   **Ataque EX / Súper (con medidor lleno):** E o Q
 
+<!-- i18n:section:faq -->
 ### **Preguntas frecuentes (FAQ)**
 
+<!-- i18n:faq:id=faq:cuphead:is-this-game-really-as-cc4cdaae -->
 **1. ¿Es tan difícil como dicen?**  
 Sí. Cuphead está diseñado a propósito para ser exigente, como los arcades
 clásicos. Requiere paciencia y aceptar que vas a fallar muchas veces. Es duro,
 pero justo.
 
+<!-- i18n:faq:id=faq:cuphead:what-is-the-best-weapon-e96e78fc -->
 **2. ¿Cuál es la mejor combinación de arma y amuleto?**  
 No hay un set único perfecto, depende del jefe. Aun así, una combinación muy
 popular para empezar es **Spread** + **Chaser** junto al amuleto **Smoke Bomb**.
 
+<!-- i18n:faq:id=faq:cuphead:how-do-i-get-super-c96646ee -->
 **3. ¿Cómo desbloqueo las Super Arts?**  
 Completando los niveles del Mausoleo. En ellos tienes que hacer parry a una
 serie de fantasmas rosas para proteger una urna. Hay tres Mausoleos en total y
 cada uno te da una Super Art distinta.
 
+<!-- i18n:faq:id=faq:cuphead:what-is-the-point-of-08bd75a7 -->
 **4. ¿Para qué sirven exactamente los niveles Run & Gun?**  
 Su función principal es darte **monedas**. Las necesitas para comprar armas y
 amuletos en la tienda (Porkrind's Emporium), que son fundamentales para derrotar
 jefes.
 
+<!-- i18n:faq:id=faq:cuphead:is-twoplayer-coop-easier-75f09c78 -->
 **5. ¿Es más fácil jugar en cooperativo?**  
 Depende. Poder revivir al compañero es una gran ventaja, pero los jefes tienen
 más vida y la pantalla se llena de todavía más proyectiles. Si os coordináis
 bien, puede ser más llevadero; si no, puede ser incluso más caótico.
+

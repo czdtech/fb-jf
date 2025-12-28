@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### **Introducción al juego**
 
 Cookie Clicker es el arquetipo de los juegos incrementales (o "idle") y gira en
@@ -35,6 +36,7 @@ las **Golden Cookies** que aparecen aleatoriamente y varios minijuegos añaden
 capas de estrategia, convirtiendo un simple ejercicio de clics en un complejo
 puzle de optimización.
 
+<!-- i18n:section:tips -->
 ### **Estrategia y consejos de juego**
 
 La estrategia en Cookie Clicker consiste en ser eficiente y saber cuándo tomar
@@ -58,7 +60,7 @@ las decisiones clave.
 *   **¿Qué es la Ascensión?** La Ascensión es el sistema de prestigio del juego.
     Puedes decidir reiniciar la partida (perdiendo galletas, edificios y
     mejoras) a cambio de Heavenly Chips y niveles de prestigio. Cada nivel de
-    prestigio otorga un +1 % permanente a tu CpS en todas las partidas futuras.
+    prestigio otorga un +1% permanente a tu CpS en todas las partidas futuras.
 *   **¿Cuándo ascender por primera vez?** Lo más habitual es ascender por
     primera vez cuando has acumulado **entre 200 y 440** niveles de prestigio.
     Hacerlo antes suele ser poco eficiente. Puedes consultar tu prestigio
@@ -84,9 +86,10 @@ las decisiones clave.
     Dominar estos sistemas proporciona bonificaciones enormes a largo plazo,
     pero requiere gestión activa.
 *   **Sugar Lumps:** Obtienes un Sugar Lump aproximadamente cada 24 horas. Sirven
-    para subir de nivel tus edificios, y cada nivel concede un +1 % permanente
+    para subir de nivel tus edificios, y cada nivel concede un +1% permanente
     de CpS a ese tipo de edificio. Úsalos con cabeza.
 
+<!-- i18n:section:controls -->
 ### **Guía de controles**
 
 El juego se controla casi por completo con el ratón, pero hay algunos elementos
@@ -102,14 +105,17 @@ clave de la interfaz que conviene conocer.
     *   **CTRL + clic:** Compra 100 unidades.
     *   **SHIFT + clic:** Compra 1000 unidades.
 
+<!-- i18n:section:faq -->
 ### **Preguntas frecuentes (FAQ)**
 
+<!-- i18n:faq:id=faq:cookie-clicker:when-is-the-best-time-1f08eaaf -->
 **1. ¿Cuál es el mejor momento para ascender?**
 Para la primera Ascensión, espera hasta tener al menos entre 200 y 440 niveles
   de prestigio. A partir de ahí, asciende cada vez que notes que tu progreso se
   ha ralentizado mucho. En el juego medio y tardío, una partida eficiente puede
   durar desde unas horas hasta un día entero.
 
+<!-- i18n:faq:id=faq:cookie-clicker:what-is-the-point-of-83046206 -->
 **2. ¿Cuál es el sentido de la Grandmapocalypse? ¿Debería activarla?**
 La Grandmapocalypse desbloquea mejoras y logros muy potentes. Sin embargo, las
   Wrath Cookies pueden tener efectos negativos. Muchos jugadores prefieren
@@ -118,17 +124,20 @@ La Grandmapocalypse desbloquea mejoras y logros muy potentes. Sin embargo, las
   por las penalizaciones. Ambas opciones son válidas desde el punto de vista
   estratégico.
 
+<!-- i18n:faq:id=faq:cookie-clicker:what-should-i-spend-my-947839c8 -->
 **3. ¿En qué debería gastar mis primeros Sugar Lumps?**
 Una buena estrategia es usar tu primer Sugar Lump para subir las granjas a nivel
   1 y desbloquear el minijuego del jardín. Después, suele ser prioritario subir
   las torres de magos para desbloquear el grimorio y los templos para acceder al
   panteón.
 
+<!-- i18n:faq:id=faq:cookie-clicker:how-do-i-get-golden-ba541801 -->
 **4. ¿Cómo consigo combinaciones de Golden Cookies?**
 Depende en gran parte de la suerte. El hechizo "Force the Hand of Fate" del
   grimorio (minijuego de las torres de magos) te permite generar una Golden
   Cookie extra, y es la herramienta principal para forzar combinaciones poderosas.
 
+<!-- i18n:faq:id=faq:cookie-clicker:is-there-an-end-to-ce958c6b -->
 **5. ¿Cookie Clicker tiene final?**
 No. El juego está pensado para ser prácticamente infinito. El objetivo real es
   ver cómo los números siguen creciendo y desbloquear todos los logros y

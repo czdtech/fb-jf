@@ -15,6 +15,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Descripción general
 
 Un crucigrama es una cuadrícula de letras que se resuelve rellenando las
@@ -25,6 +26,7 @@ rotacional; las dimensiones típicas son 15×15 en los diarios y 21×21 en las
 grandes ediciones de domingo. Las variantes británicas o crípticas usan otros
 formatos de cuadrícula y convenciones de pista.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 - Selecciona una pista o una casilla y escribe letras para rellenar la
@@ -36,6 +38,7 @@ formatos de cuadrícula y convenciones de pista.
 - Muchas versiones en línea incluyen herramientas de Comprobar/Revelar, botón de
   Deshacer y temporizadores.
 
+<!-- i18n:section:controls -->
 ### Controles
 
 - Teclas A–Z para introducir letras; flechas para desplazarte por la cuadrícula.
@@ -55,20 +58,25 @@ formatos de cuadrícula y convenciones de pista.
 - Para estilos crípticos/británicos, separa la parte de definición de la parte
   de juego de palabras y presta atención a los indicadores.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:crossword-puzzle:whats-the-difference-between-a-05610f90 -->
 - P: ¿En qué se diferencian los crucigramas estadounidenses de los británicos?
   
   R: Los estadounidenses suelen tener todas las letras cruzadas y rejillas con
   simetría rotacional; los crípticos británicos se basan en juegos de palabras y
   permiten más letras sin cruzar.
 
+<!-- i18n:faq:id=faq:crossword-puzzle:what-size-is-a-typical-766f0dc1 -->
 - P: ¿Qué tamaño suele tener un crucigrama diario?
   
   R: Lo más habitual son 15×15 en diarios y alrededor de 21×21 los domingos
   (varía según el medio).
 
+<!-- i18n:faq:id=faq:crossword-puzzle:are-diacritics-or-punctuation-92188e66 -->
 - P: ¿Tengo que escribir tildes o signos de puntuación?
   
   R: La mayoría de crucigramas ignoran puntuación y tildes; normalmente solo se
   rellenan letras, salvo que se indique lo contrario.
+

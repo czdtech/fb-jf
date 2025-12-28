@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Color Pixel Art Classic es un relajante y satisfactorio juego de puzles
@@ -27,6 +28,7 @@ con cuidado todos los píxeles, poco a poco vas revelando una ilustración
 completa y llena de detalles. Es un juego perfecto para desconectar y expresar
 creatividad sin necesidad de tener habilidades artísticas.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Elige una imagen:** Empieza explorando la galería y selecciona el dibujo
@@ -43,6 +45,7 @@ creatividad sin necesidad de tener habilidades artísticas.
     marcado como completado. El puzle se completa cuando cada píxel ha
     sido coloreado.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 *   **Seleccionar color:** Haz clic o toca un color en la paleta inferior.
@@ -54,19 +57,24 @@ creatividad sin necesidad de tener habilidades artísticas.
 *   **Desplazar:** Haz clic y arrastra la imagen (cuando estés con zoom) para
     moverte por el lienzo.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:color-pixel-art:q-how-do-i-find-e055b785 -->
 *   **P: ¿Cómo encuentro todos los píxeles de un color concreto?**
     *   **R:** Cuando seleccionas un color de la paleta, el juego resalta
         automáticamente todos los píxeles que debes rellenar con ese tono, de
         modo que resulta mucho más fácil localizarlos.
 
+<!-- i18n:faq:id=faq:color-pixel-art:q-i-cant-find-the-3ad1888d -->
 *   **P: Me faltan unos pocos píxeles y no los encuentro, ¿qué hago?**
     *   **R:** Haz más zoom. Los últimos píxeles suelen ser muy pequeños o estar
         en zonas poco visibles. Acercar al máximo la imagen es la mejor forma
         de localizarlos.
 
+<!-- i18n:faq:id=faq:color-pixel-art:q-is-there-a-time-f08811d9 -->
 *   **P: ¿Hay límite de tiempo o puedo “perder”?**
     *   **R:** No. Es un juego de relajación pura. No hay temporizador, ni
         puntuación, ni castigos. Puedes tomarte todo el tiempo que quieras e
         incluso dejar un dibujo a medias y retomarlo más tarde.
+

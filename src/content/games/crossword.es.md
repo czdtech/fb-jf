@@ -15,6 +15,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Descripción general
 
 Los crucigramas son rejillas de letras que se resuelven rellenando las
@@ -23,6 +24,7 @@ crucigramas de estilo estadounidense, todas las letras suelen estar cruzadas por
 otra palabra y las rejillas acostumbran a tener simetría rotacional de 180°;
 los tamaños más habituales son 15×15 entre semana y 21×21 los domingos.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 - Haz clic en una pista o una casilla y escribe letras para rellenar la
@@ -32,6 +34,7 @@ los tamaños más habituales son 15×15 entre semana y 21×21 los domingos.
 - Muchas versiones web incluyen herramientas de Comprobar/Revelar, temporizador
   y atajos de navegación.
 
+<!-- i18n:section:controls -->
 ### Controles
 
 - Teclea A–Z; usa las flechas para moverte entre casillas; Backspace borra; y
@@ -47,14 +50,18 @@ los tamaños más habituales son 15×15 entre semana y 21×21 los domingos.
 - Aprende abreviaturas habituales y convenciones de pista propias de los
   crucigramas estadounidenses.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:crossword:what-sizes-are-typical-8c5e081e -->
 - P: ¿Qué tamaños son los más comunes?
   
   R: Los crucigramas diarios estadounidenses suelen ser de 15×15; las ediciones
   de domingo rondan los 21×21.
 
+<!-- i18n:faq:id=faq:crossword:do-all-letters-cross-26e76996 -->
 - P: ¿Todas las letras están cruzadas?
   
   R: En la mayoría de rejillas de estilo americano, cada letra se comprueba con
   al menos otra respuesta que la cruza.
+

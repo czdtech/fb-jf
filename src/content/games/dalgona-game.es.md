@@ -15,6 +15,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Dalgona Game es un desafío de trazar líneas con pulso firme inspirado en el
@@ -22,6 +23,7 @@ caramelo dalgona. Tienes que recortar la silueta marcada siguiendo sus bordes;
 si aplicas demasiada presión o te sales del contorno, el caramelo se resquebraja
 y pierdes la ronda.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  Ve despacio en las esquinas y reserva la velocidad para los tramos rectos.
@@ -33,25 +35,31 @@ y pierdes la ronda.
 5.  Gestiona el temporizador alternando zonas rápidas con tramos en los que
     reduzcas la velocidad para no cometer errores.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - Arrastra el dedo o el ratón para seguir el contorno; según la versión, puede
   haber sensibilidad a la presión o al ángulo.
 - Reinicia rápidamente la ronda si el caramelo se rompe.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:dalgona-game:i-keep-cracking-near-corners-7c975395 -->
 - P: Siempre rompo la galleta en las esquinas, ¿cómo lo evito?
   
   R: Reduce la velocidad, abre un poco más el giro si el juego lo permite y
   haz una breve pausa antes de cada cambio de dirección brusco.
 
+<!-- i18n:faq:id=faq:dalgona-game:is-pressure-modeled-5a61359e -->
 - P: ¿El juego tiene en cuenta la presión del trazo?
   
   R: Algunas versiones simulan la presión; en ellas es mejor arrastrar con
   suavidad cerca de los bordes más delicados.
 
+<!-- i18n:faq:id=faq:dalgona-game:any-tips-for-starsumbrellas-714927fc -->
 - P: ¿Algún consejo para figuras difíciles, como estrellas o paraguas?
   
   R: Empieza por los tramos largos y rectos y deja las curvas cerradas y picos
   para el final, cuando estés más cómodo con el margen de error.
+

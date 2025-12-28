@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Daily Word Climb es un ingenioso puzle de palabras que te propone un
@@ -26,6 +27,7 @@ letras de dos en dos. Tras cada intercambio, las casillas cambian de color y te
 ofrecen pistas visuales sobre la posición correcta de cada letra. Con un número
 limitado de movimientos, tienes que pensar cada jugada.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Comprende el código de colores:** Los colores son tu principal guía.
@@ -44,6 +46,7 @@ limitado de movimientos, tienes que pensar cada jugada.
     aleatorios y elige siempre el intercambio que más información te aporte o
     acerque varias letras a su posición final.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 El juego se maneja con clics o toques muy sencillos.
@@ -51,17 +54,22 @@ El juego se maneja con clics o toques muy sencillos.
 *   **Intercambiar letras:** Haz clic en la primera letra que quieras mover y
     luego en la segunda; las dos casillas intercambiarán su contenido.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:daily-word-climb:q-what-do-the-colors-78c561b8 -->
 *   **P: ¿Qué significan exactamente los colores de las casillas?**
     *   **R:** Verde indica letra correcta en lugar correcto; amarillo, letra
         correcta en sitio equivocado; blanco o gris, letra que no pertenece a la
         palabra de esa fila.
 
+<!-- i18n:faq:id=faq:daily-word-climb:q-what-happens-if-i-63c9772b -->
 *   **P: ¿Qué ocurre si me quedo sin movimientos?**
     *   **R:** Si no resuelves el puzle dentro del número de intercambios
         disponibles, fallas el nivel y tendrás que volver a intentarlo.
 
+<!-- i18n:faq:id=faq:daily-word-climb:q-is-there-a-new-60884d82 -->
 *   **P: ¿De verdad hay un puzle nuevo cada día?**
     *   **R:** Sí, la idea de Daily Word Climb es ofrecerte un reto fresco y
         diferente cada día.
+

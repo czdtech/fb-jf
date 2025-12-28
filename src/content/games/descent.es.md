@@ -15,6 +15,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Descripción general
 
 Descent es un juego minimalista de habilidad en scroll vertical en el que
@@ -22,6 +23,7 @@ caes por un pozo, encadenas saltos entre paredes y evitas trampas como pinchos y
 plataformas móviles. Muchas versiones web usan controles de uno o dos botones
 para saltar de una pared a otra mientras la gravedad te empuja hacia abajo.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 - Toca o haz clic para saltar desde la pared actual hacia el lado opuesto y
@@ -31,6 +33,7 @@ para saltar de una pared a otra mientras la gravedad te empuja hacia abajo.
 - En algunas versiones, los coleccionables suman puntos o desbloquean aspectos
   cosméticos.
 
+<!-- i18n:section:controls -->
 ### Controles
 
 - Ratón/táctil: toca para saltar; en otras variantes se usan las teclas
@@ -46,14 +49,18 @@ para saltar de una pared a otra mientras la gravedad te empuja hacia abajo.
 - Aprovecha los instantes en los que te "pegas" a la pared para mirar uno o dos
   pantallazos por delante y planear tu siguiente movimiento.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:descent:is-progress-endless-or-levelba-a930a1f6 -->
 - P: ¿Es un juego sin fin o por niveles?
   
   R: Depende de la versión; algunas son carreras infinitas de puntuación y otras
   tienen niveles con puntos de control.
 
+<!-- i18n:faq:id=faq:descent:are-there-powerups-0fea9ab4 -->
 - P: ¿Hay potenciadores?
   
   R: En ciertas versiones aparecen escudos o cámara lenta; su presencia depende
   del portal donde lo juegues.
+

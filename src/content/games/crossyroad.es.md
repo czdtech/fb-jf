@@ -11,9 +11,11 @@ thumbnail: /new-images/thumbnails/crossyroad.jpg
 tags:
   - crossy road
 score: 4.8/5  (1104 votes)
+releaseDate: 2025-12-04
 ---
 
 
+<!-- i18n:section:introduction -->
 Crossy Road es un videojuego de estilo arcade infinito, tremendamente popular y
 adictivo, desarrollado y publicado por Hipster Whale. El objetivo es muy simple:
 cruzar una serie de carreteras con tráfico, ríos y vías de tren durante el
@@ -22,6 +24,7 @@ y su enorme colección de personajes desbloqueables lo han convertido en un éxi
 mundial en móviles y otras plataformas. El nombre y el concepto del juego son
 un guiño al chiste clásico de "¿por qué cruzó la carretera la gallina?".
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar a Crossy Road
 
 -  **Movimiento:** Controlas a tu personaje tocando la pantalla para saltar una
@@ -64,6 +67,7 @@ un guiño al chiste clásico de "¿por qué cruzó la carretera la gallina?".
 
 ---
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
 **P: ¿Cómo consigo nuevos personajes?**  
@@ -79,3 +83,4 @@ No afectan a tu puntuación ni a tus habilidades de juego.
 **P: ¿Por qué me ha llevado un águila?**  
 **R:** Ocurre cuando te quedas demasiado tiempo en el mismo sitio o retrocedes
 mucho. El juego está diseñado para obligarte a seguir avanzando.
+

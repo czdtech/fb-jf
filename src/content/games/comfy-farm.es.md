@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Comfy Farm es un encantador y relajante simulador de granja en el que construyes
@@ -26,6 +27,7 @@ recogerás las cosechas para obtener beneficios y los defenderás de las plagas.
 Con las ganancias podrás comprar nuevas semillas y mejoras que te ayuden a
 automatizar y ampliar tu cómoda granja.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **El ciclo de cultivo:** El núcleo del juego es el ciclo de plantar y
@@ -44,6 +46,7 @@ automatizar y ampliar tu cómoda granja.
     parcelas. Cuanto más terreno tengas, más cultivos podrás llevar en paralelo
     y más rápido crecerán tus ingresos.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 El juego se maneja por completo con clics de ratón o toques en pantalla.
@@ -55,19 +58,24 @@ El juego se maneja por completo con clics de ratón o toques en pantalla.
 *   **Comprar mejoras:** Haz clic en los iconos de mejora (como el aspersor o el
     espantapájaros) para adquirirlos cuando tengas suficiente dinero.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:comfy-farm:q-how-do-i-make-13459c2c -->
 *   **P: ¿Cómo gano dinero más rápido?**
     *   **R:** Planta tantos cultivos como puedas y cósechalos en cuanto estén
         listos. Cuando desbloquees semillas más caras, priorízalas: suelen dar
         más beneficio, aunque tarden algo más en crecer.
 
+<!-- i18n:faq:id=faq:comfy-farm:q-what-is-the-best-30cbf0cf -->
 *   **P: ¿Cuál es la mejor mejora para comprar primero?**
     *   **R:** El aspersor es una excelente primera inversión. Automatiza el
         riego, te ahorra muchos clics y te permite gestionar más parcelas a la
         vez.
 
+<!-- i18n:faq:id=faq:comfy-farm:q-why-did-one-of-390e6ea6 -->
 *   **P: ¿Por qué ha desaparecido una de mis plantas?**
     *   **R:** Lo más probable es que una plaga se la haya comido. Tienes que
         reaccionar rápido y hacer clic sobre cuervos o insectos en cuanto los veas
         sobre tus cultivos para evitar que se los lleven.
+

@@ -18,6 +18,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Daily Sudoku te ofrece un Sudoku clásico nuevo cada día. Es un puzle de
@@ -26,6 +27,7 @@ una cuadrícula de 9x9 con dígitos de manera que cada fila, cada columna y cada
 subcuadrícula 3x3 contenga todos los números del 1 al 9. No necesitas saber
 matemáticas: solo lógica, paciencia y concentración.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Regla básica:** La regla de oro es sencilla: del 1 al 9, una sola vez por
@@ -43,6 +45,7 @@ matemáticas: solo lógica, paciencia y concentración.
     las notas de una fila, columna o caja 3x3, debe ir en esa casilla concreta,
     aunque tenga otros candidatos anotados.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 *   **Seleccionar casilla:** Haz clic en cualquier casilla vacía del 9x9.
@@ -54,17 +57,22 @@ matemáticas: solo lógica, paciencia y concentración.
 *   **Borrador:** Usa la herramienta de borrar para limpiar una casilla o sus
     anotaciones.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:daily-sudoku-3:q-do-i-need-to-99fa486b -->
 *   **P: ¿Hay que ser bueno en matemáticas para jugar al Sudoku?**
     *   **R:** No. Es un puzle de lógica pura. Podrías usar símbolos en
         lugar de números; el reto está en los patrones y en la deducción.
 
+<!-- i18n:faq:id=faq:daily-sudoku-3:q-what-happens-if-i-6503c463 -->
 *   **P: ¿Qué pasa si pongo un número incorrecto?**
     *   **R:** La mayoría de versiones digitales, incluida esta, marcan los
         conflictos al instante (por ejemplo, en rojo), para que puedas
         corregirlos.
 
+<!-- i18n:faq:id=faq:daily-sudoku-3:q-why-should-i-use-44fd4d40 -->
 *   **P: ¿Cuándo conviene usar el modo "notas"?**
     *   **R:** En los sudokus de dificultad media y alta es casi imprescindible.
         Te permite trabajar de forma estructurada sin depender de la memoria.
+

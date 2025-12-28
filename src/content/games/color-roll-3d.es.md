@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Color Roll 3D presenta capas de tiras de color que debes desenrollar para cubrir
@@ -23,6 +24,7 @@ el tablero de forma exacta. El truco está en el orden: las tiras posteriores
 pueden tapar a las primeras, así que tienes que elegir una secuencia que copie
 el dibujo objetivo sin errores de solapamiento.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  Empieza normalmente por el color de base más profundo, el que cubre la zona
@@ -36,6 +38,7 @@ el dibujo objetivo sin errores de solapamiento.
 5.  Compárate constantemente con la vista previa del objetivo después de cada
     movimiento para detectar errores a tiempo.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - Arrastra para desenrollar una tira a lo largo de su trayectoria; toca o haz
@@ -43,19 +46,24 @@ el dibujo objetivo sin errores de solapamiento.
 - Si el juego lo soporta, usa zoom y desplazamiento para colocar con mayor
   precisión.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:color-roll-3d:i-always-end-with-one-47d606aa -->
 - P: Siempre termino con una casilla sin cubrir, ¿qué estoy haciendo mal?
   
   R: El orden de las tiras no es el correcto. Coloca primero los colores de
   base que cubren grandes áreas y deja los detalles pequeños para el final.
 
+<!-- i18n:faq:id=faq:color-roll-3d:are-multiple-orders-valid-5e255e74 -->
 - P: ¿Hay varios órdenes válidos?
   
   R: En algunos puzles sí, pero en la mayoría solo hay una o unas pocas
   secuencias correctas.
 
+<!-- i18n:faq:id=faq:color-roll-3d:is-there-a-hint-system-23e35ede -->
 - P: ¿Existe un sistema de pistas?
   
   R: Muchas versiones incluyen pistas; úsalas con moderación para no perder el
   desafío del puzle.
+

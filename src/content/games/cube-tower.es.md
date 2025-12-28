@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Cube Tower es un juego de defensa de torres en el que tu misión principal es
@@ -23,6 +24,7 @@ proteger una "Cube Tower" central de sucesivas oleadas de enemigos. Para lograrl
 colocas y mejoras distintos tipos de torres defensivas de forma estratégica, de
 modo que cubran los caminos por los que avanzan los invasores.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Colocación estratégica:** Piensa bien dónde colocar cada torre para
@@ -39,13 +41,16 @@ modo que cubran los caminos por los que avanzan los invasores.
     mejorar torres. Rejugar niveles es una buena forma de acumular recursos para
     futuras mejoras si tu versión lo permite.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 *   **Ratón/Pantalla táctil:** Usa el ratón o los gestos táctiles para
     seleccionar, colocar y mejorar tus torres.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:cube-tower:q-whats-the-best-tower-fb7b92ec -->
 *   **P: ¿Cuál es la mejor torre del juego?**
     *   **R:** No existe una sola torre "mejor"; cada tipo es efectivo contra
         determinados enemigos. Una buena estrategia es mezclar torres para
@@ -53,7 +58,9 @@ modo que cubran los caminos por los que avanzan los invasores.
         excelentes contra grupos de enemigos, mientras que las torres láser
         funcionan bien contra objetivos rápidos.
 
+<!-- i18n:faq:id=faq:cube-tower:q-how-do-i-get-fd70a5ab -->
 *   **P: ¿Cómo consigo 3 estrellas al final del nivel?**
     *   **R:** Las estrellas dependen de cuántas vidas conservas al terminar. Si
         impides que casi todos los enemigos alcancen tu Cube Tower, obtendrás la
         puntuación máxima.
+

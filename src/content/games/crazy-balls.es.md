@@ -15,6 +15,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Crazy Balls te reta a lanzar bolas a través de niveles llenos de obstáculos,
@@ -22,6 +23,7 @@ Crazy Balls te reta a lanzar bolas a través de niveles llenos de obstáculos,
   control fino de la potencia son lo que diferencia una limpieza perfecta de un
   disparo caótico.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  Utiliza las paredes laterales para doblar la trayectoria y entrar en
@@ -35,24 +37,30 @@ Crazy Balls te reta a lanzar bolas a través de niveles llenos de obstáculos,
 5.  Si el tiro sale mal, reinicia rápido y conserva tiempo para los intentos
     buenos.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - Arrastra para apuntar y ajustar la potencia; suelta para disparar.
 - Usa los botones de la interfaz para reiniciar el nivel cuando lo necesites.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:crazy-balls:shots-feel-random-how-to-edd8a905 -->
 - P: Mis disparos parecen aleatorios, ¿cómo los controlo mejor?
   
   R: Baja la potencia, simplifica los ángulos y memoriza unos pocos puntos de
   rebote fiables en las paredes.
 
+<!-- i18n:faq:id=faq:crazy-balls:are-there-powerups-0fea9ab4 -->
 - P: ¿Hay potenciadores?
   
   R: Algunas versiones incluyen multiplicadores o cámara lenta; guárdalos para
   las secciones más complicadas.
 
+<!-- i18n:faq:id=faq:crazy-balls:timed-levels-05d52f9e -->
 - P: ¿Los niveles tienen tiempo?
   
   R: Si hay límite de tiempo, prioriza el progreso seguro frente a los tiros
   espectaculares pero arriesgados.
+

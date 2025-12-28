@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### **Introducción al juego**
 
 En esta versión tomas el control directo de un único vaquero héroe. La
@@ -27,6 +28,7 @@ clásicos hasta pistolas láser alienígenas), potenciadores y botiquines, todo
 mientras esquivas proyectiles y ataques enemigos. El objetivo es sobrevivir a
 cada fase y derrotar al jefe final.
 
+<!-- i18n:section:tips -->
 ### **Estrategia y consejos de juego**
 
 #### **Para juegos de acción/de disparos**
@@ -47,16 +49,20 @@ cada fase y derrotar al jefe final.
     un rifle es mejor para abatir enemigos lejanos. Cambia de arma según la
     situación.
 
+<!-- i18n:section:controls -->
 ### **Guía de controles**
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `W` `A` `S` `D` `Left Mouse Button` `Space Bar` `1` `2` `3...`
 
 *   **PC/Web:**
-    *   **Movimiento:** teclas `W`, `A`, `S`, `D` o flechas de dirección.
+    *   **Movimiento:** teclas W, A, S, D o flechas de dirección.
     *   **Apuntar:** ratón.
     *   **Disparar:** botón izquierdo del ratón.
     *   **Saltar:** barra espaciadora.
-    *   **Cambiar de arma:** números (`1`, `2`, `3...`) o rueda del ratón.
+    *   **Cambiar de arma:** números (1, 2, 3...) o rueda del ratón.
 *   **Móvil:**
     *   **Movimiento:** joystick virtual en la parte izquierda de la pantalla.
     *   **Apuntar/Disparar:** botones en la parte derecha; normalmente hay un
         botón para disparar, otro para saltar y, a veces, para habilidades
         especiales.
+

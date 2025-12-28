@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### **Introducción al juego**
 
 **Este NO es un juego oficial de Cooking Mama.** *Cooking Mama: Mama Kills
@@ -37,6 +38,7 @@ El núcleo de la experiencia es el contraste entre la imagen dulce y sonriente
   lágrimas y declara que no volverá a cocinar carne, pasando a preparar un
   Tofurkey (un sustituto de pavo hecho de tofu).
 
+<!-- i18n:section:tips -->
 ### **Estrategia y consejos de juego**
 
 No hay una "estrategia" clásica para ganar este juego: es una experiencia lineal
@@ -55,6 +57,7 @@ secuencia tal y como la han diseñado sus creadores.
     de "fallar" que te bloquee el progreso; el juego está diseñado para que
     veas todo su arco narrativo.
 
+<!-- i18n:section:controls -->
 ### **Guía de controles**
 
 El juego nació como título en Flash para navegador y utiliza controles muy
@@ -64,27 +67,33 @@ El juego nació como título en Flash para navegador y utiliza controles muy
     plumas, cortar o mover objetos, se realizan haciendo clic sobre un elemento
     y arrastrando en la dirección que indiquen las flechas o guías en pantalla.
 
+<!-- i18n:section:faq -->
 ### **Preguntas frecuentes (FAQ)**
 
+<!-- i18n:faq:id=faq:cooking-mama:is-this-a-real-official-38f41088 -->
 **1. ¿Es un juego oficial de Cooking Mama?**
 No, en absoluto. Es una parodia creada por PETA para protestar contra el uso de
   carne en los juegos oficiales. No tiene ninguna relación con la franquicia
   original ni con sus desarrolladores.
 
+<!-- i18n:faq:id=faq:cooking-mama:why-is-this-game-so-8eedc3a7 -->
 **2. ¿Por qué es tan violento y gráfico?**
 La crudeza es totalmente intencionada. PETA usa el impacto visual para
   contrastar la imagen alegre y limpia de la cocina en los juegos oficiales con
   lo que presenta como la realidad violenta de la industria cárnica. Su objetivo
   es incomodar al jugador y hacerle cuestionar el origen de su comida.
 
+<!-- i18n:faq:id=faq:cooking-mama:is-there-an-official-vegetaria-a3392ef5 -->
 **3. ¿Existe un Cooking Mama vegetariano oficial?**
 Sí. En parte como respuesta a esta parodia y a otros comentarios, los
   desarrolladores oficiales lanzaron títulos como *Gardening Mama* y *Cooking
   Mama: World Kitchen*, que incluyen más recetas o modos centrados en opciones
   vegetarianas.
 
+<!-- i18n:faq:id=faq:cooking-mama:where-can-i-play-this-4bfcb29e -->
 **4. ¿Dónde se puede jugar?**
 Originalmente se ofrecía gratis en la web de PETA. Como se creó en Adobe Flash,
   ahora puede resultar difícil ejecutarlo en navegadores modernos. Es posible
   que aún se pueda encontrar en proyectos de preservación de Flash o en
   colecciones como la Software Library de Internet Archive.
+

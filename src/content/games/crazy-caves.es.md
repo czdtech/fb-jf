@@ -18,6 +18,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Crazy Caves es un arcade de ritmo rápido que pone a prueba tus reflejos y tu
@@ -28,6 +29,7 @@ es doble: esquivar la lluvia de escombros para seguir con vida y, al mismo
   sueltan. Con las ganancias podrás mejorar tu equipo y ver hasta dónde eres
   capaz de aguantar en estas cavernas caóticas.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Sobrevivir primero:** Tu prioridad absoluta es no recibir impactos. Muévete
@@ -44,6 +46,7 @@ es doble: esquivar la lluvia de escombros para seguir con vida y, al mismo
     que es vital para sobrevivir. Aumentar tus ingresos por roca crea un bucle
     positivo para futuras mejoras.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 *   **Moverse:** Usa el ratón o el dedo para arrastrar la vagoneta de izquierda
@@ -51,18 +54,23 @@ es doble: esquivar la lluvia de escombros para seguir con vida y, al mismo
 *   **Lanzar picos:** Haz clic con el botón izquierdo o toca la pantalla para
     lanzar un pico hacia arriba.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:crazy-caves:q-what-happens-if-a-3ec02fca -->
 *   **P: ¿Qué ocurre si una roca me golpea?**
     *   **R:** La partida termina al instante y tendrás que empezar una nueva
         ronda desde cero.
 
+<!-- i18n:faq:id=faq:crazy-caves:q-what-should-i-focus-eac7837a -->
 *   **P: ¿Qué debería mejorar primero?**
     *   **R:** Una buena estrategia inicial es subir el daño del pico. Así podrás
         eliminar las rocas peligrosas con menos golpes y alargar tus partidas. A
         continuación, invertir en mejoras de ingresos es una excelente opción.
 
+<!-- i18n:faq:id=faq:crazy-caves:q-how-do-i-deal-a1e317c1 -->
 *   **P: ¿Cómo gestiono los bloques gigantes?**
     *   **R:** Las rocas grandes necesitan varios impactos. Lanza varios picos
         seguidos mientras sigues esquivando el resto de escombros y procura
         empezar a dañarlas cuando aún estén lejos de tu posición.
+

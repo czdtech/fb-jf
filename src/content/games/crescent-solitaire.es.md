@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Descripción general
 
 Crescent Solitaire es un juego de paciencia con dos barajas que se juega con 16
@@ -31,6 +32,7 @@ inferior de cada montón de mesa a la parte superior; normalmente dispones de
 hasta tres repartos de nuevo por partida. Cuando las dos bases de un mismo palo están en
 secuencia, puedes transferir cartas entre ellas (salvo el As y el Rey base).
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 - Mueve las cartas superiores disponibles de la mesa a las bases, siguiendo el
@@ -43,10 +45,11 @@ secuencia, puedes transferir cartas entre ellas (salvo el As y el Rey base).
   cada montón pase a la parte superior; normalmente cuentas con hasta tres
   repartos de nuevo.
 
+<!-- i18n:section:controls -->
 ### Controles
 
 - Ratón/táctil: selecciona o arrastra cartas; toca los botones de Deshacer,
-  Pista o `Redeal` (según lo que ofrezca la página anfitriona).
+  Pista o Redeal (según lo que ofrezca la página anfitriona).
 - No hay mazo del que robar cartas; todo el progreso depende de cómo manipules
   la mesa y de cuándo uses los repartos de nuevo.
 
@@ -61,19 +64,24 @@ secuencia, puedes transferir cartas entre ellas (salvo el As y el Rey base).
 - Tras cada reparto de nuevo, vuelve a revisar todos los montones; muchas cartas valiosas
   habrán rotado hasta posiciones jugables.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:crescent-solitaire:how-many-redeals-are-allowed-1aabe151 -->
 - P: ¿Cuántos repartos de nuevo se permiten?
   
   R: En la variante estándar de Crescent tienes tres repartos de nuevo (cuatro ciclos en
   total).
 
+<!-- i18n:faq:id=faq:crescent-solitaire:can-empty-spaces-be-filled-58017c44 -->
 - P: ¿Se pueden rellenar los huecos en la mesa?
   
   R: No. En Crescent las pilas vacías permanecen vacías durante toda la partida.
 
+<!-- i18n:faq:id=faq:crescent-solitaire:what-is-foundation-transfer-c079b0e6 -->
 - P: ¿Qué es la "transferencia de bases"?
   
   R: Si las dos bases de un palo (As y Rey) están en secuencia, puedes mover una
   o varias cartas de la parte superior de una base a la otra (sin incluir el As
   o el Rey base) para seguir construyendo.
+

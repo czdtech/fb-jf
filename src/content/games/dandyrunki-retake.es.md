@@ -12,6 +12,7 @@ tags:
   - dandyrunki retake
   - dandyrunki retake online
 score: 3.7/5  (255 votes)
+releaseDate: 2025-12-04
 ---
 
 
@@ -56,3 +57,4 @@ bases rítmicas en cuestión de segundos. Tanto si solo quieres jugar un rato co
 si te interesa experimentar con capas y armonías, el juego te da las herramientas
 para encontrar tu propio estilo. Únete a Dandyrunki Retake y empieza hoy mismo
 un nuevo viaje de creación musical.
+

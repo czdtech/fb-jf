@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 Confront te sitúa en un frenético escenario de disparos donde la rapidez al
 apuntar y la capacidad de reacción lo son todo. El juego incorpora momentos de
 cámara lenta ("bullet time") para que puedas tomar decisiones más calculadas, lo que lo
@@ -23,9 +24,11 @@ diferencia de los juegos de disparos tradicionales. Tendrás que equilibrar intu
 precisión a lo largo de entornos llenos de acción mientras afinas tu puntería en
 retos que cambian constantemente.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 Usa el ratón para guiar al personaje. Haz clic para ralentizar el tiempo y, al
 mismo tiempo, disparar a los enemigos. Avanza eliminando a todos los oponentes
 que encuentres. Adáptate rápido y apunta con cuidado. Un consejo: priorizar los
 impactos a la cabeza puede acelerar mucho tus victorias.
+

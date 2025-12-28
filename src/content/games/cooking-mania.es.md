@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Cooking Mania condensa el ajetreo de un restaurante en niveles rápidos: prepara
@@ -23,6 +24,7 @@ ingredientes, monta los platos en el orden correcto y sírvelos antes de que se
 agote el tiempo. Las mejoras de equipo, las sartenes extra y una preparación
 más rápida te permiten encadenar pedidos y conseguir monedas extra.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  Prepara por lotes los productos más demandados para reducir los tiempos de
@@ -36,25 +38,31 @@ más rápida te permiten encadenar pedidos y conseguir monedas extra.
 5.  Organiza la barra de trabajo para minimizar el recorrido del ratón y evitar
     clics innecesarios.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - Toca para preparar ingredientes, arrastra para montar el plato y toca al
   cliente para servirle.
 - Compra mejoras entre niveles desde la tienda.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:cooking-mania:i-burn-items-how-to-6c31ecde -->
 - P: Siempre quemo la comida, ¿cómo lo evito?
   
   R: Escalona el inicio de cada preparación y escucha las señales sonoras; retira
   los platos del fuego justo en el punto "perfecto".
 
+<!-- i18n:faq:id=faq:cooking-mania:which-upgrades-are-best-early-7cbbb062 -->
 - P: ¿Qué mejoras son mejores al principio?
   
   R: Prioriza más planchas/sartenes y velocidad de preparación; la decoración del
   local puede esperar hasta más adelante.
 
+<!-- i18n:faq:id=faq:cooking-mania:can-i-pause-54d738e5 -->
 - P: ¿Se puede pausar?
   
   R: Muchos niveles no permiten pausar en plena hora punta; organiza tu tiempo
   antes de empezar.
+

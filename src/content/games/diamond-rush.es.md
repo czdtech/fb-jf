@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Diamond Rush es un puzle match‑3 brillante y adictivo que pone a prueba tu
@@ -28,6 +29,7 @@ una experiencia clásica de match‑3 centrada en el ritmo rápido y las puntuac
 altas. Según el modo, competirás contra el reloj o tendrás que cumplir
 objetivos específicos para avanzar por los niveles.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Busca combinaciones especiales:** Alinear cuatro o cinco diamantes, o
@@ -48,26 +50,32 @@ objetivos específicos para avanzar por los niveles.
     buscar jugadas evidentes y rápidas en lugar de pensar demasiado cada
     movimiento. La eficiencia pesa más que la perfección.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 *   **Intercambiar diamantes:** Usa el ratón o el dedo para hacer clic y arrastrar
     un diamante hacia una casilla adyacente e intercambiarlo. El movimiento solo
     es válido si genera al menos una combinación de tres gemas iguales.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:diamond-rush:q-what-is-the-goal-0440a217 -->
 *   **P: ¿Cuál es el objetivo principal de Diamond Rush?**
     *   **R:** Completar los objetivos de cada nivel, que suelen consistir en
         eliminar diamantes para limpiar el tablero, alcanzar una puntuación
         mínima o romper determinados obstáculos.
 
+<!-- i18n:faq:id=faq:diamond-rush:q-how-do-i-get-9db98676 -->
 *   **P: ¿Cómo consigo potenciadores o gemas especiales?**
     *   **R:** Al unir más de tres diamantes en una sola jugada. Por ejemplo,
         cuatro en línea pueden crear una gema que limpia filas o columnas, y
         cinco pueden convertirse en una pieza que elimina todos los diamantes de
         un color.
 
+<!-- i18n:faq:id=faq:diamond-rush:q-is-there-a-time-71e1686c -->
 *   **P: ¿Siempre hay límite de tiempo?**
     *   **R:** Muchos niveles son cronometrados y te obligan a completar los
         objetivos antes de que se agote el tiempo, pero otros están limitados
         por número de movimientos.
+
