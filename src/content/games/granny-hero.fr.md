@@ -13,10 +13,12 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Granny Hero est un runner léger et humoristique où une grand‑mère ultra dynamique traverse les rues, esquive les obstacles slapstick et collecte des objets pour aider ses voisins. Tu devras changer de voie au bon moment, synchroniser sauts et glissades, et profiter de gadgets (trottinettes, parapluies, poêles, etc.) qui offrent une brève invincibilité ou permettent de nettoyer la route.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu et stratégies
 
 1.  Vision des voies : garde les yeux deux obstacles en avance pour anticiper les changements de ligne.
@@ -25,24 +27,30 @@ Granny Hero est un runner léger et humoristique où une grand‑mère ultra dyn
 4.  Priorité aux missions : si la route des pièces et celle d’un voisin à sauver divergent, choisis d’abord l’objectif de mission.
 5.  Reprise après erreur : après un choc, retrouve ton tempo avant de te reconcentrer sur le score.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
-- Changer de voie : `A` / `D` ou flèches gauche/droite.  
-- Sauter : `Espace` ou flèche haut.  
+- Changer de voie : A / D ou flèches gauche/droite.  
+- Sauter : Espace ou flèche haut.  
 - Glisser : flèche bas.  
 - Gadgets : touches spécifiques selon la version.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:granny-hero:i-keep-clipping-cones-any-dacced33 -->
 - Q : Je touche tout le temps les plots, un conseil ?
   
   R : Décale légèrement ton saut (un temps plus tard) et recentre‑toi après chaque obstacle pour garder un maximum d’options.
 
+<!-- i18n:faq:id=faq:granny-hero:are-gadgets-necessary-d17244e9 -->
 - Q : Les gadgets sont‑ils indispensables ?
   
   R : Ils servent surtout de filet de sécurité ; garde‑les pour les zones où la densité d’obstacles explose.
 
+<!-- i18n:faq:id=faq:granny-hero:endless-ea2091be -->
 - Q : Le jeu est‑il infini ?
   
   R : La plupart des modes sont des runners infinis, avec des missions ou objectifs qui se superposent par dessus.
+
 

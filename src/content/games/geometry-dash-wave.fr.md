@@ -15,6 +15,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Geometry Dash Wave est un mode de jeu exigeant, basé sur le rythme, issu de l’univers Geometry Dash. Tu contrôles une icône triangulaire qui avance en continu dans un parcours rempli de pièges. La mécanique « wave » te demande un timing très précis : ton triangle se déplace en diagonale vers le haut ou vers le bas selon que tu maintiens ou relâches la touche.
@@ -26,11 +27,15 @@ Geometry Dash Wave est un mode de jeu exigeant, basé sur le rythme, issu de l�
 - **Éviter les obstacles** : le défi principal consiste à ne pas toucher les nombreuses piques, murs et formes géométriques.
 - **Inversion de gravité** : certains passages inversent la « gravité » et retournent la façon dont la wave réagit à tes entrées.
 
+<!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Spacebar` `Up Arrow Key` `Left Mouse Button`
 
-- **PC** : `Espace`, flèche haut ou clic gauche pour contrôler la wave.  
+- **PC** : Espace, flèche haut ou clic gauche pour contrôler la wave.  
 - **Mobile** : maintiens/relâche ton doigt sur l’écran pour contrôler la trajectoire.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
 **Quel est l’objectif du mode Geometry Dash Wave ?**  
@@ -41,4 +46,5 @@ Le mode « wave » est un type de gameplay et de design de niveau très populair
 
 **Comment améliorer mon timing ?**  
 En t’entraînant. Concentre‑toi sur la musique et les motifs visuels. Commence par des niveaux plus lents pour bien sentir la wave avant d’attaquer les niveaux rapides ou très techniques.
+
 

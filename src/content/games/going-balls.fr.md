@@ -16,21 +16,24 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Going Balls est un runner de type « tilt‑and‑roll » sur des pistes étroites remplies de poutres, bumpers, marteaux et plateformes mobiles. La précision est essentielle : de petites corrections de direction gardent ta bille en équilibre, tandis qu'une vitesse incontrôlée t'enverra immédiatement dans le vide. Les niveaux introduisent des mécaniques comme des aimants, des rampes ou des rails ; les pièces permettent de débloquer de nouvelles billes cosmétiques et parfois des continues.
 
+<!-- i18n:section:how-to-play -->
 ### Comment jouer
 
 - Dose ta direction pour rester centré sur les poutres ; freine avant les virages serrés.
 - Observe le timing des obstacles mobiles (marteaux, pousseurs) et passe pendant leur temps de récupération.
 - Ramasse les pièces et clés en suivant les trajectoires les plus sûres, sans tenter des détours trop risqués.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
-- `WASD` / flèches ou glisser pour diriger la bille.
-- `Espace` : freiner (selon la version).
-- `R` : recommencer le niveau (si disponible).
+- WASD / flèches ou glisser pour diriger la bille.
+- Espace : freiner (selon la version).
+- R : recommencer le niveau (si disponible).
 
 ### Astuces
 
@@ -38,16 +41,21 @@ Going Balls est un runner de type « tilt‑and‑roll » sur des pistes étroit
 - Sur les rampes raides, prends de la vitesse puis minimise les corrections de direction.
 - Si tu commences à vaciller, ralentis pour te recentrer.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:going-balls:how-can-i-stop-falling-f572108e -->
 - Q : Comment arrêter de tomber sur les poutres étroites ?
 
   R : Réduis l'amplitude de tes mouvements et approche bien dans l'axe. Ne corrige qu'avec de très petits ajustements.
 
+<!-- i18n:faq:id=faq:going-balls:what-do-coins-unlock-in-4a7b7804 -->
 - Q : À quoi servent les pièces ?
 
   R : Principalement à débloquer des skins de billes. Sur certains hôtes, elles servent aussi à acheter des continues ou à ouvrir des niveaux bonus.
 
+<!-- i18n:faq:id=faq:going-balls:are-there-checkpoints-in-longe-e4d3b8fb -->
 - Q : Y a‑t‑il des checkpoints dans les niveaux longs ?
 
   R : Beaucoup de stages proposent des checkpoints intermédiaires ; les modes infinis, eux, t'obligent souvent à repartir de zéro.
+

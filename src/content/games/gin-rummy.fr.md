@@ -17,10 +17,12 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Gin Rummy est un jeu de cartes à deux joueurs de la famille du Rami. Ton objectif est d'organiser ta main en combinaisons valides, appelées « melds » : soit des brelans/quadris de même rang, soit des suites de la même couleur. Tu marques des points en ayant moins de « deadwood » (cartes non groupées) que ton adversaire à la fin de la manche. C'est un jeu de compétence, de stratégie et de mémoire, où tu dois bien observer ce que l'autre pioche et défausse.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu et stratégies
 
 1.  Objectif : transformer ta main de 10 cartes en melds, puis « knock » lorsque la valeur totale de ton deadwood est de 10 ou moins.
@@ -34,6 +36,7 @@ Gin Rummy est un jeu de cartes à deux joueurs de la famille du Rami. Ton object
 5.  Aller Gin : si tu parviens à faire des melds avec tes 10 cartes (aucun deadwood), tu « Go Gin ». Tu obtiens un gros bonus et l'adversaire ne peut poser aucune carte sur tes combinaisons.
 6.  Score : As = 1, figures (K, Q, J) = 10, autres cartes = leur valeur. Après un knock, si ton deadwood est plus faible que celui de l'adversaire, tu marques la différence. Si l'adversaire a un deadwood inférieur ou égal après avoir posé sur tes melds (undercut), c'est lui qui marque la différence + un bonus.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 Le jeu se joue à la souris ou au tactile.
@@ -42,13 +45,18 @@ Le jeu se joue à la souris ou au tactile.
 *   **Défausser :** clique sur une carte de ta main pour la poser sur la défausse.
 *   **Knock / Go Gin :** un bouton dédié apparaît en général quand ta main te permet de le faire.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:gin-rummy:q-what-is-deadwood-7965a4eb -->
 *   **Q : Qu'est‑ce que le « deadwood » ?**
     *   **R :** Ce sont les cartes qui ne font partie d'aucun meld (ni brelan, ni suite). Le but est de réduire au maximum la valeur totale de ces cartes.
 
+<!-- i18n:faq:id=faq:gin-rummy:q-should-i-always-take-87b912c5 -->
 *   **Q : Dois‑je toujours prendre une carte de la défausse ?**
     *   **R :** Non. Ne prends la carte défaussée que si elle t'aide à compléter un meld. Sache que piocher dans la défausse révèle à ton adversaire ce que tu cherches.
 
+<!-- i18n:faq:id=faq:gin-rummy:q-what-is-an-undercut-5a7e2506 -->
 *   **Q : C'est quoi un « undercut » ?**
     *   **R :** Un undercut se produit lorsque tu knock, mais que ton adversaire se retrouve avec un deadwood inférieur ou égal au tien après avoir posé sur tes melds. Dans ce cas, c'est lui qui marque les points (différence + bonus).
+

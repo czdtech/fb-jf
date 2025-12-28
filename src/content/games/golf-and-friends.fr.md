@@ -15,12 +15,14 @@ score: 4.0/5  (1896 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ## Guide français
 
 ### Présentation du jeu
 
 Golf and Friends est une expérience de mini‑golf casual avec des obstacles ludiques, des rampes et des murs pour les tirs en rebond. La maîtrise repose sur le dosage de la puissance et le choix des angles : de petites touches près du trou évitent les putts qui « lèchent le bord », et des bank shots à 45° rendent les virages serrés plus fiables. En multijoueur, le parcours devient un petit party‑game convivial.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu et stratégies
 
 1.  Dosage près du trou : vise légèrement en dessous de la puissance nécessaire à l'entrée du trou pour éviter que la balle ne fasse le tour du bord.
@@ -29,21 +31,27 @@ Golf and Friends est une expérience de mini‑golf casual avec des obstacles lu
 4.  Plan en deux putts : ne force pas les tirs « héros » ; mieux vaut préparer un deuxième putt quasiment donné.
 5.  Caméra : dézoome et fais tourner la vue pour repérer les pentes cachées et les reliefs piégeux.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - Vise avec la souris, tire en arrière pour régler la puissance, relâche pour putter.
 - Un reset/forfeit est souvent disponible si tu es coincé.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:golf-and-friends:why-do-my-putts-rim-2ead777a -->
 - Q : Pourquoi mes putts sortent‑ils toujours du trou ?
 
   R : Tu mets trop de puissance ou tu arrives avec un mauvais angle. Ralentis la balle à l'approche du trou et ajuste l'angle d'entrée.
 
+<!-- i18n:faq:id=faq:golf-and-friends:best-bankshot-tip-f267aa52 -->
 - Q : Un conseil pour les bank shots ?
 
   R : Vise légèrement à l'intérieur des 45° parfaits pour compenser la perte de vitesse lors du rebond.
 
+<!-- i18n:faq:id=faq:golf-and-friends:multiplayer-local-7e9d7ed5 -->
 - Q : Le multijoueur local est‑il disponible ?
 
   R : Oui, souvent sous forme de hot‑seat : on se passe le clavier ou l'appareil chacun son tour.
+

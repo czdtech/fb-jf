@@ -16,10 +16,12 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Garden Bloom est un jeu relaxant et créatif qui mélange des puzzles match‑3 classiques avec la restauration et la décoration d'un jardin. Ta mission : transformer un jardin abandonné en un véritable petit paradis fleuri. Le cœur du jeu consiste à terminer des niveaux match‑3 où tu échanges des fleurs colorées et autres éléments de jardin pour atteindre des objectifs précis. Chaque niveau réussi te donne des étoiles, que tu utiliseras ensuite pour nettoyer les lieux, planter de nouvelles fleurs et installer de belles décorations.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu et stratégies
 
 1.  Un gameplay en deux parties :
@@ -34,18 +36,24 @@ Garden Bloom est un jeu relaxant et créatif qui mélange des puzzles match‑3 
 3.  Design du jardin :
     *   En accomplissant des tâches, tu peux souvent choisir entre trois styles de décoration (par exemple, trois types de bancs). Choisis ceux qui correspondent le mieux à ta vision du jardin.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 *   **Dans les puzzles** : utilise ta souris ou ton doigt pour échanger deux éléments adjacents (fleurs, feuilles, etc.). Clique‑glisse un élément sur un autre, ou clique sur les deux dans l'ordre.
 *   **Dans le jardin** : clique sur la liste de tâches (généralement en bas à gauche) pour voir ce qu'il te reste à faire. Clique sur une tâche pour dépenser une étoile et la réaliser.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:garden-bloom:q-how-do-i-earn-8ce8a9aa -->
 *   **Q : Comment gagner des étoiles ?**
     *   **R :** Tu ne peux gagner des étoiles qu'en terminant avec succès les niveaux match‑3. En général, chaque niveau réussi t'en donne une.
 
+<!-- i18n:faq:id=faq:garden-bloom:q-what-happens-if-i-11d5ea2b -->
 *   **Q : Que se passe‑t‑il si je n'ai plus de coups dans un puzzle ?**
     *   **R :** Si tu n'atteins pas l'objectif dans la limite de coups, tu perds une vie. Tu peux ensuite attendre que tes vies se régénèrent ou utiliser des pièces/ressources du jeu pour acheter des coups supplémentaires ou une recharge.
 
+<!-- i18n:faq:id=faq:garden-bloom:q-can-i-change-the-e2a73e9c -->
 *   **Q : Puis‑je changer les décorations que j'ai déjà choisies ?**
     *   **R :** Dans la plupart des jeux du genre, un choix de décoration est définitif. Pour le modifier, il faut généralement maintenir l'objet posé et dépenser des pièces pour le remplacer.
+

@@ -17,10 +17,12 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Guns n' Bottles est un jeu d'arcade à un seul bouton, simple mais très addictif, qui met à l'épreuve ton timing et ta précision. Un pistolet tourne en continu au centre de l'écran, tandis que des bouteilles apparaissent autour de lui. Ton objectif est de tirer au moment parfait pour briser les bouteilles vertes et marquer des points. La difficulté vient du fait que tu dois tenir compte à la fois de la rotation de l'arme et du temps que met la balle à atteindre la cible. Les bouteilles rouges servent de pièges : si tu en touches une, la partie se termine immédiatement.
 
+<!-- i18n:section:tips -->
 ### Comment jouer
 
 1.  **Anticipe la rotation :** ne tire pas seulement quand le canon pointe exactement sur la bouteille. Tire légèrement avant pour compenser la rotation continue et le temps de trajet de la balle.
@@ -28,19 +30,25 @@ Guns n' Bottles est un jeu d'arcade à un seul bouton, simple mais très addicti
 3.  **Évite les bouteilles rouges :** une bouteille rouge détruite met fin à ta run. Elles sont là pour casser ton rythme, donc privilégie toujours un tir sûr plutôt qu'un tir risqué.
 4.  **Débloque de nouvelles armes :** utilise les pièces gagnées pour débloquer de nouveaux pistolets dans la boutique. Même s'ils sont souvent surtout cosmétiques, ils donnent un vrai sentiment de progression.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 Le jeu se joue avec une seule action.
 
 *   **Tirer :** clique avec le bouton gauche de la souris ou touche l'écran pour faire feu au moment voulu.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:guns-n-bottles:q-what-is-the-objective-0d640e0d -->
 *   **Q : Quel est l'objectif du jeu ?**
     *   **R :** Toucher un maximum de bouteilles vertes d'affilée pour obtenir le meilleur score possible.
 
+<!-- i18n:faq:id=faq:guns-n-bottles:q-what-happens-if-i-8db9dc54 -->
 *   **Q : Que se passe‑t‑il si je manque une bouteille ou si je touche une rouge ?**
     *   **R :** Dans les deux cas, la partie se termine et ton score est enregistré. Tu dois alors recommencer depuis le début.
 
+<!-- i18n:faq:id=faq:guns-n-bottles:q-how-do-i-aim-4547fcfc -->
 *   **Q : Comment je vise ?**
     *   **R :** Tu ne contrôles pas directement la visée. Le pistolet tourne automatiquement ; ton rôle est de déclencher le tir exactement au bon moment lorsqu'il passe devant la bouteille.
+

@@ -14,36 +14,44 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Geometry Dash SubZero est un pack de niveaux Geometry Dash sur le thème de l’hiver, avec ses propres musiques et un style visuel très contrasté. Les patterns sont serrés, les transitions en vaisseau rapides, et la synchronisation musique/obstacles est au cœur du gameplay.
 
+<!-- i18n:section:how-to-play -->
 ### Comment jouer
 
 - Entraîne‑toi sur les anneaux de saut difficiles : certains passages exigent des doubles taps rapides.
 - Garde une trajectoire fluide dans les sections en vaisseau ; évite les corrections trop violentes.
 - Repère les moments où les effets visuels et le beat se superposent : ce sont souvent les points clés pour sauter ou flipper.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
-- Taper / `Espace` / clic souris : sauter ; maintenir pour voler (selon l’hébergeur).
+- Taper / Espace / clic souris : sauter ; maintenir pour voler (selon l’hébergeur).
 
 ### Astuces
 
 - Si les effets visuels te perturbent, baisse les options graphiques ou éloigne un peu ton regard pour te concentrer sur le rythme.
 - Utilise les checkpoints du mode pratique pour ancrer la mémoire musculaire sur les chaînes de pièges complexes.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:geometry-dash-subzero:how-is-subzero-different-from-87a7bd41 -->
 - Q : En quoi SubZero est‑il différent des autres packs ?
   
   R : Il propose son propre set de musiques et un habillage glacé, avec des patterns généralement plus rapides et exigeants.
 
+<!-- i18n:faq:id=faq:geometry-dash-subzero:can-i-play-in-practice-15fa8fa2 -->
 - Q : Puis‑je jouer en mode pratique ?
   
   R : Oui, la plupart des versions incluent un mode pratique avec checkpoints.
 
+<!-- i18n:faq:id=faq:geometry-dash-subzero:are-there-user-levels-a456c939 -->
 - Q : Y a‑t‑il des niveaux créés par la communauté ?
   
   R : SubZero met l’accent sur les niveaux intégrés ; la présence de niveaux UGC dépend de l’hôte sur lequel tu joues.
+
 

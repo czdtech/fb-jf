@@ -16,10 +16,12 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Giant Attack est un jeu d'action rapide où tu te retrouves face à des monstres gigantesques. Tu contrôles un héros qui doit défendre le terrain contre ces colosses. La clé de la victoire ne se limite pas à attaquer : tu dois aussi ramasser des alliés colorés disséminés sur le champ de bataille. Plus tu en collectes, plus ton personnage grandit et se renforce, ce qui lui permet de lancer des projectiles plus puissants pour détruire les géants avant qu'ils ne t'écrasent.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu et stratégies
 
 1.  Rassembler pour grandir : déplace‑toi pour récupérer les petits alliés colorés au sol. Chacun augmente ta taille et tes stats.
@@ -27,6 +29,7 @@ Giant Attack est un jeu d'action rapide où tu te retrouves face à des monstres
 3.  Esquive constante : tout en ramassant des alliés, surveille les attaques du géant. Esquive ses projectiles et ses frappes au sol pour rester en vie.
 4.  Positionnement : ton attaque est automatique. Ton vrai travail, c'est de te placer pour ramasser des alliés tout en gardant une ligne de tir claire vers le géant pour vider sa barre de vie.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 Les contrôles sont simples et intuitifs.
@@ -34,13 +37,18 @@ Les contrôles sont simples et intuitifs.
 *   **Déplacement :** clique/tape puis fais glisser pour déplacer ton personnage à gauche et à droite afin de ramasser des alliés et esquiver les attaques.
 *   **Attaque :** automatique ; ton héros lance en continu des armes vers l'ennemi tant qu'il est en vie.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:giant-attack:q-how-do-i-attack-4078c9e1 -->
 *   **Q : Comment attaquer le géant ?**
     *   **R :** Tu n'as aucun bouton d'attaque à gérer : ton héros tire automatiquement. Concentre‑toi sur le mouvement, l'esquive et la collecte des alliés.
 
+<!-- i18n:faq:id=faq:giant-attack:q-why-am-i-not-380e63ac -->
 *   **Q : Pourquoi mes dégâts semblent faibles ?**
     *   **R :** Tu es trop petit. Plus tu récupères d'alliés, plus ton personnage grandit et plus ses projectiles infligent de dégâts. Si tu restes petit, tes attaques seront trop faibles.
 
+<!-- i18n:faq:id=faq:giant-attack:q-how-do-i-win-c06399aa -->
 *   **Q : Comment gagner un niveau ?**
     *   **R :** Tu remportes la partie en faisant tomber la barre de vie du géant à zéro avant qu'il ne te mette KO.
+

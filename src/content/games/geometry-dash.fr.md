@@ -8,9 +8,11 @@ thumbnail: /new-images/thumbnails/geometry-dash.png
 tags:
   - geometry dash
 score: 4.5/5  (604 votes)
+releaseDate: 2025-12-04
 ---
 
 
+<!-- i18n:section:introduction -->
 Oublie le superflu. Ce n’est pas une promenade de santé façon Geometry Dash. C’est un couloir de wave pur et sans filtre, conçu pour te mettre au tapis et te faire revenir plus fort. Plus de portails, plus de pads, plus de pièces : juste toi, ta wave et un tunnel de piques au pixel près.
 
 ### MAÎTRISE LA WAVE OU MEURS EN ESSAYANT
@@ -24,4 +26,5 @@ Si tu ne supportes pas la pression, tu ne tiendras pas une seconde. Mais si tu v
 - **Wave uniquement** : aucun autre mode, rien que la forme wave. Le test ultime de tes mécaniques de base.  
 - **Couloirs au pixel près** : des tunnels de piques si serrés qu’un seul pixel fera la différence entre la gloire et un nouveau restart.  
 - **Runs courtes et violentes** : le niveau est pensé pour des tentatives rapides et explosives. Tu apprends, tu t’adaptes, tu recommences — chaque run plus rapide et plus propre que la précédente.
+
 

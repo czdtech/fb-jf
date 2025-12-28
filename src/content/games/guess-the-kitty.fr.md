@@ -15,16 +15,19 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Guess the Kitty est un petit quiz dans lequel tu dois identifier des races de chats ou des traits particuliers à partir de photos et de questions. Les manches peuvent proposer des QCM, des réponses à saisir ou des modes chronométrés. La précision et les séries de bonnes réponses augmentent ton score, tandis que les indices te coûtent des points.
 
+<!-- i18n:section:how-to-play -->
 ### Comment jouer
 
 - Observe les caractéristiques visibles (forme des oreilles, motifs du pelage, points de couleur, longueur de la queue).
 - Élimine les options peu probables avant de valider ta réponse.
 - Utilise les indices avec modération : garde‑les pour les situations où il ne te reste que deux choix possibles.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - Souris / tactile pour sélectionner les réponses.  
@@ -36,16 +39,21 @@ Guess the Kitty est un petit quiz dans lequel tu dois identifier des races de ch
 - Compare la silhouette de la tête et des oreilles pour cerner la famille féline.
 - En mode chronométré, ne te précipite pas : les bonus de série dépassent souvent le gain d'une réponse rapide mais risquée.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:guess-the-kitty:how-can-i-improve-accuracy-860e971e -->
 - Q : Comment mieux différencier les races qui se ressemblent ?
   
   R : Concentre‑toi sur la position des oreilles, la forme du museau et le motif du pelage plutôt que sur la couleur seule.
 
+<!-- i18n:faq:id=faq:guess-the-kitty:are-hints-worth-using-in-e737035e -->
 - Q : Les indices valent‑ils le coup ?
   
   R : Seulement quand tu as déjà bien réduit les options ; sinon, tu gaspilles des points.
 
+<!-- i18n:faq:id=faq:guess-the-kitty:does-the-game-include-a-69b182f1 -->
 - Q : Le jeu propose‑t‑il un mode entraînement ?
   
   R : Certains hôtes offrent des manches casual/pratique sans limite de temps.
+

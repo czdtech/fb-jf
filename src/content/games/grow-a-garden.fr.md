@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introduction à Grow a Garden
 
 « Grow a Garden » désigne toute une catégorie de jeux de simulation relaxants. Tu incarnes un jardinier ou un fermier dont l’objectif principal est de créer, gérer et embellir son jardin ou sa ferme en plantant différents types de plantes (fleurs, légumes, fruits, etc.).
@@ -29,6 +30,7 @@ Ces jeux avancent à un rythme lent et détendu, et misent sur le plaisir de cr�
 - **Un système de quêtes et commandes** : des PNJ ou un tableau d’ordres te demandent certaines quantités de récoltes contre des récompenses.  
 - **Décoration et personnalisation** : une large palette de décos te permet d’organiser ton jardin comme tu veux, autant sur le plan fonctionnel qu’esthétique.
 
+<!-- i18n:section:tips -->
 ### Stratégies & conseils de jeu
 
 1.  **Gère ton temps et tes ressources** : au début, ton argent (et parfois ton énergie) est limité. Priorise les cultures à **croissance rapide et retour d’investissement rapide** pour constituer ton capital et débloquer plus de terrain et de fonctionnalités.
@@ -41,6 +43,7 @@ Ces jeux avancent à un rythme lent et détendu, et misent sur le plaisir de cr�
     - **Outils de base** : pour labourer et récolter plus vite.
 6.  **Profite des événements spéciaux** : beaucoup de jeux de jardinage organisent des événements (plantes rares, commandes festives…). Ils offrent souvent des récompenses de grande valeur difficiles à obtenir autrement.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 Les contrôles se basent en général sur des clics/glisser‑déposer.
@@ -55,17 +58,23 @@ Les contrôles se basent en général sur des clics/glisser‑déposer.
     - maintiens un outil comme l’arrosoir et passe sur plusieurs cases pour une action continue ;  
     - déplace/pose les décorations dans ton jardin.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:grow-a-garden:should-i-buy-seeds-or-11182d2c -->
 **1. Mieux vaut acheter des graines ou des décorations au début ?**  
 Priorise toujours l’achat de graines et l’extension de tes terrains. Les décos sont intéressantes mais ne rapportent rien directement. Concentre‑toi sur la production tant que ton revenu n’est pas stable.
 
+<!-- i18n:faq:id=faq:grow-a-garden:why-did-my-plants-wither-ac609727 -->
 **2. Pourquoi certaines plantes ont‑elles fané ?**  
 Dans certains jeux, si tu n’arroses pas ou ne récoltes pas assez vite après maturité, les plantes se fanent, ce qui réduit ou annule tes gains. Surveille bien les cycles de croissance et les besoins de chaque culture.
 
+<!-- i18n:faq:id=faq:grow-a-garden:how-can-i-make-money-e28ea240 -->
 **3. Comment gagner de l’argent rapidement ?**  
 Complète les commandes les plus rentables et plante en priorité les cultures demandées dans ces ordres. Assure‑toi aussi que ton cycle plantation → récolte tourne en continu pour maximiser l’utilisation de tes parcelles.
 
+<!-- i18n:faq:id=faq:grow-a-garden:does-the-game-need-to-b46d6202 -->
 **4. Faut‑il rester connecté en permanence ?**  
 La plupart des jeux de jardinage modernes gèrent la **croissance hors‑ligne** : le temps continue de s’écouler même si le jeu est fermé. D’où le conseil de planter des cultures longues juste avant de quitter.
+
 

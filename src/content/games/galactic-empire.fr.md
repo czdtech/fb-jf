@@ -13,16 +13,19 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Galactic Empire est un RTS‑lite spatial où tu dois extraire des ressources, étendre tes bases et assembler des flottes pour défendre ton territoire et conquérir les secteurs voisins. Chaque nœud contrôlé renforce ton économie et peut débloquer de nouvelles unités ou améliorations.
 
+<!-- i18n:section:how-to-play -->
 ### Comment jouer
 
 - Construis d’abord des extracteurs et générateurs pour stabiliser ton économie.
 - Produis une flotte équilibrée (chasseurs, frégates, vaisseaux capitaux) et garde les points d’étranglement bien défendus.
 - Capture les nœuds adjacents pour élargir ta zone de contrôle et accéder à de meilleures technologies.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - Souris pour sélectionner, construire et donner des ordres.  
@@ -34,17 +37,22 @@ Galactic Empire est un RTS‑lite spatial où tu dois extraire des ressources, �
 - Reconnais avant d’attaquer : évite de t’étendre sur trop de fronts ou de foncer dans plusieurs vagues à la fois.
 - Concentre le feu sur les cibles fragiles mais dangereuses (glass cannons), puis nettoie le reste.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:galactic-empire:how-do-i-get-more-dd7b8ee3 -->
 - Q : Comment obtenir des ressources plus vite ?
   
   R : Étends‑toi rapidement vers les nœuds proches et protège tes extracteurs. Des mineurs inactifs, c’est de la ressource perdue.
 
+<!-- i18n:faq:id=faq:galactic-empire:what-fleet-composition-works-b-897b2219 -->
 - Q : Quelle composition de flotte fonctionne le mieux ?
   
   R : Un mélange d’intercepteurs rapides pour intercepter et de vaisseaux plus lourds pour détruire les structures fonctionne bien dans la plupart des situations.
 
+<!-- i18n:faq:id=faq:galactic-empire:is-there-a-tech-tree-bdb50659 -->
 - Q : Y a‑t‑il un arbre de technologies ?
   
   R : Dans beaucoup de versions, les vaisseaux plus puissants et certaines améliorations ne se débloquent qu’après la capture de secteurs clés ou via un système d’upgrade.
+
 
