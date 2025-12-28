@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 HexaMind se juega sobre una rejilla de hexágonos con reglas estrictas sobre qué
@@ -25,6 +26,7 @@ de ciertos ejes den un valor concreto). La geometría en seis direcciones
 permite deducciones muy ricas utilizando líneas en abanico y anillos alrededor
 de celdas.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1. **Zonas con más restricciones:** Empieza por las celdas con más vecinos o
@@ -39,22 +41,28 @@ de celdas.
 5. **Disciplina con el lápiz:** Mantén las anotaciones de candidatos limpias y
    actualizadas para evitar caer en errores circulares.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - Toca o haz clic para colocar valores/colores, alternar modo lápiz y usar
   deshacer/rehacer.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:hexamind:im-stuck-where-to-look-d8c5a1a2 -->
 - **P: Estoy atascado, ¿dónde debería mirar?**  
   **R:** Revisa de nuevo las celdas con más vecinos y los totales de los
   anillos; combina las restricciones de anillo y rayo para sacar nuevas
   deducciones.
 
+<!-- i18n:faq:id=faq:hexamind:is-guessing-required-8f5e96ed -->
 - **P: ¿Es obligatorio adivinar?**  
   **R:** Los buenos conjuntos suelen ser resolubles solo con lógica. Si tienes
   que suponer, hazlo en profundidad mínima y de forma fácilmente reversible.
 
+<!-- i18n:faq:id=faq:hexamind:how-is-it-different-from-c5ce884b -->
 - **P: ¿En qué se diferencia de los puzles en cuadrícula cuadrada?**  
   **R:** Al tener seis vecinos por celda, los anillos y rayos ofrecen
   restricciones más fuertes de las que permiten las rejillas cuadradas.
+

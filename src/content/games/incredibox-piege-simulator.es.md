@@ -18,6 +18,7 @@ releaseDate: 2025-10-10T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### **Introducción a Incredibox Piège Simulator**
 
 *Incredibox Piège Simulator* es un mod fan‑made elegante y atmosférico de la
@@ -31,6 +32,7 @@ cuadrícula de 20 iconos de sonido coloreados en tonos verdes y azules. El
 objetivo es crear un loop trap oscuro y envolvente activando y desactivando
 estos iconos.
 
+<!-- i18n:section:tips -->
 ### **Estrategia de juego y consejos**
 
 1.  **Empieza por el ritmo:** Para lograr un beat trap creíble, comienza con los
@@ -51,6 +53,7 @@ estos iconos.
     melodía para el drop y después silenciar elementos para crear un breakdown,
     imitando la estructura de una canción trap completa.
 
+<!-- i18n:section:controls -->
 ### **Guía de controles**
 
 Este mod usa la interfaz de clics sencilla típica de la serie Simulator.
@@ -65,18 +68,23 @@ Este mod usa la interfaz de clics sencilla típica de la serie Simulator.
     *   **Record:** empieza o termina la grabación de tu mezcla.
     *   **Reset:** limpia todos los sonidos activos para empezar de cero.
 
+<!-- i18n:section:faq -->
 ### **Preguntas frecuentes (FAQ)**
 
+<!-- i18n:faq:id=faq:incredibox-piege-simulator:is-this-an-official-incredibox-76f9ee93 -->
 **1. ¿Es un juego oficial de Incredibox?**  
 No. La serie "Simulator", incluido *Piège*, son **mods fan‑made** sin relación
 oficial con los creadores de Incredibox (So Far So Good).
 
+<!-- i18n:faq:id=faq:incredibox-piege-simulator:why-is-the-gameplay-different-ad85e024 -->
 **2. ¿Por qué la jugabilidad es distinta al original?**  
 El estilo "Simulator" es una decisión creativa de la comunidad. La rejilla se
 adapta muy bien a géneros electrónicos como el trap, porque permite superponer
 capas rítmicas con mucha precisión.
 
+<!-- i18n:faq:id=faq:incredibox-piege-simulator:where-can-i-play-this-a4cf171c -->
 **3. ¿Dónde puedo jugar este mod?**  
 No está en plataformas oficiales. Mods como *Piège* suelen compartirse en sitios
 como **Newgrounds**, **playfiddlebops.com** o mostrarse en YouTube con enlaces
 para jugarlos en navegador.
+

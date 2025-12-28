@@ -19,6 +19,7 @@ releaseDate: 2025-10-10T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### **Introducción a Incredibox Geek Dance Simulator**
 
 *Incredibox Geek Dance Simulator* es un juego fan‑made que forma parte de la
@@ -36,6 +37,7 @@ progreso en la parte superior ("LOOP") se va llenando y te guía hacia los bonus
 secreto audio‑visuales del mod. La experiencia es una forma directa y muy
 práctica de componer música retro de videojuegos.
 
+<!-- i18n:section:tips -->
 ### **Estrategia de juego y consejos**
 
 1.  **Comprende la rejilla chiptune:** Los 20 iconos representan los canales
@@ -64,6 +66,7 @@ práctica de componer música retro de videojuegos.
     "verso" y después sumar más capas para un "estribillo", construyendo una
     estructura de canción completa dentro del propio loop.
 
+<!-- i18n:section:controls -->
 ### **Guía de controles**
 
 Este mod usa la interfaz sencilla de clics típica de la serie Simulator.
@@ -79,13 +82,16 @@ Este mod usa la interfaz sencilla de clics típica de la serie Simulator.
     *   **Reset:** borra todos los sonidos activos de la rejilla para empezar de
         nuevo.
 
+<!-- i18n:section:faq -->
 ### **Preguntas frecuentes (FAQ)**
 
+<!-- i18n:faq:id=faq:incredibox-geek-dance-simulator:is-this-an-official-incredibox-76f9ee93 -->
 **1. ¿Es un juego oficial de Incredibox?**  
 No. La serie "Simulator", incluido *Geek Dance Simulator*, son **mods
 fan‑made** sin relación oficial con los creadores de Incredibox (So Far So
 Good).
 
+<!-- i18n:faq:id=faq:incredibox-geek-dance-simulator:why-is-this-different-from-62cbcae5 -->
 **2. ¿En qué se diferencia del otro mod "Geek Dance"?**  
 La comunidad ha creado al menos dos mods populares con este tema:
 *   **Geek Dance (drag‑and‑drop):** con personajes en pantalla sobre los que se
@@ -93,7 +99,9 @@ La comunidad ha creado al menos dos mods populares con este tema:
 *   **Geek Dance Simulator (rejilla):** esta versión, basada en una cuadrícula
     de iconos activables, ofrece una experiencia distinta.
 
+<!-- i18n:faq:id=faq:incredibox-geek-dance-simulator:where-can-i-play-this-a4cf171c -->
 **3. ¿Dónde puedo jugar este mod?**  
 No está en las plataformas oficiales. Suelen compartirse en sitios como
 **playfiddlebops.com**, comunidades de Scratch o en YouTube, donde normalmente
 hay enlaces para jugarlo en el navegador.
+

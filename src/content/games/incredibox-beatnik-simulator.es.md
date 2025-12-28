@@ -18,6 +18,7 @@ releaseDate: 2025-10-10T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### **Introducción a Incredibox "Beatnik"**
 
 *Incredibox Beatnik* es un mod fan‑made muy pulido y coherente a nivel artístico
@@ -33,6 +34,7 @@ reto consiste en descubrir las tres combinaciones concretas de sonidos que
 desbloquean los bonus animados secretos, cada uno un guiño elegante a la época
 Beatnik.
 
+<!-- i18n:section:tips -->
 ### **Estrategia de juego y consejos**
 
 La estrategia en *Incredibox Beatnik* consiste en encontrar el "vibe": un groove
@@ -58,6 +60,7 @@ suave y coherente, y a la vez ir desbloqueando los bonus ocultos.
     bar bohemio poco iluminado. Cuanto más conectes con la estética "cool",
     más intuitivas te resultarán las combinaciones.
 
+<!-- i18n:section:controls -->
 ### **Guía de controles**
 
 Los controles siguen la interfaz intuitiva de arrastrar y soltar de Incredibox.
@@ -72,3 +75,4 @@ Los controles siguen la interfaz intuitiva de arrastrar y soltar de Incredibox.
     silenciar al resto.
 *   **Grabar:** pulsa el **botón de grabación** para empezar o detener la
     grabación de tu creación musical.
+

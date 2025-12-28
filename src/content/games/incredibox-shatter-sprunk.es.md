@@ -12,6 +12,7 @@ tags:
   - incredibox shatter sprunk
   - incredibox shatter sprunk online
 score: 4.5/5  (614 votes)
+releaseDate: 2025-12-04
 ---
 
 
@@ -23,6 +24,7 @@ que combina la jugabilidad clásica de Incredibox con el estilo excéntrico de
 Sprunki. Aquí crearás tus propias piezas musicales acompañado por un grupo de
 personajes animados muy peculiares.
 
+<!-- i18n:section:how-to-play -->
 ### ¿Cómo se juega a Incredibox Shatter Sprunk?
 
 La mecánica es muy sencilla; en pocos pasos estarás componiendo:
@@ -47,6 +49,7 @@ La mecánica es muy sencilla; en pocos pasos estarás componiendo:
 **En Incredibox Shatter Sprunk no se trata de "ganar", sino de crear la música
 que a ti te guste.**
 
+<!-- i18n:section:controls -->
 ### Controles con ratón
 
 El manejo es muy simple y se hace casi todo con el ratón:
@@ -75,3 +78,4 @@ El manejo es muy simple y se hace casi todo con el ratón:
 - **Exploración divertida:** descubre animaciones y efectos ocultos mientras
   pruebas combinaciones, haciendo que el proceso creativo esté lleno de
   sorpresas.
+

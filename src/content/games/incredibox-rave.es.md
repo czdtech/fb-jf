@@ -18,6 +18,7 @@ releaseDate: 2025-10-10T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### **Introducción a Incredibox Rave**
 
 *Incredibox Rave* es un mod fan‑made muy vistoso para el juego de creación
@@ -32,6 +33,7 @@ Dispones de 20 iconos de sonido representados por formas geométricas abstractas
 componer tus propios temas de alta energía inspirados en géneros de **música
  dance/EDM** como techno, house o disco.
 
+<!-- i18n:section:tips -->
 ### **Estrategia de juego y consejos**
 
 La estrategia en *Incredibox Rave* consiste en superponer los distintos
@@ -64,6 +66,7 @@ componentes electrónicos hasta conseguir una pista digna de sonar en un club.
     fija primero un ritmo y un bajo sólidos y ve reemplazando las melodías y
     voces una a una hasta activar cada animación de neón.
 
+<!-- i18n:section:controls -->
 ### **Guía de controles**
 
 Los controles son los mismos que en el Incredibox oficial.
@@ -79,22 +82,28 @@ Los controles son los mismos que en el Incredibox oficial.
 *   **Grabar:** pulsa el **botón de grabación** para empezar o detener la
     grabación de tu himno de rave.
 
+<!-- i18n:section:faq -->
 ### **Preguntas frecuentes (FAQ)**
 
+<!-- i18n:faq:id=faq:incredibox-rave:is-this-an-official-incredibox-12056458 -->
 **1. ¿Es una versión oficial de Incredibox?**  
 No. Por su estilo y distribución se trata de un **mod fan‑made**, sin relación
 oficial con el equipo de Incredibox (So Far So Good).
 
+<!-- i18n:faq:id=faq:incredibox-rave:where-can-i-play-this-a4cf171c -->
 **2. ¿Dónde puedo jugar este mod?**  
 No está en las plataformas oficiales. Mods como *Rave* suelen alojarse en webs
 como **playfiddlebops.com** o aparecer en YouTube con enlaces para jugarlos en
 el navegador.
 
+<!-- i18n:faq:id=faq:incredibox-rave:what-makes-the-rave-mod-87025ce1 -->
 **3. ¿Qué hace especial al mod "Rave"?**  
 Su gran atractivo es la ambientación de club: visuales de neón, personajes tipo
 DJ y una paleta de música electrónica muy cuidada que ofrece una experiencia
 moderna para fans de la música dance.
 
+<!-- i18n:faq:id=faq:incredibox-rave:are-the-bonus-solutions-for-8ff5fe53 -->
 **4. ¿Hay soluciones de bonus de "Rave" online?**  
 Sí. Si te cuesta dar con las combinaciones, una búsqueda de "Incredibox Rave
 combos" en YouTube suele mostrar todas las soluciones.
+

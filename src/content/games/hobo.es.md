@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Información general
 Hobo es un beat 'em up de desplazamiento lateral conocido por su violencia de
 slapstick y su humor deliberadamente grosero. Recorres escenarios urbanos
@@ -27,6 +28,7 @@ peligros del escenario aportan variedad, mientras que los jefes ponen a prueba
 aprender las señales de los enemigos, es clave para limpiar oleadas sin ser
 abrumado.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 - Encadena ataques suaves y fuertes en los combos que vayas descubriendo para
   aumentar el daño y dejar aturdidos a los rivales.
@@ -34,6 +36,7 @@ abrumado.
 - Aprende los patrones de los jefes: esquiva sus ataques iniciales y castiga sus
   ventanas de recuperación.
 
+<!-- i18n:section:controls -->
 ### Controles
 - Flechas para moverte; las teclas de ataque/salto/agarre dependen del host; los
   comandos de combo aparecen en pantalla.
@@ -46,13 +49,18 @@ abrumado.
 - Guarda los objetos de salud para recogerlos después de una oleada, no en
   mitad del grupo.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes
+<!-- i18n:faq:id=faq:hobo:how-do-i-unlock-new-a135500c -->
 - Q: ¿Cómo desbloqueo nuevos combos en el juego?  
   A: Al avanzar de fase se muestran nuevos comandos en las pantallas de aviso;
   practícalos en cuanto aparezcan.
+<!-- i18n:faq:id=faq:hobo:what-is-the-best-way-c10f3f07 -->
 - Q: ¿Cuál es la mejor forma de manejar grupos grandes de enemigos?  
   A: Llévalos hacia un borde del escenario, usa lanzamientos o armas y remata a
   los que se queden atrás.
+<!-- i18n:faq:id=faq:hobo:are-there-checkpoints-between-c66ff120 -->
 - Q: ¿Hay puntos de control entre niveles?  
   A: En la mayoría de versiones se guarda al cambiar de fase; los reinicios a
   mitad de nivel dependen del host.
+

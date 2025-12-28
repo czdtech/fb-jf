@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Haru Pandas Slide propone puzles de deslizamiento basados en imágenes. Tienes
@@ -24,6 +25,7 @@ escenas de pandas. En tableros avanzados aumentan el número de fichas y
 aparecen fichas bloqueadas que limitan las rutas, premiando las secuencias
 planificadas por encima del ensayo y error.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1. **Empieza por el marco:** Completar primero el borde reduce mucho la
@@ -37,21 +39,27 @@ planificadas por encima del ensayo y error.
 5. **Minimiza movimientos:** Piensa un par de jugadas por adelantado para no
    tener que desandar pasos.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - Arrastra fichas a lo largo de los ejes permitidos; usa deshacer o reinicio si
   el juego lo ofrece.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:haru-pandas-slide:i-break-my-solved-area-98f081d0 -->
 - **P: Siempre termino rompiendo la parte ya resuelta, ¿cómo lo evito?**  
   **R:** Utiliza ciclos de 3 fichas que roten solo una pequeña sección sin
   tocar la banda ya completada.
 
+<!-- i18n:faq:id=faq:haru-pandas-slide:any-hint-system-83b1a6f0 -->
 - **P: ¿Hay sistema de pistas?**  
   **R:** Muchas versiones incluyen pistas o previsualización fantasma; úsalas con
   moderación para no perder el reto.
 
+<!-- i18n:faq:id=faq:haru-pandas-slide:is-there-a-timer-25fbcbdf -->
 - **P: ¿Hay límite de tiempo?**  
   **R:** Suele ser un juego relajado; en algunos modos se cuenta más el número
   de movimientos que el tiempo.
+

@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Hexa Dungeon es un puzle‑RPG innovador que combina mecánicas match‑3 con
@@ -26,6 +27,7 @@ hexagonales idénticas y adyacentes en el tablero. Cuanto más larga sea la
 cadena, más daño inflige tu ataque. Es un juego estratégico donde tienes que
 equilibrar golpes fuertes con la preparación de futuras jugadas.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1. **Cadenas largas = más daño:** La estrategia central es crear la cadena más
@@ -41,6 +43,7 @@ equilibrar golpes fuertes con la preparación de futuras jugadas.
    puedan aparecer: bombas u otros power‑ups que, al incluirlos en una cadena,
    provocan daño adicional o efectos beneficiosos.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 El juego se maneja con un simple gesto de arrastrar.
@@ -49,16 +52,21 @@ El juego se maneja con un simple gesto de arrastrar.
   cursor por las fichas adyacentes del mismo color para formar la cadena. Suelta
   para confirmar el match y lanzar el ataque.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:hexa-dungeon:q-how-do-i-attack-2e37b986 -->
 *   **P: ¿Cómo ataco a los esqueletos?**
     *   **R:** Atacas creando matches en el tablero hexagonal. Encuentra un grupo de al
         menos tres fichas conectadas del mismo color y traza una línea a través de ellas.
 
+<!-- i18n:faq:id=faq:hexa-dungeon:q-how-can-i-do-f8714760 -->
 *   **P: ¿Cómo puedo hacer más daño?**
     *   **R:** Cuanto más larga sea la cadena, más poderoso será el golpe. Una cadena de
         7 fichas es muchísimo más fuerte que una de 3.
 
+<!-- i18n:faq:id=faq:hexa-dungeon:q-can-i-connect-tiles-f4174e27 -->
 *   **P: ¿Puedo conectar fichas en diagonal?**
     *   **R:** Sí. Al ser un tablero de hexágonos, puedes conectar en seis direcciones
         diferentes hacia cualquier ficha idéntica y adyacente.
+

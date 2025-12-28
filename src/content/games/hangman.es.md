@@ -15,6 +15,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### **Introducción al juego**
 
 Hangman (el ahorcado) es un juego clásico de adivinar palabras en el que el
@@ -31,6 +32,7 @@ Muchas versiones digitales añaden sistemas de puntuación que tienen en cuenta
 las letras acertadas, la velocidad para resolver el panel y las vidas (fallos
 permitidos) que te quedan.
 
+<!-- i18n:section:tips -->
 ### **Estrategia y consejos de juego**
 
 1. **Empieza por las vocales:** Las vocales (A, E, I, O, U) aparecen en la
@@ -48,6 +50,7 @@ permitidos) que te quedan.
    patrones típicos: terminaciones frecuentes, combinaciones habituales (por
    ejemplo, "QU", "LL", "BR", etc.) y la longitud de la palabra.
 
+<!-- i18n:section:controls -->
 ### **Guía de controles**
 
 En las versiones digitales los controles son muy sencillos:
@@ -55,13 +58,16 @@ En las versiones digitales los controles son muy sencillos:
 - Puedes hacer clic con el ratón sobre las letras del alfabeto en pantalla o
   escribir directamente la letra en el teclado.
 
+<!-- i18n:section:faq -->
 ### **Preguntas frecuentes (FAQ)**
 
+<!-- i18n:faq:id=faq:hangman:what-is-the-best-letter-6dbfacbe -->
 **1. ¿Cuál es la mejor letra para empezar?**  
 Estadísticamente, **E** suele ser una de las letras más comunes, así que es una
 buena opción inicial. Después suelen funcionar bien otras vocales y consonantes
 frecuentes como S, N o R.
 
+<!-- i18n:faq:id=faq:hangman:what-are-some-of-the-fc3b890c -->
 **2. ¿Qué tipo de palabras son las más difíciles?**  
 Las más complicadas suelen ser:
 - Muy cortas (pocas letras dan menos información);
@@ -69,12 +75,15 @@ Las más complicadas suelen ser:
 - O con pocas vocales (o incluso ninguna de las vocales clásicas), lo que
   dificulta ver la estructura.
 
+<!-- i18n:faq:id=faq:hangman:what-skills-can-you-learn-94f8f5e3 -->
 **3. ¿Qué habilidades se pueden practicar con Hangman?**  
 - **Vocabulario:** te expone a palabras nuevas;  
 - **Ortografía:** refuerza patrones de escritura correctos;  
 - **Razonamiento deductivo:** obliga a usar la lógica para decidir qué letra
   intentar a continuación.
 
+<!-- i18n:faq:id=faq:hangman:what-happens-when-i-guess-9ead5b0e -->
 **4. ¿Qué pasa cuando fallo una letra?**  
 Cada fallo añade una parte al dibujo del ahorcado (cabeza, cuerpo, brazos,
 piernas…). Cuando el dibujo se completa, la partida termina en derrota.
+

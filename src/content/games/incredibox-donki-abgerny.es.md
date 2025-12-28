@@ -10,10 +10,12 @@ thumbnail: /new-images/thumbnails/incredibox-donki-abgerny.png
 tags:
   - incredibox donki abgerny
 score: 4.3/5  (154 votes)
+releaseDate: 2025-12-04
 ---
 
 
 
+<!-- i18n:section:introduction -->
 ¿Cansado de los mismos beats electrónicos de siempre? ¿Te apetece vivir una
 aventura musical a través del tiempo y sentir un pulso primitivo que sale de lo
 más profundo de la tierra? Entonces Incredibox Donki Abgerny te va a volar la
@@ -82,3 +84,4 @@ como si eres un amante de los juegos de ritmo que busca algo nuevo, Incredibox
 Donki Abgerny te llevará a un viaje inolvidable lleno de groove y sorpresas.
 ¿Listo para unirte a esta tribu musical ancestral y superar el reto con tu
 sentido del ritmo?
+

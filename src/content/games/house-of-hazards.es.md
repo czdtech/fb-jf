@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Información general
 House of Hazards es un party game multijugador de sofá ambientado en una casa
 repleta de trampas. Los jugadores compiten por terminar tareas cotidianas—hacer
@@ -24,6 +25,7 @@ activando tostadoras lanzadoras, lámparas colgantes o trampas en el suelo. Las
 rondas cortas, la física impredecible y las bromas específicas de cada mapa
 mantienen las partidas llenas de risas.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 - En el modo de tareas, gana quien complete antes su lista; en el modo de
   sabotaje, cronometra las trampas para provocar el mayor caos posible.
@@ -32,6 +34,7 @@ mantienen las partidas llenas de risas.
 - Coordínate con tus compañeros en los modos por equipos para encadenar
   peligros.
 
+<!-- i18n:section:controls -->
 ### Controles
 - Controles sencillos de mover/saltar/accionar; varios jugadores locales con
   teclas asignadas por separado.
@@ -44,12 +47,17 @@ mantienen las partidas llenas de risas.
 - Como saboteador, provoca el movimiento de los demás y activa las trampas un
   poco tarde para cazarlos en plena trayectoria de salto.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes
+<!-- i18n:faq:id=faq:house-of-hazards:how-do-i-win-consistently-cf99b085 -->
 - Q: ¿Cómo puedo ganar con regularidad contra varios oponentes?  
   A: Traza una ruta de tareas que cruce el menor número posible de habitaciones
   y evita las zonas donde siempre te emboscan.
+<!-- i18n:faq:id=faq:house-of-hazards:can-we-customize-rules-or-9c0a821c -->
 - Q: ¿Podemos personalizar reglas o equipos?  
   A: Muchos hosts permiten juego por equipos y pequeñas reglas caseras.
+<!-- i18n:faq:id=faq:house-of-hazards:is-there-a-singleplayer-mode-d65a3d1d -->
 - Q: ¿Existe modo para un solo jugador?  
   A: Algunas versiones incluyen carreras contra bots o desafíos, pero el juego
   brilla de verdad en multijugador local.
+

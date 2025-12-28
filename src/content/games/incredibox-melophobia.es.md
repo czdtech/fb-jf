@@ -17,6 +17,7 @@ releaseDate: 2025-10-10T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### **Introducción a Incredibox Melophobia**
 
 *Incredibox Melophobia* es un mod fan‑made muy creativo y surrealista para el
@@ -36,6 +37,7 @@ El objetivo es animarte a salir de las estructuras musicales tradicionales para
 construir un paisaje sonoro único y de otro mundo. Las animaciones que se
  desbloquean son tan surrealistas e imaginativas como los propios personajes.
 
+<!-- i18n:section:tips -->
 ### **Estrategia de juego y consejos**
 
 La estrategia en *Incredibox Melophobia* consiste en abrazar lo raro y combinar
@@ -69,6 +71,7 @@ sonidos dispares hasta lograr un todo sorprendentemente coherente.
     interesante y ve cambiando el resto de iconos de uno en uno hasta disparar
     cada animación.
 
+<!-- i18n:section:controls -->
 ### **Guía de controles**
 
 Los controles son los mismos que en Incredibox oficial.
@@ -84,19 +87,24 @@ Los controles son los mismos que en Incredibox oficial.
 *   **Grabar:** pulsa el **botón de grabación** (arriba a la derecha) para
     empezar o detener la grabación de tu creación.
 
+<!-- i18n:section:faq -->
 ### **Preguntas frecuentes (FAQ)**
 
+<!-- i18n:faq:id=faq:incredibox-melophobia:is-this-an-official-incredibox-12056458 -->
 **1. ¿Es una versión oficial de Incredibox?**  
 No. Es un **mod fan‑made** muy imaginativo y no está afiliado al equipo oficial
  de Incredibox (So Far So Good).
 
+<!-- i18n:faq:id=faq:incredibox-melophobia:where-can-i-play-this-a4cf171c -->
 **2. ¿Dónde puedo jugar este mod?**  
 No aparece en plataformas oficiales. Mods como *Melophobia* suelen alojarse en
  webs como **playfiddlebops.com** o mostrarse en YouTube con enlaces para
  jugarlos en el navegador.
 
+<!-- i18n:faq:id=faq:incredibox-melophobia:what-makes-the-melophobia-mod-7ef46b11 -->
 **3. ¿Qué hace especial al mod "Melophobia"?**  
 Su atractivo reside en su apuesta sin complejos por lo surrealista y
 experimental. Lleva el diseño sonoro de Incredibox un paso más allá, ofreciendo
 una paleta bizarra, impredecible y muy creativa: ideal para quien quiera crear
 algo realmente distinto y poco convencional.
+

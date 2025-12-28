@@ -18,6 +18,7 @@ releaseDate: 2025-10-10T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### **Introducción a Incredibox Instrumentalist**
 
 *Incredibox Instrumentalist* es un mod fan‑made muy innovador y visualmente
@@ -34,10 +35,14 @@ percusión.
 El objetivo es que construyas piezas instrumentales ricas y por capas
 montando tu propia orquesta personalizada.
 
+<!-- i18n:section:tips -->
 ### **Estrategia de juego y consejos**
 
 La estrategia en *Incredibox Instrumentalist* gira en torno a entender cómo se
 complementan los instrumentos para formar un conjunto equilibrado.
+
+Piensa en los 20 iconos como una orquesta completa: lo importante es equilibrar
+secciones y capas.
 
 1.  **Conoce las secciones de la orquesta:**
     *   **Sección rítmica (percusión):** Es la base. Incluye tambores
@@ -67,6 +72,7 @@ complementan los instrumentos para formar un conjunto equilibrado.
     otros elementos de color son perfectos para darle personalidad a la mezcla
     y hacerla más dinámica.
 
+<!-- i18n:section:controls -->
 ### **Guía de controles**
 
 Este mod ofrece una variante interesante de los controles clásicos de
@@ -80,23 +86,28 @@ Incredibox.
 *   **Grabar:** pulsa el **botón de grabación** (arriba a la derecha) para
     empezar o detener la grabación de tu pieza instrumental.
 
+<!-- i18n:section:faq -->
 ### **Preguntas frecuentes (FAQ)**
 
+<!-- i18n:faq:id=faq:incredibox-instrumentalist:is-this-an-official-incredibox-12056458 -->
 **1. ¿Es una versión oficial de Incredibox?**  
 No. Es un mod fan‑made muy creativo creado por Gabsoares04 y no está afiliado al
  equipo oficial de Incredibox (So Far So Good).
 
+<!-- i18n:faq:id=faq:incredibox-instrumentalist:what-makes-this-mod-so-5ae5fbac -->
 **2. ¿Qué hace tan especial a este mod?**  
 Su gran innovación es la idea de que los "intérpretes" son los propios
 instrumentos. En lugar de personalizar personajes, construyes literalmente una
 orquesta. Además, es una experiencia **totalmente instrumental**, centrada en
 sonidos de instrumentos del mundo, algo poco común en otros mods.
 
+<!-- i18n:faq:id=faq:incredibox-instrumentalist:where-can-i-play-this-a4cf171c -->
 **3. ¿Dónde puedo jugar este mod?**  
 No está en las plataformas oficiales. Mods como *Instrumentalist* suelen
 aparecer en páginas como **playfiddlebops.com** o en vídeos de YouTube con
  enlaces para jugarlos en el navegador.
 
+<!-- i18n:faq:id=faq:incredibox-instrumentalist:are-the-bonus-solutions-for-3062ed27 -->
 **4. ¿Hay soluciones de bonus para "Instrumentalist" online?**  
 Sí. Si te cuesta encontrar las combinaciones de animaciones, una búsqueda rápida
  de "Incredibox Instrumentalist combos" en YouTube suele mostrar todas las

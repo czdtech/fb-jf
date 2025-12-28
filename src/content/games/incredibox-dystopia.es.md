@@ -19,6 +19,7 @@ releaseDate: 2025-10-10T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### **Introducción a Incredibox "Dystopia"**
 
 *Incredibox Dystopia* es un mod fan‑made muy aclamado del juego de creación
@@ -38,6 +39,7 @@ cinematográfica de temática ciberpunk. El reto está en descubrir las tres
 combinaciones específicas que desbloquean los bonus animados secretos, cada uno
 representando visualmente un aspecto clave del mundo distópico del mod.
 
+<!-- i18n:section:tips -->
 ### **Estrategia de juego y consejos**
 
 La estrategia en *Incredibox Dystopia* pasa por construir un beat electrónico
@@ -75,6 +77,7 @@ futurista coherente.
     ambiental que te guste y después ve probando el resto de iconos uno a uno
     hasta disparar cada animación.
 
+<!-- i18n:section:controls -->
 ### **Guía de controles**
 
 Los controles siguen la interfaz oficial de Incredibox.
@@ -89,3 +92,4 @@ Los controles siguen la interfaz oficial de Incredibox.
     silenciar al resto.
 *   **Grabar:** pulsa el **botón de grabación** para empezar o detener la
     grabación de tu creación futurista.
+

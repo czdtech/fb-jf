@@ -17,6 +17,7 @@ releaseDate: 2025-10-10T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Introducción a Incredibox Kochari
 
 Incredibox Kochari es un mod fan‑made singular que fusiona el universo de
@@ -28,6 +29,7 @@ tradicionales, melodías y voces para crear una fusión entre los sonidos
 armenios ancestrales y el beatboxing moderno. Los personajes y animaciones
 refuerzan el tema con movimientos que evocan la danza tradicional.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego
 
 *   
@@ -41,6 +43,7 @@ refuerzan el tema con movimientos que evocan la danza tradicional.
         característicos del Kochari, con capas melódicas y vocales para lograr
         un arreglo potente y equilibrado.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 *   Los controles son los estándar de Incredibox.
@@ -51,15 +54,20 @@ refuerzan el tema con movimientos que evocan la danza tradicional.
     *   **Bonus**: Al desbloquear un bonus, se añade automáticamente un elemento
         visual y sonoro especial a tu mix.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:incredibox-kochari:q-what-is-kochari-25bf451f -->
 *   **P: ¿Qué es el Kochari?**
     *   **R:** El Kochari es una danza folclórica armenia tradicional, famosa
         por su energía y sus movimientos fuertes y rítmicos. Este mod es un
         homenaje a ese legado cultural.
+<!-- i18n:faq:id=faq:incredibox-kochari:q-is-this-an-official-59ac97d1 -->
 *   **P: ¿Es una versión oficial de Incredibox?**
     *   **R:** No. Es un mod fan‑made creado con cariño por miembros de la
         comunidad.
+<!-- i18n:faq:id=faq:incredibox-kochari:q-how-many-bonuses-are-2ecd0c81 -->
 *   **P: ¿Cuántos bonus hay para desbloquear?**
     *   **R:** Normalmente hay tres animaciones de bonus que se descubren al
         encontrar las combinaciones correctas de sonidos.
+

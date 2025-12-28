@@ -18,6 +18,7 @@ releaseDate: 2025-10-10T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### **Introducción a Incredibox "Creatophobos"**
 
 *Incredibox Creatophobos* es un mod fan‑made oscuro y experimental para el juego
@@ -38,6 +39,7 @@ melodía pegadiza para convertirse en construir un **paisaje sonoro terrorífico
 secretos se mantiene, con animaciones que encajan a la perfección con la
 estética grotesca y de pesadilla del mod.
 
+<!-- i18n:section:tips -->
 ### **Estrategia de juego y consejos**
 
 La estrategia en *Incredibox Creatophobos* consiste en abrazar el caos y
@@ -77,6 +79,7 @@ construir tensión más que armonía.
     aporta cada monstruo al caos general, de modo que puedas tomar decisiones
     más deliberadas.
 
+<!-- i18n:section:controls -->
 ### **Guía de controles**
 
 Los controles son los habituales de Incredibox.
@@ -91,3 +94,4 @@ Los controles son los habituales de Incredibox.
     silenciar al resto.
 *   **Grabar:** pulsa el **botón de grabación** para empezar o detener la
     grabación de tu creación monstruosa.
+

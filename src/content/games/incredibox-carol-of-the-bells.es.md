@@ -18,6 +18,7 @@ releaseDate: 2025-10-10T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### **Introducción al juego**
 
 *Incredibox Andlbox Carol of the Bells* es un encantador y festivo mod fan-made
@@ -37,6 +38,7 @@ secretos. Estos bonus, por supuesto, están tematizados alrededor de la Navidad
 y ofrecen recompensas visuales encantadoras para quienes experimentan con la
 música.
 
+<!-- i18n:section:tips -->
 ### **Estrategia de juego y consejos**
 
 La estrategia de este mod gira en torno a entender cómo se ha fragmentado el
@@ -75,6 +77,7 @@ villancico original y superponer sus partes para crear un sonido navideño rico.
     los iconos restantes uno a uno hasta disparar alguna de las animaciones
     especiales.
 
+<!-- i18n:section:controls -->
 ### **Guía de controles**
 
 Los controles son los mismos que en las versiones oficiales de Incredibox.
@@ -89,3 +92,4 @@ Los controles son los mismos que en las versiones oficiales de Incredibox.
     a todos los demás.
 *   **Grabar:** pulsa el **botón de grabación** para iniciar o detener la
     grabación de tu creación navideña.
+

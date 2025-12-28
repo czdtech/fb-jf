@@ -18,6 +18,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### **Introducción al juego**
 
 "Highway Traffic" es el nombre genérico de un popular subgénero de juegos de
@@ -45,6 +46,7 @@ La mayoría de versiones de *Highway Traffic* incluyen elementos como:
     condiciones climáticas (despejado, lluvia) que aportan desafío y variedad
     visual.
 
+<!-- i18n:section:tips -->
 ### **Estrategia y consejos de juego**
 
 1.  **Conduce suave, no des volantazos**: A alta velocidad, pequeños ajustes y
@@ -74,7 +76,10 @@ La mayoría de versiones de *Highway Traffic* incluyen elementos como:
     sobrevivir en tráfico denso. La velocidad es importante, pero de nada sirve
     si no puedes controlarla.
 
+<!-- i18n:section:controls -->
 ### **Guía de controles**
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `A` `D` `Left/Right Arrow` `W` `Up Arrow` `S` `Down Arrow`
 
 Los controles suelen ser muy intuitivos, especialmente en dispositivos
 móviles.
@@ -88,18 +93,21 @@ móviles.
     *   **Freno**: Suele haber un botón de freno dedicado en el lado izquierdo
         de la pantalla.
 *   **PC/Web:**
-    *   **Dirección**: teclas `A` y `D` o `Flecha izquierda/derecha`.
-    *   **Aceleración**: tecla `W` o `Flecha arriba`.
-    *   **Freno**: tecla `S` o `Flecha abajo`.
+    *   **Dirección**: teclas A y D o Flecha izquierda/derecha.
+    *   **Aceleración**: tecla W o Flecha arriba.
+    *   **Freno**: tecla S o Flecha abajo.
 
+<!-- i18n:section:faq -->
 ### **Preguntas frecuentes (FAQ)**
 
+<!-- i18n:faq:id=faq:highway-traffic:why-cant-i-seem-to-3bcfed79 -->
 **1. ¿Por qué no consigo llegar a la velocidad máxima?**  
 En la mayoría de versiones tienes que mantener el acelerador pisado o circular
 rápido durante un rato para alcanzar la velocidad máxima del coche. Frenadas
 frecuentes o pequeños golpes contra otros vehículos harán que tu velocidad
 baje.
 
+<!-- i18n:faq:id=faq:highway-traffic:how-do-i-earn-more-7e97df14 -->
 **2. ¿Cómo gano más moneda del juego?**  
 Las formas principales de conseguir dinero son:
 *   **Recorrer más distancia**: cuanto más lejos llegues, mayor será la
@@ -109,6 +117,7 @@ Las formas principales de conseguir dinero son:
     ejemplo, 100 km/h) de forma continuada genera puntos o dinero extra.
 *   **Completar misiones o desafíos diarios.**
 
+<!-- i18n:faq:id=faq:highway-traffic:which-car-is-the-best-2b470d3e -->
 **3. ¿Cuál es el mejor coche?**  
 No hay un único "mejor" coche; depende de tu estilo de conducción.
 *   **Principiantes**: deberían elegir coches con alto **manejo** y buena
@@ -116,8 +125,10 @@ No hay un único "mejor" coche; depende de tu estilo de conducción.
 *   **Expertos**: pueden optar por coches con la mayor **velocidad máxima** y
     **aceleración** para maximizar el potencial de puntuación.
 
+<!-- i18n:faq:id=faq:highway-traffic:whats-special-about-the-twoway-e8794308 -->
 **4. ¿Qué tiene de especial el modo de doble sentido?**  
 El modo en doble sentido es más difícil pero también más rentable. Tienes que
 esquivar tráfico que viene tanto en tu dirección como en sentido contrario.
 Conducir por el carril contrario suele recompensarte con el doble o incluso más
 puntos, siempre que seas capaz de sobrevivir al riesgo adicional.
+

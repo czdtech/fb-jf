@@ -18,6 +18,7 @@ releaseDate: 2025-10-10T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### **Introducción a Incredibox Riser**
 
 *Incredibox Riser* es un mod fan‑made muy atmosférico para el juego de creación
@@ -27,6 +28,7 @@ La biblioteca sonora mezcla **música electrónica ambiental, melodías de sinte
 ascendentes y efectos futuristas**, pensados para transmitir sensación de
 exploración y asombro.
 
+<!-- i18n:section:tips -->
 ### **Estrategia de juego y consejos**
 
 La estrategia en *Incredibox Riser* consiste en construir sensación de escala y
@@ -55,6 +57,7 @@ viaje, superponiendo sonidos para crear una pista épica y cinematográfica.
     distintos iconos de melodía y voz hasta activar cada animación de ciencia
     ficción.
 
+<!-- i18n:section:controls -->
 ### **Guía de controles**
 
 Los controles son idénticos a los de Incredibox oficial.
@@ -70,17 +73,22 @@ Los controles son idénticos a los de Incredibox oficial.
 *   **Grabar:** pulsa el **botón de grabación** para empezar o detener la
     grabación de tu viaje cósmico.
 
+<!-- i18n:section:faq -->
 ### **Preguntas frecuentes (FAQ)**
 
+<!-- i18n:faq:id=faq:incredibox-riser:is-this-an-official-incredibox-12056458 -->
 **1. ¿Es una versión oficial de Incredibox?**  
 No. Es un **mod fan‑made** creado por BadSnacks y no está afiliado al equipo
 oficial de Incredibox (So Far So Good).
 
+<!-- i18n:faq:id=faq:incredibox-riser:where-can-i-play-this-a4cf171c -->
 **2. ¿Dónde puedo jugar este mod?**  
 No aparece en las plataformas oficiales. Mods como *Riser* suelen alojarse en
 comunidades como **Scratch** o mostrarse en YouTube, donde se incluyen enlaces
 para jugarlos en navegador.
 
+<!-- i18n:faq:id=faq:incredibox-riser:are-the-bonus-solutions-for-3d646fa2 -->
 **3. ¿Hay soluciones de bonus para "Riser" online?**  
 Sí. Si te cuesta dar con las combinaciones de bonus, una búsqueda de
 "Incredibox Riser combos" en YouTube suele mostrar todas las respuestas.
+

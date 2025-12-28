@@ -12,6 +12,7 @@ tags:
   - incredibox cool as ice
   - incredibox cool as ice online
 score: 4.9/5  (724 votes)
+releaseDate: 2025-12-04
 ---
 
 
@@ -38,6 +39,7 @@ suena perfecto?
 
 ---
 
+<!-- i18n:section:tips -->
 ### Jugabilidad helada, fácil de aprender
 
 - **Elige personajes helados:** Empieza seleccionando entre la nueva alineación

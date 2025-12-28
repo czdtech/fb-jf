@@ -17,6 +17,7 @@ releaseDate: 2025-10-10T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### **Introducción al juego**
 
 *Incredibox Banana* es un popular mod fan‑made de Incredibox que rinde homenaje
@@ -36,6 +37,7 @@ rienda suelta a la creatividad mientras resuelven el pequeño puzle de
 hallar los bonus animados secretos, claramente inspirados en la cultura única
 del universo Banana.
 
+<!-- i18n:section:tips -->
 ### **Estrategia de juego y consejos**
 
 La estrategia se centra en superponer los sonidos icónicos del juego y sus
@@ -69,6 +71,7 @@ referencias de memes para crear una pista divertida y enérgica.
     secretos, sé metódico. Fija unos cuantos sonidos base que te gusten y ve
     cambiando los iconos restantes uno a uno hasta disparar una animación.
 
+<!-- i18n:section:controls -->
 ### **Guía de controles**
 
 Los controles siguen la interfaz intuitiva de arrastrar y soltar típica de los
@@ -84,3 +87,4 @@ juegos oficiales de Incredibox.
     al resto.
 *   **Grabar:** pulsa el **botón de grabación** (arriba a la derecha) para
     iniciar o detener la grabación de tu mix.
+

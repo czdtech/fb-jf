@@ -19,6 +19,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada
 
 Hoop Hero es un juego arcade minimalista y adictivo de un solo toque que pone a
@@ -29,6 +30,7 @@ alinea con el aro para encestar. El desafío aparece cuando la velocidad aumenta
 el mayor número posible de mates consecutivos para lograr una nueva máxima
 puntuación.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Concéntrate en la sincronización:** Este juego va de ritmo y precisión. No te
@@ -45,6 +47,7 @@ puntuación.
     de ida y vuelta. Fíjate en los diferentes patrones de movimiento que
     aparecen para adaptar tu sincronización.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 El juego se maneja con una sola acción.
@@ -52,18 +55,23 @@ El juego se maneja con una sola acción.
 *   **Mate:** haz clic con el botón izquierdo del ratón o toca en cualquier
     parte de la pantalla para hacer que la pelota caiga y haga el mate.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:hoop-hero:q-what-is-the-objective-0d640e0d -->
 *   **P: ¿Cuál es el objetivo del juego?**
     *   **R:** Encestar la mayor cantidad posible de mates consecutivos. La
         partida termina en cuanto fallas el primero.
 
+<!-- i18n:faq:id=faq:hoop-hero:q-how-do-i-get-698432e6 -->
 *   **P: ¿Cómo consigo una puntuación más alta?**
     *   **R:** Tu puntuación depende del número de encestes seguidos. Algunas
         versiones también otorgan puntos extra por tiros "perfectos" que entran
         limpios por la red.
 
+<!-- i18n:faq:id=faq:hoop-hero:q-is-there-any-way-629d32d0 -->
 *   **P: ¿Puedo continuar después de fallar?**
     *   **R:** Normalmente no. Estos juegos hipercasuales están pensados para
         partidas rápidas: un solo fallo termina la partida y tienes que empezar
         de nuevo.
+

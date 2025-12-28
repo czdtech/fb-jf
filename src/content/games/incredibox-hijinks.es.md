@@ -18,6 +18,7 @@ releaseDate: 2025-10-10T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### **Introducción a Incredibox Hijinks**
 
 *Incredibox Hijinks* es un mod fan‑made muy popular y enérgico para el juego de
@@ -37,6 +38,7 @@ El objetivo es que los jugadores se diviertan creando mezclas caóticas pero
 pegadizas, mientras resuelven el puzle de encontrar los tres bonus
 animados secretos, claramente inspirados en bromas y travesuras de caricatura.
 
+<!-- i18n:section:tips -->
 ### **Estrategia de juego y consejos**
 
 La estrategia en *Incredibox Hijinks* consiste en abrazar el lado divertido y
@@ -67,6 +69,7 @@ superponer sonidos enérgicos hasta conseguir un groove contagioso.
     construye primero un groove base que te guste y ve cambiando los iconos
     restantes uno a uno hasta activar cada animación traviesa.
 
+<!-- i18n:section:controls -->
 ### **Guía de controles**
 
 Los controles siguen la interfaz estándar de Incredibox.
@@ -82,21 +85,27 @@ Los controles siguen la interfaz estándar de Incredibox.
 *   **Grabar:** pulsa el **botón de grabación** para empezar o detener la
     grabación de tu creación gamberra.
 
+<!-- i18n:section:faq -->
 ### **Preguntas frecuentes (FAQ)**
 
+<!-- i18n:faq:id=faq:incredibox-hijinks:is-this-an-official-incredibox-12056458 -->
 **1. ¿Es una versión oficial de Incredibox?**  
 No. Es un **mod fan‑made** creado por Bongo Cat y no está afiliado al equipo
 oficial de Incredibox (So Far So Good).
 
+<!-- i18n:faq:id=faq:incredibox-hijinks:where-can-i-play-this-a4cf171c -->
 **2. ¿Dónde puedo jugar este mod?**  
 No aparece en plataformas oficiales. Mods como *Hijinks* suelen alojarse en webs
 como **playfiddlebops.com** o mostrarse en YouTube, normalmente con enlaces
 para jugar directamente en el navegador.
 
+<!-- i18n:faq:id=faq:incredibox-hijinks:what-makes-this-mod-special-f26277ef -->
 **3. ¿Qué hace especial a este mod?**  
 Su encanto está en la diversión pura: el tema cartoon ligero y la música
 upbeat crean una experiencia sencilla y alegre centrada en sacarte una sonrisa.
 
+<!-- i18n:faq:id=faq:incredibox-hijinks:are-the-bonus-solutions-for-05cb83d2 -->
 **4. ¿Hay soluciones de bonus para "Hijinks" online?**  
 Sí. Si te cuesta encontrar las combinaciones de animaciones, una búsqueda rápida
  de "Incredibox Hijinks combos" en YouTube suele mostrar todas las soluciones.
+

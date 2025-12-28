@@ -18,6 +18,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada
 
 Idle Explorers es un adictivo juego idle de gestión y clicker en el que te
@@ -28,6 +29,7 @@ básico y debes usar los ingresos que genera para mejorar tu operación, contrat
 más personal, automatizar procesos mediante gerentes y, con el tiempo,
 desbloquear minas nuevas y más rentables en distintos mundos.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **El bucle principal:** La esencia del juego es simple pero muy adictiva:
@@ -50,6 +52,7 @@ desbloquear minas nuevas y más rentables en distintos mundos.
     también incorporan un sistema de "prestigio", donde puedes reiniciar tu
     progreso a cambio de un impulso permanente a todas tus ganancias futuras.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 El juego se maneja por completo con clics de ratón o toques.
@@ -61,21 +64,26 @@ El juego se maneja por completo con clics de ratón o toques.
 *   **Navegar:** usa el mapa o los botones de mundo para cambiar entre tus
     distintas minas.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:idle-explorers:q-what-should-i-upgrade-131ac75d -->
 *   **P: ¿Qué debo mejorar primero?**
     *   **R:** Lo mejor es llevar un progreso equilibrado. No sirve de nada tener
         mineros rapidísimos si el ascensor no da abasto. Intenta mejorar pozos,
         ascensor y almacén en paralelo para que el flujo de recursos sea
         constante.
 
+<!-- i18n:faq:id=faq:idle-explorers:q-what-do-managers-do-7a09155e -->
 *   **P: ¿Para qué sirven los gerentes?**
     *   **R:** Son clave para ganar dinero en modo idle: automatizan su sección
         (pozos, ascensor o almacén), así sigues generando ingresos incluso
         cuando no estás haciendo clic o estás desconectado.
 
+<!-- i18n:faq:id=faq:idle-explorers:q-should-i-spend-my-45d69fa9 -->
 *   **P: ¿Conviene gastar el dinero en cuanto lo tenga o ahorrar?**
     *   **R:** En los juegos idle casi siempre compensa reinvertirlo en mejoras
         en cuanto puedas pagarlas. Cada mejora aumenta tu ritmo de ingresos, lo
         que te permite acceder antes a la siguiente. Ese crecimiento exponencial
         es el corazón del género.
+

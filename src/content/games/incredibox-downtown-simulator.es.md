@@ -17,6 +17,7 @@ releaseDate: 2025-10-10T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### **Introducción a Incredibox "Downtown" (Simulator Mod)**
 
 *Incredibox Downtown* es un mod fan‑made muy popular y pulido que forma parte de
@@ -33,6 +34,7 @@ Este formato "Simulator" ofrece una experiencia creativa distinta: se centra en
 la combinación directa de sonidos en una cuadrícula, en lugar de asignarlos a
 intérpretes individuales.
 
+<!-- i18n:section:tips -->
 ### **Estrategia de juego y consejos**
 
 1.  **Comprende la rejilla:** Los 20 sonidos se presentan en una misma cuadrícula.
@@ -59,6 +61,7 @@ intérpretes individuales.
     *   **Record:** Usa la función de grabación para guardar y compartir los
         loops de los que te sientas más orgulloso.
 
+<!-- i18n:section:controls -->
 ### **Guía de controles**
 
 Aquí está la gran diferencia frente al Incredibox clásico: todo se controla con
@@ -73,3 +76,4 @@ clics.
     *   **Play:** activa o detiene todo el loop.
     *   **Record:** inicia o detiene la grabación de tu sesión.
     *   **Reset:** limpia todos los sonidos activos de la rejilla.
+

@@ -16,6 +16,7 @@ score: 4.5/5  (525 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada
 
 Incredibox Fruity es un clásico juego de estrategia 2D de desplazamiento lateral
@@ -71,6 +72,7 @@ Dominar Incredibox Fruity exige equilibrio entre ataque, defensa y buena sincron
 *   **Empuje final:** Coordina tus unidades más poderosas con la habilidad
     especial para lanzar un asalto definitivo y destruir la base rival.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 El juego se maneja casi por completo con el ratón.
@@ -84,24 +86,30 @@ El juego se maneja casi por completo con el ratón.
 *   **Evolucionar:** pulsa el botón "Evolve" en la parte superior derecha cuando
     hayas acumulado suficiente XP.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:incredibox-fruity:q-how-do-i-get-9279e7e6 -->
 *   **P: ¿Cómo consigo XP?**
     *   **R:** Obtienes puntos de experiencia (XP) cada vez que una de tus
         unidades elimina a una unidad enemiga.
 
+<!-- i18n:faq:id=faq:incredibox-fruity:q-what-is-the-best-94cf492b -->
 *   **P: ¿Cuál es la mejor unidad del juego?**
     *   **R:** Depende de la situación, pero el "Super Soldier" del Futuro suele
         considerarse la unidad más completa por su vida y daño. Al inicio, el
         Club Man básico es de lo más eficiente por su relación coste/impacto.
 
+<!-- i18n:faq:id=faq:incredibox-fruity:q-is-it-better-to-f6ee451c -->
 *   **P: ¿Compensa construir más torretas o entrenar más unidades?**
     *   **R:** Al principio, lo ideal es una mezcla: una o dos torretas te dan
         defensa estable para ahorrar oro y lanzar un empuje ofensivo. En la fase
         final, tener las torretas totalmente mejoradas es clave para sobrevivir.
 
+<!-- i18n:faq:id=faq:incredibox-fruity:q-where-can-i-play-adcbe59e -->
 *   **P: ¿Dónde puedo jugar Incredibox Fruity ahora que Flash ya no existe?**
     *   **R:** Muchas webs de juegos (por ejemplo, CrazyGames, Armor Games o
         Kongregate) lo alojan usando emuladores de Flash como Ruffle, así que
         se puede jugar en navegadores modernos. También hay versiones móviles en
         las tiendas de iOS y Android.
+
