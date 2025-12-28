@@ -16,10 +16,12 @@ score: 4.4/5  (2350 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Detaillierte Spieleinführung
 
 Word Detector ist ein schnelles Wortfindungs-Puzzle-Spiel, das deinen Wortschatz und deine Geschwindigkeit herausfordert. Du bekommst ein Buchstabengitter präsentiert und musst so viele Wörter wie möglich finden, indem du benachbarte Buchstaben verbindest. Wörter können gebildet werden, indem du Buchstaben horizontal, vertikal oder diagonal verbindest. Das Ziel ist typischerweise, einen Zielpunktestand zu erreichen oder eine bestimmte Anzahl von Wörtern innerhalb eines Zeitlimits zu finden, um zum nächsten Level zu gelangen.
 
+<!-- i18n:section:tips -->
 ### Spielstrategie & Walkthrough
 
 1.  **Nach häufigen Präfixen und Suffixen scannen:** Suche nach häufigen Buchstabenkombinationen wie "S", "ED", "ER" oder "ING". Diese können oft der Anfang oder das Ende mehrerer Wörter sein und dir helfen, schnell mehrere Wörter zu finden.
@@ -27,19 +29,25 @@ Word Detector ist ein schnelles Wortfindungs-Puzzle-Spiel, das deinen Wortschatz
 3.  **Diagonalen nicht vergessen:** Es ist leicht, horizontale und vertikale Wörter zu erkennen, aber viele Spieler vergessen, nach diagonalen Verbindungen zu suchen. Stelle sicher, dass du das Gitter in alle acht Richtungen von jedem Buchstaben aus scannst.
 4.  **Hinweise nutzen, wenn du feststeckst:** Wenn die Uhr tickt und du keine weiteren Wörter mehr finden kannst, nutze einen Hinweis. Er kann dir helfen, ein Wort zu erkennen, das du übersehen hast, und deinen Schwung beizubehalten.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Das Spiel wird mit einer einfachen Klick-und-Zieh-Bewegung gespielt.
 
 *   **Wort bilden:** Klicke auf den ersten Buchstaben des Wortes, das du gefunden hast, halte die Maustaste und ziehe deinen Cursor durch alle benachbarten Buchstaben des Wortes in Reihenfolge. Lass die Maustaste auf dem letzten Buchstaben los, um das Wort einzureichen.
 
+<!-- i18n:section:faq -->
 ### Häufig gestellte Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:word-detector:q-what-is-the-minimum-136c2025 -->
 *   **F: Was ist die Mindestlänge für ein Wort?**
     *   **A:** Bei den meisten Wortsuchspielen dieser Art müssen Wörter mindestens drei Buchstaben lang sein, um als gültig zu gelten.
 
+<!-- i18n:faq:id=faq:word-detector:q-can-i-reuse-a-45552dd2 -->
 *   **F: Kann ich ein Buchstabenfeld im selben Wort wiederverwenden?**
     *   **A:** Nein. Sobald du ein Buchstabenfeld für ein Wort verwendest, kannst du nicht zurückschleifen und es erneut im selben Wort verwenden.
 
+<!-- i18n:faq:id=faq:word-detector:q-what-happens-if-time-dc1723e2 -->
 *   **F: Was passiert, wenn die Zeit abläuft?**
     *   **A:** Wenn du das Levelziel (wie einen Zielpunktestand) nicht erreichst, bevor der Timer abläuft, musst du das Level neu starten.
+

@@ -16,6 +16,7 @@ score: 4.4/5  (1083 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 „UNO Game“ ist die digitale Version des weltberühmten Kartenspiels UNO. Ziel ist es, als Erste/r alle eigenen Karten loszuwerden. In jedem Zug legst du eine Karte ab, die entweder die gleiche Farbe oder die gleiche Zahl wie die offene Karte hat – oder du spielst eine Aktions‑ bzw. Jokerkarte, um den Spielfluss ordentlich durcheinanderzubringen.
@@ -35,6 +36,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - **Farbe wählen:** Nach dem Ausspielen einer Jokerkarte bestimmst du per Klick, welche Farbe als Nächstes gilt.
 - **UNO‑Button:** Bei nur noch einer Handkarte klickst du auf den UNO‑Button, um dies anzuzeigen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
 1.  **F: Wann muss ich UNO sagen?**
@@ -45,3 +47,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
     **A:** Wirst du ertappt, musst du in vielen Varianten 2–4 Strafkarten ziehen.
 4.  **F: Kann ich mehrere gleiche Karten in einem Zug spielen?**
     **A:** Das hängt von den eingestellten Hausregeln ab. Im klassischen UNO ist pro Zug normalerweise nur eine Karte erlaubt.
+

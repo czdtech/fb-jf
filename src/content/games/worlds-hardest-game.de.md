@@ -16,6 +16,7 @@ score: 4.9/5  (1070 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 World's Hardest Game gilt nicht ohne Grund als eines der schwierigsten Arcade‑Spiele überhaupt. Du steuerst ein kleines rotes Quadrat durch Labyrinthe, in denen sich blaue Kreise nach festen Mustern bewegen. Schon ein einziger Treffer setzt dich zurück – gefragt sind extrem präzise Bewegungen, perfekte Timings und eine Menge Frustrationstoleranz.
@@ -34,6 +35,7 @@ World's Hardest Game gilt nicht ohne Grund als eines der schwierigsten Arcade‑
 - **Präzise Positionierung:** Nutze kurze, kontrollierte Bewegungen für pixelgenaues Ausweichen.
 - **Pause & Planen:** In sicheren Zonen kurz stehen bleiben, um den nächsten Abschnitt zu planen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
 1.  **F: Warum heißt es „World's Hardest Game“?**
@@ -44,3 +46,4 @@ World's Hardest Game gilt nicht ohne Grund als eines der schwierigsten Arcade‑
     **A:** Viele Builds speichern automatisch, sodass du beim nächsten Start beim letzten freigeschalteten Level weitermachen kannst.
 4.  **F: Gibt es Tipps zum Durchspielen?**
     **A:** Keine Abkürzungen – Übung, Geduld und Beobachtung sind der Schlüssel. Lerne, Bewegungsmuster vorauszusehen, und renne nicht unüberlegt los.
+

@@ -15,10 +15,12 @@ score: 4.4/5 (2150 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Detaillierte Spieleinführung
 
 Word Pics ist ein Wortpuzzle, bei dem du aus zwei Bildern auf ein gemeinsames Wort oder eine kurze Phrase schließen musst. Die Motive geben dir Hinweise auf Bedeutung, Klang oder Wortbestandteile. Das Spiel ist leicht verständlich, aber fordert deine Kombinationsgabe und dein Sprachgefühl.
 
+<!-- i18n:section:tips -->
 ### Spielstrategie & Walkthrough
 
 1. **Bilder genau analysieren:** Schau dir beide Bilder in Ruhe an und überlege, welcher Begriff, welcher Ort oder welches Konzept beide Motive verbindet.
@@ -26,18 +28,23 @@ Word Pics ist ein Wortpuzzle, bei dem du aus zwei Bildern auf ein gemeinsames Wo
 3. **Hinweise nutzen:** Wenn du nicht weiterkommst, kannst du Hinweise einsetzen – etwa überflüssige Buchstaben entfernen, einen Buchstaben aufdecken oder eines der Bilder austauschen.
 4. **Modi wechseln:** Einige Versionen bieten z. B. einen Expertenmodus mit verschwindenden Bildern oder einen Mehrspielermodus, in dem du gegen andere rätselst.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Tastatur:** Gib die Buchstaben des gesuchten Wortes direkt ein.
 - **Maus/Touch:** Nutze Maus oder Touchscreen, um Buchstaben anzutippen, Menüs zu bedienen oder Hinweise zu aktivieren.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:word-pics:q-what-if-i-cant-ab9afc13 -->
 *   **F: Was, wenn ich das Wort nicht erraten kann?**
     *   **A:** Nutze Ingame‑Hinweise, um dir helfen zu lassen. Durch bestandene
         Level verdienst du oft Münzen, mit denen du weitere Hinweise kaufen
         kannst.
 
+<!-- i18n:faq:id=faq:word-pics:q-are-there-different-difficul-0e96782f -->
 *   **F: Gibt es unterschiedliche Schwierigkeitsgrade?**
     *   **A:** Ja. Es gibt verschiedene Modi (z. B. einen Expertenmodus) und die
         Rätsel werden mit dem Fortschritt nach und nach schwieriger.
+

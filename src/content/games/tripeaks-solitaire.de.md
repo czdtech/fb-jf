@@ -16,10 +16,12 @@ score: 4.5/5  (2600 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Detaillierte Spieleinführung
 
 Tripeaks Solitaire ist eine schnelle Patience‑Variante, die Elemente aus Golf und Pyramid Solitaire kombiniert. Die Karten liegen anfangs in drei überlappenden Pyramiden – den „Peaks“. Dein Ziel ist es, das gesamte Tableau abzuräumen, indem du nacheinander Karten spielst, die genau einen Rang höher oder niedriger sind als die offene Karte auf dem Ablagestapel. Je längere Serien du schaffst, desto schneller räumst du das Feld.
 
+<!-- i18n:section:tips -->
 ### Spielstrategie & Walkthrough
 
 1. **Ziel:** Befreie alle Karten der drei Gipfel auf dem Tableau.
@@ -29,6 +31,7 @@ Tripeaks Solitaire ist eine schnelle Patience‑Variante, die Elemente aus Golf 
 5. **Nachziehstapel nutzen:** Wenn kein passender Zug mehr möglich ist, ziehst du eine neue Karte vom Nachziehstapel auf den Ablagestapel und erhältst damit eine neue Basis für weitere Züge.
 6. **Lange Serien bauen:** Für hohe Punktzahlen ist entscheidend, möglichst viele Karten in einem Rutsch zu spielen, ohne nachzuziehen – jede Karte in einer Serie erhöht deinen Kombobonus.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Das Spiel wird komplett mit Maus oder Touch gesteuert.
@@ -36,16 +39,21 @@ Das Spiel wird komplett mit Maus oder Touch gesteuert.
 - **Karte spielen:** Klicke auf eine gültige offene Karte im Tableau, um sie auf den Ablagestapel zu legen.
 - **Karte ziehen:** Klicke auf den verdeckten Nachziehstapel, wenn du keine weitere Karte auslegen kannst.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:tripeaks-solitaire:q-what-is-the-main-212faaec -->
 *   **F: Was ist das Hauptziel?**
     *   **A:** Alle Karten der drei Peaks zu entfernen, bevor dein Nachziehstapel
         aufgebraucht ist.
 
+<!-- i18n:faq:id=faq:tripeaks-solitaire:q-can-i-place-a-757265ba -->
 *   **F: Kann ich eine 2 auf einen König legen?**
     *   **A:** Nein. Der Rang muss immer genau um 1 abweichen. Auf einen König
         darfst du nur Dame oder Ass legen (wegen der Wrap‑Regel).
 
+<!-- i18n:faq:id=faq:tripeaks-solitaire:q-what-happens-if-i-e189d065 -->
 *   **F: Was passiert, wenn der Nachziehstapel leer ist und noch Karten liegen?**
     *   **A:** Sind keine Spielzüge mehr möglich und der Stapel ist leer, ist die
         Runde verloren und du musst neu beginnen.
+

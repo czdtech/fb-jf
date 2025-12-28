@@ -11,8 +11,10 @@ thumbnail: /new-images/thumbnails/yojou-sprunki-mustard.png
 tags:
   - yojou sprunki mustard
 score: 4.5/5  (322 votes)
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 Bereit für eine bizarre Taufe aus Farbe und Sound? Yojou Sprunki Mustard stellt die Sprunki‑Welt komplett auf den Kopf: Alle Charaktere wurden von einer mysteriösen „Senfsoße“ befallen – und du mischst aus ihren veränderten Stimmen und Geräuschen deinen ganz eigenen, chaotischen Track.
 
 ### Was ist mit Yojou Sprunki Mustard passiert?
@@ -31,6 +33,7 @@ Seit Brud diese seltsame Senfsoße entdeckt hat, ist nichts mehr wie zuvor: Jede
 - **Verdrehte Oberfläche:** Auch UI und Hintergründe sind in Senffarben getaucht, wodurch eine surreale, gleichzeitig witzige und leicht gruselige Atmosphäre entsteht.
 - **Horror‑Einschlag:** Der Mod bringt neue, düstere Klanglayer und Glitch‑Effekte – perfekt, wenn du Sprunki mit einem creepy Twist magst.
 
+<!-- i18n:section:how-to-play -->
 ### So spielst du Yojou Sprunki Mustard (Sprunkstard)
 
 **Senf‑Charaktere wählen:**  
@@ -57,3 +60,4 @@ Seit Brud diese seltsame Senfsoße entdeckt hat, ist nichts mehr wie zuvor: Jede
 - **Kreativen Senf dazugeben:** Nutze das ungewöhnliche Sound‑Set, um Tracks zu bauen, die so schräg sind wie die gelbe Sauce selbst.
 
 Tauche in die absurde Welt von Yojou Sprunki Mustard ein und lass deine Musik von dieser magischen Senffarbe anstecken!
+

@@ -15,10 +15,12 @@ score: 4.1/5  (1982 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Detaillierte Spieleinführung
 
 Words Challenge mischt verschiedene Wortdisziplinen: Du löst Anagramme, füllst kleine Kreuzworträtsel und beantwortest schnelle Wort‑Prompts. Wer Muster in Vorsilben und Endungen erkennt und ein Gefühl für Buchstabenhäufigkeiten hat, ist klar im Vorteil – leichte Zeitlimits sorgen für ein angenehmes Tempo.
 
+<!-- i18n:section:tips -->
 ### Spielstrategie & Walkthrough
 
 1. **Morpheme nutzen:** Ziehe typische Vorsilben wie „RE‑“, „UN‑“ oder Endungen wie „‑ING“, „‑ED“, „‑ER“ als Bausteine heran.
@@ -27,20 +29,19 @@ Words Challenge mischt verschiedene Wortdisziplinen: Du löst Anagramme, füllst
 4. **Nicht festfahren:** Steckst du bei einem Modus fest, wechsle zum nächsten – ein frischer Blick hilft oft mehr als Grübeln.
 5. **Streaks halten:** Ein gleichmäßiger Spielfluss und Serien richtiger Antworten sichern dir oft Multiplikatoren und Extra‑Punkte.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Ziehe Buchstaben per Drag‑and‑Drop, um Anagramme zu bilden.
 - Tippe bei Kreuzworträtseln Wörter direkt über die Tastatur ein.
 - Klicke bzw. tippe Antwortoptionen bei Schnellfragen an.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
 
+<!-- i18n:faq:id=faq:words-challenge:i-stall-on-anagrams-ea8ca34e -->
 - Q: I stall on anagrams.
+<!-- i18n:faq:id=faq:words-challenge:are-proper-nouns-allowed-c43148f9 -->
 **Ich hänge oft an Anagrammen fest – Tipps?**  
 
-- Q: Are proper nouns allowed?
-Gruppiere die Buchstaben mental in Vokale und Konsonanten, probiere gängige Anfangs‑ und Endmuster und mische die Reihenfolge, bis ein bekanntes Muster ins Auge sticht.
-
-**Werden Eigennamen akzeptiert?**  
-In der Regel nicht – meist zählen nur normale Wörter aus dem zugrunde liegenden Wörterbuch.

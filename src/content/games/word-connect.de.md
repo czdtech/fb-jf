@@ -13,10 +13,12 @@ score: 3.9/5  (144 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 Word Connect ist ein gemütliches Wortpuzzle, bei dem du aus einem kleinen Buchstabenvorrat möglichst viele Wörter bildest. Die Buchstaben sind meist im Kreis angeordnet, und du ziehst mit dem Finger oder der Maus eine Linie darüber, um Wörter zu „verbinden“. Ziel ist es, alle Wörter zu finden, die in das Kreuzwort‑Gitter über dem Kreis passen.
 
+<!-- i18n:section:tips -->
 ### Spielanleitung
 
 - **Wörter bilden:** Ziehe von Buchstabe zu Buchstabe, um ein Wort zu formen, und lass los, um es einzureichen.
@@ -25,11 +27,13 @@ Word Connect ist ein gemütliches Wortpuzzle, bei dem du aus einem kleinen Buchs
 - **Mischen:** Nutze die Misch‑Funktion, um die Buchstaben neu anzuordnen – das hilft, neue Wortideen zu sehen.
 - **Hinweise:** Steckenbleibst du, kannst du mit Münzen Hinweise kaufen, die einzelne Buchstaben im Raster aufdecken.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Ziehen/Wischen:** Ziehe mit dem Finger oder der Maus über die Buchstaben im Kreis, um Wörter zu bilden.
 - **Klick:** Tippe auf die Buttons für Mischen oder Hinweise.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
 **Wie bekomme ich Münzen?**  

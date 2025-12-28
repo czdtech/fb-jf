@@ -13,10 +13,12 @@ score: 4.0/5  (987 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 „We Become What We Behold“ ist ein kurzes, satirisches Point‑and‑Click‑Spiel von Nicky Case, das sich kritisch mit Medien, Sensationslust und gesellschaftlicher Spaltung auseinandersetzt. Du beobachtest eine kleine Welt aus Kreisen und Quadraten und entscheidest per Kamera, welche Momente zu „Nachrichten“ werden – deine Auswahl beeinflusst direkt, wie sich die Figuren verhalten und wie sich die Stimmung der Gesellschaft verändert.
 
+<!-- i18n:section:tips -->
 ### Spielanleitung
 
 Der Kern des Gameplays besteht darin, die Szene zu beobachten und gezielt Fotos zu machen.
@@ -25,10 +27,12 @@ Der Kern des Gameplays besteht darin, die Szene zu beobachten und gezielt Fotos 
 - **Einfangen:** Klicke, um ein Foto eines Ereignisses zu machen. Was du ablichtest, erscheint auf dem TV‑Screen im Hintergrund und beeinflusst, wie die Figuren die Welt sehen.
 - **Konsequenzen erleben:** Das Spiel zeigt dir subtil, wie ein Fokus auf Streit, Gewalt oder Extreme einen Kreislauf aus Angst, Wut und Feindbildern erzeugen kann. Ein klassisches „Gewinnen“ gibt es nicht – stattdessen endet die Geschichte in einem bewussten, drastischen Finale.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Maus:** Ziele mit dem Mauszeiger wie mit einer Kamera und klicke, um ein Foto aufzunehmen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
 **Was will mir das Spiel sagen?**  

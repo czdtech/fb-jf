@@ -15,10 +15,12 @@ score: 4.2/5  (2068 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Detaillierte Spieleinführung
 
 In Tropical Merge verschmilzt du gleiche Objekte auf einer tropischen Insel zu immer höherwertigen Ressourcen. Durch 3er‑ oder 5er‑Merges räumst du Nebel beiseite, schaltest neue Flächen frei und baust Schritt für Schritt eine farbenfrohe Inselwelt auf. Quests und Events geben dir Ziele vor, während begrenzte Energie und Spielfeldgröße vorausschauendes Planen belohnen.
 
+<!-- i18n:section:tips -->
 ### Spielstrategie & Walkthrough
 
 1. **Wenn möglich 5‑mergen:** Wo es geht, versuche fünf gleiche Objekte gleichzeitig zu kombinieren – so erhältst du einen extra Bonus‑Gegenstand gegenüber einem einfachen 3‑Merge.
@@ -27,20 +29,19 @@ In Tropical Merge verschmilzt du gleiche Objekte auf einer tropischen Insel zu i
 4. **Energie in Blöcken ausgeben:** Spiele lieber in geplanten Sessions, in denen du Energie und Belohnungen optimal nutzt, statt sie unkoordiniert zu verballern.
 5. **Vor Events vorsorgen:** Kurz vor Events lohnt es sich, wichtige Basisressourcen vorzuproduzieren, damit du im Event schneller Fortschritt machst.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Ziehe Objekte per Drag‑and‑Drop zusammen, um sie zu mergen.
 - Tippe auf Gebäude und Produktionsobjekte, um Belohnungen einzusammeln.
 - Nutze die Karten‑/Inselansicht, um zwischen Bereichen zu wechseln.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
 
+<!-- i18n:faq:id=faq:tropical-merge:no-space-left-1b7b43b7 -->
 - Q: No space left.
+<!-- i18n:faq:id=faq:tropical-merge:energy-too-slow-29048010 -->
 **Mein Feld ist voll – was tun?**  
 
-- Q: Energy too slow.
-Konzentriere dich auf 5‑Merges, verkaufe oder zerlege überflüssige Kleinteile und nutze freigespielte Erweiterungen, um mehr Platz zu schaffen.
-
-**Energie lädt zu langsam nach – wie gehe ich damit um?**  
-Plane deine Spielzeiten um kostenlose Energiequellen, Tagesquests und Eventbelohnungen herum und erledige in Pausen eher Verwaltungsaufgaben wie Sortieren und Vorbereiten von Merges.

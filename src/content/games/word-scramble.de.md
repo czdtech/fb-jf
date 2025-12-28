@@ -13,10 +13,12 @@ score: 3.5/5  (764 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 Word Scramble ist ein klassisches Wortpuzzle, bei dem dir ein durcheinandergeratener Buchstabensatz präsentiert wird. Aus diesen Buchstaben musst du das ursprüngliche, sinnvolle Wort rekonstruieren. Das fordert Wortschatz, Mustererkennung und schnelles Kombinieren – je nach Modus auch unter Zeitdruck.
 
+<!-- i18n:section:tips -->
 ### Spielanleitung
 
 - **Ziel:** Finde aus den gemischten Buchstaben das richtige Wort.
@@ -25,12 +27,16 @@ Word Scramble ist ein klassisches Wortpuzzle, bei dem dir ein durcheinandergerat
 - **Hinweise:** Wenn du feststeckst, können Hinweise z. B. einen Buchstaben verraten oder eine kurze Definition des gesuchten Wortes einblenden.
 - **Punkte:** Für jede richtige Lösung gibt es Punkte, für besonders schnelle oder viele richtige Antworten meist Bonus.
 
+<!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Enter`
 
 - **Tippen:** Gib das gesuchte Wort über die Tastatur ein.
 - **Buchstaben anordnen:** In manchen Versionen kannst du Buchstaben per Klick und Drag neu anordnen oder per „Shuffle“-Button durchmischen.
-- **Bestätigen:** Drücke `Enter`, um dein Wort einzureichen.
+- **Bestätigen:** Drücke Enter, um dein Wort einzureichen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
 **Wie spielt man Word Scramble genau?**  

@@ -16,10 +16,12 @@ score: 4.8/5  (695 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 Wheely ist eine bekannte Reihe von Point‑and‑Click‑Abenteuern rund um das sympathische rote Auto Wheely. In jedem Teil wartet eine neue Reise voller kleiner Umgebungsrätsel. Du beobachtest die Szene, manipulierst Schalter, Rampen und Maschinen und hilfst Wheely so, Hindernisse zu überwinden und sein Ziel zu erreichen.
 
+<!-- i18n:section:tips -->
 ### Spielanleitung
 
 Das Gameplay dreht sich darum, die richtige Reihenfolge von Aktionen zu finden.
@@ -29,6 +31,7 @@ Das Gameplay dreht sich darum, die richtige Reihenfolge von Aktionen zu finden.
 - **Rätsel lösen:** Jedes Level ist ein kleines, in sich abgeschlossenes Puzzle. Mal musst du Tore öffnen, mal Brücken ausfahren oder Gefahren wie Stacheln und Gruben ausschalten.
 - **Sammelobjekte:** In vielen Leveln gibt es versteckte Sterne oder Bonus‑Objekte, die du zusätzlich einsammeln kannst.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Maus:**
@@ -36,6 +39,7 @@ Das Gameplay dreht sich darum, die richtige Reihenfolge von Aktionen zu finden.
     - Klicke auf Wheely, um ihn zu starten oder anzuhalten.
     - In manchen Rätseln kannst du Elemente auch ziehen oder drehen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
 **Was ist das eigentliche Ziel der Wheely‑Spiele?**  
@@ -46,3 +50,4 @@ Ja, die Reihe ist sehr familienfreundlich: Es gibt keine Gewalt, dafür viele ch
 
 **Wie viele Wheely‑Teile gibt es?**  
 Es existieren mehrere Episoden, die du oft direkt hintereinander spielen kannst – jede mit neuen Schauplätzen und Rätselideen.
+

@@ -15,10 +15,12 @@ score: 4.0/5  (1867 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Detaillierte Spieleinführung
 
 In Veggies Cut fliegen Gemüse und andere Zutaten durch die Luft, und du zerteilst sie mit schwungvollen Schnittlinien. Je mehr Stücke du mit einem Wisch triffst, desto höher deine Kombos. Gleichzeitig musst du Küchenfallen wie Messer oder Bomben meiden – ein falscher Schnitt durch eine Gefahr kann deinen Lauf ruinieren.
 
+<!-- i18n:section:tips -->
 ### Spielstrategie & Walkthrough
 
 1. **Lange Schnitte bevorzugen:** Versuche, mit einem Strich gleich mehrere Gemüsestücke zu erwischen, um hohe Kombowertungen zu erzielen.
@@ -27,19 +29,18 @@ In Veggies Cut fliegen Gemüse und andere Zutaten durch die Luft, und du zerteil
 4. **Spezialeffekte nutzen:** Falls es Zeitlupe oder ähnliche Power‑ups gibt, heb sie dir für besonders dichte „Gemüsewellen“ auf.
 5. **Ruhe bewahren:** Nach einem verpassten Schnitt oder Fehler lohnt es sich, kurz innezuhalten und den Rhythmus neu zu finden, statt hektisch weiterzuwischen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Schneiden:** Wische mit dem Finger oder ziehe mit gedrückter Maustaste eine Linie über die fliegenden Zutaten.
 - **Pause/Neustart:** Über die UI‑Buttons kannst du das Spiel anhalten oder ein Level neu beginnen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
 
+<!-- i18n:faq:id=faq:veggies-cut:i-hit-hazards-e2582509 -->
 - Q: I hit hazards.
+<!-- i18n:faq:id=faq:veggies-cut:how-to-score-high-602cd322 -->
 **Ich treffe ständig Bomben oder Messer – was tun?**  
 
-- Q: How to score high?
-Plane deine Linien so, dass sie in einem klaren Winkel durch Gemüse gehen und am Rand der Gefahren vorbeiführen – niemals direkt hindurch.
-
-**Wie erreiche ich hohe Punktzahlen?**  
-Konzentriere dich auf lange Multischnitte, vermeide Fehltreffer und halte einen gleichmäßigen, kontrollierten Wischrhythmus.

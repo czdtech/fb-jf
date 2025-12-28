@@ -16,10 +16,12 @@ score: 4.1/5  (907 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 Who Is? Game ist ein abwechslungsreiches Rätselspiel, in dem du dir Szene für Szene knifflige Fälle vorknöpfst. Jede Aufgabe stellt dir eine Frage – etwa wer lügt, wer der Impostor ist oder wo sich ein bestimmter Gegenstand versteckt. Um die Lösung zu finden, musst du Details beobachten, Objekte antippen und oft sehr unkonventionell denken.
 
+<!-- i18n:section:tips -->
 ### Spielanleitung
 
 
@@ -29,12 +31,14 @@ Jedes Level präsentiert eine einzigartige Situation oder Frage, und dein Ziel i
 - **Um die Ecke denken:** Viele Level sind bewusst irreführend. Die offensichtlichste Antwort ist selten die richtige – probiere ungewöhnliche Aktionen aus.
 - **Rätsel lösen:** Mal ist es ein klassisches Bilderrätsel, mal eine kleine Logikaufgabe, bei der du Informationen aus der Szene richtig zusammenführen musst.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Tippen/Klicken:** Nutze Finger oder Maus, um auf Elemente im Bild zu tippen.
 - **Ziehen:** Halte und ziehe, um Objekte zu verschieben oder verborgene Hinweise sichtbar zu machen.
 - **Mehrfingergesten:** Einige Rätsel verlangen auf Mobilgeräten zwei Finger gleichzeitig (z. B. Auseinanderziehen oder Zusammendrücken).
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
 **Welche Arten von Rätseln gibt es?**  
@@ -45,3 +49,4 @@ Ja, wenn du festhängst, kannst du meist Hinweise nutzen. Diese geben dir kleine
 
 **Ist das Spiel für alle Altersgruppen geeignet?**  
 Der Inhalt ist in der Regel familienfreundlich, die Aufgaben können aber durchaus anspruchsvoll sein – ideal für alle, die gerne Denkspiele mögen.
+

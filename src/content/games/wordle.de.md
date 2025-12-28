@@ -16,6 +16,7 @@ score: 4.8/5  (515 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 Wordle ist ein simples, aber extrem süchtig machendes Tagesrätsel: Du hast sechs Versuche, ein geheimes Fünf‑Buchstaben‑Wort zu finden. Nach jedem Tipp zeigen dir Farben, welche Buchstaben im Lösungswort vorkommen und ob sie an der richtigen Position stehen. Durch geschicktes Kombinieren schränkst du die Möglichkeiten immer weiter ein.
@@ -35,6 +36,7 @@ Wordle ist ein simples, aber extrem süchtig machendes Tagesrätsel: Du hast sec
 - **Feedback lesen:** Grün = richtige Stelle, Gelb = im Wort, aber falsche Stelle, Grau = nicht im Wort.
 - **Löschen:** Mit `Backspace` entfernst du Buchstaben.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
 
@@ -56,3 +58,4 @@ Meistens nein – zugelassen sind in der Regel nur normale Wörter aus dem Wört
 
 **Wie werde ich besser?**  
 Spiele regelmäßig, präge dir häufige Buchstabenkombinationen ein und nutze jeden Versuch, um maximal viele neue Infos über das Lösungswort zu sammeln.
+

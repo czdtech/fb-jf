@@ -16,6 +16,7 @@ score: 3.8/5  (1143 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 „Word Search“ ist ein klassisches Wortsuchspiel: Du suchst in einem Buchstabengitter nach vorgegebenen Begriffen, die zu einem Thema passen – etwa Tiere, Länder oder Lebensmittel. Die Wörter können horizontal, vertikal oder diagonal versteckt sein, teils auch rückwärts geschrieben. Das Ganze ist ein entspannter Gehirntrainer für Wortschatz und Konzentration.
@@ -36,6 +37,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - **Hinweis-Funktion:** Einige Versionen bieten Hinweis-Funktionen, um schwierige Wörter zu finden.
 
 - **Wortliste prüfen:** Schau in die Wortliste, welche Begriffe noch fehlen.
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
 1.  **F: In welchen Richtungen können Wörter versteckt sein?**
@@ -46,3 +48,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
     **A:** Achte besonders auf diagonale und rückwärts geschriebene Wörter – dort verstecken sich die „Restbegriffe“ am häufigsten.
 4.  **F: Gibt es ein Zeitlimit?**
     **A:** In vielen Versionen nicht – du kannst also ganz entspannt in deinem eigenen Tempo suchen.
+

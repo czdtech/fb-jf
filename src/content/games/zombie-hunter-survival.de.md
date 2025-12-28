@@ -14,10 +14,12 @@ score: 4.1/5  (2022 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Detaillierte Spieleinführung
 
 Zombie Hunter: Survival ist ein Survival‑Shooter aus der Vogelperspektive. Du bewegst dich durch enge Arenen, managst Munition und Nachladefenster und suchst dir sichere Kiterouten, während die Wellen immer dichter werden und dich zu sauberem Positioning und Crowd‑Control zwingen.
 
+<!-- i18n:section:tips -->
 ### Spielstrategie & Walkthrough
 
 1. **Im Kreis kiten:** Laufe großzügige Kreise, um Zombies zu bündeln, und feuere dann in die dichtesten Gruppen.
@@ -26,25 +28,22 @@ Zombie Hunter: Survival ist ein Survival‑Shooter aus der Vogelperspektive. Du 
 4. **Zielpriorität:** Schalte schnelle oder Fernkampf‑Zombies zuerst aus, bevor du dich um langsame Mobs kümmerst.
 5. **Ressourcen sicher holen:** Munition und Medkits nimmst du nur auf, wenn der Weg dorthin frei genug ist – riskante Sprints mitten durch die Horde enden meist im Tod.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
-- **Bewegen:** `WASD` oder `Pfeiltasten`.
+- **Bewegen:** WASD oder Pfeiltasten.
 - **Zielen/Schießen:** Maus oder entsprechende Tasten, Schuss per Mausklick bzw. Feuer‑Taste.
-- **Nachladen/Waffenwechsel:** Über UI‑Buttons oder dedizierte Tasten (z. B. `R` für Reload, Zahlentasten fürs Wechseln).
+- **Nachladen/Waffenwechsel:** Über UI‑Buttons oder dedizierte Tasten (z. B. R für Reload, Zahlentasten fürs Wechseln).
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
 
+<!-- i18n:faq:id=faq:zombie-hunter-survival:i-get-corneredfix-c5a84211 -->
 - Bosses? Some waves add elites—kite wider and clear minions first.
 
+<!-- i18n:faq:id=faq:zombie-hunter-survival:ammo-scarcetips-24d56ed0 -->
 - Munition knapp – Tipps? Ziele auf Gruppen, nutze Einzelschüsse und sammle nur ein, wenn es sicher ist.
 
+<!-- i18n:faq:id=faq:zombie-hunter-survival:bosses-5a57d05f -->
 - I get cornered—fix? Avoid dead‑ends; always leave an exit lane.
-**Ich werde ständig eingekesselt – wie verhindere ich das?**  
-Meide Sackgassen, halte dir immer eine Fluchtlinie offen und kreiere dir früh im Level eine große Rundstrecke zum Kiten.
-
-**Munition ist ständig knapp – Tipps?**  
-Ziele auf Gruppen statt Einzelziele, schieße kontrollierte Einzelschüsse und hole Munitionsdrops nur, wenn du sie sicher erreichen kannst.
-
-**Gibt es Boss‑Zombies?**  
-Viele Varianten bringen ab bestimmten Wellen Elite‑ oder Boss‑Gegner. Kreiere für sie größere Kiteradien und dünne zuerst die normalen Zombies aus.

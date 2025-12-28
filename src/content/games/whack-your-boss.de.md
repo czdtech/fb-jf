@@ -16,10 +16,12 @@ score: 4.7/5  (899 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 Whack Your Boss ist ein schwarzhumoriges, interaktives „Stressventil“. Du siehst eine Büroszene mit deinem Chef und vielen Alltagsgegenständen. Überall im Bild verbergen sich klickbare Objekte – jedes davon löst eine eigene, überzeichnete Animation aus, in der du deinem virtuellen Chef auf kreative, cartoonhafte Weise „eins auswischst“.
 
+<!-- i18n:section:tips -->
 ### Spielanleitung
 
 
@@ -29,10 +31,12 @@ Das Gameplay ist simpel:
 - **Alle Varianten finden:** Der Reiz des Spiels liegt darin, alle versteckten Methoden zu entdecken. Nach jeder Szene kehrst du in das Büro zurück.
 - **Reset/Cleaner:** Nach einem „Whack“ erscheint meist eine Option, um das Büro aufzuräumen und die Szene zurückzusetzen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Maus:** Bewege den Cursor über die Szene und klicke auf Gegenstände, um Animationen auszulösen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
 **Was ist das Ziel des Spiels?**  
@@ -43,3 +47,4 @@ Ja, es existieren mehrere Varianten wie „Whack Your Computer“ oder „Whack 
 
 **Ist das nicht zu gewalttätig?**  
 Die Darstellung ist stark überzeichnet und cartoonhaft. Das Spiel versteht sich als satirische Übertreibung und nicht als realistische Gewaltfantasie.
+

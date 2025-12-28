@@ -15,10 +15,12 @@ score: 4.1/5  (2016 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Detaillierte Spieleinführung
 
 Western Sniper wirft dich in kurze, knackige Einsätze gegen Banditen, Bomben und bewegliche Ziele. Um erfolgreich zu sein, brauchst du einen ruhigen Zielarm, ein gutes Auge für Prioritäten (Schützen und Werfer zuerst) und einen sparsamen Umgang mit Munition und Zeit.
 
+<!-- i18n:section:tips -->
 ### Spielstrategie & Walkthrough
 
 1. **Ziele priorisieren:** Nimm zuerst Gegner mit Fernwaffen oder in der Nähe von Explosivfässern raus – sie sind am gefährlichsten.
@@ -27,20 +29,19 @@ Western Sniper wirft dich in kurze, knackige Einsätze gegen Banditen, Bomben un
 4. **Munitionsdisziplin:** Vermeide wildes Klicken. Richte deinen Blick neu aus, nimm dir einen Sekundenbruchteil zum Zielen und feuere nur, wenn du dir relativ sicher bist.
 5. **Nebenmissionen optional:** Bonusziele solltest du erst angehen, wenn die unmittelbare Gefahr gebannt ist.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Zielen:** Mit der Maus den Blick und das Fadenkreuz bewegen.
 - **Schießen:** Mausklick, um einen Schuss abzugeben; Zoom/Halten des Atems je nach Version über rechte Maustaste oder UI.
 - **Nachladen:** Über UI‑Button oder automatisch nach Magazinende.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
 
+<!-- i18n:faq:id=faq:western-sniper:i-miss-moving-targets-e6ff0d82 -->
 - Q: I miss moving targets.
+<!-- i18n:faq:id=faq:western-sniper:ammo-runs-out-7881997a -->
 **Ich treffe bewegliche Ziele kaum – Tipps?**  
 
-- Q: Ammo runs out.
-Führe das Ziel leicht an, schieße, wenn es das Fadenkreuz schneidet, und versuche auf den „ruhigsten“ Moment im Wackelzyklus zu warten.
-
-**Mir geht konstant die Munition aus – was mache ich falsch?**  
-Du schießt vermutlich zu häufig ohne klare Linie. Nutze Umwelt‑Kills, um mit einem Schuss mehrere Banditen zu erwischen, und verzichte auf sehr riskante Versuche.

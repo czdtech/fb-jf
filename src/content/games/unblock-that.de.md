@@ -16,10 +16,12 @@ score: 4.4/5  (2500 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Detaillierte Spieleinführung
 
 Unblock That ist ein forderndes Schiebepuzzle mit Holzblöcken unterschiedlicher Länge. Auf einem Raster liegen die Blöcke so verteilt, dass der rote Block zunächst feststeckt. Deine Aufgabe ist es, die übrigen Klötze in die richtige Reihenfolge zu schieben, bis der rote Block den Ausgang erreicht. Mit vielen Leveln von leicht bis knifflig ist es ein perfekter Logiktrainer für zwischendurch.
 
+<!-- i18n:section:tips -->
 ### Spielstrategie & Walkthrough
 
 1. **Hauptblocker erkennen:** Schau dir als Erstes an, welche Blöcke direkt im Weg des roten Blocks stehen – diese müssen auf jeden Fall bewegt werden.
@@ -27,23 +29,29 @@ Unblock That ist ein forderndes Schiebepuzzle mit Holzblöcken unterschiedlicher
 3. **Vorausdenken:** Vermeide Zufallsklicks. Versuche, eine Zugfolge im Kopf durchzuspielen und plane mehrere Schritte im Voraus, um mit möglichst wenigen Zügen zum Ziel zu kommen.
 4. **Zurücksetzen, wenn’s klemmt:** Wenn du das Gefühl hast, dass alles nur noch chaotischer wird, ist ein Reset oft der beste Weg, um mit frischem Blick neu zu starten.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 
 Das Spiel wird mit einfacher Drag-and-Drop-Steuerung gespielt.
 - **Block bewegen:** Klicke einen Holzblock an und ziehe ihn entlang seiner Ausrichtung (horizontale Blöcke nach links/rechts, vertikale nach oben/unten) in freie Felder.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
 
+<!-- i18n:faq:id=faq:unblock-that:q-what-is-the-goal-ab58581b -->
 *   **F: Was ist das genaue Ziel?**
     *   **A:** Den roten Block so weit zu verschieben, dass er den Ausgang am Rand
         des Brettes erreichen kann.
 
+<!-- i18n:faq:id=faq:unblock-that:q-why-cant-i-move-adf98dbf -->
 *   **F: Warum kann ich manche Blöcke nicht bewegen?**
     *   **A:** Blöcke lassen sich nur entlang ihrer Längsseite schieben. Ist kein
         Platz in dieser Richtung frei, musst du zunächst andere Klötze wegräumen.
 
+<!-- i18n:faq:id=faq:unblock-that:q-how-is-the-score-eb504d39 -->
 *   **F: Wozu dienen die Zugzähler oder Sterne?**
     *   **A:** Viele Varianten bewerten dich nach der Anzahl der Züge. Je weniger
         du benötigst, desto besser fällt deine Bewertung aus.
+

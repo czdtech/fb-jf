@@ -13,10 +13,12 @@ score: 4.8/5  (1384 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 Word Wipe ist ein dynamisches Wortpuzzle, das Wortsuche mit einem „fallende Blöcke“-Gefühl kombiniert. Du bekommst ein Raster aus Buchstaben und musst daraus schnell möglichst viele Wörter bilden. Gefundene Buchstaben verschwinden, neue fallen von oben nach – so bleibt das Spielfeld ständig in Bewegung.
 
+<!-- i18n:section:tips -->
 ### Spielanleitung
 
 - **Ziel:** Bilden von Wörtern, um Zeilen zu leeren und Levelziele zu erreichen. Meist musst du innerhalb eines Zeitlimits eine bestimmte Anzahl Reihen entfernen.
@@ -26,10 +28,12 @@ Word Wipe ist ein dynamisches Wortpuzzle, das Wortsuche mit einem „fallende Bl
 - **Punkte:** Längere und seltene Wörter bringen mehr Punkte, Tempo wird zusätzlich belohnt.
 - **Bomben & Power‑ups:** Durch gutes Spiel verdienst du Bomben, die mehrere Felder auf einmal sprengen und dir in engen Situationen helfen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Maus/Touch:** Klicke und ziehe (oder wische) über zusammenhängende Buchstaben, um ein Wort zu markieren und einzureichen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
 **Wie gewinne ich ein Level?**  

@@ -13,10 +13,12 @@ score: 5.0/5  (316 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 YoHoHo.io ist ein schnelles Battle‑Royale‑.io‑Spiel mit Piraten‑Setting. Du startest als kleiner Pirat auf einer Insel, sammelst Gold, wirst größer und stärker und versuchst, alle anderen Spieler auszuschalten. Gleichzeitig schrumpft die sichere Zone stetig, sodass die Kämpfe immer enger und intensiver werden.
 
+<!-- i18n:section:tips -->
 ### Spielanleitung
 
 - **Gold sammeln:** Sammle die Goldhaufen auf der Insel ein. Je mehr Gold du hast, desto größer und gefährlicher wird dein Pirat – Reichweite und Schaden steigen.
@@ -24,13 +26,17 @@ YoHoHo.io ist ein schnelles Battle‑Royale‑.io‑Spiel mit Piraten‑Setting.
 - **Shrinking Zone:** Der Rand der Karte wird nach und nach zu einer gefährlichen Zone. Bleib innerhalb des sicheren Bereichs, sonst verlierst du schnell Lebenspunkte.
 - **Dash geschickt nutzen:** Mit dem Dash stürmst du schnell vor oder entkommst brenzligen Situationen – setze ihn nicht blind ein, sondern gezielt für Flanken oder Flucht.
 
+<!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `WASD` `Arrow Keys` `Left Click` `Spacebar` `Left Click` `Spacebar` `Right Click`
 
-- **Bewegen:** `WASD` oder `Pfeiltasten` / Ziehen mit Maus bzw. Finger.
-- **Angreifen:** `Linksklick` oder `Leertaste` / Tippen.
-- **Ladeangriff:** Halte `Linksklick` oder `Leertaste`, um einen stärkeren Schlag zu laden.
-- **Dash:** `Rechtsklick` oder separate Dash‑Taste (Mobil).
+- **Bewegen:** WASD oder Pfeiltasten / Ziehen mit Maus bzw. Finger.
+- **Angreifen:** Linksklick oder Leertaste / Tippen.
+- **Ladeangriff:** Halte Linksklick oder Leertaste, um einen stärkeren Schlag zu laden.
+- **Dash:** Rechtsklick oder separate Dash‑Taste (Mobil).
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
 **Wie werde ich stärker?**  
