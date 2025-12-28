@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Merge the Gems ist ein simples, entspannendes und sehr süchtig machendes
@@ -26,6 +27,7 @@ nach zu immer schillernderen Juwelen. Dein Ziel ist es, dein Spielfeld sinnvoll
 zu verwalten, stetig zu merg en, neue Edelsteinarten freizuschalten und Aufgaben
 für Extrapunkte und Münzen zu erfüllen.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Merge-Kette nutzen**  
@@ -47,6 +49,7 @@ für Extrapunkte und Münzen zu erfüllen.
     Achte auf spezielle Aufgaben oder Auftragsziele. Sie bringen oft viel mehr
     Münzen als normale Merg es und beschleunigen deinen Fortschritt.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Gespielt wird mit einfacher Drag-and-drop-Steuerung.
@@ -56,17 +59,22 @@ Gespielt wird mit einfacher Drag-and-drop-Steuerung.
 - **Steine kaufen:** Öffne den Shop und kaufe Edelsteine, die du bereits
   entdeckt hast, gegen Münzen nach.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:merge-the-gems:q-how-do-i-get-a4e41d81 -->
 *   **F: Wie erhalte ich neue Steine?**
     *   **A:** In Abständen erscheint automatisch ein Basisstein auf einem freien
         Feld. Außerdem kannst du im Shop Steine mit Münzen direkt kaufen.
 
+<!-- i18n:faq:id=faq:merge-the-gems:q-what-is-the-main-212faaec -->
 *   **F: Was ist das Hauptziel?**
     *   **A:** Alle Edelsteinarten einmal freizuschalten und die Aufgaben für
         möglichst viele Punkte und Münzen zu erfüllen.
 
+<!-- i18n:faq:id=faq:merge-the-gems:q-my-board-is-full-6b64b9a8 -->
 *   **F: Mein Board ist voll und ich habe keine Züge mehr. Was nun?**
     *   **A:** Suche nochmal nach möglichen Merg es. Wenn gar nichts mehr geht,
         musst du einen wenig wertvollen Stein verkaufen oder löschen, um wieder ein
         Feld freizubekommen.
+

@@ -18,6 +18,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Mahjong Solitaire ist ein Einzelspieler-Matching-Spiel mit Mahjong-Steinen.
@@ -30,6 +31,7 @@ Das Spiel verlangt sorgfältige Beobachtung, Planung und etwas Vorausdenken –
 mit einem unglücklichen Zug kannst du zukünftige Paare verbauen. Gleichzeitig
 wirkt es beruhigend und ist für viele ein tägliches Kopfpuzzle.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **„Freie“ Steine verstehen**  
@@ -59,6 +61,7 @@ wirkt es beruhigend und ist für viele ein tägliches Kopfpuzzle.
     nutze Shuffle nur, wenn wirklich keine Züge mehr möglich sind – oft geht das
     mit einem Punktabzug einher.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Das Spiel wird mit Maus oder Touch gesteuert.
@@ -68,18 +71,23 @@ Das Spiel wird mit Maus oder Touch gesteuert.
 *   **Paar bilden:** Wähle anschließend einen identischen, ebenfalls freien
     Stein, um beide zu entfernen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:mahjong-solitaire:q-why-cant-i-select-ea37982f -->
 *   **F: Warum kann ich einen bestimmten Stein nicht auswählen?**
     *   **A:** Der Stein ist nicht „frei“. Meist ist er links und rechts
         blockiert oder es liegt (teilweise) ein anderer Stein auf ihm.
 
+<!-- i18n:faq:id=faq:mahjong-solitaire:q-what-do-i-do-546f0328 -->
 *   **F: Was mache ich, wenn keine Paare mehr übrig sind?**
     *   **A:** Wenn du sicher bist, dass keine Matches mehr vorhanden sind, suche
         nach einem „Shuffle“/„Reshuffle“-Button. Gibt es keine Mischfunktion und
         keine Züge mehr, ist die Runde verloren.
 
+<!-- i18n:faq:id=faq:mahjong-solitaire:q-are-the-seasonflower-tiles-bd5c0f97 -->
 *   **F: Sind alle Jahreszeiten-/Blumensteine unterschiedlich?**
     *   **A:** Ja, die Motive sind unterschiedlich, aber sie gehören zur selben
         Gruppe. Du kannst jeden Stein aus „Seasons“ mit jedem anderen aus
         derselben Gruppe kombinieren – genauso wie bei „Flowers“.
+

@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Ludo Legend ist eine liebevolle Digitalversion des beliebten Klassikers Ludo.
@@ -25,6 +26,7 @@ Heimspur zu führen. Du würfelst, bewegst Figuren, schlägst gegnerische Steine
 zurück in den Start und versuchst, als Erste:r alle eigenen Figuren ins Ziel zu
 bringen.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Aus dem Start kommen**  
@@ -51,23 +53,29 @@ bringen.
     Plane deine Züge so, dass du möglichst viele „gute Zahlen“ verwerten
     kannst.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 *   **Würfeln:** Auf den Würfel klicken, um ihn zu rollen.  
 *   **Figur bewegen:** Nach dem Wurf zeigt dir das Spiel die erlaubten Züge an;
     klicke auf die Figur, die du bewegen möchtest.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:ludo-legend:q-what-is-the-objective-c3cede21 -->
 *   **F: Was ist das Ziel von Ludo?**
     *   **A:** Als Erste:r alle vier eigenen Figuren vom Startfeld über das Brett
         bis ins Zielfeld (Dreieck) zu bringen.
 
+<!-- i18n:faq:id=faq:ludo-legend:q-what-happens-when-i-68ce1a26 -->
 *   **F: Was passiert, wenn ich eine Sechs würfle?**
     *   **A:** Eine Sechs hat zwei Vorteile: Du darfst eine Figur aus dem Start
         aufs Brett bringen und bekommst einen zusätzlichen Wurf.
 
+<!-- i18n:faq:id=faq:ludo-legend:q-can-i-pass-my-2134a96c -->
 *   **F: Kann ich an meinen eigenen Figuren vorbeiziehen?**
     *   **A:** Ja, du darfst an eigenen Figuren vorbeiziehen. Wenn du jedoch zwei
         Figuren auf demselben Feld als Block stehen hast, kannst du selbst keine
         dritte Figur auf dieses Feld ziehen.
+

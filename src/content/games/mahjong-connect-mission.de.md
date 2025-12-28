@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Mahjong Connect unterscheidet sich vom klassischen Mahjong-Solitaire: Hier
@@ -26,6 +27,7 @@ Missionen führen nach und nach gesperrte Steine, Nebel, Bomben und andere
 Spezialfelder ein, die du priorisiert abräumen und mit sauberem
 Board-Management kontrollieren musst.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Ränder zuerst prüfen**  
@@ -48,6 +50,7 @@ Board-Management kontrollieren musst.
     Verwende Hinweise nur dann, wenn du länger keine neuen Paare findest, und
     spare Shuffle-Effekte für wirklich festgefahrene Situationen auf.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Klicke zwei identische Steine an, zwischen denen ein gültiger Pfad mit
@@ -55,17 +58,22 @@ Board-Management kontrollieren musst.
 - Nutze Hinweis- oder Shuffle-Buttons über die Benutzeroberfläche, falls
   vorhanden.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:mahjong-connect-mission:no-moves-is-it-over-eb2a95e6 -->
 - **F: Es gibt scheinbar keine Züge mehr – ist das Spiel vorbei?**  
   **A:** Wenn ein Shuffle erlaubt ist, mische die verbleibenden Steine neu.
   Andernfalls kann ein Neustart helfen, von Beginn an bessere Korridore
   freizuhalten.
 
+<!-- i18n:faq:id=faq:mahjong-connect-mission:do-diagonals-connect-fb9ae333 -->
 - **F: Zählen diagonale Verbindungen?**  
   **A:** Nein. Erlaubt sind nur orthogonale Pfade (oben/unten/links/rechts) mit
   maximal zwei 90°-Winkeln.
 
+<!-- i18n:faq:id=faq:mahjong-connect-mission:any-symbol-confusion-tips-cd295f6b -->
 - **F: Wie behalte ich bei vielen Symbolen den Überblick?**  
   **A:** Lerne typische Sets wie Farben, Jahreszeiten- und Blumensteine zu
   unterscheiden und nutze Zoom-Funktionen, wenn das Layout sehr detailreich ist.
+

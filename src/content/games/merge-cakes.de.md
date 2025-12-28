@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Merge Cakes ist ein süßes, entspannendes Puzzlespiel, in dem du identische
@@ -25,6 +26,7 @@ startest mit einfachen Cupcakes und merg st dich hoch bis zu mehrstöckigen
 Torten. Ziel ist es, Kundenbestellungen zu erfüllen, Münzen zu verdienen und
 alle Rezepte im „Kuchenbuch“ zu entdecken.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Die Merge-Kette**  
@@ -48,6 +50,7 @@ alle Rezepte im „Kuchenbuch“ zu entdecken.
     ist schneller, als nur auf kostenlose Lieferboxen zu warten, und hilft bei
     schwierigen Bestellungen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Gespielt wird mit einfacher Drag-and-drop-Steuerung.
@@ -57,18 +60,23 @@ Gespielt wird mit einfacher Drag-and-drop-Steuerung.
 - **Kuchen kaufen:** Öffne den Shop und klicke auf den gewünschten Kuchen, um
   ihn mit Münzen zu erwerben.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:merge-cakes:q-how-do-i-get-e64c64d3 -->
 *   **F: Wie bekomme ich neue Kuchen?**
     *   **A:** In regelmäßigen Abständen legt eine Gratis-Box einen Basiskuchen
         auf ein freies Feld. Zudem kannst du im Shop jede Kuchenstufe nachkaufen,
         die du bereits freigeschaltet hast.
 
+<!-- i18n:faq:id=faq:merge-cakes:q-what-is-the-main-20a3adad -->
 *   **F: Was ist das Hauptziel?**
     *   **A:** Münzen zu verdienen, indem du Bestellungen erfüllst, und alle
         Rezepte im „Kuchenbuch“ zu entdecken.
 
+<!-- i18n:faq:id=faq:merge-cakes:q-my-board-is-full-2c9ccb4e -->
 *   **F: Mein Brett ist voll und ich kann nichts mehr tun – was jetzt?**
     *   **A:** Suche sorgfältig nach möglichen Merg es. Wenn wirklich nichts mehr
         geht, kannst du über den „Mülleimer“ einen niedrigen Kuchen verkaufen, um
         Platz zu schaffen.
+

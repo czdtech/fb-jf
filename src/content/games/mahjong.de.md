@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 "Mahjongg Solitaire" ist ein Einzelspieler-Matching-Spiel mit
@@ -44,6 +45,7 @@ beliebt.
     Nutze Hinweise oder Shuffle nur, wenn du wirklich feststeckst, um den
     Herausforderungscharakter zu erhalten.
 
+<!-- i18n:section:how-to-play -->
 ### So spielst du
 
 *   **Paare wählen:** Klicke auf zwei identische, freie Steine, um sie zu
@@ -55,6 +57,7 @@ beliebt.
 *   **Spielende:** Das Spiel endet, wenn alle Steine entfernt wurden – oder
     wenn keine weiteren Paare mehr gebildet werden können.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
 1.  **F: Das Spiel startet oder lädt nicht – was tun?**  
@@ -77,3 +80,4 @@ beliebt.
 5.  **F: Wie pausiert man das Spiel?**  
     **A:** Über die Pause-Taste in der Benutzeroberfläche kannst du das Spiel
     anhalten; der Timer stoppt dabei ebenfalls.
+

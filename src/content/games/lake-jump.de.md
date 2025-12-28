@@ -15,6 +15,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ## Spielanleitung
 
 ### Ausführliche Spielbeschreibung
@@ -23,6 +24,7 @@ Lake Jump ist ein minimalistisches Tipp-und-Sprung-Spiel. Du tippst im richtigen
 Moment, um auf bewegliche oder unterschiedlich weit entfernte Plattformen zu
 springen, hältst den Rhythmus und baust Serien auf, ohne ins Wasser zu fallen.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Im Takt tippen**  
@@ -46,6 +48,7 @@ springen, hältst den Rhythmus und baust Serien auf, ohne ins Wasser zu fallen.
     Nach einem Fehlversuch lohnt es sich, kurz durchzuatmen und den Rhythmus
     neu zu finden, statt sofort hektisch auf Rekordjagd zu gehen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Sprung:** Tippe oder klicke im richtigen Moment, um zur nächsten Plattform
@@ -53,17 +56,22 @@ springen, hältst den Rhythmus und baust Serien auf, ohne ins Wasser zu fallen.
 - **Pause/Neustart:** Über Bildschirm-Buttons kannst du pausieren oder den
   Versuch neu starten.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:lake-jump:i-overshootwhy-80bb6c0d -->
 - **F: Ich springe ständig zu weit – warum?**  
   **A:** Wahrscheinlich tippst du zu früh oder zu häufig hintereinander. Versuche,
   deinen Rhythmus minimal zu verzögern und achte darauf, wie weit dein Charakter
   bei jedem Tipp fliegt.
 
+<!-- i18n:faq:id=faq:lake-jump:are-there-powerups-0fea9ab4 -->
 - **F: Gibt es Power-ups?**  
   **A:** In manchen Modi erscheinen vorübergehend vergrößerte Plattformen oder
   Zeitlupen-Effekte, die dir das Timing erleichtern.
 
+<!-- i18n:faq:id=faq:lake-jump:endless-ea2091be -->
 - **F: Ist das Spiel endlos?**  
   **A:** In der Regel ja – du spielst auf Distanz und Highscore und versuchst,
   deinen persönlichen Rekord immer weiter zu verbessern.
+

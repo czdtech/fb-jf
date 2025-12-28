@@ -15,6 +15,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Mega Prize Scratch simuliert ein digitales Rubbellos: Du legst verborgene
@@ -22,6 +23,7 @@ Symbole frei, suchst nach Gewinnmustern und löst Bonusrunden aus. Jede Karte
 steht für sich – das Spiel ist als leichte Unterhaltung gedacht und nicht als
 strategische Herausforderung.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Budget festlegen**  
@@ -43,22 +45,28 @@ strategische Herausforderung.
 5.  **Pausen einlegen**  
     Mach zwischendurch kurze Pausen, um impulsives Weiterspielen zu vermeiden.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Mit der Maus oder per Touch über die Felder wischen, um sie freizurubbeln.  
 - Buttons nutzen, um alles auf einmal aufzudecken, neue Karten zu kaufen oder
   Bonusspiele zu starten (falls vorhanden).
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:mega-prize-scratch:can-i-influence-results-b1fb7dfb -->
 - **F: Kann ich das Ergebnis beeinflussen?**  
   **A:** Nein. Die Ausgänge sind zufällig – du kannst nur über Einsatz und
   Spieltempo entscheiden.
 
+<!-- i18n:faq:id=faq:mega-prize-scratch:what-bet-size-is-best-fdfca2ce -->
 - **F: Welche Einsatzhöhe ist sinnvoll?**  
   **A:** Kleine, gleichbleibende Einsätze verlängern die Spielzeit und halten
   das Risiko überschaubar.
 
+<!-- i18n:faq:id=faq:mega-prize-scratch:do-bonuses-improve-odds-52748e97 -->
 - **F: Verbessern Bonusspiele meine Gewinnchancen?**  
   **A:** Sie verändern vor allem die Varianz. Langfristig bleibt der
   Erwartungswert ähnlich – sie bringen aber mehr Abwechslung.
+

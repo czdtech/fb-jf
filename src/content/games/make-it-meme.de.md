@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 Make It Meme ist ein Multiplayer-Partyspiel von Prealpha, in dem Spieler:innen
@@ -45,6 +46,7 @@ für Runden mit Freund:innen.
     Sind alle Wertungen abgegeben, berechnet das Spiel die Gesamtscores und
     zeigt ein Ranking an. Wer am Ende die höchste Punktzahl hat, gewinnt.
 
+<!-- i18n:section:how-to-play -->
 ### So spielst du
 
 *   **Raum erstellen:** Klicke auf „Create Room“, vergib einen Raumnamen und
@@ -57,6 +59,7 @@ für Runden mit Freund:innen.
 *   **Bewerten:** In der Bewertungsansicht scrollst du durch die Memes der
     anderen, vergibst eine Punktzahl und sendest deine Wertung ab.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
 1.  **F: Wie lade ich Freund:innen zum Mitspielen ein?**  
@@ -70,3 +73,4 @@ für Runden mit Freund:innen.
 3.  **F: Gibt es eine Meldefunktion bei unpassenden Inhalten?**  
    **A:** In vielen Versionen kannst du problematische Inhalte melden oder den
    Raum verlassen und einem anderen Spiel beitreten.
+

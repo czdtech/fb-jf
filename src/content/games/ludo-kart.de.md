@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Ludo Kart verwandelt das klassische Ludo in ein schnelles, familienfreundliches
@@ -24,6 +25,7 @@ Ziellinie ein und versuchst, alle Figuren nach Hause zu bringen, bevor deine
 Gegner es schaffen. Sichere Felder, Schlagen und glückliche Würfe sorgen für
 spannende Wendungen.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Mehrere Figuren im Spiel halten**  
@@ -47,6 +49,7 @@ spannende Wendungen.
     Wenn deine führende Figur blockiert ist, bewege eine andere, um Druck auf
     mehreren Fronten aufzubauen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Würfeln:** Per Klick/Tap auf den Würfel.  
@@ -55,16 +58,21 @@ spannende Wendungen.
 - **Modi:** Häufig lokale Mehrspieler-Modi; manchmal kannst du auch gegen die
   KI antreten.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:ludo-kart:is-it-pure-luck-6f4dc50f -->
 - **F: Ist das Spiel nur vom Glück abhängig?**  
   **A:** Würfelglück spielt eine große Rolle, aber Figurenverteilung,
   sicheres Positionieren und das Einschätzen von Gefahrenzonen bringen
   zusätzliche Strategie ins Spiel.
 
+<!-- i18n:faq:id=faq:ludo-kart:can-i-block-2a27c709 -->
 - **F: Kann ich Felder blockieren?**  
   **A:** In vielen Varianten können Figuren bestimmte Felder blockieren, sodass
   andere nicht passieren können. Prüfe die Regeln der jeweiligen Version.
 
+<!-- i18n:faq:id=faq:ludo-kart:how-many-players-ce44cd9b -->
 - **F: Wie viele Spieler:innen können mitspielen?**  
   **A:** Meist 2–4, je nach Modus und Host.
+

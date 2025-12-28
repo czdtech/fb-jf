@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Übersicht
 
 Level Devil ist ein hinterhältiger Plattformspiel, in dem dir die Bühne selbst in
@@ -24,6 +25,7 @@ aus dem Boden und Ausgänge verschwinden oder wandern. Erfolg bekommst du nur
 mit vorsichtigem Vortasten, dem Lesen kleiner visueller Hinweise und dem
 Einprägen von Fallenstandorten – nicht durch blindes Durchrennen.
 
+<!-- i18n:section:how-to-play -->
 ### So spielst du
 
 - Taste dich mit kleinen Schritten vor, löse Fallen kontrolliert aus und gehe
@@ -33,6 +35,7 @@ Einprägen von Fallenstandorten – nicht durch blindes Durchrennen.
 - Nutze Checkpoints (falls vorhanden) und spiele in kurzen, konzentrierten
   Abschnitten.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Pfeiltasten oder WASD zum Laufen und Springen; Neustart-Tasten können je nach
@@ -47,19 +50,24 @@ Einprägen von Fallenstandorten – nicht durch blindes Durchrennen.
 - Zähle innerlich die Takte zwischen beweglichen Gefahren, um den richtigen
   Moment für deinen Sprung zu finden.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:level-devil:how-can-i-avoid-sudden-db81dd52 -->
 - **F: Wie kann ich plötzliche Stachel-Fallen vermeiden?**  
   **A:** Gehe in Minischritten an verdächtige Stellen heran, löse Stacheln aus
   und ziehe dich kurz zurück. Erst wenn du die sichere Route kennst, nimmst du
   Anlauf zum Sprung.
 
+<!-- i18n:faq:id=faq:level-devil:why-did-the-exit-disappear-87e0b7ab -->
 - **F: Warum ist der Ausgang plötzlich verschwunden?**  
   **A:** Viele Level haben Fake-Ausgänge. Untersuche Wände und Böden auf
   versteckte Türen oder alternative Wege – oft führt ein geheimer Pfad zur
   echten Zielflagge.
 
+<!-- i18n:faq:id=faq:level-devil:are-there-checkpoints-to-reduc-f621ae0b -->
 - **F: Gibt es Checkpoints, damit ich nicht alles wiederholen muss?**  
   **A:** Einige Versionen bieten Checkpoints, andere nicht. Achte auf Symbole im
   HUD oder kurze Speicher-Icons. Wenn keine vorhanden sind, sind Geduld und
   saubere Routenplanung besonders wichtig.
+

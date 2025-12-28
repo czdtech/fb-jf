@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Mazes bietet eine Sammlung von Labyrinthen – von einfachen Gittern bis hin zu
@@ -23,6 +24,7 @@ fallenbestückten Parcours. Die Herausforderung liegt in der Routenplanung:
 Du suchst den kürzesten sicheren Weg, meidest Fallenfelder und aktivierst
 Schalter, die Türen öffnen, ohne dabei die vorgegebenen Zeiten zu sprengen.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Wandfolgeregel nur gezielt nutzen**  
@@ -47,21 +49,27 @@ Schalter, die Türen öffnen, ohne dabei die vorgegebenen Zeiten zu sprengen.
     Wenn deine Steuerung noch unsicher ist, wähle – wo möglich – breitere Wege,
     um nicht an Kanten oder Fallen hängen zu bleiben.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Bewege deine Figur per Drag-Geste oder mit WASD/Pfeiltasten.  
 - Neustart und ggf. Rückgängig-Funktion stehen über die UI zur Verfügung.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:mazes:i-keep-missing-switches-044b1214 -->
 - **F: Ich laufe ständig an Schaltern vorbei.**  
   **A:** Plane deine Route so, dass du alle wichtigen Abzweigungen einmal
   ansteuerst – ein kleiner Umweg ist besser als spätes Zurücklaufen.
 
+<!-- i18n:faq:id=faq:mazes:are-traps-random-9e9cf148 -->
 - **F: Sind Fallen zufällig?**  
   **A:** In der Regel nein, ihre Positionen sind fix. Nutze mehrere Versuche,
   um sie dir einzuprägen.
 
+<!-- i18n:faq:id=faq:mazes:any-speedrun-tip-c8952bb3 -->
 - **F: Tipps für besonders schnelle Läufe?**  
   **A:** Halte dich in Kurven an die Innenwand und schneide – sofern erlaubt –
   diagonale Linien, um unnötige Wegstrecke zu sparen.
+

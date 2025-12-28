@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Lucky Vegas Blackjack bietet schnelle Blackjack-Runden nach klassischen Regeln:
@@ -25,6 +26,7 @@ Du versuchst, so nah wie möglich an 21 Punkte zu kommen, ohne dich zu
 1 oder 11. Mit solider Basisstrategie spielst du gegen die offene Karte des
 Dealers und meidest riskante Sidebets mit hohem Hausvorteil.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Basisstrategie nutzen**  
@@ -37,7 +39,7 @@ Dealers und meidest riskante Sidebets mit hohem Hausvorteil.
     Dealerkarten, wenn möglich, verdoppeln.
 
 3.  **Split-Regeln merken**  
-    Asse und Achter fast immer splitten, Zehner und Fünfer nie. Für andere
+    Asse und Achter fast immer splitten, Zehner (10) und Fünfer (5) nie. Für andere
     Paare gilt: An die Tischregeln halten bzw. die Standardtabelle nutzen.
 
 4.  **Bankroll-Management**  
@@ -48,22 +50,27 @@ Dealers und meidest riskante Sidebets mit hohem Hausvorteil.
     Sidebets haben meist einen deutlich höheren Hausvorteil. Spiele sie, wenn
     überhaupt, nur aus Spaß – nicht, um "clever" mehr zu gewinnen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Hit/Stand/Double/Split per Buttons in der Benutzeroberfläche.
 - Einsatzhöhe vor jeder Runde im entsprechenden Menü einstellen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:lucky-vegas-blackjack:can-i-count-cards-here-66efe273 -->
 - **F: Lohnt sich Kartenzählen in diesem Spiel?**  
   **A:** Bei automatisch gemischten Decks oder sehr häufigen Neumischungen
   bringt Kartenzählen praktisch nichts – betrachte das Spiel als reines
   Freizeitvergnügen.
 
+<!-- i18n:faq:id=faq:lucky-vegas-blackjack:insurance-worth-it-f96cf9ff -->
 - **F: Ist die Versicherung (Insurance) sinnvoll?**  
   **A:** In der Regel nicht. Sie erhöht den Hausvorteil und lohnt sich nur in
   seltenen Spezialfällen.
 
+<!-- i18n:faq:id=faq:lucky-vegas-blackjack:how-to-reduce-variance-4b56371b -->
 - **F: Wie verringere ich Schwankungen?**  
   **A:** Spiele mit kleineren, gleichbleibenden Einsätzen, halte dich an die
   Basisstrategie und verzichte auf Sidebets.

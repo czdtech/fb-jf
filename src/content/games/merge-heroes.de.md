@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Merge Heroes kombiniert Merge-Puzzle mit Auto-Battler-Strategie. Du verteidigst
@@ -25,6 +26,7 @@ identische Helden merg st und so zu stärkeren Kriegern weiterentwickelst.
 Platziere deine Heldenformation geschickt auf dem Schlachtfeld und beobachte,
 wie sie Welle um Welle automatisch bekämpfen.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Kaufen und Mergen**  
@@ -47,6 +49,7 @@ wie sie Welle um Welle automatisch bekämpfen.
     zügig in neue Basishelden, damit du kontinuierlich merg en und dein
     Truppenniveau an steigende Wellen anpassen kannst.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Gespielt wird mit einfacher Drag-and-drop-Steuerung.
@@ -58,17 +61,22 @@ Gespielt wird mit einfacher Drag-and-drop-Steuerung.
 - **Einsetzen/Zurückziehen:** Ziehe Helden vom Reservegitter auf die
   Kampffelder und bei Bedarf wieder zurück, um deine Formation anzupassen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:merge-heroes:q-how-do-i-create-41948c83 -->
 *   **F: Wie bekomme ich extrem starke Helden?**
     *   **A:** Durch konsequentes Mergen. Zwei Level 1 ergeben Level 2, zwei Level 2
         ergeben Level 3 usw. Je höher die Stufe, desto mächtiger der Held.
 
+<!-- i18n:faq:id=faq:merge-heroes:q-should-i-fill-my-0ce2bd18 -->
 *   **F: Viele schwache Helden oder wenige starke?**
     *   **A:** Wenige hochstufige Helden sind in der Regel besser als viele
         schwache. Konzentriere dich darauf, dein Maximumlevel anzuheben, statt alle
         Slots mit Level‑1‑Einheiten zu füllen.
 
+<!-- i18n:faq:id=faq:merge-heroes:q-why-did-my-heroes-50347d7c -->
 *   **F: Warum greifen meine Helden manchmal nicht an?**
     *   **A:** Zwischen den Wellen kann es kurze Pausen geben. Sobald die nächste
         Gegnerwelle erscheint, setzen deine Helden den Angriff automatisch fort.
+

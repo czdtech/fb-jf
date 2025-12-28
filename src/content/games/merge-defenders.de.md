@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Merge Defenders ist ein strategisches Spiel, das die Suchtgefahr von
@@ -25,6 +26,7 @@ anrückenden Gegnerwellen, indem du nicht nur Türme platzierst, sondern
 Grundeinheiten kaufst, sie zu stärkeren Verteidigern merg st und sie dann
 gezielt an der Frontlinie positionierst.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Merge-Zyklus verstehen**  
@@ -47,6 +49,7 @@ gezielt an der Frontlinie positionierst.
     sind ideal, weil Verteidiger dort länger im Zielbereich bleiben. Platziere
     deine stärksten Einheiten an diesen Schlüsselstellen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Gesteuert wird komplett mit Maus oder Finger.
@@ -58,18 +61,23 @@ Gesteuert wird komplett mit Maus oder Finger.
 - **Platzieren:** Ziehe Einheiten vom Reservegitter auf freie Verteidigungsfelder
   auf dem Schlachtfeld.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:merge-defenders:q-how-do-i-get-41092844 -->
 *   **F: Wie bekomme ich stärkere Verteidiger?**
     *   **A:** Durch Mergen: Zwei Level‑1‑Einheiten werden zu Level 2, zwei Level 2
         zu Level 3 usw. Je höher das Level, desto stärker die Einheit.
 
+<!-- i18n:faq:id=faq:merge-defenders:q-why-cant-i-place-0b1445b0 -->
 *   **F: Warum kann ich keine Einheiten direkt auf den Weg setzen?**
     *   **A:** Verteidiger dürfen nur auf die dafür vorgesehenen Felder neben dem
         Pfad gestellt werden, nicht direkt auf die Laufroute der Gegner.
 
+<!-- i18n:faq:id=faq:merge-defenders:q-im-being-overwhelmed-by-34515d67 -->
 *   **F: Ich werde von Gegnerwellen überrannt – was tun?**
     *   **A:** Konzentriere dich darauf, wenige, aber hochstufige Einheiten zu
         bauen, statt viele schwache. Achte darauf, alle verfügbaren Slots zu
         belegen und kontinuierlich neue Einheiten zu kaufen und zu merg en, sobald
         du Münzen erhältst.
+

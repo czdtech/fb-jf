@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Merge Melons ist ein charmantes, physikbasiertes Puzzlespiel, auch bekannt als
@@ -26,6 +27,7 @@ Behälter fallen. Berühren sich zwei identische Früchte, verschmelzen sie zu
 Frucht – die Wassermelone – zu erzeugen und einen Highscore aufzustellen,
 ohne dass der Fruchtberg über den oberen Rand hinauswächst.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Frucht-Reihenfolge kennen**  
@@ -47,6 +49,7 @@ ohne dass der Fruchtberg über den oberen Rand hinauswächst.
     die Höhe immer im Blick. Manchmal ist ein „suboptimaler“ Merge sinnvoll,
     nur um wieder Luft im Behälter zu schaffen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Die Steuerung ist sehr unkompliziert.
@@ -58,18 +61,23 @@ Die Steuerung ist sehr unkompliziert.
 - **Mobil:** Bewege den Finger links/rechts zum Zielen und hebe ihn an, um die
   Frucht fallen zu lassen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:merge-melons:q-what-is-the-goal-ab58581b -->
 *   **F: Was ist das eigentliche Ziel?**
     *   **A:** Solange wie möglich zu spielen und durch kontinuierliches Mergen
         einen möglichst hohen Punktestand zu erreichen – die Krönung ist eine
         Wassermelone aus zwei der zweithöchsten Früchte.
 
+<!-- i18n:faq:id=faq:merge-melons:q-how-do-i-lose-117fb252 -->
 *   **F: Wie verliere ich das Spiel?**
     *   **A:** Sobald der Fruchtstapel die obere Markierung erreicht oder
         überschreitet, ist die Runde vorbei.
 
+<!-- i18n:faq:id=faq:merge-melons:q-is-there-a-way-69560315 -->
 *   **F: Kann ich steuern, wohin die Früchte nach einem Merge rollen?**
     *   **A:** Direkt nicht, da die Physik entscheidet. Durch geschickte Wahl des
         Abwurfpunkts kannst du aber beeinflussen, in welche Richtung die neue,
         größere Frucht wahrscheinlich rollt.
+

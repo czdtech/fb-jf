@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Maze Puzzle bietet kompakte Labyrinthe mit Schlüsseln, Türen und gelegentlichen
@@ -24,6 +25,7 @@ Wachen. Optimal spielst du, indem du sichere, möglichst kurze Routen findest,
 Schlüssel in einer sinnvollen Reihenfolge einsammelst und Sackgassen ebenso wie
 Sichtkegel der Wachen meidest.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Schlüsselreihenfolge planen**  
@@ -46,20 +48,26 @@ Sichtkegel der Wachen meidest.
     Hektik führt schnell zu Fehlern. Saubere, geplante Bewegungen sparen am
     Ende mehr Zeit als unkontrolliertes Rennen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Bewegung mit Pfeiltasten oder WASD.  
 - Interaktion (z. B. Türen öffnen) per Tipp/Klick, Neustart über das Menü.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:maze-puzzle:i-get-lost-easily-tips-6c2392cb -->
 - **F: Ich verlaufe mich ständig – was kann ich tun?**  
   **A:** Präge dir Kreuzungen ein oder folge – wenn sicher – der rechten oder
   linken Wand, um systematisch zu erkunden.
 
+<!-- i18n:faq:id=faq:maze-puzzle:guards-catch-me-near-doors-37ff5e3f -->
 - **F: Wachen erwischen mich immer an Türen.**  
   **A:** Lock sie früh von den Türbereichen weg; Türen brauchen meist einen
   Moment zum Öffnen.
 
+<!-- i18n:faq:id=faq:maze-puzzle:are-keys-reusable-1e970fba -->
 - **F: Kann ich Schlüssel mehrfach benutzen?**  
   **A:** Meist sind sie einmalig. Achte auf Symbole und In-Game-Hinweise.
+

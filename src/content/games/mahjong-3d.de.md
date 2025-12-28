@@ -18,6 +18,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ## Spielanleitung
 
 ### Ausführliche Spielbeschreibung
@@ -31,12 +32,13 @@ Der 3D-Twist sorgt dafür, dass du deine räumliche Wahrnehmung einsetzen musst 
 manche Paare liegen auf gegenüberliegenden Seiten des Gebildes und werden erst
 sichtbar, wenn du das Layout von mehreren Blickwinkeln aus betrachtest.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Viel drehen**  
     Die wichtigste Technik ist das ständige Rotieren des Puzzles. Gewöhne dir
-    an, die Struktur einmal komplett zu drehen, bevor du dich für einen Zug
-    entscheidest, damit du alle möglichen Paare siehst.
+    an, vor einem Zug eine volle 360-Grad-Drehung zu machen, damit du alle
+    möglichen Paare siehst.
 
 2.  **Regel der „freien“ Steine**  
     Wie im klassischen Mahjong können nur freie Steine entfernt werden. Ein
@@ -55,6 +57,7 @@ sichtbar, wenn du das Layout von mehreren Blickwinkeln aus betrachtest.
     die Shuffle-Funktion die verbleibenden Steine neu und gibt dir eine frische
     Ausgangslage.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 *   **Steine auswählen:** Klicke auf einen freien Stein und danach auf seinen
@@ -63,18 +66,22 @@ sichtbar, wenn du das Layout von mehreren Blickwinkeln aus betrachtest.
     Hintergrund mit der Maus/Touch, um die komplette Struktur nach links oder
     rechts zu drehen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:mahjong-3d:q-what-makes-this-different-777b6574 -->
 *   **F: Was ist der Unterschied zu normalem Mahjong Solitaire?**
     *   **A:** Die 3D‑Präsentation. Dadurch musst du das Layout drehen und aus
         verschiedenen Blickwinkeln betrachten, was das Erkennen von Paaren
         anspruchsvoller macht als in einer reinen 2D‑Ansicht.
 
+<!-- i18n:faq:id=faq:mahjong-3d:q-i-see-two-identical-783e7611 -->
 *   **F: Ich sehe zwei gleiche Steine, kann sie aber nicht kombinieren – warum?**
     *   **A:** Mindestens einer der Steine ist nicht frei, meist weil links und
         rechts noch andere Steine anliegen. Entferne zuerst die blockierenden
         Steine, damit das Paar frei wird.
 
+<!-- i18n:faq:id=faq:mahjong-3d:q-what-do-the-flower-d1c2f5f1 -->
 *   **F: Was hat es mit Blumen‑ und Jahreszeitensteinen auf sich?**
     *   **A:** Das sind Sondersteine. Jede Blume kann mit jeder beliebigen anderen
         Blumenkarte kombiniert werden, und dasselbe gilt für Jahreszeiten – die

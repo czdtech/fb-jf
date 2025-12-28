@@ -15,6 +15,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Übersicht
 
 Der dritte Teil von Low's Adventures zieht den Schwierigkeitsgrad an: engere
@@ -22,6 +23,7 @@ Sprungfenster, mehr bewegliche Gefahren und zusätzliche Geheimwege. Du triffst
 auf Schalterrätsel, versteckte Schlüssel und Offscreen-Passagen, die
 aufmerksame Erkundung und effiziente Routenplanung belohnen.
 
+<!-- i18n:section:how-to-play -->
 ### So spielst du
 
 - Schalte zunächst den normalen Ausgang frei und spiele Level danach erneut, um
@@ -31,6 +33,7 @@ aufmerksame Erkundung und effiziente Routenplanung belohnen.
 - Merke dir, welche Schlüssel welches Tor öffnen, damit du unnötiges
   Zurücklaufen vermeidest.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Bewegen und Springen mit Pfeiltasten oder WASD.
@@ -51,16 +54,21 @@ aufmerksame Erkundung und effiziente Routenplanung belohnen.
   Umgebungsgeräusche angedeutet. Wenn sich etwas „ungewöhnlich“ anhört, lohnt
   es sich, dort genauer hinzusehen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:lows-adventures-3:how-do-i-find-hidden-b9ce61ea -->
 - **F: Wie finde ich versteckte Ausgänge?**  
   **A:** Prüfe Decken, scheinbar massive Wände und Offscreen-Kanten. Kleine
   Unterschiede im Tile-Muster verraten oft Geheimwege.
 
+<!-- i18n:faq:id=faq:lows-adventures-3:are-there-difficulty-spikes-co-6b97a496 -->
 - **F: Gibt es merkbare Schwierigkeitssprünge im Vergleich zu Teil 2?**  
   **A:** Ja, Sprünge sind enger getaktet und Gefahren dichter gesetzt. Einzelne
   Räume lohnt es sich gezielt zu üben.
 
+<!-- i18n:faq:id=faq:lows-adventures-3:can-i-replay-levels-quickly-0e7d248b -->
 - **F: Kann ich Level schnell neu starten, um bessere Zeiten zu holen?**  
   **A:** In vielen Versionen kannst du über Menüs oder Hotkeys sehr zügig
   neu starten und so verschiedene Routen ausprobieren.
+

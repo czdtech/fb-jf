@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 Mahjongg Candy ist ein süßes, kurzweiliges Kachel-Matching-Puzzle, das das
@@ -25,6 +26,7 @@ Ziel ist es, das gesamte Spielfeld zu räumen, indem du identische Paare
 freier Bonbon-Steine findest und entfernst. Das Spiel fordert dein Auge für
 Muster, deine Konzentration und etwas Vorausplanung.
 
+<!-- i18n:section:tips -->
 ### Spielanleitung
 
 - **Paare kombinieren:** Klicke oder tippe auf zwei identische Bonbon-Steine,
@@ -40,10 +42,12 @@ Muster, deine Konzentration und etwas Vorausplanung.
 - **Punktewertung:** Schnelle Räumungen und Ketten aus aufeinanderfolgenden
   Treffern bringen meist mehr Punkte; manche Steine bieten Punktmultiplikatoren.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Maus/Touch:** Wähle Steine per Klick/Tap aus, um sie zu kombinieren.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
 **Was ist das Ziel von Mahjongg Candy?**  
@@ -59,3 +63,4 @@ ist dies mit Punktabzug verbunden.
 Trainiere dein Mustererkennen, plane ein paar Züge im Voraus und räume zuerst
 Steine, die viele andere blockieren. Versuche, Serien von schnellen Matches zu
 spielen, um Bonuspunkte mitzunehmen.
+

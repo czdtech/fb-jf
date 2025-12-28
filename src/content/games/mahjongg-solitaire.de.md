@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 Mahjongg Solitaire, auch bekannt als Mahjong Solitaire oder Shanghai Solitaire,
@@ -25,6 +26,7 @@ werden in mehrschichtigen Layouts angeordnet. Dein Hauptziel ist es, das
 Spielfeld zu leeren, indem du Paare identischer, „freier“ Steine findest und
 entfernst.
 
+<!-- i18n:section:tips -->
 ### Spielanleitung
 
 - **Steine kombinieren:** Klicke oder tippe auf zwei identische Steine, um sie
@@ -40,10 +42,12 @@ entfernst.
   anderen Stein ihrer Gruppe kombiniert werden, auch wenn die Motive
   unterschiedlich sind.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Maus/Touch:** Wähle Steine per Klick/Tap aus, um ein Paar zu bilden.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
 **Was ist das Ziel von Mahjongg Solitaire?**  
@@ -56,3 +60,4 @@ als verloren – außer die digitale Version bietet Shuffle- oder Hinweisfunktio
 **Gibt es ein Zeitlimit?**  
 Einige Varianten sind zeitlich begrenzt und stellen dich zusätzlich unter
 Druck, andere lassen dir unbegrenzt Zeit für einen entspannten Spielstil.
+

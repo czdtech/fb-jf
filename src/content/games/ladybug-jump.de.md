@@ -15,6 +15,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Ladybug Jump ist ein leichtes, familienfreundliches Plattformspiel. Als kleiner
@@ -22,6 +23,7 @@ Marienkäfer hüpfst du über Blätter und Pilze, meidest Pfützen und Spinnen u
 sammelst Nektar für Bonuspunkte. Bewegliche Plattformen und Windböen machen die
 Sprünge mit der Zeit anspruchsvoller und verlangen gutes Timing.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Kurz tippen**  
@@ -44,6 +46,7 @@ Sprünge mit der Zeit anspruchsvoller und verlangen gutes Timing.
     Nutze schnelle Neustarts, um knifflige Sprungfolgen mehrmals hintereinander
     zu trainieren, bis der Rhythmus sitzt.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Springen:** Tippen/Klicken zum Springen; langes Halten sorgt – je nach
@@ -51,17 +54,22 @@ Sprünge mit der Zeit anspruchsvoller und verlangen gutes Timing.
 - **Pause/Neustart:** Über die UI kannst du das Spiel pausieren oder das Level
   schnell neu starten.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:ladybug-jump:i-keep-falling-off-small-5d8961dc -->
 - **F: Ich falle ständig von kleinen Blättern – was mache ich falsch?**  
   **A:** Reduziere deine Sprunghöhe und ziele konsequent auf die Mitte der
   Plattform. Vermeide es, mit zu viel seitlichem Schwung auf kleine Ziele
   zuzusteuern.
 
+<!-- i18n:faq:id=faq:ladybug-jump:are-there-boss-stages-6a0c74d0 -->
 - **F: Gibt es Boss-Level?**  
   **A:** In der Regel steht der Hindernis-Parcours im Vordergrund; Bosskämpfe
   sind selten oder gar nicht vorhanden.
 
+<!-- i18n:faq:id=faq:ladybug-jump:controller-supported-4ec31a1d -->
 - **F: Kann ich mit Controller spielen?**  
   **A:** Einige Versionen unterstützen Gamepads und erlauben feinere
   Sprungkontrolle über analoge Eingaben.
+

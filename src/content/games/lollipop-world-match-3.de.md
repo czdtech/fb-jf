@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Lollipop World ist ein farbenfrohes Match-3-Spiel voller Zuckerguss,
@@ -26,6 +27,7 @@ Gelee-Feldern. Auf dicht befüllten Brettern sind Kombinationen aus
 Power-ups – etwa Bombe + Linie oder große Farb-Clears – entscheidend, um
 Platz zu schaffen und die Ziele rechtzeitig zu erreichen.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Ziel vor Punkte stellen**  
@@ -49,6 +51,7 @@ Platz zu schaffen und die Ziele rechtzeitig zu erreichen.
     Plane ein bis zwei Züge im Voraus, damit du dir Optionen offen hältst und
     nicht in ein Brett ohne sinnvolle Matches gerätst.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Ziehe zwei benachbarte Bonbons, um sie zu vertauschen.
@@ -56,17 +59,22 @@ Platz zu schaffen und die Ziele rechtzeitig zu erreichen.
   miteinander).
 - Über die UI kannst du pausieren oder ein Level neu starten.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:lollipop-world-match-3:i-hit-move-limits-what-646c4819 -->
 - **F: Ich scheitere ständig am Zuglimit – was sollte ich ändern?**  
   **A:** Nutze Power-ups häufiger in Kombination und räume Blocker, die große
   Teile des Bretts freigeben. Reine Dreier-Kombos ohne Effekt auf das Levelziel
   verbrauchen viele Züge.
 
+<!-- i18n:faq:id=faq:lollipop-world-match-3:best-opener-59fb2430 -->
 - **F: Was ist ein guter Startzug?**  
   **A:** In vielen Leveln sind Züge am unteren Rand sinnvoll, weil sie
   Kettenreaktionen auslösen und dir so zusätzliche Matches schenken.
 
+<!-- i18n:faq:id=faq:lollipop-world-match-3:are-diagonals-allowed-37ab3fc0 -->
 - **F: Sind diagonale Matches erlaubt?**  
   **A:** Normalerweise nicht – es zählen nur horizontale und vertikale Reihen.
   Schau dir zur Sicherheit die Modusregeln im Spiel an.
+

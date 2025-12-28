@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Match Puzzle House kombiniert klassisches Match-3-Gameplay mit einem
@@ -24,6 +25,7 @@ begrenzter Züge und gibst deine verdienten Sterne aus, um Zimmer zu dekorieren
 und aufzuwerten. Auf dicht gefüllten Brettern sind Booster und Power-up-Kombos
 entscheidend, um dir genug Platz zu verschaffen.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Mitte öffnen**  
@@ -45,6 +47,7 @@ entscheidend, um dir genug Platz zu verschaffen.
     Plane deinen nächsten Zug mit, damit du vorbereitete Kombos nicht
     versehentlich zerstörst.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Tauschen:** Ziehe zwei benachbarte Steine, um sie zu vertauschen.
@@ -53,16 +56,21 @@ entscheidend, um dir genug Platz zu verschaffen.
 - **Dekorieren:** Zwischen den Levels kannst du Räume auswählen und mit Sternen
   neue Möbel oder Designs freischalten.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:match-puzzle-house:im-stuck-on-a-chain-bb594243 -->
 - **F: Ich komme bei einem Ketten-Level nicht weiter – Tipps?**  
   **A:** Zünde Bomben oder Linien-Clears direkt neben Kettenfeldern. Mehrere
   Treffer hintereinander schwächen sie schnell.
 
+<!-- i18n:faq:id=faq:match-puzzle-house:do-renovations-help-ingame-9044bd81 -->
 - **F: Bringen Renovierungen spielerische Vorteile?**  
   **A:** Meist sind sie vor allem optisch, können aber Belohnungen oder
   zusätzliche Booster-Slots freischalten.
 
+<!-- i18n:faq:id=faq:match-puzzle-house:best-generic-booster-8d54c24f -->
 - **F: Welcher Booster ist allgemein am stärksten?**  
   **A:** Farb-Clears sind sehr mächtig, um festgefahrene Bretter aufzubrechen,
   weil sie eine komplette Farbe auf einmal entfernen.
+

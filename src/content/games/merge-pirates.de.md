@@ -18,6 +18,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Merge Pirates ist ein entspanntes, aber sehr fesselndes Merge-Puzzlespiel, in
@@ -26,6 +27,7 @@ Gegenstände mit Piraten-Thema – etwa Kanonen, Steuerräder oder Schatzkarten 
 zu immer hochwertigeren Objekten. Ziel ist es, die Aufträge deiner Crew zu
 erfüllen, Gold zu verdienen und alle legendären Piratenitems freizuschalten.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Merge-Kette verstehen**  
@@ -47,6 +49,7 @@ erfüllen, Gold zu verdienen und alle legendären Piratenitems freizuschalten.
     schneller, als nur auf Gratis-Kisten zu warten, und hilft bei schwierigen
     Bestellungen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Gespielt wird mit einfacher Drag-and-drop-Steuerung.
@@ -56,18 +59,23 @@ Gespielt wird mit einfacher Drag-and-drop-Steuerung.
 - **Items kaufen:** Öffne den Shop und klicke auf das gewünschte Item, um es
   mit Gold zu erwerben.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:merge-pirates:q-how-do-i-get-f4f63323 -->
 *   **F: Wie komme ich an neue Gegenstände?**
     *   **A:** In regelmäßigen Abständen erscheint eine Gratis‑Kiste mit einem
         Basisitem auf einem freien Feld. Außerdem kannst du im Shop alle bereits
         entdeckten Items mit Gold nachkaufen.
 
+<!-- i18n:faq:id=faq:merge-pirates:q-what-is-the-main-20a3adad -->
 *   **F: Was ist das Hauptziel?**
     *   **A:** Möglichst viele Aufträge zu erledigen, Gold zu verdienen und alle
         Piratenitems einmal freizuschalten.
 
+<!-- i18n:faq:id=faq:merge-pirates:q-my-board-is-full-2c9ccb4e -->
 *   **F: Mein Board ist voll – was nun?**
     *   **A:** Suche nach übersehenen Merg es. Wenn nichts mehr möglich ist,
         verkaufe überflüssige, niedrigstufige Items über den Mülleimer, um Platz
         zu schaffen.
+

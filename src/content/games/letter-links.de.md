@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Letter Links ist ein strategisches Wortspiel, das an Scrabble erinnert. Jeden
@@ -27,6 +28,7 @@ Kreuzworträtsel entstehen. Durch geschicktes Ausnutzen von wertvollen
 Buchstaben und Bonusfeldern auf dem Brett versuchst du, die höchste mögliche
 Punktzahl zu erreichen.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Bonusfelder kennen**  
@@ -52,6 +54,7 @@ Punktzahl zu erreichen.
     Buchstaben wie Z, Q, J oder X solltest du dir für DL/TL- oder sogar DW/TW-
     Felder aufsparen, um ihren Punktwert zu vervielfachen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 *   **Steine setzen:** Ziehe einen Buchstabenstein aus deiner Ablage unten auf
@@ -61,20 +64,25 @@ Punktzahl zu erreichen.
 *   **Bestätigen:** Klicke auf den Button zum Einreichen, wenn du mit deiner
     Platzierung zufrieden bist – dann werden die Wörter geprüft und gewertet.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:letter-links:q-why-was-my-word-4bce7331 -->
 *   **F: Warum wurde mein Wort abgelehnt?**
     *   **A:** Mögliche Gründe: 1) Das Wort ist nicht im Wörterbuch des Spiels
         enthalten. 2) Nicht alle von dir gelegten Steine sind zu einer
         zusammenhängenden Gruppe verbunden. 3) Das zentrale Sternfeld wurde
         nicht genutzt.
 
+<!-- i18n:faq:id=faq:letter-links:q-how-are-points-calculated-9ad73a75 -->
 *   **F: Wie werden die Punkte genau berechnet?**
     *   **A:** Die Punktzahl eines Wortes ist die Summe der Buchstabenwerte,
         multipliziert mit Wortboni (DW, TW). Buchstabenboni (DL, TL) gelten
         zuerst für einzelne Buchstaben, bevor die Wortmultiplikatoren angewendet
         werden.
 
+<!-- i18n:faq:id=faq:letter-links:q-can-i-play-diagonally-9c4fe9aa -->
 *   **F: Darf ich diagonal spielen?**
     *   **A:** Nein. Alle Wörter müssen waagerecht (von links nach rechts) oder
         senkrecht (von oben nach unten) gebildet werden.
+

@@ -15,6 +15,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Mahjong Match Puzzle arbeitet mit mehrschichtigen Stapeln, bei denen nur
@@ -24,6 +25,7 @@ Spezialsteine ins Spiel. Effizientes Räumen bedeutet, Decksteine freizulegen,
 Optionen offen zu halten und keine Paare zu früh zu entfernen, die tiefere
 Steine einschließen würden.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Decksteine zuerst entfernen**  
@@ -47,21 +49,27 @@ Steine einschließen würden.
     Hektische Klicks führen schnell zu Sackgassen. Überlegte Züge, die mehrere
     Folgeschritte berücksichtigen, sind wichtiger als reine Geschwindigkeit.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Wähle zwei passende, offene Steine an, um sie zu entfernen.
 - Nutze Hinweis- und Shuffle-Buttons gemäß Benutzeroberfläche.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:mahjong-match-puzzle:no-moves-available-7839c24d -->
 - **F: Es sind keine Züge mehr möglich – was nun?**  
   **A:** Wenn erlaubt, mische die verbleibenden Steine. Ansonsten kann ein
   Neustart mit einer Strategie „Decksteine zuerst“ helfen.
 
+<!-- i18n:faq:id=faq:mahjong-match-puzzle:do-seasonsflowers-match-crosss-e46bd232 -->
 - **F: Passen Jahreszeiten- und Blumensteine auch gruppenweise?**  
   **A:** In vielen Sets ja – jede Jahreszeit kann mit jeder anderen Jahreszeit
   kombiniert werden, Blumen entsprechend untereinander.
 
+<!-- i18n:faq:id=faq:mahjong-match-puzzle:timed-95aa06a5 -->
 - **F: Gibt es einen Timer?**  
   **A:** Einige Layouts sind zeitlich begrenzt. Konzentriere dich in diesen
   Fällen zuerst auf Decksteine und seltene Symbole.
+

@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Merge Bistro verbindet Merge-2-Mechaniken mit leichtem Restaurant-Management.
@@ -25,6 +26,7 @@ Produkten wie Teig oder Rührmasse und bereitest daraus Gerichte für die
 Bestellungen deiner Gäste zu. Begrenzter Stauraum und Abklingzeiten für
 Produktionsstationen zwingen dich dazu, dein Brett gut zu organisieren.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Bestellliste lesen**  
@@ -47,22 +49,28 @@ Produktionsstationen zwingen dich dazu, dein Brett gut zu organisieren.
     Gib mehrere passende Items auf einmal ab, um Kombobelohnungen und schnellere
     Auftragsfolgen mitzunehmen (falls vorhanden).
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Ziehe identische Zutaten aufeinander, um sie zu merg en.
 - Tippe auf Kochstationen, um Gerichte zuzubereiten.
 - Liefere zubereitete Speisen über das Bestellpanel aus.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:merge-bistro:my-board-is-full-help-67348902 -->
 - **F: Mein Brett ist voll – was nun?**  
   **A:** Entferne minderwertige Items, merg e gezielt in Richtung aktueller
   Bestellungen und investiere in Stauraumerweiterungen, sobald möglich.
 
+<!-- i18n:faq:id=faq:merge-bistro:what-to-upgrade-first-f76bcc8b -->
 - **F: Welche Upgrades lohnen sich zuerst?**  
   **A:** Basisgeneratoren für Standardrezepte (z. B. Mehl/Milch) sorgen für
   konstanten Nachschub und sind meist die beste frühe Investition.
 
+<!-- i18n:faq:id=faq:merge-bistro:do-i-need-to-rush-e3a4ac05 -->
 - **F: Muss ich merg es immer sofort ausführen?**  
   **A:** Nein. Plane vorausschauend – unnötige Merg es können dir wertvolle
   Slots blockieren, ohne dir kurzfristig zu helfen.
+
