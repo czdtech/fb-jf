@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada
 
 Kitchen Sorting es un juego de lógica visual rápida en el que debes enviar
@@ -27,6 +28,7 @@ combo (clasificar tres objetos seguros seguidos) y penalizaciones por errores o
 retrasos. La dificultad aumenta con cintas simultáneas y normas de higiene más
 estrictas que castigan la contaminación cruzada.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Aplica primero las reglas grandes:** prioriza separaciones críticas para la
@@ -40,22 +42,28 @@ estrictas que castigan la contaminación cruzada.
 5.  **Control de errores:** un fallo suele costar más que un pequeño retraso;
     mejor saltarse un objeto dudoso que arriesgar una penalización grave.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - Arrastra o toca los objetos para enviarlos al contenedor etiquetado.
 - Pausa/reintenta desde la interfaz; algunas versiones ofrecen pistas que
   señalan el contenedor correcto.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:kitchen-sorting:i-confuse-recyclables-and-tras-17ec2e05 -->
 *   **P: Confundo reciclaje y basura, ¿algún truco?**  
     **R:** Memoriza unos pocos "anclajes" (vidrio, latas, cartón) como siempre
     reciclables; si tienes dudas con un plástico sin marcar, envíalo a basura.
 
+<!-- i18n:faq:id=faq:kitchen-sorting:combo-streaks-keep-breaking-1bfd2d80 -->
 *   **P: Rompo todos los combos.**  
     **R:** Encadena primero objetos evidentes para estabilizar la racha y mete
     los difíciles cuando baje el ritmo.
 
+<!-- i18n:faq:id=faq:kitchen-sorting:are-penalties-harsh-cf63957f -->
 *   **P: ¿Son muy duras las penalizaciones?**  
     **R:** En niveles avanzados los errores de higiene se castigan mucho; si
     dudas, es mejor dejar pasar un objeto que cometer un fallo.
+

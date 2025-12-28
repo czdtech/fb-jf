@@ -18,6 +18,7 @@ releaseDate: 2025-10-10T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### **Introducción a Incredibox Xrun Simulator**
 
 *Incredibox Xrun Simulator* es un mod fan‑made dinámico y muy energético de la
@@ -35,6 +36,7 @@ llenando, guiándote hacia los bonus audio‑visuales ocultos. La experiencia se
 centra menos en intérpretes individuales y más en la construcción directa de un
 beat electrónico complejo.
 
+<!-- i18n:section:tips -->
 ### **Estrategia de juego y consejos**
 
 1.  **Comprende la rejilla EDM:** Los 20 iconos representan todos los elementos
@@ -61,6 +63,7 @@ beat electrónico complejo.
     vez; el formato simulador permite crear texturas muy densas. Aun así,
     aprende qué sonidos funcionan mejor como acentos puntuales para no saturar.
 
+<!-- i18n:section:controls -->
 ### **Guía de controles**
 
 El mod utiliza la interfaz de clic sencilla de la serie Simulator.
@@ -75,14 +78,18 @@ El mod utiliza la interfaz de clic sencilla de la serie Simulator.
     *   **Record:** empieza o detiene la grabación de tu mezcla.
     *   **Reset:** borra todos los sonidos activos de la rejilla.
 
+<!-- i18n:section:faq -->
 ### **Preguntas frecuentes (FAQ)**
 
+<!-- i18n:faq:id=faq:incredibox-xrun-simulator:why-does-this-look-and-69cdf841 -->
 **1. ¿Por qué se ve y se juega distinto a los juegos principales?**  
 Es el estilo propio de los mods "Simulator": la rejilla es una decisión
 creativa para ofrecer una forma más directa y por capas de crear música,
 ideal para géneros electrónicos.
 
+<!-- i18n:faq:id=faq:incredibox-xrun-simulator:where-can-i-play-this-a4cf171c -->
 **2. ¿Dónde puedo jugar este mod?**  
 No está en las plataformas oficiales. Mods como *Xrun Simulator* suelen
 compartirse en sitios como **Newgrounds**, comunidades como
 **playfiddlebops.com** o en YouTube con enlaces para jugarlos en navegador.
+

@@ -18,6 +18,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada
 
 Jewel Pets Match es un match‑3 alegre y colorido protagonizado por adorables
@@ -26,6 +27,7 @@ animalitos en el tablero para formar líneas de tres o más iguales. Cada nivel
 plantea un reto con objetivos concretos, como alcanzar cierta puntuación o
 eliminar bloques especiales, todo ello con un número limitado de movimientos.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Crea power‑ups:** para dominar el juego necesitas combinar más de tres
@@ -48,6 +50,7 @@ eliminar bloques especiales, todo ello con un número limitado de movimientos.
     cuenta. Busca jugadas que generen cascadas o que preparen un combo fuerte en
     el siguiente turno.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 El juego usa un sistema de intercambio muy sencillo.
@@ -56,17 +59,22 @@ El juego usa un sistema de intercambio muy sencillo.
     adyacente para intercambiarlas. El movimiento solo se completa si forma una
     combinación válida.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:jewel-pets-match:q-how-do-i-get-cbe9a9b9 -->
 *   **P: ¿Cómo libero mascotas encerradas o enjauladas?**
     *   **R:** Debes hacer una combinación que incluya la mascota enjaulada.
         Eso rompe la jaula y la deja libre para futuros matches.
 
+<!-- i18n:faq:id=faq:jewel-pets-match:q-what-is-the-best-4ae55889 -->
 *   **P: ¿Cuál es el mejor potenciador?**
     *   **R:** La mascota arcoíris (match de 5 en línea) es muy útil para
         eliminar muchas mascotas de un mismo tipo. Aun así, lo más potente suele
         ser combinar dos potenciadores para limpiar gran parte del tablero.
 
+<!-- i18n:faq:id=faq:jewel-pets-match:q-what-happens-if-i-63c9772b -->
 *   **P: ¿Qué pasa si me quedo sin movimientos?**
     *   **R:** Si no completas el objetivo del nivel antes de agotar los
         movimientos, perderás una vida y tendrás que reiniciar el nivel.
+

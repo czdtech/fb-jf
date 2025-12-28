@@ -18,6 +18,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada
 
 Kitty Scramble presenta rejillas de letras con temas concretos (animales,
@@ -27,6 +28,7 @@ monedas. Los tableros suben de dificultad con vocabulario más largo, rutas en
  diagonal y palabras que se solapan, lo que exige flexibilidad al trazar
 caminos y un buen vocabulario.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Escanea el tema:** antes de empezar a trazar, piensa en una lista mental
@@ -41,21 +43,27 @@ caminos y un buen vocabulario.
 5.  **Barrido sistemático:** recorre primero filas y luego columnas (o viceversa)
     para no pasar por alto combinaciones obvias.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - Arrastra sobre las letras para formar una palabra y suelta para enviarla.
 - Usa las pistas con moderación; suelen ser limitadas.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:kitty-scramble:i-see-the-word-but-7f27f651 -->
 *   **P: Veo la palabra pero no me deja marcarla, ¿por qué?**  
     **R:** Las letras quizá no sean contiguas; intenta trazarla en diagonal o
     con un recorrido en zig‑zag, siempre que el juego lo permita.
 
+<!-- i18n:faq:id=faq:kitty-scramble:are-plurals-allowed-409748db -->
 *   **P: ¿Valen los plurales?**  
     **R:** Normalmente sí, salvo que la lista de objetivos especifique lo
     contrario.
 
+<!-- i18n:faq:id=faq:kitty-scramble:can-i-replay-for-coins-f9e57132 -->
 *   **P: ¿Puedo repetir niveles para conseguir más monedas?**  
     **R:** En muchas versiones puedes rejugar tableros fáciles para farmear
     monedas y conseguir más pistas.
+

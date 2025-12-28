@@ -11,10 +11,12 @@ thumbnail: /new-images/thumbnails/incredibox-sprinkle.png
 tags:
   - incredibox sprinkle
 score: 3.8/5  (387 votes)
+releaseDate: 2025-12-04
 ---
 
 
 
+<!-- i18n:section:how-to-play -->
 ### ¿Cómo se juega a Sprinkle?
 
 - **Arrastra y combina:** arrastra y suelta distintos personajes musicales en las
@@ -47,3 +49,4 @@ Sprinkle es un juego de creación musical simple de manejar y muy entretenido.
 Tanto si solo quieres relajarte como si te interesa trastear con ideas de
 producción, aquí encontrarás un buen lugar para experimentar. Entra en Sprinkle,
 libera tu creatividad como remixer y crea temas que solo tú podrías imaginar.
+

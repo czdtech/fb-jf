@@ -17,6 +17,7 @@ releaseDate: 2025-10-10T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### **Introducción a Incredibox "YaBoo"**
 
 *Incredibox YaBoo* es un mod fan‑made muy popular y con una identidad visual muy
@@ -34,6 +35,7 @@ Puedes experimentar libremente para crear una pista inspirada en Japón y, al
 mismo tiempo, buscar las tres combinaciones de sonido que desbloquean bonus
 animados profundamente ligados al tema folclórico del mod.
 
+<!-- i18n:section:tips -->
 ### **Estrategia de juego y consejos**
 
 La estrategia en *Incredibox YaBoo* es superponer sonidos para crear una mezcla
@@ -50,7 +52,7 @@ sugerente y, de paso, desvelar las animaciones ocultas.
         coros hasta gritos guturales y exclamaciones tipo "kakegoe".
 
 2.  **Fusiona tradición y modernidad:** La magia está en esa mezcla. No temas
-    colocar un motivo de shamisen sobre un beat moderno con 808; el contraste es
+    colocar un motivo de shamisen sobre un beat moderno de bajos profundos; el contraste es
     parte del encanto.
 
 3.  **Busca los bonus con método:** Las combinaciones que desbloquean bonus
@@ -65,6 +67,7 @@ sugerente y, de paso, desvelar las animaciones ocultas.
     cargada, silencia personajes concretos con mute y usa solo para aislar
     instrumentos o voces y ver cómo encajan en el conjunto.
 
+<!-- i18n:section:controls -->
 ### **Guía de controles**
 
 Los controles son los habituales de Incredibox.

@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada
 
 Jewel Duel añade una capa RPG al combate por match‑3. Al combinar ciertos
@@ -24,6 +25,7 @@ enemigo llega después del tuyo, así que el orden de acciones importa. Algunos
 rivales tienen escudos o absorciones que se rompen solo con tipos concretos de
 combinaciones, lo que añade profundidad de puzle más allá del daño puro.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Combina con intención:** prioriza el color que alimente la acción que
@@ -37,22 +39,28 @@ combinaciones, lo que añade profundidad de puzle más allá del daño puro.
 5.  **Respeta las mecánicas de jefe:** lee las descripciones; algunos jefes
     exigen combinaciones especiales o limpieza por filas/columnas.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - Intercambia gemas adyacentes, activa habilidades cuando estén cargadas y
   presta atención a las intenciones del enemigo.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:jewel-duel:i-do-low-damage-why-08f47b3b -->
 - **P: ¿Por qué hago tan poco daño?**  
   R: Seguramente estás combinando colores que no encajan con tu build. Prioriza
   las gemas que alimentan el ataque o rompe escudos antes de gastar combos en
   colores inútiles.
 
+<!-- i18n:faq:id=faq:jewel-duel:any-tip-for-multitarget-fights-656d4374 -->
 - **P: ¿Algún consejo para combates contra varios enemigos?**  
   R: Elimina primero a los objetivos más peligrosos y usa efectos de fila o
   columna para controlar el tablero.
 
+<!-- i18n:faq:id=faq:jewel-duel:can-i-save-skills-d0873f10 -->
 - **P: ¿Puedo guardar habilidades para más tarde?**  
   R: Sí. A menudo es mejor reservarlas para encadenarlas con una gran cascada o
   cortar de raíz la ulti de un jefe.
+

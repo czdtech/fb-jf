@@ -18,6 +18,7 @@ releaseDate: 2025-10-10T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### **Introducción a Incredibox Trillybox**
 
 *Incredibox Trillybox* es un mod fan‑made muy popular y enérgico para el juego
@@ -35,6 +36,7 @@ El objetivo es que crees tus propios temazos de trap, a la vez que resuelves el
 puzle de encontrar los tres bonus animados, todos inspirados en la
 cultura hip‑hop y trap actual.
 
+<!-- i18n:section:tips -->
 ### **Estrategia de juego y consejos**
 
 La clave en *Incredibox Trillybox* es dominar los elementos básicos del trap para
@@ -55,7 +57,7 @@ construir pistas potentes y rítmicas.
     caja en el contratiempo y un patrón de hi‑hats rápido son la base de casi
     cualquier tema trap.
 
-3.  **El 808 es bajo y bombo a la vez:** En el trap, el 808 suele hacer de bombo
+3.  **Los 808s son bajo y bombo a la vez:** En el trap, el 808 suele hacer de bombo
     y línea de bajo a la vez. Localiza el icono que aporta ese grave contundente
     y construye el resto del tema en torno a él.
 
@@ -67,6 +69,7 @@ construir pistas potentes y rítmicas.
     construye primero una base sólida de beat y bajo, y luego ve probando
     distintas combinaciones de melodía y voz hasta activar cada animación.
 
+<!-- i18n:section:controls -->
 ### **Guía de controles**
 
 Los controles son los mismos que en Incredibox oficial.
@@ -82,22 +85,27 @@ Los controles son los mismos que en Incredibox oficial.
 *   **Grabar:** pulsa el **botón de grabación** para iniciar o detener la
     grabación de tu himno de trap.
 
+<!-- i18n:section:faq -->
 ### **Preguntas frecuentes (FAQ)**
 
+<!-- i18n:faq:id=faq:incredibox-trillybox:is-this-an-official-incredibox-12056458 -->
 **1. ¿Es una versión oficial de Incredibox?**  
 No. Es un **mod fan‑made** creado por Andlbox y no está afiliado al equipo
 oficial de Incredibox (So Far So Good).
 
+<!-- i18n:faq:id=faq:incredibox-trillybox:where-can-i-play-this-a4cf171c -->
 **2. ¿Dónde puedo jugar este mod?**  
 No está disponible en plataformas oficiales. Mods como *Trillybox* suelen
 alojarse en comunidades como **Scratch** o aparecer en YouTube con enlaces para
 jugarlos en navegador.
 
+<!-- i18n:faq:id=faq:incredibox-trillybox:what-makes-this-mod-special-f26277ef -->
 **3. ¿Qué hace especial a este mod?**  
 Su atractivo está en lo bien que captura el sonido del trap actual. Ofrece una
 paleta moderna y enérgica muy distinta a la de las versiones oficiales, ideal
 para fans del hip‑hop contemporáneo.
 
+<!-- i18n:faq:id=faq:incredibox-trillybox:are-the-bonus-solutions-for-2039ad95 -->
 **4. ¿Hay soluciones de bonus de "Trillybox" online?**  
 Sí. Si te atascas, una búsqueda de "Incredibox Trillybox combos" en YouTube
 suele mostrar todas las combinaciones.

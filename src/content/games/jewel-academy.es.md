@@ -18,6 +18,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada
 
 Jewel Academy es un juego de puzles match‑3 muy pulido que te invita a un mundo
@@ -27,6 +28,7 @@ mecánica principal consiste en intercambiar gemas adyacentes para formar línea
  de tres o más del mismo color. Con decisiones estratégicas puedes crear joyas
 especiales, superar obstáculos complicados y resolver cientos de puzle.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Busca combinaciones especiales:** no te conformes con alinear solo tres.
@@ -45,6 +47,7 @@ especiales, superar obstáculos complicados y resolver cientos de puzle.
     probabilidades de crear cascadas automáticas que te ayuden sin gastar
     movimientos extra.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 El juego se maneja con ratón o pantalla táctil.
@@ -56,18 +59,23 @@ El juego se maneja con ratón o pantalla táctil.
     otra para activar su efecto. Para combinar potenciadores, intercambia dos
     joyas especiales adyacentes.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:jewel-academy:q-how-do-i-create-1a7733b7 -->
 *   **P: ¿Cómo creo una bomba?**
     *   **R:** Se crea al combinar cinco gemas formando una "L" o una "T". Las
         bombas explotan y limpian un área de 3x3 a su alrededor.
 
+<!-- i18n:faq:id=faq:jewel-academy:q-what-does-the-rainbowcolored-6d75b550 -->
 *   **P: ¿Qué hace la gema arcoíris?**
     *   **R:** Es una bomba de color, creada al combinar cinco gemas en línea
         recta (horizontal o vertical). Al intercambiarla con cualquier gema,
         eliminará todas las gemas de ese color del tablero.
 
+<!-- i18n:faq:id=faq:jewel-academy:q-why-did-i-run-4ac7a2e7 -->
 *   **P: ¿Por qué me quedo sin movimientos?**
     *   **R:** Muchos niveles tienen un límite de movimientos. Debes cumplir el
         objetivo antes de agotarlos; si no, perderás una vida y tendrás que
         intentarlo de nuevo.
+

@@ -18,6 +18,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada
 
 Jigsaw Puzzles Hexa ofrece una versión fresca y moderna del puzle de
@@ -27,6 +28,7 @@ inventario y colocarlas en el tablero principal para completar una imagen en
 alta definición. Sin límite de tiempo, es una experiencia relajante pero que
 exige buena visión espacial.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Analiza las formas:** antes de colocar nada, observa las piezas
@@ -42,6 +44,7 @@ exige buena visión espacial.
     obvios, a menudo necesitarás probar posiciones. Si algo no encaja, devuelve
     la pieza al inventario y prueba otra combinación.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 El juego se basa en arrastrar y soltar.
@@ -49,17 +52,22 @@ El juego se basa en arrastrar y soltar.
 *   **Seleccionar y colocar:** usa el ratón o el dedo para arrastrar un bloque
     de hexágonos desde el inventario hasta el tablero del puzle.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:jigsaw-puzzles-hexa:q-can-i-rotate-the-93ca2109 -->
 *   **P: ¿Se pueden rotar las piezas?**
     *   **R:** No. En este tipo de puzle las piezas tienen una orientación fija.
         El reto está en descubrir cómo encajan tal cual.
 
+<!-- i18n:faq:id=faq:jigsaw-puzzles-hexa:q-im-stuck-and-a-3753159d -->
 *   **P: Estoy atascado y una pieza no encaja en ningún sitio, ¿qué hago?**
     *   **R:** Suele significar que alguna pieza anterior está mal colocada.
         Prueba a retirar una o varias, replantea la zona y vuelve a intentarlo.
         Si el juego ofrece pistas, es buen momento para usarlas.
 
+<!-- i18n:faq:id=faq:jigsaw-puzzles-hexa:q-is-there-a-time-c0411996 -->
 *   **P: ¿Hay límite de tiempo?**
     *   **R:** No. Está diseñado para ser una experiencia relajada, así que
         puedes tomarte todo el tiempo que necesites para completar cada puzle.
+

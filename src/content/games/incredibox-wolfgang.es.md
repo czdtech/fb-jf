@@ -19,6 +19,7 @@ releaseDate: 2025-10-10T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### **Introducción a Incredibox "Wolfgang"**
 
 *Incredibox Wolfgang* es un mod fan‑made elegante y muy cuidado para el juego de
@@ -37,6 +38,7 @@ resuelves el puzle de los tres bonus secretos. Cada bonus es una
 pequeña escena animada que captura a la perfección la elegancia y el dramatismo
 de la era clásica.
 
+<!-- i18n:section:tips -->
 ### **Estrategia de juego y consejos**
 
 La estrategia en *Incredibox Wolfgang* consiste en entender el arreglo clásico y
@@ -70,6 +72,7 @@ superponer secciones orquestales para crear una composición rica y armónica.
     es muy detallada. Usa la función de "solo" para aislar un violín o una voz
     solista y apreciar su interpretación, así como su papel dentro del conjunto.
 
+<!-- i18n:section:controls -->
 ### **Guía de controles**
 
 Los controles son los estándar de Incredibox.
@@ -85,22 +88,28 @@ Los controles son los estándar de Incredibox.
 *   **Grabar:** pulsa el **botón de grabación** para empezar o detener la
     grabación de tu obra clásica.
 
+<!-- i18n:section:faq -->
 ### **Preguntas frecuentes (FAQ)**
 
+<!-- i18n:faq:id=faq:incredibox-wolfgang:is-incredibox-wolfgang-an-offi-a34e9a1a -->
 **P: ¿Es *Incredibox Wolfgang* una versión oficial?**  
 R: No. Es un **mod fan‑made** de gran calidad creado por Gabsoares04 y no está
 afiliado al equipo oficial de Incredibox (So Far So Good).
 
+<!-- i18n:faq:id=faq:incredibox-wolfgang:where-can-i-play-this-a4cf171c -->
 **P: ¿Dónde puedo jugar este mod?**  
 R: No se encuentra en plataformas oficiales. Mods como *Wolfgang* suelen
 alojarse en sitios como **playfiddlebops.com** o aparecer en YouTube con enlaces
 para jugarlos en el navegador.
 
+<!-- i18n:faq:id=faq:incredibox-wolfgang:what-makes-the-wolfgang-mod-727ef448 -->
 **P: ¿Qué hace especial al mod "Wolfgang"?**  
 R: Su popularidad se debe a lo bien que ejecuta el tema clásico. Ofrece una
 paleta musical muy distinta de las versiones oficiales, con una experiencia
 sofisticada y preciosa tanto en música como en arte.
 
+<!-- i18n:faq:id=faq:incredibox-wolfgang:are-the-bonus-solutions-for-0b58ab03 -->
 **P: ¿Hay soluciones de bonus para "Wolfgang" online?**  
 R: Sí. Si te atascas o solo quieres ver las animaciones, una búsqueda de
 "Incredibox Wolfgang combos" en YouTube te dará las combinaciones exactas.
+

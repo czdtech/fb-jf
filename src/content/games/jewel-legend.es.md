@@ -18,6 +18,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada
 
 Jewel Legend es un vibrante y adictivo juego de puzles match‑3 ambientado en un
@@ -28,6 +29,7 @@ y una gran variedad de objetivos que mantienen la experiencia fresca. Crear
 joyas especiales mediante combinaciones inteligentes es clave para superar los
 retos más duros.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Crea gemas especiales:** el éxito va más allá de los match‑3 básicos.
@@ -52,6 +54,7 @@ retos más duros.
     tablero hace que caigan más gemas desde arriba, aumentando las posibilidades
     de cadenas automáticas que limpian muchas piezas sin gastar movimientos.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 El juego se controla con ratón o pantalla táctil.
@@ -60,20 +63,25 @@ El juego se controla con ratón o pantalla táctil.
     haz clic sobre una y luego sobre la de al lado. El intercambio solo se
     realiza si genera una combinación válida.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:jewel-legend:q-how-do-i-break-d2308d36 -->
 *   **P: ¿Cómo rompo el hielo o las cadenas que cubren las gemas?**
     *   **R:** Para romper el hielo o las cadenas, tienes que hacer una
         combinación que incluya la gema congelada o encadenada. A veces se
         necesitan varios matches para liberarla por completo.
 
+<!-- i18n:faq:id=faq:jewel-legend:q-what-is-the-most-a829d6c0 -->
 *   **P: ¿Cuál es la combinación más poderosa del juego?**
     *   **R:** La más potente suele ser intercambiar dos joyas de color entre sí.
         Esto elimina todas las gemas de la pantalla y resulta especialmente útil
         en niveles muy difíciles.
 
+<!-- i18n:faq:id=faq:jewel-legend:q-im-out-of-moves-374d349b -->
 *   **P: Me quedé sin movimientos, ¿y ahora qué?**
     *   **R:** Si no cumples el objetivo antes de agotar los movimientos,
         normalmente pierdes una vida y tendrás que repetir el nivel. Puedes
         esperar a que las vidas se regeneren con el tiempo o conseguir más por
         otras vías dentro del juego.
+

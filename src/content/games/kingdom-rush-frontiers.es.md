@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Visión general
 Frontiers refina la fórmula de Kingdom Rush con nuevos biomas, habilidades de
 enemigos y especializaciones de torres. Coloca torres de arqueros, cuarteles,
@@ -24,6 +25,7 @@ ramas especializadas. Llama refuerzos, lanza habilidades tipo meteorito y
 microgestiona a tu héroe para tapar fugas mientras gestionas resistencias físicas
  y mágicas.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo se juega
 - Identifica el tipo de armadura: usa magos contra enemigos muy blindados y
   arqueros/artillería contra enjambres.
@@ -32,6 +34,7 @@ microgestiona a tu héroe para tapar fugas mientras gestionas resistencias físi
 - Reserva las habilidades del héroe y los "nukes" globales para oleadas élite o
   grupos de voladores.
 
+<!-- i18n:section:controls -->
 ### Controles
 - Ratón/táctil para construir, mejorar y lanzar habilidades; los atajos de
   teclado dependen del host.
@@ -42,15 +45,20 @@ microgestiona a tu héroe para tapar fugas mientras gestionas resistencias físi
 - Mezcla daño de área y de objetivo único para lidiar con oleadas variadas.
 - Revisa las rutas de vuelo y añade antiaéreos donde sea necesario.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:kingdom-rush-frontiers:which-tower-upgrades-should-i-211d8680 -->
 *   **P: ¿Qué mejoras de torre debo priorizar?**  
     **R:** Suele rendir mejor llevar una o dos torres cerca del choke a nivel
     3/4 que llenar el mapa de torres débiles.
 
+<!-- i18n:faq:id=faq:kingdom-rush-frontiers:how-do-i-counter-heavy-dfc7df04 -->
 *   **P: ¿Cómo contrarresto oleadas de armadura pesada?**  
     **R:** Invierte en ramas de magos y habilidades que reduzcan armadura.
 
+<!-- i18n:faq:id=faq:kingdom-rush-frontiers:are-heroes-necessary-to-win-7dad505c -->
 *   **P: ¿Son imprescindibles los héroes?**  
     **R:** No son obligatorios, pero ayudan mucho a frenar élites y estabilizar
     picos de daño en los puntos clave.
+

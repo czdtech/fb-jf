@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada
 
 Jurassic Run es un runner infinito rápido ambientado entre dinosaurios y
@@ -23,6 +24,7 @@ obstáculos de jungla. Lee el trazado por adelantado, cambia de carril o salta/
  deslízate para esquivar peligros y encadena recogidas de monedas a medida que la
 velocidad aumenta.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Mira lejos:** anticipa los cambios de carril con tiempo.
@@ -35,6 +37,7 @@ velocidad aumenta.
 5.  **Gestiona los power‑ups:** guarda escudos e imanes para tramos densos si el
     juego los incluye.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - **Movimiento:** teclas **A/D** o **flechas izquierda/derecha** para cambiar de
@@ -43,16 +46,21 @@ velocidad aumenta.
   **flecha abajo** para deslizarse.
 - **Pausa/Reintentar:** botones en pantalla.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:jurassic-run:keep-clippingwhy-9a0fbd98 -->
 *   **P: Siempre rozo los obstáculos, ¿por qué?**  
     **R:** Probablemente saltas demasiado pronto o haces cambios de carril muy
     bruscos; retrasa un poco las entradas y mantén la trayectoria suave.
 
+<!-- i18n:faq:id=faq:jurassic-run:is-there-an-end-0d3d5bd5 -->
 *   **P: ¿Tiene final el juego?**  
     **R:** Normalmente es infinito; el objetivo es superar tu propia mejor
     distancia y puntuación.
 
+<!-- i18n:faq:id=faq:jurassic-run:powerups-6996ef33 -->
 *   **P: ¿Hay power‑ups especiales?**  
     **R:** Muchas versiones incluyen escudos, imanes u otros potenciadores; lee
     la interfaz del host para ver cuáles están disponibles.
+

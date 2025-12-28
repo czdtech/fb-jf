@@ -18,6 +18,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada
 
 Jewel Christmas Mania es un juego de puzles match‑3 deslumbrante que trae a la
@@ -28,6 +29,7 @@ obstáculos desafiantes y potentes boosters, ofrece horas de diversión
 navideña. Todo ello envuelto en un ambiente encantador gracias a sus gráficos y
 música alegre.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Busca combinaciones especiales:** alinear más de tres gemas, o hacerlo en
@@ -46,25 +48,31 @@ música alegre.
     el tablero entero y prepara combinaciones más grandes que te acerquen mejor
     al objetivo.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 *   **Intercambiar gemas:** usa el ratón para hacer clic y arrastrar una gema a
     una posición adyacente. El intercambio solo es válido si genera un grupo de
     tres o más gemas iguales.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:jewel-christmas-mania:q-what-is-a-match3-cece0f08 -->
 *   **P: ¿Qué es un juego match‑3?**
     *   **R:** Es un puzle en el que intercambias piezas adyacentes en una
         cuadrícula para formar una línea de tres o más iguales. Cuando haces un
         match, esas piezas desaparecen y otras nuevas caen para ocupar su lugar.
 
+<!-- i18n:faq:id=faq:jewel-christmas-mania:q-how-do-i-use-06ae073e -->
 *   **P: ¿Cómo uso los boosters?**
     *   **R:** Los boosters (potenciadores) son objetos especiales que te ayudan
         a superar niveles difíciles. Normalmente se activan con un clic y puedes
         conseguirlos completando niveles o mediante recompensas diarias.
 
+<!-- i18n:faq:id=faq:jewel-christmas-mania:q-what-happens-if-i-63c9772b -->
 *   **P: ¿Qué pasa si me quedo sin movimientos?**
     *   **R:** Si agotas los movimientos antes de completar el objetivo del
         nivel, fallas la partida y es posible que pierdas una vida. Después
         podrás volver a intentarlo.
+

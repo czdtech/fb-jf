@@ -12,6 +12,7 @@ tags:
   - incredibox yellow colorbox
   - incredibox yellow colorbox online
 score: 4.5/5  (614 votes)
+releaseDate: 2025-12-04
 ---
 
 
@@ -26,6 +27,7 @@ originales.
 
 ---
 
+<!-- i18n:section:tips -->
 ### Jugabilidad simple, diversión infinita
 
 Incredibox Yellow Colorbox tiene un manejo extremadamente sencillo. Solo tienes

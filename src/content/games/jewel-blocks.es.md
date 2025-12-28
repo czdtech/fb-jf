@@ -18,6 +18,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada
 
 Jewel Blocks es un puzle aparentemente sencillo pero muy adictivo que pone a
@@ -28,6 +29,7 @@ vertical, esta se limpia. El reto principal es que **las piezas no se pueden
 rotar**, así que tendrás que pensar bien dónde colocarlas para que el tablero no
 se bloquee.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Planifica con antelación:** siempre ves tres piezas disponibles. Antes de
@@ -44,6 +46,7 @@ se bloquee.
 4.  **No tengas prisa:** no hay límite de tiempo. Tómate el tuyo para analizar
     el tablero y las piezas y encontrar la mejor posición para cada bloque.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 El juego se controla con un sencillo sistema de arrastrar y soltar.
@@ -53,18 +56,23 @@ El juego se controla con un sencillo sistema de arrastrar y soltar.
 *   **Soltar:** suelta el botón o levanta el dedo para colocar el bloque en el
     espacio resaltado.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:jewel-blocks:q-how-do-i-rotate-d36276b1 -->
 *   **P: ¿Cómo roto las piezas?**
     *   **R:** No se pueden rotar. Es una regla base y el gran reto del juego:
         tienes que usar las formas tal y como se te dan.
 
+<!-- i18n:faq:id=faq:jewel-blocks:q-how-does-the-game-f20a1993 -->
 *   **P: ¿Cuándo termina la partida?**
     *   **R:** Termina cuando recibes un nuevo set de tres piezas y no existe
         ningún espacio legal en la cuadrícula para colocar ninguna de ellas.
 
+<!-- i18n:faq:id=faq:jewel-blocks:q-what-is-the-best-03413fee -->
 *   **P: ¿Cuál es la mejor estrategia para lograr una puntuación alta?**
     *   **R:** La clave es aguantar y encadenar combos. Mantén el tablero lo más
         limpio y abierto posible, y prioriza jugadas que limpien varias líneas
         de una vez para ganar bonificaciones. Por ejemplo, limpiar dos líneas en
         un solo movimiento vale más que limpiarlas por separado.
+

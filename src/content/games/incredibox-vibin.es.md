@@ -18,6 +18,7 @@ releaseDate: 2025-10-10T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### **Introducción a Incredibox Vibin'**
 
 *Incredibox Vibin'* es un mod fan‑made muy popular para el juego de creación
@@ -37,6 +38,7 @@ para estudiar o descansar. El reto está en descubrir las tres combinaciones
 concretas que desbloquean bonus animados, todos alineados con el tono íntimo y
 reflexivo del mod.
 
+<!-- i18n:section:tips -->
 ### **Estrategia de juego y consejos**
 
 La estrategia en *Incredibox Vibin'* consiste en superponer texturas y construir
@@ -66,6 +68,7 @@ un groove suave y nada intrusivo.
     un groove base que te guste y ve sustituyendo los iconos restantes uno a uno
     hasta activar las animaciones acogedoras.
 
+<!-- i18n:section:controls -->
 ### **Guía de controles**
 
 Los controles son los típicos de Incredibox.
@@ -81,22 +84,28 @@ Los controles son los típicos de Incredibox.
 *   **Grabar:** pulsa el **botón de grabación** para empezar o detener la
     grabación de tu track chill.
 
+<!-- i18n:section:faq -->
 ### **Preguntas frecuentes (FAQ)**
 
+<!-- i18n:faq:id=faq:incredibox-vibin:is-incredibox-vibin-an-officia-483ff426 -->
 **1. ¿Es *Incredibox Vibin'* una versión oficial?**  
 No. Es un **mod fan‑made** creado por MI y no está afiliado al equipo oficial de
 Incredibox (So Far So Good).
 
+<!-- i18n:faq:id=faq:incredibox-vibin:where-can-i-play-this-a4cf171c -->
 **2. ¿Dónde puedo jugar este mod?**  
 No está en las plataformas oficiales. Mods como *Vibin'* suelen alojarse en
 sitios como **playfiddlebops.com** o aparecer en YouTube con enlaces para
 jugarlos en navegador.
 
+<!-- i18n:faq:id=faq:incredibox-vibin:what-makes-the-vibin-mod-d01232b7 -->
 **3. ¿Por qué es tan popular este mod?**  
 Porque captura muy bien la estética lo‑fi hip‑hop, un género masivamente popular.
 Ofrece una experiencia relajante y actual que encaja con quienes buscan un
 espacio creativo tranquilo.
 
+<!-- i18n:faq:id=faq:incredibox-vibin:are-the-bonus-solutions-for-361d43d5 -->
 **4. ¿Hay soluciones de bonus para "Vibin'" online?**  
 Sí. Si te cuesta encontrar las combinaciones, busca "Incredibox Vibin combos"
 en YouTube y verás las respuestas.
+

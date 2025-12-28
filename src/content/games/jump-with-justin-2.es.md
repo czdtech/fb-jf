@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada
 
 Jump With Justin 2 es un plataformas ligero centrado en saltos con muelles,
@@ -24,6 +25,7 @@ plataformas en movimiento y trampas que exigen buena sincronización. Planifica 
 trayectorias, encadena rebotes y conserva el impulso para llegar a las salidas
 cometiendo el mínimo de errores posible.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Control del arco:** busca saltos limpios; los saltos tardíos suelen
@@ -37,22 +39,28 @@ cometiendo el mínimo de errores posible.
 5.  **Estrellas opcionales:** recoge coleccionables solo cuando el arco sea
     seguro; primero domina la ruta.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - **Mover/Saltar:** teclas de flecha o WASD y barra espaciadora; botones táctiles
   en móvil.
 - **Reiniciar:** reinicio rápido para practicar secuencias.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:jump-with-justin-2:keep-hitting-spikeswhy-466bc196 -->
 - **Siempre caigo en los pinchos, ¿por qué?**  
   R: Probablemente estás saltando demasiado pronto; retrasa un poco el salto y
   mantén arcos suaves.
 
+<!-- i18n:faq:id=faq:jump-with-justin-2:is-double-jump-available-1a6ad609 -->
 - **¿Hay doble salto?**  
   R: Algunas fases incluyen muelles o power‑ups que simulan ese efecto, pero no
   siempre está disponible.
 
+<!-- i18n:faq:id=faq:jump-with-justin-2:100-collection-tips-0d1fc3ad -->
 - **¿Consejos para conseguir el 100 % de coleccionables?**  
   R: Primero limpia el nivel completando la ruta básica y luego vuelve para
   trazar una ruta específica que incluya todas las estrellas.
+

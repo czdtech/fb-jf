@@ -18,6 +18,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada
 
 Jewel Magic es un match‑3 clásico y muy entretenido que te invita a un mundo de
@@ -27,6 +28,7 @@ sumar puntos. Con cientos de niveles y objetivos variados, tendrás que pensar d
 forma estratégica para crear joyas especiales, provocar reacciones en cadena y
 resolver cada puzle.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Domina las gemas especiales:** para superar los niveles más duros debes
@@ -52,6 +54,7 @@ resolver cada puzle.
     combinaciones automáticas. Esto puede ayudarte a limpiar el tablero mucho
     más rápido.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 El control se realiza con ratón o pantalla táctil.
@@ -60,18 +63,23 @@ El control se realiza con ratón o pantalla táctil.
     otra adyacente. El intercambio solo se completa si forma una combinación
     válida de tres o más.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:jewel-magic:q-how-do-i-get-a9b2c35f -->
 *   **P: ¿Cómo supero niveles con gemas congeladas o encadenadas?**
     *   **R:** Debes hacer una combinación que incluya la gema congelada o
         encadenada. Eso rompe el hielo o la cadena y la deja lista para usarse
         en futuros matches.
 
+<!-- i18n:faq:id=faq:jewel-magic:q-what-is-the-best-4dc5a927 -->
 *   **P: ¿Cuál es la mejor forma de conseguir una puntuación alta?**
     *   **R:** Crea tantas gemas especiales y combos como puedas. Las reacciones
         en cadena largas y las jugadas que limpian muchas gemas en un solo
         movimiento suelen dar muchos más puntos.
 
+<!-- i18n:faq:id=faq:jewel-magic:q-what-happens-when-i-e8e69d77 -->
 *   **P: ¿Qué pasa si me quedo sin movimientos?**
     *   **R:** Si no completas el objetivo del nivel antes de quedarte sin
         movimientos, perderás una vida y tendrás que reiniciar el nivel.
+

@@ -18,6 +18,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada
 
 Island Of Treasures es un endless runner 3D cargado de acción que te lanza de
@@ -28,6 +29,7 @@ rivales que también buscan el tesoro. El juego pone a prueba tus reflejos y
 agilidad mientras intentas batir tu mejor marca y convertirte en la leyenda de
 la isla maldita.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Recógelo todo:** tu objetivo principal es recolectar monedas, gemas y
@@ -45,6 +47,7 @@ la isla maldita.
     a la partida. Si estás en una situación límite, prioriza esquivar aunque
     pierdas alguna moneda.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 *   **Moverte izquierda/derecha:** usa las teclas **A/D** o las **flechas
@@ -53,18 +56,23 @@ la isla maldita.
 *   **Deslizarte:** pulsa la tecla **S** o la **flecha abajo** para deslizarte
     bajo obstáculos.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:island-of-treasures:q-what-is-the-main-ea275212 -->
 *   **P: ¿Cuál es el objetivo principal del juego?**
     *   **R:** Correr lo más lejos posible y reunir la mayor cantidad de tesoro
         para conseguir la máxima puntuación.
 
+<!-- i18n:faq:id=faq:island-of-treasures:q-how-do-i-attack-27175b1c -->
 *   **P: ¿Cómo ataco a los piratas rivales?**
     *   **R:** En la mayoría de endless runners el combate directo no es el
         foco: normalmente los rivales se tratan como obstáculos que debes
         esquivar. Algunas versiones pueden incluir un potenciador o acción para
         aturdirlos de forma temporal.
 
+<!-- i18n:faq:id=faq:island-of-treasures:q-what-happens-if-i-aa313a6b -->
 *   **P: ¿Qué pasa si caigo al agua o golpeo un obstáculo?**
     *   **R:** La carrera termina al instante y tendrás que empezar de nuevo
         desde el principio.
+

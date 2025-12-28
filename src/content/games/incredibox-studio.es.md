@@ -17,6 +17,7 @@ releaseDate: 2025-10-10T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Introducción a Incredibox Studio
 
 Incredibox Studio es un proyecto creado por fans. A diferencia de las versiones
@@ -27,6 +28,7 @@ puedas construir tus propios beats y composiciones desde cero. Es un parque de
 juegos creativo para quienes aman el original pero quieren explorar sus propias
 ideas musicales.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego / Consejos creativos
 
 *   Como esto es un sandbox, aquí la "estrategia" va de creatividad.
@@ -41,6 +43,7 @@ ideas musicales.
     4.  **Usa silenciar/solo**: Aísla pistas concretas con los botones de
         silenciar o solo para afinar cada parte de tu composición.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 *   El juego se controla por completo con el ratón.
@@ -54,13 +57,17 @@ ideas musicales.
         rojo) en la parte superior para empezar y detener la grabación de tu
         mezcla.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:incredibox-studio:q-can-i-save-the-c98a2c3b -->
 *   **P: ¿Puedo guardar la música que creo?**
     *   **R**: Sí. La mayoría de versiones incluyen una función de grabación que
         te permite guardar tu mezcla y, a menudo, te da un enlace para
         compartirla. Aun así, la música está pensada solo para uso personal y
         no comercial.
+<!-- i18n:faq:id=faq:incredibox-studio:q-where-can-i-play-fe36000d -->
 *   **P: ¿Dónde puedo jugarlo?**
     *   **R**: Se puede jugar directamente en el navegador a través del enlace
         de playfiddlebops.com.
+

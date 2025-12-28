@@ -18,6 +18,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada
 
 Jungle Bricks es una versión moderna y muy vistosa del clásico rompe‑ladrillos.
@@ -28,6 +29,7 @@ representa su resistencia y que debes llevar a cero para destruirlo. La meta es
 sobrevivir el mayor tiempo posible despejando bloques antes de que toquen la
 parte inferior.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Aprovecha los ángulos:** la clave para una buena puntuación es conseguir
@@ -44,6 +46,7 @@ parte inferior.
     fíes de un tablero aparentemente seguro; puede complicarse en pocos turnos
     si no limpias con eficiencia.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 Los controles son de un solo toque.
@@ -53,17 +56,22 @@ Los controles son de un solo toque.
     trayectoria inicial.
 *   **Disparar:** suelta para lanzar la ráfaga de bolas.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:jungle-bricks:q-what-do-the-numbers-8d6a66fb -->
 *   **P: ¿Qué significan los números de los ladrillos?**
     *   **R:** El número representa la "vida" del ladrillo: cuántos impactos de
         bola necesita antes de romperse.
 
+<!-- i18n:faq:id=faq:jungle-bricks:q-how-do-you-lose-7ba43fb1 -->
 *   **P: ¿Cómo se pierde la partida?**
     *   **R:** El juego termina si cualquier ladrillo consigue llegar a la línea
         inferior del área de juego.
 
+<!-- i18n:faq:id=faq:jungle-bricks:q-how-can-i-get-90ff761e -->
 *   **P: ¿Cómo consigo más bolas?**
     *   **R:** Busca bloques especiales con un "+" (u otro icono similar). Al
         golpearlos y destruirlos, normalmente añades bolas extra a la ráfaga del
         siguiente disparo.
+
