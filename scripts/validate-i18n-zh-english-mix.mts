@@ -385,6 +385,12 @@ async function scanZhFile(
     const line = lines[idx];
     const trimmed = line.trim();
 
+    // Allowlist: control key alignment line is expected to contain
+    // keyboard/mouse tokens in English (e.g., `W` `A` `Spacebar`).
+    if (/^\s*-\s*按键(?:（对齐）|\(对齐\))\s*[:：]/.test(line)) {
+      continue;
+    }
+
     // HTML comments (support multi-line)
     if (!inHtmlComment && trimmed.includes('<!--')) {
       inHtmlComment = true;
