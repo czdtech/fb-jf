@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Butterfly Shimai es un puzle cautivador y relajante que combina mecánicas de
@@ -28,6 +29,7 @@ camino con como máximo dos giros de 90 grados y que no pase por encima de otras
 fichas. Con un límite de tiempo en cada nivel, tendrás que ser rápido y
 estratégico para limpiar todas las mariposas.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Busca coincidencias evidentes:** Empieza por los pares que están
@@ -46,23 +48,29 @@ estratégico para limpiar todas las mariposas.
     suele devolverte algo de tiempo, así que encadenar coincidencias rápidas es
     clave para superar las fases.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 *   **Seleccionar y conectar:** Haz clic con el ratón en la primera ala de
     mariposa y luego en su pareja idéntica. Si existe un camino válido, la
     mariposa se formará y volará fuera del tablero.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:butterfly-shimai:q-what-is-the-goal-d050996d -->
 *   **P: ¿Cuál es el objetivo de Butterfly Shimai?**
     *   **R:** Limpiar el tablero de todas las alas de mariposa conectando pares
         idénticos antes de que se acabe el tiempo.
 
+<!-- i18n:faq:id=faq:butterfly-shimai:q-what-are-the-rules-0158d4fd -->
 *   **P: ¿Cuáles son las reglas exactas de conexión?**
     *   **R:** Dos alas pueden conectarse si puedes trazar entre ellas una línea
         recta que haga como máximo dos giros de 90 grados y que no atraviese
         otras fichas.
 
+<!-- i18n:faq:id=faq:butterfly-shimai:q-what-happens-if-i-b351c844 -->
 *   **P: ¿Qué pasa si se termina el tiempo?**
     *   **R:** Si el temporizador llega a cero antes de despejar el tablero, la
         partida de ese nivel termina y tendrás que volver a intentarlo.
+

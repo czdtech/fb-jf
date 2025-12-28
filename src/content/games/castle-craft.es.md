@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Castle Craft es un cautivador puzle de fusionar y construir en el que te
@@ -27,6 +28,7 @@ superior. Al fusionar con cabeza recursos como trigo, madera o piedra, podrás
 cumplir misiones, conseguir moneda valiosa y disipar la niebla para desbloquear
 nuevos territorios, revelando poco a poco un imperio cada vez más próspero.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Domina las fusiones de cinco (merge‑5):** Aunque fusionar tres objetos es la regla básica,
@@ -48,6 +50,7 @@ nuevos territorios, revelando poco a poco un imperio cada vez más próspero.
     podrás abrir nuevas parcelas cubiertas por niebla. Prioriza las áreas que te
     den más espacio útil o que parezcan llevar hacia objetos clave de misión.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 El juego se maneja por completo con ratón o pantalla táctil.
@@ -60,19 +63,24 @@ El juego se maneja por completo con ratón o pantalla táctil.
 *   **Recoger recursos:** Haz clic en los recursos que aparezcan de forma
     automática (por ejemplo, trigo de un campo) para añadirlos a tu inventario.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:castle-craft:q-what-is-the-main-0487282f -->
 *   **P: ¿Cuál es el objetivo principal de Castle Craft?**
     *   **R:** Restaurar y construir tu reino fusionando objetos, completando
         misiones para los aldeanos y despejando la niebla para ampliar tus
         tierras.
 
+<!-- i18n:faq:id=faq:castle-craft:q-how-do-i-get-c938657e -->
 *   **P: ¿Cómo consigo más llaves para desbloquear terreno?**
     *   **R:** Las llaves se obtienen sobre todo al completar misiones concretas
         y pedidos de mercado o aldeanos. Prioriza estas tareas si necesitas
         expandirte.
 
+<!-- i18n:faq:id=faq:castle-craft:q-whats-the-difference-between-a7c4a0ac -->
 *   **P: ¿En qué se diferencia fusionar 3 de fusionar 5?**
     *   **R:** Al fusionar 3 objetos obtienes uno de nivel superior; al fusionar
         5 consigues dos, lo que equivale a uno extra "gratis". Siempre que
         puedas, espera a tener cinco para maximizar la eficiencia.
+

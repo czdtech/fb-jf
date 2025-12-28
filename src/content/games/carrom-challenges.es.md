@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Carrom Challenges simula el juego de carrom de mesa con striker y fichas. Usa el
@@ -24,6 +25,7 @@ correspondiente) controlando ángulos y velocidad del rebote. Las faltas, las
 reglas de cubrir a la reina y los golpes limitados añaden mucha profundidad
  táctica.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Apertura:** En el primer golpe, intenta abrir el conjunto de fichas
@@ -38,6 +40,7 @@ reglas de cubrir a la reina y los golpes limitados añaden mucha profundidad
 5.  **Golpes de seguridad:** Si no tienes un tiro de alta probabilidad, deja la
     posición incómoda para el rival, bloqueando líneas de tiro claras.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - Apunta arrastrando el arco de dirección del striker; ajusta la potencia con el
@@ -45,19 +48,24 @@ reglas de cubrir a la reina y los golpes limitados añaden mucha profundidad
 - El panel de reglas explica las faltas y la cobertura de la reina según el
   modo de juego.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:carrom-challenges:what-is-covering-the-queen-e8147197 -->
 - **¿Qué significa "cubrir la reina"?**
 
   R: Tras embocar la reina, debes embocar una de tus fichas en el siguiente
   golpe; si no lo haces, la reina vuelve al tablero.
 
+<!-- i18n:faq:id=faq:carrom-challenges:how-to-avoid-scratches-565f01b5 -->
 - **¿Cómo evito las faltas?**
 
   R: Controla los ángulos de rebote y reduce la potencia en contactos finos para
   no enviar el striker a los agujeros.
 
+<!-- i18n:faq:id=faq:carrom-challenges:are-board-speeds-adjustable-6dcdff99 -->
 - **¿Se puede ajustar la velocidad del tablero?**
 
   R: Algunas versiones permiten cambiar la fricción; si no, adáptate usando
   golpes más suaves.
+

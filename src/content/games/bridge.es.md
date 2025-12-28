@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Bridge es un juego de cartas de bazas clásico y muy estratégico que se juega a
@@ -29,6 +30,7 @@ la pareja declarante intenta cumplir el contrato, mientras que los defensores
 tratan de impedirlo. Está considerado uno de los grandes deportes mentales del
 mundo.
 
+<!-- i18n:section:tips -->
 ### Estrategia y desarrollo de la partida
 
 1.  **La subasta:** Es la primera fase. Los jugadores, por turnos,
@@ -49,25 +51,31 @@ mundo.
 4.  **Puntuación:** Si la pareja declarante cumple el contrato (gana las bazas
     comprometidas o más), anota puntos. Si falla, puntúan los defensores.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 *   **Subasta:** Haz clic en la combinación de número y palo que quieras ofertar
-    o pulsa `Pass` para pasar.
+    o pulsa Pass para pasar.
 *   **Jugar una carta:** Haz clic en la carta de tu mano (o en la del muerto, si
     eres declarante) que quieras jugar.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:bridge:q-what-is-a-trick-41ac59d8 -->
 *   **P: ¿Qué es una "baza"?**
     *   **R:** Una baza está formada por cuatro cartas, una jugada por cada
         jugador en orden. La carta ganadora se lleva la baza.
 
+<!-- i18n:faq:id=faq:bridge:q-what-is-a-trump-9658e13c -->
 *   **P: ¿Qué es el "palo de triunfo"?**
     *   **R:** Es el palo elegido en la subasta que supera a los demás. Si
         Corazones es triunfo, incluso un 2 de Corazones gana al As de cualquier
         otro palo.
 
+<!-- i18n:faq:id=faq:bridge:q-what-does-it-mean-90d6e773 -->
 *   **P: ¿Qué significa "asistir al palo"?**
     *   **R:** Si la primera carta de la baza es, por ejemplo, de Picas, todos
         los jugadores que tengan Picas deben jugar una. Solo si no tienen
         ninguna pueden descartar otra carta o jugar triunfo.
+

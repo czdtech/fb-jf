@@ -18,6 +18,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Cards of the Undead es un puzle roguelike por turnos ambientado en un apocalipsis
@@ -28,6 +29,7 @@ nueva carta, que puede ser un zombi al que combatir, monedas valiosas o objetos
  tablero con cabeza, gestionar tu salud, derrotar a todos los zombis y sobrevivir
 el mayor tiempo posible.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Piensa antes de moverte:** Antes de entrar en una casilla con zombi,
@@ -44,6 +46,7 @@ el mayor tiempo posible.
     nivel, recuperas vida y mejoras estadísticas, lo que te prepara para retos
     cada vez más duros.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 El juego se maneja con clics o toques sencillos.
@@ -51,18 +54,23 @@ El juego se maneja con clics o toques sencillos.
 *   **Moverse:** Haz clic en cualquier carta adyacente (horizontal, vertical o
     diagonal) para mover al héroe a esa casilla y revelar su contenido.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:cards-of-the-undead:q-how-does-combat-work-9d54cfd9 -->
 *   **P: ¿Cómo funciona el combate?**
     *   **R:** El combate es automático. Al entrar en una carta de zombi, tu
         héroe lucha de inmediato. Recibirás daño, pero si sobrevives, el zombi
         se elimina del tablero.
 
+<!-- i18n:faq:id=faq:cards-of-the-undead:q-what-is-the-goal-3d50112b -->
 *   **P: ¿Cuál es el objetivo de cada tablero?**
     *   **R:** El objetivo principal es derrotar todas las cartas de zombi. Como
         objetivo secundario, recoger todas las monedas ayuda a desbloquear
         nuevos héroes para futuras partidas.
 
+<!-- i18n:faq:id=faq:cards-of-the-undead:q-what-happens-if-i-3bdd7c15 -->
 *   **P: ¿Qué pasa si me quedo sin vida?**
     *   **R:** Si los puntos de vida de tu héroe llegan a cero, la partida termina y
         tendrás que empezar de nuevo.
+

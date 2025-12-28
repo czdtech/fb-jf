@@ -16,6 +16,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Classic Solitaire, también conocido como Klondike, es uno de los juegos de
@@ -25,6 +26,7 @@ orden ascendente de As a Rey. El juego exige estrategia, paciencia y algo de
 suerte mientras maniobras las cartas del tablero para descubrir las ocultas y
 construir las bases.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Zonas del juego:**
@@ -50,6 +52,7 @@ construir las bases.
     *   **Columnas vacías:** Solo un Rey (o una secuencia que empiece por Rey)
         puede moverse a una columna vacía.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 *   **Mover cartas:** Haz clic y arrastra una carta (o una secuencia válida) de
@@ -60,18 +63,23 @@ construir las bases.
     hacer doble clic en una carta para que suba automáticamente a la base
     correspondiente si el movimiento es legal.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:classic-solitaire:q-what-is-the-goal-ab58581b -->
 *   **P: ¿Cuál es exactamente la meta de la partida?**
     *   **R:** Mover las 52 cartas a las cuatro bases, agrupadas por palo y en
         orden de As a Rey.
 
+<!-- i18n:faq:id=faq:classic-solitaire:q-what-happens-when-i-e8e69d77 -->
 *   **P: ¿Qué pasa si me quedo sin movimientos?**
     *   **R:** Si no puedes hacer más jugadas en el tablero ni en las bases,
         debes seguir robando del mazo. Si el mazo también se agota y aún no hay
         movimientos posibles, la partida se considera perdida.
 
+<!-- i18n:faq:id=faq:classic-solitaire:q-can-i-move-cards-a79d9fc6 -->
 *   **P: ¿Puedo devolver cartas desde las bases al tablero?**
     *   **R:** En la mayoría de versiones sí puedes bajar la carta superior de
         una base al tablero si eso te ayuda a destapar nuevas cartas o hacer
         mejores secuencias; es un recurso estratégico importante.
+

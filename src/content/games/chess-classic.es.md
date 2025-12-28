@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Chess Classic ofrece la experiencia del ajedrez de toda la vida directamente en
@@ -25,6 +26,7 @@ varios niveles de dificultad. El juego sigue las reglas internacionales estánda
  de ajedrez, por lo que es un entorno ideal para aprender, practicar y dominar
 el arte del jaque mate.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Controla el centro:** En la apertura, utiliza peones y piezas para
@@ -42,6 +44,7 @@ el arte del jaque mate.
     (peón=1, caballo=3, alfil=3, torre=5, dama=9). Te ayudará a decidir qué
     cambios son favorables y a evitar errores graves.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 *   **Seleccionar pieza:** Haz clic en una pieza para seleccionarla; se
@@ -51,19 +54,24 @@ el arte del jaque mate.
 *   **Opciones de partida:** Usa el menú interno para ajustar la dificultad,
     deshacer jugadas o empezar una partida nueva.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:chess-classic:q-what-is-the-goal-6d35f14b -->
 *   **P: ¿Cuál es el objetivo del ajedrez?**
     *   **R:** Dar jaque mate al rey rival: colocarlo bajo amenaza de captura de
         forma que no tenga ningún movimiento legal para escapar.
 
+<!-- i18n:faq:id=faq:chess-classic:q-what-is-castling-a21a9b5d -->
 *   **P: ¿Qué es el enroque?**
     *   **R:** Una jugada especial en la que el rey se mueve dos casillas hacia
         una torre y esa torre salta al otro lado del rey. Sirve para proteger al
         rey y activar la torre. Solo es legal si ni rey ni torre se han movido
         antes y no hay piezas entre ambos.
 
+<!-- i18n:faq:id=faq:chess-classic:q-what-happens-if-no-33cac195 -->
 *   **P: ¿Qué pasa si ninguno de los dos puede ganar?**
     *   **R:** La partida puede terminar en tablas por varias razones: ahogado
         (el jugador no tiene jugadas legales pero su rey no está en jaque), por
         acuerdo, por repetición de la misma posición tres veces, etc.
+

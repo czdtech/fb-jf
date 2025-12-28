@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Bubble Woods Ultimate es un bubble shooter de ritmo altísimo que te reta a sumar
@@ -26,12 +27,13 @@ color, provocando cascadas y acumulando puntos. El juego incluye potentes
 potenciadores y un sistema de progresión que premia la precisión y la velocidad,
 convirtiendo cada partida en una carrera contrarreloj.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **La velocidad lo es todo:** Con solo 60 segundos en el reloj, tienes que
     jugar rápido. Apunta y dispara sin entretenerte demasiado en un único tiro.
 2.  **Carga el combo para la bola de fuego:** La clave de las puntuaciones enormes es
-    la bola de fuego. La obtienes al encadenar 10 aciertos consecutivos. Puedes dispararla a cualquier parte del tablero y arrasa un
+    la bola de fuego. La obtienes al encadenar 10 aciertos consecutivos (10 "hits"). Puedes dispararla a cualquier parte del tablero y arrasa un
     área amplia, así que úsala con cabeza.
 3.  **Busca avalanchas:** Como en otros bubble shooters, los mayores puntos
     provienen de soltar grandes grupos de burbujas colgantes. Apunta alto para
@@ -43,6 +45,7 @@ convirtiendo cada partida en una carrera contrarreloj.
     *   **Hourglass:** La más valiosa; al romperla añade unos preciados segundos
         al cronómetro.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 *   **Apuntar:** Mueve el ratón para orientar el cañón de burbujas.
@@ -51,16 +54,20 @@ convirtiendo cada partida en una carrera contrarreloj.
     la siguiente burbuja en la cola para alternar entre el proyectil actual y el
     siguiente.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:bubble-woods-ultimate:q-what-is-the-main-212faaec -->
 *   **P: ¿Cuál es el objetivo principal?**
     *   **R:** Conseguir la máxima puntuación posible dentro del límite de 60
         segundos.
 
+<!-- i18n:faq:id=faq:bubble-woods-ultimate:q-how-do-i-get-dab4fb8d -->
 *   **P: ¿Cómo consigo más tiempo?**
     *   **R:** La única forma es impactando en las burbujas especiales de
         reloj de arena (Hourglass) que aparecen en el tablero.
 
+<!-- i18n:faq:id=faq:bubble-woods-ultimate:q-what-is-the-bar-7e10f73f -->
 *   **P: ¿Qué es la barra junto al cañón?**
     *   **R:** Es tu medidor de bola de fuego. Se llena con cada disparo acertado.
         Cuando encadenas 10 aciertos seguidos se llena por completo y tu siguiente

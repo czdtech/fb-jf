@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Chess Mania ofrece una excelente experiencia de ajedrez para aficionados de
@@ -26,6 +27,7 @@ jugador veterano, es un buen lugar para practicar estrategia, probar nuevas
 aperturas y afinar tu visión táctica. El objetivo sigue siendo el de siempre:
 superar al rival y colocar su rey en jaque mate.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Domina la apertura:** Empieza la partida desarrollando tus piezas hacia el
@@ -42,6 +44,7 @@ superar al rival y colocar su rey en jaque mate.
 5.  **Mantente alerta:** Pregúntate siempre qué pretende tu rival. Busca
     amenazas y oportunidades tácticas en cada turno.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 *   **Seleccionar y mover:** Haz clic en una pieza para ver sus movimientos
@@ -49,16 +52,21 @@ superar al rival y colocar su rey en jaque mate.
 *   **Menú de partida:** Usa el menú para elegir la dificultad de la IA, empezar
     una nueva partida o pedir una pista si estás atascado.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:chess-mania:q-how-do-i-win-7b045f7e -->
 *   **P: ¿Cómo se gana en ajedrez?**
     *   **R:** Dando jaque mate: el rey enemigo queda bajo amenaza de captura y
         no tiene movimientos legales para escapar.
 
+<!-- i18n:faq:id=faq:chess-mania:q-what-is-a-stalemate-9d9fcfe6 -->
 *   **P: ¿Qué es el ahogado?**
     *   **R:** Una forma de tablas en la que un jugador no está en jaque pero no
         tiene ninguna jugada legal; la partida termina en empate.
 
+<!-- i18n:faq:id=faq:chess-mania:q-how-can-i-improve-f82d33e2 -->
 *   **P: ¿Cómo puedo mejorar mis habilidades?**
     *   **R:** Juega con regularidad, analiza tus partidas para aprender de los
         errores y estudia principios básicos de ajedrez y patrones tácticos.
+

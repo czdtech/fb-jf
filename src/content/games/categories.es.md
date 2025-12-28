@@ -15,6 +15,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Categories es un juego ligero de lógica en el que debes clasificar palabras u
@@ -22,6 +23,7 @@ objetos en grupos temáticos. Identifica qué tienen en común, separa a los
 engaños y resuelve cada conjunto luchando contra pequeños límites de tiempo o de
 movimientos.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Empieza por los grupos obvios:** Forma primero las categorías más claras
@@ -35,22 +37,28 @@ movimientos.
 5.  **Confirma por exclusión:** Si dos categorías son parecidas, piensa en qué
     excluye cada una; lo que no pertenece a un grupo a menudo señala al otro.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - Arrastra los elementos hasta los grupos o toca para asignarlos, según la
   interfaz.
 - Usa Deshacer/Reiniciar cuando esté disponible.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:categories:are-there-multiple-solutions-a0470b63 -->
 - **¿Hay varias soluciones posibles?**
   Normalmente solo hay una solución prevista; intenta seguir las temáticas
   originales.
 
+<!-- i18n:faq:id=faq:categories:hints-27c5017f -->
 - **¿Hay pistas?**
   Muchas versiones incluyen sistema de pistas; úsalas con moderación para no
   trivializar el reto.
 
+<!-- i18n:faq:id=faq:categories:timed-95aa06a5 -->
 - **¿Siempre hay límite de tiempo?**
   Suele haber temporizadores suaves o límites de movimientos para mantener un
   ritmo ágil, pero no siempre son muy estrictos.
+

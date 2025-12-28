@@ -18,6 +18,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Checkers Legend es una versión digital del clásico juego de estrategia de
@@ -26,6 +27,7 @@ entre dos oponentes. El objetivo es sencillo pero estratégico: capturar todas
 las fichas del rival o bloquearlas hasta que no le queden movimientos legales.
 Es un juego atemporal de visión y táctica.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Movimiento básico:** Tus piezas, o "peones", solo pueden avanzar una
@@ -44,6 +46,7 @@ Es un juego atemporal de visión y táctica.
 6.  **Protege la fila trasera:** No abras en exceso tu última fila; dejarla
     vacía facilita que el rival corone damas.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 El juego se maneja con clics simples.
@@ -53,17 +56,22 @@ El juego se maneja con clics simples.
 *   **Mover ficha:** Haz clic en una casilla resaltada para mover la pieza hasta
     ella.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:checkers-legend:q-do-i-have-to-63209821 -->
 *   **P: ¿Estoy obligado a capturar si puedo?**
     *   **R:** Sí. Según las reglas estándar de damas, la captura es obligatoria;
         si hay un salto legal disponible, debes realizarlo.
 
+<!-- i18n:faq:id=faq:checkers-legend:q-what-makes-a-king-ed0245a6 -->
 *   **P: ¿Qué hace especial a una dama?**
     *   **R:** Un peón solo puede avanzar hacia delante; una dama puede moverse y
         capturar en diagonal tanto hacia delante como hacia atrás, lo que la
         hace mucho más peligrosa.
 
+<!-- i18n:faq:id=faq:checkers-legend:q-how-do-i-win-9162cf32 -->
 *   **P: ¿Cómo gano la partida?**
     *   **R:** Ganas cuando el rival se queda sin fichas o cuando todas sus
         piezas están bloqueadas y no pueden realizar ningún movimiento legal.
+

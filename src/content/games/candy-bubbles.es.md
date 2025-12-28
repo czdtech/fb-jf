@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Candy Bubbles es una versión dulce y colorida del clásico género bubble shooter.
@@ -26,6 +27,7 @@ mismo color para hacerlas estallar. Con cientos de niveles, retos estratégicos 
 reacciones en cadena muy satisfactorias, es un puzle relajante perfecto para
 todas las edades.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Apunta alto:** Como en todo buen bubble shooter, lo más efectivo es buscar
@@ -43,6 +45,7 @@ todas las edades.
     acercando las burbujas a tu cañón. Si alguna cruza la línea inferior, la
     partida termina.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 *   **Apuntar:** Mueve el ratón para orientar el cañón; una guía mostrará la
@@ -51,19 +54,24 @@ todas las edades.
 *   **Cambiar (si está disponible):** Algunas versiones incluyen un botón para
     intercambiar la burbuja actual con la siguiente de la cola.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:candy-bubbles:q-what-is-the-goal-7ed4507e -->
 *   **P: ¿Cuál es el objetivo de cada nivel?**
     *   **R:** Normalmente, limpiar todas las burbujas de la pantalla. Algunos
         niveles pueden añadir objetivos especiales, como liberar objetos
         atrapados.
 
+<!-- i18n:faq:id=faq:candy-bubbles:q-how-do-i-get-da481c1b -->
 *   **P: ¿Cómo consigo la máxima puntuación?**
     *   **R:** Haciendo caer grandes grupos de burbujas colgantes. Romper solo
         tres burbujas da una puntuación básica, pero hacer que caiga una docena
         en un solo tiro genera enormes combos.
 
+<!-- i18n:faq:id=faq:candy-bubbles:q-i-have-a-bubble-fd61d78a -->
 *   **P: Me toca un color que no puedo usar, ¿qué hago?**
     *   **R:** Intenta dispararlo a una zona donde moleste lo menos posible o
         donde pueda servirte más adelante. Si el modo permite intercambio,
         comprueba si la siguiente burbuja ofrece una mejor opción.
+

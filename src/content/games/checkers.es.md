@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 Checkers, conocido también como draughts en muchos países, es un clásico juego
@@ -43,6 +44,7 @@ principiantes y a la vez desafiante para jugadores experimentados.
 -   Una **Dama** puede moverse y capturar en diagonal tanto hacia adelante como
     hacia atrás.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego
 
 -   **Controla el centro:** Quien domina las casillas centrales tiene más
@@ -63,6 +65,7 @@ principiantes y a la vez desafiante para jugadores experimentados.
     pieza más fuerte; úsala para cazar fichas rezagadas y controlar grandes
     zonas del tablero.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 En la versión digital, los controles suelen ser de apuntar y hacer clic o tocar
@@ -77,20 +80,26 @@ En la versión digital, los controles suelen ser de apuntar y hacer clic o tocar
     completar el salto. En saltos múltiples, sigue seleccionando las casillas
     encadenadas.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:checkers:is-capturing-an-opponents-piec-f43fe0d8 -->
 **1. ¿Es opcional capturar una ficha rival?**
 > No. En las reglas estándar americanas, si hay una captura posible, es
 > **obligatorio** realizarla.
 
+<!-- i18n:faq:id=faq:checkers:what-happens-if-i-have-78e1801d -->
 **2. ¿Qué pasa si tengo varias opciones de captura?**
 > Si dos fichas distintas pueden capturar, puedes elegir con cuál hacerlo. Pero
 > si una de ellas tiene un salto múltiple disponible, debes tomar esa secuencia.
 
+<!-- i18n:faq:id=faq:checkers:can-a-regular-piece-a-825cd49d -->
 **3. ¿Un peón puede mover hacia atrás?**
 > No. Las fichas normales solo pueden avanzar hacia el lado del oponente. Solo
 > las Damas se mueven también hacia atrás.
 
+<!-- i18n:faq:id=faq:checkers:how-does-a-piece-become-a5ba0aca -->
 **4. ¿Cómo se convierte una ficha en Dama?**
 > Cuando llega a la última fila del lado rival (la de salida de sus fichas). En
 > el juego físico se suele marcar apilando otra ficha del mismo color encima.
+

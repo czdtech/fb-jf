@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 El ajedrez es un juego de estrategia para dos jugadores que se disputa en un
@@ -79,6 +80,7 @@ distinta, y entender estos movimientos es la base del juego.
     hasta la última fila para coronarlo en dama. Un "peón pasado" (sin peones
     enemigos delante) es una ventaja enorme.
 
+<!-- i18n:section:controls -->
 ### Guía de controles (versión digital)
 
 En ordenador o móvil, los controles son muy intuitivos.
@@ -91,14 +93,17 @@ En ordenador o móvil, los controles son muy intuitivos.
 -   **Enrocar:** Mueve el rey dos casillas hacia la torre con la que quieres
     enrocar; la torre se colocará automáticamente en su casilla correspondiente.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:chess:what-is-the-difference-between-14a5d16a -->
 **1. ¿Cuál es la diferencia entre jaque mate y tablas por ahogado?**
 > -   **Jaque mate** es victoria: el rey está en jaque y no tiene movimientos
 >     legales para escapar.
 > -   **Ahogado** es empate: el jugador no está en jaque, pero no tiene ningún
 >     movimiento legal.
 
+<!-- i18n:faq:id=faq:chess:what-are-the-rules-for-46d19e24 -->
 **2. ¿Cuáles son las condiciones para enrocar?**
 > Solo puedes enrocar si:
 > 1.  Es el primer movimiento de ese rey.
@@ -107,13 +112,16 @@ En ordenador o móvil, los controles son muy intuitivos.
 > 4.  El rey no está en jaque, no pasa por casillas atacadas ni termina en una
 >     casilla bajo ataque.
 
+<!-- i18n:faq:id=faq:chess:what-is-en-passant-9ff233fd -->
 **3. ¿Qué es "al paso"?**
 > *En passant* es una captura especial de peón. Solo puede hacerse justo después
 > de que un peón enemigo avance dos casillas desde su casilla inicial y quede
 > junto a tu peón. Entonces puedes capturarlo como si solo hubiera avanzado una
 > casilla, pero debes hacerlo en el turno inmediatamente siguiente.
 
+<!-- i18n:faq:id=faq:chess:can-the-king-capture-pieces-c8c6f366 -->
 **4. ¿El rey puede capturar piezas?**
 > Sí, el rey puede capturar como cualquier otra pieza moviéndose a la casilla de
 > la pieza rival, pero nunca puede entrar en una casilla que esté atacada por el
 > enemigo (no puede moverse a jaque).
+

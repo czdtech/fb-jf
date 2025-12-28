@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 Bubble Shooter es un puzle clásico y tremendamente adictivo. El objetivo es
@@ -32,6 +33,7 @@ antes de que desciendan hasta la línea inferior. Tras cierto número de disparo
 sin eliminar nada, aparece una nueva fila de burbujas arriba, aumentando la
 presión.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego
 
 -   **Apunta a las burbujas más altas:** Lo importante no es solo hacer grupos,
@@ -55,6 +57,7 @@ presión.
     destino inmediato, no desperdicies el tiro. Intenta dejarlo en un lateral,
     junto a grupos grandes de otros colores, donde estorbe lo menos posible.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 Los controles son muy simples e intuitivos, tanto con ratón como con pantalla
@@ -66,23 +69,29 @@ Los controles son muy simples e intuitivos, tanto con ratón como con pantalla
     pulsar una tecla (por ejemplo, la **barra espaciadora**) o tocar un icono
     para intercambiar la burbuja actual con la siguiente de la cola.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:bubble-shooter:what-is-the-goal-of-c816fee5 -->
 **1. ¿Cuál es el objetivo del juego?**
 > En las versiones clásicas, limpiar toda la pantalla de burbujas. En los modos
 > infinitos, sobrevivir el máximo tiempo posible y lograr la mayor puntuación.
 
+<!-- i18n:faq:id=faq:bubble-shooter:what-happens-if-i-miss-7e8207a8 -->
 **2. ¿Qué pasa si fallo un disparo?**
 > Normalmente se considera fallo cualquier tiro que no elimine burbujas. Tras un
 > cierto número de fallos (suele mostrarse con un contador), se añade una nueva
 > fila de burbujas en la parte superior.
 
+<!-- i18n:faq:id=faq:bubble-shooter:are-there-special-bubbles-or-5def06f6 -->
 **3. ¿Hay burbujas especiales o potenciadores?**
 > En el Bubble Shooter clásico no los hay, pero muchas variantes modernas
 > incluyen burbujas‑bomba (limpian un área), burbujas arcoíris (combinan con
 > cualquier color) o bolas de fuego (arrasan todo a su paso).
 
+<!-- i18n:faq:id=faq:bubble-shooter:what-is-the-best-strategy-46032367 -->
 **4. ¿Cuál es la mejor estrategia para puntuar alto?**
 > Intenta hacer caer grandes grupos de burbujas con un solo impacto. Cuantas más
 > burbujas caigan que no pertenecían al grupo inicial, mayor será la bonificación.
 > Céntrate en tiros altos con rebote para conseguirlo.
+

@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Cake Smash es un vibrante y entretenido puzle match‑3. Tu objetivo es intercambiar
@@ -24,6 +25,7 @@ pasteles adyacentes para formar líneas de tres o más iguales; al hacerlo, se
 Cada nivel tiene un objetivo concreto, como alcanzar cierta puntuación o
 eliminar un número específico de un tipo de pastel.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Detecta combinaciones:** Busca oportunidades para alinear tres o más
@@ -38,19 +40,24 @@ eliminar un número específico de un tipo de pastel.
     del nivel. A veces tendrás que priorizar ciertas casillas o alcanzar una
     puntuación dentro de un número limitado de movimientos.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 *   **Ratón/Pantalla táctil:** Haz clic y arrastra, o toca dos pasteles
     adyacentes, para intercambiarlos.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:cake-smash:q-what-do-the-special-511b22df -->
 *   **P: ¿Qué hacen exactamente los pasteles especiales?**
     *   **R:** Depende del tipo, pero suelen limpiar filas, columnas completas o
         todas las piezas de un color concreto cuando se activan en una
         combinación.
 
+<!-- i18n:faq:id=faq:cake-smash:q-how-do-i-beat-0ef45382 -->
 *   **P: ¿Cómo supero los niveles difíciles?**
     *   **R:** Intenta crear tantos pasteles especiales como puedas y
         combínalos entre sí para maximizar su efecto. Planifica varios movimientos
         por adelantado y mantén siempre en mente el objetivo del nivel.
+

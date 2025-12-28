@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Bubble Shooter HD es una versión pulida y en alta definición del eterno puzle de
@@ -24,6 +25,7 @@ al menos tres burbujas del mismo color. Con una jugabilidad sencilla e
 intuitiva, gráficos nítidos y reacciones en cadena muy satisfactorias, ofrece
 horas y horas de diversión estratégica para jugadores de cualquier nivel.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Apunta con cuidado:** El juego muestra una guía de trayectoria para ayudar
@@ -43,23 +45,29 @@ horas y horas de diversión estratégica para jugadores de cualquier nivel.
     fallidos (que no forman grupo) hace que aparezca una nueva fila de burbujas
     arriba, dificultando la partida. Procura que cada disparo cuente.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 *   **Apuntar:** Mueve el ratón para orientar el lanzador.
 *   **Disparar:** Haz clic con el botón izquierdo para lanzar la burbuja.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:bubble-shooter-hd:q-what-is-the-objective-0d640e0d -->
 *   **P: ¿Cuál es el objetivo del juego?**
     *   **R:** Limpiar todas las burbujas del tablero y conseguir la mayor
         puntuación posible. Pierdes si las burbujas alcanzan la línea inferior.
 
+<!-- i18n:faq:id=faq:bubble-shooter-hd:q-how-do-i-get-62133937 -->
 *   **P: ¿Cómo consigo más puntos?**
     *   **R:** Cuanto mayor sea el grupo que eliminas de una vez, más puntos
         recibes. Lo mejor es provocar reacciones en cadena: romper un pequeño
         grupo que sujeta a muchos otros para que caigan de golpe.
 
+<!-- i18n:faq:id=faq:bubble-shooter-hd:q-can-i-swap-the-9bcb99fa -->
 *   **P: ¿Puedo cambiar la burbuja que voy a disparar?**
     *   **R:** Algunas versiones permiten intercambiar la burbuja actual con la
         siguiente de la cola, pero no siempre está disponible. Busca un botón de
         intercambio en la interfaz para comprobar si el modo lo permite.
+

@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### **Introducción al juego**
 
 Blob Opera no es un juego tradicional con niveles u objetivos, sino un
@@ -31,6 +32,7 @@ logrando un coro sorprendentemente realista y armónico. El objetivo principal e
 la expresión creativa y la diversión: cualquiera, tenga o no formación musical,
 puede componer piezas tan bellas como disparatadas.
 
+<!-- i18n:section:tips -->
 ### **Consejos y estrategia de juego**
 
 Como no hay "victoria" ni puntuación, la estrategia gira en torno a crear música
@@ -58,6 +60,7 @@ interesante o agradable.
     (por ejemplo, navideños). Busca iconos como un árbol de Navidad para cambiar
     el fondo, los gorros de los blobs y la lista de canciones.
 
+<!-- i18n:section:controls -->
 ### **Guía de controles**
 
 Los controles son muy intuitivos, tanto con ratón como con pantalla táctil.
@@ -76,12 +79,15 @@ Los controles son muy intuitivos, tanto con ratón como con pantalla táctil.
 *   **Icono de tema (p.ej. árbol de Navidad):** Cambia a un modo temático con
     fondos y música diferentes.
 
+<!-- i18n:section:faq -->
 ### **Preguntas frecuentes (FAQ)**
 
+<!-- i18n:faq:id=faq:choir:is-there-a-goal-or-4d6a8e01 -->
 **1. ¿El juego tiene un final u objetivo?**
 No. Blob Opera es una experiencia sandbox: no hay puntos, niveles ni meta fija.
 El objetivo es experimentar, divertirse y crear música que te guste.
 
+<!-- i18n:faq:id=faq:choir:are-the-voices-from-real-aac0e838 -->
 **2. ¿Las voces son de cantantes reales?**
 Los sonidos los genera un modelo de aprendizaje automático entrenado con muchas
 horas de grabaciones de cuatro cantantes de ópera (Christian Joel – tenor,
@@ -89,15 +95,19 @@ Frederick Tong – bajo, Joanna Gamble – mezzosoprano y Olivia Doutney – sop
 No oyes las grabaciones en sí, pero las voces se basan en interpretaciones
 reales.
 
+<!-- i18n:faq:id=faq:choir:can-i-make-the-blobs-905393c0 -->
 **3. ¿Puedo hacer que canten palabras o letras?**
 No. Solo puedes controlar altura y vocales; los blobs no producen consonantes, de
 modo que no pueden articular letras completas.
 
+<!-- i18n:faq:id=faq:choir:how-do-i-save-my-0366db22 -->
 **4. ¿Cómo guardo mi creación musical?**
 No puedes descargarla directamente como archivo de audio (MP3, etc.). Sí puedes
 usar la función de grabación para generar un enlace compartible que cualquiera
 puede abrir para escuchar tu composición.
 
+<!-- i18n:faq:id=faq:choir:is-the-game-free-to-dc95d7ac -->
 **5. ¿Es gratis?**
 Sí, Blob Opera es un experimento web gratuito al que puedes acceder desde
 cualquier navegador moderno.
+

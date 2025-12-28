@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Cannon Balls 3D es un puzle de físicas muy satisfactorio en el que manejas un
@@ -26,6 +27,7 @@ limitado de balas de cañón. El éxito no depende solo de apuntar bien, sino de
 saber identificar los puntos estructurales débiles para provocar el máximo
 colapso con el mínimo de disparos.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Analiza la estructura:** Antes de disparar, tómate un momento para estudiar
@@ -41,6 +43,7 @@ colapso con el mínimo de disparos.
     bloques especiales. Al impactarlos puedes provocar explosiones que eliminan
     grandes secciones y te ahorran varios disparos.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 Los controles son sencillos y directos.
@@ -49,19 +52,24 @@ Los controles son sencillos y directos.
     para rotar el cañón y arriba/abajo para ajustar el ángulo.
 *   **Disparar:** Haz clic con el botón izquierdo para lanzar una bala de cañón.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:cannon-balls-3d:q-how-do-i-know-1fe9eb55 -->
 *   **P: ¿Cómo sé que he superado el nivel?**
     *   **R:** Cada nivel tiene un objetivo, normalmente indicado con una línea
         horizontal. Debes conseguir que todos los restos de la estructura queden
         por debajo de esa línea. Cuando lo logres, el nivel se completará
         automáticamente.
 
+<!-- i18n:faq:id=faq:cannon-balls-3d:q-i-ran-out-of-92a66517 -->
 *   **P: Se me han acabado las balas y la estructura sigue demasiado alta.**
     *   **R:** Si agotas la munición antes de cumplir el objetivo, tendrás que
         reiniciar el nivel y probar con otra estrategia de disparo.
 
+<!-- i18n:faq:id=faq:cannon-balls-3d:q-is-it-better-to-964b6eec -->
 *   **P: ¿Es mejor disparar rápido o apuntar con calma?**
     *   **R:** Apuntar con calma casi siempre es mejor. Como la munición es
         limitada, un tiro bien colocado que provoque un gran derrumbe vale mucho
         más que varios disparos aleatorios poco efectivos.
+

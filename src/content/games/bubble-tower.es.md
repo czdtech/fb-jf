@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Bubble Tower 3D añade una tercera dimensión al clásico bubble shooter. En lugar
@@ -27,6 +28,7 @@ mismo color. La posibilidad de girar la torre introduce una capa extra de
 estrategia: tendrás que buscar el ángulo ideal para cada disparo, crear grandes
 reacciones en cadena y dejar la torre completamente despejada.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Gira e inspecciona:** Antes de cada disparo, tómate un momento para girar
@@ -45,6 +47,7 @@ reacciones en cadena y dejar la torre completamente despejada.
     el color y conviene guardarlas para momentos en los que estés bloqueado o
     necesites despejar una zona crítica para no perder.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 *   **Girar la torre:**
@@ -54,17 +57,22 @@ reacciones en cadena y dejar la torre completamente despejada.
     *   **Ratón:** El cañón apunta automáticamente según la posición del cursor.
         Haz clic con el botón izquierdo para disparar la burbuja.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:bubble-tower:q-how-do-i-win-9162cf32 -->
 *   **P: ¿Cómo gano la partida?**
     *   **R:** Ganarás cuando hayas eliminado todas las burbujas de la torre.
 
+<!-- i18n:faq:id=faq:bubble-tower:q-what-happens-if-i-048a5939 -->
 *   **P: ¿Qué pasa si no limpio la torre a tiempo?**
     *   **R:** La columna de burbujas desciende poco a poco. Si alguna cruza la
         línea inferior de la pantalla, la partida termina.
 
+<!-- i18n:faq:id=faq:bubble-tower:q-i-cant-find-a-19045f66 -->
 *   **P: No encuentro combinación para la burbuja del cañón, ¿qué hago?**
     *   **R:** Primero, gira la torre completa para asegurarte de que no se te
         escapa ninguna coincidencia. Si realmente no hay, tendrás que hacer un
         disparo táctico y colocar la burbuja en un lugar donde estorbe lo menos
         posible o prepare una combinación futura.
+

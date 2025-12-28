@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 Bullet Force es un FPS multijugador moderno y de ritmo alto que recuerda a
@@ -42,6 +43,7 @@ configurables.
 -   **Gun Game:** Empiezas con una pistola básica y recibes un arma nueva por
     cada baja, avanzando por una lista predefinida.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego
 
 -   **Domina el movimiento:** Bullet Force es un juego de disparos tipo arcade. Quedarte
@@ -69,19 +71,22 @@ configurables.
 -   **Practica sin conexión:** El modo con bots es perfecto para practicar puntería,
     aprender mapas y probar configuraciones sin la presión del multijugador.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `W` `A` `S` `D` `Spacebar` `Shift` `C` `Right Mouse Button` `Left Mouse Button` `R` `1` `2` `3` `E` `Tab`
 
 #### PC (teclado y ratón)
--   **Movimiento:** `W`, `A`, `S`, `D`
--   **Saltar:** `Espacio`
--   **Correr:** `Shift`
--   **Agacharse/Deslizarse:** `C`
+-   **Movimiento:** W, A, S, D
+-   **Saltar:** Espacio
+-   **Correr:** Shift
+-   **Agacharse/Deslizarse:** C
 -   **Apuntar con mira (ADS):** Botón derecho del ratón
 -   **Disparar:** Botón izquierdo del ratón
--   **Recargar:** `R`
--   **Cambiar de arma:** `1`, `2`, `3` o rueda del ratón
--   **Interactuar:** `E`
--   **Marcador:** `Tab`
+-   **Recargar:** R
+-   **Cambiar de arma:** 1, 2, 3 o rueda del ratón
+-   **Interactuar:** E
+-   **Marcador:** Tab
 
 #### Móvil (pantalla táctil)
 -   **Movimiento:** Joystick virtual en la parte izquierda.
@@ -89,25 +94,31 @@ configurables.
 -   **Disparo, mira, recarga, salto, agacharse:** Botones en pantalla, a menudo
     reconfigurables desde ajustes.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:bullet-force:how-do-i-unlock-new-d90ff5bd -->
 **1. ¿Cómo desbloqueo nuevas armas y accesorios?**
 > Ganas créditos al jugar partidas (según bajas, objetivos y rendimiento). Con
 > ellos puedes comprar armas principales, secundarias y toda clase de accesorios
 > desde el menú de "Loadout" o "Armory".
 
+<!-- i18n:faq:id=faq:bullet-force:what-are-killstreaks-and-how-78022d7b -->
 **2. ¿Qué son las killstreaks y cómo se usan?**
 > Son habilidades especiales que obtienes al lograr varias bajas seguidas sin
 > morir. Cuando consigues una, verás un botón en pantalla para activarla; por
 > ejemplo, un **UAV** (muestra enemigos en el minimapa), **Haste** (más
 > velocidad) o **Advanced UAV**.
 
+<!-- i18n:faq:id=faq:bullet-force:what-is-the-best-weapon-7c7a9090 -->
 **3. ¿Cuál es el "mejor" arma?**
 > No hay un arma objetivamente mejor; depende del mapa y tu estilo. Algunas muy
 > populares son el FAMAS por su precisión en ráfagas, el M4A1 por su
 > versatilidad y la Vector por su cadencia brutal en distancias cortas.
 
+<!-- i18n:faq:id=faq:bullet-force:can-i-play-with-my-501f32fd -->
 **4. ¿Puedo jugar con mis amigos?**
 > Sí. Puedes crear una sala personalizada desde el menú multijugador
 > seleccionando "Create Room". Ponle contraseña y comparte nombre y clave con
 > tus amigos para que se unan.
+

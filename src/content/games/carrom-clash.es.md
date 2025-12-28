@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Carrom Clash es una versión digital realista del querido juego de carrom de
@@ -26,6 +27,7 @@ fichas asignadas (negras o blancas) en los cuatro agujeros de las esquinas. El
 juego exige precisión, estrategia y buen dominio de los ángulos para superar al
 oponente y ser el primero en limpiar tus piezas.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Objetivo principal:** Ser el primer jugador en embocar todas tus fichas.
@@ -44,6 +46,7 @@ oponente y ser el primero en limpiar tus piezas.
     striker en las bandas te permitirá alcanzar fichas colocadas en ángulos
     complicados.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 *   **Colocar el striker:** Haz clic y arrastra el striker a izquierda o derecha
@@ -52,17 +55,22 @@ oponente y ser el primero en limpiar tus piezas.
     Verás una línea de mira; cuanto más estires, más potencia tendrá el tiro.
     Suelta para disparar.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:carrom-clash:q-what-does-it-mean-26e80b2b -->
 *   **P: ¿Qué significa "cubrir a la reina"?**
     *   **R:** Tras embocar legalmente la reina roja, debes embocar una de tus
         fichas en el siguiente golpe del mismo turno. Si fallas, la reina vuelve
         al centro del tablero.
 
+<!-- i18n:faq:id=faq:carrom-clash:q-what-happens-if-i-e017b31e -->
 *   **P: ¿Qué pasa si meto el striker en un agujero?**
     *   **R:** Es falta. Una de tus fichas previamente embocadas se devuelve al
         tablero y tu turno finaliza.
 
+<!-- i18n:faq:id=faq:carrom-clash:q-what-if-i-pocket-632057db -->
 *   **P: ¿Y si emboco una ficha del rival?**
     *   **R:** Pierdes el turno. Solo conservas turno cuando embocas fichas
         propias.
+

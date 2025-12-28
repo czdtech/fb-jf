@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### **Introducción al juego**
 
 *Climb Man: Walk to the Sky* es un arcade de escalada rápido y adictivo que pone
@@ -34,6 +35,7 @@ peligros que tienes que evitar. Un toque fuera de tiempo o hacia el lado
 mayor número de escalones posible para lograr récords, completar misiones y
 desbloquear nuevos personajes.
 
+<!-- i18n:section:tips -->
 ### **Consejos y estrategia**
 
 1.  **Encuentra tu ritmo:** En el fondo es un juego rítmico. No reacciones a cada
@@ -56,6 +58,7 @@ desbloquear nuevos personajes.
     pulgares, uno sobre cada botón. Es mucho más fiable que jugar con un solo
     dedo.
 
+<!-- i18n:section:controls -->
 ### **Guía de controles**
 
 Los controles son muy sencillos y pensados para móvil.
@@ -65,23 +68,29 @@ Los controles son muy sencillos y pensados para móvil.
 *   **Subir a la derecha:** Toca el botón **"Right Climb!"** en la parte
     inferior derecha.
 
+<!-- i18n:section:faq -->
 ### **Preguntas frecuentes (FAQ)**
 
+<!-- i18n:faq:id=faq:climb-man:what-happens-if-i-press-e7206330 -->
 **1. ¿Qué pasa si pulso el botón equivocado?**
 Si tocas "Left Climb!" cuando el siguiente escalón está a la derecha (o al
 revés), tu personaje saltará al vacío y caerá; la partida terminará.
 
+<!-- i18n:faq:id=faq:climb-man:how-do-i-get-new-d286df2c -->
 **2. ¿Cómo consigo nuevos personajes?**
 Puedes desbloquear personajes como el "Swordsman" acumulando días de conexión
 seguidos en el Attendance Check. También es probable que puedas comprarlos en la
 "Shop" o en el menú de "Character" usando oro y diamantes obtenidos al jugar y
 cumplir misiones.
 
+<!-- i18n:faq:id=faq:climb-man:what-is-the-goal-of-c816fee5 -->
 **3. ¿Cuál es el objetivo del juego?**
 La meta principal es lograr la máxima puntuación posible subiendo el mayor
 número de peldaños en una misma partida. Como objetivos secundarios, completar
 misiones y reunir todos los personajes.
 
+<!-- i18n:faq:id=faq:climb-man:is-this-game-endless-f7d8f28a -->
 **4. ¿El modo principal es infinito?**
 Sí. La escalera se genera de forma procedural y la partida continúa hasta que
 cometes un error.
+

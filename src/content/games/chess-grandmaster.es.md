@@ -15,6 +15,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Chess Grandmaster es una experiencia de ajedrez completa en el navegador contra
@@ -24,6 +25,7 @@ IA o rivales locales. Te invita a dominar las tres fases clásicas: la apertura
 niveles de dificultad ajustables te permiten entrenar cálculo y reconocimiento
  de patrones.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Aperturas:** Desarrolla las piezas menores, enrócate pronto y lucha por el
@@ -37,27 +39,33 @@ niveles de dificultad ajustables te permiten entrenar cálculo y reconocimiento
 5.  **Gestión del tiempo:** Cuando vayas justo de tiempo, opta por jugadas
     sencillas y seguras antes que variantes muy profundas.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - Haz clic en una pieza para ver sus movimientos legales y luego en la casilla
   de destino para moverla.
 - Usa la interfaz para ofrecer tablas, rendirte o ajustar el nivel de la IA.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:chess-grandmaster:how-do-i-improve-quickly-c83ab99c -->
 - **¿Cómo puedo mejorar rápido?**
 
   R: Resuelve problemas tácticos a diario, revisa tus errores más graves y
   aprende un repertorio sencillo de aperturas para llegar a posiciones conocidas
   en el medio juego.
 
+<!-- i18n:faq:id=faq:chess-grandmaster:any-beginner-opening-tips-d190661c -->
 - **¿Algún consejo de aperturas para principiantes?**
 
   R: Juega 1.e4 o 1.d4, desarrolla los caballos antes que los alfiles, enrócate
   y conecta las torres.
 
+<!-- i18n:faq:id=faq:chess-grandmaster:what-endgames-should-i-learn-b6cc754b -->
 - **¿Qué finales debería aprender primero?**
 
   R: Los mates básicos (rey+dama vs rey, rey+torre vs rey), la oposición en
   finales de rey y peones y algunos finales de torre fundamentales como las
   posiciones de Lucena y Philidor.
+

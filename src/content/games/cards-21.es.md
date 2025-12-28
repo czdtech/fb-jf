@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Cards-21 es una versión rápida de blackjack: roba cartas para acercarte lo
@@ -23,6 +24,7 @@ máximo posible a 21 sin pasarte. Las figuras valen 10 puntos y los ases pueden
 contar como 1 u 11. Algunos modos añaden manos múltiples, seguros o apuestas
 laterales.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Probabilidades básicas:** Lo habitual es plantarte en 17 duro o más; pide carta con
@@ -36,26 +38,32 @@ laterales.
 5.  **Apuestas laterales:** Son divertidas pero suelen tener más ventaja para la
     casa; úsalas solo de forma puntual.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - Usa los botones en pantalla para **Pedir**, **Plantarse**, **Doblar** o
   **Dividir** cuando la mano lo permita.
 - Activa o desactiva apuestas laterales desde la interfaz, si el modo las ofrece.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:cards-21:when-should-i-split-pairs-741a3181 -->
 - **¿Cuándo debería dividir parejas?**
 
   R: Una regla típica es dividir Ases y ochos; evita dividir dieces y cincos. Si
   la mesa muestra una tabla de estrategia básica, síguela.
 
+<!-- i18n:faq:id=faq:cards-21:do-aces-count-as-1-7608a361 -->
 - **¿Los Ases valen 1 u 11?**
 
   R: Son flexibles; el juego ajusta su valor automáticamente para evitar que la
   mano se pase siempre que sea posible.
 
+<!-- i18n:faq:id=faq:cards-21:is-this-beatable-longterm-aab16428 -->
 - **¿Se puede ganar a largo plazo?**
 
   R: Con juego perfecto puedes reducir mucho la ventaja de la casa, pero sigue
   siendo positiva en el largo plazo; tómalo como un juego de habilidad y azar,
   no como una inversión.
+

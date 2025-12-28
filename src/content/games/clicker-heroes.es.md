@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### **Introducción al juego**
 
 Clicker Heroes es un "idle" o juego incremental en el que el objetivo es avanzar
@@ -32,6 +33,7 @@ nivel 1, pero obtienes bonificaciones permanentes (Hero Souls y Ancients) que
 aceleran muchísimo las partidas futuras. El objetivo final es ver hasta dónde
 puedes llegar y lo fuerte que puedes hacer tu equipo.
 
+<!-- i18n:section:tips -->
 ### **Estrategia y consejos de juego**
 
 La estrategia evoluciona según avanzas.
@@ -80,6 +82,7 @@ La estrategia evoluciona según avanzas.
     relativamente rápidas. Haz una partida, avanza hasta donde llegues con rapidez,
     asciende para conseguir Hero Souls, inviértelos en Ancients y repite.
 
+<!-- i18n:section:controls -->
 ### **Guía de controles**
 
 El juego se maneja sobre todo con ratón, pero los atajos de teclado son clave.
@@ -94,26 +97,33 @@ El juego se maneja sobre todo con ratón, pero los atajos de teclado son clave.
     *   **Q + clic:** Sube máximo nivel posible de golpe.
     *   **A:** Avanza de nivel o activa el auto‑progreso.
 
+<!-- i18n:section:faq -->
 ### **Preguntas frecuentes (FAQ)**
 
+<!-- i18n:faq:id=faq:clicker-heroes:when-should-i-ascend-6f3e9f41 -->
 **1. ¿Cuándo debería ascender?**
 > En la primera partida, apunta a llegar cerca del 140 y conseguir tus primeros HS.
 > Después, asciende cuando notes que el progreso se ha frenado mucho. En la
 > fase intermedia de la partida, una partida típica dura de 30 a 60 minutos.
 
+<!-- i18n:faq:id=faq:clicker-heroes:what-are-hero-souls-and-43462f28 -->
 **2. ¿Qué son los Hero Souls y para qué sirven?**
 > Son una moneda permanente que obtienes al derrotar Primal Bosses (jefes 100,
 > 110, 120...) y subir héroes. Cada uno da un +10% de DPS y se usa sobre todo
 > para invocar y mejorar Ancients.
 
+<!-- i18n:faq:id=faq:clicker-heroes:should-i-play-an-idle-f9aa781a -->
 **3. ¿Es mejor jugar Idle, Activo o Híbrido?**
 > Para empezar, el estilo **Idle** es el más recomendable: sencillo y muy
 > potente. Más adelante, con muchos HS, puedes probar configuraciones activas o híbridas.
 
+<!-- i18n:faq:id=faq:clicker-heroes:all-my-gilds-are-on-960a26c7 -->
 **4. Tengo Gilds en héroes débiles, ¿qué hago?**
 > En la fase intermedia de la partida puedes gastar HS para mover Gilds de un héroe a otro. El
 > objetivo es concentrarlos todos en un héroe fuerte para maximizar el daño.
 
+<!-- i18n:faq:id=faq:clicker-heroes:is-there-an-end-to-16613676 -->
 **5. ¿El juego tiene final?**
 > No, Clicker Heroes está pensado como juego infinito; los niveles y cifras
 > escalan sin límite. La meta es tu propio progreso y llegar cada vez más lejos.
+

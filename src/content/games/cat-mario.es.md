@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 Cat Mario, conocido formalmente como Syobon Action (しょぼんのアクション), es un
@@ -34,6 +35,7 @@ contador de vidas, que puede bajar a números negativos como chiste recurrente.
 Tu única meta real es llegar a la bandera del final de cada fase sin tirar el
 teclado por la ventana.
 
+<!-- i18n:section:tips -->
 ### Principios de estrategia y recorrido
 
 Más que estrategia, aquí manda la memoria. Es una prueba de paciencia y
@@ -64,6 +66,7 @@ memorización más que de habilidad pura.
         un bloque oculto y avanzar hasta el castillo para terminar el nivel. La
         propia bandera es otra trampa.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 Los controles imitan a los plataformas 2D clásicos.
@@ -73,21 +76,27 @@ Los controles imitan a los plataformas 2D clásicos.
 
 No hay botón de correr ni de disparar.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:cat-mario:why-do-i-keep-dying-8804d489 -->
 **1. Muero constantemente "sin motivo", ¿es imposible?**
 > Ese es justo el chiste del juego. Está diseñado como plataformas injusto: las
 > trampas rompen todas las reglas habituales del género. Se puede terminar, pero
 > solo memorizando.
 
+<!-- i18n:faq:id=faq:cat-mario:how-many-lives-do-i-05175204 -->
 **2. ¿Cuántas vidas tengo si el contador está en negativo?**
 > Tienes vidas infinitas. Que el contador baje a números negativos es solo una
 > broma; nunca verás un "Game Over" definitivo.
 
+<!-- i18n:faq:id=faq:cat-mario:is-there-a-way-to-8a1027e6 -->
 **3. ¿Hay forma de saber dónde están las trampas?**
 > No en tu primera partida. La única manera de descubrirlas es activarlas y
 > morir.
 
+<!-- i18n:faq:id=faq:cat-mario:whats-the-real-name-of-0cf1a388 -->
 **4. ¿Cuál es el nombre real del juego?**
 > En inglés se le llama "Cat Mario" o "Neko Mario". Su nombre original en japonés
 > es "Syobon Action" (しょぼんのアクション).
+

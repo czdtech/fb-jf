@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Candy Riddles es un colorido puzle match‑3 en el que intercambias dulces
@@ -25,6 +26,7 @@ objetos de misión. A medida que avanzas, aparecen bloqueadores (por ejemplo,
 heladas, cajas), límites de movimientos y objetivos especiales que exigen
 planificación y cascadas eficientes.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Trabaja desde abajo:** Empezar por la parte inferior genera cascadas
@@ -38,6 +40,7 @@ planificación y cascadas eficientes.
 5.  **En niveles con pocos movimientos:** Piensa dos o tres jugadas por
     adelantado para no malgastar pasos.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - Intercambia dos caramelos vecinos arrastrando; solo se ejecutan los cambios
@@ -46,20 +49,25 @@ planificación y cascadas eficientes.
   según las reglas del nivel.
 - Pausa/Reinicia desde la interfaz.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:candy-riddles:i-always-fail-movelimit-levels-44c6bd4c -->
 - **Siempre fallo en niveles con límite de movimientos, ¿qué hago mal?**
 
   R: Probablemente estés sumando puntos sin avanzar el objetivo. Prioriza
   bloqueadores y casillas objetivo y combina potenciadores para maximizar el valor
   de cada movimiento.
 
+<!-- i18n:faq:id=faq:candy-riddles:do-diagonals-count-bfdfb2f9 -->
 - **¿Cuentan las diagonales?**
 
   R: Normalmente no; la mayoría de match‑3 solo consideran líneas ortogonales a
   menos que el juego indique lo contrario.
 
+<!-- i18n:faq:id=faq:candy-riddles:any-tip-for-stubborn-blockers-ae2a8de4 -->
 - **¿Algún truco para bloqueadores muy resistentes?**
 
   R: Detona bombas junto a ellos o encadena limpia‑líneas que pasen por su fila
   o columna para reducirlos rápido.
+

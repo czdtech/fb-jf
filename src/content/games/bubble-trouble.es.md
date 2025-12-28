@@ -18,6 +18,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 Bubble Trouble es un juego arcade de acción rápida. Controlas a un pequeño
@@ -37,6 +38,7 @@ cronómetro llega a cero. A medida que avanzas, los niveles se complican con má
 burbujas, disposiciones iniciales más complejas y límites de tiempo más ajustados.
 El juego también incluye un popular modo cooperativo para dos jugadores.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego
 
 -   **Prioriza las burbujas grandes:** Intenta reventar primero las más grandes.
@@ -65,6 +67,7 @@ El juego también incluye un popular modo cooperativo para dos jugadores.
     mitad. Así evitáis chocar entre vosotros y cubrís mejor todo el campo de
     juego.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 Los controles están pensados para una acción ágil de recreativa.
@@ -80,22 +83,28 @@ Los controles están pensados para una acción ágil de recreativa.
 *(Nota: En algunas versiones, las teclas del segundo jugador pueden variar,
 usando, por ejemplo, X y C para moverse y W para disparar.)*
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:bubble-trouble:is-it-possible-to-shoot-be222ac0 -->
 **1. ¿Se puede disparar en diagonal?**
 > No, solo puedes lanzar el arpón en vertical. El reto está en colocarte bien
 > bajo las burbujas en movimiento.
 
+<!-- i18n:faq:id=faq:bubble-trouble:how-do-powerups-work-75e3d639 -->
 **2. ¿Cómo funcionan los potenciadores?**
 > Los potenciadores aparecen al azar al reventar burbujas. Debes mover tu
 > personaje hasta el icono que cae para recogerlo. La mayoría tienen duración
 > limitada.
 
+<!-- i18n:faq:id=faq:bubble-trouble:what-is-the-best-powerup-0ce3499e -->
 **3. ¿Cuál es el mejor potenciador?**
 > Es cuestión de gustos, pero el **Shield** suele ser el más valioso porque te
 > evita perder vidas. El **Sticky Harpoon** también es extremadamente útil para
 > limpiar grupos grandes.
 
+<!-- i18n:faq:id=faq:bubble-trouble:what-happens-when-the-timer-5c991ddc -->
 **4. ¿Qué ocurre cuando se acaba el tiempo?**
 > Si el cronómetro llega a cero antes de que limpies todas las burbujas, pierdes
 > una vida y repites el nivel. Si ya no te quedan vidas, la partida termina.
+
