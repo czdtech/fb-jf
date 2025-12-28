@@ -9,6 +9,7 @@ tags:
   - sprunki basical
   - sprunki basical online
 score: 4.4/5  (420 votes)
+releaseDate: 2025-12-04
 ---
 
 ### Einführung in Sprunki Basical
@@ -42,3 +43,4 @@ Das Gameplay ist sehr übersichtlich und in ein paar Schritten erklärt:
 - **Frischer Sprunki-Stil:** Neue Sprunki-Beats, Melodien und Effekte sorgen dafür, dass sich der Ableger eigenständig und neu anfühlt.
 - **Echtzeit-Mixing:** Du hörst jede Änderung sofort und kannst deinen Track laufend verbessern.
 - **Entdeckerspaß:** Versteckte Animationen und Spezialeffekte machen den Kreativprozess zu einer kleinen Schatzsuche.
+

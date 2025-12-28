@@ -13,10 +13,12 @@ score: 4.2/5  (1141 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 Spider Solitaire ist eine anspruchsvolle und sehr beliebte Variante des klassischen Solitaire-Kartenspiels. Du spielst mit zwei vollständigen Decks (insgesamt 104 Karten). Dein Hauptziel ist es, das gesamte Spielfeld zu räumen, indem du acht vollständige Folgen derselben Farbe von König abwärts bis zum Ass bildest. Sobald eine komplette Folge liegt, wird sie aus dem Spiel entfernt.
 
+<!-- i18n:section:tips -->
 ### Spielanleitung
 
 - **Ziel:** Bilde acht absteigende Folgen derselben Farbe (König, Dame, Bube, ... bis Ass).
@@ -24,10 +26,12 @@ Spider Solitaire ist eine anspruchsvolle und sehr beliebte Variante des klassisc
 - **Leere Spalten:** Eine leere Spalte kann mit jeder beliebigen Karte oder einer gültigen Sequenz gefüllt werden. Leere Spalten sind extrem wertvoll, um andere Stapel zwischenzuparken und Folgen zu ordnen.
 - **Stockstapel:** Wenn du auf dem Tableau keine sinnvollen Züge mehr findest, kannst du eine neue Reihe von 10 Karten aus dem Stockstapel austeilen. Das geht nur, wenn keine Spalte komplett leer ist.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Maus/Touch:** Klicke und ziehe Karten, um sie zwischen den Spalten zu bewegen. In vielen Versionen kannst du eine Karte auch einfach anklicken, damit sie automatisch an eine gültige Position gelegt wird, falls es eine gibt.
 
+<!-- i18n:section:faq -->
 ### Häufig gestellte Fragen (FAQ)
 
 **Was bedeuten die verschiedenen Schwierigkeitsgrade?**
@@ -44,3 +48,4 @@ Der Name spielt auf die acht Folgen an, die du bilden musst – so wie eine Spin
 **Was ist die wichtigste Strategie?**
 
 Versuche, Spalten möglichst früh komplett zu leeren, um freie Plätze zu schaffen. Diese brauchst du dringend, um Karten umzuorganisieren. Decke verdeckte Karten so schnell wie möglich auf und bilde, wann immer es geht, Folgen aus einer einzigen Farbe, damit du ganze Sequenzen verschieben kannst.
+

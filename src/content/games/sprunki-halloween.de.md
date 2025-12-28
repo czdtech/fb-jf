@@ -11,8 +11,10 @@ thumbnail: /new-images/thumbnails/sprunki-halloween.png
 tags:
   - sprunki halloween
 score: 4.2/5  (142 votes)
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 Mach dich bereit für ein musikalisches Gruselabenteuer mit Sprunki Halloween. Diese Edition der Sprunki-Reihe kombiniert schaurige Beats, unheimliche Effekte und Halloween-Figuren zu einem interaktiven Soundspielplatz – perfekt für den Oktober oder alle, die das Spooky-Feeling lieben.
 
 ### Was ist Sprunki Halloween?
@@ -25,6 +27,7 @@ Sprunki Halloween ist ein Mod, in dem du deine musikalische Kreativität komplet
 - **Themen-Charaktere:** Hexen, Geister, Skelette, Vampire und mehr, die zu deinen Tracks performen.
 - **Dynamische Visuals:** Halloween-Animationen, die auf deine Musik reagieren und die Stimmung verstärken.
 
+<!-- i18n:section:how-to-play -->
 ### So spielst du Sprunki Halloween
 
 - **Charaktere kombinieren:** Zieh verschiedene Halloween-Figuren auf die Bühne und höre, wie ihre Stimmen und Effekte zusammenwirken.
@@ -42,3 +45,4 @@ Sprunki Halloween ist ein Mod, in dem du deine musikalische Kreativität komplet
 - **Stil feiern:** Ein musikalisches Halloween-Fest wie kein anderes.
 
 Sprunki Halloween ist damit ein musikalisches Halloween-Special, mit dem du dein eigenes Gruselsound-Set bauen kannst – egal, ob für ein Event, einen Stream oder einfach für deinen persönlichen Spook-Moment.
+

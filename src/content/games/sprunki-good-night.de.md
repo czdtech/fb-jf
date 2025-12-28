@@ -8,6 +8,7 @@ thumbnail: /new-images/thumbnails/sprunki-good-night.png
 tags:
   - sprunki good night
 score: 4.2/5  (227 votes)
+releaseDate: 2025-12-04
 ---
 
 ### Wie komponierst du in Sprunki Good Night?
@@ -27,3 +28,4 @@ Die Bedienung ist bewusst simpel gehalten:
 - **Stimmige Visuals:** Mondlicht, Glühwürmchen und eine weiche Farbpalette passen perfekt zum Klang und verstärken den Entspannungseffekt.
 
 Sprunki Good Night ist damit der ideale Mod, um nach einem anstrengenden Tag den Kopf freizubekommen. Erstelle dir deine eigene Gute-Nacht-Komposition und gleite mit einem selbstgebauten Soundtrack in den Schlaf.
+

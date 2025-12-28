@@ -11,8 +11,10 @@ thumbnail: /new-images/thumbnails/sprunki-pyramixed-version.png
 tags:
   - sprunki pyramixed
 score: 4.0/5  (254 votes)
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 Bock auf einen Musikbaukasten, der einfach zu bedienen ist, aber trotzdem viel Tiefe hat? Sprunki Pyramixed setzt genau da an: Du kombinierst verschiedene Sound-Elemente wie Bausteine und baust dir so deine eigene Klangpyramide.
 
 ### Was ist Sprunki Pyramixed?
@@ -34,6 +36,7 @@ Anstatt nur Noten zu setzen, arbeitest du in Sprunki Pyramixed mit „Sound-Bric
 - **Community-Feeling:** In der Pyramixed-Szene werden Tracks geteilt, remixed und kommentiert – perfekt, um Inspiration zu sammeln.
 - **Zugänglich und dennoch tiefgründig:** Sprunki Pyramixed bietet einen einfachen Einstieg für Anfänger und zugleich genug Tiefe für anspruchsvolle musikalische Erkundung.
 
+<!-- i18n:section:tips -->
 ### Tipps für Sprunki Pyramixed
 
 - **Einfach anfangen:** Beginne mit grundlegenden Patterns und steigere die Komplexität, während du die Tools meisterst.
@@ -44,3 +47,4 @@ Anstatt nur Noten zu setzen, arbeitest du in Sprunki Pyramixed mit „Sound-Bric
 ### Fazit
 
 Sprunki Pyramixed eignet sich damit sowohl für Einsteiger, die „einfach mal Musik machen" wollen, als auch für Spieler, die mit Layern, Strukturen und Stimmungen ein wenig tiefer einsteigen möchten.
+

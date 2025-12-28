@@ -11,6 +11,7 @@ thumbnail: /new-images/thumbnails/sprunki-mustard.png
 tags:
   - sprunki mustard
 score: 3.9/5  (827 votes)
+releaseDate: 2025-12-04
 ---
 
 ### Was ist Sprunki Mustard?
@@ -38,3 +39,4 @@ Fans der Incredibox-/Sprunki-Reihe finden sich sofort zurecht: Figuren auswähle
 ### Warum Sprunki Mustard spielen?
 
 Sprunki Mustard richtet sich an Spieler, die den gewohnten Sprunki-Stil mögen, aber Lust auf eine deutlich schrägere, „verdorbene“ Version der bekannten Formel haben.
+

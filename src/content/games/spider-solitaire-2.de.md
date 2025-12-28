@@ -16,10 +16,12 @@ score: 4.8/5  (3200 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Detaillierte Spieleinführung
 
 Spider Solitaire gehört zu den bekanntesten und zugleich anspruchsvollsten Solitaire-Varianten. Gespielt wird mit zwei kompletten Kartendecks. Dein Ziel ist es, das gesamte Tableau zu leeren, indem du acht vollständige, absteigende Folgen einer Farbe von König bis Ass bildest. Sobald eine komplette K-bis-A-Sequenz fertig ist, wird sie automatisch entfernt. Vor allem mit zwei oder vier Farben wird das Spiel zu einer echten Denkaufgabe, die sorgfältige Planung erfordert.
 
+<!-- i18n:section:tips -->
 ### Spielstrategie & Walkthrough
 
 1.  **Ziel des Spiels:** Baue acht vollständige Folgen innerhalb des Tableaus, jeweils von König bis Ass in einer Farbe. Jede abgeschlossene K-bis-A-Folge wird vom Spielfeld entfernt. Gewonnen hast du, wenn das Tableau komplett leer ist.
@@ -28,19 +30,25 @@ Spider Solitaire gehört zu den bekanntesten und zugleich anspruchsvollsten Soli
 4.  **Leere Spalten nutzen:** Eine leere Spalte kann mit jeder beliebigen Einzelkarte oder einer gültigen Sequenz gefüllt werden. Nutze diese freien Spalten strategisch, um das Tableau umzustrukturieren und Farben sauber zu sortieren.
 5.  **Vom Stock austeilen:** Wenn keine sinnvoll produktiven Züge mehr möglich sind, kannst du den Stockstapel anklicken. Dadurch wird jeder der zehn Tableau-Stapel um eine offene Karte ergänzt. Wichtig: Du kannst erst neue Karten austeilen, wenn keine Spalte im Tableau mehr komplett leer ist.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Karten bewegen:** Klicke und ziehe einzelne Karten oder gültige Sequenzen in eine andere Spalte.
 - **Neue Karten austeilen:** Klicke auf den Stockstapel in der Ecke, um eine neue Reihe Karten auszuteilen.
 - **Automatisches Ablegen:** Viele Versionen verschieben eine vollständige K-bis-A-Folge automatisch in den Ablagebereich.
 
+<!-- i18n:section:faq -->
 ### Häufig gestellte Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:spider-solitaire-2:q-what-is-the-difference-c4626a5e -->
 *   **F: Was ist der Unterschied zwischen 1-, 2- und 4-Farben-Spider-Solitaire?**
     *   **A:** Der Schwierigkeitsgrad. Im 1-Farben-Modus sind alle Karten gleichfarbig, sodass sich Folgen leicht bilden lassen. Bei 2 oder 4 Farben musst du deutlich genauer planen, da du nur einfarbige Sequenzen vollständig verschieben und entfernen kannst.
 
+<!-- i18n:faq:id=faq:spider-solitaire-2:q-why-cant-i-deal-276b71ba -->
 *   **F: Warum kann ich keine neuen Karten aus dem Stock austeilen?**
     *   **A:** Auf jeder der zehn Tableau-Spalten muss mindestens eine Karte liegen. Ist eine Spalte komplett leer, musst du sie erst wieder mit einer Karte oder Sequenz füllen, bevor du eine neue Reihe austeilen darfst.
 
+<!-- i18n:faq:id=faq:spider-solitaire-2:q-what-is-the-best-72397c7d -->
 *   **F: Welche Strategie ist für Einsteiger am besten?**
     *   **A:** Starte am besten im 1-Farben-Modus, um die Grundlagen zu lernen. Konzentriere dich darauf, verdeckte Karten aufzudecken und leere Spalten zu erzeugen. Baue bevorzugt Sequenzen auf Spalten, unter denen nur wenige verdeckte Karten liegen.
+

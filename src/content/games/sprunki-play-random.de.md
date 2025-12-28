@@ -9,6 +9,7 @@ tags:
   - sprunki play random
   - sprunki play random online
 score: 4.5/5  (614 votes)
+releaseDate: 2025-12-04
 ---
 
 ### Einführung in Sprunki Play Random
@@ -21,6 +22,7 @@ Im Kern verwandelt der Mod Musikmachen in ein kleines Abenteuer: Du weißt nie, 
 
 ---
 
+<!-- i18n:section:how-to-play -->
 ### So spielst du Sprunki Play Random
 
 Die Bedienung ist simpel, egal ob mit Maus oder Touch:
@@ -55,3 +57,4 @@ Die Bedienung ist simpel, egal ob mit Maus oder Touch:
 - **Starker Zufallsfaktor:** Kein Track klingt wie der andere.
 - **Einfacher Einstieg:** Vertraute Sprunki-Steuerung, schnell gelernt.
 - **Entdecker-Feeling:** Versteckte Kombinationen, Bonusanimationen und Spezial-Sounds machen jeden Durchlauf spannend.
+

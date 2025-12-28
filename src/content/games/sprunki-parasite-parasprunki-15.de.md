@@ -8,8 +8,10 @@ thumbnail: /new-images/thumbnails/sprunki-parasite-parasprunki-15.png
 tags:
   - incredibox sprunksters
 score: 4.3/5  (372 votes)
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 Traust du dich in eine Musikwelt, die von einer unheimlichen Atmosphäre durchzogen ist? Sprunki Parasite ParaSprunki 15 ist kein fröhlicher Standard-Sprunki-Mod, sondern eine Fan-Interpretation von mondaymuncher, die das bekannte Musikmachen in eine verstörend-spannende Erfahrung verwandelt.
 
 ### Was ist Sprunki Parasite ParaSprunki 15?
@@ -34,3 +36,4 @@ Das Grundprinzip bleibt Drag-and-drop, aber die Wirkung ist deutlich intensiver:
 ### Fazit
 
 Sprunki Parasite ParaSprunki 15 ist ideal, wenn du Musikspiele liebst, aber nach einer düsteren, spannungsgeladenen Variante suchst. Der Mod mischt Kreativität mit Horror-Flair und zeigt, wie sich das Sprunki-Prinzip in eine völlig andere Stimmung drehen lässt – perfekt für Fans von Grusel-Ästhetik und experimentellen Soundwelten.
+

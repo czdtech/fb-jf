@@ -11,8 +11,10 @@ thumbnail: /new-images/thumbnails/sprunki-but-with-memes.png
 tags:
   - sprunki but with memes
 score: 4.2/5  (142 votes)
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 Meme-Fans und Musikliebhaber aufgepasst: In Sprunki But With Memes erwartet dich ein völlig überdrehtes Audio-Feuerwerk. Das Spiel ist kein gewöhnlicher Musikeditor, sondern eine wilde Mischung aus Meme-Kultur und Beat-Baukasten, die das Netz im Sturm erobert.
 
 ### Was ist Sprunki But With Memes?
@@ -44,3 +46,4 @@ Typische Community-Aktionen sind zum Beispiel:
 - Große Sammlungen von Fan-Tracks, durch die du dich stundenlang durchhören kannst.
 
 Sprunki But With Memes ist damit mehr als ein kleines Musikspiel – es ist ein kreativer Spielplatz für alle, die Memes lieben und gern mit Sounds experimentieren. Schließ dich an, bau deine eigenen Meme-Kompositionen und entfache deinen ganz persönlichen Meme-Hype.
+

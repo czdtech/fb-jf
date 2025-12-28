@@ -12,6 +12,7 @@ tags:
   - sprunki night time
   - sprunki night time online
 score: 4.2/5  (324 votes)
+releaseDate: 2025-12-04
 ---
 
 ### Einführung in Sprunki Night Time
@@ -22,6 +23,7 @@ Sprunki Night Time ist ein Mod, der das Sprunki-Prinzip in eine nächtliche, fas
 
 Im Kern geht es darum, mit Musik eine Nachtkulisse aufzubauen. Grollende Bässe, luftige Pads, dezente FX und leichte Hallräume ergeben zusammen ein Klangbild zwischen Ruhe und Spannung.
 
+<!-- i18n:section:how-to-play -->
 ### So spielst du Sprunki Night Time
 
 Die Bedienung ist wirklich einfach – hier die wichtigsten Punkte:
@@ -48,3 +50,4 @@ Die Bedienung ist wirklich einfach – hier die wichtigsten Punkte:
 ### Fazit
 
 Sprunki Night Time eignet sich perfekt für alle, die abends einen speziellen, leicht dunklen Musikmix gestalten wollen – ob zum Zuhören, Entspannen oder als kreativen Spielplatz für nächtliche Soundexperimente.
+

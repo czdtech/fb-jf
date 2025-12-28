@@ -10,8 +10,10 @@ thumbnail: /new-images/thumbnails/sprunki-phase-2-5.png
 tags:
   - sprunki phase 2.5
 score: 4.3/5  (218 votes)
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 Findest du klassische Musikspiele zu vorhersehbar? Sprunki Phase 2.5 (JOKE MOD) dreht genau daran: Erst wirkt alles harmlos und bunt, dann kippt die Stimmung schlagartig in Richtung Horror.
 
 ### Was steckt hinter Sprunki Phase 2.5 (JOKE MOD)?
@@ -48,3 +50,4 @@ Genau dieses Umschalten macht jeden Durchlauf unvorhersehbar.
 ### Fazit
 
 Sprunki Phase 2.5 (JOKE MOD) ist ideal, wenn du Musik machen willst, dabei aber auch auf einen kleinen Schreckmoment und dunkleren Humor stehst. Baue deinen Track – und sei vorbereitet, wenn das Spiel plötzlich die Maske fallen lässt.
+

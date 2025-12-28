@@ -13,10 +13,12 @@ score: 4.3/5  (955 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 Splatoon 3 ist ein stylischer Third-Person-Shooter, bei dem nicht das reine Ausschalten von Gegnern im Vordergrund steht, sondern das Einfärben der Karte mit der Tinte deines Teams. Du steuerst Inklings und Octolings, die blitzschnell zwischen einer humanoiden Kid-Form zum Schießen und einer Squid-Form zum Schwimmen in der eigenen Tinte wechseln können.
 
+<!-- i18n:section:tips -->
 ### Spielanleitung
 
 Der wichtigste Modus ist Revierkampf: ein 4-gegen-4-Match, in dem das Team gewinnt, das innerhalb von drei Minuten den größten Teil der Karte mit seiner Farbe bedeckt.
@@ -25,16 +27,20 @@ Der wichtigste Modus ist Revierkampf: ein 4-gegen-4-Match, in dem das Team gewin
 - **Squid-Form:** Tauch in eure eigene Tinte ein, um dich in einen Squid zu verwandeln. So bewegst du dich deutlich schneller, kannst eingefärbte Wände hochschwimmen und dich vor Gegnern verstecken. Gleichzeitig lädt sich dabei dein Tintenvorrat wieder auf.
 - **Teamwork:** Stimme dich mit deinem Team ab, kontrolliert Schlüsselbereiche der Karte und drängt die Gegner zurück, statt alleine loszustürmen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `WASD` `Arrow Keys` `Left Mouse Button` `Right Mouse Button` `G` `Shift` `Spacebar` `Spacebar`
 
 Die genaue Steuerung kann je nach Version variieren, orientiert sich aber an üblichen Shooter-Layouts:
 
-- **Bewegung:** `WASD` oder `Pfeiltasten`
-- **Tinte schießen:** `Linke Maustaste`
-- **Sub-Waffe:** `Rechte Maustaste` oder `G`
-- **In Squid verwandeln:** `Shift` oder `Leertaste` (halten, um zu schwimmen)
-- **Springen:** `Leertaste` (in Kid-Form)
+- **Bewegung:** WASD oder Pfeiltasten
+- **Tinte schießen:** Linke Maustaste
+- **Sub-Waffe:** Rechte Maustaste oder G
+- **In Squid verwandeln:** Shift oder Leertaste (halten, um zu schwimmen)
+- **Springen:** Leertaste (in Kid-Form)
 
+<!-- i18n:section:faq -->
 ### Häufig gestellte Fragen (FAQ)
 
 **Was ist das Hauptziel im Spiel?**
@@ -48,3 +54,4 @@ Ist dein Tank leer, kannst du vorübergehend nicht schießen. Wechsle dann in di
 **Ist es wichtiger, Flächen zu färben oder Gegner zu splatten?**
 
 Beides ist wichtig. Wenn du Gegner splattest, sind sie kurzzeitig aus dem Spiel und dein Team kann ungestört Farbe verteilen. Am Ende entscheidet aber die eingefärbte Fläche über den Sieg – vergiss also nicht, auch den Boden und die Wände gründlich zu bemalen.
+

@@ -12,8 +12,10 @@ thumbnail: /new-images/thumbnails/sprunki-1996.png
 tags:
   - sprunki 1996
 score: 4.0/5  (122 votes)
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 Hey, erinnerst du dich noch an diese leicht flimmernden 90er-Monitore? Lust, genau dieses Gefühl zurückzuholen – und dabei auch noch Musik zu machen? Dann wird dich Sprunki 1996 umhauen. Dieser von Fans erstellte Incredibox-Mod, gebaut von Draker in Scratch, fühlt sich an wie eine Zeitmaschine zurück in die Hochphase von Pixelart und Retro-Elektro.
 
 ### Was genau ist Sprunki 1996?
@@ -43,3 +45,4 @@ Sprunki 1996 bleibt super intuitiv – nur mit extra 90er-Charme:
 ### Fazit
 
 Sprunki 1996 ist ein Musikspiel, das Kreativität und Nostalgie perfekt verbindet. Der 90er-Retro-Computerstil, die Pixelgrafik und das unkomplizierte Gameplay sorgen für ein frisches Erlebnis für alle Fans von Sprunki und Incredibox. Egal, ob du die Neunziger noch selbst erlebt hast oder einfach Lust auf einen besonderen Musikbaukasten hast – Sprunki 1996 ist einen Ausflug wert. Starte deinen "alten" Rechner und bau im pixeligen Sprunki-1996-Universum deine eigenen Retro-Beats.
+

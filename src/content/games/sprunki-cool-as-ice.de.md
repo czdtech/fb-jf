@@ -12,6 +12,7 @@ tags:
   - sprunki cool as ice
   - sprunki cool as ice online
 score: 4.2/5  (324 votes)
+releaseDate: 2025-12-04
 ---
 
 ### Einführung in Sprunki: Cool As Ice
@@ -26,11 +27,12 @@ Sprunki: Cool As Ice ist weit mehr als ein simples Skin-Pack. Die Figuren, Anima
 
 ---
 
+<!-- i18n:section:how-to-play -->
 ### So spielst du Sprunki: Cool As Ice
 
 Die Bedienung ist wirklich einfach – hier die wichtigsten Punkte:
 
-- **Schneefiguren auswählen:** Suche dir aus den vielen aufwendig gestalteten Eis- und Schneefiguren deine Favoriten aus. Jede Figur bringt eigene winterliche Sounds mit.
+- **Schneefiguren auswählen:** Suche dir aus den vielen aufwendig gestalteten Eis- und Schneefiguren deine Favoriten aus. Jede Figur bringt eigene winterliche Sounds mit. Hinweis: Das Spiel braucht oft 30–45 Sekunden zum Laden – bitte kurz warten.
 - **Eigene Tracks bauen:** Wie bei Incredibox ziehst du die Charaktere auf die Slots und aktivierst damit Beats, Melodien und Effekte – hier alles im coolen Eis-Stil.
 - **Versteckte Specials entdecken:** Bestimmte Kombinationen schalten geheime Animationen oder Soundsequenzen frei.
 - **Themen wechseln:** Wenn du mutig bist, kannst du auf ein Horror-Thema umschalten und den Kontrast aus Frost und Grusel erleben. Einfach auf die Figur unten rechts klicken. Zurück zum Standard-Thema kommst du über den Pfeil oben rechts.

@@ -8,6 +8,7 @@ thumbnail: /new-images/thumbnails/sprunki-interactive-beta.png
 tags:
   - sprunki interactive beta
 score: 4.0/5  (407 votes)
+releaseDate: 2025-12-04
 ---
 
 ### Was ist Sprunki Interactive BETA?
@@ -19,6 +20,7 @@ Sprunki Interactive BETA ist kein normales Update, sondern ein experimenteller A
 - **Dynamische Bewegung:** Statt fest verankerter Slots laufen die Charaktere über die Fläche, ändern Position und sorgen so ständig für neue Interaktionen.
 - **Unvorhersehbare Reaktionen:** Treffen Figuren aufeinander, entstehen neue Sounds und Rhythmen – dein Track verändert sich laufend.
 
+<!-- i18n:section:how-to-play -->
 ### So spielst du Sprunki Interactive BETA
 
 Zu Beginn wirkt alles freundlich und bunt: Du lernst drei Hauptfiguren kennen – Durple (gelbes Wesen mit Antennen), Brud (lila Figur mit Flügeln) und Oren (rosa Charakter mit Katzenohren). Jede Figur besitzt einen eigenen Timer:
@@ -45,3 +47,4 @@ Mit der Zeit kippt jedoch die Stimmung: Die vormals niedlichen Charaktere verän
 - Kreative Sounds und Animationen, die deine Vorstellung von „Musikspiel" erweitern.
 
 Sprunki Interactive BETA ist damit ideal für Spieler, die Experimente mögen: Du beobachtest, regelst nach, lässt los – und schaust, wie sich aus Ordnung langsam kontrolliertes Chaos entwickelt.
+

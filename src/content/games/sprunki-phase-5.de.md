@@ -9,6 +9,7 @@ tags:
   - sprunki phase 5
   - sprunki phase 5 online
 score: 4.0/5  (604 votes)
+releaseDate: 2025-12-04
 ---
 
 ### Einführung in Sprunki Phase 5
@@ -32,3 +33,4 @@ Die erweiterte Soundbibliothek von Sprunki Phase 5 bietet dir mehr Vielfalt beim
 ### Neue Sounds und Effekte freischalten
 
 Mit deinem Fortschritt in Sprunki Phase 5 schaltest du nach und nach weitere unheimliche Sounds frei und erweiterst damit deine Klangpalette. Neue Charaktere bringen eigene Audioelemente mit – von tief verzerrten Bässen über geisterhafte Summtöne bis hin zu nervös flackernden Synths. Damit kannst du vom subtilen Spannungstrack bis zum vollen Horror-Soundscape alles ausprobieren und deinen eigenen Stil finden.
+

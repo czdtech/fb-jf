@@ -11,8 +11,10 @@ thumbnail: /new-images/thumbnails/sprunki-phase-1.png
 tags:
   - sprunki phase 1
 score: 4.3/5  (96 votes)
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 Sprunki Phase 1 führt dich zurück an den Anfang der Sprunki-Reihe. Du erlebst, wie die typische Incredibox-Mechanik erstmals im Sprunki-Stil umgesetzt wurde – mit einer frischen Figuren-Crew, eingängigen Sounds und einer klaren, farbenfrohen Optik.
 
 ### Was macht Sprunki Phase 1 besonders?
@@ -41,3 +43,4 @@ Einfacher geht es wirklich nicht:
 ### Fazit
 
 Sprunki Phase 1 ist damit ein idealer Startpunkt ins Sprunki-Universum – sowohl für neue Spieler als auch für Fans, die die Wurzeln der Reihe fühlen wollen.
+

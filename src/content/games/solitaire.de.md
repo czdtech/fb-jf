@@ -13,6 +13,7 @@ score: 4.8/5  (1242 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 "Solitaire" ist ein klassisches Einzelspieler-Kartenspiel. Du sortierst Karten nach festen Regeln in Reihenfolgen und Farben, um sie nach und nach auf die Ablagestapel zu verschieben und das Tableau vollständig zu leeren. Das Spiel ist leicht zu verstehen, belohnt aber vorausschauende Planung und clevere Zugabfolgen.
@@ -25,6 +26,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 4.  **Ablagestapel clever füllen:** Lege Karten auf die Ablagestapel, wenn es deine Möglichkeiten auf dem Tableau nicht einschränkt – manchmal lohnt es sich, eine Karte noch kurz im Spiel zu behalten.
 5.  **Ablagestapel/Waste sinnvoll einsetzen:** Nutze Karten auf dem Ablagestapel (Waste), um fehlende Glieder in Sequenzen zu ergänzen, statt sie achtlos zu überspringen.
 
+<!-- i18n:section:how-to-play -->
 ### So spielst du
 
 - **Karten bewegen:** Klicke und ziehe Karten auf erlaubte Positionen im Tableau oder auf die Ablagestapel.
@@ -32,6 +34,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - **Auto-Move:** In vielen digitalen Versionen kannst du Karten doppelklicken, damit sie automatisch auf einen passenden Ablagestapel gelegt werden.
 - **Rückgängig:** Einige Varianten bieten eine Undo-Funktion, mit der du Fehlzüge zurücknehmen kannst.
 
+<!-- i18n:section:faq -->
 ### Häufig gestellte Fragen
 
 1.  **F: Was sind Ablagestapel?**
@@ -49,3 +52,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 4.  **F: Wie funktioniert die Punktewertung?**
     
     **A:** Je nach Version bekommst du Punkte für abgelegte Karten, schnelle Spielzeit und wenige Züge; Hinweise oder häufiges Rückgängig-Machen können die Punktzahl verringern.
+

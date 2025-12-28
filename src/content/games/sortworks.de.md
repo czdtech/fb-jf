@@ -13,10 +13,12 @@ score: 4.0/5  (1889 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Detaillierte Spieleinführung
 
 SortWorks verknüpft visuelles Sortieren mit strengen Vorgaben für Behälter – etwa nach Farbe, Form oder Typ. Die Objekte rollen auf Förderbändern heran und du musst sie in die richtigen Behälter leiten. Pufferplätze helfen dir, Engpässe zu entschärfen. In späteren Leveln steigt die Geschwindigkeit und es kommen zusätzliche, schwerer zu unterscheidende Kategorien hinzu.
 
+<!-- i18n:section:tips -->
 ### Spielstrategie & Walkthrough
 
 1.  **Regeln priorisieren:** Wende zuerst die wichtigsten Regeln an (z. B. gefährlich vs. ungefährlich) und verfeinere dann mit Unterkategorien.
@@ -25,20 +27,26 @@ SortWorks verknüpft visuelles Sortieren mit strengen Vorgaben für Behälter �
 4.  **Fehlerkosten bedenken:** Wenn du unsicher bist, ist es oft besser, ein Objekt kurz zwischenzulagern oder zu überspringen, statt es falsch einzusortieren.
 5.  **Blickführung trainieren:** Schau frühzeitig ein Stück weiter das Band hinunter, statt nur auf das nächste Objekt zu starren – so planst du besser voraus.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Ziehe oder tippe Objekte in die passenden Behälter. Über das UI kannst du pausieren, neu starten oder Hinweise aktivieren, die dir die richtigen Ziele markieren.
 
+<!-- i18n:section:faq -->
 ### Häufig gestellte Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:sortworks:i-jam-belts-b1436b35 -->
 - **F: Meine Förderbänder verstopfen ständig.**
   
   **A:** Du nutzt deine Pufferplätze zu stark aus. Sortiere zuerst eine Serie einfacher Objekte weg, um wieder Platz zu schaffen, bevor du dich um schwierige Fälle kümmerst.
 
+<!-- i18n:faq:id=faq:sortworks:similar-icons-confuse-me-62335c3e -->
 - **F: Ähnliche Symbole verwirren mich.**
   
   **A:** Präge dir für jede Kategorie zwei bis drei auffällige Merkmale ein (z. B. Grundform, Kanten, Hauptfarbe) und sortiere zuerst nur nach diesen Ankern.
 
+<!-- i18n:faq:id=faq:sortworks:do-streaks-matter-a57f4782 -->
 - **F: Bringen Kombos wirklich etwas?**
   
   **A:** Ja, Serien sauber sortierter Objekte erhöhen deinen Score-Multiplikator. Füttere ihn, indem du gezielt einfache Items hintereinander abarbeitest.
+

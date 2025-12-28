@@ -9,6 +9,7 @@ tags:
   - sprunki craft
   - sprunki craft online
 score: 4.9/5  (724 votes)
+releaseDate: 2025-12-04
 ---
 
 ### Einführung in Sprunki Craft
@@ -55,3 +56,4 @@ Sprunki Craft lässt sich intuitiv mit Maus oder Touch steuern. Egal, ob du mit 
 ### Fazit
 
 Sprunki Craft ist eine liebevolle Mischung aus Minecraft-Stimmung und Incredibox-Musikbaukasten. Du bekommst eine kreative Plattform, auf der du mit vertrauten Figuren spielerisch Musik erfindest. Perfekt, wenn du Blockwelten liebst und gleichzeitig Lust auf eigene kleine Soundexperimente hast.
+

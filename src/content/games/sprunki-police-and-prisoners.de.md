@@ -11,6 +11,7 @@ thumbnail: /new-images/thumbnails/sprunki-police-and-prisoners.png
 tags:
   - sprunki police and prisoners
 score: 3.9/5  (325 votes)
+releaseDate: 2025-12-04
 ---
 
 ### Was ist Sprunki Police and Prisoners?
@@ -36,3 +37,4 @@ Sprunki Police and Prisoners ist ein Mod für die Incredibox-/Sprunki-Reihe, der
 Sprunki Police and Prisoners eignet sich für alle, die das Sprunki-Prinzip mögen, aber Lust auf einen anderen, künstlerischeren Stil haben – irgendwo zwischen Musikbaukasten, abstrakter Kunst und Mini-Hörspiel.
 
 Tauche ein in diese skurrile Reise – Sprunki Police and Prisoners verbindet Musikkreation mit einer lebhaften Besetzung visuell bezaubernder Charaktere und reichhaltigen, immersiven Klanglandschaften. Lass deiner Kreativität freien Lauf!
+

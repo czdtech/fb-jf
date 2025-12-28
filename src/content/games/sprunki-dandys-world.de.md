@@ -11,6 +11,7 @@ thumbnail: /new-images/thumbnails/sprunki-dandys-world.png
 tags:
   - sprunki dandy
 score: 4.4/5  (304 votes)
+releaseDate: 2025-12-04
 ---
 
 ### Einführung in Sprunki Dandy's World
@@ -30,6 +31,7 @@ Sprunki Dandy's World ist kinderleicht zu spielen – wenn du einmal angefangen 
 - **Performance anschauen:** Während du Sounds hinzufügst, beginnt deine Figur zu tanzen, zu reagieren und die Musik visuell zu interpretieren.
 - **Dein Werk teilen:** Gefällt dir das Ergebnis, kannst du es Freunden zeigen oder online teilen und dir Feedback holen.
 
+<!-- i18n:section:tips -->
 ### Tipps für deinen Dandy-Track
 
 - **Mut zur Kombination:** Probiere ungewöhnliche Instrument- und Effektkombos aus – oft entstehen gerade daraus die spannendsten Ideen.
@@ -40,3 +42,4 @@ Sprunki Dandy's World ist kinderleicht zu spielen – wenn du einmal angefangen 
 ### Fazit
 
 Sprunki Dandy's World verbindet Musik, Visuals und ein wenig Story zu einem eigenen kleinen Universum. Du gestaltest nicht nur einen Track, sondern eine komplette Szene inklusive Figur, Bewegung und Stimmung. Ideal, wenn du Lust hast, dich kreativ auszutoben, ohne in komplexe Musiksoftware einsteigen zu müssen.
+

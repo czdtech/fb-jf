@@ -12,6 +12,7 @@ tags:
   - sprunki maker (big update)
   - sprunki maker (big update) online
 score: 4.8/5  (700 votes)
+releaseDate: 2025-12-04
 ---
 
 ### Einführung in Sprunki Maker (BIG update)
@@ -33,3 +34,4 @@ Kurz gesagt: Sprunki Maker ist eine DIY-Werkstatt für Sprunki-Avatare. Du verab
 ### Auf den Punkt gebracht
 
 Sprunki Maker (BIG update) ist dein Werkzeug, um aus der Masse herauszustechen. Gestalte dir einen Sprunki, der zu dir passt, probiere verschiedene Looks aus und kreiere die Figur, die dich in der Sprunki-Welt am besten repräsentiert.
+

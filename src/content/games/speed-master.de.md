@@ -12,10 +12,12 @@ score: 4.0/5  (1811 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Detaillierte Spieleinführung
 
 Speed Master ist ein minimalistisches Reaktionsspiel, das dein Timing und deine Konzentration bis an die Grenze bringt. Signale gleiten über den Bildschirm, und du musst genau in dem Moment tippen, in dem sie mit der Zielmarkierung überlappen. Mit jeder Stufe werden die Bewegungen schneller, die Rhythmen trickreicher und mehrere Bahnen gleichzeitig fordern dich heraus – frühe Zuckungen und zu späte Klicks werden sofort bestraft.
 
+<!-- i18n:section:tips -->
 ### Spielstrategie & Walkthrough
 
 1.  **Im Takt zählen:** Entwickle einen inneren Zählrhythmus und tippe zum Beat, statt dich nur auf deine Augen zu verlassen.
@@ -24,20 +26,26 @@ Speed Master ist ein minimalistisches Reaktionsspiel, das dein Timing und deine 
 4.  **Zwei Bahnen gleichzeitig im Blick:** Richte deinen Fokus zwischen die Bahnen, statt nur auf eine Seite zu starren, so kannst du Eingaben auf mehreren Spuren besser lesen.
 5.  **Rhythmus nach Fehlern neu finden:** Nach einem Fehlversuch kurz durchatmen, Haltung korrigieren und dann wieder ruhig in den Takt einsteigen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
-- Tippe oder drücke eine Taste, sobald die Signale die Markierungen erreichen. Bei Mehrspur-Inputs werden meist `Pfeiltasten` oder `WASD` genutzt (je nach Version). Pausieren oder neu starten kannst du über die UI.
+- Tippe oder drücke eine Taste, sobald die Signale die Markierungen erreichen. Bei Mehrspur-Inputs werden meist Pfeiltasten oder WASD genutzt (je nach Version). Pausieren oder neu starten kannst du über die UI.
 
+<!-- i18n:section:faq -->
 ### Häufig gestellte Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:speed-master:im-consistently-early-how-do-ba457e23 -->
 - **F: Ich tippe ständig zu früh. Was kann ich tun?**
   
   **A:** Baue bewusst eine Mini-Verzögerung in deinen inneren Zählrhythmus ein und orientiere dich am exakten Überlappungspunkt statt an der Bewegung des Balkens.
 
+<!-- i18n:faq:id=faq:speed-master:multilane-overwhelms-me-d2d7a3f5 -->
 - **F: Mehrere Bahnen überfordern mich.**
   
   **A:** Versuche, deinen Blick etwas weicher zu machen und in die Mitte zwischen die Spuren zu legen. Die Bahnen nimmst du dann eher peripher wahr, was bei schnellen Mustern hilft.
 
+<!-- i18n:faq:id=faq:speed-master:does-fps-matter-c4d00307 -->
 - **F: Spielt die Bildrate eine Rolle?**
   
   **A:** Ja, ein stabiles FPS-Gefühl hilft beim Timing. Schließe möglichst andere Programme im Hintergrund, wenn dir das Timing ungleichmäßig vorkommt.
+

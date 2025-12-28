@@ -11,6 +11,7 @@ thumbnail: /new-images/thumbnails/sprunki-eggs-mix.png
 tags:
   - sprunki egg
 score: 3.9/5  (125 votes)
+releaseDate: 2025-12-04
 ---
 
 ### Was macht Sprunki Egg's Mix besonders?
@@ -42,3 +43,4 @@ Du bewegst dich in einer farbenfrohen Welt voller Sprunki-Eier und versuchst, si
 ### Fazit
 
 Sprunki Egg's Mix ist damit ein optisch verspieltes, aber taktisch anspruchsvolles Puzzlespiel – ideal für alle, die entspannte Logikrätsel mit einem Hauch Chaos lieben.
+

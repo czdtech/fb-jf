@@ -9,6 +9,7 @@ tags:
   - sprunkgerny
   - sprunkgerny online
 score: 4.9/5  (724 votes)
+releaseDate: 2025-12-04
 ---
 
 ### Einführung in Sprunkgerny
@@ -35,3 +36,4 @@ Kurz gesagt: Sprunkgerny ist der wahnsinnige Cousin von Sprunki. Es wirft den Ho
 Wenn du ein Musikerlebnis suchst, das sich nicht an Regeln hält, ist Sprunkgerny ideal. Das Spiel bricht mit den Konventionen klassischer Rhythmus-Games, ermutigt dich, Fehler zuzulassen, mit Zufall zu spielen und einfach neugierig zu experimentieren. So kannst du beim Herumprobieren ganz nebenbei kreative Ideen entdecken.
 
 Egal, ob du schon jede Menge Musikspiele kennst oder zum ersten Mal Beats baust: In Sprunkgernys verrücktem Klanglabor findest du deinen eigenen Flow. Bist du bereit für dieses abgefahrene Audio-Feuerwerk? Tauche in die Welt von Sprunkgerny ein und lass deinen Rhythmus komplett ausrasten.
+
