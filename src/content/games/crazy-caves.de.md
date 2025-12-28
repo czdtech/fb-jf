@@ -18,6 +18,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 *Crazy Caves* ist ein schnelles, actiongeladenes Arcade-Spiel, das deine
@@ -31,6 +32,7 @@ fallenden Edelsteine und Goldstücke einzusammeln. Mit dem verdienten Geld
 verbesserst du deine Ausrüstung und versuchst, in den chaotischen Höhlen immer
 länger durchzuhalten.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  Überleben hat Priorität: Wichtigstes Ziel ist, nicht getroffen zu werden.
@@ -50,6 +52,7 @@ länger durchzuhalten.
     Beginne sie früh anzugreifen, solange noch genug Platz zum Ausweichen
     bleibt.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 *   Bewegen: Ziehe den Wagen mit Maus oder Finger am unteren Bildschirmrand
@@ -57,17 +60,22 @@ länger durchzuhalten.
 *   Spitzhacke werfen: Klicke oder tippe auf den Bildschirm, um eine Spitzhacke
     nach oben zu schleudern.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:crazy-caves:q-what-happens-if-a-3ec02fca -->
 *   F: Was passiert, wenn mich ein Stein trifft?
     *   A: Der Lauf ist sofort vorbei, du startest einen neuen Versuch und
         nimmst nur deine Upgrades mit.
 
+<!-- i18n:faq:id=faq:crazy-caves:q-what-should-i-focus-eac7837a -->
 *   F: Welche Upgrades sind am wichtigsten?
     *   A: Anfangs ist zusätzlicher Schaden pro Spitzhacke entscheidend, damit
         du gefährliche Steine schneller entfernst. Danach sind
         Einkommens-Upgrades ein guter nächster Schritt.
 
+<!-- i18n:faq:id=faq:crazy-caves:q-how-do-i-deal-a1e317c1 -->
 *   F: Wie gehe ich mit sehr großen Brocken um?
     *   A: Bleibe mobil, wirf mehrere Spitzhacken schnell hintereinander und
         fange früh an, solche Brocken zu bearbeiten, bevor sie zu nah kommen.
+

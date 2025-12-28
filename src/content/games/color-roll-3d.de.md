@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 In *Color Roll 3D* erhältst du mehrere übereinanderliegende Farbbahnen, die du
@@ -24,6 +25,7 @@ Die Schwierigkeit liegt in der Reihenfolge: Später ausgelegte Bahnen können
 frühere teilweise überdecken – nur mit der richtigen Sequenz entsteht das
 gewünschte Muster.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  Basisfarbe zuerst: Beginne meist mit der tiefsten bzw. flächigsten Farbe,
@@ -39,6 +41,7 @@ gewünschte Muster.
     wenn sich dein Muster sichtbar vom Ziel entfernt, stimmt die Reihenfolge
     meist nicht.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Ziehe eine Bahn mit der Maus oder per Touch entlang ihrer vorgesehenen
@@ -46,19 +49,24 @@ gewünschte Muster.
 - Nutze Rückgängig/Reset, sofern verfügbar, um Fehlversuche schnell zu
   korrigieren.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:color-roll-3d:i-always-end-with-one-47d606aa -->
 - Am Ende bleibt immer ein Feld frei – wieso?
   
   In der Regel stimmt deine Reihenfolge nicht. Lege zuerst Basisflächen, dann
   kleinere Detailstreifen, damit nichts blockiert wird.
 
+<!-- i18n:faq:id=faq:color-roll-3d:are-multiple-orders-valid-5e255e74 -->
 - Gibt es mehrere richtige Lösungen?
   
   Manche Level erlauben mehrere Sequenzen, die passen. In den meisten Fällen
   gibt es jedoch nur wenige sinnvolle Reihenfolgen.
 
+<!-- i18n:faq:id=faq:color-roll-3d:is-there-a-hint-system-23e35ede -->
 - Gibt es Hinweise?
   
   Viele Versionen bieten ein Hinweissystem. Nutze es sparsam, damit der
   Aha-Effekt erhalten bleibt.
+

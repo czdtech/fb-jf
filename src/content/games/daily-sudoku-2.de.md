@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 *Daily Sudoku* liefert dir jeden Tag ein neues, klassisches Sudoku. Ziel ist,
@@ -24,6 +25,7 @@ ein 9×9-Gitter mit Ziffern zu füllen, sodass in jeder Zeile, jeder Spalte und
 in jedem der neun 3×3-Boxen alle Ziffern von 1 bis 9 genau einmal vorkommen.
 Reine Logik, keine Mathematik – gefragt sind Geduld und Konzentration.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  Grundregel: Die Ziffern 1–9 dürfen in Zeile, Spalte und Box jeweils nur
@@ -40,6 +42,7 @@ Reine Logik, keine Mathematik – gefragt sind Geduld und Konzentration.
     nur genau einmal, muss sie in dieses Feld, auch wenn dort mehrere
     Kandidaten stehen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 *   Feld wählen: Klicke ein leeres Feld im 9×9-Gitter an.
@@ -48,17 +51,22 @@ Reine Logik, keine Mathematik – gefragt sind Geduld und Konzentration.
     "Notiz"-Modus wechseln; im Notizmodus erscheinen kleine Kandidaten.
 *   Radiergummi: Entferne Zahlen oder Notizen mit dem Lösch-Tool.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:daily-sudoku-2:q-do-i-need-to-99fa486b -->
 *   F: Muss ich gut in Mathe sein?
     *   A: Nein, Sudoku ist ein Logik- und Mustererkennungsrätsel, keine
         Rechenaufgabe.
 
+<!-- i18n:faq:id=faq:daily-sudoku-2:q-what-happens-if-i-6503c463 -->
 *   F: Was passiert bei einem Fehler?
     *   A: Die meisten digitalen Versionen heben Konflikte sofort hervor (oft
         in Rot), sodass du sie direkt korrigieren kannst.
 
+<!-- i18n:faq:id=faq:daily-sudoku-2:q-why-should-i-use-44fd4d40 -->
 *   F: Wozu brauche ich die Notizfunktion?
     *   A: Bei leichten Rätseln kommst du oft ohne aus. Bei mittleren und
         schweren Sudokus sind Notizen jedoch praktisch unverzichtbar, um
         Kandidaten systematisch zu verwalten.
+

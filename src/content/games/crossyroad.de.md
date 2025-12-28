@@ -10,9 +10,11 @@ thumbnail: /new-images/thumbnails/crossyroad.jpg
 tags:
   - crossy road
 score: 4.8/5  (1104 votes)
+releaseDate: 2025-12-04
 ---
 
 
+<!-- i18n:section:introduction -->
 Crossy Road ist ein äußerst beliebtes und süchtig machendes Endlos-Arcade-Spiel
 von Hipster Whale. Dein Ziel ist simpel: Du überquerst eine Abfolge
 vielbefahrener Straßen, Flüsse und Bahnstrecken so lange wie möglich, ohne
@@ -21,6 +23,7 @@ freischaltbarer Charaktere haben das Spiel weltweit bekannt gemacht. Name und
 Konzept sind eine Anspielung auf den Klassiker-Witz "Why did the chicken cross
  the road?".
 
+<!-- i18n:section:how-to-play -->
 ### So spielst du
 
 -  **Bewegung:** Du steuerst deine Figur, indem du tippst, um eine Spur nach
@@ -62,6 +65,7 @@ Konzept sind eine Anspielung auf den Klassiker-Witz "Why did the chicken cross
 
 ---
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
 **F: Wie bekomme ich neue Charaktere?**  
@@ -78,3 +82,4 @@ Konzept sind eine Anspielung auf den Klassiker-Witz "Why did the chicken cross
 > Das passiert, wenn du zu lange auf einer Stelle verharrst oder zu weit
 > zurückläufst. Das Spiel will dich dazu bringen, immer weiter nach vorne zu
 > spielen.
+

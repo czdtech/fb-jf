@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Übersicht
 
 *Crescent Solitaire* wird mit zwei Kartendecks gespielt. 16 Tableau-Stapel
@@ -32,6 +33,7 @@ mit einem Redeal von jedem Tableau-Stapel die unterste Karte nach oben rotieren
 aufeinanderfolgend sind, darfst du Karten (außer dem Basis-Ass/-König) zwischen
 ihnen hin- und herschichten.
 
+<!-- i18n:section:how-to-play -->
 ### So spielst du
 
 - Lege passende offene Karten vom Tableau auf die Fundamente – in Farbe und
@@ -43,6 +45,7 @@ ihnen hin- und herschichten.
 - Bist du festgefahren, nutze ein Redeal, um von jedem Tableau-Stapel die
   unterste Karte nach oben zu bringen (bis zu drei Mal pro Spiel).
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Maus/Touch: Karten anklicken oder ziehen; Buttons für Undo/Hint/Redeal je
@@ -61,20 +64,26 @@ ihnen hin- und herschichten.
 - Nach einem Redeal solltest du alle Stapel neu durchsuchen – oft rücken
   entscheidende Karten plötzlich nach oben.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:crescent-solitaire:how-many-redeals-are-allowed-1aabe151 -->
 - F: Wie viele Redeals habe ich?
   
   A: In der Standardvariante von Crescent stehen dir drei Redeals (also vier
   Durchläufe insgesamt) zur Verfügung.
 
+<!-- i18n:faq:id=faq:crescent-solitaire:can-empty-spaces-be-filled-58017c44 -->
 - F: Kann ich leere Tableau-Felder auffüllen?
   
   A: Nein, freie Plätze bleiben leer – du musst mit den verbleibenden Stapeln
   auskommen.
 
+<!-- i18n:faq:id=faq:crescent-solitaire:what-is-foundation-transfer-c079b0e6 -->
 - F: Was bedeutet "Foundation Transfer" genau?
   
   A: Wenn Ass- und König-Fundament einer Farbe direkt aufeinanderfolgend sind,
   darfst du beliebig viele Karten (außer dem Basis-Ass/-König) vom einen auf
   das andere Fundament verschieben, um den Aufbau fortzusetzen.
+
+

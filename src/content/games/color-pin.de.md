@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 In *Color Pin* schießt du Pins auf einen rotierenden Kreis. Du darfst weder
@@ -23,6 +24,7 @@ bereits steckende Pins treffen noch – in Farbmodi – auf das falsche Segment
 zielen. Drehgeschwindigkeit und -richtung ändern sich immer wieder, sodass gutes
 Timing und Geduld wichtiger sind als wildes Tippen.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  Rotationsrhythmus erkennen: Beobachte zunächst mindestens eine komplette
@@ -38,25 +40,31 @@ Timing und Geduld wichtiger sind als wildes Tippen.
 5.  Rhythmus nach Fehlern neu finden: Nach einem Fast-Fail nimm kurz Tempo
     raus, beobachte eine Umdrehung und steige dann wieder mit ruhigem Takt ein.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Tippen/Klicken, um einen Pin in Richtung Kreis abzufeuern; in manchen
   Versionen kannst du Halten oder gedrückt halten, um Winkel zu variieren.
 - Pause/Neustart über die Benutzeroberfläche.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:color-pin:i-keep-colliding-with-pins-51e760a1 -->
 - Ich pralle ständig an vorhandenen Pins ab – warum?
   
   Meist bist du aus dem Takt geraten. Schau dir eine volle Umdrehung an und
   versuche, deine Schüsse wieder im gleichen zeitlichen Abstand zu setzen.
 
+<!-- i18n:faq:id=faq:color-pin:does-speed-change-midlevel-d7a54f14 -->
 - Ändert sich die Geschwindigkeit im Level?
   
   Oft ja – rechne mit plötzlichen Beschleunigungen oder sogar Richtungswechseln
   und passe deinen Rhythmus an.
 
+<!-- i18n:faq:id=faq:color-pin:any-trick-for-color-segments-a045face -->
 - Tipp für Farbsegmente?
   
   Schieße nur dann, wenn dein Zielsegment exakt unter dem Pin ist. Erzwungene
   Schüsse führen fast garantiert zu Kollisionen.
+

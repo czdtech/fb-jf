@@ -15,6 +15,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Übersicht
 
 *Daily Crossword* bietet dir täglich ein neues Crossword nach gängigen
@@ -22,6 +23,7 @@ US-Regeln: Du füllst waagerechte (Across) und senkrechte (Down) Einträge so,
  dass jeder Buchstabe durch ein kreuzendes Wort überprüft wird. Viele Hosts
 zeigen Timer, Hinweisliste und Tools zum Prüfen oder Aufdecken von Einträgen.
 
+<!-- i18n:section:how-to-play -->
 ### So spielst du
 
 - Wähle einen Hinweis oder ein Feld aus und tippe die Antwort-Buchstaben ein;
@@ -30,6 +32,7 @@ zeigen Timer, Hinweisliste und Tools zum Prüfen oder Aufdecken von Einträgen.
   später zu langen Einträgen zurück.
 - Je nach Plattform gibt es Tagesserien, Statistiken und Bestenlisten.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - A–Z tippen; Pfeiltasten zum Navigieren; Backspace zum Löschen; Enter/Tab
@@ -41,3 +44,4 @@ zeigen Timer, Hinweisliste und Tools zum Prüfen oder Aufdecken von Einträgen.
   Kreuzungen.
 - Nutze Prüf-Tools sparsam, besonders wenn Zeiten oder Serien getrackt
   werden.
+

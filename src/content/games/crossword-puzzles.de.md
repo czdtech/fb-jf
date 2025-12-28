@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Übersicht
 
 *Crossword Puzzles* enthält thematische Crossword-Gitter nach gängigen
@@ -24,6 +25,7 @@ Buchstabe von einem kreuzenden Wort überprüft wird. Die Themen verbinden meist
 mehrere lange Antworten in einem Rätsel. Viele Hosts bieten tägliche neue
 Rätsel und ein Archiv.
 
+<!-- i18n:section:how-to-play -->
 ### So spielst du
 
 - Wähle einen Hinweis aus und tippe die passende Antwort in das zugehörige
@@ -31,6 +33,7 @@ Rätsel und ein Archiv.
 - Themenantworten sind oft länger und folgen einem gemeinsamen Motiv – wenn du
   dieses erkennst, fügen sich weitere Themeneinträge leichter.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - A–Z tippen, Pfeiltasten zum Navigieren, Backspace zum Löschen.
@@ -46,14 +49,19 @@ Rätsel und ein Archiv.
 - Nutze Check/Reveal-Funktionen sparsam – vor allem, wenn Zeiten oder
   Statistiken erfasst werden.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:crossword-puzzles:are-the-puzzles-timed-3fdc09d2 -->
 - F: Sind die Rätsel zeitlich begrenzt?
   
   A: Viele Seiten bieten optionale Timer und Statistiken; prüfe die
   Einstellungen.
 
+<!-- i18n:faq:id=faq:crossword-puzzles:can-i-play-past-themes-10b18b21 -->
 - F: Kann ich ältere Themen spielen?
   
   A: Häufig gibt es ein Archiv, in dem du vergangene Rätsel jederzeit nachholen
   kannst.
+
+

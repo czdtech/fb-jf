@@ -13,6 +13,7 @@ tags:
   - dandyrunki retake
   - dandyrunki retake online
 score: 3.7/5  (255 votes)
+releaseDate: 2025-12-04
 ---
 
 ### Was macht Dandyrunki Retake so spaßig?
@@ -58,3 +59,4 @@ In Dandyrunki Retake kommst du ohne lange Erklärungen direkt ins Spiel und
 kannst nach Belieben mit Rhythmen und Melodien spielen. Ob du nur ein paar
 Minuten Zeit hast oder länger experimentieren möchtest – diese Remix-Version
 bietet dir jede Menge kreativen, musikalischen Spaß.
+

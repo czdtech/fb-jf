@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 *Confront* versetzt dich in schnelle, abwechslungsreiche Gefechte, in denen
@@ -29,6 +30,7 @@ Du balancierst Intuition und Genauigkeit in unterschiedlichen, actionreichen
 Umgebungen und verbesserst nach und nach dein Gefühl für Timing, Positionierung
 und Kopfschüsse.
 
+<!-- i18n:section:how-to-play -->
 ### So spielst du
 
 -   Bewege deine Figur mit der Maus bzw. richte das Fadenkreuz auf Gegner aus.
@@ -49,3 +51,4 @@ und Kopfschüsse.
     Gegnern schwerer, dich zu treffen.
 -   Muster merken: Gegner erscheinen meist in ähnlichen Wellen – merke dir
     spawns und nutze die Bullet-Time, um dich darauf vorzubereiten.
+

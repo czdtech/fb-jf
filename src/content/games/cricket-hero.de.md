@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 *Cricket Hero* ist ein einfaches, aber äußerst süchtig machendes
@@ -27,6 +28,7 @@ zu timen, dass du ihn sauber triffst und Runs sammelst. Verfehlst du den Ball
 oder wirst "bowled", ist dein Innings vorbei. Wie viele Runs schaffst du, um
 wirklich zum Cricket Hero zu werden?
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  Auf den Ball schauen: Das wichtigste Cricket-Grundgesetz gilt auch hier –
@@ -41,23 +43,29 @@ wirklich zum Cricket Hero zu werden?
     anspruchsvoller. Bleib konzentriert, um mit dem Tempo und den Variationen
     der Bowler mitzuhalten.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 *   Schlag ausführen: Klicke mit der linken Maustaste oder tippe auf den
     Bildschirm, um den Schläger zu schwingen. Das Timing deines Klicks ist
     deine einzige Kontrolle – nutze sie gut.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:cricket-hero:q-how-do-i-score-e3ee1485 -->
 *   F: Wie erziele ich Runs?
     *   A: Triff den Ball mit deinem Schläger. Je besser das Timing, desto
         mehr Runs erhältst du mit einem Schlag (bis hin zu 4ern und 6ern).
 
+<!-- i18n:faq:id=faq:cricket-hero:q-how-does-the-game-f20a1993 -->
 *   F: Wann ist das Spiel vorbei?
     *   A: Wenn du "bowled" wirst, also der Ball deine Stumps trifft. Du hast
         pro Partie nur eine begrenzte Anzahl an Wickets/Leben.
 
+<!-- i18n:faq:id=faq:cricket-hero:q-are-there-different-types-62d850aa -->
 *   F: Gibt es verschiedene Bowler-Typen?
     *   A: Ja, mit steigender Run-Zahl triffst du auf unterschiedliche Bowler
         mit variierenden Geschwindigkeiten und Stilen, was den Schwierigkeits-
         grad erhöht.
+

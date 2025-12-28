@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 *Cooking Mania* destilliert Restaurant-Stress in kurze Level: Du bereitest
@@ -24,6 +25,7 @@ Zutaten vor, setzt Gerichte in der richtigen Reihenfolge zusammen und servierst
 Pfannen und schnellerer Vorbereitung kannst du Bestellungen in Serie abarbeiten
  und Bonusmünzen verdienen.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  Vorratsproduktion: Bereite beliebte Gerichte oder Basiszutaten in kleinen
@@ -39,6 +41,7 @@ Pfannen und schnellerer Vorbereitung kannst du Bestellungen in Serie abarbeiten
 5.  Arbeitswege optimieren: Ordne Zubereitungsflächen so, dass Mauswege kurz
     bleiben und du nicht unnötig oft über den Bildschirm pendeln musst.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Tippen/Klicken, um Zutaten vorzubereiten.
@@ -46,20 +49,25 @@ Pfannen und schnellerer Vorbereitung kannst du Bestellungen in Serie abarbeiten
 - Gäste per Tipp/Klick bedienen, sobald das Gericht fertig ist.
 - Zwischen den Leveln im Shop Upgrades kaufen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:cooking-mania:i-burn-items-how-to-6c31ecde -->
 - Ich verbrenne ständig Essen – wie verhindere ich das?
   
   Starte nicht zu viele Portionen gleichzeitig und achte auf Audio-/Visuelle
   Hinweise für den perfekten Garzeitpunkt. Nimm Speisen sofort herunter, wenn
   sie fertig sind.
 
+<!-- i18n:faq:id=faq:cooking-mania:which-upgrades-are-best-early-7cbbb062 -->
 - Welche Upgrades am Anfang?
   
   Zusätzliche Pfannen/Grills und schnellere Vorbereitung lohnen sich am
   meisten. Dekorations-Upgrades können warten, bis dein Einkommen stabil ist.
 
+<!-- i18n:faq:id=faq:cooking-mania:can-i-pause-54d738e5 -->
 - Kann ich das Spiel pausieren?
   
   Viele Level erlauben kein Pausieren mitten im Ansturm – plane deine
   Upgrades und Pausen zwischen den Runden.
+

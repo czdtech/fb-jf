@@ -15,6 +15,7 @@ score: 5.0/5  (1486 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Überblick
 
 Descent ist ein vertikales Geschicklichkeitsspiel: Du fällst einen Schacht
@@ -23,6 +24,7 @@ wie Stacheln und beweglichen Fallen auszuweichen. Viele Browserversionen nutzen
 eine Ein- oder Zwei-Tasten-Steuerung, mit der du im richtigen Moment die Wand
 wechselst, während die Schwerkraft dich nach unten zieht.
 
+<!-- i18n:section:how-to-play -->
 ### So spielst du
 
 - Tippe/klicke, um von der aktuellen Wand zur gegenüberliegenden Seite zu
@@ -32,6 +34,7 @@ wechselst, während die Schwerkraft dich nach unten zieht.
 - Sammelobjekte bringen je nach Version Punkte oder schalten kosmetische Inhalte
   frei.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Maus/Touch: Tippen oder Klicken, um zu springen; manche Versionen verwenden
@@ -47,12 +50,16 @@ wechselst, während die Schwerkraft dich nach unten zieht.
 - Nutze kurze "Anhalte"-Momente an der Wand, um die nächsten ein bis zwei
   Bildschirme vorauszuplanen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:descent:is-progress-endless-or-levelba-a930a1f6 -->
 - **F: Ist der Fortschritt endlos oder levelbasiert?**  
   **A:** Das hängt vom jeweiligen Host ab; einige Versionen sind endlose
   Highscore-Jagden, andere arbeiten mit klaren Leveln und Checkpoints.
 
+<!-- i18n:faq:id=faq:descent:are-there-powerups-0fea9ab4 -->
 - **F: Gibt es Power-ups?**  
   **A:** In manchen Varianten gibt es Extras wie Schilde oder Zeitlupe; welche
   Power-ups verfügbar sind, entscheidet der jeweilige Anbieter des Spiels.
+

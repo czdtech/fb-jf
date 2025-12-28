@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 *Daily Solitaire* bietet dir jeden Tag ein neues Klondike-Solitaire-Layout.
@@ -25,6 +26,7 @@ König. Jede Tagespartie ist gewinnbar angelegt und eignet sich ideal, um deine
 Fähigkeiten zu testen, Fortschritte nachzuverfolgen und kurz in klassische
 Kartentaktik einzutauchen.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  Ziel: Bringe alle 52 Karten für jede Farbe in aufsteigender Reihenfolge von
@@ -38,6 +40,7 @@ Kartentaktik einzutauchen.
 4.  Talon & Waste: Wenn im Tableau nichts mehr geht, ziehe aus dem Talon. Nutze
     neue Karten sowohl fürs Tableau als auch direkt für die Ablagen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 *   Karten ziehen: Klicke und ziehe Karten oder Sequenzen zwischen den Stapeln.
@@ -46,18 +49,23 @@ Kartentaktik einzutauchen.
 *   Auto-Move: In vielen Versionen schickt ein Doppelklick Karten automatisch
     auf eine mögliche Ablage.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:daily-solitaire:q-is-the-daily-puzzle-4d76bbae -->
 *   F: Ist das Tagesrätsel immer lösbar?
     *   A: Ja, die meisten Daily-Solitaire-Versionen nutzen Deals mit
         mindestens einem Lösungsweg – allerdings kann dieser durchaus knifflig
         sein.
 
+<!-- i18n:faq:id=faq:daily-solitaire:q-what-is-the-difference-0e309ec5 -->
 *   F: Unterschied zwischen "Draw 1" und "Draw 3"?
     *   A: Bei "Draw 1" ziehst du eine Karte auf einmal – das ist meist
         einfacher. Bei "Draw 3" kommen drei Karten auf den Waste, von denen nur
         die oberste spielbar ist – deutlich schwerer.
 
+<!-- i18n:faq:id=faq:daily-solitaire:q-can-i-play-previous-f5b5cc34 -->
 *   F: Kann ich verpasste Tagesrätsel nachholen?
     *   A: Viele Daily-Formate bieten einen Kalender, über den du frühere
         Puzzles erneut aufrufen kannst.
+

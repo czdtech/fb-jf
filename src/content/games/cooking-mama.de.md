@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### **Spielübersicht**
 
 **Dies ist KEIN offizielles Cooking-Mama-Spiel.** *Cooking Mama: Mama Kills
@@ -50,6 +51,7 @@ vorgesehene Abfolge zu durchlaufen.
     Scheitern im klassischen Sinn ist kaum möglich; das Spiel führt dich durch
     seinen kompletten Ablauf.
 
+<!-- i18n:section:controls -->
 ### **Steuerung**
 
 Das ursprünglich Flash-basierte Browsergame verwendet einfache Maussteuerung.
@@ -58,23 +60,29 @@ Das ursprünglich Flash-basierte Browsergame verwendet einfache Maussteuerung.
     verschieben – erledigst du, indem du auf ein Objekt klickst und die Maus in
     die vom Spiel angezeigte Richtung ziehst.
 
+<!-- i18n:section:faq -->
 ### **Häufige Fragen (FAQ)**
 
+<!-- i18n:faq:id=faq:cooking-mama:is-this-a-real-official-38f41088 -->
 **1. Ist das ein echtes Cooking-Mama-Spiel?**  
 > Nein. Es handelt sich um eine von PETA erstellte Parodie ohne Verbindung zur
 > offiziellen Marke oder deren Entwicklern.
 
+<!-- i18n:faq:id=faq:cooking-mama:why-is-this-game-so-8eedc3a7 -->
 **2. Warum ist das Spiel so brutal?**  
 > Die explizite Darstellung ist bewusst gewählt, um den fröhlichen
 > Kochspiel-Ton der Originale mit dem von PETA gezeichneten Bild realer
 > Fleischproduktion zu kontrastieren und beim Publikum Unbehagen zu erzeugen.
 
+<!-- i18n:faq:id=faq:cooking-mama:is-there-an-official-vegetaria-a3392ef5 -->
 **3. Gibt es offizielle vegetarische Cooking-Mama-Titel?**  
 > Ja. Unter anderem durch solche Diskussionen motiviert erschienen später
 > Spin-offs wie *Gardening Mama* oder *Cooking Mama: World Kitchen* mit mehr
 > vegetarischen Rezepten bzw. Modi.
 
+<!-- i18n:faq:id=faq:cooking-mama:where-can-i-play-this-4bfcb29e -->
 **4. Wo kann ich das Spiel heute noch spielen?**  
 > Ursprünglich lief es kostenlos auf der PETA-Webseite. Da es auf Flash
 > basiert, ist es in modernen Browsern nur noch über Erhaltungsprojekte (z. B.
 > Archive mit eingebettetem Flash-Emulator) spielbar.
+

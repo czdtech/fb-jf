@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### **Spielübersicht**
 
 *Cookie Clicker* ist das Urgestein der Incremental-/Idle-Games mit einem
@@ -33,6 +34,7 @@ zufällig erscheinende **Golden Cookies** und verschiedene Minispiele fügen
 weitere Strategielagen hinzu und machen aus einfachem Klicken ein komplexes
 Optimierungspuzzle.
 
+<!-- i18n:section:tips -->
 ### **Strategie & Tipps**
 
 Die Strategie bei Cookie Clicker dreht sich um Effizienz und das Wissen, wann wichtige Entscheidungen zu treffen sind.
@@ -55,7 +57,7 @@ Die Strategie bei Cookie Clicker dreht sich um Effizienz und das Wissen, wann wi
 
 *   **Was ist Ascension?** Beim Aufstieg setzt du deinen Spielstand zurück
     (Kekse, Gebäude, Upgrades), erhältst aber Heavenly Chips und
-    Prestigestufen. Jede Prestigestufe gibt dauerhaft +1 % CpS für alle
+    Prestigestufen. Jede Prestigestufe gibt dauerhaft +1% CpS für alle
     zukünftigen Durchläufe.
 *   **Zeitpunkt der ersten Ascension:** Üblich ist, das erste Mal bei etwa
     **200–440** Prestigestufen aufzusteigen. Zu frühes Ascenden ist ineffizient.
@@ -80,9 +82,10 @@ Die Strategie bei Cookie Clicker dreht sich um Effizienz und das Wissen, wann wi
     wie Garden, Pantheon oder Grimoire frei. Sie bringen auf Dauer enorme
     Boni, erfordern aber aktives Management.
 *   **Sugar Lumps:** Etwa alle 24 Stunden erhältst du einen Lump. Damit
-    levelst du Gebäude (+1 % CpS pro Stufe für diesen Typ). Setze sie mit Plan
+    levelst du Gebäude (+1% CpS pro Stufe für diesen Typ). Setze sie mit Plan
     ein.
 
+<!-- i18n:section:controls -->
 ### **Steuerung**
 
 Das Spiel wird fast komplett mit der Maus gesteuert.
@@ -92,32 +95,38 @@ Das Spiel wird fast komplett mit der Maus gesteuert.
 *   **Kaufanzahl umschalten:** Im Shop oben kannst du zwischen 1, 10 oder 100
     pro Klick wechseln – gerade im Lategame unverzichtbar.
 *   **Tastenkürzel:**
-    *   `CTRL` + `SHIFT` + Klick: kauft 10 Stück.
-    *   `CTRL` + Klick: kauft 100 Stück.
-    *   `SHIFT` + Klick: kauft 1000 Stück.
+    *   CTRL + SHIFT + Klick: kauft 10 Stück.
+    *   CTRL + Klick: kauft 100 Stück.
+    *   SHIFT + Klick: kauft 1000 Stück.
 
+<!-- i18n:section:faq -->
 ### **Häufige Fragen (FAQ)**
 
+<!-- i18n:faq:id=faq:cookie-clicker-2:when-is-the-best-time-1f08eaaf -->
 **1. Wann ist der beste Zeitpunkt zum Ascenden?**  
 > Fürs erste Mal: mindestens 200–440 Prestigestufen. Danach, sobald dein
 > Fortschritt deutlich abflacht und ein neuer Run mehr bringt als das
 > Weiterspielen.
 
+<!-- i18n:faq:id=faq:cookie-clicker-2:what-is-the-point-of-83046206 -->
 **2. Lohnt sich die Grandmapocalypse?**  
 > Sie schaltet starke Upgrades und Achievements frei, birgt aber auch Risiken
 > durch Wrath Cookies. Viele Spieler bleiben im ersten Stadium (Mix aus Golden
 > und Wrath Cookies) oder warten, bis sie stark genug sind, die Nachteile zu
 > ignorieren.
 
+<!-- i18n:faq:id=faq:cookie-clicker-2:what-should-i-spend-my-947839c8 -->
 **3. Wofür sind Sugar Lumps am wichtigsten?**  
 > Ein typischer Start: zuerst Farm auf Stufe 1 (für das Garden-Minispiel), dann
 > Wizard Towers (Grimoire) und Temples (Pantheon) freischalten.
 
+<!-- i18n:faq:id=faq:cookie-clicker-2:how-do-i-get-golden-ba541801 -->
 **4. Wie bekomme ich Golden-Cookie-Kombos?**  
 > Hauptsächlich über Glück. Der Zauber "Force the Hand of Fate" aus dem
 > Grimoire kann gezielt zusätzliche Golden Cookies erzeugen und so Kombos
 > ermöglichen.
 
+<!-- i18n:faq:id=faq:cookie-clicker-2:is-there-an-end-to-ce958c6b -->
 **5. Hat Cookie Clicker ein Ende?**  
 > Nein, das Spiel ist praktisch endlos. Ziel ist, Zahlen explodieren zu lassen
 > und möglichst viele Upgrades und Achievements freizuschalten.

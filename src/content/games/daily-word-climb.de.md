@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 *Daily Word Climb* ist ein cleveres Wortpuzzle mit einem neuen Rätsel pro Tag.
@@ -26,6 +27,7 @@ an ihre richtige Position. Nach jedem Zug färben sich die Kacheln um und geben
  dir Hinweise, ähnlich wie bei Farbcodes in anderen Logikspielen. Bei begrenzter
 Zugzahl musst du deine Swaps gut planen.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  Farbcodes verstehen:
@@ -42,6 +44,7 @@ Zugzahl musst du deine Swaps gut planen.
     Zufallstausche und überlege, welcher Zug dir die meisten Informationsgewinne
     bringt (z. B. mehrere Kacheln gleichzeitig neu einfärbt).
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Die Steuerung ist einfach — siehe unten.
@@ -49,17 +52,22 @@ Die Steuerung ist einfach — siehe unten.
 - Klicke/Tippe zuerst auf den Buchstaben, den du bewegen möchtest, und danach
   auf die zweite Kachel zum Tauschen – die beiden Plätze werden vertauscht.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:daily-word-climb:q-what-do-the-colors-78c561b8 -->
 *   F: Was bedeuten die Farben genau?
     *   **A:** Grün = richtiger Buchstabe an richtiger Stelle, Gelb = richtiger
         Buchstabe an falscher Stelle, Grau/Weiß = falscher Buchstabe für diese
         Zeile.
 
+<!-- i18n:faq:id=faq:daily-word-climb:q-what-happens-if-i-63c9772b -->
 *   F: Was passiert, wenn mir die Züge ausgehen?
     *   **A:** Ist das Zuglimit erreicht, bevor alle Wörter korrekt sind, gilt das
         Rätsel als nicht gelöst und du musst es erneut versuchen.
 
+<!-- i18n:faq:id=faq:daily-word-climb:q-is-there-a-new-60884d82 -->
 *   F: Gibt es wirklich jeden Tag ein neues Rätsel?
     *   **A:** Ja, wie der Name andeutet, wird dir täglich ein neues, einzigartiges
         Wortpuzzle präsentiert.
+

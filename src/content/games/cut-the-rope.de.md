@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Übersicht
 
 *Cut The Rope* ist ein physikbasiertes Puzzlespiel, in dem du Seile
@@ -24,6 +25,7 @@ Sterne pro Level einsammelst. Spätere Stufen führen Mechaniken wie Blasen,
 Luftkissen und Gefahren ein, die Flugbahn und Timing der Süßigkeit stark
 beeinflussen.
 
+<!-- i18n:section:how-to-play -->
 ### So spielst du
 
 - Wische/klicke, um Seile im richtigen Moment und in der richtigen Reihenfolge
@@ -32,6 +34,7 @@ beeinflussen.
 - Nutze Umgebungselemente wie Blasen, die die Süßigkeit aufsteigen lassen,
   oder Luftstöße, mit denen du sie in die gewünschte Richtung lenkst.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Maus/Touch: Wische über Seile, um sie zu zerschneiden; Buttons dienen zum
@@ -47,14 +50,19 @@ beeinflussen.
 - Versuche zunächst, einen sicheren Weg mit mindestens zwei Sternen zu finden;
   optimiere später auf drei Sterne, wenn du das Timing verinnerlicht hast.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:cut-the-rope:do-i-need-all-stars-9ea07913 -->
 - F: Brauche ich alle Sterne, um weiterzukommen?
   
   A: Meist genügt eine bestimmte Gesamtzahl an Sternen, um neue Levelpacks
   freizuschalten – du musst nicht jedes Level perfekt lösen.
 
+<!-- i18n:faq:id=faq:cut-the-rope:are-there-powerups-0fea9ab4 -->
 - F: Gibt es Power-ups?
   
   A: Einige Versionen bieten optionale Hilfen oder Hinweise; die Verfügbarkeit
   hängt vom jeweiligen Host ab.
+
+

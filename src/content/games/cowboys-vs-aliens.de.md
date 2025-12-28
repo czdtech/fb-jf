@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### **Spielübersicht**
 
 In dieser Version von *Cowboys vs Aliens* steuerst du einen einzelnen
@@ -27,6 +28,7 @@ Außerirdischer, sammelst neue Waffen – von Revolvern bis zu Alien-Lasergewehr
 ausweichst. Ziel ist es, jede Stage zu überleben und am Ende einen Boss zu
 besiegen.
 
+<!-- i18n:section:tips -->
 ### **Strategie & Tipps (Action/Shooter)**
 
 #### **Für Action/Shooter-Spiele:**
@@ -45,16 +47,20 @@ Hier sind ein paar hilfreiche Tipps.
     für Nahkampf und Crowd-Control, Gewehre für Distanzziele. Wechsle deine
     Ausrüstung abhängig von der Situation.
 
+<!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `W` `A` `S` `D` `Left Mouse Button` `Space Bar` `1` `2` `3...`
 
 - **PC/Web:**  
-    - **Bewegung:** `W`, `A`, `S`, `D` oder Pfeiltasten  
+    - **Bewegung:** W, A, S, D oder Pfeiltasten  
     - **Zielen:** Maus  
     - **Schießen:** Linke Maustaste  
-    - **Springen:** `Leertaste`  
-    - **Waffen wechseln:** Nummerntasten (`1`, `2`, `3` …) oder Mausrad
+    - **Springen:** Leertaste  
+    - **Waffen wechseln:** Nummerntasten (1, 2, 3 …) oder Mausrad
 
 - **Mobile:**  
     - **Bewegung:** Virtueller Joystick links  
     - **Zielen/Schießen:** Buttons rechts (je nach Version getrennte Tasten für
       Schuss, Sprung und Spezialfähigkeiten)
+

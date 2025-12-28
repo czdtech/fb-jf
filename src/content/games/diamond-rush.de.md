@@ -16,6 +16,7 @@ score: 4.3/5  (2010 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Diamond Rush ist ein farbenfrohes und süchtig machendes Match-3-Puzzle, das
@@ -27,6 +28,7 @@ Diamond Rush das klassische Match-3-Gefühl, legt aber viel Wert auf Tempo und
 Highscores. Je nach Level jagst du einer Zielpunktzahl hinterher, räumst
 bestimmte Steine ab oder befreist das Feld von Hindernissen.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1. **Achte auf Spezialsteine:** Wenn du vier oder fünf Diamanten kombinierst
@@ -49,25 +51,31 @@ bestimmte Steine ab oder befreist das Feld von Hindernissen.
    zählen schnelle, solide Züge mehr als perfektes Grübeln. Triff zügige
    Entscheidungen und halte die Kombos am Laufen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Diamanten tauschen:** Benutze die Maus oder den Touchscreen, um zwei
   benachbarte Steine zu vertauschen. Der Tausch ist nur gültig, wenn dabei eine
   Reihe aus mindestens drei identischen Diamanten entsteht.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:diamond-rush:q-what-is-the-goal-0440a217 -->
 *   **F: Was ist das Hauptziel in Diamond Rush?**
     *   **A:** Du sollst die jeweiligen Missionsziele des Levels erfüllen –
         meistens, indem du Diamanten kombinierst, eine bestimmte Punktzahl
         erreichst oder Hindernisse vom Feld räumst.
 
+<!-- i18n:faq:id=faq:diamond-rush:q-how-do-i-get-9db98676 -->
 *   **F: Wie bekomme ich Power‑ups oder Spezialdiamanten?**
     *   **A:** Power‑ups entstehen, wenn du mehr als drei Diamanten in einem Zug
         kombinierst. Vier in einer Reihe erzeugen z. B. einen Linien‑Clear, fünf
         können eine Bombe oder einen farbentfernenden Stein ergeben.
 
+<!-- i18n:faq:id=faq:diamond-rush:q-is-there-a-time-71e1686c -->
 *   **F: Gibt es ein Zeitlimit?**
     *   **A:** Viele Level sind zeitlich begrenzt und verlangen, dass du die Ziele
         erfüllst, bevor der Countdown endet. Andere Level arbeiten stattdessen mit
         einer begrenzten Anzahl an Zügen.
+

@@ -15,6 +15,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### **Spielübersicht**
 
 *Cuphead* ist ein klassisches Run-and-Gun-Actionspiel mit starkem Fokus auf
@@ -39,6 +40,7 @@ Cuphead ist für seinen hohen Schwierigkeitsgrad bekannt und verlangt präzises
 Timing, schnelle Reflexe und einen Trial-and-Error-Ansatz beim Erlernen der
 Gegnerpattern.
 
+<!-- i18n:section:tips -->
 ### **Strategie & Tipps**
 
 1.  **Mustererkennung über alles:** Brute Force hilft nicht. Jeder Boss folgt
@@ -71,39 +73,49 @@ Gegnerpattern.
     wird deutlich unübersichtlicher – ohne Absprache kann es schwieriger
     werden als solo.
 
+<!-- i18n:section:controls -->
 ### **Steuerung**
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Arrow Keys` `W, A, S, D` `Z` `Space Bar` `X` `Left Ctrl` `Left Shift` `V` `Right Ctrl` `C` `Tab` `E` `Q`
 
 Die Steuerung ist präzise und reaktionsschnell (Standardbelegung):
 
-*   Bewegung: Pfeiltasten oder `W`, `A`, `S`, `D`
-*   Springen: `Z` oder Leertaste
-*   Schießen: `X` oder `Strg links`
-*   Dash/Ausweichrolle: `Shift links`
-*   Lock (stehen bleiben, frei zielen): `V` oder `Strg rechts`
-*   Waffe wechseln: `C` oder `Tab`
-*   EX-Move/Super Art (bei vollem Meter): `E` oder `Q`
+*   Bewegung: Pfeiltasten oder W, A, S, D
+*   Springen: Z oder Leertaste
+*   Schießen: X oder Strg links
+*   Dash/Ausweichrolle: Shift links
+*   Lock (stehen bleiben, frei zielen): V oder Strg rechts
+*   Waffe wechseln: C oder Tab
+*   EX-Move/Super Art (bei vollem Meter): E oder Q
 
+<!-- i18n:section:faq -->
 ### **Häufige Fragen (FAQ)**
 
+<!-- i18n:faq:id=faq:cuphead:is-this-game-really-as-cc4cdaae -->
 **1. Ist das Spiel wirklich so schwer, wie alle sagen?**  
 > Ja, Cuphead ist bewusst fordernd und erinnert an klassische Arcade-Spiele.
 > Mit Geduld und Lernbereitschaft ist es aber fair und gut meisterbar.
 
+<!-- i18n:faq:id=faq:cuphead:what-is-the-best-weapon-e96e78fc -->
 **2. Was ist eine gute Waffen-/Charm-Kombi?**  
 > Es gibt kein absolut bestes Setup, aber für Einsteiger ist die Kombination
 > aus **Spread** (Nahkampfschaden) und **Chaser** (Autotreffer) plus
 > **Smoke Bomb** als Charm sehr beliebt.
 
+<!-- i18n:faq:id=faq:cuphead:how-do-i-get-super-c96646ee -->
 **3. Wie bekomme ich Super Arts?**  
 > Durch Abschließen der Mausoleum-Levels: Dort musst du pinke Geister parrieren
 > und eine Urne verteidigen. Insgesamt gibt es drei Mausoleen mit je einer
 > Super Art.
 
+<!-- i18n:faq:id=faq:cuphead:what-is-the-point-of-08bd75a7 -->
 **4. Wozu dienen die Run & Gun-Level?**  
 > Hauptsächlich zum Sammeln von Münzen, mit denen du im Shop Waffen und Charms
 > kaufst – essenziell für schwierige Bosse.
 
+<!-- i18n:faq:id=faq:cuphead:is-twoplayer-coop-easier-75f09c78 -->
 **5. Ist Koop einfacher?**  
 > Kommt auf euch an: Wiederbelebungen sind stark, aber Bosse haben mehr Leben
 > und der Bildschirm wird chaotischer. Gute Absprache macht Koop lohnend,
 > sonst kann Solo einfacher sein.
+

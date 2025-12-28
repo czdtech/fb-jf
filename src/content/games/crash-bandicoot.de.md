@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Übersicht
 
 *Crash Bandicoot* ist ein im Browser spielbares Flash-/Platformer-Tribute an
@@ -26,6 +27,7 @@ Nachdem du fünf Kristalle erhalten hast, stellst du dich Ripper Roo in einem
 Bosskampf; triffst du ihn mit Eisenkisten per Wirbel, beendest du das Spiel mit
  einem Sieg.
 
+<!-- i18n:section:how-to-play -->
 ### So spielst du
 
 - Laufe durch lineare Level und sammle Kristalle sowie Wumpa-Früchte.
@@ -34,6 +36,7 @@ Bosskampf; triffst du ihn mit Eisenkisten per Wirbel, beendest du das Spiel mit
   Gegner zu besiegen.
 - Erreiche das Levelende, ohne in Abgründe oder Fallen zu stürzen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Pfeiltasten: Bewegen / Springen (Oben) / Ducken (Unten)
@@ -50,19 +53,25 @@ Bosskampf; triffst du ihn mit Eisenkisten per Wirbel, beendest du das Spiel mit
 - Bosskämpfe sind Mustererkennung: Warte auf sichere Fenster und greife dann
   mit einem Wirbel an.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:crash-bandicoot:how-many-levels-are-there-74bf0cdd -->
 - F: Wie viele Level gibt es?
   
   A: Es gibt fünf Hauptlevel; nach fünf Kristallen kommt der Kampf gegen
   Ripper Roo, danach endet das Spiel.
 
+<!-- i18n:faq:id=faq:crash-bandicoot:why-doesnt-the-jump-or-c4d2ba16 -->
 - F: Springen oder Wirbeln funktionieren nicht – warum?
   
   A: Stelle sicher, dass der Spielcanvas den Fokus hat; außerdem können sich
   die Tastenbelegungen je nach Host leicht unterscheiden.
 
+<!-- i18n:faq:id=faq:crash-bandicoot:is-progress-saved-2fd2b251 -->
 - F: Wird der Fortschritt gespeichert?
   
   A: In den meisten Flash-/Browser-Versionen wird der Fortschritt nur für die
   aktuelle Sitzung behalten.
+
+

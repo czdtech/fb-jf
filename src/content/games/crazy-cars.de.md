@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Übersicht
 
 *Crazy Cars* ist ein entspanntes Fahrspiel mit frei befahrbarer Stadtkarte,
@@ -25,6 +26,7 @@ Rennen und Zeitrennen starten, Sterne und Schraubenschlüssel auf Dächern und i
 versteckten Ecken sammeln und neue Fahrzeuge freischalten. Auf manchen Hosts
 steht zudem lokaler Splitscreen zur Verfügung.
 
+<!-- i18n:section:how-to-play -->
 ### So spielst du
 
 - Erkunde die Karte und fahre zu Markierungen, um Rennen, Zeitläufe,
@@ -35,12 +37,13 @@ steht zudem lokaler Splitscreen zur Verfügung.
 - Nutze Nitro auf Geraden und richte dein Auto sauber aus, bevor du große
   Sprünge nimmst.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
-- `WASD` oder Pfeiltasten: Fahren/Lenken
-- `Leertaste`: Bremse/Handbremse (bzw. Nitro, je nach Host)
-- `R`: Fahrzeug zurücksetzen
-- `Esc`/`P`: Pause/Menü
+- WASD oder Pfeiltasten: Fahren/Lenken
+- Leertaste: Bremse/Handbremse (bzw. Nitro, je nach Host)
+- R: Fahrzeug zurücksetzen
+- Esc/P: Pause/Menü
 - Splitscreen: Zweiter Spieler nutzt das alternative Tastenlayout des Hosts
 
 ### Tipps & Strategien
@@ -54,19 +57,25 @@ steht zudem lokaler Splitscreen zur Verfügung.
 - Sammle nahegelegene Schraubenschlüssel früh, um nach harten Landungen schnell
   reparieren zu können.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:crazy-cars:how-do-i-unlock-more-beb74a0e -->
 - F: Wie schalte ich neue Autos frei?
   
   A: Schließe Rennen ab und sammle Items, um Währung zu verdienen, die du in
   der Garage für neue Fahrzeuge ausgeben kannst.
 
+<!-- i18n:faq:id=faq:crazy-cars:is-there-multiplayer-08f2086a -->
 - F: Gibt es Multiplayer?
   
   A: Einige Browserversionen bieten lokalen Splitscreen, Online-Multiplayer ist
   in der Regel nicht enthalten.
 
+<!-- i18n:faq:id=faq:crazy-cars:my-car-flipped-overwhat-now-4f7d27ef -->
 - F: Mein Auto liegt auf dem Dach – was nun?
   
-  A: Drücke `R`, um dein Fahrzeug in der Nähe der letzten Position
+  A: Drücke R, um dein Fahrzeug in der Nähe der letzten Position
   zurückzusetzen.
+
+

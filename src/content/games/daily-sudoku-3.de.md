@@ -18,12 +18,14 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 Auch dieses *Daily Sudoku* liefert dir täglich ein neues 9×9-Rätsel. Ziel und
 Logik sind identisch: Jede Zeile, Spalte und Box muss die Ziffern 1–9 genau
  einmal enthalten. Unterschiedliche Schwierigkeitsgrade sorgen für Abwechslung.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  Grundregel: Pro Zeile, Spalte und 3×3-Box jede Ziffer nur einmal.
@@ -37,6 +39,7 @@ Logik sind identisch: Jede Zeile, Spalte und Box muss die Ziffern 1–9 genau
 5.  Fortgeschrittene Muster: Auf höheren Stufen helfen Techniken wie Paare,
     Tripel oder X-Wing, um Kandidaten auszuschließen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 *   **Zelle wählen:** Klicke auf ein leeres Feld im 9×9‑Gitter.
@@ -44,17 +47,22 @@ Logik sind identisch: Jede Zeile, Spalte und Box muss die Ziffern 1–9 genau
 *   **Notizmodus:** Per Stift‑Icon zwischen Antwort‑ und Notizmodus umschalten; Kandidaten erscheinen klein.
 *   **Radiergummi:** Zahlen oder Notizen in einem Feld mit dem Radiergummi‑Tool löschen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:daily-sudoku-3:q-do-i-need-to-99fa486b -->
 *   F: Brauche ich Mathekenntnisse?
     *   **A:** Nein, es geht nur um Logik und Muster.
 
+<!-- i18n:faq:id=faq:daily-sudoku-3:q-what-happens-if-i-6503c463 -->
 *   F: Markiert das Spiel Fehler?
     *   **A:** Viele Online-Versionen zeigen Konflikte sofort an; nutze das als
         Lernhilfe, aber verlasse dich nicht nur darauf.
 
+<!-- i18n:faq:id=faq:daily-sudoku-3:q-why-should-i-use-44fd4d40 -->
 *   F: Wann sollte ich raten?
     *   **A:** Idealerweise gar nicht – gute Sudokus lassen sich logisch lösen.
         Sollte ein Rätsel wirklich festgefahren wirken, kann ein
         vorsichtiger "Guess" mit Notizen helfen, aber nutze diese Option nur
         als letztes Mittel.
+

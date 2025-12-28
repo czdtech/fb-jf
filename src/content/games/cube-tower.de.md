@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 *Cube Tower* ist ein Tower-Defense-Spiel, in dem du einen zentralen
@@ -23,6 +24,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
  du an strategischen Punkten verschiedene Turmtypen und verbesserst sie im
 Verlauf der Level.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  Platzierung planen: Überlege dir genau, wo du Türme baust, damit ihre
@@ -38,17 +40,22 @@ Verlauf der Level.
     Upgrades. Wenn nötig, wiederhole Level, um zusätzliche Ressourcen für
     schwierige Stages zu sammeln.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 *   Maus/Touch: Nutze Mausklick oder Touch, um Turm-Slots auszuwählen,
     Türme zu platzieren und Upgrades im Menü zu kaufen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:cube-tower:q-whats-the-best-tower-fb7b92ec -->
 *   F: Welcher Turm ist der beste?
     *   A: Es gibt keinen Alleskönner. Nutze eine Mischung: Kanonentürme sind
         stark gegen Gruppen, Lasertürme gut gegen schnelle Einzelziele usw.
 
+<!-- i18n:faq:id=faq:cube-tower:q-how-do-i-get-fd70a5ab -->
 *   F: Wie bekomme ich 3 Sterne?
     *   A: Sterne richten sich meist nach verbleibenden Leben am Levelende.
         Lasse möglichst wenige Gegner bis zum Cube Tower durch.
+

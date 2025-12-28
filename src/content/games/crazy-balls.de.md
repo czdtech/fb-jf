@@ -15,6 +15,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 *Crazy Balls* fordert dich heraus, Bälle durch stages voller Hindernisse zu
@@ -22,6 +23,7 @@ schicken und dabei Abpraller, Bumper und bewegliche Elemente geschickt zu
 nutzen. Präzise Winkel und kontrollierte Schusskraft entscheiden darüber, ob du
 bahnen sauber triffst oder im Chaos landest.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  Seitenwände als Banden: Nutze die Seitenwände, um Flugbahnen in enge
@@ -35,25 +37,31 @@ bahnen sauber triffst oder im Chaos landest.
 5.  Schlechte Linien früh abbrechen: Starte Level bei missratenen Schüssen
     lieber schnell neu, um Zeit zu sparen und Frust zu vermeiden.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Ziehe mit gedrückter Maustaste oder per Touch, um Richtung und Stärke des
   Schusses festzulegen; lasse los, um den Ball abzufeuern.
 - Über die UI kannst du Level bei Bedarf neu starten.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:crazy-balls:shots-feel-random-how-to-edd8a905 -->
 - Meine Schüsse wirken zufällig – wie bekomme ich Kontrolle?
   
   Reduziere die Schusskraft, nutze einfache Winkel und gewöhne dir feste
   Anhaltspunkte an den Wänden an, von denen du regelmäßig Banden spielst.
 
+<!-- i18n:faq:id=faq:crazy-balls:are-there-powerups-0fea9ab4 -->
 - Gibt es Power-ups?
   
   In einigen Modi findest du Multiplikatoren oder Zeitlupen – spare sie für
   besonders enge oder komplexe Passagen.
 
+<!-- i18n:faq:id=faq:crazy-balls:timed-levels-05d52f9e -->
 - Sind Level zeitlich begrenzt?
   
   Falls es Timer gibt, priorisiere sichere Schüsse, die dich weiterbringen,
   statt riskanter Trick-Shots.
+
