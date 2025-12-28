@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 2020 Connect ist ein entspannter, aber sehr strategischer Zahlen‑Merge‑Titel.
@@ -24,6 +25,7 @@ Wert zu verschmelzen. Dabei räumst du Platz auf dem Spielfeld und bereitest
 Kettenreaktionen vor. Wer seine Züge klug plant, hält das Brett lange lebendig
 und knackt immer höhere Highscores.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Zentrum aufbauen:** Halte deine hohen Werte möglichst in der Brettmitte,
@@ -42,6 +44,7 @@ und knackt immer höhere Highscores.
     kleinere Zwischenschritte sorgen dafür, dass du mehr Felder verbinden und
     flexibel bleiben kannst.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Verbinden:** Mit Maus oder Touch klickst bzw. tippst du auf ein Feld und
@@ -50,17 +53,22 @@ und knackt immer höhere Highscores.
   Fehlzug korrigieren.
 - **Neustart:** Du kannst jederzeit ein neues Brett beginnen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:2020-connect:i-run-out-of-spacewhat-0acad0d6 -->
 - **F: Mir geht ständig der Platz aus – was kann ich tun?**  
   **A:** Konzentriere dich darauf, eine Linie oder einen Bereich konsequent
   freizuräumen, statt nur auf einen einzelnen großen Merge zu spielen.
 
+<!-- i18n:faq:id=faq:2020-connect:is-there-a-win-condition-81083b72 -->
 - **F: Gibt es ein echtes "Ende"?**  
   **A:** Meist handelt es sich um einen Endlosmodus. Du spielst, bis kein Zug
   mehr möglich ist, und versuchst, bestimmte Zielwerte oder persönliche
   Bestmarken zu erreichen.
 
+<!-- i18n:faq:id=faq:2020-connect:any-pattern-tips-24b51a6c -->
 - **F: Hast du Muster‑Tipps?**  
   **A:** Halte große Zahlen in der Mitte gebündelt und nutze die Ränder als
   "Futter" für neue Merges mit kleineren Werten.
+

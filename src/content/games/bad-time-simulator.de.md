@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 Bad Time Simulator ist ein Fan‑Projekt, das den legendären Sans‑Kampf aus der
@@ -31,6 +32,7 @@ Retribution) lässt dein Leben nach Treffern weiter herunterticken. Der Kampf
 ist bewusst gnadenlos schwer und richtet sich an Spieler*innen, die ein sehr
 präzises Reaktions‑ und Lernspiel suchen.
 
+<!-- i18n:section:tips -->
 ### Strategie
 
 In Bad Time Simulator geht es weniger um Aggression als um Ausdauer und
@@ -62,38 +64,47 @@ Mustererkennung.
     du einzelne Angriffe isoliert trainieren kannst, ohne jedes Mal den gesamten
     Kampf neu beginnen zu müssen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `↑` `↓` `←` `→` `Z` `Enter` `[FIGHT]` `X` `Shift` `Up Arrow`
 
 Die Steuerung orientiert sich an der PC‑Version von *Undertale*.
 
-- **Pfeiltasten (`↑`, `↓`, `←`, `→`):** Bewege die SOUL innerhalb des Kastens.
-- **`Z` oder `Enter`:** Bestätigen im Menü, z. B. `[FIGHT]` auswählen.
-- **`X` oder `Shift`:** Abbrechen oder zurück im Menü (wird im Simulator nur
+- **Pfeiltasten (↑, ↓, ←, →):** Bewege die SOUL innerhalb des Kastens.
+- **Z oder Enter:** Bestätigen im Menü, z. B. [FIGHT] auswählen.
+- **X oder Shift:** Abbrechen oder zurück im Menü (wird im Simulator nur
   selten benötigt).
-- **Blaue SOUL‑Phase:** `↑` dient zusätzlich als Sprungtaste für
+- **Blaue SOUL‑Phase:** ↑ dient zusätzlich als Sprungtaste für
   Plattform‑Passagen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:bad-time-simulator:why-is-this-game-so-87eab09d -->
 - **F: Warum ist das so brutal schwer?**  
   **A:** Der Simulator will den Originalkampf möglichst authentisch
   nachbilden – und der Sans‑Fight gilt als einer der schwierigsten modernen
   Bosskämpfe. Die Härte ist Teil des Konzepts.
 
+<!-- i18n:faq:id=faq:bad-time-simulator:what-is-kr-karmic-retribution-a0c9bcbb -->
 - **F: Was genau ist KR (Karmic Retribution)?**  
   **A:** KR ist ein Spezialeffekt, der nach Treffern für einige Zeit
   kontinuierlich HP abzieht. Je öfter du getroffen wirst, desto mehr Schaden
   entsteht durch diese "Gift"‑Leiste.
 
+<!-- i18n:faq:id=faq:bad-time-simulator:is-it-possible-to-actually-0b6df411 -->
 - **F: Kann man den Kampf wirklich schaffen?**  
   **A:** Ja. Mit genug Übung, Musterkenntnis und Ruhe ist der Sieg machbar – es
   braucht aber viele Versuche und gute Nerven.
 
+<!-- i18n:faq:id=faq:bad-time-simulator:why-cant-i-hit-sans-7f7251ec -->
 - **F: Warum treffe ich Sans nie richtig?**  
   **A:** Im Kampf weicht Sans bis ganz zum Schluss allen Angriffen aus.
   `[FIGHT]` dient vor allem dazu, den Dialog und die nächste Angriffsphase
   auszulösen. Deine eigentliche Aufgabe ist Verteidigung.
 
+<!-- i18n:faq:id=faq:bad-time-simulator:what-is-the-difference-between-aa2c7edf -->
 - **F: Gibt es Unterschiede zum Originalkampf in Undertale?**  
   **A:** Je nach Simulator‑Version gibt es kleine Abweichungen, aber
   Angriffsmuster, Mechaniken und Schwierigkeitsgrad orientieren sich sehr nah

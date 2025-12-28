@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 *aquapark.io* ist ein extrem populäres, hyper‑casual Rennspiel von Voodoo. Du
@@ -32,6 +33,7 @@ hohes Risiko mit großem Gewinn. Durch einfache One‑Touch‑Steuerung und ein
 Belohnungssystem mit Münzen, Skins und anderen Kosmetika bleibt das Spiel
 leicht zugänglich, aber sehr suchterzeugend.
 
+<!-- i18n:section:tips -->
 ### Strategie & Walkthrough
 
 Der Schlüssel zum Sieg sind gewagte Abkürzungen und gutes Risikomanagement.
@@ -77,6 +79,7 @@ in der Mitte des Gedränges zu bleiben, sondern leicht versetzt zu fahren und
 schnell nach einer ersten Flug‑Abkürzung Ausschau zu halten, während sich die
 anderen noch gegenseitig wegstoßen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Aquapark.io ist berühmt für seine extrem einfache Steuerung.
@@ -87,16 +90,22 @@ Aquapark.io ist berühmt für seine extrem einfache Steuerung.
 *   **Bewegung (PC/Web):** Halte die linke Maustaste gedrückt und bewege die
     Maus nach links oder rechts, um deine Position auf der Rutsche zu ändern.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:aquaparkio:q-are-the-other-players-67bf63b3 -->
 *   **F: Sind die anderen Spieler in *aquapark.io* echte Menschen?**
     *   **A:** Meist fährst du gegen KI‑Bots, damit jedes Rennen voll ist und du sofort starten kannst, auch wenn gelegentlich echte Spieler dabei sind.
 
+<!-- i18n:faq:id=faq:aquaparkio:q-how-do-i-jump-8f1f10bf -->
 *   **F: Wie springe ich höher und fliege weiter?**
     *   **A:** Deine Geschwindigkeit und der Absprungswinkel entscheiden alles. Nutze Boosterfelder und verlasse die Bahn an steilen, kurvigen Stellen für maximale Flugzeit.
 
+<!-- i18n:faq:id=faq:aquaparkio:q-what-are-the-coins-3599315e -->
 *   **F: Wofür sind die Münzen gut?**
     *   **A:** Damit kaufst du Skins, Schwimmreifen und andere Kosmetika im Shop – sie sehen cool aus, beeinflussen das Gameplay aber nicht.
 
+<!-- i18n:faq:id=faq:aquaparkio:q-i-landed-in-the-f1083c12 -->
 *   **F: Ich bin im Wasser gelandet – ist das Rennen verloren?**
     *   **A:** Nein. Du wirst in der Nähe des Sturzpunkts zurück auf die Bahn teleportiert, verlierst aber wertvolle Sekunden und oft deine Position.
+

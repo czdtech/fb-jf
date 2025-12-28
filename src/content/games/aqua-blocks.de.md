@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 Aqua Blocks ist ein ruhiges Block‑Puzzlespiel. Du erhältst Sets aus
@@ -24,6 +25,7 @@ oder gefüllte Bereiche verschwinden und verschaffen dir neuen Platz. Ziel ist
 es, möglichst lange zu überleben, ohne das Feld mit ungünstigen Strukturen
 zuzubauen.
 
+<!-- i18n:section:tips -->
 ### Strategie & Walkthrough
 
 1.  **Ränder sauber halten:** Vermeide einzelne, isolierte Felder an den
@@ -40,6 +42,7 @@ zuzubauen.
     werden, plane mehrere Züge im Voraus, statt nur auf den aktuellen Zug zu
     schauen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Formen platzieren:** Ziehe die vorgegebenen Blöcke mit der Maus oder per
@@ -47,16 +50,21 @@ zuzubauen.
 - **Rückgängig/Neustart:** Über die Oberfläche kannst du Züge rückgängig machen
   oder die Partie neu starten, falls du dich verrannt hast.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:aqua-blocks:no-space-leftwhat-now-de5570f7 -->
 - **Kein Platz mehr – was tun?**  
   Wenn eine Undo‑Funktion vorhanden ist, gehe ein paar Züge zurück und plane
   neu. Ansonsten startet eine neue Runde mit frischem Layout.
 
+<!-- i18n:faq:id=faq:aqua-blocks:rotations-634fab63 -->
 - **Kann ich Drehungen nutzen?**  
   Das hängt von der jeweiligen Variante ab. In einigen Versionen sind Drehungen
   erlaubt, in anderen musst du ohne Rotationen auskommen.
 
+<!-- i18n:faq:id=faq:aqua-blocks:endless-ea2091be -->
 - **Ist Aqua Blocks endlos?**  
   Meist ja. Viele Versionen laufen so lange, bis du keinen weiteren Block mehr
   sinnvoll setzen kannst und dein Highscore feststeht.
+

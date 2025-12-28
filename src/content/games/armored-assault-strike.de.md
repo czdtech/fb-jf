@@ -15,6 +15,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 Armored Assault Strike kombiniert Arcade‑Ballereien mit leichtem
@@ -24,6 +25,7 @@ Deckung hinter Objekten und das geschickte Verketten deiner Fähigkeiten sind
 der Schlüssel, um Wellen effizient zu brechen, ohne deinen Rumpf unnötig zu
 gefährden.
 
+<!-- i18n:section:tips -->
 ### Strategie & Walkthrough
 
 1.  **Eliten kiten und Sichtlinien brechen:** Gegen starke Gegner solltest du
@@ -42,6 +44,7 @@ gefährden.
     solltest du für Notfälle reservieren – etwa, wenn du eingekesselt bist
     oder eine Boss‑Attacke sonst tödlich wäre.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Bewegung:** Steuere dein Fahrzeug mit WASD oder den Pfeiltasten über die
@@ -51,18 +54,23 @@ gefährden.
 - **Fähigkeiten:** Aktiviere Spezialfähigkeiten wie Dash, Schild oder
   Raketen‑Salven über Hotkeys oder UI‑Buttons.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:armored-assault-strike:i-melt-fastwhy-994e5bc4 -->
 - **Ich sterbe sehr schnell – woran liegt das?**  
   Meist stehst du zu lange im offenen Feld. Nutze Deckung, bleib in Bewegung und
   zieh Gegner in längere Laufwege, statt sie auf kurzer Distanz zu tanken.
 
+<!-- i18n:faq:id=faq:armored-assault-strike:ammo-limited-9be95bd9 -->
 - **Ist die Munition begrenzt?**  
   In vielen Versionen ist Munition oder Überhitzung ein Faktor. Spare deine
   stärksten Fähigkeiten für Eliten und Bosse und verschwende sie nicht an
   schwachen Gegnern.
 
+<!-- i18n:faq:id=faq:armored-assault-strike:bosses-5a57d05f -->
 - **Wie besiege ich Bosse?**  
   Lerne ihre Angriffsphasen, weiche großen Telegraph‑Attacken aus und räume
   zwischendurch zusätzliche Gegnerwellen (Adds) weg, bevor du wieder auf den
   Boss gehst.
+

@@ -15,6 +15,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 Ant and block puzzle ist ein lockeres,
@@ -23,6 +24,7 @@ Formen auf einem Brett, füllst Reihen oder ganze Bereiche, um Platz zu
 schaffen, und versuchst, das Feld so effizient zu nutzen, dass du nicht
 frühzeitig keinen Platz mehr für neue Steine findest.
 
+<!-- i18n:section:tips -->
 ### Strategie & Walkthrough
 
 1.  **Ecken für L‑/T‑Formen freihalten:** Bewahre Ecken und unregelmäßige
@@ -41,6 +43,7 @@ frühzeitig keinen Platz mehr für neue Steine findest.
     unnatürlich anfühlt, nutze die Undo‑Funktion sofort. Ein korrigierter Zug
     früh im Spiel verhindert spätere, unlösbare Situationen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Steine platzieren:** Ziehe die angezeigten Formen per Maus oder Finger auf
@@ -48,16 +51,21 @@ frühzeitig keinen Platz mehr für neue Steine findest.
 - **Rückgängig/Neustart:** Über die UI‑Buttons kannst du Züge rückgängig machen
   oder die Runde komplett neu beginnen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:ant-and-block-puzzle:no-fits-leftwhat-now-5a203cd7 -->
 - **Es passt kein Stein mehr – was jetzt?**  
   Nutze zunächst die Undo‑Funktion und probiere eine andere Zugfolge. Wenn
   wirklich nichts mehr geht, starte eine neue Partie mit einem anderen Aufbau.
 
+<!-- i18n:faq:id=faq:ant-and-block-puzzle:rotations-634fab63 -->
 - **Kann ich Steine drehen?**  
   Das hängt von der jeweiligen Version ab. Achte auf entsprechende
   Dreh‑Buttons oder Gestenhinweise in der Benutzeroberfläche.
 
+<!-- i18n:faq:id=faq:ant-and-block-puzzle:endless-ea2091be -->
 - **Ist das Spiel endlos?**  
   Viele Varianten sind auf Highscores ausgelegt und laufen so lange, bis kein
   weiterer Zug mehr möglich ist.
+

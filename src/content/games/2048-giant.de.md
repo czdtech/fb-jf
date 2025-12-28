@@ -18,6 +18,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 2048 Giant ist eine Variante des bekannten 2048‑Rätsels, die auf einem
@@ -26,6 +27,7 @@ nummerierte Kacheln, kombinierst gleiche Zahlen und versuchst, eine 2048‑Kache
 zu erzeugen. Durch das größere Spielfeld ergeben sich neue Möglichkeiten – aber
 auch mehr Raum für Fehler, sodass vorausschauende Planung noch wichtiger wird.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 Die Grundstrategien aus dem normalen 2048 gelten weiterhin, müssen aber an das
@@ -44,6 +46,7 @@ größere Brett angepasst werden.
     – und mehr Chancen, sich zu verbauen. Versuche daher, mehrere Züge im
     Voraus zu planen, bevor du swipst.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 *   **Pfeiltasten:** Bewege alle Kacheln mit den Pfeiltasten in die gewünschte
@@ -51,10 +54,14 @@ größere Brett angepasst werden.
 *   **Wischen (Touch):** Auf mobilen Geräten wischst du in die Richtung, in die
     sich die Kacheln bewegen sollen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:2048-giant:q-what-is-the-goal-f678de2f -->
 *   **F: Was ist das Ziel von 2048 Giant?**
     *   **A:** Wie im Original versuchst du, gleichwertige Kacheln zu vereinen, bis du eine 2048‑Kachel erzeugt hast. Danach kannst du weiterspielen und deinen Highscore weiter steigern.
 
+<!-- i18n:faq:id=faq:2048-giant:q-how-is-it-different-ae89eec7 -->
 *   **F: Worin unterscheidet es sich vom klassischen 2048?**
     *   **A:** Das Spiel läuft auf einem größeren Raster ab. Dadurch dauern Partien länger, bieten mehr Raum für Taktik und verlangen sorgfältigere Planung.
+

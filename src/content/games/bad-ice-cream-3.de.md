@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 *Bad Ice‑Cream 3* ist der dritte Teil der beliebten 2D‑Pixel‑Arcade‑Serie. Wie
@@ -30,6 +31,7 @@ Gegner, die schneller sind, größer sind oder deine Eiswände selbst zerstören
 können. Wie gehabt kannst du die Level allein oder im lokalen Koop mit einem
 Freund angehen.
 
+<!-- i18n:section:tips -->
 ### Strategie & Walkthrough
 
 Um *Bad Ice‑Cream 3* zu meistern, musst du die bekannten Mechaniken perfekt
@@ -85,28 +87,37 @@ vorab überlegte Route ist deutlich sicherer.
   damit ihr euch nicht gegenseitig blockiert und mehr Fläche gleichzeitig
   abdecken könnt.
 
+<!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `↑` `↓` `←` `→` `Spacebar` `W` `A` `S` `D` `F`
 
 Die Steuerung entspricht den Vorgängern und ist ideal für zwei Spieler an
 einem Keyboard.
 
 *   **Spieler 1:**
-    *   **Bewegung:** Pfeiltasten (`↑`, `↓`, `←`, `→`)
-    *   **Eis erzeugen/zerstören:** `Leertaste`
+    *   **Bewegung:** Pfeiltasten (↑, ↓, ←, →)
+    *   **Eis erzeugen/zerstören:** Leertaste
 *   **Spieler 2:**
-    *   **Bewegung:** `W`, `A`, `S`, `D`
-    *   **Eis erzeugen/zerstören:** `F`
+    *   **Bewegung:** W, A, S, D
+    *   **Eis erzeugen/zerstören:** F
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:bad-ice-cream-3:q-what-is-the-main-03fb4085 -->
 - **F: Worin unterscheidet sich Bad Ice‑Cream 3 von Teil 2?**
     - **A:** Vor allem durch neue Gegnertypen mit komplexeren Verhaltensmustern, von Eisbrechern bis zu aggressiven Verfolgern, sowie viele zusätzliche und schwierigere Level.
 
+<!-- i18n:faq:id=faq:bad-ice-cream-3:q-can-i-finally-kill-63145a61 -->
 - **F: Kann ich die neuen Monster endlich besiegen?**
     - **A:** Nein. Auch im dritten Teil geht es darum, Gegner auszuweichen oder temporär einzusperren, nicht darum, sie dauerhaft zu eliminieren.
 
+<!-- i18n:faq:id=faq:bad-ice-cream-3:q-how-do-i-beat-89425c2b -->
 - **F: Wie gehe ich mit Gegnern um, die meine Mauern zerstören?**
     - **A:** Nutze Eisblöcke als kurzfristige Barriere, um sie umzuleiten oder kurz zu verlangsamen, und verwende diese Zeit zum Fliehen oder schnellen Obst-Einsammeln.
 
+<!-- i18n:faq:id=faq:bad-ice-cream-3:q-is-there-a-way-adf9c295 -->
 - **F: Gibt es Extra‑Leben oder Power‑ups?**
     - **A:** In den klassischen Flash-Versionen startest du mit einer festen Anzahl an Leben; sobald sie weg sind, musst du das Level neu beginnen – zusätzliche Leben kannst du nicht freischalten.
+

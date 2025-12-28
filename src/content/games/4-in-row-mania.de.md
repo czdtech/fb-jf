@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 4 In Row MANIA ist eine vertikale Variante von Vier gewinnt, bei der du deine
@@ -23,6 +24,7 @@ Steine in ein Raster fallen lässt. Ziel ist es, eine horizontale, vertikale
 oder diagonale Reihe aus vier eigenen Steinen zu bilden, während du gleichzeitig
 die Pläne deiner Gegnerin oder deines Gegners durchkreuzt.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Mitte kontrollieren:** Die mittlere Spalte ermöglicht die meisten
@@ -40,6 +42,7 @@ die Pläne deiner Gegnerin oder deines Gegners durchkreuzt.
     Spalten und überlege, in welcher Reihenfolge sie gefüllt werden. Ein
     einziger falsch gesetzter Stein kann das Spiel entscheiden.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Zug ausführen:** Klicke oder tippe auf eine Spalte, um dort einen Stein
@@ -47,17 +50,22 @@ die Pläne deiner Gegnerin oder deines Gegners durchkreuzt.
 - Typischerweise kannst du lokal zu zweit an einem Gerät spielen oder gegen eine
   KI antreten.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:4-in-row-mania:firstmove-advantage-fe17634b -->
 - **F: Hat die startende Person einen Vorteil?**  
   **A:** Ein kleiner Vorteil ist vorhanden, vor allem bei perfektem Spiel.
   Durch solide Verteidigung und gutes Paritätsmanagement kannst du diesen
   Vorteil aber ausgleichen.
 
+<!-- i18n:faq:id=faq:4-in-row-mania:draws-59d8410d -->
 - **F: Kommt es häufig zu Unentschieden?**  
   **A:** Meist wird das Brett früher oder später entschieden. Vollständig
   ausgeglichene Stellungen ohne Sieg sind eher selten.
 
+<!-- i18n:faq:id=faq:4-in-row-mania:best-opening-a27e9124 -->
 - **F: Was ist eine gute Eröffnung?**  
   **A:** Ein Stein in der Mitte oder in den spaltennahen Bereichen ist fast
   immer sinnvoll, da du so die meisten möglichen Viererlinien offenhältst.
+

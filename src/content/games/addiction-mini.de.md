@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 Addiction Mini basiert auf der Addiction‑/Monte‑Carlo‑Familie von Patience-
@@ -25,6 +26,7 @@ oder Farbe/Rank zu sortieren – je nach Spielmodus. Durch geschicktes Verschieb
 öffnest du freie Felder, löst Sackgassen auf und bringst das Layout in die
 richtige Ordnung.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Freie Felder schaffen:** Versuche früh im Spiel leere Plätze zu erzeugen.
@@ -41,6 +43,7 @@ richtige Ordnung.
 5.  **Vorausdenken:** Stelle dir zwei bis drei Züge im Voraus vor. Überlege,
     welche Lücke du als Nächstes brauchst und welche Karte wo landen soll.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Karten bewegen:** Per Drag & Drop oder Klick nach den jeweiligen
@@ -50,18 +53,23 @@ richtige Ordnung.
 - **Rückgängig/Neustart:** Manche Varianten erlauben das Zurücknehmen von Zügen
   oder einen kompletten Neustart.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:addiction-mini:no-moves-leftwhat-now-1eeb0c6f -->
 - **F: Es gibt keinen möglichen Zug mehr – was jetzt?**  
   **A:** Nutze vorhandene Swaps oder Mischungen. Sind keine mehr übrig, musst du
   meist ein neues Spiel beginnen.
 
+<!-- i18n:faq:id=faq:addiction-mini:strict-rules-0d752ccf -->
 - **F: Welche Regeln gelten genau?**  
   **A:** Abhängig vom Modus können Reihen nur nach Farbe, nur nach Rang oder mit
   weiteren Einschränkungen gebaut werden. Lies vor dem Spielstart kurz die
   Modusbeschreibung.
 
+<!-- i18n:faq:id=faq:addiction-mini:is-it-winnable-1ea66daa -->
 - **F: Sind alle Spiele lösbar?**  
   **A:** Viele Ausgaben sind bei sorgfältiger Planung gewinnbar, aber je nach
   Zufallslage können einzelne Deals sehr schwierig oder theoretisch unlösbar
   sein.
+

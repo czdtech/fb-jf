@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 Atari Breakout ist ein Arcade‑Klassiker und einer der Grundsteine der
@@ -71,25 +72,34 @@ Reaktionen. Achte auf seinen Einfallswinkel und bewege dein Paddle dorthin, wo
 sich seine Flugbahn logisch fortsetzt. Mit etwas Übung kannst du bereits beim
 Abprall ablesen, wo der Ball landen wird.
 
+<!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `←` `→`
 
 Die Steuerung von Breakout ist legendär einfach.
 
 *   **Bewegung:**
     *   **Arcade:** Am Automaten bewegst du das Paddle meist mit einem Drehknauf (Spinner) nach links und rechts.
-    *   **PC/Web:** In Browser‑Versionen steuerst du das Paddle in der Regel mit der Maus (links/rechts bewegen) oder über die Pfeiltasten `←` und `→`.
+    *   **PC/Web:** In Browser‑Versionen steuerst du das Paddle in der Regel mit der Maus (links/rechts bewegen) oder über die Pfeiltasten ← und →.
 *   **Ball starten:** Zu Beginn eines Lebens ruht der Ball auf deinem Paddle. Durch Drücken einer Feuertaste (oft die Leertaste oder ein Mausklick) schickst du ihn auf seine erste Flugbahn.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:atari-breakout:q-how-can-i-control-e6335da8 -->
 *   **F: Wie kann ich die Flugrichtung des Balls beeinflussen?**
     *   **A:** Steuere, an welcher Stelle des Paddles er aufkommt. Treffer in der Mitte ergeben flache Winkel, Treffer an den Rändern erzeugen scharfe, seitliche Winkel.
 
+<!-- i18n:faq:id=faq:atari-breakout:q-what-is-the-fastest-9eaaaeff -->
 *   **F: Was ist der schnellste Weg, ein Level zu leeren?**
     *   **A:** Baue an einer Seite gezielt einen Tunnel nach oben, sodass der Ball hinter die Steinreihen gelangt und dort fast von allein aufräumt.
 
+<!-- i18n:faq:id=faq:atari-breakout:q-do-the-different-colored-645f3f76 -->
 *   **F: Haben die unterschiedlichen Farben der Steine eine Bedeutung?**
     *   **A:** Ja. In vielen Versionen steht die Farbe für unterschiedliche Punktwerte. Typischerweise bringen die oberen, meist dunkleren Steine mehr Punkte als die unteren Reihen.
 
+<!-- i18n:faq:id=faq:atari-breakout:q-where-can-i-play-d7aa3e3b -->
 *   **F: Wo kann ich Atari Breakout heute noch spielen?**
     *   **A:** Es gibt zahlreiche Web‑Versionen auf Retro‑ und Arcade‑Seiten. Viele Sammlungen klassischer Atari‑Spiele enthalten Breakout ebenfalls; zudem taucht das Spiel immer wieder als kleines Easter Egg in anderen Anwendungen auf.
+

@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 *Bad Ice‑Cream* ist der erste Teil der kultigen 2D‑Pixel‑Puzzle‑Reihe. Du
@@ -60,27 +61,36 @@ Der Timer erzeugt Druck, aber Hektik kostet am schnellsten Leben. Arbeite dich A
 *   **Lockvogel:** Einer kann Gegner bewusst anlocken und wegführen, während der andere ungestört Früchte sammelt.  
 *   **Aufeinander achten:** Baut keine Wände, ohne den Standort deines Partners zu checken, sonst sperrst du ihn versehentlich ein.
 
+<!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `↑` `↓` `←` `→` `Spacebar` `W` `A` `S` `D` `F`
 
 Das Spiel ist darauf ausgelegt, dass zwei Personen bequem an einem Keyboard spielen.
 
 *   **Spieler 1:**
-    *   **Bewegung:** Pfeiltasten (`↑`, `↓`, `←`, `→`)
-    *   **Eis erzeugen/zerstören:** `Leertaste`
+    *   **Bewegung:** Pfeiltasten (↑, ↓, ←, →)
+    *   **Eis erzeugen/zerstören:** Leertaste
 *   **Spieler 2:**
-    *   **Bewegung:** `W`, `A`, `S`, `D`
-    *   **Eis erzeugen/zerstören:** `F`
+    *   **Bewegung:** W, A, S, D
+    *   **Eis erzeugen/zerstören:** F
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:bad-ice-cream:q-can-i-kill-the-a2865b98 -->
 *   **F: Kann ich Gegner töten?**
     *   **A:** Nein. Du kannst sie nur umgehen oder einsperren; direkter Schaden ist nicht möglich.
 
+<!-- i18n:faq:id=faq:bad-ice-cream:q-what-is-the-goal-7ed4507e -->
 *   **F: Was ist das Ziel eines Levels?**
     *   **A:** Sammle 100 % der Früchte, die oben angezeigt werden, bevor der Timer abläuft.
 
+<!-- i18n:faq:id=faq:bad-ice-cream:q-do-the-different-types-e6a9a3a2 -->
 *   **F: Haben verschiedene Fruchtarten besondere Effekte?**
     *   **A:** Nein. Unterschiedliche Früchte dienen nur der Abwechslung im Level‑Design; entscheidend ist, dass du alle einsammelst.
 
+<!-- i18n:faq:id=faq:bad-ice-cream:q-how-does-the-2player-8a760ff7 -->
 *   **F: Wie funktioniert der 2‑Spieler‑Modus bei den Leben?**
     *   **A:** Beide Spieler teilen sich einen gemeinsamen Lebensvorrat. Wird einer erwischt, verliert das gesamte Team ein Leben.
+

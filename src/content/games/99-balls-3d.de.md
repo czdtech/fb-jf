@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 99 Balls 3D ist ein extrem süchtig machender, physikbasierter Puzzle‑Shooter,
@@ -26,6 +27,7 @@ langsam von oben Richtung Boden fallen. Die Zahl auf jedem Ball zeigt an, wie
 viele Treffer nötig sind, bis er verschwindet. Clevere Bank‑Schüsse und lange
 Abprallketten sind der Schlüssel, um das Feld rechtzeitig zu räumen.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Bank‑Schuss meistern:** Schieße selten direkt auf einen einzelnen Ball.
@@ -42,6 +44,7 @@ Abprallketten sind der Schlüssel, um das Feld rechtzeitig zu räumen.
     eine Reihe nach unten. Sobald ein nummerierter Ball die untere Linie
     berührt, ist das Spiel vorbei.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 *   **Zielen:** Bewege die Maus, um die Hilfslinie deiner Schussrichtung zu
@@ -49,13 +52,18 @@ Abprallketten sind der Schlüssel, um das Feld rechtzeitig zu räumen.
 *   **Schießen:** Klicke mit der linken Maustaste, um deine Kugelsalve
     abzufeuern.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:99-balls-3d:q-what-do-the-numbers-938db300 -->
 *   **F: Was bedeuten die Zahlen auf den Bällen?**
     *   **A:** Die Zahl zeigt die „Lebenspunkte“ an – so oft muss der Ball getroffen werden, bis er zerstört wird.
 
+<!-- i18n:faq:id=faq:99-balls-3d:q-how-do-i-get-11bec405 -->
 *   **F: Wie bekomme ich mehr Kugeln pro Schuss?**
     *   **A:** Triff die weißen Ringe im Spielfeld. Jeder Ring erhöht dauerhaft die Anzahl der Kugeln in deiner Salve.
 
+<!-- i18n:faq:id=faq:99-balls-3d:q-what-are-the-stars-ff09abbb -->
 *   **F: Wofür sind die Sterne gedacht?**
     *   **A:** Mit Sternen schaltest du im Hauptmenü neue Skins und Waffen‑Designs frei – ein kosmetischer Bonus für mehr Motivation.
+

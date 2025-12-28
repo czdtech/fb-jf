@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 *Ballistic* ist ein modernes, physikbasiertes Arcade‑Spiel, das Strategie und
@@ -29,6 +30,7 @@ clever gewählte Abprallwinkel an Wänden und anderen Blöcken löst du lange
 Trefferketten aus, sammelst unterwegs Extrabälle und Power‑ups und versuchst,
 mit jeder Runde möglichst viel Fläche zu räumen.
 
+<!-- i18n:section:tips -->
 ### Strategie
 
 Um in *Ballistic* weit zu kommen und hohe Scores zu erzielen, zählt jede Kugel.
@@ -54,6 +56,7 @@ Um in *Ballistic* weit zu kommen und hohe Scores zu erzielen, zählt jede Kugel.
     nach dem ersten Aufprall öffnen. Ein gut geplanter Winkel kann eine ganze
     Seite des Feldes in einer Runde leeren.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Die Bedienung ist auf allen Plattformen leicht zu verstehen.
@@ -63,19 +66,26 @@ Die Bedienung ist auf allen Plattformen leicht zu verstehen.
 *   **Mobil/Touch:**
     *   **Touchscreen:** Finger auflegen und ziehen, um die Richtung festzulegen, anschließend loslassen zum Schießen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:ballistic:what-do-the-numbers-on-03af9ef6 -->
 **1. Was bedeuten die Zahlen auf den Blöcken?**  
 Sie zeigen an, wie viele Treffer nötig sind, um den Block zu zerstören.
 
+<!-- i18n:faq:id=faq:ballistic:how-do-i-get-more-67101d1f -->
 **2. Wie bekomme ich mehr Bälle?**  
 Triff die Extraball‑Symbole mit einem „+“. Jeder eingesammelte Ball erhöht dauerhaft die Anzahl der abgefeuerten Kugeln pro Runde.
 
+<!-- i18n:faq:id=faq:ballistic:what-happens-if-the-blocks-9a123cc9 -->
 **3. Was passiert, wenn ein Block den unteren Rand erreicht?**  
 Sobald ein Block die untere Begrenzung berührt, ist die Partie sofort verloren.
 
+<!-- i18n:faq:id=faq:ballistic:is-every-round-of-the-80cb1e07 -->
 **4. Sind die Level immer gleich aufgebaut?**  
 Nein. Blockpositionen, Werte und Power‑ups werden jedes Mal neu generiert, sodass jede Runde anders verläuft.
 
+<!-- i18n:faq:id=faq:ballistic:what-is-the-best-strategy-0308231c -->
 **5. Wie erreiche ich einen besonders hohen Score?**  
 Überlebe so lange wie möglich, sammle früh viele Extrabälle und nutze Winkel‑Schüsse, um große Kettenreaktionen zu erzeugen, statt nur einzelne Blöcke anzuschießen.
+

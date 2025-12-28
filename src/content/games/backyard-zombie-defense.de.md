@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 Backyard Zombie Defense ist ein leichtgewichtiger Tower‑Defense‑Titel: Du
@@ -24,6 +25,7 @@ bevor sie das Ende der Route erreichen. Ein Mix aus Einzelziel‑ und
 Flächenschaden‑Türmen, Verlangsamungseffekten und einem sauberen
 Wirtschaftsmanagement entscheidet darüber, ob dein Garten überlebt.
 
+<!-- i18n:section:tips -->
 ### Strategie & Walkthrough
 
 1.  **Lange Wege abdecken:** Platziere Türme so, dass sie möglichst lange
@@ -42,6 +44,7 @@ Wirtschaftsmanagement entscheidet darüber, ob dein Garten überlebt.
     Zwischenwellen auf. So kannst du im Notfall spontan einen zusätzlichen Turm
     bauen oder einen wichtigen Kern‑Turm sofort upgraden.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Türme setzen/verbessern/verkaufen:** Über die Benutzeroberfläche wählst du
@@ -50,17 +53,21 @@ Wirtschaftsmanagement entscheidet darüber, ob dein Garten überlebt.
 - **Wellen starten:** Starte die nächste Zombie‑Welle, sobald deine Verteidigung
   steht und du bereit bist.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:backyard-zombie-defense:keep-leakingwhat-to-do-70297790 -->
 - **Ich lasse ständig Zombies durch – was kann ich tun?**  
   Setze mehr Verlangsamungs‑Effekte und Flächenschaden an Engstellen und vor
   dem Ausgang ein. Oft hilft es auch, wenige Schlüssel‑Türme stark
   aufzurüsten, statt überall kleine Geschütze zu verteilen.
 
+<!-- i18n:faq:id=faq:backyard-zombie-defense:best-openers-9443fd68 -->
 - **Wie sieht ein guter Startaufbau aus?**  
   Ein einzelner, gut platzierter Turm, der lange Wege abdeckt, ist meist besser
   als mehrere schlecht positionierte Türme. Baue darauf auf und upgrade früh.
 
+<!-- i18n:faq:id=faq:backyard-zombie-defense:speed-toggle-3e55cb8a -->
 - **Gibt es eine Vorspulfunktion?**  
   Viele Versionen bieten einen Schnellvorlauf, mit dem du langsame Wellen
   beschleunigen kannst. Achte aber darauf, ihn in kritischen Phasen wieder

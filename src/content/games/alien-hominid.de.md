@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 Alien Hominid ist ein rasantes 2D‑Run‑and‑Gun‑Spiel im Side‑Scroller‑Stil, das
@@ -77,6 +78,7 @@ ausgenutzten Moveset des Aliens ab.
     Werde nicht gierig: Ein paar saubere Treffer pro Zyklus reichen, solange du
     zuverlässig ausweichst.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Die Steuerung unterscheidet sich leicht zwischen Flash‑, Konsolen‑ und HD‑
@@ -100,16 +102,22 @@ Versionen, der Kern bleibt aber gleich.
     *   **Reiten/Beißen:** Direkt auf den Kopf eines Gegners springen, um ihn zu
         reiten oder mit einem Biss auszuschalten.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:alien-hominid:q-why-is-alien-hominid-691593a9 -->
 *   **F: Warum ist Alien Hominid so schwierig?**  
     *   **A:** Der hohe Schwierigkeitsgrad ist gewollt und orientiert sich an klassischen 8‑/16‑Bit‑Shootern. Das Ein‑Treffer‑System zwingt dich zu sehr präzisem Spielen.
 
+<!-- i18n:faq:id=faq:alien-hominid:q-what-is-the-difference-f02af029 -->
 *   **F: Worin unterscheiden sich Flash‑Version und HD‑/Konsolenversionen?**  
     *   **A:** Die späteren Versionen sind stark erweitert: mehr Level, zusätzliche Gegner/Bosse, bessere Grafik und Sound, 2‑Spieler‑Koop, Minispiele und viele freischaltbare Hüte.
 
+<!-- i18n:faq:id=faq:alien-hominid:q-how-do-i-beat-1856fd4a -->
 *   **F: Wie besiege ich den Endboss?**  
     *   **A:** Der Endboss verläuft in mehreren Phasen. Lerne zuerst jede Pattern, konzentriere dich aufs Ausweichen und nutze nur sichere Fenster für Schaden.
 
+<!-- i18n:faq:id=faq:alien-hominid:q-is-alien-hominid-invasion-6b18b22e -->
 *   **F: Ist *Alien Hominid Invasion* dasselbe Spiel?**  
     *   **A:** Nein. *Alien Hominid Invasion* ist eine moderne Neuinterpretation mit Koop‑Fokus und Roguelite‑Elementen – gleiches Universum, aber neue Level und Systeme.
+

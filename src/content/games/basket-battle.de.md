@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 Basket Battle ist ein schnelles, leicht chaotisches Basketball‑Minispiel mit
@@ -24,6 +25,7 @@ und nutzt Abpraller, um in kurzen Duellen möglichst viele Körbe zu erzielen.
 Je nach Variante kannst du deine Figur bewegen, zum Rebound springen und den
 Gegner beim Nachsetzen ausboxen.
 
+<!-- i18n:section:tips -->
 ### Strategie & Walkthrough
 
 1.  **Mit hohem Bogen werfen:** Würfe mit höherem Bogen fallen weicher in den
@@ -39,6 +41,7 @@ Gegner beim Nachsetzen ausboxen.
     leicht gegen die Windrichtung zielen und etwas mehr Bogen geben, damit der
     Ball trotzdem im Korb landet.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Zielen & Kraft:** Ziehe mit Maus oder Finger, um Richtung und Stärke
@@ -47,16 +50,20 @@ Gegner beim Nachsetzen ausboxen.
   WASD oder Bildschirmbuttons, um bessere Wurf‑ oder Rebound‑Positionen zu
   erreichen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:basket-battle:shots-rim-outwhy-4f70cb40 -->
 - **Meine Würfe springen ständig vom Ring – warum?**  
   Meist wirfst du zu flach oder mit zu viel Kraft. Erhöhe den Bogen und reduziere
   leicht die Power, damit der Ball weicher in den Korb fällt.
 
+<!-- i18n:faq:id=faq:basket-battle:can-i-dunk-dcf98d86 -->
 - **Kann ich dunken?**  
   In manchen Versionen sind Dunks aus kurzer Distanz möglich, wenn du direkt
   unter dem Korb springst.
 
+<!-- i18n:faq:id=faq:basket-battle:multiplayer-fc9199ff -->
 - **Gibt es einen Mehrspielermodus?**  
   Viele Ausgaben bieten lokale Duelle zu zweit an einem Gerät oder gegen die
   KI.

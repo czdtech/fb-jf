@@ -18,6 +18,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 Age of War ist ein seitlich scrollendes Strategiespiel aus der Flash‑Ära.
@@ -74,6 +75,7 @@ Verteidigung und dem richtigen Evolutions‑Timing.
     Spezialfähigkeit, um einen letzten, entscheidenden Sturmangriff auf die
     Feindbasis zu starten.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Gesteuert wird fast ausschließlich mit der Maus.
@@ -87,16 +89,22 @@ Gesteuert wird fast ausschließlich mit der Maus.
 *   **Evolution:** Klicke oben rechts auf "Evolve", wenn du genug XP gesammelt
     hast.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:age-of-war:q-how-do-i-get-9279e7e6 -->
 *   **F: Wie bekomme ich XP?**
     *   **A:** Immer wenn eine deiner Einheiten einen Gegner besiegt, erhältst du XP. Aggressiv spielen und Wellen schnell eliminieren beschleunigt deine Evolution.
 
+<!-- i18n:faq:id=faq:age-of-war:q-what-is-the-best-94cf492b -->
 *   **F: Was ist die beste Einheit im Spiel?**
     *   **A:** Situationsabhängig, aber der „Super Soldier“ aus dem Zukunftszeitalter hat die beste Kombination aus Leben und Schaden und entscheidet viele Partien.
 
+<!-- i18n:faq:id=faq:age-of-war:q-is-it-better-to-f6ee451c -->
 *   **F: Lieber mehr Turrets bauen oder Einheiten spammen?**
     *   **A:** Zu Beginn ist ein Mix ideal: 1–2 Turrets sichern die Basis, während du konstant neue Truppen produzierst, um Druck aufzubauen.
 
+<!-- i18n:faq:id=faq:age-of-war:q-where-can-i-play-d6112852 -->
 *   **F: Wo kann ich Age of War nach dem Ende von Flash spielen?**
     *   **A:** Portale wie CrazyGames, Armor Games oder Kongregate hosten HTML5-/Ruffle-Versionen. Suche nach „Age of War HTML5“, um direkt im modernen Browser zu spielen.
+

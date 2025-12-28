@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 *Brain Test 2: Tricky Stories* ist ein besonders kreatives und anspruchsvolles
 Rätselspiel von Unico Studio und der Nachfolger des beliebten *Brain Test:
 Tricky Puzzles*. Anders als der erste Teil mit einzelnen, voneinander
@@ -50,6 +51,7 @@ ungewohnte Weise interagierst.
 
 ---
 
+<!-- i18n:section:how-to-play -->
 ### **2. So spielst du**
 
 Da der Reiz des Spiels in eigenständigem Denken und dem "Aha‑Moment" steckt,
@@ -77,7 +79,7 @@ allgemeine Strategien und die richtige Denkweise für Brain Test 2.
     *   **Lautstärketasten:** In einigen Rätseln musst du eventuell mit den
         physischen Tasten deines Geräts interagieren.
     *   **Drehen/Umdrehen:** Manchmal ist die Lösung, das Gerät auf den Kopf zu
-        stellen oder um 90° zu drehen.
+        stellen oder um neunzig Grad zu drehen.
 *   **Auf Details achten:** Zähle Objekte, prüfe, ob etwas hinter anderen
     Gegenständen versteckt ist, und schau dir jeden Pixel genau an.
 *   **Fehler gehören dazu:** Ausprobieren ist ausdrücklich Teil des Spiels.
@@ -89,6 +91,7 @@ allgemeine Strategien und die richtige Denkweise für Brain Test 2.
 
 ---
 
+<!-- i18n:section:controls -->
 ### **3. Steuerung**
 
 Die Bedienung von *Brain Test 2* ist intuitiv – oft ist die Art der
@@ -106,8 +109,10 @@ Interaktion selbst schon Teil des Rätsels. Die wichtigsten Aktionen sind:
 
 ---
 
+<!-- i18n:section:faq -->
 ### **4. Häufig gestellte Fragen (FAQ)**
 
+<!-- i18n:faq:id=faq:2-tricky-stories:im-stuck-on-a-level-cbe2e37f -->
 **F: Ich stecke in einem Level fest. Was soll ich tun?**  
 **A:** Nutze zuerst die allgemeinen Tipps aus dem Abschnitt oben: Probiere alle
 Interaktionen aus, lies die Frage sorgfältig und experimentiere mit den
@@ -115,12 +120,14 @@ Hardware‑Funktionen deines Handys. Wenn du wirklich gar nicht weiterkommst,
 verwende einen Glühbirnen‑Hinweis. Im Notfall kannst du über eine Werbung
 manchmal auch das Level überspringen.
 
+<!-- i18n:faq:id=faq:2-tricky-stories:is-the-game-free-9403c1eb -->
 **F: Ist das Spiel kostenlos?**  
 **A:** Ja, *Brain Test 2* ist grundsätzlich kostenlos spielbar und finanziert
 sich über Werbung. Du kannst Anzeigen ansehen, um Hinweise zu erhalten oder
 Level zu überspringen. Zusätzlich gibt es meist In‑App‑Käufe, mit denen du
 verpflichtende Werbung entfernen kannst.
 
+<!-- i18n:faq:id=faq:2-tricky-stories:how-do-i-get-more-0b80caeb -->
 **F: Wie bekomme ich mehr Glühbirnen‑Hinweise?**  
 **A:** Hinweise erhältst du zum Beispiel:
 1.  als Belohnung für abgeschlossene Level oder Kapitel,  
@@ -128,12 +135,14 @@ verpflichtende Werbung entfernen kannst.
 3.  durch das Ansehen optionaler Werbevideos,  
 4.  oder über direkte In‑App‑Käufe.
 
+<!-- i18n:faq:id=faq:2-tricky-stories:what-is-the-difference-between-92bd2e3d -->
 **F: Worin unterscheidet sich Brain Test 1 von Brain Test 2?**  
 **A:** *Brain Test 1* besteht aus vielen voneinander unabhängigen Einzelrätseln.
 *Brain Test 2* setzt dagegen auf abgeschlossene Geschichtenkapitel mit
 wiederkehrenden Figuren und kleinen Plots. Dadurch fühlt sich das Rätsellösen
 zusammenhängender und motivierender an.
 
+<!-- i18n:faq:id=faq:2-tricky-stories:does-the-game-require-an-b76f6b27 -->
 **F: Brauche ich zwingend eine Internetverbindung?**  
 **A:** Die meisten Level kannst du offline spielen. Eine Verbindung wird nur
 benötigt, wenn du Anzeigen ansehen möchtest – etwa um Hinweise zu bekommen oder

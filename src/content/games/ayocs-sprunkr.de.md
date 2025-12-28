@@ -11,9 +11,11 @@ thumbnail: /new-images/thumbnails/ayocs-sprunkr.png
 tags:
   - ayocs sprunkr
 score: 4.1/5  (54 votes)
+releaseDate: 2025-12-04
 ---
 
 
+<!-- i18n:section:introduction -->
 Ein perfekter Mod für alle, die den Sound von Sprunki mögen und ihm einen modischen High‑Fashion‑Look verpassen wollen.
 
 ### Spielübersicht
@@ -62,3 +64,4 @@ Der Einstieg ist genauso leicht wie im Original: Figuren auswählen, platzieren 
 AYOCS Sprunkr eignet sich perfekt, wenn du die Sprunki‑Formel bereits magst,
 aber Lust auf einen modischen Neuanstrich und frische Klänge hast. Einfach
 starten, Figuren ziehen und deinen eigenen AYOCS‑Style bauen.
+

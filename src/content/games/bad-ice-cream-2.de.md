@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 *Bad Ice‑Cream 2* ist der zweite Teil der kultigen 2D‑Pixel‑Arcade‑Reihe. Du
@@ -70,27 +71,36 @@ Labyrinth zu rennen.
 *   **Absprechen:** Sprecht euch ab, bevor ihr Wände baut oder zerstört, sonst sperrt ihr euch gegenseitig ein.  
 *   **Lockvogel‑Taktik:** Eine Person lockt Gegner bewusst weg, während die andere in Ruhe Früchte einsammelt.
 
+<!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `↑` `↓` `←` `→` `Spacebar` `W` `A` `S` `D` `F`
 
 Das Spiel ist für Einzelspieler und Koop am gleichen Keyboard ausgelegt.
 
 *   **Spieler 1:**
-    *   **Bewegung:** Pfeiltasten (`↑`, `↓`, `←`, `→`)
-    *   **Eis erzeugen/zerstören:** `Leertaste`
+    *   **Bewegung:** Pfeiltasten (↑, ↓, ←, →)
+    *   **Eis erzeugen/zerstören:** Leertaste
 *   **Spieler 2:**
-    *   **Bewegung:** `W`, `A`, `S`, `D`
-    *   **Eis erzeugen/zerstören:** `F`
+    *   **Bewegung:** W, A, S, D
+    *   **Eis erzeugen/zerstören:** F
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:bad-ice-cream-2:q-can-i-kill-the-011ef9f4 -->
 *   **F: Kann ich Gegner dauerhaft besiegen?**
     *   **A:** Nein. Du kannst sie nur meiden oder temporär mit Eiswänden einsperren; ausschalten lassen sie sich nicht.
 
+<!-- i18n:faq:id=faq:bad-ice-cream-2:q-what-happens-if-the-b7a7f4d0 -->
 *   **F: Was passiert, wenn der Timer abläuft?**
     *   **A:** Läuft die Zeit ab, bevor du alle Früchte gesammelt hast, verlierst du ein Leben und musst das Level neu starten.
 
+<!-- i18n:faq:id=faq:bad-ice-cream-2:q-is-there-a-difference-89ee784c -->
 *   **F: Haben unterschiedliche Früchte besondere Effekte?**
     *   **A:** Nein. Bananen, Kirschen oder Trauben sehen nur anders aus – entscheidend ist nur, dass du alle einsammelst.
 
+<!-- i18n:faq:id=faq:bad-ice-cream-2:q-how-does-the-2player-8a760ff7 -->
 *   **F: Wie funktioniert der 2‑Spieler‑Modus bei den Leben?**
     *   **A:** Ihr teilt euch in der Regel einen gemeinsamen Vorrat. Wird einer erwischt, verliert das ganze Team ein Leben.
+

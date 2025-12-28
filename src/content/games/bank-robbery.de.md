@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 *Bank Robbery 2* ist ein teambasierter Ego‑Shooter, in dem sich zwei Fraktionen
@@ -33,6 +34,7 @@ bevor es mit dem Geld flieht. Beide Seiten nutzen Waffen, Ausrüstung und
 teilweise Fahrzeuge, um ihre Ziele zu erreichen und Geld für bessere Ausrüstung
 in zukünftigen Runden zu verdienen.
 
+<!-- i18n:section:tips -->
 ### Strategie
 
 Der Spielstil hängt stark davon ab, auf welcher Seite du spielst.
@@ -72,44 +74,53 @@ Der Spielstil hängt stark davon ab, auf welcher Seite du spielst.
     euer Fokus auf Verfolgung und Blockade. Nutzt Polizeiwagen, um sie zu
     verfolgen, oder richtet Sperren auf den erwarteten Routen ein.
 
+<!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `W` `A` `S` `D` `Left Mouse Button` `Right Mouse Button` `R` `Left-Shift` `Spacebar` `E` `F` `1` `2` `3` `C`
 
 Die Steuerung orientiert sich an gängigen PC‑Ego‑Shootern (z. B. Roblox).
 
-- **`W`, `A`, `S`, `D`:** Bewegen
+- **W, A, S, D:** Bewegen
 - **Maus:** Zielen und Kamera
 - **Linke Maustaste:** Schießen
 - **Rechte Maustaste:** Zielen (ADS)
-- **`R`:** Nachladen
-- **`Left‑Shift`:** Sprint
-- **`Leertaste`:** Springen
-- **`E` / `F`:** Mit Objekten interagieren (Bohrer setzen/entschärfen, Geld
+- **R:** Nachladen
+- **Left‑Shift:** Sprint
+- **Leertaste:** Springen
+- **E / F:** Mit Objekten interagieren (Bohrer setzen/entschärfen, Geld
   aufheben, Fahrzeuge betreten)
-- **Zifferntasten (`1`, `2`, `3`, …):** Waffen/Items wechseln
-- **`C`:** Ducken (falls in der jeweiligen Version vorhanden)
+- **Zifferntasten (1, 2, 3, …):** Waffen/Items wechseln
+- **C:** Ducken (falls in der jeweiligen Version vorhanden)
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:bank-robbery:how-do-i-get-better-882d3244 -->
 - **F: Wie komme ich an bessere Waffen und Ausrüstung?**  
   **A:** Durch gewonnene Runden und erfüllte Ziele erhältst du In‑Game‑Geld, das
   du im Shop gegen stärkere Waffen, bessere Rüstungen und Tools eintauschen
   kannst.
 
+<!-- i18n:faq:id=faq:bank-robbery:as-a-robber-the-drill-14c81697 -->
 - **F: Unser Bohrer wird ständig entschärft – was tun?**  
   **A:** Lasst den Bohrer nie unbewacht. Mindestens ein bis zwei Teammitglieder
   sollten den Raum sichern, während der Rest Zugänge blockiert oder die Polizei
   ablenkt.
 
+<!-- i18n:faq:id=faq:bank-robbery:as-a-cop-we-are-9863dae1 -->
 - **F: Wir werden als Cops dauernd überrannt – wie verteidigen wir besser?**  
   **A:** Verteidigt die gesamte Bank statt nur einen Punkt. Frühzeitige Info,
   von wo der Angriff kommt, erlaubt euch Gegenangriffe aus dem Rücken der
   Räuber.
 
+<!-- i18n:faq:id=faq:bank-robbery:what-is-the-best-way-05d6ac20 -->
 - **F: Gibt es den perfekten Weg in die Bank für Räuber?**  
   **A:** Einen allgemein besten Weg gibt es nicht – alles hängt von der
   Aufstellung der Cops ab. Überraschende Seiteneingänge oder Sprengungen von
   Seitenwänden sind oft erfolgreicher als der offene Weg durch die Front.
 
+<!-- i18n:faq:id=faq:bank-robbery:can-i-switch-teams-during-61152304 -->
 - **F: Kann ich während einer laufenden Runde das Team wechseln?**  
   **A:** In der Regel nicht. Die Teamwahl erfolgt vor Rundenbeginn und bleibt
   bis zum Ende der Runde bestehen, um das Matchmaking fair zu halten.

@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 *4 Pics 1 Word* (deutsch oft als *4 Bilder 1 Wort* bekannt) ist ein sehr
 beliebtes, leicht verständliches Worträtsel. Ziel ist es, das eine Wort zu
 finden, das alle vier angezeigten Bilder gemeinsam haben. Das Spiel testet dein
@@ -25,6 +26,7 @@ Verbindungen abzuleiten.
 
 ---
 
+<!-- i18n:section:how-to-play -->
 ### So spielst du 4 Pics 1 Word
 
 Die Regeln sind simpel und schnell zu verstehen – ideal für Spieler*innen aller
@@ -93,22 +95,28 @@ Lösen schwieriger Rätsel.
 
 ---
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:4-pics-1-word:is-4-pics-1-word-adb8e06b -->
 **F: Ist 4 Pics 1 Word kostenlos spielbar?**  
 **A:** Ja, das Spiel ist grundsätzlich gratis. Es finanziert sich über Werbung
 und optionale In‑App‑Käufe, mit denen du zusätzliche Münzen erwerben kannst.
 
+<!-- i18n:faq:id=faq:4-pics-1-word:what-happens-if-i-run-226da951 -->
 **F: Was, wenn mir die Münzen ausgehen und ich feststecke?**  
 **A:** Nutze die Funktion zum Teilen des Rätsels und bitte Freund*innen um
 Hilfe. Außerdem erhältst du durch das Lösen weiterer Rätsel wieder neue Münzen;
 manche Versionen bieten auch tägliche Boni an.
 
+<!-- i18n:faq:id=faq:4-pics-1-word:do-the-four-pictures-always-ed5f9c40 -->
 **F: Sind die Verbindungen zwischen den vier Bildern immer gleich gestrickt?**  
 **A:** Nein. Mal zeigen alle vier Bilder Varianten desselben Objekts, mal teilen
 sie nur ein abstraktes Konzept. Gerade diese Vielfalt macht den Reiz des
 Spiels aus.
 
+<!-- i18n:faq:id=faq:4-pics-1-word:is-the-game-available-in-27fc2a0d -->
 **F: Gibt es das Spiel in mehreren Sprachen?**  
 **A:** Ja, 4 Pics 1 Word existiert in vielen Sprachversionen, wobei Rätsel und
 Lösungen jeweils an die Sprache angepasst sind.
+

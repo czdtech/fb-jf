@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 3D Football Mania reduziert Fußball auf kurze, intensive Spielsituationen. Du
@@ -24,6 +25,7 @@ Abschluss suchst, und versuchst mit gut getimten Schüssen den Torhüter zu
 bezwingen. Die Szenen sind schnell, leicht wiederholbar und ideal, um
 Torschuss‑Timing zu üben.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Steilpässe in den Lauf:** Spiele den Ball lieber in den freien Raum vor
@@ -42,6 +44,7 @@ zu versetzen, und schließe dann sofort ab.
 Abstauber entstehen, wenn du nach einem gehaltenen Ball oder Pfostentreffer als
 Erster am zweiten Ball bist.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Bewegen/Passen/Schießen:** Entsprechend der Bildschirmanzeigen per Wisch-
@@ -49,16 +52,21 @@ Erster am zweiten Ball bist.
 - **Zielen:** Ziehe mit Maus/Finger in die gewünschte Schussrichtung.
 - **Schussstärke:** Halte länger gedrückt, um stärkere Schüsse zu laden.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:3d-football-mania:keeper-blocks-everythingtips-6ac4f81c -->
 - **F: Der Torwart hält fast alles – was tun?**  
   **A:** Ziele öfter quer zum Tor auf die gegenüberliegende Ecke und halte die
   Schüsse flach oder leicht angeschnitten, statt zentral aufs Tor zu zielen.
 
+<!-- i18n:faq:id=faq:3d-football-mania:passing-too-slow-619ffb34 -->
 - **F: Meine Pässe kommen zu spät an.**  
   **A:** Spiele früher ab und in den freien Raum, nicht direkt auf den
   Mitspieler. So kann dein Spieler im Lauf den Ball mitnehmen.
 
+<!-- i18n:faq:id=faq:3d-football-mania:defenders-crowd-mefix-a4cae96e -->
 - **F: Ich werde ständig von Verteidigern umringt.**  
   **A:** Versuche weniger zu dribbeln und mehr im Doppelpass zu spielen. Pass und
   bewege dich weiter, statt in mehrere Gegenspieler hineinzulaufen.
+

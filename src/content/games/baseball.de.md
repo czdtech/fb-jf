@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 *Doodle Baseball* ist ein schlichtes, aber süchtig machendes
@@ -31,6 +32,7 @@ Fastballs über langsamere Pitches bis hin zu gemeinen Kurven – auf die du dei
 Timing anpassen musst. Nach drei Strikes ist Schluss, und deine Punktzahl ist
 so hoch wie deine Offensivleistung.
 
+<!-- i18n:section:tips -->
 ### Strategie
 
 Auch wenn nur eine Taste benutzt wird, erfordert perfektes Schlagen volle
@@ -57,6 +59,7 @@ Konzentration.
     kalibrieren, als permanent zu früh zu schlagen und schnelle Outs zu
     kassieren.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Die Steuerung ist extrem einfach und damit für alle zugänglich.
@@ -68,24 +71,31 @@ Die Steuerung ist extrem einfach und damit für alle zugänglich.
 
 Mehr Eingaben gibt es nicht – Laufen und Feldspiel übernimmt das Spiel automatisch.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:baseball:how-do-i-hit-a-62d08c4f -->
 **1. Wie schlage ich einen Home Run?**
 
 Triff den Ball im perfekten Moment, sobald er über der Platte ist und dein Schwung den Sweet Spot erreicht – Timing ist alles.
 
+<!-- i18n:faq:id=faq:baseball:is-it-possible-to-win-41cb03d5 -->
 **2. Kann man das Spiel „gewinnen“?**
 
 *Doodle Baseball* ist ein Endlos-Spiel. Nach drei Outs ist Schluss, daher jagst du nur deinen eigenen Highscore.
 
+<!-- i18n:faq:id=faq:baseball:why-do-i-keep-striking-d0e18c50 -->
 **3. Warum verhaue ich langsame Pitches?**
 
 Dein Gehirn passt sich an Fastballs an, daher swingst du automatisch zu früh. Warte bewusst länger, wenn der Ball sichtbar langsamer fliegt.
 
+<!-- i18n:faq:id=faq:baseball:can-i-choose-my-character-337cae71 -->
 **4. Kann ich meinen Charakter oder mein Team wählen?**
 
 Nein. Die Figuren rotieren automatisch, dienen nur der Optik und spielen sich identisch.
 
+<!-- i18n:faq:id=faq:baseball:does-the-game-get-harder-3eb63b93 -->
 **5. Wird das Spiel später schwerer?**
 
 Ja. Mit steigender Punktzahl variiert der Pitcher Tempo und Effekte stärker, wodurch dein Timing laufend gefordert wird.
+

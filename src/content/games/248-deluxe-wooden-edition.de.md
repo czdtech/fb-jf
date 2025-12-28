@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 248 Deluxe Wooden Edition bietet ein haptisches Zahlen‑Merge‑Erlebnis auf einem
@@ -24,6 +25,7 @@ um sie zu einem höheren Wert zu verschmelzen. So schaffst du neue Freiräume un
 jagst immer größere Zielzahlen, während du versuchst, das Gitter nicht
 zuzubauen.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Hohe Zahlen in die Mitte, Futter an den Rand:** Platziere große Werte
@@ -41,6 +43,7 @@ zuzubauen.
     Möglichkeiten dir danach noch bleiben. So bewahrst du dir flexible Wege und
     verhinderst, dass du dich selbst einsperrst.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Verbinden:** Ziehe mit Maus oder Finger über benachbarte Felder mit
@@ -48,16 +51,21 @@ zuzubauen.
 - **Rückgängig/Neustart:** Falls vorhanden, kannst du Züge rückgängig machen
   oder das Brett komplett zurücksetzen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:248-deluxe-wooden-edition:board-locks-quicklywhy-c408395d -->
 - **F: Das Brett blockiert sehr schnell – warum?**  
   **A:** Wahrscheinlich isolierst du Zahlen und zerstörst deine "Spuren". Versuche,
   immer ein oder zwei offene Bahnen über das Brett zu erhalten.
 
+<!-- i18n:faq:id=faq:248-deluxe-wooden-edition:infinite-1937d7e2 -->
 - **F: Läuft das Spiel unendlich?**  
   **A:** In der Regel ja – es geht vor allem darum, möglichst lange zu überleben
   und immer höhere Punktzahlen zu erzielen.
 
+<!-- i18n:faq:id=faq:248-deluxe-wooden-edition:hints-27c5017f -->
 - **F: Gibt es Hinweise?**  
   **A:** Viele Versionen bieten Hilfen oder Vorschläge an. Nutze sie sparsam,
   damit der Rätselcharakter erhalten bleibt.
+

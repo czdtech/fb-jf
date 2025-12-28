@@ -15,6 +15,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 3D Free Kick konzentriert sich ganz auf die Kunst des Freistoßes. Du suchst dir
@@ -23,6 +24,7 @@ Torhüter mit präzise platzierten Schüssen zu überwinden. Unterschiedliche
 Levelvarianten mit variabler Mauergröße, Distanz, Keeper‑Reaktionen und Wind
 fordern deine Zielsicherheit und dein Gefühl für Ballkurven.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Ecken anvisieren:** Hohe oder sehr flache Ecken sind für Torhüter am
@@ -40,6 +42,7 @@ fordern deine Zielsicherheit und dein Gefühl für Ballkurven.
     erkennbare Schritte. Täusche eine Linie an und ziehe den Ball dann später
     in die andere Ecke.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Zielen:** Mit Maus oder Finger ziehen, um Richtung und Höhe des Schusses
@@ -49,16 +52,21 @@ fordern deine Zielsicherheit und dein Gefühl für Ballkurven.
 - **Effet/Kurve:** Durch gebogene Wischbewegungen oder einen Spin‑Regler gibst du
   seitlichen Effet oder Topspin.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:3d-free-kick:my-shots-hit-the-wallhow-4d8f31ba -->
 - **F: Meine Schüsse landen ständig in der Mauer.**  
   **A:** Ziele etwas weiter außen an der Mauer vorbei und erhöhe leicht die
   Flugbahn oder den Effet, damit der Ball sicher darüber kommt.
 
+<!-- i18n:faq:id=faq:3d-free-kick:keeper-keeps-catchingtips-15820696 -->
 - **F: Der Torwart fängt fast jeden Ball – was tun?**  
   **A:** Schieße häufiger auf den entfernten Pfosten mit später Kurve und
   variiere die Höhe, damit sich der Keeper nicht auf ein Muster einstellen kann.
 
+<!-- i18n:faq:id=faq:3d-free-kick:does-wind-matter-70cc93ed -->
 - **F: Spielt der Wind wirklich eine Rolle?**  
   **A:** Ja. Schüsse werden je nach Windrichtung abgelenkt. Kontere das, indem du
   leicht gegen den Wind zielst und den Effet in die Gegenrichtung setzt.
+

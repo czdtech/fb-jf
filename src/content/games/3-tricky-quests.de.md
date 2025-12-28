@@ -18,6 +18,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 *Brain Test 3: Tricky Quests* ist der dritte Teil von Unico Studio und vereint die bekannten tricky Rätsel mit einer kompletten Abenteuergeschichte.
 
 Du begleitest **Alyx**, die sechs Power Gems finden muss, um ihren verzauberten Vater zu retten. Statt isolierter Level erkundest du einen verbundenen Spielwelt-Plan mit fortlaufender Story.
@@ -32,6 +33,7 @@ Du begleitest **Alyx**, die sechs Power Gems finden muss, um ihren verzauberten 
 
 ---
 
+<!-- i18n:section:tips -->
 ### **2. Spieltipps & Walkthrough-Ansatz**
 
 Die Strategie baut auf der Denkweise der Vorgänger auf, verlangt aber mehr Erkundung und Ressourcenmanagement.
@@ -55,6 +57,7 @@ Die Strategie baut auf der Denkweise der Vorgänger auf, verlangt aber mehr Erku
 
 ---
 
+<!-- i18n:section:controls -->
 ### **3. Steuerung**
 
 Die Steuerung von *Brain Test 3* baut auf den Vorgängern auf, wird aber um
@@ -71,33 +74,40 @@ Inventar‑Aktionen ergänzt.
 
 ---
 
+<!-- i18n:section:faq -->
 ### **4. Häufige Fragen (FAQ)**
 
+<!-- i18n:faq:id=faq:3-tricky-quests:how-do-i-use-the-b86c92eb -->
 **F: Wie benutze ich Items in meinem Rucksack?**  
 **A:** Tippe auf das Rucksack‑Symbol, um das Inventar zu öffnen. Halte dann das
 gewünschte Item gedrückt und ziehe es auf das Objekt oder die Figur in der
 Szene, mit der du es verwenden möchtest. Um zwei Items zu kombinieren, ziehst du
 sie im Inventar aufeinander.
 
+<!-- i18n:faq:id=faq:3-tricky-quests:what-is-the-fundamental-differ-4486966d -->
 **F: Worin unterscheidet sich Brain Test 3 von den ersten beiden Teilen?**  
 **A:** *Brain Test 1* ist eine Sammlung einzelner, unabhängiger Rätsel, *Brain
 Test 2* ergänzt das um kapitelartige Geschichten. *Brain Test 3* geht noch einen
 Schritt weiter und wird zu einem echten Puzzle‑Adventure mit zusammenhängender
 Hauptstory, Inventarsystem und verknüpften Schauplätzen.
 
+<!-- i18n:faq:id=faq:3-tricky-quests:why-cant-i-get-past-522c207f -->
 **F: Ich komme an einer Stelle nicht weiter – warum?**  
 **A:** Meist fehlt dir ein entscheidender Gegenstand. Gehe zu früheren Szenen
 zurück und suche gründlich nach Items, die du übersehen haben könntest. Prüfe
 auch, ob du in der Werkstatt neue Quest‑Objekte herstellen oder Werkzeuge
 verbessern kannst.
 
+<!-- i18n:faq:id=faq:3-tricky-quests:is-this-game-free-a3b0cc70 -->
 **F: Ist das Spiel kostenlos?**  
 **A:** Ja, *Brain Test 3* kann kostenlos heruntergeladen und gespielt werden,
 enthält aber Werbung. Über Anzeigen erhältst du zum Beispiel zusätzliche
 Hinweise; oft kannst du Werbung per In‑App‑Kauf entfernen.
 
+<!-- i18n:faq:id=faq:3-tricky-quests:what-is-the-workshop-for-ca2fadbe -->
 **F: Wofür ist die Werkstatt gedacht?**  
 **A:** Die Werkstatt ist wichtig für den Story‑Fortschritt. Wenn du bestimmte
 Quest‑Gegenstände (etwa Edelsteinfragmente) gesammelt hast, musst du hierher
 zurückkehren, um sie zusammenzusetzen oder spezielle Werkzeuge zu bauen bzw. zu
 verbessern.
+

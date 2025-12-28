@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 *Baldi's Basics in Education and Learning* wirkt wie ein billiges
@@ -31,6 +32,7 @@ sondern ums Überleben: Sammle die restlichen Notizbücher, weiche Baldi und
 einem ganzen Ensemble seltsamer Figuren aus und finde schließlich den Weg aus
 der Schule.
 
+<!-- i18n:section:tips -->
 ### Strategie
 
 Um in *Baldi's Basics* zu bestehen, brauchst du gutes Gehör, kluges
@@ -49,8 +51,8 @@ Ressourcen‑Management und ein Verständnis für jede Figur.
       dich fest. Mit **Safety Scissors** kannst du das Seil zerschneiden und
       entkommen.
     - **Principal of the Thing:** Der Direktor verwarnt dich bei Regelverstößen
-      (Rennen, Lehrerzimmer betreten, BSoda benutzen) und schickt dich in die
-      Arrestzelle. Laufe nur, wenn er außer Sichtweite ist.
+      (Rennen, Lehrerzimmer betreten, BSoda benutzen) und schickt dich für
+      15-30 Sekunden in die Arrestzelle. Laufe nur, wenn er außer Sichtweite ist.
     - **It's a Bully:** Blockiert Flure und verlangt ein Item. Entweder du
       gibst ihm etwas oder findest einen anderen Weg.
     - **Gotta Sweep:** Ein riesiger Besen, der gelegentlich durch die Gänge
@@ -70,26 +72,33 @@ Ressourcen‑Management und ein Verständnis für jede Figur.
     Ausgänge berühren, bevor sich der vierte, echte Ausgang öffnet. Hier zählen
     gutes Kartenwissen, Items und ein wenig Glück.
 
+<!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `W` `A` `S` `D` `Left-Shift` `Left Mouse Button` `Right Mouse Button` `Spacebar`
 
 Die Steuerung entspricht klassischen Ego‑Spielen auf dem PC.
 
-- **`W`, `A`, `S`, `D`:** Bewegen
+- **W, A, S, D:** Bewegen
 - **Maus:** Umschauen
-- **`Left‑Shift`:** Sprint (verbraucht Ausdauer)
+- **Left‑Shift:** Sprint (verbraucht Ausdauer)
 - **Linke Maustaste:** Türen öffnen, Items aufheben
 - **Rechte Maustaste:** Aktuelles Item benutzen
 - **Mausrad:** Zwischen Items wechseln
-- **`Leertaste`:** Nach hinten schauen (je nach Version)
+- **Leertaste:** Nach hinten schauen (je nach Version)
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:baldis-basics:how-do-i-solve-the-663e2116 -->
 **F: Wie löse ich die „unmögliche“ Matheaufgabe?**  
 **A:** Gar nicht. Diese Aufgabe ist absichtlich unlösbar und löst Baldis Aggression aus – genau so will es das Spiel.
 
+<!-- i18n:faq:id=faq:baldis-basics:why-does-baldi-get-faster-0d96165d -->
 **F: Warum wird Baldi immer schneller?**  
 **A:** Seine Geschwindigkeit steigt mit jedem eingesammelten Notizbuch. Das ist die wichtigste Schwierigkeitsschraube und zwingt dich, später noch präziser zu spielen.
 
+<!-- i18n:faq:id=faq:baldis-basics:what-are-the-school-rules-89dcb636 -->
 **F: Welche Regeln überwacht der Direktor?**  
 **A:** Vor allem:
 
@@ -100,8 +109,10 @@ Die Steuerung entspricht klassischen Ego‑Spielen auf dem PC.
 
 Bei Verstößen landet man im Arrest.
 
+<!-- i18n:faq:id=faq:baldis-basics:how-do-i-get-out-8f6e92ec -->
 **F: Wie komme ich aus dem Arrest frei?**  
 **A:** Normalerweise musst du abwarten. Hast du jedoch die „Principal's Keys“, kannst du die Tür sofort aufsperren und entkommen.
 
+<!-- i18n:faq:id=faq:baldis-basics:i-collected-all-7-notebooks-0a8ec16c -->
 **F: Ich habe alle sieben Notizbücher – wie gewinne ich?**  
 **A:** Nachdem du das siebte Notizbuch hast, erscheinen drei falsche Ausgänge. Berühre sie alle, damit sich der vierte, echte Exit öffnet, und erreiche ihn, bevor Baldi dich erwischt.

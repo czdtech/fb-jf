@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 Air Traffic Control ist ein Management‑ und Puzzlespiel in Echtzeit, in dem du
@@ -28,6 +29,7 @@ Konflikterkennung und ‑auflösung: Du erkennst gefährliche Konvergenzen früh
 passt Kurs und Abstand an und sorgst dafür, dass die Landebahn in einem
 kontinuierlichen, aber sicheren Tempo bedient wird.
 
+<!-- i18n:section:tips -->
 ### Strategie & Walkthrough
 
 1.  **Akute Konflikte zuerst lösen:** Kümmere dich zuerst um Flugzeuge, die
@@ -51,6 +53,7 @@ kontinuierlichen, aber sicheren Tempo bedient wird.
     Komplexität und erzeugen neue Konflikte. Setze lieber wenige, klare
     Vektoren, die das Problem dauerhaft lösen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Die genaue Steuerung hängt von der Version ab, folgt aber meist einem ähnlichen
@@ -68,24 +71,30 @@ Schema:
   Anflugpunkt, wenn du Maschinen in die Warteschlange für den Endanflug
   einsortierst.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:air-traffic-control:how-do-i-avoid-collisions-87cdf52e -->
 - **Wie vermeide ich Kollisionen?**  
   Halte seitliche Abstände, indem du früh Vektoren setzt. Kombiniere, wenn
   möglich, kleine Geschwindigkeitsunterschiede, um Lücken zu öffnen, statt erst
   in letzter Sekunde auszuweichen.
 
+<!-- i18n:faq:id=faq:air-traffic-control:what-does-a-conflict-alert-554e11d0 -->
 - **Was bedeutet eine Konfliktwarnung?**  
   Das Spiel signalisiert, dass zwei Flugzeuge kurz davor sind, den
   Mindestabstand zu unterschreiten. Ändere sofort Kurs oder Geschwindigkeit
   mindestens eines der beiden, sodass sich die Flugwege wieder trennen.
 
+<!-- i18n:faq:id=faq:air-traffic-control:can-i-pause-or-change-01568980 -->
 - **Kann ich pausieren oder die Spielgeschwindigkeit ändern?**  
   Viele Browserversionen bieten Pause‑ oder Zeitlupen‑Funktionen. Nutze sie, um
   in Phasen mit hohem Verkehrsaufkommen in Ruhe deine Sequenzen zu planen.
 
+<!-- i18n:faq:id=faq:air-traffic-control:any-tip-for-heavy-traffic-b3840a28 -->
 - **Hast du Tipps für sehr dichten Verkehr?**  
   Arbeite mit einem klaren Pattern und begrenze die Zahl der Flugzeuge, die
   gleichzeitig im Endanflug sind. Konflikte solltest du möglichst weit von der
   Landebahn entfernt lösen, damit der letzte Anflugabschnitt ruhig und stabil
   bleibt.
+

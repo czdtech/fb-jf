@@ -15,6 +15,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spielübersicht
 
 Arctic Pong ist eine einfache, aber spaßige Neuinterpretation des
@@ -23,6 +24,7 @@ mit ihm den Puck zurückzuspielen, ohne ein Tor zu kassieren. Über präzise
 Bewegungen und clevere Winkeländerungen baust du Druck auf deinen Gegner auf
 und erzielst Punkte.
 
+<!-- i18n:section:tips -->
 ### Strategie & Walkthrough
 
 1.  **Auf die Ecken zielen:** Triff den Puck möglichst nahe an den Rändern
@@ -39,6 +41,7 @@ und erzielst Punkte.
     aufzubauen – etwa mit einem gezielten Schuss auf die Ecke oder in eine
     schwer erreichbare Zone.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Schläger bewegen:** Bewege ihn mit den Pfeiltasten, WASD oder per Drag
@@ -46,16 +49,21 @@ und erzielst Punkte.
 - **Spielmodi:** Viele Ausgaben bieten einen lokalen 2‑Spieler‑Modus sowie
   Duelle gegen die KI.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:arctic-pong:is-there-spin-baa5b3bf -->
 - **Gibt es Effet/Spin?**  
   Manche Versionen simulieren Spin grob über die Kontaktstelle auf dem
   Schläger, aber komplexe Drehphysik gibt es in der Regel nicht.
 
+<!-- i18n:faq:id=faq:arctic-pong:best-defense-827d0d94 -->
 - **Was ist die beste Verteidigungsstrategie?**  
   Bleib möglichst in der Mitte, halte den Schläger ruhig und reagiere früh auf
   Abpraller von den Seitenwänden.
 
+<!-- i18n:faq:id=faq:arctic-pong:quick-wins-c88c13f8 -->
 - **Wie gewinne ich schnell?**  
   Variiere Winkel und Tempo deiner Schläge, ziele auf die Ecken und nutze
   Überraschungsmomente, um den Gegner zu Fehlern zu zwingen.
+
