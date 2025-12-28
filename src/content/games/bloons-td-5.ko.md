@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### 게임 소개
 
 *Bloons TD 5*는 타워 디펜스 장르에서 중요한 이정표로 평가받는 작품입니다. 깊이 있는
@@ -43,6 +44,7 @@ BTD5에서는 다음과 같은 요소들이 새로 추가되어 세계관과 전
   예를 들면 MOAB Assassin(폭탄 타워 x/4)의 미사일이나 Heli Pilot의 Downdraft 같은
   스킬로 위기 상황을 뒤집을 수 있습니다.
 
+<!-- i18n:section:tips -->
 ### 플레이 전략
 
 - **경제가 전부입니다:** BTD5에서 가장 중요한 전략은 강력한 경제 기반을 만드는
@@ -76,6 +78,7 @@ BTD5에서는 다음과 같은 요소들이 새로 추가되어 세계관과 전
     - **Sabotage Supply Lines (Ninja Monkey x/4 표기):** 모든 화면 내 Bloon 속도를 절반으로
       줄이는 스킬로, 후반 라운드 생존에 거의 필수 수준의 능력입니다.
 
+<!-- i18n:section:controls -->
 ### 조작 방법
 
 조작은 일반적인 포인트 앤 클릭/터치 방식입니다.
@@ -90,30 +93,37 @@ BTD5에서는 다음과 같은 요소들이 새로 추가되어 세계관과 전
 - **단축키:** PC 버전에서는 타워 배치 및 스킬 사용에 단축키가 지원되며,
   보통 아이콘 위에 키가 함께 표시됩니다.
 
+<!-- i18n:section:faq -->
 ### 자주 묻는 질문(FAQ)
 
+<!-- i18n:faq:id=faq:bloons-td-5:what-is-the-best-tower-e969f316 -->
 **1. Bloons TD 5에서 가장 좋은 타워는 무엇인가요?**  
 > 단 하나의 "최강 타워"는 없습니다. 이 게임의 핵심은 시너지입니다.  
 > 다만 순수 화력만 놓고 보면, 충분히 제물을 바친 **Temple of the Monkey God**를
 > 2/3 **Monkey Village**로 보조한 조합이 가장 강력한 편에 속합니다.
 
+<!-- i18n:faq:id=faq:bloons-td-5:how-do-i-get-the-fd098d0c -->
 **2. Temple of the Monkey God은 어떻게 얻나요? 업그레이드 목록에 안 보여요.**  
 > Temple은 **Super Monkey**의 마지막 4/x 업그레이드입니다. 먼저 3/x 업그레이드인
 > "Sun God"을 구매해야 Temple 업그레이드가 해금됩니다.
 
+<!-- i18n:faq:id=faq:bloons-td-5:how-does-sacrificing-for-the-b26fb21a -->
 **3. Temple 제물 시스템은 어떻게 작동하나요?**  
 > 마지막 Temple 업그레이드 버튼을 누르기 전에, Sun God의 공격 범위 안에 다른
 > 타워를 배치해 두어야 합니다. 업그레이드를 진행하면 이 타워들이 제거되고
 > 그 가치가 Temple의 능력치로 흡수됩니다. 최대 성능을 위해서는 네 가지 카테고리
 > 중 세 가지에서 각각 최소 3만 달러 이상의 타워를 제물로 바치는 것이 좋습니다
 
+<!-- i18n:faq:id=faq:bloons-td-5:what-is-a-zomg-and-0d537e0a -->
 **4. ZOMG가 무엇이고, 어떻게 상대해야 하나요?**  
 > ZOMG는 가장 단단한 블림입니다. 속도는 매우 느리지만 체력이 엄청납니다.  
 > 이를 상대하려면 극도로 높은 단일 타깃 화력이 필요합니다. Temple, 다수의
 > MOAB Assassin(Bomb Tower x/4 표기) 스킬, 그리고 Ninja의 Sabotage Supply Lines 스킬
 > 조합이 ZOMG를 처리하는 핵심 수단입니다.
 
+<!-- i18n:faq:id=faq:bloons-td-5:are-special-agents-worth-it-5a39ac6f -->
 **5. Special Agents는 쓸 가치가 있나요?**  
 > 네, 특히 초보자나 난이도 높은 맵에서 큰 도움이 됩니다. 예를 들어
 > `Meerkat Spy`는 초반 카모 감지를 제공할 수 있고, `Bloonsday Device`는 대량
 > 누수를 막아 줄 수 있습니다. 적절히 사용하면 승리를 도와주는 강력한 도구입니다.
+

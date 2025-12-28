@@ -16,6 +16,7 @@ score: 3.9/5  (1598 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### 게임 소개
 
 Bombs Drops Physics balls는 떨어지는 공과 폭탄, 그리고 중력을 활용해 구조물을
@@ -26,6 +27,7 @@ Bombs Drops Physics balls는 떨어지는 공과 폭탄, 그리고 중력을 활
 플레이어는 단순히 많이 떨어뜨리는 것이 아니라, **최소한의 드롭으로 최대 효과를
 내는 우아한 해법**을 찾아내는 과정에서 큰 재미를 느낄 수 있습니다.
 
+<!-- i18n:section:tips -->
 ### 플레이 전략 & 공략
 
 1.  **약점을 먼저 찾아보기**  
@@ -54,6 +56,7 @@ Bombs Drops Physics balls는 떨어지는 공과 폭탄, 그리고 중력을 활
     보면서 각도와 타이밍을 조금씩 바꿔 보는 것이 최적 해법을 찾는 가장 빠른
     방법입니다.
 
+<!-- i18n:section:controls -->
 ### 조작 방법
 
 -   **조준 및 드롭:** 마우스나 터치로 떨어뜨릴 위치를 조준한 뒤 클릭/탭하면
@@ -62,17 +65,22 @@ Bombs Drops Physics balls는 떨어지는 공과 폭탄, 그리고 중력을 활
 -   **리셋/되돌리기:** 화면의 재시작 또는 되돌리기 버튼을 눌러, 잘못된 시도를
     빠르게 초기화하고 다시 시도할 수 있습니다.
 
+<!-- i18n:section:faq -->
 ### 자주 묻는 질문 (FAQ)
 
+<!-- i18n:faq:id=faq:bombs-drops-physics-balls:my-drops-barely-move-anythingw-5a38213b -->
 -   **Q. 공이나 폭탄을 떨어뜨려도 구조물이 거의 안 움직여요. 무엇이 문제인가요?**  
     A. 중심부만 정면으로 때리고 있기 때문일 가능성이 큽니다. 구조물의 가장자리나
     지지 기둥을 노려 충돌시키면 회전력이 생겨 더 큰 붕괴를 일으킬 수 있습니다.
 
+<!-- i18n:faq:id=faq:bombs-drops-physics-balls:is-there-scoring-for-fewer-b037b813 -->
 -   **Q. 드롭을 적게 쓰면 보너스가 있나요?**  
     A. 많은 스테이지에서 남은 폭탄 수나 사용 횟수에 따라 추가 점수가 주어집니다.
     여유 폭탄을 남긴 채 클리어하는 것을 목표로 해 보세요.
 
+<!-- i18n:faq:id=faq:bombs-drops-physics-balls:do-levels-require-perfect-timi-f97050ff -->
 -   **Q. 프레임 단위의 완벽한 타이밍이 필요하나요?**  
     A. 일부 레벨은 정밀한 타이밍이 중요하지만, 대부분은 손보다 **계획**이 더
     중요한 퍼즐에 가깝습니다. 먼저 전체 구조를 이해하고, 그다음에 타이밍을
     다듬는 순서로 접근해 보세요.
+

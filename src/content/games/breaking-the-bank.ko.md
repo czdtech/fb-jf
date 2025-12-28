@@ -15,6 +15,7 @@ score: 4.7/5  (1071 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### 게임 소개
 
 Breaking the Bank는 짧은 러닝타임의 인터랙티브 애니메이션 게임으로,
@@ -49,6 +50,7 @@ Breaking the Bank의 진행은 철저히 **선택과 시행착오**에 기반합
 > 이어집니다. 나머지 선택지는 모두 각양각색의 FAIL 장면으로 끝나며, 이 장면들을
 > 하나씩 확인해 보는 것이 이 게임의 가장 큰 재미입니다.
 
+<!-- i18n:section:controls -->
 ### 조작 방법
 
 조작은 100% 마우스로만 진행됩니다.
@@ -56,17 +58,21 @@ Breaking the Bank의 진행은 철저히 **선택과 시행착오**에 기반합
 -   **마우스 커서:** 화면 아래의 각 선택지 위에 올려 어떤 방법인지 확인합니다.
 -   **마우스 왼쪽 버튼:** 원하는 옵션을 클릭해 해당 루트를 선택합니다.
 
+<!-- i18n:section:faq -->
 ### 자주 묻는 질문 (FAQ)
 
+<!-- i18n:faq:id=faq:breaking-the-bank:is-there-more-than-one-8d64b7de -->
 **1. 이 게임은 성공 루트가 여러 개인가요?**  
 > 아니요. 오직 **Shovel** 하나만이 성공 엔딩으로 이어지며, 나머지는 전부 실패
 > 장면을 보기 위한 선택지입니다.
 
+<!-- i18n:faq:id=faq:breaking-the-bank:why-is-the-game-so-327082bc -->
 **2. 왜 이렇게 짧나요?**  
 > Breaking the Bank는 Henry Stickmin 시리즈의 첫 작품으로, "선택지 기반 코미디
 > 애니메이션"이라는 컨셉을 시험해 보기 위한 프로토타입에 가까운 작품입니다.
 > 이후 후속작으로 갈수록 볼륨과 선택지가 크게 늘어납니다.
 
+<!-- i18n:faq:id=faq:breaking-the-bank:is-this-game-part-of-663d818e -->
 **3. 이 게임은 어떤 시리즈의 일부인가요?**  
 > 네, Breaking the Bank는 유명한 **Henry Stickmin** 시리즈의 시작점입니다.
 > 시간 순서대로 정리하면 다음과 같습니다.  
@@ -78,8 +84,10 @@ Breaking the Bank의 진행은 철저히 **선택과 시행착오**에 기반합
 > 이후 이 작품들은 리마스터되어 **The Henry Stickmin Collection**에 수록되었고,
 > 마지막 에필로그 격 작품인 "Completing the Mission"이 추가되었습니다.
 
+<!-- i18n:faq:id=faq:breaking-the-bank:where-is-the-gameplay-i-dc81522e -->
 **4. 선택은 한 번뿐이고 게임플레이가 거의 없는데, 이게 게임이 맞나요?**  
 > 이 작품은 전통적인 의미의 게임이라기보다는, 여러 선택지를 눌러 보며 다양한
 > 결과를 감상하는 인터랙티브 애니메이션에 가깝습니다. 빠르게 정답만 찾기보다,
 > 모든 FAIL 연출을 한 번씩 보면서 제작진의 개그를 즐기는 것이 가장 추천되는
 > 플레이 방식입니다.
+

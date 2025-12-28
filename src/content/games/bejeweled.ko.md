@@ -11,15 +11,18 @@ thumbnail: /new-images/thumbnails/bejeweled.png
 tags:
   - bejeweled
 score: 4.8/5  (654 votes)
+releaseDate: 2025-12-04
 ---
 
 
+<!-- i18n:section:introduction -->
 *Bejeweled*는 타일 매칭 퍼즐 게임의 전설적인 작품입니다. 플레이어는 서로 인접한
 두 개의 보석을 맞바꾸어 가로 또는 세로로 같은 색 보석 3개 이상을 한 줄로 만들면
 보석이 사라지고, 위에서 새 보석이 떨어지며 연쇄 반응(연속 콤보)이 발생할 수
 있습니다. 단순하지만 매우 중독성 있는 이 게임 플레이 루프 덕분에 Bejeweled는
 "매치 3" 장르를 개척한 대표작으로 자리 잡았습니다.
 
+<!-- i18n:section:how-to-play -->
 ### Bejeweled 게임 방법
 
 - **기본 조작:** 할 수 있는 행동은 인접한 두 보석을 가로나 세로 방향으로 교환하는
@@ -57,6 +60,7 @@ score: 4.8/5  (654 votes)
   판을 살펴본 뒤 최선의 수를 선택하세요. 막히면 대부분의 버전에서 "Hint" 버튼으로
   힌트를 받을 수 있습니다.
 
+<!-- i18n:section:faq -->
 ### 자주 묻는 질문(FAQ)
 
 **Q: Bejeweled는 무료인가요?**  
@@ -72,3 +76,4 @@ score: 4.8/5  (654 votes)
 **A:** Bejeweled Classic은 시간 제한 없이 천천히 수를 고민하며 플레이하는 전략적인
 퍼즐 경험에 가깝습니다. Bejeweled Blitz는 60초 제한 안에 최대 점수를 노리는
 고속 모드로, 보통 친구들과 점수를 경쟁하는 소셜 요소가 강조됩니다.
+

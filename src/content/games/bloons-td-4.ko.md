@@ -15,6 +15,7 @@ score: 4.3/5  (852 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### 게임 소개
 
 Bloons TD 4는 Bloons Tower Defense 시리즈가 한 단계 도약하는 전환점이 된 작품으로,
@@ -52,6 +53,7 @@ Bloons TD 4는 Bloons Tower Defense 시리즈가 한 단계 도약하는 전환�
 -   **소모형 아이템**: 길 위에 직접 깔아 둘 수 있는 Road Spikes, Monkey Glue
     Puddle 같은 일회성 방어 수단이 도입됩니다.
 
+<!-- i18n:section:tips -->
 ### 플레이 전략
 
 -   **업그레이드 방향을 먼저 계획하기**  
@@ -99,6 +101,7 @@ Bloons TD 4는 Bloons Tower Defense 시리즈가 한 단계 도약하는 전환�
     -   위기 상황에는 Spike Factory의 `Spike Storm` 능력을 사용해, 출구 근처를
         가시로 뒤덮어 마지막 방어선을 구축할 수 있습니다.
 
+<!-- i18n:section:controls -->
 ### 조작 방법
 
 조작 방식은 클래식한 포인트 앤 클릭 인터페이스입니다.
@@ -117,30 +120,37 @@ Bloons TD 4는 Bloons Tower Defense 시리즈가 한 단계 도약하는 전환�
     클릭한 뒤, 길 위를 클릭하면 해당 위치에 일회성 방어 장치를 설치할 수
     있습니다.
 
+<!-- i18n:section:faq -->
 ### 자주 묻는 질문 (FAQ)
 
+<!-- i18n:faq:id=faq:bloons-td-4:why-cant-i-buy-a-516616f9 -->
 **1. 어떤 타워나 업그레이드를 아예 살 수가 없어요. 왜 그런가요?**  
 > Bloons TD 4에서는 대부분의 타워와 모든 3·4티어 업그레이드가 플레이어 랭크에
 > 묶여 있습니다. 게임을 많이 플레이해 경험치(XP)를 쌓고 랭크를 올리면 언젠가
 > 모든 콘텐츠가 해금됩니다.
 
+<!-- i18n:faq:id=faq:bloons-td-4:how-do-i-pop-camo-a6b0ee8a -->
 **2. Camo Bloon은 어떻게 터뜨리나요?**  
 > 카모 탐지 능력이 있는 타워가 필요합니다. 대표적으로 `Enhanced Eyesight`
 > (2/2) 업그레이드를 한 Dart Monkey, `Signal Flare`(x/3)를 장착한 Mortar Tower,
 > `Bigger Stacks`(1/x) 업그레이드를 한 Spike Factory 등이 카모 블룬을
 > 공격할 수 있습니다.
 
+<!-- i18n:faq:id=faq:bloons-td-4:whats-the-difference-between-t-6964db4a -->
 **3. 파란 MOAB와 빨간 BFB의 차이는 무엇인가요?**  
 > BFB(Brutal Flying Behemoth 표기)는 MOAB보다 훨씬 더 튼튼하고 체력이 높습니다.
 > BFB를 터뜨리면 내부에서 MOAB 네 대가 한꺼번에 튀어나오므로, 이후 물량까지
 > 처리할 수 있는 방어선을 준비해야 합니다.
 
+<!-- i18n:faq:id=faq:bloons-td-4:can-i-buy-all-the-a4f3b0b5 -->
 **4. 한 타워에 모든 업그레이드를 다 살 수는 없나요?**  
 > 없습니다. 이것이 BTD4의 가장 큰 변화입니다. 각 타워는 두 개의 최종 경로
 > 중 하나만 선택할 수 있습니다. 예를 들어 Super Monkey의 `Sun God`(2/x)과
 > `Robo-Monkey`(x/2)는 같은 타워에 동시에 적용할 수 없습니다.
 
+<!-- i18n:faq:id=faq:bloons-td-4:what-is-apopalypse-mode-eb2eb7e1 -->
 **5. Apopalypse 모드는 무엇인가요?**  
 > Apopalypse는 라운드 구분 없이 블룬이 끊임없이 이어져 나오는 특수 모드입니다.
 > 라운드 종료 보너스 돈이 없고, 블룬을 터뜨려서 얻는 돈만으로 버텨야 하기
 > 때문에 난이도가 매우 높은 편입니다.
+

@@ -15,6 +15,7 @@ score: 4.9/5  (538 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### 게임 소개
 
 Bloons TD 3는 시리즈의 방향을 크게 확장시킨 전환점 같은 작품입니다. 기본적인
@@ -46,6 +47,7 @@ Bloons TD 3는 시리즈의 방향을 크게 확장시킨 전환점 같은 작�
     **Black(폭발 면역)**, **White(빙결 면역)** 블룬 개념은 여전히 게임 전략의
     핵심 요소입니다.
 
+<!-- i18n:section:tips -->
 ### 플레이 전략
 
 -   **초반은 균형 있게 시작하기**  
@@ -87,6 +89,7 @@ Bloons TD 3는 시리즈의 방향을 크게 확장시킨 전환점 같은 작�
     배치하면 공이 지나가는 동안 여러 블룬을 연달아 터뜨릴 수 있어 효율이
     매우 좋습니다.
 
+<!-- i18n:section:controls -->
 ### 조작 방법
 
 기본 조작은 마우스로 진행되는 간단한 포인트 앤 클릭 방식입니다.
@@ -101,27 +104,34 @@ Bloons TD 3는 시리즈의 방향을 크게 확장시킨 전환점 같은 작�
 -   **단축키:** 숫자 키 1~8로 각 타워를 빠르게 선택할 수 있으며, 스페이스바로
     다음 라운드를 시작할 수 있습니다.
 
+<!-- i18n:section:faq -->
 ### 자주 묻는 질문 (FAQ)
 
+<!-- i18n:faq:id=faq:bloons-td-3:i-cant-pop-the-grey-99d90772 -->
 **1. 회색(Lead) 블룬이 전혀 터지지 않아요. 어떻게 해야 하나요?**  
 > Lead Bloon은 다트, 택, 부메랑처럼 날카로운 투사체 공격에 완전히 면역입니다.
 > Bomb Tower의 폭발로만 껍질을 벗길 수 있으니, 반드시 폭탄 타워를 준비하세요.
 
+<!-- i18n:faq:id=faq:bloons-td-3:what-is-the-big-blue-a2bae815 -->
 **2. 게임 끝에 나오는 큰 파란 비행선은 뭐예요?**  
 > 그것이 바로 M.O.A.B. (Massive Ornary Air Blimp 표기)입니다. 매우 튼튼한 보스급
 > 블룬으로, 속도는 느리지만 엄청난 피해를 받아야 겨우 터집니다.
 
+<!-- i18n:faq:id=faq:bloons-td-3:why-should-i-use-the-23ed004c -->
 **3. Monkey Beacon은 공격도 안 하는데 왜 써야 하나요?**  
 > Monkey Beacon은 공격 대신 **사거리 버프**를 제공하는 지원형 타워입니다.
 > 비컨 주변에 배치된 타워들의 공격 범위가 크게 늘어나기 때문에, 특히 Super
 > Monkey와 함께 썼을 때 맵 대부분을 커버하는 강력한 방어선을 만들 수 있습니다.
 
+<!-- i18n:faq:id=faq:bloons-td-3:how-many-rounds-are-there-64671d2f -->
 **4. 총 라운드는 몇 개나 되나요?**  
 > -   **쉬움(Easy):** 50라운드
 > -   **보통(Medium):** 50라운드
 > -   **어려움(Hard):** 75라운드
 
+<!-- i18n:faq:id=faq:bloons-td-3:whats-the-difference-between-b-86ceeb66 -->
 **5. Black Bloon과 White Bloon의 차이는 무엇인가요?**  
 > Black Bloon은 Bomb Tower의 폭발 공격에 면역이고, White Bloon은 Ice Tower의
 > 빙결 효과에 면역입니다. 이런 블룬들은 Dart Monkey나 Boomerang Thrower 등
 > 다른 공격 방식을 가진 타워로 처리해야 합니다.
+
