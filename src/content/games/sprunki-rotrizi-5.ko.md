@@ -10,9 +10,11 @@ thumbnail: /new-images/thumbnails/sprunki-rotrizi-5.png
 tags:
   - sprunki rotrizi 5.0
 score: 4.0/5  (232 votes)
+releaseDate: 2025-12-04
 ---
 
 
+<!-- i18n:section:introduction -->
 첨단 사운드와 무한한 가능성으로 가득한 음악 실험실에 들어갈 준비가 되었나요?
 Sprunki Rotrizi 5.0은 기존 Rotrizi 콘셉트를 한 단계 끌어올린 모드로, 복잡한
 레이어링과 글리치, 강렬한 딥 베이스를 마음껏 다뤄 볼 수 있는 스프룽키 버전입니다.
@@ -54,6 +56,7 @@ Sprunki Rotrizi 5.0에서 플레이어는 일종의 "사운드 연금술사"입�
   공간키 등으로 스테이지를 초기화해, 완전히 새로운 조합으로 다시 시도할 수
   있습니다.
 
+<!-- i18n:section:tips -->
 ### Sprunki Rotrizi 5.0 플레이 팁
 
 - **과감한 실험:**
@@ -77,3 +80,4 @@ Sprunki Rotrizi 5.0은 글리치 효과와 딥 베이스 왜곡을 전면에 내
 숙련된 리믹서든 처음 시작하는 사람이라도, 과감한 레이어링과 실험적인 변형으로 자신만의 비트를
 만들 수 있습니다. 더 많은 음악 제작을 즐기고 싶다면 Sprunki Specimen 같은 다른 Sprunki 모드도
 함께 확인해 보세요.
+

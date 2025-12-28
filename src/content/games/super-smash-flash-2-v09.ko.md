@@ -5,17 +5,18 @@ title: Super Smash Flash 2 v0.9 슈퍼 스매시 플래시 2 v0.9
 description: >-
   Super Smash Flash 2 v0.9는 다양한 게임·애니 캐릭터가 난투를 벌이는 팬 메이드 대전 액션 게임의 업데이트 버전입니다.
   신규 캐릭터와 스테이지가 추가되어 더욱 풍성한 대전을 즐길 수 있습니다.
-iframeSrc: 'https://super-smash-flash-2-v09.h5games.usercontent.goog/v/1gcabau9q9m8o/'
+iframeSrc: 'https://kdata1.com/games/SSF9_2011/?kbhgames'
 thumbnail: /new-images/thumbnails/super-smash-flash-2-v09.jpg
 tags:
   - fighting
   - action
   - platformer
-score: 4.6/5  (2200 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
+score: 4.2/5  (265 votes)
+releaseDate: 2025-08-16
 ---
 
 
+<!-- i18n:section:introduction -->
 ### 게임 소개
 
 Super Smash Flash 2 v0.9는 v0.8에서 발전한 버전으로, 새로운 캐릭터와 스테이지,
@@ -37,26 +38,30 @@ Super Smash Flash 2 v0.9는 v0.8에서 발전한 버전으로, 새로운 캐릭�
   낙사 지형, 움직이는 발판, 간헐적으로 등장하는 장애물 등 스테이지 특성에
   따라 싸우는 위치와 전술을 조정해야 합니다.
 
+<!-- i18n:section:controls -->
 ### 기본 조작 예시
+<!-- i18n:controls:keys -->
+- 키(정렬)： `A` `D` `W` `S` `Spacebar` `J` `K` `L` `U` `Enter`
 
 조작은 아래를 참고하세요.
 
 
-- 이동: 방향키 또는 `A/D`
-- 점프: `W` 또는 지정 키
-- 기본 공격/스페셜: `O/P` 등 설정된 키
+- 이동: 방향키 또는 A/D
+- 점프: W 또는 지정 키
+- 기본 공격/스페셜: O/P 등 설정된 키
 - 방어/회피: 옵션에서 확인 가능한 전용 키
 
 
-- **Pause:** `Enter`
+- **Pause:** Enter
 
-- **Grab:** `U`
+- **Grab:** U
 
-- **Shield:** `L`
+- **Shield:** L
 
-- **Special Attack:** `K`
+- **Special Attack:** K
 
-- **Standard Attack:** `J`
+- **Standard Attack:** J
+<!-- i18n:section:faq -->
 ### 자주 묻는 질문(FAQ)
 
 **Q: v0.8과 v0.9의 가장 큰 차이는 무엇인가요?**
@@ -67,3 +72,4 @@ A: 추가 캐릭터와 스테이지, 일부 기술 밸런스 조정이 가장 �
 **Q: 초보자가 할 만한 모드는 무엇인가요?**
 A: CPU 난이도를 낮게 설정한 1:1 또는 소수 인원 난투에서 조작을 익힌 뒤,
    점차 인원을 늘리거나 난이도를 올리는 것이 좋습니다.
+

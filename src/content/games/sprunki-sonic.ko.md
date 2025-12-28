@@ -12,6 +12,7 @@ tags:
   - sprunki sonic
   - sprunki sonic online
 score: 4.0/5  (829 votes)
+releaseDate: 2025-12-04
 ---
 
 
@@ -69,3 +70,4 @@ Sprunki Sonic은 소닉 캐릭터들을 이용해 곡을 만드는 리듬/음악
 실력에 상관없이 누구나 도전할 여지가 있습니다. 음악으로 소닉의 스피드를
 표현해 보고 싶다면, 지금 스프룽키 소닉에서 당신만의 스피드 러시 트랙을
 완성해 보세요.
+

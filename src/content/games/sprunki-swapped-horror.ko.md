@@ -11,9 +11,11 @@ tags:
   - sprunki swapped horror
   - sprunki swapped horror online
 score: 4.4/5  (395 votes)
+releaseDate: 2025-12-04
 ---
 
 
+<!-- i18n:section:introduction -->
 항상 비슷한 스프룽키 구성이 지겨웠다면, Sprunki Swapped Horror에서 완전히
 뒤바뀐 세계를 경험해 보세요. 캐릭터의 배역과 사운드를 서로 바꿔, 예상하지
 못한 조합으로 공포 분위기의 곡을 만들 수 있는 모드입니다.
@@ -35,6 +37,7 @@ Sprunki Swapped Horror는 창의적인 캐릭터 스왑 시스템이 핵심인 I
   스왑된 설정에 맞추어 캐릭터 애니메이션도 새롭게 제작되어, 시각적인
   재미까지 더해 줍니다.
 
+<!-- i18n:section:how-to-play -->
 ### Sprunki Swapped Horror 플레이 방법
 
 조작 자체는 단순하지만, 캐릭터 스왑 덕분에 결과는 매우 예상 밖입니다.
@@ -69,3 +72,4 @@ Sprunki Swapped Horror는 창의적인 캐릭터 스왑 시스템이 핵심인 I
 
 지금 Sprunki Swapped Horror 커뮤니티에 합류해, 당신만의 스왑 호러 트랙을
 만들고 공유해 보세요.
+

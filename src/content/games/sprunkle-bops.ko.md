@@ -12,6 +12,7 @@ tags:
   - sprunkle bops
   - sprunkle bops online
 score: 4.3/5  (524 votes)
+releaseDate: 2025-12-04
 ---
 
 
@@ -40,3 +41,4 @@ Sprunkle Bops는 인기 음악 믹싱 게임 Incredibox를 기반으로 한 확�
 Sprunkle Bops는 스프룽키 스타일의 비트 메이킹과 리듬 배틀을 함께 즐기고 싶은
 플레이어에게 잘 어울리는 모드입니다. 다양한 캐릭터와 비트 조합을 시도해 보며,
 당신만의 최강 랩 배틀 퍼포먼스를 완성해 보세요.
+

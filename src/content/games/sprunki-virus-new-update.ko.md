@@ -11,9 +11,11 @@ thumbnail: /new-images/thumbnails/sprunki-virus-new-update.png
 tags:
   - sprunki virus new update
 score: 4.0/5  (407 votes)
+releaseDate: 2025-12-04
 ---
 
 
+<!-- i18n:section:introduction -->
 당신의 감각 한계를 시험하는 음악 여행을 찾고 있다면,
 *Sprunki Virus New Update*가 바로 그 무대입니다. 이 모드는 바이러스에 감염된 듯한
 스프룽키 세계로 여러분을 초대하며, 기묘한 사운드스케이프와 글리치 그래픽,
@@ -60,3 +62,4 @@ Sprunki Virus는 익숙한 스프룽키 유니버스를 불길하고 서스펜�
 싶다면 Sprunki Virus New Update는 꼭 경험해 봐야 할 모드입니다. 지금 바로
 스프룽키 바이러스 세계에 합류해, 감염된 비트를 통해 당신만의 창의력을 폭발시켜
 보세요!
+

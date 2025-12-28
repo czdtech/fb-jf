@@ -11,6 +11,7 @@ thumbnail: /new-images/thumbnails/sprunki-red-sun.png
 tags:
   - sprunki red sun
 score: 4.4/5  (232 votes)
+releaseDate: 2025-12-04
 ---
 
 
@@ -36,6 +37,7 @@ Sprunki Red Sun 모드는 익숙한 스프룽키 세계를, 뜨겁게 달궈진 
   사운드를 섞을 때마다 불꽃, 폭발, 빛 번짐 같은 이펙트가 터져 나와
   시각·청각 모두 강렬한 경험을 제공합니다.
 
+<!-- i18n:section:how-to-play -->
 ### Sprunki Red Sun 플레이 방법
 
 - **불꽃 캐릭터 선택:**
@@ -63,3 +65,4 @@ Sprunki Red Sun 모드는 익숙한 스프룽키 세계를, 뜨겁게 달궈진 
 감각의 한계를 시험하는 음악 여정을 원한다면, Sprunki Red Sun에서
 불타는 세계를 음악으로 점령해 보세요. 당신의 비트로 이 종말 세계를
 붉게 물들일 차례입니다.
+

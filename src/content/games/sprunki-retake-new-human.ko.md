@@ -11,6 +11,7 @@ tags:
   - sprunki retake new human
   - musical mod
 score: 4.0/5  (829 votes)
+releaseDate: 2025-12-04
 ---
 
 
@@ -38,6 +39,7 @@ Sprunki Retake New Human의 핵심은 클래식 Incredibox 경험을 새로운 �
   진행 상황에 따라 다양한 동작과 표정이 나타나, 단순한 루프 재생 이상으로
   보는 재미를 제공합니다.
 
+<!-- i18n:section:how-to-play -->
 ### Sprunki Retake New Human 플레이 방법
 
 조작은 기본 Incredibox/Sprunki와 동일합니다.
@@ -68,3 +70,4 @@ Sprunki Retake New Human은 클래식한 Incredibox 구조를 사랑하지만, �
 꾸민 비주얼로 다시 즐겨 보고 싶은 유저에게 잘 어울리는 모드입니다.
 사람 형태의 스프룽키 캐릭터와 함께, 익숙한 음악 제작을 새로운 시선으로
 다시 경험해 보세요.
+

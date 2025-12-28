@@ -11,9 +11,11 @@ thumbnail: /new-images/thumbnails/sprunkr-but-sprunki.png
 tags:
   - sprunkr but sprunki
 score: 4.5/5  (541 votes)
+releaseDate: 2025-12-04
 ---
 
 
+<!-- i18n:section:introduction -->
 Sprunkr의 독특한 진행을 좋아하면서도, 스프룽키 캐릭터에 애정이 있다면
 Sprunkr But Sprunki 모드가 딱 어울립니다. 이 모드는 Sprunkr의 규칙과 구조 위에
 스프룽키에서 온 캐릭터 디자인과 사운드를 덧입혀, 두 세계관 팬 모두에게
@@ -40,6 +42,7 @@ Sprunkr But Sprunki는 원래 Sprunkr 모드에 등장하던 캐릭터를, 스�
   Sprunkr의 메커니즘은 유지하면서도, 캐릭터와 사운드 덕분에 전혀 다른 모드처럼
   느껴집니다.
 
+<!-- i18n:section:how-to-play -->
 ### Sprunkr But Sprunki Mod 플레이 방법
 
 - **캐릭터 선택:**
@@ -58,3 +61,4 @@ Sprunkr But Sprunki는 원래 Sprunkr 모드에 등장하던 캐릭터를, 스�
 Sprunkr But Sprunki Mod는 원작 Sprunkr에 스프룽키식 디자인과 사운드를 더해,
 양쪽 세계관의 팬 모두에게 색다른 재미를 선사하는 크로스오버 모드입니다.
 두 작품의 장점을 한 번에 느끼고 싶다면, 이 모드에서 직접 믹스를 만들어 보세요.
+

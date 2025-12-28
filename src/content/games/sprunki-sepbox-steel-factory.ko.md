@@ -10,9 +10,11 @@ thumbnail: /new-images/thumbnails/sprunki-sepbox-steel-factory.png
 tags:
   - sprunki x sepbox steel factory
 score: 4.9/5  (509 votes)
+releaseDate: 2025-12-04
 ---
 
 
+<!-- i18n:section:introduction -->
 기계 굉음과 금속이 부딪히는 소리로 가득한 음악 세계로 들어가 보고 싶나요?
 Sprunki x SepBox Steel Factory는 그런 공장 테마의 세계를 무대로, 철과 기계의
 리듬으로 곡을 만드는 모드입니다.
@@ -68,3 +70,4 @@ Sprunki x SepBox Steel Factory는 스프룽키의 역동적인 아트 스타일�
 Sprunki x SepBox Steel Factory는 공장 특유의 리듬과 소리를 사랑하는 플레이어에게
 이상적인 모드입니다. 강철처럼 묵직한 비트와 금속 이펙트를 쌓아, 당신만의
 스틸 심포니를 완성해 보세요.
+

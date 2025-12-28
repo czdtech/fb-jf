@@ -5,17 +5,18 @@ title: Sudoku 스도쿠
 description: >-
   Sudoku는 9x9 격자를 채워 각 줄·각 칸·3x3 박스에 1~9가 한 번씩만 들어가게 만드는 고전 숫자 논리 퍼즐입니다. 직관적인
   인터페이스로 전통 스도쿠를 간단하게 즐길 수 있습니다.
-iframeSrc: 'https://sudoku.h5games.usercontent.goog/v/13p9p8jbh9ddo/'
+iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/html5-sudoku/'
 thumbnail: /new-images/thumbnails/sudoku.jpg
 tags:
   - puzzle
   - thinky
   - casual
-score: 4.6/5  (2800 votes)
-releaseDate: 2025-10-17T00:00:00.000Z
+score: 5.0/5  (1136 votes)
+releaseDate: 2025-08-16
 ---
 
 
+<!-- i18n:section:introduction -->
 ### 게임 소개
 
 Sudoku는 9x9 격자의 빈 칸에 1부터 9까지의 숫자를 규칙에 맞게 채워 넣는 고전 숫자 논리 퍼즐입니다. 각 가로줄, 세로줄, 3x3 박스마다 같은 숫자가 두 번 이상 들어갈 수 없습니다.
@@ -35,6 +36,7 @@ Sudoku는 9x9 격자의 빈 칸에 1부터 9까지의 숫자를 규칙에 맞게
 *   **숫자 지우기**: 지우기(Del) 키나 지우기 버튼으로 입력한 숫자를 제거합니다.
 *   **후보 메모**: 일부 버전에서는 메모(펜슬 마크) 모드로 한 칸에 여러 후보 숫자를 표시할 수 있습니다.
 
+<!-- i18n:section:faq -->
 ### 자주 묻는 질문(FAQ)
 
 1.  **Q: 스도쿠는 항상 해답이 하나뿐인가요?**
@@ -45,3 +47,4 @@ Sudoku는 9x9 격자의 빈 칸에 1부터 9까지의 숫자를 규칙에 맞게
     **A:** 보통 쉬움/보통/어려움/전문가 등으로 나뉘며, 초기로 주어진 숫자가 적을수록 추리가 더 어려워집니다.
 4.  **Q: 찍어서 맞혀야 하나요?**
     **A:** 표준 스도쿠는 추리만으로 풀 수 있도록 설계되어 있어, 원칙적으로는 ‘찍기’가 필요하지 않습니다.
+

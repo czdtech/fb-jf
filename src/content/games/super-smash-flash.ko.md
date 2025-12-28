@@ -5,17 +5,18 @@ title: Super Smash Flash 슈퍼 스매시 플래시
 description: >-
   Super Smash Flash는 여러 인기 게임·애니 캐릭터를 한 화면에서 조작해 싸우는 팬 메이드 대전 액션 게임입니다. 간단한 키
   조합으로 최대 4인이 난투를 즐길 수 있습니다.
-iframeSrc: 'https://super-smash-flash.h5games.usercontent.goog/v/2ab8nr2t969c4/'
+iframeSrc: 'https://ad-freegames.github.io/flash/game/super-smash-flash.html'
 thumbnail: /new-images/thumbnails/super-smash-flash.jpg
 tags:
   - fighting
   - action
   - platformer
-score: 4.3/5  (1900 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
+score: 3.5/5  (679 votes)
+releaseDate: 2025-08-16
 ---
 
 
+<!-- i18n:section:introduction -->
 ### 게임 소개
 
 Super Smash Flash는 다양한 게임과 애니메이션에서 온 캐릭터들이 한 스테이지에
@@ -32,20 +33,24 @@ Super Smash Flash는 다양한 게임과 애니메이션에서 온 캐릭터들�
 - **리커버리(복귀):** 스테이지 밖으로 밀려나면 점프와 스페셜 무브로 발판 위로 돌아오세요.
 - **아이템:** 아이템이 주기적으로 등장하며, 집으면 전투 흐름을 바꿀 수 있습니다.
 
+<!-- i18n:section:controls -->
 ### 조작 가이드
+<!-- i18n:controls:keys -->
+- 키(정렬)： `O` `P` `A` `S` `D` `W` `F` `G` `Backspace`
 
 한 키보드로 2인이 함께 플레이할 수 있습니다(버전에 따라 다를 수 있음).
 
 - **Player 1:**
     - **이동:** 방향키
-    - **점프:** `O`
-    - **공격:** `P`
+    - **점프:** O
+    - **공격:** P
 - **Player 2:**
-    - **이동:** `A`, `S`, `D`, `W` (`W`는 점프)
-    - **공격:** `F`
-    - **스페셜:** `G`
-- **일시정지:** `Backspace`
+    - **이동:** A, S, D, W (W는 점프)
+    - **공격:** F
+    - **스페셜:** G
+- **일시정지:** Backspace
 
+<!-- i18n:section:faq -->
 ### 자주 묻는 질문(FAQ)
 
 **Q: 데미지 퍼센트가 오르면 왜 더 멀리 날아가나요?**
@@ -57,3 +62,4 @@ A: 이 게임은 퍼센트가 높을수록 넉백이 강해지는 시스템을 �
 A: 키보드 여러 키를 함께 사용하거나, 패드를 연결해 로컬 멀티플레이로
    최대 4인까지 즐길 수 있는 버전이 많습니다. 입력 설정 메뉴에서 각자
    편한 키로 재배치한 뒤 플레이하는 것을 추천합니다.
+

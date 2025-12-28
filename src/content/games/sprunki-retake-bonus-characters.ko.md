@@ -10,6 +10,7 @@ thumbnail: /new-images/thumbnails/sprunki-retake-bonus-characters.png
 tags:
   - sprunki retake bonus characters
 score: 3.9/5  (132 votes)
+releaseDate: 2025-12-04
 ---
 
 
@@ -40,3 +41,4 @@ Sprunki Retake Bonus Characters는 단순한 추가 캐릭터 팩이 아니라, 
 경험 많은 뮤지션이든, 음악 만들기에 이제 막 흥미를 느끼기 시작한 초보자든,
 Sprunki Retake Bonus Characters는 독특한 민족 색채로 창의력을 자극하는 음악
 놀이터가 되어 줄 것입니다. 고대의 리듬으로 잠들어 있던 음악적 본능을 깨워 보세요.
+

@@ -12,6 +12,7 @@ tags:
   - swap sprunkgerny
   - swap sprunkgerny online
 score: 4.9/5  (724 votes)
+releaseDate: 2025-12-04
 ---
 
 
@@ -64,3 +65,4 @@ Swap Sprunkgerny는 기존 스프룽키식 음악 제작에 "자리 바꾸기"�
 간단한 조작만으로도 놀라울 정도로 다양한 곡을 만들 수 있게 해 줍니다.
 규칙에 얽매이지 말고, 마음 가는 대로 캐릭터를 올렸다 내리면서 당신만의
 괴상하고도 중독성 있는 사운드를 완성해 보세요.
+

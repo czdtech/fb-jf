@@ -10,9 +10,11 @@ thumbnail: /new-images/thumbnails/sprunki-squid-remix.png
 tags:
   - sprunki squid remix
 score: 4.1/5  (92 votes)
+releaseDate: 2025-12-04
 ---
 
 
+<!-- i18n:section:introduction -->
 리듬 장인 여러분, 심장이 쿵쾅거리는 음악 도전을 해 보고 싶나요?
 Sprunki Squid Remix는 스프룽키식 음악 제작에 "오징어 게임" 특유의 서바이벌
 긴장감을 더한 모드입니다.
@@ -56,3 +58,4 @@ Sprunki Squid Remix는 오징어 게임의 상징적인 연출과 스프룽키�
 Sprunki Squid Remix는 음악과 생존 게임을 과감하게 섞어 놓은 특이한 모드입니다.
 도전적인 리듬 게임을 좋아한다면, 이 모드에서 리듬 감각으로 "생존"에 성공해
 보세요.
+

@@ -11,6 +11,7 @@ tags:
   - super sprunki brasil
   - super sprunki brasil online
 score: 4.3/5  (380 votes)
+releaseDate: 2025-12-04
 ---
 
 
@@ -28,6 +29,7 @@ score: 4.3/5  (380 votes)
 게임입니다. 화려한 색감, 에너지 넘치는 캐릭터, 브라질식 비트와 멜로디가
 어우러져, 플레이하는 내내 축제 같은 분위기를 느끼게 됩니다.
 
+<!-- i18n:section:how-to-play -->
 ### Super Sprunki Brasil 플레이 방법
 
 플레이 방식은 익숙한 Incredibox 구조를 따릅니다.
@@ -81,3 +83,4 @@ score: 4.3/5  (380 votes)
 Super Sprunki Brasil은 브라질의 열정과 스프룽키식 음악 만들기가 만나
 탄생한 모드입니다. 당신만의 브라질 사운드를 만들어, 음악으로 축제를
 열어 보세요.
+

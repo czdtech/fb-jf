@@ -5,17 +5,18 @@ title: Super Smash Flash 2 v0.8 슈퍼 스매시 플래시 2 v0.8
 description: >-
   Super Smash Flash 2 v0.8은 여러 게임·애니 캐릭터가 한 무대에서 싸우는 팬 메이드 대전 액션 게임의 구버전입니다. 간단한
   조작으로 최대 4인이 난투를 벌일 수 있습니다.
-iframeSrc: 'https://super-smash-flash-2.h5games.usercontent.goog/v/19c6kf739516g/'
+iframeSrc: 'https://kdata1.com/games/SSF22/?kbhgames'
 thumbnail: /new-images/thumbnails/super-smash-flash-2-v08.jpg
 tags:
   - fighting
   - action
   - platformer
-score: 4.5/5  (2100 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
+score: 4.3/5  (1114 votes)
+releaseDate: 2025-08-16
 ---
 
 
+<!-- i18n:section:introduction -->
 ### 게임 소개
 
 Super Smash Flash 2 v0.8은 다양한 게임·애니메이션 캐릭터가 한 화면에 모여
@@ -38,26 +39,30 @@ Super Smash Flash 2 v0.8은 다양한 게임·애니메이션 캐릭터가 한 �
   일부 스테이지에는 낙사 구역, 움직이는 발판, 떨어지는 장애물 등이 있어
   위치 선정과 타이밍이 승패에 큰 영향을 줍니다.
 
+<!-- i18n:section:controls -->
 ### 조작 방법 안내(대표 설정)
+<!-- i18n:controls:keys -->
+- 키(정렬)： `A` `D` `W` `S` `Spacebar` `J` `K` `L` `U` `Enter`
 
 조작은 아래를 참고하세요.
 
 
-- 이동: 방향키 또는 `A/D`
-- 점프: `W`/특정 키
-- 공격/스페셜: `O/P` 또는 지정 키
+- 이동: 방향키 또는 A/D
+- 점프: W/특정 키
+- 공격/스페셜: O/P 또는 지정 키
 - 가드/회피: 설정에 따라 다른 키 사용
 
 
-- **Pause:** `Enter`
+- **Pause:** Enter
 
-- **Grab:** `U`
+- **Grab:** U
 
-- **Shield:** `L`
+- **Shield:** L
 
-- **Special Attack:** `K`
+- **Special Attack:** K
 
-- **Standard Attack:** `J`
+- **Standard Attack:** J
+<!-- i18n:section:faq -->
 ### 자주 묻는 질문(FAQ)
 
 **Q: 데미지 퍼센트가 올라갈수록 왜 더 멀리 날아가나요?**
@@ -68,3 +73,4 @@ A: 이 시리즈의 공통 규칙으로, 퍼센트가 높을수록 넉백이 강
 **Q: 어떤 캐릭터가 초보자에게 좋나요?**
 A: 범용성이 좋고 조작이 단순한 캐릭터부터 연습해 보는 편이 좋습니다.
    (실제 사용 캐릭터는 게임 내 선택 화면을 참고하세요.)
+

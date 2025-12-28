@@ -5,17 +5,18 @@ title: Sugar Heroes 슈가 히어로즈
 description: >-
   Sugar Heroes는 귀여운 디저트 캐릭터를 맞추어 없애는 매치-3 퍼즐 게임입니다. 줄을 맞춰 터뜨리고, 스페셜 조합으로 강력한 폭발을
   일으켜 스테이지 목표를 달성하세요.
-iframeSrc: 'https://sugarheroes.h5games.usercontent.goog/v/26o4l85f9rm2s/'
+iframeSrc: 'https://2f4eprapfvtoo.h5games.usercontent.goog/v/4bc5h26thvau8/'
 thumbnail: /new-images/thumbnails/sugar-heroes.png
 tags:
   - match-3
   - puzzle
   - casual
-score: 4.3/5  (1987 votes)
+score: 4.1/5  (1986 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### 게임 상세 소개
 
 Sugar Heroes는 알록달록한 캔디와 디저트 캐릭터를 세 개 이상 맞추어 없애는
@@ -23,6 +24,7 @@ Sugar Heroes는 알록달록한 캔디와 디저트 캐릭터를 세 개 이상 
 장애물 제거, 특정 블록 모으기 등 다양한 목표가 주어집니다. 귀여운 연출과
 꾸준히 등장하는 스페셜 블록 덕분에 가볍게 즐기기 좋습니다.
 
+<!-- i18n:section:tips -->
 ### 플레이 전략 및 공략
 
 1.  **목표부터 확인:**
@@ -42,18 +44,23 @@ Sugar Heroes는 알록달록한 캔디와 디저트 캐릭터를 세 개 이상 
     다음 한 수까지 함께 떠올리며 조합을 준비하면, 스페셜 블록을 더 안정적으로 만들고
     한 번의 폭발로 공간을 크게 열 수 있습니다.
 
+<!-- i18n:section:controls -->
 ### 조작 방법 안내
 
 - 인접한 두 블록을 드래그/스와이프해 자리를 바꿉니다.
 - 세 칸 이상이 일직선으로 나열될 때만 교환이 성립하고, 그 줄이 제거됩니다.
 
+<!-- i18n:section:faq -->
 ### 자주 묻는 질문(FAQ)
 
 
+<!-- i18n:faq:id=faq:sugar-heroes:i-hit-move-limits-e64192d0 -->
 *   **Q: 이동 횟수가 모자라요.**
 A: 목표와 상관없는 매치를 줄이고, 연쇄가 잘 발생하는 위치(아래쪽, 장애물 근처)를
    우선적으로 공략하면 이동 수를 아낄 수 있습니다.
 
+<!-- i18n:faq:id=faq:sugar-heroes:strong-opener-13100d3b -->
 *   **Q: 스페셜 블록 조합은 어떻게 하나요?**
 A: 서로 인접한 두 스페셜 블록을 맞바꾸면, 양쪽 효과가 합쳐진 강력한 폭발이
    발생합니다. 예를 들어 줄 제거 + 폭탄 조합은 넓은 십자형 영역을 지우는 식입니다.
+

@@ -5,17 +5,18 @@ title: Super Bowling Mania 슈퍼 볼링 매니아
 description: >-
   Super Bowling Mania는 간단한 조작으로 스트라이크를 노릴 수 있는 캐주얼 볼링 게임입니다. 각 레인의 패턴과 곡선을 읽고,
   각도와 힘 조절로 시원한 한 방을 터뜨려 보세요.
-iframeSrc: 'https://superbowlingmania.h5games.usercontent.goog/v/1kls83hgtre4o/'
+iframeSrc: 'https://2tm5ud1ghg66o.h5games.usercontent.goog/v/6ifi8lgb3gv0g/'
 thumbnail: /new-images/thumbnails/super-bowling-mania.png
 tags:
   - sports
   - casual
   - bowling
-score: 4.2/5  (1670 votes)
+score: 4.0/5  (1555 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### 게임 상세 소개
 
 Super Bowling Mania는 아케이드 감성의 10프레임 볼링 게임으로, 드래그 몇 번으로
@@ -23,6 +24,7 @@ Super Bowling Mania는 아케이드 감성의 10프레임 볼링 게임으로, �
 약간의 곡선과 마찰 차이가 있어, 단순히 정 가운데만 겨냥하기보다는 각도를
 미세하게 조절하는 것이 중요합니다.
 
+<!-- i18n:section:tips -->
 ### 플레이 전략 및 공략
 
 1.  **포켓 노리기:**
@@ -38,6 +40,7 @@ Super Bowling Mania는 아케이드 감성의 10프레임 볼링 게임으로, �
     파워가 매번 크게 달라지면 궤적과 핀 반응이 들쭉날쭉해집니다. 자신이 잘 맞추는
     파워 구간을 정해 두고, 그 범위에서 반복하는 연습이 도움이 됩니다.
 
+<!-- i18n:section:controls -->
 ### 조작 방법 안내
 
 - 마우스나 터치로 공을 드래그해 방향과 힘을 조절합니다.
@@ -46,6 +49,7 @@ Super Bowling Mania는 아케이드 감성의 10프레임 볼링 게임으로, �
 - 일부 버전에서는 공이 굴러가는 동안 마우스를 움직여 커브(곡선)를 미세하게 조절할 수
   있습니다.
 
+<!-- i18n:section:faq -->
 ### 자주 묻는 질문(FAQ)
 
 *   **Q: 스트라이크를 더 많이 나오게 하려면 어떻게 해야 하나요?**
@@ -69,3 +73,4 @@ Super Bowling Mania는 아케이드 감성의 10프레임 볼링 게임으로, �
 *   **Q: 스핀 조절이 어렵습니다.**
     *   **A:** 스핀을 크게 주기보다, 처음에는 직선에 가깝게 던지는 연습부터 충분히 한 뒤
   조금씩 곡선을 시도해 보세요.
+

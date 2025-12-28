@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### 게임 소개
 
 *Steal a Brainrot*는 Roblox 플랫폼에서 인기 있는 멀티플레이 액션·잠입 게임입니다.
@@ -31,6 +32,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 목표 Brainrot까지 접근해야 합니다. 캐릭터를 확보한 뒤에는, 알람과 추격을
 피하며 더 위험해진 탈출 루트를 돌파해야 점수 또는 승리를 얻을 수 있습니다.
 
+<!-- i18n:section:tips -->
 ### 플레이 전략 & 팁
 
 1.  **정찰이 절반:**
@@ -62,38 +64,47 @@ releaseDate: 2025-08-16T00:00:00.000Z
     이동 속도를 느리게 만들고, 계속 소리를 내는 Brainrot는 위치를 들킬
     위험이 커지는 식입니다.
 
+<!-- i18n:section:controls -->
 ### 조작 방법 안내
+<!-- i18n:controls:keys -->
+- 키(정렬)： `W` `A` `S` `D` `Space Bar` `Shift` `Ctrl` `C` `E` `F` `1` `2` `3` `Q`
 
 Roblox 게임답게 기본 조작은 플랫폼 공통 키 배열을 따릅니다.
 
-*   **이동:** `W`, `A`, `S`, `D`
-*   **점프:** `Space`
-*   **달리기:** `Shift` 길게
-*   **웅크리기/잠행:** `Ctrl` 또는 `C`
-*   **상호작용/훔치기:** `E` 또는 `F`
-*   **아이템 사용:** 숫자 키 `1`, `2`, `3`… 또는 `Q`
+*   **이동:** W, A, S, D
+*   **점프:** Space
+*   **달리기:** Shift 길게
+*   **웅크리기/잠행:** Ctrl 또는 C
+*   **상호작용/훔치기:** E 또는 F
+*   **아이템 사용:** 숫자 키 1, 2, 3… 또는 Q
 
+<!-- i18n:section:faq -->
 ### 자주 묻는 질문(FAQ)
 
+<!-- i18n:faq:id=faq:steal-a-brainrot:where-can-i-play-this-4bfcb29e -->
 **1. 어디에서 이 게임을 플레이할 수 있나요?**
 
 Roblox 플랫폼에서 무료로 즐길 수 있습니다. Roblox 앱이나 웹사이트에서
 **"Steal a Brainrot"**를 검색한 뒤, 인기 서버 중 하나에 접속하면 됩니다.
 
+<!-- i18n:faq:id=faq:steal-a-brainrot:is-this-game-singleplayer-or-c4933735 -->
 **2. 싱글 플레이도 가능한가요?**
 
 기본적으로는 **멀티플레이** 협동/대전 구조를 염두에 두고 설계되었습니다.
 혼자 서버에 들어갈 수는 있지만, 다른 플레이어와 함께할 때가 훨씬
 재미있습니다.
 
+<!-- i18n:faq:id=faq:steal-a-brainrot:what-exactly-is-a-brainrot-6c62ff59 -->
 **3. "Brainrot"가 정확히 무엇인가요?**
 
 원래는 질 낮지만 중독적인 인터넷 밈, 바이럴 콘텐츠를 가리키는 인터넷
 속어입니다. 이 게임에서는 그 개념을 실제로 훔쳐 올 수 있는 캐릭터로
 구현해, 상황 자체가 웃음을 유발합니다.
 
+<!-- i18n:faq:id=faq:steal-a-brainrot:what-is-the-objective-to-b300ad36 -->
 **4. 어떻게 해야 이기나요?**
 
 일반적으로 제한 시간 안에 더 많이 Brainrot를 훔쳐 기지로 가져오는 팀이
 승리합니다. 특정 모드에서는 한 번도 들키지 않고 성공하는 등 별도의 승리
 조건이 있을 수도 있습니다.
+
