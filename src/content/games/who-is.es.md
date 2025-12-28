@@ -16,6 +16,7 @@ score: 4.1/5  (907 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Introducción del juego
 
 Who Is? Game es un juego de puzles muy popular que te enfrenta a una colección de enigmas y situaciones tipo “acertijo visual”. Desarrollado por Unico Studio, te obliga a pensar con lógica, observar cada detalle y, a menudo, usar soluciones poco convencionales para superar cada nivel. Los retos van desde descubrir quién miente hasta localizar objetos escondidos.
@@ -28,12 +29,14 @@ Cada nivel plantea una situación o pregunta diferente, y tu meta es dar con la 
 - **Piensa fuera de la caja:** muchos puzles están diseñados para engañarte; la respuesta evidente suele no ser la correcta. Experimenta y prueba soluciones creativas.
 - **Resuelve acertijos:** algunos niveles son acertijos de texto, otros dependen más de la lógica visual o de las relaciones entre personajes.
 
+<!-- i18n:section:controls -->
 ### Controles
 
 - **Tocar / hacer clic:** usa el dedo o el ratón para seleccionar elementos en pantalla.
 - **Arrastrar:** mantén pulsado y arrastra para mover objetos o revelar zonas ocultas.
 - **Multitáctil:** ciertos puzles pueden requerir usar dos dedos a la vez.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
 **¿Qué tipos de puzles incluye?**
@@ -47,4 +50,5 @@ Sí. Si te atascas en un nivel, normalmente podrás acceder a pistas que te orie
 **¿Es apto para todas las edades?**
 
 En general sí: el tono es desenfadado y la dificultad está pensada para cualquier persona a la que le gusten los puzles.
+
 

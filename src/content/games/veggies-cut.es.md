@@ -15,10 +15,12 @@ score: 4.0/5  (1867 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada del juego
 
 En Veggies Cut rebanas verduras con trazos amplios, construyes cadenas de combos y evitas peligros de cocina como cuchillos o bombas. Los cortes largos y rectos, junto con un ritmo tranquilo y constante, son la clave para dominar la tabla de clasificación.
 
+<!-- i18n:section:tips -->
 ### Estrategia y guía de juego
 
 1.  Traza líneas largas atravesando varias verduras a la vez para maximizar el valor del combo.
@@ -27,15 +29,20 @@ En Veggies Cut rebanas verduras con trazos amplios, construyes cadenas de combos
 4.  Usa modos de cámara lenta (si existen) en las oleadas más densas.
 5.  Recupera la posición tras un fallo y vuelve rápido a tu patrón de corte.
 
+<!-- i18n:section:controls -->
 ### Controles
 
 - Desliza o haz clic y arrastra para cortar; pausa y reinicia desde la interfaz.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:veggies-cut:i-hit-hazards-e2582509 -->
 - **Q: ¿Por qué siempre termino golpeando peligros?**  
   **A:** Elige ángulos de corte más limpios y evita terminar una línea atravesando un cuchillo o una bomba.
 
+<!-- i18n:faq:id=faq:veggies-cut:how-to-score-high-602cd322 -->
 - **Q: ¿Cómo hago más puntos?**  
   **A:** Concéntrate en cortes largos que pasen por varias piezas a la vez y mantén un ritmo estable en lugar de gestos cortos y caóticos.
+
 

@@ -17,6 +17,7 @@ score: 4.8/5  (1384 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Introducción del juego
 
 Word Wipe es un dinámico puzle de palabras que combina la búsqueda de términos con una mecánica de caída de fichas. Te enfrentas a una cuadrícula de letras y debes encontrar rápidamente palabras conectando letras adyacentes. Al formar un término, esas letras desaparecen y las de arriba caen, manteniendo el desafío en movimiento constante.
@@ -30,10 +31,12 @@ Word Wipe es un dinámico puzle de palabras que combina la búsqueda de término
 - **Puntuación:** las palabras largas y complejas valen más puntos; la velocidad también suma.
 - **Bombas de bonus:** puedes conseguir “bombas” especiales que limpian varias casillas a la vez y te ayudan en situaciones complicadas.
 
+<!-- i18n:section:controls -->
 ### Controles
 
 - **Ratón / táctil:** haz clic y arrastra (o desliza) sobre letras adyacentes para formar palabras.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
 **¿Cómo se gana en Word Wipe?**
@@ -47,4 +50,5 @@ Si no has eliminado las filas necesarias antes de que el temporizador llegue a c
 **¿Hay estrategias para puntuaciones altas?**
 
 Busca palabras largas que limpien varias filas, intenta crear reacciones en cadena y usa las bombas con cabeza para liberar grandes áreas cuando te quedes sin opciones claras.
+
 

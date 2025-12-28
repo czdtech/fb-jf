@@ -6,16 +6,17 @@ description: >-
   Western Sniper es un shooter casual en el que encarnas a un pistolero del
   salvaje oeste, apuntando con precisión para eliminar a bandidos desde la
   distancia en escenarios llenos de coberturas y objetivos.
-iframeSrc: 'https://g3.igroutka.ru/games/164/uYZooJ3YhyE4fMF7/5/western_sniper/'
+iframeSrc: 'https://4oill7a9ltc9g.h5games.usercontent.goog/v/54hea44l6fm4o/'
 thumbnail: /new-images/thumbnails/western-sniper.png
 tags:
   - action
   - shooting
   - casual
-score: 3.9/5  (1021 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+score: 4.1/5  (2016 votes)
+releaseDate: 2025-10-18
 ---
 
+<!-- i18n:section:introduction -->
 ### Introducción del juego
 
 Western Sniper es un juego de disparos sencillo y directo ambientado en el lejano oeste. Desde posiciones seguras, apuntas y disparas a forajidos que se esconden detrás de barriles, ventanas y estructuras, aprovechando rebotes y explosiones para completar cada misión con el menor número de balas posible.
@@ -29,18 +30,23 @@ Western Sniper es un juego de disparos sencillo y directo ambientado en el lejan
 
 
 - **Objetivos opcionales:** inténtalos solo cuando el escenario esté bajo control.
+<!-- i18n:section:controls -->
 ### Controles
 
 - Apunta moviendo el ratón o el dedo sobre la pantalla y toca/clic para disparar.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
 
+<!-- i18n:faq:id=faq:western-sniper:i-miss-moving-targets-e6ff0d82 -->
 - **Q: Fallo los objetivos en movimiento.**
   
   **A:** Anticípate un poco y dispara cuando el balanceo sea mínimo; practica el ritmo entre disparos.
 
+<!-- i18n:faq:id=faq:western-sniper:ammo-runs-out-7881997a -->
 - **Q: Me quedo sin munición.**
   
   **A:** No dispares a lo loco: apunta con calma y ahorra balas aprovechando explosivos y el entorno cuando puedas.
+
 

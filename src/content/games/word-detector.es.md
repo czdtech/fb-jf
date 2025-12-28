@@ -16,10 +16,12 @@ score: 4.4/5  (2350 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada del juego
 
 Word Detector es un rápido puzle de palabras que pone a prueba tu vocabulario y tu velocidad. En cada nivel se te muestra una cuadrícula de letras y debes encontrar tantas palabras como puedas conectando letras adyacentes. Puedes enlazarlas en horizontal, vertical o diagonal. Normalmente hay un objetivo de puntuación o de número de palabras que debes alcanzar antes de que termine el tiempo.
 
+<!-- i18n:section:tips -->
 ### Estrategia y guía de juego
 
 1.  **Busca prefijos y sufijos comunes:** localiza combinaciones frecuentes como “S”, “ED”, “ER” o “ING”; pueden servirte para formar varias palabras a partir de la misma raíz.
@@ -27,20 +29,26 @@ Word Detector es un rápido puzle de palabras que pone a prueba tu vocabulario y
 3.  **No olvides las diagonales:** suele ser sencillo ver palabras horizontales y verticales, pero muchos jugadores pasan por alto las diagonales. Revisa las ocho direcciones posibles desde cada letra.
 4.  **Usa pistas si te bloqueas:** si el tiempo corre y no encuentras nada, recurre a una pista para descubrir una palabra nueva y recuperar el ritmo.
 
+<!-- i18n:section:controls -->
 ### Controles
 
 El control se basa en un gesto de clic y arrastre.
 
 *   **Formar una palabra:** haz clic en la primera letra, mantén pulsado y arrastra por las letras adyacentes en orden. Suelta en la última letra para enviar la palabra.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:word-detector:q-what-is-the-minimum-136c2025 -->
 *   **Q: ¿Cuál es la longitud mínima de una palabra?**
     *   **A:** En la mayoría de juegos de este tipo, las palabras deben tener al menos tres letras para ser válidas.
 
+<!-- i18n:faq:id=faq:word-detector:q-can-i-reuse-a-45552dd2 -->
 *   **Q: ¿Puedo reutilizar una misma letra en una sola palabra?**
     *   **A:** No. Cada casilla solo puede usarse una vez dentro de la misma palabra.
 
+<!-- i18n:faq:id=faq:word-detector:q-what-happens-if-time-dc1723e2 -->
 *   **Q: ¿Qué pasa si se acaba el tiempo?**
     *   **A:** Si no alcanzas la puntuación objetivo (o el objetivo del nivel) antes de que termine el temporizador, tendrás que repetir el nivel.
+
 

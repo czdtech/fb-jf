@@ -6,16 +6,17 @@ description: >-
   Whack Your Boss es un juego de desahogo oscuro y satírico donde exploras
   formas exageradas y caricaturescas de “vengarte” de tu jefe en un entorno
   completamente ficticio.
-iframeSrc: 'https://freeonlinegames.github.io/whack-your-boss.html'
+iframeSrc: 'https://flash-cdn.blogspot.com/2021/06/whack-your-boss-24-ways.html'
 thumbnail: /new-images/thumbnails/whack-your-boss.jpg
 tags:
   - action
   - satire
   - stress-relief
-score: 3.8/5  (754 votes)
+score: 4.7/5  (899 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Introducción del juego
 
 Whack Your Boss es una experiencia interactiva satírica en la que el protagonista fantasea con distintas y exageradas formas de desahogarse con su jefe. Cada objeto del despacho puede desencadenar una escena distinta, presentada con humor negro y estilo de cómic. El juego no pretende ser una invitación a la violencia real, sino una caricatura exagerada del estrés laboral.
@@ -30,10 +31,12 @@ La jugabilidad es muy sencilla:
 
 
 - **Reiniciar:** tras cada animación suele aparecer una opción de “limpieza” para reiniciar la escena y probar otro objeto.
+<!-- i18n:section:controls -->
 ### Controles
 
 - Usa el ratón o el dedo para apuntar y hacer clic en los distintos elementos del despacho.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
 **¿Cuál es el objetivo del juego?**
@@ -47,3 +50,4 @@ Sí. Existen varias versiones de Whack Your Boss y otros títulos similares, con
 **¿El juego es violento?**
 
 El tema gira en torno a “darle su merecido” al jefe, pero todo está presentado de forma exagerada, caricaturesca y absurda, más como humor negro que como violencia realista.
+

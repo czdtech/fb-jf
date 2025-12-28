@@ -11,9 +11,11 @@ thumbnail: /new-images/thumbnails/yojou-sprunki-mustard.png
 tags:
   - yojou sprunki mustard
 score: 4.5/5  (322 votes)
+releaseDate: 2025-12-04
 ---
 
 
+<!-- i18n:section:introduction -->
 ¿Preparado para un extraño bautismo de color y sonido? Yojou Sprunki Mustard es un mod parodia que deforma y llena de amarillo el universo Sprunki: todos los personajes son corrompidos por una misteriosa “salsa de mostaza”, dando lugar a una experiencia musical tan caótica como hipnótica.
 
 ### ¿Qué pasó exactamente con Yojou Sprunki Mustard?
@@ -34,6 +36,7 @@ Desde que Brud descubrió esa extraña “salsa de mostaza”, todo cambió. Los
 - **Nuevos elementos de terror:** el mod introduce un ambiente más siniestro que anima a experimentar con sonidos raros y a abrazar una vibra inquietante.
 
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar a Yojou Sprunki Mustard (Sprunkstard)
 
 **Elige personajes a la mostaza:**  
@@ -61,4 +64,5 @@ Desde que Brud descubrió esa extraña “salsa de mostaza”, todo cambió. Los
 
 
 Entra en el extraño mundo de Yojou Sprunki Mustard y deja que tus creaciones musicales se contagien de este mágico tono amarillo.
+
 

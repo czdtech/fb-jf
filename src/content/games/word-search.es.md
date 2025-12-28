@@ -16,6 +16,7 @@ score: 3.8/5  (1143 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Introducción del juego
 
 Word Search es un juego de sopa de letras en el que debes encontrar palabras ocultas en una cuadrícula de letras, buscándolas en horizontal, vertical y diagonal para completar listas temáticas. Es un ejercicio mental relajante que ayuda a mejorar vocabulario y capacidad de observación.
@@ -28,6 +29,7 @@ Word Search es un juego de sopa de letras en el que debes encontrar palabras ocu
 4.  **Marca en cuanto encuentres:** resalta enseguida las palabras para no perder tiempo volviendo sobre ellas.
 5.  **Usa el tema:** utiliza la temática de la lista para anticipar qué tipo de palabras puedes encontrar.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 *   **Seleccionar palabras:** arrastra con el ratón o el dedo para marcar las letras de cada palabra encontrada.
@@ -35,6 +37,7 @@ Word Search es un juego de sopa de letras en el que debes encontrar palabras ocu
 *   **Ver la lista:** consulta la lista de palabras para saber cuáles te faltan.
 *   **Pistas:** algunas versiones incluyen pistas para ayudarte con las palabras más difíciles.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes
 
 1.  **Q: ¿En qué direcciones pueden aparecer las palabras?**  
@@ -48,4 +51,5 @@ Word Search es un juego de sopa de letras en el que debes encontrar palabras ocu
 
 4.  **Q: ¿Hay límite de tiempo?**  
     **A:** En la mayoría de versiones no; puedes jugar sin prisa.
+
 

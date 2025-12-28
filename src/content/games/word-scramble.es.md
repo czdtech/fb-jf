@@ -17,6 +17,7 @@ score: 3.5/5  (764 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Introducción del juego
 
 Word Scramble es un puzle de palabras clásico y muy entretenido en el que debes reordenar un conjunto de letras desordenadas para formar una palabra con sentido. Es una prueba de vocabulario, reconocimiento de patrones y rapidez mental, con distintos niveles de dificultad y categorías temáticas.
@@ -29,12 +30,16 @@ Word Scramble es un puzle de palabras clásico y muy entretenido en el que debes
 - **Pistas:** si te bloqueas, suele haber pistas que revelan letras o dan una definición.
 - **Puntuación:** obtienes puntos por cada respuesta correcta, con bonificaciones si contestas rápido.
 
+<!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Enter`
 
 - **Escritura:** usa el teclado para escribir la palabra que creas correcta.
 - **Reordenar letras:** algunas versiones permiten arrastrar letras con el ratón o usar un botón de “barajar” para ver el anagrama de otra forma.
-- **Enviar:** pulsa `Enter` para confirmar tu respuesta.
+- **Enviar:** pulsa Enter para confirmar tu respuesta.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
 **¿Cómo se juega a Word Scramble?**
@@ -48,4 +53,5 @@ Suele haber pistas o una opción de pasar al siguiente anagrama. También puedes
 **¿Hay distintos tipos de Word Scramble?**
 
 Sí: hay variantes por categorías (animales, países, etc.), por longitudes de palabra o incluso modos competitivos en los que varios jugadores compiten por resolver primero.
+
 

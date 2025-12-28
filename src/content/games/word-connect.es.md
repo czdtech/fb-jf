@@ -17,6 +17,7 @@ score: 3.9/5  (144 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Introducción del juego
 
 Word Connect es un juego de puzles de palabras popular y relajante en el que debes formar palabras uniendo letras. Normalmente las letras se colocan en un círculo y tienes que deslizar el dedo (o el ratón) sobre ellas para ir componiendo palabras. El objetivo es encontrar todos los términos ocultos que encajan en el tablero superior con formato de crucigrama.
@@ -29,11 +30,13 @@ Word Connect es un juego de puzles de palabras popular y relajante en el que deb
 - **Barajar:** usa el botón de barajar para reordenar las letras y ver nuevas combinaciones posibles.
 - **Pistas:** gasta monedas para revelar letras cuando te quedes atascado.
 
+<!-- i18n:section:controls -->
 ### Controles
 
 - **Deslizar/arrastrar:** usa el dedo (en móvil) o el ratón (en PC) para unir letras y formar palabras.
 - **Clic:** pulsa los botones de barajar o de pista para usarlos.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
 **¿Cómo gano monedas?**
@@ -47,4 +50,5 @@ La mayoría de versiones no imponen límite; puedes resolver cada panel a tu rit
 **¿Qué cuenta como palabra válida?**
 
 Por lo general deben tener al menos tres letras y aparecer en el diccionario interno del juego.
+
 

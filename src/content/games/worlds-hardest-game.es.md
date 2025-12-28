@@ -18,6 +18,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción del juego
 
 "World's Hardest Game" es un arcade famoso por su dificultad extrema. Controlas un pequeño cuadrado rojo que debe atravesar niveles plagados de círculos azules en movimiento. Cada error se castiga al instante, así que necesitas una sincronización milimétrica y una paciencia enorme para esquivar los obstáculos y alcanzar la meta. Su estética simple esconde una experiencia tan frustrante como adictiva.
@@ -30,12 +31,14 @@ releaseDate: 2025-08-16T00:00:00.000Z
 4.  **Divide el camino:** trocea las rutas largas en pequeños tramos seguros y completa el nivel paso a paso.
 5.  **Mantén la calma:** fallar es parte del juego. Mantén la cabeza fría y aprende de cada intento.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 *   **Movimiento:** usa las teclas `WASD` o las flechas para mover el cuadrado rojo.
 *   **Ajustes finos:** puedes hacer movimientos pixel a pixel para esquivar por muy poco los obstáculos.
 *   **Pausa y planificación:** detente en zonas seguras para estudiar el siguiente tramo.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes
 
 1.  **Q: ¿Por qué se llama “el juego más difícil del mundo”?**  
@@ -49,4 +52,5 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 4.  **Q: ¿Algún consejo para pasárselo?**  
     **A:** Practica, observa y no corras. Memoriza patrones de movimiento y avanza solo cuando veas un hueco claro.
+
 

@@ -15,10 +15,12 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada del juego
 
 Zombie Hunter: Survival es un shooter de supervivencia visto desde arriba. Te mueves por arenas estrechas, gestionas munición y ventanas de recarga y trazas rutas seguras para “kitear” mientras las oleadas crecientes de zombis ponen al límite tu posicionamiento y control de masas.
 
+<!-- i18n:section:tips -->
 ### Estrategia y guía de juego
 
 1.  **Kite en círculos:** corre en círculos amplios para agrupar zombis y dispararles cuando estén bien apilados.
@@ -27,19 +29,25 @@ Zombie Hunter: Survival es un shooter de supervivencia visto desde arriba. Te mu
 4.  **Prioriza objetivos:** elimina primero a los enemigos rápidos o a distancia antes de centrarte en los lentos.
 5.  **Recoge recursos con cabeza:** ve a por munición y botiquines solo cuando el camino esté despejado.
 
+<!-- i18n:section:controls -->
 ### Controles
 
-- Muévete con `WASD` o flechas; apunta con el ratón o teclas; dispara y recarga según los botones indicados en la interfaz.
+- Muévete con WASD o flechas; apunta con el ratón o teclas; dispara y recarga según los botones indicados en la interfaz.
 - Cambia de arma si el juego ofrece un arsenal múltiple.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:zombie-hunter-survival:i-get-corneredfix-c5a84211 -->
 - **Q: Siempre termino acorralado.**  
   **A:** Evita los callejones sin salida y deja siempre una ruta de escape antes de empezar a disparar.
 
+<!-- i18n:faq:id=faq:zombie-hunter-survival:ammo-scarcetips-24d56ed0 -->
 - **Q: Me falta munición, ¿algún truco?**  
   **A:** Apunta a grupos, usa disparos individuales en lugar de ráfagas y recoge munición únicamente cuando sea seguro hacerlo.
 
+<!-- i18n:faq:id=faq:zombie-hunter-survival:bosses-5a57d05f -->
 - **Q: ¿Hay jefes?**  
   **A:** Algunas oleadas introducen enemigos élite; en esos casos, abre más el círculo de kite y elimina antes a los esbirros normales.
+
 

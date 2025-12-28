@@ -17,10 +17,12 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada del juego
 
 Zombie Ragdoll es un puzle de disparos en el que lanzas cuerpos de zombi tipo ragdoll para accionar palancas, detonar explosivos y derribar estructuras. Dominar los ángulos de lanzamiento y el orden en que activas las trampas es la clave para lograr cadenas de destrucción muy satisfactorias.
 
+<!-- i18n:section:tips -->
 ### Estrategia y guía de juego
 
 1.  **Usa el primer tiro como prueba:** dispara una vez para observar cómo reaccionan los elementos y ajusta ángulo y potencia después.
@@ -29,15 +31,20 @@ Zombie Ragdoll es un puzle de disparos en el que lanzas cuerpos de zombi tipo ra
 4.  **Reserva los tiros rectos:** guarda los disparos más potentes y directos para anclar estructuras clave.
 5.  **Menos disparos, más recompensa:** cuantos menos intentos uses, mejores serán las recompensas, así que planifica antes de disparar.
 
+<!-- i18n:section:controls -->
 ### Controles
 
 - Arrastra para elegir ángulo y potencia y suelta para lanzar; reinicia el nivel desde la interfaz si quieres volver a intentarlo.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:zombie-ragdoll:i-barely-move-structures-dbdc043c -->
 - **Q: Apenas consigo mover las estructuras.**  
   **A:** Apunta a los puntos de apoyo o combina tus lanzamientos con explosivos para tener más fuerza de impacto.
 
+<!-- i18n:faq:id=faq:zombie-ragdoll:shots-feel-random-2886f531 -->
 - **Q: Siento que los disparos son muy aleatorios.**  
   **A:** Toma uno o dos tiros de exploración y, a partir de ahí, ajusta en pequeños incrementos el ángulo o la potencia en lugar de cambiarlo todo de golpe.
+
 

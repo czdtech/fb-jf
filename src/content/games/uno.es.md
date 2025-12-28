@@ -16,6 +16,7 @@ score: 4.4/5  (1083 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Introducción del juego
 
 "UNO Game" es la versión digital del clásico juego de cartas en el que los jugadores compiten por quedarse sin cartas antes que los demás. Para ello, deben combinar colores y números y aprovechar cartas de acción especiales para bloquear, saltar turno o cambiar el sentido de la ronda.
@@ -28,6 +29,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 4.  **Observa a tus oponentes:** fíjate en cuántas cartas les quedan y en cómo juegan para anticipar sus movimientos.
 5.  **Declaración de UNO:** recuerda avisar con “UNO” cuando te quede una sola carta, o te arriesgas a recibir cartas de penalización.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 *   **Jugar cartas:** haz clic en una carta jugable de tu mano para lanzarla a la pila.
@@ -35,6 +37,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 *   **Elegir color:** al usar un comodín, selecciona el color que más te convenga para el siguiente turno.
 *   **Botón UNO:** pulsa el botón de UNO para declarar cuando te quede una carta.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes
 
 1.  **Q: ¿Cuándo tengo que decir UNO?**  
@@ -48,4 +51,5 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 4.  **Q: ¿Puedo jugar varias cartas iguales seguidas?**  
     **A:** Depende de las reglas de la variante. En las reglas estándar solo se permite jugar una carta por turno.
+
 

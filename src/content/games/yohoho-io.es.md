@@ -18,6 +18,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción del juego
 
 YoHoHo.io es un .io de batalla real rápido y caótico con temática pirata, en el que los jugadores compiten por ser el último corsario en pie en una isla que se va encogiendo. Empiezas como un pirata pequeño y frágil y, recogiendo oro y derrotando enemigos, creces en tamaño y fuerza hasta dominar la clasificación. Controles sencillos, partidas cortas y un fuerte componente competitivo lo convierten en un juego tremendamente adictivo.
@@ -29,13 +30,17 @@ YoHoHo.io es un .io de batalla real rápido y caótico con temática pirata, en 
 - **Isla en contracción:** la zona segura se reduce constantemente, obligando a todos a agruparse y aumentando la intensidad de los combates. Permanece dentro del área segura para no recibir daño continuo.
 - **Embestida (dash):** utiliza tu habilidad de dash con cabeza para cerrar distancias, huir de situaciones peligrosas o esquivar ataques en el último segundo.
 
+<!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `WASD` `Arrow Keys` `Left Click` `Spacebar` `Left Click` `Spacebar` `Right Click`
 
-- **Movimiento:** `WASD` o flechas del teclado; en ratón/táctil, arrastra para dirigir al pirata.
+- **Movimiento:** WASD o flechas del teclado; en ratón/táctil, arrastra para dirigir al pirata.
 - **Ataque:** clic izquierdo o barra espaciadora / toque en pantalla.
 - **Ataque cargado:** mantén pulsado clic izquierdo o espacio para cargar un golpe más potente.
 - **Dash:** clic derecho del ratón o botón específico de embestida en móvil.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
 **¿Cómo me hago más grande y fuerte?**
@@ -49,4 +54,5 @@ Si entras en el área roja fuera del círculo seguro, empezarás a recibir daño
 **¿Hay distintos personajes pirata?**
 
 Sí. A medida que juegas y consigues más oro, puedes desbloquear piratas con apariencias distintas y, en algunas versiones, con ligeras diferencias de estadísticas o habilidades iniciales.
+
 
