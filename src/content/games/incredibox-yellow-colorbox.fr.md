@@ -5,15 +5,16 @@ title: Incredibox Yellow Colorbox
 description: >-
   Incredibox Yellow Colorbox est un mod thématique jaune : sons électroniques
   lumineux et esthétique monochrome pour des mixes très marqués visuellement.
-iframeSrc: 'https://turbowarp.org/1049455116/embed'
+iframeSrc: 'https://www.minijuegos.com/embed/incredibox-yellow-colorbox'
 thumbnail: /new-images/thumbnails/incredibox-yellow-colorbox.png
 tags:
   - music
   - rhythm
-score: 4.4/5 (placeholder votes)
-releaseDate: 2025-10-10T00:00:00.000Z
+score: 4.5/5  (614 votes)
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:tips -->
 ### Qu'est‑ce qu'Incredibox Yellow Colorbox ?
  
 Incredibox Yellow Colorbox est un mod musical Incredibox créé par des fans. Dans cette version, tous les personnages sont présentés dans une couleur jaune frappante, et chaque personnage a un effet sonore unique et inimitable. Avec de simples opérations de glisser‑déposer, tu peux combiner divers éléments musicaux pour créer ta propre mélodie exclusive.

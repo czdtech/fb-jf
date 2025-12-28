@@ -15,11 +15,13 @@ score: 4.8/5 (1842 votes)
 releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation d'Incredibox Studio
 
 Incredibox Studio est un projet fan‑made. Contrairement aux versions officielles d'Incredibox, basées sur des sets de sons prédéfinis, cette version « Studio » offre une expérience de bac à sable. Les joueurs disposent d'un large éventail de sons et d'effets à faire glisser, déposer et mixer, leur permettant de créer leurs propres beats et compositions musicales uniques à partir de zéro. C'est un terrain de jeu créatif pour les fans du jeu original qui veulent explorer leurs propres idées musicales.
 
 
+<!-- i18n:section:tips -->
 ### Stratégie de jeu / Conseils créatifs
 
 *   Comme c'est un bac à sable, la « stratégie » concerne la créativité.
@@ -29,6 +31,7 @@ Incredibox Studio est un projet fan‑made. Contrairement aux versions officiell
     4.  **Utilise Mute/Solo** : Isole des pistes spécifiques en utilisant les boutons mute ou solo pour affiner chaque partie de ta composition.
 
 
+<!-- i18n:section:controls -->
 ### Guide des commandes
 
 *   Le jeu se contrôle entièrement à la souris.
@@ -38,9 +41,13 @@ Incredibox Studio est un projet fan‑made. Contrairement aux versions officiell
     *   **Enregistrer** : Clique sur le bouton d'enregistrement (généralement un cercle rouge) en haut pour démarrer et arrêter l'enregistrement de ton mix.
 
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:incredibox-studio:q-can-i-save-the-c98a2c3b -->
 *   **Q : Puis‑je sauvegarder la musique que je crée ?**
     *   **R** : Oui, la plupart des versions ont une fonction d'enregistrement qui te permet de sauvegarder ton mix et fournit souvent un lien partageable. Cependant, la musique est uniquement pour un usage personnel et non commercial.
+<!-- i18n:faq:id=faq:incredibox-studio:q-where-can-i-play-fe36000d -->
 *   **Q : Où puis‑je y jouer ?**
     *   **R** : Il est jouable directement dans un navigateur web via le lien playfiddlebops.com fourni.
+

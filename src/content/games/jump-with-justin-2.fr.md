@@ -13,10 +13,12 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Présentation détaillée
 
 Jump With Justin 2 est un platformer léger centré sur les sauts à ressort, les plateformes mobiles et le timing des pièges. Planifie tes arcs, enchaîne les rebonds et conserve ta vitesse pour atteindre les sorties avec le moins d’erreurs possible.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu
 
 1.  **Contrôle des arcs** : engage‑toi dans des trajectoires propres ; souvent, un saut déclenché un peu plus tard te fera passer plus sûrement au‑dessus des dangers.  
@@ -25,19 +27,25 @@ Jump With Justin 2 est un platformer léger centré sur les sauts à ressort, le
 4.  **Salle difficile** : n’hésite pas à recommencer un segment pour mémoriser précisément les fenêtres de saut.  
 5.  **Étoiles facultatives** : récupère les collectibles seulement quand la trajectoire est sûre.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
-- **Déplacement / saut** : flèches ou `WASD` + `Espace` ; boutons tactiles sur mobile.  
+- **Déplacement / saut** : flèches ou WASD + Espace ; boutons tactiles sur mobile.  
 - **Restart** : utilise le redémarrage rapide pour t’entraîner sur une section.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:jump-with-justin-2:keep-hitting-spikeswhy-466bc196 -->
 - **Q : Je me fais toujours empaler sur les piques, pourquoi ?**  
   R : Tu sautes probablement trop tôt. Décale légèrement ton timing et garde des arcs fluides.  
 
+<!-- i18n:faq:id=faq:jump-with-justin-2:is-double-jump-available-1a6ad609 -->
 - **Q : Y a‑t‑il un double saut ?**  
   R : Certains niveaux incluent des trampolines ou bonus qui en donnent l’impression, mais pas de double saut classique partout.  
 
+<!-- i18n:faq:id=faq:jump-with-justin-2:100-collection-tips-0d1fc3ad -->
 - **Q : Des conseils pour le 100 % ?**  
   R : Apprends d’abord un chemin sûr jusqu’à la sortie, puis refais les niveaux en planifiant des détours pour attraper les étoiles.
+
 

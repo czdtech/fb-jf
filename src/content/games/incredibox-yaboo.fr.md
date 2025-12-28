@@ -5,17 +5,18 @@ title: Incredibox Yaboo
 description: >-
   Incredibox Yaboo est un mod fan‑made coloré : beats punchy, voix fun et
   visuels cartoon pour des mixes légers et dynamiques.
-iframeSrc: 'https://turbowarp.org/1109397560/embed'
+iframeSrc: 'https://turbowarp.org/1095206379/embed'
 thumbnail: /new-images/thumbnails/incredibox-yaboo.png
 tags:
   - music
   - rhythm
-score: 4.5/5 (placeholder votes)
+score: 4.5/5 (987 votes)
 releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 
 
+<!-- i18n:section:introduction -->
 ### **Présentation du jeu Incredibox « YaBoo »**
 
 *Incredibox YaBoo* est un mod fan‑made populaire et artistiquement distinct pour le jeu de création musicale Incredibox. Cette version se distingue par son thème unique et cohérent inspiré du **folklore japonais, mettant en vedette des Oni (démons) et des Yokai (esprits)**.
@@ -24,6 +25,7 @@ Les mécaniques de jeu sont identiques à la série officielle. Les joueurs déc
 
 L'objectif, comme toujours, est un mélange d'expression créative et de résolution de puzzle. Les joueurs peuvent librement expérimenter pour créer leur propre piste d'inspiration japonaise. L'élément puzzle consiste à découvrir les trois combinaisons de sons spécifiques qui débloquent de magnifiques bonus animés, chacun profondément ancré dans le thème folklorique du mod.
 
+<!-- i18n:section:tips -->
 ### **Stratégies de jeu et conseils**
 
 La stratégie pour *Incredibox YaBoo* consiste à superposer ses sons uniques pour créer un mix captivant et découvrir les animations cachées.
@@ -42,6 +44,7 @@ La stratégie pour *Incredibox YaBoo* consiste à superposer ses sons uniques po
 
 5.  **Utilise Solo et Mute pour la clarté** : Si ton mix semble trop chargé, utilise la fonction mute pour faire taire les personnages individuels. Utilise la fonction solo pour isoler un instrument ou une partie vocale spécifique afin d'apprécier ses détails et voir comment il s'intègre dans la composition globale.
 
+<!-- i18n:section:controls -->
 ### **Guide des commandes**
 
 Les commandes sont l'interface standard et conviviale d'Incredibox, pilotée par les actions de la souris.
@@ -51,3 +54,4 @@ Les commandes sont l'interface standard et conviviale d'Incredibox, pilotée par
 *   **Mute / Unmute** : **Clique** sur un personnage qui joue pour le couper ; clique à nouveau pour le réactiver.
 *   **Solo** : Clique sur le **petit bouton** à côté d'un personnage actif pour couper tous les autres interprètes.
 *   **Enregistrer** : Clique sur le **bouton d'enregistrement** pour démarrer et arrêter l'enregistrement de ta création musicale.
+

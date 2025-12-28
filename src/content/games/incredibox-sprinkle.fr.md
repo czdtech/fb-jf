@@ -8,9 +8,11 @@ thumbnail: /new-images/thumbnails/incredibox-sprinkle.png
 tags:
   - incredibox sprinkle
 score: 3.8/5  (387 votes)
+releaseDate: 2025-12-04
 ---
 
 
+<!-- i18n:section:how-to-play -->
 ### Comment jouer à Sprinkle ?
 
 - **Glisser & combiner** : fais glisser différents personnages vers les emplacements prévus pour qu’ils jouent leurs notes. Chaque personnage apporte un son unique qui se superpose aux autres pour former un arrangement complet.  
@@ -29,4 +31,5 @@ score: 3.8/5  (387 votes)
 - **Support clavier** : les raccourcis rendent le mixage plus confortable quand ils sont disponibles.
 
 Sprinkle est un bac à sable musical accessible et amusant. Que tu sois joueur occasionnel ou curieux de MAO, tu peux y trouver de quoi laisser libre cours à ta créativité.
+
 

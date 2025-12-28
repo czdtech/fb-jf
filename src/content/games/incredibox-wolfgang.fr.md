@@ -5,17 +5,18 @@ title: Incredibox Wolfgang
 description: >-
   Incredibox Wolfgang est un mod orchestral classique : cordes, cuivres et
   chœurs inspirés de Mozart et des grands compositeurs.
-iframeSrc: 'https://turbowarp.org/1050200583/embed'
+iframeSrc: 'https://turbowarp.org/943197191/embed'
 thumbnail: /new-images/thumbnails/incredibox-wolfgang.png
 tags:
   - music
   - classical
-score: 4.7/5 (placeholder votes)
+score: 4.8/5 (2451 votes)
 releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 
 
+<!-- i18n:section:introduction -->
 ### **Présentation du jeu Incredibox « Wolfgang »**
 
 *Incredibox Wolfgang* est un mod fan‑made élégant et magistralement conçu pour le jeu de création musicale Incredibox. Cette version est un hommage à l'ère de la **musique classique**, fortement inspiré par les œuvres du légendaire compositeur, **Wolfgang Amadeus Mozart**.
@@ -24,6 +25,7 @@ Le jeu transforme les beatboxers habituels en une troupe d'interprètes du 18e s
 
 L'objectif est de permettre aux joueurs de créer leurs propres pièces classiques sophistiquées tout en s'engageant dans le puzzle de trouver les trois bonus animés secrets. Ces bonus sont de magnifiques vignettes animées qui capturent parfaitement la grâce et le drame de l'ère classique.
 
+<!-- i18n:section:tips -->
 ### **Stratégies de jeu et conseils**
 
 La stratégie dans *Incredibox Wolfgang* consiste à comprendre l'arrangement classique et superposer les parties orchestrales pour créer une composition riche et harmonieuse.
@@ -42,6 +44,7 @@ La stratégie dans *Incredibox Wolfgang* consiste à comprendre l'arrangement cl
 
 5.  **Utilise Solo pour apprécier chaque partie** : L'instrumentation dans ce mod est très détaillée. Utilise la fonction « solo » pour isoler le violon ou un chanteur soliste afin d'apprécier pleinement leur performance individuelle et comprendre leur rôle dans l'ensemble complet.
 
+<!-- i18n:section:controls -->
 ### **Guide des commandes**
 
 Les commandes suivent l'interface intuitive de glisser‑déposer standard des jeux Incredibox officiels.
@@ -52,20 +55,26 @@ Les commandes suivent l'interface intuitive de glisser‑déposer standard des j
 *   **Solo** : Clique sur le **petit bouton** à côté d'un personnage actif pour couper tous les autres interprètes.
 *   **Enregistrer** : Clique sur le **bouton d'enregistrement** pour démarrer et arrêter l'enregistrement de ton chef‑d'œuvre classique.
 
+<!-- i18n:section:faq -->
 ### **Foire aux questions (FAQ)**
 
+<!-- i18n:faq:id=faq:incredibox-wolfgang:is-incredibox-wolfgang-an-offi-a34e9a1a -->
 **Q : *Incredibox Wolfgang* est‑il une version officielle ?**
 
 R : Non. C'est un **mod fan‑made** de très haute qualité créé par Gabsoares04. Il n'est pas affilié à l'équipe officielle d'Incredibox, So Far So Good.
 
+<!-- i18n:faq:id=faq:incredibox-wolfgang:where-can-i-play-this-a4cf171c -->
 **Q : Où puis‑je jouer à ce mod ?**
 
 R : Tu ne le trouveras pas sur les plateformes officielles. Les mods comme *Wolfgang* sont généralement hébergés sur des sites de modding comme **playfiddlebops.com** ou présentés sur YouTube, souvent avec un lien fourni pour jouer au mod directement dans un navigateur web.
 
+<!-- i18n:faq:id=faq:incredibox-wolfgang:what-makes-the-wolfgang-mod-727ef448 -->
 **Q : Qu'est‑ce qui rend le mod « Wolfgang » si spécial ?**
 
 R : Sa popularité vient de son thème classique unique et parfaitement exécuté. Il offre une palette musicale complètement différente de toute version officielle, fournissant une expérience sophistiquée et belle. La qualité pure de la musique et de l'art en fait une création remarquable dans la communauté de fans.
 
+<!-- i18n:faq:id=faq:incredibox-wolfgang:are-the-bonus-solutions-for-0b58ab03 -->
 **Q : Les solutions des bonus pour « Wolfgang » sont‑elles disponibles en ligne ?**
 
 R : Oui. Si tu es bloqué ou veux simplement voir les animations, une recherche rapide de « *Incredibox Wolfgang combos* » sur YouTube te fournira les combinaisons exactes nécessaires.
+

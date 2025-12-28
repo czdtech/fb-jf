@@ -12,6 +12,7 @@ tags:
   - incredibox
   - incredibox online
 score: 4.9/5  (724 votes)
+releaseDate: 2025-12-04
 ---
 
 
@@ -19,6 +20,7 @@ score: 4.9/5  (724 votes)
 
 Tu rêves de composer un morceau avec une équipe de beatboxers stylés ? Incredibox te permet de le faire en quelques glisser‑déposer. C’est à la fois un jeu et un outil de création musicale, accessible à tous, des joueurs occasionnels aux passionnés de son.
 
+<!-- i18n:section:how-to-play -->
 ### Comment jouer à Incredibox ?
 
 Le gameplay de base est très simple :
@@ -57,4 +59,5 @@ Le cœur du gameplay reste le même, mais chaque version propose son propre thè
 
 ### En conclusion:
 Avec son gameplay intuitif, ses visuels marquants et ses possibilités créatives quasi infinies, Incredibox reste une référence pour découvrir la création musicale de façon ludique.
+
 

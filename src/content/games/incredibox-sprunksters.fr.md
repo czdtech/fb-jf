@@ -10,8 +10,10 @@ thumbnail: /new-images/thumbnails/incredibox-sprunksters.png
 tags:
   - incredibox sprunksters
 score: 4.3/5  (185 votes)
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 Hey music makers ! Envie de secouer un peu ta routine musicale ? Laisse‑moi te présenter Incredibox Sprunksters ! Ce n'est pas ton Incredibox habituel ; c'est un mod super créatif conçu par le génial Bismeowth, mélangeant l'esprit décalé de Sprunki avec la création musicale d'une manière qui ouvre des possibilités infinies !
  
 ### Alors, c'est quoi Incredibox Sprunksters ?
@@ -44,3 +46,4 @@ Prêt pour une petite surprise ? Incredibox Sprunksters a un tour caché dans sa
 ### En résumé :
  
 Incredibox Sprunksters est une plateforme fantastique bourrée de créativité, de fun et de délicieuses surprises. Avec ses personnages charmants, ses sons frais et cette géniale fonctionnalité de « monde alternatif », il offre une expérience de jeu vraiment unique. N'hésite pas ! Plonge dans le monde d'Incredibox Sprunksters et commence à créer tes propres beats décalés maintenant ! 🎶✨ Amuse‑toi bien !
+

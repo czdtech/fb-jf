@@ -5,21 +5,23 @@ title: Jigsaw Puzzles Hexa
 description: >-
   Jigsaw Puzzles Hexa remplace les pièces classiques par des grappes d'hexagones
   : place‑les au bon endroit sans rotation pour compléter l'illustration.
-iframeSrc: 'https://jigsawpuzzleshexa.h5games.usercontent.goog/v/5gp9p7s2tt3l8/'
+iframeSrc: 'https://jigsawpuzzleshexa.h5games.usercontent.goog/v/5e9bm1tuf1me0/'
 thumbnail: /new-images/thumbnails/jigsaw-puzzles-hexa.jpg
 tags:
   - puzzle
   - casual
-score: 4.0/5  (placeholder votes)
+score: 4.5/5  (2600 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation détaillée
 
 Jigsaw Puzzles Hexa offre une approche rafraîchissante et moderne du puzzle classique. Au lieu de pièces traditionnelles aux formes uniques qui s'emboîtent, ce jeu utilise des grappes de blocs hexagonaux. Ton objectif est de faire glisser ces formes hexa depuis ton inventaire et de les placer correctement sur le plateau principal pour compléter une belle image en haute définition. Sans limite de temps, il offre une expérience relaxante mais mentalement stimulante qui met au défi ton raisonnement spatial.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu
 
 1.  **Analyse les formes :** Avant de commencer à placer des pièces, regarde les formes qui te sont données. Contrairement à un puzzle normal, tu travailles avec des grappes de blocs géométriques. Visualise mentalement comment elles pourraient s'assembler sur le plateau.
@@ -27,19 +29,25 @@ Jigsaw Puzzles Hexa offre une approche rafraîchissante et moderne du puzzle cla
 3.  **Travaille par section :** N'essaie pas de placer des pièces partout sur le plateau à la fois. Concentre‑toi sur compléter une zone, comme un coin ou un objet spécifique dans l'image. Compléter une section rend souvent beaucoup plus facile de voir où vont les pièces restantes.
 4.  **Essais et erreurs :** Puisque les pièces n'ont pas de fragments d'image uniques comme un puzzle normal, tu devras souvent procéder par essais et erreurs. Si une pièce ne rentre pas, fais‑la simplement glisser vers ton inventaire et essaie‑en une autre.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 Le jeu se joue avec une simple mécanique de glisser‑déposer.
 
 *   **Sélectionner et placer :** Utilise ta souris ou ton doigt pour cliquer et faire glisser une grappe de pièces hexagonales depuis ta zone d'inventaire et la déposer sur le plateau de puzzle principal.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:jigsaw-puzzles-hexa:q-can-i-rotate-the-93ca2109 -->
 *   **Q : Puis‑je faire pivoter les pièces ?**
     *   **R :** Non. Dans ce style de puzzle, les pièces ont une orientation fixe. Le défi vient de comprendre comment elles s'assemblent telles qu'elles sont.
 
+<!-- i18n:faq:id=faq:jigsaw-puzzles-hexa:q-im-stuck-and-a-3753159d -->
 *   **Q : Je suis bloqué et une pièce ne rentre nulle part ! Que dois‑je faire ?**
     *   **R :** Cela signifie généralement qu'une des pièces que tu as déjà placées est au mauvais endroit. Tu devras peut‑être retirer une ou plusieurs pièces du plateau et repenser ton arrangement. Si le jeu offre un système d'indices, ce serait le bon moment pour l'utiliser.
 
+<!-- i18n:faq:id=faq:jigsaw-puzzles-hexa:q-is-there-a-time-c0411996 -->
 *   **Q : Y a‑t‑il une limite de temps ?**
     *   **R :** Non, le jeu est conçu pour être une expérience relaxante et sans stress. Tu peux prendre tout le temps dont tu as besoin pour résoudre chaque puzzle.
+

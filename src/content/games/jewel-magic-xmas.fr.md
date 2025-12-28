@@ -5,21 +5,23 @@ title: Jewel Magic Xmas
 description: >-
   Jewel Magic Xmas est un match‑3 de Noël : gemmes enneigées, cadeaux et
   décorations à aligner pour compléter des niveaux festifs.
-iframeSrc: 'https://jewelmagicxmas.h5games.usercontent.goog/v/0ml2b01ue9nb0/'
+iframeSrc: 'https://jewelmagicxmas.h5games.usercontent.goog/v/19095ne8tscfg/'
 thumbnail: /new-images/thumbnails/jewel-magic-xmas.png
 tags:
   - puzzle
   - casual
-score: 4.4/5  (placeholder votes)
-releaseDate: 2025-10-18T00:00:00.000Z
+score: 4.4/5  (2200 votes)
+releaseDate: 2025-10-17
 ---
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation détaillée
 
 Jewel Magic Xmas est un jeu de puzzle match‑3 festif et joyeux qui enveloppe l'expérience classique d'alignement de joyaux dans un thème de Noël ravissant. Les joueurs se retrouveront dans un pays des merveilles hivernal, échangeant des ornements colorés, des cannes à sucre et des clochettes. L'objectif est d'aligner trois objets festifs identiques ou plus pour compléter les objectifs de niveau, créer des combos puissants et répandre la joie des fêtes.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu
 
 1.  **Bonus festifs :** La clé pour nettoyer le plateau est de créer des objets spéciaux en alignant plus de trois ornements.
@@ -31,19 +33,25 @@ Jewel Magic Xmas est un jeu de puzzle match‑3 festif et joyeux qui enveloppe l
 3.  **Concentre‑toi sur l'objectif du niveau :** Chaque niveau a un objectif unique, comme nettoyer tous les blocs enneigés ou faire descendre des cadeaux vers le bas du plateau. Concentre tes coups sur l'atteinte de ces objectifs avant d'épuiser tes tours.
 4.  **Travaille par le bas :** Faire des alignements près du bas du plateau peut créer des cascades, où de nouveaux objets tombent et créent des alignements automatiques, t'aidant à nettoyer le niveau plus efficacement.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 Le jeu se joue avec de simples contrôles souris ou tactiles.
 
 *   **Échanger des ornements :** Clique et fais glisser un ornement pour l'échanger avec un adjacent. L'échange ne fonctionnera que s'il crée un alignement valide.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:jewel-magic-xmas:q-how-do-i-break-fe27293f -->
 *   **Q : Comment casser les blocs de glace gelés ?**
     *   **R :** Tu dois faire un alignement adjacent à un bloc de glace pour le casser. Certains peuvent nécessiter plusieurs alignements.
 
+<!-- i18n:faq:id=faq:jewel-magic-xmas:q-what-is-the-best-fadcb28d -->
 *   **Q : Quel est le meilleur combo ?**
     *   **R :** Échanger deux objets spéciaux « Aligne 5 en ligne » ensemble est le coup le plus puissant, car il nettoiera tous les objets du plateau.
 
+<!-- i18n:faq:id=faq:jewel-magic-xmas:q-what-happens-if-i-63c9772b -->
 *   **Q : Que se passe‑t‑il si je n'ai plus de coups ?**
     *   **R :** Si tu ne complètes pas l'objectif du niveau dans la limite de coups, tu devras recommencer le niveau.
+
