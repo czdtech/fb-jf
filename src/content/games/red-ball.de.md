@@ -18,6 +18,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 "Red Ball" ist der erste Teil der Serie und ein simples, aber forderndes
@@ -48,6 +49,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 *   **Physik nutzen:** Über Hänge, Rampen und Gravitation holst du mehr
     Geschwindigkeit und Höhe heraus.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
 1.  **F: Worin unterscheidet sich „Red Ball" von den Nachfolgern?**
@@ -62,3 +64,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 4.  **F: Gibt es ein Zeitlimit?**
     **A:** Meist gibt es keinen harten Timer, aber schnelle Abschlüsse werden in
     der Wertung belohnt.
+

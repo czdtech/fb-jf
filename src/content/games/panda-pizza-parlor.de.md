@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Willkommen im Panda Pizza Parlor, einem liebevoll gestalteten, schnellen
@@ -27,6 +28,7 @@ Willkommen im Panda Pizza Parlor, einem liebevoll gestalteten, schnellen
  verdient ordentlich Geld und lässt den kleinen Laden Schritt für Schritt zu
  einer weltberühmten Pizzeria wachsen.
 
+<!-- i18n:section:tips -->
 ### Strategien & Spieltipps
 
 1.  **Bestellung prüfen:** Sobald ein Gast erscheint, schau in die Sprechblase
@@ -43,6 +45,7 @@ Willkommen im Panda Pizza Parlor, einem liebevoll gestalteten, schnellen
     Gäste gleichzeitig bedienen. Entwickle einen Ablauf, mit dem du mehrere
     Pizzen parallel vorbereiten kannst.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 *   **Point & Click:** Du spielst ausschließlich mit der Maus.
@@ -53,18 +56,23 @@ Willkommen im Panda Pizza Parlor, einem liebevoll gestalteten, schnellen
 *   **Servieren:** Klicke auf die fertige Pizza und dann auf den jeweiligen
     Kunden, um ihm das Gericht zu bringen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:panda-pizza-parlor:q-what-happens-if-i-6fc3c2cb -->
 *   **F: Was passiert, wenn ich eine Bestellung falsch mache?**
     *   **A:** Benutzt du den falschen Belag oder verbrennst die Pizza, wird der
         Gast verärgert und verlässt den Laden. Du bekommst dann kein Geld für
         diese Bestellung.
 
+<!-- i18n:faq:id=faq:panda-pizza-parlor:q-how-can-i-serve-678be2c0 -->
 *   **F: Wie kann ich Gäste schneller bedienen?**
     *   **A:** Versuche, häufig bestellte Basis-Pizzen in ruhigeren Phasen
         vorzubereiten. Mit etwas Übung kannst du mehrere Pizzen parallel im
         Blick behalten.
 
+<!-- i18n:faq:id=faq:panda-pizza-parlor:q-are-there-upgrades-in-cdf9735d -->
 *   **F: Gibt es Upgrades im Spiel?**
     *   **A:** Mit fortschreitenden Leveln schaltest du neue Beläge und
         Menüvarianten frei, was das Spiel komplexer und anspruchsvoller macht.
+

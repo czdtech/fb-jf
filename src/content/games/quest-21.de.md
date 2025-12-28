@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Quest 21 ist ein kartenbasiertes Abenteuer auf Basis der klassischen
@@ -25,6 +26,7 @@ Quest 21 ist ein kartenbasiertes Abenteuer auf Basis der klassischen
  gewinnen, deren Gesamtwert näher an 21 liegt als der deines Gegners – ohne
  die 21 zu überschreiten.
 
+<!-- i18n:section:tips -->
 ### Strategien & Spieltipps
 
 1.  **Ziel verstehen:** Du willst so nah wie möglich an 21 heran, aber nicht
@@ -40,9 +42,10 @@ Quest 21 ist ein kartenbasiertes Abenteuer auf Basis der klassischen
 4.  **Einfache Grundstrategie:** Als Faustregel gilt: Mit 11 oder weniger kannst
     du gefahrlos ziehen. Ab 17 oder höher ist es oft besser zu halten, da das
     Bust-Risiko sehr groß ist.
-5.  **Blackjack:** Ziehst du zu Beginn As + 10er-Karte, hast du einen
+5.  **Blackjack:** Ziehst du zu Beginn As + eine Karte im Wert von 10, hast du einen
     „Blackjack“ und gewinnst die Hand in der Regel direkt.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Das Spiel wird über Buttons bedient.
@@ -51,17 +54,21 @@ Das Spiel wird über Buttons bedient.
 *   **Stand:** Klicke auf „Stand“, um bei deiner aktuellen Hand zu bleiben und
     den Gegner spielen zu lassen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:quest-21:q-what-does-it-mean-e5ac60fa -->
 *   **F: Was bedeutet „Bust“?**
     *   **A:** Wenn du eine Karte nimmst und dein Handwert über 21 steigt, bist
         du „Bust“ und verlierst die Runde sofort.
 
+<!-- i18n:faq:id=faq:quest-21:q-when-should-i-stand-c14c2328 -->
 *   **F: Wann sollte ich stehen bleiben?**
     *   **A:** Eine sichere Faustregel ist, bei 17 oder mehr zu halten (eine
         „harte 17“). Bei Händen mit einem Ass, das als 11 zählt (eine „weiche
         17“), ist es oft noch vertretbar zu ziehen.
 
+<!-- i18n:faq:id=faq:quest-21:q-what-happens-if-there-89d681b5 -->
 *   **F: Was passiert bei einem Unentschieden?**
     *   **A:** Ein Gleichstand heißt „Push“. In vielen Casual‑Versionen gewinnt
         oder verliert niemand – du gehst einfach in die nächste Runde.

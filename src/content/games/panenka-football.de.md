@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Panenka Football konzentriert sich voll auf den Elfmeter und den berühmten
@@ -25,6 +26,7 @@ Panenka Football konzentriert sich voll auf den Elfmeter und den berühmten
  einschätzt, deine Schüsse gut tarnst und im richtigen Moment die Richtung
  änderst.
 
+<!-- i18n:section:tips -->
 ### Strategien & Spieltipps
 
 1.  **Torwart lesen:** Beobachte, ob der Keeper früh in eine Ecke springt oder
@@ -41,24 +43,30 @@ Panenka Football konzentriert sich voll auf den Elfmeter und den berühmten
 5.  **Wind berücksichtigen (falls vorhanden):** Wenn das Spiel Wind simuliert,
     korrigiere deine Schussrichtung leicht und halte Lupfer eher flach.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Ziele mit Maus oder Tasten, stelle Schusskraft und -höhe ein; je nach
   Version kannst du dem Ball durch Ziehen oder Halten auch Effet verleihen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:panenka-football:my-panenkas-get-saved-51f6e2b6 -->
 - **F: Meine Panenkas werden ständig gehalten – was tun?**
   
   Setze sie sparsam ein und nur dann, wenn der Keeper früh in eine Ecke
   springt. Wartet er lange ab, schieß lieber klassisch in eine Ecke.
 
+<!-- i18n:faq:id=faq:panenka-football:best-safe-shot-8caf83a6 -->
 - **F: Was ist der sicherste Schuss?**
   
   Kräftige, flache Schüsse in die Ecke sind schwer zu halten und verlangen
   perfekte Reaktion vom Torwart.
 
+<!-- i18n:faq:id=faq:panenka-football:how-do-i-hide-intent-1f122414 -->
 - **F: Wie verberge ich meine Schussabsicht am besten?**
   
   Ändere die Zielrichtung erst spät und variiere Tempo und Winkel deines
   Anlaufs, damit der Keeper weniger aus deinem Lauf ablesen kann.
+

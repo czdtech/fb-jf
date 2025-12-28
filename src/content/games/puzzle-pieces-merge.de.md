@@ -16,10 +16,12 @@ score: 4.3/5  (1800 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Detaillierte Spieleinführung
 
 Puzzle Pieces Merge bietet eine ruhige und innovative Variante des klassischen Puzzles. Anstatt eines statischen Bretts lädt dieses Spiel dich ein, Puzzleteile zu ziehen, zu legen und zu verschmelzen, um wunderschöne, fesselnde Landschaften zu enthüllen. Die Kernmechanik besteht darin, Teile korrekt nebeneinander zu platzieren, woraufhin sie zu einem größeren Segment des Endbildes verschmelzen. Mit der Möglichkeit, Teile zu drehen und strategische Power-ups zu nutzen, ist es eine entspannende und dennoch fesselnde Erfahrung für Puzzle-Liebhaber.
 
+<!-- i18n:section:tips -->
 ### Spielstrategie & Walkthrough
 
 1.  **Mit den Rändern beginnen:** Wie bei einem echten Puzzle ist es eine gute Strategie, zuerst die Rand- und Eckstücke zu identifizieren und zu platzieren. Das hilft dir, einen Rahmen für den Rest des Bildes zu bauen.
@@ -27,18 +29,24 @@ Puzzle Pieces Merge bietet eine ruhige und innovative Variante des klassischen P
 3.  **Drehen für die perfekte Passform:** Vergiss nicht, dass du die Teile drehen kannst. Wenn ein Teil so aussieht, als sollte es passen, aber nicht passt, versuche es zu drehen, bis es perfekt mit seinen Nachbarn übereinstimmt.
 4.  **Booster nutzen, wenn du feststeckst:** Wenn du wirklich feststeckst, nutze einen der verfügbaren Booster. Diese Power-ups können helfen, indem sie einen Abschnitt räumen, dir zeigen, wo ein Teil hingehört, oder andere Unterstützung bieten, um dich an einer kniffligen Stelle vorbeizubringen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 *   **Teil bewegen:** Klicke und ziehe ein Puzzleteil aus deinem Inventar auf das Haupt-Puzzlebrett.
 *   **Teil drehen:** Einige Versionen erfordern möglicherweise einen Klick auf einen Knopf, um das Teil zu drehen, während andere die rechte Maustaste oder eine Tastaturtaste verwenden.
 
+<!-- i18n:section:faq -->
 ### Häufig gestellte Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:puzzle-pieces-merge:q-how-do-the-pieces-82b1ddc1 -->
 *   **F: Wie verschmelzen die Teile?**
     *   **A:** Platziere einfach ein Teil an seiner korrekten Position neben einem anderen Teil, mit dem es verbunden ist. Wenn die Platzierung korrekt ist, werden sie automatisch zusammenschnappen und verschmelzen.
 
+<!-- i18n:faq:id=faq:puzzle-pieces-merge:q-i-cant-find-where-a5983254 -->
 *   **F: Ich kann nicht finden, wo ein Teil hingehört. Was soll ich tun?**
     *   **A:** Versuche zuerst, es zu drehen. Wenn du immer noch feststeckst, lege es beiseite und konzentriere dich auf einen anderen Abschnitt des Puzzles. Oft wird das Ausfüllen der umgebenden Bereiche genau zeigen, wo das schwierige Teil hingehört. Wenn alles andere fehlschlägt, nutze einen Hinweis, falls einer verfügbar ist.
 
+<!-- i18n:faq:id=faq:puzzle-pieces-merge:q-what-is-the-goal-ab58581b -->
 *   **F: Was ist das Ziel des Spiels?**
     *   **A:** Das Ziel ist, alle bereitgestellten Puzzleteile zu verwenden, um das gesamte Bild erfolgreich zu vervollständigen.
+

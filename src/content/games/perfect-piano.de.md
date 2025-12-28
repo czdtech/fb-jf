@@ -16,6 +16,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Perfect Piano ist ein schnelles, mitreißendes Rhythmusspiel im Stil von
@@ -25,6 +26,7 @@ Perfect Piano ist ein schnelles, mitreißendes Rhythmusspiel im Stil von
  und dein Taktgefühl, während du dich durch eine Auswahl an schönen und immer
  schwierigeren Songs spielst.
 
+<!-- i18n:section:tips -->
 ### Strategien & Spieltipps
 
 1.  **Auf die Ziellinie schauen:** Konzentriere dich nicht auf die fallenden
@@ -39,6 +41,7 @@ Perfect Piano ist ein schnelles, mitreißendes Rhythmusspiel im Stil von
 4.  **Lange Noten halten:** Bei längeren Kacheln musst du sie gedrückt halten,
     bis sie zu Ende sind. Lässt du zu früh los, zählt das als Fehler.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Gespielt wird nur mit Taps oder Klicks.
@@ -46,18 +49,23 @@ Gespielt wird nur mit Taps oder Klicks.
 *   **Noten tippen:** Klicke oder tippe auf die Spalten, sobald die fallenden
     Kacheln die Ziellinie erreichen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:perfect-piano:q-what-happens-if-i-81ab4a89 -->
 *   **F: Was passiert, wenn ich eine Kachel verfehle oder falsch tippe?**
     *   **A:** In den meisten Modi endet der Song sofort und du musst von vorn
         beginnen.
 
+<!-- i18n:faq:id=faq:perfect-piano:q-how-do-i-get-73fd7840 -->
 *   **F: Wie bekomme ich eine hohe Punktzahl?**
     *   **A:** Triff jede Note perfekt. Das Spiel zählt deine Combo, und der
         Multiplikator steigt, je mehr Noten du ohne Fehler hintereinander triffst.
         Ein fehlerfreier Durchlauf bringt die höchste Punktzahl.
 
+<!-- i18n:faq:id=faq:perfect-piano:q-can-i-play-different-3e2a64ff -->
 *   **F: Kann ich verschiedene Lieder spielen?**
     *   **A:** Ja, meist gibt es eine Song-Bibliothek nach Schwierigkeitsstufen.
         Oft schaltest du schwerere Songs frei, indem du zuerst die leichteren
         erfolgreich abschließt.
+

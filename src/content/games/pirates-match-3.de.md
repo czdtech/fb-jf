@@ -18,6 +18,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Pirates Match 3 ist ein klassisches 3-Gewinnt-Puzzlespiel mit Piratenflair.
@@ -27,6 +28,7 @@ Pirates Match 3 ist ein klassisches 3-Gewinnt-Puzzlespiel mit Piratenflair.
  Level-Aufgaben zu erfüllen – etwa eine bestimmte Punktzahl zu erreichen oder
  spezielle Felder zu zerstören – und das alles mit begrenzter Anzahl an Zügen.
 
+<!-- i18n:section:tips -->
 ### Strategien & Spieltipps
 
 1.  **Power-ups erschaffen:** Schwierige Level meisterst du mit Spezialsteinen,
@@ -49,6 +51,7 @@ Pirates Match 3 ist ein klassisches 3-Gewinnt-Puzzlespiel mit Piratenflair.
     Matches, die Kettenreaktionen auslösen oder neue Power-up-Kombinationen
     vorbereiten.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Das Spiel wird mit Maus oder Touch gesteuert.
@@ -57,17 +60,22 @@ Das Spiel wird mit Maus oder Touch gesteuert.
     benachbartes. Der Tausch findet nur statt, wenn dabei mindestens ein
     gültiges 3er-Match entsteht.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:pirates-match-3:q-how-do-i-break-0dfb6279 -->
 *   **F: Wie zerstöre ich Holzbretter oder Ketten?**
     *   **A:** Du musst direkt auf dem Brett matchen bzw. den verketteten Stein
         in ein Match einbeziehen. Manche Hindernisse brauchen mehrere Treffer.
 
+<!-- i18n:faq:id=faq:pirates-match-3:q-what-is-the-best-a36d5cd7 -->
 *   **F: Welche Power-up-Kombi ist am stärksten?**
     *   **A:** Zwei „Match‑5 in einer Linie“-Power-ups zusammen sind meist am
         stärksten, weil sie das gesamte Board räumen. Sehr effektiv ist auch
         eine Bombe kombiniert mit einem Reihen-/Spalten‑Clear.
 
+<!-- i18n:faq:id=faq:pirates-match-3:q-what-happens-if-i-63c9772b -->
 *   **F: Was passiert, wenn mir die Züge ausgehen?**
     *   **A:** Wenn du das Levelziel nicht erreicht hast, bevor dir die Züge
         ausgehen, musst du das Level neu starten.
+

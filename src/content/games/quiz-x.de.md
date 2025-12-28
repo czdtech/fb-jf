@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Quiz x stellt dir im Schnellfeuer-Modus Fragen aus Allgemeinwissen,
@@ -23,6 +24,7 @@ Quiz x stellt dir im Schnellfeuer-Modus Fragen aus Allgemeinwissen,
  Antworten, Serien von richtigen Antworten („Streaks“) bringen Bonusmultiplikator.
  Querzudenken und Ausschlussverfahren sind wichtiger als tiefes Spezialwissen.
 
+<!-- i18n:section:tips -->
 ### Strategien & Spieltipps
 
 1.  **Ausschlussprinzip:** Streiche zuerst offensichtlich falsche Antworten,
@@ -37,24 +39,30 @@ Quiz x stellt dir im Schnellfeuer-Modus Fragen aus Allgemeinwissen,
 5.  **Bildfragen:** Achte auf auffällige Merkmale – Farben von Flaggen,
     Silhouetten von Bauwerken, typische Tiermerkmale.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Klicke oder tippe auf die gewünschte Antwort. In manchen Versionen kannst du
   auch mit Tastenkürzeln antworten oder zwischen Runden pausieren.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:quiz-x:i-freeze-on-tough-questions-28c454ad -->
 - **F: Ich blockiere bei schweren Fragen – was tun?**
   
   Nutze Ausschluss, wähle die plausibelste Option und konzentriere dich auf die
   nächste Frage, statt dich zu lange an einer zu verzetteln.
 
+<!-- i18n:faq:id=faq:quiz-x:picture-questions-stump-me-a21adfaf -->
 - **F: Bildfragen machen mir Probleme.**
   
   Lerne nach und nach häufige Flaggen, Wahrzeichen und Symbole – je öfter du
   spielst, desto vertrauter werden sie.
 
+<!-- i18n:faq:id=faq:quiz-x:multiplayer-fc9199ff -->
 - **F: Gibt es Mehrspielermodi?**
   
   Einige Varianten bieten Duelle oder Lobbys gegen andere Spieler. Lies die
   Hinweise im jeweiligen Modus, um die Regeln zu kennen.
+

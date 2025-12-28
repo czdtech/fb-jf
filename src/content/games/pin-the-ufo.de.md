@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 *Pin the UFO* ist ein charmantes, strategisches „Pull-the-Pin“-Puzzlespiel im
@@ -41,6 +42,7 @@ Die Herausforderung besteht darin, eine Pin-Reihenfolge zu finden, in der alle
  grauen Aliens eingefärbt werden, Bomben unschädlich bleiben und am Ende alle
  Kugeln sicher im UFO landen.
 
+<!-- i18n:section:tips -->
 ### Strategien & Spieltipps
 
 1.  **Erst denken, dann ziehen:** Ziehe Pins nie zufällig. Verschaffe dir zuerst
@@ -59,6 +61,7 @@ Die Herausforderung besteht darin, eine Pin-Reihenfolge zu finden, in der alle
     (z. B. Bomben von Aliens oder farbige von grauen Kugeln). Erkenne ihre
     Funktion, bevor du sie entfernst.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Die Steuerung ist simpel und für One-Touch-Eingaben ausgelegt.
@@ -66,21 +69,28 @@ Die Steuerung ist simpel und für One-Touch-Eingaben ausgelegt.
 *   **Pin ziehen:** Klicke oder tippe auf einen Pin und ziehe ihn aus seiner
     Halterung. In vielen Versionen reicht auch ein einzelner Tap.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
-1.  **F: Warum habe ich verloren, obwohl alle Aliens im UFO sind?**
-    **A:** Vermutlich sind einige Aliens grau geblieben. Nur eingefärbte
-    Kugeln zählen als gerettet. Stelle sicher, dass alle grauen Aliens vorher
-    Kontakt mit farbigen hatten.
-2.  **F: Nach einem Pin-Zug explodiert alles – was mache ich falsch?**
-    **A:** Wahrscheinlich hast du Aliens direkt auf eine Bombe fallen lassen.
-    Finde zuerst eine Möglichkeit, Bomben loszuwerden oder sie in einen
-    separaten Bereich zu lenken.
-3.  **F: Ein Level wirkt unmöglich – Tipps?**
-    **A:** Es gibt immer eine konkrete Lösung. Überlege dir eine andere
-    Reihenfolge für die Pins, selbst wenn sie zunächst „unnütz“ erscheint.
-    Oft musst du erst einen Zwischenschritt schaffen, bevor du den Weg zum UFO
-    freigibst.
-4.  **F: Was ist das eigentliche Ziel?**
-    **A:** Du musst alle eingefärbten Aliens sicher im UFO sammeln und damit
-    jedes Level lösen, um in der Kampagne weiterzukommen.
+<!-- i18n:faq:id=faq:pin-the-ufo:why-did-i-lose-the-16a3165c -->
+**1. Warum habe ich verloren, obwohl alle Aliens im UFO sind?**  
+Vermutlich sind einige Aliens grau geblieben. Nur eingefärbte Kugeln zählen als
+gerettet. Stelle sicher, dass alle grauen Aliens vorher Kontakt mit farbigen
+hatten.
+
+<!-- i18n:faq:id=faq:pin-the-ufo:i-pulled-a-pin-and-3d8783b1 -->
+**2. Nach einem Pin-Zug explodiert alles – was mache ich falsch?**  
+Wahrscheinlich hast du Aliens direkt auf eine Bombe fallen lassen. Finde zuerst
+eine Möglichkeit, Bomben loszuwerden oder sie in einen separaten Bereich zu
+lenken.
+
+<!-- i18n:faq:id=faq:pin-the-ufo:the-level-seems-impossible-wha-2caf72de -->
+**3. Ein Level wirkt unmöglich – Tipps?**  
+Es gibt immer eine konkrete Lösung. Überlege dir eine andere Reihenfolge für
+die Pins, selbst wenn sie zunächst „unnütz“ erscheint. Oft musst du erst einen
+Zwischenschritt schaffen, bevor du den Weg zum UFO freigibst.
+
+<!-- i18n:faq:id=faq:pin-the-ufo:what-is-the-goal-of-c816fee5 -->
+**4. Was ist das eigentliche Ziel?**  
+Du musst alle eingefärbten Aliens sicher im UFO sammeln und damit jedes Level
+lösen, um in der Kampagne weiterzukommen.

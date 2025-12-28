@@ -18,6 +18,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 "Raft Wars" ist ein rundenbasiertes Physik-Shooter. Zwei Brüder finden
@@ -53,6 +54,7 @@ von ihren Plattformen ins Wasser zu befördern.
 *   **Floß bewegen (falls verfügbar):** In manchen Leveln kannst du deine
     Floßposition verschieben, um bessere Schusswinkel zu bekommen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
 1.  **F: Wie werde ich besser im Zielen?**
@@ -70,3 +72,4 @@ von ihren Plattformen ins Wasser zu befördern.
     **A:** Werden deine Charaktere getroffen und ins Wasser geschleudert,
     verlierst du Lebenspunkte oder musst das Level wiederholen, wenn alle von
     Bord gehen.
+

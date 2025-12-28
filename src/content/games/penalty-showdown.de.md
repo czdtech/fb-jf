@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 In Penalty Showdown wechselst du zwischen Schützen- und Torwart-Rollen. Als
@@ -24,6 +25,7 @@ In Penalty Showdown wechselst du zwischen Schützen- und Torwart-Rollen. Als
  von roher Schusskraft ab, sondern von Rhythmuswechseln, cleveren Schussprofilen
  und der richtigen Portion Nervenstärke.
 
+<!-- i18n:section:tips -->
 ### Strategien & Spieltipps
 
 1.  **Schussprofile mischen:** Wechsle zwischen flachen Ecken, hohen Ecken und
@@ -38,25 +40,31 @@ In Penalty Showdown wechselst du zwischen Schützen- und Torwart-Rollen. Als
 5.  **Psychospielchen:** Baue kurze Pausen vor dem Schuss ein, um früh
     springende Keeper zu ködern.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Schütze:** Wähle Ziel, Schusskraft und ggf. Effet.
 - **Torwart:** Wähle Ecke und Timing; manche Versionen erlauben dir, den Sprung
   direkt zu steuern.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:penalty-showdown:shots-keep-getting-saved-9775b18f -->
 - **F: Meine Schüsse werden ständig gehalten – Tipps?**
   
   Variiere Höhe und Platzierung und ändere dein Ziel erst spät. Vermeide
   vorhersehbare Schüsse mittig aufs Tor.
 
+<!-- i18n:faq:id=faq:penalty-showdown:keeper-guesses-me-every-time-b1cc2316 -->
 - **F: Der Keeper liest mich immer richtig.**
   
   Ändere Anlaufwinkel und Tempo und baue eine kurze Verzögerung vor dem Schuss
   ein, um seine Reaktion zu stören.
 
+<!-- i18n:faq:id=faq:penalty-showdown:best-keeper-tip-a0ef2f0f -->
 - **F: Bester Tipp als Torwart?**
   
   Achte auf die letzten zwei Schritte des Schützen – Hüftstellung und
   Körperdrehung verraten oft die Schussrichtung.
+

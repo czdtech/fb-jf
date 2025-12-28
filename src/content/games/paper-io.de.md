@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 "Paper.io" ist ein schnelles Mehrspieler-Eroberungsspiel. Du steuerst einen
@@ -47,6 +48,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
     oder WASD. Dein Block zieht automatisch eine Linie, sobald du dein Gebiet
     verlässt.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
 1.  **F: Was ist das Ziel von "Paper.io"?**
@@ -63,3 +65,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
     **A:** Bleib nicht zu lange außerhalb deines sicheren Gebiets, halte deine
     Linien kurz und behalte nahe Gegner im Auge. Wenn Gefahr droht, kehre
     schnell in dein Territorium zurück.
+

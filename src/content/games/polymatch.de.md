@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 PolyMatch ist ein entspanntes, aber anspruchsvolles Kachel-Puzzlespiel, das
@@ -27,6 +28,7 @@ PolyMatch ist ein entspanntes, aber anspruchsvolles Kachel-Puzzlespiel, das
  Kacheln aufnehmen kann. Füllt er sich, bevor du passende Paare bildest, ist
  die Runde verloren.
 
+<!-- i18n:section:tips -->
 ### Strategien & Spieltipps
 
 1.  **Sichtbare Paare zuerst:** Bilde zuerst offensichtliche Paare, die leicht
@@ -45,21 +47,27 @@ PolyMatch ist ein entspanntes, aber anspruchsvolles Kachel-Puzzlespiel, das
     die Zeit, das Brett zu analysieren – ein unüberlegter Klick kann das Feld
     schnell verstopfen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 *   **Kachel auswählen:** Klicke oder tippe auf eine Kachel auf dem Brett, um
     sie in den Ablagebereich unten zu verschieben. Sobald sich dort drei
     identische Kacheln befinden (je nach Variante), werden sie entfernt.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:polymatch:q-how-do-i-win-c06399aa -->
 *   **F: Wie gewinne ich ein Level?**
     *   **A:** Du gewinnst, indem du alle Kacheln vom Hauptfeld entfernst.
 
+<!-- i18n:faq:id=faq:polymatch:q-what-happens-if-the-4bf40a80 -->
 *   **F: Was passiert, wenn der Ablagebereich voll ist?**
     *   **A:** Wenn der Ablagebereich unten voll ist (typischerweise 6 Kacheln)
         und du keine Matches mehr bilden kannst, ist das Spiel vorbei.
 
+<!-- i18n:faq:id=faq:polymatch:q-are-there-powerups-or-2f471e8f -->
 *   **F: Gibt es Power-ups oder Hinweise?**
     *   **A:** Manche Versionen bieten Hilfen wie Shuffle oder Hinweise, die dir
         ein mögliches Match anzeigen, wenn du feststeckst.
+

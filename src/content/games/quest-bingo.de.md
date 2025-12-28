@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Quest Bingo bringt das klassische Bingo in ein Level- und Quest-System.
@@ -26,6 +27,7 @@ Quest Bingo bringt das klassische Bingo in ein Level- und Quest-System.
  missionsartige Aufgaben. Zusätzlich sammelst du Puzzleteile, schaltest Bilder
  frei und nutzt Booster, um knifflige Situationen zu meistern.
 
+<!-- i18n:section:tips -->
 ### Strategien & Spieltipps
 
 1.  **Bingo-Grundprinzip:** Eine Zahl wird aufgerufen – steht sie auf deiner
@@ -41,6 +43,7 @@ Quest Bingo bringt das klassische Bingo in ein Level- und Quest-System.
     Bonus-Symbole. Markiere sie möglichst, um Sammlungen zu vervollständigen und
     Extra-Belohnungen zu erhalten.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Gespielt wird mit einfachen Klicks oder Taps.
@@ -52,16 +55,21 @@ Gespielt wird mit einfachen Klicks oder Taps.
 *   **Booster aktivieren:** Klicke auf die aufgeladenen Booster-Icons, um ihre
     Effekte zu nutzen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:quest-bingo:q-what-does-it-mean-664542c2 -->
 *   **F: Was bedeutet „dauben“?**
     *   **A:** „Daubing“ ist der klassische Begriff im Bingo für das Markieren
         einer Zahl auf der Karte, nachdem sie ausgerufen wurde.
 
+<!-- i18n:faq:id=faq:quest-bingo:q-what-are-the-puzzle-4c9acfcf -->
 *   **F: Wofür sind die Puzzleteile?**
     *   **A:** Sammelst du alle Teile eines Sets, setzt sich daraus ein Bild
         zusammen und du erhältst meist zusätzliche Belohnungen.
 
+<!-- i18n:faq:id=faq:quest-bingo:q-how-do-i-get-05e56569 -->
 *   **F: Wie bekomme ich mehr Booster?**
     *   **A:** Booster lädst du durch das Markieren bestimmter Zahlen, den Abschluss
         von Leveln oder durch tägliche Belohnungen und Glücksrad‑/Bonus‑Events auf.
+

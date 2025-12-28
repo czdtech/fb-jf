@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Pics Word Game ist ein Worträtsel, bei dem dir mehrere Bilder gezeigt werden
@@ -23,6 +24,7 @@ und du ein einziges Wort finden musst, das sie alle miteinander verbindet. Es
 ist eine entspannte, aber knifflige Art, dein Vokabular und dein
 Kombinationsvermögen zu trainieren.
 
+<!-- i18n:section:tips -->
 ### Strategien & Spieltipps
 
 1.  **Bilder genau betrachten:** Schau dir jedes Bild aufmerksam an. Achte auf
@@ -34,17 +36,22 @@ Kombinationsvermögen zu trainieren.
 4.  **Hinweise einsetzen:** Wenn du feststeckst, nutze Hilfen wie das Aufdecken
     einzelner Buchstaben oder das Entfernen irrelevanter Buchstaben.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 *   **Maus/Touch:** Wähle Buchstaben mit Maus oder Touchscreen aus und füge sie
     in die Lösung ein; navigiere damit auch durch Menüs.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:pics-word-game:q-what-if-i-cant-ab9afc13 -->
 *   **F: Ich komme einfach nicht auf das Wort – was tun?**
     *   **A:** Nutze Hinweise oder mach eine kurze Pause und schau später noch
         einmal auf die Bilder. Ein frischer Blick hilft oft.
+<!-- i18n:faq:id=faq:pics-word-game:q-how-can-i-get-b6dd4933 -->
 *   **F: Wie bekomme ich mehr Münzen für Hinweise?**
     *   **A:** Münzen erhältst du normalerweise, wenn du Level erfolgreich
         abschließt. Manche Spiele bieten zusätzlich Münzen für das Ansehen von
         Werbung.
+

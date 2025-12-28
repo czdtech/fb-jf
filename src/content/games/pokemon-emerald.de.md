@@ -18,6 +18,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 "Pokemon Emerald" ist ein klassisches Pokémon-Rollenspiel, das in der
@@ -56,6 +57,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 *   **Select (Item registrieren):** Häufig genutzte Items kannst du registrieren
     und schneller einsetzen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
 1.  **F: Welche Legendären Pokémon kann ich in "Pokemon Emerald" fangen?**
@@ -72,3 +74,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
     **A:** Nach der Liga kannst du im Battle Frontier antreten – einem
     Endgame-Gebiet mit mehreren Kampf-Einrichtungen und speziellen Regeln, das
     für erfahrene Spieler eine große Herausforderung bietet.
+

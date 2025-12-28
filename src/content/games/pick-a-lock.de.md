@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Pick a Lock ist ein minimalistisches Rhythmus- und Timing-Spiel. Ein Zeiger
@@ -25,6 +26,7 @@ Pick a Lock ist ein minimalistisches Rhythmus- und Timing-Spiel. Ein Zeiger
  Markierungen, engere Zeitfenster und manchmal sogar Richtungswechsel ins Spiel
  – ruhige Nerven und ein gutes Gefühl für Takt sind hier Gold wert.
 
+<!-- i18n:section:tips -->
 ### Strategien & Spieltipps
 
 1.  **Rhythmus zählen:** Versuche, dich auf den Takt des Zeigers einzustellen
@@ -39,24 +41,30 @@ Pick a Lock ist ein minimalistisches Rhythmus- und Timing-Spiel. Ein Zeiger
 5.  **Lieber minimal zu spät als zu früh:** In vielen Versionen verzeiht das
     Spiel leicht verspätete Taps eher als zu frühe.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Tippe oder klicke genau dann, wenn der Zeiger die Markierungen überdeckt;
   manche Varianten unterstützen auch Tastatureingaben.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:pick-a-lock:im-always-early-fix-fb245eab -->
 - **F: Ich tippe ständig zu früh – was hilft?**
   
   Bau dir innerlich eine kleine Verzögerung ein, z. B. zähle „eins-und-tap“
   statt „eins-tap“.
 
+<!-- i18n:faq:id=faq:pick-a-lock:markers-stack-fast-7f2aa7b7 -->
 - **F: Die Markierungen kommen zu schnell hintereinander.**
   
   Konzentriere dich immer nur auf die nächste Markierung und versuche nicht,
   mehrere im Voraus im Kopf zu behalten.
 
+<!-- i18n:faq:id=faq:pick-a-lock:does-fps-matter-c4d00307 -->
 - **F: Spielt die Framerate eine Rolle?**
   
   Eine stabile Bildrate hilft beim Timing. Schließe andere Anwendungen, wenn
   das Spiel ruckelt oder sich ungenau anfühlt.
+

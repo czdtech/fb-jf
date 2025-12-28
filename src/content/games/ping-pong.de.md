@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 "Ping Pong" ist ein einfacher, aber zeitloser Arcade-Klassiker. Zwei Spieler –
@@ -43,6 +44,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 *   **Paddle bewegen:** Meist steuerst du dein Paddle mit den Pfeiltasten hoch
     und runter oder per Mausbewegung auf der vertikalen Achse.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
 1.  **F: Was ist das Ziel von "Ping Pong"?**
@@ -59,3 +61,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 4.  **F: Gibt es einen Zwei-Spieler-Modus?**
     **A:** Ja, klassische Ping-Pong-Spiele erlauben in der Regel lokalen
     Mehrspieler-Modus für zwei Personen am selben Gerät.
+

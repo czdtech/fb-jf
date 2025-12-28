@@ -18,6 +18,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Pets Rush ist ein rasantes Match-3-Spiel mit niedlichem Tier-Theme. Anders als
@@ -28,6 +29,7 @@ Pets Rush ist ein rasantes Match-3-Spiel mit niedlichem Tier-Theme. Anders als
  Reihen von drei oder mehr gleichen Symbolen, löst Kombos aus und hältst das
  Feld so lange wie möglich sauber, um eine hohe Punktzahl zu erzielen.
 
+<!-- i18n:section:tips -->
 ### Strategien & Spieltipps
 
 1.  **Hohe Spalten zuerst abräumen:** Dein Hauptziel ist, zu verhindern, dass
@@ -42,6 +44,7 @@ Pets Rush ist ein rasantes Match-3-Spiel mit niedlichem Tier-Theme. Anders als
 4.  **Spezialblöcke beobachten:** Achte auf besondere Steine oder Power-ups, die
     größere Bereiche auf einmal räumen können – ideal, wenn es knapp wird.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Gespielt wird mit einfachen Tauschbewegungen.
@@ -51,18 +54,23 @@ Gespielt wird mit einfachen Tauschbewegungen.
     angrenzendes ziehen. Der Tausch ist nur möglich, wenn dadurch ein gültiges
     Match entsteht.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:pets-rush:q-how-do-i-lose-117fb252 -->
 *   **F: Wann verliere ich?**
     *   **A:** Sobald eine Spalte von Tierblöcken den oberen Bildschirmrand
         berührt, ist das Spiel vorbei.
 
+<!-- i18n:faq:id=faq:pets-rush:q-what-is-the-best-4dc5a927 -->
 *   **F: Wie erreiche ich eine hohe Punktzahl?**
     *   **A:** Überlebe so lange wie möglich und setze auf Kettenreaktionen.
         Mehrere Matches in einem Zug erhöhen deinen Multiplikator und bringen
         deutlich mehr Punkte.
 
+<!-- i18n:faq:id=faq:pets-rush:q-is-there-a-way-d880d766 -->
 *   **F: Kann ich das Aufsteigen der Blöcke anhalten?**
     *   **A:** Nur indirekt – jedes erfolgreiche Match stoppt die Wand für einen
         kurzen Moment. Je schneller du Kombinationen findest, desto besser hältst
         du sie auf.
+

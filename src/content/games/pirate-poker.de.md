@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Pirate Poker ist klassisches Five-Card-Draw-Poker mit Piraten-Flair. Du sitzt
@@ -26,6 +27,7 @@ Pirate Poker ist klassisches Five-Card-Draw-Poker mit Piraten-Flair. Du sitzt
  wird, wer den Pott gewinnt. Strategie, Psychologie und ein Quäntchen Glück
  spielen dabei zusammen.
 
+<!-- i18n:section:tips -->
 ### Strategien & Spieltipps
 
 1.  **Blatt-Rangfolgen kennen:** Ziel ist das beste Fünf-Karten-Blatt. Von
@@ -43,6 +45,7 @@ Pirate Poker ist klassisches Five-Card-Draw-Poker mit Piraten-Flair. Du sitzt
     deuten auf ein starkes Blatt – oder einen Bluff. Häufiges Checken kann auf
     Unsicherheit oder Schwäche hindeuten.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Du bedienst alles über Buttons auf dem Bildschirm.
@@ -55,18 +58,23 @@ Du bedienst alles über Buttons auf dem Bildschirm.
 *   **Discard:** In der Tauschphase klickst du Karten an, die du abwerfen
     möchtest, und bestätigst mit „Draw“.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:pirate-poker:q-what-is-the-best-edb64428 -->
 *   **F: Was ist die beste Hand im Poker?**
     *   **A:** Ein Royal Flush (A, K, Q, J, 10 in derselben Farbe) ist die höchste
         mögliche Hand.
 
+<!-- i18n:faq:id=faq:pirate-poker:q-what-does-it-mean-6ead8536 -->
 *   **F: Was bedeutet „bluffen“?**
     *   **A:** Beim Bluff tust du so, als hättest du ein sehr starkes Blatt, indem
         du offensiv setzt. Ziel ist es, Gegner mit möglicherweise besseren Karten
         zum Aufgeben zu bringen.
 
+<!-- i18n:faq:id=faq:pirate-poker:q-when-should-i-fold-d4d47b5c -->
 *   **F: Wann sollte ich passen (Fold)?**
     *   **A:** Wenn dein Blatt sehr schwach ist (kein Paar, keine realistische
         Chance auf Straße/Flush) und Gegner hoch setzen, ist es oft besser, den
         kleinen Verlust zu akzeptieren, statt noch mehr Dublonen zu riskieren.
+

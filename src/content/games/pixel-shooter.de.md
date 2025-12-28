@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 "Pixel Shooter" ist ein Retro-Shooter mit klassischer Pixelgrafik. Du
@@ -51,6 +52,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 *   **Waffe wechseln:** Manche Versionen erlauben den Wechsel zwischen Waffen
     über Zahlentasten oder das Mausrad.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
 1.  **F: Was ist das Hauptziel von "Pixel Shooter"?**
@@ -66,3 +68,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 4.  **F: Wozu dienen Medipacks?**
     **A:** Medipacks stellen deine Lebenspunkte wieder her und sind in intensiven
     Gefechten oft der Unterschied zwischen Sieg und Niederlage.
+

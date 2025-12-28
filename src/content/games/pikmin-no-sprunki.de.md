@@ -11,9 +11,11 @@ thumbnail: /new-images/thumbnails/pikmin-no-sprunki.png
 tags:
   - pikmin no sprunki
 score: 4.0/5  (89 votes)
+releaseDate: 2025-12-04
 ---
 
 
+<!-- i18n:section:introduction -->
 Schon mal überlegt, was passiert, wenn die schräge Pikmin-Welt auf die
  musikalische Magie von Sprunki trifft? Genau das liefert dir **Pikmin No
  Sprunki**! Dieses Scratch-Projekt kombiniert die vertraute
@@ -56,3 +58,4 @@ Pikmin No Sprunki ist mehr als nur ein kleines Musikspiel – es ist eine
  vielen kostenlosen Browsergames heraus. Egal, ob du schon Sprunki-Profi bist
  oder einfach etwas Neues ausprobieren willst: Pikmin No Sprunki lohnt sich auf
  jeden Fall. Tauche ein und kreiere deinen ganz eigenen Pikmin-No-Sprunki-Track!
+

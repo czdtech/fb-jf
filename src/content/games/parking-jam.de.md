@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Parking Jam erinnert an das klassische Rush-Hour-Puzzle: Du schiebst Autos in
@@ -25,6 +26,7 @@ Parking Jam erinnert an das klassische Rush-Hour-Puzzle: Du schiebst Autos in
  ganz bestimmte Reihenfolge – nur wer effizient plant, kommt ohne festzustecken
  ans Ziel.
 
+<!-- i18n:section:tips -->
 ### Strategien & Spieltipps
 
 1.  **Vom Ziel her denken:** Überlege zuerst, welche Fahrzeuge die Ausfahrt
@@ -40,24 +42,30 @@ Parking Jam erinnert an das klassische Rush-Hour-Puzzle: Du schiebst Autos in
 5.  **Früh zurückspulen:** Wenn du merkst, dass du nur noch im Kreis schiebst,
     nutze Rückgängig oder Reset und probiere eine alternative Reihenfolge aus.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Ziehe Autos mit der Maus oder per Touch entlang ihrer Fahrtrichtung. Über
   Schaltflächen im UI kannst du Züge rückgängig machen oder das Level
   zurücksetzen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:parking-jam:i-spin-wheels-with-no-746ce5d3 -->
 - **F: Ich bewege Autos ständig hin und her, komme aber nicht weiter – Tipp?**
   
   Analysiere noch einmal genau, welches Fahrzeug die Ausfahrt wirklich blockiert
   und suche gezielt nach einem Zug, der mehrere Autos auf einmal "befreit".
 
+<!-- i18n:faq:id=faq:parking-jam:are-diagonal-moves-allowed-b138326e -->
 - **F: Sind diagonale Bewegungen erlaubt?**
   
   Nein, Autos können nur entlang ihrer Längsrichtung verschoben werden.
 
+<!-- i18n:faq:id=faq:parking-jam:any-hints-0ea898ea -->
 - **F: Gibt es Hinweise?**
   
   Viele Versionen bieten Schritt-für-Schritt-Hinweise. Nutze sie sparsam, wenn
   du gar nicht weiterkommst, damit der Rätselspaß erhalten bleibt.
+

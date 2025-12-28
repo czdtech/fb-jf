@@ -15,6 +15,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Puzzle Pieces ist ein aufgeräumtes Formpuzzle: Du ziehst verschieden geformte
@@ -22,6 +23,7 @@ Puzzle Pieces ist ein aufgeräumtes Formpuzzle: Du ziehst verschieden geformte
  ausfüllen. Mit jedem Level werden die Layouts komplexer, die verfügbaren
  Formen knapper und du musst genauer planen, wohin welches Teil passt.
 
+<!-- i18n:section:tips -->
 ### Strategien & Spieltipps
 
 1.  **Große/ungewöhnliche Teile zuerst:** Platziere zuerst besonders große oder
@@ -36,6 +38,7 @@ Puzzle Pieces ist ein aufgeräumtes Formpuzzle: Du ziehst verschieden geformte
 5.  **Rückgängig machen:** Nutze Undo oder Reset früh, wenn du merkst, dass ein
     Teil ungünstig liegt – erzwinge keinen schlechten Fit.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Teile ziehen:** Ziehe mit der Maus oder dem Finger eine Form auf das
@@ -45,19 +48,24 @@ Puzzle Pieces ist ein aufgeräumtes Formpuzzle: Du ziehst verschieden geformte
 - **Undo/Reset:** Über Buttons machst du Züge rückgängig oder setzt das Level
   neu – meist ohne Strafpunkte.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:puzzle-pieces:a-piece-never-fitsbug-03363afc -->
 - **F: Ein Teil scheint nirgends zu passen – Bug?**
   
   Meist liegt es an der Ausrichtung. Drehe das Teil weiter oder baue den Rand
   anders auf, damit die Form Platz findet.
 
+<!-- i18n:faq:id=faq:puzzle-pieces:timers-f7f052c1 -->
 - **F: Gibt es Zeitdruck?**
   
   Je nach Modus. Viele Varianten sind jedoch bewusst entspannt und kommen ganz
   ohne Timer aus.
 
+<!-- i18n:faq:id=faq:puzzle-pieces:hints-27c5017f -->
 - **F: Kann ich Hinweise nutzen?**
   
   In vielen Versionen gibt es Hinweise oder Auto-Platzierung einzelner Teile.
   Verwende sie sparsam, wenn du gar nicht weiterkommst.
+

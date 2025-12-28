@@ -18,6 +18,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 "Pokemon Fire Red" ist ein neu aufgelegtes Remake des ursprünglichen
@@ -56,6 +57,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 *   **Select (Item registrieren):** Registriert ein häufig genutztes Item für
     Schnellzugriff.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
 1.  **F: Welche Starter-Pokémon gibt es in "Pokemon Fire Red"?**
@@ -71,3 +73,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
     liegt in einigen exklusiven Pokémon-Arten und leicht variierenden Texten;
     zum Komplettieren des Pokédex sind Tausche zwischen den Versionen
     vorgesehen.
+

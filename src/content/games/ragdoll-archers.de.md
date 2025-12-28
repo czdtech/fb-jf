@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 "Ragdoll Archers" ist ein Physik-Bogenschießspiel, in dem du wacklige
@@ -52,6 +53,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - **Reload**: Some versions may require manual arrow reloading.
     mit Tastatur oder Touch-Steuerung leicht versetzen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
 1.  **F: Warum wackelt meine Figur ständig?**
@@ -66,3 +68,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 4.  **F: Habe ich unbegrenzt Pfeile?**
     **A:** Das hängt vom Modus ab. Manche Varianten begrenzen deine Munition,
     andere lassen dich unbegrenzt schießen.
+

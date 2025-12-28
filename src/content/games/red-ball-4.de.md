@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 "Red Ball 4" ist ein physikbasiertes Jump-and-Run. Du spielst eine kleine rote
@@ -48,6 +49,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 *   **Schwung holen:** Nutze Hänge und Gefälle, um mehr Geschwindigkeit und
     Sprungweite zu bekommen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
 1.  **F: Wie besiege ich die quadratischen Gegner?**
@@ -63,3 +65,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 4.  **F: Wie viele Level gibt es?**
     **A:** Red Ball 4 ist in mehrere Kapitel mit jeweils mehreren Leveln
     unterteilt und bietet damit viele Dutzend herausfordernde Stages.
+

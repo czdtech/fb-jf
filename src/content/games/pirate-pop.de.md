@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Pirate Pop ist ein spaßiger, süchtig machender Bubble-Shooter im
@@ -26,6 +27,7 @@ Pirate Pop ist ein spaßiger, süchtig machender Bubble-Shooter im
  Banden-Schüssen an den Seitenwänden und großen Kettenreaktionen lässt du ganze
  Blasen-Cluster herabstürzen und sicherst dir so jede Menge Piratenbeute.
 
+<!-- i18n:section:tips -->
 ### Strategien & Spieltipps
 
 1.  **Hoch zielen für große Abstürze:** Am meisten punktest du, wenn du
@@ -40,24 +42,30 @@ Pirate Pop ist ein spaßiger, süchtig machender Bubble-Shooter im
     eine Blase die Linie am unteren Rand überschreitet, ist deine Piratenfahrt
     vorbei.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 *   **Zielen:** Bewege die Maus, um deine Kanone auszurichten. Eine Hilfslinie
     zeigt dir meist die Flugbahn.
 *   **Schießen:** Klicke mit der linken Maustaste, um die Blase abzufeuern.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:pirate-pop:q-what-is-the-goal-ab58581b -->
 *   **F: Was ist das Ziel des Spiels?**
     *   **A:** Alle Blasen vom Spielfeld zu entfernen und dabei möglichst viele
         Punkte zu sammeln.
 
+<!-- i18n:faq:id=faq:pirate-pop:q-how-do-i-get-da481c1b -->
 *   **F: Wie erziele ich die höchste Punktzahl?**
     *   **A:** Indem du große Blasen‑Cluster auf einmal zum Fallen bringst. Je
         mehr Blasen du mit einem Schuss herunterlöst, desto höher fällt dein
         Kombobonus aus.
 
+<!-- i18n:faq:id=faq:pirate-pop:q-what-if-i-cant-c345ad93 -->
 *   **F: Was mache ich, wenn ich gerade kein Match bilden kann?**
     *   **A:** Dann brauchst du einen taktischen Schuss. Platziere die Blase so,
         dass sie nicht im Weg ist oder später leicht mit einer passenden Farbe
         entfernt werden kann.
+

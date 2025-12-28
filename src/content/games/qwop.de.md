@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 "QWOP Game" ist ein legendär schweres Laufspiel, das auf einer
@@ -49,6 +50,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 *   **O:** Steuert den Oberschenkel des rechten Beins.
 *   **P:** Steuert den Unterschenkel des rechten Beins.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
 1.  **F: Warum fällt die Figur immer nach hinten um?**
@@ -66,3 +68,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 4.  **F: Ist die Schwierigkeit Absicht?**
     **A:** Ja – QWOP soll zeigen, wie komplex menschliche Bewegung ist und wie
     viel Koordination hinter einer scheinbar simplen Laufbewegung steckt.
+

@@ -18,6 +18,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 "Pou Game" ist eine virtuelle Haustier-Simulation. Du nimmst das
@@ -56,6 +57,7 @@ verdienen kannst.
 - **Minispiele:** Tippe auf das Minigame-Icon, öffne die Spielliste und starte
   ein Spiel.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
 1.  **F: Was mache ich, wenn Pou krank wird?**
@@ -71,3 +73,4 @@ verdienen kannst.
 4.  **F: Brauche ich eine Internetverbindung?**
     **A:** Die Grundfunktionen laufen meist offline. Für Updates, Online-Ranglisten
     oder bestimmte Shop-Inhalte kann jedoch eine Verbindung nötig sein.
+

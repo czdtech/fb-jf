@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 "Paper Minecraft" ist eine 2D-Version des beliebten Sandbox-Spiels
@@ -54,6 +55,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 *   **Inventar/Crafting öffnen:** Mit E öffnest du dein Inventar, verwaltest
     Items und nutzt Crafting-Rezepte.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
 1.  **F: Worin unterscheidet sich "Paper Minecraft" vom originalen
@@ -72,3 +74,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
     **A:** Als 2D-Neuinterpretation bildet Paper Minecraft meist nicht alle
     Dimensionen des Originals eins zu eins ab, bietet aber oft eigene, angepasste
     Inhalte.
+

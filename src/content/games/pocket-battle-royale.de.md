@@ -16,6 +16,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Pocket Battle Royale ist ein schneller 2D-Shooter aus der Vogelperspektive, der
@@ -25,6 +26,7 @@ Pocket Battle Royale ist ein schneller 2D-Shooter aus der Vogelperspektive, der
  dich von der schrumpfenden Zone fern und eliminiere deine Gegner – am Ende
  kann nur ein Spieler übrig bleiben.
 
+<!-- i18n:section:tips -->
 ### Strategien & Spieltipps
 
 1.  **Schnell looten:** Deine erste Priorität ist eine Waffe. Durchsuche Gebäude
@@ -40,6 +42,7 @@ Pocket Battle Royale ist ein schneller 2D-Shooter aus der Vogelperspektive, der
     Oft ist es klüger, andere Spieler gegeneinander kämpfen zu lassen, während
     du lootest oder eine bessere Position für das Endgame suchst.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 *   **Bewegung:** Mit **WASD** bewegst du deinen Charakter nach oben, links,
@@ -48,16 +51,21 @@ Pocket Battle Royale ist ein schneller 2D-Shooter aus der Vogelperspektive, der
     **Mauszeigers**.
 *   **Schießen:** Mit der **linken Maustaste** feuerst du deine Waffe ab.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:pocket-battle-royale:q-what-is-the-shrinking-1d59f948 -->
 *   **F: Was ist der schrumpfende Kreis auf der Karte?**
     *   **A:** Das ist die Safezone. Du musst dich innerhalb dieses Bereiches
         aufhalten. Außerhalb nimmt deine Gesundheit rapide ab.
 
+<!-- i18n:faq:id=faq:pocket-battle-royale:q-how-do-i-get-1b802cf4 -->
 *   **F: Wie bekomme ich bessere Waffen und mehr Heilung?**
     *   **A:** Sämtliche Items liegen auf der Map verteilt. Durchsuche Gebäude und
         offene Flächen nach Waffen, Munition und Medipacks.
 
+<!-- i18n:faq:id=faq:pocket-battle-royale:q-what-is-the-objective-0d640e0d -->
 *   **F: Was ist das Ziel des Spiels?**
     *   **A:** Überlebe als Letzter. Nur wer alle anderen Spieler eliminiert oder
         sie den Gefahren der Zone überlässt, gewinnt die Runde.
+

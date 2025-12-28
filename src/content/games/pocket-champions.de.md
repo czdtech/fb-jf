@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Pocket Champs ist ein Idle-Mehrspieler-Rennspiel, in dem du das Rennen selbst
@@ -27,6 +28,7 @@ Pocket Champs ist ein Idle-Mehrspieler-Rennspiel, in dem du das Rennen selbst
  automatisch ab – und zeigt dir, ob dein Training und deine Ausrüstung die
  richtige Wahl waren.
 
+<!-- i18n:section:tips -->
 ### Strategien & Spieltipps
 
 1.  **Konsequent trainieren:** Der wichtigste Schlüssel zum Erfolg ist
@@ -45,6 +47,7 @@ Pocket Champs ist ein Idle-Mehrspieler-Rennspiel, in dem du das Rennen selbst
     sie regelmäßig, um neue Gadgets zu erhalten oder bestehende Ausrüstung zu
     verbessern.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Die Steuerung erfolgt über Menüs.
@@ -56,18 +59,23 @@ Die Steuerung erfolgt über Menüs.
 *   **Rennen starten:** Mit dem „Race“-Button trittst du gegen andere Spieler
     an.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:pocket-champions:q-how-do-i-control-84ef48a4 -->
 *   **F: Wie steuere ich meinen Charakter im Rennen?**
     *   **A:** Gar nicht – das Rennen läuft voll automatisch. Deine Aufgabe ist
         die Vorbereitung vor dem Start (Training und Gadget‑Auswahl).
 
+<!-- i18n:faq:id=faq:pocket-champions:q-how-do-i-win-16b4fad9 -->
 *   **F: Wie gewinne ich mehr Rennen?**
     *   **A:** Mit besseren Werten und der richtigen Strategie. Trainiere deinen
         Champ, bis die Stats hoch genug sind, und wähle Gadgets, die die größten
         Hindernisse der nächsten Strecke kontern.
 
+<!-- i18n:faq:id=faq:pocket-champions:q-what-is-the-best-a00d8be9 -->
 *   **F: Was ist das beste Gadget?**
     *   **A:** Es gibt kein allgemeines „bestes“ Gadget. Das beste ist immer
         das, das zum nächsten großen Hindernis passt: Ein Speedboat ist auf
         einer Laufstrecke nutzlos, auf Wasserpassagen aber entscheidend.
+

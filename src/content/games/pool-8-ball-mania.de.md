@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Pool 8 Ball Mania simuliert lockeres 8-Ball-Billard mit feinfühligem Zielen und
@@ -23,6 +24,7 @@ Pool 8 Ball Mania simuliert lockeres 8-Ball-Billard mit feinfühligem Zielen und
  Lochspiel eine gute Position für den nächsten Stoß zu hinterlassen, mit
  Vorlauf (Topspin), Rückläufer (Backspin) und Seiteneffet über die Banden.
 
+<!-- i18n:section:tips -->
 ### Strategien & Spieltipps
 
 1.  **Nächste Position planen:** Überlege vor jedem Stoß, wo die Weiße landen
@@ -37,6 +39,7 @@ Pool 8 Ball Mania simuliert lockeres 8-Ball-Billard mit feinfühligem Zielen und
 5.  **Sicherheit spielen:** Ist ein Stoß extrem dünn und riskant, lohnt sich
     oft ein Safety: Lege die Weiße so ab, dass der Gegner es schwer hat.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Zielen:** Ziehe mit der Maus, um den Zielwinkel einzustellen.
@@ -45,19 +48,24 @@ Pool 8 Ball Mania simuliert lockeres 8-Ball-Billard mit feinfühligem Zielen und
 - **Effet:** Stelle in der kleinen Weiß‑Anzeige ein, wo du die Kugel triffst,
   um Topspin, Backspin oder Seiteneffet zu geben.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:pool-8-ball-mania:pots-rattle-out-why-536afde4 -->
 - **F: Warum „rappeln“ meine Bälle aus der Tasche?**
   
   Meist schlägst du zu hart oder nicht mittig auf die Tasche zu. Reduziere
   die Stoßstärke und ziele durch die Mitte der Tasche.
 
+<!-- i18n:faq:id=faq:pool-8-ball-mania:how-to-hold-position-c1f77f55 -->
 - **F: Wie halte ich die Weiße in Position?**
   
   Nutze kurze Vorläufer oder Rückläufer und die Banden, um Geschwindigkeit
   abzubauen und die Weiße in gewünschter Nähe zu stoppen.
 
+<!-- i18n:faq:id=faq:pool-8-ball-mania:break-tips-45524360 -->
 - **F: Tipps für den Anstoß?**
   
   Triff die vordere Kugel möglichst zentral, nutze mittlere bis hohe Power und
   versuche, die Weiße nahe der Tischmitte zu kontrollieren.
+

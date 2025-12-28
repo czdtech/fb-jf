@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 "Puppet Master" ist ein eigenwilliges Physik-Puzzlespiel, in dem du eine
@@ -55,6 +56,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - **Jumping**: Use coordination between legs and arms to achieve jumping actions.
     „läufst“ oder kletterst du durch das Level.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
 1.  **F: Die Steuerung fühlt sich extrem schwierig an – Tipps?**
@@ -72,3 +74,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
     **A:** In der Regel steigt die Komplexität von Level zu Level an – die
     ersten Abschnitte dienen als Tutorial, später werden die Parcours deutlich
     anspruchsvoller.
+
