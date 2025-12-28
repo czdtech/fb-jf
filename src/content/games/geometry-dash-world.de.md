@@ -15,6 +15,7 @@ score: 3.6/5  (1425 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Überblick
 
 Geometry Dash World destilliert das Kernprinzip von Geometry Dash in zwei
@@ -26,6 +27,7 @@ schaltest du neue Torbereiche frei, tägliche Level bringen zusätzliche
 Herausforderungen und im Übungsmodus kannst du Abschnitte mit Checkpoints
 verinnerlichen.
 
+<!-- i18n:section:how-to-play -->
 ### So spielst du
 
 - Tippe/Springe im Takt, um Spikes und Sägen zu überwinden; halte gedrückt, um
@@ -35,6 +37,7 @@ verinnerlichen.
 - Nutze den Practice-Mode, um schwierige Stellen in überschaubare Segmente mit
   Checkpoints zu zerlegen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Leertaste/Maus/Touch zum Springen; Halten zum Fliegen; Practice- und
@@ -49,16 +52,20 @@ verinnerlichen.
 - Schalte früh in den Übungsmodus, wenn du an einer Stelle immer wieder
   scheiterst, und gehe danach zurück in den Normalmodus für einen Clean Run.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:geometry-dash-world:does-geometry-dash-world-inclu-a591d92b -->
 - **F: Gibt es in Geometry Dash World Community-Level?**  
   **A:** Der Fokus liegt auf kuratierten Stages; einige Hosts blenden zusätzlich
   Daily Levels oder Community-Empfehlungen ein.
 
+<!-- i18n:faq:id=faq:geometry-dash-world:how-do-i-unlock-gated-9239b0e4 -->
 - **F: Wie öffne ich gesperrte Knoten?**  
   **A:** Mit Orbs/Schlüsseln, die du beim Abschließen von Levels oder dailies
   erhältst.
 
+<!-- i18n:faq:id=faq:geometry-dash-world:can-i-place-checkpoints-fd7bb868 -->
 - **F: Kann ich Checkpoints setzen?**  
   **A:** Im Practice-Mode ja, im normalen Run musst du Level ohne Checkpoints
   durchspielen.

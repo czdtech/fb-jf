@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### **Einführung in Grow a Garden**
 
 "Grow a Garden" steht sinnbildlich für eine ganze Kategorie entspannter
@@ -48,6 +49,7 @@ Vordergrund. Typische Elemente sind:
     gestaltest du deinen Garten ganz nach deinem Geschmack und richtest Wege,
     Zonen und Themenbereiche ein.
 
+<!-- i18n:section:tips -->
 ### **Strategie & Tipps für das Gameplay**
 
 1.  **Zeit und Ressourcen managen**  
@@ -93,6 +95,7 @@ Vordergrund. Typische Elemente sind:
     Belohnungen, die sonst nur schwer zu bekommen sind – etwa exklusive Deko
     oder besondere Pflanzen.
 
+<!-- i18n:section:controls -->
 ### **Steuerung – so bedienst du deinen Garten**
 
 In den meisten Garten-Spielen basiert die Steuerung auf einfachen Klicks und
@@ -113,25 +116,30 @@ Ziehen/Ablegen.
     *   Platziere Dekorationen im Garten, indem du sie per Drag-and-drop an die
         gewünschte Stelle ziehst.
 
+<!-- i18n:section:faq -->
 ### **Häufige Fragen (FAQ)**
 
+<!-- i18n:faq:id=faq:grow-a-garden:should-i-buy-seeds-or-11182d2c -->
 **1. Soll ich zuerst Samen oder Dekorationen kaufen?**  
 Am Anfang solltest du immer **Samen und zusätzliche Felder** priorisieren.
 Dekoration ist schön, bringt aber meist kein direktes Einkommen. Konzentriere
 Dich zunächst auf Ertrag, bevor du in aufwendige Gestaltung investierst.
 
+<!-- i18n:faq:id=faq:grow-a-garden:why-did-my-plants-wither-ac609727 -->
 **2. Warum sind meine Pflanzen verwelkt?**  
 In manchen Spielen welken Pflanzen, wenn sie nach der Reife nicht rechtzeitig
 gegossen oder geerntet werden. Das reduziert deinen Gewinn oder zerstört die
 Ernte komplett. Achte auf die Wachstumszyklen und Pflegeanforderungen jeder
 Pflanze.
 
+<!-- i18n:faq:id=faq:grow-a-garden:how-can-i-make-money-e28ea240 -->
 **3. Wie verdiene ich am schnellsten Geld?**  
 Am effektivsten ist es, **lukrative Aufträge** zu erfüllen und gezielt die
 Pflanzen anzubauen, die dafür benötigt werden. Sorge außerdem dafür, dass dein
 Produktionskreislauf (Säen – Pflegen – Ernten – Liefern) möglichst ohne Pausen
 läuft, damit dein Land optimal genutzt wird.
 
+<!-- i18n:faq:id=faq:grow-a-garden:does-the-game-need-to-b46d6202 -->
 **4. Muss das Spiel ständig online sein?**  
 Die meisten modernen Garten-Spiele unterstützen ein **Offline-Wachstum**. Das
 heißt: Deine Pflanzen wachsen weiter, auch wenn du das Spiel geschlossen hast.

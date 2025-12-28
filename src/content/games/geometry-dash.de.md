@@ -11,8 +11,10 @@ thumbnail: /new-images/thumbnails/geometry-dash.png
 tags:
   - geometry dash
 score: 4.5/5  (604 votes)
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 Vergiss den ganzen Schnickschnack. Das hier ist kein gemütlicher
 Geometry-Dash-Spaziergang, sondern eine puristische Wave-Prüfung. Portale,
 Pads und Münzen sind gestrichen – übrig bleiben nur du, die Wave-Form und ein
@@ -38,3 +40,4 @@ Lektion in Kontrolle.
   Steuerung verlangen; ein Pixel entscheidet über Sieg oder Reset.
 - **Kurze, intensive Versuche:** Das Level ist darauf ausgelegt, schnell zu
   scheitern, schnell zu lernen und sofort wieder zu starten.
+

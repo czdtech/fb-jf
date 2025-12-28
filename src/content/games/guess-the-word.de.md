@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Guess The Word verbindet Buchstaben-Verbindungsrätsel mit Kreuzworträtseln. Du
@@ -24,6 +25,7 @@ in ein Gitter eingetragen werden. Mit fortschreitenden Leveln werden die
 Anagramme trickreicher, seltene Buchstabenkombinationen häufiger und Vokale
 knapper – belohnt werden ein gutes Gefühl für Muster und strategisches Raten.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Kurze, offensichtliche Wörter zuerst**  
@@ -51,23 +53,28 @@ knapper – belohnt werden ein gutes Gefühl für Muster und strategisches Raten
     der Mitte des Rings oder lies die Buchstaben rückwärts, um neue
     Kombinationen zu entdecken.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Ziehe mit Maus oder Finger über die Buchstaben, um sie zu verbinden, und lasse
   los, um das Wort einzureichen.  
 - Nutze Hinweis-Buttons nur sparsam, da sie meist Ressourcen kosten.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:guess-the-word:a-slot-seems-impossible-tips-9d79623f -->
 - **F: Ein Feld wirkt unmöglich – was kann ich tun?**  
   **A:** Überprüfe die vorhandenen Kreuzungen und probiere Anagramme mit den
   festen Buchstaben im Gitter aus (z. B. aus _ate werden eat/tea/eta, je nach
   Wörterliste der Sprache).
 
+<!-- i18n:faq:id=faq:guess-the-word:are-pluralsproper-nouns-allowe-008ba045 -->
 - **F: Sind Pluralformen oder Eigennamen erlaubt?**  
   **A:** Das hängt vom verwendeten Wörterbuch ab. Meist sind Eigennamen
   ausgeschlossen, während gängige Pluralformen erlaubt sein können.
 
+<!-- i18n:faq:id=faq:guess-the-word:can-i-replay-for-more-3af1cb4a -->
 - **F: Kann ich Level wiederholen, um mehr Münzen zu verdienen?**  
   **A:** In vielen Versionen ja – du kannst frühere Gitter erneut spielen, um
   Bonusbelohnungen oder zusätzliche Münzen zu sammeln.

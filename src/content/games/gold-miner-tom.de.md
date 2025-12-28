@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Gold Miner Tom ist ein klassisches Arcade-Spiel, bei dem Timing und Präzision
@@ -27,6 +28,7 @@ Geldziel, das du innerhalb des Zeitlimits erreichen musst. Goldklumpen,
 Diamanten und geheimnisvolle Überraschungssäcke bringen Geld – schwere, wertlose
 Steine kosten dagegen nur Zeit.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Timing ist alles**  
@@ -50,6 +52,7 @@ Steine kosten dagegen nur Zeit.
     ideal, um versehentlich gegriffene Steine in die Luft zu jagen. **Stärke-
     Tränke** helfen dir, schwere Objekte deutlich schneller hochzuziehen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Das Spiel nutzt ein sehr simples Ein-Klick-Steuerungsschema.
@@ -60,18 +63,22 @@ Das Spiel nutzt ein sehr simples Ein-Klick-Steuerungsschema.
     Klaue hängt, erscheint ein Dynamit-Button. Klicke darauf, um das Objekt zu
     sprengen und dich wieder frei zu machen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:gold-miner-tom:q-what-is-the-goal-7ed4507e -->
 *   **F: Was ist das Ziel eines Levels?**
     *   **A:** Du musst innerhalb des Zeitlimits genügend Geld sammeln, um das
         vorgegebene Geldziel zu erreichen. Schaffst du das, geht es ins
         nächste Level.
 
+<!-- i18n:faq:id=faq:gold-miner-tom:q-why-is-my-claw-53378ca1 -->
 *   **F: Warum zieht meine Klaue manchmal so langsam?**
     *   **A:** Du hast wahrscheinlich einen großen, schweren Stein erwischt.
         Diese bringen kaum Geld und kosten viel Zeit. Hast du Dynamit, ist das
         ein guter Moment, es zu benutzen.
 
+<!-- i18n:faq:id=faq:gold-miner-tom:q-what-happens-if-i-9e9ed57b -->
 *   **F: Was passiert, wenn ich das Geldziel nicht rechtzeitig erreiche?**
     *   **A:** Läuft der Timer ab, bevor du das Ziel erfüllst, ist die Runde
         verloren und das Spiel endet.

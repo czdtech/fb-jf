@@ -15,12 +15,14 @@ score: 4.3/5  (618 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Überblick
 
 Galactic Empire bietet RTS-ähnliche Gefechte im All. Du baust Förderstationen,
  erweiterst deine Basen und stellst Flotten zusammen, um angrenzende Sektoren zu
   verteidigen und zu erobern.
 
+<!-- i18n:section:how-to-play -->
 ### So spielst du
 
 - Errichte zuerst Extraktoren und Generatoren, um deine Wirtschaft zu
@@ -30,6 +32,7 @@ Galactic Empire bietet RTS-ähnliche Gefechte im All. Du baust Förderstationen,
 - Erobere benachbarte Knotenpunkte, um Upgrades und mehr Kontrolle über die
   Karte zu erhalten.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Maus zum Auswählen und Bauen; Hotkeys für Produktion und Kamera sind
@@ -44,16 +47,20 @@ Galactic Empire bietet RTS-ähnliche Gefechte im All. Du baust Förderstationen,
 - Fokussiere Feuer auf gefährliche Glas-Kanonen-Ziele, danach räumst du den Rest
   auf.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:galactic-empire:how-do-i-get-more-dd7b8ee3 -->
 - **F: Wie bekomme ich schneller Ressourcen?**  
   **A:** Erweitere dich früh auf nahegelegene Sektoren und schütze deine
   Extraktoren – untätige Sammler verschwenden Einkommen.
 
+<!-- i18n:faq:id=faq:galactic-empire:what-fleet-composition-works-b-897b2219 -->
 - **F: Welche Flottenzusammenstellung funktioniert gut?**  
   **A:** Kombiniere schnelle Abfangjäger mit schwereren Schiffen, die
   Gebäudeschaden austeilen.
 
+<!-- i18n:faq:id=faq:galactic-empire:is-there-a-tech-tree-bdb50659 -->
 - **F: Gibt es einen Tech-Tree?**  
   **A:** In vielen Versionen werden stärkere Schiffe über eroberte Sektoren oder
   Tech-Upgrades freigeschaltet.

@@ -15,6 +15,7 @@ score: 4.1/5  (1800 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Giant Attack ist ein rasantes Arcade-Actionspiel, in dem du dich riesigen
@@ -24,6 +25,7 @@ sondern im Einsammeln kleiner Verbündeter auf dem Schlachtfeld. Je mehr du
 sammelst, desto größer und stärker wird dein Charakter – und desto wuchtiger
 fallen deine Projektile aus.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1. **Sammeln, um zu wachsen:** Bewege dich ständig, um farbige Verbündete
@@ -39,6 +41,7 @@ fallen deine Projektile aus.
    vor allem auf deine Position – so, dass du weiter Verbündete aufsammelst und
    gleichzeitig der Riese beständig getroffen wird.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Die Steuerung ist bewusst einfach und intuitiv gehalten.
@@ -48,16 +51,21 @@ Die Steuerung ist bewusst einfach und intuitiv gehalten.
 - **Angriff:** Läuft automatisch – dein Charakter wirft kontinuierlich Waffen,
   solange du im Spiel bleibst.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:giant-attack:q-how-do-i-attack-4078c9e1 -->
 *   **F: Wie greife ich den Riesen an?**
     *   **A:** Du musst keinen extra Knopf drücken – der Held wirft von selbst.
         Dein Fokus liegt auf dem Positionieren und Einsammeln.
 
+<!-- i18n:faq:id=faq:giant-attack:q-why-am-i-not-380e63ac -->
 *   **F: Warum mache ich so wenig Schaden?**
     *   **A:** Vermutlich bist du noch zu klein. Sammle mehr Verbündete, um deinen
         Helden und damit auch deine Projektile zu vergrößern.
 
+<!-- i18n:faq:id=faq:giant-attack:q-how-do-i-win-c06399aa -->
 *   **F: Wann ist ein Level gewonnen?**
     *   **A:** Wenn die Lebensleiste des Riesen auf null sinkt, bevor er dich selbst
         ausschaltet.
+

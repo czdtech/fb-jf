@@ -16,12 +16,14 @@ score: 4.4/5  (242 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Überblick
 
 In Gangsters lieferst du dir wackelige Schussduelle auf Hausdächern – solo oder
 zu zweit. Kugeln und Rückstoß beeinflussen deine Haltung; wer zuerst fällt,
 verliert die Runde.
 
+<!-- i18n:section:how-to-play -->
 ### So spielst du
 
 - Time deine Sprünge, um Kugeln auszuweichen und gleichzeitig deine
@@ -31,6 +33,7 @@ verliert die Runde.
 - Umgebungsobjekte können Schüsse abblocken oder für Ablenkungs-Abpraller
   sorgen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Je nach Host ein Ein-Knopf-System (springen/schießen kombiniert) oder
@@ -44,16 +47,20 @@ verliert die Runde.
   Gleichgewicht zu bringen.
 - Achte auf Wind oder bewegliche Plattformen, falls vorhanden.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:gangsters:how-do-i-win-rounds-ffe989b8 -->
 - **F: Wie gewinne ich Runden zuverlässiger?**  
   **A:** Kontrolliere den Rückstoß und lande Schüsse, die die Standfestigkeit
   des Gegners stören, statt nur auf "Schaden" zu gehen.
 
+<!-- i18n:faq:id=faq:gangsters:is-there-a-twoplayer-mode-c4ec06d3 -->
 - **F: Gibt es einen 2-Spieler-Modus auf einer Tastatur?**  
   **A:** Ja, die meisten Hosts bieten nebeneinanderliegende Tastenbelegungen für
   lokale Duelle.
 
+<!-- i18n:faq:id=faq:gangsters:do-headshots-deal-extra-damage-658c8d69 -->
 - **F: Zählen Headshots extra?**  
   **A:** Meist ist der Rückstoß bzw. die Position wichtiger als zusätzlicher
   Schaden – Hauptsache, der Gegner fällt vom Dach.

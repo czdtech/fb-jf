@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Go Escape ist ein reduziertes Plattform- und Fluchtspiel, in dem du dich durch
@@ -25,6 +26,7 @@ Tore verlangen präzise Eingaben und viel Geduld. Die einzelnen Level sind kurz,
 aber gnadenlos: Der Reiz liegt darin, den Rhythmus jeder Falle zu verstehen und
 dann einen perfekten Lauf hinzulegen.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Zyklen beobachten**  
@@ -49,6 +51,7 @@ dann einen perfekten Lauf hinzulegen.
     zuverlässig schaffst, hake ihn innerlich ab und konzentriere dich auf den
     nächsten.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Bewegen/Springen:** Pfeiltasten oder WASD plus Sprungtaste (häufig
@@ -56,17 +59,21 @@ dann einen perfekten Lauf hinzulegen.
 - Manche Level fügen zusätzliche Aktionen wie **Wandsprünge** oder
   **Doppelsprünge** hinzu – achte auf die Hinweise im Spiel.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:go-escape:i-keep-clipping-traps-how-f8dc2599 -->
 - **F: Ich streife Fallen ständig ganz knapp – was mache ich falsch?**  
   **A:** Meist bewegst du dich auf gut Glück. Beobachte die Fallen genauer,
   zähle innerlich ihre Zyklen und springe nur in wiederkehrenden, sicheren
   Zeitfenstern.
 
+<!-- i18n:faq:id=faq:go-escape:any-tip-for-narrow-gaps-e2f81780 -->
 - **F: Wie komme ich durch besonders enge Passagen?**  
   **A:** Nutze minimale Tastendrücke für sehr kurze Sprünge und nähere dich der
   Lücke aus einem flachen Winkel, statt steil von oben.
 
+<!-- i18n:faq:id=faq:go-escape:is-there-a-timer-25fbcbdf -->
 - **F: Gibt es einen Zeitdruck oder ein Level-Timer?**  
   **A:** Viele Räume sind nicht streng zeitlich begrenzt. Konzentriere dich
   zuerst darauf, konsistente Runs zu schaffen – Speedruns kommen später, wenn du

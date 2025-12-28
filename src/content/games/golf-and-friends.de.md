@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ## Spielanleitung
 
 ### Ausführliche Spielbeschreibung
@@ -27,6 +28,7 @@ Sanfte Putts in Lochnähe verhindern, dass der Ball wieder herausrollt, und
 45°-Bankschüsse machen enge Kurven gut berechenbar. Im Mehrspielermodus wird der
 Kurs zur gemütlichen Party-Runde mit Freunden.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Tempo am Loch kontrollieren**  
@@ -50,6 +52,7 @@ Kurs zur gemütlichen Party-Runde mit Freunden.
     Nutze Schwenken und Zoomen, um versteckte Gefälle oder Kanten frühzeitig zu
     erkennen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Ziele mit der Maus, ziehe zurück, um die Schlagstärke zu bestimmen, und lasse
@@ -57,17 +60,21 @@ Kurs zur gemütlichen Party-Runde mit Freunden.
 - Wenn du feststeckst, bieten viele Versionen eine Reset- oder
   Aufgeben-Funktion für das aktuelle Loch.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:golf-and-friends:why-do-my-putts-rim-2ead777a -->
 - **F: Warum rollen meine Putts ständig am Lochrand vorbei?**  
   **A:** Meist ist dein Tempo zu hoch oder der Eintrittswinkel ungünstig. Reduziere
   die Schlagstärke kurz vor dem Loch und richte den Putt eher frontal aus.
 
+<!-- i18n:faq:id=faq:golf-and-friends:best-bankshot-tip-f267aa52 -->
 - **F: Hast du einen Tipp für gute Bankschüsse?**  
   **A:** Ziele leicht innerhalb des 45°-Winkels, um den Tempoverlust bei der
   Bande auszugleichen. So kommt der Ball oft genau im richtigen Winkel wieder
   heraus.
 
+<!-- i18n:faq:id=faq:golf-and-friends:multiplayer-local-7e9d7ed5 -->
 - **F: Wie funktioniert der Mehrspielermodus?**  
   **A:** In vielen Varianten spielst du im Hot-Seat-Modus: Mehrere Spieler
   teilen sich dasselbe Gerät und führen ihre Schläge der Reihe nach aus.

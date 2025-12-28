@@ -15,6 +15,7 @@ score: 4.4/5  (2400 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Get 10 Ultimate ist ein simples, aber tiefgehendes Zahlenpuzzle. Das Feld ist
@@ -24,6 +25,7 @@ identischen Zahlen – die gesamte Gruppe verschmilzt dann zu einer neuen Kachel
 mit dem um 1 erhöhten Wert. Zuerst versuchst du, eine 10 zu erreichen, doch der
 wahre Reiz liegt darin, wie weit du darüber hinauskommst.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1. **Vor dem Tippen nachdenken:** Jeder Merge verändert das Boardlayout. Bevor
@@ -38,6 +40,7 @@ wahre Reiz liegt darin, wie weit du darüber hinauskommst.
 4. **Von unten arbeiten:** Kombinationen in den unteren Reihen lassen viele
    Kacheln nachrutschen und erhöhen die Chance auf neue, ungeplante Gruppen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Gespielt wird mit einem einzigen Klick oder Tap.
@@ -46,16 +49,21 @@ Gespielt wird mit einem einzigen Klick oder Tap.
   benachbarten Kacheln mit derselben Zahl. Die neue, höhere Zahl erscheint
   genau an der Stelle, auf die du getippt hast.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:get-10-ultimate:q-what-is-the-goal-ab58581b -->
 *   **F: Was ist das eigentliche Ziel?**
     *   **A:** Zunächst die 10 zu bilden – danach so weit wie möglich höhere Zahlen
         zu erreichen, bevor das Board blockiert.
 
+<!-- i18n:faq:id=faq:get-10-ultimate:q-how-does-the-game-f20a1993 -->
 *   **F: Wann ist das Spiel vorbei?**
     *   **A:** Wenn es nirgendwo mehr zwei benachbarte Kacheln mit derselben Zahl
         gibt und somit kein Zug mehr möglich ist.
 
+<!-- i18n:faq:id=faq:get-10-ultimate:q-does-the-new-tile-b1b15db8 -->
 *   **F: Entsteht die neue Kachel zufällig?**
     *   **A:** Nein, sie erscheint immer genau auf dem Feld, das du innerhalb der
         Gruppe angeklickt hast.
+

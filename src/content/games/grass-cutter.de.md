@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Überblick
 
 Grass Cutter ist ein Routen-Puzzler, bei dem du mit einem Rasenmäher Feld für
@@ -25,6 +26,7 @@ Dein Ziel ist es, alle Grasfelder zu mähen, ohne dich festzufahren. Steine,
 Wasserflächen und Einbahn-Felder erschweren deine Planung, spätere Level
 fügen Schalter und Teleporter hinzu.
 
+<!-- i18n:section:how-to-play -->
 ### So spielst du
 
 - Verschaffe dir zuerst einen Überblick über das Raster und identifiziere
@@ -34,6 +36,7 @@ fügen Schalter und Teleporter hinzu.
 - Lass dir Rückwege offen, damit du auch die letzten, noch ungemähten Felder
   erreichen kannst.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Pfeiltasten oder Wischgesten, um den Mäher zu bewegen.  
@@ -49,16 +52,20 @@ fügen Schalter und Teleporter hinzu.
 - Starte lieber früh neu, wenn du erkennst, dass bestimmte Grasfelder später
   nicht mehr erreichbar sind – so sparst du Zeit und Frust.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:grass-cutter:what-ends-a-level-unsuccessful-7358277d -->
 - **F: Wann scheitere ich an einem Level?**  
   **A:** Wenn noch ungemähte Felder übrig sind und du keine gültigen Züge mehr
   hast – oder wenn du in Varianten mit Zuglimit alle Züge verbraucht hast.
 
+<!-- i18n:faq:id=faq:grass-cutter:are-there-hints-in-the-1f7e4365 -->
 - **F: Gibt es Hilfen oder Hinweise im Spiel?**  
   **A:** Viele Hosts bieten begrenzte Hinweise oder eine mehrstufige
   Rückgängig-Funktion, mit der du Fehler korrigieren kannst.
 
+<!-- i18n:faq:id=faq:grass-cutter:do-all-versions-use-sliding-7cfc3d00 -->
 - **F: Nutzen alle Versionen Gleitbewegungen?**  
   **A:** Nein, manche Varianten bewegen den Mäher Feld für Feld, andere lassen
   ihn bis zum nächsten Blocker durchrutschen. Schau dir die Regeln deiner

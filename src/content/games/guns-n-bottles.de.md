@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Guns n' Bottles ist ein simples, aber extrem fesselndes One-Tap-Arcadespiel, in
@@ -27,6 +28,7 @@ Die Schwierigkeit liegt darin, den Schuss genau mit der Rotation der Waffe
 abzustimmen. Grüne Flaschen bringen Punkte – rote Flaschen solltest du um jeden
 Preis vermeiden.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Rotation vorausdenken**  
@@ -49,6 +51,7 @@ Preis vermeiden.
     Waffen freischalten. Sie sind meist kosmetisch, sorgen aber für zusätzliche
     Motivation.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Das Spiel nutzt nur eine einzige Aktion.
@@ -56,16 +59,20 @@ Das Spiel nutzt nur eine einzige Aktion.
 *   **Schießen:** Klicke mit der linken Maustaste oder tippe irgendwo auf den
     Bildschirm, um einen Schuss abzugeben.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:guns-n-bottles:q-what-is-the-objective-0d640e0d -->
 *   **F: Was ist das eigentliche Ziel des Spiels?**
     *   **A:** So viele grüne Flaschen wie möglich hintereinander zu treffen und
         damit einen neuen Highscore aufzustellen.
 
+<!-- i18n:faq:id=faq:guns-n-bottles:q-what-happens-if-i-8db9dc54 -->
 *   **F: Was passiert, wenn ich vorbeischieße oder eine rote Flasche treffe?**
     *   **A:** In beiden Fällen endet die Runde sofort und dein aktueller Score
         wird gespeichert. Danach startest du von vorne.
 
+<!-- i18n:faq:id=faq:guns-n-bottles:q-how-do-i-aim-4547fcfc -->
 *   **F: Wie ziele ich genau?**
     *   **A:** Du steuerst die Ausrichtung nicht direkt – die Waffe dreht sich
         automatisch. Deine Aufgabe ist es, den **Zeitpunkt** des Schusses so zu

@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Überblick
 
 Im verspielten Baseball-Doodle von Google stehst du als Batter am Schlagmal und
@@ -25,6 +26,7 @@ komische Feldspieler versuchen, hohe Bälle zu fangen. Verteidigen musst du
 nicht – du konzentrierst dich komplett auf konstantes Batting und gute
 Schlagwahl.
 
+<!-- i18n:section:how-to-play -->
 ### So spielst du
 
 - Achte auf Ausholbewegung und Wurfgeschwindigkeit des Pitchers und schwinge,
@@ -34,6 +36,7 @@ Schlagwahl.
 - Vermeide hohe Pop-ups; flache Line Drives landen viel häufiger sicher in den
   Lücken zwischen den Feldspielern.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Tippen/Klicken/Leertaste, um zu schlagen.
@@ -47,16 +50,20 @@ Schlagwahl.
 - Wenn du einmal danebenschlägst, nimm dir einen Augenblick, um deinen Rhythmus
   wiederzufinden – hektische Folge-Schwünge führen nur zu mehr Outs.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:google-doodle-baseball:how-do-i-hit-consistent-4a31e439 -->
 - **F: Wie schlage ich konstant Home Runs?**  
   **A:** Triff den Ball leicht vor deinem Körper auf Gürtelhöhe. Zu hoch
   getroffene Bälle werden schnell zu einfachen Flyouts.
 
+<!-- i18n:faq:id=faq:google-doodle-baseball:does-pitch-speed-change-during-147f3a73 -->
 - **F: Ändert sich die Wurfgeschwindigkeit im Spiel?**  
   **A:** Ja, die Pitch-Geschwindigkeit variiert. Passe deinen Timing-Punkt
   entsprechend an.
 
+<!-- i18n:faq:id=faq:google-doodle-baseball:is-progress-saved-2fd2b251 -->
 - **F: Wird mein Fortschritt gespeichert?**  
   **A:** In der Regel bleiben deine Scores nur innerhalb der aktuellen Sitzung
   erhalten und werden nicht dauerhaft gespeichert.

@@ -15,6 +15,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Granny Hero ist ein leichtfüßiger Endlos-Runner, in dem eine erstaunlich fitte
@@ -24,6 +25,7 @@ und Rutschbewegungen und nutzt gelegentlich verrückte Gadgets wie Scooter,
 Regenschirme oder Bratpfannen, die dir kurzzeitig Unverwundbarkeit oder
 Mengen-Kontrolle verleihen.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Blick voraus halten**  
@@ -47,6 +49,7 @@ Mengen-Kontrolle verleihen.
     durchatmen und deinen Rhythmus stabilisieren, bevor du wieder auf Punktejagd
     gehst.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Spur wechseln:** A/D oder Links/Rechts-Pfeiltasten.  
@@ -54,17 +57,21 @@ Mengen-Kontrolle verleihen.
 - **Rutschen:** Pfeil nach unten.  
 - **Gadgets:** Über zusätzliche Tasten oder Buttons, je nach Plattform.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:granny-hero:i-keep-clipping-cones-any-dacced33 -->
 - **F: Ich bleibe ständig an Hütchen und kleinen Hindernissen hängen – Tipps?**  
   **A:** Springe einen Tick später ab, damit die Oma das Hindernis klar
   überfliegt, und zentriere dich nach jedem Hindernis wieder auf der Spur, um
   mehr Optionen zu haben.
 
+<!-- i18n:faq:id=faq:granny-hero:are-gadgets-necessary-d17244e9 -->
 - **F: Muss ich die Gadgets überhaupt benutzen?**  
   **A:** Sie sind keine Pflicht, aber nützliche Sicherheitsnetze – besonders in
   engen Passagen mit vielen Hindernissen hintereinander.
 
+<!-- i18n:faq:id=faq:granny-hero:endless-ea2091be -->
 - **F: Ist das Spiel endlos?**  
   **A:** In den meisten Modi handelt es sich um Endlos-Läufe, in die zusätzliche
   Missionsziele und Herausforderungen eingebettet sind.

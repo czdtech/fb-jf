@@ -17,6 +17,7 @@ score: 4.8/5  (537 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Einführung ins Spiel
 
 Geometry Dash Wave ist ein besonders anspruchsvoller, rhythmusbasierter
@@ -36,11 +37,15 @@ präzises Timing, da du mit jedem Tap die diagonale Bewegungsrichtung änderst.
 - **Gravitationswechsel:** In manchen Abschnitten kehrt sich die Steuerung um,
   etwa durch Portale – achte hier besonders auf Indikatoren im Level.
 
+<!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Spacebar` `Up Arrow Key` `Left Mouse Button`
 
 - **PC:** Leertaste, Pfeil hoch oder Linksklick zum Steuern der Wave.
 - **Mobil:** Tippen und Halten auf dem Bildschirm, um die Richtung zu wechseln.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
 - **F: Was ist das Hauptziel in Geometry Dash Wave?**  

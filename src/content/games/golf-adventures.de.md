@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Golf Adventures ist ein fantasievolles Puzzlespiel, das mit Golf-Mechaniken
@@ -26,6 +27,7 @@ Bringe den Ball mit so wenigen Schlägen wie möglich ins Loch. Winkel,
 Schlagstärke und cleveres Nutzen der Umgebung entscheiden über Erfolg oder
 Frust.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Schlag planen**  
@@ -48,6 +50,7 @@ Frust.
     Spieler. Unter Par zu bleiben (Birdie = eins unter Par, Eagle = zwei unter
     Par) ist dein Ziel, wenn du hohe Wertungen anstrebst.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Das Spiel nutzt eine einfache Ziehen-und-Loslassen-Steuerung.
@@ -57,17 +60,21 @@ Das Spiel nutzt eine einfache Ziehen-und-Loslassen-Steuerung.
     Ziel, die Länge steht für die Schlagkraft.
 *   **Schlagen:** Lass die Maustaste los, um den Ball zu schlagen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:golf-adventures:q-what-does-par-mean-a44dda8b -->
 *   **F: Was bedeutet "Par"?**
     *   **A:** Par ist die Schlagzahl, die ein geübter Spieler für ein Loch
         voraussichtlich benötigt. Bei einem Par-3-Loch versuchst du also, den
         Ball in höchstens drei Schlägen einzulochen.
 
+<!-- i18n:faq:id=faq:golf-adventures:q-what-happens-if-my-63c1d333 -->
 *   **F: Was passiert, wenn der Ball ins Wasser fällt?**
     *   **A:** Der Ball wird an die vorherige Position zurückgesetzt und du
         erhältst in der Regel einen Strafschlag.
 
+<!-- i18n:faq:id=faq:golf-adventures:q-how-do-i-get-38d954a6 -->
 *   **F: Wie komme ich über hohe Wände?**
     *   **A:** Suche nach Rampen oder anderen Objekten im Level. Oft musst du
         den Ball über eine Rampe schießen, um ihn über ein Hindernis zu

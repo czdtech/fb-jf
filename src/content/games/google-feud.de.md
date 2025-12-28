@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Überblick
 
 Google Feud funktioniert wie eine digitale Version von "Familien-Duell" für
@@ -25,6 +26,7 @@ mehrere Top-Antworten mit unterschiedlichen Punktwerten. Drei falsche Versuche
 beenden die Runde – wer Muster erkennt und klug rät, sammelt die meisten
 Punkte.
 
+<!-- i18n:section:how-to-play -->
 ### So spielst du
 
 - Wähle eine Kategorie, lies den angezeigten Suchanfang und tippe mögliche
@@ -34,6 +36,7 @@ Punkte.
 - Achte auf **Singular/Plural** und mögliche regionale Formulierungen oder
   Schreibweisen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Gib deine Antworten über die Tastatur ein und bestätige mit **Enter**.  
@@ -48,16 +51,20 @@ Punkte.
 - Vermeide zu früh extrem spezielle Eigennamen – breite Begriffe bringen oft
   mehr Treffer.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:google-feud:how-are-answers-ranked-in-47431b1c -->
 - **F: Wie werden die Antworten im Spiel sortiert?**  
   **A:** Nach ihrer Beliebtheit im zugrunde liegenden Datensatz. Die
   meistgesuchten Vervollständigungen bringen die höchsten Punktzahlen.
 
+<!-- i18n:faq:id=faq:google-feud:do-typos-count-as-correct-4bc11b35 -->
 - **F: Zählen Tippfehler trotzdem als richtige Antwort?**  
   **A:** Häufige Varianten oder kleine Tippfehler können manchmal erkannt
   werden, die genaue Logik hängt aber von der jeweiligen Host-Seite ab.
 
+<!-- i18n:faq:id=faq:google-feud:can-i-change-the-category-48b9cdf7 -->
 - **F: Kann ich die Kategorie während einer Runde wechseln?**  
   **A:** Normalerweise nicht. Du musst erst die laufende Liste abschließen oder
   verlieren, bevor du eine neue Kategorie wählst.

@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Guess Their Answer spielt sich wie eine Quizshow im Stil von "Familien-Duell".
@@ -26,6 +27,7 @@ Antwort, desto mehr Punkte gibt sie – sehr spezielle Antworten bringen dagegen
 wenig. Entscheidend ist also nicht Expertenwissen, sondern ein gutes Gefühl
 dafür, wie der durchschnittliche Spieler denkt.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **In Kategorien denken**  
@@ -51,21 +53,26 @@ dafür, wie der durchschnittliche Spieler denkt.
     In direkten Duellen lohnt es sich, offensichtliche Top-Antworten früh zu
     nennen, um sie dem Gegner wegzunehmen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Tippe deine Antworten über die Tastatur ein und bestätige sie. Das Spiel
   gleicht sie mit einer Liste populärer Antworten ab.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:guess-their-answer:my-clever-answers-dont-score-f98a6e64 -->
 - **F: Warum bekommen meine „kreativen“ Antworten so wenig Punkte?**  
   **A:** Das Punktesystem bevorzugt verbreitete Antworten. Versuche, in
   alltagsnahen, leicht nachvollziehbaren Kategorien zu denken.
 
+<!-- i18n:faq:id=faq:guess-their-answer:are-misspellings-accepted-30fab425 -->
 - **F: Werden Rechtschreibfehler akzeptiert?**  
   **A:** Manche Versionen korrigieren kleinere Tippfehler automatisch, andere
   verlangen eine relativ genaue Schreibweise.
 
+<!-- i18n:faq:id=faq:guess-their-answer:any-hint-system-83b1a6f0 -->
 - **F: Gibt es ein Hinweissystem?**  
   **A:** Einige Modi bieten Buchstabenhinweise oder zeigen an, wie breit das
   Antwortspektrum ist – nutze das sparsam, damit es sich lohnt.

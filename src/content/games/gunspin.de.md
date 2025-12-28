@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Überblick
 
 In Gunspin verwandelt sich Rückstoß in Fortbewegung: Jeder Schuss lässt deine
@@ -24,6 +25,7 @@ nach vorn. Auf dem Weg liegen Munition, Münzen und Gefahren. Wer Winkel und
 Schuss-Timing beherrscht, gleitet lange durch die Luft, sammelt Ketten-Pickups
 und schaltet nach und nach stärkere Waffen frei.
 
+<!-- i18n:section:how-to-play -->
 ### So spielst du
 
 - **Flache Winkel wählen:** Schüsse in einem flachen Winkel nach hinten sorgen
@@ -34,6 +36,7 @@ und schaltet nach und nach stärkere Waffen frei.
   passen – breit streuende Schüsse für chaotische Action oder präzise Waffen
   für kontrollierte Flüge.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Schießen mit **Mausklick** oder **Leertaste**; Richtung und Zeitpunkt des
@@ -48,16 +51,20 @@ und schaltet nach und nach stärkere Waffen frei.
 - Nutze elastische Oberflächen oder Wände als **Abpraller**, um deinen
   Flugwinkel zu verändern und erneut Schwung aufzunehmen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:gunspin:how-do-i-keep-momentum-033bdb85 -->
 - **F: Wie behalte ich Geschwindigkeit, ohne abzustürzen?**  
   **A:** Schieße in flachen Winkeln nach hinten und nutze kurze Impulse, statt
   lange zu feuern. So baust du Vortrieb auf, ohne die Kontrolle zu verlieren.
 
+<!-- i18n:faq:id=faq:gunspin:what-upgrades-help-most-early-26d182f8 -->
 - **F: Welche Upgrades lohnen sich am Anfang am meisten?**  
   **A:** Mehr Munition und Waffen mit gut kontrollierbarem Rückstoß helfen dir,
   weiter zu kommen und Fehler zu verzeihen.
 
+<!-- i18n:faq:id=faq:gunspin:is-there-an-end-to-5b0d22c9 -->
 - **F: Gibt es ein festes Levelende?**  
   **A:** In der Regel zählt die zurückgelegte Distanz – du spielst auf
   Bestweiten und persönliche Highscores.

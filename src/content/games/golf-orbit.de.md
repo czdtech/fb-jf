@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Golf Orbit macht aus Golf ein Flugphysik-Puzzle. Du wählst einen Abschlagswinkel
@@ -26,6 +27,7 @@ gelegentliche Schwerkraft-Felder (Gravity Wells) geben dem Ganzen Tiefe: Die
 besten Schläge reiten Hänge aus, streifen Hindernisse nur knapp und ketten
 mehrere Bounces aneinander, um entfernte Ziele zu erreichen.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Winkel diszipliniert wählen**  
@@ -52,22 +54,27 @@ mehrere Bounces aneinander, um entfernte Ziele zu erreichen.
     One-Shot-Abkürzungen zu probieren – Konstanz ist wichtiger als der perfekte
     Traumschlag.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Tippe einmal, um die Kraftanzeige zu starten, und tippe erneut, um Kraft und
   Winkel festzulegen.  
 - Auf manchen Plattformen kannst du per Wischgeste Spin hinzufügen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:golf-orbit:my-ball-always-overshoots-how-20631a65 -->
 - **F: Mein Ball fliegt ständig zu weit – was kann ich tun?**  
   **A:** Reduziere sowohl Winkel als auch Schlagkraft und nutze Backspin, damit
   der Ball auf kleinen Grüns schneller liegen bleibt.
 
+<!-- i18n:faq:id=faq:golf-orbit:whats-the-best-allaround-angle-1bd9c6a0 -->
 - **F: Welcher Abschlagswinkel funktioniert am ehesten überall?**  
   **A:** Mittlere, eher flache Winkel um **25–35°** kombiniert mit leichtem
   Topspin liefern auf offenen Bahnen meist zuverlässige Ergebnisse.
 
+<!-- i18n:faq:id=faq:golf-orbit:do-gravity-wells-actually-help-29e93e13 -->
 - **F: Bringen die Gravity Wells wirklich etwas?**  
   **A:** Ja. Wenn du sie tangential triffst, kannst du wie bei einer
   Schleuderbahn zusätzlichen Schub mitnehmen. Es lohnt sich, die Winkel dafür

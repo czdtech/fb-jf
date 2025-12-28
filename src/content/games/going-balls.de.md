@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Überblick
 
 Going Balls ist ein Kugel-Runner im Stil klassischer "tilt & roll"-Spiele. Du
@@ -26,6 +27,7 @@ leicht über den Rand katapultiert. Mit jeder Stage kommen neue Elemente wie
 Magnete, Rampen oder Seilrutschen hinzu; unterwegs sammelst du Münzen, um neue
 Skins oder Fortsetzungen freizuschalten.
 
+<!-- i18n:section:how-to-play -->
 ### So spielst du
 
 - **Fein steuern:** Steuere nur leicht, um auf schmalen Balken mittig zu
@@ -36,6 +38,7 @@ Skins oder Fortsetzungen freizuschalten.
   Münzen und Schlüssel mitzunehmen, statt für ein paar extra Coins zu riskieren,
   von der Strecke zu fallen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Steuere die Kugel mit **WASD/Pfeiltasten** oder per **Ziehen/Wischen** (je
@@ -53,16 +56,20 @@ Skins oder Fortsetzungen freizuschalten.
 - Wenn die Kugel beginnt zu **wackeln**, nimm Tempo heraus und bringe sie
   wieder in die Mitte der Bahn.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:going-balls:how-can-i-stop-falling-f572108e -->
 - **F: Wie verhindere ich, dass ich ständig von schmalen Balken falle?**  
   **A:** Reduziere deine Lenkbewegungen und nähere dich Balken möglichst gerade.
   Korrigiere nur mit kleinen Bewegungen nach.
 
+<!-- i18n:faq:id=faq:going-balls:what-do-coins-unlock-in-4a7b7804 -->
 - **F: Wofür sind die Münzen gut?**  
   **A:** Je nach Version kannst du damit neue Kugel-Skins, Extras oder
   Fortsetzungen/Bonus-Level freischalten.
 
+<!-- i18n:faq:id=faq:going-balls:are-there-checkpoints-in-longe-e4d3b8fb -->
 - **F: Gibt es Checkpoints in langen Leveln?**  
   **A:** Viele Stages haben Zwischen-Checkpoints, ab denen du nach einem Sturz
   weiterspielen kannst. In Endlos-Modi gibt es häufig keine Checkpoints.

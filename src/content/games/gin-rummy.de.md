@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Gin Rummy ist ein taktisches Kartenspiel für zwei Spieler, bei dem du deine
@@ -27,6 +28,7 @@ wenn eine Runde endet. Wer klug mitzählt, auf die abgelegten Karten achtet und
 richtig einschätzt, welche Karten der Gegner sammelt, verschafft sich einen
 klaren Vorteil.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Ziel des Spiels**
@@ -75,6 +77,7 @@ klaren Vorteil.
     Gegner gleich viel oder weniger Deadwood, kommt es zum **Undercut** –
     dann bekommt er die Differenz plus einen Bonus.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Gin Rummy wird komplett mit Maus oder Touchscreen gespielt.
@@ -86,17 +89,21 @@ Gin Rummy wird komplett mit Maus oder Touchscreen gespielt.
 *   **Klopfen / Gin gehen:** Wenn du klopfen oder Gin gehen kannst, erscheint
     ein spezieller Knopf. Klicke darauf, um die Runde zu beenden.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:gin-rummy:q-what-is-deadwood-7965a4eb -->
 *   **F: Was ist "Deadwood"?**
     *   **A:** Deadwood sind alle Karten in deiner Hand, die zu keiner Meldung
         gehören. Ihr Gesamtwert sollte so niedrig wie möglich sein.
 
+<!-- i18n:faq:id=faq:gin-rummy:q-should-i-always-take-87b912c5 -->
 *   **F: Soll ich jede Karte vom Ablagestapel nehmen, die ich brauchen könnte?**
     *   **A:** Nur, wenn sie dir wirklich hilft. Nimmst du eine Karte vom
         Ablagestapel, verrätst du deinem Gegner oft, welche Meldung du bauen
         willst.
 
+<!-- i18n:faq:id=faq:gin-rummy:q-what-is-an-undercut-5a7e2506 -->
 *   **F: Was ist ein "Undercut"?**
     *   **A:** Ein Undercut passiert, wenn du klopfst, dein Gegner nach dem
         Anlegen seiner Karten aber den gleichen oder einen niedrigeren

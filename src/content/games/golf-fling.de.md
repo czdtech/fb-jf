@@ -18,6 +18,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Golf Fling ist ein spaßiges, herausforderndes, physikbasiertes Puzzlespiel, das
@@ -27,6 +28,7 @@ schleuderst ihn über fantasievolle Kurse. Dein Ziel ist, den Ball mit so
 wenigen Würfen wie möglich ins Loch zu bringen. Nutze Gelände, Wände und Rampen
 zu deinem Vorteil und meistere die Kunst des perfekten "Flings".
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Sorgfältig zielen**  
@@ -52,23 +54,28 @@ zu deinem Vorteil und meistere die Kunst des perfekten "Flings".
     Jedes Level besitzt ein Par – die erwartete Zahl an Würfen. Versuche, Par
     zu erreichen oder zu unterbieten, um die bestmögliche Wertung zu holen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 *   **Zielen & Kraft setzen:** Klicke auf den Ball und halte die Maustaste
     gedrückt. Ziehe die Maus vom Ball weg, um Richtung und Stärke zu wählen.
 *   **Werfen (Fling):** Lass die Maustaste los, um den Ball zu schleudern.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:golf-fling:q-what-is-the-goal-ab58581b -->
 *   **F: Was ist das Hauptziel des Spiels?**
     *   **A:** Du sollst den Ball in jedem Level mit möglichst wenigen Würfen
         im Loch versenken.
 
+<!-- i18n:faq:id=faq:golf-fling:q-how-do-i-get-4db2f6d0 -->
 *   **F: Wie erreiche ich eine bessere Punktzahl?**
     *   **A:** Deine Wertung hängt davon ab, wie viele Würfe du im Vergleich zum
         Par des Lochs brauchst. Hole-in-one oder unter Par bringen die besten
         Ergebnisse.
 
+<!-- i18n:faq:id=faq:golf-fling:q-can-i-make-the-b0b9a190 -->
 *   **F: Kann ich dem Ball Effet oder Kurve geben?**
     *   **A:** In dieser Art Spiel steuerst du alles über **Ausrichtung und
         Zugkraft** vor dem Wurf. Effet oder Kurve nach dem Loslassen gibt es in
