@@ -20,6 +20,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Puppet Master est un jeu de puzzle basé sur la physique dans lequel tu
@@ -46,6 +47,7 @@ fait une expérience à la fois drôle et exigeante.
     avec des solutions originales qu’avec une approche « logique ».
     N’hésite pas à expérimenter.
 
+<!-- i18n:section:how-to-play -->
 ### Comment jouer
 
 *   **Contrôle du corps :** utilise la souris ou le clavier (selon la
@@ -79,3 +81,4 @@ fait une expérience à la fois drôle et exigeante.
     R : En général, le jeu commence par des niveaux tutoriels assez
     simples puis augmente progressivement la difficulté, ce qui te laisse
     le temps de t’habituer aux contrôles.
+

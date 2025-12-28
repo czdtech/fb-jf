@@ -3,17 +3,18 @@ locale: fr
 urlstr: pixel-shooter
 title: Pixel Shooter
 description: "Pixel Shooter est un shooter arcade rétro en pixel art\_: esquive les projectiles, vise juste et nettoie les vagues d'ennemis à l'écran."
-iframeSrc: 'https://pixelshooter.h5games.usercontent.goog/v/2h3b1cd3k5p40/'
+iframeSrc: 'https://a.onlineigry.net/games3/igra-piksel-shuter/index.htm'
 thumbnail: /new-images/thumbnails/pixel-shooter.jpg
 tags:
   - action
   - shooting
   - arcade
-score: 4.0/5  (1700 votes)
+score: 3.9/5  (682 votes)
 developer: ''
-releaseDate: 2025-10-18T00:00:00.000Z
+releaseDate: 2025-08-16
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Pixel Shooter est un jeu de tir au style pixel art rétro où les joueurs contrôlent un personnage pour combattre des hordes d'ennemis à travers différents niveaux, collectant des bonus et améliorant leurs armes pour survivre. Le jeu attire les joueurs avec ses graphismes pixel classiques et son expérience de tir rapide.
@@ -26,6 +27,7 @@ Pixel Shooter est un jeu de tir au style pixel art rétro où les joueurs contr�
 4.  **Utiliser l'environnement :** certains niveaux peuvent offrir des couvertures ou d'autres éléments environnementaux ; utilise‑les intelligemment pour éviter les dégâts ou tendre des embuscades aux ennemis.
 5.  **Maîtriser les patterns ennemis :** différents ennemis ont différents patterns d'attaque et vitesses de mouvement ; te familiariser avec eux peut t'aider à mieux t'en sortir.
 
+<!-- i18n:section:how-to-play -->
 ### Comment jouer
 
 *   **Déplacement :** généralement utilise les touches ZQSD ou les flèches pour contrôler le mouvement du personnage.
@@ -43,3 +45,4 @@ Pixel Shooter est un jeu de tir au style pixel art rétro où les joueurs contr�
     **R :** Certaines versions de jeux de type pixel shooter peuvent supporter le mode coop local ou en ligne, où les joueurs peuvent faire équipe avec des amis pour combattre les ennemis.
 4.  **Q : À quoi servent les « packs de vie » dans le jeu ?**
     **R :** Les packs de vie restaurent la santé de ton personnage, t'aidant à survivre pendant les batailles intenses.
+

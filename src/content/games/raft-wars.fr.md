@@ -21,6 +21,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Raft Wars est un jeu de tir stratégique au tour par tour dans lequel tu
@@ -47,6 +48,7 @@ leurs radeaux dans l’eau.
 5.  **Améliorer l’équipement :** au fil du jeu, débloque des armes et
     objets plus puissants pour renforcer ta puissance de feu.
 
+<!-- i18n:section:how-to-play -->
 ### Comment jouer
 
 *   **Viser :** utilise la souris pour régler l’angle de tir, souvent en
@@ -76,3 +78,4 @@ leurs radeaux dans l’eau.
 4.  **Q : Que se passe‑t‑il si mon personnage tombe à l’eau ?**  
     R : S’il est projeté dans l’eau, tu perds généralement de la
     santé ou dois recommencer le niveau, selon la version.
+

@@ -20,6 +20,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Pou Game est un jeu de simulation d’animal virtuel où tu adoptes et éduques
@@ -47,6 +48,7 @@ temps avec ton Pou.
     quotidiennes, c’est la clé pour pouvoir acheter davantage d’objets et
     d’options de personnalisation.
 
+<!-- i18n:section:how-to-play -->
 ### Comment jouer
 
 *   **Icônes à l’écran :** les icônes en bas représentent l’alimentation,
@@ -81,3 +83,4 @@ temps avec ton Pou.
     R : La plupart des actions de base peuvent se jouer hors ligne, mais
     certains achats, classements en ligne ou mises à jour peuvent exiger
     une connexion.
+

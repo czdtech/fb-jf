@@ -19,6 +19,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Rampage Road combine vue de dessus et combats motorisés façon arcade. Tu
@@ -26,6 +27,7 @@ dois te frayer un chemin dans la circulation, gérer tes munitions ou temps
 de recharge et neutraliser des cibles tout en gardant ton véhicule en un
 seul morceau à travers des vagues d’ennemis.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu
 
 1.  **Tracer des trajectoires propres :** reste dans des voies avec des
@@ -40,6 +42,7 @@ seul morceau à travers des vagues d’ennemis.
 5.  **Garder des échappatoires :** conserve boosts ou boucliers pour les
     urgences et les situations critiques.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - Conduite : A/D ou Gauche/Droite ; accélérer/freiner avec W/S ou
@@ -47,16 +50,21 @@ seul morceau à travers des vagues d’ennemis.
 - Tir : clic ou barre d’espace selon la version ; tir secondaire sur une
   autre touche si disponible.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:rampage-road:i-explode-fastwhy-867ef31c -->
 - **J’explose très vite, pourquoi ?**  
   Tu échanges trop de coups avec les véhicules autour de toi. Donne la
   priorité à l’esquive plutôt qu’aux éliminations.
 
+<!-- i18n:faq:id=faq:rampage-road:ammo-limited-9be95bd9 -->
 - **Les munitions sont‑elles limitées ?**  
   Dans beaucoup de modes, oui. Utilise des rafales et choisis bien le
   moment de recharger.
 
+<!-- i18n:faq:id=faq:rampage-road:boss-fights-c780a1e7 -->
 - **Y a‑t‑il des combats de boss ?**  
   Certaines vagues montent clairement en intensité ; garde des boosts et
   un peu d’espace pour manœuvrer.
+

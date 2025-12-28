@@ -3,21 +3,23 @@ locale: fr
 urlstr: pirates-match-3
 title: Pirates Match 3
 description: "Pirates Match 3 est un match‑3 à thème pirate\_: aligne des symboles, charge des bonus et remplis les objectifs pour faire voguer ton équipage vers le trésor."
-iframeSrc: 'https://piratesmatch3.h5games.usercontent.goog/v/5p5lhv6jaq7i8/'
+iframeSrc: 'https://piratesmatch3.h5games.usercontent.goog/v/fea2f25f-a39a-4273-93c1-38f8f9bd8260/'
 thumbnail: /new-images/thumbnails/pirates-match-3.jpg
 tags:
   - puzzle
   - casual
   - match-3
-score: 4.2/5  (1850 votes)
+score: 4.3/5  (2150 votes)
 developer: ''
-releaseDate: 2025-10-18T00:00:00.000Z
+releaseDate: 2025-10-17
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation détaillée
 
 Pirates Match 3 est un jeu de puzzle match‑3 classique avec un thème pirate flamboyant. Les joueurs plongent dans un monde de cartes au trésor et de butin pirate, échangeant des icônes colorées sur le thème pirate comme des têtes de mort, ancres, roues de navire et pièces. L'objectif est de créer des lignes de trois éléments identiques ou plus pour compléter des objectifs spécifiques à chaque niveau, comme atteindre un score cible ou nettoyer des tuiles spéciales, le tout avec un nombre de coups limité.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu et progression
 
 1.  **Créer des bonus :** la clé pour réussir les niveaux difficiles est de créer des objets spéciaux en alignant plus de trois pièces.
@@ -29,19 +31,25 @@ Pirates Match 3 est un jeu de puzzle match‑3 classique avec un thème pirate f
 3.  **Se concentrer sur l'objectif :** sois toujours conscient de l'objectif du niveau. Si tu dois casser toutes les planches de bois en arrière‑plan, concentre tes matches sur ces tuiles spécifiques. Si tu dois faire descendre un objet en bas, dégage le chemin en dessous.
 4.  **Planifier tes coups :** avec un nombre limité de coups par niveau, chaque échange compte. Cherche des coups qui créeront une cascade ou prépareront une future combinaison de bonus.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 Le jeu se joue avec de simples contrôles souris ou tactiles.
 
 *   **Échanger des objets :** clique et fais glisser un objet pour l'échanger avec un adjacent. Un échange n'est valide que s'il crée un match de trois ou plus.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:pirates-match-3:q-how-do-i-break-0dfb6279 -->
 *   **Q : Comment casser les planches de bois ou les chaînes ?**
     *   **R :** Tu dois faire un match sur la planche ou inclure l'objet enchaîné dans un match. Il peut falloir plus d'un match pour nettoyer complètement certains obstacles.
 
+<!-- i18n:faq:id=faq:pirates-match-3:q-what-is-the-best-a36d5cd7 -->
 *   **Q : Quelle est la meilleure combinaison de bonus ?**
     *   **R :** Échanger deux bonus « Match 5 en ligne » est généralement le plus puissant, car cela efface tout le plateau. Une bombe combinée avec un effaceur de ligne est aussi extrêmement efficace.
 
+<!-- i18n:faq:id=faq:pirates-match-3:q-what-happens-if-i-63c9772b -->
 *   **Q : Que se passe‑t‑il si je n'ai plus de coups ?**
     *   **R :** Si tu échoues à compléter l'objectif du niveau avant de manquer de coups, tu devras recommencer le niveau.
+

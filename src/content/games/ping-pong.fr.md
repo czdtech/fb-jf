@@ -3,17 +3,18 @@ locale: fr
 urlstr: ping-pong
 title: Ping Pong
 description: "Ping Pong est une adaptation rétro du jeu de raquette classique\_: renvoie la balle, anticipe les angles et tente de marquer sans laisser passer le moindre tir."
-iframeSrc: 'https://4spl3e8dr98t4.h5games.usercontent.goog/v/3r1e099l8q9h8/'
+iframeSrc: 'https://ranimania.com/Games/pingpong/ping_pong/'
 thumbnail: /new-images/thumbnails/ping-pong.jpg
 tags:
   - arcade
   - sports
   - classic
-score: 3.8/5  (1200 votes)
+score: 4.6/5  (193 votes)
 developer: ''
-releaseDate: 2025-10-18T00:00:00.000Z
+releaseDate: 2025-08-16
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Ping Pong est un jeu d'arcade sportif classique. Deux joueurs (ou un joueur contre l'IA) contrôlent chacun une raquette pour renvoyer une balle de part et d'autre de l'écran, avec l'objectif de marquer des points en faisant rater la balle à l'adversaire. Le jeu est connu pour son gameplay simple et intuitif et son rythme rapide, ce qui en fait un excellent choix pour le divertissement décontracté et les matchs compétitifs.
@@ -25,6 +26,7 @@ Ping Pong est un jeu d'arcade sportif classique. Deux joueurs (ou un joueur cont
 3.  **Anticiper l'adversaire :** observe les habitudes de frappe et les schémas de mouvement de ton adversaire pour prédire où la balle va atterrir.
 4.  **Équilibrer attaque et défense :** en défendant, cherche les opportunités de frapper des coups difficiles à renvoyer pour ton adversaire.
 
+<!-- i18n:section:how-to-play -->
 ### Comment jouer
 
 *   **Déplacer la raquette :** généralement, utilise les touches fléchées du clavier (haut/bas) ou la souris pour contrôler le mouvement vertical de la raquette sur l'écran.
@@ -39,3 +41,4 @@ Ping Pong est un jeu d'arcade sportif classique. Deux joueurs (ou un joueur cont
     **R :** La puissance de frappe de la raquette est généralement fixe, mais tu peux influencer la vitesse et l'angle de la balle en changeant le point de contact.
 4.  **Q : Ce jeu peut‑il être joué en mode deux joueurs ?**
     **R :** Oui, les jeux de Ping Pong classiques supportent généralement le multijoueur local pour deux joueurs sur le même appareil.
+

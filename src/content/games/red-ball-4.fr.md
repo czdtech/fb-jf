@@ -21,6 +21,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Red Ball 4 est un jeu de plateforme basé sur la physique dans lequel tu
@@ -46,6 +47,7 @@ l’inertie, les rebonds et le roulis de la balle pour avancer.
     interrupteurs et autres systèmes pour ouvrir des passages ou activer
     des plateformes.
 
+<!-- i18n:section:how-to-play -->
 ### Comment jouer
 
 *   **Se déplacer :** utilise les flèches gauche et droite pour déplacer la
@@ -55,6 +57,7 @@ l’inertie, les rebonds et le roulis de la balle pour avancer.
 *   **Rouler :** laisse la gravité te faire rouler dans les pentes, ou
     garde une direction enfoncée pour gagner de la vitesse.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions
 
 1.  **Q : Comment vaincre les ennemis carrés ?**  

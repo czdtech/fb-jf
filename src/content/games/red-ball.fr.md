@@ -22,6 +22,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Red Ball est le jeu fondateur de la série, un platformer basé sur la
@@ -46,6 +47,7 @@ niveau en un seul morceau.
 5.  **Explorer et collectionner :** cherche les objets cachés et les
     étoiles pour augmenter ton score global.
 
+<!-- i18n:section:how-to-play -->
 ### Comment jouer
 
 *   **Se déplacer :** utilise les flèches gauche et droite pour contrôler
@@ -74,3 +76,4 @@ niveau en un seul morceau.
 4.  **Q : Y a‑t‑il une limite de temps ?**  
     R : La plupart des niveaux n’imposent pas de chrono strict, mais finir
     vite peut améliorer ta note finale.
+

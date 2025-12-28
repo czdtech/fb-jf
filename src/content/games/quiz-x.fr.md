@@ -19,6 +19,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Quiz x enchaîne des questions à réponse rapide sur la culture générale, des
@@ -27,6 +28,7 @@ rapidité et exactitude ; des séries de bonnes réponses te donnent des
 bonus. Une pensée large et l’élimination des mauvaises options valent mieux
 qu’une hyper‑spécialisation.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu
 
 1.  **Éliminer d’abord :** supprime mentalement les propositions
@@ -43,22 +45,28 @@ qu’une hyper‑spécialisation.
     (couleurs d’un drapeau, silhouette d’un monument, caractéristiques
     d’un animal, etc.).
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - Clique pour choisir tes réponses. Certaines versions proposent des
   raccourcis clavier. Profite des pauses entre les manches lorsqu’elles
   sont disponibles.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:quiz-x:i-freeze-on-tough-questions-28c454ad -->
 - **Q : Je bloque sur les questions difficiles.**  
   R : Utilise la méthode par élimination et choisis l’option la plus
   plausible. Si possible, passe la question pour protéger ta série.
 
+<!-- i18n:faq:id=faq:quiz-x:picture-questions-stump-me-a21adfaf -->
 - **Q : Les questions avec images me posent problème.**  
   R : Apprends quelques drapeaux et monuments célèbres, et entraîne‑toi à
   repérer les formes et couleurs inhabituelles.
 
+<!-- i18n:faq:id=faq:quiz-x:multiplayer-fc9199ff -->
 - **Q : Y a‑t‑il un mode multijoueur ?**  
   R : Certaines versions proposent des duels en ligne. Consulte les règles
   du salon ou du mode en question.
+

@@ -14,6 +14,7 @@ developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Pokemon Fire Red est un remake fidèle du jeu Pokémon Rouge original. Les joueurs se lancent dans une aventure à travers la région de Kanto, capturant et entraînant des Pokémon, combattant les Champions d'Arène et déjouant les plans de la Team Rocket avec l'objectif ultime de devenir le Champion de la Ligue Pokémon. Le jeu conserve l'histoire classique et le gameplay de l'original, avec des améliorations visuelles et fonctionnelles de l'ère GBA.
@@ -26,6 +27,7 @@ Pokemon Fire Red est un remake fidèle du jeu Pokémon Rouge original. Les joueu
 4.  **Défier les Arènes :** bats les huit Champions d'Arène et collecte tous les badges, qui sont nécessaires pour entrer dans la Ligue Pokémon.
 5.  **Affronter la Team Rocket :** tout au long de ton aventure, tu rencontreras à plusieurs reprises la Team Rocket ; déjoue leurs plans maléfiques.
 
+<!-- i18n:section:how-to-play -->
 ### Comment jouer
 
 *   **Déplacement :** utilise les touches fléchées pour contrôler le mouvement du personnage.
@@ -44,3 +46,4 @@ Pokemon Fire Red est un remake fidèle du jeu Pokémon Rouge original. Les joueu
     **R :** Dans la région de Kanto, les joueurs peuvent capturer des Pokémon Légendaires comme Sulfura, Électhor, Artikodin et Mewtwo.
 4.  **Q : Quelles sont les différences entre Fire Red et Leaf Green ?**
     **R :** Fire Red et Leaf Green sont deux versions de la même génération de jeux, les principales différences étant les types et les taux de rencontre de certains Pokémon sauvages, ainsi que les dialogues de certains PNJ.
+

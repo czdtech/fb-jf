@@ -17,6 +17,7 @@ developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Paper Minecraft est une version 2D de Minecraft qui transpose le bac à sable dans un monde à défilement horizontal. Tu peux explorer, miner des ressources, fabriquer des objets, construire des structures et survivre aux monstres qui apparaissent dans l'obscurité. Le jeu conserve l'ADN du Minecraft original tout en proposant une approche plus simple à lire en 2D.
@@ -29,6 +30,7 @@ Paper Minecraft est une version 2D de Minecraft qui transpose le bac à sable da
 4.  **Explorer et découvrir :** pars à la recherche de nouveaux biomes, de grottes cachées, de coffres et de veines de minerais rares.
 5.  **Cultiver et élever :** mets en place des cultures pour la nourriture et élève des animaux pour la viande, le cuir et d'autres ressources.
 
+<!-- i18n:section:how-to-play -->
 ### Comment jouer
 
 - **Déplacement :** touches A/D ou flèches gauche/droite.
@@ -37,6 +39,7 @@ Paper Minecraft est une version 2D de Minecraft qui transpose le bac à sable da
 - **Placer des blocs :** sélectionne un bloc dans l'inventaire puis clique droit pour le poser.
 - **Inventaire / craft :** touche E pour ouvrir l'inventaire, gérer les objets et crafter.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
 - **Q : En quoi Paper Minecraft diffère‑t‑il du Minecraft original ?**
@@ -50,3 +53,4 @@ Paper Minecraft est une version 2D de Minecraft qui transpose le bac à sable da
 
 - **Q : Le jeu a‑t‑il des dimensions comme le Nether ou l'End ?**
   **R :** En tant que réinterprétation 2D, il n'inclut généralement pas toutes les dimensions de l'original, mais il peut y avoir des versions simplifiées ou adaptées.
+

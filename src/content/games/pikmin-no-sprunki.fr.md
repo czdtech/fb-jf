@@ -7,8 +7,10 @@ iframeSrc: "https://img.sprunki.net/game/pikmin-no-sprunki.html"
 thumbnail: /new-images/thumbnails/pikmin-no-sprunki.png
 tags: ["pikmin no sprunki"]
 score: "4.0/5  (89 votes)"
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 Pikmin No Sprunki imagine la rencontre entre l’univers décalé de Pikmin et la création musicale façon Sprunki/Incredibox. Ce jeu Scratch te permet de composer tes propres morceaux à partir de personnages et de sons inspirés de Pikmin, dans un véritable bac à sable audio‑visuel.
 
 ### Qu’est‑ce que Pikmin No Sprunki ?
@@ -26,4 +28,5 @@ Tu deviens producteur de musique : tu choisis des personnages, leur attribues d
 ### En résumé
 
 Pikmin No Sprunki est moins un « jeu à objectifs » qu’un petit studio créatif interactif. Si tu apprécies Incredibox, Sprunki ou l’univers de Pikmin, c’est un terrain de jeu idéal pour expérimenter des mixes originaux et les partager.
+
 

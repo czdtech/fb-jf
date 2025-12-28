@@ -20,6 +20,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Ragdoll Archers est un jeu de tir à l’arc où les personnages se comportent
@@ -43,6 +44,7 @@ souvent très drôle.
 5.  **Réagir vite :** le rythme peut être soutenu ; prends des décisions
     rapides sur la visée et le déclenchement du tir.
 
+<!-- i18n:section:how-to-play -->
 ### Comment jouer
 
 *   **Viser :** généralement, tu fais glisser la souris pour ajuster
@@ -70,3 +72,4 @@ souvent très drôle.
 4.  **Q : Le nombre de flèches est‑il limité ?**  
     R : Cela dépend du mode : certains imposent un nombre de flèches
     restreint tandis que d’autres t’autorisent des tirs illimités.
+

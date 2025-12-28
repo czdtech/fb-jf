@@ -20,6 +20,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 QWOP Game est un jeu de course basé sur la physique, devenu célèbre pour
@@ -74,3 +75,4 @@ déjà hilarant et très difficile.
     R : Oui, QWOP a été pensé pour illustrer la complexité du mouvement
     humain : même la course « simple » demande en réalité une coordination
     extrêmement précise.
+

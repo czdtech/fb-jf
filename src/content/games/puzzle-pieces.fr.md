@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Puzzle Pieces est un jeu de remplissage de formes très sobre. Tu dois faire
@@ -24,6 +25,7 @@ glisser et faire pivoter des polyominos pour remplir exactement chaque
 plateau, en gérant l’espace limité et les orientations possibles à mesure
 que les grilles deviennent plus complexes.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu
 
 1.  **Placer les pièces de référence :** commence par les formes grandes ou
@@ -38,6 +40,7 @@ que les grilles deviennent plus complexes.
 5.  **Ne pas hésiter à annuler :** utilise la fonction retour en arrière
     plutôt que de forcer un mauvais placement qui te bloquera plus tard.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - Fais glisser pour déplacer les pièces ; fais‑les pivoter via un clic, un
@@ -45,15 +48,20 @@ que les grilles deviennent plus complexes.
 - **Annuler / Réinitialiser :** corrige rapidement tes erreurs ; dans la
   plupart des modes, cela n’entraîne aucune pénalité.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:puzzle-pieces:a-piece-never-fitsbug-03363afc -->
 - **Une pièce ne semble jamais rentrer, c’est un bug ?**  
   En général, c’est un problème d’orientation ou de placement. Essaie
   d’autres rotations ou reconstruis tes bords.
 
+<!-- i18n:faq:id=faq:puzzle-pieces:timers-f7f052c1 -->
 - **Y a‑t‑il un chrono ?**  
   Cela dépend des versions, mais la plupart des modes sont assez relax.
 
+<!-- i18n:faq:id=faq:puzzle-pieces:hints-27c5017f -->
 - **Des indices sont‑ils disponibles ?**  
   Beaucoup de versions proposent des indices. Utilise‑les avec parcimonie
   pour conserver le plaisir de la réflexion.
+
