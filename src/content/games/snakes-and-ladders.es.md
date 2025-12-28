@@ -17,6 +17,7 @@ score: 4.2/5  (1342 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 Snakes and Ladders es un juego de mesa clásico, conocido en algunos países como
@@ -25,6 +26,7 @@ que los jugadores compiten por ser los primeros en llegar a la casilla final del
 tablero. El camino está lleno de altibajos: las escaleras te acercan a la meta,
 pero las serpientes te harán caer varias casillas hacia atrás.
 
+<!-- i18n:section:tips -->
 ### Guía de juego
 
 El objetivo es ser el primer jugador en llegar a la casilla final (normalmente
@@ -33,11 +35,13 @@ de casillas indicado. Si caes en una casilla con el inicio de una escalera,
 subes inmediatamente hasta la casilla de arriba. Si caes en una casilla con la
 cabeza de una serpiente, desciendes hasta la casilla de su cola.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - **Ratón/Táctil:** Haz clic o toca en la zona indicada para lanzar el dado. El
   juego moverá tu ficha automáticamente.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
 **¿Cuál es el objetivo principal de Snakes and Ladders?**

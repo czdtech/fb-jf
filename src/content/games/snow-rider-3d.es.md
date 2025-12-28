@@ -19,6 +19,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 Snow Rider 3D es un juego de acción rápido con temática invernal en el que te
@@ -36,13 +37,17 @@ saltar grandes bloques de obstáculos o grupos de árboles. Por el camino podrá
 recoger regalos que luego te servirán para desbloquear trineos más llamativos en
 la tienda.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `A` `Left Arrow` `D` `Right Arrow` `W` `Up Arrow`
 
 Los controles son sencillos y responden bien:
-- **Girar a la izquierda:** Tecla `A` o Flecha izquierda.
-- **Girar a la derecha:** Tecla `D` o Flecha derecha.
-- **Saltar:** Tecla `W` o Flecha arriba.
+- **Girar a la izquierda:** Tecla A o Flecha izquierda.
+- **Girar a la derecha:** Tecla D o Flecha derecha.
+- **Saltar:** Tecla W o Flecha arriba.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
 **¿Cuál es el objetivo principal de Snow Rider 3D?**
@@ -61,3 +66,4 @@ Prioriza la supervivencia. Haz movimientos cortos y controlados en lugar de
 cambios bruscos, mira lejos para anticipar el terreno y no arriesgues demasiado
 solo por un regalo. Dominar la sincronización de los saltos también es clave para superar
 las secciones más complicadas.
+

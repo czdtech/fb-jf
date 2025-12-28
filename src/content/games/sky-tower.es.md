@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Sky Tower te reta a dejar caer pisos móviles sobre una torre en crecimiento. Si
@@ -24,6 +25,7 @@ no los alineas bien, las partes que sobresalen se cortan y la plataforma se
 hace cada vez más pequeña. Una buena sincronización genera torres altas y estables; la
 imprecisión hace que los pisos se encojan y la partida termine pronto.
 
+<!-- i18n:section:tips -->
 ### Estrategias de juego y recorrido
 
 1.  **Usa una referencia central:** Alinea los pisos con algún elemento del
@@ -38,25 +40,31 @@ imprecisión hace que los pisos se encojan y la partida termine pronto.
 5.  **Prioriza la estabilidad:** Ignora monedas u objetivos secundarios cuando la
     torre esté tambaleante; primero estabiliza la base.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - **Soltar piso:** Toca o haz clic para dejar caer la plataforma.
 - **Pausa/Repetir:** Usa los botones de la interfaz.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:sky-tower:my-tower-shrinks-fast-b1c4d991 -->
 - **P: Mi torre se encoge muy rápido.**
   
   **R:** Seguramente estás soltando demasiado pronto o demasiado tarde sin una
   referencia fija. Usa siempre el mismo punto visual para ajustar el momento del
   toque.
 
+<!-- i18n:faq:id=faq:sky-tower:any-way-to-recover-d502538f -->
 - **P: ¿Puedo recuperar el ancho después de varios cortes malos?**
   
   **R:** Sí. Encadena varios pisos casi perfectos en el centro para volver a
   ensanchar ligeramente la base.
 
+<!-- i18n:faq:id=faq:sky-tower:is-speed-important-fcd4f607 -->
 - **P: ¿Es importante ir rápido?**
   
   **R:** No tanto como ser preciso. La altura viene de muchos pisos bien
   centrados, no de ir a toda prisa.
+

@@ -18,6 +18,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 "Slope 2" continúa la fórmula del Slope original: controlas una bola que rueda
@@ -38,6 +39,7 @@ batir tus propios récords.
 5.  **Mantén la concentración:** Un segundo de distracción suele ser suficiente
     para perder el control y caer.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 *   **Mover izquierda/derecha:** Teclas A/D o flechas izquierda/derecha para
@@ -47,6 +49,7 @@ batir tus propios récords.
 *   **Salto:** Algunas versiones permiten saltar con barra espaciadora o flecha
     arriba.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes
 
 1.  **P: ¿Cómo aumento mi tiempo de supervivencia?**
@@ -61,3 +64,4 @@ batir tus propios récords.
 4.  **P: ¿Se guardan los récords?**
     **R:** Sí, el juego registra tu mejor puntuación para que puedas intentar
     superarla.
+

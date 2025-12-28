@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 "Retro Bowl" es un juego de fútbol americano con aire nostálgico y gráficos de
@@ -39,6 +40,7 @@ experiencia de fútbol bastante completa.
 5.  **Planifica la temporada:** Piensa a largo plazo: desarrolla a los jugadores
     jóvenes, refuerza posiciones clave y pelea por entrar en los playoffs.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 *   **Pase:** Arrastra para apuntar hacia el receptor y suelta para lanzar el
@@ -50,6 +52,7 @@ experiencia de fútbol bastante completa.
 *   **Selección de tácticas:** Elige diferentes jugadas ofensivas y, según la
     versión, también ajustes defensivos durante los partidos.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes
 
 1.  **P: ¿Cómo mejoro la precisión de los pases?**
@@ -65,3 +68,4 @@ experiencia de fútbol bastante completa.
     **R:** Sí, las lesiones pueden afectar el rendimiento o dejar fuera a
     jugadores clave, así que rota bien la plantilla y ten siempre recambios
     preparados.
+

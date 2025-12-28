@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Solitaire Classic, también conocido como Klondike, es uno de los juegos de
@@ -26,6 +27,7 @@ ascendente de As a Rey. El juego exige estrategia, paciencia y algo de suerte
 mientras manipulas las cartas del tablero para descubrir cartas ocultas y
 construir tus fundaciones.
 
+<!-- i18n:section:tips -->
 ### Estrategias de juego y recorrido
 
 1.  **Componentes del juego:**
@@ -52,6 +54,7 @@ construir tus fundaciones.
     *   **Columnas vacías:** Solo puedes mover un Rey (o una secuencia que
         empiece por Rey) a una columna vacía.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 *   **Mover cartas:** Haz clic y arrastra una carta (o una secuencia válida) de
@@ -62,18 +65,23 @@ construir tus fundaciones.
     clic en una carta para que se mueva automáticamente a la fundación si es un
     movimiento válido.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:solitaire-classic:q-what-is-the-goal-ab58581b -->
 *   **P: ¿Cuál es el objetivo del juego?**
     *   **R:** Llevar las 52 cartas a las cuatro pilas de fundación, ordenadas
         por palo de As a Rey.
 
+<!-- i18n:faq:id=faq:solitaire-classic:q-what-happens-when-i-e8e69d77 -->
 *   **P: ¿Qué pasa si me quedo sin movimientos?**
     *   **R:** Si no puedes hacer más jugadas en el tableau o en las fundaciones,
         debes robar del mazo. Si el mazo también se agota y no hay movimientos
         posibles, la partida se considera perdida.
 
+<!-- i18n:faq:id=faq:solitaire-classic:q-can-i-move-cards-a79d9fc6 -->
 *   **P: ¿Puedo devolver cartas de la fundación al tablero?**
     *   **R:** En la mayoría de versiones sí. Puedes devolver la carta superior
         de una fundación al tableau si eso te ayuda a desbloquear otras cartas.
         A menudo es una jugada clave para ganar partidas complicadas.
+

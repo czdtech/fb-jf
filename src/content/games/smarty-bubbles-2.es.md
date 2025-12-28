@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Smarty Bubbles 2 continúa la diversión del clásico bubble shooter con un aspecto
@@ -26,6 +27,7 @@ más del mismo color. Esta secuela te obliga a pensar de forma estratégica para
 crear grandes reacciones en cadena y completar cada fase, todo mientras
 administras tus disparos para que el techo no descienda.
 
+<!-- i18n:section:tips -->
 ### Estrategias de juego y recorrido
 
 1.  **Evita los disparos fallidos:** Igual que en el original, la clave es que
@@ -43,6 +45,7 @@ administras tus disparos para que el techo no descienda.
     un disparo menos óptimo ahora para preparar el tiro perfecto con la
     siguiente.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 *   **Apuntar:** Mueve el ratón para orientar el cañón. Una guía te muestra la
@@ -50,18 +53,23 @@ administras tus disparos para que el techo no descienda.
 *   **Disparar:** Haz clic con el botón izquierdo del ratón para lanzar la
     burbuja.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:smarty-bubbles-2:q-why-did-a-new-be29edcb -->
 *   **P: ¿Por qué ha aparecido una fila nueva de burbujas?**
     *   **R:** Has realizado demasiados disparos seguidos sin explotar ninguna
         burbuja. Tras un número fijo de fallos el juego añade una nueva fila
         desde arriba.
 
+<!-- i18n:faq:id=faq:smarty-bubbles-2:q-what-is-the-goal-ab58581b -->
 *   **P: ¿Cuál es el objetivo del juego?**
     *   **R:** Eliminar todas las burbujas del tablero para completar el nivel y
         pasar al siguiente.
 
+<!-- i18n:faq:id=faq:smarty-bubbles-2:q-how-do-i-get-73fd7840 -->
 *   **P: ¿Cómo consigo una puntuación alta?**
     *   **R:** Superando los niveles de forma eficiente y provocando caídas
         masivas de burbujas. Cuantas más elimines de una sola vez, más puntos
         obtendrás.
+

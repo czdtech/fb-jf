@@ -15,6 +15,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Secret Agent mezcla sigilo con pequeños puzles de rutas. Tendrás que desactivar
@@ -22,6 +23,7 @@ cámaras, esquivar conos de visión, hackear puertas y recopilar información an
 de llegar al punto de extracción. Un buen trazado y un uso inteligente de los
 gadgets valen mucho más que la fuerza bruta.
 
+<!-- i18n:section:tips -->
 ### Estrategias de juego y recorrido
 
 1.  **Conos de visión:** Muévete solo cuando los conos de los guardias estén
@@ -35,6 +37,7 @@ gadgets valen mucho más que la fuerza bruta.
 5.  **Falla hacia delante:** Si te detectan, rompe la línea de visión y
     escóndete; no entres en pánico corriendo a lo loco por el mapa.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - **Moverse:** WASD o flechas.
@@ -42,19 +45,24 @@ gadgets valen mucho más que la fuerza bruta.
 - **Interactuar:** Usa la tecla indicada para terminales y puertas.
 - **Reiniciar:** Desde el menú o botón en pantalla.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:secret-agent:im-always-spotted-afdb7849 -->
 - **P: Siempre me detectan, ¿qué hago mal?**
   
   **R:** Estudia los ciclos de patrulla y muévete siguiendo un ritmo fijo. Usa
   coberturas para pasar de una a otra sin quedar expuesto.
 
+<!-- i18n:faq:id=faq:secret-agent:gadgets-feel-scarce-dd404211 -->
 - **P: Siento que los gadgets son muy escasos.**
   
   **R:** Están pensados para romper solo las situaciones imposibles. En el resto
   de salas apóyate sobre todo en la sincronización y el posicionamiento.
 
+<!-- i18n:faq:id=faq:secret-agent:can-i-ghost-levels-337f3b17 -->
 - **P: ¿Puedo completar niveles sin que me vean?**
   
   **R:** Sí, muchas versiones dan recompensas extra si terminas un nivel sin
   ninguna detección.
+

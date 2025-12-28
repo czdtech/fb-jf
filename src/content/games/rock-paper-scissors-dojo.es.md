@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Rock Paper Scissors Dojo lleva el clásico piedra‑papel‑tijera a un terreno más
@@ -24,6 +25,7 @@ tendencias de tu rival (por ejemplo, repetir jugada tras ganar o cambiar tras
 perder) y responder con mezclas de elecciones que eviten que te vuelvan
 predecible.
 
+<!-- i18n:section:tips -->
 ### Estrategias de juego y recorrido
 
 1.  **Mezcla base:** Empieza con una distribución equilibrada y casi aleatoria
@@ -40,24 +42,30 @@ predecible.
     las rondas decisivas, evitando riesgos innecesarios cuando el marcador está
     ajustado.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - **Elegir jugada:** En cada ronda selecciona piedra, papel o tijera. Muchas
   versiones permiten también modo 2 jugadores en el mismo dispositivo.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:rock-paper-scissors-dojo:isnt-rps-random-bad2327f -->
 - **P: ¿No es todo cuestión de azar en piedra‑papel‑tijera?**
   
   **R:** Los humanos solemos tener sesgos y patrones. Detectarlos y explotarlos
   aumenta tu tasa de victorias a lo largo de muchas rondas.
 
+<!-- i18n:faq:id=faq:rock-paper-scissors-dojo:any-unbeatable-strategy-a4b15560 -->
 - **P: ¿Existe una estrategia imbatible?**
   
   **R:** No hay estrategia perfecta, pero una mezcla equilibrada y una rápida
   adaptación a los patrones del rival son enfoques muy sólidos.
 
+<!-- i18n:faq:id=faq:rock-paper-scissors-dojo:twoplayer-bff3ba91 -->
 - **P: ¿Se puede jugar a dos jugadores?**
   
   **R:** Muchas versiones incluyen modo 2P local para jugar en el mismo
   dispositivo.
+

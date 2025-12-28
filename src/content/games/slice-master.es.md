@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 "Slice Master" es un juego basado en físicas donde controlas un cuchillo que va
@@ -37,6 +38,7 @@ superas circuitos llenos de trampas.
 5.  **Recoge mejoras:** No olvides recoger monedas y objetos especiales que
     aparezcan en el nivel; te ayudarán a potenciar tus habilidades.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 *   **Control de dirección:** Normalmente usarás el ratón o la pantalla táctil
@@ -45,6 +47,7 @@ superas circuitos llenos de trampas.
 *   **Ajuste de ángulo:** Arrastra para modificar el ángulo y la trayectoria del
     cuchillo.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes
 
 1.  **P: ¿Cómo consigo cortes perfectos?**
@@ -59,3 +62,4 @@ superas circuitos llenos de trampas.
 4.  **P: ¿Cómo mejoro mi puntuación?**
     **R:** Mantén combos largos de cortes acertados, recoge objetos de premio y
     evita choques para conservar el multiplicador de puntos.
+

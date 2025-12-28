@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 "Rooftop Snipers 2" es un juego de disparos con físicas muy locas en el que dos
@@ -40,6 +41,7 @@ cómicos.
 5.  **Juega con la mente del rival:** Usa amagos, saltos y movimientos falsos
     para forzar disparos precipitados y abrir huecos para tus ataques.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 *   **Movimiento:** Usa las teclas izquierda y derecha para desplazar al
@@ -51,6 +53,7 @@ cómicos.
 *   **Cambiar de arma:** En algunos modos podrás alternar entre diferentes armas
     durante la partida.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes
 
 1.  **P: ¿Cómo evito caerme del tejado?**
@@ -66,3 +69,4 @@ cómicos.
 4.  **P: ¿Hay distintos mapas?**
     **R:** Normalmente incluye varias azoteas y escenarios diferentes, cada uno
     con su propio diseño y desafíos.
+

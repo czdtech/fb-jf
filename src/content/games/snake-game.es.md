@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 "Snake Game" es el juego de la serpiente de toda la vida. Controlas una
@@ -38,6 +39,7 @@ uno de los clásicos más reconocibles de la historia del videojuego.
 5.  **Gestiona el cuerpo:** Cuando la serpiente sea muy larga, presta atención a
     cómo se enrolla. Un mal giro puede hacer que te encierres.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 *   **Mover arriba:** Flecha arriba o tecla W.
@@ -45,6 +47,7 @@ uno de los clásicos más reconocibles de la historia del videojuego.
 *   **Mover izquierda:** Flecha izquierda o tecla A.
 *   **Mover derecha:** Flecha derecha o tecla D.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes
 
 1.  **P: ¿La velocidad de la serpiente cambia?**
@@ -59,3 +62,4 @@ uno de los clásicos más reconocibles de la historia del videojuego.
 4.  **P: ¿Hay diferentes modos de juego?**
     **R:** Las versiones clásicas suelen tener un único modo, pero las modernas
     a veces incluyen variantes y desafíos adicionales.
+

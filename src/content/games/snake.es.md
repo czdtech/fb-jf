@@ -18,6 +18,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 Snake es un juego arcade clásico en el que controlas una línea que crece a
@@ -33,14 +34,18 @@ haciendo más grande y, en muchas versiones, también más rápida. La partida
 termina en cuanto golpeas un obstáculo. Tu meta es lograr la máxima puntuación
 posible comiendo tanta comida como puedas antes de colisionar.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `W` `A` `S` `D` `Spacebar`
 
 Los controles suelen ser muy simples:
 - **Flechas:** Usa las flechas arriba, abajo, izquierda y derecha para dirigir la
   serpiente.
-- **WASD:** Muchas versiones también admiten `W`, `A`, `S`, `D` como alternativa.
+- **WASD:** Muchas versiones también admiten W, A, S, D como alternativa.
 - **Pausa:** La barra espaciadora suele servir para pausar y reanudar la partida.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
 **¿Cuál es el objetivo principal de Snake?**
@@ -59,3 +64,4 @@ adelantado.
 
 El concepto nació con el arcade "Blockade" de 1976, pero se hizo mundialmente
 famoso al incluirse en los móviles Nokia a finales de los 90.
+

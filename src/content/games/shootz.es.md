@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 "ShootZ" es un juego de disparos frenético en el que deberás aguantar frente a
@@ -37,6 +38,7 @@ que avanzas.
 5.  **Combina armas:** Aprende a alternar entre armas según la situación (por
     ejemplo, fusil para media distancia y escopeta para enemigos cercanos).
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 *   **Movimiento:** WASD o flechas para desplazarte.
@@ -46,6 +48,7 @@ que avanzas.
 *   **Habilidades especiales:** Algunas versiones incluyen habilidades o
     consumibles activables.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes
 
 1.  **P: ¿Cómo consigo mejores armas?**
@@ -59,3 +62,4 @@ que avanzas.
 4.  **P: ¿Cómo mejoro mi puntería?**
     **R:** Practica el apuntado, aprende a anticipar el movimiento de los
     enemigos y ajusta la sensibilidad del ratón a tu gusto.
+

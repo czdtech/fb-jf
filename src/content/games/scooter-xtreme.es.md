@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Scooter Xtreme 3D es un juego de carreras y acrobacias lleno de acción que te
@@ -26,6 +27,7 @@ sean tus trucos —flips, grinds y combinaciones— más puntos ganarás, ademá
 monedas que podrás invertir en nuevos patinetes y riders hasta convertirte en el
 rey del skatepark.
 
+<!-- i18n:section:tips -->
 ### Estrategias de juego y recorrido
 
 1.  **Aprende lo básico:** Antes de lanzarte a las piruetas complicadas,
@@ -42,6 +44,7 @@ rey del skatepark.
     acrobacias. Elige el que mejor se adapte a tu estilo y al objetivo del
     nivel.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 *   **Acelerar:** Tecla **W** o **Flecha arriba**.
@@ -51,16 +54,21 @@ rey del skatepark.
 *   **Hacer trucos:** Usa las teclas indicadas en pantalla cuando estés en el
     aire o sobre una barandilla para ejecutar distintos stunts.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:scooter-xtreme:q-how-do-i-get-698432e6 -->
 *   **P: ¿Cómo consigo puntuaciones más altas?**
     *   **R:** Encadenando combos largos y variados. Cuantos más trucos hagas
         seguidos sin fallar, mayor será tu multiplicador de puntos.
 
+<!-- i18n:faq:id=faq:scooter-xtreme:q-what-happens-if-i-6bc9b5f2 -->
 *   **P: ¿Qué pasa si me caigo o me estrello?**
     *   **R:** Normalmente reaparecerás en el último punto de control, pero
         perderás tiempo y romperás la racha de combo.
 
+<!-- i18n:faq:id=faq:scooter-xtreme:q-how-do-i-unlock-513b69ba -->
 *   **P: ¿Cómo desbloqueo nuevos patinetes y personajes?**
     *   **R:** Reúne las monedas repartidas por los niveles y luego entra en la
         tienda del juego para comprar nuevo equipo y riders.
+

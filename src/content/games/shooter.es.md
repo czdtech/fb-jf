@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 "Five Nights at Freddy's Shooter" es un juego de acción con terror en el que te
@@ -38,6 +39,7 @@ jugabilidad de disparos mucho más directa y frenética.
 5.  **Prepárate entre oleadas:** Aprovecha el tiempo entre oleadas para recargar
     y recolocarte.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 *   **Movimiento:** WASD o flechas para desplazarte.
@@ -46,6 +48,7 @@ jugabilidad de disparos mucho más directa y frenética.
 *   **Recargar:** Tecla **R**.
 *   **Cambiar de arma:** Números o rueda del ratón para alternar entre armas.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes
 
 1.  **P: ¿Cómo puedo sobrevivir más tiempo?**
@@ -60,3 +63,4 @@ jugabilidad de disparos mucho más directa y frenética.
 4.  **P: ¿Qué hago cuando me atacan muchos enemigos a la vez?**
     **R:** Mantén la calma, acaba primero con los que están más cerca y usa el
     escenario para separar grupos y no quedar rodeado.
+

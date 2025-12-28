@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 "Run 3" es un juego de carrera infinita ambientado en el espacio en el que
@@ -40,6 +41,7 @@ como desafiante de dominar.
 5.  **Mantén el ritmo:** Intenta jugar con un flujo constante. Las decisiones
     apresuradas suelen acabar en errores.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 *   **Moverse:** Usa las flechas izquierda y derecha para cambiar de posición en
@@ -48,6 +50,7 @@ como desafiante de dominar.
 *   **Cambiar de "suelo":** Cuando te acerques a las paredes, el personaje puede
     cambiar la dirección de la gravedad y seguir corriendo por paredes o techo.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes
 
 1.  **P: ¿Cómo corro por las paredes?**
@@ -62,3 +65,4 @@ como desafiante de dominar.
 4.  **P: ¿Cómo desbloqueo nuevos personajes?**
     **R:** Normalmente se obtienen completando ciertos niveles o logrando hitos
     concretos.
+

@@ -18,6 +18,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 "Rooftop Snipers" es el juego de disparos con físicas que inició la serie. Dos
@@ -39,6 +40,7 @@ profunda de lo que parece.
 5.  **Aprovecha el terreno:** Usa desniveles, obstáculos y la forma del tejado
     para encontrar mejores ángulos de tiro o forzar malas posiciones al rival.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 *   **Movimiento:** Usa las teclas A/D o las flechas izquierda/derecha para
@@ -48,6 +50,7 @@ profunda de lo que parece.
 *   **Acciones combinadas:** Puedes moverte, saltar y disparar en combinación
     para crear ataques más impredecibles.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes
 
 1.  **P: ¿Por qué siempre caigo yo primero?**
@@ -63,3 +66,4 @@ profunda de lo que parece.
 4.  **P: ¿Tiene modo para un solo jugador?**
     **R:** El foco está en el multijugador local, pero algunas versiones
     incluyen combates contra la IA.
+

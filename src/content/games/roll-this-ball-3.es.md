@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Roll This Ball es un puzle clásico y desafiante de bloques deslizantes
@@ -27,6 +28,7 @@ continuo y sin cortes por el que la bola pueda rodar desde su punto de salida
 hasta la casilla de llegada. La idea es sencilla, pero los niveles pueden ser
 sorprendentemente profundos.
 
+<!-- i18n:section:tips -->
 ### Estrategias de juego y recorrido
 
 1.  **Analiza el recorrido:** Antes de mover nada, recorre con la vista la
@@ -43,6 +45,7 @@ sorprendentemente profundos.
     resolver el puzle en el mínimo número de movimientos, evitando deslizamientos
     innecesarios.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 El juego se maneja con controles sencillos de arrastrar y soltar.
@@ -50,18 +53,23 @@ El juego se maneja con controles sencillos de arrastrar y soltar.
 *   **Mover un bloque:** Haz clic y arrastra un bloque móvil para deslizarlo a
     una casilla adyacente vacía.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:roll-this-ball-3:q-what-is-the-goal-ab58581b -->
 *   **P: ¿Cuál es el objetivo exacto del juego?**
     *   **R:** Construir un camino continuo y sin interrupciones por el que la
         bola pueda rodar desde el bloque de salida hasta el bloque objetivo.
 
+<!-- i18n:faq:id=faq:roll-this-ball-3:q-why-cant-i-move-9060c1dd -->
 *   **P: ¿Por qué no puedo mover cierto bloque?**
     *   **R:** Los bloques con remaches metálicos están fijos y no se pueden
         desplazar. Tendrás que trazar el camino rodeando esos obstáculos
         inmóviles.
 
+<!-- i18n:faq:id=faq:roll-this-ball-3:q-ive-made-a-path-3f11df42 -->
 *   **P: He creado un camino pero la bola no se mueve, ¿qué pasa?**
     *   **R:** Asegúrate de que realmente no haya ningún hueco y de que todas las
         piezas estén orientadas correctamente. A veces un pequeño desajuste en
         una pieza impide que el recorrido sea válido.
+

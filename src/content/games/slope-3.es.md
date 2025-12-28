@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 "Slope 3" es la nueva entrega de la saga Slope. Mantiene la esencia: controlar
@@ -37,6 +38,7 @@ sobrevivir el máximo tiempo posible sin chocar.
 5.  **Entrena la resistencia:** Necesitarás mantener la concentración durante
     largos tramos; cualquier despiste puede ser fatal.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 *   **Movimiento izquierda/derecha:** Teclas A/D o flechas izquierda/derecha.
@@ -45,6 +47,7 @@ sobrevivir el máximo tiempo posible sin chocar.
 *   **Reacción:** Responde con rapidez a cambios bruscos de dirección y a
     obstáculos que aparecen de repente.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes
 
 1.  **P: ¿Qué novedades tiene respecto a los anteriores?**
@@ -59,3 +62,4 @@ sobrevivir el máximo tiempo posible sin chocar.
 4.  **P: ¿Guarda el progreso?**
     **R:** La mayoría de versiones guardan tus mejores puntuaciones y logros,
     aunque las funciones exactas dependen del port concreto.
+

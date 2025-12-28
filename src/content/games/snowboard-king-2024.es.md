@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Snowboard King 2024 es un trepidante arcade en el que desciendes con tu tabla
@@ -26,6 +27,7 @@ una avalancha te persigue desde atrás y te obliga a mantener la velocidad y a
 pensar rápido. A lo largo del camino podrás recoger monedas para mejorar tus
 habilidades y consolidar tu título de rey del snowboard.
 
+<!-- i18n:section:tips -->
 ### Estrategias de juego y recorrido
 
 1.  **Mira lejos:** Para una bajada larga, la clave es anticiparse. Mantén la
@@ -41,21 +43,27 @@ habilidades y consolidar tu título de rey del snowboard.
     (capacidad de giro) y el "Boost" hará que las siguientes bajadas sean mucho
     más manejables.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 *   **Girar:** Teclas **A/D** o **Flechas izquierda/derecha**.
 *   **Boost:** Barra espaciadora para activar un impulso temporal de velocidad.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:snowboard-king-2024:q-what-is-the-main-212faaec -->
 *   **P: ¿Cuál es el objetivo principal?**
     *   **R:** Llegar lo más lejos posible sin chocar con obstáculos ni ser
         alcanzado por la avalancha.
 
+<!-- i18n:faq:id=faq:snowboard-king-2024:q-what-happens-if-i-39e62d3f -->
 *   **P: ¿Qué pasa si golpeo un árbol?**
     *   **R:** Te estrellarás y la bajada terminará.
 
+<!-- i18n:faq:id=faq:snowboard-king-2024:q-how-do-i-get-698432e6 -->
 *   **P: ¿Cómo consigo una puntuación mayor?**
     *   **R:** Tu puntuación depende de la distancia recorrida. Cuanto más lejos
         llegues, mejor. Mejorar tus habilidades es la forma más efectiva de
         aumentar tu potencial de distancia.
+

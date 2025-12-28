@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 "Rotate" es un desafiante juego de puzles en el que no mueves la bola, sino el
@@ -39,6 +40,7 @@ llegue al objetivo.
 5.  **Piensa desde varios ángulos:** Cambiar tu punto de vista sobre el nivel a
     menudo revela soluciones que no se ven a primera vista.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 *   **Girar el mundo:** Normalmente usarás el ratón (arrastrar) o las teclas de
@@ -48,6 +50,7 @@ llegue al objetivo.
 *   **Pausa:** Puedes pausar la partida para pensar estrategias y planear tu
     siguiente secuencia de giros.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes
 
 1.  **P: La bola se sale del nivel constantemente, ¿qué hago?**
@@ -63,3 +66,4 @@ llegue al objetivo.
 4.  **P: ¿Cuántos niveles incluye el juego?**
     **R:** Rotate suele ofrecer varios mundos con decenas de niveles de
     dificultad creciente.
+

@@ -19,6 +19,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 Soccer Random es un caótico y desternillante juego de fútbol con físicas
@@ -35,16 +36,20 @@ la física loca y lo impredecible de las situaciones: en un momento estás en un
 campo helado y al siguiente en una playa. Usa el único botón para sincronizar
 bien los saltos y así atacar la pelota y, al mismo tiempo, defender tu portería.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `W` `Up Arrow`
 
 El juego está pensado para ser muy sencillo y jugarse entre uno o dos jugadores
 en el mismo teclado.
 
-- **Jugador 1:** Tecla `W`.
+- **Jugador 1:** Tecla W.
 - **Jugador 2:** Flecha **Arriba**.
 
 Pulsa tu tecla para hacer que tus jugadores salten y golpeen el balón.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
 **¿Cuál es el objetivo en Soccer Random?**
@@ -61,3 +66,4 @@ teclado.
 Esa es la esencia de Soccer Random. La aleatoriedad del campo, los jugadores y
 el balón tras cada gol hace que ninguna partida se parezca a otra y mantiene la
 acción fresca y muy divertida.
+

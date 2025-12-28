@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 "Smash Karts" es un juego de karts multijugador en línea donde los jugadores se
@@ -37,6 +38,7 @@ batalla, ofreciendo partidas muy caóticas y divertidas.
 5.  **Elige bien el momento:** No gastes tus power‑ups en cualquier momento;
     espera a la situación ideal para sacarles el máximo partido.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 *   **Mover el kart:** WASD o flechas para acelerar, frenar y girar.
@@ -46,6 +48,7 @@ batalla, ofreciendo partidas muy caóticas y divertidas.
 *   **Derrapar:** Practica el derrape para mantener la velocidad al tomar
     curvas cerradas.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes
 
 1.  **P: ¿Cómo consigo power‑ups?**
@@ -60,3 +63,4 @@ batalla, ofreciendo partidas muy caóticas y divertidas.
 4.  **P: ¿Qué modos de juego hay?**
     **R:** Normalmente encontrarás carreras estándar, modos de batalla y
     enfrentamientos por equipos, entre otros.
+

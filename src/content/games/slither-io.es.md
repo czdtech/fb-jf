@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 "Slither.io" es un juego .io muy popular en el que controlas una serpiente que
@@ -38,6 +39,7 @@ serpiente más larga del servidor.
 5.  **Paciencia:** Espera a que los demás se equivoquen y aprovecha los montones
     de orbes que dejan las serpientes grandes al morir.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 *   **Movimiento:** Usa el ratón para indicar la dirección. La cabeza de la
@@ -47,6 +49,7 @@ serpiente más larga del servidor.
 *   **Vista:** En algunas versiones puedes usar la rueda del ratón o teclas
     específicas para ajustar el zoom.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes
 
 1.  **P: ¿Cómo crezco rápido?**
@@ -61,3 +64,4 @@ serpiente más larga del servidor.
 4.  **P: ¿Hay tabla de clasificación?**
     **R:** Sí, normalmente verás un ranking con las serpientes más grandes del
     servidor actual.
+

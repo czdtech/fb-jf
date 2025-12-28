@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Road Fury es un shooter vertical de alta velocidad visto desde arriba que te pone
@@ -26,6 +27,7 @@ jefes enemigos. Esquiva el tráfico, recoge poderosos potenciadores y utiliza la
 monedas que obtienes al destruir rivales para mejorar el armamento y la armadura
 de tu coche y desatar toda la furia de la carretera.
 
+<!-- i18n:section:tips -->
 ### Estrategias de juego y recorrido
 
 1.  **Muévete siempre:** La clave para sobrevivir es no dejar de moverte. Ve
@@ -42,6 +44,7 @@ de tu coche y desatar toda la furia de la carretera.
     de forma distinta; algunos intentan embestirte, otros disparan desde lejos.
     Conocer sus patrones te permitirá anticipar ataques y esquivarlos mejor.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 El juego se controla con un simple gesto de arrastre.
@@ -50,18 +53,23 @@ El juego se controla con un simple gesto de arrastre.
     en pantalla) y arrastra a izquierda o derecha para dirigir el vehículo.
 *   **Disparo:** El arma principal dispara automáticamente.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:roadfury:q-how-do-i-shoot-c2825cb2 -->
 *   **P: ¿Cómo disparo?**
     *   **R:** No hace falta pulsar nada; el cañón principal dispara solo. Tú
         solo tienes que concentrarte en conducir y esquivar.
 
+<!-- i18n:faq:id=faq:roadfury:q-what-are-the-floating-4c959fb6 -->
 *   **P: ¿Qué son los iconos flotantes de la carretera?**
     *   **R:** Son power‑ups temporales. Pásales por encima para obtener escudos,
         armas especiales como cohetes, reparaciones de vida y imanes que atraen
         monedas.
 
+<!-- i18n:faq:id=faq:roadfury:q-what-is-the-best-3ed21c46 -->
 *   **P: ¿Cuál es la mejor mejora al principio?**
     *   **R:** Mejorar el daño del arma principal suele ser lo más rentable al
         inicio, porque destruyes enemigos más rápido y generas más monedas.
         Después, aumentar la armadura te ayudará a soportar más golpes.
+

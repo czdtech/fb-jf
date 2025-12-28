@@ -18,6 +18,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 "Slope" es el juego de pendiente infinita que inició la serie. Controlas una
@@ -38,6 +39,7 @@ acelerado lo convierten en un clásico instantáneo.
 5.  **Mantén la calma:** A altas velocidades, los nervios son tu peor enemigo.
     Controla tus reflejos y evita movimientos bruscos.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 *   **Mover a la izquierda:** Tecla A o flecha izquierda.
@@ -45,6 +47,7 @@ acelerado lo convierten en un clásico instantáneo.
 *   **Control suave:** Prioriza movimientos fluidos en lugar de cambios
     bruscos de dirección.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes
 
 1.  **P: ¿Cómo mejoro mi récord?**
@@ -58,3 +61,4 @@ acelerado lo convierten en un clásico instantáneo.
 4.  **P: ¿Tiene final el juego?**
     **R:** No, Slope es teóricamente infinito; el reto es ver cuánto aguantas
     antes de caer.
+

@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 "Rocket League" es un juego deportivo de alta velocidad que combina fútbol con
@@ -38,6 +39,7 @@ aéreas espectaculares y un motor de físicas muy pulido.
 5.  **Gestiona el turbo:** Usa la energía de turbo con cabeza. No lo gastes todo
     de golpe; guarda siempre algo para jugadas clave o para volver a defender.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 *   **Movimiento:** Usa las teclas de dirección o WASD para acelerar, frenar y
@@ -49,6 +51,7 @@ aéreas espectaculares y un motor de físicas muy pulido.
 *   **Control en el aire:** Usa los controles de dirección mientras estás en el
     aire para orientar el coche y golpear el balón con la parte que te interese.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes
 
 1.  **P: ¿Cómo hago remates aéreos?**
@@ -65,3 +68,4 @@ aéreas espectaculares y un motor de físicas muy pulido.
     **R:** Dedica tiempo a entrenar los fundamentos, juega con regularidad y
     observa partidas de jugadores de alto nivel para aprender posicionamiento y
     mecánicas avanzadas.
+

@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Reversi Mania es una implementación fiel y fácil de aprender de Reversi (también
@@ -27,6 +28,7 @@ que voltee al menos una ficha, está obligado a pasar. La partida termina cuando
 ninguno de los dos puede mover, normalmente cuando el tablero está lleno. Gana
 quien tenga más fichas de su color en el tablero.
 
+<!-- i18n:section:tips -->
 ### Estrategias de juego y recorrido
 
 1.  **Prioriza las esquinas:** Las fichas de esquina nunca pueden ser volteadas;
@@ -43,6 +45,7 @@ quien tenga más fichas de su color en el tablero.
     cada región. Controlar si una zona tiene un número par o impar de casillas
     vacías puede decidir el vuelco final.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - **Colocar ficha:** Haz clic o toca una casilla legal (la mayoría de versiones
@@ -53,25 +56,31 @@ quien tenga más fichas de su color en el tablero.
 - **Modos de juego:** Suelen incluir partida contra la IA y modo 2 jugadores en
   el mismo dispositivo.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:reversi-mania:what-makes-a-move-legal-086cedf1 -->
 - **P: ¿Qué hace que una jugada sea legal?**
   
   **R:** Debe flanquear una o más fichas rivales en línea recta. Todas las
   fichas atrapadas entre la tuya y otra de tu color se voltean.
 
+<!-- i18n:faq:id=faq:reversi-mania:what-if-neither-side-can-cabe279e -->
 - **P: ¿Qué pasa si ninguno de los dos puede mover?**
   
   **R:** La partida termina y gana el jugador que tenga más fichas de su color
   en el tablero.
 
+<!-- i18n:faq:id=faq:reversi-mania:is-going-first-stronger-cfd85fbd -->
 - **P: ¿Es mejor jugar primero?**
   
   **R:** Tener la iniciativa ayuda, pero la clave está en controlar esquinas,
   movilidad y la paridad del final.
 
+<!-- i18n:faq:id=faq:reversi-mania:any-quick-tip-for-beginners-955da046 -->
 - **P: ¿Algún consejo rápido para principiantes?**
   
   **R:** No te obsesiones con voltear muchas fichas al principio. Protege tus
   opciones de movimiento y evita las casillas X hasta que puedas asegurar las
   esquinas.
+

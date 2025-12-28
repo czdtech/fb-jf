@@ -15,6 +15,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Santa's Quest es un puzle casual con temática navideña. Guiarás a Papá Noel a
@@ -23,6 +24,7 @@ llegando a la salida mientras evitas peligros ligeros o callejones sin salida.
 Los niveles cortos son perfectos para partidas rápidas durante la temporada de
 fiestas.
 
+<!-- i18n:section:tips -->
 ### Estrategias de juego y recorrido
 
 1.  **Planifica la ruta primero:** Localiza llaves, interruptores y objetos
@@ -37,6 +39,7 @@ fiestas.
 5.  **Reintenta sin miedo:** Los niveles son breves, así que reiniciar rápido
     después de un error forma parte del flujo normal de la partida.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - **Moverse:** Flechas de dirección, WASD o deslizamiento en pantalla táctil.
@@ -44,19 +47,24 @@ fiestas.
   mediante un pequeño aviso en pantalla.
 - **Pausa/Reiniciar:** Usando la interfaz en pantalla.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:santas-quest:stuck-behind-a-blockwhat-now-2e016d68 -->
 - **P: Me he quedado atrapado detrás de un bloque, ¿qué hago?**
   
   **R:** Reinicia el nivel y replantea la ruta para no cerrar pasillos
   importantes.
 
+<!-- i18n:faq:id=faq:santas-quest:are-there-enemies-0f202e8a -->
 - **P: ¿Hay enemigos?**
   
   **R:** En algunos niveles aparecen peligros ligeros o patrullas. En la mayor
   parte de los casos, la sincronización y la observación son suficientes para
   superarlos.
 
+<!-- i18n:faq:id=faq:santas-quest:do-i-need-all-stars-c6a73dae -->
 - **P: ¿Es obligatorio conseguir todas las estrellas?**
   
   **R:** No, suelen ser opcionales y sirven para completar el juego al 100 %.
+

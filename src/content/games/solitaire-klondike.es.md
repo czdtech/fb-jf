@@ -18,6 +18,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Klondike Solitaire es la versión de solitario para un jugador más conocida, la
@@ -40,12 +41,14 @@ por el Rey de cada palo (por ejemplo, A♣, 2♣, 3♣...).
 - **Columnas vacías:** Solo un Rey (o una secuencia que comience en Rey) puede
   ocupar una columna vacía del tablero.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - **Ratón/Táctil:** Haz clic y arrastra cartas para moverlas entre pilas. En
   muchas versiones, basta con hacer clic en una carta para que se mueva
   automáticamente a una posición válida si existe.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
 **¿En qué se diferencia Klondike de otros solitarios?**

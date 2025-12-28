@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Santa Magic Xmas es un alegre y festivo juego de puzles tipo match‑3 que te
@@ -26,6 +27,7 @@ fiesta. Intercambia piezas adyacentes para formar líneas de tres o más,
 encadena potentes combos y cumple los objetivos de cada nivel para que todos los
 regalos lleguen a su destino.
 
+<!-- i18n:section:tips -->
 ### Estrategias de juego y recorrido
 
 1.  **Crea potenciadores navideños:** La mejor forma de limpiar el tablero es
@@ -48,6 +50,7 @@ regalos lleguen a su destino.
     tablero provoca cascadas, haciendo caer nuevas piezas que pueden crear
     matches automáticos y ayudarte a limpiar el nivel con más eficiencia.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 El juego utiliza un sistema sencillo de intercambio de piezas.
@@ -56,16 +59,21 @@ El juego utiliza un sistema sencillo de intercambio de piezas.
     otra adyacente. El intercambio solo se realizará si produce una combinación
     válida.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:santa-magic-xmas:q-how-do-i-break-3176561d -->
 *   **P: ¿Cómo rompo los bloques de hielo?**
     *   **R:** Debes hacer una combinación que incluya una pieza junto al bloque
         de hielo. Cada match irá agrietando y finalmente rompiendo el hielo.
 
+<!-- i18n:faq:id=faq:santa-magic-xmas:q-what-is-the-most-eca73219 -->
 *   **P: ¿Cuál es la combinación más poderosa?**
     *   **R:** Intercambiar dos bombas de color es el movimiento más fuerte,
         porque limpia prácticamente todas las piezas del tablero.
 
+<!-- i18n:faq:id=faq:santa-magic-xmas:q-what-happens-if-i-63c9772b -->
 *   **P: ¿Qué ocurre si me quedo sin movimientos?**
     *   **R:** Si no logras cumplir el objetivo del nivel antes de agotar los
         movimientos, tendrás que reiniciar la partida de ese nivel.
+

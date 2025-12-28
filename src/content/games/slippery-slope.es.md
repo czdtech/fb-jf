@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 "Slippery Slope" es un emocionante juego de descenso en el que deslizas por
@@ -38,6 +39,7 @@ meta dentro del tiempo.
 5.  **Valora el riesgo:** Decide cuándo merece la pena tomar atajos arriesgados y
     cuándo es mejor mantener una ruta más segura pero consistente.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 *   **Giro:** Flechas izquierda/derecha o teclas A/D para cambiar la dirección de
@@ -49,6 +51,7 @@ meta dentro del tiempo.
 *   **Equilibrio:** Mantén el equilibrio del personaje para evitar caídas o
     derrapes incontrolados.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes
 
 1.  **P: ¿Cómo mantengo el control a alta velocidad?**
@@ -64,3 +67,4 @@ meta dentro del tiempo.
     **R:** Bajando en el menor tiempo posible, evitando colisiones, recogiendo
     objetos de recompensa y, cuando el juego lo permita, ejecutando maniobras
     especiales.
+

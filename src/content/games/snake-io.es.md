@@ -19,6 +19,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 Snake.io es un juego multijugador online que da un giro moderno al concepto
@@ -36,11 +37,14 @@ cuerpo. Cuando una serpiente muere, se convierte en un largo rastro de orbes muy
 valiosos. Ten cuidado: la partida termina si chocas con el cuerpo de otra
 serpiente o con los límites de la arena.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `WASD`
 
 **PC/Navegador:**
 - **Ratón:** Tu serpiente sigue la dirección del cursor.
-- **Teclado:** También puedes usar `WASD` o las flechas para moverte.
+- **Teclado:** También puedes usar WASD o las flechas para moverte.
 - **Impulso de velocidad:** Mantén pulsado el botón izquierdo del ratón o la
   barra espaciadora para activar un turbo. Ten en cuenta que consumirás parte de
   tu masa.
@@ -49,6 +53,7 @@ serpiente o con los límites de la arena.
 - Usa el joystick virtual en pantalla o toca y arrastra el dedo para guiar a la
   serpiente.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
 **¿Snake.io es realmente multijugador?**
@@ -65,3 +70,4 @@ para la serpiente y mundos temáticos distintos.
 
 Puedes competir con tus amigos para ver quién consigue la puntuación más alta y
 se convierte en la serpiente más grande de la sala.
+

@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Solitaire 2048 convierte la lógica de fusiones de 2048 en un flujo de cartas.
@@ -24,6 +25,7 @@ fusionan en el siguiente valor. El truco está en secuenciar bien las jugadas
 para encadenar fusiones en cascada y liberar espacio, en lugar de bloquear las
 columnas.
 
+<!-- i18n:section:tips -->
 ### Estrategias de juego y recorrido
 
 1.  **Columna ancla:** Mantén el valor más alto centrado para tener acceso
@@ -37,23 +39,29 @@ columnas.
 5.  **Columna de descarte:** Dedica un borde como "basurero" para cartas que no
     encajan aún en tus planes.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - Haz clic en una columna para colocar la carta actual; usa deshacer o pistas si
   la versión lo permite.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:solitaire-2048:columns-keep-locking-278e1f59 -->
 - **P: Las columnas se me bloquean constantemente.**
   
   **R:** Reparte la preparación de parejas entre las dos columnas laterales y
   evita disparar fusiones antes de tiempo.
 
+<!-- i18n:faq:id=faq:solitaire-2048:anchor-corner-or-center-1911c10f -->
 - **P: ¿Es mejor anclar en la esquina o en el centro?**
   
   **R:** El centro ofrece más rutas de fusión y suele ser más flexible.
 
+<!-- i18n:faq:id=faq:solitaire-2048:can-i-recover-from-bad-12553781 -->
 - **P: ¿Puedo recuperarme de un apilado malo?**
   
   **R:** Sí. Primero aplana las columnas más altas y reconstruye parejas con
   calma antes de volver a disparar cadenas grandes.
+
