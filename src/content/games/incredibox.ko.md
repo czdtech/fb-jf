@@ -12,6 +12,7 @@ tags:
   - incredibox
   - incredibox online
 score: 4.9/5  (724 votes)
+releaseDate: 2025-12-04
 ---
 
 
@@ -84,3 +85,4 @@ Incredibox의 핵심 게임 플레이는 매우 단순하지만, 조합에 따�
 음악을 좋아하는 사람은 물론, 비트박스와 리듬 게임에 관심 있는 모든 플레이어에게 특별한 경험을
 선사합니다.  
 지금 바로 Incredibox를 실행하고, 당신 안에 숨겨진 음악적 재능을 마음껏 펼쳐 보세요!
+

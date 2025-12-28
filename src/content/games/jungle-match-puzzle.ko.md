@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### 게임 상세 소개
 
 *Jungle Match Puzzle*은 덩굴, 상자, 끈적이는 타일 등 다양한
@@ -26,6 +27,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 폭탄·줄 삭제 블록 등 파워업을 서로 조합해 울창한 블로커를
 한 번에 지워 보드를 넓게 여는 것이 핵심입니다.
 
+<!-- i18n:section:tips -->
 ### 플레이 전략 & 공략
 
 1. **목표 우선 플레이**  
@@ -49,6 +51,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
    끈적이는 타일은 바로 위/옆에서 매치를 만들어야 제거되므로,
    우회 루트를 미리 생각해 두면 덜 막히게 됩니다.
 
+<!-- i18n:section:controls -->
 ### 조작 가이드
 
 - **보석 교환**: 드래그로 인접한 보석을 맞바꾸어
@@ -57,14 +60,19 @@ releaseDate: 2025-10-18T00:00:00.000Z
   탭해 발동합니다.  
 - **일시정지/재시도**: UI 버튼으로 조작합니다.
 
+<!-- i18n:section:faq -->
 ### 자주 묻는 질문(FAQ)
 
+<!-- i18n:faq:id=faq:jungle-match-puzzle:i-fail-on-move-limits-5d14311f -->
 - **Q: 이동 수 제한 레벨에서 자꾸 실패해요.**  
   **A:** 점수보다는 블로커 제거와 큰 콤보를 동시에
   노리는 쪽으로 플레이 방향을 바꿔 보세요.
 
+<!-- i18n:faq:id=faq:jungle-match-puzzle:best-powerup-combo-574c444a -->
 - **Q: 어떤 파워업 조합이 제일 좋은가요?**  
   **A:** 폭탄 + 줄 삭제 조합의 범위가 특히 넓고,
 
+<!-- i18n:faq:id=faq:jungle-match-puzzle:are-diagonals-allowed-37ab3fc0 -->
 - Q: Are diagonals allowed?
   줄 + 줄 조합도 많은 줄을 한 번에 정리할 수 있어 좋습니다.
+

@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### 개요
 
 *Kingdom Rush Frontiers*는 원작의 시스템을 발전시킨 정통
@@ -27,6 +28,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 설치하고, 업그레이드로 특화 가지를 타며, 소환병·히어로·메테오
 같은 스킬을 적절히 사용해 전선을 유지해야 합니다.
 
+<!-- i18n:section:how-to-play -->
 ### 플레이 방법
 
 - **방어선 설계**: 길이 꺾이는 지점에 타워를 모아, 적이
@@ -40,6 +42,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
   위험한 웨이브에 맞춰 히어로 스킬과 전역 스킬을 아껴 두면
   위기를 안정적으로 넘길 수 있습니다.
 
+<!-- i18n:section:controls -->
 ### 조작 가이드
 
 - **타워 건설/업그레이드**: 마우스/터치로 건설 지점을
@@ -58,16 +61,21 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - 비행 유닛의 이동 경로를 미리 확인하고, 해당 경로에
   공중 공격이 가능한 타워를 배치하는 것을 잊지 마세요.
 
+<!-- i18n:section:faq -->
 ### 자주 묻는 질문(FAQ)
 
+<!-- i18n:faq:id=faq:kingdom-rush-frontiers:which-tower-upgrades-should-i-211d8680 -->
 - **Q: 어떤 타워 업그레이드를 먼저 올리는 게 좋나요?**  
   **A:** 주요 길목에 있는 1~2개 타워를 3~4티어까지 먼저
   올리는 것이, 여러 곳에 조금씩 투자하는 것보다 좋습니다.
 
+<!-- i18n:faq:id=faq:kingdom-rush-frontiers:how-do-i-counter-heavy-dfc7df04 -->
 - **Q: 강한 방어력을 가진 적은 어떻게 상대하나요?**  
   **A:** 마법 타워 라인과 방어력 감소 스킬에 투자해
   아머를 깎은 뒤 처리하는 것이 효율적입니다.
 
+<!-- i18n:faq:id=faq:kingdom-rush-frontiers:are-heroes-necessary-to-win-7dad505c -->
 - **Q: 히어로는 필수인가요?**  
   **A:** 이론상 없이도 클리어 가능하지만, 구멍 난 라인을
   메워 주고 정예를 정리하는 데 큰 도움이 됩니다.
+

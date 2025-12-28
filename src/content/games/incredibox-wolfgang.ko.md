@@ -16,6 +16,7 @@ releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### **게임 소개**
 
 *Incredibox Wolfgang*은 음악 제작 게임 Incredibox를 클래식 음악
@@ -34,6 +35,7 @@ releaseDate: 2025-10-10T00:00:00.000Z
 보너스 연출은 모두 18세기 극장과 연회를 떠올리게 하는 장면들로
 구성되어 있습니다.
 
+<!-- i18n:section:tips -->
 ### **플레이 전략 & 팁**
 
 이 모드에서는 오케스트라 편성을 이해하고, 각 파트를 어떻게
@@ -76,13 +78,14 @@ releaseDate: 2025-10-10T00:00:00.000Z
    솔로 기능을 활용해 특정 바이올린이나 보컬만 따로 들어 보면
    곡 구조를 이해하는 데 큰 도움이 됩니다.
 
+<!-- i18n:section:controls -->
 ### **조작 가이드**
 
 조작은 공식 Incredibox와 동일한 직관적인 드래그 앤 드롭 방식입니다.
 
 - **사운드 추가**: 하단의 사운드 아이콘을 드래그해 연주자 위에
   올려놓습니다.
-- **사운드 제거**: 하단 활성화된 아이콘의 `X`를 누르거나,
+- **사운드 제거**: 하단 활성화된 아이콘의 X를 누르거나,
   다른 아이콘을 덮어써 교체합니다.
 - **뮤트/해제**: 연주 중인 캐릭터를 클릭해 해당 파트를 끄거나
   다시 켤 수 있습니다.
@@ -91,21 +94,27 @@ releaseDate: 2025-10-10T00:00:00.000Z
 - **녹음**: 상단의 녹음 버튼을 눌러 자신만의 클래식 곡을
   녹음·저장할 수 있습니다.
 
+<!-- i18n:section:faq -->
 ### **자주 묻는 질문(FAQ)**
 
+<!-- i18n:faq:id=faq:incredibox-wolfgang:is-incredibox-wolfgang-an-offi-a34e9a1a -->
 **Q: Incredibox Wolfgang은 공식 버전인가요?**  
 A: 아니요. Gabsoares04가 제작한 완성도 높은 **팬메이드 모드**이며,
 공식 팀 So Far So Good과는 관련이 없습니다.
 
+<!-- i18n:faq:id=faq:incredibox-wolfgang:where-can-i-play-this-a4cf171c -->
 **Q: 어디에서 이 모드를 플레이할 수 있나요?**  
 A: 보통 **playfiddlebops.com** 같은 모딩 사이트나 유튜브 소개 영상의
 플레이 링크를 통해 브라우저에서 즐길 수 있습니다.
 
+<!-- i18n:faq:id=faq:incredibox-wolfgang:what-makes-the-wolfgang-mod-727ef448 -->
 **Q: Wolfgang 모드만의 매력은 무엇인가요?**  
 A: 다른 버전에서는 보기 힘든 정통 클래식 테마와 고퀄리티
 오케스트라·합창 사운드 덕분에, 완전히 다른 음악 세계를 체험할 수
 있다는 점입니다.
 
+<!-- i18n:faq:id=faq:incredibox-wolfgang:are-the-bonus-solutions-for-0b58ab03 -->
 **Q: 보너스 조합은 어디서 확인할 수 있나요?**  
 A: `Incredibox Wolfgang combos`로 유튜브를 검색하면, 각 보너스를 여는
 조합을 정리해 둔 영상을 쉽게 찾을 수 있습니다.
+

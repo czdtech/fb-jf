@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### 개요
 
 *Infiltrating the Airship*는 Henry Stickmin 시리즈의 인기 에피소드로,
@@ -28,6 +29,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 씬 맵(장면 선택)이 제공되는 버전에서는 이미 본 구간을
 다시 플레이하며 모든 실패·엔딩을 수집할 수 있습니다.
 
+<!-- i18n:section:how-to-play -->
 ### 플레이 방법
 
 - 상황마다 주어지는 **도구·전략 옵션** 중 하나를 골라 진행합니다.  
@@ -38,6 +40,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - 씬 선택 기능이 있는 호스트라면, 이 기능을 활용해
   놓친 실패 장면을 회수할 수 있습니다.
 
+<!-- i18n:section:controls -->
 ### 조작법
 
 - **마우스**: 선택지 클릭, 인터랙션 선택  
@@ -53,16 +56,21 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - 여러 엔딩을 노릴 때는 이미 본 결말을 메모해 두거나,
   씬 선택에서 아직 못 본 루트 위주로 도전하면 효율적입니다.
 
+<!-- i18n:section:faq -->
 ### 자주 묻는 질문(FAQ)
 
+<!-- i18n:faq:id=faq:infiltrating-the-airship:how-many-endings-are-available-f90a710c -->
 - **Q: 이 게임에는 몇 개의 엔딩이 있나요?**  
   **A:** 루트에 따라 여러 엔딩이 존재하며, 사용하는 호스트
   버전에 따라 세부 개수가 조금 다를 수 있습니다.
 
+<!-- i18n:faq:id=faq:infiltrating-the-airship:do-i-need-fast-reactions-a5e50917 -->
 - **Q: 모든 장면에서 빠른 반응이 필요한가요?**  
   **A:** 아닙니다. 대부분은 선택지 위주의 진행이고, 일부
   액션 구간에서만 QTE 반응 속도가 중요합니다.
 
+<!-- i18n:faq:id=faq:infiltrating-the-airship:can-i-replay-scenes-to-2b23b4a1 -->
 - **Q: 씬을 다시 플레이해서 수집률을 올릴 수 있나요?**  
   **A:** 네. 많은 호스트 버전에서 제공하는 장면 선택 기능을
   이용하면, 놓친 실패나 엔딩을 쉽게 회수할 수 있습니다.
+

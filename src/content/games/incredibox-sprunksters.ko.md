@@ -11,9 +11,11 @@ thumbnail: /new-images/thumbnails/incredibox-sprunksters.png
 tags:
   - incredibox sprunksters
 score: 4.3/5  (185 votes)
+releaseDate: 2025-12-04
 ---
 
 
+<!-- i18n:section:introduction -->
 음악 작업 루틴이マン네리하게 느껴진다면, *Incredibox Sprunksters*를
 한번 켜 볼 차례입니다. 이 모드는 기본 Incredibox 감성과는 조금 다른,
 Sprunki 특유의 **괴짜스러운 스타일**을 음악 제작에 녹여낸 작품으로,
@@ -77,3 +79,4 @@ Incredibox Sprunksters는 **창의성, 유머, 깜짝 놀랄 만한 연출**이
 알차게 담긴 모드입니다. 매력적인 캐릭터, 새로운 사운드,
 숨겨진 대체 세계까지 더해져, Incredibox 팬이라면 반드시 한 번은
 경험해 볼 만한 작품입니다.
+

@@ -12,6 +12,7 @@ tags:
   - incredibox yellow colorbox
   - incredibox yellow colorbox online
 score: 4.5/5  (614 votes)
+releaseDate: 2025-12-04
 ---
 
 
@@ -23,6 +24,7 @@ score: 4.5/5  (614 votes)
 고유 사운드를 가지고 있어, 단순한 드래그 앤 드롭만으로도
 다양한 음악을 만들어 낼 수 있습니다.
 
+<!-- i18n:section:tips -->
 ### 간단한 조작, 끝없는 조합
 
 조작 자체는 매우 간단합니다.  

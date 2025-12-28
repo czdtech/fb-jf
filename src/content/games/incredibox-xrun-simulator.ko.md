@@ -16,6 +16,7 @@ releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### **게임 소개**
 
 *Incredibox Xrun Simulator*는 Incredibox 시뮬레이터 시리즈 중
@@ -28,6 +29,7 @@ Xrun Simulator는 20개의 사운드 아이콘이 배치된 **그리드 인터�
 전자 루프를 만든 뒤, 상단의 게이지를 채워 숨겨진
 오디오·비주얼 보너스를 발견하는 구성이 특징입니다.
 
+<!-- i18n:section:tips -->
 ### **플레이 전략 & 팁**
 
 1. **EDM 사운드 그리드 이해하기**  
@@ -61,6 +63,7 @@ Xrun Simulator는 20개의 사운드 아이콘이 배치된 **그리드 인터�
    켜두기보다는 특정 이펙트나 리드를 “한 방용”으로 남겨 두면
    드롭에서 더 큰 임팩트를 줄 수 있습니다.
 
+<!-- i18n:section:controls -->
 ### **조작 가이드**
 
 이 모드는 시뮬레이터 시리즈의 전형적인 클릭 기반 인터페이스를
@@ -75,14 +78,18 @@ Xrun Simulator는 20개의 사운드 아이콘이 배치된 **그리드 인터�
     - **녹음 버튼**: 현재 믹스를 녹음·저장합니다.  
     - **리셋 버튼**: 활성화된 아이콘을 모두 초기화합니다.
 
+<!-- i18n:section:faq -->
 ### **자주 묻는 질문(FAQ)**
 
+<!-- i18n:faq:id=faq:incredibox-xrun-simulator:why-does-this-look-and-69cdf841 -->
 **1. 왜 다른 Incredibox 버전과 모습이 많이 다른가요?**  
 이것이 바로 시뮬레이터 모드의 특징입니다. 캐릭터 기반이 아니라
 그리드 기반 UI를 사용해, 특히 전자 음악 장르에 잘 맞는
 레이어 중심의 제작 방식을 제공하려는 시도입니다.
 
+<!-- i18n:faq:id=faq:incredibox-xrun-simulator:where-can-i-play-this-a4cf171c -->
 **2. 어디에서 이 모드를 플레이할 수 있나요?**  
 공식 플랫폼에는 없으며, 보통 **Newgrounds**, **playfiddlebops.com**
 같은 게임·모딩 사이트나 유튜브 소개 영상의 링크를 통해
 브라우저에서 즐길 수 있습니다.
+

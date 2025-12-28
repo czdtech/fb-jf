@@ -11,9 +11,11 @@ thumbnail: /new-images/thumbnails/incredibox-sprinkle.png
 tags:
   - incredibox sprinkle
 score: 3.8/5  (387 votes)
+releaseDate: 2025-12-04
 ---
 
 
+<!-- i18n:section:how-to-play -->
 ### Sprinkle 플레이 방법
 
 - **드래그해서 조합하기**: 하단에 있는 다양한 음악 캐릭터를
@@ -25,6 +27,7 @@ score: 3.8/5  (387 votes)
   조금만 바꿔도 완전히 다른 트랙이 나오니, 부담 없이 여러
   패턴을 시도해 보세요.
 
+<!-- i18n:section:controls -->
 ### 조작 가이드
 
 - **마우스 조작**: 게임의 대부분은 마우스로 진행됩니다.  
@@ -51,3 +54,4 @@ score: 3.8/5  (387 votes)
 Sprinkle은 **“조작은 간단하지만, 결과는 무궁무진한”** 음악 제작 게임입니다.  
 가벼운 마음으로 접속해 캐릭터를 배치해 보기만 해도, 어느새 자신만의
 트랙을 만들고 있는 자신을 발견하게 될 것입니다.
+

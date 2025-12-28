@@ -16,6 +16,7 @@ releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### **게임 소개**
 
 *Incredibox Vibin'*은 음악 제작 게임 Incredibox의 팬메이드 모드로,
@@ -28,6 +29,7 @@ releaseDate: 2025-10-10T00:00:00.000Z
 사운드 라이브러리는 부드러운 드럼 루프, 따뜻한 신스 패드,
 잔잔한 멜로디, 부드럽게 가공된 보컬 샘플로 구성되어 있습니다.
 
+<!-- i18n:section:tips -->
 ### **플레이 전략 & 팁**
 
 Vibin'에서의 목표는 **너무 튀지 않으면서도 기분 좋은 백그라운드
@@ -58,12 +60,13 @@ Vibin'에서의 목표는 **너무 튀지 않으면서도 기분 좋은 백그�
    보면서 보너스를 탐색하면, 편안한 트랙을 흐트러뜨리지 않고
    애니메이션을 모조리 감상할 수 있습니다.
 
+<!-- i18n:section:controls -->
 ### **조작 가이드**
 
 조작은 기본 Incredibox와 동일한 드래그 앤 드롭 방식입니다.
 
 - **사운드 추가**: 하단 아이콘을 드래그해 캐릭터에게 올려놓습니다.
-- **사운드 제거**: 하단 아이콘의 `X`를 누르거나, 다른 아이콘을
+- **사운드 제거**: 하단 아이콘의 X를 누르거나, 다른 아이콘을
   덮어써 교체합니다.
 - **뮤트/해제**: 연주 중인 캐릭터를 클릭해 해당 파트를 끄거나
   다시 켤 수 있습니다.
@@ -72,20 +75,26 @@ Vibin'에서의 목표는 **너무 튀지 않으면서도 기분 좋은 백그�
 - **녹음**: 상단의 녹음 버튼을 눌러 완성된 칠 비트를
   녹음·저장할 수 있습니다.
 
+<!-- i18n:section:faq -->
 ### **자주 묻는 질문(FAQ)**
 
+<!-- i18n:faq:id=faq:incredibox-vibin:is-incredibox-vibin-an-officia-483ff426 -->
 **1. Vibin'은 공식 버전인가요?**  
 아니요. *Vibin'*은 크리에이터 MI가 제작한 **팬메이드 모드**이며,
 공식 Incredibox 팀 So Far So Good과는 관련이 없습니다.
 
+<!-- i18n:faq:id=faq:incredibox-vibin:where-can-i-play-this-a4cf171c -->
 **2. 어디에서 플레이할 수 있나요?**  
 공식 플랫폼에는 없고, 보통 **playfiddlebops.com** 같은 모딩 사이트나
 유튜브 소개 영상의 링크를 통해 브라우저에서 즐길 수 있습니다.
 
+<!-- i18n:faq:id=faq:incredibox-vibin:what-makes-the-vibin-mod-d01232b7 -->
 **3. 왜 이렇게 인기가 많나요?**  
 로파이 힙합이라는 인기 장르를 Incredibox 형식에 잘 녹여,
 공부·작업용 BGM을 직접 만드는 느낌을 주기 때문입니다.
 
+<!-- i18n:faq:id=faq:incredibox-vibin:are-the-bonus-solutions-for-361d43d5 -->
 **4. 보너스 조합은 어디서 볼 수 있나요?**  
 `Incredibox Vibin' combos`로 유튜브를 검색하면, 각 보너스 애니메이션을
 여는 조합을 정리해 둔 영상을 쉽게 찾을 수 있습니다.
+
