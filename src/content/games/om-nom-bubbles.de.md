@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Om Nom Bubbles ist ein klassischer Bubble-Shooter mit dem liebenswerten Om Nom
@@ -25,6 +26,7 @@ Om Nom Bubbles ist ein klassischer Bubble-Shooter mit dem liebenswerten Om Nom
  auf die kommenden Blasen sind entscheidend, um zu verhindern, dass die Decke
  zu weit nach unten rutscht.
 
+<!-- i18n:section:tips -->
 ### Strategien & Spieltipps
 
 1.  **Tragende Punkte entfernen:** Konzentriere dich auf Blasen, die große
@@ -40,6 +42,7 @@ Om Nom Bubbles ist ein klassischer Bubble-Shooter mit dem liebenswerten Om Nom
 5.  **Kleine Gruppen ignorieren:** Wenn die Decke schon tief hängt, räume erst
     breite Zugangswege frei und kümmer dich danach um kleine Reste.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Zielen:** Bewege den Mauszeiger oder ziehe mit dem Finger, um die Flugbahn
@@ -48,20 +51,25 @@ Om Nom Bubbles ist ein klassischer Bubble-Shooter mit dem liebenswerten Om Nom
 - **Tauschen (falls verfügbar):** In manchen Versionen kannst du die aktuelle
   Blase mit der nächsten tauschen, um flexibler zu spielen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:om-nom-bubbles:how-do-i-reach-covered-04be049c -->
 - **Wie erreiche ich verdeckte Cluster?**
   
   Nutze einen Banden-Schuss über die Seitenwand, um die Blasen aus einem
   besseren Winkel zu treffen.
 
+<!-- i18n:faq:id=faq:om-nom-bubbles:what-if-the-wrong-color-6ccf8d84 -->
 - **Was mache ich, wenn dauernd „falsche“ Farben kommen?**
   
   Verwende diese Blasen, um kleine Gruppen zu verkleinern oder künftige
   Kettenreaktionen vorzubereiten. Wenn die Version das erlaubt, hilft auch der
   Blasentausch.
 
+<!-- i18n:faq:id=faq:om-nom-bubbles:do-i-need-all-stars-c6a73dae -->
 - **Muss ich alle Sterne sammeln?**
   
   Nein, aber eine hohe Sternewertung schaltet oft zusätzliche Level frei und ist
   ein schönes Ziel für Perfektionisten.
+

@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Northern Heights ist ein Ski-Spiel, das dich über verschneite Hänge und
@@ -25,6 +26,7 @@ Northern Heights ist ein Ski-Spiel, das dich über verschneite Hänge und
  Kontrolle und bietet dir zudem Möglichkeiten, deinen Charakter, das Board und
  die Ausrüstung optisch anzupassen.
 
+<!-- i18n:section:tips -->
 ### Strategien & Spieltipps
 
 1.  **Steuerung beherrschen:** Lerne zuerst die grundlegende Steuerung, damit du
@@ -39,18 +41,23 @@ Northern Heights ist ein Ski-Spiel, das dich über verschneite Hänge und
 5.  **Münzen sammeln:** Sammle unterwegs Münzen, um neue Boards, Outfits und
     andere kosmetische Upgrades freizuschalten.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 *   **Pfeiltasten/Maus:** Steuere deinen Charakter mit den Pfeiltasten oder der
     Maus den Hang hinunter. Je nach Version gibt es zusätzliche Tasten für
     Sprünge oder besondere Tricks.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:northern-heights:q-how-do-i-score-147090df -->
 *   **F: Wie bekomme ich mehr Punkte?**
     *   **A:** Stunts, eingesammelte Münzen und eine schnelle, möglichst
         fehlerfreie Abfahrt erhöhen deine Punktzahl.
 
+<!-- i18n:faq:id=faq:northern-heights:q-what-can-i-do-0eeda2c4 -->
 *   **F: Wofür kann ich die eingesammelten Münzen verwenden?**
     *   **A:** Mit Münzen kaufst du Anpassungen für deinen Charakter, darunter
         neue Boards und Kleidung.
+

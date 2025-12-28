@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Mess on the Ranch ist ein charmantes Organisationspuzzle. Du treibst Tiere
@@ -25,6 +26,7 @@ zerstörte Zaunabschnitte und räumst herumliegendes Gerümpel weg – alles inn
 von Zug- oder Zeitlimits. In jedem Level geht es um gute Wegplanung und
 Priorisierung.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Tiere zuerst sichern**  
@@ -48,21 +50,27 @@ Priorisierung.
     Widme dich optionalen Ziele wie zusätzlichem Müll erst dann, wenn die
     Hauptaufgaben sicher innerhalb des Limits schaffbar sind.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Bewege deine Figur per Tipp/Drag oder mit den Richtungstasten und interagiere
   kontextabhängig mit Tieren, Werkzeugen und Zäunen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:mess-on-the-ranch:i-run-out-of-moves-0e48d1a7 -->
 - **F: Mir gehen die Züge aus – was mache ich falsch?**  
   **A:** Kombiniere mehrere Aufgaben in einem Weg und vermeide Umwege, die nur
   einem einzigen Zweck dienen.
 
+<!-- i18n:faq:id=faq:mess-on-the-ranch:animals-wander-off-15c1e6e4 -->
 - **F: Die Tiere laufen mir ständig davon.**  
   **A:** Sperre sie so früh wie möglich ein und erledige erst danach
   Werkzeug- und Zaunaufgaben.
 
+<!-- i18n:faq:id=faq:mess-on-the-ranch:timers-too-tight-628524e0 -->
 - **F: Die Zeitlimits sind zu knapp.**  
   **A:** Ignoriere optionale Aufräumziele und konzentriere dich auf die
   Pflichtaufgaben des Levels.
+

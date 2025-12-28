@@ -18,6 +18,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Neon Tower ist ein schnelles, süchtig machendes 3D-Arcadespiel: Du steuerst
@@ -27,6 +28,7 @@ Turm so, dass sich Lücken unter dem Ball öffnen und er nach unten fallen kann.
 Ziel ist es, den Boden des Turms zu erreichen, ohne auf tödliche rote
 Plattformen zu prallen.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Lücken finden**  
@@ -47,6 +49,7 @@ Plattformen zu prallen.
     Schau nicht nur auf die aktuelle Plattform, sondern einige Ebenen
     voraus. So erkennst du Lücken-Serien und gefährliche rote Bereiche früh.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Die Steuerung basiert auf einer einfachen Drag-Bewegung.
@@ -54,17 +57,22 @@ Die Steuerung basiert auf einer einfachen Drag-Bewegung.
 *   **Turm drehen:** Linke Maustaste/Finger halten und nach links/rechts ziehen,
     um den Helix-Turm zu drehen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:neon-tower:q-what-is-the-objective-0d640e0d -->
 *   **F: Was ist das Ziel?**
     *   **A:** Den Ball sicher bis ganz nach unten zu führen, indem du ihn durch
         möglichst viele Lücken fallen lässt.
 
+<!-- i18n:faq:id=faq:neon-tower:q-what-happens-if-i-c9f3aa32 -->
 *   **F: Was passiert bei roten Plattformen?**
     *   **A:** Landest du auf einem roten Feld, ist das Spiel vorbei – außer dein
         Ball befindet sich gerade im Feuerballmodus.
 
+<!-- i18n:faq:id=faq:neon-tower:q-how-do-i-activate-8acc1c69 -->
 *   **F: Wie aktiviere ich den Feuerballmodus?**
     *   **A:** Lass den Ball mehrere Plattformen hintereinander durchfallen, ohne
         zu landen. Zündet der Ball, kannst du kurzzeitig durch alle Plattformen
         hindurchbrechen.
+

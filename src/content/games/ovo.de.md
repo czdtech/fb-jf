@@ -18,6 +18,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 "OvO Game" ist ein extrem schnelles und herausforderndes Plattformspiel. Du
@@ -56,6 +57,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
     Sprungtaste einen Wandsprung ausführen und dich Stück für Stück nach oben
     arbeiten.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
 1.  **F: Wie schwer ist "OvO Game"?**
@@ -72,3 +74,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 4.  **F: Auf welchen Plattformen kann ich spielen?**
     **A:** "OvO Game" läuft meist direkt im Browser; einige Varianten
     unterstützen zusätzlich Mobilgeräte.
+

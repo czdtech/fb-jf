@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 „Moving Truck“ ist ein physikbasiertes Puzzlespiel. Deine Aufgabe ist es,
@@ -56,6 +57,7 @@ vermögen und deine Planungsfähigkeit.
 *   **Rotieren:** In einigen Versionen kannst du Gegenstände drehen (z. B. mit
     Mausrad oder bestimmten Tasten), um sie besser einzupassen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
 1.  **F: Was ist das eigentliche Ziel?**  

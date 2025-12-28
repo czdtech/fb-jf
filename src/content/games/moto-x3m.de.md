@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 „Moto X3M“ ist ein actionreiches Motorrad-Stunt-Rennspiel. Du jagst über
@@ -54,6 +55,7 @@ möglich zu erreichen und mit möglichst vielen Stunts Bonuszeit gutzumachen.
 *   **Nach vorne/hinten lehnen:** A/D oder Pfeile links/rechts, um die Haltung
     deines Bikes in der Luft und auf Rampen zu steuern.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
 1.  **F: Wie erziele ich hohe Punktzahlen?**  
@@ -71,3 +73,4 @@ möglich zu erreichen und mit möglichst vielen Stunts Bonuszeit gutzumachen.
 4.  **F: Was tun, wenn ich an einer Strecke hängenbleibe?**  
     **A:** Probiere andere Sprungwinkel und Stuntkombinationen aus oder studiere
     Runs anderer Spieler, um neue Linien kennenzulernen.
+

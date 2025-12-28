@@ -18,6 +18,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 „Murder“ ist ein nervenaufreibendes Social-Deduction-Spiel. In einer Gruppe von
@@ -63,6 +64,7 @@ Unsicherheiten geprägt.
 *   **Selbstverteidigung (falls vorhanden):** Einige Varianten erlauben
     Gegenmaßnahmen durch Zivilpersonen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
 1.  **F: Woran erkenne ich den Mörder?**  
@@ -83,3 +85,4 @@ Unsicherheiten geprägt.
 4.  **F: Wie viele Leute braucht man für eine gute Runde?**  
     **A:** In der Regel 4–6 oder mehr, je nach Regelset – je größer die Runde,
     desto spannender die Deduktion.
+

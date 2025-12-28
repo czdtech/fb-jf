@@ -16,6 +16,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Om Nom: Run ist ein farbenfroher, actionreicher Endless Runner mit dem
@@ -24,6 +25,7 @@ Dächer und durch Tunnel, weichst Hindernissen aus, sammelst Münzen und
 erledigst Missionen. Mit verschiedenen Power-ups kannst du weiter laufen,
 höhere Punktzahlen erreichen und nach und nach neue Inhalte freischalten.
 
+<!-- i18n:section:tips -->
 ### Strategien & Spieltipps
 
 1.  **Wischgesten meistern:** Die Steuerung basiert auf schnellen Reaktionen.
@@ -44,6 +46,7 @@ höhere Punktzahlen erreichen und nach und nach neue Inhalte freischalten.
     Stärke der Power-ups zu verbessern. Ein länger aktiver Magnet oder ein
     längerer Raketenflug kann deine Highscores deutlich pushen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Die Steuerung erfolgt über einfache Wischgesten.
@@ -52,18 +55,23 @@ Die Steuerung erfolgt über einfache Wischgesten.
 *   **Wische nach oben:** Springe über Hindernisse.
 *   **Wische nach unten:** Rutsche unter Hindernissen hindurch.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:om-nom-run:q-what-is-the-main-54696a60 -->
 *   **F: Was ist das Hauptziel des Spiels?**
     *   **A:** Du versuchst, so weit wie möglich zu laufen, um die höchste Punktzahl zu
 erreichen. Erfüllte Missionen erhöhen deinen Multiplikator und bringen
 zusätzliche Belohnungen.
 
+<!-- i18n:faq:id=faq:om-nom-run:q-what-happens-when-i-5d8deb07 -->
 *   **F: Was passiert, wenn ich ein Hindernis treffe?**
     *   **A:** Dein Lauf endet. Oft kannst du jedoch eine Spezialwährung (z. B.
 Schlüssel) einsetzen, um einmalig weiterzumachen und genau an der Stelle
 fortzusetzen, an der du gestürzt bist.
 
+<!-- i18n:faq:id=faq:om-nom-run:q-how-do-i-unlock-9f47880d -->
 *   **F: Wie schalte ich andere Figuren wie Om Nelle frei?**
     *   **A:** Neue Charaktere werden meist durch große Mengen an Münzen oder durch
 spezielle Tokens freigeschaltet, die während der Läufe zufällig auftauchen.
+

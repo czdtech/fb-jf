@@ -18,6 +18,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 "PAC-MAN" ist einer der berühmtesten Arcade-Klassiker überhaupt. Du
@@ -52,6 +53,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 *   **Bewegung:** In der Regel steuerst du Pac-Man mit den Pfeiltasten (oben,
     unten, links, rechts) durch das Labyrinth.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
 1.  **F: Wie viele Level gibt es in "PAC-MAN"?**
@@ -68,3 +70,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 4.  **F: Ist das Ziel einfach, alle Punkte zu fressen?**
     **A:** Ja. In jedem Level musst du alle kleinen Punkte und Kraftpillen
     einsammeln, um in den nächsten Level vorzurücken.
+

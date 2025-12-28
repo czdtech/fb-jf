@@ -11,10 +11,11 @@ thumbnail: /new-images/thumbnails/mundo-torajo-sprunki.png
 tags:
   - mundo torajo sprunki
 score: 4.0/5  (112 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+releaseDate: 2025-12-04
 ---
 
 
+<!-- i18n:section:introduction -->
 Bereit für eine farbenfrohe Klangreise? Mundo Torajo Sprunki nimmt dich mit auf
  ein intensives Audio-Visions-Erlebnis. Der Mod vereint das schräge
 Mundo-Torajo-Universum mit der intuitiven, beatbasierten Sprunki-Spielweise und

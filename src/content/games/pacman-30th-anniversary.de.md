@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 "Pacman 30th Anniversary" ist eine besondere Edition des klassischen
@@ -46,6 +47,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 *   **Bewegung:** Steuere Pac-Man mit den Pfeiltasten (oben, unten, links,
     rechts) durch das Labyrinth.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
 1.  **F: Worin unterscheidet sich "Pacman 30th Anniversary" vom Original?**
@@ -62,3 +64,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 4.  **F: Gibt es Bestenlisten?**
     **A:** Viele Versionen von "Pacman 30th Anniversary" bieten lokale oder
     Online-Highscores, damit du deine Punktzahlen mit anderen vergleichen kannst.
+

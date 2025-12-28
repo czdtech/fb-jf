@@ -18,6 +18,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 "Night Watchman" ist ein Horror-Survival-Spiel, in dem du die Nachtschicht in
@@ -51,6 +52,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 *   **Karte ansehen:** In manchen Versionen gibt es eine Übersichtskarte, die
     dir den Grundriss des Gebäudes und die Positionen der Kameras zeigt.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
 1.  **F: Was ist das Ziel des Spiels?**
@@ -68,3 +70,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 4.  **F: Gibt es verschiedene Enden?**
     **A:** Viele Versionen bieten mehrere Enden oder Bonusnächte, je nachdem,
     wie gut du spielst und wie viele Nächte du schaffst.
+

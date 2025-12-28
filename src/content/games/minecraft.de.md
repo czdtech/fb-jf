@@ -18,6 +18,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 Minecraft ist ein Sandbox-Spiel von Mojang Studios. Du erkundest eine Welt aus
@@ -59,6 +60,7 @@ Abenteuer und Zuschauermodus.
 *   **Inventar öffnen:** E, um Items zu verwalten und zu craften.  
 *   **Schleichen:** Umschalt (Shift), verhindert Stürze von Blockkanten.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
 1.  **F: Welche Hauptspielmodi gibt es?**  
@@ -76,3 +78,4 @@ Abenteuer und Zuschauermodus.
 4.  **F: Wie baue ich automatische Farmen?**  
     **A:** Nutze Redstone-Schaltungen, Kolben, Wasserströme und Beobachter, um
     Pflanzen zu ernten oder Mobs automatisch zu farmen.
+

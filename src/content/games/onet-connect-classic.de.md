@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Onet Connect Classic ist ein schnelles, süchtig machendes
@@ -27,6 +28,7 @@ Onet Connect Classic ist ein schnelles, süchtig machendes
  klassischem Mahjong entsteht die Herausforderung vor allem durch die strengen
  Verbindungsregeln und den mitlaufenden Timer.
 
+<!-- i18n:section:tips -->
 ### Strategien & Spieltipps
 
 1.  **Die Verbindungsregel:** Du kannst zwei gleiche Kacheln nur entfernen,
@@ -50,6 +52,7 @@ Onet Connect Classic ist ein schnelles, süchtig machendes
 5.  **Gegen die Zeit arbeiten:** Jedes Level ist zeitlich begrenzt. Behalte den
     Timer im Auge und versuche, in einem gleichmäßigen Tempo Paare zu bilden.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Das Spiel wird komplett mit Maus oder per Touch gesteuert.
@@ -58,16 +61,21 @@ Das Spiel wird komplett mit Maus oder per Touch gesteuert.
 *   **Paar verbinden:** Klicke auf eine zweite identische Kachel. Ist der Pfad
     gültig, verschwinden beide vom Spielfeld.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:onet-connect-classic:q-why-cant-i-connect-c548c2f6 -->
 *   **F: Warum kann ich zwei identische Kacheln nicht verbinden?**
     *   **A:** Entweder blockiert eine andere Kachel den Weg, oder die Verbindung
         würde mehr als zwei 90‑Grad‑Knicke erfordern.
 
+<!-- i18n:faq:id=faq:onet-connect-classic:q-what-happens-when-i-d9559b94 -->
 *   **F: Was passiert, wenn mir die Zeit ausgeht?**
     *   **A:** Wenn der Timer auf null fällt, bevor alle Kacheln verschwunden
         sind, verlierst du das Level und musst neu starten.
 
+<!-- i18n:faq:id=faq:onet-connect-classic:q-is-there-a-penalty-2dc7b42f -->
 *   **F: Gibt es eine Strafe für Hinweise?**
     *   **A:** Normalerweise nicht, aber du hast nur eine begrenzte Anzahl. Nutze
         Hinweise, wenn du wirklich feststeckst, um Zeit zu sparen.
+

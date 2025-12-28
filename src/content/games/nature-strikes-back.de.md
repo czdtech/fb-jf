@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Nature Strikes Back kombiniert die Suchtwirkung eines Merge-Spiels mit der
@@ -25,6 +26,7 @@ verschmutzender Mucklings schützen. Dazu beschwörst du Wächtergeister, mergst
 sie zu immer stärkeren Formen und platzierst sie auf dem Schlachtfeld, wo sie
  automatisch Welle um Welle abwehren.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Beschwören & Mergen**  
@@ -47,6 +49,7 @@ sie zu immer stärkeren Formen und platzierst sie auf dem Schlachtfeld, wo sie
     den Weg haben – etwa an Kurven oder langen Geraden. Flächen- oder
     Slow-Einheiten platzierst du dort, wo sie möglichst viele Gegner treffen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 *   **Geist beschwören:** Klicke auf „Summon“, um einen neuen Basis-Wächter auf
@@ -56,20 +59,25 @@ sie zu immer stärkeren Formen und platzierst sie auf dem Schlachtfeld, wo sie
 *   **Platzieren/Verschieben:** Ziehe Geister vom Merge-Board auf freie Slots
     an der Front und verschiebe sie bei Bedarf.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:nature-strikes-back:q-how-do-i-get-9bf612f3 -->
 *   **F: Wie bekomme ich stärkere Wächter?**
     *   **A:** Durch Mergen. Zwei identische Wächter ergeben einen Wächter der
         nächsthöheren Stufe (z. B. zwei Level‑2‑Wächter werden zu einem
         Level‑3‑Wächter).
 
+<!-- i18n:faq:id=faq:nature-strikes-back:q-what-happens-if-a-8ac0dfcc -->
 *   **F: Was passiert, wenn ein Muckling das Ende erreicht?**
     *   **A:** Erreicht ein Gegner das Herz der Natur am Ende des Pfads,
         verlierst du ein Leben bzw. einen Gesundheitspunkt. Wenn deine
         Lebenspunkte auf null fallen, verlierst du das Level.
 
+<!-- i18n:faq:id=faq:nature-strikes-back:q-should-i-fill-all-f74c34bb -->
 *   **F: Soll ich alle Slots sofort füllen?**
     *   **A:** Nicht unbedingt. Oft ist es besser, erst durch Mergen ein oder
         zwei sehr starke Wächter aufzubauen, statt viele schwache zu setzen. Ein
         einzelner hochstufiger Wächter macht häufig mehr Schaden als mehrere
         niedrigstufige zusammen.
+

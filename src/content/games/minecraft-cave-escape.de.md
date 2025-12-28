@@ -11,9 +11,11 @@ thumbnail: /new-images/thumbnails/minecraft-cave-escape.png
 tags:
   - minecraft cave escape
 score: 4.7/5  (354 votes)
+releaseDate: 2025-12-04
 ---
 
 
+<!-- i18n:section:introduction -->
 Minecraft Cave Escape ist ein Jump-and-Climb-Spiel im Minecraft-inspirierten
 Look, das deine Reaktionsfähigkeit testet. Du bist in einer Höhle gefangen und
 hast keine Werkzeuge, keine Leitern – nur herabfallende Blöcke, an denen du
@@ -61,3 +63,4 @@ das Geröll zum Verhängnis wird?
 - **F: Irgendwelche Tricks für hohe Höhen?**  
   **A:** Baue möglichst früh eine stabile Treppe und vermeide horizontale
   Ausflüge, die dich vom Weg nach oben abhalten.
+

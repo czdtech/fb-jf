@@ -19,6 +19,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 "Only Up" ist ein extrem anspruchsvoller 3D-Plattformspiel. Dein Ziel ist es,
@@ -55,6 +56,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 *   **Kamera:** Bewege die Maus, um die Kamera zu drehen, die Umgebung besser
     zu überblicken und Sprünge exakt zu planen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
 1.  **F: Gibt es im Spiel Speicherpunkte?**
@@ -71,3 +73,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
     **A:** "Only Up" ist bekannt für seinen hohen Schwierigkeitsgrad und kann
     frustrierend sein. Mit Ausdauer und vielen Versuchen können aber auch
     Einsteiger nach und nach Fortschritte machen.
+

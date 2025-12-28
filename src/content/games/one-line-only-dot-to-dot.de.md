@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 One line only: dot to dot orientiert sich an klassischen Euler-Pfaden: Du
@@ -24,6 +25,7 @@ One line only: dot to dot orientiert sich an klassischen Euler-Pfaden: Du
  erzwungene Richtungswechsel und kleine Paritäts-Tricks ein, die genaues
  Planen und diszipliniertes Zurücksetzen erfordern.
 
+<!-- i18n:section:tips -->
 ### Strategien & Spieltipps
 
 1.  **Grad der Knoten prüfen:** Schau dir an, wie viele Linien an einem Punkt
@@ -39,25 +41,31 @@ One line only: dot to dot orientiert sich an klassischen Euler-Pfaden: Du
 5.  **Symmetrien nutzen:** Viele Level sind symmetrisch aufgebaut. Nutze diese
     Symmetrie und spiegele erfolgreiche Teilwege auf die andere Seite.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Ziehe mit der Maus oder dem Finger über die Segmente, um eine Linie zu
   zeichnen. Über Schaltflächen im UI kannst du Schritte rückgängig machen oder
   das Level komplett zurücksetzen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:one-line-only-dot-to-dot:i-end-one-step-short-2ba592fd -->
 - **F: Ich höre einen Schritt vor Schluss auf – warum?**
   
   Meistens bist du an einem ungünstigen Punkt gestartet. Versuche es mit einem
   anderen, insbesondere mit einem Knoten mit ungeradem Grad.
 
+<!-- i18n:faq:id=faq:one-line-only-dot-to-dot:are-crossings-allowed-127ec18f -->
 - **F: Sind Kreuzungen erlaubt?**
   
   Nur dort, wo das Spiel explizit ein Segment vorsieht. Freihändig Linien
   kreuzen ist nicht erlaubt.
 
+<!-- i18n:faq:id=faq:one-line-only-dot-to-dot:any-hint-system-83b1a6f0 -->
 - **F: Gibt es ein Hinweissystem?**
   
   Viele Versionen bieten Hinweise oder heben wichtige Brücken hervor, wenn du
   nicht weiterkommst.
+

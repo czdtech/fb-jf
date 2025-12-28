@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Minesweeper Mania ist eine polierte Version des zeitlosen Einzelspieler-
@@ -26,6 +27,7 @@ aufgedeckten Feldern verraten dir, wie viele Minen in den acht angrenzenden
 Feldern liegen. Mehrere Schwierigkeitsgrade bieten sowohl Einsteiger:innen als
 auch Profis immer neue Herausforderungen.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Erster Klick ist sicher**  
@@ -51,20 +53,26 @@ auch Profis immer neue Herausforderungen.
     Annahme im Widerspruch zu den Zahlen stünde. So findest du oft sichere
     Felder, ohne raten zu müssen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Feld aufdecken:** Linksklick auf ein verdecktes Feld.  
 - **Mine markieren:** Rechtsklick, um eine Flagge zu setzen bzw. zu entfernen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:minesweeper-mania:q-what-do-the-numbers-72c417f7 -->
 *   **F: Was bedeuten die Zahlen genau?**
     *   **A:** Die Zahl gibt an, wie viele Minen in den acht angrenzenden Feldern liegen.
 
+<!-- i18n:faq:id=faq:minesweeper-mania:q-what-happens-if-i-5fd42843 -->
 *   **F: Was passiert, wenn ich auf eine Mine klicke?**
     *   **A:** Das Spiel ist sofort verloren und alle Minen werden angezeigt.
 
+<!-- i18n:faq:id=faq:minesweeper-mania:q-do-i-have-to-f6cc0b4c -->
 *   **F: Muss ich Flaggen setzen, um zu gewinnen?**
     *   **A:** Nein, Flaggen sind nur ein Hilfsmittel. Gewonnen hast du, sobald alle
 sicheren Felder aufgedeckt sind – unabhängig davon, ob du alle Minen markiert
 hast.
+

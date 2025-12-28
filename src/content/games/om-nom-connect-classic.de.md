@@ -18,6 +18,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Om Nom Connect Classic ist ein schnelles, liebevoll gestaltetes
@@ -28,6 +29,7 @@ Om Nom Connect Classic ist ein schnelles, liebevoll gestaltetes
  90-Grad-Ecken enthält. Da zusätzlich ein Timer mitläuft, brauchst du sowohl
  einen guten Blick als auch schnelle Entscheidungen.
 
+<!-- i18n:section:tips -->
 ### Strategien & Spieltipps
 
 1.  **Die Verbindungsregel verstehen:** Du kannst zwei identische Kacheln nur
@@ -44,6 +46,7 @@ Om Nom Connect Classic ist ein schnelles, liebevoll gestaltetes
     Hinweis ein, um ein gültiges Paar angezeigt zu bekommen. Bist du komplett
     blockiert, mischt der Shuffle-Button alle verbleibenden Kacheln neu durch.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Das Spiel wird allein mit Mausklicks oder Taps gespielt.
@@ -52,17 +55,22 @@ Das Spiel wird allein mit Mausklicks oder Taps gespielt.
     dann auf ihr identisches Gegenstück. Ist der Weg gültig, verschwinden beide
     Kacheln vom Feld.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:om-nom-connect-classic:q-why-cant-i-connect-c548c2f6 -->
 *   **F: Warum kann ich zwei identische Kacheln nicht verbinden?**
     *   **A:** Entweder blockiert eine andere Kachel den Weg, oder die Verbindung
         würde mehr als zwei 90‑Grad‑Knicke erfordern.
 
+<!-- i18n:faq:id=faq:om-nom-connect-classic:q-what-happens-if-the-b7a7f4d0 -->
 *   **F: Was passiert, wenn die Zeit abläuft?**
     *   **A:** Dann scheiterst du am Level und musst neu starten. Tempo und
         schnelles Erkennen sind entscheidend.
 
+<!-- i18n:faq:id=faq:om-nom-connect-classic:q-whats-the-best-strategy-d4fb183f -->
 *   **F: Was ist die beste Strategie, um schnell Paare zu finden?**
     *   **A:** Fixiere dich nicht zu lange auf eine Stelle. Lass deinen Blick
         über das gesamte Brett wandern. Oft übersieht man offensichtliche Paare,
         wenn man sich zu sehr auf einen kleinen Bereich konzentriert.
+

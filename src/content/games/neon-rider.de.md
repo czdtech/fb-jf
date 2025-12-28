@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Neon Rider ist ein seitlich dargestellter Bike-Physik-Plattformspiel, bei dem
@@ -23,6 +24,7 @@ alles auf saubere Landungen und Schwung ankommt. Du kontrollierst die Neigung
 deines Bikes in der Luft, dosierst Gas auf unebenem Terrain und verkettst
 Sprünge, ohne zu stark zu rotieren, um dein Tempo zu halten.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Flach landen**  
@@ -45,22 +47,28 @@ Sprünge, ohne zu stark zu rotieren, um dein Tempo zu halten.
     Präge dir Sprungweiten und Landezonen ein, um später mit perfektem Flow
     durchs Level zu kommen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Gas/Bremse:** Pfeil hoch/runter oder W/S.  
 - **Neigen:** Pfeil links/rechts oder A/D.  
 - **Neustart:** Schneller Restart, um schwierige Stellen gezielt zu üben.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:neon-rider:i-keep-nosing-inwhy-07a401c5 -->
 - **F: Ich lande ständig auf der Vorderachse – warum?**  
   **A:** Meist gibst du zu viel Gas direkt an der Rampenkante. Nimm vor dem
   Absprung minimal Gas weg.
 
+<!-- i18n:faq:id=faq:neon-rider:how-to-keep-momentum-2353d597 -->
 - **F: Wie halte ich meinen Schwung?**  
   **A:** Landungen möglichst waagerecht, Überrotationen vermeiden und kleine
   Senken aktiv „anpumpen“.
 
+<!-- i18n:faq:id=faq:neon-rider:any-trick-for-big-gaps-8ed09445 -->
 - **F: Tipps für große Sprünge?**  
   **A:** Volle Geschwindigkeit nur dann, wenn du Landepunkt und Winkel klar
   siehst – sonst lieber etwas kontrollierter springen.
+

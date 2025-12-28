@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Neon Dash ist ein reflexbasiertes Runner-Spiel voller Stacheln, Plattformen und
@@ -23,6 +24,7 @@ pulsierender Fallen. Der Fokus liegt auf Timing: kurze Hüpfer, späte Sprünge
 und ein konstanter Rhythmus helfen dir, enge Hindernisketten zu meistern.
 Je nach Modus erwarten dich Level mit Checkpoints oder One-Shot-Runs.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Sprungkurven lernen**  
@@ -44,22 +46,28 @@ Je nach Modus erwarten dich Level mit Checkpoints oder One-Shot-Runs.
     Starte hartnäckige Stellen mehrfach neu, bis die Abfolge in Fleisch und
     Blut übergeht.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Springen:** Leertaste, Klick oder Tap (in manchen Versionen verändert die
   Druckdauer die Sprunghöhe).
 - **Pause/Neustart:** Über UI-Buttons oder Tastenkürzel.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:neon-dash:why-do-i-clip-spikes-7e728366 -->
 - **F: Ich streife ständig Stacheln – warum?**  
   **A:** Meist springst du zu früh. Versuche, Absprünge minimal nach hinten zu
   verschieben und halte deine Bewegung flüssig.
 
+<!-- i18n:faq:id=faq:neon-dash:is-there-double-jump-295a4848 -->
 - **F: Gibt es einen Doppelsprung?**  
   **A:** Einige Level nutzen spezielle Pads oder Schalter, die sich wie ein
   Doppelsprung anfühlen – achte auf Bildschirmanzeigen.
 
+<!-- i18n:faq:id=faq:neon-dash:any-tip-for-lategame-36f88010 -->
 - **F: Tipps für späte Level?**  
   **A:** Nimm mental Tempo raus, zähle innerlich mit und halte dich an
   eintrainierte Zeitfenster, statt spontan zu reagieren.
+

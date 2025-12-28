@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 My Space Pet lädt dich ein, das putzige Alien-Wesen Zuub zu adoptieren und dich
@@ -26,6 +27,7 @@ und einer Menge Anpassungsmöglichkeiten. Du hältst Zuub zufrieden, indem du es
 verdienst du Münzen, mit denen du Outfits, Accessoires und Deko für Zuubs
 Weltraumzuhause freischaltest.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Zuubs Bedürfnisse im Blick behalten**  
@@ -45,21 +47,27 @@ Weltraumzuhause freischaltest.
     Tippe auf verschiedene Bildschirmelemente, um versteckte Interaktionen zu
     entdecken. Ein zufriedenes Zuub bedankt sich manchmal mit Bonusbelohnungen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 *   **Klicken/Tippen:** Mit Maus oder Finger interagierst du mit Zuub, wählst
     Menüs und spielst Minispiele.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:my-space-pet:q-what-happens-if-i-b6e995a0 -->
 *   **F: Was passiert, wenn ich mich nicht um Zuub kümmere?**
     *   **A:** Vernachlässigst du Zuubs Bedürfnisse, sinken Zufriedenheit und Energie –
         es wird traurig oder krank. Regelmäßige Pflege hält dein Pet fit und glücklich.
 
+<!-- i18n:faq:id=faq:my-space-pet:q-how-do-i-earn-8f5d70f3 -->
 *   **F: Wie bekomme ich Münzen?**
     *   **A:** Vor allem durch abgeschlossene Minispiele. Je besser du abschneidest,
         desto mehr Belohnung erhältst du.
 
+<!-- i18n:faq:id=faq:my-space-pet:q-can-i-have-more-f4d87843 -->
 *   **F: Kann ich mehr als ein Weltraumtier besitzen?**
     *   **A:** Meist konzentriert sich das Spiel auf ein Haupt‑Haustier. Schau in die
         Spielinfos – oft geht es darum, mit einem Tier eine enge Bindung aufzubauen.
+

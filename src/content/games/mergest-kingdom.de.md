@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Mergest Kingdom verbindet Merge-3-Ketten mit dem Aufbau eines Königreichs.
@@ -25,6 +26,7 @@ zu erschaffen, Nebel zu vertreiben und neue Gebiete freizuschalten. Quests und
 Events geben dir klare Ziele, während Energie und begrenzter Platz verhindern,
 dass du wahllos merg st – durchdachte Ketten sind der Schlüssel.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **3er- vs. 5er-Merge**  
@@ -48,22 +50,28 @@ dass du wahllos merg st – durchdachte Ketten sind der Schlüssel.
     Lege vor Events Teil-Sets an, damit du beim Start direkt mehrere Merges
     hintereinander ausführen kannst.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - Ziehe Objekte derselben Art zusammen, um sie zu merg en.
 - Tippe auf Gebäude, um Ressourcen einzusammeln oder Produktionen zu starten.
 - Wechsle über die Karte zwischen unterschiedlichen Regionen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:mergest-kingdom:i-run-out-of-space-28541d89 -->
 - **F: Mir geht der Platz aus – was tun?**  
   **A:** Nutze 5er-Merges, um effizient aufzuwerten, verkaufe oder zerlege
   unnötige Objekte und erweitere dein Land so früh wie möglich.
 
+<!-- i18n:faq:id=faq:mergest-kingdom:energy-too-slow-29048010 -->
 - **F: Die Energie lädt zu langsam.**  
   **A:** Plane deine Ketten im Voraus, hole dir tägliche Belohnungen ab und
   nutze Boni gezielt, statt dauernd kleine Aktionen auszuführen.
 
+<!-- i18n:faq:id=faq:mergest-kingdom:worth-merging-everything-7820ba33 -->
 - **F: Soll ich wirklich alles merg en?**  
   **A:** Nein. Merg e bevorzugt in Richtung von Quests und Gebäuden, die neue
   Funktionen freischalten, statt wahllos jede Ressource hochzustufen.
+

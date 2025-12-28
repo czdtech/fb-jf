@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 „Monopoly“ ist ein klassisches Immobilien-Brettspiel. Du wirfst Würfel, ziehst
@@ -57,6 +58,7 @@ Prise Glück spielen zusammen.
 *   **Zahlen:** Fällige Mieten oder Steuern werden in der Regel automatisch
     abgebucht.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
 1.  **F: Wie viele Personen können mitspielen?**  
@@ -73,3 +75,4 @@ Prise Glück spielen zusammen.
 4.  **F: Welche Sonderfelder gibt es?**  
     **A:** „Chance“-, „Gemeinschafts“-Karten, „Gehe ins Gefängnis“ und „Frei
     Parken“ lösen besondere Ereignisse oder Effekte aus, je nach Regelwerk.
+

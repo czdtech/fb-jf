@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 Monkey Mart ist eine niedliche, leicht zugängliche Supermarkt-Simulation. Du
@@ -57,6 +58,7 @@ Produkte frei, rüstest Maschinen auf und stellst weitere Affen als Personal ein
 *   **Tippen/Klicken:** Über Symbole auf dem Bildschirm kannst du Upgrades
     kaufen, Personal einstellen und neue Bereiche freischalten.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
 1.  **F: Wie verdiene ich schnell Geld?**  
@@ -75,3 +77,4 @@ Produkte frei, rüstest Maschinen auf und stellst weitere Affen als Personal ein
 4.  **F: Gibt es ein Zeitlimit?**  
     **A:** In der Regel nicht. Du kannst in deinem eigenen Tempo spielen; nur
     einige Aufgaben oder Events können zeitgebunden sein.
+

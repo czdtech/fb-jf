@@ -12,14 +12,17 @@ tags:
   - sprunki mountayonnaise
   - sprunki mountayonnaise online
 score: 4.8/5  (649 votes)
+releaseDate: 2025-12-04
 ---
 
 
+<!-- i18n:section:introduction -->
 Sprunki Mountayonnaise ist ein Musikspiel im Sprunki-Stil, bei dem je nach
 Soundeffekt unterschiedliche Tiercharaktere reagieren. Du stellst aus einer
 Gruppe animierter Figuren deinen eigenen Track zusammen – und entdeckst dabei
 immer neue Kombinationen.
 
+<!-- i18n:section:how-to-play -->
 ### So spielst du Sprunki Mountayonnaise
 
 Das Spielprinzip ist simpel und in wenigen Schritten erklärt:
@@ -55,3 +58,4 @@ Das Spielprinzip ist simpel und in wenigen Schritten erklärt:
 - **Echtzeit-Mixing:** Du kannst deinen Track jederzeit live umbauen. 
 - **Entdeckerspaß:** Versteckte Animationen und Effekte machen das Ausprobieren
   besonders lohnend.
+

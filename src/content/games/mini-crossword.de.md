@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 „Mini Crossword“ ist ein kleines, tägliches Kreuzworträtsel. Auf einem
@@ -54,6 +55,7 @@ Knobelspaß zu haben.
 *   **Antwort prüfen:** Manche Versionen bieten eine Prüf-Funktion, die dir
     Fehler anzeigt.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
 1.  **F: Für wen eignet sich Mini Crossword?**  
@@ -71,3 +73,4 @@ Knobelspaß zu haben.
 4.  **F: Brauche ich eine Internetverbindung?**  
     **A:** Für den Download neuer Tagesrätsel in der Regel ja; bereits geladene
     Rätsel lassen sich oft auch offline spielen.
+

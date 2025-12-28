@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 "Minesweeper" ist ein klassisches Einzelspieler-Logikpuzzle. Ziel ist es, ein
@@ -54,6 +55,7 @@ Minen markieren.
 *   **Doppelklick auf Zahl:** Sind alle angrenzenden Minen korrekt markiert,
     deckt ein Doppelklick alle übrigen Nachbarfelder auf.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
 1.  **F: Gibt es eine garantiert gewinnbringende Strategie?**  
@@ -73,3 +75,4 @@ Minen markieren.
 4.  **F: Wozu dient der Timer?**  
     **A:** Er misst deine Lösungszeit, sodass du dich selbst oder Freunde auf
     verschiedenen Schwierigkeitsstufen herausfordern kannst.
+

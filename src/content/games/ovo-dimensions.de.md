@@ -19,6 +19,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 "OvO Dimensions" führt die bekannte "OvO"-Serie fort und ist ein besonders
@@ -60,6 +61,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
     Wandsprung ausführen; an gegenüberliegenden Wänden arbeitest du dich so
     stufenweise nach oben.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
 1.  **F: Worin unterscheidet sich "OvO Dimensions" von "OvO Game"?**
@@ -78,3 +80,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
     **A:** Viele Hardcore-Plattformspiel haben aktive Communities und Online-
     Ranglisten, in denen Zeiten geteilt und verglichen werden. Schau nach
     Leaderboards oder Foren rund um die OvO-Reihe.
+

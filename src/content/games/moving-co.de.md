@@ -15,6 +15,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Moving Co. ist eine leichte Logistik- und Pack-Herausforderung. Du navigierst
@@ -23,6 +24,7 @@ Zielpunkte – möglichst ohne Rempler und mit wenigen Wegen. Enge Türen,
 zerbrechliche Gegenstände und sperrige Formen verwandeln jeden Auftrag in ein
 räumliches Rätsel unter Zeitdruck.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Erst Überblick verschaffen**  
@@ -45,22 +47,28 @@ räumliches Rätsel unter Zeitdruck.
     Fahre in der Nähe von Hindernissen langsamer – ein sauberer, fehlerfreier
     Run ist wertvoller als ein hektischer Crash mit Neustart.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Bewegen:** Pfeiltasten oder WASD, teils per virtueller Joystick.  
 - **Aufheben/Absetzen:** Kontextaktion bei Kontakt oder eigene Taste.  
 - **Rotieren (falls vorhanden):** Pfeile auf dem Bildschirm oder Q/E nutzen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:moving-co:items-keep-getting-stuckwhat-t-18dfce1e -->
 - **F: Gegenstände bleiben ständig hängen – was tun?**  
   **A:** Räume kleine Hindernisse zuerst weg oder beginne die Drehung vor
   Türrahmen, statt mitten in der Engstelle.
 
+<!-- i18n:faq:id=faq:moving-co:do-i-lose-score-for-48f1535e -->
 - **F: Verliere ich Punkte durch Rempler?**  
   **A:** Viele Modi bestrafen Kollisionen oder beschädigte Objekte. Ruhiges,
   sauberes Manövrieren zahlt sich also aus.
 
+<!-- i18n:faq:id=faq:moving-co:how-to-3star-f06a849a -->
 - **F: Wie bekomme ich 3 Sterne?**  
   **A:** Wenige, gut geplante Routen, frühes Bewegen großer Objekte und ordentlich
   gestapelte Ladungen sind der Schlüssel.
+

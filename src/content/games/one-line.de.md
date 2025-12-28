@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 "One Line" ist ein reduziertes, aber kniffliges Puzzlespiel. Deine Aufgabe ist
@@ -50,6 +51,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 *   **Level zurücksetzen:** Wenn du dich verrannt hast oder feststeckst, kannst
     du das Level jederzeit über den Reset-Button neu starten.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
 1.  **F: Was ist das Ziel des Spiels?**
@@ -64,3 +66,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 4.  **F: Ist das Spiel auch für Kinder geeignet?**
     **A:** Ja, One Line schult logisches Denken und Problemlösungsfähigkeit
     und eignet sich damit für Spielerinnen und Spieler aller Altersgruppen.
+

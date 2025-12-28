@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Ausführliche Spielbeschreibung
 
 Mini Golf World ist eine schlanke Sammlung von Minigolf-Bahnen mit Rampen,
@@ -24,6 +25,7 @@ Windmühlen und Trick-Banden. Gute Ergebnisse erreichst du durch präzise
 Schlagstärke, clevere Bank-Shots und geduldiges Timing bei beweglichen
 Hindernissen.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 1.  **Tempo am Loch**  
@@ -46,6 +48,7 @@ Hindernissen.
     Nutze Schwenk- und Zoomfunktionen, um Gefälle und versteckte Banden vor dem
     Schlag zu erkennen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Zielen:** Mit dem Cursor die Richtung setzen.  
@@ -53,16 +56,21 @@ Hindernissen.
   putten.  
 - **Reset:** Falls du festhängst, kannst du das Loch über die UI neu starten.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
+<!-- i18n:faq:id=faq:mini-golf-world:why-do-i-rim-out-502ee3af -->
 - **F: Warum prallt der Ball vom Lochrand ab?**  
   **A:** Meist ist der Putt zu schnell oder der Eintrittswinkel ungünstig.
   Reduziere Tempo und korrigiere die Linie leicht.
 
+<!-- i18n:faq:id=faq:mini-golf-world:any-universal-bank-tip-5b260f7a -->
 - **F: Allgemeiner Tipp für Banden?**  
   **A:** Ziele minimal innerhalb der idealen 45°-Linie, da der Ball beim
   Abpraller Geschwindigkeit verliert.
 
+<!-- i18n:faq:id=faq:mini-golf-world:is-there-a-stroke-limit-e979fe39 -->
 - **F: Gibt es ein Schlaglimit?**  
   **A:** Viele Bahnen haben eine maximale Schlagzahl. Plane mit sicheren
   Zwei-Putts, um unter Par zu bleiben.
+
