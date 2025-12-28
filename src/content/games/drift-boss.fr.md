@@ -17,11 +17,13 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Aperçu
 Drift à un seul bouton sur une piste suspendue : maintiens pour drifter dans les
 virages, relâche pour te remettre droit, et reste sur la plateforme pour
 accumuler des pièces et améliorer ton véhicule.
 
+<!-- i18n:section:how-to-play -->
 ### Comment jouer
 - Anticipe l’entrée de virage ; appuie pour lancer le drift, relâche pour en
   sortir.
@@ -29,6 +31,7 @@ accumuler des pièces et améliorer ton véhicule.
   secs.
 - Les pièces débloquent des voitures avec plus d’adhérence ou de stabilité.
 
+<!-- i18n:section:controls -->
 ### Commandes
 - Souris/Espace/Tactile : maintiens pour drifter ; relâche pour aller tout droit.
 
@@ -38,14 +41,19 @@ accumuler des pièces et améliorer ton véhicule.
 - Ne sur‑corrige pas : on tombe souvent à cause d’un relâchement trop tardif.
 - Investis tôt dans la stabilité pour survivre sur des pistes plus longues.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
+<!-- i18n:faq:id=faq:drift-boss:is-there-braking-70d78158 -->
 - Q: Y a‑t‑il un freinage ?
 A: Pas de frein manuel : ce sont tes appuis (timing) qui gèrent l’angle et la
 vitesse dans les virages.
+<!-- i18n:faq:id=faq:drift-boss:do-cars-handle-differently-7c6fbaa1 -->
 - Q: Les voitures se conduisent‑elles différemment ?
 A: Oui : les modèles supérieurs ont une fenêtre de drift plus stable ou plus
 tolérante.
+<!-- i18n:faq:id=faq:drift-boss:how-to-farm-coins-faster-1b1b8ede -->
 - Q: Comment farmer des pièces plus vite ?
 A: Enchaîne de longues runs et fais les défis quotidiens/de piste quand ils
 existent.
+
 

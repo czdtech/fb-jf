@@ -13,10 +13,12 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Farming 10x10 est un puzzle paisible de placement de formes sur une grille 10×10. Tu reçois des lots de trois pièces ; place‑les pour compléter des lignes ou des colonnes et les effacer. La partie se termine dès qu’aucun placement légal n’est possible, donc tout l’art consiste à préserver ta flexibilité tout en préparant des effacements multiples.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu et stratégies
 
 1.  Garde le centre respirable : nettoie les bords progressivement pour éviter de créer des pièges d’une seule case.
@@ -25,21 +27,27 @@ Farming 10x10 est un puzzle paisible de placement de formes sur une grille 10×1
 4.  Construis des setups de doubles lignes pour qu’un seul placement efface deux rangées ou plus.
 5.  Évite de créer des « colonnes vertébrales » en 1×n qui ne peuvent accueillir que des pièces bâtons.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - Fais glisser les pièces sur le plateau et relâche pour les poser ; certains modes permettent la rotation.
 - Utilise Annuler/Réinitialiser si ces options sont disponibles.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:farming-10x10:i-keep-running-out-of-53d7e049 -->
 - Q : Je n’ai plus de place, des solutions ?
   
   R : Garde une zone centrale ouverte, réserve une poche pour les pièces difficiles et privilégie les placements qui préparent des doubles effacements.
 
+<!-- i18n:faq:id=faq:farming-10x10:rotate-is-missing-47d28c13 -->
 - Q : Pourquoi je ne peux pas tourner les pièces ?
   
   R : De nombreuses variantes 10×10 ne permettent pas la rotation ; compense en gérant mieux tes espaces de réserve.
 
+<!-- i18n:faq:id=faq:farming-10x10:how-to-chase-high-scores-1161fbca -->
 - Q : Comment viser les très gros scores ?
   
   R : Enchaîne les doubles effacements et évite les placements « de secours » qui ne nettoient qu’une seule case mais cassent ta structure.
+

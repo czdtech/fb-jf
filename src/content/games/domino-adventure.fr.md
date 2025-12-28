@@ -20,6 +20,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### **Présentation du jeu**
 
 *Domino Adventure* est une version numérique soignée du jeu de dominos classique.
@@ -35,6 +36,7 @@ Le gagnant d’une manche marque des points égaux au total de points restant da
 les mains adverses. La partie se joue en plusieurs manches jusqu’à atteindre un
 score cible (par ex. 15 points, selon la version).
 
+<!-- i18n:section:tips -->
 ### **Stratégies de jeu et astuces**
 
 1.  **Joue tes doubles tôt** : les doubles (comme 5‑5 ou 3‑3) sont moins flexibles,
@@ -55,6 +57,7 @@ score cible (par ex. 15 points, selon la version).
     *   **Draw Mode** : si tu ne peux pas jouer, tu pioches dans la réserve
         (“boneyard”) jusqu’à obtenir une tuile jouable. Il y a plus d’aléatoire.
 
+<!-- i18n:section:controls -->
 ### **Commandes**
 
 Le jeu est pensé pour un gameplay simple au clic ou au glisser‑déposer.
@@ -63,24 +66,30 @@ Le jeu est pensé pour un gameplay simple au clic ou au glisser‑déposer.
     vers une extrémité valide. Souvent, tu peux aussi **cliquer** sur la tuile et
     elle se place automatiquement si un coup existe.
 
+<!-- i18n:section:faq -->
 ### **Foire aux questions (FAQ)**
 
+<!-- i18n:faq:id=faq:domino-adventure:how-do-i-win-a-e21b4f7d -->
 **1. Comment gagner une manche ?**
 Tu gagnes en étant le premier à te débarrasser de tous tes dominos. Tu peux aussi
 gagner si tout le monde est bloqué et que tu as le total de points le plus faible
 en main.
 
+<!-- i18n:faq:id=faq:domino-adventure:how-is-scoring-calculated-d2a2cb51 -->
 **2. Comment le score est‑il calculé ?**
 À la fin d’une manche, le gagnant reçoit des points égaux à la **somme des points
 sur les dominos restants dans la main du perdant**. Par exemple, s’il lui reste
 [6‑5] et [2‑1], tu marques (6+5+2+1) = 14 points.
 
+<!-- i18n:faq:id=faq:domino-adventure:whats-the-difference-between-b-e92d3a22 -->
 **3. Différence entre les modes “Block” et “Draw” ?**
 *   En **Block Mode**, si tu n’as pas de tuile jouable, tu passes ton tour.
 *   En **Draw Mode**, si tu n’as pas de tuile jouable, tu pioches dans la réserve
     (“boneyard”) jusqu’à obtenir une tuile jouable.
 
+<!-- i18n:faq:id=faq:domino-adventure:what-is-the-trophy-road-d3a9b95e -->
 **4. Qu’est‑ce que la “Trophy Road” ?**
 La Trophy Road est un système de progression où tu gagnes des récompenses en
 jouant (souvent des sets de tuiles à collectionner et d’autres éléments cosmétiques).
+
 

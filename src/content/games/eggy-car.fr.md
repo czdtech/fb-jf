@@ -14,6 +14,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Dans Eggy Car, tu conduis une petite voiture qui transporte un œuf posé
@@ -41,6 +42,7 @@ accélération et frein pour garder l’équilibre.
     Ne cherche pas tout de suite le record : prends d’abord le temps de sentir
     la sensibilité des commandes.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - **Accélérer / Freiner** : touches directionnelles ou boutons virtuels pour
@@ -48,9 +50,11 @@ accélération et frein pour garder l’équilibre.
 - **Reset / Menu** : via les boutons d’interface pour recommencer une course ou
   changer de véhicule (si disponible).
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
 
+<!-- i18n:faq:id=faq:eggy-car:what-ends-a-run-ed280e19 -->
 - Q: Qu’est‑ce qui met fin à une run ?
 
 
@@ -65,18 +69,10 @@ accélération et frein pour garder l’équilibre.
 
 - Traite les crêtes comme des sauts : relâche avant le sommet, ré‑accélère après
   l’atterrissage.
+<!-- i18n:faq:id=faq:eggy-car:is-there-a-finish-line-46e35bd5 -->
 **Q : Pourquoi mon œuf tombe‑t‑il toujours en arrière ?**  
 
+<!-- i18n:faq:id=faq:eggy-car:best-early-strategy-e4b1edd1 -->
 - Q: Y a‑t‑il une ligne d’arrivée ?
 R : Tu accélères probablement trop fort en côte. Relâche un peu avant le sommet
 
-- Q: Meilleure stratégie au début ?
-et évite les changements de vitesse brusques.
-
-**Q : Puis‑je débloquer d’autres voitures ?**  
-R : Selon la version, oui : certaines te permettent d’acheter des véhicules aux
-statistiques différentes avec les pièces collectées.
-
-**Q : Le jeu a‑t‑il une fin ?**  
-R : Non, Eggy Car est généralement un endless runner : le but est de battre
-sans cesse ton meilleur score de distance.

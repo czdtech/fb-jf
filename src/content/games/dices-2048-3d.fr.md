@@ -18,6 +18,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation détaillée du jeu
 
 Dices 2048 3D est une variante de 2048 avec de la physique. Fais tomber ou
@@ -26,6 +27,7 @@ la valeur suivante (par ex. 2→4→8). La gravité, les rebonds et le placement
 3D créent de nouvelles tactiques autour de l’empilement, de l’espace et du
 contrôle des fusions accidentelles.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu et progression
 
 1.  Garde des couloirs propres : réserve une colonne pour fusionner et une autre
@@ -40,6 +42,7 @@ contrôle des fusions accidentelles.
 5.  Coups de secours : quand le plateau monte, libère de l’espace avec des
     fusions sûres plutôt que de chercher le combo parfait.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - Viser/placer : déplace le curseur ou fais glisser pour choisir la position ;
@@ -48,12 +51,17 @@ contrôle des fusions accidentelles.
 - Annuler/Rejouer (si disponible) : des annulations limitées peuvent exister ;
   utilise‑les pour sauver une mauvaise chute.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:dices-2048-3d:how-do-dice-merge-305e836e -->
 - Comment les dés fusionnent‑ils ? Deux valeurs identiques qui se touchent
   fusionnent en la valeur suivante (par ex. deux 8 deviennent 16).
+<!-- i18n:faq:id=faq:dices-2048-3d:i-keep-causing-accidental-merg-71e8bba5 -->
 - Je provoque des fusions accidentelles — comment éviter ? Réduis la hauteur de
   chute, attends la stabilisation complète, et évite les ricochets diagonaux.
+<!-- i18n:faq:id=faq:dices-2048-3d:is-there-an-end-0d3d5bd5 -->
 - Y a‑t‑il une fin ? La partie se termine quand aucun placement légal ne reste
   ou quand le conteneur déborde ; vise 2048 (ou plus).
+
 

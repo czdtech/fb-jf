@@ -3,17 +3,18 @@ locale: fr
 urlstr: elastic-man
 title: Elastic Man
 description: "Elastic Man est un jouet interactif étrange\_: tire, tords et étire un visage en caoutchouc ultra déformable pour te détendre ou t’amuser."
-iframeSrc: 'https://elasticman.com/'
+iframeSrc: 'https://d21u3ic0kp9e91.cloudfront.net/elasticman/0/index.html'
 thumbnail: /new-images/thumbnails/elastic-man.jpg
 tags:
   - casual
   - sandbox
-score: 4.2/5  (1300 votes)
+score: 3.7/5  (959 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Elastic Man n’est pas vraiment un "jeu" à objectifs, mais un jouet physique
@@ -35,6 +36,7 @@ limites de la physique.
     Tire doucement pour de petites déformations ou très loin pour des
     distortions extrêmes.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - **Souris / tactile** : clique/touche et fais glisser n’importe où sur le
@@ -57,3 +59,4 @@ R : Non, Elastic Man est purement un jouet interactif pour le fun.
 **Q : Puis‑je l’utiliser comme anti‑stress ?**  
 R : C’est justement l’idée : malaxer virtuellement un visage élastique peut
 être étonnamment relaxant.
+

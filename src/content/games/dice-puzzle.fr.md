@@ -15,6 +15,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Dice Puzzle est un jeu de réflexion où tu places des dés sur une grille 5×5.
@@ -25,6 +26,7 @@ Le but ultime est de créer des dés de valeur 6 et de les fusionner pour
 obtenir un cube‑bijou spécial capable de nettoyer une zone de la grille. La
 partie se termine lorsque plus aucune case n’est disponible pour poser un dé.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1.  **Règle de fusion**  
@@ -45,6 +47,7 @@ partie se termine lorsque plus aucune case n’est disponible pour poser un dé.
     Évite de remplir complètement les coins ou le centre sans plan ; garde des
     zones modulables pour enchaîner les fusions.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - **Placer un dé** : clique/tape sur une case vide pour y poser le dé actuel.  
@@ -53,6 +56,7 @@ partie se termine lorsque plus aucune case n’est disponible pour poser un dé.
 - **Actions diverses** : boutons de redémarrage, annulation ou options selon la
   version.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
 
@@ -72,13 +76,17 @@ partie se termine lorsque plus aucune case n’est disponible pour poser un dé.
   ou verticalement ; ils fusionneront automatiquement.
 
     - **Q : Comment fusionner des dés ?**
+<!-- i18n:faq:id=faq:dice-puzzle:q-how-do-i-merge-532c1910 -->
 **Q : Comment fusionner les dés ?**  
 R : Place au moins trois dés de même valeur de manière adjacente (horizontalement
 ou verticalement). Ils fusionnent alors en un dé de valeur supérieure.
 
+<!-- i18n:faq:id=faq:dice-puzzle:q-what-is-the-goal-ab58581b -->
 **Q : Quel est l’objectif final ?**  
 R : Survivre le plus longtemps possible et obtenir le score le plus élevé en
 chaînant fusions et explosions de cubes‑bijoux.
 
+<!-- i18n:faq:id=faq:dice-puzzle:q-what-happens-when-i-68b2ff3c -->
 **Q : Que se passe‑t‑il quand la grille est pleine ?**  
 R : Si aucun emplacement n’est libre pour le prochain dé, la partie s’arrête.
+

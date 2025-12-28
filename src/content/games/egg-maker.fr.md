@@ -14,6 +14,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Egg Maker condense la gestion de temps en cuisine en une série de postes
@@ -45,6 +46,7 @@ et éviter de brûler les plats.
     Si le jeu propose des upgrades, privilégie l’ajout de poêles et
     l’accélération de la préparation avant la déco du restaurant.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - **Actions de cuisine** : touche ou clique pour casser les œufs, fouetter,
@@ -53,10 +55,13 @@ et éviter de brûler les plats.
   plat.  
 - **Pause / Rejouer** : via les boutons de l’interface.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
 
+<!-- i18n:faq:id=faq:egg-maker:i-keep-burning-items-how-483b18e0 -->
 - Q: I keep burning items — how to fix?
+<!-- i18n:faq:id=faq:egg-maker:which-upgrade-first-be077b24 -->
 - Q: Je brûle tout le temps — comment corriger ?
 
 
@@ -73,20 +78,6 @@ et éviter de brûler les plats.
 
 - Tampon d’assiettes : prépare des assiettes près du passe‑plat pour réduire les
   déplacements quand les commandes explosent.
+<!-- i18n:faq:id=faq:egg-maker:any-trick-for-omelets-with-7e3bef76 -->
 **Q : Je brûle tout le temps mes œufs, que faire ?**  
 
-- Q: Quelle amélioration choisir en premier ?
-R : Espace légèrement tes cuissons (2–3 secondes entre chaque poêle) et garde
-
-- Q: Une astuce pour les omelettes avec garniture ?
-un œil sur les assiettes prêtes plutôt que de lancer trop de préparations en
-même temps.
-
-**Q : Quelles améliorations sont les plus utiles au début ?**  
-R : Une poêle supplémentaire et des préparations plus rapides (cassage/foison)
-ont plus d’impact que la déco ou des bonus secondaires.
-
-**Q : Y a‑t‑il une fin au jeu ?**  
-R : Le plus souvent, Egg Maker propose des niveaux ou jours à enchaîner avec
-une difficulté croissante, l’objectif étant de tenir le rush et d’obtenir les
-meilleures notes possibles.

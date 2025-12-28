@@ -3,17 +3,18 @@ locale: fr
 urlstr: electron-dash
 title: Electron Dash
 description: "Electron Dash est un runner futuriste dans un tunnel\_: cours, saute et téléporte‑toi de plateforme en plateforme sans tomber dans le vide."
-iframeSrc: 'https://webglmath.github.io/electron-dash/'
+iframeSrc: 'https://slope-game.github.io/electron-dash/'
 thumbnail: /new-images/thumbnails/electron-dash.jpg
 tags:
   - action
   - casual
-score: 4.3/5  (1900 votes)
-releaseDate: 2025-08-16T00:00:00.000Z
+score: 4.4/5  (1386 votes)
+releaseDate: 2025-09-09
 ---
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Electron Dash t’embarque dans un tunnel spatial en 3D vu de dessus ou de
@@ -39,6 +40,7 @@ changeant de côté de tunnel au bon moment.
     Ne change pas de côté du tunnel sans raison, tu risques de te jeter dans un
     trou.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - **Saut / changement de côté** : touches fléchées, barre d’espace ou taps
@@ -56,6 +58,7 @@ changeant de côté de tunnel au bon moment.
 
 - Enchaîne dash→saut pour franchir de longs trous ; ne spamme pas le dash sur des
   plateformes instables.
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
 - Traite les courbes comme des “voies” : change tôt, pas au dernier bord.
@@ -65,14 +68,14 @@ changeant de côté de tunnel au bon moment.
 
 - Recentre‑toi avant une montée “aveugle” : les changements de caméra peuvent
   tromper sur le placement.
+<!-- i18n:faq:id=faq:electron-dash:random-or-fixed-levels-bbc83643 -->
 **Q : Le jeu est‑il infini ?**  
 
+<!-- i18n:faq:id=faq:electron-dash:what-counts-as-failure-4929d013 -->
 - Q: Qu’est‑ce qui compte comme un échec ?
 R : Oui, la plupart des versions sont endless ; le but est d’aller le plus loin
 
+<!-- i18n:faq:id=faq:electron-dash:any-upgrades-2e662d37 -->
 - Q: Y a‑t‑il des améliorations ?
 possible.
 
-**Q : Y a‑t‑il des bonus ?**  
-R : Certaines variantes ajoutent des bonus de vitesse, de score ou des shields
- ; consulte les icônes à l’écran.

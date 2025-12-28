@@ -18,6 +18,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation détaillée du jeu
 
 Droid‑O est un shooter d’arène compact et réactif en vue du dessus où tu pilotes
@@ -58,6 +59,7 @@ surtout dès que des ennemis à distance apparaissent.
 - Drones déployables : pose des drones avant un virage de kite pour qu’ils
   arrosent la ligne des poursuivants.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - Déplacement : WASD/Flèches. Viser : souris ou stick droit. Tirer : clic
@@ -73,26 +75,32 @@ surtout dès que des ennemis à distance apparaissent.
 - Rythme des vagues : ralentis légèrement les éliminations pour regrouper les
   spawns, puis nettoie avec des lignes perforantes.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:droid-o:i-keep-getting-cornered-how-6205b082 -->
 - Q: Je me fais coincer — comment éviter ?
 
 A: Évite les petits cercles près des murs. Fais de grands arcs qui traversent le
 centre, dash tôt par la brèche la plus fine, et utilise les piliers pour casser
 les lignes de vue.
 
+<!-- i18n:faq:id=faq:droid-o:which-enemies-should-i-kill-1787e5bd -->
 - Q: Quels ennemis tuer en premier ?
 
 A: Les chargeurs rapides et les unités à distance. La mêlée lente peut être
 kitée pendant que tu réduis les cibles prioritaires.
 
+<!-- i18n:faq:id=faq:droid-o:my-weapon-overheats-constantly-19a29573 -->
 - Q: Mon arme surchauffe tout le temps — une astuce ?
 
 A: Tire en rafales courtes, repositionne‑toi pendant le cooldown, et prends des
 améliorations d’efficacité si le mode le permet.
 
+<!-- i18n:faq:id=faq:droid-o:are-deployables-worth-it-039fa7d3 -->
 - Q: Les déployables valent‑ils le coup ?
 
 A: Oui : place‑les à l’avance sur ta trajectoire de kite pour qu’ils tirent
 pendant la poursuite, ce qui augmente les dégâts sans prendre plus de risques.
+
 

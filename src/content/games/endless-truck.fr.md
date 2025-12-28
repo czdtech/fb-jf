@@ -14,6 +14,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Endless Truck est un runner à défilement horizontal centré sur la gestion de la vitesse et l’angle d’atterrissage. Collines, tremplins et ravins récompensent une accélération fluide et des flips contrôlés ; les atterrissages ratés te font perdre de la vitesse ou provoquent un crash. En ramassant de l’argent et en accomplissant des missions, tu débloques des améliorations (moteur, suspension, boost) qui augmentent ta vitesse de pointe et la stabilité de ton camion.
@@ -26,6 +27,7 @@ Endless Truck est un runner à défilement horizontal centré sur la gestion de 
 4.  Utilise le boost intelligemment : déclenche le nitro à la sortie d’un saut, sur terrain plat, plutôt qu’en plein vol ; enchaîner les boosts après des atterrissages propres donne les runs les plus longs.
 5.  Ordre des améliorations : commence par la suspension et les pneus pour gagner en contrôle, puis investis dans le moteur et le boost une fois le camion plus stable.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - Accélérer/Freiner : W/S ou Flèche Haut/Bas.  Incliner le camion : A/D ou Flèches Gauche/Droite.  Boost : Shift ou Barre d’espace (selon la configuration).
@@ -36,16 +38,21 @@ Endless Truck est un runner à défilement horizontal centré sur la gestion de 
 - Optimisation des missions : choisis des trajectoires qui te permettent de valider plusieurs missions en un seul run (par exemple flips + distance).
 - Sauver un atterrissage raté : si ton angle est mauvais, coupe les gaz et ajuste doucement l’inclinaison pour récupérer un contact correct avec le sol.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:endless-truck:i-always-wipe-out-on-9c9698af -->
 - Q : Je me crashe tout le temps à l’atterrissage, que faire ?
   
   R : Réduis le nombre de flips, veille à atterrir roues bien à plat et relâche légèrement l’accélérateur le temps que la suspension se stabilise.
 
+<!-- i18n:faq:id=faq:endless-truck:best-upgrade-first-23f8ce2f -->
 - Q : Quelle amélioration acheter en premier ?
   
   R : La suspension et les pneus pour la maniabilité ; la vitesse vient après, une fois que tu contrôles bien le camion.
 
+<!-- i18n:faq:id=faq:endless-truck:when-should-i-use-boost-4e692488 -->
 - Q : Quand utiliser le boost ?
   
   R : Sur les portions plates après un atterrissage propre, pour prolonger ta vitesse sans perdre le contrôle.
+

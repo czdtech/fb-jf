@@ -18,6 +18,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Présentation détaillée du jeu
 
 Diwali Lights est un puzzle « light‑up » sur le thème de Diwali. Active des lampes
@@ -25,6 +26,7 @@ Diwali Lights est un puzzle « light‑up » sur le thème de Diwali. Active
 respectant les règles (chevauchements interdits, séquences, etc.). Plus loin,
 des niveaux ajoutent des coups limités, des interrupteurs et parfois du timing.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu et progression
 
 1.  Comprends les règles : certains plateaux interdisent les chevauchements ou
@@ -37,15 +39,21 @@ des niveaux ajoutent des coups limités, des interrupteurs et parfois du timing.
 5.  Optimise en recommençant : sur les puzzles courts, relancer vite après une
     erreur est souvent plus efficace.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 - Tape/clique sur les lampes, interrupteurs ou cases selon les règles du puzzle.
 - Annule/Réinitialise si le mode le permet.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:diwali-lights:i-keep-failing-on-move-cedc706f -->
 - Je rate à cause des coups limités — pourquoi ? Ton trajet gaspille des coups ;
   trace un chemin plus court.
+<!-- i18n:faq:id=faq:diwali-lights:timed-boards-de29568d -->
 - Niveaux chronométrés ? Commence par les motifs proches des timers.
+<!-- i18n:faq:id=faq:diwali-lights:are-hints-available-6c76ed5b -->
 - Y a‑t‑il des indices ? Souvent oui ; utilise‑les avec parcimonie.
+
 

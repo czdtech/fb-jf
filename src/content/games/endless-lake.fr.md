@@ -18,10 +18,12 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Endless Lake est un runner sans fin minimaliste et exigeant qui met à l'épreuve ton sens du timing et tes réflexes. Tu contrôles un personnage qui court sur une série de plateformes suspendues au‑dessus d'un lac tranquille. Le gameplay repose sur une mécanique simple : le saut. Tu dois parfaitement synchroniser tes sauts simples et doubles pour franchir les écarts entre les plateformes, qui changent en permanence, et voir jusqu'où tu peux aller.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu et stratégies
 
 1.  Maîtrise le double saut : la compétence la plus importante du jeu. Une seule pression donne un petit saut, mais une deuxième pression en plein vol te donne l'impulsion nécessaire pour passer les trous les plus larges. Apprends bien la distance couverte par chaque type de saut.
@@ -29,6 +31,7 @@ Endless Lake est un runner sans fin minimaliste et exigeant qui met à l'épreuv
 3.  Ne double‑saute pas pour rien : une erreur fréquente est d'utiliser le double saut pour un trou très court. Tu risques alors de mal te placer pour le saut suivant. Ne l'utilise que lorsque c'est vraiment nécessaire.
 4.  Regarde toujours devant : garde les yeux quelques plateformes en avant de ton personnage. Tu auras ainsi le temps de juger si le prochain trou demande un saut simple ou un double saut.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 Le jeu utilise un système de contrôle « un seul clic/tap ».
@@ -36,13 +39,18 @@ Le jeu utilise un système de contrôle « un seul clic/tap ».
 *   **Saut simple** : clique une fois avec le bouton gauche de la souris ou touche l'écran une seule fois.
 *   **Double saut** : clique/tape une première fois pour sauter, puis une deuxième fois pendant que ton personnage est en l'air pour déclencher le double saut.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:endless-lake:q-what-is-the-goal-ab58581b -->
 *   **Q : Quel est l'objectif du jeu ?**
     *   **R :** Courir le plus loin possible sans tomber dans le lac. Ton score est basé sur la distance parcourue.
 
+<!-- i18n:faq:id=faq:endless-lake:q-how-do-i-know-da3ae9a5 -->
 *   **Q : Comment savoir quand utiliser le double saut ?**
     *   **R :** Tu dois estimer visuellement la largeur des trous. Les plus larges nécessitent un double saut, alors que les petits peuvent être franchis avec un seul saut. C'est précisément la compétence que le jeu cherche à développer.
 
+<!-- i18n:faq:id=faq:endless-lake:q-what-are-the-mirror-488e84f5 -->
 *   **Q : Que sont les portes miroir ?**
     *   **R :** En les traversant, tu crées souvent un clone de ton personnage, ce qui ajoute une touche visuelle amusante où tu contrôles plusieurs coureurs en même temps.
+

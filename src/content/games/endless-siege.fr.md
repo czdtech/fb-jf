@@ -18,10 +18,12 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Présentation du jeu
 
 Endless Siege est un jeu de tower defense très prenant où tu dois défendre ton royaume contre des vagues sans fin d'orcs, de gobelins et d'autres créatures monstrueuses. Sa particularité : chaque jour, tu joues sur une nouvelle carte générée de façon procédurale, ce qui garantit une rejouabilité énorme. À toi de placer et d'améliorer intelligemment différentes tours de défense pour survivre au plus grand nombre de vagues possible et viser le meilleur score du jour.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu et stratégies
 
 1.  Connais bien tes tours : comprendre tes défenses est essentiel.
@@ -34,19 +36,25 @@ Endless Siege est un jeu de tower defense très prenant où tu dois défendre to
 3.  Profite de l'effet de ralentissement : la tour Timewarp est l'une des plus importantes du jeu. La placer au début d'une longue ligne droite permet à tes tours de dégâts d'attaquer les ennemis beaucoup plus souvent, ce qui augmente énormément leur efficacité.
 4.  Améliore avec stratégie : il vaut souvent mieux avoir quelques tours très améliorées et puissantes que beaucoup de petites tours faibles. Dépense surtout ton or pour améliorer les tours les mieux placées afin de maximiser leurs dégâts.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 *   **Construire une tour** : clique sur un emplacement circulaire vide sur la carte pour ouvrir le menu de construction, puis choisis la tour à bâtir.
 *   **Améliorer une tour** : clique sur une tour existante pour voir ses statistiques et ses améliorations possibles, puis clique sur le bouton d'upgrade pour la faire monter de niveau.
 *   **Lancer la prochaine vague** : quand tu es prêt, clique sur le bouton « Next Wave » pour déclencher l'assaut suivant.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
+<!-- i18n:faq:id=faq:endless-siege:q-what-is-the-best-5882ea25 -->
 *   **Q : Quelle est la meilleure tour du jeu ?**
     *   **R :** Il n'existe pas de « meilleure » tour unique. Une défense efficace repose sur une combinaison intelligente des quatre types : utilise Cannons et Torch pour les groupes, Ballista pour les cibles isolées et robustes, et Timewarp pour ralentir tout le monde.
 
+<!-- i18n:faq:id=faq:endless-siege:q-why-cant-i-build-6d8922f5 -->
 *   **Q : Pourquoi je ne peux pas construire de tour à certains endroits ?**
     *   **R :** Tu ne peux bâtir des tours que sur les emplacements circulaires prévus le long du chemin des ennemis.
 
+<!-- i18n:faq:id=faq:endless-siege:q-why-is-the-map-c5353526 -->
 *   **Q : Pourquoi la carte change-t-elle par rapport à hier ?**
     *   **R :** C'est une des particularités d'Endless Siege : une nouvelle carte est générée chaque jour, offrant à tous les joueurs un défi stratégique inédit.
+

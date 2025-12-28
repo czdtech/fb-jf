@@ -18,11 +18,13 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Aperçu
 Entraîne un canard de course via des mini‑jeux (course, natation, vol, escalade),
 puis participe à des tournois régionaux. L’énergie sert d’endurance ; chapeaux et
 évolutions changent surtout l’apparence.
 
+<!-- i18n:section:how-to-play -->
 ### Comment jouer
 - Améliore chaque stat via son mini‑jeu d’entraînement ; évite les obstacles pour
   gagner de l’XP plus vite.
@@ -30,6 +32,7 @@ puis participe à des tournois régionaux. L’énergie sert d’endurance ; c
   l’endurance en course.
 - Gagne les courses qualificatives pour débloquer de nouvelles zones et tournois.
 
+<!-- i18n:section:controls -->
 ### Commandes
 - Flèches/souris selon le mini‑jeu ; Espace pour sauter dans les runners (selon
   l’hébergeur).
@@ -39,11 +42,16 @@ puis participe à des tournois régionaux. L’énergie sert d’endurance ; c
 - Remplis l’énergie avant les tournois.
 - Rejoue les entraînements précédents pour gagner de l’XP “sûre” si tu bloques.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
+<!-- i18n:faq:id=faq:duck-life-4:do-cosmetics-affect-speed-87c8db5c -->
 - Q: Les cosmétiques influencent‑ils la vitesse ?
 A: Les chapeaux sont cosmétiques ; la progression vient des stats et de l’énergie.
+<!-- i18n:faq:id=faq:duck-life-4:can-i-respec-25269397 -->
 - Q: Peut‑on “respec” ?
 A: Non : il faut simplement entraîner la stat dont tu as besoin.
+<!-- i18n:faq:id=faq:duck-life-4:why-am-i-losing-photofinish-6772e3f1 -->
 - Q: Pourquoi je perds au photo‑finish ?
 A: Souvent à cause d’une énergie trop basse ou d’une stat en retard (ex. escalade).
+
 
