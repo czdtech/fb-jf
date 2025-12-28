@@ -15,12 +15,14 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Descripción general
 
 Football Legends es un fútbol rápido 1v1 o 2v2 con física exagerada y disparos
 especiales. Puedes jugar partidos rápidos o intentar ganar cuadros de torneo
 completos.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 - Colócate para rematar de cabeza o de volea; sincroniza los disparos
@@ -30,6 +32,7 @@ completos.
 - En modo 2 jugadores, repartid roles: que uno presione arriba y el otro
   cubra atrás.
 
+<!-- i18n:section:controls -->
 ### Controles
 
 - Flechas/WASD para moverse y saltar; las teclas de tiro, pase y especial
@@ -44,15 +47,20 @@ completos.
 - En defensa, retrocede y cierra ángulos en lugar de lanzarte a por la
   entrada.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:football-legends:how-do-i-activate-a-5be5f6a8 -->
 - **P: ¿Cómo activo un disparo especial?**  
   **R:** Llena el medidor durante el juego y luego pulsa la tecla especial que
   indique tu versión.
 
+<!-- i18n:faq:id=faq:football-legends:does-2player-work-on-one-1cf93e87 -->
 - **P: ¿Se puede jugar 2 jugadores en el mismo teclado?**  
   **R:** Sí, la mayoría de versiones asignan dos esquemas de teclas distintos.
 
+<!-- i18n:faq:id=faq:football-legends:are-there-teams-with-different-49fd2ac3 -->
 - **P: ¿Los equipos tienen estadísticas diferentes?**  
   **R:** Muchos portales ofrecen solo skins distintos; la física suele ser la
   misma para todos.
+

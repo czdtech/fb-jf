@@ -15,6 +15,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Fluffy Mania es un colorido y relajante puzle de conexión. Tienes que enlazar
@@ -22,6 +23,7 @@ fluffies adyacentes del mismo color para eliminarlos, preparar reacciones en
 cadena y cumplir objetivos de nivel como alcanzar cierta puntuación, superar
 fases con un número limitado de movimientos o limpiar casillas especiales.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego y recorrido
 
 1. **Crea cuadrados o bucles:** Si las reglas permiten hacer bucles o
@@ -36,6 +38,7 @@ fases con un número limitado de movimientos o limpiar casillas especiales.
 5. **Usa los potenciadores con cabeza:** Actívalos cuando puedan ayudarte a
    avanzar en varios objetivos a la vez.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - **Conectar:** Haz clic o toca y arrastra por vecinos del mismo color para
@@ -43,16 +46,21 @@ fases con un número limitado de movimientos o limpiar casillas especiales.
 - **Deshacer/Reintentar (si está disponible):** Úsalo con cuidado en niveles
   con movimientos limitados.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:fluffy-mania:stuck-with-one-move-leftwhat-99502a85 -->
 - **P: Me quedo atascado con un solo movimiento, ¿qué hago?**  
   **R:** Busca jugadas en la parte inferior del tablero que puedan abrir
   cascadas y generar nuevas conexiones.
 
+<!-- i18n:faq:id=faq:fluffy-mania:do-loops-matter-b566c568 -->
 - **P: ¿Importan los bucles?**  
   **R:** Si están habilitados, los bucles son muy potentes; dales prioridad
   siempre que puedas crearlos sin arruinar otros objetivos.
 
+<!-- i18n:faq:id=faq:fluffy-mania:timed-vs-moves-23faa6a7 -->
 - **P: ¿Es lo mismo jugar con límite de tiempo que con límite de movimientos?**  
   **R:** No. En los niveles con tiempo prima la velocidad; en los de movimientos
   limitados importa más la eficiencia de cada jugada.
+

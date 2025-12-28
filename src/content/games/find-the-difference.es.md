@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Find the Difference es un clásico juego de puzles que pone a prueba tus
@@ -26,6 +27,7 @@ número concreto de diferencias sutiles. Tu misión es comparar las dos escenas
 con calma e identificar todas las diferencias antes de que se acabe el tiempo.
 Es un juego relajante pero desafiante que supone un gran entrenamiento mental.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego y recorrido
 
 1. **Explora de forma sistemática:** No te limites a mirar el centro de las
@@ -48,26 +50,32 @@ Es un juego relajante pero desafiante que supone un gran entrenamiento mental.
    los clics incorrectos reduciendo el tiempo restante o aplicando otras
    sanciones.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - **Marcar una diferencia:** Cuando veas una diferencia, usa el ratón para
   hacer clic sobre esa zona en cualquiera de las dos imágenes. Si aciertas, el
   juego marcará la diferencia automáticamente.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:find-the-difference:q-what-kind-of-differences-cb6259ef -->
 *   **P: ¿En qué tipo de diferencias debería fijarme?**
     *   **R:** ¡Casi cualquier cosa puede cambiar! Busca objetos añadidos o
         desaparecidos, colores distintos, variaciones de tamaño o pequeños cambios de
         posición.
 
+<!-- i18n:faq:id=faq:find-the-difference:q-what-happens-if-i-3e2f3236 -->
 *   **P: ¿Qué ocurre si hago clic en un lugar equivocado?**
     *   **R:** La mayoría de juegos aplican una penalización por fallo: normalmente
         restan tiempo del contador o bloquean temporalmente la posibilidad de volver a
         hacer clic.
 
+<!-- i18n:faq:id=faq:find-the-difference:q-i-cant-find-the-93991e8a -->
 *   **P: ¡No encuentro la última diferencia! ¿Qué puedo hacer?**
     *   **R:** Es el momento perfecto para usar una pista, si aún te queda alguna. Si
         no, aparta la vista de la pantalla unos segundos para descansar la mirada y
         vuelve a revisar las imágenes, quizá siguiendo un patrón diferente al que
         usaste la primera vez.
+

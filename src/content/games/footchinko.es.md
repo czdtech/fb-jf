@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Footchinko es un juego arcade innovador y muy adictivo que combina la emoción
@@ -28,6 +29,7 @@ forma estratégica para superar defensas y encontrar el camino hacia la red.
 Además, puedes recoger potenciadores y bonificaciones que mejoran tus
 lanzamientos y te ayudan a alcanzar puntuaciones espectaculares.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego y recorrido
 
 1. **La puntería lo es todo:** Antes de cada lanzamiento, piensa en la
@@ -46,23 +48,29 @@ lanzamientos y te ayudan a alcanzar puntuaciones espectaculares.
    balón en cada superficie es clave. Con la práctica desarrollarás intuición
    sobre la física del juego.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - **Lanzar el balón:** Haz clic o toca la pantalla para lanzar. La posición en
   la que pulses suele determinar la dirección inicial y, en algunos casos, la
   potencia del tiro.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:footchinko:q-what-is-the-main-da416039 -->
 *   **P: ¿Cuál es el objetivo principal en Footchinko?**
     *   **R:** Marcar goles llevando el balón hasta la portería rival, atravesando un
         campo lleno de obstáculos al estilo pachinko.
 
+<!-- i18n:faq:id=faq:footchinko:q-are-there-different-levels-18c8734d -->
 *   **P: ¿Hay distintos niveles o campeonatos?**
     *   **R:** Sí. Footchinko suele incluir múltiples niveles y campeonatos, cada uno
         con mayor dificultad y diseños de campo diferentes.
 
+<!-- i18n:faq:id=faq:footchinko:q-how-do-i-get-698432e6 -->
 *   **P: ¿Cómo puedo conseguir más puntos?**
     *   **R:** Marca más goles, recoge potenciadores y procura despejar obstáculos de
         forma eficiente. Algunas versiones también premian golpear dianas concretas o
         encadenar combos de tiro.
+

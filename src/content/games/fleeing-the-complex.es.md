@@ -15,6 +15,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Descripción general
 
 Es la mayor fuga de Henry Stickmin: tomas decisiones, pruebas artilugios y
@@ -22,6 +23,7 @@ recorres distintas ramas de ruta para escapar del complejo. El juego está
 repleto de fallos cómicos y varios finales exitosos que dependen de los
 caminos que elijas.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 - Elige opciones durante las escenas; algunos momentos de acción rápida
@@ -31,6 +33,7 @@ caminos que elijas.
 - Usa la selección de escenas (si está disponible) para completar los fallos y
   biografías que te falten.
 
+<!-- i18n:section:controls -->
 ### Controles
 
 - Ratón para seleccionar opciones e interactuar; algunas escenas usan teclas
@@ -45,16 +48,21 @@ caminos que elijas.
 - Lleva una lista de los finales que ya has conseguido para evitar repeticiones
   innecesarias.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:fleeing-the-complex:how-many-endings-does-the-a1baec6e -->
 - **P: ¿Cuántos finales incluye el juego?**  
   **R:** Hay varios finales exitosos repartidos entre las principales ramas de
   la historia.
 
+<!-- i18n:faq:id=faq:fleeing-the-complex:do-i-need-to-react-43075d92 -->
 - **P: ¿Tengo que reaccionar rápido en todas las escenas?**  
   **R:** Solo algunas secuencias usan eventos de clic rápido; la mayoría se
   basan en elegir opciones de menú.
 
+<!-- i18n:faq:id=faq:fleeing-the-complex:can-i-rewatch-scenes-to-ee1327e8 -->
 - **P: ¿Puedo volver a ver escenas para completar todo?**  
   **R:** Sí, muchos portales ofrecen selección de escenas para repasar rutas y
   terminar de conseguir todos los fallos y biografías.
+

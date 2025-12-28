@@ -17,6 +17,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Fruit Cube Blast es un puzle "tap‑to‑blast" vibrante y explosivo. A diferencia
@@ -27,6 +28,7 @@ limpiando cubos de forma estratégica y creando combos potentes. Al explotar
 grupos grandes generarás potenciadores especiales como cohetes y bombas que
 limpian aún más tablero de una sola vez.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego y recorrido
 
 1. **Cuanto más grande, mejor:** Busca siempre el grupo más grande de cubos
@@ -50,6 +52,7 @@ limpian aún más tablero de una sola vez.
    los gastes en grupos pequeños sin importancia. Intenta preparar grandes
    agrupaciones que creen potenciadores o generen grandes cascadas.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 Los controles son muy sencillos.
@@ -59,16 +62,21 @@ Los controles son muy sencillos.
 - **Activar potenciadores:** Basta con tocar un potenciador (cohete, bomba,
   etc.) para activarlo.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:fruit-cube-blast:q-why-cant-i-tap-6043750c -->
 *   **P: ¿Por qué no puedo tocar un cubo suelto?**
     *   **R:** El juego exige que haya al menos dos cubos conectados del mismo color
         para poder eliminarlos.
 
+<!-- i18n:faq:id=faq:fruit-cube-blast:q-how-do-i-create-fcae3932 -->
 *   **P: ¿Cómo creo un cohete?**
     *   **R:** Toca un grupo de 5 o 6 cubos idénticos conectados para generarlo.
 
+<!-- i18n:faq:id=faq:fruit-cube-blast:q-what-is-the-best-610f5571 -->
 *   **P: ¿Cuál es la mejor forma de pasar niveles con pocos movimientos?**
     *   **R:** Prioriza la creación de potenciadores formando grupos grandes en lugar
         de muchos grupos pequeños. Luego intenta colocar dos potenciadores juntos y
         activarlos a la vez para limpiar medio tablero de una sola jugada.
+

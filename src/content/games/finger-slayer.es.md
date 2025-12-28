@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Finger Slayer es una prueba de reflejos de un solo botón: colocas tu "dedo"
@@ -25,6 +26,7 @@ rápidos, amagos falsos y cambios de ritmo que castigan la anticipación. El
 objetivo es ejecutar un único movimiento preciso en el último instante seguro,
 ni antes (lo que te da menos puntos) ni demasiado tarde.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1. **Lee la señal:** La mayoría de trampas tienen una pequeña animación o
@@ -38,22 +40,28 @@ ni antes (lo que te da menos puntos) ni demasiado tarde.
 5. **Conoce tu umbral seguro:** Aprende cuál es tu límite de reacción y apunta
    siempre apenas un instante antes de él.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - Mantén pulsado para "colocar" el dedo y suelta para retirarlo; en algunas
   versiones se usa solo tocar o mantener pulsado.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:finger-slayer:i-always-move-too-early-50520ef2 -->
 - **P: Siempre reacciono demasiado pronto, ¿cómo lo evito?**  
   **R:** Concéntrate en la preanimación o el aviso sonoro de la trampa. Evita
   adivinar el momento y reacciona únicamente cuando veas o escuches la señal.
 
+<!-- i18n:faq:id=faq:finger-slayer:closures-feel-random-any-tip-b8f976ee -->
 - **P: Los cierres me parecen aleatorios, ¿algún consejo?**  
   **R:** Suelen ser pseudoaleatorios pero con señales o patrones. Entrena una
   respuesta tranquila de esperar y, en cuanto veas la señal, hacer un movimiento
   rápido.
 
+<!-- i18n:faq:id=faq:finger-slayer:is-there-input-lag-f763cc99 -->
 - **P: ¿Hay retardo en los controles?**  
   **R:** En algunos dispositivos puede haber un pequeño retraso. Compénsalo
   reaccionando justo en el primer fotograma de la señal.
+

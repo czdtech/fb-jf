@@ -15,6 +15,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Futoshiki ("no igual") es un puzle de lógica tipo cuadrado latino, parecido a
@@ -24,6 +25,7 @@ números exactamente una vez y que, además, se respeten todas las
 desigualdades. Estos signos crean cadenas muy fuertes que permiten
 razonamientos limpios y potentes.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego y recorrido
 
 1. **Cadenas de desigualdad:** Si A>B>C entonces A≥C+2; anota candidatos en
@@ -38,22 +40,28 @@ razonamientos limpios y potentes.
    desigualdades simétricas; aprovéchalas para trasladar deducciones de un
    lado al otro.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - Toca o haz clic en una celda para introducir candidatos o valores, alterna el
   modo lápiz y usa deshacer/rehacer según necesites.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:futoshiki:i-cant-progress-any-tip-26670f59 -->
 - **P: Estoy bloqueado, ¿algún consejo?**  
   **R:** Expande las cadenas de desigualdades como cotas explícitas (por
   ejemplo, si 5>□>3 entonces la celda central solo puede ser 4) y combina eso
   con las restricciones de fila y columna.
 
+<!-- i18n:faq:id=faq:futoshiki:are-guesses-required-13834711 -->
 - **P: ¿Es necesario adivinar?**  
   **R:** Los buenos conjuntos suelen ser resolubles solo con lógica. En el peor
   caso, usa suposiciones controladas con retroceso rápido.
 
+<!-- i18n:faq:id=faq:futoshiki:difference-vs-sudoku-89f94240 -->
 - **P: ¿En qué se diferencia de Sudoku?**  
   **R:** Las desigualdades añaden restricciones dirigidas que permiten jugadas
   forzadas más fuertes que en un Sudoku clásico.
+

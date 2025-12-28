@@ -15,6 +15,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Fruit Slot Machine emula una sencilla tragaperras de tres rodillos con símbolos
@@ -23,6 +24,7 @@ independiente y los premios se calculan según la tabla de pagos y las líneas
 activas. Tómatelo como un entretenimiento ligero, no como un juego de
 estrategia.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego y recorrido
 
 1. **Presupuesto primero:** Fija un presupuesto para la sesión y no persigas
@@ -35,20 +37,26 @@ estrategia.
 5. **Reglas de parada:** Deja de jugar cuando alcances un objetivo de ganancia
    o llegues al límite de tu presupuesto.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - Ajusta apuesta y líneas (si el juego lo permite) y pulsa **Spin**. Algunas
   versiones incluyen giro automático.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:fruit-slot-machine:can-i-influence-outcomes-f98dae04 -->
 - **P: ¿Puedo influir en los resultados?**  
   **R:** No. Los giros se generan por RNG; céntrate en gestionar tu presupuesto
   en lugar de buscar sistemas.
 
+<!-- i18n:faq:id=faq:fruit-slot-machine:whats-the-best-bet-22b1405b -->
 - **P: ¿Cuál es la mejor apuesta?**  
   **R:** Una apuesta pequeña y estable suele alargar la sesión y el disfrute.
 
+<!-- i18n:faq:id=faq:fruit-slot-machine:do-features-increase-rtp-27af40bb -->
 - **P: ¿Las funciones especiales aumentan el RTP?**  
   **R:** Sobre todo modifican la volatilidad; la expectativa a largo plazo suele
   mantenerse similar.
+

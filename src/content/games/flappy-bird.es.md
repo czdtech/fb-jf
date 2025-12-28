@@ -15,12 +15,14 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Descripción general
 
 Desafío arcade de un solo toque: cada pulsación hace que el pájaro aletee y
 suba; si sueltas, desciende. Cada par de tuberías que consigas atravesar suma
 un punto.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 - Mantén un ritmo estable de toques cortos y ajusta la altura rápidamente tras
@@ -29,6 +31,7 @@ un punto.
   corregir.
 - Concéntrate siempre en el siguiente hueco, no en el que estás pasando.
 
+<!-- i18n:section:controls -->
 ### Controles
 
 - Ratón, toque o barra espaciadora: toca para aletear.
@@ -40,15 +43,20 @@ un punto.
 - No te obsesiones con una mala partida: si pierdes el ritmo, es mejor reiniciar.
 - Minimiza distracciones; la latencia de entrada afecta mucho a la sincronización.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:flappy-bird:why-does-the-bird-hit-d8d8f698 -->
 - **P: ¿Por qué el pájaro golpea el techo después de aletear?**  
   **R:** Estás pulsando demasiado fuerte o con demasiada frecuencia. Prueba con
   toques más suaves y espaciados.
 
+<!-- i18n:faq:id=faq:flappy-bird:is-there-an-end-to-16613676 -->
 - **P: ¿El juego tiene final?**  
   **R:** No, es una carrera infinita por conseguir la máxima puntuación.
 
+<!-- i18n:faq:id=faq:flappy-bird:does-the-speed-change-over-c782f3b8 -->
 - **P: ¿La velocidad cambia con el tiempo?**  
   **R:** En la mayoría de versiones la velocidad y la dificultad se mantienen
   constantes.
+

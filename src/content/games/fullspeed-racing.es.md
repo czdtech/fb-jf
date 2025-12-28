@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 FullSpeed Racing ofrece carreras en circuito accesibles y directas. Aprende el
@@ -24,6 +25,7 @@ trazado de cada pista, frena en línea recta, busca un vértice suave y vuelve a
 acelerar pronto sin hacer patinar las ruedas. Los adelantamientos limpios y la
 regularidad suelen ganar más carreras que la velocidad punta bruta.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego y recorrido
 
 1. **Frena antes:** Es mejor entrar algo más lento y salir más rápido; evita
@@ -37,6 +39,7 @@ regularidad suelen ganar más carreras que la velocidad punta bruta.
 5. **Regularidad:** Encadena vueltas limpias; un error grave suele costar más
    tiempo que pasar con prudencia por una curva.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - **Giro:** A/D o Flechas Izquierda/Derecha.  
@@ -44,16 +47,21 @@ regularidad suelen ganar más carreras que la velocidad punta bruta.
 - **Nitro/Freno de mano (si existe):** Asignado según el modo; úsalo con
   moderación.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:fullspeed-racing:i-understeer-off-trackwhy-d3fd36c4 -->
 - **P: Me voy recto y el coche no gira, ¿por qué?**  
   **R:** Entras demasiado rápido en la curva. Frena antes y llega con menos
   velocidad al punto de giro.
 
+<!-- i18n:faq:id=faq:fullspeed-racing:how-to-pass-cleanly-d48663c5 -->
 - **P: ¿Cómo adelanto sin chocar?**  
   **R:** Prepárate una buena salida de curva y aprovecha el rebufo en las
   rectas para pasar con margen.
 
+<!-- i18n:faq:id=faq:fullspeed-racing:do-upgrades-matter-fdef2f50 -->
 - **P: ¿Importan las mejoras del coche?**  
   **R:** En algunos modos puedes desbloquear coches o ajustes distintos; elige
   los que mejor se adapten al tipo de circuito que estés corriendo.
+

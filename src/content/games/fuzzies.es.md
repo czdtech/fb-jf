@@ -17,12 +17,14 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Descripción general
 
 Fuzzies es un bubble shooter tipo match‑3 protagonizado por adorables bolas de
 pelusa. Elimina grupos para sumar puntos y provocar cascadas mientras el techo
 va descendiendo poco a poco.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 - Apunta y dispara para conectar al menos tres fuzzies del mismo color.
@@ -30,6 +32,7 @@ va descendiendo poco a poco.
 - Activa burbujas especiales y potenciadores cuando estén disponibles para
   limpiar grandes zonas.
 
+<!-- i18n:section:controls -->
 ### Controles
 
 - Ratón o pantalla táctil para apuntar y disparar; en muchas versiones puedes
@@ -43,16 +46,21 @@ va descendiendo poco a poco.
 - Reserva bombas y arcoíris para tiros de emergencia cuando estés a punto de
   quedarte sin espacio.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:fuzzies:how-do-i-clear-unreachable-ad57de93 -->
 - **P: ¿Cómo elimino grupos que parecen inalcanzables?**  
   **R:** Usa tiros con rebote o elimina las burbujas que los sostienen para que
   caigan por su propio peso.
 
+<!-- i18n:faq:id=faq:fuzzies:can-i-change-the-next-767533c3 -->
 - **P: ¿Puedo cambiar el siguiente color de burbuja?**  
   **R:** Muchas versiones permiten intercambiar la burbuja en cola con un solo
   toque o clic.
 
+<!-- i18n:faq:id=faq:fuzzies:what-ends-the-level-616d217e -->
 - **P: ¿Cuándo se termina el nivel?**  
   **R:** Normalmente cuando la pared llega a la parte inferior de la pantalla o
   cuando te quedas sin disparos, según el modo.
+

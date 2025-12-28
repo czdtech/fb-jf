@@ -16,12 +16,14 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Descripción general
 
 La secuela cambia por completo el bucle de juego: ya no tienes puertas que
 consuman energía, sino que gestionas una máscara de Freddy y una caja de música
 para la Marioneta mientras vigilas pasillos y conductos de ventilación.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 - Mantén la caja de música siempre cargada desde la cámara; si se detiene, la
@@ -30,6 +32,7 @@ para la Marioneta mientras vigilas pasillos y conductos de ventilación.
 - Usa la linterna para revisar el pasillo central y para aturdir brevemente a
   Foxy.
 
+<!-- i18n:section:controls -->
 ### Controles
 
 - Ratón/interfaz para manejar cámaras y máscara; Ctrl o Espacio para la
@@ -43,16 +46,21 @@ para la Marioneta mientras vigilas pasillos y conductos de ventilación.
 - Aprende qué personajes se gestionan con máscara y cuáles solo requieren
   control con luz y cámara.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:five-nights-at-freddy-2:why-am-i-losing-to-c0f11b56 -->
 - **P: ¿Por qué siempre me atrapa la Marioneta?**  
   **R:** Pasas demasiado tiempo en otras cámaras. Prioriza dar cuerda a la caja
   por encima de todo lo demás.
 
+<!-- i18n:faq:id=faq:five-nights-at-freddy-2:when-do-i-use-the-cad7c233 -->
 - **P: ¿Cuándo debo usar la máscara?**  
   **R:** En cuanto un animatrónico aparezca dentro de la oficina. Si solo está
   en los conductos o en el pasillo, todavía puedes reaccionar con cámara y
   linterna.
 
+<!-- i18n:faq:id=faq:five-nights-at-freddy-2:is-there-door-control-a012fcd2 -->
 - **P: ¿Puedo cerrar puertas como en el primer juego?**  
   **R:** No. En FNAF 2 todo se basa en gestionar máscara, conductos y linterna.
+

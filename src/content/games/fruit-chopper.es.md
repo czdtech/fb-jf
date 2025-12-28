@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Fruit Chopper es un juego arcade rápido y "jugoso" que pone a prueba tus
@@ -26,6 +27,7 @@ bombas, y tocar una dará por terminada la partida. Rétate a ti mismo para
 conseguir la máxima puntuación encadenando combos impresionantes y
 sobreviviendo el mayor tiempo posible.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego y recorrido
 
 1. **Corta en combo:** La clave para lograr una puntuación alta es cortar
@@ -45,23 +47,29 @@ sobreviviendo el mayor tiempo posible.
    Mantén la cabeza fría y apuesta por gestos suaves y controlados en lugar de
    cortar sin control.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - **Cortar:** Haz clic y arrastra el ratón por encima de las frutas para
   cortarlas. En móvil, desliza el dedo por la pantalla.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:fruit-chopper:q-what-is-the-goal-ab58581b -->
 *   **P: ¿Cuál es el objetivo del juego?**
     *   **R:** Conseguir la mayor puntuación posible cortando fruta. La partida
         termina si golpeas una bomba o si fallas demasiadas frutas (según el modo).
 
+<!-- i18n:faq:id=faq:fruit-chopper:q-how-do-i-get-d3288798 -->
 *   **P: ¿Cómo obtengo la bonificación de combo?**
     *   **R:** Cortando tres o más frutas en un único gesto. Cuantas más frutas
         alcances a la vez, mayor será la bonificación.
 
+<!-- i18n:faq:id=faq:fruit-chopper:q-are-there-different-game-8575813d -->
 *   **P: ¿Hay modos de juego diferentes?**
     *   **R:** Muchos juegos de cortar fruta ofrecen modos como Clásico (evita bombas
         y no falles fruta), Arcade (un blitz de 60 segundos con potenciadores) o Zen
         (sin bombas, solo relajación). Consulta el menú principal para ver qué modos
         están disponibles.
+

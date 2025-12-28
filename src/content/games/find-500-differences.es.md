@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Find 500 Differences es un clásico juego de puzles que pone a prueba tu
@@ -27,6 +28,7 @@ Con una gran variedad de escenas, desde paisajes encantadores hasta
 composiciones complejas, el juego ofrece horas de diversión relajante y
 absorbente para todas las edades.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego y recorrido
 
 1. **Explora de forma sistemática:** No mires la pantalla al azar. Empieza por
@@ -46,6 +48,7 @@ absorbente para todas las edades.
    sistema de pistas. Intenta reservarlas para cuando estés realmente atascado
    para mantener el reto y maximizar tu puntuación.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - **Clic/Toque:** Usa el ratón para hacer clic, o el dedo para tocar, en la
@@ -53,16 +56,21 @@ absorbente para todas las edades.
 - **Zoom (si está disponible):** Algunas versiones permiten hacer zoom para
   observar los detalles con mayor precisión.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:find-500-differences:q-what-happens-if-i-59a6213b -->
 *   **P: ¿Qué pasa si hago clic en el lugar equivocado?**
     *   **R:** En muchos juegos de "encuentra las diferencias", un clic erróneo puede
         implicar una penalización de tiempo o una reducción de la puntuación. Asegúrate
         de tu decisión antes de marcar una diferencia.
 
+<!-- i18n:faq:id=faq:find-500-differences:q-is-there-a-time-c0411996 -->
 *   **P: ¿Hay límite de tiempo?**
     *   **R:** Sí, la mayoría de niveles están cronometrados para añadir una capa extra
         de desafío. Intenta encontrar todas las diferencias antes de que se agote el tiempo.
 
+<!-- i18n:faq:id=faq:find-500-differences:q-how-many-differences-are-303ffe69 -->
 *   **P: ¿Cuántas diferencias hay en cada nivel?**
     *   **R:** Normalmente hay 5 diferencias en cada par de imágenes.
+

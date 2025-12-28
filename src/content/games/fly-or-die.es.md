@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Descripción general
 
 Fly or Die es un juego multijugador de supervivencia con evolución. Empiezas
@@ -24,6 +25,7 @@ como una pequeña criatura, comes ciertos tipos de comida para subir de nivel y
 convertirte en nuevas formas, y tienes que evitar a los depredadores y las
 amenazas del entorno.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 - Revisa los iconos de dieta actuales; solo esos objetos te dan experiencia.
@@ -32,6 +34,7 @@ amenazas del entorno.
 - Gestiona el agua y el oxígeno cuando sea necesario y aprovecha las corrientes
   térmicas o ascendentes para moverte mejor.
 
+<!-- i18n:section:controls -->
 ### Controles
 
 - Ratón/teclado para moverte o volar; las teclas de impulso varían según el
@@ -46,16 +49,21 @@ amenazas del entorno.
 - Usa la verticalidad para escapar: asciende a gran altura o sumérgete bajo
   tierra según la forma que tengas.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:fly-or-die:how-do-i-evolve-to-dabd6fa3 -->
 - **P: ¿Cómo evoluciono a la siguiente criatura?**  
   **R:** Come los elementos que aparecen en tu barra de dieta para ganar
   experiencia y subir de nivel.
 
+<!-- i18n:faq:id=faq:fly-or-die:what-happens-when-a-predator-675b6aae -->
 - **P: ¿Qué pasa si me atrapa un depredador?**  
   **R:** Según las reglas del servidor, puedes perder parte del progreso o una
   vida completa.
 
+<!-- i18n:faq:id=faq:fly-or-die:is-there-team-play-1c3a03db -->
 - **P: ¿Hay modos por equipos?**  
   **R:** La mayoría de servidores son todos contra todos, pero algunos portales
   activan modos especiales por tiempo limitado.
+

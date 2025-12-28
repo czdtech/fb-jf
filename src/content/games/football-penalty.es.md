@@ -15,6 +15,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Football Penalty se centra en los lanzamientos desde el punto de penalti. Como
@@ -24,6 +25,7 @@ rival y te lanzas en la dirección correcta. Los tiros bien colocados a la
 escadra, los disparos rasos y las fintas tardías suelen superar a una IA
 promedio.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego y recorrido
 
 1. **Esquinas:** Apunta a las esquinas bajas para forzar paradas muy difíciles;
@@ -38,21 +40,27 @@ promedio.
 5. **Viento (si existe):** Compensa ligeramente la puntería y reduce la altura
    cuando el viento influya.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - Apunta con el ratón; ajusta la potencia manteniendo pulsado y suelta en el
   punto deseado; en algunas versiones puedes añadir efecto arrastrando.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:football-penalty:my-shots-always-get-saved-373b371a -->
 - **P: Mis tiros siempre acaban en manos del portero, ¿qué hago?**  
   **R:** Cambia la altura y la zona de disparo y retrasa el apuntado final.
   Evita tiros previsibles al centro.
 
+<!-- i18n:faq:id=faq:football-penalty:best-safe-shot-8caf83a6 -->
 - **P: ¿Cuál es el disparo más seguro?**  
   **R:** Los disparos firmes y rasos a la esquina suelen ser rápidos y muy
   difíciles de alcanzar.
 
+<!-- i18n:faq:id=faq:football-penalty:how-do-i-read-the-27e23605 -->
 - **P: ¿Cómo leo a la IA siendo portero?**  
   **R:** Fíjate en los dos últimos pasos de la carrera; muchos delanteros abren
   la cadera hacia el lado al que van a disparar.
+

@@ -17,11 +17,13 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Descripción general
 
 G-Switch 2 pule la fórmula del runner de gravedad invertida añadiendo nuevos
 obstáculos y carreras multijugador.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 - Cambia de gravedad justo antes de bordes y peligros.
@@ -29,6 +31,7 @@ obstáculos y carreras multijugador.
   muy poco tiempo.
 - Reta a tus amigos en carreras locales si el modo está disponible.
 
+<!-- i18n:section:controls -->
 ### Controles
 
 - Una sola tecla o toque para invertir la gravedad; en versus cada jugador
@@ -41,15 +44,20 @@ obstáculos y carreras multijugador.
 - En tramos largos, es más seguro ir pegado al suelo; los techos suelen ocultar
   trampas.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:g-switch-2:how-does-multiplayer-work-in-e32c72aa -->
 - **P: ¿Cómo funciona el multijugador en este juego?**  
   **R:** Cada jugador usa una tecla distinta para cambiar la gravedad en una
   misma pantalla compartida.
 
+<!-- i18n:faq:id=faq:g-switch-2:are-there-checkpoints-in-level-4eff0030 -->
 - **P: ¿Hay puntos de control en los niveles?**  
   **R:** En algunos modos por niveles puede haber puntos de control; en los modos
   infinitos no.
 
+<!-- i18n:faq:id=faq:g-switch-2:can-i-remap-keys-f5a01d64 -->
 - **P: ¿Puedo cambiar las teclas?**  
   **R:** Muchos portales permiten elegir teclas antes de empezar la partida.
+

@@ -15,6 +15,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Flames & Fortune es un compacto juego de combate por turnos con decisiones al
@@ -22,6 +23,7 @@ estilo de los juegos de cartas. Juegas efectos en secuencias eficientes,
 administras recursos limitados y te adaptas a las intenciones del enemigo para
 inclinar el ritmo de la partida a tu favor.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1. **Planifica tu curva:** Intenta gastar de forma limpia los recursos de cada
@@ -35,22 +37,28 @@ inclinar el ritmo de la partida a tu favor.
 5. **Haz mulligan con cabeza:** Si el juego lo permite, cambia manos muy lentas
    cuando te enfrentes a enemigos agresivos.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - **Jugar/terminar turno:** Haz clic o toca las cartas y confirma tus acciones.
 - **Inspeccionar:** Pasa el ratón por encima o toca una carta para leer sus
   efectos.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:flames-fortune:rng-heavy-d7511a10 -->
 - **P: ¿Depende mucho del azar?**  
   **R:** El RNG existe, pero puedes mitigarlo con buena secuenciación y una
   gestión sólida de recursos.
 
+<!-- i18n:faq:id=faq:flames-fortune:best-builds-311691b0 -->
 - **P: ¿Qué tipos de mazo funcionan mejor?**  
   **R:** Suele ser más efectivo especializarse en unas pocas sinergias potentes
   que mezclar demasiadas mitades de estrategias.
 
+<!-- i18n:faq:id=faq:flames-fortune:can-i-recover-from-bad-64761be7 -->
 - **P: ¿Puedo remontar si tengo robos malos?**  
   **R:** Sí. Intenta estabilizarte con defensa y plantea jugadas que ganen la
   ventaja en dos turnos en lugar de buscar un único turno perfecto.
+

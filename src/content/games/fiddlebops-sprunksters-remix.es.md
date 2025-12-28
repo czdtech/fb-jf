@@ -11,9 +11,11 @@ thumbnail: /new-images/thumbnails/fiddlebops-sprunksters-remix.png
 tags:
   - fiddlebops sprunksters remix
 score: 4.1/5  (127 votes)
+releaseDate: 2025-12-04
 ---
 
 
+<!-- i18n:section:introduction -->
 ¡Hola, pioneros de la música! ¿Quieres darle un extra de emoción a tus
 sesiones de Incredibox? Entonces *tienes* que probar Fiddlebops
 Sprunksters. Este mod muy creativo, creado por el talentoso Bismeowth,
@@ -73,3 +75,4 @@ sonidos originales y esa función de "doble mundo", ofrece una
 experiencia única para cualquiera que ame la música y las propuestas
 innovadoras. No lo dudes: sumérgete en Fiddlebops Sprunksters y disfruta a lo
 grande creando música.
+

@@ -16,11 +16,13 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Descripción general
 
 Funny Shooter propone oleadas en primera persona con enemigos que van
 volviéndose más peligrosos y un pequeño sistema de mejoras.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 - Muévete constantemente y atrae a los grupos; elimina primero a los enemigos
@@ -28,6 +30,7 @@ volviéndose más peligrosos y un pequeño sistema de mejoras.
 - Entre oleadas, invierte tu dinero en armas más potentes y utilidades.
 - Vigila la munición y recarga en momentos seguros.
 
+<!-- i18n:section:controls -->
 ### Controles
 
 - WASD para moverse, ratón para apuntar y disparar; R para recargar; números
@@ -39,15 +42,20 @@ volviéndose más peligrosos y un pequeño sistema de mejoras.
 - Usa coberturas y esquinas para canalizar a los enemigos hacia embudos.
 - Guarda tus explosivos para las oleadas más difíciles o con enemigos de élite.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:funny-shooter:how-can-i-unlock-better-31149acc -->
 - **P: ¿Cómo desbloqueo armas mejores?**  
   **R:** Comprándolas con el dinero que obtienes al superar oleadas.
 
+<!-- i18n:faq:id=faq:funny-shooter:does-the-game-include-boss-640463c1 -->
 - **P: ¿Hay jefes en el juego?**  
   **R:** Algunos portales incluyen jefes periódicos que exigen ráfagas de daño
   concentrado.
 
+<!-- i18n:faq:id=faq:funny-shooter:can-i-change-mouse-sensitivity-dad934ef -->
 - **P: ¿Puedo cambiar la sensibilidad del ratón?**  
   **R:** La mayoría de versiones ofrecen ajustes de sensibilidad en el menú de
   opciones.
+

@@ -11,9 +11,11 @@ thumbnail: /new-images/thumbnails/fiddlebops-but-sprunki.png
 tags:
   - fiddlebops but sprunki
 score: 4.2/5  (94 votes)
+releaseDate: 2025-12-04
 ---
 
 
+<!-- i18n:section:introduction -->
 ¡Hola, creadores de música! ¿Alguna vez te has preguntado qué pasaría si
 mezclaras la jugabilidad clásica de Fiddlebops con el mundo alocado y
 vibrante de Sprunki? Pues ya no tienes que imaginarlo, porque FiddleBops but
@@ -76,3 +78,4 @@ que demuestra lo divertido que puede ser mezclar lo clásico con lo creativo.
 Dale una oportunidad a FiddleBops but Sprunki y deja que estos extravagantes
 personajes Sprunki te ayuden a escribir un nuevo capítulo en el universo
 Fiddlebops.
+

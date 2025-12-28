@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Descripción general
 
 Esta entrega se centra mucho más en la historia y en objetivos nocturnos
@@ -23,6 +24,7 @@ específicos. Te arrastras por conductos, reparas sistemas y sigues las
 instrucciones de la terminal mientras intentas evitar a los animatrónicos
 Funtime.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 - Sigue las indicaciones del terminal, pero prepárate para improvisar cuando
@@ -32,6 +34,7 @@ Funtime.
 - En las noches posteriores, las tareas se remezclan con mayor riesgo y
   ventanas de actuación más ajustadas.
 
+<!-- i18n:section:controls -->
 ### Controles
 
 - Ratón/interfaz para interactuar con paneles, descargas y monitores; teclas de
@@ -45,16 +48,21 @@ Funtime.
 - Practica las secuencias de interacción con los paneles para ejecutarlas sin
   dudar cuando estés bajo presión.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:five-nights-at-freddy-sl:why-do-shocks-stop-working-cfc2340a -->
 - **P: ¿Por qué dejan de funcionar las descargas eléctricas?**  
   **R:** Hay secciones que exigen paciencia o pasos alternativos. Sigue las
   nuevas instrucciones que aparezcan en la terminal.
 
+<!-- i18n:faq:id=faq:five-nights-at-freddy-sl:can-i-skip-to-specific-2bdae2d4 -->
 - **P: ¿Puedo saltar directamente a noches concretas?**  
   **R:** Algunos portales permiten elegir escena o noche. En otros tendrás que
   avanzar de forma secuencial.
 
+<!-- i18n:faq:id=faq:five-nights-at-freddy-sl:is-there-a-custom-night-422d9813 -->
 - **P: ¿Existe un modo Custom Night?**  
   **R:** Muchas versiones incluyen una noche de desafío adicional tras la
   historia principal.
+

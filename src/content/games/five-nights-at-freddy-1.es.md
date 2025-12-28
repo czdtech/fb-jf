@@ -16,6 +16,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Descripción general
 
 Eres el vigilante nocturno de Freddy Fazbear's Pizza. Tu trabajo consiste en
@@ -23,6 +24,7 @@ supervisar las cámaras de seguridad, gestionar una reserva de energía muy
 limitada y evitar que Bonnie, Chica, Freddy y Foxy consigan entrar en tu
 oficina.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 - Revisa las cámaras para seguir el movimiento de los animatrónicos y presta
@@ -32,6 +34,7 @@ oficina.
 - Sobrevive a cada turno desde las 12 a. m. hasta las 6 a. m.; en las noches
   más avanzadas la IA se vuelve más rápida y agresiva.
 
+<!-- i18n:section:controls -->
 ### Controles
 
 - Usa el ratón y la interfaz para manejar cámaras, luces y puertas; la tecla
@@ -46,15 +49,20 @@ oficina.
 - Usa los sonidos del juego para saber cuándo merece la pena comprobar las
   luces de las puertas.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:five-nights-at-freddy-1:is-6thcustom-night-included-54d98919 -->
 - **P: ¿Incluye la Noche 6 o la Custom Night?**  
   **R:** Muchos portales incluyen la Noche 6 y una noche personalizada con
   niveles de IA configurables.
 
+<!-- i18n:faq:id=faq:five-nights-at-freddy-1:why-did-i-run-out-453c2598 -->
 - **P: ¿Por qué me quedo sin energía tan rápido?**  
   **R:** Normalmente por revisar cámaras y cerrar puertas demasiado a menudo.
   Simplifica tu rutina de vigilancia y evita acciones innecesarias.
 
+<!-- i18n:faq:id=faq:five-nights-at-freddy-1:can-i-mute-calls-952aac8b -->
 - **P: ¿Puedo silenciar las llamadas?**  
   **R:** Algunas versiones permiten silenciar la introducción del Phone Guy.
+

@@ -15,6 +15,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Fruit Chef recupera la esencia clásica de cortar fruta: traza líneas limpias a
@@ -23,6 +24,7 @@ mantente lejos de las bombas. El sistema de puntuación premia los cortes
 largos y rectos que alcanzan varias frutas a la vez y un ritmo constante por
 encima de los manotazos caóticos.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego y recorrido
 
 1. **Trazos largos:** Intenta rebanar varias frutas con una sola línea recta
@@ -36,21 +38,27 @@ encima de los manotazos caóticos.
 5. **Potenciadores:** Guarda el modo cámara lenta para oleadas muy densas de
    fruta.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - Haz clic y arrastra, o desliza el dedo, para cortar; evita las bombas y usa
   los botones de pausa o reinicio en la interfaz.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:fruit-chef:i-keep-hitting-bombs-how-e4b71e7c -->
 - **P: Siempre termino tocando bombas, ¿cómo lo evito?**  
   **R:** Traza cortes solo por ángulos limpios y no completes gestos que
   atraviesen una bomba.
 
+<!-- i18n:faq:id=faq:fruit-chef:best-way-to-score-high-c0f5b5b0 -->
 - **P: ¿Cuál es la mejor manera de lograr puntuaciones altas?**  
   **R:** Combos largos y rectos que golpeen varias frutas y un ritmo estable de
   cortes.
 
+<!-- i18n:faq:id=faq:fruit-chef:multitouch-helps-19d64a66 -->
 - **P: ¿Ayuda usar multitáctil?**  
   **R:** Si la versión lo admite, usar varios dedos te permite cubrir más
   pantalla de forma segura.
+
