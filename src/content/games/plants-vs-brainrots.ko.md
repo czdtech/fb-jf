@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### **Plants vs Brainrots 게임 소개**
 
 *Plants vs Brainrots*는 Roblox 플랫폼에서 큰 인기를 끌고 있는
@@ -36,6 +37,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 적이나 식물로 녹여내어, 인터넷 문화를 즐기는 유저들에게 신선한
 웃음과 전략 요소를 함께 제공합니다.
 
+<!-- i18n:section:tips -->
 ### **플레이 전략 & 팁**
 
 1.  **"포커스" 경제부터 구축하기**  
@@ -79,7 +81,10 @@ releaseDate: 2025-08-16T00:00:00.000Z
     사용하는 것은 위험합니다. 라인 하나가 무너졌을 때의 보험
     정도로 생각하는 것이 좋습니다.
 
+<!-- i18n:section:controls -->
 ### **조작 가이드**
+<!-- i18n:controls:keys -->
+- 키(정렬)： `W, A, S, D`
 
 Roblox 기반 게임답게 조작은 대부분 마우스로 이루어집니다.
 
@@ -89,33 +94,40 @@ Roblox 기반 게임답게 조작은 대부분 마우스로 이루어집니다.
   심습니다. 자원이 부족하면 심어지지 않습니다.  
 * **포커스 수집**: 포커스 플라워가 떨어뜨리는 포커스 아이콘을
   마우스로 클릭해 수집합니다.  
-* **카메라 이동**: `W, A, S, D` 키나 마우스를 사용해 시점을
+* **카메라 이동**: W, A, S, D 키나 마우스를 사용해 시점을
   좌우로 움직이며 넓은 필드를 살펴볼 수 있습니다.
 
+<!-- i18n:section:faq -->
 ### **자주 묻는 질문(FAQ)**
 
+<!-- i18n:faq:id=faq:plants-vs-brainrots:where-can-i-play-plants-78142c08 -->
 **1. Plants vs Brainrots는 어디에서 플레이할 수 있나요?**  
 이 게임은 **Roblox**에서만 즐길 수 있는 경험입니다. Roblox 웹사이트
 또는 앱에서 "Plants vs Brainrots"를 검색해 무료로 플레이할 수
 있습니다.
 
+<!-- i18n:faq:id=faq:plants-vs-brainrots:is-this-an-official-plants-dfe9ebe6 -->
 **2. 공식 Plants vs. Zombies 게임인가요?**  
 아니요. 게임과 관련 웹사이트 모두, 이 작품이 PopCap과 Electronic
 Arts(EA)의 원작 *Plants vs. Zombies*와는 무관한 **팬메이드 패러디**임을
 명확히 밝히고 있습니다.
 
+<!-- i18n:faq:id=faq:plants-vs-brainrots:is-the-game-free-9403c1eb -->
 **3. 게임은 무료인가요?**  
 네, 기본적으로 무료로 플레이할 수 있는 게임입니다. 다만 많은
 Roblox 게임처럼, 로벅스(Robux)를 사용해 꾸미기 아이템이나 특수
 식물, 편의 기능 등을 구매할 수 있는 선택적 인게임 결제가 포함될
 수 있습니다.
 
+<!-- i18n:faq:id=faq:plants-vs-brainrots:what-is-brain-rot-5af00241 -->
 **4. "Brain Rot"라는 말은 무슨 뜻인가요?**  
 "Brain Rot"은 저품질이지만 중독성 강한 인터넷 밈·숏폼 콘텐츠를
 너무 많이 접한 뒤 머리가 멍해지는 상태를 가리키는 인터넷 속어입니다.
 이 게임은 그런 밈 캐릭터들을 적 유닛으로 재미있게 비틀어 표현하고
 있습니다.
 
+<!-- i18n:faq:id=faq:plants-vs-brainrots:how-do-i-stay-updated-eae93b2e -->
 **5. 새 밈이나 식물 추가 소식은 어디서 확인하나요?**  
 공식 **디스코드 서버**에 참여하면 업데이트 소식과 무료 아이템 코드,
 개발자와의 소통 등 다양한 정보를 가장 빠르게 받아볼 수 있습니다.
+

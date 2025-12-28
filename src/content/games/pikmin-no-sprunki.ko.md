@@ -11,9 +11,11 @@ thumbnail: /new-images/thumbnails/pikmin-no-sprunki.png
 tags:
   - pikmin no sprunki
 score: 4.0/5  (89 votes)
+releaseDate: 2025-12-04
 ---
 
 
+<!-- i18n:section:introduction -->
 Pikmin의 기묘한 세계가 Sprunki 특유의 리듬 연출과 만나면 어떤
 느낌일까요? *Pikmin No Sprunki*는 바로 그 상상을 현실로 만든
 Scratch 기반 음악 게임입니다. Incredibox 같은 스타일의 사운드
@@ -72,3 +74,4 @@ Scratch 기반 음악 게임입니다. Incredibox 같은 스타일의 사운드
 찾는 유저들에게도 충분히 추천할 만한 작품입니다. 지금 바로 이
 특별한 세계로 들어와, 리듬과 상상력을 섞어 당신만의
 *Pikmin No Sprunki* 심포니를 완성해 보세요!
+
