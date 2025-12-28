@@ -10,9 +10,11 @@ thumbnail: /new-images/thumbnails/mundo-torajo-sprunki.png
 tags:
   - mundo torajo sprunki
 score: 4.0/5  (112 votes)
+releaseDate: 2025-12-04
 ---
 
 
+<!-- i18n:section:introduction -->
 생동감 넘치는 음악 세계로 뛰어들 준비가 되었나요? *Mundo Torajo Sprunki*는 문도 토라호의
 엉뚱한 캐릭터들과 Sprunki 스타일의 비트 메이킹을 섞어, 전례 없는 오디오·비주얼 경험을
 제공합니다. 각기 다른 동물 캐릭터들이 다양한 사운드를 들려주며, 플레이어는 이를 조합해
@@ -57,3 +59,4 @@ Mundo Torajo Sprunki는 Sprunki와 문도 토라호를 모두 좋아하는 플�
 유쾌하고 몰입감 있는 음악 경험을 제공합니다. 리듬 게임이 처음인 사람이라도, 화려한
 비주얼과 자유로운 창작 시스템 덕분에 부담 없이 즐길 수 있습니다. 도전과 창의성의
 균형을 잘 맞춘 이 모드에서, 자신만의 음악과 색감으로 가득한 세계를 만들어 보세요.
+

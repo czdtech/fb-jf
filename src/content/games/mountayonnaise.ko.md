@@ -11,13 +11,16 @@ tags:
   - sprunki mountayonnaise
   - sprunki mountayonnaise online
 score: 4.8/5  (649 votes)
+releaseDate: 2025-12-04
 ---
 
 
+<!-- i18n:section:introduction -->
 Sprunki Mountayonnaise는 다양한 사운드를 입혀가며 애니메이션 캐릭터들과 음악을 만드는
 스프런키 모드 게임입니다. 어떤 사운드를 어떤 캐릭터에 올리느냐에 따라 전혀 다른 동물
 실루엣과 연출이 등장해, 같은 곡을 여러 방식으로 재구성해 볼 수 있습니다.
 
+<!-- i18n:section:how-to-play -->
 ### Sprunki Mountayonnaise 플레이 방법
 
 플레이 방식은 간단하며, 대략 다음과 같은 단계로 진행됩니다.
@@ -55,3 +58,4 @@ Sprunki Mountayonnaise는 다양한 사운드를 입혀가며 애니메이션 �
   즉흥적인 플레이가 가능합니다.
 - **발견의 재미:** 특정 조합에서만 등장하는 숨겨진 연출과 이펙트를 찾는 재미가 있어,
   반복 플레이에도 질리지 않습니다.
+
