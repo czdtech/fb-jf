@@ -16,6 +16,7 @@ score: 3.7/5  (994 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 In „Stickman Hook“ steuerst du ein Strichmännchen, das sich mithilfe von Greifhaken durch die Level schwingt. Du hängst dich an feste Punkte, baust Schwung auf, meidest Hindernisse und versuchst, mit möglichst flüssigen Bewegungen die Ziellinie zu erreichen.
@@ -35,6 +36,7 @@ In „Stickman Hook“ steuerst du ein Strichmännchen, das sich mithilfe von Gr
 
 
 - **Swing**: Use physics swinging mechanics to gain momentum and direction.
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
 1.  **Wie bekomme ich mehr Schwung?**  
@@ -48,3 +50,4 @@ In „Stickman Hook“ steuerst du ein Strichmännchen, das sich mithilfe von Gr
 
 4.  **Wie viele Level gibt es?**  
     Je nach Version erwarten dich Dutzende bis viele Dutzend Level mit zunehmend kniffligeren Layouts.
+

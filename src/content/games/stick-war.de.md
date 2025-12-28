@@ -13,10 +13,12 @@ score: 3.6/5  (1080 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 Stick War gehört zu den bekanntesten Web‑Strategiespielen. In Echtzeit befehligst du die Nation der „Order“ im Land Inamorta. Jede Fraktion verehrt ihre eigene Waffentechnologie – du musst deine Wirtschaft aufbauen, eine Armee formen und nach und nach alle gegnerischen Statuen zerstören.
 
+<!-- i18n:section:tips -->
 ### Spielanleitung
 
 Der Kern des Spiels sind Ressourcenmanagement und Truppensteuerung:
@@ -25,12 +27,16 @@ Der Kern des Spiels sind Ressourcenmanagement und Truppensteuerung:
 - **Armeeaufbau:** Du kannst verschiedene Typen ausbilden, z. B. die günstigen **Swordwrath**, Fernkampf‑**Archidons**, defensive **Speartons**, gewaltige **Giants** oder Zauberer **Magikill**.
 - **Kampf:** Wechsle zwischen Angriff- und Verteidigungsmodus oder übernimm direkt die Kontrolle über eine einzelne Einheit für präzise Aktionen. Das Hauptziel bleibt immer: die gegnerische Statue auf der anderen Seite der Karte zu zerstören und deine eigene zu beschützen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `A` `D` `Spacebar`
 
 - **Maus:** Einheiten anwählen, Buttons für Ausbildung/Upgrades klicken, Armee befehligen.
-- **Bewegung (bei direkter Kontrolle):** `A` / `D`
-- **Angriff (bei direkter Kontrolle):** `Leertaste`
+- **Bewegung (bei direkter Kontrolle):** A / D
+- **Angriff (bei direkter Kontrolle):** Leertaste
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
 **Was ist eine gute Anfangsstrategie?**  
@@ -41,3 +47,4 @@ Ein ausgewogener Mix ist entscheidend: Speartons tanken und blocken Pfeile, Arch
 
 **Was zuerst upgraden?**  
 Meist lohnen sich zuerst Upgrades für Miner (größere Taschen) und das Einkommen deiner Statue. Danach rüstest du gezielt die Einheiten auf, die du am häufigsten nutzt.
+

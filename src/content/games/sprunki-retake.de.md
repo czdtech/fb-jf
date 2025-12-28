@@ -12,6 +12,7 @@ tags:
   - sprunki retake
   - sprunki retake online
 score: 4.3/5  (524 votes)
+releaseDate: 2025-12-04
 ---
 
 ### Einführung in Sprunki Retake
@@ -54,3 +55,4 @@ Sprunki Retake wirft dich in eine bunte, aber gefährliche Welt. Alles, was du t
 ### Fazit
 
 Sprunki Retake übernimmt erfolgreich die Essenz der Vorgänger und bringt gleichzeitig mehr frische und aufregende Elemente. Egal ob du ein langjähriger Fan von Sprunki oder ein neuer Spieler bist – in der Welt von Sprunki Retake findest du deinen eigenen Spaß! Bereit zum Schreien? Los geht's!
+

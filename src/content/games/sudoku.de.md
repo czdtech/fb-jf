@@ -13,6 +13,7 @@ score: 5.0/5  (1136 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 „Sudoku“ ist ein logikbasiertes Zahlenrätsel. Du füllst ein 9×9‑Raster mit den Ziffern 1 bis 9, sodass in jeder Zeile, jeder Spalte und in jedem 3×3‑Block jede Zahl genau einmal auftaucht. Statt Mathematik brauchst du hier vor allem Kombinationsgabe und Geduld.
@@ -32,6 +33,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - **Zahl löschen:** `Entf`/Löschen oder die Löschen‑Funktion im UI nutzen.
 - **Kandidatenmodus:** Falls vorhanden, in den Notizen‑/Stiftmodus wechseln, um mehrere kleine Zahlen im Feld zu markieren.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
 1.  **Brauche ich Mathekenntnisse?**  
@@ -45,3 +47,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 4.  **Was mache ich, wenn ich feststecke?**  
     Prüfe, ob irgendwo ein offensichtlicher Fehler steckt, oder nutze fortgeschrittenere Techniken (z. B. Paare/Tripel), sofern du sie kennst. In vielen Versionen kannst du dir auch vorsichtig mit Hinweisen helfen lassen.
+

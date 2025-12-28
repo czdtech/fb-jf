@@ -16,10 +16,12 @@ score: 4.2/5  (1873 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Detaillierte Spieleinführung
 
 Table Tennis bringt eine vereinfachte, aber flotte Tischtennis‑Simulation auf deinen Bildschirm. Du trittst gegen eine KI‑Gegnerin an und versuchst, mit gut platzierten Schlägen Punkte zu holen – ganz wie an der echten Platte.
 
+<!-- i18n:section:tips -->
 ### Spielstrategie & Walkthrough
 
 1.  **Aufschlag & Rückschlag:** Jeder Ballwechsel startet mit einem Aufschlag. Triff den Ball nach dem einmaligen Aufspringen auf deiner Seite und platziere ihn so, dass die KI in Bewegung kommt.
@@ -27,24 +29,30 @@ Table Tennis bringt eine vereinfachte, aber flotte Tischtennis‑Simulation auf 
 3.  **Variieren:** Spiele nicht jeden Ball an die gleiche Stelle. Platziere mal kurz, mal lang, mal in die Ecken, um Fehler beim Gegner zu erzwingen.
 4.  **Gegner beobachten:** Achte darauf, welche Bälle die KI schlecht erreicht, und wiederhole diese Muster.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Mausbewegung:** Der Schläger folgt direkt deinem Mauszeiger.
 - **Schläger bewegen:** Bewege den Mauszeiger nach links/rechts auf deiner Tischhälfte.
 - **Ball treffen:** Es reicht, den Schläger in die Flugbahn zu bringen – der Schlag erfolgt automatisch, Winkel und Tempo hängen von deiner Position und Bewegung ab.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:table-tennis:q-how-do-i-score-a66490e5 -->
 *   **F: Wie mache ich Punkte?**
     *   **A:** Du punktest, wenn der Gegner den Ball nicht korrekt zurückspielt –
         etwa ins Netz, ins Aus oder wenn der Ball zweimal auf seiner Seite aufspringt.
 
+<!-- i18n:faq:id=faq:table-tennis:q-can-i-put-a-358d6ec5 -->
 *   **F: Kann ich Effet/Spin erzeugen?**
     *   **A:** Zwar gibt es keine eigene Spintaste, aber schnelle, seitliche
         Bewegungen beim Schlag können Flugbahn und Tempo beeinflussen und
         Rückschläge erschweren.
 
+<!-- i18n:faq:id=faq:table-tennis:q-what-is-the-winning-84866485 -->
 *   **F: Bis wie viel wird gespielt?**
     *   **A:** Je nach Version wird bis zu einer festgelegten Punktzahl
         (z. B. 11 oder 21) gespielt, meist mit der Bedingung, mit mindestens zwei
         Punkten Vorsprung zu gewinnen.
+

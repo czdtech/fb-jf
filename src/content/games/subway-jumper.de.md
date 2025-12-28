@@ -12,10 +12,12 @@ score: 3.9/5  (1759 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Detaillierte Spieleinführung
 
 Subway Jumper spielt sich wie ein klassischer Endless‑Runner auf drei Spuren. Dir rasen Züge, Hütchen, Barrieren und andere Hindernisse entgegen. Mit gut getimten Spurwechseln, Sprüngen und Slides weichst du ihnen aus, sammelst Münzen und Power‑ups und hältst deine Serie so lange wie möglich am Leben.
 
+<!-- i18n:section:tips -->
 ### Spielstrategie & Walkthrough
 
 1.  **Weit voraus schauen:** Fixiere nicht den Boden direkt vor dir, sondern die nächsten ein bis zwei Hindernisse.
@@ -25,17 +27,22 @@ Subway Jumper spielt sich wie ein klassischer Endless‑Runner auf drei Spuren. 
 5.  **Power‑ups gezielt nutzen:** Schilde oder Magneten lohnen sich besonders in dichten Passagen mit vielen Hindernissen und Münzen.
 6.  **Rhythmus nach Fehlern finden:** Nach einem Fast‑Hit kurz „resetten“, nicht panisch alle Tasten spammen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
-- **Spur wechseln:** `A` / `D` oder `Links` / `Rechts`
-- **Springen:** `Leertaste` oder `Pfeil nach oben`
-- **Rutschen:** `Pfeil nach unten`
+- **Spur wechseln:** A / D oder Links / Rechts
+- **Springen:** Leertaste oder Pfeil nach oben
+- **Rutschen:** Pfeil nach unten
 - Power‑ups je nach Version über eigene Tasten.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:subway-jumper:i-clip-barriers-often-01dc91ff -->
 - **Ich stoße ständig knapp an Hindernisse.**  
   Versuche, Sprünge minimal später anzusetzen und dich nach jedem Hindernis wieder mittig einzupendeln.
 
+<!-- i18n:faq:id=faq:subway-jumper:is-speed-adjustable-114d7305 -->
 - **Kann ich die Geschwindigkeit beeinflussen?**  
   In vielen Builds steigt das Tempo automatisch. Konzentriere dich auf saubere Eingaben – mit der Zeit gewöhnt sich dein Auge an die höhere Geschwindigkeit.
+

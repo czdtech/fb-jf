@@ -8,6 +8,7 @@ thumbnail: /new-images/thumbnails/sprunki-retake-bonus-characters.png
 tags:
   - sprunki retake bonus characters
 score: 3.9/5  (132 votes)
+releaseDate: 2025-12-04
 ---
 
 ### Was macht Sprunki Retake Bonus Characters besonders?
@@ -27,3 +28,4 @@ Sprunki Retake Bonus Characters ist kein klassischer Mod, sondern legt einen Fok
 - Du kannst deine Stücke mit anderen teilen und gemeinsam die Wirkung von Rhythmus und Gesang erleben.
 
 Egal ob du schon lange Musikspiele spielst oder gerade erst anfängst – Sprunki Retake Bonus Characters bietet dir mit seinem Ethno-Fokus eine besondere Spielwiese, um eine ursprüngliche, „erdige“ Form von Groove und Gesang zu entdecken.
+

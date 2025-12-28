@@ -18,10 +18,12 @@ score: 3.6/5  (1444 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 Stick Fight ist ein rasantes, physikbasiertes Kampfspiel, in dem du eine einfache Strichmännchen-Figur steuerst und gegen andere in verschiedenen gefährlichen Arenen kämpfst. Das Ziel ist es, das letzte stehende Strichmännchen zu sein. Das Spiel ist bekannt für seine chaotischen, unvorhersehbaren Kämpfe, bei denen Umweltgefahren und eine breite Palette an Waffen zu urkomischen und actiongeladenen Runden führen.
 
+<!-- i18n:section:tips -->
 ### Spielanleitung
 
 Das Ziel in jeder Runde ist es, deine Gegner zu eliminieren, indem du sie aus der Arena wirfst oder ihre Gesundheit aufbrauchst.
@@ -29,15 +31,19 @@ Das Ziel in jeder Runde ist es, deine Gegner zu eliminieren, indem du sie aus de
 - **Physik:** Die Physik-Engine des Spiels beeinflusst alles, von Charakterbewegungen bis hin zum Rückstoß von Waffen. Nutze sie zu deinem Vorteil, um Trickschüsse auszuführen oder Feinde durch die Luft zu schleudern.
 - **Arenen:** Jedes Level ist anders und bietet einzigartige Layouts und Gefahren wie Stacheln, fallende Blöcke oder rutschiges Eis. Passe deine Strategie an die Umgebung an.
 
+<!-- i18n:section:controls -->
 ### Steuerungsanleitung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `A` `D` `Left/Right Arrow Keys` `W` `Up Arrow` `S` `Down Arrow` `Left Mouse Button` `F` `Right Mouse Button` `G`
 
 Die Steuerung basiert typischerweise auf einem Standard-2D-Platformer-Layout:
-- **Bewegen:** `A` und `D` oder `Links/Rechts Pfeiltasten`
-- **Springen:** `W` oder `Pfeil nach oben` Taste
-- **Ducken:** `S` oder `Pfeil nach unten` Taste
-- **Angriff:** `Linke Maustaste` oder `F`
-- **Blocken:** `Rechte Maustaste` oder `G`
+- **Bewegen:** A und D oder Links/Rechts Pfeiltasten
+- **Springen:** W oder Pfeil nach oben Taste
+- **Ducken:** S oder Pfeil nach unten Taste
+- **Angriff:** Linke Maustaste oder F
+- **Blocken:** Rechte Maustaste oder G
 
+<!-- i18n:section:faq -->
 ### Häufig gestellte Fragen (FAQ)
 
 **Was ist das Hauptziel von Stick Fight?**
@@ -51,3 +57,4 @@ Ja, Stick Fight ist primär ein Multiplayer-Spiel und unterstützt oft sowohl lo
 **Welche Waffen gibt es im Spiel?**
 
 Das Spiel bietet ein riesiges Arsenal an Waffen, von Nahkampfwaffen wie Schwertern und Speeren bis hin zu Projektilwaffen wie Pistolen, Schrotflinten und sogar Bazookas, die Schlangen abfeuern.
+

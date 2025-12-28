@@ -8,9 +8,10 @@ thumbnail: /new-images/thumbnails/sprunki-virus-new-update.png
 tags:
   - sprunki virus new update
 score: 4.0/5  (407 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
+releaseDate: 2025-12-04
 ---
 
+<!-- i18n:section:introduction -->
 Suchst du einen Mod, der musikalisch experimentell ist und gleichzeitig wie ein kleiner Horrortrip wirkt? Sprunki Virus verwandelt die bekannte Sprunki-Welt in ein „infiziertes“ Klanglabor.
 
 ### Was ist Sprunki Virus?
@@ -32,3 +33,4 @@ Sprunki Virus nimmt das normale Sprunki‑Universum und überzieht es mit einem 
 - **Mit der Community teilen:** Wenn dein Track richtig verstörend, aber spannend klingt, kannst du ihn mit anderen Virus-Fans teilen.
 
 Sprunki Virus New Update eignet sich hervorragend, wenn du dunkle, experimentelle Klangbilder magst und sehen willst, wie das Sprunki-Prinzip aussieht, wenn jemand mutwillig „das System infiziert“.
+

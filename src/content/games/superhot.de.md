@@ -13,6 +13,7 @@ score: 3.9/5  (1186 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 „Superhot“ ist ein ungewöhnlicher First‑Person‑Shooter: Zeit läuft nur dann annähernd normal, wenn du dich bewegst oder umschaust. Bleibst du stehen, friert sie fast ein. Dadurch wird jede Begegnung weniger zu einem reinen Reflex‑Duell, sondern zu einem taktischen Puzzle in Zeitlupe.
@@ -32,6 +33,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - **Schießen:** `Linke Maustaste`
 - **Interagieren/Waffe aufnehmen:** je nach Version `E` oder automatisch in Griffnähe
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
 1.  **Wie genau funktioniert die Zeitmechanik?**  
@@ -45,3 +47,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 4.  **Wie viele Level hat die Prototype-Version?**  
     Meist mehrere, kurz gehaltene Szenarien, die verschiedene Situationen (enge Räume, mehrere Gegner, Waffenmangel usw.) durchspielen lassen.
+

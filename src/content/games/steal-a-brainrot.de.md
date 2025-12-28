@@ -15,6 +15,7 @@ score: 4.7/5  (3719 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### **Spieleinführung zu Steal a Brainrot**
 
 *Steal a Brainrot* ist ein beliebtes Multiplayer-Action-Stealth-Spiel auf der Roblox-Plattform mit einem Kern-Gameplay-Loop, der sich um ein humorvolles und absurdes Ziel dreht: **Infiltriere einen stark bewachten Bereich, stiehl einen personifizierten Internet-„Brainrot"-Charakter und bring ihn erfolgreich zurück zu deiner Basis.**
@@ -25,6 +26,7 @@ Die Spielkarte ist typischerweise als komplexes Gebiet mit Hindernissen, Fallen 
 
 Der Spaß des Spiels ergibt sich größtenteils aus seinen chaotischen, unvorhersehbaren Multiplayer-Interaktionen und dem komischen Effekt, ernstes Stealth-Gameplay mit lächerlichen Internet-Memes zu kombinieren.
 
+<!-- i18n:section:tips -->
 ### **Gameplay-Strategie & Tipps**
 
 1. **Aufklärung ist die halbe Miete:** Stürze dich nicht blind am Anfang hinein. Nimm dir einen Moment, um das Kartenlayout und die Patrouillenrouten der Wachen zu beobachten. Identifiziere Kamera-Blindspots, Verstecke und die kürzesten, sichersten Wege zum Ziel.
@@ -37,27 +39,36 @@ Der Spaß des Spiels ergibt sich größtenteils aus seinen chaotischen, unvorher
 5. **Plane eine andere Fluchtroute:** Nachdem du das Ziel gestohlen hast, bewegst du dich vielleicht langsamer, oder ein Alarm wird ausgelöst, der alle Wachen auf deine Position aufmerksam macht. Plane eine Fluchtroute, die sich von deinem Eingangsweg unterscheidet – vielleicht eine, die direkter ist oder mehr Deckung bietet.
 6. **Kenne dein „Brainrot":** In einigen Versionen des Spiels können verschiedene „Brainrots" einzigartige Eigenschaften haben. Zum Beispiel könnte das Stehlen eines größeren „Brainrot" dich langsamer machen, während das Stehlen eines, das Geräusche macht, ständig deine Position verrät.
 
+<!-- i18n:section:controls -->
 ### **Steuerungsanleitung**
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `W` `A` `S` `D` `Space Bar` `Shift` `Ctrl` `C` `E` `F` `1` `2` `3` `Q`
 
 Als Roblox-Spiel folgt die Steuerung dem Standard-Format der Plattform.
 
-* **Bewegen:** `W`, `A`, `S`, `D` Tasten
-* **Springen:** `Leertaste`
-* **Sprinten:** `Shift`-Taste gedrückt halten
-* **Ducken / Schleichen:** `Strg` oder `C` Taste
-* **Interagieren / Stehlen:** `E` oder `F` Taste
-* **Item benutzen:** Zifferntasten `1`, `2`, `3`... oder `Q` Taste
+* **Bewegen:** W, A, S, D Tasten
+* **Springen:** Leertaste
+* **Sprinten:** Shift-Taste gedrückt halten
+* **Ducken / Schleichen:** Strg oder C Taste
+* **Interagieren / Stehlen:** E oder F Taste
+* **Item benutzen:** Zifferntasten 1, 2, 3... oder Q Taste
 
+<!-- i18n:section:faq -->
 ### **Häufig gestellte Fragen (FAQ)**
 
+<!-- i18n:faq:id=faq:steal-a-brainrot:where-can-i-play-this-4bfcb29e -->
 **1. Wo kann ich dieses Spiel spielen?**
 Das Spiel ist kostenlos auf der **Roblox**-Plattform spielbar. Suche einfach nach **„Steal a Brainrot"** in der Roblox-App oder auf der Website und wähle eine der beliebtesten Versionen.
 
+<!-- i18n:faq:id=faq:steal-a-brainrot:is-this-game-singleplayer-or-c4933735 -->
 **2. Ist dieses Spiel Einzelspieler oder Multiplayer?**
 Es ist primär für **Multiplayer** kooperatives oder kompetitives Spielen konzipiert. Obwohl du vielleicht allein einem Server beitreten kannst, drehen sich der Kern-Spaß und das Gameplay um die Interaktion mit anderen Spielern.
 
+<!-- i18n:faq:id=faq:steal-a-brainrot:what-exactly-is-a-brainrot-6c62ff59 -->
 **3. Was genau ist ein „Brainrot"?**
 Es ist ein Internet-Slangbegriff für virale Online-Inhalte von geringer Qualität. Dieses Spiel verwandelt dieses abstrakte Konzept in ein physisches Objekt, das du tatsächlich „stehlen" kannst, was die Quelle seines Humors ist.
 
+<!-- i18n:faq:id=faq:steal-a-brainrot:what-is-the-objective-to-b300ad36 -->
 **4. Was ist das Ziel, um das Spiel zu gewinnen?**
 Typischerweise ist das Ziel, dass ein Team das „Brainrot" erfolgreich stiehlt und innerhalb eines Zeitlimits am häufigsten zu seiner Basis zurückbringt. Andere Spielmodi könnten existieren, wie den Heist komplett unentdeckt abzuschließen.
+

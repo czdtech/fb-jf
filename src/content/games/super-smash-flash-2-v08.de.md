@@ -16,10 +16,12 @@ score: 4.3/5  (1114 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 Super Smash Flash 2 ist der lang erwartete Nachfolger des bekannten Fan‑Fighters und orientiert sich spielerisch stark an Super Smash Bros. Gegenüber dem ersten Teil bietet die Demo v0.8b mehr Charaktere, ausgefeiltere Stages und ein deutlich tieferes, besser ausbalanciertes Kampfsystem.
 
+<!-- i18n:section:tips -->
 ### Spielanleitung
 
 Wie im Vorbild geht es nicht darum, eine Lebensleiste auf null zu bringen, sondern Gegner aus der Arena zu schleudern:
@@ -29,19 +31,23 @@ Wie im Vorbild geht es nicht darum, eine Lebensleiste auf null zu bringen, sonde
 - **Rückkehr:** Wirst du selbst hinausgeschleudert, nutzt du Sprünge und Spezialattacken, um zur Plattform zurückzukehren.
 - **Charaktervielfalt:** Zahlreiche Figuren aus Games und Anime haben eigene Movesets, Stärken und Schwächen.
 
+<!-- i18n:section:controls -->
 ### Steuerung (Standardbelegung, frei anpassbar)
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `A` `D` `W` `S` `Spacebar` `J` `K` `L` `U` `Enter`
 
 Die Steuerung ist vollständig anpassbar. Eine gängige Standardbelegung für Spieler 1 ist:
-- **Bewegen:** `A` / `D`
-- **Nach oben zielen:** `W`
-- **Ducken/Nach unten zielen:** `S`
-- **Springen:** `Leertaste`
-- **Standardangriff:** `J`
-- **Spezialangriff:** `K`
-- **Schild:** `L`
-- **Greifen:** `U`
-- **Pause:** `Enter`
+- **Bewegen:** A / D
+- **Nach oben zielen:** W
+- **Ducken/Nach unten zielen:** S
+- **Springen:** Leertaste
+- **Standardangriff:** J
+- **Spezialangriff:** K
+- **Schild:** L
+- **Greifen:** U
+- **Pause:** Enter
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen
 
 **Wie unterscheidet sich SSF2 vom ersten Super Smash Flash?**  
@@ -52,3 +58,4 @@ Ja, viele Controller werden unterstützt und können im Optionsmenü belegt werd
 
 **Wird dieses Spiel noch aktualisiert?**  
 Ja, das Entwicklerteam bei McLeodGaming veröffentlicht weiterhin Updates, die neue Charaktere, Stages und Features zum Spiel hinzufügen.
+

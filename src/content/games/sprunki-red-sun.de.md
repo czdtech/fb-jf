@@ -8,6 +8,7 @@ thumbnail: /new-images/thumbnails/sprunki-red-sun.png
 tags:
   - sprunki red sun
 score: 4.4/5  (232 votes)
+releaseDate: 2025-12-04
 ---
 
 ### Was ist Sprunki Red Sun?
@@ -28,6 +29,7 @@ Sprunki Red Sun versetzt die vertraute Sprunki-Welt in ein dramatisches, feuerro
 - **Effekte auslösen:** Durch bestimmte Kombinationen entstehen besonders „explosive“ Klang- und Lichteffekte.
 - **Bühne dominieren:** Die rot glühende Bühne reagiert auf deinen Mix und verstärkt das Gefühl eines musikalischen Endzeit-Szenarios.
 
+<!-- i18n:section:how-to-play -->
 ### Warum Sprunki Red Sun spielen?
 
 - **Für Fans intensiver Tracks:** Wenn du schwere, kraftvolle Beats magst, ist der Mod genau richtig.
@@ -35,3 +37,4 @@ Sprunki Red Sun versetzt die vertraute Sprunki-Welt in ein dramatisches, feuerro
 - **Für eine neue Herausforderung:** Red Sun bringt mehr Wucht und Drama in das Musikbauen – ideal, um einmal eine aggressivere Klangrichtung auszuprobieren.
 
 Wenn du eine musikalische Reise suchst, die deine Sinne ordentlich fordert, ist Sprunki Red Sun eine sehr passende Wahl: Lass deine Beats das Endzeit-Rot entzünden und hör zu, wie deine Tracks buchstäblich „brennen“.
+

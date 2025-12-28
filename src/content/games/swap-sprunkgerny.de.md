@@ -13,7 +13,7 @@ tags:
   - swap sprunkgerny
   - swap sprunkgerny online
 score: 4.9/5  (724 votes)
-releaseDate: 2025-10-18T00:00:00.000Z
+releaseDate: 2025-12-04
 ---
 
 ### Einführung in Swap Sprunkgerny
@@ -24,6 +24,7 @@ Willst du ein Musikmeister werden und einzigartige musikalische Werke nur mit de
 
 Stell dir eine Gruppe von Alien-Kreaturen vor, die vor dir stehen, mit übertriebenen Augen und schrulligen Persönlichkeiten, die darauf warten, dass du sie zum Leben erweckst. Und du bist der Dirigent dieses Orchesters, der mit seinen Fingern einzigartige Musik spielen lässt!
 
+<!-- i18n:section:tips -->
 ### Das Kern-Gameplay von SWAP SPRUNKGERNY:
 
 Das Kern-Gameplay von SWAP SPRUNKGERNY ist sehr einfach: Ziehen! Ziehen! Ziehen!

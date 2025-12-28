@@ -16,10 +16,12 @@ score: 4.0/5  (1555 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Detaillierte Spieleinführung
 
 Super Bowling Mania bringt Zehn‑Pin‑Bowling auf deinen Bildschirm: Du positionierst dich auf der Bahn, legst Kraft und ggf. Spin fest und versuchst, alle zehn Pins abzuräumen. Strikes, knifflige Spares und der Traum von der perfekten 300 rücken mit jedem Wurf näher.
 
+<!-- i18n:section:tips -->
 ### Spielstrategie & Walkthrough
 
 1.  **Position wählen:** Verschiebe deinen Startpunkt leicht nach links oder rechts, um die „Pocket“ (zwischen Kopfpin und dahinterliegendem Pin) besser zu treffen.
@@ -27,23 +29,29 @@ Super Bowling Mania bringt Zehn‑Pin‑Bowling auf deinen Bildschirm: Du positi
 3.  **Spin nutzen:** Ein leichter Effet lässt die Kugel in die Pocket „ziehen“ und erhöht die Strike-Chance deutlich.
 4.  **Spares räumen:** Nach dem ersten Wurf zielst du gezielt auf den Schlüsselpin in der Restgruppe, um eine Kettenreaktion auszulösen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 - **Zielen:** Maus nach links/rechts bewegen, um Position und Richtung einzustellen.
 - **Power & Wurf:** Maustaste halten, um den Power‑Balken zu starten, und im gewünschten Bereich loslassen.
 - **Effet:** Während die Kugel rollt, kannst du in manchen Versionen mit Mausbewegungen den Spin leicht beeinflussen.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:super-bowling-mania:q-how-is-bowling-scored-6bad3f29 -->
 *   **F: Wie funktioniert die Wertung beim Bowling?**
     *   **A:** Ein Spiel hat 10 Frames. Ein Strike (alle 10 Pins im ersten Wurf) bringt
 10 Punkte plus die Pins der nächsten zwei Würfe; ein Spare (alle 10 Pins in zwei
 Würfen) bringt 10 Punkte plus die Pins des nächsten Wurfs.
 
+<!-- i18n:faq:id=faq:super-bowling-mania:q-what-is-a-perfect-ee68da5c -->
 *   **F: Was ist ein perfektes Spiel?**
     *   **A:** 12 Strikes in Folge – insgesamt 300 Punkte.
 
+<!-- i18n:faq:id=faq:super-bowling-mania:q-how-do-i-get-b98f9727 -->
 *   **F: Wie bekomme ich mehr Strikes?**
     *   **A:** Der Schlüssel ist Konstanz: Finde eine Kombination aus Startposition,
 Power und Spin, die gut funktioniert, und wiederhole sie möglichst gleich. Am
 effektivsten ist meist ein Wurf knapp neben den Kopfpin in die „Pocket“.
+

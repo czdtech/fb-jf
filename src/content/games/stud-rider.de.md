@@ -13,10 +13,12 @@ score: 3.9/5  (1707 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Detaillierte Spieleinführung
 
 Stud Rider lebt von Rhythmus und Flow: Mit kurzen Gasstößen, flachen Landungen und wenigen, gut getimten Flips hältst du dein Bike auf Geschwindigkeit. Das unruhige Gelände bestraft Stürze auf die Vorderachse oder überdrehte Sprünge – gleichmäßiges Fahren schlägt wilde Stunts.
 
+<!-- i18n:section:tips -->
 ### Spielstrategie & Walkthrough
 
 1.  **Flach landen:** Versuche, mit beiden Rädern möglichst waagerecht aufzusetzen, um Grip und Tempo zu behalten.
@@ -25,16 +27,21 @@ Stud Rider lebt von Rhythmus und Flow: Mit kurzen Gasstößen, flachen Landungen
 4.  **Senken „pumpen“:** In Senken kannst du mit kurzem Gasstoß extra Schub mitnehmen; in der Luft Gas wegnehmen stabilisiert die Maschine.
 5.  **Sprunglängen merken:** Mit der Zeit erkennst du, wie weit bestimmte Hügel tragen – so kannst du Sprünge bewusst verketten.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
-- **Gas/Bremse:** `W` / `S` oder `Pfeil hoch` / `Pfeil runter`
-- **Gewicht verlagern:** `A` / `D` oder `Links` / `Rechts`
+- **Gas/Bremse:** W / S oder Pfeil hoch / Pfeil runter
+- **Gewicht verlagern:** A / D oder Links / Rechts
 - Neustart über die UI.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:stud-rider:i-keep-tucking-the-front-1c01e1e1 -->
 - **Ich überschlage mich ständig vorne.**  
   Nimm vor Kuppen etwas Gas weg und lehne dich leicht nach hinten, dann kurz vor der Landung wieder ausgleichen.
 
+<!-- i18n:faq:id=faq:stud-rider:flips-kill-my-speed-75e9869e -->
 - **Flips kosten zu viel Tempo.**  
   Nutze sie nur als Bonus, wenn die Landung sicher ist – Priorität hat immer ein sauberer, flacher Aufprall.
+

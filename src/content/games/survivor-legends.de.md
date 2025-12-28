@@ -12,10 +12,12 @@ score: 4.1/5  (2019 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Detaillierte Spieleinführung
 
 Survivor Legends folgt dem bekannten Auto‑Attack‑Survivor‑Prinzip: Deine Waffen feuern automatisch, du steuerst vor allem Bewegung, Level‑Ups und Build. Du ziehst Kreise um die Gegnerhorden, sammelst XP‑Orbs ein, wählst neue Waffen und Passive und versuchst, immer dichtere Wellen zu überstehen.
 
+<!-- i18n:section:tips -->
 ### Spielstrategie & Walkthrough
 
 1.  **Weite Kites:** Laufe in großen Ovalen oder Kreisen, damit du Zeit für Korrekturen hast und nicht in Sackgassen gerätst.
@@ -24,16 +26,21 @@ Survivor Legends folgt dem bekannten Auto‑Attack‑Survivor‑Prinzip: Deine W
 4.  **Ökonomie zuerst:** Früh in Pickup‑Radius und XP‑Boost investieren, damit du schneller levelst und mehr Auswahl beim Draft hast.
 5.  **Aktivskills aufheben:** Nutze Ultimates/aktive Skills für Wellen-Spikes, Eliten oder Bossphasen, nicht für kleine Gruppen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
-- **Bewegen:** `WASD` oder Pfeiltasten
+- **Bewegen:** WASD oder Pfeiltasten
 - **Aktive Fähigkeiten:** Zifferntasten (abhängig vom Build)
 - Pause über die UI.
 
+<!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
 
+<!-- i18n:faq:id=faq:survivor-legends:i-get-cornered-e450951e -->
 - **Ich werde immer in die Ecke gedrängt.**  
   Versuche, rechtzeitig in die Bildschirmmitte zurückzuschwenken und dich durch noch dünne Gegnerstellen durchzudrücken, statt zu spät zu wenden.
 
+<!-- i18n:faq:id=faq:survivor-legends:which-upgrades-first-03b66ce2 -->
 - **Was zuerst upgraden?**  
   Oft sind Pickup‑Radius/XP‑Bonus, dann Kernschaden und Überlebenswerte (HP, Rüstung) ein guter Start.
+

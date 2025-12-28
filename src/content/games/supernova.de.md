@@ -13,6 +13,7 @@ score: 4.5/5  (915 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
+<!-- i18n:section:introduction -->
 ### Spieleinführung
 
 Supernova ist ein Arcade‑Weltraumshooter in der Draufsicht. Du pilotierst ein kleines Raumschiff durch ein dichtes Asteroidenfeld, weichst Trümmern aus und schießt sie ab, bevor sie dich treffen. Je länger du überlebst und je mehr Objekte du zerstörst, desto höher steigt dein Punktestand.
@@ -34,3 +35,4 @@ Supernova ist ein Arcade‑Weltraumshooter in der Draufsicht. Du pilotierst ein 
 
 - Kleine seitliche Bewegungen sind oft sicherer als große Ausweichmanöver.
 - Konzentriere das Feuer auf Asteroiden, die direkt auf Kollisionskurs liegen.
+
