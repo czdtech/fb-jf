@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Neon Dash es un runner de reflejos en el que te enfrentas a una lluvia de
@@ -25,6 +26,7 @@ fino: saltos cortos, impulsos tardíos y un ritmo constante son la clave para
 superar cadenas de obstáculos muy ajustadas. Según el modo, encontrarás fases
 con puntos de control o recorridos que tienes que completar de una sola vez.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  Dominar la curva de salto: practica pulsaciones cortas y largas para
@@ -40,22 +42,28 @@ con puntos de control o recorridos que tienes que completar de una sola vez.
 5.  Practicar los tramos difíciles: reinicia y repite la parte más dura hasta
     que tu memoria muscular se encargue del timing.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - Salto: barra espaciadora, clic o toque (en algunas versiones la duración de la
   pulsación cambia la altura).  
 - Pausa/reintento: controles en pantalla o atajos de teclado, según la versión.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:neon-dash:why-do-i-clip-spikes-7e728366 -->
 - P: Siempre rozo los pinchos, ¿por qué?  
   R: Probablemente saltas demasiado pronto; retrasa ligeramente el salto y
   procura mantener una velocidad de avance estable.
 
+<!-- i18n:faq:id=faq:neon-dash:is-there-double-jump-295a4848 -->
 - P: Hay doble salto?  
   R: Algunos niveles introducen trampolines o pads especiales; fíjate en las
   indicaciones en pantalla.
 
+<!-- i18n:faq:id=faq:neon-dash:any-tip-for-lategame-36f88010 -->
 - P: Algún consejo para las últimas fases?  
   R: Baja el ritmo mental, cuenta los golpes de música y comprométete con
   ventanas de tiempo que ya hayas practicado.
+

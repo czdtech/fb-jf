@@ -18,6 +18,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Onet Connect Classic es un puzle rápido de conectar fichas, también conocido
@@ -27,6 +28,7 @@ encontrando y conectando parejas idénticas. A diferencia del Mahjong clásico, 
 reto está en las reglas de conexión y en el reloj que corre, así que necesitarás
 buen ojo y rapidez mental para completar cada nivel a tiempo.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Regla de conexión:** solo puedes eliminar una pareja de fichas idénticas
@@ -50,6 +52,7 @@ buen ojo y rapidez mental para completar cada nivel a tiempo.
     temporizador y mantén un ritmo de emparejamientos constante para no quedarte
     sin tiempo.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 El juego se maneja por completo con ratón o pantalla táctil.
@@ -58,16 +61,21 @@ El juego se maneja por completo con ratón o pantalla táctil.
 *   **Conectar pareja:** haz clic en una segunda ficha idéntica; si el camino es
     válido, ambas se eliminarán del tablero.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:onet-connect-classic:q-why-cant-i-connect-c548c2f6 -->
 *   **P: ¿Por qué no puedo conectar dos fichas iguales?**
     *   **R:** Normalmente por dos motivos: 1) el camino está bloqueado por otras
         fichas, o 2) la línea que las uniría necesitaría más de dos giros.
 
+<!-- i18n:faq:id=faq:onet-connect-classic:q-what-happens-when-i-d9559b94 -->
 *   **P: ¿Qué ocurre si el tiempo llega a cero?**
     *   **R:** Si el temporizador se agota antes de limpiar todas las fichas,
         pierdes el nivel y tendrás que empezar de nuevo.
 
+<!-- i18n:faq:id=faq:onet-connect-classic:q-is-there-a-penalty-2dc7b42f -->
 *   **P: ¿Me penaliza usar pistas?**
     *   **R:** Normalmente no, pero su número es limitado. Úsalas cuando de
         verdad estés atascado para ahorrar tiempo.
+

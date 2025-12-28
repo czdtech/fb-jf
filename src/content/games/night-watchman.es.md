@@ -18,6 +18,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 "Night Watchman" es un juego de terror y supervivencia en el que te pones en la
@@ -42,6 +43,7 @@ sobrecogedora.
     puntos débiles distintos; observa, aprende y adapta tu rutina noche tras
     noche.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 *   **Cambiar de cámara:** haz clic en los números de cámara en la interfaz o
@@ -51,6 +53,7 @@ sobrecogedora.
 *   **Ver el mapa:** algunas versiones incluyen un mapa del edificio que te
     ayuda a entender la distribución de salas y pasillos.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes
 
 1.  **P: Cuál es el objetivo principal?**  
@@ -69,3 +72,4 @@ sobrecogedora.
 4.  **P: El juego tiene varios finales?**  
     **R:** Muchas versiones incluyen finales diferentes según tu desempeño y las
     decisiones que tomes durante las noches.
+

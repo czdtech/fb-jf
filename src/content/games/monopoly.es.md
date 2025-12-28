@@ -18,6 +18,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 "Monopoly" es el juego de mesa clásico de propiedades. Los jugadores tiran los
@@ -41,6 +42,7 @@ siendo uno de los juegos de mesa más populares del mundo.
 5.  **Gestionar las finanzas:** administra bien tu efectivo para poder pagar
     alquileres, impuestos y eventos inesperados sin quedarte sin liquidez.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 *   **Tirar los dados:** haz clic en los dados en tu turno para lanzarlos y ver
@@ -53,6 +55,7 @@ siendo uno de los juegos de mesa más populares del mundo.
 *   **Pagar:** al caer en casillas de alquiler, impuestos o similares, el juego
     te pedirá automáticamente que realices el pago.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes
 
 1.  **P: ¿Cuál es el número ideal de jugadores?**  

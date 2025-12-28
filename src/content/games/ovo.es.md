@@ -19,6 +19,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 "OvO Game" es un plataformas muy rápido y exigente. Controlas a un personaje
@@ -41,6 +42,7 @@ prueba tu velocidad de reacción y tu precisión.
 5.  **Buscar atajos:** algunos niveles esconden rutas alternativas o atajos que
     permiten recortar tiempo; explorar puede darte ventajas en modo speedrun.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 *   **Moverse:** flechas izquierda/derecha o teclas A/D para desplazarse.  
@@ -51,6 +53,7 @@ prueba tu velocidad de reacción y tu precisión.
 *   **Salto en pared:** al estar junto a una pared, pulsa salto para impulsarte;
     encadenar estos saltos permite escalar.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes
 
 1.  **P: Qué tan difícil es OvO Game?**  
@@ -66,3 +69,4 @@ prueba tu velocidad de reacción y tu precisión.
 4.  **P: En qué plataformas se puede jugar?**  
     **R:** OvO Game suele jugarse en navegadores web, y algunas versiones
     ofrecen soporte adicional para dispositivos móviles.
+

@@ -18,6 +18,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 "Only Up" es un plataformas 3D extremadamente desafiante. Tu objetivo es
@@ -42,6 +43,7 @@ desde el principio, poniendo a prueba tu precisión y tu templanza.
 5.  **Aprender de cada caída:** cada vez que falles, toma nota mental del
     obstáculo y del ángulo de salto; así evitarás repetir el mismo error.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 *   **Movimiento:** teclas WASD o flechas para desplazarte.  
@@ -51,6 +53,7 @@ desde el principio, poniendo a prueba tu precisión y tu templanza.
 *   **Cámara:** usa el ratón para mover la cámara y estudiar mejor el entorno y
     la ruta.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes
 
 1.  **P: Hay puntos de guardado o checkpoints?**  

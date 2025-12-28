@@ -19,6 +19,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 "PAC-MAN" es un clásico absoluto de los salones recreativos. Controlas al
@@ -45,11 +46,13 @@ puedes perseguirlos para conseguir puntos extra.
 5.  **Priorizar las bolitas grandes:** guárdalas o cógelas en el momento justo
     para poder limpiar zonas peligrosas con los fantasmas en modo vulnerable.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 *   **Movimiento:** usa las flechas del teclado (arriba, abajo, izquierda,
     derecha) para dirigir a Pac-Man por el laberinto.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes
 
 1.  **P: Cuántos niveles tiene el PAC-MAN original?**  
@@ -64,3 +67,4 @@ puedes perseguirlos para conseguir puntos extra.
 4.  **P: El objetivo es solo comerse todos los puntos?**  
     **R:** Sí, en cada nivel debes comer todos los puntos pequeños y las
     bolitas de poder para pasar al siguiente laberinto.
+

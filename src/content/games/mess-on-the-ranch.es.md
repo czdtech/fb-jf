@@ -18,6 +18,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Mess on the Ranch es un encantador puzle de organización. Debes reunir
@@ -26,6 +27,7 @@ los cobertizos correctos, arreglar tramos rotos de valla y limpiar escombros,
 normalmente con un número limitado de movimientos o de tiempo. Cada nivel gira
 en torno a la planificación de rutas y la priorización de tareas.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  Prioridad a los corrales: encierra primero a los animales que deambulan para
@@ -39,21 +41,27 @@ en torno a la planificación de rutas y la priorización de tareas.
 5.  Objetivos extra: intenta los retos opcionales (como limpiar toda la basura)
     solo si te sobran movimientos o tiempo.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - Arrastra o toca para mover al personaje e interactuar; las acciones de
   reparación y entrega suelen mostrarse mediante iconos contextuales.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:mess-on-the-ranch:i-run-out-of-moves-0e48d1a7 -->
 - P: Siempre me quedo sin movimientos.  
   R: Agrupa varias tareas en una misma ruta y evita desvíos que solo sirvan
   para un objetivo menor.
 
+<!-- i18n:faq:id=faq:mess-on-the-ranch:animals-wander-off-15c1e6e4 -->
 - P: Los animales no paran de alejarse.  
   R: Encárgate de encerrarlos cuanto antes y deja las herramientas o vallas
   para después.
 
+<!-- i18n:faq:id=faq:mess-on-the-ranch:timers-too-tight-628524e0 -->
 - P: Los temporizadores parecen muy ajustados.  
   R: Ignora parte de la basura opcional y céntrate en los objetivos marcados
   como esenciales.
+

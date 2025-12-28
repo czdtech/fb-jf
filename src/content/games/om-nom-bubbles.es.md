@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Om Nom Bubbles es un bubble shooter clásico protagonizado por el querido Om
@@ -25,6 +26,7 @@ limpiar secciones del tablero. Los rebotes en las paredes, la gestión de
 colores y la planificación de las próximas burbujas son fundamentales para que
 el techo no baje demasiado.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Apuntar a los anclajes:** céntrate en los grupos que sostienen secciones
@@ -39,6 +41,7 @@ el techo no baje demasiado.
 5.  **No perseguir grupos diminutos:** cuando el techo está muy bajo, despeja
     primero rutas amplias y deja los grupos pequeños para el final.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - Apuntar: mueve el cursor o arrastra para fijar la trayectoria; algunas
@@ -47,16 +50,21 @@ el techo no baje demasiado.
 - Cambiar (si está disponible): en ciertos modos puedes intercambiar la burbuja
   actual con la siguiente para ganar flexibilidad.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:om-nom-bubbles:how-do-i-reach-covered-04be049c -->
 - P: Cómo alcanzo grupos tapados?  
   R: Usa tiros a banda rebotando en la pared lateral para entrar por un ángulo
   distinto.
 
+<!-- i18n:faq:id=faq:om-nom-bubbles:what-if-the-wrong-color-6ccf8d84 -->
 - P: Y si el juego insiste en darme el color que no necesito?  
   R: Úsalo para limpiar pequeños grupos molestos o para preparar futuras
   caídas; si el modo lo permite, intercambia la burbuja con la siguiente.
 
+<!-- i18n:faq:id=faq:om-nom-bubbles:do-i-need-all-stars-c6a73dae -->
 - P: Hace falta conseguir siempre las tres estrellas?  
   R: No es obligatorio, pero las puntuaciones altas suelen desbloquear niveles
   extra y son un buen reto para quienes buscan dominar el juego.
+

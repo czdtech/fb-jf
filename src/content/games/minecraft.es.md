@@ -19,6 +19,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 Minecraft es un videojuego sandbox desarrollado por Mojang Studios. Los
@@ -42,6 +43,7 @@ Espectador.
 5.  **Desarrollar agricultura y ganadería:** crea granjas, cría animales y pesca
     para asegurar una fuente estable de comida.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 *   **Movimiento:** teclas W, A, S y D para avanzar, ir a la izquierda, atrás y
@@ -55,6 +57,7 @@ Espectador.
     crafteo rápida.
 *   **Agacharse:** tecla Shift para ir sigiloso y evitar caídas desde los bordes.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes
 
 1.  **P: ¿Cuáles son los modos de juego principales de Minecraft?**  
@@ -69,3 +72,4 @@ Espectador.
 4.  **P: ¿Cómo construyo una granja automática?**  
     **R:** Las granjas automáticas suelen usar redstone, pistones, corrientes de
     agua y otros mecanismos para plantar y cosechar de forma automática.
+

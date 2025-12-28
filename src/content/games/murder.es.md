@@ -18,6 +18,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 "Murder" es un juego de deducción social tenso y muy entretenido. En cada
@@ -53,6 +54,7 @@ partidas se parecen entre sí.
         al asesino a esconderse y a los civiles a cerrar vías de escape o
         vigilar zonas clave.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 *   **Movimiento:** normalmente con las teclas de dirección o WASD.  
@@ -64,6 +66,7 @@ partidas se parecen entre sí.
 *   **Autodefensa de civiles:** en algunas variantes, ciertos civiles pueden
     defenderse o contraatacar bajo condiciones concretas.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes
 
 1.  **P: Cómo averiguo quién es el asesino?**  
@@ -81,3 +84,4 @@ partidas se parecen entre sí.
 4.  **P: Cuántos jugadores hacen falta para que sea divertido?**  
     **R:** Lo ideal suele ser al menos entre 4 y 6 jugadores, dependiendo de la
     versión y de las reglas concretas.
+

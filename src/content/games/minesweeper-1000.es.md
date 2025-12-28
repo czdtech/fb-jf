@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Minesweeper 1000 es una versión moderna del clásico puzle lógico.
@@ -25,6 +26,7 @@ En los tableros grandes, la clave está en reconocer patrones, usar el "chord"
 para abrir zonas rápido y minimizar las situaciones en las que tengas que
 adivinar.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  Patrones básicos: domina patrones típicos como 1‑2, 1‑1 y 1‑2‑1 en bordes
@@ -39,6 +41,7 @@ adivinar.
 5.  Higiene de banderas: marca solo cuando estés seguro; si la versión lo
     permite, usa marcas de duda para candidatos en lugar de banderas definitivas.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - Clic izquierdo: revelar casilla.  
@@ -47,16 +50,21 @@ adivinar.
   implementación).  
 - Reinicio rápido desde el menú.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:minesweeper-1000:im-stuck-with-a-5050-da1033f7 -->
 - P: Estoy atascado en un 50/50, ¿qué hago?  
   R: Revisa otras zonas por si has pasado por alto algún patrón; si no queda
   otra, elige la casilla que abra una frontera más amplia en caso de ser segura.
 
+<!-- i18n:faq:id=faq:minesweeper-1000:what-does-chording-do-fe70e66d -->
 - P: ¿Qué hace exactamente el chording?  
   R: Si el número tiene el mismo número de banderas alrededor que la cifra que
   muestra, el chord revela de golpe todas las casillas restantes adyacentes.
 
+<!-- i18n:faq:id=faq:minesweeper-1000:any-tip-for-early-game-2a5266e2 -->
 - P: ¿Algún consejo para el inicio de partida?  
   R: Suele ser mejor empezar en el centro para conseguir cascadas grandes; las
   esquinas dan menos información.
+

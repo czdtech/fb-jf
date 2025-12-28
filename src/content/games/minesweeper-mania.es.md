@@ -18,6 +18,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Minesweeper Mania es una versión pulida del clásico puzle para un
@@ -27,6 +28,7 @@ el tablero y deducir dónde se esconden las bombas: cada número indica cuántas
 minas hay en las ocho casillas que lo rodean. Esta edición ofrece varios niveles
  de dificultad, con retos tanto para principiantes como para veteranos.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **El primer clic es seguro:** el primer clic de cada partida nunca será una
@@ -47,21 +49,27 @@ minas hay en las ocho casillas que lo rodean. Esta edición ofrece varios nivele
     mina, ¿cuadrarían los números de alrededor?". Así podrás encontrar casillas
     seguras en situaciones aparentemente bloqueadas.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 *   **Revelar casilla:** clic izquierdo sobre una casilla cubierta.
 *   **Poner bandera:** clic derecho para colocar o quitar una bandera.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:minesweeper-mania:q-what-do-the-numbers-72c417f7 -->
 *   **P: ¿Qué significan los números?**
     *   **R:** Cada número indica cuántas minas hay en las ocho casillas que lo
         rodean (horizontal, vertical y diagonal).
 
+<!-- i18n:faq:id=faq:minesweeper-mania:q-what-happens-if-i-5fd42843 -->
 *   **P: ¿Qué pasa si hago clic en una mina?**
     *   **R:** La partida termina de inmediato con derrota.
 
+<!-- i18n:faq:id=faq:minesweeper-mania:q-do-i-have-to-f6cc0b4c -->
 *   **P: ¿Es obligatorio usar banderas?**
     *   **R:** No, no son necesarias para ganar; solo te ayudan a recordar dónde
         crees que están las minas. Ganas al revelar todas las casillas seguras,
         no por marcar todas las minas.
+

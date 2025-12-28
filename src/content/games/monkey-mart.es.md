@@ -19,6 +19,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 "Monkey Mart" es un simpático juego de simulación en el que gestionas un
@@ -41,6 +42,7 @@ mejorar el equipo y contratar más empleados mono para aumentar la eficiencia.
     máquinas y zonas de la tienda, desbloquear nuevos productos y ampliar la
     superficie del supermercado.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 *   **Movimiento:** usa el joystick virtual o las teclas de dirección del
@@ -51,6 +53,7 @@ mejorar el equipo y contratar más empleados mono para aumentar la eficiencia.
 *   **Tocar/hacer clic:** utiliza los iconos de la interfaz para mejorar
     instalaciones, contratar empleados u otras acciones de gestión.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes
 
 1.  **P: ¿Cómo gano dinero rápido?**  

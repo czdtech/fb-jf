@@ -18,6 +18,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 Minesweeper es un puzle clásico para un solo jugador. El objetivo es ir
@@ -41,6 +42,7 @@ marcar los campos minados.
     razonables intentando minimizar el riesgo, por ejemplo eligiendo casillas
     que revelen más información.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 *   **Clic izquierdo:** descubrir una casilla.
@@ -49,6 +51,7 @@ marcar los campos minados.
     casilla numerada estén correctamente marcadas, un doble clic revelará de
     golpe todas las casillas restantes adyacentes que sean seguras.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes
 
 1.  **P: ¿Existe una estrategia que garantice siempre la victoria?**  
@@ -64,3 +67,4 @@ marcar los campos minados.
 4.  **P: Para qué sirve el temporizador del juego?**  
     **R:** Registra el tiempo que tardas en completar la partida y te permite
     competir contra tus propios récords en cada nivel de dificultad.
+

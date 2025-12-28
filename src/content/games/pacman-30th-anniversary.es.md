@@ -19,6 +19,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 "Pacman 30th Anniversary" es una edición conmemorativa del clásico arcade
@@ -42,11 +43,13 @@ nuevos y veteranos disfruten de la experiencia clásica.
     puntos pequeños y las bolas de poder del laberinto para pasar al siguiente
     nivel.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 *   **Movimiento:** normalmente con las flechas del teclado (arriba, abajo,
     izquierda, derecha) para dirigir a Pac-Man.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes
 
 1.  **P: En qué se diferencia Pacman 30th Anniversary del PAC-MAN original?**  
@@ -62,3 +65,4 @@ nuevos y veteranos disfruten de la experiencia clásica.
 4.  **P: Hay tablas de clasificación?**  
     **R:** Muchas versiones incluyen marcadores locales u online para competir
     por la mejor puntuación.
+

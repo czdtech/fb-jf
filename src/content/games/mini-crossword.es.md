@@ -17,6 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 "Mini Crossword" es un crucigrama diario en formato reducido. Presenta una
@@ -36,6 +37,7 @@ resolución de puzles.
 4.  **Acotar poco a poco:** en palabras dudosas, escribe las letras de las que
     estés seguro y deduce el resto a partir de las casillas vacías y las pistas.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 *   **Seleccionar casilla:** haz clic en una casilla vacía para seleccionarla.
@@ -49,6 +51,7 @@ resolución de puzles.
 *   **Comprobar respuestas:** algunas versiones incluyen un botón de "Comprobar"
     para validar si las palabras escritas son correctas.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes
 
 1.  **P: ¿Para quién es adecuado Mini Crossword?**  

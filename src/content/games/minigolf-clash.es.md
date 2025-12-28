@@ -18,6 +18,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Minigolf Clash es un juego casual de putting con obstáculos creativos, rampas,
@@ -25,6 +26,7 @@ paredes de rebote y elementos móviles. El objetivo es sencillo —terminar cada
 hoyo por debajo del par— pero dominar ángulos y potencia es lo que te permitirá
 lograr puntuaciones bajas y tiros espectaculares.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  Control de fuerza: usa golpes suaves cerca del hoyo para evitar que la bola
@@ -38,22 +40,28 @@ lograr puntuaciones bajas y tiros espectaculares.
 5.  Practicar líneas: repite golpes desde posiciones similares para construir
     memoria muscular y conseguir trayectorias fiables.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - Apuntar: arrastra para fijar la dirección.  
 - Potencia: tira hacia atrás para ajustar la fuerza y suelta para golpear.  
 - Reinicio: usa el control en pantalla para reiniciar el hoyo si la versión lo permite.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:minigolf-clash:why-do-putts-rim-out-94fe7f70 -->
 - P: ¿Por qué mis putts se salen del hoyo?  
   R: Normalmente por exceso de fuerza o por una línea deficiente; baja la
   potencia cerca del agujero.
 
+<!-- i18n:faq:id=faq:minigolf-clash:any-bankshot-tips-8dec7122 -->
 - P: ¿Algún consejo para los tiros a banda?  
   R: Apunta un poco por dentro del ángulo perfecto de 45° para compensar la
   pérdida de velocidad en la pared.
 
+<!-- i18n:faq:id=faq:minigolf-clash:how-to-handle-movers-7da465fe -->
 - P: ¿Cómo gestiono los obstáculos móviles?  
   R: Observa un ciclo completo antes de golpear y solo lanza cuando tengas clara
   la ventana de paso.
+

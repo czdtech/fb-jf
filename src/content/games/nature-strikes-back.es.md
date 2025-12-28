@@ -18,6 +18,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Nature Strikes Back es un juego que combina la mecánica adictiva de los merges
@@ -27,6 +28,7 @@ Mucklings. Para lograrlo, invocarás y fusionarás distintos Espíritus Guardian
 los harás evolucionar a formas más poderosas y los desplegarás en el campo de
 batalla para contener las oleadas de enemigos.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Invocar y fusionar:** el núcleo del juego es crear defensas poderosas.
@@ -45,6 +47,7 @@ batalla para contener las oleadas de enemigos.
     Coloca unidades de área o ralentización donde puedan afectar al máximo de
     enemigos.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 *   **Invocar espíritus:** haz clic en el botón "Summon" para obtener un nuevo
@@ -55,18 +58,23 @@ batalla para contener las oleadas de enemigos.
     casilla libre del campo; también puedes recolocar guardianes ya desplegados
     entre distintas posiciones.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:nature-strikes-back:q-how-do-i-get-9bf612f3 -->
 *   **P: ¿Cómo consigo guardianes más fuertes?**
     *   **R:** Fusionando. Combina dos guardianes iguales para crear uno de la
         siguiente categoría (por ejemplo, dos de nivel 2 forman uno de nivel 3).
 
+<!-- i18n:faq:id=faq:nature-strikes-back:q-what-happens-if-a-8ac0dfcc -->
 *   **P: ¿Qué pasa si un monstruo llega al final del camino?**
     *   **R:** Si un enemigo llega al Corazón de la Naturaleza, pierdes un punto
         de vida/salud. Si tu salud llega a cero, pierdes el nivel.
 
+<!-- i18n:faq:id=faq:nature-strikes-back:q-should-i-fill-all-f74c34bb -->
 *   **P: ¿Conviene llenar todas las casillas de despliegue cuanto antes?**
     *   **R:** No necesariamente. A menudo es mejor centrarse primero en fusionar
         para crear uno o dos guardianes muy fuertes, en lugar de desplegar muchos
         débiles. Un guardián de alto nivel suele rendir más que varios de nivel
         bajo juntos.
+

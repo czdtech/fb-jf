@@ -18,6 +18,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Northern Heights es un juego de esquí que te lleva por emocionantes paisajes
@@ -26,6 +27,7 @@ espectaculares para conseguir puntos extra y recogerás monedas por el camino.
 El juego se centra en equilibrar velocidad y control, y ofrece varias opciones
 de personalización para tu personaje, tabla y atuendos.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Dominar los controles:** aprende bien cómo girar y cuándo ejecutar
@@ -39,17 +41,22 @@ de personalización para tu personaje, tabla y atuendos.
 5.  **Recoger monedas:** las monedas sirven para comprar accesorios, tablas y
     ropa, dándote más opciones de personalización.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 *   **Flechas/ratón:** utiliza las teclas de dirección o el ratón para controlar
     a tu esquiador por la pendiente; los comandos exactos de trucos pueden
     variar según la versión.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:northern-heights:q-how-do-i-score-147090df -->
 *   **P: ¿Cómo consigo más puntos?**
     *   **R:** Haz acrobacias, recoge monedas y completa el descenso lo más
         rápido posible: todo suma para una puntuación más alta.
+<!-- i18n:faq:id=faq:northern-heights:q-what-can-i-do-0eeda2c4 -->
 *   **P: ¿Para qué sirven las monedas que recojo?**
     *   **R:** Sirven para comprar opciones de personalización, como nuevas
         tablas y ropa para tu personaje.
+

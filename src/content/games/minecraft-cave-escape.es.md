@@ -11,12 +11,15 @@ thumbnail: /new-images/thumbnails/minecraft-cave-escape.png
 tags:
   - minecraft cave escape
 score: 4.7/5  (354 votes)
+releaseDate: 2025-12-04
 ---
 
 
 
+<!-- i18n:section:introduction -->
 Este es un juego de saltar y escalar que pone a prueba tus reflejos, con un
 estilo inspirado en Minecraft. El planteamiento es sencillo: estás atrapado en
 una cueva sin materiales para construir tu salida. Debes trepar por los bloques
 que van cayendo para alcanzar lo más alto posible, pero si un bloque te cae
 encima, se acaba la partida. ¿Hasta dónde serás capaz de subir?
+

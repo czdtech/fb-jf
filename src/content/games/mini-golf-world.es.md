@@ -18,6 +18,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Mini Golf World es una colección de circuitos de minigolf muy pulidos, llenos de
@@ -25,6 +26,7 @@ rampas, molinos de viento y raíles con truco. Las buenas puntuaciones dependen
 de controlar con precisión la fuerza del putt, trazar líneas de rebote
 inteligentes y tener paciencia con los obstáculos móviles.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  Ritmo en el hoyo: cerca del agujero, golpea suave para evitar que la bola
@@ -38,22 +40,28 @@ inteligentes y tener paciencia con los obstáculos móviles.
 5.  Explorar con la cámara: mueve y acerca la vista para leer pendientes y
     raíles ocultos antes de ejecutar el golpe.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - Apunta moviendo el cursor; arrastra hacia atrás para ajustar la potencia y
   suelta para golpear; reinicia el hoyo si la bola se queda atascada (según
   versión).
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:mini-golf-world:why-do-i-rim-out-502ee3af -->
 - P: ¿Por qué la bola se me sale del hoyo?  
   R: Sueles entrar con demasiada fuerza o con mal ángulo; reduce potencia y
   ajusta la línea de entrada.
 
+<!-- i18n:faq:id=faq:mini-golf-world:any-universal-bank-tip-5b260f7a -->
 - P: ¿Algún truco general para tiros a banda?  
   R: Apunta un poco por dentro de los 45° perfectos para compensar la pérdida
   de velocidad en la pared.
 
+<!-- i18n:faq:id=faq:mini-golf-world:is-there-a-stroke-limit-e979fe39 -->
 - P: ¿Hay límite de golpes?  
   R: Muchos hoyos tienen un máximo de golpes para mantener el par; planifica
   pensando en dos putts consistentes en lugar de intentos heroicos.
+

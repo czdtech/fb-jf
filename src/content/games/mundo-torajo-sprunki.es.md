@@ -11,10 +11,12 @@ thumbnail: /new-images/thumbnails/mundo-torajo-sprunki.png
 tags:
   - mundo torajo sprunki
 score: 4.0/5  (112 votes)
+releaseDate: 2025-12-04
 ---
 
 
 
+<!-- i18n:section:introduction -->
 ¿Listo para sumergirte en un mundo musical vibrante y lleno de color? Mundo
 Torajo Sprunki te lleva a un festín audiovisual como ningún otro. Este mod
 combina el universo juguetón de Mundo Torajo con la diversión creativa basada en

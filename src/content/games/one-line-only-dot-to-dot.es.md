@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 One line only: dot to dot sigue la tradición de los recorridos de Euler: debes
@@ -23,6 +24,7 @@ conectar todos los puntos y aristas con un solo trazo continuo. Los tableros
 introducen puentes, giros forzados y trucos de paridad que exigen planificar muy
 bien la ruta y controlar cuándo retroceder.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  Contar grados: empieza por los nodos de grado impar (en recorridos de
@@ -36,20 +38,26 @@ bien la ruta y controlar cuándo retroceder.
 5.  Usar la simetría: en tableros simétricos, aprovecha la estructura para
     reflejar rutas parciales en el lado opuesto.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - Arrastra para dibujar siguiendo los segmentos; usa los botones de deshacer o
   limpiar en la interfaz para corregir o reiniciar.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:one-line-only-dot-to-dot:i-end-one-step-short-2ba592fd -->
 - P: Siempre me falta una arista al final, ¿por qué?  
   R: Probablemente has empezado en un nodo incorrecto; prueba a iniciar el
   recorrido en un nodo de grado impar.
 
+<!-- i18n:faq:id=faq:one-line-only-dot-to-dot:are-crossings-allowed-127ec18f -->
 - P: Se pueden cruzar líneas?  
   R: Solo donde existan segmentos definidos; no se permiten cruces "al aire".
 
+<!-- i18n:faq:id=faq:one-line-only-dot-to-dot:any-hint-system-83b1a6f0 -->
 - P: Hay sistema de pistas?  
   R: Muchas versiones incluyen pistas o resaltan los puentes obligatorios para
   ayudarte.
+

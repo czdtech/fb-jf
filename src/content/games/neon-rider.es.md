@@ -18,6 +18,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Neon Rider es un plataformas de moto en vista lateral centrado en los
@@ -25,6 +26,7 @@ aterrizajes suaves y el aprovechamiento del impulso. Controla la inclinación en
 el aire, dosifica el acelerador sobre los baches y encadena saltos sin
 sobregirar para mantener la velocidad.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  Aterrizar plano: intenta caer siempre con las ruedas niveladas para conservar
@@ -38,22 +40,28 @@ sobregirar para mantener la velocidad.
 5.  Aprender las líneas: memoriza la longitud de los saltos y los puntos de
     aterrizaje para lograr recorridos fluidos.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - Acelerar/frenar: flechas arriba/abajo o teclas W/S.  
 - Inclinar: flechas izquierda/derecha o teclas A/D.  
 - Reiniciar: reinicio rápido del nivel para practicar los segmentos difíciles.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:neon-rider:i-keep-nosing-inwhy-07a401c5 -->
 - P: Siempre clavo la rueda delantera al caer.  
   R: Sueles salir de las rampas con demasiado gas; suelta acelerador justo antes
   del borde para salir más plano.
 
+<!-- i18n:faq:id=faq:neon-rider:how-to-keep-momentum-2353d597 -->
 - P: Cómo mantengo el impulso?  
   R: Aterriza nivelado y evita sobre‑rotar; en pequeños valles, usa el peso de
   la moto para "bombea"r y ganar velocidad.
 
+<!-- i18n:faq:id=faq:neon-rider:any-trick-for-big-gaps-8ed09445 -->
 - P: Algún truco para los saltos grandes?  
   R: Atrévete con el salto completo solo cuando veas claramente la rampa de
   aterrizaje y tengas la moto alineada con ella.
+

@@ -18,6 +18,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 My Space Pet te invita a adoptar y cuidar de una adorable criatura alienígena
@@ -28,6 +29,7 @@ sucio y asegurarte de que descanse lo suficiente. Además del cuidado diario,
 puedes jugar a divertidos minijuegos para ganar monedas con las que desbloquear
 ropas, accesorios y objetos decorativos para tu mascota espacial.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  **Vigilar las necesidades de Zuub:** presta atención a los indicadores de
@@ -43,23 +45,29 @@ ropas, accesorios y objetos decorativos para tu mascota espacial.
     de la interfaz para descubrir nuevas reacciones y actividades con Zuub.
     Cuando está especialmente feliz, puede recompensarte con premios extra.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 *   **Clic/toque:** usa el ratón (en PC) o el dedo (en móvil) para interactuar
     con Zuub, abrir menús y jugar a los minijuegos.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:my-space-pet:q-what-happens-if-i-b6e995a0 -->
 *   **P: ¿Qué pasa si no cuido de Zuub?**
     *   **R:** Si descuidas sus necesidades, bajarán sus niveles de felicidad y
         energía, y puede ponerse triste o enfermo. Cuidarlo con regularidad es
         clave para que se mantenga bien.
 
+<!-- i18n:faq:id=faq:my-space-pet:q-how-do-i-earn-8f5d70f3 -->
 *   **P: ¿Cómo consigo monedas?**
     *   **R:** Principalmente, jugando y superando los minijuegos disponibles en
         My Space Pet.
 
+<!-- i18n:faq:id=faq:my-space-pet:q-can-i-have-more-f4d87843 -->
 *   **P: ¿Puedo tener más de una mascota espacial?**
     *   **R:** Normalmente estos juegos se centran en una sola mascota. Consulta
         las opciones concretas de tu versión, pero lo habitual es desarrollar un
         vínculo fuerte con un único compañero espacial.
+

@@ -18,6 +18,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 "One Line" es un puzle minimalista. Tu tarea es dibujar una sola línea
@@ -39,6 +40,7 @@ medida que avanzas.
 5.  **Practicar mucho:** la práctica te ayudará a reconocer patrones y trucos
     comunes en los niveles más difíciles.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 *   **Empezar el trazo:** haz clic en cualquier punto para usarlo como inicio y
@@ -48,6 +50,7 @@ medida que avanzas.
 *   **Reiniciar nivel:** si te equivocas o te bloqueas, usa el botón de
     reinicio para empezar el nivel desde cero.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes
 
 1.  **P: Cuál es el objetivo exacto?**  
@@ -62,3 +65,4 @@ medida que avanzas.
 4.  **P: Es adecuado para niños?**  
     **R:** Sí, es un buen ejercicio para desarrollar el razonamiento lógico y la
     resolución de problemas, apto para todas las edades.
+

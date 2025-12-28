@@ -18,6 +18,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 "Moto X3M" es un juego de carreras y acrobacias en moto tan emocionante como
@@ -41,6 +42,7 @@ menor tiempo posible, encadenando volteretas y trucos para ganar segundos extra.
 5.  **Reintentar niveles:** algunos trazados requieren varios intentos para
     encontrar la ruta y la sincronización de acrobacias óptimos.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 *   **Acelerar:** normalmente con la tecla W, flecha arriba o un botón táctil.
@@ -49,6 +51,7 @@ menor tiempo posible, encadenando volteretas y trucos para ganar segundos extra.
     o inclinando el dispositivo en móviles, para controlar la postura de la
     moto en el aire y en las rampas.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes
 
 1.  **P: Cómo consigo más puntuación y mejores tiempos?**  
@@ -63,3 +66,4 @@ menor tiempo posible, encadenando volteretas y trucos para ganar segundos extra.
 4.  **P: Qué hago si me quedo atascado en un nivel?**  
     **R:** Prueba distintas combinaciones de acrobacias y rutas, y observa
     vídeos de otros jugadores si necesitas inspiración para un tramo concreto.
+

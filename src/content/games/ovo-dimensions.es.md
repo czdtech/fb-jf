@@ -20,6 +20,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 "OvO Dimensions" es una extensión de la serie "OvO", un plataformas 2D tan
@@ -46,6 +47,7 @@ ricos y una experiencia visual mejorada.
     intenta optimizar movimientos para rebajar segundos y competir en modo
     speedrun.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 *   **Moverse:** flechas izquierda/derecha o teclas A/D para desplazamiento
@@ -57,6 +59,7 @@ ricos y una experiencia visual mejorada.
 *   **Salto en pared:** cuando el personaje toca una pared, pulsa saltar para
     impulsarte; encadenar varios saltos de pared permite subir en vertical.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes
 
 1.  **P: En qué se diferencia OvO Dimensions del OvO original?**  
@@ -72,3 +75,4 @@ ricos y una experiencia visual mejorada.
 4.  **P: Hay comunidad o rankings?**  
     **R:** Muchos plataformas de alta dificultad cuentan con comunidades muy
     activas y tablas de clasificación online donde compartir rutas y tiempos.
+

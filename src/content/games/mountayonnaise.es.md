@@ -12,15 +12,18 @@ tags:
   - sprunki mountayonnaise
   - sprunki mountayonnaise online
 score: 4.8/5  (649 votes)
+releaseDate: 2025-12-04
 ---
 
 
 
+<!-- i18n:section:introduction -->
 Sprunki Mountayonnaise es un mod sorprendentemente encantador de Sprunki en el
 que distintos personajes animales aparecen en función de los efectos de sonido
 que asignas. Gracias a ello, la rejugabilidad es enorme. Aquí crearás tus
 propias piezas musicales con un elenco de personajes animados muy peculiares.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar a Sprunki Mountayonnaise
 
 La jugabilidad es muy sencilla y se resume en unos pocos pasos:

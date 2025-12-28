@@ -18,6 +18,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Introducción al juego
 
 "Moving Truck" es un puzle de físicas en el que tu tarea consiste en
@@ -41,6 +42,7 @@ a prueba tu visión espacial y tu capacidad de planificación.
 5.  **Probar varias veces:** ciertos niveles requieren varios intentos hasta
     encontrar la configuración de carga más estable.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo jugar
 
 *   **Coger objetos:** haz clic sobre un objeto para levantarlo.
@@ -49,6 +51,7 @@ a prueba tu visión espacial y tu capacidad de planificación.
 *   **Rotar:** algunas versiones permiten rotar los objetos (normalmente con la
     rueda del ratón o teclas específicas) para que encajen mejor.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes
 
 1.  **P: ¿Cuál es el objetivo de cada nivel?**  
@@ -63,3 +66,4 @@ a prueba tu visión espacial y tu capacidad de planificación.
 4.  **P: Cómo puedo mejorar mi habilidad para cargar?**  
     **R:** Practica la planificación espacial, apila siempre de mayor a menor y
     observa ejemplos de cargas exitosas para inspirarte en nuevas estrategias.
+

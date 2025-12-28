@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 
+<!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
 Metal Guns Fury es un run and gun de desplazamiento lateral heredero de los
@@ -25,6 +26,7 @@ rehenes para obtener potenciadores y limpia arenas llenas de soldados, torretas
 munición marcan la diferencia entre una partida controlada y un caos de
 explosiones.
 
+<!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
 1.  Prioridad de objetivos: derriba primero torretas y lanzacohetes; los
@@ -38,6 +40,7 @@ explosiones.
 5.  Patrones de jefes: estudia sus fases y castiga solo cuando abran ventana de
     vulnerabilidad, en lugar de intercambiar golpes.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 - Movimiento: flechas o WASD.  
@@ -46,16 +49,21 @@ explosiones.
 - Granada/habilidad: L o E (según versión).  
 - Cambio de arma: Q.
 
+<!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
 
+<!-- i18n:faq:id=faq:metal-guns-fury:i-get-shredded-in-crossfire-3a6b6639 -->
 - P: Me destrozan cuando hay fuego cruzado.  
   R: Limpia un carril cada vez, usa los bordes de cobertura y evita quedarte
   plantado en mitad de la pantalla.
 
+<!-- i18n:faq:id=faq:metal-guns-fury:ammo-runs-dry-on-bosses-b9e64dfd -->
 - P: Siempre me quedo sin munición contra los jefes.  
   R: Guarda la munición pesada para romper la armadura del jefe y usa ráfagas
   cortas contra los esbirros.
 
+<!-- i18n:faq:id=faq:metal-guns-fury:which-weapon-is-best-8e684d4d -->
 - P: ¿Cuál es el mejor arma?  
   R: La escopeta para grupos cercanos, el rifle para media distancia y los
   cohetes para enemigos pesados o grandes agrupaciones.
+
