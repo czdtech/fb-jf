@@ -218,12 +218,13 @@ function classifyHeading(locale: Locale, text: string): string | null {
     },
     es: {
       faq: ['preguntas frecuentes', 'faq'],
-      controls: ['controles', 'guía de controles', 'control'],
+      controls: ['controles', 'guía de controles', 'guia de controles', 'guía de manejo', 'guia de manejo', 'manejo', 'control'],
       'how-to-play': [
         'cómo jugar',
         'como jugar',
         'cómo se juega',
         'como se juega',
+        /c[oó]mo\s+(crear|hacer)\b/i,
         'modo de juego',
         'guía de juego',
         'guia de juego',
