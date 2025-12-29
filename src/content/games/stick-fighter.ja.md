@@ -1,7 +1,8 @@
 ---
 title: Stick Fighter
 description: Stick Fighterは、スティックマン戦闘ゲームです。技を使って相手を倒しましょう。
-iframeSrc: 'https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221209/4/index.html'
+iframeSrc: >-
+  https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221209/4/index.html
 thumbnail: /new-images/thumbnails/stick-fighter.jpg
 urlstr: stick-fighter
 score: 3.6/5  (1444 votes)
@@ -10,7 +11,7 @@ tags:
   - fighting
   - arcade
 locale: ja
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +19,7 @@ releaseDate: 2025-08-16
 
 Stick Fighterは、スティックマンキャラクターを使ったアーケードスタイルの戦闘ゲームです。さまざまな技やコンボを使って相手を倒しましょう。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
 

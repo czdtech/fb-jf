@@ -10,7 +10,7 @@ tags:
   - endless
   - animal
 locale: ja
-releaseDate: 2025-10-18
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-10-18
 
 Tiger Runは、タイガーを操作して森を駆け抜けるエンドレスランナーゲームです。障害物をジャンプやスライドで避け、できるだけ遠くまで走りましょう。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
  - **走る：** タイガーが自動的に前進します

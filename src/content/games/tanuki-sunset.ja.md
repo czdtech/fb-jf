@@ -10,7 +10,7 @@ tags:
   - arcade
   - retro
 locale: ja
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-08-16
 
 Tanuki Sunsetは、レトロな80年代のビジュアルスタイルを持つスタイリッシュなスケートボードゲームです。たぬきを操作して曲がりくねった道を滑り降り、トリックを実行してポイントを獲得しましょう。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
 

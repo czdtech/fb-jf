@@ -10,7 +10,7 @@ tags:
   - logic
   - sudoku
 locale: ja
-releaseDate: 2025-10-17
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-10-17
 
 Sudoku Plusは、クラシックな数独パズルゲームに追加機能と複数の難易度レベルを加えた拡張版です。論理的思考と問題解決スキルをテストしましょう。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
  - **数字を配置：** 空のマスに1から9の数字を入れます

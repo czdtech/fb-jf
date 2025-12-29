@@ -10,7 +10,7 @@ tags:
   - strategy
   - casual
 locale: ja
-releaseDate: 2025-10-18
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-10-18
 
 Thief Puzzleは、伸びる腕を持つ泥棒を操作して、さまざまなアイテムを盗むパズルゲームです。捕まらずに目標を達成しましょう。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
  - **腕を伸ばす：** 泥棒の腕を伸ばしてアイテムに到達します

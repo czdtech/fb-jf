@@ -10,7 +10,7 @@ tags:
   - multiplayer
   - tanks
 locale: ja
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-08-16
 
 Tank Troubleは、迷路内で戦車を操作し、跳ね返る弾丸で相手を倒すエキサイティングなマルチプレイヤー戦車ゲームです。友達と対戦するか、AIと戦いましょう。
 
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイガイド
 
  - **戦車を操作：** 迷路内で戦車を移動させます

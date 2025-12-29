@@ -10,7 +10,7 @@ tags:
   - casual
   - timing
 locale: ja
-releaseDate: 2025-10-18
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-10-18
 
 Sushi Grabは、回転寿司ベルトから寿司を掴むシンプルだが中毒性のあるゲームです。完璧なタイミングでクリックして寿司を集め、高得点を目指しましょう。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
  - **タイミング：** 寿司が通過するタイミングを見計らいます

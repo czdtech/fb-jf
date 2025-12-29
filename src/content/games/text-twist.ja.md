@@ -1,7 +1,8 @@
 ---
 title: Text Twist
 description: Text Twistは、クラシックな単語パズルゲームです。文字を並べ替えて単語を作成し、時間内に完成させましょう。
-iframeSrc: 'https://games.cdn.famobi.com/html5games/t/text-twist/v010/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=5b597140-77c2-4f7c-9abf-4f149d6dcbac&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=465&original_ref='
+iframeSrc: >-
+  https://games.cdn.famobi.com/html5games/t/text-twist/v010/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=5b597140-77c2-4f7c-9abf-4f149d6dcbac&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=465&original_ref=
 thumbnail: /new-images/thumbnails/text-twist.jpg
 urlstr: text-twist
 score: 4.0/5  (100 votes)
@@ -10,7 +11,7 @@ tags:
   - word
   - classic
 locale: ja
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +19,7 @@ releaseDate: 2025-08-16
 
 Text Twistは、与えられた文字セットから単語を作るクラシックな単語パズルゲームです。語彙力と素早い思考をテストします。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
  - **文字を使う：** 与えられた6つの文字を使います

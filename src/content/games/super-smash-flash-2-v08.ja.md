@@ -1,7 +1,8 @@
 ---
 title: Super Smash Flash 2 v0.8
 description: >-
-  Super Smash Flash 2 v0.8は、Super Smash Bros.にインスパイアされた人気のファン製格闘ゲームです。さまざまなキャラクターで対戦できます。
+  Super Smash Flash 2 v0.8は、Super Smash
+  Bros.にインスパイアされた人気のファン製格闘ゲームです。さまざまなキャラクターで対戦できます。
 iframeSrc: 'https://kdata1.com/games/SSF22/?kbhgames'
 thumbnail: /new-images/thumbnails/super-smash-flash-2-v08.jpg
 urlstr: super-smash-flash-2-v08
@@ -11,7 +12,7 @@ tags:
   - multiplayer
   - action
 locale: ja
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -19,6 +20,7 @@ releaseDate: 2025-08-16
 
 Super Smash Flash 2 v0.8は、任天堂のSuper Smash Bros.シリーズにインスパイアされたファン製格闘ゲームです。様々なゲームやアニメからのキャラクターで戦いましょう。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
 

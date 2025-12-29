@@ -10,7 +10,7 @@ tags:
   - fighting
   - stickman
 locale: ja
-releaseDate: 2025-10-18
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-10-18
 
 Stickman Fighter Megaは、強化されたスティックマン戦闘ゲームです。より多くの技、武器、そして強力な相手と戦う壮大な戦闘体験を提供します。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
  - **強力な技をマスター：** さまざまな強力な技とコンボを学びます

@@ -10,7 +10,7 @@ tags:
   - logic
   - drawing
 locale: ja
-releaseDate: 2025-10-18
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-10-18
 
 Thrulineは、すべての点を一筆書きの線でつなぐ論理パズルゲームです。シンプルなルールですが、段階的に難しくなる挑戦的なパズルです。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
  - **線を描く：** 点から点へ線を描きます

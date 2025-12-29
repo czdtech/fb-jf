@@ -10,7 +10,7 @@ tags:
   - basketball
   - arcade
 locale: ja
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-08-16
 
 Tap Tap Shotsは、シンプルだが中毒性のあるバスケットボールシューティングゲームです。タイミングよくタップしてボールを投げ、できるだけ多くのバスケットを決めましょう。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
  - **タップ：** ボールをタップして投げます

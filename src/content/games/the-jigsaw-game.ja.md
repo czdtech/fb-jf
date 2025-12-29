@@ -10,7 +10,7 @@ tags:
   - jigsaw
   - relaxing
 locale: ja
-releaseDate: 2025-10-18
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-10-18
 
 The Jigsaw Gameは、伝統的なジグソーパズルをデジタル化したリラックスできるゲームです。様々な難易度とピース数で、美しい画像を完成させましょう。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
  - **ピースを選ぶ：** ジグソーピースを選択します

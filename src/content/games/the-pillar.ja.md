@@ -10,7 +10,7 @@ tags:
   - adventure
   - mystery
 locale: ja
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-08-16
 
 The Pillarは、美しいビジュアルと挑戦的なパズルを特徴とするアドベンチャーゲームです。神秘的な柱の周りの謎を解き明かしましょう。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
 

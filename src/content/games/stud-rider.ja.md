@@ -10,7 +10,7 @@ tags:
   - motorcycle
   - stunt
 locale: ja
-releaseDate: 2025-10-18
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-10-18
 
 Stud Riderは、エキサイティングなバイクスタントレーシングゲームです。障害物を乗り越え、スタントを実行し、レースに勝利しましょう。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
  - **バイクを運転：** バイクをコントロールして前進します

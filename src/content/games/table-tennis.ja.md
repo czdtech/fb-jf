@@ -10,7 +10,7 @@ tags:
   - table tennis
   - arcade
 locale: ja
-releaseDate: 2025-10-17
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-10-17
 
 Table Tennisは、クラシックな卓球（ピンポン）をデジタル化したアーケードゲームです。パドルを動かしてボールを打ち返し、相手を倒してポイントを獲得しましょう。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
  - **パドルを動かす：** パドルを上下に動かします

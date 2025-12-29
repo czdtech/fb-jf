@@ -10,7 +10,7 @@ tags:
   - tennis
   - arcade
 locale: ja
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-08-16
 
 Tennisは、クラシックなテニスをデジタル化したアーケードスポーツゲームです。ラケットを操作してボールを打ち返し、相手を倒してポイントを獲得しましょう。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
  - **移動：** コート上でプレイヤーを動かします

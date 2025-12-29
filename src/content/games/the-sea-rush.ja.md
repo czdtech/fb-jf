@@ -10,7 +10,7 @@ tags:
   - endless
   - ocean
 locale: ja
-releaseDate: 2025-10-18
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-10-18
 
 The Sea Rushは、美しい海をテーマにしたエンドレスランナーゲームです。波を乗り越え、海の障害物を避けて、できるだけ遠くまで進みましょう。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
 

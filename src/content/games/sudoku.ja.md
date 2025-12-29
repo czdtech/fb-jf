@@ -10,7 +10,7 @@ tags:
   - logic
   - classic
 locale: ja
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-08-16
 
 Sudokuは、世界中で愛されているクラシックな論理パズルゲームです。9×9のグリッドを1から9の数字で埋め、各行、列、3×3ブロックに同じ数字が重複しないようにします。
 
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイガイド
 
  - **空のマスを埋める：** グリッドの空のマスに数字を入れます

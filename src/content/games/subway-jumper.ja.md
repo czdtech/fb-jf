@@ -10,7 +10,7 @@ tags:
   - endless
   - arcade
 locale: ja
-releaseDate: 2025-10-18
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-10-18
 
 Subway Jumperは、地下鉄の線路を走り抜けるスリリングなエンドレスランナーゲームです。障害物を避け、コインを集め、できるだけ長く走り続けましょう。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
  - **ジャンプ：** 障害物を飛び越えます

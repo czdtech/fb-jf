@@ -10,7 +10,7 @@ tags:
   - dungeon
   - adventure
 locale: ja
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-08-16
 
 The Binding of Isaacは、ランダムに生成されるダンジョンを探索するローグライクアクションゲームです。アイテムを集め、敵と戦い、深い地下室を生き残りましょう。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
 

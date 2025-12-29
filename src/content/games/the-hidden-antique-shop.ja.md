@@ -10,7 +10,7 @@ tags:
   - hidden objects
   - casual
 locale: ja
-releaseDate: 2025-10-18
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-10-18
 
 The Hidden Antique Shopは、美しく詳細なアンティークショップを舞台にした隠しオブジェクトパズルゲームです。リストされたアイテムを見つけて謎を解き明かしましょう。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
  - **オブジェクトを探す：** リストのアイテムを見つけます

@@ -10,7 +10,7 @@ tags:
   - music
   - brasil
 locale: ja
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Super Sprunki Brasilの紹介
@@ -28,6 +28,7 @@ Super Sprunki Brasilは、ブラジルの音楽と文化にインスパイアさ
  - **カラフルなビジュアル：** 活気のあるブラジルテーマのグラフィックス
  - **文化的融合：** Sprunkiの創造性とブラジルの音楽的遺産
 
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ
 
  - ブラジルテーマのキャラクターを選択

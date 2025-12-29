@@ -1,7 +1,6 @@
 ---
 title: Stickman Hook
-description: >-
-  Stickman Hookは、スティックマンがフックでスイングして進むアーケードゲームです。タイミングと勢いを使ってゴールを目指します。
+description: Stickman Hookは、スティックマンがフックでスイングして進むアーケードゲームです。タイミングと勢いを使ってゴールを目指します。
 iframeSrc: 'https://ubg98.github.io/StickmanHook/'
 thumbnail: /new-images/thumbnails/stickman-hook.jpg
 urlstr: stickman-hook
@@ -11,7 +10,7 @@ tags:
   - physics
   - skill
 locale: ja
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -19,6 +18,7 @@ releaseDate: 2025-08-16
 
 Stickman Hookは、スティックマンキャラクターがフックを使ってスイングし、障害物を避けてゴールに到達するシンプルだが中毒性のあるゲームです。
 
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイガイド
 
  - **タップしてフック：** 画面をタップしてフックを投げます

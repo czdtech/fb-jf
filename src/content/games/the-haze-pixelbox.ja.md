@@ -1,19 +1,23 @@
 ---
-title: "The Haze Pixelbox"
-description: "The Haze Pixelboxは、ピクセルアートスタイルのアドベンチャーゲームです。霧に覆われた世界を探索しましょう。"
-iframeSrc: "https://turbowarp.org/1020955547/embed"
+title: The Haze Pixelbox
+description: The Haze Pixelboxは、ピクセルアートスタイルのアドベンチャーゲームです。霧に覆われた世界を探索しましょう。
+iframeSrc: 'https://turbowarp.org/1020955547/embed'
 thumbnail: /new-images/thumbnails/the-haze-pixelbox.png
-urlstr: "the-haze-pixelbox"
-score: "3.9/5  (132 votes)"
-tags: ["adventure", "pixel", "exploration"]
+urlstr: the-haze-pixelbox
+score: 3.9/5  (132 votes)
+tags:
+  - adventure
+  - pixel
+  - exploration
 locale: ja
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### ゲーム紹介
 
 The Haze Pixelboxは、美しいピクセルアートスタイルのアドベンチャーゲームです。霧に覆われた神秘的な世界を探索し、謎を解き明かしましょう。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
  - **探索：** 霧に覆われた世界を探索します

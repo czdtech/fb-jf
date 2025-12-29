@@ -10,7 +10,7 @@ tags:
   - classic
   - action
 locale: ja
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-08-16
 
 Super Smash Flashは、Super Smash Bros.にインスパイアされたオリジナルのFlashベース格闘ゲームです。様々なゲームフランチャイズからのキャラクターで戦いましょう。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
 

@@ -10,7 +10,7 @@ tags:
   - bowling
   - arcade
 locale: ja
-releaseDate: 2025-10-18
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-10-18
 
 Super Bowling Maniaは、リアルなボウリング体験を提供するアーケードスポーツゲームです。ボールの方向と力を調整してストライクを狙い、ハイスコアを目指しましょう。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
  - **狙いを定める：** ボールの方向を調整します

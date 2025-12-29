@@ -10,7 +10,7 @@ tags:
   - breakout
   - classic
 locale: ja
-releaseDate: 2025-10-18
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-10-18
 
 Super Brick Builderは、クラシックなブロック破壊ゲームの現代版です。パドルを動かしてボールを跳ね返し、画面上のすべてのブロックを破壊してレベルをクリアしましょう。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
  - **パドルを動かす：** パドルを左右に動かします

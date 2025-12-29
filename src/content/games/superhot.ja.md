@@ -10,7 +10,7 @@ tags:
   - strategy
   - innovative
 locale: ja
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-08-16
 
 SUPERHOTは、「時間があなたが動くときだけ動く」という革新的なメカニクスを持つユニークなFPSゲームです。戦略的に動いて計画を立て、敵を倒しましょう。
 
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイガイド
 
  - **時間メカニクス：** 静止すると時間がほぼ停止します

@@ -10,7 +10,7 @@ tags:
   - strategy
   - adventure
 locale: ja
-releaseDate: 2025-10-18
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-10-18
 
 Survivor Legendsは、過酷な環境で生き残るサバイバル戦略ゲームです。資源を集め、避難所を建設し、危険から身を守りましょう。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
  - **資源収集：** 食料、水、材料を集めます

@@ -10,7 +10,7 @@ tags:
   - classic
   - board
 locale: ja
-releaseDate: 2025-10-18
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-10-18
 
 Tic Tac Toe Maniaは、クラシックな三目並べゲームに新しいモードと挑戦を加えた拡張版です。AIまたは友達と対戦しましょう。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
  - **交互に配置：** X または O を配置します

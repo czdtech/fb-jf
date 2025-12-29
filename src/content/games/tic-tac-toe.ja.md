@@ -10,7 +10,7 @@ tags:
   - classic
   - board
 locale: ja
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-08-16
 
 Tic Tac Toeは、シンプルだが戦略的なクラシックボードゲームです。2人のプレイヤーが交互にX とOを配置し、先に3つ揃えた方が勝ちです。
 
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイガイド
 
  - **マークを配置：** 空いているマスにマークを置きます

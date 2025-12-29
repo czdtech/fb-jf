@@ -10,7 +10,7 @@ tags:
   - match-3
   - casual
 locale: ja
-releaseDate: 2025-10-18
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-10-18
 
 Sugar Heroesは、カラフルで楽しいマッチ3パズルゲームです。同じ色のキャンディーを3つ以上揃えて消し、目標を達成してレベルをクリアしましょう。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
  - **キャンディーをスワップ：** 隣接するキャンディーを入れ替えます

@@ -10,7 +10,7 @@ tags:
   - multiplayer
   - action
 locale: ja
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-08-16
 
 Super Smash Flash 2 v0.9は、人気のファン製格闘ゲームの最新版です。新しいキャラクター、ステージ、改善されたメカニクスで、さらに楽しい戦闘体験を提供します。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
 

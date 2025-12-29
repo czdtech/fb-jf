@@ -10,7 +10,7 @@ tags:
   - action
   - war
 locale: ja
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-08-16
 
 Stick Warは、戦略とアクションを完璧にブレンドしたスティックマンゲームです。軍隊を構築し、リソースを管理し、敵を倒して勝利しましょう。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
 

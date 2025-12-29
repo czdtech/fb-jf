@@ -10,7 +10,7 @@ tags:
   - logic
   - classic
 locale: ja
-releaseDate: 2025-10-18
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-10-18
 
 Tangram Puzzleは、7つの幾何学的ピース（タングラム）を使って特定の形やシルエットを作る古典的な中国のパズルゲームです。論理的思考と空間認識力をテストします。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
  - **ピースを動かす：** 7つのタングラムピースを移動させます

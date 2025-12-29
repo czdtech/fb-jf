@@ -10,7 +10,7 @@ tags:
   - meta
   - humor
 locale: ja
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-08-16
 
 There Is No Gameは、ユニークなメタゲームパズルです。タイトルが示すように「ゲームはない」と言われますが、実際にはゲームをプレイしないよう説得するナレーターとの面白いやり取りがあります。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
 
