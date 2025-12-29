@@ -16,6 +16,7 @@ releaseDate: 2025-12-04
 ---
 
 
+<!-- i18n:section:introduction -->
 ### Einführung in Incredibox
 
 Mit Incredibox kannst du im Handumdrehen eigene Tracks mit einer Gruppe
@@ -64,12 +65,13 @@ Themen mit:
 
 ---
 
+<!-- i18n:section:tips -->
 ### Tipps für deinen Mix
 
 Mit ein paar Kniffen holst du mehr aus deinen Tracks heraus:
 
 - **Mut zur Kombination:** Teste wilde Mischungen – viele der besten Grooves
-  entstehen zufällig.
+  entstehen zufällig (und manche Kombos schalten Bonus-Animationen frei).
 - **Auf Zusammenspiel achten:** Hör darauf, wie sich Beats, Melodien und Vocals
   ergänzen, statt sich zu überlagern.
 - **Einfach starten:** Beginne mit einem simplen Loop-Setup und erweitere es
@@ -83,4 +85,3 @@ Mit ein paar Kniffen holst du mehr aus deinen Tracks heraus:
 Mit der leicht verständlichen Bedienung, dem starken Artstyle und den vielen
 Klangvarianten ist Incredibox ein idealer Einstieg ins Musizieren – egal, ob du
 Beatbox-Fan oder einfach nur neugierig bist.
-

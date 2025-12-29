@@ -18,11 +18,12 @@ releaseDate: 2025-12-04
 
 
 
+<!-- i18n:section:introduction -->
 ### Introducción a Incredibox
 
 ¿Te gustaría crear tu propia canción pegadiza con un grupo de beatboxers
 carismáticos? Incredibox lo hace posible. Es a la vez **juego** y **herramienta
- de creación musical**, y está pensado para que cualquiera pueda divertirse con la
+de creación musical**, y está pensado para que cualquiera pueda divertirse con la
 música. Vamos a entrar en el mundo de Incredibox, repasar sus versiones,
  mecánicas básicas y algunos trucos para que puedas empezar a montar tu propio
 festival musical con unos pocos clics.
@@ -71,18 +72,19 @@ sonidos y temas propios. Estas son algunas de las más conocidas:
 
 ---
 
+<!-- i18n:section:tips -->
 ### Consejos para jugar a Incredibox
 
 - **Experimenta sin miedo:** prueba combinaciones raras; a menudo aparecen
-  sorpresas y bonus.
+  sorpresas, animaciones y extras.
 - **Escucha cómo encajan los sonidos:** fíjate en cómo se mezclan ritmos,
-  melodías y voces para crear groove.
+  melodías y voces para crear ritmo.
 - **Empieza sencillo:** si eres nuevo, arranca con loops básicos y ve subiendo la
   complejidad poco a poco.
 - **Usa la repetición:** repetir ciertos patrones ayuda a crear melodías y
   ritmos que se quedan en la cabeza.
 - **Comparte tu trabajo:** cuando tengas una mezcla que te guste, compártela con
-  amigos o en redes.
+  amigos o en redes (según las opciones del host).
 
 ### Conclusión
 
@@ -90,4 +92,3 @@ Con su jugabilidad intuitiva, gráficos vistosos y posibilidades creativas casi
 infinitas, Incredibox es una fuente de diversión para amantes de la música y
 beatboxers en potencia. ¿A qué esperas? Libera a tu genio musical interior y
 empieza a mezclar.
-
