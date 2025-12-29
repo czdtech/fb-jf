@@ -1,0 +1,50 @@
+name: I18n Hardpoints Gate
+
+on:
+  pull_request: {}
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+concurrency:
+  group: i18n-hardpoints-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  i18n-hardpoints:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: npm
+
+      - name: Install
+        run: npm ci
+
+      - name: Run i18n hardpoints tests
+        run: npm run test:i18n-hardpoints
+
+      - name: Validate i18n hardpoints (report-only on PR)
+        if: github.event_name == 'pull_request'
+        run: npm run validate:i18n-hardpoints -- --report-only
+
+      - name: Validate i18n hardpoints (baseline/strict on main)
+        if: github.ref == 'refs/heads/main'
+        run: npm run validate:i18n-hardpoints
+
+      - name: Upload hardpoints diff report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: i18n-hardpoints-diff-report
+          path: i18n-hardpoints-diff-report.json
+          if-no-files-found: ignore
+
