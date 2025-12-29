@@ -10,9 +10,7 @@ const locale = getLocaleFromLangAttr(lang);
 const privacyHref = getLocalizedPath('/privacy/', locale);
 ---
 
-<script is:inline type="module">
-  const PRIVACY_HREF = {JSON.stringify(privacyHref)};
-
+<script is:inline type="module" define:vars={{ PRIVACY_HREF: privacyHref }}>
   function openConsentSettings() {
     // 优先走 IAB TCF v2（Funding Choices / 其他 CMP 通常会提供 __tcfapi）
     if (typeof window.__tcfapi === 'function') {
