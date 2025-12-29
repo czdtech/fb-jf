@@ -10,7 +10,7 @@ tags:
   - word
   - magic
 locale: ja
-releaseDate: 2025-10-17
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-10-17
 
 Words of Magicは、単語パズルとRPG要素を組み合わせたユニークなゲームです。単語を作って魔法の呪文を唱え、敵と戦いましょう。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
  - **単語を作る：** 文字から単語を形成します

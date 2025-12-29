@@ -10,7 +10,7 @@ tags:
   - match-3
   - animals
 locale: ja
-releaseDate: 2025-10-18
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-10-18
 
 Zoo Boomは、可愛い動物をテーマにしたマッチ3パズルゲームです。同じ動物を3つ以上揃えて消し、動物園を救いましょう。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
  - **動物を揃える：** 同じ動物を3つ以上マッチさせます

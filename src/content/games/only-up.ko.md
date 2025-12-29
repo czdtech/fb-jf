@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: only-up
-title: "Only Up 온리 업"
+title: Only Up 온리 업
 description: >-
-  Only Up는 각종 떠다니는 오브젝트와 기묘한 구조물로 이루어진 혼란스러운 3D 세계를
-  끊임없이 올라가야 하는 하드코어 플랫폼 게임으로, 한 번 떨어지면 큰 구간을 다시
-  올라가야 하는 긴장감을 제공합니다.
+  Only Up는 각종 떠다니는 오브젝트와 기묘한 구조물로 이루어진 혼란스러운 3D 세계를 끊임없이 올라가야 하는 하드코어 플랫폼 게임으로,
+  한 번 떨어지면 큰 구간을 다시 올라가야 하는 긴장감을 제공합니다.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp44/chenling/20230826/01/index.htm
 thumbnail: /new-images/thumbnails/only-up.jpg
@@ -26,6 +25,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 세이브 포인트가 없기 때문에 한 번 실수로 떨어지면 큰 높이에서 한순간에 추락해, 사실상
 처음부터 다시 올라가야 할 수도 있습니다. 정밀한 조작과 멘탈 관리가 무엇보다 중요합니다.
 
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략
 
 1. **세밀한 관찰:** 점프하기 전에 다음 착지 지점의 위치·거리·표면 형태를 충분히

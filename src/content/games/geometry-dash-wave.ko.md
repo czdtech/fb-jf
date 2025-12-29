@@ -1,10 +1,9 @@
 ---
 locale: ko
 urlstr: geometry-dash-wave
-title: "Geometry Dash Wave 웨이브 모드"
+title: Geometry Dash Wave 웨이브 모드
 description: >-
-  삼각형 아이콘으로 대각선 파동 궤적을 그리며 장애물을 피해 나가는
-  리듬 플랫포머입니다. 한 번의 클릭으로 위·아래를 오가는 웨이브 조작에
+  삼각형 아이콘으로 대각선 파동 궤적을 그리며 장애물을 피해 나가는 리듬 플랫포머입니다. 한 번의 클릭으로 위·아래를 오가는 웨이브 조작에
   익숙해져, 음악에 맞춰 까다로운 코스를 완주해 보세요.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp45/chenling/20231205/04/index.html
@@ -26,6 +25,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 조작해 끊임없이 앞으로 나아가며, 대각선 파동 움직임으로 가득한 함정 구간을
 돌파해야 합니다.
 
+<!-- i18n:section:tips -->
 ### 게임 플레이 가이드
 
 - **웨이브 메카닉**: 클릭/탭을 누르고 있는 동안 아이콘이 대각선 위쪽으로

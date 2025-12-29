@@ -10,7 +10,7 @@ tags:
   - word
   - strategy
 locale: ja
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-08-16
 
 Word Wipeは、隣接する文字をつないで単語を作り、グリッドをクリアする戦略的な単語パズルゲームです。できるだけ長い単語を作って高得点を目指しましょう。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
  - **文字をつなぐ：** 隣接する文字をつないで単語を作ります

@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: paper-io
-title: "Paper io 페이퍼 아이오"
+title: Paper io 페이퍼 아이오
 description: >-
-  온라인에서 다른 플레이어와 영토를 두고 겨루는 영역 점령 게임입니다.
-  색깔 블록을 움직여 선을 그려 영역을 넓히고, 상대의 선을 끊어
-  제거해 최후까지 살아남으세요.
+  온라인에서 다른 플레이어와 영토를 두고 겨루는 영역 점령 게임입니다. 색깔 블록을 움직여 선을 그려 영역을 넓히고, 상대의 선을 끊어 제거해
+  최후까지 살아남으세요.
 iframeSrc: 'https://mathgames66.github.io/games/html5/paperio2/'
 thumbnail: /new-images/thumbnails/paper-io.jpg
 tags:
@@ -30,6 +29,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 동시에 방어에도 신경 써야 합니다. 짧은 시간 안에 빠르게 상황이
 바뀌기 때문에 전략과 순발력을 모두 요구하는 게임입니다.
 
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략
 
 1. **초반에는 안전하게 확장하기**  

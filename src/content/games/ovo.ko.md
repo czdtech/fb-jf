@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: ovo
-title: "OvO Game 오보 게임"
+title: OvO Game 오보 게임
 description: >-
-  하드코어 2D 플랫폼 게임 'OvO Game' 가이드입니다. 점프, 슬라이드,
-  벽 점프를 활용해 복잡한 스테이지를 가능한 한 빠르게 돌파해 보세요.
+  하드코어 2D 플랫폼 게임 'OvO Game' 가이드입니다. 점프, 슬라이드, 벽 점프를 활용해 복잡한 스테이지를 가능한 한 빠르게 돌파해
+  보세요.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20230129/1/index.html
 thumbnail: /new-images/thumbnails/ovo.jpg
@@ -30,6 +30,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 있습니다. 난이도가 높지만, 한 번 흐름을 익히면 "스피드런" 느낌의
 시원한 플레이를 즐길 수 있습니다.
 
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략
 
 1. **기본 동작부터 완벽하게 익히기**  

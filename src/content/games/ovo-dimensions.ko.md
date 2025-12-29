@@ -1,10 +1,9 @@
 ---
 locale: ko
 urlstr: ovo-dimensions
-title: "OvO Dimensions 오보 디멘션즈"
+title: OvO Dimensions 오보 디멘션즈
 description: >-
-  하드코어 2D 플랫폼 시리즈 OvO의 확장판 'OvO Dimensions'
-  가이드입니다. 정교한 점프·벽 미끄러지기·관성 컨트롤을 익혀
+  하드코어 2D 플랫폼 시리즈 OvO의 확장판 'OvO Dimensions' 가이드입니다. 정교한 점프·벽 미끄러지기·관성 컨트롤을 익혀
   복잡한 스테이지를 빠르게 돌파해 보세요.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221219/8/index.html
@@ -30,6 +29,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 가능한 한 빠른 클리어 타임을 노리는 스피드런 플레이가
 중심이 됩니다.
 
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략
 
 1. **새 기믹부터 익히기**  

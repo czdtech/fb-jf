@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: pacman-30th-anniversary
-title: "Pacman 30th Anniversary 팩맨 30주년 에디션"
+title: Pacman 30th Anniversary 팩맨 30주년 에디션
 description: >-
-  Pacman 30th Anniversary는 3십 년 동안 사랑받아 온 오리지널 팩맨을 기념하는 특별판으로,
-  미로 속을 달리며 점과 파워업을 먹고 유령을 피해 다니는 고전 아케이드 경험을 다시
-  즐길 수 있는 게임입니다.
+  Pacman 30th Anniversary는 3십 년 동안 사랑받아 온 오리지널 팩맨을 기념하는 특별판으로, 미로 속을 달리며 점과 파워업을
+  먹고 유령을 피해 다니는 고전 아케이드 경험을 다시 즐길 수 있는 게임입니다.
 iframeSrc: 'https://pacman-30thanniversary.com/game/doodle-pacman/pacman.html'
 thumbnail: /new-images/thumbnails/pacman-30th-anniversary.jpg
 tags:
@@ -26,6 +25,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 살리면서도, 기념 요소와 향수 어린 연출을 더해 신·구 플레이어 모두에게 친숙한 재미를
 제공합니다.
 
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략
 
 1. **미로 구조 익히기:** 각 레벨마다 미로 구조가 조금씩 달라질 수 있으니, 자주 지나는

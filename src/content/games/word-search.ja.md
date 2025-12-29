@@ -10,7 +10,7 @@ tags:
   - word
   - classic
 locale: ja
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-08-16
 
 Word Searchは、時代を超えて愛されるクラシックな単語検索パズルゲームです。文字のグリッドから隠された単語を見つけて、語彙力を楽しみましょう。
 
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイガイド
 
  - **グリッドをスキャン：** 文字のグリッドを探します

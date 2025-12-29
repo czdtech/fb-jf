@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: night-watchman
-title: "Night Watchman 나이트 워치맨"
+title: Night Watchman 나이트 워치맨
 description: >-
-  Night Watchman은 어두운 폐건물에서 야간 경비원으로 근무하며, 감시 카메라와 제한된
-  전력을 관리해 정체불명의 위협을 새벽까지 견뎌야 하는 호러 생존 게임입니다.
+  Night Watchman은 어두운 폐건물에서 야간 경비원으로 근무하며, 감시 카메라와 제한된 전력을 관리해 정체불명의 위협을 새벽까지
+  견뎌야 하는 호러 생존 게임입니다.
 iframeSrc: 'https://g2.igroutka.ru/lib/crazy/games/night-watchman/'
 thumbnail: /new-images/thumbnails/night-watchman.jpg
 tags:
@@ -24,6 +24,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 관리하고, 여러 밤을 버텨 새벽을 맞이하는 것이 목표입니다. 분위기 연출과 자원 관리가
 중심이 되는, 긴장감 넘치는 호러 경험을 제공합니다.
 
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략
 
 1. **카메라 모니터링:** 감시 카메라 화면을 자주 전환해 이상 움직임과 위협의 위치를

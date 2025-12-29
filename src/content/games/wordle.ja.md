@@ -10,7 +10,7 @@ tags:
   - word
   - logic
 locale: ja
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-08-16
 
 Wordleは、世界中で大人気の単語推測パズルゲームです。6回の試行で正しい5文字の単語を推測し、色のヒントを使って答えを見つけましょう。
 
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイガイド
 
  - **単語を推測：** 5文字の単語を入力します

@@ -10,7 +10,7 @@ tags:
   - word
   - challenge
 locale: ja
-releaseDate: 2025-10-18
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-10-18
 
 Words Challengeは、様々な単語パズルとチャレンジを提供するゲームです。語彙力と問題解決能力をテストしましょう。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
  - **チャレンジを選ぶ：** 様々な単語パズルから選択します

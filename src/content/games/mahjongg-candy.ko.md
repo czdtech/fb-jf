@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: mahjongg-candy
-title: "Mahjongg Candy 마작 캔디"
+title: Mahjongg Candy 마작 캔디
 description: >-
-  Mahjongg Candy는 달콤한 사탕 타일을 짝지어 보드를 비우는 타일 매칭 퍼즐로, 색감
-  가득한 마작 솔리테어 변주를 즐기며 두뇌를 자극할 수 있는 게임입니다.
+  Mahjongg Candy는 달콤한 사탕 타일을 짝지어 보드를 비우는 타일 매칭 퍼즐로, 색감 가득한 마작 솔리테어 변주를 즐기며 두뇌를
+  자극할 수 있는 게임입니다.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-candy-mahjongg/'
 thumbnail: /new-images/thumbnails/mahjongg-candy.jpg
 tags:
@@ -24,6 +24,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 없애는 것입니다. 선명한 색감과 패턴 덕분에 관찰력과 패턴 인식, 간단한 전략을 한 번에
 시험해 볼 수 있습니다.
 
+<!-- i18n:section:tips -->
 ### 플레이 가이드
 
 - **쌍 맞추기:** 동일한 사탕 타일 두 장을 클릭 또는 탭하면 보드에서 제거됩니다.

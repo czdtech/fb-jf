@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: moto-x3m
-title: "Moto X3M 모토 X3M"
+title: Moto X3M 모토 X3M
 description: >-
-  Moto X3M은 점프와 공중 묘기를 섞어 험난한 코스를 돌파하는 오토바이 런앤런 레이싱
-  게임으로, 장애물과 폭발 트랩을 피해 최대한 빠르게 골인을 노려야 합니다.
+  Moto X3M은 점프와 공중 묘기를 섞어 험난한 코스를 돌파하는 오토바이 런앤런 레이싱 게임으로, 장애물과 폭발 트랩을 피해 최대한 빠르게
+  골인을 노려야 합니다.
 iframeSrc: 'https://webglmath.github.io/moto-x3m/'
 thumbnail: /new-images/thumbnails/moto-x3m.jpg
 tags:
@@ -23,6 +23,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 레이싱 게임입니다. 플레이어는 각종 장애물, 램프, 폭발 트랩이 가득한 트랙을 질주하며,
 과감한 공중 회전을 성공시키는 동시에 최대한 빠른 기록으로 결승선을 통과해야 합니다.
 
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략
 
 1. **균형 잡기:** 점프 후 착지할 때 바이크의 앞뒤 균형을 잘 잡지 못하면 쉽게 전복되어

@@ -10,7 +10,7 @@ tags:
   - word
   - guessing
 locale: ja
-releaseDate: 2025-10-18
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-10-18
 
 Wordlerは、人気のWordleにインスパイアされた単語推測ゲームです。色のヒントを使って制限された試行回数で単語を推測しましょう。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
  - **推測する：** 単語を入力して推測します

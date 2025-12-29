@@ -10,7 +10,7 @@ tags:
   - battle royale
   - pirate
 locale: ja
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-08-16
 
 Yohoho.ioは、海賊をテーマにしたバトルロイヤルIOゲームです。島で他の海賊と戦い、コインを集めて成長し、最後の海賊として生き残りましょう。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
  - **海賊を操作：** マウスで移動と攻撃をします

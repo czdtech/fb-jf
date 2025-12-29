@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: pixel-shooter
-title: "Pixel Shooter 픽셀 슈터"
+title: Pixel Shooter 픽셀 슈터
 description: >-
-  레트로 픽셀 그래픽으로 즐기는 슈팅 액션 게임입니다. 몰려오는
-  적들을 쏘아 쓰러뜨리고, 파워업과 무기 업그레이드를 모아
-  스테이지를 돌파해 보세요.
+  레트로 픽셀 그래픽으로 즐기는 슈팅 액션 게임입니다. 몰려오는 적들을 쏘아 쓰러뜨리고, 파워업과 무기 업그레이드를 모아 스테이지를 돌파해
+  보세요.
 iframeSrc: 'https://a.onlineigry.net/games3/igra-piksel-shuter/index.htm'
 thumbnail: /new-images/thumbnails/pixel-shooter.jpg
 tags:
@@ -29,6 +28,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 피하는 컨트롤, 성장 요소가 어우러져 아케이드 감성을 좋아하는
 플레이어에게 특히 잘 맞는 게임입니다.
 
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략
 
 1. **이동과 공격을 동시에 관리하기**  

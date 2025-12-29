@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: pokemon-emerald
-title: "Pokemon Emerald 포켓몬 에메랄드"
+title: Pokemon Emerald 포켓몬 에메랄드
 description: >-
-  호연 지방을 무대로 모험을 떠나는 포켓몬 RPG입니다. 포켓몬을
-  잡고 키우며 체육관 관장을 상대하고, 마그마단·아쿠아단의 계획을
-  막아 챔피언에 도전해 보세요.
+  호연 지방을 무대로 모험을 떠나는 포켓몬 RPG입니다. 포켓몬을 잡고 키우며 체육관 관장을 상대하고, 마그마단·아쿠아단의 계획을 막아
+  챔피언에 도전해 보세요.
 iframeSrc: 'https://picklekid31.github.io/GBA-unblocked-games/launcher.html#pokemonemerald'
 thumbnail: /new-images/thumbnails/pokemon-emerald.jpg
 tags:
@@ -29,6 +28,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 계획에 휘말리게 되며, 전설의 포켓몬을 둘러싼 갈등을 막는 것도
 중요한 스토리 축입니다.
 
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략
 
 1. **포켓몬 포획에 익숙해지기**  

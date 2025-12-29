@@ -10,7 +10,7 @@ tags:
   - zombie
   - casual
 locale: ja
-releaseDate: 2025-10-18
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-10-18
 
 Zombie Ragdollは、物理エンジンを使った面白いゾンビゲームです。ゾンビをラグドール物理で吹き飛ばし、ユーモラスな動きを楽しみましょう。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
  - **ゾンビを撃つ：** ゾンビを狙って撃ちます

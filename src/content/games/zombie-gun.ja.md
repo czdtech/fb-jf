@@ -10,7 +10,7 @@ tags:
   - zombie
   - survival
 locale: ja
-releaseDate: 2025-10-18
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-10-18
 
 Zombie Gunは、ゾンビの襲撃から生き残るシューティングゲームです。様々な武器を使ってゾンビの群れを撃退し、できるだけ長く生き残りましょう。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
  - **ゾンビを撃つ：** マウスで狙って射撃します

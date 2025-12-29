@@ -10,7 +10,7 @@ tags:
   - zombie
   - action
 locale: ja
-releaseDate: 2025-10-18
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-10-18
 
 Zombie Hunter Survivalは、ゾンビが蔓延する世界で生き残るサバイバルゲームです。資源を集め、武器を強化し、ゾンビの群れと戦いましょう。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
  - **資源収集：** 弾薬や補給品を集めます

@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: paper-minecraft
-title: "Paper Minecraft 페이퍼 마인크래프트"
+title: Paper Minecraft 페이퍼 마인크래프트
 description: >-
-  인기 샌드박스 게임을 2D 횡스크롤 방식으로 재해석한 게임입니다.
-  자원을 채집하고 아이템을 제작해 건물을 짓고, 몬스터를 피해
-  끝까지 생존해 보세요.
+  인기 샌드박스 게임을 2D 횡스크롤 방식으로 재해석한 게임입니다. 자원을 채집하고 아이템을 제작해 건물을 짓고, 몬스터를 피해 끝까지 생존해
+  보세요.
 iframeSrc: 'https://scratch.mit.edu/projects/10128407/embed'
 thumbnail: /new-images/thumbnails/paper-minecraft.jpg
 tags:
@@ -29,6 +28,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 살리면서, 2D 시점 덕분에 구조를 한눈에 파악하고 보다 직관적인
 플랫폼 액션을 즐길 수 있다는 점이 특징입니다.
 
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략
 
 1. **기초 자원부터 안정적으로 확보하기**  

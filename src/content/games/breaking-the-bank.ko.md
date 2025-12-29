@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: breaking-the-bank
-title: 'Breaking the Bank 브레이킹 더 뱅크'
+title: Breaking the Bank 브레이킹 더 뱅크
 description: >-
-  Henry Stickmin 시리즈의 첫 작품 Breaking the Bank에서 무모한 은행 털이에
-  도전해 보세요. 여섯 가지 침입 방법 중 하나를 고르고, 웃픈 실패 엔딩들을
-  감상하다 단 하나뿐인 성공 루트를 찾아보는 선택형 코미디 게임입니다.
+  Henry Stickmin 시리즈의 첫 작품 Breaking the Bank에서 무모한 은행 털이에 도전해 보세요. 여섯 가지 침입 방법 중
+  하나를 고르고, 웃픈 실패 엔딩들을 감상하다 단 하나뿐인 성공 루트를 찾아보는 선택형 코미디 게임입니다.
 iframeSrc: 'https://rebemanae.github.io/breaking-the-bank/'
 thumbnail: /new-images/thumbnails/breaking-the-bank.jpg
 tags:
@@ -28,6 +27,7 @@ Breaking the Bank는 짧은 러닝타임의 인터랙티브 애니메이션 게�
 여섯 가지 방법이 제시되고, 플레이어는 그중 하나를 골라 어떤 사달이 나는지
 지켜보게 됩니다. 단, 여섯 가지 중 단 한 가지 선택만이 진짜 성공 엔딩으로 이어집니다.
 
+<!-- i18n:section:tips -->
 ### 플레이 흐름
 
 Breaking the Bank의 진행은 철저히 **선택과 시행착오**에 기반합니다. 게임 전체에

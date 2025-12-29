@@ -10,7 +10,7 @@ tags:
   - word
   - search
 locale: ja
-releaseDate: 2025-10-17
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-10-17
 
 Word Search 2は、クラシックな単語検索ゲームの改良版です。新しいレベル、テーマ、チャレンジで単語を見つける楽しさを体験しましょう。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
  - **単語を探す：** グリッド内の単語を見つけます

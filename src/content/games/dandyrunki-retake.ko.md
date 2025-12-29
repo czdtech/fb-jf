@@ -1,18 +1,17 @@
 ---
 locale: ko
 urlstr: dandyrunki-retake
-title: "Dandyrunki Retake 단디어런키 리테이크 온라인 플레이"
+title: Dandyrunki Retake 단디어런키 리테이크 온라인 플레이
 description: >-
-  Dandyrunki Retake에서 다양한 캐릭터 루프를 조합해 나만의 음악을 만들어 보세요.
-  드래그 앤 드롭만으로 리듬과 멜로디를 섞어 누구나 쉽게 즐길 수 있는 리믹스
-  음악 놀이 게임입니다.
+  Dandyrunki Retake에서 다양한 캐릭터 루프를 조합해 나만의 음악을 만들어 보세요. 드래그 앤 드롭만으로 리듬과 멜로디를 섞어
+  누구나 쉽게 즐길 수 있는 리믹스 음악 놀이 게임입니다.
 iframeSrc: 'https://turbowarp.org/1126924449/embed'
 thumbnail: /new-images/thumbnails/dandyrunki-retake.png
 tags:
   - dandyrunki retake
   - dandyrunki retake online
 score: 3.7/5  (255 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 
@@ -23,6 +22,7 @@ Dandyrunki Retake는 음악 업계의 “콜라보 앨범” 같은 리믹스 �
 브라우저만 열면 바로 플레이할 수 있어, 언제 어디서나 가볍게 음악 놀이를 즐길 수
 있습니다.
 
+<!-- i18n:section:tips -->
 ### 핵심 게임 플레이
 
 - **캐릭터 선택**: Dandyrunki Retake 세계관의 다양한 캐릭터 중 마음에 드는

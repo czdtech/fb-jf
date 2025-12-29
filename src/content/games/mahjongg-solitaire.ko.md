@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: mahjongg-solitaire
-title: "Mahjongg Solitaire 마작 솔리테어 클래식"
+title: Mahjongg Solitaire 마작 솔리테어 클래식
 description: >-
-  Mahjongg Solitaire는 Mahjong Solitaire 또는 Shanghai Solitaire로도 알려진 고전 싱글
-  플레이 타일 매칭 퍼즐로, 같은 모양의 자유 타일을 짝지어 144장의 타일을 모두
-  제거하는 게임입니다.
+  Mahjongg Solitaire는 Mahjong Solitaire 또는 Shanghai Solitaire로도 알려진 고전 싱글 플레이 타일
+  매칭 퍼즐로, 같은 모양의 자유 타일을 짝지어 144장의 타일을 모두 제거하는 게임입니다.
 iframeSrc: >-
   https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-mahjongg-solitaire/
 thumbnail: /new-images/thumbnails/mahjongg-solitaire.jpg
@@ -26,6 +25,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 배치되어 있으며, 목표는 '자유로운' 동일 타일 쌍을 찾아 보드 위 144장의 타일을 모두
 지워 버리는 것입니다.
 
+<!-- i18n:section:tips -->
 ### 플레이 가이드
 
 - **타일 매칭:** 같은 그림의 타일 두 개를 클릭 또는 탭하면 한 쌍으로 제거됩니다.

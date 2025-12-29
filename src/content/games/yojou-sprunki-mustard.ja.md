@@ -1,6 +1,8 @@
 ---
 title: Yojou Sprunki Mustard
-description: Yojou Sprunki Mustardは、マスタード色の演出を取り入れたSprunki系の音楽制作Modです。キャラクターを組み合わせてサウンドを重ねます。
+description: >-
+  Yojou Sprunki
+  Mustardは、マスタード色の演出を取り入れたSprunki系の音楽制作Modです。キャラクターを組み合わせてサウンドを重ねます。
 iframeSrc: 'https://turbowarp.org/1153723334/embed'
 thumbnail: /new-images/thumbnails/yojou-sprunki-mustard.png
 urlstr: yojou-sprunki-mustard
@@ -10,7 +12,7 @@ tags:
   - music
   - mustard
 locale: ja
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 
@@ -33,6 +35,7 @@ Yojou Sprunki Mustardは、マスタードテーマを持つSprunki系のModで�
  - サウンドをミックスして曲を作ります
  - ユニークなコンビネーションを探します
 
+<!-- i18n:section:how-to-play -->
 ### Yojou Sprunki Mustard（Sprunkstard）の遊び方：
  - いろいろな組み合わせを試して、雰囲気を整えます
 

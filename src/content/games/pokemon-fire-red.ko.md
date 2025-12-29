@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: pokemon-fire-red
-title: "Pokemon Fire Red 포켓몬 파이어레드"
+title: Pokemon Fire Red 포켓몬 파이어레드
 description: >-
-  1세대 '포켓몬 레드'를 리메이크한 작품입니다. 관동 지방을
-  여행하며 포켓몬을 포획·육성하고, 로켓단의 음모를 저지하며
-  포켓몬 리그 챔피언에 도전해 보세요.
+  1세대 '포켓몬 레드'를 리메이크한 작품입니다. 관동 지방을 여행하며 포켓몬을 포획·육성하고, 로켓단의 음모를 저지하며 포켓몬 리그 챔피언에
+  도전해 보세요.
 iframeSrc: 'https://picklekid31.github.io/GBA-unblocked-games/launcher.html#pokemonred'
 thumbnail: /new-images/thumbnails/pokemon-fire-red.jpg
 tags:
@@ -28,6 +27,7 @@ RPG입니다. 플레이어는 관동 지방을 여행하며 다양한 포켓몬�
 원작의 스토리와 구조는 그대로 유지하면서, 그래픽과 시스템이
 GBA 기준으로 개선되어 보다 쾌적한 플레이를 제공하는 것이 특징입니다.
 
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략
 
 1. **스타터 포켓몬 선택하기**  

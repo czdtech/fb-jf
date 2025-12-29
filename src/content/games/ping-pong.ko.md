@@ -1,10 +1,8 @@
 ---
 locale: ko
 urlstr: ping-pong
-title: "Ping Pong 탁구 게임"
-description: >-
-  클래식 아케이드 스타일의 탁구 게임입니다. 패들을 움직여 공을
-  되받아치고, 상대가 놓치도록 만들어 점수를 따내 보세요.
+title: Ping Pong 탁구 게임
+description: '클래식 아케이드 스타일의 탁구 게임입니다. 패들을 움직여 공을 되받아치고, 상대가 놓치도록 만들어 점수를 따내 보세요.'
 iframeSrc: 'https://ranimania.com/Games/pingpong/ping_pong/'
 thumbnail: /new-images/thumbnails/ping-pong.jpg
 tags:
@@ -28,6 +26,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 라 rally 덕분에 가볍게 즐기는 캐주얼 게임으로도, 진지한 1:1 대전
 게임으로도 즐길 수 있습니다.
 
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략
 
 1. **패들을 안정적으로 컨트롤하기**  

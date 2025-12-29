@@ -11,7 +11,7 @@ tags:
   - fiddlebops sprunki
   - sprunki phase 5 online
 score: 4.3/5 (684 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 
@@ -23,6 +23,7 @@ Fiddlebops Sprunki는 원래의 Sprunki 게임에 밝고 유쾌한 변주를 더
 컬러풀한 연출, 한층 부담이 덜한 게임 흐름으로 “편하게 즐기는 Sprunki”에
 가깝게 만들어졌습니다.
 
+<!-- i18n:section:tips -->
 ### 게임 플레이
 
 - **캐릭터 선택**: 살짝 기괴하지만 매력적인 캐릭터들을 골라 각자의 보컬/사운드

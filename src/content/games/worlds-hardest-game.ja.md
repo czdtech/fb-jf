@@ -10,7 +10,7 @@ tags:
   - skill
   - difficult
 locale: ja
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-08-16
 
 World's Hardest Gameは、その名の通り非常に難しいスキルベースのアーケードゲームです。動く赤い四角を避けながら、青い四角をゴールまで導きましょう。
 
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイガイド
 
  - **青い四角を操作：** 矢印キーで動かします
