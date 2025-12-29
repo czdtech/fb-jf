@@ -16,6 +16,8 @@ pnpm-debug.log*
 # i18n validation reports (generated)
 i18n-metadata-report.json
 i18n-structure-report.json
+i18n-hardpoints-diff-report.json
+i18n-hardpoints-extract.json
 i18n-zh-english-mix-report.json
 i18n-zh-english-mix-report.csv
 i18n-zh-english-mix-report.urls.txt

@@ -215,7 +215,7 @@ async function readGameFile(absPath: string): Promise<{ data: Record<string, unk
   return { data: data as Record<string, unknown>, content };
 }
 
-async function buildReport(): Promise<DiffReport> {
+export async function buildHardpointsDiffReport(): Promise<DiffReport> {
   const files = (await fs.readdir(GAMES_DIR))
     .filter((f) => f.endsWith('.md'))
     .map((f) => path.join(GAMES_DIR, f));
@@ -322,7 +322,7 @@ async function main(): Promise<void> {
   const outFlag = args.indexOf('--out');
   const out = outFlag >= 0 ? args[outFlag + 1] : null;
 
-  const report = await buildReport();
+  const report = await buildHardpointsDiffReport();
   if (out) {
     await fs.writeFile(out, `${JSON.stringify(report, null, 2)}\n`, 'utf8');
   }

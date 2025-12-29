@@ -26,7 +26,8 @@ describe('Hardpoints - extractor', () => {
     expect(res.controls.sectionFound).toBe(true);
     expect(res.controls.keyTokens).toEqual(['W', 'A', 'S', 'D', 'Space']);
 
-    expect(res.numbers.tokenCounts).toEqual({ '3': 1, '10s': 1, '100%': 1 });
+    // Single-digit plain numbers are intentionally ignored to reduce noise across locales.
+    expect(res.numbers.tokenCounts).toEqual({ '10s': 1, '100%': 1 });
     expect(res.faq.ids).toEqual(['faq:simple-game:what-is-this-11111111']);
   });
 
@@ -54,4 +55,3 @@ describe('Hardpoints - extractor', () => {
     expect(res.numbers.tokenCounts).toEqual({ '60s': 1, '10x': 1 });
   });
 });
-
