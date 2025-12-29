@@ -1,13 +1,13 @@
 ---
 locale: es
 urlstr: tomb-of-the-mask
-title: "Tomb of the Mask - Laberintos a toda velocidad"
+title: Tomb of the Mask - Laberintos a toda velocidad
 description: >-
   Recorre peligrosos laberintos en Tomb of the Mask, un trepidante arcade de
-  reflejos. Deslízate de pared en pared, recoge monedas y potenciadores y
-  escapa de una marea letal que sube sin parar mientras desentierras los
-  secretos de la tumba.
-iframeSrc: "https://w8.snokido.com/games/unity-webgl/tomb-run/index.html"
+  reflejos. Deslízate de pared en pared, recoge monedas y potenciadores y escapa
+  de una marea letal que sube sin parar mientras desentierras los secretos de la
+  tumba.
+iframeSrc: 'https://w8.snokido.com/games/unity-webgl/tomb-run/index.html'
 thumbnail: /new-images/thumbnails/tomb-of-the-mask.jpg
 tags:
   - arcade
@@ -22,6 +22,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 Tomb of the Mask es un arcade extremadamente adictivo y rápido que combina laberintos con la presión de un runner infinito. Controlas a un personaje que se mueve deslizando el dedo: cada gesto lo lanza en línea recta hasta chocar con una pared. Tu misión es recoger monedas y potenciadores mientras huyes de una marea de tinta o lava que sube desde el fondo del nivel.
 
+<!-- i18n:section:tips -->
 ### Guía de juego
 
 - **Movimiento:** desliza en cualquiera de las cuatro direcciones (arriba, abajo, izquierda, derecha). El personaje se desplazará en esa línea hasta encontrarse con un obstáculo.

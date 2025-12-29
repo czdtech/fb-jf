@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: sprunki-phase-5
-title: 'Sprunki Phase 5 - Juega a Sprunki Phase 5 online'
+title: Sprunki Phase 5 - Juega a Sprunki Phase 5 online
 description: >-
   Sprunki Phase 5 es un juego creado por fans de creación musical que mezcla
   creatividad rítmica con un giro oscuro y atmosférico.
@@ -11,7 +11,7 @@ tags:
   - sprunki phase 5
   - sprunki phase 5 online
 score: 4.0/5  (604 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 
@@ -26,6 +26,7 @@ tan hipnóticos como perturbadores.
 
 ---
 
+<!-- i18n:section:tips -->
 ### Jugabilidad de Sprunki Phase 5
 
 La biblioteca de sonidos ampliada de Sprunki Phase 5 te da muchas más opciones

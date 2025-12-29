@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: stick-fight
-title: 'Stick Fight'
+title: Stick Fight
 description: >-
   Entra en la caótica arena de Stick Fight, un brawler con físicas locas en el
   que luchas contra otros stickman para ser el último en pie. Usa tus puños, tus
@@ -27,6 +27,7 @@ claro: ser el último muñeco de palo en pie. El juego es conocido por sus
 combates caóticos e impredecibles, donde los peligros del entorno y el amplio
 catálogo de armas generan rondas tan cómicas como intensas.
 
+<!-- i18n:section:tips -->
 ### Guía de juego
 
 En cada ronda debes eliminar a tus oponentes lanzándolos fuera del escenario o

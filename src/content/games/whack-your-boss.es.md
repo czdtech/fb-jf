@@ -21,6 +21,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 Whack Your Boss es una experiencia interactiva satírica en la que el protagonista fantasea con distintas y exageradas formas de desahogarse con su jefe. Cada objeto del despacho puede desencadenar una escena distinta, presentada con humor negro y estilo de cómic. El juego no pretende ser una invitación a la violencia real, sino una caricatura exagerada del estrés laboral.
 
+<!-- i18n:section:tips -->
 ### Guía de juego
 
 

@@ -1,13 +1,13 @@
 ---
 locale: es
 urlstr: spacebar-clicker
-title: "Spacebar Clicker"
+title: Spacebar Clicker
 description: >-
   Pon a prueba tu velocidad de pulsación con Spacebar Clicker, un adictivo juego
   incremental. Pulsa la barra espaciadora para ganar puntos y úsalos para
-  comprar mejoras. Automatiza los clics y multiplica tus ganancias para ver hasta
-  dónde puedes llegar en este sencillo pero absorbente clicker.
-iframeSrc: "https://spacebarclicker.co/game/spacebar-counter/"
+  comprar mejoras. Automatiza los clics y multiplica tus ganancias para ver
+  hasta dónde puedes llegar en este sencillo pero absorbente clicker.
+iframeSrc: 'https://spacebarclicker.co/game/spacebar-counter/'
 thumbnail: /new-images/thumbnails/spacebar-clicker.jpg
 tags:
   - clicker
@@ -28,6 +28,7 @@ Estas mejoras aumentan la potencia de cada clic o automatizan parte del proceso,
 creando un bucle de progresión muy satisfactorio en el que los números crecen de
 forma exponencial.
 
+<!-- i18n:section:tips -->
 ### Guía de juego
 
 Empieza pulsando repetidamente la barra espaciadora para generar tus primeros

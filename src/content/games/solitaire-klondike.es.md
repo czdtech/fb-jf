@@ -1,13 +1,14 @@
 ---
 locale: es
 urlstr: solitaire-klondike
-title: "Solitaire Klondike"
+title: Solitaire Klondike
 description: >-
   Juega al clásico Klondike Solitaire, la variante de solitario más popular. El
   objetivo es mover las 52 cartas a las cuatro pilas de fundación por palo, en
   orden ascendente de As a Rey. Mueve cartas en el tablero con estrategia para
   descubrir nuevas opciones y completar la partida.
-iframeSrc: "https://games.cdn.famobi.com/html5games/s/solitaire-klondike/v480/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=5b597140-77c2-4f7c-9abf-4f149d6dcbac&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=465&original_ref="
+iframeSrc: >-
+  https://games.cdn.famobi.com/html5games/s/solitaire-klondike/v480/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=5b597140-77c2-4f7c-9abf-4f149d6dcbac&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=465&original_ref=
 thumbnail: /new-images/thumbnails/solitaire-klondike.jpg
 tags:
   - card-game
@@ -27,6 +28,7 @@ estándar de 52 cartas, tu objetivo es ordenarlas en cuatro pilas de fundación,
 una por cada palo, en orden ascendente. Es un juego de paciencia, estrategia y
 un toque de suerte.
 
+<!-- i18n:section:tips -->
 ### Guía de juego
 
 Tu meta es construir cuatro pilas de fundación empezando por el As y terminando

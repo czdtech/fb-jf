@@ -27,6 +27,7 @@ videojuegos y animes en arenas 2D de lucha con plataformas. Destaca por su
 ritmo rápido y por capturar bastante bien el espíritu de los juegos de consola
 originales en formato Flash gratuito.
 
+<!-- i18n:section:tips -->
 ### Guía de juego
 
 A diferencia de otros juegos de lucha, aquí no se vacía una barra de vida, sino

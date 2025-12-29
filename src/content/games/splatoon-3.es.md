@@ -1,14 +1,14 @@
 ---
 locale: es
 urlstr: splatoon-3
-title: "Splatoon 3"
+title: Splatoon 3
 description: >-
   Sumérgete en el colorido mundo de Splatoon 3. En este shooter cargado de
   acción, cubre el territorio con la tinta de tu equipo para conseguir la
   victoria. Transfórmate en calamar para nadar por tu tinta, emboscar rivales y
   recargar tu arma. Domina el movimiento y el trabajo en equipo para dominar el
   terreno.
-iframeSrc: "https://bitlifeonline.github.io/splatoon-3/"
+iframeSrc: 'https://bitlifeonline.github.io/splatoon-3/'
 thumbnail: /new-images/thumbnails/splatoon-3.jpg
 tags:
   - action
@@ -28,6 +28,7 @@ equipo. Controlas personajes únicos llamados Inklings y Octolings que pueden
 cambiar al instante entre forma "niño" para disparar tinta y forma de calamar
 para deslizarse por ella.
 
+<!-- i18n:section:tips -->
 ### Guía de juego
 
 El modo más habitual es Territorial (Turf War), un 4 contra 4 en el que el

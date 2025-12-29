@@ -1,9 +1,15 @@
 ---
 locale: es
 urlstr: text-twist-2
-title: "Text Twist 2 - Desafío de palabras ampliado"
-description: "Sumérgete en un desafío de palabras aún más grande con Text Twist 2. Esta secuela del popular puzle de letras añade nuevos modos como Sin Tiempo y Crucigrama, un diccionario más amplio y mejores gráficos. Reordena letras, encuentra la palabra Bingo para avanzar y pon a prueba tu vocabulario en este adictivo puzle."
-iframeSrc: "https://games.cdn.famobi.com/html5games/t/text-twist-2/v110/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=40935b5f-cfef-4ac2-9179-549869282f4b&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=693&original_ref="
+title: Text Twist 2 - Desafío de palabras ampliado
+description: >-
+  Sumérgete en un desafío de palabras aún más grande con Text Twist 2. Esta
+  secuela del popular puzle de letras añade nuevos modos como Sin Tiempo y
+  Crucigrama, un diccionario más amplio y mejores gráficos. Reordena letras,
+  encuentra la palabra Bingo para avanzar y pon a prueba tu vocabulario en este
+  adictivo puzle.
+iframeSrc: >-
+  https://games.cdn.famobi.com/html5games/t/text-twist-2/v110/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=40935b5f-cfef-4ac2-9179-549869282f4b&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=693&original_ref=
 thumbnail: /new-images/thumbnails/text-twist-2.jpg
 tags:
   - word-game
@@ -18,6 +24,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 Text Twist 2 es la esperada secuela del popular juego de puzle de palabras, y ofrece una experiencia mejorada con nuevas funciones y modos. Sigues teniendo que descifrar un conjunto de letras desordenadas para formar el mayor número posible de palabras, pero ahora con más variedad y flexibilidad. Es perfecto para amantes del vocabulario y para quien busque un buen entrenamiento mental.
 
+<!-- i18n:section:tips -->
 ### Guía de juego
 
 La mecánica principal se mantiene: formar palabras a partir de un conjunto de letras.

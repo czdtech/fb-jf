@@ -1,12 +1,12 @@
 ---
 locale: es
 urlstr: who-is
-title: "Who Is? Game - ¿Quién es?"
+title: Who Is? Game - ¿Quién es?
 description: >-
   Pon a prueba tus dotes de detective en Who Is? Game. Resuelve acertijos,
   identifica impostores y encuentra pistas ocultas en decenas de situaciones
   ingeniosas que exigen pensar fuera de lo común.
-iframeSrc: "https://rebemanae.github.io/who-is/"
+iframeSrc: 'https://rebemanae.github.io/who-is/'
 thumbnail: /new-images/thumbnails/who-is.jpg
 tags:
   - puzzle
@@ -21,6 +21,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 Who Is? Game es un juego de puzles muy popular que te enfrenta a una colección de enigmas y situaciones tipo “acertijo visual”. Desarrollado por Unico Studio, te obliga a pensar con lógica, observar cada detalle y, a menudo, usar soluciones poco convencionales para superar cada nivel. Los retos van desde descubrir quién miente hasta localizar objetos escondidos.
 
+<!-- i18n:section:tips -->
 ### Guía de juego
 
 Cada nivel plantea una situación o pregunta diferente, y tu meta es dar con la respuesta correcta.

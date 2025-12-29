@@ -1,13 +1,14 @@
 ---
 locale: es
 urlstr: tricky-puzzles
-title: "Brain Test: Tricky Puzzles - Puzles tramposos"
+title: 'Brain Test: Tricky Puzzles - Puzles tramposos'
 description: >-
   Pon a prueba tu cerebro con Brain Test: Tricky Puzzles, un juego de acertijos
-  que desafía la lógica convencional. Resuelve enigmas únicos tocando, arrastrando
-  e incluso girando el dispositivo. Piensa fuera de la caja y prueba todas las
-  posibilidades para encontrar soluciones tan sorprendentes como ingeniosas.
-iframeSrc: "https://rebemanae.github.io/brain-test-tricky-puzzles/"
+  que desafía la lógica convencional. Resuelve enigmas únicos tocando,
+  arrastrando e incluso girando el dispositivo. Piensa fuera de la caja y prueba
+  todas las posibilidades para encontrar soluciones tan sorprendentes como
+  ingeniosas.
+iframeSrc: 'https://rebemanae.github.io/brain-test-tricky-puzzles/'
 thumbnail: /new-images/thumbnails/tricky-puzzles.jpg
 tags:
   - puzzle
@@ -22,6 +23,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 Brain Test: Tricky Puzzles es un juego de puzles popular e innovador que te obliga a pensar de forma poco habitual. A diferencia de los puzles clásicos, muchas soluciones son nada intuitivas y te animan a interactuar con los elementos en pantalla de formas inesperadas: tocando, arrastrando e incluso girando el dispositivo. Todo está pensado para poner a prueba tu creatividad y tu pensamiento lateral.
 
+<!-- i18n:section:tips -->
 ### Guía de juego
 
 Cada nivel presenta un acertijo o un puzle único. La solución casi nunca es directa y suele estar llena de engaños y humor.

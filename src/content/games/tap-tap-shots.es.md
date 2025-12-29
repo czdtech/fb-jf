@@ -1,9 +1,13 @@
 ---
 locale: es
 urlstr: tap-tap-shots
-title: "Tap Tap Shots - Tiros de baloncesto a un toque"
-description: "Pon a prueba tu ritmo y tu precisión en Tap Tap Shots, un adictivo juego de baloncesto de un solo toque. Haz botar la pelota con cada toque y encadena canastas consecutivas para disparar tu marcador. Encuentra tu ritmo, busca tiros limpios y prende fuego al balón para conseguir puntuaciones récord."
-iframeSrc: "https://ubg77.github.io/game131022/tap-tap-shots/"
+title: Tap Tap Shots - Tiros de baloncesto a un toque
+description: >-
+  Pon a prueba tu ritmo y tu precisión en Tap Tap Shots, un adictivo juego de
+  baloncesto de un solo toque. Haz botar la pelota con cada toque y encadena
+  canastas consecutivas para disparar tu marcador. Encuentra tu ritmo, busca
+  tiros limpios y prende fuego al balón para conseguir puntuaciones récord.
+iframeSrc: 'https://ubg77.github.io/game131022/tap-tap-shots/'
 thumbnail: /new-images/thumbnails/tap-tap-shots.jpg
 tags:
   - sports
@@ -18,6 +22,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 Tap Tap Shots es un juego de baloncesto arcade minimalista y muy adictivo. Tu objetivo es anotar tantas canastas seguidas como puedas tocando la pantalla para hacer que la pelota rebote hacia el aro. El desafío viene del movimiento del aro y de la presión del temporizador, por lo que necesitas un gran sentido del ritmo y del tiempo para mantener la racha.
 
+<!-- i18n:section:tips -->
 ### Guía de juego
 
 - **Objetivo:** encadenar el mayor número posible de canastas consecutivas.

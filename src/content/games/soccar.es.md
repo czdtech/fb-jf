@@ -1,13 +1,13 @@
 ---
 locale: es
 urlstr: soccar
-title: "SocCar"
+title: SocCar
 description: >-
   Súbete al volante en SocCar, un juego de acción que mezcla la emoción del
   fútbol con la potencia de los coches. Conduce por el campo, embiste la pelota
   gigante y marca goles contra tus rivales. Domina la conducción y la puntería
   para ganar el partido.
-iframeSrc: "https://ubg77.github.io/edit/soccar/"
+iframeSrc: 'https://ubg77.github.io/edit/soccar/'
 thumbnail: /new-images/thumbnails/soccar.jpg
 tags:
   - sports
@@ -26,6 +26,7 @@ con el objetivo clásico del fútbol. Controlas un coche en un gran campo y
 compites por golpear una pelota gigante para meterla en la portería rival. Es un
 juego de reflejos rápidos, posicionamiento estratégico y buenos usos del boost.
 
+<!-- i18n:section:tips -->
 ### Guía de juego
 
 El objetivo principal es marcar más goles que el rival antes de que se acabe el

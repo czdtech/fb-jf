@@ -1,12 +1,12 @@
 ---
 locale: es
 urlstr: geometry-dash-wave
-title: "Geometry Dash Wave"
+title: Geometry Dash Wave
 description: >-
-  Domina el ritmo y supera niveles peligrosos en Geometry Dash Wave. Controla
-  un icono triangular que sube y baja en diagonal con un solo toque y ajusta
-  tus pulsaciones al milímetro para esquivar obstáculos y completar recorridos
-  muy desafiantes en este adictivo juego de plataformas sincronizado con la música.
+  Domina el ritmo y supera niveles peligrosos en Geometry Dash Wave. Controla un
+  icono triangular que sube y baja en diagonal con un solo toque y ajusta tus
+  pulsaciones al milímetro para esquivar obstáculos y completar recorridos muy
+  desafiantes en este adictivo juego de plataformas sincronizado con la música.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp45/chenling/20231205/04/index.html
 thumbnail: /new-images/thumbnails/geometry-dash-wave.jpg
@@ -28,6 +28,7 @@ triangular que avanza sin parar a través de un recorrido lleno de peligros. La
 mecánica única de "wave" requiere una sincronización y un sentido del ritmo muy precisos
 para sortear obstáculos cambiando la trayectoria diagonal del icono.
 
+<!-- i18n:section:tips -->
 ### Guía de juego
 
 - **Mecánica de wave:** Mantén pulsado el clic o el toque para que el icono se

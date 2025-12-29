@@ -1,13 +1,13 @@
 ---
 locale: es
 urlstr: the-pillar
-title: "The Pillar - Aventura de puzles y escape"
+title: The Pillar - Aventura de puzles y escape
 description: >-
   Emprende un viaje misterioso en The Pillar, un cautivador juego de puzles y
-  salas de escape. Explora entornos enigmáticos, resuelve puzle
-  intricados y descubre secretos ocultos a medida que avanzas por niveles cada
-  vez más desafiantes. Pon a prueba tu lógica y tu capacidad de observación en
-  esta aventura inmersiva.
+  salas de escape. Explora entornos enigmáticos, resuelve puzle intricados y
+  descubre secretos ocultos a medida que avanzas por niveles cada vez más
+  desafiantes. Pon a prueba tu lógica y tu capacidad de observación en esta
+  aventura inmersiva.
 iframeSrc: 'https://m.igroutka.ru/g-1/53/ThePillar/'
 thumbnail: /new-images/thumbnails/the-pillar.jpg
 tags:
@@ -23,6 +23,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 The Pillar es un juego inmersivo de puzles y escape que te reta con una serie de puzle ambientales complejos. Explorarás lugares misteriosos y bellamente diseñados, interactuando con objetos y mecanismos para abrir nuevos caminos y desenterrar los secretos escondidos en el mundo del juego. Es una experiencia que premia la observación cuidadosa, la lógica y el pensamiento creativo.
 
+<!-- i18n:section:tips -->
 ### Guía de juego
 
 La jugabilidad principal consiste en resolver puzles para seguir avanzando. Cada área presenta nuevos desafíos que te obligan a manipular objetos, descifrar códigos y comprender la lógica de cada entorno.

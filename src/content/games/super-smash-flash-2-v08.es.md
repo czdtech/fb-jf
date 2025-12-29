@@ -27,6 +27,7 @@ escenarios más cuidados y una jugabilidad mucho más profunda y equilibrada que
 se inspira directamente en la saga oficial Super Smash Bros. Está considerado
 uno de los proyectos fan más completos que se han hecho.
 
+<!-- i18n:section:tips -->
 ### Guía de juego
 
 Al igual que en su inspiración, el objetivo es lanzar a los rivales fuera de la

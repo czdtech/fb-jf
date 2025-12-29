@@ -1,14 +1,15 @@
 ---
 locale: es
 urlstr: snow-rider-3d
-title: "Snow Rider 3D"
+title: Snow Rider 3D
 description: >-
   Súbete al trineo en Snow Rider 3D, un frenético juego de acción invernal.
   Desciende por colinas nevadas, esquiva obstáculos como árboles y muñecos de
   nieve y usa rampas para hacer saltos espectaculares. Recoge regalos para
   desbloquear nuevos trineos y pon a prueba tus reflejos para lograr la máxima
   puntuación.
-iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp45/chenling/20231130/2/index.html"
+iframeSrc: >-
+  https://szhong.4399.com/4399swf//upload_swf/ftp45/chenling/20231130/2/index.html
 thumbnail: /new-images/thumbnails/snow-rider-3d.jpg
 tags:
   - action
@@ -28,6 +29,7 @@ lejos posible esquivando árboles, rocas, muñecos de nieve y otros obstáculos.
 medida que avanzas, la velocidad aumenta y los retos se vuelven más intensos,
 poniendo a prueba tus reflejos.
 
+<!-- i18n:section:tips -->
 ### Guía de juego
 
 Tu objetivo principal es conseguir la máxima puntuación sobreviviendo el mayor

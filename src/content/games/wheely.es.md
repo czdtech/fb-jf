@@ -21,6 +21,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 Wheely es una serie de juegos de puzles y aventuras protagonizada por un pequeño coche rojo. En cada nivel, debes ayudarlo a avanzar interactuando con el escenario: pulsando botones, moviendo plataformas, accionando ascensores y evitando peligros como pinchos o vehículos enemigos.
 
+<!-- i18n:section:tips -->
 ### Guía de juego
 
 

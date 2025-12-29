@@ -1,7 +1,9 @@
 ---
 locale: es
 urlstr: sprunki-retake-bonus-characters
-title: 'Sprunki Retake Bonus Characters - Juega a Sprunki Retake Bonus Characters online'
+title: >-
+  Sprunki Retake Bonus Characters - Juega a Sprunki Retake Bonus Characters
+  online
 description: >-
   Sprunki Retake Bonus Characters no es solo un juego musical, sino también un
   homenaje a culturas ancestrales y una exploración de las posibilidades
@@ -11,7 +13,7 @@ thumbnail: /new-images/thumbnails/sprunki-retake-bonus-characters.png
 tags:
   - sprunki retake bonus characters
 score: 3.9/5  (132 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 
@@ -22,6 +24,7 @@ funciona como un pequeño tributo a culturas antiguas y una invitación a
 explorar ritmos primitivos. Aquí no solo compones, también sientes la herencia y
 la fusión cultural a través del sonido.
 
+<!-- i18n:section:tips -->
 ### Núcleo jugable de Sprunki Retake Bonus Characters
 
 - **Conviértete en líder tribal:** guía a tu «tribu» de beatboxers y usa tu

@@ -13,7 +13,7 @@ tags:
   - shooting
   - casual
 score: 4.1/5  (2016 votes)
-releaseDate: 2025-10-18
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -21,6 +21,7 @@ releaseDate: 2025-10-18
 
 Western Sniper es un juego de disparos sencillo y directo ambientado en el lejano oeste. Desde posiciones seguras, apuntas y disparas a forajidos que se esconden detrás de barriles, ventanas y estructuras, aprovechando rebotes y explosiones para completar cada misión con el menor número de balas posible.
 
+<!-- i18n:section:tips -->
 ### Guía de juego
 
 - **Apunta con calma:** tómate un segundo para alinear bien la mira antes de disparar; un tiro certero suele valer más que varios fallidos.

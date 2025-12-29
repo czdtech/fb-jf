@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: stick-war
-title: 'Stick War'
+title: Stick War
 description: >-
   Lidera a tu ejército de stickman hacia la victoria en Stick War, un clásico de
   estrategia en tiempo real. Extrae oro, entrena unidades como espadachines,
@@ -27,6 +27,7 @@ cada civilización venera su propia tecnología. Tu objetivo es levantar un
 poderoso ejército, destruir la estatua enemiga y conquistar todos los
 territorios.
 
+<!-- i18n:section:tips -->
 ### Guía de juego
 
 El núcleo del juego gira en torno a gestionar recursos y comandar a tu ejército.

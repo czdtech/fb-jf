@@ -1,18 +1,17 @@
 ---
 locale: es
 urlstr: sprunki-like-minecraft
-title: 'Sprunki Like Minecraft - Juega a Sprunki Like Minecraft online'
+title: Sprunki Like Minecraft - Juega a Sprunki Like Minecraft online
 description: >-
   ¿Eres fan de Incredibox Sprunki y también amante del mundo de píxeles de
-  Minecraft? Entonces Sprunki Like Minecraft Mod te va a encantar: une el
-  estilo de bloques clásico con la creación musical de Sprunki en una sola
-  experiencia.
+  Minecraft? Entonces Sprunki Like Minecraft Mod te va a encantar: une el estilo
+  de bloques clásico con la creación musical de Sprunki en una sola experiencia.
 iframeSrc: 'https://turbowarp.org/1095572358/embed'
 thumbnail: /new-images/thumbnails/sprunki-like-minecraft.png
 tags:
   - sprunki like minecraft
 score: 4.6/5  (601 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 
@@ -40,6 +39,7 @@ entre ambos mundos.
 - **Diversión musical creativa:** combina sonidos y efectos para producir
   mezclas originales y muy inmersivas.
 
+<!-- i18n:section:how-to-play -->
 ### Cómo crear música en Sprunki Like Minecraft Mod
 
 Este Incredibox Sprunki Like Minecraft Mod cumple el sueño tanto de fans de

@@ -1,13 +1,13 @@
 ---
 locale: es
 urlstr: we-become-what-we-behold
-title: "We Become What We Behold - Nos convertimos en lo que miramos"
+title: We Become What We Behold - Nos convertimos en lo que miramos
 description: >-
   Explora el impacto de los medios y el sensacionalismo en We Become What We
   Behold, una breve experiencia satírica. Captura escenas con tu cámara, observa
   cómo tus decisiones moldean a la sociedad y presencia las consecuencias de
   centrarte en lo negativo.
-iframeSrc: "https://html5.iclouds.io/we-become-behold/index.html"
+iframeSrc: 'https://html5.iclouds.io/we-become-behold/index.html'
 thumbnail: /new-images/thumbnails/we-become-what-we-behold.jpg
 tags:
   - satire
@@ -22,6 +22,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 We Become What We Behold es un juego corto de apuntar‑y‑hacer‑clic creado por Nicky Case que ofrece una aguda reflexión sobre los medios de comunicación, el sensacionalismo y cómo la obsesión por lo negativo puede amplificar las divisiones sociales. El juego te invita a observar un pequeño mundo de personajes y decidir qué “noticias” capturar con tu cámara, influyendo directamente en la narrativa y en el comportamiento de sus habitantes.
 
+<!-- i18n:section:tips -->
 ### Guía de juego
 
 La mecánica central consiste en observar la pantalla y usar la cámara para fotografiar eventos.

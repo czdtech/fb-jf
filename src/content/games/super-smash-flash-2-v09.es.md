@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: super-smash-flash-2-v09
-title: 'Super Smash Flash 2 v0.9'
+title: Super Smash Flash 2 v0.9
 description: >-
   Juega a una demo actualizada de Super Smash Flash 2, el épico fangame de
   lucha. Con un enorme plantel de personajes y una jugabilidad técnica y
@@ -27,6 +27,7 @@ el juego original: plantel ampliado, escenarios más trabajados y una jugabilida
 mucho más compleja y equilibrada, que replica de cerca la experiencia de Super
 Smash Bros.
 
+<!-- i18n:section:tips -->
 ### Guía de juego
 
 El objetivo sigue siendo aumentar el porcentaje de daño de tus oponentes para

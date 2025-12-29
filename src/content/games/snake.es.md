@@ -1,13 +1,13 @@
 ---
 locale: es
 urlstr: snake
-title: "Snake"
+title: Snake
 description: >-
   Juega al clásico atemporal Snake. Controla una línea en movimiento continuo,
   come comida para alargarla y evita chocar contra las paredes o tu propia cola.
   Pon a prueba tus reflejos y tu planificación en este arcade tan simple como
   desafiante.
-iframeSrc: "https://www.googlesnake.com/snakem.php"
+iframeSrc: 'https://www.googlesnake.com/snakem.php'
 thumbnail: /new-images/thumbnails/snake.jpg
 tags:
   - classic
@@ -27,6 +27,7 @@ pantalla, haciendo que la serpiente se alargue con cada bocado. La dificultad
 está en evitar chocar contra los bordes del escenario o contra tu propio cuerpo
 cada vez más largo.
 
+<!-- i18n:section:tips -->
 ### Guía de juego
 
 La mecánica es sencilla: guía a la serpiente hasta la comida. Según come, se va

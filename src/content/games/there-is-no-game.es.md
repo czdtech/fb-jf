@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: there-is-no-game
-title: "There is no game - Meta aventura de puzles"
+title: There is no game - Meta aventura de puzles
 description: >-
   Vive la singular aventura meta‑puzzle de There is no game. Desafía a un
   narrador sarcástico, rompe la cuarta pared y resuelve puzles nada
@@ -22,6 +22,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 "There is no game" es una aventura de puzles meta muy particular que cuestiona constantemente tu percepción de lo que es un juego. Un narrador sarcástico insiste en que no hay nada que jugar, mientras tú buscas formas poco convencionales de interactuar con la pantalla, romper las reglas y avanzar a través de una serie de puzles ingeniosos y llenos de humor.
 
+<!-- i18n:section:tips -->
 ### Guía de juego
 
 La base jugable es la interacción tipo point-and-click. Tendrás que hacer clic,

@@ -1,14 +1,14 @@
 ---
 locale: es
 urlstr: snake-io
-title: "Snake.io"
+title: Snake.io
 description: >-
   Juega a Snake.io, un popular juego de acción multijugador que moderniza la
   experiencia clásica de la serpiente. Compite contra otros jugadores para
-  convertirte en la serpiente más larga comiendo orbes y derrotando rivales.
-  Usa los impulsos de velocidad con cabeza para dominar la arena en este
-  adictivo juego casual.
-iframeSrc: "https://snake.io/crazygames/"
+  convertirte en la serpiente más larga comiendo orbes y derrotando rivales. Usa
+  los impulsos de velocidad con cabeza para dominar la arena en este adictivo
+  juego casual.
+iframeSrc: 'https://snake.io/crazygames/'
 thumbnail: /new-images/thumbnails/snake-io.jpg
 tags:
   - io-games
@@ -28,6 +28,7 @@ en tiempo real contra otros jugadores del servidor para ser la más grande y la
 más larga. Tu objetivo principal es crecer comiendo orbes brillantes repartidos
 por el mapa y eliminando rivales forzando a que choquen con tu cuerpo.
 
+<!-- i18n:section:tips -->
 ### Guía de juego
 
 Tu meta principal es crecer comiendo orbes. Los orbes que dejan las serpientes

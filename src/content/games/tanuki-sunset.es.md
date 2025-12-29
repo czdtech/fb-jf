@@ -1,9 +1,13 @@
 ---
 locale: es
 urlstr: tanuki-sunset
-title: "Tanuki Sunset - Longboard al atardecer"
-description: "Súbete al longboard y deslízate hacia el atardecer en Tanuki Sunset. Controla a Tanuki, un mapache patinador, por una carretera costera de estética synthwave, encadena derrapes suaves, saltos espectaculares y roces con el tráfico para convertirte en una leyenda del longboard."
-iframeSrc: "https://ubg100.github.io/games/tanuki/index.html"
+title: Tanuki Sunset - Longboard al atardecer
+description: >-
+  Súbete al longboard y deslízate hacia el atardecer en Tanuki Sunset. Controla
+  a Tanuki, un mapache patinador, por una carretera costera de estética
+  synthwave, encadena derrapes suaves, saltos espectaculares y roces con el
+  tráfico para convertirte en una leyenda del longboard.
+iframeSrc: 'https://ubg100.github.io/games/tanuki/index.html'
 thumbnail: /new-images/thumbnails/tanuki-sunset.jpg
 tags:
   - arcade
@@ -18,6 +22,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 Tanuki Sunset es un juego de longboard en tercera persona en el que controlas a Tanuki, un mapache que se desliza por una espectacular carretera de montaña junto al mar, llena de luces neón y ambiente synthwave. El juego premia el estilo y la fluidez: cuanto mejores sean tus derrapes, saltos y aproximaciones arriesgadas al tráfico, más puntos acumularás.
 
+<!-- i18n:section:tips -->
 ### Guía de juego
 
 El objetivo principal es conseguir la máxima puntuación posible antes de llegar al final del tramo o chocar.

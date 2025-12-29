@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: incredibox-sprinkle
-title: "Incredibox Sprinkle - Play Incredibox Sprinkle Online"
+title: Incredibox Sprinkle - Play Incredibox Sprinkle Online
 description: >-
   Sprinkle es un juego de creación musical sencillo de manejar y lleno de
   diversión. Tanto si eres un jugador casual como si te interesa la producción
@@ -11,7 +11,7 @@ thumbnail: /new-images/thumbnails/incredibox-sprinkle.png
 tags:
   - incredibox sprinkle
 score: 3.8/5  (387 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 
@@ -26,6 +26,7 @@ releaseDate: 2025-12-04
 - **Prueba e innova:** la gracia de Sprinkle está en probar combinaciones de
   sonidos. Solo con reordenar personajes puedes crear infinidad de variaciones.
 
+<!-- i18n:section:controls -->
 ### Guía de manejo
 
 - **Uso del ratón:** el ratón es la herramienta principal. Arrastra los

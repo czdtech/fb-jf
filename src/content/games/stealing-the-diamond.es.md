@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: stealing-the-diamond
-title: 'Stealing The Diamond'
+title: Stealing The Diamond
 description: >-
   Acompaña a Henry Stickmin en Stealing the Diamond, una aventura interactiva
   desternillante. Tu misión: infiltrarte en el museo y escapar con un enorme
@@ -27,6 +27,7 @@ museo fuertemente vigilado. El juego es famoso por su humor y por un sistema de
 decisiones en el que cada elección puede llevarte a un desenlace distinto… y a
 muchos fails memorables.
 
+<!-- i18n:section:tips -->
 ### Guía de juego
 
 La mecánica es sencilla: en distintos puntos de la historia se te presentan dos

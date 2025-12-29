@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: mahjongg-solitaire
-title: "Mahjongg Solitaire - Despeja el tablero ficha a ficha"
+title: Mahjongg Solitaire - Despeja el tablero ficha a ficha
 description: >-
-  Limpia el tablero en Mahjongg Solitaire, el clásico puzle de fichas
-  para un solo jugador. Encuentra y empareja fichas idénticas y libres, planea
-  tus movimientos y despeja todos los niveles en este desafío atemporal.
+  Limpia el tablero en Mahjongg Solitaire, el clásico puzle de fichas para un
+  solo jugador. Encuentra y empareja fichas idénticas y libres, planea tus
+  movimientos y despeja todos los niveles en este desafío atemporal.
 iframeSrc: >-
   https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-mahjongg-solitaire/
 thumbnail: /new-images/thumbnails/mahjongg-solitaire.jpg
@@ -29,6 +29,7 @@ estructuras de varias capas. El objetivo principal es limpiar el tablero
 completo encontrando y emparejando parejas de fichas idénticas que estén
 "libres".
 
+<!-- i18n:section:tips -->
 ### Guía de juego
 
 - **Emparejar fichas:** haz clic o toca dos fichas idénticas para retirarlas.

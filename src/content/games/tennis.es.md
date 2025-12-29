@@ -1,9 +1,13 @@
 ---
 locale: es
 urlstr: tennis
-title: "Tennis - Clásico juego de tenis arcade"
-description: "Salta a la pista en este clásico juego de tenis arcade. Toma la raqueta, sirve, intercambia golpes con tu rival controlado por la IA y gana puntos para llevarte el partido. Es sencillo, directo y tremendamente adictivo para cualquier aficionado al deporte."
-iframeSrc: "https://ad-freegames.github.io/flash/game/tennis.html"
+title: Tennis - Clásico juego de tenis arcade
+description: >-
+  Salta a la pista en este clásico juego de tenis arcade. Toma la raqueta,
+  sirve, intercambia golpes con tu rival controlado por la IA y gana puntos para
+  llevarte el partido. Es sencillo, directo y tremendamente adictivo para
+  cualquier aficionado al deporte.
+iframeSrc: 'https://ad-freegames.github.io/flash/game/tennis.html'
 thumbnail: /new-images/thumbnails/tennis.jpg
 tags:
   - sports
@@ -18,6 +22,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 Este es un juego de tenis arcade clásico que captura la diversión sencilla y adictiva del deporte. Controlas a un jugador en tu lado de la pista y te enfrentas a un oponente controlado por la computadora en partidos rápidos. El objetivo es golpear la pelota de un lado a otro y sumar puntos cuando tu rival no consiga devolverla.
 
+<!-- i18n:section:tips -->
 ### Guía de juego
 
 - **Objetivo:** ser el primero en conseguir los puntos o juegos necesarios para ganar el partido.

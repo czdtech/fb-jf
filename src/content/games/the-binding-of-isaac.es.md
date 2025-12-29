@@ -1,16 +1,21 @@
 ---
 locale: es
-title: "The Binding of Isaac - Roguelike de acción oscura"
-description: "Desciende al sótano en The Binding of Isaac, un exigente roguelike de acción con disparos en todas direcciones. Enfréntate a criaturas grotescas, recoge extraños objetos y explora mazmorras generadas de forma procedural. Cada partida es única y te acerca un poco más a los secretos del retorcido mundo de Isaac."
-iframeSrc: "https://flash-cdn.blogspot.com/2021/06/the-binding-of-isaac.html"
+title: The Binding of Isaac - Roguelike de acción oscura
+description: >-
+  Desciende al sótano en The Binding of Isaac, un exigente roguelike de acción
+  con disparos en todas direcciones. Enfréntate a criaturas grotescas, recoge
+  extraños objetos y explora mazmorras generadas de forma procedural. Cada
+  partida es única y te acerca un poco más a los secretos del retorcido mundo de
+  Isaac.
+iframeSrc: 'https://flash-cdn.blogspot.com/2021/06/the-binding-of-isaac.html'
 thumbnail: /new-images/thumbnails/the-binding-of-isaac.jpg
-urlstr: "the-binding-of-isaac"
+urlstr: the-binding-of-isaac
 score: 4.1/5  (186 votes)
 tags:
   - roguelike
   - action-RPG
   - indie
-developer: ""
+developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
@@ -19,6 +24,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 The Binding of Isaac es un roguelike de acción con vista cenital y disparo tipo twin-stick que se ha ganado el reconocimiento de la crítica. Controlas a Isaac, un niño que huye al sótano de su casa para escapar de su madre fanática religiosa. Allí se encuentra con un laberinto de habitaciones llenas de monstruos, jefes retorcidos y símbolos perturbadores. El juego destaca por sus mazmorras generadas de forma procedural, su enorme colección de objetos extraños y su atmósfera oscura e incómoda.
 
+<!-- i18n:section:tips -->
 ### Guía de juego
 
 Cada partida en el sótano es distinta. Avanzas habitación por habitación, derrotando enemigos con tus lágrimas como proyectiles, recogiendo objetos y enfrentándote a jefes.

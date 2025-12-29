@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: stick-fighter
-title: 'Stick Fighter'
+title: Stick Fighter
 description: >-
   Conviértete en un maestro del combate stickman en Stick Fighter. Este brawler
   lleno de acción te enfrenta a otros muñecos de palo en arenas con físicas
@@ -28,6 +28,7 @@ otros en arenas repletas de peligros. El objetivo es ser el último en pie. Su
 combate caótico, los peligros del entorno y la variedad de armas dan lugar a
 rondas tan intensas como desternillantes.
 
+<!-- i18n:section:tips -->
 ### Guía de juego
 
 En cada ronda debes eliminar a tus oponentes arrojándolos fuera del escenario o
