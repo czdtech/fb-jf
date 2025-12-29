@@ -1,12 +1,11 @@
 ---
 locale: de
 urlstr: slope
-title: "Slope"
+title: Slope
 description: >-
   Slope ist das originale Endless-Runner-Spiel, in dem du eine grüne Kugel eine
-  steile Rampe hinuntersteuerst, roten Hindernissen ausweichst und versuchst,
-  in diesem fordernden, süchtig machenden Lauf so lange wie möglich zu
-  überleben.
+  steile Rampe hinuntersteuerst, roten Hindernissen ausweichst und versuchst, in
+  diesem fordernden, süchtig machenden Lauf so lange wie möglich zu überleben.
 iframeSrc: 'https://webglmath.github.io/slope/'
 thumbnail: /new-images/thumbnails/slope.jpg
 tags:
@@ -26,6 +25,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
  Bahn hinabrollt. Rote Blöcke und Abgründe musst du meiden – ein Treffer genügt
  und der Lauf ist vorbei.
 
+<!-- i18n:section:how-to-play -->
 ### Spieltipps & Strategien
 
 1.  **Grundsteuerung verinnerlichen:** Übe, die Kugel sanft nach links und

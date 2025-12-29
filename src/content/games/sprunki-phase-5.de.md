@@ -1,15 +1,17 @@
 ---
 locale: de
 urlstr: sprunki-phase-5
-title: "Sprunki Phase 5 - Sprunki Phase 5 online spielen"
-description: "Sprunki Phase 5 ist ein Fan-Musikspiel, das das klassische Sprunki-Layering mit einer düsteren, atmosphärischen Horror-Note kombiniert."
+title: Sprunki Phase 5 - Sprunki Phase 5 online spielen
+description: >-
+  Sprunki Phase 5 ist ein Fan-Musikspiel, das das klassische Sprunki-Layering
+  mit einer düsteren, atmosphärischen Horror-Note kombiniert.
 iframeSrc: 'https://sprunki-phase-5-ekz.pages.dev/'
 thumbnail: /new-images/thumbnails/sprunki-phase-5.png
 tags:
   - sprunki phase 5
   - sprunki phase 5 online
 score: 4.0/5  (604 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Einführung in Sprunki Phase 5
@@ -18,6 +20,7 @@ Sprunki Phase 5 ist ein Fan-gemachter Musikmod, der rhythmische Kreativität mit
 
 ---
 
+<!-- i18n:section:tips -->
 ### Gameplay in Sprunki Phase 5
 
 Die erweiterte Soundbibliothek von Sprunki Phase 5 bietet dir mehr Vielfalt beim Bauen deiner Tracks. So legst du los:

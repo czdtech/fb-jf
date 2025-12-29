@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: snake-io
-title: "Snake.io"
+title: Snake.io
 description: >-
   Spiele Snake.io, ein beliebtes Multiplayer-Actionspiel, das das klassische
   Snake-Prinzip modern interpretiert: Miss dich mit anderen Spielern, friss
@@ -28,6 +28,7 @@ Snake.io setzt auf das bekannte Snake-Konzept, aber als Echtzeit-Online-Duell.
  Wer clever taktiert und andere in den eigenen Körper crashen lässt, sammelt
  schnell viele Punkte.
 
+<!-- i18n:section:tips -->
 ### Gameplay-Guide
 
 Dein Hauptziel ist Wachstum. Normale Pellets bringen stetig Länge, die

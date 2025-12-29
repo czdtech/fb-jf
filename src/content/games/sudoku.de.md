@@ -1,8 +1,11 @@
 ---
 locale: de
 urlstr: sudoku
-title: "Sudoku"
-description: "Sudoku ist der Klassiker unter den Zahlenrätseln: Du füllst ein 9×9‑Gitter mit den Ziffern 1–9, sodass jede Zahl in jeder Zeile, Spalte und jedem 3×3‑Block genau einmal vorkommt – ein reines Logikpuzzle ohne Rechnen." 
+title: Sudoku
+description: >-
+  Sudoku ist der Klassiker unter den Zahlenrätseln: Du füllst ein 9×9‑Gitter mit
+  den Ziffern 1–9, sodass jede Zahl in jeder Zeile, Spalte und jedem 3×3‑Block
+  genau einmal vorkommt – ein reines Logikpuzzle ohne Rechnen.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/html5-sudoku/'
 thumbnail: /new-images/thumbnails/sudoku.jpg
 tags:
@@ -18,6 +21,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 „Sudoku“ ist ein logikbasiertes Zahlenrätsel. Du füllst ein 9×9‑Raster mit den Ziffern 1 bis 9, sodass in jeder Zeile, jeder Spalte und in jedem 3×3‑Block jede Zahl genau einmal auftaucht. Statt Mathematik brauchst du hier vor allem Kombinationsgabe und Geduld.
 
+<!-- i18n:section:how-to-play -->
 ### Spielstrategie
 
 1.  **Einfach anfangen:** Suche Felder, in denen nur noch eine Zahl logisch möglich ist – das sind deine ersten Ansatzpunkte.

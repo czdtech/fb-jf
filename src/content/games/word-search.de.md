@@ -21,6 +21,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 „Word Search“ ist ein klassisches Wortsuchspiel: Du suchst in einem Buchstabengitter nach vorgegebenen Begriffen, die zu einem Thema passen – etwa Tiere, Länder oder Lebensmittel. Die Wörter können horizontal, vertikal oder diagonal versteckt sein, teils auch rückwärts geschrieben. Das Ganze ist ein entspannter Gehirntrainer für Wortschatz und Konzentration.
 
+<!-- i18n:section:how-to-play -->
 ### Spielstrategie
 
 1. **Strukturiert scannen:** Geh Zeile für Zeile oder Spalte für Spalte durch, statt kreuz und quer zu springen.

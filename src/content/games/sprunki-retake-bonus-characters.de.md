@@ -1,20 +1,26 @@
 ---
 locale: de
 urlstr: sprunki-retake-bonus-characters
-title: "Sprunki Retake Bonus Characters - Sprunki Retake Bonus Characters online spielen"
-description: "Sprunki Retake Bonus Characters erweitert Retake um bonushafte Stammes- und Ethno-Sounds: Du leitest einen kleinen Stamm aus Beatboxern und baust daraus organische, von Tradition inspirierte Tracks."
+title: >-
+  Sprunki Retake Bonus Characters - Sprunki Retake Bonus Characters online
+  spielen
+description: >-
+  Sprunki Retake Bonus Characters erweitert Retake um bonushafte Stammes- und
+  Ethno-Sounds: Du leitest einen kleinen Stamm aus Beatboxern und baust daraus
+  organische, von Tradition inspirierte Tracks.
 iframeSrc: 'https://turbowarp.org/1107905149/embed'
 thumbnail: /new-images/thumbnails/sprunki-retake-bonus-characters.png
 tags:
   - sprunki retake bonus characters
 score: 3.9/5  (132 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Was macht Sprunki Retake Bonus Characters besonders?
 
 Sprunki Retake Bonus Characters ist kein klassischer Mod, sondern legt einen Fokus auf Stammesrhythmen und ethnisch inspirierte Klänge. Statt rein digitaler Sounds arbeitest du hier mit Chants, Percussion und warmen, organischen Texturen.
 
+<!-- i18n:section:tips -->
 ### Kern-Gameplay von Sprunki Retake Bonus Characters
 
 - **Zum Stammesführer werden:** Du führst eine kleine „Truppe“ von Beatboxern und Rhythmusgebern an und lässt sie gemeinsam komplexe Grooves erzeugen.

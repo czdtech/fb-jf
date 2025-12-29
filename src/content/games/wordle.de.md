@@ -21,6 +21,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 Wordle ist ein simples, aber extrem süchtig machendes Tagesrätsel: Du hast sechs Versuche, ein geheimes Fünf‑Buchstaben‑Wort zu finden. Nach jedem Tipp zeigen dir Farben, welche Buchstaben im Lösungswort vorkommen und ob sie an der richtigen Position stehen. Durch geschicktes Kombinieren schränkst du die Möglichkeiten immer weiter ein.
 
+<!-- i18n:section:how-to-play -->
 ### Spielstrategie
 
 1. **Stark starten:** Nimm ein Startwort mit mehreren Vokalen und häufigen Konsonanten (z. B. „ARISE“, „AUDIO“, „CRANE“).

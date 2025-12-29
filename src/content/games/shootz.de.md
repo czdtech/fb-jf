@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: shootz
-title: "ShootZ"
+title: ShootZ
 description: >-
   ShootZ ist ein actionreicher Shooter, in dem du gegen Zombies und andere
-  Kreaturen kämpfst. Mit einem Arsenal an Waffen stellst du dich immer
-  stärkeren Gegnerwellen und versuchst, im Kugelhagel zu überleben.
+  Kreaturen kämpfst. Mit einem Arsenal an Waffen stellst du dich immer stärkeren
+  Gegnerwellen und versuchst, im Kugelhagel zu überleben.
 iframeSrc: 'https://g.igroutka.ru/games/17/9IsudOxakgP0EVKC/shootz/'
 thumbnail: /new-images/thumbnails/shootz.jpg
 tags:
@@ -26,6 +26,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
  Fokus liegt auf flotter Action, Waffenupgrades und dem gekonnten Umgang mit
  begrenzten Ressourcen.
 
+<!-- i18n:section:how-to-play -->
 ### Spieltipps & Strategien
 
 1.  **Waffen verbessern:** Sammle Ressourcen oder Ingame-Währung, um Waffen auf

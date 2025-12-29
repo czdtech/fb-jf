@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: snake-game
-title: "Snake Game"
+title: Snake Game
 description: >-
   Snake Game ist der klassische Arcade-Snake: Steuere eine ständig wachsende
   Schlange, friss Futter, um länger zu werden, und vermeide Kollisionen mit
@@ -25,6 +25,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
  besteht darin, immer weiter zu wachsen, ohne dabei gegen die Spielfeldränder
  oder den eigenen, immer länger werdenden Körper zu prallen.
 
+<!-- i18n:section:how-to-play -->
 ### Spieltipps & Strategien
 
 1.  **Wege planen:** Überlege dir im Voraus, wohin du als Nächstes steuerst,

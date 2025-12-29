@@ -22,6 +22,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 Temple Run 2 ist der Nachfolger des klassischen Tempel‑Runners. Du sprintest über bröckelnde Wege, fährst mit Loren, rutschst über Seile und wirst dabei unablässig von Dämonenaffen verfolgt. Ziel ist es, so weit wie möglich zu kommen und unterwegs Münzen und Edelsteine einzusammeln.
 
+<!-- i18n:section:how-to-play -->
 ### Spielstrategie
 
 1.  **Münzen sammeln:** Sammle Coins auf dem Weg, um Charaktere und Power-ups freizuschalten bzw. zu verbessern.

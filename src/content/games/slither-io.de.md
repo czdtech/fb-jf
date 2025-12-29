@@ -1,12 +1,12 @@
 ---
 locale: de
 urlstr: slither-io
-title: "Slither.io"
+title: Slither.io
 description: >-
   Slither.io ist ein beliebtes Online-Multiplayer-Spiel, in dem du eine
-  schlangenähnliche Kreatur steuerst, leuchtende Orbs frisst, um zu wachsen,
-  und Kollisionen mit anderen Spielern vermeidest, während du in der Arena um
-  die Spitzenposition kämpfst.
+  schlangenähnliche Kreatur steuerst, leuchtende Orbs frisst, um zu wachsen, und
+  Kollisionen mit anderen Spielern vermeidest, während du in der Arena um die
+  Spitzenposition kämpfst.
 iframeSrc: >-
   https://app-165910.games.s3.yandex.net/165910/rm0dpvrwyxo0cakog5vc1sr4c8b6xj1s/index.html
 thumbnail: /new-images/thumbnails/slither-io.jpg
@@ -28,6 +28,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
  Spieler in der Arena. Ziel ist es, länger zu überleben und größer zu werden
  als alle anderen.
 
+<!-- i18n:section:how-to-play -->
 ### Spieltipps & Strategien
 
 1.  **Sicher wachsen:** Zu Beginn bist du klein und verwundbar. Sammle erst

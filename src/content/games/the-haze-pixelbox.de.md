@@ -1,20 +1,24 @@
 ---
 locale: de
 urlstr: the-haze-pixelbox
-title: "The Haze Pixelbox - Play The Haze Pixelbox Online"
-description: "Egal ob du Musikerfahrung hast oder einfach neugierig bist – The Haze Pixelbox lässt dich mit einem Stamm aus Beatboxern experimentieren und mit tribal‑Sounds kreative Tracks bauen."
+title: The Haze Pixelbox - Play The Haze Pixelbox Online
+description: >-
+  Egal ob du Musikerfahrung hast oder einfach neugierig bist – The Haze Pixelbox
+  lässt dich mit einem Stamm aus Beatboxern experimentieren und mit
+  tribal‑Sounds kreative Tracks bauen.
 iframeSrc: 'https://turbowarp.org/1020955547/embed'
 thumbnail: /new-images/thumbnails/the-haze-pixelbox.png
 tags:
   - the haze pixelbox
 score: 3.9/5  (132 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Was ist das Besondere an The Haze Pixelbox?
 
 The Haze Pixelbox ist eine verspielte Musik‑Spielwiese. Du steuerst eine kleine Truppe von Beatbox‑Charakteren, kombinierst ihre Sounds und erschaffst damit deinen eigenen Stammessong. Der Fokus liegt weniger auf Highscores und mehr auf Ausprobieren und Kreativität.
 
+<!-- i18n:section:tips -->
 ### Kern‑Gameplay von The Haze Pixelbox
 
 - **Werde Stammesführer:** Steuere deinen Stamm von Beatboxern und setze ihre Stimmen so ein, dass daraus beeindruckende Rhythmen und Melodien entstehen.

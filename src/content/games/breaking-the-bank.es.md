@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: breaking-the-bank
-title: "Breaking the Bank"
+title: Breaking the Bank
 description: >-
   Intenta un atrevido atraco bancario en Breaking the Bank, la primera aventura
   de Henry Stickmin. Elige tu método y disfruta de desenlaces desternillantes,
@@ -31,6 +31,7 @@ La gracia no está tanto en acertar a la primera como en ver las animaciones de
 "FAIL" que acompañan a cada opción equivocada. Solo una de las seis conduce a
 un intento exitoso.
 
+<!-- i18n:section:tips -->
 ### Recorrido de juego
 
 La experiencia en Breaking the Bank se basa por completo en el ensayo y error.

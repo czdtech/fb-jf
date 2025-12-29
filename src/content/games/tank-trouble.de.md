@@ -21,6 +21,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 Tank Trouble ist ein schnelles Labyrinth‑Duell für zwei bis drei Spieler (oder gegen KI). Jeder steuert einen kleinen Panzer in einer Maze‑Arena, Schüsse prallen an Wänden ab – und genau diese Abpraller machen das Spiel taktisch und chaotisch zugleich.
 
+<!-- i18n:section:how-to-play -->
 ### Spielstrategie
 
 1.  **Wände ausnutzen:** Deine Kugeln prallen an Wänden ab. Nutze das, um Gegner zu treffen, die nicht in direkter Sichtlinie sind.

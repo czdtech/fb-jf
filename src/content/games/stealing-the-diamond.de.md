@@ -1,8 +1,11 @@
 ---
 locale: de
 urlstr: stealing-the-diamond
-title: "Stealing The Diamond"
-description: "Begleite Henry Stickmin in „Stealing the Diamond“, einem witzigen Entscheidungs-Abenteuer: Schleich dich ins Museum, klaue den Riesendiamanten und entdecke alle Fails und mehrere Enden." 
+title: Stealing The Diamond
+description: >-
+  Begleite Henry Stickmin in „Stealing the Diamond“, einem witzigen
+  Entscheidungs-Abenteuer: Schleich dich ins Museum, klaue den Riesendiamanten
+  und entdecke alle Fails und mehrere Enden.
 iframeSrc: 'https://bitlifeonline.github.io/stealing-the-diamond/'
 thumbnail: /new-images/thumbnails/stealing-the-diamond.jpg
 tags:
@@ -18,6 +21,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 „Stealing the Diamond“ ist ein Klassiker aus der Henry‑Stickmin‑Reihe. Du spielst Henry, der versucht, einen gigantischen Diamanten aus einem streng bewachten Museum zu stehlen. Das Besondere: Du triffst ständig Entscheidungen – und fast jede führt zu einem eigenen, oft herrlich absurden Ausgang.
 
+<!-- i18n:section:tips -->
 ### Spielablauf
 
 Das Spiel besteht aus kurzen Sequenzen, nach denen du zwischen mehreren Aktionen oder Tools wählen kannst. Deine Wahl entscheidet, wie es weitergeht:

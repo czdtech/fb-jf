@@ -11,12 +11,13 @@ thumbnail: /new-images/thumbnails/sprunki-christmas.png
 tags:
   - sprunki christmas
 score: 4.6/5  (486 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
 Mach dich bereit für ein musikalisches Weihnachtsabenteuer: Sprunki Christmas entführt dich in ein fröhliches Sprunki-Universum voller Schnee, Lichter und Geschenke. Du begleitest die Figuren durch winterliche Level, sammelst Items und untermalst alles mit deinen eigenen festlichen Beats.
 
+<!-- i18n:section:how-to-play -->
 ### Wie spielst du Sprunki Christmas?
 
 - **Ziel:** Hilf den Sprunki-Charakteren, Weihnachtsstimmung zu verbreiten, indem du Level abschließt, Geschenke einsammelst und winterliche Herausforderungen meisterst.

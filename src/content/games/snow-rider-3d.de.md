@@ -1,12 +1,11 @@
 ---
 locale: de
 urlstr: snow-rider-3d
-title: "Snow Rider 3D"
+title: Snow Rider 3D
 description: >-
-  Spring auf deinen Schlitten in Snow Rider 3D! Steuere den Hügel hinab,
-  weiche Bäumen, Schneemännern und Felsen aus, nutze Rampen für Sprünge und
-  sammle Geschenke, um neue Schlitten freizuschalten – alles für den höchsten
-  Score.
+  Spring auf deinen Schlitten in Snow Rider 3D! Steuere den Hügel hinab, weiche
+  Bäumen, Schneemännern und Felsen aus, nutze Rampen für Sprünge und sammle
+  Geschenke, um neue Schlitten freizuschalten – alles für den höchsten Score.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp45/chenling/20231130/2/index.html
 thumbnail: /new-images/thumbnails/snow-rider-3d.jpg
@@ -29,6 +28,7 @@ Snow Rider 3D ist ein schneller Winter-Arcade-Runner, in dem du mit einem
  wirst. Unterwegs sammelst du Geschenke, mit denen du im Shop neue Schlitten
  freischalten kannst.
 
+<!-- i18n:section:tips -->
 ### Gameplay-Guide
 
 Dein Score hängt von der zurückgelegten Strecke ab. Schaue weit nach vorn, um

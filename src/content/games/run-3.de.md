@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: run-3
-title: "Run 3"
+title: Run 3
 description: >-
   Run 3 ist ein Endlos-Runner im Weltall: Du steuerst ein Alien durch einen
   3D-Tunnel, springst über Lücken, weichst Hindernissen aus und läufst dank
@@ -26,6 +26,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
  Hindernisse vor dir auftun – und du die Schwerkraft nutzt, um bei Bedarf an
  Wänden oder der Decke weiterzulaufen.
 
+<!-- i18n:section:how-to-play -->
 ### Spieltipps & Strategien
 
 1.  **Sprungtiming lernen:** Übe, Lücken im richtigen Moment zu überspringen.

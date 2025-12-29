@@ -1,14 +1,17 @@
 ---
 locale: de
 urlstr: sprunki-parasite-parasprunki-15
-title: "Incredibox Sprunksters - Incredibox Sprunksters online spielen"
-description: "Mach dich bereit für Sprunki Parasite ParaSprunki 15: ein Fan-Mod, der das freundliche Sprunki-Universum in eine unheimliche, von Parasiten befallene Klangwelt verwandelt."
+title: Incredibox Sprunksters - Incredibox Sprunksters online spielen
+description: >-
+  Mach dich bereit für Sprunki Parasite ParaSprunki 15: ein Fan-Mod, der das
+  freundliche Sprunki-Universum in eine unheimliche, von Parasiten befallene
+  Klangwelt verwandelt.
 iframeSrc: 'https://kdata1.com/2025/03/paraSprunki-update-15-0-part-222/'
 thumbnail: /new-images/thumbnails/sprunki-parasite-parasprunki-15.png
 tags:
   - incredibox sprunksters
 score: 4.3/5  (372 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -24,6 +27,7 @@ Sprunki Parasite (oft auch ParaSprunki genannt) legt einen „Spuk“-Filter üb
 - **Unheimliche Soundkulisse:** Statt nur fröhlicher Beats erwarten dich Störgeräusche, verzerrte Melodien und bedrohliche Harmonien.
 - **Versteckte Horror-Easter-Eggs:** Durch bestimmte Sound-Kombos kannst du zusätzliche, teils noch gruseligere Animationen und Effekte auslösen.
 
+<!-- i18n:section:how-to-play -->
 ### Wie spielst du Sprunki Parasite ParaSprunki 15?
 
 Das Grundprinzip bleibt Drag-and-drop, aber die Wirkung ist deutlich intensiver:

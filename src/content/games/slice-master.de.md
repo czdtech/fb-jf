@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: slice-master
-title: "Slice Master"
+title: Slice Master
 description: >-
-  Slice Master ist ein befriedigendes Physikspiel, in dem du ein Messer steuerst,
-  das sich durch verschiedenste Objekte schneidet. Ziel sind perfekte Schnitte,
-  viele Kombos und reichlich Belohnungen auf trickreichen Parcours.
+  Slice Master ist ein befriedigendes Physikspiel, in dem du ein Messer
+  steuerst, das sich durch verschiedenste Objekte schneidet. Ziel sind perfekte
+  Schnitte, viele Kombos und reichlich Belohnungen auf trickreichen Parcours.
 iframeSrc: 'https://bitlifeonline.github.io/slice-master/'
 thumbnail: /new-images/thumbnails/slice-master.jpg
 tags:
@@ -26,6 +26,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
  versuchst, möglichst viele perfekte Treffer hintereinander zu landen, ohne an
  unzerstörbaren Hindernissen zu scheitern.
 
+<!-- i18n:section:how-to-play -->
 ### Spieltipps & Strategien
 
 1.  **Timing der Schnitte:** Schneide im richtigen Moment, um Objekte sauber zu

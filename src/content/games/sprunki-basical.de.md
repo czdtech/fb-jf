@@ -1,15 +1,19 @@
 ---
 locale: de
 urlstr: sprunki-basical
-title: "Sprunki Basical - Sprunki Basical online spielen"
-description: "Sprunki Basical ist ein reduziertes Musikbaukasten-Spiel, bei dem du mit wenigen, einfachen Schritten eigene Tracks baust. Wenn du Incredibox magst und etwas Neues ausprobieren willst, ist Sprunki Basical eine leichte und kreative Alternative."
+title: Sprunki Basical - Sprunki Basical online spielen
+description: >-
+  Sprunki Basical ist ein reduziertes Musikbaukasten-Spiel, bei dem du mit
+  wenigen, einfachen Schritten eigene Tracks baust. Wenn du Incredibox magst und
+  etwas Neues ausprobieren willst, ist Sprunki Basical eine leichte und kreative
+  Alternative.
 iframeSrc: 'https://sprunki-basical.pages.dev/'
 thumbnail: /new-images/thumbnails/sprunki-basical.png
 tags:
   - sprunki basical
   - sprunki basical online
 score: 4.4/5  (420 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Einführung in Sprunki Basical
@@ -18,6 +22,7 @@ Sprunki Basical holt die Musikproduktion auf ihren Kern zurück: einfache Bedien
 
 ---
 
+<!-- i18n:section:how-to-play -->
 ### Wie spielst du Sprunki Basical?
 
 Das Gameplay ist sehr übersichtlich und in ein paar Schritten erklärt:

@@ -25,6 +25,7 @@ Snake ist einer der bekanntesten Arcade-Klassiker überhaupt. Du steuerst eine
  bleibt immer gleich: Futter einsammeln, wachsen, nicht crashen – weder in die
  Wand noch in den eigenen Körper.
 
+<!-- i18n:section:tips -->
 ### Gameplay-Guide
 
 Die Mechanik ist simpel: Lenke die Schlange zum Futter, ohne dich selbst

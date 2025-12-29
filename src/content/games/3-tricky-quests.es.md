@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: 3-tricky-quests
-title: "Brain Test 3: Tricky Quests en línea"
+title: 'Brain Test 3: Tricky Quests en línea'
 description: >-
-  Brain Test 3: Tricky Quests es la tercera entrega de la serie Brain Test. Mezcla
-  puzles "fuera de la caja" con elementos de aventura y una historia completa
-  mientras ayudas a Alyx a reunir las Gemas de Poder.
+  Brain Test 3: Tricky Quests es la tercera entrega de la serie Brain Test.
+  Mezcla puzles "fuera de la caja" con elementos de aventura y una historia
+  completa mientras ayudas a Alyx a reunir las Gemas de Poder.
 iframeSrc: 'https://bitlifeonline.github.io/brain-test-3-tricky-quests/'
 thumbnail: /new-images/thumbnails/3-tricky-quests.jpg
 tags:
@@ -32,6 +32,7 @@ En esta historia acompañas a **Alyx**, que busca seis Gemas de Poder para liber
 
 ---
 
+<!-- i18n:section:tips -->
 ### **2. Guía de juego**
 
 La estrategia de *Brain Test 3* hereda la mentalidad de los juegos anteriores, pero añade más exploración y gestión de recursos.

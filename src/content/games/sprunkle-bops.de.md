@@ -12,7 +12,7 @@ tags:
   - sprunkle bops
   - sprunkle bops online
 score: 4.3/5  (524 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Einführung in Sprunkle Bops
@@ -21,6 +21,7 @@ Sprunkle Bops baut auf Incredibox/Sprunki auf, setzt aber den Fokus stärker auf
 
 
 ---
+<!-- i18n:section:tips -->
 ### Gameplay von Sprunkle Bops
 
 - **Battle starten:** Du trittst gegen unterschiedliche Gegner an, die mit eigenen Lines und Rhythmen auftreten.

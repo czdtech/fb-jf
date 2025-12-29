@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: dandyrunki-retake
-title: "Dandyrunki Retake - Juega a Dandyrunki Retake Online"
+title: Dandyrunki Retake - Juega a Dandyrunki Retake Online
 description: >-
   En Dandyrunki Retake puedes empezar a crear música enseguida y explorar ritmos
   y melodías sin esfuerzo. Tanto si eres jugador ocasional como amante de la
@@ -12,7 +12,7 @@ tags:
   - dandyrunki retake
   - dandyrunki retake online
 score: 3.7/5  (255 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 
@@ -24,6 +24,7 @@ entremezclen para generar chispas inesperadas. Y lo mejor es que no tienes que
 descargar nada: basta con abrir el juego en el navegador para disfrutar de esta
 propuesta creativa en cualquier momento y lugar.
 
+<!-- i18n:section:tips -->
 ### Núcleo jugable de Dandyrunki Retake
 
 - **Selección de personajes:** Elige a tus compañeros musicales entre los

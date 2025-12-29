@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: smash-karts
-title: "Smash Karts"
+title: Smash Karts
 description: >-
   Smash Karts ist ein Online-Multiplayer-Kartspiel, in dem du über bunte 3D-
-  Strecken jagst, Power-ups einsammelst und deine Gegner mit Raketen,
-  Minen & Co. bekämpfst.
+  Strecken jagst, Power-ups einsammelst und deine Gegner mit Raketen, Minen &
+  Co. bekämpfst.
 iframeSrc: 'https://webgltest-17af1.firebaseapp.com/'
 thumbnail: /new-images/thumbnails/smash-karts.jpg
 tags:
@@ -26,6 +26,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
  selbst versuchst, möglichst lange zu überleben und die meisten Punkte
  einzuheimsen.
 
+<!-- i18n:section:how-to-play -->
 ### Spieltipps & Strategien
 
 1.  **Power-ups gezielt einsetzen:** Nutze Raketen, Minen, MGs oder andere

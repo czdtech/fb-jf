@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: slope-3
-title: "Slope 3"
+title: Slope 3
 description: >-
   Slope 3 ist der neueste Teil der Slope-Reihe, mit aufpolierter Grafik und
   neuen, kniffligen Hindernissen: Du führst eine Kugel eine endlose Rampe hinab
@@ -26,6 +26,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
  Barrieren und enge Passagen verlangen schnelle Reaktionen und präzise
  Steuerung.
 
+<!-- i18n:section:how-to-play -->
 ### Spieltipps & Strategien
 
 1.  **An neue Optik gewöhnen:** Die verbesserte 3D-Grafik und Effekte können

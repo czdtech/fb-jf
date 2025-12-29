@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: slope-2
-title: "Slope 2"
+title: Slope 2
 description: >-
   Slope 2 ist die Fortsetzung des beliebten Endless-Runners: Du steuerst eine
   Kugel eine steile Rampe hinunter, weichst Hindernissen und roten Blöcken aus
@@ -26,6 +26,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
  Hindernissen und Abgründen ausweichen und deine Nerven behalten, während das
  Spieltempo stetig zunimmt und neue Hindernisformen dazukommen.
 
+<!-- i18n:section:how-to-play -->
 ### Spieltipps & Strategien
 
 1.  **Reaktionsgeschwindigkeit trainieren:** Übe schnelle Richtungswechsel, um

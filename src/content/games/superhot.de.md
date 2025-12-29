@@ -1,8 +1,11 @@
 ---
 locale: de
 urlstr: superhot
-title: "Superhot"
-description: "Superhot ist ein innovativer Ego-Shooter, in dem sich die Zeit nur bewegt, wenn du dich bewegst – dadurch wird jede Szene zu einem taktischen Rätsel aus Kugeln, Wegen und Aktionen." 
+title: Superhot
+description: >-
+  Superhot ist ein innovativer Ego-Shooter, in dem sich die Zeit nur bewegt,
+  wenn du dich bewegst – dadurch wird jede Szene zu einem taktischen Rätsel aus
+  Kugeln, Wegen und Aktionen.
 iframeSrc: 'https://superhotgame.com/superhot-prototype-iframe'
 thumbnail: /new-images/thumbnails/superhot.jpg
 tags:
@@ -18,6 +21,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 „Superhot“ ist ein ungewöhnlicher First‑Person‑Shooter: Zeit läuft nur dann annähernd normal, wenn du dich bewegst oder umschaust. Bleibst du stehen, friert sie fast ein. Dadurch wird jede Begegnung weniger zu einem reinen Reflex‑Duell, sondern zu einem taktischen Puzzle in Zeitlupe.
 
+<!-- i18n:section:how-to-play -->
 ### Spielstrategie
 
 1.  **Zeit einfrieren:** Nutze das Stehenbleiben, um dich zu orientieren, Kugelbahnen zu lesen und deinen nächsten Schritt zu planen.
