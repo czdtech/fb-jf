@@ -1,0 +1,3800 @@
+{
+  "version": "1.0",
+  "updatedAt": "2025-12-29T10:45:37.612Z",
+  "entries": [
+    {
+      "slug": "2-tricky-stories",
+      "locale": "fr",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "3-tricky-quests",
+      "locale": "es",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "3-tricky-quests",
+      "locale": "fr",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "3d-football-mania",
+      "locale": "fr",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "3d-free-kick",
+      "locale": "fr",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "4-in-row-mania",
+      "locale": "fr",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "4-pics-1-word",
+      "locale": "fr",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "60s-burger-run",
+      "locale": "fr",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "8x8-match-tiles",
+      "locale": "fr",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "99-balls-3d",
+      "locale": "fr",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "addiction-mini",
+      "locale": "fr",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "air-traffic-control",
+      "locale": "fr",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "aloha-mahjong",
+      "locale": "fr",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "ant-and-block-puzzle",
+      "locale": "fr",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "aqua-blocks",
+      "locale": "fr",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "aquaparkio",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "arctic-pong",
+      "locale": "fr",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "armored-assault-strike",
+      "locale": "fr",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "backyard-zombie-defense",
+      "locale": "fr",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "bad-ice-cream-3",
+      "locale": "fr",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "bad-ice-cream-3",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "bad-time-simulator",
+      "locale": "fr",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "ballistic",
+      "locale": "fr",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "bank-robbery",
+      "locale": "fr",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "bank-robbery",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "baseball",
+      "locale": "fr",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "basket-battle",
+      "locale": "fr",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "basket-champ",
+      "locale": "fr",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "basket-random",
+      "locale": "fr",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "basketball-legends",
+      "locale": "fr",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "basketball-master-2",
+      "locale": "fr",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "basketball-serial-shooter",
+      "locale": "fr",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "big-shark",
+      "locale": "fr",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "big-shot-boxing",
+      "locale": "fr",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "billiard-hustlers",
+      "locale": "fr",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "bird-sort-quest",
+      "locale": "fr",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "block-blaster-puzzle",
+      "locale": "fr",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "block-breaker-king",
+      "locale": "fr",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "block-champ",
+      "locale": "fr",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "block-dimension",
+      "locale": "fr",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "blockdrop",
+      "locale": "fr",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "blocks-puzzle",
+      "locale": "fr",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "bloons-td-5",
+      "locale": "fr",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "bloons-td-6",
+      "locale": "fr",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "bob-the-robber",
+      "locale": "fr",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "bolly-beat",
+      "locale": "fr",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "bombs-drops-physics-balls",
+      "locale": "fr",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "bonanza-shooter-bubble",
+      "locale": "fr",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "boxing-random",
+      "locale": "fr",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "brain-trainer",
+      "locale": "de",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "brain-trainer",
+      "locale": "fr",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "breaking-the-bank",
+      "locale": "de",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "breaking-the-bank",
+      "locale": "es",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "breaking-the-bank",
+      "locale": "fr",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "breaking-the-bank",
+      "locale": "ko",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "bricks-breaker-crush",
+      "locale": "fr",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "bricks-breaker",
+      "locale": "fr",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "classic-solitaire",
+      "locale": "de",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "confront",
+      "locale": "fr",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "cooking-mama",
+      "locale": "de",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "crash-bandicoot",
+      "locale": "fr",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "crazy-cars",
+      "locale": "fr",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "crescent-solitaire",
+      "locale": "fr",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "crossword-puzzles",
+      "locale": "fr",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "crossword",
+      "locale": "fr",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "crossyroad",
+      "locale": "fr",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "cut-the-rope",
+      "locale": "fr",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "daily-crossword",
+      "locale": "fr",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "daily-sudoku",
+      "locale": "fr",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "dandyrunki-retake",
+      "locale": "de",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "dandyrunki-retake",
+      "locale": "es",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "dandyrunki-retake",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "dandyrunki-retake",
+      "locale": "ko",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "descent",
+      "locale": "fr",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "eggy-car",
+      "locale": "fr",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "elastic-man",
+      "locale": "fr",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "electron-dash",
+      "locale": "fr",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "fiddlebops-sprunki",
+      "locale": "de",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "fiddlebops-sprunki",
+      "locale": "es",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "fiddlebops-sprunki",
+      "locale": "fr",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "fiddlebops-sprunki",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "fiddlebops-sprunki",
+      "locale": "ko",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "foosball-cup-world",
+      "locale": "ko",
+      "section": "controls",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "football-stars",
+      "locale": "ko",
+      "section": "controls",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "geometry-dash-wave",
+      "locale": "de",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "geometry-dash-wave",
+      "locale": "es",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "geometry-dash-wave",
+      "locale": "fr",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "geometry-dash-wave",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "geometry-dash-wave",
+      "locale": "ko",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "incredibox-sprinkle",
+      "locale": "es",
+      "section": "controls",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "incredibox-sprinkle",
+      "locale": "fr",
+      "section": "controls",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "mahjong",
+      "locale": "ja",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "mahjongg-candy",
+      "locale": "es",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "mahjongg-candy",
+      "locale": "ko",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "mahjongg-solitaire",
+      "locale": "es",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "mahjongg-solitaire",
+      "locale": "ko",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "make-it-meme",
+      "locale": "ja",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "minecraft",
+      "locale": "de",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "minecraft",
+      "locale": "ja",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "minesweeper",
+      "locale": "de",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "minesweeper",
+      "locale": "fr",
+      "section": "faq",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "minesweeper",
+      "locale": "ja",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "mini-crossword",
+      "locale": "de",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "mini-crossword",
+      "locale": "fr",
+      "section": "faq",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "mini-crossword",
+      "locale": "ja",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "monkey-mart",
+      "locale": "de",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "monkey-mart",
+      "locale": "fr",
+      "section": "faq",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "monkey-mart",
+      "locale": "ja",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "monopoly",
+      "locale": "de",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "monopoly",
+      "locale": "ja",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "moto-x3m",
+      "locale": "de",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "moto-x3m",
+      "locale": "fr",
+      "section": "faq",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "moto-x3m",
+      "locale": "ja",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "moto-x3m",
+      "locale": "ko",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "mountayonnaise",
+      "locale": "ja",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "moving-truck",
+      "locale": "de",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "moving-truck",
+      "locale": "fr",
+      "section": "faq",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "moving-truck",
+      "locale": "ja",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "murder",
+      "locale": "de",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "murder",
+      "locale": "ja",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "murder",
+      "locale": "ko",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "night-watchman",
+      "locale": "de",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "night-watchman",
+      "locale": "ja",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "night-watchman",
+      "locale": "ko",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "one-line",
+      "locale": "de",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "one-line",
+      "locale": "fr",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "one-line",
+      "locale": "ja",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "only-up",
+      "locale": "de",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "only-up",
+      "locale": "fr",
+      "section": "faq",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "only-up",
+      "locale": "ja",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "only-up",
+      "locale": "ko",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "ovo-dimensions",
+      "locale": "de",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "ovo-dimensions",
+      "locale": "fr",
+      "section": "faq",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "ovo-dimensions",
+      "locale": "ja",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "ovo-dimensions",
+      "locale": "ko",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "ovo",
+      "locale": "de",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "ovo",
+      "locale": "fr",
+      "section": "faq",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "ovo",
+      "locale": "ja",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "ovo",
+      "locale": "ko",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "pac-man",
+      "locale": "de",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "pac-man",
+      "locale": "ja",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "pac-man",
+      "locale": "ko",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "pacman-30th-anniversary",
+      "locale": "de",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "pacman-30th-anniversary",
+      "locale": "fr",
+      "section": "faq",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "pacman-30th-anniversary",
+      "locale": "ja",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "pacman-30th-anniversary",
+      "locale": "ko",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "paper-io",
+      "locale": "de",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "paper-io",
+      "locale": "ja",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "paper-io",
+      "locale": "ko",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "paper-minecraft",
+      "locale": "de",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "paper-minecraft",
+      "locale": "ja",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "paper-minecraft",
+      "locale": "ko",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "ping-pong",
+      "locale": "de",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "ping-pong",
+      "locale": "fr",
+      "section": "faq",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "ping-pong",
+      "locale": "ja",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "ping-pong",
+      "locale": "ko",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "pixel-shooter",
+      "locale": "de",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "pixel-shooter",
+      "locale": "fr",
+      "section": "faq",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "pixel-shooter",
+      "locale": "ja",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "pixel-shooter",
+      "locale": "ko",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "pokemon-emerald",
+      "locale": "de",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "pokemon-emerald",
+      "locale": "fr",
+      "section": "faq",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "pokemon-emerald",
+      "locale": "ja",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "pokemon-emerald",
+      "locale": "ko",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "pokemon-fire-red",
+      "locale": "de",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "pokemon-fire-red",
+      "locale": "fr",
+      "section": "faq",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "pokemon-fire-red",
+      "locale": "ja",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "pokemon-fire-red",
+      "locale": "ko",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "pou",
+      "locale": "de",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "pou",
+      "locale": "fr",
+      "section": "faq",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "pou",
+      "locale": "ja",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "pou",
+      "locale": "ko",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "puppet-master",
+      "locale": "de",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "puppet-master",
+      "locale": "fr",
+      "section": "faq",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "puppet-master",
+      "locale": "ja",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "puppet-master",
+      "locale": "ko",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "qwop",
+      "locale": "de",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "qwop",
+      "locale": "fr",
+      "section": "faq",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "qwop",
+      "locale": "fr",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "qwop",
+      "locale": "ja",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "qwop",
+      "locale": "ko",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "raft-wars",
+      "locale": "de",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "raft-wars",
+      "locale": "fr",
+      "section": "faq",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "raft-wars",
+      "locale": "ja",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "raft-wars",
+      "locale": "ko",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "ragdoll-archers",
+      "locale": "de",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "ragdoll-archers",
+      "locale": "fr",
+      "section": "faq",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "ragdoll-archers",
+      "locale": "ja",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "ragdoll-archers",
+      "locale": "ko",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "red-ball-4",
+      "locale": "de",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "red-ball-4",
+      "locale": "ja",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "red-ball-4",
+      "locale": "ko",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "red-ball",
+      "locale": "de",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "red-ball",
+      "locale": "fr",
+      "section": "faq",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "red-ball",
+      "locale": "ja",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "red-ball",
+      "locale": "ko",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "retro-bowl",
+      "locale": "de",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "retro-bowl",
+      "locale": "fr",
+      "section": "faq",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "retro-bowl",
+      "locale": "ja",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "retro-bowl",
+      "locale": "ko",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "rocket-league",
+      "locale": "de",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "rocket-league",
+      "locale": "fr",
+      "section": "faq",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "rocket-league",
+      "locale": "ja",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "rocket-league",
+      "locale": "ko",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "rooftop-snipers-2",
+      "locale": "de",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "rooftop-snipers-2",
+      "locale": "fr",
+      "section": "faq",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "rooftop-snipers-2",
+      "locale": "ja",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "rooftop-snipers-2",
+      "locale": "ko",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "rooftop-snipers",
+      "locale": "de",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "rooftop-snipers",
+      "locale": "fr",
+      "section": "faq",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "rooftop-snipers",
+      "locale": "ja",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "rooftop-snipers",
+      "locale": "ko",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "rotate",
+      "locale": "de",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "rotate",
+      "locale": "fr",
+      "section": "faq",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "rotate",
+      "locale": "ja",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "rotate",
+      "locale": "ko",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "run-3",
+      "locale": "de",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "run-3",
+      "locale": "fr",
+      "section": "faq",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "run-3",
+      "locale": "ja",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "run-3",
+      "locale": "ko",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "shooter",
+      "locale": "de",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "shooter",
+      "locale": "fr",
+      "section": "faq",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "shooter",
+      "locale": "ja",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "shooter",
+      "locale": "ko",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "shootz",
+      "locale": "de",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "shootz",
+      "locale": "fr",
+      "section": "faq",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "shootz",
+      "locale": "ja",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "shootz",
+      "locale": "ko",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "slice-master",
+      "locale": "de",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "slice-master",
+      "locale": "fr",
+      "section": "faq",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "slice-master",
+      "locale": "ja",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "slice-master",
+      "locale": "ko",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "slippery-slope",
+      "locale": "de",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "slippery-slope",
+      "locale": "fr",
+      "section": "faq",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "slippery-slope",
+      "locale": "ja",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "slippery-slope",
+      "locale": "ko",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "slither-io",
+      "locale": "de",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "slither-io",
+      "locale": "fr",
+      "section": "faq",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "slither-io",
+      "locale": "ja",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "slither-io",
+      "locale": "ko",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "slope-2",
+      "locale": "de",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "slope-2",
+      "locale": "fr",
+      "section": "faq",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "slope-2",
+      "locale": "ja",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "slope-2",
+      "locale": "ko",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "slope-3",
+      "locale": "de",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "slope-3",
+      "locale": "fr",
+      "section": "faq",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "slope-3",
+      "locale": "ja",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "slope-3",
+      "locale": "ko",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "slope",
+      "locale": "de",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "slope",
+      "locale": "fr",
+      "section": "faq",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "slope",
+      "locale": "ja",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "slope",
+      "locale": "ko",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "smash-karts",
+      "locale": "de",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "smash-karts",
+      "locale": "fr",
+      "section": "faq",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "smash-karts",
+      "locale": "ja",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "smash-karts",
+      "locale": "ko",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "snake-game",
+      "locale": "de",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "snake-game",
+      "locale": "fr",
+      "section": "faq",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "snake-game",
+      "locale": "ja",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "snake-game",
+      "locale": "ko",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "snake-io",
+      "locale": "de",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "snake-io",
+      "locale": "es",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "snake-io",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "snake-io",
+      "locale": "ko",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "snake",
+      "locale": "de",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "snake",
+      "locale": "es",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "snake",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "snake",
+      "locale": "ko",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "snow-rider-3d",
+      "locale": "de",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "snow-rider-3d",
+      "locale": "es",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "snow-rider-3d",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "snow-rider-3d",
+      "locale": "ko",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "soccar",
+      "locale": "es",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "soccar",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "soccar",
+      "locale": "ko",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "soccer-random",
+      "locale": "es",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "soccer-random",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "soccer-random",
+      "locale": "ko",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "solitaire-klondike",
+      "locale": "es",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "solitaire-klondike",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "solitaire-klondike",
+      "locale": "ko",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "solitaire",
+      "locale": "fr",
+      "section": "faq",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "spacebar-clicker",
+      "locale": "es",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "spacebar-clicker",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "spacebar-clicker",
+      "locale": "ko",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "splatoon-3",
+      "locale": "es",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "splatoon-3",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "splatoon-3",
+      "locale": "ko",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "sprunki-basical",
+      "locale": "de",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "sprunki-christmas",
+      "locale": "de",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "sprunki-interactive-beta",
+      "locale": "fr",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "sprunki-interactive-beta",
+      "locale": "ko",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "sprunki-like-minecraft",
+      "locale": "de",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "sprunki-like-minecraft",
+      "locale": "es",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "sprunki-parasite-parasprunki-15",
+      "locale": "de",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "sprunki-parasite-parasprunki-15",
+      "locale": "ja",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "sprunki-phase-5",
+      "locale": "de",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "sprunki-phase-5",
+      "locale": "es",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "sprunki-phase-5",
+      "locale": "fr",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "sprunki-phase-5",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "sprunki-phase-5",
+      "locale": "ko",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "sprunki-play-random",
+      "locale": "ja",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "sprunki-retake-bonus-characters",
+      "locale": "de",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "sprunki-retake-bonus-characters",
+      "locale": "es",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "sprunki-retake-bonus-characters",
+      "locale": "fr",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "sprunki-retake-bonus-characters",
+      "locale": "ko",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "sprunki-retake-bonus-characters",
+      "locale": "zh",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "sprunkle-bops",
+      "locale": "de",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "sprunkle-bops",
+      "locale": "es",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "sprunkle-bops",
+      "locale": "fr",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "sprunkle-bops",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "sprunkle-bops",
+      "locale": "ko",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "sprunkle-bops",
+      "locale": "zh",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "sprunkr-but-sprunki",
+      "locale": "ja",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "stack-bounce",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "stars-aligned",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "steal-a-brainrot",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "stealing-the-diamond",
+      "locale": "de",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "stealing-the-diamond",
+      "locale": "es",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "stealing-the-diamond",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "stealing-the-diamond",
+      "locale": "ko",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "stealing-the-diamond",
+      "locale": "zh",
+      "section": "controls",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "stealing-the-diamond",
+      "locale": "zh",
+      "section": "faq",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "stealing-the-diamond",
+      "locale": "zh",
+      "section": "introduction",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "stealing-the-diamond",
+      "locale": "zh",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "stick-fight",
+      "locale": "es",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "stick-fight",
+      "locale": "fr",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "stick-fight",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "stick-fight",
+      "locale": "ko",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "stick-fighter",
+      "locale": "es",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "stick-fighter",
+      "locale": "fr",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "stick-fighter",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "stick-fighter",
+      "locale": "ko",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "stick-war",
+      "locale": "es",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "stick-war",
+      "locale": "fr",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "stick-war",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "stick-war",
+      "locale": "ko",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "stickman-fighter-mega",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "stickman-hook",
+      "locale": "de",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "stickman-hook",
+      "locale": "fr",
+      "section": "faq",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "stickman-hook",
+      "locale": "ja",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "stickman-hook",
+      "locale": "ko",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "stickman-hook",
+      "locale": "zh",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "stud-rider",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "subway-jumper",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "sudoku-plus",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "sudoku",
+      "locale": "de",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "sudoku",
+      "locale": "fr",
+      "section": "faq",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "sudoku",
+      "locale": "ja",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "sudoku",
+      "locale": "ko",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "sugar-heroes",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "sum-2048",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "super-bowling-mania",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "super-brick-builder",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "super-smash-flash-2-v08",
+      "locale": "es",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "super-smash-flash-2-v08",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "super-smash-flash-2-v08",
+      "locale": "ko",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "super-smash-flash-2-v08",
+      "locale": "zh",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "super-smash-flash-2-v09",
+      "locale": "es",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "super-smash-flash-2-v09",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "super-smash-flash-2-v09",
+      "locale": "ko",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "super-smash-flash",
+      "locale": "es",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "super-smash-flash",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "super-smash-flash",
+      "locale": "ko",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "super-smash-flash",
+      "locale": "zh",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "super-sprunki-brasil",
+      "locale": "ja",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "superhot",
+      "locale": "de",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "superhot",
+      "locale": "fr",
+      "section": "faq",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "superhot",
+      "locale": "ja",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "superhot",
+      "locale": "ko",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "superhot",
+      "locale": "zh",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "supernova",
+      "locale": "zh",
+      "section": "introduction",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "survivor-legends",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "sushi-grab",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "table-tennis",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "tangram-puzzle",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "tank-trouble",
+      "locale": "de",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "tank-trouble",
+      "locale": "fr",
+      "section": "faq",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "tank-trouble",
+      "locale": "fr",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "tank-trouble",
+      "locale": "ja",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "tank-trouble",
+      "locale": "ko",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "tank-trouble",
+      "locale": "zh",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "tanuki-sunset",
+      "locale": "es",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "tanuki-sunset",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "tanuki-sunset",
+      "locale": "ko",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "tap-tap-shots",
+      "locale": "es",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "tap-tap-shots",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "tap-tap-shots",
+      "locale": "ko",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "temple-run-2",
+      "locale": "de",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "temple-run-2",
+      "locale": "fr",
+      "section": "faq",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "temple-run-2",
+      "locale": "fr",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "temple-run-2",
+      "locale": "ja",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "temple-run-2",
+      "locale": "ko",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "temple-run-2",
+      "locale": "zh",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "tennis",
+      "locale": "es",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "tennis",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "tennis",
+      "locale": "ko",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "text-twist-2",
+      "locale": "es",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "text-twist-2",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "text-twist-2",
+      "locale": "ko",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "text-twist",
+      "locale": "es",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "text-twist",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "text-twist",
+      "locale": "ko",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "the-binding-of-isaac",
+      "locale": "es",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "the-binding-of-isaac",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "the-binding-of-isaac",
+      "locale": "ko",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "the-binding-of-isaac",
+      "locale": "zh",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "the-haze-pixelbox",
+      "locale": "de",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "the-haze-pixelbox",
+      "locale": "es",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "the-haze-pixelbox",
+      "locale": "fr",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "the-haze-pixelbox",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "the-haze-pixelbox",
+      "locale": "ko",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "the-hidden-antique-shop",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "the-hidden-antique-shop",
+      "locale": "ko",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "the-jigsaw-game",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "the-pillar",
+      "locale": "es",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "the-pillar",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "the-pillar",
+      "locale": "ko",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "the-sea-rush",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "there-is-no-game",
+      "locale": "es",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "there-is-no-game",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "there-is-no-game",
+      "locale": "ko",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "there-is-no-game",
+      "locale": "zh",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "thief-puzzle",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "thruline",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "tic-tac-toe-mania",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "tic-tac-toe",
+      "locale": "de",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "tic-tac-toe",
+      "locale": "fr",
+      "section": "faq",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "tic-tac-toe",
+      "locale": "fr",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "tic-tac-toe",
+      "locale": "ja",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "tic-tac-toe",
+      "locale": "zh",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "tiger-run",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "tile-guru",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "tile-journey",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "tile-puzzle",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "tiles-of-egypt",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "tiletopia",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "timber-guy",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "tiny-fishing",
+      "locale": "de",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "tiny-fishing",
+      "locale": "fr",
+      "section": "faq",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "tiny-fishing",
+      "locale": "fr",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "tiny-fishing",
+      "locale": "ja",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "tiny-fishing",
+      "locale": "zh",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "tiny-football-cup",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "tnt-bomb",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "tomb-of-the-mask",
+      "locale": "es",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "tomb-of-the-mask",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "tomb-of-the-mask",
+      "locale": "ko",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "totemia-cursed-marbles",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "tower-crash-3d",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "tower-mania",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "tractor-mania",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "traffic-tom",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "train-miner",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "trap-the-cat",
+      "locale": "de",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "trap-the-cat",
+      "locale": "fr",
+      "section": "faq",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "trap-the-cat",
+      "locale": "fr",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "trap-the-cat",
+      "locale": "ja",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "trap-the-cat",
+      "locale": "zh",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "tricky-puzzles",
+      "locale": "es",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "tricky-puzzles",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "tricky-puzzles",
+      "locale": "ko",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "tripeaks-solitaire",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "tropical-merge",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "truck-trials",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "tumble-towers",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "tunnel-rush",
+      "locale": "de",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "tunnel-rush",
+      "locale": "fr",
+      "section": "faq",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "tunnel-rush",
+      "locale": "fr",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "tunnel-rush",
+      "locale": "ja",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "tunnel-rush",
+      "locale": "zh",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "ultimate-knife-smash",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "unblock-that",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "uncle-ahmed",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "uno",
+      "locale": "de",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "uno",
+      "locale": "fr",
+      "section": "faq",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "uno",
+      "locale": "fr",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "uno",
+      "locale": "ja",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "uno",
+      "locale": "zh",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "unpark-me",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "veggies-cut",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "war-of-sticks",
+      "locale": "es",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "war-of-sticks",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "war-of-sticks",
+      "locale": "ko",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "we-become-what-we-behold",
+      "locale": "es",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "we-become-what-we-behold",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "we-become-what-we-behold",
+      "locale": "ko",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "western-sniper",
+      "locale": "es",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "western-sniper",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "whack-your-boss",
+      "locale": "es",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "whack-your-boss",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "whack-your-boss",
+      "locale": "ko",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "wheely",
+      "locale": "es",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "wheely",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "wheely",
+      "locale": "ko",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "who-is",
+      "locale": "es",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "who-is",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "who-is",
+      "locale": "ko",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "wood-block-match",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "word-connect",
+      "locale": "es",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "word-connect",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "word-connect",
+      "locale": "ko",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "word-detector",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "word-pics",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "word-scramble",
+      "locale": "es",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "word-scramble",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "word-scramble",
+      "locale": "ko",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "word-search-2",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "word-search",
+      "locale": "de",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "word-search",
+      "locale": "fr",
+      "section": "faq",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "word-search",
+      "locale": "fr",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "word-search",
+      "locale": "ja",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "word-search",
+      "locale": "zh",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "word-wipe",
+      "locale": "es",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "word-wipe",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "word-wipe",
+      "locale": "ko",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "wordle",
+      "locale": "de",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "wordle",
+      "locale": "fr",
+      "section": "faq",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "wordle",
+      "locale": "fr",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "wordle",
+      "locale": "ja",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "wordle",
+      "locale": "zh",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "wordler",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "words-challenge",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "words-of-magic",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "worlds-hardest-game",
+      "locale": "de",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "worlds-hardest-game",
+      "locale": "fr",
+      "section": "faq",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "worlds-hardest-game",
+      "locale": "fr",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "worlds-hardest-game",
+      "locale": "ja",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "worlds-hardest-game",
+      "locale": "zh",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "yohoho-io",
+      "locale": "es",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "yohoho-io",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "yohoho-io",
+      "locale": "ko",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "yojou-sprunki-mustard",
+      "locale": "ja",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "yummy-taco",
+      "locale": "es",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "yummy-taco",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "yummy-taco",
+      "locale": "ko",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "yummy-taco",
+      "locale": "zh",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "zombie-gun",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "zombie-hunter-survival",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "zombie-ragdoll",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "zoo-boom",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    },
+    {
+      "slug": "zumba-ocean",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-29T10:45:37.612Z"
+    }
+  ]
+}

@@ -33,6 +33,7 @@ i18n-other-locales-english-residue-report.urls.txt
 i18n-terminology-report.json
 i18n-terminology-report.csv
 i18n-terminology-report.urls.txt
+i18n-section-markers-report.json
 
 # other one-off validation outputs (generated)
 page-structure-validation-report.md
