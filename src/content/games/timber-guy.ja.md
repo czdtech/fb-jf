@@ -10,7 +10,7 @@ tags:
   - timing
   - casual
 locale: ja
-releaseDate: 2025-10-18
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-10-18
 
 Timber Guyは、木こりを操作して木を切るシンプルだが中毒性のあるアーケードゲームです。枝を避けながらタイミングよく木を切り続けましょう。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
  - **木を切る：** 左右をタップして木を切ります

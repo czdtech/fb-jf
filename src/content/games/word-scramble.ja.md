@@ -10,7 +10,7 @@ tags:
   - word
   - anagram
 locale: ja
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-08-16
 
 Word Scrambleは、シャッフルされた文字を並べ替えて単語を作るアナグラムパズルゲームです。素早く正しい単語を見つけましょう。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
  - **文字を並べ替える：** シャッフルされた文字を見ます

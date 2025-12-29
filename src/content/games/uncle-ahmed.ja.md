@@ -1,7 +1,8 @@
 ---
 title: Uncle Ahmed
 description: Uncle Ahmedは、アドベンチャーパズルゲームです。アンクルアーメッドを助けて謎を解きましょう。
-iframeSrc: 'https://uncleahmed.h5games.usercontent.goog/v/31ca380f-5493-4371-b5ac-5c3c2da67626/'
+iframeSrc: >-
+  https://uncleahmed.h5games.usercontent.goog/v/31ca380f-5493-4371-b5ac-5c3c2da67626/
 thumbnail: /new-images/thumbnails/uncle-ahmed.jpg
 urlstr: uncle-ahmed
 score: 4.2/5  (1950 votes)
@@ -10,7 +11,7 @@ tags:
   - puzzle
   - story
 locale: ja
-releaseDate: 2025-10-17
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +19,7 @@ releaseDate: 2025-10-17
 
 Uncle Ahmedは、ストーリー駆動のアドベンチャーパズルゲームです。アンクルアーメッドを助けて、パズルを解き、物語を進めましょう。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
  - **ストーリーを進める：** 物語を読んで理解します

@@ -1,7 +1,8 @@
 ---
 title: Tiles of Egypt
 description: Tiles of Egyptは、古代エジプトをテーマにしたタイルマッチングゲームです。エジプトのタイルを揃えて謎を解きましょう。
-iframeSrc: 'https://tilesofegypt.h5games.usercontent.goog/v/dd964fa3-8999-4546-a4a0-d55a0cc72248/'
+iframeSrc: >-
+  https://tilesofegypt.h5games.usercontent.goog/v/dd964fa3-8999-4546-a4a0-d55a0cc72248/
 thumbnail: /new-images/thumbnails/tiles-of-egypt.jpg
 urlstr: tiles-of-egypt
 score: 4.4/5  (2350 votes)
@@ -10,7 +11,7 @@ tags:
   - matching
   - egypt
 locale: ja
-releaseDate: 2025-10-17
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +19,7 @@ releaseDate: 2025-10-17
 
 Tiles of Egyptは、古代エジプトをテーマにした美しいタイルマッチングパズルゲームです。同じタイルを見つけて揃え、エジプトの謎を解き明かしましょう。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
  - **タイルをマッチ：** 同じエジプトシンボルのタイルを見つけます

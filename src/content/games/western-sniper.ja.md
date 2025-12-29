@@ -10,7 +10,7 @@ tags:
   - western
   - sniper
 locale: ja
-releaseDate: 2025-10-18
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-10-18
 
 Western Sniperは、西部開拓時代を舞台にしたスナイパーシューティングゲームです。正確に狙いを定めて悪党を倒し、街を守りましょう。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
  - **狙いを定める：** スコープを使って正確に狙います

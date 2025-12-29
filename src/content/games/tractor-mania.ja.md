@@ -10,7 +10,7 @@ tags:
   - physics
   - driving
 locale: ja
-releaseDate: 2025-10-18
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-10-18
 
 Tractor Maniaは、トラクターを操作してでこぼこの地形を走破する物理ベースのレーシングゲームです。バランスを保ちながらゴールを目指しましょう。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
  - **トラクターを運転：** アクセルとブレーキを操作します

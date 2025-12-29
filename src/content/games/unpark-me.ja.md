@@ -10,7 +10,7 @@ tags:
   - logic
   - parking
 locale: ja
-releaseDate: 2025-10-17
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-10-17
 
 Unpark Meは、混雑した駐車場から赤い車を脱出させるロジックパズルゲームです。他の車を動かして赤い車が出口に到達できるようにしましょう。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
  - **車を動かす：** 車を前後にスライドさせます

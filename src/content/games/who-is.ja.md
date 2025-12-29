@@ -10,7 +10,7 @@ tags:
   - brain
   - detective
 locale: ja
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-08-16
 
 Who Is?は、観察力と推理力をテストするパズルゲームです。各レベルで謎を解き、正しい答えを見つけましょう。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
 

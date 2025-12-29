@@ -10,7 +10,7 @@ tags:
   - mining
   - upgrade
 locale: ja
-releaseDate: 2025-10-18
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-10-18
 
 Train Minerは、列車を操作して鉱山で資源を採掘し、列車をアップグレードするシミュレーションゲームです。効率的に資源を集めて列車を強化しましょう。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
  - **列車を運転：** 鉱山を通って走ります

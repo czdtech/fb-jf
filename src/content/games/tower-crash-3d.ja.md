@@ -1,7 +1,8 @@
 ---
 title: Tower Crash 3D
 description: Tower Crash 3Dは、タワーを破壊する3Dゲームです。ボールを落として塔を崩しましょう。
-iframeSrc: 'https://towercrash3d.h5games.usercontent.goog/v/7c54afc1-3ca4-4121-a52a-9ea74e30f0d7/'
+iframeSrc: >-
+  https://towercrash3d.h5games.usercontent.goog/v/7c54afc1-3ca4-4121-a52a-9ea74e30f0d7/
 thumbnail: /new-images/thumbnails/tower-crash-3d.jpg
 urlstr: tower-crash-3d
 score: 4.3/5  (2100 votes)
@@ -10,7 +11,7 @@ tags:
   - arcade
   - casual
 locale: ja
-releaseDate: 2025-10-17
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +19,7 @@ releaseDate: 2025-10-17
 
 Tower Crash 3Dは、ボールを落として回転する塔を破壊するシンプルだが中毒性のある3Dゲームです。黒い部分を避けながらタワーを崩しましょう。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
  - **ボールを落とす：** タップしてボールを落下させます

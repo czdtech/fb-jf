@@ -1,7 +1,8 @@
 ---
 title: Tunnel Rush
 description: Tunnel Rushは、高速トンネルラッシュゲームです。障害物を避けてトンネルを駆け抜けましょう。
-iframeSrc: 'https://szhong.4399.com/4399swf//upload_swf/ftp44/gamehwq/20230830/12a/index.html'
+iframeSrc: >-
+  https://szhong.4399.com/4399swf//upload_swf/ftp44/gamehwq/20230830/12a/index.html
 thumbnail: /new-images/thumbnails/tunnel-rush.jpg
 urlstr: tunnel-rush
 score: 4.6/5  (919 votes)
@@ -10,7 +11,7 @@ tags:
   - endless
   - speed
 locale: ja
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +19,7 @@ releaseDate: 2025-08-16
 
 Tunnel Rushは、カラフルなトンネルを高速で駆け抜ける息をのむようなアーケードゲームです。左右に動いて障害物を避け、できるだけ遠くまで進みましょう。
 
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイガイド
 
  - **高速移動：** トンネルを高速で進みます

@@ -10,7 +10,7 @@ tags:
   - stacking
   - casual
 locale: ja
-releaseDate: 2025-10-18
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-10-18
 
 Tower Maniaは、ブロックを正確に積み上げて高いタワーを建設するアーケードゲームです。完璧なタイミングでブロックを置き、できるだけ高く積み上げましょう。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
  - **ブロックを配置：** タイミングよくタップして置きます

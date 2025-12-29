@@ -10,7 +10,7 @@ tags:
   - block
   - strategy
 locale: ja
-releaseDate: 2025-10-18
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-10-18
 
 Wood Block Matchは、木製ブロックを配置して列や行をクリアするパズルゲームです。戦略的にブロックを置いて高得点を目指しましょう。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
  - **ブロックを配置：** グリッドにブロックを置きます

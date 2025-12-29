@@ -10,7 +10,7 @@ tags:
   - casual
   - relaxing
 locale: ja
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-08-16
 
 Tiny Fishingは、シンプルで楽しい釣りゲームです。釣り竿を投げて魚を釣り、お金を稼いで装備をアップグレードしましょう。
 
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイガイド
 
  - **釣り竿を投げる：** マウスを動かして釣り竿を投げます

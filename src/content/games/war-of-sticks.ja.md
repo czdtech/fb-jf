@@ -10,7 +10,7 @@ tags:
   - war
   - stickman
 locale: ja
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-08-16
 
 War of Sticksは、スティックマン軍隊を指揮して敵と戦う戦略ゲームです。ユニットを配置し、リソースを管理し、敵の基地を破壊しましょう。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
  - **ユニット配置：** 様々なユニットを訓練して配置します

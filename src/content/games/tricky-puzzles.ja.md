@@ -10,7 +10,7 @@ tags:
   - brain
   - logic
 locale: ja
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-08-16
 
 Tricky Puzzlesは、常識を覆すトリッキーなパズルゲームです。明白な解決策は間違っていることが多く、箱の外で考える必要があります。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
 

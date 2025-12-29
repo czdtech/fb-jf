@@ -10,7 +10,7 @@ tags:
   - shooter
   - match-3
 locale: ja
-releaseDate: 2025-10-17
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-10-17
 
 Totemia Cursed Marblesは、古代トーテムをテーマにしたマーブルシューターパズルゲームです。同じ色のボールを3つ以上揃えて消し、ボールが穴に到達する前にクリアしましょう。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
  - **ボールを発射：** トーテムからボールを撃ちます

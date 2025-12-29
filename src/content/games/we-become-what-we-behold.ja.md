@@ -10,7 +10,7 @@ tags:
   - story
   - social
 locale: ja
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-08-16
 
 We Become What We Beholdは、メディアと社会行動の関係を探るユニークな実験的ゲームです。カメラで写真を撮り、メディアが人々の行動にどう影響するかを観察します。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
 

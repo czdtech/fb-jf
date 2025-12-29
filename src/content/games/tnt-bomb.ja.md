@@ -1,7 +1,8 @@
 ---
 title: TNT Bomb
 description: TNT Bombは、爆弾パズルゲームです。TNTを配置して建物を爆破しましょう。
-iframeSrc: 'https://tntbomb.h5games.usercontent.goog/v/78fb3628-2b9a-4ddc-86ef-7c46021357a2/'
+iframeSrc: >-
+  https://tntbomb.h5games.usercontent.goog/v/78fb3628-2b9a-4ddc-86ef-7c46021357a2/
 thumbnail: /new-images/thumbnails/tnt-bomb.jpg
 urlstr: tnt-bomb
 score: 4.3/5  (2200 votes)
@@ -10,7 +11,7 @@ tags:
   - physics
   - destruction
 locale: ja
-releaseDate: 2025-10-17
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +19,7 @@ releaseDate: 2025-10-17
 
 TNT Bombは、物理エンジンを使った爆破パズルゲームです。TNT爆弾を戦略的に配置して建物を破壊し、目標を達成しましょう。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
  - **TNTを配置：** 爆弾を戦略的な位置に置きます

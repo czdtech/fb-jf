@@ -10,7 +10,7 @@ tags:
   - word
   - search
 locale: ja
-releaseDate: 2025-10-17
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-10-17
 
 Word Detectorは、グリッド内の隠された単語を見つける単語検索パズルゲームです。すべての単語を見つけてレベルをクリアしましょう。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
  - **単語を探す：** グリッド内の単語を見つけます

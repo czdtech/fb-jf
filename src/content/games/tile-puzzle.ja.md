@@ -10,7 +10,7 @@ tags:
   - sliding
   - classic
 locale: ja
-releaseDate: 2025-10-17
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-10-17
 
 Tile Puzzleは、クラシックなスライディングタイルパズルゲームです。タイルをスライドさせて正しい順序に並べ、画像を完成させましょう。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
  - **タイルをスライド：** 空きスペースにタイルを移動させます

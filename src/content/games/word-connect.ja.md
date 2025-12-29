@@ -10,7 +10,7 @@ tags:
   - word
   - brain
 locale: ja
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-08-16
 
 Word Connectは、文字をつないで単語を作る楽しい単語パズルゲームです。隠された単語をすべて見つけて、語彙力をテストしましょう。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
  - **文字をつなぐ：** 文字をスワイプしてつなぎます

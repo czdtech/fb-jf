@@ -10,7 +10,7 @@ tags:
   - stress relief
   - humor
 locale: ja
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-08-16
 
 Whack Your Bossは、オフィスでのストレスを発散するユーモラスなゲームです。オフィスにあるアイテムを使って、様々な創造的な方法を発見しましょう。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
 

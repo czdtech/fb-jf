@@ -10,7 +10,7 @@ tags:
   - casual
   - slicing
 locale: ja
-releaseDate: 2025-10-18
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-10-18
 
 Veggies Cutは、シンプルで楽しい野菜切りゲームです。タイミングよくスワイプして野菜をスライスし、高得点を目指しましょう。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
  - **スワイプして切る：** 画面をスワイプして野菜を切ります

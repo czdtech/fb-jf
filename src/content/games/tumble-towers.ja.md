@@ -10,7 +10,7 @@ tags:
   - physics
   - strategy
 locale: ja
-releaseDate: 2025-10-18
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-10-18
 
 Tumble Towersは、ジェンガスタイルのブロック引き抜きゲームです。タワーが倒れないように慎重にブロックを引き抜き、できるだけ長く続けましょう。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
  - **ブロックを選ぶ：** 引き抜くブロックを選びます

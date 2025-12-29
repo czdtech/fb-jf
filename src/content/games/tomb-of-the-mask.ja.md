@@ -10,7 +10,7 @@ tags:
   - maze
   - action
 locale: ja
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-08-16
 
 Tomb of the Maskは、古代の墓の迷路を探索する速いペースのアーケードゲームです。マスクの力で壁に沿って移動し、宝物を集め、罠を避けましょう。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
  - **壁に沿って移動：** スワイプして壁伝いに進みます

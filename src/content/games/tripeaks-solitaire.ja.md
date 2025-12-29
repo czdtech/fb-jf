@@ -10,7 +10,7 @@ tags:
   - cards
   - strategy
 locale: ja
-releaseDate: 2025-10-17
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-10-17
 
 TriPeaks Solitaireは、3つのピラミッド型に配置されたカードを消していく人気のソリティアゲームです。連鎖を作って高得点を目指しましょう。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
  - **カードを選ぶ：** ベースカードより1つ大きいか小さいカードを選びます

@@ -10,7 +10,7 @@ tags:
   - city building
   - strategy
 locale: ja
-releaseDate: 2025-10-17
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-10-17
 
 Tiletopiaは、タイルを戦略的に配置して美しい街を構築するパズル戦略ゲームです。各タイルを最適な位置に配置して、調和のとれた都市を作りましょう。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
  - **タイルを配置：** 建物や道路のタイルを置きます

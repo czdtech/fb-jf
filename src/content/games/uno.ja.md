@@ -10,7 +10,7 @@ tags:
   - classic
   - multiplayer
 locale: ja
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-08-16
 
 UNOは、世界中で愛されているクラシックなカードゲームです。色または数字が一致するカードを出し、先に手札をすべてなくした人が勝ちです。
 
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイガイド
 
  - **カードを出す：** 場のカードと色または数字が一致するカードを出します

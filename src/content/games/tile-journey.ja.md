@@ -10,7 +10,7 @@ tags:
   - adventure
   - strategy
 locale: ja
-releaseDate: 2025-10-17
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-10-17
 
 Tile Journeyは、タイルを配置してパスを作成し、キャラクターをゴールまで導くパズルアドベンチャーゲームです。戦略的にタイルを並べましょう。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
  - **タイルを配置：** パスを作るためにタイルを置きます

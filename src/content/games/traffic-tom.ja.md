@@ -1,7 +1,8 @@
 ---
 title: Traffic Tom
 description: Traffic Tomは、道路横断ゲームです。車を避けて安全に道路を渡りましょう。
-iframeSrc: 'https://traffictom.h5games.usercontent.goog/v/7c1a9fb2-2097-4c14-b7b1-052d80d41adb/'
+iframeSrc: >-
+  https://traffictom.h5games.usercontent.goog/v/7c1a9fb2-2097-4c14-b7b1-052d80d41adb/
 thumbnail: /new-images/thumbnails/traffic-tom.jpg
 urlstr: traffic-tom
 score: 4.3/5  (2400 votes)
@@ -10,7 +11,7 @@ tags:
   - casual
   - timing
 locale: ja
-releaseDate: 2025-10-17
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +19,7 @@ releaseDate: 2025-10-17
 
 Traffic Tomは、忙しい道路を横断するタイミングゲームです。車を避けながら安全に道路を渡り、できるだけ遠くまで進みましょう。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
  - **前進：** 道路を渡って前進します

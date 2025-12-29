@@ -10,7 +10,7 @@ tags:
   - adventure
   - car
 locale: ja
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-08-16
 
 Wheelyは、可愛い赤い車が主人公のパズルアドベンチャーゲームです。パズルを解いて障害物を取り除き、Wheelyをゴールまで導きましょう。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
 

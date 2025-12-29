@@ -10,7 +10,7 @@ tags:
   - matching
   - relaxing
 locale: ja
-releaseDate: 2025-10-18
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-10-18
 
 Tile Guruは、リラックスできるタイルマッチングパズルゲームです。同じタイルを3つ見つけて揃え、ボードをクリアしましょう。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
  - **タイルを選択：** ボード上のタイルをタップします

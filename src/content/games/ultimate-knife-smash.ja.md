@@ -10,7 +10,7 @@ tags:
   - timing
   - casual
 locale: ja
-releaseDate: 2025-10-18
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-10-18
 
 Ultimate Knife Smashは、タイミングが重要なナイフ投げアーケードゲームです。回転する的にナイフを刺し、他のナイフに当たらないようにしましょう。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
  - **タイミングを計る：** 的の回転を観察します

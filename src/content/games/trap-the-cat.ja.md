@@ -10,7 +10,7 @@ tags:
   - strategy
   - logic
 locale: ja
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-08-16
 
 Trap the Catは、猫が六角形のグリッドから逃げないように囲むパズル戦略ゲームです。タイルをブロックして猫の逃げ道を塞ぎましょう。
 
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイガイド
 
  - **タイルをブロック：** タイルをクリックしてブロックします

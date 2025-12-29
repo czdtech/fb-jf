@@ -10,7 +10,7 @@ tags:
   - casual
   - tropical
 locale: ja
-releaseDate: 2025-10-18
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-10-18
 
 Tropical Mergeは、トロピカルな島を舞台にしたマージパズルゲームです。同じアイテムを合体させて新しいアイテムを作り、美しい楽園を構築しましょう。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
  - **アイテムをマージ：** 同じアイテムを3つ合わせて合体させます

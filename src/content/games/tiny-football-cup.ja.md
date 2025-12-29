@@ -10,7 +10,7 @@ tags:
   - football
   - arcade
 locale: ja
-releaseDate: 2025-10-18
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-10-18
 
 Tiny Football Cupは、シンプルで楽しいミニサッカーゲームです。小さなフィールドで速いペースの試合を楽しみ、トーナメントで優勝を目指しましょう。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
  - **プレイヤーを操作：** チームを動かします

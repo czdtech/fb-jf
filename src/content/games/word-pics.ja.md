@@ -10,7 +10,7 @@ tags:
   - word
   - picture
 locale: ja
-releaseDate: 2025-10-18
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-10-18
 
 Word Picsは、画像のヒントから単語を推測する楽しいパズルゲームです。4つの画像を見て、共通する単語を見つけましょう。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
  - **画像を観察：** 4つの画像を見ます
