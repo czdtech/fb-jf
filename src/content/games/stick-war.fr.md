@@ -18,6 +18,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 Stick War est un grand classique des jeux web. C’est un jeu de stratégie en temps réel où tu prends le contrôle de la nation de l’Ordre. Dans le monde d’Inamorta, chaque peuple est dévoué à sa propre technologie : ton objectif est de bâtir une armée, détruire la statue ennemie et conquérir les territoires.
 
+<!-- i18n:section:tips -->
 ### Bases du gameplay
 
 Le cœur du jeu repose sur la gestion des ressources et le commandement de ton armée.

@@ -1,11 +1,8 @@
 ---
 locale: fr
 urlstr: retro-bowl
-title: 'Retro Bowl'
-description: >-
-  Retro Bowl est un jeu de football américain rétro en 8‑bit où tu es à la fois
-  coach et quarterback : tu gères ton équipe, appelles les jeux, lances les
-  passes et tentes de mener ton club au titre.
+title: Retro Bowl
+description: "Retro Bowl est un jeu de football américain rétro en 8‑bit où tu es à la fois coach et quarterback\_: tu gères ton équipe, appelles les jeux, lances les passes et tentes de mener ton club au titre."
 iframeSrc: 'https://game316009.konggames.com/gamez/0031/6009/live/index.html'
 thumbnail: /new-images/thumbnails/retro-bowl.jpg
 tags:
@@ -56,6 +53,7 @@ offrir une expérience de foot US complète.
 *   **Choix tactiques :** sélectionne les schémas offensifs et défensifs
     pendant les matchs.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions
 
 1.  **Q : Comment améliorer la précision de mes passes ?**  

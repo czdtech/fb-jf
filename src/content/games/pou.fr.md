@@ -1,12 +1,8 @@
 ---
 locale: fr
 urlstr: pou
-title: 'Pou Game'
-description: >-
-  Pou Game est un jeu de simulation d’animal virtuel dans lequel tu adoptes et
-  t’occupes d’un petit extraterrestre nommé Pou : nourris‑le, lave‑le, joue
-  avec lui et personnalise son apparence pour le voir grandir et s’épanouir à
-  travers de nombreux mini‑jeux et activités.
+title: Pou Game
+description: "Pou Game est un jeu de simulation d’animal virtuel dans lequel tu adoptes et t’occupes d’un petit extraterrestre nommé Pou\_: nourris‑le, lave‑le, joue avec lui et personnalise son apparence pour le voir grandir et s’épanouir à travers de nombreux mini‑jeux et activités."
 iframeSrc: >-
   https://app-184491.games.s3.yandex.net/184491/simr1s69tzefn132i2xlbk4dusun0mgw/index.html
 thumbnail: /new-images/thumbnails/pou.jpg
@@ -63,6 +59,7 @@ temps avec ton Pou.
     pour accéder aux options de personnalisation et appliquer de nouvelles
     décorations.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions
 
 1.  **Q : Que faire si Pou tombe malade ?**  

@@ -1,12 +1,8 @@
 ---
 locale: fr
 urlstr: ragdoll-archers
-title: 'Ragdoll Archers'
-description: >-
-  Ragdoll Archers est un jeu de tir à l’arc basé sur la physique où tu
-  contrôles des archers en chiffon bancals pour tirer des flèches sur tes
-  adversaires ; les effets physiques réalistes rendent chaque tir à la fois
-  difficile et amusant.
+title: Ragdoll Archers
+description: "Ragdoll Archers est un jeu de tir à l’arc basé sur la physique où tu contrôles des archers en chiffon bancals pour tirer des flèches sur tes adversaires\_; les effets physiques réalistes rendent chaque tir à la fois difficile et amusant."
 iframeSrc: 'https://bitlifeonline.github.io/ragdoll-archers/'
 thumbnail: /new-images/thumbnails/ragdoll-archers.jpg
 tags:
@@ -55,6 +51,7 @@ souvent très drôle.
 *   **Recharger :** certaines variantes demandent de recharger les flèches
     manuellement.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions
 
 1.  **Q : Pourquoi mon personnage se balance‑t‑il tout le temps ?**  

@@ -31,6 +31,7 @@ Pacman 30th Anniversary est une édition spéciale du jeu d'arcade classique PAC
 
 *   **Déplacement :** généralement, utilise les touches fléchées du clavier (haut, bas, gauche, droite) pour contrôler la direction de déplacement de Pac‑Man dans le labyrinthe.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions
 
 1.  **Q : Quelles sont les différences entre Pacman 30th Anniversary et le PAC‑MAN original ?**

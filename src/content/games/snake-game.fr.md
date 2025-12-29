@@ -1,7 +1,7 @@
 ---
 locale: fr
 urlstr: snake-game
-title: 'Snake Game'
+title: Snake Game
 description: >-
   Snake Game est le grand classique d’arcade où tu contrôles un serpent qui
   grandit en mangeant des bonus, tout en évitant les murs et ton propre corps
@@ -47,6 +47,7 @@ incontournable de l’histoire du jeu vidéo.
 *   **Aller à gauche :** flèche gauche ou touche A.  
 *   **Aller à droite :** flèche droite ou touche D.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions
 
 1.  **Q : La vitesse du serpent change‑t‑elle ?**  

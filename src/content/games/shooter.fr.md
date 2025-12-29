@@ -1,11 +1,8 @@
 ---
 locale: fr
 urlstr: shooter
-title: "Five Nights at Freddy's Shooter (FNAF Shooter)"
-description: >-
-  Five Nights at Freddy's Shooter est un jeu d’action horrifique où tu affrontes
-  les animatroniques de l’univers FNAF : utilise tout un arsenal d’armes pour
-  survivre à des vagues de robots hostiles dans un gameplay de tir nerveux.
+title: Five Nights at Freddy's Shooter (FNAF Shooter)
+description: "Five Nights at Freddy's Shooter est un jeu d’action horrifique où tu affrontes les animatroniques de l’univers FNAF\_: utilise tout un arsenal d’armes pour survivre à des vagues de robots hostiles dans un gameplay de tir nerveux."
 iframeSrc: 'https://bitlifeonline.github.io/fnaf-shooter/'
 thumbnail: /new-images/thumbnails/shooter.jpg
 tags:
@@ -53,6 +50,7 @@ l’ambiance horrifique classique de FNAF avec le rythme d’un shooter arcade.
 *   **Recharge :** touche **R**.  
 *   **Changer d’arme :** touches numériques ou molette de la souris.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions
 
 1.  **Q : Comment survivre plus longtemps ?**  

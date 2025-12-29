@@ -34,6 +34,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 *   **Supprimer des chiffres :** appuie sur la touche Suppr ou clique à nouveau sur les chiffres remplis pour les effacer.
 *   **Marquer les candidats :** certaines versions permettent de noter plusieurs chiffres candidats possibles dans les cases.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions
 
 1.  **Q : Comment savoir si un Sudoku a une solution ?**

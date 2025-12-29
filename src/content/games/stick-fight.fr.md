@@ -20,6 +20,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 Stick Fight est un jeu de combat rapide basé sur la physique, où tu contrôles un stickman dans des arènes dangereuses. Le but est d’être le dernier debout. Entre pièges de l’environnement et armes qui apparaissent, les rounds deviennent vite chaotiques et hilarants.
 
+<!-- i18n:section:tips -->
 ### Guide de gameplay
 
 L’objectif de chaque manche est d’éliminer tes adversaires en les faisant tomber de l’arène ou en leur retirant toute leur vie.

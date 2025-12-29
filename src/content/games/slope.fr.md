@@ -1,12 +1,8 @@
 ---
 locale: fr
 urlstr: slope
-title: 'Slope'
-description: >-
-  Slope est le jeu de course infinie original de la série : tu contrôles une
-  bille verte qui dévale une pente abrupte, évite les obstacles rouges et
-  essaie de survivre le plus longtemps possible dans une expérience aussi
-  addictive qu’exigeante.
+title: Slope
+description: "Slope est le jeu de course infinie original de la série\_: tu contrôles une bille verte qui dévale une pente abrupte, évite les obstacles rouges et essaie de survivre le plus longtemps possible dans une expérience aussi addictive qu’exigeante."
 iframeSrc: 'https://webglmath.github.io/slope/'
 thumbnail: /new-images/thumbnails/slope.jpg
 tags:
@@ -51,6 +47,7 @@ qui rend chaque seconde de plus en plus intense.
 *   **Contrôle fluide :** privilégie des mouvements doux plutôt que des
     changements de direction brusques.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions
 
 1.  **Q : Comment améliorer mon record ?**  

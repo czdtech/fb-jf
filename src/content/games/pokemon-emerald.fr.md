@@ -36,6 +36,7 @@ Pokemon Emerald est un jeu vidéo de rôle de la série Pokémon où les joueurs
 *   **Bouton Start (Ouvrir le menu) :** ouvre le menu principal pour voir les Pokémon, objets, sauvegarder le jeu, etc.
 *   **Bouton Select (Enregistrer un objet) :** enregistre les objets fréquemment utilisés dans le sac pour un accès rapide.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions
 
 1.  **Q : Quels Pokémon Légendaires peut‑on capturer dans Pokemon Emerald ?**

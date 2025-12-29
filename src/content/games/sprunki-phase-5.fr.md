@@ -1,7 +1,7 @@
 ---
 locale: fr
 urlstr: sprunki-phase-5
-title: 'Sprunki Phase 5 - Jouer à Sprunki Phase 5 en ligne'
+title: Sprunki Phase 5 - Jouer à Sprunki Phase 5 en ligne
 description: >-
   Sprunki Phase 5 est un jeu de création musicale fan‑made qui mélange la
   structure classique d’Incredibox avec une ambiance sombre et inquiétante,
@@ -11,8 +11,8 @@ thumbnail: /new-images/thumbnails/sprunki-phase-5.png
 tags:
   - sprunki phase 5
   - sprunki phase 5 online
-score: "4.0/5  (604 votes)"
-releaseDate: 2025-12-04
+score: 4.0/5  (604 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Présentation de Sprunki Phase 5
@@ -25,6 +25,7 @@ fans de frissons.
 
 ---
 
+<!-- i18n:section:tips -->
 ### Comment se joue Sprunki Phase 5 ?
 
 La base reste très accessible :

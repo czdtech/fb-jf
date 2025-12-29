@@ -33,6 +33,7 @@ Stickman Hook est un jeu de balancement basé sur la physique. Tu contrôles un 
 - **Relâcher :** relâche le bouton pour te détacher et profiter de l’inertie.
 - **Balancement :** utilise la physique pour ajuster ta direction et ta vitesse.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions
 
 1.  **Q : Comment obtenir plus de puissance de balancement ?**

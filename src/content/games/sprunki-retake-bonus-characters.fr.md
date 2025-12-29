@@ -1,7 +1,9 @@
 ---
 locale: fr
 urlstr: sprunki-retake-bonus-characters
-title: 'Sprunki Retake Bonus Characters - Jouer à Sprunki Retake Bonus Characters en ligne'
+title: >-
+  Sprunki Retake Bonus Characters - Jouer à Sprunki Retake Bonus Characters en
+  ligne
 description: >-
   Sprunki Retake Bonus Characters est un Mod qui rend hommage aux musiques
   tribales et aux cultures anciennes, en proposant des personnages bonus
@@ -10,8 +12,8 @@ iframeSrc: 'https://turbowarp.org/1107905149/embed'
 thumbnail: /new-images/thumbnails/sprunki-retake-bonus-characters.png
 tags:
   - sprunki retake bonus characters
-score: "3.9/5  (132 votes)"
-releaseDate: 2025-12-04
+score: 3.9/5  (132 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Qu’a de spécial Sprunki Retake Bonus Characters ?
@@ -21,6 +23,7 @@ une vraie couleur musicale. Ici, les sons évoquent tambours ancestraux,
 chants tribaux et atmosphères rituelles. Tu composes, mais tu as aussi
 l’impression de diriger un petit cercle de percussionnistes autour d’un feu.
 
+<!-- i18n:section:tips -->
 ### Gameplay de Sprunki Retake Bonus Characters
 
 - **Deviens chef de tribu :** sélectionne tes personnages « bonus » et place‑les

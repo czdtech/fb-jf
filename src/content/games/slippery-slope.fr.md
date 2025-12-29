@@ -1,11 +1,8 @@
 ---
 locale: fr
 urlstr: slippery-slope
-title: 'Slippery Slope'
-description: >-
-  Slippery Slope est un jeu de ski/glisse plein de sensations : dévale des
-  pentes de montagne dangereuses, évite les obstacles et garde le contrôle
-  tout en te battant contre le chrono sur des parcours exigeants.
+title: Slippery Slope
+description: "Slippery Slope est un jeu de ski/glisse plein de sensations\_: dévale des pentes de montagne dangereuses, évite les obstacles et garde le contrôle tout en te battant contre le chrono sur des parcours exigeants."
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp45/gamehwq/20231124/15/index.html
 thumbnail: /new-images/thumbnails/slippery-slope.jpg
@@ -54,6 +51,7 @@ demande.
 *   **Équilibre :** garde ton personnage bien droit pour éviter les chutes
     ou la perte de contrôle.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions
 
 1.  **Q : Comment garder le contrôle à haute vitesse ?**  

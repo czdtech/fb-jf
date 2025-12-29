@@ -1,12 +1,8 @@
 ---
 locale: fr
 urlstr: red-ball
-title: 'Red Ball'
-description: >-
-  Red Ball est le premier jeu de plateforme basé sur la physique de la série :
-  tu y contrôles une petite balle rouge rebondissante à travers des niveaux
-  remplis d’obstacles, d’ennemis et de puzzles en jouant sur l’élan et la
-  gravité.
+title: Red Ball
+description: "Red Ball est le premier jeu de plateforme basé sur la physique de la série\_: tu y contrôles une petite balle rouge rebondissante à travers des niveaux remplis d’obstacles, d’ennemis et de puzzles en jouant sur l’élan et la gravité."
 iframeSrc: >-
   https://app-185271.games.s3.yandex.net/185271/uvjrp10onrrllry3esbc3gpnf7s40cj5/index.html
 thumbnail: /new-images/thumbnails/red-ball.jpg
@@ -57,6 +53,7 @@ niveau en un seul morceau.
 *   **Interagir avec la physique :** profite des pentes et de la gravité
     pour gagner de la vitesse ou atteindre des hauteurs supplémentaires.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions
 
 1.  **Q : Quelles sont les différences entre le premier Red Ball et les

@@ -1,11 +1,8 @@
 ---
 locale: fr
 urlstr: run-3
-title: 'Run 3'
-description: >-
-  Run 3 est un endless runner spatial : tu contrôles un petit alien qui court
-  dans un tunnel 3D, saute par‑dessus les trous et évite les obstacles en
-  défiant la gravité dans un platformer ultra addictif.
+title: Run 3
+description: "Run 3 est un endless runner spatial\_: tu contrôles un petit alien qui court dans un tunnel 3D, saute par‑dessus les trous et évite les obstacles en défiant la gravité dans un platformer ultra addictif."
 iframeSrc: 'https://lekug.github.io/tn6pS9dCf37xAhkJv/index.html'
 thumbnail: /new-images/thumbnails/run-3.jpg
 tags:
@@ -52,6 +49,7 @@ simple à comprendre et difficile à maîtriser.
 *   **Changer de paroi :** en approchant d’un mur, l’orientation de la
     gravité se bascule et tu peux continuer à courir sur murs ou plafond.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions
 
 1.  **Q : Comment courir sur les murs ?**  

@@ -4,9 +4,10 @@ urlstr: temple-run-2
 title: Temple Run 2
 description: >-
   Temple Run 2 est un runner infini d'aventure : navigue sur des chemins de
-  temple perilleux, collecte des pieces et bonus en evitant les obstacles et
-  les singes demons.
-iframeSrc: 'https://sxiao.4399.com/4399swf//upload_swf/ftp35/gamehwq/20210119/11/index.html'
+  temple perilleux, collecte des pieces et bonus en evitant les obstacles et les
+  singes demons.
+iframeSrc: >-
+  https://sxiao.4399.com/4399swf//upload_swf/ftp35/gamehwq/20210119/11/index.html
 thumbnail: /new-images/thumbnails/temple-run-2.jpg
 tags:
   - endless runner
@@ -22,6 +23,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 Temple Run 2 est un jeu d'aventure de course infinie ou tu navigues sur des chemins de temple perilleux, collectant des pieces et bonus tout en evitant les obstacles et les singes demons qui te poursuivent. Le jeu se deroule dans des environnements magnifiques, offrant une experience de jeu et des effets visuels plus riches que son predecesseur.
 
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **Collecte les pieces :** Priorise la collecte des pieces sur le chemin pour ameliorer les personnages et acheter des bonus.
@@ -37,6 +39,7 @@ Temple Run 2 est un jeu d'aventure de course infinie ou tu navigues sur des chem
 *   **Balayer Bas pour glisser :** Balaie vers le bas pour glisser sous les obstacles bas.
 *   **Controle d'inclinaison :** Incline l'appareil pour collecter plus de pieces (dans certaines versions).
 
+<!-- i18n:section:faq -->
 ### Foire aux questions
 
 1.  **Q : Comment obtenir plus de pieces ?**

@@ -11,7 +11,7 @@ tags:
   - classic
 score: 4.6/5  (193 votes)
 developer: ''
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -31,6 +31,7 @@ Ping Pong est un jeu d'arcade sportif classique. Deux joueurs (ou un joueur cont
 
 *   **Déplacer la raquette :** généralement, utilise les touches fléchées du clavier (haut/bas) ou la souris pour contrôler le mouvement vertical de la raquette sur l'écran.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions
 
 1.  **Q : Quel est l'objectif du jeu Ping Pong ?**

@@ -1,7 +1,7 @@
 ---
 locale: fr
 urlstr: sprunkle-bops
-title: 'Sprunkle Bops - Jouer à Sprunkle Bops en ligne'
+title: Sprunkle Bops - Jouer à Sprunkle Bops en ligne
 description: >-
   Sprunkle Bops est une extension fan‑made d’Incredibox qui ajoute des mods,
   phases inédites et mécaniques de jeu façon battle rythmique.
@@ -10,8 +10,8 @@ thumbnail: /new-images/thumbnails/sprunkle-bops.png
 tags:
   - sprunkle bops
   - sprunkle bops online
-score: "4.3/5  (524 votes)"
-releaseDate: 2025-12-04
+score: 4.3/5  (524 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Présentation de Sprunkle Bops
@@ -25,6 +25,7 @@ Sprunkle Bops enrichit la formule Incredibox avec :
 Les fans de jeux de rythme et de rap battles y trouveront un terrain de jeu
 parfait pour tester leurs réflexes.
 
+<!-- i18n:section:tips -->
 ### Gameplay de Sprunkle Bops
 
 - **Lance le battle :** affronte différents personnages, chacun avec son style

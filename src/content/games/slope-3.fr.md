@@ -1,11 +1,8 @@
 ---
 locale: fr
 urlstr: slope-3
-title: 'Slope 3'
-description: >-
-  Slope 3 est le dernier opus de la série Slope : dirige une bille lancée sur
-  une pente infinie, profite de graphismes améliorés et affronte de nouveaux
-  obstacles mortels tout en évitant les barrières et blocs rouges.
+title: Slope 3
+description: "Slope 3 est le dernier opus de la série Slope\_: dirige une bille lancée sur une pente infinie, profite de graphismes améliorés et affronte de nouveaux obstacles mortels tout en évitant les barrières et blocs rouges."
 iframeSrc: 'https://games-online.io/game/Slope3/'
 thumbnail: /new-images/thumbnails/slope-3.jpg
 tags:
@@ -51,6 +48,7 @@ expérimentés.
 *   **Réflexes :** réagis vite aux obstacles ou virages qui apparaissent
     soudainement.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions
 
 1.  **Q : Quelles nouveautés par rapport aux précédents jeux ?**  

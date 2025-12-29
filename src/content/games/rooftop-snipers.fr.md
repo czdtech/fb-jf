@@ -1,7 +1,7 @@
 ---
 locale: fr
 urlstr: rooftop-snipers
-title: 'Rooftop Snipers'
+title: Rooftop Snipers
 description: >-
   Rooftop Snipers est le jeu de tir original basé sur la physique où deux
   personnages pixelisés s’affrontent sur des toits, en se tirant dessus pour se
@@ -52,6 +52,7 @@ drôles et son gameplay aussi simple que punitif.
 *   **Combos :** combine saut, déplacement et tir pour mettre ton adversaire
     sous pression.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions
 
 1.  **Q : Pourquoi est‑ce toujours moi qui tombe en premier ?**  

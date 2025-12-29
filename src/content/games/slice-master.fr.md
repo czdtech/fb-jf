@@ -1,12 +1,8 @@
 ---
 locale: fr
 urlstr: slice-master
-title: 'Slice Master'
-description: >-
-  Slice Master est un jeu de découpe basé sur la physique, très satisfaisant :
-  tu contrôles un couteau pour trancher toutes sortes d’objets, viser des
-  coupes parfaites et collecter des récompenses tout en traversant des
-  parcours remplis d’obstacles.
+title: Slice Master
+description: "Slice Master est un jeu de découpe basé sur la physique, très satisfaisant\_: tu contrôles un couteau pour trancher toutes sortes d’objets, viser des coupes parfaites et collecter des récompenses tout en traversant des parcours remplis d’obstacles."
 iframeSrc: 'https://bitlifeonline.github.io/slice-master/'
 thumbnail: /new-images/thumbnails/slice-master.jpg
 tags:
@@ -52,6 +48,7 @@ de ramasser un maximum de récompenses sans heurter les obstacles.
 *   **Ajuster l’angle :** fais glisser ton doigt ou la souris pour modifier
     la trajectoire et l’orientation du couteau.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions
 
 1.  **Q : Comment obtenir des coupes parfaites ?**  

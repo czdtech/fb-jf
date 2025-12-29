@@ -1,11 +1,8 @@
 ---
 locale: fr
 urlstr: qwop
-title: 'QWOP Game'
-description: >-
-  QWOP est un jeu de course basé sur la physique, célèbre pour sa difficulté :
-  tu contrôles les muscles des jambes du coureur uniquement avec quatre
-  touches (Q, W, O, P) pour tenter de parcourir 100 mètres sans tomber.
+title: QWOP Game
+description: "QWOP est un jeu de course basé sur la physique, célèbre pour sa difficulté\_: tu contrôles les muscles des jambes du coureur uniquement avec quatre touches (Q, W, O, P) pour tenter de parcourir 100 mètres sans tomber."
 iframeSrc: 'https://kdata1.com/2020/01/QWOP1/?webgl=true'
 thumbnail: /new-images/thumbnails/qwop.jpg
 tags:
@@ -30,6 +27,7 @@ essayer de le faire avancer sur 100 mètres sans qu’il s’écroule. Les
 commandes sont contre‑intuitives, ce qui rend le moindre pas en avant
 déjà hilarant et très difficile.
 
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu
 
 1.  **Comprendre le rôle des touches :** Q et W contrôlent la cuisse et le
@@ -54,6 +52,7 @@ déjà hilarant et très difficile.
 *   **Touche O :** contrôle la cuisse de la jambe droite.  
 *   **Touche P :** contrôle le mollet de la jambe droite.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions
 
 1.  **Q : Pourquoi le coureur tombe‑t‑il toujours en arrière ?**  

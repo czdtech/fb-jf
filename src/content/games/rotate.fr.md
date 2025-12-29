@@ -1,11 +1,11 @@
 ---
 locale: fr
 urlstr: rotate
-title: 'Rotate'
+title: Rotate
 description: >-
   Rotate est un jeu de puzzle exigeant où tu dois faire pivoter le monde pour
-  guider une bille à travers des labyrinthes remplis d’obstacles, en jouant
-  avec la gravité et l’élan pour atteindre l’objectif à chaque niveau.
+  guider une bille à travers des labyrinthes remplis d’obstacles, en jouant avec
+  la gravité et l’élan pour atteindre l’objectif à chaque niveau.
 iframeSrc: 'https://rebemanae.github.io/rotate/'
 thumbnail: /new-images/thumbnails/rotate.jpg
 tags:
@@ -52,6 +52,7 @@ timing de chaque rotation pour amener la bille sur la case d’arrivée.
 *   **Pause :** mets le jeu en pause pour réfléchir tranquillement à ta
     prochaine séquence de rotations.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions
 
 1.  **Q : Que faire si la bille tombe sans cesse hors du niveau ?**  

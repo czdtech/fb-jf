@@ -1,11 +1,8 @@
 ---
 locale: fr
 urlstr: solitaire
-title: 'Solitaire'
-description: >-
-  Solitaire est le jeu de cartes solo classique : dispose les cartes dans des
-  séquences et couleurs spécifiques pour les envoyer sur les piles de
-  fondation et vider le tableau dans ce puzzle intemporel.
+title: Solitaire
+description: "Solitaire est le jeu de cartes solo classique\_: dispose les cartes dans des séquences et couleurs spécifiques pour les envoyer sur les piles de fondation et vider le tableau dans ce puzzle intemporel."
 iframeSrc: 'https://www.edogan.us/solitaire-js/'
 thumbnail: /new-images/thumbnails/solitaire.jpg
 tags:
@@ -53,6 +50,7 @@ chance et de stratégie.
 *   **Annuler :** certaines versions proposent un bouton d’annulation pour
     revenir sur un coup.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions
 
 1.  **Q : Que sont les piles de fondation ?**  

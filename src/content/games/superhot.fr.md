@@ -37,6 +37,7 @@ Superhot est un FPS innovant où le temps n’avance que lorsque tu bouges, cré
 - **Tirer :** clic gauche
 - **Ramasser :** ramassage automatique à proximité (selon la version)
 
+<!-- i18n:section:faq -->
 ### Foire aux questions
 
 1.  **Q : Comment fonctionne le mécanisme du temps ?**

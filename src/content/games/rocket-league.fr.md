@@ -1,12 +1,8 @@
 ---
 locale: fr
 urlstr: rocket-league
-title: 'Rocket League'
-description: >-
-  Rocket League est un jeu de sport survitaminé qui mélange football et voitures
-  propulsées par des fusées : tu conduis, sautes et boostes pour frapper un
-  énorme ballon et marquer dans le but adverse lors de matchs aériens
-  ultra‑dynamiques.
+title: Rocket League
+description: "Rocket League est un jeu de sport survitaminé qui mélange football et voitures propulsées par des fusées\_: tu conduis, sautes et boostes pour frapper un énorme ballon et marquer dans le but adverse lors de matchs aériens ultra‑dynamiques."
 iframeSrc: 'https://ubg77.github.io/edit/rocket-soccer-derby/'
 thumbnail: /new-images/thumbnails/rocket-league.jpg
 tags:
@@ -53,6 +49,7 @@ spectaculaire.
 *   **Contrôle en vol :** utilise la direction et les commandes aériennes
     pour orienter ta voiture et ajuster ton angle de frappe.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions
 
 1.  **Q : Comment réussir les frappes aériennes ?**  

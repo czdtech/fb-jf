@@ -1,11 +1,11 @@
 ---
 locale: fr
 urlstr: shootz
-title: 'ShootZ'
+title: ShootZ
 description: >-
   ShootZ est un jeu de tir survitaminé où tu combats des zombies et autres
-  créatures en utilisant un arsenal varié pour survivre à des vagues
-  d’ennemis de plus en plus coriaces dans des affrontements rapides.
+  créatures en utilisant un arsenal varié pour survivre à des vagues d’ennemis
+  de plus en plus coriaces dans des affrontements rapides.
 iframeSrc: 'https://g.igroutka.ru/games/17/9IsudOxakgP0EVKC/shootz/'
 thumbnail: /new-images/thumbnails/shootz.jpg
 tags:
@@ -53,6 +53,7 @@ d’armement varié et évolutif.
 *   **Compétences spéciales :** certaines versions ajoutent des pouvoirs ou
     objets spéciaux à déclencher.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions
 
 1.  **Q : Comment obtenir de meilleures armes ?**  

@@ -1,7 +1,7 @@
 ---
 locale: fr
 urlstr: raft-wars
-title: 'Raft Wars'
+title: Raft Wars
 description: >-
   Raft Wars est un jeu de tir tactique au tour par tour où tu aides deux jeunes
   frères à défendre leur trésor contre des pirates et des vikings en leur
@@ -60,6 +60,7 @@ leurs radeaux dans l’eau.
 *   **Déplacer le radeau :** dans certains niveaux, tu peux repositionner
     ton radeau pour obtenir un meilleur angle de tir.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions
 
 1.  **Q : Comment améliorer ma précision ?**  

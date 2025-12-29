@@ -1,7 +1,7 @@
 ---
 locale: fr
 urlstr: slope-2
-title: 'Slope 2'
+title: Slope 2
 description: >-
   Slope 2 est la suite du célèbre endless runner où tu contrôles une bille qui
   dévale une pente vertigineuse, en évitant les obstacles et les blocs rouges
@@ -52,6 +52,7 @@ types d’obstacles et des parcours encore plus exigeants.
 *   **Saut :** certaines versions permettent de sauter (souvent avec la
     barre d’espace).
 
+<!-- i18n:section:faq -->
 ### Foire aux questions
 
 1.  **Q : Comment améliorer mon temps de survie ?**  

@@ -1,7 +1,7 @@
 ---
 locale: fr
 urlstr: puppet-master
-title: 'Puppet Master'
+title: Puppet Master
 description: >-
   Puppet Master est un jeu de réflexion décalé basé sur la physique où tu
   contrôles une marionnette à travers des niveaux remplis d’obstacles en
@@ -60,6 +60,7 @@ fait une expérience à la fois drôle et exigeante.
 *   **Sauter :** coordonne poussées de jambes et traction des bras pour
     réaliser des bonds contrôlés.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions
 
 1.  **Q : La marionnette est très difficile à contrôler. Des conseils ?**  

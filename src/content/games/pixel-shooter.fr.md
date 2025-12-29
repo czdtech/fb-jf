@@ -11,7 +11,7 @@ tags:
   - arcade
 score: 3.9/5  (682 votes)
 developer: ''
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -35,6 +35,7 @@ Pixel Shooter est un jeu de tir au style pixel art rétro où les joueurs contr�
 *   **Viser :** utilise le mouvement de la souris pour viser les ennemis.
 *   **Changer d'arme :** certaines versions du jeu peuvent offrir une fonction de changement d'arme, généralement via les touches numériques ou la molette de la souris.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions
 
 1.  **Q : Quel est l'objectif de Pixel Shooter ?**
