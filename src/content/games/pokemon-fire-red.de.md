@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: pokemon-fire-red
-title: "Pokemon Fire Red"
+title: Pokemon Fire Red
 description: >-
   Pokemon Fire Red ist ein Remake von Pokémon Rot für den GBA: Du reist durch
   Kanto, fängst und trainierst Pokémon, kämpfst gegen Arenaleiter, legst Team
@@ -28,6 +28,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
  Pokémon-Liga zu werden. Die Story und das Grundgameplay des Originals bleiben
  erhalten, ergänzt um Grafik- und Komfortverbesserungen der GBA-Generation.
 
+<!-- i18n:section:how-to-play -->
 ### Spieltipps & Strategien
 
 1.  **Starter wählen:** Zu Beginn suchst du dir eines von drei Pokémon als

@@ -1,12 +1,12 @@
 ---
 locale: de
 urlstr: night-watchman
-title: "Night Watchman"
+title: Night Watchman
 description: >-
   Night Watchman ist ein Horror-Survival-Spiel, in dem du als Nachtwächter in
-  einem dunklen, verlassenen Gebäude arbeitest. Du überwachst
-  Sicherheitskameras und musst deine begrenzten Ressourcen geschickt einsetzen,
-  um geheimnisvolle Bedrohungen bis zum Morgengrauen zu überleben.
+  einem dunklen, verlassenen Gebäude arbeitest. Du überwachst Sicherheitskameras
+  und musst deine begrenzten Ressourcen geschickt einsetzen, um geheimnisvolle
+  Bedrohungen bis zum Morgengrauen zu überleben.
 iframeSrc: 'https://g2.igroutka.ru/lib/crazy/games/night-watchman/'
 thumbnail: /new-images/thumbnails/night-watchman.jpg
 tags:
@@ -28,6 +28,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
  überstehen. Die Atmosphäre ist bewusst düster und beklemmend, dafür stehen
  Planung, Ressourcenmanagement und starke Nerven im Mittelpunkt.
 
+<!-- i18n:section:how-to-play -->
 ### Spieltipps & Strategien
 
 1.  **Kameras im Blick behalten:** Überwache die Feeds der Sicherheitskameras

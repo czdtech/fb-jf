@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: red-ball
-title: "Red Ball"
+title: Red Ball
 description: >-
   Red Ball ist das ursprüngliche physikbasierte Plattformspiel der Reihe: Du
   steuerst eine hüpfende rote Kugel durch Level voller Hindernisse, Gegner und
@@ -27,6 +27,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
  genutztem Schwung überwindest du Hindernisse und legst den Grundstein für die
  späteren Red-Ball-Spiele.
 
+<!-- i18n:section:how-to-play -->
 ### Spieltipps & Strategien
 
 1.  **Physik verstehen:** Gewöhne dich an das Roll- und Sprungverhalten der

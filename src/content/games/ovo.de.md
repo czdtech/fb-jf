@@ -1,11 +1,12 @@
 ---
 locale: de
 urlstr: ovo
-title: "OvO Game"
+title: OvO Game
 description: >-
   OvO Game ist ein schnelles und forderndes Plattformspiel, in dem du eine
   Strichmännchen-Figur mit präzisen Sprüngen, Slides und Wandsprüngen durch
-  knifflige Level steuerst, um die Ziellinie so schnell wie möglich zu erreichen.
+  knifflige Level steuerst, um die Ziellinie so schnell wie möglich zu
+  erreichen.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20230129/1/index.html
 thumbnail: /new-images/thumbnails/ovo.jpg
@@ -28,6 +29,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
  Steuerung machen das Spiel zu einem echten Test für Reaktionsfähigkeit und
  Timing.
 
+<!-- i18n:section:how-to-play -->
 ### Spieltipps & Strategien
 
 1.  **Grundbewegungen meistern:** Lerne Sprung, Slide, Doppelsprung und

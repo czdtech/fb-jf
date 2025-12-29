@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: cooking-mama
-title: "Cooking Mama: Mama Kills Animals"
+title: 'Cooking Mama: Mama Kills Animals'
 description: >-
   Erfahre mehr über "Cooking Mama: Mama Kills Animals", das schockierende
-  Parodiespiel von PETA. Diese Anleitung erklärt Ursprung, satirisches
-  Gameplay und die aktivistische Botschaft dahinter – und grenzt es klar von der
+  Parodiespiel von PETA. Diese Anleitung erklärt Ursprung, satirisches Gameplay
+  und die aktivistische Botschaft dahinter – und grenzt es klar von der
   offiziellen Reihe ab.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/cooking-mama.html'
 thumbnail: /new-images/thumbnails/cooking-mama.jpg
@@ -35,6 +35,7 @@ gewalttätigen Handlungen. Ziel ist nicht Unterhaltung, sondern ein
 pro-vegetarischer Denkanstoß. Nach Abschluss der Truthahnzubereitung zeigt
 Mama Reue, schwört Fleisch ab und bereitet statt dessen einen Tofurkey zu.
 
+<!-- i18n:section:tips -->
 ### **Gameplay & Hinweise**
 
 Einen klassischen "Sieg" gibt es hier kaum – das Spiel ist eine lineare,

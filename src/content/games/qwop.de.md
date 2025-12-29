@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: qwop
-title: "QWOP Game"
+title: QWOP Game
 description: >-
-  QWOP ist ein berüchtigt schweres, physikbasiertes Laufspiel, in dem du mit
-  nur vier Tasten (Q, W, O, P) die Beinmuskeln eines Läufers steuerst und
-  versuchst, 100 Meter zu laufen, ohne hinzufallen.
+  QWOP ist ein berüchtigt schweres, physikbasiertes Laufspiel, in dem du mit nur
+  vier Tasten (Q, W, O, P) die Beinmuskeln eines Läufers steuerst und versuchst,
+  100 Meter zu laufen, ohne hinzufallen.
 iframeSrc: 'https://kdata1.com/2020/01/QWOP1/?webgl=true'
 thumbnail: /new-images/thumbnails/qwop.jpg
 tags:
@@ -27,6 +27,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
  überraschend schwierig und äußerst komisch erweist. Genau diese absurde
  Steuerung hat QWOP zu einem Internet-Phänomen gemacht.
 
+<!-- i18n:section:how-to-play -->
 ### Spieltipps & Strategien
 
 1.  **Tastenfunktionen verstehen:** Q und W bewegen Oberschenkel und Unterschenkel

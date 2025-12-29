@@ -27,6 +27,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
  unerwartete, witzige Situationen, die das Spiel gleichermaßen fordernd und
  unterhaltsam machen.
 
+<!-- i18n:section:how-to-play -->
 ### Spieltipps & Strategien
 
 1.  **Schusswinkel beherrschen:** Lerne, den Bogen mit der Maus so zu ziehen,

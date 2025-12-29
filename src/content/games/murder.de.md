@@ -1,12 +1,11 @@
 ---
 locale: de
 urlstr: murder
-title: "Murder"
+title: Murder
 description: >-
-  Murder ist ein spannendes Social-Deduction-Spiel: Eine Person ist heimlich
-  der Mörder und versucht, andere zu eliminieren, ohne enttarnt zu werden,
-  während die übrigen Mitspieler ihn durch Beobachtung und Logik entlarven
-  müssen.
+  Murder ist ein spannendes Social-Deduction-Spiel: Eine Person ist heimlich der
+  Mörder und versucht, andere zu eliminieren, ohne enttarnt zu werden, während
+  die übrigen Mitspieler ihn durch Beobachtung und Logik entlarven müssen.
 iframeSrc: 'https://ubg77.github.io/fix/murder/'
 thumbnail: /new-images/thumbnails/murder.jpg
 tags:
@@ -28,6 +27,7 @@ Diskutieren und Kombinieren herauszufinden, wer der Mörder ist, und ihn
 rechtzeitig zu stoppen. Jede Runde ist von psychologischen Bluff-Duellen und
 Unsicherheiten geprägt.
 
+<!-- i18n:section:how-to-play -->
 ### Spielstrategie
 
 1.  **Als Mörder**  

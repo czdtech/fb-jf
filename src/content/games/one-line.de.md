@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: one-line
-title: "One Line"
+title: One Line
 description: >-
   One Line ist ein minimalistisches Puzzlespiel, in dem du mit einer einzigen,
   durchgehenden Linie alle Punkte auf dem Spielfeld verbindest, ohne abzusetzen
@@ -27,6 +27,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
  Vorstellungsvermögen, während der Schwierigkeitsgrad mit jeder Stufe langsam
  anzieht.
 
+<!-- i18n:section:how-to-play -->
 ### Spieltipps & Strategien
 
 1.  **Wege vorab betrachten:** Bevor du mit dem Zeichnen beginnst, schau dir

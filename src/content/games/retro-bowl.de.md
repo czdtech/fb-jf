@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: retro-bowl
-title: "Retro Bowl"
+title: Retro Bowl
 description: >-
-  Retro Bowl ist ein nostalgisches American-Football-Spiel im 8-Bit-Look, in
-  dem du als Coach und Quarterback dein Team managst, Spielzüge callst, Pässe
-  wirfst und deine Mannschaft zum Meistertitel führst.
+  Retro Bowl ist ein nostalgisches American-Football-Spiel im 8-Bit-Look, in dem
+  du als Coach und Quarterback dein Team managst, Spielzüge callst, Pässe wirfst
+  und deine Mannschaft zum Meistertitel führst.
 iframeSrc: 'https://game316009.konggames.com/gamez/0031/6009/live/index.html'
 thumbnail: /new-images/thumbnails/retro-bowl.jpg
 tags:
@@ -26,6 +26,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
  erinnert an klassische Football-Games, bietet aber zugleich moderne
  Komfortfunktionen.
 
+<!-- i18n:section:how-to-play -->
 ### Spieltipps & Strategien
 
 1.  **Passspiel beherrschen:** Lerne, Würfe präzise zu platzieren. Achte auf

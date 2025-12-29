@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: moto-x3m
-title: "Moto X3M"
+title: Moto X3M
 description: >-
-  Moto X3M ist ein rasantes und anspruchsvolles Motorrad-Stuntspiel: Flitze
-  über gefährliche Strecken mit Rampen, Fallen und Explosionen und zeige
-  waghalsige Tricks.
+  Moto X3M ist ein rasantes und anspruchsvolles Motorrad-Stuntspiel: Flitze über
+  gefährliche Strecken mit Rampen, Fallen und Explosionen und zeige waghalsige
+  Tricks.
 iframeSrc: 'https://webglmath.github.io/moto-x3m/'
 thumbnail: /new-images/thumbnails/moto-x3m.jpg
 tags:
@@ -25,6 +25,7 @@ gefährliche Parcours voller Rampen, beweglicher Fallen und Explosionen und
 führst dabei spektakuläre Saltos aus. Ziel ist es, die Ziellinie so schnell wie
 möglich zu erreichen und mit möglichst vielen Stunts Bonuszeit gutzumachen.
 
+<!-- i18n:section:how-to-play -->
 ### Spielstrategie
 
 1.  **Balance halten**  

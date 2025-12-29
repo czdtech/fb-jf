@@ -1,13 +1,13 @@
 ---
 locale: de
 urlstr: minecraft
-title: "Minecraft"
+title: Minecraft
 description: >-
   Minecraft ist ein Sandbox-Videospiel, in dem du eine blockige, zufällig
-  generierte 3D-Welt erkundest: Rohstoffe abbauen, Werkzeuge herstellen,
-  Gebäude und Redstone-Maschinen bauen oder eigene Abenteuer und Minispiele
-  erschaffen.
-iframeSrc: 'https://app-167027.games.s3.yandex.net/167027/tnn3wq0qkjwhvr1271tszdhl82lm97e6/index.html'
+  generierte 3D-Welt erkundest: Rohstoffe abbauen, Werkzeuge herstellen, Gebäude
+  und Redstone-Maschinen bauen oder eigene Abenteuer und Minispiele erschaffen.
+iframeSrc: >-
+  https://app-167027.games.s3.yandex.net/167027/tnn3wq0qkjwhvr1271tszdhl82lm97e6/index.html
 thumbnail: /new-images/thumbnails/minecraft.jpg
 tags:
   - sandbox
@@ -28,6 +28,7 @@ Ziel vor – du bestimmst selbst, was du tun möchtest. Dadurch bietet Minecraft
 extrem viel Freiheit. Zu den wichtigsten Modi gehören Überleben, Kreativ,
 Abenteuer und Zuschauermodus.
 
+<!-- i18n:section:how-to-play -->
 ### Spielstrategie
 
 1.  **Ressourcen sammeln**  

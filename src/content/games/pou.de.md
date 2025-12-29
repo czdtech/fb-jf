@@ -29,6 +29,7 @@ Accessoires und Raumdekorationen nach deinem Geschmack gestalten. Zahlreiche
 Minispiele sorgen dafür, dass es nie langweilig wird und du nebenbei Münzen
 verdienen kannst.
 
+<!-- i18n:section:how-to-play -->
 ### Spieltipps & Strategien
 
 1.  **Grundbedürfnisse im Blick:** Achte auf Hunger, Hygiene, Energie und

@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: only-up
-title: "Only Up"
+title: Only Up
 description: >-
   Only Up ist ein knallhartes 3D-Plattformspiel, in dem du eine wackelige und
   oft chaotische Welt Stück für Stück hinaufkletterst. Mit präzisen Sprüngen
@@ -29,6 +29,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
  du wieder ganz unten starten musst. Präzise Steuerung und starke Nerven sind
  daher Pflicht.
 
+<!-- i18n:section:how-to-play -->
 ### Spieltipps & Strategien
 
 1.  **Genau beobachten:** Schaue dir vor jedem Sprung die Position,

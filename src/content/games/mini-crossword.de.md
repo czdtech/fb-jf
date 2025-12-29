@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: mini-crossword
-title: "Mini Crossword"
+title: Mini Crossword
 description: >-
   Mini Crossword ist ein kompaktes tägliches Kreuzworträtsel, das in wenigen
   Minuten eine knackige Wortaufgabe für alle Schwierigkeitsstufen bietet.
@@ -25,6 +25,7 @@ horizontal und vertikal ein, bis das komplette Rätsel gelöst ist. Perfekt für
 kurze Spielsessions, um den Wortschatz zu trainieren und ein bisschen
 Knobelspaß zu haben.
 
+<!-- i18n:section:how-to-play -->
 ### Spielstrategie
 
 1.  **Hinweise genau lesen**  

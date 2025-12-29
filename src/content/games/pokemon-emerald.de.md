@@ -1,12 +1,12 @@
 ---
 locale: de
 urlstr: pokemon-emerald
-title: "Pokemon Emerald"
+title: Pokemon Emerald
 description: >-
   Pokemon Emerald ist ein Rollenspiel der Pokémon-Reihe: Du reist durch die
   Hoenn-Region, fängst und trainierst Pokémon, trittst gegen Trainer und
-  Arenaleiter an und stellst dich Team Magma und Team Aqua, um am Ende
-  Champ der Pokémon-Liga zu werden.
+  Arenaleiter an und stellst dich Team Magma und Team Aqua, um am Ende Champ der
+  Pokémon-Liga zu werden.
 iframeSrc: 'https://picklekid31.github.io/GBA-unblocked-games/launcher.html#pokemonemerald'
 thumbnail: /new-images/thumbnails/pokemon-emerald.jpg
 tags:
@@ -28,6 +28,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
  Verbrecherorganisationen **Team Magma** und **Team Aqua**, deren Pläne zur
  Umgestaltung der Welt du vereiteln musst.
 
+<!-- i18n:section:how-to-play -->
 ### Spieltipps & Strategien
 
 1.  **Pokémon fangen:** Triff wilde Pokémon im hohen Gras, auf dem Wasser oder

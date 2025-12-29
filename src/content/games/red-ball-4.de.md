@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: red-ball-4
-title: "Red Ball 4"
+title: Red Ball 4
 description: >-
   Red Ball 4 ist ein physikbasiertes Plattformspiel, in dem du eine rote Kugel
   steuerst, die die Welt vor bösen Quadraten retten muss, die alles in eckige
@@ -26,6 +26,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
  du dich durch Hindernisse, löst kleine Physikrätsel und besiegst eckige
  Gegner.
 
+<!-- i18n:section:how-to-play -->
 ### Spieltipps & Strategien
 
 1.  **Physik ausnutzen:** Nutze das Spring- und Rollverhalten des Balls, um

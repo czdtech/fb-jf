@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: paper-io
-title: "Paper io"
+title: Paper io
 description: >-
   Paper.io ist ein beliebtes Mehrspieler-Online-Spiel, in dem du einen farbigen
   Block steuerst und mit gezogenen Linien Gebiete umschließt, um möglichst viel
@@ -27,6 +27,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
  andere Spieler achten – berühren sie deine gezogene Linie, bevor du sie wieder
  mit deinem Gebiet verbindest, bist du ausgeschaltet.
 
+<!-- i18n:section:how-to-play -->
 ### Spieltipps & Strategien
 
 1.  **Sicher ausbauen:** Zu Beginn lohnt es sich, in der Nähe deines

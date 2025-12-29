@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: rooftop-snipers
-title: "Rooftop Snipers"
+title: Rooftop Snipers
 description: >-
   Rooftop Snipers ist das ursprüngliche physikbasierte Duellspiel, in dem zwei
   Pixelfiguren auf Dächern gegeneinander antreten, mit simplen Controls schießen
@@ -26,6 +26,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
  befördern. Die Ragdoll-Physik sorgt dafür, dass Bewegungen und Schüsse oft
  unberechenbar wirken – perfekt für chaotische Duelle.
 
+<!-- i18n:section:how-to-play -->
 ### Spieltipps & Strategien
 
 1.  **Grundsteuerung lernen:** Übe erst das Zusammenspiel aus Bewegen,

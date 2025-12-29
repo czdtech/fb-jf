@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: pacman-30th-anniversary
-title: "Pacman 30th Anniversary"
+title: Pacman 30th Anniversary
 description: >-
   Pacman 30th Anniversary ist eine besondere Jubiläumsausgabe des legendären
   Arcade-Spiels und feiert drei Jahrzehnte Labyrinth-Action. Du führst Pac-Man
@@ -28,6 +28,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
  nostalgische Präsentation und kleine Extras, damit sowohl neue als auch
  langjährige Fans ihren Spaß haben.
 
+<!-- i18n:section:how-to-play -->
 ### Spieltipps & Strategien
 
 1.  **Labyrinthe kennenlernen:** Jedes Level hat ein eigenes Layout. Je besser

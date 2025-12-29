@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: rooftop-snipers-2
-title: "Rooftop Snipers 2"
+title: Rooftop Snipers 2
 description: >-
-  Rooftop Snipers 2 ist ein physikbasiertes Duellspiel, in dem zwei Strichmännchen
-  auf Dächern kämpfen und mit abgedrehten Waffen versuchen, den Gegner von der
-  Plattform zu schießen.
+  Rooftop Snipers 2 ist ein physikbasiertes Duellspiel, in dem zwei
+  Strichmännchen auf Dächern kämpfen und mit abgedrehten Waffen versuchen, den
+  Gegner von der Plattform zu schießen.
 iframeSrc: 'https://rebemanae.github.io/rooftop-snipers-2/'
 thumbnail: /new-images/thumbnails/rooftop-snipers-2.jpg
 tags:
@@ -26,6 +26,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
  Ragdoll-Physik verlaufen Schüsse und Rückstoß selten wie geplant – und genau
  das sorgt für viele lustige Momente.
 
+<!-- i18n:section:how-to-play -->
 ### Spieltipps & Strategien
 
 1.  **Schuss-Timing üben:** Warte auf den richtigen Moment, um zu feuern, und

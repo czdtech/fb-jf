@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: geometry-dash-wave
-title: "Geometry Dash Wave"
+title: Geometry Dash Wave
 description: >-
   Meistere den Rhythmus in Geometry Dash Wave: Steuere ein dreieckiges Icon nur
   mit Taps diagonal nach oben oder unten, weiche Hindernissen aus und
@@ -25,6 +25,7 @@ Platformer-Modus im Geometry-Dash-Universum. Du steuerst ein ständig
 vorwärtsfliegendes, dreieckiges Icon. Die spezielle Wave-Mechanik verlangt
 präzises Timing, da du mit jedem Tap die diagonale Bewegungsrichtung änderst.
 
+<!-- i18n:section:tips -->
 ### Gameplay-Guide
 
 - **Wave-Mechanik:** Halte die Taste/den Bildschirm gedrückt, um dein Icon

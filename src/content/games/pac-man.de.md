@@ -1,12 +1,12 @@
 ---
 locale: de
 urlstr: pac-man
-title: "PAC-MAN"
+title: PAC-MAN
 description: >-
   PAC-MAN ist ein klassisches Arcade-Labyrinthspiel: Du steuerst Pac-Man durch
   ein verwinkeltes Labyrinth, frisst alle Punkte auf und weichst vier bunten
-  Geistern aus. Kraftpillen erlauben es dir, den Spieß kurzzeitig umzudrehen
-  und die Geister selbst zu jagen.
+  Geistern aus. Kraftpillen erlauben es dir, den Spieß kurzzeitig umzudrehen und
+  die Geister selbst zu jagen.
 iframeSrc: 'https://bward2.github.io/pacman-js/'
 thumbnail: /new-images/thumbnails/pac-man.jpg
 tags:
@@ -28,6 +28,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
  sich die Rollen für kurze Zeit um: Die Geister werden verwundbar, fliehen vor
  dir und können für Extra-Punkte gefressen werden.
 
+<!-- i18n:section:how-to-play -->
 ### Spieltipps & Strategien
 
 1.  **Geisterverhalten verstehen:** Jeder Geist hat sein eigenes

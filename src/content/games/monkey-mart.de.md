@@ -1,12 +1,13 @@
 ---
 locale: de
 urlstr: monkey-mart
-title: "Monkey Mart"
+title: Monkey Mart
 description: >-
   Monkey Mart ist eine charmante Supermarkt-Simulation, in der du einen Laden
   voller Affen leitest: Ernte Feldfrüchte, befülle Regale, bediene Kundschaft
   und lass dein Geschäft wachsen.
-iframeSrc: 'https://szhong.4399.com/4399swf//upload_swf/ftp41/gamehwq/20221216/09/index.htm'
+iframeSrc: >-
+  https://szhong.4399.com/4399swf//upload_swf/ftp41/gamehwq/20221216/09/index.htm
 thumbnail: /new-images/thumbnails/monkey-mart.jpg
 tags:
   - simulation
@@ -26,6 +27,7 @@ verarbeitest sie zu Produkten, bestückst die Regale und bedienst Kund:innen, um
 Gewinn zu machen und deinen Laden zu erweitern. Mit der Zeit schaltest du neue
 Produkte frei, rüstest Maschinen auf und stellst weitere Affen als Personal ein.
 
+<!-- i18n:section:how-to-play -->
 ### Spielstrategie
 
 1.  **Pflanzen & Ernten**  

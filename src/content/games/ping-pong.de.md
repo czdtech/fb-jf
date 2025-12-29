@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: ping-pong
-title: "Ping Pong"
+title: Ping Pong
 description: >-
   Ping Pong ist ein klassisches Arcade-Sportspiel: Zwei Spieler steuern je ein
   Paddle und schlagen den Ball hin und her, um Punkte zu erzielen, wenn der
@@ -26,6 +26,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
  sammelt Punkte. Durch die leicht verständliche Steuerung und das hohe Tempo
  eignet sich das Spiel sowohl für kurze Pausen als auch für hitzige Duelle.
 
+<!-- i18n:section:how-to-play -->
 ### Spieltipps & Strategien
 
 1.  **Paddle kontrollieren:** Bewege dein Paddle flüssig, damit du sowohl

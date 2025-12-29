@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: classic-solitaire
-title: "Classic Solitaire"
+title: Classic Solitaire
 description: >-
   Genieße das zeitlose Kartenspiel Classic Solitaire (Klondike). Verschiebe
   Karten geschickt zwischen Tableau und Ablagestapeln, um alle Farben in
@@ -26,6 +26,7 @@ Ablagestapel (Foundation) nach Farben geordnet von Ass bis König zu sortieren.
 Dafür musst du die Karten im Tableau geschickt umstapeln, verdeckte Karten
 freilegen und mit etwas Glück und Planung alle Karten auf die Ablagen bringen.
 
+<!-- i18n:section:tips -->
 ### Aufbau & Grundregeln
 
 1.  **Bereiche des Spielfelds:**

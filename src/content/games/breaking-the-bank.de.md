@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: breaking-the-bank
-title: "Breaking the Bank"
+title: Breaking the Bank
 description: >-
   Wage in Breaking the Bank deinen ersten großen Bankraub mit Henry Stickmin.
   Wähle eine Methode, sieh dir die verrückten Fehlschläge an – und finde den
@@ -29,6 +29,7 @@ Bank einbrechen willst, und siehst dir anschließend das Ergebnis an. Der Reiz
 liegt dabei weniger im schnellen "Gewinnen" als in den vielen witzigen
 FAIL‑Animationen.
 
+<!-- i18n:section:tips -->
 ### Ablauf & Lösungen
 
 Das gesamte Gameplay besteht aus Ausprobieren: Option anklicken, Animation

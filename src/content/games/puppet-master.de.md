@@ -27,6 +27,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
  Die ungewöhnliche Steuerung und die slapstickartigen Animationen machen den
  Reiz des Spiels aus – chaotisch, aber sehr unterhaltsam.
 
+<!-- i18n:section:how-to-play -->
 ### Spieltipps & Strategien
 
 1.  **Steuerung kennenlernen:** Nimm dir Zeit, die Zuordnung von Tasten oder

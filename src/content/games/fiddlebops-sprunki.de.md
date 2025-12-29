@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: fiddlebops-sprunki
-title: "Fiddlebops Sprunki - Play Fiddlebops Sprunki Online"
+title: Fiddlebops Sprunki - Play Fiddlebops Sprunki Online
 description: >-
   Fiddlebops Sprunki verpasst dem originalen Sprunki-Spiel einen verspielten
   Twist: charmante Figuren, bunte Optik und entspannteres Gameplay für eine
@@ -12,7 +12,7 @@ tags:
   - fiddlebops sprunki
   - sprunki phase 5 online
 score: 4.3/5 (684 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -25,6 +25,7 @@ Musikspiele ohne großen Stress genießen wollen.
 
 ---
 
+<!-- i18n:section:tips -->
 ### Fiddlebops Sprunki – Gameplay
 
 - **Mit Figuren starten:** Wähle aus einer Reihe leicht gruselig wirkender,

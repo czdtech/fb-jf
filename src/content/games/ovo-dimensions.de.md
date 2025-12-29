@@ -1,12 +1,12 @@
 ---
 locale: de
 urlstr: ovo-dimensions
-title: "OvO Dimensions"
+title: OvO Dimensions
 description: >-
-  OvO Dimensions ist ein anspruchsvoller 2D-Plattformspiel und erweitert die OvO-
-  Reihe um neue Mechaniken und Hindernisse. Mit präzisen Sprüngen,
-  Wandsprüngen und gut genutztem Schwung arbeitest du dich durch komplexe
-  Level und jagst Bestzeiten.
+  OvO Dimensions ist ein anspruchsvoller 2D-Plattformspiel und erweitert die
+  OvO- Reihe um neue Mechaniken und Hindernisse. Mit präzisen Sprüngen,
+  Wandsprüngen und gut genutztem Schwung arbeitest du dich durch komplexe Level
+  und jagst Bestzeiten.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221219/8/index.html
 thumbnail: /new-images/thumbnails/ovo-dimensions.jpg
@@ -30,6 +30,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
  bleibt erhalten, während Leveldesign und Präsentation noch abwechslungsreicher
  werden.
 
+<!-- i18n:section:how-to-play -->
 ### Spieltipps & Strategien
 
 1.  **Neue Mechaniken verstehen:** Nimm dir zu Beginn Zeit, um neue Sprung-,

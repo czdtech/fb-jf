@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: brain-trainer
-title: "Brain Trainer"
+title: Brain Trainer
 description: >-
-  Fordere deinen Kopf mit einer Sammlung kurzweiliger Mini‑Spiele heraus.
-  Teste Gedächtnis, Logik, Rechengeschwindigkeit und räumliches Denken in
-  diesem kompakten Gehirntraining.
+  Fordere deinen Kopf mit einer Sammlung kurzweiliger Mini‑Spiele heraus. Teste
+  Gedächtnis, Logik, Rechengeschwindigkeit und räumliches Denken in diesem
+  kompakten Gehirntraining.
 iframeSrc: >-
   https://braintrainer.h5games.usercontent.goog/v/4f2ffbc6-4208-4087-bfaf-ab0db086da02/
 thumbnail: /new-images/thumbnails/brain-trainer.jpg
@@ -27,6 +27,7 @@ Denken, Kopfrechnen und räumliches Vorstellungsvermögen. In schnellen Runden
 trainierst du deine geistige Beweglichkeit, verbesserst Fokus und Reaktion und
 kannst deine Entwicklung über mehrere Sessions im Blick behalten.
 
+<!-- i18n:section:tips -->
 ### Spielmodi & Beispiele
 
 Brain Trainer bietet mehrere Kategorien von Mini-Spielen; typische Beispiele:

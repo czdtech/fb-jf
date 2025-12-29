@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: minesweeper
-title: "Minesweeper"
+title: Minesweeper
 description: >-
-  Minesweeper ist ein Einzelspieler-Puzzlespiel, in dem du ein rechteckiges
-  Feld räumst, auf dem versteckte Minen liegen – nur anhand der Zahlhinweise an
-  den aufgedeckten Feldern.
+  Minesweeper ist ein Einzelspieler-Puzzlespiel, in dem du ein rechteckiges Feld
+  räumst, auf dem versteckte Minen liegen – nur anhand der Zahlhinweise an den
+  aufgedeckten Feldern.
 iframeSrc: 'https://freeonlinegames.github.io/games/minesweeper/'
 thumbnail: /new-images/thumbnails/minesweeper.jpg
 tags:
@@ -26,6 +26,7 @@ ohne eine zu treffen. Anhand der Zahlen auf aufgedeckten Feldern kannst du
 ablesen, wie viele Minen im Umfeld versteckt sind, sichere Felder freilegen und
 Minen markieren.
 
+<!-- i18n:section:how-to-play -->
 ### Spielstrategie
 
 1.  **Zahlen verstehen**  

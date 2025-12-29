@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: pixel-shooter
-title: "Pixel Shooter"
+title: Pixel Shooter
 description: >-
   Pixel Shooter ist ein Retro-Shooter im Pixelart-Stil, in dem du dich durch
-  Horden von Gegnern kämpfst, Power-ups sammelst und deine Waffen aufrüstest,
-  um in immer schwierigeren Leveln zu überleben.
+  Horden von Gegnern kämpfst, Power-ups sammelst und deine Waffen aufrüstest, um
+  in immer schwierigeren Leveln zu überleben.
 iframeSrc: 'https://a.onlineigry.net/games3/igra-piksel-shuter/index.htm'
 thumbnail: /new-images/thumbnails/pixel-shooter.jpg
 tags:
@@ -26,6 +26,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
  immer stärkere Feinde abzuwehren. Das schnelle Gameplay und der nostalgische
  Look machen das Spiel besonders für Fans alter Arcade-Shooter interessant.
 
+<!-- i18n:section:how-to-play -->
 ### Spieltipps & Strategien
 
 1.  **Bewegen und feuern:** Bleib ständig in Bewegung, um gegnerischen Projektilen

@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: paper-minecraft
-title: "Paper Minecraft"
+title: Paper Minecraft
 description: >-
   Paper Minecraft ist eine 2D-Neuinterpretation des bekannten Sandbox-Hits und
   bietet dir eine seitlich scrollende Welt zum Erkunden, Rohstoffe abbauen,
@@ -27,6 +27,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
  Originals bleiben erhalten, werden hier aber aus der 2D-Perspektive präsentiert
  und sorgen so für ein anderes Spielgefühl.
 
+<!-- i18n:section:how-to-play -->
 ### Spieltipps & Strategien
 
 1.  **Rohstoffe sammeln:** Fälle Bäume für Holz, grabe dich in den Boden vor,

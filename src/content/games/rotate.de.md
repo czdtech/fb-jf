@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: rotate
-title: "Rotate"
+title: Rotate
 description: >-
-  Rotate ist ein anspruchsvolles Puzzlespiel, in dem du die Spielwelt drehst,
-  um eine Kugel durch verwinkelte Labyrinthe und Hindernisse zu führen und mit
+  Rotate ist ein anspruchsvolles Puzzlespiel, in dem du die Spielwelt drehst, um
+  eine Kugel durch verwinkelte Labyrinthe und Hindernisse zu führen und mit
   Schwerkraft und Schwung das Ziel zu erreichen.
 iframeSrc: 'https://rebemanae.github.io/rotate/'
 thumbnail: /new-images/thumbnails/rotate.jpg
@@ -26,6 +26,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
  an Hindernissen vorbeikommt. Ziel jedes Levels ist es, die Kugel sicher zum
  Ausgang zu manövrieren.
 
+<!-- i18n:section:how-to-play -->
 ### Spieltipps & Strategien
 
 1.  **Schwerkraft verstehen:** Jede Drehung verschiebt die „unten“-Richtung.
@@ -37,7 +38,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
     Kontrollierte, langsame Drehungen helfen, die Kugel sicher zu führen.
 4.  **Schwung ausnutzen:** Manchmal musst du die Kugel gezielt Schwung holen
     lassen, um weitere Plattformen zu erreichen oder über Lücken zu rollen.
-5.  **Perspektive wechseln:** Dreh das Level ruhig einmal um 180° oder in
+5.  **Perspektive wechseln:** Dreh das Level ruhig einmal komplett oder in
     ungewohnte Winkel – aus einer anderen Perspektive erkennst du oft neue
     Lösungswege.
 
@@ -68,4 +69,3 @@ releaseDate: 2025-08-16T00:00:00.000Z
 4.  **F: Wie viele Level gibt es?**
     **A:** Rotate umfasst in der Regel mehrere Welten mit dutzenden Leveln, deren
     Schwierigkeit nach und nach anzieht.
-

@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: rocket-league
-title: "Rocket League"
+title: Rocket League
 description: >-
   Rocket League ist ein temporeiches Sportspiel, das Fußball mit
   raketenbetriebenen Autos kombiniert: Du fährst, springst und boostest, um
@@ -27,6 +27,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
  Die Kombination aus Tempo, Physik und Teamplay macht jede Partie hektisch und
  spektakulär.
 
+<!-- i18n:section:how-to-play -->
 ### Spieltipps & Strategien
 
 1.  **Basics beherrschen:** Lerne zuerst Gas geben, lenken, springen und boosten

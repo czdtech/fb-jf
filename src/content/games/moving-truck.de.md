@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: moving-truck
-title: "Moving Truck"
+title: Moving Truck
 description: >-
   Moving Truck ist ein physikbasiertes Puzzlespiel, in dem du Möbel und
   Gegenstände strategisch in einen Umzugswagen laden musst, damit alles sicher
@@ -26,6 +26,7 @@ stapeln, dass sie während der Fahrt weder umfallen noch herausrutschen und am
 Ende heil am Ziel ankommen. Das Spiel fordert dein räumliches Vorstellungs-
 vermögen und deine Planungsfähigkeit.
 
+<!-- i18n:section:how-to-play -->
 ### Spielstrategie
 
 1.  **Formen genau betrachten**  

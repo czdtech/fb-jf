@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: monopoly
-title: "MONOPOLY"
+title: MONOPOLY
 description: >-
   Monopoly ist der klassische Immobilien-Brettspiel-Hit: Kaufe, vermiete und
-  verkaufe Straßen mit dem Ziel, deine Mitspieler in den Bankrott zu treiben
-  und als reichste Person zu gewinnen.
+  verkaufe Straßen mit dem Ziel, deine Mitspieler in den Bankrott zu treiben und
+  als reichste Person zu gewinnen.
 iframeSrc: 'https://w8.snokido.com/games/html5/monopoly/index.html'
 thumbnail: /new-images/thumbnails/monopoly.jpg
 tags:
@@ -26,6 +26,7 @@ alle anderen Spieler:innen in den Bankrott zu treiben und als einzige Person
 mit positiver Bilanz übrig zu bleiben. Strategie, Verhandlungsgeschick und eine
 Prise Glück spielen zusammen.
 
+<!-- i18n:section:how-to-play -->
 ### Spielstrategie
 
 1.  **Straßen kaufen**  
