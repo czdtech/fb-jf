@@ -1,14 +1,17 @@
 ---
-# Frontmatter: config.ts の schema に従う
-title: "Snake"
-description: "クラシックなSnake（スネーク）です。ヘビを操作して食べ物を食べ、体を伸ばしながら壁や自分の体との衝突を避けます。シンプルですが、反射神経と先読みが問われます。"
-iframeSrc: "https://www.googlesnake.com/snakem.php"
+title: Snake
+description: >-
+  クラシックなSnake（スネーク）です。ヘビを操作して食べ物を食べ、体を伸ばしながら壁や自分の体との衝突を避けます。シンプルですが、反射神経と先読みが問われます。
+iframeSrc: 'https://www.googlesnake.com/snakem.php'
 thumbnail: /new-images/thumbnails/snake.jpg
-urlstr: "snake"
-score: "4.1/5  (242 votes)"
-tags: ["classic", "arcade", "skill"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: snake
+score: 4.1/5  (242 votes)
+tags:
+  - classic
+  - arcade
+  - skill
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +20,7 @@ locale: ja
 
 Snakeは、長さが増していくヘビを操作するクラシックなアーケードゲームです。画面上に現れる食べ物を食べるたびに体が長くなります。壁や自分の体にぶつからないように進み、できるだけ長く生き残るのが目標です。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
 コアメカニクスはシンプルです。スネークを誘導して食べ物を食べます。食べるほど長くなり、多くの場合スピードも上がるため、移動は次第に難しくなります。障害物や自分の体に当たるとゲームオーバーです。衝突が起こる前にできるだけ多く食べて、スコアを伸ばします。

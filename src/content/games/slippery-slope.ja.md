@@ -1,7 +1,8 @@
 ---
 title: Slippery Slope
 description: Slippery Slopeはスキーで滑り降りるアクションです。障害物を避けながらスピードに対応し、できるだけ先へ進みます。
-iframeSrc: 'https://szhong.4399.com/4399swf//upload_swf/ftp45/gamehwq/20231124/15/index.html'
+iframeSrc: >-
+  https://szhong.4399.com/4399swf//upload_swf/ftp45/gamehwq/20231124/15/index.html
 thumbnail: /new-images/thumbnails/slippery-slope.jpg
 urlstr: slippery-slope
 score: 4.0/5  (1074 votes)
@@ -9,7 +10,7 @@ tags:
   - action
   - casual
 developer: ''
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -18,6 +19,7 @@ locale: ja
 
 Slippery Slopeは、滑りやすいスロープをスキーで下りながら障害物を避け、できるだけ遠くまで進むゲームです。スピードが上がるほど反応が求められます。操作はシンプルですが、判断が重要です。
 
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **先を見る:** 次の障害物を予測します。

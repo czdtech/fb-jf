@@ -1,14 +1,17 @@
 ---
-# Frontmatter: config.ts の schema に従う
-title: "Soccer Random"
-description: "Soccer Randomは物理ベースのサッカーゲームです。ワンボタンでジャンプ/キックし、先に5ゴール決めた方が勝ちになります。"
-iframeSrc: "https://app-197306.games.s3.yandex.net/197306/b1dbvmcde0oog4ebj00rinxr3e367fl4/index.html"
+title: Soccer Random
+description: Soccer Randomは物理ベースのサッカーゲームです。ワンボタンでジャンプ/キックし、先に5ゴール決めた方が勝ちになります。
+iframeSrc: >-
+  https://app-197306.games.s3.yandex.net/197306/b1dbvmcde0oog4ebj00rinxr3e367fl4/index.html
 thumbnail: /new-images/thumbnails/soccer-random.jpg
-urlstr: "soccer-random"
-score: "4.1/5  (594 votes)"
-tags: ["2-player", "physics", "sports"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: soccer-random
+score: 4.1/5  (594 votes)
+tags:
+  - 2-player
+  - physics
+  - sports
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +20,7 @@ locale: ja
 
 Soccer Randomは、ミニマリストなワンボタン操作スキームを持つ、混沌として爽快な物理ベースのサッカーゲームです。目標はシンプル：対戦相手よりも先に5ゴールを決めることです。タイトルの「ランダム」部分は、ボールの種類、プレイヤーキャラクター、プレイフィールド自体まで、すべてがゴールごとに変わる可能性があり、常に適応を強いられることから来ています。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
 最初に5ゴールを決めたプレイヤーまたはチームが試合に勝ちます。できることは、2人のプレイヤーを同時にジャンプさせキックさせることだけです。挑戦は、奇抜な物理学とゲームの予測不可能な性質から来ています。ある瞬間は氷のフィールドでプレイし、次の瞬間はビーチでプレイするかもしれません。シングルボタンを使ってジャンプのタイミングを完璧に合わせ、ボールを攻撃し自分のゴールを守りましょう。

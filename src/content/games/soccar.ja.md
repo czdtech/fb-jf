@@ -1,14 +1,16 @@
 ---
-# Frontmatter: config.ts の schema に従う
-title: "SocCar"
-description: "SocCarは車でサッカーをするゲームです。フィールドを走ってボールを押し込み、相手より多く得点することを目指します。"
-iframeSrc: "https://ubg77.github.io/edit/soccar/"
+title: SocCar
+description: SocCarは車でサッカーをするゲームです。フィールドを走ってボールを押し込み、相手より多く得点することを目指します。
+iframeSrc: 'https://ubg77.github.io/edit/soccar/'
 thumbnail: /new-images/thumbnails/soccar.jpg
-urlstr: "soccar"
-score: "4.7/5  (870 votes)"
-tags: ["sports", "cars", "action"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: soccar
+score: 4.7/5  (870 votes)
+tags:
+  - sports
+  - cars
+  - action
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +19,7 @@ locale: ja
 
 SocCarは、ドライビングの高速アクションとサッカーの古典的な目標を融合させたエキサイティングなハイブリッドスポーツゲームです。プレイヤーは広いフィールドで車を操作し、巨大なボールを相手のゴールに入れることを競います。これは素早い反射神経、戦略的なポジショニング、そして強力なブーストのゲームです。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
 主な目標は、時間切れになる前に対戦相手よりも多くゴールを決めることです。（2v2モードの場合）チームメイトと協力して、他のチームを出し抜きましょう。車を使ってボールをフィールドに「ドリブル」するか、力強く打って強力なシュートを放ちましょう。ボールのコントロールが鍵であり、いつ攻撃し、いつ後退して自分のゴールを守るべきかを知ることも重要です。

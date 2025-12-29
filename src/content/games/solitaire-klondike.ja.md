@@ -1,14 +1,19 @@
 ---
-# Frontmatter: config.ts の schema に従う
-title: "Solitaire Klondike"
-description: "Solitaire KlondikeはKlondike（クロンダイク）形式のソリティアです。52枚をスートごとにA〜Kでファウンデーションにそろえることを目指します。"
-iframeSrc: "https://games.cdn.famobi.com/html5games/s/solitaire-klondike/v480/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=5b597140-77c2-4f7c-9abf-4f149d6dcbac&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=465&original_ref="
+title: Solitaire Klondike
+description: >-
+  Solitaire
+  KlondikeはKlondike（クロンダイク）形式のソリティアです。52枚をスートごとにA〜Kでファウンデーションにそろえることを目指します。
+iframeSrc: >-
+  https://games.cdn.famobi.com/html5games/s/solitaire-klondike/v480/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=5b597140-77c2-4f7c-9abf-4f149d6dcbac&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=465&original_ref=
 thumbnail: /new-images/thumbnails/solitaire-klondike.jpg
-urlstr: "solitaire-klondike"
-score: "3.9/5  (653 votes)"
-tags: ["card-game", "classic", "strategy"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: solitaire-klondike
+score: 3.9/5  (653 votes)
+tags:
+  - card-game
+  - classic
+  - strategy
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +22,7 @@ locale: ja
 
 Klondike Solitaireは、一人用カードゲームの中で最も人気があり有名なバージョンで、単に「Solitaire」と呼ばれることもよくあります。標準的な52枚のカードデッキを使用し、目標はすべてのカードを各スートごとに1つずつ、昇順で4つのファウンデーションパイルに整理することです。これは忍耐、戦略、そして少しの運のゲームです。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
 主な目標は、各スートのエースから始まりキングで終わる4つのファウンデーションパイルを構築することです（例：A♣、2♣、3♣...）。

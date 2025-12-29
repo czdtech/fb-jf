@@ -1,7 +1,8 @@
 ---
 title: Red Ball
 description: Red Ballはクラシックなプラットフォームゲームです。赤いボールを転がし、ジャンプし、パズルを解決し、レベルを完了します。
-iframeSrc: 'https://app-185271.games.s3.yandex.net/185271/uvjrp10onrrllry3esbc3gpnf7s40cj5/index.html'
+iframeSrc: >-
+  https://app-185271.games.s3.yandex.net/185271/uvjrp10onrrllry3esbc3gpnf7s40cj5/index.html
 thumbnail: /new-images/thumbnails/red-ball.jpg
 urlstr: red-ball
 score: 4.2/5  (1161 votes)
@@ -10,7 +11,7 @@ tags:
   - action
   - casual
 developer: ''
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -19,6 +20,7 @@ locale: ja
 
 Red Ballは、赤いボールを操作して進むクラシックなプラットフォームゲームです。転がりとジャンプで障害物を越え、敵を避けたり倒したりしながらゴールを目指します。
 
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **タイミングをマスター:** ジャンプとロールのタイミングが重要です。

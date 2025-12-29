@@ -1,14 +1,17 @@
 ---
-# Frontmatter: config.ts の schema に従う
-title: "Snow Rider 3D"
-description: "Snow Rider 3Dは冬をテーマにしたアクションゲームです。そりで雪山を滑り降り、障害物を避けながらできるだけ遠くへ進みます。"
-iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp45/chenling/20231130/2/index.html"
+title: Snow Rider 3D
+description: Snow Rider 3Dは冬をテーマにしたアクションゲームです。そりで雪山を滑り降り、障害物を避けながらできるだけ遠くへ進みます。
+iframeSrc: >-
+  https://szhong.4399.com/4399swf//upload_swf/ftp45/chenling/20231130/2/index.html
 thumbnail: /new-images/thumbnails/snow-rider-3d.jpg
-urlstr: "snow-rider-3d"
-score: "4.3/5  (1041 votes)"
-tags: ["action", "3d", "winter"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: snow-rider-3d
+score: 4.3/5  (1041 votes)
+tags:
+  - action
+  - 3d
+  - winter
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +20,7 @@ locale: ja
 
 Snow Rider 3Dは、広大な雪の山をそりで滑り降りる、スピード感あふれる冬をテーマにしたアクションゲームです。目標は、木、岩、雪だるま、岩石など、さまざまな障害物を巧みに避けながら、できるだけ遠くまで進むことです。スピードが上がり、チャレンジがより激しくなるにつれて、反射神経と予測力が試されます。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
 主な目標は、できるだけ長く生き延びることで最高スコアを獲得することです。先を見越して次に来る障害物を予測し、それに応じて経路を計画しましょう。丘に散らばったジャンプ台を利用して、大きな障害物や木の群れを飛び越えることができます。途中でギフトを集めることができ、これらを使ってショップで新しくてよりクールなそりをアンロックできます。

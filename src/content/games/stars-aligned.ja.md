@@ -10,7 +10,7 @@ tags:
   - relaxing
   - casual
 locale: ja
-releaseDate: 2025-10-18
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-10-18
 
 Stars Alignedは、美しくリラックスできる星座パズルゲームです。フラグメントを回転させて線をつなぎ、夜空に完全な星のパターンを形成しましょう。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
  - **フラグメントを回転：** 画面上のフラグメントをクリックまたはタップして回転させます

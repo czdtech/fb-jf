@@ -1,7 +1,8 @@
 ---
 title: Slither.io
 description: Slither.ioはヘビの成長ゲームです。ペレットを食べて大きくなり、相手を巻き込んで倒しながら上位を目指します。
-iframeSrc: 'https://app-165910.games.s3.yandex.net/165910/rm0dpvrwyxo0cakog5vc1sr4c8b6xj1s/index.html'
+iframeSrc: >-
+  https://app-165910.games.s3.yandex.net/165910/rm0dpvrwyxo0cakog5vc1sr4c8b6xj1s/index.html
 thumbnail: /new-images/thumbnails/slither-io.jpg
 urlstr: slither-io
 score: 4.8/5  (1149 votes)
@@ -10,7 +11,7 @@ tags:
   - 2 player
   - casual
 developer: ''
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -19,6 +20,7 @@ locale: ja
 
 Slither.ioは、ヘビゲームをマルチプレイヤーアリーナで遊べるようにした作品です。ペレットを食べて成長し、相手の進路をふさいで倒し、ランキング上位を目指します。操作はシンプルですが立ち回りが重要です。
 
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **ペレットを食べる:** 小さなペレットで安全に成長します。

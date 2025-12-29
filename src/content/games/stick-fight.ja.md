@@ -10,7 +10,7 @@ tags:
   - fighting
   - multiplayer
 locale: ja
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +18,7 @@ releaseDate: 2025-08-16
 
 Stick Fightは、スティックマンキャラクターを使った激しい戦闘アクションゲームです。さまざまな武器を使って相手と戦い、最後まで生き残りましょう。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
 

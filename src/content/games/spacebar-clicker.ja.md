@@ -1,14 +1,16 @@
 ---
-# Frontmatter: config.ts の schema に従う
-title: "Spacebar Clicker"
-description: "Spacebar Clickerはスペースバー連打でポイントを稼ぐクリッカーです。アップグレードで自動化し、獲得効率を上げていきます。"
-iframeSrc: "https://spacebarclicker.co/game/spacebar-counter/"
+title: Spacebar Clicker
+description: Spacebar Clickerはスペースバー連打でポイントを稼ぐクリッカーです。アップグレードで自動化し、獲得効率を上げていきます。
+iframeSrc: 'https://spacebarclicker.co/game/spacebar-counter/'
 thumbnail: /new-images/thumbnails/spacebar-clicker.jpg
-urlstr: "spacebar-clicker"
-score: "4.1/5  (866 votes)"
-tags: ["clicker", "idle", "skill"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: spacebar-clicker
+score: 4.1/5  (866 votes)
+tags:
+  - clicker
+  - idle
+  - skill
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +19,7 @@ locale: ja
 
 Spacebar Clickerは、スペースバーを押してポイントを増やすシンプルなインクリメンタルゲームです。ポイントを貯めてアップグレードを購入し、1回あたりの獲得量を増やしたり、生成を自動化したりします。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
 スペースバーを繰り返し押して最初のポイントを生成することから始めます。ポイントを獲得したら、ショップからアップグレードに投資します。これらのアップグレードには、時間の経過とともにポイントを生成する自動クリッカーや、手動で押すたびに得られるポイントを増やすマルチプライヤーが含まれる場合があります。鍵は、手動クリックと適切なアップグレードの購入をバランスよく組み合わせて、ポイント/秒を最大化することです。

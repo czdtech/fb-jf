@@ -10,7 +10,7 @@ tags:
   - strategy
   - casual
 developer: ''
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -19,6 +19,7 @@ locale: ja
 
 Retro Bowlは、レトロなピクセルアートでアメリカンフットボールの運営と試合を楽しめるゲームです。チームを編成し、選手を獲得し、試合中はプレイを選んでチームを優勝へ導きます。
 
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **チームを構築:** ドラフトや獲得を計画的に行います。

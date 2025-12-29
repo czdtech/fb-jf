@@ -1,7 +1,8 @@
 ---
 title: Raft Wars
 description: Raft Warsは物理ベースのシューティングゲームです。角度とパワーを調整して敵を狙い、いかだの上で戦います。
-iframeSrc: 'https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210301/jj8/index.html'
+iframeSrc: >-
+  https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210301/jj8/index.html
 thumbnail: /new-images/thumbnails/raft-wars.jpg
 urlstr: raft-wars
 score: 4.0/5  (1180 votes)
@@ -10,7 +11,7 @@ tags:
   - strategy
   - casual
 developer: ''
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -19,6 +20,7 @@ locale: ja
 
 Raft Warsは、2人の兄弟が自分たちのいかだから埋蔵された宝物を守る物理ベースのシューティングゲームです。角度とパワーを狙い、テニスボールと手榴弾を発射して敵を水に叩き込みます。戦略的位置決めと正確な狙いが必要です。
 
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **狙いを練習:** 角度とパワーを調整します。

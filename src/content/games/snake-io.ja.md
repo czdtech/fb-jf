@@ -1,14 +1,16 @@
 ---
-# Frontmatter: config.ts の schema に従う
-title: "Snake.io"
-description: "Snake.ioはオンラインのヘビ成長ゲームです。ペレットを食べて成長し、相手を避けたり巻き込んだりしながら上位を目指します。"
-iframeSrc: "https://snake.io/crazygames/"
+title: Snake.io
+description: Snake.ioはオンラインのヘビ成長ゲームです。ペレットを食べて成長し、相手を避けたり巻き込んだりしながら上位を目指します。
+iframeSrc: 'https://snake.io/crazygames/'
 thumbnail: /new-images/thumbnails/snake-io.jpg
-urlstr: "snake-io"
-score: "3.5/5  (677 votes)"
-tags: ["io-games", "snake", "multiplayer"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: snake-io
+score: 3.5/5  (677 votes)
+tags:
+  - io-games
+  - snake
+  - multiplayer
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +19,7 @@ locale: ja
 
 Snake.ioは、クラシックなスネークゲームに現代的なひねりを加えた人気のオンラインマルチプレイヤーゲームです。プレイヤーはヘビのようなアバターを操作し、リアルタイムで他のプレイヤーと競い合い、サーバー内で最大かつ最長のスネークを目指します。主な目標は、ゲームエリア全体に散らばる光るペレットを食べてスネークを成長させながら、対戦相手の体に衝突させることで戦略的に倒すことです。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
 あなたの主な目標はペレットを食べて成長することです。倒されたスネークが残したペレットは、通常の散らばったペレットよりもはるかに速く成長させてくれます。対戦相手を倒すには、相手の頭を自分のスネークの体に突っ込ませるように誘導する必要があります。スネークが倒されると、貴重なペレットの長い軌跡に変わります。注意してください。他のスネークの体やアリーナの壁に衝突するとゲームオーバーになります。

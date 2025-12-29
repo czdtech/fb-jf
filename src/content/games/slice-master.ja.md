@@ -9,7 +9,7 @@ tags:
   - action
   - casual
 developer: ''
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -18,6 +18,7 @@ locale: ja
 
 Slice Masterは、画面を横切って飛んでくる果物をスライスすることに挑戦します。爆弾を避け、コンボを構築し、高得点を獲得します。Fruit Ninjaスタイルのゲームプレイで、反射神経と精度が必要です。
 
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **爆弾を避ける:** 爆弾を切るとゲームオーバーになります。

@@ -1,14 +1,16 @@
 ---
-# Frontmatter: config.ts の schema に従う
-title: "Splatoon 3"
-description: "Splatoon 3はインクで塗って戦う対戦シューターです。チームで陣地を塗り広げ、ルールに沿って勝利を目指します。"
-iframeSrc: "https://bitlifeonline.github.io/splatoon-3/"
+title: Splatoon 3
+description: Splatoon 3はインクで塗って戦う対戦シューターです。チームで陣地を塗り広げ、ルールに沿って勝利を目指します。
+iframeSrc: 'https://bitlifeonline.github.io/splatoon-3/'
 thumbnail: /new-images/thumbnails/splatoon-3.jpg
-urlstr: "splatoon-3"
-score: "4.3/5  (955 votes)"
-tags: ["action", "shooting", "multiplayer"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: splatoon-3
+score: 4.3/5  (955 votes)
+tags:
+  - action
+  - shooting
+  - multiplayer
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +19,7 @@ locale: ja
 
 Splatoon 3は、目標が相手を倒すだけでなく、マップをチームの色のインクで覆うことである、鮮やかでスタイリッシュなサードパーソンシューターです。プレイヤーは、インクを撃つためのヒト型「キッド」フォームと、その中を泳ぐための「イカ」フォームを瞬時に切り替えることができる、インクリングとオクトリングと呼ばれるユニークなキャラクターを操作します。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイガイド
 
 最も一般的なゲームモードはTurf Warで、3分間でマップの最も高い割合を自分のインクで覆ったチームが勝つ4対4の戦いです。

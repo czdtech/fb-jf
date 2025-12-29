@@ -9,7 +9,7 @@ tags:
   - action
   - casual
 developer: ''
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -18,6 +18,7 @@ locale: ja
 
 Shootzは、ターゲットを素早く正確に撃つことに挑戦します。ターゲットが現れ、消える前にそれらを撃ちます。反射神経と精度が高得点の鍵です。
 
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **素早く反応:** ターゲットはすぐ消えます。

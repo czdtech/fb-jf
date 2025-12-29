@@ -10,7 +10,7 @@ tags:
   - action
   - 2 player
 developer: ''
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -19,6 +19,7 @@ locale: ja
 
 Smash Kartsは、カートレースとアイテム戦を組み合わせたマルチプレイヤーゲームです。コースを走りながら武器を拾って相手を妨害し、順位やスコアを競います。
 
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **パワーアップを拾う:** 武器やブーストが重要です。

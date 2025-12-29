@@ -9,7 +9,7 @@ tags:
   - action
   - shooter
 developer: ''
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -18,6 +18,7 @@ locale: ja
 
 Shooterは、敵の波と戦うアクションシューターです。武器をアップグレードし、弾薬を管理しながら正確に撃って生き残ります。操作はシンプルですが、立ち回りが重要です。
 
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **動き続ける:** 簡単な的にならないようにします。

@@ -10,7 +10,7 @@ tags:
   - casual
   - arcade
 developer: ''
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -19,6 +19,7 @@ locale: ja
 
 Snake Gameは、ヘビを操作して食べ物を食べ、体を伸ばしていくクラシックなアーケードゲームです。壁や自分の体に当たらないように進み、できるだけ長く続けます。
 
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **先を計画:** 数手先を考えます。

@@ -10,7 +10,7 @@ tags:
   - action
   - 2 player
 developer: ''
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -19,6 +19,7 @@ locale: ja
 
 Rocket Leagueは、サッカーとロケットパワード車を組み合わせます。アリーナを運転し、空中アクロバットを実行し、ボールをゴールに打ち込みます。チームプレイ、スキル、戦略が勝利の鍵です。
 
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **位置取り:** 常に役割に合った場所にいます。

@@ -10,7 +10,7 @@ tags:
   - 2 player
   - casual
 developer: ''
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -19,6 +19,7 @@ locale: ja
 
 Rooftop Snipersは、屋上で行われるシンプルですが陽気な物理ベースのスナイパーゲームです。2つのボタンコントロール：ジャンプとショット。対戦相手を屋根からノックするか、自分で落ちないようにします。
 
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **狙いを練習:** 物理のクセをつかみます。

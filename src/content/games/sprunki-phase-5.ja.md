@@ -9,7 +9,7 @@ tags:
   - sprunki phase 5
   - sprunki phase 5 online
 locale: ja
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Sprunki Phase 5の紹介
@@ -18,6 +18,7 @@ Sprunki Phase 5は、リズムベースの創造性と不気味で雰囲気の�
  
 ---
  
+<!-- i18n:section:tips -->
 ### Sprunki Phase 5のゲームプレイ
 
  

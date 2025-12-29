@@ -1,13 +1,16 @@
 ---
-title: "Incredibox Sprunksters - Play Incredibox Sprunksters Online"
-description: "Sprunki Parasite ParaSprunki 15は不穏な雰囲気のSprunki系ファンModです。サウンドや演出がホラー寄りになっている場合があります。"
-iframeSrc: "https://kdata1.com/2025/03/paraSprunki-update-15-0-part-222/"
+title: Incredibox Sprunksters - Play Incredibox Sprunksters Online
+description: >-
+  Sprunki Parasite ParaSprunki
+  15は不穏な雰囲気のSprunki系ファンModです。サウンドや演出がホラー寄りになっている場合があります。
+iframeSrc: 'https://kdata1.com/2025/03/paraSprunki-update-15-0-part-222/'
 thumbnail: /new-images/thumbnails/sprunki-parasite-parasprunki-15.png
-urlstr: "sprunki-parasite-parasprunki-15"
-score: "4.3/5  (372 votes)"
-tags: ["incredibox sprunksters"]
+urlstr: sprunki-parasite-parasprunki-15
+score: 4.3/5  (372 votes)
+tags:
+  - incredibox sprunksters
 locale: ja
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -24,6 +27,7 @@ Sprunki Parasite ParaSprunki 15は、不穏な雰囲気に寄せたSprunki系の
  - **隠し要素：** 組み合わせによって、追加のアニメーションや効果が解放される場合があります。
  
  
+<!-- i18n:section:how-to-play -->
 ### Sprunki Parasite ParaSprunki 15で「プレイ」する方法は？
 
 コアゲームプレイは依然として馴染みのあるドラッグアンドドロップですが、感覚は全く異なります：

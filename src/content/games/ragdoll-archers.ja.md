@@ -10,7 +10,7 @@ tags:
   - casual
   - 2 player
 developer: ''
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -19,6 +19,7 @@ locale: ja
 
 Ragdoll Archersは、ラグドール物理を取り入れたアーチェリー対戦ゲームです。角度とパワーを調整して矢を放ち、相手を倒します。シングルプレイや対戦モードが用意されている場合があります。
 
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **狙いを練習:** 角度と距離を学びます。
