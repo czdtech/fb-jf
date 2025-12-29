@@ -241,7 +241,7 @@ function classifyHeading(locale: Locale, text: string): string | null {
     fr: {
       faq: ['questions fréquentes', 'questions frequentes', 'foire aux questions', 'faq'],
       controls: ['commandes', 'guide d’utilisation', "guide d'utilisation", 'contrôles', 'controles', 'contrôle', 'controle'],
-      'how-to-play': ['comment jouer', 'mode de jeu', 'guide de jeu', 'guide du jeu', 'jouer', 'gameplay'],
+      'how-to-play': ['comment jouer', 'comment se joue', 'mode de jeu', 'guide de jeu', 'guide du jeu', 'jouer', 'gameplay'],
       rules: ['règles', 'regles'],
       tips: ['guide de jeu', 'types de mini-jeux', 'mini-jeux', 'astuces', 'conseils', 'stratégie', 'strategie', 'stratégies', 'strategies', 'tips'],
     },
