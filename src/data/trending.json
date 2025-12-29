@@ -1,58 +1,62 @@
 {
-  "generatedAt": "2025-12-28T03:55:28.445Z",
+  "generatedAt": "2025-12-29T03:57:20.396Z",
   "window": "7d",
   "source": "ga4",
   "items": [
     {
       "slug": "incredibox",
-      "score": 256
-    },
-    {
-      "slug": "fiddlebops-fix",
-      "score": 16
-    },
-    {
-      "slug": "99-nights-in-the-forest",
-      "score": 14
+      "score": 302
     },
     {
       "slug": "fiddlebops-but-dandys-world",
-      "score": 14
-    },
-    {
-      "slug": "steal-a-brainrot",
-      "score": 14
-    },
-    {
-      "slug": "fiddlebops-but-sprunki",
       "score": 13
+    },
+    {
+      "slug": "sprunki-phase-8",
+      "score": 13
+    },
+    {
+      "slug": "grow-a-garden",
+      "score": 11
     },
     {
       "slug": "incredibox-cool-as-ice",
       "score": 11
     },
     {
+      "slug": "steal-a-brainrot",
+      "score": 11
+    },
+    {
+      "slug": "sprunkgerny",
+      "score": 10
+    },
+    {
       "slug": "sprunki-clicker",
       "score": 10
     },
     {
-      "slug": "sprunki-phase-8",
-      "score": 10
-    },
-    {
-      "slug": "grow-a-garden",
-      "score": 9
-    },
-    {
-      "slug": "sprunkgerny",
+      "slug": "fiddlebops-but-sprunki",
       "score": 8
     },
     {
-      "slug": "sprunki-abgerny",
-      "score": 5
+      "slug": "fiddlebops-fix",
+      "score": 8
     },
     {
       "slug": "choir",
+      "score": 6
+    },
+    {
+      "slug": "geometry-dash",
+      "score": 6
+    },
+    {
+      "slug": "99-nights-in-the-forest",
+      "score": 5
+    },
+    {
+      "slug": "fiddlebops-sprunksters-remix",
       "score": 4
     },
     {
@@ -60,23 +64,19 @@
       "score": 3
     },
     {
-      "slug": "fiddlebops-sprunksters-remix",
-      "score": 3
-    },
-    {
-      "slug": "friday-night-funkin",
-      "score": 3
-    },
-    {
-      "slug": "geometry-dash",
-      "score": 3
-    },
-    {
-      "slug": "gladihoppers",
+      "slug": "geometry-dash-wave",
       "score": 3
     },
     {
       "slug": "incredibox-donki-abgerny",
+      "score": 3
+    },
+    {
+      "slug": "incredibox-geek-dance-simulator",
+      "score": 3
+    },
+    {
+      "slug": "incredibox-yellow-colorbox",
       "score": 3
     },
     {
@@ -88,15 +88,15 @@
       "score": 3
     },
     {
-      "slug": "baldis-basics",
-      "score": 2
+      "slug": "sprunki-abgerny",
+      "score": 3
+    },
+    {
+      "slug": "sprunki-mustard",
+      "score": 3
     },
     {
       "slug": "drive-mad",
-      "score": 2
-    },
-    {
-      "slug": "fairyland",
       "score": 2
     },
     {
@@ -104,15 +104,11 @@
       "score": 2
     },
     {
-      "slug": "geometry-dash-wave",
+      "slug": "fleeing-the-complex",
       "score": 2
     },
     {
-      "slug": "incredibox-banana",
-      "score": 2
-    },
-    {
-      "slug": "incredibox-hijinks",
+      "slug": "geometry-dash-meltdown",
       "score": 2
     },
     {
@@ -120,23 +116,19 @@
       "score": 2
     },
     {
-      "slug": "bonanza-shooter-bubble",
-      "score": 1
+      "slug": "sprunki-interactive-beta",
+      "score": 2
     },
     {
       "slug": "elastic-man",
       "score": 1
     },
     {
-      "slug": "fiddlebops-sprunkbop",
+      "slug": "fiddlebops-sprunki",
       "score": 1
     },
     {
-      "slug": "fleeing-the-complex",
-      "score": 1
-    },
-    {
-      "slug": "getaway-shootout",
+      "slug": "friday-night-funkin",
       "score": 1
     },
     {
@@ -148,7 +140,15 @@
       "score": 1
     },
     {
-      "slug": "incredibox-geek-dance-simulator",
+      "slug": "incredibox-beatnik-simulator",
+      "score": 1
+    },
+    {
+      "slug": "incredibox-choir",
+      "score": 1
+    },
+    {
+      "slug": "incredibox-hijinks",
       "score": 1
     },
     {
@@ -164,11 +164,15 @@
       "score": 1
     },
     {
-      "slug": "incredibox-yellow-colorbox",
+      "slug": "incredibox-vibin",
       "score": 1
     },
     {
       "slug": "mundo-torajo-sprunki",
+      "score": 1
+    },
+    {
+      "slug": "murder",
       "score": 1
     },
     {
@@ -180,23 +184,11 @@
       "score": 1
     },
     {
-      "slug": "sprunki-but-with-memes",
-      "score": 1
-    },
-    {
       "slug": "sprunki-craft",
       "score": 1
     },
     {
-      "slug": "sprunki-interactive-beta",
-      "score": 1
-    },
-    {
       "slug": "sprunki-minecraft",
-      "score": 1
-    },
-    {
-      "slug": "sprunki-mustard",
       "score": 1
     },
     {
