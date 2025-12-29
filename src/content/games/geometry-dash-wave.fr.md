@@ -1,8 +1,12 @@
 ---
 locale: fr
 urlstr: geometry-dash-wave
-title: "Geometry Dash Wave"
-description: "Maîtrise le rythme et traverse des niveaux piégés dans Geometry Dash Wave ! Contrôle un triangle qui monte ou descend en diagonale d’un simple clic et cale parfaitement tes taps pour éviter les obstacles dans ce platformer musical addictif."
+title: Geometry Dash Wave
+description: >-
+  Maîtrise le rythme et traverse des niveaux piégés dans Geometry Dash Wave !
+  Contrôle un triangle qui monte ou descend en diagonale d’un simple clic et
+  cale parfaitement tes taps pour éviter les obstacles dans ce platformer
+  musical addictif.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp45/chenling/20231205/04/index.html
 thumbnail: /new-images/thumbnails/geometry-dash-wave.jpg
@@ -20,6 +24,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 Geometry Dash Wave est un mode de jeu exigeant, basé sur le rythme, issu de l’univers Geometry Dash. Tu contrôles une icône triangulaire qui avance en continu dans un parcours rempli de pièges. La mécanique « wave » te demande un timing très précis : ton triangle se déplace en diagonale vers le haut ou vers le bas selon que tu maintiens ou relâches la touche.
 
+<!-- i18n:section:tips -->
 ### Guide de gameplay
 
 - **Mécanique de wave** : maintiens le clic / tap pour faire monter l’icône en diagonale, relâche pour la faire descendre. Tu dessines ainsi une trajectoire en zigzag.

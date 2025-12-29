@@ -3,14 +3,15 @@ locale: fr
 urlstr: crescent-solitaire
 title: Crescent Solitaire
 description: "Crescent Solitaire est une variante du solitaire en croissant\_: réorganise les cartes autour des As et des Rois pour vider l’arc de cartes."
-iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/crescent-solitaire-phaser/'
+iframeSrc: >-
+  https://ams.cdn.arkadiumhosted.com/assets/global/game/crescent-solitaire-phaser/
 thumbnail: /new-images/thumbnails/crescent-solitaire.jpg
 tags:
   - card
   - puzzle
   - casual
 score: 4.4/5  (944 votes)
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
@@ -26,6 +27,7 @@ croissant ou décroissant, selon la direction.
 L’objectif est de vider tout l’arc de cartes avant d’avoir épuisé tes
 mouvements ou remélanges autorisés.
 
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **Comprends les piles centrales**  

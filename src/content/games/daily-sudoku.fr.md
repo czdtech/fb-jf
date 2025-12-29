@@ -21,6 +21,7 @@ Daily Sudoku te propose une nouvelle grille 9×9 chaque jour, avec plusieurs
 niveaux de difficulté. Le but est de remplir la grille avec des chiffres de 1 à
 9 sans répéter un même chiffre dans une ligne, une colonne ou un bloc 3×3.
 
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **Commence par les évidences**  

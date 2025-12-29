@@ -1,18 +1,17 @@
 ---
 locale: fr
 urlstr: confront
-title: "Confront"
-description: >-
-  Confront est un jeu de tir multijoueur nerveux : choisis ta classe, vise vite
-  et coopère avec ton équipe pour prendre l’avantage sur la carte.
-iframeSrc: 'https://szhong.4399.com/4399swf//upload_swf/ftp37/gamehwq/20220228/07/index.htm'
+title: Confront
+description: "Confront est un jeu de tir multijoueur nerveux\_: choisis ta classe, vise vite et coopère avec ton équipe pour prendre l’avantage sur la carte."
+iframeSrc: >-
+  https://szhong.4399.com/4399swf//upload_swf/ftp37/gamehwq/20220228/07/index.htm
 thumbnail: /new-images/thumbnails/confront.jpg
 tags:
   - action
   - shooting
   - 2 player
 score: 4.7/5  (407 votes)
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
@@ -29,6 +28,7 @@ Tu choisis ton personnage ou ta classe, chacun ayant souvent des armes ou
 capacités différentes (fusil, sniper, soutien, etc.), puis tu entres dans
 l’arène pour éliminer l’équipe adverse ou remplir un objectif.
 
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **Apprends la carte**  

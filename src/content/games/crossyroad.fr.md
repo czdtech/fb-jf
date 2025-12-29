@@ -5,14 +5,13 @@ title: Crossy Road
 description: >-
   Dans Crossy Road, fais traverser routes et rivières à ton personnage sans te
   faire renverser ni tomber à l’eau, et va le plus loin possible.
-iframeSrc: >-
-  https://www.playfiddlebops.com/embed/crossyroad/index.html
+iframeSrc: 'https://www.playfiddlebops.com/embed/crossyroad/index.html'
 thumbnail: /new-images/thumbnails/crossyroad.jpg
 tags:
   - action
   - casual
 score: 4.8/5  (1104 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 
@@ -39,6 +38,7 @@ faire percuter par les voitures, trains ou tomber dans l’eau.
 Chaque pas en avant rapporte des points. Plus tu avances, plus le rythme des
 véhicules s’accélère, et plus il devient difficile de trouver le bon timing.
 
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **Regarde plusieurs lignes à l’avance**  

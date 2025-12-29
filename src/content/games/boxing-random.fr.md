@@ -1,9 +1,10 @@
 ---
 locale: fr
 urlstr: boxing-random
-title: "Boxing Random"
-description: "Boxing Random est un jeu de boxe complètement fou basé sur la physique : un seul bouton pour sauter/frapper, des bras qui changent de taille et des rounds aléatoires à gagner en 5 KO."
-iframeSrc: "https://app-197305.games.s3.yandex.net/197305/ymb675rkal3nz409zur9etesdbd74y4d/index.html"
+title: Boxing Random
+description: "Boxing Random est un jeu de boxe complètement fou basé sur la physique\_: un seul bouton pour sauter/frapper, des bras qui changent de taille et des rounds aléatoires à gagner en 5 KO."
+iframeSrc: >-
+  https://app-197305.games.s3.yandex.net/197305/ymb675rkal3nz409zur9etesdbd74y4d/index.html
 thumbnail: /new-images/thumbnails/boxing-random.jpg
 tags:
   - sports
@@ -26,6 +27,7 @@ Le mot « Random » n’est pas là par hasard : à chaque manche, les par
 
 Cette imprévisibilité garantit que deux rounds ne se ressemblent jamais et t’oblige à revoir ton plan en permanence.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 - **Accepte le chaos :** Ce n’est pas une simu réaliste. Observe la configuration du round et tire-en parti.  

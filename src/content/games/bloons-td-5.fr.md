@@ -1,9 +1,9 @@
 ---
 locale: fr
 urlstr: bloons-td-5
-title: "Bloons TD 5"
-description: "Bloons TD 5 approfondit la formule avec de nombreuses nouvelles tours, agents spéciaux, Monkey Lab et le ZOMG : construis une économie de fermes, gère toutes les classes de bloons et vise le Temple du Dieu‑Singe."
-iframeSrc: "https://1000freegames.github.io/swf/bloons-tower-defense-5.html"
+title: Bloons TD 5
+description: "Bloons TD 5 approfondit la formule avec de nombreuses nouvelles tours, agents spéciaux, Monkey Lab et le ZOMG\_: construis une économie de fermes, gère toutes les classes de bloons et vise le Temple du Dieu‑Singe."
+iframeSrc: 'https://1000freegames.github.io/swf/bloons-tower-defense-5.html'
 thumbnail: /new-images/thumbnails/bloons-td-5.jpg
 tags:
   - casual
@@ -28,6 +28,7 @@ BTD5 apporte notamment :
 -   **Un contenu massif :** dizaines de pistes, Special Missions, Daily Challenges et un mode coop complet.  
 -   **Capacités actives :** plusieurs upgrades T4 donnent des compétences déclenchables (MOAB Assassin, Downdraft, etc.).
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 -   **L’économie passe avant tout :** Pose des **Banana Farms** dès que possible. Le chemin 4/2 (`Banana Research Facility` + `More Bananas`) génère des caisses de cash à chaque manche.  

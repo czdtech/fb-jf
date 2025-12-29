@@ -25,6 +25,7 @@ Chaque case de lettre fait partie d’un mot horizontal et d’un mot vertical,
 ce qui te permet de vérifier les réponses par croisement. Les thèmes
 quotidiens peuvent influencer quelques réponses clés.
 
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **Choisis une définition de départ**  

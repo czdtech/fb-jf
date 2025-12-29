@@ -38,6 +38,7 @@ Monkey Mart est un jeu de simulation charmant dans lequel tu gères un supermarc
 *   **Interactions automatiques :** en te tenant près d'un champ, d'une machine ou d'un rayon, ton personnage se met automatiquement à planter, produire ou réapprovisionner.
 *   **Menus :** appuie sur les icônes à l'écran pour améliorer les installations, acheter de nouvelles zones ou engager des employés.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions
 
 1.  **Q : Comment gagner de l'argent rapidement ?**

@@ -1,9 +1,13 @@
 ---
 locale: fr
 urlstr: brain-trainer
-title: "Brain Trainer"
-description: "Brain Trainer regroupe plusieurs mini‑jeux pour entraîner ta mémoire, ta logique, ton calcul mental et ton sens spatial dans une série de défis rapides."
-iframeSrc: "https://braintrainer.h5games.usercontent.goog/v/4f2ffbc6-4208-4087-bfaf-ab0db086da02/"
+title: Brain Trainer
+description: >-
+  Brain Trainer regroupe plusieurs mini‑jeux pour entraîner ta mémoire, ta
+  logique, ton calcul mental et ton sens spatial dans une série de défis
+  rapides.
+iframeSrc: >-
+  https://braintrainer.h5games.usercontent.goog/v/4f2ffbc6-4208-4087-bfaf-ab0db086da02/
 thumbnail: /new-images/thumbnails/brain-trainer.jpg
 tags:
   - puzzle
@@ -18,6 +22,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 *Brain Trainer* est une compilation de mini‑jeux rapides conçus pour stimuler différentes capacités cognitives : mémoire, logique, calcul, perception spatiale, etc. Chaque manche te propose un petit puzzle chronométré, et tes performances sont agrégées pour donner une sorte de « score cérébral ».
 
+<!-- i18n:section:tips -->
 ### Types de mini-jeux
 
 Le jeu alterne plusieurs catégories; voici quelques exemples emblématiques :

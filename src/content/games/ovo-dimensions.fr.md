@@ -14,7 +14,7 @@ tags:
   - skill
 score: 4.9/5  (278 votes)
 developer: ''
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -38,6 +38,7 @@ OvO Dimensions est une extension de la série OvO, un platformer 2D extrêmement
 *   **Glissade/Accroupissement :** utilise la touche flèche bas ou S pour glisser ou t'accroupir, passant à travers des passages bas ou esquivant des obstacles.
 *   **Saut mural :** quand le personnage touche un mur, appuyer sur la touche de saut permet un rebond mural ; des sauts muraux continus peuvent être utilisés pour grimper.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions
 
 1.  **Q : Quelles sont les différences entre OvO Dimensions et OvO Game ?**

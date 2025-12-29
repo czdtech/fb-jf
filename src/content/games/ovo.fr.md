@@ -3,7 +3,8 @@ locale: fr
 urlstr: ovo
 title: OvO
 description: "OvO est un platformer nerveux basé sur la vitesse\_: glisse, rebondis et enchaîne les sauts pour franchir des niveaux courts mais très techniques."
-iframeSrc: 'https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20230129/1/index.html'
+iframeSrc: >-
+  https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20230129/1/index.html
 thumbnail: /new-images/thumbnails/ovo.jpg
 tags:
   - platformer
@@ -11,7 +12,7 @@ tags:
   - skill
 score: 4.6/5  (773 votes)
 developer: ''
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -35,6 +36,7 @@ OvO Game est un platformer rapide et extrêmement exigeant. Les joueurs contrôl
 *   **Glissade :** utilise la touche flèche bas ou S pour glisser, ce qui peut être utilisé pour passer à travers des passages étroits.
 *   **Saut mural :** quand le personnage est près d'un mur, appuyer sur la touche de saut permet un rebond mural ; des sauts muraux continus peuvent être utilisés pour grimper.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions
 
 1.  **Q : Quel est le niveau de difficulté de OvO Game ?**

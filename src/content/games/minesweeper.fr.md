@@ -1,14 +1,20 @@
 ---
 locale: fr
-urlstr: "minesweeper"
-title: "Minesweeper"
-description: "Minesweeper est un jeu de puzzle solo où tu dois vider une grille contenant des mines cachées sans les déclencher, en t’aidant des nombres qui indiquent combien de mines les entourent."
-iframeSrc: "https://freeonlinegames.github.io/games/minesweeper/"
+urlstr: minesweeper
+title: Minesweeper
+description: >-
+  Minesweeper est un jeu de puzzle solo où tu dois vider une grille contenant
+  des mines cachées sans les déclencher, en t’aidant des nombres qui indiquent
+  combien de mines les entourent.
+iframeSrc: 'https://freeonlinegames.github.io/games/minesweeper/'
 thumbnail: /new-images/thumbnails/minesweeper.jpg
-tags: ["puzzle", "strategy", "casual"]
-score: "3.6/5  (289 votes)"
-developer: ""
-releaseDate: 2025-08-16
+tags:
+  - puzzle
+  - strategy
+  - casual
+score: 3.6/5  (289 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -31,6 +37,7 @@ Minesweeper est un jeu de puzzle classique pour un seul joueur. Ton objectif est
 - **Clic droit / appui long :** placer ou enlever un drapeau sur une case suspecte.  
 - **Double‑clic sur un nombre :** si toutes les mines autour sont correctement marquées, un double‑clic révèle automatiquement les autres cases adjacentes sûres.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions
 
 1.  **Q : Existe‑t‑il une stratégie qui garantit toujours la victoire ?**  

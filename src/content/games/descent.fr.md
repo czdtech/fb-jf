@@ -3,8 +3,7 @@ locale: fr
 urlstr: descent
 title: Descent
 description: "Descent est un jeu de chute libre arcade\_: fais descendre ta bille à travers des plateformes mobiles sans te faire écraser."
-iframeSrc: >-
-  https://g2.igroutka.ru/games/17/4tWRaCD7AOzxbTsE/descent/
+iframeSrc: 'https://g2.igroutka.ru/games/17/4tWRaCD7AOzxbTsE/descent/'
 thumbnail: /new-images/thumbnails/descent.jpg
 tags:
   - action
@@ -24,6 +23,7 @@ sans te retrouver coincé ni écrasé par l’écran qui défile.
 
 Plus tu descends, plus la vitesse augmente et plus les obstacles se compliquent.
 
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **Anticipe les ouvertures**  

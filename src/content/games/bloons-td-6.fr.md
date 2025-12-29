@@ -1,9 +1,9 @@
 ---
 locale: fr
 urlstr: bloons-td-6
-title: "Bloons TD 6"
-description: "Bloons TD 6 pousse la défense de tour au maximum : graphismes 3D, héros, 3 chemins d’upgrade, Monkey Knowledge et Paragons pour les parties très longues."
-iframeSrc: "https://html5.gamenora.com/Bloons%20TD%206/"
+title: Bloons TD 6
+description: "Bloons TD 6 pousse la défense de tour au maximum\_: graphismes 3D, héros, 3 chemins d’upgrade, Monkey Knowledge et Paragons pour les parties très longues."
+iframeSrc: 'https://html5.gamenora.com/Bloons%20TD%206/'
 thumbnail: /new-images/thumbnails/bloons-td-6.jpg
 tags:
   - casual
@@ -27,11 +27,12 @@ La principale révolution vient des **trois chemins d’amélioration** disponib
 -   **Ligne de vue :** pour la première fois, des éléments 3D bloquent la vision de certaines tours, rendant le placement encore plus important.
 -   **Paragons :** en sacrifiant les trois tours Tier 5 d’une même famille, tu obtiens une version Paragon extrêmement puissante, pensée pour le très late game et les Boss Events.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 -   **Les synergies priment :** BTD6 récompense les combinaisons. Par exemple, associe un Super Monkey 2/0/3 à un **Alchemist 4/2/0 (Stronger Stimulant)** pour booster drastiquement ses dégâts et sa cadence.
 -   **Choisis le bon héros :**
-    -   **Sauda :** reine des cartes à goulot d’étranglement, elle nettoie seule les 20 à 30 premières manches.
+    -   **Sauda :** reine des cartes à goulot d’étranglement, elle nettoie seule les toutes premières manches.
     -   **Benjamin :** ne tire jamais mais génère de grosses sommes d’argent, idéal si tu veux spammer les Banana Farms.
     -   **Geraldo :** un héros “boutique” qui vend les outils nécessaires à n’importe quelle situation.
 -   **Maîtrise les menaces majeures :**
@@ -74,4 +75,3 @@ Il faut avoir les trois tours Tier 5 d’un même singe sur le terrain. L’un d
 <!-- i18n:faq:id=faq:bloons-td-6:what-is-chimps-mode-3b6712c1 -->
 **5. Qu’est-ce que le mode CHIMPS ?**  
 C’est le défi ultime : pas de Continues, pas de vies perdues, pas de revenus bonus, pas de Monkey Knowledge, pas de Powers et pas de Selling. Seule une stratégie parfaite te mènera à la victoire.
-

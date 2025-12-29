@@ -24,6 +24,7 @@ fournies, en t’aidant des lettres croisées.
 C’est un excellent exercice quotidien pour travailler ton vocabulaire et ton
 sens de la déduction.
 
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **Commence par les définitions les plus simples**  

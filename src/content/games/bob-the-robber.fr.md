@@ -1,9 +1,10 @@
 ---
 locale: fr
 urlstr: bob-the-robber
-title: "Bob the Robber"
-description: "Dans Bob the Robber, incarne un cambrioleur malin : faufile‑toi entre les gardes, coupe les caméras, crochette les serrures et vole le butin sans te faire repérer."
-iframeSrc: "https://app-190385.games.s3.yandex.net/190385/i7ty94goiswe8ohxdysos1uzmur0yfwk/index.html"
+title: Bob the Robber
+description: "Dans Bob the Robber, incarne un cambrioleur malin\_: faufile‑toi entre les gardes, coupe les caméras, crochette les serrures et vole le butin sans te faire repérer."
+iframeSrc: >-
+  https://app-190385.games.s3.yandex.net/190385/i7ty94goiswe8ohxdysos1uzmur0yfwk/index.html
 thumbnail: /new-images/thumbnails/bob-the-robber.jpg
 tags:
   - stealth
@@ -19,6 +20,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 Chaque niveau regorge de systèmes de sécurité : gardes en rondes, caméras, lasers, claviers, portes verrouillées. Tout repose sur l’observation, le timing et la discrétion : reste dans l’ombre, crochette les serrures, résous les petits puzzles et atteins la sortie sans te faire repérer.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 - **La patience avant tout :** Ne fonce jamais. Analyse les trajets des gardes et le balayage des caméras avant de faire un pas, sinon tu risques de tomber pile dans leur champ de vision.

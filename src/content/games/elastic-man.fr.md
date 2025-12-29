@@ -25,6 +25,7 @@ La peau réagit de manière très fluide, avec des rebonds et des oscillations
 amusantes. L’expérience est surtout faite pour se détendre ou tester les
 limites de la physique.
 
+<!-- i18n:section:how-to-play -->
 ### Guide d’utilisation
 
 1.  **Attrape une zone du visage**  

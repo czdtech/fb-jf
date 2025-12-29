@@ -25,6 +25,7 @@ remplis d’ennemis et d’obstacles.
 L’objectif est de rejoindre la fin du parcours en ramassant un maximum d’objets
 sans perdre toutes tes vies.
 
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **Apprends les timings de saut**  

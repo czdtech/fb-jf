@@ -26,6 +26,7 @@ que tu dois résoudre pour remplir tous les mots.
 Les lettres s’entrecroisent, ce qui te permet de vérifier les réponses et de
 avancer progressivement même si certaines définitions sont difficiles.
 
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **Commence par les définitions faciles**  

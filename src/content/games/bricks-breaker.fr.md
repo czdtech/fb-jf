@@ -18,6 +18,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 Dans *Bricks Breaker*, tu dois détruire toutes les briques d’un niveau en renvoyant une balle avec ta raquette. Certaines briques demandent plusieurs coups, d’autres lâchent des bonus qui peuvent t’aider (multi‑balle, raquette élargie, lasers, etc.).
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1. **Contrôle de la raquette**  

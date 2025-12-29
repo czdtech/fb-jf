@@ -1,9 +1,9 @@
 ---
 locale: fr
 urlstr: blockdrop
-title: "BlockDrop"
-description: "BlockDrop est un puzzle 10×10 relaxant : fais glisser des blocs sur la grille pour compléter des lignes et tenir le plus longtemps possible sans te retrouver à court de mouvements."
-iframeSrc: "https://51vi4vae20f8o.h5games.usercontent.goog/v/66bqinuuh36b8/"
+title: BlockDrop
+description: "BlockDrop est un puzzle 10×10 relaxant\_: fais glisser des blocs sur la grille pour compléter des lignes et tenir le plus longtemps possible sans te retrouver à court de mouvements."
+iframeSrc: 'https://51vi4vae20f8o.h5games.usercontent.goog/v/66bqinuuh36b8/'
 thumbnail: /new-images/thumbnails/blockdrop.png
 tags:
   - puzzle
@@ -18,6 +18,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 *BlockDrop* est un classique du puzzle : tu disposes de trois blocs à la fois et dois les placer sur une grille 10×10. Dès qu’une ligne entière est remplie, elle disparaît et tu gagnes des points. La partie s’arrête quand aucune des trois pièces ne peut être posée.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1.  **Planifie pour les trois blocs**  

@@ -1,14 +1,17 @@
 ---
 locale: fr
 urlstr: incredibox-sprinkle
-title: "Incredibox Sprinkle"
-description: "Sprinkle est un jeu de création musicale simple et fun : fais glisser des personnages, combine leurs sons et compose des morceaux uniques en quelques clics."
-iframeSrc: "https://g.sprinkleincredibox.com/web-game/SprinkleIncredibox/index.html"
+title: Incredibox Sprinkle
+description: >-
+  Sprinkle est un jeu de création musicale simple et fun : fais glisser des
+  personnages, combine leurs sons et compose des morceaux uniques en quelques
+  clics.
+iframeSrc: 'https://g.sprinkleincredibox.com/web-game/SprinkleIncredibox/index.html'
 thumbnail: /new-images/thumbnails/incredibox-sprinkle.png
 tags:
   - incredibox sprinkle
 score: 3.8/5  (387 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 
@@ -18,6 +21,7 @@ releaseDate: 2025-12-04
 - **Glisser & combiner** : fais glisser différents personnages vers les emplacements prévus pour qu’ils jouent leurs notes. Chaque personnage apporte un son unique qui se superpose aux autres pour former un arrangement complet.  
 - **Essayer et innover** : tout l’intérêt de Sprinkle est d’expérimenter des combinaisons. En changeant simplement l’ordre ou le choix des personnages, tu obtiendras d’innombrables variantes.
 
+<!-- i18n:section:controls -->
 ### Guide d’utilisation
 
 - **Souris** : l’outil principal. Glisse les personnages depuis le bas de l’écran vers la scène.  

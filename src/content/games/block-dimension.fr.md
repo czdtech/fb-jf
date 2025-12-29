@@ -1,9 +1,9 @@
 ---
 locale: fr
 urlstr: block-dimension
-title: "Block Dimension"
-description: "Block Dimension est un puzzle de blocs 10×10 élégant : place des formes, crée des lignes complètes et enchaîne les combos sans remplir la grille."
-iframeSrc: "https://62dfg8ps4f7lg.h5games.usercontent.goog/v/0k3gcfq0ljti8/"
+title: Block Dimension
+description: "Block Dimension est un puzzle de blocs 10×10 élégant\_: place des formes, crée des lignes complètes et enchaîne les combos sans remplir la grille."
+iframeSrc: 'https://62dfg8ps4f7lg.h5games.usercontent.goog/v/0k3gcfq0ljti8/'
 thumbnail: /new-images/thumbnails/block-dimension.png
 tags:
   - puzzle
@@ -22,6 +22,7 @@ Contrairement aux puzzles classiques, cette version mise sur une esthétique tr�
 
 La partie s’achève lorsque tu ne peux plus poser aucune des trois pièces proposées simultanément, d’où l’importance d’une bonne vision d’ensemble.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1.  **Anticipe les trois pièces**  

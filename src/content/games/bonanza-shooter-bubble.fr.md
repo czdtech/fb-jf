@@ -1,9 +1,9 @@
 ---
 locale: fr
 urlstr: bonanza-shooter-bubble
-title: "Bonanza Shooter Bubble"
-description: "Bonanza Shooter Bubble est un bubble shooter coloré : vise, banque sur les parois et fais tomber de gros paquets de bulles pour marquer un maximum de points."
-iframeSrc: "https://65bijcm9l375g.h5games.usercontent.goog/v/6v521t1km2i30/"
+title: Bonanza Shooter Bubble
+description: "Bonanza Shooter Bubble est un bubble shooter coloré\_: vise, banque sur les parois et fais tomber de gros paquets de bulles pour marquer un maximum de points."
+iframeSrc: 'https://65bijcm9l375g.h5games.usercontent.goog/v/6v521t1km2i30/'
 thumbnail: /new-images/thumbnails/bonanza-shooter-bubble.jpg
 tags:
   - puzzle
@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 *Bonanza Shooter Bubble* reprend la formule classique du bubble shooter. Tu tires une bulle vers le haut pour la coller à d’autres bulles : si tu formes un groupe d’au moins trois bulles de la même couleur, elles éclatent. Les bulles qui ne sont plus accrochées à rien tombent aussi, ce qui rapporte encore plus de points.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1. **Utilise les rebonds sur les murs**  

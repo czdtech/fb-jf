@@ -37,6 +37,7 @@ Moving Truck est un puzzle physique où tu dois charger des meubles et objets de
 *   **Placer :** fais‑le glisser jusqu'à l'endroit souhaité dans le camion, puis relâche pour le déposer.
 *   **Faire pivoter :** certaines versions permettent de faire tourner les objets (molette de la souris ou touches dédiées).
 
+<!-- i18n:section:faq -->
 ### Foire aux questions
 
 1.  **Q : Quel est l'objectif exact ?**

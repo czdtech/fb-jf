@@ -3,7 +3,8 @@ locale: fr
 urlstr: only-up
 title: Only Up
 description: "Only Up est un jeu de parkour vertical exigeant\_: grimpe toujours plus haut en enchaînant sauts précis et plateforme instables, en sachant qu'une erreur peut te renvoyer très bas."
-iframeSrc: 'https://szhong.4399.com/4399swf//upload_swf/ftp44/chenling/20230826/01/index.htm'
+iframeSrc: >-
+  https://szhong.4399.com/4399swf//upload_swf/ftp44/chenling/20230826/01/index.htm
 thumbnail: /new-images/thumbnails/only-up.jpg
 tags:
   - parkour
@@ -11,7 +12,7 @@ tags:
   - challenge
 score: 3.5/5  (1311 votes)
 developer: ''
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -35,6 +36,7 @@ Only Up est un platformer 3D extrêmement exigeant. L'objectif est de grimper co
 *   **Sprint :** certaines versions proposent une fonction de sprint, souvent combinée avec le saut pour des bonds plus longs (ex. Maj + Espace).
 *   **Contrôle de la caméra :** utilise la souris pour contrôler la caméra, permettant une meilleure observation des alentours et la planification de l'itinéraire.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions
 
 1.  **Q : Le jeu a‑t‑il des points de sauvegarde ?**

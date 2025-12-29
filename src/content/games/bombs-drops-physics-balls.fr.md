@@ -1,9 +1,9 @@
 ---
 locale: fr
 urlstr: bombs-drops-physics-balls
-title: "Bombs Drops Physics balls"
-description: "Bombs Drops Physics balls est un puzzle de physique : laisse tomber des bombes et des balles au bon endroit pour déclencher des réactions en chaîne et détruire les structures avec un minimum de coups."
-iframeSrc: "https://6nhcl6kaecsio.h5games.usercontent.goog/v/09ccnat7ptqs8/"
+title: Bombs Drops Physics balls
+description: "Bombs Drops Physics balls est un puzzle de physique\_: laisse tomber des bombes et des balles au bon endroit pour déclencher des réactions en chaîne et détruire les structures avec un minimum de coups."
+iframeSrc: 'https://6nhcl6kaecsio.h5games.usercontent.goog/v/09ccnat7ptqs8/'
 thumbnail: /new-images/thumbnails/bombs-drops-physics-balls.jpg
 tags:
   - puzzle
@@ -18,6 +18,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 Dans *Bombs Drops Physics balls*, tu dois utiliser la gravité et les collisions pour faire s’effondrer des constructions. Tu disposes d’un certain nombre de bombes ou de balles à lâcher ; à toi de choisir l’endroit et le timing pour provoquer les plus gros dégâts avec le moins de lancers possible.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1. **Vise les points faibles**  

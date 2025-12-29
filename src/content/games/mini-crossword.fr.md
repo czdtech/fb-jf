@@ -1,14 +1,19 @@
 ---
 locale: fr
-urlstr: "mini-crossword"
-title: "Mini Crossword"
-description: "Mini Crossword est une mini‑grille de mots croisés quotidienne qui propose un défi rapide et agréable, adapté à tous les niveaux."
-iframeSrc: "https://ams.cdn.arkadiumhosted.com/assets/global/game/daily-crossword-mini/"
+urlstr: mini-crossword
+title: Mini Crossword
+description: >-
+  Mini Crossword est une mini‑grille de mots croisés quotidienne qui propose un
+  défi rapide et agréable, adapté à tous les niveaux.
+iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/daily-crossword-mini/'
 thumbnail: /new-images/thumbnails/mini-crossword.jpg
-tags: ["puzzle", "word", "casual"]
-score: "4.9/5  (363 votes)"
-developer: ""
-releaseDate: 2025-08-16
+tags:
+  - puzzle
+  - word
+  - casual
+score: 4.9/5  (363 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -32,6 +37,7 @@ Mini Crossword est un jeu de mots croisés quotidien au format compact. Tu y ret
 - **Voir l’indice :** l’interface affiche généralement l’indice correspondant au mot actuellement sélectionné.  
 - **Vérifier :** certaines versions proposent un bouton pour vérifier si tes réponses sont correctes.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions
 
 1.  **Q : À quel public s’adresse Mini Crossword ?**  

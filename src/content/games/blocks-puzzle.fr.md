@@ -1,9 +1,9 @@
 ---
 locale: fr
 urlstr: blocks-puzzle
-title: "Blocks Puzzle"
-description: "Blocks Puzzle est un jeu de blocs 10×10 addictif : ajuste tes placements pour compléter des lignes, créer des combos et éviter de bloquer ton plateau."
-iframeSrc: "https://6ljls661l4lkg.h5games.usercontent.goog/v/1mil2011qbul0/"
+title: Blocks Puzzle
+description: "Blocks Puzzle est un jeu de blocs 10×10 addictif\_: ajuste tes placements pour compléter des lignes, créer des combos et éviter de bloquer ton plateau."
+iframeSrc: 'https://6ljls661l4lkg.h5games.usercontent.goog/v/1mil2011qbul0/'
 thumbnail: /new-images/thumbnails/blocks-puzzle.jpg
 tags:
   - puzzle
@@ -18,6 +18,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 Dans *Blocks Puzzle*, tu dois placer des formes sur une grille 10×10 pour former des lignes complètes. À chaque tour, trois pièces te sont proposées ; une fois posées, tu en reçois trois nouvelles. Le jeu s’arrête lorsque tu ne peux plus poser aucune des pièces.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1.  **Observe toujours les trois pièces**  

@@ -3,7 +3,8 @@ locale: fr
 urlstr: cut-the-rope
 title: Cut the Rope
 description: "Cut the Rope est un puzzle physique culte\_: coupe les cordes dans le bon ordre pour faire tomber le bonbon dans la bouche d’Om Nom."
-iframeSrc: 'https://games.cdn.famobi.com/html5games/c/cut-the-rope/v020/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=4531b37c-a8e0-4a67-9ebd-e8d3190b6277&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=467&original_ref='
+iframeSrc: >-
+  https://games.cdn.famobi.com/html5games/c/cut-the-rope/v020/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=4531b37c-a8e0-4a67-9ebd-e8d3190b6277&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=467&original_ref=
 thumbnail: /new-images/thumbnails/cut-the-rope.jpg
 tags:
   - puzzle
@@ -25,6 +26,7 @@ créature verte, en coupant les cordes dans le bon ordre et au bon moment.
 En route, tu peux aussi essayer de ramasser les trois étoiles de chaque niveau
 pour un score parfait.
 
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **Analyse le niveau avant de couper**  

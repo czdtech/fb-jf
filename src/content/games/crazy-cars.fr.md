@@ -9,7 +9,7 @@ tags:
   - racing
   - casual
 score: 3.6/5  (197 votes)
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
@@ -24,6 +24,7 @@ Le but est de parcourir la plus grande distance possible sans emboutir les
 autres voitures ni sortir de la route, tout en profitant des bonus pour booster
 ta vitesse ou ton score.
 
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **Reste concentré sur le trafic**  

@@ -36,6 +36,7 @@ Moto X3M est un jeu de course et de cascades à moto spectaculaire. Tu traverses
 *   **Freiner :** touche S ou flèche bas.
 *   **Se pencher vers l'avant / l'arrière :** touches A/D ou flèches gauche/droite pour contrôler la posture de la moto en l'air ou sur les pentes.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions
 
 1.  **Q : Comment obtenir un meilleur score ?**

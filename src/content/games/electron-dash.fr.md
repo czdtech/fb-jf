@@ -9,7 +9,7 @@ tags:
   - action
   - casual
 score: 4.4/5  (1386 votes)
-releaseDate: 2025-09-09
+releaseDate: 2025-09-09T00:00:00.000Z
 ---
 
 
@@ -25,6 +25,7 @@ apparaissent.
 Ton objectif est de parcourir la plus grande distance possible en sautant ou en
 changeant de côté de tunnel au bon moment.
 
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **Lis le tunnel à l’avance**  

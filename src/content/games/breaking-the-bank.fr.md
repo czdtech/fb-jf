@@ -1,9 +1,9 @@
 ---
 locale: fr
 urlstr: breaking-the-bank
-title: "Breaking the Bank"
-description: "Breaking the Bank est le tout premier épisode d’Henry Stickmin : choisis une méthode pour cambrioler une banque et découvre une série de FAILs hilarants… une seule option mène au « succès »."
-iframeSrc: "https://rebemanae.github.io/breaking-the-bank/"
+title: Breaking the Bank
+description: "Breaking the Bank est le tout premier épisode d’Henry Stickmin\_: choisis une méthode pour cambrioler une banque et découvre une série de FAILs hilarants… une seule option mène au «\_succès\_»."
+iframeSrc: 'https://rebemanae.github.io/breaking-the-bank/'
 thumbnail: /new-images/thumbnails/breaking-the-bank.jpg
 tags:
   - puzzle
@@ -19,6 +19,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 Tu ne contrôles pas Henry directement : tout le gameplay tient en **une seule sélection de méthode**. Le plaisir provient des innombrables FAIL comiques plutôt que d’une victoire immédiate.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 Le jeu se résume à essayer chaque option, regarder l’animation, puis revenir au menu pour en tester une autre. Il n’y a littéralement qu’une décision à prendre, ce qui en fait un excellent terrain de jeu pour l’humour absurde d’Henry Stickmin.
