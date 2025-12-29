@@ -1,18 +1,17 @@
 ---
 locale: ko
 urlstr: sprunkle-bops
-title: 'Sprunkle Bops 스프렁클 밥스'
+title: Sprunkle Bops 스프렁클 밥스
 description: >-
-  Sprunkle Bops는 Incredibox 스타일 음악 믹싱 게임을 확장한 팬 메이드 모드로,
-  커스텀 페이즈와 새로운 게임 요소를 더해 랩 배틀 형태의 리듬 플레이를
-  즐길 수 있게 해 줍니다.
+  Sprunkle Bops는 Incredibox 스타일 음악 믹싱 게임을 확장한 팬 메이드 모드로, 커스텀 페이즈와 새로운 게임 요소를 더해
+  랩 배틀 형태의 리듬 플레이를 즐길 수 있게 해 줍니다.
 iframeSrc: 'https://turbowarp.org/1122091658/embed'
 thumbnail: /new-images/thumbnails/sprunkle-bops.png
 tags:
   - sprunkle bops
   - sprunkle bops online
 score: 4.3/5  (524 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 
@@ -25,6 +24,7 @@ Sprunkle Bops는 인기 음악 믹싱 게임 Incredibox를 기반으로 한 확�
 
 ---
 
+<!-- i18n:section:tips -->
 ### Sprunkle Bops 게임 플레이
 
 - **배틀 시작:**

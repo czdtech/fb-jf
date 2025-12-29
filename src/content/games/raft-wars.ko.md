@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: raft-wars
-title: "Raft Wars 래프트 워즈"
+title: Raft Wars 래프트 워즈
 description: >-
-  두 형제가 발견한 보물을 지키기 위해 해적과 바이킹과 싸우는
-  턴제 포탄 슈팅 게임입니다. 각도를 조절해 테니스공과 폭탄을
-  쏘아 적을 뗏목 밖으로 떨어뜨리세요.
+  두 형제가 발견한 보물을 지키기 위해 해적과 바이킹과 싸우는 턴제 포탄 슈팅 게임입니다. 각도를 조절해 테니스공과 폭탄을 쏘아 적을 뗏목
+  밖으로 떨어뜨리세요.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210301/jj8/index.html
 thumbnail: /new-images/thumbnails/raft-wars.jpg
@@ -29,6 +28,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 발사 각도와 파워, 바람 등 물리 요소를 고려해야 하기 때문에 단순한
 운이 아니라 **포물선 계산과 연습**이 중요한 게임입니다.
 
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략
 
 1. **발사 각도와 힘에 익숙해지기**  

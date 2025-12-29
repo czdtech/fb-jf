@@ -1,10 +1,9 @@
 ---
 locale: ko
 urlstr: slither-io
-title: "Slither.io 슬리더 아이오"
+title: Slither.io 슬리더 아이오
 description: >-
-  빛나는 먹이를 먹으며 몸집을 키우는 멀티플레이 뱀 .io 게임입니다.
-  다른 뱀과 충돌하지 않도록 조심하면서, 상대의 길을 끊어 거대한
+  빛나는 먹이를 먹으며 몸집을 키우는 멀티플레이 뱀 .io 게임입니다. 다른 뱀과 충돌하지 않도록 조심하면서, 상대의 길을 끊어 거대한
   에너지를 먹어 성장해 보세요.
 iframeSrc: >-
   https://app-165910.games.s3.yandex.net/165910/rm0dpvrwyxo0cakog5vc1sr4c8b6xj1s/index.html
@@ -30,6 +29,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 자신의 몸에 부딪히게 만들면 거대한 에너지를 먹을 기회를 얻을 수
 있습니다.
 
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략
 
 1. **초반에는 안전하게 성장하기**  

@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: stealing-the-diamond
-title: 'Stealing The Diamond 스틸링 더 다이아몬드'
+title: Stealing The Diamond 스틸링 더 다이아몬드
 description: >-
-  Stealing the Diamond는 Henry Stickmin 시리즈의 인터랙티브 어드벤처 게임으로,
-  주인공 헨리가 경비가 삼엄한 박물관에 침입해 거대한 다이아몬드를 훔치는
-  이야기를 다룹니다. 각 선택에 따라 서로 다른 웃픈 결말이 펼쳐집니다.
+  Stealing the Diamond는 Henry Stickmin 시리즈의 인터랙티브 어드벤처 게임으로, 주인공 헨리가 경비가 삼엄한
+  박물관에 침입해 거대한 다이아몬드를 훔치는 이야기를 다룹니다. 각 선택에 따라 서로 다른 웃픈 결말이 펼쳐집니다.
 iframeSrc: 'https://bitlifeonline.github.io/stealing-the-diamond/'
 thumbnail: /new-images/thumbnails/stealing-the-diamond.jpg
 tags:
@@ -25,6 +24,7 @@ Stealing the Diamond는 Henry Stickmin 시리즈의 고전 인터랙티브 어�
 다이아몬드를 훔쳐야 합니다. 게임의 묘미는 선택에 따라 완전히 다른, 그리고
 대부분은 매우 웃긴 결과가 나온다는 점에 있습니다.
 
+<!-- i18n:section:tips -->
 ### 플레이 가이드
 
 플레이 방식은 단순합니다. 이야기의 갈림길마다 두 개 이상의 선택지(도구 또는

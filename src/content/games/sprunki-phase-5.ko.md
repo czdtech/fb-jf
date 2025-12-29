@@ -1,18 +1,17 @@
 ---
 locale: ko
 urlstr: sprunki-phase-5
-title: 'Sprunki Phase 5 스프룽키 페이즈 5'
+title: Sprunki Phase 5 스프룽키 페이즈 5
 description: >-
-  Sprunki Phase 5는 리듬 기반 음악 제작에 어두운 분위기를 더한 팬 메이드 모드로,
-  Sprunki Definitive 시리즈의 일부입니다. 다양한 캐릭터와 사운드로 음산하면서도
-  매력적인 트랙을 만들 수 있습니다.
+  Sprunki Phase 5는 리듬 기반 음악 제작에 어두운 분위기를 더한 팬 메이드 모드로, Sprunki Definitive 시리즈의
+  일부입니다. 다양한 캐릭터와 사운드로 음산하면서도 매력적인 트랙을 만들 수 있습니다.
 iframeSrc: 'https://sprunki-phase-5-ekz.pages.dev/'
 thumbnail: /new-images/thumbnails/sprunki-phase-5.png
 tags:
   - sprunki phase 5
   - sprunki phase 5 online
 score: 4.0/5  (604 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 
@@ -24,6 +23,7 @@ Sprunki Phase 5는 팬이 제작한 음악 만들기 모드로, 기본적인 비
 
 ---
 
+<!-- i18n:section:tips -->
 ### Sprunki Phase 5 게임 플레이
 
 Sprunki Phase 5에는 더욱 확장된 사운드 라이브러리가 준비되어 있어, 여러 스타일의

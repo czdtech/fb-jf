@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: stick-war
-title: 'Stick War 스틱 워'
+title: Stick War 스틱 워
 description: >-
-  Stick War는 웹에서 큰 인기를 끈 실시간 전략 게임으로, Inamorta 세계에서
-  "오더(Order)" 국가를 이끌어 금을 캐고 군대를 키워 적의 동상을 파괴하는
-  것이 목표입니다.
+  Stick War는 웹에서 큰 인기를 끈 실시간 전략 게임으로, Inamorta 세계에서 "오더(Order)" 국가를 이끌어 금을 캐고
+  군대를 키워 적의 동상을 파괴하는 것이 목표입니다.
 iframeSrc: 'https://www.gamenora.com/upload/games/swf/stick_war/'
 thumbnail: /new-images/thumbnails/stick-war.jpg
 tags:
@@ -25,6 +24,7 @@ Stick War는 스틱맨 웹 게임 가운데 가장 유명한 작품 중 하나�
 자신만의 기술에 집착하는 세계 Inamorta에서 군대를 키우고 적의 동상을 파괴해
 영토를 정복해야 합니다.
 
+<!-- i18n:section:tips -->
 ### 플레이 가이드
 
 게임의 핵심은 자원 관리와 병력 지휘입니다.

@@ -1,10 +1,9 @@
 ---
 locale: ko
 urlstr: slope-3
-title: "Slope 3 슬로프 3"
+title: Slope 3 슬로프 3
 description: >-
-  인기 Slope 시리즈의 최신작으로, 향상된 3D 그래픽과 새로운 장애물이
-  추가된 엔드리스 볼 러너 게임입니다. 끝없이 이어지는 경사로에서
+  인기 Slope 시리즈의 최신작으로, 향상된 3D 그래픽과 새로운 장애물이 추가된 엔드리스 볼 러너 게임입니다. 끝없이 이어지는 경사로에서
   붉은 블록과 함정을 피해 한계까지 내려가 보세요.
 iframeSrc: 'https://games-online.io/game/Slope3/'
 thumbnail: /new-images/thumbnails/slope-3.jpg
@@ -28,6 +27,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 전작의 핵심 게임 플레이는 유지하면서, 시각 효과와 코스 구조가
 업그레이드되어 더 빠른 속도와 복잡한 패턴을 제공합니다.
 
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략
 
 1. **향상된 그래픽에 눈이 빼앗기지 않기**  

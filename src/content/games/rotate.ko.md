@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: rotate
-title: "Rotate 로테이트"
+title: Rotate 로테이트
 description: >-
-  스테이지 전체를 회전시켜 공을 목표 지점까지 보내는 물리 퍼즐 게임입니다.
-  중력 방향과 관성을 계산해 미로와 함정을 통과할 경로를 찾아 보세요.
+  스테이지 전체를 회전시켜 공을 목표 지점까지 보내는 물리 퍼즐 게임입니다. 중력 방향과 관성을 계산해 미로와 함정을 통과할 경로를 찾아
+  보세요.
 iframeSrc: 'https://rebemanae.github.io/rotate/'
 thumbnail: /new-images/thumbnails/rotate.jpg
 tags:
@@ -27,6 +27,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 중력 방향과 관성, 경사면의 모양을 이해하는 것이 핵심이며, 단순히
 마구 돌리는 것보다 미리 궤적을 상상하면서 움직이는 것이 중요합니다.
 
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략
 
 1. **중력 방향 이해하기**  

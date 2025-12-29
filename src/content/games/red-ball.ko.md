@@ -1,10 +1,8 @@
 ---
 locale: ko
 urlstr: red-ball
-title: "Red Ball 레드 볼"
-description: >-
-  통통 튀는 빨간 공을 조종해 함정과 퍼즐이 가득한 스테이지를 돌파하는
-  물리 기반 플랫폼 게임입니다. 관성·점프를 활용해 골까지 굴려 보세요.
+title: Red Ball 레드 볼
+description: 통통 튀는 빨간 공을 조종해 함정과 퍼즐이 가득한 스테이지를 돌파하는 물리 기반 플랫폼 게임입니다. 관성·점프를 활용해 골까지 굴려 보세요.
 iframeSrc: >-
   https://app-185271.games.s3.yandex.net/185271/uvjrp10onrrllry3esbc3gpnf7s40cj5/index.html
 thumbnail: /new-images/thumbnails/red-ball.jpg
@@ -29,6 +27,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 이용해 더 높은 곳으로 점프하는 등 물리 특성을 이해하는 것이
 중요합니다.
 
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략
 
 1. **공의 움직임(굴림과 튀김) 이해하기**  

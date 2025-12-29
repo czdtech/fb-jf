@@ -1,12 +1,12 @@
 ---
 locale: ko
 urlstr: stick-fighter
-title: 'Stick Fighter 스틱 파이터'
+title: Stick Fighter 스틱 파이터
 description: >-
-  Stick Fighter는 간단한 스틱맨 캐릭터를 조종해 물리 기반 아레나에서 싸우는
-  액션 격투 게임입니다. 주먹과 발차기, 다양한 무기를 활용해 마지막까지
-  살아남는 스틱맨이 되어 보세요.
-iframeSrc: 'https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221209/4/index.html'
+  Stick Fighter는 간단한 스틱맨 캐릭터를 조종해 물리 기반 아레나에서 싸우는 액션 격투 게임입니다. 주먹과 발차기, 다양한 무기를
+  활용해 마지막까지 살아남는 스틱맨이 되어 보세요.
+iframeSrc: >-
+  https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221209/4/index.html
 thumbnail: /new-images/thumbnails/stick-fighter.jpg
 tags:
   - fighting
@@ -25,6 +25,7 @@ Stick Fighter는 빠른 템포의 물리 기반 격투 게임입니다. 플레�
 싸우게 됩니다. 목표는 마지막까지 살아남는 것입니다. 지형과 무기, 물리엔진이
 뒤섞이며 매 판 예측할 수 없는 상황이 벌어지는 것이 특징입니다.
 
+<!-- i18n:section:tips -->
 ### 플레이 가이드
 
 각 라운드의 목표는 상대를 아레나 밖으로 날려 보내거나, 체력을 모두 깎아

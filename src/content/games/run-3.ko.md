@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: run-3
-title: "Run 3 런 3"
+title: Run 3 런 3
 description: >-
-  우주 공간의 터널을 달리는 3D 러닝 게임입니다. 외계 캐릭터를
-  조종해 발판 사이의 구멍을 점프해 넘고, 벽과 천장까지 활용해
-  끝없이 이어지는 코스를 달려 보세요.
+  우주 공간의 터널을 달리는 3D 러닝 게임입니다. 외계 캐릭터를 조종해 발판 사이의 구멍을 점프해 넘고, 벽과 천장까지 활용해 끝없이
+  이어지는 코스를 달려 보세요.
 iframeSrc: 'https://lekug.github.io/tn6pS9dCf37xAhkJv/index.html'
 thumbnail: /new-images/thumbnails/run-3.jpg
 tags:
@@ -28,6 +27,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 단순한 조작으로 시작하지만, 속도와 난이도가 점점 올라가면서
 플랫폼 액션과 리듬감 있는 조작이 요구되는 게임입니다.
 
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략
 
 1. **점프 타이밍을 몸에 익히기**  

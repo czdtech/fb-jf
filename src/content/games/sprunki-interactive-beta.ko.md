@@ -10,7 +10,7 @@ thumbnail: /new-images/thumbnails/sprunki-interactive-beta.png
 tags:
   - sprunki interactive beta
 score: 4.0/5  (407 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 
@@ -30,6 +30,7 @@ Sprunki Interactive BETA는 기존 스프룽키에 단순히 사운드만 추가
   이동 중인 캐릭터들이 서로 부딪히거나 스쳐 지나갈 때마다 새로운 사운드가
   발생해, 매 순간 다른 사운드스케이프를 만들어 냅니다.
 
+<!-- i18n:section:how-to-play -->
 ### 게임 플레이 방식
 
 게임 초반의 세계는 밝고 알록달록한 색감으로 가득합니다. 플레이어는 더플,

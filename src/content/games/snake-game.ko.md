@@ -1,10 +1,8 @@
 ---
 locale: ko
 urlstr: snake-game
-title: "Snake Game 스네이크 게임"
-description: >-
-  고전 휴대폰으로 익숙한 뱀 게임입니다. 먹이를 먹어 몸을 늘려 가며,
-  벽이나 자기 몸에 부딪히지 않고 최고 점수를 노려 보세요.
+title: Snake Game 스네이크 게임
+description: '고전 휴대폰으로 익숙한 뱀 게임입니다. 먹이를 먹어 몸을 늘려 가며, 벽이나 자기 몸에 부딪히지 않고 최고 점수를 노려 보세요.'
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/snake/'
 thumbnail: /new-images/thumbnails/snake-game.jpg
 tags:
@@ -26,6 +24,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 최근 버전은 그래픽과 조작감이 개선되었지만, "길어질수록 어려워지는"
 원리는 예전과 동일합니다.
 
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략
 
 1. **이동 경로를 미리 계획하기**  

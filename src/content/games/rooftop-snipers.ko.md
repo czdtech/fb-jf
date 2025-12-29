@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: rooftop-snipers
-title: "Rooftop Snipers 루프탑 스나이퍼"
+title: Rooftop Snipers 루프탑 스나이퍼
 description: >-
-  픽셀 캐릭터 둘이 옥상 위에서 서로를 떨어뜨리려 싸우는 원조 물리
-  기반 슈팅 게임입니다. 단순한 조작 속에서 래그돌 물리와 반동을
-  이용해 상대를 건물 아래로 날려 보내세요.
+  픽셀 캐릭터 둘이 옥상 위에서 서로를 떨어뜨리려 싸우는 원조 물리 기반 슈팅 게임입니다. 단순한 조작 속에서 래그돌 물리와 반동을 이용해
+  상대를 건물 아래로 날려 보내세요.
 iframeSrc: 'https://webglmath.github.io/rooftop-snipers/'
 thumbnail: /new-images/thumbnails/rooftop-snipers.jpg
 tags:
@@ -28,6 +27,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 이 작품은 이후 시리즈의 기반이 되었으며, 짧은 라운드 구조 덕분에
 친구와 번갈아 즐기기에도 좋습니다.
 
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략
 
 1. **기본 조작 패턴부터 익히기**  

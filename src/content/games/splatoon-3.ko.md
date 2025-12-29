@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: splatoon-3
-title: 'Splatoon 3 스플래툰 3'
+title: Splatoon 3 스플래툰 3
 description: >-
-  Splatoon 3는 땅을 차지하는 잉크 배틀이 핵심인 팀 기반 슈팅 게임입니다.
-  잉크를 쏘고, 오징어 형태로 잉크 속을 헤엄치며 맵을 칠해 더 넓은 구역을
-  점령하는 팀이 승리합니다.
+  Splatoon 3는 땅을 차지하는 잉크 배틀이 핵심인 팀 기반 슈팅 게임입니다. 잉크를 쏘고, 오징어 형태로 잉크 속을 헤엄치며 맵을 칠해
+  더 넓은 구역을 점령하는 팀이 승리합니다.
 iframeSrc: 'https://bitlifeonline.github.io/splatoon-3/'
 thumbnail: /new-images/thumbnails/splatoon-3.jpg
 tags:
@@ -26,6 +25,7 @@ Splatoon 3는 적을 쓰러뜨리는 것보다 "맵을 얼마나 많이 칠했�
 헤엄칠 수 있습니다. 사람/오징어 두 가지 형태를 적절히 오가며 맵을 칠하고,
 상대를 기습하는 것이 핵심입니다.
 
+<!-- i18n:section:tips -->
 ### 플레이 가이드
 
 대표적인 모드는 4 대 4로 진행되는 **터프 워(Turf War 표기)** 입니다. 3분 동안

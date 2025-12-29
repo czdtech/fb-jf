@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: red-ball-4
-title: "Red Ball 4 레드 볼 4"
+title: Red Ball 4 레드 볼 4
 description: >-
-  Red Ball 4는 세상의 모든 것을 네모로 만들려는 악당 사각형들을 막기 위해, 귀여운 빨간
-  공을 조종해 모험을 떠나는 물리 기반 플랫포머 게임입니다. 장애물과 퍼즐을 넘어서며
-  세상을 구해 보세요.
+  Red Ball 4는 세상의 모든 것을 네모로 만들려는 악당 사각형들을 막기 위해, 귀여운 빨간 공을 조종해 모험을 떠나는 물리 기반
+  플랫포머 게임입니다. 장애물과 퍼즐을 넘어서며 세상을 구해 보세요.
 iframeSrc: 'https://class198.github.io/g177/red-ball-4/'
 thumbnail: /new-images/thumbnails/red-ball-4.jpg
 tags:
@@ -25,6 +24,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 간단한 퍼즐이 배치되어 있으며, 공의 구르기와 튕기기를 이용해 길을 찾고 적을
 처치해야 합니다.
 
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략
 
 1. **물리 특성 이해:** 빨간 공의 탄성과 구르는 느낌을 잘 파악해, 점프 높이와

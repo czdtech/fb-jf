@@ -1,10 +1,9 @@
 ---
 locale: ko
 urlstr: shooter
-title: "Five Nights at Freddy's Shooter FNAF 슈터"
+title: Five Nights at Freddy's Shooter FNAF 슈터
 description: >-
-  FNAF 세계관의 애니매트로닉과 총격전을 벌이는 호러 액션 슈터입니다.
-  다양한 무기를 활용해 몰려오는 로봇 물결을 막아내며 최대한 오래
+  FNAF 세계관의 애니매트로닉과 총격전을 벌이는 호러 액션 슈터입니다. 다양한 무기를 활용해 몰려오는 로봇 물결을 막아내며 최대한 오래
   살아남으세요.
 iframeSrc: 'https://bitlifeonline.github.io/fnaf-shooter/'
 thumbnail: /new-images/thumbnails/shooter.jpg
@@ -28,6 +27,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 특유의 불길한 분위기와 빠른 템포의 슈팅이 결합되어, 공포감과
 시원한 타격감을 동시에 느낄 수 있습니다.
 
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략
 
 1. **무기 특성 파악하기**  

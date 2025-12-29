@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: rocket-league
-title: "Rocket League 로켓 리그"
+title: Rocket League 로켓 리그
 description: >-
-  로켓 부스터가 달린 자동차로 축구를 즐기는 고속 스포츠 게임입니다.
-  점프와 부스트를 활용해 거대한 공을 상대 골대로 몰아 넣고, 화려한
-  공중 슛과 팀 플레이로 승리를 노려 보세요.
+  로켓 부스터가 달린 자동차로 축구를 즐기는 고속 스포츠 게임입니다. 점프와 부스트를 활용해 거대한 공을 상대 골대로 몰아 넣고, 화려한 공중
+  슛과 팀 플레이로 승리를 노려 보세요.
 iframeSrc: 'https://ubg77.github.io/edit/rocket-soccer-derby/'
 thumbnail: /new-images/thumbnails/rocket-league.jpg
 tags:
@@ -27,6 +26,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 빠른 속도의 공중전과 물리 엔진 기반 충돌이 어우러져, 한 골 한 골이
 하이라이트처럼 느껴지는 것이 특징입니다.
 
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략
 
 1. **기본 조작부터 확실히 익히기**  

@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: spacebar-clicker
-title: 'Spacebar Clicker 스페이스바 클릭커'
+title: Spacebar Clicker 스페이스바 클릭커
 description: >-
-  Spacebar Clicker는 스페이스바를 눌러 점수를 모으고, 그 점수로 업그레이드를
-  구매하며 성장하는 중독성 강한 인크리멘탈 클릭커 게임입니다. 자동 클릭과
-  배수 효과를 활용해 얼마나 높은 점수를 만들 수 있는지 도전해 보세요.
+  Spacebar Clicker는 스페이스바를 눌러 점수를 모으고, 그 점수로 업그레이드를 구매하며 성장하는 중독성 강한 인크리멘탈 클릭커
+  게임입니다. 자동 클릭과 배수 효과를 활용해 얼마나 높은 점수를 만들 수 있는지 도전해 보세요.
 iframeSrc: 'https://spacebarclicker.co/game/spacebar-counter/'
 thumbnail: /new-images/thumbnails/spacebar-clicker.jpg
 tags:
@@ -25,6 +24,7 @@ Spacebar Clicker는 하나의 동작, 즉 스페이스바를 누르는 행위에
 점수를 모으고, 그 점수로 상점에서 업그레이드를 구매해 클릭 당 획득량을
 늘리거나 자동으로 점수를 벌어 주는 기능을 여는 것이 핵심입니다.
 
+<!-- i18n:section:tips -->
 ### 플레이 가이드
 
 처음에는 직접 스페이스바를 연타하며 첫 점수들을 모읍니다. 어느 정도 쌓이면

@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: slope-2
-title: "Slope 2 슬로프 2"
+title: Slope 2 슬로프 2
 description: >-
-  끝없이 이어지는 경사로를 굴러 내려가는 볼 러너 게임의 후속작입니다.
-  더 빨라진 속도와 새로운 장애물을 피해 최대한 오래 살아남아
-  최고 기록에 도전해 보세요.
+  끝없이 이어지는 경사로를 굴러 내려가는 볼 러너 게임의 후속작입니다. 더 빨라진 속도와 새로운 장애물을 피해 최대한 오래 살아남아 최고
+  기록에 도전해 보세요.
 iframeSrc: 'https://raw.githack.com/lioxryt/lioxryt-assets/main/other/slope-2/index.html'
 thumbnail: /new-images/thumbnails/slope-2.jpg
 tags:
@@ -28,6 +27,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 전작의 기본 규칙은 그대로 유지하면서, 그래픽과 장애물 구성이
 업그레이드되어 더 다양한 코스와 난이도를 제공합니다.
 
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략
 
 1. **반응 속도 연습하기**  

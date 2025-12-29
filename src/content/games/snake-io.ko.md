@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: snake-io
-title: "Snake.io 스네이크.io"
+title: Snake.io 스네이크.io
 description: >-
-  Snake.io는 고전 스네이크 게임을 현대적으로 재해석한 멀티플레이 액션 게임으로, 먹이를
-  먹어 몸을 키우고 다른 뱀과의 심리전을 통해 가장 길고 거대한 뱀이 되는 것이 목표입니다.
+  Snake.io는 고전 스네이크 게임을 현대적으로 재해석한 멀티플레이 액션 게임으로, 먹이를 먹어 몸을 키우고 다른 뱀과의 심리전을 통해
+  가장 길고 거대한 뱀이 되는 것이 목표입니다.
 iframeSrc: 'https://snake.io/crazygames/'
 thumbnail: /new-images/thumbnails/snake-io.jpg
 tags:
@@ -25,6 +25,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 뱀이 되는 것입니다. 상대의 머리를 자신의 몸통에 부딪히게 만들어 쓰러뜨리고, 그 자리에서
 쏟아지는 많은 먹이를 먹으면 빠르게 성장할 수 있습니다.
 
+<!-- i18n:section:tips -->
 ### 플레이 가이드
 
 - **성장:** 맵 전체에 흩어진 작은 먹이를 먹어 몸을 키우고, 쓰러진 뱀이 남긴 큰 궤적을

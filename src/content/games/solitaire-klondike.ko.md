@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: solitaire-klondike
-title: 'Solitaire Klondike 솔리테어 클론다이크'
+title: Solitaire Klondike 솔리테어 클론다이크
 description: >-
-  Solitaire Klondike는 솔리테어 가운데 가장 널리 알려진 고전 카드 게임입니다.
-  52장의 카드를 이용해 네 개의 바닥 패에 무늬별로 A부터 K까지 차례대로 쌓아
-  올리는 것이 목표로, 인내심과 전략, 그리고 약간의 운이 필요한 게임입니다.
+  Solitaire Klondike는 솔리테어 가운데 가장 널리 알려진 고전 카드 게임입니다. 52장의 카드를 이용해 네 개의 바닥 패에
+  무늬별로 A부터 K까지 차례대로 쌓아 올리는 것이 목표로, 인내심과 전략, 그리고 약간의 운이 필요한 게임입니다.
 iframeSrc: >-
   https://games.cdn.famobi.com/html5games/s/solitaire-klondike/v480/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=5b597140-77c2-4f7c-9abf-4f149d6dcbac&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=465&original_ref=
 thumbnail: /new-images/thumbnails/solitaire-klondike.jpg
@@ -26,6 +25,7 @@ Klondike 솔리테어는 흔히 그냥 "솔리테어"라고 부를 정도로 가
 A부터 K까지 오름차순으로 정리해 올리는 것이 목표입니다. 카드가 어떻게 섞였는지에
 따라 난이도가 크게 달라지며, 인내심과 전략, 그리고 약간의 운이 요구됩니다.
 
+<!-- i18n:section:tips -->
 ### 플레이 가이드
 
 게임의 핵심 목표는 각 무늬별로 A에서 K까지 완성된 네 개의 바닥 패를 만드는

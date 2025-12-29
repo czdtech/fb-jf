@@ -1,16 +1,16 @@
 ---
 locale: ko
 urlstr: sprunki-retake-bonus-characters
-title: 'Sprunki Retake Bonus Characters 스프룽키 리테이크 보너스 캐릭터'
+title: Sprunki Retake Bonus Characters 스프룽키 리테이크 보너스 캐릭터
 description: >-
-  Sprunki Retake Bonus Characters는 부족 음악과 원시 리듬에서 영감을 얻은 보너스
-  캐릭터들을 중심으로, 스프룽키식 음악 만들기와 민족 색채를 결합한 모드입니다.
+  Sprunki Retake Bonus Characters는 부족 음악과 원시 리듬에서 영감을 얻은 보너스 캐릭터들을 중심으로, 스프룽키식
+  음악 만들기와 민족 색채를 결합한 모드입니다.
 iframeSrc: 'https://turbowarp.org/1107905149/embed'
 thumbnail: /new-images/thumbnails/sprunki-retake-bonus-characters.png
 tags:
   - sprunki retake bonus characters
 score: 3.9/5  (132 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 
@@ -20,6 +20,7 @@ Sprunki Retake Bonus Characters는 단순한 추가 캐릭터 팩이 아니라, 
 음악의 가능성을 탐험하는 콘셉트의 모드입니다. 이곳에서는 곡을 만드는 동시에
 부족 전통과 현대적인 비트가 섞인 독특한 사운드를 경험할 수 있습니다.
 
+<!-- i18n:section:tips -->
 ### Sprunki Retake Bonus Characters의 핵심 게임 플레이
 
 - **부족 리더가 되기:**

@@ -1,10 +1,8 @@
 ---
 locale: ko
 urlstr: soccar
-title: "SocCar 삭카"
-description: >-
-  자동차로 즐기는 축구 게임입니다. 필드를 질주하며 거대한 공을
-  밀어 넣고, 부스트와 점프로 공중 볼까지 노려 골을 기록해 보세요.
+title: SocCar 삭카
+description: '자동차로 즐기는 축구 게임입니다. 필드를 질주하며 거대한 공을 밀어 넣고, 부스트와 점프로 공중 볼까지 노려 골을 기록해 보세요.'
 iframeSrc: 'https://ubg77.github.io/edit/soccar/'
 thumbnail: /new-images/thumbnails/soccar.jpg
 tags:
@@ -27,6 +25,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 2대2 모드에서는 팀워크와 포지셔닝이 더욱 중요해지며, 언제 공격에
 가담하고 언제 골문을 지킬지 판단해야 합니다.
 
+<!-- i18n:section:tips -->
 ### 플레이 가이드
 
 목표는 제한 시간 안에 상대 팀보다 더 많은 골을 넣는 것입니다.

@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: retro-bowl
-title: "Retro Bowl 레트로 볼"
+title: Retro Bowl 레트로 볼
 description: >-
-  Retro Bowl은 레트로 8비트 스타일 그래픽으로 즐기는 미식축구 게임으로, 감독이자
-  쿼터백이 되어 팀을 운영하고 플레이를 직접 호출하며 챔피언십 우승을 노리는
-  작품입니다.
+  Retro Bowl은 레트로 8비트 스타일 그래픽으로 즐기는 미식축구 게임으로, 감독이자 쿼터백이 되어 팀을 운영하고 플레이를 직접 호출하며
+  챔피언십 우승을 노리는 작품입니다.
 iframeSrc: 'https://game316009.konggames.com/gamez/0031/6009/live/index.html'
 thumbnail: /new-images/thumbnails/retro-bowl.jpg
 tags:
@@ -26,6 +25,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 책임지게 됩니다. 팀 매니지먼트와 실시간 경기 조작이 결합된 완성도 높은 미식축구
 경험을 제공하는 게임입니다.
 
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략
 
 1. **패스 숙달:** 리시버가 빈 공간으로 침투하는 타이밍을 보고 정확하게 패스를

@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: slope
-title: "Slope 슬로프"
+title: Slope 슬로프
 description: >-
-  녹색 공을 조종해 가파른 경사로를 끝없이 내려오는 엔드리스 러너
-  게임입니다. 붉은 장애물을 피해 최대한 오래 살아남아 최고 기록에
-  도전해 보세요.
+  녹색 공을 조종해 가파른 경사로를 끝없이 내려오는 엔드리스 러너 게임입니다. 붉은 장애물을 피해 최대한 오래 살아남아 최고 기록에 도전해
+  보세요.
 iframeSrc: 'https://webglmath.github.io/slope/'
 thumbnail: /new-images/thumbnails/slope.jpg
 tags:
@@ -28,6 +27,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 속도가 점점 빨라지는 만큼, 부드러운 물리 감각과 높은 집중력이
 요구되는 게임입니다.
 
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략
 
 1. **기본 좌우 조작부터 완벽히 익히기**  

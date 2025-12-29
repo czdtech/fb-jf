@@ -1,10 +1,8 @@
 ---
 locale: ko
 urlstr: shootz
-title: "ShootZ 슛츠"
-description: >-
-  좀비와 괴물 무리를 상대로 싸우는 액션 슈팅 게임입니다. 다양한
-  무기를 업그레이드하며 점점 강해지는 웨이브를 버텨 보세요.
+title: ShootZ 슛츠
+description: 좀비와 괴물 무리를 상대로 싸우는 액션 슈팅 게임입니다. 다양한 무기를 업그레이드하며 점점 강해지는 웨이브를 버텨 보세요.
 iframeSrc: 'https://g.igroutka.ru/games/17/9IsudOxakgP0EVKC/shootz/'
 thumbnail: /new-images/thumbnails/shootz.jpg
 tags:
@@ -27,6 +25,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 다양한 무기 시스템과 꾸준한 업그레이드를 통해 화력을 키워 가는
 맛이 특징입니다.
 
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략
 
 1. **무기 업그레이드에 투자하기**  

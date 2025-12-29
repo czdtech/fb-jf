@@ -1,10 +1,9 @@
 ---
 locale: ko
 urlstr: qwop
-title: "QWOP Game QWOP 달리기 게임"
+title: QWOP Game QWOP 달리기 게임
 description: >-
-  네 개의 키(Q, W, O, P)만으로 선수의 다리 근육을 조작해 100m를
-  완주해야 하는 악명 높은 물리 기반 달리기 게임입니다. 엉뚱한
+  네 개의 키(Q, W, O, P)만으로 선수의 다리 근육을 조작해 100m를 완주해야 하는 악명 높은 물리 기반 달리기 게임입니다. 엉뚱한
   조작감과 쓰러지는 모션으로 유명합니다.
 iframeSrc: 'https://kdata1.com/2020/01/QWOP1/?webgl=true'
 thumbnail: /new-images/thumbnails/qwop.jpg
@@ -29,6 +28,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 나아가는 것조차 큰 도전입니다. 이 과장된 난이도와 웃긴
 넘어짐 모션 덕분에 인터넷 밈과 도전 과제로 널리 회자되었습니다.
 
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략
 
 1. **키 역할부터 정확히 이해하기**  

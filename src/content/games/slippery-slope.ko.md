@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: slippery-slope
-title: "Slippery Slope 슬리퍼리 슬로프"
+title: Slippery Slope 슬리퍼리 슬로프
 description: >-
-  가파른 설산을 내려오는 스키/슬라이딩 레이싱 게임입니다. 장애물을
-  피하며 속도와 안전 사이에서 균형을 잡고, 제한 시간 안에 코스를
-  완주해 보세요.
+  가파른 설산을 내려오는 스키/슬라이딩 레이싱 게임입니다. 장애물을 피하며 속도와 안전 사이에서 균형을 잡고, 제한 시간 안에 코스를 완주해
+  보세요.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp45/gamehwq/20231124/15/index.html
 thumbnail: /new-images/thumbnails/slippery-slope.jpg
@@ -29,6 +28,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 빠른 속도와 정교한 방향 조작이 요구되어, 작은 실수 하나가
 넘어짐으로 이어질 수 있습니다.
 
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략
 
 1. **속도 조절 연습하기**  

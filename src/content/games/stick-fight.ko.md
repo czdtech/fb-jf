@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: stick-fight
-title: "Stick Fight 스틱 파이트"
+title: Stick Fight 스틱 파이트
 description: >-
-  Stick Fight는 막대기 인간들이 좁은 아레나에서 난투를 벌이는 물리 기반 격투 게임으로,
-  다양한 무기와 환경 기믹을 활용해 마지막까지 살아남는 것이 목표입니다.
+  Stick Fight는 막대기 인간들이 좁은 아레나에서 난투를 벌이는 물리 기반 격투 게임으로, 다양한 무기와 환경 기믹을 활용해 마지막까지
+  살아남는 것이 목표입니다.
 iframeSrc: 'https://ext.minijuegosgratis.com/stick-fighter-2/index.html'
 thumbnail: /new-images/thumbnails/stick-fight.jpg
 tags:
@@ -24,6 +24,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 체력을 소진시켜, 마지막까지 살아남는 것입니다. 스테이지마다 지형과 함정이 달라
 환경을 잘 활용하는 것이 승부를 가르는 핵심이 됩니다.
 
+<!-- i18n:section:tips -->
 ### 플레이 가이드
 
 각 라운드에서 해야 할 일은 상대를 아레나 밖으로 떨어뜨리거나, 무기와 공격으로 쓰러뜨리는 것입니다.
