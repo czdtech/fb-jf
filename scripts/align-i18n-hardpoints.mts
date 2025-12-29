@@ -226,10 +226,13 @@ function classifyHeading(locale: TargetLocale, text: string): string | null {
         'guia de juego',
         'guía del juego',
         'guia del juego',
+        'jugabilidad',
+        'núcleo jugable',
+        'nucleo jugable',
         'jugar',
       ],
       rules: ['reglas'],
-      tips: ['consejos', 'estrategia', 'estrategias', 'trucos', 'tips'],
+      tips: ['consejos', 'estrategia', 'estrategias', 'trucos', 'tips', 'recorrido', 'walkthrough'],
     },
     fr: {
       faq: ['questions fréquentes', 'questions frequentes', 'faq'],
@@ -243,6 +246,7 @@ function classifyHeading(locale: TargetLocale, text: string): string | null {
       controls: ['steuerung', 'bedienung', 'kontrollen'],
       'how-to-play': [
         'wie spielt man',
+        'wie spielst du',
         'so spielst du',
         'spielanleitung',
         'anleitung',
