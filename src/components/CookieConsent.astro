@@ -1,5 +1,5 @@
 ---
-import { getLocaleFromLangAttr, getLocalizedPath, useTranslations } from '../i18n/utils';
+import { getLocaleFromLangAttr, getLocalizedPath } from '../i18n/utils';
 
 interface Props {
   lang?: string;
@@ -7,187 +7,39 @@ interface Props {
 
 const { lang = 'en' } = Astro.props as Props;
 const locale = getLocaleFromLangAttr(lang);
-const t = useTranslations(locale);
 const privacyHref = getLocalizedPath('/privacy/', locale);
 ---
 
-<div id="cookie-consent" class="cookie-consent" hidden>
-  <div class="cookie-consent__inner">
-    <div class="cookie-consent__text">
-      {t(
-        'cookie.message',
-        'We use cookies to measure traffic and show ads. You can accept or reject.'
-      )}{' '}
-      <a href={privacyHref}>{t('cookie.learnMore', 'Learn more')}</a>
-    </div>
-    <div class="cookie-consent__actions">
-      <button type="button" class="cookie-consent__btn cookie-consent__btn--secondary" data-cookie-consent="reject">
-        {t('cookie.reject', 'Reject')}
-      </button>
-      <button type="button" class="cookie-consent__btn cookie-consent__btn--primary" data-cookie-consent="accept">
-        {t('cookie.accept', 'Accept')}
-      </button>
-    </div>
-  </div>
-</div>
-
-<style>
-  .cookie-consent[hidden] {
-    display: none !important;
-  }
-  .cookie-consent {
-    position: fixed;
-    left: 16px;
-    right: 16px;
-    bottom: 16px;
-    z-index: 9999;
-    display: flex;
-    justify-content: center;
-    /* Avoid click-through bugs on some browsers/extensions */
-    pointer-events: auto;
-  }
-  .cookie-consent__inner {
-    max-width: 980px;
-    width: 100%;
-    background: rgba(20, 20, 20, 0.95);
-    color: #fff;
-    border-radius: 14px;
-    padding: 14px 14px;
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.35);
-    display: flex;
-    gap: 12px;
-    align-items: center;
-    justify-content: space-between;
-  }
-  .cookie-consent__text {
-    font-size: 14px;
-    line-height: 1.45;
-    color: rgba(255, 255, 255, 0.88);
-  }
-  .cookie-consent__text a {
-    color: #fff;
-    text-decoration: underline;
-  }
-  .cookie-consent__actions {
-    display: flex;
-    gap: 8px;
-    flex-shrink: 0;
-  }
-  .cookie-consent__btn {
-    border: 0;
-    border-radius: 10px;
-    padding: 10px 12px;
-    font-weight: 700;
-    cursor: pointer;
-  }
-  .cookie-consent__btn--primary {
-    background: #ff9800;
-    color: #111;
-  }
-  .cookie-consent__btn--secondary {
-    background: rgba(255, 255, 255, 0.12);
-    color: #fff;
-  }
-  @media (max-width: 680px) {
-    .cookie-consent__inner {
-      flex-direction: column;
-      align-items: stretch;
-    }
-    .cookie-consent__actions {
-      justify-content: flex-end;
-    }
-  }
-</style>
-
 <script is:inline type="module">
-  const CONSENT_KEY = 'fb_cookie_consent_v1';
+  const PRIVACY_HREF = {JSON.stringify(privacyHref)};
 
-  const root = document.getElementById('cookie-consent');
-  const acceptBtn = root?.querySelector?.('[data-cookie-consent="accept"]');
-  const rejectBtn = root?.querySelector?.('[data-cookie-consent="reject"]');
-
-  function getConsent() {
-    try {
-      return localStorage.getItem(CONSENT_KEY);
-    } catch {
-      return null;
+  function openConsentSettings() {
+    // 优先走 IAB TCF v2（Funding Choices / 其他 CMP 通常会提供 __tcfapi）
+    if (typeof window.__tcfapi === 'function') {
+      try {
+        window.__tcfapi('displayConsentUi', 2, () => {});
+        return;
+      } catch {
+        // ignore
+      }
     }
-  }
 
-  function setConsent(value) {
-    try {
-      localStorage.setItem(CONSENT_KEY, value);
-    } catch {
-      // ignore
+    // Funding Choices（尽力而为：不同版本 API 可能不同）
+    const googlefc = window.googlefc;
+    if (googlefc && typeof googlefc.show === 'function') {
+      try {
+        googlefc.show();
+        return;
+      } catch {
+        // ignore
+      }
     }
-  }
 
-  function showBanner() {
-    const el = document.getElementById('cookie-consent');
-    if (!el) return;
-    el.hidden = false;
-  }
-
-  function hideBanner() {
-    const el = document.getElementById('cookie-consent');
-    if (!el) return;
-    el.hidden = true;
-  }
-
-  function openSettings() {
-    showBanner();
-  }
-
-  function closeSettings() {
-    hideBanner();
-  }
-
-  function accept() {
-    setConsent('accepted');
-    closeSettings();
-    if (typeof window.__fbLoadAnalytics === 'function') window.__fbLoadAnalytics();
-    if (typeof window.__fbLoadAdsense === 'function') window.__fbLoadAdsense();
-  }
-
-  function reject() {
-    setConsent('rejected');
-    closeSettings();
+    window.location.href = PRIVACY_HREF;
   }
 
   // expose for footer link
-  window.__fbOpenCookieConsent = openSettings;
-
-  // init
-  if (!getConsent()) {
-    // 默认不弹；由 Analytics 计算“是否需要强制同意(EEA/UK/CH)”后再决定是否展示
-    const required = typeof window.__fbConsentRequired === 'boolean' ? window.__fbConsentRequired : null;
-
-    if (required === true) showBanner();
-    else if (required === false) hideBanner();
-    else {
-      // 等待 Analytics 发布结果
-      window.addEventListener(
-        'fb:consent-scope',
-        (e) => {
-          const detail = e && e.detail ? e.detail : null;
-          const need = detail && typeof detail.consentRequired === 'boolean' ? detail.consentRequired : null;
-          if (need === true) showBanner();
-          else if (need === false) hideBanner();
-          else showBanner(); // 兜底：无法判断就弹出（保守合规）
-        },
-        { once: true }
-      );
-
-      // 再兜底一次：如果 Geo 判断一直失败/被拦截，避免永远不提示
-      setTimeout(() => {
-        if (getConsent()) return;
-        const now = typeof window.__fbConsentRequired === 'boolean' ? window.__fbConsentRequired : null;
-        if (now === true) showBanner();
-        else if (now === false) hideBanner();
-        else showBanner();
-      }, 2500);
-    }
-  }
+  window.__fbOpenCookieConsent = openConsentSettings;
 
   function onDocClick(e) {
     const el = e.target instanceof Element ? e.target : null;
@@ -197,29 +49,9 @@ const privacyHref = getLocalizedPath('/privacy/', locale);
     const settingsEl = el.closest('[data-cookie-settings]');
     if (settingsEl) {
       e.preventDefault();
-      openSettings();
+      openConsentSettings();
       return;
     }
-
-    const actionEl = el.closest('[data-cookie-consent]');
-    if (!actionEl) return;
-    const action = actionEl.getAttribute('data-cookie-consent');
-    if (action === 'accept') accept();
-    if (action === 'reject') reject();
-  }
-
-  // Direct handlers (more reliable than delegation)
-  if (acceptBtn) {
-    acceptBtn.addEventListener('click', (e) => {
-      e.preventDefault();
-      accept();
-    });
-  }
-  if (rejectBtn) {
-    rejectBtn.addEventListener('click', (e) => {
-      e.preventDefault();
-      reject();
-    });
   }
 
   // Delegation for footer “Cookie Settings”

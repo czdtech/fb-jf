@@ -3,51 +3,50 @@
  * Analytics Component
  * Contains Google Analytics (gtag.js) and Google AdSense code.
  *
- * 合规策略（按地区）：
- * - EEA/UK/CH：未同意前不加载第三方脚本（GA/AdSense）
- * - 其他地区：用户未选择时默认加载（提升 AdSense 展示/收入）
+ * 推荐方案：Google Funding Choices（AdSense「隐私权和消息」）+ Consent Mode v2
+ * - EEA/UK/CH：默认拒绝，等待 CMP 同意后更新
+ * - 其他地区：默认授予，提高广告展示/收入
  */
 ---
 
 <meta name="google-adsense-account" content="ca-pub-1444054360166733">
 
+<!-- Google Funding Choices / Privacy & messaging (CMP) -->
+<script async src="https://fundingchoicesmessages.google.com/i/pub-1444054360166733?ers=1"></script>
+<script is:inline>
+  (function () {
+    // Signal Funding Choices presence (Google snippet)
+    function signalGooglefcPresent() {
+      try {
+        if (window.frames && window.frames.googlefcPresent) return;
+      } catch {
+        // ignore
+      }
+      if (!document.body) {
+        setTimeout(signalGooglefcPresent, 0);
+        return;
+      }
+      const iframe = document.createElement('iframe');
+      iframe.name = 'googlefcPresent';
+      iframe.style.display = 'none';
+      document.body.appendChild(iframe);
+    }
+    signalGooglefcPresent();
+  })();
+</script>
+
 <script is:inline>
   (function () {
     const GA_ID = 'G-9JME3P55QJ';
     const ADSENSE_CLIENT = 'ca-pub-1444054360166733';
-    const CONSENT_KEY = 'fb_cookie_consent_v1';
-    const GEO_KEY = 'fb_geo_country_v1';
-    const GEO_TTL_MS = 12 * 60 * 60 * 1000; // 12h（session cache，尽量减少跨地区误判）
 
     // EEA + UK + CH（Google 广告/分析常见需要同意的地区集合）
-    const EEA_UK_CH = new Set([
+    const GDPR_REGIONS = [
       'AT','BE','BG','HR','CY','CZ','DK','EE','FI','FR','DE','GR','HU','IE','IT','LV','LT','LU','MT','NL','PL','PT','RO','SK','SI','ES','SE',
       'IS','LI','NO', // EEA
       'GB','UK',      // UK（部分系统可能回传 UK）
       'CH',           // Switzerland
-    ]);
-
-    function getConsent() {
-      try {
-        return localStorage.getItem(CONSENT_KEY);
-      } catch {
-        return null;
-      }
-    }
-
-    function publishConsentScope(detail) {
-      try {
-        window.__fbConsentRequired = Boolean(detail && detail.consentRequired);
-        window.__fbConsentCountry = detail && detail.country ? String(detail.country) : null;
-      } catch {
-        // ignore
-      }
-      try {
-        window.dispatchEvent(new CustomEvent('fb:consent-scope', { detail }));
-      } catch {
-        // ignore
-      }
-    }
+    ];
 
     function setLoadedFlag(name) {
       try {
@@ -74,118 +73,44 @@
       document.head.appendChild(s);
     }
 
-    function loadGA() {
-      if (isLoaded('ga')) return;
+    // Init gtag() as early as possible so other inline scripts can call it.
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+      window.dataLayer.push(arguments);
+    }
+    if (typeof window.gtag !== 'function') window.gtag = gtag;
+
+    // Consent Mode v2 defaults: deny in EEA/UK/CH, grant elsewhere.
+    window.gtag('consent', 'default', {
+      ad_storage: 'denied',
+      analytics_storage: 'denied',
+      ad_user_data: 'denied',
+      ad_personalization: 'denied',
+      wait_for_update: 500,
+      region: GDPR_REGIONS,
+    });
+    window.gtag('consent', 'default', {
+      ad_storage: 'granted',
+      analytics_storage: 'granted',
+      ad_user_data: 'granted',
+      ad_personalization: 'granted',
+    });
+
+    // GA4
+    if (!isLoaded('ga')) {
       setLoadedFlag('ga');
-
-      // Load gtag.js first, then configure.
       injectScript(`https://www.googletagmanager.com/gtag/js?id=${encodeURIComponent(GA_ID)}`, { async: true });
-
-      window.dataLayer = window.dataLayer || [];
-      function gtag() {
-        window.dataLayer.push(arguments);
-      }
-      window.gtag = gtag;
-      gtag('js', new Date());
-      gtag('config', GA_ID);
+      window.gtag('js', new Date());
+      window.gtag('config', GA_ID);
     }
 
-    function loadAdsense() {
-      if (isLoaded('adsense')) return;
+    // AdSense (Auto Ads)
+    if (!isLoaded('adsense')) {
       setLoadedFlag('adsense');
-
       injectScript(
         `https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${encodeURIComponent(ADSENSE_CLIENT)}`,
         { async: true, crossorigin: 'anonymous' }
       );
     }
-
-    function isConsentRequiredForCountry(country) {
-      if (!country) return true; // 保守：未知就要求同意（避免误放行）
-      return EEA_UK_CH.has(String(country).toUpperCase());
-    }
-
-    function getGeoCache() {
-      try {
-        const raw = sessionStorage.getItem(GEO_KEY);
-        if (!raw) return null;
-        const parsed = JSON.parse(raw);
-        if (!parsed || typeof parsed !== 'object') return null;
-        const country = typeof parsed.country === 'string' ? parsed.country : null;
-        const ts = typeof parsed.ts === 'number' ? parsed.ts : 0;
-        if (!country) return null;
-        if (!ts || Date.now() - ts > GEO_TTL_MS) return null;
-        return country;
-      } catch {
-        return null;
-      }
-    }
-
-    function setGeoCache(country) {
-      try {
-        sessionStorage.setItem(GEO_KEY, JSON.stringify({ country, ts: Date.now() }));
-      } catch {
-        // ignore
-      }
-    }
-
-    function extractCountryFromTrace(txt) {
-      const m = String(txt || '').match(/(?:^|\r?\n)loc=([A-Z]{2})(?:\r?\n|$)/);
-      return m ? m[1] : null;
-    }
-
-    function fetchCountryFromTraceUrl(url) {
-      return fetch(url, { cache: 'no-store' })
-        .then((res) => (res && res.ok ? res.text() : ''))
-        .then(extractCountryFromTrace)
-        .catch(() => null);
-    }
-
-    function fetchCountryByTrace() {
-      // 优先同域（减少被拦截概率；prod 一定在 Cloudflare 上）；本地开发再回退到 cloudflare.com
-      return fetchCountryFromTraceUrl('/cdn-cgi/trace').then((country) => {
-        if (country) return country;
-        return fetchCountryFromTraceUrl('https://www.cloudflare.com/cdn-cgi/trace');
-      });
-    }
-
-    window.__fbLoadAnalytics = loadGA;
-    window.__fbLoadAdsense = loadAdsense;
-
-    const consent = getConsent();
-
-    if (consent === 'accepted') {
-      publishConsentScope({ consentRequired: false, country: null, source: 'user-accepted' });
-      loadGA();
-      loadAdsense();
-      return;
-    }
-
-    if (consent === 'rejected') {
-      publishConsentScope({ consentRequired: true, country: null, source: 'user-rejected' });
-      return;
-    }
-
-    // 未做选择：仅在 EEA/UK/CH 强制同意；其余地区默认加载（提升 AdSense 展示/收入）
-    const cachedCountry = getGeoCache();
-    if (cachedCountry) {
-      const consentRequired = isConsentRequiredForCountry(cachedCountry);
-      publishConsentScope({ consentRequired, country: cachedCountry, source: 'geo-cache' });
-      if (!consentRequired) {
-        loadGA();
-        loadAdsense();
-      }
-      return;
-    }
-
-    fetchCountryByTrace().then((country) => {
-      if (country) setGeoCache(country);
-      const consentRequired = isConsentRequiredForCountry(country);
-      publishConsentScope({ consentRequired, country, source: country ? 'trace' : 'geo-unknown' });
-      if (!consentRequired) {
-        loadGA();
-        loadAdsense();
-      }
-    });
   })();
 </script>
