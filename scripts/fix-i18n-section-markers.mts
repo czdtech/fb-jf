@@ -239,11 +239,11 @@ function classifyHeading(locale: Locale, text: string): string | null {
       tips: ['consejos', 'estrategia', 'estrategias', 'trucos', 'tips', 'recorrido', 'walkthrough'],
     },
     fr: {
-      faq: ['questions fréquentes', 'questions frequentes', 'faq'],
-      controls: ['commandes', 'contrôles', 'controles', 'contrôle', 'controle'],
+      faq: ['questions fréquentes', 'questions frequentes', 'foire aux questions', 'faq'],
+      controls: ['commandes', 'guide d’utilisation', "guide d'utilisation", 'contrôles', 'controles', 'contrôle', 'controle'],
       'how-to-play': ['comment jouer', 'mode de jeu', 'guide de jeu', 'guide du jeu', 'jouer', 'gameplay'],
       rules: ['règles', 'regles'],
-      tips: ['guide de jeu', 'astuces', 'conseils', 'stratégie', 'strategie', 'stratégies', 'strategies', 'tips'],
+      tips: ['guide de jeu', 'types de mini-jeux', 'mini-jeux', 'astuces', 'conseils', 'stratégie', 'strategie', 'stratégies', 'strategies', 'tips'],
     },
     de: {
       faq: ['häufig gestellte fragen', 'haeufig gestellte fragen', 'häufige fragen', 'haeufige fragen', 'faq'],
@@ -300,7 +300,7 @@ function findSectionInsertIndex(
 
   const aliasesFor = (target: string): string[] => {
     if (target === 'tips') return ['how-to-play'];
-    if (target === 'how-to-play') return ['tips'];
+    if (target === 'how-to-play') return ['tips', 'controls'];
     return [];
   };
 
