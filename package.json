@@ -51,6 +51,7 @@
     "fix:i18n:zh-mix": "tsx scripts/fix-i18n-zh-english-mix.mts",
     "fix:i18n:zh-traditional": "tsx scripts/fix-i18n-zh-traditional.mts",
     "fix:i18n:zh-wording": "tsx scripts/fix-i18n-zh-cn-wording.mts",
+    "fix:i18n:section-markers": "tsx scripts/fix-i18n-section-markers.mts",
     "fix:i18n:terminology": "tsx scripts/fix-i18n-terminology.mts",
     "generate:stubs": "tsx scripts/generate-i18n-stubs.mts",
     "generate:trending": "tsx scripts/generate-trending-json.mts",
