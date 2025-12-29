@@ -1,13 +1,13 @@
 ---
 locale: fr
 urlstr: 4-pics-1-word
-title: "4 Pics 1 Word"
-description: "4 Pics 1 Word est un grand classique des jeux de mots : observe 4 images, trouve le mot qui les relie et complète des dizaines d’énigmes visuelles." 
+title: 4 Pics 1 Word
+description: "4 Pics 1 Word est un grand classique des jeux de mots\_: observe 4 images, trouve le mot qui les relie et complète des dizaines d’énigmes visuelles."
 iframeSrc: 'https://previews.customer.envatousercontent.com/files/309288896/index.html'
 thumbnail: /new-images/thumbnails/4-pics-1-word.jpg
 tags:
-    - casual
-    - rhythm
+  - casual
+  - rhythm
 score: 4.5/5  (144 votes)
 developer: So Far So Good
 releaseDate: 2025-08-16T00:00:00.000Z
@@ -18,6 +18,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 ---
 
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 Le fonctionnement est très simple et intuitif, ce qui le rend accessible à tous les joueurs, même débutants.

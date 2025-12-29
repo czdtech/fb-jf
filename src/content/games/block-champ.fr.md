@@ -1,9 +1,9 @@
 ---
 locale: fr
 urlstr: block-champ
-title: "Block Champ"
-description: "Block Champ est un puzzle 10×10 avec blocs spéciaux : place des formes pour compléter des lignes, déclenche les éclairs et débarrasse‑toi des blocs de glace pour tenir le plus longtemps possible."
-iframeSrc: "https://ams.cdn.arkadiumhosted.com/assets/global/game/block-champ/"
+title: Block Champ
+description: "Block Champ est un puzzle 10×10 avec blocs spéciaux\_: place des formes pour compléter des lignes, déclenche les éclairs et débarrasse‑toi des blocs de glace pour tenir le plus longtemps possible."
+iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/block-champ/'
 thumbnail: /new-images/thumbnails/block-champ.jpg
 tags:
   - puzzle
@@ -26,6 +26,7 @@ Le jeu se distingue grâce à ses blocs spéciaux :
 
 Pour viser le haut du classement, il faut anticiper plusieurs coups à l’avance et gérer l’espace libre avec précision.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 -   **Garde des options ouvertes :** évite de créer des trous isolés d’une case, très difficiles à combler. Maintiens le plateau aussi plat et dégagé que possible.

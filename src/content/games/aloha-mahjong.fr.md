@@ -1,9 +1,12 @@
 ---
 locale: fr
 urlstr: aloha-mahjong
-title: "Aloha Mahjong"
-description: "Aloha Mahjong est un mahjong solitaire relaxant où tu associes des tuiles ouvertes pour vider le plateau tout en profitant d’une ambiance d’île tropicale."
-iframeSrc: "https://02ef7fb7guapg.h5games.usercontent.goog/v/13knu9k9rm8go/"
+title: Aloha Mahjong
+description: >-
+  Aloha Mahjong est un mahjong solitaire relaxant où tu associes des tuiles
+  ouvertes pour vider le plateau tout en profitant d’une ambiance d’île
+  tropicale.
+iframeSrc: 'https://02ef7fb7guapg.h5games.usercontent.goog/v/13knu9k9rm8go/'
 thumbnail: /new-images/thumbnails/aloha-mahjong.jpg
 tags:
   - mahjong
@@ -17,6 +20,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 *Aloha Mahjong* reprend la formule classique du mahjong solitaire : un ensemble de tuiles empilées forme une structure que tu dois démanteler en trouvant des paires identiques. Seules les tuiles « ouvertes » (non recouvertes et libres sur au moins un côté) peuvent être sélectionnées. L’objectif est de vider complètement la grille sans te retrouver bloqué.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1. **Ouvre la structure :** commence par enlever les tuiles qui libèrent le plus de nouvelles options (bords, sommets, grandes piles).  

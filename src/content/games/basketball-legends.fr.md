@@ -1,9 +1,12 @@
 ---
 locale: fr
 urlstr: basketball-legends
-title: "Basketball Legends"
-description: "Basketball Legends est un jeu de basket arcade 1v1 ou 2v2 plein de dunks exagérés et de tirs spéciaux : maîtrise les déplacements, le dash et le Super Shoot pour dominer tes adversaires en solo ou à deux."
-iframeSrc: "https://webglmath.github.io/basketball-legends/"
+title: Basketball Legends
+description: >-
+  Basketball Legends est un jeu de basket arcade 1v1 ou 2v2 plein de dunks
+  exagérés et de tirs spéciaux : maîtrise les déplacements, le dash et le Super
+  Shoot pour dominer tes adversaires en solo ou à deux.
+iframeSrc: 'https://webglmath.github.io/basketball-legends/'
 thumbnail: /new-images/thumbnails/basketball-legends.jpg
 tags:
   - 2-Player
@@ -19,6 +22,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 Tu peux jouer en **1 contre 1** ou **2 contre 2**, contre l’IA ou un ami sur le même clavier. L’objectif reste classique : marquer plus de points que l’adversaire avant la fin du chrono.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 Pour gagner, il faut maîtriser tes déplacements, le timing des tirs et exploiter le Super Shoot.

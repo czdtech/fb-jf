@@ -1,8 +1,11 @@
 ---
 locale: fr
 urlstr: 2-tricky-stories
-title: "Brain Test 2: Tricky Stories"
-description: "Brain Test 2: Tricky Stories reprend les énigmes déjantées de Brain Test et les transforme en histoires complètes – réfléchis autrement, joue avec l’écran et résous des casse‑têtes qui bousculent la logique."
+title: 'Brain Test 2: Tricky Stories'
+description: >-
+  Brain Test 2: Tricky Stories reprend les énigmes déjantées de Brain Test et
+  les transforme en histoires complètes – réfléchis autrement, joue avec l’écran
+  et résous des casse‑têtes qui bousculent la logique.
 iframeSrc: 'https://bitlifeonline.github.io/brain-test-2-tricky-stories/'
 thumbnail: /new-images/thumbnails/2-tricky-stories.jpg
 tags:
@@ -27,6 +30,7 @@ Le principe reste le même : penser « en dehors du cadre ». Les niveaux ont
 
 ---
 
+<!-- i18n:section:how-to-play -->
 ### **2. Guide de jeu**
 
 Le jeu est conçu autour de la découverte – donner un « corrigé complet » ruinerait en partie l’intérêt. Voici plutôt des conseils généraux pour aborder les niveaux :

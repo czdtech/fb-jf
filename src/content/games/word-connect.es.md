@@ -1,13 +1,13 @@
 ---
 locale: es
 urlstr: word-connect
-title: "Word Connect - Conecta letras y forma palabras"
+title: Word Connect - Conecta letras y forma palabras
 description: >-
-  Conecta letras y amplía tu vocabulario en Word Connect, un adictivo
-  puzle de palabras. Desliza para formar términos a partir de un círculo
-  de letras y rellena el tablero tipo crucigrama mientras descubres palabras
-  extra y usas pistas a lo largo de cientos de niveles relajantes.
-iframeSrc: "https://previews.customer.envatousercontent.com/files/309288677/index.html"
+  Conecta letras y amplía tu vocabulario en Word Connect, un adictivo puzle de
+  palabras. Desliza para formar términos a partir de un círculo de letras y
+  rellena el tablero tipo crucigrama mientras descubres palabras extra y usas
+  pistas a lo largo de cientos de niveles relajantes.
+iframeSrc: 'https://previews.customer.envatousercontent.com/files/309288677/index.html'
 thumbnail: /new-images/thumbnails/word-connect.jpg
 tags:
   - word-game
@@ -22,6 +22,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 Word Connect es un juego de puzles de palabras popular y relajante en el que debes formar palabras uniendo letras. Normalmente las letras se colocan en un círculo y tienes que deslizar el dedo (o el ratón) sobre ellas para ir componiendo palabras. El objetivo es encontrar todos los términos ocultos que encajan en el tablero superior con formato de crucigrama.
 
+<!-- i18n:section:tips -->
 ### Guía de juego
 
 - **Formar palabras:** desliza el dedo de una letra a otra en el círculo para escribir una palabra y suelta para enviarla.

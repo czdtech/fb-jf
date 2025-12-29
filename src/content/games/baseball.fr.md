@@ -1,9 +1,12 @@
 ---
 locale: fr
 urlstr: baseball
-title: "Doodle Baseball"
-description: "Doodle Baseball est un mini‑jeu de base‑ball à un seul bouton : choisis le bon timing pour frapper la balle, enchaîne les home runs et marque un maximum de points avant tes trois retraits."
-iframeSrc: "https://freeonlinegames.github.io/fourth-of-july-2019.html"
+title: Doodle Baseball
+description: >-
+  Doodle Baseball est un mini‑jeu de base‑ball à un seul bouton : choisis le bon
+  timing pour frapper la balle, enchaîne les home runs et marque un maximum de
+  points avant tes trois retraits.
+iframeSrc: 'https://freeonlinegames.github.io/fourth-of-july-2019.html'
 thumbnail: /new-images/thumbnails/baseball.jpg
 tags:
   - casual
@@ -19,6 +22,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 Tu ne contrôles ni les courses sur base ni la défense : tout cela est automatique en fonction de la qualité de ta frappe. La difficulté vient des différents types de lancers (rapides, lents, courbes) qui exigent un timing très précis. La partie se termine quand tu as obtenu trois retraits (strikes ou balles en jeu attrapées).
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 Même si *Doodle Baseball* se joue avec un seul bouton, progresser demande d’affûter ton sens du rythme.

@@ -1,9 +1,12 @@
 ---
 locale: fr
 urlstr: bad-time-simulator
-title: "Bad Time Simulator"
-description: "Bad Time Simulator est un fangame qui recrée le combat contre Sans d’Undertale : un bullet‑hell extrêmement difficile où seule comptent la survie, la mémorisation et la précision."
-iframeSrc: "https://gotoanddie.github.io/c2-sans-fight/"
+title: Bad Time Simulator
+description: >-
+  Bad Time Simulator est un fangame qui recrée le combat contre Sans
+  d’Undertale : un bullet‑hell extrêmement difficile où seule comptent la
+  survie, la mémorisation et la précision.
+iframeSrc: 'https://gotoanddie.github.io/c2-sans-fight/'
 thumbnail: /new-images/thumbnails/bad-time-simulator.jpg
 tags:
   - casual
@@ -19,6 +22,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 Contrairement à un RPG classique, l’objectif n’est pas d’infliger beaucoup de dégâts, mais de **survivre** à un enchaînement de phases de bullet‑hell : os qui jaillissent du sol, rayons des *Gaster Blasters*, plateformes sous gravité modifiée, etc. Particularité supplémentaire, l’effet de **Karmic Retribution (KR)** fait lentement diminuer tes PV après chaque coup reçu, ce qui te laisse très peu de marge d’erreur.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 Réussir ce combat demande avant tout de l’endurance et une excellente mémorisation : la moindre erreur coûte cher.

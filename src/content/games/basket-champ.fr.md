@@ -1,9 +1,12 @@
 ---
 locale: fr
 urlstr: basket-champ
-title: "Basket Champ"
-description: "Basket Champ est un jeu de tir au panier « one‑tap » : règle la puissance et l’arc pour faire passer la balle à travers des paniers parfois mobiles et enchaîner les tirs parfaits."
-iframeSrc: "https://0outkmbudufj8.h5games.usercontent.goog/v/1stcrgq2b9d08/"
+title: Basket Champ
+description: >-
+  Basket Champ est un jeu de tir au panier « one‑tap » : règle la puissance et
+  l’arc pour faire passer la balle à travers des paniers parfois mobiles et
+  enchaîner les tirs parfaits.
+iframeSrc: 'https://0outkmbudufj8.h5games.usercontent.goog/v/1stcrgq2b9d08/'
 thumbnail: /new-images/thumbnails/basket-champ.png
 tags:
   - sports
@@ -18,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 *Basket Champ* est un jeu minimaliste de timing et de précision. Tu tapes pour régler l’angle et la force de ton tir, puis tu regardes la balle traverser (ou non) le panier. D’un niveau à l’autre, les cerceaux peuvent bouger ou être protégés par des obstacles, et ton but est d’enchaîner les paniers sans faute.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1. **Vise légèrement au‑dessus du cercle**  

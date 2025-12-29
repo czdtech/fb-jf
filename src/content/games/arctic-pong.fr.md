@@ -1,9 +1,11 @@
 ---
 locale: fr
 urlstr: arctic-pong
-title: "Arctic Pong"
-description: "Arctic Pong est une version glacée de Pong : contrôle ta raquette, renvoie le palet avec l’angle voulu et marque plus de points que ton adversaire."
-iframeSrc: "https://arcticpong.h5games.usercontent.goog/v/1quekndr8ig0o/"
+title: Arctic Pong
+description: >-
+  Arctic Pong est une version glacée de Pong : contrôle ta raquette, renvoie le
+  palet avec l’angle voulu et marque plus de points que ton adversaire.
+iframeSrc: 'https://arcticpong.h5games.usercontent.goog/v/1quekndr8ig0o/'
 thumbnail: /new-images/thumbnails/arctic-pong.png
 tags:
   - 2 player
@@ -17,6 +19,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 *Arctic Pong* reprend le principe du Pong classique dans une ambiance polaire. Tu déplaces ta raquette pour renvoyer un palet qui rebondit sur les murs. En frappant le palet avec différentes parties de la raquette, tu modifies l’angle de renvoi pour surprendre ton adversaire, humain ou IA.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1. **Vise les angles :** touche le palet près des extrémités de la raquette pour donner un angle plus aigu à ton tir et forcer l’adversaire à parcourir plus de distance.  

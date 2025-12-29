@@ -1,9 +1,11 @@
 ---
 locale: fr
 urlstr: aqua-blocks
-title: "Aqua Blocks"
-description: "Aqua Blocks est un jeu de placement apaisant : place des formes, complète des lignes et garde le plateau dégagé le plus longtemps possible."
-iframeSrc: "https://1uerepsm8tbpg.h5games.usercontent.goog/v/3st9sicdd4eu0/"
+title: Aqua Blocks
+description: >-
+  Aqua Blocks est un jeu de placement apaisant : place des formes, complète des
+  lignes et garde le plateau dégagé le plus longtemps possible.
+iframeSrc: 'https://1uerepsm8tbpg.h5games.usercontent.goog/v/3st9sicdd4eu0/'
 thumbnail: /new-images/thumbnails/aqua-blocks.png
 tags:
   - puzzle
@@ -17,6 +19,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 *Aqua Blocks* est un puzzle relaxant lié à l’eau : tu places des blocs de formes variées sur une grille, et chaque ligne ou zone complètement remplie disparaît. Enchaîner plusieurs lignes d’un coup rapporte plus de points et libère davantage d’espace. La partie se termine lorsque tu ne peux plus poser aucune des formes proposées.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1. **Soigne les bords :** garde les bords de la grille propres pour éviter de laisser des cases isolées impossibles à combler.  

@@ -1,12 +1,13 @@
 ---
 locale: es
 urlstr: yummy-taco
-title: "Yummy Taco - Simulador de taquería exprés"
+title: Yummy Taco - Simulador de taquería exprés
 description: >-
   Ponte el delantal para preparar tacos deliciosos en Yummy Taco, un divertido
-  simulador de cocina a contrarreloj. Toma pedidos, elige ingredientes frescos
-  y arma tacos perfectos para ganar dinero y mejorar tu cocina.
-iframeSrc: "https://g2.igroutka.ru/games/7/K6bHUF2pdiz30Aam/4399swf/upload_swf/ftp40/chenling/20220916/6/"
+  simulador de cocina a contrarreloj. Toma pedidos, elige ingredientes frescos y
+  arma tacos perfectos para ganar dinero y mejorar tu cocina.
+iframeSrc: >-
+  https://g2.igroutka.ru/games/7/K6bHUF2pdiz30Aam/4399swf/upload_swf/ftp40/chenling/20220916/6/
 thumbnail: /new-images/thumbnails/yummy-taco.jpg
 tags:
   - cooking
@@ -20,6 +21,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:section:introduction -->
 Yummy Taco es un simulador de cocina ágil y muy simpático en el que te conviertes en chef de tacos. Tu misión es preparar platos irresistibles para una fila constante de clientes hambrientos, gestionando ingredientes, montaje y servicio con rapidez y precisión. El juego pone a prueba tu habilidad para gestionar el tiempo y mantener el ritmo sin cometer errores.
 
+<!-- i18n:section:tips -->
 ### Guía de juego
 
 - **Tomar pedidos:** los clientes llegan con bocadillos de diálogo que indican los ingredientes que quieren en su taco.

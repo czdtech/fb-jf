@@ -1,9 +1,12 @@
 ---
 locale: fr
 urlstr: basketball-serial-shooter
-title: "Basketball serial shooter"
-description: "Basketball serial shooter est un défi de tir en série : règle ton arc, garde le rythme et enchaîne les paniers dans un temps limité ou avec un nombre de balles réduit."
-iframeSrc: "https://41d3mmm660u50.h5games.usercontent.goog/v/1t2n5uvjnbv1o/"
+title: Basketball serial shooter
+description: >-
+  Basketball serial shooter est un défi de tir en série : règle ton arc, garde
+  le rythme et enchaîne les paniers dans un temps limité ou avec un nombre de
+  balles réduit.
+iframeSrc: 'https://41d3mmm660u50.h5games.usercontent.goog/v/1t2n5uvjnbv1o/'
 thumbnail: /new-images/thumbnails/basketball-serial-shooter.jpg
 tags:
   - sports
@@ -17,6 +20,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 *Basketball serial shooter* est un jeu de tir au panier à rythme élevé. L’objectif est de réussir un maximum de tirs d’affilée en gérant l’angle, la puissance et parfois le vent, tout en t’adaptant aux paniers mouvants et aux différents obstacles.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1. **Construis une routine de tir**  

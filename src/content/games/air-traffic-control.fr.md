@@ -1,9 +1,12 @@
 ---
 locale: fr
 urlstr: air-traffic-control
-title: "Air Traffic Control"
-description: "Dans Air Traffic Control, tu guides des avions en toute sécurité : trace leurs trajectoires, évite les conflits et coordonne les atterrissages sans collision."
-iframeSrc: "https://2nuk1jh1nvsq8.h5games.usercontent.goog/v/5glj0btngbu2o/"
+title: Air Traffic Control
+description: >-
+  Dans Air Traffic Control, tu guides des avions en toute sécurité : trace leurs
+  trajectoires, évite les conflits et coordonne les atterrissages sans
+  collision.
+iframeSrc: 'https://2nuk1jh1nvsq8.h5games.usercontent.goog/v/5glj0btngbu2o/'
 thumbnail: /new-images/thumbnails/air-traffic-control.png
 tags:
   - thinky
@@ -20,6 +23,7 @@ Voici ce qui t’attend dans *Air Traffic Control* et comment t’organiser pour
 
 *Air Traffic Control* est un jeu de gestion en temps réel inspiré du travail des contrôleurs aériens. Tu dois séquencer les arrivées et les départs, garder une distance de sécurité entre les appareils et organiser des trajectoires propres vers la piste. Le cœur du gameplay est la détection et la résolution de conflits : repérer les routes qui vont se croiser et ajuster cap, altitude ou vitesse avant que les avions ne se retrouvent trop proches.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1. **Traite d’abord les conflits imminents :** si deux trajectoires vont se croiser à court terme, règle ce problème en priorité ; le reste peut attendre quelques secondes.  

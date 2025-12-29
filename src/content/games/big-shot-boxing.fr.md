@@ -1,9 +1,12 @@
 ---
 locale: fr
 urlstr: big-shot-boxing
-title: "Big Shot Boxing"
-description: "Big Shot Boxing est un jeu de boxe arcade rétro : entraîne ton boxeur, grimpe dans le classement et utilise des contrôles simples mais techniques pour devenir champion du monde."
-iframeSrc: "https://rebemanae.github.io/big-shot-boxing/"
+title: Big Shot Boxing
+description: >-
+  Big Shot Boxing est un jeu de boxe arcade rétro : entraîne ton boxeur, grimpe
+  dans le classement et utilise des contrôles simples mais techniques pour
+  devenir champion du monde.
+iframeSrc: 'https://rebemanae.github.io/big-shot-boxing/'
 thumbnail: /new-images/thumbnails/big-shot-boxing.jpg
 tags:
   - sports
@@ -19,6 +22,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 Chaque adversaire a son style : certains tapent très fort mais sont lents, d’autres sont rapides mais fragiles. Le gameplay repose sur quelques actions simples (directs, uppercuts, garde), mais demande du timing, de la gestion d’endurance et un peu de stratégie.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 -   **La patience et la défense d’abord :** ne spamme pas les coups. Ils consomment ton endurance et te laissent ouvert aux contres. Laisse l’adversaire finir sa combinaison sur ta garde, puis riposte quand il se découvre.

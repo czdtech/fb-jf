@@ -1,9 +1,11 @@
 ---
 locale: fr
 urlstr: 8x8-match-tiles
-title: "8x8 Match Tiles"
-description: "8x8 Match Tiles est un jeu de réflexion minimaliste où tu associes des tuiles identiques sur une grille 8×8 tout en gérant l’espace limité."
-iframeSrc: "https://75njrrvim9kq0.h5games.usercontent.goog/v/1v57mtiv2ele0/"
+title: 8x8 Match Tiles
+description: >-
+  8x8 Match Tiles est un jeu de réflexion minimaliste où tu associes des tuiles
+  identiques sur une grille 8×8 tout en gérant l’espace limité.
+iframeSrc: 'https://75njrrvim9kq0.h5games.usercontent.goog/v/1v57mtiv2ele0/'
 thumbnail: /new-images/thumbnails/8x8-match-tiles.jpg
 tags:
   - puzzle
@@ -17,6 +19,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 *8x8 Match Tiles* est un jeu de matching reposant sur une grille de 8×8. Tu dois repérer des tuiles identiques et les associer selon les règles du mode de jeu (temps limité, nombre de coups, etc.). Chaque paire retirée libère de la place, mais de nouvelles tuiles peuvent apparaître, et tu perds si le plateau se retrouve bloqué sans aucun coup possible.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1. **Ouvre les lignes de vue :** commence par enlever les paires qui dégagent le plus de cases et révèlent des tuiles cachées en profondeur.

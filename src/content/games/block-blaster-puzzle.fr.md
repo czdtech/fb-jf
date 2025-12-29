@@ -1,9 +1,9 @@
 ---
 locale: fr
 urlstr: block-blaster-puzzle
-title: "Block Blaster Puzzle"
-description: "Block Blaster Puzzle est un jeu de placement de blocs : pose des formes sur la grille, prépare des explosions multi‑lignes et évite de créer des trous impossibles à remplir."
-iframeSrc: "https://0nrdbfos8jhv8.h5games.usercontent.goog/v/6ovao2cpe86og/"
+title: Block Blaster Puzzle
+description: "Block Blaster Puzzle est un jeu de placement de blocs\_: pose des formes sur la grille, prépare des explosions multi‑lignes et évite de créer des trous impossibles à remplir."
+iframeSrc: 'https://0nrdbfos8jhv8.h5games.usercontent.goog/v/6ovao2cpe86og/'
 thumbnail: /new-images/thumbnails/block-blaster-puzzle.png
 tags:
   - puzzle
@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 *Block Blaster Puzzle* est un jeu de placement sur grille. Tu reçois des pièces de formes variées que tu dois placer pour compléter des lignes ou des zones et ainsi les faire disparaître. Le but est de garder le plateau respirant le plus longtemps possible, en évitant de créer des cavités d’une seule case.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1.  **Soigne les bords :** garde les limites de la grille lisses pour éviter les cases isolées impossibles à combler.

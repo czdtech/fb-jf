@@ -1,9 +1,12 @@
 ---
 locale: fr
 urlstr: billiard-hustlers
-title: "Billiard Hustlers"
-description: "Billiard Hustlers est un simulateur de billard orienté technique : vise proprement, applique un peu d’effet et contrôle la bille blanche pour enchaîner les coups gagnants."
-iframeSrc: "https://75hivpjsm2230.h5games.usercontent.goog/v/04igpiqnom6k0/"
+title: Billiard Hustlers
+description: >-
+  Billiard Hustlers est un simulateur de billard orienté technique : vise
+  proprement, applique un peu d’effet et contrôle la bille blanche pour
+  enchaîner les coups gagnants.
+iframeSrc: 'https://75hivpjsm2230.h5games.usercontent.goog/v/04igpiqnom6k0/'
 thumbnail: /new-images/thumbnails/billiard-hustlers.jpg
 tags:
   - sports
@@ -17,6 +20,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 *Billiard Hustlers* est un jeu de billard qui met l’accent sur le réalisme des trajectoires et le contrôle de la bille blanche. Que tu joues en 8‑ball, 9‑ball ou en défis de séries de poches, l’objectif reste de rentrer les bonnes billes tout en positionnant la blanche idéalement pour le coup suivant.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1.  **Anticipe la position suivante :** avant chaque tir, décide précisément où tu veux arrêter la blanche pour préparer le coup suivant.

@@ -1,8 +1,8 @@
 ---
 locale: fr
 urlstr: 3-tricky-quests
-title: "Brain Test 3: Tricky Quests"
-description: "Brain Test 3: Tricky Quests mélange énigmes tordues et aventure : explore avec Alyx, collecte des objets et résous des quêtes pour retrouver les Gemmes de Pouvoir et sauver son père." 
+title: 'Brain Test 3: Tricky Quests'
+description: "Brain Test 3: Tricky Quests mélange énigmes tordues et aventure\_: explore avec Alyx, collecte des objets et résous des quêtes pour retrouver les Gemmes de Pouvoir et sauver son père."
 iframeSrc: 'https://bitlifeonline.github.io/brain-test-3-tricky-quests/'
 thumbnail: /new-images/thumbnails/3-tricky-quests.jpg
 tags:
@@ -27,6 +27,7 @@ Tu incarnes **Alyx**, partie en quête de six Gemmes de Pouvoir pour libérer so
 
 ---
 
+<!-- i18n:section:tips -->
 ### **2. Guide de jeu**
 
 La stratégie reprend l’esprit des précédents Brain Test tout en demandant davantage d’exploration et de gestion des ressources.

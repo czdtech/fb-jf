@@ -1,9 +1,12 @@
 ---
 locale: fr
 urlstr: armored-assault-strike
-title: "Armored Assault Strike"
-description: "Armored Assault Strike est un shooter vue de dessus où tu pilotes un véhicule blindé, gères tes compétences et élimines des vagues d’ennemis sans exposer ton char inutilement."
-iframeSrc: "https://2fr3rldr11rpg.h5games.usercontent.goog/v/2pn2tgakfpecg/"
+title: Armored Assault Strike
+description: >-
+  Armored Assault Strike est un shooter vue de dessus où tu pilotes un véhicule
+  blindé, gères tes compétences et élimines des vagues d’ennemis sans exposer
+  ton char inutilement.
+iframeSrc: 'https://2fr3rldr11rpg.h5games.usercontent.goog/v/2pn2tgakfpecg/'
 thumbnail: /new-images/thumbnails/armored-assault-strike.png
 tags:
   - shooting
@@ -17,6 +20,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 *Armored Assault Strike* mélange shoot ’em up arcade et gestion de position. Tu contrôles un véhicule blindé vu du dessus, dois contourner les ennemis les plus dangereux, utiliser le décor comme couverture et déclencher tes capacités au bon moment pour survivre aux vagues.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1. **Fais tourner les élites :** reste en mouvement autour des ennemis puissants, tire en reculant et casse la ligne de vue dès que la pression devient trop forte.  

@@ -1,9 +1,11 @@
 ---
 locale: fr
 urlstr: backyard-zombie-defense
-title: "Backyard Zombie Defense"
-description: "Backyard Zombie Defense est un tower defense léger : place des tourelles, améliore‑les intelligemment et empêche les zombies de traverser ton jardin."
-iframeSrc: "https://18ivvthj417fo.h5games.usercontent.goog/v/27786m6fltuso/"
+title: Backyard Zombie Defense
+description: >-
+  Backyard Zombie Defense est un tower defense léger : place des tourelles,
+  améliore‑les intelligemment et empêche les zombies de traverser ton jardin.
+iframeSrc: 'https://18ivvthj417fo.h5games.usercontent.goog/v/27786m6fltuso/'
 thumbnail: /new-images/thumbnails/backyard-zombie-defense.png
 tags:
   - tower Defense
@@ -17,6 +19,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 Dans *Backyard Zombie Defense*, tu dois défendre un jardin contre des vagues de zombies. Tu poses des tourelles sur un chemin prédéfini, tu les améliores entre les vagues et tu t’assures que les morts‑vivants n’atteignent jamais la sortie.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1. **Couvre les longues portions de chemin :** place tes tourelles aux endroits où le trajet des zombies est le plus long ou se croise plusieurs fois pour maximiser les dégâts.  

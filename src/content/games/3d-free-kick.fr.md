@@ -1,8 +1,8 @@
 ---
 locale: fr
 urlstr: 3d-free-kick
-title: "3D Free Kick"
-description: "3D Free Kick te permet de frapper des coups francs comme un pro : vise le mur, donne de l’effet et fais trembler les filets sur des situations arrêtées spectaculaires." 
+title: 3D Free Kick
+description: "3D Free Kick te permet de frapper des coups francs comme un pro\_: vise le mur, donne de l’effet et fais trembler les filets sur des situations arrêtées spectaculaires."
 iframeSrc: 'https://78b0enfiv98go.h5games.usercontent.goog/v/00acsktd29tjg/'
 thumbnail: /new-images/thumbnails/3d-free-kick.png
 tags:
@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 3D Free Kick est entièrement dédié à l’art du coup franc. Choisis ta cible, contourne le mur et surprends le gardien. Les niveaux varient la taille du mur, la distance, les réactions du gardien et parfois le vent pour tester ta précision et la maîtrise de tes trajectoires.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1. **Vise les coins :** les lucarnes et petits filets sont les zones les plus difficiles à atteindre pour le gardien.

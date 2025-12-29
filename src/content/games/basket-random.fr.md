@@ -1,9 +1,13 @@
 ---
 locale: fr
 urlstr: basket-random
-title: "Basket Random"
-description: "Basket Random est un jeu de basket complètement chaotique basé sur la physique : un seul bouton pour sauter, des terrains, ballons et joueurs qui changent à chaque point, et des matchs délirants à 2 joueurs."
-iframeSrc: "https://app-197304.games.s3.yandex.net/197304/kj9rcykboy6eol5xnn250jesr7v0hoh1/index.html"
+title: Basket Random
+description: >-
+  Basket Random est un jeu de basket complètement chaotique basé sur la
+  physique : un seul bouton pour sauter, des terrains, ballons et joueurs qui
+  changent à chaque point, et des matchs délirants à 2 joueurs.
+iframeSrc: >-
+  https://app-197304.games.s3.yandex.net/197304/kj9rcykboy6eol5xnn250jesr7v0hoh1/index.html
 thumbnail: /new-images/thumbnails/basket-random.jpg
 tags:
   - casual
@@ -21,6 +25,7 @@ Après chaque panier, presque tout change : longueur du terrain, gravité, taill
 
 Tu ne peux pas vraiment « diriger » tes joueurs ; tu peux seulement influencer leurs sauts et leurs mouvements de bras via le timing de tes appuis, ce qui donne des situations aussi imprévisibles qu’hilarantes.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 Gagner consiste moins à contrôler parfaitement tes joueurs qu’à apprivoiser le chaos et à réagir à ce qu’il se passe à l’écran.

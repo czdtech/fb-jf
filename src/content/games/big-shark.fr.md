@@ -1,9 +1,12 @@
 ---
 locale: fr
 urlstr: big-shark
-title: "Big Shark"
-description: "Big Shark est un jeu d’action/survie aquatique : mange les poissons plus petits, grossis, évite les mines et les requins géants, et deviens le prédateur ultime de l’océan."
-iframeSrc: "https://g2.igroutka.ru/lib/crazy/games/big-shark/"
+title: Big Shark
+description: >-
+  Big Shark est un jeu d’action/survie aquatique : mange les poissons plus
+  petits, grossis, évite les mines et les requins géants, et deviens le
+  prédateur ultime de l’océan.
+iframeSrc: 'https://g2.igroutka.ru/lib/crazy/games/big-shark/'
 thumbnail: /new-images/thumbnails/big-shark.jpg
 tags:
   - casual
@@ -19,6 +22,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 Mais l’eau est loin d’être sûre : requins plus gros, mines sous‑marines et autres menaces peuvent mettre fin à ta partie en un instant. Le jeu est infini et orienté score : le but est de survivre le plus longtemps possible et de devenir le plus grand requin du coin.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 Réussir dans *Big Shark* demande un mélange de prudence et d’agressivité réfléchie.

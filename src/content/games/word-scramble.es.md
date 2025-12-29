@@ -1,13 +1,12 @@
 ---
 locale: es
 urlstr: word-scramble
-title: "Word Scramble - Desordena y descubre la palabra"
+title: Word Scramble - Desordena y descubre la palabra
 description: >-
   Ordena letras descolocadas y pon a prueba tu mente en Word Scramble, un
-  clásico puzle de palabras. Recoloca las letras para formar la palabra
-  correcta antes de que se acabe el tiempo y demuestra tu vocabulario y rapidez
-  mental.
-iframeSrc: "https://ams.cdn.arkadiumhosted.com/assets/global/game/word-scramble/"
+  clásico puzle de palabras. Recoloca las letras para formar la palabra correcta
+  antes de que se acabe el tiempo y demuestra tu vocabulario y rapidez mental.
+iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/word-scramble/'
 thumbnail: /new-images/thumbnails/word-scramble.jpg
 tags:
   - word-game
@@ -22,6 +21,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 Word Scramble es un puzle de palabras clásico y muy entretenido en el que debes reordenar un conjunto de letras desordenadas para formar una palabra con sentido. Es una prueba de vocabulario, reconocimiento de patrones y rapidez mental, con distintos niveles de dificultad y categorías temáticas.
 
+<!-- i18n:section:tips -->
 ### Guía de juego
 
 - **Objetivo:** identificar la palabra original a partir de las letras mezcladas.

@@ -1,9 +1,12 @@
 ---
 locale: fr
 urlstr: basket-battle
-title: "Basket Battle"
-description: "Basket Battle est un duel de basket basé sur la physique : règle la courbe de ton tir, prends les rebonds et marque plus de paniers que ton adversaire en manches rapides."
-iframeSrc: "https://1e2ocejsf0rm8.h5games.usercontent.goog/v/093f1a2jf2p98/"
+title: Basket Battle
+description: >-
+  Basket Battle est un duel de basket basé sur la physique : règle la courbe de
+  ton tir, prends les rebonds et marque plus de paniers que ton adversaire en
+  manches rapides.
+iframeSrc: 'https://1e2ocejsf0rm8.h5games.usercontent.goog/v/093f1a2jf2p98/'
 thumbnail: /new-images/thumbnails/basket-battle.png
 tags:
   - sports
@@ -17,6 +20,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 *Basket Battle* est un mini‑jeu de basket nerveux où chaque tir compte. Tu dois viser, ajuster la puissance et l’arc de la trajectoire, puis gérer les rebonds pour prendre l’avantage sur ton adversaire dans de courts duels.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1. **Privilégie les arcs hauts**  

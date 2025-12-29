@@ -1,13 +1,13 @@
 ---
 locale: es
 urlstr: yohoho-io
-title: "YoHoHo.io - Batalla real de piratas"
+title: YoHoHo.io - Batalla real de piratas
 description: >-
-  Zarpa hacia la aventura en YoHoHo.io, un frenético battle royale pirata.
-  Haz crecer a tu corsario recogiendo oro, derriba a rivales más pequeños y
+  Zarpa hacia la aventura en YoHoHo.io, un frenético battle royale pirata. Haz
+  crecer a tu corsario recogiendo oro, derriba a rivales más pequeños y
   sobrevive al círculo que se encoge mientras dominas ataques de espada y
   embestidas.
-iframeSrc: "https://bitlifeonline.github.io/class16523/yohoho-io/"
+iframeSrc: 'https://bitlifeonline.github.io/class16523/yohoho-io/'
 thumbnail: /new-images/thumbnails/yohoho-io.jpg
 tags:
   - io-game
@@ -23,6 +23,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 YoHoHo.io es un .io de batalla real rápido y caótico con temática pirata, en el que los jugadores compiten por ser el último corsario en pie en una isla que se va encogiendo. Empiezas como un pirata pequeño y frágil y, recogiendo oro y derrotando enemigos, creces en tamaño y fuerza hasta dominar la clasificación. Controles sencillos, partidas cortas y un fuerte componente competitivo lo convierten en un juego tremendamente adictivo.
 
+<!-- i18n:section:tips -->
 ### Guía de juego
 
 - **Recoge oro:** tu objetivo principal es recolectar las monedas repartidas por la isla. El oro aumenta el tamaño de tu pirata, su alcance de ataque y el daño que inflige.

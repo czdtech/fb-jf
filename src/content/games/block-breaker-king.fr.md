@@ -1,9 +1,9 @@
 ---
 locale: fr
 urlstr: block-breaker-king
-title: "Block Breaker King"
-description: "Block Breaker King modernise le casse‑briques : dirige ta raquette, ajuste l’angle des rebonds, gère les bonus et casse toutes les briques sans laisser passer la balle."
-iframeSrc: "https://40p3ck71ovs88.h5games.usercontent.goog/v/36e5gjc5plhi8/"
+title: Block Breaker King
+description: "Block Breaker King modernise le casse‑briques\_: dirige ta raquette, ajuste l’angle des rebonds, gère les bonus et casse toutes les briques sans laisser passer la balle."
+iframeSrc: 'https://40p3ck71ovs88.h5games.usercontent.goog/v/36e5gjc5plhi8/'
 thumbnail: /new-images/thumbnails/block-breaker-king.png
 tags:
   - puzzle
@@ -21,6 +21,7 @@ Au fil des niveaux, la disposition des briques change et des bonus peuvent appar
 
 Selon la version, le mode « Mission » ajoute des objectifs (briques à détruire, score à atteindre, niveau à terminer rapidement) qui débloquent des niveaux successifs, en plus d’un mode plus libre orienté score.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1.  **Contrôle l’angle :** dévie la balle en la prenant sur le bord de la raquette pour atteindre les briques difficiles.

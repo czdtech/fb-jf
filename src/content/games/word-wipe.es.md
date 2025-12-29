@@ -1,13 +1,13 @@
 ---
 locale: es
 urlstr: word-wipe
-title: "Word Wipe - Limpia el tablero con palabras"
+title: Word Wipe - Limpia el tablero con palabras
 description: >-
-  Limpia el tablero usando tu vocabulario en Word Wipe, un puzle de
-  palabras rápido y adictivo. Conecta letras en cualquier dirección para formar
-  términos, haz que desaparezcan y deja caer nuevas letras mientras luchas
-  contra el reloj para despejar filas y lograr una gran puntuación.
-iframeSrc: "https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-word-wipe/"
+  Limpia el tablero usando tu vocabulario en Word Wipe, un puzle de palabras
+  rápido y adictivo. Conecta letras en cualquier dirección para formar términos,
+  haz que desaparezcan y deja caer nuevas letras mientras luchas contra el reloj
+  para despejar filas y lograr una gran puntuación.
+iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-word-wipe/'
 thumbnail: /new-images/thumbnails/word-wipe.jpg
 tags:
   - word-game
@@ -22,6 +22,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 Word Wipe es un dinámico puzle de palabras que combina la búsqueda de términos con una mecánica de caída de fichas. Te enfrentas a una cuadrícula de letras y debes encontrar rápidamente palabras conectando letras adyacentes. Al formar un término, esas letras desaparecen y las de arriba caen, manteniendo el desafío en movimiento constante.
 
+<!-- i18n:section:tips -->
 ### Guía de juego
 
 - **Objetivo:** formar palabras para limpiar líneas y superar niveles. Normalmente debes eliminar un número concreto de filas dentro de un límite de tiempo.

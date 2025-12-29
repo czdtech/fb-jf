@@ -1,14 +1,16 @@
 ---
 locale: fr
 urlstr: 60s-burger-run
-title: "60 Seconds Burger Run - Play 60 Seconds Burger Run Online"
-description: "60 Seconds Burger Run est un jeu de plateforme de speed‑run coloré où tu dois atteindre un fast‑food sur le point de fermer en moins de 60 secondes."
-iframeSrc: "https://www.playfiddlebops.com/embed/60s-burger-run/index.html"
+title: 60 Seconds Burger Run - Play 60 Seconds Burger Run Online
+description: >-
+  60 Seconds Burger Run est un jeu de plateforme de speed‑run coloré où tu dois
+  atteindre un fast‑food sur le point de fermer en moins de 60 secondes.
+iframeSrc: 'https://www.playfiddlebops.com/embed/60s-burger-run/index.html'
 thumbnail: /new-images/thumbnails/60s-burger-run.jpg
 tags:
   - 60 seconds burger run
 score: 4.6/5  (1344 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -18,6 +20,7 @@ releaseDate: 2025-12-04
 
 Dans chaque niveau, ton personnage doit rejoindre l’arrêt de bus au bout du parcours. Si tu réussis, tu montes dans le bus et passes directement au niveau suivant, toujours avec le même compteur de 60 secondes. Plus tu avances, plus les parcours deviennent techniques, avec des sauts précis, des plateformes qui s’effondrent et des pièges serrés qui punissent la moindre erreur.
 
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 - **Objectif principal :** tu disposes de 60 secondes au total pour terminer le plus de niveaux possible. La partie se termine lorsque le temps atteint zéro.

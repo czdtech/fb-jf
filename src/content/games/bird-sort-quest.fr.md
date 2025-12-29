@@ -1,9 +1,9 @@
 ---
 locale: fr
 urlstr: bird-sort-quest
-title: "Bird Sort Quest"
-description: "Bird Sort Quest est un jeu de tri apaisant : déplace les oiseaux d’un perchoir à l’autre pour regrouper les couleurs, tout en gérant les emplacements libres."
-iframeSrc: "https://59c0fiphd7ng0.h5games.usercontent.goog/v/5cgtqofbdtd08/"
+title: Bird Sort Quest
+description: "Bird Sort Quest est un jeu de tri apaisant\_: déplace les oiseaux d’un perchoir à l’autre pour regrouper les couleurs, tout en gérant les emplacements libres."
+iframeSrc: 'https://59c0fiphd7ng0.h5games.usercontent.goog/v/5cgtqofbdtd08/'
 thumbnail: /new-images/thumbnails/bird-sort-quest.png
 tags:
   - puzzle
@@ -18,6 +18,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 *Bird Sort Quest* appartient à la famille des jeux de tri de liquides/objets. Chaque perchoir contient une pile d’oiseaux colorés, et tu dois déplacer un oiseau à la fois pour qu’à la fin chaque perchoir n’accueille qu’une couleur. La difficulté vient des règles strictes : seuls les perchoirs vides ou dont l’oiseau du dessus est de la même couleur peuvent recevoir un oiseau, et les emplacements libres sont limités. Il faut donc utiliser certains perchoirs comme tampons temporaires pour « garer » des oiseaux pendant que tu réorganises les autres.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1. **Garde un perchoir tampon**  

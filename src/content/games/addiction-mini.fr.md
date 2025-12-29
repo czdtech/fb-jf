@@ -1,9 +1,12 @@
 ---
 locale: fr
 urlstr: addiction-mini
-title: "Addiction Mini"
-description: "Addiction Mini est une version compacte du solitaire Addiction où tu réorganises les cartes pour former des suites complètes en planifiant plusieurs coups à l’avance."
-iframeSrc: "https://0lk0u0jb90plo.h5games.usercontent.goog/v/2rppmab9dqneo/"
+title: Addiction Mini
+description: >-
+  Addiction Mini est une version compacte du solitaire Addiction où tu
+  réorganises les cartes pour former des suites complètes en planifiant
+  plusieurs coups à l’avance.
+iframeSrc: 'https://0lk0u0jb90plo.h5games.usercontent.goog/v/2rppmab9dqneo/'
 thumbnail: /new-images/thumbnails/addiction-mini.jpg
 tags:
   - card
@@ -18,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 *Addiction Mini* reprend le principe des jeux de patience de la famille « Addiction / Monte Carlo ». Tu dois glisser les cartes pour compléter des suites dans le bon ordre, généralement par couleur ou par famille selon les règles du mode. En créant des espaces vides au bon endroit, tu ouvres des possibilités de déplacement supplémentaires et évites les situations bloquées.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1. **Crée des espaces tôt :** libère rapidement quelques cases vides pour pouvoir réorganiser les cartes autour de ces emplacements.

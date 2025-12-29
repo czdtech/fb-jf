@@ -1,8 +1,8 @@
 ---
 locale: fr
 urlstr: 4-in-row-mania
-title: "4 In Row MANIA"
-description: "4 In Row MANIA est un Puissance 4 nerveux : contrôle le centre, tends des pièges et aligne quatre jetons avant ton adversaire." 
+title: 4 In Row MANIA
+description: "4 In Row MANIA est un Puissance 4 nerveux\_: contrôle le centre, tends des pièges et aligne quatre jetons avant ton adversaire."
 iframeSrc: 'https://4vt1c4a3eda48.h5games.usercontent.goog/v/73p1lulj7oe3o/'
 thumbnail: /new-images/thumbnails/4-in-row-mania.jpg
 tags:
@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 4 In Row MANIA reprend le principe du Puissance 4 dans une version dynamique. À tour de rôle, tu fais tomber des jetons dans une grille verticale. Le but : être le premier à aligner quatre jetons de ta couleur à l’horizontale, verticale ou en diagonale, tout en bloquant les tentatives de ton adversaire.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1. **Contrôle du centre :** la colonne centrale offre le plus de combinaisons possibles, essaie d’y prendre l’avantage.

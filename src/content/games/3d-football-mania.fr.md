@@ -1,8 +1,8 @@
 ---
 locale: fr
 urlstr: 3d-football-mania
-title: "3D Football Mania"
-description: "3D Football Mania condense le foot en petites actions rapides : dribble, combine et enchaîne les frappes bien placées pour tromper le gardien." 
+title: 3D Football Mania
+description: "3D Football Mania condense le foot en petites actions rapides\_: dribble, combine et enchaîne les frappes bien placées pour tromper le gardien."
 iframeSrc: 'https://0iadidf74ef9o.h5games.usercontent.goog/v/4cmv5jsv0n25g/'
 thumbnail: /new-images/thumbnails/3d-football-mania.png
 tags:
@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 3D Football Mania te propose une succession de petites situations de foot en 3D. Lis les déplacements des défenseurs, choisis la bonne passe et déclenche ta frappe au bon moment pour battre le gardien dans des défis courts et rejouables.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1. **Utilise les passes en profondeur :** préfère les ballons dans l’espace plutôt que dans les pieds pour prendre la défense de vitesse.

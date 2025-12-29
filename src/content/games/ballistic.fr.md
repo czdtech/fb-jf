@@ -1,9 +1,12 @@
 ---
 locale: fr
 urlstr: ballistic
-title: "Ballistic game"
-description: "Ballistic est un casse‑tête arcade basé sur la physique où tu tires des salves de balles pour casser des blocs numérotés avant qu’ils n’atteignent le bas de l’écran."
-iframeSrc: "https://ams.cdn.arkadiumhosted.com/assets/global/game/ballistic/"
+title: Ballistic game
+description: >-
+  Ballistic est un casse‑tête arcade basé sur la physique où tu tires des salves
+  de balles pour casser des blocs numérotés avant qu’ils n’atteignent le bas de
+  l’écran.
+iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/ballistic/'
 thumbnail: /new-images/thumbnails/ballistic.jpg
 tags:
   - puzzle
@@ -19,6 +22,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 Après chaque tir, tous les blocs descendent d’une ligne, ce qui met une pression constante : si un bloc atteint le bas de l’aire de jeu, la partie est terminée. En chemin, tu peux récupérer des balles supplémentaires et des bonus qui augmentent ta puissance de feu.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 Pour progresser longtemps, anticipe plusieurs tirs à l’avance et exploite au mieux chaque rebond.
