@@ -15,6 +15,7 @@ releaseDate: 2025-12-04
 
 Sprunki Abgerny ist mehr als nur ein Musikspiel – es ist eine Hommage an alte Kulturen und gleichzeitig ein Experimentierfeld für moderne Klangideen. Du erschaffst nicht nur Tracks, sondern spürst dabei auch ein bisschen die Atmosphäre traditioneller Rituale und Gesänge.
 
+<!-- i18n:section:tips -->
 ### Das Kern-Gameplay von Sprunki Abgerny
 
 - **Werde Stammesführer:** Du führst deinen eigenen Stamm von Beatboxern und Rhythmusgebern an und lässt sie gemeinsam beeindruckende Melodien und Grooves spielen.
@@ -28,4 +29,3 @@ Sprunki Abgerny ist mehr als nur ein Musikspiel – es ist eine Hommage an alte 
 - Du kannst deine Kreationen mit Freunden und Familie teilen und gemeinsam die Kraft von Rhythmus und Gesang erleben.
 
 **Egal, ob du bereits Erfahrung mit Musikspielen hast oder zum ersten Mal solche Tools ausprobierst – Sprunki Abgerny bietet dir jede Menge Spaß und weckt mit seinem besonderen Ethno-Touch deine kreative Ader. Schließ dich dem Stamm an und erwecke mit alten Beats deine ursprüngliche Musikalität.**
-

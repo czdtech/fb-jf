@@ -22,6 +22,7 @@ cultures tribales et une exploration des possibilités infinies de la
 musique. Ici, tu ne fais pas que composer : tu peux aussi ressentir
 l’héritage et le mélange des traditions.
 
+<!-- i18n:section:tips -->
 ### Le cœur du gameplay de Sprunki Abgerny
 
 - **Deviens chef de tribu :** dirige ton groupe de beatboxers et utilise
@@ -46,4 +47,3 @@ l’héritage et le mélange des traditions.
 terrain de jeu infini. Son twist ethnique original stimule la créativité :
 rejoins‑le et réveille la musique primitive qui sommeille en toi au rythme
 de beats ancestraux !**
-

@@ -23,6 +23,7 @@ culturas antiguas y explora la fusión entre tradición y creatividad moderna.
 Aquí no solo creas música, también sientes la herencia y la mezcla de distintos
 pueblos.
 
+<!-- i18n:section:tips -->
 ### Jugabilidad básica de Sprunki Abgerny
 
 - **Conviértete en líder tribal:** Dirige a tu propia tribu de beatboxers y usa
@@ -47,4 +48,3 @@ pueblos.
 Abgerny ofrece diversión sin fin y enciende la chispa creativa con su toque
 étnico único. Únete a Sprunki Abgerny y despierta el alma musical primigenia al
 ritmo de beats ancestrales.**
-
