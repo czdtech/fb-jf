@@ -21,6 +21,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 UNO est le jeu de cartes classique où les joueurs font la course pour vider leur main en associant couleurs et numéros, utilisant des cartes d'action spéciales pour bloquer leurs adversaires et être le premier à crier « UNO ! ». Ce jeu est mondialement célèbre pour son gameplay simple à apprendre mais riche en stratégie.
 
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **Priorité aux couleurs :** Joue en priorité les cartes qui correspondent à la couleur en cours, garde les jokers et cartes d'action en réserve.
@@ -36,6 +37,7 @@ UNO est le jeu de cartes classique où les joueurs font la course pour vider leu
 *   **Choisir la couleur :** Sélectionne la prochaine couleur après avoir joué un joker.
 *   **Bouton UNO :** Clique sur le bouton UNO pour déclarer quand il te reste une carte.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions
 
 1.  **Q : Quand dois-je crier UNO ?**

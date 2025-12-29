@@ -5,7 +5,8 @@ title: Tunnel Rush
 description: >-
   Tunnel Rush est un endless runner 3D ultra-rapide : navigue dans un tunnel
   coloré en évitant les obstacles à grande vitesse.
-iframeSrc: 'https://szhong.4399.com/4399swf//upload_swf/ftp44/gamehwq/20230830/12a/index.html'
+iframeSrc: >-
+  https://szhong.4399.com/4399swf//upload_swf/ftp44/gamehwq/20230830/12a/index.html
 thumbnail: /new-images/thumbnails/tunnel-rush.jpg
 tags:
   - endless runner
@@ -21,6 +22,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 Tunnel Rush est un endless runner ultra-rapide où tu navigues dans un tunnel 3D coloré, évitant obstacles et barrières à grande vitesse. Cette expérience palpitante teste tes réflexes et ta concentration, avec une vitesse qui augmente au fil du jeu.
 
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **Entraînement des réflexes :** Pratique des réactions rapides pour gérer les obstacles soudains.
@@ -35,6 +37,7 @@ Tunnel Rush est un endless runner ultra-rapide où tu navigues dans un tunnel 3D
 *   **Éviter les obstacles :** Déplace-toi à temps pour éviter les obstacles dans le tunnel.
 *   **Reste centré :** Essaie de rester au centre du tunnel quand il n'y a pas d'obstacles.
 
+<!-- i18n:section:faq -->
 ### Foire aux questions
 
 1.  **Q : La vitesse augmente-t-elle toujours ?**

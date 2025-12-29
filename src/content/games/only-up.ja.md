@@ -1,7 +1,8 @@
 ---
 title: Only Up
 description: Only Upは垂直方向に登るアクションです。ジャンプで足場を渡り、落下を避けながら上を目指します。
-iframeSrc: 'https://szhong.4399.com/4399swf//upload_swf/ftp44/chenling/20230826/01/index.htm'
+iframeSrc: >-
+  https://szhong.4399.com/4399swf//upload_swf/ftp44/chenling/20230826/01/index.htm
 thumbnail: /new-images/thumbnails/only-up.jpg
 urlstr: only-up
 score: 3.5/5  (1311 votes)
@@ -9,7 +10,7 @@ tags:
   - action
   - casual
 developer: ''
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -18,6 +19,7 @@ locale: ja
 
 Only Upは、プラットフォームとオブジェクトを登ることに挑戦します。一つのルール：上にのみ移動します。落下すると、すべての進行を失います。正確なジャンプ、慎重な計画、鉄の意志が必要です。
 
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **忍耐強く:** 急がないでください。各ジャンプを計画します。

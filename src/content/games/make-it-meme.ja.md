@@ -10,7 +10,7 @@ tags:
   - 2 player
   - novelty
 developer: ''
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -19,6 +19,7 @@ locale: ja
 
 Make It Memeは、画像にキャプションを付けてミームを作り、みんなで投票するパーティーゲームです。友達や他のプレイヤーと作品を共有し、どれが一番ウケるかを競います。
 
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **観客を知る:** 友達や観客が何を面白いと思うかを考えます。

@@ -1,7 +1,8 @@
 ---
 title: Minecraft
 description: Minecraftはサンドボックス型の冒険ゲームです。ブロックの世界で建築や探索を行い、素材を集めて生き延びます。
-iframeSrc: 'https://app-167027.games.s3.yandex.net/167027/tnn3wq0qkjwhvr1271tszdhl82lm97e6/index.html'
+iframeSrc: >-
+  https://app-167027.games.s3.yandex.net/167027/tnn3wq0qkjwhvr1271tszdhl82lm97e6/index.html
 thumbnail: /new-images/thumbnails/minecraft.jpg
 urlstr: minecraft
 score: 4.5/5  (671 votes)
@@ -10,7 +11,7 @@ tags:
   - sandbox
   - casual
 developer: ''
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -19,6 +20,7 @@ locale: ja
 
 Minecraftは、建築・探索・サバイバルを組み合わせたサンドボックスゲームです。ブロックの世界を探索して資源を集め、拠点を作り、状況に合わせて生き延びます。何を目指すかはプレイスタイル次第です。
 
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **リソースを収集:** 木材、石、鉱石を採掘します。

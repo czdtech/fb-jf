@@ -9,7 +9,7 @@ tags:
   - horror
   - casual
 developer: ''
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -18,6 +18,7 @@ locale: ja
 
 Night Watchmanは、夜間警備員として施設をパトロールする緊張感のあるホラーゲームです。異常をチェックし、侵入者を避け、朝まで生き延びます。限られた視界と不気味なサウンドが緊張を高めます。
 
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **ルートを学ぶ:** パトロールパスを記憶します。

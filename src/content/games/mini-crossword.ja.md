@@ -10,7 +10,7 @@ tags:
   - thinky
   - casual
 developer: ''
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -19,6 +19,7 @@ locale: ja
 
 Mini Crosswordは、短時間で解けるコンパクトなクロスワードパズルです。手がかりから単語を推測し、グリッドを埋めていきます。語彙や知識を使って解くタイプのワードパズルです。
 
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **簡単な手がかりから始める:** 確実な答えから始めて勢いを構築します。

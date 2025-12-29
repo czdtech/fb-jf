@@ -1,19 +1,22 @@
 ---
-title: "Dandyrunki Retake - Dandyrunki Retake Onlineで遊ぼう"
-description: "「Dandyrunki Retake」でリズムとメロディを手軽に探索しよう。音楽愛好家も初心者も楽しめるリミックスバージョン。"
-iframeSrc: "https://turbowarp.org/1126924449/embed"
+title: Dandyrunki Retake - Dandyrunki Retake Onlineで遊ぼう
+description: 「Dandyrunki Retake」でリズムとメロディを手軽に探索しよう。音楽愛好家も初心者も楽しめるリミックスバージョン。
+iframeSrc: 'https://turbowarp.org/1126924449/embed'
 thumbnail: /new-images/thumbnails/dandyrunki-retake.png
-urlstr: "dandyrunki-retake"
-score: "3.7/5  (255 votes)"
-tags: ["dandyrunki retake", "dandyrunki retake online"]
+urlstr: dandyrunki-retake
+score: 3.7/5  (255 votes)
+tags:
+  - dandyrunki retake
+  - dandyrunki retake online
 locale: ja
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Dandyrunki Retake の魅力とは？
  
 一言で言えば、このリミックスバージョンは音楽業界の国境を超えたコラボレーションのようなものです。Dandyrunkiの奇妙な音符が、予想外の化学反応を生み出します。さらに素晴らしいことに、ダウンロードは不要です。ブラウザを開くだけで、いつでもどこでもこの創造的なゲームを楽しむことができます！
  
+<!-- i18n:section:tips -->
 ### Dandyrunki Retake コア・ゲームプレイ:
  
  - **キャラクター選択:** Dandyrunki Retakeの多くのキャラクターから音楽のパートナーを選びましょう。各キャラクターは独自のサウンドと視覚効果を持っており、あなたの作品を個性豊かに彩ります。

@@ -1,13 +1,17 @@
 ---
-title: "Aquapark.io アクアパーク.io"
-description: "「Aquapark.io」は、巨大なウォータースライダーを舞台にしたハイパーカジュアル・レースゲーム。スライダーを飛び出し、ショートカットを決めて1位を目指せ！"
-iframeSrc: "https://bitlifeonline.github.io/class23523/aquaparkio/"
+title: Aquapark.io アクアパーク.io
+description: >-
+  「Aquapark.io」は、巨大なウォータースライダーを舞台にしたハイパーカジュアル・レースゲーム。スライダーを飛び出し、ショートカットを決めて1位を目指せ！
+iframeSrc: 'https://bitlifeonline.github.io/class23523/aquaparkio/'
 thumbnail: /new-images/thumbnails/aquaparkio.jpg
-urlstr: "aquaparkio"
-score: "4.9/5  (169 votes)"
-tags: ["casual", "racing", "multiplayer"]
-developer: "Voodoo"
-releaseDate: 2025-08-16
+urlstr: aquaparkio
+score: 4.9/5  (169 votes)
+tags:
+  - casual
+  - racing
+  - multiplayer
+developer: Voodoo
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -18,6 +22,7 @@ locale: ja
 
 このゲームでは、大人数のキャラクター（主にAIボット）と競い合います。単にスライダーの上を滑るだけではありません。ライバルに体当たりしてコースアウトさせたり、何より重要なのが、コースの端から飛び出して空を飛び、下のコースに着地するという「ショートカット」です。この「飛行（フライング）」メカニクスこそが最大の戦略であり、ハイリスク・ハイリターンの駆け引きを生み出します。シンプルなワンタッチ操作と、コインを集めて新キャラやスキンをアンロックする成長要素も魅力です。
 
+<!-- i18n:section:tips -->
 ### ゲーム攻略と戦略
 
 *Aquapark.io* で勝つためには、「ショートカットの技術」と「リスク管理」をマスターする必要があります。

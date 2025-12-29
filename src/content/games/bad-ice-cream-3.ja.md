@@ -1,13 +1,16 @@
 ---
-title: "Bad Ice-Cream 3 バッド・アイスクリーム3"
-description: "「Bad Ice-Cream 3」が登場！砂漠や宇宙を舞台に、新しい敵とギミックが満載。氷の壁を作り、フルーツを集め、最大の冒険に挑め！"
-iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210128/x5/index.html"
+title: Bad Ice-Cream 3 バッド・アイスクリーム3
+description: 「Bad Ice-Cream 3」が登場！砂漠や宇宙を舞台に、新しい敵とギミックが満載。氷の壁を作り、フルーツを集め、最大の冒険に挑め！
+iframeSrc: >-
+  https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210128/x5/index.html
 thumbnail: /new-images/thumbnails/bad-ice-cream-3.jpg
-urlstr: "bad-ice-cream-3"
-score: "4.2/5  (660 votes)"
-tags: ["puzzle", "action"]
-developer: "Nitrome"
-releaseDate: 2025-08-16
+urlstr: bad-ice-cream-3
+score: 4.2/5  (660 votes)
+tags:
+  - puzzle
+  - action
+developer: Nitrome
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -18,6 +21,7 @@ locale: ja
 
 基本ルールは変わりません。氷の壁を作ったり壊したりして敵を出し抜き、画面上のフルーツをすべて集めることです。しかし今作では、エイリアンやサボテンなどのユニークな敵に加え、ワープゾーンや特殊なトラップなど、パズルの複雑さが増しています。もちろん2人協力プレイも健在です。
 
+<!-- i18n:section:tips -->
 ### ゲーム攻略と戦略
 
 シリーズで最も難易度が高い本作では、既存テクニックを磨きつつ新要素に素早く適応することが求められます。

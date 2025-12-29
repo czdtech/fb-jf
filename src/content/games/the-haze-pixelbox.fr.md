@@ -10,7 +10,7 @@ thumbnail: /new-images/thumbnails/the-haze-pixelbox.png
 tags:
   - the haze pixelbox
 score: 3.9/5  (132 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 
@@ -18,6 +18,7 @@ releaseDate: 2025-12-04
 
 Que tu sois un musicien experimente ou un debutant curieux, The Haze Pixelbox offre un plaisir infini, stimulant la creativite avec sa touche ethnique unique.
 
+<!-- i18n:section:tips -->
 ### Le gameplay de The Haze Pixelbox
 
 -   **Deviens un chef de tribu :** Dirige ta tribu de beatboxers et utilise ton talent musical pour leur faire jouer des melodies impressionnantes.

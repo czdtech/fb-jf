@@ -1,13 +1,19 @@
 ---
-title: "Bank Robbery 銀行強盗：警官vs泥棒"
-description: "「Bank Robbery」で究極の強盗劇、または正義の執行を体験せよ！強盗チームと警察チームに分かれ、戦略とチームワークで勝利を掴むタクティカルFPSの完全ガイド。"
-iframeSrc: "https://app-183971.games.s3.yandex.net/183971/l0eme2yqkthl0y8stmfuz0u8pdpux64m/index.html"
+title: Bank Robbery 銀行強盗：警官vs泥棒
+description: >-
+  「Bank
+  Robbery」で究極の強盗劇、または正義の執行を体験せよ！強盗チームと警察チームに分かれ、戦略とチームワークで勝利を掴むタクティカルFPSの完全ガイド。
+iframeSrc: >-
+  https://app-183971.games.s3.yandex.net/183971/l0eme2yqkthl0y8stmfuz0u8pdpux64m/index.html
 thumbnail: /new-images/thumbnails/bank-robbery.jpg
-urlstr: "bank-robbery"
-score: "4.2/5  (1331 votes)"
-tags: ["action", "fps", "multiplayer"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: bank-robbery
+score: 4.2/5  (1331 votes)
+tags:
+  - action
+  - fps
+  - multiplayer
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -24,6 +30,7 @@ locale: ja
 
 舞台は銀行を中心にした都市マップで、ロビー、金庫室、屋上、裏路地など複数の進入口があります。ラウンドごとに獲得した資金で装備を購入・強化できるため、勝ち続けるほど次のラウンドで有利になります。
 
+<!-- i18n:section:tips -->
 ### ゲーム攻略と戦略
 
 どちらのチームでプレイする場合も、コミュニケーションとチームでの役割分担が勝利の鍵です。

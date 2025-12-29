@@ -10,7 +10,7 @@ tags:
   - sandbox
   - casual
 developer: ''
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -19,6 +19,7 @@ locale: ja
 
 Paper Minecraftは、Minecraftのゲームプレイを2Dの紙風アートスタイルで再現したゲームです。ブロックを採掘し、ツールをクラフトし、拠点を作って敵から生き残ります。探索と収集を進めながら遊び方を広げていきます。
 
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **リソースを収集:** 木材、石、鉱石を採掘します。

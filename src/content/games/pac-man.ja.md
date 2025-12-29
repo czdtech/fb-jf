@@ -10,7 +10,7 @@ tags:
   - casual
   - arcade
 developer: ''
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -19,6 +19,7 @@ locale: ja
 
 Pac-Manは、ビデオゲーム史上最も象徴的なアーケードゲームです。迷路を通してPac-Manを導き、すべてのドットを食べながら、4つのカラフルなゴースト（Blinky、Pinky、Inky、Clyde）を避けます。パワーペレットを食べてゴーストを追いかけることができます。
 
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **パターンを学ぶ:** 各ゴーストは独自の動作パターンを持っています。

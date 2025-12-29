@@ -1,14 +1,15 @@
 ---
 title: Pou
 description: Pouはバーチャルペット育成ゲームです。Pouの世話をし、ミニゲームでコインを集めてカスタマイズします。
-iframeSrc: 'https://app-184491.games.s3.yandex.net/184491/simr1s69tzefn132i2xlbk4dusun0mgw/index.html'
+iframeSrc: >-
+  https://app-184491.games.s3.yandex.net/184491/simr1s69tzefn132i2xlbk4dusun0mgw/index.html
 thumbnail: /new-images/thumbnails/pou.jpg
 urlstr: pou
 score: 3.5/5  (711 votes)
 tags:
   - casual
 developer: ''
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +18,7 @@ locale: ja
 
 Pouは、あなた自身のエイリアンペットPouを育てる愛らしいバーチャルペットゲームです。餌を与え、きれいにし、遊び、眠らせ、幸せに保ちます。ミニゲームでコインを獲得し、カスタマイズとアイテムのために費やします。
 
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **定期的にチェック:** Pouには定期的な世話が必要です。

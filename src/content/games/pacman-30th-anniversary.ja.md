@@ -10,7 +10,7 @@ tags:
   - casual
   - arcade
 developer: ''
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -19,6 +19,7 @@ locale: ja
 
 Pacman 30th Anniversaryは、象徴的なPac-Manの30周年を祝います。オリジナルのゲームプレイに、更新されたグラフィック、特別なレベル、記念機能を追加します。すべてのドットを食べ、ゴーストを避け、パワーペレットで反撃します。
 
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **ゴーストの動作を学ぶ:** 各ゴーストには独自のパターンがあります。
