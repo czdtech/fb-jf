@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: we-become-what-we-behold
-title: "We Become What We Behold 위 비컴 왓 위 비홀드"
+title: We Become What We Behold 위 비컴 왓 위 비홀드
 description: >-
-  미디어와 선정주의가 사회에 미치는 영향을 다룬 풍자 게임입니다. 카메라로 어떤 장면을 뉴스로
-  내보낼지 선택하면서, 부정적인 이슈에 집중하는 시선이 어떻게 갈등과 분열을 키우는지 직접
-  체험해 보세요.
+  미디어와 선정주의가 사회에 미치는 영향을 다룬 풍자 게임입니다. 카메라로 어떤 장면을 뉴스로 내보낼지 선택하면서, 부정적인 이슈에 집중하는
+  시선이 어떻게 갈등과 분열을 키우는지 직접 체험해 보세요.
 iframeSrc: 'https://html5.iclouds.io/we-become-behold/index.html'
 thumbnail: /new-images/thumbnails/we-become-what-we-behold.jpg
 tags:
@@ -25,6 +24,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 배경으로, 카메라로 어떤 장면을 포착해 뉴스로 내보낼지 선택하게 됩니다. 어떤 장면을 비추느냐에
 따라 사람들의 행동과 분위기가 달라지고, 결국 사회 전체의 흐름이 바뀌게 됩니다.
 
+<!-- i18n:section:tips -->
 ### 게임 플레이 가이드
 
 이 게임의 핵심은 화면을 관찰하고, "뉴스로 만들 장면"을 결정하는 데 있습니다.

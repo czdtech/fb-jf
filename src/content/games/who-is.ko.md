@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: who-is
-title: "Who Is? Game 후 이즈 게임"
+title: Who Is? Game 후 이즈 게임
 description: >-
-  수상한 사람을 가려내고 숨겨진 단서를 찾는 추리 퍼즐 게임입니다. 기발한 수수께끼와 상황 문제를
-  풀며, 화면 곳곳의 힌트를 조합해 진짜 범인과 임포스터를 밝혀내 보세요.
+  수상한 사람을 가려내고 숨겨진 단서를 찾는 추리 퍼즐 게임입니다. 기발한 수수께끼와 상황 문제를 풀며, 화면 곳곳의 힌트를 조합해 진짜
+  범인과 임포스터를 밝혀내 보세요.
 iframeSrc: 'https://rebemanae.github.io/who-is/'
 thumbnail: /new-images/thumbnails/who-is.jpg
 tags:
@@ -24,6 +24,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 때로는 상식적인 논리를 뒤집는 발상 전환이 필요해, 단순한 찾기 게임보다 훨씬 자유로운 사고를
 요구합니다.
 
+<!-- i18n:section:tips -->
 ### 게임 플레이 가이드
 
 각 레벨마다 짧은 질문이나 상황이 주어지며, 플레이어는 화면 속 인물과 사물들을 살펴보며 정답을

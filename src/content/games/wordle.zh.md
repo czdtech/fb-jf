@@ -1,10 +1,9 @@
 ---
 locale: zh
 urlstr: wordle
-title: 'Wordle：每日五字猜词'
+title: Wordle：每日五字猜词
 description: >-
-  《Wordle》是一款风靡全球的每日单词猜谜游戏。
-  你有最多六次机会猜出一个五字母英文单词，
+  《Wordle》是一款风靡全球的每日单词猜谜游戏。 你有最多六次机会猜出一个五字母英文单词，
   通过颜色提示推理出正确字母及其位置，是极简却高度上瘾的词汇挑战。
 iframeSrc: 'https://ext.minijuegos.com/wordle/'
 thumbnail: /new-images/thumbnails/wordle.jpg
@@ -45,6 +44,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
     经常玩《Wordle》能够让你逐渐熟悉常见的五字母单词模式，
     例如常见前后缀和辅音组合，对提升英语词感非常有帮助。
 
+<!-- i18n:section:how-to-play -->
 ### 玩法说明
 
 *   **输入字母：** 使用实体键盘或屏幕虚拟键盘输入五个字母。

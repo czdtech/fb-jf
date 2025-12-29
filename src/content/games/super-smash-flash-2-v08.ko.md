@@ -12,7 +12,7 @@ tags:
   - action
   - platformer
 score: 4.3/5  (1114 votes)
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
@@ -24,6 +24,7 @@ Super Smash Flash 2 v0.8은 다양한 게임·애니메이션 캐릭터가 한 �
 이 버전에서도 기본 시스템은 동일하며, 여러 캐릭터와 스테이지를 선택해
 로컬 멀티플레이 난투를 즐길 수 있습니다.
 
+<!-- i18n:section:tips -->
 ### 플레이 가이드
 
 아래 팁을 참고해 보세요.

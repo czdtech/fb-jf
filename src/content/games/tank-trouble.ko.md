@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: tank-trouble
-title: 'Tank Trouble 탱크 트러블'
+title: Tank Trouble 탱크 트러블
 description: >-
-  Tank Trouble는 미로 같은 아레나에서 탱크를 조종해 서로에게 포탄을 쏘는
-  멀티플레이 탱크 배틀 게임입니다. 벽에 튕기는 탄을 이용해 간접 사격으로
-  마지막까지 살아남으세요.
+  Tank Trouble는 미로 같은 아레나에서 탱크를 조종해 서로에게 포탄을 쏘는 멀티플레이 탱크 배틀 게임입니다. 벽에 튕기는 탄을 이용해
+  간접 사격으로 마지막까지 살아남으세요.
 iframeSrc: 'https://www.friv2018.com/games/html5/tank-trouble-2/'
 thumbnail: /new-images/thumbnails/tank-trouble.jpg
 tags:
@@ -25,6 +24,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 벽과 장애물이 많아 정면승부보다는, 튕기는 포탄과 지형을 활용한 심리전이
 중요한 게임입니다.
 
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략
 
 1.  **벽을 이용한 반사 사격:**

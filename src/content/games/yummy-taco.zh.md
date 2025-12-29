@@ -1,11 +1,8 @@
 ---
 locale: zh
 urlstr: yummy-taco
-title: 'Yummy Taco：塔可快餐小店'
-description: >-
-  在《Yummy Taco》中经营你自己的墨西哥卷饼小店。
-  接单、备料、组装香喷喷的塔可，用速度与准确度同时打动顾客，
-  赚取收入升级厨房，解锁更多食材与菜谱。
+title: Yummy Taco：塔可快餐小店
+description: 在《Yummy Taco》中经营你自己的墨西哥卷饼小店。 接单、备料、组装香喷喷的塔可，用速度与准确度同时打动顾客， 赚取收入升级厨房，解锁更多食材与菜谱。
 iframeSrc: >-
   https://g2.igroutka.ru/games/7/K6bHUF2pdiz30Aam/4399swf/upload_swf/ftp40/chenling/20220916/6/
 thumbnail: /new-images/thumbnails/yummy-taco.jpg
@@ -27,6 +24,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 随着生意越来越好，你需要同时兼顾速度、准确度和食材管理，
 考验的是你的时间管理能力与多任务处理能力。
 
+<!-- i18n:section:tips -->
 ### 游戏玩法指南
 
 - **接收订单：**  

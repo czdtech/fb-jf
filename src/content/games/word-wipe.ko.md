@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: word-wipe
-title: "Word Wipe 워드 와이프"
+title: Word Wipe 워드 와이프
 description: >-
-  글자 보드에서 단어를 만들어 줄을 지우는 속도감 있는 워드 퍼즐 게임입니다. 가로·세로·대각선으로
-  인접한 글자를 이어 단어를 만들고, 시간 안에 여러 줄을 없애 높은 점수를 노려 보세요.
+  글자 보드에서 단어를 만들어 줄을 지우는 속도감 있는 워드 퍼즐 게임입니다. 가로·세로·대각선으로 인접한 글자를 이어 단어를 만들고, 시간
+  안에 여러 줄을 없애 높은 점수를 노려 보세요.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-word-wipe/'
 thumbnail: /new-images/thumbnails/word-wipe.jpg
 tags:
@@ -23,6 +23,7 @@ Word Wipe는 단어 찾기와 낙하 퍼즐 요소가 결합된 속도감 있는
 인접한 글자들을 이어 단어를 만들면, 해당 칸이 사라지고 위의 글자들이 아래로 떨어지며 새로운 조합이
 생깁니다. 제한 시간 안에 일정 개수의 줄을 지우는 것이 주된 목표입니다.
 
+<!-- i18n:section:tips -->
 ### 게임 플레이 가이드
 
 - **목표**: 각 레벨마다 요구되는 줄 수를 시간 안에 지워야 합니다. 줄을 지울수록 다음 단계로

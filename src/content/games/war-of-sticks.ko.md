@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: war-of-sticks
-title: "War of Sticks 워 오브 스틱스"
+title: War of Sticks 워 오브 스틱스
 description: >-
-  막대 인간 군대를 이끌고 붉은 제국에 맞서는 실시간 전략 게임입니다. 광산 노동자로 자원을 캐고,
-  방패병·궁수·바바리안·마법사 등 다양한 유닛을 양성해 기지를 구축하고 적 진영을 무너뜨리세요.
+  막대 인간 군대를 이끌고 붉은 제국에 맞서는 실시간 전략 게임입니다. 광산 노동자로 자원을 캐고, 방패병·궁수·바바리안·마법사 등 다양한
+  유닛을 양성해 기지를 구축하고 적 진영을 무너뜨리세요.
 iframeSrc: 'https://g.igroutka.ru/games/164/lt2ARJHFBxPb4spD/4/war_of_sticks/'
 thumbnail: /new-images/thumbnails/war-of-sticks.jpg
 tags:
@@ -23,6 +23,7 @@ War of Sticks는 스틱맨(막대 인간) 병사들을 지휘해 폭정으로 �
 실시간 전략(RTS) 게임입니다. 플레이어는 자원을 채굴해 경제를 키우고, 다양한 병종을 양성해
 공격군과 방어선을 구성해야 합니다. 자원 관리, 유닛 조합, 타이밍이 승패를 가르는 핵심 요소입니다.
 
+<!-- i18n:section:tips -->
 ### 게임 플레이 가이드
 
 - **자원 관리**: 광부 유닛을 훈련시켜 금을 채굴하는 것이 기본입니다. 일부 모드에서는 돌을 금으로

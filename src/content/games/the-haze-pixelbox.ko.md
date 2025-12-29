@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: the-haze-pixelbox
-title: 'The Haze Pixelbox 더 헤이즈 픽셀박스'
+title: The Haze Pixelbox 더 헤이즈 픽셀박스
 description: >-
-  The Haze Pixelbox는 픽셀 아트 스타일의 어두운 퍼즐/플랫폼 게임으로, 안개 낀
-  세계를 탐험하며 장치를 작동시키고 길을 찾아 나가는 게임입니다.
+  The Haze Pixelbox는 픽셀 아트 스타일의 어두운 퍼즐/플랫폼 게임으로, 안개 낀 세계를 탐험하며 장치를 작동시키고 길을 찾아
+  나가는 게임입니다.
 iframeSrc: 'https://turbowarp.org/1020955547/embed'
 thumbnail: /new-images/thumbnails/the-haze-pixelbox.png
 tags:
@@ -12,7 +12,7 @@ tags:
   - platformer
   - adventure
 score: 3.9/5  (132 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 
@@ -22,6 +22,7 @@ The Haze Pixelbox는 안개와 그림자로 가득한 세계를 탐험하는 픽
 퍼즐/플랫폼 게임입니다. 제한된 시야와 간단한 조작으로, 스위치와 장치를
 찾아 작동시키고 숨겨진 길을 열어 나가는 것이 핵심입니다.
 
+<!-- i18n:section:tips -->
 ### 플레이 가이드
 
 - **탐색:**

@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: word-scramble
-title: "Word Scramble 워드 스크램블"
+title: Word Scramble 워드 스크램블
 description: >-
-  Word Scramble은 뒤섞인 알파벳을 다시 배열해 정답 단어를 맞히는 고전 단어 퍼즐
-  게임입니다. 제한 시간 안에 글자를 재배열해 정답을 찾으며, 어휘력과 패턴 인식,
-  순발력을 동시에 시험해 보세요.
+  Word Scramble은 뒤섞인 알파벳을 다시 배열해 정답 단어를 맞히는 고전 단어 퍼즐 게임입니다. 제한 시간 안에 글자를 재배열해
+  정답을 찾으며, 어휘력과 패턴 인식, 순발력을 동시에 시험해 보세요.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/word-scramble/'
 thumbnail: /new-images/thumbnails/word-scramble.jpg
 tags:
@@ -24,6 +23,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 단어 퍼즐 게임입니다. 어휘량뿐 아니라 글자 배열 패턴을 읽어내는 능력과 빠른 판단력이
 필요하며, 여러 난이도와 주제 카테고리가 제공되는 버전도 많아 오래 즐기기 좋습니다.
 
+<!-- i18n:section:tips -->
 ### 플레이 가이드
 
 - **목표:** 주어진 뒤섞인 문자 세트에서 원래의 단어를 찾아내는 것이 핵심 목표입니다.

@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: uno
-title: 'UNO 纸牌：经典出牌对战'
-description: >-
-  UNO 是一款家喻户晓的经典卡牌游戏。玩家通过颜色或数字匹配不断出牌，
-  灵活使用功能牌干扰对手，率先打空自己手牌并成功喊出“UNO！”即获得胜利。
+title: UNO 纸牌：经典出牌对战
+description: UNO 是一款家喻户晓的经典卡牌游戏。玩家通过颜色或数字匹配不断出牌， 灵活使用功能牌干扰对手，率先打空自己手牌并成功喊出“UNO！”即获得胜利。
 iframeSrc: 'https://www.xpgameplus.com/games/uno/default.html'
 thumbnail: /new-images/thumbnails/uno.jpg
 tags:
@@ -45,6 +43,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
     当你只剩一张牌时，一定要在规则要求的时机按键或点击 UNO 按钮，
     否则被发现未宣告就会被罚抽多张牌，功亏一篑。
 
+<!-- i18n:section:how-to-play -->
 ### 玩法说明
 
 *   **出牌：** 点击手牌中符合规则的牌（颜色或数字相同，或可用的万能/功能牌）即可打出。

@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: tricky-puzzles
-title: "Brain Test: Tricky Puzzles 브레인 테스트: 트리키 퍼즐"
+title: 'Brain Test: Tricky Puzzles 브레인 테스트: 트리키 퍼즐'
 description: >-
-  평범한 논리로는 풀 수 없는 기발한 문제들로 가득한 퍼즐 게임입니다. 화면을 탭하고 드래그하고
-  때로는 기기를 돌려 가며, 상식의 틀을 깨는 정답을 찾아 뇌를 끝까지 굴려 보세요.
+  평범한 논리로는 풀 수 없는 기발한 문제들로 가득한 퍼즐 게임입니다. 화면을 탭하고 드래그하고 때로는 기기를 돌려 가며, 상식의 틀을 깨는
+  정답을 찾아 뇌를 끝까지 굴려 보세요.
 iframeSrc: 'https://rebemanae.github.io/brain-test-tricky-puzzles/'
 thumbnail: /new-images/thumbnails/tricky-puzzles.jpg
 tags:
@@ -23,6 +23,7 @@ Brain Test: Tricky Puzzles는 전통적인 퍼즐 방식에서 벗어나, 플레
 의외의 방식으로 이용해야만 정답에 도달할 수 있는 문제가 많습니다. 탭, 드래그, 확대/축소는 물론,
 기기를 실제로 기울이거나 회전해야 풀리는 스테이지도 있어 창의력과 발상의 전환을 강하게 요구합니다.
 
+<!-- i18n:section:tips -->
 ### 게임 플레이 가이드
 
 각 단계마다 하나의 독특한 수수께끼가 제시되며, 대부분의 정답은 직관과는 다른 방향에 숨어 있습니다.

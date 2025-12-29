@@ -3,7 +3,8 @@ locale: zh
 urlstr: super-smash-flash-2-v08
 title: 'Super Smash Flash 2: Demo v0.8b'
 description: >-
-  传奇粉丝自制格斗游戏 Super Smash Flash 2 强势回归！从更庞大的经典角色阵容中选择你的战士，在精致流畅的平台格斗中展开激烈对决。掌握高级技巧，与好友或电脑对手一较高下，证明你的实力。
+  传奇粉丝自制格斗游戏 Super Smash Flash 2
+  强势回归！从更庞大的经典角色阵容中选择你的战士，在精致流畅的平台格斗中展开激烈对决。掌握高级技巧，与好友或电脑对手一较高下，证明你的实力。
 iframeSrc: 'https://kdata1.com/games/SSF22/?kbhgames'
 thumbnail: /new-images/thumbnails/super-smash-flash-2-v08.jpg
 tags:
@@ -19,6 +20,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 Super Smash Flash 2 是备受期待的传奇粉丝自制格斗游戏续作。相比初代有了巨大提升，拥有更庞大的角色阵容、更精致的场景，以及更复杂平衡的玩法系统，完美还原了官方《任天堂明星大乱斗》系列的精髓。这是有史以来最令人印象深刻、最完整的粉丝自制游戏之一。
 
+<!-- i18n:section:tips -->
 ### 玩法指南
 
 和原作一样，游戏目标是通过提高对手的伤害百分比，将其击飞出屏幕。

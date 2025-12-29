@@ -1,10 +1,9 @@
 ---
 locale: zh
 urlstr: word-search
-title: 'Word Search：主题找单词'
+title: Word Search：主题找单词
 description: >-
-  《Word Search》是一款经典的字母搜寻游戏。
-  在方阵中横向、纵向或斜向寻找隐藏单词，完成不同主题的单词列表，
+  《Word Search》是一款经典的字母搜寻游戏。 在方阵中横向、纵向或斜向寻找隐藏单词，完成不同主题的单词列表，
   一边放松大脑，一边锻炼观察力和英语拼写。
 iframeSrc: 'https://cdn.gamesnacks.com/wordsearch1/gameCode/index.html'
 thumbnail: /new-images/thumbnails/word-search.jpg
@@ -26,6 +25,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 单词可能水平、垂直或斜向出现，既可以从左到右、也可能从右到左，
 是非常适合用来练习英文拼写、提升专注度和观察力的轻量脑力游戏。
 
+<!-- i18n:section:how-to-play -->
 ### 策略心得
 
 1.  **系统化扫描：**  

@@ -1,14 +1,15 @@
 ---
-locale: "zh"
-urlstr: "sprunkle-bops"
-
-title: "Sprunkle Bops - 在线畅玩 Sprunkle Bops"
-description: "Sprunkle Bops 是热门 Incredibox 音乐混音游戏的粉丝自制扩展版，通过自定义模组、新阶段和独特的游戏元素，带来创意十足的全新体验。"
-iframeSrc: "https://turbowarp.org/1122091658/embed"
+locale: zh
+urlstr: sprunkle-bops
+title: Sprunkle Bops - 在线畅玩 Sprunkle Bops
+description: Sprunkle Bops 是热门 Incredibox 音乐混音游戏的粉丝自制扩展版，通过自定义模组、新阶段和独特的游戏元素，带来创意十足的全新体验。
+iframeSrc: 'https://turbowarp.org/1122091658/embed'
 thumbnail: /new-images/thumbnails/sprunkle-bops.png
-score: "4.3/5  (524 votes)"
-tags: ["sprunkle bops", "sprunkle bops online"]
-releaseDate: 2025-12-04
+score: 4.3/5  (524 votes)
+tags:
+  - sprunkle bops
+  - sprunkle bops online
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Sprunkle Bops 游戏介绍
@@ -17,6 +18,7 @@ Sprunkle Bops 是热门 Incredibox 音乐混音游戏的粉丝自制扩展版，
  
 ---
  
+<!-- i18n:section:tips -->
 ### Sprunkle Bops 游戏玩法
 
  - **开始对战：** 你将与各种人气角色展开对决，每个角色都会为说唱对战带来自己独特的音乐风格。目标很简单——跟随节拍的节奏，在正确的时机击中正确的音符，保持你的表演完美无缺。

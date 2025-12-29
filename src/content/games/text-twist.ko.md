@@ -1,12 +1,12 @@
 ---
 locale: ko
 urlstr: text-twist
-title: 'Text Twist 텍스트 트위스트'
+title: Text Twist 텍스트 트위스트
 description: >-
-  Text Twist는 뒤섞인 알파벳으로 단어를 만들어 제한 시간 안에 최대한 많은
-  단어를 찾는 퍼즐 게임입니다. 모든 글자를 사용하는 "빙고 단어"를 찾아야
-  다음 라운드로 진행할 수 있습니다.
-iframeSrc: 'https://games.cdn.famobi.com/html5games/t/text-twist/v010/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=5b597140-77c2-4f7c-9abf-4f149d6dcbac&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=465&original_ref='
+  Text Twist는 뒤섞인 알파벳으로 단어를 만들어 제한 시간 안에 최대한 많은 단어를 찾는 퍼즐 게임입니다. 모든 글자를 사용하는 "빙고
+  단어"를 찾아야 다음 라운드로 진행할 수 있습니다.
+iframeSrc: >-
+  https://games.cdn.famobi.com/html5games/t/text-twist/v010/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=5b597140-77c2-4f7c-9abf-4f149d6dcbac&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=465&original_ref=
 thumbnail: /new-images/thumbnails/text-twist.jpg
 tags:
   - word-game
@@ -25,6 +25,7 @@ Text Twist는 어휘력과 순발력을 동시에 시험하는 단어 퍼즐 게
 영단어를 최대한 많이 만들어야 합니다. 특히 모든 글자를 다 사용하는
 "빙고 단어"를 찾아야 다음 라운드로 넘어갈 수 있습니다.
 
+<!-- i18n:section:tips -->
 ### 플레이 가이드
 
 - **목표:**

@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: word-connect
-title: "Word Connect 워드 커넥트"
+title: Word Connect 워드 커넥트
 description: >-
-  원형으로 배치된 알파벳을 이어 단어를 만드는 퍼즐 게임입니다. 문자를 스와이프해 영어 단어를
-  완성하고, 십자말풀이처럼 배열된 빈칸을 모두 채우며 어휘력을 키워 보세요.
+  원형으로 배치된 알파벳을 이어 단어를 만드는 퍼즐 게임입니다. 문자를 스와이프해 영어 단어를 완성하고, 십자말풀이처럼 배열된 빈칸을 모두
+  채우며 어휘력을 키워 보세요.
 iframeSrc: 'https://previews.customer.envatousercontent.com/files/309288677/index.html'
 thumbnail: /new-images/thumbnails/word-connect.jpg
 tags:
@@ -23,6 +23,7 @@ Word Connect는 원 모양으로 배열된 알파벳들을 이어 단어를 만�
 채워 나가는 단어 퍼즐 게임입니다. 단어를 찾을 때마다 빈칸이 하나씩 채워지며, 퍼즐을 모두 완성하면
 다음 단계로 진행할 수 있습니다. 간단한 규칙으로 즐기면서도 자연스럽게 영어 어휘력을 늘릴 수 있습니다.
 
+<!-- i18n:section:tips -->
 ### 게임 플레이 가이드
 
 - **단어 만들기**: 화면 아래 원형 배열에 있는 알파벳들을 손가락이나 마우스로 연속해서 이어 단어를

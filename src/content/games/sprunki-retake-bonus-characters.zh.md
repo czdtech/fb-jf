@@ -1,20 +1,21 @@
 ---
-locale: "zh"
-urlstr: "sprunki-retake-bonus-characters"
-
-title: "Sprunki Retake Bonus Characters - 在线玩 Sprunki Retake Bonus Characters"
-description: "Sprunki Retake Bonus Characters 不仅仅是一款普通的音乐游戏，它是对古老文化的致敬，也是对音乐无限可能性的探索。"
-iframeSrc: "https://turbowarp.org/1107905149/embed"
+locale: zh
+urlstr: sprunki-retake-bonus-characters
+title: Sprunki Retake Bonus Characters - 在线玩 Sprunki Retake Bonus Characters
+description: Sprunki Retake Bonus Characters 不仅仅是一款普通的音乐游戏，它是对古老文化的致敬，也是对音乐无限可能性的探索。
+iframeSrc: 'https://turbowarp.org/1107905149/embed'
 thumbnail: /new-images/thumbnails/sprunki-retake-bonus-characters.png
-score: "3.9/5  (132 votes)"
-tags: ["sprunki retake bonus characters"]
-releaseDate: 2025-12-04
+score: 3.9/5  (132 votes)
+tags:
+  - sprunki retake bonus characters
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Sprunki Retake Bonus Characters 有什么特别之处？
 
 Sprunki Retake Bonus Characters 不仅仅是一款普通的音乐游戏，它是对古老文化的致敬，也是对音乐无限可能性的探索。在这里，你不仅可以创作音乐，还能感受文化的传承与融合。
 
+<!-- i18n:section:tips -->
 ### Sprunki Retake Bonus Characters 的核心玩法
 
 - **成为部落首领：** 带领你的口技部落，用你的音乐才华让他们演奏出令人敬畏的旋律。

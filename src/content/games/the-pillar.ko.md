@@ -12,7 +12,7 @@ tags:
   - adventure
   - exploration
 score: 3.8/5  (802 votes)
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
@@ -24,6 +24,7 @@ The Pillar는 신비로운 세계를 1인칭 시점으로 탐험하며, 기둥�
 패턴과 기호를 관찰하고, 이를 단서 삼아 퍼즐 기둥을 작동시켜 새로운 구역을
 열어야 합니다.
 
+<!-- i18n:section:tips -->
 ### 플레이 가이드
 
 아래 팁을 참고해 보세요.

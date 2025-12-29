@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: tanuki-sunset
-title: "Tanuki Sunset 타누키 선셋"
+title: Tanuki Sunset 타누키 선셋
 description: >-
-  Tanuki Sunset은 너구리 보더 Tanuki가 롱보드를 타고 신스웨이브 감성의 산길을 내려가는
-  3인칭 아케이드 게임입니다. 드리프트와 점프, 차량 근접 통과를 이어 가며 스타일리시하게
-  점수를 쌓아 보세요.
+  Tanuki Sunset은 너구리 보더 Tanuki가 롱보드를 타고 신스웨이브 감성의 산길을 내려가는 3인칭 아케이드 게임입니다. 드리프트와
+  점프, 차량 근접 통과를 이어 가며 스타일리시하게 점수를 쌓아 보세요.
 iframeSrc: 'https://ubg100.github.io/games/tanuki/index.html'
 thumbnail: /new-images/thumbnails/tanuki-sunset.jpg
 tags:
@@ -24,6 +23,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 3인칭 롱보딩 게임입니다. 부드러운 드리프트와 큰 점프, 차량을 아슬아슬하게 스쳐 지나가는
 "니어 미스"로 점수를 쌓는, 흐름과 스타일을 중시하는 플레이가 특징입니다.
 
+<!-- i18n:section:tips -->
 ### 플레이 가이드
 
 목표는 코스를 완주하거나 충돌하기 전까지 최대한 많은 점수를 얻는 것입니다.

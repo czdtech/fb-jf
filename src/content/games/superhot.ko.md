@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: superhot
-title: 'Superhot 슈퍼핫'
+title: Superhot 슈퍼핫
 description: >-
-  Superhot은 "내가 움직일 때만 시간이 흐르는" 독특한 규칙을 가진 1인칭 슈팅 게임입니다.
-  슬로 모션 속에서 한 발 한 발을 계산해, 액션과 퍼즐을 동시에 즐길 수 있습니다.
+  Superhot은 "내가 움직일 때만 시간이 흐르는" 독특한 규칙을 가진 1인칭 슈팅 게임입니다. 슬로 모션 속에서 한 발 한 발을 계산해,
+  액션과 퍼즐을 동시에 즐길 수 있습니다.
 iframeSrc: 'https://superhotgame.com/superhot-prototype-iframe'
 thumbnail: /new-images/thumbnails/superhot.jpg
 tags:
@@ -24,6 +24,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 한 걸음, 한 발자국, 한 발의 사격까지 모두 신중하게 계획해야 합니다. 슈팅의 손맛과
 전략 퍼즐의 사고력이 결합된 형태라고 볼 수 있습니다.
 
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략
 
 1.  **시간 제어 이해하기**
