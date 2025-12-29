@@ -270,7 +270,7 @@ function classifyHeading(locale: Locale, text: string): string | null {
     ko: {
       faq: ['자주 묻는 질문', '자주하는 질문', 'faq'],
       controls: ['조작', '컨트롤', '조작법', '조작 방법'],
-      'how-to-play': ['플레이 방법', '하는 법', '방법', '게임 방법', '게임 플레이', '게임플레이', 'gameplay'],
+      'how-to-play': ['플레이 방법', '플레이 가이드', '플레이 흐름', '하는 법', '방법', '게임 방법', '게임 플레이', '게임플레이', 'gameplay'],
       rules: ['규칙'],
       tips: ['팁', '공략', '전략', '요령'],
     },
