@@ -32,8 +32,8 @@ Air Traffic Control is a real‑time, puzzle‑like management game about sequen
 
 Controls vary by version but commonly include:
 
-- Select aircraft: Click or tap an aircraft label/target.
-- Set path/heading: Click waypoints on the map or drag to draw a short path; some versions provide on‑screen heading buttons.
+- Select aircraft: `Click` or `tap` an aircraft label/target.
+- Set path/heading: `Click` waypoints on the map or `drag` to draw a short path; some versions provide on‑screen heading buttons.
 - Manage speed/altitude (if available): Use the UI arrows or buttons to make small adjustments; keep changes incremental.
 - Assign runway/approach (if available): Choose a runway or approach fix when sequencing to final.
 

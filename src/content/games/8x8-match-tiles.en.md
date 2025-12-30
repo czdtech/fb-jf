@@ -29,8 +29,8 @@ releaseDate: 2025-10-18
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Select pairs via click/tap following mode rules.
-- Undo/Reset if included.
+- Select pairs via `click`/`tap` following mode rules.
+- `Undo`/`Reset` if included.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

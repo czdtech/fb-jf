@@ -44,15 +44,15 @@ Alien Hominid is notoriously difficult. Success relies on reflexes, pattern memo
 
 Controls can vary slightly between the Flash version and console/HD versions, but the core functions remain the same.
 
-*   **Movement:** Arrow Keys / D-Pad / Analog Stick to move left and right.
-*   **Jump:** 'A' Key (Keyboard) / A or X Button (Controller).
-*   **Shoot:** 'S' Key (Keyboard) / X or Square Button (Controller). Hold to charge the shot.
-*   **Grenade:** 'D' Key (Keyboard) / B or Circle Button (Controller).
-*   **Duck/Roll:** Down Arrow Key / Down on D-Pad.
+*   **Movement:** `Arrow Keys` / `D-Pad` / `Analog Stick` to move left and right.
+*   **Jump:** `A` Key (Keyboard) / `A` or `X` Button (Controller).
+*   **Shoot:** `S` Key (Keyboard) / `X` or `Square` Button (Controller). Hold to charge the shot.
+*   **Grenade:** `D` Key (Keyboard) / `B` or `Circle` Button (Controller).
+*   **Duck/Roll:** `Down Arrow Key` / `Down` on `D-Pad`.
 *   **Special Moves:**
-    *   **Dig:** Press Down + Jump when on soft ground (dirt, sand).
-    *   **Melee Attack:** Get close to an enemy and press the Shoot button.
-    *   **Ride/Chomp:** Jump directly on top of an enemy's head.
+    *   **Dig:** Press `Down` + `Jump` when on soft ground (dirt, sand).
+    *   **Melee Attack:** Get close to an enemy and press the `Shoot` button.
+    *   **Ride/Chomp:** `Jump` directly on top of an enemy's head.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

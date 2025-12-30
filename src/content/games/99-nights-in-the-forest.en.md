@@ -48,18 +48,18 @@ The game heavily emphasizes **preparation and planning**. Your efficiency during
 6.  **Upgrade Progressively**: Don't get complacent. As the game progresses, you must continuously reinforce your defenses. For example, use more planks and nails to upgrade your window barricades, making them more durable.
 
 <!-- i18n:section:controls -->
-### **Controls Guide**
+### Controls Guide
 
 The game uses standard first-person controls.
 
 *   **Move**: `W`, `A`, `S`, `D` keys
-*   **Look**: Mouse
+*   **Look**: `Mouse`
 *   **Sprint**: Hold `Shift` key
-*   **Jump**: `Space Bar`
+*   **Jump**: `Space`
 *   **Interact / Pick Up / Open Door**: `E` key
 *   **Inventory / Crafting Menu**: `I` or `Tab` key
-*   **Use Tool / Attack**: `Left Mouse Button`
-*   **Aim / Secondary Action**: `Right Mouse Button`
+*   **Use Tool / Attack**: `Left Click`
+*   **Aim / Secondary Action**: `Right Click`
 
 <!-- i18n:section:faq -->
 ### **Frequently Asked Questions (FAQ)**

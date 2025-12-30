@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updatedAt": "2025-12-30T03:06:08.647Z",
+  "updatedAt": "2025-12-30T04:40:27.913Z",
   "entries": [
     {
       "slug": "2-tricky-stories",
@@ -433,6 +433,390 @@
       "fingerprint": "a4ec524c1d12",
       "note": "auto-baseline",
       "addedAt": "2025-12-30T03:06:08.637Z"
+    },
+    {
+      "slug": "4-in-row-mania",
+      "locale": "de",
+      "kind": "controlsKeys",
+      "fingerprint": "7777b3c13897",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T04:40:27.901Z"
+    },
+    {
+      "slug": "4-in-row-mania",
+      "locale": "es",
+      "kind": "controlsKeys",
+      "fingerprint": "7777b3c13897",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T04:40:27.901Z"
+    },
+    {
+      "slug": "4-in-row-mania",
+      "locale": "fr",
+      "kind": "controlsKeys",
+      "fingerprint": "7777b3c13897",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T04:40:27.901Z"
+    },
+    {
+      "slug": "4-in-row-mania",
+      "locale": "ja",
+      "kind": "controlsKeys",
+      "fingerprint": "7777b3c13897",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T04:40:27.901Z"
+    },
+    {
+      "slug": "4-in-row-mania",
+      "locale": "ko",
+      "kind": "controlsKeys",
+      "fingerprint": "7777b3c13897",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T04:40:27.901Z"
+    },
+    {
+      "slug": "4-in-row-mania",
+      "locale": "zh",
+      "kind": "controlsKeys",
+      "fingerprint": "7777b3c13897",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T04:40:27.901Z"
+    },
+    {
+      "slug": "8x8-match-tiles",
+      "locale": "de",
+      "kind": "controlsKeys",
+      "fingerprint": "d21b62c81ba6",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T04:40:27.901Z"
+    },
+    {
+      "slug": "8x8-match-tiles",
+      "locale": "es",
+      "kind": "controlsKeys",
+      "fingerprint": "d21b62c81ba6",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T04:40:27.901Z"
+    },
+    {
+      "slug": "8x8-match-tiles",
+      "locale": "fr",
+      "kind": "controlsKeys",
+      "fingerprint": "d21b62c81ba6",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T04:40:27.901Z"
+    },
+    {
+      "slug": "8x8-match-tiles",
+      "locale": "ja",
+      "kind": "controlsKeys",
+      "fingerprint": "d21b62c81ba6",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T04:40:27.901Z"
+    },
+    {
+      "slug": "8x8-match-tiles",
+      "locale": "ko",
+      "kind": "controlsKeys",
+      "fingerprint": "d21b62c81ba6",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T04:40:27.901Z"
+    },
+    {
+      "slug": "8x8-match-tiles",
+      "locale": "zh",
+      "kind": "controlsKeys",
+      "fingerprint": "d21b62c81ba6",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T04:40:27.901Z"
+    },
+    {
+      "slug": "99-balls-3d",
+      "locale": "de",
+      "kind": "controlsKeys",
+      "fingerprint": "6650bbbb4d1b",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T04:40:27.902Z"
+    },
+    {
+      "slug": "99-balls-3d",
+      "locale": "es",
+      "kind": "controlsKeys",
+      "fingerprint": "6650bbbb4d1b",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T04:40:27.902Z"
+    },
+    {
+      "slug": "99-balls-3d",
+      "locale": "fr",
+      "kind": "controlsKeys",
+      "fingerprint": "6650bbbb4d1b",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T04:40:27.902Z"
+    },
+    {
+      "slug": "99-balls-3d",
+      "locale": "ja",
+      "kind": "controlsKeys",
+      "fingerprint": "6650bbbb4d1b",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T04:40:27.901Z"
+    },
+    {
+      "slug": "99-balls-3d",
+      "locale": "ko",
+      "kind": "controlsKeys",
+      "fingerprint": "6650bbbb4d1b",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T04:40:27.902Z"
+    },
+    {
+      "slug": "99-balls-3d",
+      "locale": "zh",
+      "kind": "controlsKeys",
+      "fingerprint": "6650bbbb4d1b",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T04:40:27.901Z"
+    },
+    {
+      "slug": "99-nights-in-the-forest",
+      "locale": "de",
+      "kind": "controlsKeys",
+      "fingerprint": "2a65187113a0",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T04:40:27.902Z"
+    },
+    {
+      "slug": "99-nights-in-the-forest",
+      "locale": "es",
+      "kind": "controlsKeys",
+      "fingerprint": "2a65187113a0",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T04:40:27.902Z"
+    },
+    {
+      "slug": "99-nights-in-the-forest",
+      "locale": "fr",
+      "kind": "controlsKeys",
+      "fingerprint": "2a65187113a0",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T04:40:27.902Z"
+    },
+    {
+      "slug": "99-nights-in-the-forest",
+      "locale": "ja",
+      "kind": "controlsKeys",
+      "fingerprint": "2a65187113a0",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T04:40:27.902Z"
+    },
+    {
+      "slug": "99-nights-in-the-forest",
+      "locale": "ko",
+      "kind": "controlsKeys",
+      "fingerprint": "2a65187113a0",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T04:40:27.902Z"
+    },
+    {
+      "slug": "99-nights-in-the-forest",
+      "locale": "zh",
+      "kind": "controlsKeys",
+      "fingerprint": "2a65187113a0",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T04:40:27.902Z"
+    },
+    {
+      "slug": "addiction-mini",
+      "locale": "de",
+      "kind": "controlsKeys",
+      "fingerprint": "b1cdf4413c8c",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T04:40:27.902Z"
+    },
+    {
+      "slug": "addiction-mini",
+      "locale": "es",
+      "kind": "controlsKeys",
+      "fingerprint": "b1cdf4413c8c",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T04:40:27.902Z"
+    },
+    {
+      "slug": "addiction-mini",
+      "locale": "fr",
+      "kind": "controlsKeys",
+      "fingerprint": "b1cdf4413c8c",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T04:40:27.902Z"
+    },
+    {
+      "slug": "addiction-mini",
+      "locale": "ja",
+      "kind": "controlsKeys",
+      "fingerprint": "b1cdf4413c8c",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T04:40:27.902Z"
+    },
+    {
+      "slug": "addiction-mini",
+      "locale": "ko",
+      "kind": "controlsKeys",
+      "fingerprint": "b1cdf4413c8c",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T04:40:27.902Z"
+    },
+    {
+      "slug": "addiction-mini",
+      "locale": "zh",
+      "kind": "controlsKeys",
+      "fingerprint": "b1cdf4413c8c",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T04:40:27.902Z"
+    },
+    {
+      "slug": "age-of-war",
+      "locale": "de",
+      "kind": "controlsKeys",
+      "fingerprint": "43ca6c58922e",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T04:40:27.902Z"
+    },
+    {
+      "slug": "age-of-war",
+      "locale": "es",
+      "kind": "controlsKeys",
+      "fingerprint": "43ca6c58922e",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T04:40:27.902Z"
+    },
+    {
+      "slug": "age-of-war",
+      "locale": "fr",
+      "kind": "controlsKeys",
+      "fingerprint": "43ca6c58922e",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T04:40:27.902Z"
+    },
+    {
+      "slug": "age-of-war",
+      "locale": "ja",
+      "kind": "controlsKeys",
+      "fingerprint": "43ca6c58922e",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T04:40:27.902Z"
+    },
+    {
+      "slug": "age-of-war",
+      "locale": "ko",
+      "kind": "controlsKeys",
+      "fingerprint": "43ca6c58922e",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T04:40:27.902Z"
+    },
+    {
+      "slug": "age-of-war",
+      "locale": "zh",
+      "kind": "controlsKeys",
+      "fingerprint": "43ca6c58922e",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T04:40:27.902Z"
+    },
+    {
+      "slug": "air-traffic-control",
+      "locale": "de",
+      "kind": "controlsKeys",
+      "fingerprint": "031ca959ee06",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T04:40:27.902Z"
+    },
+    {
+      "slug": "air-traffic-control",
+      "locale": "es",
+      "kind": "controlsKeys",
+      "fingerprint": "031ca959ee06",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T04:40:27.902Z"
+    },
+    {
+      "slug": "air-traffic-control",
+      "locale": "fr",
+      "kind": "controlsKeys",
+      "fingerprint": "031ca959ee06",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T04:40:27.902Z"
+    },
+    {
+      "slug": "air-traffic-control",
+      "locale": "ja",
+      "kind": "controlsKeys",
+      "fingerprint": "031ca959ee06",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T04:40:27.902Z"
+    },
+    {
+      "slug": "air-traffic-control",
+      "locale": "ko",
+      "kind": "controlsKeys",
+      "fingerprint": "031ca959ee06",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T04:40:27.902Z"
+    },
+    {
+      "slug": "air-traffic-control",
+      "locale": "zh",
+      "kind": "controlsKeys",
+      "fingerprint": "031ca959ee06",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T04:40:27.902Z"
+    },
+    {
+      "slug": "alien-hominid",
+      "locale": "de",
+      "kind": "controlsKeys",
+      "fingerprint": "c622c3af9f73",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T04:40:27.902Z"
+    },
+    {
+      "slug": "alien-hominid",
+      "locale": "es",
+      "kind": "controlsKeys",
+      "fingerprint": "c622c3af9f73",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T04:40:27.902Z"
+    },
+    {
+      "slug": "alien-hominid",
+      "locale": "fr",
+      "kind": "controlsKeys",
+      "fingerprint": "c622c3af9f73",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T04:40:27.902Z"
+    },
+    {
+      "slug": "alien-hominid",
+      "locale": "ja",
+      "kind": "controlsKeys",
+      "fingerprint": "c622c3af9f73",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T04:40:27.902Z"
+    },
+    {
+      "slug": "alien-hominid",
+      "locale": "ko",
+      "kind": "controlsKeys",
+      "fingerprint": "c622c3af9f73",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T04:40:27.902Z"
+    },
+    {
+      "slug": "alien-hominid",
+      "locale": "zh",
+      "kind": "controlsKeys",
+      "fingerprint": "c622c3af9f73",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T04:40:27.902Z"
     }
   ]
 }

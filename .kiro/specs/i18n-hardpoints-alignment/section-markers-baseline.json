@@ -1,5 +1,90 @@
 {
   "version": "1.0",
-  "updatedAt": "2025-12-29T17:26:53.789Z",
-  "entries": []
+  "updatedAt": "2025-12-30T04:41:18.579Z",
+  "entries": [
+    {
+      "slug": "4-pics-1-word",
+      "locale": "de",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T04:41:18.579Z"
+    },
+    {
+      "slug": "4-pics-1-word",
+      "locale": "es",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T04:41:18.579Z"
+    },
+    {
+      "slug": "4-pics-1-word",
+      "locale": "fr",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T04:41:18.579Z"
+    },
+    {
+      "slug": "4-pics-1-word",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T04:41:18.579Z"
+    },
+    {
+      "slug": "4-pics-1-word",
+      "locale": "ko",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T04:41:18.579Z"
+    },
+    {
+      "slug": "4-pics-1-word",
+      "locale": "zh",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T04:41:18.579Z"
+    },
+    {
+      "slug": "age-of-war",
+      "locale": "de",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T04:41:18.579Z"
+    },
+    {
+      "slug": "age-of-war",
+      "locale": "es",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T04:41:18.579Z"
+    },
+    {
+      "slug": "age-of-war",
+      "locale": "fr",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T04:41:18.579Z"
+    },
+    {
+      "slug": "age-of-war",
+      "locale": "ja",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T04:41:18.579Z"
+    },
+    {
+      "slug": "age-of-war",
+      "locale": "ko",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T04:41:18.579Z"
+    },
+    {
+      "slug": "age-of-war",
+      "locale": "zh",
+      "section": "tips",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T04:41:18.579Z"
+    }
+  ]
 }

@@ -23,7 +23,7 @@ releaseDate: 2025-12-04T00:00:00.000Z
 ### How to Play 60 Second Burger Run
  
  -  **The Objective:** You have a total of 60 seconds to complete as many stages as possible. The ultimate goal of each stage is to run to the bus stop, get on the bus, and proceed to the next level. 
- -  **Controls:** The controls are simple. Use the **Arrow Keys** or **WASD** keys to run left and right, and to jump. 
+ -  **Controls:** The controls are simple. Use the `Arrow Keys` or `WASD` keys to run left and right, and to jump. 
  -  **Navigating Levels:** You need to run very fast, using your reaction and attention. You must jump high, climb over ledges, fly over sharp objects, and leap over fire pits to reach the end. 
  -  **Hazards and Warnings:** The path is filled with dangers. Be aware of colored platforms that may burst under your hero. Road signs with skulls will also warn you about upcoming cliffs. 
  -  **Timer and Respawns:** The 60-second timer is for your entire run. If you hit an obstacle but still have time left, you will restart at the beginning of the *current stage*. If the 60 seconds run out, your entire game ends, and you must start over from the very first stage. 

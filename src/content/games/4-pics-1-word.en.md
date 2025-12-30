@@ -41,6 +41,7 @@ The gameplay is incredibly simple and intuitive, making it accessible to players
 
 ---
 
+<!-- i18n:section:tips -->
 ### Strategy and Tips
 
 While the game is simple, a few strategies can help you solve puzzles more efficiently.

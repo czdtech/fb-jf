@@ -33,7 +33,7 @@ releaseDate: 2025-10-18
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Click/tap a column to drop a checker.
+- `Click`/`tap` a column to drop a checker.
 - Local 2‑player or vs. AI modes are common.
 
 <!-- i18n:section:faq -->

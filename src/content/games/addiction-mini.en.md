@@ -30,8 +30,8 @@ Addiction Mini is a compact take on the Addiction/Monte Carlo family of patience
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Drag or click to move cards per rules; use available swaps.
-- Undo/Reset if provided.
+- `Drag` or `click` to move cards per rules; use available swaps.
+- `Undo`/`Reset` if provided.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

@@ -29,7 +29,7 @@ releaseDate: 2025-10-17
 ### Controls Guide
 
 *   **Aim:** Move your mouse to control the aiming guideline. This shows the initial trajectory of your shot.
-*   **Shoot:** Click the left mouse button to fire your stream of balls.
+*   **Shoot:** `Click` the left mouse button to fire your stream of balls.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
