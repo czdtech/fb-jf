@@ -31,13 +31,14 @@ La prise en main est très simple, à la souris ou au doigt :
 - **Déplacer les personnages :** fais‑les glisser pour changer les sons et tester d’autres combinaisons.
 - **Retirer un personnage :** double‑clique/double‑tape pour le retirer de la scène.
 - **Menu :** clique sur l’icône du menu pour sauvegarder, relancer ou partager ton mix.
+- **Menu :** clique sur l’icône du menu pour sauvegarder, relancer ou partager ta création.
 
 ### Démarre ton voyage musical aléatoire
 
-- **Clique sur Play :** appuie sur le bouton Play pour entrer dans la création aléatoire.
+- **Clique sur Jouer :** appuie sur le bouton Jouer pour entrer dans la création aléatoire.
 - **Glisser‑déposer :** choisis un personnage dans le panneau en bas et dépose‑le sur la scène pour lancer sa boucle.
 - **Accepte le hasard :** le jeu attribue des sons au hasard à chaque personnage, tu ne peux pas les prévoir.
-- **Mixer et tester :** change les combinaisons pour créer des beats uniques.
+- **Mixer et tester :** change les combinaisons pour créer des rythmes uniques.
 - **Débloquer des bonus :** explore des combinaisons cachées qui déclenchent des animations spéciales et des pistes bonus.
 
 ---
@@ -48,13 +49,13 @@ La prise en main est très simple, à la souris ou au doigt :
 - **Garde l’équilibre :** combine beats, mélodies et voix pour un morceau plus riche.
 - **Écoute attentivement :** certaines différences sont subtiles ; certaines combinaisons débloquent des récompenses cachées.
 - **Commence avec peu de personnages :** construis ton mix petit à petit pour mieux contrôler l’ensemble.
-- **Rejoue pour découvrir des secrets :** les sons aléatoires renouvellent chaque partie ; rejoue pour trouver des Easter eggs.
+- **Rejoue pour découvrir des secrets :** les sons aléatoires renouvellent chaque partie ; rejoue pour trouver des surprises cachées.
 
 ### Points forts de Sprunki Play Random
 
 - **Hasard unique :** chaque création est une nouvelle expérience, pleine de surprises.
 - **Simple et facile à prendre en main :** reprend le gameplay classique d’Incredibox et te permet de démarrer rapidement.
+- **Simple et facile à prendre en main :** reprend le principe classique d’Incredibox et te permet de démarrer rapidement.
 - **Plein de découverte :** débloque des animations spéciales et des pistes bonus en trouvant des combinaisons cachées.
 
 Sprunki Play Random est parfait si tu aimes expérimenter, improviser et laisser le jeu t’inspirer plutôt que tout contrôler.
-

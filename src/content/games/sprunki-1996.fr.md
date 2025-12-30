@@ -1,36 +1,38 @@
 ---
 locale: fr
 urlstr: sprunki-1996
-title: 'Sprunki 1996 - Play Sprunki 1996 Online'
+title: 'Sprunki 1996 - Jouer à Sprunki 1996 en ligne'
 description: >-
   Sprunki 1996 est un jeu musical plein de créativité et de nostalgie. Il
-  reprend une esthétique rétro PC des années 90 et un gameplay de création
-  musicale simple et fun pour offrir une nouvelle expérience aux fans de
+  reprend une esthétique rétro PC des années 90 et une jouabilité de création
+  musicale simple et amusante pour offrir une nouvelle expérience aux fans de
   Sprunki et d’Incredibox.
 iframeSrc: 'https://html-classic.itch.zone/html/14634762/index.html'
 thumbnail: /new-images/thumbnails/sprunki-1996.png
 tags:
   - sprunki 1996
+  - music
 score: 4.0/5  (122 votes)
 releaseDate: 2025-12-04
 ---
 
 
 <!-- i18n:section:introduction -->
-Hey ! Tu te souviens des écrans un peu buggés des vieux PC des années 90 ?
+Hé ! Tu te souviens des écrans un peu buggés des vieux PC des années 90 ?
 Tu veux retrouver cette ambiance tout en faisant du son ? Sprunki 1996 va
 te plaire. Ce mod Incredibox créé par le talentueux Draker avec Scratch
 ressemble à une machine à remonter le temps vers l’âge d’or du pixel art et
-des beats électroniques rétro.
+des rythmes électroniques rétro.
 
 ### Sprunki 1996, c’est quoi au juste ?
 
 Sprunki 1996 est un jeu de création musicale où tu utilises des personnages
 et des sons inspirés des vieux logiciels PC. Ce n’est pas juste un skin de
-Sprunki : le jeu a son propre lore, en mode « application perdue de 1996 »
+Sprunki : le jeu a son propre univers, en mode « application perdue de 1996 »
 développée par une société fictive appelée « Sunset Entertainment &
-Technologies ». Combiné à des visuels pixelisés, des glitchs VHS et des
-batteries électroniques rétro, tout ça te plonge direct dans les 90s.
+Technologies ». Combiné à des visuels pixelisés, des effets de parasitage façon
+VHS et des batteries électroniques rétro, tout ça te plonge direct dans les
+années 90.
 
 ### Comment faire sonner cette boîte à musique rétro ?
 
@@ -40,22 +42,22 @@ Le jeu reste super intuitif, mais avec une bonne dose de fun :
   entrer dans le monde de Sprunki 1996.  
 - **Découvre l’équipe :** 20 personnages Sprunki version rétro t’attendent,
   plus 2 petits nouveaux.  
-- **Glisse pour lancer les beats :** fais glisser ces petits personnages
-  pixelisés sur la scène : ils se mettent aussitôt à jouer, entre beats,
-  mélodies et effets 100 % 90s.  
-- **Mix & expérimentation :** amuse‑toi à combiner différents personnages
+- **Glisse pour lancer les rythmes :** fais glisser ces petits personnages
+  pixelisés sur la scène : ils se mettent aussitôt à jouer, entre rythmes,
+  mélodies et effets très « années 90 ».  
+- **Mix et expérimentation :** amuse‑toi à combiner différents personnages
   pour créer ta propre pépite électro rétro.  
 - **Changer d’ambiance :** envie d’un autre délire ? Glisse le carré noir
   en bas à droite sur la scène pour passer en « Horror Mode ». Pour revenir,
   clique sur « pray ».  
 - **Réinitialiser la boucle :** besoin d’un reset ? Le bouton « loop »
   remet tout à zéro (sons et personnages).  
-- **Contrôles mute/solo :** tu veux mettre un son en avant ou en couper un
-  autre ? Le jeu propose ces contrôles de base.
+- **Contrôles « mute »/« solo » :** tu veux mettre un son en avant ou en
+  couper un autre ? Le jeu propose ces contrôles de base.
 
 ### Pourquoi Sprunki 1996 marche aussi bien ?
 
-- **Vibe 90s totale :** graphismes VHS, designs, sons et animations
+- **Ambiance années 90 totale :** graphismes VHS, designs, sons et animations
   rétro : l’ambiance nostalgie est parfaite.  
 - **Pixel art unique :** difficile de résister à ces personnages en pixel
   ultra soignés.  
@@ -74,5 +76,4 @@ riche, il propose une expérience fraîche aux fans de Sprunki et
 d’Incredibox. Que tu veuilles revivre l’époque des années 90 ou découvrir
 une nouvelle façon de faire de la musique, Sprunki 1996 mérite clairement
 le détour. Démarre ton « vieux » PC virtuel et commence à composer tes
-beats rétro dans l’univers pixelisé de Sprunki 1996 !
-
+rythmes rétro dans l’univers pixelisé de Sprunki 1996 !
