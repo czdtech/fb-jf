@@ -30,8 +30,8 @@ releaseDate: 2025-10-18
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Slide: Arrow keys/Swipes.
-- Undo (if available) to rescue missteps.
+- Slide: `Arrow keys`/`Swipes`.
+- `Undo` (if available) to rescue missteps.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

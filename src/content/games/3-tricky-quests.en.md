@@ -60,12 +60,12 @@ The controls in *Brain Test 3* build upon the foundation of its predecessors, wi
 
 | Action | Description | Example |
 | :--- | :--- | :--- |
-| **Tap/Click** | To interact with objects, characters, or dialogue options; to collect items. | Tapping a key on the ground to pick it up; selecting a dialogue choice. |
-| **Drag & Drop** | To move objects within the scene or to use an item from the inventory. | Dragging a ladder to a tree; dragging food from the backpack to a dog. |
-| **Item Combination** | Within the open inventory, drag one item on top of another. | Combining a rope and a hook to create a grappling hook. |
-| **Swipe** | To wipe away dirt or move obstacles. | Swiping away a pile of sand to uncover an item beneath it. |
-| **Pinch to Zoom** | To enlarge or shrink specific objects. | Zooming in on a photo to see a detail. |
-| **Shake/Tilt Device** | To interact using the phone's physical sensors. | Shaking the phone to make a coconut fall from a tree. |
+| `Tap` / `Click` | To interact with objects, characters, or dialogue options; to collect items. | Tapping a key on the ground to pick it up; selecting a dialogue choice. |
+| `Drag` & `Drop` | To move objects within the scene or to use an item from the inventory. | Dragging a ladder to a tree; dragging food from the backpack to a dog. |
+| `Item Combination` | Within the open inventory, `Drag` one item on top of another. | Combining a rope and a hook to create a grappling hook. |
+| `Swipe` | To wipe away dirt or move obstacles. | Swiping away a pile of sand to uncover an item beneath it. |
+| `Pinch` to Zoom | To enlarge or shrink specific objects. | Zooming in on a photo to see a detail. |
+| `Shake` / `Tilt` Device | To interact using the phone's physical sensors. | Shaking the phone to make a coconut fall from a tree. |
 
 ---
 

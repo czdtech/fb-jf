@@ -29,9 +29,9 @@ releaseDate: 2025-10-18
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Aim: Drag to set direction and height.
-- Power: Control swipe length/hold duration.
-- Curve: Swipe curve or adjust spin slider to apply sidespin/topspin.
+- Aim: `Drag` to set direction and height.
+- Power: Control `Swipe` length/hold duration.
+- Curve: `Swipe` curve or adjust spin slider to apply sidespin/topspin.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

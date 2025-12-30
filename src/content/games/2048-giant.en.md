@@ -31,7 +31,7 @@ The core strategies for 2048 apply here, but need to be adapted for the larger b
 ### Controls Guide
 
 *   **Arrow Keys:** Use the arrow keys to move the tiles.
-*   **Swipe:** On touch devices, swipe in the direction you want the tiles to move.
+*   **Swipe:** On touch devices, `Swipe` in the direction you want the tiles to move.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

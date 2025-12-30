@@ -28,8 +28,8 @@ releaseDate: 2025-10-17
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **Desktop:** Use the **Up, Down, Left, and Right arrow keys** to move all tiles on the grid in the chosen direction.
-*   **Mobile:** **Swipe** Up, Down, Left, or Right on the screen.
+*   **Desktop:** Use the `Up`, `Down`, `Left`, and `Right` arrow keys to move all tiles on the grid in the chosen direction.
+*   **Mobile:** `Swipe` Up, Down, Left, or Right on the screen.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

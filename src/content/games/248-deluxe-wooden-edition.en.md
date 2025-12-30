@@ -29,8 +29,8 @@ releaseDate: 2025-10-18
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Drag across equal numbers to merge per rules.
-- Undo/Reset if provided.
+- `Drag` across equal numbers to merge per rules.
+- `Undo`/`Reset` if provided.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

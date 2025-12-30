@@ -1,5 +1,438 @@
 {
   "version": "1.0",
-  "updatedAt": "2025-12-26T00:00:00.000Z",
-  "entries": []
+  "updatedAt": "2025-12-30T03:06:08.647Z",
+  "entries": [
+    {
+      "slug": "2-tricky-stories",
+      "locale": "de",
+      "kind": "controlsKeys",
+      "fingerprint": "35ca02d3ad9f",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T03:06:08.637Z"
+    },
+    {
+      "slug": "2-tricky-stories",
+      "locale": "es",
+      "kind": "controlsKeys",
+      "fingerprint": "35ca02d3ad9f",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T03:06:08.637Z"
+    },
+    {
+      "slug": "2-tricky-stories",
+      "locale": "fr",
+      "kind": "controlsKeys",
+      "fingerprint": "35ca02d3ad9f",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T03:06:08.637Z"
+    },
+    {
+      "slug": "2-tricky-stories",
+      "locale": "ja",
+      "kind": "controlsKeys",
+      "fingerprint": "35ca02d3ad9f",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T03:06:08.637Z"
+    },
+    {
+      "slug": "2-tricky-stories",
+      "locale": "ko",
+      "kind": "controlsKeys",
+      "fingerprint": "35ca02d3ad9f",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T03:06:08.637Z"
+    },
+    {
+      "slug": "2-tricky-stories",
+      "locale": "zh",
+      "kind": "controlsKeys",
+      "fingerprint": "35ca02d3ad9f",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T03:06:08.637Z"
+    },
+    {
+      "slug": "2020-connect",
+      "locale": "de",
+      "kind": "controlsKeys",
+      "fingerprint": "f35ea7e477f2",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T03:06:08.637Z"
+    },
+    {
+      "slug": "2020-connect",
+      "locale": "es",
+      "kind": "controlsKeys",
+      "fingerprint": "f35ea7e477f2",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T03:06:08.637Z"
+    },
+    {
+      "slug": "2020-connect",
+      "locale": "fr",
+      "kind": "controlsKeys",
+      "fingerprint": "f35ea7e477f2",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T03:06:08.637Z"
+    },
+    {
+      "slug": "2020-connect",
+      "locale": "ja",
+      "kind": "controlsKeys",
+      "fingerprint": "f35ea7e477f2",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T03:06:08.637Z"
+    },
+    {
+      "slug": "2020-connect",
+      "locale": "ko",
+      "kind": "controlsKeys",
+      "fingerprint": "f35ea7e477f2",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T03:06:08.637Z"
+    },
+    {
+      "slug": "2020-connect",
+      "locale": "zh",
+      "kind": "controlsKeys",
+      "fingerprint": "f35ea7e477f2",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T03:06:08.637Z"
+    },
+    {
+      "slug": "2048-fusion",
+      "locale": "de",
+      "kind": "controlsKeys",
+      "fingerprint": "453fdb865978",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T03:06:08.637Z"
+    },
+    {
+      "slug": "2048-fusion",
+      "locale": "es",
+      "kind": "controlsKeys",
+      "fingerprint": "453fdb865978",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T03:06:08.637Z"
+    },
+    {
+      "slug": "2048-fusion",
+      "locale": "fr",
+      "kind": "controlsKeys",
+      "fingerprint": "453fdb865978",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T03:06:08.637Z"
+    },
+    {
+      "slug": "2048-fusion",
+      "locale": "ja",
+      "kind": "controlsKeys",
+      "fingerprint": "453fdb865978",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T03:06:08.637Z"
+    },
+    {
+      "slug": "2048-fusion",
+      "locale": "ko",
+      "kind": "controlsKeys",
+      "fingerprint": "453fdb865978",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T03:06:08.637Z"
+    },
+    {
+      "slug": "2048-fusion",
+      "locale": "zh",
+      "kind": "controlsKeys",
+      "fingerprint": "453fdb865978",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T03:06:08.637Z"
+    },
+    {
+      "slug": "2048-giant",
+      "locale": "de",
+      "kind": "controlsKeys",
+      "fingerprint": "cf2605f97819",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T03:06:08.637Z"
+    },
+    {
+      "slug": "2048-giant",
+      "locale": "es",
+      "kind": "controlsKeys",
+      "fingerprint": "cf2605f97819",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T03:06:08.637Z"
+    },
+    {
+      "slug": "2048-giant",
+      "locale": "fr",
+      "kind": "controlsKeys",
+      "fingerprint": "cf2605f97819",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T03:06:08.637Z"
+    },
+    {
+      "slug": "2048-giant",
+      "locale": "ja",
+      "kind": "controlsKeys",
+      "fingerprint": "cf2605f97819",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T03:06:08.637Z"
+    },
+    {
+      "slug": "2048-giant",
+      "locale": "ko",
+      "kind": "controlsKeys",
+      "fingerprint": "cf2605f97819",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T03:06:08.637Z"
+    },
+    {
+      "slug": "2048-giant",
+      "locale": "zh",
+      "kind": "controlsKeys",
+      "fingerprint": "cf2605f97819",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T03:06:08.637Z"
+    },
+    {
+      "slug": "2048-pizza",
+      "locale": "de",
+      "kind": "controlsKeys",
+      "fingerprint": "d79d104706fd",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T03:06:08.637Z"
+    },
+    {
+      "slug": "2048-pizza",
+      "locale": "es",
+      "kind": "controlsKeys",
+      "fingerprint": "d79d104706fd",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T03:06:08.637Z"
+    },
+    {
+      "slug": "2048-pizza",
+      "locale": "fr",
+      "kind": "controlsKeys",
+      "fingerprint": "d79d104706fd",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T03:06:08.637Z"
+    },
+    {
+      "slug": "2048-pizza",
+      "locale": "ja",
+      "kind": "controlsKeys",
+      "fingerprint": "d79d104706fd",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T03:06:08.637Z"
+    },
+    {
+      "slug": "2048-pizza",
+      "locale": "ko",
+      "kind": "controlsKeys",
+      "fingerprint": "d79d104706fd",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T03:06:08.637Z"
+    },
+    {
+      "slug": "2048-pizza",
+      "locale": "zh",
+      "kind": "controlsKeys",
+      "fingerprint": "d79d104706fd",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T03:06:08.637Z"
+    },
+    {
+      "slug": "248-deluxe-wooden-edition",
+      "locale": "de",
+      "kind": "controlsKeys",
+      "fingerprint": "bf5998b63e1d",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T03:06:08.637Z"
+    },
+    {
+      "slug": "248-deluxe-wooden-edition",
+      "locale": "es",
+      "kind": "controlsKeys",
+      "fingerprint": "bf5998b63e1d",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T03:06:08.637Z"
+    },
+    {
+      "slug": "248-deluxe-wooden-edition",
+      "locale": "fr",
+      "kind": "controlsKeys",
+      "fingerprint": "bf5998b63e1d",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T03:06:08.637Z"
+    },
+    {
+      "slug": "248-deluxe-wooden-edition",
+      "locale": "ja",
+      "kind": "controlsKeys",
+      "fingerprint": "bf5998b63e1d",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T03:06:08.637Z"
+    },
+    {
+      "slug": "248-deluxe-wooden-edition",
+      "locale": "ko",
+      "kind": "controlsKeys",
+      "fingerprint": "bf5998b63e1d",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T03:06:08.637Z"
+    },
+    {
+      "slug": "248-deluxe-wooden-edition",
+      "locale": "zh",
+      "kind": "controlsKeys",
+      "fingerprint": "bf5998b63e1d",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T03:06:08.637Z"
+    },
+    {
+      "slug": "3-tricky-quests",
+      "locale": "de",
+      "kind": "controlsKeys",
+      "fingerprint": "a21650e75baf",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T03:06:08.637Z"
+    },
+    {
+      "slug": "3-tricky-quests",
+      "locale": "es",
+      "kind": "controlsKeys",
+      "fingerprint": "a21650e75baf",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T03:06:08.637Z"
+    },
+    {
+      "slug": "3-tricky-quests",
+      "locale": "fr",
+      "kind": "controlsKeys",
+      "fingerprint": "a21650e75baf",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T03:06:08.637Z"
+    },
+    {
+      "slug": "3-tricky-quests",
+      "locale": "ja",
+      "kind": "controlsKeys",
+      "fingerprint": "a21650e75baf",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T03:06:08.637Z"
+    },
+    {
+      "slug": "3-tricky-quests",
+      "locale": "ko",
+      "kind": "controlsKeys",
+      "fingerprint": "a21650e75baf",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T03:06:08.637Z"
+    },
+    {
+      "slug": "3-tricky-quests",
+      "locale": "zh",
+      "kind": "controlsKeys",
+      "fingerprint": "a21650e75baf",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T03:06:08.637Z"
+    },
+    {
+      "slug": "3d-football-mania",
+      "locale": "de",
+      "kind": "controlsKeys",
+      "fingerprint": "b3ff68d358ea",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T03:06:08.637Z"
+    },
+    {
+      "slug": "3d-football-mania",
+      "locale": "es",
+      "kind": "controlsKeys",
+      "fingerprint": "b3ff68d358ea",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T03:06:08.637Z"
+    },
+    {
+      "slug": "3d-football-mania",
+      "locale": "fr",
+      "kind": "controlsKeys",
+      "fingerprint": "b3ff68d358ea",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T03:06:08.637Z"
+    },
+    {
+      "slug": "3d-football-mania",
+      "locale": "ja",
+      "kind": "controlsKeys",
+      "fingerprint": "b3ff68d358ea",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T03:06:08.637Z"
+    },
+    {
+      "slug": "3d-football-mania",
+      "locale": "ko",
+      "kind": "controlsKeys",
+      "fingerprint": "b3ff68d358ea",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T03:06:08.637Z"
+    },
+    {
+      "slug": "3d-football-mania",
+      "locale": "zh",
+      "kind": "controlsKeys",
+      "fingerprint": "b3ff68d358ea",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T03:06:08.637Z"
+    },
+    {
+      "slug": "3d-free-kick",
+      "locale": "de",
+      "kind": "controlsKeys",
+      "fingerprint": "a4ec524c1d12",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T03:06:08.637Z"
+    },
+    {
+      "slug": "3d-free-kick",
+      "locale": "es",
+      "kind": "controlsKeys",
+      "fingerprint": "a4ec524c1d12",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T03:06:08.637Z"
+    },
+    {
+      "slug": "3d-free-kick",
+      "locale": "fr",
+      "kind": "controlsKeys",
+      "fingerprint": "a4ec524c1d12",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T03:06:08.637Z"
+    },
+    {
+      "slug": "3d-free-kick",
+      "locale": "ja",
+      "kind": "controlsKeys",
+      "fingerprint": "a4ec524c1d12",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T03:06:08.637Z"
+    },
+    {
+      "slug": "3d-free-kick",
+      "locale": "ko",
+      "kind": "controlsKeys",
+      "fingerprint": "a4ec524c1d12",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T03:06:08.637Z"
+    },
+    {
+      "slug": "3d-free-kick",
+      "locale": "zh",
+      "kind": "controlsKeys",
+      "fingerprint": "a4ec524c1d12",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T03:06:08.637Z"
+    }
+  ]
 }

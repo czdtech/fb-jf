@@ -57,13 +57,13 @@ The controls in *Brain Test 2* are intuitive and are often part of the puzzle it
 
 | Action | Description | Example |
 | :--- | :--- | :--- |
-| **Tap/Click** | To select objects, trigger actions, or interact with buttons. | Flipping a light switch, popping a balloon. |
-| **Drag & Drop** | To move an object to a specific location or give an item to a character. | Dragging a key to a lock, handing food to a character. |
-| **Swipe** | To move an obstacle, wipe something clean, or slide an object off-screen. | Swiping curtains open to reveal something behind them. |
-| **Pinch to Zoom** | To enlarge or shrink objects on the screen. | Zooming in on a map to find a clue, shrinking an object to fit it through a gap. |
-| **Shake Device** | To utilize the phone's accelerometer. | Shaking a tree to make fruit fall. |
-| **Tilt Device** | To change the in-game direction of gravity. | Tilting the phone to pour water out of a glass. |
-| **Long Press** | To press and hold on an object to trigger a special effect. | Holding down a button to keep a mechanism activated. |
+| `Tap` / `Click` | To select objects, trigger actions, or interact with buttons. | Flipping a light switch, popping a balloon. |
+| `Drag` & `Drop` | To move an object to a specific location or give an item to a character. | Dragging a key to a lock, handing food to a character. |
+| `Swipe` | To move an obstacle, wipe something clean, or slide an object off-screen. | Swiping curtains open to reveal something behind them. |
+| `Pinch` to Zoom | To enlarge or shrink objects on the screen. | Zooming in on a map to find a clue, shrinking an object to fit it through a gap. |
+| `Shake` Device | To utilize the phone's accelerometer. | Shaking a tree to make fruit fall. |
+| `Tilt` Device | To change the in-game direction of gravity. | Tilting the phone to pour water out of a glass. |
+| `Long Press` | To press and hold on an object to trigger a special effect. | Holding down a button to keep a mechanism activated. |
 
 ---
 

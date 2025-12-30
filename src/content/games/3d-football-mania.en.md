@@ -29,8 +29,8 @@ releaseDate: 2025-10-18
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Move/Pass/Shoot per on‑screen prompts; swipe or buttons.
-- Aim shots with drag; set power by hold length.
+- Move/Pass/Shoot per on‑screen prompts; `Swipe` or buttons.
+- Aim shots with `Drag`; set power by hold length.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

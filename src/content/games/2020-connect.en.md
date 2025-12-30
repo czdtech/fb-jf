@@ -29,9 +29,9 @@ releaseDate: 2025-10-18
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Draw: Click/tap and drag to connect equal numbers per rules.
-- Undo (if available): Limited undos can salvage mis‑draws.
-- Restart: Start a fresh board at any time.
+- Draw: `Click`/`Tap` and `Drag` to connect equal numbers per rules.
+- `Undo` (if available): Limited undos can salvage mis‑draws.
+- `Restart`: Start a fresh board at any time.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
