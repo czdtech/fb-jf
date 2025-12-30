@@ -59,6 +59,5 @@ releaseDate: 2025-08-16T00:00:00.000Z
   소모됩니다. 최소한의 루틴으로 줄이는 연습이 필요합니다.  
 
 <!-- i18n:faq:id=faq:five-nights-at-freddy-1:can-i-mute-calls-952aac8b -->
-- **Q: 전화(Phone Guy 표기) 음성을 끌 수 있나요?**  
+- **Q: 전화(영문: Phone Guy) 음성을 끌 수 있나요?**  
   **A:** 일부 버전은 통화 시작 시 표시되는 버튼으로 음성을 건너뛸 수 있습니다.  
-
