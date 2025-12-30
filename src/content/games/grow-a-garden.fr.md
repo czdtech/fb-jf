@@ -23,7 +23,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 En général, tu commences avec un petit terrain vide. Il faut labourer la terre, semer, arroser, fertiliser, puis attendre patiemment que les plantes poussent. Les récoltes peuvent être vendues contre de la monnaie du jeu ou utilisées pour remplir des commandes et quêtes. Avec l’argent gagné, tu peux acheter de nouvelles graines, de meilleurs outils, des décorations (clôtures, fontaines, allées…) pour agrandir et embellir le jardin, ou encore débloquer de nouvelles parcelles.
 
-Ces jeux avancent à un rythme lent et détendu, et misent sur le plaisir de créer et la progression à long terme plutôt que sur le challenge nerveux. On retrouve souvent :
+Ces jeux avancent à un rythme lent et détendu, et misent sur le plaisir de créer et la progression à long terme plutôt que sur des défis rapides. On retrouve souvent :
 
 - **Une grande variété de plantes** : des roses ou tournesols classiques à toutes sortes de légumes et fruits, chacun avec un temps de pousse et une valeur propres.  
 - **Un système d’amélioration** : tu peux améliorer tes outils (arrosoir, pelle…) pour gagner en efficacité, ou agrandir grange/silo pour stocker plus.  
@@ -33,9 +33,9 @@ Ces jeux avancent à un rythme lent et détendu, et misent sur le plaisir de cr�
 <!-- i18n:section:tips -->
 ### Stratégies & conseils de jeu
 
-1.  **Gère ton temps et tes ressources** : au début, ton argent (et parfois ton énergie) est limité. Priorise les cultures à **croissance rapide et retour d’investissement rapide** pour constituer ton capital et débloquer plus de terrain et de fonctionnalités.
-2.  **Surveille le tableau de commandes** : ne plante pas au hasard. Regarde ce que demandent les quêtes et commandes, et sème en conséquence. Ces commandes donnent souvent des pièces, de l’XP et des objets rares, essentiels pour progresser vite.
-3.  **Planifie le layout du jardin** : avant de planter à grande échelle, réfléchis à ton plan. Distinguer zones de cultures, zones décoratives et bâtiments (grange, serre…) rend ton jardin plus lisible et plus efficace. Regrouper les cultures ayant des temps de pousse similaires facilite les récoltes.
+1.  **Gère ton temps et tes ressources** : au début, ton argent (et parfois ton énergie) est limité. Priorise les cultures à **croissance rapide et bon rendement** pour constituer ton capital et débloquer plus de terrain et de fonctionnalités.
+2.  **Surveille le tableau de commandes** : ne plante pas au hasard. Regarde ce que demandent les quêtes et commandes, et sème en conséquence. Ces commandes donnent souvent des pièces, des points d’expérience et des objets rares, essentiels pour progresser vite.
+3.  **Planifie l’agencement du jardin** : avant de planter à grande échelle, réfléchis à ton plan. Distinguer zones de cultures, zones décoratives et bâtiments (grange, serre…) rend ton jardin plus lisible et plus efficace. Regrouper les cultures ayant des temps de pousse similaires facilite les récoltes.
 4.  **Ne laisse pas la terre en friche** : une case vide ne produit rien. Essaie de garder chaque parcelle labourée occupée. Avant de quitter le jeu, plante des cultures longues, afin qu’elles soient prêtes à récolter à ton retour.
 5.  **Améliorer = productivité** : dès que tu as assez de fonds, améliore prioritairement tes outils et bâtiments clés :
     - **Arrosoir** : pour arroser plus de cases d’un coup.  
@@ -46,7 +46,7 @@ Ces jeux avancent à un rythme lent et détendu, et misent sur le plaisir de cr�
 <!-- i18n:section:controls -->
 ### Commandes
 
-Les contrôles se basent en général sur des clics/glisser‑déposer.
+Les contrôles se basent en général sur des clics et du glisser‑déposer.
 
 - **Cliquer/Taper** :
     - clique sur une parcelle vide pour la labourer ;  
@@ -76,5 +76,4 @@ Complète les commandes les plus rentables et plante en priorité les cultures d
 <!-- i18n:faq:id=faq:grow-a-garden:does-the-game-need-to-b46d6202 -->
 **4. Faut‑il rester connecté en permanence ?**  
 La plupart des jeux de jardinage modernes gèrent la **croissance hors‑ligne** : le temps continue de s’écouler même si le jeu est fermé. D’où le conseil de planter des cultures longues juste avant de quitter.
-
 

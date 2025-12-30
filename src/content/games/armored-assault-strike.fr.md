@@ -34,7 +34,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 - Déplacement avec les touches WASD ou flèches.  
 - Vise et tire avec la souris ou les boutons d’action indiqués dans l’interface.  
-- Active les capacités spéciales via les touches de raccourci (par exemple 1–4).
+- Active les capacités spéciales via les touches de raccourci indiquées à l’écran.
 
 <!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
@@ -49,6 +49,5 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 <!-- i18n:faq:id=faq:armored-assault-strike:bosses-5a57d05f -->
 - **Q : Comment battre les boss ?**  
-  **R :** Observe leurs patterns, détruis les sbires qui les accompagnent en priorité et profite des fenêtres d’attaque pour vider tes compétences sur le boss.
-
+  **R :** Observe leurs schémas d’attaque, détruis les sbires qui les accompagnent en priorité et profite des fenêtres d’attaque pour vider tes compétences sur le boss.
 

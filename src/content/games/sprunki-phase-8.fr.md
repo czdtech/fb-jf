@@ -17,7 +17,7 @@ releaseDate: 2025-12-04
 <!-- i18n:section:introduction -->
 Tu veux explorer le côté obscur de Sprunki ? Sprunki Phase 8 te plonge dans un
 univers rempli de personnages inquiétants, de décors angoissants et de sons
-fait pour donner des frissons.
+faits pour donner des frissons.
 
 ### Sprunki Phase 8, c’est quoi exactement ?
 
@@ -25,7 +25,7 @@ On retrouve le principe de base de Sprunki (placer des personnages pour créer
 un morceau), mais ici tout est orienté horreur :
 
 - personnages au design effrayant ;
-- mélodies dissonantes et beats lourds ;
+- mélodies dissonantes et rythmes lourds ;
 - visuels sombres, presque apocalyptiques.
 
 Ton objectif : transformer ce chaos en une véritable « symphonie sombre ».
@@ -46,8 +46,8 @@ Ton objectif : transformer ce chaos en une véritable « symphonie sombre ».
 - pour pousser ta créativité dans des registres plus sombres.
 
 Sprunki Phase 8 est un Mod parfait si tu veux voir jusqu’où l’univers Sprunki
+peut aller.
 
 ### En résumé:
-peut aller du côté horreur, sans perdre le plaisir de la création musicale.
-
+Une phase sombre et créative, qui garde le plaisir de la création musicale. Si tu veux suivre l’évolution de l’univers Sprunki, jette aussi un œil à Sprunki Phase 7.
 
