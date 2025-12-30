@@ -24,7 +24,7 @@ Comme dans Incredibox, tu fais glisser des icônes sur les personnages pour empi
 <!-- i18n:section:tips -->
 ### Stratégies de jeu et conseils
 
-La stratégie dans *Beatnik* consiste à installer une ambiance (« vibe ») fluide et cohérente, puis à traquer les bonus cachés.
+La stratégie dans *Beatnik* consiste à installer une ambiance fluide et cohérente, puis à traquer les bonus cachés.
 
 1.  **Commence par la section rythmique**  
     Pour obtenir un vrai feeling jazz, pose d’abord une base solide : choisis un ou deux sons de la catégorie **Beats** (contrebasse, claquements de doigts, petites percussions) pour installer le groove avant d’ajouter le reste.
@@ -41,7 +41,7 @@ La stratégie dans *Beatnik* consiste à installer une ambiance (« vibe ») flu
 <!-- i18n:section:controls -->
 ### Commandes
 
-Les commandes reprennent l’interface drag‑and‑drop classique d’Incredibox.
+Les commandes reprennent l’interface de glisser‑déposer classique d’Incredibox.
 
 - **Ajouter un son** : fais glisser une icône depuis la barre du bas et dépose‑la sur un personnage.  
 - **Retirer un son** : clique sur le « X » d’une icône active en bas ou glisse une nouvelle icône sur le même personnage pour le remplacer.  
@@ -59,5 +59,4 @@ Les commandes reprennent l’interface drag‑and‑drop classique d’Incredibo
 
 - **Q : Est‑ce un mod officiel ?**  
   R : Non, c’est un mod créé par des fans et non un contenu officiel des développeurs d’Incredibox.
-
 

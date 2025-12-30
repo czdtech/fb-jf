@@ -37,7 +37,7 @@ Chaque personnage incarne une pièce de cette machinerie sonore.
 - **Choisis des personnages industriels :** robots, ouvriers stylisés, machines
   anthropomorphes… chacun produit un son inspiré du monde de l’acier.
 - **Glisse‑dépose pour composer :** place les personnages sur la grille pour
-  activer beats, effets et nappes métalliques.
+  activer rythmes, effets et nappes métalliques.
 - **Empile les sons mécaniques :** combine moteurs, martèlements et bruits
   d’usine pour créer un morceau industriel cohérent.
 - **Débloque des bonus cachés :** certaines combinaisons peuvent déclencher
@@ -48,7 +48,7 @@ Chaque personnage incarne une pièce de cette machinerie sonore.
 - **Visuels d’usine :** tuyaux, fumée, étincelles, structures métalliques ;
 - **Palette sonore unique :** cliquetis, vrombissements, impacts d’acier ;
 - **Animations bonus :** certaines combinaisons déclenchent des animations spéciales liées à la chaîne de production.
-- **Gameplay intuitif :** malgré l’univers « lourd », le drag‑and‑drop reste simple et fluide.
+- **Prise en main intuitive :** malgré l’univers « lourd », le glisser‑déposer reste simple et fluide.
 
 ### Pourquoi choisir Sprunki x SepBox Steel Factory ?
 
@@ -59,4 +59,3 @@ Ce Mod se démarque par son ambiance d’usine et sa liberté de création :
 - Chaque personnage propose des sons distincts inspirés des machines lourdes et du travail du métal.
 Sprunki x SepBox Steel Factory est idéal si tu aimes les ambiances industrielles
 et les sons mécaniques puissants.
-

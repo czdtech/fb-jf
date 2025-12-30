@@ -33,7 +33,7 @@ Merge Heroes est un mélange accrocheur de puzzle de fusion et de stratégie aut
 <!-- i18n:section:controls -->
 ### Commandes
 
-Le jeu se joue au drag‑and‑drop.
+Le jeu se joue au glisser‑déposer.
 
 *   **Acheter un héros :** clique sur le bouton « Buy » pour dépenser de l'or et recevoir un nouveau héros de base.
 *   **Fusionner des héros :** fais glisser un héros sur un autre identique pour les fusionner.
@@ -53,4 +53,3 @@ Le jeu se joue au drag‑and‑drop.
 <!-- i18n:faq:id=faq:merge-heroes:q-why-did-my-heroes-50347d7c -->
 *   **Q : Pourquoi mes héros arrêtent‑ils de se battre parfois ?**
     *   **R :** C'est généralement entre deux vagues. Dès que la vague suivante d'ennemis arrive, ils reprennent automatiquement le combat.
-

@@ -21,9 +21,9 @@ releaseDate: 2025-10-10T00:00:00.000Z
 
 *Incredibox Creatophobos* est un mod fan‑made sombre et expérimental. Son nom vient de « Creator » et de **Phobos**, la personnification grecque de la peur : tout tourne autour de la crainte, des créatures monstrueuses et d'une horreur oppressante.
 
-Les beatboxers stylés sont remplacés par des figures mutantes et inquiétantes. En utilisant l'interface drag‑and‑drop classique, tu actives 20 sons très éloignés des mélodies habituelles : **bruits industriels, grognements de monstres, beats distordus et drones inquiétants**.
+Les beatboxers stylés sont remplacés par des figures mutantes et inquiétantes. En utilisant l'interface de glisser‑déposer classique, tu actives 20 sons très éloignés des mélodies habituelles : **bruits industriels, grognements de monstres, rythmes distordus et drones inquiétants**.
 
-Le but n'est plus de créer un tube catchy, mais un **paysage sonore terrifiant**. Les trois bonus cachés prolongent cette esthétique grotesque via des animations cauchemardesques.
+Le but n'est plus de créer un morceau accrocheur, mais un **paysage sonore terrifiant**. Les trois bonus cachés prolongent cette esthétique grotesque via des animations cauchemardesques.
 
 <!-- i18n:section:tips -->
 ### Stratégies de jeu et conseils
@@ -31,13 +31,13 @@ Le but n'est plus de créer un tube catchy, mais un **paysage sonore terrifiant*
 Ici, il s'agit moins de chercher l'harmonie que de construire la tension.
 
 1.  **Comprends les catégories monstrueuses**
-    - **Beats** : rythmes mécaniques et lourds, coups métalliques, pulsations rappelant un cœur affolé.
+    - **Rythmes** : rythmes mécaniques et lourds, coups métalliques, pulsations rappelant un cœur affolé.
     - **Effets** : drones sombres, gémissements, grincements de métal, bruits sortis d'un film d'horreur.
     - **Mélodies** : lignes dissonantes, sirènes, synthés atonaux qui ajoutent à l'angoisse.
-    - **Voices** : rugissements, hurlements déformés, psalmodies robotiques ou démoniaques.
+    - **Voix** : rugissements, hurlements déformés, psalmodies robotiques ou démoniaques.
 
 2.  **Installe une ambiance de peur**
-    Commence souvent par un effet d'ambiance, puis ajoute un beat lent et pesant. Construis progressivement le mix pour faire monter la tension, plutôt que tout lancer d'un coup.
+    Commence souvent par un effet d'ambiance, puis ajoute un rythme lent et pesant. Construis progressivement la composition pour faire monter la tension, plutôt que tout lancer d'un coup.
 
 3.  **Accepte la dissonance**
     Beaucoup de sons sont faits pour se heurter. Un résultat bruyant et chaotique n'est pas un échec : c'est précisément ce qui donne son identité horrifique au mod.
@@ -46,7 +46,7 @@ Ici, il s'agit moins de chercher l'harmonie que de construire la tension.
     Comme les sons se distinguent moins par la mélodie, il vaut mieux adopter une approche systématique : fixe une base qui fonctionne et fais tourner les autres icônes une par une jusqu'à déclencher les animations secrètes.
 
 5.  **Utilise le solo pour décortiquer le bruit**
-    Quand le mix devient trop dense, isole un personnage pour comprendre ce qu'il apporte. Cela t'aide à épurer ou renforcer certaines couches.
+    Quand la composition devient trop dense, isole un personnage pour comprendre ce qu'il apporte. Cela t'aide à épurer ou renforcer certaines couches.
 
 <!-- i18n:section:controls -->
 ### Commandes
@@ -69,4 +69,3 @@ Les commandes reprennent l'interface glisser‑déposer classique d'Incredibox.
 
 - **Q : Les bonus sont‑ils difficiles à trouver ?**
   R : Ils demandent un peu de patience, mais une fois que tu as identifié quelques bonnes bases, tu pourras les déclencher en testant calmement différentes combinaisons.
-
