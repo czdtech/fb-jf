@@ -1,7 +1,7 @@
 ---
 locale: en
 title: "Kitty Scramble"
-description: "Kitty Scramble is a cozy word‑hunt — `Swipe` across letter grids, find themed words, and clear boards with pattern recognition."
+description: "Kitty Scramble is a cozy word‑hunt — swipe across letter grids, find themed words, and clear boards with pattern recognition."
 iframeSrc: "https://6cifr142haig8.h5games.usercontent.goog/v/1c963avg5lo9g/"
 thumbnail: /new-images/thumbnails/kitty-scramble.png
 urlstr: "kitty-scramble"
@@ -51,5 +51,4 @@ Kitty Scramble presents themed letter grids (animals, foods, places). `Swipe` co
   Q: Can I replay for coins?
   
   A: Yes — farm early boards for extra hints.
-
 

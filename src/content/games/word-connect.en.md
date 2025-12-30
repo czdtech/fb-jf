@@ -2,7 +2,7 @@
 locale: en
 # Frontmatter: 遵循上面 config.ts 中定义的 schema
 title: "Word Connect"
-description: "Connect letters and expand your vocabulary in Word Connect, an addictive word puzzle game! `Swipe` to form words from a circular set of letters and fill in the crossword-style blanks. Discover bonus words, use hints, and challenge yourself across thousands of levels in this relaxing brain-teaser."
+description: "Connect letters and expand your vocabulary in Word Connect, an addictive word puzzle game! Swipe to form words from a circular set of letters and fill in the crossword-style blanks. Discover bonus words, use hints, and challenge yourself across thousands of levels in this relaxing brain-teaser."
 iframeSrc: "https://previews.customer.envatousercontent.com/files/309288677/index.html"
 thumbnail: /new-images/thumbnails/word-connect.jpg
 urlstr: "word-connect"
@@ -46,5 +46,4 @@ Most versions of Word Connect do not have a time limit, allowing players to solv
 **What makes a word valid?**
 
 Words must be at least three letters long and must be valid English words found in the game's dictionary.
-
 

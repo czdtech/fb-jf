@@ -2,7 +2,7 @@
 locale: en
 # Frontmatter: 遵循上面 config.ts 中定义的 schema
 title: "Tomb of the Mask"
-description: "Navigate treacherous mazes in Tomb of the Mask, a fast-paced arcade game! `Swipe` to move your character from wall to wall, collecting coins and power-ups while outrunning a rising flood. Master precise movements and quick decisions to survive and uncover the tomb's secrets."
+description: "Navigate treacherous mazes in Tomb of the Mask, a fast-paced arcade game! Swipe to move your character from wall to wall, collecting coins and power-ups while outrunning a rising flood. Master precise movements and quick decisions to survive and uncover the tomb's secrets."
 iframeSrc: "https://w8.snokido.com/games/unity-webgl/tomb-run/index.html"
 thumbnail: /new-images/thumbnails/tomb-of-the-mask.jpg
 urlstr: "tomb-of-the-mask"
@@ -45,5 +45,4 @@ Hitting an obstacle will usually result in instant death, ending your run. Some 
 **Are there different masks?**
 
 Yes, as you progress and collect coins, you can unlock various masks. Each mask might offer a unique ability or bonus, adding a strategic layer to your runs.
-
 
