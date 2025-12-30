@@ -44,7 +44,7 @@ sie Tracks erstellen und sich über Sounddesign austauschen können.
   Vision frei ausleben.
 - **Story + Sound:** Entscheidungsgesteuerte Abläufe lassen deine Tracks fast
   wie interaktive Hörgeschichten wirken.
-- **Starke Community:** Tausche dich mit anderen Musiker:innen aus, teile
+- **Starke Community:** Tausche dich mit anderen Musikfans aus, teile
   Tipps, Tricks und fertige Mixes.
 
 Fiddlebops Polos lädt dich dazu ein, zum kreativen Kopf hinter eigenen

@@ -19,7 +19,7 @@ releaseDate: 2025-12-04T00:00:00.000Z
 ### Was macht Dandyrunki Retake so spaßig?
 
 Kurz gesagt ist diese Remix-Version wie eine verrückte musikalische
-Crossover-Kollaboration: Die schrägen Sounds von Dandyrunki Retake treffen auf
+Crossover-Mix: Die schrägen Sounds von Dandyrunki Retake treffen auf
 neue Kombinationen und sorgen für überraschende Funken. Das Beste daran: Du
 musst nichts herunterladen – öffne einfach deinen Browser und leg jederzeit los,
 um kreativ mit Sounds zu experimentieren.
@@ -46,7 +46,7 @@ um kreativ mit Sounds zu experimentieren.
   eigenen Animationen und Sound-Loops sorgen für noch mehr Abwechslung in deinen
   Kompositionen.
 - **Aufwendigere Effekte:** Bunte Hintergründe und weiche Übergänge lassen die
-  verrückte Welt von Dandyrunki Retake lebendig werden und machen jede Session
+  verrückte Welt von Dandyrunki Retake lebendig werden und machen jede Runde
   zu einer kleinen Show.
 - **Verbesserter Sound:** Neue Beats und Melodien liefern ein frisches
   Klangerlebnis, ohne den verspielten Stil des ursprünglichen Mods zu verlieren.
@@ -60,4 +60,3 @@ In Dandyrunki Retake kommst du ohne lange Erklärungen direkt ins Spiel und
 kannst nach Belieben mit Rhythmen und Melodien spielen. Ob du nur ein paar
 Minuten Zeit hast oder länger experimentieren möchtest – diese Remix-Version
 bietet dir jede Menge kreativen, musikalischen Spaß.
-

@@ -18,8 +18,8 @@ releaseDate: 2025-10-18T00:00:00.000Z
 <!-- i18n:section:introduction -->
 ### Spielübersicht
 
-Armored Assault Strike kombiniert Arcade‑Ballereien mit leichtem
-Positions‑Gameplay. Du steuerst ein gepanzertes Fahrzeug von oben und kämpfst
+Armored Assault Strike kombiniert Arcade-Shooter-Action mit leichtem
+Positionsspiel. Du steuerst ein gepanzertes Fahrzeug von oben und kämpfst
 gegen immer stärkere Gegnerwellen. Kreisende Bewegungen um starke Gegner,
 Deckung hinter Objekten und das geschickte Verketten deiner Fähigkeiten sind
 der Schlüssel, um Wellen effizient zu brechen, ohne deinen Rumpf unnötig zu
@@ -28,19 +28,19 @@ gefährden.
 <!-- i18n:section:tips -->
 ### Strategie & Walkthrough
 
-1.  **Eliten kiten und Sichtlinien brechen:** Gegen starke Gegner solltest du
+1.  **Starke Gegner ausmanövrieren und Sichtlinien brechen:** Gegen starke Gegner solltest du
     selten frontal stehen bleiben. Laufe in Kreisen, zieh sie hinter dich her
     und nutze Gebäude oder Hindernisse, um aus der Schusslinie zu gehen.
-2.  **Burst‑Feuer statt Dauerfeuer:** Schieße lieber in kurzen Salven, um
-    Überhitzung oder lange Nachladephasen zu vermeiden. So behältst du immer
+2.  **Salven statt Dauerfeuer:** Schieße lieber in kurzen Salven, um
+    Überhitzung oder lange Abklingzeiten zu vermeiden. So behältst du immer
     etwas Feuerkraft in Reserve.
-3.  **Prioritätsziele fokussieren:** Schalte Gegner mit Raketen, Flächen‑AOE
-    oder schnellem Beschuss zuerst aus. Solange diese leben, wird jede Welle
+3.  **Prioritätsziele zuerst:** Schalte Gegner mit Raketen, Flächenschaden
+    oder Schnellfeuer zuerst aus. Solange diese leben, wird jede Welle
     gefährlicher.
-4.  **Sichere Wege zu Pickups planen:** Plane deine Route so, dass du Munition,
+4.  **Sichere Wege zu Power-ups planen:** Plane deine Route so, dass du Munition,
     Reparatur‑Kits oder Buffs einsammeln kannst, ohne mitten durch das
     feindliche Feuerfeld laufen zu müssen.
-5.  **Flucht‑Skills aufsparen:** Dash, Schild oder ähnliche Defensiv‑Fähigkeiten
+5.  **Rettungsfähigkeiten aufsparen:** Dash, Schild oder ähnliche Defensiv‑Fähigkeiten
     solltest du für Notfälle reservieren – etwa, wenn du eingekesselt bist
     oder eine Boss‑Attacke sonst tödlich wäre.
 
@@ -49,10 +49,10 @@ gefährden.
 
 - **Bewegung:** Steuere dein Fahrzeug mit WASD oder den Pfeiltasten über die
   Karte.
-- **Zielen/Feuern:** Richte die Waffe per Mauszeiger oder stickbasiertem Aim
-  aus und feuere über die entsprechenden Schaltflächen der Benutzeroberfläche.
+- **Zielen/Feuern:** Zielen und Schießen erfolgen je nach Version über die
+  Benutzeroberfläche (z. B. per Maus/Buttons).
 - **Fähigkeiten:** Aktiviere Spezialfähigkeiten wie Dash, Schild oder
-  Raketen‑Salven über Hotkeys oder UI‑Buttons.
+  Raketen‑Salven über Hotkeys oder Buttons.
 
 <!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
@@ -70,7 +70,5 @@ gefährden.
 
 <!-- i18n:faq:id=faq:armored-assault-strike:bosses-5a57d05f -->
 - **Wie besiege ich Bosse?**  
-  Lerne ihre Angriffsphasen, weiche großen Telegraph‑Attacken aus und räume
-  zwischendurch zusätzliche Gegnerwellen (Adds) weg, bevor du wieder auf den
-  Boss gehst.
-
+  Lerne ihre Angriffsphasen, weiche klar angekündigten Attacken aus und räume
+  zwischendurch zusätzliche Gegner weg, bevor du wieder auf den Boss gehst.

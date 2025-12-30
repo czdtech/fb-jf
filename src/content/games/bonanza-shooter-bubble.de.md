@@ -37,7 +37,7 @@ räumen.
 4.  **Vorausschauen:** Wenn die nächste Kugel angezeigt wird, plane immer zwei
     Züge im Voraus, damit du keine wichtigen Gassen verbaust.
 5.  **Sicherheit vor Risiko:** Senkt sich die Decke, sind sichere Clears oft
-    besser als riskante "Snipes" auf schwer zu treffende Ziele.
+    besser als riskante Präzisionsschüsse auf schwer zu treffende Ziele.
 
 <!-- i18n:section:controls -->
 ### Steuerung
@@ -45,6 +45,7 @@ räumen.
 - **Zielen & Schießen:** Mit Maus oder Touch zielen und tippen/klicken, um die
   Blase abzufeuern; je nach Modus kannst du die nächste Kugel tauschen.
 - **Pause/Neustart:** Über UI‑Buttons.
+- **Pause/Neustart:** Über Buttons in der Oberfläche.
 
 <!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
