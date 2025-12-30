@@ -77,6 +77,5 @@ Das Interface funktioniert klassisch per Maus oder Touch.
 > Der ZOMG ist der zäheste Blimp und enthält vier B.F.B.s. Konzentrierter Schaden durch Tempel, mehrere MOAB Assassin‑Bombentürme und die Fähigkeit `Sabotage Supply Lines` sind der Schlüssel.
 
 <!-- i18n:faq:id=faq:bloons-td-5:are-special-agents-worth-it-5a39ac6f -->
-**5. Lohn sich der Einsatz von Special Agents?**  
+**5. Lohnt sich der Einsatz von Special Agents?**  
 > Ja. Ein `Meerkat Spy` liefert z. B. frühe Tarnsicht, ein `Bloonsday Device` rettet dich vor großen Leaks – ideal für schwere Karten oder Einsteiger.
-

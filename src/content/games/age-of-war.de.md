@@ -38,7 +38,7 @@ Verteidigung und dem richtigen Evolutions‑Timing.
 #### 1. Frühphase (Steinzeit)
 
 *   **Caveman‑Rush:** Eine der effektivsten Eröffnungsstrategien ist das
-    Spammen der günstigsten Einheit, des Keulenmanns. Er ist sehr preiswert und
+    Produzieren der günstigsten Einheit, des Keulenmanns. Er ist sehr preiswert und
     kann den Gegner in den ersten Minuten überrollen.
 *   **Fokus auf XP:** Dein Hauptziel ist es, möglichst schnell XP zu sammeln.
     Dafür musst du gegnerische Einheiten ausschalten. Eine starke Offensive
@@ -85,7 +85,7 @@ Gesteuert wird fast ausschließlich mit der Maus.
 *   **Türme bauen:** Klicke auf freie Turm‑Slots über deiner Basis, um das Bau-
     menü zu öffnen, und wähle einen Turm aus.
 *   **Spezialfähigkeit:** Klicke oben rechts auf das Symbol deiner Fähigkeit,
-    sobald der Cooldown abgelaufen ist.
+    sobald die Abklingzeit abgelaufen ist.
 *   **Evolution:** Klicke oben rechts auf "Evolve", wenn du genug XP gesammelt
     hast.
 
@@ -102,9 +102,8 @@ Gesteuert wird fast ausschließlich mit der Maus.
 
 <!-- i18n:faq:id=faq:age-of-war:q-is-it-better-to-f6ee451c -->
 *   **F: Lieber mehr Turrets bauen oder Einheiten spammen?**
-    *   **A:** Zu Beginn ist ein Mix ideal: 1–2 Turrets sichern die Basis, während du konstant neue Truppen produzierst, um Druck aufzubauen.
+    *   **A:** Zu Beginn ist ein Mix ideal: 1–2 Türme sichern die Basis, während du konstant neue Truppen produzierst, um Druck aufzubauen.
 
 <!-- i18n:faq:id=faq:age-of-war:q-where-can-i-play-d6112852 -->
 *   **F: Wo kann ich Age of War nach dem Ende von Flash spielen?**
     *   **A:** Portale wie CrazyGames, Armor Games oder Kongregate hosten HTML5-/Ruffle-Versionen. Suche nach „Age of War HTML5“, um direkt im modernen Browser zu spielen.
-

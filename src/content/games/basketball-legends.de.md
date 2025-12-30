@@ -55,16 +55,17 @@ dem klugen Einsatz deiner Spezialfähigkeiten ab.
 
 1.  **Nicht wild springen:** Planloses Springen öffnet Lücken zum Korb.
     Bleib meist am Boden und springe nur, wenn du realistisch blocken kannst.
-2.  **Blocks timen:** Stehe zwischen Angreifer und Korb und springe im
-    höchsten Punkt seines Sprungs, um den Ball sauber abzufangen.
+2.  **Blocks richtig timen:** Stehe zwischen Angreifer und Korb und springe im
+    Moment, in dem er am höchsten Punkt seines Sprungs ist, um den Ball sauber
+    abzufangen.
 3.  **Steals einsetzen:** Der Steal/Pump‑Move eignet sich, um schlecht
-    geschützte Dribblings zu bestrafen und schnelle Fastbreaks einzuleiten.
+    geschützte Dribblings zu bestrafen und schnelle Gegenangriffe einzuleiten.
 4.  **Dash zur Rückverfolgung:** Nutze den Dash auch defensiv, um schnell
     zurückzulaufen oder einen offenen Werfer noch rechtzeitig zuzustellen.
 
 ### Steuerung
 
-Das Spiel ist auf zwei Spieler an einem Keyboard ausgelegt.
+Das Spiel ist auf zwei Spieler an einer Tastatur ausgelegt.
 
 #### Spieler 1
 *   Bewegung: `A` / `D`
@@ -104,4 +105,3 @@ Nur geringfügig; die meisten Unterschiede sind kosmetisch. Du kannst also deine
 <!-- i18n:faq:id=faq:basketball-legends:can-i-pass-the-ball-eea2c74f -->
 **5. Kann ich im 2‑gegen‑2 passen?**  
 Ja. Wenn dein Mitspieler frei ist, fungiert die Wurf‑Taste (`B` oder `L`) als Pass, solange du selbst den Ball hältst.
-

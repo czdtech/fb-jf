@@ -22,7 +22,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 Addiction Mini basiert auf der Addiction‑/Monte‑Carlo‑Familie von Patience-
 Spielen. Ziel ist es, Karten in gültigen, meist aufsteigenden Folgen nach Farbe
-oder Farbe/Rank zu sortieren – je nach Spielmodus. Durch geschicktes Verschieben
+oder nach Rot/Schwarz zu sortieren – je nach Spielmodus. Durch geschicktes Verschieben
 öffnest du freie Felder, löst Sackgassen auf und bringst das Layout in die
 richtige Ordnung.
 
@@ -72,4 +72,3 @@ richtige Ordnung.
   **A:** Viele Ausgaben sind bei sorgfältiger Planung gewinnbar, aber je nach
   Zufallslage können einzelne Deals sehr schwierig oder theoretisch unlösbar
   sein.
-
