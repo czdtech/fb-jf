@@ -19,7 +19,7 @@ Stell dir vor, du betrittst ein musikalisches Königreich voller fantastischer
 Atmosphäre: Fiddlebops But Dandy's World wartet darauf, von dir entdeckt zu
 werden! Du sitzt nicht nur vor dem Bildschirm, sondern wirst zum Guide durch
 Dandy's World und führst eine bunt gemischte Truppe von Fiddlebops-Charakteren
- durch überraschende Klanglandschaften.
+durch überraschende Klanglandschaften.
 
 ## Was macht Fiddlebops But Dandy's World so besonders?
 
@@ -32,13 +32,13 @@ Dandy's World jeder von dir gesetzten Note eine Extraportion Energie verleiht.
 
 - **Werde zum Guide Dandy:** Dandy ist nicht nur irgendeine Figur, sondern dein
   wichtigster Begleiter. Er führt dich durch kreative, überraschende Szenen und
-  hilft dir, ständig neue musikalische Ideen zu entdecken.
+  sorgt dafür, dass dir ständig neue musikalische Ideen kommen.
 - **Abenteuer mit der Fiddlebops-Band:** Die Truppe um Big Bear, Bob the
   Builder und Scat Cat steht dir zur Seite und bringt ihre ganz eigenen
   Klänge mit, um jede Ecke von Dandy's World zu erhellen.
 - **Drag & Drop für spontane Inspiration:** Die bekannte, einfache
   Drag-and-Drop-Steuerung bleibt erhalten. Ziehe Sound-Icons auf die Figuren und
-  baue dir im Handumdrehen deinen eigenen Track.
+  baue dir in wenigen Sekunden deinen eigenen Track.
 
 ## Mehr als nur ein Spiel – eine musikalische Reise
 
@@ -52,7 +52,7 @@ Was macht den Mod so fesselnd?
 - **Einfacher Einstieg:** Egal, ob du schon Musikspiele kennst oder nicht – die
   Steuerung ist schnell verstanden, der Spaß beginnt sofort.
 - **Unendliche Kombinationsmöglichkeiten:** Die vielen unterschiedlichen
-  Sounds und Figuren erlauben dir, immer wieder neue Mixes zu erschaffen.
+  Sounds und Figuren erlauben dir, immer wieder neue Mixe zu erschaffen.
 - **Ständige Entdeckungen:** Hinter jeder neuen Kombination kann sich ein
   unerwarteter Moment verbergen – jede Session fühlt sich ein bisschen anders
   an.

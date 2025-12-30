@@ -19,9 +19,9 @@ releaseDate: 2025-12-04
 <!-- i18n:section:introduction -->
 ### Einführung in Incredibox
 
-Mit Incredibox kannst du im Handumdrehen eigene Tracks mit einer Gruppe
-Beatboxer bauen. Das Spiel ist Mischung aus **Musikspiel und
-Beatbox-Studio** – eine einfache Oberfläche, viele kreative Möglichkeiten.
+Mit Incredibox baust du in wenigen Augenblicken eigene Tracks – zusammen mit
+einer Crew von Beatboxern. Das Spiel ist halb **Musikspiel**, halb
+**Beatbox-Studio**: leicht zu bedienen, aber voller kreativer Möglichkeiten.
 
 <!-- i18n:section:how-to-play -->
 ### Wie spielt man Incredibox?
@@ -29,9 +29,9 @@ Beatbox-Studio** – eine einfache Oberfläche, viele kreative Möglichkeiten.
 Das Kernprinzip ist erfreulich einfach:
 
 - **Charaktere wählen:** Auf dem Bildschirm stehen mehrere Beatboxer, jeder
-  steht für ein anderes Sound- oder Musikelement.
+  steht für ein eigenes Sound- oder Musikelement.
 - **Icons ziehen:** Ziehe die Symbole aus der Leiste auf die Figuren, um ihnen
-  Loops zuzuweisen – Beats, Effekte, Melodien oder Vocals.
+  Loops zuzuweisen: Beats, Effekte, Melodien oder Vocals.
 - **Mix erstellen:** Probiere unterschiedliche Kombinationen aus, entdecke
   eigene Grooves und erzeuge deinen persönlichen Song.
 
@@ -39,8 +39,8 @@ Das Kernprinzip ist erfreulich einfach:
 
 ### Die wichtigsten Versionen von Incredibox
 
-Der Kern bleibt gleich, aber jede Version bringt eigene Sounds, Looks und
-Themen mit:
+Die Grundidee bleibt gleich, aber jede Version hat eigene Sounds, Looks und
+Themen:
 
 - **V1 Alpha:** Der Anfang – klassisches Beatboxing mit Jazz-/Funk-Einschlag,
   Scratches und tiefen Basslines.
@@ -82,6 +82,6 @@ Mit ein paar Kniffen holst du mehr aus deinen Tracks heraus:
 
 ### Fazit
 
-Mit der leicht verständlichen Bedienung, dem starken Artstyle und den vielen
+Mit der leicht verständlichen Bedienung, dem starken Look und den vielen
 Klangvarianten ist Incredibox ein idealer Einstieg ins Musizieren – egal, ob du
-Beatbox-Fan oder einfach nur neugierig bist.
+Beatbox-Fan bist oder einfach neugierig.

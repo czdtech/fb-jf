@@ -24,10 +24,10 @@ Kurz gesagt: Sprunkgerny ist der wahnsinnige Cousin von Sprunki. Es wirft den Ho
 
 ### Was macht Sprunkgerny so besonders?
 
-- **Surreale Figuren und Themen:** Mach dich bereit für eine Traumwelt voller bizarrer Charaktere. Mit übertriebenen Bewegungen und Cartoon-Animationen verwandeln sie deine Beats in ein schräges, visuelles Spektakel.
-- **Abgedrehte Sound-Bibliothek:** Klassische Instrumente treten in den Hintergrund. Stattdessen bekommst du schräge Klänge, experimentelle Beats und witzige Vocals, die deine Kompositionen gleichzeitig seltsam und einprägsam machen.
+- **Surreale Figuren und Themen:** Mach dich bereit für eine Traumwelt voller bizarrer Charaktere. Mit übertriebenen Bewegungen und Comic-Animationen verwandeln sie deine Beats in ein schräges, visuelles Spektakel.
+- **Abgedrehte Sound-Bibliothek:** Klassische Instrumente treten in den Hintergrund. Stattdessen bekommst du schräge Klänge, experimentelle Beats und witzige Gesangseffekte, die deine Kompositionen gleichzeitig seltsam und einprägsam machen.
 - **Interaktive Effekte:** Während deine Musik läuft, verändert sich auch der Hintergrund dynamisch – verzerrte Landschaften, abstrakte Formen und flackernde Details, die sich perfekt zum Rhythmus bewegen.
-- **Versteckte Easter Eggs:** Probiere ungewöhnliche Sound-Kombinationen aus, um geheime Szenen, Mini-Stories oder besondere Effekte freizuschalten. Jede neue Mischung kann eine Überraschung verbergen.
+- **Versteckte Extras:** Probiere ungewöhnliche Sound-Kombinationen aus, um geheime Szenen, Mini-Stories oder besondere Effekte freizuschalten. Jede neue Mischung kann eine Überraschung verbergen.
 
 ---
 
@@ -36,4 +36,3 @@ Kurz gesagt: Sprunkgerny ist der wahnsinnige Cousin von Sprunki. Es wirft den Ho
 Wenn du ein Musikerlebnis suchst, das sich nicht an Regeln hält, ist Sprunkgerny ideal. Das Spiel bricht mit den Konventionen klassischer Rhythmus-Games, ermutigt dich, Fehler zuzulassen, mit Zufall zu spielen und einfach neugierig zu experimentieren. So kannst du beim Herumprobieren ganz nebenbei kreative Ideen entdecken.
 
 Egal, ob du schon jede Menge Musikspiele kennst oder zum ersten Mal Beats baust: In Sprunkgernys verrücktem Klanglabor findest du deinen eigenen Flow. Bist du bereit für dieses abgefahrene Audio-Feuerwerk? Tauche in die Welt von Sprunkgerny ein und lass deinen Rhythmus komplett ausrasten.
-

@@ -19,7 +19,7 @@ Hey Musikbastler! Hast du dich schon mal gefragt, was passiert, wenn man das
 klassische Fiddlebops-Gameplay mit der verrückten, bunten Welt von Sprunki
 mischt? Genau das liefert dir FiddleBops but Sprunki! Dieser Mod lässt dich zu
 vertrauten Rhythmen grooven und gleichzeitig den frischen, energiegeladenen
-Sprunki-Style erleben.
+Sprunki-Stil erleben.
 
 ### Was steckt hinter FiddleBops but Sprunki?
 
@@ -40,7 +40,7 @@ Die Steuerung bleibt super intuitiv und du bist in Sekunden drin:
   mehr du herumexperimentierst, desto mehr versteckte Klangkombinationen und
   Überraschungen findest du.
 - **Tracks teilen:** Wenn dir ein Mix besonders gut gefällt, speichere ihn (so
-  weit dein Host es zulässt) und teile ihn mit der Sprunki- und Fiddlebops-
+  weit es deine Plattform zulässt) und teile ihn mit der Sprunki- und Fiddlebops-
   Community.
 
 ### Warum lohnt sich FiddleBops but Sprunki?
@@ -52,12 +52,13 @@ Die Steuerung bleibt super intuitiv und du bist in Sekunden drin:
 - **Aufgefrischte Optik:** Überarbeitete Hintergründe und Effekte lassen FiddleBops
   but Sprunki visuell deutlich moderner wirken.
 - **Klassisches Gameplay, neues Gefühl:** Die Drag-and-Drop-Mechanik bleibt,
-  aber das Gesamtpaket fühlt sich dank Sprunki-Vibe komplett anders an.
+  aber das Gesamtpaket fühlt sich dank Sprunki-Feeling komplett anders an.
 
 ### Warum solltest du FiddleBops but Sprunki unbedingt ausprobieren?
 
 Wenn du Fiddlebops oder Sprunki magst, ist FiddleBops but Sprunki genau dein
 Ding – ein frischer Mix aus zwei Welten, perfekt zum kreativen Ausprobieren.
 
-Kurz gesagt: FiddleBops but Sprunki ist ein musikalisches Abenteuer voller kleiner Überraschungen. Probier den Mod aus und lass dich von den skurrilen Sprunki-Figuren durch ein neues Fiddlebops-Kapitel begleiten.
-
+Kurz gesagt: FiddleBops but Sprunki ist ein musikalisches Abenteuer voller
+kleiner Überraschungen. Probier den Mod aus und lass dich von den skurrilen
+Sprunki-Figuren durch ein neues Fiddlebops-Kapitel begleiten.

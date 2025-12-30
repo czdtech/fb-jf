@@ -113,8 +113,8 @@ Ziehen/Ablegen.
         sie zu pflanzen.
     *   Halte ein Werkzeug wie die Gießkanne gedrückt und ziehe über mehrere
         Felder, um eine Reihe von Pflanzen in einem Zug zu bewässern.
-    *   Platziere Dekorationen im Garten, indem du sie per Drag-and-drop an die
-        gewünschte Stelle ziehst.
+    *   Platziere Dekorationen im Garten, indem du sie an die gewünschte Stelle
+        ziehst und ablegst.
 
 <!-- i18n:section:faq -->
 ### **Häufige Fragen (FAQ)**
@@ -123,7 +123,7 @@ Ziehen/Ablegen.
 **1. Soll ich zuerst Samen oder Dekorationen kaufen?**  
 Am Anfang solltest du immer **Samen und zusätzliche Felder** priorisieren.
 Dekoration ist schön, bringt aber meist kein direktes Einkommen. Konzentriere
-Dich zunächst auf Ertrag, bevor du in aufwendige Gestaltung investierst.
+dich zunächst auf Ertrag, bevor du in aufwendige Gestaltung investierst.
 
 <!-- i18n:faq:id=faq:grow-a-garden:why-did-my-plants-wither-ac609727 -->
 **2. Warum sind meine Pflanzen verwelkt?**  

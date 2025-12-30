@@ -20,16 +20,25 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 *Steal a Brainrot* ist ein beliebtes Multiplayer-Action-Stealth-Spiel auf der Roblox-Plattform mit einem Kern-Gameplay-Loop, der sich um ein humorvolles und absurdes Ziel dreht: **Infiltriere einen stark bewachten Bereich, stiehl einen personifizierten Internet-„Brainrot"-Charakter und bring ihn erfolgreich zurück zu deiner Basis.**
 
-Das Spiel verbindet das klassische „Capture the Flag"- oder „Heist"-Genre mit der aktuellsten Internet-Meme-Kultur. Statt Schätze oder Dokumente zu stehlen, haben Spieler die Aufgabe, ikonische „Brainrot"-Charaktere wie **Skibidi Toilet, Sigma Face, The Rizzler** und andere zu schnappen.
+Das Spiel verbindet das klassische „Capture the Flag"- oder „Heist"-Genre mit
+aktueller Internet-Meme-Kultur. Statt Schätze oder Dokumente zu stehlen, haben
+Spieler die Aufgabe, ikonische „Brainrot"-Charaktere wie **Skibidi Toilet,
+Sigma Face, The Rizzler** und andere zu schnappen.
 
-Die Spielkarte ist typischerweise als komplexes Gebiet mit Hindernissen, Fallen und patrouillierenden Wachen gestaltet. Spieler müssen das Terrain, verschiedene Gadgets und Teamwork nutzen, um den Sichtlinien der Wachen auszuweichen, Sicherheitssysteme zu deaktivieren und schließlich das Ziel-„Brainrot" zu erreichen. Sobald sie es „gefangen" haben, müssen sie es auf einer oft gefährlicheren Fluchtroute zurückbringen, um Punkte zu erzielen oder zu gewinnen.
+Die Karte ist typischerweise als komplexes Gebiet mit Hindernissen, Fallen und
+patrouillierenden Wachen gestaltet. Spieler müssen das Terrain, verschiedene
+Gadgets und Teamwork nutzen, um den Sichtlinien der Wachen auszuweichen,
+Sicherheitssysteme zu deaktivieren und schließlich das Ziel-„Brainrot" zu
+erreichen. Sobald sie es „gefangen" haben, müssen sie es auf einer oft
+gefährlicheren Fluchtroute zurückbringen, um Punkte zu erzielen oder zu
+gewinnen.
 
 Der Spaß des Spiels ergibt sich größtenteils aus seinen chaotischen, unvorhersehbaren Multiplayer-Interaktionen und dem komischen Effekt, ernstes Stealth-Gameplay mit lächerlichen Internet-Memes zu kombinieren.
 
 <!-- i18n:section:tips -->
 ### **Gameplay-Strategie & Tipps**
 
-1. **Aufklärung ist die halbe Miete:** Stürze dich nicht blind am Anfang hinein. Nimm dir einen Moment, um das Kartenlayout und die Patrouillenrouten der Wachen zu beobachten. Identifiziere Kamera-Blindspots, Verstecke und die kürzesten, sichersten Wege zum Ziel.
+1. **Aufklärung ist die halbe Miete:** Stürze dich nicht blind am Anfang hinein. Nimm dir einen Moment, um das Kartenlayout und die Patrouillenrouten der Wachen zu beobachten. Achte auf tote Winkel der Kameras, Verstecke und die kürzesten, sichersten Wege zum Ziel.
 2. **Teamwork ist entscheidend:** Das ist primär ein teambasiertes Spiel. Rollen zuzuweisen kann deine Erfolgschancen erheblich steigern.
     * **Köder:** Ein Spieler kann absichtlich die Aufmerksamkeit der Wachen auf sich ziehen, um anderen eine Öffnung zum Vorbeischleichen zu schaffen.
     * **Support:** Andere Spieler können sich darauf konzentrieren, Fallen zu deaktivieren oder verschlossene Türen zu öffnen.
@@ -71,4 +80,3 @@ Es ist ein Internet-Slangbegriff für virale Online-Inhalte von geringer Qualit�
 <!-- i18n:faq:id=faq:steal-a-brainrot:what-is-the-objective-to-b300ad36 -->
 **4. Was ist das Ziel, um das Spiel zu gewinnen?**
 Typischerweise ist das Ziel, dass ein Team das „Brainrot" erfolgreich stiehlt und innerhalb eines Zeitlimits am häufigsten zu seiner Basis zurückbringt. Andere Spielmodi könnten existieren, wie den Heist komplett unentdeckt abzuschließen.
-
