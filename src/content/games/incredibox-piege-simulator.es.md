@@ -64,9 +64,9 @@ Este mod usa la interfaz de clics sencilla típica de la serie Simulator.
 *   **Combinar sonidos:** Puedes activar varios iconos a la vez para construir
     tu pista.
 *   **Controles principales (arriba a la izquierda):**
-    *   **Play:** inicia o detiene todo el loop.
-    *   **Record:** empieza o termina la grabación de tu mezcla.
-    *   **Reset:** limpia todos los sonidos activos para empezar de cero.
+    *   **Reproducir/Pausar:** inicia o detiene todo el loop.
+    *   **Grabar:** empieza o termina la grabación de tu mezcla.
+    *   **Reiniciar:** limpia todos los sonidos activos para empezar de cero.
 
 <!-- i18n:section:faq -->
 ### **Preguntas frecuentes (FAQ)**
@@ -87,4 +87,3 @@ capas rítmicas con mucha precisión.
 No está en plataformas oficiales. Mods como *Piège* suelen compartirse en sitios
 como **Newgrounds**, **playfiddlebops.com** o mostrarse en YouTube con enlaces
 para jugarlos en navegador.
-

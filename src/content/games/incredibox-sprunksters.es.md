@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: incredibox-sprunksters
-title: "Incredibox Sprunksters - Play Incredibox Sprunksters Online"
+title: "Incredibox Sprunksters - Juega Incredibox Sprunksters en línea"
 description: >-
   Di adiós a los sonidos de siempre. Incredibox Sprunksters trae nuevas
   muestras y efectos, haciendo que tus temas suenen frescos, creativos y con
@@ -25,22 +25,22 @@ montón de posibilidades.
 
 ### ¿Qué es exactamente Incredibox Sprunksters?
 
-Incredibox Sprunksters es tu ticket a una aventura musical donde compones beats
+Incredibox Sprunksters es tu pase a una aventura musical donde compones ritmos
 con un grupo de personajes con muchísimo estilo. Mantiene la jugabilidad clásica
- de arrastrar y soltar de Incredibox —eliges un personaje, lo subes al escenario
+y de arrastrar y soltar de Incredibox —eliges un personaje, lo subes al escenario
 y lo dejas hacer su magia—, pero con un toque Sprunksters muy particular. ¿Lo
 mejor? No hay notas incorrectas: solo libertad creativa total para experimentar
- y combinar sonidos.
+y combinar sonidos.
 
 ### ¿Cómo empezar en Incredibox Sprunksters?
 
 Es muy fácil ponerse en marcha:
 
-- **Elige a tus intérpretes:** tienes una alineación de carismáticos personajes
+- **Elige a tus intérpretes:** tienes un plantel de carismáticos personajes
   Sprunksters, cada uno asociado a distintos instrumentos o efectos.
 - **Arrastra y mezcla:** arrastra los personajes que quieras al escenario; sus
   sonidos se añaden de inmediato a tu pista.
-- **Súbelo de capa:** sigue añadiendo personajes y probando distintas capas de
+- **Añade capas:** sigue añadiendo personajes y probando distintas capas de
   sonido. Verás (y oirás) cómo la música se vuelve más rica e interesante.
 - **Experimenta para encontrar la magia:** la gracia de Incredibox Sprunksters
   está en jugar. Cambia personajes, prueba combinaciones raras y quizá descubras
@@ -49,9 +49,9 @@ Es muy fácil ponerse en marcha:
 ### El giro único de Incredibox Sprunksters
 
 ¿Listo para una sorpresa? Incredibox Sprunksters esconde un truco especial. Si
-arrastrás al escenario al personaje con sombrero negro y luego lo retiras, ¡BUM!
+arrastras al escenario al personaje con sombrero negro y luego lo retiras, ¡BUM!
 Todo cambia a un "mundo alternativo" más oscuro y caótico. Ese reino oculto
-viene con otro set de sonidos y una atmósfera diferente, perfecta para explorar
+viene con otro conjunto de sonidos y una atmósfera diferente, perfecta para explorar
 un estilo musical completamente nuevo.
 
 ### ¿Por qué deberías probar Incredibox Sprunksters?
@@ -65,7 +65,7 @@ un estilo musical completamente nuevo.
   veteranos.
 - **Ese lado oscuro oculto:** el "mundo alternativo" que se puede activar añade
   capas de exploración y sorpresa.
-- **Juega donde quieras:** puedes jugar directamente online en sitios como
+- **Juega donde quieras:** puedes jugar directamente en línea en sitios como
   playfiddlebops.com, sin descargas.
 
 ### En resumen
@@ -75,4 +75,5 @@ sorpresas. Con sus personajes carismáticos, su paleta sonora fresca y ese modo
 alternativo oculto, ofrece una experiencia única. No lo dudes: sumérgete en el
 mundo de Incredibox Sprunksters y empieza a crear beats raros y geniales desde
 ya.
-
+mundo de Incredibox Sprunksters y empieza a crear ritmos raros y geniales desde
+ya.

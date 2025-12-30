@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: incredibox-donki-abgerny
-title: "Incredibox Donki Abgerny - Play Incredibox Donki Abgerny Online"
+title: "Incredibox Donki Abgerny - Juega Incredibox Donki Abgerny en línea"
 description: >-
   Incredibox Donki Abgerny mezcla ritmos tribales profundos, didyeridús únicos y
   cantos llenos de alma con la jugabilidad clásica de Incredibox.
@@ -27,7 +27,7 @@ inmersivo en el que parece que estás en el corazón de una tribu ancestral.
 Imagina que ya no solo arrastras y sueltas iconos, sino que lideras a una tribu
 de beatboxers inspirados en el arte y los sonidos de la cultura aborigen
 australiana. Incredibox Donki Abgerny infunde ritmos tribales profundos,
- didyeridús únicos y cantos llenos de alma en la jugabilidad clásica de
+didyeridús únicos y cantos llenos de alma en la jugabilidad clásica de
 Incredibox. El diseño y el sonido de cada personaje capturan la esencia de una
 cultura antigua, permitiéndote sentir ese poder misterioso de la antigüedad
 mientras creas música.
@@ -55,8 +55,8 @@ función del ritmo cambiante para mantener la armonía y el groove. El juego pon
   personajes, estilos musicales y niveles más exigentes, ampliando sin parar tu
   biblioteca de música tribal.
 - **Toca con amigos (en algunas versiones):** Ciertas versiones de Incredibox
-  Donki Abgerny admiten colaboración multijugador. Llama a tus amigos y cread
-  juntos piezas tribales épicas.
+  Donki Abgerny admiten colaboración multijugador. Invita a tus amigos para
+  crear juntos piezas tribales épicas.
 
 
 ### ¿Por qué engancha tanto Incredibox Donki Abgerny?
@@ -84,4 +84,3 @@ como si eres un amante de los juegos de ritmo que busca algo nuevo, Incredibox
 Donki Abgerny te llevará a un viaje inolvidable lleno de groove y sorpresas.
 ¿Listo para unirte a esta tribu musical ancestral y superar el reto con tu
 sentido del ritmo?
-

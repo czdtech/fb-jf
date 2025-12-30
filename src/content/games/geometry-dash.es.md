@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: geometry-dash
-title: "Geometry Dash Wave Spam - Juega Geometry Dash Online"
+title: "Geometry Dash Wave Spam - Juega Geometry Dash en línea"
 description: >-
   Aquí no hay adornos. Geometry Dash Wave Spam es un modo solo Wave, puro y
   sin filtros, pensado para romperte y volver a forjar tus reflejos: nada de
@@ -43,4 +43,3 @@ concentración.
 - **Intentos cortos e intensos:** El nivel está pensado para intentos rápidos y
   explosivos. Aprende, adáptate y vuelve a intentarlo una y otra vez, cada vez
   más rápido y preciso.
-

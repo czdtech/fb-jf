@@ -35,7 +35,7 @@ Una de las señas de identidad de Happy Wheels es la enorme cantidad de
 **contenido creado por usuarios**. El juego incluye un potente editor de
 niveles que permite construir y compartir circuitos complejos, creativos y, a
 menudo, sádicos. Gracias a esto hay prácticamente niveles infinitos: carreras
-simples, puzles elaborados, rope swings, retos imposibles, deathruns, etc.
+simples, puzles elaborados, columpios con cuerda, retos imposibles, deathruns, etc.
 
 <!-- i18n:section:tips -->
 ### **Estrategia y consejos de juego**
@@ -64,7 +64,7 @@ simples, puzles elaborados, rope swings, retos imposibles, deathruns, etc.
    despedidos del vehículo. Es un recurso de último momento para lanzar el
    cuerpo por encima de un hueco cuando el vehículo está destruido o atascado.
 6. **Explora distintos tipos de niveles:** No te limites a los niveles
-   destacados. Usa el navegador de niveles: busca términos como "puzzle",
+   destacados. Usa el navegador de niveles: busca términos como "puzle",
    "rope swing" o "BMX" para descubrir mapas muy distintos creados por la
    comunidad.
 
@@ -121,4 +121,3 @@ contenido.
 Los niveles muy grandes o cargados de objetos pueden ser pesados para el
 navegador. Cierra otras pestañas y aplicaciones, prueba con otro navegador o
 un equipo más potente para mejorar el rendimiento.
-
