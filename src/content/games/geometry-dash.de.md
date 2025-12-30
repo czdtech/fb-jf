@@ -25,7 +25,7 @@ pixelgenauer Tunnel voller Stacheln.
 Dieses Level ist als Trainingsarena gedacht: Eine brutale, minimalistische
 Prüfung, bei der nur Muskelgedächtnis und Rhythmusgefühl zählen. Die Korridore
 sind extrem eng, jeder Tap zu früh oder zu spät bedeutet sofortiges Scheitern.
-Es gibt kein Glück und keine Abkürzungen – nur reines Skill-Checking.
+Es gibt kein Glück und keine Abkürzungen – nur ein reiner Skill-Check.
 
 Wenn du dem Druck nicht standhältst, bist du in Sekunden draußen. Wenn du aber
 deine Wave wirklich meistern willst und deine Reflexe bis aufs Äußerste
@@ -40,4 +40,3 @@ Lektion in Kontrolle.
   Steuerung verlangen; ein Pixel entscheidet über Sieg oder Reset.
 - **Kurze, intensive Versuche:** Das Level ist darauf ausgelegt, schnell zu
   scheitern, schnell zu lernen und sofort wieder zu starten.
-
