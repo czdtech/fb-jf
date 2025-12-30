@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: fiddlebops-but-sprunki
-title: "FiddleBops but Sprunki - Juega FiddleBops but Sprunki Online"
+title: "FiddleBops but Sprunki - Juega a FiddleBops but Sprunki en línea"
 description: >-
   FiddleBops but Sprunki es un crossover increíble: mantiene el núcleo
   adictivo de creación musical de Fiddlebops, pero sustituye a todos los
@@ -78,4 +78,3 @@ que demuestra lo divertido que puede ser mezclar lo clásico con lo creativo.
 Dale una oportunidad a FiddleBops but Sprunki y deja que estos extravagantes
 personajes Sprunki te ayuden a escribir un nuevo capítulo en el universo
 Fiddlebops.
-

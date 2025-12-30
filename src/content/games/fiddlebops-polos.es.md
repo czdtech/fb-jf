@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: fiddlebops-polos
-title: "Fiddlebops Polos - Juega Fiddlebops Polos Online"
+title: "Fiddlebops Polos - Juega a Fiddlebops Polos en línea"
 description: >-
   Fiddlebops Polos es un creativo juego de música en el que compones pistas,
   exploras historias interactivas y conectas con una comunidad vibrante, todo
@@ -18,7 +18,7 @@ releaseDate: 2025-12-04
 ### ¿Qué hace especial a Fiddlebops Polos?
 
 Fiddlebops Polos no es un juego más en la multitud; es un innovador juego de
-creación musical online que te invita a un mundo lleno de personajes
+creación musical en línea que te invita a un mundo lleno de personajes
 originales y paisajes sonoros únicos. Su propósito es ofrecer tanto a
 principiantes como a músicos con experiencia un espacio para crear, probar
 ideas y conectar con otras personas a través de la música.
@@ -58,4 +58,3 @@ creativa que estabas buscando, te recomiendo mucho darle una oportunidad.
 
 Ahora es tu turno de subir al escenario y prender fuego al mundo al puro
 estilo Fiddlebops Polos.
-

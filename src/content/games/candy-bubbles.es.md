@@ -4,8 +4,8 @@ urlstr: candy-bubbles
 title: "Candy Bubbles"
 description: >-
   Entra en un mundo dulce y revienta burbujas de caramelo de colores. Apunta el
-  cañón, combina tres o más y limpia el tablero en este encantador bubble
-  shooter de puzles.
+  cañón, combina tres o más y limpia el tablero en este encantador puzle de
+  burbujas.
 iframeSrc: 'https://candybubbles.h5games.usercontent.goog/v/370v1t5h5266g/'
 thumbnail: /new-images/thumbnails/candy-bubbles.png
 tags:
@@ -20,7 +20,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 <!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
-Candy Bubbles es una versión dulce y colorida del clásico género bubble shooter.
+Candy Bubbles es una versión dulce y colorida del clásico juego de disparar burbujas.
 En un escenario lleno de caramelos, tu objetivo es limpiar la pantalla de
 burbujas de caramelo. Apunta el cañón, dispara y forma grupos de tres o más del
 mismo color para hacerlas estallar. Con cientos de niveles, retos estratégicos y
@@ -30,7 +30,7 @@ todas las edades.
 <!-- i18n:section:tips -->
 ### Estrategia y recorrido de juego
 
-1.  **Apunta alto:** Como en todo buen bubble shooter, lo más efectivo es buscar
+1.  **Apunta alto:** Como en cualquier buen juego de disparar burbujas, lo más efectivo es buscar
     coincidencias en la parte superior. Al romper un grupo que sostiene otros
     por debajo, todas las burbujas colgantes caerán, limpiando grandes zonas y
     sumando muchos puntos.
@@ -74,4 +74,3 @@ todas las edades.
     *   **R:** Intenta dispararlo a una zona donde moleste lo menos posible o
         donde pueda servirte más adelante. Si el modo permite intercambio,
         comprueba si la siguiente burbuja ofrece una mejor opción.
-

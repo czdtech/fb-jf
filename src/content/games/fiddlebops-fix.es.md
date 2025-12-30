@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: fiddlebops-fix
-title: "Fiddlebops Fix - Juega Fiddlebops Fix Online"
+title: "Fiddlebops Fix - Juega a Fiddlebops Fix en línea"
 description: >-
   Fiddlebops Fix es un creativo juego de música en el que compones pistas,
   exploras historias interactivas y conectas con una comunidad vibrante, todo
@@ -17,7 +17,7 @@ releaseDate: 2025-12-04
 
 ### ¿Qué hace especial a Fiddlebops Fix?
 
-Fiddlebops Fix no es un juego más en la lista; es un innovador juego online de
+Fiddlebops Fix no es un juego más en la lista; es un innovador juego en línea de
 creación musical que te invita a un mundo lleno de personajes originales y
 paisajes sonoros únicos. Su objetivo es ofrecer tanto a quienes empiezan como a
 músicos veteranos una forma divertida de crear y conectar con otras personas a
@@ -58,4 +58,3 @@ creativa que estabas buscando, merece mucho la pena darle una oportunidad.
 
 Ahora es tu turno de subir al escenario y encender el mundo al estilo
 Fiddlebops Fix.
-

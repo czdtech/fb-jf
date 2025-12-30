@@ -3,8 +3,8 @@ locale: es
 urlstr: emoji-with-friends
 title: "Emoji With Friends"
 description: >-
-  Emoji With Friends es un party‑puzzle ligero: empareja, deduce y compite con
-  tus amigos usando la lógica de los emojis.
+  Emoji With Friends es un juego de puzles ligero: empareja, deduce y compite
+  con tus amigos usando la lógica de los emojis.
 iframeSrc: 'https://2gtc787tjm7c8.h5games.usercontent.goog/v/5lfna7ldlrun8/'
 thumbnail: /new-images/thumbnails/emoji-with-friends.png
 tags:
@@ -68,4 +68,3 @@ amigos.
 - **P: ¿Cuánto dura una ronda típica?**  
   **R:** Generalmente menos de un par de minutos, ideal para partidas rápidas o
   "rellenar huecos" entre otras actividades.
-
