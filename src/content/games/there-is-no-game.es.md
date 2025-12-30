@@ -3,7 +3,7 @@ locale: es
 urlstr: there-is-no-game
 title: There is no game - Meta aventura de puzles
 description: >-
-  Vive la singular aventura meta‑puzzle de There is no game. Desafía a un
+  Vive la singular aventura meta‑puzle de There is no game. Desafía a un
   narrador sarcástico, rompe la cuarta pared y resuelve puzles nada
   convencionales haciendo clic y arrastrando elementos. Este juego, divertido y
   desconcertante, pone a prueba tu idea de lo que puede ser un videojuego.
@@ -54,4 +54,3 @@ Son puzles poco convencionales que suelen implicar manipular la propia interfaz,
 La versión original de "There is no game" es relativamente corta y está
 planteada como una aventura point-and-click compacta. Además existe una secuela
 más larga y completa llamada "There Is No Game: Wrong Dimension".
-

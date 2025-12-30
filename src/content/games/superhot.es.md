@@ -3,7 +3,7 @@ locale: es
 urlstr: superhot
 title: 'Superhot'
 description: >-
-  Superhot es un innovador shooter en primera persona en el que el tiempo solo
+  Superhot es un innovador juego de disparos en primera persona en el que el tiempo solo
   avanza cuando tú te mueves, creando una mezcla única de puzle táctico y
   acción estratégica.
 iframeSrc: 'https://superhotgame.com/superhot-prototype-iframe'
@@ -20,7 +20,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:section:introduction -->
 ### Introducción al juego
 
-Superhot es un shooter en primera persona muy particular: el tiempo casi se
+Superhot es un juego de disparos en primera persona muy particular: el tiempo casi se
 congela si estás quieto y solo fluye cuando te mueves. Esto convierte cada
 encuentro en un pequeño puzle táctico donde planificas con calma y luego
 resuelves con precisión quirúrgica.
@@ -65,4 +65,3 @@ resuelves con precisión quirúrgica.
 4.  **P: ¿Cuántos niveles tiene el prototipo?**  
   **R:** la versión prototype incluye varios niveles cortos, cada uno con
   disposiciones de enemigos y retos distintos.
-

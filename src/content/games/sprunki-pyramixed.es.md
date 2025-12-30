@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: sprunki-pyramixed
-title: 'Sprunki Pyramixed 0.9 - Juega a Sprunki Pyramixed 0.9 online'
+title: 'Sprunki Pyramixed 0.9 - Juega a Sprunki Pyramixed 0.9 en línea'
 description: >-
   Sprunki Pyramixed 0.9 es un juego innovador de creación musical que rompe
   con los límites del género y combina a la perfección el ritmo con un diseño de
@@ -40,7 +40,7 @@ musical» ideal.
   la perfección con tu personalidad, el editor ofrece un montón de opciones
   para que crees un avatar musical exclusivo, de la cabeza a los pies.
 - **Diseño de sonido por capas:** puedes construir piezas complejas superponiendo
-  distintos beats y efectos, dando rienda suelta a tu talento musical.
+  distintos ritmos y efectos, dando rienda suelta a tu talento musical.
 - **Animaciones llenas de vida:** cuando tu tema «salta» a la pantalla,
   Sprunki Pyramixed 0.9 lo acompaña con animaciones muy llamativas que
   hacen tu creación aún más viva.
@@ -69,4 +69,3 @@ creación musical donde la personalización y el ritmo se fusionan en una
 experiencia interactiva inolvidable. Únete a su comunidad, comparte tus temas y,
 tanto si eres fan de los juegos de ritmo como si estás empezando en la música,
 aprovecha este espacio lleno de posibilidades para expresarte.
-

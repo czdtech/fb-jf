@@ -3,7 +3,7 @@ locale: es
 urlstr: zombie-ragdoll
 title: "Zombie Ragdoll - Cadáveres como munición"
 description: >-
-  Zombie Ragdoll es un shooter de físicas con ragdolls: lanza cuerpos,
+  Zombie Ragdoll es un juego de disparos con físicas y ragdolls: lanza cuerpos,
   activa trampas y resuelve puzles provocando espectaculares reacciones en
   cadena.
 iframeSrc: "https://04qb5fhi49qmg.h5games.usercontent.goog/v/64br0v92f7928/"
@@ -46,5 +46,4 @@ Zombie Ragdoll es un puzle de disparos en el que lanzas cuerpos de zombi tipo ra
 <!-- i18n:faq:id=faq:zombie-ragdoll:shots-feel-random-2886f531 -->
 - **Q: Siento que los disparos son muy aleatorios.**  
   **A:** Toma uno o dos tiros de exploración y, a partir de ahí, ajusta en pequeños incrementos el ángulo o la potencia en lugar de cambiarlo todo de golpe.
-
 

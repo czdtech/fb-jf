@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: sprunki-retake
-title: "Sprunki Retake 🔥 Juega a Sprunki Retake online"
+title: "Sprunki Retake 🔥 Juega a Sprunki Retake en línea"
 description: >-
   Si te gustan los juegos de ritmo y además disfrutas con toques de terror,
   Sprunki Retake te va a enganchar: mantiene el encanto creativo de la serie
@@ -52,14 +52,14 @@ son:
 ### Puntos fuertes de Sprunki Retake
 
 - **Efectos sonoros de terror:** utiliza efectos inquietantes para construir
-  tu propia banda sonora de horror; la combinación entre ritmo y miedo es
+  tu propia banda sonora de terror; la combinación entre ritmo y miedo es
   brutal.
 - **Personajes personalizables:** desbloquea personajes con estilos únicos, cada
   uno con sonidos «oscuros» propios que encajan a la perfección en tus
   composiciones.
 - **Remix sin límites:** mueve, mezcla y remezcla personajes para crear ritmos
   únicos y poner a prueba tu creatividad musical.
-- **Easter eggs:** descubre combinaciones ocultas de sonidos que desbloquean
+- **Huevos de Pascua:** descubre combinaciones ocultas de sonidos que desbloquean
   animaciones especiales y contenido extra.
 - **Experimentación total:** juega con todo tipo de capas y efectos hasta dar
   con tu propia firma sonora.
@@ -83,5 +83,4 @@ Sprunki Retake hereda todo lo mejor de las entregas anteriores, pero añade
 capas nuevas de tensión y frescura. Tanto si llevas tiempo en la saga como si
 acabas de descubrirla, aquí vas a encontrar tu propio tipo de diversión. ¿Listo
 para gritar un poco? Adelante.
-
 

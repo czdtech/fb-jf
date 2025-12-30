@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: sprunki-phase-8
-title: 'Sprunki Phase 8 - Juega a Sprunki Phase 8 online'
+title: 'Sprunki Phase 8 - Juega a Sprunki Phase 8 en línea'
 description: >-
   Sprunki Phase 8 es un experimento valiente que combina la creación musical con
   una estética de terror. Es una plataforma llena de misterio y creatividad que
@@ -26,7 +26,7 @@ elementos de terror y una atmósfera inquietante.
 
 Imagina la experiencia de creación musical que ya conoces, ahora envuelta en una
 vibra tan extraña como perturbadora. Esa es la esencia de Sprunki Phase 8: une
-la diversión de componer con elementos de horror que ponen los nervios a flor de
+la diversión de componer con elementos de terror que ponen los nervios a flor de
 piel, construyendo una experiencia inmersiva pensada para quienes disfrutan de
 los sobresaltos y de una estética más oscura.
 
@@ -42,7 +42,7 @@ los sobresaltos y de una estética más oscura.
   perturbadoras.
 - **Visuales reforzados y más libertad creativa:** no solo se ha cuidado el
   audio; todo el apartado visual se ha rediseñado para intensificar la
-  atmósfera de horror. Al mismo tiempo, el mod te da más margen para
+  atmósfera de terror. Al mismo tiempo, el mod te da más margen para
   experimentar y explorar la oscuridad.
 
 ### ¿Por qué deberías probar Sprunki Phase 8?
@@ -55,12 +55,10 @@ imaginación al límite y componer piezas oscuras que no se olvidan fácilmente.
 ### Cierre
 
 Sprunki Phase 8 es un experimento que mezcla con éxito la composición musical
-con la estética del horror. Ofrece una plataforma rebosante de misterio y
+con la estética del terror. Ofrece una plataforma rebosante de misterio y
 creatividad donde puedes pasarlo bien componiendo mientras exploras el lado más
 sombrío del universo Sprunki. Y si te intriga cómo ha evolucionado esta saga,
 merece la pena echar un vistazo a capítulos anteriores como el mítico Sprunki
 Phase 7. Pero por ahora, ¿te atreves con el reto? Entra en Sprunki Phase 8,
 libera al artista oscuro que llevas dentro y compón tu propia sinfonía de
 terror.
-
-
