@@ -56,7 +56,7 @@ Kettenreaktionen aus, während die Decke langsam nach unten rutscht.
 <!-- i18n:faq:id=faq:fuzzies:can-i-change-the-next-767533c3 -->
 - **F: Kann ich die nächste Farbe wechseln?**  
   **A:** Viele Versionen erlauben das Tauschen der wartenden Blase – ein Blick
-  auf den UI-Hinweis lohnt sich.
+  auf den Hinweis in der Oberfläche lohnt sich.
 
 <!-- i18n:faq:id=faq:fuzzies:what-ends-the-level-616d217e -->
 - **F: Wann ist ein Level verloren?**  

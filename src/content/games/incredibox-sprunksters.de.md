@@ -15,36 +15,48 @@ releaseDate: 2025-12-04
 ---
 
 <!-- i18n:section:introduction -->
-Hey Musikmacher! Willst du deine Musikerstellung aufpeppen? Lass mich dir Incredibox Sprunksters vorstellen! Das ist nicht dein Standard-Incredibox-Vibe; es ist ein superkreativer Mod vom großartigen Bismeowth, der den schrägen Geist von Sprunki mit Musikmachen verbindet und endlose Möglichkeiten eröffnet!
+Hey Musikfans! Lust, deine Incredibox-Sessions aufzupeppen? Dann wirf einen
+Blick auf Incredibox Sprunksters. Das ist kein offizieller Release, sondern ein
+Fan-Mod von Bismeowth: Sprunki-Vibes, frische Sounds und jede Menge Raum zum
+Experimentieren.
 
 ### Also, was ist das Besondere an Incredibox Sprunksters?
 
-Im Grunde ist Incredibox Sprunksters dein Ticket zu einem musikalischen Abenteuer, bei dem du Beats mit einer Crew richtig stylisher Charaktere komponierst. Es behält das klassische Incredibox-Drag-and-Drop-Gameplay – wähle einen Charakter, setz ihn auf die Bühne, lass ihn sein Ding machen – aber mit einem ganz neuen Sprunksters-Flair. Das Beste? Es gibt hier keine falschen Noten, nur pure kreative Freiheit zum Experimentieren und Mischen cooler Sound-Kombos.
+Im Grunde ist Incredibox Sprunksters ein musikalischer Spielplatz: Du baust
+Beats mit einer Crew stylisher Charaktere und bleibst beim klassischen
+Drag-and-Drop-Gameplay. Figuren auswählen, auf die Bühne setzen, Sounds
+kombinieren – fertig. Es gibt kein "richtig" oder "falsch", nur kreative
+Freiheit beim Mixen.
 
 ### Wie legt man mit Incredibox Sprunksters los?
 
 Der Einstieg ist super einfach!
 
- - **Deine Spieler wählen:** Du hast eine Aufstellung charmanter Sprunksters-Charaktere, die warten, jeder repräsentiert verschiedene Instrumente oder Soundeffekte.
- - **Ziehen & Mixen:** Schnapp dir die Charaktere, die du magst, und setz sie auf die Bühne. Ihre Sounds werden sofort Teil deines Tracks.
- - **Schichten aufbauen:** Füge immer mehr Charaktere hinzu und probiere verschiedene Sound-Schichten aus. Du wirst sehen (und hören!), wie die Musik reicher und interessanter wird.
- - **Experimentieren für Magie:** Der echte Spaß bei Incredibox Sprunksters ist das Herumspielen! Mixe verschiedene Charaktere zusammen, und du könntest auf richtig coole und unerwartete Rhythmen und Melodien stoßen.
+ - **Deine Spieler wählen:** Du hast eine Reihe charmanter Sprunksters-Charaktere vor dir – jede Figur steht für ein Instrument oder einen Soundeffekt.
+ - **Ziehen & Mixen:** Setz die Charaktere auf die Bühne. Ihre Sounds werden sofort Teil deines Tracks.
+ - **Schichten aufbauen:** Füge weitere Figuren hinzu und kombiniere mehrere Ebenen, bis dein Mix voller klingt.
+ - **Experimentieren für Magie:** Probier bewusst unterschiedliche Kombinationen – so findest du spannende Rhythmen und Melodien, die du vorher nicht erwartet hast.
 
 
 ### Der einzigartige Twist bei Incredibox Sprunksters:
 
-Bereit für eine kleine Überraschung? Incredibox Sprunksters hat einen versteckten Trick im Ärmel. Wenn du den speziellen Charakter mit dem schwarzen Hut in die Mitte der Bühne ziehst und ihn *dann* entfernst, BAM! Die ganze Stimmung wechselt zu einer dunkleren, chaotischeren „Alternativwelt"! Dieses versteckte Reich kommt mit einem komplett neuen Set an Sounds und Atmosphäre, sodass du mit einem völlig anderen Musikstil experimentieren kannst. Wie cool ist das?
+Bereit für eine kleine Überraschung? Incredibox Sprunksters hat einen versteckten
+Trick im Ärmel: Ziehst du den speziellen Charakter mit dem schwarzen Hut in die
+Mitte der Bühne und entfernst ihn *danach* wieder, wechselt die Stimmung in eine
+dunklere, chaotischere „Alternativwelt". Dort wartet ein komplett neues Set an
+Sounds und Atmosphäre – perfekt, um einen ganz anderen Stil auszuprobieren.
 
 ### Warum solltest du bei Incredibox Sprunksters einsteigen?
 
- - **Charaktere & Animationen mit Stil:** Bismeowth hat wirklich Mühe in die Charakter-Designs und Animationen gesteckt – sie sehen toll aus und fügen tonnenweise visuellen Spaß zum Musikmachen hinzu.
- - **Frische & spaßige Sound-Bibliothek:** Schluss mit den immer gleichen Sounds! Incredibox Sprunksters bringt neue Samples und Effekte, die deine Musik einzigartig und kreativ machen.
- - **Simpel und doch tiefgründig:** Das Gameplay ist leicht zu verstehen, aber die Kombinationsmöglichkeiten sind endlos. Perfekt für Musik-Neulinge und erfahrene Spieler gleichermaßen.
- - **Die versteckte dunkle Seite:** Die umschaltbare „Alternativwelt" ist ein genialer Touch, der Schichten von Entdeckung und Überraschung zum Spiel hinzufügt.
+ - **Charaktere & Animationen mit Stil:** Bismeowth hat viel Liebe in Design und Animationen gesteckt – das macht das Musikmachen auch visuell richtig unterhaltsam.
+ - **Frische Sound-Bibliothek:** Neue Samples und Effekte sorgen dafür, dass sich dein Mix anders anfühlt als die üblichen Incredibox-Sounds.
+ - **Einfach, aber mit Tiefe:** Du bist sofort drin, kannst aber lange an Kombinationen tüfteln – ideal für Einsteiger und Fans.
+ - **Die versteckte dunkle Seite:** Die umschaltbare „Alternativwelt" bringt zusätzlichen Entdeckerspaß und eine zweite Klangwelt.
  - **Überall spielbar:** Du kannst es direkt online auf Seiten wie playfiddlebops.com spielen – keine Downloads nötig, super bequem!
 
 
 ### Fazit:
 
-Incredibox Sprunksters ist eine fantastische Plattform voller Kreativität, Spaß und wunderbarer Überraschungen. Mit seinen charmanten Charakteren, frischen Sounds und dem großartigen „Alternativwelt"-Feature bietet es ein wirklich einzigartiges Spielerlebnis. Zögere nicht! Tauche ein in die Welt von Incredibox Sprunksters und fang jetzt an, deine eigenen schrägen Beats zu kreieren! 🎶✨ Viel Spaß!
-
+Incredibox Sprunksters ist ein kreativer Mod mit charmanten Charakteren, frischen
+Sounds und einem starken „Alternativwelt"-Twist. Wenn du Lust auf neue Loops und
+ein bisschen Sprunki-Chaos hast, probier ihn aus und bau dir deinen eigenen Mix.

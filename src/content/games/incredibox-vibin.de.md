@@ -19,38 +19,50 @@ releaseDate: 2025-10-10T00:00:00.000Z
 <!-- i18n:section:introduction -->
 ### **Spieleinführung zu Incredibox Vibin**
 
-*Incredibox Vibin'* ist ein beliebter Fan-Mod für das Musikerstellungsspiel Incredibox. Diese Version hebt sich durch ihre unglaublich **chillige, entspannte und gemütliche Lo-fi-Hip-Hop-Ästhetik** ab. Die Charaktere sind als coole, zurückgelehnte Figuren gestaltet, die perfekt die „Vibin'"-Stimmung einfangen, die der Titel suggeriert.
+*Incredibox Vibin'* ist ein beliebter Fan-Mod für das Musikerstellungsspiel
+Incredibox. Diese Version hebt sich durch eine sehr **entspannte, gemütliche
+Lo-fi-Hip-Hop-Ästhetik** ab. Die Charaktere wirken lässig und zurückgelehnt –
+genau passend zur Stimmung, die der Titel verspricht.
 
-Das Spiel nutzt das klassische Incredibox-Drag-and-Drop-Gameplay. Spieler erhalten 20 einzigartige Sound-Icons, um sie einer Crew aus sieben Performern zuzuweisen. Die Sound-Bibliothek ist eine sorgfältig kuratierte Sammlung von Sounds, die eine entspannte und nostalgische Atmosphäre erzeugen sollen, mit **sanften Drum-Machine-Beats, warmen Synth-Pads, zarten Melodien und smoothen Vocal-Samples**.
+Das Spiel nutzt das klassische Incredibox-Drag-and-Drop-Gameplay. Du bekommst 20
+Sound-Icons, die du einer Crew aus sieben Charakteren zuweist. Die Sound-Bibliothek
+ist sorgfältig kuratiert und zielt auf eine ruhige, nostalgische Atmosphäre ab –
+mit **sanften Drum-Machine-Beats, warmen Synth-Pads, zarten Melodien und weichen
+Vocal-Samples**.
 
-Das Ziel ist es, ein entspannendes kreatives Ventil zu bieten und gleichzeitig ein Rätsel zu lösen. Spieler können Sounds mischen und kombinieren, um ihren perfekten Lern-/Entspannungs-Track zu erstellen. Das Rätsel-Element besteht darin, die drei spezifischen Kombinationen zu entdecken, die die geheimen animierten Boni freischalten, die thematisch zur gemütlichen und introspektiven Stimmung des Mods passen.
+Das Ziel ist eine entspannte kreative Spielwiese – und nebenbei ein kleines Rätsel.
+Du kannst Sounds mischen und kombinieren, um deinen perfekten Study-/Relax-Track zu
+bauen. Das Rätsel steckt in den drei speziellen Kombinationen, die geheime,
+animierte Boni freischalten und thematisch zur gemütlichen, introspektiven Stimmung
+des Mods passen.
 
 <!-- i18n:section:tips -->
 ### **Gameplay-Strategie & Tipps**
 
-Strategie bei *Incredibox Vibin'* dreht sich darum, Texturen zu schichten und einen smoothen, unaufdringlichen Groove zu kreieren.
+Bei *Incredibox Vibin'* geht es darum, Klangflächen zu schichten und einen ruhigen,
+unaufdringlichen Groove zu bauen.
 
 1.  **Lo-fi-Soundkategorien verstehen**:
-    *   **Beats**: Die Rhythmen sind das Herzstück des Lo-fi-Feels. Erwarte entspannte **Drum-Loops**, sanfte Kick-Drums und oft den Sound von **Vinyl-Rauschen** oder Tape-Hiss, um analoge Wärme zu erzeugen.
-    *   **Effects**: Diese Kategorie liefert die Kern-Atmosphäre. Sie enthält **warme Synth-Pads**, sanfte Keyboard-Akkorde, ambiente Naturgeräusche (wie Regen) und andere nostalgische Samples, die ein Gefühl der Ruhe erzeugen.
-    *   **Melodies**: Die Melodien sind typischerweise simpel und emotional. Achte auf Sounds wie jazzige **E-Piano-Loops** (wie ein Rhodes-Piano), einfache Gitarrenlicks oder weiche, melancholische Synth-Leads.
-    *   **Voices**: Vocals bei Lo-fi werden oft als Instrument verwendet. Diese Kategorie bietet **gechoppte Vocal-Samples**, smoothe Acapella-Harmonien und leises, melodisches Summen.
+    *   **Beats**: Die Rhythmen sind das Herzstück des Lo-fi-Gefühls. Erwarte entspannte **Drum-Loops**, sanfte Kicks und oft **Vinyl-Knistern** oder Bandrauschen für analoge Wärme.
+    *   **Effekte**: Diese Kategorie liefert die Atmosphäre. Sie enthält **warme Synth-Pads**, sanfte Keyboard-Akkorde, Naturgeräusche (wie Regen) und nostalgische Samples, die Ruhe reinbringen.
+    *   **Melodien**: Die Melodien sind meist simpel und emotional. Achte auf Sounds wie jazzige **E-Piano-Loops** (z. B. Rhodes), einfache Gitarrenlicks oder weiche, melancholische Synth-Leads.
+    *   **Stimmen**: Vocals werden im Lo-fi oft wie ein Instrument eingesetzt. Hier findest du **geslicte Vocal-Samples**, sanfte Acapella-Harmonien und leises, melodisches Summen.
 
-2.  **Erst den „Vibe" erzeugen**: Ein guter Startpunkt ist, die Atmosphäre zu etablieren. Kombiniere einen sanften „Beat" mit einem warmen, getragenen „Effekt" (wie einem Synth-Pad). Das schafft die perfekte Leinwand für deine Melodien und Vocals.
+2.  **Erst die Stimmung setzen**: Ein guter Startpunkt ist die Atmosphäre. Kombiniere einen sanften Beat mit einem warmen, getragenen Effekt (z. B. einem Synth-Pad). So entsteht eine gute Grundlage für Melodien und Vocals.
 
-3.  **Einfachheit umarmen (Weniger ist mehr)**: Lo-fi-Hip-Hop ist oft durch minimalistische Arrangements gekennzeichnet. Du musst nicht alle sieben Slots füllen. Manchmal reichen ein einfacher Beat, eine Bassline, ein Piano-Loop und ein Vocal-Sample aus, um einen perfekten, entspannenden Track zu kreieren.
+3.  **Einfach halten (Weniger ist mehr)**: Lo-fi-Hip-Hop lebt oft von minimalistischen Arrangements. Du musst nicht alle sieben Slots füllen. Manchmal reichen ein Beat, eine Bassline, ein Piano-Loop und ein Vocal-Sample für einen rund klingenden, entspannenden Track.
 
-4.  **Systematische Bonus-Suche**: Um die drei geheimen Boni zu finden, ist ein methodischer Ansatz am besten. Sobald du einen Kern-Groove hast, der dir gefällt, versuche die verbleibenden Icons einzeln auszutauschen, bis du einen der gemütlichen animierten Boni auslöst.
+4.  **Systematisch nach Boni suchen**: Um die drei geheimen Boni zu finden, hilft ein methodischer Ansatz. Sobald du einen Kern-Groove hast, der dir gefällt, tausche die verbleibenden Icons einzeln aus, bis du einen der animierten Boni auslöst.
 
 <!-- i18n:section:controls -->
 ### **Steuerungsanleitung**
 
-Die Steuerung folgt dem standardmäßigen, intuitiven Drag-and-Drop-Interface der offiziellen Incredibox-Spiele.
+Die Steuerung folgt dem bekannten, intuitiven Drag-and-Drop-Prinzip der offiziellen Incredibox-Spiele.
 
 *   **Sound hinzufügen**: **Ziehe** ein Sound-Icon von unten und **lege** es auf einen der Charaktere.
 *   **Sound entfernen**: Klicke das „X" auf einem aktiven Sound-Icon unten, oder ziehe einen neuen Sound auf einen bestehenden Charakter, um ihn zu ersetzen.
-*   **Stummschalten/Entstummen**: **Klicke** auf einen performenden Charakter, um ihn stumm zu schalten; klicke erneut, um ihn zu entstummen.
-*   **Solo**: Klicke den **kleinen Button** neben einem aktiven Charakter, um alle anderen Performer stumm zu schalten.
+*   **Stummschalten/Entstummen**: **Klicke** auf einen spielenden Charakter, um ihn stumm zu schalten; klicke erneut, um ihn zu entstummen.
+*   **Solo**: Klicke den **kleinen Button** neben einem aktiven Charakter, um alle anderen Figuren stumm zu schalten.
 *   **Aufnehmen**: Klicke den **Aufnahme-Button**, um die Aufnahme deiner chilligen Kreation zu starten und zu stoppen.
 
 <!-- i18n:section:faq -->
@@ -69,10 +81,11 @@ Du findest ihn nicht auf offiziellen Plattformen. Mods wie *Vibin'* werden typis
 <!-- i18n:faq:id=faq:incredibox-vibin:what-makes-the-vibin-mod-d01232b7 -->
 **3. Was macht den „Vibin'"-Mod so beliebt?**
 
-Seine Beliebtheit kommt von der perfekten Umsetzung des Lo-fi-Hip-Hop-Themas, einem massiv beliebten Musikgenre. Er bietet ein einzigartig entspannendes und modernes Erlebnis, das bei vielen Spielern Anklang findet, die ein chilliges kreatives Ventil suchen.
+Seine Beliebtheit kommt von der stimmigen Umsetzung des Lo-fi-Hip-Hop-Themas –
+einem sehr beliebten Musikgenre. Der Mod fühlt sich modern und gleichzeitig
+entspannend an und spricht viele an, die einen ruhigen kreativen Ausgleich suchen.
 
 <!-- i18n:faq:id=faq:incredibox-vibin:are-the-bonus-solutions-for-361d43d5 -->
 **4. Sind die Bonus-Lösungen für „Vibin'" online verfügbar?**
 
 Ja. Wenn du Probleme hast, die Kombinationen für die Animationen zu finden, zeigt dir eine schnelle Suche nach „*Incredibox Vibin' combos*" auf YouTube die Lösungen.
-

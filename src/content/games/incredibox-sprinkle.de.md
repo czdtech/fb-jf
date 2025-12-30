@@ -30,9 +30,9 @@ releaseDate: 2025-12-04
 
 - **Maus:** Nutze die Maus, um Figuren aus der Leiste unten auf die Bühne zu
   ziehen oder wieder zu entfernen.
-- **Tastatur (optional):** Manche Versionen erlauben einfache Shortcuts, z. B.
+- **Tastatur (optional):** Manche Versionen erlauben einfache Tastenkürzel, z. B.
   Leertaste für Start/Stopp.
-- **Kurzbefehle:** Je nach Version gibt es Hotkeys zum schnellen Stummschalten
+- **Kurzbefehle:** Je nach Version gibt es Tastenkürzel zum schnellen Stummschalten
   oder Leeren der Bühne.
 
 ### Highlights von Sprinkle
@@ -41,7 +41,7 @@ releaseDate: 2025-12-04
   Altersgruppen geeignet.
 - **Hohe Kreativität:** Dank vielfältiger Sounds und freier Kombination kannst
   du immer neue, eigene Stücke bauen.
-- **Optional mit Tastaturhilfe:** Shortcuts machen das Live-Ummischen noch
+- **Optional mit Tastaturhilfe:** Tastenkürzel machen das Live-Ummischen noch
   bequemer.
 
 Ob zum kurzen Zeitvertreib oder zum längeren Rumtüfteln – in Sprinkle kannst du
