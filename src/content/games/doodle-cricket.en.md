@@ -26,8 +26,10 @@ Google’s playable cricket doodle: batters time swings to send the ball past fi
 
 <!-- i18n:section:controls -->
 ### Controls
-- Mouse/Touch: single tap/click to bat. Timing determines placement and power.
+- `Mouse`/Touch: single `tap`/`click` to bat. Timing determines placement and power.
 
+
+<!-- i18n:section:tips -->
 ### Tips
 - Don’t pre‑swing—react to release and bounce.
 - Favor ground strokes early; go aerial only when gaps are clear.

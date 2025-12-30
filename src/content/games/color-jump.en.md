@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Color Jump is a minimalist reflex game where your character can pass only through matching‑color gates or platforms. Time jumps to align colors, avoid mismatched barriers, and maintain rhythm as speed increases.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Read two obstacles ahead; don’t fixate on the nearest gate.
@@ -29,7 +31,7 @@ Color Jump is a minimalist reflex game where your character can pass only throug
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Tap/Click to jump; some variants allow double jumps.
+- `Tap`/`Click` to jump; some variants allow double jumps.
 - Pause/Restart via UI.
 
 <!-- i18n:section:faq -->

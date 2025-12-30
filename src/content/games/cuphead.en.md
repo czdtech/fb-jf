@@ -49,7 +49,7 @@ The controls are responsive and precise. Below are the default keyboard controls
 *   **Jump**: `Z` or `Space Bar`
 *   **Shoot**: `X` or `Left Ctrl`
 *   **Dash / Dodge**: `Left Shift`
-*   **Lock (Hold to stay in place)**: `V` or `Right Ctrl`
+*   **Lock (`Hold` to stay in place)**: `V` or `Right Ctrl`
 *   **Switch Weapon**: `C` or `Tab`
 *   **EX Move / Super Art (when meter is full)**: `E` or `Q`
 

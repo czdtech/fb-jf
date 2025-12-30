@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Blocks Puzzle is a classic and engaging puzzle game that challenges your spatial reasoning. The objective is simple: fit variously shaped blocks onto a 10x10 grid. When you complete a full row or column, the line clears, freeing up space and earning you points. The game ends when you can no longer place any of the given blocks on the grid. With no time limit, you can think strategically to achieve the highest score.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Plan Ahead:** Look at the three blocks you are given. Before placing one, consider how the other two might fit and how your move will affect the board's future state.
@@ -29,8 +31,8 @@ Blocks Puzzle is a classic and engaging puzzle game that challenges your spatial
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **Drag and Drop:** Use your mouse to click and drag a block from the selection area onto the grid.
-*   **Placement:** Release the mouse button to place the block in the desired position.
+*   **`Drag` and `Drop`:** Use your `mouse` to `click` and `drag` a block from the selection area onto the grid.
+*   **Placement:** Release the `mouse` button to place the block in the desired position.
 *   **No Rotation:** In this version of the game, blocks cannot be rotated. You must use them in the orientation they are given.
 
 <!-- i18n:section:faq -->

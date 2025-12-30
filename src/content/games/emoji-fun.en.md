@@ -18,6 +18,8 @@ releaseDate: 2025-10-17
 Emoji Fun is a creative and thought-provoking puzzle game based on associations. In each level, you are presented with two columns of emojis. Your task is to figure out the relationship between them and draw lines to connect the correct pairs. The connections can be literal (like a sock and a foot) or conceptual (like a ghost and a haunted house). It's a fun test of your logic and lateral thinking.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Find the Obvious Pairs First:** Start by scanning for the most direct and obvious connections. Matching pairs like "peanut" and "elephant" or "honey" and "bee" will help you narrow down the remaining options.
@@ -28,9 +30,9 @@ Emoji Fun is a creative and thought-provoking puzzle game based on associations.
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-The game is played with a simple drag-and-drop mechanic.
+The game is played with a simple `drag`-and-`drop` mechanic.
 
-*   **Connect Emojis:** Click and hold on an emoji in one column, then drag your finger or mouse to the related emoji in the other column to draw a connecting line.
+*   **Connect Emojis:** `Click` and `hold` on an emoji in one column, then `drag` your finger or `mouse` to the related emoji in the other column to draw a connecting line.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

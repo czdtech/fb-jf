@@ -26,8 +26,10 @@ Henry Stickmin’s biggest breakout: make choices, use gadgets, and navigate rou
 
 <!-- i18n:section:controls -->
 ### Controls
-- Mouse to choose options and interact; keys for occasional prompts vary by host.
+- `Mouse` to choose options and interact; keys for occasional prompts vary by host.
 
+
+<!-- i18n:section:tips -->
 ### Tips
 - When an option fails, try the alternate route—many scenes have a “correct” path.
 - Click characters during scenes to record bios if the version supports it.

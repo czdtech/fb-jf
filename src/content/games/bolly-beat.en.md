@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Bolly Beat is a light, accessible rhythm‑tapping game themed around energetic, upbeat Bollywood‑style tracks. Notes approach cues on screen and you must tap with accurate timing to keep the combo alive. Higher accuracy yields higher scores and star ratings, while streaks unlock bonus multipliers and more challenging patterns.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Learn the timing windows: Focus on hitting on the beat; late/early hits break combos and reduce multipliers.
@@ -29,7 +31,7 @@ Bolly Beat is a light, accessible rhythm‑tapping game themed around energetic,
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Tap/Click cues: Tap when notes reach the hit area; some charts may include holds or swipes.
+- `Tap`/`Click` cues: `Tap` when notes reach the hit area; some charts may include holds or swipes.
 - Pause/Retry: Use on‑screen controls to pause or restart a track.
 - Volume: Adjust music/sfx for clearer beat tracking.
 

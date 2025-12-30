@@ -31,8 +31,10 @@ Going Balls is a tilt‑and‑roll style runner on narrow tracks filled with bea
 
 <!-- i18n:section:controls -->
 ### Controls
-- WASD/Arrows or drag to steer; Space/brake where available; R to retry (host dependent).
+- `WASD`/Arrows or `drag` to steer; `Space`/brake where available; R to retry (host dependent).
 
+
+<!-- i18n:section:tips -->
 ### Tips
 - Look ahead; line up early for narrow entries.
 - On steep ramps, build speed first, then steer minimally.

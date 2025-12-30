@@ -18,6 +18,8 @@ releaseDate: 2025-10-17
 Slime.io is a chaotic and satisfying 3D arcade game that belongs to the popular ".io" genre of multiplayer games. You control a small slime in a bustling city with one simple goal: become the biggest. You do this by sliding around the map and absorbing everything in your path that is smaller than you—from streetlights and cars to entire buildings. Compete against other players, absorb the smaller ones, and avoid being eaten by the giants to dominate the leaderboard before the timer runs out!
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Start Small:** When the round begins, you are small and vulnerable. Focus on absorbing small objects first, like people, fences, and benches. This will quickly increase your size.
@@ -28,9 +30,9 @@ Slime.io is a chaotic and satisfying 3D arcade game that belongs to the popular 
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-The game is controlled with a simple drag mechanic.
+The game is controlled with a simple `drag` mechanic.
 
-*   **Move Slime:** Click and hold the left mouse button (or use your finger on a touch screen) and drag in the direction you want your slime to go.
+*   **Move Slime:** `Click` and `hold` the `left `mouse` button` (or use your finger on a touch screen) and `drag` in the direction you want your slime to go.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 2048 Giant is a version of the classic 2048 puzzle game, but played on a larger grid. The goal remains the same: slide numbered tiles to combine them and create the 2048 tile. The larger board offers a new level of challenge and requires more strategic planning.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 The core strategies for 2048 apply here, but need to be adapted for the larger board.
@@ -30,8 +32,8 @@ The core strategies for 2048 apply here, but need to be adapted for the larger b
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **Arrow Keys:** Use the arrow keys to move the tiles.
-*   **Swipe:** On touch devices, `Swipe` in the direction you want the tiles to move.
+*   **`Arrow Keys`:** Use the `arrow keys` to move the tiles.
+*   **`Swipe`:** On touch devices, `Swipe` in the direction you want the tiles to move.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

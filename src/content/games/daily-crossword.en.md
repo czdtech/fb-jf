@@ -26,8 +26,10 @@ Daily Crossword provides a new crossword each day with familiar American‑style
 
 <!-- i18n:section:controls -->
 ### Controls
-- Type A–Z; arrow keys navigate; Backspace deletes; Enter/Tab switches direction or advances (site‑dependent). 
+- Type A–Z; `arrow keys` navigate; `Backspace` deletes; `Enter`/`Tab` switches direction or advances (site‑dependent). 
 
+
+<!-- i18n:section:tips -->
 ### Tips and Strategies
 - Start with short/easy clues, then expand using crossings.  
 - Use Check tools sparingly to avoid time penalties if a host tracks time. 

@@ -19,6 +19,8 @@ releaseDate: 2025-10-18
 Minigolf Clash is a casual putting game with creative obstacles, ramps, banks, and moving parts. Your goal is simple—finish holes under par—yet mastering angles and pace unlocks low scores and trick‑shot lines.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Pace control: Soft putts around cups prevent lip‑outs; harder hits for uphill ramps.
@@ -30,7 +32,7 @@ Minigolf Clash is a casual putting game with creative obstacles, ramps, banks, a
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Aim: Drag to set direction.
+- Aim: `Drag` to set direction.
 - Power: Pull back to set strength, release to putt.
 - Restart: Use on‑screen control to retry a hole if allowed.
 

@@ -18,6 +18,8 @@ releaseDate: 2025-10-17
 Pirate Poker is a classic five-card draw poker game with a swashbuckling pirate theme. You'll sit at a table with salty pirate opponents, betting your gold doubloons and trying to build the best possible five-card hand. The game involves rounds of betting, a chance to exchange your cards to improve your hand, and a final showdown to see who wins the pot. It's a game of strategy, psychology, and a little bit of luck.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Know the Hand Rankings:** The goal is to make the best five-card hand. From highest to lowest, the standard rankings are: Royal Flush, Straight Flush, Four of a Kind, Full House, Flush, Straight, Three of a Kind, Two Pair, One Pair, and High Card.
@@ -34,7 +36,7 @@ The game is played with on-screen buttons.
 *   **Check:** Bet nothing, passing the action to the next player (only possible if no one has bet before you in the round).
 *   **Call:** Match the current bet to stay in the hand.
 *   **Fold:** Give up the hand, forfeiting any money already in the pot.
-*   **Discard:** During the draw phase, click on the cards you want to get rid of, then click the "Draw" button.
+*   **Discard:** During the draw phase, `click` on the cards you want to get rid of, then `click` the "Draw" button.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

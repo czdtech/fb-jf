@@ -40,13 +40,13 @@ Success in Cluster Rush is about mastering movement and learning the levels.
 The controls are similar to most first-person PC games.
 
 *   **Move**: `W`, `A`, `S`, `D` keys
-*   **Look**: Mouse
+*   **Look**: `Mouse`
 *   **Jump**: `Space Bar`
-*   **Double Jump**: Press `Space Bar` again while in the air
-*   **Sprint**: `Shift` key (hold down to run faster)
+*   **Double Jump**: `Press` `Space Bar` again while in the air
+*   **Sprint**: `Shift` key (`hold` down to run faster)
 *   **Pause/Menu**: `Esc` key
 
-**Note:** Grabbing or sliding along the side of a truck is a contextual action. You do not need to press a specific key; simply make contact with the side of a truck while in the air.
+**Note:** Grabbing or sliding along the side of a truck is a contextual action. You do not need to `press` a specific key; simply make contact with the side of a truck while in the air.
 
 <!-- i18n:section:faq -->
 ### **Frequently Asked Questions (FAQ)**

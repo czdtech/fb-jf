@@ -19,6 +19,8 @@ releaseDate: 2025-10-18
 Neon Dash is a reflex‑driven runner filled with spikes, platforms, and pulsing traps. Levels emphasize clean timing—short hops, late jumps, and consistent rhythm help you pass tight obstacle sequences. Expect checkpointed stages or one‑shot clears depending on the mode.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Learn jump arcs: Practice short/long taps to fine‑tune distance; late jumps often clear spikes more safely.
@@ -30,7 +32,7 @@ Neon Dash is a reflex‑driven runner filled with spikes, platforms, and pulsing
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Jump: Space/Click/Tap (press length may vary height in some versions).
+- Jump: `Space`/`Click`/`Tap` (`press` length may vary height in some versions).
 - Pause/Retry: On‑screen controls or keyboard shortcuts.
 
 <!-- i18n:section:faq -->

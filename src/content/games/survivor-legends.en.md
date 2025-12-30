@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Survivor Legends follows the auto‑attack survivor formula: move to kite, level to draft weapons/passives, and survive crescendos. Builds hinge on damage schedules (DPS vs burst), crowd control, and pickup radius for XP economy.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Wide kites: Large loops give correction time; avoid tight corners.
@@ -29,7 +31,7 @@ Survivor Legends follows the auto‑attack survivor formula: move to kite, level
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Move: WASD/Arrows; actives on number keys; pause via UI.
+- Move: `WASD`/Arrows; actives on number keys; pause via UI.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

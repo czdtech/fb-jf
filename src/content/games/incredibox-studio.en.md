@@ -20,6 +20,8 @@ Incredibox Studio is a fan-made project. Unlike the official Incredibox versions
 
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy / Creative Tips
 
 *   Since this is a sandbox, the "strategy" is about creativity.
@@ -32,11 +34,11 @@ Incredibox Studio is a fan-made project. Unlike the official Incredibox versions
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   The game is controlled entirely with the mouse.
-    *   **Add Sound**: Drag an icon from the bottom panel and drop it onto one of the characters.
-    *   **Remove Sound**: Drag a character's icon off of them.
-    *   **Mute/Solo**: Click the headphones or speaker icon next to a character to solo or mute their sound.
-    *   **Record**: Click the record button (usually a red circle) at the top to start and stop recording your mix.
+*   The game is controlled entirely with the `mouse`.
+    *   **Add Sound**: `Drag` an icon from the bottom panel and `drop` it onto one of the characters.
+    *   **Remove Sound**: `Drag` a character's icon off of them.
+    *   **Mute/Solo**: `Click` the headphones or speaker icon next to a character to solo or mute their sound.
+    *   **Record**: `Click` the record button (usually a red circle) at the top to start and stop recording your mix.
 
 
 <!-- i18n:section:faq -->

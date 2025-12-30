@@ -18,6 +18,8 @@ releaseDate: 2025-10-17
 Tripeaks Solitaire is a popular and fast-paced solitaire variant that combines elements of Golf Solitaire and Pyramid Solitaire. The game gets its name from the initial layout of the cards, which are dealt into three overlapping pyramids, or "peaks." The objective is to clear the entire tableau by selecting cards that are one rank higher or lower than the card on the waste pile, creating long runs and clearing the board before you run out of cards in your stock.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **The Goal:** Clear all cards from the three peaks on the tableau.
@@ -30,10 +32,10 @@ Tripeaks Solitaire is a popular and fast-paced solitaire variant that combines e
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-The game is played entirely with the mouse or by tapping.
+The game is played entirely with the `mouse` or by tapping.
 
-*   **Play a Card:** Click on a valid face-up card on the tableau to move it to the waste pile.
-*   **Draw a Card:** Click on the face-down stock pile when you have no other moves.
+*   **Play a Card:** `Click` on a valid face-up card on the tableau to move it to the waste pile.
+*   **Draw a Card:** `Click` on the face-down stock pile when you have no other moves.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

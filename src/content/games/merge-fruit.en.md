@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Merge Fruit mixes gravity drops with merge‑2 rules. Drop fruits into a bin; touching identical fruits merge into a larger one. The challenge is stacking for future merges while preventing overflows at the top.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Center anchor: Keep the largest fruit near the center for multi‑side merges.
@@ -29,7 +31,7 @@ Merge Fruit mixes gravity drops with merge‑2 rules. Drop fruits into a bin; to
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Move left/right to aim; tap to drop; some builds allow holds/undos.
+- Move left/right to aim; `tap` to `drop`; some builds allow holds/undos.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

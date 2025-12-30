@@ -25,8 +25,10 @@ Diner Dash is a time‑management game about seating guests, taking orders, deli
 
 <!-- i18n:section:controls -->
 ### Controls
-- Mouse/touch: click destinations in order to queue actions; some versions allow drag‑and‑drop for seating or serving. 
+- `Mouse`/touch: `click` destinations in order to queue actions; some versions allow `drag`‑and‑`drop` for seating or serving. 
 
+
+<!-- i18n:section:tips -->
 ### Tips and Strategies
 - Chain related actions back‑to‑back to maintain high combos.  
 - Prioritize impatient customers first; watch the hearts meter.  

@@ -26,8 +26,10 @@ Winter‑styled set of Geometry Dash levels with unique songs and high‑contras
 
 <!-- i18n:section:controls -->
 ### Controls
-- Tap/Space/Mouse to jump; hold to fly (host dependent).
+- `Tap`/`Space`/`Mouse` to jump; `hold` to fly (host dependent).
 
+
+<!-- i18n:section:tips -->
 ### Tips
 - Reduce visual clutter if effects distract from rhythm.
 - Use practice checkpoints to lock in muscle memory.

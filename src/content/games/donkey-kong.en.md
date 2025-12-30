@@ -26,10 +26,12 @@ Arcade classic (1981): climb girders and ladders as Mario, dodge barrels and fir
 
 <!-- i18n:section:controls -->
 ### Controls
-- Arrow keys: Move/Climb.  
+- `Arrow keys`: Move/Climb.  
 - Up: Climb ladders; Jump: usually with a mapped key (host dependent).  
 - Action: Hammer is automatic once picked up, lasts for a short time.
 
+
+<!-- i18n:section:tips -->
 ### Tips
 - Wait for safe ladder windows; don’t climb when a barrel is directly above.
 - On 25m, steer barrels by briefly facing a ladder to influence spawns.

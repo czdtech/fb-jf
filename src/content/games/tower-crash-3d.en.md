@@ -18,6 +18,8 @@ releaseDate: 2025-10-17
 Tower Crash 3D is a satisfying and addictive physics-based puzzle game where your goal is to demolish towers made of colorful blocks. The catch is that you must shoot balls of a specific color, and they will only destroy blocks of the same color. With limited ammunition for each level, you must aim strategically to hit critical support blocks and cause the entire structure to come crashing down below the goal line.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Match the Colors:** This is the most important rule. Look at the color of the ball loaded in your cannon and aim only for blocks of that same color. Hitting a different colored block will do nothing and waste a precious shot.
@@ -30,8 +32,8 @@ Tower Crash 3D is a satisfying and addictive physics-based puzzle game where you
 
 The controls are simple and intuitive.
 
-*   **Aim:** Move your mouse or swipe your finger left and right to aim your cannon.
-*   **Fire:** Click the left mouse button or tap the screen to shoot a ball.
+*   **Aim:** Move your `mouse` or `swipe` your finger left and right to aim your cannon.
+*   **Fire:** `Click` the `left `mouse` button` or `tap` the screen to shoot a ball.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

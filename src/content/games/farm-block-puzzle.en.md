@@ -18,6 +18,8 @@ releaseDate: 2025-10-17
 Farm Block Puzzle is a relaxing and addictive puzzle game based on the classic 10x10 formula, all set in a charming farm environment. The goal is to strategically place different block shapes onto a 10x10 grid. When you successfully form a complete line of blocks, either horizontally or vertically, the line will be cleared. The game challenges you to keep placing blocks and clearing lines for as long as possible to achieve a high score.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Plan for the Pieces You Have:** The game gives you three block shapes at a time. Before placing one, always consider if you have a viable spot for the other two. This prevents you from getting stuck with a piece that won't fit.
@@ -28,9 +30,9 @@ Farm Block Puzzle is a relaxing and addictive puzzle game based on the classic 1
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-The game is played with a simple drag-and-drop mechanic.
+The game is played with a simple `drag`-and-`drop` mechanic.
 
-*   **Place Blocks:** Use your mouse or finger to drag a shape from the bottom area and drop it onto an empty space on the 10x10 grid.
+*   **Place Blocks:** Use your `mouse` or finger to `drag` a shape from the bottom area and `drop` it onto an empty `space` on the 10x10 grid.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

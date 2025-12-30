@@ -35,10 +35,10 @@ YoHoHo.io is a fast-paced, pirate-themed battle royale .io game where players co
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- **Movement:** `WASD` or `Arrow Keys` (Keyboard) / Drag mouse or finger (Mouse/Touch)
-- **Attack:** `Left Click` or `Spacebar` (Keyboard) / Tap (Touch)
-- **Charge Attack:** Hold `Left Click` or `Spacebar` to charge a more powerful attack.
-- **Dash:** `Right Click` (Mouse) / Dedicated dash button (Mobile)
+- **Movement:** `WASD` or `Arrow Keys` (Keyboard) / `Drag` `mouse` or finger (`Mouse`/Touch)
+- **Attack:** `Left Click` or `Spacebar` (Keyboard) / `Tap` (Touch)
+- **Charge Attack:** `Hold` `Left Click` or `Spacebar` to charge a more powerful attack.
+- **Dash:** `Right Click` (`Mouse`) / Dedicated dash button (Mobile)
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

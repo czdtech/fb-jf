@@ -29,8 +29,10 @@ One‑button drifting on a floating track: tap/hold to drift at corners, release
 
 <!-- i18n:section:controls -->
 ### Controls
-- Mouse/Space/Touch: hold to drift; release to go straight.
+- `Mouse`/`Space`/Touch: `hold` to drift; release to go straight.
 
+
+<!-- i18n:section:tips -->
 ### Tips
 - Look ahead for S‑bends; use micro‑taps instead of long holds.
 - Don’t over‑correct—falling usually comes from late releases.

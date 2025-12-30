@@ -19,6 +19,8 @@ releaseDate: 2025-10-18
 Fruit Slot Machine emulates a simple three‑reel slot with classic fruit symbols and occasional bonus features. Each spin is independent; payouts follow the paytable and active paylines. Treat it as light entertainment rather than a strategy game.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Budget first: Set a session budget; don’t chase losses.
@@ -30,7 +32,7 @@ Fruit Slot Machine emulates a simple three‑reel slot with classic fruit symbol
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Set bet/lines (if offered) and press Spin; Auto‑spin optional.
+- Set bet/lines (if offered) and `press` Spin; Auto‑spin optional.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

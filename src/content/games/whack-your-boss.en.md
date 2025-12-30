@@ -29,7 +29,7 @@ The gameplay is simple:
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- **Mouse:** Use your mouse to hover over and click on interactive objects in the scene.
+- **`Mouse`:** Use your `mouse` to hover over and `click` on interactive objects in the scene.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

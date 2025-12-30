@@ -18,6 +18,8 @@ releaseDate: 2025-10-17
 Uncle Ahmed is a classic 2D side-scrolling platformer that will evoke nostalgia for games like Super Mario Bros. Players take on the role of the heroic Uncle Ahmed on a quest to rescue his nephew, who has been kidnapped by an evil sorcerer. You will journey through dozens of levels filled with various enemies, tricky obstacles, and helpful power-ups. The goal is to reach the end of each stage, defeat the sorcerer, and save the day.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Master the Jump:** Your most important skill is jumping. Use it to stomp on enemies to defeat them, break blocks to find coins and power-ups, and navigate over dangerous pits and spikes.
@@ -28,8 +30,8 @@ Uncle Ahmed is a classic 2D side-scrolling platformer that will evoke nostalgia 
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **Move:** Use the **Left and Right Arrow Keys** or on-screen buttons to move Uncle Ahmed.
-*   **Jump:** Press the **Up Arrow Key** or the dedicated jump button.
+*   **Move:** Use the **Left and Right `Arrow Keys`** or on-screen buttons to move Uncle Ahmed.
+*   **Jump:** `Press` the **Up Arrow Key** or the dedicated jump button.
 *   **Shoot:** If you have a projectile power-up (like the watermelon), a separate button will typically appear to allow you to shoot.
 
 <!-- i18n:section:faq -->

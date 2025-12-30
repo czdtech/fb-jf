@@ -25,7 +25,7 @@ The objective is to be the first player to land on the final square (usually 100
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- **Mouse/Touch:** Click or tap on the designated area to roll the die. The game will automatically move your piece.
+- **`Mouse`/Touch:** `Click` or `tap` on the designated area to roll the die. The game will automatically move your piece.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

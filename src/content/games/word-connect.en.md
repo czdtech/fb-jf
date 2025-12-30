@@ -29,8 +29,8 @@ Word Connect is a popular and relaxing word puzzle game that challenges players 
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- **Swipe/Drag:** Use your finger (on mobile) or mouse (on PC) to drag across the letters to form words.
-- **Click:** Click on the shuffle or hint buttons.
+- **`Swipe`/`Drag`:** Use your finger (on mobile) or `mouse` (on PC) to `drag` across the letters to form words.
+- **`Click`:** `Click` on the shuffle or hint buttons.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

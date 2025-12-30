@@ -18,6 +18,8 @@ releaseDate: 2025-10-17
 Unpark Me is a classic sliding block puzzle game, also known as a "parking jam" puzzle. You are presented with a crowded parking lot grid filled with cars and trucks. Your goal is to strategically slide the other vehicles out of the way to clear a path for the target car (usually the red one) to drive out of the exit. The game is a true test of logic and sequential thinking, challenging you to solve the puzzle in the fewest moves possible.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Identify the Blocker:** First, identify the cars that are directly blocking the red car's path to the exit.
@@ -28,9 +30,9 @@ Unpark Me is a classic sliding block puzzle game, also known as a "parking jam" 
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-The game is played with simple drag-and-drop controls.
+The game is played with simple `drag`-and-`drop` controls.
 
-*   **Move a Vehicle:** Click and hold on any car or truck. You can only slide it forwards and backwards along its current orientation (either horizontally or vertically). Drag it into an empty space to move it.
+*   **Move a Vehicle:** `Click` and `hold` on any car or truck. You can only slide it forwards and backwards along its current orientation (either horizontally or vertically). `Drag` it into an empty `space` to move it.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

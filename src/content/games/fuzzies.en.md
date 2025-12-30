@@ -26,8 +26,10 @@ Match‑3 bubble shooter with cute fuzzballs. Clear clusters to score and trigge
 
 <!-- i18n:section:controls -->
 ### Controls
-- Mouse/Touch to aim and shoot; swap next color when available.
+- `Mouse`/Touch to aim and shoot; swap next color when available.
 
+
+<!-- i18n:section:tips -->
 ### Tips
 - Target high anchors to drop large sections.
 - Keep the board balanced—don’t overfill one side.

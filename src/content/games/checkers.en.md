@@ -33,6 +33,8 @@ The objective of the game is to capture all of the opponent's pieces or to block
 -   A **King** can move diagonally both forwards and backwards, and can capture in both directions.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy
 
 -   **Control the Center:** The player who controls the center of the board has more mobility and more opportunities for both attack and defense. Try to position your pieces towards the middle.
@@ -45,11 +47,11 @@ The objective of the game is to capture all of the opponent's pieces or to block
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-In a digital version of Checkers, the controls are typically very simple point-and-click or tap-and-drag.
+In a digital version of Checkers, the controls are typically very simple point-and-`click` or `tap`-and-`drag`.
 
--   **Select a Piece:** Click or tap on one of your pieces that is able to move. Valid moves will often be highlighted.
--   **Move a Piece:** Click or tap on the highlighted destination square to move your piece there.
--   **Jumping/Capturing:** If a capture is possible, the game will usually force you to select that piece. Click the piece and then the destination square to complete the jump. For multiple jumps, you simply continue clicking the next destination squares in the chain.
+-   **Select a Piece:** `Click` or `tap` on one of your pieces that is able to move. Valid moves will often be highlighted.
+-   **Move a Piece:** `Click` or `tap` on the highlighted destination square to move your piece there.
+-   **Jumping/Capturing:** If a capture is possible, the game will usually force you to select that piece. `Click` the piece and then the destination square to complete the jump. For multiple jumps, you simply continue clicking the next destination squares in the chain.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

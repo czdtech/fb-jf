@@ -19,6 +19,8 @@ releaseDate: 2025-10-18
 Kings and Queens wraps a castle‑restoration story around classic match‑3. Each chapter introduces new blockers (chains, marble slabs, fog) and scene goals (collect crowns, break seals). You spend earned stars to renovate rooms, unlocking boosters for harder boards.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Board control: Clear central blockers first to open space for combos.
@@ -30,7 +32,7 @@ Kings and Queens wraps a castle‑restoration story around classic match‑3. Ea
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Drag to swap; tap boosters to use; scene menu to renovate with stars.
+- `Drag` to swap; `tap` boosters to use; scene menu to renovate with stars.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Bricks Breaker Crush fires barrages of balls that ricochet through numbered bricks. Your aim sets the initial trajectory; bricks count down as they’re hit. Mastery is about shaping long ricochet paths, multiplying contacts per volley, and preventing walls from reaching the bottom.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Shallow angles: Start at modest angles to maximize side‑to‑side hits.
@@ -30,8 +32,8 @@ Bricks Breaker Crush fires barrages of balls that ricochet through numbered bric
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Drag to aim; release to fire the volley.
-- Power‑ups trigger on catch or tap depending on the build.
+- `Drag` to aim; release to fire the volley.
+- Power‑ups trigger on catch or `tap` depending on the build.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

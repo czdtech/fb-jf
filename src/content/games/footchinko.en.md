@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Footchinko is an innovative and highly engaging arcade game that creatively merges the excitement of football (soccer) with the classic mechanics of pachinko and pinball. Your objective is to guide a football through a field filled with pegs, bumpers, and other obstacles, aiming to score goals. Each level presents unique challenges and layouts, requiring precise aiming and strategic thinking to navigate the ball past defenders and into the net. Collect power-ups and bonuses to enhance your gameplay and achieve high scores.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Aiming is Key:** Before each shot, carefully consider the trajectory of the ball. Look for paths that will allow the ball to hit multiple pegs or power-ups, and ultimately lead to the goal.
@@ -29,7 +31,7 @@ Footchinko is an innovative and highly engaging arcade game that creatively merg
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **Launch Ball:** Click or tap on the screen to launch the ball. The position of your click often determines the initial direction and power of your shot.
+*   **Launch Ball:** `Click` or `tap` on the screen to launch the ball. The position of your `click` often determines the initial direction and power of your shot.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Rampage Road mixes top‑down driving with arcade shooting. Navigate traffic, manage ammo or cooldowns, and eliminate targets while keeping your vehicle intact through waves of enemies.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Clean lines: Hug lanes with predictable gaps to avoid traffic hits.
@@ -30,7 +32,7 @@ Rampage Road mixes top‑down driving with arcade shooting. Navigate traffic, ma
 ### Controls Guide
 
 - Drive: A/D or Left/Right; accelerate/brake with W/S or Up/Down.
-- Fire: Click/Space per mode; secondary with another key if present.
+- Fire: `Click`/`Space` per mode; secondary with another key if present.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

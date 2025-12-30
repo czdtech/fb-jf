@@ -29,6 +29,8 @@ The game is one of the world's most popular, known for its deep strategy and tac
 -   **The Knight:** Moves in an 'L' shape: two squares in a horizontal or vertical direction, then one square perpendicular to that. The knight is the only piece that can jump over other pieces.
 -   **The Pawn:** Moves forward one square, but captures diagonally one square forward. On its first move, a pawn has the option to move two squares forward. Pawns cannot move or capture backward. Pawns also have special moves: *En Passant* and *Promotion*.
 
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy
 
 #### Opening Principles
@@ -53,8 +55,8 @@ The game is one of the world's most popular, known for its deep strategy and tac
 
 In digital chess (on a computer or mobile device), the controls are simple and intuitive.
 -   **Move a Piece:**
-    -   **Click and Drag:** Click and hold a piece, drag it to the desired legal square, and release.
-    -   **Click and Click:** Click a piece to select it (legal moves are often highlighted), then click the destination square to move it.
+    -   **`Click` and `Drag`:** `Click` and `hold` a piece, `drag` it to the desired legal square, and release.
+    -   **`Click` and `Click`:** `Click` a piece to select it (legal moves are often highlighted), then `click` the destination square to move it.
 -   **Castling:** To castle, you simply move your king two squares towards the rook you are castling with. The rook will automatically move to its correct position.
 
 <!-- i18n:section:faq -->

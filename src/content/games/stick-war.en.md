@@ -28,7 +28,7 @@ The core of the game revolves around managing resources and commanding your army
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- **Mouse:** Used to select units, click buttons to train soldiers, and direct your army.
+- **`Mouse`:** Used to select units, `click` buttons to train soldiers, and direct your army.
 - **Movement (when controlling a unit):** `A` and `D` keys.
 - **Attack (when controlling a unit):** `Spacebar`.
 

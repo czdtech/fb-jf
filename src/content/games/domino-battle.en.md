@@ -18,6 +18,8 @@ releaseDate: 2025-10-17
 Domino Battle is a digital adaptation of the classic tile-based game, Dominoes. This version pits you against a computer opponent in a strategic battle of wits. The objective is to be the first player to get rid of all your domino tiles by matching them end-to-end with the layout on the board. It requires careful planning, as you must not only play your own tiles but also anticipate and potentially block your opponent's moves.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **The Basics:** Each player starts with a hand of dominoes. The player with the highest double-tile typically goes first. On your turn, you must place a tile from your hand so that one of its ends matches the number of pips on an open end of the domino chain.
@@ -29,8 +31,8 @@ Domino Battle is a digital adaptation of the classic tile-based game, Dominoes. 
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **Play a Tile:** Click and drag a domino from your hand to a valid open end on the board.
-*   **Draw a Tile:** If you have no valid moves, click on the face-down boneyard pile to draw a new domino.
+*   **Play a Tile:** `Click` and `drag` a domino from your hand to a valid open end on the board.
+*   **Draw a Tile:** If you have no valid moves, `click` on the face-down boneyard pile to draw a new domino.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

@@ -26,8 +26,10 @@ Build and preserve momentum through slopes and walls, collect trophies, and clea
 
 <!-- i18n:section:controls -->
 ### Controls
-- WASD/Arrows to move/jump; Down to slide; Up to enter doors.
+- `WASD`/Arrows to move/jump; Down to slide; Up to `enter` doors.
 
+
+<!-- i18n:section:tips -->
 ### Tips
 - Practice slope exits to keep speed over flat stretches.
 - Buffer jumps at edges for consistent long carries.

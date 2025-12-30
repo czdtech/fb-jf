@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Sushi Grab is a fast‑paced selection game themed around conveyor‑belt sushi. Pick requested pieces, avoid wrong items or hazards, and chain streaks to reach score goals under a timer.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Read orders: Focus on the current request—don’t grab extras.
@@ -29,7 +31,7 @@ Sushi Grab is a fast‑paced selection game themed around conveyor‑belt sushi.
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Pick: Click/tap the correct sushi on the belt.
+- Pick: `Click`/`tap` the correct sushi on the belt.
 - Pause/Retry: Use UI buttons.
 
 <!-- i18n:section:faq -->

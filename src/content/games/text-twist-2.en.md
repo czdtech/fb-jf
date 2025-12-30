@@ -34,9 +34,9 @@ The core gameplay remains the same: form words from a given set of letters.
 ### Controls Guide
 
 - **Typing:** Use your keyboard to type out words.
-- **Submit Word:** Press `Enter`.
-- **Shuffle Letters:** Click the "Twist" button or press `Spacebar`.
-- **Clear Word:** Click the "Clear" button or press `Backspace`.
+- **Submit Word:** `Press` `Enter`.
+- **Shuffle Letters:** `Click` the "Twist" button or `press` `Spacebar`.
+- **Clear Word:** `Click` the "Clear" button or `press` `Backspace`.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

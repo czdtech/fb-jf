@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Categories is a light logic game about sorting items into thematic groups. Identify common links, separate decoys, and solve sets under light timers or move limits.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Easy sets first: Lock obvious groups to shrink the search space.
@@ -29,7 +31,7 @@ Categories is a light logic game about sorting items into thematic groups. Ident
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Drag items into groups or tap to assign per UI.
+- `Drag` items into groups or `tap` to assign per UI.
 - Undo/Reset where available.
 
 <!-- i18n:section:faq -->

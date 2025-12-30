@@ -18,6 +18,8 @@ releaseDate: 2025-10-17
 Brain Trainer is a collection of fun and stimulating mini-games designed to give your cognitive skills a workout. The game targets different areas of your brain, including memory, logic, calculation, and spatial awareness. By playing through these quick and challenging puzzles, you can test your mental agility, improve your focus, and track your performance over time. It's a perfect way to keep your mind sharp while having fun.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 Brain Trainer consists of several different mini-games. Here are a few examples:
@@ -30,9 +32,9 @@ Brain Trainer consists of several different mini-games. Here are a few examples:
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-The controls are simple and vary by mini-game, but they are all based on mouse clicks or taps.
+The controls are simple and vary by mini-game, but they are all based on `mouse` clicks or taps.
 
-*   **Select/Answer:** Click on the correct object, number, or sequence as required by the current puzzle.
+*   **Select/Answer:** `Click` on the correct object, number, or sequence as required by the current puzzle.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

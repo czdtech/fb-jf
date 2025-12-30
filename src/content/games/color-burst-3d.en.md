@@ -38,7 +38,7 @@ As the game progresses, the speed increases, the rings rotate faster, and the pa
 
 As shown in the "How to Play" tutorial, the controls are extremely simple and designed for one-touch gameplay.
 
-*   **Move the Ball**: **Touch and drag** your finger left and right on the slider at the bottom of the screen to control the ball's horizontal position.
+*   **Move the Ball**: **Touch and `drag`** your finger left and right on the slider at the bottom of the screen to control the ball's horizontal position.
 
 <!-- i18n:section:faq -->
 ### **Frequently Asked questions (FAQ)**

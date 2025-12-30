@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Pool 8 Ball Mania simulates casual 8‑ball with responsive aiming and spin. The core is cue‑ball control: land shape for the next shot, use topspin to follow, backspin to draw, and sidespin off rails to manage lines.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Pre‑plan shape: Decide landing spots before every pot.
@@ -29,7 +31,7 @@ Pool 8 Ball Mania simulates casual 8‑ball with responsive aiming and spin. The
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Aim: drag; Power: pull meter; Spin: adjust cue‑ball diagram; Camera: pan/zoom if available.
+- Aim: `drag`; Power: pull meter; Spin: adjust cue‑ball diagram; Camera: pan/zoom if available.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

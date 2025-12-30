@@ -19,6 +19,8 @@ releaseDate: 2025-10-18
 Mad Honey is a short, pick‑up‑and‑play adventure about gathering nectar while avoiding simple enemies and environmental hazards. Levels emphasize careful flight paths, timing through patrols, and safe returns to score.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Plot routes: Identify nectar clusters and patrol paths before committing.
@@ -30,7 +32,7 @@ Mad Honey is a short, pick‑up‑and‑play adventure about gathering nectar wh
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Move: Arrow keys / WASD or analog drag.
+- Move: `Arrow keys` / `WASD` or analog `drag`.
 - Interact: Automatic pickups on contact.
 - Retry: Quick restart for clean runs.
 

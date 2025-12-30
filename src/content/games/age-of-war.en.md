@@ -18,6 +18,8 @@ releaseDate: 2025-08-16
 Age of War is a classic 2D side-scrolling strategy game that became widely popular during the Flash game era. The game's core concept is a battle between two bases, one belonging to the player and the other to an AI opponent. The unique and defining feature of the game is its "evolution" mechanic. Players start in the Stone Age (as cavemen) and must earn experience points (XP) to advance through five distinct eras: Stone Age, Middle Ages, Modern Age, and finally, the Future Age. Each evolution not only unlocks more powerful units and defensive turrets but also fully restores your base's health. The ultimate goal is simple: survive the enemy's onslaught and destroy their base.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 Mastering Age of War requires a balance of offense, defense, and strategic timing.
@@ -40,7 +42,7 @@ Mastering Age of War requires a balance of offense, defense, and strategic timin
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-The game is controlled almost entirely with the mouse.
+The game is controlled almost entirely with the `mouse`.
 
 *   **Train Units:** `Click` on the unit icons at the top-left of the screen to train them. You must have enough gold.
 *   **Build Turrets:** `Click` on the empty turret slots on top of your base to open the build menu, then select a turret to construct.

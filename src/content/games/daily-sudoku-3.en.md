@@ -18,6 +18,8 @@ releaseDate: 2025-10-17
 Daily Sudoku provides a fresh, classic Sudoku puzzle for you to solve every single day. Sudoku is a world-renowned logic-based, number-placement puzzle. The objective is to fill a 9x9 grid with digits so that each column, each row, and each of the nine 3x3 subgrids that compose the grid contain all of the digits from 1 to 9. It's a pure logic puzzle that requires no calculation or mathematical skills, only patience and concentration.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **The Basic Rule:** The golden rule of Sudoku is simple: 1 through 9, once per row, once per column, and once per 3x3 box.
@@ -29,9 +31,9 @@ Daily Sudoku provides a fresh, classic Sudoku puzzle for you to solve every sing
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **Select a Cell:** Click on any empty cell in the 9x9 grid.
-*   **Enter a Number:** After selecting a cell, click on a number from the on-screen number pad to place it in the cell.
-*   **Notes/Pencil Mode:** Look for a button (often with a pencil icon) to toggle between "Answer" mode and "Notes" mode. In Notes mode, the numbers you enter will be small candidates.
+*   **Select a Cell:** `Click` on any empty cell in the 9x9 grid.
+*   **`Enter` a Number:** After selecting a cell, `click` on a number from the on-screen number pad to place it in the cell.
+*   **Notes/Pencil Mode:** Look for a button (often with a pencil icon) to toggle between "Answer" mode and "Notes" mode. In Notes mode, the numbers you `enter` will be small candidates.
 *   **Eraser:** Use the eraser tool to clear a number or notes from a cell.
 
 <!-- i18n:section:faq -->

@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 One line only: dot to dot follows the Euler path tradition: connect all points/edges with a single, unbroken stroke. Boards introduce bridges, forced turns, and parity tricks that require careful route planning and backtracking discipline.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Degree count: Start at odd‑degree nodes (0 or 2 exist for Euler trails); they suggest endpoints.
@@ -29,7 +31,7 @@ One line only: dot to dot follows the Euler path tradition: connect all points/e
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Drag to draw along segments; undo/clear via UI.
+- `Drag` to draw along segments; undo/clear via UI.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

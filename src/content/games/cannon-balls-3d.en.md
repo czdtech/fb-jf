@@ -18,6 +18,8 @@ releaseDate: 2025-10-17
 Cannon Balls 3D is a satisfying physics-based puzzle game where you take control of a powerful cannon to demolish various structures. Each level presents you with a unique building or arrangement of blocks, and your goal is to destroy it using a limited number of cannonballs. Success requires not just good aim, but also a strategic eye for identifying structural weak points to cause maximum collapse with minimum shots.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Analyze the Structure:** Before you fire your first shot, take a moment to examine the building. Look for key support blocks at the base, explosive barrels, or any other potential weak points. The goal is to start a chain reaction.
@@ -30,8 +32,8 @@ Cannon Balls 3D is a satisfying physics-based puzzle game where you take control
 
 The controls are simple and direct.
 
-*   **Aim the Cannon:** Use your mouse to aim. Move it left and right to rotate the cannon, and up and down to set the angle of your shot.
-*   **Fire:** Click the left mouse button to fire a cannonball.
+*   **Aim the Cannon:** Use your `mouse` to aim. Move it left and right to rotate the cannon, and up and down to set the angle of your shot.
+*   **Fire:** `Click` the `left `mouse` button` to fire a cannonball.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

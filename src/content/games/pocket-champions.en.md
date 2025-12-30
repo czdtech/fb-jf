@@ -18,6 +18,8 @@ releaseDate: 2025-10-17
 Pocket Champs is an idle multiplayer racing game where you don't directly control the race, but you control everything that leads to victory. Your role is to train your "Champ" in various disciplines like running, flying, and climbing. Before each race, you must strategically equip your Champ with the right gadgets for the course. Once the race begins, you watch as your preparation pays off and your Champ competes automatically to bring home the win.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Train, Train, Train:** The foundation of your success is training. Keep your Champ training at all times to level up their running, flying, climbing, and swimming skills. This is an idle game, so training continues even when you are offline.
@@ -30,9 +32,9 @@ Pocket Champs is an idle multiplayer racing game where you don't directly contro
 
 The game is played through a series of menus.
 
-*   **Training:** Click on the training section and select the skill you want your Champ to work on.
-*   **Gadget Selection:** Before a race, click on the gadget slots to choose which items your Champ will use.
-*   **Start Race:** Click the "Race" button to enter a competition.
+*   **Training:** `Click` on the training section and select the skill you want your Champ to work on.
+*   **Gadget Selection:** Before a race, `click` on the gadget slots to choose which items your Champ will use.
+*   **Start Race:** `Click` the "Race" button to `enter` a competition.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

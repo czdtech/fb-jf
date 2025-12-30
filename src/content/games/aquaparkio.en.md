@@ -22,6 +22,8 @@ releaseDate: 2025-08-16
 Players compete against a large group of other characters (primarily AI-controlled bots) in a fast-paced race. The core mechanics involve more than just staying on the slide. Players can bump into opponents to knock them off the track, and more importantly, they can gain enough speed to launch off the edge of the slide, fly through the air, and land on a lower section of the track, creating massive shortcuts. This "flying" mechanic is the central strategy of the game, blending risk with high reward. The game features simple, one-touch controls and a satisfying progression system where players earn coins to unlock new characters and cosmetic items.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 Winning in *aquapark.io* is all about mastering shortcuts and managing risk.
@@ -49,7 +51,7 @@ At the very beginning, it can be crowded and chaotic. It's often safer to hang b
 The game is famous for its extremely simple control scheme.
 
 *   **Movement (Mobile):** Place your finger anywhere on the screen and `drag` left or right to steer your character. There are no other buttons.
-*   **Movement (PC/Web Browser):** `Click` and `hold` the left mouse button, then `drag` the mouse left or right to steer.
+*   **Movement (PC/Web Browser):** `Click` and `hold` the `left `mouse` button`, then `drag` the `mouse` left or right to steer.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

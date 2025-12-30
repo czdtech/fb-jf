@@ -19,6 +19,8 @@ releaseDate: 2025-10-17
 Color Pixel Art Classic is a relaxing and satisfying color-by-number puzzle game. It allows you to choose from a wide variety of pixelated images and bring them to life with color. Each pixel in an image is numbered, corresponding to a specific color in your palette. By carefully filling in all the pixels, you will gradually reveal a beautiful and complete piece of pixel art. It's a perfect game for unwinding and expressing creativity without needing any artistic skill.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Choose an Image:** Start by browsing the gallery and selecting an image you'd like to color.
@@ -29,10 +31,10 @@ Color Pixel Art Classic is a relaxing and satisfying color-by-number puzzle game
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **Select Color:** Click or tap on a color in the palette at the bottom.
-*   **Fill Pixel:** Click or tap on the corresponding numbered pixel on the grid.
-*   **Zoom:** Use your mouse scroll wheel or pinch-to-zoom on a touch screen to zoom in and out, making it easier to find small pixels.
-*   **Pan:** Click and drag the image (when zoomed in) to move around the canvas.
+*   **Select Color:** `Click` or `tap` on a color in the palette at the bottom.
+*   **Fill Pixel:** `Click` or `tap` on the corresponding numbered pixel on the grid.
+*   **Zoom:** Use your `mouse` `scroll` wheel or pinch-to-zoom on a touch screen to zoom in and out, making it easier to find small pixels.
+*   **Pan:** `Click` and `drag` the image (when zoomed in) to move around the canvas.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

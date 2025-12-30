@@ -49,14 +49,14 @@ These games usually feature a slow pace and a relaxing atmosphere, emphasizing t
 
 The controls for these games are typically based on simple clicks and drags.
 
-*   **Click/Tap**:
-    *   Click on an empty plot to till it.
-    *   Click on the toolbar to select seeds, a watering can, or other tools.
-    *   Click on mature plants to harvest them.
-    *   Click on menus and buttons in the user interface.
-*   **Drag and Drop**:
-    *   Drag seeds from the shop or inventory onto a tilled plot to plant them.
-    *   Press and hold a tool like a watering can and drag it across multiple plots for continuous action (e.g., watering).
+*   **`Click`/`Tap`**:
+    *   `Click` on an empty plot to till it.
+    *   `Click` on the toolbar to select seeds, a watering can, or other tools.
+    *   `Click` on mature plants to harvest them.
+    *   `Click` on menus and buttons in the user interface.
+*   **`Drag` and `Drop`**:
+    *   `Drag` seeds from the shop or inventory onto a tilled plot to plant them.
+    *   `Press` and `hold` a tool like a watering can and `drag` it across multiple plots for continuous action (e.g., watering).
     *   Move and place decorations in your garden.
 
 <!-- i18n:section:faq -->

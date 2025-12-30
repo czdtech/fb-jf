@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Finger Slayer is a single‑button reflex test: place your “finger” within a danger zone and yank it away right before a trap snaps shut. Rounds escalate with faster closures, fake telegraphs, and rhythm changes that punish anticipation. The goal is to commit to a single crisp pull at the last safe frame without flinching early (which scores lower) or waiting too long.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Read the tell: Most traps give a micro‑windup (sound/visual); key off that signal, not a mental count.
@@ -29,7 +31,7 @@ Finger Slayer is a single‑button reflex test: place your “finger” within a
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Hold to “place” and release to pull back; some builds use tap vs hold.
+- `Hold` to “place” and release to pull back; some builds use `tap` vs `hold`.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

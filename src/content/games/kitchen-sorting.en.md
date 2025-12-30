@@ -19,6 +19,8 @@ releaseDate: 2025-10-18
 Kitchen Sorting is a fast, visual logic game about placing items into correct bins: produce vs meats, recyclables vs trash, clean tools vs dirty ones, hot vs cold storage, etc. Levels add misleaders (e.g., cooked vs raw), combo objectives (sort three safe items in a row), and penalties for wrong placement or delays. Difficulty rises with simultaneous conveyors and stricter hygiene rules that punish cross‑contamination.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Big rules first: Prioritize health‑critical splits (raw meats vs ready‑to‑eat) before fine categories.
@@ -30,7 +32,7 @@ Kitchen Sorting is a fast, visual logic game about placing items into correct bi
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Drag or tap items into labeled bins; pause/retry via UI; hints may highlight correct zones.
+- `Drag` or `tap` items into labeled bins; pause/retry via UI; hints may highlight correct zones.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

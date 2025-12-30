@@ -26,8 +26,10 @@ Relaxed collect‑’em‑up on the water: rescue ducklings scattered around a p
 
 <!-- i18n:section:controls -->
 ### Controls
-- Mouse/Touch or Arrows to steer.
+- `Mouse`/Touch or Arrows to steer.
 
+
+<!-- i18n:section:tips -->
 ### Tips
 - Don’t over‑extend; bank small batches when traffic is heavy.
 - Cut diagonals behind slow boats; never cross a bow head‑on.

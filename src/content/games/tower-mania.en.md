@@ -19,6 +19,8 @@ releaseDate: 2025-10-18
 Tower Mania is an engaging and addictive arcade game that challenges your precision and timing. The objective is simple: build the tallest possible tower by carefully stacking blocks one on top of another. Blocks swing back and forth, and you must tap or click at the precise moment to drop them perfectly aligned. Any part of a block that hangs off will be cut away, making the next level smaller and increasing the difficulty. Test your steady hand and keen eye to reach new heights and achieve the ultimate high score!
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Timing is Crucial:** The core of the game is timing your tap perfectly. Watch the swinging block and try to release it when it's directly over the center of the block below. Precision is rewarded.
@@ -30,7 +32,7 @@ Tower Mania is an engaging and addictive arcade game that challenges your precis
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **Drop Block:** Click the left mouse button or tap the screen to release the swinging block.
+*   **`Drop` Block:** `Click` the `left `mouse` button` or `tap` the screen to release the swinging block.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

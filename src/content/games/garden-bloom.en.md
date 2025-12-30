@@ -19,6 +19,8 @@ releaseDate: 2025-10-17
 Garden Bloom is a relaxing and creative game that beautifully blends classic match-3 puzzles with garden design and restoration. Players are tasked with transforming a neglected garden back to its former glory. The core of the game involves completing match-3 levels, where you swap colorful flowers and other garden elements to achieve specific goals. Successfully beating a level rewards you with stars, which act as the currency to perform tasks in the garden, such as cleaning up, planting flowers, and placing beautiful decorations.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **The Two-Part Gameplay:**
@@ -36,8 +38,8 @@ Garden Bloom is a relaxing and creative game that beautifully blends classic mat
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **In the Puzzle:** Use your mouse or finger to swap two adjacent items (like flowers or leaves). Click and drag one item onto the next, or click them one by one.
-*   **In the Garden:** Click on the task list (usually on the bottom left) to see what needs to be done. Click on a task to spend a star and complete it.
+*   **In the Puzzle:** Use your `mouse` or finger to swap two adjacent items (like flowers or leaves). `Click` and `drag` one item onto the next, or `click` them one by one.
+*   **In the Garden:** `Click` on the task list (usually on the bottom left) to see what needs to be done. `Click` on a task to spend a star and complete it.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

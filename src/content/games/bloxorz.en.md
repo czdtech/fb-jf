@@ -30,6 +30,8 @@ The puzzle elements evolve through the introduction of special tiles and switche
     -   **Splitting Switches (`<>`):** When the block lies flat across this switch, it splits into two smaller, independent 1x1 cubes.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy
 
 -   **Think and Plan Ahead:** Bloxorz is a game of foresight. Before making a move, visualize the next few rolls. Count the squares to see where your block will land and in what orientation (standing or lying flat). Rushing will almost always lead to falling off.
@@ -46,13 +48,13 @@ The puzzle elements evolve through the introduction of special tiles and switche
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-The controls are simple and based on the keyboard's arrow keys.
+The controls are simple and based on the keyboard's `arrow keys`.
 
 -   **Up Arrow Key:** Roll the block forward.
 -   **Down Arrow Key:** Roll the block backward.
 -   **Left Arrow Key:** Roll the block to the left.
 -   **Right Arrow Key:** Roll the block to the right.
--   **Spacebar:** Switch control between the two smaller cubes after splitting.
+-   **`Spacebar`:** Switch control between the two smaller cubes after splitting.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

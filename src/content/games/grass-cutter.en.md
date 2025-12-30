@@ -26,8 +26,10 @@ Grass Cutter is a route‑planning puzzle where a mower moves cell‑by‑cell o
 
 <!-- i18n:section:controls -->
 ### Controls
-- Arrow keys or swipe to move; undo/restart buttons are common.
+- `Arrow keys` or `swipe` to move; undo/restart buttons are common.
 
+
+<!-- i18n:section:tips -->
 ### Tips
 - Work backward from hard‑to‑reach corners.
 - If you slide, set up “stoppers” to end on target tiles.

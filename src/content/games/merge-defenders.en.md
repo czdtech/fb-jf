@@ -24,6 +24,8 @@ releaseDate: 2025-10-17
 Merge Defenders is an exciting and strategic game that blends the addictive nature of merge puzzles with the action-packed gameplay of tower defense. In this game, you must protect your base from relentless waves of enemies. You do this not just by placing towers, but by purchasing basic units, merging two identical units to create a more powerful, higher-level defender, and then strategically deploying them onto the battlefield.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **The Merge Cycle:** The core of the game is the merge mechanic. You start by purchasing level 1 units. Drag a level 1 unit onto another level 1 unit to create a level 2 unit, and so on. Higher-level units have significantly better damage and firing rates.
@@ -34,11 +36,11 @@ Merge Defenders is an exciting and strategic game that blends the addictive natu
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-The game is controlled entirely with your mouse or finger.
+The game is controlled entirely with your `mouse` or finger.
 
-*   **Buy Unit:** Click the "Buy" button to purchase a new basic unit, which will appear on your reserve grid.
-*   **Merge Units:** Click and drag one unit and drop it onto an identical unit to merge them into a higher-level unit.
-*   **Deploy Unit:** Click and drag a unit from your reserve grid to an empty defensive slot on the battlefield.
+*   **Buy Unit:** `Click` the "Buy" button to purchase a new basic unit, which will appear on your reserve grid.
+*   **Merge Units:** `Click` and `drag` one unit and `drop` it onto an identical unit to merge them into a higher-level unit.
+*   **Deploy Unit:** `Click` and `drag` a unit from your reserve grid to an empty defensive slot on the battlefield.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

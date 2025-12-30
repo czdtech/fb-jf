@@ -19,6 +19,8 @@ releaseDate: 2025-10-18
 Merge items in sets of 3/5 to upgrade resources, clear fog, and unlock islands. Quests guide progression; energy and limited space reward planning over spam‑merging.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Favor 5‑merges for extra yield when possible.
@@ -30,7 +32,7 @@ Merge items in sets of 3/5 to upgrade resources, clear fog, and unlock islands. 
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Drag to merge; tap buildings to collect; navigate via map.
+- `Drag` to merge; `tap` buildings to collect; navigate via map.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

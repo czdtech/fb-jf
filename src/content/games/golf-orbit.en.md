@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Golf Orbit turns golf into a physics flight puzzle. You’ll pick a launch angle and power, then watch your ball arc across varied terrain and planetary bodies. Spin and bounce behavior, wind, and occasional gravity wells add depth: the best shots ride slopes, skim obstacles, and chain bounces to reach hidden targets.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Angle discipline: Shallow launches maximize roll; higher arcs clear hazards but lose rollout.
@@ -29,7 +31,7 @@ Golf Orbit turns golf into a physics flight puzzle. You’ll pick a launch angle
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Tap to start the power bar; tap again to set power/angle; apply spin via swipe (if supported).
+- `Tap` to start the power bar; `tap` again to set power/angle; apply spin via `swipe` (if supported).
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

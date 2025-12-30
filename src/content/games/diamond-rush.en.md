@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Diamond Rush is a dazzling and addictive match-3 puzzle game that challenges your quick thinking and matching skills. The objective is to swap adjacent diamonds to create lines of three or more identical gems, clearing them from the board and earning points. With vibrant graphics, sparkling animations, and engaging sound effects, Diamond Rush offers a classic match-3 experience with a focus on fast-paced gameplay and high scores. Race against the clock or complete specific objectives to progress through exciting levels.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Look for Special Gem Combinations:** Matching four or five diamonds, or creating L/T shapes, will generate powerful special gems (like line clearers or bombs). These are crucial for clearing large sections of the board and achieving high scores.
@@ -29,7 +31,7 @@ Diamond Rush is a dazzling and addictive match-3 puzzle game that challenges you
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **Swap Diamonds:** Use your mouse to click and drag a diamond to an adjacent position to swap it with another. This action is only valid if it results in a match of three or more identical diamonds.
+*   **Swap Diamonds:** Use your `mouse` to `click` and `drag` a diamond to an adjacent position to swap it with another. This action is only valid if it results in a match of three or more identical diamonds.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

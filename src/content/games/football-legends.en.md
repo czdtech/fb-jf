@@ -26,8 +26,10 @@ Fast 1v1/2v2 football with exaggerated physics and special kicks. Modes include 
 
 <!-- i18n:section:controls -->
 ### Controls
-- Arrows/WASD to move/jump; shot/pass keys and special vary by host.
+- Arrows/`WASD` to move/jump; shot/pass keys and special vary by host.
 
+
+<!-- i18n:section:tips -->
 ### Tips
 - Jump‑timed headers are the safest way to score.
 - Save specials for open looks rather than congested scrums.

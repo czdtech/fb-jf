@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Block Dimension is a captivating puzzle game that takes the classic block-fitting formula into a new dimension. Played on a 10x10 grid, the game challenges you to strategically place blocks of various shapes to clear lines both horizontally and vertically. Unlike traditional block puzzlers, Block Dimension often introduces unique twists and a sleek, modern aesthetic. The goal is to score as many points as possible by clearing lines and creating combos before you run out of space on the board.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Think Ahead:** You are typically shown three block shapes at a time. Before placing the first one, visualize how all three could potentially fit on the board. Good planning is key to long-term survival.
@@ -29,8 +31,8 @@ Block Dimension is a captivating puzzle game that takes the classic block-fittin
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **Drag and Drop:** Use your mouse to select a block from the holding area and drag it onto the 10x10 grid.
-*   **Place Block:** Release the mouse button to place the block in the highlighted position.
+*   **`Drag` and `Drop`:** Use your `mouse` to select a block from the holding area and `drag` it onto the 10x10 grid.
+*   **Place Block:** Release the `mouse` button to place the block in the highlighted position.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

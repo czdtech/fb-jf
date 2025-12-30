@@ -18,6 +18,8 @@ releaseDate: 2025-10-17
 Smarty Bubbles 2 continues the fun of the classic bubble shooter with a polished look and hundreds of new levels. The objective remains the same: clear the entire board of colorful bubbles by shooting and matching three or more of the same color. This sequel challenges you to think strategically to create massive chain reactions and clear each stage, all while managing your shots to prevent the ceiling from dropping.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Avoid Misses:** Just like the original, the key is to make every shot count. After a certain number of shots that don't pop any bubbles, a new row will be added from the top, making the game harder. An indicator on the side will show you how many misses you have left.
@@ -28,8 +30,8 @@ Smarty Bubbles 2 continues the fun of the classic bubble shooter with a polished
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **Aim:** Move your mouse to aim the cannon. A guideline will show the bubble's trajectory.
-*   **Shoot:** Click the left mouse button to fire the bubble.
+*   **Aim:** Move your `mouse` to aim the cannon. A guideline will show the bubble's trajectory.
+*   **Shoot:** `Click` the `left `mouse` button` to fire the bubble.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

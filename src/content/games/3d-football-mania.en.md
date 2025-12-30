@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 3D Football Mania condenses soccer fundamentals into short scenarios. Read defenders, choose passes, and time shots to beat the keeper in quick, replayable challenges.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Use through‑balls: Lead passes into space rather than feet.
@@ -30,7 +32,7 @@ releaseDate: 2025-10-18
 ### Controls Guide
 
 - Move/Pass/Shoot per on‑screen prompts; `Swipe` or buttons.
-- Aim shots with `Drag`; set power by hold length.
+- Aim shots with `Drag`; set power by `hold` length.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

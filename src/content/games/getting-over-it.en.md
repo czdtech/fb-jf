@@ -26,8 +26,10 @@ Getting Over It is a precision physics climb where you control only a hammer. By
 
 <!-- i18n:section:controls -->
 ### Controls
-- Mouse controls hammer angle and force; minimal keyboard use (host dependent).
+- `Mouse` controls hammer angle and force; minimal keyboard use (host dependent).
 
+
+<!-- i18n:section:tips -->
 ### Tips
 - Use gentle circular motions for controlled swings; avoid jerky inputs.
 - Identify safe anchor “pockets” before committing to big moves.

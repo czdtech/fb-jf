@@ -19,6 +19,8 @@ releaseDate: 2025-10-17
 Giant Attack is a fast-paced and thrilling action game where you face off against colossal monsters. You control a hero who must defend against these towering threats. The key to victory lies not just in attacking, but in gathering allies scattered across the battlefield. Collecting these allies makes your character grow in size and strength, enabling you to unleash more powerful projectiles and take down the giants before they crush you.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Gather and Grow:** Your primary focus should be on moving your character to collect the small, colored allies that appear on the ground. Each one you pick up contributes to making your character bigger and stronger.
@@ -31,7 +33,7 @@ Giant Attack is a fast-paced and thrilling action game where you face off agains
 
 The controls are designed to be simple and intuitive.
 
-*   **Move Character:** Use your mouse or finger to click and drag your character left and right across the battlefield to collect allies and dodge attacks.
+*   **Move Character:** Use your `mouse` or finger to `click` and `drag` your character left and right across the battlefield to collect allies and dodge attacks.
 *   **Attacking:** Attacking is automatic. Your character will continuously throw weapons at the enemy as long as you are alive.
 
 <!-- i18n:section:faq -->

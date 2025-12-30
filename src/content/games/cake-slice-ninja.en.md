@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Cake Slice Ninja channels classic slice‑’em‑up action: flick to slice cakes as they fly, build combo chains with fast successive cuts, and dodge bombs or penalties that break your streak.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Long straight swipes: Slice multiple pieces in a single motion to bank combos.
@@ -29,7 +31,7 @@ Cake Slice Ninja channels classic slice‑’em‑up action: flick to slice cake
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Slice: Click‑drag or swipe to cut through targets.
+- Slice: `Click`‑`drag` or `swipe` to cut through targets.
 - Pause/Retry: Use on‑screen buttons.
 
 <!-- i18n:section:faq -->

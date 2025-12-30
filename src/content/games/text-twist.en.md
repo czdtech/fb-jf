@@ -30,9 +30,9 @@ Text Twist is a popular and engaging word puzzle game that challenges your vocab
 ### Controls Guide
 
 - **Typing:** Use your keyboard to type out the words you find.
-- **Enter Word:** Press `Enter` to submit a word.
-- **Twist Letters:** Click the "Twist" button or press `Spacebar`.
-- **Clear Word:** Click the "Clear" button or press `Backspace`.
+- **`Enter` Word:** `Press` `Enter` to submit a word.
+- **Twist Letters:** `Click` the "Twist" button or `press` `Spacebar`.
+- **Clear Word:** `Click` the "Clear" button or `press` `Backspace`.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

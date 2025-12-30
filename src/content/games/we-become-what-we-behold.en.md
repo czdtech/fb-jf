@@ -35,7 +35,7 @@ The core gameplay involves observing the screen and using your camera to photogr
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- **Mouse:** Use your mouse to aim the camera and click to take a photograph.
+- **`Mouse`:** Use your `mouse` to aim the camera and `click` to take a photograph.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

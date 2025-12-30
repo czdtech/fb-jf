@@ -20,6 +20,8 @@ releaseDate: 2025-08-16
 You start as a relatively small shark, only able to eat the smallest of fish. As you consume prey, you gain points and gradually increase in size. This growth is key, as it allows you to hunt and eat progressively larger creatures, from medium-sized fish to other sharks and even unsuspecting swimmers. However, the ocean is a dangerous place. You must constantly be on the lookout for threats, such as sharks larger than you, deadly sea mines, and other hazards that can end your run instantly. The game is an endless arcade experience focused on achieving the highest possible score.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy
 
 Success in *Big Shark* depends on a mix of aggression and caution.
@@ -38,10 +40,10 @@ Success in *Big Shark* depends on a mix of aggression and caution.
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-The controls for *Big Shark* are designed to be simple and intuitive, primarily using the mouse.
+The controls for *Big Shark* are designed to be simple and intuitive, primarily using the `mouse`.
 
-*   **Movement:** Your shark automatically follows the position of your mouse cursor on the screen.
-*   **Boost / Dash:** Press the **Left Mouse Button** to activate a short burst of speed. This usually consumes some of your score or has a cooldown period.
+*   **Movement:** Your shark automatically follows the position of your `mouse` cursor on the screen.
+*   **Boost / Dash:** `Press` the **`Left `Mouse` Button`** to activate a short burst of speed. This usually consumes some of your score or has a cooldown period.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

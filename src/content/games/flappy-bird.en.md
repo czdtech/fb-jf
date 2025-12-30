@@ -26,8 +26,10 @@ Single‑tap arcade challenge: each flap lifts the bird; release to descend. Pas
 
 <!-- i18n:section:controls -->
 ### Controls
-- Mouse/Touch/Space: tap to flap.
+- `Mouse`/Touch/`Space`: `tap` to flap.
 
+
+<!-- i18n:section:tips -->
 ### Tips
 - Use tiny taps for micro‑corrections; big taps only for emergencies.
 - Don’t chase lost runs—reset if your rhythm breaks.

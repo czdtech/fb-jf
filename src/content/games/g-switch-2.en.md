@@ -26,8 +26,10 @@ Refined gravity‑flip running with new obstacles and multiplayer races.
 
 <!-- i18n:section:controls -->
 ### Controls
-- Single key/tap to flip; unique keys per player in versus.
+- Single key/`tap` to flip; unique keys per player in versus.
 
+
+<!-- i18n:section:tips -->
 ### Tips
 - Keep rhythm steady; two quick flips can correct overshoots.
 - Stay low on long straights; ceilings often hide traps.

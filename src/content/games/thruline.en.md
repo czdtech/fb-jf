@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Thruline tasks you with tracing one unbroken path that visits all required nodes while obeying rules about turns, crossings, and coverage. Later grids add gates, bridges, and parity tricks that reward early bottleneck placement.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Bottlenecks first: Claim narrow corridors before they close.
@@ -29,7 +31,7 @@ Thruline tasks you with tracing one unbroken path that visits all required nodes
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Drag to draw; undo/clear via UI; some builds show conflict highlights.
+- `Drag` to draw; undo/clear via UI; some builds show conflict highlights.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

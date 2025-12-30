@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 The Jigsaw Game is a classic digital jigsaw experience with selectable images and piece counts. Work the edges first, cluster by colors/patterns, and assemble sections before joining them into the final picture.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Edge pass: Complete the frame early to anchor interior groups.
@@ -29,7 +31,7 @@ The Jigsaw Game is a classic digital jigsaw experience with selectable images an
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Drag to move pieces; rotate if the mode supports it.
+- `Drag` to move pieces; rotate if the mode supports it.
 - Zoom and pan via UI controls or gestures.
 - Snap: Pieces usually auto‑snap when correctly placed.
 

@@ -19,6 +19,8 @@ releaseDate: 2025-10-17
 Perfect Piano is a fast-paced and engaging rhythm game that simulates playing the piano, similar to the popular "Piano Tiles" genre. Notes in the form of tiles fall from the top of the screen, and you must tap them at the precise moment they reach the bottom keyboard line. The game tests your reflexes, timing, and rhythm as you play along to a variety of beautiful and challenging songs.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Focus on the Bottom Line:** Don't watch the tiles as they fall from the top. Keep your eyes focused on the target line at the bottom of the screen. This is where you need to react.
@@ -31,7 +33,7 @@ Perfect Piano is a fast-paced and engaging rhythm game that simulates playing th
 
 The game is played with simple taps or clicks.
 
-*   **Tap the Notes:** Use your mouse or fingers to click on the columns as the falling tiles cross the target line at the bottom.
+*   **`Tap` the Notes:** Use your `mouse` or fingers to `click` on the columns as the falling tiles cross the target line at the bottom.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

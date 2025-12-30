@@ -35,9 +35,11 @@ Sprunki Mustard is more than just a color-changing Mod, it is a wonderful experi
  - **Bonus Animations:** Discover special animations triggered by specific sound combinations, adding depth to the horror theme.
  
  
+
+<!-- i18n:section:controls -->
 ### Operation of Sprunki Mustard:
  
-Sprunki Mustard's operation is simple and direct. Incredibox series fans will certainly not be unfamiliar with it. You only need to select the characters as usual and drag them to the stage, and then you can start listening to this unique musical feast.
+Sprunki Mustard's operation is simple and direct. Incredibox series fans will certainly not be unfamiliar with it. You only need to select the characters as usual and `drag` them to the stage, and then you can start listening to this unique musical feast.
  
 ### Why Play Sprunki Mustard?
  

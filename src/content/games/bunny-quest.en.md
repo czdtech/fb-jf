@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Bunny Quest is a path‑building slider puzzle. Rearrange tiles to form an unbroken route from start to finish, collect optional items, and avoid dead‑ends as move limits tighten in later levels.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Corners and straights: Place corner/straight tiles to sketch the main path first.
@@ -29,7 +31,7 @@ Bunny Quest is a path‑building slider puzzle. Rearrange tiles to form an unbro
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Slide tiles by dragging; tiles shift along rows/columns per rules.
+- Slide tiles by dragging; tiles `shift` along rows/columns per rules.
 - Undo/Reset if available to optimize routes.
 
 <!-- i18n:section:faq -->

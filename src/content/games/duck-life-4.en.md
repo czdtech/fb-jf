@@ -30,8 +30,10 @@ Train a racing duck across mini‑games (running, swimming, flying, climbing), t
 
 <!-- i18n:section:controls -->
 ### Controls
-- Arrows/Mouse depending on mini‑game; Space to jump in runners (host dependent).
+- Arrows/`Mouse` depending on mini‑game; `Space` to jump in runners (host dependent).
 
+
+<!-- i18n:section:tips -->
 ### Tips
 - Rotate training so no single stat bottlenecks a race.
 - Keep energy topped off before tournaments.

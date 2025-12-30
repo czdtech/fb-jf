@@ -35,13 +35,13 @@ Since there is no "winning," the strategy revolves around creating pleasant or i
 <!-- i18n:section:controls -->
 ### **Controls Guide**
 
-The controls are simple and intuitive, designed for mouse or touch input.
+The controls are simple and intuitive, designed for `mouse` or touch input.
 
-*   **Drag a Blob Up/Down**: Increases or decreases the **pitch** of the note.
-*   **Drag a Blob Forward/Backward**: Changes the **vowel sound**.
-*   **Click/Tap on a Single Blob**: Selects that blob for a solo performance, temporarily muting the others.
+*   **`Drag` a Blob Up/Down**: Increases or decreases the **pitch** of the note.
+*   **`Drag` a Blob Forward/Backward**: Changes the **vowel sound**.
+*   **`Click`/`Tap` on a Single Blob**: Selects that blob for a solo performance, temporarily muting the others.
 *   **Mute/Unmute Toggles**: At the bottom of the screen, there are individual toggles to mute or unmute each singer. There is also a master toggle to control them all at once.
-*   **Record Button (Red Circle)**: Click this to start recording your composition. Click it again to stop.
+*   **Record Button (Red Circle)**: `Click` this to start recording your composition. `Click` it again to stop.
 *   **Share Button**: After you finish a recording, a share button will appear, allowing you to copy a link to your created performance.
 *   **Theme Toggle (e.g., Christmas Tree Icon)**: Switches the game to a different theme, often with new background music to sing along to.
 

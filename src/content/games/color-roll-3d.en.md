@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Color Roll 3D presents layered strips you unroll to cover a board exactly. The trick is sequencing: later strips may cover earlier ones, so you must choose an order that matches the target image without overlap errors.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Start with the deepest/base color that covers the largest area.
@@ -29,7 +31,7 @@ Color Roll 3D presents layered strips you unroll to cover a board exactly. The t
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Drag to unroll a strip along its path; tap to undo where allowed.
+- `Drag` to unroll a strip along its path; `tap` to undo where allowed.
 - Zoom/pan if supported for precision.
 
 <!-- i18n:section:faq -->

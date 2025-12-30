@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Explore a vintage shop full of curios: find hidden objects, match silhouettes, and solve simple locks to open new shelves. Gentle timers and hints make it accessible while still rewarding careful observation.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Grid sweep: Divide scenes and scan zone by zone.
@@ -29,7 +31,7 @@ Explore a vintage shop full of curios: find hidden objects, match silhouettes, a
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Click to collect; pinch/zoom if supported; hints via UI.
+- `Click` to collect; pinch/zoom if supported; hints via UI.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Flames & Fortune is a compact, turn‑based battler with card‑like decisions. Play effects in efficient sequences, manage limited resources, and adapt to enemy intents to swing momentum your way.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Curve planning: Spend your turn’s resources cleanly; avoid floating energy.
@@ -29,8 +31,8 @@ Flames & Fortune is a compact, turn‑based battler with card‑like decisions. 
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Play/End turn: Click/tap cards and confirm actions.
-- Inspect: Hover/tap to read effects.
+- Play/End turn: `Click`/`tap` cards and confirm actions.
+- Inspect: Hover/`tap` to read effects.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

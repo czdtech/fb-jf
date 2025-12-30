@@ -25,6 +25,8 @@ What makes the game unique is that almost everything changes with every point sc
 Players have extremely limited control over their characters, who move and jump in an unwieldy, floppy manner. The gameplay is less about precise skill and more about mastering the timing of a single button press to jump, flail, and hopefully guide the ball into the opponent's hoop. This unpredictable nature makes every match a frantic and comical experience.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy
 
 Winning in *Basket Random* is about taming the chaos, not controlling it.
@@ -47,7 +49,7 @@ The game is famous for its extremely simple, single-button control scheme, desig
 *   **Player 2:**
     *   **`Up Arrow` Key** or **`W` Key**: Jump / Fling arms. (The controls depend on the specific version, but it's always one key per player).
 *   **For Mobile / Touchscreen Devices:**
-    *   Tap on the respective side of the screen (left side for Player 1, right side for Player 2).
+    *   `Tap` on the respective side of the screen (left side for Player 1, right side for Player 2).
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

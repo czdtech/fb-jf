@@ -19,6 +19,8 @@ releaseDate: 2025-10-17
 Jigsaw Puzzle Deluxe brings the timeless and relaxing activity of solving jigsaw puzzles to your screen. The game offers a vast collection of beautiful, high-quality images across various categories. Players can choose their preferred picture and select a difficulty level, which determines how many pieces the puzzle is divided into. The goal is to correctly assemble all the scattered pieces to recreate the original image.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Build the Frame First:** A classic and highly effective jigsaw strategy is to start by finding all the edge and corner pieces. Assembling the border of the puzzle first provides a clear frame within which you can work.
@@ -29,9 +31,9 @@ Jigsaw Puzzle Deluxe brings the timeless and relaxing activity of solving jigsaw
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-The game is played with simple drag-and-drop controls.
+The game is played with simple `drag`-and-`drop` controls.
 
-*   **Move a Piece:** Click and hold on a puzzle piece and drag it to the desired position on the board. Release to drop it into place.
+*   **Move a Piece:** `Click` and `hold` on a puzzle piece and `drag` it to the desired position on the board. Release to `drop` it into place.
 *   **Rotate a Piece (if applicable):** Some difficulty modes may include rotated pieces. There will typically be a button or keyboard key to rotate a selected piece.
 
 <!-- i18n:section:faq -->

@@ -19,6 +19,8 @@ releaseDate: 2025-10-18
 Pick a Lock is a minimalist rhythm‑timing game: a dial sweeps around a lock, and you must tap exactly when it passes highlighted markers. Later locks add multiple markers, tighter windows, and reversed sweeps, rewarding calm focus.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Count rhythm: Lock into the dial’s beat; tap on the beat rather than by eye alone.
@@ -30,7 +32,7 @@ Pick a Lock is a minimalist rhythm‑timing game: a dial sweeps around a lock, a
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Tap/click when the dial overlaps markers; some variants support key presses.
+- `Tap`/`click` when the dial overlaps markers; some variants support key presses.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

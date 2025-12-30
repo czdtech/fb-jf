@@ -26,8 +26,10 @@ Standalone set of Geometry Dash levels with distinct visual themes and songs; ex
 
 <!-- i18n:section:controls -->
 ### Controls
-- Tap/Space/Mouse to jump; hold to fly (host dependent).
+- `Tap`/`Space`/`Mouse` to jump; `hold` to fly (host dependent).
 
+
+<!-- i18n:section:tips -->
 ### Tips
 - Turn off heavy effects if timing feels late.
 - Count beats aloud for early learning.

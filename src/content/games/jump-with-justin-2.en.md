@@ -19,6 +19,8 @@ releaseDate: 2025-10-18
 Jump With Justin 2 is a light platformer centered on springy jumps, moving platforms, and trap timing. Plan arcs, chain bounces, and keep momentum to reach exits with minimal mistakes.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Arc control: Commit to clean arcs; late jumps often clear hazards better.
@@ -30,7 +32,7 @@ Jump With Justin 2 is a light platformer centered on springy jumps, moving platf
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Move/Jump: Arrow keys / WASD and Space; touch buttons on mobile.
+- Move/Jump: `Arrow keys` / `WASD` and `Space`; touch buttons on mobile.
 - Restart: Fast restart to practice sequences.
 
 <!-- i18n:section:faq -->

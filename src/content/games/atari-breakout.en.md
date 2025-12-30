@@ -20,6 +20,8 @@ Atari Breakout is a classic arcade game that has become a cornerstone of video g
 
 When the ball hits a brick, the brick is destroyed, and the ball ricochets off it. The objective is to destroy all the bricks on the screen to advance to the next level. As the game progresses, the speed of the ball often increases, demanding faster reflexes. If the player fails to hit the ball with the paddle and it goes past them, they lose a life. The game ends when all lives are lost.
 
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 While Breakout seems simple, there are key strategies to maximize your score and clear levels efficiently.
@@ -46,8 +48,8 @@ The controls for Breakout are famously simple.
 
 *   **Movement:**
     *   **Arcade:** A rotary dial (spinner) was used to move the paddle left and right.
-    *   **PC / Web Versions:** Typically, you move the paddle by moving your `mouse` left and right. Alternatively, the `Left` and `Right` Arrow Keys (`←` and `→`) are often supported.
-*   **Launch Ball:** At the start of a life, the ball is attached to your paddle. Pressing a "fire" button (usually the `Spacebar` or a `left mouse click`) will launch it.
+    *   **PC / Web Versions:** Typically, you move the paddle by moving your `mouse` left and right. Alternatively, the `Left` and `Right` `Arrow Keys` (`←` and `→`) are often supported.
+*   **Launch Ball:** At the start of a life, the ball is attached to your paddle. Pressing a "fire" button (usually the `Spacebar` or a `left `mouse` click`) will launch it.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

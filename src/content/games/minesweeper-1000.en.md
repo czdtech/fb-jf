@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Minesweeper 1000 is a modern take on the classic logic puzzle. Uncover all safe tiles without detonating mines: each revealed number shows how many bombs touch that tile (including diagonals). Larger boards emphasize pattern recognition, fast chording, and safe guessing minimization.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Core patterns: Master 1-2, 1-1, and 1-2-1 edge patterns to place flags deterministically.
@@ -29,7 +31,7 @@ Minesweeper 1000 is a modern take on the classic logic puzzle. Uncover all safe 
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Left‑click: reveal. Right‑click: flag. Middle/Chord: open around a satisfied number (implementation‑dependent). Quick restart from the menu.
+- Left‑`click`: reveal. Right‑`click`: flag. Middle/Chord: open around a satisfied number (implementation‑dependent). Quick restart from the menu.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

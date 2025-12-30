@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Color Pin asks you to fire pins into a spinning circle. Avoid hitting existing pins, and in color modes, land on matching segments. Rotation speed and direction shifts keep timing tight, rewarding rhythm and patience over spam.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Identify rotation cycles and shoot at a consistent phase.
@@ -29,7 +31,7 @@ Color Pin asks you to fire pins into a spinning circle. Avoid hitting existing p
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Tap/Click to fire a pin; some variants allow holding to adjust.
+- `Tap`/`Click` to fire a pin; some variants allow holding to adjust.
 - Pause/Restart available via UI.
 
 <!-- i18n:section:faq -->

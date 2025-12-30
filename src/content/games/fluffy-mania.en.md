@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Fluffy Mania is a colorful, relaxing connect‑puzzle. Link adjacent same‑color fluffies to clear them, set up chain reactions, and complete stage goals like score targets, limited moves, or special tile clears.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Make squares: If rules allow loops/squares, they usually clear all of that color—huge value.
@@ -29,7 +31,7 @@ Fluffy Mania is a colorful, relaxing connect‑puzzle. Link adjacent same‑colo
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Connect: Click/tap and drag through same‑color neighbors.
+- Connect: `Click`/`tap` and `drag` through same‑color neighbors.
 - Undo/Retry (if available): Use with care on limited‑move stages.
 
 <!-- i18n:section:faq -->

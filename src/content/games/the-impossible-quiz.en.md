@@ -29,7 +29,7 @@ The game presents a series of multiple-choice questions. Your goal is to answer 
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- **Mouse:** Use your mouse to click on the correct answer or interact with elements on the screen.
+- **`Mouse`:** Use your `mouse` to `click` on the correct answer or interact with elements on the screen.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

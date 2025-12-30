@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Cricket Mania captures fast batting sessions. Read line and length, pick appropriate shots, and time swings to beat field placements and rack up runs under target pressures.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Shot selection: Play with the line—leg glance for pads, cover for off‑side.
@@ -29,7 +31,7 @@ Cricket Mania captures fast batting sessions. Read line and length, pick appropr
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Aim shot with directional input; tap to swing on time.
+- Aim shot with directional input; `tap` to swing on time.
 - Runs tally automatically; watch prompts for special shots.
 
 <!-- i18n:section:faq -->

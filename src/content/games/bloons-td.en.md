@@ -45,11 +45,11 @@ The goal is to survive all the rounds on a given map and difficulty without losi
 <!-- i18n:section:controls -->
 ## Controls Guide
 
-The game is primarily controlled via mouse or touch screen, making it very intuitive.
+The game is primarily controlled via `mouse` or touch screen, making it very intuitive.
 
--   **Placing a Tower:** Select a tower from the UI panel (usually on the right or bottom of the screen). Drag it to a valid position on the map and release to place it.
--   **Upgrading a Tower:** Click on a tower you have already placed on the map. This will bring up its upgrade menu. If you have enough money, you can click on an available upgrade to purchase it.
--   **Using Abilities:** Some tower upgrades grant activated abilities. These will appear as buttons in the tower's menu or at the bottom of the screen. Click them to activate their effect.
+-   **Placing a Tower:** Select a tower from the UI panel (usually on the right or bottom of the screen). `Drag` it to a valid position on the map and release to place it.
+-   **Upgrading a Tower:** `Click` on a tower you have already placed on the map. This will bring up its upgrade menu. If you have enough money, you can `click` on an available upgrade to purchase it.
+-   **Using Abilities:** Some tower upgrades grant activated abilities. These will appear as buttons in the tower's menu or at the bottom of the screen. `Click` them to activate their effect.
 -   **Hotkeys (PC):** Most towers and upgrades are bound to hotkeys (e.g., Q for Dart Monkey, comma and period for upgrades), allowing for very fast placement and upgrading for experienced players.
 
 <!-- i18n:section:faq -->

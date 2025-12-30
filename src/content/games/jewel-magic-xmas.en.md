@@ -19,6 +19,8 @@ releaseDate: 2025-10-17
 Jewel Magic Xmas is a festive and cheerful match-3 puzzle game that wraps the classic jewel-matching experience in a delightful Christmas theme. Players will find themselves in a winter wonderland, swapping colorful ornaments, candy canes, and bells. The goal is to match three or more identical festive items to complete level objectives, create powerful combos, and spread the holiday cheer.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Festive Power-ups:** The key to clearing the board is creating special items by matching more than three ornaments.
@@ -33,9 +35,9 @@ Jewel Magic Xmas is a festive and cheerful match-3 puzzle game that wraps the cl
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-The game is played with simple mouse or touch controls.
+The game is played with simple `mouse` or touch controls.
 
-*   **Swap Ornaments:** Click and drag an ornament to swap it with an adjacent one. The swap will only work if it creates a valid match.
+*   **Swap Ornaments:** `Click` and `drag` an ornament to swap it with an adjacent one. The swap will only work if it creates a valid match.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

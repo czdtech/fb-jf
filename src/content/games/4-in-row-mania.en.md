@@ -22,6 +22,8 @@ releaseDate: 2025-10-18
 4 In Row MANIA is a connect‑four game of vertical tactics. Drop checkers to create threats while blocking your opponent, managing column parity and double‑threat setups.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Center control: The center column yields the most potential lines.
@@ -33,7 +35,7 @@ releaseDate: 2025-10-18
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- `Click`/`tap` a column to drop a checker.
+- `Click`/`tap` a column to `drop` a checker.
 - Local 2‑player or vs. AI modes are common.
 
 <!-- i18n:section:faq -->

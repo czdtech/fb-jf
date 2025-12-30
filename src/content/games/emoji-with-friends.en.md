@@ -23,6 +23,8 @@ releaseDate: 2025-10-18
 Emoji With Friends blends quick matching and light deduction using expressive emoji tiles. Depending on mode, you’ll connect sets, complete mini‑goals, or race an opponent to solve boards first. Short rounds, readable visuals, and low barrier to entry make it a friendly party pick.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Scan patterns: Identify frequent emoji sets to build quick chains.
@@ -34,7 +36,7 @@ Emoji With Friends blends quick matching and light deduction using expressive em
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Select/Match: Click/tap emoji to make valid connections per mode rules.
+- Select/Match: `Click`/`tap` emoji to make valid connections per mode rules.
 - Power‑ups (if any): Activate via on‑screen buttons.
 - Online/local: Modes vary; many are quick local sessions.
 

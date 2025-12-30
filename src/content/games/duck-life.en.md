@@ -30,8 +30,10 @@ The original training‑and‑racing sim: raise a duck’s running, swimming, an
 
 <!-- i18n:section:controls -->
 ### Controls
-- Arrows/Space or mouse depending on mini‑game.
+- Arrows/`Space` or `mouse` depending on mini‑game.
 
+
+<!-- i18n:section:tips -->
 ### Tips
 - Balance stats rather than grinding only one.
 - Watch race previews to see which skills matter most.

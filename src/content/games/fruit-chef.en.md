@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Fruit Chef channels classic fruit‑slicing: flick clean lines through flying fruit, build combo chains, and avoid bombs. The scoring engine rewards long, straight multi‑fruit cuts and steady rhythm over frantic swipes.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Long strokes: Slice multiple fruits in a single straight line for combo bonuses.
@@ -29,7 +31,7 @@ Fruit Chef channels classic fruit‑slicing: flick clean lines through flying fr
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Click‑drag or swipe to cut; avoid bombs; pause/retry via UI.
+- `Click`‑`drag` or `swipe` to cut; avoid bombs; pause/retry via UI.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

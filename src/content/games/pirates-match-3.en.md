@@ -19,6 +19,8 @@ releaseDate: 2025-10-17
 Pirates Match 3 is a classic match-3 puzzle game with a swashbuckling pirate theme. Players dive into a world of treasure maps and pirate booty, swapping colorful, pirate-themed icons like skulls, anchors, ship wheels, and coins. The goal is to create lines of three or more identical items to complete level-specific objectives, such as reaching a target score or clearing special tiles, all within a limited number of moves.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Create Power-ups:** The key to clearing difficult levels is to create special items by matching more than three pieces.
@@ -33,9 +35,9 @@ Pirates Match 3 is a classic match-3 puzzle game with a swashbuckling pirate the
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-The game is played with simple mouse or touch controls.
+The game is played with simple `mouse` or touch controls.
 
-*   **Swap Items:** Click and drag an item to swap it with an adjacent one. A swap is only valid if it creates a match of three or more.
+*   **Swap Items:** `Click` and `drag` an item to swap it with an adjacent one. A swap is only valid if it creates a match of three or more.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

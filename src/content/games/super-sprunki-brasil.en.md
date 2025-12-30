@@ -41,6 +41,8 @@ The gameplay is very simple, master the following points, and you can also play 
  
 ---
  
+
+<!-- i18n:section:tips -->
 ### Tips and Tricks for Super Sprunki Brasil:
  
  - **Explore Brazilian Rhythms:** Focus on incorporating traditional Brazilian rhythms and instruments for an authentic feel.

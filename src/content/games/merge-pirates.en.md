@@ -18,6 +18,8 @@ releaseDate: 2025-10-17
 Merge Pirates is a highly addictive and relaxing puzzle game where you take on the role of a pirate captain building your fleet. The gameplay revolves around merging identical pirate-themed items—like cannons, ship wheels, and treasure maps—to create new, higher-level items. Your goal is to fulfill orders for your crew, earn gold coins, and discover all the legendary pirate gear to become the most notorious captain on the seven seas.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **The Merge Chain:** The core of the game is merging. Drag one item and drop it onto an identical item to create a new, upgraded item. For example, two small cannons might merge into a larger, more powerful cannon.
@@ -28,10 +30,10 @@ Merge Pirates is a highly addictive and relaxing puzzle game where you take on t
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-The game is played with simple drag-and-drop controls.
+The game is played with simple `drag`-and-`drop` controls.
 
-*   **Merge Items:** Click and drag one item and drop it onto another identical item to merge them.
-*   **Buy Items:** Click on the shop icon and then click the item you wish to purchase.
+*   **Merge Items:** `Click` and `drag` one item and `drop` it onto another identical item to merge them.
+*   **Buy Items:** `Click` on the shop icon and then `click` the item you wish to purchase.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

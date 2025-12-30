@@ -38,12 +38,12 @@ Since there is no "winning," the strategy revolves around creating interesting m
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-The controls are incredibly simple and intuitive, designed for mouse or touch input.
+The controls are incredibly simple and intuitive, designed for `mouse` or touch input.
 
--   **Click and Drag a Blob Up/Down:** This controls the **pitch** of the note. Dragging higher makes the blob sing a higher note, and dragging lower makes it sing a lower note.
--   **Click and Drag a Blob Forward/Backward:** This controls the **vowel sound**. Dragging forward or backward cycles through different vowel shapes (like ah, eh, ee, oh, oo).
+-   **`Click` and `Drag` a Blob Up/Down:** This controls the **pitch** of the note. Dragging higher makes the blob sing a higher note, and dragging lower makes it sing a lower note.
+-   **`Click` and `Drag` a Blob Forward/Backward:** This controls the **vowel sound**. Dragging forward or backward cycles through different vowel shapes (like ah, eh, ee, oh, oo).
 -   **Clicking a Blob:** Clicking on a single blob temporarily mutes the others, allowing you to focus on its individual sound.
--   **Record Button (Red Circle):** Click this to start recording your performance. Click it again to stop.
+-   **Record Button (Red Circle):** `Click` this to start recording your performance. `Click` it again to stop.
 -   **Play Button (Triangle):** Plays back your last recording.
 -   **Share Button:** After recording, this button allows you to generate a link to share your opera.
 

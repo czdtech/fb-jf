@@ -18,6 +18,8 @@ releaseDate: 2025-10-17
 Word Search is a classic and beloved word puzzle game. The objective is to find and mark all the words hidden inside a grid of letters. A list of words is provided, and players must scan the grid to locate them. The words can be placed horizontally, vertically, or diagonally, and can be spelled forwards or backwards, making it a fun challenge for your observation skills.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Scan Systematically:** Don't just look randomly. Scan the grid row by row, both forwards and backwards, for the first letter of a word on your list. Then do the same for each column.
@@ -28,9 +30,9 @@ Word Search is a classic and beloved word puzzle game. The objective is to find 
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-The game is played with a simple click-and-drag motion.
+The game is played with a simple `click`-and-`drag` motion.
 
-*   **Highlight a Word:** When you find a word, click on the first letter, hold the mouse button down, and drag your cursor to the last letter of the word. Release the button to confirm the word.
+*   **Highlight a Word:** When you find a word, `click` on the first letter, `hold` the `mouse` button down, and `drag` your cursor to the last letter of the word. Release the button to confirm the word.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

@@ -18,6 +18,8 @@ releaseDate: 2025-10-17
 Cards of the Undead is a turn-based roguelike puzzle game set in a zombie apocalypse. The world is represented by a grid of face-down cards, and you control a hero who can move one space at a time. Each move uncovers a new card, which could be a zombie to fight, valuable coins, or helpful items like health potions and armor. The goal is to strategically navigate the board, manage your health, defeat all the zombies, and survive for as long as possible.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Check Before You Move:** Before moving to a zombie card, always compare your hero's stats (Health and Armor) with the zombie's. Make sure you can survive the encounter. It's often better to find a potion or armor first before taking on a strong enemy.
@@ -28,9 +30,9 @@ Cards of the Undead is a turn-based roguelike puzzle game set in a zombie apocal
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-The game is played with simple mouse clicks or taps.
+The game is played with simple `mouse` clicks or taps.
 
-*   **Move:** Click on any adjacent (horizontal, vertical, or diagonal) card to move your hero to that space. This will reveal the card.
+*   **Move:** `Click` on any adjacent (horizontal, vertical, or diagonal) card to move your hero to that `space`. This will reveal the card.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

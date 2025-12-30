@@ -25,7 +25,7 @@ The core gameplay involves point-and-click interactions. You'll need to click, d
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- **Left Mouse Button:** Used for all interactions, including clicking on objects, dragging elements, and solving puzzles.
+- **`Left `Mouse` Button`:** Used for all interactions, including clicking on objects, dragging elements, and solving puzzles.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

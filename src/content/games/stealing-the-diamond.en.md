@@ -25,7 +25,7 @@ The gameplay is simple: at various points in the story, you will be presented wi
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- **Mouse:** Use your mouse to click on the option you want to choose.
+- **`Mouse`:** Use your `mouse` to `click` on the option you want to choose.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

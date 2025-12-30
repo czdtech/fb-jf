@@ -26,8 +26,8 @@ releaseDate: 2025-12-04T00:00:00.000Z
 <!-- i18n:section:controls -->
 ### Operation Guide:
  
- - **Mouse Operation:** The mouse is the primary control tool for the game. You can use the mouse to drag the characters at the bottom to the blank slots on the stage.
- - **Keyboard Operation:** Some versions of Sprinkle support simple keyboard operations, such as using the spacebar to start/stop the music.
+ - **`Mouse` Operation:** The `mouse` is the primary control tool for the game. You can use the `mouse` to `drag` the characters at the bottom to the blank slots on the stage.
+ - **Keyboard Operation:** Some versions of Sprinkle support simple keyboard operations, such as using the `spacebar` to start/stop the music.
  - **Shortcut Keys:** Shortcut keys may vary depending on the version, but they usually allow quick access to functions such as mute/unmute or clear all characters.
  
  

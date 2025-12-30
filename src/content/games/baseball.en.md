@@ -22,6 +22,8 @@ releaseDate: 2025-08-16
 The objective of the game is straightforward: hit the ball thrown by the pitcher and score as many runs as possible. The gameplay loop is focused entirely on the act of batting. The player does not control fielding or base running; these actions are automated based on the quality of the hit. The challenge comes from the variety of pitches thrown by the opposing team. As the game progresses, pitchers will throw balls at different speeds and trajectories, including fastballs, curveballs, and slow pitches, requiring the player to adapt their timing with each swing. The game ends after the player gets three strikes, and the goal is to achieve the highest possible score.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy
 
 While the game uses only one button, mastering it requires focus and timing.
@@ -43,9 +45,9 @@ While the game uses only one button, mastering it requires focus and timing.
 The controls are as simple as possible, making the game accessible to everyone.
 
 *   **For PC / Web Browser:**
-    *   **Left Mouse Button**: Click to swing the bat.
+    *   **`Left `Mouse` Button`**: `Click` to swing the bat.
 *   **For Mobile / Touchscreen Devices:**
-    *   **Tap the Screen**: Tap anywhere on the screen to swing the bat.
+    *   **`Tap` the Screen**: `Tap` anywhere on the screen to swing the bat.
 
 There are no other controls for moving, running, or fielding.
 

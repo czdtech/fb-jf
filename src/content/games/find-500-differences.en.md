@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Find 500 Differences is a classic puzzle game that puts your attention to detail to the test. Across numerous levels, you will be presented with two beautiful, almost identical images. Your task is to carefully examine them and identify the five subtle differences that set them apart. With a wide variety of pictures, from charming landscapes to complex scenes, the game provides hours of relaxing and engaging fun for all ages.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Scan Systematically:** Don't just randomly look around. Start from the top-left corner and scan both images horizontally, like you're reading a book. This methodical approach ensures you don't miss any sections.
@@ -29,7 +31,7 @@ Find 500 Differences is a classic puzzle game that puts your attention to detail
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **Click/Tap:** Use your mouse to click, or your finger to tap, on the area in either picture where you have spotted a difference.
+*   **`Click`/`Tap`:** Use your `mouse` to `click`, or your finger to `tap`, on the area in either picture where you have spotted a difference.
 *   **Zoom (If available):** Some versions may allow you to zoom in for a closer look at the details.
 
 <!-- i18n:section:faq -->

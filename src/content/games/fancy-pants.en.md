@@ -26,8 +26,10 @@ Hand‑drawn platforming focused on momentum and flow: build speed on slopes, wa
 
 <!-- i18n:section:controls -->
 ### Controls
-- Arrows/WASD: move/jump; S/Down to slide; Up to open doors (host dependent).
+- Arrows/`WASD`: move/jump; S/Down to slide; Up to open doors (host dependent).
 
+
+<!-- i18n:section:tips -->
 ### Tips
 - Don’t mash jump—press at lip/edge for max carry.
 - Slides into jumps preserve speed better than flat starts.

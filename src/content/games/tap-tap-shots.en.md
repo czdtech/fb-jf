@@ -30,8 +30,8 @@ Tap-Tap Shots is a simple, minimalist, and highly addictive arcade basketball ga
 ### Controls Guide
 
 The controls are extremely simple:
-- **PC:** `Left Mouse Button` or `Spacebar` to tap.
-- **Mobile:** Tap the screen.
+- **PC:** `Left `Mouse` Button` or `Spacebar` to `tap`.
+- **Mobile:** `Tap` the screen.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

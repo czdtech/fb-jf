@@ -26,8 +26,10 @@ Entry version of the rhythm platformer: clear curated levels with jump pads, gra
 
 <!-- i18n:section:controls -->
 ### Controls
-- Space/Mouse/Touch to jump; hold to fly; practice toggles vary by host.
+- `Space`/`Mouse`/Touch to jump; `hold` to fly; practice toggles vary by host.
 
+
+<!-- i18n:section:tips -->
 ### Tips
 - Turn on practice for tough sections to set checkpoints.
 - Use music cues to predict upcoming jumps.

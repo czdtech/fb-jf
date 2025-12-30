@@ -41,7 +41,7 @@ The challenge lies in figuring out the precise sequence of pin-pulls to ensure a
 
 The controls are extremely simple and designed for one-touch mobile gameplay.
 
-*   **Pull a Pin**: **Click and drag** the pin you want to remove out of its slot. Alternatively, a simple **tap** on the end of the pin often works as well.
+*   **Pull a Pin**: **`Click` and `drag`** the pin you want to remove out of its slot. Alternatively, a simple **`tap`** on the end of the pin often works as well.
 
 <!-- i18n:section:faq -->
 ### **Frequently Asked questions (FAQ)**

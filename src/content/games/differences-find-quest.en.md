@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Differences Find Quest challenges you to compare two images and spot subtle changes: missing objects, color swaps, flipped patterns, or size variations. Later levels add more differences, trick angles, and gentle time pressure.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Grid scan: Divide the image into 4–6 zones and sweep each zone methodically.
@@ -29,7 +31,7 @@ Differences Find Quest challenges you to compare two images and spot subtle chan
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Tap differences on either image; wrong taps may cost time.
+- `Tap` differences on either image; wrong taps may cost time.
 - Use hints sparingly; some modes penalize excessive hints.
 
 <!-- i18n:section:faq -->

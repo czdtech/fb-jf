@@ -18,6 +18,8 @@ releaseDate: 2025-10-17
 2048 Fusion is a sleek and modern version of the classic 2048 sliding block puzzle. The game is played on a 4x4 grid where you must slide and combine numbered tiles. When two tiles with the same number touch, they merge into a single tile with their values added together. The primary objective is to create the elusive "2048" tile, but the game can continue beyond that for an even higher score. It's a game of foresight, strategy, and a little bit of luck.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **The Corner Strategy:** This is the most popular and effective strategy. Choose one corner of the grid (e.g., the top right) and make it your goal to always keep your highest-value tile in that spot. This provides a stable anchor to build towards.
@@ -28,7 +30,7 @@ releaseDate: 2025-10-17
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **Desktop:** Use the `Up`, `Down`, `Left`, and `Right` arrow keys to move all tiles on the grid in the chosen direction.
+*   **Desktop:** Use the `Up`, `Down`, `Left`, and `Right` `arrow keys` to move all tiles on the grid in the chosen direction.
 *   **Mobile:** `Swipe` Up, Down, Left, or Right on the screen.
 
 <!-- i18n:section:faq -->

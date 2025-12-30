@@ -19,6 +19,8 @@ releaseDate: 2025-10-17
 Om Nom Connect Classic is a fun and fast-paced tile-matching puzzle game featuring the adorable characters from the Cut the Rope universe. The goal is to clear the board by finding and connecting pairs of identical tiles. The challenge lies in the connection rule: a pair can only be removed if the path between them has no more than two 90-degree turns. With a timer counting down, you'll need to be quick and strategic to complete each level.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **The Connection Rule:** You can only match two identical tiles if you can draw a line between them with a maximum of two bends (L-shape or Z/U-shape). The path must also be clear of any other tiles.
@@ -31,7 +33,7 @@ Om Nom Connect Classic is a fun and fast-paced tile-matching puzzle game featuri
 
 The game is played with simple clicks or taps.
 
-*   **Select Tiles:** Click on a tile to select it, then click on its identical partner. If the connection is valid according to the rules, the pair will be removed.
+*   **Select Tiles:** `Click` on a tile to select it, then `click` on its identical partner. If the connection is valid according to the rules, the pair will be removed.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

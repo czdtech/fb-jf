@@ -18,6 +18,8 @@ releaseDate: 2025-10-17
 Snowboard King 2024 is a thrilling, fast-paced arcade game where you snowboard down a treacherous, endless mountain slope. Your primary goal is to survive for as long as possible, skillfully navigating around obstacles like trees and rocks. Adding to the challenge, a deadly avalanche is constantly chasing you from behind, forcing you to maintain your speed and think fast. Collect coins along the way to upgrade your abilities and solidify your title as the Snowboard King.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Look Ahead:** The key to a long run is anticipation. Keep your eyes focused far down the slope to see upcoming obstacles and plan your path well in advance.
@@ -28,8 +30,8 @@ Snowboard King 2024 is a thrilling, fast-paced arcade game where you snowboard d
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **Steer:** Use the **A/D keys** or the **Left/Right Arrow keys** to steer your snowboarder.
-*   **Boost:** Press the **Spacebar** to activate a temporary speed boost.
+*   **Steer:** Use the **A/D keys** or the **Left/Right `Arrow keys`** to steer your snowboarder.
+*   **Boost:** `Press` the **`Spacebar`** to activate a temporary speed boost.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

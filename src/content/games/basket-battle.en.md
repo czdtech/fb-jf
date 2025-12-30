@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Basket Battle is a snappy, physics‑leaning basketball mini‑game. Line up arcs, control timing, and manage rebounds to edge opponents in short, hectic rounds.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Arc aiming: Higher arcs drop softer and score more consistently.
@@ -29,7 +31,7 @@ Basket Battle is a snappy, physics‑leaning basketball mini‑game. Line up arc
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Aim/Power: Drag to aim, release to shoot.
+- Aim/Power: `Drag` to aim, release to shoot.
 - Move/Jump (if available) via arrows/buttons.
 
 <!-- i18n:section:faq -->

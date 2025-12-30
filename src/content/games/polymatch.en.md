@@ -19,6 +19,8 @@ releaseDate: 2025-10-18
 PolyMatch is an engaging tile-matching puzzle game that challenges your observation and strategic thinking. The game presents you with a board filled with various tiles, each featuring a unique image or pattern. Your objective is to clear the board by finding and matching pairs of identical tiles. The twist lies in the limited holding area at the bottom of the screen, which can only hold a few tiles. You must carefully select tiles to ensure you can make matches and prevent the holding area from filling up, which would lead to a game over.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Prioritize Visible Matches:** Always look for and make matches that are immediately visible and accessible. This helps to clear space and reveal more tiles.
@@ -30,7 +32,7 @@ PolyMatch is an engaging tile-matching puzzle game that challenges your observat
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **Select Tile:** Click or tap on a tile on the main game board to move it to the holding area at the bottom.
+*   **Select Tile:** `Click` or `tap` on a tile on the main game board to move it to the holding area at the bottom.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

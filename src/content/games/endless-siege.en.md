@@ -24,6 +24,8 @@ releaseDate: 2025-10-17
 Endless Siege is a highly engaging tower defense game that challenges you to defend your kingdom against relentless waves of orcs, goblins, and other monstrous foes. The standout feature of the game is that you are presented with a brand new, procedurally generated map every single day, ensuring endless replayability. You must strategically place and upgrade a variety of defensive towers to survive as many waves as possible and compete for the daily high score.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Know Your Towers:** Understanding your defenses is key.
@@ -39,9 +41,9 @@ Endless Siege is a highly engaging tower defense game that challenges you to def
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **Build a Tower:** Click on an empty circular plot on the map to bring up the build menu, then select the tower you wish to build.
-*   **Upgrade a Tower:** Click on an existing tower to see its stats and available upgrades. Click the upgrade button to level it up.
-*   **Call the Next Wave:** When you are ready, click the "Next Wave" button to start the next onslaught of enemies.
+*   **Build a Tower:** `Click` on an empty circular plot on the map to bring up the build menu, then select the tower you wish to build.
+*   **Upgrade a Tower:** `Click` on an existing tower to see its stats and available upgrades. `Click` the upgrade button to level it up.
+*   **Call the Next Wave:** When you are ready, `click` the "Next Wave" button to start the next onslaught of enemies.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

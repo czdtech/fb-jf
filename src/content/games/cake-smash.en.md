@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Cake Smash is a vibrant and engaging match-3 puzzle game. The objective is to swap adjacent cakes to create lines of three or more identical cakes, which then get "smashed" and removed from the board, with new cakes falling into place. Each level has a specific goal, such as reaching a certain score or clearing a certain number of a specific type of cake.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Identify Matches:** Look for opportunities to match three or more identical cakes by swapping two adjacent cakes.
@@ -28,7 +30,7 @@ Cake Smash is a vibrant and engaging match-3 puzzle game. The objective is to sw
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **Mouse/Touch:** Use the mouse or touch screen to click and drag or tap on adjacent cakes to swap them.
+*   **`Mouse`/Touch:** Use the `mouse` or touch screen to `click` and `drag` or `tap` on adjacent cakes to swap them.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

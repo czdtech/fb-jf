@@ -26,8 +26,8 @@ The main goal is to score more goals than your opponent before time runs out. Wo
 ### Controls Guide
 
 - **Movement:** Use `WASD` or `Arrow Keys` to drive your car around the field.
-- **Boost/Dash:** Press `Shift` or `Spacebar` to get a burst of speed. This is crucial for reaching the ball first or making a quick save.
-- **Jump:** Use the `Right Mouse Button` or a dedicated key to make your car jump, which is useful for aerial hits.
+- **Boost/Dash:** `Press` `Shift` or `Spacebar` to get a burst of speed. This is crucial for reaching the ball first or making a quick save.
+- **Jump:** Use the `Right `Mouse` Button` or a dedicated key to make your car jump, which is useful for aerial hits.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

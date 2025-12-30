@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Block Blaster Puzzle is a clean, session‑friendly block‑placement game. You’re given sets of pieces to fit onto a grid; completing rows or regions clears space. Success relies on shaping the board to accept awkward pieces later, staging multi‑line clears, and avoiding sealed cavities that cannot be filled.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Edge hygiene: Keep borders smooth to reduce isolated single cells.
@@ -30,7 +32,7 @@ Block Blaster Puzzle is a clean, session‑friendly block‑placement game. You�
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Drag shapes onto the grid; rotate if supported by tapping or a rotate button.
+- `Drag` shapes onto the grid; rotate if supported by tapping or a rotate button.
 - Undo/Reset are helpful for greedy placements gone wrong.
 
 <!-- i18n:section:faq -->

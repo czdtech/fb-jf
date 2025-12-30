@@ -26,8 +26,10 @@ Story‑driven entry with nightly objectives. You crawl through vents, repair sy
 
 <!-- i18n:section:controls -->
 ### Controls
-- Mouse/UI to interact with panels, shocks, and monitors; movement keys for vent sections (host dependent).
+- `Mouse`/UI to interact with panels, shocks, and monitors; movement keys for vent sections (host dependent).
 
+
+<!-- i18n:section:tips -->
 ### Tips
 - Listen carefully—audio cues and flickers telegraph danger.
 - Move slowly through dark vent segments; rushing triggers failures.

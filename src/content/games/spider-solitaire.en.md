@@ -28,7 +28,7 @@ Spider Solitaire is a challenging and popular variant of the classic solitaire c
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- **Mouse/Touch:** Click and drag cards to move them between columns. Most versions also support a single click to automatically move a card to a valid position if one exists.
+- **`Mouse`/Touch:** `Click` and `drag` cards to move them between columns. Most versions also support a single `click` to automatically move a card to a valid position if one exists.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

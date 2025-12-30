@@ -27,12 +27,14 @@ Crazy Cars is a casual browser driving game on a free‑roam city map with ramps
 
 <!-- i18n:section:controls -->
 ### Controls
-- WASD or Arrow Keys: Drive / steer  
-- Space: Brake/handbrake (host‑dependent); Nitro where available  
+- `WASD` or `Arrow Keys`: Drive / steer  
+- `Space`: Brake/handbrake (host‑dependent); Nitro where available  
 - R: Reset vehicle  
-- Esc/P: Pause/menu  
+- `Esc`/P: Pause/menu  
 - Split‑screen: second player uses the other key set
 
+
+<!-- i18n:section:tips -->
 ### Tips and Strategies
 - Feather the throttle during sharp turns to reduce understeer.  
 - Approach big ramps straight and at speed; avoid mid‑air steering corrections.  

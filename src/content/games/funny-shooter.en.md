@@ -26,8 +26,10 @@ First‑person waves with evolving enemy types and basic upgrades.
 
 <!-- i18n:section:controls -->
 ### Controls
-- WASD to move, Mouse to aim/shoot; R reload; number keys swap.
+- `WASD` to move, `Mouse` to aim/shoot; R reload; number keys swap.
 
+
+<!-- i18n:section:tips -->
 ### Tips
 - Headshots conserve ammo and time.
 - Use cover and corners to funnel enemies.

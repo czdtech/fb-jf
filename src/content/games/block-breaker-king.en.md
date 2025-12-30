@@ -36,8 +36,8 @@ The game ends when you are unable to place any of the given shapes onto the boar
 
 The game is designed for simple one-touch mobile gameplay.
 
-*   **Select and Place**: **Touch and hold** a block shape from the bottom of the screen, **drag** it to the desired position on the grid, and **release** to place it.
-*   **Rotate**: In many games of this type, you can tap the shape before dragging it to rotate it. This may or may not be a feature depending on the specific version.
+*   **Select and Place**: **Touch and `hold`** a block shape from the bottom of the screen, **`drag`** it to the desired position on the grid, and **release** to place it.
+*   **Rotate**: In many games of this type, you can `tap` the shape before dragging it to rotate it. This may or may not be a feature depending on the specific version.
 
 <!-- i18n:section:faq -->
 ### **Frequently Asked questions (FAQ)**

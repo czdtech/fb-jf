@@ -39,9 +39,9 @@ There is no real "strategy" to win this game in a traditional sense, as it is a 
 <!-- i18n:section:controls -->
 ### **Controls Guide**
 
-The game was originally a Flash-based browser game and uses very simple mouse controls.
+The game was originally a Flash-based browser game and uses very simple `mouse` controls.
 
-*   **Mouse Click and Drag**: Most actions, such as plucking, cutting, and moving items, are performed by clicking on an object and dragging the mouse in the direction indicated by on-screen arrows or guides.
+*   **`Mouse` `Click` and `Drag`**: Most actions, such as plucking, cutting, and moving items, are performed by clicking on an object and dragging the `mouse` in the direction indicated by on-screen arrows or guides.
 
 <!-- i18n:section:faq -->
 ### **Frequently Asked Questions (FAQ)**

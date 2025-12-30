@@ -49,7 +49,7 @@ As a Roblox game, the controls follow the platform's standard format.
 
 *   **Move**: `W`, `A`, `S`, `D` keys
 *   **Jump**: `Space Bar`
-*   **Sprint**: Hold `Shift` key
+*   **Sprint**: `Hold` `Shift` key
 *   **Crouch / Sneak**: `Ctrl` or `C` key
 *   **Interact / Steal**: `E` or `F` key
 *   **Use Item**: Number keys `1`, `2`, `3`... or `Q` key

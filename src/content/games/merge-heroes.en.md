@@ -18,6 +18,8 @@ releaseDate: 2025-10-17
 Merge Heroes is a captivating blend of merge-puzzle mechanics and auto-battle strategy. In this game, you are tasked with defending your kingdom from hordes of monsters. You build your army not just by recruiting, but by merging identical heroes to evolve them into more powerful warriors. Strategically place your merged heroes on the battlefield and watch as they automatically defend against wave after wave of enemies.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Buy and Merge:** Use your gold to buy basic heroes, which appear on your reserve board. The core of the game is to drag and drop one hero onto another identical hero. This merges them into a single, higher-level hero with improved stats.
@@ -28,11 +30,11 @@ Merge Heroes is a captivating blend of merge-puzzle mechanics and auto-battle st
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-The game is played with simple drag-and-drop controls.
+The game is played with simple `drag`-and-`drop` controls.
 
-*   **Buy Hero:** Click the "Buy" button to spend gold and get a new base-level hero.
-*   **Merge Heroes:** Click and drag a hero onto another identical hero to merge them.
-*   **Deploy/Undeploy:** Drag a hero from your reserve board to an empty slot on the battlefield to deploy them. You can also drag them back to the reserve board to swap them out.
+*   **Buy Hero:** `Click` the "Buy" button to spend gold and get a new base-level hero.
+*   **Merge Heroes:** `Click` and `drag` a hero onto another identical hero to merge them.
+*   **Deploy/Undeploy:** `Drag` a hero from your reserve board to an empty slot on the battlefield to deploy them. You can also `drag` them back to the reserve board to swap them out.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

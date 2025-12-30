@@ -18,6 +18,8 @@ releaseDate: 2025-10-17
 Pirate Pop is a fun and addictive bubble shooter game with a swashbuckling pirate theme. Your goal is to clear the screen of colorful bubbles by firing your cannon and matching three or more bubbles of the same color. Aim carefully, use the walls to make tricky bank shots, and create large chain reactions to drop big clusters of bubbles and claim the pirate treasure!
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Aim High for Big Drops:** The most effective way to score big is to pop a cluster of bubbles that is supporting other bubbles below it. This will cause a huge avalanche, clearing a large portion of the board at once and earning you massive combo points.
@@ -28,8 +30,8 @@ Pirate Pop is a fun and addictive bubble shooter game with a swashbuckling pirat
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **Aim:** Move your mouse to aim the cannon. A helpful guideline will show you where your bubble will go.
-*   **Shoot:** Click the left mouse button to fire the bubble.
+*   **Aim:** Move your `mouse` to aim the cannon. A helpful guideline will show you where your bubble will go.
+*   **Shoot:** `Click` the `left `mouse` button` to fire the bubble.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

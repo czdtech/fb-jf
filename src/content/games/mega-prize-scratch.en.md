@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Mega Prize Scratch simulates a scratch ticket: recover hidden symbols, match patterns, and trigger bonus rounds. Each card is independent; treat the game as light entertainment rather than a strategy challenge.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Budget: Set a small session budget and stick to it.
@@ -29,7 +31,7 @@ Mega Prize Scratch simulates a scratch ticket: recover hidden symbols, match pat
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Drag to scratch; press buttons to reveal all, buy new cards, or enter bonuses.
+- `Drag` to scratch; `press` buttons to reveal all, buy new cards, or `enter` bonuses.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

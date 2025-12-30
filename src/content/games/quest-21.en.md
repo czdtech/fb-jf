@@ -19,6 +19,8 @@ releaseDate: 2025-10-17
 Quest 21 is a fun and strategic card game adventure based on the rules of classic Blackjack. Instead of just playing at a casino table, you embark on a quest, facing off against a series of opponents. To defeat them and advance, you must win hands of 21. The goal in each hand is to get a card total closer to 21 than your opponent without going over. It combines the luck of the draw with simple, strategic decisions.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **The Goal:** Get your hand total as close to 21 as possible, without exceeding it. A hand over 21 is a "bust" and an automatic loss.
@@ -37,8 +39,8 @@ Quest 21 is a fun and strategic card game adventure based on the rules of classi
 
 The game is played with on-screen buttons.
 
-*   **Hit:** Click the "Hit" button to be dealt another card.
-*   **Stand:** Click the "Stand" button to end your turn and see what the opponent has.
+*   **Hit:** `Click` the "Hit" button to be dealt another card.
+*   **Stand:** `Click` the "Stand" button to end your turn and see what the opponent has.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

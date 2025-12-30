@@ -20,6 +20,8 @@ Alien Hominid is a fast-paced 2D side-scrolling run-and-gun shooter developed by
 
 The premise is simple: players control a small, yellow alien whose UFO has been shot down by the FBI. Now stranded on Earth, the alien must fight its way through waves of secret agents, KGB soldiers, and various bosses to recover its spaceship and escape the planet. The gameplay is heavily inspired by classic arcade shooters like *Contra* and *Metal Slug*, featuring one-hit kills, relentless waves of enemies, and intense boss battles that demand precision and pattern recognition.
 
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 Alien Hominid is notoriously difficult. Success relies on reflexes, pattern memorization, and mastering the alien's full moveset.
@@ -46,12 +48,12 @@ Controls can vary slightly between the Flash version and console/HD versions, bu
 
 *   **Movement:** `Arrow Keys` / `D-Pad` / `Analog Stick` to move left and right.
 *   **Jump:** `A` Key (Keyboard) / `A` or `X` Button (Controller).
-*   **Shoot:** `S` Key (Keyboard) / `X` or `Square` Button (Controller). Hold to charge the shot.
+*   **Shoot:** `S` Key (Keyboard) / `X` or `Square` Button (Controller). `Hold` to charge the shot.
 *   **Grenade:** `D` Key (Keyboard) / `B` or `Circle` Button (Controller).
 *   **Duck/Roll:** `Down Arrow Key` / `Down` on `D-Pad`.
 *   **Special Moves:**
-    *   **Dig:** Press `Down` + `Jump` when on soft ground (dirt, sand).
-    *   **Melee Attack:** Get close to an enemy and press the `Shoot` button.
+    *   **Dig:** `Press` `Down` + `Jump` when on soft ground (dirt, sand).
+    *   **Melee Attack:** Get close to an enemy and `press` the `Shoot` button.
     *   **Ride/Chomp:** `Jump` directly on top of an enemy's head.
 
 <!-- i18n:section:faq -->

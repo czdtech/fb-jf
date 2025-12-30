@@ -22,6 +22,8 @@ Cat Mario, more formally known as Syobon Action (しょぼんのアクション)
 The entire game is designed to subvert player expectations and troll them in every way imaginable. The levels are filled with countless hidden traps, invisible blocks, ground that suddenly collapses, enemies that behave unpredictably, and background elements that are actually lethal. The core gameplay is based on trial and error, requiring players to die repeatedly to memorize the location and nature of each trap. The game's humor comes from the sheer absurdity and unfairness of the deaths, and the life counter, which often goes into negative numbers, serves as a running gag. The goal is simply to reach the flagpole at the end of each stage without rage-quitting.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough Principles
 
 There is no "strategy" in the traditional sense, only memorization. The game is a test of patience and memory, not skill.
@@ -44,7 +46,7 @@ There is no "strategy" in the traditional sense, only memorization. The game is 
 ### Controls Guide
 
 The controls are very simple and mimic classic 2D platformers.
--   **Left/Right Arrow Keys:** Move the character left and right.
+-   **Left/Right `Arrow Keys`:** Move the character left and right.
 -   **Up Arrow Key:** Jump.
 
 There is no run button or fire button.

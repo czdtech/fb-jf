@@ -23,6 +23,8 @@ releaseDate: 2025-10-18
 Chess Mania offers a superb chess experience for enthusiasts of all levels. This game provides a clean interface and a powerful AI opponent with multiple difficulty settings. Whether you are learning the rules or a seasoned grandmaster, Chess Mania is the perfect place to practice your strategy, test new openings, and sharpen your tactical skills. The goal remains the same: outwit your opponent and place their king in checkmate.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Master the Opening:** Start the game by developing your pieces toward the center of the board. A strong opening sets the stage for the entire game.
@@ -34,7 +36,7 @@ Chess Mania offers a superb chess experience for enthusiasts of all levels. This
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **Select and Move:** Click on a piece to see its legal moves highlighted, then click on the destination square to move it.
+*   **Select and Move:** `Click` on a piece to see its legal moves highlighted, then `click` on the destination square to move it.
 *   **Game Menu:** Use the menu to choose your opponent's difficulty, start a new game, or get a hint if you're stuck.
 
 <!-- i18n:section:faq -->

@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Lollipop World is a colorful match‑3 with frosting, wrappers, and chocolate as blockers. Objectives range from score thresholds to collecting candies and clearing jelly. Power‑up merges (bomb+line, color clears) are essential on dense boards.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Objective focus: Clear blockers/collectibles before chasing points.
@@ -29,7 +31,7 @@ Lollipop World is a colorful match‑3 with frosting, wrappers, and chocolate as
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Drag to swap; tap power‑ups; pause/retry via UI.
+- `Drag` to swap; `tap` power‑ups; pause/retry via UI.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

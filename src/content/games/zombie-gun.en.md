@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Zombie Gun emphasizes angle shooting: ricochet bullets off walls, hit explosive barrels, and collapse props to eliminate zombies with few shots. Later rooms add armored foes that require environmental kills.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Bank shots: Use walls to hit tucked targets.
@@ -29,7 +31,7 @@ Zombie Gun emphasizes angle shooting: ricochet bullets off walls, hit explosive 
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Aim and click to fire; restart via UI; some builds limit ammo per room.
+- Aim and `click` to fire; restart via UI; some builds limit ammo per room.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

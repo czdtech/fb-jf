@@ -26,8 +26,10 @@ Cut the Rope is a physics‑based puzzle game where you slice ropes to deliver a
 
 <!-- i18n:section:controls -->
 ### Controls
-- Mouse/touch swipes to cut; buttons for level restart/next; some hosts add hint systems. 
+- `Mouse`/touch swipes to cut; buttons for level restart/next; some hosts add hint systems. 
 
+
+<!-- i18n:section:tips -->
 ### Tips and Strategies
 - Visualize the candy’s swing arc before cutting; chain two quick cuts to redirect motion.  
 - Pop bubbles near target height so Om Nom can grab the candy.  

@@ -39,12 +39,12 @@ The game's immense popularity comes from its witty and constantly updated roster
 <!-- i18n:section:controls -->
 ### **Controls Guide**
 
-As a Roblox game, the controls are simple and mouse-driven.
+As a Roblox game, the controls are simple and `mouse`-driven.
 
-*   **Select Plants**: Use your **mouse** to click on the plant cards at the top or side of the screen.
-*   **Planting**: After selecting a card, click on a valid square on your lawn to plant.
-*   **Collecting Focus**: Click on the Focus icons that your Focus Flowers produce.
-*   **Camera Movement**: Use `W, A, S, D` keys or your mouse to adjust your view of the lawn.
+*   **Select Plants**: Use your **`mouse`** to `click` on the plant cards at the top or side of the screen.
+*   **Planting**: After selecting a card, `click` on a valid square on your lawn to plant.
+*   **Collecting Focus**: `Click` on the Focus icons that your Focus Flowers produce.
+*   **Camera Movement**: Use `W, A, S, D` keys or your `mouse` to adjust your view of the lawn.
 
 <!-- i18n:section:faq -->
 ### **Frequently Asked Questions (FAQ)**

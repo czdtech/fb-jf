@@ -25,8 +25,10 @@ Crossword Puzzles features themed crossword grids that follow common American‑
 
 <!-- i18n:section:controls -->
 ### Controls
-- Type A–Z; arrow keys navigate; Backspace deletes; Enter/Tab toggles direction or moves to next clue (site‑dependent). 
+- Type A–Z; `arrow keys` navigate; `Backspace` deletes; `Enter`/`Tab` toggles direction or moves to next clue (site‑dependent). 
 
+
+<!-- i18n:section:tips -->
 ### Tips and Strategies
 - Scan for easy fill‑in‑the‑blank clues, plurals, and common abbreviations.  
 - Leverage the theme: once you see the pattern, other themers fall faster.  

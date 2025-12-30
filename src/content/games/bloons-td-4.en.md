@@ -31,6 +31,8 @@ The game also introduced a **player rank system**. By playing and completing gam
 -   **Consumables:** Road Spikes and Monkey Glue Puddles can be placed on the track as single-use defenses.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy
 
 -   **Plan Your Upgrades:** Because you can no longer buy every upgrade, you must plan ahead. Decide what role a tower will fill. Do you need a Bomb Tower for stunning (`MOAB Mauler`) or for massive area damage (`Bloon Impact`)?
@@ -52,12 +54,12 @@ The game also introduced a **player rank system**. By playing and completing gam
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-The interface is a classic point-and-click system.
+The interface is a classic point-and-`click` system.
 
--   **Select & Place Tower:** Click a tower from the right-hand panel. If it is unlocked and you have enough money, you can place it on the map by clicking again.
--   **Upgrade Tower:** Click an existing tower on the map. Its upgrade panel will appear. Click on one of the two paths to purchase upgrades. Remember that buying a tier 3 or 4 upgrade on one path will lock the other path.
--   **Hotkeys:** Use the corresponding hotkeys (displayed on the tower icons) to select towers quickly. The spacebar starts rounds, and fast forward speeds up the game.
--   **Consumables:** Click the Road Spikes or Glue Puddle icon at the bottom and then click on the track to place them.
+-   **Select & Place Tower:** `Click` a tower from the right-hand panel. If it is unlocked and you have enough money, you can place it on the map by clicking again.
+-   **Upgrade Tower:** `Click` an existing tower on the map. Its upgrade panel will appear. `Click` on one of the two paths to purchase upgrades. Remember that buying a tier 3 or 4 upgrade on one path will lock the other path.
+-   **Hotkeys:** Use the corresponding hotkeys (displayed on the tower icons) to select towers quickly. The `spacebar` starts rounds, and fast forward speeds up the game.
+-   **Consumables:** `Click` the Road Spikes or Glue Puddle icon at the bottom and then `click` on the track to place them.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

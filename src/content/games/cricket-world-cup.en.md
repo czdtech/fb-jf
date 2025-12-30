@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Cricket World Cup focuses on batting scenarios: judge line and length, choose ground shots or lofts, and place the ball through gaps to beat set targets over limited overs.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Shot selection by line: Leg‑side late glances vs pads; off‑side drives for wide lines.
@@ -29,7 +31,7 @@ Cricket World Cup focuses on batting scenarios: judge line and length, choose gr
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Aim with directional input; tap to swing; loft/ground toggles vary by build.
+- Aim with directional input; `tap` to swing; loft/ground toggles vary by build.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

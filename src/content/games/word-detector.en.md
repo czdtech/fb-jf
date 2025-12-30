@@ -18,6 +18,8 @@ releaseDate: 2025-10-17
 Word Detector is a fast-paced word-finding puzzle game that challenges your vocabulary and speed. You are presented with a grid of letters and must find as many words as possible by connecting adjacent letters. Words can be formed by linking letters horizontally, vertically, or diagonally. The goal is typically to reach a target score or find a certain number of words within a time limit to progress to the next level.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Scan for Common Prefixes and Suffixes:** Look for common letter combinations like "S", "ED", "ER", or "ING". These can often be the start or end of multiple words, helping you find several words quickly.
@@ -28,9 +30,9 @@ Word Detector is a fast-paced word-finding puzzle game that challenges your voca
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-The game is played with a simple click-and-drag motion.
+The game is played with a simple `click`-and-`drag` motion.
 
-*   **Form a Word:** Click on the first letter of the word you've found, hold the mouse button, and drag your cursor through all the adjacent letters of the word in order. Release the mouse button on the last letter to submit the word.
+*   **Form a Word:** `Click` on the first letter of the word you've found, `hold` the `mouse` button, and `drag` your cursor through all the adjacent letters of the word in order. Release the `mouse` button on the last letter to submit the word.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

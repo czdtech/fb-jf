@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Words Challenge mixes anagram solving, mini crosswords, and quick prompts. Success favors pattern recognition (prefix/suffix), letter frequency intuition, and calm elimination under light timers.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Morphology: Mine prefixes (RE/UN) and suffixes (‑ING/‑ED/‑ER) first.
@@ -29,7 +31,7 @@ Words Challenge mixes anagram solving, mini crosswords, and quick prompts. Succe
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Drag letters for anagrams; type for crosswords; click options for prompts.
+- `Drag` letters for anagrams; type for crosswords; `click` options for prompts.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

@@ -18,6 +18,8 @@ releaseDate: 2025-10-17
 Totemia: Cursed Marbles is a thrilling action-puzzle game in the style of classic marble shooters like Zuma or Luxor. A chain of cursed, colored marbles is rolling along a path towards a secret chamber. You control a powerful tiki stone that shoots marbles. Your objective is to destroy the entire chain by shooting marbles to create matches of three or more of the same color before the first marble reaches the end of the line.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Aim for Combos:** The key to a high score and clearing levels efficiently is to create combos. When you pop a group of marbles, the chain will temporarily stop. If the two new ends of the chain are the same color, they will attract each other, pull back, and merge, often creating an automatic new match. This is a combo!
@@ -28,9 +30,9 @@ Totemia: Cursed Marbles is a thrilling action-puzzle game in the style of classi
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **Aim:** Move your mouse to aim the tiki stone shooter.
-*   **Shoot:** Click the left mouse button to fire the marble.
-*   **Swap Marbles:** You can typically right-click or press the spacebar to swap between the two marbles in your shooter.
+*   **Aim:** Move your `mouse` to aim the tiki stone shooter.
+*   **Shoot:** `Click` the `left `mouse` button` to fire the marble.
+*   **Swap Marbles:** You can typically right-`click` or `press` the `spacebar` to swap between the two marbles in your shooter.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

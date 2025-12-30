@@ -18,6 +18,8 @@ releaseDate: 2025-10-17
 Endless Lake is a minimalist and challenging endless runner that tests your timing and reflexes. You control a character running across a series of platforms suspended over a tranquil lake. The gameplay is focused on one simple mechanic: jumping. You must perfectly time your single and double jumps to navigate the ever-changing gaps between platforms and see how far you can go.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Master the Double Jump:** The most crucial skill in the game is the double jump. Tapping once gives you a short hop, but tapping a second time while in mid-air gives you an extra boost to cross wider gaps. Learning the feel and distance of both jump types is essential.
@@ -30,8 +32,8 @@ Endless Lake is a minimalist and challenging endless runner that tests your timi
 
 The game uses a simple one-touch control system.
 
-*   **Single Jump:** Click the left mouse button or tap the screen once.
-*   **Double Jump:** Tap or click once to initiate a jump, then tap or click a second time while your character is in the air.
+*   **Single Jump:** `Click` the `left `mouse` button` or `tap` the screen once.
+*   **Double Jump:** `Tap` or `click` once to initiate a jump, then `tap` or `click` a second time while your character is in the air.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

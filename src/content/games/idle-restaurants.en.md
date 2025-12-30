@@ -18,6 +18,8 @@ releaseDate: 2025-10-17
 Idle Restaurants is a classic idle management game that puts you in charge of building a culinary empire from the ground up. You start with a small, humble diner and must strategically invest your earnings to grow your business. By upgrading your tables, chefs, and waiters, you can increase your efficiency and profits. The ultimate goal is to automate your workflow by hiring managers and expand your enterprise by opening new, more profitable restaurants.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **The Restaurant Workflow:** Understand the flow of money. Customers arrive and are seated -> The chef prepares their order -> The waiter delivers the food -> The customer pays. Each step in this chain can be upgraded.
@@ -30,8 +32,8 @@ Idle Restaurants is a classic idle management game that puts you in charge of bu
 
 The entire game is played by clicking or tapping on various buttons.
 
-*   **Upgrade:** Click the upgrade buttons associated with the tables, the chef's station, or the waiters to improve their level and efficiency.
-*   **Hire Manager:** Click the manager icon for a station to hire them and automate that station's process.
+*   **Upgrade:** `Click` the upgrade buttons associated with the tables, the chef's station, or the waiters to improve their level and efficiency.
+*   **Hire Manager:** `Click` the manager icon for a station to hire them and automate that station's process.
 *   **Navigate:** Use the world map or restaurant list to switch between your different restaurant locations.
 
 <!-- i18n:section:faq -->

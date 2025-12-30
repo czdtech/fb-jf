@@ -18,6 +18,8 @@ releaseDate: 2025-10-17
 Unblock That is a classic and challenging sliding block puzzle. The game presents you with a grid filled with wooden blocks of various sizes. Your goal is to strategically slide these blocks to clear a path for the special red block to escape through the exit. With hundreds of levels ranging from easy to expert, it’s a perfect game to train your logical thinking and problem-solving skills.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Identify the Main Blockers:** Look at the red block and identify the blocks that are directly in its path to the exit. Your first goal is to move these primary blockers.
@@ -28,9 +30,9 @@ Unblock That is a classic and challenging sliding block puzzle. The game present
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-The game is played with simple drag-and-drop controls.
+The game is played with simple `drag`-and-`drop` controls.
 
-*   **Move a Block:** Click and hold on any wooden block. You can only slide it along its orientation (horizontally or vertically) into an empty space.
+*   **Move a Block:** `Click` and `hold` on any wooden block. You can only slide it along its orientation (horizontally or vertically) into an empty `space`.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

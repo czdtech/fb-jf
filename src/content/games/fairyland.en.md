@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Fairyland is a low‑stress adventure filled with collectible tasks, simple environmental puzzles, and whimsical scenes. You’ll search for hidden objects, activate switches in the right order, escort little critters, and occasionally complete mini‑games. Progress across compact chapters while enjoying exploration rather than combat.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Sweep methodically: Clear one scene at a time; zoom or pan for small interactables.
@@ -29,7 +31,7 @@ Fairyland is a low‑stress adventure filled with collectible tasks, simple envi
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Click/tap to interact, drag for items or sliders, hold for long presses when needed.
+- `Click`/`tap` to interact, `drag` for items or sliders, `hold` for long presses when needed.
 - Menu provides hints/logbook if available.
 
 <!-- i18n:section:faq -->

@@ -18,6 +18,8 @@ releaseDate: 2025-10-17
 Gold Miner Tom is a classic arcade-style game that tests your timing and precision. As the ambitious miner Tom, you control a swinging claw and must cast it at the right moment to grab valuable treasures buried underground. Each level has a specific monetary goal you must reach within a time limit. Grab gold nuggets, sparkling diamonds, and mysterious goodie bags, but be careful to avoid worthless rocks that will waste your precious time!
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Timing is Everything:** The claw swings back and forth continuously. Your success depends entirely on clicking at the perfect moment to send the claw in the direction of a valuable item.
@@ -33,8 +35,8 @@ Gold Miner Tom is a classic arcade-style game that tests your timing and precisi
 
 The game uses a simple, one-touch control scheme.
 
-*   **Cast Claw:** Click your mouse or tap the screen to launch the claw in its current direction.
-*   **Use Dynamite:** If you have dynamite and have grabbed an object, a dynamite button will appear. Click it to destroy the object on your claw.
+*   **Cast Claw:** `Click` your `mouse` or `tap` the screen to launch the claw in its current direction.
+*   **Use Dynamite:** If you have dynamite and have grabbed an object, a dynamite button will appear. `Click` it to destroy the object on your claw.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

@@ -26,8 +26,10 @@ The third entry sharpens platforming with trickier timing windows, moving hazard
 
 <!-- i18n:section:controls -->
 ### Controls
-- Arrows/WASD move/jump; attack/interact per host.
+- Arrows/`WASD` move/jump; attack/interact per host.
 
+
+<!-- i18n:section:tips -->
 ### Tips
 - Stay patient on moving hazards—missing one cycle costs less than a death.
 - Route coins/items only if they don’t risk the timer.

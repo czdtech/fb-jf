@@ -47,15 +47,15 @@ The strategy for Clicker Heroes evolves as you play.
 <!-- i18n:section:controls -->
 ### **Controls Guide**
 
-The game is primarily mouse-driven, but keyboard shortcuts are essential for efficiency.
+The game is primarily `mouse`-driven, but keyboard shortcuts are essential for efficiency.
 
-*   **Mouse Click**: Click on the monster to deal damage. Click on buttons to hire/level up heroes and activate skills.
+*   **`Mouse` `Click`**: `Click` on the monster to deal damage. `Click` on buttons to hire/level up heroes and activate skills.
 *   **Number Keys (1-9)**: Activate your player skills.
 *   **Hero Leveling Shortcuts**:
-    *   **SHIFT + Click**: Level up a hero 10 times.
-    *   **Z + Click**: Level up a hero 25 times.
-    *   **CTRL + Click**: Level up a hero 100 times.
-    *   **Q + Click**: Level up a hero to the maximum affordable amount.
+    *   **`SHIFT` + `Click`**: Level up a hero 10 times.
+    *   **Z + `Click`**: Level up a hero 25 times.
+    *   **`CTRL` + `Click`**: Level up a hero 100 times.
+    *   **Q + `Click`**: Level up a hero to the maximum affordable amount.
     *   **A**: Progress to the next level (or toggle auto-progression).
 
 <!-- i18n:section:faq -->

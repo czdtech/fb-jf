@@ -26,8 +26,10 @@ Google’s Klondike solitaire offers draw‑1 or draw‑3 modes. Build four foun
 
 <!-- i18n:section:controls -->
 ### Controls
-- Mouse/touch drag‑and‑drop; double‑click auto‑moves when legal.
+- `Mouse`/touch `drag`‑and‑`drop`; double‑`click` auto‑moves when legal.
 
+
+<!-- i18n:section:tips -->
 ### Tips
 - Prefer moves that reveal a face‑down card.
 - Keep at least one empty column ready for maneuvering.

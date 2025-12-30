@@ -29,7 +29,7 @@ Mahjongg Candy is a sweet and engaging tile-matching puzzle game that puts a col
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- **Mouse/Touch:** Use your mouse or finger to click/tap on the tiles to select them.
+- **`Mouse`/Touch:** Use your `mouse` or finger to `click`/`tap` on the tiles to select them.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

@@ -22,6 +22,8 @@ Bad Time Simulator is a fan-made browser game that meticulously recreates the fi
 The game pits the player, controlling a red heart-shaped SOUL, against an onslaught of complex and fast-paced attacks. Unlike typical battles, the objective is not simply to deal damage, but to survive a series of relentless "bullet hell" sequences. The gameplay area is a small white box where the player must maneuver their SOUL to dodge bones, laser beams from "Gaster Blasters," and navigate challenging platforming sections where gravity is manipulated. The fight is characterized by its lack of invincibility frames (meaning you can take damage rapidly) and the "Karmic Retribution" (KR) effect, a poison-like mechanic that drains health over time after being hit.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy
 
 Winning in Bad Time Simulator is less about aggression and more about endurance and memorization.
@@ -39,7 +41,7 @@ Winning in Bad Time Simulator is less about aggression and more about endurance 
 
 The controls are simple and based on standard keyboard inputs for PC/browser versions.
 
-*   **Arrow Keys (`↑` `↓` `←` `→`)**: Move the SOUL (your heart) around the box.
+*   **`Arrow Keys` (`↑` `↓` `←` `→`)**: Move the SOUL (your heart) around the box.
 *   **`Z` Key / `Enter` Key**: Confirm selections in the menu (e.g., selecting `[FIGHT]`).
 *   **`X` Key / `Shift` Key**: Cancel or go back in menus (less frequently used in the simulator).
 

@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Jungle Match Puzzle is a colorful match‑3 with vines, crates, and sticky tiles as blockers. You must complete scene goals (score, collect idols, free animals) within move limits. Combining power‑ups (bomb + line, double line) wipes dense foliage and opens the board for cascading clears.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Objective‑first: Prioritize blocker clears and collect goals before pure scoring.
@@ -29,7 +31,7 @@ Jungle Match Puzzle is a colorful match‑3 with vines, crates, and sticky tiles
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Drag to swap; activate power‑ups by matching/tapping; pause/retry via UI.
+- `Drag` to swap; activate power‑ups by matching/tapping; pause/retry via UI.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

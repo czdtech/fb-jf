@@ -18,6 +18,8 @@ releaseDate: 2025-10-17
 Space Survivor is an action-packed, roguelike survival game in the style of "Vampire Survivors." You pilot a spaceship that attacks automatically, and your only job is to skillfully navigate through ever-growing hordes of alien enemies. By defeating foes and collecting the experience gems they drop, you will level up and be able to choose from a variety of powerful new weapons and upgrades. Each run is different, challenging you to create a unique and overpowered build to survive for as long as possible.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Focus on Survival:** In the early game, your top priority is not getting hit. Weave through the enemy swarms and focus on collecting the blue experience gems they drop. Your initial weapon is weak, so dodging is more important than trying to kill everything.
@@ -32,7 +34,7 @@ Space Survivor is an action-packed, roguelike survival game in the style of "Vam
 
 The game uses simple movement controls.
 
-*   **Move Ship:** Use the **WASD keys**, **Arrow Keys**, or click and drag your **mouse** to move your spaceship around the screen.
+*   **Move Ship:** Use the **`WASD` keys**, **`Arrow Keys`**, or `click` and `drag` your **`mouse`** to move your spaceship around the screen.
 *   **Attacking:** All of your weapons fire automatically.
 
 <!-- i18n:section:faq -->

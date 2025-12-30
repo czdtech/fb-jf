@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Freekick Football is a game that focuses on the art of the free kick in soccer. Players are challenged to score goals from various set-piece situations, navigating past defensive walls and the goalkeeper. The game tests your precision, timing, and understanding of ball physics.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Aiming:** Carefully aim your shot to find a path to the goal. Consider the position of the wall and the goalkeeper.
@@ -28,7 +30,7 @@ Freekick Football is a game that focuses on the art of the free kick in soccer. 
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **Mouse/Touch:** Use the mouse or touch screen to aim, set power, and apply spin to the ball. The exact controls may vary slightly, but generally involve a sequence of clicks or swipes.
+*   **`Mouse`/Touch:** Use the `mouse` or touch screen to aim, set power, and apply spin to the ball. The exact controls may vary slightly, but generally involve a sequence of clicks or swipes.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

@@ -29,7 +29,7 @@ The core gameplay involves solving puzzles to progress. Each area presents new c
 ### Controls Guide
 
 - **Movement:** `WASD` or `Arrow Keys` to move your character.
-- **Interaction:** `Left Mouse Button` to click on objects, activate mechanisms, and solve puzzles.
+- **Interaction:** `Left `Mouse` Button` to `click` on objects, activate mechanisms, and solve puzzles.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

@@ -28,8 +28,8 @@ Geometry Dash Wave is a challenging, rhythm-based platformer that is a popular m
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- **PC:** `Spacebar`, `Up Arrow Key`, or `Left Mouse Button` to control the wave.
-- **Mobile:** Tap and hold the screen to control the wave.
+- **PC:** `Spacebar`, `Up Arrow Key`, or `Left `Mouse` Button` to control the wave.
+- **Mobile:** `Tap` and `hold` the screen to control the wave.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

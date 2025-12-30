@@ -18,6 +18,8 @@ releaseDate: 2025-10-17
 Bubble Woods Ultimate is a high-energy, fast-paced bubble shooter that challenges you to score as many points as possible within a tight 60-second time limit. Set in a vibrant forest, you must shoot bubbles to create matches of three or more, triggering cascades and earning massive points. The game features a variety of powerful boosters and a level-up system that rewards skillful play, making every round an exciting race against the clock.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Speed is Everything:** With only 60 seconds on the clock, you need to be fast. Aim and shoot quickly. Don't spend too long deliberating on a single shot.
@@ -31,9 +33,9 @@ Bubble Woods Ultimate is a high-energy, fast-paced bubble shooter that challenge
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **Aim:** Move your mouse to aim the bubble cannon.
-*   **Shoot:** Click the left mouse button to fire the bubble.
-*   **Swap:** You can often click on the cannon or the next bubble in the queue to swap between your current and next projectile.
+*   **Aim:** Move your `mouse` to aim the bubble cannon.
+*   **Shoot:** `Click` the `left `mouse` button` to fire the bubble.
+*   **Swap:** You can often `click` on the cannon or the next bubble in the queue to swap between your current and next projectile.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

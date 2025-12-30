@@ -29,7 +29,7 @@ The main objective is to build four foundation piles, starting with the Ace and 
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- **Mouse/Touch:** Click and drag cards to move them between piles. In most versions, you can also simply click a card, and it will automatically move to a valid position if one is available.
+- **`Mouse`/Touch:** `Click` and `drag` cards to move them between piles. In most versions, you can also simply `click` a card, and it will automatically move to a valid position if one is available.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

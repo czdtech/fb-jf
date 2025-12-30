@@ -25,8 +25,10 @@ Tight one‑button timing with dense trap layouts and robust local multiplayer s
 
 <!-- i18n:section:controls -->
 ### Controls
-- Single key/tap to flip; one key per player in vs.
+- Single key/`tap` to flip; one key per player in vs.
 
+
+<!-- i18n:section:tips -->
 ### Tips
 - Practice on slower sections to lock in your rhythm.
 - Use long ceilings/floors to reset timing after mistakes.

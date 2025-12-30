@@ -25,8 +25,10 @@ Crosswords are letter grids solved by filling Across and Down entries that match
 
 <!-- i18n:section:controls -->
 ### Controls
-- Type A–Z; arrow keys move between cells; Backspace deletes; Enter/Tab often switches direction or jumps to the next clue (site‑dependent). 
+- Type A–Z; `arrow keys` move between cells; `Backspace` deletes; `Enter`/`Tab` often switches direction or jumps to the next clue (site‑dependent). 
 
+
+<!-- i18n:section:tips -->
 ### Tips and Strategies
 - Start with easy clues (fill‑in‑the‑blank, plural/tense markers) to get crossings.  
 - Fill long theme entries after gaining letters from nearby answers.  

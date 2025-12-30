@@ -19,6 +19,8 @@ releaseDate: 2025-10-18
 Futoshiki ("not equal") is a Latin‑square logic puzzle like Sudoku but with inequality signs (>, <) between neighboring cells. You must place digits so each row/column contains all numbers exactly once and every inequality is satisfied. The signs create strong chains that power elegant deductions.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Inequality chains: A>B>C means A≥C+2; pencil candidates accordingly.
@@ -30,7 +32,7 @@ Futoshiki ("not equal") is a Latin‑square logic puzzle like Sudoku but with in
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Tap a cell to enter candidates/values; toggle pencil mode; undo/redo.
+- `Tap` a cell to `enter` candidates/values; toggle pencil mode; undo/redo.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

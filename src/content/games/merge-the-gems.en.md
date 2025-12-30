@@ -18,6 +18,8 @@ releaseDate: 2025-10-17
 Merge the Gems is a simple, relaxing, and highly addictive puzzle game centered around merging identical gems to create new, more valuable ones. You start with basic, uncut stones and combine them to progressively form sparkling, elaborate jewels. The goal is to manage your game board, continuously merge to discover new gem types, and fulfill objectives to earn points and coins.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **The Merge Chain:** The core of the game is to drag one gem and drop it onto an identical gem. The two will then merge into a single, new gem of a higher level. The key is to keep merging to create more space and discover more valuable jewels.
@@ -28,10 +30,10 @@ Merge the Gems is a simple, relaxing, and highly addictive puzzle game centered 
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-The game is played with simple drag-and-drop controls.
+The game is played with simple `drag`-and-`drop` controls.
 
-*   **Merge Gems:** Click and drag one gem and drop it onto another identical gem to merge them.
-*   **Buy Gems:** Click on the shop icon to purchase gems you have already discovered.
+*   **Merge Gems:** `Click` and `drag` one gem and `drop` it onto another identical gem to merge them.
+*   **Buy Gems:** `Click` on the shop icon to purchase gems you have already discovered.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

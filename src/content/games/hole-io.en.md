@@ -26,8 +26,10 @@ Hole io drops you into a destructible city as a roaming black hole. Start by eat
 
 <!-- i18n:section:controls -->
 ### Controls
-- Mouse/drag or WASD to steer; modes and timers vary by host.
+- `Mouse`/`drag` or `WASD` to steer; modes and timers vary by host.
 
+
+<!-- i18n:section:tips -->
 ### Tips
 - Avoid larger rivals until you’ve grown; escape down wide streets.
 - Plan a growth route; detours waste precious timer seconds.

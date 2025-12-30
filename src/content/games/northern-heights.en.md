@@ -19,6 +19,8 @@ releaseDate: 2025-10-18
 Northern Heights is a skiing game that takes you on an exciting journey over snow. Players navigate steep descents, perform gorgeous stunts for bonus points, and collect coins. The game emphasizes balancing speed and control, and offers customization options for characters, boards, and clothing.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Master the Controls:** Learn the controls for steering and stunt accuracy to navigate the slopes effectively.
@@ -30,7 +32,7 @@ Northern Heights is a skiing game that takes you on an exciting journey over sno
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **Arrow Keys/Mouse:** Use the arrow keys or mouse to steer your character down the slopes. Specific controls for stunts may vary.
+*   **`Arrow Keys`/`Mouse`:** Use the `arrow keys` or `mouse` to steer your character down the slopes. Specific controls for stunts may vary.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

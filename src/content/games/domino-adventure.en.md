@@ -36,9 +36,9 @@ The winner of a round scores points equal to the total number of pips left in th
 <!-- i18n:section:controls -->
 ### **Controls Guide**
 
-The game is designed for simple, intuitive drag-and-drop or click-based gameplay.
+The game is designed for simple, intuitive `drag`-and-`drop` or `click`-based gameplay.
 
-*   **Play a Tile**: **Click and drag** a domino from your rack to a valid matching end on the board. Alternatively, you can often just **click** the tile you want to play, and it will automatically move to a valid spot if one exists.
+*   **Play a Tile**: **`Click` and `drag`** a domino from your rack to a valid matching end on the board. Alternatively, you can often just **`click`** the tile you want to play, and it will automatically move to a valid spot if one exists.
 
 <!-- i18n:section:faq -->
 ### **Frequently Asked Questions (FAQ)**

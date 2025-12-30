@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Parking Jam is a Rush‑Hour style puzzle: slide cars along their lanes to clear the path for the target vehicle. Higher levels cram lots with multi‑length cars, one‑way arrows, and blockers requiring precise order of operations.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Goal backchain: Work backward from the exit to identify cars that truly gate progress.
@@ -29,7 +31,7 @@ Parking Jam is a Rush‑Hour style puzzle: slide cars along their lanes to clear
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Drag cars along permitted axes; undo/reset via UI.
+- `Drag` cars along permitted axes; undo/reset via UI.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

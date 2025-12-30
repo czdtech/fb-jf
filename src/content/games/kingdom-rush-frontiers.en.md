@@ -26,8 +26,10 @@ Frontiers refines the Kingdom Rush formula with new biomes, enemy abilities, and
 
 <!-- i18n:section:controls -->
 ### Controls
-- Mouse/touch to build, upgrade, and cast; hotkeys vary by host.
+- `Mouse`/touch to build, upgrade, and cast; hotkeys vary by host.
 
+
+<!-- i18n:section:tips -->
 ### Tips
 - Don’t overbuild early—upgrade key towers for efficient damage.
 - Split splash and single‑target to handle mixed waves.

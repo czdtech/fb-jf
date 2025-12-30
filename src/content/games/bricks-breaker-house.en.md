@@ -19,6 +19,8 @@ releaseDate: 2025-10-18
 Bricks Breaker House is a themed brick‑breaker where each board introduces fresh obstacles and gentle twists. Your job is classic: keep volleys alive, route shots through high‑value tiles, and leverage power‑ups without losing control.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Aim for controlled caroms around 30–45° to keep predictable loops.
@@ -30,8 +32,8 @@ Bricks Breaker House is a themed brick‑breaker where each board introduces fre
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Move paddle with A/D or Left/Right; mouse/touch controls supported.
-- Serve with Space/Click; catch power‑ups on the paddle.
+- Move paddle with A/D or Left/Right; `mouse`/touch controls supported.
+- Serve with `Space`/`Click`; catch power‑ups on the paddle.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

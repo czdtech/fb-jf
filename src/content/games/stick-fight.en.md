@@ -32,8 +32,8 @@ Controls are typically based on a standard 2D platformer layout:
 - **Move:** `A` and `D` or `Left/Right Arrow Keys`
 - **Jump:** `W` or `Up Arrow` Key
 - **Crouch:** `S` or `Down Arrow` Key
-- **Attack:** `Left Mouse Button` or `F`
-- **Block:** `Right Mouse Button` or `G`
+- **Attack:** `Left `Mouse` Button` or `F`
+- **Block:** `Right `Mouse` Button` or `G`
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Crazy Balls challenges you to send balls through obstacle‑filled stages, leveraging ricochets, bumpers, and moving elements. Precision angles and controlled power separate clean clears from chaotic misses.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Use side walls to bend trajectories into tight corridors.
@@ -29,7 +31,7 @@ Crazy Balls challenges you to send balls through obstacle‑filled stages, lever
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Drag to aim and set power; release to shoot.
+- `Drag` to aim and set power; release to shoot.
 - Restart via UI when needed.
 
 <!-- i18n:section:faq -->

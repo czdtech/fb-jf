@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Fruit Chopper is a fast-paced and juicy arcade game that tests your reflexes and precision. Your screen will be filled with a variety of delicious fruits flying through the air. Your mission is to slice as many of them as you can with a swipe of your finger or mouse. But be careful! Dangerous bombs are mixed in with the fruit, and hitting one will end your game. Challenge yourself to get the highest score by creating impressive combos and surviving as long as possible.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Slice in Combos:** The key to a high score is slicing multiple fruits in a single, continuous swipe. A 3-fruit combo is good, but a 4 or 5-fruit combo will give you a massive score bonus.
@@ -29,7 +31,7 @@ Fruit Chopper is a fast-paced and juicy arcade game that tests your reflexes and
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **Slice:** Click and drag your mouse across the fruit to slice it. On a mobile device, simply swipe your finger across the screen.
+*   **Slice:** `Click` and `drag` your `mouse` across the fruit to slice it. On a mobile device, simply `swipe` your finger across the screen.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

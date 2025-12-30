@@ -30,6 +30,8 @@ BTD5 significantly expanded the game's universe with several key additions:
 -   **Activated Abilities:** Many tier-4 upgrades grant powerful, player-activated abilities that can turn the tide of a battle, such as the MOAB Assassin's missile or the Heli Pilot's Downdraft.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy
 
 -   **Economy is Everything:** The single most important strategy for success in BTD5 is building a strong economy. Start building **Banana Farms** as early as possible. The most efficient upgrade path is 4/2 (`Banana Research Facility` with `More Bananas`), which generates crates of cash each round.
@@ -47,11 +49,11 @@ BTD5 significantly expanded the game's universe with several key additions:
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-The game uses a standard point-and-click or tap interface.
+The game uses a standard point-and-`click` or `tap` interface.
 
--   **Placing/Upgrading:** Select a tower from the right-hand panel, place it on the map. Click the tower to open its upgrade menu and choose an upgrade path.
+-   **Placing/Upgrading:** Select a tower from the right-hand panel, place it on the map. `Click` the tower to open its upgrade menu and choose an upgrade path.
 -   **Upgrade Paths:** Upgrading a tower to tier 3 or 4 on one path will lock the corresponding tiers on the other path. For example, a 4/x tower cannot be upgraded past x/2.
--   **Activated Abilities:** When a tower has an activated ability, a button for it will appear on the bottom left of the screen. Click it to use it.
+-   **Activated Abilities:** When a tower has an activated ability, a button for it will appear on the bottom left of the screen. `Click` it to use it.
 -   **Hotkeys:** The PC version uses hotkeys for placing towers and activating abilities, which are displayed on the icons.
 
 <!-- i18n:section:faq -->

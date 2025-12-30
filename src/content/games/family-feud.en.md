@@ -30,8 +30,10 @@ Two teams try to guess top answers from survey questions. Rounds award points ba
 
 <!-- i18n:section:controls -->
 ### Controls
-- Keyboard entry for answers; Enter to submit; arrow/onscreen UI to navigate (host dependent).
+- Keyboard entry for answers; `Enter` to submit; arrow/onscreen UI to navigate (host dependent).
 
+
+<!-- i18n:section:tips -->
 ### Tips
 - Think broad categories first (e.g., “fruit,” “car,” “money”).
 - Aim for synonyms if an obvious word is taken.

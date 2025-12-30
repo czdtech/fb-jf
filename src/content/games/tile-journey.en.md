@@ -18,6 +18,8 @@ releaseDate: 2025-10-17
 Tile Journey is a modern and relaxing tile-matching puzzle game that challenges your strategic thinking. The goal is to clear a board stacked with various tiles by selecting three identical tiles. Unlike traditional match-3 games, you don't swap tiles. Instead, you select tiles and move them to a limited-capacity collection tray at the bottom of the screen. When three identical tiles are in the tray, they are cleared. You must plan your moves carefully to clear the entire board without letting the tray fill up.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **The Golden Rule:** The collection tray is limited (usually to seven slots). If you fill it completely without making a match, you lose. Every move must be made with this in mind.
@@ -30,7 +32,7 @@ Tile Journey is a modern and relaxing tile-matching puzzle game that challenges 
 
 The game is played with simple clicks or taps.
 
-*   **Select a Tile:** Click on any uncovered tile on the main board to move it to the collection tray at the bottom.
+*   **Select a Tile:** `Click` on any uncovered tile on the main board to move it to the collection tray at the bottom.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

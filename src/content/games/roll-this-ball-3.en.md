@@ -18,6 +18,8 @@ releaseDate: 2025-10-17
 Roll This Ball is a classic and challenging sliding block puzzle designed to test your logic and planning skills. The game presents you with a grid of tiles, some of which are fixed in place, while others can be moved. Your goal is to slide the movable blocks to form a continuous, unbroken path for a ball to roll from its starting point to the goal. It's a simple concept with surprisingly deep and challenging puzzles.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Analyze the Path:** Before you start moving blocks, trace the potential path with your eyes. Identify the key pieces that need to connect the start and end points.
@@ -28,9 +30,9 @@ Roll This Ball is a classic and challenging sliding block puzzle designed to tes
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-The game is played with simple drag-and-drop or sliding controls.
+The game is played with simple `drag`-and-`drop` or sliding controls.
 
-*   **Move a Block:** Click and drag a movable block to slide it into an adjacent empty space.
+*   **Move a Block:** `Click` and `drag` a movable block to slide it into an adjacent empty `space`.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

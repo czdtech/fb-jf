@@ -36,6 +36,8 @@ The game is played over 50 rounds of increasing difficulty. Players earn money f
     -   **Rainbow Bloons:** The toughest Bloon in the game. When popped, it releases two Zebra Bloons.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy
 
 -   **Balanced Defense is Essential:** This is the most critical strategy in Bloons TD 2. Because Black Bloons are immune to bombs and White Bloons are immune to ice, you cannot rely on just one type of damage. Your defense must include towers that can handle both (like Dart Monkeys, Tack Shooters, and Super Monkeys) alongside your specialized towers.
@@ -51,11 +53,11 @@ The game is played over 50 rounds of increasing difficulty. Players earn money f
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-The controls are simple point-and-click, typical for Flash games of its era.
+The controls are simple point-and-`click`, typical for Flash games of its era.
 
--   **Select a Tower:** Click on the tower you wish to buy from the panel on the right side of the screen.
--   **Place a Tower:** Move your mouse to a valid position on the map and click again to place it.
--   **Upgrade a Tower:** Click on a tower that is already on the map. Its upgrade options will appear in the panel. Click on the desired upgrade to purchase it if you have enough money.
+-   **Select a Tower:** `Click` on the tower you wish to buy from the panel on the right side of the screen.
+-   **Place a Tower:** Move your `mouse` to a valid position on the map and `click` again to place it.
+-   **Upgrade a Tower:** `Click` on a tower that is already on the map. Its upgrade options will appear in the panel. `Click` on the desired upgrade to purchase it if you have enough money.
 -   **Hotkeys:** You can use the number keys (1-5) as shortcuts to select the corresponding towers.
 
 <!-- i18n:section:faq -->

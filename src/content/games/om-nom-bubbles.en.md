@@ -19,6 +19,8 @@ releaseDate: 2025-10-18
 Om Nom Bubbles is a classic bubble‑shooter starring the beloved Om Nom. Aim and shoot colored bubbles to make matches of three or more and clear sections of the board. Strategic banking off the walls, color management, and planning for upcoming bubbles are key to keeping the ceiling from dropping too low.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Target anchors: Remove clusters that hold large sections; collapsing big groups accelerates clears.
@@ -30,8 +32,8 @@ Om Nom Bubbles is a classic bubble‑shooter starring the beloved Om Nom. Aim an
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Aim: Move the cursor or drag to set trajectory; a guide may show the path.
-- Shoot: Click or release to fire.
+- Aim: Move the cursor or `drag` to set trajectory; a guide may show the path.
+- Shoot: `Click` or release to fire.
 - Swap (if available): Some versions allow swapping the current and next bubble for flexibility.
 
 <!-- i18n:section:faq -->

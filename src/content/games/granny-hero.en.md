@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Granny Hero is a lighthearted runner where a spry granny dashes through streets, avoids slapstick hazards, and collects items to aid neighbors. Expect lane swaps, jump/slide timing, and occasional gadgets (scooters, umbrellas, pans) that grant brief invulnerability or crowd‑control.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Lane vision: Keep eyes two obstacles ahead to prepare swaps.
@@ -29,7 +31,7 @@ Granny Hero is a lighthearted runner where a spry granny dashes through streets,
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Swap lanes: A/D or Left/Right; Jump: Space/Up; Slide: Down; gadgets via keys.
+- Swap lanes: A/D or Left/Right; Jump: `Space`/Up; Slide: Down; gadgets via keys.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

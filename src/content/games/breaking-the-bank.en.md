@@ -42,10 +42,10 @@ You are presented with six options displayed at the bottom of the screen:
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-The game is controlled entirely with the mouse.
+The game is controlled entirely with the `mouse`.
 
--   **Mouse Cursor:** Move the cursor to hover over an option.
--   **Left-Click:** Click on your desired option to see what happens.
+-   **`Mouse` Cursor:** Move the cursor to hover over an option.
+-   **Left-`Click`:** `Click` on your desired option to see what happens.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

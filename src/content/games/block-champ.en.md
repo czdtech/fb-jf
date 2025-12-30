@@ -31,6 +31,8 @@ What sets Block Champ apart are its special blocks:
 The game requires foresight and careful space management to achieve a high score.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy
 
 -   **Keep Your Options Open:** Avoid creating single, isolated empty squares. These "holes" are very difficult to fill, as you must wait for a 1x1 block, which is rare. Try to keep the board as flat and open as possible.
@@ -43,11 +45,11 @@ The game requires foresight and careful space management to achieve a high score
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-The game features very simple drag-and-drop controls, suitable for both mouse and touch devices.
+The game features very simple `drag`-and-`drop` controls, suitable for both `mouse` and touch devices.
 
--   **Select a Piece:** Click and hold (or tap and hold) one of the three available block shapes at the bottom of the screen.
--   **Place the Piece:** Drag the selected shape onto the 10x10 grid. If the placement is valid, the squares will be highlighted.
--   **Confirm Placement:** Release the mouse button (or lift your finger) to drop the piece into the highlighted position.
+-   **Select a Piece:** `Click` and `hold` (or `tap` and `hold`) one of the three available block shapes at the bottom of the screen.
+-   **Place the Piece:** `Drag` the selected shape onto the 10x10 grid. If the placement is valid, the squares will be highlighted.
+-   **Confirm Placement:** Release the `mouse` button (or lift your finger) to `drop` the piece into the highlighted position.
 
 **Important Note:** The pieces cannot be rotated. You must use them in the orientation they are given.
 

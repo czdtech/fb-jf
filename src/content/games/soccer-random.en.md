@@ -29,7 +29,7 @@ The game is designed for simplicity and can be played by one or two players on t
 - **Player 1:** `W` Key
 - **Player 2:** `Up Arrow` Key
 
-Press your key to make your players jump and kick.
+`Press` your key to make your players jump and kick.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

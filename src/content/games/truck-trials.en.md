@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Truck Trials is an off-road driving game where players navigate challenging courses with trucks, focusing on skill and precision rather than speed. The goal is to reach the finish line without crashing or losing your cargo.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Patience is Key:** This game requires careful maneuvering rather than high speed. Take your time to navigate obstacles.
@@ -28,7 +30,7 @@ Truck Trials is an off-road driving game where players navigate challenging cour
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **Arrow Keys/On-screen buttons:** Use the arrow keys or on-screen buttons for acceleration, braking, and steering.
+*   **`Arrow Keys`/On-screen buttons:** Use the `arrow keys` or on-screen buttons for acceleration, braking, and steering.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

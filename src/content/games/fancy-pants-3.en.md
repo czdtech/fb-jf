@@ -26,8 +26,10 @@ Third entry focuses on faster flow, expanded exploration, and challenge rooms re
 
 <!-- i18n:section:controls -->
 ### Controls
-- Arrows/WASD to move/jump; Down to slide; Up to enter.
+- Arrows/`WASD` to move/jump; Down to slide; Up to `enter`.
 
+
+<!-- i18n:section:tips -->
 ### Tips
 - Keep a rhythm—hesitation kills speed.
 - Use slopes to convert vertical drops into forward velocity.

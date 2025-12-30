@@ -29,6 +29,8 @@ The game offers multiple tracks and three difficulty levels (Easy, Medium, Hard)
 -   **Persistent Bloon Immunities:** The concepts of **Lead** (immune to sharp), **Black** (immune to explosions), and **White** (immune to freeze) Bloons are central to the game's strategy.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy
 
 -   **Balanced Start:** Begin with Dart Monkeys and Tack Shooters. Upgrade your Dart Monkeys to "Piercing Darts" quickly. A Boomerang Thrower is excellent for covering curved sections of the track.
@@ -44,12 +46,12 @@ The game offers multiple tracks and three difficulty levels (Easy, Medium, Hard)
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-The game uses a simple and intuitive point-and-click interface.
+The game uses a simple and intuitive point-and-`click` interface.
 
--   **Select & Place Tower:** Click a tower from the right-hand panel, then click on a valid spot on the map to place it.
--   **Upgrade Tower:** Click on an existing tower on the map to see its available upgrades in the panel. Click an upgrade to purchase it.
+-   **Select & Place Tower:** `Click` a tower from the right-hand panel, then `click` on a valid spot on the map to place it.
+-   **Upgrade Tower:** `Click` on an existing tower on the map to see its available upgrades in the panel. `Click` an upgrade to purchase it.
 -   **Start Round/Fast Forward:** Use the buttons at the bottom right to start the next round or to speed up the game.
--   **Hotkeys:** Use the number keys (1-8) to select towers. The spacebar starts the next round.
+-   **Hotkeys:** Use the number keys (1-8) to select towers. The `spacebar` starts the next round.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

@@ -18,6 +18,8 @@ releaseDate: 2025-10-17
 Tiles of Egypt is a strategic, triple-tile matching puzzle game with a captivating ancient Egyptian theme. The game challenges you to clear a board stacked with intricately designed tiles. To do this, you must select three identical tiles and place them in a collection tray at the bottom. Once three matching tiles are in the tray, they disappear. The goal is to clear the entire board, but you must plan carefully, as the collection tray has limited space.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **The Rule of Three:** The entire game is about matching tiles in sets of three. You must select three identical tiles to remove them.
@@ -30,7 +32,7 @@ Tiles of Egypt is a strategic, triple-tile matching puzzle game with a captivati
 
 The game is played with simple clicks or taps.
 
-*   **Select a Tile:** Click on any uncovered tile on the board to move it to the collection tray below.
+*   **Select a Tile:** `Click` on any uncovered tile on the board to move it to the collection tray below.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

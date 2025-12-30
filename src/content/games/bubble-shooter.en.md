@@ -22,6 +22,8 @@ Bubble Shooter is a classic and highly addictive puzzle game. The objective is t
 The core mechanic is simple: when the launched bubble hits a group of two or more bubbles of the same color, the entire connected group of matching bubbles is removed from the screen. Any bubbles that were attached only to the cleared group will also fall and be removed. The goal is to clear all the bubbles from the screen to win the level or achieve the highest possible score before the bubbles descend to the bottom line. After a certain number of shots without clearing any bubbles, a new row of bubbles is added at the top, increasing the pressure and challenge.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy
 
 -   **Aim for the Highest Bubbles:** The single most important strategy is not just to make matches, but to make matches that are high up on the screen. If you clear a group of bubbles that is supporting other bubbles below it, all the unsupported bubbles will fall. Dropping large clusters this way is the key to high scores and efficient clearing.
@@ -33,11 +35,11 @@ The core mechanic is simple: when the launched bubble hits a group of two or mor
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-The controls are extremely simple and intuitive, designed for mouse or touch.
+The controls are extremely simple and intuitive, designed for `mouse` or touch.
 
--   **Aim:** Move your **mouse cursor** to aim the launcher's arrow.
--   **Shoot:** **Left-click** with your mouse to shoot the bubble.
--   **Swap Bubbles (in some versions):** Some modern versions allow you to press a key (like the **Spacebar**) or click an icon to swap the current bubble with the next one in the queue.
+-   **Aim:** Move your **`mouse` cursor** to aim the launcher's arrow.
+-   **Shoot:** **Left-`click`** with your `mouse` to shoot the bubble.
+-   **Swap Bubbles (in some versions):** Some modern versions allow you to `press` a key (like the **`Spacebar`**) or `click` an icon to swap the current bubble with the next one in the queue.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

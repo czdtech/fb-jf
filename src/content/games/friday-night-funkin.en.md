@@ -26,8 +26,10 @@ Week‑based rhythm battles: match the arrow prompts in time with music to outsc
 
 <!-- i18n:section:controls -->
 ### Controls
-- Arrow keys (or WASD) to hit notes; Enter for menus.
+- `Arrow keys` (or `WASD`) to hit notes; `Enter` for menus.
 
+
+<!-- i18n:section:tips -->
 ### Tips
 - Learn patterns by sound, not just visuals.
 - Relax your hands; rolling chords reduce finger jams on jacks.

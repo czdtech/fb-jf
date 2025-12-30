@@ -19,6 +19,8 @@ releaseDate: 2025-10-18
 Haru Pandas Slide presents image‑based sliding puzzles. Move tiles along rows/columns to restore adorable panda scenes. Later boards increase tile counts and introduce locked tiles that constrain pathing, rewarding planned sequences over trial‑and‑error.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Frame first: Complete the border to reduce search complexity.
@@ -30,7 +32,7 @@ Haru Pandas Slide presents image‑based sliding puzzles. Move tiles along rows/
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Drag tiles along permitted axes; undo/reset if supported.
+- `Drag` tiles along permitted axes; undo/reset if supported.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

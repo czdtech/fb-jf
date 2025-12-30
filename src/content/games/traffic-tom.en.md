@@ -18,6 +18,8 @@ releaseDate: 2025-10-17
 Traffic Tom is a fast-paced, third-person motorbike racing game that puts you in the middle of a bustling highway. As the adventurous cat, Tom, your goal is to skillfully weave through dense traffic, dodge cars and buses, and complete challenging missions to earn coins. Use your earnings to upgrade your current bike or save up to buy new, more powerful motorcycles on your quest to become the king of the road.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Look Ahead:** The key to survival is anticipation. Don't just look at the car directly in front of you; scan far down the road to see traffic patterns forming. This will give you plenty of time to switch lanes safely.
@@ -28,8 +30,8 @@ Traffic Tom is a fast-paced, third-person motorbike racing game that puts you in
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **Steer Left:** Press the **A** key or the **Left Arrow** key.
-*   **Steer Right:** Press the **D** key or the **Right Arrow** key.
+*   **Steer Left:** `Press` the **A** key or the **Left Arrow** key.
+*   **Steer Right:** `Press` the **D** key or the **Right Arrow** key.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

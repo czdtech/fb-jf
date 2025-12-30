@@ -19,6 +19,8 @@ releaseDate: 2025-10-17
 Merge Melons is a delightful and addictive physics-based puzzle game, famously known as a "Suika Game" or "Watermelon Game." The premise is simple yet captivating: you drop various types of fruits into a container. When two identical fruits touch, they merge into a single, larger fruit of the next type in the evolution cycle. Your goal is to create the largest fruit possible—the watermelon—and achieve the highest score without letting the container overflow.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Understand the Fruit Cycle:** Memorize the order of fruit evolution. Knowing what two fruits will create next (e.g., two grapes make an orange) is crucial for planning your drops.
@@ -31,9 +33,9 @@ Merge Melons is a delightful and addictive physics-based puzzle game, famously k
 
 The controls are very straightforward.
 
-*   **Position the Fruit (Desktop):** Move your mouse left and right to determine where the fruit will be dropped from.
-*   **Drop the Fruit (Desktop):** Click the left mouse button to release the fruit.
-*   **Mobile Controls:** Move your finger left and right to aim, and lift your finger to drop the fruit.
+*   **Position the Fruit (Desktop):** Move your `mouse` left and right to determine where the fruit will be dropped from.
+*   **`Drop` the Fruit (Desktop):** `Click` the `left `mouse` button` to release the fruit.
+*   **Mobile Controls:** Move your finger left and right to aim, and lift your finger to `drop` the fruit.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

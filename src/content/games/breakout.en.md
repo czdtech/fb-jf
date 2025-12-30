@@ -25,6 +25,8 @@ Each time the ball hits a brick, the brick disappears, and the player earns poin
 As more bricks are cleared, the ball often speeds up, increasing the difficulty. The challenge lies in controlling the ball's trajectory and clearing the screen without losing all your lives.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy
 
 -   **Master Angle Control:** This is the most crucial skill in Breakout. The direction the ball bounces depends on *where* it hits your paddle.
@@ -40,14 +42,14 @@ As more bricks are cleared, the ball often speeds up, increasing the difficulty.
 The controls for Breakout are famously simple and vary slightly depending on the platform.
 
 -   **PC / Web Browser:**
-    -   **Left/Right Arrow Keys:** Move the paddle left and right.
-    -   **Mouse:** In many modern versions, you can simply move your mouse left and right to control the paddle.
+    -   **Left/Right `Arrow Keys`:** Move the paddle left and right.
+    -   **`Mouse`:** In many modern versions, you can simply move your `mouse` left and right to control the paddle.
 
 -   **Original Arcade:**
     -   A **rotary dial** or **paddle controller** was used to move the paddle with precision.
 
 -   **Mobile Devices:**
-    -   **Touch and Drag:** Tap and drag your finger across the bottom of the screen to move the paddle.
+    -   **Touch and `Drag`:** `Tap` and `drag` your finger across the bottom of the screen to move the paddle.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

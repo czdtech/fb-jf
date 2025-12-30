@@ -45,12 +45,12 @@ The strategy for *Incredibox Choir* focuses on layering harmonies and exploring 
 <!-- i18n:section:controls -->
 ### **Controls Guide**
 
-The controls are identical to the official Incredibox game, relying on simple mouse actions.
+The controls are identical to the official Incredibox game, relying on simple `mouse` actions.
 
-*   **Add a Sound**: **Drag** an icon from the bottom panel and **drop** it onto a character.
-*   **Remove a Sound**: Click the "X" on a character's icon at the bottom, or replace it by dragging a new sound onto them.
-*   **Mute / Unmute**: **Click** an active character to silence them. Click again to bring them back into the mix.
-*   **Solo**: Click the **small button** that appears next to a performing character to mute all others.
-*   **Record**: Click the **record button** to start and stop a recording of your current mix.
+*   **Add a Sound**: **`Drag`** an icon from the bottom panel and **`drop`** it onto a character.
+*   **Remove a Sound**: `Click` the "X" on a character's icon at the bottom, or replace it by dragging a new sound onto them.
+*   **Mute / Unmute**: **`Click`** an active character to silence them. `Click` again to bring them back into the mix.
+*   **Solo**: `Click` the **small button** that appears next to a performing character to mute all others.
+*   **Record**: `Click` the **record button** to start and stop a recording of your current mix.
 
 

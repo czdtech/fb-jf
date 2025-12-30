@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 SortWorks blends visual sorting with bin constraints (color/shape/type). Items arrive on belts; you must route them to correct bins, using buffer slots to prevent jams. Late boards raise speed and add tricky categories.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Rule hierarchy: Apply critical rules first (e.g., hazard vs non‑hazard) then fine categories.
@@ -29,7 +31,7 @@ SortWorks blends visual sorting with bin constraints (color/shape/type). Items a
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Drag/tap items to bins; pause/retry via UI; hints may highlight targets.
+- `Drag`/`tap` items to bins; pause/retry via UI; hints may highlight targets.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

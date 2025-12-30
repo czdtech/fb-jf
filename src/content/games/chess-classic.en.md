@@ -23,6 +23,8 @@ releaseDate: 2025-10-18
 Chess Classic offers the timeless strategy board game experience directly in your browser. Whether you are a beginner or a seasoned player, you can test your skills against a computer opponent with adjustable difficulty levels. The game follows the standard international rules of chess, providing a perfect platform to learn, practice, and master the art of the checkmate.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Control the Center:** In the opening, use your pawns and pieces to exert control over the central squares (e4, d4, e5, d5). Pieces in the center have more mobility and influence over the game.
@@ -34,8 +36,8 @@ Chess Classic offers the timeless strategy board game experience directly in you
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **Piece Selection:** Click on a piece to select it. Possible moves will be highlighted on the board.
-*   **Move Piece:** Click on one of the highlighted squares to move your selected piece to that location.
+*   **Piece Selection:** `Click` on a piece to select it. Possible moves will be highlighted on the board.
+*   **Move Piece:** `Click` on one of the highlighted squares to move your selected piece to that location.
 *   **Game Options:** Use the in-game menu to select the difficulty level, undo a move, or start a new game.
 
 <!-- i18n:section:faq -->

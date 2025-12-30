@@ -26,8 +26,10 @@ Jetpack Joyride is a high‑energy side‑scrolling runner. Hold to rise and rel
 
 <!-- i18n:section:controls -->
 ### Controls
-- Hold/tap to ascend; release to descend; buttons for gadgets/menus vary by host.
+- `Hold`/`tap` to ascend; release to descend; buttons for gadgets/menus vary by host.
 
+
+<!-- i18n:section:tips -->
 ### Tips
 - Learn zapper cycles; late taps thread tight gaps.
 - Keep a vehicle as a safety buffer on high‑speed sections.

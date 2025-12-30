@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Retro Drift is a minimalist top‑down driving game focused on controlled slides. Courses favor flowing lines and corner linking—light throttle, counter‑steer timing, and exit speed determine lap times and score multipliers.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Enter slow, exit fast: Sacrifice a bit of entry speed to maximize exit traction and next corner setup.
@@ -31,7 +33,7 @@ Retro Drift is a minimalist top‑down driving game focused on controlled slides
 
 - Steer: A/D or Left/Right.
 - Throttle/Brake: W/S or Up/Down.
-- Handbrake (if available): Space for sharper rotation.
+- Handbrake (if available): `Space` for sharper rotation.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

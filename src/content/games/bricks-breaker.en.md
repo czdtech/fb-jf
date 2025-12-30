@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Bricks Breaker is a modern take on the timeless arcade classic. The objective is to destroy all the bricks on the screen by hitting them with a bouncing ball. You control a paddle at the bottom of the screen to keep the ball in play. As you break bricks, you can collect various power-ups to help you clear levels faster. With numerous levels, challenging brick formations, and exciting power-ups, Bricks Breaker offers endless fun.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Control the Paddle:** Your primary job is to position the paddle to intercept the ball. Try to hit the ball with the edges of the paddle to change its angle and send it to different parts of the screen.
@@ -29,8 +31,8 @@ Bricks Breaker is a modern take on the timeless arcade classic. The objective is
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **Move Paddle:** Move your mouse left and right to control the paddle's position.
-*   **Launch Ball:** Click the left mouse button to launch the ball from the paddle at the start of each life.
+*   **Move Paddle:** Move your `mouse` left and right to control the paddle's position.
+*   **Launch Ball:** `Click` the `left `mouse` button` to launch the ball from the paddle at the start of each life.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

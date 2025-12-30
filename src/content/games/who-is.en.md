@@ -29,8 +29,8 @@ Each level presents a unique situation or question, and your goal is to figure o
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- **Tap/Click:** Use your finger (on mobile) or mouse (on PC) to tap or click on elements on the screen.
-- **Drag:** Tap and hold, then drag to move objects or reveal hidden areas.
+- **`Tap`/`Click`:** Use your finger (on mobile) or `mouse` (on PC) to `tap` or `click` on elements on the screen.
+- **`Drag`:** `Tap` and `hold`, then `drag` to move objects or reveal hidden areas.
 - **Multi-touch:** Some puzzles may require using two fingers simultaneously.
 
 <!-- i18n:section:faq -->

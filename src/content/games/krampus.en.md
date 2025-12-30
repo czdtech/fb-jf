@@ -26,8 +26,10 @@ Krampus is a seasonal horror platformer featuring dimly lit stages, environmenta
 
 <!-- i18n:section:controls -->
 ### Controls
-- Arrows/WASD to move/jump; action/interact keys vary by host.
+- Arrows/`WASD` to move/jump; action/interact keys vary by host.
 
+
+<!-- i18n:section:tips -->
 ### Tips
 - Watch for glints or subtle lights that mark items and exits.
 - Wait out patrols rather than forcing risky jumps.

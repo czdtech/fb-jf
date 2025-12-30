@@ -18,6 +18,8 @@ releaseDate: 2025-10-17
 Minesweeper Mania is a polished version of the timeless single-player logic puzzle, Minesweeper. The objective is to clear a rectangular grid containing hidden mines without detonating any of them. You must use the number clues revealed on the board to deduce where the mines are. Each number tells you how many mines are in the eight adjacent squares. This version offers multiple difficulty levels, providing a fresh challenge for both new players and seasoned veterans.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **The First Click is Free:** Your first click in any game is always safe and will never be a mine. A good start is to click a few times in the corners and center to open up the board.
@@ -29,8 +31,8 @@ Minesweeper Mania is a polished version of the timeless single-player logic puzz
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **Reveal a Square:** Left-click on a covered square.
-*   **Flag a Square:** Right-click on a covered square to place or remove a flag.
+*   **Reveal a Square:** Left-`click` on a covered square.
+*   **Flag a Square:** Right-`click` on a covered square to place or remove a flag.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

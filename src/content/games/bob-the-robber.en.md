@@ -23,6 +23,8 @@ Bob the Robber is a series of 2D stealth puzzle-platformer games. The player tak
 The core gameplay revolves around avoiding detection. Levels are filled with a variety of security measures, including patrolling guards, security cameras, laser grids, and locked doors. The player must use observation, timing, and stealth to overcome these obstacles. Hiding in the shadows is a key mechanic, making Bob invisible to most threats. Successfully completing a level often requires solving small puzzles, such as finding keycodes or lockpicking doors, all while remaining unseen.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy
 
 -   **Patience is Your Best Tool:** Do not rush. The most common mistake is running into a guard's patrol route. Take time at the start of each screen to observe the patterns of guards and cameras.
@@ -40,14 +42,14 @@ The core gameplay revolves around avoiding detection. Levels are filled with a v
 
 The controls are generally consistent across the series and are very simple.
 
--   **W/A/S/D or Arrow Keys:** Move Bob left, right, up, and down (for stairs/ladders).
+-   **W/A/S/D or `Arrow Keys`:** Move Bob left, right, up, and down (for stairs/ladders).
 -   **Up Arrow Key or W:** Interact with objects. This is used for:
     -   Opening doors.
     -   Picking locks.
     -   Searching for loot.
     -   Entering codes.
     -   Climbing stairs or ladders.
--   **Spacebar:** Swing your club to knock out a guard from behind.
+-   **`Spacebar`:** Swing your club to knock out a guard from behind.
 -   **Z, X, C (in later games):** Use special gadgets if available.
 
 <!-- i18n:section:faq -->

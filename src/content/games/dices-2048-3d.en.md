@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Dices 2048 3D is a physics‑infused take on the classic 2048 merging puzzle. Drop or slide dice so that identical face values collide and merge into the next value (e.g., 2→4→8). Gravity, bounce, and 3D placement create fresh tactics around stacking, spacing, and controlling accidental merges.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Keep lanes clean: Reserve a column for combining and another for staging; avoid cluttered piles that block merges.
@@ -29,8 +31,8 @@ Dices 2048 3D is a physics‑infused take on the classic 2048 merging puzzle. Dr
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Aim/Place: Move cursor or drag to choose drop position; some versions allow rotation.
-- Drop/Confirm: Click/tap to release the die.
+- Aim/Place: Move cursor or `drag` to choose `drop` position; some versions allow rotation.
+- `Drop`/Confirm: `Click`/`tap` to release the die.
 - Undo/Retry (if available): Limited undos may exist; use them to rescue misdrops.
 
 <!-- i18n:section:faq -->

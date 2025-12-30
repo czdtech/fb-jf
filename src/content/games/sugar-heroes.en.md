@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Sugar Heroes leans into combo‑heavy match‑3 with candy‑themed blockers and animated heroes. Goals range from clearing jelly to delivering ingredients; power‑up merges (bomb+line/color clears) are crucial for dense layouts.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Focus goals: Clear blockers or collect items before pure scoring.
@@ -29,7 +31,7 @@ Sugar Heroes leans into combo‑heavy match‑3 with candy‑themed blockers and
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Drag to swap; tap power‑ups; pause/retry in UI.
+- `Drag` to swap; `tap` power‑ups; pause/retry in UI.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

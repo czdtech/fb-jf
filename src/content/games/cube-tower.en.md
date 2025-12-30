@@ -23,6 +23,8 @@ releaseDate: 2025-10-18
 Cube Tower is a tower defense game where your main objective is to protect a central "Cube Tower" from waves of enemy attacks. To achieve this, you strategically place and upgrade various types of defensive towers.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Strategic Placement:** Carefully consider where to place your towers to maximize their coverage and impact on incoming enemies.
@@ -33,7 +35,7 @@ Cube Tower is a tower defense game where your main objective is to protect a cen
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **Mouse/Touch:** Use the mouse or touch screen to select, place, and upgrade your towers.
+*   **`Mouse`/Touch:** Use the `mouse` or touch screen to select, place, and upgrade your towers.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

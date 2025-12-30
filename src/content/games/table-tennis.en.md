@@ -24,6 +24,8 @@ releaseDate: 2025-10-17
 Table Tennis is a fast-paced and engaging sports simulation game that brings the classic experience of ping-pong to your screen. Players compete against a computer-controlled opponent in a match where reflexes, timing, and strategy are key. The goal is to outscore your opponent by hitting the ball past them, adhering to the basic rules of table tennis. With intuitive controls and realistic physics, the game offers an accessible yet challenging experience for players of all skill levels.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Serve and Return:** Every point begins with a serve. The key is to hit the ball after it has bounced once on your side. When returning a shot, focus on the ball's trajectory and position your paddle accordingly.
@@ -34,9 +36,9 @@ Table Tennis is a fast-paced and engaging sports simulation game that brings the
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **Mouse Movement:** The paddle's movement is directly tied to your mouse cursor.
-*   **Move Paddle:** Simply move your mouse left and right across your side of the table to position the paddle.
-*   **Hit the Ball:** There is no need to click. Position your paddle in the ball's path, and it will automatically hit it on contact. The angle and speed of the return are influenced by where and how fast you move your paddle into the ball.
+*   **`Mouse` Movement:** The paddle's movement is directly tied to your `mouse` cursor.
+*   **Move Paddle:** Simply move your `mouse` left and right across your side of the table to position the paddle.
+*   **Hit the Ball:** There is no need to `click`. Position your paddle in the ball's path, and it will automatically hit it on contact. The angle and speed of the return are influenced by where and how fast you move your paddle into the ball.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

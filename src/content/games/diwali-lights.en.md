@@ -19,6 +19,8 @@ releaseDate: 2025-10-18
 Diwali Lights is a holiday‑themed light‑up puzzle. Activate lamps (diyas) in the correct order or pattern to illuminate designs without crossing rules. Later stages add limited moves, switches, and timing.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Understand rules: Some boards restrict overlaps or require sequences—read objectives first.
@@ -30,7 +32,7 @@ Diwali Lights is a holiday‑themed light‑up puzzle. Activate lamps (diyas) in
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Tap/Click lamps, switches, or tiles per puzzle rules.
+- `Tap`/`Click` lamps, switches, or tiles per puzzle rules.
 - Undo/Reset if the mode allows.
 
 <!-- i18n:section:faq -->

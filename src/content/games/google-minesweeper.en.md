@@ -26,8 +26,10 @@ Minesweeper reveals numbers showing how many mines touch a cell. Use these clues
 
 <!-- i18n:section:controls -->
 ### Controls
-- Mouse/touch; optional chording and quick‑open shortcuts vary by host.
+- `Mouse`/touch; optional chording and quick‑open shortcuts vary by host.
 
+
+<!-- i18n:section:tips -->
 ### Tips
 - Keep a consistent marking convention to avoid misflags.
 - When forced to guess, choose tiles that reveal the most info if wrong.

@@ -37,8 +37,8 @@ The challenge comes from the increasing speed and the appearance of various obst
 
 The controls are extremely simple, designed for fast-paced mobile gameplay.
 
-*   **Climb Left**: Tap the **"Left Climb!"** button on the bottom left of the screen.
-*   **Climb Right**: Tap the **"Right Climb!"** button on the bottom right of the screen.
+*   **Climb Left**: `Tap` the **"Left Climb!"** button on the bottom left of the screen.
+*   **Climb Right**: `Tap` the **"Right Climb!"** button on the bottom right of the screen.
 
 <!-- i18n:section:faq -->
 ### **Frequently Asked questions (FAQ)**

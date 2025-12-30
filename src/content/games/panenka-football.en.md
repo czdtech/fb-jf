@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Panenka Football focuses on the cheeky Panenka — a soft chip down the middle as the keeper dives. Mix chips with corners and height variations; success relies on late aim changes and reading keeper habits.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Keeper read: If the keeper dives early, chip middle; if he holds, pick corners.
@@ -29,7 +31,7 @@ Panenka Football focuses on the cheeky Panenka — a soft chip down the middle a
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Aim with mouse/keys; set power/height; optional swerve via drag if supported.
+- Aim with `mouse`/keys; set power/height; optional swerve via `drag` if supported.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

@@ -26,8 +26,10 @@ Arena waves of oddball foes. Survive rounds, complete objectives, and spend earn
 
 <!-- i18n:section:controls -->
 ### Controls
-- WASD to move, Mouse to aim/shoot; R reload; 1–3 switch weapons; Shift sprint (host dependent).
+- `WASD` to move, `Mouse` to aim/shoot; R reload; 1–3 switch weapons; `Shift` sprint (host dependent).
 
+
+<!-- i18n:section:tips -->
 ### Tips
 - Aim for headshots; enemies are bullet‑spongy at higher waves.
 - Use corners to funnel mobs; avoid getting surrounded.

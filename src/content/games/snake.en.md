@@ -26,8 +26,8 @@ The core mechanic is simple: guide the snake to eat the food. As the snake eats,
 ### Controls Guide
 
 The controls are typically straightforward:
-- **Arrow Keys:** Use the Up, Down,Left, and Right arrow keys to direct the snake.
-- **WASD Keys:** Many versions also support `W`, `A`, `S`, and `D` as an alternative for movement.
+- **`Arrow Keys`:** Use the Up, Down,Left, and Right `arrow keys` to direct the snake.
+- **`WASD` Keys:** Many versions also support `W`, `A`, `S`, and `D` as an alternative for movement.
 - **Pause:** The `Spacebar` can often be used to pause and resume the game.
 
 <!-- i18n:section:faq -->

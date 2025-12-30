@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 HexaMind plays on a hexagonal grid with rules about what may touch: colors, numbers, or symbols must satisfy adjacency constraints (e.g., no equal neighbors, or sums along rays). The six‑direction geometry enables rich deductions through fan‑shaped lines and rings.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Constraint hotspots: Start at cells with the most neighbors or strictest rules.
@@ -29,7 +31,7 @@ HexaMind plays on a hexagonal grid with rules about what may touch: colors, numb
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Tap to place values/colors; toggle pencil marks; undo/redo.
+- `Tap` to place values/colors; toggle pencil marks; undo/redo.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

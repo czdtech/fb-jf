@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Subway Jumper plays like a classic three‑lane runner: trains, cones, and barriers demand late jumps and decisive slides. Coins and power‑ups tempt risky lines; consistency earns longer streaks and better scores.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Eyes up two obstacles; don’t stare at your feet.
@@ -29,7 +31,7 @@ Subway Jumper plays like a classic three‑lane runner: trains, cones, and barri
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- A/D or Left/Right to switch lanes; Space/Up to jump; Down to slide; power‑ups via keys.
+- A/D or Left/Right to switch lanes; `Space`/Up to jump; Down to slide; power‑ups via keys.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

@@ -30,9 +30,9 @@ The most common game mode is Turf War, a 4v4 battle where the team that covers t
 
 While specific controls can vary, they are generally based on standard shooter layouts:
 - **Movement:** `WASD` or `Arrow Keys`
-- **Shoot Ink:** `Left Mouse Button`
-- **Sub Weapon:** `Right Mouse Button` or `G`
-- **Transform to Squid:** `Shift` or `Spacebar` (Hold to swim)
+- **Shoot Ink:** `Left `Mouse` Button`
+- **Sub Weapon:** `Right `Mouse` Button` or `G`
+- **Transform to Squid:** `Shift` or `Spacebar` (`Hold` to swim)
 - **Jump:** `Spacebar` (when in kid form)
 
 <!-- i18n:section:faq -->

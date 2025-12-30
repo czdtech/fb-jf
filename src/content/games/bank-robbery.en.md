@@ -26,6 +26,8 @@ As a **Cop**, the objective is to defend the bank and uphold the law. This invol
 The game takes place in an urban environment with the bank as the focal point. Players can use a variety of weapons, tools, and vehicles to achieve their team's goals, earning in-game currency to purchase better equipment for future rounds.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy
 
 Success is highly dependent on which team you are on.
@@ -52,13 +54,13 @@ Success is highly dependent on which team you are on.
 The game uses standard first-person shooter controls common on its platform (Roblox for PC).
 
 *   **`W`, `A`, `S`, `D` Keys**: Move your character.
-*   **Mouse**: Aim and control the camera.
-*   **`Left Mouse Button`**: Fire your weapon.
-*   **`Right Mouse Button`**: Aim down sights (ADS).
+*   **`Mouse`**: Aim and control the camera.
+*   **`Left `Mouse` Button`**: Fire your weapon.
+*   **`Right `Mouse` Button`**: Aim down sights (ADS).
 *   **`R` Key**: Reload your weapon.
 *   **`Left-Shift` Key**: Sprint.
 *   **`Spacebar`**: Jump.
-*   **`E` or `F` Key**: Interact with objects (e.g., place/defuse a drill, pick up cash, enter a vehicle).
+*   **`E` or `F` Key**: Interact with objects (e.g., place/defuse a drill, pick up cash, `enter` a vehicle).
 *   **Number Keys (`1`, `2`, `3`...)**: Switch between your equipped weapons and items.
 *   **`C` Key**: Crouch (if available in the specific version).
 

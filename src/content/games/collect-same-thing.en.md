@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Collect Same Thing challenges you to match identical tiles or items under space/time limits. Removing pairs reveals deeper layers; success requires opening lanes, prioritizing scarce tiles, and avoiding isolated singles.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Open lanes first to expose hidden tiles.
@@ -29,7 +31,7 @@ Collect Same Thing challenges you to match identical tiles or items under space/
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Click/tap to select pairs per mode rules.
+- `Click`/`tap` to select pairs per mode rules.
 - Use hint/shuffle (if available) sparingly.
 
 <!-- i18n:section:faq -->

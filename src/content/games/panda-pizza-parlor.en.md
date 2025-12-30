@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Welcome to Panda Pizza Parlor, a charming and fast-paced cooking game where you run your very own pizza shop! As the head panda chef, your job is to take orders, prepare delicious pizzas with the correct toppings, bake them to perfection, and serve them to a variety of hungry animal customers. Manage your time effectively to keep your customers happy, earn money, and grow your pizza business from a humble parlor into a world-famous pizzeria.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Check the Order:** As soon as a customer arrives, look at the bubble above their head to see what kind of pizza they want. Pay close attention to the toppings.
@@ -29,10 +31,10 @@ Welcome to Panda Pizza Parlor, a charming and fast-paced cooking game where you 
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **Point and Click:** The game is played entirely with the mouse.
-*   **Select Ingredients:** Click on the dough, sauce, and toppings to add them to the pizza.
-*   **Use Oven:** Click on the oven to place the pizza inside and click again to take it out.
-*   **Serve Customer:** Click on the finished pizza and then on the customer to serve them.
+*   **Point and `Click`:** The game is played entirely with the `mouse`.
+*   **Select Ingredients:** `Click` on the dough, sauce, and toppings to add them to the pizza.
+*   **Use Oven:** `Click` on the oven to place the pizza inside and `click` again to take it out.
+*   **Serve Customer:** `Click` on the finished pizza and then on the customer to serve them.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

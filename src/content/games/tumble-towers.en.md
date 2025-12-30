@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Tumble Towers is a stacker where each drop changes center of mass. Good play distributes weight, limits overhangs, and anticipates sway so the tower survives post‑drop jiggles.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Wide bases beat height rushes.
@@ -29,7 +31,7 @@ Tumble Towers is a stacker where each drop changes center of mass. Good play dis
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Aim and drop; rotate if allowed; restart via UI.
+- Aim and `drop`; rotate if allowed; restart via UI.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

@@ -37,7 +37,7 @@ Many digital versions include scoring systems, rewarding points for correct lett
 
 The controls for digital versions of Hangman are extremely simple:
 
-*   **Letter Guessing**: You can either **click** the on-screen alphabet letters with your mouse or **type** the corresponding letter on your keyboard.
+*   **Letter Guessing**: You can either **`click`** the on-screen alphabet letters with your `mouse` or **type** the corresponding letter on your keyboard.
 
 <!-- i18n:section:faq -->
 ### **Frequently Asked Questions (FAQ)**

@@ -26,8 +26,10 @@ Henry Stickmin is locked up—use branching choices and slapstick tools to escap
 
 <!-- i18n:section:controls -->
 ### Controls
-- Mouse: click choices and quick‑time prompts; Space for some interrupts (host dependent).
+- `Mouse`: `click` choices and quick‑time prompts; `Space` for some interrupts (host dependent).
 
+
+<!-- i18n:section:tips -->
 ### Tips
 - If stuck, explore the other major route branches; many scenes have alternative solutions.
 - Bios (when present) trigger by clicking characters during scenes.

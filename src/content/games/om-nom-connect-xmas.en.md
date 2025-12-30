@@ -19,6 +19,8 @@ releaseDate: 2025-10-18
 Join the adorable Om Nom in Om Nom Connect Xmas, a festive and fun tile-connecting puzzle game. The board is filled with Christmas-themed tiles featuring Om Nom, his friends, and delicious holiday treats. Your goal is to clear the board by finding and connecting pairs of identical tiles. With cheerful holiday music and cute graphics, it’s a relaxing yet challenging puzzle game perfect for the Christmas season.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Find Matching Pairs:** Scan the board for two identical tiles. The tiles must be connectable with a line that has no more than two turns (or corners).
@@ -29,8 +31,8 @@ Join the adorable Om Nom in Om Nom Connect Xmas, a festive and fun tile-connecti
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **Select Tiles:** Use your mouse to click on a tile to select it.
-*   **Connect Tiles:** Click on a second, identical tile to connect the pair. If the path is clear, the tiles will be removed from the board.
+*   **Select Tiles:** Use your `mouse` to `click` on a tile to select it.
+*   **Connect Tiles:** `Click` on a second, identical tile to connect the pair. If the path is clear, the tiles will be removed from the board.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

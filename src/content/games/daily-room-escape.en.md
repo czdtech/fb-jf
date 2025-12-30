@@ -19,6 +19,8 @@ releaseDate: 2025-10-18
 Daily Room Escape offers short escape‑the‑room puzzles. Search for hidden objects, decode numeric/shape ciphers, and use items in the correct spots to unlock the exit.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Sweep the room: Tap hotspots, move cushions, open drawers.
@@ -30,7 +32,7 @@ Daily Room Escape offers short escape‑the‑room puzzles. Search for hidden ob
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Tap to inspect, collect, and use items; some puzzles drag‑and‑drop.
+- `Tap` to inspect, collect, and use items; some puzzles `drag`‑and‑`drop`.
 - A hint button may highlight missed areas.
 
 <!-- i18n:section:faq -->

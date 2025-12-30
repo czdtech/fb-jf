@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Gym Stack is an addictive and satisfying 3D puzzle game that challenges your organizational skills. The game board features several bars where different colored and sized weights will appear. Your objective is to strategically move and stack these weights, merging identical ones to create larger weights and clear space. The goal is to score as many points as possible by making smart merges without letting the bars get completely filled up. It's a test of foresight and strategy with a fun gym theme.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Match by Color:** You can only merge weights that are of the same color. Plan your moves to bring identical weights together.
@@ -29,7 +31,7 @@ Gym Stack is an addictive and satisfying 3D puzzle game that challenges your org
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **Select and Move:** Use your mouse to click and select a weight stack. Then, click on an empty spot or a valid stack to move it.
+*   **Select and Move:** Use your `mouse` to `click` and select a weight stack. Then, `click` on an empty spot or a valid stack to move it.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

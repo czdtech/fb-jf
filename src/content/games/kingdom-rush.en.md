@@ -26,8 +26,10 @@ Kingdom Rush established the series’ mix of lane control and hero micro. Build
 
 <!-- i18n:section:controls -->
 ### Controls
-- Mouse/touch for all tower and hero actions; hotkeys vary.
+- `Mouse`/touch for all tower and hero actions; hotkeys vary.
 
+
+<!-- i18n:section:tips -->
 ### Tips
 - Fewer, stronger towers outperform many weak ones early.
 - Keep anti‑air coverage; flyers punish ground‑only setups.

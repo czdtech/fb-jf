@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Bowling Stars is a casual ten‑pin bowling sim featuring aim, power, and hook control. Consistency and spare conversion define high scores—dial in your release and adapt to lane behavior to string together strikes.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Pocket hits: For right‑handers, aim between the 1–3 pins; left‑handers, 1–2 pocket.
@@ -29,9 +31,9 @@ Bowling Stars is a casual ten‑pin bowling sim featuring aim, power, and hook c
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Aim: Drag left/right to set line.
-- Power: Hold/release to set speed.
-- Hook: Drag/tilt while rolling or set a spin parameter before release.
+- Aim: `Drag` left/right to set line.
+- Power: `Hold`/release to set speed.
+- Hook: `Drag`/tilt while rolling or set a spin parameter before release.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

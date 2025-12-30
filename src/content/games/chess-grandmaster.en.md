@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Chess Grandmaster is a feature‑complete browser chess experience against AI or local opponents. Master the three phases: openings (development and king safety), middlegame (tactics like forks, pins, skewers), and endgames (king activity, opposition, basic mates). Adjustable difficulty helps you train calculation and pattern recognition.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Openings: Develop minor pieces, castle early, and fight for the center (e4/d4).
@@ -29,7 +31,7 @@ Chess Grandmaster is a feature‑complete browser chess experience against AI or
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Click a piece to see legal moves; click a destination to move.
+- `Click` a piece to see legal moves; `click` a destination to move.
 - Offer draw/resign and set AI level in the UI.
 
 <!-- i18n:section:faq -->

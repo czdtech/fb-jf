@@ -19,6 +19,8 @@ releaseDate: 2025-10-10
 Incredibox Kochari is a unique, fan-made mod that beautifully merges the world of Incredibox with the rich traditions of Armenian folk culture. Inspired by the energetic and powerful Armenian dance "Kochari," this version allows players to experiment with a sound palette deeply rooted in folk music. It offers a rhythmic and engaging experience, where you can mix traditional percussion, melodies, and vocals to create a compelling fusion of age-old Armenian sounds and modern beatboxing. The characters and animations also reflect the theme, with visuals that mirror traditional folk dance movements.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy
 
 *   
@@ -30,7 +32,7 @@ Incredibox Kochari is a unique, fan-made mod that beautifully merges the world o
 ### Controls Guide
 
 *   The controls are standard for Incredibox.
-    *   **Add/Remove Sound**: Drag an icon from the bottom onto a character to add a sound. Drag it off to remove.
+    *   **Add/Remove Sound**: `Drag` an icon from the bottom onto a character to add a sound. `Drag` it off to remove.
     *   **Record**: Use the record button to capture your mix.
     *   **Bonuses**: Unlocking a bonus adds a special visual and audio element to your mix automatically.
 

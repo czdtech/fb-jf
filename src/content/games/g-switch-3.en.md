@@ -26,8 +26,10 @@ Faster sequences and complex trap chains that demand double‑flips and perfect 
 
 <!-- i18n:section:controls -->
 ### Controls
-- One key/tap to flip; per‑player keys in versus.
+- One key/`tap` to flip; per‑player keys in versus.
 
+
+<!-- i18n:section:tips -->
 ### Tips
 - Keep eyes mid‑screen to read ahead.
 - Use music rhythm to stabilize your flip cadence.

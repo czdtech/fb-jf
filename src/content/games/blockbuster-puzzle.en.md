@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Blockbuster Puzzle tasks you with fitting incoming shapes to trigger line or cluster clears. The art is in pacing: keep multiple lanes viable, prepare “bomb” turns that clear large areas, and never burn your last escape pocket unless it secures a chain.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Keep two lanes free: Always preserve at least two flexible build lanes for awkward shapes.
@@ -29,7 +31,7 @@ Blockbuster Puzzle tasks you with fitting incoming shapes to trigger line or clu
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Drag‑and‑drop pieces; rotate if supported.
+- `Drag`‑and‑`drop` pieces; rotate if supported.
 - Undo/Reset can recover from greedy mistakes.
 
 <!-- i18n:section:faq -->

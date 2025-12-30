@@ -21,6 +21,8 @@ releaseDate: 2025-08-16
 
 The game is defined by its core mechanic: the ability to instantly create or destroy rows of ice blocks. This powerful tool is used for everything from creating bridges to reach fruit, to building defensive walls against the various monsters that patrol each level. These enemies move in predictable patterns, and if they touch the player, a life is lost. The game features a timer, adding a sense of urgency to each stage. It can be played either solo or with a friend in a fantastic two-player cooperative mode on a single keyboard, which has become a hallmark of the series.
 
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 To succeed, players must blend quick thinking with strategic planning.
@@ -52,7 +54,7 @@ The timer adds pressure, but rushing is the number one cause of losing a life. W
 The game is designed to be easily played by two people on one keyboard.
 
 *   **Player 1:**
-    *   **Move:** Arrow Keys (`↑`, `↓`, `←`, `→`)
+    *   **Move:** `Arrow Keys` (`↑`, `↓`, `←`, `→`)
     *   **Action (Create/Destroy Ice):** `Spacebar`
 
 *   **Player 2:**

@@ -26,11 +26,13 @@ A crossword puzzle is a word grid solved by filling Across and Down entries that
 
 <!-- i18n:section:controls -->
 ### Controls
-- Type A–Z to enter letters; arrow keys navigate.  
-- Backspace: delete previous letter.  
-- Enter/Tab: toggle direction or jump to next clue (site‑dependent).  
-- Mouse/touch: tap a clue list item to focus its entry.  
+- Type A–Z to `enter` letters; `arrow keys` navigate.  
+- `Backspace`: delete previous letter.  
+- `Enter`/`Tab`: toggle direction or jump to next clue (site‑dependent).  
+- `Mouse`/touch: `tap` a clue list item to focus its entry.  
 
+
+<!-- i18n:section:tips -->
 ### Tips and Strategies
 - Start with fill‑in‑the‑blank clues and plural/tense indicators (-S, -ED, -ING).  
 - Use cross letters to break tough entries; revisit long themers after filling nearby downs.  

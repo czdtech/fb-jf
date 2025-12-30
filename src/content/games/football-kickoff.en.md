@@ -19,6 +19,8 @@ releaseDate: 2025-10-18
 Football Kickoff focuses on American‑football kicking scenarios: placekick field goals, directional kickoffs, and occasional punts. Wind, snap timing, and laces matter; clean timing on the power meter and correct aim decide distance and accuracy.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Wind read: Offset aim into the wind; stronger winds require larger compensation.
@@ -30,7 +32,7 @@ Football Kickoff focuses on American‑football kicking scenarios: placekick fie
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Aim with mouse/keys; set power with a meter; release on the accuracy zone.
+- Aim with `mouse`/keys; set power with a meter; release on the accuracy zone.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

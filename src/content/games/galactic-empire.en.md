@@ -26,8 +26,10 @@ RTS‑lite in space: mine resources, expand bases, and assemble fleets to defend
 
 <!-- i18n:section:controls -->
 ### Controls
-- Mouse to select/build; hotkeys for production and camera vary by host.
+- `Mouse` to select/build; hotkeys for production and camera vary by host.
 
+
+<!-- i18n:section:tips -->
 ### Tips
 - Queue ships in batches; constant production beats idle docks.
 - Scout before pushing; avoid overextending into multiple waves.

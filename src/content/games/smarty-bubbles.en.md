@@ -18,6 +18,8 @@ releaseDate: 2025-10-17
 Smarty Bubbles is a polished and highly addictive bubble shooter game that offers a pure, classic experience. The objective is to clear the entire board of colorful bubbles by shooting and matching them. Aim your cannon, fire a bubble, and if you connect three or more of the same color, they will pop! The game challenges you to clear the board efficiently, as missed shots will cause the ceiling to drop, adding a layer of pressure to this relaxing puzzle.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Avoid Misses:** This is the most critical rule in Smarty Bubbles. After a certain number of shots that don't result in a pop (a "miss"), a new row of bubbles will be added from the top. Keep an eye on the indicator (usually a row of grey bubbles) that shows how many misses you have left before a new row appears.
@@ -28,8 +30,8 @@ Smarty Bubbles is a polished and highly addictive bubble shooter game that offer
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **Aim:** Move your mouse to aim the cannon. A guideline will show the bubble's trajectory.
-*   **Shoot:** Click the left mouse button to fire the bubble.
+*   **Aim:** Move your `mouse` to aim the cannon. A guideline will show the bubble's trajectory.
+*   **Shoot:** `Click` the `left `mouse` button` to fire the bubble.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

@@ -26,8 +26,10 @@ Sequel shifts the loop: no power doors, but you manage a Freddy mask and a music
 
 <!-- i18n:section:controls -->
 ### Controls
-- Mouse/UI for cameras and mask; Ctrl/Space for flashlight (host dependent).
+- `Mouse`/UI for cameras and mask; `Ctrl`/`Space` for flashlight (host dependent).
 
+
+<!-- i18n:section:tips -->
 ### Tips
 - Build a loop: wind box → lower cam → hallway flash → vent lights → mask on if needed.
 - Don’t over‑flash; conserve battery for hallway checks.

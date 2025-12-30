@@ -18,6 +18,8 @@ releaseDate: 2025-10-17
 Words of Magic is a relaxing and enchanting word puzzle game designed to test your vocabulary and anagram skills. In each level, you are given a circle of letters and a crossword-style puzzle board. Your goal is to find all of the hidden words that can be formed from the given letters and completely fill out the crossword grid. It's a perfect game to unwind with while giving your brain a gentle workout.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Start with the Obvious:** Look for the shortest and most obvious words first (usually three-letter words). Filling these in can give you clues and letters for the longer, more complex words.
@@ -28,7 +30,7 @@ Words of Magic is a relaxing and enchanting word puzzle game designed to test yo
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **Form a Word:** Click and drag your mouse (or swipe your finger) across the letters in the circle in the correct order to spell a word. Release the mouse button or your finger to submit the word.
+*   **Form a Word:** `Click` and `drag` your `mouse` (or `swipe` your finger) across the letters in the circle in the correct order to spell a word. Release the `mouse` button or your finger to submit the word.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

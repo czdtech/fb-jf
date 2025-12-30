@@ -23,6 +23,8 @@ releaseDate: 2025-08-16
 The game starts innocently enough. The first notebook contains simple arithmetic problems. However, the game's true nature is revealed upon finding the second notebook, where the third question is a jumbled, unsolvable mess of numbers. Answering this question incorrectly—which is unavoidable—enrages the titular character, Baldi. Armed with a ruler, Baldi begins to hunt the player through the halls of the school. From this point on, the game becomes a tense cat-and-mouse chase. The primary goal shifts from education to survival: collect the remaining five notebooks while evading Baldi and a cast of other bizarre characters, each with their own unique way of impeding your progress, and ultimately find a way to escape the school.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy
 
 Success in *Baldi's Basics* relies on sound awareness, resource management, and understanding the behavior of each character.
@@ -49,11 +51,11 @@ Success in *Baldi's Basics* relies on sound awareness, resource management, and 
 Controls are standard for first-person PC games.
 
 *   **`W`, `A`, `S`, `D` Keys**: Move forward, left, backward, and right.
-*   **Mouse**: Look around.
-*   **`Left-Shift` Key**: Hold to run (consumes stamina).
-*   **`Left Mouse Button`**: Open doors and pick up items.
-*   **`Right Mouse Button`**: Use the currently selected item.
-*   **Mouse Scroll Wheel**: Cycle through your inventory items.
+*   **`Mouse`**: Look around.
+*   **`Left-Shift` Key**: `Hold` to run (consumes stamina).
+*   **`Left `Mouse` Button`**: Open doors and pick up items.
+*   **`Right `Mouse` Button`**: Use the currently selected item.
+*   **`Mouse` `Scroll` Wheel**: Cycle through your inventory items.
 *   **`Spacebar`**: Look behind you (in newer versions/updates).
 
 <!-- i18n:section:faq -->

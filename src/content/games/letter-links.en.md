@@ -18,6 +18,8 @@ releaseDate: 2025-10-17
 Letter Links is a strategic word-building game that shares similarities with Scrabble. Each day, you are given a new set of letter tiles, each with a point value. Your goal is to place these tiles on a game board to form valid, interconnected words, much like a crossword puzzle. By strategically utilizing high-value letters and special bonus squares on the board, you aim to achieve the highest possible score.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Know Your Bonuses:** The key to a high score is using the bonus squares effectively.
@@ -33,9 +35,9 @@ Letter Links is a strategic word-building game that shares similarities with Scr
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **Place Tiles:** Click and drag a letter tile from your rack at the bottom to a square on the game board.
-*   **Recall Tiles:** You can drag a placed tile back to your rack before submitting if you change your mind.
-*   **Submit:** Once you have placed your tiles, click the "Submit Words" button to lock them in and calculate your score.
+*   **Place Tiles:** `Click` and `drag` a letter tile from your rack at the bottom to a square on the game board.
+*   **Recall Tiles:** You can `drag` a placed tile back to your rack before submitting if you change your mind.
+*   **Submit:** Once you have placed your tiles, `click` the "Submit Words" button to lock them in and calculate your score.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Odd One Out is a puzzle game that challenges your observation and categorization skills. In each level, you are presented with a group of items, and your task is to identify the one that doesn't fit with the others based on a certain rule or category.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Examine the Items:** Carefully look at all the items presented in the group.
@@ -28,7 +30,7 @@ Odd One Out is a puzzle game that challenges your observation and categorization
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **Mouse/Touch:** Use the mouse or touch screen to select the item that you think is the odd one out.
+*   **`Mouse`/Touch:** Use the `mouse` or touch screen to select the item that you think is the odd one out.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

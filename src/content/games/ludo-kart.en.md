@@ -24,6 +24,8 @@ releaseDate: 2025-10-18
 Ludo Kart adapts classic Ludo into a quick, family‑friendly race. Roll dice to move tokens around the board, enter the final lane, and bring all tokens home before opponents do. Safe squares, captures, and lucky rolls create swings.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Token spread: Advance multiple tokens to reduce risk of a single capture wiping progress.
@@ -35,7 +37,7 @@ Ludo Kart adapts classic Ludo into a quick, family‑friendly race. Roll dice to
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Roll: Click/tap to roll the die.
+- Roll: `Click`/`tap` to roll the die.
 - Move: Select a legal token to advance.
 - Modes: Local multiplayer is common; solo vs. AI may be available.
 

@@ -17,6 +17,8 @@ releaseDate: 2025-10-18
 
 Endless Truck is a side‑scrolling stunt runner focused on speed control and landing angles. Hills, ramps, and gaps reward smooth throttle and controlled flips; sloppy landings bleed speed or crash. Cash pickups and missions unlock upgrades (engine, suspension, boost) that raise top speed and stability.
 
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Land flat: Touch down with wheels level to retain speed and avoid bounce.
@@ -28,11 +30,11 @@ Endless Truck is a side‑scrolling stunt runner focused on speed control and la
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Accelerate/Brake: W/S or Up/Down.  Tilt: A/D or Left/Right.  Boost: Shift/Space (varies).
+- Accelerate/Brake: W/S or Up/Down.  Tilt: A/D or Left/Right.  Boost: `Shift`/`Space` (varies).
 
 ### Advanced Tips
 
-- Pumping: Tap brake before a drop to lower the nose, then accelerate on landing for extra traction.
+- Pumping: `Tap` brake before a `drop` to lower the nose, then accelerate on landing for extra traction.
 - Mission routing: Pick routes that complete multiple missions in one run (e.g., flips + distance).
 - Crash recovery: If angle is bad, cut throttle and gently tilt to save the landing.
 

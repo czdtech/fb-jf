@@ -26,12 +26,12 @@ Your main goal is to grow by eating pellets. The pellets left behind by a defeat
 ### Controls Guide
 
 **PC/Web Browser:**
-- **Mouse:** Your snake follows the direction of your mouse cursor.
-- **Keyboard:** Use the `WASD` or arrow keys for movement.
-- **Speed Boost:** Hold the left mouse button or the spacebar to get a burst of speed. Using the boost consumes your mass, so use it wisely.
+- **`Mouse`:** Your snake follows the direction of your `mouse` cursor.
+- **Keyboard:** Use the `WASD` or `arrow keys` for movement.
+- **Speed Boost:** `Hold` the `left `mouse` button` or the `spacebar` to get a burst of speed. Using the boost consumes your mass, so use it wisely.
 
 **Mobile:**
-- Use the on-screen virtual joystick or touch and drag your finger to guide the snake.
+- Use the on-screen virtual joystick or touch and `drag` your finger to guide the snake.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

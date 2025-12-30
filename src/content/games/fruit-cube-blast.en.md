@@ -18,6 +18,8 @@ releaseDate: 2025-10-17
 Fruit Cube Blast is a vibrant and explosive "tap-to-blast" puzzle game. Unlike match-3 games where you swap items, in this game, you tap on groups of two or more adjacent, identical fruit cubes to blast them off the board. The goal is to complete level-specific objectives by strategically clearing cubes and creating powerful combos. By blasting larger groups of cubes, you can create special boosters like rockets and bombs to clear even more of the level in spectacular fashion.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Bigger is Better:** Always look for the largest possible group of matching cubes to tap. Tapping a small group of 2 or 3 is less efficient. Larger groups not only clear more space but are also the only way to create powerful boosters.
@@ -35,8 +37,8 @@ Fruit Cube Blast is a vibrant and explosive "tap-to-blast" puzzle game. Unlike m
 
 The controls are extremely simple.
 
-*   **Blast Cubes:** Use your mouse or finger to tap on any group of two or more adjacent cubes of the same color to blast them.
-*   **Activate Boosters:** Simply tap on a booster (Rocket, Bomb, etc.) to activate it.
+*   **Blast Cubes:** Use your `mouse` or finger to `tap` on any group of two or more adjacent cubes of the same color to blast them.
+*   **Activate Boosters:** Simply `tap` on a booster (Rocket, Bomb, etc.) to activate it.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

@@ -28,7 +28,7 @@ Mahjongg Solitaire, also known as Mahjong Solitaire or Shanghai Solitaire, is a 
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- **Mouse/Touch:** Use your mouse or finger to click/tap on the tiles to select them.
+- **`Mouse`/Touch:** Use your `mouse` or finger to `click`/`tap` on the tiles to select them.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

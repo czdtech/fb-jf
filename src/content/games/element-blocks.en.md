@@ -18,6 +18,8 @@ releaseDate: 2025-10-17
 Element Blocks is a calm yet strategic puzzle game that builds on the popular 10x10 block puzzle formula. Players place various Tetris-like shapes, themed as elemental blocks, onto a 10x10 grid. The goal is to fill and clear complete lines either horizontally or vertically. What sets this game apart is the addition of a star collection and power-up system, providing a strategic tool to get you out of difficult situations and extend your game.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Standard 10x10 Rules:** You are given three block shapes at a time. You must place all three on the board before a new set appears. The blocks cannot be rotated.
@@ -29,8 +31,8 @@ Element Blocks is a calm yet strategic puzzle game that builds on the popular 10
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **Place Blocks:** Use your mouse or finger to drag a block from the holding area at the bottom and drop it onto the main grid.
-*   **Use Power-ups:** Click on a power-up icon once you have enough stars, then click on the grid where you want to apply its effect.
+*   **Place Blocks:** Use your `mouse` or finger to `drag` a block from the holding area at the bottom and `drop` it onto the main grid.
+*   **Use Power-ups:** `Click` on a power-up icon once you have enough stars, then `click` on the grid where you want to apply its effect.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

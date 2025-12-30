@@ -24,6 +24,8 @@ releaseDate: 2025-10-18
 Foosball Cup World is a quick table‑football simulation with responsive rods and crisp ball physics. Attack relies on angled passes, snap shots, and well‑timed spins; defense is about lane coverage and cutting cross‑shots. Matches are short, demanding precise control over frantic flailing.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Short passes: Tap to nudge the ball between adjacent rows, then snap‑shoot.
@@ -35,7 +37,7 @@ Foosball Cup World is a quick table‑football simulation with responsive rods a
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Move rods: WASD/Arrows/mouse drag (varies).  Shoot: Tap/flick; some builds separate tilt vs spin.
+- Move rods: `WASD`/Arrows/`mouse` `drag` (varies).  Shoot: `Tap`/flick; some builds separate tilt vs spin.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

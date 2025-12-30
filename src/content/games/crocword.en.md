@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Crocword blends crossword patterns with letter‑link mechanics. Connect letters to form valid words that fill crossword slots. Bonus words grant coins or hints; difficulty rises with longer, trickier grids.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Fill singular‑fit slots first (rare letter positions).
@@ -29,7 +31,7 @@ Crocword blends crossword patterns with letter‑link mechanics. Connect letters
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Drag across letters to form words; release to submit.
+- `Drag` across letters to form words; release to submit.
 - Use hints to reveal letters/words sparingly.
 
 <!-- i18n:section:faq -->

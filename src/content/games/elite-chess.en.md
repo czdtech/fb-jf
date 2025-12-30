@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Elite Chess provides a streamlined chess experience against scalable AI or a local opponent. Improvement hinges on three pillars: (1) Opening principles — rapid development, king safety, and active piece placement; (2) Middlegame tactics — forks, pins, skewers, discovered attacks, deflections; (3) Endgames — king activity, opposition, basic checkmates, and practical rook endings. Puzzles and adjustable levels help build calculation depth and pattern recall.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Openings: Occupy the center (pawns e4/d4/c4), develop knights before bishops, castle early, connect rooks.
@@ -29,7 +31,7 @@ Elite Chess provides a streamlined chess experience against scalable AI or a loc
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Click a piece to highlight legal moves; click a destination to move.
+- `Click` a piece to highlight legal moves; `click` a destination to move.
 - Offer draw/resign; set AI strength in the options.
 
 ### Study Plan (Quick)

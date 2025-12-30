@@ -29,8 +29,8 @@ Each level presents a unique riddle or puzzle. The solution is rarely straightfo
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- **Tap:** Use your finger (on mobile) or mouse (on PC) to tap on objects.
-- **Drag:** Tap and hold, then move your finger/mouse to drag objects.
+- **`Tap`:** Use your finger (on mobile) or `mouse` (on PC) to `tap` on objects.
+- **`Drag`:** `Tap` and `hold`, then move your finger/`mouse` to `drag` objects.
 - **Multi-touch/Device Rotation:** Some puzzles may require using two fingers or physically rotating your device.
 
 <!-- i18n:section:faq -->

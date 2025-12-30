@@ -19,6 +19,8 @@ releaseDate: 2025-10-17
 Onet Connect Classic is a fast-paced and addictive tile-matching puzzle game, often referred to as a "link-up" game. The objective is to clear a board filled with colorful tiles (often featuring animals, fruits, or other cute icons) by finding and connecting pairs of identical tiles. Unlike Mahjong Solitaire, the challenge comes from the connection rules and a ticking clock, requiring both sharp eyes and quick thinking to clear the board before time expires.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **The Connection Rule:** This is the most important concept. You can only remove a pair of identical tiles if the path between them is clear and can be drawn with a line that has **no more than two 90-degree turns**. This means the path can be:
@@ -36,10 +38,10 @@ Onet Connect Classic is a fast-paced and addictive tile-matching puzzle game, of
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-The game is played entirely with the mouse or by tapping.
+The game is played entirely with the `mouse` or by tapping.
 
-*   **Select Tiles:** Click on a tile to select it.
-*   **Connect Pair:** Click on a second, identical tile. If the path between them is valid, both tiles will be removed from the board.
+*   **Select Tiles:** `Click` on a tile to select it.
+*   **Connect Pair:** `Click` on a second, identical tile. If the path between them is valid, both tiles will be removed from the board.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

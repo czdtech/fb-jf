@@ -49,6 +49,8 @@ The operation is very simple, you can easily do it with a mouse or finger:
  
 ---
  
+
+<!-- i18n:section:tips -->
 ### Tips for Playing Sprunki Play Random:
  
  - **Try Different Arrangements:** The position of the characters affects the final sound effect, be bold and try to find the most suitable arrangement!

@@ -18,6 +18,8 @@ releaseDate: 2025-10-17
 Island Of Treasures is an action-packed 3D endless runner game that plunges you into a thrilling pirate adventure. You play as a daring buccaneer, constantly running through a dynamic and treacherous island environment. Your mission is to collect as much gleaming treasure as possible, dodge deadly traps, and outsmart rival pirates who are also after the riches. The game tests your reflexes and agility as you strive to achieve the highest score and become the legendary pirate of the forsaken island.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Collect Everything:** Your primary goal is to collect coins, jewels, and other treasures scattered along your path. These contribute to your score and can be used to unlock upgrades or new characters.
@@ -28,9 +30,9 @@ Island Of Treasures is an action-packed 3D endless runner game that plunges you 
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **Move Left/Right:** Use the **A/D keys** or **Left/Right Arrow keys** to change lanes.
-*   **Jump:** Press the **Spacebar** or **Up Arrow key** to jump.
-*   **Slide:** Press the **S key** or **Down Arrow key** to slide under obstacles.
+*   **Move Left/Right:** Use the **A/D keys** or **Left/Right `Arrow keys`** to change lanes.
+*   **Jump:** `Press` the **`Spacebar`** or **Up Arrow key** to jump.
+*   **Slide:** `Press` the **S key** or **Down Arrow key** to slide under obstacles.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

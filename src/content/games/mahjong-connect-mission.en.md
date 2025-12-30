@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Mahjong Connect differs from classic mahjong solitaire: you must link matching tiles with a path that bends at most twice (i.e., ≤2 right‑angle turns) without crossing other tiles. Missions add locked tiles, fog, and bombs that require priority handling and clean board management.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Edge hunting: Edges and corners yield the most legal paths — scan them first.
@@ -29,7 +31,7 @@ Mahjong Connect differs from classic mahjong solitaire: you must link matching t
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Click two identical tiles to connect if a legal path exists; hints/shuffles per UI.
+- `Click` two identical tiles to connect if a legal path exists; hints/shuffles per UI.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

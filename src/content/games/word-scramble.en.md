@@ -30,8 +30,8 @@ Word Scramble is a classic and engaging word puzzle game that challenges players
 ### Controls Guide
 
 - **Typing:** Use your keyboard to type the word you believe is correct.
-- **Rearrange Letters:** Some versions allow you to click and drag letters to rearrange them visually, or have a "shuffle" button.
-- **Submit:** Press `Enter` to submit your answer.
+- **Rearrange Letters:** Some versions allow you to `click` and `drag` letters to rearrange them visually, or have a "shuffle" button.
+- **Submit:** `Press` `Enter` to submit your answer.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

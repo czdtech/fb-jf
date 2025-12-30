@@ -26,8 +26,10 @@ Learn to Fly is a distance launcher about iterative improvement. Launch a pengui
 
 <!-- i18n:section:controls -->
 ### Controls
-- Arrow keys adjust pitch; space/keys for boosters (host dependent).
+- `Arrow keys` adjust pitch; `space`/keys for boosters (host dependent).
 
+
+<!-- i18n:section:tips -->
 ### Tips
 - Shallow dives regain speed; gentle climbs extend distance.
 - Save fuel for late‑flight when drag slows you down.

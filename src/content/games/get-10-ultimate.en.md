@@ -18,6 +18,8 @@ releaseDate: 2025-10-17
 Get 10 Ultimate is a simple yet deeply strategic number puzzle game. The board is filled with numbered tiles, and your goal is to combine them to create higher numbers. You do this by tapping on a group of two or more adjacent, identical numbers. This merges the entire group into a single new tile with a value that is one higher. The initial challenge is to reach the number 10, but the ultimate goal is to continue merging for as long as possible to achieve the highest number and score.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Think Before You Tap:** Every tap changes the layout of the board. Before you merge a group, consider how the tiles above will fall and what new groups might form. A good move can set up an even better move.
@@ -28,9 +30,9 @@ Get 10 Ultimate is a simple yet deeply strategic number puzzle game. The board i
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-The game is played with a single click or tap.
+The game is played with a single `click` or `tap`.
 
-*   **Merge Numbers:** Click on any group of two or more adjacent tiles that have the same number. The group will merge into the spot where you clicked.
+*   **Merge Numbers:** `Click` on any group of two or more adjacent tiles that have the same number. The group will merge into the spot where you clicked.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

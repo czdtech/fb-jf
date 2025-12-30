@@ -18,6 +18,8 @@ releaseDate: 2025-10-17
 Zumba Ocean is a vibrant and addictive marble shooter puzzle game, in the style of classics like Zuma. Set in a beautiful ocean world, a chain of colorful pearls slowly moves along a path. You control a shooter that fires pearls. Your mission is to eliminate the entire chain by shooting pearls to create matches of three or more of the same color before the chain reaches the final shell.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Create Combos:** The most effective way to clear the chain is by triggering combos. When you make a match, if the two new ends of the chain are the same color, they will attract each other and merge, often causing a new match automatically. This chain reaction is a combo and awards bonus points.
@@ -28,9 +30,9 @@ Zumba Ocean is a vibrant and addictive marble shooter puzzle game, in the style 
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **Aim:** Move your mouse to aim the pearl shooter.
-*   **Shoot:** Click the left mouse button to fire the pearl.
-*   **Swap:** You can often click on the shooter itself or press a key (like the spacebar) to swap the current pearl with the next one.
+*   **Aim:** Move your `mouse` to aim the pearl shooter.
+*   **Shoot:** `Click` the `left `mouse` button` to fire the pearl.
+*   **Swap:** You can often `click` on the shooter itself or `press` a key (like the `spacebar`) to swap the current pearl with the next one.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

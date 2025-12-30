@@ -19,6 +19,8 @@ releaseDate: 2025-10-17
 Jewel Magic is a classic and captivating match-3 puzzle game that invites you into a world of sparkling gems and enchanting challenges. The core objective is to swap adjacent jewels to create a line of three or more identical gems, causing them to vanish and score points. With hundreds of levels, each presenting a unique goal, players must think strategically to create powerful special jewels, trigger dazzling chain reactions, and solve every puzzle presented to them.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Master the Special Gems:** To pass the toughest levels, you must create and utilize special gems. These are formed by matching more than three jewels at once:
@@ -35,9 +37,9 @@ Jewel Magic is a classic and captivating match-3 puzzle game that invites you in
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-The game is controlled using simple mouse or touch gestures.
+The game is controlled using simple `mouse` or touch gestures.
 
-*   **Swap Jewels:** Click and drag a jewel to swap it with an adjacent one. The swap will only complete if it forms a valid match of three or more identical jewels.
+*   **Swap Jewels:** `Click` and `drag` a jewel to swap it with an adjacent one. The swap will only complete if it forms a valid match of three or more identical jewels.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

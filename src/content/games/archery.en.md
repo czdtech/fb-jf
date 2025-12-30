@@ -18,6 +18,8 @@ releaseDate: 2025-10-17
 Archery World Tour is a realistic and challenging archery simulation game. You travel to various scenic locations to compete in archery tournaments. The goal is to score as many points as possible by shooting arrows at a target. Success requires more than just a steady hand; you must also account for environmental factors like wind speed, wind direction, and the distance to the target, making it a true test of skill.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Compensate for Wind:** Before each shot, look at the wind indicator. It will show you the direction and strength of the wind. You must aim slightly *against* the wind to counteract its effect on your arrow.
@@ -28,8 +30,8 @@ Archery World Tour is a realistic and challenging archery simulation game. You t
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **Aim:** Move your mouse to aim the bow. The cursor will show where the arrow is pointed.
-*   **Draw and Shoot:** `Click` and `hold` the left mouse button to draw the bowstring. A power meter or the aiming reticle may change as you hold. Release the mouse button to fire the arrow.
+*   **Aim:** Move your `mouse` to aim the bow. The cursor will show where the arrow is pointed.
+*   **Draw and Shoot:** `Click` and `hold` the `left `mouse` button` to draw the bowstring. A power meter or the aiming reticle may change as you `hold`. Release the `mouse` button to fire the arrow.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

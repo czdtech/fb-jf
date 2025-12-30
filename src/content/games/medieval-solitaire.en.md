@@ -18,6 +18,8 @@ releaseDate: 2025-10-17
 Medieval Solitaire transports the timeless appeal of Classic Klondike Solitaire to a world of knights, castles, and royalty. While the rules of the game are the same as the beloved original, the experience is enhanced with a charming medieval theme, featuring custom card designs and backgrounds. The goal remains to clear the entire deck by sorting all cards into four foundation piles by suit, in ascending order from Ace to King.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Objective:** Move all 52 cards to the four foundation piles, starting each pile with an Ace and building up to the King for each suit.
@@ -29,9 +31,9 @@ Medieval Solitaire transports the timeless appeal of Classic Klondike Solitaire 
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **Move Cards:** Click and drag cards to move them between the tableau columns or up to the foundation piles.
-*   **Draw Card:** Click the stock pile (usually in the top-left corner) to deal a new card to the waste pile.
-*   **Auto-Play:** Many versions feature a double-click option to automatically send a card to its correct foundation pile if the move is valid.
+*   **Move Cards:** `Click` and `drag` cards to move them between the tableau columns or up to the foundation piles.
+*   **Draw Card:** `Click` the stock pile (usually in the top-left corner) to deal a new card to the waste pile.
+*   **Auto-Play:** Many versions feature a double-`click` option to automatically send a card to its correct foundation pile if the move is valid.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

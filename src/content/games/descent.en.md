@@ -26,8 +26,10 @@ Descent is a minimalist vertical skill game where you drop down a shaft, time ju
 
 <!-- i18n:section:controls -->
 ### Controls
-- Mouse/touch: tap to jump; some versions use Left/Right or A/D to leap off the respective wall. Controls vary slightly by host. 
+- `Mouse`/touch: `tap` to jump; some versions use Left/Right or A/D to leap off the respective wall. Controls vary slightly by host. 
 
+
+<!-- i18n:section:tips -->
 ### Tips and Strategies
 - Don’t rush: small delays often desync hazards and create openings.  
 - Jump earlier for longer lateral travel; later for short, steep hops.  

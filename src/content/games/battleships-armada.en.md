@@ -19,6 +19,8 @@ releaseDate: 2025-10-17
 Battleships Armada is a digital adaptation of the classic naval combat board game, Battleship. It's a game of pure strategy, deduction, and a little bit of luck. Each player secretly arranges their fleet of ships on a grid. Then, players take turns firing shots at the other player's grid in an attempt to locate and sink their entire fleet. The first player to sink all of their opponent's ships wins the game.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Strategic Placement:** The game begins with the placement phase. Don't place all your ships clustered together or all along the edges. A scattered, random-looking placement is harder for your opponent to guess.
@@ -29,8 +31,8 @@ Battleships Armada is a digital adaptation of the classic naval combat board gam
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **Place Ships:** During the setup phase, click and drag your ships onto your grid. You can also click a ship to rotate it between horizontal and vertical alignment.
-*   **Fire a Shot:** During the combat phase, click on a square in your opponent's grid (usually the one on the right) to fire at those coordinates.
+*   **Place Ships:** During the setup phase, `click` and `drag` your ships onto your grid. You can also `click` a ship to rotate it between horizontal and vertical alignment.
+*   **Fire a Shot:** During the combat phase, `click` on a square in your opponent's grid (usually the one on the right) to fire at those coordinates.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

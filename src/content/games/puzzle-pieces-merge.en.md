@@ -18,6 +18,8 @@ releaseDate: 2025-10-17
 Puzzle Pieces Merge offers a serene and innovative twist on the classic jigsaw puzzle. Instead of a static board, this game invites you to drag, drop, and merge puzzle pieces to reveal beautiful, captivating landscapes. The core mechanic involves correctly placing pieces next to each other, at which point they will merge into a larger segment of the final image. With the ability to rotate pieces and use strategic power-ups, it’s a relaxing yet engaging experience for puzzle lovers.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Start with the Edges:** Just like a real-world jigsaw puzzle, a good strategy is to identify and place the edge and corner pieces first. This helps you build a frame for the rest of the image.
@@ -28,8 +30,8 @@ Puzzle Pieces Merge offers a serene and innovative twist on the classic jigsaw p
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **Move Piece:** Click and drag a puzzle piece from your inventory onto the main puzzle board.
-*   **Rotate Piece:** Some versions may require you to click a button to rotate the piece, while others might use the right mouse button or a keyboard key.
+*   **Move Piece:** `Click` and `drag` a puzzle piece from your inventory onto the main puzzle board.
+*   **Rotate Piece:** Some versions may require you to `click` a button to rotate the piece, while others might use the `right `mouse` button` or a keyboard key.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

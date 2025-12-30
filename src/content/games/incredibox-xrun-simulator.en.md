@@ -40,9 +40,9 @@ As players layer more sounds, a progress bar at the top of the screen fills up, 
 <!-- i18n:section:controls -->
 ### **Controls Guide**
 
-This mod uses the simple, click-based interface of the Simulator series.
+This mod uses the simple, `click`-based interface of the Simulator series.
 
-*   **Activate / Deactivate Sound**: **Click** on any of the 20 sound icons in the grid. An activated icon will light up, adding its sound to the loop. Clicking it again will turn it off.
+*   **Activate / Deactivate Sound**: **`Click`** on any of the 20 sound icons in the grid. An activated icon will light up, adding its sound to the loop. Clicking it again will turn it off.
 *   **Combine Sounds**: You can have multiple sounds activated at the same time to build your track.
 *   **Main Controls (Top of Screen)**:
     *   **Play/Pause Button**: Toggles the entire loop on or off.

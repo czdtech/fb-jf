@@ -32,7 +32,7 @@ The main goal is to score as many points as possible before you reach the end of
 - **Move/Steer:** `A` / `D` or `Left` / `Right Arrow Keys`
 - **Drift:** `Spacebar`
 - **180 Slide / Slow Down:** `S` or `Down Arrow Key`
-- **Speed Stance:** `W` or `Up Arrow Key` (Hold to break through certain obstacles)
+- **Speed Stance:** `W` or `Up Arrow Key` (`Hold` to break through certain obstacles)
 - **Pause:** `Esc`
 
 <!-- i18n:section:faq -->

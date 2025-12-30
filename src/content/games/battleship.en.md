@@ -29,6 +29,8 @@ Before the battle begins, each player secretly arranges their ships on their own
 
 Once both players have placed their fleets, they take turns firing "shots" at the opponent's grid by calling out a coordinate (e.g., "D5"). The opponent must respond with either "Hit!" if a ship occupies that square, or "Miss!" if it's empty water. Players mark their opponent's grid with pegs or icons to record hits and misses, using this information to deduce the location of the enemy ships. A ship is considered "sunk" when all of its squares have been hit.
 
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy
 
 Winning at *Battleship* involves a combination of clever placement and logical deduction.
@@ -50,14 +52,14 @@ Winning at *Battleship* involves a combination of clever placement and logical d
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-For digital versions of *Battleship*, the controls are typically mouse-driven and very intuitive.
+For digital versions of *Battleship*, the controls are typically `mouse`-driven and very intuitive.
 
 *   **Placement Phase:**
-    *   **Select a Ship:** Click on a ship from your fleet.
-    *   **Place a Ship:** Move your mouse over your grid to the desired location and click to place it.
-    *   **Rotate a Ship:** Often there is a dedicated button to rotate the ship from horizontal to vertical, or you can use the right mouse button.
+    *   **Select a Ship:** `Click` on a ship from your fleet.
+    *   **Place a Ship:** Move your `mouse` over your grid to the desired location and `click` to place it.
+    *   **Rotate a Ship:** Often there is a dedicated button to rotate the ship from horizontal to vertical, or you can use the `right `mouse` button`.
 *   **Battle Phase:**
-    *   **Fire a Shot:** Click on a square on the opponent's grid to fire at that coordinate.
+    *   **Fire a Shot:** `Click` on a square on the opponent's grid to fire at that coordinate.
     *   **Game Feedback:** The game will automatically mark the square as a hit (usually with a red marker or explosion) or a miss (with a white marker or splash icon).
 
 <!-- i18n:section:faq -->

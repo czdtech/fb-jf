@@ -26,8 +26,10 @@ Swipe to slice fruit mid‑air. Avoid bombs and aim for combos and criticals. Mo
 
 <!-- i18n:section:controls -->
 ### Controls
-- Mouse/Touch swipes to slice; pause/retry via UI.
+- `Mouse`/Touch swipes to slice; pause/retry via UI.
 
+
+<!-- i18n:section:tips -->
 ### Tips
 - Aim to intersect as many fruit trajectories as possible per stroke.
 - Use diagonal swipes; they cross more spawn arcs.

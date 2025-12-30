@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Zoo Boom is a vibrant and engaging match-2 puzzle game that takes you on an exciting adventure through a colorful zoo. Your mission is to tap and blast groups of two or more identical animal blocks to clear them from the board. Each level presents unique challenges and objectives, such as collecting a certain number of specific animals, clearing obstacles, or reaching a target score within a limited number of moves. Unleash powerful boosters by matching larger groups of animals to create spectacular chain reactions and achieve high scores.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Look for Large Groups:** While you can match just two identical blocks, aim for larger groups of three or more. Matching more blocks at once will give you more points and help you create powerful boosters.
@@ -29,7 +31,7 @@ Zoo Boom is a vibrant and engaging match-2 puzzle game that takes you on an exci
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **Tap to Blast:** Simply click or tap on a group of two or more identical, adjacent animal blocks to clear them.
+*   **`Tap` to Blast:** Simply `click` or `tap` on a group of two or more identical, adjacent animal blocks to clear them.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Captain Gold follows the timeless gold‑miner formula: swing a hook across the screen and release at the right moment to snag gold nuggets and treasures. Heavy objects pull slowly, light ones reel in faster. Stages set cash targets and time limits, with shop upgrades between rounds.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Prioritize big nuggets and bags early for faster quota.
@@ -29,7 +31,7 @@ Captain Gold follows the timeless gold‑miner formula: swing a hook across the 
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Tap/Click to release the hook; tap again to use dynamite if supported.
+- `Tap`/`Click` to release the hook; `tap` again to use dynamite if supported.
 - Navigate shop menus between levels.
 
 <!-- i18n:section:faq -->

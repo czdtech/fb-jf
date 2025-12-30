@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Daily Word Search hides words horizontally, vertically, and diagonally. Themes change daily; you can play timed for a challenge or untimed to unwind.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Scan for distinctive letter patterns and rare letters (Q, Z, X).
@@ -29,7 +31,7 @@ Daily Word Search hides words horizontally, vertically, and diagonally. Themes c
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Drag across letters to select words; release to confirm.
+- `Drag` across letters to select words; release to confirm.
 - Hints highlight a starting letter or full word depending on the build.
 
 <!-- i18n:section:faq -->

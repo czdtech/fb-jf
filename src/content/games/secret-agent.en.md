@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Secret Agent blends stealth with light puzzle routing. You’ll disable cameras, avoid cones of vision, hack doors, and collect intel before extraction. Clean routes and gadget timing trump brute force.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Vision cones: Move only when guard cones sweep away.
@@ -29,7 +31,7 @@ Secret Agent blends stealth with light puzzle routing. You’ll disable cameras,
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- WASD/Arrows to move; number keys for gadgets; interact with terminals; restart via menu.
+- `WASD`/Arrows to move; number keys for gadgets; interact with terminals; restart via menu.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

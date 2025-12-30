@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Football Penalty focuses on spot‑kicks. As the taker, you must select placement, height, and power while disguising intent. As the keeper (in some modes), you read the run‑up and dive accordingly. Clean corners, low drives, and late disguise beat average AI.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Corners: Aim low corners for harder saves; high corners are strong but risk the bar.
@@ -29,7 +31,7 @@ Football Penalty focuses on spot‑kicks. As the taker, you must select placemen
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Aim with mouse; set power with a press/hold; add swerve by dragging (if supported).
+- Aim with `mouse`; set power with a `press`/`hold`; add swerve by dragging (if supported).
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

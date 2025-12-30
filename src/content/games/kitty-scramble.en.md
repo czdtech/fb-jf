@@ -19,6 +19,8 @@ releaseDate: 2025-10-18
 Kitty Scramble presents themed letter grids (animals, foods, places). Swipe contiguous letters in any direction to form target words; extra words grant coins. Boards escalate with longer words, diagonal paths, and overlapping targets that require flexible pathing and good vocabulary.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Theme scan: Pre‑list likely words from the theme before swiping.
@@ -30,7 +32,7 @@ Kitty Scramble presents themed letter grids (animals, foods, places). Swipe cont
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Drag across letters to form words; release to submit; use hints sparingly.
+- `Drag` across letters to form words; release to submit; use hints sparingly.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

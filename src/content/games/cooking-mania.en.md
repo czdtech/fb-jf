@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Cooking Mania boils restaurant rush into quick levels: prep ingredients, assemble dishes in order, and serve before timers expire. Equipment upgrades, extra pans, and faster prep let you chain orders for bonus coins.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Prep in batches for popular items to reduce wait times.
@@ -29,7 +31,7 @@ Cooking Mania boils restaurant rush into quick levels: prep ingredients, assembl
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Tap to prep, drag to assemble, and tap customers to serve.
+- `Tap` to prep, `drag` to assemble, and `tap` customers to serve.
 - Shop for upgrades between levels.
 
 <!-- i18n:section:faq -->

@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Drifting mania is a lightweight top‑down drifter. Manage slip angle, throttle pulses, and tidy exits to chain corners and set clean lap times.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Enter slow, exit fast to keep momentum.
@@ -30,7 +32,7 @@ Drifting mania is a lightweight top‑down drifter. Manage slip angle, throttle 
 ### Controls Guide
 
 - Steer: A/D or Left/Right; Throttle/Brake: W/S or Up/Down.
-- Handbrake (if any): Space for rotation.
+- Handbrake (if any): `Space` for rotation.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

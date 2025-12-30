@@ -25,6 +25,8 @@ releaseDate: 2025-08-16
 The core gameplay remains centered around the unique ability to create and destroy rows of ice blocks with a single command. This mechanic is essential for navigating the levels, defending against enemies, and solving environmental puzzles. *Bad Ice-Cream 3* introduces a host of new levels, more challenging layouts, and, most importantly, new types of enemies with unique behaviors. Some enemies are faster, some are larger, and some can even destroy the ice walls the player creates, forcing new strategies. The game retains its beloved single-player and two-player cooperative modes, making it an excellent game to play solo or with a friend on the same keyboard.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 Mastering *Bad Ice-Cream 3* requires adapting to the new threats while perfecting the core mechanics.
@@ -58,7 +60,7 @@ Don't wander aimlessly. Collect fruit in logical groups. Clear one area of the m
 The controls remain consistent with the previous games, designed for easy sharing on one keyboard.
 
 *   **Player 1:**
-    *   **Move:** Arrow Keys (`↑`, `↓`, `←`, `→`)
+    *   **Move:** `Arrow Keys` (`↑`, `↓`, `←`, `→`)
     *   **Action (Create/Destroy Ice):** `Spacebar`
 
 *   **Player 2:**

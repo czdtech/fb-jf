@@ -26,8 +26,10 @@ DogeMiner is an incremental idle/clicker game themed around mining coins. Click 
 
 <!-- i18n:section:controls -->
 ### Controls
-- Mouse/touch: click for manual mining; use UI buttons to buy upgrades, helpers, and rockets. 
+- `Mouse`/touch: `click` for manual mining; use UI buttons to buy upgrades, helpers, and rockets. 
 
+
+<!-- i18n:section:tips -->
 ### Tips and Strategies
 - Reinvest early into passive income before chasing expensive prestige or rocket parts.  
 - Maintain a balance between click upgrades and idle buildings based on playtime.  

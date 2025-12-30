@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Extend a stretchy arm to steal objects while dodging lasers, guards, and buzzsaws. Levels reward path planning: route around triggers, exploit timing windows, and retract fast when hazards reset.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Probe path: Move slowly to test trigger ranges.
@@ -29,7 +31,7 @@ Extend a stretchy arm to steal objects while dodging lasers, guards, and buzzsaw
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Drag to stretch arm; release to retract; restart via UI.
+- `Drag` to stretch arm; release to retract; restart via UI.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

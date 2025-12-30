@@ -24,6 +24,8 @@ releaseDate: 2025-10-18
 Ludo Legend is a fantastic digital version of the beloved classic board game, Ludo. The game is a race to the finish! Each player has four tokens and the goal is to get all of them from the starting yard, around the entire board, and into the home column. Play against computer opponents, roll the dice, and use strategy to capture your opponents' tokens and send them back to the start. Become a Ludo Legend by being the first to get all your tokens home!
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Getting Out of the Yard:** You must roll a six to move a token from your starting yard onto the game board. Prioritize getting at least one token into play as soon as possible.
@@ -35,8 +37,8 @@ Ludo Legend is a fantastic digital version of the beloved classic board game, Lu
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **Roll Dice:** Click on the dice to roll it.
-*   **Move Token:** After rolling, the game will highlight your possible moves. Click on the token you wish to move.
+*   **Roll Dice:** `Click` on the dice to roll it.
+*   **Move Token:** After rolling, the game will highlight your possible moves. `Click` on the token you wish to move.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

@@ -19,6 +19,8 @@ releaseDate: 2025-10-18
 Quiz x presents rapid‑fire questions across general knowledge, pictures, and simple logic. Scoring favors speed and correctness; streaks yield bonuses. Broad thinking and elimination beat over‑specialization.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Eliminate: Remove obviously wrong options before committing.
@@ -30,7 +32,7 @@ Quiz x presents rapid‑fire questions across general knowledge, pictures, and s
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Click to choose answers; some variants allow keyboard shortcuts; pause between rounds if offered.
+- `Click` to choose answers; some variants allow keyboard shortcuts; pause between rounds if offered.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Krishna Jump is a one‑button vertical runner. Time jumps to leap between platforms, avoid spikes and moving enemies, and snag collectibles for bonuses. Later levels add disappearing tiles and shifting speeds that demand steady rhythm and quick reads.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Count beats: Tap on a steady cadence to normalize jump timing.
@@ -29,7 +31,7 @@ Krishna Jump is a one‑button vertical runner. Time jumps to leap between platf
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Tap/Click to jump; hold may increase height depending on build; pause via UI.
+- `Tap`/`Click` to jump; `hold` may increase height depending on build; pause via UI.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

@@ -21,6 +21,8 @@ releaseDate: 2025-08-16
 
 The game's signature mechanic is the character's ability to create or destroy rows of ice blocks. This serves as the primary tool for both offense and defense. Players must strategically use these ice walls to block off patrolling enemies, create safe pathways to the fruit, or trap monsters. Various types of enemies populate the levels, each with different movement patterns. If an enemy touches the player's ice cream character, a life is lost. The game can be played solo or with a second player in a cooperative mode on the same keyboard, adding a layer of teamwork and potential chaos. The goal of each level is simple: collect all the fruit before the timer runs out, without getting caught.
 
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 Success in *Bad Ice-Cream 2* is a mix of quick reflexes and clever puzzle-solving.
@@ -50,7 +52,7 @@ There's a timer, so you can't be too slow. However, rushing recklessly will get 
 The game uses a shared keyboard for both single-player and two-player modes.
 
 *   **Player 1:**
-    *   **Move:** Arrow Keys (`↑`, `↓`, `←`, `→`)
+    *   **Move:** `Arrow Keys` (`↑`, `↓`, `←`, `→`)
     *   **Create/Destroy Ice:** `Spacebar`
 
 *   **Player 2:**

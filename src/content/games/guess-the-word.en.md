@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Guess The Word blends letter‑link input with crossword slots. You drag through letter wheels to form valid words that populate a grid. Difficulty grows with trick anagrams, uncommon digrams, and sparse vowels, rewarding pattern recognition and strategic guesswork.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Start with obvious short words to anchor crossings.
@@ -29,7 +31,7 @@ Guess The Word blends letter‑link input with crossword slots. You drag through
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Drag to connect letters; release to submit; use hints sparingly.
+- `Drag` to connect letters; release to submit; use hints sparingly.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

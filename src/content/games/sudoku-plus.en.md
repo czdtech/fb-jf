@@ -18,6 +18,8 @@ releaseDate: 2025-10-17
 Sudoku Plus offers a premium experience for the timeless logic-based, number-placement puzzle. The goal is to fill a 9x9 grid so that each column, each row, and each of the nine 3x3 subgrids contain all of the digits from 1 to 9. This version is packed with helpful features like hints, a notes mode, and error checking, making it perfect for both beginners learning the ropes and advanced players looking for a smooth and polished interface.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **The Golden Rule:** The core of Sudoku is simple: 1 through 9, once per row, once per column, and once per 3x3 box. No repetition is allowed in any of these areas.
@@ -28,11 +30,11 @@ Sudoku Plus offers a premium experience for the timeless logic-based, number-pla
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **Select a Cell:** Click on any empty cell in the grid.
-*   **Enter a Number:** After selecting a cell, click a number on the on-screen keypad to place it.
+*   **Select a Cell:** `Click` on any empty cell in the grid.
+*   **`Enter` a Number:** After selecting a cell, `click` a number on the on-screen keypad to place it.
 *   **Toggle Notes Mode:** Use the dedicated "Notes" or "Pencil" button to switch between entering final answers and entering small candidate numbers.
 *   **Erase:** Use the eraser tool to clear a cell.
-*   **Hint:** Click the hint button to reveal the correct number for a single cell.
+*   **Hint:** `Click` the hint button to reveal the correct number for a single cell.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

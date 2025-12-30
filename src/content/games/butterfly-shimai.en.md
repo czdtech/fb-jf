@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Butterfly Shimai is a captivating and relaxing puzzle game that combines elements of Mahjong and connect-2 mechanics. The game presents you with a board filled with beautiful butterfly wings. Your objective is to find and connect pairs of identical wings to make them form a complete butterfly and fly away, clearing the board. The challenge lies in the connection rule: wings can only be paired if a path can be drawn between them with no more than two turns, and without passing through any other wings. With a time limit for each level, you need to be quick and strategic to clear all the butterflies.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Scan for Obvious Matches:** Start by looking for pairs of wings that are directly adjacent or have a clear, straight path between them. These are the easiest to clear and will open up the board.
@@ -29,7 +31,7 @@ Butterfly Shimai is a captivating and relaxing puzzle game that combines element
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **Select and Connect:** Use your mouse to click on the first butterfly wing, then click on its identical matching wing. If a valid path exists, the butterflies will fly away.
+*   **Select and Connect:** Use your `mouse` to `click` on the first butterfly wing, then `click` on its identical matching wing. If a valid path exists, the butterflies will fly away.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

@@ -19,6 +19,8 @@ releaseDate: 2025-10-17
 Jewel Legend is a vibrant and highly addictive match-3 puzzle game set in a world filled with precious gems. Players embark on an epic adventure across hundreds of levels, solving puzzles by swapping and matching three or more jewels of the same color. The game is known for its colorful graphics, satisfying chain reactions, and a wide variety of level objectives that keep the gameplay fresh and engaging. Creating special gems through clever matches is crucial to overcoming the game's most difficult challenges.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Create Special Gems:** The key to success is to think beyond simple match-3s. Always be on the lookout for opportunities to create powerful special gems:
@@ -35,9 +37,9 @@ Jewel Legend is a vibrant and highly addictive match-3 puzzle game set in a worl
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-The game is controlled with simple touch or mouse gestures.
+The game is controlled with simple touch or `mouse` gestures.
 
-*   **Swap Jewels:** Click and drag a jewel to an adjacent spot to swap it with the jewel there. You can also click the first jewel and then click the adjacent one you want to swap with. The swap will only be successful if it creates a match.
+*   **Swap Jewels:** `Click` and `drag` a jewel to an adjacent spot to swap it with the jewel there. You can also `click` the first jewel and then `click` the adjacent one you want to swap with. The swap will only be successful if it creates a match.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

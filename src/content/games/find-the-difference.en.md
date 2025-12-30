@@ -18,6 +18,8 @@ releaseDate: 2025-10-17
 Find the Difference is a classic puzzle game that tests your observation skills and attention to detail. In each level, you are presented with two images that appear identical at first glance. However, they contain a set number of subtle differences. Your task is to carefully compare the two pictures and identify all the differences before the time runs out. It's a relaxing yet challenging game that provides a great workout for your brain.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Scan Systematically:** Don't just stare at the middle of the images. Start in one corner (e.g., top left) and systematically scan both pictures section by section. Move your eyes back and forth between the same area on both images to spot discrepancies.
@@ -32,7 +34,7 @@ Find the Difference is a classic puzzle game that tests your observation skills 
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **Identify a Difference:** When you spot a difference, simply use your mouse to click on that area in either of the two images. If you are correct, the difference will be marked.
+*   **Identify a Difference:** When you spot a difference, simply use your `mouse` to `click` on that area in either of the two images. If you are correct, the difference will be marked.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

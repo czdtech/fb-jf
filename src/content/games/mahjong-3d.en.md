@@ -19,6 +19,8 @@ releaseDate: 2025-10-17
 Mahjong 3D takes the classic tile-matching gameplay of Mahjong Solitaire and elevates it into a three-dimensional space. Instead of a flat layout, the tiles are stacked in intricate 3D structures that you can rotate. The objective remains the same: find and match pairs of identical, unblocked tiles to clear the board. This 3D twist adds a new layer of challenge and requires players to use spatial awareness to look at the puzzle from all angles.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Rotate, Rotate, Rotate:** The most crucial skill in this version is constantly rotating the puzzle. A pair of matching tiles might be hidden on opposite sides of the structure. Make it a habit to do a full 360-degree rotation before making a move to get a complete picture of the board.
@@ -29,8 +31,8 @@ Mahjong 3D takes the classic tile-matching gameplay of Mahjong Solitaire and ele
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **Select Tiles:** Click on a free tile to select it, then click on its identical, free partner to make a match.
-*   **Rotate the Puzzle:** Use the on-screen arrows or click and drag the background to rotate the entire 3D structure left or right.
+*   **Select Tiles:** `Click` on a free tile to select it, then `click` on its identical, free partner to make a match.
+*   **Rotate the Puzzle:** Use the on-screen arrows or `click` and `drag` the background to rotate the entire 3D structure left or right.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

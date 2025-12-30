@@ -48,14 +48,14 @@ Strategy in Cookie Clicker is about efficiency and knowing when to make key deci
 <!-- i18n:section:controls -->
 ### **Controls Guide**
 
-The game is controlled almost entirely with the mouse, but a few key interface elements are important.
+The game is controlled almost entirely with the `mouse`, but a few key interface elements are important.
 
-*   **Mouse Click**: Click the big cookie, Golden Cookies, upgrades, and buildings.
+*   **`Mouse` `Click`**: `Click` the big cookie, Golden Cookies, upgrades, and buildings.
 *   **Buy/Sell Toggles**: At the top of the store, you can toggle between buying **1, 10, or 100** of a building at a time. Using the "Buy 100" toggle is essential for efficiency in the late game.
 *   **Keyboard Shortcuts**:
-    *   **CTRL + SHIFT + Click**: Buys 10 of a building/upgrade.
-    *   **CTRL + Click**: Buys 100 of a building/upgrade.
-    *   **SHIFT + Click**: Buys 1000 of a building/upgrade.
+    *   **`CTRL` + `SHIFT` + `Click`**: Buys 10 of a building/upgrade.
+    *   **`CTRL` + `Click`**: Buys 100 of a building/upgrade.
+    *   **`SHIFT` + `Click`**: Buys 1000 of a building/upgrade.
 
 <!-- i18n:section:faq -->
 ### **Frequently Asked Questions (FAQ)**

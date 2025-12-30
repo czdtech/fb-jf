@@ -31,7 +31,7 @@ The objective is not to deplete a health bar, but to increase your opponent's da
 
 The game can be played by two players on the same keyboard.
 - **Player 1:**
-    - **Move:** Arrow Keys
+    - **Move:** `Arrow Keys`
     - **Jump:** `O`
     - **Attack:** `P`
 - **Player 2:**

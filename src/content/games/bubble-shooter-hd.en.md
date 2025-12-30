@@ -19,6 +19,8 @@ releaseDate: 2025-10-18
 Bubble Shooter HD is a polished, high-definition version of the timeless bubble-popping puzzle game. The goal is to clear the playing field by forming groups of three or more like-colored bubbles. With its simple, intuitive gameplay, crisp graphics, and satisfying chain reactions, this game offers endless hours of strategic fun for players of all skill levels.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Aim Carefully:** The game provides a guideline to help you aim. Use it to plan your shots precisely, especially for complex ricochet moves.
@@ -30,8 +32,8 @@ Bubble Shooter HD is a polished, high-definition version of the timeless bubble-
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **Aim:** Move your mouse to aim the bubble launcher.
-*   **Shoot:** Click the left mouse button to fire a bubble.
+*   **Aim:** Move your `mouse` to aim the bubble launcher.
+*   **Shoot:** `Click` the `left `mouse` button` to fire a bubble.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

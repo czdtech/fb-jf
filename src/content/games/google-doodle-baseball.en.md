@@ -26,8 +26,10 @@ Google’s playful baseball doodle casts you as a batter facing varied pitches. 
 
 <!-- i18n:section:controls -->
 ### Controls
-- Tap/Click/Space to swing.
+- `Tap`/`Click`/`Space` to swing.
 
+
+<!-- i18n:section:tips -->
 ### Tips
 - Don’t pre‑swing—react to release and location.
 - Slightly late contact often yields opposite‑field hits past infielders.

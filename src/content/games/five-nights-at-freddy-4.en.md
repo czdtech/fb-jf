@@ -26,8 +26,10 @@ Home‑set horror focused on audio cues: you patrol bedroom doors, closet, and b
 
 <!-- i18n:section:controls -->
 ### Controls
-- Mouse/keyboard to move between locations; specific keys for doors and flashlight vary by host.
+- `Mouse`/keyboard to move between locations; specific keys for doors and flashlight vary by host.
 
+
+<!-- i18n:section:tips -->
 ### Tips
 - Always listen before flashing the light at a doorway.
 - Build a loop (left door → right door → closet → bed) and repeat quickly.

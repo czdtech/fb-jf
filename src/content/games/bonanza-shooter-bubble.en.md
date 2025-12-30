@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Bonanza Shooter Bubble is a classic bubble shooter with generous banking and satisfying drops. Aim and fire to connect three or more of the same color, clearing clusters and causing dangling groups to fall. Success hinges on angle control, color management, and planning for the next bubble.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Bank shots: Use side‑wall bounces to reach tucked clusters.
@@ -29,7 +31,7 @@ Bonanza Shooter Bubble is a classic bubble shooter with generous banking and sat
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Aim with mouse/touch and click/tap to fire; swap bubbles if the mode allows.
+- Aim with `mouse`/touch and `click`/`tap` to fire; swap bubbles if the mode allows.
 - Pause/Restart via UI.
 
 <!-- i18n:section:faq -->

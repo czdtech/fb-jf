@@ -26,8 +26,10 @@ Daily Sudoku offers a fresh 9×9 logic puzzle each day. Fill digits 1–9 so tha
 
 <!-- i18n:section:controls -->
 ### Controls
-- Number keys to enter digits; Shift/Right‑click toggles pencil marks (site‑dependent); Undo/Redo and Check tools are common.
+- Number keys to `enter` digits; `Shift`/Right‑`click` toggles pencil marks (site‑dependent); Undo/Redo and Check tools are common.
 
+
+<!-- i18n:section:tips -->
 ### Tips and Strategies
 - Start with singles found by scanning each row/column/box.
 - Use notes consistently and clear them after placing a number.

@@ -19,6 +19,8 @@ releaseDate: 2025-10-17
 Hex Puzzle is a fun and engaging twist on the classic block puzzle genre, played on a hexagonal grid. The objective is to place various shapes, made of hexagonal blocks, onto the board to create complete, unbroken lines of hexes. Lines can be formed in three directions: horizontally and in both diagonal directions. When a line is complete, it clears from the board, freeing up space and earning you points. With no time limits, it’s a test of pure strategy and spatial planning.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Think in Three Directions:** Unlike a square grid, a hexagonal grid allows you to form lines in three different directions. Always be scanning the board not just for horizontal lines, but for diagonal opportunities as well.
@@ -29,9 +31,9 @@ Hex Puzzle is a fun and engaging twist on the classic block puzzle genre, played
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-The game is controlled with a simple drag-and-drop interface.
+The game is controlled with a simple `drag`-and-`drop` interface.
 
-*   **Place Blocks:** Use your mouse or finger to drag a shape from your inventory at the bottom and place it onto an empty space on the hexagonal grid.
+*   **Place Blocks:** Use your `mouse` or finger to `drag` a shape from your inventory at the bottom and place it onto an empty `space` on the hexagonal grid.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

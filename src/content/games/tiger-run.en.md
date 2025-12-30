@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Tiger Run is a straightforward endless runner set in the jungle. Read upcoming hazards, swap lanes or jump/slide to avoid obstacles, and chain coin pickups while maintaining a stable rhythm as speed ramps up.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Eyes up: Look ahead to prepare lane swaps early.
@@ -30,7 +32,7 @@ Tiger Run is a straightforward endless runner set in the jungle. Read upcoming h
 ### Controls Guide
 
 - Move: A/D or Left/Right to change lanes.
-- Jump/Slide: Space/Up to jump; Down to slide (or swipe on mobile).
+- Jump/Slide: `Space`/Up to jump; Down to slide (or `swipe` on mobile).
 - Pause/Retry: On‑screen UI.
 
 <!-- i18n:section:faq -->

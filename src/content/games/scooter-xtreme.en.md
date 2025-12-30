@@ -18,6 +18,8 @@ releaseDate: 2025-10-17
 Scooter Xtreme 3D is an action-packed stunt and racing game that puts you on a scooter in a vibrant 3D world. Your goal is to navigate through challenging courses filled with ramps, rails, and obstacles. Perform incredible stunts like flips and grinds to rack up points, collect coins, and race to the finish line. Use your earnings to unlock new scooters and characters to become the ultimate scooter champion.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Master the Basics:** Before trying complex tricks, get comfortable with the controls. Practice accelerating, turning, and jumping to get a feel for the physics of the scooter.
@@ -28,10 +30,10 @@ Scooter Xtreme 3D is an action-packed stunt and racing game that puts you on a s
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **Accelerate:** Press the **W** or **Up Arrow** key.
+*   **Accelerate:** `Press` the **W** or **Up Arrow** key.
 *   **Steer:** Use the **A/D** or **Left/Right Arrow** keys to steer.
-*   **Brake/Reverse:** Press the **S** or **Down Arrow** key.
-*   **Jump:** Press the **Spacebar** to jump.
+*   **Brake/Reverse:** `Press` the **S** or **Down Arrow** key.
+*   **Jump:** `Press` the **`Spacebar`** to jump.
 *   **Perform Tricks:** Use other designated keys (often shown on-screen) while in the air or on a rail to perform various stunts.
 
 <!-- i18n:section:faq -->

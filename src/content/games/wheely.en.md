@@ -29,10 +29,10 @@ The core gameplay involves observing the scene and figuring out the correct sequ
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- **Mouse:** All interactions are done with the mouse.
-    - **Click:** Click on objects to activate them.
-    - **Click on Wheely:** Click Wheely to start or stop his movement.
-    - **Drag/Rotate:** Some puzzles may require clicking and dragging or rotating certain elements.
+- **`Mouse`:** All interactions are done with the `mouse`.
+    - **`Click`:** `Click` on objects to activate them.
+    - **`Click` on Wheely:** `Click` Wheely to start or stop his movement.
+    - **`Drag`/Rotate:** Some puzzles may require clicking and dragging or rotating certain elements.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

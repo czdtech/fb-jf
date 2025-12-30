@@ -31,8 +31,10 @@ Multiplayer survival with evolution: start as a small creature, consume specific
 
 <!-- i18n:section:controls -->
 ### Controls
-- Mouse/Keyboard to move/fly; boost keys vary by host.
+- `Mouse`/Keyboard to move/fly; boost keys vary by host.
 
+
+<!-- i18n:section:tips -->
 ### Tips
 - Eat safely at the edge of busy zones; don’t contest predators.
 - Memorize the food chain so you can route upgrades quickly.

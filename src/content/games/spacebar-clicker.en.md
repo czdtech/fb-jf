@@ -25,8 +25,8 @@ Start by repeatedly pressing the spacebar to generate your first points. As you 
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- **Main Action:** `Spacebar` - Press to generate points.
-- **Upgrades:** `Mouse Click` - Use your mouse to purchase upgrades from the in-game menu.
+- **Main Action:** `Spacebar` - `Press` to generate points.
+- **Upgrades:** `Mouse Click` - Use your `mouse` to purchase upgrades from the in-game menu.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

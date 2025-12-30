@@ -18,6 +18,8 @@ releaseDate: 2025-10-17
 Classic Solitaire, also known as Klondike, is one of the most famous and beloved single-player card games in the world. The objective is to organize a shuffled 52-card deck into four foundation piles, one for each suit, in ascending order from Ace to King. The game requires strategy, patience, and a bit of luck as you manipulate cards on the tableau to uncover hidden cards and build your foundations.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Game Components:**
@@ -36,9 +38,9 @@ Classic Solitaire, also known as Klondike, is one of the most famous and beloved
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **Move Cards:** Click and drag a card (or a valid sequence of cards) from one pile to another.
-*   **Draw from Stock:** Click on the face-down Stock Pile to draw a card (or three, depending on the game variant) to the Waste Pile.
-*   **Auto-Move to Foundation:** In many digital versions, you can double-click a card, and it will automatically move to the correct foundation pile if the move is valid.
+*   **Move Cards:** `Click` and `drag` a card (or a valid sequence of cards) from one pile to another.
+*   **Draw from Stock:** `Click` on the face-down Stock Pile to draw a card (or three, depending on the game variant) to the Waste Pile.
+*   **Auto-Move to Foundation:** In many digital versions, you can double-`click` a card, and it will automatically move to the correct foundation pile if the move is valid.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

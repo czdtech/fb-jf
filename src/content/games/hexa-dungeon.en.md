@@ -18,6 +18,8 @@ releaseDate: 2025-10-17
 Hexa Dungeon is an innovative puzzle-RPG that combines match-3 mechanics with dungeon-crawling combat. In this game, you face off against skeletons and other monsters in a dungeon. To attack your enemies, you must connect chains of three or more identical, adjacent hexagonal tiles on the puzzle board below. The longer the chain you create, the more powerful your attack will be. It's a strategic game where you must balance making powerful attacks with setting up future moves.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Longer Chains = More Damage:** The core strategy is to create the longest possible chain of matching tiles. A chain of 5 tiles will do significantly more damage than a chain of 3. Always scan the board for the best possible connection before making a move.
@@ -28,9 +30,9 @@ Hexa Dungeon is an innovative puzzle-RPG that combines match-3 mechanics with du
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-The game is played with a simple click-and-drag or swipe mechanic.
+The game is played with a simple `click`-and-`drag` or `swipe` mechanic.
 
-*   **Connect Tiles:** Click and hold on a tile, then drag your cursor over adjacent, identical tiles to form a chain. Release the mouse button to confirm the match and launch your attack.
+*   **Connect Tiles:** `Click` and `hold` on a tile, then `drag` your cursor over adjacent, identical tiles to form a chain. Release the `mouse` button to confirm the match and launch your attack.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

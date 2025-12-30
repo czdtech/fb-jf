@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 My Space Pet invites you to adopt and care for an adorable alien creature named Zuub. This charming virtual pet game combines elements of nurturing, mini-games, and customization. Your mission is to keep Zuub happy and healthy by fulfilling its basic needs: feeding it when hungry, washing it when dirty, and ensuring it gets enough rest. Beyond basic care, you can play engaging mini-games to earn coins, which can then be used to unlock a variety of stylish outfits and accessories to personalize your space pet.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Monitor Zuub's Needs:** Keep a close eye on Zuub's indicators for hunger, hygiene, and sleep. Addressing these needs promptly will keep Zuub happy and energetic.
@@ -28,7 +30,7 @@ My Space Pet invites you to adopt and care for an adorable alien creature named 
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **Click/Tap:** Use your mouse (on desktop) or finger (on mobile) to interact with Zuub, select menu options, and play mini-games.
+*   **`Click`/`Tap`:** Use your `mouse` (on desktop) or finger (on mobile) to interact with Zuub, select menu options, and play mini-games.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

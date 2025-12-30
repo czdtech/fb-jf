@@ -18,6 +18,8 @@ releaseDate: 2025-10-17
 Mahjong Solitaire is a single-player matching game that uses a set of Mahjong tiles. Unlike traditional Mahjong, the goal is not to form hands but to clear the board by finding and matching pairs of identical tiles. The tiles are arranged in various layouts, often in multi-layered stacks. The game requires careful observation, strategy, and planning, as one wrong move can block future matches. It's a relaxing yet mentally stimulating puzzle enjoyed by millions.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Understanding "Free" Tiles:** The most important rule is that you can only select and match "free" (or "open") tiles. A tile is considered free if:
@@ -32,10 +34,10 @@ Mahjong Solitaire is a single-player matching game that uses a set of Mahjong ti
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-The game is controlled with a mouse or via touch screen.
+The game is controlled with a `mouse` or via touch screen.
 
-*   **Select a Tile:** Click on a free tile to highlight it.
-*   **Match a Pair:** Click on a second, identical free tile to match the pair. The two tiles will then be removed from the board.
+*   **Select a Tile:** `Click` on a free tile to highlight it.
+*   **Match a Pair:** `Click` on a second, identical free tile to match the pair. The two tiles will then be removed from the board.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

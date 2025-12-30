@@ -43,12 +43,12 @@ The strategy here is about layering the game's iconic sounds and meme references
 <!-- i18n:section:controls -->
 ### **Controls Guide**
 
-The controls follow the standard, intuitive drag-and-drop interface of the official Incredibox games.
+The controls follow the standard, intuitive `drag`-and-`drop` interface of the official Incredibox games.
 
-*   **Add a Sound**: **Drag** a sound icon from the bottom and **drop** it onto one of the gorillas.
-*   **Remove a Sound**: Click the "X" on an active sound icon at the bottom, or drag a new sound onto an existing gorilla to replace it.
-*   **Mute / Unmute**: **Click** on a performing gorilla to mute them; click again to unmute.
-*   **Solo**: Click the **small button** next to an active gorilla to mute all other performers.
-*   **Record**: Click the **record button** (top right) to start and stop recording your mix.
+*   **Add a Sound**: **`Drag`** a sound icon from the bottom and **`drop`** it onto one of the gorillas.
+*   **Remove a Sound**: `Click` the "X" on an active sound icon at the bottom, or `drag` a new sound onto an existing gorilla to replace it.
+*   **Mute / Unmute**: **`Click`** on a performing gorilla to mute them; `click` again to unmute.
+*   **Solo**: `Click` the **small button** next to an active gorilla to mute all other performers.
+*   **Record**: `Click` the **record button** (top right) to start and stop recording your mix.
 
 

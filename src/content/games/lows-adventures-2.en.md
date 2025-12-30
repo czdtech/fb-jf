@@ -26,8 +26,10 @@ Low’s Adventures 2 delivers short, old‑school platforming levels with hidden
 
 <!-- i18n:section:controls -->
 ### Controls
-- Arrows/WASD to move/jump; attack/interact varies by host.
+- Arrows/`WASD` to move/jump; attack/interact varies by host.
 
+
+<!-- i18n:section:tips -->
 ### Tips
 - Buffer jumps at platform edges to extend distance.
 - Use enemy heads as springboards when possible.

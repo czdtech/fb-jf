@@ -26,8 +26,10 @@ Set in a horror attraction years later, you face Springtrap while phantoms disru
 
 <!-- i18n:section:controls -->
 ### Controls
-- Mouse/UI for cameras, audio, vent seals, and system reboots.
+- `Mouse`/UI for cameras, audio, vent seals, and system reboots.
 
+
+<!-- i18n:section:tips -->
 ### Tips
 - Keep Springtrap in rooms far from your office; lure step‑by‑step.
 - Phantoms are distractions—avoid staring at them; recover and re‑establish control quickly.

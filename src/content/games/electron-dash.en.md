@@ -26,8 +26,10 @@ Fast tunnel runner: sprint along cylinders and platforms, leap gaps, and dash ac
 
 <!-- i18n:section:controls -->
 ### Controls
-- Arrows/WASD to move/jump; Space/X to dash (host dependent).
+- Arrows/`WASD` to move/jump; `Space`/X to dash (host dependent).
 
+
+<!-- i18n:section:tips -->
 ### Tips
 - Center your lane before blind rises; camera shifts can mislead footing.
 - Chain dash→jump to cross long gaps; don’t spam dash on unstable tiles.

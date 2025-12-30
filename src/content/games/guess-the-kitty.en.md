@@ -26,8 +26,10 @@ Guess the Kitty is a light quiz where you identify cat breeds or features from p
 
 <!-- i18n:section:controls -->
 ### Controls
-- Mouse/touch to select answers; keyboard for text entries when applicable.
+- `Mouse`/touch to select answers; keyboard for text entries when applicable.
 
+
+<!-- i18n:section:tips -->
 ### Tips
 - Learn hallmark patterns (tabby M‑mark, tortoiseshell mottling, color‑point masks).
 - Compare head/ear silhouette to narrow families.

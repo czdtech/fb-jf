@@ -18,6 +18,8 @@ releaseDate: 2025-10-17
 Idle Explorers is an addictive idle management and clicker game where you take on the role of a mining tycoon. Your goal is to build a vast exploration empire by managing a team of workers who dig for valuable resources. You start with a single explorer in a basic mine shaft and must use the income they generate to upgrade your operation, hire more workers, automate processes by hiring managers, and eventually unlock new, more profitable mines across different worlds.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **The Core Loop:** The gameplay loop is simple but compelling: Your workers dig automatically, generating cash. You use that cash to buy upgrades. Those upgrades make you earn cash faster, allowing you to afford even bigger upgrades. This cycle continues as you expand your empire.
@@ -28,10 +30,10 @@ Idle Explorers is an addictive idle management and clicker game where you take o
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-The game is played entirely with mouse clicks or taps.
+The game is played entirely with `mouse` clicks or taps.
 
-*   **Upgrade:** Click on the upgrade buttons for your mine shafts, elevator, and warehouse to level them up.
-*   **Hire Managers:** Click on the manager icons when you have enough funds to automate a process.
+*   **Upgrade:** `Click` on the upgrade buttons for your mine shafts, elevator, and warehouse to level them up.
+*   **Hire Managers:** `Click` on the manager icons when you have enough funds to automate a process.
 *   **Navigate:** Use the map or world buttons to switch between your different mines.
 
 <!-- i18n:section:faq -->

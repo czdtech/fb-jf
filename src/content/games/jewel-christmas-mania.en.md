@@ -19,6 +19,8 @@ releaseDate: 2025-10-18
 Jewel Christmas Mania is a dazzling match-3 puzzle game that brings the joy of the holiday season to your screen. Swap and match three or more festive jewels to clear them from the board, earn points, and complete various level objectives. With hundreds of levels filled with sparkling gems, challenging obstacles, and powerful boosters, this game offers endless hours of brain-teasing fun. Immerse yourself in the enchanting Christmas atmosphere with beautiful graphics and cheerful music.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Look for Special Gem Combinations:** Matching more than three jewels in a row or in specific shapes (like L or T) will create powerful special gems. These can clear entire rows, columns, or explode to clear a large area.
@@ -30,7 +32,7 @@ Jewel Christmas Mania is a dazzling match-3 puzzle game that brings the joy of t
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **Swap Jewels:** Use your mouse to click and drag a jewel to an adjacent position to swap it with another. This action is only valid if it results in a match of three or more identical jewels.
+*   **Swap Jewels:** Use your `mouse` to `click` and `drag` a jewel to an adjacent position to swap it with another. This action is only valid if it results in a match of three or more identical jewels.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

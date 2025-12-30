@@ -48,9 +48,9 @@ Strategy in *Incredibox Instrumentalist* revolves around understanding how diffe
 
 This mod features a unique take on the classic Incredibox controls.
 
-*   **Add an Instrument**: **Drag** a sound icon from the bottom and **drop** it onto one of the empty slots on the stage. The instrument itself will appear and start playing.
-*   **Remove an Instrument**: Simply **click** on the instrument on the stage to remove it.
-*   **Record**: Click the **record button** (top right) to start and stop recording your instrumental piece.
+*   **Add an Instrument**: **`Drag`** a sound icon from the bottom and **`drop`** it onto one of the empty slots on the stage. The instrument itself will appear and start playing.
+*   **Remove an Instrument**: Simply **`click`** on the instrument on the stage to remove it.
+*   **Record**: `Click` the **record button** (top right) to start and stop recording your instrumental piece.
 
 <!-- i18n:section:faq -->
 ### **Frequently Asked Questions (FAQ)**

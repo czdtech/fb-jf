@@ -30,6 +30,8 @@ The game fundamentally changes the upgrade system by giving each tower **three d
 -   **Paragons:** The ultimate late-game towers. By having all three Tier 5 towers of a single monkey type on the field, you can sacrifice them to create an immensely powerful Paragon version of that monkey.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy
 
 -   **Synergy is King:** BTD6 is all about tower combinations. The most famous synergy is pairing a strong damage tower (like a 2/0/3 Super Monkey) with a 4/2/0 **Alchemist** (Stronger Stimulant), which provides a massive boost to damage and attack speed.
@@ -48,10 +50,10 @@ The game fundamentally changes the upgrade system by giving each tower **three d
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-The controls are intuitive for PC (mouse) and mobile (touch).
+The controls are intuitive for PC (`mouse`) and mobile (touch).
 
--   **Placing/Upgrading:** Select a tower from the panel, place it on the map. Tap/click the tower to open its three-path upgrade menu.
--   **Hero Abilities:** Your Hero's abilities appear above their level indicator. Click them to activate.
+-   **Placing/Upgrading:** Select a tower from the panel, place it on the map. `Tap`/`click` the tower to open its three-path upgrade menu.
+-   **Hero Abilities:** Your Hero's abilities appear above their level indicator. `Click` them to activate.
 -   **Tower Abilities:** Activated abilities for regular towers appear in the bottom-left corner of the screen.
 -   **Hotkeys (PC):** Each monkey tower and its upgrades are assigned a hotkey (e.g., Q for Dart Monkey, 1/2/3 for upgrade paths). This allows for extremely fast gameplay for experienced players.
 

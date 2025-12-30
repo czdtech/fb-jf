@@ -17,6 +17,8 @@ releaseDate: 2025-10-18
 Timber Guy is a one‑button timing game. Chop the trunk while switching sides to avoid incoming branches. The pace accelerates, demanding clean side swaps and steady rhythm.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Read ahead: Watch the next few branches and pre‑plan swaps.
@@ -28,7 +30,7 @@ Timber Guy is a one‑button timing game. Chop the trunk while switching sides t
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Chop/Swap: Tap left/right to chop from that side.
+- Chop/Swap: `Tap` left/right to chop from that side.
 - Pause/Retry via UI.
 
 <!-- i18n:section:faq -->

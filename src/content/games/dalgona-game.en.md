@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Dalgona Game is a careful tracing challenge inspired by honeycomb candy. Carve out the stamped shape by following edges; too much pressure or off‑path cuts crack the candy and fail the round.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Slow and steady near corners; speed only on straight segments.
@@ -29,7 +31,7 @@ Dalgona Game is a careful tracing challenge inspired by honeycomb candy. Carve o
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Drag to trace the outline; pressure/angle sensitivity varies by build.
+- `Drag` to trace the outline; pressure/angle sensitivity varies by build.
 - Restart quickly on breaks.
 
 <!-- i18n:section:faq -->

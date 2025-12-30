@@ -26,8 +26,10 @@ Fast‑reaction micro‑games: complete short safety‑themed challenges under a
 
 <!-- i18n:section:controls -->
 ### Controls
-- Mouse/Touch swipes, taps, and holds; some hosts use arrow keys/space for specific games.
+- `Mouse`/Touch swipes, taps, and holds; some hosts use `arrow keys`/`space` for specific games.
 
+
+<!-- i18n:section:tips -->
 ### Tips
 - Read the prompt first—many losses come from instinctive wrong inputs.
 - Expect repetition; memorize tricky games to react faster.

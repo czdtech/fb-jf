@@ -19,6 +19,8 @@ releaseDate: 2025-10-17
 Jigsaw Puzzles Hexa offers a refreshing and modern take on the timeless jigsaw puzzle. Instead of traditional, uniquely shaped interlocking pieces, this game uses clusters of hexagonal blocks. Your goal is to drag these hexa shapes from your inventory and place them correctly onto the main board to complete a beautiful, high-definition picture. With no time limits, it provides a relaxing yet mentally stimulating experience that challenges your spatial reasoning.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Analyze the Shapes:** Before you start placing pieces, take a look at the shapes you are given. Unlike a normal jigsaw, you are working with geometric block clusters. Mentally picture how they might fit together on the board.
@@ -29,9 +31,9 @@ Jigsaw Puzzles Hexa offers a refreshing and modern take on the timeless jigsaw p
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-The game is played with a simple drag-and-drop mechanic.
+The game is played with a simple `drag`-and-`drop` mechanic.
 
-*   **Select and Place:** Use your mouse or finger to click and drag a hexagonal piece cluster from your inventory area and drop it onto the main puzzle board.
+*   **Select and Place:** Use your `mouse` or finger to `click` and `drag` a hexagonal piece cluster from your inventory area and `drop` it onto the main puzzle board.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

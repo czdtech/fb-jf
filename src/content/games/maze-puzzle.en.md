@@ -19,6 +19,8 @@ releaseDate: 2025-10-18
 Maze Puzzle offers compact labyrinths with keys, doors, and occasional patrolling hazards. Optimal play finds safe, minimal routes that collect keys in efficient sequences while avoiding dead ends and patrol cones.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Key ordering: Plan an order that minimizes backtracking.
@@ -30,7 +32,7 @@ Maze Puzzle offers compact labyrinths with keys, doors, and occasional patrollin
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Arrow/WASD movement; tap to interact; restart quickly from menu.
+- Arrow/`WASD` movement; `tap` to interact; restart quickly from menu.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

@@ -26,8 +26,10 @@ This Henry Stickmin episode revolves around a branching airship break‑in. You 
 
 <!-- i18n:section:controls -->
 ### Controls
-- Mouse to choose; occasional keys for QTEs depending on host.
+- `Mouse` to choose; occasional keys for QTEs depending on host.
 
+
+<!-- i18n:section:tips -->
 ### Tips
 - Don’t fear failure—each wrong pick teaches the right path.
 - Click characters mid‑scene to log bios when supported.

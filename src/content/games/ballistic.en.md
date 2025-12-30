@@ -24,6 +24,8 @@ releaseDate: 2025-08-16
 The core of the game lies in its dynamic physics engine. Players don't just aim directly at blocks; they must strategically plan their shots to create ricochets off walls and other blocks, setting off massive chain reactions. After each shot, the entire grid of blocks moves down one row, increasing the pressure. The game becomes a tense battle of clearing the board efficiently while collecting special items like extra balls and power-ups to enhance your firepower. With its vibrant visuals, smooth controls, and endless replayability, *Ballistic* is designed to be an addictive experience for both casual players and high-score chasers.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy
 
 Mastering *Ballistic* is about thinking several steps ahead and making every shot count.
@@ -41,9 +43,9 @@ Mastering *Ballistic* is about thinking several steps ahead and making every sho
 The game features intuitive controls that are easy to learn.
 
 *   **For PC / Web Browser:**
-    *   **Mouse:** Click and hold the left mouse button to bring up the aiming guide. Drag the mouse to adjust the angle of your shot. Release the mouse button to fire the balls.
+    *   **`Mouse`:** `Click` and `hold` the `left `mouse` button` to bring up the aiming guide. `Drag` the `mouse` to adjust the angle of your shot. Release the `mouse` button to fire the balls.
 *   **For Mobile / Touchscreen Devices:**
-    *   **Touchscreen:** Tap and hold on the screen to activate the aiming guide. Drag your finger to aim, and release to shoot.
+    *   **Touchscreen:** `Tap` and `hold` on the screen to activate the aiming guide. `Drag` your finger to aim, and release to shoot.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

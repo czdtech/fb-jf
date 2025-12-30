@@ -26,8 +26,10 @@ Head Soccer condenses football to punchy 1v1 duels with oversized heads and simp
 
 <!-- i18n:section:controls -->
 ### Controls
-- Arrows/WASD to move/jump; shoot/special keys vary by host.
+- Arrows/`WASD` to move/jump; shoot/special keys vary by host.
 
+
+<!-- i18n:section:tips -->
 ### Tips
 - Early jump + tap shot produces fast low drives.
 - Save specials for counterattacks or rebounds.

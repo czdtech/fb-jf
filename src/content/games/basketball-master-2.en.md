@@ -19,6 +19,8 @@ releaseDate: 2025-10-18
 Basketball Master 2 is a sports game focused on training basketball shooting skills. The core gameplay involves tapping and dragging to aim your shot to get the ball into the basket. You can even break through wood and ice blocks by shooting the ball with more power.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Aim and Shoot:** Tap and drag to control the aim and power of your shots.
@@ -28,7 +30,7 @@ Basketball Master 2 is a sports game focused on training basketball shooting ski
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **Mouse/Touch:** Tap and drag to aim and shoot the ball.
+*   **`Mouse`/Touch:** `Tap` and `drag` to aim and shoot the ball.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

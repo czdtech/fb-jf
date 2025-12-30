@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Wood Block Match is a 10×10‑style block placement game with wooden aesthetics. Each turn you receive a batch of shapes; place them to complete rows/columns and clear space. The session ends when none of the remaining pieces fit — so success is about preserving flexible lanes while engineering multi‑line clears.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Center breathing room: Keep the board center open; tidy edges to prevent single‑cell traps.
@@ -29,7 +31,7 @@ Wood Block Match is a 10×10‑style block placement game with wooden aesthetics
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Drag pieces into the grid; rotate if the mode supports it; clear rows/cols score points.
+- `Drag` pieces into the grid; rotate if the mode supports it; clear rows/cols score points.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

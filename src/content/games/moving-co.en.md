@@ -19,6 +19,8 @@ releaseDate: 2025-10-18
 Moving Co. is a light logistics and packing challenge. Navigate rooms, pick up furniture or boxes, and move them to the truck or target spots while avoiding collisions and minimizing trips. Tight doorways, fragile items, and awkward shapes create spatial puzzles under time pressure.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Survey first: Identify large items and narrow passages; move big pieces before clutter blocks routes.
@@ -30,8 +32,8 @@ Moving Co. is a light logistics and packing challenge. Navigate rooms, pick up f
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Move: Arrow keys / WASD; some versions support drag joystick.
-- Pick/Drop: Context action on contact or a dedicated button.
+- Move: `Arrow keys` / `WASD`; some versions support `drag` joystick.
+- Pick/`Drop`: Context action on contact or a dedicated button.
 - Rotate (if available): Use on‑screen arrows or Q/E.
 
 <!-- i18n:section:faq -->

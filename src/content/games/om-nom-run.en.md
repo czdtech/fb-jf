@@ -19,6 +19,8 @@ releaseDate: 2025-10-17
 Om Nom: Run is a vibrant and action-packed endless runner game starring the adorable monster Om Nom from the hit "Cut the Rope" series. In this game, Om Nom takes to the streets, rooftops, and tunnels in a fast-paced chase. Players must guide him to dodge obstacles, collect coins, complete missions, and use a variety of powerful boosters to run as far as possible and achieve the highest score.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Master the Swipes:** The core gameplay relies on quick reflexes. You need to swipe left and right to switch between three lanes, swipe up to jump over low obstacles, and swipe down to slide under high ones. Practice timing your swipes perfectly.
@@ -32,11 +34,11 @@ Om Nom: Run is a vibrant and action-packed endless runner game starring the ador
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-The game uses simple and intuitive swipe gestures.
+The game uses simple and intuitive `swipe` gestures.
 
-*   **Swipe Left/Right:** To move between the three lanes.
-*   **Swipe Up:** To jump over obstacles.
-*   **Swipe Down:** To slide under obstacles.
+*   **`Swipe` Left/Right:** To move between the three lanes.
+*   **`Swipe` Up:** To jump over obstacles.
+*   **`Swipe` Down:** To slide under obstacles.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

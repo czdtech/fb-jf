@@ -18,6 +18,8 @@ releaseDate: 2025-10-17
 Dice Puzzle is a clever and strategic puzzle game that blends logic with a bit of luck. The objective is to place dice onto a 5x5 grid and merge them to create higher-value dice. By matching three or more adjacent dice of the same number, you combine them into a single die of the next higher number. The ultimate goal is to create special jewel cubes by merging dice with the number 6, which helps clear the board and achieve a high score. The game ends when the board is full and you can no longer place a die.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **The Merge Rule:** The core of the game is matching three or more identical dice that are adjacent to each other (in a line or cluster). They will then merge into a single die of the next number (e.g., three '4s' become one '5').
@@ -28,8 +30,8 @@ Dice Puzzle is a clever and strategic puzzle game that blends logic with a bit o
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **Rotate Die:** Click on the die in the holding area to rotate it before placing it.
-*   **Place Die:** Click on an empty square on the 5x5 grid to place the current die.
+*   **Rotate Die:** `Click` on the die in the holding area to rotate it before placing it.
+*   **Place Die:** `Click` on an empty square on the 5x5 grid to place the current die.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

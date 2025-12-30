@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Billiard Hustlers is a slick pool sim that emphasizes aiming, spin, and cue‑ball control. Whether you’re playing 8‑ball, 9‑ball, or simple pot challenges, the core is identical: pocket your object balls while leaving the cue‑ball ideal for the next shot. Lighter tables and faster cloth encourage precise power and subtle english (spin) to shape routes across the table.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Pre‑plan position: Before every pot, decide where you want the cue‑ball to stop for the next shot.
@@ -30,7 +32,7 @@ Billiard Hustlers is a slick pool sim that emphasizes aiming, spin, and cue‑ba
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Aim: Drag to line up; fine‑tune with small mouse movements.
+- Aim: `Drag` to line up; fine‑tune with small `mouse` movements.
 - Power: Pull back the cue meter; release to shoot.
 - Spin: Adjust the cue‑ball diagram for top/back/side spin.
 - Camera: Some versions allow pan/zoom for better sightlines.

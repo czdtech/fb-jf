@@ -18,6 +18,8 @@ releaseDate: 2025-10-17
 Santa Magic Xmas is a cheerful and festive match-3 puzzle game that immerses you in the holiday spirit. Your goal is to help Santa Claus by matching colorful Christmas items like bells, ornaments, and gingerbread men. Swap adjacent items to create lines of three or more, trigger powerful combos, and complete the objectives of each level to ensure all the presents are delivered on time!
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Create Festive Power-ups:** The best way to clear the board is by making special items from larger matches.
@@ -34,7 +36,7 @@ Santa Magic Xmas is a cheerful and festive match-3 puzzle game that immerses you
 
 The game is played with simple swap mechanics.
 
-*   **Swap Items:** Click and drag an item to swap it with an adjacent one. The swap will only be successful if it creates a valid match.
+*   **Swap Items:** `Click` and `drag` an item to swap it with an adjacent one. The swap will only be successful if it creates a valid match.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

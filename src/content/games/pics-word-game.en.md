@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Pics Word Game is a word puzzle game where you are presented with images and must deduce a single word that connects them. It's a fun way to test your vocabulary and critical thinking skills.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Review the Pictures:** Carefully examine all the images provided for the puzzle. Look for common themes, objects, actions, or concepts.
@@ -28,7 +30,7 @@ Pics Word Game is a word puzzle game where you are presented with images and mus
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **Mouse/Touch:** Use the mouse or touch screen to select letters and interact with the game's menus.
+*   **`Mouse`/Touch:** Use the `mouse` or touch screen to select letters and interact with the game's menus.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

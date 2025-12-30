@@ -24,6 +24,8 @@ releaseDate: 2025-10-17
 Nature Strikes Back is a unique and engaging game that combines the addictive puzzle mechanics of a merge game with the strategic depth of tower defense. In this game, you are tasked with protecting the Heart of Nature from an invasion of polluting monsters known as Mucklings. To do this, you will summon and merge various Guardian Spirits, evolving them into more powerful forms and deploying them on the battlefield to automatically fend off the relentless waves of enemies.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Summon and Merge:** The core gameplay revolves around creating powerful defenders. Use your energy to summon basic Guardian Spirits onto your merge board. Drag and drop one Spirit onto an identical one to merge them into a single, higher-level Spirit with improved attack power.
@@ -34,9 +36,9 @@ Nature Strikes Back is a unique and engaging game that combines the addictive pu
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **Summon Spirit:** Click the "Summon" button to get a new base-level Guardian Spirit.
-*   **Merge Spirits:** Click and drag a Spirit onto another identical Spirit to combine them.
-*   **Deploy/Move:** Drag a Spirit from your merge board to an empty slot on the battlefield. You can also move already placed Spirits between different slots.
+*   **Summon Spirit:** `Click` the "Summon" button to get a new base-level Guardian Spirit.
+*   **Merge Spirits:** `Click` and `drag` a Spirit onto another identical Spirit to combine them.
+*   **Deploy/Move:** `Drag` a Spirit from your merge board to an empty slot on the battlefield. You can also move already placed Spirits between different slots.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

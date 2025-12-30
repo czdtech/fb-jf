@@ -19,6 +19,8 @@ releaseDate: 2025-10-17
 Golf Adventures is a fun and imaginative puzzle game that uses the mechanics of golf. Instead of a realistic golf course, you'll find yourself in a series of creative and challenging levels filled with unique obstacles. The goal is simple: get the ball into the hole in as few strokes as possible. It's a game of angles, power, and clever problem-solving.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Plan Your Shot:** Before you shoot, take a look at the entire level. Observe the obstacles, the slopes, and the position of the hole. The shortest path is not always the best one.
@@ -29,10 +31,10 @@ Golf Adventures is a fun and imaginative puzzle game that uses the mechanics of 
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-The game uses a simple drag-and-release mechanic.
+The game uses a simple `drag`-and-release mechanic.
 
-*   **Aim and Set Power:** Click on the golf ball and hold the mouse button. Drag your cursor away from the ball. A line will appear showing your aim, and the distance you drag determines the power.
-*   **Shoot:** Release the mouse button to hit the ball.
+*   **Aim and Set Power:** `Click` on the golf ball and `hold` the `mouse` button. `Drag` your cursor away from the ball. A line will appear showing your aim, and the distance you `drag` determines the power.
+*   **Shoot:** Release the `mouse` button to hit the ball.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

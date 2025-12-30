@@ -29,8 +29,10 @@ Interactive face‑stretching toy: grab and drag a rubbery face, then watch it w
 
 <!-- i18n:section:controls -->
 ### Controls
-- Mouse/Touch drag and release; settings panel where available.
+- `Mouse`/Touch `drag` and release; settings panel where available.
 
+
+<!-- i18n:section:tips -->
 ### Tips
 - Pull from cheeks/forehead for broad wobbles; small pinches create fast ripples.
 - Lower resolution on slower devices for smoother motion.

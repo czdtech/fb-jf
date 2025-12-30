@@ -26,8 +26,10 @@ Physics obstacle driving: keep your truck upright across seesaws, bridges, and t
 
 <!-- i18n:section:controls -->
 ### Controls
-- Arrow/WASD: drive/reverse/tilt; R: restart; Esc/P: pause (host dependent).
+- Arrow/`WASD`: drive/reverse/tilt; R: restart; `Esc`/P: pause (host dependent).
 
+
+<!-- i18n:section:tips -->
 ### Tips
 - Feather throttle; full‑gas often flips the truck.
 - Use reverse mid‑air to tip the nose up or down.

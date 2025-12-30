@@ -24,6 +24,8 @@ Big Shot Boxing is a retro-style arcade boxing game with a career-focused progre
 The core of the game revolves around managing your boxer's career. This includes participating in fights, earning money, and using that money to train and improve your fighter's attributes. As you win matches, you'll face increasingly difficult opponents, each with their own unique fighting styles and stats. The ultimate goal is to conquer every opponent and claim the championship belt. It's a game that is easy to pick up but offers a satisfying level of challenge to master.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy
 
 -   **Patience and Defense are Key:** Do not mindlessly spam punches. This will drain your stamina quickly, leaving you vulnerable to counter-attacks. Learn to block effectively and wait for your opponent to finish their combo. This creates an opening for you to strike back.
@@ -38,13 +40,13 @@ The core of the game revolves around managing your boxer's career. This includes
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-The game uses a simple and intuitive tap-and-swipe control system.
+The game uses a simple and intuitive `tap`-and-`swipe` control system.
 
--   **Tap Left Side of Screen:** Throw a jab with your left hand.
--   **Tap Right Side of Screen:** Throw a cross/straight punch with your right hand.
--   **Swipe Up:** Perform a powerful uppercut. This is effective for countering or breaking through an opponent's guard but is slower to execute.
--   **Hold/Swipe Down:** Block. Hold your finger on the screen to raise your guard and block incoming punches. This is essential for defense.
--   **"Big Shot" Button:** When your special meter is full, a button will appear on the screen. Tap it to unleash your "Big Shot" signature punch.
+-   **`Tap` Left Side of Screen:** Throw a jab with your left hand.
+-   **`Tap` Right Side of Screen:** Throw a cross/straight punch with your right hand.
+-   **`Swipe` Up:** Perform a powerful uppercut. This is effective for countering or breaking through an opponent's guard but is slower to execute.
+-   **`Hold`/`Swipe` Down:** Block. `Hold` your finger on the screen to raise your guard and block incoming punches. This is essential for defense.
+-   **"Big Shot" Button:** When your special meter is full, a button will appear on the screen. `Tap` it to unleash your "Big Shot" signature punch.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

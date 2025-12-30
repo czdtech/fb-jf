@@ -29,6 +29,8 @@ The core of the game is its multiplayer mode, where players can join public matc
 -   **Gun Game:** Players start with a basic pistol and are given a new weapon for every kill they get, progressing through a set list of firearms.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy
 
 -   **Master the Movement:** Bullet Force is an arcade-style shooter. Standing still is a quick way to get eliminated. Constantly be on the move, and learn to use mechanics like sprinting, crouching, and sliding to your advantage to be a harder target to hit.
@@ -46,21 +48,21 @@ The core of the game is its multiplayer mode, where players can join public matc
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-#### PC (Keyboard & Mouse)
+#### PC (Keyboard & `Mouse`)
 -   **Movement:** `W`, `A`, `S`, `D`
 -   **Jump:** `Spacebar`
 -   **Sprint:** `Shift`
 -   **Crouch/Slide:** `C`
--   **Aim Down Sights (ADS):** `Right Mouse Button`
--   **Shoot:** `Left Mouse Button`
+-   **Aim Down Sights (ADS):** `Right `Mouse` Button`
+-   **Shoot:** `Left `Mouse` Button`
 -   **Reload:** `R`
--   **Switch Weapon:** `1`, `2`, `3` or Mouse Wheel
+-   **Switch Weapon:** `1`, `2`, `3` or `Mouse` Wheel
 -   **Interact:** `E`
 -   **Show Scoreboard:** `Tab`
 
 #### Mobile (Touchscreen)
 -   **Movement:** Virtual joystick on the left side of the screen.
--   **Aim/Look:** Swipe on the right side of the screen.
+-   **Aim/Look:** `Swipe` on the right side of the screen.
 -   **Shoot, ADS, Reload, Jump, Crouch:** Dedicated on-screen buttons, which can often be customized in the settings.
 
 <!-- i18n:section:faq -->

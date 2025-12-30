@@ -24,6 +24,8 @@ Capybara Clicker is a charming and relaxing idle/clicker game centered around th
 The gameplay starts simply: the player clicks on a large capybara in the center of the screen, with each click generating one capybara. These generated capybaras act as the game's currency. You can spend them on two main types of upgrades: upgrades that increase the number of capybaras you get per click, and auto-generating upgrades that produce a steady stream of capybaras per second (CPS) without you having to do anything. As you accumulate more capybaras, you unlock new cosmetic items to dress up your main capybara and can trigger a "weather change," which acts as a prestige system to reset your progress in exchange for a permanent boost to your production rate.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy
 
 -   **Balance Clicks and Idle Generation:** In the very beginning, active clicking is your main source of income. However, the long-term goal is to build up your passive Capybaras Per Second (CPS). Your first few purchases should be the cheapest auto-generating upgrades to get the snowball rolling.
@@ -37,11 +39,11 @@ The gameplay starts simply: the player clicks on a large capybara in the center 
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-The entire game is played with the mouse.
--   **Generate Capybaras:** Left-click on the main capybara.
--   **Buy Upgrades:** Left-click on the upgrade icons in the menu on the right.
--   **Change Appearance:** Click the hanger icon to open the cosmetic menu.
--   **Ascend:** Click the weather icon at the top of the screen.
+The entire game is played with the `mouse`.
+-   **Generate Capybaras:** Left-`click` on the main capybara.
+-   **Buy Upgrades:** Left-`click` on the upgrade icons in the menu on the right.
+-   **Change Appearance:** `Click` the hanger icon to open the cosmetic menu.
+-   **Ascend:** `Click` the weather icon at the top of the screen.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

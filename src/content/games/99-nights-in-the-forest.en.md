@@ -54,7 +54,7 @@ The game uses standard first-person controls.
 
 *   **Move**: `W`, `A`, `S`, `D` keys
 *   **Look**: `Mouse`
-*   **Sprint**: Hold `Shift` key
+*   **Sprint**: `Hold` `Shift` key
 *   **Jump**: `Space`
 *   **Interact / Pick Up / Open Door**: `E` key
 *   **Inventory / Crafting Menu**: `I` or `Tab` key

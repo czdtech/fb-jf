@@ -19,6 +19,8 @@ releaseDate: 2025-10-17
 Tiletopia is a peaceful and creative city-building puzzle game where you create beautiful, ever-expanding landscapes by placing hexagonal tiles. You start with a single tile and draw from a stack of procedurally generated tiles. The goal is to place these tiles strategically to create a coherent and picturesque world, matching edges like forests, fields, and villages. The game often includes small quests or challenges to guide your creation and maximize your score.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Match the Edges:** The fundamental rule is to match the edges of the tiles you place. Connect a forest edge to another forest edge, a field to a field, and so on. Every correct match earns you points.
@@ -29,8 +31,8 @@ Tiletopia is a peaceful and creative city-building puzzle game where you create 
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **Place Tile:** Click and drag a tile from your stack and drop it onto a valid empty space adjacent to an existing tile.
-*   **Rotate Tile:** In most versions, you can click on the tile in the stack to rotate it before placing it on the board.
+*   **Place Tile:** `Click` and `drag` a tile from your stack and `drop` it onto a valid empty `space` adjacent to an existing tile.
+*   **Rotate Tile:** In most versions, you can `click` on the tile in the stack to rotate it before placing it on the board.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

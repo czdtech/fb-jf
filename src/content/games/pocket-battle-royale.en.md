@@ -19,6 +19,8 @@ releaseDate: 2025-10-17
 Pocket Battle Royale is a fast-paced, top-down 2D shooter that distills the excitement of the battle royale genre into quick, action-packed rounds. You are dropped into a maze-like arena with other players and must fight to be the last one standing. Scavenge for weapons, ammo, and health packs while staying ahead of the ever-shrinking safe zone that forces players closer together. It’s a pure test of survival, reflexes, and strategy.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Loot Quickly:** Your first priority when the game starts is to find a weapon. Run through the buildings and open areas to find guns, ammo, and health kits. You are defenseless without a weapon.
@@ -29,9 +31,9 @@ Pocket Battle Royale is a fast-paced, top-down 2D shooter that distills the exci
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **Movement:** Use the **WASD keys** to move your character up, left, down, and right.
-*   **Aim:** Your character will automatically aim in the direction of your **mouse cursor**.
-*   **Shoot:** Click the **left mouse button** to fire your weapon.
+*   **Movement:** Use the **`WASD` keys** to move your character up, left, down, and right.
+*   **Aim:** Your character will automatically aim in the direction of your **`mouse` cursor**.
+*   **Shoot:** `Click` the **`left `mouse` button`** to fire your weapon.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

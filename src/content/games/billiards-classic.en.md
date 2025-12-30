@@ -19,6 +19,8 @@ releaseDate: 2025-10-17
 Billiards Classic brings the traditional game of 8-ball pool to your screen. This simulation pits you against a computer opponent in a test of skill, strategy, and physics. The objective is to be the first to pocket your assigned group of balls (either solids or stripes) and then legally sink the 8-ball to win the game. With realistic physics and intuitive controls, it’s a perfect way to enjoy a timeless pub classic.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **The Break:** The game starts with a break shot. Aim for the front ball of the rack to scatter the balls effectively.
@@ -30,10 +32,10 @@ Billiards Classic brings the traditional game of 8-ball pool to your screen. Thi
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **Aim:** Move your mouse to aim the cue stick.
-*   **Set Power:** Click and drag the power meter (usually on the side or bottom) to determine the strength of your shot.
+*   **Aim:** Move your `mouse` to aim the cue stick.
+*   **Set Power:** `Click` and `drag` the power meter (usually on the side or bottom) to determine the strength of your shot.
 *   **Apply Spin (English):** Use the on-screen spin controller to adjust where on the cue ball your stick will hit, applying spin.
-*   **Shoot:** Release the mouse button to take the shot.
+*   **Shoot:** Release the `mouse` button to take the shot.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

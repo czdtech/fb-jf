@@ -30,8 +30,10 @@ Lemonade Stand models a simple storefront. Each day you purchase inventory (cups
 
 <!-- i18n:section:controls -->
 ### Controls
-- Mouse/UI to set quantities and prices; advance day.
+- `Mouse`/UI to set quantities and prices; advance day.
 
+
+<!-- i18n:section:tips -->
 ### Tips
 - Don’t overstock perishable items if the forecast is cool or rainy.
 - Keep a margin for events but avoid tying up cash in excess inventory.

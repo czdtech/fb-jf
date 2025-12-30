@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Word Pics is a word puzzle game where players guess a single word or phrase based on two picture clues. The game is designed to be fun, addictive, and a great way to enhance your vocabulary.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Analyze the Pictures:** Look at both pictures and try to find a common theme or word that connects them.
@@ -29,7 +31,7 @@ Word Pics is a word puzzle game where players guess a single word or phrase base
 ### Controls Guide
 
 *   **Keyboard:** Use the keyboard to type in the letters of the word.
-*   **Mouse/Touch:** Use the mouse or touch screen to interact with the game's menus and hints.
+*   **`Mouse`/Touch:** Use the `mouse` or touch screen to interact with the game's menus and hints.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

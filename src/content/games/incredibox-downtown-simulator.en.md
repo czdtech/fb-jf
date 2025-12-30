@@ -37,10 +37,10 @@ This "Simulator" format offers a different creative experience, focusing on the 
 <!-- i18n:section:controls -->
 ### **Controls Guide**
 
-This is the key difference from standard Incredibox. The game is controlled entirely by mouse clicks.
+This is the key difference from standard Incredibox. The game is controlled entirely by `mouse` clicks.
 
-*   **Activate / Deactivate Sound**: **Click** on any of the 20 sound icons in the grid. An activated icon will be highlighted or change color, and its sound will be added to the loop. Clicking it again will deactivate it.
-*   **Combine Sounds**: You can click and activate as many sounds as you wish simultaneously to create your mix.
+*   **Activate / Deactivate Sound**: **`Click`** on any of the 20 sound icons in the grid. An activated icon will be highlighted or change color, and its sound will be added to the loop. Clicking it again will deactivate it.
+*   **Combine Sounds**: You can `click` and activate as many sounds as you wish simultaneously to create your mix.
 *   **Main Controls (Top Left)**:
     *   **Play Button**: Toggles the entire loop on or off.
     *   **Record Button**: Starts and stops the recording of your mix.

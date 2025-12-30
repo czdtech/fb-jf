@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Kitty Match is a charming and addictive match-3 puzzle game filled with cute cats and colorful challenges. The goal is to swap adjacent tiles to create lines of three or more identical items. Each level has a unique objective, such as collecting a certain number of specific items or clearing special blocks. By completing levels, you can earn rewards and progress through a delightful, cat-filled world. It's a relaxing game for all ages, perfect for puzzle and cat lovers alike.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Look for Big Matches:** While matching three items is good, matching four or five items is even better! These larger matches create special power-up tiles that can clear entire rows, columns, or explode to clear a whole area.
@@ -28,7 +30,7 @@ Kitty Match is a charming and addictive match-3 puzzle game filled with cute cat
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **Swap Tiles:** Use your mouse to click and drag an item to an adjacent tile to swap their positions. You can only swap if the move results in a match of three or more.
+*   **Swap Tiles:** Use your `mouse` to `click` and `drag` an item to an adjacent tile to swap their positions. You can only swap if the move results in a match of three or more.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

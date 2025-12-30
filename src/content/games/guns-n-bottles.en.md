@@ -19,6 +19,8 @@ releaseDate: 2025-10-17
 Guns n' Bottles is a simple yet highly addictive one-touch arcade game that tests your timing and precision. A gun continuously rotates in the center of the screen, and your goal is to tap at the perfect moment to fire a bullet and shatter the bottles that appear. The challenge lies in timing your shot perfectly with the gun's rotation. Hit the green bottles to score points, but be careful to avoid the red ones!
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Anticipate the Rotation:** Don't tap when your gun is aimed directly at the bottle. You need to lead your shot slightly. Fire just *before* the gun aligns with the target to account for the bullet's travel time and the gun's continuous rotation.
@@ -31,7 +33,7 @@ Guns n' Bottles is a simple yet highly addictive one-touch arcade game that test
 
 The game is played with a single action.
 
-*   **Shoot:** Click the left mouse button or tap anywhere on the screen to fire the gun.
+*   **Shoot:** `Click` the `left `mouse` button` or `tap` anywhere on the screen to fire the gun.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

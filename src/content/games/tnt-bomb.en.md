@@ -18,6 +18,8 @@ releaseDate: 2025-10-17
 TNT Bomb is a strategic, physics-based puzzle game where your objective is demolition. In each level, you are presented with a structure and a limited inventory of explosives. Your task is to carefully place your bombs on the structure in a way that will cause the most damage. By identifying key support points and using the right bomb for the job, you must try to obliterate the entire structure to move on to the next challenge.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Analyze the Structure:** Before placing any bombs, examine the structure's design. Look for weak points, key support beams, and load-bearing blocks at the base.
@@ -28,9 +30,9 @@ TNT Bomb is a strategic, physics-based puzzle game where your objective is demol
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **Select Bomb:** Click on the type of explosive you want to use from your inventory.
-*   **Place Bomb:** Click on a block within the structure to place the selected bomb.
-*   **Detonate:** Once you have placed all your available bombs, click the "Boom" or "Detonate" button to watch the fireworks.
+*   **Select Bomb:** `Click` on the type of explosive you want to use from your inventory.
+*   **Place Bomb:** `Click` on a block within the structure to place the selected bomb.
+*   **Detonate:** Once you have placed all your available bombs, `click` the "Boom" or "Detonate" button to watch the fireworks.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

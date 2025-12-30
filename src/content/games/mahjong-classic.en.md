@@ -18,6 +18,8 @@ releaseDate: 2025-10-17
 Mahjong Classic is the timeless single-player puzzle game that uses a set of Mahjong tiles. The goal is not to form winning hands as in traditional Mahjong, but to systematically clear a stacked layout of tiles by finding and matching identical pairs. It’s a game that tests your observation skills and strategic thinking, providing a relaxing yet engaging mental workout.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **The Rule of Free Tiles:** You can only select and match tiles that are "free." A tile is considered free if it can be moved left or right without being blocked by another tile, and it has no other tiles sitting on top of it.
@@ -28,9 +30,9 @@ Mahjong Classic is the timeless single-player puzzle game that uses a set of Mah
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-The game is played with simple mouse clicks or taps.
+The game is played with simple `mouse` clicks or taps.
 
-*   **Select & Match:** Click on a free tile to highlight it. Then, click on another identical, free tile to remove both from the board.
+*   **Select & Match:** `Click` on a free tile to highlight it. Then, `click` on another identical, free tile to remove both from the board.
 *   **Hints/Shuffle:** Most versions include a "Hint" button to show you a possible match and a "Shuffle" button to rearrange the tiles if no moves are available.
 
 <!-- i18n:section:faq -->

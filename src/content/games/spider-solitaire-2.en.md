@@ -18,6 +18,8 @@ releaseDate: 2025-10-17
 Spider Solitaire is one of the most popular and challenging variations of solitaire. Played with two full decks of cards, the objective is to clear the tableau by building eight complete descending sequences of a single suit, from King down to Ace. Once a full sequence is completed, it is removed from play. The game is renowned for its difficulty and the strategic depth required to win, especially when played with two or four suits.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **The Goal:** To build eight sequences of cards within the tableau, each from King to Ace in a single suit. Once a full K-to-A sequence is formed, it is automatically removed from the board. The game is won when the tableau is empty.
@@ -29,8 +31,8 @@ Spider Solitaire is one of the most popular and challenging variations of solita
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **Move Cards:** Click and drag a card or a valid sequence to another column.
-*   **Deal Cards:** Click the stock pile in the corner to deal a new row of cards.
+*   **Move Cards:** `Click` and `drag` a card or a valid sequence to another column.
+*   **Deal Cards:** `Click` the stock pile in the corner to deal a new row of cards.
 *   **Auto-Move:** Many versions will automatically move a completed K-to-A sequence to the foundation area for you.
 
 <!-- i18n:section:faq -->

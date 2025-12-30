@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Puzzle Pieces is a tidy shape‑fitting puzzler. Drag and rotate polyforms to fill boards exactly, managing limited space and piece orientations as layouts grow more intricate.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Start with anchors: Place unique or large shapes first to reduce ambiguity.
@@ -29,7 +31,7 @@ Puzzle Pieces is a tidy shape‑fitting puzzler. Drag and rotate polyforms to fi
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Drag to move pieces; rotate via click/tap or a rotate button.
+- `Drag` to move pieces; rotate via `click`/`tap` or a rotate button.
 - Undo/Reset: Fix mistakes quickly; no penalty in most modes.
 
 <!-- i18n:section:faq -->

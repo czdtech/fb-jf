@@ -37,7 +37,7 @@ Each run through the basement is unique. You navigate room by room, battling ene
 ### Controls Guide
 
 - **Movement:** `WASD` keys
-- **Shoot Tears:** `Arrow Keys` (or mouse for aiming in some versions)
+- **Shoot Tears:** `Arrow Keys` (or `mouse` for aiming in some versions)
 - **Use Activated Item:** `Spacebar`
 - **Place Bomb:** `Shift` or `E`
 - **Use Card/Pill:** `Q`

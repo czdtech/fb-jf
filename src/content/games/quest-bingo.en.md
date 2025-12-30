@@ -18,6 +18,8 @@ releaseDate: 2025-10-17
 Quest Bingo takes the timeless fun of classic Bingo and transforms it into an exciting adventure. In this game, you don't just play single rounds; you embark on a journey through a map filled with unique levels. As numbers are called, you'll daub your card to form winning patterns. But you'll also complete quests, use powerful boosters, and collect hidden puzzle pieces to unlock beautiful artwork, adding a layer of progression and discovery to the familiar gameplay.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Bingo Basics:** The core gameplay is classic Bingo. A number is called, and if you have it on your card, you daub it. The goal is to complete a required pattern (like a straight line, four corners, or a specific shape) on your card.
@@ -30,9 +32,9 @@ Quest Bingo takes the timeless fun of classic Bingo and transforms it into an ex
 
 The game is played with simple clicks or taps.
 
-*   **Daub Number:** When a number is called that appears on your card, click on that number to daub it.
-*   **Call Bingo:** When you have completed a winning pattern, click the "Bingo" button to claim your win.
-*   **Activate Boosters:** Click on the charged booster icons (usually at the bottom of the screen) to use them.
+*   **Daub Number:** When a number is called that appears on your card, `click` on that number to daub it.
+*   **Call Bingo:** When you have completed a winning pattern, `click` the "Bingo" button to claim your win.
+*   **Activate Boosters:** `Click` on the charged booster icons (usually at the bottom of the screen) to use them.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

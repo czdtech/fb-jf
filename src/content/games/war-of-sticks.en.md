@@ -31,7 +31,7 @@ War of Sticks is a real-time strategy game where you lead a stickman army to lib
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- **Mouse:** Primarily used for all interactions: clicking buttons to train units, selecting units, and directing your army on the battlefield.
+- **`Mouse`:** Primarily used for all interactions: clicking buttons to train units, selecting units, and directing your army on the battlefield.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

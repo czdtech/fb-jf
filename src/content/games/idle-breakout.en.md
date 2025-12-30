@@ -26,8 +26,10 @@ Idle Breakout merges incremental progression with classic brick‑breaking. Earl
 
 <!-- i18n:section:controls -->
 ### Controls
-- Mouse: click to damage; UI to buy balls, upgrades, and prestige nodes.
+- `Mouse`: `click` to damage; UI to buy balls, upgrades, and prestige nodes.
 
+
+<!-- i18n:section:tips -->
 ### Tips
 - Keep at least one high‑damage ball to burst bosses.
 - Idle efficiency rises with automation; check in to re‑allocate spending.

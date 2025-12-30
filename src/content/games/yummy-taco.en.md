@@ -36,9 +36,9 @@ Yummy Taco is a delightful and fast-paced cooking simulation game where you step
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- **Mouse/Touch:** All interactions are typically done with mouse clicks or touch gestures.
-    - **Click:** Select ingredients, click on customers, or interact with menu items.
-    - **Drag and Drop:** Drag ingredients to assemble tacos or drag completed tacos to customers.
+- **`Mouse`/Touch:** All interactions are typically done with `mouse` clicks or touch gestures.
+    - **`Click`:** Select ingredients, `click` on customers, or interact with menu items.
+    - **`Drag` and `Drop`:** `Drag` ingredients to assemble tacos or `drag` completed tacos to customers.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

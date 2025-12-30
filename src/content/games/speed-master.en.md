@@ -17,6 +17,8 @@ releaseDate: 2025-10-18
 Speed Master is a minimalist reaction game that pushes timing and focus. Prompts sweep across the screen; you must tap at the exact overlap window. Difficulty rises with faster sweeps, deceptive rhythms, and multi‑lane inputs that punish early flinches and late presses alike.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Beat counting: Lock to a steady internal count; tap to beat rather than pure sight.
@@ -28,7 +30,7 @@ Speed Master is a minimalist reaction game that pushes timing and focus. Prompts
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Tap/press when prompts reach markers; multi‑lane binds use arrow/WASD (varies). Pause/Retry via UI.
+- `Tap`/`press` when prompts reach markers; multi‑lane binds use arrow/`WASD` (varies). Pause/Retry via UI.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

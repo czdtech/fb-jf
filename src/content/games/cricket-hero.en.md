@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Cricket Hero is a simple yet addictive arcade-style cricket game where your goal is to score as many runs as possible. As the batsman, you will face a variety of bowlers who will try to get you out. Your job is to watch the ball closely and time your swing to hit the ball and score runs. The game is all about timing and reflexes. Miss the ball or get bowled out, and your turn is over. How many runs can you score to become a true Cricket Hero?
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Watch the Ball:** This is the most fundamental rule of cricket and this game. Keep your eyes glued to the ball from the moment it leaves the bowler's hand.
@@ -28,7 +30,7 @@ Cricket Hero is a simple yet addictive arcade-style cricket game where your goal
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **Swing Bat:** Click the left mouse button or tap the screen to swing your bat. The timing of your click is the only control you have, so make it count!
+*   **Swing Bat:** `Click` the `left `mouse` button` or `tap` the screen to swing your bat. The timing of your `click` is the only control you have, so make it count!
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

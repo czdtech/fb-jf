@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Clash of Warriors condenses card combat into short, tactical rounds. Build tempo with efficient plays, read enemy responses, and secure board control to win tight matches.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Curve discipline: Spend all resources cleanly each turn.
@@ -30,7 +32,7 @@ Clash of Warriors condenses card combat into short, tactical rounds. Build tempo
 ### Controls Guide
 
 - Play cards by clicking/tapping; end turns via UI.
-- Hover/tap to inspect text.
+- Hover/`tap` to inspect text.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

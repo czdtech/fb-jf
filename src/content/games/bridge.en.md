@@ -18,6 +18,8 @@ releaseDate: 2025-10-17
 Bridge is a classic and highly strategic trick-taking card game played by four players in two competing partnerships. Players sit opposite their partners. The game consists of two main phases: the Bidding (or Auction) and the Play. During bidding, the partnerships compete to determine the "contract," which specifies the trump suit and the number of tricks that partnership must win. During the play, the side that won the bid (the declarer) tries to fulfill their contract, while the defenders try to stop them. It is widely considered one of the world's greatest mind sports.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **The Bidding:** This is the first phase. Players take turns making bids. A bid consists of a number (1-7) and a suit (Clubs, Diamonds, Hearts, Spades) or "No-Trump" (NT). The number corresponds to the number of tricks over 6 that the partnership commits to winning (e.g., a bid of 3 Hearts means they must win at least 9 tricks with Hearts as the trump suit). The highest bid becomes the final contract.
@@ -28,8 +30,8 @@ Bridge is a classic and highly strategic trick-taking card game played by four p
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **Bidding:** Click on the number and suit you wish to bid, or click "Pass."
-*   **Playing a Card:** Click on the card from your hand (or the dummy's hand, if you are the declarer) that you wish to play.
+*   **Bidding:** `Click` on the number and suit you wish to bid, or `click` "Pass."
+*   **Playing a Card:** `Click` on the card from your hand (or the dummy's hand, if you are the declarer) that you wish to play.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

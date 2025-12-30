@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Cat Sort Quest adapts the popular sort‑puzzle format: each perch holds a stack of cats in different colors. You may move only the top cat from a perch, and you can place it on an empty perch or one whose top cat matches the same color. The goal is to end with each perch holding a single color. Limited free perches make buffering and foresight essential.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Keep one buffer empty as long as possible to enable reshuffles.
@@ -29,7 +31,7 @@ Cat Sort Quest adapts the popular sort‑puzzle format: each perch holds a stack
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Tap a perch to pick up its top cat; tap a destination perch to place it if legal.
+- `Tap` a perch to pick up its top cat; `tap` a destination perch to place it if legal.
 - Undo/Reset if available; hints help on late puzzles.
 
 <!-- i18n:section:faq -->

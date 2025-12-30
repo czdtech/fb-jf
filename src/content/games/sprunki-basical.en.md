@@ -37,6 +37,8 @@ The gameplay is very simple, it can be done in a few steps:
  
 ---
  
+
+<!-- i18n:section:tips -->
 ### Tips for Playing Sprunki Basical:
  
  - **Start with the Beat:** First lay the foundation for your music, drag a rhythmic sound to the character.

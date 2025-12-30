@@ -22,6 +22,8 @@ releaseDate: 2025-10-18
 Tic Tac Toe Mania modernizes noughts‑and‑crosses with clean visuals and variants (bigger boards, misère). Core play is about forcing lines or neutralizing threats; perfect 3×3 play draws unless a mistake occurs.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Center first: On 3×3, center maximizes forks; corners second.
@@ -33,7 +35,7 @@ Tic Tac Toe Mania modernizes noughts‑and‑crosses with clean visuals and vari
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Click squares to place marks; local 2P common; AI difficulties vary.
+- `Click` squares to place marks; local 2P common; AI difficulties vary.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

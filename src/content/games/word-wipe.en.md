@@ -30,7 +30,7 @@ Word Wipe is a dynamic and engaging word puzzle game that combines elements of w
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- **Mouse/Touch:** Click and drag (or swipe) across adjacent letters to form words.
+- **`Mouse`/Touch:** `Click` and `drag` (or `swipe`) across adjacent letters to form words.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

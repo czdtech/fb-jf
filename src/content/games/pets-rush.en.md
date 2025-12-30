@@ -18,6 +18,8 @@ releaseDate: 2025-10-17
 Pets Rush is a fast-paced and exciting match-3 puzzle game with an adorable animal theme. Unlike traditional level-based match-3 games, this is a game of survival. A wall of colorful pet blocks continuously rises from the bottom of the screen, and you must frantically make matches to keep it from reaching the top. Swap adjacent pets to create lines of three or more, trigger combos, and clear the board for as long as you can to achieve a high score.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Stay Ahead of the Rise:** Your primary goal is to prevent any column from reaching the top of the screen. Always prioritize making matches in your tallest columns to push them back down.
@@ -30,7 +32,7 @@ Pets Rush is a fast-paced and exciting match-3 puzzle game with an adorable anim
 
 The game is played with simple swap controls.
 
-*   **Swap Pets:** Click on a pet and then click on an adjacent pet to swap their positions. You can also click and drag one pet onto an adjacent one. A swap is only possible if it results in a match of three or more.
+*   **Swap Pets:** `Click` on a pet and then `click` on an adjacent pet to swap their positions. You can also `click` and `drag` one pet onto an adjacent one. A swap is only possible if it results in a match of three or more.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

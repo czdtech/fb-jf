@@ -18,6 +18,8 @@ releaseDate: 2025-10-17
 Daily Solitaire offers a fresh Klondike Solitaire puzzle every day. The game presents the classic challenge of sorting a 52-card deck into four foundation piles by suit, from Ace to King. With a new, guaranteed-winnable deal each day, it's a perfect way to test your skills, track your progress, and enjoy a moment of classic card game strategy.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Objective:** Move all 52 cards to the four foundation piles in ascending order (Ace to King) for each suit.
@@ -28,8 +30,8 @@ Daily Solitaire offers a fresh Klondike Solitaire puzzle every day. The game pre
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **Move Cards:** Click and drag cards between piles.
-*   **Draw from Stock:** Click the stock pile to deal a new card to the waste pile.
+*   **Move Cards:** `Click` and `drag` cards between piles.
+*   **Draw from Stock:** `Click` the stock pile to deal a new card to the waste pile.
 *   **Auto-Move:** Double-clicking a card will often send it to the appropriate foundation pile if the move is valid.
 
 <!-- i18n:section:faq -->

@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 He Likes The Darkness is a minimalist, high‑contrast platformer. Low visibility, moving traps, and collectible orbs define compact stages. Mastering hop length, short stalls, and momentum preservation produces clean clears with satisfying flow.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Light scouting: Use small hops to reveal platform edges without overcommitting.
@@ -29,7 +31,7 @@ He Likes The Darkness is a minimalist, high‑contrast platformer. Low visibilit
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Move/Jump: Arrows/WASD + Space; occasional double‑jump per level rules.
+- Move/Jump: Arrows/`WASD` + `Space`; occasional double‑jump per level rules.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

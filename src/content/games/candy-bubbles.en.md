@@ -19,6 +19,8 @@ releaseDate: 2025-10-17
 Candy Bubbles is a sweet and colorful twist on the classic bubble shooter genre. Set in a delightful candy-themed world, your goal is to clear the screen of vibrant candy bubbles. Aim your cannon, shoot, and match three or more bubbles of the same color to make them pop. With hundreds of levels, strategic challenges, and satisfying chain reactions, it’s a relaxing puzzle game perfect for all ages.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Aim High:** The most effective strategy in any bubble shooter is to aim for matches high up on the board. When you pop a cluster of bubbles, any bubbles that are only attached to that cluster (and nothing else) will also fall down, clearing large sections of the board at once and earning you massive bonus points.
@@ -29,8 +31,8 @@ Candy Bubbles is a sweet and colorful twist on the classic bubble shooter genre.
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **Aim:** Move your mouse to aim the cannon. A guideline will show you the trajectory of your shot.
-*   **Fire:** Click the left mouse button to shoot the bubble.
+*   **Aim:** Move your `mouse` to aim the cannon. A guideline will show you the trajectory of your shot.
+*   **Fire:** `Click` the `left `mouse` button` to shoot the bubble.
 *   **Swap (if available):** Some versions may have a button to swap your current bubble with the next one in the queue.
 
 <!-- i18n:section:faq -->

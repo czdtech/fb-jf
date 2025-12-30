@@ -19,6 +19,8 @@ releaseDate: 2025-10-17
 Jewel Pets Match is a bright and cheerful match-3 puzzle game filled with adorable, jewel-like animal characters. Your goal is to swap these cute pets on the game board to create lines of three or more identical animals. Each level presents a new challenge and a specific objective you must complete, such as reaching a target score or clearing special blocks, all within a limited number of moves.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Create Power-ups:** To master the game, you need to make matches of more than three pets.
@@ -35,7 +37,7 @@ Jewel Pets Match is a bright and cheerful match-3 puzzle game filled with adorab
 
 The game is played with simple swap mechanics.
 
-*   **Swap Pets:** Click and drag a pet to swap it with an adjacent one. The swap will only be successful if it creates a valid match.
+*   **Swap Pets:** `Click` and `drag` a pet to swap it with an adjacent one. The swap will only be successful if it creates a valid match.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

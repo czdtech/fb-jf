@@ -18,6 +18,8 @@ releaseDate: 2025-10-17
 Castle Craft is a captivating merge-and-build puzzle game where players embark on a journey to transform a modest plot of land into a magnificent medieval kingdom. The core gameplay revolves around the classic "merge-3" mechanic: combining three or more identical items to create a single, more advanced item. By strategically merging resources like wheat, wood, and stone, players can fulfill quests, earn valuable currency, and lift the fog to unlock new territories, gradually revealing a sprawling and prosperous empire.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Master the Merge-5:** While merging three items is the basic rule, always try to merge five identical items at once. A "merge-5" rewards you with a bonus, often an extra higher-level item, which significantly speeds up your progress.
@@ -29,12 +31,12 @@ Castle Craft is a captivating merge-and-build puzzle game where players embark o
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-The game is controlled entirely with a mouse or touch screen.
+The game is controlled entirely with a `mouse` or touch screen.
 
-*   **Merge Items:** Click and drag an item onto at least two other identical items to perform a merge.
-*   **Move Items:** Drag an item to an empty tile to move it.
-*   **View Item Info:** Click on an item to see its name and level.
-*   **Collect Resources:** Click on resources that spawn automatically (like wheat from a field) to collect them.
+*   **Merge Items:** `Click` and `drag` an item onto at least two other identical items to perform a merge.
+*   **Move Items:** `Drag` an item to an empty tile to move it.
+*   **View Item Info:** `Click` on an item to see its name and level.
+*   **Collect Resources:** `Click` on resources that spawn automatically (like wheat from a field) to collect them.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

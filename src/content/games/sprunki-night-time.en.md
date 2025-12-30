@@ -37,6 +37,8 @@ It's actually very simple, just master these points:
  - **Fine-Tune:** Fine-tune your mix to reflect the haunting, futuristic atmosphere of Sprunki Night Time.
  
  
+
+<!-- i18n:section:tips -->
 ### Tips for Playing Sprunki Night Time:
  
  - **Drag with Mouse:** Drag and drop elements to craft your soundscape.

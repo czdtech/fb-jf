@@ -23,6 +23,8 @@ releaseDate: 2025-10-18
 Hoop Stars is a rapid ring‑flip contest. You rotate a ring around a central peg and flip it to land past obstacles. Clean flips that settle over the peg score; misses costs time. Duels reward consistent timing and smart angle setups more than raw speed.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Pre‑spin: Rotate to a comfortable angle before flipping.
@@ -34,7 +36,7 @@ Hoop Stars is a rapid ring‑flip contest. You rotate a ring around a central pe
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Hold to spin; release to flip; some builds use two buttons for spin vs flip.
+- `Hold` to spin; release to flip; some builds use two buttons for spin vs flip.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

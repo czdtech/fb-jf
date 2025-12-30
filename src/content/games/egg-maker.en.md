@@ -17,6 +17,8 @@ releaseDate: 2025-10-18
 
 Egg Maker distills time‑management cooking into rapid stations: crack, whisk, season, heat, plate, and serve. Each order specifies a style (scrambled, sunny‑side, omelet) and doneness windows. Items on heat continue cooking, so sequencing and pickup timing decide whether you hit “perfect” or burn.
 
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Station rhythm: Always start with the longest step (heat), then backfill short prep while the pan runs.
@@ -28,7 +30,7 @@ Egg Maker distills time‑management cooking into rapid stations: crack, whisk, 
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Tap to crack/whisk/season; drag to pan/plate; tap customer to serve.
+- `Tap` to crack/whisk/season; `drag` to pan/plate; `tap` customer to serve.
 - Pause/Retry in the UI between shifts.
 
 ### Advanced Tips

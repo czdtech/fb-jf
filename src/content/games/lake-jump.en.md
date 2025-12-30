@@ -19,6 +19,8 @@ releaseDate: 2025-10-18
 Lake Jump is a minimalist tap‑to‑jump challenge. Time taps to land on moving or spaced platforms, maintain rhythm, and rack up streaks without falling in the water.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Count beats: Use a steady rhythm for predictable jump timing.
@@ -30,7 +32,7 @@ Lake Jump is a minimalist tap‑to‑jump challenge. Time taps to land on moving
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Jump: Tap/Click at the right moment.
+- Jump: `Tap`/`Click` at the right moment.
 - Pause/Retry: On‑screen buttons.
 
 <!-- i18n:section:faq -->

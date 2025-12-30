@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Solitaire 0-21 blends solitaire layout with arithmetic constraints. You place number cards to keep running totals within [0, 21]; modifiers (+/‑/×) and special effects complicate planning. Optimal play sequences safe placements while reserving room for spikes.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Buffer space: Leave headroom near 21; don’t push totals to edges early.
@@ -29,7 +31,7 @@ Solitaire 0-21 blends solitaire layout with arithmetic constraints. You place nu
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Click/drag to place cards; use undo/hints per UI.
+- `Click`/`drag` to place cards; use undo/hints per UI.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

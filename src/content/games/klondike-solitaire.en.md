@@ -26,8 +26,10 @@ Klondike uses seven tableau columns, a stock, and four foundations. Build founda
 
 <!-- i18n:section:controls -->
 ### Controls
-- Drag‑and‑drop or tap; auto‑move enabled on many hosts.
+- `Drag`‑and‑`drop` or `tap`; auto‑move enabled on many hosts.
 
+
+<!-- i18n:section:tips -->
 ### Tips
 - Prefer moves that flip a facedown card.
 - Don’t rush low cards to foundations if they help tableau moves.

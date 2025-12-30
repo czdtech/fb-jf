@@ -18,6 +18,8 @@ releaseDate: 2025-10-17
 Tile Puzzle is a modern and engaging tile-matching game that challenges your planning and strategic skills. The goal is to clear a board stacked with various patterned tiles. You do this by selecting a tile and sending it to a collection tray at the bottom. When you have three identical tiles in the tray, they match and disappear, freeing up space. You must clear the entire board to win, but be careful—if you fill the tray completely, you lose!
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Think Before You Tap:** The collection tray has a very limited capacity (usually seven slots). Before you tap a tile, have a plan for it. Don't just tap random tiles hoping for the best.
@@ -30,7 +32,7 @@ Tile Puzzle is a modern and engaging tile-matching game that challenges your pla
 
 The game is played with simple clicks or taps.
 
-*   **Select a Tile:** Click on any tile that is not grayed out (i.e., not covered by another tile) to move it to the collection tray at the bottom of the screen.
+*   **Select a Tile:** `Click` on any tile that is not grayed out (i.e., not covered by another tile) to move it to the collection tray at the bottom of the screen.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

@@ -19,6 +19,8 @@ releaseDate: 2025-10-17
 Bubble Tower 3D adds an exciting third dimension to the classic bubble shooter formula. In this game, colorful bubbles are stuck to the outside of a rotating cylindrical tower. Your objective is to clear all the bubbles by shooting a new bubble from your cannon at the bottom and matching it with at least two other bubbles of the same color. The ability to rotate the tower adds a layer of strategy, requiring you to find the best angle for every shot to create massive chain reactions and clear the tower.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Rotate and Inspect:** Before every shot, take a moment to rotate the tower left and right. This allows you to see the entire layout of bubbles and plan your moves more effectively. Look for large clusters of the same color or strategic shots that could cause a large section to fall.
@@ -30,10 +32,10 @@ Bubble Tower 3D adds an exciting third dimension to the classic bubble shooter f
 ### Controls Guide
 
 *   **Rotate the Tower:**
-    *   **Mouse:** Click and drag the background to rotate the tower.
-    *   **Keyboard:** Use the Left and Right arrow keys.
+    *   **`Mouse`:** `Click` and `drag` the background to rotate the tower.
+    *   **Keyboard:** Use the Left and Right `arrow keys`.
 *   **Aim and Shoot:**
-    *   **Mouse:** Your cannon aims automatically based on your cursor's position. Click the left mouse button to shoot the bubble.
+    *   **`Mouse`:** Your cannon aims automatically based on your cursor's position. `Click` the `left `mouse` button` to shoot the bubble.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

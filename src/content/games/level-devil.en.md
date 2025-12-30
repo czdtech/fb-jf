@@ -26,8 +26,10 @@ Level Devil is a trick platformer where the stage betrays you—tiles crumble, s
 
 <!-- i18n:section:controls -->
 ### Controls
-- Arrows/WASD to move/jump; restart keys vary by host.
+- Arrows/`WASD` to move/jump; restart keys vary by host.
 
+
+<!-- i18n:section:tips -->
 ### Tips
 - Don’t sprint blind; test ledges with short hops first.
 - Expect traps near obvious “safe” tiles and exits.

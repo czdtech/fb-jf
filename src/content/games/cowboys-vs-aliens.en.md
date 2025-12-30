@@ -35,11 +35,11 @@ This version puts you in direct control of a single cowboy hero. The gameplay is
 ### **Controls Guide**
 
 *   **PC/Web:**
-    *   **Movement**: `W`, `A`, `S`, `D` or Arrow Keys.
-    *   **Aim**: Mouse.
-    *   **Shoot**: `Left Mouse Button`.
+    *   **Movement**: `W`, `A`, `S`, `D` or `Arrow Keys`.
+    *   **Aim**: `Mouse`.
+    *   **Shoot**: `Left `Mouse` Button`.
     *   **Jump**: `Space Bar`.
-    *   **Switch Weapon**: Number keys (`1`, `2`, `3...`) or Mouse Wheel.
+    *   **Switch Weapon**: Number keys (`1`, `2`, `3...`) or `Mouse` Wheel.
 *   **Mobile:**
     *   **Movement**: Virtual joystick on the left side of the screen.
     *   **Aim/Shoot**: Buttons on the right side of the screen. Often, a dedicated button for shooting, jumping, and special abilities.

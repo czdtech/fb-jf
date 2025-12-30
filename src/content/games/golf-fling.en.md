@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Golf Fling is a fun and challenging physics-based puzzle game that reinvents the way you play golf. Instead of clubs, you use a simple pull-and-release mechanic to fling the golf ball across a variety of creative and tricky courses. Your goal is to get the ball into the hole in as few flings as possible. Navigate around obstacles, use the terrain to your advantage, and master the art of the fling to become a champion!
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Aim Carefully:** Before you fling, an indicator line will show you the projected path of your ball. Use this to aim precisely, taking into account any obstacles or slopes.
@@ -29,8 +31,8 @@ Golf Fling is a fun and challenging physics-based puzzle game that reinvents the
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **Aim and Power:** Click and hold the mouse button on the golf ball. Drag your mouse back to set the power and direction of your shot.
-*   **Fling:** Release the mouse button to fling the ball.
+*   **Aim and Power:** `Click` and `hold` the `mouse` button on the golf ball. `Drag` your `mouse` back to set the power and direction of your shot.
+*   **Fling:** Release the `mouse` button to fling the ball.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

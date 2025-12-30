@@ -19,6 +19,8 @@ releaseDate: 2025-10-17
 Poly Art (also known as Poly Puzzle) is a visually stunning and mentally relaxing 3D puzzle game. Each level begins with what appears to be a chaotic jumble of colorful, low-poly shards. The challenge is to rotate this cluster of polygons in 3D space to find the one specific angle at which the scattered pieces align perfectly, revealing a beautiful and recognizable piece of art, such as an animal, an object, or a character. It's a game of perception, patience, and discovery.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Rotate Slowly and Steadily:** Don't just swipe wildly. Rotate the puzzle slowly in one direction (e.g., horizontally) to see if any recognizable shapes begin to form. If you see a hint of a shape, continue rotating carefully around that axis.
@@ -31,8 +33,8 @@ Poly Art (also known as Poly Puzzle) is a visually stunning and mentally relaxin
 
 The controls are minimalistic and intuitive.
 
-*   **Rotate Puzzle (Desktop):** Click and hold the left mouse button, then drag the mouse left, right, up, or down to rotate the cluster of polygons.
-*   **Rotate Puzzle (Mobile):** Swipe your finger across the screen in any direction to rotate the puzzle.
+*   **Rotate Puzzle (Desktop):** `Click` and `hold` the `left `mouse` button`, then `drag` the `mouse` left, right, up, or down to rotate the cluster of polygons.
+*   **Rotate Puzzle (Mobile):** `Swipe` your finger across the screen in any direction to rotate the puzzle.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

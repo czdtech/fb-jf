@@ -18,6 +18,8 @@ releaseDate: 2025-10-17
 Checkers Legend is a digital version of the classic strategy board game, also known as Draughts. The game is played on an 8x8 checkered board between two opponents. The objective is simple but requires deep strategy: capture all of your opponent's pieces or block them so they have no legal moves left. It's a timeless game of foresight and tactics.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Basic Movement:** Your pieces, or "men," can only move one step diagonally forward onto an empty dark square.
@@ -32,8 +34,8 @@ Checkers Legend is a digital version of the classic strategy board game, also kn
 
 The game is played with simple clicks.
 
-*   **Select a Piece:** Click on one of your pieces to select it. Valid moves will be highlighted.
-*   **Move a Piece:** Click on a highlighted empty square to move your selected piece there.
+*   **Select a Piece:** `Click` on one of your pieces to select it. Valid moves will be highlighted.
+*   **Move a Piece:** `Click` on a highlighted empty square to move your selected piece there.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

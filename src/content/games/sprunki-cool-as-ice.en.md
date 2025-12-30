@@ -39,6 +39,8 @@ It's actually very simple, just master these points:
  - **Switch Themes:** If you are brave enough, you can also switch to the horror theme to experience the exciting collision of ice and fire! Just click the character in the lower right corner to switch easily. Want to return to the default theme? Just click the arrow in the upper right corner!
  
  
+
+<!-- i18n:section:tips -->
 ### Tips for Playing Sprunki: Cool As Ice:
  
  - **Play Around with Character Combinations:** Try different character combinations to create unique sound combinations and make your music more personal!

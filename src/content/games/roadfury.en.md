@@ -18,6 +18,8 @@ releaseDate: 2025-10-17
 Road Fury is a high-octane, top-down vertical scrolling shooter that puts you in the driver's seat of a heavily armed vehicle on a chaotic highway. Your mission is to survive for as long as possible against waves of enemy cars, trucks, and bosses. Weave through traffic, collect powerful boosters, and use the coins you earn from destroyed enemies to upgrade your car's weapons and armor to unleash maximum fury.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Constant Movement:** The key to survival is to never stop moving. Weave left and right to dodge enemy fire and collisions. Staying in one place is the fastest way to get destroyed.
@@ -28,9 +30,9 @@ Road Fury is a high-octane, top-down vertical scrolling shooter that puts you in
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-The game is played with simple drag controls.
+The game is played with simple `drag` controls.
 
-*   **Move Vehicle:** Click and hold the left mouse button (or use your finger) and drag left and right on the screen to steer your car.
+*   **Move Vehicle:** `Click` and `hold` the `left `mouse` button` (or use your finger) and `drag` left and right on the screen to steer your car.
 *   **Shooting:** Your primary weapon fires automatically.
 
 <!-- i18n:section:faq -->

@@ -18,6 +18,8 @@ releaseDate: 2025-10-17
 Carrom Clash is a realistic digital version of the beloved tabletop "strike and pocket" game, Carrom. Often described as finger billiards, the game challenges you to use a larger disc, the "striker," to flick your set of assigned pieces (either black or white) into the four corner pockets. The game requires precision, strategy, and a good understanding of angles to outmaneuver your opponent and clear your pieces first.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **The Objective:** Be the first player to pocket all of your pieces (black or white). To win, you must also pocket and "cover" the red Queen.
@@ -29,8 +31,8 @@ Carrom Clash is a realistic digital version of the beloved tabletop "strike and 
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **Position Striker:** Click and drag the striker left and right along your baseline to position it for your shot.
-*   **Aim and Shoot:** Click on the striker and pull back. An aiming line will appear. The further you pull back, the more powerful your shot will be. Release to shoot.
+*   **Position Striker:** `Click` and `drag` the striker left and right along your baseline to position it for your shot.
+*   **Aim and Shoot:** `Click` on the striker and pull back. An aiming line will appear. The further you pull back, the more powerful your shot will be. Release to shoot.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

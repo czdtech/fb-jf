@@ -18,6 +18,8 @@ releaseDate: 2025-10-17
 Jungle Bricks is a captivating and modern take on the classic brick-breaker genre. Set in a vibrant jungle, the game challenges players to clear an ever-advancing wall of numbered bricks. Unlike traditional brick-breakers where you control a paddle, here you aim and shoot a volley of balls from a fixed point. Each brick has a durability number that you must reduce to zero to destroy it. The goal is to survive for as long as possible by strategically clearing the bricks before they reach the bottom of the screen.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Aim for Angles:** The key to a high score is maximizing the number of hits per shot. Avoid shooting straight up. Instead, aim for the sides of the screen or gaps between bricks to create complex ricochets. A well-aimed shot can have your balls bouncing around the screen for a long time, clearing multiple bricks at once.
@@ -30,8 +32,8 @@ Jungle Bricks is a captivating and modern take on the classic brick-breaker genr
 
 The game uses simple, one-touch controls.
 
-*   **Aim:** Click and hold the left mouse button (or your finger on a touch screen) and drag to aim. A guideline will appear showing the initial trajectory of your shot.
-*   **Shoot:** Release the mouse button (or your finger) to fire the balls.
+*   **Aim:** `Click` and `hold` the `left `mouse` button` (or your finger on a touch screen) and `drag` to aim. A guideline will appear showing the initial trajectory of your shot.
+*   **Shoot:** Release the `mouse` button (or your finger) to fire the balls.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

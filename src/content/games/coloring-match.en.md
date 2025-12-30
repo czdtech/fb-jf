@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Coloring Match asks you to reproduce a target color by mixing primaries and adjusting brightness/saturation. Subtle differences matter: overshooting saturation or value can miss the goal even if the hue matches.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Match hue first (color wheel), then adjust saturation and value.
@@ -29,7 +31,7 @@ Coloring Match asks you to reproduce a target color by mixing primaries and adju
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Drag sliders or mix paint amounts; preview updates live.
+- `Drag` sliders or mix paint amounts; preview updates live.
 - Confirm when your color matches the target within tolerance.
 
 <!-- i18n:section:faq -->

@@ -18,6 +18,8 @@ releaseDate: 2025-10-17
 Daily Word Climb is a clever and challenging word puzzle that provides a new brain-teaser every day. The goal is to unscramble a grid of letters to form correct words in each row. You do this by swapping letters one at a time. After each swap, the tiles change color to give you clues, helping you deduce the correct placement of each letter. With a limited number of moves, you must think strategically to solve the puzzle.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Understand the Color Clues:** The colors are your guide to solving the puzzle.
@@ -34,7 +36,7 @@ Daily Word Climb is a clever and challenging word puzzle that provides a new bra
 
 The game is played with simple clicks or taps.
 
-*   **Swap Letters:** Click on the first letter you want to move, and then click on the second letter you want to swap it with. They will then exchange places.
+*   **Swap Letters:** `Click` on the first letter you want to move, and then `click` on the second letter you want to swap it with. They will then exchange places.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

@@ -38,12 +38,12 @@ The strategy in *Incredibox Beatnik* is all about creating a "vibe"—a smooth, 
 <!-- i18n:section:controls -->
 ### **Controls Guide**
 
-The controls follow the standard, intuitive drag-and-drop interface of the official Incredibox games.
+The controls follow the standard, intuitive `drag`-and-`drop` interface of the official Incredibox games.
 
-*   **Add a Sound**: **Drag** a sound icon from the bottom and **drop** it onto a character.
-*   **Remove a Sound**: Click the "X" on an active sound icon at the bottom, or drag a new sound onto an existing character to replace it.
-*   **Mute / Unmute**: **Click** on a performing character to mute them; click again to unmute.
-*   **Solo**: Click the **small button** next to an active character to mute all other performers.
-*   **Record**: Click the **record button** to start and stop recording your musical creation.
+*   **Add a Sound**: **`Drag`** a sound icon from the bottom and **`drop`** it onto a character.
+*   **Remove a Sound**: `Click` the "X" on an active sound icon at the bottom, or `drag` a new sound onto an existing character to replace it.
+*   **Mute / Unmute**: **`Click`** on a performing character to mute them; `click` again to unmute.
+*   **Solo**: `Click` the **small button** next to an active character to mute all other performers.
+*   **Record**: `Click` the **record button** to start and stop recording your musical creation.
 
 

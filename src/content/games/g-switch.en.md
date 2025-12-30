@@ -26,8 +26,10 @@ Auto‑runner with gravity flips. Tap to invert gravity and land on the next sur
 
 <!-- i18n:section:controls -->
 ### Controls
-- One key/tap to flip gravity; multiplayer maps separate keys per player.
+- One key/`tap` to flip gravity; multiplayer maps separate keys per player.
 
+
+<!-- i18n:section:tips -->
 ### Tips
 - Keep a steady flip rhythm; panic flips cause chain mistakes.
 - Use long ceilings to reset timing safely.

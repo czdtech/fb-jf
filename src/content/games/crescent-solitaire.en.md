@@ -26,9 +26,11 @@ Crescent Solitaire is a two‑deck patience game played with 16 tableau piles ar
 
 <!-- i18n:section:controls -->
 ### Controls
-- Mouse/touch: select or drag cards; tap buttons for Undo/Hint/Redeal (as provided by the host site).  
+- `Mouse`/touch: select or `drag` cards; `tap` buttons for Undo/Hint/Redeal (as provided by the host site).  
 - No stock to draw from; progress depends on tableau manipulation and timely redeals.  
 
+
+<!-- i18n:section:tips -->
 ### Tips and Strategies
 - Build evenly across suits so no single suit stalls both of its foundations.  
 - Before using a redeal, expose as many helpful top cards as possible.  

@@ -19,6 +19,8 @@ releaseDate: 2025-10-18
 Basketball serial shooter is a fast, score‑attack basketball challenge focused on timing, arc control, and shot selection. You’ll face moving hoops, shifting wind (in some variants), and limited time or balls. The core loop is to settle a repeatable release, read the basket movement, and string swishes without rim‑outs. As you progress, obstacles, moving backboards, and changing hoop heights add variety and demand cleaner mechanics.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Build a repeatable form: Pick a comfortable cursor position and release rhythm so each attempt feels consistent.
@@ -32,8 +34,8 @@ Basketball serial shooter is a fast, score‑attack basketball challenge focused
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Aim and power: Drag to set angle/power and release to shoot; some builds separate power on a hold bar.
-- Special targets: Tap bonus targets only when they line up with your normal arc.
+- Aim and power: `Drag` to set angle/power and release to shoot; some builds separate power on a `hold` bar.
+- Special targets: `Tap` bonus targets only when they line up with your normal arc.
 - Pause/Retry: Use on‑screen controls; some versions allow quick reset.
 
 <!-- i18n:section:faq -->

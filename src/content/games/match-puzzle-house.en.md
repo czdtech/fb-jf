@@ -19,6 +19,8 @@ releaseDate: 2025-10-18
 Match Puzzle House pairs match‑3 gameplay with interior renovation. Clear blockers, collect items within move caps, and spend stars on decor. Boosters and power‑up merges are key on dense layouts.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Central control: Open the middle first for combo space.
@@ -30,7 +32,7 @@ Match Puzzle House pairs match‑3 gameplay with interior renovation. Clear bloc
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Drag to swap; use boosters via UI; decorate rooms between levels.
+- `Drag` to swap; use boosters via UI; decorate rooms between levels.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

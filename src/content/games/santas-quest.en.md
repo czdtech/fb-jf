@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Santa's Quest is a holiday‑themed casual puzzler. Guide Santa through simple tile‑based challenges, collect required items, and reach exits while avoiding light hazards or dead‑ends. Short levels suit quick seasonal sessions.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Route first: Identify keys, switches, or collectibles before moving.
@@ -29,7 +31,7 @@ Santa's Quest is a holiday‑themed casual puzzler. Guide Santa through simple t
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Move: Arrow keys / WASD or swipe on mobile.
+- Move: `Arrow keys` / `WASD` or `swipe` on mobile.
 - Interact: Automatic on contact or via a prompt.
 - Pause/Restart: On‑screen UI.
 

@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Bombs Drops Physics balls mixes gravity, timing, and simple demolition. Drop balls or bombs onto contraptions, topple stacks, and trigger chain reactions to meet level goals. The fun is in finding minimal, elegant solutions that use physics in your favor.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Scout weak points: Hit supports, wedges, or tensioned pieces to collapse structures efficiently.
@@ -29,7 +31,7 @@ Bombs Drops Physics balls mixes gravity, timing, and simple demolition. Drop bal
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Aim and drop with mouse/touch; some levels allow limited nudges.
+- Aim and `drop` with `mouse`/touch; some levels allow limited nudges.
 - Reset/Undo where available for fast iteration.
 
 <!-- i18n:section:faq -->

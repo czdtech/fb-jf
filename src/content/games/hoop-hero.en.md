@@ -19,6 +19,8 @@ releaseDate: 2025-10-17
 Hoop Hero is a minimalist and addictive one-touch arcade game that tests your timing and reflexes. The gameplay is simple: a basketball moves, and you must tap the screen at the precise moment it aligns with the hoop to score a dunk. The challenge comes from the increasing speed and tricky patterns of the ball's movement. The goal is to score as many consecutive dunks as possible to achieve a new high score.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Focus on the Timing:** This game is all about rhythm and timing. Don't get distracted. Watch the ball's movement pattern and anticipate when it will cross over the hoop.
@@ -31,7 +33,7 @@ Hoop Hero is a minimalist and addictive one-touch arcade game that tests your ti
 
 The game is played with a single action.
 
-*   **Dunk:** Click the left mouse button or tap anywhere on the screen to make the ball drop and dunk.
+*   **Dunk:** `Click` the `left `mouse` button` or `tap` anywhere on the screen to make the ball `drop` and dunk.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

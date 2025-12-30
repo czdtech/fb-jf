@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Mazes offers a suite of labyrinths from simple grids to trap‑laden gauntlets. The challenge is route planning: finding shortest safe paths, avoiding trap tiles, and hitting switches to open gates while staying under par times.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Right/left‑hand rules: Use wall‑following on simply connected mazes; abandon on multi‑loops.
@@ -29,7 +31,7 @@ Mazes offers a suite of labyrinths from simple grids to trap‑laden gauntlets. 
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Drag or WASD to move; restart/undo if supported.
+- `Drag` or `WASD` to move; restart/undo if supported.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

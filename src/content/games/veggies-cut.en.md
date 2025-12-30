@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Slice veggies with sweeping lines, build combo chains, and avoid kitchen hazards (knives/bombs). Long straight cuts and calm rhythm top the scoreboards.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Long strokes through multiple veggies for combo value.
@@ -29,7 +31,7 @@ Slice veggies with sweeping lines, build combo chains, and avoid kitchen hazards
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Swipe/click‑drag to cut; pause/retry in UI.
+- `Swipe`/`click`‑`drag` to cut; pause/retry in UI.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

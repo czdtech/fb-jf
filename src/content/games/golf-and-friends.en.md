@@ -24,6 +24,8 @@ releaseDate: 2025-10-18
 Golf and Friends is a casual mini‑golf experience with playful obstacles, ramps, and bank walls. Mastery revolves around pace control and angle selection — soft touches near cups prevent lip‑outs, and 45° bank lines make tight corners consistent. Multiplayer turns the course into a light party game.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Pace near cup: Under‑hit slightly at the rim to avoid lip‑outs.
@@ -35,7 +37,7 @@ Golf and Friends is a casual mini‑golf experience with playful obstacles, ramp
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Aim with mouse; pull to set power; release to putt. Reset/forfeit if stuck.
+- Aim with `mouse`; pull to set power; release to putt. Reset/forfeit if stuck.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

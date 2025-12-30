@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Light Line tasks you with drawing non‑overlapping paths that connect glowing nodes while obeying constraints: maximum turns, limited line length, mandatory pass‑throughs, or switches that toggle gates. Later puzzles add layered boards with energy sharing between lines.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Start with bottlenecks: Fill narrow corridors first; they force unique routes.
@@ -29,7 +31,7 @@ Light Line tasks you with drawing non‑overlapping paths that connect glowing n
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Drag to draw/erase lines; tap switches; zoom/pan on dense boards.
+- `Drag` to draw/erase lines; `tap` switches; zoom/pan on dense boards.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

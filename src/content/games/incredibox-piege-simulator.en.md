@@ -35,9 +35,9 @@ The game utilizes the signature **grid-based interface** of the Simulator mods. 
 <!-- i18n:section:controls -->
 ### **Controls Guide**
 
-This mod uses the simple, click-based interface of the Simulator series.
+This mod uses the simple, `click`-based interface of the Simulator series.
 
-*   **Activate / Deactivate Sound**: **Click** on any of the 20 sound icons in the grid. An activated icon will be highlighted, adding its sound to the loop. Clicking it again will turn it off.
+*   **Activate / Deactivate Sound**: **`Click`** on any of the 20 sound icons in the grid. An activated icon will be highlighted, adding its sound to the loop. Clicking it again will turn it off.
 *   **Combine Sounds**: You can have multiple sounds activated at the same time to build your track.
 *   **Main Controls (Top Left)**:
     *   **Play Button**: Toggles the entire loop on or off.

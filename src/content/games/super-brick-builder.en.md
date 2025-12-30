@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Super Brick Builder plays like a physics‑aware stacking puzzle: place bricks to complete silhouettes without collapse. Clean placement and support planning beat aggressive fills.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Foundation first: Build symmetrical bases before rising.
@@ -29,7 +31,7 @@ Super Brick Builder plays like a physics‑aware stacking puzzle: place bricks t
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Drag/rotate bricks; place to lock; restart via UI.
+- `Drag`/rotate bricks; place to lock; restart via UI.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

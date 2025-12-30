@@ -26,8 +26,10 @@ Iron Snout is a fast 2D brawler starring a martial‑arts pig fighting wolves. W
 
 <!-- i18n:section:controls -->
 ### Controls
-- Arrow/WASD directions trigger attacks, jumps, and ducks; no attack buttons needed.
+- Arrow/`WASD` directions trigger attacks, jumps, and ducks; no attack buttons needed.
 
+
+<!-- i18n:section:tips -->
 ### Tips
 - Prioritize ranged enemies; projectiles disrupt combo flow.
 - Juggle light foes for score; finish heavies with weapon returns.

@@ -26,9 +26,11 @@ Crash Bandicoot is a browser‑playable Flash/platformer tribute to the classic 
 
 <!-- i18n:section:controls -->
 ### Controls
-- Arrow Keys: Move / Jump (Up) / Duck (Down)  
-- Space: Spin attack (key may vary slightly by host)  
+- `Arrow Keys`: Move / Jump (Up) / Duck (Down)  
+- `Space`: Spin attack (key may vary slightly by host)  
 
+
+<!-- i18n:section:tips -->
 ### Tips and Strategies
 - Time jumps to clear moving platforms and gaps.  
 - Spin into crates from a safe distance; never linger near TNT after activation.  

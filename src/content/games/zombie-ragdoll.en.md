@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Zombie Ragdoll is a puzzle shooter where you fling ragdolls to trigger levers, hit explosives, and topple structures. Mastering launch angles and sequencing traps yields satisfying chain clears.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  First shot scouts physics; adjust angle/power after observing.
@@ -29,7 +31,7 @@ Zombie Ragdoll is a puzzle shooter where you fling ragdolls to trigger levers, h
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Drag to set angle/power and release to launch; restart via UI.
+- `Drag` to set angle/power and release to launch; restart via UI.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

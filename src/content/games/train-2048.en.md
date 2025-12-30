@@ -19,6 +19,8 @@ releaseDate: 2025-10-17
 Train 2048 is an engaging puzzle game that reimagines the beloved 2048 formula with a charming train theme. Instead of numbered tiles, players slide and combine train cars of the same type on a grid-based railway. Each combination merges two identical cars into a new, higher-level car. The objective is to strategically manage the limited space on the board, continue merging cars, and ultimately create the illustrious "2048" train car.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Corner Strategy:** A classic 2048 strategy that works perfectly here. Try to keep your highest-value train car in one of the corners of the grid at all times. This prevents it from getting trapped in the middle of the board and allows you to build up other cars around it.
@@ -31,8 +33,8 @@ Train 2048 is an engaging puzzle game that reimagines the beloved 2048 formula w
 
 The controls are simple and intuitive:
 
-*   **Arrow Keys (Desktop):** Use the **Up, Down, Left, and Right** arrow keys to slide all the train cars on the board in the corresponding direction.
-*   **Swiping (Mobile):** **Swipe** in any of the four cardinal directions to move the cars.
+*   **`Arrow Keys` (Desktop):** Use the **Up, Down, Left, and Right** `arrow keys` to slide all the train cars on the board in the corresponding direction.
+*   **Swiping (Mobile):** **`Swipe`** in any of the four cardinal directions to move the cars.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

@@ -26,8 +26,10 @@ Gunspin turns recoil into movement: each shot spins and propels your weapon/body
 
 <!-- i18n:section:controls -->
 ### Controls
-- Mouse/Space to shoot; timing and aim set trajectory.
+- `Mouse`/`Space` to shoot; timing and aim set trajectory.
 
+
+<!-- i18n:section:tips -->
 ### Tips
 - Small taps > full bursts for efficiency.
 - Aim slightly behind your path to push forward without stalling.

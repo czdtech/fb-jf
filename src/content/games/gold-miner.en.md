@@ -26,8 +26,10 @@ Gold Miner is a timing‑based arcade game where a swinging claw drops on comman
 
 <!-- i18n:section:controls -->
 ### Controls
-- One key/click to drop claw; additional keys for items (host dependent).
+- One key/`click` to `drop` claw; additional keys for items (host dependent).
 
+
+<!-- i18n:section:tips -->
 ### Tips
 - Learn arc timing—release slightly before the object’s center.
 - Save dynamite for big rocks that waste time.

@@ -19,6 +19,8 @@ releaseDate: 2025-10-17
 Neon Tower is a fast-paced and addictive 3D arcade game where you guide a bouncing ball down a massive, twisting helix tower. The gameplay is simple to learn but hard to master. You must rotate the tower to find gaps in the platforms, allowing the ball to fall through. The goal is to reach the bottom of the tower while avoiding the deadly red platforms that will end your run instantly.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Find the Gaps:** The core mechanic is rotating the tower to line up the gaps with your bouncing ball. Let gravity do the work and guide the ball downwards.
@@ -29,9 +31,9 @@ Neon Tower is a fast-paced and addictive 3D arcade game where you guide a bounci
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-The game is controlled with a simple drag mechanic.
+The game is controlled with a simple `drag` mechanic.
 
-*   **Rotate Tower:** Click and hold the left mouse button (or your finger) and drag left or right to rotate the helix tower.
+*   **Rotate Tower:** `Click` and `hold` the `left `mouse` button` (or your finger) and `drag` left or right to rotate the helix tower.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

@@ -18,6 +18,8 @@ releaseDate: 2025-10-17
 99 Balls 3D is a highly addictive, physics-based puzzle shooter that combines elements of Breakout and Bubble Shooter. Your goal is to destroy a series of numbered balls that slowly descend from the top of the screen. You shoot a stream of smaller balls from the bottom, and the number on each target ball indicates how many hits it needs to be destroyed. The key to the game is to aim your shots perfectly to create long chain reactions of bounces, clearing the board before the numbered balls reach the bottom.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Master the Bank Shot:** Never shoot directly at a single target. The goal is to aim your stream of balls at an angle so that they bounce off the walls and other balls as many times as possible. A single, well-aimed shot can result in hundreds of hits.
@@ -28,8 +30,8 @@ releaseDate: 2025-10-17
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **Aim:** Move your mouse to control the aiming guideline. This shows the initial trajectory of your shot.
-*   **Shoot:** `Click` the left mouse button to fire your stream of balls.
+*   **Aim:** Move your `mouse` to control the aiming guideline. This shows the initial trajectory of your shot.
+*   **Shoot:** `Click` the `left `mouse` button` to fire your stream of balls.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

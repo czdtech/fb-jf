@@ -26,8 +26,10 @@ Google Snake updates the classic formula with clean visuals and optional modes. 
 
 <!-- i18n:section:controls -->
 ### Controls
-- Arrow keys or WASD to steer; pause/restart via UI.
+- `Arrow keys` or `WASD` to steer; pause/restart via UI.
 
+
+<!-- i18n:section:tips -->
 ### Tips
 - Don’t turn 180° into your neck—make wide turns.
 - Keep the tail straight when possible to maximize options.

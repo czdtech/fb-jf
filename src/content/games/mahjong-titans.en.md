@@ -25,8 +25,10 @@ Mahjong Titans is a tile‑matching solitaire using mahjong tiles. Only free til
 
 <!-- i18n:section:controls -->
 ### Controls
-- Mouse/touch select pairs; hint/undo buttons vary by host.
+- `Mouse`/touch select pairs; hint/undo buttons vary by host.
 
+
+<!-- i18n:section:tips -->
 ### Tips
 - Prioritize pairs that unblock many tiles.
 - Avoid pairing deep stacks too early unless it opens a key lane.

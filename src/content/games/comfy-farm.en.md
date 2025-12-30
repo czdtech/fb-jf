@@ -18,6 +18,8 @@ releaseDate: 2025-10-17
 Comfy Farm is a charming and relaxing farming simulation game where you get to build and manage your own virtual farm. The goal is to transform a small plot of land into a thriving agricultural enterprise. You'll plant seeds, water your crops, harvest them for profit, and protect them from pests. Use your earnings to buy new seeds and valuable upgrades to automate and expand your comfy farm.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **The Farming Cycle:** The core of the game is the planting and harvesting cycle. Click on an empty plot to prepare it, plant a seed, and then water it. After a set amount of time, the crop will be ready to harvest, earning you money.
@@ -28,11 +30,11 @@ Comfy Farm is a charming and relaxing farming simulation game where you get to b
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-The game is played entirely with mouse clicks or taps.
+The game is played entirely with `mouse` clicks or taps.
 
-*   **Plant/Water/Harvest:** Click on a plot of land to perform the next logical action (till, plant, water, or harvest).
-*   **Scare Pests:** Click directly on any pest that appears on your farm to get rid of it.
-*   **Buy Upgrades:** Click on the upgrade icons (like the sprinkler or scarecrow) to purchase them.
+*   **Plant/Water/Harvest:** `Click` on a plot of land to perform the next logical action (till, plant, water, or harvest).
+*   **Scare Pests:** `Click` directly on any pest that appears on your farm to get rid of it.
+*   **Buy Upgrades:** `Click` on the upgrade icons (like the sprinkler or scarecrow) to purchase them.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

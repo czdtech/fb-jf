@@ -30,8 +30,10 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### Controls
-- WASD/Arrows steer/throttle; Space: handbrake; C: camera; R: reset (host may vary).
+- `WASD`/Arrows steer/throttle; `Space`: handbrake; C: camera; R: reset (host may vary).
 
+
+<!-- i18n:section:tips -->
 ### Tips
 - Feather throttle mid‑drift to avoid spinning out.
 - Use handbrake taps to initiate on low‑speed corners.

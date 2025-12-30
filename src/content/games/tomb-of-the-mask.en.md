@@ -29,7 +29,7 @@ Tomb of the Mask is a highly addictive, fast-paced arcade game that combines ele
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- **Swipe:** Swipe your finger across the screen (on mobile) or use `Arrow Keys` / `WASD` (on PC) to control your character's movement.
+- **`Swipe`:** `Swipe` your finger across the screen (on mobile) or use `Arrow Keys` / `WASD` (on PC) to control your character's movement.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

@@ -18,6 +18,8 @@ releaseDate: 2025-10-17
 Jewel Blocks is a deceptively simple yet highly addictive puzzle game that challenges your spatial planning skills. The objective is to score as many points as possible by fitting various jewel-themed block shapes onto a 10x10 grid. When you form a complete line of blocks, either horizontally or vertically, the line is cleared from the board. The main challenge lies in the fact that the blocks cannot be rotated, so you must think carefully about placement to keep the board from filling up.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Plan Ahead:** You are presented with three block shapes at a time. Before placing the first one, consider how all three might fit on the board. Don't just focus on the immediate placement; think about the space you are leaving for future pieces.
@@ -28,10 +30,10 @@ Jewel Blocks is a deceptively simple yet highly addictive puzzle game that chall
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-The game is played with a simple drag-and-drop mechanic.
+The game is played with a simple `drag`-and-`drop` mechanic.
 
-*   **Select and Place:** Use your mouse or finger to click and drag one of the three available block shapes from the bottom of the screen onto the 10x10 grid.
-*   **Release:** Release the mouse button or your finger to drop the block into the highlighted space.
+*   **Select and Place:** Use your `mouse` or finger to `click` and `drag` one of the three available block shapes from the bottom of the screen onto the 10x10 grid.
+*   **Release:** Release the `mouse` button or your finger to `drop` the block into the highlighted `space`.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

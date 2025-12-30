@@ -23,6 +23,8 @@ releaseDate: 2025-10-18
 Super Bowling Mania brings the classic ten-pin bowling experience to your screen with realistic physics and intuitive controls. Whether you're a seasoned bowler or new to the sport, you can enjoy the thrill of aiming for a perfect strike. The game challenges you to knock down all ten pins in each frame. Score strikes, pick up tricky spares, and aim for a perfect 300 game. With its engaging gameplay, it's a perfect way to enjoy bowling anytime, anywhere.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Position Your Bowler:** Before you throw, you can typically adjust your starting position on the lane. Moving left or right can help you find the perfect angle to hit the pocket (between the front pin and the one behind it).
@@ -33,9 +35,9 @@ Super Bowling Mania brings the classic ten-pin bowling experience to your screen
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **Aiming:** Move the mouse left or right to adjust your position and the initial direction of your throw.
-*   **Power and Release:** Click and hold the mouse button to start the power meter. Release the button at the desired power level to throw the ball.
-*   **Spin/Curve:** While the ball is rolling, you may be able to move the mouse to influence its curve.
+*   **Aiming:** Move the `mouse` left or right to adjust your position and the initial direction of your throw.
+*   **Power and Release:** `Click` and `hold` the `mouse` button to start the power meter. Release the button at the desired power level to throw the ball.
+*   **Spin/Curve:** While the ball is rolling, you may be able to move the `mouse` to influence its curve.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

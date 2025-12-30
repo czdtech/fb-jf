@@ -19,6 +19,8 @@ Droid-O is a compact, responsive top‑down arena shooter where you pilot a nimb
 
 The arena often includes environmental features — choke corridors, pillars for line‑of‑sight breaks, and hazard tiles that deal damage or slow both you and enemies. Efficient use of cover and terrain is as important as raw aim, especially once ranged enemies spawn.
 
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Kite wide, not tight: Large circular paths give more correction time than small, panicky loops.
@@ -37,7 +39,7 @@ The arena often includes environmental features — choke corridors, pillars for
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Move: WASD/Arrows.  Aim: Mouse or right stick.  Fire: Left click/trigger.  Dash/Ability: Space/E/Q (varies by build).
+- Move: `WASD`/Arrows.  Aim: `Mouse` or right stick.  Fire: `Left click`/trigger.  Dash/Ability: `Space`/E/Q (varies by build).
 - Pause/Retry: UI buttons.
 
 ### Advanced Tips

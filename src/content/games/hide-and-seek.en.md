@@ -26,8 +26,10 @@ Hide and Seek! adapts playground tag into top‑down stealth. Hiders blend among
 
 <!-- i18n:section:controls -->
 ### Controls
-- WASD/Arrows to move; action key for power‑ups (host dependent).
+- `WASD`/Arrows to move; action key for power‑ups (host dependent).
 
+
+<!-- i18n:section:tips -->
 ### Tips
 - Hiders: mimic NPC pauses and turns; sprint only when necessary.
 - Seekers: circle objectives; real players hesitate at corners and doors.

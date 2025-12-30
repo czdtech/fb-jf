@@ -25,6 +25,8 @@ The core mechanic involves shooting a harpoon-like projectile straight up. When 
 The main challenge is to avoid being touched by any of the bouncing bubbles. If a bubble hits the player's character, they lose a life. The game is lost if the player runs out of lives or if the timer reaches zero. As players progress, levels become more difficult with more bubbles, complex starting layouts, and shorter time limits. The game also features a popular two-player cooperative mode.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy
 
 -   **Prioritize the Largest Bubbles:** Always try to pop the biggest bubbles first. They are the most dangerous because they cover the most area and create the most subsequent smaller bubbles. Getting them out of the way early reduces the overall chaos.
@@ -44,8 +46,8 @@ The main challenge is to avoid being touched by any of the bouncing bubbles. If 
 The controls are simple and designed for quick arcade action.
 
 -   **Player 1:**
-    -   **Left/Right Arrow Keys:** Move the character left and right.
-    -   **Spacebar:** Shoot harpoon.
+    -   **Left/Right `Arrow Keys`:** Move the character left and right.
+    -   **`Spacebar`:** Shoot harpoon.
 
 -   **Player 2:**
     -   **A and D Keys:** Move the character left and right.

@@ -35,9 +35,9 @@ Players move tiles one by one into adjacent empty cells. However, there's a catc
 <!-- i18n:section:controls -->
 ### **Controls Guide**
 
-The game is designed for simple drag-and-drop or click-based gameplay.
+The game is designed for simple `drag`-and-`drop` or `click`-based gameplay.
 
-*   **Move a Tile**: **Click and drag** a numbered tile to an adjacent empty honeycomb cell. Alternatively, some versions may use a **click-to-select, click-to-place** system.
+*   **Move a Tile**: **`Click` and `drag`** a numbered tile to an adjacent empty honeycomb cell. Alternatively, some versions may use a **`click`-to-select, `click`-to-place** system.
 
 <!-- i18n:section:faq -->
 ### **Frequently Asked Questions (FAQ)**

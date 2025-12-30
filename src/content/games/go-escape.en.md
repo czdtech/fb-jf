@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Go Escape is a minimalist room‑escape platformer: spikes, moving saws, and timed gates demand crisp inputs and patient reads. Levels are short but punishing; the fun lies in mastering each room’s rhythm, then executing a clean run.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Read cycles: Watch a full trap cycle before committing; move on predictable beats.
@@ -29,7 +31,7 @@ Go Escape is a minimalist room‑escape platformer: spikes, moving saws, and tim
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Move/Jump: Arrows/WASD + Space; some levels add wall‑jump/double‑jump.
+- Move/Jump: Arrows/`WASD` + `Space`; some levels add wall‑jump/double‑jump.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

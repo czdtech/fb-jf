@@ -19,6 +19,8 @@ releaseDate: 2025-10-18
 Merge Bistro blends merge‑2 mechanics with light restaurant management. Generate base items (flour, milk, eggs), merge into higher‑tier ingredients (dough, batter), then craft dishes to satisfy orders. Storage limits and production cooldowns force clever board economy.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Queue reading: Prep items for upcoming orders to avoid idle waits.
@@ -30,7 +32,7 @@ Merge Bistro blends merge‑2 mechanics with light restaurant management. Genera
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Drag identical items together to merge; tap stations to craft; deliver via order panel.
+- `Drag` identical items together to merge; `tap` stations to craft; deliver via order panel.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

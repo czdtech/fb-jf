@@ -30,8 +30,10 @@ Google Feud mimics a family‑feud‑style prompt list: you see the beginning of
 
 <!-- i18n:section:controls -->
 ### Controls
-- Keyboard to type answers; Enter to submit; on‑screen buttons for categories.
+- Keyboard to type answers; `Enter` to submit; on‑screen buttons for categories.
 
+
+<!-- i18n:section:tips -->
 ### Tips
 - Think like autocomplete: spellings, synonyms, and common idioms.
 - If stuck, try opposites or related concepts.

@@ -19,6 +19,8 @@ releaseDate: 2025-10-17
 Minesweeper is a classic single-player logic puzzle that has been a staple of personal computing for decades. The objective is to clear a rectangular grid containing hidden "mines" or bombs without detonating any of them. To do this, you use clues from revealed squares that tell you how many mines are in the adjacent eight squares. It's a game of pure deduction and careful risk assessment.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **The First Click:** Your first click is always safe. If you click a square that has no adjacent mines, it will open a large area, which is a great start.
@@ -30,8 +32,8 @@ Minesweeper is a classic single-player logic puzzle that has been a staple of pe
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **Reveal a Square:** Left-click on a covered square.
-*   **Flag a Square:** Right-click on a covered square to place a flag. Right-click again to remove it.
+*   **Reveal a Square:** Left-`click` on a covered square.
+*   **Flag a Square:** Right-`click` on a covered square to place a flag. Right-`click` again to remove it.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

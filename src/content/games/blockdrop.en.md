@@ -18,6 +18,8 @@ releaseDate: 2025-10-17
 BlockDrop is a timeless and engaging puzzle game that challenges your strategic thinking and spatial awareness. The goal is to place different block shapes onto a 10x10 grid to create complete lines, either horizontally or vertically. When a line is completed, it disappears, freeing up space and earning you points. With no time limit, it’s a relaxing yet challenging game where you must plan your moves carefully to prevent the board from filling up.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Plan for All Three Blocks:** The game provides you with three block shapes at a time. Before placing the first one, mentally check if there is a viable spot for all three. This prevents you from getting stuck with an unplaceable piece.
@@ -28,9 +30,9 @@ BlockDrop is a timeless and engaging puzzle game that challenges your strategic 
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-The game features a simple drag-and-drop control scheme.
+The game features a simple `drag`-and-`drop` control scheme.
 
-*   **Place Blocks:** Use your mouse or finger to drag one of the three shapes from the bottom and drop it onto an empty space on the 10x10 grid.
+*   **Place Blocks:** Use your `mouse` or finger to `drag` one of the three shapes from the bottom and `drop` it onto an empty `space` on the 10x10 grid.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

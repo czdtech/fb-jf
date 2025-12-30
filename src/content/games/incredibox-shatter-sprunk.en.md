@@ -37,20 +37,20 @@ The gameplay is very simple, you can get started in a few steps:
 **In Incredibox Shatter Sprunk, your goal is not to "win", but to create music works that you like.**
  
 <!-- i18n:section:controls -->
-### Mouse Controls:
+### `Mouse` Controls:
  
-The operation of Incredibox Shatter Sprunk is very simple, you can easily complete it with the mouse:
+The operation of Incredibox Shatter Sprunk is very simple, you can easily complete it with the `mouse`:
  
- - **Left-Click and Drag:** Click on a sound icon, hold the mouse button, and drag it to a character. Release to assign the sound. The character will immediately start performing the loop.
- - **Remove Sounds:** To stop a sound, click and drag the icon off the character, or in some versions, right-click the character to mute or remove it (functionality may vary by Mod version).
+ - **Left-`Click` and `Drag`:** `Click` on a sound icon, `hold` the `mouse` button, and `drag` it to a character. Release to assign the sound. The character will immediately start performing the loop.
+ - **Remove Sounds:** To stop a sound, `click` and `drag` the icon off the character, or in some versions, right-`click` the character to mute or remove it (functionality may vary by Mod version).
  - **Hover Feedback:** Hovering over icons or characters may reveal tooltips or previews of the sound, helping you choose without committing.
- - **Adjust Tempo:** Some Mods include a tempo slider or buttons - click and drag or click to adjust the speed of your mix.
- - **Pause/Play:** If the Mod includes a pause feature, click a designated button (often a play/pause icon) to stop and rearrange sounds without losing your progress.
+ - **Adjust Tempo:** Some Mods include a tempo slider or buttons - `click` and `drag` or `click` to adjust the speed of your mix.
+ - **Pause/Play:** If the Mod includes a pause feature, `click` a designated button (often a play/pause icon) to stop and rearrange sounds without losing your progress.
  
  
 ### Highlights of Incredibox Shatter Sprunk:
  
- - **Simple and Easy-to-Use Operation:** The mouse operation is simple and intuitive, allowing players of all ages and skill levels to easily get started.
+ - **Simple and Easy-to-Use Operation:** The `mouse` operation is simple and intuitive, allowing players of all ages and skill levels to easily get started.
  - **Unique Sprunki Style:** Combines the weird and innovative style of Sprunki, allowing you to experience a different Incredibox.
  - **Explore Fun:** Discover hidden animations and special effects, making your creation process full of surprises.
 

@@ -19,6 +19,8 @@ releaseDate: 2025-10-18
 Ultimate Knife Smash is a timing‑based arcade game. Throw knives into a spinning target without striking existing blades. The rotation speed and direction often change, demanding clean timing, rhythm, and risk control for combo stages.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Watch rotations: Note speed shifts and direction flips before committing throws.
@@ -30,7 +32,7 @@ Ultimate Knife Smash is a timing‑based arcade game. Throw knives into a spinni
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Throw: Click/tap to launch a knife when the gap aligns.
+- Throw: `Click`/`tap` to launch a knife when the gap aligns.
 - Pause/Retry: Use UI controls to restart.
 
 <!-- i18n:section:faq -->

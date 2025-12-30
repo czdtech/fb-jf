@@ -19,6 +19,8 @@ releaseDate: 2025-10-18
 Metal Guns Fury is a side‑scrolling run‑and‑gun in the spirit of arcade classics. Swap between rifles/shotguns/rockets, rescue hostages for power‑ups, and clear arenas packed with soldiers, turrets, and light vehicles. Clean jumps, slide‑dodges, and ammo discipline separate stable clears from messy deaths.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Target priority: Turrets and rockets first; basic grunts later.
@@ -30,7 +32,7 @@ Metal Guns Fury is a side‑scrolling run‑and‑gun in the spirit of arcade cl
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Move: Arrows/WASD; Shoot: J/Click; Jump: K/Space; Grenade/Ability: L/E (varies); Swap: Q.
+- Move: Arrows/`WASD`; Shoot: J/`Click`; Jump: K/`Space`; Grenade/Ability: L/E (varies); Swap: Q.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

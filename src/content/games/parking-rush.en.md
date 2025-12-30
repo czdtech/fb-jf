@@ -18,6 +18,8 @@ releaseDate: 2025-10-17
 Parking Rush is a clever and addictive line-drawing puzzle game that puts you in control of a chaotic parking lot. Your job is to play the role of a parking attendant and guide each car to its designated, color-matched parking space. The challenge is to draw paths for all the cars without them crashing into each other. As the levels progress, the number of cars and obstacles increases, requiring careful planning and timing to succeed.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Plan Your Routes:** Before you draw a single line, take a look at the entire layout. Identify which cars have the shortest or most direct paths and which ones might need to take a longer route to avoid a collision.
@@ -30,7 +32,7 @@ Parking Rush is a clever and addictive line-drawing puzzle game that puts you in
 
 The game is played with a simple line-drawing mechanic.
 
-*   **Draw a Path:** Click and hold on a car, then drag your mouse or finger to draw a line to its corresponding parking spot. The car will start moving as soon as you release.
+*   **Draw a Path:** `Click` and `hold` on a car, then `drag` your `mouse` or finger to draw a line to its corresponding parking spot. The car will start moving as soon as you release.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

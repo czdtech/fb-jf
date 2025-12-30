@@ -19,6 +19,8 @@ releaseDate: 2025-10-17
 Merge Cakes is a sweet and relaxing puzzle game where you combine identical cakes to create new and more magnificent desserts. You start with basic cupcakes and merge your way up to elaborate, multi-layered creations. The goal is to fulfill customer orders, earn coins, and discover every delicious cake in your recipe book. It's a simple, satisfying, and endlessly charming game.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **The Merge Chain:** The core of the game is merging. Drag one cake and drop it onto an identical cake to create a new, higher-level cake. Two basic cupcakes might make a larger cupcake, which in turn can be merged to create a slice of cake, and so on.
@@ -29,10 +31,10 @@ Merge Cakes is a sweet and relaxing puzzle game where you combine identical cake
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-The game is played with simple drag-and-drop controls.
+The game is played with simple `drag`-and-`drop` controls.
 
-*   **Merge Cakes:** Click and drag one cake and drop it onto another identical cake to merge them.
-*   **Buy Cakes:** Click on the shop icon and then click the cake you wish to purchase.
+*   **Merge Cakes:** `Click` and `drag` one cake and `drop` it onto another identical cake to merge them.
+*   **Buy Cakes:** `Click` on the shop icon and then `click` the cake you wish to purchase.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

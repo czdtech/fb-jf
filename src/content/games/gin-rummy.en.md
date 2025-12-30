@@ -18,6 +18,8 @@ releaseDate: 2025-10-17
 Gin Rummy is a classic two-player card game that belongs to the Rummy family. The objective is to form your hand into valid combinations called "melds"—either sets of the same rank or runs of the same suit. The goal is to score points by having less "deadwood" (unmatched cards) than your opponent when a round ends. It's a game of skill, strategy, and memory, where you must pay close attention to what your opponent discards.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **The Goal:** To form your 10-card hand into melds and "knock" when the value of your unmatched cards (deadwood) is 10 or less.
@@ -34,10 +36,10 @@ Gin Rummy is a classic two-player card game that belongs to the Rummy family. Th
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-The game is played with a mouse or touch screen.
+The game is played with a `mouse` or touch screen.
 
-*   **Draw:** Click on either the face-down stock pile or the face-up discard pile to take a card.
-*   **Discard:** Click on a card in your hand to move it to the discard pile.
+*   **Draw:** `Click` on either the face-down stock pile or the face-up discard pile to take a card.
+*   **Discard:** `Click` on a card in your hand to move it to the discard pile.
 *   **Knock/Go Gin:** A special button will usually appear when you are eligible to knock or go gin.
 
 <!-- i18n:section:faq -->

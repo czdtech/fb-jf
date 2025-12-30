@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Farming 10x10 is a calm shape‑placement puzzle on a 10×10 grid. You receive sets of three pieces; place them to complete rows/columns and score clears. The run ends when no legal placements remain, so the art is in preserving flexibility while constructing multi‑line clears.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Keep the center breathable; tidy edges gradually to avoid single‑cell traps.
@@ -29,7 +31,7 @@ Farming 10x10 is a calm shape‑placement puzzle on a 10×10 grid. You receive s
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Drag pieces to the board; release to place; some modes allow rotate.
+- `Drag` pieces to the board; release to place; some modes allow rotate.
 - Undo/Reset if provided.
 
 <!-- i18n:section:faq -->

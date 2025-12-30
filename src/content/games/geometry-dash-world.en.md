@@ -26,8 +26,10 @@ Geometry Dash World distills the core rhythm‑platforming into two themed world
 
 <!-- i18n:section:controls -->
 ### Controls
-- Space/Mouse/Touch to jump; hold to fly; practice/checkpoint controls vary by host.
+- `Space`/`Mouse`/Touch to jump; `hold` to fly; practice/checkpoint controls vary by host.
 
+
+<!-- i18n:section:tips -->
 ### Tips
 - Learn the song’s phrasing—hazards often align with downbeats and fills.
 - Keep ship inputs light; release to settle before tight gaps.

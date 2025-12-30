@@ -23,6 +23,8 @@ releaseDate: 2025-08-16
 The gameplay is characterized by high-flying dunks, powerful blocks, and frantic movement. A key feature is the "Super Shot" mechanic: a special, unblockable shot that players can unleash after filling a power meter. With different modes available, including a quick match, a tournament, and a two-player mode, the game is designed for both solo players looking for a challenge and friends wanting to compete against each other on the same keyboard.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy
 
 Success in *Basketball Legends* is about mastering movement, timing, and the strategic use of your special abilities.
@@ -41,13 +43,15 @@ Success in *Basketball Legends* is about mastering movement, timing, and the str
 3.  **Pump for the Steal:** The "pump" or "steal" action is effective when the opponent is dribbling near you. Use it to knock the ball loose and create a fast-break opportunity.
 4.  **Dash on Defense:** Dashing is just as crucial on defense. Use it to quickly get back into position or to close out on a shooter before they can get a shot off.
 
+
+<!-- i18n:section:controls -->
 ### Controls Guide
 
 The game is well-known for its two-player setup on a single keyboard.
 
 #### Player 1 Controls:
 *   **Movement:** `A` and `D` keys
-*   **Dash:** Double-tap `A` or `D`
+*   **Dash:** Double-`tap` `A` or `D`
 *   **Shoot / Dunk:** `B` key
 *   **Pump / Steal:** `S` key
 *   **Jump:** `W` key
@@ -55,7 +59,7 @@ The game is well-known for its two-player setup on a single keyboard.
 
 #### Player 2 Controls:
 *   **Movement:** `Left` and `Right Arrow` keys
-*   **Dash:** Double-tap `Left` or `Right Arrow`
+*   **Dash:** Double-`tap` `Left` or `Right Arrow`
 *   **Shoot / Dunk:** `L` key
 *   **Pump / Steal:** `Down Arrow` key
 *   **Jump:** `Up Arrow` key

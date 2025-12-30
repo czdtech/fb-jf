@@ -19,6 +19,8 @@ releaseDate: 2025-10-17
 Stack Bounce is a vibrant and addictive 3D arcade game that tests players' timing and reflexes. The game features a bouncing ball that must descend through a helix tower made of colorful, breakable platforms. The objective is to reach the bottom of the tower by smashing through the stacks. However, players must strategically avoid the black, unbreakable sections of the platforms, as hitting them results in an instant game over. With its simple one-touch controls and satisfying destruction physics, Stack Bounce is easy to pick up but challenging to master.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Hold to Smash:** The core mechanic is simple: press and hold the screen or mouse button to make the ball smash through the colored platforms. The longer you hold, the faster you descend.
@@ -29,8 +31,8 @@ Stack Bounce is a vibrant and addictive 3D arcade game that tests players' timin
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-*   **Desktop/Laptop:** Press and hold the **left mouse button** to smash through platforms. Release the button to stop smashing and let the ball bounce.
-*   **Mobile/Tablet:** Press and hold your **finger on the screen** to smash. Lift your finger to stop.
+*   **Desktop/Laptop:** `Press` and `hold` the **`left `mouse` button`** to smash through platforms. Release the button to stop smashing and let the ball bounce.
+*   **Mobile/Tablet:** `Press` and `hold` your **finger on the screen** to smash. Lift your finger to stop.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Sky Tower challenges you to drop moving floors onto a growing tower. Misalignments shear off overhangs, shrinking the platform. Clean timing produces tall, stable towers; sloppiness shrinks floors and ends runs early.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Center cue: Align to a background landmark to release consistently.
@@ -29,7 +31,7 @@ Sky Tower challenges you to drop moving floors onto a growing tower. Misalignmen
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Tap/Click to drop floors; pause/replay via UI.
+- `Tap`/`Click` to `drop` floors; pause/replay via UI.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

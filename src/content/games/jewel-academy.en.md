@@ -18,6 +18,8 @@ releaseDate: 2025-10-17
 Jewel Academy is a rich and polished match-3 puzzle game that invites players to a world of colorful gems and magical challenges. As a student of the academy, you will progress through a vast map of levels, each with a unique objective. The core gameplay involves swapping adjacent jewels to create lines of three or more of the same color. By making strategic matches, you can create powerful special gems, overcome tricky obstacles, and solve hundreds of engaging puzzles.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  **Look for Special Combos:** Don't just settle for matching three. Actively look for opportunities to match four or five jewels, as this is the key to creating powerful power-ups that can clear large sections of the board.
@@ -28,9 +30,9 @@ Jewel Academy is a rich and polished match-3 puzzle game that invites players to
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-The game is played using a mouse or touch screen.
+The game is played using a `mouse` or touch screen.
 
-*   **Swap Jewels:** Click on a jewel, then click on an adjacent jewel to swap their positions. Alternatively, you can click and drag a jewel to an adjacent spot. A swap is only valid if it results in a match of three or more.
+*   **Swap Jewels:** `Click` on a jewel, then `click` on an adjacent jewel to swap their positions. Alternatively, you can `click` and `drag` a jewel to an adjacent spot. A swap is only valid if it results in a match of three or more.
 *   **Activate Power-ups:** Swap a special jewel just like any other jewel to activate its effect. To combine power-ups, swap two adjacent special jewels with each other.
 
 <!-- i18n:section:faq -->

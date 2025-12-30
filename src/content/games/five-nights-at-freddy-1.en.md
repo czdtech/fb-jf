@@ -26,8 +26,10 @@ You’re the night guard at Freddy Fazbear’s Pizza. Watch cameras, manage limi
 
 <!-- i18n:section:controls -->
 ### Controls
-- Mouse/UI for cameras, lights, and doors; Esc for pause (host dependent).
+- `Mouse`/UI for cameras, lights, and doors; `Esc` for pause (host dependent).
 
+
+<!-- i18n:section:tips -->
 ### Tips
 - Learn Foxy’s Pirate Cove behavior; peeking cadence signals risk.
 - Don’t camp cameras; short, purposeful checks save power.

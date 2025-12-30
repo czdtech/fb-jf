@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 Liquid puzzle sort colors adapts the viral bottle‑sorting formula: pour liquids between bottles so each ends up uniform. You can pour only onto the same color or an empty bottle. Success demands planning buffers and ordering pours to avoid softlocks where no move remains.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Keep two buffers empty if possible; they’re your escape valves.
@@ -29,7 +31,7 @@ Liquid puzzle sort colors adapts the viral bottle‑sorting formula: pour liquid
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Tap a source bottle, then a destination; undo/reset if available; hints may suggest a pour.
+- `Tap` a source bottle, then a destination; undo/reset if available; hints may suggest a pour.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

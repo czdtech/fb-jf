@@ -18,6 +18,8 @@ releaseDate: 2025-10-18
 3D Free Kick focuses on set‑piece mastery: pick a target, curve around the wall, and beat the keeper. Stages vary wall size, keeper reactions, distance, and wind to test precision and shot shaping.
 
 <!-- i18n:section:tips -->
+
+<!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Target corners: High/low corners are hardest to reach for keepers.
@@ -30,7 +32,7 @@ releaseDate: 2025-10-18
 ### Controls Guide
 
 - Aim: `Drag` to set direction and height.
-- Power: Control `Swipe` length/hold duration.
+- Power: Control `Swipe` length/`hold` duration.
 - Curve: `Swipe` curve or adjust spin slider to apply sidespin/topspin.
 
 <!-- i18n:section:faq -->
