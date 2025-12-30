@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: sprunki-christmas
-title: Sprunki Christmas - Juega a Sprunki Christmas Online
+title: Sprunki Christmas - Juega a Sprunki Christmas en línea
 description: >-
   Sprunki Christmas es un mod que te deja disfrutar al máximo del universo
   Sprunki en plena atmósfera navideña. Entra en el mundo de Sprunki Christmas y
@@ -57,4 +57,3 @@ Sprunki Christmas es un mod ideal para quienes quieren mezclar el encanto de
 Sprunki con la magia de la Navidad. Tanto si quieres sumergirte en un precioso
 paisaje invernal como si buscas partidas festivas con amigos y comunidad,
 Sprunki Christmas tiene algo para ti.
-

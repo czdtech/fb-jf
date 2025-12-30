@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: sprunki-but-with-memes
-title: Sprunki But With Memes - Juega a Sprunki But With Memes Online
+title: Sprunki But With Memes - Juega a Sprunki But With Memes en línea
 description: >-
   Sprunki but with memes es un juego musical que te deja crear sin límites en un
   océano de memes. Únete y utiliza tu talento musical para desatar una auténtica
@@ -67,4 +67,3 @@ Sprunki but with memes es un juego musical perfecto para quienes aman los memes
 y quieren convertirlos en música. Si te apetece experimentar, reírte y crear
 piezas sonoras totalmente absurdas pero pegadizas, tienes que darle una
 oportunidad.
-

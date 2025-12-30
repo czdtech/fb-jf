@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: sprunki-abgerny
-title: "Sprunki Abgerny - Juega a Sprunki Abgerny Online"
+title: "Sprunki Abgerny - Juega a Sprunki Abgerny en línea"
 description: >-
   Sprunki Abgerny no es un simple juego musical, sino un homenaje a las culturas
   ancestrales y una exploración de las posibilidades infinitas de la música. Une

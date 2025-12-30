@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: sprunki-interactive-beta
-title: 'Sprunki Interactive BETA - Juega a Sprunki Interactive BETA online'
+title: 'Sprunki Interactive BETA - Juega a Sprunki Interactive BETA en línea'
 description: >-
   Sprunki Interactive BETA no es una simple actualización de Sprunki, sino un
   experimento interactivo que añade movimiento dinámico de personajes y
@@ -54,7 +54,7 @@ velocidad de Durple incluso puede ser el detonante de su transformación en una
 forma más siniestra, alterando aún más el entorno.
 
 Esta transición inquietante añade una capa de tensión a la experiencia,
-combinando la interacción juguetona con momentos de auténtico horror. Mientras
+combinando la interacción juguetona con momentos de auténtico terror. Mientras
 ajustas temporizadores y gestionas el caos, debes enfrentarte al miedo creciente
 que se esconde bajo la superficie de este juego aparentemente inocente. ¿Serás
 capaz de mantener a tus personajes bajo control antes de que la transformación
@@ -72,5 +72,4 @@ se apodere por completo del mundo?
 Sumérgete en Sprunki Interactive BETA y deja que el caos de movimiento y sonido
 inspire tu próxima obra musical. Solo los jugadores más estratégicos lograrán
 mantener el equilibrio entre ternura y terror.
-
 

@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: sprunki-mustard
-title: 'Sprunki Mustard - Juega a Sprunki Mustard online'
+title: 'Sprunki Mustard - Juega a Sprunki Mustard en línea'
 description: >-
   En Sprunki Mustard, todos los personajes se han rediseñado con una paleta
   uniforme de amarillo mostaza, añadiendo un toque inquietante a la estética
@@ -32,18 +32,18 @@ original.
   vocal.
 - **Experimenta con elementos de terror:** mezcla distintos personajes para
   descubrir combinaciones espeluznantes. Algunas configuraciones pueden incluso
-  activar animaciones ocultas que intensifican la atmósfera de horror.
+  activar animaciones ocultas que intensifican la atmósfera de terror.
 
 ### Puntos destacados de Sprunki Mustard
 
 - **Personajes e interfaz en tono mostaza:** todos los personajes se tiñen de
   amarillo mostaza, creando una estética llamativa y coherente.
 - **Nuevos matices de terror:** la combinación de colores extraños y sonidos
-  únicos genera una ambientación inquietante, inspirada en el horror.
+  únicos genera una ambientación inquietante, inspirada en el terror.
 - **Composiciones musicales creativas:** puedes superponer los sonidos de cada
   personaje para construir temas complejos e inmersivos adaptados al estilo del
   mod.
-- **Animaciones de bonus:** descubre animaciones especiales activadas por
+- **Animaciones de bonificaciones:** descubre animaciones especiales activadas por
   combinaciones concretas de sonidos, que refuerzan el tono siniestro del juego.
 
 ### Manejo de Sprunki Mustard
@@ -60,5 +60,4 @@ que aporta Sprunki Mustard, así como la atmósfera extraña y perturbadora que
 añade al proceso de creación musical. Si te gustan los retos y no temes lo
 raro, entra en el mundo de Sprunki Mustard y deja que unas notas retorcidas den
 forma a tu propia sinfonía de terror.
-
 

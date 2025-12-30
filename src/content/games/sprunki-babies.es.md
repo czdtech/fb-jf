@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: sprunki-babies
-title: "Sprunki Babies - Juega a Sprunki Babies Online"
+title: "Sprunki Babies - Juega a Sprunki Babies en línea"
 description: >-
   Este encantador sandbox musical te pone al mando de un grupo de adorables
   Sprunki bebé, cada uno listo para aportar su propia voz musical a tus
@@ -72,4 +72,3 @@ intuitiva e interacción juguetona. Ver la pantalla llena de personajes bailando
 al ritmo de la música que tú has montado es pura alegría. Tanto si eres un niño
 que descubre el ritmo como un adulto que busca una vía de escape creativa,
 Sprunki Babies tiene algo especial para ti.
-

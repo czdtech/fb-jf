@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: sprunki-craft
-title: "Sprunki Craft 🎮 Juega a Sprunki Craft Online"
+title: "Sprunki Craft 🎮 Juega a Sprunki Craft en línea"
 description: >-
   Sprunki Craft es la combinación perfecta entre Minecraft e Incredibox, y ofrece
   a los jugadores una plataforma creativa y muy divertida para hacer música.
@@ -75,4 +75,3 @@ Sprunki Craft une el mundo de Minecraft con el espíritu musical de Incredibox e
 una experiencia creativa y muy accesible. Si te apetece mezclar bloques, beats y
 personajes de Minecraft en un mismo lugar, este mod es un buen sitio para
 empezar.
-
