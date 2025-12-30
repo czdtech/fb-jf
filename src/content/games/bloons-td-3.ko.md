@@ -79,7 +79,7 @@ Bloons TD 3는 시리즈의 방향을 크게 확장시킨 전환점 같은 작�
     자랑합니다. 느리게 움직이지만 그만큼 오래 맞아도 버티므로, **단일 대상에
     큰 피해를 주는 화력**이 중요합니다.
     -   Monkey Beacon의 버프를 받은 Super Monkey가 가장 이상적인 해결책입니다.
-    -   "강한 블룬 우선(target strong 표기)"으로 설정한 Bomb Tower 여러 개를 묶어
+    -   "강한 블룬 우선(target strong 설정)"으로 설정한 Bomb Tower 여러 개를 묶어
         두면 MOAB에 집중 포화를 가할 수 있습니다.
     -   MOAB이 터진 뒤에는 내부에서 Ceramic Bloon 여러 개가 쏟아져 나오므로,
         그 이후까지 커버할 수 있는 보조 방어선도 꼭 준비해야 합니다.
@@ -114,7 +114,7 @@ Bloons TD 3는 시리즈의 방향을 크게 확장시킨 전환점 같은 작�
 
 <!-- i18n:faq:id=faq:bloons-td-3:what-is-the-big-blue-a2bae815 -->
 **2. 게임 끝에 나오는 큰 파란 비행선은 뭐예요?**  
-> 그것이 바로 M.O.A.B. (Massive Ornary Air Blimp 표기)입니다. 매우 튼튼한 보스급
+> 그것이 바로 M.O.A.B. (Massive Ornary Air Blimp의 약자)입니다. 매우 튼튼한 보스급
 > 블룬으로, 속도는 느리지만 엄청난 피해를 받아야 겨우 터집니다.
 
 <!-- i18n:faq:id=faq:bloons-td-3:why-should-i-use-the-23ed004c -->
@@ -134,4 +134,3 @@ Bloons TD 3는 시리즈의 방향을 크게 확장시킨 전환점 같은 작�
 > Black Bloon은 Bomb Tower의 폭발 공격에 면역이고, White Bloon은 Ice Tower의
 > 빙결 효과에 면역입니다. 이런 블룬들은 Dart Monkey나 Boomerang Thrower 등
 > 다른 공격 방식을 가진 타워로 처리해야 합니다.
-
