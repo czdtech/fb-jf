@@ -19,7 +19,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 <!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
-Pocket Battle Royale es un shooter en 2D con vista cenital que concentra toda la
+Pocket Battle Royale es un juego de disparos en 2D con vista cenital que concentra toda la
 emoción del género battle royale en partidas cortas y llenas de acción. Te lanzan
 junto a otros jugadores en una arena laberíntica y tu objetivo es ser el único
 superviviente. Recorre edificios y pasillos para saquear armas, munición y kits
@@ -72,4 +72,3 @@ estrategia.
 *   **P: ¿Cuál es el objetivo del juego?**
     *   **R:** Ser el último jugador con vida. Elimina a todos tus oponentes para
         ganar la partida.
-

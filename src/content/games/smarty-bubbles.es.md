@@ -3,7 +3,7 @@ locale: es
 urlstr: smarty-bubbles
 title: "Smarty Bubbles"
 description: >-
-  Una experiencia clásica de bubble shooter llena de color. Apunta el cañón,
+  Una experiencia clásica de Bubble Shooter llena de color. Apunta el cañón,
   combina tres o más burbujas del mismo color para hacerlas explotar y limpia el
   tablero antes de que lleguen al fondo.
 iframeSrc: "https://smartybubbles.h5games.usercontent.goog/v/09fhbor6rfpv0/"
@@ -20,7 +20,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 <!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
-Smarty Bubbles es un bubble shooter muy pulido y adictivo que ofrece una
+Smarty Bubbles es un Bubble Shooter muy pulido y adictivo que ofrece una
 experiencia clásica y directa. Tu objetivo es limpiar el tablero de burbujas de
 colores disparándoles desde la parte inferior. Si conectas tres o más burbujas
 del mismo color, explotan. El reto está en hacerlo de forma eficiente, porque
@@ -34,7 +34,7 @@ los tiros fallidos harán que el techo descienda poco a poco.
     Vigila el indicador (normalmente burbujas grises) que muestra cuántos fallos
     te quedan.
 2.  **Apunta a los grupos clave:** La manera más efectiva de limpiar el tablero
-    es derribar grupos que sostienen a muchas burbujas. Romper un cluster alto
+    es derribar grupos que sostienen a muchas burbujas. Romper un grupo alto
     puede hacer caer un gran número de burbujas de golpe.
 3.  **Aprovecha los rebotes en pared:** Dominar el tiro de banda es esencial
     para llegar a zonas difíciles y preparar combinaciones que no serían

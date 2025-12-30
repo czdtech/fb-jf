@@ -1,12 +1,11 @@
 ---
 locale: es
 urlstr: incredibox
-title: "Incredibox - Play Incredibox Online"
+title: "Incredibox - Juega Incredibox en línea"
 description: >-
-  ¿Quieres crear tu propio hit con un grupo de beatboxers muy peculiares?
-  Incredibox puede hacer realidad ese sueño. Este juego es mitad juego, mitad
-  herramienta de creación musical y ofrece diversión sonora para todas las
-  edades.
+  ¿Quieres crear tu propio temazo con un grupo de beatboxers muy peculiares?
+  Incredibox lo hace posible: es mitad juego y mitad herramienta de creación
+  musical, y ofrece diversión sonora para todas las edades.
 iframeSrc: 'https://nom74100.github.io/in-box/'
 thumbnail: /new-images/thumbnails/incredibox.png
 tags:
@@ -25,7 +24,7 @@ releaseDate: 2025-12-04
 carismáticos? Incredibox lo hace posible. Es a la vez **juego** y **herramienta
 de creación musical**, y está pensado para que cualquiera pueda divertirse con la
 música. Vamos a entrar en el mundo de Incredibox, repasar sus versiones,
- mecánicas básicas y algunos trucos para que puedas empezar a montar tu propio
+mecánicas básicas y algunos trucos para que puedas empezar a montar tu propio
 festival musical con unos pocos clics.
 
 <!-- i18n:section:how-to-play -->
@@ -37,7 +36,7 @@ La jugabilidad básica de Incredibox es muy sencilla:
   tipo de sonido o elemento musical distinto.
 - **Arrastra y suelta iconos:** arrastra iconos sobre los personajes para
   asignarles sonidos y construir ritmos y melodías.
-- **Crea:** prueba distintas combinaciones, descubre beats únicos y da forma a
+- **Crea:** prueba distintas combinaciones, descubre ritmos únicos y da forma a
   tu propia pieza musical.
 
 ---

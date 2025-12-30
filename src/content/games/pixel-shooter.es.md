@@ -3,9 +3,10 @@ locale: es
 urlstr: pixel-shooter
 title: 'Pixel Shooter'
 description: >-
-  Pixel Shooter es un shooter retro con gráficos pixel art en el que controlas
-  a un personaje para enfrentarte a oleadas de enemigos a través de distintos
-  niveles, recogiendo potenciadores y mejorando tus armas para sobrevivir.
+  Pixel Shooter es un juego de disparos retro con gráficos pixel art en el que
+  controlas a un personaje para enfrentarte a oleadas de enemigos a través de
+  distintos niveles, recogiendo potenciadores y mejorando tus armas para
+  sobrevivir.
 iframeSrc: 'https://a.onlineigry.net/games3/igra-piksel-shuter/index.htm'
 thumbnail: /new-images/thumbnails/pixel-shooter.jpg
 tags:
@@ -20,7 +21,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:section:introduction -->
 ### Introducción al juego
 
-«Pixel Shooter» es un shooter de estilo retro con gráficos pixel art en el que
+«Pixel Shooter» es un juego de disparos de estilo retro con gráficos pixel art en el que
 controlas a un personaje que se enfrenta a hordas de enemigos a lo largo de
 varios niveles, recogiendo potenciadores y mejorando las armas para
 sobrevivir. El juego engancha gracias a su estética clásica de píxeles y a un
@@ -63,10 +64,10 @@ ritmo de acción muy rápido.
     mejorar las armas actuales o desbloquear otras nuevas en la tienda o en un
     menú específico.
 3.  **P: ¿El juego tiene modo cooperativo?**  
-    **R**: Algunas versiones de shooters pixel art incluyen cooperativo local u
-    online, permitiendo unirse con amigos para luchar contra las hordas.
+    **R**: Algunas versiones de juegos de disparos pixel art incluyen
+    cooperativo local o en línea, permitiendo unirse con amigos para luchar
+    contra las hordas.
 4.  **P: ¿Para qué sirven los botiquines?**  
     **R**: Los botiquines restauran la vida de tu personaje y te ayudan a
     aguantar más tiempo en las batallas más intensas.
-
 

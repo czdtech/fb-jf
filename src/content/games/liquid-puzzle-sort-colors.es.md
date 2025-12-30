@@ -3,9 +3,8 @@ locale: es
 urlstr: liquid-puzzle-sort-colors
 title: 'Liquid puzzle sort colors'
 description: >-
-  Liquid puzzle sort colors es un relajante juego de ordenar líquidos: vierte
-  por color, planifica botellas de reserva y deja cada tubo con un solo color
-  sin caer en atascos.
+  Un relajante juego de ordenar líquidos: vierte por color, planifica botellas
+  de reserva y deja cada tubo con un solo color sin caer en atascos.
 iframeSrc: 'https://1b6vgcuid4b98.h5games.usercontent.goog/v/2vus27k78710o/'
 thumbnail: /new-images/thumbnails/liquid-puzzle-sort-colors.jpg
 tags:
@@ -20,7 +19,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 <!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
-Liquid puzzle sort colors adapta la fórmula viral de ordenar botellas: viertes
+Este juego adapta la fórmula viral de ordenar botellas: viertes
 líquidos entre tubos hasta que cada uno quede uniforme. Solo puedes verter
 sobre el mismo color o en una botella vacía. Para ganar tendrás que planificar
 tus botellas de reserva y el orden de los vertidos para evitar bloqueos en los
@@ -64,5 +63,4 @@ que ya no quede ningún movimiento útil.
 - Q: ¿Son fiables las pistas?  
   A: Van bien en las primeras jugadas, pero los niveles profundos siguen
   necesitando planificación propia.
-
 
