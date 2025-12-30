@@ -19,6 +19,8 @@ releaseDate: 2025-08-16
 
 "World's Hardest Game" is an extremely challenging arcade game where players control a red square to navigate through levels filled with moving blue circles. It requires precise timing and immense patience to avoid obstacles and reach the goal. This game is famous for its extremely high difficulty and simple yet frustrating gameplay.
 
+
+<!-- i18n:section:tips -->
 ### Gameplay Strategy
 
 1.  **Observe Patterns**: Carefully observe the movement patterns and timing of blue circles before moving.

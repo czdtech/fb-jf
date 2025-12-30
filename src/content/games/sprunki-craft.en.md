@@ -46,6 +46,8 @@ The most attractive thing about Sprunki Craft is its interactive approach to mus
  
 ---
  
+
+<!-- i18n:section:controls -->
 ### Simple Operation, Suitable for All Ages:
  
 Sprunki Craft is very simple and intuitive to operate, whether using a mouse or touch controls on phones and tablets, you can easily get started. Whether you're a newbie to music creation or a veteran Minecraft player, you can find your own happiness in the world of Sprunki Craft.

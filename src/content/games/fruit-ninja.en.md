@@ -2,7 +2,7 @@
 locale: en
 # Frontmatter: 遵循上面 config.ts 中定义的 schema
 title: "Fruit Ninja"
-description: "Arcade slicing: swipe through flying fruit while avoiding bombs; chain combos and frenzy boosts for higher scores." 
+description: "Arcade slicing: `Swipe` through flying fruit while avoiding bombs; chain combos and frenzy boosts for higher scores." 
 iframeSrc: "https://emulatoros.github.io/gfile/fruitninja/"
 thumbnail: /new-images/thumbnails/fruit-ninja.jpg
 urlstr: "fruit-ninja"
@@ -16,7 +16,7 @@ releaseDate: 2025-08-16
 
 <!-- i18n:section:introduction -->
 ### Overview
-Swipe to slice fruit mid‑air. Avoid bombs and aim for combos and criticals. Modes vary by host (classic, arcade, zen).
+`Swipe` to slice fruit mid‑air. Avoid bombs and aim for combos and criticals. Modes vary by host (classic, arcade, zen).
 
 <!-- i18n:section:how-to-play -->
 ### How to Play

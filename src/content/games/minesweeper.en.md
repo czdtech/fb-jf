@@ -19,6 +19,8 @@ releaseDate: 2025-08-16
 
 "Minesweeper" is a classic single-player puzzle game. The objective is to uncover a grid of squares, find all hidden "mines" without detonating them. Through numerical clues, players can infer the number of mines hidden around each square, gradually clearing safe areas and marking minefields.
 
+
+<!-- i18n:section:tips -->
 ### Gameplay Strategy
 
 1.  **Understand Number Meanings**: Each numbered square indicates the count of mines in its eight surrounding adjacent squares.

@@ -19,6 +19,8 @@ releaseDate: 2025-08-16
 
 "One Line" is a minimalist puzzle game. Players' task is to draw a single continuous line to connect all given points on the board without lifting their finger or retracing any path. The game aims to train players' logical thinking and spatial perception, with difficulty gradually increasing as levels progress.
 
+
+<!-- i18n:section:tips -->
 ### Gameplay Strategy
 
 1.  **Observe Paths**: Before starting to draw, carefully observe all points and their potential connections to plan the optimal path.

@@ -19,6 +19,8 @@ releaseDate: 2025-08-16
 
 "Tic-Tac-Toe" is the classic strategy game where two players take turns placing X's and O's on a 3x3 grid, aiming to be the first to get three symbols in a row, column, or diagonal. While the rules are simple, the game contains rich strategic thinking.
 
+
+<!-- i18n:section:tips -->
 ### Gameplay Strategy
 
 1.  **Occupy Center**: If possible, prioritize taking the center position, which provides the most winning opportunities.

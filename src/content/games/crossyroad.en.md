@@ -29,6 +29,8 @@ Crossy Road is an incredibly popular and addictive endless arcade-style video ga
  
 ---
  
+
+<!-- i18n:section:tips -->
 ### Strategy and Tips
  
  -  **Patience and Rhythm:** Don't rush blindly. Observe the traffic patterns to find a safe path. The game has a rhythm; try to sync your taps with the flow of traffic and logs. 

@@ -24,6 +24,8 @@ releaseDate: 2025-08-16
 
 "Solitaire" is the classic single-player card game where players arrange cards in specific sequences and suits, aiming to move all cards to foundation piles and clear the tableau. This timeless puzzle game is widely popular for its simple-to-learn but strategy-requiring characteristics.
 
+
+<!-- i18n:section:tips -->
 ### Gameplay Strategy
 
 1.  **Prioritize Revealing Hidden Cards**: Prioritize moving cards that can reveal hidden cards, increasing available move options.

@@ -19,6 +19,8 @@ releaseDate: 2025-08-16
 
 "Tank Trouble" is a multiplayer tank battle game where players control tanks in a maze-like arena, shooting at opponents while navigating walls and obstacles to be the last tank standing. The game is popular for its fast-paced combat and strategic positioning gameplay.
 
+
+<!-- i18n:section:tips -->
 ### Gameplay Strategy
 
 1.  **Use Walls**: Bullets ricochet off walls; learn to use bounces for indirect attacks on opponents.

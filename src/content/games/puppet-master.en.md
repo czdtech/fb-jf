@@ -19,6 +19,8 @@ releaseDate: 2025-08-16
 
 "Puppet Master" is a quirky physics-based puzzle game where players control a puppet character through challenging obstacles and levels by manipulating its movement and limbs to reach the goal. The game is famous for its unique control scheme and humorous animation effects, providing players with an entertaining yet challenging gaming experience.
 
+
+<!-- i18n:section:tips -->
 ### Gameplay Strategy
 
 1.  **Master the Controls**: Familiarize yourself with controlling each body part of the puppet, learning to coordinate the movement of arms, legs, and other limbs.

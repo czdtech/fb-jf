@@ -18,6 +18,8 @@ releaseDate: 2025-08-16
 
 "Only Up" is an extremely challenging 3D platformer. Players' objective is to continuously climb a massive world composed of various floating objects, abandoned buildings, and peculiar structures. The game has no save points; every mistake can lead to falling from great heights, requiring a restart from the beginning, thus posing a significant test to players' precision and mental fortitude.
 
+
+<!-- i18n:section:tips -->
 ### Gameplay Strategy
 
 1.  **Meticulous Observation**: Before each jump, carefully observe the position, distance, and material of the next landing spot, and plan the optimal route.

@@ -28,6 +28,8 @@ Balance a car carrying a fragile egg across hilly terrain. Sudden bumps crack th
 ### Controls
 - A/D or Arrows to drive/brake; R: restart.
 
+
+<!-- i18n:section:tips -->
 ### Tips
 - Treat crests like jumps—lift before the peak, reapply after landing.
 - If the egg wobbles, briefly brake to settle it.

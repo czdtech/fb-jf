@@ -19,6 +19,8 @@ releaseDate: 2025-08-16
 
 "Wordle" is a popular daily word puzzle game where players have six attempts to guess a five-letter word, using color-coded feedback to deduce the correct letters and their positions. This addictive vocabulary challenge game has become globally popular due to its simple rules and daily puzzle design.
 
+
+<!-- i18n:section:tips -->
 ### Gameplay Strategy
 
 1.  **First Word Choice**: Choose words containing common vowels (A, E, I, O, U) as starting words.

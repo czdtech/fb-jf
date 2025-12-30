@@ -19,6 +19,8 @@ releaseDate: 2025-08-16
 
 "OvO Dimensions" is an extension of the "OvO" series, a highly challenging 2D platformer. It introduces new mechanics and obstacles, requiring players to master precise jumps, wall slides, and momentum control to navigate complex levels and achieve the fastest clear times. The game maintains the series' high difficulty while offering richer level design and visual experiences.
 
+
+<!-- i18n:section:tips -->
 ### Gameplay Strategy
 
 1.  **Familiarize with New Mechanics**: Understand and adapt to the new jumping, sliding, or interaction mechanics introduced in the game.

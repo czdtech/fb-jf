@@ -23,7 +23,7 @@ Island Of Treasures is an action-packed 3D endless runner game that plunges you 
 ### Gameplay Strategy & Walkthrough
 
 1.  **Collect Everything:** Your primary goal is to collect coins, jewels, and other treasures scattered along your path. These contribute to your score and can be used to unlock upgrades or new characters.
-2.  **Master the Moves:** You'll need to quickly react to obstacles. Swipe left/right to change lanes, swipe up to jump over gaps and low obstacles, and swipe down to slide under high obstacles. Practice these moves to make them second nature.
+2.  **Master the Moves:** You'll need to quickly react to obstacles. `Swipe` left/right to change lanes, `Swipe` up to jump over gaps and low obstacles, and `Swipe` down to slide under high obstacles. Practice these moves to make them second nature.
 3.  **Utilize Power-ups:** Keep an eye out for power-ups like speed boosts, shields, or magnets. These temporary advantages can help you survive longer and collect more treasure. Use them strategically, especially in challenging sections.
 4.  **Avoid Collisions:** Hitting any obstacle or rival pirate will end your run. Always prioritize dodging over collecting if a collision is imminent.
 

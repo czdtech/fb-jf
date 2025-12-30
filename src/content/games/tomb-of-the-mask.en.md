@@ -2,7 +2,7 @@
 locale: en
 # Frontmatter: 遵循上面 config.ts 中定义的 schema
 title: "Tomb of the Mask"
-description: "Navigate treacherous mazes in Tomb of the Mask, a fast-paced arcade game! Swipe to move your character from wall to wall, collecting coins and power-ups while outrunning a rising flood. Master precise movements and quick decisions to survive and uncover the tomb's secrets."
+description: "Navigate treacherous mazes in Tomb of the Mask, a fast-paced arcade game! `Swipe` to move your character from wall to wall, collecting coins and power-ups while outrunning a rising flood. Master precise movements and quick decisions to survive and uncover the tomb's secrets."
 iframeSrc: "https://w8.snokido.com/games/unity-webgl/tomb-run/index.html"
 thumbnail: /new-images/thumbnails/tomb-of-the-mask.jpg
 urlstr: "tomb-of-the-mask"
@@ -20,7 +20,7 @@ Tomb of the Mask is a highly addictive, fast-paced arcade game that combines ele
 <!-- i18n:section:tips -->
 ### Gameplay Guide
 
-- **Movement:** Swipe in any of the four cardinal directions (up, down, left, right). Your character will slide in that direction until they hit an obstacle.
+- **Movement:** `Swipe` in any of the four cardinal directions (up, down, left, right). Your character will slide in that direction until they hit an obstacle.
 - **Collect:** Gather coins and dots scattered throughout the maze.
 - **Power-ups:** Pick up various power-ups like shields, speed boosts, or freeze abilities to help you survive.
 - **Avoid Obstacles:** Dodge spikes, traps, and enemies.

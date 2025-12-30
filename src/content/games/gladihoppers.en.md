@@ -28,6 +28,8 @@ Gladihoppers blends ragdoll‑style hopping movement with weapon combat. Your gl
 ### Controls
 - Directional hops, attack and block keys (bindings vary by host); local versus often available.
 
+
+<!-- i18n:section:tips -->
 ### Tips
 - Spear/pike favor spacing; swords excel at close pressure.
 - Aim for the head when safe; high hits often crit.

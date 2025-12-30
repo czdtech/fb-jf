@@ -31,6 +31,8 @@ releaseDate: 2025-12-04T00:00:00.000Z
  
 ---
  
+
+<!-- i18n:section:tips -->
 ### Strategy and Tips
  
  -  **Memorization is Key:** Since the timer doesn't reset between levels, your main strategy should be to memorize the path. The game encourages learning through repetition. Don't be discouraged if you fail; each attempt helps you learn the layout for the next run. 

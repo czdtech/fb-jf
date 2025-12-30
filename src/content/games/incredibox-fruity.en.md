@@ -20,6 +20,8 @@ Incredibox Fruity is a classic 2D side-scrolling strategy game that became widel
 
 
 <!-- i18n:section:how-to-play -->
+
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 Mastering Incredibox Fruity requires a balance of offense, defense, and strategic timing.

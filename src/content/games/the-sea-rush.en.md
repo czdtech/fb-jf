@@ -22,7 +22,7 @@ The Sea Rush is a match-3 puzzle game where players embark on an underwater adve
 <!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
-Use a mouse click or touchscreen swipe to swap adjacent sea animals. Aligning three or more similar animals clears them. Clearing multiple blocks simultaneously yields more points. As you accrue points, you proceed to the next difficulty level, with the game becoming increasingly challenging. Strategic thinking is required. Plan moves ahead and aim for alignments of more than three blocks for bonus points. Keep an eye on time limits and make swift moves to maximize your score.
+Use a mouse click or touchscreen `Swipe` to swap adjacent sea animals. Aligning three or more similar animals clears them. Clearing multiple blocks simultaneously yields more points. As you accrue points, you proceed to the next difficulty level, with the game becoming increasingly challenging. Strategic thinking is required. Plan moves ahead and aim for alignments of more than three blocks for bonus points. Keep an eye on time limits and make swift moves to maximize your score.
 
 <!-- i18n:section:controls -->
 ### Controls Guide

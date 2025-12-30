@@ -21,6 +21,8 @@ The arena often includes environmental features — choke corridors, pillars for
 
 
 <!-- i18n:section:how-to-play -->
+
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Kite wide, not tight: Large circular paths give more correction time than small, panicky loops.

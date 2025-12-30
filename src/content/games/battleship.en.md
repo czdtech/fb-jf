@@ -31,6 +31,8 @@ Once both players have placed their fleets, they take turns firing "shots" at th
 
 
 <!-- i18n:section:how-to-play -->
+
+<!-- i18n:section:tips -->
 ### Gameplay Strategy
 
 Winning at *Battleship* involves a combination of clever placement and logical deduction.

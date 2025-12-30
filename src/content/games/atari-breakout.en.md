@@ -22,6 +22,8 @@ When the ball hits a brick, the brick is destroyed, and the ball ricochets off i
 
 
 <!-- i18n:section:how-to-play -->
+
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 While Breakout seems simple, there are key strategies to maximize your score and clear levels efficiently.

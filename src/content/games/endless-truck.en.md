@@ -19,6 +19,8 @@ Endless Truck is a side‑scrolling stunt runner focused on speed control and la
 
 
 <!-- i18n:section:how-to-play -->
+
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Land flat: Touch down with wheels level to retain speed and avoid bounce.

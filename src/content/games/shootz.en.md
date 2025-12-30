@@ -19,6 +19,8 @@ releaseDate: 2025-08-16
 
 "ShootZ" is an action-packed shooting game where players battle against zombies and other creatures. Use a variety of weapons to survive in fast-paced combat, facing increasingly challenging waves of enemies. The game is famous for its intense shooting action and diverse weapon systems.
 
+
+<!-- i18n:section:tips -->
 ### Gameplay Strategy
 
 1.  **Weapon Upgrades**: Collect resources to upgrade weapons, improving firepower and efficiency.

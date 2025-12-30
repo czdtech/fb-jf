@@ -18,6 +18,8 @@ releaseDate: 2025-08-16
 
 "Pixel Shooter" is a retro-style pixel art shooting game where players control a character to battle hordes of enemies across various levels, collecting power-ups and upgrading weapons to survive. The game attracts players with its classic pixel graphics and fast-paced shooting experience.
 
+
+<!-- i18n:section:tips -->
 ### Gameplay Strategy
 
 1.  **Move and Shoot**: Move your character flexibly to dodge enemy attacks and shoot accurately to eliminate them.

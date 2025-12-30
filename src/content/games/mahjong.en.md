@@ -24,6 +24,8 @@ releaseDate: 2025-08-16
 
 "Mahjongg Solitaire" is a single-player matching game based on traditional Chinese Mahjong tiles. The objective of the game is to clear the entire board by matching pairs of identical, open tiles. Due to its easy-to-understand rules and challenging gameplay, Mahjongg Solitaire is loved by players worldwide.
 
+
+<!-- i18n:section:tips -->
 ### Gameplay Strategy
 
 1.  **Observe the Board Layout**: Carefully examine the board to identify available matching pairs.

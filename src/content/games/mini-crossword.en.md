@@ -19,6 +19,8 @@ releaseDate: 2025-08-16
 
 "Mini Crossword" is a compact daily crossword puzzle game. It offers a small yet challenging grid where players need to fill in the correct words based on the provided clues to complete the entire crossword. This game is suitable for quick sessions, both expanding vocabulary and providing puzzle-solving enjoyment.
 
+
+<!-- i18n:section:tips -->
 ### Gameplay Strategy
 
 1.  **Understand Clues**: Carefully read both the across and down clues; they are key to solving the puzzle.

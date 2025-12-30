@@ -28,6 +28,8 @@ House of Hazards is a couch‑multiplayer party game set in a trap‑filled home
 ### Controls
 - Simple move/jump/action keys; multiple local players with separate binds.
 
+
+<!-- i18n:section:tips -->
 ### Tips
 - Don’t tunnel‑vision the next task—watch for glows indicating armed traps.
 - Jump before moving hazards to maintain momentum after hits.

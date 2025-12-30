@@ -32,6 +32,8 @@ Hobo is a side‑scrolling beat ’em up known for slapstick violence and delibe
 ### Controls
 - Arrows to move; attack/jump/grab keys vary by host; combo inputs shown in‑game.
 
+
+<!-- i18n:section:tips -->
 ### Tips
 - Keep enemies on one side; avoid getting surrounded.
 - Grapple single targets to remove them quickly when mobs thin out.

@@ -19,6 +19,8 @@ releaseDate: 2025-08-16
 
 "Red Ball 4" is a physics-based platformer game where players control a cute red ball on a mission to save the world from evil squares that want to turn everything into squares. The game features challenging levels where players must navigate through various obstacles and puzzles, using physics properties to solve problems and defeat enemies.
 
+
+<!-- i18n:section:tips -->
 ### Gameplay Strategy
 
 1.  **Master Physics Properties**: Utilize the red ball's bouncing and rolling characteristics to traverse obstacles and reach targets.

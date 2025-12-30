@@ -28,6 +28,8 @@ Getaway Shootout is a competitive physics platformer where characters lurch forw
 ### Controls
 - Two keys to hop left/right; separate keys to use items (keybinds vary by host); supports local 2‑player.
 
+
+<!-- i18n:section:tips -->
 ### Tips
 - On slopes, time longer holds to convert vertical gain into forward speed.
 - Fire weapons at chokepoints or while an opponent jumps—knockback is strongest mid‑air.

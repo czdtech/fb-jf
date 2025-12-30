@@ -23,7 +23,7 @@ Om Nom: Run is a vibrant and action-packed endless runner game starring the ador
 <!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
-1.  **Master the Swipes:** The core gameplay relies on quick reflexes. You need to swipe left and right to switch between three lanes, swipe up to jump over low obstacles, and swipe down to slide under high ones. Practice timing your swipes perfectly.
+1.  **Master the Swipes:** The core gameplay relies on quick reflexes. You need to `Swipe` left and right to switch between three lanes, `Swipe` up to jump over low obstacles, and `Swipe` down to slide under high ones. Practice timing your swipes perfectly.
 2.  **Grab Those Power-ups:** During your run, you will see special items. Always try to grab them!
     *   **Magnet:** Automatically collects all nearby coins for a short period.
     *   **Rocket/Jetpack:** Launches you into the air, allowing you to fly safely above all obstacles while collecting coins.

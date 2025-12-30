@@ -25,6 +25,8 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 "Slope 3" is the latest installment in the popular Slope series, featuring enhanced graphics and new challenging obstacles as players guide a ball down an endless slope while avoiding deadly barriers and red blocks. The game continues the series' core gameplay while introducing improved visuals and more complex level designs.
 
+
+<!-- i18n:section:tips -->
 ### Gameplay Strategy
 
 1.  **Visual Adaptation**: Adapt to improved 3D graphics and new visual effects while maintaining focus.

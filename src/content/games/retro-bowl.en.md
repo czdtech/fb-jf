@@ -19,6 +19,8 @@ releaseDate: 2025-08-16
 
 "Retro Bowl" is a nostalgic American football game with retro 8-bit graphics where players act as both coach and quarterback, managing the team and controlling gameplay through play-calling, passing, and leading the team to championship glory. The game combines team management with real-time game control, providing players with a complete football experience.
 
+
+<!-- i18n:section:tips -->
 ### Gameplay Strategy
 
 1.  **Master Passing Skills**: Learn to accurately pass to receivers, observe defensive positions to choose the best passing moments.

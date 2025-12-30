@@ -24,6 +24,8 @@ releaseDate: 2025-08-16
 
 "Monopoly" is a classic real estate board game where players roll dice to move around the game board, buying, renting, and selling properties. The goal is to bankrupt other players and ultimately become the wealthiest tycoon. The game combines elements of strategy, negotiation, and luck, and is loved by players worldwide.
 
+
+<!-- i18n:section:tips -->
 ### Gameplay Strategy
 
 1.  **Buy Properties**: When you land on an unowned property, you can choose to buy it, making it your asset.

@@ -19,6 +19,8 @@ releaseDate: 2025-08-16
 
 "QWOP Game" is a notoriously difficult physics-based running game. Players need to use four keyboard keys (Q, W, O, P) to control a runner's leg muscles with the goal of running 100 meters without falling. The game's control scheme is extremely difficult and counterintuitive, making even the simplest forward movement challenging, which has made it a popular internet topic and challenge.
 
+
+<!-- i18n:section:tips -->
 ### Gameplay Strategy
 
 1.  **Understand Key Functions**: Q and W control the left leg's thigh and calf, while O and P control the right leg's thigh and calf.

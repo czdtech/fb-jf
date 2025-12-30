@@ -19,6 +19,8 @@ releaseDate: 2025-08-16
 
 "Pokemon Emerald" is a role-playing video game in the Pokémon series where players embark on an adventure in the Hoenn region. The main goal is to catch and train Pokémon, battle various trainers, challenge Gym Leaders, and ultimately become the Pokémon League Champion. Concurrently, players will be drawn into the conflict between the villainous organizations "Team Magma" and "Team Aqua," attempting to stop their plans to reshape the world.
 
+
+<!-- i18n:section:tips -->
 ### Gameplay Strategy
 
 1.  **Catch Pokémon**: Encounter wild Pokémon in tall grass, water bodies, caves, etc., weaken them, and then catch them with Poké Balls.

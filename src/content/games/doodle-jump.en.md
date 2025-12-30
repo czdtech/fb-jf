@@ -28,6 +28,8 @@ Endless vertical platformer: bounce upward, land on safe platforms, avoid monste
 ### Controls
 - Left/Right (or tilt on mobile): move; automatic jumping on contact; action/shoot where available.
 
+
+<!-- i18n:section:tips -->
 ### Tips
 - Favor stable platforms when the screen scrolls quickly.
 - Save high‑impact power‑ups for sparse sections.

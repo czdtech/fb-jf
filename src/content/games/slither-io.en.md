@@ -25,6 +25,8 @@ releaseDate: 2025-08-16
 
 "Slither.io" is a popular multiplayer online game where players control a snake-like avatar, consuming glowing orbs to grow larger while avoiding collisions with other players. In this endless arena, players compete for dominance with the goal of becoming the biggest and longest snake.
 
+
+<!-- i18n:section:tips -->
 ### Gameplay Strategy
 
 1.  **Safe Growth**: Focus on collecting small orbs in early game, avoiding contact with large snakes.

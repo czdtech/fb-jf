@@ -19,6 +19,8 @@ releaseDate: 2025-08-16
 
 Make It Meme is a multiplayer online party game developed by Prealpha, where players compete by creating and rating memes. The game offers a variety of meme templates, and players need to add humorous captions within a limited time to create unique memes. Afterward, all players rate each other's creations, and the player with the highest score wins. The game supports real-time multiplayer online mode, making it suitable for gatherings with friends.
 
+
+<!-- i18n:section:tips -->
 ### Gameplay Strategy
 
 1.  **Choose Mode:** After entering the game, players can choose to join a public room or create a private room to play with friends.

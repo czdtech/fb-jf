@@ -24,6 +24,8 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 "Slope 2" is the sequel to the popular endless running game where players control a ball rolling down a steep slope, avoiding obstacles and red blocks while trying to survive as long as possible in this fast-paced challenge. The game continues the core gameplay of the original while adding new features and more challenging level designs.
 
+
+<!-- i18n:section:tips -->
 ### Gameplay Strategy
 
 1.  **Reaction Speed**: Practice quick reactions to handle suddenly appearing obstacles and direction changes.

@@ -18,6 +18,8 @@ releaseDate: 2025-08-16
 
 "Ragdoll Archers" is a physics-based archery game where players control wobbly ragdoll archers to shoot arrows at opponents. The realistic physics effects make each shot challenging and entertaining, while the character instability adds humor and unpredictability to the game.
 
+
+<!-- i18n:section:tips -->
 ### Gameplay Strategy
 
 1.  **Master Shooting Skills**: Learn to adjust bow angle and power, considering the effects of gravity and air resistance on arrow trajectory.

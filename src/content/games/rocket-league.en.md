@@ -19,6 +19,8 @@ releaseDate: 2025-08-16
 
 "Rocket League" is a high-octane sports game that combines soccer with rocket-powered cars. Players drive vehicles equipped with rocket boosters, using driving, jumping, and boosting to hit a giant ball with the goal of scoring in the opponent's goal. The game is famous for its fast-paced aerial combat and exciting physics engine.
 
+
+<!-- i18n:section:tips -->
 ### Gameplay Strategy
 
 1.  **Master Basic Controls**: Become proficient with acceleration, steering, jumping, and rocket boost basic operations.

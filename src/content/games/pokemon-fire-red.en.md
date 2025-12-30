@@ -19,6 +19,8 @@ releaseDate: 2025-08-16
 
 "Pokemon Fire Red" is a faithful remake of the original "Pokémon Red" game. Players embark on an adventure through the Kanto region, catching and training Pokémon, battling Gym Leaders, and thwarting the plans of Team Rocket with the ultimate goal of becoming the Pokémon League Champion. The game retains the classic storyline and gameplay of the original, with visual and functional enhancements from the GBA era.
 
+
+<!-- i18n:section:tips -->
 ### Gameplay Strategy
 
 1.  **Choose Your Starter Pokémon**: At the beginning of the game, select one of three Pokémon—Bulbasaur, Charmander, or Squirtle—as your partner.

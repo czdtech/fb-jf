@@ -26,6 +26,8 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 "Slippery Slope" is a thrilling skiing or sliding game where players navigate down treacherous mountain slopes, avoiding obstacles and maintaining control while racing against time in challenging downhill courses. The game is famous for its fast-paced action and gameplay requiring precise control.
 
+
+<!-- i18n:section:tips -->
 ### Gameplay Strategy
 
 1.  **Speed Control**: Learn to slow down or accelerate when needed, finding balance between safety and speed.

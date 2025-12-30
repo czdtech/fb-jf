@@ -33,7 +33,7 @@ Fast‑reaction micro‑games: complete short safety‑themed challenges under a
 ### Tips
 - Read the prompt first—many losses come from instinctive wrong inputs.
 - Expect repetition; memorize tricky games to react faster.
-- Don’t over‑drag/over‑swipe; precision beats speed.
+- Don’t over‑drag/over‑`Swipe`; precision beats speed.
 
 <!-- i18n:section:faq -->
 ### FAQ

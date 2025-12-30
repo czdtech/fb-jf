@@ -25,6 +25,8 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 "Paper Minecraft" is a 2D re-imagining of the popular sandbox game "Minecraft," offering players a side-scrolling world to explore, mine resources, craft items, build structures, and survive against various monsters. This game retains the core gameplay of the original while providing a unique experience from a 2D perspective.
 
+
+<!-- i18n:section:tips -->
 ### Gameplay Strategy
 
 1.  **Gather Resources**: Chop trees for wood, mine underground for ores, which are fundamental materials for building and crafting.

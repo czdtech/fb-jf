@@ -19,6 +19,8 @@ Egg Maker distills time‑management cooking into rapid stations: crack, whisk, 
 
 
 <!-- i18n:section:how-to-play -->
+
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 1.  Station rhythm: Always start with the longest step (heat), then backfill short prep while the pan runs.

@@ -24,6 +24,8 @@ releaseDate: 2025-08-16
 
 "Run 3" is an endless running game set in space where players control an alien character running through a 3D tunnel, jumping over gaps and avoiding obstacles while defying gravity. The game is famous for its unique 3D perspective and gradually increasing difficulty, providing players with both simple and challenging gameplay experience.
 
+
+<!-- i18n:section:tips -->
 ### Gameplay Strategy
 
 1.  **Master Jumping Timing**: Learn to jump at the right moments to avoid gaps and obstacles.

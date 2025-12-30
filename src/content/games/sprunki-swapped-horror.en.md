@@ -43,6 +43,8 @@ Want to experience the unique charm of Sprunki Swapped Horror? The operation is 
  - **Share Your Creations:** Showcase your Sprunki Swapped Horror musical compositions with the community and share your musical inspiration with everyone!
  
  
+
+<!-- i18n:section:tips -->
 ### Tips for Playing Sprunki Swapped Horror:
  
  - **Be Bold and Try Character Swap:** In Sprunki Swapped Horror, character swap is the core gameplay and the key to creating unique music.

@@ -19,6 +19,8 @@ releaseDate: 2025-08-16
 
 "Slice Master" is a satisfying physics-based game where players control a knife to slice through various objects, aiming for perfect cuts and collecting rewards while navigating through challenging obstacle courses. The game is famous for its smooth cutting mechanics and addictive gameplay.
 
+
+<!-- i18n:section:tips -->
 ### Gameplay Strategy
 
 1.  **Master Cutting Timing**: Learn to cut at the right moments to ensure maximum scoring and effectiveness.
@@ -31,7 +33,7 @@ releaseDate: 2025-08-16
 ### How to Play
 
 *   **Direction Control**: Typically use mouse or touch to control the knife's movement direction.
-*   **Cutting Action**: Click or swipe to perform cutting actions.
+*   **Cutting Action**: Click or `Swipe` to perform cutting actions.
 *   **Angle Adjustment**: Drag to adjust the knife's angle and trajectory.
 
 <!-- i18n:section:faq -->

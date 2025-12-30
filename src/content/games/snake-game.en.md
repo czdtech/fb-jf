@@ -19,6 +19,8 @@ releaseDate: 2025-08-16
 
 "Snake Game" is the classic arcade game where players control a growing snake to eat food items while avoiding collisions with walls and the snake's own body, aiming to achieve the highest possible score. This game has become one of the most classic works in gaming history due to its simple yet addictive gameplay.
 
+
+<!-- i18n:section:tips -->
 ### Gameplay Strategy
 
 1.  **Path Planning**: Plan the snake's movement path in advance to avoid trapping yourself in dead ends.

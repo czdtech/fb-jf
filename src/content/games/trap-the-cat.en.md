@@ -19,6 +19,8 @@ releaseDate: 2025-08-16
 
 "Trap the Cat" is a strategic puzzle game where players must block a clever cat's escape routes by placing barriers on a hexagonal grid, using logic and planning to prevent the cat from reaching the edge. This game tests players' prediction abilities and strategic thinking.
 
+
+<!-- i18n:section:tips -->
 ### Gameplay Strategy
 
 1.  **Center Control**: Try to place barriers around the cat first, gradually shrinking its movement area.

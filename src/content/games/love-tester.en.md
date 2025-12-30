@@ -27,6 +27,8 @@ Love Tester is a lighthearted name‑matching toy. You input two names and recei
 ### Controls
 - Keyboard input and a single test button.
 
+
+<!-- i18n:section:tips -->
 ### Tips
 - Use creative prompts (nicknames, team names) to vary outputs.
 - Treat results as a joke, not advice.

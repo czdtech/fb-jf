@@ -19,6 +19,8 @@ releaseDate: 2025-08-16
 
 "Raft Wars" is a turn-based strategy shooting game where players help two young brothers defend their discovered treasure from pirates and vikings who try to steal it. The game features physics-based shooting mechanics, requiring players to adjust angles and power to use tennis balls and other projectiles to defeat enemies by knocking them off their rafts into the water.
 
+
+<!-- i18n:section:tips -->
 ### Gameplay Strategy
 
 1.  **Master Shooting Skills**: Learn to adjust launch angles and power, observing how environmental factors like wind affect the trajectory.

@@ -19,6 +19,8 @@ releaseDate: 2025-08-16
 
 "Red Ball" is the original physics-based platformer game where players control a bouncing red ball through various levels filled with obstacles, enemies, and puzzles. The game uses momentum and physics properties to overcome challenges, laying the foundation for subsequent Red Ball series games. The game is known for its simple yet challenging gameplay.
 
+
+<!-- i18n:section:tips -->
 ### Gameplay Strategy
 
 1.  **Master Basic Physics**: Learn to utilize the red ball's bouncing and rolling characteristics to navigate levels.

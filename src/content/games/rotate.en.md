@@ -19,6 +19,8 @@ releaseDate: 2025-08-16
 
 "Rotate" is a challenging puzzle game where players must rotate the game world to guide a ball through complex mazes and obstacles. The game utilizes the physics properties of gravity and momentum, requiring players to cleverly control rotation angles and timing to get the ball to reach the target position in each level.
 
+
+<!-- i18n:section:tips -->
 ### Gameplay Strategy
 
 1.  **Understand Gravity Mechanics**: Master how rotation changes gravity direction and affects the ball's movement trajectory.

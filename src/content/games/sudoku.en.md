@@ -19,6 +19,8 @@ releaseDate: 2025-08-16
 
 "Sudoku" is a classic number puzzle game where players fill a 9x9 grid with digits 1-9, ensuring each row, column, and 3x3 box contains all numbers exactly once. This logic-based brain teaser challenges players' reasoning abilities and patience.
 
+
+<!-- i18n:section:tips -->
 ### Gameplay Strategy
 
 1.  **Start Simple**: Look for cells with only one possible answer first; these are usually breakthrough points.

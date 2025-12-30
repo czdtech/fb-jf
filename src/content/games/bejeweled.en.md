@@ -31,6 +31,8 @@ releaseDate: 2025-12-04T00:00:00.000Z
  
   
  
+
+<!-- i18n:section:tips -->
 ### Strategy and Tips
  
  -  **Look for Bigger Matches:** Don't just settle for matches of three. Actively scan the board for opportunities to create matches of four or five to generate powerful special gems. 

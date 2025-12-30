@@ -19,6 +19,8 @@ releaseDate: 2025-08-16
 
 "Moving Truck" is a physics-based puzzle game. Players' task is to strategically load furniture and various items of different shapes and sizes into a moving truck, ensuring that the items remain balanced and secure during transit, and ultimately arrive safely at their destination. The game challenges players' spatial reasoning and planning abilities.
 
+
+<!-- i18n:section:tips -->
 ### Gameplay Strategy
 
 1.  **Observe Item Shapes**: Carefully examine the shape and size of each item to be moved, envisioning how they can be best stacked and combined.

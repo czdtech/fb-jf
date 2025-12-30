@@ -15,14 +15,14 @@ releaseDate: 2025-10-18
 <!-- i18n:section:introduction -->
 ### Detailed Game Introduction
 
-Fruit Chopper is a fast-paced and juicy arcade game that tests your reflexes and precision. Your screen will be filled with a variety of delicious fruits flying through the air. Your mission is to slice as many of them as you can with a swipe of your finger or mouse. But be careful! Dangerous bombs are mixed in with the fruit, and hitting one will end your game. Challenge yourself to get the highest score by creating impressive combos and surviving as long as possible.
+Fruit Chopper is a fast-paced and juicy arcade game that tests your reflexes and precision. Your screen will be filled with a variety of delicious fruits flying through the air. Your mission is to slice as many of them as you can with a `Swipe` of your finger or mouse. But be careful! Dangerous bombs are mixed in with the fruit, and hitting one will end your game. Challenge yourself to get the highest score by creating impressive combos and surviving as long as possible.
 
 <!-- i18n:section:tips -->
 
 <!-- i18n:section:how-to-play -->
 ### Gameplay Strategy & Walkthrough
 
-1.  **Slice in Combos:** The key to a high score is slicing multiple fruits in a single, continuous swipe. A 3-fruit combo is good, but a 4 or 5-fruit combo will give you a massive score bonus.
+1.  **Slice in Combos:** The key to a high score is slicing multiple fruits in a single, continuous `Swipe`. A 3-fruit combo is good, but a 4 or 5-fruit combo will give you a massive score bonus.
 2.  **Avoid the Bombs:** This is the most important rule. Your eyes should always be scanning for bombs. It's better to miss a fruit than to accidentally hit a bomb.
 3.  **Wait for the Arc:** Don't slice fruits the moment they appear. Wait for them to reach the peak of their arc. This gives you more time to see other fruits that might line up for a combo and helps you avoid surprise bombs.
 4.  **Use Both Hands (on Mobile):** If you're playing on a touchscreen, using two hands can sometimes help you react faster to fruits appearing on both sides of the screen.
@@ -42,7 +42,7 @@ Fruit Chopper is a fast-paced and juicy arcade game that tests your reflexes and
 
 * <!-- i18n:faq:id=faq:fruit-chopper:q-how-do-i-get-d3288798 -->
   **Q: How do I get a combo bonus?**
-    *   **A:** You get a combo bonus by slicing three or more fruits in one single swipe. The more fruits you slice at once, the bigger the bonus.
+    *   **A:** You get a combo bonus by slicing three or more fruits in one single `Swipe`. The more fruits you slice at once, the bigger the bonus.
 
 * <!-- i18n:faq:id=faq:fruit-chopper:q-are-there-different-game-8575813d -->
   **Q: Are there different game modes?**

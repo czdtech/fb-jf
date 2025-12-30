@@ -27,6 +27,8 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 Minecraft is a sandbox video game developed by Mojang Studios. Players explore a 3D world made of blocks, collecting resources, building structures, crafting items, and interacting with various creatures. The game has no specific goals, allowing players to freely create and explore, thus offering a high degree of freedom. Game modes include Survival Mode, Creative Mode, Adventure Mode, and Spectator Mode.
 
+
+<!-- i18n:section:tips -->
 ### Gameplay Strategy
 
 1.  **Gather Resources**: Chop trees, mine ores, plant crops, etc., to obtain basic materials needed for building and crafting.
@@ -38,7 +40,7 @@ Minecraft is a sandbox video game developed by Mojang Studios. Players explore a
 <!-- i18n:section:how-to-play -->
 ### How to Play
 
-*   **Movement**: W, A, S, D keys for moving forward, left, backward, and right.
+*   **Movement**: `W, A, S, D` keys for moving forward, left, backward, and right.
 *   **Jump**: Spacebar for jumping.
 *   **Attack/Break**: Left mouse button for attacking creatures or breaking blocks.
 *   **Use/Place**: Right mouse button for using items or placing blocks.

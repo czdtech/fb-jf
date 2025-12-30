@@ -23,6 +23,8 @@ releaseDate: 2025-08-16
 
 "Paper.io" is a popular multiplayer online territory-conquering game. Players control a colored block with the objective of claiming as much territory as possible by drawing lines and enclosing areas. In the game, you need to cleverly expand your territory while being wary of attacks from other players, as your line is your weakness; once touched, you fail. The game is fast-paced, highly strategic, and full of competitive fun.
 
+
+<!-- i18n:section:tips -->
 ### Gameplay Strategy
 
 1.  **Safe Expansion**: In the early stages, try to expand within small areas near your territory to ensure safety.

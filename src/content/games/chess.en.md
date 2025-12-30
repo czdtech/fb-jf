@@ -31,6 +31,8 @@ The game is one of the world's most popular, known for its deep strategy and tac
 
 
 <!-- i18n:section:how-to-play -->
+
+<!-- i18n:section:tips -->
 ### Gameplay Strategy
 
 #### Opening Principles

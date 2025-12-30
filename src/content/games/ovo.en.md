@@ -19,6 +19,8 @@ releaseDate: 2025-08-16
 
 "OvO Game" is a fast-paced and extremely challenging platformer. Players control a stickman character, using precise jumps, slides, and wall jumps to navigate complex levels, aiming to reach the finish line as quickly as possible. The game is known for its high difficulty and fluid controls, testing players' reaction speed and operational precision.
 
+
+<!-- i18n:section:tips -->
 ### Gameplay Strategy
 
 1.  **Master Basic Moves**: Proficiently mastering basic moves like jumping, sliding, double-jumping, and wall-jumping is key to beating the levels.

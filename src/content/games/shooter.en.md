@@ -19,6 +19,8 @@ releaseDate: 2025-08-16
 
 "Five Nights at Freddy's Shooter" is a horror action game where players fight against animatronic characters from the FNAF universe. Use various weapons to survive in shooting gameplay style, defending against waves of attacking robots. The game combines classic FNAF horror elements with fast-paced shooting action.
 
+
+<!-- i18n:section:tips -->
 ### Gameplay Strategy
 
 1.  **Weapon Selection**: Familiarize yourself with different weapon characteristics and choose the most effective weapon based on enemy types.

@@ -20,7 +20,7 @@ Cut the Rope is a physics‑based puzzle game where you slice ropes to deliver a
 
 <!-- i18n:section:how-to-play -->
 ### How to Play
-- Swipe/click to cut ropes in the right order so the candy swings toward Om Nom.  
+- `Swipe`/click to cut ropes in the right order so the candy swings toward Om Nom.  
 - Collect stars on the way; time cuts to avoid spikes and other traps.  
 - Use interactive elements (e.g., bubbles that float the candy, air puffs that steer) when available. 
 

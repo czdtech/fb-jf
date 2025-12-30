@@ -26,6 +26,8 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 "Tunnel Rush" is a fast-paced endless running game where players navigate through a colorful 3D tunnel, avoiding obstacles and barriers while traveling at high speeds. This thrilling reflex-testing experience challenges players' reaction speed and focus, with speeds increasing as the game progresses.
 
+
+<!-- i18n:section:tips -->
 ### Gameplay Strategy
 
 1.  **Reaction Training**: Practice quick reactions to handle suddenly appearing obstacles.

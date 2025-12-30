@@ -19,6 +19,8 @@ releaseDate: 2025-08-16
 
 "Superhot" is an innovative first-person shooter where time moves only when you move, creating a unique tactical puzzle experience that combines action with strategic planning. Players need to precisely plan every move in a slow-motion world.
 
+
+<!-- i18n:section:tips -->
 ### Gameplay Strategy
 
 1.  **Time Control**: Time almost stops when standing still, returns to normal speed when moving.

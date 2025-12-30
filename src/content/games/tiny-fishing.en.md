@@ -19,6 +19,8 @@ releaseDate: 2025-08-16
 
 "Tiny Fishing" is a relaxing casual fishing game where players cast their line into the depths, catch various fish species, and upgrade their equipment to reach deeper waters and discover rare creatures. The game is beloved by players for its simple controls and relaxing gaming experience.
 
+
+<!-- i18n:section:tips -->
 ### Gameplay Strategy
 
 1.  **Upgrade Fishing Line**: Prioritize upgrading line length to reach deeper waters and catch rare fish.

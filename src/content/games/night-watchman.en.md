@@ -19,6 +19,8 @@ releaseDate: 2025-08-16
 
 "Night Watchman" is a horror-survival game where players work as a night guard in a dark, abandoned building. They must monitor security cameras and manage limited resources to survive against various mysterious threats until dawn. The game emphasizes atmosphere building and resource management, providing players with a tense and thrilling experience.
 
+
+<!-- i18n:section:tips -->
 ### Gameplay Strategy
 
 1.  **Monitor Cameras**: Closely watch the security camera feeds to promptly detect anomalies and threats.

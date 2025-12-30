@@ -19,6 +19,8 @@ releaseDate: 2025-08-16
 
 "Murder" is a tense and exciting social deduction game. Among a group of players, one is secretly designated as the "murderer," whose goal is to secretly eliminate other players without being discovered. Other players, on the other hand, need to observe, deduce, and discuss to identify the murderer and stop them. The game is full of strategy and psychological warfare, with each game session full of uncertainty.
 
+
+<!-- i18n:section:tips -->
 ### Gameplay Strategy
 
 1.  **For the Murderer**: 

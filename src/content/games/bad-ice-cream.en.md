@@ -23,6 +23,8 @@ The game is defined by its core mechanic: the ability to instantly create or des
 
 
 <!-- i18n:section:how-to-play -->
+
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 To succeed, players must blend quick thinking with strategic planning.

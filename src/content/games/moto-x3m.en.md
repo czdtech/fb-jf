@@ -19,6 +19,8 @@ releaseDate: 2025-08-16
 
 "Moto X3M" is an exciting and challenging online motorcycle stunt racing game. Players ride motorcycles through treacherous tracks filled with obstacles, ramps, and explosions, performing various daring stunts. The goal is to cross the finish line as quickly as possible and complete as many flips and stunts as possible to earn higher scores.
 
+
+<!-- i18n:section:tips -->
 ### Gameplay Strategy
 
 1.  **Control Balance**: Maintaining the motorcycle's balance during jumps and landings is crucial to avoid crashing.

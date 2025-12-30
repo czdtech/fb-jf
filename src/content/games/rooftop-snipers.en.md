@@ -19,6 +19,8 @@ releaseDate: 2025-08-16
 
 "Rooftop Snipers" is the original physics-based shooting game where two pixel characters fight on rooftops, using simple controls to shoot and knock opponents off buildings. The game is famous for its hilarious ragdoll physics effects and simple yet challenging gameplay, laying the foundation for subsequent series games.
 
+
+<!-- i18n:section:tips -->
 ### Gameplay Strategy
 
 1.  **Master Basic Controls**: Become proficient with the basic combination of movement, jumping, and shooting operations.

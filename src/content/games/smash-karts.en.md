@@ -19,6 +19,8 @@ releaseDate: 2025-08-16
 
 "Smash Karts" is a multiplayer online kart racing game where players compete in fast-paced races, collect power-ups, and battle opponents while racing through various tracks in colorful 3D environments. The game combines classic kart racing with combat elements, providing players with exciting and fun multiplayer gaming experience.
 
+
+<!-- i18n:section:tips -->
 ### Gameplay Strategy
 
 1.  **Power-up Usage**: Learn to use various power-ups wisely, attacking opponents or defending yourself at appropriate times.

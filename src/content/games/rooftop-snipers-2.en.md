@@ -19,6 +19,8 @@ releaseDate: 2025-08-16
 
 "Rooftop Snipers 2" is a hilarious physics-based shooting game where two stick figures battle on rooftops, with the goal of using various weapons to knock opponents off the roof. The game features unpredictable ragdoll physics effects, making every battle full of surprises and fun.
 
+
+<!-- i18n:section:tips -->
 ### Gameplay Strategy
 
 1.  **Master Shooting Timing**: Learn to fire at the right moments, predicting opponent movement patterns.

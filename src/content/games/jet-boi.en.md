@@ -28,6 +28,8 @@ Jet Boi is a compact versus shooter about aerial control. Two players rocket aro
 ### Controls
 - Player‑specific movement/boost/shoot keys (host dependent); designed for local 2P.
 
+
+<!-- i18n:section:tips -->
 ### Tips
 - Short taps stabilize aim; long burns are for repositioning only.
 - Deny weapon crates even if you don’t need them.

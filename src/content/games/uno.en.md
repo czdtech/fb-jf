@@ -24,6 +24,8 @@ releaseDate: 2025-08-16
 
 "UNO Game" is the classic card game where players race to empty their hands by matching colors and numbers, using special action cards to block opponents and be the first to shout "UNO!" This game is famous worldwide for its simple-to-learn but strategically rich gameplay.
 
+
+<!-- i18n:section:tips -->
 ### Gameplay Strategy
 
 1.  **Color Priority**: Prioritize playing cards that match the current color, keeping wild cards and action cards as backup.

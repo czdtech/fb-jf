@@ -23,6 +23,8 @@ The game's signature mechanic is the character's ability to create or destroy ro
 
 
 <!-- i18n:section:how-to-play -->
+
+<!-- i18n:section:tips -->
 ### Gameplay Strategy & Walkthrough
 
 Success in *Bad Ice-Cream 2* is a mix of quick reflexes and clever puzzle-solving.

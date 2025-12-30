@@ -19,6 +19,8 @@ releaseDate: 2025-08-16
 
 "Word Search" is a classic puzzle game where players find hidden words in a grid of letters, searching horizontally, vertically, and diagonally to complete themed word lists. This is a relaxing brain exercise game that helps improve vocabulary and observation skills.
 
+
+<!-- i18n:section:tips -->
 ### Gameplay Strategy
 
 1.  **Systematic Scanning**: Scan the grid systematically by rows or columns, don't jump around randomly.
