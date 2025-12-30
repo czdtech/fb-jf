@@ -46,8 +46,8 @@ The controls for Breakout are famously simple.
 
 *   **Movement:**
     *   **Arcade:** A rotary dial (spinner) was used to move the paddle left and right.
-    *   **PC / Web Versions:** Typically, you move the paddle by moving your **mouse left and right**. Alternatively, the **Left and Right Arrow Keys** (`←` and `→`) are often supported.
-*   **Launch Ball:** At the start of a life, the ball is attached to your paddle. Pressing a "fire" button (usually the **Spacebar** or a **left mouse click**) will launch it.
+    *   **PC / Web Versions:** Typically, you move the paddle by moving your `mouse` left and right. Alternatively, the `Left` and `Right` Arrow Keys (`←` and `→`) are often supported.
+*   **Launch Ball:** At the start of a life, the ball is attached to your paddle. Pressing a "fire" button (usually the `Spacebar` or a `left mouse click`) will launch it.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

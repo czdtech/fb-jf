@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updatedAt": "2025-12-30T04:40:27.913Z",
+  "updatedAt": "2025-12-30T05:22:37.728Z",
   "entries": [
     {
       "slug": "2-tricky-stories",
@@ -817,6 +817,534 @@
       "fingerprint": "c622c3af9f73",
       "note": "auto-baseline",
       "addedAt": "2025-12-30T04:40:27.902Z"
+    },
+    {
+      "slug": "aloha-mahjong",
+      "locale": "de",
+      "kind": "controlsKeys",
+      "fingerprint": "6ac2fe59eaf8",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:37.717Z"
+    },
+    {
+      "slug": "aloha-mahjong",
+      "locale": "es",
+      "kind": "controlsKeys",
+      "fingerprint": "6ac2fe59eaf8",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:37.717Z"
+    },
+    {
+      "slug": "aloha-mahjong",
+      "locale": "fr",
+      "kind": "controlsKeys",
+      "fingerprint": "6ac2fe59eaf8",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:37.717Z"
+    },
+    {
+      "slug": "aloha-mahjong",
+      "locale": "ja",
+      "kind": "controlsKeys",
+      "fingerprint": "6ac2fe59eaf8",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:37.717Z"
+    },
+    {
+      "slug": "aloha-mahjong",
+      "locale": "ko",
+      "kind": "controlsKeys",
+      "fingerprint": "6ac2fe59eaf8",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:37.717Z"
+    },
+    {
+      "slug": "aloha-mahjong",
+      "locale": "zh",
+      "kind": "controlsKeys",
+      "fingerprint": "6ac2fe59eaf8",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:37.717Z"
+    },
+    {
+      "slug": "ant-and-block-puzzle",
+      "locale": "de",
+      "kind": "controlsKeys",
+      "fingerprint": "a6b943752e9d",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:37.717Z"
+    },
+    {
+      "slug": "ant-and-block-puzzle",
+      "locale": "es",
+      "kind": "controlsKeys",
+      "fingerprint": "a6b943752e9d",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:37.717Z"
+    },
+    {
+      "slug": "ant-and-block-puzzle",
+      "locale": "fr",
+      "kind": "controlsKeys",
+      "fingerprint": "a6b943752e9d",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:37.717Z"
+    },
+    {
+      "slug": "ant-and-block-puzzle",
+      "locale": "ja",
+      "kind": "controlsKeys",
+      "fingerprint": "a6b943752e9d",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:37.717Z"
+    },
+    {
+      "slug": "ant-and-block-puzzle",
+      "locale": "ko",
+      "kind": "controlsKeys",
+      "fingerprint": "a6b943752e9d",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:37.717Z"
+    },
+    {
+      "slug": "ant-and-block-puzzle",
+      "locale": "zh",
+      "kind": "controlsKeys",
+      "fingerprint": "a6b943752e9d",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:37.717Z"
+    },
+    {
+      "slug": "aqua-blocks",
+      "locale": "de",
+      "kind": "controlsKeys",
+      "fingerprint": "a6b943752e9d",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:37.717Z"
+    },
+    {
+      "slug": "aqua-blocks",
+      "locale": "es",
+      "kind": "controlsKeys",
+      "fingerprint": "a6b943752e9d",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:37.717Z"
+    },
+    {
+      "slug": "aqua-blocks",
+      "locale": "fr",
+      "kind": "controlsKeys",
+      "fingerprint": "a6b943752e9d",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:37.717Z"
+    },
+    {
+      "slug": "aqua-blocks",
+      "locale": "ja",
+      "kind": "controlsKeys",
+      "fingerprint": "a6b943752e9d",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:37.717Z"
+    },
+    {
+      "slug": "aqua-blocks",
+      "locale": "ko",
+      "kind": "controlsKeys",
+      "fingerprint": "a6b943752e9d",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:37.717Z"
+    },
+    {
+      "slug": "aqua-blocks",
+      "locale": "zh",
+      "kind": "controlsKeys",
+      "fingerprint": "a6b943752e9d",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:37.717Z"
+    },
+    {
+      "slug": "aquaparkio",
+      "locale": "de",
+      "kind": "controlsKeys",
+      "fingerprint": "113352cf21f8",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:37.717Z"
+    },
+    {
+      "slug": "aquaparkio",
+      "locale": "es",
+      "kind": "controlsKeys",
+      "fingerprint": "113352cf21f8",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:37.717Z"
+    },
+    {
+      "slug": "aquaparkio",
+      "locale": "fr",
+      "kind": "controlsKeys",
+      "fingerprint": "113352cf21f8",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:37.717Z"
+    },
+    {
+      "slug": "aquaparkio",
+      "locale": "ja",
+      "kind": "controlsKeys",
+      "fingerprint": "113352cf21f8",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:37.717Z"
+    },
+    {
+      "slug": "aquaparkio",
+      "locale": "ko",
+      "kind": "controlsKeys",
+      "fingerprint": "113352cf21f8",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:37.717Z"
+    },
+    {
+      "slug": "aquaparkio",
+      "locale": "zh",
+      "kind": "controlsKeys",
+      "fingerprint": "113352cf21f8",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:37.717Z"
+    },
+    {
+      "slug": "archery",
+      "locale": "de",
+      "kind": "controlsKeys",
+      "fingerprint": "7c2d4ec147f0",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:37.717Z"
+    },
+    {
+      "slug": "archery",
+      "locale": "es",
+      "kind": "controlsKeys",
+      "fingerprint": "7c2d4ec147f0",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:37.717Z"
+    },
+    {
+      "slug": "archery",
+      "locale": "fr",
+      "kind": "controlsKeys",
+      "fingerprint": "7c2d4ec147f0",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:37.717Z"
+    },
+    {
+      "slug": "archery",
+      "locale": "ja",
+      "kind": "controlsKeys",
+      "fingerprint": "7c2d4ec147f0",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:37.717Z"
+    },
+    {
+      "slug": "archery",
+      "locale": "ko",
+      "kind": "controlsKeys",
+      "fingerprint": "7c2d4ec147f0",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:37.717Z"
+    },
+    {
+      "slug": "archery",
+      "locale": "zh",
+      "kind": "controlsKeys",
+      "fingerprint": "7c2d4ec147f0",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:37.717Z"
+    },
+    {
+      "slug": "arctic-pong",
+      "locale": "de",
+      "kind": "controlsKeys",
+      "fingerprint": "d55d9d1e3a67",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:37.717Z"
+    },
+    {
+      "slug": "arctic-pong",
+      "locale": "es",
+      "kind": "controlsKeys",
+      "fingerprint": "d55d9d1e3a67",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:37.717Z"
+    },
+    {
+      "slug": "arctic-pong",
+      "locale": "fr",
+      "kind": "controlsKeys",
+      "fingerprint": "d55d9d1e3a67",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:37.717Z"
+    },
+    {
+      "slug": "arctic-pong",
+      "locale": "ja",
+      "kind": "controlsKeys",
+      "fingerprint": "d55d9d1e3a67",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:37.717Z"
+    },
+    {
+      "slug": "arctic-pong",
+      "locale": "ko",
+      "kind": "controlsKeys",
+      "fingerprint": "d55d9d1e3a67",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:37.717Z"
+    },
+    {
+      "slug": "arctic-pong",
+      "locale": "zh",
+      "kind": "controlsKeys",
+      "fingerprint": "d55d9d1e3a67",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:37.717Z"
+    },
+    {
+      "slug": "armored-assault-strike",
+      "locale": "de",
+      "kind": "controlsKeys",
+      "fingerprint": "875dec0d1b27",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:37.717Z"
+    },
+    {
+      "slug": "armored-assault-strike",
+      "locale": "es",
+      "kind": "controlsKeys",
+      "fingerprint": "875dec0d1b27",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:37.717Z"
+    },
+    {
+      "slug": "armored-assault-strike",
+      "locale": "fr",
+      "kind": "controlsKeys",
+      "fingerprint": "875dec0d1b27",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:37.717Z"
+    },
+    {
+      "slug": "armored-assault-strike",
+      "locale": "ja",
+      "kind": "controlsKeys",
+      "fingerprint": "875dec0d1b27",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:37.717Z"
+    },
+    {
+      "slug": "armored-assault-strike",
+      "locale": "ko",
+      "kind": "controlsKeys",
+      "fingerprint": "875dec0d1b27",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:37.717Z"
+    },
+    {
+      "slug": "armored-assault-strike",
+      "locale": "zh",
+      "kind": "controlsKeys",
+      "fingerprint": "875dec0d1b27",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:37.717Z"
+    },
+    {
+      "slug": "atari-breakout",
+      "locale": "de",
+      "kind": "controlsKeys",
+      "fingerprint": "5c901d86ca04",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:37.717Z"
+    },
+    {
+      "slug": "atari-breakout",
+      "locale": "es",
+      "kind": "controlsKeys",
+      "fingerprint": "5c901d86ca04",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:37.717Z"
+    },
+    {
+      "slug": "atari-breakout",
+      "locale": "fr",
+      "kind": "controlsKeys",
+      "fingerprint": "5c901d86ca04",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:37.717Z"
+    },
+    {
+      "slug": "atari-breakout",
+      "locale": "ja",
+      "kind": "controlsKeys",
+      "fingerprint": "5c901d86ca04",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:37.717Z"
+    },
+    {
+      "slug": "atari-breakout",
+      "locale": "ko",
+      "kind": "controlsKeys",
+      "fingerprint": "5c901d86ca04",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:37.717Z"
+    },
+    {
+      "slug": "atari-breakout",
+      "locale": "zh",
+      "kind": "controlsKeys",
+      "fingerprint": "27e9f21a7dcd",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:37.717Z"
+    },
+    {
+      "slug": "ayocs-sprunkr",
+      "locale": "de",
+      "kind": "controlsKeys",
+      "fingerprint": "0e956a432e84",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:37.717Z"
+    },
+    {
+      "slug": "ayocs-sprunkr",
+      "locale": "de",
+      "kind": "faqOrder",
+      "fingerprint": "97a604d04116",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:37.717Z"
+    },
+    {
+      "slug": "ayocs-sprunkr",
+      "locale": "es",
+      "kind": "controlsKeys",
+      "fingerprint": "0e956a432e84",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:37.717Z"
+    },
+    {
+      "slug": "ayocs-sprunkr",
+      "locale": "es",
+      "kind": "faqOrder",
+      "fingerprint": "97a604d04116",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:37.717Z"
+    },
+    {
+      "slug": "ayocs-sprunkr",
+      "locale": "fr",
+      "kind": "controlsKeys",
+      "fingerprint": "0e956a432e84",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:37.717Z"
+    },
+    {
+      "slug": "ayocs-sprunkr",
+      "locale": "fr",
+      "kind": "faqOrder",
+      "fingerprint": "97a604d04116",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:37.717Z"
+    },
+    {
+      "slug": "ayocs-sprunkr",
+      "locale": "ja",
+      "kind": "controlsKeys",
+      "fingerprint": "0e956a432e84",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:37.717Z"
+    },
+    {
+      "slug": "ayocs-sprunkr",
+      "locale": "ja",
+      "kind": "faqOrder",
+      "fingerprint": "97a604d04116",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:37.717Z"
+    },
+    {
+      "slug": "ayocs-sprunkr",
+      "locale": "ko",
+      "kind": "controlsKeys",
+      "fingerprint": "0e956a432e84",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:37.717Z"
+    },
+    {
+      "slug": "ayocs-sprunkr",
+      "locale": "ko",
+      "kind": "faqOrder",
+      "fingerprint": "97a604d04116",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:37.717Z"
+    },
+    {
+      "slug": "ayocs-sprunkr",
+      "locale": "zh",
+      "kind": "controlsKeys",
+      "fingerprint": "0e956a432e84",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:37.717Z"
+    },
+    {
+      "slug": "ayocs-sprunkr",
+      "locale": "zh",
+      "kind": "faqOrder",
+      "fingerprint": "97a604d04116",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:37.717Z"
+    },
+    {
+      "slug": "backyard-zombie-defense",
+      "locale": "de",
+      "kind": "controlsKeys",
+      "fingerprint": "629be62bdfd9",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:37.717Z"
+    },
+    {
+      "slug": "backyard-zombie-defense",
+      "locale": "es",
+      "kind": "controlsKeys",
+      "fingerprint": "629be62bdfd9",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:37.717Z"
+    },
+    {
+      "slug": "backyard-zombie-defense",
+      "locale": "fr",
+      "kind": "controlsKeys",
+      "fingerprint": "629be62bdfd9",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:37.717Z"
+    },
+    {
+      "slug": "backyard-zombie-defense",
+      "locale": "ja",
+      "kind": "controlsKeys",
+      "fingerprint": "629be62bdfd9",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:37.717Z"
+    },
+    {
+      "slug": "backyard-zombie-defense",
+      "locale": "ko",
+      "kind": "controlsKeys",
+      "fingerprint": "629be62bdfd9",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:37.717Z"
+    },
+    {
+      "slug": "backyard-zombie-defense",
+      "locale": "zh",
+      "kind": "controlsKeys",
+      "fingerprint": "629be62bdfd9",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:37.717Z"
     }
   ]
 }

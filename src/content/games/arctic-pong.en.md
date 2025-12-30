@@ -34,7 +34,7 @@ Arctic Pong is a simple, chilly spin on classic Pong. Move your paddle to return
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Move paddle: Arrow keys / WASD or drag.
+- Move paddle: `Arrow keys` / `WASD` or `drag`.
 - Modes: Local 2‑player and solo vs. AI are common.
 
 <!-- i18n:section:faq -->

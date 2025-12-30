@@ -48,8 +48,8 @@ At the very beginning, it can be crowded and chaotic. It's often safer to hang b
 
 The game is famous for its extremely simple control scheme.
 
-*   **Movement (Mobile):** Place your finger anywhere on the screen and drag left or right to steer your character. There are no other buttons.
-*   **Movement (PC/Web Browser):** Click and hold the left mouse button, then drag the mouse left or right to steer.
+*   **Movement (Mobile):** Place your finger anywhere on the screen and `drag` left or right to steer your character. There are no other buttons.
+*   **Movement (PC/Web Browser):** `Click` and `hold` the left mouse button, then `drag` the mouse left or right to steer.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

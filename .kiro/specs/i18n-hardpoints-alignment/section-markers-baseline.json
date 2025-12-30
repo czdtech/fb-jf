@@ -1,90 +1,216 @@
 {
   "version": "1.0",
-  "updatedAt": "2025-12-30T04:41:18.579Z",
+  "updatedAt": "2025-12-30T05:22:40.552Z",
   "entries": [
     {
       "slug": "4-pics-1-word",
       "locale": "de",
       "section": "tips",
       "note": "auto-baseline",
-      "addedAt": "2025-12-30T04:41:18.579Z"
+      "addedAt": "2025-12-30T05:22:40.552Z"
     },
     {
       "slug": "4-pics-1-word",
       "locale": "es",
       "section": "tips",
       "note": "auto-baseline",
-      "addedAt": "2025-12-30T04:41:18.579Z"
+      "addedAt": "2025-12-30T05:22:40.552Z"
     },
     {
       "slug": "4-pics-1-word",
       "locale": "fr",
       "section": "tips",
       "note": "auto-baseline",
-      "addedAt": "2025-12-30T04:41:18.579Z"
+      "addedAt": "2025-12-30T05:22:40.552Z"
     },
     {
       "slug": "4-pics-1-word",
       "locale": "ja",
       "section": "tips",
       "note": "auto-baseline",
-      "addedAt": "2025-12-30T04:41:18.579Z"
+      "addedAt": "2025-12-30T05:22:40.552Z"
     },
     {
       "slug": "4-pics-1-word",
       "locale": "ko",
       "section": "tips",
       "note": "auto-baseline",
-      "addedAt": "2025-12-30T04:41:18.579Z"
+      "addedAt": "2025-12-30T05:22:40.552Z"
     },
     {
       "slug": "4-pics-1-word",
       "locale": "zh",
       "section": "tips",
       "note": "auto-baseline",
-      "addedAt": "2025-12-30T04:41:18.579Z"
+      "addedAt": "2025-12-30T05:22:40.552Z"
     },
     {
       "slug": "age-of-war",
       "locale": "de",
       "section": "tips",
       "note": "auto-baseline",
-      "addedAt": "2025-12-30T04:41:18.579Z"
+      "addedAt": "2025-12-30T05:22:40.552Z"
     },
     {
       "slug": "age-of-war",
       "locale": "es",
       "section": "tips",
       "note": "auto-baseline",
-      "addedAt": "2025-12-30T04:41:18.579Z"
+      "addedAt": "2025-12-30T05:22:40.552Z"
     },
     {
       "slug": "age-of-war",
       "locale": "fr",
       "section": "tips",
       "note": "auto-baseline",
-      "addedAt": "2025-12-30T04:41:18.579Z"
+      "addedAt": "2025-12-30T05:22:40.552Z"
     },
     {
       "slug": "age-of-war",
       "locale": "ja",
       "section": "tips",
       "note": "auto-baseline",
-      "addedAt": "2025-12-30T04:41:18.579Z"
+      "addedAt": "2025-12-30T05:22:40.552Z"
     },
     {
       "slug": "age-of-war",
       "locale": "ko",
       "section": "tips",
       "note": "auto-baseline",
-      "addedAt": "2025-12-30T04:41:18.579Z"
+      "addedAt": "2025-12-30T05:22:40.552Z"
     },
     {
       "slug": "age-of-war",
       "locale": "zh",
       "section": "tips",
       "note": "auto-baseline",
-      "addedAt": "2025-12-30T04:41:18.579Z"
+      "addedAt": "2025-12-30T05:22:40.552Z"
+    },
+    {
+      "slug": "ayocs-sprunkr",
+      "locale": "de",
+      "section": "controls",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:40.552Z"
+    },
+    {
+      "slug": "ayocs-sprunkr",
+      "locale": "de",
+      "section": "faq",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:40.552Z"
+    },
+    {
+      "slug": "ayocs-sprunkr",
+      "locale": "de",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:40.552Z"
+    },
+    {
+      "slug": "ayocs-sprunkr",
+      "locale": "es",
+      "section": "controls",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:40.552Z"
+    },
+    {
+      "slug": "ayocs-sprunkr",
+      "locale": "es",
+      "section": "faq",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:40.552Z"
+    },
+    {
+      "slug": "ayocs-sprunkr",
+      "locale": "es",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:40.552Z"
+    },
+    {
+      "slug": "ayocs-sprunkr",
+      "locale": "fr",
+      "section": "controls",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:40.552Z"
+    },
+    {
+      "slug": "ayocs-sprunkr",
+      "locale": "fr",
+      "section": "faq",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:40.552Z"
+    },
+    {
+      "slug": "ayocs-sprunkr",
+      "locale": "fr",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:40.552Z"
+    },
+    {
+      "slug": "ayocs-sprunkr",
+      "locale": "ja",
+      "section": "controls",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:40.552Z"
+    },
+    {
+      "slug": "ayocs-sprunkr",
+      "locale": "ja",
+      "section": "faq",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:40.552Z"
+    },
+    {
+      "slug": "ayocs-sprunkr",
+      "locale": "ja",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:40.552Z"
+    },
+    {
+      "slug": "ayocs-sprunkr",
+      "locale": "ko",
+      "section": "controls",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:40.552Z"
+    },
+    {
+      "slug": "ayocs-sprunkr",
+      "locale": "ko",
+      "section": "faq",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:40.552Z"
+    },
+    {
+      "slug": "ayocs-sprunkr",
+      "locale": "ko",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:40.552Z"
+    },
+    {
+      "slug": "ayocs-sprunkr",
+      "locale": "zh",
+      "section": "controls",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:40.552Z"
+    },
+    {
+      "slug": "ayocs-sprunkr",
+      "locale": "zh",
+      "section": "faq",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:40.552Z"
+    },
+    {
+      "slug": "ayocs-sprunkr",
+      "locale": "zh",
+      "section": "how-to-play",
+      "note": "auto-baseline",
+      "addedAt": "2025-12-30T05:22:40.552Z"
     }
   ]
 }

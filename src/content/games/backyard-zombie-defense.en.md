@@ -33,7 +33,7 @@ Backyard Zombie Defense is a lightweight TD: build and upgrade a mix of singleâ€
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Place/Upgrade/Sell via UI; start waves when ready.
+- `Place`/`Upgrade`/`Sell` via UI; start waves when ready.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

@@ -29,8 +29,8 @@ Aqua Blocks is a relaxing block‑placement game. Place given shapes to fill lin
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Drag shapes onto the grid; rotate if supported.
-- Undo/Reset via UI.
+- `Drag` shapes onto the grid; `rotate` if supported.
+- `Undo`/`Reset` via UI.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

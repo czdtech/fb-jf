@@ -29,7 +29,7 @@ Armored Assault Strike blends arcade shooting with light positioning. Circle tou
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Move with WASD/Arrows; aim/fire per UI; trigger abilities on hotkeys.
+- Move with `WASD`/`Arrows`; aim/fire per UI; trigger abilities on hotkeys.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

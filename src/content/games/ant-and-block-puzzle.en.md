@@ -29,8 +29,8 @@ Ant and block puzzle is a casual shape‑placement challenge. Fit given blocks i
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Drag to place; rotate if the mode supports it.
-- Undo/Reset via UI.
+- `Drag` to place; `rotate` if the mode supports it.
+- `Undo`/`Reset` via UI.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)

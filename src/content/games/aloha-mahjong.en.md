@@ -29,7 +29,7 @@ Aloha Mahjong offers classic mahjong solitaire. Match open tiles to clear stacke
 <!-- i18n:section:controls -->
 ### Controls Guide
 
-- Select matching open tiles to clear them.
+- Select matching `open` tiles to clear them.
 - Hints/Shuffles via UI if available.
 
 <!-- i18n:section:faq -->

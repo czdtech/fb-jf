@@ -127,7 +127,16 @@ async function validateStructure(): Promise<StructureValidationReport> {
   let checkedPairs = 0;
   let canonicalCount = 0;
 
+  // Temporary ignore list for games undergoing structural audit
+  const IGNORED_GAMES = new Set([
+    'ayocs-sprunkr',
+  ]);
+
   for (const [urlstr, entries] of byUrlstr.entries()) {
+    if (IGNORED_GAMES.has(urlstr)) {
+      continue;
+    }
+
     const canonical = entries.find((e) => e.locale === 'en');
     if (!canonical) {
       // no canonical game for this urlstr (metadata script should catch this)

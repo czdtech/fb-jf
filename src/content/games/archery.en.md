@@ -29,7 +29,7 @@ Archery World Tour is a realistic and challenging archery simulation game. You t
 ### Controls Guide
 
 *   **Aim:** Move your mouse to aim the bow. The cursor will show where the arrow is pointed.
-*   **Draw and Shoot:** Click and hold the left mouse button to draw the bowstring. A power meter or the aiming reticle may change as you hold. Release the mouse button to fire the arrow.
+*   **Draw and Shoot:** `Click` and `hold` the left mouse button to draw the bowstring. A power meter or the aiming reticle may change as you hold. Release the mouse button to fire the arrow.
 
 <!-- i18n:section:faq -->
 ### Frequently Asked Questions (FAQ)
