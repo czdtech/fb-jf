@@ -15,13 +15,13 @@ Sprunki Like Minecraft Modは、Minecraftのブロック要素でSprunkiキャ�
  
 ### Sprunki Like Minecraft Modとは何ですか？
 
-Sprunki Like Minecraft Modは、Incredibox SprunkiとMinecraftの象徴的なブロック世界の創造的な融合です。このModでは、各Sprunkiキャラクターがminecraftスタイルのアバターに変換され、ゲームインターフェースと背景もMinecraftのテーマからインスピレーションを引き出し、2つの世界の調和のとれたブレンドを作り出します。
+Sprunki Like Minecraft Modは、Incredibox SprunkiとMinecraftのブロック世界を掛け合わせたModです。SprunkiキャラクターがMinecraftスタイルのアバターになり、インターフェースや背景もブロック調のデザインで統一されています。いつもの遊び方のまま、見た目だけが“ピクセル世界”に切り替わるのが面白さです。
  
 ### Sprunki Like Minecraft Modのハイライトは何ですか？
 
  - **Minecraftにインスパイアされたデザイン：** すべてのキャラクターとインターフェースは、Minecraftの美学に合わせてピクセルアートでスタイリングされています。
  - **インタラクティブゲームプレイ：** MinecraftテーマのSprunkiキャラクターをドラッグアンドドロップして、ユニークなトラックを作成します。
- - **創造的な音楽の楽しさ：** 没入型体験のための無限のサウンドの組み合わせを体験します。
+ - **創造的な音楽の楽しさ：** 組み合わせは無限大。音を重ねるほど没入感が増します。
  
  
 <!-- i18n:section:how-to-play -->
@@ -29,6 +29,4 @@ Sprunki Like Minecraft Modは、Incredibox SprunkiとMinecraftの象徴的なブ
 
 このIncredibox Sprunki Like Minecraft Modでは、キャラクターをドラッグ＆ドロップして音を重ね、Minecraft風の雰囲気でトラックを作れます。
  
-組み合わせを変えて、ビートやメロディのまとまりを調整していくのがコツです。いくつかパターンを作り、聞き比べながら整えてみてください。
-
-
+ブロック調の世界でノートを鳴らし、ピクセルとビートがぶつかるような感覚で遊んでみてください。組み合わせを変えて聞き比べるほど、あなた好みの“Minecraftメロディ”に近づきます。
