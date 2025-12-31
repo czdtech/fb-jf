@@ -2,7 +2,7 @@
 locale: zh
 urlstr: aloha-mahjong
 title: Aloha Mahjong 阿罗哈麻将
-description: 《Aloha Mahjong（阿罗哈麻将）》是一款带有海岛风情的连连看式麻将消除游戏，在叠放牌阵中找出可配对的牌面，一层层清空牌堆放松大脑。
+description: 《Aloha Mahjong（阿罗哈麻将）》是一款海岛主题的麻将接龙游戏：在叠放牌阵中找出可配对的牌面，一层层清空牌堆，轻松解压。
 iframeSrc: 'https://02ef7fb7guapg.h5games.usercontent.goog/v/13knu9k9rm8go/'
 thumbnail: /new-images/thumbnails/aloha-mahjong.jpg
 tags:
@@ -33,17 +33,16 @@ releaseDate: 2025-10-18T00:00:00.000Z
 ### 操作指南
 
 - 使用鼠标或手指点击两张图案相同、且左右至少有一侧没有被挡住、上方不被覆盖的“开放牌”，即可将它们配对消除。
-- 如游戏提供提示或洗牌按钮，可在局面接近无解时通过 UI 触发相应功能。
+- 如游戏提供提示或洗牌按钮，可在局面接近无解时通过界面触发相应功能。
 
 <!-- i18n:section:faq -->
 ### 常见问题解答（FAQ）
 <!-- i18n:faq:id=faq:aloha-mahjong:no-pairs-fd17fa86 -->
-*   **问：提示没有了、也找不到可配对牌，怎么办？****
+*   **问：提示没有了、也找不到可配对牌，怎么办？**
     *   答：** 如果还有洗牌次数，可以尝试洗牌刷新牌面；若洗牌也用尽，则这一局通常只能选择重新开始。
 <!-- i18n:faq:id=faq:aloha-mahjong:what-is-an-open-tile-2fbf8293 -->
-*   **问：什么样的牌算是“开放”的？****
+*   **问：什么样的牌算是“开放”的？**
     *   答：** 至少有一侧（左或右）没有紧邻其他牌，并且不会被上层牌块压住的牌，才算是可以点击配对的“开放牌”。
 <!-- i18n:faq:id=faq:aloha-mahjong:multiple-layouts-6bfba2f8 -->
-*   **问：是否有不同的牌阵和难度？****
+*   **问：是否有不同的牌阵和难度？**
     *   答：** 一般会提供多个牌阵布局，从简单的平面到叠层更复杂的图形，难度逐步提升，可按喜好选择挑战。
-

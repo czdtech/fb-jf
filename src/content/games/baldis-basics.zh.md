@@ -1,9 +1,9 @@
 ---
 locale: zh
 urlstr: baldis-basics
-title: "Baldi's Basics バルディ先生の教育＆ホラー"
+title: "Baldi's Basics 巴尔迪基础"
 description: >-
-  《Baldi's Basics（バルディ先生の教育＆ホラー）》是一款看起来像 90 年代低成本教育游戏、实际却是恶搞向生存ホラー的作品。下面是关于收集笔记本、道具使用、角色机制和逃出校园的完整攻略。
+  《Baldi's Basics（巴尔迪基础）》是一款披着 90 年代低成本教育游戏外衣的恶搞向生存恐怖作品。下面整理了收集笔记本、道具使用、角色机制与逃出校园的攻略要点。
 iframeSrc: 'https://html5.iclouds.io/baldis-basics/index.html'
 thumbnail: /new-images/thumbnails/baldis-basics.jpg
 tags:
@@ -19,7 +19,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:section:introduction -->
 ### 详细介绍
 
-*Baldi's Basics in Education and Learning* 表面上是一款 90 年代风格的低成本教育游戏，实际上却是一款超现实的生存ホラー。你扮演一名学生，被困在 Baldi 老师的校舍里，一开始的目标只是帮朋友收集散落在教室中的 7 本笔记本。
+*Baldi's Basics in Education and Learning* 表面上是一款 90 年代风格的低成本教育游戏，实际上却是一款超现实的生存恐怖游戏。你扮演一名学生，被困在 Baldi 老师的校舍里，一开始的目标只是帮朋友收集散落在教室中的 7 本笔记本。
 
 游戏开局看起来人畜无害：第一册笔记本里只是一些简单的算术题，你可以悠闲地在走廊里探索教室、查看黑板。
 
