@@ -34,6 +34,8 @@ Mahjong Connect se distingue du mahjong solitaire classique : tu dois relier de
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Click`
 
 - Clique sur deux tuiles identiques pour les connecter si un chemin légal existe.
 - Selon la version, des boutons d’indice ou de mélange peuvent t’aider en cas de blocage.
@@ -52,5 +54,6 @@ Mahjong Connect se distingue du mahjong solitaire classique : tu dois relier de
 <!-- i18n:faq:id=faq:mahjong-connect-mission:any-symbol-confusion-tips-cd295f6b -->
 - Q : Comment éviter de confondre les symboles ?  
   R : Prends le temps d’apprendre les familles (bambous, cercles, caractères, saisons, fleurs). Utilise le zoom si l’interface le permet pour mieux distinguer les détails.
+
 
 

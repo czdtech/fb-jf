@@ -50,6 +50,8 @@ instante.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `drag` `Click` `hold` `left` `button` `drag`
 
 El control se basa en un sencillo gesto de arrastre.
 
@@ -75,4 +77,5 @@ El control se basa en un sencillo gesto de arrastre.
     *   **R:** Deja que la bola atraviese varias plataformas seguidas sin tocar
         ninguna. Verás cómo se enciende: mientras dure ese estado podrás romper
         cualquier plataforma, incluso las rojas.
+
 

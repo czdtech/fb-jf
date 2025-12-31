@@ -33,6 +33,8 @@ Merge the Gems est un puzzle simple, relaxant et très addictif où tu fusionnes
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `drag` `drop` `Click` `drag` `drop` `Click`
 
 Le jeu se contrôle au glisser‑déposer.
 
@@ -53,3 +55,4 @@ Le jeu se contrôle au glisser‑déposer.
 <!-- i18n:faq:id=faq:merge-the-gems:q-my-board-is-full-6b64b9a8 -->
 *   **Q : Ma grille est pleine et je ne peux plus rien faire, que faire ?**
     *   **R :** Vérifie d'abord qu'aucune fusion n'est possible. Si tu es vraiment bloqué, vends ou supprime une gemme de faible valeur pour libérer une case et relancer la chaîne de fusions.
+

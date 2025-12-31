@@ -36,6 +36,8 @@ denen keine Matches mehr möglich sind.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Mouse`
 
 - Auswahl von Paaren per Maus oder Touch; Hinweis- und Rückgängig-Buttons je
   nach Host unterschiedlich.
@@ -66,4 +68,5 @@ denen keine Matches mehr möglich sind.
 - **F: Wie vermeide ich unlösbare Situationen?**  
   **A:** Halte immer mehrere Optionen offen, räume seltene Steine früh und
   achte darauf, keine Einzelsteine in schwer zugänglichen Bereichen einzusperren.
+
 

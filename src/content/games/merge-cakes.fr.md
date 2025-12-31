@@ -33,6 +33,8 @@ Merge Cakes est un puzzle doux et relaxant où tu combines des gâteaux identiqu
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `drag` `drop` `Click` `drag` `drop` `Click` `click`
 
 Le jeu se joue entièrement au glisser‑déposer.
 
@@ -53,4 +55,5 @@ Le jeu se joue entièrement au glisser‑déposer.
 <!-- i18n:faq:id=faq:merge-cakes:q-my-board-is-full-2c9ccb4e -->
 *   **Q : Mon plateau est plein et je ne peux plus jouer, que faire ?**
     *   **R :** Cherche toutes les fusions possibles. S'il n'y en a vraiment plus, utilise la poubelle pour vendre un gâteau de bas niveau et libérer une assiette.
+
 

@@ -33,6 +33,8 @@ Moving Co. est un petit jeu de logistique et d’empilement. Tu explores les pi�
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Arrow keys` `WASD` `drag` `Drop`
 
 - Déplacement : touches fléchées ou WASD (joystick virtuel sur mobile).  
 - Ramasser / déposer : action contextuelle en te plaçant au contact ou via un bouton dédié.  
@@ -52,5 +54,6 @@ Moving Co. est un petit jeu de logistique et d’empilement. Tu explores les pi�
 <!-- i18n:faq:id=faq:moving-co:how-to-3star-f06a849a -->
 - **Q : Comment obtenir les 3 étoiles ?**  
   **R :** Limite le nombre de trajets, déplace les gros objets dès le début et empile proprement pour optimiser chaque passage.
+
 
 

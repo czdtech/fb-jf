@@ -32,6 +32,8 @@ Match Puzzle House combine des niveaux de match‑3 avec la rénovation d’int�
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Drag`
 
 - Fais glisser pour échanger deux pièces, déclenche les boosters via l’interface, puis retourne au menu de décoration entre deux niveaux pour rénover les pièces.
 
@@ -47,5 +49,6 @@ Match Puzzle House combine des niveaux de match‑3 avec la rénovation d’int�
 <!-- i18n:faq:id=faq:match-puzzle-house:best-generic-booster-8d54c24f -->
 - **Q : Quel est le booster le plus polyvalent ?**  
   **R :** Le bonus qui supprime toutes les pièces d’une couleur est généralement le plus flexible pour réorganiser une grille vraiment bloquée.
+
 
 

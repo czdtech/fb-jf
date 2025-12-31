@@ -44,6 +44,8 @@ bajo presión de tiempo.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Arrow keys` `WASD` `drag` `Drop`
 
 - Movimiento: teclas de dirección o WASD; algunas versiones incluyen joystick
   virtual.
@@ -68,4 +70,5 @@ bajo presión de tiempo.
 - P: ¿Cómo consigo las 3 estrellas?  
   R: Haz menos viajes, mueve los muebles grandes al principio y apila de forma
   ordenada para minimizar correcciones.
+
 

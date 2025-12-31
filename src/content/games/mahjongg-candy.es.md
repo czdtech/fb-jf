@@ -47,6 +47,8 @@ reconocimiento de patrones y tu forma de pensar estratégicamente.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Mouse` `mouse` `click` `tap`
 
 - **Ratón/táctil:** usa el ratón o el dedo para hacer clic o tocar las fichas y
   seleccionarlas.
@@ -70,4 +72,5 @@ movimientos. Usarlas puede reducir tu puntuación.
 Practica el reconocimiento de patrones y planifica tus jugadas con varios pasos
 de antelación. Prioriza eliminar las fichas que bloquean muchas otras y busca
 crear cadenas de emparejamientos.
+
 

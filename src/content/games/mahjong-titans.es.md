@@ -33,6 +33,8 @@ nuevos movimientos y evitar caer en posiciones sin salida.
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Mouse`
 - Selecciona parejas con ratón o táctil; los botones de pista y deshacer
   dependen de la plataforma.
 
@@ -58,4 +60,5 @@ nuevos movimientos y evitar caer en posiciones sin salida.
 - P: ¿Cómo evito estados imposibles de ganar?  
   R: Mantén siempre varias opciones abiertas y evita aislar fichas únicas en
   las primeras jugadas.
+
 

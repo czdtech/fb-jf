@@ -52,6 +52,8 @@ für Extrapunkte und Münzen zu erfüllen.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `drag` `drop` `Click` `drag` `drop` `Click`
 
 Gespielt wird mit einfacher Drag-and-drop-Steuerung.
 
@@ -78,4 +80,5 @@ Gespielt wird mit einfacher Drag-and-drop-Steuerung.
     *   **A:** Suche nochmal nach möglichen Merg es. Wenn gar nichts mehr geht,
         musst du einen wenig wertvollen Stein verkaufen oder löschen, um wieder ein
         Feld freizubekommen.
+
 

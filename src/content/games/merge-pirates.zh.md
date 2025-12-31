@@ -30,6 +30,8 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作说明
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `drag` `drop` `Click` `drag` `drop` `Click` `click`
 
 本作同样采用简单的拖拽操作：
 
@@ -50,3 +52,4 @@ releaseDate: 2025-10-17T00:00:00.000Z
 <!-- i18n:faq:id=faq:merge-pirates:q-my-board-is-full-2c9ccb4e -->
 *   **问：甲板被塞满、完全动不了了怎么办？**
     *   **答：** 先仔细找找有没有被忽略的合成机会，如果确实没有可合成组合，可以使用垃圾桶图标出售一些低等级、暂时用不到的物品，换取少量金币并腾出格子。
+

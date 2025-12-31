@@ -51,6 +51,8 @@ Sichtkegel der Wachen meidest.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `WASD` `tap`
 
 - Bewegung mit Pfeiltasten oder WASD.  
 - Interaktion (z. B. Türen öffnen) per Tipp/Klick, Neustart über das Menü.
@@ -71,4 +73,5 @@ Sichtkegel der Wachen meidest.
 <!-- i18n:faq:id=faq:maze-puzzle:are-keys-reusable-1e970fba -->
 - **F: Kann ich Schlüssel mehrfach benutzen?**  
   **A:** Meist sind sie einmalig. Achte auf Symbole und In-Game-Hinweise.
+
 

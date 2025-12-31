@@ -33,6 +33,8 @@ Maze Puzzle propose de petits labyrinthes compacts remplis de clés, de portes e
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `WASD` `tap`
 
 - Déplace‑toi avec les touches fléchées ou WASD, interagis avec les clés et les portes en te plaçant dessus, et utilise le menu pour redémarrer rapidement un niveau si besoin.
 
@@ -48,5 +50,6 @@ Maze Puzzle propose de petits labyrinthes compacts remplis de clés, de portes e
 <!-- i18n:faq:id=faq:maze-puzzle:are-keys-reusable-1e970fba -->
 - **Q : Les clés peuvent‑elles être réutilisées ?**  
   **R :** En général, elles sont à usage unique. Surveille les icônes et les règles indiquées par le niveau pour savoir comment elles fonctionnent.
+
 
 

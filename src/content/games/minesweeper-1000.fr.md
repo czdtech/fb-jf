@@ -32,6 +32,8 @@ Minesweeper 1000 est une version moderne du célèbre puzzle de logique. Le but 
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `click` `click`
 
 - Clic gauche : révéler une case.  
 - Clic droit : poser ou retirer un drapeau.  
@@ -52,4 +54,5 @@ Minesweeper 1000 est une version moderne du célèbre puzzle de logique. Le but 
 <!-- i18n:faq:id=faq:minesweeper-1000:any-tip-for-early-game-2a5266e2 -->
 - **Q : Où cliquer au début de partie ?**  
   **R :** Cliquer plutôt vers le centre maximise les chances d’ouvrir une grande zone vide en cascade ; les coins donnent souvent moins d’information.
+
 

@@ -47,6 +47,8 @@ receta del libro. Es un juego sencillo, satisfactorio y con mucho encanto.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `drag` `drop` `Click` `drag` `drop` `Click` `click`
 
 El juego se maneja con un sencillo sistema de arrastrar y soltar.
 
@@ -74,4 +76,5 @@ El juego se maneja con un sencillo sistema de arrastrar y soltar.
     *   **R:** Necesitas liberar espacio. Busca merges que hayas pasado por
         alto. Si no hay ninguno, quizá debas usar el icono de la papelera para
         vender una tarta de nivel bajo y así recuperar un plato.
+
 

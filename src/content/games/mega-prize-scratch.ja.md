@@ -30,6 +30,8 @@ Mega Prize Scratchは、スクラッチカード風の遊びをデジタルで�
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Drag` `press` `enter`
 
 - マウス/指でドラッグしてカード表面をスクラッチします。
 - 新しいカードを購入するためにボタンをクリック/タップします。
@@ -47,4 +49,5 @@ Mega Prize Scratchは、スクラッチカード風の遊びをデジタルで�
 <!-- i18n:faq:id=faq:mega-prize-scratch:do-bonuses-improve-odds-52748e97 -->
 - **Q: カードはランダムですか？**  
   A: はい、ゲームアルゴリズムによって結果が決定されます。
+
 

@@ -52,6 +52,8 @@ minas hay en las ocho casillas que lo rodean. Esta edición ofrece varios nivele
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `click` `click`
 
 *   **Revelar casilla:** clic izquierdo sobre una casilla cubierta.
 *   **Poner bandera:** clic derecho para colocar o quitar una bandera.
@@ -73,4 +75,5 @@ minas hay en las ocho casillas que lo rodean. Esta edición ofrece varios nivele
     *   **R:** No, no son necesarias para ganar; solo te ayudan a recordar dónde
         crees que están las minas. Ganas al revelar todas las casillas seguras,
         no por marcar todas las minas.
+
 

@@ -43,6 +43,8 @@ permitir que la pila rebose por la parte superior.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `tap` `drop`
 
 - Mueve a izquierda y derecha para apuntar; toca o haz clic para soltar la
   fruta; algunas versiones permiten guardar piezas o deshacer un movimiento.
@@ -64,4 +66,5 @@ permitir que la pila rebose por la parte superior.
 - P: ¿Es justo usar el deshacer?  
   R: Úsalo con moderación para corregir lanzamientos claramente fallidos, no en
   cada jugada.
+
 

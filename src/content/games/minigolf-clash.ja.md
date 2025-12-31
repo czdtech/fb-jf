@@ -31,6 +31,8 @@ Minigolf Clashは、ミニゴルフに対戦要素を加えたゲームです。
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Drag`
 
 - ドラッグして狙い、パワーを設定します。
 - リリースしてショットします。
@@ -48,3 +50,4 @@ Minigolf Clashは、ミニゴルフに対戦要素を加えたゲームです。
 <!-- i18n:faq:id=faq:minigolf-clash:how-to-handle-movers-7da465fe -->
 - **Q: 報酬をアップグレードに使用できますか？**  
   A: はい、多くのバージョンはアップグレードとカスタマイズを提供します。
+

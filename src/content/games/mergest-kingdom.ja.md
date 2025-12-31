@@ -31,6 +31,8 @@ Mergest Kingdomは、マージ要素と王国づくりを組み合わせたゲ�
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Drag` `tap`
 
 - アイテムをドラッグ＆ドロップしてマージおよび配置します。
 - 建物をクリック/タップして収集およびアップグレードします。
@@ -48,4 +50,5 @@ Mergest Kingdomは、マージ要素と王国づくりを組み合わせたゲ�
 <!-- i18n:faq:id=faq:mergest-kingdom:worth-merging-everything-7820ba33 -->
 - **Q: 最高の建設戦略は何ですか？**  
   A: 効率のためにリソースビルディングを一緒にグループ化します。
+
 

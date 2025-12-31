@@ -30,6 +30,8 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作说明
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `mouse` `Click` `Click` `drag` `drop` `Click` `drag`
 
 本作完全通过鼠标或触控操作：
 
@@ -51,3 +53,4 @@ releaseDate: 2025-10-17T00:00:00.000Z
 <!-- i18n:faq:id=faq:merge-defenders:q-im-being-overwhelmed-by-34515d67 -->
 *   **问：总是被敌人大军冲垮怎么办？**
     *   **答：** 优先把金币投入到合成高等级单位上，而不是铺满一堆低等级。确保所有防御格子都被强力单位占据，并在每一波结束后立刻用新金币继续买、继续合成，维持战力曲线。
+

@@ -32,6 +32,8 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作说明
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `drag` `drop` `Click` `Click` `drag` `Drag` `drag`
 
 本作同样以拖拽操作为主：
 
@@ -53,3 +55,4 @@ releaseDate: 2025-10-17T00:00:00.000Z
 <!-- i18n:faq:id=faq:merge-heroes:q-why-did-my-heroes-50347d7c -->
 *   **问：为什么有时英雄停下来不打怪？**
     *   **答：** 这通常发生在波次间隙，当上一波怪物已被清空，新一波还没刷新时，英雄会短暂停火。等到下一波敌人出现后，他们会自动恢复攻击，无需额外操作。
+

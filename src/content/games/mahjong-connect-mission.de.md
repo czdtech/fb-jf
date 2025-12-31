@@ -53,6 +53,8 @@ Board-Management kontrollieren musst.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click`
 
 - Klicke zwei identische Steine an, zwischen denen ein gültiger Pfad mit
   maximal zwei Knicken existiert.  
@@ -77,4 +79,5 @@ Board-Management kontrollieren musst.
 - **F: Wie behalte ich bei vielen Symbolen den Überblick?**  
   **A:** Lerne typische Sets wie Farben, Jahreszeiten- und Blumensteine zu
   unterscheiden und nutze Zoom-Funktionen, wenn das Layout sehr detailreich ist.
+
 

@@ -33,6 +33,8 @@ Merge Melons est un puzzle physique addictif, souvent appelé « Suika Game » o
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `mouse` `Drop` `Click` `left` `button` `drop`
 
 Les commandes sont très simples.
 
@@ -54,4 +56,5 @@ Les commandes sont très simples.
 <!-- i18n:faq:id=faq:merge-melons:q-is-there-a-way-69560315 -->
 *   **Q : Puis‑je contrôler précisément la direction après une fusion ?**
     *   **R :** Non, la physique fait le reste. En revanche, la façon dont tu positionnes les fruits avant la fusion influence beaucoup la direction dans laquelle le fruit fusionné roulera.
+
 

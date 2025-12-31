@@ -60,6 +60,8 @@ personas.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `mouse` `Click` `Click`
 
 El juego se controla con ratón o pantalla táctil.
 
@@ -86,4 +88,5 @@ El juego se controla con ratón o pantalla táctil.
     *   **R:** Sí, sus ilustraciones varían, pero pertenecen al mismo grupo.
         Puedes emparejar cualquier ficha del grupo de Estaciones con otra del
         mismo grupo, y lo mismo ocurre con el grupo de Flores.
+
 

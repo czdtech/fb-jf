@@ -44,6 +44,8 @@ reaparición te obligan a gestionar el tablero con cabeza.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Drag` `tap`
 
 - Arrastra objetos idénticos para fusionarlos; toca las estaciones para cocinar;
   entrega los platos desde el panel de pedidos.
@@ -65,4 +67,5 @@ reaparición te obligan a gestionar el tablero con cabeza.
 - P: ¿Conviene fusionar siempre que pueda?  
   R: No, fusionar sin plan sólo genera cuellos de botella; hazlo cuando encaje
   con tu próximo pedido o mejore realmente el espacio disponible.
+
 

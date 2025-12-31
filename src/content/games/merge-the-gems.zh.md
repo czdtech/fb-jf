@@ -30,6 +30,8 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作说明
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `drag` `drop` `Click` `drag` `drop` `Click`
 
 本作采用经典拖拽操作：
 
@@ -50,3 +52,4 @@ releaseDate: 2025-10-17T00:00:00.000Z
 <!-- i18n:faq:id=faq:merge-the-gems:q-my-board-is-full-6b64b9a8 -->
 *   **问：棋盘满了、完全没有可合成的宝石怎么办？**
     *   **答：** 首先仔细检查是否还有遗漏的合成机会，如果确实没有任何可合成组合，就需要通过出售或清理部分低价值宝石来空出格子（具体取决于游戏提供的道具/功能），以继续放入新宝石。
+

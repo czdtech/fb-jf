@@ -43,6 +43,8 @@ sin salida y conos de visión enemigos.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `WASD` `tap`
 
 - Movimiento con flechas o WASD; toca para interactuar; reinicia rápidamente
   desde el menú si necesitas un nuevo intento.
@@ -64,4 +66,5 @@ sin salida y conos de visión enemigos.
 - P: ¿Las llaves se pueden reutilizar?  
   R: Normalmente son de un solo uso; fíjate en los iconos del HUD para estar
   seguro.
+
 

@@ -50,6 +50,8 @@ batalla para contener las oleadas de enemigos.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click` `Click` `drag` `Drag`
 
 *   **Invocar espíritus:** haz clic en el botón "Summon" para obtener un nuevo
     espíritu básico.  
@@ -78,4 +80,5 @@ batalla para contener las oleadas de enemigos.
         para crear uno o dos guardianes muy fuertes, en lugar de desplegar muchos
         débiles. Un guardián de alto nivel suele rendir más que varios de nivel
         bajo juntos.
+
 

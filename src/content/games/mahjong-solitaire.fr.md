@@ -37,6 +37,8 @@ Mahjong Solitaire est un jeu de correspondance pour un seul joueur qui utilise u
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `mouse` `Click` `Click`
 
 Le jeu se contrôle à la souris ou sur écran tactile.
 
@@ -57,4 +59,5 @@ Le jeu se contrôle à la souris ou sur écran tactile.
 <!-- i18n:faq:id=faq:mahjong-solitaire:q-are-the-seasonflower-tiles-bd5c0f97 -->
 *   **Q : Les tuiles Saisons/Fleurs ont toutes un motif différent, est‑ce normal ?**
     *   **R :** Oui, elles appartiennent à la même famille mais ont des dessins variés. Tu peux associer n'importe quelle Saison avec une autre Saison, et n'importe quelle Fleur avec une autre Fleur.
+
 

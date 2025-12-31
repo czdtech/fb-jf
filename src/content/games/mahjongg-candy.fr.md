@@ -27,6 +27,8 @@ Mahjongg Candy est un jeu de puzzle d’appariement de tuiles sucré et coloré 
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Mouse` `mouse` `click` `tap`
 
 - **Souris / écran tactile :** utilise ta souris ou ton doigt pour sélectionner les tuiles à appairer.
 
@@ -44,5 +46,6 @@ De nombreux jeux de mahjong proposent des indices qui révèlent une paire possi
 **Comment puis‑je m’améliorer ?**  
 
 Entraîne‑toi à reconnaître rapidement les motifs et à planifier plusieurs coups à l’avance. Essaie de libérer en priorité les tuiles qui bloquent beaucoup d’autres tuiles et de créer des séries de matches successives.
+
 
 

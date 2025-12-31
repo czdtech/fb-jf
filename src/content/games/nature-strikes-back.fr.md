@@ -33,6 +33,8 @@ Nature Strikes Back est un mélange original entre jeu de fusion et tower defens
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Click` `Click` `drag` `Drag`
 
 *   **Invoquer :** clique sur « Summon » pour faire apparaître un nouvel Esprit de base.
 *   **Fusionner :** fais glisser un Esprit sur un autre identique pour les combiner.
@@ -52,4 +54,5 @@ Nature Strikes Back est un mélange original entre jeu de fusion et tower defens
 <!-- i18n:faq:id=faq:nature-strikes-back:q-should-i-fill-all-f74c34bb -->
 *   **Q : Dois‑je remplir tous les emplacements dès le début ?**
     *   **R :** Pas forcément. Il est souvent plus rentable de fusionner d'abord pour obtenir quelques gardiens très puissants avant de remplir toute la carte.
+
 

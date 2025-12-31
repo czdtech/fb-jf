@@ -33,6 +33,8 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作说明
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `mouse` `Drop` `Click` `left` `button` `drop`
 
 
 操作非常简单直观。
@@ -54,4 +56,5 @@ releaseDate: 2025-10-17T00:00:00.000Z
 <!-- i18n:faq:id=faq:merge-melons:q-is-there-a-way-69560315 -->
 *   **问：合成后的水果滚动方向可以控制吗？**
     *   **答：** 合成之后的滚动轨迹主要由实时物理效果决定，无法直接操控。但你可以通过前几次投放时调整堆叠形状与落点来“间接影响”后续的滚动方向和停留位置，从而提高连锁触发率。
+
 

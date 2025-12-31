@@ -57,6 +57,8 @@ vollständig zu leeren.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click` `drag` `Click` `click`
 
 - **Karten verschieben:** Mit der Maus oder per Touch Karten zwischen Tableau,
   Ablage und Ablagestapel ziehen.  
@@ -85,4 +87,5 @@ vollständig zu leeren.
     *   **A:** Die meisten digitalen Solitaire-Spiele haben einen „Undo“-Button,
         mit dem du einen oder mehrere Züge zurücknehmen kannst. Das hilft, Fehler
         zu korrigieren oder eine andere Strategie auszuprobieren.
+
 

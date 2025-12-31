@@ -44,6 +44,8 @@ adivinar.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `click` `click`
 
 - Clic izquierdo: revelar casilla.  
 - Clic derecho: poner bandera.  
@@ -68,4 +70,5 @@ adivinar.
 - P: ¿Algún consejo para el inicio de partida?  
   R: Suele ser mejor empezar en el centro para conseguir cascadas grandes; las
   esquinas dan menos información.
+
 

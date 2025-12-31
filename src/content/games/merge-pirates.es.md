@@ -47,6 +47,8 @@ legendario para convertirte en el capitán más famoso de los siete mares.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `drag` `drop` `Click` `drag` `drop` `Click` `click`
 
 El juego se maneja mediante arrastrar y soltar.
 
@@ -74,4 +76,5 @@ El juego se maneja mediante arrastrar y soltar.
     *   **R:** Necesitas liberar espacio. Busca merges posibles; si no quedan,
         usa el icono de papelera para vender un objeto de nivel bajo y recuperar
         una casilla.
+
 

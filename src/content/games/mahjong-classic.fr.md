@@ -34,6 +34,8 @@ Mahjong Classic est un jeu de puzzle solo intemporel basé sur un ensemble de tu
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `mouse` `Click` `click`
 
 Le jeu se joue à la souris ou sur écran tactile.
 
@@ -54,4 +56,5 @@ Le jeu se joue à la souris ou sur écran tactile.
 <!-- i18n:faq:id=faq:mahjong-classic:q-i-have-no-more-9db97c8a -->
 *   **Q : Il ne me reste plus de coups, la partie est‑elle perdue ?**
     *   **R :** Pas forcément. Si aucune paire n'est possible, le jeu propose souvent un bouton de mélange pour créer de nouvelles opportunités. Si ta version n'inclut pas de mélange, la partie est alors effectivement perdue.
+
 

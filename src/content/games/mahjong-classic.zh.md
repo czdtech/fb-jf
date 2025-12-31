@@ -33,6 +33,8 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作说明
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `mouse` `Click` `click`
 
 游戏使用简单的鼠标点击或触屏点击操作。
 
@@ -53,3 +55,4 @@ releaseDate: 2025-10-17T00:00:00.000Z
 <!-- i18n:faq:id=faq:mahjong-classic:q-i-have-no-more-9db97c8a -->
 *   **问：没有配对可走时就一定输了吗？**
     *   **答：** 若当前布局下确实没有可配对的牌，但游戏提供"洗牌"功能，可以先尝试洗牌；如果没有洗牌选项且确实无路可走，则这一局只能宣告失败。
+

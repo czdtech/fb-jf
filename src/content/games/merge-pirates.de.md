@@ -52,6 +52,8 @@ erfüllen, Gold zu verdienen und alle legendären Piratenitems freizuschalten.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `drag` `drop` `Click` `drag` `drop` `Click` `click`
 
 Gespielt wird mit einfacher Drag-and-drop-Steuerung.
 
@@ -79,4 +81,5 @@ Gespielt wird mit einfacher Drag-and-drop-Steuerung.
     *   **A:** Suche nach übersehenen Merg es. Wenn nichts mehr möglich ist,
         verkaufe überflüssige, niedrigstufige Items über den Mülleimer, um Platz
         zu schaffen.
+
 

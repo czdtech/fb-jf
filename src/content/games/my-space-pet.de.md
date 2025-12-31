@@ -50,6 +50,8 @@ Weltraumzuhause freischaltest.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click` `Tap` `mouse`
 
 *   **Klicken/Tippen:** Mit Maus oder Finger interagierst du mit Zuub, wählst
     Menüs und spielst Minispiele.
@@ -71,4 +73,5 @@ Weltraumzuhause freischaltest.
 *   **F: Kann ich mehr als ein Weltraumtier besitzen?**
     *   **A:** Meist konzentriert sich das Spiel auf ein Haupt‑Haustier. Schau in die
         Spielinfos – oft geht es darum, mit einem Tier eine enge Bindung aufzubauen.
+
 

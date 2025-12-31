@@ -35,6 +35,8 @@ Mahjong Classic ist die klassische Einzelspieler-Variante mit Mahjong-Steinen. S
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `mouse` `Click` `click`
 
 Das Spiel wird mit Maus oder per Touch gesteuert.
 
@@ -55,4 +57,5 @@ Das Spiel wird mit Maus oder per Touch gesteuert.
 <!-- i18n:faq:id=faq:mahjong-classic:q-i-have-no-more-9db97c8a -->
 *   **F: Ich habe keine Züge mehr. Ist das Spiel vorbei?**
     *   **A:** Nicht unbedingt. Wenn keine Paare mehr kombiniert werden können, bieten die meisten Spiele eine "Mischen"-Option, um die verbleibenden Steine neu anzuordnen und neue Möglichkeiten zu schaffen.
+
 

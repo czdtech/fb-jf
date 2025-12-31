@@ -33,6 +33,8 @@ Minigolf Clash est un jeu de putting décontracté avec des obstacles inventifs,
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Drag`
 
 *   **Viser :** fais glisser pour définir la direction.
 *   **Puissance :** tire vers l'arrière pour régler la force, puis relâche pour putter.
@@ -52,3 +54,4 @@ Minigolf Clash est un jeu de putting décontracté avec des obstacles inventifs,
 <!-- i18n:faq:id=faq:minigolf-clash:how-to-handle-movers-7da465fe -->
 *   **Q : Puis‑je rejouer un trou pour améliorer mon score ?**
     *   **R :** Oui, la plupart des versions permettent de rejouer les niveaux pour viser de meilleurs temps ou un nombre de coups plus faible.
+

@@ -30,6 +30,8 @@ Mahjong Titans est un solitaire de tuiles utilisant les tuiles de mahjong classi
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Mouse`
 
 - Sélectionne les tuiles à la souris ou au toucher pour former des paires.
 - Les boutons d’indice et d’annulation dépendent du site qui héberge le jeu.
@@ -55,5 +57,6 @@ Mahjong Titans est un solitaire de tuiles utilisant les tuiles de mahjong classi
 <!-- i18n:faq:id=faq:mahjong-titans:how-do-i-avoid-unwinnable-aa1c788c -->
 - Q : Comment éviter les situations impossibles à résoudre ?  
   R : Essaie de garder plusieurs options ouvertes en permanence et évite de retirer trop tôt des tuiles uniques ou critiques.
+
 
 

@@ -52,6 +52,8 @@ gezielt an der Frontlinie positionierst.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `mouse` `Click` `Click` `drag` `drop` `Click` `drag`
 
 Gesteuert wird komplett mit Maus oder Finger.
 
@@ -81,4 +83,5 @@ Gesteuert wird komplett mit Maus oder Finger.
         bauen, statt viele schwache. Achte darauf, alle verfügbaren Slots zu
         belegen und kontinuierlich neue Einheiten zu kaufen und zu merg en, sobald
         du Münzen erhältst.
+
 

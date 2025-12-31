@@ -52,6 +52,8 @@ Schalter, die Türen öffnen, ohne dabei die vorgegebenen Zeiten zu sprengen.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Drag` `WASD`
 
 - Bewege deine Figur per Drag-Geste oder mit WASD/Pfeiltasten.  
 - Neustart und ggf. Rückgängig-Funktion stehen über die UI zur Verfügung.
@@ -73,4 +75,5 @@ Schalter, die Türen öffnen, ohne dabei die vorgegebenen Zeiten zu sprengen.
 - **F: Tipps für besonders schnelle Läufe?**  
   **A:** Halte dich in Kurven an die Innenwand und schneide – sofern erlaubt –
   diagonale Linien, um unnötige Wegstrecke zu sparen.
+
 

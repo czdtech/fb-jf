@@ -41,6 +41,8 @@ patrullas y los regresos seguros a la colmena para sumar puntuación.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Arrow keys` `WASD` `drag`
 
 - Movimiento: teclas de dirección / WASD o arrastre analógico.
 - Interacción: recogida automática de néctar al tocar las flores.
@@ -61,4 +63,5 @@ patrullas y los regresos seguros a la colmena para sumar puntuación.
 - ¿Puedo permitirme recibir golpes?  
   En muchos modos la vida es limitada y los errores se castigan; prioriza
   siempre la supervivencia sobre recoger cada gota de néctar.
+
 

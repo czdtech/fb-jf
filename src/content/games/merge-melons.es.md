@@ -50,6 +50,8 @@ parte superior del recipiente.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `mouse` `Drop` `Click` `left` `button` `drop`
 
 Los controles son muy sencillos.
 
@@ -79,4 +81,5 @@ Los controles son muy sencillos.
     *   **R:** No directamente, porque el juego se basa en físicas. Pero, si
         eliges bien el punto de caída, puedes influir en cómo rodará la fruta y
         dónde terminará asentándose la pieza fusionada.
+
 

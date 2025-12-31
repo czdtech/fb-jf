@@ -33,6 +33,8 @@ Merge Defenders est un jeu stratégique qui mélange la satisfaction des puzzles
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `mouse` `Click` `Click` `drag` `drop` `Click` `drag`
 
 Le jeu se joue intégralement à la souris ou au tactile.
 
@@ -54,4 +56,5 @@ Le jeu se joue intégralement à la souris ou au tactile.
 <!-- i18n:faq:id=faq:merge-defenders:q-im-being-overwhelmed-by-34515d67 -->
 *   **Q : Je suis submergé par les vagues, que faire ?**
     *   **R :** Concentre‑toi sur la fusion pour monter quelques unités à un niveau très élevé. Mieux vaut quelques défenseurs puissants qu'une armée de petites unités dispersées, et veille à remplir tous tes emplacements disponibles.
+
 

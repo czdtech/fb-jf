@@ -41,6 +41,8 @@ ellos son la clave para superar los tableros más cargados.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Drag`
 
 - Arrastra para intercambiar fichas adyacentes; activa los potenciadores desde
   la interfaz; decora las habitaciones entre partidas.
@@ -62,4 +64,5 @@ ellos son la clave para superar los tableros más cargados.
 - P: ¿Cuál es el mejor potenciador genérico?  
   R: El limpiador de color, porque permite remodelar un tablero que se ha
   quedado atascado.
+
 

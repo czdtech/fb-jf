@@ -30,6 +30,8 @@ Metal Guns Furyは、敵のウェーブと戦うテンポの良いシュータ�
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `WASD` `Click` `Space`
 
 - マウス/タッチは狙いと射撃を制御します。
 - WASD/矢印で移動します（該当する場合）。
@@ -47,4 +49,5 @@ Metal Guns Furyは、敵のウェーブと戦うテンポの良いシュータ�
 <!-- i18n:faq:id=faq:metal-guns-fury:which-weapon-is-best-8e684d4d -->
 - **Q: 弾薬がなくなった場合はどうすればよいですか？**  
   A: 敵を倒すか、補給ポイントを探します。
+
 

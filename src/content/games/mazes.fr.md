@@ -34,6 +34,8 @@ Mazes regroupe une collection de labyrinthes, des grilles simples aux couloirs t
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Drag` `WASD`
 
 - Fais glisser ton personnage ou utilise WASD pour te déplacer ; redémarre ou annule un mouvement si le jeu le permet.
 
@@ -49,5 +51,6 @@ Mazes regroupe une collection de labyrinthes, des grilles simples aux couloirs t
 <!-- i18n:faq:id=faq:mazes:any-speedrun-tip-c8952bb3 -->
 - **Q : Un conseil pour jouer en mode speedrun ?**  
   **R :** Colle les murs intérieurs dans les virages pour réduire la distance parcourue et coupe les diagonales quand le jeu l’autorise.
+
 
 

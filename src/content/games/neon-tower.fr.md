@@ -30,6 +30,8 @@ Neon Tower est un jeu d'arcade 3D rapide et addictif où tu guides une balle reb
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `drag` `Click` `hold` `left` `button` `drag`
 
 Le jeu se contrôle au glisser :
 
@@ -49,4 +51,5 @@ Le jeu se contrôle au glisser :
 <!-- i18n:faq:id=faq:neon-tower:q-how-do-i-activate-8acc1c69 -->
 *   **Q : Comment activer le mode fireball ?**
     *   **R :** Laisse la balle traverser plusieurs plateformes d'affilée sans rebondir. Elle s'embrase alors et peut traverser toutes les plateformes pendant quelques instants.
+
 

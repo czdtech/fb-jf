@@ -50,6 +50,8 @@ Es un juego de deducción pura y gestión cuidadosa del riesgo.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `click` `click` `click`
 
 *   **Revelar casilla:** clic izquierdo sobre una casilla cubierta.
 *   **Poner bandera:** clic derecho para colocar o retirar una bandera.
@@ -71,4 +73,5 @@ Es un juego de deducción pura y gestión cuidadosa del riesgo.
     *   **R:** No, las banderas son solo una ayuda visual. Ganas al revelar
         todas las casillas que no contienen minas, aunque no hayas marcado
         ninguna mina con bandera.
+
 

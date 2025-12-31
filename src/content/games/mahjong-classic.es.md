@@ -52,6 +52,8 @@ ofreciendo una experiencia relajante pero mentalmente estimulante.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `mouse` `Click` `click`
 
 El juego se maneja con simples clics de ratón o toques en pantalla.
 
@@ -79,4 +81,5 @@ El juego se maneja con simples clics de ratón o toques en pantalla.
     *   **R:** No necesariamente. Si ya no hay parejas posibles, el juego suele
         ofrecerte una opción de "Barajar" para reorganizar las fichas restantes
         y generar nuevos movimientos.
+
 

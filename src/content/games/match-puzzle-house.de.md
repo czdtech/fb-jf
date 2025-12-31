@@ -50,6 +50,8 @@ entscheidend, um dir genug Platz zu verschaffen.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Drag`
 
 - **Tauschen:** Ziehe zwei benachbarte Steine, um sie zu vertauschen.
 - **Booster nutzen:** Aktiviere Booster über die UI oder durch Kombinieren auf
@@ -74,4 +76,5 @@ entscheidend, um dir genug Platz zu verschaffen.
 - **F: Welcher Booster ist allgemein am stärksten?**  
   **A:** Farb-Clears sind sehr mächtig, um festgefahrene Bretter aufzubrechen,
   weil sie eine komplette Farbe auf einmal entfernen.
+
 

@@ -44,6 +44,8 @@ en torno a la planificación de rutas y la priorización de tareas.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Drag` `tap`
 
 - Arrastra o toca para mover al personaje e interactuar; las acciones de
   reparación y entrega suelen mostrarse mediante iconos contextuales.
@@ -65,4 +67,5 @@ en torno a la planificación de rutas y la priorización de tareas.
 - P: Los temporizadores parecen muy ajustados.  
   R: Ignora parte de la basura opcional y céntrate en los objetivos marcados
   como esenciales.
+
 

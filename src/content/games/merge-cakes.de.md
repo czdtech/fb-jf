@@ -53,6 +53,8 @@ alle Rezepte im „Kuchenbuch“ zu entdecken.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `drag` `drop` `Click` `drag` `drop` `Click` `click`
 
 Gespielt wird mit einfacher Drag-and-drop-Steuerung.
 
@@ -80,4 +82,5 @@ Gespielt wird mit einfacher Drag-and-drop-Steuerung.
     *   **A:** Suche sorgfältig nach möglichen Merg es. Wenn wirklich nichts mehr
         geht, kannst du über den „Mülleimer“ einen niedrigen Kuchen verkaufen, um
         Platz zu schaffen.
+
 

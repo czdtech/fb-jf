@@ -40,6 +40,8 @@ estrategia.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Drag` `press` `enter`
 
 - Arrastra para rascar; usa los botones para revelar todo de golpe, comprar una
   nueva tarjeta o entrar en las rondas de bono.
@@ -60,4 +62,5 @@ estrategia.
 - P: ¿Los bonos mejoran realmente las probabilidades?  
   R: Normalmente cambian la volatilidad (picos de premio) más que la esperanza
   a largo plazo.
+
 

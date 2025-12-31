@@ -51,6 +51,8 @@ Trickschuss-Linien und holt Low Scores.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Drag`
 
 - **Zielen:** Ziehe, um Richtung und Ziel festzulegen.  
 - **Power:** Ziehe den Schlag zurück, um die Stärke einzustellen, und lasse los,
@@ -75,4 +77,5 @@ Trickschuss-Linien und holt Low Scores.
 - **F: Wie gehe ich mit beweglichen Hindernissen um?**  
   **A:** Beobachte ihren Zyklus komplett und schlage erst, wenn du eine klare,
   sichere Lücke erkennst.
+
 

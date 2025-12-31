@@ -32,6 +32,8 @@ Minesweeper ist ein klassisches Einzelspieler-Logikpuzzle, das seit Jahrzehnten 
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `click` `click` `click`
 
 *   **Ein Feld aufdecken:** Linksklick auf ein verdecktes Feld.
 *   **Ein Feld markieren:** Rechtsklick auf ein verdecktes Feld, um eine Flagge zu setzen. Erneut rechtsklicken, um sie zu entfernen.
@@ -50,4 +52,5 @@ Minesweeper ist ein klassisches Einzelspieler-Logikpuzzle, das seit Jahrzehnten 
 <!-- i18n:faq:id=faq:minesweeper-2:q-do-i-have-to-0533f6fd -->
 *   **F: Muss ich Flaggen setzen, um zu gewinnen?**
     *   **A:** Nein, das Markieren ist nur ein Werkzeug, das dir beim Erinnern hilft. Das Spiel wird gewonnen, indem du alle Felder aufdeckst, die *keine* Minen enthalten, unabhängig davon, ob du die Minen markiert hast oder nicht.
+
 

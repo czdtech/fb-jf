@@ -34,6 +34,8 @@ Merge Bistro mélange des mécaniques de merge‑2 avec une gestion légère de 
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Drag` `tap`
 
 - Fais glisser deux ingrédients identiques pour les fusionner, touche les postes de cuisine pour lancer les recettes, puis livre les plats via le panneau de commandes.
 
@@ -49,5 +51,6 @@ Merge Bistro mélange des mécaniques de merge‑2 avec une gestion légère de 
 <!-- i18n:faq:id=faq:merge-bistro:do-i-need-to-rush-e3a4ac05 -->
 - **Q : Faut‑il fusionner dès que possible ?**  
   **R :** Non, fusionner sans objectif risque de bloquer le plateau. Mieux vaut garder quelques exemplaires bas niveau tant que tu n’en as pas besoin pour une commande précise.
+
 
 

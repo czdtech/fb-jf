@@ -56,6 +56,8 @@ auch Profis immer neue Herausforderungen.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `click` `click`
 
 - **Feld aufdecken:** Linksklick auf ein verdecktes Feld.  
 - **Mine markieren:** Rechtsklick, um eine Flagge zu setzen bzw. zu entfernen.
@@ -76,4 +78,5 @@ auch Profis immer neue Herausforderungen.
     *   **A:** Nein, Flaggen sind nur ein Hilfsmittel. Gewonnen hast du, sobald alle
 sicheren Felder aufgedeckt sind – unabhängig davon, ob du alle Minen markiert
 hast.
+
 

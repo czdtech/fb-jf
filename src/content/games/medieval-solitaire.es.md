@@ -49,6 +49,8 @@ As a Rey.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click` `drag` `Click` `click`
 
 *   **Mover cartas:** haz clic y arrastra para mover cartas entre columnas del
     tableau o hacia las pilas de base.
@@ -78,4 +80,5 @@ As a Rey.
     *   **R:** La mayoría de solitarios digitales incluyen un botón de "Deshacer"
         que permite revertir una o varias jugadas, muy útil para corregir
         errores o probar estrategias distintas.
+
 

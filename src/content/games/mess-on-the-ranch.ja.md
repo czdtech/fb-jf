@@ -30,6 +30,8 @@ Mess on the Ranchは、散らかった牧場を整理することに挑戦する
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Drag` `tap`
 
 - 動物をドラッグ＆ドロップして移動します。
 - ペンをクリック/タップして開閉します。
@@ -47,4 +49,5 @@ Mess on the Ranchは、散らかった牧場を整理することに挑戦する
 <!-- i18n:faq:id=faq:mess-on-the-ranch:timers-too-tight-628524e0 -->
 - **Q: 最速の完了方法は？**  
   A: 移動を最小限に抑え、事前に計画します。
+
 

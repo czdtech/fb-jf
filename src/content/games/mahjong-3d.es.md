@@ -54,6 +54,8 @@ usar la visión espacial para observar el puzle desde todos los ángulos.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click` `click` `click` `drag`
 
 *   **Seleccionar fichas:** haz clic en una ficha libre para seleccionarla y
     luego en su pareja idéntica y libre para formar el emparejamiento.
@@ -80,4 +82,5 @@ usar la visión espacial para observar el puzle desde todos los ángulos.
     *   **R:** Son fichas especiales. Cualquier ficha de Flor se puede emparejar
         con otra ficha de Flor, y lo mismo ocurre con las fichas de Estaciones.
         No necesitan tener el mismo dibujo exacto.
+
 

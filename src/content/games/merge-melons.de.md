@@ -52,6 +52,8 @@ ohne dass der Fruchtberg über den oberen Rand hinauswächst.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `mouse` `Drop` `Click` `left` `button` `drop`
 
 Die Steuerung ist sehr unkompliziert.
 
@@ -81,4 +83,5 @@ Die Steuerung ist sehr unkompliziert.
     *   **A:** Direkt nicht, da die Physik entscheidet. Durch geschickte Wahl des
         Abwurfpunkts kannst du aber beeinflussen, in welche Richtung die neue,
         größere Frucht wahrscheinlich rollt.
+
 

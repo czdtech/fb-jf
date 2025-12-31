@@ -52,6 +52,8 @@ Plattformen zu prallen.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `drag` `Click` `hold` `left` `button` `drag`
 
 Die Steuerung basiert auf einer einfachen Drag-Bewegung.
 
@@ -76,4 +78,5 @@ Die Steuerung basiert auf einer einfachen Drag-Bewegung.
     *   **A:** Lass den Ball mehrere Plattformen hintereinander durchfallen, ohne
         zu landen. Zündet der Ball, kannst du kurzzeitig durch alle Plattformen
         hindurchbrechen.
+
 

@@ -31,6 +31,8 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作指南
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `drag` `Click` `hold` `left` `button` `drag`
 
 游戏通过简单的拖动机制控制。
 
@@ -47,4 +49,5 @@ releaseDate: 2025-10-17T00:00:00.000Z
 <!-- i18n:faq:id=faq:neon-tower:q-how-do-i-activate-8acc1c69 -->
 *   **问：如何激活火球模式？****
     *   答：** 通过连续穿过多个平台而不触碰任何平台。你会看到你的球点燃，表明你现在可以安全地粉碎任何平台，包括红色平台。
+
 

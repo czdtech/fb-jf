@@ -51,6 +51,8 @@ möglichst wenig Raten entscheidend.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `click` `click`
 
 - **Linksklick:** Feld aufdecken.  
 - **Rechtsklick:** Mine markieren.  
@@ -76,4 +78,5 @@ möglichst wenig Raten entscheidend.
 - **F: Tipps für den Start?**  
   **A:** Klicke meist eher in der Feldmitte als in Ecken, um größere
   Anfangsöffnungen zu erhalten.
+
 

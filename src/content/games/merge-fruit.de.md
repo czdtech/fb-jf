@@ -50,6 +50,8 @@ viele Merges ergeben, ohne dass der Turm bis zur Oberkante wächst.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `tap` `drop`
 
 - Bewege die nächste Frucht mit Links/Rechts über dem Spielfeld und tippe/klicke,
   um sie fallen zu lassen.  
@@ -73,4 +75,5 @@ viele Merges ergeben, ohne dass der Turm bis zur Oberkante wächst.
 - **F: Sind Undo-Züge „erlaubt“?**  
   **A:** Ja – nutze sie sparsam, um echte Fehlklicks zu korrigieren, nicht um
   jeden Versuch zu perfektionieren.
+
 

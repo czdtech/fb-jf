@@ -34,6 +34,8 @@ Medieval Solitaire reprend le classique solitaire Klondike dans un univers de ch
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Click` `drag` `Click` `click`
 
 *   **Déplacer des cartes :** clique‑glisse pour déplacer les cartes entre les colonnes du tableau ou vers les piles de fondation.
 *   **Piocher :** clique sur la pioche (en haut à gauche le plus souvent) pour retourner une nouvelle carte sur le talon.
@@ -53,4 +55,5 @@ Medieval Solitaire reprend le classique solitaire Klondike dans un univers de ch
 <!-- i18n:faq:id=faq:medieval-solitaire:q-can-i-undo-a-fe1ffcbf -->
 *   **Q : Puis‑je annuler un mouvement ?**
     *   **R :** La plupart des versions numériques proposent un bouton « Annuler » qui te permet de revenir en arrière sur une ou plusieurs actions, pratique pour corriger une erreur ou tester une autre ligne de jeu.
+
 

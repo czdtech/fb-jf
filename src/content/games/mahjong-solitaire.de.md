@@ -64,6 +64,8 @@ wirkt es beruhigend und ist für viele ein tägliches Kopfpuzzle.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `mouse` `Click` `Click`
 
 Das Spiel wird mit Maus oder Touch gesteuert.
 
@@ -91,4 +93,5 @@ Das Spiel wird mit Maus oder Touch gesteuert.
     *   **A:** Ja, die Motive sind unterschiedlich, aber sie gehören zur selben
         Gruppe. Du kannst jeden Stein aus „Seasons“ mit jedem anderen aus
         derselben Gruppe kombinieren – genauso wie bei „Flowers“.
+
 

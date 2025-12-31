@@ -26,6 +26,8 @@ Mahjongg Solitaire, aussi appelé Mahjong Solitaire ou Shanghai Solitaire, est u
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Mouse` `mouse` `click` `tap`
 
 - **Souris / tactile :** utilise la souris ou ton doigt pour sélectionner les tuiles que tu veux associer.
 
@@ -43,5 +45,6 @@ S’il reste des tuiles mais qu’aucune paire libre n’est disponible, la part
 **Y a‑t‑il une limite de temps ?**  
 
 Certaines variantes sont chronométrées et ajoutent une pression supplémentaire, tandis que d’autres te laissent jouer à ton rythme pour une expérience plus relaxante.
+
 
 

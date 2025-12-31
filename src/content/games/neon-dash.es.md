@@ -45,6 +45,8 @@ con puntos de control o recorridos que tienes que completar de una sola vez.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Space` `Click` `Tap` `press`
 
 - Salto: barra espaciadora, clic o toque (en algunas versiones la duración de la
   pulsación cambia la altura).  
@@ -67,4 +69,5 @@ con puntos de control o recorridos que tienes que completar de una sola vez.
 - P: Algún consejo para las últimas fases?  
   R: Baja el ritmo mental, cuenta los golpes de música y comprométete con
   ventanas de tiempo que ya hayas practicado.
+
 

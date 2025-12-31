@@ -48,6 +48,8 @@ ropas, accesorios y objetos decorativos para tu mascota espacial.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click` `Tap` `mouse`
 
 *   **Clic/toque:** usa el ratón (en PC) o el dedo (en móvil) para interactuar
     con Zuub, abrir menús y jugar a los minijuegos.
@@ -71,4 +73,5 @@ ropas, accesorios y objetos decorativos para tu mascota espacial.
     *   **R:** Normalmente estos juegos se centran en una sola mascota. Consulta
         las opciones concretas de tu versión, pero lo habitual es desarrollar un
         vínculo fuerte con un único compañero espacial.
+
 

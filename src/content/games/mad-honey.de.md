@@ -51,6 +51,8 @@ Durchflügen durch Patrouillen und sicheren Rückwegen.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Arrow keys` `WASD` `drag`
 
 - **Bewegung:** Mit Pfeiltasten/WASD oder per Drag-Steuerung.  
 - **Interaktion:** Nektar wird beim Kontakt automatisch eingesammelt.  
@@ -74,4 +76,5 @@ Durchflügen durch Patrouillen und sicheren Rückwegen.
 - **F: Kann ich Treffer einfach „tanken“?**  
   **A:** In vielen Modi werden Lebenspunkte hart bestraft. Priorisiere deswegen
   immer das Überleben gegenüber einzelnen Nektarpunkten.
+
 

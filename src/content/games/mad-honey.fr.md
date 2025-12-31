@@ -32,6 +32,8 @@ Mad Honey est une courte aventure arcade à prendre en main en quelques secondes
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Arrow keys` `WASD` `drag`
 
 - Déplacement : touches fléchées / WASD ou glisser du doigt selon la version.
 - Interaction : les fleurs et objets se ramassent automatiquement au contact.
@@ -51,5 +53,6 @@ Mad Honey est une courte aventure arcade à prendre en main en quelques secondes
 <!-- i18n:faq:id=faq:mad-honey:can-i-tank-hits-e3029f36 -->
 - Q : Puis‑je encaisser plusieurs coups ?  
   R : De nombreux modes punissent lourdement la perte de vie ou la chute à zéro. Priorise la survie et des trajectoires sûres plutôt que les risques inutiles.
+
 
 

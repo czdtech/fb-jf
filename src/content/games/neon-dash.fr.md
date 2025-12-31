@@ -32,6 +32,8 @@ Neon Dash est un runner basé sur les réflexes, rempli de pics, de plateformes 
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Space` `Click` `Tap` `press`
 
 - Sauter : barre d’espace, clic ou tap (dans certaines versions, la durée d’appui influence la hauteur).  
 - Pause / recommencer : boutons à l’écran ou raccourcis clavier.
@@ -50,5 +52,6 @@ Neon Dash est un runner basé sur les réflexes, rempli de pics, de plateformes 
 <!-- i18n:faq:id=faq:neon-dash:any-tip-for-lategame-36f88010 -->
 - **Q : Un conseil pour les derniers niveaux ?**  
   **R :** Ralentis mentalement, compte les temps et reste fidèle au rythme que tu as appris lors de tes tentatives précédentes.
+
 
 

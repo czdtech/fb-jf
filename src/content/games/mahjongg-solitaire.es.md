@@ -44,6 +44,8 @@ completo encontrando y emparejando parejas de fichas idénticas que estén
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Mouse` `mouse` `click` `tap`
 
 - **Ratón/táctil:** usa el ratón o el dedo para hacer clic o tocar las fichas y
   seleccionarlas.
@@ -65,4 +67,5 @@ da por perdida. Algunas versiones digitales ofrecen un botón de "barajar" o
 
 Algunas versiones de Mahjongg Solitaire son cronometradas y añaden urgencia, y
 otras permiten jugar a un ritmo más relajado.
+
 

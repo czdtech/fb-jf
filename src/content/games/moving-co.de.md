@@ -50,6 +50,8 @@ räumliches Rätsel unter Zeitdruck.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Arrow keys` `WASD` `drag` `Drop`
 
 - **Bewegen:** Pfeiltasten oder WASD, teils per virtueller Joystick.  
 - **Aufheben/Absetzen:** Kontextaktion bei Kontakt oder eigene Taste.  
@@ -72,4 +74,5 @@ räumliches Rätsel unter Zeitdruck.
 - **F: Wie bekomme ich 3 Sterne?**  
   **A:** Wenige, gut geplante Routen, frühes Bewegen großer Objekte und ordentlich
   gestapelte Ladungen sind der Schlüssel.
+
 

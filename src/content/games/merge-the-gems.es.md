@@ -48,6 +48,8 @@ puntos y monedas.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `drag` `drop` `Click` `drag` `drop` `Click`
 
 El juego se maneja con controles sencillos de arrastrar y soltar.
 
@@ -76,4 +78,5 @@ El juego se maneja con controles sencillos de arrastrar y soltar.
     *   **R:** Necesitas liberar espacio. Revisa si hay merges disponibles; si
         de verdad no queda ninguno, utiliza la opción de vender o eliminar una
         gema de poco valor para abrir un hueco.
+
 

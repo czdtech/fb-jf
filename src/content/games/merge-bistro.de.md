@@ -51,6 +51,8 @@ Produktionsstationen zwingen dich dazu, dein Brett gut zu organisieren.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Drag` `tap`
 
 - Ziehe identische Zutaten aufeinander, um sie zu merg en.
 - Tippe auf Kochstationen, um Gerichte zuzubereiten.
@@ -73,4 +75,5 @@ Produktionsstationen zwingen dich dazu, dein Brett gut zu organisieren.
 - **F: Muss ich merg es immer sofort ausführen?**  
   **A:** Nein. Plane vorausschauend – unnötige Merg es können dir wertvolle
   Slots blockieren, ohne dir kurzfristig zu helfen.
+
 

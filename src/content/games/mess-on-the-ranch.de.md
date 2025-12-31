@@ -53,6 +53,8 @@ Priorisierung.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Drag` `tap`
 
 - Bewege deine Figur per Tipp/Drag oder mit den Richtungstasten und interagiere
   kontextabhängig mit Tieren, Werkzeugen und Zäunen.
@@ -74,4 +76,5 @@ Priorisierung.
 - **F: Die Zeitlimits sind zu knapp.**  
   **A:** Ignoriere optionale Aufräumziele und konzentriere dich auf die
   Pflichtaufgaben des Levels.
+
 

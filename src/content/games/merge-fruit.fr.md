@@ -34,6 +34,8 @@ Merge Fruit combine des chutes de fruits avec des règles de fusion. Tu laisses 
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `tap` `drop`
 
 - Déplace le fruit à gauche ou à droite pour viser, puis appuie pour le lâcher ; certaines versions permettent aussi de maintenir ou d’annuler un coup.
 
@@ -49,5 +51,6 @@ Merge Fruit combine des chutes de fruits avec des règles de fusion. Tu laisses 
 <!-- i18n:faq:id=faq:merge-fruit:are-undos-fair-game-36977bd9 -->
 - **Q : Les annulations ne sont‑elles pas de la triche ?**  
   **R :** Utilise‑les avec parcimonie pour corriger un vrai mis‑clic, pas pour refaire chaque tentative ; ton score n’en sera que plus gratifiant.
+
 
 

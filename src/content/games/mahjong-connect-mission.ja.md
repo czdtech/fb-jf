@@ -31,6 +31,8 @@ Mahjong Connect: Missionは、麻雀ソリティアとは違い、同じタイ�
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Click`
 
 - 同じタイルを2枚クリックして接続します（線が引ける場合のみ）。ヒント/シャッフルはUIから使います。
 
@@ -48,4 +50,5 @@ Mahjong Connect: Missionは、麻雀ソリティアとは違い、同じタイ�
 <!-- i18n:faq:id=faq:mahjong-connect-mission:any-symbol-confusion-tips-cd295f6b -->
 - **Q: 絵柄が紛らわしいときのコツはありますか？**  
   A: 字牌の種類やフラワー/シーズンの違いを一度覚えると楽になります。絵が小さいときはズームも活用しましょう。
+
 

@@ -42,6 +42,8 @@ interruptores para abrir puertas sin pasarte del tiempo objetivo.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Drag` `WASD`
 
 - Arrastra o usa WASD para mover al personaje; usa reinicio o deshacer si el
   juego lo permite.
@@ -63,4 +65,5 @@ interruptores para abrir puertas sin pasarte del tiempo objetivo.
 - P: ¿Algún consejo para hacer speedrun?  
   R: Abraza la pared interior en las curvas y corta lo máximo posible las
   esquinas, siempre que el juego permita ese tipo de desplazamiento.
+
 

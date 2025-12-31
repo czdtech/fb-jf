@@ -49,6 +49,8 @@ posicionarás en los puntos clave del campo de batalla.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `mouse` `Click` `Click` `drag` `drop` `Click` `drag`
 
 El juego se controla por completo con ratón o táctil.
 
@@ -79,4 +81,5 @@ El juego se controla por completo con ratón o táctil.
     *   **R:** Asegúrate de que todas las casillas defensivas estén ocupadas,
         fusiona siempre que puedas y coloca tus unidades de nivel más alto en
         las posiciones de mayor impacto.
+
 

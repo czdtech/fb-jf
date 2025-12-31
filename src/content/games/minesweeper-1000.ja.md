@@ -32,6 +32,8 @@ Minesweeper 1000は、クラシックな地雷ゲームの大規模バージョ�
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `click` `click`
 
 - タイルをクリック/タップして明らかにします。
 - 右クリック/長押しでフラグを配置します。
@@ -49,4 +51,5 @@ Minesweeper 1000は、クラシックな地雷ゲームの大規模バージョ�
 <!-- i18n:faq:id=faq:minesweeper-1000:any-tip-for-early-game-2a5266e2 -->
 - **Q: 勝つための最良の戦略は？**  
   A: 体系的に作業し、パターンを学び、忍耐強くいてください。
+
 

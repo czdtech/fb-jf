@@ -44,6 +44,8 @@ entfernst.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Mouse` `mouse` `click` `tap`
 
 - **Maus/Touch:** Wähle Steine per Klick/Tap aus, um ein Paar zu bilden.
 
@@ -60,4 +62,5 @@ als verloren – außer die digitale Version bietet Shuffle- oder Hinweisfunktio
 **Gibt es ein Zeitlimit?**  
 Einige Varianten sind zeitlich begrenzt und stellen dich zusätzlich unter
 Druck, andere lassen dir unbegrenzt Zeit für einen entspannten Spielstil.
+
 

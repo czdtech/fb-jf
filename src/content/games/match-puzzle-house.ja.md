@@ -31,6 +31,8 @@ Match Puzzle Houseは、マッチ3パズルとホーム改装を組み合わせ�
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Drag`
 
 - スワップするためにアイテムをドラッグするか、クリック/タップします。
 - パズルを解決した後、報酬を使用して改装します。
@@ -47,4 +49,5 @@ Match Puzzle Houseは、マッチ3パズルとホーム改装を組み合わせ�
 <!-- i18n:faq:id=faq:match-puzzle-house:best-generic-booster-8d54c24f -->
 - **Q: デザインの選択は重要ですか？**  
   A: ほとんどは見た目の要素です。好みで選べます。
+
 

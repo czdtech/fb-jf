@@ -32,6 +32,8 @@ Metal Guns Fury est un run‑and‑gun en défilement horizontal inspiré des gr
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `WASD` `Click` `Space`
 
 - Déplacement : flèches ou WASD.  
 - Tir : touche J ou clic.  
@@ -51,5 +53,6 @@ Metal Guns Fury est un run‑and‑gun en défilement horizontal inspiré des gr
 <!-- i18n:faq:id=faq:metal-guns-fury:which-weapon-is-best-8e684d4d -->
 - **Q : Quelle arme est la plus efficace ?**  
   **R :** Le fusil à pompe excelle contre les groupes proches, le fusil d’assaut est polyvalent à moyenne distance et les roquettes sont réservées aux cibles lourdes et aux boss.
+
 
 

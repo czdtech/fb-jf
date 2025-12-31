@@ -31,6 +31,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `mouse` `Click` `click`
 
 ゲームは、シンプルなクリック/タップで操作できます。
 
@@ -51,4 +53,5 @@ locale: ja
 <!-- i18n:faq:id=faq:mahjong-classic:q-i-have-no-more-9db97c8a -->
 *   **Q: もう移動がありません。ゲームは終わりですか？**
     *   **A:** 必ずしも終わりではありません。多くのバージョンには、残りのタイルを並べ替えて続行できる「シャッフル」機能があります。
+
 

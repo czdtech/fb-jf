@@ -52,6 +52,8 @@ Runs von chaotischen Niederlagen.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `WASD` `Click` `Space`
 
 - **Bewegen:** Pfeiltasten oder WASD.  
 - **Schießen:** Taste J oder Mausklick (je nach Version).  
@@ -78,4 +80,5 @@ Runs von chaotischen Niederlagen.
   **A:** Schrotflinten dominieren auf kurze Distanz, Gewehre sind gut auf
   mittlere Entfernung, und Raketen sind ideal gegen gepanzerte Gegner oder
   Gruppen.
+
 

@@ -33,6 +33,8 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作说明
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `mouse` `Click` `Click`
 
 游戏使用鼠标或触摸屏控制。
 
@@ -53,3 +55,4 @@ releaseDate: 2025-10-17T00:00:00.000Z
 <!-- i18n:faq:id=faq:mahjong-solitaire:q-are-the-seasonflower-tiles-bd5c0f97 -->
 *   **问：季节牌和花牌图案都不一样，真的能互相配吗？**
     *   **答：** 可以。虽然图案不同，但它们属于同一功能组，只要同属"季节"或"花"组，就可以相互匹配并从牌阵中移除。
+

@@ -53,6 +53,8 @@ dass du wahllos merg st – durchdachte Ketten sind der Schlüssel.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Drag` `tap`
 
 - Ziehe Objekte derselben Art zusammen, um sie zu merg en.
 - Tippe auf Gebäude, um Ressourcen einzusammeln oder Produktionen zu starten.
@@ -75,4 +77,5 @@ dass du wahllos merg st – durchdachte Ketten sind der Schlüssel.
 - **F: Soll ich wirklich alles merg en?**  
   **A:** Nein. Merg e bevorzugt in Richtung von Quests und Gebäuden, die neue
   Funktionen freischalten, statt wahllos jede Ressource hochzustufen.
+
 

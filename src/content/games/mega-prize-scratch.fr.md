@@ -31,6 +31,8 @@ Mega Prize Scratch simule un ticket à gratter virtuel : tu frottes la surface 
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Drag` `press` `enter`
 
 - Fais glisser pour gratter les zones, ou utilise les boutons pour « tout révéler », acheter une nouvelle carte ou entrer dans les manches bonus.
 
@@ -46,5 +48,6 @@ Mega Prize Scratch simule un ticket à gratter virtuel : tu frottes la surface 
 <!-- i18n:faq:id=faq:mega-prize-scratch:do-bonuses-improve-odds-52748e97 -->
 - **Q : Les bonus améliorent‑ils vraiment mes chances ?**  
   **R :** Ils changent surtout la volatilité et la façon dont les gains sont distribués, plus que l’espérance de gain à long terme.
+
 
 

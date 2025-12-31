@@ -52,6 +52,8 @@ sie zu immer stärkeren Formen und platzierst sie auf dem Schlachtfeld, wo sie
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click` `Click` `drag` `Drag`
 
 *   **Geist beschwören:** Klicke auf „Summon“, um einen neuen Basis-Wächter auf
     dem Merge-Board erscheinen zu lassen.  
@@ -81,4 +83,5 @@ sie zu immer stärkeren Formen und platzierst sie auf dem Schlachtfeld, wo sie
         zwei sehr starke Wächter aufzubauen, statt viele schwache zu setzen. Ein
         einzelner hochstufiger Wächter macht häufig mehr Schaden als mehrere
         niedrigstufige zusammen.
+
 

@@ -60,6 +60,8 @@ sichtbar, wenn du das Layout von mehreren Blickwinkeln aus betrachtest.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click` `click` `click` `drag`
 
 *   **Steine auswählen:** Klicke auf einen freien Stein und danach auf seinen
     identischen, ebenfalls freien Partner, um das Paar zu entfernen.
@@ -87,3 +89,4 @@ sichtbar, wenn du das Layout von mehreren Blickwinkeln aus betrachtest.
     *   **A:** Das sind Sondersteine. Jede Blume kann mit jeder beliebigen anderen
         Blumenkarte kombiniert werden, und dasselbe gilt für Jahreszeiten – die
         Motive müssen nicht exakt identisch sein.
+

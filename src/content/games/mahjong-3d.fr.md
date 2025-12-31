@@ -36,6 +36,8 @@ Mahjong 3D reprend le gameplay de Mahjong Solitaire mais le transpose dans l'esp
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Click` `click` `click` `drag`
 
 *   **Sélection des tuiles :** clique sur une tuile libre pour la sélectionner, puis sur sa jumelle libre pour les appairer et les retirer.
 *   **Rotation du puzzle :** utilise les flèches à l'écran ou fais glisser la souris/le doigt sur le fond pour faire pivoter la structure 3D.
@@ -54,3 +56,4 @@ Mahjong 3D reprend le gameplay de Mahjong Solitaire mais le transpose dans l'esp
 <!-- i18n:faq:id=faq:mahjong-3d:q-what-do-the-flower-d1c2f5f1 -->
 *   **Q : À quoi servent les tuiles Fleurs et Saisons ?**
     *   **R :** Ce sont des tuiles spéciales : n'importe quelle tuile Fleur peut être associée avec une autre Fleur, et de même pour les tuiles Saison, même si les dessins ne sont pas parfaitement identiques.
+

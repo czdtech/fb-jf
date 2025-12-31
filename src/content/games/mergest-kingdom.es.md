@@ -43,6 +43,8 @@ limitados castigan las fusiones impulsivas y premian las escaleras planificadas.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Drag` `tap`
 
 - Arrastra para fusionar objetos; toca edificios para cobrar recursos; muévete
   entre regiones usando el mapa.
@@ -64,4 +66,5 @@ limitados castigan las fusiones impulsivas y premian las escaleras planificadas.
 - P: ¿Conviene fusionar absolutamente todo?  
   R: No; céntrate en las cadenas que estén ligadas a misiones y edificios que
   desbloquean nuevas funciones.
+
 

@@ -44,6 +44,8 @@ Muster, deine Konzentration und etwas Vorausplanung.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Mouse` `mouse` `click` `tap`
 
 - **Maus/Touch:** Wähle Steine per Klick/Tap aus, um sie zu kombinieren.
 
@@ -63,4 +65,5 @@ ist dies mit Punktabzug verbunden.
 Trainiere dein Mustererkennen, plane ein paar Züge im Voraus und räume zuerst
 Steine, die viele andere blockieren. Versuche, Serien von schnellen Matches zu
 spielen, um Bonuspunkte mitzunehmen.
+
 

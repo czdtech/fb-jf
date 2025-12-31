@@ -34,6 +34,8 @@ Mess on the Ranch est un puzzle d’organisation mignon qui se déroule dans un 
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Drag` `tap`
 
 - Glisse ou touche l’écran pour déplacer ton personnage et interagir avec les animaux, les outils, les clôtures et les tas de débris ; des invites contextuelles apparaissent pour les actions de réparation et de livraison.
 
@@ -49,5 +51,6 @@ Mess on the Ranch est un puzzle d’organisation mignon qui se déroule dans un 
 <!-- i18n:faq:id=faq:mess-on-the-ranch:timers-too-tight-628524e0 -->
 - **Q : Les timers sont trop serrés.**  
   **R :** Concentre‑toi uniquement sur les objectifs obligatoires et ignore les détritus ou bonus secondaires tant que tu n’es pas à l’aise avec la carte.
+
 
 

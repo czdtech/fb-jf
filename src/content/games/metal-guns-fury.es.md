@@ -43,6 +43,8 @@ explosiones.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `WASD` `Click` `Space`
 
 - Movimiento: flechas o WASD.  
 - Disparo: J o clic.  
@@ -67,4 +69,5 @@ explosiones.
 - P: ¿Cuál es el mejor arma?  
   R: La escopeta para grupos cercanos, el rifle para media distancia y los
   cohetes para enemigos pesados o grandes agrupaciones.
+
 

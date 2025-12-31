@@ -49,6 +49,8 @@ Je nach Modus erwarten dich Level mit Checkpoints oder One-Shot-Runs.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Space` `Click` `Tap` `press`
 
 - **Springen:** Leertaste, Klick oder Tap (in manchen Versionen verändert die
   Druckdauer die Sprunghöhe).
@@ -71,4 +73,5 @@ Je nach Modus erwarten dich Level mit Checkpoints oder One-Shot-Runs.
 - **F: Tipps für späte Level?**  
   **A:** Nimm mental Tempo raus, zähle innerlich mit und halte dich an
   eintrainierte Zeitfenster, statt spontan zu reagieren.
+
 

@@ -30,6 +30,8 @@ My Space Pet te propose d'adopter et de prendre soin d'une adorable créature ex
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Click` `Tap` `mouse`
 
 *   Clique ou appuie sur l'écran pour interagir avec Zuub, ouvrir les menus, lancer les mini‑jeux et sélectionner les objets.
 
@@ -47,4 +49,5 @@ My Space Pet te propose d'adopter et de prendre soin d'une adorable créature ex
 <!-- i18n:faq:id=faq:my-space-pet:q-can-i-have-more-f4d87843 -->
 *   **Q : Puis‑je avoir plusieurs animaux ?**
     *   **R :** La plupart des versions se concentrent sur un seul compagnon interstellaire pour renforcer le lien avec lui. Vérifie les options du jeu si plusieurs slots sont disponibles.
+
 

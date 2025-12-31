@@ -49,6 +49,8 @@ batalla para que defiendan automáticamente tus fronteras.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `drag` `drop` `Click` `Click` `drag` `Drag` `drag`
 
 El juego se maneja con controles sencillos de arrastrar y soltar.
 
@@ -78,4 +80,5 @@ El juego se maneja con controles sencillos de arrastrar y soltar.
 *   **P: Mis héroes dejan de atacar de repente, ¿es un bug?**
     *   **R:** Suele ocurrir entre oleadas. Cuando aparezca la siguiente, tus
         héroes volverán a entrar en acción automáticamente.
+
 

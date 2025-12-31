@@ -52,6 +52,8 @@ wie sie Welle um Welle automatisch bekämpfen.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `drag` `drop` `Click` `Click` `drag` `Drag` `drag`
 
 Gespielt wird mit einfacher Drag-and-drop-Steuerung.
 
@@ -80,4 +82,5 @@ Gespielt wird mit einfacher Drag-and-drop-Steuerung.
 *   **F: Warum greifen meine Helden manchmal nicht an?**
     *   **A:** Zwischen den Wellen kann es kurze Pausen geben. Sobald die nächste
         Gegnerwelle erscheint, setzen deine Helden den Angriff automatisch fort.
+
 

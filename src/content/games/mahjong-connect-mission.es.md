@@ -44,6 +44,8 @@ controlado.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click`
 
 - Haz clic en dos fichas idénticas para conectarlas si existe un camino legal;
   las opciones de pista y barajado dependen de la interfaz.
@@ -64,4 +66,5 @@ controlado.
 - P: ¿Algún truco para no confundir símbolos?  
   R: Familiarízate con los palos y las fichas de flores/estaciones; hacer zoom
   ayuda mucho en diseños con arte muy detallado.
+
 

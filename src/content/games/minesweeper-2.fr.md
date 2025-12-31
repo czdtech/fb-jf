@@ -34,6 +34,8 @@ Minesweeper est un puzzle de logique solo culte, présent sur les ordinateurs de
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `click` `click` `click`
 
 *   **Révéler une case :** clic gauche sur une case couverte.
 *   **Poser un drapeau :** clic droit pour marquer une mine présumée, clic droit à nouveau pour retirer le drapeau.
@@ -52,3 +54,4 @@ Minesweeper est un puzzle de logique solo culte, présent sur les ordinateurs de
 <!-- i18n:faq:id=faq:minesweeper-2:q-do-i-have-to-0533f6fd -->
 *   **Q : Suis‑je obligé d'utiliser des drapeaux pour gagner ?**
     *   **R :** Non, les drapeaux sont juste une aide visuelle. Tu gagnes en révélant toutes les cases sûres, même si tu n'as pas marqué toutes les mines.
+

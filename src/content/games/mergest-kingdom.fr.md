@@ -34,6 +34,8 @@ Mergest Kingdom combine des chaînes de fusion par 3 avec la construction d’un
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Drag` `tap`
 
 - Fais glisser les objets identiques pour les fusionner, touche les bâtiments pour collecter les ressources, et utilise la carte pour naviguer entre les différentes régions de ton royaume.
 
@@ -49,5 +51,6 @@ Mergest Kingdom combine des chaînes de fusion par 3 avec la construction d’un
 <!-- i18n:faq:id=faq:mergest-kingdom:worth-merging-everything-7820ba33 -->
 - **Q : Dois‑je tout fusionner systématiquement ?**  
   **R :** Non. Concentre‑toi sur les objets liés aux quêtes et aux bâtiments qui débloquent de nouvelles fonctionnalités ; fusionner tout le reste peut gaspiller de la place et de l’énergie.
+
 
 

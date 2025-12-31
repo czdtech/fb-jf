@@ -33,6 +33,8 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作说明
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `drag` `drop` `Click` `drag` `drop` `Click` `click`
 
 本作的操作非常直观，以拖拽为主：
 
@@ -53,3 +55,4 @@ releaseDate: 2025-10-17T00:00:00.000Z
 <!-- i18n:faq:id=faq:merge-cakes:q-my-board-is-full-2c9ccb4e -->
 *   **问：如果盘子全满，完全动不了了怎么办？**
     *   **答：** 先仔细检查是否还有被忽略的可合成组合，尽量通过合成释放空间。如果确实没有任何可合并的蛋糕，可以使用垃圾桶功能出售一块低等级蛋糕，换取少量金币并腾出一个盘位。
+

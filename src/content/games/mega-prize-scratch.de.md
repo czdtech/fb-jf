@@ -48,6 +48,8 @@ strategische Herausforderung.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Drag` `press` `enter`
 
 - Mit der Maus oder per Touch über die Felder wischen, um sie freizurubbeln.  
 - Buttons nutzen, um alles auf einmal aufzudecken, neue Karten zu kaufen oder
@@ -70,4 +72,5 @@ strategische Herausforderung.
 - **F: Verbessern Bonusspiele meine Gewinnchancen?**  
   **A:** Sie verändern vor allem die Varianz. Langfristig bleibt der
   Erwartungswert ähnlich – sie bringen aber mehr Abwechslung.
+
 

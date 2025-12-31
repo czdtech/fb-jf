@@ -43,6 +43,8 @@ lograr puntuaciones bajas y tiros espectaculares.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Drag`
 
 - Apuntar: arrastra para fijar la dirección.  
 - Potencia: tira hacia atrás para ajustar la fuerza y suelta para golpear.  
@@ -65,4 +67,5 @@ lograr puntuaciones bajas y tiros espectaculares.
 - P: ¿Cómo gestiono los obstáculos móviles?  
   R: Observa un ciclo completo antes de golpear y solo lanza cuando tengas clara
   la ventana de paso.
+
 
