@@ -62,6 +62,7 @@ les plus connus au monde.
   dame ou en autre pièce majeure).
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 #### Stratégie de base
 
 
@@ -185,4 +186,3 @@ n’est possible qu’au tour directement après ce double pas.
 **4. Le roi peut‑il capturer une pièce ?**  
 R : Oui, tant que la case de destination n’est pas contrôlée par une pièce
 adverse. Le roi ne peut jamais se mettre lui‑même en échec en capturant.
-

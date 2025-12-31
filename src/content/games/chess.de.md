@@ -47,6 +47,7 @@ anders; ihre Bewegungen zu verstehen, ist die Grundlage für jede Partie.
     Passant* und *Umwandlung*.
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 #### Eröffnungsgrundsätze

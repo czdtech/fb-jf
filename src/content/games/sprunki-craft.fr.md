@@ -67,7 +67,7 @@ Sprunki Craft convient aussi bien :
 - aux débutants qui souhaitent se lancer dans la création musicale de façon
   ludique.
 
+<!-- i18n:section:controls -->
 Sprunki Craft est un terrain de jeu créatif où blocs, personnages et musique
 se rejoignent. Rejoins‑le et compose ta propre bande‑son cubique !
-
 

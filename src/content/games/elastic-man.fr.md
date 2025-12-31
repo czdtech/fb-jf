@@ -45,6 +45,7 @@ limites de la physique.
 - **Reset / options** : selon la version, un bouton permet de réinitialiser ou
   d’ajuster la qualité graphique.
 
+<!-- i18n:section:tips -->
 ### Foire aux questions (FAQ)
 
 
@@ -60,4 +61,3 @@ R : Non, Elastic Man est purement un jouet interactif pour le fun.
 **Q : Puis‑je l’utiliser comme anti‑stress ?**  
 R : C’est justement l’idée : malaxer virtuellement un visage élastique peut
 être étonnamment relaxant.
-

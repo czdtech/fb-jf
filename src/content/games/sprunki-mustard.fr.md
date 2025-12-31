@@ -42,6 +42,7 @@ volontairement troublant.
   sentiment d’étrangeté.
 - **Bonus cachés :** certaines combinaisons de personnages déclenchent des
 
+<!-- i18n:section:controls -->
 ### Operation of Sprunki Mustard:
   animations spéciales parfaitement dans le thème.
 
@@ -50,5 +51,4 @@ volontairement troublant.
 Sprunki Mustard s’adresse aux joueurs qui aiment les Mods un peu dérangeants
 et qui veulent voir jusqu’où on peut pousser l’univers Sprunki. Ose composer
 ta propre « symphonie moutarde » !
-
 

@@ -27,6 +27,7 @@ donc de bien séquencer tes actions pour sortir les assiettes au moment parfait
 et éviter de brûler les plats.
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1.  **Commence par ce qui prend le plus de temps**  
@@ -81,4 +82,3 @@ et éviter de brûler les plats.
   déplacements quand les commandes explosent.
 <!-- i18n:faq:id=faq:egg-maker:any-trick-for-omelets-with-7e3bef76 -->
 **Q : Je brûle tout le temps mes œufs, que faire ?**  
-
