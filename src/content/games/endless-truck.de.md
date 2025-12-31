@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: endless-truck
-title: "Endless Truck"
+title: Endless Truck
 description: >-
-  Endless Truck ist ein Stunt-Runner: Steuere dein Tempo, lande sauber und
-  kette Boosts aneinander, während du unterwegs Geld und Upgrades einsammelst.
+  Endless Truck ist ein Stunt-Runner: Steuere dein Tempo, lande sauber und kette
+  Boosts aneinander, während du unterwegs Geld und Upgrades einsammelst.
 iframeSrc: 'https://3a73fjju0knmg.h5games.usercontent.goog/v/5ammj72815kno/'
 thumbnail: /new-images/thumbnails/endless-truck.png
 tags:
@@ -25,6 +25,7 @@ belohnen sanftes Gasgeben und kontrollierte Überschläge; unsaubere Landungen
  Missionen schaltest du Upgrades für Motor, Federung und Boost frei, die dein
  Höchsttempo und die Fahrzeugstabilität erhöhen.
 
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1. **Flach landen:** Versuche, mit möglichst waagerechten Rädern aufzusetzen,
@@ -46,6 +47,7 @@ belohnen sanftes Gasgeben und kontrollierte Überschläge; unsaubere Landungen
 - Neigen: A/D oder Links/Rechts.  
 - Boost: Shift oder Leertaste (je nach Host).
 
+<!-- i18n:section:tips -->
 ### Fortgeschrittene Tipps
 
 - **Pumping:** Tippe kurz auf die Bremse vor einem Abhang, um die Fahrzeugnase

@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: maze-puzzle
-title: "Maze Puzzle"
+title: Maze Puzzle
 description: >-
   Maze Puzzle ist ein übersichtliches Labyrinth-Spiel: Plane kürzeste Wege,
   locke patrouillierende Wachen aus der Bahn und finde mit den richtigen
@@ -26,6 +26,7 @@ Schlüssel in einer sinnvollen Reihenfolge einsammelst und Sackgassen ebenso wie
 Sichtkegel der Wachen meidest.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Schlüsselreihenfolge planen**  

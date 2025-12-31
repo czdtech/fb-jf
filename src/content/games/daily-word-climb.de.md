@@ -28,6 +28,7 @@ an ihre richtige Position. Nach jedem Zug färben sich die Kacheln um und geben
 Zugzahl musst du deine Swaps gut planen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  Farbcodes verstehen:

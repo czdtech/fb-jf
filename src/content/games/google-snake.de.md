@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: google-snake
-title: "Google Snake"
+title: Google Snake
 description: >-
-  Moderne Variante von Snake: Steuere eine immer länger werdende Schlange,
-  friss Früchte, meide Kollisionen und jage Highscores in verschiedenen
+  Moderne Variante von Snake: Steuere eine immer länger werdende Schlange, friss
+  Früchte, meide Kollisionen und jage Highscores in verschiedenen
   Regelvarianten.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp44/chenling/20230830/05/index.html
@@ -42,6 +42,7 @@ Spielfeldgröße, Hindernisse und Effekte spezieller Items.
 - Pfeiltasten oder **WASD**, um die Richtung der Schlange zu steuern.  
 - Pausieren/Neustart erfolgt über Schaltflächen in der Benutzeroberfläche.
 
+<!-- i18n:section:tips -->
 ### Tipps
 
 - Vermeide 180°-Wendungen direkt in deinen eigenen Hals – größere Bögen sind

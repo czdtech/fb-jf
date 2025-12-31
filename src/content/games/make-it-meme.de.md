@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: make-it-meme
-title: "Make It Meme"
+title: Make It Meme
 description: >-
   Make It Meme ist ein Multiplayer-Online-Partyspiel, in dem ihr gegeneinander
   antretet, indem ihr Memes erstellt und bewertet.
@@ -27,6 +27,7 @@ werden alle Kreationen gegenseitig bewertet und wer am meisten Punkte sammelt,
 gewinnt die Runde. Dank Echtzeit-Online-Modus eignet sich das Spiel perfekt
 für Runden mit Freund:innen.
 
+<!-- i18n:section:tips -->
 ### Spielmodus & Ablauf
 
 1.  **Modus wählen**  

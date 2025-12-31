@@ -21,6 +21,7 @@ releaseDate: 2025-10-10T00:00:00.000Z
 Incredibox Kochari ist ein einzigartiger Fan-Mod, der die Welt von Incredibox wunderschön mit den reichen Traditionen der armenischen Volkskultur verschmilzt. Inspiriert vom energiegeladenen und kraftvollen armenischen Tanz „Kochari" ermöglicht diese Version Spielern, mit einer Klangpalette zu experimentieren, die tief in der Volksmusik verwurzelt ist. Sie bietet ein rhythmisches und fesselndes Erlebnis, bei dem du traditionelle Percussion, Melodien und Vocals mischen kannst, um eine überzeugende Fusion aus uralten armenischen Klängen und modernem Beatboxing zu schaffen. Die Charaktere und Animationen spiegeln ebenfalls das Thema wider, mit Visuals, die traditionelle Volkstanzbewegungen nachahmen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Gameplay-Strategie
 
 *   

@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: mahjong
-title: "Mahjong"
+title: Mahjong
 description: >-
   Mahjongg Solitaire ist ein klassisches Einzelspieler-Puzzlespiel mit
   chinesischen Mahjong-Steinen, bei dem du identische freie Paare finden musst,
@@ -26,6 +26,7 @@ zu räumen, indem du Paare aus identischen, freien Steinen bildest. Durch die
 klaren Regeln, aber anspruchsvollen Layouts ist Mahjongg Solitaire weltweit
 beliebt.
 
+<!-- i18n:section:tips -->
 ### Strategie & Spielweise
 
 1.  **Spiellayout genau betrachten**  

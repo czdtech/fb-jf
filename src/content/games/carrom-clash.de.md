@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: carrom-clash
-title: "Carrom Clash"
+title: Carrom Clash
 description: >-
   Erlebe das klassische Carrom-Brettspiel auf deinem Gerät. Ziele mit dem
   Striker, loch deine Steine und decke die Dame, um deinen Gegner in diesem
@@ -28,6 +28,7 @@ Gefühl für Winkel und kluge Taktik entscheiden darüber, wer seine Steine zuer
 vollständig abräumt.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  Ziel des Spiels: Sei der erste Spieler, der alle eigenen Steine versenkt –

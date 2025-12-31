@@ -32,6 +32,7 @@ clever planst und die Blöcke zerstörst, bevor sie den unteren Bildschirmrand
 berühren.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Winkel ausnutzen**  

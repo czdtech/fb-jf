@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: geometry-dash-world
-title: "Geometry Dash World"
+title: Geometry Dash World
 description: >-
   Geometry Dash World fasst das Rhythmus-Platforming in kurze Welten zusammen:
   Laufe, springe und fliege durch kompakte Musik-Level, sammle Orbs zum
@@ -43,6 +43,7 @@ verinnerlichen.
 - Leertaste/Maus/Touch zum Springen; Halten zum Fliegen; Practice- und
   Checkpoint-Shortcuts sind hostabhängig.
 
+<!-- i18n:section:tips -->
 ### Tipps
 
 - Lerne den Aufbau der Songs – Gefahren liegen oft auf Downbeats oder markanten

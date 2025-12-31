@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: football-penalty
-title: "Football Penalty"
+title: Football Penalty
 description: >-
   Football Penalty konzentriert sich auf Elfmeterschießen: Wähle Ecke und Höhe,
   dosiere die Schusskraft und trickse den Keeper unter Druck aus.
@@ -24,6 +24,7 @@ die richtige Ecke. Platziert geschossene Bälle ins Eck, flache Schüsse und
 spät verratene Richtungswechsel sind meist erfolgreicher als rohe Gewalt.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1. **Ecken anvisieren:** Flache Schüsse in die Ecken sind schwerer zu halten;

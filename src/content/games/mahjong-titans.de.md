@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: mahjong-titans
-title: "Mahjong Titans"
+title: Mahjong Titans
 description: >-
   Kachel-Matching-Solitaire: Räume identische Paare aus geschichteten Layouts,
   bis das Brett leer ist – und plane deine Züge so, dass du Blockaden
@@ -40,6 +40,7 @@ denen keine Matches mehr möglich sind.
 - Auswahl von Paaren per Maus oder Touch; Hinweis- und Rückgängig-Buttons je
   nach Host unterschiedlich.
 
+<!-- i18n:section:tips -->
 ### Tipps
 
 - Bevorzuge Paare, die viele neue Steine freilegen.

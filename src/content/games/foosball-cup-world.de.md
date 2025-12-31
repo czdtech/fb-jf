@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: foosball-cup-world
-title: "Foosball Cup World"
+title: Foosball Cup World
 description: >-
-  Foosball Cup World bringt schnelles Tischfußball-Feeling: platziere Schüsse
-  im richtigen Winkel, timinge Spins und verteidige clever in engen Partien.
+  Foosball Cup World bringt schnelles Tischfußball-Feeling: platziere Schüsse im
+  richtigen Winkel, timinge Spins und verteidige clever in engen Partien.
 iframeSrc: 'https://7ak26cf4bf850.h5games.usercontent.goog/v/6jmmp78dbnp50/'
 thumbnail: /new-images/thumbnails/foosball-cup-world.png
 tags:
@@ -25,6 +25,7 @@ Stangen und knackiger Ballphysik. Im Angriff zählen präzise Pässe, Schüsse a
  und verlangen präzise Kontrolle statt wildem Gekurbel.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1. **Kurzpässe spielen:** Tippe den Ball mit leichten Bewegungen zwischen

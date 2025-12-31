@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: friday-night-funkin
-title: "Friday Night Funkin"
+title: Friday Night Funkin
 description: >-
   Friday Night Funkin ist ein Week-basierter Rhythmus-Battle: Triff die Noten im
   Takt gegen verschiedene Gegner, während höhere Schwierigkeitsgrade schnellere
@@ -37,6 +37,7 @@ damit mehr Punkte als dein Gegner sammelst.
 - Pfeiltasten oder WASD zum Treffen der Noten.  
 - Enter zur Menüsteuerung.
 
+<!-- i18n:section:tips -->
 ### Tipps
 
 - Lerne die Muster über das Gehör, nicht nur über die Anzeige.

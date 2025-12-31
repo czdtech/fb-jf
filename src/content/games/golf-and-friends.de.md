@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: golf-and-friends
-title: "Golf and Friends"
+title: Golf and Friends
 description: >-
   Golf and Friends ist ein entspanntes Minigolf-Spiel mit Freunden. Lies die
   Neigungen, spiele gezielte Bankschüsse und genieße gemütliche Runden im
@@ -29,6 +29,7 @@ Sanfte Putts in Lochnähe verhindern, dass der Ball wieder herausrollt, und
 Kurs zur gemütlichen Party-Runde mit Freunden.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Tempo am Loch kontrollieren**  

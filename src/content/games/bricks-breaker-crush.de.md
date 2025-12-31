@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: bricks-breaker-crush
-title: "Bricks Breaker Crush"
+title: Bricks Breaker Crush
 description: >-
   In Bricks Breaker Crush regnen dir unzählige Blöcke entgegen – ziele deine
   Schüsse präzise, sammle zusätzliche Bälle und finde perfekte Winkel, um dich
@@ -33,6 +33,7 @@ und Power-ups kombinierst, desto länger überlebst du und desto höher wird dei
 Score.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  Flache Winkel bevorzugen: Starte deine Schüsse eher flach, damit die Bälle

@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: futoshiki
-title: "Futoshiki"
+title: Futoshiki
 description: >-
   Futoshiki schärft deine Logik: Trage Ziffern so ein, dass jede Zeile und
   Spalte alle Zahlen genau einmal enthält und alle Ungleichheitszeichen
@@ -26,6 +26,7 @@ Ungleichheitszeichen erfüllt ist. Die Zeichen bilden Ketten, mit denen sich
 starke Schlussfolgerungen ableiten lassen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1. **Ungleichheitsketten auswerten:** Aus A > B > C folgt z.B. A ≥ C + 2. Setze

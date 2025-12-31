@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: g-switch-3
-title: "G-Switch 3"
+title: G-Switch 3
 description: >-
   G-Switch 3 erhöht Tempo und Schwierigkeitsgrad: schnellere Gravity-Flips,
   komplexere Fallenketten und erweiterter lokaler Multiplayer für große
@@ -38,6 +38,7 @@ viele Spieler.
 - Eine Taste/Ein Tap pro Spieler zum Gravitätswechsel; im Mehrspieler-Modus
   erhält jeder eine eigene Taste.
 
+<!-- i18n:section:tips -->
 ### Tipps
 
 - Halte deinen Blick auf die Bildschirmmitte, um kommende Hindernisse früh zu

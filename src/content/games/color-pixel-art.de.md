@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: color-pixel-art
-title: "Color Pixel Art Classic"
+title: Color Pixel Art Classic
 description: >-
   Entspanne dich mit diesem klassischen "Malen nach Zahlen"-Pixel-Art-Spiel.
   Wähle eine Farbe, suche die passende Zahl und fülle die Pixel, bis ein
@@ -28,6 +28,7 @@ Schritt alle nummerierten Felder ausmalst, entsteht am Ende ein vollständiges
 Pixelkunstwerk – ganz ohne Zeichenkenntnisse.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  Motiv auswählen: Durchstöbere die Galerie und suche dir ein Bild aus, auf

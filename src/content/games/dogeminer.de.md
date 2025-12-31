@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: dogeminer
-title: "DogeMiner"
+title: DogeMiner
 description: >-
   DogeMiner ist ein Idle-Clicker: Klicke, um Münzen abzubauen, investiere in
   Upgrades und Helfer und automatisiere die Produktion, damit dein Einkommen
@@ -40,6 +40,7 @@ Raketen bauen, um zum Mond und darüber hinaus zu reisen.
 - Maus/Touch: Klicke auf den großen Mining-Button für manuelles Schürfen und
   verwende die Buttons im Interface, um Upgrades, Helfer und Raketen zu kaufen.
 
+<!-- i18n:section:tips -->
 ### Tipps und Strategien
 
 - Investiere früh schwerpunktmäßig in passives Einkommen, bevor du dich auf

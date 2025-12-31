@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: krishna-jump
-title: "Krishna Jump"
+title: Krishna Jump
 description: >-
   Krishna Jump ist ein rhythmischer Vertikal-Runner: Setze präzise Sprünge,
   weiche Gefahren aus und sammle Idole auf bunten Plattformen.
@@ -25,6 +25,7 @@ verschwinden Plattformen, Geschwindigkeiten ändern sich und du brauchst einen
 konstanten Rhythmus sowie schnelle Reaktionen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Im Takt bleiben**  

@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: elite-chess
-title: "Elite Chess"
+title: Elite Chess
 description: >-
-  Elite Chess hilft dir, deine Schachgrundlagen zu schärfen – solide Eröffnungen,
-  saubere Taktik und Endspieltechnik, mit denen du Vorteile sicher verwertest.
+  Elite Chess hilft dir, deine Schachgrundlagen zu schärfen – solide
+  Eröffnungen, saubere Taktik und Endspieltechnik, mit denen du Vorteile sicher
+  verwertest.
 iframeSrc: 'https://6kf8oom91mt10.h5games.usercontent.goog/v/01dag2rajhv1g/'
 thumbnail: /new-images/thumbnails/elite-chess.png
 tags:
@@ -26,6 +27,7 @@ Grundmattbilder und praxisnahe Turmendspiele. Taktikaufgaben und einstellbare
 Schwierigkeitsgrade helfen dir, Rechentiefe und Mustererkennung aufzubauen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Leitfaden
 
 1. **Eröffnungen:** Besetze das Zentrum (Bauern nach e4/d4/c4), entwickle

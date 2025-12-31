@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: light-line
-title: "Light Line"
+title: Light Line
 description: >-
   Light Line ist ein leuchtendes Linien-Puzzlespiel: Verbinde Knoten ohne
   Kreuzungen, verwalte Energie und finde elegante Wege zur Lösung.
@@ -26,6 +26,7 @@ mehrschichtige Spielfelder ins Spiel, auf denen sich mehrere Linien Energie
 teilen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Engpässe zuerst lösen**  

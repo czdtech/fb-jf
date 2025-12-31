@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: bridge
-title: "Bridge"
+title: Bridge
 description: >-
   Spiele den klassischen Partnerschafts-Kartenspielklassiker Bridge. Biete
   gemeinsam mit deinem Partner, gewinne Stiche und erfülle euren Kontrakt, um
@@ -33,6 +33,7 @@ erfüllen, während die Gegenspieler dies verhindern wollen. Bridge gilt zu
 Recht als eine der anspruchsvollsten Denksportarten der Welt.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  Das Reizen verstehen: Beim Reizen geben die Spieler reihum Gebote ab. Ein

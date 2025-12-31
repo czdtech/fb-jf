@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: kitty-scramble
-title: "Kitty Scramble"
+title: Kitty Scramble
 description: >-
-  Kitty Scramble ist ein gemütliches Wortsuchspiel: Wische über Buchstabengitter,
-  finde thematische Wörter und räume die Tafeln mit deinem Wortschatz ab.
+  Kitty Scramble ist ein gemütliches Wortsuchspiel: Wische über
+  Buchstabengitter, finde thematische Wörter und räume die Tafeln mit deinem
+  Wortschatz ab.
 iframeSrc: 'https://6cifr142haig8.h5games.usercontent.goog/v/1c963avg5lo9g/'
 thumbnail: /new-images/thumbnails/kitty-scramble.png
 tags:
@@ -29,6 +30,7 @@ Wege wichtiger und viele Zielwörter überlagern sich, sodass du flexible Pfade
 finden und deinen Wortschatz gut einsetzen musst.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Thema vorab durchdenken**  

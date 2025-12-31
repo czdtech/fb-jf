@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: lake-jump
-title: "Lake Jump"
+title: Lake Jump
 description: >-
   Lake Jump ist ein Ein-Tipp-Timing-Spiel: Hüpf über Plattformen, vermeide
   Abstürze ins Wasser und verknüpfe perfekte Sprünge.
@@ -16,6 +16,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 <!-- i18n:section:introduction -->
+<!-- i18n:section:how-to-play -->
 ## Spielanleitung
 
 ### Ausführliche Spielbeschreibung

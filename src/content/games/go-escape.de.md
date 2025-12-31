@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: go-escape
-title: "Go Escape"
+title: Go Escape
 description: >-
   Go Escape ist ein minimalistisches Escape-Plattformspiel. Weiche Stacheln und
   Sägen aus, lies die Fallen-Zyklen richtig und finde den sicheren Weg durch
@@ -27,6 +27,7 @@ aber gnadenlos: Der Reiz liegt darin, den Rhythmus jeder Falle zu verstehen und
 dann einen perfekten Lauf hinzulegen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Zyklen beobachten**  

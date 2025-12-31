@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: grass-cutter
-title: "Grass Cutter"
+title: Grass Cutter
 description: >-
   Kniffliges Raster-Puzzlespiel: Mähe jedes Feld genau einmal, plane deine Route
   mit begrenzten Zügen, weiche Hindernissen aus und bringe den Rasen perfekt in
@@ -43,6 +43,7 @@ fügen Schalter und Teleporter hinzu.
 - In vielen Versionen gibt es **Rückgängig**- und **Neustart**-Buttons, um
   Routen neu zu planen.
 
+<!-- i18n:section:tips -->
 ### Tipps
 
 - Plane von schwer erreichbaren Ecken und Sackgassen aus **rückwärts**, um

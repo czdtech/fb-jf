@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: droid-o
-title: "Droid-O"
+title: Droid-O
 description: >-
   Droid-O ist ein kompakter Top-Down-Arena-Shooter: Ziehe Gegnerwellen im Kreis,
   kombiniere Fähigkeiten geschickt und überlebe immer stärkere Angriffe mit
@@ -31,6 +31,7 @@ Sichtlinienbrüche oder Felder, die verlangsamen oder Schaden verursachen – f�
 Dich und für Gegner. Erfolgreich bist du, wenn du das Terrain ausnutzt,
 Gefahrenzonen meidest und gleichzeitig hohe Prioritätsziele fokussierst.
 
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1. **Weite Kreise statt enger Schleifen:** Große, weite Laufwege geben dir mehr
@@ -66,6 +67,7 @@ Gefahrenzonen meidest und gleichzeitig hohe Prioritätsziele fokussierst.
 - Dash/Fähigkeit: Space/E/Q (variiert je nach Build).
 - Pause/Retry: per UI-Schaltflächen.
 
+<!-- i18n:section:tips -->
 ### Fortgeschrittene Tipps
 
 - **Routenplanung:** Plane eine Acht- oder Kreisroute, die regelmäßig an

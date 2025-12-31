@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: lows-adventures-3
-title: "Low's Adventures 3"
+title: Low's Adventures 3
 description: >-
-  Dritter Teil der Retro-Plattformspiel-Reihe: engere Sprünge, neue Spezialblöcke
-  und mehr Geheimnisse in kompakten Leveln.
+  Dritter Teil der Retro-Plattformspiel-Reihe: engere Sprünge, neue
+  Spezialblöcke und mehr Geheimnisse in kompakten Leveln.
 iframeSrc: 'https://previews.customer.envatousercontent.com/files/480663659/index.html'
 thumbnail: /new-images/thumbnails/lows-adventures-3.jpg
 tags:
@@ -39,6 +39,7 @@ aufmerksame Erkundung und effiziente Routenplanung belohnen.
 - Bewegen und Springen mit Pfeiltasten oder WASD.
 - Angreifen/Interagieren je nach Host über eigene Tasten.
 
+<!-- i18n:section:tips -->
 ### Tipps
 
 - **Geduld bei beweglichen Gefahren**  
@@ -47,7 +48,7 @@ aufmerksame Erkundung und effiziente Routenplanung belohnen.
 
 - **Sammelobjekte gezielt einplanen**  
   Route Münzen oder Extras nur dann ein, wenn sie deinen Timer nicht gefährlich
-  drücken – 100 % Sammelrate braucht oft eigene Durchgänge.
+  drücken – eine vollständige Sammelrate braucht oft eigene Durchgänge.
 
 - **Auf Geräusche achten**  
   Manche Geheimbereiche werden durch leise Sounds oder auffällige
@@ -71,4 +72,3 @@ aufmerksame Erkundung und effiziente Routenplanung belohnen.
 - **F: Kann ich Level schnell neu starten, um bessere Zeiten zu holen?**  
   **A:** In vielen Versionen kannst du über Menüs oder Hotkeys sehr zügig
   neu starten und so verschiedene Routen ausprobieren.
-

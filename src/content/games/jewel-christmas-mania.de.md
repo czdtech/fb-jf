@@ -28,6 +28,7 @@ Levelziele. Hunderte Level mit glitzernden Steinen, Hindernissen und starken
 Boostern sorgen für langen Rätselspaß in stimmungsvoller Weihnachtsatmosphäre.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Auf Spezialjuwelen achten**  

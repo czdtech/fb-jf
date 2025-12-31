@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: idle-restaurants
-title: "Idle Restaurants"
+title: Idle Restaurants
 description: >-
   Baue in diesem Idle-Spiel dein eigenes Restaurant-Imperium auf! Stelle Köche
   ein, rüste Küche und Tische auf und automatisiere den Betrieb, um zum
@@ -28,6 +28,7 @@ Ziel ist es, alle Abläufe zu automatisieren, indem du Manager anheuerst, und
 immer mehr, deutlich profitablere Restaurants zu eröffnen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Den Restaurant-Workflow verstehen**  

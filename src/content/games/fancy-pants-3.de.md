@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: fancy-pants-3
-title: "Fancy Pants 3"
+title: Fancy Pants 3
 description: >-
   Fancy Pants 3 bringt das Momentum-Platforming zurück – mit größeren Levels,
   mehr Geheimnissen und geschliffenen Wallruns und Slides in handgezeichneten
@@ -40,6 +40,7 @@ belohnen.
 - Nach unten, um zu sliden.  
 - Nach oben, um Türen oder Portale zu betreten.
 
+<!-- i18n:section:tips -->
 ### Tipps
 
 - Halte einen gleichmäßigen Rhythmus – Zögern kostet Geschwindigkeit und macht

@@ -1,12 +1,13 @@
 ---
 locale: de
 urlstr: klondike-solitaire
-title: "Klondike Solitaire"
+title: Klondike Solitaire
 description: >-
   Klassisches Klondike-Solitaire: Baue die Ablagestapel von Ass bis König nach
   Farbe auf, sortiere die Tafeln in absteigender Reihenfolge und wechselnden
   Farben – mit Zieh-1- oder Zieh-3-Regel.
-iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-klondike-solitaire/'
+iframeSrc: >-
+  https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-klondike-solitaire/
 thumbnail: /new-images/thumbnails/klondike-solitaire.jpg
 tags:
   - solitaire
@@ -43,6 +44,7 @@ Zyklus-Kontrolle verlangt.
 - Ziehen und Ablegen per Drag-and-drop oder Tippen/Klicken; auf vielen Hosts
   gibt es eine Auto-Move-Funktion für offensichtliche Züge.
 
+<!-- i18n:section:tips -->
 ### Tipps
 
 - Bevorzuge Züge, die eine verdeckte Karte umdrehen – Informationen sind oft

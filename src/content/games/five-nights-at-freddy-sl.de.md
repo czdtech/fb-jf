@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: five-nights-at-freddy-sl
-title: "Five Nights at Freddy's Sister Location"
+title: Five Nights at Freddy's Sister Location
 description: >-
   Sister Location setzt auf schichtbasierten Horror mit Aufgaben: Wechsle
   zwischen Räumen, erledige Wartungsjobs, überwache Funtime-Animatronics und
@@ -39,6 +39,7 @@ Nacken sitzen.
 - Maus/UI, um Bedienpanels, Schockknöpfe und Monitore zu benutzen.  
 - Bewegungs-Tasten für Lüftungsabschnitte (je nach Host).
 
+<!-- i18n:section:tips -->
 ### Tipps
 
 - Höre genau hin – Geräusche und Bildschirmflackern kündigen Gefahr meist an.

@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: liquid-puzzle-sort-colors
-title: "Liquid puzzle sort colors"
+title: Liquid puzzle sort colors
 description: >-
-  Liquid puzzle sort colors ist ein entspanntes Gieß-Puzzle: Sortiere
-  farbige Flüssigkeiten nach Farben in die Flaschen, plane Puffer clever ein
-  und löse jedes Level, ohne in eine Sackgasse zu geraten.
+  Liquid puzzle sort colors ist ein entspanntes Gieß-Puzzle: Sortiere farbige
+  Flüssigkeiten nach Farben in die Flaschen, plane Puffer clever ein und löse
+  jedes Level, ohne in eine Sackgasse zu geraten.
 iframeSrc: 'https://1b6vgcuid4b98.h5games.usercontent.goog/v/2vus27k78710o/'
 thumbnail: /new-images/thumbnails/liquid-puzzle-sort-colors.jpg
 tags:
@@ -28,6 +28,7 @@ musst deine Pufferflaschen und die Reihenfolge der Züge so planen, dass du
 nicht in einem Zustand landest, in dem kein sinnvoller Zug mehr möglich ist.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Puffer freihalten**  

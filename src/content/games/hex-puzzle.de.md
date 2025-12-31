@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: hex-puzzle
-title: "Hex Puzzle"
+title: Hex Puzzle
 description: >-
   Anspruchsvolles Blockpuzzle auf einem Hexagon-Gitter: Ziehe die Hexa-Blöcke
   ins Feld, bilde vollständige Linien in beliebiger Richtung und plane deine
@@ -29,6 +29,7 @@ Punkte. Da es kein Zeitlimit gibt, geht es nur um clevere Planung und gutes
 Raumgefühl.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **In drei Richtungen denken**  

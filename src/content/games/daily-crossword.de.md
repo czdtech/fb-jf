@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: daily-crossword
-title: "Daily Crossword"
+title: Daily Crossword
 description: >-
   Daily Crossword liefert dir jeden Tag ein neues Kreuzworträtsel – löse
   horizontale und vertikale Hinweise und fülle das Gitter.
@@ -38,6 +38,7 @@ zeigen Timer, Hinweisliste und Tools zum Prüfen oder Aufdecken von Einträgen.
 - A–Z tippen; Pfeiltasten zum Navigieren; Backspace zum Löschen; Enter/Tab
   wechselt Richtung oder springt zum nächsten Hinweis (host-abhängig).
 
+<!-- i18n:section:tips -->
 ### Tipps & Strategien
 
 - Beginne mit kurzen/einfachen Hinweisen und erweitere deinen Fortschritt über

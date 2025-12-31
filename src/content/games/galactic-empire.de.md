@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: galactic-empire
-title: "Galactic Empire"
+title: Galactic Empire
 description: >-
   Galactic Empire ist ein Top-Down-Weltraumstrategiespiel: Baue Ressourcen ab,
   errichte Schiffe und Verteidigungen und erobere Sektoren, während du
@@ -38,6 +38,7 @@ Galactic Empire bietet RTS-ähnliche Gefechte im All. Du baust Förderstationen,
 - Maus zum Auswählen und Bauen; Hotkeys für Produktion und Kamera sind
   hostabhängig.
 
+<!-- i18n:section:tips -->
 ### Tipps
 
 - Baue Schiffe in Serien; konstante Produktion ist besser als stillstehende

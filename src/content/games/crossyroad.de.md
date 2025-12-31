@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: crossyroad
-title: "Crossy Road - Play Crossy Road Online"
+title: Crossy Road - Play Crossy Road Online
 description: >-
   Crossy Road ist ein 8‑Bit-Endlos-Arcade-Hopper, in dem du ein Huhn sicher über
   Straßen, Flüsse und Gleise führen musst.
@@ -10,7 +10,7 @@ thumbnail: /new-images/thumbnails/crossyroad.jpg
 tags:
   - crossy road
 score: 4.8/5  (1104 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 
@@ -45,6 +45,7 @@ Straße überquert?“
 
 ---
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 -  **Geduld & Rhythmus:** Laufe nicht blind los. Beobachte die Verkehrs- und

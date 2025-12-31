@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: crossword
-title: "Crossword"
+title: Crossword
 description: >-
-  Crossword ist ein klassisches Buchstabengitter: Löse horizontale und
-  vertikale Hinweise, sodass alle Kreuzungsbuchstaben zueinander passen.
+  Crossword ist ein klassisches Buchstabengitter: Löse horizontale und vertikale
+  Hinweise, sodass alle Kreuzungsbuchstaben zueinander passen.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/crossword.html'
 thumbnail: /new-images/thumbnails/crossword.jpg
 tags:
@@ -42,6 +42,7 @@ meist 180°-Rotationssymmetrie. Übliche Größen sind 15×15 an Wochentagen und
 - Enter/Tab wechselt (je nach Seite) die Schreibrichtung oder springt zum
   nächsten Hinweis.
 
+<!-- i18n:section:tips -->
 ### Tipps & Strategien
 
 - Beginne mit einfachen Hinweisen (Lückentexte, klare Plural-/Zeitmarker) und

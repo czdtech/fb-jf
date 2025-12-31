@@ -26,6 +26,7 @@ den passenden Paaren zu ziehen. Die Verbindungen können ganz wörtlich sein
 Emoji Fun spielerisch deine Logik, dein Allgemeinwissen und dein Querdenken.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1. **Starte mit offensichtlichen Paaren:** Suche zuerst nach den klarsten,

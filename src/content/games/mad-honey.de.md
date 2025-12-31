@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: mad-honey
-title: "Mad Honey"
+title: Mad Honey
 description: >-
-  Mad Honey ist ein kleines Arcade-Abenteuer: Sammle Nektar, weiche Gefahren
-  aus und bring deine Beute sicher in den Bienenstock zurück.
+  Mad Honey ist ein kleines Arcade-Abenteuer: Sammle Nektar, weiche Gefahren aus
+  und bring deine Beute sicher in den Bienenstock zurück.
 iframeSrc: 'https://49b5cg0v2itto.h5games.usercontent.goog/v/3tun18rhg88eg/'
 thumbnail: /new-images/thumbnails/mad-honey.png
 tags:
@@ -25,6 +25,7 @@ Punkte zu sichern. Der Fokus liegt auf sauberen Flugrouten, gut getimten
 Durchflügen durch Patrouillen und sicheren Rückwegen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Routen planen**  

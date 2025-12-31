@@ -26,6 +26,7 @@ sammelst, desto größer und stärker wird dein Charakter – und desto wuchtige
 fallen deine Projektile aus.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1. **Sammeln, um zu wachsen:** Bewege dich ständig, um farbige Verbündete

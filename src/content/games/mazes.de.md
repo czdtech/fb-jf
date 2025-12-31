@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: mazes
-title: "Mazes"
+title: Mazes
 description: >-
   Mazes liefert klassische Labyrinthläufe: Zeichne optimale Wege, weiche Fallen
   aus und unterbiete die Vorgabezeiten mit sauberer Routenplanung.
@@ -25,6 +25,7 @@ Du suchst den kürzesten sicheren Weg, meidest Fallenfelder und aktivierst
 Schalter, die Türen öffnen, ohne dabei die vorgegebenen Zeiten zu sprengen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Wandfolgeregel nur gezielt nutzen**  

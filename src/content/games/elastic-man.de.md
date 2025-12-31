@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: elastic-man
-title: "Elastic Man"
+title: Elastic Man
 description: >-
   Elastic Man ist ein interaktives Spielzeug: Zieh, stupse und quetsche ein
   gummiges Gesicht und sieh zu, wie es mit weicher Physik zurückschnappt.
@@ -35,6 +35,7 @@ wie die Haut mit federnder Physik wieder in ihre Ausgangsposition zurückwobbelt
 - Maus/Touch: Ziehen und Loslassen per Drag & Drop; zusätzliche Einstellungen
   je nach Host im Optionsmenü.
 
+<!-- i18n:section:tips -->
 ### Tipps
 
 - Ziehe an Wangen oder Stirn, um große, langsame Wellenbewegungen zu erzeugen.

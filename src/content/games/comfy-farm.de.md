@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: comfy-farm
-title: "Comfy Farm"
+title: Comfy Farm
 description: >-
   Willkommen auf der Comfy Farm. Säe Samen, gieße deine Pflanzen, ernte sie mit
   Gewinn und schütze deine Felder vor Schädlingen, während du deinen eigenen
@@ -28,6 +28,7 @@ Einnahmen kaufst du neue Samen und Upgrades, die dir Arbeit abnehmen oder
 zusätzliche Felder freischalten.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  Der Farm-Zyklus: Kern des Spiels ist der Kreislauf aus Säen, Gießen und

@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: bonanza-shooter-bubble
-title: "Bonanza Shooter Bubble"
+title: Bonanza Shooter Bubble
 description: >-
   Bonanza Shooter Bubble ist ein farbenfroher Bubble‑Shooter. Spiele Bälle über
   die Bande, verwalte die Farben klug und lasse große Cluster für viele Punkte
@@ -26,6 +26,7 @@ und frei hängende Cluster stürzen ab – perfekt, um das Feld großflächig zu
 räumen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Banden nutzen:** Triff die Seitenwand, um schwer erreichbare Blasengruppen

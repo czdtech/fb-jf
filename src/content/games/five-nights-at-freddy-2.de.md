@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: five-nights-at-freddy-2
-title: "Five Nights at Freddy's 2 (FNAF 2)"
+title: Five Nights at Freddy's 2 (FNAF 2)
 description: >-
   In FNAF 2 ersetzt du Türen durch Maske und Spieluhr: Behalte viele
   Animatronics im Blick, zieh rechtzeitig die Freddy-Maske auf und halte die
@@ -37,6 +37,7 @@ stattdessen jonglierst du Freddy-Maske und Spieluhr für die Puppet und
 - Maus/UI zum Bedienen von Kameras und Maske.  
 - Strg/Leertaste für die Taschenlampe (abhängig vom Host).
 
+<!-- i18n:section:tips -->
 ### Tipps
 
 - Baue dir eine Routine auf: Spieluhr aufziehen → Kamera runter → Flur blitzen

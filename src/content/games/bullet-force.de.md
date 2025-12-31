@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: bullet-force
-title: "Bullet Force"
+title: Bullet Force
 description: >-
   Stürze dich in schnelle Mehrspieler-Gefechte in Bullet Force, einem modernen
   Ego-Shooter. Passe ein großes Waffenarsenal an, beherrsche mehrere Spielmodi
@@ -43,6 +43,7 @@ möchte, nutzt den Offline-Modus mit anpassbaren KI-Bots.
     jedem Kill automatisch die nächste Waffe in einer festgelegten Liste.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 -   Bewegung meistern: Bullet Force spielt sich eher arcadelastig. Wer still

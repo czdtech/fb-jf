@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: cake-slice-ninja
-title: "Cake Slice Ninja"
+title: Cake Slice Ninja
 description: >-
   Cake Slice Ninja ist ein süßer Slice-Rausch – ziehe saubere Schnitte durch
   fliegende Kuchenstücke, baue Kombos auf und weiche Bomben aus, um hohe
@@ -26,6 +26,7 @@ Bomben sowie andere Gefahren unbedingt meiden, um deine Serie nicht zu
 unterbrechen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  Lange, gerade Wischbewegungen: Versuche, mehrere Stücke in einem einzigen

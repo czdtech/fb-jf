@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: getting-over-it
-title: "Getting over it"
+title: Getting over it
 description: >-
   Getting Over It ist eine Kletter-Herausforderung mit Hammerphysik: Schwinge,
   pogo und ziehe einen Mann im Kessel über surreale Hindernisse – jede kleine
@@ -39,6 +39,7 @@ stundenweit zurückfallen lassen – und zwingt dich, deinen Weg neu zu erarbeit
 - Die Maus steuert Winkel und Kraft des Hammers; Tastatureinsatz ist minimal
   (abhängig vom Host).
 
+<!-- i18n:section:tips -->
 ### Tipps
 
 - Nutze sanfte Kreisbewegungen für kontrollierte Schwünge und vermeide harte,

@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: bunny-quest
-title: "Bunny Quest"
+title: Bunny Quest
 description: >-
   Bunny Quest ist ein Wegbau-Schiebepuzzle – verschiebe Kacheln, verbinde den
   Pfad und führe den Hasen mit möglichst wenigen Zügen sicher ins Ziel.
@@ -24,6 +24,7 @@ optionale Sammelobjekte einsammeln, solltest aber Sackgassen vermeiden – in
 späteren Leveln sind die verfügbaren Züge begrenzt, sodass jeder Schritt zählt.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  Ecken und Geraden zuerst: Platziere Kurven- und Geraden-Kacheln so, dass

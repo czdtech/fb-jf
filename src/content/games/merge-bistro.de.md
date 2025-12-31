@@ -1,11 +1,10 @@
 ---
 locale: de
 urlstr: merge-bistro
-title: "Merge Bistro"
+title: Merge Bistro
 description: >-
   Merge Bistro ist ein gemütliches Merge-Management-Spiel: Kombiniere Zutaten,
-  erfülle Bestellungen und erweitere dein Bistro mit cleverer
-  Brettverwaltung.
+  erfülle Bestellungen und erweitere dein Bistro mit cleverer Brettverwaltung.
 iframeSrc: 'https://0f5mbl2u9ont8.h5games.usercontent.goog/v/50p3a8ekgfdk8/'
 thumbnail: /new-images/thumbnails/merge-bistro.png
 tags:
@@ -27,6 +26,7 @@ Bestellungen deiner Gäste zu. Begrenzter Stauraum und Abklingzeiten für
 Produktionsstationen zwingen dich dazu, dein Brett gut zu organisieren.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Bestellliste lesen**  

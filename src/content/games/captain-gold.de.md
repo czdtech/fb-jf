@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: captain-gold
-title: "Captain Gold"
+title: Captain Gold
 description: >-
   Captain Gold ist eine klassische Goldgräber-Herausforderung – timinge deine
   Würfe, angelt wertvolle Schätze und meidet Felsen, um das Geldziel zu
@@ -26,6 +26,7 @@ herangezogen, leichte deutlich schneller. Jede Runde hat ein Geldziel und ein
 Zeitlimit; zwischen den Levels kannst du im Laden Upgrades kaufen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  Große Nuggets zuerst: Konzentriere dich früh auf große Goldklumpen und

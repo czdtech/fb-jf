@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: drifting-mania
-title: "Drifting mania"
+title: Drifting mania
 description: >-
   Drifting mania testet dein Driftkönnen aus der Top-Down-Perspektive – dosiere
   das Gas, verknüpfe saubere Slides und finde den perfekten Rhythmus durch die
@@ -23,6 +23,7 @@ Auto aus der Vogelperspektive, hältst kontrollierte Driftwinkel, pulsierst das
 Gas und suchst perfekte Kurvenausgänge, um Rundenzeiten stetig zu verbessern.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1. **Lang rein, schnell raus:** Fahre Kurven lieber etwas langsamer an und

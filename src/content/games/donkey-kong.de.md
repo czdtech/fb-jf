@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: donkey-kong
-title: "Donkey Kong"
+title: Donkey Kong
 description: >-
   Donkey Kong ist ein legendärer Arcade-Platformer: Klettere Leitern und Träger
   hinauf, weiche Fässern und Feuerbällen aus und erreiche die Spitze, um die
@@ -44,6 +44,7 @@ schneller und schwieriger.
 - Aktion: Sobald du den Hammer aufhebst, schwingt Mario ihn automatisch für
   kurze Zeit.
 
+<!-- i18n:section:tips -->
 ### Tipps
 
 - Warte auf sichere Momente, um Leitern zu benutzen – steige nicht, wenn ein

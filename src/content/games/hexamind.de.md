@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: hexamind
-title: "HexaMind"
+title: HexaMind
 description: >-
-  HexaMind ist ein Logikpuzzle auf einem Wabengitter: Platziere Plättchen, erfülle
-  Nachbarschaftsregeln und halte Zahlen und Farben in allen Richtungen im Lot.
+  HexaMind ist ein Logikpuzzle auf einem Wabengitter: Platziere Plättchen,
+  erfülle Nachbarschaftsregeln und halte Zahlen und Farben in allen Richtungen
+  im Lot.
 iframeSrc: 'https://518ndvi54l1n0.h5games.usercontent.goog/v/608gefgjbkc88/'
 thumbnail: /new-images/thumbnails/hexamind.png
 tags:
@@ -25,6 +26,7 @@ Richtungen, in die ein Feld Nachbarn haben kann, entstehen reichhaltige
 Schlussfolgerungen über Fächerlinien und Ringe.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Hotspots mit vielen Nachbarn zuerst**  

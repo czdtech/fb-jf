@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: chess-mania
-title: "Chess Mania"
+title: Chess Mania
 description: >-
   Erlebe Chess Mania, ein funktionsreiches Schachspiel für alle Spielstärken.
   Tritt gegen die KI an, löse knifflige Aufgaben und arbeite dich zum
@@ -28,6 +28,7 @@ trainieren und deine Partien Schritt für Schritt verbessern – mit dem ewigen
 Ziel, den gegnerischen König mattzusetzen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  Eröffnung meistern: Entwickle deine Figuren in Richtung Zentrum und bringe

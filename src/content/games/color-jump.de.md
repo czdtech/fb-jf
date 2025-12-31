@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: color-jump
-title: "Color Jump"
+title: Color Jump
 description: >-
   Color Jump ist ein One-Tap-Runner – gleiche Farben ab, timinge deine Sprünge
   und bahne dir einen Weg durch ständig wechselnde Muster.
@@ -24,6 +24,7 @@ richtigen Moment springen, Farben ausrichten, unpassende Barrieren meiden und
 mit zunehmender Geschwindigkeit im Rhythmus bleiben.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  Zwei Hindernisse voraus lesen: Fixiere dich nicht nur auf das direkt

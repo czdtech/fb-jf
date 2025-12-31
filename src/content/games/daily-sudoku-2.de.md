@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: daily-sudoku-2
-title: "Daily Sudoku"
+title: Daily Sudoku
 description: >-
   Jeden Tag ein neues Sudoku-Logikrätsel: Fülle das 9×9-Gitter so, dass jede
   Zeile, Spalte und jedes 3×3-Feld die Ziffern 1 bis 9 ohne Wiederholung
@@ -26,6 +26,7 @@ in jedem der neun 3×3-Boxen alle Ziffern von 1 bis 9 genau einmal vorkommen.
 Reine Logik, keine Mathematik – gefragt sind Geduld und Konzentration.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  Grundregel: Die Ziffern 1–9 dürfen in Zeile, Spalte und Box jeweils nur

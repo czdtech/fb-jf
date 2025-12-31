@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: differences-find-quest
-title: "Differences Find Quest"
+title: Differences Find Quest
 description: >-
   Differences Find Quest ist ein detailreiches Such-die-Unterschiede-Spiel: Du
   vergleichst zwei Szenen, markierst Abweichungen und setzt Hinweise gezielt
@@ -27,6 +27,7 @@ Perspektiven und sanfter Zeitdruck hinzu, sodass du immer genauer hinschauen
 musst.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1. **Rasterblick nutzen:** Teile das Bild gedanklich in 4–6 Bereiche auf und

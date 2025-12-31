@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: fruit-slot-machine
-title: "Fruit Slot Machine"
+title: Fruit Slot Machine
 description: >-
-  Fruit Slot Machine ist ein klassischer Drei-Walzen-Slot: Drehe verantwortungsvoll,
-  lerne die Gewinnlinien kennen und jage Features, ohne dein Einsatzlimit zu
-  sprengen.
+  Fruit Slot Machine ist ein klassischer Drei-Walzen-Slot: Drehe
+  verantwortungsvoll, lerne die Gewinnlinien kennen und jage Features, ohne dein
+  Einsatzlimit zu sprengen.
 iframeSrc: 'https://7f8j0t3m1ptv8.h5games.usercontent.goog/v/33cv74na0lvqg/'
 thumbnail: /new-images/thumbnails/fruit-slot-machine.jpg
 tags:
@@ -24,6 +24,7 @@ Gewinnlinien. Sieh das Spiel als leichte Unterhaltung – nicht als
 Strategietitel.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1. **Budget festlegen:** Setze dir vorab ein Einsatzlimit pro Sitzung und halte

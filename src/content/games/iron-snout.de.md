@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: iron-snout
-title: "Iron Snout"
+title: Iron Snout
 description: >-
   Iron Snout ist ein schnelles 2D-Prügelspiel: Als Kung-Fu-Schwein parierst du
   Wölfe, jonglierst sie mit Tritten in der Luft und wirfst ihre Waffen zurück,
@@ -43,6 +43,7 @@ zu kontern.
 - **Pfeiltasten/WASD**: Richtungsangaben lösen gleichzeitig Angriffe,
   Sprünge oder Ducken aus – separate Angriffstasten brauchst du nicht.
 
+<!-- i18n:section:tips -->
 ### Tipps
 
 - Priorisiere Fernkämpfer – Projektile zerstören schnell deinen Kombofluss.

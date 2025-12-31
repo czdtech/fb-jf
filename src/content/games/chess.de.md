@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: chess
-title: "Chess"
+title: Chess
 description: >-
   Lerne Regeln, Figuren und Strategien von Schach, dem ultimativen
   Denksport-Spiel. Plane deine Züge, kontrolliere das Brett und setze den König
@@ -46,6 +46,7 @@ anders; ihre Bewegungen zu verstehen, ist die Grundlage für jede Partie.
     ziehen und schlagen nie rückwärts. Sie besitzen Sonderregeln wie *En
     Passant* und *Umwandlung*.
 
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 #### Eröffnungsgrundsätze

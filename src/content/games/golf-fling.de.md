@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: golf-fling
-title: "Golf Fling"
+title: Golf Fling
 description: >-
-  Golf Fling ist ein physikbasiertes Golf-Puzzlespiel. Ziele, ziehe und lass los,
-  um den Ball durch knifflige Kurse zu schleudern und ihn mit möglichst wenigen
-  Würfen im Loch zu versenken.
+  Golf Fling ist ein physikbasiertes Golf-Puzzlespiel. Ziele, ziehe und lass
+  los, um den Ball durch knifflige Kurse zu schleudern und ihn mit möglichst
+  wenigen Würfen im Loch zu versenken.
 iframeSrc: >-
   https://golffling.h5games.usercontent.goog/v/0aa707a3-71a5-4ad8-be9b-32ce55e28d64/
 thumbnail: /new-images/thumbnails/golf-fling.jpg
@@ -29,6 +29,7 @@ wenigen Würfen wie möglich ins Loch zu bringen. Nutze Gelände, Wände und Ram
 zu deinem Vorteil und meistere die Kunst des perfekten "Flings".
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Sorgfältig zielen**  

@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: jurassic-run
-title: "Jurassic Run"
+title: Jurassic Run
 description: >-
-  Jurassic Run ist ein Dino-Runner: Weiche Hindernissen aus, wechsle die Spur
-  im richtigen Moment und sprinte für neue Highscores.
+  Jurassic Run ist ein Dino-Runner: Weiche Hindernissen aus, wechsle die Spur im
+  richtigen Moment und sprinte für neue Highscores.
 iframeSrc: 'https://260c4eej53igg.h5games.usercontent.goog/v/5h99gs1rujgk0/'
 thumbnail: /new-images/thumbnails/jurassic-run.png
 tags:
@@ -29,6 +29,7 @@ werden sauberes Timing und schnelle Reaktionen. Das Ziel ist es, deinen
 persönlichen Rekord immer weiter nach oben zu schrauben.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Weit voraus schauen**  

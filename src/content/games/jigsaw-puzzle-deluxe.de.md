@@ -30,6 +30,7 @@ Dein Ziel ist es, alle verstreuten Teile Schritt für Schritt an die richtige
 Position zu setzen, bis das komplette Bild wieder vor dir liegt.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Zuerst den Rahmen legen**  

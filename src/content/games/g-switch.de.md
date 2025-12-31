@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: g-switch
-title: "G-Switch"
+title: G-Switch
 description: >-
   G-Switch ist ein One-Button-Gravity-Runner: Kippe die Schwerkraft, um über
   Plattformen zu rennen, Lücken und Sägen zu meiden und bei wachsendem Tempo
@@ -37,6 +37,7 @@ ständig zunimmt.
 - Eine Taste/ein Tap zum Schwerkraftwechsel; im Multiplayer-Modus hat jeder
   Spieler seine eigene Taste.
 
+<!-- i18n:section:tips -->
 ### Tipps
 
 - Halte einen gleichmäßigen Flip-Rhythmus; Panik-Flips führen schnell zu

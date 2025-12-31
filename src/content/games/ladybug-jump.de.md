@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: ladybug-jump
-title: "Ladybug Jump"
+title: Ladybug Jump
 description: >-
   Ladybug Jump ist ein fröhlicher Hüpf-Plattformspiel: Time deine Sprünge, reite
   auf beweglichen Blättern und sammle Nektar, während du Gefahren ausweichst.
@@ -24,6 +24,7 @@ sammelst Nektar für Bonuspunkte. Bewegliche Plattformen und Windböen machen di
 Sprünge mit der Zeit anspruchsvoller und verlangen gutes Timing.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Kurz tippen**  

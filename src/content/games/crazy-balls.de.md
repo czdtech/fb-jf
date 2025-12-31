@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: crazy-balls
-title: "Crazy Balls"
+title: Crazy Balls
 description: >-
   Crazy Balls ist ein Physik-Arcade-Spiel – lasse Bälle prallen, nutze Banden
   und schieße dich mit kontrollierten Schüssen durch Hindernis-Labyrinthe.
@@ -24,6 +24,7 @@ nutzen. Präzise Winkel und kontrollierte Schusskraft entscheiden darüber, ob d
 bahnen sauber triffst oder im Chaos landest.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  Seitenwände als Banden: Nutze die Seitenwände, um Flugbahnen in enge

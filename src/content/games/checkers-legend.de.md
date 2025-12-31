@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: checkers-legend
-title: "Checkers Legend"
+title: Checkers Legend
 description: >-
-  Werde zur Checkers-Legende in diesem klassischen Brettspiel. Plane deine
-  Züge, schlage die Steine deines Gegners und kröne deine Figuren zu Königen,
-  um das Brett zu dominieren.
+  Werde zur Checkers-Legende in diesem klassischen Brettspiel. Plane deine Züge,
+  schlage die Steine deines Gegners und kröne deine Figuren zu Königen, um das
+  Brett zu dominieren.
 iframeSrc: 'https://checkerslegend.h5games.usercontent.goog/v/43mkj41ari948/'
 thumbnail: /new-images/thumbnails/checkers-legend.png
 tags:
@@ -28,6 +28,7 @@ anspruchsvoll: Schlage alle gegnerischen Steine oder blockiere sie so, dass
 kein legaler Zug mehr möglich ist.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  Grundbewegung: Deine normalen Steine ("Men") ziehen jeweils ein Feld

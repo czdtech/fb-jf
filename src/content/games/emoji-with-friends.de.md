@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: emoji-with-friends
-title: "Emoji With Friends"
+title: Emoji With Friends
 description: >-
   Emoji With Friends ist ein leichtes Party-Puzzlespiel: Finde und kombiniere
   Emoji-Muster, ziehe Schlüsse und trete in schnellen Runden gegen Freunde an.
@@ -25,6 +25,7 @@ wer das Spielfeld zuerst löst. Kurze Runden, klare Symbole und ein niedriger
 Einstieg machen das Spiel ideal für zwischendurch oder kleine Partyrunden.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1. **Muster scannen:** Achte auf häufig wiederkehrende Emojis und baue daraus

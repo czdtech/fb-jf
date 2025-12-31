@@ -26,6 +26,7 @@ mit dem um 1 erhöhten Wert. Zuerst versuchst du, eine 10 zu erreichen, doch der
 wahre Reiz liegt darin, wie weit du darüber hinauskommst.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1. **Vor dem Tippen nachdenken:** Jeder Merge verändert das Boardlayout. Bevor

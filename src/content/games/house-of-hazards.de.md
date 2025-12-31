@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: house-of-hazards
-title: "House Of Hazards"
+title: House Of Hazards
 description: >-
   Lokales Party-Chaos: Erledige simple Alltagsaufgaben in einem Haus voller
   Fallen, während deine Freunde Gefahren auslösen, um dich aus dem Konzept zu
@@ -44,6 +44,7 @@ ständig neue Lacher.
 - Einfache Tasten für **Bewegen**, **Springen** und **Aktion**; auf einer
   Tastatur können mehrere lokale Spieler mit eigenen Belegungen spielen.
 
+<!-- i18n:section:tips -->
 ### Tipps
 
 - Fixiere dich nicht nur auf deine nächste Aufgabe – achte auf leuchtende oder

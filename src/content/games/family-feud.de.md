@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: family-feud
-title: "Family Feud"
+title: Family Feud
 description: >-
   Family Feud ist ein Quiz auf Basis von Umfragen: Errate die beliebtesten
   Antworten auf Familienfragen über mehrere Runden und die Schnellraterunde.
@@ -43,6 +43,7 @@ müssen in kurzer Zeit möglichst viele hohe Antworten gefunden werden.
 - Navigiere mit Pfeiltasten oder den Onscreen-Buttons durch Menüs (abhängig vom
   Host).
 
+<!-- i18n:section:tips -->
 ### Tipps
 
 - Denke zunächst in breiten Kategorien (z.B. "Obst", "Auto", "Geld"), bevor du

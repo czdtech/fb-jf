@@ -29,6 +29,7 @@ Buchstaben und Bonusfeldern auf dem Brett versuchst du, die höchste mögliche
 Punktzahl zu erreichen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Bonusfelder kennen**  

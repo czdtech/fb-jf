@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: golf-adventures
-title: "Golf Adventures"
+title: Golf Adventures
 description: >-
   Golf Adventures ist ein physikbasiertes Golf-Puzzlespiel. Ziele deinen Ball,
-  überwinde kreative Hindernisse und versenke ihn mit möglichst wenigen
-  Schlägen im Loch.
+  überwinde kreative Hindernisse und versenke ihn mit möglichst wenigen Schlägen
+  im Loch.
 iframeSrc: 'https://golfadventures.h5games.usercontent.goog/v/2er1vod6k6p0o/'
 thumbnail: /new-images/thumbnails/golf-adventures.png
 tags:
@@ -28,6 +28,7 @@ Schlagstärke und cleveres Nutzen der Umgebung entscheiden über Erfolg oder
 Frust.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Schlag planen**  

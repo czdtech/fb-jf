@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: crossword-puzzles
-title: "Crossword Puzzles"
+title: Crossword Puzzles
 description: >-
   Crossword Puzzles bietet thematische Kreuzworträtsel – löse horizontale und
   vertikale Hinweise, um jedes Gitter zu vervollständigen.
@@ -40,6 +40,7 @@ Rätsel und ein Archiv.
 - Enter/Tab: Richtung wechseln oder zum nächsten Hinweis springen
   (seitenabhängig).
 
+<!-- i18n:section:tips -->
 ### Tipps & Strategien
 
 - Suche zuerst nach leichten Hinweisen (Lückentexte, Plurale, gängige

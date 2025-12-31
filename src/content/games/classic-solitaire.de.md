@@ -27,6 +27,7 @@ Dafür musst du die Karten im Tableau geschickt umstapeln, verdeckte Karten
 freilegen und mit etwas Glück und Planung alle Karten auf die Ablagen bringen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Aufbau & Grundregeln
 
 1.  **Bereiche des Spielfelds:**

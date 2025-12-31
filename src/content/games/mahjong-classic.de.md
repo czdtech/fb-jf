@@ -22,6 +22,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Mahjong Classic ist die klassische Einzelspieler-Variante mit Mahjong-Steinen. Statt wie im traditionellen Mahjong eine Hand zu bilden, räumst du ein aufgestapeltes Layout, indem du identische, freie Steine paarweise entfernst. Das Spiel fordert deine Beobachtungsgabe und dein strategisches Denken – ideal für eine entspannte, aber dennoch fordernde Rätselrunde.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Regel der freien Steine:** Du kannst nur Steine auswählen, die „frei" sind. Ein Stein gilt als frei, wenn kein anderer Stein auf ihm liegt und er nach links oder rechts verschoben werden könnte, ohne gegen einen weiteren Stein zu stoßen.

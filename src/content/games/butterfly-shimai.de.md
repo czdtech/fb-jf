@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: butterfly-shimai
-title: "Butterfly Shimai"
+title: Butterfly Shimai
 description: >-
   Tauche ein in ein entspanntes Flügelpuzzle mit Butterfly Shimai. Verbinde
   passende Schmetterlingsflügel, lass fertige Schmetterlinge davonfliegen und
@@ -33,6 +33,7 @@ arbeitest du meist gegen ein Zeitlimit – du musst also aufmerksam und zügig
 kombinieren.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  Offensichtliche Paare zuerst: Suche zu Beginn nach Flügeln, die direkt

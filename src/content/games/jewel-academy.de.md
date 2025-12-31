@@ -28,6 +28,7 @@ erschaffst du Spezialjuwelen, überwindest Hindernisse und knackst nach und nach
 hunderte knifflige Aufgaben.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Auf Spezialkombos achten**  

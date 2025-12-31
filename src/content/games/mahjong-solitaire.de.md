@@ -32,6 +32,7 @@ mit einem unglücklichen Zug kannst du zukünftige Paare verbauen. Gleichzeitig
 wirkt es beruhigend und ist für viele ein tägliches Kopfpuzzle.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **„Freie“ Steine verstehen**  

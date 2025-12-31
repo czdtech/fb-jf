@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: bubble-trouble
-title: "Bubble Trouble"
+title: Bubble Trouble
 description: >-
   Zerschieße hüpfende Blasen mit deiner Harpune in diesem schnellen
   Arcade-Actionspiel. Teile große Blasen in kleinere auf, weiche ihnen aus,
@@ -38,6 +38,7 @@ und Geschwindigkeit der Blasen, die Startaufstellungen werden komplexer und die
 Zeitlimits knapper. Beliebt ist außerdem der kooperative Zweispieler-Modus.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 -   Größte Blasen zuerst: Konzentriere dich möglichst früh auf die größten

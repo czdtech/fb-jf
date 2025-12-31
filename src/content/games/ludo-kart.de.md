@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: ludo-kart
-title: "Ludo Kart"
+title: Ludo Kart
 description: >-
   Ludo Kart ist ein lockeres Würfel-und-Renn-Brettspiel: Würfle, bewege deine
   Figuren und sei als Erste:r im Ziel.
@@ -26,6 +26,7 @@ Gegner es schaffen. Sichere Felder, Schlagen und glückliche Würfe sorgen für
 spannende Wendungen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Mehrere Figuren im Spiel halten**  

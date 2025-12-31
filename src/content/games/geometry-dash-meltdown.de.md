@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: geometry-dash-meltdown
-title: "Geometry Dash Meltdown"
+title: Geometry Dash Meltdown
 description: >-
   Geometry Dash Meltdown ist ein eigenständiges Levelpaket: Springe und fliege
   durch neue, musik-synchrone Stages mit eigenen Themen, Fallen und
@@ -35,6 +35,7 @@ Schiff- und Ball-Sektionen, die alle eng auf den Beat abgestimmt sind.
 
 - Tippen/Leertaste/Mausklick zum Springen; Halten zum Fliegen (je nach Host).
 
+<!-- i18n:section:tips -->
 ### Tipps
 
 - Reduziere grafische Effekte, wenn dein Timing durch Lags leidet.

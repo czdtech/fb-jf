@@ -1,12 +1,12 @@
 ---
 locale: de
 urlstr: capybara-clicker
-title: "Capybara Clicker"
+title: Capybara Clicker
 description: >-
   Vervielfache deine Capybara-Population in Capybara Clicker. Klicke, um
   Capybaras zu erzeugen, kaufe automatische Upgrades, schalte neue Wetterlagen
-  frei und statte dein Capybara mit stylischen Hüten aus – in diesem
-  entspannten Idle-Spiel.
+  frei und statte dein Capybara mit stylischen Hüten aus – in diesem entspannten
+  Idle-Spiel.
 iframeSrc: 'https://bitlifeonline.github.io/capybara-clicker/'
 thumbnail: /new-images/thumbnails/capybara-clicker.jpg
 tags:
@@ -35,6 +35,7 @@ aktivieren: Du setzt deinen Fortschritt zurück, erhältst dafür aber einen
 permanenten Produktionsbonus.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 -   Klicks und Idle-Boni ausbalancieren: Am Anfang ist aktives Klicken deine

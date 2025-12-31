@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: cannon-balls-3d
-title: "Cannon Balls 3D"
+title: Cannon Balls 3D
 description: >-
   Bereit, zielen, feuern! Sprenge in Cannon Balls 3D Bauwerke mit deiner Kanone
   in die Luft. Triff Schwachstellen gezielt und nutze deine begrenzte Munition
@@ -28,6 +28,7 @@ präzises Zielen, sondern vor allem ein gutes Auge für statische Schwachstellen
 um mit wenigen Schüssen größtmögliche Kettenreaktionen auszulösen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  Struktur analysieren: Schau dir das Gebäude vor dem ersten Schuss genau an.

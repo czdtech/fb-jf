@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: flappy-bird
-title: "Flappy Bird"
+title: Flappy Bird
 description: >-
   Flappy Bird ist ein einfacher, aber gnadenloser Endless Runner: Tippe, um den
-  Vogel flattern zu lassen, manövriere ihn durch Röhrenlücken und berühre
-  keines der Hindernisse.
+  Vogel flattern zu lassen, manövriere ihn durch Röhrenlücken und berühre keines
+  der Hindernisse.
 iframeSrc: 'https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/TAhlQLDa/index.html'
 thumbnail: /new-images/thumbnails/flappy-bird.jpg
 tags:
@@ -35,6 +35,7 @@ einen Punkt.
 
 - Maus/Touch/Leertaste: Tippen, um zu flattern.
 
+<!-- i18n:section:tips -->
 ### Tipps
 
 - Nutze sehr kurze Taps für feine Korrekturen; große Taps heb dir für

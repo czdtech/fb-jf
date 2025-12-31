@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: fluffy-mania
-title: "Fluffy Mania"
+title: Fluffy Mania
 description: >-
   Fluffy Mania ist ein gemütliches Verbindepuzzle: Verbinde niedliche Fluffies,
   löse Kettenreaktionen aus und jag hohen Punktzahlen und Levelzielen hinterher.
@@ -23,6 +23,7 @@ Kettenreaktionen zu erzeugen und Levelziele zu erfüllen – etwa Punktvorgaben,
 Zugbegrenzungen oder das Freilegen spezieller Felder.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1. **Quadrate bilden:** Falls Loops/Quadrate erlaubt sind, räumen sie oft alle

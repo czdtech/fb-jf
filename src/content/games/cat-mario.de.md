@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: cat-mario
-title: "Cat Mario"
+title: Cat Mario
 description: >-
   Stell dich dem ultimativen unfairen Plattformspiel in Cat Mario (Syobon
   Action). Navigiere durch eine Welt voller versteckter Fallen, absurder Feinde
@@ -37,6 +37,7 @@ negativen Bereich rutscht, ist Teil des Witzes. Dein einziges Ziel: Irgendwie
 die Zielflagge am Ende jeder Stage erreichen, ohne vor Frust aufzugeben.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Walkthrough-Grundlagen
 
 Eine klassische Strategie gibt es kaum – entscheidend sind Geduld und

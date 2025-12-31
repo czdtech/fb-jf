@@ -27,6 +27,7 @@ zurück in den Start und versuchst, als Erste:r alle eigenen Figuren ins Ziel zu
 bringen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Aus dem Start kommen**  

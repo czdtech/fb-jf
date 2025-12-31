@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: dices-2048-3d
-title: "Dices 2048 3D"
+title: Dices 2048 3D
 description: >-
   Dices 2048 3D verbindet das klassische 2048-Prinzip mit Würfelphysik: Lasse
   gleiche Würfelwerte zusammenstoßen, verschmelze sie zu höheren Zahlen und
@@ -27,6 +27,7 @@ für neue Taktiken rund um Stapel, Abstände und das Verhindern unerwünschter
 Kettenreaktionen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1. **Spalten sauber halten:** Reserviere dir eine Spalte zum Kombinieren und

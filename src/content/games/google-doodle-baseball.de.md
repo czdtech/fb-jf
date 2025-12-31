@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: google-doodle-baseball
-title: "Google Doodle Baseball"
+title: Google Doodle Baseball
 description: >-
   Lockeres Baseball-Schlagspiel aus Googles 4th-of-July-Doodle: timinge deine
   Schwünge, ziele in die Lücken im Feld und sammle so viele Runs wie möglich,
@@ -41,6 +41,7 @@ Schlagwahl.
 
 - Tippen/Klicken/Leertaste, um zu schlagen.
 
+<!-- i18n:section:tips -->
 ### Tipps
 
 - Schwinge nicht blind im Voraus – reagiere auf den Moment der Ballfreigabe und

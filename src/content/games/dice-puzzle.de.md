@@ -22,6 +22,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Dice Puzzle ist ein cleveres und strategisches Puzzle-Spiel, das Logik mit einem Hauch von Glück verbindet. Das Ziel ist es, Würfel auf einem 5×5-Gitter zu platzieren und sie zu verschmelzen, um höherwertige Würfel zu erstellen. Indem du drei oder mehr benachbarte Würfel mit derselben Zahl zusammenbringst, kombinierst du sie zu einem einzelnen Würfel mit der nächsthöheren Zahl. Das ultimative Ziel ist es, spezielle Juwelenwürfel zu erstellen, indem du Würfel mit der Zahl 6 verschmelzt, was hilft, das Brett zu räumen und einen hohen Punktestand zu erreichen. Das Spiel endet, wenn das Brett voll ist und du keinen Würfel mehr platzieren kannst.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Spielstrategie & Walkthrough
 
 1.  **Die Verschmelzungsregel:** Der Kern des Spiels ist das Zusammenbringen von drei oder mehr identischen Würfeln, die nebeneinander liegen (in einer Linie oder einem Cluster). Sie werden dann zu einem einzelnen Würfel mit der nächsten Zahl verschmelzen (z.B. werden drei '4er' zu einer '5').

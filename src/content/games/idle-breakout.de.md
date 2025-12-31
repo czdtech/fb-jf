@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: idle-breakout
-title: "Idle Breakout"
+title: Idle Breakout
 description: >-
   Idle Breakout verbindet Idle-Mechaniken mit klassischem Brick-Breaker: Klicke
-  Blöcke weg, kaufe automatische Bälle und Geschütze, resette für Multiplikatoren
-  und optimiere deine Upgrades.
+  Blöcke weg, kaufe automatische Bälle und Geschütze, resette für
+  Multiplikatoren und optimiere deine Upgrades.
 iframeSrc: 'https://ubg98.github.io/IdleBreakout/'
 thumbnail: /new-images/thumbnails/idle-breakout.jpg
 tags:
@@ -45,6 +45,7 @@ Multiplikatoren freizuschalten, die spätere Runs drastisch beschleunigen.
 - **Maus:** Klicke direkt auf Blöcke, um Schaden zu verursachen, und verwende
   die UI-Buttons, um Bälle, Upgrades und Prestige-Boni zu kaufen.
 
+<!-- i18n:section:tips -->
 ### Tipps
 
 - Halte dir mindestens einen Ball mit hohem Schaden, um Boss-Blöcke schnell zu

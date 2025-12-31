@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: bubble-tower
-title: "Bubble Tower 3D"
+title: Bubble Tower 3D
 description: >-
   Erlebe Bubble-Shooting in einer neuen Dimension in Bubble Tower 3D. Drehe den
   Turm, ziele sorgfältig und triff mindestens drei gleichfarbige Blasen, bevor
@@ -31,6 +31,7 @@ Denkaufgabe: Du suchst dir den besten Winkel, erzeugst große Kettenreaktionen
 und lässt ganze Blöcke auf einmal herabfallen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  Drehen und überblicken: Nimm dir vor jedem Schuss einen Moment Zeit, den

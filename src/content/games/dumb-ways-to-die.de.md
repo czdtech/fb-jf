@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: dumb-ways-to-die
-title: "Dumb Ways to Die"
+title: Dumb Ways to Die
 description: >-
   Dumb Ways to Die ist eine schnelle Sammlung von Reaktions-Minispielen: Löse
   Mikro-Challenges im Zeitdruck, damit deine Figuren nicht auf dumme Weise
@@ -37,6 +37,7 @@ das Tempo stetig anzieht. Wenn du dreimal scheiterst, ist der Durchlauf vorbei.
 - Maus/Touch: Wischen, Tippen oder Halten, je nach Minispiel; einige Hosts
   setzen bei bestimmten Minispielen auch Pfeiltasten oder Leertaste ein.
 
+<!-- i18n:section:tips -->
 ### Tipps
 
 - Lies zuerst die Anweisung – viele Fehlversuche passieren, weil man aus

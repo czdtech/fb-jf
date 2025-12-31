@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: funny-shooter
-title: "Funny Shooter"
+title: Funny Shooter
 description: >-
   Funny Shooter ist ein Wave-Shooter-Prototyp: Kämpfe gegen schräge Gegner,
   sammle Geld und verbessere Waffen, um immer härtere Runden zu überleben.
@@ -37,6 +37,7 @@ stärker und zahlreicher, während du nach und nach deine Bewaffnung aufrüstest
 - R zum Nachladen.  
 - Zahlentasten für den Waffenwechsel.
 
+<!-- i18n:section:tips -->
 ### Tipps
 
 - Kopfschüsse sind am effizientesten und sparen Munition.

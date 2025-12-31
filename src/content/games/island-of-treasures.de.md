@@ -28,6 +28,7 @@ lassen. Das Spiel testet Reaktion und Timing, während du versuchst, deinen
 Highscore immer weiter zu verbessern.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Alles Wertvolle einsammeln**  

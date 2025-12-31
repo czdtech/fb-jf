@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: eggy-car
-title: "Eggy Car"
+title: Eggy Car
 description: >-
   Eggy Car ist ein physikbasiertes Fahrspiel: Transportiere ein zerbrechliches
   Ei auf deinem Auto über Hügel und Täler, ohne es herunterfallen zu lassen.
@@ -37,6 +37,7 @@ feinem Gasfinger schaffst du lange Distanzen.
 - A/D oder Pfeiltasten zum Fahren/Bremsen.  
 - R: Neustart des Laufs.
 
+<!-- i18n:section:tips -->
 ### Tipps
 
 - Behandle Hügelkuppen wie kleine Sprünge – nimm kurz Gas weg, bevor du den

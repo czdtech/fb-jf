@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: hobo
-title: "Hobo"
+title: Hobo
 description: >-
   Hobo ist ein überdrehtes Beat ’em up: Prügle dich durch Straßenlevel mit
   freischaltbaren Kombos, improvisierten Waffen und völlig abgefahrenen
@@ -44,6 +44,7 @@ weg, ohne überrannt zu werden.
 - Angriffs-, Sprung- und Griff-Tasten variieren je nach Host – die
   Komboeingaben werden meist im Spiel angezeigt.
 
+<!-- i18n:section:tips -->
 ### Tipps
 
 - Halte Gegner nach Möglichkeit auf **einer Seite** von dir, damit du nicht in

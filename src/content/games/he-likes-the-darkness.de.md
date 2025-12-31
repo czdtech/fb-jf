@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: he-likes-the-darkness
-title: "He Likes The Darkness"
+title: He Likes The Darkness
 description: >-
   He Likes The Darkness ist ein düsterer Platformer: Navigiere durch dunkle
   Levels, sammle Sphären und timinge präzise Sprünge an tödlichen Fallen vorbei.
@@ -25,6 +25,7 @@ und das Halten von Schwung meistert, schafft saubere Runs mit flüssigem
 Spielfluss.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Vorsichtig auskundschaften**  

@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: chess-grandmaster
-title: "Chess Grandmaster"
+title: Chess Grandmaster
 description: >-
   Chess Grandmaster bietet klassisches Schach – lerne Eröffnungen, berechne
   Taktiken und verwandle Vorteile mit soliden Endspielgrundlagen.
@@ -26,6 +26,7 @@ Grundmattbilder). Über anpassbare Schwierigkeitsstufen trainierst du sowohl
 Berechnung als auch Mustererkennung.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  Eröffnung: Entwickle deine Leichtfiguren, rochiere früh und kämpfe um das

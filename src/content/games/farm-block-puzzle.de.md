@@ -28,6 +28,7 @@ lange wie möglich Platz für neue Formen zu behalten und dabei einen hohen Scor
 zu erzielen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1. **Mit allen drei Formen planen:** Du bekommst immer drei Blöcke auf einmal.

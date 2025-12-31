@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: crescent-solitaire
-title: "Crescent Solitaire"
+title: Crescent Solitaire
 description: >-
   Crescent Solitaire ist eine entspannende Patience-Variante: verschiebe Karten
   zwischen halbmondförmigen Stapeln, baue die Fundamente auf und räume das
@@ -53,6 +53,7 @@ ihnen hin- und herschichten.
 - Es gibt keinen Nachziehstapel – alles hängt von Tableau-Manipulation und
   klugem Redeal-Einsatz ab.
 
+<!-- i18n:section:tips -->
 ### Tipps & Strategien
 
 - Baue möglichst gleichmäßig über alle Farben, damit nicht ein einzelnes

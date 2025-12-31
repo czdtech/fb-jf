@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: krampus
-title: "Krampus"
+title: Krampus
 description: >-
   Krampus ist ein weihnachtlicher Horror-Plattformspiel: Erkunde dunkle Level,
   weiche Fallen und Kreaturen aus und finde Schlüssel und Items, um aus der
@@ -41,6 +41,7 @@ Atmosphäre und belohnen vorsichtige Bewegung und genaues Beobachten.
 - Mit Pfeiltasten oder WASD bewegen und springen; Aktion-/Interaktions-Tasten
   können je nach Host variieren.
 
+<!-- i18n:section:tips -->
 ### Tipps
 
 - Achte auf kleine Lichtpunkte oder Glitzern – sie markieren oft wichtige Items

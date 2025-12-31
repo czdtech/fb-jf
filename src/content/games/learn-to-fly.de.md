@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: learn-to-fly
-title: "Learn To Fly"
+title: Learn To Fly
 description: >-
   Learn To Fly ist ein Pinguin-Weitflugspiel mit Upgrades: Stelle den
-  Absprungwinkel ein, gleite und booste, verdiene Geld und kaufe Teile, um
-  jeden Tag weiter zu fliegen.
+  Absprungwinkel ein, gleite und booste, verdiene Geld und kaufe Teile, um jeden
+  Tag weiter zu fliegen.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/learn-to-fly.html'
 thumbnail: /new-images/thumbnails/learn-to-fly.jpg
 tags:
@@ -44,6 +44,7 @@ verbesserst deinen Flug immer weiter.
 - Leertaste bzw. angegebene Tasten aktivieren Booster – je nach Host leicht
   unterschiedlich.
 
+<!-- i18n:section:tips -->
 ### Tipps
 
 - Flache Sturzflüge holen dich wieder auf Tempo, sanfte Steigflüge verlängern

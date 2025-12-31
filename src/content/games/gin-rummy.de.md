@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: gin-rummy
-title: "Gin Rummy"
+title: Gin Rummy
 description: >-
   Gin Rummy ist ein klassisches Zwei-Personen-Kartenspiel aus der Rummy-Familie.
   Bilde Sätze und Straßen, reduziere deinen "Deadwood"-Wert (unpassende Karten)
@@ -29,6 +29,7 @@ richtig einschätzt, welche Karten der Gegner sammelt, verschafft sich einen
 klaren Vorteil.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Ziel des Spiels**

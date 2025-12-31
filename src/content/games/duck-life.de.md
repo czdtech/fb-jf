@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: duck-life
-title: "Duck Life"
+title: Duck Life
 description: >-
   Duck Life ist der erste Teil der Trainings- und Rennsimulation: Stärke deine
   Ente in Minispielen und gewinne Rennen, um neue Gebiete freizuschalten.
@@ -36,6 +36,7 @@ in Rennen an, um dich durch verschiedene Gebiete zu arbeiten.
 
 - Pfeiltasten/Leertaste oder Maus, je nach Minispiel.
 
+<!-- i18n:section:tips -->
 ### Tipps
 
 - Konzentriere dich nicht nur auf einen Wert – ausgeglichene Stats bringen in

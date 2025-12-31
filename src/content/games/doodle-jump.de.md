@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: doodle-jump
-title: "Doodle Jump"
+title: Doodle Jump
 description: >-
   Doodle Jump ist ein vertikaler Endless-Platformer: Springe von Plattform zu
   Plattform, weiche Gefahren aus und klettere so hoch wie möglich.
@@ -40,6 +40,7 @@ Sprünge hinzulegen und noch höher zu kommen.
   automatisch beim Kontakt mit einer Plattform; Schuss/Aktion, falls
   vorhanden, über eine zusätzliche Taste oder einen Tap.
 
+<!-- i18n:section:tips -->
 ### Tipps
 
 - Bevorzuge stabile Plattformen, besonders wenn der Bildschirm schneller

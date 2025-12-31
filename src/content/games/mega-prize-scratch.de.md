@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: mega-prize-scratch
-title: "Mega Prize Scratch"
+title: Mega Prize Scratch
 description: >-
-  Mega Prize Scratch ist ein lockeres Rubbellos-Spiel: Rubble Felder frei,
-  triff Symbolkombinationen und setze dir feste Spielpausen und Limits, damit
-  es entspannt bleibt.
+  Mega Prize Scratch ist ein lockeres Rubbellos-Spiel: Rubble Felder frei, triff
+  Symbolkombinationen und setze dir feste Spielpausen und Limits, damit es
+  entspannt bleibt.
 iframeSrc: 'https://3a38lqtqled1o.h5games.usercontent.goog/v/37llbljplv5v0/'
 thumbnail: /new-images/thumbnails/mega-prize-scratch.png
 tags:
@@ -24,6 +24,7 @@ steht für sich – das Spiel ist als leichte Unterhaltung gedacht und nicht als
 strategische Herausforderung.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Budget festlegen**  

@@ -1,12 +1,13 @@
 ---
 locale: de
 urlstr: love-tester
-title: "Love Tester"
+title: Love Tester
 description: >-
   Verspieltes Spaß-Tool: Gib zwei Namen ein und erhalte einen lustigen
   Liebes-Kompatibilitätswert – völlig unwissenschaftlich und nur zur
   Unterhaltung gedacht.
-iframeSrc: 'https://games.cdn.famobi.com/html5games/l/love-tester/v030/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=24cb4711-7c74-4831-8b1c-678985959174&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=176&original_ref='
+iframeSrc: >-
+  https://games.cdn.famobi.com/html5games/l/love-tester/v030/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=24cb4711-7c74-4831-8b1c-678985959174&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=176&original_ref=
 thumbnail: /new-images/thumbnails/love-tester.jpg
 tags:
   - casual
@@ -36,6 +37,7 @@ nichts über echte Beziehungen aus.
 
 - Texteingabe per Tastatur und ein einzelner Button zum Starten des Tests.
 
+<!-- i18n:section:tips -->
 ### Tipps
 
 - Nutze kreative Eingaben wie Spitznamen, Teamnamen oder Insider-Wörter, um

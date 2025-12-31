@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: cards-of-the-undead
-title: "Cards of the Undead"
+title: Cards of the Undead
 description: >-
   Ein rundenbasiertes Überlebens-Kartenspiel. Bewege deinen Helden über das
   Spielfeld, bekämpfe Zombies, sammle Münzen und Power-ups und verwalte Leben
@@ -32,6 +32,7 @@ Lebenspunkte im Blick zu behalten, alle Zombies zu besiegen und dabei so lange
 wie möglich zu überleben.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  Vor dem Zug prüfen: Vergleiche vor jedem Zug auf eine Zombie-Karte die

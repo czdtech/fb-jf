@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: doodle-cricket
-title: "Doodle Cricket"
+title: Doodle Cricket
 description: >-
   Doodle Cricket ist ein lockeres Cricket-Minispiel: Triff den Ball im richtigen
   Moment, sammle Runs und vermeide Aus, um deinen Highscore zu knacken.
@@ -38,6 +38,7 @@ weiter, bis du schließlich "out" bist.
 - Maus/Touch: Ein einfacher Klick oder Tap reicht zum Schlagen. Timing bestimmt
   Richtung und Schlagkraft.
 
+<!-- i18n:section:tips -->
 ### Tipps
 
 - Schwinge nicht zu früh auf Verdacht – reagiere lieber auf Wurf und Absprung.

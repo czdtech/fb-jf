@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: cricket-mania
-title: "Cricket Mania"
+title: Cricket Mania
 description: >-
   Cricket Mania ist ein schnelles Cricket-Schlagspiel – wähle deine Schläge,
   timinge den Schwung und jage Zielvorgaben Over für Over.
@@ -24,6 +24,7 @@ so, dass du die Platzierung der Fielders ausnutzt und unter
 Zielvorgaben Runs sammelst.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  Schlagwahl nach Linie: Spiele Bälle auf den Pads mit einem Leg Glance, für

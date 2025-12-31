@@ -27,6 +27,7 @@ und verbesserst du dein Abwehrnetz, überstehst möglichst viele Wellen und
 konkurrierst um den Tages-Highscore.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1. **Türme kennen:** Verstehe die Stärken deiner Verteidigung.  

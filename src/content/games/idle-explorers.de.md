@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: idle-explorers
-title: "Idle Explorers"
+title: Idle Explorers
 description: >-
   Leite ein Team von Entdeckern und automatisiere dein Graben-Imperium in Idle
   Explorers! Rüste deine Arbeiter auf, schalte neue Grabungsorte frei und finde
@@ -29,6 +29,7 @@ profitablere Minen in anderen Gebieten frei und erweiterst dein Reich Schritt
 für Schritt.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Den Kern-Loop verstehen**  

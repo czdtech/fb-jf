@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: five-nights-at-freddy-3
-title: "Five Nights at Freddy's 3 (FNAF 3)"
+title: Five Nights at Freddy's 3 (FNAF 3)
 description: >-
   In FNAF 3 dreht sich alles um Systemmanagement: Locke Springtrap mit Audio,
   überwache Kameras und Lüftungen und starte ausgefallene Systeme neu, um jede
@@ -37,6 +37,7 @@ Systeme stören. Du jonglierst Kameras, Audiolockrufe und die Belüftung.
 
 - Maus/UI für Kameras, Audio, Lüftungs-Siegel und System-Reboots.
 
+<!-- i18n:section:tips -->
 ### Tipps
 
 - Halte Springtrap in Räumen weit weg vom Büro und locke ihn Schritt für

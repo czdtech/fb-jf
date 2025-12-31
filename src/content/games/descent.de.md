@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: descent
-title: "Descent"
+title: Descent
 description: >-
   Descent ist ein minimalistisches Arcade-Geschicklichkeitsspiel, in dem du
   einen Schacht hinabstürzt, von Wand zu Wand springst und gefährlichen
@@ -41,6 +41,7 @@ wechselst, während die Schwerkraft dich nach unten zieht.
   Links/Rechts oder A/D, um dich von der entsprechenden Wand abzustoßen.
   Details können je nach Host leicht variieren.
 
+<!-- i18n:section:tips -->
 ### Tipps und Strategien
 
 - Hetze nicht: Kleine Verzögerungen bringen das Timing der Fallen durcheinander

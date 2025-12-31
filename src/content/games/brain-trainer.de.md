@@ -28,6 +28,7 @@ trainierst du deine geistige Beweglichkeit, verbesserst Fokus und Reaktion und
 kannst deine Entwicklung über mehrere Sessions im Blick behalten.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Spielmodi & Beispiele
 
 Brain Trainer bietet mehrere Kategorien von Mini-Spielen; typische Beispiele:

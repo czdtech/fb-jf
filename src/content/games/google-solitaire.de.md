@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: google-solitaire
-title: "Google Solitaire"
+title: Google Solitaire
 description: >-
   Klassisches Klondike-Solitär: Baue für jede Farbe einen Ablagestapel von Ass
   bis König auf, während du in den Tableau-Spalten absteigend in wechselnden
@@ -42,6 +42,7 @@ die mit einem König beginnen) belegt werden.
 - Doppelklick auf geeignete Karten, um sie automatisch auf den Ablagestapel zu
   legen (wenn der Zug erlaubt ist).
 
+<!-- i18n:section:tips -->
 ### Tipps
 
 - Bevorzuge Züge, die eine **verdeckt liegende Karte** aufdecken – das erhöht

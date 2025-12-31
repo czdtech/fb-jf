@@ -28,6 +28,7 @@ nicht drehen**, also musst du deine Züge genau planen, damit das Feld nicht
 voll läuft.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Vorausplanen**  

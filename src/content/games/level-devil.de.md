@@ -1,12 +1,13 @@
 ---
 locale: de
 urlstr: level-devil
-title: "Level Devil"
+title: Level Devil
 description: >-
   Level Devil ist ein Troll-Plattformspiel: Level verändern sich plötzlich mit
   aufpoppenden Stacheln, einstürzenden Böden und falschen Ausgängen – lerne die
   Fallen kennen und bewahre die Ruhe.
-iframeSrc: 'https://szhong.4399.com/4399swf//upload_swf/ftp45/gamehwq/20231215/10/index.html'
+iframeSrc: >-
+  https://szhong.4399.com/4399swf//upload_swf/ftp45/gamehwq/20231215/10/index.html
 thumbnail: /new-images/thumbnails/level-devil.jpg
 tags:
   - platformer
@@ -41,6 +42,7 @@ Einprägen von Fallenstandorten – nicht durch blindes Durchrennen.
 - Pfeiltasten oder WASD zum Laufen und Springen; Neustart-Tasten können je nach
   Host unterschiedlich sein.
 
+<!-- i18n:section:tips -->
 ### Tipps
 
 - Renne nie blind los – teste Kanten zuerst mit kurzen Hüpfern, bevor du dich

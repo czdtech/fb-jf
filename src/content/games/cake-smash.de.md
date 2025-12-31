@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: cake-smash
-title: "Cake Smash"
+title: Cake Smash
 description: >-
   Zertrümmere leckere Kuchen in Cake Smash, einem bunten Match-3-Puzzlespiel.
-  Tausche Kuchen, bilde Reihen und löse Spezial-Kombos aus, um die Levelziele
-  zu erreichen.
+  Tausche Kuchen, bilde Reihen und löse Spezial-Kombos aus, um die Levelziele zu
+  erreichen.
 iframeSrc: 'https://41la6sld9ed88.h5games.usercontent.goog/v/36d90atplnu7o/'
 thumbnail: /new-images/thumbnails/cake-smash.png
 tags:
@@ -27,6 +27,7 @@ von oben neue nachrutschen. Jedes Level hat eigene Ziele – etwa eine bestimmte
 Punktzahl oder das Entfernen einer definierten Anzahl spezieller Kuchen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  Matches erkennen: Halte Ausschau nach Möglichkeiten, drei oder mehr

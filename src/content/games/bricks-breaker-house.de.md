@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: bricks-breaker-house
-title: "Bricks Breaker House"
+title: Bricks Breaker House
 description: >-
   Bricks Breaker House verbindet klassisches Brick-Breaker-Gameplay mit
   gemütlichen Hauskulissen – platziere deine Schläge präzise, nutze Power-ups
@@ -30,6 +30,7 @@ Konstellationen ergeben. Je besser du Winkel, Tempo und Power-ups kombinierst,
  desto entspannter kannst du selbst schwierige Wellen meistern.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  Kontrollierte Winkel wählen: Schieße den Ball in etwa 30–45 Grad, um

@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: coloring-match
-title: "Coloring Match"
+title: Coloring Match
 description: >-
-  Coloring Match bringt dir Farbmischen bei – kombiniere Farben, um Zieltöne
-  zu treffen, justiere Farbton/Sättigung und feile mit kleinen Anpassungen am
+  Coloring Match bringt dir Farbmischen bei – kombiniere Farben, um Zieltöne zu
+  treffen, justiere Farbton/Sättigung und feile mit kleinen Anpassungen am
   perfekten Match.
 iframeSrc: 'https://21t5l4ct88d8g.h5games.usercontent.goog/v/6kels35kspngg/'
 thumbnail: /new-images/thumbnails/coloring-match.jpg
@@ -26,6 +26,7 @@ anpasst. Feinheiten sind entscheidend: Selbst wenn der Farbton stimmt, kannst
 du mit zu hoher Sättigung oder falscher Helligkeit danebenliegen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  Erst Farbton, dann Feintuning: Orientiere dich zunächst am Farbkreis, bis

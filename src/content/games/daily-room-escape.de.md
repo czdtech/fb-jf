@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: daily-room-escape
-title: "Daily Room Escape"
+title: Daily Room Escape
 description: >-
   Daily Room Escape bietet tägliche Mini-Escape-Rätsel – durchsuche Räume,
   knacke Logikschlösser und setze Hinweise richtig zusammen.
@@ -25,6 +25,7 @@ Zahlen- und Symbolcodes und setzt Items an den richtigen Stellen ein, um den
 Ausgang zu öffnen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  Raum gründlich absuchen: Tippe auf Hotspots, verschiebe Kissen, öffne

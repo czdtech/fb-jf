@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: crossword-puzzle
-title: "Crossword Puzzle"
+title: Crossword Puzzle
 description: >-
   Crossword Puzzle ist ein klassisches Worträtsel: Fülle das Gitter, indem du
   horizontale und vertikale Hinweise löst, bis alle Kreuzungen passen.
@@ -46,6 +46,7 @@ cryptic-Varianten verwenden andere Hinweis-Konventionen und Gridmuster.
 - Mit Maus/Touch auf einen Hinweis in der Liste tippen, um den entsprechenden
   Eintrag zu fokussieren.
 
+<!-- i18n:section:tips -->
 ### Tipps & Strategien
 
 - Beginne mit leichten Hinweisen wie Lückentexten und solchen mit Plural- oder

@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: fruit-ninja
-title: "Fruit Ninja"
+title: Fruit Ninja
 description: >-
   Fruit Ninja ist ein Arcade-Slicer: Wische durch fliegende Früchte, weiche
   Bomben aus und kette Kombos und Frenzy-Boni für hohe Scores.
@@ -36,6 +36,7 @@ Je nach Host stehen dir Classic-, Arcade- oder Zen-Modi zur Verfügung.
 
 - Maus/Touch: Wischbewegungen zum Schneiden; Pause/Neustart über die UI.
 
+<!-- i18n:section:tips -->
 ### Tipps
 
 - Versuche mit jedem Swipe möglichst viele Flugbahnen zu kreuzen.

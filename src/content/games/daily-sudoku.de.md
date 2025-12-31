@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: daily-sudoku
-title: "Daily Sudoku"
+title: Daily Sudoku
 description: >-
   Daily Sudoku liefert dir jeden Tag ein neues Logikrätsel – platziere die
   Ziffern 1–9 so, dass jede Zeile, Spalte und Box alle Zahlen ohne
@@ -40,6 +40,7 @@ Notizfunktionen und Prüftools bereit.
 - Zahlentasten zum Eintragen; Shift/Rechtsklick (je nach Seite) wechselt in den
   Notizmodus; Undo/Redo und Prüf-Tools sind meist vorhanden.
 
+<!-- i18n:section:tips -->
 ### Tipps & Strategien
 
 - Beginne mit offensichtlichen Singles, indem du Zeilen, Spalten und Boxen

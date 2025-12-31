@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: cat-sort-quest
-title: "Cat Sort Quest"
+title: Cat Sort Quest
 description: >-
   Cat Sort Quest ist ein gemütliches Farbsortier-Puzzle – verschiebe Katzen
   zwischen Sitzstangen, sammle gleiche Farben und jongliere mit wenigen freien
@@ -30,6 +30,7 @@ Die wenigen freien Sitzstangen dienen als Puffer, weshalb vorausschauendes
 Planen entscheidend ist.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  Einen Puffer freihalten: Versuche, zumindest eine Sitzstange so lange wie

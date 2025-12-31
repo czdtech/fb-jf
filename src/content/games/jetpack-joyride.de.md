@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: jetpack-joyride
-title: "Jetpack Joyride"
+title: Jetpack Joyride
 description: >-
   Seitlich scrollender Runner mit Gadgets: Weiche Stromzappern und Raketen aus,
   schnapp dir Fahrzeuge und Münzreihen und erfülle Missionen, um Upgrades
@@ -41,6 +41,7 @@ Sterne zu verdienen und neue Upgrades freizuschalten.
 - Halten/Tippen zum Steigen, Loslassen zum Sinken; zusätzliche Buttons für
   Gadgets und Menüs je nach Host.
 
+<!-- i18n:section:tips -->
 ### Tipps
 
 - Lerne die Muster der Zapper; spätes Antippen hilft, enge Lücken präzise zu

@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: kitchen-sorting
-title: "Kitchen Sorting"
+title: Kitchen Sorting
 description: >-
   Kitchen Sorting ist ein aufgeräumtes Sortier-Puzzle: Ordne Lebensmittel,
   Küchenutensilien und Abfall unter Zeitdruck den richtigen Behältern zu und
@@ -31,6 +31,7 @@ langes Zögern. Später laufen mehrere Förderbänder gleichzeitig und strengere
 Hygieneregeln bestrafen jede Form von Kreuzkontamination.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Die wichtigsten Regeln zuerst**  

@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: farming-10x10
-title: "Farming 10x10"
+title: Farming 10x10
 description: >-
   Farming 10x10 kleidet das klassische 10x10-Blockpuzzle im Farmstil neu ein:
   Platziere Formen, räume Reihen/Spalten ab und halte dir immer genug
@@ -26,6 +26,7 @@ Flexibilität zu bewahren und gleichzeitig gezielt Mehrfach-Löschungen
 vorzubereiten.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1. **Zentrum offen halten:** Lass die Mitte möglichst frei und räume Kanten

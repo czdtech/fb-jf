@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: duck-life-4
-title: "Duck Life 4"
+title: Duck Life 4
 description: >-
   Duck Life 4 ist eine Trainings- und Rennsimulation: Stärke die Werte deiner
   Ente in Minispielen und gewinne Turniere in verschiedenen Regionen.
@@ -38,6 +38,7 @@ mithält; Hüte und Evolutionen ändern das Aussehen.
 - Pfeiltasten/Maus, je nach Minispiel; in vielen Lauf-Minispielen nutzt du die
   Leertaste zum Springen (hostabhängig).
 
+<!-- i18n:section:tips -->
 ### Tipps
 
 - Trainiere rotierend, damit kein einzelner Wert zur Schwachstelle in einem

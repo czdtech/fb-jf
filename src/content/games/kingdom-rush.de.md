@@ -1,11 +1,10 @@
 ---
 locale: de
 urlstr: kingdom-rush
-title: "Kingdom Rush"
+title: Kingdom Rush
 description: >-
   Kingdom Rush ist der Tower-Defense-Klassiker: Platziere und verbessere vier
-  Turmtypen, rufe Verstärkungen und steuere einen Helden, um Engpässe zu
-  halten.
+  Turmtypen, rufe Verstärkungen und steuere einen Helden, um Engpässe zu halten.
 iframeSrc: 'https://1000freegames.github.io/swf/kingdom-rush.html'
 thumbnail: /new-images/thumbnails/kingdom-rush.jpg
 tags:
@@ -46,6 +45,7 @@ Spawn-Mechaniken, sodass du flexibel bauen musst.
 - Sämtliche Turm- und Heldenaktionen steuerst du mit Maus oder Touch; Hotkeys
   können je nach Plattform variieren.
 
+<!-- i18n:section:tips -->
 ### Tipps
 
 - **Wenige, starke Türme**  

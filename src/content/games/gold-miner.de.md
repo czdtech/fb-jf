@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: gold-miner
-title: "Gold Miner"
+title: Gold Miner
 description: >-
   Gold Miner ist ein klassischer Greifhaken-Arcade-Hit. Lasse die schwingende
   Klaue im richtigen Moment los, sammle Gold und Edelsteine ein, kaufe Power-ups
@@ -44,6 +44,7 @@ um schwierige Level zu meistern.
 - Zusätzliche Tasten steuern **Dynamit**, **Tränke** oder andere Items – je
   nach Version des Spiels.
 
+<!-- i18n:section:tips -->
 ### Tipps
 
 - Lerne den **Schwenk-Timing** der Klaue: Löse ein kleines Stück **vor** dem

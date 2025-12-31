@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: gangsters
-title: "Gangsters"
+title: Gangsters
 description: >-
-  Gangsters ist ein physikbasierter Ragdoll-Shooter: Zwei Strichmännchen-Gangster
-  springen und schießen auf Dächern – time Sprünge und Schüsse, um den Gegner
-  herunterzustürzen.
+  Gangsters ist ein physikbasierter Ragdoll-Shooter: Zwei
+  Strichmännchen-Gangster springen und schießen auf Dächern – time Sprünge und
+  Schüsse, um den Gegner herunterzustürzen.
 iframeSrc: >-
   https://app-185146.games.s3.yandex.net/185146/4mtxwijatlm9neect542qv9nbcqetm7u/index.html
 thumbnail: /new-images/thumbnails/gangsters.jpg
@@ -39,6 +39,7 @@ verliert die Runde.
 - Je nach Host ein Ein-Knopf-System (springen/schießen kombiniert) oder
   getrennte Tasten pro Aktion.
 
+<!-- i18n:section:tips -->
 ### Tipps
 
 - Kleine Hüpfer stabilisieren dein Ziel, große Sprünge dienen dem Ausweichen

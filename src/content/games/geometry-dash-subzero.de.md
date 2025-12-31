@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: geometry-dash-subzero
-title: "Geometry Dash SubZero"
+title: Geometry Dash SubZero
 description: >-
   Geometry Dash SubZero bietet eigenständige Winter-Levels: Springe, fliege und
   triff Ringe im Takt der Musik durch eisige Welten mit schnellen Patterns.
@@ -36,6 +36,7 @@ Wechsel in Schiffspassagen.
 
 - Tippen/Leertaste/Mausklick zum Springen; Halten zum Fliegen (je nach Host).
 
+<!-- i18n:section:tips -->
 ### Tipps
 
 - Schalte überladene Effekte aus, wenn sie dich vom Rhythmus ablenken.

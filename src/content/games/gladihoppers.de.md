@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: gladihoppers
-title: "Gladihoppers"
+title: Gladihoppers
 description: >-
   Gladihoppers ist ein verrückter 2D-Gladiatorenkampf mit hüpfender Physik.
-  Rüste deinen Kämpfer mit Waffen, Rüstungen und Schilden aus, timinge Stöße
-  und Paraden richtig und kämpfe dich in verschiedenen Arenen immer weiter nach
+  Rüste deinen Kämpfer mit Waffen, Rüstungen und Schilden aus, timinge Stöße und
+  Paraden richtig und kämpfe dich in verschiedenen Arenen immer weiter nach
   oben.
 iframeSrc: 'https://m.igroutka.ru/g-1/113/Gladihoppers/'
 thumbnail: /new-images/thumbnails/gladihoppers.jpg
@@ -49,6 +49,7 @@ Arenen und Spielmodi frei.
 - In lokalen Mehrspielermodi teilen sich zwei Spieler eine Tastatur oder ein
   Gerät und ziehen abwechselnd in die Arena.
 
+<!-- i18n:section:tips -->
 ### Tipps
 
 - **Speere & Piken** sind stark auf Distanz und belohnen gutes

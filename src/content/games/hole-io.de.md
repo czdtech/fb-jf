@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: hole-io
-title: "Hole io"
+title: Hole io
 description: >-
   Stadtverschlingendes .io-Spiel: Steuere ein Schwarzes Loch, friss Objekte,
   wachse immer weiter und übertrumpfe oder eliminiere deine Rivalen auf der
@@ -43,6 +43,7 @@ schlucken kannst.
   Plattform.  
 - Modus, Dauer und Siegbedingungen variieren je nach Host.
 
+<!-- i18n:section:tips -->
 ### Tipps
 
 - Meide größere Löcher, solange du noch klein bist – flüchte über breite

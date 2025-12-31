@@ -25,6 +25,7 @@ zwischen ihnen versteckt sind. Je besser deine Kombos und je länger du
 überlebst, desto höher fällt dein Score aus.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1. **Auf Kombos spielen:** Hohe Punktzahlen bekommst du, wenn du mehrere

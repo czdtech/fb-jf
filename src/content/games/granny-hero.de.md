@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: granny-hero
-title: "Granny Hero"
+title: Granny Hero
 description: >-
-  Granny Hero ist ein humorvoller Action-Runner: Weiche Hindernissen aus,
-  nutze schräge Power-ups und rette als flinke Oma deine Nachbarn.
+  Granny Hero ist ein humorvoller Action-Runner: Weiche Hindernissen aus, nutze
+  schräge Power-ups und rette als flinke Oma deine Nachbarn.
 iframeSrc: 'https://0nd9712ar55uo.h5games.usercontent.goog/v/3qru4tsu7d5v0/'
 thumbnail: /new-images/thumbnails/granny-hero.png
 tags:
@@ -26,6 +26,7 @@ Regenschirme oder Bratpfannen, die dir kurzzeitig Unverwundbarkeit oder
 Mengen-Kontrolle verleihen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Blick voraus halten**  

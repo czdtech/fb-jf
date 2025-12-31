@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: crazy-caves
-title: "Crazy Caves"
+title: Crazy Caves
 description: >-
   Betritt die Crazy Caves und teste deine Reflexe. Weiche einem Dauerregen aus
   Felsbrocken aus, wirf Spitzhacken, zertrümmere Steine für Edelsteine und Gold
@@ -33,6 +33,7 @@ verbesserst du deine Ausrüstung und versuchst, in den chaotischen Höhlen immer
 länger durchzuhalten.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  Überleben hat Priorität: Wichtigstes Ziel ist, nicht getroffen zu werden.

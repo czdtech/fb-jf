@@ -20,10 +20,12 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 Incredibox Fruity ist ein klassisches seitlich scrollendes 2D-Strategiespiel, das in der Flash-Ära sehr beliebt war. Das Kernkonzept des Spiels ist ein Kampf zwischen zwei Basen, eine gehört dem Spieler und die andere einem KI-Gegner. Das einzigartige und definierende Feature des Spiels ist sein „Evolutions"-Mechanismus. Spieler starten in der Steinzeit (als Höhlenmenschen) und müssen Erfahrungspunkte (XP) sammeln, um durch fünf verschiedene Epochen voranzuschreiten: Steinzeit, Mittelalter, Moderne und schließlich die Zukunfts-Ära. Jede Evolution schaltet nicht nur mächtigere Einheiten und Verteidigungstürme frei, sondern stellt auch die Gesundheit deiner Basis vollständig wieder her. Das ultimative Ziel ist einfach: Überlebe den Ansturm des Feindes und zerstöre seine Basis.
 
+<!-- i18n:section:how-to-play -->
 ### Gameplay-Strategie & Walkthrough
 
 Incredibox Fruity zu meistern erfordert ein Gleichgewicht aus Angriff, Verteidigung und strategischem Timing.
 
+<!-- i18n:section:tips -->
 #### 1. Frühspiel-Strategie (Steinzeit)
 *   **Der Höhlenmensch-Rush:** Die häufigste und effektivste Eröffnungsstrategie ist, die günstigste Einheit, den „Keulenmann", zu spammen. Sie sind kosteneffektiv und können den Feind in den frühen Phasen schnell überrennen.
 *   **Fokus auf XP:** Dein primäres Ziel ist es, feindliche Einheiten zu töten, um so schnell wie möglich XP zu sammeln. Ein starker offensiver Vorstoß hilft dir, schneller XP zu verdienen, was zu einer früheren Evolution führt.

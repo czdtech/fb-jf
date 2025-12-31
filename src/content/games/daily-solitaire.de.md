@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: daily-solitaire
-title: "Daily Solitaire"
+title: Daily Solitaire
 description: >-
   Jeden Tag wartet eine neue Klondike-Solitaire-Herausforderung auf dich.
-  Sortiere die Karten von Ass bis König und teste dein Können mit einem
-  frischen Rätsel pro Tag.
+  Sortiere die Karten von Ass bis König und teste dein Können mit einem frischen
+  Rätsel pro Tag.
 iframeSrc: 'https://dailysolitaire.h5games.usercontent.goog/v/0e4orvvorj2mo/'
 thumbnail: /new-images/thumbnails/daily-solitaire.png
 tags:
@@ -27,6 +27,7 @@ Fähigkeiten zu testen, Fortschritte nachzuverfolgen und kurz in klassische
 Kartentaktik einzutauchen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  Ziel: Bringe alle 52 Karten für jede Farbe in aufsteigender Reihenfolge von

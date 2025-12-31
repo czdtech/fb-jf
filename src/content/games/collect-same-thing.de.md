@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: collect-same-thing
-title: "Collect Same Thing"
+title: Collect Same Thing
 description: >-
   Collect Same Thing ist ein aufgeräumtes Paarspiel – finde identische Objekte,
   räume das Feld und plane ums knappe Platzangebot herum.
@@ -25,6 +25,7 @@ werden tiefere Ebenen sichtbar; Erfolg hängt davon ab, Wege zu öffnen, seltene
 Symbole rechtzeitig abzuräumen und keine einzelnen "Waisen" einzusperren.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  Wege freischalten: Räum zuerst Reihen und Spalten frei, die viele verdeckte

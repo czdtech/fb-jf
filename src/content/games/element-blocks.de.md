@@ -27,6 +27,7 @@ Ein Sternesystem und Power-ups geben dir zusätzliche Werkzeuge, um dich aus
 engen Situationen zu befreien und deine Partie zu verlängern.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1. **Standard-10x10-Regeln:** Du erhältst immer drei Blockformen gleichzeitig

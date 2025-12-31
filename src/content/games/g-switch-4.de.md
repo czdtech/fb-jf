@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: g-switch-4
-title: "G-Switch 4"
+title: G-Switch 4
 description: >-
   G-Switch 4 ist der bisher feinste Gravity-Flip-Runner: präzise One-Button-
   Steuerung, dichte Fallenketten und kompetitive lokale Rennen für viele
@@ -37,6 +37,7 @@ richtigen Moment entscheidet über Sieg oder Sturz.
 - Eine Taste/Ein Tap zum Schwerkraftwechsel, im Versus-Modus je eine Taste pro
   Spieler.
 
+<!-- i18n:section:tips -->
 ### Tipps
 
 - Übe auf langsameren Abschnitten, bis dein Rhythmus sitzt, und steigere dann

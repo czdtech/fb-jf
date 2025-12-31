@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: getaway-shootout
-title: "Getaway Shootout"
+title: Getaway Shootout
 description: >-
-  Getaway Shootout ist ein chaotischer Physik-Racer-Shooter: Hüpfe im
-  Zweitakt zur Fluchtzone, sammle schräge Waffen ein und trickse Rivalen im
-  Solo- oder 2-Spieler-Modus aus.
+  Getaway Shootout ist ein chaotischer Physik-Racer-Shooter: Hüpfe im Zweitakt
+  zur Fluchtzone, sammle schräge Waffen ein und trickse Rivalen im Solo- oder
+  2-Spieler-Modus aus.
 iframeSrc: 'https://ubg44.github.io/GetawayShootout/'
 thumbnail: /new-images/thumbnails/getaway-shootout.jpg
 tags:
@@ -42,6 +42,7 @@ beherrscht, gewinnt.
 - Zwei Tasten für Hüpfer nach links/rechts, plus eigene Taste zur
   Item-Nutzung (Keybinds je nach Host); lokaler 2-Spieler wird unterstützt.
 
+<!-- i18n:section:tips -->
 ### Tipps
 
 - Auf Abhängen solltest du längere Halten timen, um Höhengewinn in

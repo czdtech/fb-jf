@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: cooking-mania
-title: "Cooking Mania"
+title: Cooking Mania
 description: >-
   Cooking Mania ist ein schnelles Koch- und Zeitmanagementspiel – jongliere
-  Bestellungen, baue Kombos auf und rüste deine Küche auf, um Gäste glücklich
-  zu machen.
+  Bestellungen, baue Kombos auf und rüste deine Küche auf, um Gäste glücklich zu
+  machen.
 iframeSrc: 'https://626dr588t6g9g.h5games.usercontent.goog/v/76eqgdom1qfbg/'
 thumbnail: /new-images/thumbnails/cooking-mania.jpg
 tags:
@@ -26,6 +26,7 @@ Pfannen und schnellerer Vorbereitung kannst du Bestellungen in Serie abarbeiten
  und Bonusmünzen verdienen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  Vorratsproduktion: Bereite beliebte Gerichte oder Basiszutaten in kleinen

@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: jet-boi
-title: "Jet Boi"
+title: Jet Boi
 description: >-
   2‑Spieler-Jetpack-Duelle: Nutze begrenzten Treibstoff, sammle Waffen ein und
   stoße deinen Gegner in schnellen Runden von den Plattformen.
@@ -42,6 +42,7 @@ Höhenposition und damit den Vorteil.
   Spiel ist aber klar für **lokalen 2-Spieler-Modus** ausgelegt (z. B.
   unterschiedliche Tastenhälften der Tastatur).
 
+<!-- i18n:section:tips -->
 ### Tipps
 
 - Kurze Jetpack-Taps stabilisieren dein Zielen; lange Schübe sind eher zum

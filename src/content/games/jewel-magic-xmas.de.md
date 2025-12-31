@@ -28,6 +28,7 @@ räumst das Spielfeld und erfüllst unterschiedliche Ziele – vom Befreien
 vereister Felder bis hin zum Einsammeln von Geschenken.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Weihnachtliche Power-ups erstellen**  

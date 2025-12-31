@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: hexa-dungeon
-title: "Hexa Dungeon"
+title: Hexa Dungeon
 description: >-
   Betritt den Hexa Dungeon und kämpfe gegen Skelette! In diesem Match-3-Puzzle-
   RPG verbindest du gleichfarbige Hexfelder, um mächtige Angriffe auf deine
@@ -29,6 +29,7 @@ du jetzt maximalen Schaden machst oder das Brett für stärkere Züge in den
 nächsten Runden vorbereitest.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Lange Ketten = hoher Schaden**  

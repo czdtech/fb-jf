@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: diner-dash
-title: "Diner Dash"
+title: Diner Dash
 description: >-
-  Diner Dash ist ein rasantes Zeitmanagement-Spiel: Setze Gäste an Tische,
-  nimm Bestellungen auf, serviere Essen und halte alle zufrieden, um die
-  Levelziele zu erreichen.
+  Diner Dash ist ein rasantes Zeitmanagement-Spiel: Setze Gäste an Tische, nimm
+  Bestellungen auf, serviere Essen und halte alle zufrieden, um die Levelziele
+  zu erreichen.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/diner-dash.html'
 thumbnail: /new-images/thumbnails/diner-dash.jpg
 tags:
@@ -43,6 +43,7 @@ kannst.
   Aktionen in eine Warteschlange zu legen. In manchen Versionen kannst du Gäste
   oder Teller auch per Drag-and-Drop bewegen.
 
+<!-- i18n:section:tips -->
 ### Tipps und Strategien
 
 - Kette ähnliche Aktionen möglichst hintereinander, um lange Kombos aufzubauen

@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: crash-bandicoot
-title: "Crash Bandicoot"
+title: Crash Bandicoot
 description: >-
   Crash Bandicoot ist ein Retro-Arcade-Platformer: Laufe, springe und wirble,
   sammle Wumpa-Früchte und Kristalle, weiche TNT aus und meistere thematische
@@ -42,6 +42,7 @@ Bosskampf; triffst du ihn mit Eisenkisten per Wirbel, beendest du das Spiel mit
 - Pfeiltasten: Bewegen / Springen (Oben) / Ducken (Unten)
 - Leertaste: Wirbelangriff (Taste kann je nach Host leicht variieren)
 
+<!-- i18n:section:tips -->
 ### Tipps & Strategien
 
 - Timinge deine Sprünge sorgfältig, um bewegliche Plattformen und Abgründe zu

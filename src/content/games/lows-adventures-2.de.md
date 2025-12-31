@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: lows-adventures-2
-title: "Low's Adventures 2"
+title: Low's Adventures 2
 description: >-
   Retro-Plattformspiel-Fortsetzung: Laufe und springe durch kompakte Level,
   finde Schlüssel und Geheimnisse und stelle dich Zeit-Herausforderungen.
@@ -38,6 +38,7 @@ belohnen dich für schnelle Durchläufe und clevere Abkürzungen.
 - Bewegen und Springen mit Pfeiltasten oder WASD.
 - Angreifen/Interagieren je nach Host über eigene Tasten.
 
+<!-- i18n:section:tips -->
 ### Tipps
 
 - **Sprünge puffern**  

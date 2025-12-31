@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: flames-fortune
-title: "Flames & Fortune"
+title: Flames & Fortune
 description: >-
   Flames & Fortune ist ein taktischer, kartenähnlicher Battler – verwalte deine
   Hand, nutze Tempo-Vorteile und überliste Gegner mit klug geplanten Zügen.
@@ -23,6 +23,7 @@ verwaltet begrenzte Ressourcen und reagierst auf die Absichten deiner Gegner,
 um den Kampfverlauf zu deinen Gunsten zu drehen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1. **Zugkurve planen:** Versuche, deine Ressourcen pro Runde möglichst komplett

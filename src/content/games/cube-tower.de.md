@@ -1,10 +1,11 @@
 ---
 locale: de
 urlstr: cube-tower
-title: "Cube Tower"
+title: Cube Tower
 description: >-
-  Schütze deinen Cube Tower vor Wellen von Gegnern in diesem Tower-Defense-Spiel.
-  Platziere und verbessere deine Türme strategisch, um zu überleben.
+  Schütze deinen Cube Tower vor Wellen von Gegnern in diesem
+  Tower-Defense-Spiel. Platziere und verbessere deine Türme strategisch, um zu
+  überleben.
 iframeSrc: 'https://cubetower.h5games.usercontent.goog/v/6k8tnoea28210/'
 thumbnail: /new-images/thumbnails/cube-tower.png
 tags:
@@ -25,6 +26,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Verlauf der Level.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  Platzierung planen: Überlege dir genau, wo du Türme baust, damit ihre

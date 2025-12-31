@@ -27,6 +27,7 @@ Torten. Ziel ist es, Kundenbestellungen zu erfüllen, Münzen zu verdienen und
 alle Rezepte im „Kuchenbuch“ zu entdecken.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Die Merge-Kette**  

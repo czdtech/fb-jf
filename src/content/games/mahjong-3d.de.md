@@ -19,6 +19,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 <!-- i18n:section:introduction -->
+<!-- i18n:section:how-to-play -->
 ## Spielanleitung
 
 ### Ausführliche Spielbeschreibung

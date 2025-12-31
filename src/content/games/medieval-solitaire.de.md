@@ -28,6 +28,7 @@ Ablagestapel nach Farben von Ass bis König zu sortieren und damit das Deck
 vollständig zu leeren.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Ziel**  

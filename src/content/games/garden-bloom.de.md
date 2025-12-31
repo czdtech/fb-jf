@@ -27,6 +27,7 @@ auf deiner To-do-Liste im Garten ausführst – etwa Aufräumen, Bepflanzen oder
 Dekorationen platzieren.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Gameplay & Strategie
 
 1. **Zwei Spiele in einem:**  

@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: crocword
-title: "Crocword"
+title: Crocword
 description: >-
   Crocword ist ein entspanntes Wortpuzzle – verbinde Buchstaben, bilde Wörter
   und fülle Kreuzwortgitter mit cleverem Wortschatz.
@@ -24,6 +24,7 @@ werden. Bonuswörter bringen dir Münzen oder Hinweise; mit längeren und
 komplizierteren Grids steigt der Schwierigkeitsgrad.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  Zwangspositionen füllen: Beginne mit Feldern, in denen nur wenige Buchstaben

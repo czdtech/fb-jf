@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: guess-the-word
-title: "Guess The Word"
+title: Guess The Word
 description: >-
   Guess The Word ist ein klares Wortlegespiel: Verbinde Buchstaben, nutze
   Mustererkennung und fülle Kreuzwort-Gitter mit deinem Wortschatz und etwas
@@ -26,6 +26,7 @@ Anagramme trickreicher, seltene Buchstabenkombinationen häufiger und Vokale
 knapper – belohnt werden ein gutes Gefühl für Muster und strategisches Raten.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Kurze, offensichtliche Wörter zuerst**  

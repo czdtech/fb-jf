@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: bricks-breaker
-title: "Bricks Breaker"
+title: Bricks Breaker
 description: >-
   Mach dich bereit für klassische Arcade-Action in Bricks Breaker: Steuere den
-  Schläger, halte den Ball im Spiel und zerstöre alle Blöcke, um Level für
-  Level zu räumen.
+  Schläger, halte den Ball im Spiel und zerstöre alle Blöcke, um Level für Level
+  zu räumen.
 iframeSrc: 'https://5enjropk1ren8.h5games.usercontent.goog/v/6u5qapt4kt1j8/'
 thumbnail: /new-images/thumbnails/bricks-breaker.jpg
 tags:
@@ -32,6 +32,7 @@ abwechslungsreiche Block-Formationen und spannende Power-ups bietet Bricks
 Breaker langanhaltenden Spielspaß.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  Schläger gezielt einsetzen: Deine Hauptaufgabe ist es, den Schläger so zu

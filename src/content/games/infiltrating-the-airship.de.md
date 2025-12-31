@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: infiltrating-the-airship
-title: "Infiltrating the Airship"
+title: Infiltrating the Airship
 description: >-
   In diesem Henry-Stickmin-Abenteuer infiltrierst du ein Luftschiff: Wähle
   Gadgets und Routen, löse Gags aus und schalte mehrere Enden über die
@@ -40,6 +40,7 @@ du frühere Abschnitte erneut spielen, um alle Fails und Enden zu sammeln.
 
 - Meist Maus für Entscheidungen; je nach Host gelegentlich Tasten für QTEs.
 
+<!-- i18n:section:tips -->
 ### Tipps
 
 - Hab keine Angst vor Fehlversuchen – jeder Fail zeigt dir neue Gags und

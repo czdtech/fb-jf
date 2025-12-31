@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: candy-bubbles
-title: "Candy Bubbles"
+title: Candy Bubbles
 description: >-
   Betritt eine zuckersüße Welt in Candy Bubbles. Ziele mit der Kanone, triff
   Gruppen aus mindestens drei gleichfarbigen Bonbonblasen und räume das
@@ -28,6 +28,7 @@ Mit vielen Leveln, kleinen Rätselkniffen und befriedigenden Kettenreaktionen
 ist es ein entspannendes Puzzle für jedes Alter.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  Hoch zielen: Wie in jedem Bubble-Shooter bringt es am meisten, möglichst

@@ -27,6 +27,7 @@ Timing brauchst du auch Voraussicht, um Züge des Gegners zu erahnen und ihn im
 besten Fall zu blockieren.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1. **Grundregeln:** Beide Spieler starten mit einer Hand voller Steine. Meist

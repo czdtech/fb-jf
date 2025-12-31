@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: bowling-stars
-title: "Bowling Stars"
+title: Bowling Stars
 description: >-
   Bowling Stars bringt glattes Zehn‑Pin‑Bowling in den Browser. Lies die Bahn,
   wähle Winkel und Hook und wirf konstante Strikes.
@@ -24,6 +24,7 @@ hohe Punktzahlen – je besser du Anlauf und Abgabepunkt reproduzieren kannst,
  desto länger wird deine Strike‑Serie.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Pocket anvisieren:** Rechtshänder zielen auf die Tasche zwischen Pin 1–3,

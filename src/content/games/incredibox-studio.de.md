@@ -25,6 +25,7 @@ Versionen mit festen Sets bietet diese "Studio"-Variante einen ausgeprägten
 und kannst daraus völlig eigene Kompositionen bauen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Kreativ- & Gameplay-Tipps
 
 *   Da es eine Sandbox ist, besteht die „Strategie“ vor allem aus Kreativität.

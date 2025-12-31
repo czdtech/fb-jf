@@ -31,6 +31,7 @@ spielen, Spezialjuwelen erzeugen und mächtige Kettenreaktionen auslösen, um au
 schwierige Puzzles zu knacken.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Spezialjuwelen meistern**  

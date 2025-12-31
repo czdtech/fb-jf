@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: bubble-shooter-hd
-title: "Bubble Shooter HD"
+title: Bubble Shooter HD
 description: >-
   Genieße den klassischen, extrem süchtig machenden Bubble Shooter HD. Ziele
   deine Blase präzise, kombiniere drei oder mehr gleicher Farbe und räume so
@@ -27,6 +27,7 @@ intuitiver Steuerung, klarer Grafik und befriedigender Kettenreaktionen eignet
 sich das Spiel für Einsteiger wie Profis gleichermaßen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  Genau zielen: Nutze die Hilfslinie, die dir beim Zielen angezeigt wird.

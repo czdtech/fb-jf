@@ -27,6 +27,7 @@ Doppelsprüngen überwindest du immer neue Abstände und versuchst, so weit wie
 möglich zu kommen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1. **Doppelsprung meistern:** Die wichtigste Fähigkeit ist der Doppelsprung.

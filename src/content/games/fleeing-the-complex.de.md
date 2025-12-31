@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: fleeing-the-complex
-title: "Fleeing the Complex"
+title: Fleeing the Complex
 description: >-
-  Fleeing the Complex ist Henry Stickmins größter Ausbruch: Triff Entscheidungen,
-  nutze schräge Gadgets und finde mehrere Enden – inklusive zahlreicher
-  herrlich gescheiterter Fluchtversuche.
+  Fleeing the Complex ist Henry Stickmins größter Ausbruch: Triff
+  Entscheidungen, nutze schräge Gadgets und finde mehrere Enden – inklusive
+  zahlreicher herrlich gescheiterter Fluchtversuche.
 iframeSrc: 'https://ubg77.github.io/fleeing-the-complex/'
 thumbnail: /new-images/thumbnails/fleeing-the-complex.jpg
 tags:
@@ -38,6 +38,7 @@ In Fleeing the Complex versucht Henry Stickmin, aus einem Hochsicherheits-Gefän
 - Maus zum Wählen von Optionen und Interagieren.  
 - Zusätzliche Tasten für QTEs können je nach Host variieren.
 
+<!-- i18n:section:tips -->
 ### Tipps
 
 - Wenn eine Option scheitert, probiere den alternativen Weg – viele Szenen

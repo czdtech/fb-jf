@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: golf-orbit
-title: "Golf Orbit"
+title: Golf Orbit
 description: >-
   Golf Orbit ist ein One-Tap-Golfspiel mit Weltraum-Flugphysik. Bestimme
   Abschlagswinkel und Kraft, nutze Spin und Schwerkraft der Planeten und lass
@@ -28,6 +28,7 @@ besten Schläge reiten Hänge aus, streifen Hindernisse nur knapp und ketten
 mehrere Bounces aneinander, um entfernte Ziele zu erreichen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Winkel diszipliniert wählen**  

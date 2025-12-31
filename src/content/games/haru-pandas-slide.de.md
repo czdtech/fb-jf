@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: haru-pandas-slide
-title: "Haru Pandas Slide"
+title: Haru Pandas Slide
 description: >-
   Haru Pandas Slide ist ein entspanntes Schiebepuzzle: Verschiebe Kacheln, um
   niedliche Pandabilder mit möglichst wenigen Zügen wieder richtig
@@ -27,6 +27,7 @@ fixierte Kacheln hinzu, die sich nicht bewegen lassen und deine Zugwege
 zusätzlich einschränken – gute Planung schlägt hier reines Ausprobieren.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Rahmen zuerst vervollständigen**  

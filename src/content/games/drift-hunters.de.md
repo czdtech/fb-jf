@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: drift-hunters
-title: "Drift Hunters"
+title: Drift Hunters
 description: >-
-  Drift Hunters ist ein 3D-Drift-Racer: Tune deine Wagen, reiße lange Driftketten
-  und sammle Punkte auf verschiedenen Strecken.
+  Drift Hunters ist ein 3D-Drift-Racer: Tune deine Wagen, reiße lange
+  Driftketten und sammle Punkte auf verschiedenen Strecken.
 iframeSrc: 'https://webglmath.github.io/drift-hunters/'
 thumbnail: /new-images/thumbnails/drift-hunters.jpg
 tags:
@@ -40,6 +40,7 @@ Turbo und Gewicht und schaltest neue Strecken frei.
 - C: Kamera wechseln.  
 - R: Zurücksetzen (je nach Host leicht abweichend).
 
+<!-- i18n:section:tips -->
 ### Tipps
 
 - Dosier das Gas im Drift feinfühlig, damit dein Wagen nicht unkontrolliert

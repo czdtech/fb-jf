@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: bubble-shooter
-title: "Bubble Shooter"
+title: Bubble Shooter
 description: >-
   Ziele, schieße und kombiniere bunte Blasen im klassischen Bubble-Shooter.
   Plane deine Schüsse, nutze die Wände für Abpraller und lasse große
@@ -35,6 +35,7 @@ Anzahl von Schüssen, die keine Gruppe lösen, erscheint oben eine neue Reihe �
 und erhöht den Druck.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 -   Auf hohe Blasen zielen: Wichtig ist nicht nur, überhaupt Treffer zu landen,

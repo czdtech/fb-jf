@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: going-balls
-title: "Going Balls"
+title: Going Balls
 description: >-
   Going Balls ist ein 3D-Kugel-Runner über schmale Bahnen voller Fallen. Halte
-  das Gleichgewicht, weich Hindernissen aus, sammle Münzen und erreiche das Ziel,
-  ohne von der Strecke zu fallen.
+  das Gleichgewicht, weich Hindernissen aus, sammle Münzen und erreiche das
+  Ziel, ohne von der Strecke zu fallen.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp45/gamehwq/20231116/10/index.htm
 thumbnail: /new-images/thumbnails/going-balls.jpg
@@ -47,6 +47,7 @@ Skins oder Fortsetzungen freizuschalten.
 - Manche Versionen unterstützen **R**, um schnell neu zu starten (abhängig vom
   Host).
 
+<!-- i18n:section:tips -->
 ### Tipps
 
 - Schaue immer ein Stück **voraus**, statt nur direkt vor die Kugel – so kannst

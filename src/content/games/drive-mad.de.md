@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: drive-mad
-title: "Drive Mad"
+title: Drive Mad
 description: >-
   Drive Mad ist eine physikbasierte Fahrherausforderung: Halte dein Fahrzeug im
   Gleichgewicht, überwinde Hindernisse und erreiche das Ziel, ohne dich zu
@@ -41,6 +41,7 @@ Timing und Feingefühl beim Gasgeben erfordern.
 - R: Level neu starten.  
 - Esc/P: Pause (abhängig vom Host).
 
+<!-- i18n:section:tips -->
 ### Tipps
 
 - Drücke das Gas nur dosiert – Vollgas führt oft dazu, dass sich der Wagen

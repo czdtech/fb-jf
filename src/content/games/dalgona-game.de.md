@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: dalgona-game
-title: "Dalgona Game"
+title: Dalgona Game
 description: >-
   Dalgona Game setzt das Ausschneiden von Zuckerwaben um – fahre Formen
   vorsichtig nach, kontrolliere Risse und schließe rechtzeitig ab, bevor die
@@ -25,6 +25,7 @@ herausarbeiten. Zu viel Druck oder ein Abweichen von der Linie lassen die
 Zuckerplatte reißen – und die Runde ist verloren.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  Langsam in den Ecken: Fahre Kurven besonders langsam und sauber nach;

@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: ducklings
-title: "Ducklings"
+title: Ducklings
 description: >-
   Ducklings ist ein entspanntes Sammelspiel auf dem Wasser: Rette Entenküken auf
   dem See und bring sie sicher zurück in dein Nest.
@@ -37,6 +37,7 @@ Ducklings ist ein ruhiges Collect-'em-up auf dem Wasser. Du schwimmst über
 
 - Maus/Touch oder Pfeiltasten, um zu steuern.
 
+<!-- i18n:section:tips -->
 ### Tipps
 
 - Übertreibe es nicht mit der Kettenlänge – banke bei dichtem Verkehr lieber

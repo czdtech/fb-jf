@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: castle-craft
-title: "Castle Craft"
+title: Castle Craft
 description: >-
   Brich in Castle Craft zu einem Merge-und-Bau-Abenteuer auf. Kombiniere Items,
   sammle Ressourcen, erfülle Quests und verwandle deinen kleinen Garten nach und
@@ -31,6 +31,7 @@ erfüllst du Quests, verdienst Währung und lichtest den Nebel, der neue
 Gebiete verbirgt. So wächst dein Reich mit jeder Fusion weiter.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  Merge-5 meistern: Auch wenn das Kombinieren von drei Objekten die

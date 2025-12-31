@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: bubble-woods-ultimate
-title: "Bubble Woods Ultimate"
+title: Bubble Woods Ultimate
 description: >-
-  Liefere dir ein Rennen gegen die Zeit im schnellen Bubble Woods Ultimate.
-  Du hast 60 Sekunden, um so viele Blasen wie möglich zu platzen, gewaltige
-  Kombos aufzubauen und mit starken Boostern einen neuen Highscore aufzustellen.
+  Liefere dir ein Rennen gegen die Zeit im schnellen Bubble Woods Ultimate. Du
+  hast 60 Sekunden, um so viele Blasen wie möglich zu platzen, gewaltige Kombos
+  aufzubauen und mit starken Boostern einen neuen Highscore aufzustellen.
 iframeSrc: 'https://bubblewoods4.h5games.usercontent.goog/v/4jslovpheann0/'
 thumbnail: /new-images/thumbnails/bubble-woods-ultimate.png
 tags:
@@ -30,6 +30,7 @@ Dank mächtiger Booster und eines Levelsystems, das präzises und schnelles Spie
 belohnt, wird jede Runde zu einem kleinen Sprint um den Highscore.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  Tempo ist alles: Mit nur 60 Sekunden auf der Uhr zählt jede Aktion. Zögere

@@ -28,6 +28,7 @@ Mindestpunktzahl, dem Entfernen spezieller Blöcke oder dem Einsammeln bestimmte
 Tierarten – und das alles mit nur begrenzt vielen Zügen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Power-ups erstellen**  

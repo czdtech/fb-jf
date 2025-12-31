@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: fuzzies
-title: "Fuzzies"
+title: Fuzzies
 description: >-
   Fuzzies ist ein farbenfroher Bubble Shooter mit flauschigen Kugeln: Ziele,
   kombiniere Farben und verhindere, dass die Wand den unteren Bildschirmrand
@@ -37,6 +37,7 @@ Kettenreaktionen aus, während die Decke langsam nach unten rutscht.
 - Maus/Touch zum Zielen und Schießen; je nach Version kannst du die nächste
   Farbe tauschen.
 
+<!-- i18n:section:tips -->
 ### Tipps
 
 - Ziele auf hoch hängende Ankerpunkte, um große Cluster mit einem Schuss

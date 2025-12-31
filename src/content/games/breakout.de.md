@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: breakout
-title: "Breakout"
+title: Breakout
 description: >-
   Steuere das Paddle, pralle den Ball zurück und zerstöre alle Steine im
   Arcade‑Klassiker Breakout. Lerne Tipps und Tricks, um diesen zeitlosen
@@ -33,6 +33,7 @@ Je mehr Steine du abräumst, desto schneller wird der Ball und desto
 anspruchsvoller wird das Timing.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie
 
 - **Winkelkontrolle meistern:** Entscheidend ist, *wo* der Ball dein Paddle

@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: lemonade-stand
-title: "Lemonade Stand"
+title: Lemonade Stand
 description: >-
   Klassische Wirtschaftssimulation: Lege Preis, Rezept und Werbung fest, kaufe
   Becher/Zitronen/Eis und maximiere deinen Tagesgewinn bei wechselndem Wetter.
@@ -42,6 +42,7 @@ unverkauftes Material verlierst.
 - Bediene alle Einstellungen (Mengen, Preise, Werbung) über Maus und
   Benutzeroberfläche und starte dann den nächsten Tag.
 
+<!-- i18n:section:tips -->
 ### Tipps
 
 - Kaufe verderbliche Waren wie Eis nicht in Massen, wenn der Wetterbericht

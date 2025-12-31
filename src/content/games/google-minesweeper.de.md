@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: google-minesweeper
-title: "Google Minesweeper"
+title: Google Minesweeper
 description: >-
   Klassisches Logikrätsel: Decke alle sicheren Felder auf, ohne eine Mine zu
   zünden, indem du aus Zahlenhinweisen und gesetzten Flaggen auf Minenpositionen
@@ -41,6 +41,7 @@ aktivieren. Je nach Schwierigkeitsgrad ändern sich Feldgröße und Minenanzahl.
 - Maus oder Touch-Eingabe; optionale Chord- und Schnellöffnen-Kürzel hängen vom
   jeweiligen Host ab.
 
+<!-- i18n:section:tips -->
 ### Tipps
 
 - Verwende eine **konsequente Markierungsstrategie**, damit du Flaggen nicht

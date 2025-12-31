@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: gold-miner-tom
-title: "Gold Miner Tom"
+title: Gold Miner Tom
 description: >-
   Hilf Tom dabei, reich zu werden! Wirf seine Greifklaue im richtigen Moment,
   sammle Goldklumpen, Diamanten und andere Schätze ein und erreiche das
@@ -29,6 +29,7 @@ Diamanten und geheimnisvolle Überraschungssäcke bringen Geld – schwere, wert
 Steine kosten dagegen nur Zeit.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Timing ist alles**  

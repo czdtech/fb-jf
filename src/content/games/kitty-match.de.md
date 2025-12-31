@@ -31,6 +31,7 @@ Das Spiel ist entspannt und eignet sich für alle Altersgruppen, besonders
 für Puzzle- und Katzenfans.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Auf große Matches achten**  

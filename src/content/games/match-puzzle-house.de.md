@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: match-puzzle-house
-title: "Match Puzzle House"
+title: Match Puzzle House
 description: >-
   Match Puzzle House verbindet Match-3-Puzzle mit Wohnungsrenovierung: Erfülle
-  Levelziele, verdiene Sterne und richte Räume mit clever eingesetzten
-  Boostern ein.
+  Levelziele, verdiene Sterne und richte Räume mit clever eingesetzten Boostern
+  ein.
 iframeSrc: 'https://7cp83ss0h08p0.h5games.usercontent.goog/v/49v2bsl4scjdo/'
 thumbnail: /new-images/thumbnails/match-puzzle-house.png
 tags:
@@ -26,6 +26,7 @@ und aufzuwerten. Auf dicht gefüllten Brettern sind Booster und Power-up-Kombos
 entscheidend, um dir genug Platz zu verschaffen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Mitte öffnen**  

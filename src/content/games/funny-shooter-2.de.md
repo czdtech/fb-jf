@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: funny-shooter-2
-title: "Funny Shooter 2"
+title: Funny Shooter 2
 description: >-
   Funny Shooter 2 ist ein Wave-basierter FPS: Ballere skurrile Gegner mit einem
   wachsenden Waffenarsenal weg, sammle Coins und verbessere deine Ausrüstung
@@ -38,6 +38,7 @@ bessere Waffen und Hilfsmittel.
 - 1–3 zum Waffenwechsel.  
 - Shift zum Sprinten (je nach Host).
 
+<!-- i18n:section:tips -->
 ### Tipps
 
 - Kopftreffer sparen Munition und Zeit – besonders auf höheren Wellen.

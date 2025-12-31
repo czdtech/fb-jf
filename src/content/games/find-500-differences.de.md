@@ -27,6 +27,7 @@ Szenerien bietet das Spiel viele Stunden entspannter, aber fordernder
 Knobelei für alle Altersgruppen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1. **Systematisch scannen:** Starte z.B. links oben und arbeite dich wie beim

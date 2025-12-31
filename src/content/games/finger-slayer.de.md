@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: finger-slayer
-title: "Finger Slayer"
+title: Finger Slayer
 description: >-
-  Finger Slayer ist ein Reflex-Test mit nur einem Button: Ziehe deinen
-  "Finger" in letzter Millisekunde zurück, um der zuschnappenden Falle zu
-  entkommen – ohne zu früh zu zucken.
+  Finger Slayer ist ein Reflex-Test mit nur einem Button: Ziehe deinen "Finger"
+  in letzter Millisekunde zurück, um der zuschnappenden Falle zu entkommen –
+  ohne zu früh zu zucken.
 iframeSrc: 'https://7ftsta5r737o8.h5games.usercontent.goog/v/3m7r2si8ppdlg/'
 thumbnail: /new-images/thumbnails/finger-slayer.jpg
 tags:
@@ -25,6 +25,7 @@ höher, Täuschungsanimationen gemeiner und Rhythmuswechsel unangenehmer.
 Ziel ist es, so spät wie möglich – aber noch rechtzeitig – zu reagieren.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1. **Auf das Signal achten:** Die meisten Fallen haben einen kurzen

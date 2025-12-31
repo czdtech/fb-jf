@@ -26,6 +26,7 @@ Logik sind identisch: Jede Zeile, Spalte und Box muss die Ziffern 1–9 genau
  einmal enthalten. Unterschiedliche Schwierigkeitsgrade sorgen für Abwechslung.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  Grundregel: Pro Zeile, Spalte und 3×3-Box jede Ziffer nur einmal.

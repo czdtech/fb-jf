@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: categories
-title: "Categories"
+title: Categories
 description: >-
   Categories ist ein leichtes Wort- und Logikrätsel – ordne Begriffe nach
   Themen, entlarve Ausreißer und schlage die Uhr.
@@ -24,6 +24,7 @@ Täuschungsmanöver heraus und löst die Sets unter sanftem Zeit- oder
 Zugdruck.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  Einfache Gruppen zuerst: Sichere dir offensichtliche Sets früh, um die

@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: hide-and-seek
-title: "Hide And Seek!"
+title: Hide And Seek!
 description: >-
   Lockeres Versteck- und Fangspiel von oben: Als Suchender jagst du Spieler mit
   Sichtkegel und Sprints, als Versteckter mischst du dich unter NPCs, sammelst
@@ -43,6 +43,7 @@ verdächtige Spieler auf, bevor der Timer abläuft.
 - Eine zusätzliche Aktionstaste löst Power-ups oder Interaktionen aus
   (plattformabhängig).
 
+<!-- i18n:section:tips -->
 ### Tipps
 
 - **Verstecker:** Imitiere typische NPC-Bewegungen – kleine Stopps, Richtungs-

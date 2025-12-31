@@ -28,6 +28,7 @@ starke Kombos erzeugst. Große Gruppen erzeugen Booster wie Raketen oder Bomben,
 mit denen du riesige Teile des Felds leeren kannst.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Je größer, desto besser:** Suche nach den größten möglichen Gruppen. Kleine

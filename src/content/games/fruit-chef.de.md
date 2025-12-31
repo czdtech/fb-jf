@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: fruit-chef
-title: "Fruit Chef"
+title: Fruit Chef
 description: >-
   Fruit Chef ist ein schnelles Frucht-Slice-Spiel: Kette saubere Schnitte,
   weiche Bomben aus und halte dein Tempo für Monster-Kombos.
@@ -23,6 +23,7 @@ Bomben ab. Das Punktesystem belohnt lange, gerade Schnitte über mehrere Frücht
 und einen gleichmäßigen Rhythmus statt hektischer Wischbewegungen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1. **Lange Striche:** Versuche, mehrere Früchte mit einer geraden Linie zu

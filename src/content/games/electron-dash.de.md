@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: electron-dash
-title: "Electron Dash"
+title: Electron Dash
 description: >-
   Electron Dash ist ein schneller Tunnel-Runner: Springe, dash durch Lücken und
   lande sicher auf rotierenden Plattformen, um möglichst weit zu kommen.
@@ -11,7 +11,7 @@ tags:
   - arcade
   - runner
 score: 4.4/5  (1386 votes)
-releaseDate: 2025-09-09
+releaseDate: 2025-09-09T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -36,6 +36,7 @@ Electron Dash ist ein rasanter Runner in einem futuristischen Tunnel. Du rennst
 - Pfeiltasten/WASD zum Bewegen und Springen.  
 - Leertaste oder X für den Dash (je nach Host leicht unterschiedlich).
 
+<!-- i18n:section:tips -->
 ### Tipps
 
 - Zentriere deine Bahn, bevor du über Kuppen läufst – Kameraschwenks können

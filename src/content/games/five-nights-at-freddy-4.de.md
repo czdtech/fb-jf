@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: five-nights-at-freddy-4
-title: "Five Nights at Freddy's 4 (FNAF 4)"
+title: Five Nights at Freddy's 4 (FNAF 4)
 description: >-
   Schlafzimmer-Albtraum: Höre auf Atemgeräusche, kontrolliere Türen und
   Kleiderschrank und nutze deine Taschenlampe mit Bedacht, um die Nachtmonster
@@ -37,6 +37,7 @@ Taschenlampe und Gehör, um Jumpscares zu vermeiden.
 - Maus/Tastatur, um zwischen den Positionen zu wechseln; spezielle Tasten für
   Türen und Taschenlampe hängen vom Host ab.
 
+<!-- i18n:section:tips -->
 ### Tipps
 
 - Immer erst hören, dann Licht an – ein Lichtblitz bei hörbarem Atmen führt

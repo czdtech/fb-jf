@@ -26,6 +26,7 @@ feinere Unterschiede verbergen. Deine Aufgabe ist es, alle Abweichungen zu
 finden, bevor die Zeit abläuft – entspannt, aber durchaus anspruchsvoll.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1. **Strukturiert vorgehen:** Starte in einer Ecke (z.B. oben links) und

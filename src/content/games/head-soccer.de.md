@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: head-soccer
-title: "Head Soccer"
+title: Head Soccer
 description: >-
   Head Soccer ist arcadiger 1v1-Fußball mit Riesen-Köpfen: Springe, schieße und
   setze Spezialschüsse ein, um deinen Gegner in kurzen, knackigen Partien zu
@@ -42,6 +42,7 @@ als dein Gegner.
 - Separate Tasten für **Schuss** und **Spezialschuss** variieren je nach
   Plattform – beachte die Ingame-Anzeige.
 
+<!-- i18n:section:tips -->
 ### Tipps
 
 - Ein früher Sprung in Kombination mit einem schnellen Schuss erzeugt oft

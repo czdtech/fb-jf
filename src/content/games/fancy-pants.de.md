@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: fancy-pants
-title: "Fancy Pants"
+title: Fancy Pants
 description: >-
   Fancy Pants ist ein stylischer Strichmännchen-Platformer mit hohem Tempo:
-  Nutze Schwung, Walljumps und flüssige Parkour-Bewegungen durch
-  handgezeichnete Levels und geheime Räume.
+  Nutze Schwung, Walljumps und flüssige Parkour-Bewegungen durch handgezeichnete
+  Levels und geheime Räume.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210305/jj8/index.html
 thumbnail: /new-images/thumbnails/fancy-pants.jpg
@@ -37,6 +37,7 @@ Wänden hoch und entdeckst geheime Bereiche sowie Sammelitems.
 - S/Nach unten zum Rutschen.  
 - Nach oben, um Türen oder Eingänge zu öffnen (je nach Host).
 
+<!-- i18n:section:tips -->
 ### Tipps
 
 - Hämmere nicht einfach auf die Sprungtaste – ein präziser Sprung direkt an der

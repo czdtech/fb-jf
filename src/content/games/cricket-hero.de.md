@@ -1,11 +1,10 @@
 ---
 locale: de
 urlstr: cricket-hero
-title: "Cricket Hero"
+title: Cricket Hero
 description: >-
   Tritt an den Schlag und werde zum Cricket Hero. Triff den Ball im perfekten
-  Timing und sammle so viele Runs wie möglich in diesem spannenden
-  Schlagspiel.
+  Timing und sammle so viele Runs wie möglich in diesem spannenden Schlagspiel.
 iframeSrc: 'https://crickethero.h5games.usercontent.goog/v/7cnfq54s3ilao/'
 thumbnail: /new-images/thumbnails/cricket-hero.jpg
 tags:
@@ -29,6 +28,7 @@ oder wirst "bowled", ist dein Innings vorbei. Wie viele Runs schaffst du, um
 wirklich zum Cricket Hero zu werden?
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  Auf den Ball schauen: Das wichtigste Cricket-Grundgesetz gilt auch hier –

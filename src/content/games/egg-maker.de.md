@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: egg-maker
-title: "Egg Maker"
+title: Egg Maker
 description: >-
   Egg Maker ist ein schnelles Küchen-Puzzlespiel: Takte Zubereitungsschritte,
   timinge Pfannen richtig und serviere perfekte Eier im Küchenstress.
@@ -24,6 +24,7 @@ ihren eigenen Stil (Rührei, Spiegelei, Omelett) und ein enges Zeitfenster für
  Reihenfolge und dein Abholtiming entscheiden, ob du "perfekt" triffst oder
  die Portion verbrennst.
 
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1. **Stationsrhythmus:** Beginne immer mit dem längsten Schritt (Pfanne auf
@@ -44,6 +45,7 @@ ihren eigenen Stil (Rührei, Spiegelei, Omelett) und ein enges Zeitfenster für
   Pfanne oder auf den Teller zu legen; auf den Kunden tippen, um zu servieren.
 - Pause/Neustart über die UI zwischen den Schichten.
 
+<!-- i18n:section:tips -->
 ### Fortgeschrittene Tipps
 
 - **Pufferteller:** Stelle Teller in Herdnähe bereit, damit du bei

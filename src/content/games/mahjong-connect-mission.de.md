@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: mahjong-connect-mission
-title: "Mahjong Connect : Mission"
+title: 'Mahjong Connect : Mission'
 description: >-
   Mahjong Connect: Mission ist ein Verbindungs-Mahjong: Verbinde identische
   Steine über Pfade mit höchstens zwei Knicken, räume das Feld und schlage die
@@ -28,6 +28,7 @@ Spezialfelder ein, die du priorisiert abräumen und mit sauberem
 Board-Management kontrollieren musst.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Ränder zuerst prüfen**  

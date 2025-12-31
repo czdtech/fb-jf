@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: color-roll-3d
-title: "Color Roll 3D"
+title: Color Roll 3D
 description: >-
   Color Roll 3D ist ein befriedigendes Entroll-und-Ausfüll-Puzzle – rolle
   Farbbahnen in der richtigen Reihenfolge aus, um das Zielmuster exakt zu
@@ -26,6 +26,7 @@ frühere teilweise überdecken – nur mit der richtigen Sequenz entsteht das
 gewünschte Muster.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  Basisfarbe zuerst: Beginne meist mit der tiefsten bzw. flächigsten Farbe,

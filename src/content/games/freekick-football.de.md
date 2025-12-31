@@ -24,6 +24,7 @@ Mauer und Torwart vorbeizuschlenzen. Das Spiel fordert dein Gefühl für
 Platzierung, Timing und Ballflug.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1. **Zielen:** Suche dir vor jedem Schuss eine klare Bahn zum Tor. Beziehe

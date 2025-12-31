@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: escaping-the-prison
-title: "Escaping the Prison"
+title: Escaping the Prison
 description: >-
   Escaping the Prison ist ein Henry-Stickmin-Point-and-Click-Abenteuer: Wähle
   Items und Routen (Sneaky/Badass/Legal), scheitere spektakulär und finde die
@@ -37,6 +37,7 @@ in herrlich absurden Fails, nur wenige führen zu einem erfolgreichen Ausbruch.
 - Maus: Klicke auf Optionen und Quick-Time-Einblendungen.  
 - Leertaste für bestimmte Unterbrechungen oder Spezialaktionen (je nach Host).
 
+<!-- i18n:section:tips -->
 ### Tipps
 
 - Wenn du nicht weiterkommst, probiere die anderen großen Routenäste – viele

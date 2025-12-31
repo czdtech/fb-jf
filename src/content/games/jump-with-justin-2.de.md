@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: jump-with-justin-2
-title: "Jump With Justin 2"
+title: Jump With Justin 2
 description: >-
   Jump With Justin 2 ist ein sprunghafter Plattformspiel: Time deine Sprünge,
   pralle von Hindernissen ab, nutze Federn und Plattformen und hüpfe dich zum
@@ -26,6 +26,7 @@ Schwung beizubehalten, um mit möglichst wenigen Fehlern den Ausgang jedes
 Levels zu erreichen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Sprungbögen kontrollieren**  

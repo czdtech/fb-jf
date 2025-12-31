@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: guns-n-bottles
-title: "Guns n' Bottles"
+title: Guns n' Bottles
 description: >-
   Teste dein Timing und deine Präzision in diesem süchtig machenden
   Schießbuden-Spiel. Tippe im perfekten Moment, um Flaschen zu treffen, während
@@ -29,6 +29,7 @@ abzustimmen. Grüne Flaschen bringen Punkte – rote Flaschen solltest du um jed
 Preis vermeiden.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Rotation vorausdenken**  

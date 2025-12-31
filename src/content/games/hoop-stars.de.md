@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: hoop-stars
-title: "Hoop Stars"
+title: Hoop Stars
 description: >-
   Hoop Stars ist ein Ring-Flip-Skillspiel: Drehe den Ring, timinge deine Flips
   und lasse ihn sauber über den Pfosten gleiten, bevor dein Gegner punktet.
@@ -27,6 +27,7 @@ Würfe konstant timet und gute Ausgangswinkel vorbereitet, gewinnt mehr Spiele
 als reines Button-Mashing.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Vorrotation einstellen**  

@@ -26,6 +26,7 @@ gezielt zielen, Rebounds einplanen und Verteidiger umgehen. Power-ups und Boni
 verstärken deine Schüsse oder bringen Zusatzbälle und Extra-Punkte.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1. **Zielen ist alles:** Überlege dir vor jedem Schuss die wahrscheinliche

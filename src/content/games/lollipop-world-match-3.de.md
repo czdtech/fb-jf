@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: lollipop-world-match-3
-title: "Lollipop World : match 3"
+title: 'Lollipop World : match 3'
 description: >-
   Lollipop World: Match 3 ist ein süßes Bonbon-Puzzle: Kombiniere Power-ups,
-  räume Blocker aus dem Weg und erfülle die Dschungelziele innerhalb des
-  engen Zuglimits.
+  räume Blocker aus dem Weg und erfülle die Dschungelziele innerhalb des engen
+  Zuglimits.
 iframeSrc: 'https://4oij9suhguc58.h5games.usercontent.goog/v/1osssadggdrao/'
 thumbnail: /new-images/thumbnails/lollipop-world-match-3.jpg
 tags:
@@ -28,6 +28,7 @@ Power-ups – etwa Bombe + Linie oder große Farb-Clears – entscheidend, um
 Platz zu schaffen und die Ziele rechtzeitig zu erreichen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Ziel vor Punkte stellen**  

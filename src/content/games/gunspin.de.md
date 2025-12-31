@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: gunspin
-title: "Gunspin"
+title: Gunspin
 description: >-
   Gunspin ist ein Arcade-Spiel, in dem der Rückstoß deine Bewegung antreibt:
-  Schieße, um dich zu drehen und voranzufliegen, sammle Munition ein und versuche,
-  möglichst weit durch die Level zu kommen.
+  Schieße, um dich zu drehen und voranzufliegen, sammle Munition ein und
+  versuche, möglichst weit durch die Level zu kommen.
 iframeSrc: 'https://ubg44.github.io/GunSpin/'
 thumbnail: /new-images/thumbnails/gunspin.jpg
 tags:
@@ -42,6 +42,7 @@ und schaltet nach und nach stärkere Waffen frei.
 - Schießen mit **Mausklick** oder **Leertaste**; Richtung und Zeitpunkt des
   Schusses bestimmen deine Flugbahn.
 
+<!-- i18n:section:tips -->
 ### Tipps
 
 - Kurze, kontrollierte **Taps** sind meistens effizienter als lange

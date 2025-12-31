@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: diwali-lights
-title: "Diwali Lights"
+title: Diwali Lights
 description: >-
   Diwali Lights ist ein festliches Licht-Puzzle: Entzünde Diyas in vorgegebenen
   Mustern, vermeide Überschneidungen und bringe die leuchtenden Designs zum
@@ -26,6 +26,7 @@ Züge, Schalterfelder oder Zeitdruck dazu, sodass du jeden Schritt genau planen
 musst.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1. **Regeln verstehen:** Manche Bretter verbieten Überlappungen, andere

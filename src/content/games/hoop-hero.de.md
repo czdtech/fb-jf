@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: hoop-hero
-title: "Hoop Hero"
+title: Hoop Hero
 description: >-
   Tippe im richtigen Moment, um den Ball zu stopfen! Teste deine Reflexe in
   diesem schnellen One-Tap-Basketballspiel und timinge deine Dunks perfekt für
@@ -29,6 +29,7 @@ immer schneller und kniffliger. Dein Ziel ist es, möglichst viele Dunks in
 Folge zu erzielen und deinen Highscore zu knacken.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Timing ist alles**  

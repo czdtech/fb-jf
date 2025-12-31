@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: gym-stack
-title: "Gym Stack"
+title: Gym Stack
 description: >-
   Gym Stack ist ein kniffliges 3D-Puzzlespiel mit Hantelscheiben: Staple und
   kombiniere gleichfarbige Gewichte, um größere Scheiben zu bilden, Platz zu
@@ -29,6 +29,7 @@ Gewichte und du schaffst neuen Platz. Ziel ist es, durch clevere Züge möglichs
 viele Punkte zu machen, bevor alle Stangen überfüllt sind.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Nach Farben sortieren**  

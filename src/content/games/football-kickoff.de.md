@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: football-kickoff
-title: "Football Kickoff"
+title: Football Kickoff
 description: >-
   Football Kickoff stellt das Special Team in den Mittelpunkt: Ziele deine
   Kicks, lies den Wind und sichere Feldposition mit gut dosierter Schusskraft.
@@ -23,6 +23,7 @@ spielen eine Rolle; dein Timing auf der Powermeter-Anzeige und die gewählte
 Richtung entscheiden über Weite und Präzision.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1. **Wind lesen:** Ziele leicht gegen den Wind; je stärker er weht, desto

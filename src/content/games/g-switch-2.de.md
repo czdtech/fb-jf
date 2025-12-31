@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: g-switch-2
-title: "G-Switch 2"
+title: G-Switch 2
 description: >-
   G-Switch 2 ist der Nachfolger des Gravity-Flip-Runners: Laufe alleine oder im
-  lokalen Multiplayer, kippe die Schwerkraft im richtigen Moment und
-  überlebe Fallen bei steigender Geschwindigkeit.
+  lokalen Multiplayer, kippe die Schwerkraft im richtigen Moment und überlebe
+  Fallen bei steigender Geschwindigkeit.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221123/6/index.html
 thumbnail: /new-images/thumbnails/g-switch-2.jpg
@@ -38,6 +38,7 @@ lokale Mehrspieler-Rennen.
 - Eine Taste/Ein Tap pro Spieler, um die Schwerkraft zu wechseln; im Versus
   hat jeder Spieler seine eigene Taste.
 
+<!-- i18n:section:tips -->
 ### Tipps
 
 - Halte ein gleichmäßiges Flip-Tempo; zwei schnelle Flips hintereinander können

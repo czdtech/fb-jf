@@ -29,6 +29,7 @@ Highscores. Je nach Level jagst du einer Zielpunktzahl hinterher, räumst
 bestimmte Steine ab oder befreist das Feld von Hindernissen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1. **Achte auf Spezialsteine:** Wenn du vier oder fünf Diamanten kombinierst

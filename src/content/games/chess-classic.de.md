@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: chess-classic
-title: "Chess Classic"
+title: Chess Classic
 description: >-
   Genieße das klassische Schach in Chess Classic. Spiele gegen den Computer in
   verschiedenen Schwierigkeitsstufen und verbessere Schritt für Schritt dein
@@ -27,6 +27,7 @@ international üblichen Schachregeln – eine ideale Umgebung, um Mattbilder zu
 lernen, Eröffnungen zu üben und Endspiele zu trainieren.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  Zentrum kontrollieren: In der Eröffnung solltest du mit Bauern und Figuren

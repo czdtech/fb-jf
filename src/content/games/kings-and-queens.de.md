@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: kings-and-queens
-title: "Kings and Queens"
+title: Kings and Queens
 description: >-
-  Kings and Queens ist ein königliches Match-3-Abenteuer: Räume Hindernisse
-  weg, schalte Booster frei und richte prunkvolle Säle mit cleverer Planung
-  wieder her.
+  Kings and Queens ist ein königliches Match-3-Abenteuer: Räume Hindernisse weg,
+  schalte Booster frei und richte prunkvolle Säle mit cleverer Planung wieder
+  her.
 iframeSrc: 'https://0ptbttt09g5cg.h5games.usercontent.goog/v/6c7l9okboa1u0/'
 thumbnail: /new-images/thumbnails/kings-and-queens.png
 tags:
@@ -30,6 +30,7 @@ schaltest Booster frei, die dir auf schwierigeren Brettern helfen. So arbeitest
 du dich Raum für Raum durch das Schloss und gestaltest es nach und nach neu.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Spielfeldkontrolle in der Mitte**  

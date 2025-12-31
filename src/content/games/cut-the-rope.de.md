@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: cut-the-rope
-title: "Cut The Rope"
+title: Cut The Rope
 description: >-
   Cut The Rope ist ein Physik-Puzzle: Schneide Seile, sammle Sterne ein und
   füttere Om Nom mit der Süßigkeit, ohne sie zu verlieren.
@@ -41,6 +41,7 @@ beeinflussen.
   Neustart oder zum Wechsel ins nächste Level. Manche Versionen bieten
   Hinweissysteme.
 
+<!-- i18n:section:tips -->
 ### Tipps & Strategien
 
 - Stelle dir den Schwingbogen der Süßigkeit vor, bevor du schneidest; zwei

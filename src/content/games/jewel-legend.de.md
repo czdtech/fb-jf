@@ -32,6 +32,7 @@ Entscheidend ist, dass du durch clevere Züge Spezialjuwelen erzeugst – ohne s
 sind die schwersten Aufgaben kaum zu schaffen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Spezialjuwelen gezielt erstellen**  

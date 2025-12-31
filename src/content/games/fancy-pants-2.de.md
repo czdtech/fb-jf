@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: fancy-pants-2
-title: "Fancy Pants 2"
+title: Fancy Pants 2
 description: >-
   Fancy Pants 2 setzt das bewegungsbasierte Platforming fort: mehr Speed, neue
   Gegner und größere handgezeichnete Levels voller Geheimnisse und Trophäen.
@@ -39,6 +39,7 @@ entdeckst optionale Herausforderungsräume.
 - Nach unten zum Sliden.  
 - Nach oben, um Türen oder Eingänge zu betreten.
 
+<!-- i18n:section:tips -->
 ### Tipps
 
 - Übe, wie du aus Schrägen mit maximalem Tempo in flache Passagen

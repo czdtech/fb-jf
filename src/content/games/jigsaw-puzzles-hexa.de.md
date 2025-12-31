@@ -30,6 +30,7 @@ Ohne Zeitlimit eignet sich das Spiel ideal zum Entspannen und zugleich, um dein
 räumliches Vorstellungsvermögen zu trainieren.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Formen genau betrachten**  

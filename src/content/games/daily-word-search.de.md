@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: daily-word-search
-title: "Daily Word Search"
+title: Daily Word Search
 description: >-
   Daily Word Search bietet entspannte Wortsuchen – finde versteckte Begriffe in
   alle Richtungen und spiele auf Zeit oder ganz ohne Druck.
@@ -23,6 +23,7 @@ Buchstabengitter. Die Themen wechseln täglich; du kannst im Timer-Modus für
 Herausforderung spielen oder im entspannten Modus einfach stöbern.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  Nach markanten Buchstaben suchen: Beginne mit seltenen Buchstaben wie Q, Z

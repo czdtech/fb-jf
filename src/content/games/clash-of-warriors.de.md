@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: clash-of-warriors
-title: "Clash of Warriors"
+title: Clash of Warriors
 description: >-
   Clash of Warriors ist ein kompakter Kartenbattler – nutze deine Manakurve
   optimal, handle effizient und überliste deine Gegner mit cleveren Zügen.
@@ -24,6 +24,7 @@ mit effizienten Trades und gutem Ressourcenmanagement das Brett zu
 kontrollieren.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  Kurve einhalten: Versuche, in jedem Zug deine verfügbaren Ressourcen (z. B.

@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: google-feud
-title: "Google Feud"
+title: Google Feud
 description: >-
   Google Feud ist ein Quiz im Umfragestil: Ergänze angefangene Suchanfragen mit
   den populärsten Vorschlägen und komme durch möglichst viele Runden, ohne alle
@@ -42,6 +42,7 @@ Punkte.
 - Gib deine Antworten über die Tastatur ein und bestätige mit **Enter**.  
 - Kategorien und andere Optionen wählst du über Buttons auf dem Bildschirm.
 
+<!-- i18n:section:tips -->
 ### Tipps
 
 - Denke wie die Autovervollständigung: Berücksichtige gängige Rechtschreibung,

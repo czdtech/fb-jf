@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: drift-boss
-title: "Drift Boss"
+title: Drift Boss
 description: >-
   Drift Boss ist ein Ein-Knopf-Driftspiel: Time deine Kurven, bleib auf der
   Strecke und sammle Münzen, um neue Fahrzeuge freizuschalten.
@@ -38,6 +38,7 @@ Münzen, mit denen du neue Autos mit besserem Handling freischalten kannst.
 - Maus/Leertaste/Touch: Halten, um zu driften; loslassen, um geradeaus zu
   fahren.
 
+<!-- i18n:section:tips -->
 ### Tipps
 
 - Schau früh auf kommende S-Kurven und arbeite mit kurzen Mikro-Taps statt

@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: fly-or-die
-title: "Fly or Die"
+title: Fly or Die
 description: >-
   Fly or Die ist ein Evolutions-Survival-Game im .io-Stil: Iss das richtige
   Futter, steig die Nahrungskette hinauf und meide Räuber und Gefahren in Luft
@@ -38,6 +38,7 @@ musst gleichzeitig vor Räubern und Umweltrisiken fliehen.
 
 - Maus/Tastatur zum Bewegen/Fliegen; Boost-Tasten variieren nach Host.
 
+<!-- i18n:section:tips -->
 ### Tipps
 
 - Fress in Randbereichen stark bevölkerter Zonen, statt mitten in

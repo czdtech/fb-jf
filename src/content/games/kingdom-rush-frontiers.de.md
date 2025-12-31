@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: kingdom-rush-frontiers
-title: "Kingdom Rush Frontiers"
+title: Kingdom Rush Frontiers
 description: >-
   Kingdom Rush Frontiers ist der Nachfolger des Klassikers: Baue und verbessere
-  Türme, setze Verstärkungen und Helden ein und kontere verschiedene
-  Gegnertypen mit cleverer Platzierung.
+  Türme, setze Verstärkungen und Helden ein und kontere verschiedene Gegnertypen
+  mit cleverer Platzierung.
 iframeSrc: 'https://1000freegames.github.io/swf/kingdom-rush-frontiers.html'
 thumbnail: /new-images/thumbnails/kingdom-rush-frontiers.jpg
 tags:
@@ -47,6 +47,7 @@ passen.
 - Aktiviere Heldenfähigkeiten und Spezialangriffe über die UI; Hotkeys können
   je nach Plattform variieren.
 
+<!-- i18n:section:tips -->
 ### Tipps
 
 - **Nicht zu früh überbauen:** Ein paar gut verbesserte Türme sind effizienter

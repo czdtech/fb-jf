@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: crazy-cars
-title: "Crazy Cars"
+title: Crazy Cars
 description: >-
   Crazy Cars ist ein lockeres 3D-Fahr- und Stuntspiel: Erkunde eine Stadtkarte,
   nimm an Events teil, sammle Sterne und Schraubenschlüssel und setze Nitro für
@@ -46,6 +46,7 @@ steht zudem lokaler Splitscreen zur Verfügung.
 - Esc/P: Pause/Menü
 - Splitscreen: Zweiter Spieler nutzt das alternative Tastenlayout des Hosts
 
+<!-- i18n:section:tips -->
 ### Tipps & Strategien
 
 - Dosiertes Gasgeben in engen Kurven reduziert Untersteuern und hält dich auf

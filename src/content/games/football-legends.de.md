@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: football-legends
-title: "Football Legends"
+title: Football Legends
 description: >-
   Football Legends ist Arcade-Fußball im Duellformat: Spiele 1-gegen-1 oder
   2-gegen-2 mit Kopfbällen, Volleys und Specials in schnellen Matches oder
@@ -39,6 +39,7 @@ Turnierbäume spielen.
 - Schuss/Pass und Spezialtaste variieren je nach Host – meist separate
   Tasten.
 
+<!-- i18n:section:tips -->
 ### Tipps
 
 - Genaue, getimte Kopfbälle sind oft der sicherste Weg zum Tor.

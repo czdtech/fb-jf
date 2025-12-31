@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: color-pin
-title: "Color Pin"
+title: Color Pin
 description: >-
   Color Pin ist ein Präzisions-Nadelspiel – schieße Pins in einen rotierenden
   Kern, ohne Kollisionen zu verursachen, und triff unter Druck die richtige
@@ -25,6 +25,7 @@ zielen. Drehgeschwindigkeit und -richtung ändern sich immer wieder, sodass gute
 Timing und Geduld wichtiger sind als wildes Tippen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  Rotationsrhythmus erkennen: Beobachte zunächst mindestens eine komplette

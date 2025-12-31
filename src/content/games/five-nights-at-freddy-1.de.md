@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: five-nights-at-freddy-1
-title: "Five Nights at Freddy's 1 (FNAF 1)"
+title: Five Nights at Freddy's 1 (FNAF 1)
 description: >-
   Klassischer Pizzeria-Horror: Überwache Kameras, spare Strom und schließe Türen
   und Lichter rechtzeitig, um die Animatronics fünf Nächte (und mehr) lang aus
@@ -38,6 +38,7 @@ in dein Büro vordringen.
 - Maus/UI zum Umschalten von Kameras, Türen und Lichtern.  
 - Esc oder ähnliche Tasten zum Pausieren (je nach Host).
 
+<!-- i18n:section:tips -->
 ### Tipps
 
 - Studiere Foxys Verhalten in Pirate Cove – sein Herausspähen zeigt dir, wie
