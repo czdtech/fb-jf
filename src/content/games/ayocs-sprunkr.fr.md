@@ -12,6 +12,7 @@ releaseDate: 2025-12-04
 ---
 
 <!-- i18n:section:introduction -->
+### Présentation d’AYOCS Sprunkr
 Un mod idéal pour les fans de Sprunki qui veulent un relooking complet, entre mode et effets sonores plus luxueux.
 
 ### Présentation du jeu
@@ -24,6 +25,7 @@ Un mod idéal pour les fans de Sprunki qui veulent un relooking complet, entre m
 - **Nouvelle ambiance audio‑visuelle :** décors plus léchés, animations fluides et sons spécialement conçus pour ce mod créent une expérience cohérente, énergique et très « fashion ».  
 - **Gameplay familier :** malgré le relooking, tu retrouves le drag‑and‑drop simple de Sprunki. Si tu connais déjà la série, tu peux te mettre à composer immédiatement, mais avec une palette sonore complètement différente.
 
+<!-- i18n:section:how-to-play -->
 ### Comment jouer à AYOCS Sprunkr
 
 La prise en main reste ultra simple : tu sélectionnes des personnages et tu les disposes sur la scène pour créer ton mix.
@@ -32,16 +34,20 @@ La prise en main reste ultra simple : tu sélectionnes des personnages et tu les
 - **Dépose‑les sur la scène :** fais glisser les personnages sur la zone de jeu pour qu’ils commencent à jouer leurs boucles. Combine plusieurs personnages pour créer un groove unique.  
 - **Ajuste ton mix :** enlève ou remplace certains personnages, teste différentes combinaisons et trouve le style qui te plaît le plus.
 
-AYOCS Sprunkr est donc une évolution « mode » de Sprunki : même accessibilité, mais une direction artistique premium et des sons tout neufs pour donner à tes compositions un look et une vibe beaucoup plus tendances.
+<!-- i18n:section:controls -->
+### Commandes
 
+- **Sélection :** `Click` ou `Tap` sur un personnage pour préécouter son son.
+- **Placement :** `Drag` puis `Drop` des personnages sur les emplacements de la scène pour les activer.
+- **Muet/Solo :** `Click` sur un personnage actif pour basculer en muet ou en solo.
+
+<!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
 
-- **Q : Quelle est la différence avec Sprunki classique ?**  
-  **R :** AYOCS Sprunkr se concentre sur un look plus fashion et des sons originaux pour chaque nouveau personnage, tout en gardant le même système de création musicale par glisser‑déposer.
+- <!-- i18n:faq:id=faq:ayocs-sprunkr:is-it-free-9d8e3b2a -->
+  **AYOCS Sprunkr est‑il gratuit ?** Oui, c’est un mod gratuit auquel tu peux jouer en ligne.
+- <!-- i18n:faq:id=faq:ayocs-sprunkr:mobile-compatible-2a8d3c4e -->
+  **Puis‑je jouer sur mobile ?** Oui, le jeu est optimisé pour les navigateurs sur ordinateur et sur mobile.
 
-- **Q : Faut‑il connaître la musique pour s’amuser ?**  
-  **R :** Pas du tout. Le jeu est pensé pour être accessible : tu expérimentes simplement avec les sons jusqu’à trouver un rythme qui te plaît.
-
-- **Q : Puis‑je sauvegarder mes compositions ?**  
-  **R :** Selon la version, tu peux enregistrer ton projet ou le partager en ligne. Vérifie les options proposées dans l’interface d’AYOCS Sprunkr.
-
+### Pour conclure
+AYOCS Sprunkr est donc une évolution « mode » de Sprunki : même accessibilité, mais une direction artistique premium et des sons tout neufs pour donner à tes compositions un look et une vibe beaucoup plus tendances.

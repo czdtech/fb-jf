@@ -12,6 +12,7 @@ releaseDate: 2025-12-04
 ---
 
 <!-- i18n:section:introduction -->
+### AYOCS Sprunkr 简介
 嘿，Sprunkr 粉丝们！想给你的音乐创作增添一些时尚感吗？你一定要看看 AYOCS Sprunkr！这款模组为 Sprunki 宇宙带来了超级时髦的改造，为熟悉的音乐创作体验注入了全新活力。
  
 ### AYOCS Sprunkr 有什么特别之处？
@@ -25,6 +26,7 @@ releaseDate: 2025-12-04
  - **熟悉的玩法，不同的风味：** 不用担心玩法变复杂。AYOCS Sprunkr 保留了经典的 Sprunki 拖放操作，让你轻松上手。但全新的角色和音效库绝对能让你创作出与以往完全不同的音乐风格，确保 AYOCS Sprunkr 带来全新体验。
  
  
+<!-- i18n:section:how-to-play -->
 ### 如何玩转这个时尚音乐盒 AYOCS Sprunkr？
  
 上手一如既往地简单有趣：
@@ -34,5 +36,20 @@ releaseDate: 2025-12-04
  - **感受视听冲击：** 享受角色充满活力的动画和与音乐完美同步的精致背景，沉浸在 AYOCS Sprunkr 带来的独特氛围中。
  
  
-AYOCS Sprunkr 是一次成功的风格进化，巧妙地将现代时尚美学融入 Sprunki 的音乐世界。如果你想体验更具当代风格和精致视觉效果的音乐创作，那么 AYOCS Sprunkr 绝对值得一试。快来加入 AYOCS Sprunkr 的行列，释放你内心的音乐造型师，今天就开始创作属于你的潮流节拍吧！
+<!-- i18n:section:controls -->
+### 操作指南
 
+- **选择：** `Click` 或 `Tap` 角色以预览声音。
+- **放置：** `Drag` 并 `Drop` 角色到舞台插槽以启用。
+- **静音/独奏：** `Click` 已激活角色以切换静音或独奏模式。
+
+<!-- i18n:section:faq -->
+### 常见问题（FAQ）
+
+- <!-- i18n:faq:id=faq:ayocs-sprunkr:is-it-free-9d8e3b2a -->
+  **AYOCS Sprunkr 免费吗？** 是的，这是一个可以在线免费游玩的模组。
+- <!-- i18n:faq:id=faq:ayocs-sprunkr:mobile-compatible-2a8d3c4e -->
+  **可以在手机上玩吗？** 可以，游戏已针对桌面和移动端浏览器做了适配。
+
+### 总结
+AYOCS Sprunkr 是一次成功的风格进化，巧妙地将现代时尚美学融入 Sprunki 的音乐世界。如果你想体验更具当代风格和精致视觉效果的音乐创作，那么 AYOCS Sprunkr 绝对值得一试。快来加入 AYOCS Sprunkr 的行列，释放你内心的音乐造型师，今天就开始创作属于你的潮流节拍吧！

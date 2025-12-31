@@ -16,6 +16,7 @@ releaseDate: 2025-12-04
 
 
 <!-- i18n:section:introduction -->
+### AYOCS Sprunkr – Einführung
 Ein perfekter Mod für alle, die den Sound von Sprunki mögen und ihm einen modischen High‑Fashion‑Look verpassen wollen.
 
 ### Spielübersicht
@@ -46,6 +47,7 @@ Steuerung komplizierter wird.
   unkompliziert. Wenn du schon einmal Sprunki gespielt hast, findest du dich
   sofort zurecht.
 
+<!-- i18n:section:how-to-play -->
 ### So spielst du AYOCS Sprunkr
 
 Der Einstieg ist genauso leicht wie im Original: Figuren auswählen, platzieren und den Mix nach und nach verfeinern.
@@ -61,7 +63,22 @@ Der Einstieg ist genauso leicht wie im Original: Figuren auswählen, platzieren 
 - **Experimentieren:** Wechsle Figuren, stoppe einzelne Spuren oder ersetze sie
   live, um Drops, Breaks oder neue Parts entstehen zu lassen.
 
+<!-- i18n:section:controls -->
+### Steuerung
+
+- **Auswahl:** `Click` oder `Tap` auf Figuren, um Sounds vorzuhören.
+- **Platzierung:** Figuren per `Drag` auf die Bühne ziehen und per `Drop` in Slots setzen.
+- **Mute/Solo:** Aktive Figuren `Click`en, um stummzuschalten oder solo zu schalten.
+
+<!-- i18n:section:faq -->
+### Häufige Fragen
+
+- <!-- i18n:faq:id=faq:ayocs-sprunkr:is-it-free-9d8e3b2a -->
+  **Ist AYOCS Sprunkr kostenlos?** Ja, es ist ein kostenloses Mod, das du online spielen kannst.
+- <!-- i18n:faq:id=faq:ayocs-sprunkr:mobile-compatible-2a8d3c4e -->
+  **Kann ich auf dem Handy spielen?** Ja, das Spiel ist für Desktop‑ und Mobile‑Browser optimiert.
+
+### Fazit
 AYOCS Sprunkr eignet sich perfekt, wenn du die Sprunki‑Formel bereits magst,
 aber Lust auf einen modischen Neuanstrich und frische Klänge hast. Einfach
 starten, Figuren ziehen und deinen eigenen AYOCS‑Style bauen.
-
