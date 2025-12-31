@@ -46,6 +46,8 @@ La stratégie dans *Incredibox Melophobia* consiste à embrasser l'étrangeté e
 
 <!-- i18n:section:controls -->
 ### **Guide des commandes**
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `drag` `drop` `Drag` `drop` `Click` `drag` `Click` `click` `Click` `Click`
 
 Les commandes suivent l'interface intuitive de glisser‑déposer standard des jeux Incredibox officiels.
 
@@ -69,4 +71,5 @@ Tu ne le trouveras pas sur les plateformes officielles. Les mods comme *Melophob
 <!-- i18n:faq:id=faq:incredibox-melophobia:what-makes-the-melophobia-mod-7ef46b11 -->
 **3. Qu'est‑ce qui rend le mod « Melophobia » spécial ?**
 Son attrait principal vient de son acceptation intrépide du surréel et de l'expérimental. Il repousse les limites du sound design d'Incredibox, offrant une palette bizarre, imprévisible et finalement très créative. C'est un mod parfait pour les joueurs qui veulent créer quelque chose de vraiment unique et non conventionnel.
+
 

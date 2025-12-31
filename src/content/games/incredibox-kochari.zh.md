@@ -30,6 +30,8 @@ Incredibox Kochari 是一款独特的粉丝 Mod，将 Incredibox 的世界与亚
 
 <!-- i18n:section:controls -->
 ### 操作指南
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Drag` `Drag`
 
 *   操作是 Incredibox 的标准操作。
     *   **添加/移除声音**：将图标从底部拖到角色身上以添加声音。拖走以移除。
@@ -48,4 +50,5 @@ Incredibox Kochari 是一款独特的粉丝 Mod，将 Incredibox 的世界与亚
 <!-- i18n:faq:id=faq:incredibox-kochari:q-how-many-bonuses-are-2ecd0c81 -->
 *   **问：有多少个奖励可以解锁？**
     *   **答**：通常有三个独特的奖励动画可以通过找到正确的声音组合来发现。
+
 

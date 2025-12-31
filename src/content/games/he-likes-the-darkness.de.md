@@ -52,6 +52,8 @@ Spielfluss.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `WASD` `Space`
 
 - **Bewegen/Springen:** Pfeiltasten oder WASD plus Sprungtaste (häufig
   Leertaste).  
@@ -76,3 +78,4 @@ Spielfluss.
   **A:** Zähle innerlich den Takt mit und betritt die Gefahrenzone immer im
   gleichen Rhythmus. So kannst du dein Timing von Versuch zu Versuch
   reproduzieren.
+

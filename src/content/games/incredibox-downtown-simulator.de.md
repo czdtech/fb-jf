@@ -39,6 +39,8 @@ Dieses „Simulator"-Format bietet ein anderes kreatives Erlebnis: Du kombiniers
 
 <!-- i18n:section:controls -->
 ### **Steuerungsanleitung**
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `mouse` `Click` `click`
 
 Dies ist der Hauptunterschied zur Standard-Incredibox-Steuerung: Du spielst ausschließlich mit der Maus.
 
@@ -48,3 +50,4 @@ Dies ist der Hauptunterschied zur Standard-Incredibox-Steuerung: Du spielst auss
     *   **Play-Button**: Schaltet den gesamten Loop ein oder aus.
     *   **Record-Button**: Startet und stoppt die Aufnahme deines Mixes.
     *   **Reset-Button**: Löscht alle aktiven Sounds aus dem Raster.
+

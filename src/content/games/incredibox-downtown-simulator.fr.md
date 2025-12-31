@@ -39,6 +39,8 @@ Ce format « Simulator » offre une expérience créative différente, se concen
 
 <!-- i18n:section:controls -->
 ### **Guide des commandes**
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `mouse` `Click` `click`
 
 C'est la différence clé avec Incredibox standard. Le jeu est entièrement contrôlé par des clics de souris.
 
@@ -48,4 +50,5 @@ C'est la différence clé avec Incredibox standard. Le jeu est entièrement cont
     *   **Bouton Lecture** : Active ou désactive la boucle entière.
     *   **Bouton Enregistrement** : Démarre et arrête l'enregistrement de ton mix.
     *   **Bouton Réinitialisation** : Efface tous les sons actifs de la grille.
+
 

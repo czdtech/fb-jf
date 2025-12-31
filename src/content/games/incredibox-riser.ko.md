@@ -64,6 +64,8 @@ Riser의 핵심은 **규모감과 여정**을 표현하는 것입니다. 한 번
 
 <!-- i18n:section:controls -->
 ### **조작 가이드**
+<!-- i18n:controls:keys -->
+- 키(정렬)： `drag` `drop` `Drag` `drop` `Click` `drag` `Click` `click` `Click` `Click`
 
 조작은 기본 Incredibox와 동일합니다.
 
@@ -95,4 +97,5 @@ Riser의 핵심은 **규모감과 여정**을 표현하는 것입니다. 한 번
 **3. 보너스 조합 공략은 어디서 찾을 수 있나요?**  
 `Incredibox Riser combos`로 유튜브를 검색하면, 각 애니메이션을
 여는 조합을 정리한 영상들을 쉽게 찾을 수 있습니다.
+
 

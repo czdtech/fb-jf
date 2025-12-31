@@ -42,6 +42,8 @@ planificadas por encima del ensayo y error.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Drag`
 
 - Arrastra fichas a lo largo de los ejes permitidos; usa deshacer o reinicio si
   el juego lo ofrece.
@@ -63,4 +65,5 @@ planificadas por encima del ensayo y error.
 - **P: ¿Hay límite de tiempo?**  
   **R:** Suele ser un juego relajado; en algunos modos se cuenta más el número
   de movimientos que el tiempo.
+
 

@@ -63,6 +63,8 @@ Buchstaben, die Geschwindigkeit beim Lösen oder die Anzahl der verbleibenden
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `click` `mouse`
 
 In der digitalen Version ist die Bedienung sehr einfach:
 
@@ -96,4 +98,5 @@ Hangman ist ein hervorragendes Lernwerkzeug:
 Für jeden falschen Versuch wird ein weiterer Teil der Strichfigur gezeichnet –
 zuerst der Kopf, dann Körper, Arme und Beine. Erlaubst du dir zu viele Fehler,
 wird die Figur komplett und die Runde ist verloren.
+
 

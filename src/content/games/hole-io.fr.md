@@ -29,6 +29,8 @@ Hole io te lâche dans une ville destructible sous la forme d’un trou noir mob
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Mouse` `drag` `WASD`
 
 - Déplace ton trou noir avec la souris (glisser) ou les touches WASD. Les modes de jeu et la durée des parties dépendent de l’hébergeur.
 
@@ -53,5 +55,6 @@ Hole io te lâche dans une ville destructible sous la forme d’un trou noir mob
 <!-- i18n:faq:id=faq:hole-io:what-mode-should-i-pick-fcbe42da -->
 - Q : Quel mode choisir pour apprendre à jouer ?  
   R : Le mode score en chacun‑pour‑soi est le plus indulgent : tu peux y tester des routes et des stratégies sans subir un PvP trop agressif.
+
 
 

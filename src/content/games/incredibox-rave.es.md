@@ -68,6 +68,8 @@ componentes electrónicos hasta conseguir una pista digna de sonar en un club.
 
 <!-- i18n:section:controls -->
 ### **Guía de controles**
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `drag` `drop` `Drag` `drop` `Click` `drag` `Click` `click` `Click` `Click`
 
 Los controles son los mismos que en el Incredibox oficial.
 
@@ -106,4 +108,5 @@ moderna para fans de la música dance.
 **4. ¿Hay soluciones de bonus de "Rave" online?**  
 Sí. Si te cuesta dar con las combinaciones, una búsqueda de "Incredibox Rave
 combos" en YouTube suele mostrar todas las soluciones.
+
 

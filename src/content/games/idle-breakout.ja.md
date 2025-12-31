@@ -25,6 +25,8 @@ Idle Breakoutは、インクリメンタル（蓄積型）な進行とクラシ�
 
 <!-- i18n:section:controls -->
 ### 操作方法
+<!-- i18n:controls:keys -->
+- キー（整合）： `Mouse` `click`
 - **マウス**: クリックでダメージ。UIでボール、アップグレード、プレステージノードを購入します。
 
 <!-- i18n:section:tips -->
@@ -44,4 +46,5 @@ Idle Breakoutは、インクリメンタル（蓄積型）な進行とクラシ�
 <!-- i18n:faq:id=faq:idle-breakout:does-the-game-progress-offline-f8c04faa -->
 - **Q: ゲームはオフラインでも進行しますか？**  
   A: 一部のホストはオフライン収益をシミュレートします。挙動はホストによって異なります。
+
 

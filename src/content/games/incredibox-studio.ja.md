@@ -32,6 +32,8 @@ Incredibox Studioはファン作成プロジェクトです。事前定義され
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `mouse` `Drag` `drop` `Drag` `Click` `Click`
 
 *   ゲームは完全にマウスで制御されます。
     *   **サウンドを追加**: 下部パネルからアイコンをドラッグし、キャラクターの1人にドロップします。
@@ -48,4 +50,5 @@ Incredibox Studioはファン作成プロジェクトです。事前定義され
 <!-- i18n:faq:id=faq:incredibox-studio:q-where-can-i-play-fe36000d -->
 *   **Q: どこでプレイできますか？**
     *   **A**: 提供されたplayfiddlebops.comリンクを介してウェブブラウザで直接プレイ可能です。
+
 

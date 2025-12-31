@@ -44,6 +44,8 @@ La stratégie dans *Incredibox Hijinks* consiste à embrasser le fun et superpos
 
 <!-- i18n:section:controls -->
 ### **Guide des commandes**
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `drag` `drop` `Drag` `drop` `Click` `drag` `Click` `click` `Click` `Click`
 
 Les commandes suivent l'interface intuitive de glisser‑déposer standard des jeux Incredibox officiels.
 
@@ -75,4 +77,5 @@ Son charme vient de son fun pur et sans prétention. Le thème cartoon léger et
 **4. Les solutions des bonus pour « Hijinks » sont‑elles disponibles en ligne ?**
 
 Oui. Si tu as du mal à trouver les combinaisons pour les animations, une recherche rapide de « *Incredibox Hijinks combos* » sur YouTube te montrera les solutions.
+
 

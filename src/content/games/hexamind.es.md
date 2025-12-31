@@ -44,6 +44,8 @@ de celdas.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Tap`
 
 - Toca o haz clic para colocar valores/colores, alternar modo lápiz y usar
   deshacer/rehacer.
@@ -66,4 +68,5 @@ de celdas.
 - **P: ¿En qué se diferencia de los puzles en cuadrícula cuadrada?**  
   **R:** Al tener seis vecinos por celda, los anillos y rayos ofrecen
   restricciones más fuertes de las que permiten las rejillas cuadradas.
+
 

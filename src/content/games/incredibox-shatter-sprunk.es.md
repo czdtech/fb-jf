@@ -51,6 +51,8 @@ que a ti te guste.**
 
 <!-- i18n:section:controls -->
 ### Controles con ratón
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Mouse` `mouse` `Click` `Drag` `Click` `hold` `mouse` `drag` `click` `drag` `click` `click` `drag` `click` `click` `mouse`
 
 El manejo es muy simple y se hace casi todo con el ratón:
 
@@ -78,3 +80,4 @@ El manejo es muy simple y se hace casi todo con el ratón:
 - **Exploración divertida:** descubre animaciones y efectos ocultos mientras
   pruebas combinaciones, haciendo que el proceso creativo esté lleno de
   sorpresas.
+

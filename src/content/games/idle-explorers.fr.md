@@ -33,6 +33,8 @@ Idle Explorers est un jeu de gestion idle et de clicker dans lequel tu incarnes 
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `mouse` `Click` `Click`
 
 Le jeu se joue entièrement à la souris ou au toucher.
 
@@ -54,4 +56,5 @@ Le jeu se joue entièrement à la souris ou au toucher.
 <!-- i18n:faq:id=faq:idle-explorers:q-should-i-spend-my-45d69fa9 -->
 *   **Q : Dois‑je dépenser mon argent dès que possible ou le conserver ?**
     *   **R :** Dans la plupart des idle games, il est presque toujours optimal de réinvestir ton argent dès que tu peux. Chaque amélioration augmente ton rythme de gain, ce qui te permet d'atteindre les upgrades suivantes de plus en plus vite ; c'est l'essence de la progression exponentielle.
+
 

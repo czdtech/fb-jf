@@ -82,6 +82,8 @@ Incredibox Fruity를 잘 플레이하려면 공격·수비·진화 타이밍을 
 
 <!-- i18n:section:controls -->
 ### 조작 가이드
+<!-- i18n:controls:keys -->
+- 키(정렬)： `mouse` `Click` `Click` `Click` `Click`
 
 조작은 대부분 마우스만으로 이루어집니다.
 
@@ -121,3 +123,4 @@ Incredibox Fruity를 잘 플레이하려면 공격·수비·진화 타이밍을 
   이 게임을 서비스하고 있어, 최신 브라우저에서도 그대로 즐길 수 있습니다.
   일부 iOS·Android 앱 버전도 배포되고 있으니, 모바일 스토어를
   확인해 보세요.
+

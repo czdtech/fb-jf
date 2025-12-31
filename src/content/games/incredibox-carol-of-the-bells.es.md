@@ -79,6 +79,8 @@ villancico original y superponer sus partes para crear un sonido navideño rico.
 
 <!-- i18n:section:controls -->
 ### **Guía de controles**
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `drag` `drop` `Drag` `drop` `Click` `drag` `Click` `click` `Click` `Click`
 
 Los controles son los mismos que en las versiones oficiales de Incredibox.
 
@@ -92,4 +94,5 @@ Los controles son los mismos que en las versiones oficiales de Incredibox.
     a todos los demás.
 *   **Grabar:** pulsa el **botón de grabación** para iniciar o detener la
     grabación de tu creación navideña.
+
 

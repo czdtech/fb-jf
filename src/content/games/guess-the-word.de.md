@@ -56,6 +56,8 @@ knapper – belohnt werden ein gutes Gefühl für Muster und strategisches Raten
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Drag`
 
 - Ziehe mit Maus oder Finger über die Buchstaben, um sie zu verbinden, und lasse
   los, um das Wort einzureichen.  
@@ -79,3 +81,4 @@ knapper – belohnt werden ein gutes Gefühl für Muster und strategisches Raten
 - **F: Kann ich Level wiederholen, um mehr Münzen zu verdienen?**  
   **A:** In vielen Versionen ja – du kannst frühere Gitter erneut spielen, um
   Bonusbelohnungen oder zusätzliche Münzen zu sammeln.
+

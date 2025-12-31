@@ -36,6 +36,8 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 조작 방법
+<!-- i18n:controls:keys -->
+- 키(정렬)： `Mouse` `drag` `WASD`
 
 - 마우스 드래그나 터치, 혹은 WASD 키로 블랙홀을 조종합니다.
 - 세부 모드와 타이머 규칙은 호스트에 따라 달라질 수 있습니다.
@@ -66,4 +68,5 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:faq:id=faq:hole-io:what-mode-should-i-pick-fcbe42da -->
 - Q: 연습용으로 어떤 모드가 좋나요?  
   A: 프리 포 올 점수 모드는 PvP 압박이 덜하고, 성장 루트 연습에 적합합니다.
+
 

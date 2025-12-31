@@ -62,6 +62,8 @@ Vibin'에서의 목표는 **너무 튀지 않으면서도 기분 좋은 백그�
 
 <!-- i18n:section:controls -->
 ### **조작 가이드**
+<!-- i18n:controls:keys -->
+- 키(정렬)： `drag` `drop` `Drag` `drop` `Click` `drag` `Click` `click` `Click` `Click`
 
 조작은 기본 Incredibox와 동일한 드래그 앤 드롭 방식입니다.
 
@@ -97,4 +99,5 @@ Vibin'에서의 목표는 **너무 튀지 않으면서도 기분 좋은 백그�
 **4. 보너스 조합은 어디서 볼 수 있나요?**  
 `Incredibox Vibin' combos`로 유튜브를 검색하면, 각 보너스 애니메이션을
 여는 조합을 정리해 둔 영상을 쉽게 찾을 수 있습니다.
+
 

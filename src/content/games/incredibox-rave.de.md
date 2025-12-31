@@ -61,6 +61,8 @@ Bei *Incredibox Rave* geht es darum, verschiedene elektronische Elemente zu schi
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `drag` `drop` `Drag` `drop` `Click` `drag` `Click` `click` `Click` `Click`
 
 Die Steuerung folgt dem intuitiven Drag-and-drop des offiziellen Incredibox:
 
@@ -93,4 +95,5 @@ Die Steuerung folgt dem intuitiven Drag-and-drop des offiziellen Incredibox:
 - **F: Gibt es Lösungen für die Boni online?**  
   **A:** Ja, bei YouTube findest du unter "Incredibox Rave combos" die
   Lösungen für die Bonus-Animationen.
+
 

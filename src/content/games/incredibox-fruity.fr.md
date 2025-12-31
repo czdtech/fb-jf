@@ -43,6 +43,8 @@ Maîtriser Incredibox Fruity nécessite un équilibre entre offensive, défense 
 
 <!-- i18n:section:controls -->
 ### Guide des commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `mouse` `Click` `Click` `Click` `Click`
 
 Le jeu est presque entièrement contrôlé à la souris.
 
@@ -69,4 +71,5 @@ Le jeu est presque entièrement contrôlé à la souris.
 <!-- i18n:faq:id=faq:incredibox-fruity:q-where-can-i-play-adcbe59e -->
 *   **Q : Où puis‑je jouer à Incredibox Fruity maintenant que Flash est abandonné ?**
     *   **R :** De nombreux sites de jeux comme CrazyGames, Armor Games et Kongregate hébergent maintenant Incredibox Fruity en utilisant des émulateurs Flash (comme Ruffle), le rendant entièrement jouable dans les navigateurs web modernes. Il existe aussi des versions mobiles disponibles sur les app stores iOS et Android.
+
 

@@ -70,6 +70,8 @@ un groove suave y nada intrusivo.
 
 <!-- i18n:section:controls -->
 ### **Guía de controles**
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `drag` `drop` `Drag` `drop` `Click` `drag` `Click` `click` `Click` `Click`
 
 Los controles son los típicos de Incredibox.
 
@@ -108,3 +110,4 @@ espacio creativo tranquilo.
 **4. ¿Hay soluciones para las bonificaciones de "Vibin'" en línea?**  
 Sí. Si te cuesta encontrar las combinaciones, busca "Incredibox Vibin combos"
 en YouTube y verás las respuestas.
+

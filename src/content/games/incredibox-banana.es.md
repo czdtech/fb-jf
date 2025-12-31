@@ -73,6 +73,8 @@ referencias de memes para crear una pista divertida y enérgica.
 
 <!-- i18n:section:controls -->
 ### **Guía de controles**
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `drag` `drop` `Drag` `drop` `Click` `drag` `Click` `click` `Click` `Click`
 
 Los controles siguen la interfaz intuitiva de arrastrar y soltar típica de los
 juegos oficiales de Incredibox.
@@ -87,4 +89,5 @@ juegos oficiales de Incredibox.
     al resto.
 *   **Grabar:** pulsa el **botón de grabación** (arriba a la derecha) para
     iniciar o detener la grabación de tu mix.
+
 

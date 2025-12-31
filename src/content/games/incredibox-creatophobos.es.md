@@ -81,6 +81,8 @@ construir tensión más que armonía.
 
 <!-- i18n:section:controls -->
 ### **Guía de controles**
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `drag` `drop` `Drag` `drop` `Click` `drag` `Click` `click` `Click` `Click`
 
 Los controles son los habituales de Incredibox.
 
@@ -94,4 +96,5 @@ Los controles son los habituales de Incredibox.
     silenciar al resto.
 *   **Grabar:** pulsa el **botón de grabación** para empezar o detener la
     grabación de tu creación monstruosa.
+
 

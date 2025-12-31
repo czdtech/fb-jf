@@ -56,6 +56,8 @@ unaufdringlichen Groove zu bauen.
 
 <!-- i18n:section:controls -->
 ### **Steuerungsanleitung**
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `drag` `drop` `Drag` `drop` `Click` `drag` `Click` `click` `Click` `Click`
 
 Die Steuerung folgt dem bekannten, intuitiven Drag-and-Drop-Prinzip der offiziellen Incredibox-Spiele.
 
@@ -89,3 +91,4 @@ entspannend an und spricht viele an, die einen ruhigen kreativen Ausgleich suche
 **4. Sind die Bonus-Lösungen für „Vibin'" online verfügbar?**
 
 Ja. Wenn du Probleme hast, die Kombinationen für die Animationen zu finden, zeigt dir eine schnelle Suche nach „*Incredibox Vibin' combos*" auf YouTube die Lösungen.
+

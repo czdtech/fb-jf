@@ -42,6 +42,8 @@ HexaMind se joue sur une grille hexagonale où chaque case doit respecter des co
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Tap`
 
 - Tape pour placer une valeur ou une couleur, bascule entre les notes et les valeurs définitives, et utilise les fonctions d’annulation/rétablissement si disponibles.
 
@@ -59,5 +61,6 @@ HexaMind se joue sur une grille hexagonale où chaque case doit respecter des co
 <!-- i18n:faq:id=faq:hexamind:how-is-it-different-from-c5ce884b -->
 - **Q : En quoi est‑ce différent des puzzles sur grille carrée ?**  
   R : La grille hexagonale fournit jusqu’à six voisins au lieu de quatre, ce qui renforce la puissance des raisonnements en anneaux et en rayons et donne des déductions impossibles sur une grille classique.
+
 
 

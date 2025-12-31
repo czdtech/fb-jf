@@ -39,6 +39,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### **操作ガイド**
+<!-- i18n:controls:keys -->
+- キー（整合）： `drag` `drop` `Drag` `drop` `Click` `drag` `Click` `click` `Click` `Click`
 
 操作は、公式のIncrediboxゲームの標準的で直感的なドラッグ＆ドロップインターフェースに従います。
 
@@ -62,4 +64,5 @@ locale: ja
 <!-- i18n:faq:id=faq:incredibox-melophobia:what-makes-the-melophobia-mod-7ef46b11 -->
 **3. 「Melophobia」モッドの特別な点は何ですか？**
 その主な魅力は、シュールで実験的なものへの恐れのない受け入れから来ています。Incrediboxのサウンドデザインの境界を押し広げ、奇妙で、予測不可能で、そして究極的に非常にクリエイティブなパレットを提供します。真にユニークで型破りなものを作成したいプレイヤーにとって完璧なモッドです。
+
 

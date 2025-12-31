@@ -47,6 +47,8 @@ puntos, pero evita a toda costa las rojas.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click` `left` `button` `tap`
 
 El juego se maneja con un solo gesto.
 
@@ -70,4 +72,5 @@ El juego se maneja con un solo gesto.
 *   **P: ¿Cómo apunto exactamente?**
     *   **R:** No controlas directamente la mira: la pistola gira sola. Tu habilidad
         está en disparar justo cuando el cañón pasa por el ángulo adecuado.
+
 

@@ -31,6 +31,8 @@ Incredibox Kochari ist ein einzigartiger Fan-Mod, der die Welt von Incredibox wu
 
 <!-- i18n:section:controls -->
 ### Steuerungsanleitung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Drag` `Drag`
 
 *   Die Steuerung ist Standard für Incredibox.
     *   **Sound hinzufügen/entfernen**: Ziehe ein Icon von unten auf einen Charakter, um einen Sound hinzuzufügen. Ziehe es herunter, um ihn zu entfernen.
@@ -50,4 +52,5 @@ Incredibox Kochari ist ein einzigartiger Fan-Mod, der die Welt von Incredibox wu
 <!-- i18n:faq:id=faq:incredibox-kochari:q-how-many-bonuses-are-2ecd0c81 -->
 *   **F: Wie viele Boni gibt es zu entdecken?**
     *   **A**: Es gibt typischerweise drei einzigartige Bonus-Animationen, die durch das Finden der richtigen Sound-Kombinationen entdeckt werden können.
+
 

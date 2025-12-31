@@ -68,6 +68,8 @@ práctica de componer música retro de videojuegos.
 
 <!-- i18n:section:controls -->
 ### **Guía de controles**
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `click` `Click`
 
 Este mod usa la interfaz sencilla de clics típica de la serie Simulator.
 
@@ -104,3 +106,4 @@ La comunidad ha creado al menos dos mods populares con este tema:
 No está en las plataformas oficiales. Suelen compartirse en sitios como
 **playfiddlebops.com**, comunidades de Scratch o en YouTube, donde normalmente
 hay enlaces para jugarlo en el navegador.
+

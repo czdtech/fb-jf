@@ -44,6 +44,8 @@ Strategie bei *Incredibox Hijinks* dreht sich darum, den Spaß zu umarmen und di
 
 <!-- i18n:section:controls -->
 ### **Steuerungsanleitung**
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `drag` `drop` `Drag` `drop` `Click` `drag` `Click` `click` `Click` `Click`
 
 Die Steuerung folgt dem standardmäßigen, intuitiven Drag-and-Drop-Interface der offiziellen Incredibox-Spiele.
 
@@ -75,4 +77,5 @@ Sein Charme kommt von seinem puren, unverfälschten Spaß. Das unbeschwerte Cart
 **4. Sind die Bonus-Lösungen für „Hijinks" online verfügbar?**
 
 Ja. Wenn du Probleme hast, die Kombinationen für die Animationen zu finden, zeigt dir eine schnelle Suche nach „*Incredibox Hijinks combos*" auf YouTube die Lösungen.
+
 

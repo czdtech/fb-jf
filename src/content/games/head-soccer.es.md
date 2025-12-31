@@ -35,6 +35,8 @@ reglas de gol de oro.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `WASD`
 
 - Flechas/WASD para moverte y saltar; las teclas de disparo y especial dependen
   del portal.
@@ -65,4 +67,5 @@ reglas de gol de oro.
 - **P: ¿Hay diferencias reales entre equipos o personajes?**  
   **R:** En la mayoría de casos los cambios son sobre todo estéticos; la
   física suele ser uniforme entre skins.
+
 

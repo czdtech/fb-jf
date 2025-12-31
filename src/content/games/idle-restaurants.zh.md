@@ -29,6 +29,8 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作说明
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Click` `Click`
 
 整款游戏通过点击或轻触即可完成操作：
 
@@ -50,3 +52,4 @@ releaseDate: 2025-10-17T00:00:00.000Z
 <!-- i18n:faq:id=faq:idle-restaurants:q-why-should-i-buy-17b1a728 -->
 *   **Q: 为什么要花钱开新餐厅？**  
     *   **A:** 新餐厅通常自带更高的基础收益，并可能为整体业务提供永久收益加成，是打破单店成长瓶颈、推动整体收入跃迁的关键步骤。
+

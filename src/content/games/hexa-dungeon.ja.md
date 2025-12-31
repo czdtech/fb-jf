@@ -30,6 +30,8 @@ Hexa Dungeonは、マッチ3のメカニクスとダンジョン探索の戦闘�
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `click` `drag` `swipe` `Click` `hold` `drag` `mouse`
 
 ゲームはシンプルなクリック＆ドラッグ、またはスワイプ操作でプレイします。
 
@@ -49,4 +51,5 @@ Hexa Dungeonは、マッチ3のメカニクスとダンジョン探索の戦闘�
 <!-- i18n:faq:id=faq:hexa-dungeon:q-can-i-connect-tiles-f4174e27 -->
 *   **Q: 斜めにタイルを繋げることはできますか？**
     *   **A:** はい。ボードは六角形でできているため、隣接する同じタイルであれば、6つの異なる方向に繋げることができます。
+
 

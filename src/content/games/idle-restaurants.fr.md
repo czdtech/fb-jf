@@ -33,6 +33,8 @@ Idle Restaurants est un jeu de gestion idle où tu construis un empire culinaire
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Click` `Click`
 
 Tout se joue en cliquant ou en touchant des boutons.
 
@@ -54,4 +56,5 @@ Tout se joue en cliquant ou en touchant des boutons.
 <!-- i18n:faq:id=faq:idle-restaurants:q-why-should-i-buy-17b1a728 -->
 *   **Q : Pourquoi acheter un nouveau restaurant ?**
     *   **R :** Chaque nouvel établissement donne un énorme coup de pouce à ton revenu global et apporte souvent un multiplicateur permanent qui profite aussi aux anciens. C'est le principal moyen de progresser dans le end‑game.
+
 

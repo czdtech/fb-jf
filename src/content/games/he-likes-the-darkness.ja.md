@@ -32,6 +32,8 @@ He Likes The Darknessは、ミニマリストでコントラストの強いプ�
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `WASD` `Space`
 
 - **移動/ジャンプ:** 矢印キー/WASD + スペースキー。レベルのルールによってはダブルジャンプが可能です。
 
@@ -47,4 +49,5 @@ He Likes The Darknessは、ミニマリストでコントラストの強いプ�
 <!-- i18n:faq:id=faq:he-likes-the-darkness:any-trick-for-moving-saws-aa464e48 -->
 - **Q: 動くノコギリのコツは？**
   A: 拍子を数え、毎回同じフェーズ（局面）で動くことでタイミングを固定しましょう。
+
 

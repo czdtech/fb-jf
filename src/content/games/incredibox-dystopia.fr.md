@@ -47,6 +47,8 @@ La stratégie dans *Incredibox Dystopia* consiste à construire un beat électro
 
 <!-- i18n:section:controls -->
 ### **Guide des commandes**
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `drag` `drop` `Drag` `drop` `Click` `drag` `Click` `click` `Click` `Click`
 
 Les commandes sont l'interface standard et intuitive de glisser‑déposer des jeux officiels Incredibox.
 
@@ -55,4 +57,5 @@ Les commandes sont l'interface standard et intuitive de glisser‑déposer des j
 *   **Mute / Unmute** : **Clique** sur un personnage qui joue pour le couper ; clique à nouveau pour le réactiver.
 *   **Solo** : Clique sur le **petit bouton** à côté d'un personnage actif pour couper tous les autres interprètes.
 *   **Enregistrer** : Clique sur le **bouton d'enregistrement** pour démarrer et arrêter l'enregistrement de ta création musicale.
+
 

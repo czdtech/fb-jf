@@ -48,6 +48,8 @@ Strategie bei *Incredibox Dystopia* dreht sich darum, einen kraftvollen, treiben
 
 <!-- i18n:section:controls -->
 ### **Steuerungsanleitung**
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `drag` `drop` `Drag` `drop` `Click` `drag` `Click` `click` `Click` `Click`
 
 Die Steuerung ist das standardmäßige, intuitive Drag-and-Drop-Interface der offiziellen Incredibox-Spiele.
 
@@ -56,4 +58,5 @@ Die Steuerung ist das standardmäßige, intuitive Drag-and-Drop-Interface der of
 *   **Stummschalten/Entstummen**: **Klicke** auf einen performenden Charakter, um ihn stumm zu schalten; klicke erneut, um ihn zu entstummen.
 *   **Solo**: Klicke den **kleinen Button** neben einem aktiven Charakter, um alle anderen Performer stumm zu schalten.
 *   **Aufnehmen**: Klicke den **Aufnahme-Button**, um die Aufnahme deiner musikalischen Kreation zu starten und zu stoppen.
+
 

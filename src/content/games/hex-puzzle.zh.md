@@ -32,6 +32,8 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作说明
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `drag` `drop` `mouse` `drag` `space`
 
 游戏通过简单的拖拽来操作：
 
@@ -51,3 +53,4 @@ releaseDate: 2025-10-17T00:00:00.000Z
 <!-- i18n:faq:id=faq:hex-puzzle:q-what-is-the-best-4dc5a927 -->
 *   **Q: 怎么打出更高分？**  
     *   **A:** 一方面要尽量延长存活时间，让棋盘保持可操作空间；另一方面要优先考虑能一次消除多条线的布局，连锁消除会带来非常可观的额外得分。
+

@@ -41,6 +41,8 @@ satisfactorio.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `WASD` `Space`
 
 - Movimiento/Salto: Flechas o WASD + barra espaciadora; algunos niveles pueden
   habilitar doble salto.
@@ -62,4 +64,5 @@ satisfactorio.
 - **P: ¿Hay truco para las sierras móviles?**  
   **R:** Cuenta mentalmente los tiempos y procura moverte siempre en la misma
   fase del ciclo para fijar el timing.
+
 

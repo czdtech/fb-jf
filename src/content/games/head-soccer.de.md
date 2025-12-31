@@ -37,6 +37,8 @@ als dein Gegner.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `WASD`
 
 - Bewegen und Springen mit **Pfeiltasten** oder **WASD** (je nach Host).  
 - Separate Tasten für **Schuss** und **Spezialschuss** variieren je nach
@@ -69,3 +71,4 @@ als dein Gegner.
 - **F: Unterscheiden sich die Teams spielerisch?**  
   **A:** In vielen Varianten sind Unterschiede hauptsächlich kosmetischer Natur;
   Physik und Werte sind oft für alle Figuren gleich.
+

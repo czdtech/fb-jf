@@ -51,6 +51,8 @@ L’idée est de travailler les harmonies et les textures vocales plutôt que la
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `mouse` `Drag` `drop` `Click` `Click` `Click` `Click` `Click`
 
 Les commandes sont identiques au jeu Incredibox officiel.
 
@@ -70,5 +72,6 @@ Les commandes sont identiques au jeu Incredibox officiel.
 
 - **Q : Y a‑t‑il des paroles compréhensibles ?**  
   R : Certaines voix utilisent des syllabes neutres ou pseudo‑latin typiques des musiques chorales, ce qui laisse plus de liberté à ton imagination.
+
 
 

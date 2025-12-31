@@ -58,6 +58,8 @@ viele Punkte zu machen, bevor alle Stangen überfüllt sind.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `mouse` `click` `click`
 
 *   **Auswählen & Bewegen:** Klicke mit der Maus auf einen Gewichtstapel, um ihn
     zu markieren, und danach auf eine freie Position oder einen passenden Stapel,
@@ -82,3 +84,4 @@ viele Punkte zu machen, bevor alle Stangen überfüllt sind.
 *   **F: Gibt es ein Zeitlimit?**
     *   **A:** Nein, Gym Stack ist rundenbasiert. Du kannst dir für deine Züge
         Zeit lassen und in Ruhe vorausplanen.
+

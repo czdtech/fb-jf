@@ -31,6 +31,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### **操作ガイド**
+<!-- i18n:controls:keys -->
+- キー（整合）： `click` `mouse`
 
 デジタル版ハングマンの操作は非常にシンプルです：
 
@@ -60,4 +62,5 @@ locale: ja
 <!-- i18n:faq:id=faq:hangman:what-happens-when-i-guess-9ead5b0e -->
 **4. 間違った文字を推測するとどうなりますか？**
 不正解ごとにハングマンの絵の一部（頭、体、腕など）が追加されます。不正解が多すぎて絵が完全に描かれてしまうと、ゲームオーバーになります。
+
 

@@ -59,6 +59,8 @@ viaje, superponiendo sonidos para crear una pista épica y cinematográfica.
 
 <!-- i18n:section:controls -->
 ### **Guía de controles**
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `drag` `drop` `Drag` `drop` `Click` `drag` `Click` `click` `Click` `Click`
 
 Los controles son idénticos a los de Incredibox oficial.
 
@@ -91,4 +93,5 @@ para jugarlos en navegador.
 **3. ¿Hay soluciones de bonus para "Riser" online?**  
 Sí. Si te cuesta dar con las combinaciones de bonus, una búsqueda de
 "Incredibox Riser combos" en YouTube suele mostrar todas las respuestas.
+
 

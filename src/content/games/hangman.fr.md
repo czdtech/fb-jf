@@ -35,6 +35,8 @@ De nombreuses versions numériques intègrent un système de score qui récompen
 
 <!-- i18n:section:controls -->
 ### **Commandes**
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `click` `mouse`
 
 Les commandes des versions numériques de Hangman sont très simples :
 
@@ -64,4 +66,5 @@ Hangman est un excellent outil éducatif qui aide à améliorer :
 <!-- i18n:faq:id=faq:hangman:what-happens-when-i-guess-9ead5b0e -->
 **4. Que se passe‑t‑il si je propose une mauvaise lettre ?**
 Chaque mauvaise lettre ajoute une nouvelle partie au dessin du pendu (tête, corps, bras, jambes, etc.). Si tu fais trop d'erreurs et que la figure est entièrement dessinée, la partie est perdue.
+
 

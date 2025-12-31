@@ -31,6 +31,8 @@ Incredibox Shatter Sprunkは、Incrediboxのクラシックなドラッグ＆ド
  
 <!-- i18n:section:controls -->
 ### マウス操作：
+<!-- i18n:controls:keys -->
+- キー（整合）： `Mouse` `mouse` `Click` `Drag` `Click` `hold` `mouse` `drag` `click` `drag` `click` `click` `drag` `click` `click` `mouse`
  
 Incredibox Shatter Sprunkの操作は非常にシンプルで、マウスで簡単に完了できます：
  
@@ -46,4 +48,5 @@ Incredibox Shatter Sprunkの操作は非常にシンプルで、マウスで簡�
  - **シンプルで使いやすい操作:** マウス操作はシンプルで直感的で、すべての年齢とスキルレベルのプレイヤーが簡単に始めることができます。
  - **ユニークなSprunkiスタイル:** Sprunkiのスタイル要素を取り入れ、通常のIncrediboxとは違う雰囲気で遊べます。
  - **楽しみの探索:** 隠されたアニメーションと特殊効果を発見し、作成プロセスを驚きでいっぱいにします。
+
 

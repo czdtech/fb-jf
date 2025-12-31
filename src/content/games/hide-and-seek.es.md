@@ -38,6 +38,8 @@ cronómetro.
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `WASD`
 - WASD/Flechas para moverte; una tecla de acción activa los potenciadores (según
   el host).
 
@@ -63,4 +65,5 @@ cronómetro.
 - Q: ¿Los potenciadores reaparecen durante la partida?  
   A: En muchos modos, los objetos reaparecen con temporizadores fijos; aprende
   sus ubicaciones.
+
 

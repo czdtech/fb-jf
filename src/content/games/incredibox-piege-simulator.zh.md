@@ -33,6 +33,8 @@ releaseDate: 2025-10-10T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### **操作指南**
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `click` `Click`
 
 这个 Mod 使用模拟器系列简单的基于点击的界面。
 
@@ -60,4 +62,5 @@ releaseDate: 2025-10-10T00:00:00.000Z
 **3. 我在哪里可以玩这个 Mod？**
 
 你不会在官方平台上找到它。这些 Mod 通常在游戏网站如 **Newgrounds**、Mod 社区如 **playfiddlebops.com** 上分享，或在 YouTube 上展示并提供在网络浏览器中游玩的链接。
+
 

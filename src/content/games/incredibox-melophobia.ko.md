@@ -75,6 +75,8 @@ Melophobia에서는 “이상함”을 두려워하지 않고, 서로 어울릴 
 
 <!-- i18n:section:controls -->
 ### **조작 가이드**
+<!-- i18n:controls:keys -->
+- 키(정렬)： `drag` `drop` `Drag` `drop` `Click` `drag` `Click` `click` `Click` `Click`
 
 조작은 공식 Incredibox와 동일한 드래그 앤 드롭 방식입니다.
 
@@ -110,4 +112,5 @@ Incredibox 사운드 디자인의 한계를 시험하듯, 예측 불가능하고
 소리를 마음껏 섞어 볼 수 있기 때문에, 전통적인 곡 구조에서 벗어나
 완전히 새로운 사운드를 만들어 보고 싶은 플레이어에게 특히 잘
 어울립니다.
+
 

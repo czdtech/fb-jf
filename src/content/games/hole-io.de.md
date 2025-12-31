@@ -38,6 +38,8 @@ schlucken kannst.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Mouse` `drag` `WASD`
 
 - Steuere das Loch mit **Maus/Touch-Drag** oder **WASD/Pfeiltasten**, je nach
   Plattform.  
@@ -70,3 +72,4 @@ schlucken kannst.
 - **F: Welcher Modus eignet sich zum Üben?**  
   **A:** Der klassische FFA-Punkte-Modus ist meist am verzeihendsten – du kannst
   Routen testen, ohne ständig im direkten PvP zu stehen.
+

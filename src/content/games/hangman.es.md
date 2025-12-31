@@ -52,6 +52,8 @@ permitidos) que te quedan.
 
 <!-- i18n:section:controls -->
 ### **Guía de controles**
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `click` `mouse`
 
 En las versiones digitales los controles son muy sencillos:
 
@@ -86,4 +88,5 @@ Las más complicadas suelen ser:
 **4. ¿Qué pasa cuando fallo una letra?**  
 Cada fallo añade una parte al dibujo del ahorcado (cabeza, cuerpo, brazos,
 piernas…). Cuando el dibujo se completa, la partida termina en derrota.
+
 

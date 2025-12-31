@@ -55,6 +55,8 @@ estos iconos.
 
 <!-- i18n:section:controls -->
 ### **Guía de controles**
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `click` `Click`
 
 Este mod usa la interfaz de clics sencilla típica de la serie Simulator.
 
@@ -87,3 +89,4 @@ capas rítmicas con mucha precisión.
 No está en plataformas oficiales. Mods como *Piège* suelen compartirse en sitios
 como **Newgrounds**, **playfiddlebops.com** o mostrarse en YouTube con enlaces
 para jugarlos en navegador.
+

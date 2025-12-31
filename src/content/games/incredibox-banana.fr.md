@@ -44,6 +44,8 @@ La clé est de superposer intelligemment les sons emblématiques et les référe
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `drag` `drop` `Drag` `drop` `Click` `drag` `Click` `click` `Click` `Click`
 
 Les commandes reprennent l’interface de glisser‑déposer intuitive des jeux Incredibox officiels.
 
@@ -52,4 +54,5 @@ Les commandes reprennent l’interface de glisser‑déposer intuitive des jeux 
 - **Mute / Unmute** : clique sur un gorille pour le couper, clique à nouveau pour le réactiver.  
 - **Solo** : utilise le petit bouton à côté d’un gorille pour ne faire entendre que lui.  
 - **Enregistrer** : clique sur le bouton d’enregistrement (en haut à droite) pour démarrer et arrêter la capture de ton mix.
+
 

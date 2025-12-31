@@ -30,6 +30,8 @@ Gunspin transforme le recul de ton arme en moyen de locomotion. Chaque tir fait 
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Mouse` `Space`
 
 - Souris ou barre d’espace pour tirer ; le timing et la direction du tir déterminent ta trajectoire.
 
@@ -57,5 +59,6 @@ Gunspin transforme le recul de ton arme en moyen de locomotion. Chaque tir fait 
 - Q : Y a‑t‑il une fin aux niveaux ?
   
   R : Gunspin est un jeu basé sur la distance : ton objectif principal est de battre ton propre record plutôt que d’atteindre un dernier niveau fixe.
+
 
 

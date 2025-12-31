@@ -57,6 +57,8 @@ und dabei die versteckten Boni aufzuspüren.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `drag` `drop` `Drag` `drop` `Click` `drag` `Click` `click` `Click` `Click`
 
 Die Steuerung entspricht der gewohnten Incredibox-Bedienung.
 
@@ -69,3 +71,4 @@ Die Steuerung entspricht der gewohnten Incredibox-Bedienung.
     stummschalten und nur diese Stimme hören.
 *   **Aufnehmen:** Über den Record-Button nimmst du deinen Beatnik-Track auf und
     kannst ihn später wieder abspielen.
+

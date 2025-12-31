@@ -67,6 +67,8 @@ Der Fokus bei *Incredibox Choir* liegt auf dem Schichten von Harmonien und dem E
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `mouse` `Drag` `drop` `Click` `Click` `Click` `Click` `Click`
 
 Die Steuerung entspricht der Standard-Incredibox-Bedienung.
 
@@ -79,4 +81,5 @@ Die Steuerung entspricht der Standard-Incredibox-Bedienung.
     Stimmen stumm.
 *   **Aufnehmen:** Mit dem Record-Button kannst du deinen Chor-Mix aufnehmen
     und später erneut anhören.
+
 

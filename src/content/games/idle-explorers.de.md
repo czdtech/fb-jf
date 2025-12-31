@@ -56,6 +56,8 @@ für Schritt.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `mouse` `Click` `Click`
 
 Das Spiel wird komplett mit Maus oder Touch gesteuert.
 
@@ -87,3 +89,4 @@ Das Spiel wird komplett mit Maus oder Touch gesteuert.
         zu stecken. Jede Verbesserung steigert deine Einnahmen und beschleunigt
         damit den Weg zu den nächsten Upgrades – exponentielles Wachstum ist der
         Kern des Spiels.
+

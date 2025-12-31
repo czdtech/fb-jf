@@ -43,6 +43,8 @@ Incredibox Fruity zu meistern erfordert ein Gleichgewicht aus Angriff, Verteidig
 
 <!-- i18n:section:controls -->
 ### Steuerungsanleitung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `mouse` `Click` `Click` `Click` `Click`
 
 Das Spiel wird fast vollständig mit der Maus gesteuert.
 
@@ -69,4 +71,5 @@ Das Spiel wird fast vollständig mit der Maus gesteuert.
 <!-- i18n:faq:id=faq:incredibox-fruity:q-where-can-i-play-adcbe59e -->
 *   **F: Wo kann ich Incredibox Fruity spielen, jetzt wo Flash weg ist?**
     *   **A:** Viele Gaming-Websites wie CrazyGames, Armor Games und Kongregate hosten Incredibox Fruity jetzt mit Flash-Emulatoren (wie Ruffle), was es in modernen Webbrowsern vollständig spielbar macht. Es gibt auch mobile Versionen in den iOS- und Android-App-Stores.
+
 

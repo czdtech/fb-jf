@@ -27,6 +27,8 @@ releaseDate: 2025-12-04
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Mouse` `mouse` `mouse` `drag` `spacebar`
 
 - **Maus:** Nutze die Maus, um Figuren aus der Leiste unten auf die Bühne zu
   ziehen oder wieder zu entfernen.
@@ -46,3 +48,4 @@ releaseDate: 2025-12-04
 
 Ob zum kurzen Zeitvertreib oder zum längeren Rumtüfteln – in Sprinkle kannst du
 nach Lust und Laune remixen und dein eigenes kleines Klanglabor aufbauen.
+

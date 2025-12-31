@@ -54,6 +54,8 @@ Folge zu erzielen und deinen Highscore zu knacken.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click` `left` `button` `tap` `drop`
 
 Das Spiel wird mit genau einer Eingabe gespielt.
 
@@ -78,3 +80,4 @@ Das Spiel wird mit genau einer Eingabe gespielt.
 *   **F: Kann ich nach einem Fehler weiterspielen?**
     *   **A:** Normalerweise nein. Wie viele Hyper-Casual-Games setzt Hoop Hero
         auf kurze Sessions – ein Fehlschuss bedeutet, dass du neu starten musst.
+

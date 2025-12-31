@@ -63,6 +63,8 @@ intérpretes individuales.
 
 <!-- i18n:section:controls -->
 ### **Guía de controles**
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `mouse` `Click` `click`
 
 Aquí está la gran diferencia frente al Incredibox clásico: todo se controla con
 clics.
@@ -76,3 +78,4 @@ clics.
     *   **Reproducir/Pausar:** activa o detiene todo el loop.
     *   **Grabar:** inicia o detiene la grabación de tu sesión.
     *   **Reiniciar:** limpia todos los sonidos activos de la rejilla.
+

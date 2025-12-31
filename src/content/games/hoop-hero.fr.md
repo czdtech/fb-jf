@@ -33,6 +33,8 @@ Hoop Hero est un jeu d'arcade minimaliste et addictif jouable avec un seul tap. 
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Click` `left` `button` `tap` `drop`
 
 Le jeu se joue avec une seule action.
 
@@ -52,4 +54,5 @@ Le jeu se joue avec une seule action.
 <!-- i18n:faq:id=faq:hoop-hero:q-is-there-any-way-629d32d0 -->
 *   **Q : Peut‑on continuer après un raté ?**
     *   **R :** En général non. Ces jeux hyper‑casual sont pensés pour des parties rapides : un échec met fin à la run et tu recommences depuis zéro.
+
 

@@ -71,6 +71,8 @@ construir pistas potentes y rítmicas.
 
 <!-- i18n:section:controls -->
 ### **Guía de controles**
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `drag` `drop` `Drag` `drop` `Click` `drag` `Click` `click` `Click` `Click`
 
 Los controles son los mismos que en Incredibox oficial.
 
@@ -109,3 +111,4 @@ para fans del hip‑hop contemporáneo.
 **4. ¿Hay soluciones de bonus de "Trillybox" online?**  
 Sí. Si te atascas, una búsqueda de "Incredibox Trillybox combos" en YouTube
 suele mostrar todas las combinaciones.
+

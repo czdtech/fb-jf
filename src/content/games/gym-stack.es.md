@@ -49,6 +49,8 @@ las barras lleguen a llenarse por completo.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `mouse` `click` `click`
 
 - **Seleccionar y mover:** Usa el ratón para hacer clic en una pila de pesas y
   después haz clic en un hueco vacío o en una pila válida para moverla.
@@ -70,4 +72,5 @@ las barras lleguen a llenarse por completo.
 *   **P: ¿Hay límite de tiempo?**
     *   **R:** No. Gym Stack es un puzle pausado; puedes tomarte tu tiempo para pensar
         cada movimiento. No hay presión de tiempo.
+
 

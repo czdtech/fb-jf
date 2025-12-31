@@ -31,6 +31,8 @@ Hide And Seek! adapte le cache‑cache de cour de récré en jeu d’arcade vue 
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `WASD`
 
 - **Déplacement** : touches fléchées ou WASD.  
 - **Utiliser un pouvoir / interagir** : touche d’action indiquée par l’hébergeur (souvent E ou un clic sur un bouton à l’écran).
@@ -56,5 +58,6 @@ Hide And Seek! adapte le cache‑cache de cour de récré en jeu d’arcade vue 
 <!-- i18n:faq:id=faq:hide-and-seek:do-powerups-respawn-during-a-d1c2e219 -->
 - **Q : Les bonus réapparaissent‑ils pendant la partie ?**  
   R : Dans beaucoup de modes, les objets de pouvoir réapparaissent sur des timers fixes. Apprends leurs emplacements et reviens régulièrement les récupérer.
+
 
 

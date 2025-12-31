@@ -48,6 +48,8 @@ La clé est de comprendre comment le chant a été découpé, puis de superposer
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `drag` `drop` `Drag` `drop` `Click` `drag` `Click` `click` `Click` `Click`
 
 Les commandes sont celles d’Incredibox :
 
@@ -67,5 +69,6 @@ Les commandes sont celles d’Incredibox :
 
 - **Q : Combien de bonus secrets y a‑t‑il ?**  
   R : Trois bonus animés, chacun lié à une combinaison précise de sons—tous fortement thématisés autour de Noël.
+
 
 

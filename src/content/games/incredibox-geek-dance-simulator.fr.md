@@ -44,6 +44,8 @@ Le gameplay diffère fondamentalement de la série officielle Incredibox. Il uti
 
 <!-- i18n:section:controls -->
 ### **Guide des commandes**
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `click` `Click`
 
 Ce mod utilise l'interface simple basée sur les clics de la série Simulator.
 
@@ -73,4 +75,5 @@ C'est une distinction cruciale. La communauté de modding Incredibox a créé au
 **3. Où puis‑je jouer à ce mod ?**
 
 Tu ne le trouveras pas sur les plateformes officielles. Ces mods sont généralement partagés sur des sites de jeux comme **playfiddlebops.com**, des communautés de modding comme **scratch**, ou présentés sur YouTube avec des liens pour y jouer dans un navigateur web.
+
 

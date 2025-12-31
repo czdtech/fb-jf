@@ -38,6 +38,8 @@ verdächtige Spieler auf, bevor der Timer abläuft.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `WASD`
 
 - Bewegung mit **WASD** oder Pfeiltasten.  
 - Eine zusätzliche Aktionstaste löst Power-ups oder Interaktionen aus
@@ -71,3 +73,4 @@ verdächtige Spieler auf, bevor der Timer abläuft.
 - **F: Erscheinen Power-ups während einer Runde neu?**  
   **A:** In vielen Modi spawnen Items in Intervallen nach – lerne ihre
   Positionen, um dir regelmäßig Vorteile zu sichern.
+

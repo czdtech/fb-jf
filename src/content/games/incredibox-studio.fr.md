@@ -34,6 +34,8 @@ Incredibox Studio est un projet fan‑made. Contrairement aux versions officiell
 
 <!-- i18n:section:controls -->
 ### Guide des commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `mouse` `Drag` `drop` `Drag` `Click` `Click`
 
 *   Le jeu se contrôle entièrement à la souris.
     *   **Ajouter un son** : Fais glisser une icône depuis le panneau du bas et dépose‑la sur un des personnages.
@@ -51,4 +53,5 @@ Incredibox Studio est un projet fan‑made. Contrairement aux versions officiell
 <!-- i18n:faq:id=faq:incredibox-studio:q-where-can-i-play-fe36000d -->
 *   **Q : Où puis‑je y jouer ?**
     *   **R** : Il est jouable directement dans un navigateur web via le lien playfiddlebops.com fourni.
+
 

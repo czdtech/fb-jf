@@ -40,6 +40,8 @@ Strategie bei *Incredibox Riser* dreht sich darum, ein Gefühl von Größe und R
 
 <!-- i18n:section:controls -->
 ### **Steuerungsanleitung**
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `drag` `drop` `Drag` `drop` `Click` `drag` `Click` `click` `Click` `Click`
 
 Die Steuerung folgt dem standardmäßigen, intuitiven Drag-and-Drop-Interface der offiziellen Incredibox-Spiele.
 
@@ -63,4 +65,5 @@ Du findest ihn nicht auf offiziellen Plattformen. Mods wie *Riser* werden typisc
 <!-- i18n:faq:id=faq:incredibox-riser:are-the-bonus-solutions-for-3d646fa2 -->
 **3. Sind die Bonus-Lösungen für „Riser" online verfügbar?**
 Ja. Wenn du Probleme hast, die Kombinationen für die Animationen zu finden, zeigt dir eine schnelle Suche nach „*Incredibox Riser combos*" auf YouTube die Lösungen.
+
 

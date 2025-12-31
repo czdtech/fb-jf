@@ -31,6 +31,8 @@ Head Soccer condense le football en duels 1 contre 1 nerveux avec de grosses tê
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `WASD`
 
 - **Déplacement / Saut** : touches fléchées ou WASD pour te déplacer et sauter (selon l’hébergeur).  
 - **Tir / Tir spécial** : touches spécifiques indiquées par le site (généralement une ou deux touches d’action).
@@ -56,5 +58,6 @@ Head Soccer condense le football en duels 1 contre 1 nerveux avec de grosses tê
 <!-- i18n:faq:id=faq:head-soccer:are-there-team-or-character-41223075 -->
 - **Q : Y a‑t‑il des différences entre les personnages ou équipes ?**  
   R : Bien souvent, ces différences sont surtout cosmétiques. La physique et le gameplay restent généralement similaires entre les skins.
+
 
 

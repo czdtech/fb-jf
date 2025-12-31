@@ -28,6 +28,8 @@ releaseDate: 2025-12-04T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### Guía de manejo
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Mouse` `mouse` `mouse` `drag` `spacebar`
 
 - **Uso del ratón:** el ratón es la herramienta principal. Arrastra los
   personajes de la parte inferior hasta los huecos vacíos del escenario.
@@ -50,3 +52,4 @@ Sprinkle es un juego de creación musical simple de manejar y muy entretenido.
 Tanto si solo quieres relajarte como si te interesa trastear con ideas de
 producción, aquí encontrarás un buen lugar para experimentar. Entra en Sprinkle,
 libera tu creatividad remezclando y crea temas que solo tú podrías imaginar.
+

@@ -49,6 +49,8 @@ La stratégie dans *Incredibox Instrumentalist* tourne autour de la compréhensi
 
 <!-- i18n:section:controls -->
 ### **Guide des commandes**
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Drag` `drop` `click` `Click`
 
 Ce mod présente une approche unique des commandes classiques d'Incredibox.
 
@@ -74,4 +76,5 @@ Tu ne le trouveras pas sur les plateformes officielles. Les mods comme *Instrume
 <!-- i18n:faq:id=faq:incredibox-instrumentalist:are-the-bonus-solutions-for-3062ed27 -->
 **4. Les solutions des bonus pour « Instrumentalist » sont‑elles disponibles en ligne ?**
 Oui. Si tu as du mal à trouver les combinaisons pour les animations, une recherche rapide de « *Incredibox Instrumentalist combos* » sur YouTube te fournira probablement les solutions.
+
 

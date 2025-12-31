@@ -29,6 +29,8 @@ Guess the Kitty est un petit quiz dans lequel tu dois identifier des races de ch
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Mouse`
 
 - Souris / tactile pour sélectionner les réponses.  
 - Clavier lorsque tu dois saisir une réponse texte.
@@ -57,4 +59,5 @@ Guess the Kitty est un petit quiz dans lequel tu dois identifier des races de ch
 - Q : Le jeu propose‑t‑il un mode entraînement ?
   
   R : Certains hôtes offrent des manches casual/pratique sans limite de temps.
+
 

@@ -77,6 +77,8 @@ Incredibox 방식이지만, 20개의 사운드 아이콘이 내는 소리는 더
 
 <!-- i18n:section:controls -->
 ### **조작 가이드**
+<!-- i18n:controls:keys -->
+- 키(정렬)： `drag` `drop` `Drag` `drop` `Click` `drag` `Click` `click` `Click` `Click`
 
 조작법은 공식 Incredibox와 동일합니다.
 
@@ -89,4 +91,5 @@ Incredibox 방식이지만, 20개의 사운드 아이콘이 내는 소리는 더
   뮤트할 수 있습니다.
 - **녹음**: 상단의 녹음 버튼을 눌러 완성된 괴기스러운 믹스를 녹음·저장할
   수 있습니다.
+
 

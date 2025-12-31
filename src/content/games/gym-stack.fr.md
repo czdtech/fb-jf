@@ -34,6 +34,8 @@ Gym Stack est un jeu de puzzle 3D addictif qui met à l'épreuve ton sens de l'o
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `mouse` `click` `click`
 
 *   **Sélectionner et déplacer :** utilise la souris pour cliquer sur une pile de poids, puis clique sur un emplacement vide ou une pile compatible pour la déplacer.
 
@@ -51,4 +53,5 @@ Gym Stack est un jeu de puzzle 3D addictif qui met à l'épreuve ton sens de l'o
 <!-- i18n:faq:id=faq:gym-stack:q-is-there-a-time-c0411996 -->
 *   **Q : Y a‑t‑il une limite de temps ?**
     *   **R :** Non, Gym Stack est un puzzle sans chronomètre. Tu peux prendre tout ton temps pour réfléchir à chaque mouvement.
+
 

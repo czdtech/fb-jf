@@ -39,6 +39,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### **操作ガイド**
+<!-- i18n:controls:keys -->
+- キー（整合）： `drag` `drop` `Drag` `drop` `Click` `drag` `Click` `click` `Click` `Click`
 
 操作は、公式のIncrediboxゲームの標準的で直感的なドラッグ＆ドロップインターフェースに従います。
 
@@ -70,4 +72,5 @@ locale: ja
 **4. 「Rave」のボーナス解決策はオンラインで利用可能ですか？**
 
 はい。アニメーションの組み合わせを見つけるのに苦労している場合、YouTubeで「*Incredibox Rave combos*」を素早く検索すると、解決策が提供される可能性があります。
+
 

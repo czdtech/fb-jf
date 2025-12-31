@@ -43,6 +43,8 @@ patrones y las conjeturas estratégicas.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Drag`
 
 - Arrastra para conectar letras y suelta para enviar la palabra; usa las pistas
   solo cuando sea imprescindible.
@@ -65,4 +67,5 @@ patrones y las conjeturas estratégicas.
 - **P: ¿Puedo rejugar niveles para conseguir más monedas?**  
   **R:** Normalmente sí; puedes volver a cuadrículas anteriores para obtener
   bonos adicionales.
+
 

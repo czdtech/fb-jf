@@ -43,6 +43,8 @@ Incredibox Fruityをマスターするには、攻撃、防御、戦略的タイ
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `mouse` `Click` `Click` `Click` `Click`
 
 ゲームはほぼ完全にマウスで制御されます。
 
@@ -69,4 +71,5 @@ Incredibox Fruityをマスターするには、攻撃、防御、戦略的タイ
 <!-- i18n:faq:id=faq:incredibox-fruity:q-where-can-i-play-adcbe59e -->
 *   **Q: Flashがなくなった今、どこでIncredib​​ox Fruityをプレイできますか？**
     *   **A:** CrazyGames、Armor Games、Kongregateなどの多くのゲームウェブサイトは現在、Flashエミュレーター（Ruffleなど）を使用してIncredib​​ox Fruityをホストしており、最新のウェブブラウザで完全にプレイ可能にしています。iOSおよびAndroidアプリストアで利用可能なモバイルバージョンもあります。
+
 

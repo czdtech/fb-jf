@@ -34,6 +34,8 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### **操作说明**
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `click` `mouse`
 
 数字版《Hangman》的操作非常简单：
 
@@ -63,3 +65,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:faq:id=faq:hangman:what-happens-when-i-guess-9ead5b0e -->
 **4. 如果猜错一个字母会发生什么？**  
 每次猜错，都会在“吊死鬼”火柴人图上增加一个身体部位（比如先画头，再画身体、手臂、腿等）。当所有部位都被画出时，就代表你已经用完所有容错机会，这一局宣告失败。
+

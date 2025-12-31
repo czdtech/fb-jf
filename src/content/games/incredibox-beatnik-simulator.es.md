@@ -62,6 +62,8 @@ suave y coherente, y a la vez ir desbloqueando los bonus ocultos.
 
 <!-- i18n:section:controls -->
 ### **Guía de controles**
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `drag` `drop` `Drag` `drop` `Click` `drag` `Click` `click` `Click` `Click`
 
 Los controles siguen la interfaz intuitiva de arrastrar y soltar de Incredibox.
 
@@ -75,4 +77,5 @@ Los controles siguen la interfaz intuitiva de arrastrar y soltar de Incredibox.
     silenciar al resto.
 *   **Grabar:** pulsa el **botón de grabación** para empezar o detener la
     grabación de tu creación musical.
+
 

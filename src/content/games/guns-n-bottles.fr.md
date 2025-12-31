@@ -33,6 +33,8 @@ Guns n' Bottles est un jeu d'arcade à un seul bouton, simple mais très addicti
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Click` `left` `button` `tap`
 
 Le jeu se joue avec une seule action.
 
@@ -52,4 +54,5 @@ Le jeu se joue avec une seule action.
 <!-- i18n:faq:id=faq:guns-n-bottles:q-how-do-i-aim-4547fcfc -->
 *   **Q : Comment je vise ?**
     *   **R :** Tu ne contrôles pas directement la visée. Le pistolet tourne automatiquement ; ton rôle est de déclencher le tir exactement au bon moment lorsqu'il passe devant la bouteille.
+
 

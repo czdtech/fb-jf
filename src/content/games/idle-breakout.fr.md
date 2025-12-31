@@ -30,6 +30,8 @@ Idle Breakout fusionne la progression incrémentale avec le gameplay classique d
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Mouse` `click`
 
 - Souris : clique sur les briques pour infliger des dégâts, utilise l’interface pour acheter des balles, des améliorations et débloquer les nœuds de prestige.
 
@@ -54,5 +56,6 @@ Idle Breakout fusionne la progression incrémentale avec le gameplay classique d
 <!-- i18n:faq:id=faq:idle-breakout:does-the-game-progress-offline-f8c04faa -->
 - Q : Le jeu progresse‑t‑il quand je suis hors ligne ?  
   R : Cela dépend de l’hébergeur. Certaines versions simulent les gains hors connexion, d’autres non.
+
 
 

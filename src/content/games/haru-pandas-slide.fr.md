@@ -42,6 +42,8 @@ Haru Pandas Slide propose des puzzles coulissants basés sur des images. Chaque 
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Drag`
 
 - **Déplacer une tuile** : fais glisser une tuile avec la souris ou ton doigt dans une direction autorisée (ligne ou colonne) jusqu’à la case libre.  
 - Si le jeu le propose, utilise les boutons **Annuler** ou **Reset** pour revenir en arrière ou recommencer un puzzle.
@@ -60,5 +62,6 @@ Haru Pandas Slide propose des puzzles coulissants basés sur des images. Chaque 
 <!-- i18n:faq:id=faq:haru-pandas-slide:is-there-a-timer-25fbcbdf -->
 - **Q : Le jeu est‑il chronométré ?**  
   R : Souvent, le mode principal est relax, sans compte à rebours strict. Certaines variantes suivent plutôt le nombre de coups ou proposent des défis de temps pour les joueurs qui veulent optimiser leurs solutions.
+
 
 

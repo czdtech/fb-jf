@@ -66,6 +66,8 @@ beherrschen und daraus einen druckvollen, rhythmischen Track bauen.
 
 <!-- i18n:section:controls -->
 ### **Steuerung**
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `drag` `drop` `Drag` `drop` `Click` `drag` `Click` `click` `Click` `Click`
 
 Die Steuerung folgt dem bekannten Drag‑and‑Drop‑Interface der offiziellen
 Incredibox‑Versionen:
@@ -108,3 +110,4 @@ unterscheidet und Fans von aktuellem Hip‑Hop anspricht.
 
 Ja. Wenn du die Kombinationen nicht findest, hilft oft eine kurze Suche nach
 „Incredibox Trillybox combos“ auf YouTube.
+

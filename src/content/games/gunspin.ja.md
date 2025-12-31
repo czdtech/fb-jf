@@ -25,6 +25,8 @@ Gunspinは、反動を移動手段に変えます。各ショットはあなた�
 
 <!-- i18n:section:controls -->
 ### 操作方法
+<!-- i18n:controls:keys -->
+- キー（整合）： `Mouse` `Space`
 - マウス/スペースで射撃。タイミングと狙いが軌道（弾道）を決定します。
 
 <!-- i18n:section:tips -->
@@ -44,4 +46,5 @@ Gunspinは、反動を移動手段に変えます。各ショットはあなた�
 <!-- i18n:faq:id=faq:gunspin:is-there-an-end-to-5b0d22c9 -->
 - **Q: レベルに終わりはありますか？**  
   A: 距離ベースのゲームです。自己ベストを目指しましょう。
+
 

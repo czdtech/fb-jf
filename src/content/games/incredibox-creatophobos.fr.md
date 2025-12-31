@@ -50,6 +50,8 @@ Ici, il s'agit moins de chercher l'harmonie que de construire la tension.
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `drag` `drop` `Drag` `drop` `Click` `drag` `Click` `click` `Click` `Click`
 
 Les commandes reprennent l'interface glisser‑déposer classique d'Incredibox.
 
@@ -69,3 +71,4 @@ Les commandes reprennent l'interface glisser‑déposer classique d'Incredibox.
 
 - **Q : Les bonus sont‑ils difficiles à trouver ?**
   R : Ils demandent un peu de patience, mais une fois que tu as identifié quelques bonnes bases, tu pourras les déclencher en testant calmement différentes combinaisons.
+

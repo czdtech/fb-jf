@@ -40,6 +40,8 @@ Scratch로 제작되고 TurboWarp로 최적화되어 브라우저에서
 
 <!-- i18n:section:controls -->
 ### 조작 가이드
+<!-- i18n:controls:keys -->
+- 키(정렬)： `mouse` `Drag` `drop` `Drag` `Click` `Click`
 
 *   조작은 전부 마우스로 이루어집니다.
     *   **사운드 추가**: 하단 패널의 아이콘을 드래그해 캐릭터에게 올려놓으면 해당 사운드가 추가됩니다.
@@ -60,4 +62,5 @@ Scratch로 제작되고 TurboWarp로 최적화되어 브라우저에서
 *   **Q: 어디에서 플레이할 수 있나요?**
     *   **A:** 보통 안내된 **playfiddlebops.com** 링크를 통해
   웹 브라우저에서 바로 플레이할 수 있습니다.
+
 

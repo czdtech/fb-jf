@@ -34,6 +34,8 @@ potencia de fuego y control.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Mouse` `Space`
 
 - Ratón o barra espaciadora para disparar; el timing y la dirección del disparo
   determinan la trayectoria.
@@ -61,4 +63,5 @@ potencia de fuego y control.
 <!-- i18n:faq:id=faq:gunspin:is-there-an-end-to-5b0d22c9 -->
 - **P: ¿Los niveles tienen final?**  
   **R:** Es un juego basado en distancia; el objetivo es batir tu mejor marca.
+
 

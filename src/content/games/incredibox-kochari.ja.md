@@ -31,6 +31,8 @@ Incredibox Kochariは、Incrediboxの世界とアルメニア民俗文化の豊�
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Drag` `Drag`
 
 *   操作はIncrediboxの標準です。
     *   **サウンドを追加/削除**: 下部からアイコンをキャラクターにドラッグしてサウンドを追加します。ドラッグオフして削除します。
@@ -50,4 +52,5 @@ Incredibox Kochariは、Incrediboxの世界とアルメニア民俗文化の豊�
 <!-- i18n:faq:id=faq:incredibox-kochari:q-how-many-bonuses-are-2ecd0c81 -->
 *   **Q: アンロックするボーナスはいくつありますか？**
     *   **A**: 正しいサウンドの組み合わせを見つけることで発見できる3つのユニークなボーナスアニメーションが通常あります。
+
 

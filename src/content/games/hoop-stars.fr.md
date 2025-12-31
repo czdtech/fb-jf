@@ -34,6 +34,8 @@ Hoop Stars est un duel d’anneaux rapide. Tu fais tourner un cerceau autour d�
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Hold`
 
 - Maintiens pour faire tourner le cerceau, relâche pour le lancer. Certaines versions utilisent deux boutons distincts pour la rotation et le flip.
 
@@ -51,5 +53,6 @@ Hoop Stars est un duel d’anneaux rapide. Tu fais tourner un cerceau autour d�
 <!-- i18n:faq:id=faq:hoop-stars:local-multiplayer-e67a3592 -->
 - Q : Y a‑t‑il un multijoueur local ?  
   R : Sur beaucoup d’hébergeurs, un mode 2 joueurs local est disponible avec des commandes miroir pour chaque joueur.
+
 
 

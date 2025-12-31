@@ -67,6 +67,8 @@ Trillybox에서의 핵심은 **드럼·저역대(베이스)·간단한 멜로디
 
 <!-- i18n:section:controls -->
 ### **조작 가이드**
+<!-- i18n:controls:keys -->
+- 키(정렬)： `drag` `drop` `Drag` `drop` `Click` `drag` `Click` `click` `Click` `Click`
 
 조작은 공식 Incredibox와 동일합니다.
 
@@ -103,3 +105,4 @@ Trillybox에서의 핵심은 **드럼·저역대(베이스)·간단한 멜로디
 **4. 보너스 조합 공략은 어디서 찾을 수 있나요?**  
 `Incredibox Trillybox combos`를 검색하면, 각 보너스를 여는 조합을
 정리해 둔 유튜브 영상을 쉽게 찾을 수 있습니다.
+

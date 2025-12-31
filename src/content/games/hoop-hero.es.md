@@ -50,6 +50,8 @@ puntuación.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click` `left` `button` `tap` `drop`
 
 El juego se maneja con una sola acción.
 
@@ -75,4 +77,5 @@ El juego se maneja con una sola acción.
     *   **R:** Normalmente no. Estos juegos hipercasuales están pensados para
         partidas rápidas: un solo fallo termina la partida y tienes que empezar
         de nuevo.
+
 

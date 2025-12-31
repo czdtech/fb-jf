@@ -33,6 +33,8 @@ Guess The Word combine un système de liaison de lettres avec des grilles type m
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Drag`
 
 - Glisse pour relier les lettres dans l’ordre, puis relâche pour valider le mot.  
 - Utilise les indices avec parcimonie.
@@ -54,5 +56,6 @@ Guess The Word combine un système de liaison de lettres avec des grilles type m
 - Q : Puis‑je rejouer des grilles pour gagner plus de pièces ?
   
   R : En général oui : tu peux revisiter d’anciennes grilles pour récupérer quelques bonus supplémentaires.
+
 
 

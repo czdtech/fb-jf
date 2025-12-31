@@ -29,6 +29,8 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作说明
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Mouse` `drag` `WASD`
 
 - 使用鼠标拖拽或 WASD / 方向键控制黑洞移动；具体模式、计时和得分规则会视托管平台略有差异。
 
@@ -53,3 +55,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:faq:id=faq:hole-io:what-mode-should-i-pick-fcbe42da -->
 - Q: 新手练习用哪个模式比较好？  
   A: 建议先玩自由积分/FFA 模式，这种模式容错更高，可以专心练熟路径规划和成长节奏，而不用一直承受高强度 PvP 压力。
+

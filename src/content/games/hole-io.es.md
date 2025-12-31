@@ -34,6 +34,8 @@ batalla en las que puedes eliminar a otros jugadores tragándotelos.
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Mouse` `drag` `WASD`
 - Ratón/arrastre o WASD para dirigir el agujero; los modos y tiempos dependen
   del host.
 
@@ -60,4 +62,5 @@ batalla en las que puedes eliminar a otros jugadores tragándotelos.
 - Q: ¿Qué modo debería elegir para empezar a aprender?  
   A: El modo de puntuación todos contra todos es más tolerante; úsalo para
   practicar rutas sin PvP constante.
+
 

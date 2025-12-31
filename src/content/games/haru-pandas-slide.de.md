@@ -55,6 +55,8 @@ zusätzlich einschränken – gute Planung schlägt hier reines Ausprobieren.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Drag`
 
 - Ziehe Kacheln mit der Maus oder per Touch-Eingabe entlang der erlaubten
   Achsen.  
@@ -78,3 +80,4 @@ zusätzlich einschränken – gute Planung schlägt hier reines Ausprobieren.
 - **F: Gibt es einen Timer?**  
   **A:** In der Regel ist der Zeitdruck gering oder gar nicht vorhanden. Manche
   Modi zählen eher die Anzahl deiner Züge als die Zeit.
+

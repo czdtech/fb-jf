@@ -56,6 +56,8 @@ nächsten Runden vorbereitest.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `click` `drag` `swipe` `Click` `hold` `drag` `mouse`
 
 Die Steuerung basiert auf einfachem Ziehen oder Wischen.
 
@@ -82,3 +84,4 @@ Die Steuerung basiert auf einfachem Ziehen oder Wischen.
 *   **F: Kann ich diagonal verbinden?**
     *   **A:** Ja. Da das Spielfeld aus Hexagonen besteht, kannst du in **sechs
         Richtungen** zu jedem angrenzenden, gleichfarbigen Feld weiterziehen.
+

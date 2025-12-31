@@ -38,6 +38,8 @@ und schaltet nach und nach stärkere Waffen frei.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Mouse` `Space`
 
 - Schießen mit **Mausklick** oder **Leertaste**; Richtung und Zeitpunkt des
   Schusses bestimmen deine Flugbahn.
@@ -69,3 +71,4 @@ und schaltet nach und nach stärkere Waffen frei.
 - **F: Gibt es ein festes Levelende?**  
   **A:** In der Regel zählt die zurückgelegte Distanz – du spielst auf
   Bestweiten und persönliche Highscores.
+

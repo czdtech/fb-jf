@@ -61,6 +61,8 @@ Bei *Incredibox Instrumentalist* geht es darum, zu verstehen, wie verschiedene I
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Drag` `drop` `click` `Click`
 
 Dieser Mod bietet eine leicht abgewandelte Steuerung:
 
@@ -92,3 +94,4 @@ Dieser Mod bietet eine leicht abgewandelte Steuerung:
 - **F: Gibt es Lösungen für die Boni online?**  
   **A:** Ja, bei YouTube findest du unter "Incredibox Instrumentalist combos"
   die Lösungen für die Bonus-Animationen.
+

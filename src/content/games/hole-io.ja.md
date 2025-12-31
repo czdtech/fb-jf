@@ -25,6 +25,8 @@ Hole ioでは、破壊可能な街の中を動き回るブラックホールと�
 
 <!-- i18n:section:controls -->
 ### 操作方法
+<!-- i18n:controls:keys -->
+- キー（整合）： `Mouse` `drag` `WASD`
 - マウス/ドラッグまたはWASDで操縦。モードとタイマーはホストによって異なります。
 
 <!-- i18n:section:tips -->
@@ -44,4 +46,5 @@ Hole ioでは、破壊可能な街の中を動き回るブラックホールと�
 <!-- i18n:faq:id=faq:hole-io:what-mode-should-i-pick-fcbe42da -->
 - **Q: 学習にはどのモードを選ぶべきですか？**  
   A: FFAスコアモードは寛容です。常にPvP（対人戦）に晒されることなくルートを練習できます。
+
 

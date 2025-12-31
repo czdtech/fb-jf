@@ -41,6 +41,8 @@ Multiplikatoren freizuschalten, die spätere Runs drastisch beschleunigen.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Mouse` `click`
 
 - **Maus:** Klicke direkt auf Blöcke, um Schaden zu verursachen, und verwende
   die UI-Buttons, um Bälle, Upgrades und Prestige-Boni zu kaufen.
@@ -73,3 +75,4 @@ Multiplikatoren freizuschalten, die spätere Runs drastisch beschleunigen.
 - **F: Läuft das Spiel weiter, wenn ich offline bin?**  
   **A:** Das hängt vom Host ab. Viele Versionen simulieren Einkünfte während du
   weg bist, andere nur, solange das Fenster offen ist.
+

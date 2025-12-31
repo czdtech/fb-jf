@@ -74,6 +74,8 @@ Hier geht es darum, Chaos und Spannung aufzubauen – nicht um Harmonien.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `drag` `drop` `Drag` `drop` `Click` `drag` `Click` `click` `Click` `Click`
 
 Steuerung wie im Original-Incredibox:
 
@@ -87,3 +89,4 @@ Steuerung wie im Original-Incredibox:
     Stimmen stumm.
 *   **Aufnehmen:** Über den Record-Button kannst du dein monströses Werk
     aufnehmen und später erneut abspielen.
+

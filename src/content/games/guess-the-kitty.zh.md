@@ -28,6 +28,8 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作说明
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Mouse`
 - 使用鼠标或触屏点击选项，部分关卡需要键盘输入单词答案。
 
 <!-- i18n:section:tips -->
@@ -49,3 +51,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:faq:id=faq:guess-the-kitty:does-the-game-include-a-69b182f1 -->
 - Q: 游戏里有练习模式吗？  
   A: 某些平台会提供轻松或练习模式，不计时、惩罚较少，适合熟悉题库和巩固知识。
+

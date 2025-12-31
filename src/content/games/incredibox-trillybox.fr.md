@@ -47,6 +47,8 @@ La stratégie dans *Incredibox Trillybox* consiste à maîtriser les éléments 
 
 <!-- i18n:section:controls -->
 ### **Guide des commandes**
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `drag` `drop` `Drag` `drop` `Click` `drag` `Click` `click` `Click` `Click`
 
 Les commandes suivent l'interface intuitive de glisser‑déposer standard des jeux Incredibox officiels.
 
@@ -78,3 +80,4 @@ Son attrait vient de son interprétation authentique et de haute qualité du gen
 **4. Les solutions des bonus pour « Trillybox » sont‑elles disponibles en ligne ?**
 
 Oui. Si tu as du mal à trouver les combinaisons pour les animations, une recherche rapide de « *Incredibox Trillybox combos* » sur YouTube te montrera les solutions.
+

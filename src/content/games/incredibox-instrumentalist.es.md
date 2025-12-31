@@ -74,6 +74,8 @@ secciones y capas.
 
 <!-- i18n:section:controls -->
 ### **Guía de controles**
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Drag` `drop` `click` `Click`
 
 Este mod ofrece una variante interesante de los controles clásicos de
 Incredibox.
@@ -112,3 +114,4 @@ aparecer en páginas como **playfiddlebops.com** o en vídeos de YouTube con
 Sí. Si te cuesta encontrar las combinaciones de animaciones, una búsqueda rápida
  de "Incredibox Instrumentalist combos" en YouTube suele mostrar todas las
 respuestas.
+

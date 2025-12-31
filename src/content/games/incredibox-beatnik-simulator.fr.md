@@ -40,6 +40,8 @@ La stratégie dans *Beatnik* consiste à installer une ambiance fluide et cohér
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `drag` `drop` `Drag` `drop` `Click` `drag` `Click` `click` `Click` `Click`
 
 Les commandes reprennent l’interface de glisser‑déposer classique d’Incredibox.
 
@@ -59,4 +61,5 @@ Les commandes reprennent l’interface de glisser‑déposer classique d’Incre
 
 - **Q : Est‑ce un mod officiel ?**  
   R : Non, c’est un mod créé par des fans et non un contenu officiel des développeurs d’Incredibox.
+
 

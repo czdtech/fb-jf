@@ -29,6 +29,8 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作说明
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Drag`
 
 - 用手指或鼠标拖动连接字母，组成单词后松手提交；提示次数有限，需谨慎使用。
 
@@ -46,3 +48,4 @@ releaseDate: 2025-10-18T00:00:00.000Z
 <!-- i18n:faq:id=faq:guess-the-word:can-i-replay-for-more-3af1cb4a -->
 - Q: 可以重复刷关拿更多金币吗？  
   A: 一般可以，你可以回到早期路线较简单的关卡刷奖励，用来换取提示或解锁更多内容。
+

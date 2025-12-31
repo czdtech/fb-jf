@@ -25,6 +25,8 @@ Head Soccerは、サッカーを巨大な頭とシンプルな物理挙動によ
 
 <!-- i18n:section:controls -->
 ### 操作方法
+<!-- i18n:controls:keys -->
+- キー（整合）： `WASD`
 - 矢印キー/WASDで移動/ジャンプ。シュート/スペシャルキーはホストによって異なります。
 
 <!-- i18n:section:tips -->
@@ -44,4 +46,5 @@ Head Soccerは、サッカーを巨大な頭とシンプルな物理挙動によ
 <!-- i18n:faq:id=faq:head-soccer:are-there-team-or-character-41223075 -->
 - **Q: チームやキャラクターに違いはありますか？**  
   A: 多くの場合見た目（コスメティック）だけですが、物理挙動はスキンの間で概ね統一されています。
+
 

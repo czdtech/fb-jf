@@ -37,6 +37,8 @@ aceleran las partidas futuras.
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Mouse` `click`
 - Ratón: haz clic para hacer daño; usa la interfaz para comprar bolas, mejoras
   y nodos de prestigio.
 
@@ -60,4 +62,5 @@ aceleran las partidas futuras.
 <!-- i18n:faq:id=faq:idle-breakout:does-the-game-progress-offline-f8c04faa -->
 - Q: ¿El juego progresa mientras estoy desconectado?  
   A: Algunos hosts simulan ganancias offline; el comportamiento concreto varía.
+
 

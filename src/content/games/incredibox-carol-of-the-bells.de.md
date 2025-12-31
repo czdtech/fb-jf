@@ -70,6 +70,8 @@ so zu schichten, dass ein voller, festlicher Sound entsteht.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `drag` `drop` `Drag` `drop` `Click` `drag` `Click` `click` `Click` `Click`
 
 Die Bedienung entspricht dem offiziellen Incredibox.
 
@@ -82,3 +84,4 @@ Die Bedienung entspricht dem offiziellen Incredibox.
     stummschalten.
 *   **Aufnehmen:** Mit dem Record-Button nimmst du deinen Weihnachtstrack auf
     und kannst ihn später wieder abspielen.
+

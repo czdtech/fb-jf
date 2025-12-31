@@ -31,6 +31,8 @@ Incredibox Kochari est un mod fan‑made unique qui fusionne magnifiquement le m
 
 <!-- i18n:section:controls -->
 ### Guide des commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Drag` `Drag`
 
 *   Les commandes sont standard pour Incredibox.
     *   **Ajouter/Retirer un son** : Fais glisser une icône du bas sur un personnage pour ajouter un son. Fais‑la glisser hors du personnage pour la retirer.
@@ -50,4 +52,5 @@ Incredibox Kochari est un mod fan‑made unique qui fusionne magnifiquement le m
 <!-- i18n:faq:id=faq:incredibox-kochari:q-how-many-bonuses-are-2ecd0c81 -->
 *   **Q : Combien de bonus y a‑t‑il à débloquer ?**
     *   **R** : Il y a généralement trois animations bonus uniques à découvrir en trouvant les bonnes combinaisons de sons.
+
 

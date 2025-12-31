@@ -76,6 +76,8 @@ Dominar Incredibox Fruity exige equilibrio entre ataque, defensa y buena sincron
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `mouse` `Click` `Click` `Click` `Click`
 
 El juego se maneja casi por completo con el ratón.
 
@@ -114,4 +116,5 @@ El juego se maneja casi por completo con el ratón.
         Kongregate) lo alojan usando emuladores de Flash como Ruffle, así que
         se puede jugar en navegadores modernos. También hay versiones móviles en
         las tiendas de iOS y Android.
+
 

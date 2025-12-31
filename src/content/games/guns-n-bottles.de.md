@@ -54,6 +54,8 @@ Preis vermeiden.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click` `left` `button` `tap`
 
 Das Spiel nutzt nur eine einzige Aktion.
 
@@ -78,3 +80,4 @@ Das Spiel nutzt nur eine einzige Aktion.
     *   **A:** Du steuerst die Ausrichtung nicht direkt – die Waffe dreht sich
         automatisch. Deine Aufgabe ist es, den **Zeitpunkt** des Schusses so zu
         wählen, dass der Lauf beim Feuern in Richtung deines Ziels zeigt.
+

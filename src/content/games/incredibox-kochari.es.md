@@ -46,6 +46,8 @@ refuerzan el tema con movimientos que evocan la danza tradicional.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Drag` `Drag`
 
 *   Los controles son los estándar de Incredibox.
     *   **Añadir/quitar sonidos**: Arrastra un icono desde la parte inferior a
@@ -71,4 +73,5 @@ refuerzan el tema con movimientos que evocan la danza tradicional.
 *   **P: ¿Cuántos bonus hay para desbloquear?**
     *   **R:** Normalmente hay tres animaciones de bonus que se descubren al
         encontrar las combinaciones correctas de sonidos.
+
 

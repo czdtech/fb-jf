@@ -40,6 +40,8 @@ La stratégie dans *Incredibox Riser* consiste à construire un sentiment d'éch
 
 <!-- i18n:section:controls -->
 ### **Guide des commandes**
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `drag` `drop` `Drag` `drop` `Click` `drag` `Click` `click` `Click` `Click`
 
 Les commandes suivent l'interface intuitive de glisser‑déposer standard des jeux Incredibox officiels.
 
@@ -63,4 +65,5 @@ Tu ne le trouveras pas sur les plateformes officielles. Les mods comme *Riser* s
 <!-- i18n:faq:id=faq:incredibox-riser:are-the-bonus-solutions-for-3d646fa2 -->
 **3. Les solutions des bonus pour « Riser » sont‑elles disponibles en ligne ?**
 Oui. Si tu as du mal à trouver les combinaisons pour les animations, une recherche rapide de « *Incredibox Riser combos* » sur YouTube te montrera les solutions.
+
 

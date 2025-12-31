@@ -36,6 +36,8 @@ höher fällt deine Punktzahl aus – Hinweise kosten dagegen Punkte.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Mouse`
 
 - Maus oder Touch, um Antwortmöglichkeiten auszuwählen.  
 - Bei freien Eingaben nutzt du die Tastatur, um den Rassennamen oder Begriff
@@ -67,3 +69,4 @@ höher fällt deine Punktzahl aus – Hinweise kosten dagegen Punkte.
 - **F: Gibt es einen Übungsmodus ohne Zeitdruck?**  
   **A:** Einige Versionen bieten entspannte Übungs- oder Casual-Runden, in denen
   du ohne Timer spielen und nebenbei Rassenmerkmale lernen kannst.
+

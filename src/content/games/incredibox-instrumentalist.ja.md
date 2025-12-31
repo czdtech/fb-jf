@@ -43,6 +43,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### **操作ガイド**
+<!-- i18n:controls:keys -->
+- キー（整合）： `Drag` `drop` `click` `Click`
 
 このモッドは、クラシックなIncredibox操作のユニークなアレンジを特徴としています。
 
@@ -68,4 +70,5 @@ locale: ja
 <!-- i18n:faq:id=faq:incredibox-instrumentalist:are-the-bonus-solutions-for-3062ed27 -->
 **4. 「Instrumentalist」のボーナス解決策はオンラインで利用可能ですか？**
 はい。アニメーションの組み合わせを見つけるのに苦労している場合、YouTubeで「*Incredibox Instrumentalist combos*」を素早く検索すると、解決策が提供される可能性があります。
+
 

@@ -23,6 +23,8 @@ releaseDate: 2025-12-04T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### Guide d’utilisation
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Mouse` `mouse` `mouse` `drag` `spacebar`
 
 - **Souris** : l’outil principal. Glisse les personnages depuis le bas de l’écran vers la scène.  
 - **Clavier** (selon version) : certaines variantes permettent d’utiliser la barre d’espace pour lancer/arrêter la musique.  
@@ -35,5 +37,6 @@ releaseDate: 2025-12-04T00:00:00.000Z
 - **Support clavier** : les raccourcis rendent le mixage plus confortable quand ils sont disponibles.
 
 Sprinkle est un bac à sable musical accessible et amusant. Que tu sois joueur occasionnel ou curieux de MAO, tu peux y trouver de quoi laisser libre cours à ta créativité.
+
 
 

@@ -38,6 +38,8 @@ Die Bedienung ist simpel – du kannst in wenigen Schritten loslegen:
 
 <!-- i18n:section:controls -->
 ### Maus-Steuerung:
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Mouse` `mouse` `Click` `Drag` `Click` `hold` `mouse` `drag` `click` `drag` `click` `click` `drag` `click` `click` `mouse`
 
 Die Bedienung von Incredibox Shatter Sprunk ist sehr einfach – du kannst alles bequem mit der Maus erledigen:
 
@@ -53,3 +55,4 @@ Die Bedienung von Incredibox Shatter Sprunk ist sehr einfach – du kannst alles
  - **Einfache und benutzerfreundliche Bedienung:** Die Maussteuerung ist simpel und intuitiv, sodass Spieler aller Altersgruppen und Fähigkeitsstufen leicht einsteigen können.
  - **Einzigartiger Sprunki-Stil:** Kombiniert den skurrilen Stil von Sprunki für ein anderes Incredibox-Erlebnis.
  - **Entdeckerspaß:** Versteckte Animationen und Spezialeffekte machen den Kreativprozess überraschend abwechslungsreich.
+

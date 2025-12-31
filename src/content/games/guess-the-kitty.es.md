@@ -34,6 +34,8 @@ las rachas de aciertos hacen subir tu puntuación; las pistas consumen puntos.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Mouse`
 
 - Ratón o pantalla táctil para seleccionar respuestas; teclado para escribir
   cuando el modo lo requiera.
@@ -65,4 +67,5 @@ las rachas de aciertos hacen subir tu puntuación; las pistas consumen puntos.
 - **P: ¿El juego tiene modo práctica?**  
   **R:** Algunos portales incluyen rondas casuales sin límite de tiempo para
   practicar.
+
 

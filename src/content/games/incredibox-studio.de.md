@@ -36,6 +36,8 @@ und kannst daraus völlig eigene Kompositionen bauen.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `mouse` `Drag` `drop` `Drag` `Click` `Click`
 
 *   Das Spiel wird komplett mit der Maus gesteuert.
     *   **Sound hinzufügen:** Icon aus der unteren Leiste auf eine Figur ziehen.
@@ -55,4 +57,5 @@ Share-Link – in der Regel nur zur privaten, nicht-kommerziellen Nutzung.
 *   **F: Wo spiele ich den Mod?**
     *   **A:** Üblicherweise direkt im Browser, z. B. über verlinkte Seiten wie
 playfiddlebops.com.
+
 

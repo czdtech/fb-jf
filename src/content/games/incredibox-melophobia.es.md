@@ -73,6 +73,8 @@ sonidos dispares hasta lograr un todo sorprendentemente coherente.
 
 <!-- i18n:section:controls -->
 ### **Guía de controles**
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `drag` `drop` `Drag` `drop` `Click` `drag` `Click` `click` `Click` `Click`
 
 Los controles son los mismos que en Incredibox oficial.
 
@@ -107,4 +109,5 @@ Su atractivo reside en su apuesta sin complejos por lo surrealista y
 experimental. Lleva el diseño sonoro de Incredibox un paso más allá, ofreciendo
 una paleta bizarra, impredecible y muy creativa: ideal para quien quiera crear
 algo realmente distinto y poco convencional.
+
 

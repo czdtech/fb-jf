@@ -43,6 +43,8 @@ La stratégie dans *Incredibox Vibin'* consiste à superposer des textures et cr
 
 <!-- i18n:section:controls -->
 ### **Guide des commandes**
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `drag` `drop` `Drag` `drop` `Click` `drag` `Click` `click` `Click` `Click`
 
 Les commandes suivent l'interface intuitive de glisser‑déposer standard des jeux Incredibox officiels.
 
@@ -74,4 +76,5 @@ Sa popularité vient de son exécution parfaite du thème lo‑fi hip‑hop, un 
 **4. Les solutions des bonus pour « Vibin' » sont‑elles disponibles en ligne ?**
 
 Oui. Si tu as du mal à trouver les combinaisons pour les animations, une recherche rapide de « *Incredibox Vibin' combos* » sur YouTube te montrera les solutions.
+
 

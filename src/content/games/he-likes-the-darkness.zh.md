@@ -31,6 +31,8 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作说明
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `WASD` `Space`
 
 - 移动/跳跃：使用方向键或 WASD 配合空格键进行移动和跳跃；部分关卡/模式可能允许二段跳，具体以关卡提示为准。
 
@@ -48,3 +50,4 @@ releaseDate: 2025-10-18T00:00:00.000Z
 <!-- i18n:faq:id=faq:he-likes-the-darkness:any-trick-for-moving-saws-aa464e48 -->
 - Q: 遇到来回移动的锯片，有什么通用技巧？  
   A: 先在安全区数几个节奏拍，找到它往返的节奏点，然后每次都在同一拍起跳或通过，锁定一个“固定节奏”会比临时乱冲稳定得多。
+

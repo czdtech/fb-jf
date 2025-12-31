@@ -54,6 +54,8 @@ immer mehr, deutlich profitablere Restaurants zu eröffnen.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click` `Click`
 
 Das Spiel wird komplett per Klick oder Tap bedient.
 
@@ -85,3 +87,4 @@ Das Spiel wird komplett per Klick oder Tap bedient.
     *   **A:** Neue Restaurants erhöhen dein Gesamteinkommen massiv und bringen
         oft dauerhafte Boni für deine komplette Kette. Sie sind der wichtigste
         Fortschrittstreiber im Spiel.
+

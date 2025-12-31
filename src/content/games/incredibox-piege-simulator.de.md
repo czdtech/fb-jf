@@ -38,6 +38,8 @@ Das Spiel nutzt das charakteristische **rasterbasierte Interface** der Simulator
 
 <!-- i18n:section:controls -->
 ### **Steuerungsanleitung**
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `click` `Click`
 
 Dieser Mod nutzt das einfache, klickbasierte Interface der Simulator-Reihe.
 
@@ -65,3 +67,4 @@ Der „Simulator"-Stil ist eine kreative Entscheidung der Modding-Community. Sei
 **3. Wo kann ich diesen Mod spielen?**
 
 Du findest ihn nicht auf offiziellen Plattformen. Diese Mods werden typischerweise auf Gaming-Seiten wie **Newgrounds**, Modding-Communities wie **playfiddlebops.com** geteilt oder auf YouTube mit Links zum Spielen im Webbrowser präsentiert.
+

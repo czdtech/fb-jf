@@ -71,6 +71,8 @@ superponer sonidos enérgicos hasta conseguir un groove contagioso.
 
 <!-- i18n:section:controls -->
 ### **Guía de controles**
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `drag` `drop` `Drag` `drop` `Click` `drag` `Click` `click` `Click` `Click`
 
 Los controles siguen la interfaz estándar de Incredibox.
 
@@ -108,4 +110,5 @@ upbeat crean una experiencia sencilla y alegre centrada en sacarte una sonrisa.
 **4. ¿Hay soluciones de bonus para "Hijinks" online?**  
 Sí. Si te cuesta encontrar las combinaciones de animaciones, una búsqueda rápida
  de "Incredibox Hijinks combos" en YouTube suele mostrar todas las soluciones.
+
 

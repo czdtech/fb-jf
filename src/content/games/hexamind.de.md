@@ -54,6 +54,8 @@ Schlussfolgerungen über Fächerlinien und Ringe.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Tap`
 
 - Tippe/Klicke auf Felder, um Werte oder Farben zu setzen, wechsle in den
   **Notizmodus**, um Kandidaten zu markieren, und nutze Rückgängig/Wiederholen,
@@ -77,3 +79,4 @@ Schlussfolgerungen über Fächerlinien und Ringe.
   **A:** Sechs Nachbarn statt vier verstärken Ring- und Strahlenlogik und
   ermöglichen Schlussfolgerungen, die du in klassischen Quadraträtseln so nicht
   findest.
+

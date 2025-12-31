@@ -33,6 +33,8 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作说明
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Click` `left` `button` `tap`
 
 本作完全可以用一个按键完成所有操作：
 
@@ -52,3 +54,4 @@ releaseDate: 2025-10-17T00:00:00.000Z
 <!-- i18n:faq:id=faq:guns-n-bottles:q-how-do-i-aim-4547fcfc -->
 *   **Q: 我可以自己控制瞄准吗？**  
     *   **A:** 不能，瞄准完全由自动旋转的枪来决定，你唯一能做的就是掌握好出手时机，用节奏和预判来“驾驭”这把不断旋转的枪。
+

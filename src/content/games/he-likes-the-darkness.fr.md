@@ -42,6 +42,8 @@ He Likes The Darkness est un platformer minimaliste à fort contraste, où la p�
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `WASD` `Space`
 
 - **Déplacement / Saut** : touches fléchées ou WASD pour bouger, Espace pour sauter (certains niveaux permettent un double saut selon les règles du stage).
 
@@ -59,5 +61,6 @@ He Likes The Darkness est un platformer minimaliste à fort contraste, où la p�
 <!-- i18n:faq:id=faq:he-likes-the-darkness:any-trick-for-moving-saws-aa464e48 -->
 - **Q : Comment gérer les scies en mouvement ?**  
   R : Compte mentalement les battements pendant leurs allers‑retours et engage‑toi toujours sur la même phase du cycle. Cela stabilise ton timing et réduit les erreurs.
+
 
 

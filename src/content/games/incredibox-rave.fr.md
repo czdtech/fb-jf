@@ -44,6 +44,8 @@ La stratégie dans *Incredibox Rave* consiste à superposer les différents él�
 
 <!-- i18n:section:controls -->
 ### **Guide des commandes**
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `drag` `drop` `Drag` `drop` `Click` `drag` `Click` `click` `Click` `Click`
 
 Les commandes suivent l'interface intuitive de glisser‑déposer standard des jeux Incredibox officiels.
 
@@ -75,4 +77,5 @@ Son attrait principal est son thème de boîte de nuit immersif et haute énergi
 **4. Les solutions des bonus pour « Rave » sont‑elles disponibles en ligne ?**
 
 Oui. Si tu as du mal à trouver les combinaisons pour les animations, une recherche rapide de « *Incredibox Rave combos* » sur YouTube te fournira probablement les solutions.
+
 

@@ -25,6 +25,8 @@ Guess the Kittyは、写真やプロンプトから猫の品種や特徴を特�
 
 <!-- i18n:section:controls -->
 ### 操作方法
+<!-- i18n:controls:keys -->
+- キー（整合）： `Mouse`
 - マウス/タッチで回答を選択。テキスト入力が必要な場合はキーボードを使用します。
 
 <!-- i18n:section:tips -->
@@ -44,4 +46,5 @@ Guess the Kittyは、写真やプロンプトから猫の品種や特徴を特�
 <!-- i18n:faq:id=faq:guess-the-kitty:does-the-game-include-a-69b182f1 -->
 - **Q: 練習モードはありますか？**  
   A: 一部のホスト版には、タイマーなしのカジュアル/練習ラウンドが含まれています。
+
 

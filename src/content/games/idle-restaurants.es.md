@@ -53,6 +53,8 @@ más rentables locales.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click` `Click`
 
 Todo el juego se maneja haciendo clic o tocando botones.
 
@@ -84,4 +86,5 @@ Todo el juego se maneja haciendo clic o tocando botones.
     *   **R:** Cada nuevo local dispara tu potencial de ingresos y, a menudo,
         añade multiplicadores permanentes que también benefician a tus otros
         restaurantes. Es la vía principal para avanzar.
+
 

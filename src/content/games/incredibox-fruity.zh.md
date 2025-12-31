@@ -40,6 +40,8 @@ Incredibox Fruity 是一款经典的 2D 横向卷轴策略游戏，在 Flash 游
 
 <!-- i18n:section:controls -->
 ### 操作指南
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `mouse` `Click` `Click` `Click` `Click`
 
 游戏几乎完全用鼠标控制。
 
@@ -66,4 +68,5 @@ Incredibox Fruity 是一款经典的 2D 横向卷轴策略游戏，在 Flash 游
 <!-- i18n:faq:id=faq:incredibox-fruity:q-where-can-i-play-adcbe59e -->
 *   **问：Flash 消失后我在哪里可以玩 Incredibox Fruity？**
     *   **答：** 许多游戏网站如 CrazyGames、Armor Games 和 Kongregate 现在使用 Flash 模拟器（如 Ruffle）托管 Incredibox Fruity，使其可以在现代网络浏览器中完全游玩。iOS 和 Android 应用商店也有移动版本。
+
 

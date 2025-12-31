@@ -79,6 +79,8 @@ bonus.
 
 <!-- i18n:section:controls -->
 ### **Guía de controles**
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `mouse` `Drag` `drop` `Click` `Click` `Click` `Click` `Click`
 
 Los controles son idénticos a los de Incredibox oficial.
 
@@ -92,4 +94,5 @@ Los controles son idénticos a los de Incredibox oficial.
     silenciar al resto.
 *   **Grabar:** pulsa el **botón de grabación** para empezar o detener una
     grabación de tu mezcla.
+
 

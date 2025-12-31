@@ -54,6 +54,8 @@ als reines Button-Mashing.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Hold`
 
 - Halte die Taste (oder den Bildschirm) gedrückt, um den Ring zu drehen, und
   lasse los, um den Flip auszuführen.  
@@ -77,3 +79,4 @@ als reines Button-Mashing.
 - **F: Gibt es lokalen Multiplayer?**  
   **A:** Viele Versionen bieten 1‑gegen‑1 an einem Gerät, bei dem beide Spieler
   spiegelverkehrte Steuerungen nutzen.
+

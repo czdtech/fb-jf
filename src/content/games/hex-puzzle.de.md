@@ -53,6 +53,8 @@ Raumgefühl.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `drag` `drop` `mouse` `drag` `space`
 
 Das Spiel wird komplett per Drag-and-drop gesteuert.
 
@@ -80,3 +82,4 @@ Das Spiel wird komplett per Drag-and-drop gesteuert.
     *   **A:** Halte das Feld so frei wie möglich, vermeide isolierte Lücken und
         priorisiere Züge, die mehrere Linien gleichzeitig auflösen, um
         Combo-Punkte mitzunehmen.
+

@@ -46,6 +46,8 @@ ideas musicales.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `mouse` `Drag` `drop` `Drag` `Click` `Click`
 
 *   El juego se controla por completo con el ratón.
     *   **Añadir sonido**: Arrastra un icono desde el panel inferior y suéltalo
@@ -71,4 +73,5 @@ ideas musicales.
 *   **P: ¿Dónde puedo jugarlo?**
     *   **R**: Se puede jugar directamente en el navegador a través del enlace
         de playfiddlebops.com.
+
 

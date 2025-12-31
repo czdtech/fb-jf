@@ -31,6 +31,8 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作说明
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `click` `drag` `swipe` `Click` `hold` `drag` `mouse`
 
 本作采用非常直观的点击拖拽/滑动操作：
 
@@ -50,3 +52,4 @@ releaseDate: 2025-10-17T00:00:00.000Z
 <!-- i18n:faq:id=faq:hexa-dungeon:q-can-i-connect-tiles-f4174e27 -->
 *   **Q: 宝石可以斜着连接吗？**  
     *   **A:** 可以。由于棋盘由六边形构成，每个格子最多有六个相邻方向，只要是紧挨着的同色宝石，不论方向，都可以被纳入同一条连线。
+

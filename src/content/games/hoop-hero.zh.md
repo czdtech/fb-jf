@@ -31,6 +31,8 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作说明
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Click` `left` `button` `tap` `drop`
 
 本作采用单一输入：
 
@@ -50,3 +52,4 @@ releaseDate: 2025-10-17T00:00:00.000Z
 <!-- i18n:faq:id=faq:hoop-hero:q-is-there-any-way-629d32d0 -->
 *   **Q: 失误后可以续命或接着玩吗？**  
     *   **A:** 大多数这类超休闲游戏不提供续关，这一局失误就意味着重新开始，单局节奏很短，非常适合碎片化时间游玩。
+

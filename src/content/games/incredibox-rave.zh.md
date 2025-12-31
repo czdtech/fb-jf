@@ -41,6 +41,8 @@ releaseDate: 2025-10-10T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### **操作指南**
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `drag` `drop` `Drag` `drop` `Click` `drag` `Click` `click` `Click` `Click`
 
 操作遵循官方 Incredibox 游戏的标准、直观的拖放界面。
 
@@ -72,4 +74,5 @@ releaseDate: 2025-10-10T00:00:00.000Z
 **4. "Rave"的奖励解决方案在网上可以找到吗？**
 
 是的。如果你在寻找动画组合时遇到困难，在 YouTube 上快速搜索"*Incredibox Rave combos*"可能会为你提供解决方案。
+
 

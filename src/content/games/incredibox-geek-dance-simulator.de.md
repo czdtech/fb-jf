@@ -44,6 +44,8 @@ Während du mehr Sounds schichtest und mit Kombinationen experimentierst, füllt
 
 <!-- i18n:section:controls -->
 ### **Steuerungsanleitung**
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `click` `Click`
 
 Dieser Mod nutzt das einfache, klickbasierte Interface der Simulator-Reihe.
 
@@ -73,3 +75,4 @@ Das ist eine wichtige Unterscheidung: Die Incredibox-Modding-Community hat minde
 **3. Wo kann ich diesen Mod spielen?**
 
 Du findest ihn nicht auf offiziellen Plattformen. Diese Mods werden typischerweise auf Gaming-Seiten wie **playfiddlebops.com**, Modding-Communities wie **Scratch** geteilt oder auf YouTube mit Links zum Spielen im Webbrowser präsentiert.
+

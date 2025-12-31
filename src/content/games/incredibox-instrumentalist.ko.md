@@ -74,6 +74,8 @@ releaseDate: 2025-10-10T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### **조작 가이드**
+<!-- i18n:controls:keys -->
+- 키(정렬)： `Drag` `drop` `click` `Click`
 
 조작은 Incredibox 기본 방식과 비슷하지만, “악기를 소환한다”는 연출이
 더해져 있습니다.
@@ -111,3 +113,4 @@ releaseDate: 2025-10-10T00:00:00.000Z
 
 `Incredibox Instrumentalist combos` 같은 키워드로 유튜브를 검색하면,
 숨겨진 애니메이션을 여는 조합을 정리해 둔 영상을 쉽게 찾을 수 있습니다.
+

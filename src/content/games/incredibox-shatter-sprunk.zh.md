@@ -32,6 +32,8 @@ Incredibox Shatter Sprunk 是一款粉丝模组，将带你进入一个融合了
  
 <!-- i18n:section:controls -->
 ### 鼠标操作
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Mouse` `mouse` `Click` `Drag` `Click` `hold` `mouse` `drag` `click` `drag` `click` `click` `drag` `click` `click` `mouse`
  
 Incredibox Shatter Sprunk 的操作非常简单，你可以轻松用鼠标完成：
  
@@ -47,4 +49,5 @@ Incredibox Shatter Sprunk 的操作非常简单，你可以轻松用鼠标完成
  - **简单易用的操作：** 鼠标操作简单直观，让所有年龄和技能水平的玩家都能轻松上手。
  - **独特的 Sprunki 风格：** 结合了 Sprunki 的古怪创新风格，让你体验不一样的 Incredibox。
  - **探索乐趣：** 发现隐藏的动画和特效，让你的创作过程充满惊喜。
+
 

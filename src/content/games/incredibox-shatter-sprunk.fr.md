@@ -36,6 +36,8 @@ Le principe est très simple, tu peux te lancer en quelques étapes :
  
 <!-- i18n:section:controls -->
 ### Commandes à la souris :
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Mouse` `mouse` `Click` `Drag` `Click` `hold` `mouse` `drag` `click` `drag` `click` `click` `drag` `click` `click` `mouse`
  
 L'utilisation d'Incredibox Shatter Sprunk est très simple, tu peux tout faire facilement avec la souris :
  
@@ -51,3 +53,4 @@ L'utilisation d'Incredibox Shatter Sprunk est très simple, tu peux tout faire f
  - **Utilisation simple et facile :** L'opération à la souris est simple et intuitive, permettant aux joueurs de tous âges et niveaux de compétence de se lancer facilement.
  - **Style Sprunki unique :** Combine le style bizarre et innovant de Sprunki, te permettant de vivre un Incredibox différent.
  - **Plaisir de l'exploration :** Découvre des animations cachées et des effets spéciaux, rendant ton processus de création plein de surprises.
+

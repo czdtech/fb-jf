@@ -33,6 +33,8 @@ Hexa Dungeon est un puzzle‑RPG innovant qui combine mécaniques de match‑3 e
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `click` `drag` `swipe` `Click` `hold` `drag` `mouse`
 
 Le jeu se joue au clic et en glissé.
 
@@ -52,4 +54,5 @@ Le jeu se joue au clic et en glissé.
 <!-- i18n:faq:id=faq:hexa-dungeon:q-can-i-connect-tiles-f4174e27 -->
 *   **Q : Puis‑je relier des tuiles en diagonale ?**
     *   **R :** Oui. Comme le plateau est composé d'hexagones, tu peux relier les tuiles dans les six directions vers n'importe quelle tuile adjacente de même couleur.
+
 

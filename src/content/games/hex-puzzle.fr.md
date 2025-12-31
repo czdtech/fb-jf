@@ -33,6 +33,8 @@ Hex Puzzle revisite le genre des puzzles de blocs sur une grille hexagonale. Ton
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `drag` `drop` `mouse` `drag` `space`
 
 Le jeu se contrôle entièrement en glisser‑déposer.
 
@@ -52,4 +54,5 @@ Le jeu se contrôle entièrement en glisser‑déposer.
 <!-- i18n:faq:id=faq:hex-puzzle:q-what-is-the-best-4dc5a927 -->
 *   **Q : Comment obtenir un score élevé ?**
     *   **R :** Survis le plus longtemps possible en évitant que la grille ne se remplisse, et privilégie les placements qui effacent plusieurs lignes simultanément afin de profiter au maximum des combos.
+
 

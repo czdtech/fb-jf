@@ -46,6 +46,8 @@ equilibrar golpes fuertes con la preparación de futuras jugadas.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `click` `drag` `swipe` `Click` `hold` `drag` `mouse`
 
 El juego se maneja con un simple gesto de arrastrar.
 
@@ -70,4 +72,5 @@ El juego se maneja con un simple gesto de arrastrar.
 *   **P: ¿Puedo conectar fichas en diagonal?**
     *   **R:** Sí. Al ser un tablero de hexágonos, puedes conectar en seis direcciones
         diferentes hacia cualquier ficha idéntica y adyacente.
+
 

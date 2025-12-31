@@ -55,6 +55,8 @@ desbloquear minas nuevas y más rentables en distintos mundos.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `mouse` `Click` `Click`
 
 El juego se maneja por completo con clics de ratón o toques.
 
@@ -87,4 +89,5 @@ El juego se maneja por completo con clics de ratón o toques.
         en cuanto puedas pagarlas. Cada mejora aumenta tu ritmo de ingresos, lo
         que te permite acceder antes a la siguiente. Ese crecimiento exponencial
         es el corazón del género.
+
 

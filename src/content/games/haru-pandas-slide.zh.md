@@ -33,6 +33,8 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作说明
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Drag`
 
 - 拖动方块沿允许的方向滑动到空位；部分版本支持撤销和重置功能。
 
@@ -50,3 +52,4 @@ releaseDate: 2025-10-18T00:00:00.000Z
 <!-- i18n:faq:id=faq:haru-pandas-slide:is-there-a-timer-25fbcbdf -->
 - Q: 有没有时间限制？  
   A: 通常比较休闲，多数模式没有严苛的计时限制，而是记录步数或通关用时，适合慢慢思考。
+

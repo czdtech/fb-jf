@@ -26,6 +26,8 @@ Hide and Seek!（かくれんぼ！）は、遊び場の鬼ごっこを見下ろ
 
 <!-- i18n:section:controls -->
 ### 操作方法
+<!-- i18n:controls:keys -->
+- キー（整合）： `WASD`
 - **WASD/矢印キー**で移動。パワーアップ用のアクションキーはホストによって異なります。
 
 <!-- i18n:section:tips -->
@@ -45,4 +47,5 @@ Hide and Seek!（かくれんぼ！）は、遊び場の鬼ごっこを見下ろ
 <!-- i18n:faq:id=faq:hide-and-seek:do-powerups-respawn-during-a-d1c2e219 -->
 - **Q: 試合中にパワーアップはリスポーン（復活）しますか？**  
   A: 多くのモードではタイマーでアイテムが復活します。場所を覚えましょう。
+
 

@@ -40,6 +40,8 @@ releaseDate: 2025-10-10T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### **操作指南**
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `drag` `drop` `Drag` `drop` `Click` `drag` `Click` `click` `Click` `Click`
 
 操作遵循官方 Incredibox 游戏的标准、直观的拖放界面。
 
@@ -63,4 +65,5 @@ releaseDate: 2025-10-10T00:00:00.000Z
 <!-- i18n:faq:id=faq:incredibox-melophobia:what-makes-the-melophobia-mod-7ef46b11 -->
 **3. "Melophobia"Mod 有什么特别之处？**
 它的主要吸引力来自于对超现实和实验性的无畏拥抱。它突破了 Incredibox 声音设计的界限，提供了一个奇异、不可预测且最终非常有创意的调色板。对于想要创造真正独特和非传统作品的玩家来说，这是一个完美的 Mod。
+
 

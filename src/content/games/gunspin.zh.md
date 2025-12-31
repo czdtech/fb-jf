@@ -26,6 +26,8 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作说明
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Mouse` `Space`
 - 鼠标点击或按空格键进行射击；开火的时机和方向决定你的飞行轨迹。
 
 <!-- i18n:section:tips -->
@@ -47,3 +49,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:faq:id=faq:gunspin:is-there-an-end-to-5b0d22c9 -->
 - Q: 游戏有终点吗？  
   A: 关卡通常以飞行距离和个人纪录为核心目标，没有传统意义上的“终点”，更像是在不断刷新自己的最远飞行成绩。
+

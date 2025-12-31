@@ -43,6 +43,8 @@ constante y preparar bien el ángulo que pulsar a lo loco.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Hold`
 
 - Mantén pulsado para girar y suelta para lanzar; en algunas versiones hay dos
   botones separados para girar y lanzar.
@@ -62,4 +64,5 @@ constante y preparar bien el ángulo que pulsar a lo loco.
 <!-- i18n:faq:id=faq:hoop-stars:local-multiplayer-e67a3592 -->
 - Q: ¿Hay multijugador local?  
   A: En muchas versiones sí, con controles reflejados para cada jugador.
+
 

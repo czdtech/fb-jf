@@ -48,6 +48,8 @@ estrategia y planificación espacial.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `drag` `drop` `mouse` `drag` `space`
 
 El juego se controla con una interfaz simple de arrastrar y soltar.
 
@@ -71,4 +73,5 @@ El juego se controla con una interfaz simple de arrastrar y soltar.
     *   **R:** Aguanta el mayor tiempo posible evitando que el tablero se llene y da
         prioridad a las jugadas que limpian varias líneas de una sola vez para sumar
         puntos de combo.
+
 

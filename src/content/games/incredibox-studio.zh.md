@@ -31,6 +31,8 @@ Incredibox Studio 是一个粉丝制作的项目。与基于预定义声音集�
 
 <!-- i18n:section:controls -->
 ### 操作指南
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `mouse` `Drag` `drop` `Drag` `Click` `Click`
 
 *   游戏完全用鼠标控制。
     *   **添加声音**：从底部面板拖动一个图标并放到其中一个角色身上。
@@ -47,4 +49,5 @@ Incredibox Studio 是一个粉丝制作的项目。与基于预定义声音集�
 <!-- i18n:faq:id=faq:incredibox-studio:q-where-can-i-play-fe36000d -->
 *   **问：我在哪里可以玩？**
     *   **答**：可以通过提供的 playfiddlebops.com 链接直接在网络浏览器中游玩。
+
 

@@ -29,6 +29,8 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作说明
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Mouse` `click`
 
 - 使用鼠标点击直接攻击砖块，同时通过界面按钮购买弹球、升级参数以及解锁转生相关节点，一切操作都围绕 UI 完成。
 
@@ -53,3 +55,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:faq:id=faq:idle-breakout:does-the-game-progress-offline-f8c04faa -->
 - Q: 游戏关闭后还会继续刷资源吗？  
   A: 这取决于托管平台，有些版本会模拟离线收益，让你重新上线时一次性领取离线期间产生的收益，具体以实际版本提示为准。
+

@@ -67,6 +67,8 @@ releaseDate: 2025-10-10T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### **조작 가이드**
+<!-- i18n:controls:keys -->
+- 키(정렬)： `drag` `drop` `Drag` `drop` `Click` `drag` `Click` `click` `Click` `Click`
 
 조작은 공식 Incredibox와 같은 직관적인 드래그 앤 드롭 인터페이스를 사용합니다.
 
@@ -78,4 +80,5 @@ releaseDate: 2025-10-10T00:00:00.000Z
 - **솔로**: 활성화된 캐릭터 옆의 작은 버튼을 눌러, 그 캐릭터만 남기고
   나머지를 모두 뮤트할 수 있습니다.
 - **녹음**: 우측 상단의 녹음 버튼을 눌러 자신의 믹스를 녹음·저장할 수 있습니다.
+
 
