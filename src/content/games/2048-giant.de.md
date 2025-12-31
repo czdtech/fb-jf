@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: 2048-giant
-title: "2048 Giant"
+title: 2048 Giant
 description: >-
-  2048 Giant bringt das klassische 2048‑Puzzle auf ein größeres Spielfeld. Schiebe
-  Zahlenkacheln zusammen, bilde immer höhere Werte und plane voraus, damit das
-  Brett nicht überläuft.
+  2048 Giant bringt das klassische 2048‑Puzzle auf ein größeres Spielfeld.
+  Schiebe Zahlenkacheln zusammen, bilde immer höhere Werte und plane voraus,
+  damit das Brett nicht überläuft.
 iframeSrc: >-
   https://2048giant.h5games.usercontent.goog/v/4bea87e2-a9a9-4f4b-b1c8-8b777220c567/
 thumbnail: /new-images/thumbnails/2048-giant.jpg
@@ -28,6 +28,7 @@ zu erzeugen. Durch das größere Spielfeld ergeben sich neue Möglichkeiten – 
 auch mehr Raum für Fehler, sodass vorausschauende Planung noch wichtiger wird.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 Die Grundstrategien aus dem normalen 2048 gelten weiterhin, müssen aber an das

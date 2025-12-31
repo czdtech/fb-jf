@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: battleships-armada
-title: "Battleships Armada"
+title: Battleships Armada
 description: >-
   Battleships Armada ist eine digitale Umsetzung des klassischen
   Schiffe‑Versenken. Platziere deine Flotte klug auf dem Raster und finde mit
@@ -27,6 +27,7 @@ aufzuspüren und zu versenken. Wer zuerst alle gegnerischen Schiffe zerstört,
 gewinnt.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Walkthrough
 
 1.  **Schiffe klug platzieren:** Vermeide es, die gesamte Flotte am Rand zu

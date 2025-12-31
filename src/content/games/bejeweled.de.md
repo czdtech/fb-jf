@@ -1,17 +1,17 @@
 ---
 locale: de
 urlstr: bejeweled
-title: "Bejeweled - Play Bejeweled Online"
+title: Bejeweled - Play Bejeweled Online
 description: >-
-  Bejeweled ist ein legendäres Match‑3‑Puzzlespiel. Vertausche Edelsteine,
-  bilde Reihen, nutze Spezialsteine und jage Kettenreaktionen, um immer höhere
+  Bejeweled ist ein legendäres Match‑3‑Puzzlespiel. Vertausche Edelsteine, bilde
+  Reihen, nutze Spezialsteine und jage Kettenreaktionen, um immer höhere
   Punktzahlen zu erzielen.
 iframeSrc: 'https://files.acticdn.com/278374/30464/index.html'
 thumbnail: /new-images/thumbnails/bejeweled.png
 tags:
   - bejeweled
 score: 4.8/5  (654 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 
@@ -57,6 +57,7 @@ für hohe Punktzahlen entscheidend sind:
 - **Action/Blitz:** Zeitmodus (oft 60 Sekunden). Ziel ist es, in der knappen
   Zeit so viele Punkte wie möglich zu erzielen, oft mit Online‑Highscore.
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 - **Auf große Matches achten:** Suche gezielt nach Vierer‑ und Fünferreihen,

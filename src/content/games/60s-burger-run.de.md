@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: 60s-burger-run
-title: "60 Seconds Burger Run"
+title: 60 Seconds Burger Run
 description: >-
   60 Seconds Burger Run ist ein buntes Speed‑Run‑Plattformspiel, in dem du in
   nur 60 Sekunden zur schließenden Burger‑Bude rennen musst. Präge dir die
@@ -12,7 +12,7 @@ thumbnail: /new-images/thumbnails/60s-burger-run.jpg
 tags:
   - 60 seconds burger run
 score: 4.6/5  (1344 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 
@@ -45,6 +45,7 @@ wie möglich durch eine Reihe kniffliger Abschnitte lotsen.
 
 ---
 
+<!-- i18n:section:tips -->
 ### Strategie & Tipps
 
 -  **Strecken auswendig lernen:** Da der Timer nicht zwischen den Leveln

@@ -1,12 +1,12 @@
 ---
 locale: de
 urlstr: basket-random
-title: "Basket Random"
+title: Basket Random
 description: >-
-  Basket Random ist ein völlig verrücktes, physikbasiertes Basketballspiel.
-  Mit nur einer Taste springst und fuchtelst du dich durch chaotische
-  1‑gegen‑1‑Duelle, bei denen sich nach fast jedem Punkt Spielfeld,
-  Spieler und Ball verändern.
+  Basket Random ist ein völlig verrücktes, physikbasiertes Basketballspiel. Mit
+  nur einer Taste springst und fuchtelst du dich durch chaotische
+  1‑gegen‑1‑Duelle, bei denen sich nach fast jedem Punkt Spielfeld, Spieler und
+  Ball verändern.
 iframeSrc: >-
   https://app-197304.games.s3.yandex.net/197304/kj9rcykboy6eol5xnn250jesr7v0hoh1/index.html
 thumbnail: /new-images/thumbnails/basket-random.jpg
@@ -33,6 +33,7 @@ Sprung und Armfuchteln zu finden und den Ball irgendwie in den gegnerischen
 Korb zu bugsieren.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie
 
 In *Basket Random* geht es darum, das Chaos zu nutzen, nicht zu

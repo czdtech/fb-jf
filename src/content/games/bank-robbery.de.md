@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: bank-robbery
-title: "Bank Robbery"
+title: Bank Robbery
 description: >-
   Ein ausführlicher Guide zu Bank Robbery 2, einem teambasierten Ego‑Shooter
   rund um Banküberfälle. Lerne Strategien für Räuber und Cops, die Steuerung und
@@ -35,6 +35,7 @@ teilweise Fahrzeuge, um ihre Ziele zu erreichen und Geld für bessere Ausrüstun
 in zukünftigen Runden zu verdienen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie
 
 Der Spielstil hängt stark davon ab, auf welcher Seite du spielst.

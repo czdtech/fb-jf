@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: archery
-title: "Archery World Tour"
+title: Archery World Tour
 description: >-
   Schnapp dir Bogen und Pfeile und geh in Archery World Tour auf Weltreise.
   Berücksichtige Wind und Entfernung, triff ins Schwarze und werde
@@ -30,6 +30,7 @@ Windrichtung und die Entfernung zum Ziel einberechnen – genau wie beim
 Bogenschießen in der Realität.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Walkthrough
 
 1.  **Wind kompensieren:** Schaue dir vor jedem Schuss den Windanzeiger an. Er

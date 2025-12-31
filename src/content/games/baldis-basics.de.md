@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: baldis-basics
-title: "Baldi's Basics"
+title: Baldi's Basics
 description: >-
   Ein ausführlicher Guide zu Baldi's Basics, der absurden Schul‑Horror‑Parodie.
   Erfahre, wie du Notizbücher sammelst, Items sinnvoll einsetzt, Baldi und
@@ -33,6 +33,7 @@ einem ganzen Ensemble seltsamer Figuren aus und finde schließlich den Weg aus
 der Schule.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie
 
 Um in *Baldi's Basics* zu bestehen, brauchst du gutes Gehör, kluges

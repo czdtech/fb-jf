@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: aquaparkio
-title: "Aquapark io"
+title: Aquapark io
 description: >-
   Rase in aquapark.io zur Ziellinie! Lerne die besten Strategien, Tipps und
-  Steuerungen, um die Wasserrutsche zu meistern, Gegner von der Bahn zu
-  schubsen und mit gewagten Flugsprüngen Abkürzungen zu nehmen.
+  Steuerungen, um die Wasserrutsche zu meistern, Gegner von der Bahn zu schubsen
+  und mit gewagten Flugsprüngen Abkürzungen zu nehmen.
 iframeSrc: 'https://bitlifeonline.github.io/class23523/aquaparkio/'
 thumbnail: /new-images/thumbnails/aquaparkio.jpg
 tags:
@@ -34,6 +34,7 @@ Belohnungssystem mit Münzen, Skins und anderen Kosmetika bleibt das Spiel
 leicht zugänglich, aber sehr suchterzeugend.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Walkthrough
 
 Der Schlüssel zum Sieg sind gewagte Abkürzungen und gutes Risikomanagement.

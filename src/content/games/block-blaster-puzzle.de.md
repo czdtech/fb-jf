@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: block-blaster-puzzle
-title: "Block Blaster Puzzle"
+title: Block Blaster Puzzle
 description: >-
   Block Blaster Puzzle kombiniert Blocksetzen mit Linien‑Clears. Platziere
   Formen clever, bereite Mehrfach‑Clears vor und halte das Spielfeld möglichst
@@ -27,6 +27,7 @@ noch passen, Mehrfach‑Clears vorzubereiten und keine geschlossenen Hohlräume 
 bauen, die sich nicht mehr füllen lassen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Walkthrough
 
 1.  **Saubere Ränder:** Halte Kanten möglichst glatt, um einzelne, isolierte

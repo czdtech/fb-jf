@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: billiards-classic
-title: "Billiards Classic"
+title: Billiards Classic
 description: >-
-  Genieße klassisches 8‑Ball‑Pool im Browser. Ziele deine Stöße, setze Effet
-  ein und versenke zuerst deine Gruppe, bevor du die Schwarze spielst, um das
-  Match zu gewinnen.
+  Genieße klassisches 8‑Ball‑Pool im Browser. Ziele deine Stöße, setze Effet ein
+  und versenke zuerst deine Gruppe, bevor du die Schwarze spielst, um das Match
+  zu gewinnen.
 iframeSrc: 'https://billiardsclassic.h5games.usercontent.goog/v/27m4mvjv84l70/'
 thumbnail: /new-images/thumbnails/billiards-classic.png
 tags:
@@ -27,6 +27,7 @@ lochen. Realistische Physik und einfache Bedienung machen das Spiel zu einer
 entspannten, aber fordernden Billard‑Simulation.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Walkthrough
 
 1.  **Der Anstoß:** Triff beim Break die vordere Kugel möglichst voll, damit sich das Rack öffnet und vielleicht schon eine Kugel fällt.

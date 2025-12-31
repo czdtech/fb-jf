@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: basket-champ
-title: "Basket Champ"
+title: Basket Champ
 description: >-
   Basket Champ ist eine Ein‑Tasten‑Korbjagd. Stelle Bogen und Stärke deiner
   Würfe ein, triff saubere Swishes und halte deine Treffer‑Serie am Laufen.
@@ -26,6 +26,7 @@ Zeitfenster sorgen dafür, dass präzises Timing und Rhythmus wichtiger sind als
 komplexe Steuerung.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Walkthrough
 
 1.  **Über den Ring zielen:** Peile leicht über die Korbmitte, damit der Ball

@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: big-shark
-title: "Big Shark"
+title: Big Shark
 description: >-
   Ein Guide zum Action‑Survival‑Spiel Big Shark. Lerne, wie du frisst und
   wächst, Gefahren wie größere Haie und Minen meidest und im Ozean die höchste
@@ -30,6 +30,7 @@ Gleichzeitig lauern überall Gefahren: größere Haie, Minen und andere
 Hindernisse beenden deinen Lauf sofort.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie
 
 Erfolg in *Big Shark* ist ein Balanceakt zwischen Aggression und Vorsicht.

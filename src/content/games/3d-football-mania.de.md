@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: 3d-football-mania
-title: "3D Football Mania"
+title: 3D Football Mania
 description: >-
   3D Football Mania fasst Fußball‑Basics in kurze Szenen zusammen. Dribble an
-  Verteidigern vorbei, spiele rechtzeitig ab und platziere deine Abschlüsse,
-  um den Keeper in schnellen Challenges zu überwinden.
+  Verteidigern vorbei, spiele rechtzeitig ab und platziere deine Abschlüsse, um
+  den Keeper in schnellen Challenges zu überwinden.
 iframeSrc: 'https://0iadidf74ef9o.h5games.usercontent.goog/v/4cmv5jsv0n25g/'
 thumbnail: /new-images/thumbnails/3d-football-mania.png
 tags:
@@ -26,6 +26,7 @@ bezwingen. Die Szenen sind schnell, leicht wiederholbar und ideal, um
 Torschuss‑Timing zu üben.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Steilpässe in den Lauf:** Spiele den Ball lieber in den freien Raum vor

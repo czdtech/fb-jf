@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: blockdrop
-title: "BlockDrop"
+title: BlockDrop
 description: >-
   BlockDrop ist ein klassisches, entspanntes Blockpuzzle. Ziehe Formen auf ein
-  10×10‑Raster, fülle komplette Reihen und räume sie vom Brett – wie weit
-  kommst du, bevor der Platz ausgeht?
+  10×10‑Raster, fülle komplette Reihen und räume sie vom Brett – wie weit kommst
+  du, bevor der Platz ausgeht?
 iframeSrc: 'https://51vi4vae20f8o.h5games.usercontent.goog/v/66bqinuuh36b8/'
 thumbnail: /new-images/thumbnails/blockdrop.png
 tags:
@@ -28,6 +28,7 @@ neuen Platz. Es gibt keinen Timer – du verlierst erst, wenn keiner der aktuell
 angebotenen Blöcke mehr auf das Brett passt.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Alle drei Blöcke einplanen:** Du siehst immer drei Formen gleichzeitig.

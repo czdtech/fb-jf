@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: blockbuster-puzzle
-title: "Blockbuster Puzzle"
+title: Blockbuster Puzzle
 description: >-
   Blockbuster Puzzle ist ein befriedigendes Block‑Clear‑Spiel. Plane deine
-  Platzierungen, löse Kettenreaktionen aus und vermeide es, wichtige
-  Freiflächen zuzubauen.
+  Platzierungen, löse Kettenreaktionen aus und vermeide es, wichtige Freiflächen
+  zuzubauen.
 iframeSrc: 'https://177gd8gft04p0.h5games.usercontent.goog/v/0md288db3fuq8/'
 thumbnail: /new-images/thumbnails/blockbuster-puzzle.png
 tags:
@@ -26,6 +26,7 @@ auf einmal leeren, und dir immer einen Fluchtpuffer aufheben, falls eine
 ungünstige Teilekombination erscheint.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Zwei Bahnen frei halten:** Versuche, immer mindestens zwei flexible

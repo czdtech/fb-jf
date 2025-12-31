@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: block-champ
-title: "Block Champ"
+title: Block Champ
 description: >-
   Fordere deinen Grips in Block Champ heraus, einem 10×10‑Grid‑Puzzlespiel.
-  Platziere Formen, räume Reihen, nutze Blitz‑ und Eisblöcke geschickt und
-  jage deinen Highscore.
+  Platziere Formen, räume Reihen, nutze Blitz‑ und Eisblöcke geschickt und jage
+  deinen Highscore.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/block-champ/'
 thumbnail: /new-images/thumbnails/block-champ.jpg
 tags:
@@ -31,6 +31,7 @@ Besonders sind die Spezialblöcke:
 Um hohe Punktzahlen zu erzielen, brauchst du Vorausplanung und sehr sorgfältiges Flächenmanagement.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie
 
 -   **Optionen offen halten:** Vermeide Einzellöcher, die sich nur mit 1×1‑Blöcken schließen lassen, und halte das Raster so eben wie möglich.

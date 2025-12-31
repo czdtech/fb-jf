@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: bloons-td-6
-title: "Bloons TD 6"
+title: Bloons TD 6
 description: >-
-  Meistere Bloons TD 6 – mit 3D‑Grafik, Helden, drei Upgrade‑Pfaden pro Turm
-  und mächtigen Paragon‑Affen. Finde die perfekte Strategie, um jede Bloon‑Welle
-  zu stoppen.
+  Meistere Bloons TD 6 – mit 3D‑Grafik, Helden, drei Upgrade‑Pfaden pro Turm und
+  mächtigen Paragon‑Affen. Finde die perfekte Strategie, um jede Bloon‑Welle zu
+  stoppen.
 iframeSrc: 'https://html5.gamenora.com/Bloons%20TD%206/'
 thumbnail: /new-images/thumbnails/bloons-td-6.jpg
 tags:
@@ -32,6 +32,7 @@ Jeder Turm besitzt jetzt **drei** Upgrade‑Pfade. Du darfst einen Pfad bis Tier
 -   **Paragons:** Opfere alle drei Tier‑5‑Varianten eines Affentyps, um ein extrem starkes Paragon für Boss‑Events und Ultra‑Lategame zu erschaffen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 -   **Synergien entscheiden:** Die stärksten Setups bestehen aus Kombos. Ein Klassiker ist ein Super Monkey 2/0/3 neben einem **Alchemist 4/2/0 (Stronger Stimulant)**, der Schaden und Angriffstempo enorm steigert.

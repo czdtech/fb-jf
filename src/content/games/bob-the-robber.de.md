@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: bob-the-robber
-title: "Bob the Robber"
+title: Bob the Robber
 description: >-
   Werde zum Meisterdieb in Bob the Robber. Schleiche an Wachen vorbei, schalte
   Kameras aus, knacke Tresore und klaue die Beute in diesem fordernden
@@ -34,6 +34,7 @@ um unsichtbar zu bleiben. Nebenbei löst du kleine Rätsel, findest Codes und
 knackst Schlösser – immer mit dem Ziel, keinen Alarm auszulösen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie
 
 - **Geduld vor Hektik:** Renn nicht blind los. Die meisten Fehler passieren,

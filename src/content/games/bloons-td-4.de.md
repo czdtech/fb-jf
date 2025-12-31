@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: bloons-td-4
-title: "Bloons TD 4"
+title: Bloons TD 4
 description: >-
   Tauche in Bloons TD 4 ein – mit verzweigten Upgrade‑Pfaden, neuen Türmen und
   dem mächtigen BFB‑Blimp. Steigere deinen Rang, schalte Inhalte frei und baue
@@ -47,6 +47,7 @@ auf und schaltest neue Türme, Upgrades und Modi frei.
   lassen sich direkt auf der Strecke platzieren.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 -   **Upgrade‑Pfad bewusst wählen:** Da du nicht alles auf einem Turm maxen kannst, lege früh fest, welche Rolle er erfüllen soll – z. B. Bomb Tower als `MOAB Mauler` oder für Flächenschaden (`Bloon Impact`).

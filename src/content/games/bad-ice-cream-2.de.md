@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: bad-ice-cream-2
-title: "Bad Ice Cream 2"
+title: Bad Ice Cream 2
 description: >-
   Meistere die frostigen Labyrinthe von Bad Ice‑Cream 2. Lerne Strategien,
   Steuerung und Tipps, um alle Früchte zu sammeln und Gegner mit Eismauern zu
@@ -32,6 +32,7 @@ festen Mustern durch die Level; berührt dich einer, verlierst du ein Leben. Du
 kannst allein oder im lokalen Koop mit einem zweiten Spieler spielen, was das
 Chaos – und den Spaß – deutlich erhöht.
 
+<!-- i18n:section:how-to-play -->
 ### Strategie & Walkthrough
 
 Erfolg in *Bad Ice‑Cream 2* ist eine Mischung aus schnellen Reaktionen und
@@ -65,6 +66,7 @@ Fehlern. Baue kleine "Sicherheitsinseln" aus Eis, sammle die nahegelegenen
 Früchte und arbeite dich Schritt für Schritt vor, statt kopflos durch das
 Labyrinth zu rennen.
 
+<!-- i18n:section:tips -->
 #### 5. Koop‑Strategie (2‑Spieler‑Modus)
 
 *   **Aufteilen:** Am effektivsten ist es, wenn ihr euch die Karte teilt – eine Person links, die andere rechts.  

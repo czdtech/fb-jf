@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: alien-hominid
-title: "Alien Hominid"
+title: Alien Hominid
 description: >-
   Der ultimative Guide zum klassischen Run‑and‑Gun‑Shooter Alien Hominid. Hier
   findest du detaillierte Strategien, Steuerungstipps und Antworten auf häufige
@@ -34,6 +34,7 @@ Gameplay merkt man deutlich die Vorbilder *Contra* und *Metal Slug*: ein
 Treffer bedeutet meist den Tod, Gegnerwellen reißen kaum ab und Bosskämpfe
 verlangen präzise Eingaben und gutes Pattern‑Reading.
 
+<!-- i18n:section:how-to-play -->
 ### Strategie & Walkthrough
 
 Alien Hominid ist berüchtigt für seinen hohen Schwierigkeitsgrad. Erfolg hängt
@@ -65,6 +66,7 @@ ausgenutzten Bewegungs- und Aktionsset des Aliens ab.
 *   **Granaten sind deine besten Freunde:** Granaten verursachen starken
     Flächenschaden. Heb sie dir für große Gegnergruppen oder zähe Bosse auf.
 
+<!-- i18n:section:tips -->
 #### 3. Allgemeine Kampftipps
 
 *   **Geladene Schüsse:** Hältst du die Feuertaste gedrückt, lädt sich dein

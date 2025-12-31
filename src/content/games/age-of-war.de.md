@@ -1,12 +1,12 @@
 ---
 locale: de
 urlstr: age-of-war
-title: "Age of War"
+title: Age of War
 description: >-
   Age of War ist ein Klassiker unter den 2D‑Strategie‑Spielen. Entwickle deine
   Armee vom Steinzeit‑Stamm bis zur Zukunftsarmee weiter, setze Türme und
-  Spezialfähigkeiten geschickt ein und zerstöre die gegnerische Basis, bevor
-  sie deine vernichtet.
+  Spezialfähigkeiten geschickt ein und zerstöre die gegnerische Basis, bevor sie
+  deine vernichtet.
 iframeSrc: >-
   https://app-196716.games.s3.yandex.net/196716/h5h3xwa1kxsz7wcma59tvvmko0zorc80/index.html
 thumbnail: /new-images/thumbnails/age-of-war.jpg
@@ -30,6 +30,7 @@ Einheiten und Verteidigungstürme frei und stellt außerdem die Lebenspunkte
 (HP) deiner Basis vollständig wieder her. Ziel ist es, die Angriffe des Feindes
 zu überstehen und seine Basis zu zerstören.
 
+<!-- i18n:section:tips -->
 ### Strategie & Walkthrough
 
 Um Age of War zu meistern, brauchst du eine gute Balance aus Angriff,
@@ -76,6 +77,7 @@ Verteidigung und dem richtigen Evolutions‑Timing.
     Feindbasis zu starten.
 
 <!-- i18n:section:controls -->
+<!-- i18n:section:how-to-play -->
 ### Steuerung
 
 Gesteuert wird fast ausschließlich mit der Maus.

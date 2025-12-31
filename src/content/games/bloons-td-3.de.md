@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: bloons-td-3
-title: "Bloons TD 3"
+title: Bloons TD 3
 description: >-
-  Verteidige die Strecke in Bloons TD 3 gegen immer stärkere Bloon‑Wellen.
-  Nutze acht verschiedene Türme, den starken Monkey Beacon und bereite dich auf
-  den ersten MOAB‑Blimp der Reihe vor.
+  Verteidige die Strecke in Bloons TD 3 gegen immer stärkere Bloon‑Wellen. Nutze
+  acht verschiedene Türme, den starken Monkey Beacon und bereite dich auf den
+  ersten MOAB‑Blimp der Reihe vor.
 iframeSrc: 'https://1000freegames.github.io/swf/bloons-td-3.html'
 thumbnail: /new-images/thumbnails/bloons-td-3.jpg
 tags:
@@ -31,6 +31,7 @@ Der Titel bietet mehrere Strecken und drei Schwierigkeitsgrade (Easy, Medium, Ha
 -   **Beständige Immunitäten:** Lead‑ (scharf‑immun), Black‑ (explosions‑immun) und White‑Bloons (frost‑immun) bleiben zentrale Puzzle‑Elemente der Strategie.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 -   **Ausgewogener Start:** Beginne mit Dart Monkeys und Tack Shooters, hole dir schnell das Upgrade „Piercing Darts“ und setzte einen Boomerang Thrower in Kurven, damit seine Wurfbögen viele Bloons treffen.

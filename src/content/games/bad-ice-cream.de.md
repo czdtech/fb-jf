@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: bad-ice-cream
-title: "Bad Ice-Cream"
+title: Bad Ice-Cream
 description: >-
   Der komplette Guide zum ersten Bad Ice‑Cream. Lerne Strategien, Steuerung und
   Tipps, um alle Früchte zu sammeln und Gegner mit Eismauern auszutricksen.
@@ -30,6 +30,7 @@ Wege. Die Gegner bewegen sich in festen Mustern; berühren sie dich, verlierst d
  ein Leben. Ein Timer sorgt zusätzlich für Druck. Gespielt wird allein oder im
 zweispielerigen Koop auf derselben Tastatur – ein Markenzeichen der Serie.
 
+<!-- i18n:section:how-to-play -->
 ### Strategie & Walkthrough
 
 Um erfolgreich zu sein, brauchst du eine Mischung aus Planung und schnellen
@@ -55,6 +56,7 @@ Die Monster folgen festen Bewegungsmustern. Wenn du dir ihre Routen einprägst, 
 
 Der Timer erzeugt Druck, aber Hektik kostet am schnellsten Leben. Arbeite dich Abschnitt für Abschnitt vor, baue sichere Zonen, sammle die Früchte darin und ziehe dann weiter.
 
+<!-- i18n:section:tips -->
 #### 5. Koop‑Strategien
 
 *   **Aufteilen:** Eine Person übernimmt links, die andere rechts – so deckt ihr die Karte schneller ab.  

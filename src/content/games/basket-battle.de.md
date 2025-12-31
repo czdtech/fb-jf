@@ -1,11 +1,10 @@
 ---
 locale: de
 urlstr: basket-battle
-title: "Basket Battle"
+title: Basket Battle
 description: >-
-  Basket Battle ist ein physikbasiertes Basketball‑Duell. Ziele mit hohen
-  Bögen, sichere Rebounds und punkte in kurzen, intensiven Runden mehr als dein
-  Gegner.
+  Basket Battle ist ein physikbasiertes Basketball‑Duell. Ziele mit hohen Bögen,
+  sichere Rebounds und punkte in kurzen, intensiven Runden mehr als dein Gegner.
 iframeSrc: 'https://1e2ocejsf0rm8.h5games.usercontent.goog/v/093f1a2jf2p98/'
 thumbnail: /new-images/thumbnails/basket-battle.png
 tags:
@@ -26,6 +25,7 @@ Je nach Variante kannst du deine Figur bewegen, zum Rebound springen und den
 Gegner beim Nachsetzen ausboxen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Walkthrough
 
 1.  **Mit hohem Bogen werfen:** Würfe mit höherem Bogen fallen weicher in den

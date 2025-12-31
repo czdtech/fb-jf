@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: bolly-beat
-title: "Bolly Beat"
+title: Bolly Beat
 description: >-
   Bolly Beat ist ein Rhythmusspiel im Bollywood‑Stil. Tippe im Takt, halte
   Kombos am Laufen und meistere bunte Beats zu energiegeladenen Tracks.
@@ -25,6 +25,7 @@ halten. Gute Genauigkeit bringt höhere Scores und Sterne, lange Serien schalten
 Multiplikatoren und anspruchsvollere Muster frei.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Timing‑Fenster lernen:** Konzentriere dich darauf, so nah wie möglich auf

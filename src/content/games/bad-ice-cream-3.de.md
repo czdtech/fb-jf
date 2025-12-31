@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: bad-ice-cream-3
-title: "Bad Ice Cream 3"
+title: Bad Ice Cream 3
 description: >-
   Bad Ice‑Cream 3 führt die eisige Puzzle‑Action der Reihe fort. Sammle Früchte,
   nutze Eismauern geschickt und passe dich neuen, gefährlicheren Gegnern an.
@@ -32,6 +32,7 @@ können. Wie gehabt kannst du die Level allein oder im lokalen Koop mit einem
 Freund angehen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Walkthrough
 
 Um *Bad Ice‑Cream 3* zu meistern, musst du die bekannten Mechaniken perfekt

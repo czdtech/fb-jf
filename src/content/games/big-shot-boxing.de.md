@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: big-shot-boxing
-title: "Big Shot Boxing"
+title: Big Shot Boxing
 description: >-
   Werde in Big Shot Boxing zur Box‑Legende. Trainiere deinen Kämpfer, arbeite
   dich von Hinterhof‑Fights bis zu Weltmeisterschaften hoch und meistere die
@@ -32,6 +32,7 @@ perfektionieren – perfekte Voraussetzungen für eine lange, motivierende
 Karriere.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie
 
 - **Geduld & Deckung zuerst:** Dauerndes Schlag‑Spammen leert nur deine

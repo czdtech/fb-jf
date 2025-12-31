@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: ballistic
-title: "Ballistic game"
+title: Ballistic game
 description: >-
   Ein Guide zum physikbasierten Arcade‑Spiel Ballistic. Lerne, wie du präzise
   zielst, Extrabälle sammelst, Power‑ups einsetzt und hohe Punktzahlen
@@ -31,6 +31,7 @@ Trefferketten aus, sammelst unterwegs Extrabälle und Power‑ups und versuchst,
 mit jeder Runde möglichst viel Fläche zu räumen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie
 
 Um in *Ballistic* weit zu kommen und hohe Scores zu erzielen, zählt jede Kugel.

@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: basketball-master-2
-title: "Basketball Master 2"
+title: Basketball Master 2
 description: >-
   Zeig dein Wurftalent in Basketball Master 2. Ziele präzise, passe die
   Schusskraft an und triff den Korb – notfalls sogar durch Holz‑ und Eisblöcke
@@ -27,6 +27,7 @@ versenken. Je nach Level musst du über oder durch Holz‑ und Eisblöcke
 hindurchwerfen, Banden nutzen oder enge Winkel treffen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Walkthrough
 
 1.  **Zielen und Gefühl entwickeln:** Ziehe Linie und Kraft immer ähnlich auf,

@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: blocks-puzzle
-title: "Blocks Puzzle"
+title: Blocks Puzzle
 description: >-
   Blocks Puzzle ist ein klassisches, süchtig machendes Blockpuzzle. Deine
-  Aufgabe ist es, unterschiedlich geformte Blöcke in ein 10×10‑Raster zu
-  setzen, Linien zu füllen und Platz zu schaffen.
+  Aufgabe ist es, unterschiedlich geformte Blöcke in ein 10×10‑Raster zu setzen,
+  Linien zu füllen und Platz zu schaffen.
 iframeSrc: 'https://6ljls661l4lkg.h5games.usercontent.goog/v/1mil2011qbul0/'
 thumbnail: /new-images/thumbnails/blocks-puzzle.jpg
 tags:
@@ -28,6 +28,7 @@ geleert, bringt Punkte und schafft neuen Platz. Die Partie endet, sobald keiner
 Platz sparen und vorausschauend denken.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Züge vorausplanen:** Schau dir immer alle drei verfügbaren Blöcke an.

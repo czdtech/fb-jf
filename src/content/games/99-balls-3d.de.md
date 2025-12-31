@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: 99-balls-3d
-title: "99 Balls 3D"
+title: 99 Balls 3D
 description: >-
   99 Balls 3D ist ein moderner Mix aus Arcade‑Action und Physik‑Puzzle. Ziele
   geschickt, feuere eine Kugelsalve ab und zerbrich nummerierte Bälle, sammle
@@ -28,6 +28,7 @@ viele Treffer nötig sind, bis er verschwindet. Clevere Bank‑Schüsse und lang
 Abprallketten sind der Schlüssel, um das Feld rechtzeitig zu räumen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Bank‑Schuss meistern:** Schieße selten direkt auf einen einzelnen Ball.

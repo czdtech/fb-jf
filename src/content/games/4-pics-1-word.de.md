@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: 4-pics-1-word
-title: "4 Pics 1 Word"
+title: 4 Pics 1 Word
 description: >-
   In 4 Pics 1 Word musst du aus vier Bildern das eine gesuchte Wort ableiten.
   Analysiere die Motive, kombiniere die Hinweise und nutze die Buchstaben, um
@@ -59,6 +59,7 @@ Altersgruppen.
 
 ---
 
+<!-- i18n:section:tips -->
 ### Tipps & Strategien
 
 Auch wenn die Spielidee einfach ist, helfen dir ein paar Tricks beim

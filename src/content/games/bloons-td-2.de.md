@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: bloons-td-2
-title: "Bloons TD 2"
+title: Bloons TD 2
 description: >-
   Erlebe den Klassiker Bloons TD 2. Platziere und verbessere fünf verschiedene
   Affentürme, halte 50 Wellen von Bloons auf und lerne, wie du immunen schwarzen
@@ -39,6 +39,7 @@ Das Spiel läuft über 50 immer schwierigere Runden. Jeder zerplatzte Bloon brin
     -   **Rainbow‑Bloons:** sehr widerstandsfähig und spawnen zwei Zebra‑Bloons.  
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 -   **Ausgewogene Verteidigung:** Verlasse dich nie nur auf Bomben oder Eis – schwarze und weiße Bloons erfordern immer scharfen Schaden durch Dart Monkeys, Tack Shooter oder Super Monkeys.  

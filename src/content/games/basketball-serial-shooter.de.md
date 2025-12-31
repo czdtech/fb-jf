@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: basketball-serial-shooter
-title: "Basketball serial shooter"
+title: Basketball serial shooter
 description: >-
   Basketball serial shooter ist ein schneller Highscore‑Basketball‑Modus. Stelle
   präzise Bögen ein, halte deinen Wurfrhythmus und reihe Treffer unter Druck an
@@ -27,6 +27,7 @@ kommen. Ziel ist es, einen stabilen Wurfrhythmus zu finden und möglichst viele
 Treffer hintereinander zu landen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Walkthrough
 
 1.  **Wiederholbare Form entwickeln:** Suche dir eine angenehme Cursor‑Position

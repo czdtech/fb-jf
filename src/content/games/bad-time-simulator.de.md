@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: bad-time-simulator
-title: "Bad Time Simulator"
+title: Bad Time Simulator
 description: >-
   Ein ausführlicher Guide zu Bad Time Simulator, einem Fan‑Spiel, das den
   berüchtigten Sans‑Bosskampf aus Undertale nachbildet. Mit Einstieg,
@@ -33,6 +33,7 @@ ist bewusst gnadenlos schwer und richtet sich an Spieler*innen, die ein sehr
 präzises Reaktions‑ und Lernspiel suchen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie
 
 In Bad Time Simulator geht es weniger um Aggression als um Ausdauer und

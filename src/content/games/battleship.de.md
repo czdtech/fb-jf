@@ -1,9 +1,11 @@
 ---
 locale: de
 urlstr: battleship
-title: "Battleship"
-description: "Legendäres Schlachtschiff-Duell: Verstecke deine Flotte, lies die Trefferkarte des Gegners und versenke jeden Rumpf, bevor er deine Schiffe findet."
-iframeSrc: "https://cdn.gamesnacks.com/battleship2/gameCode/index.html"
+title: Battleship
+description: >-
+  Legendäres Schlachtschiff-Duell: Verstecke deine Flotte, lies die Trefferkarte
+  des Gegners und versenke jeden Rumpf, bevor er deine Schiffe findet.
+iframeSrc: 'https://cdn.gamesnacks.com/battleship2/gameCode/index.html'
 thumbnail: /new-images/thumbnails/battleship.jpg
 tags:
   - strategy
@@ -27,10 +29,12 @@ Vor dem Gefecht platzierst du deine Flotte – sie besteht in der Standardvarian
 
 Sind alle Schiffe positioniert, nennen die Spieler abwechselnd Koordinaten (z. B. „D5“). Der Gegner antwortet mit „Treffer“ oder „Wasser“, und du markierst das Ergebnis auf deinem Trefferbrett. Wird jedes Feld eines Schiffs getroffen, gilt es als versenkt.
 
+<!-- i18n:section:how-to-play -->
 ### Spielstrategie
 
 Erfolg verlangt clevere Platzierung und systematisches Ableiten.
 
+<!-- i18n:section:tips -->
 #### Platzierungsstrategie (Verteidigung)
 
 1.  **Offensichtliche Zonen meiden:** Ränder und Ecken werden früh bombardiert. Verteile deine Schiffe, um Muster zu durchbrechen.

@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: billiard-hustlers
-title: "Billiard Hustlers"
+title: Billiard Hustlers
 description: >-
   Billiard Hustlers bringt die Grundlagen des Pool auf den Bildschirm. Ziele
   präzise, kontrolliere die Weiße mit Effet und räume den Tisch mit kluger
@@ -27,6 +27,7 @@ Tische und leichtes Tuch belohnen saubere Dosierung und fein eingesetztes
 Effet.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Walkthrough
 
 1.  **Positionsspiel vor Augen haben:** Überlege vor jedem Stoß, wo die Weiße

@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: bloxorz
-title: "Bloxorz Magic"
+title: Bloxorz Magic
 description: >-
   Führe deinen rechteckigen Block durch knifflige 3D‑Level in Bloxorz. Navigiere
   über schmale Plattformen, nutze Schalter, teile den Block in zwei Teile und
@@ -44,6 +44,7 @@ Wichtige Elemente sind Spezialfelder und Schalter:
       zwei kleinere 1×1‑Würfel.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie
 
 - **Züge vorausdenken:** Bloxorz erfordert vorausschauendes Planen. Überlege

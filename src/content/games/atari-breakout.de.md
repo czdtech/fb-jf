@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: atari-breakout
-title: "Atari Breakout"
+title: Atari Breakout
 description: >-
   Lerne, wie du den Arcade‑Klassiker Atari Breakout meisterst. Entdecke
   Strategien, Steuerungen und Tipps, um jede Reihe zu zerschlagen und hohe
@@ -33,11 +33,13 @@ erreichen. Mit fortschreitendem Spiel wird der Ball in vielen Versionen immer
 schneller, sodass du schneller reagieren musst. Verfehlst du den Ball, verlierst
 du ein Leben – sind alle Leben aufgebraucht, ist das Spiel vorbei.
 
+<!-- i18n:section:how-to-play -->
 ### Strategie & Walkthrough
 
 Breakout wirkt simpel, doch mit einigen Strategien kannst du Levels deutlich
 schneller und mit mehr Punkten abschließen.
 
+<!-- i18n:section:tips -->
 #### 1. Die "Tunnel"‑Strategie
 
 Die berühmteste und effektivste Taktik ist es, an einer Bildschirmseite (ganz

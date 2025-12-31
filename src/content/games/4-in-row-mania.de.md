@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: 4-in-row-mania
-title: "4 In Row MANIA"
+title: 4 In Row MANIA
 description: >-
   4 In Row MANIA ist ein klassisches Vier‑gewinnt‑Duell. Lass deine Steine in
   die Spalten fallen, kontrolliere die Mitte und bring als Erste*r vier deiner
@@ -25,6 +25,7 @@ oder diagonale Reihe aus vier eigenen Steinen zu bilden, während du gleichzeiti
 die Pläne deiner Gegnerin oder deines Gegners durchkreuzt.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Mitte kontrollieren:** Die mittlere Spalte ermöglicht die meisten

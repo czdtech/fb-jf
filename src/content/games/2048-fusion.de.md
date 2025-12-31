@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: 2048-fusion
-title: "2048 Fusion"
+title: 2048 Fusion
 description: >-
   2048 Fusion ist eine moderne Variante des klassischen 2048‑Puzzles. Schiebe
   nummerierte Kacheln zusammen, verschmelze gleiche Zahlen zu höheren Werten und
@@ -28,6 +28,7 @@ kannst weiterspielen und versuchen, noch höhere Werte und Highscores zu
 erreichen. Voraussicht, Strategie und ein bisschen Glück sind dafür entscheidend.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Ecke als Anker:** Die bekannteste Strategie ist, sich eine Ecke auszusuchen

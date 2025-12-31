@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: basketball-legends
-title: "Basketball Legends"
+title: Basketball Legends
 description: >-
   Basketball Legends ist ein rasantes Arcade‑Basketballspiel im Comic‑Stil.
   Spiele 1‑gegen‑1 oder 2‑gegen‑2, setze Dunks, Blocks und Superschüsse ein und
@@ -31,6 +31,7 @@ steht dir ein unblockbarer Spezialwurf zur Verfügung, der dir in engen Spielen
 leicht die Führung bringen kann.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie
 
 Erfolg in *Basketball Legends* hängt vor allem von Bewegung, Timing und
@@ -63,6 +64,7 @@ dem klugen Einsatz deiner Spezialfähigkeiten ab.
 4.  **Dash zur Rückverfolgung:** Nutze den Dash auch defensiv, um schnell
     zurückzulaufen oder einen offenen Werfer noch rechtzeitig zuzustellen.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Das Spiel ist auf zwei Spieler an einer Tastatur ausgelegt.

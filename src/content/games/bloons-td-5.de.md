@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: bloons-td-5
-title: "Bloons TD 5"
+title: Bloons TD 5
 description: >-
   Meistere Bloons TD 5 mit seiner tiefen Strategie, vielen Türmen und starken
   Special Agents. Baue die ultimative Verteidigung, beschwöre den Temple of the
@@ -33,6 +33,7 @@ BTD5 erweitert das Universum unter anderem um:
 -   **Aktive Fähigkeiten:** Viele Tier‑4‑Upgrades gewähren mächtige, manuell auslösbare Skills (MOAB Assassin, Downdraft usw.).
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 -   **Wirtschaft zuerst:** Eine solide Economy entscheidet das Spiel. Baue so früh wie möglich **Banana Farms** und strebe 4/2 (`Banana Research Facility` + `More Bananas`) an – jede Runde landet dann eine Geldkiste auf dem Feld.

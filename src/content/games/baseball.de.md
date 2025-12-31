@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: baseball
-title: "Doodle Baseball"
+title: Doodle Baseball
 description: >-
   Ein Guide zu Doodle Baseball, dem charmanten Timing‑Sportspiel im Doodle‑Look.
   Erfahre, wie du spielst, Home Runs triffst, die Steuerung nutzt und häufige
@@ -33,6 +33,7 @@ Timing anpassen musst. Nach drei Strikes ist Schluss, und deine Punktzahl ist
 so hoch wie deine Offensivleistung.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie
 
 Auch wenn nur eine Taste benutzt wird, erfordert perfektes Schlagen volle

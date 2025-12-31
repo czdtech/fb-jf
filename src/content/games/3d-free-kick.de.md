@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: 3d-free-kick
-title: "3D Free Kick"
+title: 3D Free Kick
 description: >-
   In 3D Free Kick übst du Freistöße wie ein Profi: Ziele an der Mauer vorbei,
   gib dem Ball Effet und platziere stilvolle Treffer unhaltbar für den Keeper.
@@ -25,6 +25,7 @@ Levelvarianten mit variabler Mauergröße, Distanz, Keeper‑Reaktionen und Wind
 fordern deine Zielsicherheit und dein Gefühl für Ballkurven.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Ecken anvisieren:** Hohe oder sehr flache Ecken sind für Torhüter am
