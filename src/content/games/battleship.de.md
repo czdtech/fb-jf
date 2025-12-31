@@ -51,6 +51,8 @@ Erfolg verlangt clevere Platzierung und systematisches Ableiten.
 
 <!-- i18n:section:controls -->
 ### Steuerungsleitfaden
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `mouse` `Click` `mouse` `click` `right` `button` `Click`
 
 Digitale Versionen lassen sich komplett mit Maus oder Touch bedienen.
 
@@ -80,4 +82,5 @@ Trenne sie. Wenn jedes Schiff isoliert steht, muss der Gegner nach jedem Abschus
 <!-- i18n:faq:id=faq:battleship:is-the-game-just-pure-88a4cfc8 -->
 **4. Ist Battleship reines Glück?**  
 Die ersten Schüsse enthalten Zufall, aber strukturierte Suchmuster und logisches Kombinieren geben dir langfristig einen klaren Vorteil gegenüber blindem Raten.
+
 

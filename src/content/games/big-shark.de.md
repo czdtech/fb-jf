@@ -60,6 +60,8 @@ Erfolg in *Big Shark* ist ein Balanceakt zwischen Aggression und Vorsicht.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `mouse` `mouse` `Press` `Left` `Button`
 
 Die Bedienung ist bewusst simpel gehalten und funktioniert fast überall gleich.
 
@@ -93,4 +95,5 @@ Die Bedienung ist bewusst simpel gehalten und funktioniert fast überall gleich.
 **F: Kann ich Schwimmer fressen?**
 
 **A:** Ja, sobald du groß genug bist. Sie zählen meist als besonders wertvolle Beute mit vielen Punkten.
+
 

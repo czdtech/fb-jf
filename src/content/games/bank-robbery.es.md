@@ -87,7 +87,7 @@ La forma de jugar cambia bastante según el bando.
 <!-- i18n:section:controls -->
 ### Guía de controles
 <!-- i18n:controls:keys -->
-- Teclas (alineación)： `W` `A` `S` `D` `Left Mouse Button` `Right Mouse Button` `R` `Left-Shift` `Spacebar` `E` `F` `1` `2` `3` `C`
+- Teclas (alineación)： `W` `A` `S` `D` `Mouse` `Left` `Button` `Right` `Button` `R` `Left-Shift` `Spacebar` `E` `F` `enter` `1` `2` `3` `C`
 
 Los controles siguen el estándar de juegos de disparos en primera persona (p.ej. estilo
 Roblox en PC).
@@ -135,3 +135,4 @@ principal.
 **5. ¿Puedo cambiar de equipo a mitad de partida?**  
 En la mayoría de versiones eliges bando antes de empezar la ronda y te quedas en
 él hasta la siguiente, para mantener el equilibrio.
+

@@ -74,7 +74,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:section:controls -->
 ### 조작 방법
 <!-- i18n:controls:keys -->
-- 키(정렬)： `W` `A` `S` `D` `Left Mouse Button` `Right Mouse Button` `R` `Left-Shift` `Spacebar` `E` `F` `1` `2` `3` `C`
+- 키(정렬)： `W` `A` `S` `D` `Mouse` `Left` `Button` `Right` `Button` `R` `Left-Shift` `Spacebar` `E` `F` `enter` `1` `2` `3` `C`
 
 플랫폼(예: Roblox PC 기준)에 따라 다르지만 일반적인 FPS 조작은 다음과
 비슷합니다.
@@ -118,4 +118,5 @@ releaseDate: 2025-08-16T00:00:00.000Z
 **5. 라운드 중간에 팀을 바꿀 수 있나요?**  
 보통은 라운드 시작 전에 팀이 정해지며, 한 판이 끝날 때까지 중간에 팀을
 바꿀 수 없습니다. 이는 게임 밸런스를 유지하기 위한 제한입니다.
+
 

@@ -66,24 +66,26 @@ dem klugen Einsatz deiner Spezialfähigkeiten ab.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `A` `D` `tap` `A` `D` `B` `S` `W` `V` `Left` `Right Arrow` `tap` `Left` `Right Arrow` `L` `Down Arrow` `Up Arrow` `K`
 
 Das Spiel ist auf zwei Spieler an einer Tastatur ausgelegt.
 
 #### Spieler 1
-*   Bewegung: `A` / `D`
-*   Dash: `A` oder `D` doppelt tippen
-*   Wurf/Dunk: `B`
-*   Pump/Steal: `S`
-*   Sprung: `W`
-*   Super‑Shot: `V`
+*   Bewegung: A / D
+*   Dash: A oder D doppelt tippen
+*   Wurf/Dunk: B
+*   Pump/Steal: S
+*   Sprung: W
+*   Super‑Shot: V
 
 #### Spieler 2
-*   Bewegung: Pfeiltasten `←` / `→`
-*   Dash: `←` oder `→` doppelt tippen
-*   Wurf/Dunk: `L`
+*   Bewegung: Pfeiltasten ← / →
+*   Dash: ← oder → doppelt tippen
+*   Wurf/Dunk: L
 *   Pump/Steal: Pfeil nach unten
 *   Sprung: Pfeil nach oben
-*   Super‑Shot: `K`
+*   Super‑Shot: K
 
 <!-- i18n:section:faq -->
 ### Häufige Fragen (FAQ)
@@ -107,3 +109,4 @@ Nur geringfügig; die meisten Unterschiede sind kosmetisch. Du kannst also deine
 <!-- i18n:faq:id=faq:basketball-legends:can-i-pass-the-ball-eea2c74f -->
 **5. Kann ich im 2‑gegen‑2 passen?**  
 Ja. Wenn dein Mitspieler frei ist, fungiert die Wurf‑Taste (`B` oder `L`) als Pass, solange du selbst den Ball hältst.
+

@@ -59,7 +59,7 @@ Le chronomètre te met la pression, mais te précipiter sans regarder est la mei
 <!-- i18n:section:controls -->
 ### Commandes
 <!-- i18n:controls:keys -->
-- Touches (alignement)： `↑` `↓` `←` `→` `Spacebar` `W` `A` `S` `D` `F`
+- Touches (alignement)： `Arrow Keys` `↑` `↓` `←` `→` `Spacebar` `W` `A` `S` `D` `F`
 
 Le jeu est conçu pour être joué facilement par deux personnes sur un même clavier.
 
@@ -88,4 +88,5 @@ Le jeu est conçu pour être joué facilement par deux personnes sur un même cl
 <!-- i18n:faq:id=faq:bad-ice-cream:q-how-does-the-2player-8a760ff7 -->
 *   **Q : Comment fonctionne le mode 2 joueurs ?**
     *   **R :** Vous partagez le même écran et, en général, le même stock de vies. Si l’un des deux se fait toucher, c’est toute l’équipe qui perd une vie.
+
 

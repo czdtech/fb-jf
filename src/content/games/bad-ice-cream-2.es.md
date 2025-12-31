@@ -57,7 +57,7 @@ Hay un temporizador, así que no puedes ir demasiado despacio, pero precipitarte
 <!-- i18n:section:controls -->
 ### Guía de controles
 <!-- i18n:controls:keys -->
-- Teclas (alineación)： `↑` `↓` `←` `→` `Spacebar` `W` `A` `S` `D` `F`
+- Teclas (alineación)： `Arrow Keys` `↑` `↓` `←` `→` `Spacebar` `W` `A` `S` `D` `F`
 
 El juego se controla con un teclado compartido, tanto en modo 1 jugador como en cooperativo.
 
@@ -86,4 +86,5 @@ El juego se controla con un teclado compartido, tanto en modo 1 jugador como en 
 <!-- i18n:faq:id=faq:bad-ice-cream-2:q-how-does-the-2player-8a760ff7 -->
 *   **P: En 2 jugadores, ¿tenemos vidas separadas?**
     *   **R:** Normalmente compartís un mismo contador de vidas. Si cualquiera de los dos es alcanzado, se resta una vida del total, así que colaborad para protegerse mutuamente.
+
 

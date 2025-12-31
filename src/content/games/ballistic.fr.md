@@ -37,6 +37,8 @@ Pour progresser longtemps, anticipe plusieurs tirs à l’avance et exploite au 
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Mouse` `Click` `hold` `left` `button` `Drag` `mouse` `mouse` `Tap` `hold` `Drag`
 
 Le jeu se maîtrise facilement, que ce soit à la souris ou au tactile.
 
@@ -67,4 +69,5 @@ Non. La disposition des blocs, des valeurs et des bonus change à chaque nouvell
 <!-- i18n:faq:id=faq:ballistic:what-is-the-best-strategy-0308231c -->
 **5. Quelle est la meilleure stratégie pour un gros score ?**  
 Survis le plus longtemps possible : nettoie les blocs bas, augmente constamment ton nombre de balles et utilise les tirs en angle pour créer de longues réactions en chaîne.
+
 

@@ -52,7 +52,7 @@ Réussir ce combat demande avant tout de l’endurance et une excellente mémori
 <!-- i18n:section:controls -->
 ### Commandes
 <!-- i18n:controls:keys -->
-- Touches (alignement)： `↑` `↓` `←` `→` `Z` `Enter` `[FIGHT]` `X` `Shift` `Up Arrow`
+- Touches (alignement)： `Arrow Keys` `↑` `↓` `←` `→` `Z` `Enter` `[FIGHT]` `X` `Shift` `Up Arrow`
 
 Les commandes restent très proches de la version navigateur : tout se joue au clavier.
 
@@ -84,4 +84,5 @@ En mode âme bleue (gravité activée), la **flèche ↑** sert à sauter pour �
 <!-- i18n:faq:id=faq:bad-time-simulator:what-is-the-difference-between-aa2c7edf -->
 **Q : Quelles sont les différences avec le combat original d’Undertale ?**  
 **R :** Selon la version du simulateur, il peut y avoir de légères différences visuelles ou de rythme, mais l’ordre, le style d’attaque et la difficulté générale restent très proches du combat original.
+
 

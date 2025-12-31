@@ -60,6 +60,8 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作指南
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `mouse` `Click` `mouse` `click` `right` `button` `Click`
 
 在数字版 *Battleship* 中，操作通常非常直观，以鼠标点击为主。
 
@@ -89,4 +91,5 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:faq:id=faq:battleship:is-the-game-just-pure-88a4cfc8 -->
 **4. 这游戏是不是全靠运气？**  
 并不是。虽然前几轮搜索多少带有随机性，但中后期完全是比谁更会推理和规划搜索路径。习惯有条理地标记信息、使用合理的搜索模式的玩家，会稳定击败那些完全凭运气乱猜的对手。
+
 

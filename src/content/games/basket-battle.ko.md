@@ -40,6 +40,8 @@ Basket Battle은 짧고 빠른 라운드로 진행되는 물리 기반 농구 �
 
 <!-- i18n:section:controls -->
 ### 조작 방법
+<!-- i18n:controls:keys -->
+- 키(정렬)： `Drag`
 
 - 조준/파워: 마우스나 터치로 드래그해 각도와 힘을 정한 뒤 손을 떼면 슛이
   나갑니다.
@@ -62,4 +64,5 @@ Basket Battle은 짧고 빠른 라운드로 진행되는 물리 기반 농구 �
 <!-- i18n:faq:id=faq:basket-battle:multiplayer-fc9199ff -->
 - **멀티플레이가 되나요?**  
   많은 버전이 한 기기에서 번갈아 플레이하는 2인용 로컬 대전을 지원합니다.
+
 

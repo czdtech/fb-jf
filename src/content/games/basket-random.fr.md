@@ -50,7 +50,7 @@ Gagner consiste moins à contrôler parfaitement tes joueurs qu’à apprivoiser
 <!-- i18n:section:controls -->
 ### Commandes
 <!-- i18n:controls:keys -->
-- Touches (alignement)： `W` `Up Arrow` `Up Arrow` `W`
+- Touches (alignement)： `W` `Up Arrow` `Up Arrow` `W` `Tap`
 
 Le jeu est célèbre pour sa prise en main à un seul bouton adaptée aussi bien aux claviers qu’aux écrans tactiles.
 
@@ -83,4 +83,5 @@ Oui, un mode contre l’IA existe, mais le jeu est plus fun en duel local sur le
 <!-- i18n:faq:id=faq:basket-random:what-is-the-best-random-b388b359 -->
 **5. Quel est le “random” le plus avantageux ?**  
 Il n’y en a pas vraiment : bras géants = contres faciles, faible gravité = dunks improbables. Teste chaque variation pour trouver celle qui correspond à ton style.
+
 

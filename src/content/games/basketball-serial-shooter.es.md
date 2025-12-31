@@ -53,6 +53,8 @@ altura de la canasta que exigen una mecánica cada vez más pulida.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Drag` `hold` `Tap`
 
 - **Apuntar y potencia:** Arrastra para fijar ángulo y fuerza y suelta para
   lanzar. En algunas variantes, la potencia se carga en una barra al mantener
@@ -91,4 +93,5 @@ altura de la canasta que exigen una mecánica cada vez más pulida.
 - **P: ¿Merece la pena ir a por monedas o tiros especiales?**  
   **R:** Solo si su trayectoria coincide con tu arco habitual; de lo contrario,
   perderás más tiempo y racha de lo que ganarás en puntos.
+
 

@@ -46,6 +46,8 @@ gefährden.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `WASD` `Arrows`
 
 - **Bewegung:** Steuere dein Fahrzeug mit WASD oder den Pfeiltasten über die
   Karte.
@@ -72,3 +74,4 @@ gefährden.
 - **Wie besiege ich Bosse?**  
   Lerne ihre Angriffsphasen, weiche klar angekündigten Attacken aus und räume
   zwischendurch zusätzliche Gegner weg, bevor du wieder auf den Boss gehst.
+

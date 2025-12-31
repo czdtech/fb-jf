@@ -55,7 +55,7 @@ locale: ja
 <!-- i18n:section:controls -->
 ### 操作ガイド
 <!-- i18n:controls:keys -->
-- キー（整合）： `W` `A` `S` `D` `Left Mouse Button` `Right Mouse Button` `R` `Left-Shift` `Spacebar` `E` `F` `1` `2` `3` `C`
+- キー（整合）： `W` `A` `S` `D` `Mouse` `Left` `Button` `Right` `Button` `R` `Left-Shift` `Spacebar` `E` `F` `enter` `1` `2` `3` `C`
 
 PC（Roblox等のプラットフォーム）における標準的なFPS操作です。
 
@@ -97,4 +97,5 @@ PC（Roblox等のプラットフォーム）における標準的なFPS操作で
 **5. 試合の途中でチーム変更はできますか？**
 
 ほとんどのサーバーではラウンド前に陣営が固定され、試合中は変更できません。次のゲーム開始時に改めてチームが割り当てられます。
+
 

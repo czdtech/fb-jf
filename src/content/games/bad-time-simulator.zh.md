@@ -63,7 +63,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:section:controls -->
 ### 操作指南
 <!-- i18n:controls:keys -->
-- 按键（对齐）： `↑` `↓` `←` `→` `Z` `Enter` `[FIGHT]` `X` `Shift` `Up Arrow`
+- 按键（对齐）： `Arrow Keys` `↑` `↓` `←` `→` `Z` `Enter` `[FIGHT]` `X` `Shift` `Up Arrow`
 
 Bad Time Simulator 的操作比较简单，主要是键盘：
 
@@ -95,3 +95,4 @@ KR 是一种持续性伤害效果。被攻击命中后，你不会只掉一块�
 <!-- i18n:faq:id=faq:bad-time-simulator:what-is-the-difference-between-aa2c7edf -->
 **5. 模拟器和原作战斗有什么差别？**  
 大多数 Bad Time Simulator 版本都尽可能忠实于原作：攻击模式、节奏、KR 机制等都会保持一致。不同版本之间可能存在轻微差异，但整体体验目标是“和原作几乎一样”。
+

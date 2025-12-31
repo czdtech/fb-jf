@@ -36,6 +36,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Mouse` `Click` `hold` `left` `button` `Drag` `mouse` `mouse` `Tap` `hold` `Drag`
 
 *Ballistic* の操作は非常にシンプルで直感的です。
 
@@ -73,4 +75,5 @@ locale: ja
 **5. ハイスコアを出すコツは？**
 
 最優先は「生存時間の確保」と「追加ボールの確保」です。縦穴を使ってチェーンリアクションを狙い、危険列を抑え込みながらボールの弾幕を増やしていけば、自然とスコアも伸び続けます。
+
 

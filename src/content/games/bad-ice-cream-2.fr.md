@@ -58,7 +58,7 @@ Tu es limité par le temps, mais te précipiter dans un couloir sans regarder es
 <!-- i18n:section:controls -->
 ### Commandes
 <!-- i18n:controls:keys -->
-- Touches (alignement)： `↑` `↓` `←` `→` `Spacebar` `W` `A` `S` `D` `F`
+- Touches (alignement)： `Arrow Keys` `↑` `↓` `←` `→` `Spacebar` `W` `A` `S` `D` `F`
 
 Le jeu est pensé pour être joué facilement à deux sur le même clavier.
 
@@ -87,4 +87,5 @@ Le jeu est pensé pour être joué facilement à deux sur le même clavier.
 <!-- i18n:faq:id=faq:bad-ice-cream-2:q-how-does-the-2player-8a760ff7 -->
 *   **Q : Les vies sont‑elles partagées en coop ?**
     *   **R :** En général, les joueurs partagent un pool de vies commun. Si l’un des deux se fait toucher, une vie est retirée pour l’équipe entière.
+
 

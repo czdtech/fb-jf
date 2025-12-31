@@ -49,6 +49,8 @@ ligeros recompensan una potencia precisa y un uso sutil del efecto.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Drag` `mouse`
 
 - **Apuntar:** Arrastra para alinear el taco; ajusta con movimientos finos del
   ratón.
@@ -88,4 +90,5 @@ ligeros recompensan una potencia precisa y un uso sutil del efecto.
   **R:** En 8‑ball priorizas resolver bolas problemáticas y preparar el cierre de
   partida, mientras que en 9‑ball sigues el orden numérico, centrándote en las
   líneas de blanca entre bolas consecutivas.
+
 

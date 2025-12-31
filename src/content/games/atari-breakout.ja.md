@@ -47,7 +47,7 @@ locale: ja
 <!-- i18n:section:controls -->
 ### 操作ガイド
 <!-- i18n:controls:keys -->
-- キー（整合）： `←` `→`
+- キー（整合）： `mouse` `Left` `Right` `Arrow Keys` `←` `→` `Spacebar` `left` `click`
 
 *Breakout* の操作は有名なくらいシンプルです。
 
@@ -74,4 +74,5 @@ locale: ja
 <!-- i18n:faq:id=faq:atari-breakout:q-where-can-i-play-d7aa3e3b -->
 *   **Q: 今でも Atari Breakout は遊べますか？**
     *   **A:** 多くのクラシックゲームサイトでWeb版をプレイできます。以前はGoogle画像検索で「Atari Breakout」と検索すると隠しゲームが遊べましたが、現在は仕様が変わっている場合があります。
+
 

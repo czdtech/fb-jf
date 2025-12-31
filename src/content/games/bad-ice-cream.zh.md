@@ -71,7 +71,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:section:controls -->
 ### 操作指南
 <!-- i18n:controls:keys -->
-- 按键（对齐）： `↑` `↓` `←` `→` `Spacebar` `W` `A` `S` `D` `F`
+- 按键（对齐）： `Arrow Keys` `↑` `↓` `←` `→` `Spacebar` `W` `A` `S` `D` `F`
 
 本作专为双人同键盘而设计：
 
@@ -97,3 +97,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:faq:id=faq:bad-ice-cream:q-how-does-the-2player-8a760ff7 -->
 *   **问：双人模式是怎么玩的？**
     *   答：** 两名玩家在同一屏幕、共享生命，一起收集水果。任意一人被怪物碰到，都会从共享生命池中扣除一条生命，因此更需要互相照应与沟通。
+

@@ -68,7 +68,7 @@ Mustererkennung.
 <!-- i18n:section:controls -->
 ### Steuerung
 <!-- i18n:controls:keys -->
-- Tasten (Abgleich)： `↑` `↓` `←` `→` `Z` `Enter` `[FIGHT]` `X` `Shift` `Up Arrow`
+- Tasten (Abgleich)： `Arrow Keys` `↑` `↓` `←` `→` `Z` `Enter` `[FIGHT]` `X` `Shift` `Up Arrow`
 
 Die Steuerung orientiert sich an der PC‑Version von *Undertale*.
 
@@ -110,3 +110,4 @@ Die Steuerung orientiert sich an der PC‑Version von *Undertale*.
   **A:** Je nach Simulator‑Version gibt es kleine Abweichungen, aber
   Angriffsmuster, Mechaniken und Schwierigkeitsgrad orientieren sich sehr nah
   am Original.
+

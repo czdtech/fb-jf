@@ -76,7 +76,7 @@ interior, rompe una salida y pasa a construir tu siguiente refugio.
 <!-- i18n:section:controls -->
 ### Guía de controles
 <!-- i18n:controls:keys -->
-- Teclas (alineación)： `↑` `↓` `←` `→` `Spacebar` `W` `A` `S` `D` `F`
+- Teclas (alineación)： `Arrow Keys` `↑` `↓` `←` `→` `Spacebar` `W` `A` `S` `D` `F`
 
 El juego está pensado para que dos personas puedan jugar cómodamente en el mismo
 teclado.
@@ -107,4 +107,5 @@ teclado.
 <!-- i18n:faq:id=faq:bad-ice-cream:q-how-does-the-2player-8a760ff7 -->
 *   **P: ¿Cómo funciona el modo de 2 jugadores?**
     *   **R:** Los dos compartís pantalla y trabajáis juntos para recoger la fruta. Normalmente compartís un mismo contador de vidas, así que si cualquiera es tocado por un enemigo, el equipo pierde una vida.
+
 

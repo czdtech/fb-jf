@@ -52,6 +52,8 @@ Effet.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Drag` `mouse`
 
 - **Zielen:** Mit der Maus oder dem Finger die Stoßrichtung ausrichten;
   Feinanpassungen über kleine Bewegungen.
@@ -95,3 +97,4 @@ Effet.
   Problemkugeln und einer klaren Endroute auf die 8; in 9‑Ball folgst du
   natürlicher der Zahlenreihenfolge und arbeitest hauptsächlich an sauberen
   Wegen von Zahl zu Zahl.
+

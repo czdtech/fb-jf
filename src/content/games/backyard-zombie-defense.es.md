@@ -42,6 +42,8 @@ para seguir el ritmo de unas oleadas cada vez más fuertes.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Place` `Upgrade` `Sell`
 
 - **Colocar/Mejorar/Vender:** Usa la interfaz para seleccionar torretas, ubicarlas
   en el mapa, subirlas de nivel o venderlas.
@@ -65,4 +67,5 @@ para seguir el ritmo de unas oleadas cada vez más fuertes.
 - **¿Puedo acelerar la partida?**  
   Muchas versiones incluyen un botón de "avance rápido" para acelerar el tiempo
   entre oleadas o durante las más sencillas.
+
 

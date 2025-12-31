@@ -42,6 +42,8 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Tap` `Click`
 
 - Clique ou touche pour tirer : un appui prolongé règle la puissance / l’arc, le relâchement lance la balle.  
 - Pause et redémarrage via les boutons de l’interface.
@@ -58,4 +60,5 @@ releaseDate: 2025-10-18T00:00:00.000Z
 <!-- i18n:faq:id=faq:basket-champ:wind-e70091e7 -->
 - **Le vent influence-t-il mes tirs ?**  
   *Réponse :* Si des rafales latérales apparaissent, décale ton viseur du côté opposé pour compenser avant de relâcher.
+
 

@@ -77,7 +77,7 @@ Ressourcen‑Management und ein Verständnis für jede Figur.
 <!-- i18n:section:controls -->
 ### Steuerung
 <!-- i18n:controls:keys -->
-- Tasten (Abgleich)： `W` `A` `S` `D` `Left-Shift` `Left Mouse Button` `Right Mouse Button` `Spacebar`
+- Tasten (Abgleich)： `W` `A` `S` `D` `Mouse` `Left-Shift` `Hold` `Left` `Button` `Right` `Button` `Mouse` `Scroll` `Spacebar`
 
 Die Steuerung entspricht klassischen Ego‑Spielen auf dem PC.
 
@@ -118,3 +118,4 @@ Bei Verstößen landest du im Arrest.
 <!-- i18n:faq:id=faq:baldis-basics:i-collected-all-7-notebooks-0a8ec16c -->
 **F: Ich habe alle sieben Notizbücher – wie gewinne ich?**  
 **A:** Nachdem du das siebte Notizbuch hast, erscheinen drei falsche Ausgänge. Berühre sie alle, damit sich der vierte, echte Exit öffnet, und erreiche ihn, bevor Baldi dich erwischt.
+

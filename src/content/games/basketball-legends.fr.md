@@ -60,26 +60,28 @@ Pour gagner, il faut maîtriser tes déplacements, le timing des tirs et exploit
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `A` `D` `tap` `A` `D` `B` `S` `W` `V` `Left` `Right Arrow` `tap` `Left` `Right Arrow` `L` `Down Arrow` `Up Arrow` `K`
 
 Le jeu permet à deux joueurs de partager le même clavier en utilisant chacun un ensemble de touches unique.
 
 #### Joueur 1 :
 
-- Déplacement : `A` / `D`  
-- Dash : double‑tape `A` ou `D`  
-- Saut : `W`  
-- Tir / dunk : `B`  
-- Feinte / voler la balle : `S`  
-- Super Shoot : `V`
+- Déplacement : A / D  
+- Dash : double‑tape A ou D  
+- Saut : W  
+- Tir / dunk : B  
+- Feinte / voler la balle : S  
+- Super Shoot : V
 
 #### Joueur 2 :
 
 - Déplacement : flèches gauche/droite  
 - Dash : double‑tape flèche gauche ou droite  
 - Saut : flèche haut  
-- Tir / dunk : `L`  
+- Tir / dunk : L  
 - Feinte / voler la balle : flèche bas  
-- Super Shoot : `K`
+- Super Shoot : K
 
 <!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
@@ -103,4 +105,5 @@ Presque pas : les écarts sont surtout esthétiques, donc choisis ton basketteur
 <!-- i18n:faq:id=faq:basketball-legends:can-i-pass-the-ball-eea2c74f -->
 **5. Comment faire une passe en 2v2 ?**  
 Quand ton coéquipier n’a pas le ballon, appuie sur le bouton de tir (`B` ou `L`) et l’action sera convertie en passe.
+
 

@@ -47,6 +47,8 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Drag` `hold` `Tap`
 
 - Fais glisser pour régler l’angle et la puissance, puis relâche pour tirer.  
 - Certains modes ajoutent des cibles bonus à toucher lorsqu’elles passent sur ta trajectoire habituelle.  
@@ -79,4 +81,5 @@ releaseDate: 2025-10-18T00:00:00.000Z
 *   **Q : Faut‑il viser les pièces ou cibles bonus ?**
     
     **R :** Seulement si elles se trouvent déjà sur ton arc habituel. Sinon tu perdras plus de temps (et ta série) que les points gagnés.
+
 

@@ -60,7 +60,7 @@ kontrollieren.
 <!-- i18n:section:controls -->
 ### Steuerung
 <!-- i18n:controls:keys -->
-- Tasten (Abgleich)： `W` `Up Arrow` `Up Arrow` `W`
+- Tasten (Abgleich)： `W` `Up Arrow` `Up Arrow` `W` `Tap`
 
 Die PC‑Version setzt auf extrem einfache Ein‑Tasten‑Steuerung für zwei Spieler
 an einer Tastatur.
@@ -94,4 +94,5 @@ Ja, es gibt einen Singleplayer‑Modus gegen die KI, auch wenn lokale Duelle die
 <!-- i18n:faq:id=faq:basket-random:what-is-the-best-random-b388b359 -->
 **5. Welche „Random“-Variante ist die beste?**  
 Es gibt keine objektiv beste. Lange Arme erleichtern Blocks, Eisfelder sorgen für Slapstick, schwere Bälle verlangen Feingefühl – probiere alles aus.
+
 

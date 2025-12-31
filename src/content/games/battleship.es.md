@@ -81,6 +81,8 @@ lógica.
 
 <!-- i18n:section:controls -->
 ### Guía de controles (versión digital)
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `mouse` `Click` `mouse` `click` `right` `button` `Click`
 
 En versiones digitales, los controles suelen ser con ratón y muy intuitivos.
 
@@ -118,3 +120,4 @@ turnos para descubrir toda tu flota.
 No. Aunque hay algo de azar al principio, la diferencia real la marca usar buenos
 patrones de búsqueda y razonar los disparos. Un jugador que piensa ganará casi
 siempre a alguien que dispara al azar.
+

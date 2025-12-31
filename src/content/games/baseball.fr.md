@@ -41,6 +41,8 @@ Même si *Doodle Baseball* se joue avec un seul bouton, progresser demande d’a
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Left` `Button` `Click` `Tap` `Tap`
 
 Les contrôles sont réduits au strict minimum pour que tout le monde puisse jouer.
 
@@ -78,4 +80,5 @@ Non. Les batteurs (hot-dog, burger, pastèque, etc.) tournent automatiquement et
 **5. Le jeu devient-il plus difficile ?**
 
 Oui. Plus ton score augmente, plus le lanceur diversifie ses vitesses et ses effets, ce qui t’oblige à ajuster ton timing à chaque frappe.
+
 

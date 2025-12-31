@@ -54,7 +54,7 @@ locale: ja
 <!-- i18n:section:controls -->
 ### 操作ガイド
 <!-- i18n:controls:keys -->
-- キー（整合）： `↑` `↓` `←` `→` `Spacebar` `W` `A` `S` `D` `F`
+- キー（整合）： `Arrow Keys` `↑` `↓` `←` `→` `Spacebar` `W` `A` `S` `D` `F`
 
 前作同様、1つのキーボードで2人プレイが可能です。
 
@@ -84,4 +84,5 @@ locale: ja
 <!-- i18n:faq:id=faq:bad-ice-cream-3:q-is-there-a-way-adf9c295 -->
 *   **Q: ライフを増やす方法はありますか？**
     *   **A:** クラシックなFlash版では追加ライフを得る手段はほとんどありません。与えられたライフ内でミスを減らすことが最善策です。
+
 

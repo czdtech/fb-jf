@@ -48,6 +48,8 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作指南
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `mouse` `mouse` `Press` `Left` `Button`
 
 *Big Shark* 的操作非常直观，大多只需要鼠标即可完成。
 
@@ -76,4 +78,5 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:faq:id=faq:big-shark:can-i-eat-the-swimmers-b3b03c55 -->
 **5. 我能吃掉海里的游泳者吗？**  
 可以，但前提是你已经长到足够大。当你体型足够夸张时，这些人类通常会成为高分值猎物，一口一个，收益非常可观。
+
 

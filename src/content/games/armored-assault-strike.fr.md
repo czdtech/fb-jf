@@ -31,6 +31,8 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `WASD` `Arrows`
 
 - Déplacement avec les touches WASD ou flèches.  
 - Vise et tire avec la souris ou les boutons d’action indiqués dans l’interface.  
@@ -50,4 +52,5 @@ releaseDate: 2025-10-18T00:00:00.000Z
 <!-- i18n:faq:id=faq:armored-assault-strike:bosses-5a57d05f -->
 - **Q : Comment battre les boss ?**  
   **R :** Observe leurs schémas d’attaque, détruis les sbires qui les accompagnent en priorité et profite des fenêtres d’attaque pour vider tes compétences sur le boss.
+
 

@@ -70,7 +70,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:section:controls -->
 ### 조작 방법
 <!-- i18n:controls:keys -->
-- 키(정렬)： `↑` `↓` `←` `→` `Spacebar` `W` `A` `S` `D` `F`
+- 키(정렬)： `Arrow Keys` `↑` `↓` `←` `→` `Spacebar` `W` `A` `S` `D` `F`
 
 게임은 한 키보드에서 두 명이 함께 플레이하기 편하도록 설계되어 있습니다.
 
@@ -99,4 +99,5 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:faq:id=faq:bad-ice-cream-2:q-how-does-the-2player-8a760ff7 -->
 *   **Q: 2인 플레이에서는 목숨을 따로 쓰나요?**
     *   **A:** 대부분 하나의 목숨 풀을 공유합니다. 둘 중 누구라도 잡히면 공용 목숨이 줄어드니 서로를 살피며 협력하세요.
+
 

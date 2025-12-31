@@ -51,6 +51,8 @@ Gagner exige un mélange de placements malins et de déductions méthodiques.
 
 <!-- i18n:section:controls -->
 ### Guide des commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `mouse` `Click` `mouse` `click` `right` `button` `Click`
 
 La version numérique repose essentiellement sur des clics.
 
@@ -80,4 +82,5 @@ Il vaut mieux les séparer. Quand chaque navire est isolé, l’adversaire doit 
 <!-- i18n:faq:id=faq:battleship:is-the-game-just-pure-88a4cfc8 -->
 **4. Est-ce un jeu basé uniquement sur la chance ?**  
 La chance intervient lors des tout premiers tirs, mais les joueurs qui appliquent un motif de tir structuré et raisonnent à partir des informations acquises dominent nettement les tireurs aléatoires.
+
 

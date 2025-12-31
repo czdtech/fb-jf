@@ -49,6 +49,8 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作指南
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `drag` `drop` `click` `Click` `drag` `click` `click`
 
 本作的操作设计非常简单直观，主要通过点击和拖拽完成。
 
@@ -72,4 +74,5 @@ releaseDate: 2025-10-18T00:00:00.000Z
 <!-- i18n:faq:id=faq:bee-connect:what-is-the-goal-of-c816fee5 -->
 **4. 本作的最终目标是什么？**  
 首要目标是尽可能延长存活时间、刷出更高分数。对于高手来说，额外的追求是一步步合成更大的数字方块，例如不断合成出 1024、2048 甚至更夸张的顶级数字。
+
 

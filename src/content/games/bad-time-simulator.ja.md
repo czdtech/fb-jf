@@ -42,7 +42,7 @@ locale: ja
 <!-- i18n:section:controls -->
 #### 3. メニュー操作も戦いの一部
 <!-- i18n:controls:keys -->
-- キー（整合）： `↑` `↓` `←` `→` `Z` `Enter` `[FIGHT]` `X` `Shift` `Up Arrow`
+- キー（整合）： `Arrow Keys` `↑` `↓` `←` `→` `Z` `Enter` `[FIGHT]` `X` `Shift` `Up Arrow`
 自分のターン、骨がメニュー画面（コマンド：FIGHT / ACT / ITEM / MERCY）の下から突き上げてきます。
 *   コマンドを選ぶ際も素早く操作しないとダメージを受けます。
 *   サンズ戦では、攻撃しても全て避けられますが、**[FIGHT]** を選び続けて会話を進めないと戦闘が終わりません。
@@ -84,5 +84,6 @@ PC/ブラウザ版の標準的なキーボード操作です。
 <!-- i18n:faq:id=faq:bad-time-simulator:what-is-the-difference-between-aa2c7edf -->
 **Q: 本編との違いはありますか？**  
 極めて正確に再現されていますが、シミュレーターのバージョンによっては微細な違いがあるかもしれません。しかし、主要な攻撃パターンや難易度の感覚は本物とほぼ同じです。
+
 
 

@@ -59,6 +59,8 @@ Um in *Ballistic* weit zu kommen und hohe Scores zu erzielen, zählt jede Kugel.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Mouse` `Click` `hold` `left` `button` `Drag` `mouse` `mouse` `Tap` `hold` `Drag`
 
 Die Bedienung ist auf allen Plattformen leicht zu verstehen.
 
@@ -89,4 +91,5 @@ Nein. Blockpositionen, Werte und Power‑ups werden jedes Mal neu generiert, sod
 <!-- i18n:faq:id=faq:ballistic:what-is-the-best-strategy-0308231c -->
 **5. Wie erreiche ich einen besonders hohen Score?**  
 Überlebe so lange wie möglich, sammle früh viele Extrabälle und nutze Winkel‑Schüsse, um große Kettenreaktionen zu erzeugen, statt nur einzelne Blöcke anzuschießen.
+
 

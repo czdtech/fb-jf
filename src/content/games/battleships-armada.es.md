@@ -47,6 +47,8 @@ barcos. El primero en hacerlo gana.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `click` `drag` `click` `click`
 
 *   **Colocar barcos:** Durante la preparación, arrastra los barcos a tu
     cuadrícula. Haz clic sobre ellos para alternar entre posición horizontal y
@@ -68,4 +70,5 @@ barcos. El primero en hacerlo gana.
 <!-- i18n:faq:id=faq:battleships-armada:q-how-do-i-win-82c5f7c2 -->
 *   **P: ¿Cómo gano la partida?**
     *   **R:** Hundiendo todos los barcos de la flota enemiga antes de que el rival hunda los tuyos.
+
 

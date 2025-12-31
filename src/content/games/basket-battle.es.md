@@ -39,6 +39,8 @@ y caóticas, ajustando la parábola, el momento del lanzamiento y los rebotes.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Drag`
 
 - **Apuntar/Potencia:** Arrastra para definir dirección y fuerza del tiro y
   suelta para lanzar el balón.
@@ -62,3 +64,4 @@ y caóticas, ajustando la parábola, el momento del lanzamiento y los rebotes.
 - **¿Tiene multijugador?**  
   Muchas variantes ofrecen enfrentamientos locales 1 vs 1 en el mismo
   dispositivo.
+

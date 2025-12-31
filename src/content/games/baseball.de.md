@@ -62,6 +62,8 @@ Konzentration.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Left` `Button` `Click` `Tap` `Tap`
 
 Die Steuerung ist extrem einfach und damit für alle zugänglich.
 
@@ -99,4 +101,5 @@ Nein. Die Figuren rotieren automatisch, dienen nur der Optik und spielen sich id
 **5. Wird das Spiel später schwerer?**
 
 Ja. Mit steigender Punktzahl variiert der Pitcher Tempo und Effekte stärker, wodurch dein Timing laufend gefordert wird.
+
 

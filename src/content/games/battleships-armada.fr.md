@@ -31,6 +31,8 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `click` `drag` `click` `click`
 
 *   **Placer les navires :** En phase de préparation, clique-glisse les navires sur ta grille et clique pour les faire pivoter entre horizontal et vertical.
 *   **Tirer :** En phase de combat, clique sur une case de la grille adverse (souvent celle de droite) pour lancer une salve à cette coordonnée.
@@ -49,4 +51,5 @@ releaseDate: 2025-10-17T00:00:00.000Z
 <!-- i18n:faq:id=faq:battleships-armada:q-how-do-i-win-82c5f7c2 -->
 *   **Q : Comment gagne-t-on ?**
     *   **R :** En étant le premier joueur à couler les cinq navires de la flotte adverse avant qu’il ne coule les tiens.
+
 

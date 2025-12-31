@@ -42,6 +42,8 @@ Battleships Armada는 고전 해전 보드게임 "Battleship"을 디지털로 �
 
 <!-- i18n:section:controls -->
 ### 조작 방법
+<!-- i18n:controls:keys -->
+- 키(정렬)： `click` `drag` `click` `click`
 
 *   **함선 배치:** 배치 단계에서 마우스로 함선을 드래그해 내 격자에 올리고,
     클릭으로 가로/세로 방향을 회전할 수 있습니다.
@@ -62,4 +64,5 @@ Battleships Armada는 고전 해전 보드게임 "Battleship"을 디지털로 �
 <!-- i18n:faq:id=faq:battleships-armada:q-how-do-i-win-82c5f7c2 -->
 *   **Q: 어떻게 이기나요?**
     *   **A:** 상대 격자에 배치된 모든 함선(보통 5척)의 모든 칸을 맞혀 전부 침몰시키면 승리합니다.
+
 

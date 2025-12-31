@@ -52,7 +52,7 @@ pierdas la pala. Es la manera más rápida de limpiar la pantalla.
 <!-- i18n:section:controls -->
 #### 2. Domina la pala para controlar el ángulo
 <!-- i18n:controls:keys -->
-- Teclas (alineación)： `←` `→`
+- Teclas (alineación)： `mouse` `Left` `Right` `Arrow Keys` `←` `→` `Spacebar` `left` `click`
 
 El ángulo de rebote de la bola no es aleatorio; depende de **dónde** impacta en
 la pala.
@@ -102,4 +102,5 @@ Los controles de Breakout son tan sencillos como icónicos.
 <!-- i18n:faq:id=faq:atari-breakout:q-where-can-i-play-d7aa3e3b -->
 *   **P: ¿Dónde puedo jugar hoy a Atari Breakout?**
     *   **R:** Hay muchas versiones web disponibles en sitios de juegos clásicos y archivos retro. Durante un tiempo incluso existió un "huevo de pascua" en Google Imágenes al buscar "Atari Breakout", aunque la función puede variar.
+
 

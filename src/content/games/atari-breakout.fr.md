@@ -36,7 +36,7 @@ La technique la plus efficace consiste à percer un **tunnel vertical** sur un c
 <!-- i18n:section:controls -->
 #### 2. Contrôler l’angle avec la raquette
 <!-- i18n:controls:keys -->
-- Touches (alignement)： `←` `→`
+- Touches (alignement)： `mouse` `Left` `Right` `Arrow Keys` `←` `→` `Spacebar` `left` `click`
 
 La trajectoire de la balle dépend de l’endroit où elle touche la raquette :
 
@@ -80,4 +80,5 @@ Les commandes sont très simples et accessibles à tous les joueurs.
 <!-- i18n:faq:id=faq:atari-breakout:q-where-can-i-play-d7aa3e3b -->
 - **Q : Où peut-on encore jouer à Atari Breakout aujourd’hui ?**
     - **R :** Sur de nombreux sites de jeux rétro ou d’arcade en ligne. Pendant longtemps, une version jouable existait même dans Google Images en tapant « Atari Breakout », mais cette astuce peut varier selon les régions.
+
 

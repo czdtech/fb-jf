@@ -62,6 +62,8 @@ satisfactorio de dominar.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `tap` `swipe` `Tap` `Tap` `Swipe` `Hold` `Swipe` `Hold` `Tap`
 
 El juego usa un sistema de toques y deslizamientos muy simple.
 
@@ -97,4 +99,5 @@ Tu Fuerza puede ser inferior a su Chin o quizá estás sin resistencia. Entrena 
 **4. ¿Cómo se llena la barra de Big Shot?**
 
 Golpeando y bloqueando con éxito. Los contraataques limpios y los golpes fuertes llenan la barra con mayor rapidez.
+
 

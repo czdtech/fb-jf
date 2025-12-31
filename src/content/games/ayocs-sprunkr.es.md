@@ -66,10 +66,12 @@ Empezar es tan sencillo y divertido como siempre:
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click` `Tap` `Drag` `Drop` `Click`
 
-- **Selección:** `Click` o `Tap` en los personajes para previsualizar sonidos.
-- **Colocación:** `Drag` y `Drop` de personajes en los espacios del escenario para activarlos.
-- **Silenciar/Solo:** `Click` en un personaje activo para alternar silencio o modo solo.
+- **Selección:** Click o Tap en los personajes para previsualizar sonidos.
+- **Colocación:** Drag y Drop de personajes en los espacios del escenario para activarlos.
+- **Silenciar/Solo:** Click en un personaje activo para alternar silencio o modo solo.
 
 <!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
@@ -85,3 +87,4 @@ moderna en el mundo musical de Sprunki. Si buscas una forma de crear música con
 más estilo contemporáneo y un acabado visual pulido, este mod merece tu tiempo.
 Únete a AYOCS Sprunkr, desata tu lado de estilista musical y empieza a crear
 beats llenos de tendencia hoy mismo.
+

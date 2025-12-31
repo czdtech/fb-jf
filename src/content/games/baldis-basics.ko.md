@@ -85,7 +85,7 @@ Baldi's Basics를 잘 클리어하려면 소리 감지, 스태미나 관리, 각
 <!-- i18n:section:controls -->
 ### 조작 방법
 <!-- i18n:controls:keys -->
-- 키(정렬)： `W` `A` `S` `D` `Left-Shift` `Left Mouse Button` `Right Mouse Button` `Spacebar`
+- 키(정렬)： `W` `A` `S` `D` `Mouse` `Left-Shift` `Hold` `Left` `Button` `Right` `Button` `Mouse` `Scroll` `Spacebar`
 
 일반적인 1인칭 PC 게임 조작과 비슷합니다.
 
@@ -130,3 +130,4 @@ Baldi's Basics를 잘 클리어하려면 소리 감지, 스태미나 관리, 각
 **5. 공책 7개를 다 모았는데도 끝나지 않습니다. 어떻게 해야 하나요?**  
 공책을 모두 모은 뒤, 학교 곳곳에 있는 세 개의 가짜 출구를 먼저 터치해야 합니다.
 그 후에 마지막 진짜 출구가 열리며, 그곳까지 도달하면 게임 클리어입니다.
+

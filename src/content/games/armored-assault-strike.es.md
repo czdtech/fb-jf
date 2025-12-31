@@ -43,6 +43,8 @@ oleadas con eficacia sin dejar tu casco a merced del fuego rival.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `WASD` `Arrows`
 
 - **Movimiento:** Teclas WASD o flechas para desplazar el vehículo.
 - **Apuntar/Disparar:** Según la versión, apunta con el ratón o con el stick y
@@ -67,3 +69,4 @@ oleadas con eficacia sin dejar tu casco a merced del fuego rival.
 - **¿Cómo enfrento a los jefes?**  
   Aprende sus patrones de ataque, limpia primero a los enemigos menores que los
   acompañan y aprovecha las ventanas seguras para hacer daño concentrado.
+

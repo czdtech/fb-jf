@@ -41,6 +41,8 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Drag`
 
 - Fais glisser pour viser et régler la puissance, puis relâche pour tirer.  
 - Selon la version, tu peux aussi déplacer ou faire sauter ton joueur avec des boutons/flèches.
@@ -57,4 +59,5 @@ releaseDate: 2025-10-18T00:00:00.000Z
 <!-- i18n:faq:id=faq:basket-battle:multiplayer-fc9199ff -->
 - **Existe-t-il un mode multijoueur ?**  
   *Réponse :* La plupart des versions proposent au moins un duel local (deux joueurs sur le même appareil) et parfois des défis en ligne.
+
 

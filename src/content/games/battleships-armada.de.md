@@ -46,6 +46,8 @@ gewinnt.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `click` `drag` `click` `click`
 
 - **Schiffe platzieren:** Ziehe deine Schiffe in der Setupphase auf das eigene
   Raster und rotiere sie per Klick, bis sie passen.
@@ -67,4 +69,5 @@ gewinnt.
 <!-- i18n:faq:id=faq:battleships-armada:q-how-do-i-win-82c5f7c2 -->
 *   **F: Wie gewinne ich eine Partie?**
     *   **A:** Indem du alle Schiffe deines Gegners versenkst, bevor er deine Flotte vollständig zerstört.
+
 

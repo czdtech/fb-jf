@@ -55,6 +55,8 @@ Bild und füllen freie Zellen – das Brett läuft langsam voll.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `drag` `drop` `click` `Click` `drag` `click` `click`
 
 Das Spiel setzt auf einfache Drag-and-drop- oder Klicksteuerung.
 
@@ -78,4 +80,5 @@ Mindestens vier direkt benachbarte Felder mit demselben Wert. Drei Steine allein
 <!-- i18n:faq:id=faq:bee-connect:what-is-the-goal-of-c816fee5 -->
 **4. Was ist das eigentliche Ziel?**  
 So lange wie möglich zu überleben, den Highscore zu steigern und immer größere Zahlenwerte zu bauen, bevor die Wabe voll ist.
+
 

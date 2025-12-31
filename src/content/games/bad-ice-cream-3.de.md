@@ -91,7 +91,7 @@ vorab überlegte Route ist deutlich sicherer.
 <!-- i18n:section:controls -->
 ### Steuerung
 <!-- i18n:controls:keys -->
-- Tasten (Abgleich)： `↑` `↓` `←` `→` `Spacebar` `W` `A` `S` `D` `F`
+- Tasten (Abgleich)： `Arrow Keys` `↑` `↓` `←` `→` `Spacebar` `W` `A` `S` `D` `F`
 
 Die Steuerung entspricht den Vorgängern und ist ideal für zwei Spieler an
 einem Keyboard.
@@ -121,4 +121,5 @@ einem Keyboard.
 <!-- i18n:faq:id=faq:bad-ice-cream-3:q-is-there-a-way-adf9c295 -->
 - **F: Gibt es Extra‑Leben oder Power‑ups?**
     - **A:** In den klassischen Flash-Versionen startest du mit einer festen Anzahl an Leben; sobald sie weg sind, musst du das Level neu beginnen – zusätzliche Leben kannst du nicht freischalten.
+
 

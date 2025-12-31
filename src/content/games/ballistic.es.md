@@ -65,6 +65,8 @@ cada lanzamiento.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Mouse` `Click` `hold` `left` `button` `Drag` `mouse` `mouse` `Tap` `hold` `Drag`
 
 Los controles son muy intuitivos.
 
@@ -102,3 +104,4 @@ cada ronda plantea un reto distinto.
 **5. ¿Cuál es la mejor estrategia para hacer muchos puntos?**  
 Sobrevivir el máximo de rondas, aumentar continuamente tu número de bolas y
 aprovechar tiros angulados que desencadenen grandes reacciones en cadena.
+

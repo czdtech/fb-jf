@@ -49,6 +49,8 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 조작 방법
+<!-- i18n:controls:keys -->
+- 키(정렬)： `mouse` `Click` `mouse` `click` `right` `button` `Click`
 
 디지털 버전은 대부분 마우스나 터치만으로 플레이할 수 있습니다.
 
@@ -78,4 +80,5 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:faq:id=faq:battleship:is-the-game-just-pure-88a4cfc8 -->
 **4. 결국 운이 전부 아닌가요?**  
 초반 탐색에는 운이 섞이지만, 체계적인 패턴과 정보 기반 추리를 쓰는 플레이어가 무작위 추측보다 훨씬 안정적으로 승리합니다.
+
 

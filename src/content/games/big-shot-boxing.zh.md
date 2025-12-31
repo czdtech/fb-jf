@@ -48,6 +48,8 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作指南
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `tap` `swipe` `Tap` `Tap` `Swipe` `Hold` `Swipe` `Hold` `Tap`
 
 游戏一般采用简洁的点击 / 轻扫操作：
 
@@ -79,3 +81,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:faq:id=faq:big-shot-boxing:how-does-the-big-shot-26d69f2e -->
 **4. Big Shot 计量槽是如何积攒的？**  
 计量槽会在你**命中对手**或**成功格挡攻击**时逐渐充能。精准的反击和高质量重拳会让槽条涨得更快，因此越是打得干净利落，你越能更频繁地使用这一必杀技。
+

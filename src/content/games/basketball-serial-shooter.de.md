@@ -52,6 +52,8 @@ Treffer hintereinander zu landen.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Drag` `hold` `Tap`
 
 - **Zielen & Kraft:** Ziehe mit Maus oder Finger, um Winkel und Power
   festzulegen, und lasse los, um zu werfen. In manchen Versionen stellst du die
@@ -87,4 +89,5 @@ Treffer hintereinander zu landen.
   **A:** Nur, wenn sie sich mit deiner Standardkurve treffen lassen. Wenn du
   dafür stark umstellen musst, verlierst du meist mehr Zeit und Serienbonus als
   du gewinnst.
+
 

@@ -59,6 +59,8 @@ Big Shot Boxing은 레트로 감성의 픽셀 아트 그래픽으로 즐기는 �
 
 <!-- i18n:section:controls -->
 ### 조작 방법
+<!-- i18n:controls:keys -->
+- 키(정렬)： `tap` `swipe` `Tap` `Tap` `Swipe` `Hold` `Swipe` `Hold` `Tap`
 
 모바일 기준 간단한 탭/스와이프 조작으로 진행됩니다.
 
@@ -93,4 +95,5 @@ Big Shot Boxing은 레트로 감성의 픽셀 아트 그래픽으로 즐기는 �
 **4. "Big Shot" 게이지는 어떻게 채우나요?**
 
 펀치를 맞히거나 가드로 막으면 조금씩 차오르며, 정확한 카운터와 강한 히트가 게이지를 더 빨리 올려 줍니다.
+
 

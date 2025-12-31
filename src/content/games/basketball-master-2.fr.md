@@ -36,6 +36,8 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Mouse` `Tap` `drag`
 
 - **Souris / tactile :** touche et fais glisser pour viser et régler la puissance, puis relâche pour tirer.
 
@@ -48,4 +50,5 @@ releaseDate: 2025-10-18T00:00:00.000Z
 <!-- i18n:faq:id=faq:basketball-master-2:q-what-is-the-best-c93a41c7 -->
 *   **Q : Quelle est la meilleure manière de tirer ?**
     *   **R :** Ça dépend du niveau. Un arc haut permet de passer par‑dessus les obstacles, alors qu’un tir plus tendu et puissant peut servir à les casser.
+
 

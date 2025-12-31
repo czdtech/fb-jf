@@ -78,7 +78,7 @@ Der Spielstil hängt stark davon ab, auf welcher Seite du spielst.
 <!-- i18n:section:controls -->
 ### Steuerung
 <!-- i18n:controls:keys -->
-- Tasten (Abgleich)： `W` `A` `S` `D` `Left Mouse Button` `Right Mouse Button` `R` `Left-Shift` `Spacebar` `E` `F` `1` `2` `3` `C`
+- Tasten (Abgleich)： `W` `A` `S` `D` `Mouse` `Left` `Button` `Right` `Button` `R` `Left-Shift` `Spacebar` `E` `F` `enter` `1` `2` `3` `C`
 
 Die Steuerung orientiert sich an gängigen PC‑Ego‑Shootern (z. B. Roblox).
 
@@ -125,3 +125,4 @@ Die Steuerung orientiert sich an gängigen PC‑Ego‑Shootern (z. B. Roblox).
 - **F: Kann ich während einer laufenden Runde das Team wechseln?**  
   **A:** In der Regel nicht. Die Teamwahl erfolgt vor Rundenbeginn und bleibt
   bis zum Ende der Runde bestehen, um das Matchmaking fair zu halten.
+

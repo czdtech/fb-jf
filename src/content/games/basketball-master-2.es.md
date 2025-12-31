@@ -41,6 +41,8 @@ más fuerza.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Mouse` `Tap` `drag`
 
 *   **Ratón / Pantalla táctil:** Mantén pulsado, arrastra para apuntar y suelta
     para lanzar el balón.
@@ -54,4 +56,5 @@ más fuerza.
 <!-- i18n:faq:id=faq:basketball-master-2:q-what-is-the-best-c93a41c7 -->
 *   **Q: ¿Cuál es la mejor forma de tirar?**
     *   **A:** Depende del diseño del nivel: usa parábolas altas para superar barreras y tiros más rectos cuando necesites atravesar bloques.
+
 

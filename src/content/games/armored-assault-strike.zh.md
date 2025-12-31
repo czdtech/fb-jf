@@ -31,6 +31,8 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作指南
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `WASD` `Arrows`
 
 - 使用 WASD 或方向键移动；瞄准与射击方式以界面提示为准；技能通常绑定在快捷键或独立按钮上。
 
@@ -45,3 +47,4 @@ releaseDate: 2025-10-18T00:00:00.000Z
 <!-- i18n:faq:id=faq:armored-assault-strike:bosses-5a57d05f -->
 *   **问：Boss 战有什么通用思路？**
     *   答：** 先熟悉 Boss 的攻击节奏，抓安全窗口输出；如果场上有小怪或召唤物，优先清掉再专心处理 Boss。
+

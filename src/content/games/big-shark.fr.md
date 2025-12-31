@@ -41,6 +41,8 @@ Réussir dans *Big Shark* demande un mélange de prudence et d’agressivité r�
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `mouse` `mouse` `Press` `Left` `Button`
 
 Les commandes de *Big Shark* restent très simples, majoritairement à la souris ou au tactile.
 
@@ -74,4 +76,5 @@ Les commandes de *Big Shark* restent très simples, majoritairement à la souris
 **Q : Peut‑on manger les nageurs ?**
 
 **R :** Oui, une fois assez grand. Ce sont des proies lucratives, mais ne les attaque que si la zone est sûre : d’autres requins rôdent souvent à proximité.
+
 

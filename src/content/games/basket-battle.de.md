@@ -43,6 +43,8 @@ Gegner beim Nachsetzen ausboxen.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Drag`
 
 - **Zielen & Kraft:** Ziehe mit Maus oder Finger, um Richtung und Stärke
   festzulegen, lasse los, um zu werfen.
@@ -67,3 +69,4 @@ Gegner beim Nachsetzen ausboxen.
 - **Gibt es einen Mehrspielermodus?**  
   Viele Ausgaben bieten lokale Duelle zu zweit an einem Gerät oder gegen die
   KI.
+

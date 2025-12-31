@@ -63,6 +63,8 @@ Karriere.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `tap` `swipe` `Tap` `Tap` `Swipe` `Hold` `Swipe` `Hold` `Tap`
 
 Die Steuerung ist auf einfaches Tippen und Wischen ausgelegt (Touch oder Maus).
 
@@ -93,4 +95,5 @@ Die Steuerung ist auf einfaches Tippen und Wischen ausgelegt (Touch oder Maus).
 <!-- i18n:faq:id=faq:big-shot-boxing:how-does-the-big-shot-26d69f2e -->
 **F: Wie füllt sich die "Big Shot"‑Leiste?**  
 > Durch Treffer und Blocks. Präzise Konter und harte Schläge lassen den Balken besonders schnell anwachsen.
+
 

@@ -69,7 +69,7 @@ Ganar en Bad Time Simulator va más de aguantar y memorizar que de atacar.
 <!-- i18n:section:controls -->
 ### Guía de controles
 <!-- i18n:controls:keys -->
-- Teclas (alineación)： `↑` `↓` `←` `→` `Z` `Enter` `[FIGHT]` `X` `Shift` `Up Arrow`
+- Teclas (alineación)： `Arrow Keys` `↑` `↓` `←` `→` `Z` `Enter` `[FIGHT]` `X` `Shift` `Up Arrow`
 
 Los controles son sencillos y se basan en el teclado.
 
@@ -111,4 +111,5 @@ tu atención debe centrarse en defenderte y sobrevivir.
 El simulador es muy fiel al combate original. Puede haber pequeñas diferencias
 según la versión, pero los patrones de ataque, las mecánicas básicas y la
 sensación general están pensados para ser prácticamente idénticos.
+
 

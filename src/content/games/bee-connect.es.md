@@ -59,6 +59,8 @@ juego acaba cuando el panal se llena y ya no quedan movimientos posibles.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `drag` `drop` `click` `Click` `drag` `click` `click`
 
 El juego está pensado para un control sencillo de arrastrar y soltar.
 
@@ -89,4 +91,5 @@ juntas no son suficientes.
 Sobrevivir el máximo tiempo posible y conseguir la mayor puntuación. Como reto
 secundario, puedes intentar llegar al número más alto posible (1024, 2048,
 etc.) mediante fusiones sucesivas.
+
 

@@ -44,7 +44,7 @@ Réussir *Baldi's Basics* demande de l’écoute, une bonne gestion de l’endur
 <!-- i18n:section:controls -->
 ### Commandes
 <!-- i18n:controls:keys -->
-- Touches (alignement)： `W` `A` `S` `D` `Left-Shift` `Left Mouse Button` `Right Mouse Button` `Spacebar`
+- Touches (alignement)： `W` `A` `S` `D` `Mouse` `Left-Shift` `Hold` `Left` `Button` `Right` `Button` `Mouse` `Scroll` `Spacebar`
 
 Les contrôles sont classiques pour un jeu PC à la première personne.
 
@@ -83,3 +83,4 @@ Les contrôles sont classiques pour un jeu PC à la première personne.
 <!-- i18n:faq:id=faq:baldis-basics:i-collected-all-7-notebooks-0a8ec16c -->
 **Q : J’ai 7 cahiers, comment gagner ?**  
 **R :** Quand tu récupères le septième cahier, l’école passe en alerte rouge. Trois fausses sorties apparaissent : touche-les toutes pour les désactiver, puis la quatrième, la vraie sortie, s’ouvrira. Atteins-la avant que Baldi ne te rattrape.
+

@@ -91,7 +91,7 @@ recursos y entender el comportamiento de cada personaje.
 <!-- i18n:section:controls -->
 ### Guía de controles
 <!-- i18n:controls:keys -->
-- Teclas (alineación)： `W` `A` `S` `D` `Left-Shift` `Left Mouse Button` `Right Mouse Button` `Spacebar`
+- Teclas (alineación)： `W` `A` `S` `D` `Mouse` `Left-Shift` `Hold` `Left` `Button` `Right` `Button` `Mouse` `Scroll` `Spacebar`
 
 Los controles siguen el estándar de los juegos en primera persona en PC.
 
@@ -134,3 +134,4 @@ puedes usarlas en la puerta para salir al instante.
 Tras conseguirlos, debes encontrar y tocar tres salidas "falsas" repartidas por
 la escuela. Cuando lo logres, se abrirá una cuarta salida real; llegar a ella es
 la condición de victoria.
+

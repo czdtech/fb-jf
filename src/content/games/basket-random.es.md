@@ -72,7 +72,7 @@ Ganar en *Basket Random* consiste en domar el caos, no en controlarlo del todo.
 <!-- i18n:section:controls -->
 ### Guía de controles
 <!-- i18n:controls:keys -->
-- Teclas (alineación)： `W` `Up Arrow` `Up Arrow` `W`
+- Teclas (alineación)： `W` `Up Arrow` `Up Arrow` `W` `Tap`
 
 El juego usa un esquema de un botón por jugador, pensado para dos personas en el
 mismo teclado.
@@ -111,3 +111,4 @@ Sí, *Basket Random* incluye modo para un jugador contra la IA.
 No hay una mejor; todas están pensadas para ser caóticas. A algunos les gustan
 los brazos largos para tapar tiros, otros disfrutan el reto de un balón pesado o
 una pista helada. La diversión está en adaptarse a lo que toque.
+

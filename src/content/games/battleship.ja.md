@@ -51,6 +51,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `mouse` `Click` `mouse` `click` `right` `button` `Click`
 
 デジタル版では操作はシンプルなマウス／タッチ主体です。
 
@@ -80,4 +82,5 @@ locale: ja
 <!-- i18n:faq:id=faq:battleship:is-the-game-just-pure-88a4cfc8 -->
 **4. 結局は運任せのゲームですか？**  
 初期探索には運も絡みますが、体系化されたサーチパターンと論理的な推理を使えるプレイヤーは、ランダムに撃つ相手より安定して勝てます。
+
 

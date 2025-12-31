@@ -33,6 +33,8 @@ Tu déplaces les tuiles une par une vers une cellule voisine vide. Attention : 
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `drag` `drop` `click` `Click` `drag` `click` `click`
 
 Le jeu se joue au clic ou au glisser-déposer.
 
@@ -56,4 +58,5 @@ Il faut un groupe d’au moins quatre tuiles adjacentes. Trois tuiles côte à c
 <!-- i18n:faq:id=faq:bee-connect:what-is-the-goal-of-c816fee5 -->
 **4. Quel est l’objectif final ?**  
 Survivre le plus longtemps possible pour battre ton record, et pour les joueurs experts, créer les plus grosses valeurs (1024, 2048, etc.) en multipliant les fusions.
+
 

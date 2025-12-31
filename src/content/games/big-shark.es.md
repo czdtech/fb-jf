@@ -61,6 +61,8 @@ Tener éxito en *Big Shark* es una mezcla de agresividad controlada y prudencia.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `mouse` `mouse` `Press` `Left` `Button`
 
 Los controles se basan sobre todo en el ratón.
 
@@ -95,3 +97,4 @@ Prioriza seguir con vida el tiempo suficiente para crecer mucho. Una vez eres
 **5. ¿Puedo comerme a los bañistas?**  
 Sí, pero solo cuando seas suficientemente grande. Suelen dar muchos puntos y son
    una de las presas más valiosas.
+

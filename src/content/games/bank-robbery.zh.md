@@ -87,7 +87,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:section:controls -->
 ### 操作指南
 <!-- i18n:controls:keys -->
-- 按键（对齐）： `W` `A` `S` `D` `Left Mouse Button` `Right Mouse Button` `R` `Left-Shift` `Spacebar` `E` `F` `1` `2` `3` `C`
+- 按键（对齐）： `W` `A` `S` `D` `Mouse` `Left` `Button` `Right` `Button` `R` `Left-Shift` `Spacebar` `E` `F` `enter` `1` `2` `3` `C`
 
 本作在 PC 端通常使用类似 Roblox 的标准 FPS 操作：
 
@@ -124,3 +124,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:faq:id=faq:bank-robbery:can-i-switch-teams-during-61152304 -->
 **5. 中途能换队伍吗？**
 大多数版本中，阵营是在回合开始前选择的。为了维持平衡，一局中间通常不能随意换队，需要等下一局重新分配。
+

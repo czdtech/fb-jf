@@ -30,6 +30,8 @@ Dans *Backyard Zombie Defense*, tu dois défendre un jardin contre des vagues de
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Place` `Upgrade` `Sell`
 
 - Utilise la souris pour placer, améliorer ou vendre des tourelles via l’interface.  
 - Lance la vague suivante quand tu es prêt.
@@ -48,5 +50,6 @@ Dans *Backyard Zombie Defense*, tu dois défendre un jardin contre des vagues de
 <!-- i18n:faq:id=faq:backyard-zombie-defense:speed-toggle-3e55cb8a -->
 - **Q : Peut‑on accélérer le jeu ?**  
   **R :** De nombreuses versions proposent un bouton de vitesse pour faire passer les vagues plus vite.
+
 
 

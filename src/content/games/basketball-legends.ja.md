@@ -49,6 +49,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `A` `D` `tap` `A` `D` `B` `S` `W` `V` `Left` `Right Arrow` `tap` `Left` `Right Arrow` `L` `Down Arrow` `Up Arrow` `K`
 
 1つのキーボードで2人対戦ができるように配置されています。
 
@@ -90,4 +92,5 @@ locale: ja
 <!-- i18n:faq:id=faq:basketball-legends:can-i-pass-the-ball-eea2c74f -->
 **5. 2対2の試合でパスはどうするのですか？**  
 味方がボールを持っていない時にシュートボタン（`B` または `L`）を押すとパスになります。ダブルチームされたら素早く預けましょう。
+
 

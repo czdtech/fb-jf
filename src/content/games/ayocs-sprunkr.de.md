@@ -65,10 +65,12 @@ Der Einstieg ist genauso leicht wie im Original: Figuren auswählen, platzieren 
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click` `Tap` `Drag` `Drop` `Click`
 
-- **Auswahl:** `Click` oder `Tap` auf Figuren, um Sounds vorzuhören.
-- **Platzierung:** Figuren per `Drag` auf die Bühne ziehen und per `Drop` in Slots setzen.
-- **Mute/Solo:** Aktive Figuren `Click`en, um stummzuschalten oder solo zu schalten.
+- **Auswahl:** Click oder Tap auf Figuren, um Sounds vorzuhören.
+- **Platzierung:** Figuren per Drag auf die Bühne ziehen und per Drop in Slots setzen.
+- **Mute/Solo:** Aktive Figuren Clicken, um stummzuschalten oder solo zu schalten.
 
 <!-- i18n:section:faq -->
 ### Häufige Fragen
@@ -82,3 +84,4 @@ Der Einstieg ist genauso leicht wie im Original: Figuren auswählen, platzieren 
 AYOCS Sprunkr eignet sich perfekt, wenn du die Sprunki‑Formel bereits magst,
 aber Lust auf einen modischen Neuanstrich und frische Klänge hast. Einfach
 starten, Figuren ziehen und deinen eigenen AYOCS‑Style bauen.
+

@@ -65,7 +65,7 @@ Atari Breakout은 비디오 게임 역사에서 빠질 수 없는 고전 아케�
 <!-- i18n:section:controls -->
 ### 조작 방법
 <!-- i18n:controls:keys -->
-- 키(정렬)： `←` `→`
+- 키(정렬)： `mouse` `Left` `Right` `Arrow Keys` `←` `→` `Spacebar` `left` `click`
 
 조작은 매우 단순합니다.
 
@@ -92,4 +92,5 @@ Atari Breakout은 비디오 게임 역사에서 빠질 수 없는 고전 아케�
 <!-- i18n:faq:id=faq:atari-breakout:q-where-can-i-play-d7aa3e3b -->
 *   **Q: 지금도 Atari Breakout을 어디에서 할 수 있나요?**
     - **A:** 여러 고전 게임 사이트와 웹 아카이브에서 브라우저용 Breakout 버전을 쉽게 찾을 수 있습니다. 일부 사이트에서는 에뮬레이터 형태로 원작에 가까운 경험을 제공합니다.
+
 

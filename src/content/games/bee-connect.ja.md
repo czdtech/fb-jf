@@ -32,6 +32,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `drag` `drop` `click` `Click` `drag` `click` `click`
 
 シンプルなドラッグ＆ドロップ、またはクリック操作です。
 
@@ -55,4 +57,5 @@ locale: ja
 <!-- i18n:faq:id=faq:bee-connect:what-is-the-goal-of-c816fee5 -->
 **Q: ゲームの最終目標は？**  
 **A:** できるだけ長く生き残り、ハイスコアを叩き出すことです。上級者にとっては、マージを繰り返して可能な限り大きな数字（1024、2048など）を作ることも挑戦になります。
+
 

@@ -48,6 +48,8 @@ hindurchwerfen, Banden nutzen oder enge Winkel treffen.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Mouse` `Tap` `drag`
 
 - **Maus/Touch:** Tippe oder klicke auf den Ball, ziehe in die Gegenrichtung
   deines gewünschten Schusses, justiere den Bogen und lasse los, um zu werfen.
@@ -62,4 +64,5 @@ hindurchwerfen, Banden nutzen oder enge Winkel treffen.
 <!-- i18n:faq:id=faq:basketball-master-2:q-what-is-the-best-c93a41c7 -->
 *   **F: Was ist die beste Wurftechnik?**
     *   **A:** Das hängt vom Level ab. Hohe Bögen eignen sich, um über Blöcke zu kommen, kräftige, flachere Schüsse sind besser, um Holz oder Eis gezielt zu zerschlagen.
+
 

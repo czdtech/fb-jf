@@ -93,7 +93,7 @@ así que procura no hacer acciones innecesarias.
 <!-- i18n:section:controls -->
 ### Guía de controles
 <!-- i18n:controls:keys -->
-- Teclas (alineación)： `↑` `↓` `←` `→` `Spacebar` `W` `A` `S` `D` `F`
+- Teclas (alineación)： `Arrow Keys` `↑` `↓` `←` `→` `Spacebar` `W` `A` `S` `D` `F`
 
 Los controles se mantienen respecto a los juegos anteriores, pensados para
 compartir teclado.
@@ -124,4 +124,5 @@ compartir teclado.
 <!-- i18n:faq:id=faq:bad-ice-cream-3:q-is-there-a-way-adf9c295 -->
 *   **P: ¿Hay forma de conseguir más vidas?**
     *   **R:** En las versiones clásicas tipo Flash no hay objetos de vida extra. Si te quedas sin vidas, tendrás que repetir el nivel desde el principio.
+
 

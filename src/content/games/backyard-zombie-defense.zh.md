@@ -31,6 +31,8 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作指南
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Place` `Upgrade` `Sell`
 
 - 通过界面点击选择塔的种类，再点击地图可用位置进行建造。
 - 选中已有的塔可以进行升级或出售（如果该版本支持），根据局势灵活调整你的防线结构。
@@ -47,3 +49,4 @@ releaseDate: 2025-10-18T00:00:00.000Z
 <!-- i18n:faq:id=faq:backyard-zombie-defense:speed-toggle-3e55cb8a -->
 *   **问：可以加速游戏吗？**
     *   答：** 许多版本提供倍速按钮，清小波次时可以加速推进，但在陌生关卡初见时建议先用正常速度熟悉节奏。
+

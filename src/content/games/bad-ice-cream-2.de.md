@@ -76,7 +76,7 @@ Labyrinth zu rennen.
 <!-- i18n:section:controls -->
 ### Steuerung
 <!-- i18n:controls:keys -->
-- Tasten (Abgleich)： `↑` `↓` `←` `→` `Spacebar` `W` `A` `S` `D` `F`
+- Tasten (Abgleich)： `Arrow Keys` `↑` `↓` `←` `→` `Spacebar` `W` `A` `S` `D` `F`
 
 Das Spiel ist für Einzelspieler und Koop am gleichen Keyboard ausgelegt.
 
@@ -105,4 +105,5 @@ Das Spiel ist für Einzelspieler und Koop am gleichen Keyboard ausgelegt.
 <!-- i18n:faq:id=faq:bad-ice-cream-2:q-how-does-the-2player-8a760ff7 -->
 *   **F: Wie funktioniert der 2‑Spieler‑Modus bei den Leben?**
     *   **A:** Ihr teilt euch in der Regel einen gemeinsamen Vorrat. Wird einer erwischt, verliert das ganze Team ein Leben.
+
 

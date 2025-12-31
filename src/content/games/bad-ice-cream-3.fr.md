@@ -62,7 +62,7 @@ Ne casse pas et ne reconstruis pas des murs au hasard : chaque action prend du t
 <!-- i18n:section:controls -->
 ### Commandes
 <!-- i18n:controls:keys -->
-- Touches (alignement)： `↑` `↓` `←` `→` `Spacebar` `W` `A` `S` `D` `F`
+- Touches (alignement)： `Arrow Keys` `↑` `↓` `←` `→` `Spacebar` `W` `A` `S` `D` `F`
 
 Les commandes restent proches des épisodes précédents et sont pensées pour partager un même clavier à deux.
 
@@ -91,4 +91,5 @@ Les commandes restent proches des épisodes précédents et sont pensées pour p
 <!-- i18n:faq:id=faq:bad-ice-cream-3:q-is-there-a-way-adf9c295 -->
 - **Q : Y a‑t‑il des vies ou des continues supplémentaires ?**
     - **R :** La plupart des versions te donnent un nombre fixe de vies. Une fois toutes perdues, tu dois recommencer le niveau ou la progression prévue par le jeu.
+
 

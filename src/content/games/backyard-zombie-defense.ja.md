@@ -27,6 +27,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Place` `Upgrade` `Sell`
 
 *   **移動：** WASDキー または 矢印キー
 *   **狙う/撃つ：** マウスで照準操作、左クリックで射撃
@@ -44,5 +46,6 @@ locale: ja
 <!-- i18n:faq:id=faq:backyard-zombie-defense:speed-toggle-3e55cb8a -->
 *   **ウェーブいくつまでありますか？**
     *   通常、エンドレスモードか、特定のウェーブ数（例：20〜50）を生き残ることが目標になります。後半は敵の数が圧倒的になるので、範囲攻撃できる武器が必須になります。
+
 
 

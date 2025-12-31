@@ -42,7 +42,7 @@ locale: ja
 <!-- i18n:section:controls -->
 ### 操作ガイド
 <!-- i18n:controls:keys -->
-- キー（整合）： `W` `Up Arrow` `Up Arrow` `W`
+- キー（整合）： `W` `Up Arrow` `Up Arrow` `W` `Tap`
 
 2人で1つのキーボードを使って遊べる、超シンプルなワンボタン操作です。
 
@@ -75,5 +75,6 @@ locale: ja
 <!-- i18n:faq:id=faq:basket-random:what-is-the-best-random-b388b359 -->
 **5. どのランダムパターンが強いですか？**  
 「腕が長い」「低重力」などは人気ですが、どの環境にも利点と欠点があります。自分が得意なパターンを見つけて練習しましょう。
+
 
 

@@ -45,6 +45,8 @@ komplexe Steuerung.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Tap` `Click`
 
 - **Schuss auslösen:** Tippe oder klicke, halte ggf. kurz für Kraftaufbau und
   lasse los, um den Ball in Richtung Korb zu schicken.
@@ -68,3 +70,4 @@ komplexe Steuerung.
 - **Beeinflusst Wind die Flugbahn?**  
   Wenn eine Windanzeige vorhanden ist, ziele leicht gegen die Windrichtung und
   passe den Bogen an, bis sich ein zuverlässiges Standard‑Setup ergibt.
+

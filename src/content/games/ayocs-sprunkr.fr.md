@@ -37,10 +37,12 @@ La prise en main reste ultra simple : tu sélectionnes des personnages et tu les
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Click` `Tap` `Drag` `Drop` `Click`
 
-- **Sélection :** `Click` ou `Tap` sur un personnage pour préécouter son son.
-- **Placement :** `Drag` puis `Drop` des personnages sur les emplacements de la scène pour les activer.
-- **Muet/Solo :** `Click` sur un personnage actif pour basculer en muet ou en solo.
+- **Sélection :** Click ou Tap sur un personnage pour préécouter son son.
+- **Placement :** Drag puis Drop des personnages sur les emplacements de la scène pour les activer.
+- **Muet/Solo :** Click sur un personnage actif pour basculer en muet ou en solo.
 
 <!-- i18n:section:faq -->
 ### Foire aux questions (FAQ)
@@ -52,3 +54,4 @@ La prise en main reste ultra simple : tu sélectionnes des personnages et tu les
 
 ### Pour conclure
 AYOCS Sprunkr est donc une évolution « mode » de Sprunki : même accessibilité, mais une direction artistique premium et des sons tout neufs pour donner à tes compositions un look et une vibe beaucoup plus tendances.
+

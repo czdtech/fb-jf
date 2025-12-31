@@ -64,6 +64,8 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作指南
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Mouse` `Click` `hold` `left` `button` `Drag` `mouse` `mouse` `Tap` `hold` `Drag`
 
 本作的操作非常直观，上手难度很低。
 
@@ -97,3 +99,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:faq:id=faq:ballistic:what-is-the-best-strategy-0308231c -->
 **5. 想冲高分，有什么核心思路？**
 关键在于“活得久 + 高效输出”：优先保证底部安全、防止被快速顶线；持续增加自己的弹球数量；并多利用墙面和隧道制造长时间弹射，一轮尽可能多清掉一大片方块。
+

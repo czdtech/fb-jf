@@ -67,7 +67,7 @@ Bad Time Simulator를 클리어하는 핵심은 공격보다 **지구력과 암�
 <!-- i18n:section:controls -->
 ### 조작 방법
 <!-- i18n:controls:keys -->
-- 키(정렬)： `↑` `↓` `←` `→` `Z` `Enter` `[FIGHT]` `X` `Shift` `Up Arrow`
+- 키(정렬)： `Arrow Keys` `↑` `↓` `←` `→` `Z` `Enter` `[FIGHT]` `X` `Shift` `Up Arrow`
 
 PC/브라우저 기준 기본 조작은 다음과 같습니다.
 
@@ -107,4 +107,5 @@ Simulator는 이 전투를 충실하게 재현하는 것을 목표로 하기 때
 **5. 원작과 어떤 차이가 있나요?**  
 버전에 따라 자잘한 차이는 있을 수 있지만, 전반적인 패턴 구조와 난이도는
 원작에 최대한 가깝게 재현되어 있습니다.
+
 

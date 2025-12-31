@@ -56,7 +56,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:section:controls -->
 ### 操作指南
 <!-- i18n:controls:keys -->
-- 按键（对齐）： `↑` `↓` `←` `→` `Spacebar` `W` `A` `S` `D` `F`
+- 按键（对齐）： `Arrow Keys` `↑` `↓` `←` `→` `Spacebar` `W` `A` `S` `D` `F`
 
 游戏使用同一键盘即可支持单人或双人：
 
@@ -82,3 +82,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:faq:id=faq:bad-ice-cream-2:q-how-does-the-2player-8a760ff7 -->
 *   **问：双人模式的命是分开的还是共享的？**
     *   **答：** 同屏合作游玩，通常会共享生命池——只要任意一名玩家被怪物抓到，就会扣除一条总生命值，所以更需要互相提醒与配合。
+

@@ -77,7 +77,7 @@ Abprall ablesen, wo der Ball landen wird.
 <!-- i18n:section:controls -->
 ### Steuerung
 <!-- i18n:controls:keys -->
-- Tasten (Abgleich)： `←` `→`
+- Tasten (Abgleich)： `mouse` `Left` `Right` `Arrow Keys` `←` `→` `Spacebar` `left` `click`
 
 Die Steuerung von Breakout ist legendär einfach.
 
@@ -104,4 +104,5 @@ Die Steuerung von Breakout ist legendär einfach.
 <!-- i18n:faq:id=faq:atari-breakout:q-where-can-i-play-d7aa3e3b -->
 *   **F: Wo kann ich Atari Breakout heute noch spielen?**
     *   **A:** Es gibt zahlreiche Web‑Versionen auf Retro‑ und Arcade‑Seiten. Viele Sammlungen klassischer Atari‑Spiele enthalten Breakout ebenfalls; zudem taucht das Spiel immer wieder als kleines Easter Egg in anderen Anwendungen auf.
+
 

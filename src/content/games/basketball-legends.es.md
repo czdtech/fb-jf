@@ -71,26 +71,28 @@ y entrar a canasta para un mate fácil o para quedar libre y tirar en suspensió
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `A` `D` `tap` `A` `D` `B` `S` `W` `V` `Left` `Right Arrow` `tap` `Left` `Right Arrow` `L` `Down Arrow` `Up Arrow` `K`
 
 El juego está optimizado para dos personas en un solo teclado.
 
 #### Controles del Jugador 1
 
-*   **Movimiento:** teclas `A` y `D`.  
-*   **Dash:** doble toque en `A` o `D`.  
-*   **Tiro / Mate:** tecla `B`.  
-*   **Pump / Robo:** tecla `S`.  
-*   **Salto:** tecla `W`.  
-*   **Super Shot:** tecla `V`.  
+*   **Movimiento:** teclas A y D.  
+*   **Dash:** doble toque en A o D.  
+*   **Tiro / Mate:** tecla B.  
+*   **Pump / Robo:** tecla S.  
+*   **Salto:** tecla W.  
+*   **Super Shot:** tecla V.  
 
 #### Controles del Jugador 2
 
-*   **Movimiento:** Flechas `←` y `→`.  
-*   **Dash:** doble toque en `←` o `→`.  
-*   **Tiro / Mate:** tecla `L`.  
-*   **Pump / Robo:** Flecha `↓`.  
-*   **Salto:** Flecha `↑`.  
-*   **Super Shot:** tecla `K`.  
+*   **Movimiento:** Flechas ← y →.  
+*   **Dash:** doble toque en ← o →.  
+*   **Tiro / Mate:** tecla L.  
+*   **Pump / Robo:** Flecha ↓.  
+*   **Salto:** Flecha ↑.  
+*   **Super Shot:** tecla K.  
 
 <!-- i18n:section:faq -->
 ### Preguntas frecuentes (FAQ)
@@ -121,4 +123,5 @@ Las diferencias son sobre todo estéticas, así que elige a tu leyenda favorita.
 **5. ¿Puedo pasar el balón en 2 vs 2?**  
 En la mayoría de versiones, el botón de tiro (`B` o `L`) actúa como pase cuando
 el compañero no tiene el balón.
+
 

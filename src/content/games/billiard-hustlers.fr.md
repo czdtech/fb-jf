@@ -33,6 +33,8 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Drag` `mouse`
 
 - **Visée :** déplace la souris pour orienter la queue.  
 - **Puissance :** tire le curseur de force en arrière puis relâche pour frapper.  
@@ -66,4 +68,5 @@ releaseDate: 2025-10-18T00:00:00.000Z
 -   **Q : Différences entre patterns 8‑ball et 9‑ball ?**
 
     **R :** En 8‑ball, on résout vite les billes problématiques et on planifie la fin de table. En 9‑ball, on suit l’ordre numérique et on trace des trajectoires naturelles entre chaque numéro consécutif.
+
 

@@ -66,7 +66,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:section:controls -->
 ### 操作指南
 <!-- i18n:controls:keys -->
-- 按键（对齐）： `W` `Up Arrow` `Up Arrow` `W`
+- 按键（对齐）： `W` `Up Arrow` `Up Arrow` `W` `Tap`
 
 本作的一大特色是“一键双人”：
 
@@ -101,4 +101,5 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:faq:id=faq:basket-random:what-is-the-best-random-b388b359 -->
 **问：有没有“最好用的随机形态”？**
 **答：** 没有绝对最佳，全部都是为了制造混乱。有的玩家喜欢长手臂形态，便于封盖和乱挥；有的觉得沉重的保龄球更有挑战；也有人偏爱冰场带来的滑行感。乐趣就在于适应当下随机到的那一套。
+
 

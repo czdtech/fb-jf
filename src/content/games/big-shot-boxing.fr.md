@@ -37,6 +37,8 @@ Chaque adversaire a son style : certains tapent très fort mais sont lents, d�
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `tap` `swipe` `Tap` `Tap` `Swipe` `Hold` `Swipe` `Hold` `Tap`
 
 (Varient selon la plateforme, mais généralement) :
 
@@ -65,4 +67,5 @@ Chaque adversaire a son style : certains tapent très fort mais sont lents, d�
 <!-- i18n:faq:id=faq:big-shot-boxing:how-does-the-big-shot-26d69f2e -->
 **Q : Comment se remplit la jauge “Big Shot” ?**  
 > Elle monte en touchant ton adversaire et en bloquant ses attaques. Les contres bien timés et les gros coups font grimper la jauge plus vite.
+
 

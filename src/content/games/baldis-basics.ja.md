@@ -54,7 +54,7 @@ locale: ja
 <!-- i18n:section:controls -->
 ### 操作ガイド
 <!-- i18n:controls:keys -->
-- キー（整合）： `W` `A` `S` `D` `Left-Shift` `Left Mouse Button` `Right Mouse Button` `Spacebar`
+- キー（整合）： `W` `A` `S` `D` `Mouse` `Left-Shift` `Hold` `Left` `Button` `Right` `Button` `Mouse` `Scroll` `Spacebar`
 
 標準的なPC FPSゲームの操作です。
 
@@ -93,3 +93,4 @@ locale: ja
 <!-- i18n:faq:id=faq:baldis-basics:i-collected-all-7-notebooks-0a8ec16c -->
 **Q: ゲームクリアの条件は？**  
 **A:** 7冊すべてのノートを集めた後、校内に出現する3つの「偽の出口」に順番に触れ、最後に開く4つ目の本物の出口から脱出する必要があります。バルディはこの時点で最速になるので、アイテムとルート管理が勝負です。
+

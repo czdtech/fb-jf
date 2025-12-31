@@ -46,6 +46,8 @@ Wirtschaftsmanagement entscheidet darüber, ob dein Garten überlebt.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Place` `Upgrade` `Sell`
 
 - **Türme setzen/verbessern/verkaufen:** Über die Benutzeroberfläche wählst du
   Turmtypen, platzierst sie auf den verfügbaren Feldern, führst Upgrades durch
@@ -72,3 +74,4 @@ Wirtschaftsmanagement entscheidet darüber, ob dein Garten überlebt.
   Viele Versionen bieten einen Schnellvorlauf, mit dem du langsame Wellen
   beschleunigen kannst. Achte aber darauf, ihn in kritischen Phasen wieder
   auszuschalten, damit du rechtzeitig reagieren kannst.
+

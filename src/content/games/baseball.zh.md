@@ -42,6 +42,8 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作指南
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Left` `Button` `Click` `Tap` `Tap`
 
 操作非常简单，几乎只需要在合适的时机完成一次挥棒，任何玩家都能快速上手。
 
@@ -74,3 +76,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:faq:id=faq:baseball:does-the-game-get-harder-3eb63b93 -->
 **5. 游戏难度会提升吗？**
 会。随着你得分越来越高，对方投手会使用更多种类的球路，球的速度变化也会变大，你必须不断调整自己的判断和节奏。
+

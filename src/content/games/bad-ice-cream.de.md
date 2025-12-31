@@ -66,7 +66,7 @@ Der Timer erzeugt Druck, aber Hektik kostet am schnellsten Leben. Arbeite dich A
 <!-- i18n:section:controls -->
 ### Steuerung
 <!-- i18n:controls:keys -->
-- Tasten (Abgleich)： `↑` `↓` `←` `→` `Spacebar` `W` `A` `S` `D` `F`
+- Tasten (Abgleich)： `Arrow Keys` `↑` `↓` `←` `→` `Spacebar` `W` `A` `S` `D` `F`
 
 Das Spiel ist darauf ausgelegt, dass zwei Personen bequem an einem Keyboard spielen.
 
@@ -95,4 +95,5 @@ Das Spiel ist darauf ausgelegt, dass zwei Personen bequem an einem Keyboard spie
 <!-- i18n:faq:id=faq:bad-ice-cream:q-how-does-the-2player-8a760ff7 -->
 *   **F: Wie funktioniert der 2‑Spieler‑Modus bei den Leben?**
     *   **A:** Beide Spieler teilen sich einen gemeinsamen Lebensvorrat. Wird einer erwischt, verliert das gesamte Team ein Leben.
+
 

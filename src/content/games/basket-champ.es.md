@@ -41,6 +41,8 @@ Tu objetivo es mantener rachas de aciertos para lograr puntuaciones altas.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Tap` `Click`
 
 - **Toque/Clic:** Mantén pulsado para cargar potencia y ajustar el arco y suelta
   para lanzar.
@@ -63,3 +65,4 @@ Tu objetivo es mantener rachas de aciertos para lograr puntuaciones altas.
 - **¿Hay viento u otros efectos?**  
   Algunas variantes pueden incluir fuerzas laterales; si es el caso, ajusta
   ligeramente el ángulo para compensarlas.
+

@@ -27,6 +27,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `WASD` `Arrows`
 
 *   **基本操作：** WASDキー / 矢印キーで移動し、マウスで狙って左クリックで射撃。アビリティは画面UIのホットキー（数字キーなど）で発動します。
 
@@ -35,8 +37,10 @@ locale: ja
 
 <!-- i18n:faq:id=faq:armored-assault-strike:i-melt-fastwhy-994e5bc4 -->
 *   **すぐにやられてしまいます。なぜ？**
-<!-- i18n:faq:id=faq:armored-assault-strike:ammo-limited-9be95bd9 -->
     *   開けた場所に長時間いませんか？ 遮蔽物を使い、敵との距離を保ちながら戦う「引き撃ち（カイト）」を徹底してください。
-<!-- i18n:faq:id=faq:armored-assault-strike:bosses-5a57d05f -->
+<!-- i18n:faq:id=faq:armored-assault-strike:ammo-limited-9be95bd9 -->
 *   **弾が足りなくなります。**
     *   弱い敵に無駄弾を使わないようにしましょう。正確に狙い、強力な敵のためにリソースを節約してください。
+<!-- i18n:faq:id=faq:armored-assault-strike:bosses-5a57d05f -->
+*   **ボス戦のコツはありますか？**
+    *   ボスは攻撃パターンを把握して回避を優先し、まずは周囲の取り巻きを片付けて安全な状況を作ってから攻めると安定します。

@@ -37,6 +37,8 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 조작 방법
+<!-- i18n:controls:keys -->
+- 키(정렬)： `Mouse` `Click` `hold` `left` `button` `Drag` `mouse` `mouse` `Tap` `hold` `Drag`
 
 조작은 플랫폼과 상관없이 직관적으로 설계되어 있습니다.
 
@@ -74,4 +76,5 @@ releaseDate: 2025-08-16T00:00:00.000Z
 **5. 하이스코어 비결은 무엇인가요?**
 
 생존 시간을 늘리고 추가 공을 지속적으로 확보한 뒤, 벽 반사를 이용한 연쇄 타격으로 위협 구역을 관리하는 것이 핵심입니다.
+
 

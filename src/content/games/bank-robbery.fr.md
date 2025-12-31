@@ -70,7 +70,7 @@ Le plan dépend fortement du camp choisi : les braqueurs doivent pénétrer, ten
 <!-- i18n:section:controls -->
 ### Commandes
 <!-- i18n:controls:keys -->
-- Touches (alignement)： `W` `A` `S` `D` `Left Mouse Button` `Right Mouse Button` `R` `Left-Shift` `Spacebar` `E` `F` `1` `2` `3` `C`
+- Touches (alignement)： `W` `A` `S` `D` `Mouse` `Left` `Button` `Right` `Button` `R` `Left-Shift` `Spacebar` `E` `F` `enter` `1` `2` `3` `C`
 
 Contrôles typiques d’un FPS PC (souvent basé sur Roblox ou navigateur) :
 
@@ -112,4 +112,5 @@ Il n’existe pas de route unique. Combine entrées latérales, accès au toit e
 **5. Peut-on changer de camp en cours de partie ?**
 
 En règle générale, l’équipe est verrouillée avant le début du round pour conserver l’équilibre. Il faut attendre la manche suivante pour rejoindre l’autre camp.
+
 

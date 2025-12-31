@@ -67,6 +67,8 @@ Aunque solo usas un botón, dominarlo exige concentración y buena sincronizaci�
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Left` `Button` `Click` `Tap` `Tap`
 
 Los controles no pueden ser más accesibles.
 
@@ -107,4 +109,5 @@ mismo equipo; no hay diferencias jugables entre ellos.
 Sí. Cuantas más carreras haces, más variado y exigente se vuelve el repertorio
 de lanzamientos: rectas más rápidas y curvas más engañosas que ponen a prueba
 tu sincronización.
+
 
