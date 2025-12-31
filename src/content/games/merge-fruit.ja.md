@@ -1,13 +1,15 @@
 ---
-title: "Merge Fruit"
-description: "Merge Fruitはフルーツを育てていくマージパズルです。同じフルーツを合体させて大きくし、ボードが埋まらないように整理します。"
-iframeSrc: "https://3eltb7i874s60.h5games.usercontent.goog/v/28f34ighqoh10/"
+title: Merge Fruit
+description: Merge Fruitはフルーツを育てていくマージパズルです。同じフルーツを合体させて大きくし、ボードが埋まらないように整理します。
+iframeSrc: 'https://3eltb7i874s60.h5games.usercontent.goog/v/28f34ighqoh10/'
 thumbnail: /new-images/thumbnails/merge-fruit.png
-urlstr: "merge-fruit"
-score: "4.1/5  (1957 votes)"
-tags: ["puzzle", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: merge-fruit
+score: 4.1/5  (1957 votes)
+tags:
+  - puzzle
+  - casual
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +19,7 @@ locale: ja
 Merge Fruitは、同じフルーツをマージして上位のフルーツを作るシンプルなパズルです。ボードがいっぱいになる前に整理しながらマージを重ね、スコアを伸ばしていきます。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **大きくマージ:** 大きなマージを狙うほど得点が伸びやすいです。

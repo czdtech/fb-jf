@@ -1,13 +1,15 @@
 ---
-title: "Jewel Halloween"
-description: "Jewel Halloweenは不気味なマッチ3です。宝石をスワップし、カスケードをトリガーし、ステージ目標をクリアします。"
-iframeSrc: "https://0gk3ormb878mg.h5games.usercontent.goog/v/1qgqb91tuaqv0/"
+title: Jewel Halloween
+description: Jewel Halloweenは不気味なマッチ3です。宝石をスワップし、カスケードをトリガーし、ステージ目標をクリアします。
+iframeSrc: 'https://0gk3ormb878mg.h5games.usercontent.goog/v/1qgqb91tuaqv0/'
 thumbnail: /new-images/thumbnails/jewel-halloween.png
-urlstr: "jewel-halloween"
-score: "4.1/5  (1942 votes)"
-tags: ["puzzle", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: jewel-halloween
+score: 4.1/5  (1942 votes)
+tags:
+  - puzzle
+  - casual
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +19,7 @@ locale: ja
 Jewel Halloweenはハロウィンテーマのマッチ3パズルです。隣接する宝石を入れ替えて3つ以上をそろえ、パワー宝石を作りながら、スコア到達・手数制限・障害物の除去などの目標を達成します。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  下部から作業してカスケードをトリガーします。

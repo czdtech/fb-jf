@@ -1,13 +1,16 @@
 ---
-title: "Emoji With Friends 絵文字ウィズフレンズ"
-description: "「Emoji With Friends」は気軽に遊べるパーティー系パズル。絵文字をマッチさせて推理し、友達と競いながらテンポよく遊べます。"
-iframeSrc: "https://2gtc787tjm7c8.h5games.usercontent.goog/v/5lfna7ldlrun8/"
+title: Emoji With Friends 絵文字ウィズフレンズ
+description: 「Emoji With Friends」は気軽に遊べるパーティー系パズル。絵文字をマッチさせて推理し、友達と競いながらテンポよく遊べます。
+iframeSrc: 'https://2gtc787tjm7c8.h5games.usercontent.goog/v/5lfna7ldlrun8/'
 thumbnail: /new-images/thumbnails/emoji-with-friends.png
-urlstr: "emoji-with-friends"
-score: "3.9/5  (1517 votes)"
-tags: ["puzzle", "casual", "2 player"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: emoji-with-friends
+score: 3.9/5  (1517 votes)
+tags:
+  - puzzle
+  - casual
+  - 2 player
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -18,6 +21,7 @@ locale: ja
 モードによってはセットをつなげたり、ミニ目標を達成したり、相手より早くボードを解いたりします。短いラウンドと分かりやすい見た目で取っつきやすく、気軽に盛り上がれます。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲーム攻略と戦略
 
 1.  **パターンをスキャン:** 頻繁に出現する絵文字セットを見つけて、素早くチェーンを作りましょう。

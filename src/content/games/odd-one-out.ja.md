@@ -10,7 +10,7 @@ tags:
   - thinky
   - casual
 developer: ''
-releaseDate: 2025-10-18
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -20,6 +20,7 @@ locale: ja
 Odd One Outは、アイテムのグループから異なるものを見つけることに挑戦します。各レベルは、わずかに異なるまたは異なるカテゴリに属する1つのアイテムのセットを提示します。観察スキルと素早い思考をテストします。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **素早くスキャン:** すべてのアイテムを素早く見ます。

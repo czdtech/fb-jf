@@ -1,13 +1,15 @@
 ---
-title: "Lake Jump"
-description: "Lake Jumpはワンタップタイミングゲームです。プラットフォームを飛び越え、落下を避け、完璧なジャンプを連鎖させます。"
-iframeSrc: "https://lakejump.h5games.usercontent.goog/v/33bg3iluek1fg/"
+title: Lake Jump
+description: Lake Jumpはワンタップタイミングゲームです。プラットフォームを飛び越え、落下を避け、完璧なジャンプを連鎖させます。
+iframeSrc: 'https://lakejump.h5games.usercontent.goog/v/33bg3iluek1fg/'
 thumbnail: /new-images/thumbnails/lake-jump.png
-urlstr: "lake-jump"
-score: "3.7/5  (1276 votes)"
-tags: ["action", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: lake-jump
+score: 3.7/5  (1276 votes)
+tags:
+  - action
+  - casual
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -19,6 +21,7 @@ locale: ja
 Lake Jumpは、タップのタイミングだけで進むシンプルなジャンプゲームです。動く/間隔のある足場に着地するタイミングを合わせ、リズムを崩さずに水へ落ちないよう連続ジャンプを伸ばします。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  リズムを刻む：一定のテンポで跳んで、タイミングを安定させます。

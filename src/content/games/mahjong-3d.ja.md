@@ -1,13 +1,17 @@
 ---
-title: "Mahjong 3D"
-description: "3Dで遊べる麻雀ソリティアです。パズルを回転させてフリータイルのペアを見つけ、盤面をクリアします。"
-iframeSrc: "https://mahjong3d.h5games.usercontent.goog/v/eba0837e-4855-4bb2-b762-5dd6d8982cac/"
+title: Mahjong 3D
+description: 3Dで遊べる麻雀ソリティアです。パズルを回転させてフリータイルのペアを見つけ、盤面をクリアします。
+iframeSrc: >-
+  https://mahjong3d.h5games.usercontent.goog/v/eba0837e-4855-4bb2-b762-5dd6d8982cac/
 thumbnail: /new-images/thumbnails/mahjong-3d.jpg
-urlstr: "mahjong-3d"
-score: "4.5/5  (2400 votes)"
-tags: ["puzzle", "thinky", "casual"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: mahjong-3d
+score: 4.5/5  (2400 votes)
+tags:
+  - puzzle
+  - thinky
+  - casual
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 locale: ja
 ---
 
@@ -19,6 +23,7 @@ locale: ja
 Mahjong 3Dは、麻雀ソリティアを3Dの立体配置で遊べるタイルマッチゲームです。タイルは回転可能な立体構造に積み重ねられており、同じ絵柄でブロックされていない（フリーな）ペアを見つけて消していきます。視点を変えることで見え方が変わるため、盤面を回転させて全体を把握することが重要です。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **盤面を回して確認する:** 死角にペアが隠れることがあります。動かす前に360°回転させて、候補と詰まりやすい部分を確認しましょう。

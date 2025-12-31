@@ -1,13 +1,16 @@
 ---
-title: "Jigsaw Puzzle Deluxe"
-description: "画像を選んでピースを組み立てるクラシックなジグソーパズルです。難易度（ピース数）を選べます。"
-iframeSrc: "https://jigsawpuzzledeluxe.h5games.usercontent.goog/v/5jfat3ipu2790/"
+title: Jigsaw Puzzle Deluxe
+description: 画像を選んでピースを組み立てるクラシックなジグソーパズルです。難易度（ピース数）を選べます。
+iframeSrc: 'https://jigsawpuzzledeluxe.h5games.usercontent.goog/v/5jfat3ipu2790/'
 thumbnail: /new-images/thumbnails/jigsaw-puzzle-deluxe.png
-urlstr: "jigsaw-puzzle-deluxe"
-score: "4.6/5  (3200 votes)"
-tags: ["puzzle", "casual", "thinky"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: jigsaw-puzzle-deluxe
+score: 4.6/5  (3200 votes)
+tags:
+  - puzzle
+  - casual
+  - thinky
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +20,7 @@ locale: ja
 Jigsaw Puzzle Deluxeは、画像を選んでピースを組み立てるジグソーパズルです。さまざまなカテゴリの画像が用意されており、難易度（ピース数）を選べます。散らばったピースを正しく組み合わせて、元の画像を完成させるのが目的です。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **最初にフレームを構築する:** クラシックで非常に効果的なジグソー戦略は、すべてのエッジとコーナーピースを見つけることから始めることです。最初にパズルの境界線を組み立てることで、作業できる明確なフレームが提供されます。

@@ -1,13 +1,17 @@
 ---
-title: "Gin Rummy"
-description: "クラシックカードゲーム、ジン・ラミーをプレイしましょう。カードをセットやラン（連番）にまとめ、ノックしてラウンドを終わらせ、手札にデッドウッド（未完成のカード）を抱えた対戦相手を出し抜きましょう。"
-iframeSrc: "https://ginrummy.h5games.usercontent.goog/v/1sj72j2nsfin0/"
+title: Gin Rummy
+description: >-
+  クラシックカードゲーム、ジン・ラミーをプレイしましょう。カードをセットやラン（連番）にまとめ、ノックしてラウンドを終わらせ、手札にデッドウッド（未完成のカード）を抱えた対戦相手を出し抜きましょう。
+iframeSrc: 'https://ginrummy.h5games.usercontent.goog/v/1sj72j2nsfin0/'
 thumbnail: /new-images/thumbnails/gin-rummy.png
-urlstr: "gin-rummy"
-score: "4.7/5  (2800 votes)"
-tags: ["card", "puzzle", "thinky"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: gin-rummy
+score: 4.7/5  (2800 votes)
+tags:
+  - card
+  - puzzle
+  - thinky
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +21,7 @@ locale: ja
 ジン・ラミーは、ラミーファミリーに属するクラシックな2人対戦カードゲームです。目的は、手札を「メルド」と呼ばれる有効な組み合わせ（同じランクのセット、または同じスートのラン）にすることです。ラウンド終了時に、対戦相手よりも「デッドウッド」（メルドされていないカード）を少なくしてポイントを獲得することを目指します。対戦相手が何を捨てたかに細心の注意を払う必要がある、スキル、戦略、そして記憶のゲームです。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **目標:** 10枚の手札でメルドを作り、デッドウッド（未完成カード）の値が10以下になったら「ノック」することです。

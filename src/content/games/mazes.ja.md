@@ -1,13 +1,16 @@
 ---
-title: "Mazes"
-description: "Mazesは挑戦的なパスファインディングゲームです。複数の迷路をナビゲートし、障害物を避け、効率的に出口を見つけます。"
-iframeSrc: "https://1ivu76rhffpsg.h5games.usercontent.goog/v/00icu4vi09j18/"
+title: Mazes
+description: Mazesは挑戦的なパスファインディングゲームです。複数の迷路をナビゲートし、障害物を避け、効率的に出口を見つけます。
+iframeSrc: 'https://1ivu76rhffpsg.h5games.usercontent.goog/v/00icu4vi09j18/'
 thumbnail: /new-images/thumbnails/mazes.jpg
-urlstr: "mazes"
-score: "4.0/5  (1894 votes)"
-tags: ["puzzle", "thinky", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: mazes
+score: 4.0/5  (1894 votes)
+tags:
+  - puzzle
+  - thinky
+  - casual
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +20,7 @@ locale: ja
 Mazesは、複数の迷路を解決することに挑戦するパズルゲームです。各迷路は、障害物、行き止まり、複雑なパスでより困難になります。目標は、最小限の時間または移動で出口を見つけることです。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **全体像を見る:** 移動する前に迷路全体をスキャンします（可能な場合）。

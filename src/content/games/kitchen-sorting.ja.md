@@ -1,13 +1,16 @@
 ---
-title: "Kitchen Sorting"
-description: "Kitchen Sortingは整頓された分類パズルゲームです。時間のプレッシャーの下で食品、道具、廃棄物を正しく分類し、交差汚染を避けましょう。"
-iframeSrc: "https://757entlesmh4g.h5games.usercontent.goog/v/1r9oimecfevc0/"
+title: Kitchen Sorting
+description: Kitchen Sortingは整頓された分類パズルゲームです。時間のプレッシャーの下で食品、道具、廃棄物を正しく分類し、交差汚染を避けましょう。
+iframeSrc: 'https://757entlesmh4g.h5games.usercontent.goog/v/1r9oimecfevc0/'
 thumbnail: /new-images/thumbnails/kitchen-sorting.png
-urlstr: "kitchen-sorting"
-score: "3.9/5  (1744 votes)"
-tags: ["puzzle", "thinky", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: kitchen-sorting
+score: 3.9/5  (1744 votes)
+tags:
+  - puzzle
+  - thinky
+  - casual
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +20,7 @@ locale: ja
 Kitchen Sortingは、流れてくるアイテムを正しい箱へ仕分けるテンポの良い分類パズルです。野菜と肉、リサイクルとゴミ、清潔な道具と汚れた道具、常温と冷蔵など、ルールを見分けて素早く振り分けます。ステージが進むと表示が紛らわしくなり（例：調理済み/生）、安全なアイテムを連続で仕分けるコンボ目標や、誤配置・遅延へのペナルティも加わります。複数のコンベアが同時に動き、交差汚染に厳しい衛生ルールが適用されるほど難しくなります。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **重要なルールを最優先:** 細かい分類より先に、衛生上の分け方（生肉とすぐ食べられるものなど）を優先しましょう。

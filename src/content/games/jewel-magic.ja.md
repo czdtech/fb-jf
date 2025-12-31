@@ -1,13 +1,16 @@
 ---
-title: "Jewel Magic"
-description: "宝石を入れ替えてそろえるクラシックなマッチ3パズルです。特殊宝石や連鎖を使って、各レベルの目標を達成します。"
-iframeSrc: "https://jewelmagic.h5games.usercontent.goog/v/55vd8l21hn1q8/"
+title: Jewel Magic
+description: 宝石を入れ替えてそろえるクラシックなマッチ3パズルです。特殊宝石や連鎖を使って、各レベルの目標を達成します。
+iframeSrc: 'https://jewelmagic.h5games.usercontent.goog/v/55vd8l21hn1q8/'
 thumbnail: /new-images/thumbnails/jewel-magic.png
-urlstr: "jewel-magic"
-score: "4.4/5  (2150 votes)"
-tags: ["puzzle", "casual", "action"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: jewel-magic
+score: 4.4/5  (2150 votes)
+tags:
+  - puzzle
+  - casual
+  - action
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +20,7 @@ locale: ja
 Jewel Magicは、宝石を入れ替えて3つ以上をそろえるマッチ3パズルゲームです。各レベルにはスコア到達や障害物の除去などの目標があり、手数制限の中で達成していきます。4つ・5つ消しで特殊宝石を作っておくと、盤面を大きく動かしやすくなります。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **特別な宝石をマスターする:** 最も困難なレベルをパスするには、特別な宝石を作成して利用する必要があります。これらは、一度に3つ以上の宝石をマッチすることで形成されます：

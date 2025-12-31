@@ -1,13 +1,16 @@
 ---
-title: "Go Escape"
-description: "Go Escapeは精密な脱出プラットフォーマーです。ジャンプのタイミングを計り、罠を読み、コンパクトな部屋の中の安全なルートを通り抜けましょう。"
-iframeSrc: "https://1muicq0oght78.h5games.usercontent.goog/v/1aim9ophd8cdg/"
+title: Go Escape
+description: Go Escapeは精密な脱出プラットフォーマーです。ジャンプのタイミングを計り、罠を読み、コンパクトな部屋の中の安全なルートを通り抜けましょう。
+iframeSrc: 'https://1muicq0oght78.h5games.usercontent.goog/v/1aim9ophd8cdg/'
 thumbnail: /new-images/thumbnails/go-escape.png
-urlstr: "go-escape"
-score: "4.0/5  (1833 votes)"
-tags: ["puzzle", "escape", "action"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: go-escape
+score: 4.0/5  (1833 votes)
+tags:
+  - puzzle
+  - escape
+  - action
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +20,7 @@ locale: ja
 Go Escapeは、ミニマリストな部屋脱出プラットフォーマーです。トゲ、動くノコギリ、時間制限のあるゲートなどが、キレのある入力と忍耐強い読みを要求します。レベルは短いですが過酷です。各部屋のリズムをマスターし、完璧なラン（走り）を実行することに楽しさがあります。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **周期を読む**: 動く前に罠の完全な周期（サイクル）を観察しましょう。予測可能な拍子で移動します。

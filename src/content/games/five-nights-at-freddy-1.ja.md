@@ -1,13 +1,15 @@
 ---
-title: "Five Nights at Freddy's 1 (FNAF 1)"
-description: "ピザ屋でのホラーサバイバル：カメラを監視し、電力を節約し、ドアやライトを操作して、5日間の夜（そしてそれ以降）をアニマトロニクスから守り抜きましょう。"
-iframeSrc: "https://ubg77.github.io/fix/fnaf1/"
+title: Five Nights at Freddy's 1 (FNAF 1)
+description: ピザ屋でのホラーサバイバル：カメラを監視し、電力を節約し、ドアやライトを操作して、5日間の夜（そしてそれ以降）をアニマトロニクスから守り抜きましょう。
+iframeSrc: 'https://ubg77.github.io/fix/fnaf1/'
 thumbnail: /new-images/thumbnails/five-nights-at-freddy-1.jpg
-urlstr: "five-nights-at-freddy-1"
-score: "4.3/5  (370 votes)"
-tags: ["horror", "strategy"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: five-nights-at-freddy-1
+score: 4.3/5  (370 votes)
+tags:
+  - horror
+  - strategy
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -25,6 +27,7 @@ locale: ja
 ### 操作方法
 - マウス/UIでカメラ、ライト、ドアを操作します。Escキーで一時停止（ホストによります）。
 
+<!-- i18n:section:tips -->
 ### ヒント
 - フォクシーがいるパイレーツ・コーブ（英: Pirate Cove）の習性を学びましょう。覗き込む頻度がリスクの合図です。
 - カメラを見続けないようにしましょう。短く、目的を持ってチェックすることで電力を節約できます。

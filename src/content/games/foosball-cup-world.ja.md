@@ -1,13 +1,18 @@
 ---
-title: "Foosball Cup World"
-description: "Foosball Cup Worldは、スピーディーなテーブルサッカーを提供します。角度をつけたショット、回転のタイミング、そして白熱した試合での賢いディフェンスが鍵となります。"
-iframeSrc: "https://7ak26cf4bf850.h5games.usercontent.goog/v/6jmmp78dbnp50/"
+title: Foosball Cup World
+description: >-
+  Foosball Cup
+  Worldは、スピーディーなテーブルサッカーを提供します。角度をつけたショット、回転のタイミング、そして白熱した試合での賢いディフェンスが鍵となります。
+iframeSrc: 'https://7ak26cf4bf850.h5games.usercontent.goog/v/6jmmp78dbnp50/'
 thumbnail: /new-images/thumbnails/foosball-cup-world.png
-urlstr: "foosball-cup-world"
-score: "4.0/5  (1852 votes)"
-tags: ["sports", "soccer", "2 player"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: foosball-cup-world
+score: 4.0/5  (1852 votes)
+tags:
+  - sports
+  - soccer
+  - 2 player
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +22,7 @@ locale: ja
 Foosball Cup Worldは、反応の良いロッドと切れのあるボール物理挙動を備えた、クイックなテーブルサッカーシミュレーションです。攻撃は角度をつけたパス、スナップショット、タイミングの良い回転に依存し、防御はレーンのカバーとクロスショットの遮断が重要です。試合は短く、激しい攻防の中で正確なコントロールが求められます。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **ショートパス**: 隣接する列の間にボールを軽く押し出し、スナップショットを決めましょう。

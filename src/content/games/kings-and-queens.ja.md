@@ -1,13 +1,16 @@
 ---
-title: "Kings and Queens"
-description: "Kings and Queensは王室のマッチ3アドベンチャーです。障害物をクリアし、ブースターをアンロックし、賢い計画で王室のホールを復元します。"
-iframeSrc: "https://0ptbttt09g5cg.h5games.usercontent.goog/v/6c7l9okboa1u0/"
+title: Kings and Queens
+description: Kings and Queensは王室のマッチ3アドベンチャーです。障害物をクリアし、ブースターをアンロックし、賢い計画で王室のホールを復元します。
+iframeSrc: 'https://0ptbttt09g5cg.h5games.usercontent.goog/v/6c7l9okboa1u0/'
 thumbnail: /new-images/thumbnails/kings-and-queens.png
-urlstr: "kings-and-queens"
-score: "4.0/5  (1892 votes)"
-tags: ["puzzle", "casual", "thinky"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: kings-and-queens
+score: 4.0/5  (1892 votes)
+tags:
+  - puzzle
+  - casual
+  - thinky
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +20,7 @@ locale: ja
 Kings and Queensは、クラシックなマッチ3に城の改装ストーリーを組み合わせたパズルです。各章でチェーンや大理石スラブ、霧といったブロッカーや、クラウンの回収・シールの破壊などの目標が登場します。集めたスターで部屋を改装し、難しいステージに備えてブースターをアンロックしていきます。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  盤面の整理：コンボの余地を作るため、まずは中央のブロッカーを優先して壊します。

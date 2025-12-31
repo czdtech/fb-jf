@@ -1,13 +1,16 @@
 ---
-title: "Dice Puzzle ダイス・パズル"
-description: "「Dice Puzzle」は脳を刺激するダイス合体パズル。3つの同じサイコロを揃えて数を増やし、魔法のジュエルキューブを目指せ。盤面が埋まるまでの生存競争。"
-iframeSrc: "https://0vfcifju4i900.h5games.usercontent.goog/v/2jg90liogd5f8/"
+title: Dice Puzzle ダイス・パズル
+description: 「Dice Puzzle」は脳を刺激するダイス合体パズル。3つの同じサイコロを揃えて数を増やし、魔法のジュエルキューブを目指せ。盤面が埋まるまでの生存競争。
+iframeSrc: 'https://0vfcifju4i900.h5games.usercontent.goog/v/2jg90liogd5f8/'
 thumbnail: /new-images/thumbnails/dice-puzzle.jpg
-urlstr: "dice-puzzle"
-score: "4.4/5  (2100 votes)"
-tags: ["puzzle", "thinky", "casual"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: dice-puzzle
+score: 4.4/5  (2100 votes)
+tags:
+  - puzzle
+  - thinky
+  - casual
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 locale: ja
 ---
 
@@ -19,6 +22,7 @@ locale: ja
 最終目標は、「6」のサイコロを3つ合体させて「ジュエルキューブ（宝石）」を作ること。これを使うと周囲のブロックを爆破できます。盤面がいっぱいになり、サイコロが置けなくなるとゲームオーバーです。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲーム攻略と戦略
 
 1.  **マージの基本:** 縦または横に、同じ目のサイコロを3つ以上並べると、その場所で1段階上の数字のサイコロ1個に合体します。

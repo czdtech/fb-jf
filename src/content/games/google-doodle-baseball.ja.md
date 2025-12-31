@@ -1,13 +1,16 @@
 ---
-title: "Google Doodle Baseball"
-description: "Googleの独立記念日Doodleから生まれたピックアップバッティングゲーム：スイングのタイミングを計り、隙間を狙って、アウトになる前に得点を積み重ねましょう。"
-iframeSrc: "https://freeonlinegames.github.io/fourth-of-july-2019.html"
+title: Google Doodle Baseball
+description: >-
+  Googleの独立記念日Doodleから生まれたピックアップバッティングゲーム：スイングのタイミングを計り、隙間を狙って、アウトになる前に得点を積み重ねましょう。
+iframeSrc: 'https://freeonlinegames.github.io/fourth-of-july-2019.html'
 thumbnail: /new-images/thumbnails/google-doodle-baseball.jpg
-urlstr: "google-doodle-baseball"
-score: "4.4/5  (1154 votes)"
-tags: ["sports", "arcade"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: google-doodle-baseball
+score: 4.4/5  (1154 votes)
+tags:
+  - sports
+  - arcade
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -25,6 +28,7 @@ Googleの遊び心あふれる野球Doodleでは、あなたはバッターと�
 ### 操作方法
 - タップ/クリック/スペースキーでスイングします。
 
+<!-- i18n:section:tips -->
 ### ヒント
 - 予測で振らないでください。リリースとコースに反応しましょう。
 - わずかに遅れて当てると、内野手を越える逆方向へのヒットになりやすいです。

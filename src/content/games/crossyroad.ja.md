@@ -10,7 +10,7 @@ tags:
   - casual
   - endless
 developer: Hipster Whale
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 locale: ja
 ---
 
@@ -29,6 +29,7 @@ locale: ja
  
 ---
  
+<!-- i18n:section:tips -->
 ### 攻略とコツ
  
 -  **焦らずリズムを掴む:** 無闇に連打せず、交通や丸太の流れを観察して安全なタイミングで進みましょう。

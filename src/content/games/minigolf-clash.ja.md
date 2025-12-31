@@ -1,13 +1,16 @@
 ---
-title: "Minigolf Clash"
-description: "Minigolf Clashは対戦要素のあるミニゴルフです。相手と競いながら、正確なショットでスコアを伸ばします。"
-iframeSrc: "https://7a8e5urbht3f8.h5games.usercontent.goog/v/2ptudqjkva98g/"
+title: Minigolf Clash
+description: Minigolf Clashは対戦要素のあるミニゴルフです。相手と競いながら、正確なショットでスコアを伸ばします。
+iframeSrc: 'https://7a8e5urbht3f8.h5games.usercontent.goog/v/2ptudqjkva98g/'
 thumbnail: /new-images/thumbnails/minigolf-clash.png
-urlstr: "minigolf-clash"
-score: "4.0/5  (1711 votes)"
-tags: ["sports", "2 player", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: minigolf-clash
+score: 4.0/5  (1711 votes)
+tags:
+  - sports
+  - 2 player
+  - casual
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +20,7 @@ locale: ja
 Minigolf Clashは、ミニゴルフに対戦要素を加えたゲームです。他のプレイヤーと競い、コースの癖を読んでスコアを伸ばします。各コースには独自のギミックがあり、精度と判断が問われます。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **ショットを予測:** ボールの経路を視覚化し、壁を使うときは約45°のバンクも意識します。

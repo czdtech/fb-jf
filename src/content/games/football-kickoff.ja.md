@@ -1,13 +1,17 @@
 ---
-title: "Football Kickoff"
-description: "Football Kickoffはスペシャルチームに焦点を当てています。キックの狙いを定め、風を読み、巧みなパワーコントロールでフィールドポジションを確保しましょう。"
-iframeSrc: "https://30sab7l7n7df0.h5games.usercontent.goog/v/5c7k7dlnf1c5g/"
+title: Football Kickoff
+description: >-
+  Football
+  Kickoffはスペシャルチームに焦点を当てています。キックの狙いを定め、風を読み、巧みなパワーコントロールでフィールドポジションを確保しましょう。
+iframeSrc: 'https://30sab7l7n7df0.h5games.usercontent.goog/v/5c7k7dlnf1c5g/'
 thumbnail: /new-images/thumbnails/football-kickoff.jpg
-urlstr: "football-kickoff"
-score: "3.8/5  (1709 votes)"
-tags: ["sports", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: football-kickoff
+score: 3.8/5  (1709 votes)
+tags:
+  - sports
+  - casual
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +21,7 @@ locale: ja
 Football Kickoffは、アメリカンフットボールのキッキングシナリオに焦点を当てています。プレースキックでのフィールドゴール、方向を指定するキックオフ、そして時折のパント。風、スナップのタイミング、レース（ボールの縫い目）が重要です。パワーメーターの正確なタイミングと正しい狙いが、距離と精度を決定します。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **風を読む**: 風上に向かって狙いをずらしましょう。風が強いほど、大きな補正が必要です。

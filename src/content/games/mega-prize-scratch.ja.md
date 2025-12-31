@@ -1,13 +1,15 @@
 ---
-title: "Mega Prize Scratch"
-description: "Mega Prize Scratchはスクラッチカード風のミニゲームです。カードを削ってシンボルを確認し、結果を楽しみます。"
-iframeSrc: "https://3a38lqtqled1o.h5games.usercontent.goog/v/37llbljplv5v0/"
+title: Mega Prize Scratch
+description: Mega Prize Scratchはスクラッチカード風のミニゲームです。カードを削ってシンボルを確認し、結果を楽しみます。
+iframeSrc: 'https://3a38lqtqled1o.h5games.usercontent.goog/v/37llbljplv5v0/'
 thumbnail: /new-images/thumbnails/mega-prize-scratch.png
-urlstr: "mega-prize-scratch"
-score: "3.6/5  (1538 votes)"
-tags: ["casual", "novelty"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: mega-prize-scratch
+score: 3.6/5  (1538 votes)
+tags:
+  - casual
+  - novelty
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +19,7 @@ locale: ja
 Mega Prize Scratchは、スクラッチカード風の遊びをデジタルで楽しめるゲームです。カード表面を削って隠れたシンボルを確認し、結果を楽しみます。結果は運に左右されるため、気軽に遊べる内容です。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **完全にスクラッチ:** すべてのシンボルが明らかになるまでカード全体をスクラッチします。

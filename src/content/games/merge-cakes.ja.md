@@ -9,7 +9,7 @@ tags:
   - puzzle
   - casual
 developer: ''
-releaseDate: 2025-10-17
+releaseDate: 2025-10-17T00:00:00.000Z
 locale: ja
 ---
 
@@ -19,6 +19,7 @@ locale: ja
 Merge Cakesは、ケーキやデザートをマージして育てていくパズルです。同じケーキを重ねて上位のデザートを作り、レベル目標を達成しながら新しいレシピをアンロックしていきます。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **スマートにマージ:** 5つのチェーンマージは、3つのマージよりも良い報酬を与えます。

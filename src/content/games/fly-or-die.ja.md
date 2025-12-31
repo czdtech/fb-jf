@@ -1,13 +1,16 @@
 ---
-title: "Fly or Die"
-description: "進化サバイバル（.io）：正しい食べ物を食べて食物連鎖を進化させながら、空や地上のバイオームで捕食者や危険を回避しましょう。"
-iframeSrc: "https://app-96679.games.s3.yandex.net/96679/jshypemnvrae6bchv5d2nej2892owe69/index.html"
+title: Fly or Die
+description: 進化サバイバル（.io）：正しい食べ物を食べて食物連鎖を進化させながら、空や地上のバイオームで捕食者や危険を回避しましょう。
+iframeSrc: >-
+  https://app-96679.games.s3.yandex.net/96679/jshypemnvrae6bchv5d2nej2892owe69/index.html
 thumbnail: /new-images/thumbnails/fly-or-die.jpg
-urlstr: "fly-or-die"
-score: "4.6/5  (260 votes)"
-tags: ["survival", "io"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: fly-or-die
+score: 4.6/5  (260 votes)
+tags:
+  - survival
+  - io
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -25,6 +28,7 @@ locale: ja
 ### 操作方法
 - マウス/キーボードで移動・飛行します。ブーストキーはホストによって異なります。
 
+<!-- i18n:section:tips -->
 ### ヒント
 - 混雑したゾーンの端で安全に食事をしましょう。捕食者と争ってはいけません。
 - 食物連鎖を記憶して、アップグレードを素早く進めるルートを構築しましょう。

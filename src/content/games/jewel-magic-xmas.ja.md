@@ -1,13 +1,16 @@
 ---
-title: "Jewel Magic Xmas"
-description: "クリスマス風のマッチ3パズルです。オーナメントなどを入れ替えてそろえ、レベル目標を達成します。"
-iframeSrc: "https://jewelmagicxmas.h5games.usercontent.goog/v/19095ne8tscfg/"
+title: Jewel Magic Xmas
+description: クリスマス風のマッチ3パズルです。オーナメントなどを入れ替えてそろえ、レベル目標を達成します。
+iframeSrc: 'https://jewelmagicxmas.h5games.usercontent.goog/v/19095ne8tscfg/'
 thumbnail: /new-images/thumbnails/jewel-magic-xmas.png
-urlstr: "jewel-magic-xmas"
-score: "4.4/5  (2200 votes)"
-tags: ["puzzle", "casual", "action"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: jewel-magic-xmas
+score: 4.4/5  (2200 votes)
+tags:
+  - puzzle
+  - casual
+  - action
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +20,7 @@ locale: ja
 Jewel Magic Xmasは、クリスマス風の演出が入ったマッチ3パズルです。オーナメント、キャンディケイン、ベルなどを入れ替えて3つ以上をそろえ、各レベルの目標を達成します。4つ・5つ消しで特殊アイテムを作ると、一気消しや連鎖につなげやすくなります。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **フェスティブパワーアップ:** ボードをクリアする鍵は、3つ以上のオーナメントをマッチして特別なアイテムを作成することです。

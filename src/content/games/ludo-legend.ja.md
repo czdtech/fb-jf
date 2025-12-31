@@ -1,13 +1,16 @@
 ---
-title: "Ludo Legend"
-description: "ルドーをデジタルで遊べるボードゲームです。ダイスを振ってトークンを進め、先に4つすべてをゴールへ入れた人の勝ちです。"
-iframeSrc: "https://ludolegend.h5games.usercontent.goog/v/613uvcaa3eiqo/"
+title: Ludo Legend
+description: ルドーをデジタルで遊べるボードゲームです。ダイスを振ってトークンを進め、先に4つすべてをゴールへ入れた人の勝ちです。
+iframeSrc: 'https://ludolegend.h5games.usercontent.goog/v/613uvcaa3eiqo/'
 thumbnail: /new-images/thumbnails/ludo-legend.png
-urlstr: "ludo-legend"
-score: "4.3/5  (1888 votes)"
-tags: ["2 player", "card", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: ludo-legend
+score: 4.3/5  (1888 votes)
+tags:
+  - 2 player
+  - card
+  - casual
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +20,7 @@ locale: ja
 Ludo Legendは、ルドーをデジタルで遊べるボードゲームです。各プレイヤーは4つのトークンを持ち、スタートヤードから出してボードを1周し、色付きのホーム列を進んでホームトライアングルに入れるのが目的です。ダイスの目に合わせて動かすトークンを選び、相手のトークンを捕獲してスタートに戻すこともできます。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **ヤードから出る:** トークンをスタートヤードから出すには、6を振る必要があります。まずは1つでも場に出すのを優先しましょう。

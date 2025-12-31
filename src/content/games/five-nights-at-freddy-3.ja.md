@@ -1,13 +1,15 @@
 ---
-title: "Five Nights at Freddy's 3 (FNAF 3)"
-description: "システム管理型ホラー：オーディオでおとりを使ってスプリングトラップをおびき寄せ、カメラと通気口を監視し、故障したシステムを再起動して毎晩生き残りましょう。"
-iframeSrc: "https://ubg77.github.io/fix/fnaf2/fnaf3.html"
+title: Five Nights at Freddy's 3 (FNAF 3)
+description: システム管理型ホラー：オーディオでおとりを使ってスプリングトラップをおびき寄せ、カメラと通気口を監視し、故障したシステムを再起動して毎晩生き残りましょう。
+iframeSrc: 'https://ubg77.github.io/fix/fnaf2/fnaf3.html'
 thumbnail: /new-images/thumbnails/five-nights-at-freddy-3.jpg
-urlstr: "five-nights-at-freddy-3"
-score: "3.8/5  (149 votes)"
-tags: ["horror", "strategy"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: five-nights-at-freddy-3
+score: 3.8/5  (149 votes)
+tags:
+  - horror
+  - strategy
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -25,6 +27,7 @@ locale: ja
 ### 操作方法
 - マウス/UIでカメラ、オーディオ、通気口の封鎖、システムの再起動を行います。
 
+<!-- i18n:section:tips -->
 ### ヒント
 - スプリングトラップをオフィスから遠い部屋に留めておきましょう。一歩ずつおびき寄せます。
 - ファントムは気を散らす存在です。彼らを見つめないようにしましょう。遭遇してしまったら、すぐに回復して制御を立て直してください。

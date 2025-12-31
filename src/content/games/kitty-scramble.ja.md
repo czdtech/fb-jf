@@ -1,13 +1,16 @@
 ---
-title: "Kitty Scramble"
-description: "Kitty Scrambleは心地よいワードハントです。レターグリッドをスワイプし、テーマの単語を見つけ、パターン認識でボードをクリアします。"
-iframeSrc: "https://6cifr142haig8.h5games.usercontent.goog/v/1c963avg5lo9g/"
+title: Kitty Scramble
+description: Kitty Scrambleは心地よいワードハントです。レターグリッドをスワイプし、テーマの単語を見つけ、パターン認識でボードをクリアします。
+iframeSrc: 'https://6cifr142haig8.h5games.usercontent.goog/v/1c963avg5lo9g/'
 thumbnail: /new-images/thumbnails/kitty-scramble.png
-urlstr: "kitty-scramble"
-score: "4.2/5  (2038 votes)"
-tags: ["puzzle", "thinky", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: kitty-scramble
+score: 4.2/5  (2038 votes)
+tags:
+  - puzzle
+  - thinky
+  - casual
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +20,7 @@ locale: ja
 Kitty Scrambleは、動物・食べ物・場所などのテーマに沿ったレターグリッドから単語を探すワードゲームです。隣接する文字をなぞって（縦・横・斜め）単語を作り、指定されたターゲット単語を見つけます。ターゲット以外の単語でもコインが手に入ります。ステージが進むと長い単語や斜めのルート、重なり合うターゲットが増え、語彙とルート取りの工夫が求められます。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  テーマから連想：なぞる前に、そのテーマで出そうな単語を頭の中で挙げておきます。

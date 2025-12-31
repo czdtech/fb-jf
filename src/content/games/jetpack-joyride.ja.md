@@ -1,13 +1,15 @@
 ---
-title: "Jetpack Joyride"
-description: "ガジェット付きの横スクロールランナーです。電撃装置やミサイルをかわし、乗り物やコインを集め、ミッションをこなしてアップグレードを進めます。"
-iframeSrc: "https://slope-game.github.io/rungame/jetpack-joyride/"
+title: Jetpack Joyride
+description: ガジェット付きの横スクロールランナーです。電撃装置やミサイルをかわし、乗り物やコインを集め、ミッションをこなしてアップグレードを進めます。
+iframeSrc: 'https://slope-game.github.io/rungame/jetpack-joyride/'
 thumbnail: /new-images/thumbnails/jetpack-joyride.jpg
-urlstr: "jetpack-joyride"
-score: "4.9/5  (437 votes)"
-tags: ["runner", "arcade"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: jetpack-joyride
+score: 4.9/5  (437 votes)
+tags:
+  - runner
+  - arcade
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -25,6 +27,7 @@ Jetpack Joyrideは、ハイエナジーな横スクロールランナーです�
 ### 操作方法
 - 長押し/タップで上昇。離すと下降。ガジェット/メニュー用のボタンはホストによって異なります。
 
+<!-- i18n:section:tips -->
 ### ヒント
 - ザッパーのサイクル（周期）を覚えましょう。遅めのタップで狭い隙間を通り抜けます。
 - 高速セクションでは乗り物を安全バッファーとして保持しましょう。

@@ -9,7 +9,7 @@ tags:
   - strategy
   - thinky
 developer: ''
-releaseDate: 2025-10-17
+releaseDate: 2025-10-17T00:00:00.000Z
 locale: ja
 ---
 
@@ -19,6 +19,7 @@ locale: ja
 Nature Strikes Backは、自然が反撃するユニークな戦略ゲームです。動物、植物、自然災害を制御して人間の開発を阻止します。生態系を保護し、侵入を撃退し、自然のバランスを取り戻します。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **リソースを管理:** 自然のエネルギーを賢く使用します。

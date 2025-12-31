@@ -1,13 +1,15 @@
 ---
-title: "Learn To Fly"
-description: "ペンギンを飛ばして強化していく距離ゲームです。発射角度を調整して滑空し、お金を稼いでパーツをアップグレードします。"
-iframeSrc: "https://ad-freegames.github.io/flash/game/learn-to-fly.html"
+title: Learn To Fly
+description: ペンギンを飛ばして強化していく距離ゲームです。発射角度を調整して滑空し、お金を稼いでパーツをアップグレードします。
+iframeSrc: 'https://ad-freegames.github.io/flash/game/learn-to-fly.html'
 thumbnail: /new-images/thumbnails/learn-to-fly.jpg
-urlstr: "learn-to-fly"
-score: "4.6/5  (132 votes)"
-tags: ["arcade", "upgrade"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: learn-to-fly
+score: 4.6/5  (132 votes)
+tags:
+  - arcade
+  - upgrade
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -25,6 +27,7 @@ Learn to Flyは、飛距離を伸ばすために装備を強化していく距�
 ### 操作方法
 - 矢印キーで角度（ピッチ）を調整します。ブースターはスペースキーなど（環境依存）です。
 
+<!-- i18n:section:tips -->
 ### ヒント
 - 浅い急降下で速度を戻し、緩やかな上昇で距離を伸ばします。
 - 後半は空気抵抗で失速しやすいので、燃料は終盤まで残しておきます。

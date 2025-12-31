@@ -1,13 +1,16 @@
 ---
-title: "Jewel Blocks"
-description: "宝石テーマのブロックを配置してラインを消すパズルです。ブロックは回転できないため、置き方の計画が重要になります。"
-iframeSrc: "https://jewelblocks.h5games.usercontent.goog/v/0puee6ie0j880/"
+title: Jewel Blocks
+description: 宝石テーマのブロックを配置してラインを消すパズルです。ブロックは回転できないため、置き方の計画が重要になります。
+iframeSrc: 'https://jewelblocks.h5games.usercontent.goog/v/0puee6ie0j880/'
 thumbnail: /new-images/thumbnails/jewel-blocks.png
-urlstr: "jewel-blocks"
-score: "4.4/5  (2410 votes)"
-tags: ["puzzle", "thinky", "casual"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: jewel-blocks
+score: 4.4/5  (2410 votes)
+tags:
+  - puzzle
+  - thinky
+  - casual
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +20,7 @@ locale: ja
 Jewel Blocksは、10x10のグリッドにブロックを配置してラインを消すパズルゲームです。水平または垂直にブロックの完全なラインを作ると、そのラインはボードからクリアされます。ブロックを回転できないため、盤面が詰まらないように先を見て置くことがポイントです。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **先を計画する:** 一度に3つのブロック形状が提示されます。最初のものを配置する前に、3つすべてがボードにどのように配置されるかを考えましょう。目の前の配置だけに集中せず、将来のピースのために残すスペースについて考えてください。

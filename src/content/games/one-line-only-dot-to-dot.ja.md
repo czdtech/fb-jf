@@ -1,13 +1,15 @@
 ---
-title: "One Line Only Dot to Dot"
-description: "One Line Only Dot to Dotは一筆書きパズルです。すべての点を一筆で接続し、論理パズルをマスターします。"
-iframeSrc: "https://7n3sql2bqn9eg.h5games.usercontent.goog/v/2br4t62jndh88/"
+title: One Line Only Dot to Dot
+description: One Line Only Dot to Dotは一筆書きパズルです。すべての点を一筆で接続し、論理パズルをマスターします。
+iframeSrc: 'https://7n3sql2bqn9eg.h5games.usercontent.goog/v/2br4t62jndh88/'
 thumbnail: /new-images/thumbnails/one-line-only-dot-to-dot.jpg
-urlstr: "one-line-only-dot-to-dot"
-score: "4.2/5  (2050 votes)"
-tags: ["puzzle", "thinky"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: one-line-only-dot-to-dot
+score: 4.2/5  (2050 votes)
+tags:
+  - puzzle
+  - thinky
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +19,7 @@ locale: ja
 One Line Only Dot to Dotは、単一の連続した線ですべての点を接続することに挑戦します。線を引き直したり、同じ点を2回通過したりすることはできません。各レベルは、より複雑な配置で難易度を上げます。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **終点を識別:** 1つの接続のみを持つ点を探します。

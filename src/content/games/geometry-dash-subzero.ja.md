@@ -1,13 +1,16 @@
 ---
-title: "Geometry Dash SubZero"
-description: "スタンドアロンの冬をテーマにしたリズムレベル：氷のようなビジュアルと速いパターンの中、音楽に合わせてジャンプ、飛行、リングのタイミングを計りましょう。"
-iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp46/chenling/20240322/06/index.html"
+title: Geometry Dash SubZero
+description: スタンドアロンの冬をテーマにしたリズムレベル：氷のようなビジュアルと速いパターンの中、音楽に合わせてジャンプ、飛行、リングのタイミングを計りましょう。
+iframeSrc: >-
+  https://szhong.4399.com/4399swf//upload_swf/ftp46/chenling/20240322/06/index.html
 thumbnail: /new-images/thumbnails/geometry-dash-subzero.jpg
-urlstr: "geometry-dash-subzero"
-score: "3.9/5  (429 votes)"
-tags: ["rhythm", "platformer"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: geometry-dash-subzero
+score: 3.9/5  (429 votes)
+tags:
+  - rhythm
+  - platformer
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -25,6 +28,7 @@ locale: ja
 ### 操作方法
 - タップ/スペース/マウスでジャンプ。長押しで飛行（ホストによります）。
 
+<!-- i18n:section:tips -->
 ### ヒント
 - エフェクトがリズムの妨げになる場合は、視覚的な装飾を減らしましょう。
 - 練習モードのチェックポイントを使って、身体で覚えましょう。

@@ -1,13 +1,15 @@
 ---
-title: "Hobo"
-description: "過激なベルトアクション：街のステージを進み、アンロック可能なコンボ、即席の武器、ぶっ飛んだ必殺技で暴れまくりましょう。"
-iframeSrc: "https://ad-freegames.github.io/flash/game/hobo.html"
+title: Hobo
+description: 過激なベルトアクション：街のステージを進み、アンロック可能なコンボ、即席の武器、ぶっ飛んだ必殺技で暴れまくりましょう。
+iframeSrc: 'https://ad-freegames.github.io/flash/game/hobo.html'
 thumbnail: /new-images/thumbnails/hobo.jpg
-urlstr: "hobo"
-score: "4.9/5  (1360 votes)"
-tags: ["fighting", "beat-em-up"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: hobo
+score: 4.9/5  (1360 votes)
+tags:
+  - fighting
+  - beat-em-up
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -25,6 +27,7 @@ Hoboは、スラップスティック的な暴力と意図的に下品なユー�
 ### 操作方法
 - 矢印キーで移動。攻撃/ジャンプ/つかみキーはホストによって異なります。コンボの入力はゲーム内で表示されます。
 
+<!-- i18n:section:tips -->
 ### ヒント
 - 敵を片側に固めましょう。囲まれないようにします。
 - 群衆が減ったら、単一のターゲットをグラップルで素早く排除しましょう。

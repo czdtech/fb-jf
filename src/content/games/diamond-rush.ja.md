@@ -1,13 +1,16 @@
 ---
-title: "Diamond Rush ダイヤモンド・ラッシュ"
-description: "「Diamond Rush」で煌めくパズル体験を。ダイヤモンドを入れ替えてマッチさせ、ハイスコアを目指す爽快マッチ3パズル。"
-iframeSrc: "https://diamondrush.h5games.usercontent.goog/v/63ok750qri670/"
+title: Diamond Rush ダイヤモンド・ラッシュ
+description: 「Diamond Rush」で煌めくパズル体験を。ダイヤモンドを入れ替えてマッチさせ、ハイスコアを目指す爽快マッチ3パズル。
+iframeSrc: 'https://diamondrush.h5games.usercontent.goog/v/63ok750qri670/'
 thumbnail: /new-images/thumbnails/diamond-rush.png
-urlstr: "diamond-rush"
-score: "4.3/5  (2010 votes)"
-tags: ["puzzle", "casual", "action"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: diamond-rush
+score: 4.3/5  (2010 votes)
+tags:
+  - puzzle
+  - casual
+  - action
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -18,6 +21,7 @@ locale: ja
 隣り合うダイヤモンドを入れ替えて、同じ宝石を3つ以上並べて消していきましょう。鮮やかなグラフィックとキラキラしたアニメーション、そしてスピード感のあるゲームプレイが特徴です。時間との戦いや、特定の目標を達成して、エキサイティングなレベルを次々とクリアしていきましょう。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲーム攻略と戦略
 
 1.  **スペシャルジェム:** 4つ以上のダイヤモンドを一直線に並べたり、L字やT字に並べたりすると、強力な「スペシャルジェム」が生成されます。これらは一列消しや爆発などの効果を持ち、大量得点に不可欠です。

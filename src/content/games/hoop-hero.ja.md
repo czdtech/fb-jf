@@ -1,13 +1,18 @@
 ---
-title: "Hoop Hero"
-description: "完璧なタイミングでタップしてボールをダンクしよう！このテンポの速いワンタッチバスケットボールゲームで反射神経を試しましょう。完璧なタイミングでダンクを決めて得点し、ハイスコアを達成しましょう。"
-iframeSrc: "https://06f80rna6d2sg.h5games.usercontent.goog/v/69kffdfih87r0/"
+title: Hoop Hero
+description: >-
+  完璧なタイミングでタップしてボールをダンクしよう！このテンポの速いワンタッチバスケットボールゲームで反射神経を試しましょう。完璧なタイミングでダンクを決めて得点し、ハイスコアを達成しましょう。
+iframeSrc: 'https://06f80rna6d2sg.h5games.usercontent.goog/v/69kffdfih87r0/'
 thumbnail: /new-images/thumbnails/hoop-hero.png
-urlstr: "hoop-hero"
-score: "4.1/5  (1700 votes)"
-tags: ["action", "casual", "clicker", "sports"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: hoop-hero
+score: 4.1/5  (1700 votes)
+tags:
+  - action
+  - casual
+  - clicker
+  - sports
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +22,7 @@ locale: ja
 Hoop Heroは、タイミングと反射神経が試される、ミニマルで中毒性のあるワンタッチアーケードゲームです。ゲームプレイはシンプルです。バスケットボールが動いており、フープ（ゴール）に合った瞬間に画面をタップしてダンクを決める必要があります。挑戦の核は、ボールの動きのスピードとトリッキーなパターンが次第に上がることにあります。目標は、できるだけ多くの連続ダンクを決めて新しいハイスコアを達成することです。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **タイミングに集中する:** このゲームはすべてリズムとタイミングです。気を散らさないでください。ボールの動きのパターンを見て、フープを通過するタイミングを予測しましょう。

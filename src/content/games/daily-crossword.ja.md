@@ -1,13 +1,15 @@
 ---
-title: "Daily Crossword デイリー・クロスワード"
-description: "「Daily Crossword」で毎日新しいパズルに挑戦。カギを解き、文字を埋めて、脳の活性化を習慣にしよう。"
-iframeSrc: "https://ams.cdn.arkadiumhosted.com/assets/global/game/daily-crossword/"
+title: Daily Crossword デイリー・クロスワード
+description: 「Daily Crossword」で毎日新しいパズルに挑戦。カギを解き、文字を埋めて、脳の活性化を習慣にしよう。
+iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/daily-crossword/'
 thumbnail: /new-images/thumbnails/daily-crossword.jpg
-urlstr: "daily-crossword"
-score: "4.4/5  (1181 votes)"
-tags: ["word", "puzzle"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: daily-crossword
+score: 4.4/5  (1181 votes)
+tags:
+  - word
+  - puzzle
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -31,6 +33,7 @@ locale: ja
 *   **ナビゲーション:** 矢印キーで移動、BackSpaceで削除
 *   **切り替え:** EnterまたはTabキーで入力方向の切り替えや次のヒントへの移動
 
+<!-- i18n:section:tips -->
 ### 攻略のヒント
 
 *   **まずは短い単語から:** 3文字や4文字の単語は推測しやすく、ヒントになりやすいです。

@@ -1,13 +1,18 @@
 ---
-title: "Jungle Match Puzzle"
-description: "Jungle Match Puzzleは活気のあるマッチ3です。ブロッカーをクリアし、パワーアップを連鎖させ、厳しい移動制限内でジャングルテーマの目標を満たします。"
-iframeSrc: "https://2sf7n68mggti0.h5games.usercontent.goog/v/2mk31nh92a0og/"
+title: Jungle Match Puzzle
+description: >-
+  Jungle Match
+  Puzzleは活気のあるマッチ3です。ブロッカーをクリアし、パワーアップを連鎖させ、厳しい移動制限内でジャングルテーマの目標を満たします。
+iframeSrc: 'https://2sf7n68mggti0.h5games.usercontent.goog/v/2mk31nh92a0og/'
 thumbnail: /new-images/thumbnails/jungle-match-puzzle.png
-urlstr: "jungle-match-puzzle"
-score: "4.1/5  (1987 votes)"
-tags: ["puzzle", "casual", "thinky"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: jungle-match-puzzle
+score: 4.1/5  (1987 votes)
+tags:
+  - puzzle
+  - casual
+  - thinky
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +22,7 @@ locale: ja
 Jungle Match Puzzleは、つる、木箱、粘着タイルをブロッカーとしたカラフルなマッチ3です。移動制限内でステージ目標（スコア、アイテムの収集、動物の解放）を完了する必要があります。パワーアップ（爆弾＋ライン、ダブルライン）を組み合わせると、ブロッカーをまとめて消して連鎖が起きやすい盤面を作れます。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  目標優先：純粋なスコアリングの前に、ブロッカークリアと収集目標を優先します。

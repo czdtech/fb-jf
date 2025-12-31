@@ -10,7 +10,7 @@ tags:
   - runner
 developer: ''
 locale: ja
-releaseDate: 2025-09-09
+releaseDate: 2025-09-09T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -33,6 +33,7 @@ releaseDate: 2025-09-09
 *   **移動/ジャンプ:** 矢印キー または WASD
 *   **ダッシュ:** スペースキー または X（ホストにより異なります）
 
+<!-- i18n:section:tips -->
 ### 攻略のヒント
 
 *   **先読み:** カメラが上下に動く前に、レーンの中央に位置を調整しておきましょう。視点の変化で足元を見失うことがあります。

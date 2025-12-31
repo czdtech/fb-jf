@@ -1,13 +1,15 @@
 ---
-title: "House Of Hazards"
-description: "ローカルパーティーのカオス：罠だらけの家で簡単な家事をこなしながら、友達がハザード（罠）を発動してあなたを妨害します。"
-iframeSrc: "https://webglmath.github.io/house-of-hazards/"
+title: House Of Hazards
+description: ローカルパーティーのカオス：罠だらけの家で簡単な家事をこなしながら、友達がハザード（罠）を発動してあなたを妨害します。
+iframeSrc: 'https://webglmath.github.io/house-of-hazards/'
 thumbnail: /new-images/thumbnails/house-of-hazards.jpg
-urlstr: "house-of-hazards"
-score: "4.1/5  (127 votes)"
-tags: ["party", "multiplayer"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: house-of-hazards
+score: 4.1/5  (127 votes)
+tags:
+  - party
+  - multiplayer
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -25,6 +27,7 @@ House of Hazardsは、罠だらけの家を舞台にした同席マルチプレ�
 ### 操作方法
 - シンプルな移動/ジャンプ/アクションキー。複数のローカルプレイヤー用に別々のキー配置があります。
 
+<!-- i18n:section:tips -->
 ### ヒント
 - 次のタスクに集中しすぎないでください。光っている（グロー）罠がセットされている兆候に注意しましょう。
 - 動くハザードの前にジャンプして、被弾後も勢いを保ちましょう。

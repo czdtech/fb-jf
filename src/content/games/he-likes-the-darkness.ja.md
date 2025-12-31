@@ -1,13 +1,17 @@
 ---
-title: "He Likes The Darkness"
-description: "He Likes The Darknessは、雰囲気のあるプラットフォーマーです。影のあるステージを進み、オーブを集め、危険な場所を正確なジャンプで切り抜けましょう。"
-iframeSrc: "https://77gr97nn0bej0.h5games.usercontent.goog/v/0emki8kk9qofo/"
+title: He Likes The Darkness
+description: >-
+  He Likes The
+  Darknessは、雰囲気のあるプラットフォーマーです。影のあるステージを進み、オーブを集め、危険な場所を正確なジャンプで切り抜けましょう。
+iframeSrc: 'https://77gr97nn0bej0.h5games.usercontent.goog/v/0emki8kk9qofo/'
 thumbnail: /new-images/thumbnails/he-likes-the-darkness.png
-urlstr: "he-likes-the-darkness"
-score: "4.1/5  (1972 votes)"
-tags: ["action", "puzzle"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: he-likes-the-darkness
+score: 4.1/5  (1972 votes)
+tags:
+  - action
+  - puzzle
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +21,7 @@ locale: ja
 He Likes The Darknessは、ミニマリストでコントラストの強いプラットフォーマーです。低い視認性、動く罠、収集可能なオーブが、コンパクトなステージを特徴づけています。ジャンプの長さ、短い滞空（ストール）、勢いの維持をマスターすることで、気持ちの良いフローで鮮やかにクリアできます。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **軽い偵察:** 行き過ぎないように、小さなジャンプを使って足場の端を確認しましょう。

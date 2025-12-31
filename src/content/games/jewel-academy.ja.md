@@ -1,13 +1,16 @@
 ---
-title: "Jewel Academy"
-description: "宝石を入れ替えてそろえるマッチ3パズルです。特殊宝石を作り、各レベルの目標を達成して進めます。"
-iframeSrc: "https://jewelacademy.h5games.usercontent.goog/v/2krc7uv2m9998/"
+title: Jewel Academy
+description: 宝石を入れ替えてそろえるマッチ3パズルです。特殊宝石を作り、各レベルの目標を達成して進めます。
+iframeSrc: 'https://jewelacademy.h5games.usercontent.goog/v/2krc7uv2m9998/'
 thumbnail: /new-images/thumbnails/jewel-academy.png
-urlstr: "jewel-academy"
-score: "4.5/5  (2890 votes)"
-tags: ["puzzle", "casual", "action"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: jewel-academy
+score: 4.5/5  (2890 votes)
+tags:
+  - puzzle
+  - casual
+  - action
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +20,7 @@ locale: ja
 Jewel Academyは、宝石を入れ替えてそろえるマッチ3パズルゲームです。レベルマップを進みながら、各ステージの目標を達成していきます。隣接する宝石を交換して同じ色を3つ以上そろえ、4つ・5つ消しや特定の形のマッチで特殊宝石を作ると、障害物の除去が進みやすくなります。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **特殊コンボを探す:** 3つマッチするだけで満足しないでください。ボードの大きなセクションをクリアできる強力なパワーアップを作る鍵なので、4つまたは5つの宝石をマッチさせる機会を積極的に探しましょう。

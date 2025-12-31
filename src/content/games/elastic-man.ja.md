@@ -1,13 +1,15 @@
 ---
-title: "Elastic Man エラスティック・マン"
-description: "「Elastic Man」は奇妙でリアルなインタラクティブ・トイ。ゴムのような顔を引っ張り、つまみ、変形させて、その物理挙動と触感を楽しもう。"
-iframeSrc: "https://d21u3ic0kp9e91.cloudfront.net/elasticman/0/index.html"
+title: Elastic Man エラスティック・マン
+description: 「Elastic Man」は奇妙でリアルなインタラクティブ・トイ。ゴムのような顔を引っ張り、つまみ、変形させて、その物理挙動と触感を楽しもう。
+iframeSrc: 'https://d21u3ic0kp9e91.cloudfront.net/elasticman/0/index.html'
 thumbnail: /new-images/thumbnails/elastic-man.jpg
-urlstr: "elastic-man"
-score: "3.7/5  (959 votes)"
-tags: ["simulation", "toy"]
-developer: "David Li"
-releaseDate: 2025-08-16
+urlstr: elastic-man
+score: 3.7/5  (959 votes)
+tags:
+  - simulation
+  - toy
+developer: David Li
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -29,6 +31,7 @@ locale: ja
 
 *   **操作:** マウス（またはタッチ）でドラッグ＆ドロップ。
 
+<!-- i18n:section:tips -->
 ### 楽しみ方のコツ
 
 *   **変化をつける:** 頬を大きく引っ張って離すと全体が揺れますが、小さくつまむように素早く動かすと細かい波紋が広がります。

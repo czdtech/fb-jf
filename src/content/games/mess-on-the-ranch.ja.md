@@ -1,13 +1,15 @@
 ---
-title: "Mess on the Ranch"
-description: "Mess on the Ranchは牧場を整理する管理ゲームです。動物を仕分けてタスクをこなし、時間内に片付けます。"
-iframeSrc: "https://0b9371ju6aitg.h5games.usercontent.goog/v/0f8khbpbtdrg8/"
+title: Mess on the Ranch
+description: Mess on the Ranchは牧場を整理する管理ゲームです。動物を仕分けてタスクをこなし、時間内に片付けます。
+iframeSrc: 'https://0b9371ju6aitg.h5games.usercontent.goog/v/0f8khbpbtdrg8/'
 thumbnail: /new-images/thumbnails/mess-on-the-ranch.png
-urlstr: "mess-on-the-ranch"
-score: "4.0/5  (1882 votes)"
-tags: ["casual", "thinky"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: mess-on-the-ranch
+score: 4.0/5  (1882 votes)
+tags:
+  - casual
+  - thinky
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +19,7 @@ locale: ja
 Mess on the Ranchは、散らかった牧場を整理することに挑戦するゲームです。動物を正しいペンに振り分け、タスクを進めて牧場を整えます。素早く状況を見て、時間内に効率よく片付けましょう。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **タスクを優先:** 最も緊急なタスクから始めます。

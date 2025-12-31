@@ -1,13 +1,15 @@
 ---
-title: "Flappy Bird"
-description: "タップで羽ばたくエンドレスランナー：鳥を誘導して土管の隙間をくぐり抜け、障害物に触れずにスコアを伸ばしましょう。"
-iframeSrc: "https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/TAhlQLDa/index.html"
+title: Flappy Bird
+description: タップで羽ばたくエンドレスランナー：鳥を誘導して土管の隙間をくぐり抜け、障害物に触れずにスコアを伸ばしましょう。
+iframeSrc: 'https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/TAhlQLDa/index.html'
 thumbnail: /new-images/thumbnails/flappy-bird.jpg
-urlstr: "flappy-bird"
-score: "3.6/5  (297 votes)"
-tags: ["arcade", "endless-runner"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: flappy-bird
+score: 3.6/5  (297 votes)
+tags:
+  - arcade
+  - endless-runner
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -25,6 +27,7 @@ locale: ja
 ### 操作方法
 - マウス/タッチ/スペースキー：タップして羽ばたく。
 
+<!-- i18n:section:tips -->
 ### ヒント
 - 微調整には小さなタップを使い、緊急時のみ大きなタップを使いましょう。
 - 失敗したランを追いかけないでください。リズムが崩れたらリセットしましょう。

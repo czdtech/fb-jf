@@ -1,13 +1,16 @@
 ---
-title: "Friday Night Funkin"
-description: "リズムバトル：ビートに合わせてノーツを叩き、数週間にわたって対戦相手と勝負しましょう。難易度が上がると、より速いパターンや難しいホールド（長押し）が追加されます。"
-iframeSrc: "https://html-classic.itch.zone/html/2876359-1077558/index.html"
+title: Friday Night Funkin
+description: >-
+  リズムバトル：ビートに合わせてノーツを叩き、数週間にわたって対戦相手と勝負しましょう。難易度が上がると、より速いパターンや難しいホールド（長押し）が追加されます。
+iframeSrc: 'https://html-classic.itch.zone/html/2876359-1077558/index.html'
 thumbnail: /new-images/thumbnails/friday-night-funkin.jpg
-urlstr: "friday-night-funkin"
-score: "4.7/5  (542 votes)"
-tags: ["rhythm", "music"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: friday-night-funkin
+score: 4.7/5  (542 votes)
+tags:
+  - rhythm
+  - music
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -25,6 +28,7 @@ locale: ja
 ### 操作方法
 - 矢印キー（またはWASD）でノーツを叩き、Enterキーでメニュー操作を行います。
 
+<!-- i18n:section:tips -->
 ### ヒント
 - 視覚だけでなく、音でパターンを覚えましょう。
 - 手をリラックスさせましょう。連打（ジャック）のときは、和音を弾くように指を動かすと指が詰まりにくくなります。

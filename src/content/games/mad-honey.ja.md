@@ -1,13 +1,15 @@
 ---
-title: "Mad Honey"
-description: "Mad Honeyは一口サイズのアーケードアドベンチャーです。蜜を収集し、障害物を回避し、安全に巣箱に戻ります。"
-iframeSrc: "https://49b5cg0v2itto.h5games.usercontent.goog/v/3tun18rhg88eg/"
+title: Mad Honey
+description: Mad Honeyは一口サイズのアーケードアドベンチャーです。蜜を収集し、障害物を回避し、安全に巣箱に戻ります。
+iframeSrc: 'https://49b5cg0v2itto.h5games.usercontent.goog/v/3tun18rhg88eg/'
 thumbnail: /new-images/thumbnails/mad-honey.png
-urlstr: "mad-honey"
-score: "3.7/5  (1299 votes)"
-tags: ["adventure", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: mad-honey
+score: 3.7/5  (1299 votes)
+tags:
+  - adventure
+  - casual
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +19,7 @@ locale: ja
 Mad Honeyは、敵や障害物を避けながら蜜を集めて巣に戻る、短時間で遊べるアドベンチャーです。安全な飛行ルートの取り方や、巡回を抜けるタイミングが得点と生存を左右します。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  ルートを決める：蜜の位置と巡回ルートを先に確認し、回収順を考えます。

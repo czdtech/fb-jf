@@ -1,13 +1,15 @@
 ---
-title: "Gladihoppers"
-description: "物理ホップを取り入れた2D剣闘士アクション：装備をカスタマイズし、突きやパリィのタイミングを計り、決闘やモードを通じてアリーナを勝ち上がりましょう。"
-iframeSrc: "https://m.igroutka.ru/g-1/113/Gladihoppers/"
+title: Gladihoppers
+description: 物理ホップを取り入れた2D剣闘士アクション：装備をカスタマイズし、突きやパリィのタイミングを計り、決闘やモードを通じてアリーナを勝ち上がりましょう。
+iframeSrc: 'https://m.igroutka.ru/g-1/113/Gladihoppers/'
 thumbnail: /new-images/thumbnails/gladihoppers.jpg
-urlstr: "gladihoppers"
-score: "3.7/5  (383 votes)"
-tags: ["fighting", "action"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: gladihoppers
+score: 3.7/5  (383 votes)
+tags:
+  - fighting
+  - action
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -25,6 +27,7 @@ Gladihoppersは、ラグドールスタイルのホップ（跳ねる）移動�
 ### 操作方法
 - 方向ホップ、攻撃、防御キー（キー配置はホストによって異なります）。ローカル対戦が利用可能な場合が多いです。
 
+<!-- i18n:section:tips -->
 ### ヒント
 - 槍（スピア/パイク）は間合いを取るのに有利で、剣は近距離でのプレッシャーに優れています。
 - 安全なときは頭を狙いましょう。高い位置へのヒットはクリティカルになりやすいです。

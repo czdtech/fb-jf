@@ -1,13 +1,17 @@
 ---
-title: "Hex Puzzle"
-description: "六角形のグリッドでの、やりがいのある中毒性の高いブロックパズル。ヘキサブロックをドラッグ＆ドロップして、あらゆる方向に完全なラインを作って消しましょう。ブロックは回転できないので、計画的に動かしましょう！"
-iframeSrc: "https://blockpuzzle.h5games.usercontent.goog/v/3rkr8c5j9b23o/"
+title: Hex Puzzle
+description: >-
+  六角形のグリッドでの、やりがいのある中毒性の高いブロックパズル。ヘキサブロックをドラッグ＆ドロップして、あらゆる方向に完全なラインを作って消しましょう。ブロックは回転できないので、計画的に動かしましょう！
+iframeSrc: 'https://blockpuzzle.h5games.usercontent.goog/v/3rkr8c5j9b23o/'
 thumbnail: /new-images/thumbnails/hex-puzzle.jpg
-urlstr: "hex-puzzle"
-score: "4.4/5  (2450 votes)"
-tags: ["puzzle", "thinky", "casual"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: hex-puzzle
+score: 4.4/5  (2450 votes)
+tags:
+  - puzzle
+  - thinky
+  - casual
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +21,7 @@ locale: ja
 Hex Puzzleは、六角形のグリッド上でプレイされる、クラシックなブロックパズルジャンルの楽しくて魅力的なアレンジ版です。目的は、六角形のブロックでできた様々な形をボード上に配置し、途切れのない完全なラインを作ることです。ラインは、水平方向と両対角線方向の3方向に形成できます。ラインが完成するとボードから消去され、スペースが空き、ポイントを獲得できます。時間制限はないため、純粋な戦略と空間認識能力が試されます。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **3方向で考える:** 正方形のグリッドとは異なり、六角形のグリッドでは3つの異なる方向にラインを作ることができます。水平方向だけでなく、斜めの機会がないか常に盤面をスキャンしましょう。

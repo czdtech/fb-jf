@@ -1,13 +1,15 @@
 ---
-title: "Google Solitaire"
-description: "クラシックなクロンダイクソリティア：交互の色の場札を使って、エースからキングまでスートごとにカードを組札に移動させましょう。"
-iframeSrc: "https://www.google.com/logos/fnbx/solitaire/standalone.html"
+title: Google Solitaire
+description: クラシックなクロンダイクソリティア：交互の色の場札を使って、エースからキングまでスートごとにカードを組札に移動させましょう。
+iframeSrc: 'https://www.google.com/logos/fnbx/solitaire/standalone.html'
 thumbnail: /new-images/thumbnails/google-solitaire.jpg
-urlstr: "google-solitaire"
-score: "4.0/5  (1294 votes)"
-tags: ["solitaire", "card"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: google-solitaire
+score: 4.0/5  (1294 votes)
+tags:
+  - solitaire
+  - card
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -25,6 +27,7 @@ Googleのクロンダイクソリティアは、1枚めくりまたは3枚めく
 ### 操作方法
 - マウス/タッチでドラッグ＆ドロップ。ダブルクリックで可能な場合は自動的に移動します。
 
+<!-- i18n:section:tips -->
 ### ヒント
 - 裏向きのカードをめくることができる移動を優先しましょう。
 - 操作のために、少なくとも1つの列を空けておくようにしましょう。

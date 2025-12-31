@@ -10,7 +10,7 @@ tags:
   - casual
   - thinky
 developer: ''
-releaseDate: 2025-10-17
+releaseDate: 2025-10-17T00:00:00.000Z
 locale: ja
 ---
 
@@ -20,6 +20,7 @@ locale: ja
 Merge Heroesは、ヒーローをマージして強化しながら戦うRPG系のマージゲームです。同じヒーローを合体させて戦力を上げ、配置を工夫して敵を倒していきます。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **ヒーローをマージ:** より強力なバージョンのために同じヒーローをマージします。

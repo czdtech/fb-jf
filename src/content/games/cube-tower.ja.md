@@ -1,13 +1,16 @@
 ---
-title: "Cube Tower キューブ・タワー"
-description: "「Cube Tower」は迫りくる敵から中央のタワーを守る防衛ゲーム。戦略的に砲台を配置し、アップグレードしてウェーブを生き残れ。"
-iframeSrc: "https://cubetower.h5games.usercontent.goog/v/6k8tnoea28210/"
+title: Cube Tower キューブ・タワー
+description: 「Cube Tower」は迫りくる敵から中央のタワーを守る防衛ゲーム。戦略的に砲台を配置し、アップグレードしてウェーブを生き残れ。
+iframeSrc: 'https://cubetower.h5games.usercontent.goog/v/6k8tnoea28210/'
 thumbnail: /new-images/thumbnails/cube-tower.png
-urlstr: "cube-tower"
-score: "4.4/5 (1987 votes)"
-tags: ["tower Defense", "action", "thinky"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: cube-tower
+score: 4.4/5 (1987 votes)
+tags:
+  - tower Defense
+  - action
+  - thinky
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +20,7 @@ locale: ja
 *Cube Tower（キューブ・タワー）*は、マップ中央にある「キューブタワー」を敵の攻撃から守り抜く、タワーディフェンス（防衛）ゲームです。次々と押し寄せる敵のウェーブ（波）に対し、様々な種類の防衛タワーを戦略的に配置・強化して迎撃します。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲーム攻略と戦略
 
 1.  **戦略的配置:** タワーの射程範囲や攻撃タイプを考慮し、敵が最も通る場所や、長く攻撃を浴びせられる場所に配置しましょう。角（コーナー）の内側などが効果的です。

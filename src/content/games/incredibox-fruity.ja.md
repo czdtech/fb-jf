@@ -1,13 +1,17 @@
 ---
-title: "Incredibox Fruity"
-description: "Incredibox Fruityの究極ガイド、クラシック戦略ゲームを発見しましょう。洞窟人から未来の戦士まで軍隊を進化させ、戦場を支配するための勝利戦略、操作方法、ヒントを学びましょう。"
-iframeSrc: "https://turbowarp.org/414716080/embed"
+title: Incredibox Fruity
+description: >-
+  Incredibox
+  Fruityの究極ガイド、クラシック戦略ゲームを発見しましょう。洞窟人から未来の戦士まで軍隊を進化させ、戦場を支配するための勝利戦略、操作方法、ヒントを学びましょう。
+iframeSrc: 'https://turbowarp.org/414716080/embed'
 thumbnail: /new-images/thumbnails/incredibox-fruity.jpg
-urlstr: "incredibox-fruity"
-score: "4.5/5  (525 votes)"
-tags: ["strategy", "action"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: incredibox-fruity
+score: 4.5/5  (525 votes)
+tags:
+  - strategy
+  - action
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -16,10 +20,12 @@ locale: ja
 
 Incredibox Fruityは、Flashゲーム時代に広く人気を博したクラシックな2D横スクロール戦略ゲームです。ゲームのコアコンセプトは、プレイヤーに属する基地とAI対戦相手に属する基地の間の戦いです。ゲームのユニークで決定的な特徴は、その「進化」メカニクスです。プレイヤーは石器時代（洞窟人として）から始まり、5つの異なる時代を通じて進むために経験値（XP）を獲得する必要があります：石器時代、中世、現代、そして最終的に未来時代です。各進化は、より強力なユニットと防御タレットをアンロックするだけでなく、基地の体力を完全に回復します。究極の目標はシンプルです：敵の猛攻に耐え、彼らの基地を破壊することです。
 
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 Incredibox Fruityをマスターするには、攻撃、防御、戦略的タイミングのバランスが必要です。
 
+<!-- i18n:section:tips -->
 #### 1. 初期ゲーム戦略（石器時代）
 *   **洞窟人ラッシュ:** 最も一般的で効果的なオープニング戦略は、最も安いユニット「クラブマン」をスパム（大量生産）することです。彼らはコスト効率が良く、初期段階で敵を素早く圧倒できます。
 *   **XPに焦点を当てる:** 主な目標は、できるだけ速くXPを獲得するために敵ユニットを倒すことです。強力な攻撃的プッシュは、より速くXPを獲得し、より早い進化につながります。

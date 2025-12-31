@@ -1,13 +1,15 @@
 ---
-title: "Diwali Lights ディワリ・ライツ"
-description: "「Diwali Lights」は光のパズルゲーム。ディワリのお祭りをテーマに、秩序正しくランプ（ディヤ）を点灯させ、美しい光の模様を描き出そう。"
-iframeSrc: "https://diwalilights.h5games.usercontent.goog/v/5cddqg9lrn3kg/"
+title: Diwali Lights ディワリ・ライツ
+description: 「Diwali Lights」は光のパズルゲーム。ディワリのお祭りをテーマに、秩序正しくランプ（ディヤ）を点灯させ、美しい光の模様を描き出そう。
+iframeSrc: 'https://diwalilights.h5games.usercontent.goog/v/5cddqg9lrn3kg/'
 thumbnail: /new-images/thumbnails/diwali-lights.jpg
-urlstr: "diwali-lights"
-score: "4.1/5  (1835 votes)"
-tags: ["puzzle", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: diwali-lights
+score: 4.1/5  (1835 votes)
+tags:
+  - puzzle
+  - casual
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -18,6 +20,7 @@ locale: ja
 目的は、並べられたランプ（ディヤ）やタイルを正しい順序やパターンで点灯させ、美しいデザインを完成させることです。ステージが進むと、移動回数の制限や、一度に複数のランプを操作するスイッチ、時間制限などのギミックが登場します。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲーム攻略と戦略
 
 1.  **ルール把握:** ステージによって「線が交差してはいけない」「一筆書きで点灯させる」などのルールが異なるため、開始前に目標を確認しましょう。

@@ -1,13 +1,16 @@
 ---
-title: "Gym Stack"
-description: "Gym Stackはウェイトを積み重ねてマージする3Dパズルです。同じ色とサイズを揃えて合体させ、バーが埋まる前にスペースを確保しましょう。"
-iframeSrc: "https://gymstack.h5games.usercontent.goog/v/3js1l1d7rdkfg/"
+title: Gym Stack
+description: Gym Stackはウェイトを積み重ねてマージする3Dパズルです。同じ色とサイズを揃えて合体させ、バーが埋まる前にスペースを確保しましょう。
+iframeSrc: 'https://gymstack.h5games.usercontent.goog/v/3js1l1d7rdkfg/'
 thumbnail: /new-images/thumbnails/gym-stack.jpeg
-urlstr: "gym-stack"
-score: "3.9/5  (1642 votes)"
-tags: ["action", "casual", "sports"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: gym-stack
+score: 3.9/5  (1642 votes)
+tags:
+  - action
+  - casual
+  - sports
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +20,7 @@ locale: ja
 Gym Stackは、あなたの整理スキルが試される、中毒性があり満足感のある3Dパズルゲームです。ゲームボードにはいくつかのバーがあり、異なる色とサイズのウェイト（重り）が現れます。目的は、これらのウェイトを戦略的に動かして積み重ね、同じものをマージ（合体）させてより大きなウェイトを作り、スペースを空けることです。バーがいっぱいにならないように賢くマージして、できるだけ多くのポイントを獲得するのが目標です。楽しいジムのテーマで、先見の明と戦略が試されます。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **色で合わせる:** 同じ色のウェイトのみマージできます。同じウェイトを一緒にするように動きを計画しましょう。

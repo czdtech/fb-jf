@@ -1,13 +1,15 @@
 ---
-title: "Guess The Word"
-description: "Guess The Wordはクリーンな単語構築ゲームです。文字を繋げ、パターンを利用し、語彙力と論理を駆使してクロスワードをクリアしましょう。"
-iframeSrc: "https://5e2trj00jcfog.h5games.usercontent.goog/v/1hrc6f7979nig/"
+title: Guess The Word
+description: Guess The Wordはクリーンな単語構築ゲームです。文字を繋げ、パターンを利用し、語彙力と論理を駆使してクロスワードをクリアしましょう。
+iframeSrc: 'https://5e2trj00jcfog.h5games.usercontent.goog/v/1hrc6f7979nig/'
 thumbnail: /new-images/thumbnails/guess-the-word.png
-urlstr: "guess-the-word"
-score: "4.2/5  (2041 votes)"
-tags: ["puzzle", "thinky"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: guess-the-word
+score: 4.2/5  (2041 votes)
+tags:
+  - puzzle
+  - thinky
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +19,7 @@ locale: ja
 Guess The Wordは、文字をリンクさせる入力方式と、クロスワードのスロットを融合させたゲームです。文字の円盤をドラッグして有効な単語を作り、グリッドを埋めていきます。引っかけのアナグラム、珍しいダイグラム（2文字の組み合わせ）、少ない母音など、難易度は徐々に上がり、パターン認識と戦略的な推測が報われます。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **短い単語から:** 交差点を確定させるために、まずは明白で短い単語から始めましょう。

@@ -1,13 +1,15 @@
 ---
-title: "Gunspin"
-description: "反動推進アーケード：銃を発射して回転・飛行させ、弾薬を集め、ハザードを乗り越えてできるだけ遠くまで移動しましょう。"
-iframeSrc: "https://ubg44.github.io/GunSpin/"
+title: Gunspin
+description: 反動推進アーケード：銃を発射して回転・飛行させ、弾薬を集め、ハザードを乗り越えてできるだけ遠くまで移動しましょう。
+iframeSrc: 'https://ubg44.github.io/GunSpin/'
 thumbnail: /new-images/thumbnails/gunspin.jpg
-urlstr: "gunspin"
-score: "4.1/5  (1211 votes)"
-tags: ["arcade", "physics"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: gunspin
+score: 4.1/5  (1211 votes)
+tags:
+  - arcade
+  - physics
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -25,6 +27,7 @@ Gunspinは、反動を移動手段に変えます。各ショットはあなた�
 ### 操作方法
 - マウス/スペースで射撃。タイミングと狙いが軌道（弾道）を決定します。
 
+<!-- i18n:section:tips -->
 ### ヒント
 - 効率のためには、フルバーストよりも小さなタップの方が良いです。
 - 失速せずに前進するために、進行方向の少し後ろを狙いましょう。

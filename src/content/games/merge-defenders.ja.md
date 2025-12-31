@@ -10,7 +10,7 @@ tags:
   - strategy
   - casual
 developer: ''
-releaseDate: 2025-10-17
+releaseDate: 2025-10-17T00:00:00.000Z
 locale: ja
 ---
 
@@ -20,6 +20,7 @@ locale: ja
 Merge Defendersは、ユニットをマージして強化しながら戦うタワーディフェンスです。同じユニットを合体させてより強い防衛役を作り、配置を工夫して敵のウェーブをしのぎます。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **スマートにマージ:** より強力なユニットのために同じタイプのユニットをマージします。

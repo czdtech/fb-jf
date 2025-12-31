@@ -1,13 +1,15 @@
 ---
-title: "Granny Hero"
-description: "Granny Heroはコミカルなアクションランナーです。ハザードを避け、奇抜なアイテムを使い、驚くべき敏捷性で隣人を救助しましょう。"
-iframeSrc: "https://0nd9712ar55uo.h5games.usercontent.goog/v/3qru4tsu7d5v0/"
+title: Granny Hero
+description: Granny Heroはコミカルなアクションランナーです。ハザードを避け、奇抜なアイテムを使い、驚くべき敏捷性で隣人を救助しましょう。
+iframeSrc: 'https://0nd9712ar55uo.h5games.usercontent.goog/v/3qru4tsu7d5v0/'
 thumbnail: /new-images/thumbnails/granny-hero.png
-urlstr: "granny-hero"
-score: "3.9/5  (1751 votes)"
-tags: ["action", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: granny-hero
+score: 3.9/5  (1751 votes)
+tags:
+  - action
+  - casual
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +19,7 @@ locale: ja
 Granny Heroは、元気なおばあちゃんが通りを疾走し、ドタバタなハザード（危険）を避け、隣人を助けるためのアイテムを集める、軽快なランナーゲームです。レーン移動、ジャンプやスライディングのタイミング、そして時折現れるガジェット（スクーター、傘、フライパンなど）による一時的な無敵や群衆整理（クラウドコントロール）が楽しめます。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **レーンの視界**: 移動に備えるために、視線は障害物の2つ先を捉えておきましょう。

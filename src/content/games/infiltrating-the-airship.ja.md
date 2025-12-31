@@ -1,13 +1,17 @@
 ---
-title: "Infiltrating the Airship"
-description: "Henry Stickminの強盗ミッション：飛行船に乗り込むためにガジェットとルートを選択し、ギャグを発動し、シーンリプレイで複数のエンディングをアンロックしましょう。"
-iframeSrc: "https://rebemanae.github.io/infiltrating-the-airship/"
+title: Infiltrating the Airship
+description: >-
+  Henry
+  Stickminの強盗ミッション：飛行船に乗り込むためにガジェットとルートを選択し、ギャグを発動し、シーンリプレイで複数のエンディングをアンロックしましょう。
+iframeSrc: 'https://rebemanae.github.io/infiltrating-the-airship/'
 thumbnail: /new-images/thumbnails/infiltrating-the-airship.jpg
-urlstr: "infiltrating-the-airship"
-score: "4.4/5  (982 votes)"
-tags: ["adventure", "point-and-click"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: infiltrating-the-airship
+score: 4.4/5  (982 votes)
+tags:
+  - adventure
+  - point-and-click
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -25,6 +29,7 @@ locale: ja
 ### 操作方法
 - マウスで選択。ホストによっては、QTE（クイックタイムイベント）用の時折のキー操作があります。
 
+<!-- i18n:section:tips -->
 ### ヒント
 - 失敗を恐れないでください。間違った選択はそれぞれ正しい道を教えてくれます。
 - サポートされている場合、シーン中にキャラクターをクリックして経歴を記録しましょう。

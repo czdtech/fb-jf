@@ -1,13 +1,17 @@
 ---
-title: "Footchinko"
-description: "Footchinkoでサッカーとパチンコのユニークなブレンドを体験しましょう！ボールを落とし、ペグにヒットし、ハイスコアとエキサイティングなボーナスを目指しましょう。"
-iframeSrc: "https://footchinko2.h5games.usercontent.goog/v/3iniom5rsklno/"
+title: Footchinko
+description: >-
+  Footchinkoでサッカーとパチンコのユニークなブレンドを体験しましょう！ボールを落とし、ペグにヒットし、ハイスコアとエキサイティングなボーナスを目指しましょう。
+iframeSrc: 'https://footchinko2.h5games.usercontent.goog/v/3iniom5rsklno/'
 thumbnail: /new-images/thumbnails/footchinko.jpg
-urlstr: "footchinko"
-score: "4.5/5  (2230 votes)"
-tags: ["sports", "casual", "action"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: footchinko
+score: 4.5/5  (2230 votes)
+tags:
+  - sports
+  - casual
+  - action
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +21,7 @@ locale: ja
 Footchinkoは、サッカー（フットボール）とパチンコ/ピンボールの仕組みを組み合わせたアーケードゲームです。ボールを落としてペグやバンパーに当てながら、ディフェンダーをかわしてゴールを狙います。ステージごとにレイアウトが変わるので、狙いと跳ね返りを読んでルートを作るのがポイントです。パワーアップやボーナスを回収して、ハイスコアを目指しましょう。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **狙いが鍵:** ショット前に弾道をイメージし、ペグやパワーアップに当たりやすいルートを探しましょう。

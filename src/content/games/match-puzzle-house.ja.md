@@ -1,13 +1,16 @@
 ---
-title: "Match Puzzle House"
-description: "Match Puzzle Houseはホームデザイン系のマッチ3です。パズルを解き、報酬で家を改装します。"
-iframeSrc: "https://7cp83ss0h08p0.h5games.usercontent.goog/v/49v2bsl4scjdo/"
+title: Match Puzzle House
+description: Match Puzzle Houseはホームデザイン系のマッチ3です。パズルを解き、報酬で家を改装します。
+iframeSrc: 'https://7cp83ss0h08p0.h5games.usercontent.goog/v/49v2bsl4scjdo/'
 thumbnail: /new-images/thumbnails/match-puzzle-house.png
-urlstr: "match-puzzle-house"
-score: "4.0/5  (1887 votes)"
-tags: ["puzzle", "casual", "thinky"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: match-puzzle-house
+score: 4.0/5  (1887 votes)
+tags:
+  - puzzle
+  - casual
+  - thinky
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +20,7 @@ locale: ja
 Match Puzzle Houseは、マッチ3パズルとホーム改装を組み合わせたゲームです。パズルを解いて報酬を獲得し、新しい家具や装飾、部屋のアップグレードに使います。レベルをクリアするごとに改装が進みます。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **目標に焦点を当てる:** 各レベルには、ブロッカーをクリアする、アイテムを収集するなどの特定の目標があります。

@@ -1,13 +1,16 @@
 ---
-title: "Letter Links"
-description: "毎日のワード構築チャレンジです。レタータイルをボードに配置して高得点の単語を形成し、ボーナスマスを利用し、すべての文字を1つのグループで接続します。"
-iframeSrc: "https://7u583tvdi3f00.h5games.usercontent.goog/v/424maigpuljoo/"
+title: Letter Links
+description: 毎日のワード構築チャレンジです。レタータイルをボードに配置して高得点の単語を形成し、ボーナスマスを利用し、すべての文字を1つのグループで接続します。
+iframeSrc: 'https://7u583tvdi3f00.h5games.usercontent.goog/v/424maigpuljoo/'
 thumbnail: /new-images/thumbnails/letter-links.png
-urlstr: "letter-links"
-score: "4.6/5  (2850 votes)"
-tags: ["puzzle", "thinky", "casual"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: letter-links
+score: 4.6/5  (2850 votes)
+tags:
+  - puzzle
+  - thinky
+  - casual
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +20,7 @@ locale: ja
 Letter Linksは、Scrabbleのように文字タイルを置いて単語を作る戦略的なワードゲームです。毎日、点数が付いたレタータイルのセットが配られます。タイルをボードに配置し、クロスワードのように互いに接続した有効な単語を作っていきます。高得点の文字やボーナスマスをうまく使い、スコアを伸ばしましょう。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **ボーナスを知る:** 高得点の鍵は、ボーナスマスの活用です。

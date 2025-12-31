@@ -1,13 +1,15 @@
 ---
-title: "Kingdom Rush Frontiers"
-description: "タワーディフェンス続編：タワーを建設およびアップグレードし、援軍とヒーローを配備し、スマートな配置で敵タイプに対抗します。"
-iframeSrc: "https://1000freegames.github.io/swf/kingdom-rush-frontiers.html"
+title: Kingdom Rush Frontiers
+description: タワーディフェンス続編：タワーを建設およびアップグレードし、援軍とヒーローを配備し、スマートな配置で敵タイプに対抗します。
+iframeSrc: 'https://1000freegames.github.io/swf/kingdom-rush-frontiers.html'
 thumbnail: /new-images/thumbnails/kingdom-rush-frontiers.jpg
-urlstr: "kingdom-rush-frontiers"
-score: "4.6/5  (681 votes)"
-tags: ["tower-defense", "strategy"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: kingdom-rush-frontiers
+score: 4.6/5  (681 votes)
+tags:
+  - tower-defense
+  - strategy
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -25,6 +27,7 @@ Kingdom Rush Frontiersは、新しい舞台や敵の能力、タワーの専門�
 ### 操作方法
 - 建設・アップグレード・スキルの発動はマウス/タッチで行います。ホットキーは環境によって異なります。
 
+<!-- i18n:section:tips -->
 ### ヒント
 - 序盤に建てすぎないようにしましょう。まずは要所のタワーをアップグレードして火力を確保します。
 - 混成ウェーブには、範囲攻撃と単体火力をバランスよく配置しましょう。

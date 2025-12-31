@@ -1,13 +1,16 @@
 ---
-title: "G-Switch 4"
-description: "最新の重力反転ランナー作品：洗練された操作、トリッキーな障害物チェーン、多くのプレイヤーのための競争的なローカルレースです。"
-iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp45/gamehwq/20231127/09/index.html"
+title: G-Switch 4
+description: 最新の重力反転ランナー作品：洗練された操作、トリッキーな障害物チェーン、多くのプレイヤーのための競争的なローカルレースです。
+iframeSrc: >-
+  https://szhong.4399.com/4399swf//upload_swf/ftp45/gamehwq/20231127/09/index.html
 thumbnail: /new-images/thumbnails/g-switch-4.jpg
-urlstr: "g-switch-4"
-score: "4.9/5  (1069 votes)"
-tags: ["runner", "platformer"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: g-switch-4
+score: 4.9/5  (1069 votes)
+tags:
+  - runner
+  - platformer
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -24,6 +27,7 @@ locale: ja
 ### 操作方法
 - フリップには単一キー/タップ。対戦モードではプレイヤーごとに1つのキーです。
 
+<!-- i18n:section:tips -->
 ### ヒント
 - リズムをロックするために、遅いセクションで練習します。
 - 長い天井/床を使用して、ミス後にタイミングをリセットします。

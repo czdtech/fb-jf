@@ -1,13 +1,16 @@
 ---
-title: "Klondike Solitaire"
-description: "クラシックなクロンダイク：交互の色で降順のタブローの山を使用して、エースからキングまでスートごとに基礎を構築します。1枚引きまたは3枚引き。"
-iframeSrc: "https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-klondike-solitaire/"
+title: Klondike Solitaire
+description: クラシックなクロンダイク：交互の色で降順のタブローの山を使用して、エースからキングまでスートごとに基礎を構築します。1枚引きまたは3枚引き。
+iframeSrc: >-
+  https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-klondike-solitaire/
 thumbnail: /new-images/thumbnails/klondike-solitaire.jpg
-urlstr: "klondike-solitaire"
-score: "4.1/5  (1091 votes)"
-tags: ["solitaire", "card"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: klondike-solitaire
+score: 4.1/5  (1091 votes)
+tags:
+  - solitaire
+  - card
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -25,6 +28,7 @@ locale: ja
 ### 操作方法
 - ドラッグ＆ドロップ（またはタップ）で操作します。環境によっては自動移動が有効です。
 
+<!-- i18n:section:tips -->
 ### ヒント
 - 裏向きのカードをめくる移動を優先します。
 - 低いカードをすぐ基礎に上げない方がいい場合もあります。タブローの組み替えに必要なら手元に残します。

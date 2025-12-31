@@ -1,13 +1,17 @@
 ---
-title: "Escaping the Prison 脱獄大作戦"
-description: "「Escaping the Prison」はヘンリー・スティックミンのポイント＆クリック・アドベンチャー。アイテムとルート（こっそり/強引/合法）を選んで脱獄せよ。複数のエンディングとギャグが待つ。"
-iframeSrc: "https://classroomjq.github.io/escaping-the-prison/"
+title: Escaping the Prison 脱獄大作戦
+description: >-
+  「Escaping the
+  Prison」はヘンリー・スティックミンのポイント＆クリック・アドベンチャー。アイテムとルート（こっそり/強引/合法）を選んで脱獄せよ。複数のエンディングとギャグが待つ。
+iframeSrc: 'https://classroomjq.github.io/escaping-the-prison/'
 thumbnail: /new-images/thumbnails/escaping-the-prison.jpg
-urlstr: "escaping-the-prison"
-score: "5.0/5  (1344 votes)"
-tags: ["adventure", "point-and-click"]
-developer: "PuffballsUnited"
-releaseDate: 2025-08-16
+urlstr: escaping-the-prison
+score: 5.0/5  (1344 votes)
+tags:
+  - adventure
+  - point-and-click
+developer: PuffballsUnited
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -30,6 +34,7 @@ locale: ja
 *   **マウス:** 選択肢やクイックタイムプロンプトをクリック
 *   **スペースキー:** 一部の中断操作（ホストにより異なります）
 
+<!-- i18n:section:tips -->
 ### 攻略のヒント
 
 *   **行き詰まったら:** 他の主要ルート分岐を探索しましょう。多くのシーンには代替解決策があります。

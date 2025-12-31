@@ -1,13 +1,15 @@
 ---
-title: "Head Soccer"
-description: "巨大な頭のキャラクターによる1対1のアーケードサッカー：ジャンプ、シュート、パワーショットを駆使して、短い試合で対戦相手より多く得点しましょう。"
-iframeSrc: "https://1games.io/game/head-soccer-2024/"
+title: Head Soccer
+description: 巨大な頭のキャラクターによる1対1のアーケードサッカー：ジャンプ、シュート、パワーショットを駆使して、短い試合で対戦相手より多く得点しましょう。
+iframeSrc: 'https://1games.io/game/head-soccer-2024/'
 thumbnail: /new-images/thumbnails/head-soccer.jpg
-urlstr: "head-soccer"
-score: "3.9/5  (540 votes)"
-tags: ["sports", "soccer"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: head-soccer
+score: 3.9/5  (540 votes)
+tags:
+  - sports
+  - soccer
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -25,6 +27,7 @@ Head Soccerは、サッカーを巨大な頭とシンプルな物理挙動によ
 ### 操作方法
 - 矢印キー/WASDで移動/ジャンプ。シュート/スペシャルキーはホストによって異なります。
 
+<!-- i18n:section:tips -->
 ### ヒント
 - 早めのジャンプ＋タップシュートで、速くて低いドライブシュートが打てます。
 - スペシャルはカウンター攻撃やリバウンドのために取っておきましょう。

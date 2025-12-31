@@ -1,13 +1,15 @@
 ---
-title: "Flames & Fortune"
-description: "Flames & Fortuneは、手札を管理し、テンポを交換し、賢いターンで敵を出し抜く、戦術的なカードスタイルのバトラーゲームです。"
-iframeSrc: "https://0e8d16hkgti30.h5games.usercontent.goog/v/00r0qn2t79f3g/"
+title: Flames & Fortune
+description: Flames & Fortuneは、手札を管理し、テンポを交換し、賢いターンで敵を出し抜く、戦術的なカードスタイルのバトラーゲームです。
+iframeSrc: 'https://0e8d16hkgti30.h5games.usercontent.goog/v/00r0qn2t79f3g/'
 thumbnail: /new-images/thumbnails/flames-fortune.jpg
-urlstr: "flames-fortune"
-score: "4.0/5  (1776 votes)"
-tags: ["card", "thinky"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: flames-fortune
+score: 4.0/5  (1776 votes)
+tags:
+  - card
+  - thinky
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +19,7 @@ locale: ja
 Flames & Fortuneは、カードゲームのような決断を迫られるコンパクトなターン制バトラーです。効果を効率的な順序でプレイし、限られたリソースを管理し、敵の意図に合わせて適応することで、流れを自分の方へ引き寄せましょう。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **カーブの計画**: ターンのリソースをきれいに使い切りましょう。エネルギーを残さないようにします。

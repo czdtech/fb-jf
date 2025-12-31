@@ -1,13 +1,16 @@
 ---
-title: "Daily Sudoku"
-description: "毎日新しい数独パズルであなたの論理に挑戦。9x9グリッドを各行、列、3x3ボックスに数字1～9が重複なく含まれるように埋めましょう。"
-iframeSrc: "https://4j6utu2p6fklg.h5games.usercontent.goog/v/6qh61gl4k3ado/"
+title: Daily Sudoku
+description: 毎日新しい数独パズルであなたの論理に挑戦。9x9グリッドを各行、列、3x3ボックスに数字1～9が重複なく含まれるように埋めましょう。
+iframeSrc: 'https://4j6utu2p6fklg.h5games.usercontent.goog/v/6qh61gl4k3ado/'
 thumbnail: /new-images/thumbnails/daily-sudoku-2.png
-urlstr: "daily-sudoku-2"
-score: "4.8/5  (3550 votes)"
-tags: ["puzzle", "thinky", "casual"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: daily-sudoku-2
+score: 4.8/5  (3550 votes)
+tags:
+  - puzzle
+  - thinky
+  - casual
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +20,7 @@ locale: ja
 Daily Sudokuは、毎日解くための新鮮でクラシックな数独パズルを提供します。数独は、論理ベースの数字配置パズルとして世界的に有名です。目的は、9x9のグリッドを、各列、各行、そしてグリッドを構成する9つの3x3サブグリッドのそれぞれに1から9までのすべての数字が含まれるように数字で埋めることです。これは計算や数学のスキルを必要としない純粋な論理パズルであり、忍耐と集中力のみが必要です。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **基本ルール:** 数独の黄金律はシンプルです。1から9まで、各行に1回、各列に1回、各3x3ボックスに1回です。

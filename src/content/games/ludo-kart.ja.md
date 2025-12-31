@@ -1,13 +1,16 @@
 ---
-title: "Ludo Kart"
-description: "Ludo Kartはサクサクとしたダイス＆レースボードゲームです。ダイスを振り、トークンを移動し、最初にホームに到達します。"
-iframeSrc: "https://35q41h2gp6dd8.h5games.usercontent.goog/v/6q7tggnmscsj8/"
+title: Ludo Kart
+description: Ludo Kartはサクサクとしたダイス＆レースボードゲームです。ダイスを振り、トークンを移動し、最初にホームに到達します。
+iframeSrc: 'https://35q41h2gp6dd8.h5games.usercontent.goog/v/6q7tggnmscsj8/'
 thumbnail: /new-images/thumbnails/ludo-kart.png
-urlstr: "ludo-kart"
-score: "3.8/5  (1542 votes)"
-tags: ["casual", "thinky", "2 player"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: ludo-kart
+score: 3.8/5  (1542 votes)
+tags:
+  - casual
+  - thinky
+  - 2 player
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +20,7 @@ locale: ja
 Ludo Kartは、クラシックなルドーをテンポよく遊べる家族向けのレースゲームにしたものです。ダイスを振ってトークンを進め、ホームレーンに入れて、相手より先に全トークンをゴールへ戻します。安全マスや捕獲（相手を戻す）、運の良いロールが展開を左右します。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  トークンを分散：1つが捕獲されても痛手になりすぎないよう、複数のトークンを前に出します。

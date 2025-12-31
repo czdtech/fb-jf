@@ -1,13 +1,16 @@
 ---
-title: "Going Balls"
-description: "3Dボール転がし障害物ランナー：梁や罠の上でバランスを取り、コインを集め、落ちずにゴールを目指しましょう。"
-iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp45/gamehwq/20231116/10/index.htm"
+title: Going Balls
+description: 3Dボール転がし障害物ランナー：梁や罠の上でバランスを取り、コインを集め、落ちずにゴールを目指しましょう。
+iframeSrc: >-
+  https://szhong.4399.com/4399swf//upload_swf/ftp45/gamehwq/20231116/10/index.htm
 thumbnail: /new-images/thumbnails/going-balls.jpg
-urlstr: "going-balls"
-score: "4.3/5  (509 votes)"
-tags: ["runner", "balance"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: going-balls
+score: 4.3/5  (509 votes)
+tags:
+  - runner
+  - balance
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -25,6 +28,7 @@ Going Ballsは、梁、バンパー、ハンマー、動くプラットフォー
 ### 操作方法
 - WASD/矢印キーまたはドラッグでステアリング操作。スペースキーでブレーキ（可能な場合）。Rでリトライ（ホストによります）。
 
+<!-- i18n:section:tips -->
 ### ヒント
 - 前を見ましょう。狭い入り口に対して早めにラインを合わせます。
 - 急な坂道では、最初にスピードをつけてから、ステアリング操作は最小限に抑えましょう。

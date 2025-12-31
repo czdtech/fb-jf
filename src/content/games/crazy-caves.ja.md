@@ -1,13 +1,19 @@
 ---
-title: "Crazy Caves"
-description: "Crazy Cavesに入り、反射神経をテストしましょう！落下する岩の無限の集中砲火をかわしながら、ツルハシを投げて粉砕し、貴重な宝石とゴールドを獲得しましょう。装備をアップグレードして、より長く生き残り、高得点を目指しましょう。"
-iframeSrc: "https://crazycaves.h5games.usercontent.goog/v/24bc2c61-c599-4c5a-9fde-fd3a14fd28a6/"
+title: Crazy Caves
+description: >-
+  Crazy
+  Cavesに入り、反射神経をテストしましょう！落下する岩の無限の集中砲火をかわしながら、ツルハシを投げて粉砕し、貴重な宝石とゴールドを獲得しましょう。装備をアップグレードして、より長く生き残り、高得点を目指しましょう。
+iframeSrc: >-
+  https://crazycaves.h5games.usercontent.goog/v/24bc2c61-c599-4c5a-9fde-fd3a14fd28a6/
 thumbnail: /new-images/thumbnails/crazy-caves.jpg
-urlstr: "crazy-caves"
-score: "4.2/5  (1850 votes)"
-tags: ["action", "casual", "clicker"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: crazy-caves
+score: 4.2/5  (1850 votes)
+tags:
+  - action
+  - casual
+  - clicker
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +23,7 @@ locale: ja
 Crazy Cavesは、反射神経とサバイバルスキルをテストする、テンポの速いアクション満載のアーケードゲームです。あらゆるサイズの岩が絶えず落下する危険な洞窟の底で、カート内の鉱夫を操作します。あなたのミッションは二つあります。落下する破片をかわして生き残ること、そして同時にツルハシを投げて岩を粉砕し、こぼれ落ちる貴重な宝石とゴールドを集めることです。収益を使って装備をアップグレードし、混沌とした洞窟でどれだけ長く生きられるかを確認しましょう。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **サバイバルが最優先:** 絶対的な最優先事項は、ヒットされないことです。常に動き続け、すべての落下する岩の軌道に目を配りましょう。1回のヒットでランが終了します。

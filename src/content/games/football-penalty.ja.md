@@ -1,13 +1,15 @@
 ---
-title: "Football Penalty"
-description: "Football PenaltyはPK戦を再現しています。シュートの位置を決め、高さや隅を狙い分担し、プレッシャーの中でキーパーの裏をかきましょう。"
-iframeSrc: "https://2fb6vjapfstro.h5games.usercontent.goog/v/5443q25keq2qg/"
+title: Football Penalty
+description: Football PenaltyはPK戦を再現しています。シュートの位置を決め、高さや隅を狙い分担し、プレッシャーの中でキーパーの裏をかきましょう。
+iframeSrc: 'https://2fb6vjapfstro.h5games.usercontent.goog/v/5443q25keq2qg/'
 thumbnail: /new-images/thumbnails/football-penalty.png
-urlstr: "football-penalty"
-score: "4.0/5  (1881 votes)"
-tags: ["sports", "soccer"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: football-penalty
+score: 4.0/5  (1881 votes)
+tags:
+  - sports
+  - soccer
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +19,7 @@ locale: ja
 Football Penaltyはスポットキック（PK）に焦点を当てています。キッカーとしては、コース、高さ、パワーを選択しつつ、意図を悟られないようにする必要があります。キーパーとしては（一部のモードで）、助走を読み、それに応じて飛び込みます。正確に隅を突く、低い弾道のシュート、そして直前まで動きを隠すことが、平均的なAIに勝つための鍵です。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **隅を狙う**: 下の隅はセーブするのが難しく、上の隅は強力ですがバーに当たるリスクがあります。

@@ -1,7 +1,8 @@
 ---
 title: Om Nom Connect Classic
 description: Om Nom Connect Classicはマッチングパズルです。同じタイルを接続し、パスをクリアし、Om Nomをテーマにしたレベルをマスターします。
-iframeSrc: 'https://omnomconnectclassic.h5games.usercontent.goog/v/6bc88dac-9f6b-4f2f-8c85-e715c899bb63/'
+iframeSrc: >-
+  https://omnomconnectclassic.h5games.usercontent.goog/v/6bc88dac-9f6b-4f2f-8c85-e715c899bb63/
 thumbnail: /new-images/thumbnails/om-nom-connect-classic.jpg
 urlstr: om-nom-connect-classic
 score: 4.4/5  (2400 votes)
@@ -20,6 +21,7 @@ locale: ja
 Om Nom Connect Classicは、愛らしいOm Nomキャラクターをフィーチャーしたマッチングパズルゲームです。同じタイルのペアを接続しますが、パスは最大2回しか曲がれません。すべてのタイルをクリアして勝ちます。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **エッジを優先:** 外側のタイルから始めます。

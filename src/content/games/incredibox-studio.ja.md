@@ -1,13 +1,17 @@
 ---
-title: "Incredibox Studio"
-description: "Incredibox Studioは、オリジナルのIncrediboxにインスパイアされたファン作成ゲームです。Scratchを使用して作成され、TurboWarpで最適化されており、プレイヤーはサンドボックス環境で独自のミュージカルミックスを作成できます。"
-iframeSrc: "https://turbowarp.org/1013575298/embed"
+title: Incredibox Studio
+description: >-
+  Incredibox
+  Studioは、オリジナルのIncrediboxにインスパイアされたファン作成ゲームです。Scratchを使用して作成され、TurboWarpで最適化されており、プレイヤーはサンドボックス環境で独自のミュージカルミックスを作成できます。
+iframeSrc: 'https://turbowarp.org/1013575298/embed'
 thumbnail: /new-images/thumbnails/incredibox-studio.png
-urlstr: "incredibox-studio"
-score: "4.8/5 (1842 votes)"
-tags: ["music", "sandbox"]
-developer: ""
-releaseDate: 2025-10-10
+urlstr: incredibox-studio
+score: 4.8/5 (1842 votes)
+tags:
+  - music
+  - sandbox
+developer: ''
+releaseDate: 2025-10-10T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +21,7 @@ locale: ja
 Incredibox Studioはファン作成プロジェクトです。事前定義されたサウンドセットに基づいた公式のIncrediboxバージョンとは異なり、この「Studio」バージョンはサンドボックスのような体験を提供します。プレイヤーには、ドラッグ、ドロップ、ミックスするための幅広いサウンドとエフェクトが提供され、ゼロから独自のユニークなビートと音楽作品を作成できます。これは、独自の音楽アイデアを探求したいオリジナルゲームのファンのためのクリエイティブな遊び場です。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略/クリエイティブヒント
 
 *   これはサンドボックスなので、「戦略」は創造性に関するものです。

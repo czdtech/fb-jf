@@ -1,13 +1,18 @@
 ---
-title: "Endless Siege エンドレス・シージ"
-description: "「Endless Siege」は魅力的なタワーディフェンス。オークの大群から王国を守れ。大砲、バリスタ、炎の塔を配置・強化し、毎日変わる新マップで生き残ろう。"
-iframeSrc: "https://endlessseige.h5games.usercontent.goog/v/35nvlvatb9t8g/"
+title: Endless Siege エンドレス・シージ
+description: >-
+  「Endless
+  Siege」は魅力的なタワーディフェンス。オークの大群から王国を守れ。大砲、バリスタ、炎の塔を配置・強化し、毎日変わる新マップで生き残ろう。
+iframeSrc: 'https://endlessseige.h5games.usercontent.goog/v/35nvlvatb9t8g/'
 thumbnail: /new-images/thumbnails/endless-siege.jpg
-urlstr: "endless-siege"
-score: "4.6/5  (3100 votes)"
-tags: ["tower Defense", "strategy", "action"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: endless-siege
+score: 4.6/5  (3100 votes)
+tags:
+  - tower Defense
+  - strategy
+  - action
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 locale: ja
 ---
 
@@ -18,6 +23,7 @@ locale: ja
 このゲームの最大の特徴は、**毎日新しいマップが自動生成される**ことです。これにより無限のリプレイ性が保証されています。様々な防衛タワーを戦略的に配置・強化し、できるだけ多くのウェーブを生き残り、デイリーハイスコアを競いましょう。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲーム攻略と戦略
 
 1.  **タワーを知る:** 各防衛施設の特性を理解することが鍵です。

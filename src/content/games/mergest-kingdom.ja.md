@@ -1,13 +1,16 @@
 ---
-title: "Mergest Kingdom"
-description: "Mergest Kingdomは王国構築系のマージゲームです。アイテムをマージして建物を建て、土地を広げながら王国を発展させます。"
-iframeSrc: "https://620tnu7381eao.h5games.usercontent.goog/v/27p309rk86cr8/"
+title: Mergest Kingdom
+description: Mergest Kingdomは王国構築系のマージゲームです。アイテムをマージして建物を建て、土地を広げながら王国を発展させます。
+iframeSrc: 'https://620tnu7381eao.h5games.usercontent.goog/v/27p309rk86cr8/'
 thumbnail: /new-images/thumbnails/mergest-kingdom.png
-urlstr: "mergest-kingdom"
-score: "4.2/5  (2079 votes)"
-tags: ["casual", "thinky", "strategy"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: mergest-kingdom
+score: 4.2/5  (2079 votes)
+tags:
+  - casual
+  - thinky
+  - strategy
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +20,7 @@ locale: ja
 Mergest Kingdomは、マージ要素と王国づくりを組み合わせたゲームです。資源や建物、ユニットをマージして強化し、土地を探索しながら王国を広げていきます。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **リソースをマージ:** より良いリソースのために3つまたは5つをマージします。

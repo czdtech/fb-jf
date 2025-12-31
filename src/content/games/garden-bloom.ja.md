@@ -1,13 +1,15 @@
 ---
-title: "Garden Bloom"
-description: "Garden Bloomで美しい庭を復元しましょう！やりがいのあるマッチ3パズルを解き、星を獲得し、素敵な装飾を選んで夢の庭をデザインしましょう。"
-iframeSrc: "https://gardenbloom.h5games.usercontent.goog/v/03uqf2ceev9h8/"
+title: Garden Bloom
+description: Garden Bloomで美しい庭を復元しましょう！やりがいのあるマッチ3パズルを解き、星を獲得し、素敵な装飾を選んで夢の庭をデザインしましょう。
+iframeSrc: 'https://gardenbloom.h5games.usercontent.goog/v/03uqf2ceev9h8/'
 thumbnail: /new-images/thumbnails/garden-bloom.png
-urlstr: "garden-bloom"
-score: "4.6/5  (2780 votes)"
-tags: ["puzzle", "casual"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: garden-bloom
+score: 4.6/5  (2780 votes)
+tags:
+  - puzzle
+  - casual
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +19,7 @@ locale: ja
 Garden Bloomは、クラシックなマッチ3パズルと庭のデザイン・修復を見事に融合させた、リラックスできるクリエイティブなゲームです。プレイヤーは荒れ果てた庭をかつての栄光に戻す任務を負います。ゲームの核心はマッチ3レベルをクリアすることで、色とりどりの花や庭の要素を入れ替えて特定の目標を達成します。レベルをクリアすると報酬として星がもらえ、掃除、花の植え付け、美しい装飾の配置など、庭でのタスクを実行するための通貨として機能します。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **2つのパートからなるゲームプレイ:**

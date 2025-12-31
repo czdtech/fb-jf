@@ -1,13 +1,15 @@
 ---
-title: "Google Feud"
-description: "アンケートスタイルの推測ゲーム：最も人気のある検索クエリでオートコンプリートのプロンプトを完成させ、ストライクアウトせずにラウンドを勝ち進みましょう。"
-iframeSrc: "https://mac-web.github.io/macvg/projects/google-feud/game.html"
+title: Google Feud
+description: アンケートスタイルの推測ゲーム：最も人気のある検索クエリでオートコンプリートのプロンプトを完成させ、ストライクアウトせずにラウンドを勝ち進みましょう。
+iframeSrc: 'https://mac-web.github.io/macvg/projects/google-feud/game.html'
 thumbnail: /new-images/thumbnails/google-feud.jpg
-urlstr: "google-feud"
-score: "4.3/5  (511 votes)"
-tags: ["trivia", "quiz"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: google-feud
+score: 4.3/5  (511 votes)
+tags:
+  - trivia
+  - quiz
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -25,6 +27,7 @@ Google Feudは、ファミリー・フュード（クイズ番組）スタイル
 ### 操作方法
 - キーボードで答えを入力し、Enterで送信。画面上のボタンでカテゴリを選択します。
 
+<!-- i18n:section:tips -->
 ### ヒント
 - オートコンプリートのように考えましょう：スペル、同義語、よくある慣用句など。
 - 行き詰まったら、反対語や関連する概念を試してみましょう。

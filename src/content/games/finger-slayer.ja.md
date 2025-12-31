@@ -1,13 +1,15 @@
 ---
-title: "Finger Slayer"
-description: "Finger Slayerは反射神経テスト。刃が閉じる直前に指を引き戻し、早すぎても遅すぎても失敗するギリギリを狙います。"
-iframeSrc: "https://7ftsta5r737o8.h5games.usercontent.goog/v/3m7r2si8ppdlg/"
+title: Finger Slayer
+description: Finger Slayerは反射神経テスト。刃が閉じる直前に指を引き戻し、早すぎても遅すぎても失敗するギリギリを狙います。
+iframeSrc: 'https://7ftsta5r737o8.h5games.usercontent.goog/v/3m7r2si8ppdlg/'
 thumbnail: /new-images/thumbnails/finger-slayer.jpg
-urlstr: "finger-slayer"
-score: "3.8/5  (1690 votes)"
-tags: ["action", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: finger-slayer
+score: 3.8/5  (1690 votes)
+tags:
+  - action
+  - casual
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +19,7 @@ locale: ja
 Finger Slayerは、ワンボタンで反射神経を試すゲームです。危険ゾーンに「指」を置き、刃（トラップ）が閉じる直前に引き戻します。ラウンドが進むほど閉じる速度が上がり、フェイントやリズムの変化も増えます。早く引きすぎるとスコアが伸びにくく、遅れるとアウト。最後の安全な瞬間に、迷わず一度で引くのがコツです。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **予告を読む:** ほとんどのトラップはミクロの準備動作（サウンド/ビジュアル）を与えます。精神的なカウントではなく、その信号から鍵を入れます。

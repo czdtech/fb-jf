@@ -1,13 +1,15 @@
 ---
-title: "Fleeing the Complex"
-description: "分岐する棒人間の脱出劇：アイテムやルートを選んで施設から脱出し、複数のエンディングを発見し、すべての失敗やバイオ（人物紹介）を集めましょう。"
-iframeSrc: "https://ubg77.github.io/fleeing-the-complex/"
+title: Fleeing the Complex
+description: 分岐する棒人間の脱出劇：アイテムやルートを選んで施設から脱出し、複数のエンディングを発見し、すべての失敗やバイオ（人物紹介）を集めましょう。
+iframeSrc: 'https://ubg77.github.io/fleeing-the-complex/'
 thumbnail: /new-images/thumbnails/fleeing-the-complex.jpg
-urlstr: "fleeing-the-complex"
-score: "4.7/5  (1158 votes)"
-tags: ["adventure", "point-and-click"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: fleeing-the-complex
+score: 4.7/5  (1158 votes)
+tags:
+  - adventure
+  - point-and-click
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -25,6 +27,7 @@ Henry Stickminの最大の脱獄劇：選択肢を選び、ガジェットを使
 ### 操作方法
 - マウスで選択肢を選び、操作します。時折発生するプロンプトに使用するキーはホストによって異なります。
 
+<!-- i18n:section:tips -->
 ### ヒント
 - 選択肢が失敗したら、別のルートを試してみましょう。多くのシーンには「正解」の道があります。
 - バージョンがサポートしている場合、シーン中にキャラクターをクリックしてバイオを記録しましょう。

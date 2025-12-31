@@ -1,13 +1,15 @@
 ---
-title: "Merge Bistro"
-description: "Merge Bistroはレストラン管理マージゲームです。アイテムをマージし、料理を作り、ビストロを拡大し、顧客にサービスを提供します。"
-iframeSrc: "https://0f5mbl2u9ont8.h5games.usercontent.goog/v/50p3a8ekgfdk8/"
+title: Merge Bistro
+description: Merge Bistroはレストラン管理マージゲームです。アイテムをマージし、料理を作り、ビストロを拡大し、顧客にサービスを提供します。
+iframeSrc: 'https://0f5mbl2u9ont8.h5games.usercontent.goog/v/50p3a8ekgfdk8/'
 thumbnail: /new-images/thumbnails/merge-bistro.png
-urlstr: "merge-bistro"
-score: "4.1/5  (1996 votes)"
-tags: ["casual", "thinky"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: merge-bistro
+score: 4.1/5  (1996 votes)
+tags:
+  - casual
+  - thinky
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +19,7 @@ locale: ja
 Merge Bistroは、アイテムをマージしながらお店を成長させていくレストラン系のマージゲームです。同じアイテムを重ねて料理や設備、装飾をアップグレードし、注文をこなしてビストロを広げていきます。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **高レベルアイテムのためにマージ:** より価値のある報酬のために3つ以上のアイテムをマージします。

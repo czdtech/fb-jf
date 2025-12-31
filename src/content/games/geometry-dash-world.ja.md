@@ -1,13 +1,16 @@
 ---
-title: "Geometry Dash World"
-description: "コンパクトなリズムプラットフォーマーの世界：短く、音楽に同期したレベルを走り、ジャンプし、飛び回りましょう。集めたオーブでゲートをアンロックし、デイリーレベルを訪れてください。"
-iframeSrc: "https://geometrylite.io/game/geometry-dash-world/"
+title: Geometry Dash World
+description: >-
+  コンパクトなリズムプラットフォーマーの世界：短く、音楽に同期したレベルを走り、ジャンプし、飛び回りましょう。集めたオーブでゲートをアンロックし、デイリーレベルを訪れてください。
+iframeSrc: 'https://geometrylite.io/game/geometry-dash-world/'
 thumbnail: /new-images/thumbnails/geometry-dash-world.jpg
-urlstr: "geometry-dash-world"
-score: "3.6/5  (1425 votes)"
-tags: ["rhythm", "platformer"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: geometry-dash-world
+score: 3.6/5  (1425 votes)
+tags:
+  - rhythm
+  - platformer
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -25,6 +28,7 @@ Geometry Dash Worldは、核となるリズムプラットフォーミングを�
 ### 操作方法
 - スペース/マウス/タッチでジャンプ。長押しで飛行。練習/チェックポイントの操作はホストによって異なります。
 
+<!-- i18n:section:tips -->
 ### ヒント
 - 曲のフレーズ（区切り）を学びましょう。ハザードはよくダウンビートやフィル（おかず）と一致しています。
 - 船の入力は軽く行いましょう。狭い隙間の前では離して安定させます。

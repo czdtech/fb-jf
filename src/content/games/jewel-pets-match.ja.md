@@ -1,13 +1,16 @@
 ---
-title: "Jewel Pets Match"
-description: "宝石のような動物をそろえるマッチ3パズルです。入れ替えて3つ以上をそろえ、各レベルの目標を達成します。"
-iframeSrc: "https://jewelpetsmatch.h5games.usercontent.goog/v/2kcabvevoilco/"
+title: Jewel Pets Match
+description: 宝石のような動物をそろえるマッチ3パズルです。入れ替えて3つ以上をそろえ、各レベルの目標を達成します。
+iframeSrc: 'https://jewelpetsmatch.h5games.usercontent.goog/v/2kcabvevoilco/'
 thumbnail: /new-images/thumbnails/jewel-pets-match.png
-urlstr: "jewel-pets-match"
-score: "4.4/5  (2300 votes)"
-tags: ["puzzle", "casual", "action"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: jewel-pets-match
+score: 4.4/5  (2300 votes)
+tags:
+  - puzzle
+  - casual
+  - action
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +20,7 @@ locale: ja
 Jewel Pets Matchは、動物キャラクターをそろえて消すマッチ3パズルです。盤面で隣接するピースを入れ替え、同じ動物を3つ以上そろえて消していきます。各レベルにはスコア到達やブロックの除去などの目標があり、手数制限の中で達成する必要があります。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **パワーアップを作成する:** ゲームをマスターするには、3つ以上のペットのマッチを行う必要があります。

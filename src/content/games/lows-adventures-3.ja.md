@@ -1,13 +1,15 @@
 ---
-title: "Low's Adventures 3"
-description: "レトロプラットフォーマートリロジーエントリー：より厳しいジャンプ、新しいギミックブロック、コンパクトなステージでより多くの秘密。"
-iframeSrc: "https://previews.customer.envatousercontent.com/files/480663659/index.html"
+title: Low's Adventures 3
+description: レトロプラットフォーマートリロジーエントリー：より厳しいジャンプ、新しいギミックブロック、コンパクトなステージでより多くの秘密。
+iframeSrc: 'https://previews.customer.envatousercontent.com/files/480663659/index.html'
 thumbnail: /new-images/thumbnails/lows-adventures-3.jpg
-urlstr: "lows-adventures-3"
-score: "4.1/5  (570 votes)"
-tags: ["platformer", "adventure"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: lows-adventures-3
+score: 4.1/5  (570 votes)
+tags:
+  - platformer
+  - adventure
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -25,6 +27,7 @@ locale: ja
 ### 操作方法
 - 矢印キー/WASDで移動し、ジャンプします。攻撃/操作キーは環境によって異なります。
 
+<!-- i18n:section:tips -->
 ### ヒント
 - 動く障害物は焦らず待ちましょう。1周期待つ方が、やり直しより安いです。
 - タイムを狙うなら、コイン/アイテムは無理に回収しない方が安定します。

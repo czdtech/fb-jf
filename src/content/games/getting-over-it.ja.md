@@ -1,13 +1,15 @@
 ---
-title: "Getting over it"
-description: "ハンマーで登る挑戦：大釜に入った男が、ハンマーを振って、弾んで、引っ掛けて、シュールな障害物を登っていきます。精密な物理挙動が焦りを罰します。"
-iframeSrc: "https://ubg77.github.io/fix/getting-over-it/"
+title: Getting over it
+description: ハンマーで登る挑戦：大釜に入った男が、ハンマーを振って、弾んで、引っ掛けて、シュールな障害物を登っていきます。精密な物理挙動が焦りを罰します。
+iframeSrc: 'https://ubg77.github.io/fix/getting-over-it/'
 thumbnail: /new-images/thumbnails/getting-over-it.jpg
-urlstr: "getting-over-it"
-score: "5.0/5  (226 votes)"
-tags: ["platformer", "physics"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: getting-over-it
+score: 5.0/5  (226 votes)
+tags:
+  - platformer
+  - physics
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -25,6 +27,7 @@ Getting Over Itは、ハンマーだけを操作する高精度の物理クラ�
 ### 操作方法
 - マウスでハンマーの角度と力を制御します。キーボードの使用は最小限です（ホストによります）。
 
+<!-- i18n:section:tips -->
 ### ヒント
 - 制御されたスイングには、優しく円を描くような動きを使いましょう。急激な入力は避けてください。
 - 大きな動きをする前に、安全なアンカーの「ポケット（くぼみ）」を見つけましょう。

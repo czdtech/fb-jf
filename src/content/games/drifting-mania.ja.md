@@ -1,13 +1,15 @@
 ---
-title: "Drifting Mania ドリフティング・マニア"
-description: "「Drifting Mania」は見下ろし視点のドリフトゲーム。アクセルとライン取りを整えて、コーナーをつなぎながらラップタイムを縮めよう。"
-iframeSrc: "https://6r2lv8eg0tif8.h5games.usercontent.goog/v/56d4ef8srjpfg/"
+title: Drifting Mania ドリフティング・マニア
+description: 「Drifting Mania」は見下ろし視点のドリフトゲーム。アクセルとライン取りを整えて、コーナーをつなぎながらラップタイムを縮めよう。
+iframeSrc: 'https://6r2lv8eg0tif8.h5games.usercontent.goog/v/56d4ef8srjpfg/'
 thumbnail: /new-images/thumbnails/drifting-mania.png
-urlstr: "drifting-mania"
-score: "3.8/5  (1640 votes)"
-tags: ["car", "driving"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: drifting-mania
+score: 3.8/5  (1640 votes)
+tags:
+  - car
+  - driving
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +19,7 @@ locale: ja
 *Drifting Mania（ドリフティング・マニア）*は、見下ろし視点でドリフト操作を磨く軽快なレースゲームです。アクセルの抜き差しとライン取りでスライドをつなぎ、出口に向けて車体を整えながら安定したラップタイムを狙いましょう。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲーム攻略と戦略
 
 1.  **スローイン・ファストアウト:** コーナー進入は減速し、立ち上がりで加速すると安定します。

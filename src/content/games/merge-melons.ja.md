@@ -9,7 +9,7 @@ tags:
   - puzzle
   - casual
 developer: ''
-releaseDate: 2025-10-17
+releaseDate: 2025-10-17T00:00:00.000Z
 locale: ja
 ---
 
@@ -19,6 +19,7 @@ locale: ja
 Merge Melonsは、同じメロンをマージして上位のフルーツを作るシンプルなパズルです。ボードがいっぱいにならないように整理しながらマージを重ね、スコアを伸ばしていきます。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **大きなマージを計画:** 最大のマージのために保存します。

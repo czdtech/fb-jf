@@ -1,13 +1,15 @@
 ---
-title: "Hole io"
-description: "街を飲み込む.io対戦ゲーム：ブラックホールを動かして物を食べ、大きく成長し、マップ上のライバルより高得点を出すか、消し去りましょう。"
-iframeSrc: "https://holeio.com/"
+title: Hole io
+description: 街を飲み込む.io対戦ゲーム：ブラックホールを動かして物を食べ、大きく成長し、マップ上のライバルより高得点を出すか、消し去りましょう。
+iframeSrc: 'https://holeio.com/'
 thumbnail: /new-images/thumbnails/hole-io.jpg
-urlstr: "hole-io"
-score: "4.0/5  (606 votes)"
-tags: ["io", "arcade"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: hole-io
+score: 4.0/5  (606 votes)
+tags:
+  - io
+  - arcade
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -25,6 +27,7 @@ Hole ioでは、破壊可能な街の中を動き回るブラックホールと�
 ### 操作方法
 - マウス/ドラッグまたはWASDで操縦。モードとタイマーはホストによって異なります。
 
+<!-- i18n:section:tips -->
 ### ヒント
 - 成長するまでは大きなライバルを避けましょう。広い通りを逃げ道にします。
 - 成長ルートを計画しましょう。寄り道は貴重なタイマーの秒数を無駄にします。

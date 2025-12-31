@@ -1,13 +1,15 @@
 ---
-title: "Gold Miner"
-description: "フックで釣り上げるアーケードの定番：タイミングよく爪を放って金や宝石を掴み、パワーアップを購入し、時間切れになる前に目標金額を達成しましょう。"
-iframeSrc: "https://ad-freegames.github.io/flash/game/gold-miner.html"
+title: Gold Miner
+description: フックで釣り上げるアーケードの定番：タイミングよく爪を放って金や宝石を掴み、パワーアップを購入し、時間切れになる前に目標金額を達成しましょう。
+iframeSrc: 'https://ad-freegames.github.io/flash/game/gold-miner.html'
 thumbnail: /new-images/thumbnails/gold-miner.jpg
-urlstr: "gold-miner"
-score: "4.2/5  (260 votes)"
-tags: ["arcade", "skill"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: gold-miner
+score: 4.2/5  (260 votes)
+tags:
+  - arcade
+  - skill
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -25,6 +27,7 @@ Gold Minerは、揺れる爪（クロー）を指示通りに落とし、地下�
 ### 操作方法
 - 1つのキー/クリックで爪を落とします。アイテム用の追加キーがある場合もあります（ホストによります）。
 
+<!-- i18n:section:tips -->
 ### ヒント
 - 弧のタイミングを覚えましょう。物体の中心よりわずかに手前でリリースします。
 - 時間を浪費する大きな岩のために、ダイナマイトを取っておきましょう。

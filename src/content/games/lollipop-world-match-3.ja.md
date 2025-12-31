@@ -1,13 +1,18 @@
 ---
-title: "Lollipop World : match 3"
-description: "Lollipop World: Match 3はキャンディパズラーです。パワーアップを組み合わせ、ブロッカーを破壊し、厳しい移動制限内でシーン目標を満たします。"
-iframeSrc: "https://4oij9suhguc58.h5games.usercontent.goog/v/1osssadggdrao/"
+title: 'Lollipop World : match 3'
+description: >-
+  Lollipop World: Match
+  3はキャンディパズラーです。パワーアップを組み合わせ、ブロッカーを破壊し、厳しい移動制限内でシーン目標を満たします。
+iframeSrc: 'https://4oij9suhguc58.h5games.usercontent.goog/v/1osssadggdrao/'
 thumbnail: /new-images/thumbnails/lollipop-world-match-3.jpg
-urlstr: "lollipop-world-match-3"
-score: "4.0/5  (1871 votes)"
-tags: ["puzzle", "casual", "thinky"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: lollipop-world-match-3
+score: 4.0/5  (1871 votes)
+tags:
+  - puzzle
+  - casual
+  - thinky
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +22,7 @@ locale: ja
 Lollipop World: Match 3は、フロスティングやラッパー、チョコレートなどのブロッカーが登場するカラフルなマッチ3パズルです。スコア到達、キャンディの収集、ゼリーの消去など、レベルごとに目標が変わります。爆弾＋ライン消し、カラークリアといったパワーアップの組み合わせは、詰まりやすい盤面を崩すのに役立ちます。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  目標優先：スコアより先に、ブロッカー/収集目標を片付けます。

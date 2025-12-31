@@ -1,13 +1,15 @@
 ---
-title: "Funny Shooter"
-description: "ウェーブシューターのプロトタイプ：奇抜な敵と戦い、現金を回収し、武器をアップグレードして、ますます厳しくなるラウンドを生き残りましょう。"
-iframeSrc: "https://bitlifeonline.github.io/class2623/funny-shooter/"
+title: Funny Shooter
+description: ウェーブシューターのプロトタイプ：奇抜な敵と戦い、現金を回収し、武器をアップグレードして、ますます厳しくなるラウンドを生き残りましょう。
+iframeSrc: 'https://bitlifeonline.github.io/class2623/funny-shooter/'
 thumbnail: /new-images/thumbnails/funny-shooter.jpg
-urlstr: "funny-shooter"
-score: "5.0/5  (797 votes)"
-tags: ["shooting", "fps"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: funny-shooter
+score: 5.0/5  (797 votes)
+tags:
+  - shooting
+  - fps
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -25,6 +27,7 @@ locale: ja
 ### 操作方法
 - WASDで移動、マウスで照準/射撃。Rでリロード、数字キーで武器切り替え。
 
+<!-- i18n:section:tips -->
 ### ヒント
 - ヘッドショットは弾薬と時間を節約します。
 - 遮蔽物と角を利用して敵を一箇所に集めましょう。

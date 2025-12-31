@@ -1,13 +1,15 @@
 ---
-title: "Football Legends"
-description: "アーケードサッカーの決闘：ヘディング、ボレー、特別なショットを使って、クイックマッチやトーナメントで1対1または2対2の対戦を楽しみましょう。"
-iframeSrc: "https://webglmath.github.io/football-legends/"
+title: Football Legends
+description: アーケードサッカーの決闘：ヘディング、ボレー、特別なショットを使って、クイックマッチやトーナメントで1対1または2対2の対戦を楽しみましょう。
+iframeSrc: 'https://webglmath.github.io/football-legends/'
 thumbnail: /new-images/thumbnails/football-legends.jpg
-urlstr: "football-legends"
-score: "4.3/5  (222 votes)"
-tags: ["sports", "soccer"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: football-legends
+score: 4.3/5  (222 votes)
+tags:
+  - sports
+  - soccer
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -25,6 +27,7 @@ locale: ja
 ### 操作方法
 - 矢印キー/WASDで移動/ジャンプ。シュート/パスやスペシャルのキーはホストによって異なります。
 
+<!-- i18n:section:tips -->
 ### ヒント
 - ジャンプのタイミングを合わせたヘディングが、最も安全な得点方法です。
 - スペシャルは混戦状態ではなく、オープンスペースがあるときのために温存しましょう。

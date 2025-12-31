@@ -1,13 +1,15 @@
 ---
-title: "Kingdom Rush"
-description: "フラッグシップのタワーディフェンス：4つのタワータイプを配置してアップグレードし、援軍を呼び、ヒーローを細かく操作してチョークポイントを守りましょう。"
-iframeSrc: "https://1000freegames.github.io/swf/kingdom-rush.html"
+title: Kingdom Rush
+description: フラッグシップのタワーディフェンス：4つのタワータイプを配置してアップグレードし、援軍を呼び、ヒーローを細かく操作してチョークポイントを守りましょう。
+iframeSrc: 'https://1000freegames.github.io/swf/kingdom-rush.html'
 thumbnail: /new-images/thumbnails/kingdom-rush.jpg
-urlstr: "kingdom-rush"
-score: "3.8/5  (405 votes)"
-tags: ["tower-defense", "strategy"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: kingdom-rush
+score: 3.8/5  (405 votes)
+tags:
+  - tower-defense
+  - strategy
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -25,6 +27,7 @@ Kingdom Rushは、レーン管理とヒーローの細かな操作が要のタ�
 ### 操作方法
 - タワーの建設・アップグレードやヒーロー操作はマウス/タッチで行います。ホットキーは環境によって異なります。
 
+<!-- i18n:section:tips -->
 ### ヒント
 - 序盤は数を増やすより、要所のタワーを強化した方が安定します。
 - 対空も必ず確保しましょう。飛行ユニットは地上専用の配置を簡単に崩します。

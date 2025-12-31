@@ -1,13 +1,16 @@
 ---
-title: "Five Nights at Freddy's Sister Location"
-description: "タスクベースのシフト制ホラー：部屋を移動し、メンテナンス作業を完了し、Funtimeアニマトロニクスを監視して、スクリプト化されたセットピースを生き残りましょう。"
-iframeSrc: "https://ubg77.github.io/fix/fnaf2/fnafsl.html"
+title: Five Nights at Freddy's Sister Location
+description: >-
+  タスクベースのシフト制ホラー：部屋を移動し、メンテナンス作業を完了し、Funtimeアニマトロニクスを監視して、スクリプト化されたセットピースを生き残りましょう。
+iframeSrc: 'https://ubg77.github.io/fix/fnaf2/fnafsl.html'
 thumbnail: /new-images/thumbnails/five-nights-at-freddy-sl.jpg
-urlstr: "five-nights-at-freddy-sl"
-score: "3.9/5  (678 votes)"
-tags: ["horror", "adventure"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: five-nights-at-freddy-sl
+score: 3.9/5  (678 votes)
+tags:
+  - horror
+  - adventure
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -25,6 +28,7 @@ locale: ja
 ### 操作方法
 - マウス/UIでパネル、電気ショック、モニターを操作します。通気口セクションの移動はキーで行います（ホストによります）。
 
+<!-- i18n:section:tips -->
 ### ヒント
 - よく聞いてください。音声の合図やちらつきが危険を知らせてくれます。
 - 暗い通気口セクションはゆっくり移動しましょう。急ぐと失敗の原因になります。

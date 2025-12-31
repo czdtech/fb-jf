@@ -1,13 +1,16 @@
 ---
-title: "Jungle Bricks"
-description: "番号付きブロックを狙って撃つブロック崩し系パズルです。ブロックが下に到達する前に耐久値を削り切ります。"
-iframeSrc: "https://0gt5ae21ln70o.h5games.usercontent.goog/v/0762mjie8e8s0/"
+title: Jungle Bricks
+description: 番号付きブロックを狙って撃つブロック崩し系パズルです。ブロックが下に到達する前に耐久値を削り切ります。
+iframeSrc: 'https://0gt5ae21ln70o.h5games.usercontent.goog/v/0762mjie8e8s0/'
 thumbnail: /new-images/thumbnails/jungle-bricks.png
-urlstr: "jungle-bricks"
-score: "4.0/5  (988 votes)"
-tags: ["puzzle", "shooting", "casual"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: jungle-bricks
+score: 4.0/5  (988 votes)
+tags:
+  - puzzle
+  - shooting
+  - casual
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +20,7 @@ locale: ja
 Jungle Bricksは、番号付きブロックをボールで削っていくブロック崩し系のパズルです。固定位置からボールの一斉射撃（ボレー）を行い、反射を使って複数のブロックをまとめて削ります。各ブロックの数字は耐久値で、0になると消えます。ブロックが画面下に到達する前に減らし、できるだけ長く続けるのが目的です。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **角度を狙う:** ハイスコアの鍵は、1回のショットでヒット数を最大化することです。まっすぐ上に撃つのを避けてください。代わりに、画面の側面やレンガ間の隙間を狙って、複雑な跳ね返り（リコシェット）を作りましょう。よく狙ったショットは、ボールが画面の周りを長時間跳ね回り、複数のレンガを一度にクリアできます。

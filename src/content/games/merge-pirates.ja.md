@@ -10,7 +10,7 @@ tags:
   - adventure
   - thinky
 developer: ''
-releaseDate: 2025-10-17
+releaseDate: 2025-10-17T00:00:00.000Z
 locale: ja
 ---
 
@@ -20,6 +20,7 @@ locale: ja
 Merge Piratesは、海賊や船、アイテムをマージして強化していくマージゲームです。島を探索して宝物を集め、クエストを進めながらエリアを広げていきます。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **賢くマージ:** より強力な海賊と船のためにマージします。

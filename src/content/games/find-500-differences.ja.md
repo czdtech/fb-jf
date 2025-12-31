@@ -1,13 +1,16 @@
 ---
-title: "Find 500 Differences"
-description: "Find 500 Differencesで観察力に挑戦しましょう。ほぼ同じ2つの画像を比較し、すべての微妙な違いを見つけましょう。"
-iframeSrc: "https://find500differences2.h5games.usercontent.goog/v/4gu2tobroroug/"
+title: Find 500 Differences
+description: Find 500 Differencesで観察力に挑戦しましょう。ほぼ同じ2つの画像を比較し、すべての微妙な違いを見つけましょう。
+iframeSrc: 'https://find500differences2.h5games.usercontent.goog/v/4gu2tobroroug/'
 thumbnail: /new-images/thumbnails/find-500-differences.png
-urlstr: "find-500-differences"
-score: "3.9/5  (1234 votes)"
-tags: ["puzzle", "casual", "thinky"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: find-500-differences
+score: 3.9/5  (1234 votes)
+tags:
+  - puzzle
+  - casual
+  - thinky
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +20,7 @@ locale: ja
 Find 500 Differencesは、2枚のほぼ同じ画像を見比べて「違い」を探す定番パズルです。各ステージで見つけるのは基本的に5つの違い。風景や街並みなどさまざまな写真をじっくり観察して、細かな変化を見つけていきます。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **体系的にスキャンする:** ランダムに見回すだけではいけません。左上隅から始めて、本を読むように、両方の画像を水平にスキャンします。この体系的なアプローチにより、セクションを見逃すことがありません。

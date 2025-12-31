@@ -1,13 +1,16 @@
 ---
-title: "Fuzzies"
-description: "カラーマッチングバブルシューター：色をマッチさせてファジー（ふわふわ）を狙い、ブースターを使用し、壁が底に到達するのを防ぎましょう。"
-iframeSrc: "https://games.cdn.famobi.com/html5games/f/fuzzies/v130/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=664712c7-d01a-494a-bddf-4ea78f48e5bb&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=662&original_ref="
+title: Fuzzies
+description: カラーマッチングバブルシューター：色をマッチさせてファジー（ふわふわ）を狙い、ブースターを使用し、壁が底に到達するのを防ぎましょう。
+iframeSrc: >-
+  https://games.cdn.famobi.com/html5games/f/fuzzies/v130/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=664712c7-d01a-494a-bddf-4ea78f48e5bb&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=662&original_ref=
 thumbnail: /new-images/thumbnails/fuzzies.jpg
-urlstr: "fuzzies"
-score: "4.1/5  (539 votes)"
-tags: ["puzzle", "match-3"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: fuzzies
+score: 4.1/5  (539 votes)
+tags:
+  - puzzle
+  - match-3
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -25,6 +28,7 @@ locale: ja
 ### 操作方法
 - マウス/タッチで狙って撃ちます。利用可能な場合、次の色を交換します。
 
+<!-- i18n:section:tips -->
 ### ヒント
 - 高いアンカー（固定点）をターゲットにして大きなセクションを落とします。
 - ボードをバランスよく保ちます。片側を過剰に埋めないでください。

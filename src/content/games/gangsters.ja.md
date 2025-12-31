@@ -1,13 +1,16 @@
 ---
-title: "Gangsters"
-description: "物理ラグドールの決闘：2人の棒人間ギャングが屋上で跳ね回り、撃ち合います。ジャンプと射撃のタイミングを計って、相手を叩き落としましょう。"
-iframeSrc: "https://app-185146.games.s3.yandex.net/185146/4mtxwijatlm9neect542qv9nbcqetm7u/index.html"
+title: Gangsters
+description: 物理ラグドールの決闘：2人の棒人間ギャングが屋上で跳ね回り、撃ち合います。ジャンプと射撃のタイミングを計って、相手を叩き落としましょう。
+iframeSrc: >-
+  https://app-185146.games.s3.yandex.net/185146/4mtxwijatlm9neect542qv9nbcqetm7u/index.html
 thumbnail: /new-images/thumbnails/gangsters.jpg
-urlstr: "gangsters"
-score: "4.4/5  (242 votes)"
-tags: ["action", "physics"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: gangsters
+score: 4.4/5  (242 votes)
+tags:
+  - action
+  - physics
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -25,6 +28,7 @@ locale: ja
 ### 操作方法
 - プレイヤーごとに1ボタンでジャンプ/射撃（ホストによります）、またはアクションごとに個別のキーを使用します。
 
+<!-- i18n:section:tips -->
 ### ヒント
 - 小さなホップ（跳ね）で狙いを定め、大きなホップで回避や位置取りを行いましょう。
 - 足元を狙って相手を浮かせ、バランスを崩しましょう。

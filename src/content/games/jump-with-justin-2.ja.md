@@ -1,13 +1,17 @@
 ---
-title: "Jump With Justin 2"
-description: "Jump With Justin 2は弾むプラットフォーマーです。ジャンプのタイミングを合わせ、障害物をバウンスし、スプリングを連鎖させてゴールに到達します。"
-iframeSrc: "https://jumpwithjustin2.h5games.usercontent.goog/v/54vavt12q94n8/"
+title: Jump With Justin 2
+description: >-
+  Jump With Justin
+  2は弾むプラットフォーマーです。ジャンプのタイミングを合わせ、障害物をバウンスし、スプリングを連鎖させてゴールに到達します。
+iframeSrc: 'https://jumpwithjustin2.h5games.usercontent.goog/v/54vavt12q94n8/'
 thumbnail: /new-images/thumbnails/jump-with-justin-2.png
-urlstr: "jump-with-justin-2"
-score: "3.9/5  (1571 votes)"
-tags: ["action", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: jump-with-justin-2
+score: 3.9/5  (1571 votes)
+tags:
+  - action
+  - casual
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +21,7 @@ locale: ja
 Jump With Justin 2は、スプリングジャンプ、移動プラットフォーム、トラップタイミングを中心とした軽いプラットフォーマーです。アークを計画し、バウンスを連鎖させ、最小限のミスで出口に到達するために勢いを保ちます。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  軌道の調整：急がず一定のリズムで跳ぶと、障害物を越えやすくなります。

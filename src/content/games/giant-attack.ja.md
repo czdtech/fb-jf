@@ -1,13 +1,16 @@
 ---
-title: "Giant Attack"
-description: "アクション満載のアーケードゲームで巨大なモンスターに挑みましょう！味方を集めてサイズとパワーを上げ、壊滅的な攻撃を繰り出して、そびえ立つ怪物を倒してください。"
-iframeSrc: "https://5699ri02mr840.h5games.usercontent.goog/v/0dov2qbpnafb0/"
+title: Giant Attack
+description: >-
+  アクション満載のアーケードゲームで巨大なモンスターに挑みましょう！味方を集めてサイズとパワーを上げ、壊滅的な攻撃を繰り出して、そびえ立つ怪物を倒してください。
+iframeSrc: 'https://5699ri02mr840.h5games.usercontent.goog/v/0dov2qbpnafb0/'
 thumbnail: /new-images/thumbnails/giant-attack.png
-urlstr: "giant-attack"
-score: "4.1/5  (1800 votes)"
-tags: ["action", "casual"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: giant-attack
+score: 4.1/5  (1800 votes)
+tags:
+  - action
+  - casual
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +20,7 @@ locale: ja
 Giant Attackは、巨大なモンスターと対決するテンポの速いアクションゲームです。あなたはヒーローを操作し、そびえ立つ敵の攻撃をしのぎながら戦います。勝利の鍵は攻撃だけでなく、戦場に散らばった味方を集めて成長することにあります。味方を集めるほどキャラクターのサイズと力が上がり、より強力な発射物で巨人を倒しやすくなります。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **集めて成長:** まずは、地面に現れる小さな色のついた味方を集めるためにキャラクターを動かすことに集中しましょう。拾うたびに、キャラクターはより大きく、より強くなります。

@@ -1,13 +1,15 @@
 ---
-title: "Fruit Ninja"
-description: "アーケードスライシング：爆弾を避けながら飛んでくるフルーツをスワイプし、コンボとフレンジーブーストをチェインして高得点を目指しましょう。"
-iframeSrc: "https://emulatoros.github.io/gfile/fruitninja/"
+title: Fruit Ninja
+description: アーケードスライシング：爆弾を避けながら飛んでくるフルーツをスワイプし、コンボとフレンジーブーストをチェインして高得点を目指しましょう。
+iframeSrc: 'https://emulatoros.github.io/gfile/fruitninja/'
 thumbnail: /new-images/thumbnails/fruit-ninja.jpg
-urlstr: "fruit-ninja"
-score: "4.3/5  (1027 votes)"
-tags: ["arcade", "action"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: fruit-ninja
+score: 4.3/5  (1027 votes)
+tags:
+  - arcade
+  - action
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -25,6 +27,7 @@ locale: ja
 ### 操作方法
 - マウス/タッチでスワイプしてスライスします。UIを介して一時停止/再試行します。
 
+<!-- i18n:section:tips -->
 ### ヒント
 - 1ストロークあたりできるだけ多くのフルーツの軌跡を交差させることを目指します。
 - 対角線のスワイプを使用します。より多くのスポーン弧を横切ります。

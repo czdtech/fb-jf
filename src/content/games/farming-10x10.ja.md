@@ -1,13 +1,17 @@
 ---
-title: "Farming 10x10"
-description: "Farming 10x10は、古典的な10x10ブロックフィットパズルをアレンジしたゲームです。形を配置し、行や列を消して、貴重なスペースが埋まらないようにしましょう。"
-iframeSrc: "https://66ts484uf5r18.h5games.usercontent.goog/v/1nt4ffhi7k9jo/"
+title: Farming 10x10
+description: >-
+  Farming
+  10x10は、古典的な10x10ブロックフィットパズルをアレンジしたゲームです。形を配置し、行や列を消して、貴重なスペースが埋まらないようにしましょう。
+iframeSrc: 'https://66ts484uf5r18.h5games.usercontent.goog/v/1nt4ffhi7k9jo/'
 thumbnail: /new-images/thumbnails/farming-10x10.jpg
-urlstr: "farming-10x10"
-score: "4.1/5  (1914 votes)"
-tags: ["puzzle", "thinky"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: farming-10x10
+score: 4.1/5  (1914 votes)
+tags:
+  - puzzle
+  - thinky
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -18,6 +22,7 @@ locale: ja
 Farming 10x10は、10×10のグリッド上で行う穏やかな形状配置パズルです。3つのピースセットを受け取り、それらを行や列が揃うように配置して消去し、スコアを獲得します。配置できる場所がなくなるとゲーム終了となるため、複数のラインを同時に消すための柔軟性を保ちながら進めるのがコツです。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **中央を空けておく**: 単一セルの罠を避けるため、端から徐々に整えていきましょう。

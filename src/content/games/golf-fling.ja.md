@@ -1,13 +1,17 @@
 ---
-title: "Golf Fling"
-description: "Golf Flingでホールインワンを目指してボールを弾き飛ばそう！狙いを定め、引っ張って、放つ、物理ベースのパズルゲームです。"
-iframeSrc: "https://golffling.h5games.usercontent.goog/v/0aa707a3-71a5-4ad8-be9b-32ce55e28d64/"
+title: Golf Fling
+description: Golf Flingでホールインワンを目指してボールを弾き飛ばそう！狙いを定め、引っ張って、放つ、物理ベースのパズルゲームです。
+iframeSrc: >-
+  https://golffling.h5games.usercontent.goog/v/0aa707a3-71a5-4ad8-be9b-32ce55e28d64/
 thumbnail: /new-images/thumbnails/golf-fling.jpg
-urlstr: "golf-fling"
-score: "4.1/5  (1776 votes)"
-tags: ["sports", "puzzle", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: golf-fling
+score: 4.1/5  (1776 votes)
+tags:
+  - sports
+  - puzzle
+  - casual
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +21,7 @@ locale: ja
 Golf Flingは、ゴルフのプレイ方法を一新した、楽しくてやりがいのある物理ベースのパズルゲームです。クラブの代わりに、シンプルな「引っ張って放す」メカニックを使って、創造的でトリッキーなコースの数々にゴルフボールを弾き飛ばします。目標は、できるだけ少ないフリング（投擲）回数でボールをカップに入れることです。障害物を避け、地形を利用し、フリングのアートをマスターしてチャンピオンになりましょう！
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **慎重に狙う:** 弾き飛ばす前に、ボールの予測軌道を示すインジケーターラインが表示されます。障害物や傾斜を考慮して、これを使って正確に狙いを定めましょう。

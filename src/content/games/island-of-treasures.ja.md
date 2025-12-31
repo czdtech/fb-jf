@@ -1,13 +1,16 @@
 ---
-title: "Island Of Treasures"
-description: "海賊をテーマにした3Dエンドレスランナーです。宝石やコインを集め、罠や障害物を避けながら島を走り抜けます。"
-iframeSrc: "https://5kvkrsasec6l8.h5games.usercontent.goog/v/7kfn10n6josho/"
+title: Island Of Treasures
+description: 海賊をテーマにした3Dエンドレスランナーです。宝石やコインを集め、罠や障害物を避けながら島を走り抜けます。
+iframeSrc: 'https://5kvkrsasec6l8.h5games.usercontent.goog/v/7kfn10n6josho/'
 thumbnail: /new-images/thumbnails/island-of-treasures.png
-urlstr: "island-of-treasures"
-score: "4.3/5  (2200 votes)"
-tags: ["action", "adventure", "casual"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: island-of-treasures
+score: 4.3/5  (2200 votes)
+tags:
+  - action
+  - adventure
+  - casual
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +20,7 @@ locale: ja
 Island Of Treasuresは、海賊をテーマにした3Dエンドレスランナーです。プレイヤーは島を走り抜けながら、宝石やコインを集め、罠や障害物を避けてスコアを伸ばしていきます。障害物やライバルに当たるとランが終了するため、反射神経と判断が求められます。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **すべてを集める:** 主な目標は、道に沿って散らばっているコイン、宝石、その他の宝物を集めることです。これらはスコアに貢献し、アップグレードや新しいキャラクターをアンロックするために使用できます。

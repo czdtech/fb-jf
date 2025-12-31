@@ -1,13 +1,15 @@
 ---
-title: "Fluffy Mania"
-description: "Fluffy Maniaは、キュートなフラッフィたちをつなげて消し、連鎖を起こしてハイスコアを目指す、居心地の良いマッチ＆クリアパズルです。"
-iframeSrc: "https://02rd6nna08dqg.h5games.usercontent.goog/v/3ngbs02gf9h88/"
+title: Fluffy Mania
+description: Fluffy Maniaは、キュートなフラッフィたちをつなげて消し、連鎖を起こしてハイスコアを目指す、居心地の良いマッチ＆クリアパズルです。
+iframeSrc: 'https://02rd6nna08dqg.h5games.usercontent.goog/v/3ngbs02gf9h88/'
 thumbnail: /new-images/thumbnails/fluffy-mania.png
-urlstr: "fluffy-mania"
-score: "4.0/5  (1729 votes)"
-tags: ["puzzle", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: fluffy-mania
+score: 4.0/5  (1729 votes)
+tags:
+  - puzzle
+  - casual
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +19,7 @@ locale: ja
 Fluffy Maniaは、カラフルでリラックスできるコネクトパズルです。隣り合った同じ色のフラッフィ（ふわふわした生き物）をつなげて消し、連鎖反応を起こして、スコア目標、手数制限、特定のタイル消去などのステージ目標を達成しましょう。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **四角形を作る**: ループや四角形を作れるルールの場合、通常はその色のフラッフィがすべて消え、非常に大きな効果があります。

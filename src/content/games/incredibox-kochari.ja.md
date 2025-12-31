@@ -1,13 +1,17 @@
 ---
-title: "Incredibox Kochari"
-description: "Incredibox Kochariは、クラシックなIncrediboxゲームプレイをアルメニアの民族ダンスKochariの鮮やかな文化と融合させたファン作成モッドです。伝統的なリズムとサウンドでユニークなビートを作成しましょう。"
-iframeSrc: "https://turbowarp.org/718091148/embed"
+title: Incredibox Kochari
+description: >-
+  Incredibox
+  Kochariは、クラシックなIncrediboxゲームプレイをアルメニアの民族ダンスKochariの鮮やかな文化と融合させたファン作成モッドです。伝統的なリズムとサウンドでユニークなビートを作成しましょう。
+iframeSrc: 'https://turbowarp.org/718091148/embed'
 thumbnail: /new-images/thumbnails/incredibox-kochari.png
-urlstr: "incredibox-kochari"
-score: "4.7/5 (2198 votes)"
-tags: ["music", "cultural"]
-developer: ""
-releaseDate: 2025-10-10
+urlstr: incredibox-kochari
+score: 4.7/5 (2198 votes)
+tags:
+  - music
+  - cultural
+developer: ''
+releaseDate: 2025-10-10T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +21,7 @@ locale: ja
 Incredibox Kochariは、Incrediboxの世界とアルメニア民俗文化の豊かな伝統を美しく融合させたユニークなファン作成モッドです。エネルギッシュで力強いアルメニアのダンス「Kochari」にインスパイアされたこのバージョンでは、プレイヤーは民俗音楽に深く根ざしたサウンドパレットで実験できます。これは、伝統的なパーカッション、メロディ、ボーカルをミックスして、古代のアルメニアサウンドと現代のビートボックスの魅力的な融合を作成できる、リズミカルで魅力的な体験を提供します。キャラクターとアニメーションもテーマを反映しており、伝統的な民族ダンスの動きを鏡にしたビジュアルを備えています。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略
 
 *   **基本方針:**

@@ -1,13 +1,16 @@
 ---
-title: "Find the Difference"
-description: "目を鋭くし、細部への注意力をテストしましょう！ほぼ同じ2つの画像を比較し、時間切れ前にすべての違いを見つけましょう。"
-iframeSrc: "https://findthedifference.h5games.usercontent.goog/v/0tambv0iojsn8/"
+title: Find the Difference
+description: 目を鋭くし、細部への注意力をテストしましょう！ほぼ同じ2つの画像を比較し、時間切れ前にすべての違いを見つけましょう。
+iframeSrc: 'https://findthedifference.h5games.usercontent.goog/v/0tambv0iojsn8/'
 thumbnail: /new-images/thumbnails/find-the-difference.jpg
-urlstr: "find-the-difference"
-score: "4.3/5  (2100 votes)"
-tags: ["puzzle", "casual", "thinky"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: find-the-difference
+score: 4.3/5  (2100 votes)
+tags:
+  - puzzle
+  - casual
+  - thinky
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +20,7 @@ locale: ja
 Find the Differenceは、2枚のほぼ同じ画像を見比べて「違い」を探す観察パズルです。一見同じでも、色や形、位置などが少しだけ変わっています。制限時間内に指定数の違いを見つけるのが目的です。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **体系的にスキャンする:** 中央だけを見るのではなく、角（例：左上）から順に見比べましょう。同じ位置を左右で行き来すると不一致に気づきやすくなります。

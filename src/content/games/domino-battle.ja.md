@@ -1,13 +1,16 @@
 ---
-title: "Domino Battle ドミノ・バトル"
-description: "「Domino Battle」は正統派のドミノ対戦ゲーム。戦略的に牌を配置し、相手をブロックして、誰よりも早く手牌を使い切ろう。"
-iframeSrc: "https://dominobattle.h5games.usercontent.goog/v/45fvkhcnai3s0/"
+title: Domino Battle ドミノ・バトル
+description: 「Domino Battle」は正統派のドミノ対戦ゲーム。戦略的に牌を配置し、相手をブロックして、誰よりも早く手牌を使い切ろう。
+iframeSrc: 'https://dominobattle.h5games.usercontent.goog/v/45fvkhcnai3s0/'
 thumbnail: /new-images/thumbnails/domino-battle.png
-urlstr: "domino-battle"
-score: "4.5/5  (2700 votes)"
-tags: ["card", "puzzle", "thinky"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: domino-battle
+score: 4.5/5  (2700 votes)
+tags:
+  - card
+  - puzzle
+  - thinky
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 locale: ja
 ---
 
@@ -18,6 +21,7 @@ locale: ja
 目的は、自分の手持ちの牌（タイル）を場の牌と目を合わせながら繋げていき、最初の手配を全て出し切ることです。自分の牌を出すだけでなく、相手の動きを予測して妨害（ブロック）することも重要な戦略となります。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲーム攻略と戦略
 
 1.  **基本:** 最大のダブル牌（6-6など）を持つプレイヤーから始まります。場の両端の数字と同じ数字を持つ牌を繋げていきます。

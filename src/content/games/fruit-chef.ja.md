@@ -1,13 +1,15 @@
 ---
-title: "Fruit Chef"
-description: "Fruit Chefはテンポよくフルーツを切るスライスゲーム。コンボをつなぎ、爆弾を避けてスコアを伸ばします。"
-iframeSrc: "https://419in6alhpp88.h5games.usercontent.goog/v/22nao6drjf7v0/"
+title: Fruit Chef
+description: Fruit Chefはテンポよくフルーツを切るスライスゲーム。コンボをつなぎ、爆弾を避けてスコアを伸ばします。
+iframeSrc: 'https://419in6alhpp88.h5games.usercontent.goog/v/22nao6drjf7v0/'
 thumbnail: /new-images/thumbnails/fruit-chef.png
-urlstr: "fruit-chef"
-score: "4.1/5  (1948 votes)"
-tags: ["action", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: fruit-chef
+score: 4.1/5  (1948 votes)
+tags:
+  - action
+  - casual
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +19,7 @@ locale: ja
 Fruit Chefは、飛んでくるフルーツをスワイプで切ってスコアを稼ぐクラシックなスライスゲームです。できるだけまっすぐ長いラインで複数のフルーツをまとめて切り、コンボをつなげていきます。爆弾に触れると失敗になるため、焦らず「切る線」を選ぶことが重要です。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **長いストローク**: 1回のスワイプで複数のフルーツをまとめて切ると、コンボが伸びやすくなります。

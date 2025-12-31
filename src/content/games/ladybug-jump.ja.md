@@ -1,13 +1,15 @@
 ---
-title: "Ladybug Jump"
-description: "Ladybug Jumpは陽気なホッププラットフォーマーです。ジャンプのタイミングを合わせ、移動する葉に乗り、障害物を避けながら蜜を収集します。"
-iframeSrc: "https://1rtviun5s8hc0.h5games.usercontent.goog/v/2ajo6kl7ue0a0/"
+title: Ladybug Jump
+description: Ladybug Jumpは陽気なホッププラットフォーマーです。ジャンプのタイミングを合わせ、移動する葉に乗り、障害物を避けながら蜜を収集します。
+iframeSrc: 'https://1rtviun5s8hc0.h5games.usercontent.goog/v/2ajo6kl7ue0a0/'
 thumbnail: /new-images/thumbnails/ladybug-jump.png
-urlstr: "ladybug-jump"
-score: "3.8/5  (1629 votes)"
-tags: ["action", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: ladybug-jump
+score: 3.8/5  (1629 votes)
+tags:
+  - action
+  - casual
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +19,7 @@ locale: ja
 Ladybug Jumpは家族でも遊びやすいシンプルなプラットフォーマーです。葉やキノコを飛び移り、水たまりやクモを避けながら蜜を集めます。進むほど移動する足場や風の吹き出しが増え、タイミングよくジャンプする必要があります。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  短くタップ：必要以上に高く跳ばず、着地を安定させます。

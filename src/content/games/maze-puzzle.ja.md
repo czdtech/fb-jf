@@ -1,13 +1,15 @@
 ---
-title: "Maze Puzzle"
-description: "Maze Puzzleは頭を使う迷路パズルです。ルートをたどり、行き止まりを避けながら、少ない移動で出口を目指します。"
-iframeSrc: "https://3931uc3bsois0.h5games.usercontent.goog/v/7nvm8etm546uo/"
+title: Maze Puzzle
+description: Maze Puzzleは頭を使う迷路パズルです。ルートをたどり、行き止まりを避けながら、少ない移動で出口を目指します。
+iframeSrc: 'https://3931uc3bsois0.h5games.usercontent.goog/v/7nvm8etm546uo/'
 thumbnail: /new-images/thumbnails/maze-puzzle.png
-urlstr: "maze-puzzle"
-score: "4.0/5  (1866 votes)"
-tags: ["puzzle", "thinky"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: maze-puzzle
+score: 4.0/5  (1866 votes)
+tags:
+  - puzzle
+  - thinky
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +19,7 @@ locale: ja
 Maze Puzzleは、迷路の出口までのルートを見つけるパズルです。ステージが進むほど迷路が複雑になり、先読みと計画が重要になります。目標は、できるだけ少ない移動（または短い時間）で出口に到達することです。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **先を見る:** スワイプまたは移動する前に、いくつかの動き先をトレースします。

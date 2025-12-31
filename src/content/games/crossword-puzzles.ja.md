@@ -1,13 +1,16 @@
 ---
-title: "Crossword Puzzles"
-description: "Crossword Puzzlesはテーマ別のクロスワードを提供します。縦と横のヒントを解いて各グリッドを完成させましょう。"
-iframeSrc: "https://ams.cdn.arkadiumhosted.com/assets/global/game/best-free-themed-puzzles/"
+title: Crossword Puzzles
+description: Crossword Puzzlesはテーマ別のクロスワードを提供します。縦と横のヒントを解いて各グリッドを完成させましょう。
+iframeSrc: >-
+  https://ams.cdn.arkadiumhosted.com/assets/global/game/best-free-themed-puzzles/
 thumbnail: /new-images/thumbnails/crossword-puzzles.jpg
-urlstr: "crossword-puzzles"
-score: "4.1/5  (697 votes)"
-tags: ["word", "puzzle"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: crossword-puzzles
+score: 4.1/5  (697 votes)
+tags:
+  - word
+  - puzzle
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -24,6 +27,7 @@ Crossword Puzzlesは、一般的なアメリカンスタイルのルールに従
 ### 操作方法
 - A～Zを入力。矢印キーでナビゲート。バックスペースで削除。エンター/タブで方向を切り替えるか、次のヒントに移動（サイト依存）。
 
+<!-- i18n:section:tips -->
 ### ヒントと戦略
 - 簡単な穴埋め（fill-in-the-blank）のヒント、複数形、一般的な略語をスキャンしましょう。
 - テーマを活用：パターンを見つけたら、他のテーマ語はより早く解けます。

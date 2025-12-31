@@ -1,13 +1,17 @@
 ---
-title: "Gold Miner Tom"
-description: "トムが大金持ちになるのを手伝おう！爪を投げて金塊や宝石、その他の宝物を掴み取る、クラシックなゴールドマイナーゲーム。時間切れになる前に目標金額を達成しましょう！"
-iframeSrc: "https://goldminertom.h5games.usercontent.goog/v/5l8d724in1pco/"
+title: Gold Miner Tom
+description: >-
+  トムが大金持ちになるのを手伝おう！爪を投げて金塊や宝石、その他の宝物を掴み取る、クラシックなゴールドマイナーゲーム。時間切れになる前に目標金額を達成しましょう！
+iframeSrc: 'https://goldminertom.h5games.usercontent.goog/v/5l8d724in1pco/'
 thumbnail: /new-images/thumbnails/gold-miner-tom.png
-urlstr: "gold-miner-tom"
-score: "4.3/5  (2200 votes)"
-tags: ["action", "casual", "clicker"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: gold-miner-tom
+score: 4.3/5  (2200 votes)
+tags:
+  - action
+  - casual
+  - clicker
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +21,7 @@ locale: ja
 Gold Miner Tomは、タイミングと精度が試されるクラシックなアーケードスタイルゲームです。野心的な鉱夫トムとして、あなたは揺れる爪（クロー）を操作し、地下に埋まった貴重な宝物を掴むために、適切な瞬間に爪を発射しなければなりません。各レベルには、制限時間内に達成しなければならない目標金額があります。金塊、輝くダイヤモンド、謎の福袋を掴み取りましょう。ただし、貴重な時間を無駄にする無価値な岩には注意してください。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **タイミングが全て:** 爪は絶えず左右に揺れています。成功するかどうかは、貴重なアイテムの方向に爪を送るために、完璧な瞬間にクリックできるかにかかっています。

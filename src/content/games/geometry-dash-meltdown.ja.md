@@ -1,13 +1,15 @@
 ---
-title: "Geometry Dash Meltdown"
-description: "リズムプラットフォーマーパック：テーマ別のハザードや船のセクションを備えた、新しい音楽同期レベルをジャンプして飛び回りましょう。"
-iframeSrc: "https://geometrylite.io/game/geometry-dash-meltdown/"
+title: Geometry Dash Meltdown
+description: リズムプラットフォーマーパック：テーマ別のハザードや船のセクションを備えた、新しい音楽同期レベルをジャンプして飛び回りましょう。
+iframeSrc: 'https://geometrylite.io/game/geometry-dash-meltdown/'
 thumbnail: /new-images/thumbnails/geometry-dash-meltdown.jpg
-urlstr: "geometry-dash-meltdown"
-score: "4.4/5  (994 votes)"
-tags: ["rhythm", "platformer"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: geometry-dash-meltdown
+score: 4.4/5  (994 votes)
+tags:
+  - rhythm
+  - platformer
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -25,6 +27,7 @@ locale: ja
 ### 操作方法
 - タップ/スペース/マウスでジャンプ。長押しで飛行（ホストによります）。
 
+<!-- i18n:section:tips -->
 ### ヒント
 - タイミングが遅れると感じる場合は、重いエフェクトをオフにしましょう。
 - 初期の学習段階では、声に出してビートを数えましょう。

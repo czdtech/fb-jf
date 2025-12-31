@@ -1,13 +1,16 @@
 ---
-title: "G-Switch 2"
-description: "重力反転ランナー続編：ソロまたはローカルマルチプレイでレースし、重力を反転させて速度上昇中のトラップを生き延びましょう。"
-iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221123/6/index.html"
+title: G-Switch 2
+description: 重力反転ランナー続編：ソロまたはローカルマルチプレイでレースし、重力を反転させて速度上昇中のトラップを生き延びましょう。
+iframeSrc: >-
+  https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221123/6/index.html
 thumbnail: /new-images/thumbnails/g-switch-2.jpg
-urlstr: "g-switch-2"
-score: "3.6/5  (331 votes)"
-tags: ["runner", "platformer"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: g-switch-2
+score: 3.6/5  (331 votes)
+tags:
+  - runner
+  - platformer
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -25,6 +28,7 @@ locale: ja
 ### 操作方法
 - 単一キー/タップでフリップします。対戦モードではプレイヤーごとに固有のキーです。
 
+<!-- i18n:section:tips -->
 ### ヒント
 - リズムを安定して保ちます。2回の素早いフリップでオーバーシュート（行き過ぎ）を修正できます。
 - 長いストレートでは低く留まります。天井には多くの場合トラップが隠されています。

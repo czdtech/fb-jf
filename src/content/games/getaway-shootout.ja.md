@@ -1,13 +1,15 @@
 ---
-title: "Getaway Shootout"
-description: "カオスな物理レース＆シューティング：逃走地点までホップして進み、変な武器を手に取り、2人プレイやソロでライバルを出し抜きましょう。"
-iframeSrc: "https://ubg44.github.io/GetawayShootout/"
+title: Getaway Shootout
+description: カオスな物理レース＆シューティング：逃走地点までホップして進み、変な武器を手に取り、2人プレイやソロでライバルを出し抜きましょう。
+iframeSrc: 'https://ubg44.github.io/GetawayShootout/'
 thumbnail: /new-images/thumbnails/getaway-shootout.jpg
-urlstr: "getaway-shootout"
-score: "4.4/5  (670 votes)"
-tags: ["action", "multiplayer"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: getaway-shootout
+score: 4.4/5  (670 votes)
+tags:
+  - action
+  - multiplayer
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -25,6 +27,7 @@ Getaway Shootoutは、キャラクターが交互にホップ（跳ねて）し�
 ### 操作方法
 - 2つのキーで左/右にホップ。アイテム使用用の別キーがあります（キーバインドはホストによって異なります）。ローカル2人プレイに対応しています。
 
+<!-- i18n:section:tips -->
 ### ヒント
 - 坂道では、長押しのタイミングを計って、垂直方向の上昇を前方へのスピードに変換しましょう。
 - チョークポイント（狭い場所）や相手がジャンプしている間に武器を撃ちましょう。空中ではノックバック（吹き飛び）が最も強くなります。

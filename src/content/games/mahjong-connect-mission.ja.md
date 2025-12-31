@@ -1,13 +1,16 @@
 ---
-title: "Mahjong Connect : Mission"
-description: "同じタイルを、曲がり2回までの線で結んで消す「つなぐ系」麻雀パズルです。制限時間内に盤面をクリアします。"
-iframeSrc: "https://7gsm6u8848nko.h5games.usercontent.goog/v/3qaqg5nju3th8/"
+title: 'Mahjong Connect : Mission'
+description: 同じタイルを、曲がり2回までの線で結んで消す「つなぐ系」麻雀パズルです。制限時間内に盤面をクリアします。
+iframeSrc: 'https://7gsm6u8848nko.h5games.usercontent.goog/v/3qaqg5nju3th8/'
 thumbnail: /new-images/thumbnails/mahjong-connect-mission.png
-urlstr: "mahjong-connect-mission"
-score: "4.2/5  (2061 votes)"
-tags: ["mahjong", "puzzle", "thinky"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: mahjong-connect-mission
+score: 4.2/5  (2061 votes)
+tags:
+  - mahjong
+  - puzzle
+  - thinky
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +20,7 @@ locale: ja
 Mahjong Connect: Missionは、麻雀ソリティアとは違い、同じタイル同士を線で結んで消すタイプのパズルです。線は他のタイルを通れず、曲がれる回数は最大2回（直角2回まで）に限られます。ミッションではロックタイルや霧、爆弾などが追加され、どれを先に片付けるかが重要になります。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  端から探す：端や角はつながりやすいので、最初にチェックします。

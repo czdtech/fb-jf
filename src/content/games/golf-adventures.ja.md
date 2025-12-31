@@ -1,13 +1,16 @@
 ---
-title: "Golf Adventures"
-description: "ゴルフの冒険に出かけよう！ボールを狙ってカップに入れる物理パズルゲーム。トリッキーな障害物や想像力豊かなコースを、できるだけ少ない打数で攻略しましょう。"
-iframeSrc: "https://golfadventures.h5games.usercontent.goog/v/2er1vod6k6p0o/"
+title: Golf Adventures
+description: ゴルフの冒険に出かけよう！ボールを狙ってカップに入れる物理パズルゲーム。トリッキーな障害物や想像力豊かなコースを、できるだけ少ない打数で攻略しましょう。
+iframeSrc: 'https://golfadventures.h5games.usercontent.goog/v/2er1vod6k6p0o/'
 thumbnail: /new-images/thumbnails/golf-adventures.png
-urlstr: "golf-adventures"
-score: "4.2/5  (1950 votes)"
-tags: ["sports", "puzzle", "casual"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: golf-adventures
+score: 4.2/5  (1950 votes)
+tags:
+  - sports
+  - puzzle
+  - casual
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +20,7 @@ locale: ja
 Golf Adventuresは、ゴルフのメカニクスを使った楽しく想像力豊かなパズルゲームです。リアルなゴルフコースの代わりに、ユニークな障害物でいっぱいの、創造的でやりがいのあるレベルが待ち受けています。目的はシンプル。できるだけ少ない打数でボールをカップに入れることです。角度、パワー、そして賢い問題解決能力が試されるゲームです。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **ショットを計画する:** 打つ前に、レベル全体を見渡しましょう。障害物、傾斜、カップの位置を観察します。最短ルートが常に最良とは限りません。

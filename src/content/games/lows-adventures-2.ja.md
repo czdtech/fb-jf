@@ -1,13 +1,15 @@
 ---
-title: "Low's Adventures 2"
-description: "レトロプラットフォーマー続編：コンパクトなステージを走ってジャンプし、キーと秘密を見つけ、タイムチャレンジを打ち負かします。"
-iframeSrc: "https://previews.customer.envatousercontent.com/files/489323722/index.html"
+title: Low's Adventures 2
+description: レトロプラットフォーマー続編：コンパクトなステージを走ってジャンプし、キーと秘密を見つけ、タイムチャレンジを打ち負かします。
+iframeSrc: 'https://previews.customer.envatousercontent.com/files/489323722/index.html'
 thumbnail: /new-images/thumbnails/lows-adventures-2.jpg
-urlstr: "lows-adventures-2"
-score: "3.6/5  (671 votes)"
-tags: ["platformer", "adventure"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: lows-adventures-2
+score: 3.6/5  (671 votes)
+tags:
+  - platformer
+  - adventure
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -25,6 +27,7 @@ Low's Adventures 2は、隠しキーや壊れるブロック、ちょっとし�
 ### 操作方法
 - 矢印キー/WASDで移動し、ジャンプします。攻撃/操作キーは環境によって異なります。
 
+<!-- i18n:section:tips -->
 ### ヒント
 - 足場の端でジャンプ入力を早めに入れておくと、飛距離を出しやすいです。
 - できる場面では、敵の頭を踏んで踏み台にします。

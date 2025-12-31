@@ -1,13 +1,17 @@
 ---
-title: "Idle Restaurants"
-description: "この中毒性のある放置ゲームで自分のレストラン帝国を築きましょう！シェフを雇い、キッチンとテーブルをアップグレードし、ビジネスを自動化して料理業界の大物になりましょう。"
-iframeSrc: "https://idlerestaurants.h5games.usercontent.goog/v/4ut41titp1kvg/"
+title: Idle Restaurants
+description: >-
+  この中毒性のある放置ゲームで自分のレストラン帝国を築きましょう！シェフを雇い、キッチンとテーブルをアップグレードし、ビジネスを自動化して料理業界の大物になりましょう。
+iframeSrc: 'https://idlerestaurants.h5games.usercontent.goog/v/4ut41titp1kvg/'
 thumbnail: /new-images/thumbnails/idle-restaurants.png
-urlstr: "idle-restaurants"
-score: "4.4/5  (2500 votes)"
-tags: ["casual", "clicker", "strategy"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: idle-restaurants
+score: 4.4/5  (2500 votes)
+tags:
+  - casual
+  - clicker
+  - strategy
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +21,7 @@ locale: ja
 Idle Restaurantsは、クラシックな放置型管理ゲームで、ゼロから料理帝国を築く責任者としてあなたを配置します。小さく質素なダイナーから始め、収益を戦略的に投資して事業を成長させなければなりません。テーブル、シェフ、ウェイターをアップグレードすることで、効率と利益を増やすことができます。究極の目標は、マネージャーを雇ってワークフローを自動化し、新しい、より収益性の高いレストランを開店して企業を拡張することです。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **レストランのワークフロー:** お金の流れを理解しましょう。顧客が到着して着席 → シェフが注文を準備 → ウェイターが料理を提供 → 顧客が支払いをします。この連鎖の各ステップをアップグレードできます。

@@ -1,13 +1,16 @@
 ---
-title: "Jewel Legend"
-description: "宝石を入れ替えてそろえるマッチ3パズルです。連鎖や特殊宝石を活用して、各レベルの目標を達成します。"
-iframeSrc: "https://jewellegend.h5games.usercontent.goog/v/36cb1hitjsa3o/"
+title: Jewel Legend
+description: 宝石を入れ替えてそろえるマッチ3パズルです。連鎖や特殊宝石を活用して、各レベルの目標を達成します。
+iframeSrc: 'https://jewellegend.h5games.usercontent.goog/v/36cb1hitjsa3o/'
 thumbnail: /new-images/thumbnails/jewel-legend.png
-urlstr: "jewel-legend"
-score: "4.5/5  (3100 votes)"
-tags: ["puzzle", "casual", "action"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: jewel-legend
+score: 4.5/5  (3100 votes)
+tags:
+  - puzzle
+  - casual
+  - action
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +20,7 @@ locale: ja
 Jewel Legendは、宝石を入れ替えて3つ以上をそろえるマッチ3パズルです。レベルごとにスコア到達や障害物の除去などの目標があり、限られた手数の中で達成していきます。4つ・5つ消しで特殊宝石を作っておくと、盤面を大きく動かしやすくなります。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **特別な宝石を作成する:** 成功の鍵は、シンプルなマッチ3を超えて考えることです。強力な特別な宝石を作成する機会を常に探してください：

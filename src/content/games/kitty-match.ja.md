@@ -1,13 +1,16 @@
 ---
-title: "Kitty Match"
-description: "Kitty Matchは猫テーマのマッチ3パズルです。カラフルなアイテムを入れ替えてマッチを作り、レベルごとの目標を達成します。"
-iframeSrc: "https://kittymatch.h5games.usercontent.goog/v/0fb0j00v75210/"
+title: Kitty Match
+description: Kitty Matchは猫テーマのマッチ3パズルです。カラフルなアイテムを入れ替えてマッチを作り、レベルごとの目標を達成します。
+iframeSrc: 'https://kittymatch.h5games.usercontent.goog/v/0fb0j00v75210/'
 thumbnail: /new-images/thumbnails/kitty-match.png
-urlstr: "kitty-match"
-score: "4.9/5  (2999 votes)"
-tags: ["puzzle", "casual", "action"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: kitty-match
+score: 4.9/5  (2999 votes)
+tags:
+  - puzzle
+  - casual
+  - action
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +20,7 @@ locale: ja
 Kitty Matchは、猫モチーフのアイテムをそろえて消していくマッチ3パズルです。隣り合うタイルを入れ替えて同じアイテムを3つ以上そろえ、各レベルの目標（特定アイテムの回収やブロックの消去など）を達成します。クリア報酬を受け取りながらステージを進めていく、気軽に遊べる内容です。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **大きなマッチを狙う:** 4つ・5つ消しは、特別なパワーアップタイルを作れます。行/列消しや範囲爆発などがあり、盤面整理に役立ちます。

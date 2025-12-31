@@ -1,13 +1,15 @@
 ---
-title: "Lemonade Stand"
-description: "クラシックなビジネスシム：価格、レシピ、広告を設定します。カップ/レモン/氷を購入し、天候の変化下で毎日の利益を管理します。"
-iframeSrc: "https://ad-freegames.github.io/flash/game/lemonade-stand.html"
+title: Lemonade Stand
+description: クラシックなビジネスシム：価格、レシピ、広告を設定します。カップ/レモン/氷を購入し、天候の変化下で毎日の利益を管理します。
+iframeSrc: 'https://ad-freegames.github.io/flash/game/lemonade-stand.html'
 thumbnail: /new-images/thumbnails/lemonade-stand.jpg
-urlstr: "lemonade-stand"
-score: "3.9/5  (232 votes)"
-tags: ["simulation", "tycoon"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: lemonade-stand
+score: 3.9/5  (232 votes)
+tags:
+  - simulation
+  - tycoon
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -25,6 +27,7 @@ Lemonade Standは、レモネード屋の運営をシンプルに体験できる
 ### 操作方法
 - マウス/UIで数量や価格を設定し、1日を進めます。
 
+<!-- i18n:section:tips -->
 ### ヒント
 - 予報が涼しいまたは雨の場合、腐りやすいアイテムを過剰に在庫しないでください。
 - イベントに備えて多少の余裕は残しつつ、仕入れすぎで資金を寝かせないようにします。

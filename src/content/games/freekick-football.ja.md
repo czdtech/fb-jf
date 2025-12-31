@@ -1,13 +1,16 @@
 ---
-title: "Freekick Football"
-description: "Freekick Footballでフリーキックのスキルを試しましょう。狙いを定め、シュートし、ゴールを決めてフリーキックの達人になりましょう。"
-iframeSrc: "https://freekickfootball.h5games.usercontent.goog/v/0lqeu7698mvk0/"
+title: Freekick Football
+description: Freekick Footballでフリーキックのスキルを試しましょう。狙いを定め、シュートし、ゴールを決めてフリーキックの達人になりましょう。
+iframeSrc: 'https://freekickfootball.h5games.usercontent.goog/v/0lqeu7698mvk0/'
 thumbnail: /new-images/thumbnails/freekick-football.png
-urlstr: "freekick-football"
-score: "4.2/5 (1876 votes)"
-tags: ["soccer", "sports", "shooting"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: freekick-football
+score: 4.2/5 (1876 votes)
+tags:
+  - soccer
+  - sports
+  - shooting
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +20,7 @@ locale: ja
 Freekick Footballは、サッカーにおけるフリーキックの芸術に焦点を当てたゲームです。プレイヤーはさまざまなセットプレーの状況から、守備の壁やゴールキーパーをかわしてゴールを決めることに挑戦します。このゲームでは、正確さ、タイミング、そしてボールの物理挙動に対する理解が試されます。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **狙い**: ゴールへの道筋を見つけるために慎重に狙いを定めましょう。壁の位置とゴールキーパーの立ち位置を考慮してください。

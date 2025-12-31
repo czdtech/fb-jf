@@ -1,13 +1,15 @@
 ---
-title: "Iron Snout"
-description: "カンフー豚の格闘ゲーム：オオカミを受け流し、キックでジャグリングし、武器を投げ返して波を生き延び、ハイスコアを目指しましょう。"
-iframeSrc: "https://webglmath.github.io/iron-snout/"
+title: Iron Snout
+description: カンフー豚の格闘ゲーム：オオカミを受け流し、キックでジャグリングし、武器を投げ返して波を生き延び、ハイスコアを目指しましょう。
+iframeSrc: 'https://webglmath.github.io/iron-snout/'
 thumbnail: /new-images/thumbnails/iron-snout.jpg
-urlstr: "iron-snout"
-score: "4.3/5  (842 votes)"
-tags: ["fighting", "arcade"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: iron-snout
+score: 4.3/5  (842 votes)
+tags:
+  - fighting
+  - arcade
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -25,6 +27,7 @@ Iron Snoutは、武術を使う豚がオオカミと戦う、速い2D格闘ゲ�
 ### 操作方法
 - 矢印キー/WASDの方向が攻撃、ジャンプ、しゃがみをトリガーします。攻撃ボタンは不要です。
 
+<!-- i18n:section:tips -->
 ### ヒント
 - 遠距離の敵を優先しましょう。飛び道具はコンボの流れを妨げます。
 - スコアのために軽い敵をジャグリングし、武器を返して重い敵を仕留めましょう。

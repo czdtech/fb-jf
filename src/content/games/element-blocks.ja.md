@@ -1,13 +1,16 @@
 ---
-title: "Element Blocks エレメント・ブロックス"
-description: "「Element Blocks」は戦略的ブロックパズル。エレメント（元素）ブロックを配置してラインを消し、星を集めてブースターを発動。盤面を制覇しよう。"
-iframeSrc: "https://elementblocks.h5games.usercontent.goog/v/35up5t7ao24i8/"
+title: Element Blocks エレメント・ブロックス
+description: 「Element Blocks」は戦略的ブロックパズル。エレメント（元素）ブロックを配置してラインを消し、星を集めてブースターを発動。盤面を制覇しよう。
+iframeSrc: 'https://elementblocks.h5games.usercontent.goog/v/35up5t7ao24i8/'
 thumbnail: /new-images/thumbnails/element-blocks.png
-urlstr: "element-blocks"
-score: "4.5/5  (2500 votes)"
-tags: ["puzzle", "thinky", "casual"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: element-blocks
+score: 4.5/5  (2500 votes)
+tags:
+  - puzzle
+  - thinky
+  - casual
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 locale: ja
 ---
 
@@ -18,6 +21,7 @@ locale: ja
 プレイヤーは、テトリス風の様々な形をした「エレメントブロック」を10x10のグリッドに配置します。縦または横の列を完全に埋めると、その列が消えて得点になります。星を集めてパワーアップを使うことで、ピンチを切り抜けてゲームを長く続けられます。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲーム攻略と戦略
 
 1.  **基本ルール:** 一度に3つのブロックが与えられます。3つすべてを盤面に配置すると、新しいセットが登場します。ブロックは回転できません。

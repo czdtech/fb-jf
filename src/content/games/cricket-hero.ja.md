@@ -1,13 +1,16 @@
 ---
-title: "Cricket Hero クリケット・ヒーロー"
-description: "「Cricket Hero」でバッティングの天才になろう。タイミングよくバットを振って、ボールを打ち返し、クリケットの伝説として高得点を叩き出せ。"
-iframeSrc: "https://crickethero.h5games.usercontent.goog/v/7cnfq54s3ilao/"
+title: Cricket Hero クリケット・ヒーロー
+description: 「Cricket Hero」でバッティングの天才になろう。タイミングよくバットを振って、ボールを打ち返し、クリケットの伝説として高得点を叩き出せ。
+iframeSrc: 'https://crickethero.h5games.usercontent.goog/v/7cnfq54s3ilao/'
 thumbnail: /new-images/thumbnails/cricket-hero.jpg
-urlstr: "cricket-hero"
-score: "4.3/5  (2109 votes)"
-tags: ["sports", "action", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: cricket-hero
+score: 4.3/5  (2109 votes)
+tags:
+  - sports
+  - action
+  - casual
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -18,6 +21,7 @@ locale: ja
 次々と投げ込まれるボールに対して、タイミングよくバットを振り、ウィケット（後ろにある3本の棒）を守り抜きましょう。ボールに当てるだけでなく、完璧なタイミングで打つことで長打を狙います。ミスをしてウィケットにボールが当たるか、打ち損じるとゲームオーバーの危機が迫ります。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲーム攻略と戦略
 
 1.  **ボールを凝視せよ:** 最も基本にして重要なことは、ボールから目を離さないことです。投手がボールをリリースした瞬間から集中しましょう。

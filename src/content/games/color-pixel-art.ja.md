@@ -1,13 +1,18 @@
 ---
-title: "Color Pixel Art Classic カラー・ピクセルアート・クラシック"
-description: "「Color Pixel Art Classic」でリラックスした時間を。番号に従ってピクセルを塗りつぶし、美しいドット絵を完成させる、癒やしの塗り絵パズル。"
-iframeSrc: "https://colorpixel.h5games.usercontent.goog/v/6ko86juonaau0/"
+title: Color Pixel Art Classic カラー・ピクセルアート・クラシック
+description: >-
+  「Color Pixel Art
+  Classic」でリラックスした時間を。番号に従ってピクセルを塗りつぶし、美しいドット絵を完成させる、癒やしの塗り絵パズル。
+iframeSrc: 'https://colorpixel.h5games.usercontent.goog/v/6ko86juonaau0/'
 thumbnail: /new-images/thumbnails/color-pixel-art.png
-urlstr: "color-pixel-art"
-score: "4.6/5  (3000 votes)"
-tags: ["puzzle", "casual", "thinky"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: color-pixel-art
+score: 4.6/5  (3000 votes)
+tags:
+  - puzzle
+  - casual
+  - thinky
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 locale: ja
 ---
 
@@ -18,6 +23,7 @@ locale: ja
 画像の各ピクセルには番号が振られており、パレットの色と対応しています。すべてのピクセルを正しい色で埋めることで、美しいピクセルアートが完成します。絵心がなくても誰でも楽しめる、創造的で穏やかなゲームです。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲーム攻略と戦略
 
 1.  **絵を選ぶ:** まずはギャラリーから塗りたい絵を選びましょう。動物、食べ物、風景など様々なジャンルがあります。

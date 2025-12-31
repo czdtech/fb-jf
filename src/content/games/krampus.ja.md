@@ -1,13 +1,15 @@
 ---
-title: "Krampus"
-description: "ホリデー風のホラープラットフォーマーです。暗いステージで罠や敵を避け、脱出に必要なキーやアイテムを探します。"
-iframeSrc: "https://g2.igroutka.ru/lib/crazy/games/krampus1/"
+title: Krampus
+description: ホリデー風のホラープラットフォーマーです。暗いステージで罠や敵を避け、脱出に必要なキーやアイテムを探します。
+iframeSrc: 'https://g2.igroutka.ru/lib/crazy/games/krampus1/'
 thumbnail: /new-images/thumbnails/krampus.jpg
-urlstr: "krampus"
-score: "3.9/5  (275 votes)"
-tags: ["horror", "platformer"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: krampus
+score: 3.9/5  (275 votes)
+tags:
+  - horror
+  - platformer
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -25,6 +27,7 @@ Krampusは、薄暗いステージで罠を避けながら進むホラープラ�
 ### 操作方法
 - 矢印キー/WASDで移動し、ジャンプします。アクション/インタラクトキーは環境によって異なります。
 
+<!-- i18n:section:tips -->
 ### ヒント
 - アイテムや出口の目印になる、かすかな光やきらめきを探しましょう。
 - 危険なジャンプを無理に通すより、巡回が切れるのを待つ方が安全です。

@@ -1,13 +1,18 @@
 ---
-title: "Golf Orbit"
-description: "Golf Orbitは、飛ばして着地させるワンタップゴルフです。発射角度を決め、スピンを管理し、惑星の重力を利用して、戦略的なロングフライトを目指しましょう。"
-iframeSrc: "https://7e0r297sgk0j0.h5games.usercontent.goog/v/1976bdao4gtf0/"
+title: Golf Orbit
+description: >-
+  Golf
+  Orbitは、飛ばして着地させるワンタップゴルフです。発射角度を決め、スピンを管理し、惑星の重力を利用して、戦略的なロングフライトを目指しましょう。
+iframeSrc: 'https://7e0r297sgk0j0.h5games.usercontent.goog/v/1976bdao4gtf0/'
 thumbnail: /new-images/thumbnails/golf-orbit.png
-urlstr: "golf-orbit"
-score: "4.1/5  (1926 votes)"
-tags: ["sports", "puzzle", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: golf-orbit
+score: 4.1/5  (1926 votes)
+tags:
+  - sports
+  - puzzle
+  - casual
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +22,7 @@ locale: ja
 Golf Orbitは、ゴルフを物理演算によるフライトパズルに変えます。発射角度とパワーを選び、多様な地形や惑星の上をボールが飛んでいくのを見守ります。スピンやバウンドの挙動、風、そして時折現れる重力井戸（グラビティ・ウェル）が深みを加えます。最高のショットは、坂道に乗り、障害物をかすめ、バウンドを繋げて隠されたターゲットに到達します。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **角度の規律**: 低い弾道は転がり（ラン）を最大化し、高い弾道はハザードを越えますが転がりません。

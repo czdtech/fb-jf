@@ -1,13 +1,16 @@
 ---
-title: "Get 10 Ultimate"
-description: "やりがいのある数字パズル！隣り合う同じ数字をタップして、より大きな数字に合体させましょう。あなたは10、そしてその先に到達できますか？"
-iframeSrc: "https://4oljglvsib9no.h5games.usercontent.goog/v/4nttt72qlep8o/"
+title: Get 10 Ultimate
+description: やりがいのある数字パズル！隣り合う同じ数字をタップして、より大きな数字に合体させましょう。あなたは10、そしてその先に到達できますか？
+iframeSrc: 'https://4oljglvsib9no.h5games.usercontent.goog/v/4nttt72qlep8o/'
 thumbnail: /new-images/thumbnails/get-10-ultimate.png
-urlstr: "get-10-ultimate"
-score: "4.4/5  (2400 votes)"
-tags: ["puzzle", "thinky", "casual"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: get-10-ultimate
+score: 4.4/5  (2400 votes)
+tags:
+  - puzzle
+  - thinky
+  - casual
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +20,7 @@ locale: ja
 Get 10 Ultimateは、シンプルでありながら深く戦略的な数字パズルゲームです。盤面は数字のタイルで埋め尽くされており、あなたの目的はそれらを組み合わせてより高い数字を作ることです。隣り合った2つ以上の同じ数字のグループをタップすることでこれを行います。グループ全体が合体し、値が1つ高い新しいタイルが1つだけ残ります。最初の挑戦は数字の「10」に到達することですが、究極の目標は、可能な限り合体を続けて最高記録とハイスコアを達成することです。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **タップする前によく考える:** タップするたびに盤面のレイアウトが変わります。グループを合体させる前に、上のタイルがどのように落ちてくるか、どんな新しいグループができるかを考えましょう。良い一手は、さらなる良手を生み出します。

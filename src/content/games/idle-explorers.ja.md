@@ -1,13 +1,17 @@
 ---
-title: "Idle Explorers"
-description: "探検家チームを管理し、採掘帝国を自動化しましょう！労働者をアップグレードし、新しい発掘サイトをアンロックし、希少な遺物を発見する、中毒性のある放置アドベンチャーです。"
-iframeSrc: "https://5ik68qrla8g6g.h5games.usercontent.goog/v/1vuib5ibuof0g/"
+title: Idle Explorers
+description: >-
+  探検家チームを管理し、採掘帝国を自動化しましょう！労働者をアップグレードし、新しい発掘サイトをアンロックし、希少な遺物を発見する、中毒性のある放置アドベンチャーです。
+iframeSrc: 'https://5ik68qrla8g6g.h5games.usercontent.goog/v/1vuib5ibuof0g/'
 thumbnail: /new-images/thumbnails/idle-explorers.png
-urlstr: "idle-explorers"
-score: "4.4/5  (2400 votes)"
-tags: ["casual", "clicker", "strategy"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: idle-explorers
+score: 4.4/5  (2400 votes)
+tags:
+  - casual
+  - clicker
+  - strategy
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +21,7 @@ locale: ja
 Idle Explorersは、中毒性のある放置型管理＆クリッカーゲームで、あなたは鉱業大物（タイクーン）の役割を担います。目標は、貴重な資源を掘る労働者のチームを管理することで、巨大な探検帝国を築くことです。基本的な鉱山シャフトに1人の探検家から始め、彼らが生み出す収入を使って事業をアップグレードし、より多くの労働者を雇い、マネージャーを雇ってプロセスを自動化し、最終的に異なる世界にまたがる新しい、より収益性の高い鉱山をアンロックします。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **コアループ（核となるサイクル）:** ゲームプレイのループはシンプルですが魅力的です。労働者が自動的に掘り、現金を生み出します。その現金を使ってアップグレードを購入します。それらのアップグレードでより速く現金を稼げるようになり、さらに大きなアップグレードを購入できます。この循環は、帝国を拡張していくにつれて続きます。

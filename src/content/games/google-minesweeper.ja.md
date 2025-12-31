@@ -1,13 +1,15 @@
 ---
-title: "Google Minesweeper"
-description: "クラシックな論理パズル：数字の手がかりから安全なセルを推測し、地雷を作動させることなくグリッドをクリアしましょう。"
-iframeSrc: "https://www.minesweepergoogle.com/gameapp.html"
+title: Google Minesweeper
+description: クラシックな論理パズル：数字の手がかりから安全なセルを推測し、地雷を作動させることなくグリッドをクリアしましょう。
+iframeSrc: 'https://www.minesweepergoogle.com/gameapp.html'
 thumbnail: /new-images/thumbnails/google-minesweeper.jpg
-urlstr: "google-minesweeper"
-score: "4.7/5  (181 votes)"
-tags: ["puzzle", "logic"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: google-minesweeper
+score: 4.7/5  (181 votes)
+tags:
+  - puzzle
+  - logic
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -25,6 +27,7 @@ locale: ja
 ### 操作方法
 - マウス/タッチ操作。オプションの同時押し（コーディング）やクイックオープンショートカットはホストによって異なります。
 
+<!-- i18n:section:tips -->
 ### ヒント
 - 誤爆を防ぐために、一貫したマーキングルールを保ちましょう。
 - 推測せざるを得ないときは、間違っていた場合に最も多くの情報を明らかにするタイルを選びましょう。

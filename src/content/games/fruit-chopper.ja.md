@@ -1,13 +1,16 @@
 ---
-title: "Fruit Chopper"
-description: "Fruit Chopperのために刃を研ぎましょう！危険な爆弾を避けながら、飛んでくるフルーツの集中砲火をスライスしましょう。どれだけ高得点を取れますか？"
-iframeSrc: "https://1cgb9ogmd6780.h5games.usercontent.goog/v/37g4pe88slmfo/"
+title: Fruit Chopper
+description: Fruit Chopperのために刃を研ぎましょう！危険な爆弾を避けながら、飛んでくるフルーツの集中砲火をスライスしましょう。どれだけ高得点を取れますか？
+iframeSrc: 'https://1cgb9ogmd6780.h5games.usercontent.goog/v/37g4pe88slmfo/'
 thumbnail: /new-images/thumbnails/fruit-chopper.png
-urlstr: "fruit-chopper"
-score: "4.2/5  (2345 votes)"
-tags: ["action", "casual", "flash"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: fruit-chopper
+score: 4.2/5  (2345 votes)
+tags:
+  - action
+  - casual
+  - flash
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +20,7 @@ locale: ja
 Fruit Chopperは、反射神経と精度をテストする、テンポの速いジューシーなアーケードゲームです。画面は空中を飛ぶさまざまな美味しいフルーツでいっぱいになります。あなたのミッションは、指またはマウスのスワイプで、できるだけ多くをスライスすることです。しかし注意してください！危険な爆弾がフルーツに混ざっており、1つでも当てるとゲームオーバーです。印象的なコンボを作り、できるだけ長く生き残ることで、最高得点に挑戦しましょう。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **コンボでスライス:** 高得点への鍵は、単一の連続したスワイプで複数のフルーツをスライスすることです。3フルーツのコンボは良いですが、4または5フルーツのコンボは巨大なスコアボーナスを与えます。

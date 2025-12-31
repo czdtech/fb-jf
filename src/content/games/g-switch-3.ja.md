@@ -1,13 +1,16 @@
 ---
-title: "G-Switch 3"
-description: "新しいトラップと、タイミングと一貫性をテストする強固なローカルマルチプレイヤーモードを備えた、高速重力ランナーです。"
-iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221121/2/index.html"
+title: G-Switch 3
+description: 新しいトラップと、タイミングと一貫性をテストする強固なローカルマルチプレイヤーモードを備えた、高速重力ランナーです。
+iframeSrc: >-
+  https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221121/2/index.html
 thumbnail: /new-images/thumbnails/g-switch-3.jpg
-urlstr: "g-switch-3"
-score: "4.7/5  (801 votes)"
-tags: ["runner", "platformer"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: g-switch-3
+score: 4.7/5  (801 votes)
+tags:
+  - runner
+  - platformer
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -25,6 +28,7 @@ locale: ja
 ### 操作方法
 - フリップには1つのキー/タップ。対戦モードではプレイヤーごとのキーです。
 
+<!-- i18n:section:tips -->
 ### ヒント
 - 先読みするために目を画面中央に保ちます。
 - 音楽のリズムを使用してフリップのケーデンス（拍子）を安定させます。

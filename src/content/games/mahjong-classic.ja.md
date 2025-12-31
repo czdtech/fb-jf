@@ -1,13 +1,17 @@
 ---
-title: "Mahjong Classic"
-description: "麻雀タイルを使った定番の麻雀ソリティアです。同じ絵柄でブロックされていないタイルをペアで消し、盤面をクリアします。"
-iframeSrc: "https://mahjongclassic.h5games.usercontent.goog/v/6tue6un26r7v0/"
+title: Mahjong Classic
+description: 麻雀タイルを使った定番の麻雀ソリティアです。同じ絵柄でブロックされていないタイルをペアで消し、盤面をクリアします。
+iframeSrc: 'https://mahjongclassic.h5games.usercontent.goog/v/6tue6un26r7v0/'
 thumbnail: /new-images/thumbnails/mahjong-classic.png
-urlstr: "mahjong-classic"
-score: "4.6/5  (2900 votes)"
-tags: ["puzzle", "thinky", "casual", "card"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: mahjong-classic
+score: 4.6/5  (2900 votes)
+tags:
+  - puzzle
+  - thinky
+  - casual
+  - card
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +21,7 @@ locale: ja
 麻雀クラシックは、麻雀タイルを使った定番のソリティアパズルです。伝統的な麻雀のように役を作るのではなく、同じ絵柄のペアを見つけて取り除き、積み重なったレイアウトをすべて消すことが目的です。どのペアを先に消すかで次の手が変わるため、観察と順番選びが重要になります。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **フリータイルのルール:** マッチできるのは「フリー」なタイルだけです。左右のどちらかが空いていて、上に他のタイルが載っていない状態が基本になります。

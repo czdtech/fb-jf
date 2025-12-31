@@ -1,13 +1,16 @@
 ---
-title: "Jewel Christmas Mania"
-description: "クリスマス風のマッチ3パズルです。宝石を入れ替えてそろえ、各レベルの目標を達成します。"
-iframeSrc: "https://jewelchristmasmania.h5games.usercontent.goog/v/3vom8bn0qgmto/"
+title: Jewel Christmas Mania
+description: クリスマス風のマッチ3パズルです。宝石を入れ替えてそろえ、各レベルの目標を達成します。
+iframeSrc: 'https://jewelchristmasmania.h5games.usercontent.goog/v/3vom8bn0qgmto/'
 thumbnail: /new-images/thumbnails/jewel-christmas-mania.png
-urlstr: "jewel-christmas-mania"
-score: "4.7/5  (2500 votes)"
-tags: ["puzzle", "casual", "flash"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: jewel-christmas-mania
+score: 4.7/5  (2500 votes)
+tags:
+  - puzzle
+  - casual
+  - flash
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +20,7 @@ locale: ja
 Jewel Christmas Maniaは、クリスマス風の演出が入ったマッチ3パズルです。宝石を入れ替えて3つ以上をそろえ、盤面から消して得点しながら、各レベルの目標を達成します。特殊宝石やブースターを活用すると、障害物の除去や一気消しがしやすくなります。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **特殊宝石の組み合わせを探す:** 一列に3つ以上の宝石をマッチさせるか、特定の形（LやTなど）でマッチさせると、強力な特殊宝石が作られます。これらは列全体、行全体をクリアしたり、爆発して大きなエリアをクリアしたりできます。

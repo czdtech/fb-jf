@@ -1,13 +1,18 @@
 ---
-title: "Comfy Farm コンフィ・ファーム"
-description: "「Comfy Farm」へようこそ！種をまき、水をやり、収穫して夢の農場を作ろう。害虫から作物を守り、設備を自動化して、最高の居心地（Comfy）を手に入れろ。"
-iframeSrc: "https://comfyfarm.h5games.usercontent.goog/v/73m7i3ndifhg0/"
+title: Comfy Farm コンフィ・ファーム
+description: >-
+  「Comfy
+  Farm」へようこそ！種をまき、水をやり、収穫して夢の農場を作ろう。害虫から作物を守り、設備を自動化して、最高の居心地（Comfy）を手に入れろ。
+iframeSrc: 'https://comfyfarm.h5games.usercontent.goog/v/73m7i3ndifhg0/'
 thumbnail: /new-images/thumbnails/comfy-farm.png
-urlstr: "comfy-farm"
-score: "4.3/5  (2000 votes)"
-tags: ["casual", "strategy", "clicker"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: comfy-farm
+score: 4.3/5  (2000 votes)
+tags:
+  - casual
+  - strategy
+  - clicker
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 locale: ja
 ---
 
@@ -19,6 +24,7 @@ locale: ja
 稼いだお金で新しい種を買ったり、自動水やり機などの便利なアップグレードを購入して、農場をさらに拡大・自動化しましょう。カラスなどの害虫との戦いも農家の大事な仕事です。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲーム攻略と戦略
 
 1.  **農業サイクル:** 基本は「耕す」「植える」「水やり」「収穫」の繰り返しです。作物が育つ時間を無駄にしないよう、常に手を動かし続けましょう。

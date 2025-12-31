@@ -1,13 +1,16 @@
 ---
-title: "Hoop Stars"
-description: "Hoop Starsはリングフリップの技術ゲームです。回転させ、フリップのタイミングを計り、ライバルより先にペグ（棒）の上にリングをきれいに落としましょう。"
-iframeSrc: "https://6si9877n1hvh8.h5games.usercontent.goog/v/717o1ln0arjho/"
+title: Hoop Stars
+description: Hoop Starsはリングフリップの技術ゲームです。回転させ、フリップのタイミングを計り、ライバルより先にペグ（棒）の上にリングをきれいに落としましょう。
+iframeSrc: 'https://6si9877n1hvh8.h5games.usercontent.goog/v/717o1ln0arjho/'
 thumbnail: /new-images/thumbnails/hoop-stars.png
-urlstr: "hoop-stars"
-score: "3.9/5  (1739 votes)"
-tags: ["sports", "action", "2 player"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: hoop-stars
+score: 3.9/5  (1739 votes)
+tags:
+  - sports
+  - action
+  - 2 player
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +20,7 @@ locale: ja
 Hoop Starsは、素早いリングフリップ対決です。中央のペグ（棒）の周りでリングを回転させ、障害物を越えてフリップします。ペグの上にきれいに着地するフリップが得点になります。失敗すると時間を失います。対決では、生のスピードよりも、一貫したタイミングと賢い角度の設定が報われます。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **事前回転（プレスピン）:** フリップする前に、快適な角度まで回転させましょう。

@@ -1,13 +1,18 @@
 ---
-title: "Fruit Cube Blast"
-description: "Fruit Cube Blastでジューシーなレベルをブラストしましょう！マッチするフルーツキューブのグループをタップして爆発的なコンボを作り、この楽しいカラフルなパズルゲームでボードをクリアしましょう。"
-iframeSrc: "https://5pj67mkaqugmo.h5games.usercontent.goog/v/151if1r687t30/"
+title: Fruit Cube Blast
+description: >-
+  Fruit Cube
+  Blastでジューシーなレベルをブラストしましょう！マッチするフルーツキューブのグループをタップして爆発的なコンボを作り、この楽しいカラフルなパズルゲームでボードをクリアしましょう。
+iframeSrc: 'https://5pj67mkaqugmo.h5games.usercontent.goog/v/151if1r687t30/'
 thumbnail: /new-images/thumbnails/fruit-cube-blast.jpg
-urlstr: "fruit-cube-blast"
-score: "4.2/5  (1770 votes)"
-tags: ["puzzle", "casual", "clicker"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: fruit-cube-blast
+score: 4.2/5  (1770 votes)
+tags:
+  - puzzle
+  - casual
+  - clicker
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +22,7 @@ locale: ja
 Fruit Cube Blastは、鮮やかで爆発的な「タップしてブラスト」パズルゲームです。アイテムを交換するマッチ3ゲームとは異なり、このゲームでは、隣接する同一のフルーツキューブのグループ（2つ以上）をタップしてボードからブラストします。目標は、戦略的にキューブをクリアし、強力なコンボを作成することで、レベル固有の目標を達成することです。より大きなキューブグループをブラストすることで、さらに多くのレベルを壮大な方法でクリアするためのロケットや爆弾のような特殊なブースターを作成できます。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **大きい方が良い:** 常にマッチするキューブの最大のグループを探してタップします。2または3の小さなグループをタップするのは効率が悪いです。大きなグループはより多くのスペースをクリアするだけでなく、強力なブースターを作成する唯一の方法でもあります。

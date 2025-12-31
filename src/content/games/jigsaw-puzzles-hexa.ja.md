@@ -1,13 +1,16 @@
 ---
-title: "Jigsaw Puzzles Hexa"
-description: "六角形のピースを配置して画像を完成させるパズルです。時間制限なしで自分のペースで進められます。"
-iframeSrc: "https://jigsawpuzzleshexa.h5games.usercontent.goog/v/5e9bm1tuf1me0/"
+title: Jigsaw Puzzles Hexa
+description: 六角形のピースを配置して画像を完成させるパズルです。時間制限なしで自分のペースで進められます。
+iframeSrc: 'https://jigsawpuzzleshexa.h5games.usercontent.goog/v/5e9bm1tuf1me0/'
 thumbnail: /new-images/thumbnails/jigsaw-puzzles-hexa.jpg
-urlstr: "jigsaw-puzzles-hexa"
-score: "4.5/5  (2600 votes)"
-tags: ["puzzle", "casual", "thinky"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: jigsaw-puzzles-hexa
+score: 4.5/5  (2600 votes)
+tags:
+  - puzzle
+  - casual
+  - thinky
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +20,7 @@ locale: ja
 Jigsaw Puzzles Hexaは、六角形のピースを組み合わせて画像を完成させるパズルです。一般的なジグソーのような不規則形状ではなく、六角形のブロッククラスターを配置していきます。インベントリからピースをドラッグしてボードに置き、全体が埋まるように組み立てるのが目的です。時間制限はなく、空間把握を使って進めます。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **図形を分析する:** ピースの配置を開始する前に、与えられた図形を見てください。通常のジグソーとは異なり、幾何学的なブロッククラスターで作業しています。それらがボード上でどのように一緒に適合するかを精神的に描いてください。

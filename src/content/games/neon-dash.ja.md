@@ -1,13 +1,15 @@
 ---
-title: "Neon Dash"
-description: "Neon Dashはリズムに合わせて走るランナーゲームです。ネオンの障害物を避け、ジャンプのタイミングを合わせて進みます。"
-iframeSrc: "https://1bveca4tkimog.h5games.usercontent.goog/v/4bq2naj6mtutg/"
+title: Neon Dash
+description: Neon Dashはリズムに合わせて走るランナーゲームです。ネオンの障害物を避け、ジャンプのタイミングを合わせて進みます。
+iframeSrc: 'https://1bveca4tkimog.h5games.usercontent.goog/v/4bq2naj6mtutg/'
 thumbnail: /new-images/thumbnails/neon-dash.png
-urlstr: "neon-dash"
-score: "4.2/5  (1589 votes)"
-tags: ["action", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: neon-dash
+score: 4.2/5  (1589 votes)
+tags:
+  - action
+  - casual
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +19,7 @@ locale: ja
 Neon Dashは、ネオンの世界を走り抜けるリズムベースのランナーです。音楽のビートに合わせてジャンプし、（ある場合は）スライドしながら障害物を避けます。慣れてくるとパターンが読めるようになり、安定して進めます。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **リズムを聞く:** 音楽がジャンプのタイミングを導きます。

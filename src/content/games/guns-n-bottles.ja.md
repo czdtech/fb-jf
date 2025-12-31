@@ -1,13 +1,16 @@
 ---
-title: "Guns n' Bottles"
-description: "この射撃ギャラリーゲームで、タイミングと精度を試してください。銃が回転する中で完璧な瞬間にタップしてボトルを撃ち抜き、赤いボトルは避けましょう。"
-iframeSrc: "https://aktestgunsandbottles.h5games.usercontent.goog/v/51pcsm84fc4ag/"
+title: Guns n' Bottles
+description: この射撃ギャラリーゲームで、タイミングと精度を試してください。銃が回転する中で完璧な瞬間にタップしてボトルを撃ち抜き、赤いボトルは避けましょう。
+iframeSrc: 'https://aktestgunsandbottles.h5games.usercontent.goog/v/51pcsm84fc4ag/'
 thumbnail: /new-images/thumbnails/guns-n-bottles.png
-urlstr: "guns-n-bottles"
-score: "4.1/5  (1800 votes)"
-tags: ["shooting", "action", "casual"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: guns-n-bottles
+score: 4.1/5  (1800 votes)
+tags:
+  - shooting
+  - action
+  - casual
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +20,7 @@ locale: ja
 Guns n' Bottlesは、タイミングと精度が試されるワンタッチのアーケードゲームです。画面中央で銃が回転し続け、ボトルが現れます。目的は、狙いが合う瞬間にタップして弾を発射し、ボトルを割ることです。緑のボトルでポイントを稼ぎ、赤いボトルは避けましょう。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **回転を予測する:** 銃がボトルを直接狙っている時にタップしてはいけません。少し先を狙う（偏差射撃）必要があります。弾の移動時間と銃の継続的な回転を考慮して、銃がターゲットと重なる直前に発射しましょう。

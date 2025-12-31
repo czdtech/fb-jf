@@ -1,13 +1,15 @@
 ---
-title: "Futoshiki"
-description: "Futoshikiは論理を鋭くします。行/列の一意性で数字を配置し、不等号を尊重して優雅な推論を行いましょう。"
-iframeSrc: "https://6g7i64vihegl0.h5games.usercontent.goog/v/7bd886r75d4ag/"
+title: Futoshiki
+description: Futoshikiは論理を鋭くします。行/列の一意性で数字を配置し、不等号を尊重して優雅な推論を行いましょう。
+iframeSrc: 'https://6g7i64vihegl0.h5games.usercontent.goog/v/7bd886r75d4ag/'
 thumbnail: /new-images/thumbnails/futoshiki.jpg
-urlstr: "futoshiki"
-score: "4.3/5  (2098 votes)"
-tags: ["puzzle", "thinky"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: futoshiki
+score: 4.3/5  (2098 votes)
+tags:
+  - puzzle
+  - thinky
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +19,7 @@ locale: ja
 Futoshiki（「等しくない」）は、数独のようなラテン方陣論理パズルですが、隣接するセル間に不等号（>、<）があります。各行/列にすべての数字が正確に1回ずつ含まれ、すべての不等式が満たされるように数字を配置する必要があります。記号は、優雅な推論を強化する強力なチェーンを作成します。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **不等式チェーン:** A>B>CはA≥C+2を意味します。それに応じて候補を鉛筆で書きます。

@@ -1,13 +1,16 @@
 ---
-title: "Moving Co"
-description: "Moving Coは物流パズルゲームです。家具をパックし、トラックを整理し、効率的に移動し、スペース管理をマスターします。"
-iframeSrc: "https://movingco.h5games.usercontent.goog/v/3crgi5efdnml0/"
+title: Moving Co
+description: Moving Coは物流パズルゲームです。家具をパックし、トラックを整理し、効率的に移動し、スペース管理をマスターします。
+iframeSrc: 'https://movingco.h5games.usercontent.goog/v/3crgi5efdnml0/'
 thumbnail: /new-images/thumbnails/moving-co.png
-urlstr: "moving-co"
-score: "3.8/5  (1364 votes)"
-tags: ["puzzle", "thinky", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: moving-co
+score: 3.8/5  (1364 votes)
+tags:
+  - puzzle
+  - thinky
+  - casual
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +20,7 @@ locale: ja
 Moving Coは、移動会社を運営することに挑戦します。家具やボックスをトラックに効率的にパックし、スペースを管理し、すべてを安全に配達します。各レベルは、ますます複雑なパッキングパズルを提示します。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **大きなアイテムを最初に:** 最初に大きな家具を配置します。

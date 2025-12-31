@@ -1,13 +1,18 @@
 ---
-title: "Liquid puzzle sort colors"
-description: "Liquid puzzle sort colorsはリラックスした注ぎ分けソートです。色で液体を注ぎ、バッファーを計画し、デッドロックなしでボトルを完成させます。"
-iframeSrc: "https://1b6vgcuid4b98.h5games.usercontent.goog/v/2vus27k78710o/"
+title: Liquid puzzle sort colors
+description: >-
+  Liquid puzzle sort
+  colorsはリラックスした注ぎ分けソートです。色で液体を注ぎ、バッファーを計画し、デッドロックなしでボトルを完成させます。
+iframeSrc: 'https://1b6vgcuid4b98.h5games.usercontent.goog/v/2vus27k78710o/'
 thumbnail: /new-images/thumbnails/liquid-puzzle-sort-colors.jpg
-urlstr: "liquid-puzzle-sort-colors"
-score: "4.1/5  (1979 votes)"
-tags: ["puzzle", "thinky", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: liquid-puzzle-sort-colors
+score: 4.1/5  (1979 votes)
+tags:
+  - puzzle
+  - thinky
+  - casual
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +22,7 @@ locale: ja
 Liquid puzzle sort colorsは、色付きの液体をボトル間で注ぎ分けてそろえるソートパズルです。注げるのは同じ色の上か、空のボトルだけ。空きボトル（バッファー）をどう残すかと注ぐ順番が重要で、手詰まり（ソフトロック）を避けながら各ボトルを1色で完成させます。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  空のボトルを確保：できれば空きボトルを2本残します。行き詰まりを避ける逃げ道になります。

@@ -1,13 +1,15 @@
 ---
-title: "Jurassic Run"
-description: "恐竜を操作するエンドレスランナーです。レーン移動やジャンプ/スライドで障害物を避け、ハイスコアを目指します。"
-iframeSrc: "https://260c4eej53igg.h5games.usercontent.goog/v/5h99gs1rujgk0/"
+title: Jurassic Run
+description: 恐竜を操作するエンドレスランナーです。レーン移動やジャンプ/スライドで障害物を避け、ハイスコアを目指します。
+iframeSrc: 'https://260c4eej53igg.h5games.usercontent.goog/v/5h99gs1rujgk0/'
 thumbnail: /new-images/thumbnails/jurassic-run.png
-urlstr: "jurassic-run"
-score: "3.9/5  (1721 votes)"
-tags: ["action", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: jurassic-run
+score: 3.9/5  (1721 votes)
+tags:
+  - action
+  - casual
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +19,7 @@ locale: ja
 Jurassic Runは、恐竜が走るジャングルを舞台にした高速エンドレスランナーです。先の障害物を見て、レーン移動やジャンプ/スライドで回避します。速度が上がるほど判断の余裕が減るため、早めの位置取りが重要になります。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  遠くを見て、早めにレーン変更の準備をします。

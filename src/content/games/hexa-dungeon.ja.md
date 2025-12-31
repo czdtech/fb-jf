@@ -1,13 +1,16 @@
 ---
-title: "Hexa Dungeon"
-description: "Hexa Dungeonに入り、スケルトンを撃退しよう！同じ色の六角形タイルを繋げて、敵に強力な攻撃を繰り出すユニークなマッチ3パズルゲームです。"
-iframeSrc: "https://hexadungeon.h5games.usercontent.goog/v/0j3gttu45n06g/"
+title: Hexa Dungeon
+description: Hexa Dungeonに入り、スケルトンを撃退しよう！同じ色の六角形タイルを繋げて、敵に強力な攻撃を繰り出すユニークなマッチ3パズルゲームです。
+iframeSrc: 'https://hexadungeon.h5games.usercontent.goog/v/0j3gttu45n06g/'
 thumbnail: /new-images/thumbnails/hexa-dungeon.png
-urlstr: "hexa-dungeon"
-score: "4.3/5  (2100 votes)"
-tags: ["puzzle", "action", "strategy"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: hexa-dungeon
+score: 4.3/5  (2100 votes)
+tags:
+  - puzzle
+  - action
+  - strategy
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +20,7 @@ locale: ja
 Hexa Dungeonは、マッチ3のメカニクスとダンジョン探索の戦闘を組み合わせた革新的なパズルRPGです。このゲームでは、ダンジョン内でスケルトンやその他のモンスターと対決します。敵を攻撃するには、下にあるパズルボード上で、同じ色の隣接する六角形タイルを3つ以上のチェーン（連鎖）として繋げる必要があります。作るチェーンが長いほど、攻撃はより強力になります。強力な攻撃を行うことと、次の手のために配置を整えることのバランスを取る必要がある戦略的なゲームです。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **長いチェーン = 大ダメージ:** コアとなる戦略は、同じタイルの可能な限り長いチェーンを作ることです。5つのタイルのチェーンは、3つのチェーンよりもはるかに大きなダメージを与えます。動く前に、常に最良の接続がないかボードをスキャンしましょう。

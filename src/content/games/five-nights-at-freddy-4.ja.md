@@ -1,13 +1,15 @@
 ---
-title: "Five Nights at Freddy's 4 (FNAF 4)"
-description: "寝室での悪夢サバイバル：呼吸音に耳を澄まし、ドアとクローゼットを管理し、懐中電灯を賢く使って夜の恐怖を食い止めましょう。"
-iframeSrc: "https://ubg77.github.io/fix/fnaf2/fnaf4.html"
+title: Five Nights at Freddy's 4 (FNAF 4)
+description: 寝室での悪夢サバイバル：呼吸音に耳を澄まし、ドアとクローゼットを管理し、懐中電灯を賢く使って夜の恐怖を食い止めましょう。
+iframeSrc: 'https://ubg77.github.io/fix/fnaf2/fnaf4.html'
 thumbnail: /new-images/thumbnails/five-nights-at-freddy-4.jpg
-urlstr: "five-nights-at-freddy-4"
-score: "4.9/5  (625 votes)"
-tags: ["horror", "strategy"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: five-nights-at-freddy-4
+score: 4.9/5  (625 votes)
+tags:
+  - horror
+  - strategy
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -25,6 +27,7 @@ locale: ja
 ### 操作方法
 - マウス/キーボードで場所を移動します。ドアや懐中電灯の特定のキーはホストによって異なります。
 
+<!-- i18n:section:tips -->
 ### ヒント
 - ドアでライトを照らす前に、必ず音を聞きましょう。
 - ループ（左のドア → 右のドア → クローゼット → ベッド）を作り、素早く繰り返しましょう。
